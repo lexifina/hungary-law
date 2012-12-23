@@ -2,9 +2,9 @@
 
 19. § (1) A támogatási célok megvalósulásának nyomon követése érdekében a támogatásra jogosultnak az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló 18/2009. (III. 6.) FVM rendeletben foglaltak szerint évente nyilatkoznia kell a monitoring adatokról.
 
-(2)[^30] Az (1) bekezdésben foglalt monitoring adatszolgáltatáson túl a célprogram-előírások gazdasági és környezeti hatásainak vizsgálata érdekében az IH hatásindikátor monitorozó rendszert működtet, amely feladat végrehajtása során az MgSZH közreműködését veszi igénybe.
+(2)[^38] Az (1) bekezdésben foglalt monitoring adatszolgáltatáson túl a célprogram-előírások gazdasági és környezeti hatásainak vizsgálata érdekében az IH hatásindikátor monitorozó rendszert működtet, amely feladat végrehajtása során az NÉBIH közreműködését veszi igénybe.
 
-(3)[^31]
+(3)[^39]
 
 (4) A (2) bekezdés szerinti rendszer keretében a támogatásra jogosultak közül reprezentatív mintasokaság kerül kiválasztásra, különösen az alábbi szempontok figyelembevételével:
 
@@ -30,7 +30,7 @@ cb) szaktanácsadási szolgáltatás igénybevétele szerint;
 
 cc) az iskolai végzettség szerint.
 
-(5)[^32] Az IH a mintasokaság kiválasztási eljárását követően írásban értesíti a kiválasztásra került támogatásra jogosultakat.
+(5)[^40] Az IH a mintasokaság kiválasztási eljárását követően írásban értesíti a kiválasztásra került támogatásra jogosultakat.
 
 (6) Az a támogatásra jogosult, aki a mintasokaságba kiválasztásra került, köteles a támogatási időszak alatt, valamint az azt követő gazdálkodási év során a gazdasági, természetvédelmi, talajvédelmi és vízvédelmi hatások monitorozása érdekében
 
@@ -40,6 +40,6 @@ b) a hatásindikátor monitorozó rendszer működése érdekében meghatározot
 
 (7) E kötelezettségek teljesítésével kapcsolatban a támogatásra jogosultat költség nem terheli. A hatásindikátor monitorozó rendszer működésére és a (6) bekezdésben foglalt vizsgálatok elvégzésének költségeire a monitoringot végző részére az IH az EMVA Technikai Segítségnyújtás intézkedés keretéből nyújt fedezetet.
 
-[^30]: A 19. § (2) bekezdése a 98/2011. (X. 28.) VM rendelet 9. §-ával megállapított szöveg.
-[^31]: A 19. § (3) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
-[^32]: A 19. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 5. §-ával megállapított szöveg.
+[^38]: A 19. § (2) bekezdése a 98/2011. (X. 28.) VM rendelet 9. §-ával megállapított, a 139/2012. (XII. 22.) VM rendelet 19. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^39]: A 19. § (3) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^40]: A 19. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 5. §-ával megállapított szöveg.

@@ -18,7 +18,7 @@ e) szója, olajrepce, napraforgó nem követheti egymást a vetésváltásban.
 
 a) az ugaroltatás ideje alatt tilos műtrágya és növényvédő szer alkalmazása;
 
-b)[^23] legalább 10 cm magas tarló hagyása mellett kaszálást vagy szárzúzást évente, június 15-ét követően lehet végezni, kivéve a Dunavölgyi-sík, a Homokhátság, valamint a Hortobágy MTÉT esetében, ahol a kaszálás legkorábbi időpontja június 30., a kaszálást követően a kaszálék a területről lehordható;
+b)[^28] legalább 10 cm magas tarló hagyása mellett kaszálást vagy szárzúzást évente, június 15-ét követően lehet végezni, kivéve a Dunavölgyi-sík, a Homokhátság, valamint a Hortobágy MTÉT esetében, ahol a kaszálás legkorábbi időpontja június 30., a kaszálást követően a kaszálék a területről lehordható;
 
 c) a zöldugart július 30. után lehet feltörni, a növényi részek talajba forgatásával;
 
@@ -30,9 +30,9 @@ f) a pihentetett terület nem vehető figyelembe zöldugarként.
 
 (5) A 29. § (3) bekezdése szerinti ritka növényfajták termesztése esetén egy adott kötelezettségvállalással érintett egybefüggő területen belül a ritka növényfajtát tartalmazó tábla mellett nem lehet ugyanolyan fajú, nem ritka növényfajtával borított táblát elhelyezni.
 
-(6)[^24] Az 58. § (4) bekezdés d) és g) pontja, az 59. § (4) bekezdés e) és h) pontja, a 60. § (4) bekezdés e) és h) pontja, a 65. § (4) bekezdés d) és g) pontja, valamint a 66. § (4) bekezdés d) és g) pontja szerinti előírásokat nem kell alkalmazni azon táblára vonatkozóan, amelyen a teljes támogatási időszak alatt évelő szálas pillangós takarmánynövény termesztése történik.
+(6)[^29] Az 58. § (4) bekezdés d) és g) pontja, az 59. § (4) bekezdés e) és h) pontja, a 60. § (4) bekezdés e) és h) pontja, a 65. § (4) bekezdés d) és g) pontja, valamint a 66. § (4) bekezdés d) és g) pontja szerinti előírásokat nem kell alkalmazni azon táblára vonatkozóan, amelyen a teljes támogatási időszak alatt évelő szálas pillangós takarmánynövény termesztése történik.
 
-(7)[^25] A 3. § (1) bekezdés a) pontja szerinti célprogramok esetében a támogatásra jogosultnak az MVH által közleményben közzétett módon be kell jelentenie:
+(7)[^30] A 3. § (1) bekezdés a) pontja szerinti célprogramok esetében a támogatásra jogosultnak az MVH által közleményben közzétett módon be kell jelentenie:
 
 a) zöldtrágyázás megvalósítása esetén a növényállomány beforgatását megelőző 15 napon belül a zöldtrágyázásra kerülő növényfajt, a munkálat végzésének helyét és időpontját;
 
@@ -40,6 +40,12 @@ b) másodvetés megvalósítása esetén a munkálatok elvégzését követő 15
 
 c) középmély lazítás megvalósítása esetén a munkálat elvégzését követő 15 napon belül a megvalósítás helyét és időpontját.
 
-[^23]: A 16. § (4) bekezdés b) pontja a 92/2011. (X. 5.) VM rendelet 4. §-ával megállapított szöveg.
-[^24]: A 16. § (6) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
-[^25]: A 16. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
+(8)[^31] A vetésszerkezeti előírások vizsgálatánál azok a területek, amelyekre egy adott évben nem nyújtottak be kifizetési kérelmet, az adott gazdálkodási évnél egyéb kultúraként kerülnek figyelembevételre.
+
+(9)[^32] Ha a 2013/2014., azaz az ötödik gazdálkodási év vonatkozásában a zöldtrágya növény beforgatása legkésőbb 2014. október 31-ig megtörténik, akkor a zöldtrágyázást megvalósítottnak kell tekinteni.
+
+[^28]: A 16. § (4) bekezdés b) pontja a 92/2011. (X. 5.) VM rendelet 4. §-ával megállapított szöveg.
+[^29]: A 16. § (6) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
+[^30]: A 16. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
+[^31]: A 16. § (8) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.
+[^32]: A 16. § (9) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.

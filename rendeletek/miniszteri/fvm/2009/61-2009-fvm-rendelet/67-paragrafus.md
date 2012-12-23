@@ -28,13 +28,13 @@ ab) a gyepek túllegeltetése tilos;
 
 ac) felülvetés, vegyszeres gyomirtás, műtrágyázás, öntözés tilos;
 
-ad) a célprogram 3. év végére legalább 0,3 állategység/ha legeltethető állatállományt kell elérni;
+ad)[^146] a célprogram harmadik gazdálkodási évének végétől legalább 0,3 állategység/ha legeltethető állatállomány megléte;
 
 ae) pásztoroló vagy szakaszolt legeltetést kell alkalmazni;
 
 af) kaszálás évente egy alkalommal engedélyezett;
 
-ag)[^128] őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
+ag)[^147] őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 b) kaszálás esetén:
 
@@ -42,11 +42,11 @@ ba) a gyepet legalább kétszeri kaszálással kell hasznosítani, amelybe az ő
 
 bb) felülvetés, vegyszeres gyomirtás, műtrágyázás, szervestrágyázás és öntözés tilos;
 
-bc)[^129] a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
+bc)[^148] a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 bd) a gazdálkodási év során kizárólag kaszálás történik.
 
-(5)[^130] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybe vételére
+(5)[^149] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybe vételére
 
 a) nem jogosult:
 
@@ -60,6 +60,7 @@ ba) legeltetés esetén 77 euró/ha-nak megfelelő forintösszeg;
 
 bb) kaszálás esetén 40 euró/ha-nak megfelelő forintösszeg.
 
-[^128]: A 67. § (4) bekezdés a) pont ag) alpontja a 92/2011. (X. 5.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^129]: A 67. § (4) bekezdés b) pont bc) alpontja a 92/2011. (X. 5.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^130]: A 67. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^146]: A 67. § (4) bekezdés a) pont ad) alpontja a 139/2012. (XII. 22.) VM rendelet 13. §-ával megállapított szöveg.
+[^147]: A 67. § (4) bekezdés a) pont ag) alpontja a 92/2011. (X. 5.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^148]: A 67. § (4) bekezdés b) pont bc) alpontja a 92/2011. (X. 5.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^149]: A 67. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 18. § (3) bekezdésével megállapított szöveg.

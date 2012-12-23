@@ -1,11 +1,11 @@
-27. § (1) Amennyiben a támogatásra jogosult a támogatási jogosultsággal érintett ültetvényét kivágja, és nem telepíti újra, úgy a támogatásra jogosultnak a kivágás befejezésének bejelentésétől számított 10 napon belül a 26. § (1) bekezdésében meghatározott, a kivágott terület nagysága szerint alkalmazandó visszavonási kérelmet kell benyújtania az érintett területre vonatkozóan az MVH-hoz.
+27. §[^54] (1) Ha a támogatásra jogosult a támogatási jogosultsággal érintett ültetvényét kivágja, a kivágás tényét a kivágás befejezésétől számított 10 napon belül az MVH honlapján közzétett nyomtatványon be kell jelentenie az MVH-nak.
 
-(2)[^46] Ha a támogatásra jogosult az ültetvényt kivágja és újratelepíti, úgy a kivágás befejezésétől számított 10 napon belül nyilatkozatot kell tennie a kivágás tényéről és arról, hogy az újratelepítést 12 hónapon belül elvégzi.
+(2) Ha a kivágás anélkül történt, hogy a támogatásra jogosult a kivágott, támogatási jogosultsággal érintett ültetvényét újra kívánná telepíteni, akkor az (1) bekezdés szerinti bejelentéssel egyidejűleg, a 26. § (1) bekezdésben meghatározott, a kivágott terület nagyságához igazodó visszavonási kérelmet kell benyújtania az MVH-nak.
 
-(3) A támogatásra jogosultnak az újratelepítésről a megvalósulást követően 10 napon belül tájékoztatnia kell az MVH-t, egyben nyilatkoznia kell az újratelepítésre került növényfajról.
+(3) A (2) bekezdésben meghatározott visszavonási kérelem benyújtásának elmaradását úgy kell tekinteni, hogy a kivágás az újratelepítés szándékával történt, és a támogatásra jogosult az újratelepítést a kivágás befejezésétől számított 12 hónapon belül elvégzi.
 
-(4) Amennyiben a területen az ültetvénykivágást követő első kifizetési kérelmének benyújtási időpontjában nem található ültetvény, vagy a támogatásra jogosult a (3) bekezdés szerinti tájékoztatási kötelezettségének nem tett eleget, a támogatásra jogosult az adott gazdálkodási évre vonatkozóan az adott kötelezettségvállalással érintett egybefüggő területre támogatásra nem jogosult.
+(4) A támogatásra jogosultnak az újratelepítés befejezését a megvalósulást követő 10 napon belül, az MVH honlapján közzétett nyomtatványon az újratelepített növényfaj megnevezésével együtt be kell jelentenie az MVH-nak.
 
-(5) Amennyiben a területen az ültetvénykivágást követő második kifizetési kérelem benyújtási időszakban sem található ültetvény, az adott kötelezettségvállalással érintett egybefüggő terület támogatási jogosultsága megszűnik, és az adott kötelezettségvállalással érintett egybefüggő területre vonatkozóan igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
+(5) A támogatásra jogosult kizárólag a (4) bekezdésben meghatározott bejelentés megtétele után nyújthat be olyan kifizetési kérelmet, amelyben az újratelepített, kötelezettségvállalással érintett egybefüggő területen lévő ültetvény alapján a támogatási összeg kifizetését igényli.
 
-[^46]: A 27. § (2) bekezdése a 92/2011. (X. 5.) VM rendelet 10. §-ával megállapított szöveg.
+[^54]: A 27. § a 139/2012. (XII. 22.) VM rendelet 6. §-ával megállapított szöveg.

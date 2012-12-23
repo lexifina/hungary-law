@@ -30,13 +30,13 @@
 
 ## A mintát kódszámozott zacskóba kell gyűjteni és mintaazonosító jeggyel ellátni, amelynek tartalmaznia kell a következőket:
 
-## – földhasználó neve, regisztrációs száma;
+## – földhasználó neve, regisztrációs száma, postacíme, elektronikus levélcíme (amennyiben rendelkezik);
 
 ## – célprogram megnevezése;
 
-## – gazdaság helye;
+## – termőterület adatai, minta származási helye: blokkazonosító, helyrajzi szám, tábla terület, tábla sorszám;
 
-## – tábla jele;
+## – mintavételt végző megnevezése (ha a megrendelő és a mintavevő nem ugyanaz);
 
 ## – minta kódja;
 
@@ -44,7 +44,7 @@
 
 ## – mintavétel mélysége.
 
-19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
+19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^196]
 
 Levélanalízis során betartandó követelmények
 
@@ -84,18 +84,8 @@ Mintavételi eszközök:
 
 – mintaazonosító jegy, amelynek tartalmaznia kell a következőket:
 
-– földhasználó neve, regisztrációs száma
+– földhasználó neve, regisztrációs száma, postacíme, elektronikus levélcíme (amennyiben rendelkezik)
 
 – célprogram megnevezése
 
-– gazdaság helye
-
-– tábla jele
-
-– minta kódja
-
-– mintavétel időpontja, növény fenofázisa
-
-– növény megnevezése, fajta
-
-A növénymintavétel módja, időpontja, helye ültetvények esetében
+[^196]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.

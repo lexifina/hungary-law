@@ -12,6 +12,10 @@ c) juh-, kecskefajokra vonatkozóan a juh- és kecskefajok egyedeinek Egységes 
 
 (2) A kifizetési kérelem adminisztratív ellenőrzése során az állategységhez kötött jogosultság vizsgálatakor az (1) bekezdés a)–c) pontjaiban hivatkozott nyilvántartásokban szereplő, az egyes célprogramokon belül legeltethető fajok esetében a kérelem benyújtásának gazdálkodási évére meghatározott napi állományadatok éves átlaga alapján számított állategységet kell figyelembe venni, amelyet a Mezőgazdásági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kizárólag az (1) bekezdésben hivatkozott nyilvántartásokból állapít meg.
 
+(2a)[^19] A legeltethető állatállományra vonatkozó előírások betartása valamennyi célprogram esetén úgy kerül megállapításra, hogy a 3. § (1) bekezdés b) pontjában, valamint d) pontjának db)–dc) alpontjai szerinti célprogramokban támogatott kötelezettségvállalással érintett egybefüggő területek támogatott területe, valamint az adott célprogramban előírt állatsűrűség szorzatának eredménye képezi azt az állategységet, amely a támogatásra jogosultnak a különböző célprogramokban előírt állatsűrűségi minimum előírások teljesítéséhez szükséges.
+
 (3) A célprogramra vonatkozó előírások teljesítésének helyszíni ellenőrzése során az állategység a gazdálkodási napló adatai alapján kerül meghatározásra.
 
 (4) A bérlegeltetés keretén belül legeltetett állatok a célprogramra vonatkozó előírások teljesítésének helyszíni ellenőrzése során figyelembe vehetők, azonban a jogosultsági feltételek megállapításakor nem.
+
+[^19]: A 10. § (2a) bekezdését a 139/2012. (XII. 22.) VM rendelet 3. §-a iktatta be.

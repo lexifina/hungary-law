@@ -30,7 +30,7 @@ d) a célprogram 5 éve alatt egyszer középmély (35–60 cm) lazítás alkalm
 
 e) a vetésváltás szabályainak betartása;
 
-f)[^125] a célprogram 5 éve alatt a vetésszerkezeten belül a főnövény vonatkozásában szemeskukorica, csemegekukorica, burgonya, csicsóka, dohány, cukorrépa, takarmányrépa és a napraforgó együttes részaránya legfeljebb 20% lehet;
+f)[^143] a célprogram 5 éve alatt a vetésszerkezeten belül a főnövény vonatkozásában szemeskukorica, csemegekukorica és a napraforgó együttes részaránya legfeljebb 20% lehet;
 
 g) a célprogram 5 éve alatt legalább egyszer zöldtrágya növény termesztése és zöldtrágyázás megvalósítása, amely másodvetésben is történhet;
 
@@ -40,4 +40,4 @@ i) lejtő irányára merőleges művelés alkalmazása.
 
 (5) A támogatás mértéke a célprogramba bevitt terület után 211 euró/ha-nak megfelelő forintösszeg.
 
-[^125]: A 65. § (4) bekezdés f) pontja a 77/2009. (VI. 30.) FVM rendelet 13. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^143]: A 65. § (4) bekezdés f) pontja a 139/2012. (XII. 22.) VM rendelet 12. §-ával megállapított szöveg.

@@ -6,9 +6,9 @@
 
 (4) A 23/2007. (IV. 17.) FVM rendelet 13. § (2) bekezdésétől eltérően a kifizetési kérelemhez nem kell mellékelni a blokktérképet.
 
-(5)[^75]
+(5)[^84]
 
-(6)[^76] A kifizetési kérelemhez ritka növényfajták termesztése esetén mellékelni kell a ritka növényfajtáról a 29. § (3) bekezdésében foglaltak alapján kiállított dokumentumot.
+(6)[^85] A kifizetési kérelemhez ritka növényfajták termesztése esetén mellékelni kell a ritka növényfajtáról a 29. § (3) bekezdésében foglaltak alapján kiállított dokumentumot.
 
-[^75]: A 43. § (5) bekezdését a 44/2012. (V. 3.) VM rendelet 12. §-a hatályon kívül helyezte.
-[^76]: A 43. § (6) bekezdését a 31/2010. (III. 30.) FVM rendelet 16. § (2) bekezdése iktatta be.
+[^84]: A 43. § (5) bekezdését a 44/2012. (V. 3.) VM rendelet 12. §-a hatályon kívül helyezte.
+[^85]: A 43. § (6) bekezdését a 31/2010. (III. 30.) FVM rendelet 16. § (2) bekezdése iktatta be.
