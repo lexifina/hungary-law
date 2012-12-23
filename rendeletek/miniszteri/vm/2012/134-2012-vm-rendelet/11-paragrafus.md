@@ -1,3 +1,0 @@
-## 10. § Az R1. 12. §-a helyébe a következő rendelkezés lép:
-
-## „12. § Ez a rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatások alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet és a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-ai 1535/2007/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.”
