@@ -1,0 +1,1 @@
+23. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 1. számú melléklet V. 1. e) pontjában a „szerv” szövegrész helyébe a „szerv és az állami adóhatóság” szöveg lép.
