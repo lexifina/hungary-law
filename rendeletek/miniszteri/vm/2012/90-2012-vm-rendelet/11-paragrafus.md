@@ -1,3 +1,5 @@
-## 10. § E rendelet vonatkozásában az euró/forint átváltási árfolyam meghatározása tekintetében a közös agrárpolitika finanszírozásáról szóló, 2005. június 21-i 1290/2005/EK tanácsi rendelet 45. cikk 2. bekezdésében foglaltak az irányadóak.
+## 10/A. §[^1] E rendelet 1–10. §-ában felsorolt támogatási jogcímekhez kapcsolódó maximális elvi fajlagos támogatási összegeket az 1. melléklet tartalmazza.
 
 ## 11. Záró rendelkezés
+
+[^1]: A 10/A. §-t a 139/2012. (XII. 22.) VM rendelet 22. § (1) bekezdése iktatta be.
