@@ -50,6 +50,10 @@
 
 | 22. | C001 | Kapcsolódó állat-egészségügyi szolgáltatás, gyógykezelés, immunizálás | baromfi és szarvasmarha sertés (tenyészkoca) | Szolgáltatási díj és anyagköltség: legfeljebb 3000 Ft/vágóhídra szállított állategység (ÁE)** Legalább egyszer fialt koca után havonta 1500 Ft,/egyed |
 
+| 23. | B012 | Myxomatózis elleni vakcinázás | házinyúl | Vakcinázás: 100 Ft/alkalom/egyed |
+
+| 24. | B013 | Nyulak vérzéses betegsége (RHDV) elleni vakcinázás | házinyúl | Vakcinázás: 100 Ft/alkalom/egyed |
+
 ## * Egy vizsgálatnak 1 minta vagy gyűjtőminta vizsgálata számít, ahány szalmonella dúsítás történik, annyiszor 4500 Ft számolható el a szalmonella kimutatásra (napos állatokból 5 állat vizsgálata=1 minta=4500Ft).
 
 ## ** Állategység:
@@ -60,7 +64,7 @@
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^33]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^35]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -122,4 +126,4 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^33]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^35]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.

@@ -18,7 +18,7 @@
 
 ## Az összesítőn csak egy állatfajra vonatkozó számlák nyújthatók be.
 
-## III.[^35]
+## III.[^37]
 
 ## – A kedvezményezett neve, regisztrációs száma;
 
@@ -50,7 +50,7 @@
 
 ## Mellékletek: számlamásolatok
 
-## VII.[^36]
+## VII.[^38]
 
 ## élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása
 
@@ -60,7 +60,7 @@
 
 ## Keltezés, az igazgató főállatorvos (cégszerű) aláírása
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^37]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^39]
 
 ## Támogatási kérelem adattartalma
 
@@ -104,16 +104,16 @@
 
 7.1. Számla másolatok
 
-7.2.[^38] A C001 technikai kód alapján történő igényléshez a Traces bizonyítvány(ok) másolata(i) vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány(ok) másolata(i), kivétel: sertés állatfaj (tenyészkoca).
+7.2.[^40] A C001 technikai kód alapján történő igényléshez a Traces bizonyítvány(ok) másolata(i) vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány(ok) másolata(i), kivétel: sertés állatfaj (tenyészkoca).
 
-7.3.[^39] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
+7.3.[^41] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
 
 8. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása a támogatási kérelemben megjelölt engedélyes által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a jogosult támogatási összeg megjelöléséről.
 
 9. Keltezés, az igazgató főállatorvos (cégszerű) aláírása
 
-[^35]: A 3. számú melléklet III. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
-[^36]: A 3. számú melléklet VII. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
-[^37]: A 4. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^38]: A 4. számú melléklet 7.2. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.
-[^39]: A 4. számú melléklet 7.3. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.
+[^37]: A 3. számú melléklet III. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
+[^38]: A 3. számú melléklet VII. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
+[^39]: A 4. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^40]: A 4. számú melléklet 7.2. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.
+[^41]: A 4. számú melléklet 7.3. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.

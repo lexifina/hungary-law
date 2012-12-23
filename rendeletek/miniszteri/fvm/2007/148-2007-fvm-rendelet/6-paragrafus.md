@@ -6,11 +6,15 @@
 
 (1b)[^14] Azok az engedélyesek, akiknek a 2012. évben elvégzett szolgáltatásokra vonatkozó támogatási kérelmét az MVH kizárólag a nem tárgyhavi számlakiállításra való hivatkozással jogerősen – részben vagy teljes egészében – elutasította, 2012. augusztus 20. napjáig a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz a 2012. évben elvégzett szolgáltatásokról szóló, elutasított számlák másolatát ismételten csatolva az (1) bekezdés szerinti, új támogatási kérelmet nyújthatnak be. Ez a támogatási kérelem kizárólag a fentiek miatt elutasított számlá(ka)t tartalmazhat. Az ismételten benyújtott támogatási kérelmeket és számlákat a baromfifélékre, illetve az egyéb állatfajokra vonatkozóan külön kell benyújtani.
 
+(1c)[^15] Az engedélyes a 2012. évben július-december tárgyhónapokban elvégzett B012 és B013 technikai kódú állat-egészségügyi szolgáltatásokról az 5. § (7) bekezdésnek és a 6. § (1) bekezdésnek megfelelően kiállított számlák másolatát a 6. § (1) bekezdés szerinti adattartalmú támogatási kérelemhez csatolva 2013. január 20-áig postai úton megküldi a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak.
+
+(1d)[^16] Azok az engedélyesek, akiknek a 2012. július 1. és július 27. között elvégzett állat-egészségügyi szolgáltatásokra vonatkozó támogatási kérelmét az MVH kizárólag a B011 technikai kóddal jelölt állat-egészségügyi szolgáltatások nem támogathatóságára való hivatkozással jogerősen – részben vagy teljes egészében – elutasította, 2013. január 20. napjáig a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz az (1) bekezdés szerinti, új támogatási kérelmet nyújthatnak be, amelyről az MVH a szolgáltatás elvégzésének időpontjában hatályos jogszabályi rendelkezések alapján hoz döntést. A kérelemhez csatolni kell a 2012. július 1. és július 27. között elvégzett, B011 technikai kóddal jelölt állat-egészségügyi szolgáltatásokról szóló, elutasított számlák másolatát. Az új támogatási kérelem kizárólag a fentiek miatt elutasított számlát vagy számlákat tartalmazhat.
+
 (2) Ha az engedélyes a 2011. január, február és március hónapokban elvégzett állat-egészségügyi szolgáltatásokra vonatkozó 3. számú mellékletben meghatározott adattartalmú összesítőt 2011. március 31-ig a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság részére benyújtotta, akkor azt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság és az MVH támogatási kérelemként el kell fogadja.
 
-(3)[^15] Az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén – belföldi szállítás és sertés állatfaj (tenyészkoca) kivételével – csatolnia kell a Traces bizonyítvány másolatát. A nyomtatvány akkor fogadható el, ha annak „1.25. Az állatok/termékek felhasználási célja” pontjában „Vágás” megjelölés szerepel. A nyomtatványon fel kell tüntetni a vágásra szállított állatfajt, az egyedszámot és a származási helyet. Szarvasmarha állatfaj esetében a nyomtatványon vagy az engedélyes és a kedvezményezett által együttesen aláírt külön nyilatkozaton az állatok életkorát is fel kell tüntetni.
+(3)[^17] Az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén – belföldi szállítás és sertés állatfaj (tenyészkoca) kivételével – csatolnia kell a Traces bizonyítvány másolatát. A nyomtatvány akkor fogadható el, ha annak „1.25. Az állatok/termékek felhasználási célja” pontjában „Vágás” megjelölés szerepel. A nyomtatványon fel kell tüntetni a vágásra szállított állatfajt, az egyedszámot és a származási helyet. Szarvasmarha állatfaj esetében a nyomtatványon vagy az engedélyes és a kedvezményezett által együttesen aláírt külön nyilatkozaton az állatok életkorát is fel kell tüntetni.
 
-(3a)[^16] Sertés állatfaj (tenyészkoca) kivételével az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén – amennyiben belföldi vágóhídra történt a szállítás – az engedélyesnek az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány másolatát kell csatolnia. A 2012. szeptember 4-ét megelőzően elvégzett szolgáltatások esetén az Állategészségügyi bizonyítvány másolatát kell a kérelemhez csatolni.
+(3a)[^18] Sertés állatfaj (tenyészkoca) kivételével az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén – amennyiben belföldi vágóhídra történt a szállítás – az engedélyesnek az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány másolatát kell csatolnia. A 2012. szeptember 4-ét megelőzően elvégzett szolgáltatások esetén az Állategészségügyi bizonyítvány másolatát kell a kérelemhez csatolni.
 
 (4) Sertés állatfaj (tenyészkoca) esetén az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozatot kell csatolnia.
 
@@ -30,12 +34,14 @@
 
 (12) Az MVH az adott támogatási évre vonatkozóan benyújtott összes támogatási kérelem érdemi elbírálását követően, évente egy alkalommal összesítő értesítést küld a kedvezményezett részére a tárgyévben igénybevett támogatott állat-egészségügyi szolgáltatásról és annak támogatástartalmáról.
 
-(13)[^17] A jóváhagyott támogatási összegről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért, agrár-vidékfejlesztésért felelős miniszternek (a továbbiakban: miniszter) és a NÉBIH elnökét is tájékoztatja.
+(13)[^19] A jóváhagyott támogatási összegről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért, agrár-vidékfejlesztésért felelős miniszternek (a továbbiakban: miniszter) és a NÉBIH elnökét is tájékoztatja.
 
 [^11]: A 6. § a 23/2011. (III. 28.) VM rendelet 4. §-ával megállapított szöveg.
 [^12]: A 6. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^13]: A 6. § (1a) bekezdését a 93/2011. (X. 12.) VM rendelet 7. §-a iktatta be, szövege a 111/2012. (X. 29.) VM rendelet 7. §-ával megállapított szöveg.
 [^14]: A 6. § (1b) bekezdését a 77/2012. (VII. 27.) VM rendelet 2. § (2) bekezdése iktatta be.
-[^15]: A 6. § (3) bekezdése a 111/2012. (X. 29.) VM rendelet 8. §-ával megállapított szöveg.
-[^16]: A 6. § (3a) bekezdését a 87/2012. (VIII. 27.) VM rendelet 16. §-a iktatta be, szövege a 111/2012. (X. 29.) VM rendelet 8. §-ával megállapított szöveg.
-[^17]: A 6. § (13) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
+[^15]: A 6. § (1c) bekezdését a 139/2012. (XII. 22.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^16]: A 6. § (1d) bekezdését a 139/2012. (XII. 22.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 6. § (3) bekezdése a 111/2012. (X. 29.) VM rendelet 8. §-ával megállapított szöveg.
+[^18]: A 6. § (3a) bekezdését a 87/2012. (VIII. 27.) VM rendelet 16. §-a iktatta be, szövege a 111/2012. (X. 29.) VM rendelet 8. §-ával megállapított szöveg.
+[^19]: A 6. § (13) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
