@@ -1,0 +1,3 @@
+## 1. § A földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedelmi engedélyesnél felmerült bevételi hiány megtérítésének részletes szabályairól szóló 27/2009. (VI. 25.) KHEM rendelet (a továbbiakban: R1.) 4. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A számlában (számviteli bizonylatban) foglalt fizetési kötelezettséget – a (10) bekezdés szerinti eltéréssel – a kötelezettnek a tárgyhónapot követő második hónap utolsó napjáig – ha ez nem banki nap, akkor a tárgyhónapot követő második hónap utolsó napját követő banki napon – kell teljesíteni, függetlenül attól, hogy ezen időpontig a fizetendő pénzeszköz a felhasználótól a kötelezetthez beérkezett-e.”

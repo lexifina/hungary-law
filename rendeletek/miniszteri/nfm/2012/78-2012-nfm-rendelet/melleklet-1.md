@@ -1,0 +1,3 @@
+## 49. § E rendelet 47. §-a és 15. melléklete az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
+
+1. melléklet a 78/2012. (XII. 22.) NFM rendelethez

@@ -1,0 +1,5 @@
+## 41–42. §
+
+## 9. Az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztásáról és a szétosztás során alkalmazható árak meghatározásának módjáról szóló
+
+## 109/2007. (XII. 23.) GKM rendelet módosítása
