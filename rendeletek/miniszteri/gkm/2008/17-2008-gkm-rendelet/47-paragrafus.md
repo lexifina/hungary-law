@@ -2,9 +2,9 @@
 
 (2) A nyelvismereti vizsgáztatási engedélyt kérelemre a légiközlekedési hatóság adja ki három év időtartamra.
 
-(3)[^5] Nyelvismereti vizsgáztatási engedélyt az a jogi személy kaphat, amely rendelkezik a 4. mellékletben meghatározott személyi, tárgyi feltételekkel és a nyelvismereti vizsga módszerére vonatkozó követelményeknek megfelelő vizsgarendszerrel.
+(3)[^40] Nyelvismereti vizsgáztatási engedélyt az a jogi személy kaphat, amely rendelkezik a 4. mellékletben meghatározott személyi, tárgyi feltételekkel és a nyelvismereti vizsga módszerére vonatkozó követelményeknek megfelelő vizsgarendszerrel.
 
-(4)[^6]
+(4)[^41]
 
-[^5]: A 47. § (3) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 50. § (2) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: A 47. § (4) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 50. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 47. § (3) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 50. § (2) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 47. § (4) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 50. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

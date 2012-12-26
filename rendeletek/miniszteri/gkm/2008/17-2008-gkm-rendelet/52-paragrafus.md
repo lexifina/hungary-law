@@ -1,4 +1,4 @@
-## 51. §[^8] Az EGT-állam nemzeti felügyeleti hatósága által légiforgalmi irányító képzésére kiadott képzési engedély, tanúsítvány Magyarországon minden további eljárás nélkül érvényes az engedélyben, tanúsítványban foglalt feltételeknek megfelelően.
+## 51. §[^44]
 
 ## VII. Fejezet
 
@@ -10,7 +10,7 @@
 
 (2) E rendelet 46. § (2) bekezdése és a 28. § (3) bekezdés d) pontja 2009. január 1-jén lép hatályba.
 
-(3)[^9]
+(3)[^45]
 
-[^8]: A 51. § a 91/2011. (XII. 30.) NFM rendelet 60. § a) pontja szerint módosított szöveg.
-[^9]: Az 52. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^44]: Az 51. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^45]: Az 52. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

@@ -1,12 +1,6 @@
-15. § (1) Légiforgalmi irányító szakszolgálati engedélyt az a kérelmező kaphat, aki
+## 14. §[^18]
 
-a) betöltötte a 21. életévét,
-
-b) rendelkezik gyakornok légiforgalmi irányító szakszolgálati engedéllyel,
-
-c) a jogosításhoz és – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéshez szükséges munkahelyi képzést, valamint a munkahelyi vizsgát sikeresen teljesítette, és
-
-d) rendelkezik orvosi minősítéssel.
+15. § (1)[^19]
 
 (2) Munkahelyi gyakorlati oktató kiterjesztést – a 16. § (3) bekezdésében meghatározott eltéréssel – az a kérelmező kaphat, aki
 
@@ -43,3 +37,6 @@ ab) ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéssel, tovább�
 ac) munkahelyen, a kérelmet közvetlenül megelőző legalább hat hónapban, vagy repülőtéri irányítás látással jogosítás, repülőtéri irányítás műszeres jogosítás és toronyirányítás kiterjesztés esetén a kérelmet közvetlenül megelőző legalább három hónapban légiforgalmi irányító szolgálati tevékenységet látott el, és
 
 b) az EUROCONTROL által szervezett vagy a légiközlekedési hatóság által jóváhagyott légiforgalmi irányító munkahelyi vizsgáztatói tanfolyamot sikeresen elvégezte.
+
+[^18]: A 14. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^19]: A 15. § (1) bekezdését a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
