@@ -18,7 +18,7 @@
 
 ## felhatalmazott: aki rendelkezik a hatóság felhatalmazásával;
 
-## haditechnikai eszköz: a Magyar Honvédség állományában rendszeresített, használatba vett, és/vagy a nemzetgazdaságból honvédelmi célokra bevont (igénybe vett), a honvédségi szervezetek feladatainak megoldásához vagy közvetve azok végrehajtásához szükséges harceszközök, biztosító- és kiszolgáló eszközök, melyeket a Haditechnikai eszközök és szolgáltatások kiviteléről, behozataláról, illetve reexportjáról szóló 48/1991. (III. 27.) Korm. rendelet mellékletének fejezetei felsorolnak, azok hatástalanított változatai és makettjei;
+## haditechnikai eszköz: a Magyar Honvédség állományában rendszeresített, használatba vett, és/vagy a nemzetgazdaságból honvédelmi célokra bevont (igénybe vett), a honvédségi szervezetek feladatainak megoldásához vagy közvetve azok végrehajtásához szükséges harceszközök, biztosító- és kiszolgáló eszközök, melyeket a haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről, valamint a vállalkozások tanúsításáról szóló 160/2011. (VIII. 18.) Korm. rendelet 1. melléklete felsorol, és azok hatástalanított változata;
 
 ## haditechnikai szolgáltatás: a haditechnikai eszközökkel összefüggő termelési, üzemeltetési, javítási és technológiai ismeret és dokumentáció, valamint az eszközökhöz kapcsolódó szolgáltatás, ide értve a bérmunkát, a termék karbantartását, javítását, minőségi vizsgálatát, műszaki tervezését, továbbá kezelésének és alkalmazásának oktatását;
 
