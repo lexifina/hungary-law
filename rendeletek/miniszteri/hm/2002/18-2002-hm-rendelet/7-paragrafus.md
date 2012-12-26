@@ -6,15 +6,15 @@
 
 (4) A határozatot a károsulttal – illetve, ha van, akkor képviselőjével – ajánlott küldeményként kell közölni.
 
-(5)[^2] Az első fokú kártérítési határozat ellen fellebbezést az ügyre vonatkozó iratokkal együtt a Honvédelmi Minisztérium Jogi és Információvédelmi Főosztályának kell megküldeni, mely lefolytatja a másodfokú eljárást.
+(5)[^4] Az első fokú kártérítési határozat ellen fellebbezést az ügyre vonatkozó iratokkal együtt a Honvédelmi Minisztérium Igazgatási és Jogi Képviseleti Főosztályának kell megküldeni, mely lefolytatja a másodfokú eljárást.
 
-(6)[^3] A másodfokú kártérítési határozatot – a honvédelmi miniszter jogkörében eljárva – a honvédelmi minisztérium közigazgatási államtitkára adja ki, írja alá.
+(6)[^5] A másodfokú kártérítési határozatot – a honvédelmi miniszter jogkörében eljárva – a honvédelmi minisztérium közigazgatási államtitkára adja ki, írja alá.
 
-(7)[^4] A másodfokú határozattal megállapított kártérítést annak jogerőre emelkedésétől számított 30 napon belül ki kell fizetni. A kifizetéseket a Honvédelmi Minisztérium Központi Pénzügyi és Számviteli Hivatala teljesíti.
+(7)[^6] A másodfokú határozattal megállapított kártérítést annak jogerőre emelkedésétől számított 30 napon belül ki kell fizetni. A kifizetéseket a HM KPH teljesíti.
 
-(8)[^5] A kereset benyújtásával perré alakult eljárásban alperesként a Honvédelmi Minisztériumot kell megjelölni.
+(8)[^7] A kereset benyújtásával perré alakult eljárásban alperesként a Honvédelmi Minisztériumot kell megjelölni.
 
-[^2]: A 7. § (5) bekezdése a 8/2005. (III. 25.) HM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a 2005. április 1. napját követően indult ügyekben kell alkalmazni.
-[^3]: A 7. § (6) bekezdése a 8/2005. (III. 25.) HM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a 2005. április 1. napját követően indult ügyekben kell alkalmazni.
-[^4]: A 7. § (7) bekezdését a 8/2005. (III. 25.) HM rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2005. április 1. napját követően indult ügyekben kell alkalmazni.
-[^5]: A 7. § (8) bekezdését a 8/2005. (III. 25.) HM rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2005. április 1. napját követően indult ügyekben kell alkalmazni.
+[^4]: A 7. § (5) bekezdése a 8/2005. (III. 25.) HM rendelet 2. §-ával megállapított, a 23/2012. (XII. 18.) HM rendelet 30. § b) pontja szerint módosított szöveg.
+[^5]: A 7. § (6) bekezdése a 8/2005. (III. 25.) HM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a 2005. április 1. napját követően indult ügyekben kell alkalmazni.
+[^6]: A 7. § (7) bekezdését a 8/2005. (III. 25.) HM rendelet 3. §-a iktatta be, szövege a 23/2012. (XII. 18.) HM rendelet 30. § c) pontja szerint módosított szöveg.
+[^7]: A 7. § (8) bekezdését a 8/2005. (III. 25.) HM rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2005. április 1. napját követően indult ügyekben kell alkalmazni.

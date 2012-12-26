@@ -1,14 +1,14 @@
 8. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban a Hjt. hatálybalépését követően indult kártérítési eljárásokban is alkalmazni kell.
 
-(2)[^6]
+(2)[^8]
 
-Melléklet a 18/2002. (IV. 5.) HM rendelethez
-
-Szolgálati betegségek a Magyar Honvédségben
+Melléklet a 18/2002. (IV. 5.) HM rendelethez[^9]
 
 Szolgálati betegségek a Magyar Honvédségben
 
-| Sorszám | A szolgálati betegség megnevezése | A szolgálati tevékenység |
+Szolgálati betegségek a Magyar Honvédségben
+
+| Sor- szám | A szolgálati betegség megnevezése | A szolgálati tevékenység |
 
 | 1. | Ólom és vegyületei által okozott mérgezés | Minden olyan szolgálati tevékenység, amely ólomnak és vegyületeinek keletkezésére és felhasználására irányul |
 
@@ -68,7 +68,7 @@ Szolgálati betegségek a Magyar Honvédségben
 
 | 29. | Dioxán (dietilén-oxid) által okozott mérgezés | Minden olyan szolgálati tevékenység, amely során a dioxánt oldószerként alkalmazzák vagy amely során dioxánt is felhasználnak |
 
-| 30. | Zaj okozta halláskárosodás | Minden olyan szolgálati helyen végzett tevékenység, ahol a zajszint a 18/2001 (IV. 28.) EüM rendelet előírásaiban meghatározott zajszintet meghaladja, és az ott szolgálatot teljesítő öt éven át zajártalomnak volt kitéve |
+| 30. | Zaj okozta halláskárosodás | Minden olyan szolgálati helyen végzett tevékenység, ahol a zajszint a munkavállalókat érő zajexpozícióra vonatkozó minimális egészségi és biztonsági követelményekről szóló 66/2005. (XII. 22.) EüM rendeletben meghatározott zajszintet meghaladja, és az ott szolgálatot teljesítő öt éven át zajártalomnak volt kitéve. |
 
 | 31. | Fertőző betegségek által okozott idült egészségkárosodás | Minden olyan szolgálati tevékenység, amely heveny fertőző betegek egészségügyi ellátására, kiszolgálására irányul |
 
@@ -82,4 +82,5 @@ Szolgálati betegségek a Magyar Honvédségben
 
 | 36. | Diffúz, progrediáló fibrózissal járó keményfémpneumokoniózis | Minden olyan szolgálati tevékenység, amely keményfémporok keletkezésével jár |
 
-[^6]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 102. pontja hatályon kívül helyezte.
+[^8]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 102. pontja hatályon kívül helyezte.
+[^9]: A melléklet a 23/2012. (XII. 18.) HM rendelet 29. §-a szerint módosított szöveg.
