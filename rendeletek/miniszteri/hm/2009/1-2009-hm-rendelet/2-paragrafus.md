@@ -2,11 +2,11 @@
 
 a) alkalmazó: a HM azon szervének vezetője, aki felelős a beszerzésre, rendszeresítésre tervezett hadfelszerelési anyaggal, katonai védőeszközzel szemben támasztott – a rendszeresítésért, és az üzemeltetésért felelőssel egyeztetett – hadműveleti, harcászati és műszaki követelmények (a továbbiakban: HMK) meghatározásáért, az alkalmazási elvek tervezéséért, a kiképzési, hadműveleti-harcászati alkalmazás irányításáért;
 
-MI>b) állományilletékes parancsnok:
+b)[^3] állományilletékes parancsnok:
 
 – a hivatásos és a szerződéses állomány tekintetében a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 2. § (3) pontjában meghatározott személy,
 
-– a köztisztviselői és a közalkalmazotti állomány, illetőleg munkavégzésre irányuló egyéb jogviszonyok tekintetében a munkáltatói jogkör gyakorlója,
+– a kormánytisztviselői és kormányzati ügykezelői és a közalkalmazotti állomány, illetőleg munkavégzésre irányuló egyéb jogviszonyok tekintetében a munkáltatói jogkör gyakorlója,
 
 – a hallgatói állomány tekintetében az oktatási intézmény vezetője;
 
@@ -24,15 +24,15 @@ h) haditechnikai ellenőrző vizsgálat: olyan vizsgálat, amely annak megállap
 
 i) haditechnikai eszköz: a hadfelszerelési anyagok részét képező, a honvédelmi szervezet állománytáblájában (munkaköri jegyzékében) szükségletként előírt katonai rendeltetésű eszköz, amely a felkészítéshez, kiképzéshez, a katonai műveletek végrehajtásához, támogatásához, kiszolgálásához szükséges;
 
-j) használó honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 89. § (2) bekezdése alapján ingatlant használó honvédelmi szervezet;
+j)[^4] használó honvédelmi szervezet: honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 42. § (2) bekezdése alapján ingatlant használó honvédelmi szervezet;
 
 k) katonai védőeszköz: kizárólag, illetve elsődlegesen katonai célra kifejlesztett, gyártott, hazai, illetve külföldi forrásból beszerzett és külön eljárással rendszeresített, a veszélyforrás kiküszöbölésére vagy annak károsító hatása csökkentésére szolgáló, a személyi állomány szolgálati, kiképzési feladatainak ellátásához használt, alkalmazott egyéni vagy kollektív védő funkciójú felszerelés, hadfelszerelési anyag, tárgy, eszköz (a honvédségi tűzoltó alegységek védőfelszerelésének a kivételével);
 
 l) kötött szolgálati és munkahely: az a kijelölt szolgálati vagy munkahely (terület, körlet, útvonal), amelyet az oda beosztott, vezényelt személy, kizárólag szolgálati elöljárója vagy az adott tevékenységet közvetlenül irányító személy, munkahelyi vezető engedélyével, illetőleg a váltás végrehajtását követően hagyhat el;
 
-m) munkavédelmi hatóság: a munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 230/2008. (IX. 12.) Korm. rendelet 3. §-ában kijelölt személyek (szervezet), akik a Magyar Honvédség, valamint a katonai nemzetbiztonsági szolgálatok vonatkozásában munkabiztonsági, illetve munkaegészségügyi hatósági hatáskört látnak el;
+m)[^5] munkavédelmi hatóság: a munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 3. §-ában kijelölt személyek (szervezet), akik a Magyar Honvédség, valamint a Katonai Nemzetbiztonsági Szolgálat vonatkozásában munkabiztonsági, illetve munkaegészségügyi hatósági hatáskört látnak el;
 
-n) rendkívüli munkavégzési körülmények: minden olyan helyzetben történő szolgálatteljesítés, munkavégzés, amelyben az adott tevékenység végrehajtása az általánosan jellemző körülményektől, veszélyhelyzettől, ismert veszélyforrások hatóképességétől eltérő körülmények – így különösen a Hvt. 70. § (1) bekezdés a)–i) pontjai szerinti feladatok ellátása, a Hvt. 204. § (1) bekezdése szerinti alkalmazás, állomásozás, békefenntartás, külföldi területen végzett humanitárius és (had)műveleti területen végzett tevékenység, továbbá mentési, műszaki mentési, veszélyes anyag kárelhárítási, katasztrófa- és kárelhárítási tevékenység, közvetlen baleseti veszély elhárítása, ismeretlen veszélyforrás esetében történő beavatkozás – között történik;
+n)[^6] rendkívüli munkavégzési körülmények: minden olyan helyzetben történő szolgálatteljesítés, munkavégzés, amelyben az adott tevékenység végrehajtása az általánosan jellemző körülményektől, veszélyhelyzettől, ismert veszélyforrások hatóképességétől eltérő körülmények – így különösen a Hvt. 36. § (1) és (2) bekezdésében meghatározott feladatok ellátása, a Hvt. 80. §-a szerinti alkalmazás, állomásozás, békefenntartás, külföldi területen végzett humanitárius és (had)műveleti területen végzett tevékenység, továbbá mentési, műszaki mentési, veszélyes anyag kárelhárítási, katasztrófa- és kárelhárítási tevékenység, közvetlen baleseti veszély elhárítása, ismeretlen veszélyforrás esetében történő beavatkozás – között történik;
 
 o) rendszeresítés: olyan szabályozott eljárás, amelynek eredményeként a munkaeszköz, hadfelszerelési anyag, katonai védőeszköz felvételre kerül az MH rendszerébe;
 
@@ -45,3 +45,8 @@ r) üzemelés-biztonsági terv: az építési engedélyezési eljárásokhoz kö
 s) veszélyes haditechnikai eszköz: olyan haditechnikai eszköz, amely használata során az állomány egészsége, testi épsége – megfelelő védelem hiányában – károsító hatásnak lehet kitéve;
 
 t) üzemeltetésért felelős: az építmények, munkahelyek vonatkozásában az üzemeltetési és fenntartási tevékenység ellenőrzéséért felelős honvédelmi szervezet vezetője, a munkaeszközök, hadfelszerelési anyagok és a katonai védőeszközök vonatkozásában az MH fogyasztói logisztikai feladatai ellátásáért felelős honvédelmi szervezet vezetője.
+
+[^3]: A 2. § b) pontja a 23/2012. (XII. 18.) HM rendelet 67. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § j) pontja a 23/2012. (XII. 18.) HM rendelet 67. § d) pontja szerint módosított szöveg.
+[^5]: A 2. § m) pontja a 23/2012. (XII. 18.) HM rendelet 67. § e) és f) pontja szerint módosított szöveg.
+[^6]: A 2. § n) pontja a 23/2012. (XII. 18.) HM rendelet 67. § g) pontja szerint módosított szöveg.
