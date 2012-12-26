@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-29-20-2
 | 2012-01-01 | 2009-29-20-2M.13 | 83/2011. (XII. 29.) NFM rendelet |
 | 2012-04-14 | 2009-29-20-2M.14 | 72/2009. (XII. 7.) KHEM rendelet |
 | 2012-07-04 | 2009-29-20-2M.15 | 72/2009. (XII. 7.) KHEM rendelet |
+| 2012-12-26 | 2009-29-20-2M.16 | 78/2012. (XII. 22.) NFM rendelet |

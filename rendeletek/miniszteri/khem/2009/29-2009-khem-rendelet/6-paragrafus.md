@@ -4,7 +4,7 @@
 
 (3)[^14] A 3. § (1) bekezdés c) pontja szerinti nagykereskedői árrés megállapítása az 1. melléklet 2. pontja szerint történik.
 
-(4)[^15] A 3. § (1) bekezdés d) és f) pontja szerinti árelemek a Hivatal által megállapított rendszerhasználati díjak szerint kerülnek megállapításra.
+(4)[^15] A 3. § (1) bekezdés d) és f) pontja szerinti árelemek a Hivatal által megállapított rendszerhasználati díjak szerint kerülnek megállapításra, azzal az eltéréssel, hogy a d) pont szerinti árelemek közül a szállítás díjának megállapítása során a földgáz rendszerhasználat árszabályozásának kereteiről szóló 74/2009. (XII. 7.) KHEM rendelet [a továbbiakban: 74/2009. (XII. 7.) rendelet] 4. melléklet 1.1.4. pontja szerinti reálhozam tényező 2,28%-os értékkel kerül figyelembevételre. A fentiek szerint, valamint a 74/2009. (XII. 7.) rendelet 4. melléklet 1.1.4. pontja szerinti reálhozam tényezővel megállapított fajlagos értékeket a Hivatal a honlapján közzéteszi.
 
 (5)[^16] A 3. § (1) bekezdés e) pontja szerinti mobilgáz-finanszírozási költség a betárolt földgázmennyiségre negyedévente frissített, az aktuális negyedévet megelőző negyedév második hónapjának 1. és 15. napja közötti időszak banki napjain jegyzett hathavi BUBOR bankközi kamatláb átlaga +75 bázisponton számított finanszírozási költség. A Hivatal az alkalmazandó mobilgáz-finanszírozási költséget és az azt megalapozó számítást honlapján közzéteszi.
 
@@ -27,7 +27,7 @@ b) a második és harmadik negyedév korrekciója esetén legkésőbb az aktuál
 [^12]: A 6. § (1) bekezdése a 72/2009. (XII. 7.) KHEM rendelet 7. § (3) bekezdése szerint módosított szöveg.
 [^13]: A 6. § (2) bekezdését a 18/2010. (XII. 3.) NFM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
 [^14]: A 6. § (3) bekezdése a 18/2010. (XII. 3.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^15]: A 6. § (4) bekezdése a 83/2011. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^15]: A 6. § (4) bekezdése a 78/2012. (XII. 22.) NFM rendelet 15. §-ával megállapított szöveg.
 [^16]: A 6. § (5) bekezdése a 18/2010. (XII. 3.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^17]: A 6. § (6) bekezdését a 72/2009. (XII. 7.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^18]: A 6. § (7) bekezdése a 72/2009. (XII. 7.) KHEM rendelet 2. §-ával megállapított, a 18/2010. (XII. 3.) NFM rendelet 9. § (1) bekezdése szerint módosított szöveg.
