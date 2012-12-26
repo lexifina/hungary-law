@@ -1,4 +1,4 @@
-## 59/A. §[^73] A hivatásos katonák, a tényleges szolgálatot teljesítő tartalékos katonák és a közalkalmazottak helyi közösségi közlekedési eszközzel történő munkába járási utazási költségeinek részbeni vagy egészbeni átvállalását, a 29. § (3) bekezdése szerinti utazás kivételével, az e célra rendelkezésre álló költségvetési előirányzat terhére, az elöljáró parancsnok jóváhagyásával az állományilletékes parancsnok engedélyezheti. A katonai nemzetbiztonsági szolgálatoknál ezt a jogkört a főigazgató gyakorolja.
+## 59/A. §[^75] A hivatásos katonák, a tényleges szolgálatot teljesítő tartalékos katonák és a közalkalmazottak helyi közösségi közlekedési eszközzel történő munkába járási utazási költségeinek részbeni vagy egészbeni átvállalását, a 29. § (3) bekezdése szerinti utazás kivételével, az e célra rendelkezésre álló költségvetési előirányzat terhére, az elöljáró parancsnok jóváhagyásával az állományilletékes parancsnok engedélyezheti. A katonai nemzetbiztonsági szolgálatoknál ezt a jogkört a főigazgató gyakorolja.
 
 ## VII. Fejezet
 
@@ -120,4 +120,4 @@ Ennek megfelelően a ,,nyilatkozat'' szövegben kipontozott helyen ,,nem'' vagy 
 
 13. A rontott vagy fel nem használt menetlevél-nyomtatvány lapokat vissza kell helyezni a tömbbe. A betelt tömböket (tőszelvényeket) a tömb utolsó lapjával együtt kell elhelyezni a pénztárbizonylatok között.
 
-[^73]: Az 59/A. §-t a 12/2010. (V. 12.) HM rendelet 7. §-a iktatta be, szövege a 7/2011. (VIII. 18.) HM rendelet 9. §-ával megállapított szöveg.
+[^75]: Az 59/A. §-t a 12/2010. (V. 12.) HM rendelet 7. §-a iktatta be, szövege a 7/2011. (VIII. 18.) HM rendelet 9. §-ával megállapított szöveg.

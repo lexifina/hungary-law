@@ -4,6 +4,6 @@
 
 42. § (1) Eltérő rendelkezés hiányában a továbbtanuló hivatásos katona és közalkalmazott egyéb utazásának kell tekinteni az oktatási intézmény által szervezett tanfolyamra, képesítést nyújtó levelező oktatásra, tudományos fokozat megszerzésére irányuló felkészülés kötelező foglalkozásaira, vizsgáira, összevonásaira való utazásokat.
 
-(2)[^66]
+(2)[^68]
 
-[^66]: A 42. § (2) bekezdését a 18/2005. (V. 5.) HM rendelet 14. §-ának ötödik francia bekezdése hatályon kívül helyezte.
+[^68]: A 42. § (2) bekezdését a 18/2005. (V. 5.) HM rendelet 14. §-ának ötödik francia bekezdése hatályon kívül helyezte.
