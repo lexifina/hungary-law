@@ -6,7 +6,7 @@
 
 a) tiszt esetében 1–4 évig évente kéthavi, 5–10 évig évente két és fél havi, összesen legfeljebb huszonhárom havi,
 
-b) tiszthelyettes esetében 1–10 évig évente egy és fél havi, 11–15 évig évente kéthavi, összesen legfeljebb huszonöt havi
+b)[^6] altiszt esetében 1–10 évig évente egy és fél havi, 11–15 évig évente kéthavi, összesen legfeljebb huszonöt havi
 
 ## alapilletménynek felel meg.
 
@@ -15,3 +15,5 @@ b) tiszthelyettes esetében 1–10 évig évente egy és fél havi, 11–15 évi
 (3) Az (1) bekezdés alá tartozó szerződéses katonák esetében a továbbszolgálói jutalom mellett a leszerelési segélyt is ki kell számítani és a szolgálati viszony megszűnésekor – ha arra nem a (2) bekezdésben felsorolt okokból kerül sor, a Hjt. 275. § (2) bekezdés alapján – a leszerelési segély és a továbbszolgálói jutalom közül a magasabb összegűt kell folyósítani.
 
 (4) Az (1) bekezdés alapján megállapított továbbszolgálói jutalmat a korábban kifizetett jutalom előleg kifizetéskori összegével csökkenteni kell.
+
+[^6]: A 4. § (1) bekezdés b) pontja a 23/2012. (XII. 18.) HM rendelet 27. §-a szerint módosított szöveg.
