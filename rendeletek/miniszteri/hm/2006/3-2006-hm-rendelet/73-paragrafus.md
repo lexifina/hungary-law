@@ -1,6 +1,6 @@
 ## Katonai NOTAM
 
-73. §[^62] (1) A nemzeti és nemzetközi tájékoztatás együttes teljesíthetősége érdekében, a katonai NOTAM-ok magyar és angol nyelvűek.
+73. §[^63] (1) A nemzeti és nemzetközi tájékoztatás együttes teljesíthetősége érdekében, a katonai NOTAM-ok magyar és angol nyelvűek.
 
 (2) A katonai NOTAM-ok „M” sorozatúak, amelyek számozása minden év január 01-jétől 0001-el kezdődik. A négyszámjegyű sorszámot a folyó év kétszámjegyű jelölése követi (pl. M0001/05).
 
@@ -14,4 +14,4 @@ a) katonai, valamint közös felhasználású katonai és polgári repülőterek
 
 b) a MILAIP egyéb tartalmi elemei tekintetében a katonai légügyi hatóság vagy az üzembentartó.
 
-[^62]: A 73. § a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lépett hatályba.
+[^63]: A 73. § a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lépett hatályba.

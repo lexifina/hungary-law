@@ -2,7 +2,7 @@
 
 72. §[^61] (1) A MILAIP összeállítása, naprakészen tartása és szétosztása a katonai légiforgalmi tájékoztató szolgálat felelősségi körébe tartozik, azt a katonai légügyi hatóság vezetője hagyja jóvá.
 
-(2) A nemzeti és a nemzetközi tájékoztatás együttes teljesíthetősége érdekében a Magyar Köztársaság Katonai Légiforgalmi Tájékoztató Kiadványa két nyelven, magyarul és angolul készül.
+(2)[^62] A nemzeti és a nemzetközi tájékoztatás együttes teljesíthetősége érdekében Magyarország Katonai Légiforgalmi Tájékoztató Kiadványa két nyelven, magyarul és angolul készül.
 
 (3) A MILAIP naprakészen tartása hagyományos (MILAIP AMDT) és AIRAC módosítások (MILAIP AIRAC AMDT), valamint hagyományos (MILAIP SUP) és AIRAC kiegészítések (MILAIP AIRAC SUP) alkalmazásával történik.
 
@@ -21,3 +21,4 @@ a) katonai-, valamint közös felhasználású katonai és polgári repülőtere
 b) egyéb tartalmi elemek tekintetében a katonai légügyi hatóság vagy az üzembentartó.
 
 [^61]: A 72. § a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lép hatályba.
+[^62]: A 27. § (2) bekezdése a 23/2012. (XII. 18.) HM rendelet 55. § b) pontja szerint módosított szöveg.

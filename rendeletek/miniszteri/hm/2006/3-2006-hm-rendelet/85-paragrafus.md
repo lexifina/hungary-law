@@ -4,9 +4,9 @@
 
 (2) Az e rendelet 66. § a)–e) pontjai, 67. § c)–e) pontjai, 72–75. §-ai, továbbá 78–79. §-ai 2007. január 1-jén lépnek hatályba.
 
-(3)–(4)[^87]
+(3)–(4)[^88]
 
-Melléklet a 3/2006. (II. 2.) HM rendelethez[^88]
+Melléklet a 3/2006. (II. 2.) HM rendelethez[^89]
 
 A repülések felosztása rendeltetés és légtérfelhasználás szerint
 
@@ -62,5 +62,5 @@ A repülések felosztása rendeltetés és légtérfelhasználás szerint
 
 | Nyilvános repülőrendezvény | NEM | NEM | IGEN |
 
-[^87]: A 85. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 36. pontja hatályon kívül helyezte.
-[^88]: A melléklet a 12/2009. (VIII. 19.) HM rendelet 29. §-ával megállapított szöveg.
+[^88]: A 85. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 36. pontja hatályon kívül helyezte.
+[^89]: A melléklet a 12/2009. (VIII. 19.) HM rendelet 29. §-ával megállapított szöveg.
