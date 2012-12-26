@@ -4,11 +4,11 @@
 
 a) bevételként a 99. § (1) bekezdése szerint felszámított, valamint az átcsoportosított jutalmazási kereteket, továbbá az előző évről áthozott és jóváhagyott keretmaradványt,
 
-b)[^190] kiadásként a ténylegesen adományozott pénz- és tárgyjutalmak, ajándékok értékét, és az ezeket terhelő személyi jövedelemadó előleget,
+b)[^197] kiadásként a ténylegesen adományozott pénz- és tárgyjutalmak, ajándékok értékét, és az ezeket terhelő személyi jövedelemadó előleget,
 
 c) maradványként a bevételek és a kiadások egyenlegét.
 
-(3)[^191] A tárgyjutalmak, ajándékok esetében a beszerzés időpontját kell a kiadás időpontjának tekinteni. A beszerzett tárgyakról anyagnyilvántartást kell vezetni. A nyilvántartásnak tartalmaznia kell:
+(3)[^198] A tárgyjutalmak, ajándékok esetében a beszerzés időpontját kell a kiadás időpontjának tekinteni. A beszerzett tárgyakról anyagnyilvántartást kell vezetni. A nyilvántartásnak tartalmaznia kell:
 
 – a számla számát,
 
@@ -26,10 +26,10 @@ c) maradványként a bevételek és a kiadások egyenlegét.
 
 – a kiadott tárgy értékét.
 
-(4)[^192] Az általános parancsnoki jutalmazási keret képzéséről, felhasználásáról, a megállapított magasabb parancsnoki és meghatározott célú jutalmazási keretek felhasználásáról a honvédség közgazdasági és pénzügyi szervezete központi elektronikus nyilvántartást vezet. Az általános parancsnoki jutalmazási keret félévenként időarányosan használható fel.
+(4)[^199] Az általános parancsnoki jutalmazási keret képzéséről, felhasználásáról, a megállapított magasabb parancsnoki és meghatározott célú jutalmazási keretek felhasználásáról a honvédség közgazdasági és pénzügyi szervezete központi elektronikus nyilvántartást vezet. Az általános parancsnoki jutalmazási keret félévenként időarányosan használható fel.
 
 (5) A magasabb parancsnoki és a meghatározott célú jutalmazási keretekről szintén nyilvántartást kell vezetni.
 
-[^190]: A 105. § (2) bekezdés b) pontja a 3/2012. (III. 6.) HM rendelet 23. § j) pontja szerint módosított szöveg.
-[^191]: A 105. § (3) bekezdés nyitó szövegrésze a 3/2012. (III. 6.) HM rendelet 22. § (2) bekezdés f) pontja szerint módosított szöveg
-[^192]: A 105. § (4) bekezdése a 6/2009. (VI. 4.) HM rendelet 15. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
+[^197]: A 105. § (2) bekezdés b) pontja a 3/2012. (III. 6.) HM rendelet 23. § j) pontja szerint módosított szöveg.
+[^198]: A 105. § (3) bekezdés nyitó szövegrésze a 3/2012. (III. 6.) HM rendelet 22. § (2) bekezdés f) pontja szerint módosított szöveg
+[^199]: A 105. § (4) bekezdése a 6/2009. (VI. 4.) HM rendelet 15. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.

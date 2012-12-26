@@ -12,6 +12,6 @@
 
 | Nagy magasságból felszereléssel vagy (és) fegyverrel végrehajtott ugrásokért | 50 | 75 | 100 |
 
-6. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^202]
+6. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^209]
 
-[^202]: A 6. számú melléklet a 3/2012. (III. 6.) HM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^209]: A 6. számú melléklet a 3/2012. (III. 6.) HM rendelet 21. § (1) bekezdésével megállapított szöveg.

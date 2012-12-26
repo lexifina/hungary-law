@@ -4,6 +4,6 @@
 
 (2) Csak a második és a további idegen nyelvek ismerete és használata után fizethető idegennyelv-tudási pótlék a tolmácsnak és a fordítónak.
 
-(3)[^17]
+(3)[^18]
 
-[^17]: A 7. § (3) bekezdését a 35/2003. (XII. 31.) HM rendelet 22. §-ának (1) bekezdése hatályon kívül helyezte.
+[^18]: A 7. § (3) bekezdését a 35/2003. (XII. 31.) HM rendelet 22. §-ának (1) bekezdése hatályon kívül helyezte.

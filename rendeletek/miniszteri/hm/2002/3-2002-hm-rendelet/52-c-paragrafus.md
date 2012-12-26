@@ -1,6 +1,6 @@
-## Atom-, biológiai-, vegyi katasztrófavédelmi pótlék[^89]
+## Atom-, biológiai-, vegyi katasztrófavédelmi pótlék[^92]
 
-52/C. §[^90] (1) Az atom-, biológiai-, vegyi (a továbbiakban: ABV) katasztrófavédelmi pótlékra az ABV katasztrófa következményeinek elhárításában a helyszínen szolgálatot teljesítő hivatásos katona jogosult.
+52/C. §[^93] (1) Az atom-, biológiai-, vegyi (a továbbiakban: ABV) katasztrófavédelmi pótlékra az ABV katasztrófa következményeinek elhárításában a helyszínen szolgálatot teljesítő hivatásos katona jogosult.
 
 (2) Az ABV katasztrófavédelmi pótlék óránkénti mértéke:
 
@@ -12,5 +12,5 @@ b) az a) pont alá nem tartozók esetében az illetményalap 1,2%-a.
 
 (4) Az ABV katasztrófavédelmi pótlék megállapításának alapja a helyszíni vezető által aláírt külön nyilvántartás. A nyilvántartásnak tartalmaznia kell különösen a hivatásos katona nevét, rendfokozatát, a végzett tevékenység napját és a pótlék mértéke szerinti időtartamait.
 
-[^89]: Az 52/C. §-t megelőző alcímet a 3/2012. (III. 6.) HM rendelet 9. §-a iktatta be.
-[^90]: Az 52/C. §-t a 3/2012. (III. 6.) HM rendelet 9. §-a iktatta be.
+[^92]: Az 52/C. §-t megelőző alcímet a 3/2012. (III. 6.) HM rendelet 9. §-a iktatta be.
+[^93]: Az 52/C. §-t a 3/2012. (III. 6.) HM rendelet 9. §-a iktatta be.

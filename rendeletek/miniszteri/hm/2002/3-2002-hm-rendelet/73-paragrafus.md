@@ -1,8 +1,8 @@
-## Illetmény-megállapítás[^132]
+## Illetmény-megállapítás[^136]
 
-73. §[^133] (1)–(2)[^134]
+73. §[^137] (1)–(2)[^138]
 
-(3)[^135] A hivatásos katona illetmény-megállapítására kiadott döntési lapnak, illetmény-megállapítási parancsnak, vagy határozatnak az alábbiakat kell tartalmaznia:
+(3)[^139] A hivatásos katona illetmény-megállapítására kiadott döntési lapnak, illetmény-megállapítási parancsnak, vagy határozatnak az alábbiakat kell tartalmaznia:
 
 a) az illetmény-megállapítás okát,
 
@@ -32,7 +32,7 @@ m) a megállapított illetményelemek együttes összegét, valamint
 
 n) a besorolás szerinti illetményre való jogosultság kezdőnapját.
 
-(4)[^136] A Hjt. 109/B. § (3) bekezdésében meghatározott illetményváltozásról szóló értesítést az állományilletékes személyügyi szerv – az illetékes pénzügyi szerv bevonásával – 3 példányban készíti, amelyből egy példány átadásra kerül a hivatásos katona részére, egy-egy példány továbbá elhelyezésre kerül a hivatásos katona személyügyi, illetve pénzügyi gyűjtőjébe. Az illetményváltozásról szóló értesítésnek tartalmaznia kell:
+(4)[^140] A Hjt. 109/B. § (3) bekezdésében meghatározott illetményváltozásról szóló értesítést az állományilletékes személyügyi szerv – az illetékes pénzügyi szerv bevonásával – 3 példányban készíti, amelyből egy példány átadásra kerül a hivatásos katona részére, egy-egy példány továbbá elhelyezésre kerül a hivatásos katona személyügyi, illetve pénzügyi gyűjtőjébe. Az illetményváltozásról szóló értesítésnek tartalmaznia kell:
 
 a) az értesítés kiadásának okát, valamint az ok bekövetkezésének időpontját,
 
@@ -60,7 +60,7 @@ ff) rendszeres kiegészítő illetmény megnevezését, mértékét, összegét,
 
 fg) illetményelemek együttes összegét.
 
-(5)[^137] A hivatásos katona eseti pótlékra, illetve eseti kiegészítő illetményre való jogosultságának megállapítására, illetve mértékének meghatározására az állományilletékes parancsnoknak havonta, külön döntési lapon vagy eseti illetmény-megállapítási parancsban, illetőleg határozatban kell intézkednie, amelynek tartalmaznia kell
+(5)[^141] A hivatásos katona eseti pótlékra, illetve eseti kiegészítő illetményre való jogosultságának megállapítására, illetve mértékének meghatározására az állományilletékes parancsnoknak havonta, külön döntési lapon vagy eseti illetmény-megállapítási parancsban, illetőleg határozatban kell intézkednie, amelynek tartalmaznia kell
 
 a) a jogosultság megállapításának okát, a jogosultsági hónap megnevezését,
 
@@ -76,7 +76,7 @@ f) a megállapított eseti pótlék megnevezését, a pótlék összegének kisz
 
 g) a megállapított eseti kiegészítő illetmény megnevezését, a kiegészítő illetmény összegét.
 
-(6)[^138] A hivatásos katona illetmény-megállapítása során
+(6)[^142] A hivatásos katona illetmény-megállapítása során
 
 a) döntési lap alkalmazása esetén a döntési lapot előkészítő személyi javaslati lap
 
@@ -84,10 +84,10 @@ b) egyéb esetekben a parancs-, valamint határozat-tervezet
 
 pénzbeli járandóságokra vonatkozó szövegrészét a pénzügyi ellenjegyzési jogkört gyakorlóval aláírás előtt ellenjegyeztetni kell.
 
-[^132]: A 73. §-t megelőző alcím a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
-[^133]: A 73. § a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
-[^134]: A 73. § (1)–(2) bekezdését a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^135]: A 73. § (3) bekezdése a 3/2012. (III. 6.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^136]: A 73. § (4) bekezdés első mondata a 6/2009. (VI. 4.) HM rendelet 10. §-ával megállapított szöveg.
-[^137]: A 73. § (5) bekezdés nyitó szövegrésze a 3/2012. (III. 6.) HM rendelet 22. § (1) bekezdés t) pontja szerint módosított szöveg.
-[^138]: A 73. § (6) bekezdését a 4/2011. (VI. 7.) HM rendelet 2. §-a iktatta be, szövege a 3/2012. (III. 6.) HM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^136]: A 73. §-t megelőző alcím a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
+[^137]: A 73. § a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
+[^138]: A 73. § (1)–(2) bekezdését a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^139]: A 73. § (3) bekezdése a 3/2012. (III. 6.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^140]: A 73. § (4) bekezdés első mondata a 6/2009. (VI. 4.) HM rendelet 10. §-ával megállapított szöveg.
+[^141]: A 73. § (5) bekezdés nyitó szövegrésze a 3/2012. (III. 6.) HM rendelet 22. § (1) bekezdés t) pontja szerint módosított szöveg.
+[^142]: A 73. § (6) bekezdését a 4/2011. (VI. 7.) HM rendelet 2. §-a iktatta be, szövege a 3/2012. (III. 6.) HM rendelet 13. § (2) bekezdésével megállapított szöveg.

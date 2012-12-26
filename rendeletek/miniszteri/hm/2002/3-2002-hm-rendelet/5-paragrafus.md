@@ -6,6 +6,6 @@
 
 (2) Az illetménypótlék a hivatásos katonának a pótlékra jogosító szolgálati tevékenység tényleges kifejtésének, illetve a beosztás betöltésének idejére jár.
 
-(3)[^14]
+(3)[^15]
 
-[^14]: Az 5. § (3) bekezdését a 3/2012. (III. 6.) HM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^15]: Az 5. § (3) bekezdését a 3/2012. (III. 6.) HM rendelet 23. § b) pontja hatályon kívül helyezte.

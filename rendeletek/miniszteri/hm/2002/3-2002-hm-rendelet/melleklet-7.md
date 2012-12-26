@@ -12,6 +12,6 @@
 
 | 4. | Az ejtőernyős altiszteknek és tiszteseknek | 10,8 | 8,1 | 6,3 |
 
-7. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^203]
+7. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^210]
 
-[^203]: A 7. számú melléklet a 3/2012. (III. 6.) HM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^210]: A 7. számú melléklet a 3/2012. (III. 6.) HM rendelet 21. § (2) bekezdésével megállapított szöveg.

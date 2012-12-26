@@ -1,10 +1,10 @@
-## Ügyeleti díj[^42]
+## Ügyeleti díj[^44]
 
-28. § (1)[^43] A hivatásos katona a Magyar Honvédség Szolgálati Szabályzata alapján, továbbá a HVKF, illetve a KNBSZ főigazgatója intézkedésében elrendelt (engedélyezett) 24 órás őr- és ügyeleti, valamint a katonai rendészeti szolgálat ellátásáért a (2)–(3) bekezdésekben foglaltak figyelembevételével ügyeleti díjra jogosult.
+28. § (1)[^45] A hivatásos katona a Magyar Honvédség Szolgálati Szabályzata alapján, továbbá a HVKF, illetve a KNBSZ főigazgatója intézkedésében elrendelt (engedélyezett) 24 órás őr- és ügyeleti, valamint a katonai rendészeti szolgálat ellátásáért a (2)–(3) bekezdésekben foglaltak figyelembevételével ügyeleti díjra jogosult.
 
 (2) Ügyeleti díj az ügyeleti szolgálat után járó pihenő- és szabadnaptól függetlenül jár.
 
 (3) Nem jogosult ügyeleti díjra az, akinek a 24 órás ügyeleti szolgálat teljesítése a szervezetszerű beosztásával együttjáró szolgálati feladat, valamint az aki a 32. §-ban meghatározott gyakorlatokon teljesít ügyeleti szolgálatot.
 
-[^42]: A 28. §-t megelőző alcím a 15/2008. (VI. 20.) HM rendelet 18. § (1) bekezdés b) pontjával megállapított szöveg.
-[^43]: A 28. § (1) bekezdése a 33/2007. (VIII. 17.) HM rendelet 1. §-ával megállapított, a 4/2011. (VI. 7.) HM rendelet 9. § c) pontja, a 3/2012. (III. 6.) HM rendelet 22. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^44]: A 28. §-t megelőző alcím a 15/2008. (VI. 20.) HM rendelet 18. § (1) bekezdés b) pontjával megállapított szöveg.
+[^45]: A 28. § (1) bekezdése a 33/2007. (VIII. 17.) HM rendelet 1. §-ával megállapított, a 4/2011. (VI. 7.) HM rendelet 9. § c) pontja, a 3/2012. (III. 6.) HM rendelet 22. § (1) bekezdés e) pontja szerint módosított szöveg.
