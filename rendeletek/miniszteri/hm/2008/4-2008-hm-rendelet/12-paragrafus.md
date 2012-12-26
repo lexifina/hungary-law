@@ -6,6 +6,6 @@
 
 (4) Az (1) bekezdés szerinti temetési segély az éves költségvetési törvényben megállapított köztisztviselői illetményalap 100%-ának megfelelő összeg.
 
-(5)[^6] A HM közigazgatási államtitkár a halálesetekhez kapcsolódó – a kérelmező szociális helyzetére, életkörülményeinek jelentős romlására való tekintettel – különös méltánylást érdemlő esetekben legfeljebb a köztisztviselői illetményalap ötszörösének megfelelő összegű temetési, illetve a 13. § szerinti szociális segély folyósítását engedélyezheti.
+(5)[^23] A HM közigazgatási államtitkár a halálesetekhez kapcsolódó – a kérelmező szociális helyzetére, életkörülményeinek jelentős romlására való tekintettel – különös méltánylást érdemlő esetekben legfeljebb a köztisztviselői illetményalap ötszörösének megfelelő összegű temetési, illetve a 13. § szerinti szociális segély folyósítását engedélyezheti.
 
-[^6]: A 12. § (5) bekezdése a 19/2010. (XII. 27.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^23]: A 12. § (5) bekezdése a 19/2010. (XII. 27.) HM rendelet 7. § b) pontja szerint módosított szöveg.

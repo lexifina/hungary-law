@@ -6,10 +6,14 @@
 
 a) A Központi Kegyeleti Bizottság elnöke a minősítésre jogosult parancsnok (vezető) vagy az általa megbízott személy.
 
-b) Titkára: az MH központi személyügyi szervének vezetője által kijelölt személy.
+b)[^13] Titkára: a Honvédség központi személyügyi szervének vezetője által kijelölt személy.
 
-c) Tagjai: a HM központi pénzügyi szervének vezetője, az MH központi személyügyi szervének vezetője vagy az általuk megbízott személyek.
+c)[^14] Tagjai: a HM központi pénzügyi szervének vezetője, a Honvédség központi személyügyi szervének vezetője vagy az általuk megbízott személyek.
 
-(2) A Központi Kegyeleti Bizottság elnöke – érintettség esetén – a HM Tábori Lelkészi Szolgálatnak (a továbbiakban: HM TLSZ), a nyugállományúak társadalmi szervezeteinek, valamint más szervnek a képviselőjét is bevonhatja a bizottság munkájába.
+(2)[^15] A Központi Kegyeleti Bizottság elnöke – érintettség esetén – a HM Tábori Lelkészi Szolgálatnak (a továbbiakban: HM TLSZ), a nyugállományúak civil szervezeteinek, valamint más szervnek a képviselőjét is bevonhatja a bizottság munkájába.
 
 (3) A Központi Kegyeleti Bizottság ügyrendjét saját maga határozza meg.
+
+[^13]: Az 5. § (1) bekezdés b) pontja a 23/2012. (XII. 18.) HM rendelet 66. § d) pontja szerint módosított szöveg.
+[^14]: Az 5. § (1) bekezdés c) pontja a 23/2012. (XII. 18.) HM rendelet 66. § d) pontja szerint módosított szöveg.
+[^15]: Az 5. § (2) bekezdése a 23/2012. (XII. 18.) HM rendelet 66. § j) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 a) „Hősi halottá” minősített személy temetése esetén katonazenekar részvételével,
 
-b) „A Magyar Honvédség halottjává” minősítettek, illetve tábornokok, ezredesek, hivatásos és szerződés állományú tisztek, tiszthelyettesek temetése esetén katonazenekar részvételével,
+b)[^19] „A Magyar Honvédség halottjává” minősítettek, illetve tábornokok, ezredesek, hivatásos és szerződés állományú tisztek, altisztek temetése esetén katonazenekar részvételével,
 
 c) nyugállományú alezredes, őrnagy temetése esetén legalább katonazenekari részleg részvételével és kürtös alkalmazásával,
 
@@ -25,3 +25,5 @@ d) egyéb esetben legalább audiotechnikai eszközök és kürtös alkalmazásá
 (8) A katonai temetés kegyeleti kellékeit képezik: a sapka, a sapkatartó, a kard, a rendjelvivő párna és a gyászkarszalag.
 
 (9) A katonai temetés lefolytatására az MH Alaki Szabályzatában foglaltakat kell alkalmazni.
+
+[^19]: A 8. § (5) bekezdés b) pontja a 23/2012. (XII. 18.) HM rendelet 66. § l) pontja szerint módosított szöveg.

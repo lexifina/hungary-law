@@ -28,7 +28,7 @@
 
 ## A ténylegesen és indokoltan felmerült, számla szerinti összeg.
 
-## 4. Koszorúzási költségek
+## 4.[^30] Koszorúzási költségek
 
 ## a) Koszorúk: az illetményalap 0,2-szerese.
 
@@ -36,10 +36,13 @@
 
 ## Október 15. és március 15. között ezeket az összegeket 25%-kal kell növelni.
 
-## A temetéskor vagy egyéb megemlékezéskor a honvédelmi szervezet költségvetése terhére az elhunyt állományilletékes parancsnoka és annak szolgálati elöljárója, valamint a lakóhely szerinti hadkiegészítő parancsnok, illetve az általa megbízott területileg illetékes szervezet vezetője helyezhetnek el 1-1 koszorút a sírnál, síremléknél.
+## A temetéskor vagy egyéb megemlékezéskor a honvédelmi szervezet költségvetése terhére az elhunyt állományilletékes parancsnoka és annak szolgálati elöljárója, valamint a Honvédség katonai igazgatási és központi adatfeldolgozó szervének parancsnoka, illetve az általa megbízott területileg illetékes szervezet vezetője helyezhetnek el 1-1 koszorút a sírnál, síremléknél.
 
 ## Az állományilletékes parancsnok a honvédelmi szerv állományába tartozó hivatásos, szerződéses és önkéntes tartalékos katona, illetve annak házastársa, szülője vagy gyermeke halála esetén egy darab koszorú költségének elszámolását engedélyezheti.
 
 ## Nyugállományú katona halála esetén a lakóhely szerinti hadkiegészítő parancsnok, illetve az általa megbízott területileg illetékes szervezet vezetője egy darab koszorú költségeinek elszámolását engedélyezheti.
 
-2. számú melléklet a 4/2008. (II. 29.) HM rendelethez
+2. számú melléklet a 4/2008. (II. 29.) HM rendelethez[^31]
+
+[^30]: Az 1. számú melléklet B) pont 4. pontja a 23/2012. (XII. 18.) HM rendelet 66. § c) pontja szerint módosított szöveg.
+[^31]: A 2. számú melléklet a 23/2012. (XII. 18.) HM rendelet 65. §-a szerint módosított szöveg.

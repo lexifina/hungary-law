@@ -12,9 +12,9 @@
 
 | MH 5. Bocskai István Lövészdandár | Debrecen | Hajdú-Bihar megye, Szabolcs-Szatmár-Bereg megye, Borsod-Abaúj-Zemp-lén megye területe |
 
-| MH 37. II. Rákóczi Ferenc Műszaki Zászlóalj | Szentes | Békés megye, Csongrád megye területe |
+| MH 37. II. Rákóczi Ferenc Műszaki Ezred | Szentes | Békés megye, Csongrád megye területe |
 
-| MH 54. Veszprém Légtér Ellenőrző Ezred | Veszprém | Veszprém megye, Zala megye területe |
+| MH 54. Veszprém Radarezred | Veszprém | Veszprém megye, Zala megye területe |
 
 | MH 12. Arrabona Légvédelmi Rakétaezred | Győr | Győr-Moson-Sopron megye, Vas megye területe |
 
