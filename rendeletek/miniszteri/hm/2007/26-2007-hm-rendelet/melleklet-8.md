@@ -92,7 +92,7 @@
 
 | mindösszesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-8. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^197]
+8. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^198]
 
 A külföldi napidíj-kiegészítés mértéke
 
@@ -108,4 +108,4 @@ A külföldi napidíj-kiegészítés mértéke
 
 | 5. | II/I–X. | – | 10,0 USD | 39,0 USD | – | – |
 
-[^197]: A 8. számú mellékletet a 7/2012. (VI. 5.) HM rendelet 7. § (2) bekezdése iktatta be.
+[^198]: A 8. számú mellékletet a 7/2012. (VI. 5.) HM rendelet 7. § (2) bekezdése iktatta be.

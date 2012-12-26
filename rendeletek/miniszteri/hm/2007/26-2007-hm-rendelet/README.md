@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-1
 | 2012-03-09 | 2007-26-20-15.17 | 3/2012. (III. 6.) HM rendelet |
 | 2012-06-08 | 2007-26-20-15.18 | 7/2012. (VI. 5.) HM rendelet |
 | 2012-09-01 | 2007-26-20-15.19 | 18/2012. (VIII. 22.) HM rendelet |
+| 2012-12-26 | 2007-26-20-15.20 | 18/2013. (IX. 5.) HM rendelet |

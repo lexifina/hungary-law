@@ -70,6 +70,6 @@
 
 | Vietnam | EUR | 68 |
 
-7. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^196]
+7. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^197]
 
-[^196]: A 7. számú mellékletet a 3/2012. (III. 6.) HM rendelet 61. §-a iktatta be, szövege a 7/2012. (VI. 5.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^197]: A 7. számú mellékletet a 3/2012. (III. 6.) HM rendelet 61. §-a iktatta be, szövege a 7/2012. (VI. 5.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.

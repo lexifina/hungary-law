@@ -1,8 +1,8 @@
-## 27. §[^90] A kiküldött részére egyszeri alkalommal visszatérítés-köteles 2000 EUR, illetőleg annak megfelelő összegű, a tárgyhónapot megelőző hónap tizenötödik napján érvényes, hivatalos MNB devizaárfolyamon átszámított USD utazási előleget kell folyósítani a kiutazás előtti nyolc munkanapon belül. Az utazási előleget az első szabadságra történő hazautazás során – illetőleg amennyiben a külszolgálat az egy évet nem haladja meg, legkésőbb a végleges hazautazás utáni nyolc munkanapon belül – kell a honvédség részére visszatéríteni. A 3. § i) pont 6. alpontja szerinti szervezetek állománya tekintetében az utazási előlegre való jogosultság és a folyósítás szabályait a KNBSZ főigazgatójának intézkedése határozza meg.
+## 27. §[^91] A kiküldött részére egyszeri alkalommal visszatérítés-köteles 2000 EUR, illetőleg annak megfelelő összegű, a tárgyhónapot megelőző hónap tizenötödik napján érvényes, hivatalos MNB devizaárfolyamon átszámított USD utazási előleget kell folyósítani a kiutazás előtti nyolc munkanapon belül. Az utazási előleget az első szabadságra történő hazautazás során – illetőleg amennyiben a külszolgálat az egy évet nem haladja meg, legkésőbb a végleges hazautazás utáni nyolc munkanapon belül – kell a honvédség részére visszatéríteni. A 3. § i) pont 6. alpontja szerinti szervezetek állománya tekintetében az utazási előlegre való jogosultság és a folyósítás szabályait a KNBSZ főigazgatójának intézkedése határozza meg.
 
 ## Gépjárműhasználat
 
-28. §[^91] (1) Az engedélyező elöljáró – a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével – a kiküldött részére:
+28. §[^92] (1) Az engedélyező elöljáró – a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével – a kiküldött részére:
 
 a) a feladat jellegétől függően szolgálati gépjármű használatát engedélyezheti, amelyet az illetékes logisztikai ellátó szerv biztosít;
 
@@ -16,8 +16,8 @@ b) a saját tulajdonú gépkocsi szolgálati célú igénybevételét engedélye
 
 (5) A szolgálati gépjármű magáncélú használata – ideértve a gépjármű lakás és munkahely közötti utazásra történő használatát is – a kiküldött részére a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével engedélyezhető.
 
-(6)[^92] Az (1) és (5) bekezdés szerinti gépjárműhasználat és a (4) bekezdés szerinti gépjárműbérlés engedélyezésének és elszámolásának szabályait külön miniszteri rendelet – a 3. § i) pont 6. alpontja szerinti szervezetek állománya esetében MK KFH főigazgatói intézkedés – tartalmazza.
+(6)[^93] Az (1) és (5) bekezdés szerinti gépjárműhasználat és a (4) bekezdés szerinti gépjárműbérlés engedélyezésének és elszámolásának szabályait külön miniszteri rendelet – a 3. § i) pont 6. alpontja szerinti szervezetek állománya esetében MK KFH főigazgatói intézkedés – tartalmazza.
 
-[^90]: A 27. § a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^91]: A 28. § az 1/2011. (III. 8.) HM rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^92]: A 28. § (6) bekezdésének a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés h) pontjával elrendelt módosítása, amely szerint az „az MK KFH” szövegrész helyébe az „a KNBSZ” szöveg lép, nem vezethető át.
+[^91]: A 27. § a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^92]: A 28. § az 1/2011. (III. 8.) HM rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^93]: A 28. § (6) bekezdésének a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés h) pontjával elrendelt módosítása, amely szerint az „az MK KFH” szövegrész helyébe az „a KNBSZ” szöveg lép, nem vezethető át.

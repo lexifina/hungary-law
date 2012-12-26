@@ -44,6 +44,6 @@
 
 | 20. | – | – | I. évfolyam | 1,00 |
 
-4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^193]
+4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^194]
 
-[^193]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte a 7/2012. (VI. 5.) HM rendelet 8. § (2) bekezdése.
+[^194]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte a 7/2012. (VI. 5.) HM rendelet 8. § (2) bekezdése.

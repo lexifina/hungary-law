@@ -1,6 +1,6 @@
 ## Szállítási költségek
 
-17. §[^59] (1) Az állomáshelyre történő első kiutazás és végleges hazautazás alkalmával, ideértve a másik állomáshelyre történő áthelyezés esetét is, a honvédség a legszükségesebb személyi ingóságok szállításához – ide nem értve a 17/A. § szerinti berendezési tárgyakat – a (2)–(11) bekezdés szerinti feltételekkel biztosít költségtérítést.
+17. §[^60] (1) Az állomáshelyre történő első kiutazás és végleges hazautazás alkalmával, ideértve a másik állomáshelyre történő áthelyezés esetét is, a honvédség a legszükségesebb személyi ingóságok szállításához – ide nem értve a 17/A. § szerinti berendezési tárgyakat – a (2)–(11) bekezdés szerinti feltételekkel biztosít költségtérítést.
 
 (2) A személyi ingóságok szállításának elszámolása során legfeljebb a következő súlyhatárok vehetők figyelembe:
 
@@ -32,4 +32,4 @@ c) vámszemle díjak, különösen magyarországi, helyszíni.
 
 (11) A tartós külszolgálat alatti áthelyezés miatti állomáshelyváltás, és a kiküldött akaratától függetlenül szükségessé váló, állomáshelyen belüli átköltözés esetén a (8) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kiküldött részére folyósítható költségtérítés maximális mértékét az illetékes logisztikai ellátó szerv esetenként – az átköltözés időpontját megelőzően – határozza meg az adott szállítási viszonylathoz kapcsolódó sajátosságokat figyelembe véve, így különösen az eredeti és az új állomáshely távolságát, az átköltözés során igénybe vehető szállítási formákat, ez utóbbiak költség- és időigényét.
 
-[^59]: A 17. § a 18/2012. (VIII. 22.) HM rendelet 8. §-ával megállapított szöveg.
+[^60]: A 17. § a 18/2012. (VIII. 22.) HM rendelet 8. §-ával megállapított szöveg.

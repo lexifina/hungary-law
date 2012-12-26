@@ -1,4 +1,4 @@
-16/A. §[^57] (1) Ha a kiküldött külföldi szolgálat alatti állomáshelyéül szolgáló település szárazföldön megközelíthető, és annak Budapesttől közúton mért távolsága nem haladja meg a 3000 kilométert, valamint a portugáliai állomáshelyek esetében az utazási költségátalány adott naptári évre érvényes normaösszegét külföldi helyőrségenként a kilométerben kifejezett távolság, a (6) bekezdés szerinti üzemanyag fogyasztási norma és üzemanyagár norma figyelembevételével, forintban kell meghatározni.
+16/A. §[^58] (1) Ha a kiküldött külföldi szolgálat alatti állomáshelyéül szolgáló település szárazföldön megközelíthető, és annak Budapesttől közúton mért távolsága nem haladja meg a 3000 kilométert, valamint a portugáliai állomáshelyek esetében az utazási költségátalány adott naptári évre érvényes normaösszegét külföldi helyőrségenként a kilométerben kifejezett távolság, a (6) bekezdés szerinti üzemanyag fogyasztási norma és üzemanyagár norma figyelembevételével, forintban kell meghatározni.
 
 (2) Tengerentúli helyőrségek esetén, továbbá ha a kiküldött külföldi szolgálat alatti állomáshelyéül szolgáló, szárazföldön megközelíthető település Budapesttől közúton mért távolsága – ide nem értve a portugáliai állomáshelyeket – meghaladja a 3000 kilométert, az utazási költségátalány adott naptári évre érvényes normaösszegét külföldi helyőrségenként az adott viszonylaton való utazáshoz egyébként szükséges turistaosztályú, teljesárú repülőjegy adott év január 15-én érvényes tarifa szerinti beszerzési értéke alapján, forintban kell meghatározni.
 
@@ -14,4 +14,4 @@ a) benzinüzemű gépjárműveknél az 1001–1500 köbcentiméteres hengerűrta
 
 b) benzinüzemű gépjárműveknél az ESZ-95 ólmozatlan motorbenzinre, gázolajüzemű gépjárműveknél a gázolajra az állami adóhatóság által közzétett, az adott év január hónapjára érvényes üzemanyagár normák átlagát kell irányadónak tekinteni.
 
-[^57]: A 16/A. §-t a 18/2012. (VIII. 22.) HM rendelet 7. §-a iktatta be.
+[^58]: A 16/A. §-t a 18/2012. (VIII. 22.) HM rendelet 7. §-a iktatta be.

@@ -1,5 +1,5 @@
-## 60. §[^155]
+## 60. §[^156]
 
 ## Egyéb költségek
 
-[^155]: A 60. §-t a 3/2012. (III. 6.) HM rendelet 63. § f) pontja hatályon kívül helyezte.
+[^156]: A 60. §-t a 3/2012. (III. 6.) HM rendelet 63. § f) pontja hatályon kívül helyezte.

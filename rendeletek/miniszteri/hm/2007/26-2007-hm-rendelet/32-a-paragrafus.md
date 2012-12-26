@@ -1,4 +1,4 @@
-32/A. §[^99] (1) Az EU intézményeiben nemzeti szakértőként külföldi szolgálatot teljesítő kiküldött (a továbbiakban: EU-beosztást betöltő) honvédségi ellátását az e fejezet szerinti szabályok szerint kell biztosítani azzal az eltéréssel, hogy
+32/A. §[^100] (1) Az EU intézményeiben nemzeti szakértőként külföldi szolgálatot teljesítő kiküldött (a továbbiakban: EU-beosztást betöltő) honvédségi ellátását az e fejezet szerinti szabályok szerint kell biztosítani azzal az eltéréssel, hogy
 
 a) az EU-beosztást betöltő személy külföldi szolgálattal összefüggő ellátását az EU által nyújtott juttatások igénybevételével kell biztosítani;
 
@@ -16,4 +16,4 @@ e) a 23. § szerinti tandíjköltség-térítésben az általános feltételek t
 
 (4) Az EU illetékes szerve részére megküldésre kerülő hivatalos adatlap egy aláírt, másolati példányát a honvédség központi személyügyi szerve megküldi a HM KPH részére. Az EU-beosztást betöltő az EU által részére biztosított juttatások mértékéről, továbbá az azokban bekövetkező változásról köteles az e rendelet szerinti illetékes pénzügyi ellátó szerv részére a változástól számított tizenöt napon belül írásbeli nyilatkozatot tenni.
 
-[^99]: A 32/A. §-t az 1/2011. (III. 8.) HM rendelet 13. §-a iktatta be, szövege a 18/2012. (VIII. 22.) HM rendelet 14. §-ával megállapított szöveg.
+[^100]: A 32/A. §-t az 1/2011. (III. 8.) HM rendelet 13. §-a iktatta be, szövege a 18/2012. (VIII. 22.) HM rendelet 14. §-ával megállapított szöveg.
