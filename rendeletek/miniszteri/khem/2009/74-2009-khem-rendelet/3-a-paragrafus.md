@@ -1,0 +1,9 @@
+3/A. §[^8] (1) Ha a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet alapján az egyetemes szolgáltatás árában elismert szállítás díja és a Hivatal határozatában megállapított szállítási rendszerüzemeltetési díjból adódó szállítás díja eltér, a földgázszállító köteles ennek különbségét (a továbbiakban: visszatérítés mértéke) a (2) bekezdés szerinti rendszerhasználónak visszatéríteni. A visszatérítés mértékét a szállítási rendszerüzemeltetési díjat megállapító határozat tartalmazza.
+
+(2) A visszatérítés azt a rendszerhasználót illeti, amely számviteli nyilvántartásból származó zárt számlasorszámokat tartalmazó, az (1) bekezdés szerinti határozatban megállapított formátum alapján összesített táblázattal alátámasztva igazolja, hogy az összesített táblázatban feltüntetett mennyiségre vonatkozó, a visszatérítés mértékével azonos mértékű kedvezményt ő vagy az általa ellátott egyetemes szolgáltató ténylegesen nyújtotta az egyetemes szolgáltatásra jogosult felhasználók számára az egyetemes szolgáltatás árának alkalmazásával vagy egyéb kedvezmény nyújtásával.
+
+(3) Amennyiben az egyetemes szolgáltató földgázellátása érdekében más rendszerhasználó köt le kapacitást a földgáz szállítóvezetéken, az egyetemes szolgáltató köteles a (2) bekezdés szerinti táblázatot az őt ellátó rendszerhasználó részére megküldeni, a rendszerhasználó pedig a visszatérítés mértékével azonos mértékű kedvezményt az egyetemes szolgáltató felé érvényesíteni, a visszatérítés részére történő utalását követő hónapban.
+
+(4) A rendszerhasználó köteles a (2) bekezdés szerinti táblázatot a tárgyhavi adatokkal a tárgyhót követő hónap 10. napjáig a földgázszállító és egyidejűleg a Hivatal részére is megküldeni. A visszatérítésre a tárgyhót követő hónap 30. napjáig kerül sor.
+
+[^8]: A 3/A. §-t a 78/2012. (XII. 22.) NFM rendelet 23. §-a iktatta be.

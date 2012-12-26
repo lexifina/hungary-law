@@ -1,4 +1,4 @@
-4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^12]
+4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^15]
 
 A rendszerhasználati díjak megállapításának keretszabályai
 
@@ -60,15 +60,17 @@ B = Be x zhf
 
 C = Ce x zhf
 
-1.1.4. A tőkeköltség figyelembevétele a rendszeres ármegállapítás során
+1.1.4. A tőkeköltség reál hozamtényezője a földgázszállítók által végzett tevékenység esetében minden felhasználó ellátása tekintetében:
 
-Az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig a földgázszállítók, a földgázelosztók és a földgáztárolók által végzett tevékenység tőkeköltségének reál hozamtényezője:
+THSZ: 8,78 %.
 
-THESZ: a tőkeköltség reál hozamtényezője egységesen 4,5%
+Az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig a földgázelosztók és a földgáztárolók által végzett tevékenység tőkeköltségének reál hozamtényezője:
 
-A földgázszállítók, a földgázelosztók és a földgáztárolók által a nem az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig végzett tevékenység tőkeköltségének reál hozamtényezője:
+THESZ: a tőkeköltség reál hozamtényezője egységesen 2,28%.
 
-THV: a tőkeköltség reál hozamtényezője: földgázszállítás esetében 8,78%, földgázelosztás esetében: 8,29%, földgáztárolás esetében: 10,05%.
+A földgázelosztók és a földgáztárolók által a nem az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig végzett tevékenység tőkeköltségének reál hozamtényezője:
+
+THV: a tőkeköltség reál hozamtényezője: földgázelosztás esetében: 8,29%, földgáztárolás esetében: 10,05%.
 
 1.1.5. Nyereségkorlát és nyereség visszajuttatás a rendszeres ármegállapítás során
 
@@ -140,7 +142,7 @@ A rendszeres ármegállapítás során utólag elismerhető azon – az induló 
 
 1.1.7. Az átlagárak és a díjak
 
-1.1.7.1. A Hivatal az alap- és kapacitásdíjakat az indexált árbevétel-tömeg és a legutolsó rendelkezésre álló adatok (naturália) alapján határozza meg, amely díjmeghatározás során a felhasználók érdekeinek figyelembevételével, mérlegeléssel dönt a figyelembe vehető kapacitás-lekötések mértékéről.
+1.1.7.1. A Hivatal az alap-és kapacitásdíjakat, valamint az elosztási átszállítási díjat az indexált árbevétel-tömeg és a legutolsó rendelkezésre álló adatok (naturália, mennyiség) alapján határozza meg, amely díjmeghatározás során a felhasználók érdekeinek figyelembevételével, mérlegeléssel dönt a figyelembe vehető kapacitás-lekötések mértékéről.
 
 1.1.7.2. A forgalmi díjak számítása esetén – a gázfelhasználási költséget tartalmazó díjelemek kivételével – az induló árak megállapításánál figyelembe vett (az elosztási forgalmi díj esetében napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell figyelembe venni. Amennyiben a napfok módszerrel korrigált mennyiség legalább 1,5%-kal változik, akkor az elosztási forgalmi díjak számítása esetén a rendszeres ármegállapítást megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell alapul venni.
 
@@ -151,6 +153,8 @@ A rendszeres ármegállapítás során utólag elismerhető azon – az induló 
 1.1.7.5. Az elosztói engedélyes által havonta beszedett pótdíjak, valamint a –12 °C-nál hidegebb időben a többletértékesítés miatt felmerült többletköltség egyenlege éves szinten kiszámításra kerül. A negatív egyenleg közvetlenül a következő díjmegállapításnál, a pozitív egyenleg – a Hivatal döntése alapján – közvetlenül a következő díjmegállapításnál vagy közvetetten a kapacitásgazdálkodás elvét elősegítő beruházások megvalósításánál kerül figyelembevételre.
 
 1.1.7.6. Az adott gázévben meghatározott elosztás indokolt árbevétel igényének részét képező – elosztott mennyiségre vetített – elszámolási különbözet indokolt költsége a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 1. melléklet 1. pontjában szereplő képlettel adott gázévre számított átlagos földgázárral és az országos átlagos szállítási átlagárral kerül kiszámításra. Amennyiben adott gázévben az elosztónként differenciált elszámolási különbözet értéke 3%-ot meghaladó mértékben eltér a díjak számításánál figyelembe vett elszámolási különbözet indokolt költségétől, az eltérés irányának megfelelően a +3% feletti vagy a –3% alatti különbséget a következő gázévre vonatkozó elosztói díjra vonatkozó rendszeres ármegállapítás során a Hivatal figyelembe veszi.
+
+1.1.7.7. Az elosztási átszállítási díj megállapításakor az átszállításhoz kapcsolódó indokolt költségelemeknek az elosztási díj számításakor figyelembe vett közvetlen és közvetett indokolt költségek összegéhez, illetve az összesen elosztott mennyiséghez viszonyított aránya kerül figyelembevételre, tekintettel az 1.1.7.1. pontra. Egyebekben a díjszámítás menete a fentiekkel megegyező.
 
 1.2. Rendkívüli ármegállapítás
 
@@ -184,4 +188,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^12]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított szöveg.
+[^15]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a szerint módosított szöveg.
