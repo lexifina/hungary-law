@@ -1,6 +1,6 @@
-## A foglalkoztatást elősegítő támogatások[^18]
+## A foglalkoztatást elősegítő támogatások[^21]
 
-7. §[^19] (1) Az állomány tagja, valamint a közalkalmazott részére a civil munkaerőpiacra történő visszailleszkedés elősegítése érdekében támogatások nyújthatók. Ezek különösen a következők:
+7. §[^22] (1) Az állomány tagja, valamint a közalkalmazott részére a civil munkaerőpiacra történő visszailleszkedés elősegítése érdekében támogatások nyújthatók. Ezek különösen a következők:
 
 a) a foglalkoztatást elősegítő képzési költségek önrészének részben vagy egészben történő átvállalása, legfeljebb a teljes képzési költség 30%-ának megfelelő mértékig,
 
@@ -18,5 +18,5 @@ b) tájékoztatás az állami foglalkoztatási szerv által a foglalkoztatás el
 
 c) szervezett munkaerő-piaci programok megvalósításának koordinálása.
 
-[^18]: A 7. §-t megelőző alcím a 8/2009. (VI. 18.) HM rendelet 5. §-ával megállapított szöveg.
-[^19]: A 7. § a 8/2009. (VI. 18.) HM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 7. §-t megelőző alcím a 8/2009. (VI. 18.) HM rendelet 5. §-ával megállapított szöveg.
+[^22]: A 7. § a 8/2009. (VI. 18.) HM rendelet 5. §-ával megállapított szöveg.

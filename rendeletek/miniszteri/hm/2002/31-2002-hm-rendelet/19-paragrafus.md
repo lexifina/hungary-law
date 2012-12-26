@@ -16,11 +16,11 @@ e) koordinálja a foglalkoztatás területén bekövetkezett változások kedvez
 
 f) a szükséges mértékig együttműködik a honvédségi és területi szociális jellegű alapítványokkal, egyesületekkel és klubokkal;
 
-g)[^40] figyelemmel kíséri a nyugállományú katonák helyzetét, a velük való kapcsolattartás állapotát, és javaslatokat tesz a teendőkre;
+g)[^46] figyelemmel kíséri a nyugállományú katonák helyzetét, a velük való kapcsolattartás állapotát, és javaslatokat tesz a teendőkre;
 
 h) elemzi a Honvédség személyi állománya életmódját, a szabadidő-eltöltés lehetőségeit és feltételrendszerét, valamint a környezetkultúra sajátosságait, melynek alapján javaslatot tesz a fejlesztés irányaira, a helyi életmódprogramok megtervezésére és végrehajtására;
 
-i)[^41] javaslatokat dolgoz ki a családsegítő szolgáltatások helyi szolgáltatásaira és működtetésük, igénybevételük rendjére;
+i)[^47] javaslatokat dolgoz ki a családsegítő szolgáltatások helyi szolgáltatásaira és működtetésük, igénybevételük rendjére;
 
 j) figyelemmel kíséri a szervezeti egységhez kinevezésre, foglakoztatásra kerülők beilleszkedését támogató komplex tevékenységet, segíti a belső szocializációs folyamatok alakítását.
 
@@ -28,5 +28,5 @@ j) figyelemmel kíséri a szervezeti egységhez kinevezésre, foglakoztatásra k
 
 (3) A szervezeti egység parancsnoka (vezetője) köteles kikérni a Bizottság véleményét minden olyan kérdésben, amely annak hatáskörébe tartozik.
 
-[^40]: A 19. § (1) bekezdés g) pontja a 8/2009. (VI. 18.) HM rendelet 10. § (5) bekezdése szerint módosított szöveg.
-[^41]: A 19. § (1) bekezdés i) pontja a 8/2009. (VI. 18.) HM rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^46]: A 19. § (1) bekezdés g) pontja a 8/2009. (VI. 18.) HM rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^47]: A 19. § (1) bekezdés i) pontja a 8/2009. (VI. 18.) HM rendelet 10. § (4) bekezdése szerint módosított szöveg.
