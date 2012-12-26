@@ -2,6 +2,6 @@
 
 (2) A közút használatáért fizetett díj az Útfenntartási és -fejlesztési célelőirányzatot illeti meg.
 
-(3)[^3] Az MH közlekedési feladatot ellátó központi szerve megállapodik a Magyar Közút Közhasznú Társasággal abban, hogy az üzemben tartó a megengedett össztömeget vagy a megengedett legnagyobb tengelyterhelést meghaladó jármű közlekedéséért járó útvonal-használati díjat félévente utólagosan fizeti meg.
+(3)[^4] Az MH közlekedési feladatot ellátó központi szerve megállapodik a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal abban, hogy az üzemben tartó a megengedett össztömeget vagy a megengedett legnagyobb tengelyterhelést meghaladó jármű közlekedéséért járó útvonal-használati díjat félévente utólagosan fizeti meg.
 
-[^3]: A 3. § (3) bekezdése a 15/2007. (V. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (3) bekezdése a 15/2007. (V. 11.) HM rendelet 2. §-ával megállapított, a 23/2012. (XII. 18.) HM rendelet 14. § d) pontja szerint módosított szöveg.
