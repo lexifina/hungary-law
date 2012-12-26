@@ -1,7 +1,13 @@
-15. § (1) Az iskolakezdési támogatás címen biztosított utalványok beszerzéséhez szükséges előirányzat tervezése, az utalványok megvásárlása, tárolása, nyilvántartása és a jogosult részére történő kiadása a pénzügyi és számviteli szerv feladata.
+15. §[^17] (1) Az iskolakezdési utalvány a munkáltató által biztosított elektronikus utalványkártyán kerül kiadásra.
 
-(2) Az utalványokat – a vonatkozó keretszerződésre tekintettel – június 20-ig, ezt követően július 20-ig, augusztus 20-ig, majd szeptember 20-ig kell a szállítótól megrendelni. Az utalványokat a honvédelmi szervezet személyügyi szerve által készített jegyzék alapján kell az igénylő részére átadni. A jegyzék tartalmazza az igénylő nevét, rendfokozatát, a gyermek nevét, az utalvány címletenkénti darabszámát, sorszámát, összértékét, az átvevő aláírását, a jegyzék készítőjének nevét és a jogosultságot igazoló parancsnok aláírását. Az utalvány számadásköteles nyomtatvány. Az igénylők által aláírt jegyzéket a számadásköteles nyomtatványok nyilvántartásához kell csatolni és azzal együtt megőrizni.
+(2) Az elektronikus utalványkártya fő- és az ahhoz tartozó társkártya formájában biztosítható. Az elektronikus utalványkártyát a jogosult részére történő átadásig számadásköteles kártyaként kell kezelni, a jogosult részére aláírás ellenében kell átadni. Az átadásról készült dokumentumot a számadásköteles nyomtatványok nyilvántartásához kell csatolni és azzal együtt kell megőrizni.
 
-(3) Az iskolakezdési utalványokat az utalványtömbök (szállítmány) átvételét követő tíz munkanapon belül, de legkorábban a tanév első napját megelőző 60. napon, legkésőbb október 15-ig kell az igénylő részére átadni.
+(3) A főkártya jogosult részére első alkalommal történő biztosítása, valamint lejárat miatti cseréje ingyenes. A társkártya első alkalommal történő biztosítása, lejárat miatti cseréje, valamint a főkártya és a társkártya elvesztése, eltulajdonítása, megrongálódása vagy más okból szükséges cseréje esetén az új kártya igénylésével kapcsolatban a szállító által kiszámlázott költség a jogosult részére felszámításra kerül.
 
-(4) A jogosulatlanul átvett és ezért visszavont, vagy ki nem adott utalványokat a kibocsátó gazdasági társaság részére a keretszerződésben foglaltak szerint kell visszaküldeni.
+(4) Az iskolakezdési utalvány beszerzéséhez szükséges előirányzat tervezése, az utalványkártyák kezelése és a feltöltendő összeg átutalása a pénzügyi és számviteli szerv feladata.
+
+(5) Az iskolakezdési utalvány átutalásához a honvédelmi szervezet személyügyi szerve által készített jegyzék tartalmazza a jogosult nevét, rendfokozatát, az elektronikus utalványkártya azonosítására szolgáló adatokat, az iskolakezdési utalvány értékét, valamint a jegyzéket készítő nevét és a jogosultságot igazoló parancsnok jóváhagyását.
+
+(6) Az utalványt – az igénybenyújtás időpontjától függően – június 20-ig, ezt követően július 20-ig, augusztus 20-ig, majd szeptember 20-ig kell a szállítótól megrendelni. Az iskolakezdési utalványt legkorábban a tanév első napját megelőző 60. napon, legkésőbb október 15-ig kell az igénylő részére biztosítani.
+
+[^17]: A 15. § a 23/2012. (XII. 18.) HM rendelet 74. §-ával megállapított szöveg.

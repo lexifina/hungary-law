@@ -4,7 +4,7 @@
 
 ## ..........................................................
 
-## (HM KPÜ vezérigazgató útján)
+## (HM KPH főigazgató útján)
 
 ## Tárgy: Családalapítási támogatás igénylés
 
@@ -108,4 +108,6 @@
 
 ## 3. A kérelemhez csatolni kell a házassági anyakönyvi kivonat, a bejegyzett élettársi kapcsolatok anyakönyvéből kiállított kivonat másolatát, élettársi viszony esetén az erről szóló hitelesített nyilatkozatot, illetőleg az igénylő utolsó változás-visszaigazolásának fénymásolatát, valamint a házastárs (bejegyzett élettárs, élettárs) havi keresetéről, levonásáról szóló igazolást.
 
-2. számú melléklet a 11/2009. (VII. 10.) HM rendelethez
+2. számú melléklet a 11/2009. (VII. 10.) HM rendelethez[^40]
+
+[^40]: A 2. számú melléklet a 23/2012. (XII. 18.) HM rendelet 78. § c) pontja szerint módosított szöveg.

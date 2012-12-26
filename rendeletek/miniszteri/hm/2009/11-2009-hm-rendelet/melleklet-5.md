@@ -88,7 +88,7 @@
 
 ## * Megfelelő rész aláhúzandó!
 
-5. számú melléklet a 11/2009. (VII. 10.) HM rendelethez
+5. számú melléklet a 11/2009. (VII. 10.) HM rendelethez[^42]
 
 ..............................................................
 
@@ -98,7 +98,7 @@ a honvédelmi szervezet megnevezése
 
 Tárgy: Igénybejelentés
 
-Alulírott ......................... (név) ............................ (rendfokozat, állományviszony) kérem a parancsnok, vezérigazgató, főigazgató urat (úrhölgyet), hogy a hivatásos és szerződéses katonák, a honvédségi közalkalmazottak egyes pénzbeli szociális juttatásairól szóló HM rendelet alapján az alább felsorolt, velem közös háztartásban élő gyermekem (gyermekeim) számára iskolakezdési támogatást és/vagy részemre nevelési segélyt megállapítani szíveskedjen.
+Alulírott ......................... (név) ............................ (rendfokozat, állományviszony) kérem a parancsnok, főigazgató, igazgató urat (úrhölgyet), hogy a hivatásos és szerződéses katonák, a honvédségi közalkalmazottak egyes pénzbeli szociális juttatásairól szóló HM rendelet alapján az alább felsorolt, velem közös háztartásban élő gyermekem (gyermekeim) számára iskolakezdési támogatást és/vagy részemre nevelési segélyt megállapítani szíveskedjen.
 
 | A gyermek |  |  |  |
 
@@ -127,3 +127,5 @@ A fenti adatok a valóságnak megfelelnek.
 ........................................
 
 szülő aláírása
+
+[^42]: Az 5. számú melléklet a 23/2012. (XII. 18.) HM rendelet 78. § i) pontja szerint módosított szöveg.
