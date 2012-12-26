@@ -1,10 +1,10 @@
-## 10. §[^32] A toborzó rendszer működtetéséhez szükséges költségvetési előirányzatokat a költségvetésben címzetten, önálló címrendkódon kell tervezni.
+## 10. §[^40] A toborzó rendszer működtetéséhez szükséges költségvetési előirányzatokat a költségvetésben címzetten, önálló címrendkódon kell tervezni.
 
 ## Hatálybalépés
 
 11. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg a katonai toborzás rendjéről szóló 29/2001. (HK 9.) HM utasítás hatályát veszti.
 
-Melléklet a 23/2002. (IV. 10.) HM rendelethez[^33]
+Melléklet a 23/2002. (IV. 10.) HM rendelethez[^41]
 
 FELHÍVÁS
 
@@ -36,7 +36,7 @@ FELHÍVÁS
 
 |  | Tudnivalók a hátoldalon | ............................... parancsnok |  |  |
 
-| HADKIEGÉSZÍTŐ PARANCSNOKSÁG |
+| LAKÓHELY SZERINT ILLETÉKES KATONAI IGAZGATÁSI SZERV |
 
 |  | □□□□ |
 
@@ -46,5 +46,5 @@ FELHÍVÁS
 
 | Oda út: | P. H. | Vissza út: | P. H. |
 
-[^32]: A 10. § a 15/2006. (IV. 29.) HM rendelet 7. §-ával megállapított szöveg.
-[^33]: A mellékletet a 24/2004. (IX. 8.) HM rendelet 2. §-a iktatta be, szövege a 15/2006. (IV. 29.) HM rendelet 8. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^40]: A 10. § a 15/2006. (IV. 29.) HM rendelet 7. §-ával megállapított szöveg.
+[^41]: A mellékletet a 24/2004. (IX. 8.) HM rendelet 2. §-a iktatta be, szövege a 15/2006. (IV. 29.) HM rendelet 8. § (1) bekezdésének a) pontja, a 23/2012. (XII. 18.) HM rendelet 35. § d) pontja szerint módosított szöveg.
