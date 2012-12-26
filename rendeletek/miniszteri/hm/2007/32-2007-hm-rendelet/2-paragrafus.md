@@ -12,13 +12,14 @@
 
 6. kiadmányozó szervek:
 
-a)[^2] a HM protokoll és rendezvényszervezésért felelős szervezete,
+a)[^3] a HM protokoll és rendezvényszervezésért felelős szervezete,
 
-b)[^3] az MH Összhaderőnemi Parancsnokság, ha a kiutazást a parancsnoka hagyja jóvá vagy engedélyezi,
+b)[^4] az MH Összhaderőnemi Parancsnokság, ha a kiutazást a parancsnoka hagyja jóvá vagy engedélyezi,
 
 c) a honvédelmi miniszter erre irányuló felhatalmazása esetén a tárca külföldi képviseletét ellátó szervezet vezetője vagy a külföldi magyar katonai képviselet vezetője,
 
-d) a HM Honvéd Vezérkar főnöke erre irányuló felhatalmazása esetén a tartósan külföldön állomásozó MH csapat (kontingens) parancsnoka, a csapat (kontingens) állományába tartozó személyek határátlépése esetén.
+d)[^5] a Honvéd Vezérkar főnöke erre irányuló felhatalmazása esetén a tartósan külföldön állomásozó MH csapat (kontingens) parancsnoka, a csapat (kontingens) állományába tartozó személyek határátlépése esetén.
 
-[^2]: A 2. § 6. pont a) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § 6. pont b) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 6. pont a) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 6. pont b) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § 6. pont d) alpontja a 23/2012. (XII. 18.) Hm rendelet 59. § b) pontja szerint módosított szöveg.

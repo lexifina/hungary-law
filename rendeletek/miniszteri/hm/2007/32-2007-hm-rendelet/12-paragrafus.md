@@ -1,5 +1,5 @@
-12. § (1)[^16] A NATO menetparancs kiadmányozását, nyilvántartását, tárolását, elszámolását a HM informatikai és információvédelmi feladatokért felelős szervezete és a HM protokoll és rendezvényszervezésért felelős szervezete előzetesen egyeztetve az ellenőrzési terv szerint – szükség esetén terven kívül is – egy vagy több meghatalmazott képviselője útján ellenőrzi.
+12. § (1)[^19] A NATO menetparancs kiadmányozását, nyilvántartását, tárolását, elszámolását a HM informatikai és információvédelmi feladatokért felelős szervezete és a HM protokoll és rendezvényszervezésért felelős szervezete előzetesen egyeztetve az ellenőrzési terv szerint – szükség esetén terven kívül is – egy vagy több meghatalmazott képviselője útján ellenőrzi.
 
 (2) Az ellenőrzést végző személy az ellenőrzésről, valamint az ellenőrzés során megállapított hibákról, hiányosságokról jegyzőkönyvet vesz fel, amelynek egy példányát az ellenőrzött kiadmányozó szerv részére át kell adni. Az ellenőrzött kiadmányozó szerv a jegyzőkönyv átvételét követő 30 napon belül tájékoztatja az ellenőrzést végző szervet a megállapított hiányosságokkal kapcsolatban tett intézkedéseiről. Amennyiben az ellenőrzést végző szerv a megtett intézkedéseket nem tartja megfelelőnek, erről a tájékoztatás kézhezvételét követő 15 napon belül tájékoztatja az ellenőrzött kiadmányozó szerv felettes szervét.
 
-[^16]: A 12. § (1) bekezdése a 11/2011. (X. 5.) HM rendelet 6. §-ával megállapított szöveg.
+[^19]: A 12. § (1) bekezdése a 11/2011. (X. 5.) HM rendelet 6. §-ával megállapított szöveg.

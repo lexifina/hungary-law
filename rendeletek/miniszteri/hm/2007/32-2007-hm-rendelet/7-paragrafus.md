@@ -2,7 +2,7 @@
 
 (2) Csoportos menetparancs esetén az útba indított személyi állomány jegyzékét csatolni kell. A menetparancsban feltüntetett személyekben történő változás esetén a programfelelős szerv a szükséges adatok egyidejű megküldésével haladéktalanul tájékoztatja a kiadmányozót.
 
-(3)[^9] A NATO menetparancs adatainak javítását csak az MH TSZ előírása szerint lehet végezni. Amennyiben a menetparancs adatainak javítására nincs lehetőség, új menetparancsot kell kiadni.
+(3)[^11] A NATO menetparancs adatainak javítását csak az MH TSZ előírása szerint lehet végezni. Amennyiben a menetparancs adatainak javítására nincs lehetőség, új menetparancsot kell kiadni.
 
 (4) A NATO menetparancsot a kiadmányozó saját kezűleg írja alá és sorszámos körbélyegzőjével hitelesíti.
 
@@ -10,4 +10,4 @@
 
 (6) A kiadmányozó szerv a NATO menetparancs 2. számú példányát irattározza vagy – a 11. § (1) bekezdésben meghatározott esetben, erre irányuló kérelem alapján – kiadmányozza. Amennyiben a menetparancs 2. számú példánya kiadmányozásra kerül, fénymásolatot kell róla készíteni, amelyet a kiadmányozására és időpontjára vonatkozó záradékkal kell ellátni, majd irattározni.
 
-[^9]: A 7. § (3) bekezdése a 11/2010. (V. 12.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^11]: A 7. § (3) bekezdése a 11/2010. (V. 12.) HM rendelet 4. § b) pontja szerint módosított szöveg.
