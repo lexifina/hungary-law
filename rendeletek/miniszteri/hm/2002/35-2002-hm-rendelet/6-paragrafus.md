@@ -1,19 +1,19 @@
-## 5/A. §[^24]
+## 5/A. §[^25]
 
 ## Külföldi egyéni, családos és gyermeküdülés
 
-6. §[^25] (1)[^26] Külföldi egyszerűsített csereüdülésre jogosult a HM által kötött megállapodás alapján külföldi katonai üdülőben a 3. § a) pont 1–3. alpontjában, továbbá szabad kapacitás esetén a 3. § a) pont 4–5. és 8. alpontjában meghatározott igényjogosult.
+6. §[^26] (1)[^27] Külföldi egyszerűsített csereüdülésre jogosult a HM által kötött megállapodás alapján külföldi katonai üdülőben a 3. § a) pont 1–3. alpontjában, továbbá szabad kapacitás esetén a 3. § a) pont 4–5. és 8. alpontjában meghatározott igényjogosult.
 
-(2)[^27]
+(2)[^28]
 
 (3) Külföldi bérleményes üdülésre jogosult a 3. § a) pont 1–6. és 8. alpontjaiban meghatározott igényjogosult. Az üdülés időtartama az utazási irodák kínálatához igazodik.
 
-(4)[^28] Külföldi gyermek csereüdülésen a 3. § a) pont 1–3. alpontjában, továbbá szabad kapacitás esetén a 3. § a) pont 4–5. és 8. alpontjában meghatározott igényjogosult gyermeke – pedagógus felügyeletével – vehet részt. A résztvevők életkorát, az üdülés időtartamát szerződés határozza meg.
+(4)[^29] Külföldi gyermek csereüdülésen a 3. § a) pont 1–3. alpontjában, továbbá szabad kapacitás esetén a 3. § a) pont 4–5. és 8. alpontjában meghatározott igényjogosult gyermeke – pedagógus felügyeletével – vehet részt. A résztvevők életkorát, az üdülés időtartamát szerződés határozza meg.
 
 (5) A gyermek igényjogosultságát adatlapon azon szervezeti egység igazolja, ahol az igényjogosult szülő szolgálati, illetve munkaviszonyát teljesíti.
 
-[^24]: Az 5/A. §-t és az előtte lévő alcímet a 10/2004. (IV. 22.) HM rendelet 2. §-a iktatta a szövegbe, hatályon kívül helyezte a 3/2012. (III. 6.) HM rendelet 48. §-a.
-[^25]: A 6. § a 17/2003. (V. 6.) HM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2003. május 6-án folyamatban lévő ügyekben is alkalmazni kell.
-[^26]: A 6. § (1) bekezdése a 8/2010. (IV. 23.) HM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2010. április 24-ét követően kezdődő üdültetési turnusok esetében kell alkalmazni.
-[^27]: A 6. § (2) bekezdését a 8/2010. (IV. 23.) HM rendelet 13. § c) pontja hatályon kívül helyezte. E módosító rendelet 15. § (1) bekezdése alapján a 2010. április 24-ét követően kezdődő üdültetési turnusok esetében kell alkalmazni.
-[^28]: A 6. § (4) bekezdése a 8/2010. (IV. 23.) HM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2010. április 24-ét követően kezdődő üdültetési turnusok esetében kell alkalmazni.
+[^25]: Az 5/A. §-t és az előtte lévő alcímet a 10/2004. (IV. 22.) HM rendelet 2. §-a iktatta a szövegbe, hatályon kívül helyezte a 3/2012. (III. 6.) HM rendelet 48. §-a.
+[^26]: A 6. § a 17/2003. (V. 6.) HM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2003. május 6-án folyamatban lévő ügyekben is alkalmazni kell.
+[^27]: A 6. § (1) bekezdése a 8/2010. (IV. 23.) HM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2010. április 24-ét követően kezdődő üdültetési turnusok esetében kell alkalmazni.
+[^28]: A 6. § (2) bekezdését a 8/2010. (IV. 23.) HM rendelet 13. § c) pontja hatályon kívül helyezte. E módosító rendelet 15. § (1) bekezdése alapján a 2010. április 24-ét követően kezdődő üdültetési turnusok esetében kell alkalmazni.
+[^29]: A 6. § (4) bekezdése a 8/2010. (IV. 23.) HM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2010. április 24-ét követően kezdődő üdültetési turnusok esetében kell alkalmazni.
