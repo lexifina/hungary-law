@@ -1,12 +1,12 @@
-## 24. §[^69] A Honvéd Vezérkar főnöke a felkészülés és a megelőzés időszakában
+## 24. §[^70] A Honvéd Vezérkar főnöke a felkészülés és a megelőzés időszakában
 
 a) tanácskozási joggal részt vesz a KKB munkájában,
 
 b) szabályozza a középszintű vezető szervek, végrehajtásban részt vevő katonai szervezetek Katasztrófavédelmi Alkalmazási Terveinek kidolgozását,
 
-c)[^70] kijelöli a KOCS-okat és a tervezett végrehajtó erőket.
+c)[^71] kijelöli a KOCS-okat és a tervezett végrehajtó erőket.
 
-d)[^71] jóváhagyásra felterjeszti a HM közigazgatási államtitkár útján a honvédelmi miniszter részére az egyes katasztrófatípusok sajátosságaira kidolgozott ÁKT-t,
+d)[^72] jóváhagyásra felterjeszti a HM közigazgatási államtitkár útján a honvédelmi miniszter részére az egyes katasztrófatípusok sajátosságaira kidolgozott ÁKT-t,
 
 e) biztosítja a katasztrófavédelmi feladatok végrehajtására kijelölt erők igénybevételi feltételeinek folyamatos meglétét,
 
@@ -16,6 +16,6 @@ g) gondoskodik a katasztrófavédelmi feladatok végrehajtásához szükséges t
 
 h) kijelöli az MH nukleáris, vegyi és biológiai veszély előrejelzésére, felmérésére létrehozott szervezet HKR részeként működő elemeit, szabályozza a működés rendjét.
 
-[^69]: A 24. § bevezető szövege a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^70]: A 24. § c) pontja az 5/2008. (II. 29.) HM rendelet 6. §-ával megállapított szöveg.
-[^71]: A 24. § d) pontja a 19/2010. (XII. 27.) HM rendelet 4. § a) pontja szerint módosított szöveg.
+[^70]: A 24. § bevezető szövege a 27/2007. (VI. 27.) HM rendelet 12. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^71]: A 24. § c) pontja az 5/2008. (II. 29.) HM rendelet 6. §-ával megállapított szöveg.
+[^72]: A 24. § d) pontja a 19/2010. (XII. 27.) HM rendelet 4. § a) pontja szerint módosított szöveg.
