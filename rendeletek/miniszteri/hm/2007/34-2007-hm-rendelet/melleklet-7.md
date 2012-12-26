@@ -48,7 +48,7 @@
 
 | 8. | IV. | szakaszvezető |  |  | legénységi beosztások |
 
-7. melléklet a 34/2007. (VIII. 17.) HM rendelethez[^16]
+7. melléklet a 34/2007. (VIII. 17.) HM rendelethez[^17]
 
 A Nemzeti Közszolgálati Egyetem hivatásos tábornoki, tiszti, zászlósi és altiszti állományának beosztási kategóriába történő részletes besorolása,
 
@@ -82,4 +82,4 @@ B. II. BESOROLÁSI OSZTÁLY
 
 | 3. | VIII. | zászlós | szaktechnikus |
 
-[^16]: A 7. mellékletet a 8/2012. (VI. 11.) HM rendelet 5. § (7) bekezdése iktatta be.
+[^17]: A 7. mellékletet a 8/2012. (VI. 11.) HM rendelet 5. § (7) bekezdése iktatta be.

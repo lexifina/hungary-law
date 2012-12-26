@@ -40,6 +40,6 @@
 
 | 5. | VII. | főtörzsőrmester | beosztott altiszt; beszerző altiszt; forrásgépkezelő; gépjárművezető; kezelő; műveleti-, biztonsági altiszt; távírász; ügykezelő |
 
-5. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^14]
+5. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^15]
 
-[^14]: Az 5. számú mellékletet a 26/2008. (XII. 20.) HM rendelet 6. §-a iktatta be, szövege a 8/2012. (VI. 11.) HM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^15]: Az 5. számú mellékletet a 26/2008. (XII. 20.) HM rendelet 6. §-a iktatta be, szövege a 8/2012. (VI. 11.) HM rendelet 5. § (5) bekezdésével megállapított szöveg.

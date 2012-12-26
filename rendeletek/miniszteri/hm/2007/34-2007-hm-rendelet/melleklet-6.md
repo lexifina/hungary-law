@@ -34,6 +34,6 @@
 
 | 4. | főtörzsőrmester |  |
 
-6. melléklet a 34/2007. (VIII. 17.) HM rendelethez[^15]
+6. melléklet a 34/2007. (VIII. 17.) HM rendelethez[^16]
 
-[^15]: A 6. mellékletet a 8/2012. (VI. 11.) HM rendelet 5. § (6) bekezdése iktatta be.
+[^16]: A 6. mellékletet a 8/2012. (VI. 11.) HM rendelet 5. § (6) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-## 4. §[^4]
+## 4. §[^5]
 
-[^4]: A 4. §-t a 8/2012. (VI. 11.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^5]: A 4. §-t a 8/2012. (VI. 11.) HM rendelet 7. §-a hatályon kívül helyezte.

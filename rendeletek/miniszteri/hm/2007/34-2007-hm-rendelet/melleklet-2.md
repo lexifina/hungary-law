@@ -48,6 +48,6 @@
 
 | 7. | V. | őrmester |  |  |
 
-2. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^11]
+2. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^12]
 
-[^11]: A 2. számú melléklet a 8/2012. (VI. 11.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. számú melléklet a 8/2012. (VI. 11.) HM rendelet 5. § (2) bekezdésével megállapított, a 23/2012. (XII. 18.) HM rendelet 61. §-a szerint módosított szöveg.

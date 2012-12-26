@@ -50,6 +50,6 @@
 
 | 8. | IV. | szakaszvezető |  |  |  |  |  |  |
 
-4. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^13]
+4. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^14]
 
-[^13]: A 4. számú melléklet a 8/2012. (VI. 11.) HM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^14]: A 4. számú melléklet a 8/2012. (VI. 11.) HM rendelet 5. § (4) bekezdésével megállapított szöveg.
