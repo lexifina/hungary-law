@@ -2,6 +2,6 @@
 
 (2) A felségjel részletes leírását a 3. számú melléklet tartalmazza.
 
-(3)[^10] A honvédelmi célú légijárműveken elhelyezendő felségjelek leírását az állami légijárművek nyilvántartásáról szóló jogszabály tartalmazza.
+(3)[^15] A honvédelmi célú légijárműveken elhelyezendő felségjelek leírását az állami légijárművek nyilvántartásáról szóló jogszabály tartalmazza.
 
-[^10]: A 11. § (3) bekezdését a 2/2007. (I. 18.) HM rendelet 3. §-a iktatta be.
+[^15]: A 11. § (3) bekezdését a 2/2007. (I. 18.) HM rendelet 3. §-a iktatta be.
