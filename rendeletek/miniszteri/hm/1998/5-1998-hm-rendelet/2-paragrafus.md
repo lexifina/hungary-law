@@ -1,1 +1,3 @@
-## 1. § A rendelet alkalmazási köre a Magyar Köztársaság Katonai Felderítő Hivatala (a továbbiakban: KFH) és a Magyar Köztársaság Katonai Biztonsági Hivatala (a továbbiakban együtt: KNbSZ) tulajdonában, illetve üzemeltetésében lévő azon gépjárművekre terjed ki, amelyeknél a gépjármű hatósági engedélyébe tulajdonosként (üzemben tartóként) a KNbSZ-ek kerültek bejegyzésre.
+## 1. §[^4] A rendelet alkalmazási köre a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) tulajdonában, vagy üzemeltetésében lévő azon gépjárművekre terjed ki, amelyeknél a gépjármű hatósági engedélyébe tulajdonosként vagy üzemben tartóként a KNBSZ került bejegyzésre.
+
+[^4]: Az 1. § a 23/2012. (XII. 18.) HM rendelet 8. §-ával megállapított szöveg.
