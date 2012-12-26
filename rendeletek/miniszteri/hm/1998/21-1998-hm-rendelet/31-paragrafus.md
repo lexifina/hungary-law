@@ -2,4 +2,6 @@
 
 (2) A típusalkalmassági vizsgálat nem szükséges, ha a légijárművet korábban megvizsgált és elfogadott építési előírások alapján gyártották, és az erre vonatkozó igazolásokat a kérelmező bemutatta.
 
-(3) A Hatóság típusalkalmassági vizsgálatot nem végez, ha az adott típusú légijárművet a légiközlekedési hatóság engedélyével a Magyar Köztársaságban rendszeresen üzemeltetik, és a kérelmező azt megfelelő bizonylatokkal igazolja.
+(3)[^14] A Hatóság típusalkalmassági vizsgálatot nem végez, ha az adott típusú légijárművet a légiközlekedési hatóság engedélyével a Magyarországon rendszeresen üzemeltetik, és a kérelmező azt megfelelő bizonylatokkal igazolja.
+
+[^14]: A 31. § (3) bekezdése a 23/2012. (XII. 18.) HM rendelet 12. §-a szerint módosított szöveg.

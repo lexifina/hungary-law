@@ -2,7 +2,7 @@
 
 16. § (1) A gyártásra, a felújításra, a javításra, a karbantartásra jogosító működési engedély akkor adható ki, ha a tevékenységet végző szervezetnél:
 
-a)[^8]
+a)[^9]
 
 b) a gyártásra, felújításra, javításra, karbantartásra tervezett légijármű, fedélzeti berendezés vagy egyéb a légiközlekedéssel kapcsolatos eszköz dokumentációja – beleértve a technológia leírását is – a rendelkezésre áll. A dokumentáció hiányában is végezhető a tevékenység, ha
 
@@ -30,4 +30,4 @@ i) a légiellenőrzés vagy a működőképesség ellenőrzésének végrehajtá
 
 (3) Az engedélyes a formulárok és a törzskönyvek vezetését a gyári előírásnak megfelelően, a fenntartó által előírt rend szerint végzi.
 
-[^8]: A 16. § (1) bekezdés a) pontját az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
+[^9]: A 16. § (1) bekezdés a) pontját az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.

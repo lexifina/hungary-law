@@ -4,7 +4,7 @@
 
 ## A NYILVÁNTARTÁSBÓL VALÓ TÖRLÉS
 
-10. § (1)[^6] A légijármű üzemeltetésből történő végleges kivonásakor a fenntartó a kivonást – a kivonási jegyzőkönyv, a légialkalmassági bizonyítvány és a nyilvántartásba vételt tanúsító bizonyítvány csatolásával – 15 napon belül a Hatóságnak bejelenti. A bejelentés alapján a Hatóság a légijárművet a Nyilvántartásból törli.
+10. § (1)[^7] A légijármű üzemeltetésből történő végleges kivonásakor a fenntartó a kivonást – a kivonási jegyzőkönyv, a légialkalmassági bizonyítvány és a nyilvántartásba vételt tanúsító bizonyítvány csatolásával – 15 napon belül a Hatóságnak bejelenti. A bejelentés alapján a Hatóság a légijárművet a Nyilvántartásból törli.
 
 (2) A kivonási jegyzőkönyv a következőket tartalmazza:
 
@@ -22,4 +22,4 @@ f) a légijármű selejtezés utáni tervezett sorsát.
 
 (3) A Hatóság a kivizsgálást lezáró határozat alapján, hivatalból törli a Nyilvántartásból a légiközlekedési baleset következtében megsemmisült légijárművet és erről a fenntartót, az üzembentartót és az üzemeltetőt értesíti.
 
-[^6]: A 10. § (1) bekezdése a 2/2011. (V. 12.) HM rendelet 2. § a) pontja szerint módosított szöveg. E módosító rendelet 7. §-a alapján a rendelkezést a 2011. május 20-át követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^7]: A 10. § (1) bekezdése a 2/2011. (V. 12.) HM rendelet 2. § a) pontja szerint módosított szöveg. E módosító rendelet 7. §-a alapján a rendelkezést a 2011. május 20-át követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

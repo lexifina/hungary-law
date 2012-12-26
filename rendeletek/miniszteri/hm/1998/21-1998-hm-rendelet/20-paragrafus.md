@@ -20,6 +20,6 @@ a) a működési engedély kérelem elbírálása során a kérelmezővel egyezt
 
 b) a szemle során ellenőrzi a 16. § (1) bekezdés szerinti feltételek teljesítését, a szemle megállapításairól, eredményeiről jegyzőkönyvet vesz fel;
 
-c)[^11]
+c)[^12]
 
-[^11]: A 20. § (3) bekezdés c) pontját az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
+[^12]: A 20. § (3) bekezdés c) pontját az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.

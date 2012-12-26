@@ -2,7 +2,7 @@
 
 a) a légijármű első üzembe helyezése előtt;
 
-b)[^20] a légialkalmassági bizonyítvány hatályának lejárta esetén;
+b)[^22] a légialkalmassági bizonyítvány hatályának lejárta esetén;
 
 c) közepes vagy nagyjavítás végrehajtása után;
 
@@ -18,4 +18,4 @@ g) a légijármű üzemidejének meghosszabbításakor.
 
 (3) A légialkalmassági vizsgálat az üzemeltető által üzemképesnek minősített légijárműre kérhető.
 
-[^20]: A 45. § (1) bekezdés b) pontja az 5/2010. (III. 9.) HM rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 45. § (1) bekezdés b) pontja az 5/2010. (III. 9.) HM rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

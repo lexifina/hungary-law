@@ -4,7 +4,7 @@
 
 65. § (1) A légialkalmassági vizsgálat dokumentumai a következők:
 
-a)[^38] ,,Hatósági vizsgálati jegyzőkönyv'', amelyet a bizottság és az üzemeltető tölt ki. A jegyzőkönyvhöz mellékelni kell a következő jegyzékeket és dokumentumokat:
+a)[^40] ,,Hatósági vizsgálati jegyzőkönyv'', amelyet a bizottság és az üzemeltető tölt ki. A jegyzőkönyvhöz mellékelni kell a következő jegyzékeket és dokumentumokat:
 
 aa) az üzemeltető által készített jegyzékeket
 
@@ -12,11 +12,11 @@ aa) az üzemeltető által készített jegyzékeket
 
 2. az első felülvizsgálat óta a légijárművön, annak üzemben tartási rendszerén bekövetkezett változások jegyzékét,
 
-ab)[^39] a ,,Hibafelvételi lap''-ot,
+ab)[^41] a ,,Hibafelvételi lap''-ot,
 
 ac) a hajtómű próbalapot,
 
-ad)[^40] a légialkalmassági berepülési jegyzőkönyvet, ejtőernyő esetében a ,,Légialkalmassági vizsgálat jegyzőkönyve'' -t;
+ad)[^42] a légialkalmassági berepülési jegyzőkönyvet, ejtőernyő esetében a ,,Légialkalmassági vizsgálat jegyzőkönyve'' -t;
 
 b) a légialkalmassági bizonyítvány.
 
@@ -34,7 +34,7 @@ d) a légijármű parancsnoka, illetve az ejtőernyő beugró a légijármű min
 
 (4) A légialkalmassági vizsgálat okmányai két példányban készülnek. Az első példányt az üzemeltető, a második példányt a Hatóság tárolja.
 
-(5)[^41] Az (1) bekezdés a) pontja szerinti „Hatósági vizsgálati jegyzőkönyv” a következő adatokat tartalmazza:
+(5)[^43] Az (1) bekezdés a) pontja szerinti „Hatósági vizsgálati jegyzőkönyv” a következő adatokat tartalmazza:
 
 a) a vizsgálatot kérelmező és elrendelő nevét,
 
@@ -64,7 +64,7 @@ cj) üzemképességére vonatkozó megjegyzést,
 
 d) a földi és légi vizsgálat eredményét.
 
-(6)[^42] Az (1) bekezdés a) pontja szerinti „Hatósági vizsgálati jegyzőkönyv” ejtőernyő esetében a következő adatokat tartalmazza:
+(6)[^44] Az (1) bekezdés a) pontja szerinti „Hatósági vizsgálati jegyzőkönyv” ejtőernyő esetében a következő adatokat tartalmazza:
 
 a) a vizsgálatot kérelmező és elrendelő nevét,
 
@@ -86,7 +86,7 @@ cf) nagyjavításainak időpontját,
 
 cg) utolsó javítása óta végrehajtott ugrásainak számát.
 
-(7)[^43] Az (1) bekezdés ad) alpontja szerinti „Légialkalmassági vizsgálati jegyzőkönyv” a következő adatokat tartalmazza:
+(7)[^45] Az (1) bekezdés ad) alpontja szerinti „Légialkalmassági vizsgálati jegyzőkönyv” a következő adatokat tartalmazza:
 
 a) a beugrás helyét és idejét,
 
@@ -110,9 +110,9 @@ dc) esetleges hibáit, sérüléseit,
 
 dd) minősítését.
 
-[^38]: A 65. § (1) bekezdés a) pontja az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^39]: A 65. § (1) bekezdés a) pont ab) alpontja az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^40]: A 65. § (1) bekezdés a) pont ad) alpontja az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^41]: A 65. § (5) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^42]: A 65. § (6) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^43]: A 65. § (7) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 65. § (1) bekezdés a) pontja az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 65. § (1) bekezdés a) pont ab) alpontja az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 65. § (1) bekezdés a) pont ad) alpontja az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 65. § (5) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: A 65. § (6) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: A 65. § (7) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

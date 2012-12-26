@@ -8,6 +8,6 @@
 
 (3) A légialkalmassági bizonyítvány tartalmazza továbbá azokat a feltételeket, korlátozásokat, amelyeket a Hatóság a légijármű használatára vonatkozólag előírt.
 
-(4)[^26] A légialkalmassági bizonyítvány időbeli hatálya személyszállító besorolású légijármű esetén 12 hónap, egyéb légijárműnél 24 hónap, ejtőernyő esetén 5 év. A Hatóság – ha azt korlátozó tényező indokolja – rövidebb időbeli hatályt is meghatározhat.
+(4)[^28] A légialkalmassági bizonyítvány időbeli hatálya személyszállító besorolású légijármű esetén 12 hónap, egyéb légijárműnél 24 hónap, ejtőernyő esetén 5 év. A Hatóság – ha azt korlátozó tényező indokolja – rövidebb időbeli hatályt is meghatározhat.
 
-[^26]: Az 57. § (4) bekezdése az 5/2010. (III. 9.) HM rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: Az 57. § (4) bekezdése az 5/2010. (III. 9.) HM rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -26,11 +26,11 @@ h) a légijármű fenntartóját, címét,
 
 i) a nyilvántartásba vétel időpontját,
 
-j)[^2] az egyedi légialkalmassági bizonyítvány kiadásának idejét, hatályának megújítását,
+j)[^3] az egyedi légialkalmassági bizonyítvány kiadásának idejét, hatályának megújítását,
 
 k) az üzemben tartás során bekövetkezett adatmódosításokat.
 
-(4)[^3]
+(4)[^4]
 
-[^2]: A 4. § (3) bekezdés j) pontja az 5/2010. (III. 9.) HM rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A 4. § (4) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
+[^3]: A 4. § (3) bekezdés j) pontja az 5/2010. (III. 9.) HM rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (4) bekezdését az 5/2010. (III. 9.) HM rendelet 1. § (6) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
