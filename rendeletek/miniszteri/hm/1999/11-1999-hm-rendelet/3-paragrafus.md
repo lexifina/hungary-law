@@ -1,4 +1,4 @@
-## 2. § A rendelet alkalmazási köre az állami célú légiközlekedésben, a Magyar Köztársaság területén és légterében tartott bemutatóra és statikus bemutatóra terjed ki.
+## 2. §[^1] A rendelet alkalmazási köre az állami célú légiközlekedésben, a Magyarországon és légterében tartott bemutatóra és statikus bemutatóra terjed ki.
 
 ## Értelmező rendelkezések
 
@@ -19,3 +19,5 @@ f) NOTAM (Notice to airman): bármely légiforgalmi berendezés, szolgálat, elj
 g) UTC (Universal Time Coordinated): egyeztetett, egyetemes világidő jelölésére használt rövidítés;
 
 h) Hatóság: az Lt. 3. § (2) bekezdése szerinti katonai légügyi hatóság.
+
+[^1]: A 2. § a 23/2012. (XII. 18.) HM rendelet 13. §-a szerint módosított szöveg.
