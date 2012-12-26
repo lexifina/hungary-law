@@ -10,7 +10,7 @@ b) a kötelezett a pénzeszköz megfizetésére vonatkozó kötelezettségét me
 
 ## vonatkozóan a Hivatal részére adatszolgáltatást nyújt.
 
-(3)[^11] A Hivatal a
+(3)[^13] A Hivatal a
 
 a) 3/A. § (1) bekezdés b) pontja szerinti felhasználói csoportba tartozás jogalapját a fizetési könnyítés első alkalommal történő érvényesítését, illetve
 
@@ -22,4 +22,4 @@ követő 90 napon belül egyszeri alkalommal ellenőrzi. Az ellenőrzéshez a fi
 
 (5) Ha az elkülönített számlán a GET 138/A. § (1) bekezdésében meghatározott bevételi hiány kiegyenlítését követően az elkülönített számlára történt befizetések és az arról történt kifizetések egyenlege pozitív, akkor az elkülönített számlán nyilvántartott maradvány pénzösszeget a rendszerirányítási díj mérséklésére kell fordítani, és a rendszerhasználati díj mértékének meghatározásakor figyelembe kell venni.
 
-[^11]: A 6. § (3) bekezdése az 52/2009. (X. 6.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 6. § (3) bekezdése az 52/2009. (X. 6.) KHEM rendelet 3. §-ával megállapított szöveg.
