@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-41-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-12-09 | 2005-41-20-15.1 | 41/2005. (XI. 24.) HM–GKM együttes rendelet |
+| 2012-12-26 | 2005-41-20-15.2 | 23/2012. (XII. 18.) HM rendelet |
