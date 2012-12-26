@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-27-20-1
 | 2011-01-04 | 2002-27-20-15.19 | 7/2007. (II. 23.) HM rendelet |
 | 2012-03-09 | 2002-27-20-15.20 | 3/2012. (III. 6.) HM rendelet |
 | 2012-08-23 | 2002-27-20-15.21 | 18/2012. (VIII. 22.) HM rendelet |
+| 2012-12-26 | 2002-27-20-15.22 | 23/2012. (XII. 18.) HM rendelet |

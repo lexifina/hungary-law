@@ -4,7 +4,7 @@
 
 ## Szolgálati Jelet alapítok.
 
-4/A. §[^8] (1) A természeti és ipari katasztrófák okozta környezeti károk elhárítása során tanúsított kimagasló helytállás elismerésére
+4/A. §[^9] (1) A természeti és ipari katasztrófák okozta környezeti károk elhárítása során tanúsított kimagasló helytállás elismerésére
 
 ## „Katasztrófa-elhárításért”
 
@@ -12,4 +12,4 @@
 
 (2) A Katasztrófa-elhárításért Szolgálati Jel adományozására első alkalommal a 2010. évi vörösiszap-katasztrófa során végzett kiemelkedő tevékenység elismerése céljából kerül sor.
 
-[^8]: A 4/A. §-t a 17/2010. (XII. 3.) HM rendelet 2. §-a iktatta be.
+[^9]: A 4/A. §-t a 17/2010. (XII. 3.) HM rendelet 2. §-a iktatta be.

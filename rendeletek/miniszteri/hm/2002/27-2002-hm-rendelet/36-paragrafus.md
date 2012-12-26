@@ -1,4 +1,4 @@
-36. § (1)[^42] Tiszti, Altiszti és Legénységi Szolgálati Jel a Honvédség állományában ténylegesen eltöltött időtartam után, az 50. §-tól eltérően a szolgálati viszonyban ténylegesen eltöltött idő lejártát követően adományozható. A szolgálati viszonyban történt megszakítások esetén a figyelembe vehető időket össze kell vonni.
+36. § (1)[^44] Tiszti, Altiszti és Legénységi Szolgálati Jel a Honvédség állományában ténylegesen eltöltött időtartam után, az 50. §-tól eltérően a szolgálati viszonyban ténylegesen eltöltött idő lejártát követően adományozható. A szolgálati viszonyban történt megszakítások esetén a figyelembe vehető időket össze kell vonni.
 
 (2) A Szolgálati Jelet a viselt rendfokozatnak megfelelő fokozatban, a más rendfokozati állománycsoportban eltöltött idők beszámításával kell adományozni.
 
@@ -12,4 +12,4 @@ b) aki ellen büntető-, fegyelmi eljárás van folyamatban, annak befejezéséi
 
 (5) A kizáró ok megszűnését követően intézkedni kell az elismerés átadására.
 
-[^42]: A 36. § (1) bekezdése a 3/2012. (III. 6.) HM rendelet 31. §-ával megállapított szöveg.
+[^44]: A 36. § (1) bekezdése a 3/2012. (III. 6.) HM rendelet 31. §-ával megállapított szöveg.

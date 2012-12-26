@@ -1,6 +1,6 @@
-48. § (1)[^62] Az életút elismerésére vonatkozó javaslatot személyi javaslati lapon, az esedékesség előtt három hónappal kell a HM személyügyért felelős szervéhez megküldeni.
+48. § (1)[^66] Az életút elismerésére vonatkozó javaslatot személyi javaslati lapon, az esedékesség előtt három hónappal kell a Honvédség központi személyügyi szervéhez megküldeni.
 
-(2)[^63] Az e rendeletben nem nevesített miniszteri emléktárgy adományozására vonatkozó javaslatot a Honvédség központi személyügyi szervével előzetesen egyeztetni kell.
+(2)[^67]
 
-[^62]: A 48. § (1) bekezdése a 7/2007. (II. 23.) HM rendelet 22. § (3) bekezdése szerint módosított szöveg.
-[^63]: A 48. § (2) bekezdése a 7/2007. (II. 23.) HM rendelet 22. § (3) bekezdése szerint módosított szöveg.
+[^66]: A 48. § (1) bekezdése a 7/2007. (II. 23.) HM rendelet 22. § (3) bekezdése, a 23/2012. (XII. 18.) HM rendelet 43. § b) pontja szerint módosított szöveg.
+[^67]: A 48. § (2) bekezdését a 23/2012. (XII. 18.) HM rendelet 44. § a) pontja hatályon kívül helyezte.
