@@ -238,7 +238,7 @@
 
 ## 2.38. hypophysis hátsó lebeny hormonok: oxytocin im., iv.
 
-4. melléklet a 15/2012. (VII. 30.) HM rendelethez
+4. melléklet a 15/2012. (VII. 30.) HM rendelethez[^4]
 
 ......................................................
 
@@ -254,7 +254,7 @@ aki 19........ év .................... hó ......... napján született,
 
 (anyja neve: ..............................................................................)
 
-az MH egészségügyi szolgálatfőnök által kijelölt vizsgabizottság előtt
+az MH Honvédkórház parancsnoka által kijelölt vizsgabizottság előtt
 
 20..... év………….hó……..napján eredményes vizsgát tett
 
@@ -275,3 +275,5 @@ Ez az igazolás a Magyar Honvédség hivatásos és szerződéses állományú k
 |  | felelős személy |
 
 P. H.
+
+[^4]: A 4. melléklet a 23/2012. (XII. 18.) HM rendelet 80. § c) pontja szerint módosított szöveg.
