@@ -1,3 +1,3 @@
-## 15. § A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet (a továbbiakban: R3.) 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^3]
 
-## „(4) A 3. § (1) bekezdés d) és f) pontja szerinti árelemek a Hivatal által megállapított rendszerhasználati díjak szerint kerülnek megállapításra, azzal az eltéréssel, hogy a d) pont szerinti árelemek közül a szállítás díjának megállapítása során a földgáz rendszerhasználat árszabályozásának kereteiről szóló 74/2009. (XII. 7.) KHEM rendelet [a továbbiakban: 74/2009. (XII. 7.) rendelet] 4. melléklet 1.1.4. pontja szerinti reálhozam tényező 2,28%-os értékkel kerül figyelembevételre. A fentiek szerint, valamint a 74/2009. (XII. 7.) rendelet 4. melléklet 1.1.4. pontja szerinti reálhozam tényezővel megállapított fajlagos értékeket a Hivatal a honlapján közzéteszi.”
+[^3]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## „gy) elosztási átszállítási díj: az a díj, amelyet a rendszerhasználóként eljáró felhasználó, valamint a földgázkereskedő köteles megfizetni annak a földgázelosztónak, akinek az üzemeltetett elosztóvezetékébe a földgáz betáplálásra kerül és egy más földgázelosztó által üzemeltetett elosztóvezetékbe kerül továbbításra,”

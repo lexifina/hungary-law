@@ -22,4 +22,6 @@
 
 | go: | a 0,1%-os kéntartalmú gázolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári negyedévet megelőző 9 naptári hónap során USD/t-ban (3 tizedes értékre kerekítve), USD/t A havi átlagárat a Platts által publikált „Gasoil 0.1 FOB Med” napi „low” és „high” értékeiből külön-külön meghatározott (2 tizedes értékre kerekített) havi átlagok számtani középértéke adja. Ha a havi tény értékek nem állnak rendelkezésre, akkor − az aktuális negyedévet megelőző negyedév második hónapjának átlagárát a hónap 1. napjától a 15. napjáig terjedő időszak banki napjain jegyzett tény értékek adják, és − az aktuális negyedévet megelőző hónap átlagárának meghatározásakor a megfelelő (az aktuális negyedévet megelőző negyedév második hónapjának 1-jétől a 15. napjáig terjedő időszak banki napjain jegyzett) PlattsForward jegyzésárakat kell alkalmazni. A havi átlagár a napi legmagasabb, illetve legalacsonyabb jegyzésekből külön-külön meghatározott havi átlagok számtani középértéke.” |
 
-5. melléklet a 78/2012. (XII. 22.) NFM rendelethez
+5–6. melléklet a 78/2012. (XII. 22.) NFM rendelethez[^13]
+
+[^13]: Az 5–6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
