@@ -1,16 +1,16 @@
-## millió forintban
+## Millió forintban
 
 | Fejezet | Zárolási kötelezettség |
 
 | Közigazgatási és Igazságügyi Minisztérium | 2 629,6 |
 
-| Miniszterelnökség | 832,2 |
+| Miniszterelnökség | 812,2 |
 
 | Kormányzati Ellenőrzési Hivatal | 0,0 |
 
 | Vidékfejlesztési Minisztérium | 1 000,0 |
 
-| Honvédelmi Minisztérium | 769,5 |
+| Honvédelmi Minisztérium | 448,0 |
 
 | Belügyminisztérium | 2 449,4 |
 
@@ -26,7 +26,7 @@
 
 | Központi Statisztikai Hivatal | 101,5 |
 
-| Összesen | 32 048,6 |
+| Összesen | 31 707,1 |
 
 2. melléklet az 1428/2012. (X. 8.) Korm. határozathoz
 

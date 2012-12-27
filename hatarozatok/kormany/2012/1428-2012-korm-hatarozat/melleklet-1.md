@@ -14,13 +14,11 @@
 
 ## Határidő: folyamatos
 
-## 4. Az 1. és 2. pontokban foglaltakon kívül a Kormány a Magyar Köztársaság 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet
+## 4.[^2] Az 1. és 2. pontokban foglaltakon kívül a Kormány a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet
 
-## a)[^1]
+## a)[^3]
 
-## b) XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP programok alcím, 3. PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások jogcím-csoport kiadási és támogatási előirányzatából 3 100,0 millió forintot, valamint
-
-## c) XVII. Nemzeti Fejlesztési Minisztérium fejezet, a 20. Fejezeti kezelésű előirányzatok cím, 43. EU Önerő Alap alcím kiadási előirányzatából 20 000,0 millió forintot
+## b)[^4] XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP programok alcím, 3. PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások jogcím-csoport kiadási és támogatási előirányzatából 2100,0 millió forintot, valamint
 
 ## zárol.
 
@@ -58,7 +56,7 @@
 
 ## Határidő: azonnal
 
-## 9–10.[^2]
+## 9–10.[^5]
 
 ## 11. A Kormány felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy terjesszék a Kormány elé az innovációs járulékelőleg kiegészítését előíró törvénytervezetet úgy, hogy a törvényjavaslat elfogadása esetén a törvény kihirdetése 2012. november 10-ig megtörténhessen.
 
@@ -68,8 +66,10 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1428/2012. (X. 8.) Korm. határozathoz[^3]
+1. melléklet az 1428/2012. (X. 8.) Korm. határozathoz[^6]
 
-[^1]: A 4. pont a) alpontját az 1561/2012. (XII. 6.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^2]: A 9–10. pontot az 1635/2012. (XII. 18.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^3]: Az 1. melléklet az 1635/2012. (XII. 18.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 4. pont nyitó szövegrésze az 1672/2012. (XII. 27.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^3]: A 4. pont a) alpontját az 1561/2012. (XII. 6.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^4]: A 4. pont b) alpontja az 1672/2012. (XII. 27.) Korm. határozat 1. pont b) alpontjával megállapított szöveg.
+[^5]: A 9–10. pontot az 1635/2012. (XII. 18.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^6]: Az 1. melléklet az 1672/2012. (XII. 27.) Korm. határozat 2. pontjával megállapított szöveg.
