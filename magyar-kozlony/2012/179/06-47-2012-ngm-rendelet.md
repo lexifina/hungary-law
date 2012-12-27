@@ -1,0 +1,39 @@
+# A nemzetgazdasági miniszter 47/2012. (XII. 27.) NGM rendelete
+
+Magyar Közlöny 2012. évi 179. szám, 2012. december 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ad07daf14040b84f285cd257fc3dbce6a80968d5/dokumentumok/07ba03038944d23f8667a99d1e9f00d6f636feb4/letoltes)
+
+---
+
+A nemzetgazdasági miniszter 47/2012. (XII. 27.) NGM rendelete
+a könyvviteli szolgáltatást végzők nyilvántartásba vételéért, a nyilvántartásban szereplő adatok
+módosításáért, valamint a nyilvántartásból való törlésért, továbbá a továbbképző szervezetek
+akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díjról és a díj megfizetésének részletes
+szabályairól szóló 39/2008. (XII. 31.) PM rendelet módosításáról
+A számvitelről szóló 2000. évi C. törvény 178. § (5) bekezdésében kapott felhatalmazás alapján – az egyes miniszterek, valamint
+a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § e) pontjában
+meghatározott feladatkörömben eljárva – a következőket rendelem el:
+1. § A könyvviteli szolgáltatást végzők nyilvántartásba vételéért, a nyilvántartásban szereplő adatok módosításáért,
+valamint a nyilvántartásból való törlésért, továbbá a továbbképző szervezetek akkreditációs eljárásáért fizetendő
+igazgatási szolgáltatási díjról és a díj megfizetésének részletes szabályairól szóló 39/2008. (XII. 31.) PM rendelet
+(a továbbiakban: Rendelet) 1. §-a a következő d) ponttal egészül ki:
+[A rendelet hatálya kiterjed arra a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm.
+rendelet (a továbbiakban: Korm. rendelet) szerinti]
+„d) szakmai kiadványok kiadására jogosult szervezetre, amely kérelmezi szakmai kiadványa kreditpont-értékének
+megállapítását.”
+2. § A Rendelet 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A (2) és (3) bekezdés szerinti díjat a Nemzetgazdasági Minisztérium 10032000-01460658-00000000 számú
+számlájára kell befizetni.”
+3. § A Rendelet 3. §-a a következő (3) és (4) bekezdéssel egészül ki:
+„(3) Az akkreditált szervezetnek a Korm. rendelet 10/D. § (1) bekezdése szerinti, valamint a szakmai kiadványok
+kiadására jogosult szervezetnek a Korm. rendelet 10/F. § (1) bekezdése szerinti kreditpont-minősítési eljárásért
+igazgatási szolgáltatási díjat kell fizetnie a 2. § (4) és (5) bekezdésében előírt módon.
+(4) A (3) bekezdés szerinti igazgatási szolgáltatási díj összege 5000 forint.”
+4. § A Rendelet
+a) 4. § (1) bekezdésében a „Pénzügyminisztérium” szövegrész helyébe a „számviteli szabályozásért felelős miniszter
+által vezetett minisztérium”,
+b) 4. § (2) bekezdésében az „a Pénzügyminisztérium” szövegrész helyébe az „az eljáró hatóság”
+szöveg lép.
+
+5. § Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+Dr. Matolcsy György s. k.,
+nemzetgazdasági miniszter
