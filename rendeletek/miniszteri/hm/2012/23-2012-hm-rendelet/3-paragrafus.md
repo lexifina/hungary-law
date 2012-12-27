@@ -1,3 +1,0 @@
-## 2. § A Magyar Honvédség jelképeiről és jelzéseiről szóló 3/1996. (IV. 12.) HM rendelet (a továbbiakban: R1.) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A csapatzászló adományozása iránti kérelmet a 2. § (1) bekezdése szerinti katonai szervezet parancsnoka, vezetője a tervezett csapatzászló-átadási ünnepet megelőző 90 nappal a Honvédelmi Minisztérium (a továbbiakban: HM) katonai hagyományőrzésért felelős szervének véleményével együtt – a Honvédség központi személyügyi szerve útján – a HVKF-nek terjeszti fel. A HVKF az adományozásra vonatkozó javaslatát a beérkezéstől számított 30 napon belül terjeszti elő a honvédelemért felelős miniszternek (a továbbiakban: miniszter).”

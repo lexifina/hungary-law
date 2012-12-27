@@ -1,3 +1,0 @@
-## 60. § A Magyar Honvédség hivatásos és szerződéses állományú tagjainak beosztási kategóriába történő részletes besorolásáról, illetve a beosztásokban rendszeresített rendfokozatokról szóló 34/2007. (VIII. 17.) HM rendelet (a továbbiakban: R13.) 1. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2a) A honvédelemért felelős miniszter – a szolgálat érdekében, a HVKF munkáltatói jogkörébe nem tartozó beosztások esetében – a HVKF javaslatára az állománytáblákban, illetve a munkaköri jegyzékekben rendszeresített rendfokozatot a (2) bekezdéstől eltérően lefelé két rendfokozati szinttel eltérítheti.”
