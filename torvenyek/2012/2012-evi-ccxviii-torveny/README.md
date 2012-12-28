@@ -1,0 +1,7 @@
+# 2012. évi CCXVIII. törvény a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-218-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2012-12-28 | 2012. évi CCXVIII. törvény | 2012-218-00-00.0 (közlönyállapot) |
