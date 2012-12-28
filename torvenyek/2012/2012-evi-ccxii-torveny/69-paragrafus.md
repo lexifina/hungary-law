@@ -1,9 +1,0 @@
-69. § (1) Az Eütev. 29. §-a a következő (12a) bekezdéssel egészül ki:
-
-„(12a) A Kormány által a 11/A. § (1), (2), (5) és (6) bekezdésében foglaltakra tekintettel kormányrendeletben megállapított ellátások, egészségügyi szolgáltatók vagy munkakörök módosítása esetén az illetmény- vagy bérnövelés és a 30. § szerinti támogatás igénybevételének feltételeit, valamint az irányadó határidőket vagy határnapokat a Kormány rendeletben állapítja meg.”
-
-(2) Az Eütev. 29. §-a a következő (19) és (20) bekezdéssel egészül ki:
-
-„(19) A 2012. június 30-án és 2012. július 1-jén is az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (5) bekezdése szerinti munkakörben álló foglalkoztatott a 11/A. § (5) bekezdése szerinti garantált illetményre vagy bérre a (12) bekezdésben meghatározott folyamatos illetmény- vagy bérnövelés útján jogosult. A 2012. június 30-át követően az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (5) bekezdése szerinti munkakört létesítő foglalkoztatott az egészségügyi ágazati előmeneteli szabályok alapján őt megillető illetmény- vagy bérnövelésre kizárólag a 11/A. § (5) bekezdése alapján jogosult.
-
-(20) A 2012. december 31-én és 2013. január 1-jén is az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (4) bekezdése szerinti orvos munkakörben álló foglalkozatott a 11/A. § (4) bekezdése szerinti garantált illetményre vagy bérre a (11) bekezdésben meghatározott folyamatos illetmény- vagy bérnövelés útján jogosult. A 2012. december 31-ét követően az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (4) bekezdése szerinti munkakört létesítő foglalkoztatott az egészségügyi ágazati előmeneteli szabályok alapján őt megillető illetmény- vagy bérnövelésre kizárólag a 11/A. § (4) bekezdése alapján jogosult.”
