@@ -14,6 +14,8 @@ a 3. § (1) bekezdés a) pontja szerinti esetben az 5/A. § (7) bekezdése szeri
 
 (2b) Az egészségügyi szakellátási kötelezettség ellátása érdekében a (2a) bekezdés szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettségét nem teljesítő helyi önkormányzat vonatkozásában a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdését kell alkalmazni azzal, hogy az egészségügyi szakellátási feladat a magyar állam részére megállapított feladatnak a (2a) bekezdésben meghatározott időponttól minősül.
 
+(2c) A (2a) és (2b) bekezdés alkalmazásában szakellátási feladat alatt az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesítő egészségügyi közszolgáltatásért felelős szerv érintett egészségügyi szolgáltatója által ellátott valamennyi – e törvény hatálya alá tartozó – szakellátási feladatot érteni kell.
+
 (3) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási kötelezettségének, illetve az egészségügyi szakellátási intézményműködtetési kötelezettségének vagy az egészségügyi szakellátási feladatának, valamint az állam a (2) bekezdés szerinti ideiglenes feladatának (a továbbiakban együtt: ellátási kötelezettség) teljesítése érdekében
 
 a) más egészségügyi közszolgáltatásért felelős szervvel vagy más fenntartóval az ellátási kötelezettség teljesítéséről megállapodást vagy

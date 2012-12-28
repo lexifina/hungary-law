@@ -36,7 +36,7 @@ ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
 
 ic) jogszabályban előírt bármely más finanszírozott szolgáltatási egység, ideértve a CT, MRI, PET/CT, illetve egyéb, külön jogszabályban meghatározott eszközök finanszírozott szolgáltatási egységét, a művesekezelés finanszírozott szolgáltatási egységét;
 
-j) egészségügyi szakellátási felelősség: az egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdés l) pontja alapján a magyar államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásoknak az l), az o), illetve a p) pontban meghatározott módon történő biztosításáról;
+j) egészségügyi szakellátási felelősség: az államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásoknak az l), az o), illetve a p) pontban meghatározott módon, valamint a 2. § (2) bekezdése szerinti esetben az ott meghatározott módon történő biztosításáról;
 
 k) alapszakma: belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
 
