@@ -5,11 +5,3 @@
 (2) Az 1. §, a 3–6. §, a 9–13. §, a 17–22. §, a 23. § (2) bekezdése és a 24. § 2013. január 1-jén lép hatályba.
 
 (3) A 7–8. §, a 14. § és a 16. § 2013. január 2-án lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
