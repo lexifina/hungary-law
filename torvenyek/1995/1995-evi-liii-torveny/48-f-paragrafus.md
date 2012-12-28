@@ -2,7 +2,7 @@
 
 a) környezetvédelmi hatóságnak,
 
-b) talajvédelmi hatóságnak,
+b)
 
 c) ingatlanügyi hatóságnak és
 
