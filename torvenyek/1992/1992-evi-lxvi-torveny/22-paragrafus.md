@@ -1,6 +1,6 @@
 22. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
-a) az állami ingatlan-nyilvántartás szervei az ingatlan-nyilvántartás vezetéséhez;
+a) az ingatlan-nyilvántartás, illetve földhasználati nyilvántartás szervei az ingatlan-nyilvántartás és a földhasználati nyilvántartás vezetésével összefüggésben;
 
 b) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a katonai igazgatás illetékes területi szervei és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
 
