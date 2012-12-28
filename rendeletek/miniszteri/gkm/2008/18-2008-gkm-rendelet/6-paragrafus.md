@@ -2,4 +2,6 @@
 
 (2) A melléklet II. rész 1.1. pont b) alpontja és 3.4. pont e) alpontja 2010. január 1-jén lép hatályba.
 
-(3) A Rendőrség által használt, e rendelet hatálybalépése előtt a Rendőrség által használatba vett ellenőrző berendezésre és adattovábbító rendszerre 2012. december 31-ig nem kell alkalmazni a 3. § (1) bekezdés a) pontjában, illetve a mellékletben megállapított követelményeket.
+(3)[^3] A Rendőrség által e rendelet hatálybalépése előtt használatba vett, vagy az e rendelet hatálybalépésekor már folyamatban lévő közbeszerzési eljárással beszerzett vagy beszerzésre kerülő ellenőrző berendezéseit, valamint adattovábbítási rendszereit 2014. december 31-éig a 3. § (1) bekezdés a) pontjában, illetve a mellékletben foglalt követelményeknek megfelelőnek kell tekinteni.
+
+[^3]: A 6. § (3) bekezdése a 72/2012. (XII. 20.) NFM rendelet 2. §-ával megállapított szöveg.

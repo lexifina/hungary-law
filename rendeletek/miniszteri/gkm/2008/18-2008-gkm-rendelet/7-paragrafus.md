@@ -16,23 +16,21 @@ I. Az elektronikus közúti ellenőrző rendszerre vonatkozó általános követ
 
 a) a berendezés azonosítója,
 
-b) a berendezést kezelő be- és kijelentkezése és azonosítója,
+b)[^4] a berendezést kezelő személy azonosítója, a bejelentkezés, a kijelentkezés időpontja,
 
 c) a felvétel indításának és leállításának időpontja, a felvétel készítésének helye,
 
-d) a jogszabályi rendelkezés megsértését igazoló képfelvétel (képfelvételek) egyedi sorszáma,
+d)[^5] a jogszabályi rendelkezés megsértését igazoló képfelvétel (képfelvételek) azonosítója és készítésének időpontja,
 
-e) a berendezés üzemeltetőjének vagy kezelőjének elektronikus azonosítója,
+e)–f)[^6]
 
-f) a képfelvétel továbbítását azonosító adat.
+1.5.[^7] A naplózási adatokat belső adathordozóra rögzítse és kialakítása olyan legyen, hogy a készülék felnyitása nélkül ne lehessen azokat módosítani vagy eltávolítani. A naplózási adatokat on-line kapcsolattal továbbítsa a feldolgozó központba. A dokumentálás megkezdésének időpontját azonnal, valós időben, a dokumentálás befejezésére vonatkozó adatokat a kijelentkezéssel egy időben kell megküldeni. A dokumentációk naplózási adatait legalább minden 10 szabályszegés dokumentálása, de legfeljebb 30 percenként kell továbbítani a feldolgozó központba.
 
-1.5. A naplózási adatokat belső adathordozóra rögzítse, és kialakítása olyan legyen, hogy a készülék felnyitása nélkül ne lehessen azokat módosítani vagy eltávolítani. A naplózási adatokat on-line kapcsolattal továbbítsa a feldolgozó központba.
-
-1.6. A képfelvétel és a hozzá tartozó paraméterek (például az ellenőrző eszköz beállítása) elektronikus rögzítése és a rögzítést követő 12 órán belül az adattovábbító rendszerbe történő elektronikus továbbítása – a manipuláció lehetőségét kizáró módon – biztosított legyen. Az ellenőrző berendezés adattárolóján tárolt adatok törlését csak az adatok elektronikus adattovábbító rendszer által történt sikeres továbbítását követően tegye lehetővé (végezze el).
+1.6.[^8] A közigazgatási bírsággal sújtandó szabályszegések dokumentálására használt ellenőrző berendezéssel készített valamennyi képfelvétel és a hozzá tartozó paraméterek (például az ellenőrző eszköz beállítása) elektronikus rögzítése és a rögzítést követő 12 órán belül az adattovábbító rendszerbe történő elektronikus továbbítása – a manipuláció lehetőségét kizáró módon – biztosított legyen. Az ellenőrző berendezés adattárolóján tárolt adatok törlését csak az adatok elektronikus adattovábbító rendszer által történt sikeres továbbítását követően tegye lehetővé (végezze el).
 
 1.7. A képfelvétel rögzítése során biztosítsa, hogy a felvételt utólagosan módosítani ne lehessen, illetve az esetleges utólagos módosítást vagy technikai okból bekövetkezett módosulást ellenőrizni lehessen.
 
-1.8. A képfelvételen rögzítse az ellenőrzés helyének meghatározásához szükséges adatokat (földrajzi koordináták).
+1.8.[^9] A képfelvételen rögzítse az ellenőrzés helyének meghatározásához szükséges adatokat, (kódolva, szövegesen vagy GPS koordinátákkal).
 
 2. Az elektronikus adattovábbító rendszerre vonatkozó követelmények
 
@@ -48,35 +46,19 @@ II. Az ellenőrző berendezésre vonatkozó egyedi követelmények
 
 1.1. Nagy teljesítményű passzív vagy aktív üzemű digitális eszköz, amely folyamatos vagy szakaszos üzemeltetésű, kapcsolódik az adatfeldolgozó rendszerhez, és alkalmas
 
-a)[^1] a közúton azonos irányban több forgalmi sávban közlekedő gépjárművekről elölről, hátulról, illetve elölről és hátulról is képfelvétel készítésére,
+a)[^10] a közúton azonos irányban több forgalmi sávban közlekedő gépjárművekről elölről, hátulról, illetve elölről és hátulról is képfelvétel készítésére,
 
-b)[^2] az ellenőrzött gépjárművek külön jogszabályban meghatározott kategóriánkénti megkülönböztetésére (például személygépkocsi, tehergépkocsi).
+b)[^11] az ellenőrzött gépjárművek külön jogszabályban meghatározott kategóriánkénti megkülönböztetésére (például személygépkocsi, tehergépkocsi).
 
-1.2. A pillanatnyi járműsebességet ellenőrző berendezés által készített egyes képfelvételek tartalmazzák a képfelvétel-készítés helyét (kódolva, szövegesen vagy GPS koordinátákkal), a képfelvétel-készítés dátumát, időpontját, a megengedett és – a közúti ellenőrzésre szolgáló járműsebesség-mérő által – mért sebességértékét. A képfelvételen rögzített adatokat a képfelvételhez digitális (elektronikus) úton közvetlenül kiolvashatóan is csatolni kell.
+1.2.[^12] A pillanatnyi járműsebességet ellenőrző berendezés által készített egyes képfelvételek tartalmazzák a megengedett és – a közúti ellenőrzésre szolgáló járműsebesség-mérő által – mért sebességértékét, valamint a képfelvétel egyedi azonosítóját. A képfelvételen rögzített adatokat a képfelvételhez digitális (elektronikus) úton közvetlenül kiolvashatóan is csatolni kell.
 
-1.3. A gépjárművek sebességét legalább 240 km/óra sebességig rögzítse és jelenítse meg.
-
-1.4. A nem helyhez kötött kivitelű pillanatnyi járműsebességet ellenőrző berendezés az 1.1–1.3. pontban meghatározott feltételeken túl a következő követelményeknek feleljen meg:
-
-a) legyen képes dokumentálni a szabályszegést elkövető gépjárműveket oly módon, hogy a szabályszegés észlelését és a felvétel elindítását megelőző beállítható időtartamú, de legalább 15 másodperc eseményei is rögzítésre kerüljenek,
-
-b) a szembiztonsága – ha a berendezés lézer üzemű – feleljen meg a vonatkozó nemzetközi előírásoknak (NE 60825/1191. Lézer osztály I.),
-
-c) legyen alkalmas saját áramforrásról vagy a gépjármű akkumulátoráról (12 V, negatív földelésű egyenfeszültségről) történő működtetésre, és a feszültségingadozás (kiesés, túlfeszültség) a mérési eredményt ne befolyásolja, a berendezést ne károsítsa.
-
-1.5. A telepített üzemű pillanatnyi járműsebességet ellenőrző berendezés az 1.1–1.3. pontban meghatározott feltételeken túl a következő követelményeknek feleljen meg:
-
-a) szembiztonsága – ha a berendezés lézer üzemű – feleljen meg az idevonatkozó nemzetközi előírásoknak (NE 60825/1191. Lézer osztály I.),
-
-b) legyen alkalmas 220/230 V, 50 Hz váltakozó feszültségről történő üzemeltetésre és a feszültségingadozás (kiesés, túlfeszültség) a mérési eredményt ne befolyásolja, a berendezést ne károsítsa,
-
-c) kialakítása nyújtson megfelelő védelmet az időjárás, a rongálás és a tűz általi károkozás ellen.
+1.3.–1.5.[^13]
 
 2. A vasúti átjárón való áthaladásra, a járműforgalom irányítására szolgáló fényjelző készülék jelzéseire, a járművel történő megállásra és várakozásra, az autópálya leálló sávjának igénybevételére, a behajtási tilalomra, a kötelező haladási irányra és a természet védelmére vonatkozó rendelkezéseket ellenőrző berendezésre vonatkozó követelmények
 
-2.1.[^3] Nagy teljesítményű passzív vagy aktív üzemű digitális eszköz, amely folyamatos vagy szakaszos üzemeltetésre a közúton azonos irányban közlekedő gépjárművekről elölről, hátulról, illetve elölről és hátulról is képfelvétel készítésére és a dokumentált szabályszegés jellegének beállítására alkalmas.
+2.1.[^14] Nagy teljesítményű passzív vagy aktív üzemű digitális eszköz, amely folyamatos vagy szakaszos üzemeltetésre a közúton azonos irányban közlekedő gépjárművekről elölről, hátulról, illetve elölről és hátulról is képfelvétel készítésére és a dokumentált szabályszegés jellegének beállítására alkalmas.
 
-2.2. A szabályszegést elkövető gépjárműről készített és rögzített képfelvételek száma, azok elektronikus adattartalma legyen alkalmas a szabályszegés elkövetésének bizonyításához szükséges elemzéshez.
+2.2.[^15]
 
 3. Az átlagsebesség-ellenőrző rendszerre vonatkozó követelmények
 
@@ -92,11 +74,11 @@ a) biztosítsa a 0–24 órán keresztüli, folyamatos, megszakítás nélküli 
 
 b) ismerje fel a jármű rendszámát,
 
-c) a rögzített adatok, illetve a kiértékelés tegye lehetővé a 80 km/óra átlagsebesség felett haladó járművek sebességének értékelését, az értékelés pontossága érje el 100 km/óra sebességig a ±3 km/órát, 100 km/óra sebesség felett a ±3%-ot,
+c)[^16] a rögzített adatok, illetve a kiértékelés tegye lehetővé a megengedett legnagyobb sebesség felett haladó járművek sebességének értékelését, az értékelés pontossága érje el 100 km/óra sebességig a ±3 km/órát, 100 km/óra sebesség felett a ±3%-ot,
 
-d) a képfelvételeket feldolgozó berendezés számítógépének adattárolója legyen alkalmas legalább ezer esemény tárolására, a tárolt adatok a manipulációval szemben legyenek védettek,
+d)[^17] a képfelvételeket kiértékelő berendezés számítógépének adattárolója legyen alkalmas legalább ezer esemény tárolására, a tárolt adatok a manipulációval szemben legyenek védettek,
 
-e)[^4] tartalmazzon beépített forgalomszámlálót a megfigyelt járművek számának meghatározására a megengedett sebesség megállapításához rögzített járműkategóriák szerint,
+e)[^18] tartalmazzon beépített forgalomszámlálót a megfigyelt járművek számának meghatározására a megengedett sebesség megállapításához rögzített járműkategóriák szerint,
 
 f) a telepített készülék rongálásbiztos kivitelű és temperált legyen, hogy –20 °C és +40 °C közötti hőmérséklettartományban egyaránt kifogástalanul működjön,
 
@@ -104,7 +86,18 @@ g) ellenőrző berendezéseiben alkalmazott időmérő eszközök szinkronizált
 
 h) ellenőrző berendezései által az átlagsebesség meghatározásához figyelembe vett útszakasz az országos hosszúságetalonra visszavezethető módon kimért legyen.
 
-[^1]: A melléklet II. rész 1.1. pontjának a) alpontja az 5/2008. (VI. 3.) KHEM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^2]: A melléklet II. rész 1.1. pont b) alpontja – a 6. § (2) bekezdése alapján – 2010. január 1-jén lép hatályba.
-[^3]: A melléklet II. részének 2.1. pontja az 5/2008. (VI. 3.) KHEM rendelet 6. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^4]: A melléklet II. rész 3.4. pont e) alpontja – a 6. § (2) bekezdése alapján – 2010. január 1-jén lép hatályba.
+[^4]: A melléklet I. fejezet 1.4. pont b) alpontja a 72/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^5]: A melléklet I. fejezet 1.4. pont d) alpontja a 72/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^6]: A melléklet I. fejezet 1.4. pont e)–f) alpontját a 72/2012. (XII. 20.) NFM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A melléklet I. fejezet 1.5. pontja a 72/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^8]: A melléklet I. fejezet 1.6. pontja a 72/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^9]: A melléklet I. fejezet 1.8. pontja a 72/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^10]: A melléklet II. rész 1.1. pontjának a) alpontja az 5/2008. (VI. 3.) KHEM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^11]: A melléklet II. rész 1.1. pont b) alpontja – a 6. § (2) bekezdése alapján – 2010. január 1-jén lép hatályba.
+[^12]: A melléklet II. fejezet 1.2. pontja a 72/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^13]: A melléklet II. fejezet 1.3.–1.5. pontját a 72/2012. (XII. 20.) NFM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A melléklet II. részének 2.1. pontja az 5/2008. (VI. 3.) KHEM rendelet 6. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^15]: A melléklet II. fejezet 2.2. pontját a 72/2012. (XII. 20.) NFM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A melléklet II. fejezet 3.4. pont c) alpontja a 72/2012. (XII. 20.) NFM rendelet 3. §-ával megállapított szöveg.
+[^17]: A melléklet II. fejezet 3.4. pont d) alpontja a 72/2012. (XII. 20.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^18]: A melléklet II. rész 3.4. pont e) alpontja – a 6. § (2) bekezdése alapján – 2010. január 1-jén lép hatályba.
