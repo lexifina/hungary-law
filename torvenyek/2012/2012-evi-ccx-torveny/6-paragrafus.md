@@ -1,22 +1,8 @@
 ## 5. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-6. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 53/C. §-a a következő (11) és (12) bekezdéssel egészül ki:
+6. § (1)
 
-„(11) Az építésügyi és az építésfelügyeleti hatóság eljárást lezáró döntésének jogerőre emelkedésétől és végrehajthatóvá válásától számított hat hónapot követően új ügyfél nem vehet részt az eljárásban.
-
-(12) Az ügyfél a fellebbezését indokolni köteles, a fellebbezésnek a megtámadott döntéssel tartalmilag összefüggőnek kell lennie, és a fellebbezésben csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre lehet hivatkozni.”
-
-(2) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 60. §-a a következő (10)–(12) bekezdéssel egészül ki:
-
-„(10) A fővárosi kerületi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervben meghatározott keretövezet figyelembevétele helyett a fővárosi településszerkezeti terv területfelhasználásának megfelelő egyéb alkalmazható keretövezetnek megfelelő építési övezetet, övezetet állapíthat meg a fővárosi szabályozási keretterv módosítása nélkül a fővárosi önkormányzat hozzájárulásával.
-
-(11) A fővárosi önkormányzat a kerületi önkormányzat (10) bekezdés szerinti módosítással kapcsolatos
-
-a) hozzájárulását nem adja meg, indokolni köteles,
-
-b) hozzájárulás kérdésében 60 napon belül nem határoz, a hozzájárulást megadottnak kell tekinteni.
-
-(12) Amennyiben a keretövezet változtatása szükséges, és a (10) bekezdésben foglalt eset nem áll fenn, a fővárosi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervet módosíthatja.”
+(2)
 
 (3) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 17. pontja helyébe a következő rendelkezés lép:
 

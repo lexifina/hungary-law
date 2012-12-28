@@ -1,3 +1,0 @@
-21. § A Ket. 57. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szemletárgy birtokosát és az 56. § (1) bekezdésében meghatározott személyt (a továbbiakban együtt: szemletárgy birtokosa) a szemléről – a (2) és (3) bekezdésben foglalt kivétellel – előzetesen értesíteni kell. Ha a szemle eredményessége érdekében indokolt, az értesítésnek tartalmaznia kell a szemletárgy birtokosának személyes jelenlétére, a szükséges iratok előkészítésére irányuló felhívást. Az értesítést – ha az ügy körülményeiből más nem következik – úgy kell közölni, hogy azt a szemletárgy birtokosa legalább öt nappal korábban megkapja.”
