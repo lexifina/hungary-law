@@ -12,4 +12,4 @@
 
 (6) Az első felügyelő testület tagjait a törvény hatálybalépését követő 120 napon belül kell kinevezni. A felügyelő testület a valamennyi tagja kinevezését, megválasztását követő 30 napon belül köteles ügyrendjének megállapítására, amelyet az alakuló ülést követő első közgyűlés hagy jóvá.
 
-(7) Az MMA az alakuló közgyűlést követően tagválasztásra köteles, akként, hogy az MMA rendes tagjainak száma 2012. december 31-éig lehetőleg elérje a 7. § (3) bekezdésben meghatározott létszámot.
+(7) Az MMA az alakuló közgyűlést követően tagválasztásra köteles, akként, hogy az MMA rendes tagjainak száma 2012. december 31-ig lehetőleg elérje a 200 főt.
