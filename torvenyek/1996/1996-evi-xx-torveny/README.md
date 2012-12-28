@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2012-04-14 | 2012. évi XVIII. törvény | 1996-20-00-00.32 |
 | 2012-07-26 | 2012. évi CXVIII. törvény | 1996-20-00-00.33 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 1996-20-00-00.34 |
+| 2012-12-28 | 2012. évi CCXIII. törvény | 1996-20-00-00.35 |
