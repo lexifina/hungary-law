@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2012-07-01 | 2012. évi LXXIX. törvény | 1997-154-00-00.53 |
 | 2012-07-21 | 2012. évi LXXIX. törvény | 1997-154-00-00.54 |
 | 2012-10-26 | 2012. évi CLIV. törvény | 1997-154-00-00.55 |
+| 2012-12-28 | 2012. évi CCXII. törvény | 1997-154-00-00.56 |

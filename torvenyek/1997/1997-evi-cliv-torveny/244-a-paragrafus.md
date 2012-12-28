@@ -12,10 +12,10 @@
 
 (7) Az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyek esetében a felsőoktatási intézmény – a (4) bekezdés szerinti időpontot követően – az egészségügyi felsőfokú szakirányú szakképzés képzési követelményeit meghatározó jogszabály szerinti részelemeinek teljesítéséről legkésőbb 15 napon belül elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
 
-(8) A 152. § (3) bekezdése szerinti kötelezettség a helyi önkormányzatot addig terheli, amíg a szakellátást nyújtó egészségügyi szolgáltató a tulajdonából és a fenntartásából, illetve a 152. § (3) bekezdés szerinti vagyon a tulajdonából ki nem kerül.
+(8)
 
-(9) Amennyiben a 2012. május 1-jét megelőzően a helyi önkormányzat tulajdonában és fenntartásában lévő egészségügyi szakellátást nyújtó szolgáltató, illetve a 152. § (3) bekezdésében meghatározott vagyon a magyar állam tulajdonába és fenntartásába kerül, az átvett egészségügyi szolgáltató által végzett, illetve az átvett – 152. § (3) bekezdése szerinti – vagyon használatával végzett szakellátási feladatokat a magyar állam az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 1. § (2) bekezdés p) pontja szerinti egészségügyi szakellátási kötelezettsége alapján a települési önkormányzat 152. § (3) bekezdése szerinti kötelezettségének megszűnésétől kezdve látja el.
+(9)
 
-(10) Abban az esetben, ha a 2012. május 1-jét megelőzően a helyi önkormányzat tulajdonában és fenntartásában lévő egészségügyi szakellátást nyújtó szolgáltató, illetve a tulajdonában lévő 152. (3) bekezdése szerinti vagyon úgy kerül ki a helyi önkormányzat tulajdonából, illetve fenntartásából, hogy az nem a magyar állam tulajdonába és fenntartásába kerül, az új tulajdonos, illetve fenntartó köteles arról gondoskodni, hogy a szolgáltató az Eftv. 2. § (1) bekezdés c) pontja alapján az egészségügyi szakellátási feladatot ellássa.
+(10)
 
-(11) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdésének alkalmazásában a (9) bekezdésben meghatározott esetben a települési önkormányzat által a 152. § (3) bekezdése alapján végzett egészségügyi szakellátási feladat a magyar állam részére megállapított feladatnak – ha törvény eltérően nem rendelkezik – a (9) bekezdésben foglalt időponttól minősül.
+(11)

@@ -48,6 +48,16 @@ w) a holttest hűtésének naponkénti legmagasabb árát
 
 rendeletben megállapítsa.
 
+(1a) Felhatalmazást kap a Kormány arra, hogy rendeletben
+
+a) meghatározza a 244/D. § (2) bekezdésében foglalt járóbeteg-szakellátási feladat és a hozzá kapcsolódó helyi önkormányzati tulajdonban lévő vagyon állam általi átvételének feltételeit és eljárási szabályait,
+
+b) kijelölje a 244/D. § (2) bekezdésében foglalt járóbeteg-szakellátási feladat és a hozzá kapcsolódó helyi önkormányzati tulajdonban lévő vagyon átvétele során és az átvételt követően az állam nevében eljáró, illetve 244/D. § (9) bekezdése szerinti előzetes engedély megadására jogosult szervet,
+
+c) meghatározza a helyi önkormányzatoktól átvett egészségügyi intézmények felett az egészségügyért felelős miniszter által kijelölt szerv által gyakorolt feladat- és hatásköröket, az általa gyakorolt jogokat és kötelezettségeket,
+
+d) meghatározza a 244/D. § (2) bekezdésben foglalt járóbeteg-szakellátási feladatot 2013. április 30-át követően is ellátó helyi önkormányzattal kötendő – a Mötv. 10. § (3) bekezdése szerinti – megállapodással kapcsolatos eljárási szabályokat, a megállapodással szembeni tartalmai és formai követelményeket, a megállapodás időtartamára, felmondására és egyéb okból történő megszűnésére vonatkozó szabályokat és a megállapodással kapcsolatban az állam nevében eljárásra és a megállapodás aláírására jogosult szervet.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás közegészségügyi-járványügyi szabályait,
@@ -165,59 +175,3 @@ q) a szervekkel, szövetekkel és sejtekkel kapcsolatos tevékenység tekinteté
 r) a véradások szervezésével kapcsolatos részletes szabályokat, a térítéses véradások eseteit, a véradókat megillető költségtérítés, illetőleg a célzott (saját vagy meghatározott személy részére történő) véradás szabályait, továbbá a vérellátás biztonságának biztosítása érdekében szükséges önkéntes véradásra történő felhívás anyagi támogatásának ösztönzésével kapcsolatos szabályokat,
 
 s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait,
-
-sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat,
-
-t) a vérkészítmények terápiás felhasználásának részletes szabályait,
-
-u) az egységes ágazati humánerőforrás-monitoringrendszer működésének részletes szabályait,
-
-v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, visszavonására, valamint – az államháztartásért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat
-
-w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
-
-x) a természetes gyógytényezőkre vonatkozó részletes szabályokat,
-
-y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
-
-z) az egészségügyi szolgáltatóknál végezhető egészségügyi ellátások nyilvántartására és a nyilvántartásba vételére vonatkozó szabályokat,
-
-zs) a közúti járművezetői engedély megszerzéséhez szükséges elsősegély-nyújtási ismeretek megszerzésének részletes szabályait, továbbá a gépjárművezetők egészségi alkalmassága elbírálásának szabályait
-
-rendeletben állapítsa meg.
-
-(3) Felhatalmazást kap a miniszter, hogy
-
-a) az EFE központi és regionális részéből megszerezhető forrásokra irányuló pályázatok eljárási szabályait,
-
-b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
-
-c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
-
-d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
-
-e) a gyermekágyas és az újszülöttellátás szabályait
-
-f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit,
-
-g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett végzők felügyeletének módjával, illetve a felügyelet szintjével kapcsolatos szabályokat
-
-rendeletben állapítsa meg.
-
-(4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
-
-(5) Felhatalmazást kap
-
-a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
-
-b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
-
-c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
-
-cb) az egészségügyi szolgáltatók működési engedélyezésével kapcsolatosan,
-
-cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
-
-cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
