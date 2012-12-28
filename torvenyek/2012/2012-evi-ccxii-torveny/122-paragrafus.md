@@ -1,0 +1,3 @@
+122. § A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Ttv.) 5. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Amennyiben az az (1) bekezdésben meghatározott szerződéseknek az (1) bekezdés alapján történő felmondása miatt szükséges, az egészségügyi államigazgatási szerv – az Eftv-ben meghatározott szabályok szerint – rendelkezik az érintett szakellátási kapacitások és ellátási területek átcsoportosításáról, illetve módosításáról azzal, hogy a szerződés felmondása miatt indult bírósági eljárásra tekintettel nem függeszthető fel az átcsoportosítás, illetve a módosítás tárgyában indult hatósági eljárás.”

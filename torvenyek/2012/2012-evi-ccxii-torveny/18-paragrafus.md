@@ -1,0 +1,3 @@
+18. § Az Ebtv. 29. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A biztosított az egészségügyi szolgáltatás igénybevételéhez – ha jogszabály eltérően nem rendelkezik – a Társadalombiztosítási Azonosító Jelet (a továbbiakban: TAJ-szám) igazoló hatósági igazolványát és – amennyiben a biztosított a 14. életévét betöltötte – érvényes, a személyazonosság megállapítására alkalmas igazolványát köteles bemutatni. A biztosított a TAJ-számát a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartásra vonatkozó rendelkezések szerint is igazolhatja.”

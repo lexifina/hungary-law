@@ -1,0 +1,5 @@
+28. § Az Ebtv. 68/B. §-a helyébe a következő rendelkezés lép:
+
+„68/B. § (1) A biztosított köteles megtéríteni a neki felróható módon jogalap nélkül igénybe vett, gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás után folyósított támogatás összegét, közgyógyellátás jogcímen történő rendelés esetén pedig a közgyógyellátás jogcímcsoport előirányzatából finanszírozott összeget is, ha arra a 38/B. § alapján lefolytatott eljárást követően írásban kötelezték.
+
+(2) A biztosítottat a megtérítésre előírt összeg után az Art.-ban meghatározott késedelmi pótlékkal azonos mértékű kamatfizetési kötelezettség terheli. Nem kell megfizetni a kamatot, ha annak összege az 1000 forintot nem éri el.”
