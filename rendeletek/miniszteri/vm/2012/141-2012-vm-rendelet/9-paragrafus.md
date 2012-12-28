@@ -1,0 +1,7 @@
+## 7. Támogatási rendszer
+
+9. § (1) Az óvodások, az általános iskolai tanulók, valamint a gyógypedagógiai, konduktív pedagógiai nevelésben-oktatásban részt vevő tanulók ellátása esetén az óvoda-, és iskolatej program lebonyolítása a bizottsági rendelet szerinti támogatás összegéig közösségi forrásból és ehhez kapcsolódóan Magyarország 2013. évi központi költségvetéséről szóló törvényben meghatározott forrásból kerül finanszírozásra.
+
+(2) A közösségi támogatás forintban meghatározott értékének kiszámításakor az euróval kapcsolatos agromonetáris rendszernek a mezőgazdaságban való alkalmazására vonatkozó részletes szabályok megállapításáról és egyes rendeletek módosításáról szóló, 2006. december 20-i 1913/2006/EK bizottsági rendelet 5. cikk (4) bekezdésének megfelelően az adott támogatási időszakban annak az időszaknak a kezdő napján érvényes, az Európai Központi Bank által hivatalosan közzétett forint/euró középárfolyamot kell alapul venni, amelyre a támogatási kérelem vonatkozik.
+
+(3) A fenntartók székhelyük alapján a 6–8. melléklet szerint kerülnek az igényelhető támogatási mérték tekintetében besorolásra. A támogatási kategóriákba való besorolás a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 4. melléklete szerinti jövedelemdifferenciálódás mérséklésében év végén elfoglalt pozíciója, valamint 2010–2011. évi önhibáján kívüli hátrányos helyzete figyelembevételével történik.
