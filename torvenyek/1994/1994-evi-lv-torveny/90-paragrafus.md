@@ -22,7 +22,7 @@ i) a mezőgazdasági igazgatási szerv vagy szervek kijelölését.
 
 a) a 11. § (2) bekezdése szerinti védőtávolságok mértékére és érvényesítésére vonatkozó szabályokat;
 
-b)
+b) az ingatlanügyi hatóság vagy hatóságok illetékességi területét rendeletben szabályozza;
 
 c)
 
