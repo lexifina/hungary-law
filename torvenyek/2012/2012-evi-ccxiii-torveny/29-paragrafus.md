@@ -1,0 +1,3 @@
+29. § Az Inytv. 27. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A jogosult a tulajdonjog-bejegyzés iránti kérelem benyújtásával egyidejűleg kérheti lakcíme ehhez kapcsolódó megváltozásának ingatlan-nyilvántartásban történő átvezetését is. A kérelem alapján az ingatlanügyi hatóság a tulajdonjog bejegyzésről szóló határozat jogosult részére történő közlésétől számított 30 nap elteltét követő 30 napon belül, a személyiadat- és lakcímnyilvántartásból történő adatátvétel alapján, amennyiben a bejelentett lakcímváltozás regisztrációja megtörtént, gondoskodik a változás ingatlan-nyilvántartásban történő átvezetéséről.”

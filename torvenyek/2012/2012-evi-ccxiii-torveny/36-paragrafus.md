@@ -1,0 +1,5 @@
+36. § Az Inytv. a következő 70/A. § és 70/B. §-sal egészül ki:
+
+„70/A. § Annak megállapítása érdekében, hogy a kérelmező – az általa megadott természetes személyazonosító adatok alapján – Magyarországon rendelkezik-e ingatlantulajdonnal, az ingatlanügyi hatóság – a 70. § (1) bekezdésében foglaltakra tekintet nélkül – adatlekérdezést végez, amelynek eredményéről hatósági bizonyítványt állít ki.
+
+70/B. § A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló szerződések feltárása érdekében az ingatlanügyi hatóság a számítógéppel vezetett ingatlan-nyilvántartási adatbázisban a jogellenes jogügyletekben részt vevő felek személyének, illetve a szerzési korlát túllépésének megállapításához szükséges és erre alkalmas adatok vonatkozásában – a 70. § (1) bekezdésében foglaltakra tekintet nélkül – az adatfeldolgozás, -kezelés, -tárolás, -átvétel és -átadás részletes szabályait tartalmazó törvényi előírásoknak megfelelő adatkezelést végezhet.”

@@ -1,0 +1,1 @@
+89. § Az Mkk tv. 21. § (4) bekezdésének rendelkezéseit a 2013. január 1-je előtt megkötött szerződések esetén a 2013. január 1-jét követően esedékessé váló szolgáltatások tekintetében is alkalmazni kell.
