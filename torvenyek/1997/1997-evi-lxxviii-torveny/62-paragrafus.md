@@ -109,3 +109,9 @@ t) a miniszter által adományozandó szakmai díjak átadásának és a díjakk
 (5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendelettel állapítsa meg.
 
 (6) Felhatalmazást kap a miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető, továbbá az építési, a bontási és a használatbavételi bejelentésre vonatkozó igazgatási szolgáltatási díjakat.
+
+(8) Felhatalmazást kap
+
+a) a fővárosi kerületi önkormányzat, hogy 2014. június 30-ig a fővárosi településszerkezeti terv területfelhasználásnak megfelelő egyéb alkalmazható keretövezetnek megfelelő építési övezetet, övezetet állapítson meg,
+
+b) a fővárosi önkormányzat, hogy 2014. június 30-ig, amennyiben a keretövezet változtatása szükséges, a fővárosi szabályozási kerettervet módosítsa.
