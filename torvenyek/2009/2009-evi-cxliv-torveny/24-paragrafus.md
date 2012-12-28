@@ -1,6 +1,6 @@
 ## Küldöttgyűlés
 
-24. § (1) A társulat legfőbb szerve a küldöttgyűlés, amely évente legalább egyszer ülést tart.
+24. § (1) A küldöttgyűlés évente legalább egyszer ülést tart.
 
 (2) A küldöttgyűlés tagjai a területi egységenként választott küldöttek, továbbá a tisztségviselők, akik a küldöttgyűlésen szavazati joggal rendelkeznek.
 

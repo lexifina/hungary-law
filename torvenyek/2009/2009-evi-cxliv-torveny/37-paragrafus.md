@@ -22,7 +22,7 @@ g) gondoskodik a küldöttgyűlés és az intézőbizottság elé terjesztendő 
 
 h) gondoskodik arról, hogy a társulat tagjairól nyilvántartást vezessenek és a változást, az éves küldöttgyűlést követő 30 napon belül az illetékes cégbírósághoz benyújtsák;
 
-i) összehívja a küldöttgyűlést, a rendkívüli küldöttgyűlést és az intézőbizottsági ülést;
+i) összehívja a közgyűlést, küldöttgyűlést, a rendkívüli küldöttgyűlést és az intézőbizottsági ülést;
 
 j) beszámol a küldöttgyűlésnek és az intézőbizottságnak a közfeladat teljesítéséről, a társulat vagyoni helyzetéről, az ügyviteléről, valamint a küldöttgyűlések és az intézőbizottsági ülések között általa hozott legfontosabb intézkedésekről;
 

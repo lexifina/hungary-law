@@ -4,7 +4,7 @@ a) alapszabály módosítása;
 
 b) a társulat megszüntetésének, szétválásának, egyesülésének, illetőleg a kiválás és a belépés engedélyezése;
 
-c) az egyéb támogatások jellegének és mértékének meghatározása;
+c) az önkéntes befizetésekből származó támogatások felhasználása;
 
 d) a szervezeti és működési szabályzat elfogadása, módosítása;
 

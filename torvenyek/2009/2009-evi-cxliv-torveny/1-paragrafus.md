@@ -32,7 +32,7 @@
 
 15. küldött: a társulat tagjainak képviseletét ellátó személy, akit az alakuló gyűlés vagy a területi egység tagjai választanak;
 
-16. küldöttgyűlés: a társulat legfőbb szerve, a társulat küldöttjeinek és tisztségviselőinek összessége;
+16. küldöttgyűlés: a társulat küldöttjeinek és tisztségviselőinek összessége;
 
 17. küldött jelölt: területi egységenként az érdekeltek által jelölt személy, akit az alakuló gyűlés választ meg küldöttnek;
 
@@ -74,4 +74,6 @@
 
 36. törvényességi felügyeletet gyakorló szerv: a területileg illetékes cégbíróság;
 
-37. vízitársulati jegyzett tőke: a vízitársulatok saját vagyona.
+37. vízitársulati jegyzett tőke: a vízitársulatok saját vagyona;
+
+38. közgyűlés: a társulati tagok összessége.

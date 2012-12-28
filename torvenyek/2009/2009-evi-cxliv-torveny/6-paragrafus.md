@@ -2,7 +2,7 @@
 
 a) a társulat alapszabályában meghatározott módon küldöttet válasszon;
 
-b) képviselője vagy küldöttje útján részt vegyen a társulati feladatok meghatározásában, a határozatok meghozatalában;
+b) a közgyűlésen személyesen vagy képviselője útján részt vegyen a társulati feladatok meghatározásában, a határozatok meghozatalában;
 
 c) a társulatban személyesen – ha kizáró ok, illetőleg összeférhetetlenség nem áll fenn – tisztséget viseljen;
 

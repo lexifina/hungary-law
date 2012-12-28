@@ -2,8 +2,10 @@
 
 23. § A társulat szervei:
 
-a) küldöttgyűlés;
+a) közgyűlés;
 
-b) intézőbizottság;
+b) küldöttgyűlés;
 
-c) felügyelőbizottság.
+c) intézőbizottság;
+
+d) felügyelőbizottság.
