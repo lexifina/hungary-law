@@ -16,7 +16,7 @@
 
 (7) Ahol jogszabály ,,történeti értékű iratot'' említ, azon ,,maradandó értékű iratot'' kell érteni.
 
-(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai az állam tulajdonát képezik.
+(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai az állam tulajdonát képezik. Az iratok őrzési helye a Magyar Nemzeti Levéltár Országos Levéltára.
 
 (9)
 
