@@ -16,4 +16,4 @@ b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró ható
 
 c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegbízott feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
 
-d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését, feladat- és hatáskörét, valamint azokat a szerveket, amelyek tekintetében a kormánymegbízott feladat- és hatáskörét gyakorolja.
+d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését.
