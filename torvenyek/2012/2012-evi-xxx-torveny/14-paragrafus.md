@@ -4,27 +4,29 @@
 
 (2) A HB
 
-a) a Szellemi Tulajdon Nemzeti Hivatalának elnöke által delegált 1,
+a) a nemzetpolitikáért felelős miniszter által delegált 1,
 
-b) az igazságügyért felelős miniszter által delegált 1,
+b) a Szellemi Tulajdon Nemzeti Hivatalának elnöke által delegált 1,
 
-c) a helyi önkormányzatokért felelős miniszter által delegált 1,
+c) az igazságügyért felelős miniszter által delegált 1,
 
-d) a kultúráért és oktatásért felelős miniszter által együttesen delegált 1,
+d) a helyi önkormányzatokért felelős miniszter által delegált 1,
 
-e) az agrár-vidékfejlesztésért felelős miniszter által a természetvédelemért felelős miniszterrel együtt delegált 1,
+e) a kultúráért és az oktatásért felelős miniszter által együttesen delegált 1,
 
-f) a turizmusért felelős miniszter által delegált 1,
+f) az agrár-vidékfejlesztésért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
 
-g) a fejlesztéspolitikáért felelős miniszter által delegált 1,
+g) a turizmusért felelős miniszter által delegált 1,
 
-h) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
+h) a fejlesztéspolitikáért felelős miniszter által delegált 1,
 
-i) a Magyar Művészeti Akadémia (a továbbiakban: MMA) elnöke által delegált 1,
+i) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
 
-j) a MÁÉRT által delegált 3, és
+j) a Magyar Művészeti Akadémia (a továbbiakban: MMA) elnöke által delegált 1,
 
-k) az Országgyűlés által delegált 2
+k) a MÁÉRT által delegált 3, és
+
+l) az Országgyűlés által delegált 2
 
 tagból áll.
 

@@ -18,6 +18,6 @@ e) a hatáskörrel rendelkező miniszterek, valamint
 
 f) a Magyar Értéktárban nyilvántartott nemzeti értéket gondozó, vagy ilyen terméket előállító magánszemélyek vagy vállalkozások.
 
-(2) Közösségi oltalom alatt álló vagy nemzetközi elismerésben részesített nemzeti értékek külön elbírálás nélkül, e törvény erejénél fogva hungarikumoknak minősülnek. Az így hungarikumnak minősülő nemzeti értékek adatait a HB közzéteszi.
+(2) Az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete által kiemelkedő egyetemes értékként vagy szellemi kulturális örökségként nyilvántartott és az 1. § (1) bekezdés g) pont ga)–gc) alpontja szerinti feltételeknek megfelelő javak külön elbírálás nélkül, e törvény erejénél fogva hungarikumoknak minősülnek. Az így hungarikumnak minősülő nemzeti értékek adatait a HB közzéteszi.
 
-(3) A (2) bekezdés rendelkezése a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény 116/A. § (10) bekezdése alapján átmeneti nemzeti oltalom alatt álló elnevezések esetében is alkalmazandó. Amennyiben az Európai Bizottság a kérelmet elutasítja, az a hungarikummá minősülés tényét nem érinti.
+(3)
