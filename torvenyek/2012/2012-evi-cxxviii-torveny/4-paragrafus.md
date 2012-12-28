@@ -16,6 +16,8 @@ eb) a tanácsi rendelet 123. cikk (3) bekezdés c) pontjában felsorolt tevéken
 
 ec) a tagságát tekintve az adott termék előállításának, feldolgozásának, illetve kereskedelmének jelentős arányát képviseli.
 
+(1a) Tej és tejtermékágazat esetében a tanácsi rendelet 126b. cikkének (2) bekezdésében foglaltakat alkalmazni kell.
+
 (2) Egy ágazatban csak egy szakmaközi szervezet ismerhető el.
 
 (3) A miniszter a szakmaközi szervezetet évente legalább egyszer ellenőrzi, amely során megvizsgálja, hogy megfelel-e az elismerési feltételeknek. Amennyiben a szakmaközi szervezet nem felel meg valamely elismerési feltételnek, a miniszter határidő tűzésével felszólítja a szakmaközi szervezetet az elismerési feltételeknek megfelelő működés helyreállítására. Ennek eredménytelen elteltét követően a miniszter ötvenezertől ötmillió forintig terjedő összegű felügyeleti bírságot szab ki, amelynek mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel kell megállapítani.

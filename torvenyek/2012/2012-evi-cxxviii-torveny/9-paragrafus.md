@@ -1,4 +1,4 @@
-9. § (1) A 8. §-ban foglaltaktól eltérő ágazatban a piacszervezési intézkedések kiterjesztésére a 8. § rendelkezéseit e §-ban foglalt eltéréssel kell alkalmazni.
+9. § (1) A 8. §-ban foglaltaktól eltérő ágazatban az elismert reprezentatív szakmaközi szervezet által kezdeményezett piacszervezési intézkedések kiterjesztésére a 8. § rendelkezéseit e §-ban foglalt eltéréssel kell alkalmazni.
 
 (2) Piacszervezési intézkedés kiterjesztése a következő célok elérése érdekében kezdeményezhető:
 
@@ -18,6 +18,16 @@ g) az ökológiai gazdálkodás, valamint az eredetmegjelölések, a minőséget
 
 h) közösségi és ágazati promóciós intézkedések.
 
-(3) Piacszervezési intézkedés kiterjesztése abban az esetben kezdeményezhető, ha az intézkedés a szakmaközi szervezetnél már legalább egy éve hatályban van.
+i) a termékek értékének különösen a közegészségügyet nem veszélyeztető új felhasználási módok által történő növelésére irányuló kutatások;
+
+j) a termékek minőségének javítását célzó tanulmányok;
+
+k) kutatás, különösen az olyan művelési módszerek területén, amelyek lehetővé teszik a növényvédő szerek és az állatgyógyászati készítmények használatának csökkentését, és biztosítják a talaj és a környezet védelmét;
+
+l) a minőségi minimumkövetelmények, valamint a csomagolásra és a kiszerelésre vonatkozó minimumszabályok meghatározása;
+
+m) minősített vetőmag használata és a termékminőség ellenőrzése.
+
+(3) Azon piacszervezési intézkedés kiterjesztése kezdeményezhető, amely a kérelem beadásának időpontjában már legalább egy éve hatályban van.
 
 (4) Piacszervezési intézkedés kiterjesztése legfeljebb három gazdasági évre alkalmazható.

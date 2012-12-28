@@ -2,7 +2,7 @@
 
 3. § A miniszter
 
-a) a szervezet kérelme alapján – a tanácsi rendelet 123. cikk (2) bekezdésében foglalt esetek kivételével – dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének visszavonásáról;
+a) a tanácsi rendelet 123. cikk (2) bekezdésében foglalt esetek kivételével, a szervezet kérelme alapján – amennyiben a tanácsi rendelet másként nem rendelkezik – a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított négy hónapon belül dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének felfüggesztéséről vagy visszavonásáról;
 
 b) a szakmaközi szervezet kérelme és az adott ágazatra vonatkozó gazdasági adatok alapján egyedileg vizsgálja az elismerési feltételek, a szakmaközi célok megvalósítására való alkalmasság, illetve a reprezentativitás és a 4. § (1) bekezdése e) pontjának ec) alpontja szerinti jelentős arány meglétét;
 
