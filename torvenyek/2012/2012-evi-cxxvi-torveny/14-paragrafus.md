@@ -30,7 +30,15 @@ g) a tisztességtelen verseny vagy a tisztességtelen kereskedelmi gyakorlat til
 
 h) határozatban figyelmezteti a tagok és a fogyasztók érdekeivel ellentétes gazdasági tevékenységet folytató, és ezzel a tagok és a velük gazdasági kapcsolatban levő más vállalkozások széles körének jó hírnevét sértő vagy veszélyeztető tagot;
 
-i) amennyiben az agrárkamara a kamarai tagot az etikai szabályzatban meghatározottak szerint megbízható üzleti partnerként minősíti, erről a kamarai tag kérelmére nyilatkozik.
+i) amennyiben az agrárkamara a kamarai tagot az etikai szabályzatban meghatározottak szerint megbízható üzleti partnerként minősíti, erről a kamarai tag kérelmére nyilatkozik;
+
+j) agrárgazdasági tevékenység gyakorlásával összefüggő általános szerződési feltétel alkalmazásáról előzetes egyeztetést tart,
+
+k) megfelelő határidő biztosításával javaslatot tesz az agrárgazdasági tevékenység gyakorlásával összefüggésben alkalmazott, és a b) pontban foglaltakkal ellentétes rendelkezést tartalmazó általános szerződési feltétel módosítására,
+
+l) a j) és k) pont szerinti eljárások eredménytelensége esetén agrárgazdasági tevékenység gyakorlásával összefüggésben alkalmazott általános szerződési feltételként a szerződés részévé váló tisztességtelen kikötés érvénytelenségének megállapítását kérheti a bíróságtól,
+
+m) agrárgazdasági tevékenység gyakorlásával összefüggésben alkalmazott általános szerződési feltétellel kapcsolatos álláspontjáról az agrárkamara internetes honlapján tájékoztatót tesz közzé.
 
 (3) Az agrárkamara az agrárgazdasági tevékenységet folytatók általános, együttes érdekeinek érvényesítése céljából
 
