@@ -1,0 +1,1 @@
+## „(3) Ha az üzemeltető vagy a kezelő észleli, hogy az elektronikus közúti ellenőrző rendszer által rögzített adatok hibásak, az adatok rögzítését és az elektronikus adattovábbítást az üzemeltetőnek, a kezelőnek, illetve a közreműködőnek fel kell függesztenie, továbbá erről a feldolgozó központot és a megbízót haladéktalanul értesítenie kell.”
