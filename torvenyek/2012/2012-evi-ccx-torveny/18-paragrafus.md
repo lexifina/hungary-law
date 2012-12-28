@@ -1,0 +1,3 @@
+18. § A Ket. 44. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mérlegeli a szakhatóság megkeresését és maga dönt a szakkérdésben. Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mellőzi a szakhatóság megkeresését. Ha a hatóság maga dönt a szakkérdésben, ehhez szakértőt nem rendelhet ki, és az adott szakkérdésre vonatkozó szakhatósági eljárásért illeték és díj nem kérhető. Ha mérlegelés esetén a hatóság úgy dönt, hogy megkeresi a szakhatóságot, a szakhatóság állásfoglalása kötelező a hatóságra nézve.”
