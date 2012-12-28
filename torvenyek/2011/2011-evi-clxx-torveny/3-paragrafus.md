@@ -6,7 +6,7 @@ a) a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van
 
 b) az általa megvásárolt lakóingatlan vonatkozásában eljár az állam tulajdonjogának ingatlan-nyilvántartási bejegyzése érdekében,
 
-c) az általa megvásárolt lakóingatlan felett vagyonkezelői jogot gyakorol,
+c) az általa megvásárolt lakóingatlan és a lakhatási célú ingatlan felett vagyonkezelői jogot gyakorol,
 
 d) a vagyonkezelésében lévő állami vagyont közvetlenül vagy magánjogi szerződés útján hasznosítja,
 

@@ -16,7 +16,7 @@ d) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény közöt
 
 e)
 
-f) lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
+f) lakóingatlan: a Nemzeti Eszközkezelő által megvásárolható, lakás céljára létesített és az ingatlan-nyilvántartásban
 
 fa) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel,
 
@@ -24,7 +24,7 @@ fb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport és az
 
 g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
 
-h)
+h) lakhatási célú ingatlan: a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgáló, erre a célra épített állami tulajdonú ingatlan,
 
 i) természetes személy:
 

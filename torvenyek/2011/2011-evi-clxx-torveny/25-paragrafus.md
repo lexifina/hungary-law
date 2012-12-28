@@ -16,4 +16,6 @@ d) az e törvény hatálya alá tartozó lakóingatlanok bérlők közötti cser
 
 e) a Nemzeti Eszközkezelő által megvásárolandó lakóingatlanok maximális számát, valamint ezen lakóingatlanok kiválasztásának módját, ha a megvételre felajánlott lakóingatlanok száma a jogszabályban meghatározott maximális havi darabszámot az adott hónapban meghaladja,
 
-f) a Nemzeti Eszközkezelő 4. § (2) bekezdésében megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket.
+f) a Nemzeti Eszközkezelő 4. § (2) bekezdésében megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
+
+g) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait.
