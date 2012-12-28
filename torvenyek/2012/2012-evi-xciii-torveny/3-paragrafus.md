@@ -1,3 +1,3 @@
-3. § (1) Az e törvény alapján a Magyar Állam ingyenes használatába kerülő vagyon vagyonkezelője a használati jog keletkezésével egyidejűleg e törvény erejénél fogva a fővárosi és megyei kormányhivatal.
+3. § (1) A 2. § (8) bekezdése alapján az állam tulajdonába kerülő vagyon e törvény erejénél fogva ingyenesen a fővárosi és megyei kormányhivatal vagyonkezelésébe kerül.
 
 (2) Az (1) bekezdésben meghatározott vagyonkezelői jogviszonyra a továbbiakban a Magyar Nemzeti Vagyonkezelő Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
