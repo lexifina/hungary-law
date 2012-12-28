@@ -11,11 +11,3 @@ d) 14–17. §-a az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkal
 e) 18. §-a az Alaptörvény 2. cikk (2) bekezdése, 4. cikk (2) és (5) bekezdése, és 31. cikk (3) bekezdése alapján sarkalatosnak
 
 minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
