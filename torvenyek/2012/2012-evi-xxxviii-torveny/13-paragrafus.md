@@ -8,6 +8,8 @@ c) e törvény 4. mellékletében felsorolt országos gyógyintézetek, valamint
 
 tekintetében.
 
+(1a) Az (1) bekezdés alapján a GYEMSZI jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
+
 (2) A GYEMSZI a tulajdonosi joggyakorlásra irányuló tevékenységét az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint végzi.
 
 (3) E törvény alapján a tulajdonosi joggyakorló jogosult a tulajdonosi joggyakorlás körébe tartozó, az állami egészségügyi feladatellátáshoz szükségtelenné vált vagyonelemek értékesítésére az állami vagyonról szóló törvény rendelkezései szerint.
