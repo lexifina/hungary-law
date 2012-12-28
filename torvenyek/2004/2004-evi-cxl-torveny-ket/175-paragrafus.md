@@ -44,4 +44,4 @@ f) az elektronikus ügyintézési szolgáltatás engedélyezéséért fizetendő
 
 g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások részletes műszaki, technikai feltételeit rendeletben állapítsa meg.
+(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.

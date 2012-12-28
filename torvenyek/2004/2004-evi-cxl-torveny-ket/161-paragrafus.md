@@ -11,3 +11,7 @@
 (5) Az elektronikus ügyintézési felügyelet (4) bekezdés szerinti eljárásában a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter szakhatóságként vesz részt, és kötelező állásfoglalást ad ki a kérelemben foglalt szabályozott elektronikus ügyintézési szolgáltatás műszaki előírásoknak való megfelelőségéről, infrastrukturális alkalmasságáról. Ha a szakhatóság a rá irányadó ügyintézési határidőn belül nem hoz döntést, a szakhatósági hozzájárulást megadottnak kell tekinteni.
 
 (6) Az elektronikus ügyintézési felügyelet ellenőrzi a szabályozott elektronikus ügyintézési szolgáltatások jogszabályoknak való megfelelőségét.
+
+(7) A szabályozott elektronikus ügyintézési szolgáltató a szolgáltatás nyújtása során biztosítja a közérdekű, illetve közérdekből nyilvános adatok megismerhetőségét és a személyes, illetve védett adatok védelmét.
+
+(8) A szabályozott elektronikus ügyintézési szolgáltatások nyilvános és tájékoztató jellegű részének elérése, valamint a közérdekű adatok elektronikus hozzáférhetővé tétele nem korlátozható, az igénybevevő előzetes azonosításához nem köthető.
