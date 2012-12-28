@@ -4,7 +4,7 @@
 
 (2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
 
-(3) Amennyiben jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. A regisztrációs szám megállapítása, valamint a regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható.
+(3) Amennyiben jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító szám megállapítása, valamint a regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható. A regisztrációs adatok módosítása iránti kérelem elektronikus úton is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 

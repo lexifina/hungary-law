@@ -8,4 +8,4 @@
 
 (5) A törvény hatálya alá tartozó intézkedéssel kapcsolatban elektronikus kapcsolattartásra akkor van lehetőség, ha azt e törvény vagy az e törvény felhatalmazása alapján kiadott jogszabály az ügy típusának megjelölésével lehetővé teszi. Ez esetben a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus ügyintézésre vonatkozó rendelkezéseit kell alkalmazni.
 
-(6) Jogszabályban meghatározott esetben az ügyfélnek elektronikus úton kell a kérelmet, pályázatot benyújtania, illetve adatszolgáltatási kötelezettségét teljesítenie.
+(6) Jogszabályban meghatározott esetben az ügyfélnek elektronikus úton kell a kérelmet, pályázatot benyújtania, adatszolgáltatási kötelezettségét teljesítenie, illetve elektronikus úton kell kapcsolatot tartania.

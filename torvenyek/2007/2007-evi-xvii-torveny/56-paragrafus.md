@@ -22,7 +22,7 @@ d) a kérelmet nem az igény érvényesítésére jogosult személy terjesztette
 
 e) a kérelem a benyújtási időszakot megelőzően került benyújtásra, vagy elkésett;
 
-f) az ügyfél nem rendelkezik regisztrációs számmal vagy a kérelemmel egyidejűleg sem nyújtott be intézkedésben való részvételhez szükséges, regisztrációs szám megállapítására alkalmas kérelmet;
+f) az ügyfelet nem kérelemre vették nyilvántartásba, vagy kérelemmel egyidejűleg sem nyújtott be intézkedésben való részvételhez szükséges, ügyfél-azonosító szám megállapítására alkalmas kérelmet;
 
 g) a pénzügyi következményekkel járó intézkedésben részt vevő ügyfél legkésőbb a kérelem benyújtásával egyidejűleg sem jelenti be a vállalkozása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti minősítését vagy fizetési számlaszámát;
 

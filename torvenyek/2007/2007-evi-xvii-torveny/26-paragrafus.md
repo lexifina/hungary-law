@@ -2,7 +2,7 @@
 
 26. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási adatok nyilvántartására az alábbi nyilvántartási rendszereket működteti:
 
-a) ügyfél-nyilvántartási rendszer,
+a) Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer,
 
 b) az intézkedések kezelésére szolgáló nyilvántartási és ellenőrzési rendszerek,
 
@@ -16,7 +16,7 @@ f) mezőgazdasági célú csekély összegű (de minimis) támogatások nyilván
 
 g) monitoring adat-nyilvántartási rendszer,
 
-h) tevékenységihely-nyilvántartási rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
+h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 

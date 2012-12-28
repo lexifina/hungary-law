@@ -2,7 +2,7 @@
 
 ## AZ ELJÁRÁS KÖLTSÉGEI
 
-74. § A törvény hatálya alá tartozó közigazgatási eljárások közül tárgyi illetékmentes eljárásnak minősülnek:
+74. § E törvény hatálya alá tartozó közigazgatási eljárások közül tárgyi díj- és illetékmentes eljárásnak minősülnek:
 
 a) az intézkedésekben való részvétellel,
 

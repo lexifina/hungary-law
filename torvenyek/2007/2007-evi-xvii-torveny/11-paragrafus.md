@@ -58,4 +58,4 @@ gyakorolja.
 
 (13) A Kormány a miniszter útján az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 2. §-ában foglaltak szerint évente beszámol az Országgyűlésnek a törvény hatálya alá tartozó intézkedések végrehajtásáról.
 
-(14) E törvény 28., 29–30/A. §-ában meghatározott nyilvántartási kötelezettség kiterjed a hatáskörrel rendelkező hatóság hatáskörébe tartozó közigazgatási ügyekben részt vevő ügyfelekre is.
+(14) A 28–30/A. §-ban meghatározott nyilvántartással összefüggő kötelezettségek kiterjednek a hatáskörrel rendelkező hatóság hatáskörébe tartozó közigazgatási ügyekben részt vevő ügyfelekre is. Az élelmiszerlánc-felügyeleti szerv nyilvántartásaira vonatkozó törvény rendelkezéseit e törvény rendelkezéseivel együtt kell alkalmazni.
