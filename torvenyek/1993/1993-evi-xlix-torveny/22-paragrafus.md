@@ -18,6 +18,10 @@ g) megbízást ad az e törvényben meghatározott ellenőrzés folytatására;
 
 h) megvitat minden olyan kérdést, amelyet az igazgatóság számára előterjeszt;
 
-i) javaslatot tesz a miniszternek az e törvény 8. §-a szerinti eljárás kezdeményezésére.
+i) javaslatot tesz a miniszternek az e törvény 8. §-a szerinti eljárás kezdeményezésére;
+
+j) javaslatot tesz az igazgató és az igazgatóhelyettes személyére.
 
 (2) Az igazgató tanács az igazgatóságtól jelentést kérhet, továbbá számára utasítást adhat.
+
+(3) Az igazgató tanács csak olyan személyt javasolhat igazgatónak vagy igazgatóhelyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energia Hivatal Elnökének képviselői közül legalább három támogat.

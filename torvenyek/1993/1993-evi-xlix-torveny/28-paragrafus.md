@@ -8,4 +8,6 @@ c) határoz a Szövetség azon ügyeiben, melyek más szerv hatáskörébe nem t
 
 d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését és annak végrehajtásáról szóló beszámolót;
 
-e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget.
+e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget;
+
+f) szerződést köt a 11. § (2) bekezdésében meghatározott feladat ellátására.

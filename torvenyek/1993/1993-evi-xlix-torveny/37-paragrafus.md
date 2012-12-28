@@ -1,6 +1,6 @@
 ## A tag jogai és kötelezettségei
 
-37. § (1) A tag a kőolajtermék forgalmazási tevékenységével összefüggésben, illetve a saját felhasználásra történő behozatali tevékenysége után a Szövetség részére tagi hozzájárulást fizet.
+37. § (1) A tag a kőolajtermék forgalmazási tevékenységével összefüggésben, illetve a saját felhasználásra történő behozatali tevékenysége után a Szövetség részére tagi hozzájárulást fizet, amelynek termékcsoportonkénti egységnyi mértékét a 30. § (3) és (4) bekezdéseiben előírtak szerint kell meghatározni.
 
 (2) Tagi hozzájárulást kell fizetni a 4. §-ban foglalt eltérésekkel a 3. § (2) bekezdésében felsorolt kőolajtermékek mennyisége után, ha
 

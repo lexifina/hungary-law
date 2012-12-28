@@ -1,0 +1,1 @@
+47/B. § A földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvény hatálybalépésekor (a továbbiakban: Mód. Tv.) a Szövetség igazgatójának és igazgatóhelyettesének megbízatása – a Mód. Tv hatálybalépésének napján – határozatlan idejű megbízatásra módosul.
