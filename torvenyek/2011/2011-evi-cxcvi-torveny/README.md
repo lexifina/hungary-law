@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-196-00-00
 | 2012-06-30 | 2012. évi LXXXIV. törvény | 2011-196-00-00.9 |
 | 2012-11-30 | 2012. évi CLXXIX. törvény | 2011-196-00-00.10 |
 | 2012-12-16 | 2012. évi CCII. törvény | 2011-196-00-00.11 |
+| 2012-12-28 | 2012. évi CCXVIII. törvény | 2011-196-00-00.12 |

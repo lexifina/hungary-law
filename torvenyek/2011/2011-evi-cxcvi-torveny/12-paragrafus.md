@@ -22,7 +22,9 @@ i) az országos közutak és műtárgyaik, országos törzshálózati vasúti p�
 
 j) állami tulajdont képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
 
-k) az a)–j) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
+k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése.
+
+m) az a)–l) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 

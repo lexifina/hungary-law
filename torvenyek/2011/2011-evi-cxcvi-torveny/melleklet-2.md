@@ -391,7 +391,3 @@
 ## 10. HEVES MEGYE
 
 ## | 138. | EGER Dózsa György tér 3. | Validé Szultana török fürdő romjai | 139. | EGER | vár és erődrendszer romjai | 140. | EGER Knézich K. u. | minaret | 141. | ERDŐTELEK Fő u. 129. | Buttler-kastély és parkja | 142. | HATVAN Kossuth tér | Grassalkovich-kastély és parkja | 143. | NOSZVAJ Dobó u. 10. | De la Motte-kastély és parkja | 144. | PARÁD Sziget u. 8. | falumúzeum | 145. | SIROK | várrom
-
-## 11. KOMÁROM-ESZTERGOM MEGYE
-
-## | 146. | BAJNA Május 1. tér | Sándor-Metternich-kastélyegyüttes és parkja: kastély park, út uradalmi istálló | 147. | DÖMÖS Felsőfalu dűlő | prépostsági romok | 148. | ESZTERGOM Szent István tér 1. | vár, a királyi, majd érseki palota maradványainak együttese | 149. | ESZTERGOM Pilisszentlélek | pálos kolostorrom | 150. | KISBÉR Szabadság park 6. | volt Magyar Királyi Lovarda | 151. | KOMÁROM, Erődrendszer műemléki együttese | | | Igmándi erőd | | | Monostori erőd | | | Csillagerőd | 152. | OROSZLÁNY, Majk-puszta: kamalduli remeteség műemléki együttese | | | kastély | | | toronyrom | | | remeteházak | | | központi udvar | | | jégverem, erdő | | | gazdasági épület | | | kápolna és erdő | | | gyep | | | erdő | | | étterem (gyep) | | | gyep | | | tó, mocsár | | | udvar | 153. | OROSZLÁNY, Vértesszentkereszt | Bencés templom- és kolostorrom | 154. | TATA Hősök tere 7., 8., 9/A | Esterházy-kastély és melléképületei, park | 155. | TATA Hattyúliget u. 40. Néppark | Esterházy kerti lak, műrom és mecset | 156. | TATA Váralja u. 1-3. | a vár együttese
