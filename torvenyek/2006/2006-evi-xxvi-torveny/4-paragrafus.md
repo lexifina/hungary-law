@@ -10,6 +10,6 @@
 
 (6) Amennyiben a Szövetség által betárolt biztonsági készletet tároló földalatti gáztárolóban készletértékesítést követően szabad kapacitások állnak a Szövetség rendelkezésére, ezen szabad kapacitásokat a Szövetség másodlagos kapacitás-kereskedelemben értékesítheti. A szabad kapacitások értékesítésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
-(7) A készletezési kötelezettség csak a Szövetség tulajdonában, résztulajdonában vagy bérleményében lévő föld alatti tárolóban tárolt, illetve föld alatti tárolóteret üzemeltető földgáztárolóval kötött szerződés alapján tároltatott földgázzal teljesíthető.
+(7) A készletezési kötelezettség kizárólag a Magyar Állam közvetlen vagy közvetett többségi tulajdonában álló biztonsági földgáztárolóban tárolt és a biztonsági földgáztároló engedélyessel kötött szerződés alapján tároltatott földgázzal teljesíthető.
 
 (8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a földgázellátásról szóló 2008. évi XL. törvény szerint földgáz kereskedelemnek.

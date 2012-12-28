@@ -1,0 +1,1 @@
+12/A. § E törvénynek a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 4. § (7) bekezdését 2013. július 1-jétől kell alkalmazni.

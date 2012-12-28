@@ -31,3 +31,9 @@ vonatkozik.
 (6) Nem kell tagi hozzájárulást fizetni a földgáz biztonsági készletezés céljára vásárolt földgáz után.
 
 (7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
+
+(8) Visszaigényelhető a 8. § (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett.
+
+(9) A (8) bekezdés szerinti visszaigénylésre a földgáz egyetemes szolgáltató a tagi hozzájárulás befizetésétől számított 90 napon belül jogosult. A Szövetség a visszautalást az igénylésnek és az értékesítés könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül teljesíti.
+
+(10) A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni. Az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
