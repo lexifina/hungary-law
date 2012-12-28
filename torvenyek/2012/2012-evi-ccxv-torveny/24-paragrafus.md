@@ -1,3 +1,0 @@
-24. § Az Szt. 38. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A gyakorlati képzést folytató szervezet a heti pihenőnapokon és a munkaszüneti napokon, valamint az őszi, a téli és a tavaszi szünet időtartama alatt a tanulót gyakorlati képzésre csak a rendeltetése folytán e napon is működő gyakorlati képzési helyen és a szakképző iskola hozzájárulásával veheti igénybe vagy abban az esetben, ha a tanuló mulasztását pótolja. Az igénybe vett idő helyett – a mulasztás pótlásának esetét kivéve, lehetőleg a következő gyakorlati képzési napon – ugyanolyan mértékben kell szabadidőt biztosítani.”
