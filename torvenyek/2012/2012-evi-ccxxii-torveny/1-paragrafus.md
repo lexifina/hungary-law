@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Uniónak a Tanács keretében ülésező tagállamai között az Európai Unió érdekében kicserélt minősített adatok védelméről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
