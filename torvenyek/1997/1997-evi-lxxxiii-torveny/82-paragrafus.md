@@ -28,6 +28,8 @@
 
 (12) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvény (a továbbiakban: Módtv.) hatálybalépésének napján finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók, illetve az általuk igénybe vett közreműködő egészségügyi szolgáltatók 2012. december 31-éig nyilatkoznak arról, hogy a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősülnek. A Módtv. hatálybalépésének napján finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók vonatkozásában a Módtv.-nyel megállapított 30. § (5) és (6) bekezdése és 31. § (5) bekezdés c) és d) pontja, illetve az abban foglaltak elmulasztásához fűződő jogkövetkezmény – ideértve a finanszírozási szerződés felmondását is – 2013. január 1-jétől alkalmazható.
 
+(12a) A (12) bekezdésben foglaltakat nem kell alkalmazni az egyéni vállalkozói formában működő egészségügyi szolgáltató esetében.
+
 (13) A Módtv.-nyel megállapított 37. § (5a) és (8) bekezdést a 2012. június 30-át követően keletkezett jogsértések vonatkozásában kell alkalmazni.
 
 (14) A Módtv.-nyel megállapított 39/B. §-t a 2012. június 30-át követően benyújtott kérelmek tekintetében kell alkalmazni.

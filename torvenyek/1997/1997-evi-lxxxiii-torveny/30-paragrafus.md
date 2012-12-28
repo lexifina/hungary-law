@@ -23,3 +23,5 @@ c) nem rendelkezik olyan köztartozással, amely esedékességének időpontja 6
 (5) Az (1) bekezdés szerinti finanszírozási szerződés olyan egészségügyi szolgáltatóval köthető, amely a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősül.
 
 (6) Az (1) bekezdés szerinti finanszírozási szerződéssel rendelkező egészségügyi szolgáltató a finanszírozott szolgáltatásai vonatkozásában csak olyan közreműködő egészségügyi szolgáltatót vehet igénybe, amely a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősül.
+
+(7) Az (5)–(6) bekezdésben és a 31. § (5) bekezdés b)–d) pontjában foglaltakat nem kell alkalmazni az egyéni vállalkozói formában működő egészségügyi szolgáltatók esetében.
