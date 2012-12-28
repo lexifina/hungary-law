@@ -8,7 +8,11 @@ b) a kérelem benyújtását közvetlenül megelőzően legalább egy éve – a
 
 c) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár házastársa, feltéve, hogy a házasságot már a kérelem benyújtását megelőzően legalább két éve megkötötték;
 
-d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek felmenője magyar állampolgár vagy magyar állampolgár volt.
+d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek felmenője magyar állampolgár vagy magyar állampolgár volt;
+
+e) a kérelem benyújtását közvetlenül megelőzően legalább hat hónapja rendelkezik az e törvény 28. § (3) bekezdése alapján kiadott tartózkodási engedéllyel;
+
+f) a kérelem benyújtását közvetlenül megelőzően legalább hat hónapja rendelkezik tartózkodási engedéllyel és letelepedéséhez nemzetgazdasági érdek fűződik.
 
 (2) Nem minősül Magyarország területén történő tartózkodás megszakításának Magyarország területének alkalmanként négy hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások összidőtartama a kérelem benyújtását megelőző három év alatt nem haladja meg a kétszázhetven napot.
 
