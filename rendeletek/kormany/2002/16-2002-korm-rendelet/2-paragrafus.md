@@ -2,7 +2,7 @@
 
 (1a)[^7] Az eladó az ajánlat egy eredeti példányát az ajánlatnak a jegyző részére történő megküldésével, illetve átadásával egyidejűleg köteles a Magyar Állam nevében elővásárlási jogot gyakorló Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) részére postai úton, tértivevénnyel megküldeni, vagy személyesen átadni (a továbbiakban együtt: közölni). Ha az ajánlat tulajdonostárstól érkezik, az ajánlat egy eredeti példányát csak az NFA-val kell közölni.
 
-(2)[^8] A jegyző az ajánlatot a beérkezéstől, illetve az átvételtől számított 8 napon belül a polgármesteri hivatal hirdetőtáblájára 15 munkanapra kifüggeszti. A jegyző a benyújtott ajánlat mindkét példányára rávezeti a kifüggesztés, valamint a levétel időpontját.
+(2)[^8] A jegyző az ajánlatot a beérkezéstől, illetve az átvételtől számított 8 napon belül a polgármesteri hivatal hirdetőtáblájára 60 napra kifüggeszti. A jegyző a benyújtott ajánlat mindkét példányára rávezeti a kifüggesztés, valamint a levétel időpontját.
 
 (3)[^9] Az elővásárlásra jogosultak értesítése céljából az ajánlat kifüggesztésének tényéről tájékoztatót kell közzétenni a központi elektronikus szolgáltató rendszer keretében működő kormányzati portálon (a továbbiakban: kormányzati portál).
 
@@ -26,7 +26,7 @@ d) figyelemfelhívás, hogy a tájékoztató nem minősül az ajánlat közlés�
 
 [^6]: A 2. § (1) bekezdése a 21/2005. (II. 11.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § (1a) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 2. §-a iktatta be, szövege a 242/2011. (XI. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § (2) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdése a 405/2012. (XII. 28.) Korm. rendelet 32. § (2) bekezdése szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdését a 225/2008. (IX. 9.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően az eladóhoz (haszonbérbeadóhoz) érkezett ajánlatokra kell alkalmazni.
 [^10]: A 2. § (4) bekezdését a 225/2008. (IX. 9.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően az eladóhoz (haszonbérbeadóhoz) érkezett ajánlatokra kell alkalmazni.
 [^11]: A 2. § (5) bekezdését a 225/2008. (IX. 9.) Korm. rendelet 2. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 267. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 97. §-a szerint módosított szöveg.
