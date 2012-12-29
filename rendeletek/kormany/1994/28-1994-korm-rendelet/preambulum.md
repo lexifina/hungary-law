@@ -1,1 +1,0 @@
-A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény (a továbbiakban: Fkb.) módosításáról szóló 1993. évi CXVI. törvény 2. §-ának (5) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
