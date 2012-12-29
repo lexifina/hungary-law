@@ -1,3 +1,0 @@
-12. § A Kt. 14. §-a helyébe az alábbi rendelkezés lép:
-
-„14. § A Szövetség az e törvényben és az Fbkt.-ben előírt tevékenységen kívül, csak az azzal összefüggő – az alapszabályban meghatározott – tevékenységek gyakorlására jogosult. A bevételeket a készletezési, a jelölési és az ellenőrzési költségek fedezésére, az ezt meghaladó bevételeit különösen kőolaj-, illetve gáztároló létesítésére, fejlesztésére, a tároló parkokban való tulajdonszerzésre és a készletfinanszírozó hitelek törlesztésére, valamint a Szövetség működésére fordíthatja.”
