@@ -1,6 +1,6 @@
-1. számú melléklet a 17/2004. (V. 20.) OM rendelethez
+1. számú melléklet a 17/2004. (V. 20.) OM rendelethez[^12]
 
-A miniszter által kiadott kerettantervek[^28]
+A miniszter által kiadott kerettantervek[^13]
 
 KERETTANTERV
 
@@ -18,7 +18,7 @@ A kerettanterv operacionalizálja a Nemzeti alaptanterv fejlesztési feladataina
 
 E választható kerettanterv tantárgyakra és évfolyamokra bontja a Nat-2003 „Kiemelt fejlesztési feladatait” és a tíz műveltségi terület fejlesztési feladatait.
 
-A tantárgyi kerettantervek évfolyamonként ismétlődő szerkezeti egységei általában a következők:[^29]
+A tantárgyi kerettantervek évfolyamonként ismétlődő szerkezeti egységei általában a következők:[^14]
 
 Belépő tevékenységformák: A Nemzeti alaptanterv fejlesztési feladatainak megvalósításához nélkülözhetetlen; mind a képességfejlesztésben, mind a tantárgy tartalmainak elsajátításában meghatározó – évfolyamonként belépő – gondolati műveleteket, információszerző és -feldolgozó eljárásokat, szóbeli, írásbeli, rajzi-manuális, mozgásos stb. tevékenységeket tartalmaz e tantervi egység. E tevékenységek a tantárgy tartalmainak megfelelően változatosak: a tanulók munkába veszik mindennapi tapasztalataikat, információkat gyűjtenek írott szövegekből, elektronikus adatbázisokból, megfigyelnek, kísérleteznek, különféle műfajokban megnyilatkoznak szóban és írásban, manuális és zenei tevékenységeket végeznek, modelleket építenek, értelmeznek, különféle anyagokkal, tárgyakkal munkálkodnak, szabályokat, törvényszerűségeket alkalmaznak, stb.
 
@@ -2382,1613 +2382,1800 @@ A rendelkezésre álló időkeret elosztása:
 
 | Az ötödik évfolyamba lépéshez szükséges minimum: Az egyre bővülő terminológiai fogalmak, szóbeli tanári közlések segítség nélkül mozgásos cselekvésekké alakítása. A tanári hibajavítás irányításának követése. A tanult tananyag visszaadásában önmagukhoz mért fejlődés. A természetes mozgások területén elfogadhatóan jó végrehajtási technika, harmonikussá váló külső kép. Motorikus emlékezet működése a koreografált mozgássorok bemutatásakor. |
 
-II.
+II.[^15]
 
-KERETTANTERV AZ ALAPFOKÚ NEVELÉS-OKTATÁS ALAPOZÓ ÉS FEJLESZTŐ SZAKASZÁRA
+Ajánlás
 
-II.
+az iskolai egészségfejlesztéssel összefüggő feladatok végrehajtására
 
-KERETTANTERV AZ ALAPFOKÚ NEVELÉS-OKTATÁS
+Jogi háttér
 
-ALAPOZÓ ÉS FEJLESZTŐ SZAKASZÁRA
+A Kormány 243/2003. (XII. 17.) számú rendeletével hatályba lépett új Nemzeti Alaptanterv (Nat). Ennek nyomán 2004 szeptemberétől az első évfolyamon már ennek megfelelően kell elkezdeni a tanévet. Ezzel újabb lehetőség nyílt az iskolai nevelés-oktatás tartalmi megújulása és a pedagógiai kultúra magasabb szintre emelése számára. Elkezdődhet az iskolai pedagógiai programok és azon belül a helyi tantervek felülvizsgálata A Nat értelmében az egészségnevelés a közoktatás kiemelt fejlesztési feladata, melynek az iskolai oktatás valamennyi elemét át kell hatnia, elő kell segítenie a tantárgyközi kapcsolatok erősítését, a tanítás-tanulás szemléleti egységét, a tanulók személyiségének fejlődését. A közoktatásról szóló 1993. évi LXXIX. törvény 48. § (3) bekezdése értelmében az iskoláknak nevelési programjuk részeként meg kell fogalmazniuk az egészségneveléssel és egészségfejlesztéssel kapcsolatos nevelési feladataikat, amelyet a pedagógiai programjukban kell kifejteniük.
 
-(5–8. évfolyam)
+További fontos feladatokról rendelkezik a 96/2000. (XII. 11.) sz. Országgyűlési határozat, a „Nemzeti stratégia a kábítószer-fogyasztás visszaszorítására”, a 46/2003. (IV. 16.) sz. Országgyűlési határozat, az Egészség Évtizedének Johan Béla Nemzeti Programjáról, továbbá az 1997. évi CLIV. törvény az egészségügyről, 38. § (1) bek.
 
-Célok és feladatok
+Ezek a jogszabályok körvonalazzák azt a célrendszert, valamint ahhoz rendelt jogi feltételrendszert. Ezeknek megfelelve fontos feladat, hogy az iskolák átgondolják az egészségnevelési tevékenységüket.
 
-Az alapfokú nevelés-oktatás alapozó és fejlesztő szakasza szervesen folytatja a bevezető és kezdő szakasz nevelő-oktató munkáját, a készségek és képességek fejlesztését.
+Az egészségnevelés célja:
 
-Az 5–6. évfolyamon – az 1–4. évfolyamhoz hasonlóan – továbbra is az alapkészségek fejlesztése kap fő hangsúlyt. Ez a szakasz – igazodva a gyermeki gondolkodás fejlődéséhez, az életkori sajátosságokhoz – figyelembe veszi, hogy a 10–12 éves tanulók gondolkodása erősen kötődik az érzékelés útján szerzett tapasztalatokhoz. Az 5–6. évfolyamokon ezért az integratív-képi gondolkodásra alapozó fejlesztés folyik, a serdülőkor kezdetétől (a fejlesztő szakaszban) viszont előtérbe kerül az elvont fogalmi és elemző gondolkodás.
+Az egészségnevelés átfogó célja, hogy elősegítse a tanulók egészségfejlesztési attitűdjének, magatartásának, életvitelének kialakulását annak érdekében, hogy a felnövekvő nemzedék minden tagja képes legyen arra, hogy folyamatosan nyomon kövesse saját egészségi állapotát, érzékelje a belső és külső környezeti tényezők megváltozásából fakadó, az egészségi állapotot érintő hatásokat és ez által képessé váljon az egészség megőrzésére, illetve a veszélyeztető hatások csökkentésére.. A teljes fizikai, szellemi és szociális jól-lét állapotának elérése érdekében az egyénnek vagy csoportnak képesnek kell lennie arra, hogy meg tudja fogalmazni, és meg tudja valósítani vágyait, hogy megtalálja a megfogalmazódott szükségleteihez vezető, egészségét védő, és a környezet védelmére is figyelő optimális megoldásokat, továbbá környezetével változzék vagy alkalmazkodjék ahhoz. Az egészséget tehát alapvetően, mint a mindennapi élet erőforrását, nem pedig, mint életcélt kell értelmezni. Az egészség pozitív fogalom, amely a társadalmi és egyéni erőforrásokat, valamint a testi képességeket hangsúlyozza. Az egészségfejlesztés következésképpen nem csupán az egészségügyi ágazat kötelezettsége, hanem az egészséges életmódon túl a jóllétig terjed.
 
-Az iskola az 1–4. évfolyamokhoz hasonlóan az 5-8. évfolyamokon is különböző érdeklődésű, eltérő értelmi, érzelmi, testi fejlettségű, képességű, motivációjú, szocializáltságú, kultúrájú gyerekeket együtt neveli. Érdeklődésüknek, képességüknek és tehetségüknek megfelelően felkészíti őket a középiskolai, illetve szakiskolai továbbtanulásra, és előkészíti őket a társadalomba való beilleszkedésre. Ennek érdekében kiemeli a kommunikációs, a narratív, a döntési, a szabálykövető, a lényegkiemelő, az életvezetési, az együttműködési, a problémamegoldó, a kritikai, valamint a komplex információk kezelésével kapcsolatos képességeket, kulcskompetenciákat.
-
-Fejleszti a tanulókban azokat a képességeket, készségeket, amelyek a környezettel való harmonikus, konstruktív kapcsolathoz szükségesek. A tanulási tevékenységek közben és a tanulói közösségben való élet során fejleszti a tanulók önismeretét, együttműködési készségét, akaratát, segítőkészségét, szolidaritásérzését, empátiáját. Rávezet a megbízhatóság, becsületesség, szavahihetőség értékére.
-
-Az alapozó és fejlesztő szakasz szocializációs folyamatában az iskola tudatosítja a közösség demokratikus működésének értékét és néhány általánosan jellemző szabályát. Tisztázza az egyéni és közérdek, a többség és kisebbség fogalmát, és ezek fontosságát a közösséghez, illetve egymáshoz való viszonyulásban. Megalapozza a felkészülést a jogok és kötelességek törvényes gyakorlására. A demokratikus normarendszert kiterjeszti a természeti és az épített környezet iránti felelősségre, a mindennapi magatartásra is.
-
-Az iskolának ezekben a szakaszokban is kiemelkedő feladata a nemzeti, a nemzetiségi és az etnikai hagyományok tudatosítása és az ápolásukra való nevelés. Nevelési-oktatási tevékenységével az iskola fejleszti a tanulókban a nemzeti azonosságtudatot, képviseli az egymás mellett élő különböző kultúrák iránti igényt. Erősíti az Európához tartozás tudatát, és egyetemes értelemben is késztet más népek hagyományainak, kultúrájának, szokásainak, életmódjának megismerésére, megbecsülésére. Ugyanakkor figyelmet fordít az emberiség közös problémáinak bemutatására.
-
-Az 5–8. évfolyam, szervesen folytatva az 1–4. évfolyam munkáját olyan iskolai pedagógiai munkát feltételez, amelyben a tanulók tudásának, képességeinek, egész személyiségének fejlődése, fejlesztése áll a középpontban, figyelembe véve, hogy az oktatás és nevelés színtere nemcsak az iskola, hanem a társadalmi élet és tevékenység számos egyéb fóruma is.
-
-Kiemelt fejlesztési feladatok
-
-A kiemelt fejlesztési feladatok az iskolai oktatás valamennyi elemét áthatják, elősegítik a tantárgyközi kapcsolatok erősítését, a tanítás-tanulás szemléleti egységét, a tanulók személyiségének fejlődését.
-
-Énkép, önismeret
-
-A személyiség fejlődését azzal segíthetjük elő, ha önmaguk megismerésére motiváló tanulási környezetet szervezünk a tanulók számára. Énképük és önismeretük gazdagodásához ezért olyan tanulási környezetet célszerű biztosítanunk, amely fokozza az őket körülvevő személyek és dolgok egyre tágabb körei iránti érzékenységet, illetve kialakítja bennük az alapvető erkölcsi, etikai normák iránti fogékonyságot. A Nemzeti alaptantervben megnevezett nevelési értékek abban az esetben épülnek be a fejlődő személyiségbe, ha a tanulási tartalmak elsajátítása során a tanulók maguk is aktív részeseivé válnak ezen értékek megnevezésének és azonosításának. Ahhoz, hogy tanulóink képesek legyenek énképükbe integrálni az újabb és újabb ismereteket, folyamatosan gondoskodnunk kell arról is, hogy egyre kompetensebbnek érezzék magukat saját nevelésük, sorsuk és életpályájuk alakításában. Ennek érdekében a Nemzeti alaptanterv műveltségi területein a nevelés és oktatás pedagógiai szervezését a tanuló ember szempontjából közelítsük meg, és törekedjünk a tanulók ön- és világszemléletének folyamatos formálására.
-
-Hon- és népismeret
-
-Elengedhetetlen, hogy a tanulók megismerjék népünk kulturális örökségének jellemző sajátosságait, nemzeti kultúránk nagy múltú értékeit. Mélyedjenek el a kiemelkedő magyar történelmi személyiségek, tudósok, feltalálók, művészek, írók, költők, sportolók tevékenységének, munkásságának tanulmányozásában. Ismerjék meg a haza földrajzát, irodalmát, történelmét, mindennapi életét. Sajátítsák el azokat az ismereteket, gyakorolják azokat az egyéni és közösségi tevékenységeket, amelyek az otthon, a lakóhely, a szülőföld, a haza és népei megismeréséhez, megbecsüléséhez, az ezekkel való azonosuláshoz vezetnek. Ismerjék meg a városi és a falusi élet hagyományait, jellegzetességeit.
-
-Segítsük elő a harmonikus kapcsolat kialakítását a természeti és társadalmi környezettel. Alapozzuk meg tanulóinkban a nemzettudatot, mélyítsük el a nemzeti önismeretet, a hazaszeretetet és ettől elválaszthatatlan módon a hazánkban és szomszédságunkban élő más népek, népcsoportok értékeinek és eredményeinek megbecsülését. Ösztönözzük a fiatalokat a szűkebb és tágabb környezet történelmi, kulturális és vallási emlékeinek, hagyományainak feltárására, ápolására. Késztessük őket az ezekért végzett egyéni és közösségi tevékenységre.
-
-Európai azonosságtudat – egyetemes kultúra
-
-Európa a magyarság tágabb hazája. A tanulók szerezzenek ismereteket az Európai Unió kialakulásának történetéről, alkotmányáról, intézményrendszeréről, az uniós politika szempontrendszeréről. Diákként és felnőttként tudjanak élni a megnövekedett lehetőségekkel. Magyarságtudatukat megőrizve váljanak európai polgárokká.
-
-Tanulóink már az Európai Unió polgáraiként fogják felnőtt életüket leélni, ezért arra kell törekednünk, hogy iskolás éveik alatt olyan ismeretekkel, személyes tapasztalatokkal gazdagodjanak, amelyek birtokában meg tudják majd találni helyüket az európai nyitott társadalmakban. Nem kevésbé fontos az sem, hogy európai identitásuk megerősödésével legyenek nyitottak és elfogadóak az Európán kívüli kultúrák iránt is.
-
-A tanulók ismerjék meg az egyetemes emberi civilizáció legjellemzőbb, legnagyobb hatású eredményeit. Váljanak nyitottá és megértővé a különböző szokások, életmódok, kultúrák, vallások, a másság iránt. Szerezzenek információkat az emberiség közös, globális problémáiról, az ezek kezelése érdekében kialakuló nemzetközi együttműködésről. Növekedjék érzékenységük a problémák lényege, okai, az összefüggések és a megoldási lehetőségek keresése, feltárása iránt. Az iskolák és a tanulók törekedjenek arra, hogy közvetlenül is részt vállaljanak a nemzetközi kapcsolatok ápolásában.
-
-Környezeti nevelés
-
-A környezeti nevelés átfogó célja, hogy elősegítse a tanulók környezettudatos magatartásának, életvitelének kialakulását annak érdekében, hogy a felnövekvő nemzedék képes legyen a környezeti válság elmélyülésének megakadályozására, elősegítve az élő természet fennmaradását és a társadalmak fenntartható fejlődését.
-
-A fenntarthatóság pedagógiai gyakorlata feltételezi az egész életen át tartó tanulást, amelynek segítségével olyan tájékozott és tevékeny állampolgárok nevelődnek, akik kreatív, problémamegoldó gondolkodásmóddal rendelkeznek, eligazodnak a természet és a környezet, a társadalom, a jog és a gazdaság terén, és felelős elkötelezettséget vállalnak egyéni vagy közös tetteikben.
-
-Mindez úgy valósítható meg, ha a különös figyelmet fordítunk a tanulók természettudományos gondolkodásmódjának fejlesztésére. Ha a tanulók érzékennyé válnak környezetük állapota iránt, képesek lesznek a környezet sajátosságainak, minőségi változásainak megismerésére és elemi szintű értékelésére, a környezet természeti és ember alkotta értékeinek felismerésére és megőrzésére, a környezettel kapcsolatos állampolgári kötelességeik vállalására és jogaik gyakorlására. A környezet ismeretén és a személyes felelősségen alapuló környezetkímélő magatartás egyéni és közösségi szinten egyaránt a tanulók életvitelét meghatározó erkölcsi alapelv.
-
-A környezeti nevelés során a tanulók ismerjék meg azokat a jelenlegi folyamatokat, amelyek következményeként bolygónkon környezeti válságjelenségek mutatkoznak. Konkrét hazai példákon ismerjék fel a társadalmi-gazdasági modernizáció pozitív és negatív környezeti következményeit.
-
-A tanulók kapcsolódjanak be közvetlen környezetük értékeinek megőrzésébe, gyarapításába. Életmódjukban a természet tisztelete, a felelősség, a környezeti károk megelőzésére való törekvés váljék meghatározóvá. Szerezzenek személyes tapasztalatokat az együttműködés, a környezeti konfliktusok közös kezelése és megoldása terén.
-
-Információs és kommunikációs kultúra
-
-Az információs és kommunikációs kultúra a megismerést, az eligazodást, a tanulást, a tudást, az emberi kapcsolatokat, az együttműködést, a társadalmi érintkezést szolgáló információk megtalálása, felfogása, megértése, szelektálása, elemzése, értékelése, felhasználása, közvetítése, alkotása.
-
-Kiemelt feladat a megismerési képességek fejlesztése, különös tekintettel a megfigyelési, kódolási, értelmezési, indoklási, bizonyítási képességekre, amelyek az információs és kommunikációs kultúra szerves részét képezik. Kommunikációs kultúránk szerves része az anyanyelv tudatos és igényes használata, valamint az idegen nyelvű, illetve a különböző kultúrák közötti információcsere.
-
-A közoktatás egész időszakában minden műveltségi területen nagy gondot kell fordítani a kritikai és kreatív olvasás képességének fejlesztésére, beleértve mind a valós, mind a virtuális csatornákon keresztül felfogott jelek befogadását, értelmezését és megválaszolását. Az iskolának az elektronikus média hatásmechanizmusainak megértésére, általában a különböző médiumokban való eligazodásra, az igényelt információ megtalálására, szelektív használatára kell nevelnie. Olyan fiatalokat kell kibocsátania, akik sikeres tanulási stratégiákkal használják ki az információs világháló lehetőségeit és eszközeit az élethosszig tartó tanulás során.
-
-Az információs és kommunikációs kultúra részben az egyén szocializációjának, a társadalmi érintkezésnek, az egyéni és közösségi érdek érvényesítésének, egymás megértésének, elfogadásának, megbecsülésének döntő tényezője.
-
-Tanulás
-
-A tanulás a pszichikum módosulása külső tényezők hatására, tehát nem csupán ismeretelsajátítás és a figyelem, emlékezet működtetése. Tág értelmezése magában foglalja valamennyi értelmi képesség és az egész személyiség fejlődését, fejlesztését. Ez az iskola alapfeladata.
-
-A tanulás számos összetevője tanítható. Minden nevelő teendője, hogy felkeltse az érdeklődést a különböző szaktárgyi témák iránt, útbaigazítást adjon annak szerkezetével, hozzáférésével, elsajátításával kapcsolatban, valamint tanítsa a gyerekeket tanulni. A tanulók tegyenek szert fokozatos önállóságra a tanulás tervezésében. Vegyenek részt a kedvező körülmények (külső feltételek) kialakításában. Élményeik és tapasztalataik alapján ismerjék meg és tudatosítsák saját pszichikus feltételeiket. Az eredményes tanulás módszereinek, technikáinak elsajátíttatása, gyakoroltatása főleg a következőket foglalja magában: az előzetes tudás és tapasztalatok mozgósítása; az egyénre szabott tanulási módszerek, eljárások kiépítése; a csoportos tanulás módszerei, a kooperatív csoportmunka; az emlékezet erősítése, a célszerű rögzítési módszerek kialakítása; a gondolkodási kultúra művelése; az önművelés igényének és szokásának kibontakoztatása; az élethosszig tartó tanulás eszközeinek megismerése, módszereinek elsajátítása; az alapkészségek kialakítása (az értő olvasás, az íráskészség, a számfogalom fejlesztése).
-
-A tanulás fontos színtere és eszköze az iskola könyvtára és informatikai bázisa. A hagyományos tantermi oktatást az iskola keretein belül is kiegészítik az egyéni tanulás lehetőségei, amelyhez sokféle információforrás gyors elérésére van szükség. A könyvtár használata minden ismeretterületen nélkülözhetetlen, hiszen informatikai szolgáltatásai az iskolai tevékenység teljességére irányulnak. Használatának technikáját, módszereit – az önálló ismeretszerzés érdekében – a tanulóknak el kell sajátítaniuk. Váljanak rendszeres könyvtárhasználóvá, igazodjanak el a lakóhelyi, az iskolai, valamint a regionális és országos könyvtárakban. Ismerjék a könyvtári rendszert, a könyvtárban való keresés módját, a keresést támogató eszközöket, a főbb dokumentumfajtákat, valamint azok tanulásban betöltött szerepét, információs értékét. Sajátítsák el az adatgyűjtés, témafeldolgozás, forrásfelhasználás technológiáját, és alakuljon ki bennük a rendszerezett tudás átadásának képessége.
-
-A tanulási folyamatot jelentősen átalakítja az informatikai eszközök és az elektronikus oktatási segédanyagok használata. Ez új lehetőséget teremt az ismeretátadásban, a kísérleteken alapuló tanulásban, valamint a csoportos tanulás módszereinek kialakításában.
-
-A pedagógus fontos feladata, hogy megismerje a tanulók sajátos tanulási módjait, stratégiáit, stílusát, szokásait. Vegye figyelembe a megismerés életkori és egyéni jellemzőit, ezekre alapozza a tanulás fejlesztését. Gondosan kutassa fel és válassza meg a fejlesztés tárgyi-cselekvéses, szemléletes-képi és elvont-verbális útjait, és ruházza fel azokat életszerű tartalommal. Törekedjen a gondolkodási képességek, elsősorban a rendszerezés, a valós vagy szimulált kísérleteken alapuló tapasztalás és kombináció, a következtetés és a problémamegoldás fejlesztésére, különös tekintettel az analízis, szintézis, összehasonlítás, általánosítás és konkretizálás erősítésére, a mindennapokban történő felhasználására. Olyan tudást kell kialakítani, amelyet új helyzetekben is lehet alkalmazni. Előtérbe kerül az új ötletek kitalálása, azaz a kreatív gondolkodás fejlesztése. Ezzel párhuzamosan érdemes nagy hangsúlyt helyezni a tanulói döntéshozatalra, az alternatívák végiggondolására, a variációk sokoldalú alkalmazására, a kockázatvállalás, az értékelés, az érvelés és a legjobb lehetőségek kiválasztásának területeire. Fontos feladat a kritikai gondolkodás megerősítése, a konfliktusok kezelése, az életminőség javítása, az életvitel arányainak megtartása, az értelmi, érzelmi egyensúly megteremtése, a teljesebb élet megszervezése.
-
-Testi és lelki egészség
+Ebből adódóan:
 
 Az iskolára nagy feladat és felelősség hárul a felnövekvő nemzedékek egészséges életmódra nevelésében. Minden tevékenységével szolgálnia kell a tanulók egészséges testi, lelki és szociális fejlődését. Személyi és tárgyi környezetével az iskola segítse azoknak a pozitív beállítódásoknak, magatartásoknak és szokásoknak a kialakulását, amelyek a gyerekek, a fiatalok egészségi állapotát javítják.
 
-Az egészséges életmódra nevelés nemcsak a betegségek megelőzésének módjára tanít, hanem az egészséges állapot örömteli megélésére és a harmonikus élet értékként való tiszteletére is nevel. A pedagógusok készítsék fel a gyerekeket, a fiatalokat arra, hogy önálló, felnőtt életükben legyenek képesek életmódjukra vonatkozóan helyes döntéseket hozni, egészséges életvitelt kialakítani, konfliktusokat megoldani. Fejlesszék a beteg, sérült és fogyatékos embertársak iránti elfogadó és segítőkész magatartást. Ismertessék meg a környezet – elsősorban a háztartás, az iskola és a közlekedés – leggyakoribb, egészséget, testi épséget veszélyeztető tényezőit és ezek elkerülésének módjait. Nyújtsanak támogatást a gyerekeknek – különösen a serdülőknek – a káros függőségekhez vezető szokások (pl. dohányzás, alkohol- és drogfogyasztás, rossz táplálkozás) kialakulásának megelőzésében. Segítsék a krízishelyzetbe jutottakat. Az iskola megkerülhetetlen feladata, hogy foglalkozzon a szexuális kultúra és magatartás kérdéseivel, és figyelmet fordítson a családi életre, a felelős, örömteli párkapcsolatokra történő felkészítésre.
+Az egészséges életmódra nevelés nem csak a betegségek megelőzésének módjára tanít, hanem az egészséges állapot örömteli megélésére és a harmonikus élet értékként való tiszteletére is nevel. A pedagógusok készítsék fel a gyerekeket, a fiatalokat arra, hogy önálló, felnőtt életükben legyenek képesek életmódjukra vonatkozóan helyes döntéseket hozni, egészséges életvitelt kialakítani, konfliktusokat megoldani. Fejlesszék a beteg, sérült és fogyatékkal élő embertársak iránti elfogadó és segítőkész magatartást. Ismertessék meg a környezet - elsősorban a háztartás, az iskola és a közlekedés, veszélyes anyagok - leggyakoribb, egészséget, testi épséget veszélyeztető tényezőit. Készüljenek fel a veszélyhelyzetek egyéni és közösségi szintű megelőzésére, kezelésére. Az iskola feladata az is, hogy felkészítsen az önálló gyalogos közlekedésre, a tömegközlekedési eszközök használatára, az utasbalesetek elkerülésének módjaira. Figyelmet kell fordítani, továbbá a veszélyes anyagok, illetve készítmények helyes kezelésére, legfontosabb szabályaira (felismerésére, tárolására). Nyújtsanak támogatást a gyerekeknek - különösen a serdülőknek - a káros függőségekhez vezető szokások és életmódok (pl. a dohányzás, alkohol- és drogfogyasztás, helytelen táplálkozás, öltözködési szokások) kialakulásának megelőzésében. Az iskola megkerülhetetlen feladata, hogy foglalkozzon a szexuális kultúra és magatartás kérdéseivel, és figyelmet fordítson a családi életre, a felelős, örömteli párkapcsolatokra történő felkészítésre. Az egészséges, harmonikus életvitelt megalapozó szokások a tanulók cselekvő, tevékeny részvételével alakíthatók ki. Fontos, hogy az iskolai környezet is biztosítsa az egészséges testi, lelki, szociális fejlődést. Ebben a pedagógusok életvitelének is jelentős példaértékű szerepe van (NAT 2003).
 
-Az egészséges, harmonikus életvitelt megalapozó szokások a tanulók cselekvő, tevékeny részvételével alakíthatók ki. Fontos, hogy az iskolai környezet is biztosítsa az egészséges testi, lelki, szociális fejlődést. Ebben a pedagógusok életvitelének is jelentős szerepe van.
+Mindezen tartalmaknak fokozatosan kell megjelenniük az iskolai pedagógiai munkában.
 
-Felkészülés a felnőtt lét szerepeire
+Olyan egészségfejlesztő programot dolgozzon ki az iskola, amelynek eredményeként erősödjenek a személyiségfejlesztő hatások, csökkenjenek az ártótényezők, és, hogy az iskola bejezésekor a diákok megértsék, saját életükre alkalmazni tudják az elsajátítottakat.
 
-A felnőtt lét szerepeire való felkészülés egyik fontos eleme a pályaorientáció. Általános célja, hogy segítse a tanulók további iskola- és pályaválasztását. Összetevői: az egyéni adottságok, képességek megismerésén alapuló önismeret fejlesztése; a legfontosabb pályák, foglalkozási ágak tartalmának, követelményeinek és a hozzájuk vezető utaknak, lehetőségeknek, alternatíváknak tevékenységek és tapasztalatok útján történő megismerése; a lehetőségek és a valóság, a vágyak és a realitások összehangolása. Tudatosítanunk kell a tanulókban, hogy életpályájuk során többször pályamódosításra kényszerülhetnek.
+Képesek legyenek figyelemmel kísérni:
 
-Az iskolának – a tanulók életkorához és a lehetőségekhez képest – átfogó képet kell nyújtania a munka világáról. Ennek érdekében olyan feltételek, tevékenységek biztosítására van szükség, amelyek elősegíthetik, hogy a tanulók kipróbálhassák képességeiket, elmélyedhessenek az érdeklődéseiknek megfelelő területeken, ezzel is fejlesztve ön- és pályaismereteiket.
+• viselkedésüket, az életvezetésük helyes alakítását,
 
-A pályaorientáció csak hosszabb folyamat során és csak akkor lehet eredményes, ha a különböző tantárgyak, órán és iskolán kívüli területek, tevékenységek összehangolásán alapul. A pályaorientáció területén található kulcskompetenciák közül kiemelt figyelmet igényel a rugalmasság, az együttműködés és a bizonytalanság kezelésének a képessége egyéni és társadalmi szinten egyaránt.
+• az egészségkárosító magatartásformák elkerülését,
 
-A tanulók hatékony társadalmi beilleszkedéséhez, az együttéléshez és a részvételhez elengedhetetlenül szükséges a szociális és társadalmi kompetenciák tudatos, pedagógiailag megtervezett fejlesztése. Olyan szociális motívumrendszer kialakításáról és erősítéséről van szó, amely gazdasági és társadalmi előnyöket egyaránt hordoz magában. A szociális kompetenciák fejlesztésében kiemelt feladat a segítéssel, együttműködéssel, vezetéssel és versengéssel kapcsolatos területek erősítése. Ezzel párhuzamosan szükséges a társadalmi-állampolgári kompetenciák körét is meghatározni, nevezetesen a jogaikat érvényesítő, a közéletben részt vevő és közreműködő tanulók képzéséről van szó. A szociális és társadalmi kompetenciák fejlesztésének fontos részét képezik a gazdasággal, az öntudatos fogyasztói magatartással, a versenyképesség erősítésével kapcsolatos területek, mint például a vállalkozási, a gazdálkodási és a munkaképesség, szoros összefüggésben az ún. cselekvési kompetenciák fejlesztésével
+• a betegségeket a korai szűrésekben való részvétel révén megelőzni,
 
-Az 5–8. évfolyam ajánlott tantárgyi rendszere és az óraszámok
+• tudjanak sajátos étrendet, mozgásprogramot kialakítani egészségük megőrzése érdekében,
 
-|  | Tantárgy | 5. évf. | 6. évf. | 7. évf. | 8. évf. |  |
+• erősítsék a társas-kommunikációs készségeik fejlesztését és a konfliktuskezelési magatartásformák fejlesztését
 
-|  | Magyar nyelv és irodalom (dráma) | 148 | 148 | 129,5 | 129,5 |  |
+Módszertani elemek
 
-|  | Történelem és állampolgári ismeretek (hon és népismeret) | 74 | 74 | 74 | 74 |  |
+Az egészségnevelés módszereiben jelen kell lennie az egészség állapotáról, a társadalom és az egészség viszonyáról szóló információgyűjtésnek. Biztosítani kell az információ feldolgozás, a feldolgozott információk alapján történő döntéshozatal, a döntés alapján eltervezett egyéni és közösségi cselekvések végrehajtása módszereinek a bemutatását. Az egészségnevelés eredményességéhez az szükséges, hogy ezeket a módszereket a diákok minél többször, valós globális és helyi problémákkal, értékekkel kapcsolatban maguk alkalmazzák.
 
-|  | Idegen nyelv | 111 | 111 | 111 | 111 |  |
+Ajánlott módszerek az egészségnevelés számára:
 
-|  | Matematika | 148 | 111 | 111 | 111 |  |
+– interjúk, felmérések készítése az iskola közvetlen partnerei és az egészség viszonyáról,
 
-|  | Informatika | 18.5 | 37 | 37 | 37 |  |
+– serdülőkori önismereti csoport-foglalkozások,
 
-|  | Természetismeret | 74 | 55,5 |  |  |  |
+– kortárssegítők képzése,
 
-|  | Fizika |  |  | 55,5 | 55,5 |  |
+– problémamegoldó gyakorlatok, értékeléssel,
 
-|  | Biológia és egészségtan |  |  | 55,5 | 55,5 |  |
+– szituációs játékok,
 
-|  | Kémia |  |  | 55,5 | 55,5 |  |
+– részvétel a helyi egészségvédelmi programokon,
 
-|  | Földrajz |  | 37 | 55,5 | 55,5 |  |
+– sport, kirándulás, egészségnap(ok) rendszeres szervezése,
 
-|  | Ének-zene | 37 | 37 | 37 | 37 |  |
+– az iskolai egészségügyi szolgálat tevékenységének elősegítése,
 
-|  | Rajz | 55,5 | 55,5 | 37 | 18,5 |  |
+– érveléstechnikai gyakorlatok (hatékony kommunikáció elsajátítása),
 
-|  | Mozgóképkultúra és médiaismeret |  |  |  | 37 |  |
+– környezetvédelmi tevékenységek kialakítása (madárvédelem, faültetés),
 
-|  | Technika és életvitel | 37 | 37 | 37 | 18,5 |  |
+– a szabadidő hasznos, értelmes eltöltésére irányuló programok szervezése,
 
-|  | Testnevelés és sport (tánc) | 92,5 | 92,5 | 92,5 | 92,5 |  |
+– az egészséges életmódra nevelés tantárgyakban történő megjelenítése.
 
-|  | Ember és társadalomismeret, etika |  |  | 18,5 | 18,5 |  |
+A helyi egészségnevelési program
 
-|  | Osztályfőnöki | 37 | 18,5 | 18,5 | 18,5 |  |
+A helyi egészségnevelési program elkészítése kiváló alkalom az iskolának arra, hogy újragondolja, rendszerbe foglalja egészségnevelési tevékenyégét. Az egészségnevelés helyi és jövőre irányuló elkötelezettsége miatt az egészségnevelési programnak folyamatosan reagálnia kell a világban, és a szűkebb környezetbe bekövetkező változásokra. Ezért az egészségnevelési programot kellően rugalmasan kell megalkotni, és biztosítani kell a folyamatos felülvizsgálat, megújítás lehetőségét. Az iskolai egészségnevelési program elkészítéséhez be kell szerezni az iskola-egészségügyi szolgálat véleményét.
 
-|  | Egészségtan |  | 18,5 |  |  |  |
+Az iskolai egészségnevelési program része a mindennapi testedzés feladatainak programja is. A 2003. évi törvénymódosítás e feladatot beilleszti a meglévő időkeretbe. Tudnunk kell, hogy az új rendelkezés szerint a helyi tantervbe évfolyamonként az iskola első-negyedik évfolyamán legalább heti három, a többi évfolyamán heti átlagban két és fél testnevelési órát be kell építeni. A helyi tantervbe – a nem kötelező tanórai foglalkozások időkeretének terhére – további egy vagy több testnevelési óra is beépíthető, s e többlet testnevelési órákkal a tanulói kötelező tanórai foglalkozások száma megnövelhető.
 
-|  | Kötelező óraszám a törvény alapján | 832,5 | 832,5 | 925 | 925 |  |
+Az általános iskola első-negyedik évfolyamán biztosítani kell a mindennapos testmozgást. A mindennapos testmozgás a helyi tantervben meghatározott legalább három testnevelési óra és a játékos testmozgás keretében valósul meg. A játékos testmozgást minden olyan tanítási napon meg kell szervezni, amikor nincs testnevelési óra. A játékos, egészségfejlesztő testmozgás ideje naponként legalább harminc perc, amelyet több, legalább tizenöt perces foglalkozás keretében is meg lehet tartani.
 
-A Nat műveltségterületeinek megjelenése az 5–8. évfolyam tantárgyi rendszerében
+A játékos, egészségfejlesztő testmozgást a tanítási órák részeként és szükség szerint legfeljebb egy óraközi szünet ideje legfeljebb ötven százalékának felhasználásával lehet megszervezni.
 
-Jelen kerettantervi változat a NAT valamennyi műveltségterületének – 5–8. évfolyamra meghatározott – fejlesztési feladatait belefoglalja a tantárgyak rendszerébe. A műveltségterületek és a tantárgyak megfeleltetését az alábbi táblázat mutatja.
+A helyi egészségnevelési, egészségfejlesztési feladatok megírásához, megfogalmazásához a következő helyekről kaphat segítséget:
 
-| A Nat műveltségi területei | Tantárgyak |
+www.om.hu;
 
-| Magyar nyelv és irodalom | Magyar nyelv és irodalom (dráma) |
+É: 473–7318; 473–7183
 
-| Élő idegen nyelv | Idegen nyelv |
+Ajánlás
+
+az iskolai fogyasztóvédelemmel összefüggő feladatok végrehajtására
+
+Jogi háttér:
+
+A parlament 1997. december 15-én fogadta el a fogyasztóvédelemről szóló 1997. évi CLV. törvényt. melynek első része V. fejezet 17.§-a rendelkezik a fogyasztók oktatásáról.
+
+E törvény írja elő a fogyasztók oktatásának szükségességét a fogyasztóvédelmi jogszabályok megismerése céljából. E törvény szerint a fogyasztók oktatása alapvetően állami feladat, amelyet az oktatási intézmények, a Fogyasztóvédelmi Felügyelőség és az érdekvédelmi szervezetek együttműködve teljesítenek.
+
+A fogyasztóvédelmi törvény, valamint az EU jogharmonizáció alapján a közoktatási törvény 2003. évi módosításában is megjelenik a fogyasztóvédelem oktatása.
+
+A Kormány 243/2003. számú rendeletével hatályba lépett új Nemzeti Alaptanterv (NAT 2003) értelmében a helyi tanterveknek biztosítania kell, hogy az egyes tantárgyak sajátosságaihoz igazodva a tanulók elsajátíthassák a fogyasztóvédelemmel összefüggő ismereteket, felkészüljenek azok gyakorlati alkalmazására.
+
+Kiemelt fejlesztési feladat a Nat-ban a felkészülés a felnőtt életre, amelyben a fogyasztói kultúra kialakítása is szerepel.
+
+A fogyasztóvédelmi oktatás célja:
+
+A fogyasztóvédelmi oktatás célja a fogyasztói kultúra fejlesztése, és a tudatos kritikus fogyasztói magatartás kialakítása és fejlesztése a tanulókban.
+
+A fogyasztóvédelmi oktatás tartalmi elemei:
+
+A tanulók hatékony társadalmi beilleszkedéséhez, az együttműködéshez és a részvételhez elengedhetetlenül szükséges a szociális és társadalmi kompetenciák tudatos pedagógiailag megtervezett fejlesztése. Olyan szociális motívumrendszerek kialakításáról és erősítéséről van szó, amely gazdasági és társadalmi előnyöket egyaránt hordoz magában.
+
+Szükséges a társadalmi és állampolgári kompetenciák kialakítása, a jogaikat érvényesíteni tudó a közéletben részt vevő és közreműködő tanulók képzése. A szociális és társadalmi kompetenciák fejlesztése a versenyképesség erősítésével kapcsolatos területek, mint például a vállalkozási a gazdálkodási és a munkaképesség szoros összefüggése az un. cselekvési kompetenciák fejlesztése.(NAT 2003)
+
+Fontos továbbá a fogyasztás során a tájékozódás képessége, a döntési helyzet felismerése, és a döntésre való felkészülés. Meg kell ismertetni a tanulókkal a piac, a marketing és a reklám szerepét, alkalmassá téve őket az eligazodásra. Hangsúlyozni kell a minőség és a biztonság szerepét a fogyasztás során, valamint a gazdaságosságot és a takarékosságot.
+
+A fogyasztóvédelmi oktatás céljaként megfogalmazott fogyasztói kultúra, valamint a kritikus fogyasztói magatartás kialakítása és fejlesztése érdekében szükséges, hogy a diákok értsék, és a saját életükre alkalmazni tudják az alábbi fogalmakat:
+
+Környezettudatos fogyasztás: Egyfajta középút az öncélú, bolygónk erőforrásait gyorsulva felélő fogyasztás és fogyasztásmentesség között.
+
+Kritikus fogyasztói magatartás: A fogyasztói jogok érvényesítése.
+
+A fogyasztónak joga van:
+
+a.) az alapvető szükségleteinek kielégítéséhez
+
+b.) a veszélyes termékek és eljárások ellen való tiltakozáshoz
+
+c.) a választáshoz különböző termékek és szolgáltatások között
+
+d.) a megfontolt választáshoz szükséges tények ismeretéhez
+
+e.) a jogos panaszok tisztességes rendezéséhez
+
+f.) az egészséges és elviselhető környezetben való élethez
+
+g.) a kormány irányelveinek meghatározásába és végrehajtásába való beleszóláshoz.
+
+Preventív, vagyis megelőző fogyasztóvédelem: Amikor a vevő már a kezdet kezdetén érvényesíteni tudja jogait és nincs szükség panaszbejelentésre, bírósági perekre.
+
+A fogyasztóvédelmi oktatás színterei az oktatásban:
+
+Az egyes tantárgyak tanórai foglalkozásai.
+
+Tanórán kívüli elemek (vetélkedők, versenyek, rendezvények)
+
+Hazai és nemzetközi együttműködések (más iskolákkal, állami és civil szervezetekkel, cégekkel)
+
+Az iskola fogyasztóvédelmi működése és az ezzel kapcsolatos foglalkozások
+
+Módszertani elemek:
+
+A módszereknek tartalmaznia kell az egyén és társadalom viszonyáról szóló információgyűjtés, információfeldolgozás, a feldolgozott információk alapján való döntés és a döntés alapján eltervezett cselekvés végrehajtásának módszereit.
+
+Fontos hogy a diákok e módszereket minél többször valós helyi és globális problémákon és értékeken keresztül maguk alkalmazzák.
+
+• Interjúk, felmérések készítése az emberek vásárlási szokásairól
+
+• Helyi-, országos- és EU-s szabályozások tanulmányozása
+
+• Adatgyűjtés, feldolgozás információrögzítés együttműködéssel
+
+• Problémamegoldó gyakorlat ötletbörzével, értékeléssel
+
+• Viták, szituációs játékok (eladói és vásárlói érdekek összehangolása, fogyasztói kosár készítése)
+
+• Érveléstechnikai gyakorlatok (hatékony érdekérvényesítés)
+
+A fogyasztóvédelmi oktatáshoz a következő szervezetektől kapható segítség és segédanyag:
+
+Fogyasztóvédelmi Főfelügyelőség (FVF) www.fvf.hu T: 06 (1) 459 4917
+
+Országos Fogyasztóvédelmi Egyesület (OFE) www.ofe. hu T: 06 (1) 311-7030
+
+Ajánlás
+
+az iskolai környezetvédelemmel összefüggő feladatok végrehajtására
+
+Jogi háttér
+
+A Kormány 243/2003. számú rendeletével hatályba lépett új Nemzeti Alaptanterv (Nat) értelmében a környezeti nevelés a közoktatás kiemelt fejlesztési feladata, melynek az iskolai oktatás valamennyi elemét át kell hatnia, elő kell segítenie a tantárgyközi kapcsolatok erősítését, a tanítás-tanulás szemléleti egységét, a tanulók személyiségének fejlődését. A közoktatásról szóló 1993. évi LXXIX. törvény módosításáról rendelkező 2003. évi LXV. törvény 48.§ (3) bekezdése értelmében az iskoláknak nevelési programjuk részeként el kell készíteniük környezeti nevelési programjukat is. Ezek a jogszabályok lehetőséget kínálnak arra, hogy az iskolák megtervezzék környezeti nevelési tevékenységüket.
+
+A környezeti nevelés célja
+
+A környezeti nevelés átfogó célja, hogy elősegítse a tanulók környezettudatos magatartásának, életvitelének kialakulását annak érdekében, hogy a felnövekvő nemzedék képes legyen a környezeti válság elmélyülésének megakadályozására, elősegítve az élő természet fennmaradását és a társadalmak fenntartható fejlődését. (NAT 2003)
+
+A környezeti nevelés színterei az iskolában:
+
+Az összes tantárgy tanórai foglalkozásai
+
+A nem hagyományos tanórai foglalkozások (pl. erdei iskola, témanapok, projekt-tanítás és más komplex, tantárgyközi foglalkozások)
+
+Tanórán kívüli foglalkozások (pl. szakkörök, tábor, rendezvények, versenyek)
+
+Hazai és nemzetközi együttműködések (más iskolákkal, állami és civil szervezetekkel, cégekkel)
+
+Az iskola környezettudatos működése és az ezzel kapcsolatos foglalkozások
+
+A környezeti nevelés tartalmi elemei:
+
+A környezeti nevelés során a tanulók ismerjék meg azokat a jelenlegi folyamatokat, amelyek következményeként bolygónkon környezeti válságjelenségek mutatkoznak. Konkrét hazai példákon ismerjék fel a társadalmi-gazdasági modernizáció pozitív és negatív környezeti következményeit.
+
+A tanulók kapcsolódjanak be közvetlen környezetük értékeinek megőrzésébe, gyarapításába. Életmódjukban a természet tisztelete, a felelősség, a környezeti károk megelőzésére való törekvés váljék meghatározóvá. Szerezzenek személyes tapasztalatokat az együttműködés, a környezeti konfliktusok közös kezelése és megoldása terén. (Nat)
+
+Mindezen tartalmaknak fokozatosan kell megjelenniük az általános iskolai pedagógiai munkában. A tartalmi elemek megjelenítéséhez részletes segítséget nyújt a Kerettantervi segédlet a környezeti neveléshez, melyet 2001-ben minden iskola megkapott, és olvasható a www.om.hu közoktatás rovatának tanterv alrovatában, valamint www.konkomp.hu weboldal a kiadványok rovatban.
+
+A környezeti nevelés céljaként megfogalmazott fenntartható fejlődés, környezettudatos magatartás előmozdításához elengedhetetlen, hogy az általános iskola befejezésekor a diákok megértsék, saját életükre alkalmazni tudják az alábbi fogalmakat:
+
+• Fenntartható fejlődés: A jelenlegi generációk szükségleteinek kielégítése olyan módon, amely nem veszélyezteti a jövő nemzedékek szükségleteinek kielégítését
+
+• A növekedés korlátai: A Föld, és a földi erőforrások végességéből adódó korlátok, melyek lehetetlenné teszik az emberiség lélekszámának, és anyagi javainak folyamatos gyarapodását.
+
+• Alapvető emberi szükségletek: Minden ember és társadalom igénye és joga a túléléshez szükséges energiához és anyagokhoz való igazságos és egyenlő hozzáférésre, és a Föld lehetőségeihez mért kielégítő életminőség megvalósítására.
+
+• Az elővigyázatosság elve: A megfontolt, a nem kívánt következményekre is figyelemmel lévő, az ökológiai folyamatokba a lehető legkevésbé beavatkozó döntéshozatal szükségessége olyan esetekben, amikor nem ismerünk minden körülményt, és/vagy amikor az adott kérdésre vonatkozó tudományos álláspont megosztott.
+
+• Kölcsönös függőség: A minden elem és életforma (beleértve az embereket is) között fennálló kölcsönös és egyenrangú függőségi kapcsolatok a természeti rendszerekben.
+
+Módszertani elemek
+
+A fenntarthatóság pedagógiai gyakorlata feltételezi az egész életen át tartó tanulást, amelynek segítségével olyan tájékozott és tevékeny állampolgárok nevelődnek, akik kreatív, problémamegoldó gondolkodásmóddal rendelkeznek, eligazodnak a természet és a környezet, a társadalom, a jog és a gazdaság terén, és felelős elkötelezettséget vállalnak egyéni vagy közös tetteikben.
+
+Mindez úgy valósítható meg, ha a tanulók érzékennyé válnak környezetük állapota iránt, és így képesek lesznek a környezet sajátosságainak, minőségi változásainak megismerésére és elemi szintű értékelésére, a környezet természeti és ember alkotta értékeinek felismerésére és megőrzésére, a környezettel kapcsolatos állampolgári kötelességeik vállalására és jogaik gyakorlására. A környezet ismeretén és a személyes felelősségen alapuló környezetkímélő magatartás egyéni és közösségi szinten egyaránt a tanulók életvitelét meghatározó erkölcsi alapelv. (Nat)
+
+A környezeti nevelés módszereiben tehát egyaránt jelen kell lennie a környezet állapotáról, a társadalom és a környezet viszonyáról szóló információgyűjtésnek, információ-feldolgozásnak, a feldolgozott információk alapján történő döntéshozatalnak, a döntés alapján eltervezett egyéni és közösségi cselekvések végrehajtási módszereinek. A környezeti nevelés eredményességéhez az szükséges, hogy ezeket a módszereket a diákok minél többször, valós globális és helyi problémákkal, értékekkel kapcsolatban maguk alkalmazzák.
+
+Ajánlott módszerek a környezeti nevelés számára:
+
+Természettudományos megfigyelések
+
+Interjúk, felmérések készítése az emberek és a környezet viszonyáról
+
+Helyi, országos és globális döntéshozatali rendszerek tanulmányozása
+
+„Öröm- és bánattérkép” készítés
+
+Jegyzetek, feladatmegoldások összehasonlítása, elemzése.
+
+Új ismerethez kapcsolódó kérdések megfogalmazása csoportosan.
+
+Adatgyűjtés, feldolgozás információrögzítés együttműködéssel.
+
+Esszé kidolgozása csoportosan (ötletgyűjtő, kidolgozó, véleményező feladatok munkamegosztással).
+
+Problémamegoldó gyakorlat ötletrohammal, értékeléssel.
+
+Fogalmak, jelenségek, összefüggések, törvényszerűségek kollektív definiálása, pontosítása, tisztázása.
+
+Adott témának analitikus, analógiás és holisztikus körüljárása
+
+Írásbeli értekezések, vitairatok, készítése, vélemények, beadványok, javaslatok megfogalmazása és értelmezése csoportos munkában.
+
+Viták, szituációs játékok,
+
+Érveléstechnikai gyakorlatok (hatékony kommunikáció elsajátítása)
+
+Természetvédelmi tevékenységek (őrjáratok, madárvédelem, faültetés)
+
+Részvétel a helyi környezetvédelmi tevékenységben (helyi környezetvédelmi program megismerése, véleményezése, a megvalósítás segítése)
+
+A helyi környezeti nevelési program.
+
+A helyi környezeti nevelési program elkészítése kiváló alkalom az iskolának arra, hogy újragondolja, rendszerbe foglalja környezeti nevelési tevékenyégét. A környezeti nevelés helyi és jövőre irányuló elkötelezettsége miatt a környezeti nevelési programnak folyamatosan reagálnia kell a világban, és a szűkebb környezetben bekövetkező változásokra [MAl]. Ezért a környezeti nevelési programot kellő rugalmassággal kell megalkotni, és biztosítani kell a folyamatos felülvizsgálat, megújítás lehetőségét.
+
+A helyi környezeti nevelési program megírásához, megújításához a következő szervezetektől kapható segítség:
+
+Magyar Környezeti Nevelési Egyesület www.mkne.hu (1) 321 47 96
+
+Természet- és Környezetvédő Tanárok Egyesülete www.ttk.pte.hu/TKTE/ (1) 24-08-495
+
+KFPT – Környezeti Nevelési és Kommunikációs Programigazgatóság www.konkomp.hu (1) 251 5647
+
+Ökoiskola Hálózat, www.okoiskola.hu (1) 318 50 74
+
+Országos Közoktatási Intézet Program- és Tantervfejlesztési Központ www.oki.hu (1) 318 65 31
+
+Körlánc Országos Egyesület a Környezeti Nevelésért www.korlanc.ngo.hu (1) 318-6531
+
+KERETTANTERV A SZAKISKOLÁK SZÁMÁRA[^16]
+
+III.
+
+KERETTANTERV A SZAKISKOLÁK SZÁMÁRA
+
+III.
+
+KERETTANTERV A KÖZÉPFOKÚ NEVELÉS-OKTATÁS ÁLTALÁNOS MŰVELTSÉGET MEGALAPOZÓ SZAKISKOLAI SZAKASZÁRA
+
+(9–10. ÉVFOLYAM)
+
+[A 28/2000. (IX. 21.) OM rendelet mellékleteként kiadott kerettanterv kiegészítése a közoktatási törvény 2006. szeptember 1-jétől hatályos 27. § (2) bekezdése és a NAT 2003 figyelembevételével kidolgozott változat]
+
+Ez a tanterv kiegészítése az oktatási miniszter által 2003. szeptember 1. óta hatályos kiadott kerettantervnek. Kiadása a közoktatási törvény 2006. szeptember 1-jétől hatályos 27. § (2) bekezdése és a NAT 2003 figyelembevételével történik.
+
+A 28/2000. (IX. 21.) OM rendelet mellékletében (V. KERETTANTERV A SZAKISKOLÁK SZÁMÁRA) az Ajánlott tantárgyi rendszer és óraszámok azzal az eltéréssel alkalmazhatók, hogy a kilencedik évfolyamon pályaorientációt és gyakorlati oktatást, a tizedik évfolyamon pedig szakmai elméleti és gyakorlati alapozó oktatást kell folytatni.
+
+A tantárgyi tantervek továbbra is felhasználhatók a helyi tanterv elkészítéséhez.
+
+1. A szakiskolai kerettanterveket meghatározó jogszabályi feltételek
+
+A szakiskola kilencedik évfolyamán az általános műveltséget megalapozó nevelés-oktatás, pályaorientáció, gyakorlati oktatás, a tizedik évfolyamán – a kötelező tanórai foglalkozások legfeljebb negyven százalékában – szakmai alapozó elméleti és gyakorlati oktatás folyik. A gyakorlati oktatást iskolai tanműhelyben kell megszervezni.[^17]
+
+A szakiskola tanulója – az átvételre és a felvételre vonatkozó rendelkezések szerint (42. §, 46. §, 66–67. §) – folytathatja tanulmányait egy másik szakiskola, általános iskola, középiskola megfelelő évfolyamán.[^18]
+
+Ha a szakiskolai nevelés és oktatás – középiskolai nevelést és oktatást ellátó – többcélú intézményben folyik, a szakiskola tanulója a szakmai vizsga letételét követően – a kilencedik–tizedik évfolyamon folytatott tanulmányainak beszámításával – folytathatja tanulmányait az érettségi vizsgára történő felkészülés céljából.[^19]
+
+A kerettanterv ajánlást tartalmaz a szakiskolában a pályaorientációra, a szakmai előkészítő, szakmai alapozó oktatásra, továbbá az általános műveltséget megalapozó nevelés-oktatás és a pályaorientáció, a szakmai előkészítő, szakmai alapozó oktatás, illetve a szakmai elméleti és gyakorlati képzés időbeli tagolására, időkereteire, arányaira.[^20]
+
+A közoktatási törvényben szabályozott szakiskolai pályaorientáció, szakmai előkészítő ismeretek oktatása és a szakmai alapozó oktatás során elsajátított és igazolt ismeretek tanulmányokba való beszámításáról a szakképzést folytató intézmény vezetője dönt.[^21]
+
+2. A szakiskolai kerettanterv célrendszere
+
+A kilencedik-tizedik évfolyamos szakiskolai kerettanterv célja az oktatás hatékonyságának javítása, a lemorzsolódás csökkentése, a tanulók felkészítése a szakmatanulás elkezdésére és – egyes ágazatokban – a tanulószerződés keretében folyó szakképzésre is. Tekintettel arra, hogy a szakiskolába lépők motivációja, felkészültsége, képezhetősége nagyon különböző, a kerettantervnek egyaránt lehetővé kell tennie a leszakadó tanulók motiválását, felzárkóztatását, alapkészségeinek fejlesztését, illetve az érettségit adó iskolába átlépni kívánó tanulók igényes fejlesztését is. A kerettanterv ennek megfelelően rugalmas feltételeket kíván teremteni a különböző felkészültségű tanulók fejlesztésére.
+
+A kilencedik és tizedik évfolyamon folyó oktatás elsődleges célja a közoktatási intézményekben az általános műveltség megszilárdítása.[^22] Ez a feladat a szakiskolában magában foglalja az alapismeretek hiánypótlását és a szakképzés megalapozásához szükséges ismeretek, készségek fejlesztését is.
+
+A pedagógiai célok négy területre bonthatók:
+
+▪ a személyiség fejlesztése,
+
+▪ az általános műveltség megszilárdítását szolgáló képzés folytatása,
+
+▪ a szakmatanulás elkezdéséhez szükséges kompetenciák fejlesztése,
+
+▪ az élethosszig tartó tanulás megalapozása.
+
+A kerettanterv a hangsúlyt a felzárkóztatásra, az alapvető képességek-készségek fejlesztésére helyezi. Ugyanakkor figyelembe veszik a szakiskolai kilencedik–tizedik évfolyamos programmal szemben a társadalmi környezet által megfogalmazott, a jogszabályokban megerősített követelményeket is. A szakiskola tanulója a közoktatási törvény rendelkezései szerint tanulmányait másik szakiskola, középiskola megfelelő évfolyamán is folytathatja,[^23] s a szakmai vizsga letételét követően – a kilencedik-tizedik évfolyamon folytatott tanulmányainak beszámításával – tanulhat tovább a szakközépiskolában.[^24]
+
+A kilencedik–tizedik évfolyamos szakiskolai programnak ezért a felzárkóztatás, hiánypótlás, szakmatanulásra való felkészítés mellett biztosítania kell az átlépést más középiskolába és a szakközépiskolai tanulmányokba beszámítható ismereteket is.
+
+A személyiség fejlesztése, az általános műveltség megszilárdítását szolgáló képzés folytatása, a szakmatanulás elkezdéséhez szükséges kompetenciák fejlesztése, az élethosszig tartó tanulás megalapozása nem választhatók el egymástól. A program középpontjában a személyiség fejlesztése és a szakmatanulás elkezdéséhez szükséges kompetenciák fejlesztése áll. Az ismeretközpontú általános iskolában elszenvedett kudarcok következtében a szakiskolába lépő tanulók személyisége gyakran sérül. Jellemző tünet az önbizalom hiánya, a visszahúzódás, a társadalom, az iskola értékeinek elvetése, a viselkedési és magatartási zavarok.
+
+A személyiség fejlesztésének meghatározó eszköze olyan pedagógiai környezet megteremtése, amely a tanuló tevékenységére épít és lehetőséget teremt a sikerre. A tevékenységre építő pedagógia fogalomrendszere a NAT 2003-ban jelenik meg, amelyben a korábbi követelmény-kategóriákat a „fejlesztési feladatok” váltják fel. A jelenlegi szakiskolai gyakorlatban a tanuló, aki korábban az általános iskolában gyakran akkor is továbbléphetett, ha csendben maradt a hátsó padban, új követelményekkel találkozik és nem tud ezeknek megfelelni.. Az iskola értékel és büntet. E kerettanterv koncepciója abban tér el a korábbi gyakorlattól, hogy nem a szakiskolai követelmények teljesülését méri, hanem arra törekszik, hogy a belépő tanuló igényeinek és lehetőségeinek megfelelő fejlesztő programot kínáljon. Alapvetően módosul a pedagógiai cél: a követelmények teljesítése helyett, a nyitott fejlesztési környezet megteremtése és a tanuló motiválása, aktivizálása, tevékenykedtetése a cél.
+
+A szakmatanulás elkezdéséhez szükséges kompetenciák körébe: a személyiséghez kapcsolódó kompetenciák, (motiváció, önértékelés, felelősség stb.) a csoportban végzett munkához szükséges szociális kompetenciák, (kommunikációs, együttműködési és konfliktuskezelő kompetenciák) a tanuláshoz és a munkavégzéshez szükséges problémamegoldó képesség, tanulásra való képesség, rendszerező képesség, az életvezetéshez szükséges kompetenciák, interkulturális kompetenciák és az informatikai eszközök használatához szükséges kompetenciák sorolhatók.
+
+A tanulás és a munkavégzés feltétele ezenkívül az alapvető írás-olvasási, matematikai alapkompetenciák köre, a különböző ismeretterületekhez (pl. természettudományokhoz) kapcsolódó kompetenciák köre és a szakmai kompetenciák.
+
+A szakmatanulás elkezdésének feltétele a megalapozott pályaválasztási döntés. A pályaválasztást segíti a szakmatanulásra való felkészítésben a szakmai alapozó képzés, amennyiben lehetőséget teremt a kiválasztott szakmaterület(ek) megismerésére, a szakmacsoportra jellemző munkahelyi körülmények, eszközök, feladatok megismerésére, a különböző szakmák követelményeinek összehasonlítására, a saját képességek, lehetőségek felmérésére és a reális önkép és életpályamodell kialakítására. A szakmatanulás elkezdéséhez szükséges kompetenciák között kiemelt jelentőséggel bír a szakmai kompetenciák elsajátítása azokban a szakképző rendszerekben, amelyekben a tanulószerződés intézménye széles körben elterjedt. A munkaadók ugyanis elsősorban azokkal a fiatalokkal kötnek tanulószerződést, akik ismerik a kiválasztott szakma munkahelyi feladatait, egyszerűbb technológiáit, akikről feltételezhető, hogy hatékonyan tudnak beilleszkedni az értéktermelő tevékenységbe. Különösen fontos a szakmai kompetenciák megerősítése a hátrányos helyzetű és kisebbséghez tartozó fiatalok szakmatanulásra felkészítésében és tanulószerződéshez segítésében.
+
+A kilencedikes-tizedikes szakiskolai program a személyiség fejlesztése és a szakmatanulás elkezdéséhez szükséges kompetenciák erősítése mellett tovább folytatja az általános művelést. Ez egyaránt feltétele a versenyképes szakképesítések elsajátításának, az élethosszig tartó tanulás képességének, az önművelés képességének a kialakításában. Az általános műveltség megszilárdítását szolgáló képzés folytatása feltétele az iskolaváltásnak – átlépés más középiskolába vagy szakképző intézménybe – vagy az érettségi megszerzésének is. A tanulók alapismereteinek hiánypótlása éppen úgy fontos feladata a programnak (és ezen keresztül a tantervi fejlesztésnek is), mint az átjárhatóság és beszámíthatóság elvének érvényesítése.
+
+3. A szakiskolai program részei, szerkezete
+
+A szakiskola kilencedik évfolyamán általános műveltséget megalapozó nevelés-oktatás, pályaorientáció, gyakorlati oktatás, a tizedik évfolyamán – a kötelező tanórai foglalkozások legfeljebb negyven százalékában – szakmai alapozó elméleti és gyakorlati oktatás folyik.
+
+Az általános műveltséget megalapozó oktatás a NAT kiemelt műveltségterületeire irányul. A műveltségterületek és a tantárgyak megnevezésekor a tanulók iskolaváltás iránti igényét, illetve az érettségit adó programokba való továbblépés igényét figyelembe véve, a jelenlegi középiskolai tantárgyak és az érettségi tantárgyak megnevezését használja. (Matematika, anyanyelv és irodalom, történelem és társadalmi ismeretek, természetismeret, élő idegen nyelv, informatika, testnevelés)
+
+A pályaorientáció a kilencedik évfolyamon folyik. Az iskola helyi tanterve szerint a tizedik évfolyamon is folytathat pályaorientációt. A 9–10. évfolyamon javasolt kerettanterv a pályaorientációt az életpálya-építés előkészítő szakaszaként értelmezi. A program célja, hogy elősegítse és tudatosabbá tegye a diákok szakmaválasztását. A javasolt tananyag modulárisan építkezik. Áttekinti a sikeres pályaválasztás alappilléreiként számon tartott tényezőket: az önismereti elemeket, a pályainformációkat, azaz a szakmaismereti elemeket és a 10. évfolyamon – javasoltan a szakmai alapozás során – a munkaerő-piaci információkat. Az önismeret mélyítésére olyan lélektani alapozású pedagógiai, módszertani eszközöket kínál, amelyek egyúttal a szakmatanuláshoz szükséges kompetenciákat is fejlesztik. A pályaismeretek bővítésére, összevetésére és összeillesztésére választható módszereket kínál (a „B” modulban). Az előkészítő szakasz végére kialakul egy személyes portfolió, amelyet minden tanuló egyénileg készít el.
+
+A portfolió az egész szakiskolai képzés folyamán dokumentálja, követi az egyén iskolai életének rávetülő jelentősebb hatásait. Tartalmazza: az egyén érdeklődési irányainak, képesség-struktúrájának alakulását, munkamódjának változását, a szakmaválasztás időszakában jelzi a tanuló adott kompetenciáinak fejlettségi szintjét, amelyekkel majd belép a szakképzési évfolyamra. Mivel a pályaorientációs modulok lehetőséget nyújtanak projektek megvalósítására is, a portfolió tartalmazza az egyén projektekben való részvételéről szóló visszajelzéseket is, az önmaga által adott és a társaktól, tanároktól kapott értékeléseket.
+
+A szakiskolák 9. évfolyamán folyó gyakorlati oktatás és a 10. évfolyamán folyó szakmai alapozás során egy szakmacsoport közös (elméleti és gyakorlati) szakmai ismereteinek oktatása; készségek, képességek fejlesztése folyik. A gyakorlati oktatás és a szakmai alapozás keretében a tanulók megismerkednek a kiválasztott szakmacsoport jellemző technológiáival, az itt használt anyagokkal, megismerik a szakmacsoportba tartozó szakképesítéseket, ezáltal segítséget kapnak az Országos képzési jegyzékben szereplő, számukra leginkább megfelelő szakképesítés kiválasztásához.
+
+Az oktatás célja a szakmacsoport közös elméleti és gyakorlati ismereteinek átadása, a jellemző technológiák, anyagok bemutatása, tapasztalatszerzés és olyan szakmai kompetenciák elsajátítása, amelyek hatékonyan segítik sikeres helytállást a szakképzési évfolyamon és lehetővé teszik a tanulószerződés megkötését.
+
+A közoktatási törvény 8/A. § (1) bekezdésében önálló kategóriaként szerepel a szakmai előkészítő oktatás. A szakiskolai kerettanterv a szakmai előkészítő oktatást nem önálló programelemként valósítja meg, hanem az egész kilencedik-tizedik évfolyamos program szervező elveként érvényesíti. Ha a szakiskolai kilencedik-tizedik évfolyamos kerettanterv és program elsődleges célja az, hogy fejlessze a tanulóknak a szakmatanulás elkezdéséhez szükséges kompetenciáit, akkor a teljes program szakmatanulásra felkészítő programként értelmezhető.
+
+A helyi tantervek kialakítása során arra kell törekedni, hogy – elsősorban a kilencedik évfolyamon – a gyakorlati oktatás során a tanulók több szakmaterülettel ismerkedjenek meg.
+
+A szakiskolai kerettanterv háromszintű. A kerettanterv megfogalmazza a szakiskola 9–10. évfolyama kerettantervének általános célját, felvázolja a tantárgyak rendszerét, ajánlást fogalmaz meg a pályaorientációra, a gyakorlati oktatás és a szakmai alapozó oktatás, illetve a szakmai elméleti és gyakorlati képzés időbeli tagolására, időkereteire, arányaira.
+
+A kerettantervi programok ajánlást tesznek a nevelés és oktatás céljára, a tantárgyak rendszerére, az egyes tantárgyak témaköreire, a témakörök tartalmára, a tevékenységekre, a fejlesztési feladatokra, a tantárgyak évfolyamonkénti követelményeire, a követelmények teljesítéséhez rendelkezésre, álló időkeretre, a várható eredményekre.
+
+A kerettantervi programokat feladatbank (projektbank) egészíti ki. Ez a tanterv harmadik szintje.
+
+A szakiskolák a feladatbank (projektbank) projektkínálatára építve alakítják ki a tanulók fejlesztését szolgáló tevékenységrendszerüket. Saját projekteket is fejleszthetnek.
+
+A tevékenységalapú oktatás megvalósítása különösen fontos a kilencedik évfolyamon folyó gyakorlati oktatás és a tizedik évfolyamon folyó szakmai alapozás során. A kerettanterv javaslata szerint a feladatbankban szereplő komplex feladatokra (projektek) épül a gyakorlati oktatás és a szakmai alapozás, s ehhez illeszthetők egyes természetismereti és matematikai témakörök is. A projekt-alapú oktatás kiterjesztése az általános műveltséget megalapozó képzés területén is indokolt.
+
+4. Az általános műveltséget megalapozó oktatás, a pályaorientáció, a gyakorlati oktatás és a szakmai alapozó oktatás időarányai
+
+A szakiskola kilencedik-tizedik évfolyamain a kötelező tanórai foglalkozás időkerete napi 5,5 óra, heti 27,5 óra. A kötelező és szabadon választott órák összege egy tanítási héten a közoktatásról szóló törvény 52. §-ában meghatározott időkeretet a hetedik-tizenharmadik évfolyamon legfeljebb négy tanítási órával haladhatja meg.[^25]
+
+A kerettanterv a kötelező tanórai foglalkozások heti 27,5 órájára fogalmaz meg ajánlásokat. A jogszabály lehetővé teszi, hogy a szakiskolák 10. évfolyamán – a kötelező tanórai foglalkozások legfeljebb negyven százalékában – szakmai alapozó elméleti és gyakorlati oktatást folytassanak.[^26]
+
+A szakiskolai kerettanterv nem javasolja a maximális időkeret (11 óra) szakmai alapozásra fordítását. Ennek indoka a következő: a szakiskola kilencedik-tizedik évfolyamaival szemben a társadalmi környezet elvárásai és a jogszabályok differenciált célokat fogalmaznak meg, mint pl. az átlépés más középiskolába és a továbblépés érettségit adó iskolába. Ezeknek a követelményeknek a szakiskola csak akkor tud eleget tenni, ha a kötelező tanórai foglalkozások időkeretének egy részét e differenciált célokra fordítja. Ezért a kerettantervben javasoljuk, hogy a szakiskola a kötelező oktatás heti 27,5 órás keretéből heti 4 óra felhasználását a helyi tantervben határozza meg.
+
+A szabadon tervezhető (helyi tantervben meghatározott) időkeret a helyi tanterv kialakításakor felhasználható a kerettantervekben szereplő tantárgyak időkeretének bővítésére, a tanulók egyéni felzárkóztatására, az egyéni érdeklődést kielégítő tantárgyi programokra, projektekre, a nyelvtanulás időkeretének bővítésére, művészeti tárgyak oktatására.
+
+5. A kerettanterv alkalmazása
+
+Az iskolában a nevelő-oktató munka a pedagógiai program alapján folyik. A pedagógiai program magában foglalja a nevelési programot és a helyi tantervet, továbbá a szakképzésben részt vevő iskolákban a szakmai programot. Az iskola a helyi tantervének elkészítéséhez felhasználhatja a kerettantervet. A helyi tantervnek az iskolában folyó tanulmányok befejezéséig biztosítania kell a nevelés és oktatás kötelező és közös követelményeinek teljesítését.[^27]
+
+A tanterv szerkezetének jellemzői
+
+Ez az ajánlott kerettanterv egy szemléletében, tartalmában és módszereiben hangsúlyosan a tanítás-tanulás folyamatára koncentráló, alapvetően a képességek fejlesztését célzó, gyakorlatközeli.
+
+Alapelvek
+
+1. A tanterv moduláris szerkezetű.
+
+2. A modulok a műveltségterület és szakmacsoportok kiemelt tartalmi területeit integráltan kezelik.
+
+3. Az integráció jellemző a 9–10. évfolyamok gyakorlati oktatás és szakmai alapozó oktatás moduljaira is – az elmélet és gyakorlat feldolgozási módjaiban.
+
+4. A modulok középpontjában a tevékenység által fejleszthető kompetenciák állnak, feltételezve, hogy a tanulás aktív folyamat.
+
+5. A tevékenység, problémamegoldás segíti a megértés folyamatát, fejleszti a tanulók önismeretét, együttműködési készségeit, kognitív és tanulási képességeit.
+
+6. A tantervi modulok kiindulópontja mindenkor a tanuló közvetlen tapasztalata, előzetes ismeretei.
+
+7. A tantervi modulok elsődlegesen nem az ismeretközvetítést, hanem a képességfejlesztést célozzák, a feldolgozásukat célzó tevékenységek a diákokat aktivizálják, cselekedtetik és gondolkodtatják. Ennek megfelelően kiemelt szerep jut a kooperatív technikáknak, a terepmunkának, a projektnek, a kutatómunkának, a drámapedagógiai módszereknek.
+
+8. A modulok lehetőséget biztosítanak hosszmetszeti és keresztmetszeti egyedi tantervek megszerkesztésére. A témákat, tartalmakat nem tekintjük kötelező tananyagnak, törzsanyagnak vagy kiegészítő anyagnak. A kerettantervnek azt a szerepet szánjuk, hogy segítséget nyújtson az iskola pedagógiai programjának, helyi tantervének kialakításában.
+
+6. Ajánlás a tantárgyak követelményeinek teljesítéséhez rendelkezésre álló időkeret felhasználására
+
+| Tantárgy | 9. évf. | 10. évf. |
+
+| Magyar nyelv és irodalom | 74 | 74 |
+
+| Matematika | 74 | 74 |
+
+| Történelem és társadalmi ismeretek | 74 | 74 |
+
+| Természetismeret és környezeti tanulmányok | 74 | 74 |
+
+| Élő idegen nyelv | 74 | 74 |
+
+| Informatika | 74 | 74 |
+
+| Testnevelés és sport | 92,5 | 92,5 |
+
+| Osztályfőnöki | 37 | 37 |
+
+| Pályaorientáció | 74 | - |
+
+| Gyakorlati oktatás | 222 | - |
+
+| Szakmai alapozó oktatás | - | 296 |
+
+| Szabadon tervezhető (helyi tantervben meghatározott) | 148 | 148 |
+
+| Kötelező tanórai foglalkozások óraszáma | 1017,5 | 1017,5 |
+
+7. Kerettantervi programok
+
+A közismereti műveltségterületek/tantárgyak kerettantervi programjai:
+
+1. Idegen nyelv (angol, német) angol.doc; nemet.doc
+
+2. Természetismeret és környezeti tanulmányok termism.doc
+
+3. Történelem és társadalomismeret tarsadalomismeret.doc
+
+4. Matematika matematika.doc
+
+5. Informatika informatika_kozismeret.doc
+
+6. Magyar nyelv és irodalom magyar.doc
+
+7. Művészetek muveszetek.doc
+
+8. Testnevelés és sport [a 28/2000. (IX. 21.) OM rendelet szerint a szakiskolai „A2” tantervi változatból]
+
+A pályaorientáció, a gyakorlati oktatás és szakmai alapozó képzés kerettantervi programjai:
+
+1. Gyakorlati oktatás 09GYAKOLATIOKTATÁS.DOC
+
+2. Szakmai alapozó oktatás az egészségügy szakmacsoportra 01. 10_egeszsegugy_sza.doc
+
+3. Szakmai alapozó oktatás a szociális szolgáltatások szakmacsoportra 02. 10_szoc_szolg_sza.doc
+
+4. Szakmai alapozó oktatás a gépészet szakmacsoportra 05. 10_gepeszet_sza.doc
+
+5. Szakmai alapozó oktatás az elektrotechnika–elektronika szakmacsoportra 06. 10_elektro_sza.doc
+
+6. Szakmai alapozó oktatás a vegyipar szakmacsoportra 08. 10_vegyipar_sza.doc
+
+7. Szakmai alapozó oktatás az építészet szakmacsoportra 09. 10_epiteszet_sza.doc
+
+8. Szakmai alapozó oktatás a könnyűipar szakmacsoportra 10. 10_konnyuipar_sza.doc
+
+9. Szakmai alapozó oktatás a faipar szakmacsoportra 11. 10 faipar_sza.doc
+
+10. Szakmai alapozó oktatás a nyomdaipar szakmacsoportra 12. 10_nyomdaipar_sza.doc
+
+11. Szakmai alapozó oktatás a közlekedés szakmacsoportra 13. 10_kozlekedés_sza.doc
+
+12. Szakmai alapozó oktatás a környezetvédelem–vízgazdálkodás szakmacsoportra 14. 10_kornyved_vizgazd_sza.doc
+
+13. Szakmai alapozó oktatás az ügyvitel szakmacsoportra 16. 10_ugyvitel_sza.doc
+
+14. Szakmai alapozó oktatás az informatika szakmacsoportra 07. 10_informatika_sza.doc
+
+15. Szakmai alapozó oktatás a kereskedelem–marketing, üzleti adminisztráció szakmacsoportra 17. 10_ker-marketing_sza.doc
+
+16. Szakmai alapozó oktatás a vendéglátás–idegenforgalom szakmacsoportra 18. 10_ vendeglatas-idegenf_sza.doc
+
+17. Szakmai alapozó oktatás az egyéb szolgáltatások szakmacsoportra 19. 10_egyeb_szolgaltatasok_sza.doc
+
+18. Szakmai alapozó oktatás a mezőgazdaság szakmacsoportra 20. 10_ mezogazdasag_sza.DOC
+
+19. Szakmai alapozó oktatás az élelmiszeripar szakmacsoportra 21. 10_elelmiszeripar_sza.doc
+
+20. Pályaorientáció palyaorientacio.doc
+
+9. A tantárgyak megfeleltetése a NAT műveltségi területeinek
+
+| Műveltségi területek | Tantárgy |
+
+| Anyanyelv és irodalom | Magyar nyelv |
+
+| Irodalom |
+
+| Élő idegen nyelv | Német |
+
+| Angol |
 
 | Matematika | Matematika |
 
-| Ember és társadalom | Történelem és állampolgári ismeretek (hon- és népismeret) Ember és társadalomismeret, etika |
+| Ember és társadalom | Társadalomismeret |
 
-| Ember a természetben | Természetismeret Fizika Biológia és egészségtan Kémia Egészségtan |
+| Történelem és társadalomismeret |
 
-| Földünk – környezetünk | Földrajz |
+| Osztályfőnöki |
 
-| Művészetek | Magyar nyelv és irodalom (dráma) Ének-zene Rajz Mozgóképkultúra és médiaismeret Testnevelés és sport (tánc) |
+| Ember a természetben | Természetismeret és környezeti tanulmányok |
+
+| Osztályfőnöki |
+
+| Földünk és környezetünk | Természetismeret és környezeti tanulmányok |
+
+| Művészetek | Ének-zene |
+
+| Magyar irodalom |
+
+| Vizuális kommunikáció |
+
+| Informatika |
 
 | Informatika | Informatika |
 
-| Életvitel és gyakorlati ismeretek | Technika és életvitel |
+| Vizuális kommunikáció |
 
-| Testnevelés és sport | Testnevelés és sport (tánc) |
+| Magyar irodalom |
 
-MAGYAR NYELV ÉS IRODALOM
+| Informatika |
 
-5–8. évfolyam
+| Gyakorlati oktatás |
 
-Célok és feladatok
+| Szakmai alapozó oktatás |
 
-Az anyanyelvi és irodalmi nevelés megérteni, beszélni, írni, gondolkodni tanít, ezzel valamennyi tárgy tanulását segíti. Egyik alapvető célja és feladata a jövendő tanulmányokhoz szükséges és a felnőtt életben használandó olvasni és írni tudás (szövegértés, szövegalkotás) gondozása és továbbfejlesztése. Emellett a diákok az iskoláztatás e négy évében igen nagy lépést tesznek/tehetnek a szociális érésben, önmagukra eszmélésben, kortársaik megismerésében, környezetük összefüggéseinek megértésében. E szakasz alapozza meg viszonyukat a nemzeti kultúrához, melyen keresztül átélhetik a magyar nyelv és a magyar kultúra elválaszthatatlanságát. Ebben az összefüggésben az irodalmi nevelésnek kitüntetett célja az olvasási kedv felkeltése. Ehhez kapcsolódik, hogy tudatosítania kell az irodalom fontosságát, szerepét a tartalmas emberi élet kialakításában, ki kell jelölnie a helyét a mindennapi életben a sokféle egyéb, részben társművészeti (pl. a film), részben szórakoztató-ismeretterjesztő, tömegkommunikációs médium között. Egyben meg kell alapoznia azokat a képességeket, amelyek lehetővé teszik az irodalmi alkotások élményszerű, tudatos befogadását.
+| Életvitel és gyakorlati ismeretek | Természetismeret és környezeti tanulmányok |
 
-A tanítás a szellemi, érzelmi érésnek ebben a korszakában a beszélgetések és olvasmányok révén tartalmakkal tölti föl a diákok érzelmi kapcsolatok iránti igényét, átélhetik a szolidaritás, az együttműködés érzését és élményét is. A nyelv- és irodalomtanítás tehát bátorító, önbizalmat növelő, ezzel is az önismeretet elősegítő nevelés; a játékosság, az alkotóképesség fejlesztő támogatása, az életkorra jellemző érdeklődés, kíváncsiság kielégítése és irányítása az olvasás, az önművelés felé – mind ezt szolgálja. Sok lehetőséget nyújtanak tantárgyaink a kritikus gondolkodás fejlesztésére: problémamegoldó és a fogalmi gondolkodásra, a térben és időben való tájékozódásra, az ellentétek, a párhuzamok, az ok-okozati viszonyok feltárására.
+| Pályaorientáció |
 
-A magyar nyelv és irodalom tanítása az 5–8. évfolyamban egységes kerettantervi anyagra – a belépő tevékenységformákban és a témakörökben – egymásra épül. De a két szakasz több vonatkozásban el is tér egymástól.
+| Testnevelés és sport | Testnevelés és sport |
 
-Az 5–6. évfolyam folytatja és továbbfejleszti a korábbi iskolafokon kialakult szóbeli és írásbeli képességeket: a beszédértést, a szóbeli önkifejezést, a szóbeli és az írásos szövegműfajok megértését, az írást, a sokirányú kreativitást. Az 5–6. évfolyam irodalmi és nem irodalmi szövegek feldolgozásával bevezeti a gyermeket az anyanyelv életének, a magyar nyelv használatának megértését elősegítő rendszerébe olyan módon is, hogy megismerteti a magyar irodalom néhány összetettebb emberi kapcsolatok megjelenítő, nagyobb lélegzetű klasszikus művével. Ezáltal építi tovább a gyermek társas nyelvhasználati, fogalmi gondolkodásbeli, érzelmi, ízlésbeli, erkölcsi műveltségét.
+Megjegyzés: a 8 közismereti kerettantervet, a pályaorientáció, a gyakorlati oktatás és a szakmai alapozó oktatás kerettanterveit (20 db) elektronikus melléklet tartalmazza
 
-A 7–8. évfolyam a legtöbb esetben már a következő iskolafokozat tanulmányaira készít elő. A művelődés szokásai és alapszerkezete ebben az életszakaszban alakulnak ki. Mind a nyelvi, mind az irodalmi nevelés feladata a diákok érzelmi, szociális és intellektuális érésének támogatása: a nyelvhasználati, a grammatikai, a jelentéstani témák és az irodalmi olvasmányok módot adnak erre. A fölkészítésnek elő kell segítenie mind az irodalmi kifejezésformák sajátosságainak befogadását, az irodalmi műveltséghez tartozó tudás elsajátítását, mind a saját régió, a lakóhely kulturális értékeinek megbecsülését, az esztétikai jellemzők fölfedezését a mindennapokban, a tárgyi és az emberi környezetben. Fontos feladat az önálló olvasmányválasztás előkészítése, megalapozása, sokféle irodalmi forma megismertetése a diákokkal, illetve annak tudatosítása, hogy az egyéb médiumok (pl. a televízió, videó stb.) nem feltétlenül jelentenek vetélytársat az olvasásnak, illetve sok tekintetben nem képesek pótolni azt.
+(összesen 28 fájl)
 
-Fejlesztési követelmények
+IV.
 
-A kulturált nyelvi magatartásra való fölkészítés a magyar nyelvi és irodalmi nevelés alapkövetelménye. A kulturált nyelvi magatartás föltételezi a szituációhoz, a címzetthez, a témához való rugalmas alkalmazkodást, a figyelmet a másik ember beszédének gondolati, értelmi tartalmára, az együttműködés képességét a partnerekkel. Fokozatosan bővülő követelmény a szóhasználat a mondatfonetikai eszközök és a nem verbális kifejezőeszközök (testbeszéd) összehangolása. A kommunikációs nevelés célja, hogy a tanulókban kialakuljon a különféle beszédműfajok felfogásának és alkalmazásának, a konfliktusok fölismerésének és megítélésének képessége, az életkorban elvárható kritikus magatartás a manipulációs szándékokkal szemben. Hozzátartozik ehhez a kommunikáció lényegének és tényezőinek megértése, az író, a mű és az olvasó viszonyának mint sajátos kommunikációnak felfogása. A fejlesztés része az életkornak megfelelő tájékozottság a médiumok szerepéről az egyén és a társadalom életében, valamint a leggyakoribb tömegkommunikációs műfajok kifezésmódjának ismerete.
+KERETTANTERV A SZAKISKOLÁK
 
-A szövegértés fejlesztése szóban és olvasott formában az iskolai képzés szintjeinek megfelelően az eredményes tanulás és önképzés föltétele. A kellő mélységű írott szövegértés az alapja az életkornak megfelelő tempójú, minél teljesebb megértést biztosító olvasás. A szövegértéssel szorosan összefügg a nyelvi eszközök és a jelentés kapcsolatának megfigyelése, felfogása, a különféle tartalmú és rendeltetésű, a mindennapi életben és az iskolai tanulmányokban előforduló élőszóbéli és írott szövegek szerkezetének, jelentésrétegeinek fokozódó önállóságú értelmezése. Ehhez elengedhetetlen az aktív és passzív szókincs folyamatos gazdagodása, az alapvető helyesírási szabályok készségszintű alkalmazása.
+SZAKKÉPZÉST ELŐKÉSZÍTŐ ÉVFOLYAMÁRA
 
-A szó- és írásbeli szövegalkotás képességének folyamatos fejlesztése kiemelkedően fontos feladat. Ez magában foglalja a köznyelvi normához alkalmazkodó szabatos kifejezésmód kialakításán kívül a képzelet, az önkifejezés, az egyéni stílus bátorítását. Az elsajátítandó műfajok köre a hétköznapi történetmondástól az olvasónaplóig, az érvelő fogalmazásig, a szóbeli felelettől a kiselőadásig terjed. Mindez többféle képesség együttes meglétét kívánja meg: élőszóban a helyes hangképzést, beszédlégzést, a szöveg- és mondatfonetikai eszközök biztonságos használatát, írásban pedig a tanulási igényeknek megfelelő íráskészséget, rendezett, olvasható írást.
+(9. ÉVFOLYAM)
 
-A tanulási képesség fejlesztése, az ismeretfeldolgozási technikák megtanítása valamennyi tantárgy együttes fel-adata, de jelentős szerepet kell vállalnia ebben a magyar nyelv és irodalom tanításának is. Például olyan szövegfeldolgozó eljárások megismertetésével, mint a lényegkiemlés, tömörítés, szövegkiegészítés, jártasság a verbális és vizuális információ együttes kezelésében. A szellemi munka technikájának elsajátításához szorosan kapcsolódik a könyvtári munka megismertetése, tapasztalatszerzés a segédkönyvek, szak- és ismeretterjesztő irodalom használatában, ismeretek az anyaggyűjtés és -rendezés módszeréről, a forrásfeldolgozás és az idézés etikai és formai követelményeiről. A könyvtári gyakorlatnak ki kell terjednie a modern technológián alapuló információhordozókra is. A tanulási képesség fejlesztésének fontos állomása a mindennapi élethez, irodalmi vagy egyéb tanulmányokhoz kapcsolódó témák önálló feldolgozása, illetve az ezek módszerébe való fokozatos bevezetés is.
+A szakképzést előkészítő évfolyam pedagógiai rendszere
 
-A magyar nyelv életének és rendszerének ismerete és ennek révén a tudatos nyelvszemlélet fokozatos kialakítása kiemelkedő feladata az anyanyelvi nevelésnek. Ebben a képzési szakaszban meghatározó a leíró nyelvtani ismeretek megszilárdítása, kezdetben a fölismerés és megnevezés, majd a fogalmi meghatározás szintjén, valamint a nyelv rendszerére vonatkozó tudás önálló, biztonságos alkalmazásának fejlesztése mind az írásbeli, mind a szóbeli megnyilatkozásokban. A jól elsajátított leíró nyelvtani ismeretek adják a nyelvhelyességi kérdésekben való tudatos döntésnek és a helyesírási biztonságnak az alapját. Az irodalmi művek feldolgozásában feladat annak megláttatása, hogy a mű jelentése, hatása, szépsége és a nyelvi kifejezésmód szoros kapcsolatban áll egymással. A grammatikai, jelentéstani ismeretek nemcsak az egyéni nyelvhasználat igényesebbé tételét, az irodalmi művek jobb megértését szolgálják, hanem segítik az idegen nyelvek tanulását is. Az eredményes nyelvi ismeretnyújtásnak együtt kell járnia a nyelvszemlélet gazdagodásával: a magyar nyelv sajátosságainak, szépségének fölismerésével, értékeinek megőrzésére vállalt felelősséggel.
+A szakképzést előkészítő évfolyam pedagógiai rendszerének elemei
 
-Az irodalomoktatás legfőbb célja az olvasóvá nevelés. Ennek feltétele, hogy az irodalmi olvasmányok élményt, örömet, szórakozást nyújtsanak ahhoz a fölismeréshez, hogy az irodalomolvasás érzelmi, gondolati, erkölcsi, esztétikai élmények forrása. Az irodalomértés alapvető feltétele a szövegelemző eljárásokban való tájékozottságon kívül annak belátása is, hogy az irodalmi jelentés a szövegből, illetve a mű és az olvasó érzelmi, gondolati kapcsolatából bontható ki. Az olvasott művekben megjelenített élethelyzetek, érzelmek, emberi kapcsolatok alkalmasak arra, hogy fogékonnyá tegyék a 10–14 éves diákokat érzelmeik és élettapasztalataik gazdagítására, erkölcsi ítéletalkotásra, lehetőséget adjanak a véleményalkotásra és -nyilvánításra. Az irodalomolvasás motivációját megerősítheti a diákok aktuális életproblémáival rokon kérdéseket tárgyaló művek közös értelmezése, megvitatása.
+(1) A szakképzést előkészítő évfolyam pedagógiai koncepciója
 
-Az irodalmi műveltség része a klasszikus és kortárs magyar irodalom különféle epikai, lírai, drámai műveinek változatos feladathelyzetekben való feldolgozása, esztétikai jellemzőik tudatosítása; az olvasott művek alapján néhány alapvető irodalmi téma, motívum fölismerése különféle műfajokban, más művészeti ágakban. Az irodalmi művek jobb megértésének és a kommunikációs képességek fejlődésének fontos terepe a drámajáték, a dramatizálás, színdarabok előadása. Az irodalmi műveltség magában foglalja az ítéletalkotás képességét a népszerű irodalom szerepéről, értékéről, sajátos eszközeiről is. Az irodalmi nevelés célja, hogy fölkeltse a tanulókban az önálló olvasmányválasztás igényét, a tárgyalt művekről önálló véleményalkotásra buzdítsa őket és a művekkel kapcsolatos érzelmeik, gondolatai olyan megfogalmazására, amely a személyes élmény kifejezésének és az elméleti ismeretek felhasználásának képességét egyaránt bizonyítja.
+(2) Tanterv
 
-5. évfolyam
+(3) Modulok, moduláris projekt alapú tanulási útmutatók
 
-Évi óraszám: 148
+(4) A szakképzést előkészítő évfolyam eszközigénye
 
-Belépő tevékenységformák
+(5) A szakképzést előkészítő évfolyam értékelési eszközei
 
-1. Beszédkészség, szóbeli szövegek alkotása és megértése; kulturált nyelvi magatartás
+(6) Pedagógusok felkészítése a szakképzést előkészítő évfolyam pedagógiai rendszerének alkalmazására
 
-A mindennapi érintkezés kommunikációs helyzeteinek, szereplőinek, tényezőinek és szóhasználatának megfigyelése, néhány szempont szerinti értékelése – a korábban elsajátított ismeretek felidézésével.A hangzás és a testbeszéd jeleinek megfigyelése a beszédtársak megnyilatkozásaiban és a képi, mozgóképi megjelenítésben.
+(7) Támogató elemek
 
-Szituációs játékok az udvarias nyelvi viselkedés formáinak gyakorlására.Helyzetgyakorlatok: a helyes beszédlégzés és hangképzés, hangsúlyozás, tempó és szünettartás. A szavak, a mondatfonetikai eszközök és a nem verbális kifejezőeszközök (testbeszéd) összehangolása a beszédhelyzetnek megfelelően.Történetmondás mindennapi személyes élményről, olvasmányról (különböző elbeszélő szerepében, mesei és valóságos helyzetekről, önállóan vagy megadott témák, motívumok alapján).
+(1) A szakképzést előkészítő évfolyam pedagógiai koncepciója
 
-2. Olvasás, írott szöveg megértése
+Bevezetés
 
-Gyakorlatok az életkorban elvárható tempójú, folyamatos hangos és néma olvasás fejlesztésére, különböző témájú művek fölkészülés utáni értelmes felolvasása.Memoriterek kifejező előadása.A szöveg megértésének bizonyítása a mondatfonetikai eszközök helyes használatával.A nyelvi eszközök és a jelentés összefüggéseinek keresése, a jelentésváltozások azonosítása, a szó szerinti és az átvitt jelentés megkülönböztetése szépirodalmi és más olvasmányokban.Az előismeretet feltáró szövegszintű és a szójelentésre épülő szövegelemző eljárások irányított és önálló alkalmazása irodalmi és ismeretterjesztő szövegek jelentésének feltárásában.A leírás, a jellemzés különféle kifejezőeszközeinek megfigyelése szépirodalmi és nem irodalmi művekben.
+A szakképzést előkészítő évfolyamon szakképzést előkészítő, kompetencia alapú oktatás folyik. Ennek keretében alapkészségek fejlesztése, szocializáció, pályaorientáció és szakmai alapozás történik.
 
-Feladatok a szöveg tagolására, a lényeg kiemelésére, a szöveg tömörítésére.A kreativitás fejlesztése válogató olvasással, előremondással (jóslással), megbeszéléssel, átalakítással, kiegészítéssel.A közlésmód sajátosságainak, szerepének megfigyelése az olvasott művekben, például szerkezet, képiség, ritmika, az ismétlődés különféle formái, a túlzás.
+A pedagógiai koncepció sajátossága, hogy speciális szempontként a kompetencia alapú fejlesztést, s ezen belül is a szakképzés megkezdéséhez szükséges bemeneti kompetenciák megszerzését teszi lehetővé. A tanulási utak sajátos, komplex támogatását tűzi ki feladatként, s ezzel túllép az oktatás-nevelés-képzés hagyományos megoldásain és az egyéni különbségek figyelembevételére is hangsúlyt helyez.
 
-3. Szövegalkotás írásban (íráskép, helyesírás)
+A pedagógiai rendszer nem tantárgyi rendszerben dolgozik, hanem modulárisban, ezért nem vethető össze a NAT által ajánlott óraszámokkal. Nem tartalmaz hagyományos értelemben vett részletezett tanítási-nevelési tartalmakat, eszközöket, választandó tantervet, tankönyvet stb., nem határoz meg konkrétan alkalmazandó programokat, az ajánlott programokat a moduláris projekt alapú tanulási útmutatók komplexen írják le.
 
-Az írástechnika továbbfejlesztése másolás, tollbamondás, emlékezet utáni írással.Irodalmi és ismeretterjesztő olvasmányélményekre, szótári vizsgálódásokra épülő szógyűjtés (szavak, szószerkezetek, szólások).Kreatív játékos szókincsgyakorlatok a szóképzés lehetőségeinek felhasználásával, a szóhangulat figyelembevételével.Leíró fogalmazás előkészítése: megfigyelés, azonosságok, különbségek összevetése, lényeges és lényegtelen vonások elkülönítése.Tájleírás készítése valóságos vagy elképzelt tájról, lakókörnyezetről különféle szerkezeti megoldásokkal (egész – rész, közel – távol, részletező – egybenlátó).Rövid fogalmazás mindennapi személyes élményről, olvasmányról (különböző elbeszélő szerepében, mesei és valóságos helyzetekről, önállóan vagy megadott témák, motívumok alapján).
+A differenciálás nem azonosítható a felzárkóztatással és a tehetségneveléssel, a differenciálás tehát nem a tanulmányi eredményesség szintjeihez igazodik. A differenciálás mindenki számára a saját komplex személyiségstruktúrájának leginkább megfelelő, számára optimális fejlesztés biztosítását jelenti, figyelembe véve előzetes tudását, annak gyengébb és erősebb területeit, a tanuló igényeit, törekvéseit, érdeklődését, személyiségének rá jellemző vonásait, speciális erősségeit és gyengeségeit. A nevelés, az oktatás igazodik a fiatalhoz, s ez azt is jelenti, hogy igazodik ahhoz a közeghez, amelynek a tanuló részese.
 
-4. A tanulási képesség fejlesztése
+Kiindulópontja, hogy a szakképzést előkészítő évfolyam tanulóinak az egyes szakmacsoportokra kidolgozott bemeneti kompetenciák elsajátításával fel lehet készülniük a szakképzés sikeres megkezdésére.
 
-Eligazodás a gyermekeknek szóló ismeretterjesztő irodalomban, az olvasott művek, műrészletek rövid szóbeli ismertetése, ajánlása.Vázlatkészítés tanári irányítással és önállóan.Vázlat felhasználása különböző műfajú, témájú szövegek megértéséhez, ill. megfogalmazásához.Könyvtárhasználat: a könyvek tartalmának megállapítása, ismertetése tartalomjegyzék, bevezető fülszöveg alapján, ill. átlapozással.Önálló ismeretszerzés könyvtári munkával: könyvek, vizuális, audiovizuális, elektronikus segédletek (Internet, CD-ROM stb.) keresése bármely tantárgyi témához egyénileg vagy társakkal együttműködve.Segédkönyvek, a korosztálynak készült szótárak, lexikonok, vizuális, audiovizuális, elektronikus segédletek (Internet, CD-ROM stb.) használata ismeretlen kifejezések magyarázatára, személyekhez, témákhoz kapcsolódó adatok gyűjtése a tanult anyag bővítésére.Források azonosítása (szerző, cím, kiadó, a kiadás helye, éve), rövid följegyzés készítése a felhasznált könyvekről, vizuális, audiovizuális, elektronikus segédletekről.
+A szakmacsoportokra kidolgozott bemeneti kompetenciatáblák tehát szerves részét képezik a pedagógiai rendszernek, úgyis, mint amelyek igazodnak a szakképző évfolyamok követelményeihez, a szakmacsoportokban szereplő szakmák kimeneti követelményeihez, valamint a munkaerőpiac gazdasági szereplőinek elvárásaihoz, a gyakorlatorientált szakképzés szellemében.
 
-5. A magyar nyelv életének, rendszerének ismerete; ismeretek az anyanyelvről
+Ha az előkészítő évfolyamot indító intézmények ezt a célt elérik, a program képes lesz teljesíteni küldetését és jelentős mértékben járulhat hozzá a legképzetlenebb fiatalok társadalmi mobilitásához.
 
-A korábban tanult nyelvtani (hangtani, alaktani) és helyesírási ismeretek rendszerezése, az ismeretek biztonságos alkalmazása különféle feladatokban.A hangképzési sajátságok megfigyelése.Ritmusjelenségek megfigyelése a mindennapi beszédben, művészi szövegmondásban.Játékos ritmusgyakorlatok szóban és írásban.Hangutánzó, hangulatfestő, azonos és hasonló alakú szavak gyűjtése, jelentésének értelmezése, megkülönböztetése egynyelvű szótárak, diákoknak szánt kézikönyvek használatával; fogalmazási gyakorlatok a gyűjtött anyaggal.Vizsgálódás a szóképzés és a jelentés viszonyáról, a rokon és ellentétes értelmű szavak kapcsolatáról.A szójelentés értelmezése különféle célú és műfajú irodalmi és nem irodalmi (gyakorlati, tantárgyi-szakmai) szövegekben.Gyakorlatok a szókincs különféle rétegeiből származó szavak (például társalgási, diáknyelvi szavak, szakszavak) jelentésének, használati körének megkülönböztetésére és helyes használatukra különféle beszédhelyzetekben.
+Pedagógiai alapelvek
 
-6. Ismeretek az irodalomról; az irodalom és az olvasó kapcsolata
+A célok elérését az iskola, mint partnerközpontú szervezet működésének minden folyamatában a nevelés előtérbe helyezésével segíti. Alapvető fontosságú, hogy a szakmatanuláshoz szükséges bemeneti kompetenciák kialakításának folyamata a személyre szóló fejlesztés módszereivel, eljárásaival, az egyéni különbségekre alapozott nevelés kialakításával valósul meg a heterogén tanulócsoportokban.
 
-Szövegelemző gyakorlatok: a művekben megjelenített élethelyzetek, érzelmek, a gyermek érdeklődésére számot tartható alapvető irodalmi témák részletesebb megbeszélése.Különféle műfajú, változatos ritmikájú alkotások értelmezése, irodalmi szövegek kreatív, játékos feldolgozása, ritmika gyakorlatok. Néhány alapvető lírai műfaj megnevezése.
+Alapelvünk a személyközpontúság: a fiatal szükségleteire támaszkodva tervezzük az oktatást-nevelést.
 
-Nagyobb szerkezeti egységek elkülönítése lírai alkotásokban. A versszakok belső tartalmi-gondolati összefüggéseinek bemutatása.Drámajátékok: szövegmondás mozgással összekötve; szereplők kapcsolatának (egymásra hatásának, együttműködésének, ellentéteinek stb.) megfigyelése, eljátszása.Az olvasott művek alapján néhány alapvető irodalmi téma, motívum fölismerése epikai, lírai művekben, népköltészeti és műköltészeti alkotásokban.
+A nevelés folyamatában különböző szükségletekre támaszkodunk.
 
-7. Az ítélőképesség, az erkölcsi, esztétikai és történeti érzék fejlesztése
+Intellektuális szükségletek:
 
-Erkölcsi választások indoklása, beszélgetés érzelmekről: szeretet, együttérzés, segítőkészség, félelem, bizalom, hála stb.
+▪ intellektuális aktivitás szükséglete,
 
-Egyes szereplők eltérő álláspontjának, érzelmi motivációinak elkülönítése mindennapi élethelyzetekben és irodalmi alkotásokban.
+▪ új információk és ismeretek iránti szükségletek (érdeklődés, kíváncsiság),
 
-Saját nézőpont, értékítélet kialakítása egyes szituációkban és / vagy irodalmi példákon keresztül. A saját álláspont egyediségének tudatosítása, a személyes indokok, az egyéni nézőpont meglétének feltárása többféle állás- vagy nézőpont szembesítésével.
+▪ a konstruálás, a gyakorlati tevékenység szükséglete.
 
-A szavak alapjelentésének, hangulatának, stílusértékének fölismerése szépirodalmi és egyéb művekben.
+Szocializációs szükségletek:
 
-| Témakörök | Tartalmak |
+▪ személyiségfejlesztés,
 
-| Eligazodás a mindennapi élethelyzetekben | Alapismeretek a kommunikáció tényezőiről. A hangsúlyozás, dallam, tempó és szünettartás szerepe a beszédben. A nem nyelvi kifejezőeszközök (testbeszéd) fő formái, szerepük a kommunikációban és kapcsolatuk a nyelvi kifejezőeszközökkel. Mindennapi beszédhelyzeteink: kapcsolatfelvétel, véleménynyilvánítás: kérdés, kérés, beszélgetés. Az elemi udvariassági formák ismerete és használata. |
+▪ teammunka,
 
-| Népdalok, mesék | Két-három népdal; mesék a klasszikus és a mai magyar irodalomból és a világirodalomból. A nép- és műmesék jellemzői motívumai, fordulatai, hőstípusai. |
+▪ kommunikációs szükségletek.
 
-| Petőfi Sándor: János vitéz | Mese és valóság az elbeszélésben. A szerkezet és a megjelenítés eszközei, a hős, a kaland, az erkölcsi választások. Az ütemhangsúlyos verselés. |
+Esztétikai szükségletek:
 
-| Természet, táj, szülőföld; család, szülők, gyerekek | Mitológiai és bibliai történetek. Petőfi Sándor: Az Alföld és még két vers; Arany János Családi kör című verse, valamint más, a témához kapcsolódó – különböző korokból származó – változatos hangulatú és formanyelvű szépirodalmi és egyéb szövegek. A régió, a lakóhely irodalmi emlékei. |
+▪ esztétikai szemlélődés,
 
-| Élethelyzetek, emberi kapcsolatok elbeszélő művekben | Molnár Ferenc: A Pál utcai fiúk (vagy a regény egy jellemző részlete), valamint más kapcsolódó szépirodalmi művek és egyéb (pl. publicisztikai) művek. A barátság, ellentét, felelősség, közösség élethelyzeteinek, konfliktusainak ábrázolása az irodalomban. A hosszabb prózai elbeszélés jellemzői: szerkezet, szereplők, helyszínek, a szereplők közti kapcsolatok. |
+▪ élménybefogadás, esztétikai alkotás igénye,
 
-| A beszélt nyelv | A beszédhangok, a hangképzési folyamat, a magán- és a mássalhangzótörvények. A szótag és az elválasztás. A mondatfonetikai eszközök (hangsúly, dallam, szünet, tempó) szerepe a beszédben, alkalmazásuk és megértésük a mindennapi kommunikációban, a történetmesélésben. Cselekményismertetés, beszámoló, tömörítés, szövegkiegészítés szóban. |
+▪ esztétikai jelenségek reprodukálásának igénye.
 
-| Az írott nyelv | Az élőszó és az írott szöveg azonos és eltérő jellemzői (szövegszerkesztés, nyelvi forma, szövegtagolás) néhány gyakori műfajban: elbeszélés, leírás, jellemzés. A felelet és az írásos beszámoló. A mássalhangzótörvények helyesírási kérdései: hasonulás, összeolvadás, rövidülés. A szóelemző írásmód. |
+Egészséges életmód iránti szükségletek:
 
-| A szavak jelentése és szerkezete | A hangalak és a jelentés viszonya: egy- és többjelentésű szavak, rokon és ellentétes jelentésű, azonos alakú és hasonló alakú szavak. Szólások, szóláshasonlatok, közmondások. |
+▪ rendszeres testmozgás, testedzés szükséglete,
 
-| Könyv- és könyvtárhasználat | Tájékozódás a különféle dokumentumtípusokban: könyvek (ismeretközlő és szépirodalmi szöveg), segédkönyvek (szótár, lexikon, enciklopédia). |
+▪ egészséges életritmus, szenvedélybetegségek megelőzésének, higiéniai szabályok betartásának szükséglete.
 
-Memoriter
+A személyközpontú pedagógiai megközelítés során pedagógiai folyamatok beépítése javasolt a pedagógiai programba: az előző tanulói életút felderítése; belépő állapotmérés; nyomon követés; egyéni haladási ütemet biztosító tanulási programok; komplex együttműködési modell; komplex személyiségfejlődést biztosító szabadidős tanórán kívüli tevékenységek.
 
-Tizenöt-húsz versszak a János vitéz című műből, hat-nyolc vers a tanultak közül, öt-tíz soros prózarészlet, néhány találós kérdés, közmondás.
+A kompetenciák fejlesztését a képzés keretében beillesztjük gyakorlati tevékenységekbe, így ezek fejlesztése pedagógiailag tervszerűen megkonstruált projektek elvégeztetése útján történik. Tevékenységközpontúságra építünk, mert passzív tevékenység keretében a kompetenciák lassabban fejlődnek. A kompetenciafejlesztési célú tananyag és a projektoktatás gyakorlatorientált fejlesztést tesz lehetővé.
 
-Fogalmak
+A tanulási kudarcok csökkentését, a további tanulói életút sikerességét az egyéni haladási ütemet lehetővé tevő differenciált oktatásszervezés, a projektoktatás, a kooperatív tanítási-tanulási technikák alkalmazása biztosítja a leghatékonyabb módon. A projektoktatás, mint különböző elméleti és gyakorlati tudáselemek szintézisét nyújtó cselekedtető oktatási módszer, a tanulói produktum létrehozásával a legfontosabb motiváló erőt adja a tanulási kudarcokkal küzdő fiataloknak: sikerélményt a tanulás folyamatában.
 
-Kommunikáció, nyelvtan, nyelvhasználat: kommunikáció tényezői, beszédhelyzet, nem nyelvi kifejezőeszközök: arcjáték, gesztus, testhelyzet, távolságtartás; a beszéd hangzása; hangsúly, dallam, tempó, szünet; magán- és mássalhangzó-törvények: hangrend, illeszkedés, hasonulás, összeolvadás, rövidülés; zöngés és zöngétlen mássalhangzó; szójelentés, szóhangulat, egyjelentésű, többjelentésű szó, rokon- és ellentétes értelmű szó, hangutánzó, hangulatfestő szó; szólás, szóláshasonlat; szó, szóelem.
+A projektmódszer olyan oktatásszervezési eljárás, mely az oktatást/képzést gyakorlati problémák megoldása köré csoportosítja. A tanulók aktivitására, érdeklődésére, kreativitására épül.
 
-Szövegértés, szövegalkotás, irodalom: népdal, elbeszélő költemény, tájleíró vers, elbeszélés, regény; epikai művek szerkezete: kiindulási pont, bonyodalom, tetőpont, megoldás; cselekmény, helyszín; ritmus, ismétlés, fokozás, ellentét, fokozás; hasonlat, megszemélyesítés, metafora; ütemhangsúlyos verselés, ütem, felező tizenkettes.
+A kooperatív tanítási-tanulási technikák alkalmazása fejleszti az együttműködési kompetenciákat is, folyamatos motivációt jelent az aktivizálással és azonos tartalmak különböző szinten történő elsajátítását is biztosítja.
 
-(A felismerés és a megnevezés szintjén.)
+A rendszerelvű képzés moduláris oktatásszervezéssel valósul meg. A tananyag moduláris felépítése rugalmas programszerkezet kiépítésére ösztönzi a szakiskolákat, képzési profiljaiknak megfelelően és a tanulók számára is biztosítja az egyéni érdeklődésnek, igényeknek, törekvéseknek a lehetőségek szerinti kibontakoztatását.
 
-Szerzők és művek
+Ajánlások a pedagógiai alapelvek gyakorlati megvalósításához
 
-Arany János: Családi kör; Molnár Ferenc: A Pál utcai fiúk; Petőfi Sándor: János vitéz, Az alföld; és még két verse; két-három népdal; állatmesék, tündér- és varázsmesék, tréfás mesék; mitológiai és bibliai történetek; egy ifjúsági regény a magyar vagy a világirodalomból.
+„A differenciálás mindenki számára a saját komplex személyiségstruktúrájának leginkább megfelelő, számára optimális fejlesztés biztosítását jelenti, figyelembe véve előzetes tudását, annak gyengébb és erősebb területeit, a tanuló igényeit, törekvéseit, érdeklődését, személyiségének rá jellemző vonásait, speciális erősségeit és gyengeségeit. A nevelés és az oktatás igazodik a gyermekhez, s ez azt is jelenti, hogy igazodik ahhoz a közeghez, amelynek a gyermek részese.” (Idézet „A hátrányos helyzetű tanulók integrációs és képességkibontakoztató felkészítésének pedagógiai rendszere” című anyagból, Oktatási Közlöny XLVII. Évfolyam 20. sz. (2003. augusztus 6.)
 
-A továbbhaladás feltételei
+Az előző tanulói életút felderítésének lépései: kérdőív az előző általános iskola vagy középfokú intézmény osztályfőnökéhez a tanuló eddigi fejlődésének folyamatáról; családlátogatás az osztályfőnök és a szociálpedagógus közreműködésével; környezettanulmány kérése a családgondozótól vagy gyermekjóléti szolgálat szakemberétől. Félévkor és tanév végén visszajelzés az előző iskolának a tanuló fejlődéséről. Szükség esetén problémamegoldó esetmegbeszélésen részt vehet az előző osztályfőnök is.
 
-A kapcsolatfelvétel, megszólítás, köszönés, kérdés illemszabályainak ismerete és helyes alkalmazásuk. A hangsúly, dallam, tempó, szünet és a nem nyelvi kifejezőeszközök (testbeszéd) összehangolt használata egyszerűbb kommunikációs helyzetekben, a kommunikációs helyzetnek megfelelően. Az élőbeszéd tempóját megközelítő, folyamatos hangos és néma olvasás. Képesség a másolás, tollbamondás és emlékezet utáni írásra, önálló írásbeli feladatok megoldására. Az olvasott művekben néhány alapvető irodalmi téma fölismerése. Személyes és olvasmányélmény egyszerű megfogalmazása, elsősorban szóban. Történetmondás mindennapi személyes élményről, olvasmányról szóban és rövid fogalmazásban. Leírás készítése tárgyról, személyről, tájról, szóban vagy írásban. A hang, a szó és a szóelem megkülönböztetése. Az igealak szóelemeinek fölismerése. Alapismeretek a hangok képzéséről, tulajdonságairól. Rokon és ellentétes jelentésű szavak, hangutánzó szavak, valamint szólások, közmondások jelentésének értelmezése egynyelvű szótárak, diákoknak szánt kézikönyvek használatával. A gyakran használt és az olvasott művekben előforduló szavak jelentésének értelmezése. Képesség a szókincs különböző rétegeiből származó szavak elkülönítésére nyilvánvaló esetekben, egyszerű köznapi vagy irodalmi szövegekben. Jártasság a korosztály számára készült szótárak használatában. Tájékozódás a könyvtárban és a vizuális, audiovizuális, elektronikus segédletek (Internet, CD-ROM stb.) körében.
+Belépő állapotmérés elemei: diagnosztikus mérések az alapkompetenciák területén, megfigyelés a kulcskompetenciák területén, pszichés és szociális állapot feltérképezése – a kiinduló helyzet rögzítése. Szükség esetén szakértői vélemény kérése (feltételezett sajátos nevelési igényű tanuló esetében). Egyéni fejlesztési terv összeállítása.
 
-6. évfolyam
+Nyomon követés: A tanuló jelen iskolai fejlődését folyamatosan figyelemmel követni az egyéni fejlesztési terv alapján. Ezt az osztályfőnök vezeti. Az osztályfőnök folyamatos, napi kapcsolatban van a tanulóval, segíti a céljai megvalósításában, s ezzel motiválja. Az osztályfőnök együttműködik a fejlesztő munkacsoport tagjaival. A fejlődés legfontosabb dokumentumait a tanulói dosszié (portfolió) tartalmazza: diagnosztikus mérések, kérdőívek, interjúk, tanulói produktumok dokumentumai, kontrollfeljegyzések, szöveges értékelések, modulok elvégzésének dokumentumai – ezek alapján kell összegzően értékelni a tanuló fejlődését a szakképzést előkészítő évfolyam követelményeihez viszonyítva.
 
-Évi óraszám: 148
+A pályaorientációs szakasz végén a szakmacsoport választást tanácsadással támogatjuk a portfolió alapján.
 
-Belépő tevékenységformák
+Az útmutató lehetőséget ad arra, hogy a tanuló egyéni haladási ütemben sajátítsa el a kompetenciákat, bármikor személyre szabottan bővíthető az Információs lap, az önellenőrzési feladat és az önellenőrzési feladat megoldókulcs.
 
-1. Beszédkészség, szóbeli szövegek alkotása és megértése; kulturált nyelvi magatartás
+Komplex együttműködési modell: együttműködési formák a pedagógusok között (team) és a külső partnerekkel: tervkészítő – folyamatelemző / problémamegoldó – értékelő esetmegbeszélések, hospitálás. Résztvevők a team tagjai: pedagógus, fejlesztő pedagógus, szociálpedagógus, pszichológus, osztályfőnök. Külső partnerek: a tanulókkal és családjukkal kapcsolatba kerülő családgondozók, gyermekjóléti szolgálat szakemberei, az önkormányzatok szociális munkatársai/szociális munkások, civil segítő szervezetek, kisebbségi önkormányzatok stb. – velük a szociálpedagógus tart kapcsolatot.
 
-Gyakorlatok a nyelvi és nem nyelvi kifejezőeszközök helyes alkalmazására és értelmezésére páros és kisközösségi helyzetekben.Változatos gyakorlatok a beszédkultúra fejlesztésére: együttműködés a társakkal beszélgetésben, vitában, feladatmegoldásban.Saját álláspont előadása, megvédése a témának, a kommunikációs helyzetnek megfelelő kifejezésmóddal.
+A differenciált oktatásszervezés hatékonyságát növeli az alacsony létszámú tanulócsoport (Kt. 3. számú melléklet II. „Az osztályok, csoportok szervezése” című rész 3. pontja szerint: „Két tanulóként kell számításba venni a felzárkóztató oktatásban [27. § (8) bekezdés] résztvevő tanulót.”. Ez átlag 12 fős, maximum 15 fős heterogén összetételű tanulócsoportot jelent.
 
-Más álláspontok összefoglalása, értékelése többszereplős kommunikációs helyzetekben.Kérdések és válaszok megfogalmazása különböző helyzetekben.
+Szintén a differenciált tanulásszervezést a nem kötelező tanórai foglalkozások időkeretének felhasználása, amelyhez szabadon választható modulokat tartalmaz a pedagógiai rendszer.
 
-Szövegalkotási feladatok szóban: jellemzés készítése csoportmunkával és önállóan családtagokról, ismerősökről, irodalmi hősökről. Külső és belső tulajdonságaik, kapcsolataik, cselekedeteik, indítékaik megfigyelése alapján értékelő vélemény megfogalmazása.
+Moduláris felépítésű rugalmas programszerkezet
 
-2. Olvasás, írott szöveg megértése
+A modularizált tananyagtartalmak lényege a választhatóság és a beszámíthatóság az egy vagy több szakmacsoportba tartozó szakmai képzések körében, az egyéni haladási ütem biztosítása mellett.
 
-Folyamatos hangos és néma olvasási képesség és szövegértés bizonyítása kérdésekre adandó válasszal, rövid szóbeli beszámolóval, különböző témájú és műfajú művek értelmes felolvasásával, memoriterek kifejező előadásával.A műfaji eltérések megfigyelése, a stiláris különbségek megállapítása (például mese és dokumentum, lírai költemény és epikai alkotás, monda és ballada), a tanult műfaji jellemzők megnevezése.
+A rugalmas programszerkezet azt jelenti, hogy a tanuló a képzés során bármikor bekapcsolódhat, mert biztosított az egyéni haladás és kiléphet akkor, ha nem kívánja folytatni vagy teljesítette a modularizált képzési követelményeket
 
-Feladatok a szövegelemzés bővítésére: a téma önálló megállapítása, adatkeresés, kérdésekre adandó válaszként részletek kiemelése, időrend, ok-okozati összefüggés fölismerése.
+(2) Tanterv
 
-Az irodalmi szövegben megjelenő egyszerűbb képek, alakzatok felismerése, értelmezésük gyakorlása (pl. hasonlat, metafora; ismétlés, fokozás).
+A szakképzést előkészítő évfolyam megszervezésénél figyelembe veendő jogszabályok
 
-3. Szövegalkotás írásban (íráskép, helyesírás)
+▪ a közoktatásról szóló 1993. évi LXXIX. törvény,
 
-Gyakorlatok az írásmód tempójának és rendezettségének, a helyesírás biztonságának továbbfejlesztésére.Képzett igék, főnevek, melléknevek gyűjtése – különös tekintettel a szinonimitásra, a szóhangulatra, a köznyelvi, a diáknyelvi és a szakszavak használatbeli eltéréseire; a gyűjtött anyag felhasználása megadott témák kidolgozásában és kreatív, játékos feladatokban.
+▪ a szakképzésről szóló 1993. évi LXXVI. törvény,
 
-Szövegalkotási gyakorlatok írásban: elbeszélés adott téma, szempont alapján és terjedelemben (pl. tetőpontos, időrendi szerkezetben); leírás készítése megfigyelt tárgyakról, jelenségekről; jellemzés készítése csoportmunkával és önállóan családtagokról, ismerősökről, irodalmi hősökről.Mindennapi élmények, olvasmánytartalmak összefüggő leírása időrendben, logikai rendben, más hangnemben, más nézőpontból többféle hallgatósághoz igazodva.Külső és belső tulajdonságaik, kapcsolataik, cselekedeteik, indítékaik megfigyelése alapján értékelő vélemény megfogalmazása.Kreatív írás „mi lenne, ha” szerkezetben.Szövegelemzési, -átalakítási gyakorlatok a mű szövegére és hatására irányuló figyelem fejlesztésére: képzettársítások, érzelmi tapasztalatok előhívása, a képzelet mozgósítása.
+▪ a Nemzeti alaptanterv kiadásáról szóló 130/1995. (X. 26.) Korm. rendelet,
 
-4. A tanulási képesség fejlesztése
+▪ a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 243/2003. (XII. 17.) Korm. rendelet (2004. szeptember 1-jétől felmenő rendszerben),
 
-A szövegértési feladatok kiterjesztése a vizuális információkra (illusztrációk, tipográfiai eszközök, szövegtagolás), értelmezésük, szerepük megvilágítása a szöveg jelentésének gazdagításában, próbálkozás a szöveg és a vizuális lehetőségek együttes felhasználására saját fogalmazásaikban.Önálló vizsgálódás a könyvtárban: a korosztálynak szánt sajtótermékek, vizuális, audiovizuális, elektronikus segédletek (Internet, CD-ROM stb.) megismerése, kézikönyvek használata a tárgyalt irodalmi művekkel és tanulmányaik egyéb területeivel kapcsolatban.Tantárgyi gyűjtőmunka csoportosan vagy egyénileg az életkornak megfelelő folyóiratokból, vizuális, audiovizuális, elektronikus segédletekből (Internet, CD-ROM stb.). A talált adatok célszerű, gondos elrendezése vázlatban, rövid jegyzetben, a felhasznált forrásokról a szükséges adatok följegyzése.A gyűjtött anyag, könyvtári, otthoni vázlat felhasználása (pl. szóbeli és írásbeli beszámolóban, olvasónaplóban, műsor-összeállításban).
+▪ a közoktatásról szóló 1993. évi LXXIX. törvény végrehajtásáról rendelkező 20/1997. (II. 13.) Korm. rendelet,
 
-5. A magyar nyelv életének, rendszerének ismerete; ismeretek az anyanyelvről
+▪ a kerettantervek kiadásának és jóváhagyásának rendjéről, valamint egyes oktatási jogszabályok módosításáról szóló 17/2004. (V. 20.) OM rendelet,
 
-A nyelvi rendszerről szerzett tudás alapján a szövegben előforduló szavak szófajának fölismerése, megnevezése, jellemző jegyeik összegyűjtésével magyarázat (definíció) készítése közösen és/vagy tanári segítséggel.Szókincsgyakorlatok a nyelv állandóságának és változásának megfigyelésére, a szavak, szólások, állandósult szókapcsolatok megkülönböztetése, jelentésük értelmezése, megfelelő alkalmazásuk a saját nyelvhasználatban. Régies kifejezések, archaizmusok (pl. archaikus szavak, a maitól eltérő ragozás) keresése, stilisztikai szerepének értékelése.A szófajra, szóalakra, szóképzésre vonatkozó ismeretek megfogalmazása.Gyakorlatok az egyes szófajok helyesírásának biztonságossá tételére, a szóelemzés alkalmazása a nehezebb helyesírási esetekben.A tanult nyelvtani, nyelvhelyességi és helyesírási ismeretek tudatos alkalmazása, önkontroll és szövegjavítás fokozatos önállósággal.
+▪ az iskolai sporttevékenységről szóló 16/2004. (V. 18.) OM-GyISM együttes rendelet,
 
-Az anyanyelvi és a tanult idegen nyelvi rendszer párhuzamainak (pl. alany-állítmányi szerkezetek, mondatfajták, szórendi sajátságok) megfigyelése. Egyes egyszerűbb eltérő jelenségek megnevezése, a nyelvtudásnak megfelelő szinten.
+▪ az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet, továbbá az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelet,
 
-6. Ismeretek az irodalomról; az irodalom és az olvasó kapcsolata
+▪ a kerettantervek kiadásáról, bevezetéséről és alkalmazásáról szóló 28/2000. (IX. 21.) OM rendelet,
 
-Az olvasott művek alapján néhány alapvető irodalmi téma, motívum fölismerése és bemutatása (pl. gyerekek és felnőttek, próbatételek, szeretet, féltés, hősiesség) a tanult anyag kiegészítése egyéni olvasmányokból.Azonos témák más-más műfajú megjelenítése, például elbeszélés vagy párbeszéd formájában; azonos motívumok megfigyelése és összevetése különböző művészeti ágakban.A cselekmény, a helyzetek, a szereplők megfigyelése, megnevezése, jellemzése elbeszélő művek olvasása és dramatizált alkotások, színdarabok, tévéjátékok megtekintése alapján.Érzelmek, gondolatok megjelenítésének megfigyelése irodalmi művekben, a tapasztalatok megbeszélése, a vélemények összehasonlítása különféle műfajú olvasmányélményekkel kapcsolatban.Drámajátékok helyzetek megalkotásával, dramatizálással, improvizációval, utánzással.
+▪ a szakképzés megkezdésének és folytatásának feltételeiről, valamint a térségi integrált szakképző központ tanácsadó testületéről szóló 8 /2006. (III. 23.) OM rendelet,
 
-7. Az ítélőképesség, az erkölcsi, esztétikai és történeti érzék fejlesztése
+▪ a nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet.
 
-Önálló véleménynyilvánítás mindennapi helyzetekről, olvasmányélményekről.A szerzői értékelés, álláspont azonosítása és megfogalmazása mindennapi szövegekben. Művészi szövegek értékviszonyainak megfigyelése.
+Célszerű továbbá figyelembe venni
 
-A saját kulturális háttértől eltérő hátterű köznapi és irodalmi szövegek sajátos stilisztikai és tartalmi jegyeinek megfigyelése, kiemelése.
+A szakképzés-fejlesztési stratégia végrehajtásához szükséges intézkedésekről szóló 1057/2005. (V. 31.) Korm. határozatot, valamint a szabályozott szakmák jegyzékéről szóló OM közleményt (Magyar Közlöny 2004/66.).
 
-Más korokban született mindennapi szövegek, tárgyak olvasása, a bennük megjelenő, a saját kortól távoli gondolatok, vélemények összegzése.
+1. Célok és feladatok
 
-A humor, a nyelvi játék szerepének megfigyelése különféle társadalmi, kommunikációs helyzetekben.
+1.1. A szakképzést előkészítő évfolyamon folyó felzárkóztatás célja a szakképzésbe történő bekapcsolódáshoz szükséges elméleti és gyakorlati tudáselemek (általános és szakmai kompetenciák) megszerzése. A tanuló a szakképzési évfolyamon a szakmai és vizsgakövetelményekben meghatározott elméleti és gyakorlati tudáselemek (kompetenciák) meglétéhez kötött szakképesítés megszerzésére készülhet fel. (Kt. szerint)
 
-| Témakörök | Tartalmak |
+1.2. A szakképzést előkészítő évfolyamon történő oktatás lehetővé teszi a gyakorlatorientált felkészítéssel, hogy a tanulók a pályaorientációs szakasz keretében megismert legalább három szakmacsoport közül egyet a szakmai alapozás során a bemeneti kompetenciakövetelményeknek megfelelő szinten elsajátítsanak, s ezzel egy adott szakképesítés megszerzésére képessé váljanak, általános és szakmai kompetenciáik fejlesztése által. A felzárkóztató oktatás szakképzést előkészítő évfolyamának befejezéséről kiállított iskolai bizonyítvány a szakiskola első szakképzési évfolyamába lépésre jogosít.
 
-| Páros és kisközösségi kommunikáció | A nyelvi és nem nyelvi kifejezőeszközök tudatos alkalmazása. A kifejezőeszközök értelmezése a beszédpartnerek megnyilatkozásaiban. Véleménynyilvánítás, egyéni álláspont kifejtése, reagálás mások véleményére kisközösségi (iskolai, családi, baráti) helyzetekben. |
+1.3. A felzárkóztatás, s ezen belül a szakképzést előkészítő évfolyam célja a tanulókban a társadalmilag hasznos magatartásformák kialakítása, a tanuláshoz szükséges motiváció megteremtése, a munkavégzésre való szocializálás, a pályaválasztási döntés megalapozása, a szakmai vizsgára történő felkészülés előkészítése a szakmatanuláshoz szükséges bemeneti kompetenciák elsajátítása által, a tanulók élettervezésének elősegítése, sikerélményhez juttatása a tanulásban és a munkában.
 
-| Monda, rege, ballada | Két-három magyar történeti monda; egy népballada; Vörösmarty Mihály: Szép Ilonka (egy részlet); Arany János: Rege a csodaszarvasról, A walesi bárdok. A ballada műfaji jellemzői. |
+2. A képzés szakmai jellemzői
 
-| Arany János: Toldi | Emberi kapcsolatok, konfliktusok, lélekábrázolás. A főszereplő összetett jelleme: próbatételek, bűn és megtisztulás. A jellemzés eszközei. Szerkezeti, előadásmódbeli, nyelvi sajátosságok. |
+2.1. Kompetencia alapú képzés
 
-| Hősök a történetmondás műfajában | Fazekas Mihály: Lúdas Matyi (a történet és a mű egy rövid részlete); Gárdonyi Géza: Egri csillagok; egy ifjúsági regény a magyar vagy a világirodalomból. Helyzetek, kalandok, konfliktusok, a korszakot felidéző írói eszközök, ismétlődő motívumok. Jellemek és sorsok. A prózai és a verses elbeszélés különbsége. Az időmértékes verselés. |
+A szakképzést előkészítő évfolyam a tanulási utak sajátos, komplex támogatását tűzi ki feladatként, s ezzel túllép az oktatás-nevelés-képzés hagyományos rendszerén.
 
-| Képek és formák a költészetben | Legalább nyolc lírai alkotás elemzése különböző korokból (legalább négy-öt a XX. század magyar költészetéből). A lírai formanyelv sokfélesége: változatok a képiségre, zeneiségre, szerkezetre. |
+Kiindulópontja, hogy a szakképzést előkészítő évfolyam tanulóinak az egyes szakmacsoportokra kidolgozott bemeneti kompetenciák elsajátításával fel lehet készülniük a szakképzés sikeres megkezdésére.
 
-| Szóbeli és írásbeli szövegműfajok főbb ismérvei | A nézőpont szerepe az elbeszélésben és a leírásban. Az olvasottak reprodukálásának módjai. A jellemzés tartalmi és formai követelményei. Elbeszélés, leírás, jellemzés az ismeretterjesztésben. Egyszerűbb dialogikus formák, dramatikus népszokások. |
+Abból a kompetenciameghatározásból indulunk ki, amely szerint a kompetencia: „Azon elvárható ismeretek, képességek, magatartási és viselkedési jegyek összessége, mely által a személy képes lesz egy adott feladat eredményes teljesítésére.” A képzés során a tanuló tájékoztatást kap az összes megszerzendő kompetenciát (kompetenciaprofil) és előre ismertetik vele a kompetencia elsajátítását mérő-értékelő módszereket is.
 
-| A szavak jelentése és szerkezete | A szófajok alaktani és jelentésbeli jellemzői, képzésmódjuk. A szófajok rendszere: alapszófajok, viszonyszók, mondatszók. A szavak közötti kapcsolatok, a jelentésmező; állandósult szókapcsolatok. A szófajok helyesírása és nyelvhelyességi kérdései. A tulajdonnevek és a belőlük képzett melléknevek helyesírásának egyszerűbb esetei. |
+Akkor fejezi be a képzést, mikor a képzésben előírt valamennyi kompetenciamérésen megfelelt.
 
-| Könyv- és könyvtárhasználat | A korosztálynak szánt fontosabb sajtótermékek főbb fajtái, formai és szerkezeti jellemzői. A könyvekből gyűjtött adatok rendezésének alapvető ismeretei. |
+2.2. Gyakorlatorientált képzés
 
-Memoriter
+„A kompetencia alapú tanítás- és tanulásfelfogás a teljesítmények értékelésében az iskolázás során elsajátított tudás alkalmazásának ad prioritást” (NAT 2003) Az ismeretek alkalmazását állítja az oktatás középpontjába a gyakorlatorientált projektoktatással. A kompetencia alapú tananyagtartalom és a projektoktatás gyakorlatorientált helyi programfejlesztést tesz lehetővé. A projektoktatás olyan oktatásszervezési eljárás, mely az oktatást/képzést gyakorlati problémák megoldása köré csoportosítja. A tanulók aktivitására, érdeklődésére, kreativitására épül.
 
-Tíz-tizenöt versszak a Toldiból; négy-öt vers a tanultak közül, tíz-tizenöt soros prózarészlet.
+A projekt komplex feladatot tartalmaz, melyet a tanulók és a tanárok közös tervező, kivitelező és értékelő tevékenység során oldanak meg. A projektmunka központjában gyakorlati feladat megoldása áll, ami egyben a projekt célja és amihez kapcsolódnak a megoldáshoz szükséges ismeretek.
 
-Fogalmak
+2.3. Moduláris, projekt alapú rugalmas programszerkezet
 
-Kommunikáció, nyelvtan, nyelvhasználat:
+A rendszerelvű képzés moduláris oktatásszervezéssel valósulhat meg, a hagyományos tantárgyakra/műveltségi területekre építő oktatásszervezés helyett. A tananyag moduláris felépítése rugalmas program kiépítésére ösztönzi a szakiskolákat, képzési profiljaiknak megfelelően. A rugalmas program azt jelenti, hogy a tanuló a képzés során bármikor bekapcsolódhat, mert biztosított az egyéni haladás és kiléphet akkor, ha nem kívánja folytatni vagy teljesítette a modularizált képzési követelményeket.
 
-Kisközösségi kommunikáció, vita; a szófaj, alapszófajok: az ige alakrendszere, a névszó és fajtái, igenév, névmás, határozószó; viszonyszók: igekötő, névutó, névelő, kötőszó; mondatszók: módosítószó, indulatszó; gyakoribb ige- és névszóképzők; jelentésmező; állandósult szókapcsolatok;sajtótermék: napilap, hetilap, folyóirat; fejléc, cikk, rovat, tartalomjegyzék.
+Modularizált képzés: a teljes képzési program tananyaga, önállóan kezelhető nagyobb, meghatározott időtartammal is behatárolható egységekből, azaz modulokból áll. Egy modul azonos témaköröket tartalmaz, szakítva a hagyományos tantárgyrendszerrel.
 
-Szövegértés, szövegalkotás, irodalom:
+Előnye, hogy egy-egy modul több szakmacsoport szakképzést előkészítő évfolyamának oktatási programjában is felhasználható. Megkönnyíti az átjárhatóságot a tanulók számára a szakmacsoportok között a pályaorientáció során. A modulok a műveltségi területek, tantárgyak ismeretrendszere helyett az összes szükséges kompetencia megszerzését teszik lehetővé. Az egyes szakmacsoportok moduljai egységes alapokat tartalmaznak, mert koherensek a szakképzés megkezdéséhez szükséges bemeneti kompetenciákkal.
 
-Műnemek: líra, epika, dráma; monda, rege, ballada; konfliktus, epizód, motívum, nézőpont, cselekményszál; allegória, alliteráció, figura etimologica, metonímia; időmértékes verselés, hexameter; rímelhelyezkedés főbb fajtái.
+A modularizált tananyagtartalmak lényege a szakképzést előkészítő évfolyamon:
 
-Szerzők és művek
+▪ választhatóság és a beszámíthatóság bármely szakmacsoportban az általános (alap/kulcs) kompetenciákat (A) érintő modul projektjei közül;
 
-Arany János: Toldi, A walesi bárdok és még egy ballada, Rege a csodaszarvasról; Fazekas Mihály: Lúdas Matyi (a történet és a mű egy rövid részlete); Gárdonyi Géza: Egri csillagok; egy népballada; történeti mondák; négy-öt vers a XX. századi magyar irodalomból; egy ifjúsági mű (regény, elbeszélés) a magyar vagy a világirodalomból.
+▪ választhatóság az adott szakmacsoportra jellemző speciális (szakmai) kompetenciák (S) moduljai projektjeiből;
 
-A továbbhaladás feltételei
+▪ a szakmacsoportra jellemző kompetenciatáblázat alapján az OKJ szerinti szakképzés bemeneti kompetenciáinak megszerzése;
 
-A beszédhelyzethez (címzett, szándék, tartalom) és a nyelvi illem alapvető szabályaihoz alkalmazkodó beszédmód a kommunikáció iskolai (tanórai) helyzeteiben. Az alapvető nyelvi és nem nyelvi kifejezőeszközök helyes használata az élőbeszédben.
+▪ az egyéni haladási ütem biztosítása a tanulók számára.
 
-Különböző témájú és műfajú szövegek értő olvasása, értelmes felolvasása. Jól olvasható írás, az írásos szöveg rendezett elhelyezése. Egyszerűbb olvasmánytartalmak összefüggő ismertetése az időrend, az ok-okozati összefüggések bemutatásával. Rövid tárgyszerű beszámoló a feldolgozott művekről: szerző, cím, téma, műfaj.
+2.4. A képzéssel elérhető tanulási utak
 
-Az epikai művekről néhány fontos adat megnevezése: a helyzet, a helyszín, a szereplők, a főhős életútjának állomásai, a cselekmény menete. Lírai művek formanyelvének (verselés, képiség) felismerése. Elbeszélés, leírás, jellemzés, beszámoló készítése megbeszélt olvasmányok vagy személyes élmény alapján. A személyes élmény néhány mondatos megfogalmazása az olvasott irodalmi művek szereplőinek jellemével, a műben megjelenített élethelyzetekkel, érzelmekkel kapcsolatban.
+Belépési feltételek
 
-Az irodalmi olvasmányokhoz, egyéb tanulmányokhoz kapcsolódó információk gyűjtése a könyvtárban és/vagy az Interneten. Az adatok elrendezése és feljegyzése. Alapvető jártasság a korosztály számára készült lexikonok, vizuális, audiovizuális, elektronikus segédletek (Internet, CD-ROM stb.) használatában.
+A nappali rendszerű szakiskolai oktatás keretében megszervezett felzárkóztató oktatás egy évig (tíz hónapig) tartó szakképzést előkészítő évfolyamán azok a tanulók vehetnek részt, akik alapfokú végzettség hiányában kívánnak bekapcsolódni a szakképzésbe. (Kt. 27. § (8))
 
-7. évfolyam
+Be nem fejezett általános iskolai tanulmányok esetén legkorábban abban az évben jelentkezhetnek a következő tanévre a felzárkóztató oktatásra, amelyben betöltik a 15. életévüket. A hátrányos helyzetű tanuló esetén az iskola igazgatójának minden esetben be kell szerezni a gyermekjóléti szolgálat véleményét és azt meg kell küldeni a továbbtanulási és pályaválasztási tanácsadónak.
 
-Évi óraszám:129,5
+A felzárkóztató oktatásba bekapcsolódhatnak azok a tanulók is, akik alapfokú iskolai végzettséggel rendelkeznek, de tanulmányaikat nem kívánják a szakiskola 9. évfolyamán megkezdeni, illetve folytatni. Az, aki a felzárkóztató oktatás megkezdésekor a 16. életévét nem tölti be, a továbbtanulási, pályaválasztási tanácsadó javaslata alapján kapcsolódhat be a felzárkóztató oktatásba.
 
-Belépő tevékenységformák
+A szakképzést előkészítő évfolyamot a közoktatási törvény 27. § (8) bekezdésének d) pontja szabályozza. A felzárkóztató oktatásban egy évig (tíz hónapig) tartó szakképzést előkészítő évfolyam keretében a szakképzésbe történő bekapcsolódáshoz szükséges elméleti és gyakorlati tudáselemeket (kompetenciát) szerzi meg a tanuló, "és a szakképzési évfolyamo(ko)n a szakmai és vizsgakövetelményekben meghatározott elméleti és gyakorlati tudáselemek (kompetencia) meglétéhez kötött szakképesítés megszerzésére készülhet fel”.
 
-1. Beszédkészség, szóbeli szövegek alkotása és megértése; kulturált nyelvi magatartás
+Továbbhaladás
 
-Gyakorlatok a vitakultúra fejlesztésére: saját álláspont kialakítása és korrigálása, az ellenvélemény mérlegelése.Különféle beszédműfajok kommunikációs technikáinak megfigyelése. Gyakorlatok ezek alkalmazására, elsősorban a szándékkifejezés és a hatáskeltés szempontjából.Az írásbeli és a szóbeli közlésmód különbségeinek megfigyelése. A szóbeliség sajátosságinak érvényesítése különféle szóbeli szövegtípusokban, kommunikációs helyzetekben.
+A szakképzést előkészítő évfolyam sikeres elvégzése után a bemeneti kompetenciák biztosította belépés lehetőségével az OKJ 31–34. szintkódú szakképesítéseinek megszerzésére van lehetősége a tanulónak kérésére a szakképző évfolyamo(ko)n, hogy a szakmai és vizsgakövetelményeknek megfelelően szakképesítést szerezhessen.
 
-Az emberi érzelmeket, viszonyulásokat megjelenítő nem nyelvi kifejezőeszközök ábrázolásának megfigyelése irodalmi művekben, jelentésük értelmezése írásban és szóban.Egy-egy drámai vagy dramatizált részlet (dialógus vagy monológ) kifejező előadása: az érzelmek visszaadása, a szereplők közötti viszonyok érzékeltetése a nem nyelvi és a verbális kifejezés eszközeivel (hangsúly, hangerő, dallam, beszédtempó, szünettartás).
+3. Követelmények
 
-2. Olvasás, írott szöveg megértése
+A szükséges kompetenciák megléte felel meg a követelményeknek.
 
-Kisebb terjedelmű irodalmi művek, köznapi szövegek tartalmának önálló összefoglalása néma olvasás után.
+A NAT 2003 szellemében a kánonszerű követelmény megfogalmazás helyett inkább az összefüggésekre helyezi a hangsúlyt a szakképzést előkészítő évfolyam követelményrendszere. Ezen az úgynevezett „második szinten” találhatjuk azokat a tartalmakat, amelyek több téma együttesét, csomópontjait jelentik: jelen esetben a szakmacsoportokra jellemző bemeneti kompetenciák meghatározását és tartalmait.
 
-Ismert tartalmú szövegek tolmácsolása kifejező szövegmondással, megjelenítéssel.Különféle műfajú és rendeltetésű (szépirodalmi, ismeretterjesztő, értekező) művek szerkezetének, belső összefüggéseinek és jelentésének feltárása.A szövegelemző eljárások bővítése szakmai-tudományos, gyakorlati és szépirodalmi művek feldolgozásában: összetettebb logikai kapcsolatok felismerése, eltérő álláspontok elkülönítése, érvek és ellenérvek feltárása.A hétköznapi és az irodalmi kommunikáció sajátosságainak megfigyelése, különbségtétel az irodalmi kontextusban megjelenő és az egyéb nyelvi közlések értelmezése között.Szó szerinti és átvitt jelentés megkülönböztetése: áttételes jelentések, jelentésmozzanatok keresése irodalmi és köznapi szövegekben.
+A kompetenciatáblázat a kompetenciák két nagy csoportját öleli fel:
 
-3. Szövegalkotás írásban (íráskép, helyesírás)
+▪ az általános (alap/kulcs)kompetenciákat (A),
 
-Biztonság az egyszerű mondat központozásában, a gondolatjel, zárójel, kettőspont, pontosvessző értelmező szerepének ismerete és helyes használatuk.A tulajdonnevek és a belőlük képzett melléknevek nehezebb eseteinek helyesírása.Az egybe- és különírás elveinek ismerete és biztos alkalmazása a tanult esetekben.
+▪ és a szakmacsoportra jellemző speciális (szakmai) kompetenciákat (S).
 
-Véleménynyilvánítás a mindennapi élet megadott vagy választott témáiról: saját álláspont érvelő megfogalmazása, cáfolat és ellenvélemény kifejtése írásban.
+A kompetencia alapú moduláris képzésnek megfelelően a modulok kompetenciáinak teljesítésében határozható meg a követelményrendszer.
 
-Hozzászóláshoz, felszólaláshoz, kiselőadáshoz önálló vázlat készítése.
+A befejezett modulokat dokumentálja a tanári teljesítménymérő lapok összessége alapján kiállított – a modulok elvégzését igazoló – szakiskolai bizonyítvány.
 
-Érvelés írásban irodalmi művek formájáról és a bennük megjelenített mögöttes tartalomról a megismert szakszókincs alkalmazásával.
+A kompetenciák részletes felsorolása a moduláris, projekt alapú tanulási útmutatókban találhatók. A moduláris projekt alapú tanulási útmutatók tartalmazzák részletesen többek között a mérendő és a fejlesztendő/kapcsolódó kompetenciák megnevezését, valamint a kompetenciákat rögzítő és mérő tanári teljesítményértékelő lapokat. Az egyes modulok előfeltételeket is meghatározhatnak, mint belépési követelményt, pl. más modul elvégzését. Az előfeltételek megfogalmazása az útmutató fedőlapján is szerepel „projektfeladatok kompetenciakövetelményei/részcélok” elnevezéssel, valamint a produktum is meghatározott a részletes projektmunkatervben „A teljesítés kritériuma” oszlopban.
 
-Cselekményvázlat, olvasónapló készítése önállóan.
+(lásd részletesen: Modulleírások)
 
-Kreatív szövegalkotás a tartalomhoz, a kommunikációs alkalomhoz illő nyelvi, stilisztikai eszközök megfelelő kiválasztásával, összehangolásával.
+Ezek a „követelményjellegű” elemei a pedagógiai rendszernek. Szerves részét képezik a tantervnek. A jelenlegi és a fejlesztés alatt álló tantervi rendszer szintjén igazodnak a szakképző évfolyamok követelményeihez, a szakmacsoportokban szereplő szakmák kimeneti követelményeihez, valamint a munkaerőpiac gazdasági szereplőinek elvárásaihoz, a korszerű, gyakorlatorientált szakképzés szellemében.
 
-Epikus részletek dramatizálása, illetve drámai jelenetek tartalom- és stílushű visszaadása epikus formában.
+4. Az értékelés elvei
 
-4. A tanulási képesség fejlesztése
+A kompetencia leírásoknak megfelelően az értékelés alapelvei:
 
-Önálló olvasmányválasztás, segédletek, képzőművészeti ábrázolások, vizuális, audiovizuális, elektronikus segédletek (Internet, CD-ROM stb.) felkutatása megadott témához.Beszámoló, fiktív tudósítás, újságoldal stb. készítése egy adott irodalmi alak életéről, egy korszakról, eseményről korabeli dokumentumok, irodalmi művek, naplók, a témával foglalkozó, a korosztálynak szóló szakmunkák felhasználásával, önálló vagy csoportos vizsgálódás útján.Érvek, bizonyító erejű példák gyűjtése a könyvtárban, rendszerezésük vázlat és jegyzet készítésével, más tantárgyak témáiból, tankönyveiből is.
+▪ Kompetencia alapú
 
-5. A magyar nyelv életének, rendszerének ismerete; ismeretek az anyanyelvről
+A képzés során a tanuló ismeri az összes megszerzendő kompetenciát (kompetenciaprofil) és előre ismertetik vele a kompetencia elsajátítását mérő-értékelő módszereket is. Amikor a tanuló egy projektet befejez, ezzel több, a projektben fejleszthető kompetenciát is elsajátított, teljesítményét értékelik. Akkor fejezi be a képzést, mikor a képzésben előírt összes kompetenciát sikeresen teljesítette.
 
-Az egyszerű mondat részeinek és szintagmáinak biztos elemzése, értelmezése.A mondat szó szerinti és pragmatikai jelentésének felismerése, az elsődleges és másodlagos jelentés megkülönböztetése.A mondatfajták és kifejezőeszközeik felismerése, megnevezése, helyes használatuk.Mondatátalakítás rokon- és ellentétes értelmű mondatokkal szóban és írásban.A mondatalkotáshoz kapcsolódó nyelvhelyességi ismeretek biztonságos alkalmazása.A szóalkotási módok ismerete, a szóösszetétel, a szóképzés és a jelentés összefüggésének elemzése szépirodalmi és nem irodalmi szövegekben; szógyűjtés és játékos szóalkotás képzéssel, összetétellel.Szóösszetétel, alapszó, képzett szó, szókapcsolat megkülönböztetése.
+▪ Teljesítménykritérium alapú (a kidolgozott mérési eszközökön alapul)
 
-6. Ismeretek az irodalomról; az irodalom és az olvasó kapcsolata
+A teljesítménykritérium a projektben a tanuló által végzett konkrét tevékenység.
 
-A lírai formanyelv változásának vizsgálata (szerkezeti változatok, szókincs, a képiség eszközei).Ismeretek az irodalmi élet legfőbb szereplőiről, fórumairól.Beszámoló epikus és drámai művekről, tévéjátékokról: a szerkezet, a cselekményt alkotó elemek, fordulatok, a szereplők, a főhős(ök), a mellékszereplő(k), a mű kezdete és befejezése bemutatásával; a szereplők önálló jellemzése.
+▪ Projektproduktumra épülő
 
-Az irodalmi műfajoknak mint a műnemek alá rendelt kategóriáknak ismerete tanult, olvasott művek esetében.Az olvasott művek legfontosabb ismérveinek megnevezése: szerző, műfaj, téma.A cselekmény legfontosabb szerkezeti elemeinek elkülönítése, azonosítása, szerepének, tartalmának értékelése.Az egyes kompozíciós elemek közötti összefüggés, strukturális kapcsolat felfedezése, végigkövetése drámákban, nagyobb terjedelmű epikai művekben.Tér- és időviszonyoknak és ábrázolási módjuknak felismerése, összefüggésének keresése a jelentéssel a műben megjelenő tartalmakkal. Párhuzamok keresése a romantikus irodalom, zene és képzőművészet alkotásai között – a más tárgyakban tanult ismeretek és önálló könyvtári gyűjtőmunka felhasználásával.Improvizáció a megismert drámai konvenciók és színházi formanyelv elemeinek alkalmazásával. Különböző szerelő- és embertípusok megjelenítése a tartás- és járásmód megfigyelését követően.
+A tanulói kompetenciák fejlődésének értékelését – az adott teljesítménykritériumok alapján – a projekt során elvégzett feladatok és az előállított produktum, termék minősége alapján bírálják el. A tanár kerülje el, hogy a meghatározott kritériumoktól eltérő szempontokat is figyelembe vesz az értékelés során (más projekthez tartozó kompetenciát itt nem értékelhet).
 
-7. Az ítélőképesség, az erkölcsi, esztétikai és történeti érzék fejlesztése
+▪ Individualizált
 
-A verselés, a zeneiség elemeinek és hatásának felismerése verses alkotásokban.Az emberi érzelmeket, viszonyulásokat megjelenítő nem nyelvi kifejezőeszközök ábrázolásának megfigyelése irodalmi művekben, jelentésük értelmezése írásban és szóban.A túlzás és általánosítás szerepének megértése, bemutatása egyes típusok ábrázolásában, a komikum tartalmi és nyelvi eszközeinek felismerése.Az olvasott irodalmi művekben megjelenő szituációk és jellemek, érzelmek, gondolatok és a köznapi, tapasztalati úton megismert „valóság” egyszerűbb összefüggéseinek felfedezése és bemutatása.
+Minden tanuló egyéni tanulási-fejlődési-haladási ütemmel rendelkezik. Az értékelés időzítése során figyelembe kell venni a tanuló egyéni igényeit, tempóját, képességeinek kialakulásának időbeliségét. A tanulók tudását, teljesítményét egyénileg, eltérő időpontban is mérhetik. Nem lehet ugyanakkor eltekinteni attól, hogy megmérjük a szakképzés megkezdésekor a törvényben előírt valamennyi kompetenciát (azaz a 10. hónap végén valamennyi kompetenciával rendelkezzen a diák).
 
-MAGYAR NYELV
+▪ Szöveges formájú
 
-| Témakörök | Tartalmak |
+A tanári teljesítményértékelő lapon a teljesítménykritériumok szöveges formában jelennek meg.
 
-| Magán- és közéleti kommunikáció Az egyszerű mondat | A szóbeli és írásbeli közlésmód kifejezési formáinak azonossága és különbsége a magán- és a közéleti kommunikációban.A közéleti kommunikáció iskolai helyzetei és műfajai: megbeszélés, vita, felszólalás, hozzászólás, rövid alkalmi beszéd, köszöntés, kiselőadás. A mondat mibenléte, fajtái. Az egyszerű mondat szerkezete, a mondatrészek és a szintagmák. A mondat szó szerinti és pragmatikai jelentése. A mondattanhoz kapcsolódó nyelvhelyességi ismeretek. |
+▪ Az értékelés szempontjai a tanuló és a tanár számára egyaránt azonosan értelmezhetők
 
-| A szóalkotási módok | A szóösszetétel: az alá- és a mellérendelő összetett szavak. A mozaikszók. A gyakori szóalkotási módok rendszerező összefoglalása (szóképzés, szóösszetétel). |
+A tanulói teljesítményértékelő lapon a tanuló – az előre megadott szempontok alapján – ellenőrzi, hogy elvégezte-e a szükséges tevékenységeket. A tanuló önértékeléséről a tanár visszajelzést ad a tanulónak, illetve amennyiben szükséges, további feladatokat ad a tanulónak a kompetencia megszerzése érdekében.
 
-| Helyesírási ismeretek | Az egyszerű mondat helyesírása (vessző, gondolatjel, zárójel, kettőspont, pontosvessző). A tulajdonnevek helyesírási ismereteinek bővítése: a tanult idegen személynevek, a többelemű földrajzi nevek, intézménynevek és a belőlük képzett melléknevek helyesírása. Az összetett szavak helyesírása. |
+▪ A tanulói önértékelést is figyelembe veszi
 
-| Könyv- és könyvtárhasználat | A könyvtár írott és a modern technológián alapuló dokumentumainak felhasználása különféle témák feldolgozásában. Forráshasználat, forrásjegyzék, az idézés módjai. |
+A tanár a saját értékelésében figyelembe veszi a tanuló önértékelését, ez azonban nem jelenti azt, hogy a tanulói önértékelést be kell számítani a tanári teljesítményértékelésbe.
 
-Fogalmak
+A kompetenciamérés folyamata
 
-Mondatfajták: kijelentő, felkiáltó, kérdő, óhajtó, felszólító mondat; tagolatlan, tagolt; tő- és bővített mondat, hiányos szerkezetű mondat; a mondat elsődleges és másodlagos jelentése; mondatrészek: az alany, állítmány, tárgy, határozó, jelző fajtái és kifejezőeszközei; az alany-állítmányi viszony; alárendelő és mellérendelő szintagma.
+A mérési eszközök meghatározottak:
 
-Szóösszetétel, alárendelő összetett szavak: alanyos, tárgyas, határozós, jelzős összetétel; mellérendelő összetett szavak; szóismétlés; ikerszavak; jelentéssűrítő összetételek; mozaikszavak.
+▪ rendszeres visszacsatolás az egyes projektfeladatokban (Önellenőrző lapok),
 
-Vita, megbeszélés, felszólalás, hozzászólás, kiselőadás.
+▪ értékelés a projekt végén az adott projektnek megfelelően adaptált Tanulói teljesítményértékelő lapon és Tanári teljesítményértékelő lapon,
 
-Forrásjegyzék, idézet, hivatkozás.
+▪ a szakképzést előkészítő évfolyam elvégzése akkor jogosít a választott szakmacsoportban egy szakma tanulásának megkezdésére, ha a tanuló az OKJ-ban bemeneti feltételként meghatározott valamennyi kompetenciával rendelkezik és ezt az egyéni portfoliójával igazolja.
 
-IRODALOM
+A tanuló értékelése előre megadott teljesítménykritériumok alapján történik, ez bizonyítja a tanuló felkészültségét az adott kompetencia elsajátításáról. Ahány kompetenciát tartalmaz a kompetenciaprofil táblázata, annyi kompetenciamérés szükséges. A kompetenciák leírását mellékelni kell a Moduláris, projekt alapú tanulási útmutatóhoz, tanári segédletként. A tanuló számára a Tanulói teljesítményértékelő lap és a Tanári teljesítményértékelő lap közérthető formában tartalmazza a kritériumokat.
 
-| Témakörök | Tartalmak |
+Ez azt jelenti, hogy a csoport minden tanulójára projektenkénti egyéni tanulási útmutatók készülnek, amelyekben az OKJ-ban szereplő minden bemeneti kompetencia fejlesztése és értékelése szerepel.
 
-| Ritmus, kép, kifejezésmód – líra alapformái (dal elégia, óda, epigramma) | Különféle témájú lírai alkotások a klasszikus és kortárs, magyar és világirodalomból, a lírai szerkezet, a műfaji sajátosságok, a versformák változatai. |
+5. A képzés struktúrája
 
-| A kisepika műfaji változatai: novella, elbeszélés – anekdota | Anekdotikus történetek, kisepikai alkotások a magyar és a világirodalom különböző korszakaiból. Az anekdota változatai, felépítése; a novella szerkezeti jellemzői. |
+5.1. Képzési idő – A tantervi idő felosztása
 
-| A regény változatai | Magyar történelmi események és korszakok megidézése az irodalomban, Jókai Mór, Mikszáth Kálmán és mások műveiben. Epikai alkotások a világirodalomból (novellák, regényrészletek). |
+A szakképzést előkészítő évfolyamon a tanulási idő pedagógiai céloknak megfelelő felosztása a 10 hónapos képzési időtartamot felölelő modulok kialakítása szerint történik. A hagyományos heti óraszám meghatározás a modularitás miatt csak keretjellegű. A teljes képzési idő, valamint a modulok összóraszáma a modultérképen szerepel.
 
-| Egy drámai mű feldolgozása | Legalább egy dráma (vígjáték, színmű) feldolgozása, lehetőség szerint megtekintése, a szöveg és az előadás összehasonlítása. A komikum, humor, paródia tartalmi és nyelvi jellemzői. |
+Az egyes projektek időtartama csak ajánlott, a felzárkóztató jellegből következő egyéni haladási ütem biztosításának igénye miatt. A jogszabályban meghatározott belépési feltételek egy viszonylag heterogén tanulói célcsoportot jelentenek iskolai előképzettség szempontjából, ugyanakkor közös sajátosságuk, hogy felzárkóztatásra van szükségük ahhoz, hogy rendelkezzenek a szakképzésbe lépés feltételeivel. Egyéni haladási ütemük tehát jelentősen eltérhet. A szakképzést előkészítő évfolyam tanulóinak biztosítani kell a rugalmas be- és kilépési lehetőséget, hiszen az a cél, hogy a 10 hónapos képzési idő alatt sajátítsák el a szakképzésbe lépéshez szükséges bemeneti kompetenciák összességét.
 
-| Irodalom és kulturális élet a reformkorban | Olvasmányok a reformkor irodalmából, szerzők és művek, írók és olvasók, írói életpályák, irodalmi társaságok, folyóiratok, színházi élet, irodalmi kapcsolatok. Romantikus életérzés, életmód, stílusjegyek. Az irodalom, festészet, a zene néhány közös vonása a romantikában. |
+Az ajánlott időkeretnek határt szab az iskolai rendszerű oktatásban a tanulók kötelező óraszáma, ami a jelenleg érvényben lévő jogszabályi feltételnek kell, hogy megfeleljen: évi 1017,5 óra lehet. A teljes időkeret 1017,5+74 lehet, a szabadon választottal együtt.
 
-| Tánc és dráma | Figurateremtés hanggal és nem verbális eszközökkel.Improvizáció közösen egyeztetett témára, történetváz alapján a megismert drámai konvenciók elemeinek alkalmazásával. |
+A kerettantervi modulok időtartama táblázat formájában, összesítve:
 
-Memoriter
+| Modulok | Időkeret (óra) |
 
-Teljes művek és részletek előadása (a feldolgozott művekből hat-nyolc vers, egy-egy tizenöt-húsz soros próza és drámarészlet.
+| „A” jelű modulok | 347,5 |
 
-Fogalmak
+| 1/II. Személyiségfejlesztés, önismeret | 117,5 |
 
-Anekdota, novella, regény; dal, elégia, óda, himnusz, epigramma, helyzetdal, költői levél, ars poetica; líra szerkezet; értekező próza; vígjáték, színmű, jelenet, felvonás, díszlet, jelmez, rendezői utasítás; komikum, humor, helyzetkomikum, jellemkomikum, paródia; pentameter, disztichon, versláb.
+| 2/II. Tanulás módszertana | 70 |
 
-Szerzők és művek
+| 3/I. Alapkészségek fejlesztése: írás, olvasás, számolás | 60 |
 
-Arany János: Szondi két apródja és még egy műve; Csokonai Vitéz Mihály: A Reményhez; Jókai Mór: A kőszívű ember fiai vagy egy-két részlet A kőszívű ember fiaiból és még egy mű, például A nagyenyedi két fűzfa, Az új földesúr vagy más mű; Kölcsey Ferenc: Hymnus, Parainesis (egy részlet); Mikszáth Kálmán: Szent Péter esernyője és egy novella; Petőfi Sándor: Nemzeti dal, Szeptember végén és még két mű; Vörösmarty Mihály: Szózat és még egy mű.
+| 4/I. Számítástechnikai alkalmazás | 60 |
 
-A továbbhaladás feltételei
+| 5/I. Általános szóbeli kommunikáció | 40 |
 
-Részvétel a közéleti kommunikáció iskolai helyzeteinek különféle formáiban felszólalás, hozzászólás formájában. Saját vélemény megfogalmazása (az érvelés alapvető szabályait követve) a mindennapi élet egyszerűbb, a korosztály által is átlátható problémáiról, olvasmányokról. Udvarias együttműködés felnőtt és kortárs beszédpartnerekkel.
+| „S” jelű modulok | 670 |
 
-A megértést biztosító hangos és néma olvasás, szöveghű folyamatos felolvasás, szövegmondás. Rendezett, egyéni íráskép.
+| 6/III. Pályaorientáció | 270 |
 
-Különféle műfajú és rendeltetésű (szépirodalmi, ismeretterjesztő, értekező) szövegek szerkezetének és jelentésének bemutatása. Epikus olvasmányok, olvasott, látott drámai alkotások szerkezeti elemeinek elkülönítése, a fő- és mellékszereplők jellemzése. A szépirodalmi művekben megjelenő helyzetek és jellemek, érzelmek és gondolatok egyszerűbb összefüggéseinek bemutatása szóban és írásban. A lírai formanyelv (ritmus, rím, hangzás, képiség) stíluseszközeinek felismerése. Vázlat készítése szóbeli megnyilatkozáshoz, cselekményvázlat írása.
+| 7/IV. Szakmai kommunikáció Anyanyelvi, Idegen nyelvi | 40 60 |
 
-Az egyszerű mondat részeinek, szintagmáinak megnevezése, elemzése. A mondatfajták biztos megkülönböztetése. A szóalkotás gyakori módjainak fölismerése és elemzése. A tanult nyelvhelyességi és helyesírási szabályok megfelelő alkalmazása: a központozás, a tanulmányok során előforduló tulajdonnevek, a belőlük képzett melléknevek helyesírásának, az egybe- és külön írás elveinek ismerete és megfelelő alkalmazása. A Magyar helyesírási szótár önálló használata.
+| 8/IV. Szakmai alapozás, projektek megvalósítása | 300 |
 
-A tárgyalt irodalmi művekhez, a mindennapi élet kérdéseinek megválaszolásához ismeretanyagok keresése a könyvtár nyomtatott és elektronikus információhordozóinak felhasználásával.
+| Kötelező tanórai foglalkozások | 1017,5 |
 
-Részvétel a csoportos történetalkotásban, az improvizációban és az elemző beszélgetésekben.
+| Szabadon választható modulok | 74 |
 
-8. évfolyam
+| A tanuló javasolt évi óraszáma | 1091,5 |
 
-Évi óraszám: 129,5
+Az egyes iskolák helyi modulrendszerét a pedagógiai rendszer tantervében rögzített modul szerint, a modultérkép és az egyes modulok kompetenciáit tartalmazó kompetenciatáblázatok figyelembevételével a helyi tantervek határozzák meg.
 
-Belépő tevékenységformák
+5.2. Képzési szakaszok a moduláris projekt alapúság elve szerint
 
-1. Beszédkészség, szóbeli szövegek alkotása és megértése; kulturált nyelvi magatartás
+A szakképzést előkészítő évfolyam keretében alapkészségek fejlesztése, szocializáció, pályaorientáció és szakmai alapozás folyik. A képzési szakaszok és fejlesztési feladatok e négy kiemelt tartalomhoz kapcsolódnak. Az alapkészségek fejlesztése, mint általános feltétel, a teljes képzés során kiemelt cél, amellett, hogy külön szakaszként is megjelenik az időbeli egymásra épültségnek megfelelően. A gyakorlatban nem lehet mereven kezelni az egyes képzési szakaszok lezárulását a 10 hónapos képzési időn belül a tanulók eltérő egyéni haladási üteme miatt. A szakaszok rendszert alkotnak, egyik nélkül sem lehet elérni a kitűzött célt.
 
-A beszédpartnerek különböző kommunikációs helyzetekben megjelenő érzelmi viszonyulásainak, eltérő álláspontjának ismertetése rövid szóbeli összefoglalásban.
+A pedagógiai rendszerben meghatározott képzési szakaszok római számmal jelöltek:
 
-Saját álláspont kialakítása a beszélgetőpartner(-ek) álláspontjával szemben. A másik szempontjait figyelembe vevő, személyiségét, véleményét tiszteletben tartó érvelés technikáinak megfigyelése, ennek megfelelő érvrendszer és magatartásforma kialakítása közös munkával egy-egy megadott szituációban.
+– I. Alapkészségek fejlesztése
 
-Szituációs vagy szerepjátékok különféle irodalmi és köznapi szóbeli kommunikációs helyzetekhez kapcsolódóan A részvétel, a saját megnyilvánulás értékelése szituációs gyakorlatokban.
+– II. Szocializáció
 
-Gyakorlatok a nyelvváltozatok szókészletének tudatos használatára a különféle kommunikációs helyzetekben, a nyelvi illemnek megfelelően.
+– III. Pályaorientáció
 
-2. Olvasás, írott szöveg megértése
+– IV. Szakmai alapozás
 
-Különféle sajtótermékek értelmező felolvasása, jelentésének kibontása, hatáskeltő eszközeinek azonosítása, megnevezése, értékelése tanári segítséggel.A tájékoztató és a véleményt közlő műfajok elkülönítése: hír, tudósítás; cikk, kommentár; riport, interjú.Az olvasott szépirodalmi és egyéb szövegek mögöttes jelentéseinek tudatos keresése, megfogalmazása tanári irányítással és / vagy csoportmunkával.
+Modultérkép
 
-3. Szövegalkotás írásban (íráskép, helyesírás)
+A modultérkép a modularizált képzésekben a modulok térképszerű, rajzos elrendezése, mely ábrázolja a modulok időbeli elrendezését és kapcsolatát más modulokkal. Tartalmazza továbbá a be- és kilépési szinteket, a modulok nevét és ajánlott időkeretét.
 
-A helyesírás értelemtükröztető szerepének felhasználása különféle írásbeli műfajokban.Az idézés és a párbeszéd írásmódjának helyes alkalmazása.Tapasztalatszerzés a mindennapi élet alapvető hivatalos iratainak (kérdőív, nyugta, kérvény, önéletrajz) megfogalmazásában.
+A modultérképet a kompetencia alapú képzésnél szélesebb értelemben használjuk, tartalmazza a modulokhoz tartozó kompetenciák felsorolását is, így két részből áll:
 
-Mindennapi élethelyzetekhez, irodalmi olvasmányokhoz kapcsolódó véleményalkotás és -nyilvánítás árnyalt kifejezésmódjainak ismerete és használata önálló fogalmazásban.
+▪ a tulajdonképpeni modultérkép,
 
-Ismertetés, könyvajánlás, kritika írása, kiselőadás tartása irodalmi művekről, filmalkotásokról különféle idézési módok alkalmazásával, például egyenes és függő idézet, teljes mondat, kulcsszó stb. idézésével.
+▪ és a kompetenciák felsorolása modulokba rendezve (a modulokhoz tartozó kompetencialista).
 
-4. A tanulási képesség fejlesztése
+A horizontális-vertikális térkép azt ábrázolja belépéstől kezdődően, hogy egy időben egyszerre két vagy több modul is folyamatban van és ezekre hogyan épülnek a képzés során a többi modulok.
 
-Mindennapi, közéleti és szakmai problémákról vagy irodalmi témákról ismeretek, érvek, példák gyűjtése a könyvtári tárgyi katalógus segítségével.
+A térkép áttekinthetően szemlélteti az egymásra épülést és a kölcsönös kapcsolódásokat.
 
-A könyvtár nyomtatott dokumentumainak (segédkönyv, kézikönyv, ismeretterjesztő könyv, folyóirat), elektronikus információhordozóinak felhasználásával egyszerűbb téma önálló vagy csoportos feldolgozása: problémafelvetés, forrásválasztás és -feldolgozás segítséggel, beszámoló készítése szóban vagy írásban, hivatkozás a forrásra az idézés megfelelő módjával.
+Leolvasható róla, mely modulok futnak párhuzamosan, hol fontos feltétel az egymásra épülés, (ami azt jelenti, hogy az egyik modul befejezése után kezdhető meg a következő).
 
-Önálló problémafelvetés, források kiválasztása, többféle forrásból gyűjtött anyag válogatása, feldolgozása önállóan vagy csoportmunkával, az összegyűjtött anyagról szóbeli és/vagy írásos beszámoló készítése.A tanult művek közvetlen és tágabb kontextusára vonatkozó ismeretek bővítése önálló könyvtári munkával; az adatok felhasználása az értelmezésben, elemzésben.
+Fontos a modulok számozása (1–8.) és megnevezése
 
-5. A magyar nyelv életének, rendszerének ismerete; ismeretek az anyanyelvről
+A kompetenciák felsorolása modulokba rendezve fontos része a modultérképnek. Táblázatos formában készült, melynek oszlopai tartalmazzák: a modulok sorszámát; – azaz a modul számát és törtjellel a képzési szakaszt, amelyhez tartozik – a modulok megnevezését; a kompetenciák számát és nevét – azaz a modulokhoz tartozó kompetenciák (kód)számát – ez utal a kompetencia-táblázatban lévő feladatcsoportokra és feladat/tulajdonság listára.
 
-Mondatelemzési jártasság az összetett mondat feldolgozásában: a tagmondatok sorrendjének, a szintagmák szerkezetének és jelentésének fölismerése, értelmezése, fogalmi szintű megnevezése.A magyar nyelv legfőbb szórendi szabályainak helyes alkalmazása. Gyakorlatok a szórend megváltoztatásával a jelentés formálására.A magyar nyelv és a tanult idegen nyelvek nyelvtani szerkezetének összehasonlítása megadott szempontok alapján.A szűkebb és tágabb környezetben megjelenő nyelvváltozatok (dialektusok, réteg- és csoportnyelvi sajátosságok) megfigyelése, gyűjtése
+Ebből a táblázatból derül ki, hogy egy modulhoz hány és milyen tartalmú kompetenciák tartoznak.
 
-Példák keresése a nyelvhelyesség kérdéseiben. Alapvető nyelvhelyességi hibák, hibatípusok megnevezése, felismerése idegen és saját szövegben.
+A modultérkép és a táblázat fontos információs anyag az előkészítő programban részt vevő diákok számára, de értékes információkat tartalmaz a képzést szervezők és a képzés lebonyolításában közreműködő oktatók számára is.
 
-6. Ismeretek az irodalomról; az irodalom és az olvasó kapcsolata
+[A kompetenciatáblázatok a 28/2003. (X. 18.) OM rendelet 3. számú mellékletében, a szakmai követelmények kiadásáról szóló 64/1994. (XII. 15.) FM rendelet mellékletében, továbbá az 5/2006. (II. 2.) KvVM rendelet 3. számú mellékletében találhatók.]
 
-Vizsgálódás a népszerű irodalom műfajaiban: a lektűr, a krimi hatáskeltő eszközeinek megismerése.Népszerű epikus műfajok, drámai vagy filmalkotások elemzése a hatáskeltés, a bennünk megjelenő tipikus helyzetek és jellemek szempontjából.Toposzok, sémák és sablonok fölismerése és szerepének értékelése a szórakoztató irodalmi és filmalkotásokban.Különféle olvasók véleményének, attitűdjének fölismerése az elemzett művekben.A befogadás tapasztalatainak tudatosítása, a téma, az írói látásmód és álláspont megértése.
+MODULTÉRKÉP
 
-A szöveg hangzásának és írott képének összefüggése, az illusztráció, a tipográfiai eszközök szerepének átlátása.A képversnek mint sajátos formának megismerése és értelmezése.A művészi kifejezésmódok, stíluseszközök funkcióinak megfigyelése, értelmezése.A megismert műfajok, stílusalakzatok, szóképek megnevezése, jellemzése példákkal.A magyar irodalom nagyobb korszakaira vonatkozó ismeretek önálló összefoglalása.Korokhoz kötődő ismétlődő témák, kérdésfelvetések meglátása irodalmi művekben és értekező prózai alkotásokban.Egy-egy irodalmi mű fogadtatásának ismerete a saját korában, jelentősége az utókor szemében.Párhuzamok keresése a Nyugat első nemzedékének irodalmi alkotásai és a korabeli képzőművészet között – más tantárgyakban tanult ismeretek, könyvtári adatgyűjtés felhasználásával.Tájékozódás az irodalom kronológiájában és „földrajzában”, a helyi hagyományok, irodalmi emlékek ismerete.Az olvasott művek elhelyezése a korban, néhány fontos részlet fölidézése az alkotók életrajzából.Figyelem a kortársi kapcsolatokra, az irodalom és más művészeti ágak közti összefüggésekre.Hasonló témájú, azonos műfajú művek összehasonlítása.Néhány alapvető irodalmi téma és motívum jelentésének elemzése.Rögtönzés a megismert drámai konvenciók és színházi formanyelv elemeinek alkalmazásával, a társművészetek eszköztárának bevonásával.Irodalmi művekben, filmekben megjelenő emberi kapcsolatok, cselekedetek, érzelmi viszonyulások, konfliktusok összetettségének felfogása, értelmezése és megvitatása.A művészi kifejezésmódok, stíluseszközök funkcióinak megfigyelése, értelmezése.Az adott műhöz kötődő kifejezésmód néhány jellemzőjének értelmezése, értékelése a szükséges fogalmak használatával az egyéni vélemény néhány szavas megfogalmazásával.
+Fő célkitűzés : BELÉPÉS A SZAKKÉPZÉSBE
 
-7. Az ítélőképesség, az erkölcsi, esztétikai és történeti érzék fejlesztése
+Modul sorszám (1..8) / Képzési szakaszok (I. IV)
 
-Irodalmi és filmszereplők jellemének megítélése, érvelés a saját álláspont mellett a szöveg felhasználásával.
+A modulok időkereténél javasoljuk az 1017,5 óra maximumot betartani!
 
-Olvasmányválasztás indoklása néhány szempont felsorolásával.
+Egy projekt több modulhoz is tartozhat, az elsajátítandó kompetenciák szerint. Az I-II. szakasz moduljai „A” jelűek, azaz kötelezők, a III-IV. szakasz moduljai „S” jelűek, azaz kötelezően választhatók.
 
-Egymástól lényegesen különböző esztétikai normákhoz kapcsolódó művek összehasonlítása. Egy-két korszak a saját kortól, eltérő művészi és nem művészi szépségeszményének bemutatása.
+A kompetenciamérést folyamatosan, projektenként kell végezni.
 
-A személyes, egyéni ízlés szerepének bemutatása egy-egy alkotás, jelenség megítélésében, választott példákon (kritikák, csoportos feldolgozás, vita) keresztül.
+A modultérkép a szakaszok átjárhatóságát ábrázolja. A két, speciális (szakmai) kompetenciák megszerzését lehetővé tevő képzési szakasz a pályaorientáció és a szakmai alapozás. Ezek egyben „hordozói” az alapkészségek fejlesztésének és a szocializációnak is, mint az általános kompetenciák megszerzését biztosító szakaszoknak.
 
-Konfliktusforrások (pl. kulturális, világlátás- és életformabeli, az életkorból és a személyiségből adódó különbségek, ezekből fakadó ellentétek) felfedezése, megfigyelése különféle szövegekben.
+A modultérkép a következő szakmacsoportokra készült (az összevonásoknál megjelenik a szakmai alapozásban mindkét szakmacsoport speciális kompetenciáinak sorozata):
 
-Különféle konfliktuskezelési eljárások megfigyelése és gyakorlása műalkotások és mindennapi szövegműfajok kapcsán.
+▪ Élelmiszeripar
 
-MAGYAR NYELV
+▪ Építőipar
 
-| Témakörök | Tartalmak |
+▪ Faipar
 
-| A tömegkommunikáció | Alapismeretek a tömegkommunikációról nyelvi szempontból, elsősorban a befogadás oldaláról. A tömegkommunikáció néhány gyakori szövegműfaja: hír, tudósítás; cikk, kommentár, kritika; interjú, riport. A reklám, a hirdetés, az apróhirdetés eszközei és hatása. |
+▪ Gépészet – elektrotechnika
 
-| Az összetett mondat | Az összetett mondat szerkezete, a tagmondatok sorrendje. Az alárendelő és a mellérendelő mondat fajtái. A szórend alapvető kérdései az egyszerű és az összetett mondatban. A többszörösen összetett mondat. A mondat és a szöveg viszonya. |
+▪ Könnyűipar
 
-| A tanult leíró nyelvtani fogalmak rendszerezése | A nyelvi szintek. A nyelvi szintekről tanultak rendszerezése: a mondat szerkezete és jelentése, a szószerkezetek (szintagmák) kifejezőeszközei; a szófajok rendszere; alaktani ismeretek: szó, szóelem, egyszerű szó, összetett szó, alapszó, képzett szó; a magyar hangrendszer, a mondatfonetikai eszközök. |
+▪ Mezőgazdaság és Környezetvédelem – vízgazdálkodás
 
-| Helyesírási ismeretek | A magyar helyesírás alapelvei. Az összetett mondat központozása. A párbeszéd és az idézetek írásmódja. |
+▪ Vendéglátóipar
 
-| Kitekintés a magyar nyelv életére Szövegműfajok és kifejezési formájuk | Nyelvváltozatok és nyelvi normák a mai magyar nyelvben.Nyelvünk eredete, rokonsága.A magyar nyelv típusa: néhány hangtani, alaktani, mondattani sajátossága, szórendjének jellemzői. A mindennapi élet néhány alapvető hivatalos irata: a nyugta, kérdőív, kérvény, önéletrajz tartalmi és formai kérdései. Ismeretek a véleménynyilvánítás néhány szóbeli és írásbeli műfajáról az olvasmányok feldolgozásához kapcsolva: ismertetés, könyvajánlás, kritika, olvasónapló. Az idézés módja: egyenes és függő idézet. A paródia kifejezőeszközei. |
+▪ Kereskedelem-marketing, üzleti adminisztráció és Egyéb szakmacsoport
 
-| Könyv- és könyvtárhasználat | A tárgyi katalógus használata önálló feladat megoldásához, cédulázás, vázlat, forrásjegyzék készítése a gyűjtött adatokról. |
+A 8 kompetenciatáblázat a hivatkozott rendeletekben található.
 
-Fogalmak
+5.3. A modulok kijelölése és elrendezése
 
-Összetett mondat: mondategész, mondategység (tagmondat), főmondat, mellékmondat; utalószó, kötőszó, a mellérendelő mondat fajtái: kapcsolatos, ellentétes, választó, magyarázó, következtető; az alárendelő mondat fajtái: állítmányi, alanyi, tárgyi, határozó, jelzői alárendelés; sajátos jelentéstartalmú mondat: feltételes, hasonlító; többszörösen összetett mondat.
+A szakképzést előkészítő évfolyam tanterve nem tartalmaz részletezett tanítási tartalmakat, eszközöket, azokat a Moduláris projekt alapú tanulási útmutatók hordozzák. A tananyagtartalom a modulokban és az azokat tovább bontó projektekben van részletezve. A szakképzést előkészítő évfolyam tanterve tartalmazza a kötelezően választandó modulokat az általános kompetenciák (alap- és kulcskompetenciák) fejlesztésére és a kötelezően választható modulokat a szakmai kompetenciák fejlesztésére.
 
-Mondatfonetikai eszközök rendszere: hangsúly, hanglejtés, szünet, tempó.
+Kötelező modulok a modultérkép alapján minden szakmacsoportban:
 
-A magyar nyelv szórendje.
+Az „A” jelűek: az általános bemeneti kompetenciákat tartalmazó modulok.
 
-Egyenes és függő idézet.
+Összesen beépíthető időkeretük: 347,5 óra (34%)
 
-IRODALOM
+▪ Tanulásmódszertan
 
-| Témakörök | Tartalmak |
+▪ Alapkészségek fejlesztése: írás, olvasás, számolás
 
-| Az irodalom határterületén – a népszerű irodalom műfajai | Változatos témájú irodalmi művek olvasása és feldolgozása a magyar és világirodalomból, a népszerű, illetve lektűr irodalom hatáskeltő eszközei és értékelésük. |
+▪ Általános szóbeli kommunikáció
 
-| Az irodalom nagy témáiból | Regények, regényrészletek, elbeszélések, lírai alkotások a magyar és a világirodalom visszatérő nagy témáit feldolgozó irodalmi alkotások köréből (ifjúkor és felnőtt kor, társas kapcsolatok, utazás, identitás stb.). |
+▪ Számítástechnikai alkalmazás
 
-| A Nyugat első nemzedékének irodalmából | Irodalmi és kulturális élet a Nyugat első korszakában.Szépirodalmi alkotások a Nyugat első nemzedékének íróitól. |
+▪ Személyiségfejlesztés, önismeret
 
-| A dráma világa | Legalább egy dráma (tragédia vagy vígjáték) feldolgozása, megtekintése. |
+Ezek keresztmodul-jellegű modulok (A), amelyek több modul projektjeiben is megvalósulnak, mert hosszabb, több képzési szakaszon átívelő fejlesztési időtartamra érhető el bennük a szükséges kompetenciák megszerzése.
 
-| Kortárs irodalom – kortárs írók és olvasók | Olvasmányok a szélesebb értelemben vett kortárs irodalomból. Regionális kultúra és irodalmi élet. |
+A NAT 2003-ban foglalt műveltségi területeknek való megfelelés érdekében be kell építeni kötelezően a kötelező modulok mellé (ennek időkeretébe beszámítva) a mindennapos testnevelés időkeretét is minden tanuló számára, valamint az iskolai egészségfejlesztéssel, fogyasztóvédelemmel, környezetvédelemmel összefüggő feladatok végrehajtására is biztosítani kell a szükséges helyi tanterv szerinti időkeretet és tanítási tartalmakat! Ezt az iskoláknak a helyi tantervükben kell meghatározniuk (lásd a 7. pontot).
 
-| Tánc és dráma | Improvizáció – közösen egyeztetett témára, együttesen kidolgozott történetváz alapján. |
+Kötelezően választható modulok:
 
-Memoriter
+Az „S” jelűek: a speciális, bemeneti szakmai kompetenciákat tartalmazó modulok
 
-Teljes művek, műrészletek szöveghű fölidézése (négy-öt vers feldolgozott művekből, egy-egy 15-20 soros próza- vagy drámarészlet).
+Összesen beépíthető időkeretük: 670 óra (66%)
 
-Idézetek alkalmazása célnak és a szövegkörnyezetnek megfelelőn szóban és írásban, a forrás megjelölése.
+▪ Pályaorientáció három szakmacsoportra (90 óra szakmacsoportonként, összesen 270 óra)
 
-Fogalmak
+▪ Szakmai alapozás, ezen belül:
 
-Népszerű irodalom: lektűr, ponyva; epikai szerkezet, drámai szerkezet, monológ, dialógus, tragédia; szatíra, fantasztikum, szimbólum.
+° Szakmai kommunikáció
 
-Szerzők és művek
+° Szakmai idegen nyelvi kommunikáció
 
-Ady Endre: Párisban járt az ősz, Szeretném, ha szeretnének és még egy vers; Babits Mihály, egy-két műve; József Attila: Ringató és még két vers, köztük egy választhatóan A Dunánál, Elégia, Levegőt!; Karinthy Frigyes: Tanár úr kérem (egy részlet); Kosztolányi Dezső egy-két műve; Móricz Zsigmond: Légy jó mindhalálig vagy más regénye, vagy egy regényrészlete és egy novellája; Tamási Áron: Ábel a rengetegben (a regény felépítése és egy részlete); négy-öt vers a mai magyar irodalomból, például Áprily Lajos, Illyés Gyula, Nagy László, Nemes Nagy Ágnes, Szilágyi Domokos és mások műveiből egy-egy; a világirodalom egy-két alkotása.
+° Szakirányú alapozás
 
-A továbbhaladás feltételei
+Kötelezően választható minden szakmacsoportban (a helyi tantervben meghatározottak szerint) a szakmai orientációs szakaszban három szakmacsoport pályaorientációja és a szakmai alapozás szakaszban egy szakmacsoport szakmai alapozása.[^28]
 
-A köznyelv, a tanult szaknyelv, a társalgás és a szleng szókészletében meglévő eltérések felismerése és a kommunikációs helyzetnek megfelelő használatuk.
+Az arányok és az időkeret betartása mellett lehet növelni vagy csökkenteni a kötelező és a kötelezően választható modulok időtartamát, átemelhetők más szakmacsoportokban kidolgozott projektek is a tanulók egyéni haladási ütemének biztosítása érdekében (lásd még: 6. pont).
 
-Tájékozottság az alapvető tömegkommunikációs műfajokban, a média szerepének és hatásának felismerése.
+Szabadon választható modulok:
 
-A szöveg értő befogadását biztosító olvasás, különféle műfajú szövegek kifejező felolvasása, memoriterek elmondása. A tanulmányokhoz szükséges eszközszintű íráskészség, jól olvasható esztétikus írás. A feldolgozott művekről, olvasmányélményekről, színházi előadásról összefoglalás készítése a témának, a kommunikációs alkalomnak megfelelő stílusban felelet vagy rövid írásos beszámoló formájában. A megismert műfajok stíluseszközeinek megnevezése tárgyszerűen a tanult szakkifejezésekkel, jellemzésük példákkal. Az olvasott művekben megjelenített emberi problémák bemutatása önálló véleménynyilvánítással. Ismeretek a magyar irodalom nagyobb korszakairól (reformkor, a XX. század első és második fele), néhány alkotó portréja, az olvasott művek elhelyezése a korban.
+Összes időkeretük: 74 óra
 
-A népszerű irodalom néhány gyakori műfajának ismerete, hatáskeltő eszközeik jellemzése.
+Fontos, hogy a szabadon választható modulok olyan kompetenciák megszerzését tegyék lehetővé, amelyekre feltehetően szüksége lesz a tanulóknak a szakképzésbe lépéshez vagy a mindennapi felnőtt életben, a munka világában.
 
-A leíró nyelvtani ismeretek rendszerezése: hangtani, szó- és alaktani, jelentéstani, mondattani jelenségek fogalmi szintű megnevezése, elemzése egyszerűbb esetekben, a szórend és a jelentés összefüggésének fölismerése. Mondattani nyelvhelyességi ismeretek alkalmazása szóban és írásban. Az idézés, a párbeszéd, a központozás helyesírása.
+A szabadon választható modul lehet:
 
-A gyakrabban használt mindennapi hivatalos iratok jellemzőinek ismerete.
+▪ Az iskola saját fejlesztéseként a helyi tantervben rögzített választható modul,
 
-Tájékozottság a magyar nyelv eredetéről, helyéről a világ nyelvei között.
+▪ a Kerettanterv szakiskolák számára (2001) kínálatából választható modul,
 
-Jártasság az önálló könyvtári munkában, a tárgyi katalógus használatában.
+▪ az SZFP „A” komponens közismereti moduljai közül választható, adaptált elem.
 
-Színházi előadás megtekintésének élménye alapján beszámoló készítése. Részvétel az improvizációs játékokban.
+Így a tanulók számára ezzel együtt heti 27,5 + 2=29,5 óra lehet a teljes tanítási idő.
 
-Szempontok a tanulók teljesítményének értékeléséhez
+A szakképzést előkészítő évfolyam programja a képzési szakaszokon belül a következő modulokból épül fel:
 
-A továbbhaladás feltételei c. részben megfogalmazottak nem a minimum követelményt tartalmazzák, semmiképpen sem azonosak az elégséges/elégtelen határok megvonásával. E részlet célja elsősorban a legfőbb képzési feladatoknak, a fejlesztés csomópontjainak a megnevezése az évi anyagban. Tájékoztatásul szolgálhat arra, hogy amíg az osztály ezeket a követelményeket nem tudja teljesíteni, addig a szabadon tervezhető 20%-os keret terhére ne új anyagot tervezzen a szaktanár, hanem ezeket gyakoroltassa akár az egész osztállyal, akár differenciáltan az elmaradt tanulókkal.
+Alapkészségek fejlesztése
 
-A teljesítmények értékelésében fontos szempont a fogalmak ismeretének fokozatos, az életkori teljesítőképességhez szabott megkövetelése. Az 5–6. évfolyamon a nyelvtani és irodalmi fogalmak fölismerése a követelmény, a 7–8. évfolyamon már a megnevezésük fogalmi magyarázat (definíció) formájában, valamint az ismeretek önálló alkalmazása feleletben, írásbeli munkákban és a saját munkája fokozatos önkontrollja.
+Alapkészségek fejlesztése: írás, olvasás, számolás
 
-A tanulói teljesítmény értékelésének legfőbb szempontja a szövegértésben és szövegalkotásban (beleértve az olvasási és íráskészséget, az írásbeli munkák helyesírását is) az évfolyamon megkövetelhető szint elérése, a tanultak önálló biztonságos felhasználása az irodalmi és az ismeretterjesztő művek feldolgozásában, az irodalmi és a személyes élmény megfogalmazásában; gyakorlati írás- és beszédkészség a mindennapi élet és a tanulmányok változatos kommunikációs helyzeteiben. Az eddig bevált feladattípusok mind alkalmazhatók a részképességek értékelésére, de a tudás évfolyamonkénti mérésére elsősorban olyan írásbeli és szóbeli komplex feladatok alkalmasak, amelyek a kerettanterv legfőbb törekvéseivel összhangban a tanult ismeretanyag visszaadásán túl lehetőséget adnak a nyelvi kreativitás, a személyes élmény és vélemény megnyilvánulására is.
+Számítástechnikai alkalmazás
 
-A 8. évfolyamon elvárható legalább egy téma, résztéma adatgyűjtésen (könyvtári búvárkodáson) alapuló önálló kidolgozása szabadon választott vagy adott témában és/vagy műfajban (beszámoló, olvasónapló, kiselőadás, előre elkészített hozzászólás, műsorrészlet stb.).
+Általános szóbeli kommunikáció
 
-TÖRTÉNELEM ÉS ÁLLAMPOLGÁRI ISMERETEK
+Tanulásmódszertan
 
-HON- ÉS NÉPISMERET
+Szocializáció
 
-5–8. évfolyam
+Személyiségfejlesztés, önismeret
 
-Célok és feladatok
+Pályaorientáció
 
-A történelem – mint múltismeret – a társadalom kollektív memóriájaként az emberi azonosságtudat egyik alapja. A nemzeti; az európai és az egyetemes emberi identitást formálja, erősíti. A történelemből ugyanakkor az is kitűnik, hogy az egyes népek, nemzetek kölcsönösen egymásra vannak utalva. A kölcsönös függőség megértése átfogó világtörténelmi látásmódot, a különbségek tudomásul vétele a kultúrák sajátos értékeinek és érdekeinek megismerését és tiszteletben tartását kívánja.
+Pályaorientáció
 
-A tantárgy feladata elsősorban a történelmi szemlélet fejlesztése. Annak tudatosítása, hogy a széles értelemben vett emberi műveltség minden eleme felhalmozási folyamat eredménye. A történelem és állampolgári ismeretek tantárgy célja ebből következően az, hogy megértesse a folyamatosság és a változás-változtatás történelmi szerepét, és ezen keresztül mutassa meg, hogy minden nemzedéknek megvan a maga felelőssége a történelem alakításában. Mindez a jelen ellentmondásos folyamataiban való eligazodást is szolgálja.
+Szakmai alapozás
 
-Az általános iskolai munkának a múltat élményszerűen megjelenítő történetek tanításán kell alapulnia. A 10–12 éveseket általában a konkrét gondolkodás jellemzi. Az 5–6. évfolyamos tanulók a történelmi tényeket, fogalmakat, összefüggéseket a megelevenített eseményekből és jelenségekből – a történetekből – kiindulva érthetik meg a legkönnyebben. A történet a múlt színes, sodró valóságának szintézise, amely az elmúlt korokat átélhetővé, érzékelhetővé, szemlélhetővé teszi. Ezt a képszerűen megjelenített múltat már az 5–6. évfolyamokon is elemzés tárgyává kell tenni, le kell vonni a megfelelő következtetéseket, általánosításokat, és azokat bele kell helyezni a történelmi ismeretek rendszerébe. A történettanítás tehát nem helyettesíti, csupán megalapozza a történelemtanítást.
+Szakmai kommunikáció
 
-A 7–8. évfolyamok történelemtanítása – a korábbi évfolyamok eredményeire támaszkodva – a múlt valóságát összetettebben, teljesebben, az általánosítás magasabb szintjén, sokoldalúbb történelmi összefüggésekbe ágyazva dolgozza fel. Ezeken az évfolyamokon a történelmet már nemcsak a jellemző életképek bemutatásával, hanem a kiemelkedő események fonalára fűzve, történetileg tanítjuk. Alkalmazkodva az adott fejlődési szinthez a képszerű megjelenítésre – a történettanításra – azonban ekkor is szükség van. Mindezek együtt alkalmassá tehetik a tanulókat arra, hogy a történelem megismerésének, elemzésének alapvető módszereit elsajátítsák.
+▪ anyanyelvi
 
-A tantárgy tanulása során a tanulók megismerkednek a hagyományos paraszti kultúrával és értékrenddel, megfigyelik és megismerik a természet közelben élő a természetet tisztelő, és felhasználó ember életét, legfontosabb szokásait.
+▪ idegen nyelvi
 
-A tanulóknak arra is szükségük van, hogy a múlt ismerete mellett megértsék saját korukat. Az állampolgári ismeretek tanításának célja, hogy a diákok el tudjanak igazodni a jelen bonyolult közéletében, értsék a jogilag szabályozott demokratikus viszonyok rendszerét, működését. Így a tantárgy tanítása alapot ad a demokratikus közéletben való tudatos részvételhez.
+Szakirányú alapozó
 
-Fejlesztési követelmények
+6. Javaslatok a szakképzést előkészítő évfolyam helyi tantervének elkészítéséhez a pedagógiai rendszer és kerettanterve alapján
 
-A történelem és állampolgári ismeretek tantárgy fontos szerepet játszik az ismeretszerzési és -feldolgozási képességek kialakításában és fejlesztésében. Szükséges, hogy a tanulók ismereteket szerezzenek saját emberi-társadalmi környezetükből, történetekből, képekből, a tömegkommunikációs eszközökből, egyszerű statisztikai adatokból, grafikonokból, diagramokból, tárgyi és szöveges forrásokból és más ismerethordozókból. Fontos, hogy ezeket az ismereteket egyre önállóbban és egyre kritikusabban értelmezzék, s belőlük következtetéseket tudjanak levonni.
+Oktatási program, programcsomag, pedagógiai rendszer
 
-A tananyag-feldolgozás folyamatában a diákok sajátítsák el a sokoldalú információgyűjtés és -felhasználás képességét, a legfontosabb kézikönyvek, lexikonok, atlaszok használatát. Legyenek képesek a legfontosabb történelmi fogalmak és kifejezések készségszintű alkalmazására.
+A tanítás-tanulás megtervezését-megszervezését segítő, választható dokumentumok, szakmai eszközök rendszere. Beszélhetünk átfogó, egy vagy több műveltségi területre, tantárgyra kiterjedő programokról. A tantárgyi program jellegzetes komponensei a következők. (1) Kerettanterv: tartalmazza a tantárgy céljait, a követelményeket témákhoz, évfolyamokhoz vagy hosszabb ciklusokhoz rendelve, az értékelés elveit, továbbá kijelöli és az időben elrendezi a tananyagot. (2) Pedagógiai koncepció, mely összefoglalja, esetleg elméletileg is megalapozza azokat a pedagógiai elveket, amelyeken a program alapul. (3) Modulleírások: részletes leírást adnak egy-egy téma feldolgozásának menetéről, mindenekelőtt a tanulói tevékenységekről és az ajánlott eszközökről. (4) Eszközi elemek, amelyek lehetővé teszik a tervezett tevékenységek megvalósítását: (a) információhordozók: tankönyvek, szövegek, képek, filmek, hanghordozók, makettek, CD-k stb., (b) feladathordozók: munkafüzetek, feladatlapok stb., (c) a kettő kombinációi: szoftverek stb. (5) Értékelési eszközök, amelyek elősegítik a tanulói teljesítmények, a tanulói fejlődés ellenőrzését és értékelését. (6) Továbbképzési programok, melyek során felkészítik a pedagógusokat a program alkalmazására. (7) Támogatás: tanácsadás és programkarbantartás a fejlesztő műhely részéről. A szóhasználatot differenciáltabbá tehetjük, ha programnak az (1), (2), (3) és (4) pontban felsorolt komponenseket nevezzük, programcsomagról akkor beszélünk, ha ezek kiegészülnek az (5) ponttal. A pedagógiai rendszer pedig a (6) és (7) pontokat is tartalmazza. (in: NAT szótár)
 
-A különböző információk feldolgozása során legyenek képesek különbséget tenni tények és vélemények között, tanulják meg az információt kritikusan szemlélni, a történelmi-társadalmi jelenségek összefüggéseit megkeresni, e jelenségeket összehasonlítani.
+Helyi tanterv
 
-Konkrét ismeretekhez kapcsolódóan ismerjék fel a folyamatosság és a változások szerepét a történelmi, társadalmi folyamatokban, tudatosítsák, hogy a folyamatosságnak, az értékek megőrzésének nagy szerepe van a társadalom életében. A tananyag feldolgozása során ismerjék meg azokat az alapvető elemzési, értelmezési szempontokat, módszereket, amelyek segítségével képesek lesznek kialakítani véleményüket személyekről, helyzetekről, eseményekről, intézményekről. Ennek alapján véleményüket egyre árnyaltabban tudják megindokolni.
+Az a tanterv, melyet egy iskola pedagógiai programjában kitűzött céljainak, alapelveinek megfelelően kiválaszt/összeállít. A követelmények és a tananyagok (ezek időbeli elrendezése és a hozzárendelt eszközök rendszere) az iskola hagyományos klienseinek elvárásait és fejlesztési prognózisát teljesítik. Helyi jellegét az adja, hogy legitimációjában szerepet játszik a helyben érintettek megegyezése, a nevelőtestület elfogadó döntése, a klientúra támogató véleménye, a fenntartó jóváhagyó döntése. (Másodlagos, de nem elhanyagolható jellemzője, hogy a helyi kultúra elemeit is az elfogadott mértékben tartalmazza. A helyi kultúrán a helyi társadalom tradícióit és jövőképét egyaránt értjük.)
 
-A történelemtanításnak-tanulásnak a tanulók szóbeli és írásos kifejezőképességének fejlesztésében is jelentős szerepe van. A tanulók szerezzenek gyakorlatot események elbeszélésében, különféle szövegek reprodukálásában. Tanuljanak meg írásban válaszolni szóbeli és írásbeli kérdésekre, vázlatot, felelettervet írni, jegyzetelni. Legyenek képesek rövid beszámolót, kiselőadást tartani egy-egy témáról különböző információk alapján. Sajátítsák el a kulturált vita technikáit és szabályait. Véleményüket lényegre törően és érvekkel alátámasztva fejtsék ki. Ugyanakkor legyenek képesek a másik fél véleményét is pontosan megérteni és figyelembe venni hozzászólásaikban.
+(in: NAT szótár)
 
-A történelemi események időben és térben játszódnak, hatékony történelmi tudat nem alakulhat ki időbeli és térbeli tájékozódási képesség nélkül. Ennek gyakorlására ezért mind a négy évben folyamatosan szükség van. Az évszámok segítségével történő tájékozódó képesség fejlesztése mellett a tanulóknak el kell sajátítaniuk az idő tagolásának módszerét. A tanulóknak az eseményeket térben is el kell tudni helyezniük. Gyakorlatot kell szerezniük különböző méretarányú térképek olvasásában és annak megítélésében, hogy a földrajzi környezet hogyan hat egy-egy ország, térség fejlődésére.
+6.1. A helyi tantervbe építendő elemek
 
-5. évfolyam
+Az iskolának választani kell az oktatandó szakmacsoportok között, azaz hogy melyik szakmacsoport szakmai alapozását végzi (többet is választhat). Ezután a modultérkép ábrája szerint építi fel helyi tantervét.
 
-Évi óraszám: 74
+A helyi tantervbe be kell építeni[^29] a pályaorientáció képzési szakaszban az adott iskola profiljának megfelelő (vagy a képzés feltételeivel rendelkező) legalább három szakmacsoport pályaorientáció moduljait és a hozzájuk tartozó, projektekre kidolgozott Moduláris projekt alapú tanulási útmutatókat. A NAT 2003-ban foglalt műveltségi területeknek való megfelelés érdekében be kell építeni kötelezően a modulokba (azok időkeretébe beszámítva) a mindennapos testnevelés időkeretét is minden tanuló számára, valamint az iskolai egészségfejlesztéssel, fogyasztóvédelemmel, környezetvédelemmel összefüggő feladatok végrehajtására is biztosítani kell a szükséges helyi tanterv szerinti időkeretet és tanítási tartalmakat! Ezt az iskoláknak a helyi tantervükben kell meghatározniuk.
 
-Belépő tevékenységformák
+A modultérkép és a kompetenciatáblázatok figyelembe vételével a pedagógusok a tanulók egyéni fejlesztési tervének megvalósítása, egyéni haladási ütemének biztosítása érdekében, valamint az adott intézmény képzési profiljának megfelelően választhatnak az egyes Moduláris projekt alapú tanulási útmutatók közül, amennyiben azok a képzési időtartamba beilleszthetők és a szakmacsoportos kompetencia táblázatnak megfelelő kompetenciák elsajátítását biztosítják a tanulók számára.
 
-Ismeretszerzési és feldolgozási képességek
+6.2. A projekt alapú éves fejlesztési tervben[^30] továbbfejleszthető elemek
 
-Képi információk gyűjtése.
+Természetesen sokféle projekt alapú éves fejlesztési terv készíthető. A projekt alapú éves fejlesztési terv legfontosabb kritériumai:
 
-Lelet és rekonstrukció összevetése.
+▪ kompetenciafejlesztést valósít meg,
 
-Rekonstrukciós rajzok és néprajzi képi források összehasonlítása.
+▪ „A” és „S” modulokat fed le,
 
-Az egyes korszakok jellemző tárgyainak, szerkezetek működésének felderítése, ismertetése.Tájékozódás könyvtárban az egyes történelmi személyiségekkel, eseményekkel kapcsolatos gyermekirodalomban.
+▪ projektmódszeren alapuló, differenciált oktatásszervezés valósul meg, ami szervezhető csoportmunka formájában is,
 
-Párhuzamok keresése a megismert történelmi élethelyzetek, események és mai éltünk között.
+▪ személyre szóló fejlesztést is lehetővé tesz (egyéni tanulási utak),
 
-Annak felderítése, hogy milyen környezeti változások erednek az ókorból.
+▪ gyakorlatorientált,
 
-Információk gyűjtése a tankönyv és olvasókönyv szövegéből.Annak felismerése, hogy a gondolatok rögzítésének, az írás feltalálásának milyen jelentősége volt az emberiség történetében.A tanári elbeszélés megjegyzése.Képi és szöveges információk együttes kezelése.Képek jellemző vonásainak kiemelése, rendszerezése.
+▪ rugalmas programszerkezetű: a tanuló bármikor bekapcsolódhat és kiléphet, egyéni haladási ütemre van lehetősége.
 
-Kifejezőképességek
+Fejléc javaslat projekt alapú éves fejlesztési tervhez
 
-Történelmi személyiségek jellemzése.
+| Hónap, hét | A megvalósí- táshoz szükséges óraszám | A modul, azon belül a projekt megnevezése | A projekt „terméke” | Kapcsolódó modulok | Fejlesztendő kompetenciák | Mérendő kompetenciák |
 
-Kérdés megfogalmazása egy-egy történelmi témáról.
+Továbbfejleszthetők a moduláris projekt alapú tanulási útmutatók következő elemei:
 
-A megismert történelmi fogalmak alkalmazása élőbeszédben.
+▪ Az Összefoglaló, tájékoztatóban a projekt neve, amennyiben a pedagógusok
 
-Rajz, festmény, modell készítése történelmi eseményről, helyszínről, élethelyzetről.
+(1) más projektek kidolgozását vállalják, vagy
 
-Történelmi személyek vagy csoportok konkrét tetteinek megokolása.
+(2) amennyiben a pedagógusok választanak az ajánlott modulok más projektjei közül.
 
-Történelmi szituációk eljátszása, megjelenítése.
+▪ Tovább kell fejleszteni a projektet,
 
-Egyszerű írásos források szövegének megértése, értelmezése tanári segítséggel.
+(3) ha a tanuló lassúbb egyéni haladási üteme megkívánja.
 
-Történetek mesei és valóságos elemeinek megkülönböztetése tanári segítséggel.
+Az (1) esetben ki kell dolgozni a teljes moduláris projekt alapú tanulási útmutatót, amely tartalmazza az összes, az előzőekben felsorolt tartalmi elemet (új fejlesztése).
 
-Tájékozódás időben
+A (2) esetben egyszerűen beilleszthető a modulba a választott másik projekt (csere). Ügyelni kell azonban arra, hogy az új projekt tartalmazza azoknak a kompetenciáknak a fejlesztését, amelyek a szakmacsoportban előírtak, valamint igazodjon az időtartam és mérhető legyen az eredeti projekt során elsajátítandó összes kompetencia. Ha valamelyik hiányzik, át kell alakítani a hiányzó kompetencia eléréséhez a részletes projektmunkatervtől kezdve a többi elemet (bővítés) és a változtatást fel kell tüntetni az összefoglaló, tájékoztató megfelelő részeinél is.
 
-Történelmi események időrendbe állítása.
+A (3) esetben a tanulók egyéni fejlesztési tervének megfelelően a választott következő moduláris projekt alapú útmutató projektjének (projektjeinek) azokat az elemeit kell megváltoztatni (bővítés), amelyek annak a kompetenciának a megszerzését segítik, amelyet a tanuló a korábbi projektben nem szerzett meg.
 
-Az őskor és ókor megkülönböztetése. A jelen, a múlt és a régmúlt megkülönböztetése. A Kr.e., Kr.u., illetve az évtized, évszázad, évezred fogalmak megértése, gyakorlása.
+Ilyen elemek lehetnek részben vagy egészben: az Összefoglaló, tájékoztatóban rögzített Mérendő kompetenciák, Fejlesztendő/Kapcsolódó kompetenciák. Ennek megfelelően változnak a részletes projektmunkatervből az ismerettartalmak, feladatok, szükséges eszközök, anyagok, A végrehajtás módja – különös tekintettel a csak ajánlott rendelkezésre álló időtartamra. Megfelelően kell megfogalmazni a Teljesítés kritériumát és a biztonsági előírásokat is. Ezt követően át kell tekinteni, hogyan bontható tovább a részletes projektmunkaterv Tanulási projektleírásokra (a projektfeladatoknak megfelelően a bővített tanulói tevékenységek meghatározása) és a tanulási tevékenységeket támogató elemeket is ki kell dolgozni (Információs lap, Önellenőrzési feladat, Megoldókulcs). A Teljesítményértékelés első része is átalakítandó: a Tanulói teljesítményértékelő lap az átalakított projekt fő tevékenységeit tartalmazza.
 
-Tájékozódás térben
+A Tanári teljesítményértékelő lap(ok) nem változtatható részei: a kompetencia betűjele, száma, megnevezése, mert ennek egyezni kell az Összefoglaló, tájékoztató részben felsorolt kompetenciákkal.
 
-A kerettantervben felsorolt helyekhez események kapcsolása.
+Amennyiben a tanuló a Tanári teljesítményértékelő lap szerint nem sajátította el a kitűzött kompetenciát, annak fejlesztését és mérését be kell építeni a képzési idő alatt más projektbe (lásd: 3. pont)! Ebben az esetben a tanuló halad a társaival együtt (nem kell külön projektet kidolgozni a számára), de a nem teljesített kompetenciának megfelelő tanulási tevékenységeket gyakoroltatni kell vele (beépíteni a tanulási projektleírástól kezdődően végig minden útmutató elembe a számára átadott útmutató lapokon) és azt a kompetenciát a projekt befejezésekor újra kell mérni (2. kísérlet), a többi új, ott megszerzett kompetencia mellett. Tulajdonképpen az ismétlés-alkalmazó gyakorlás – mint didaktikai feladat – megvalósítása történik a tanulói tevékenységek bővítésén keresztül.
 
-Az események helyszíneinek megnevezése.
+Végül ki kell emelni, hogy az ún. „keresztmodulokban” (általános kompetenciákat tartalmazó modulok) lévő kompetenciák többsége a gyakorlatban folyamatos fejlesztést igényel a képzési idő alatt, ezért mindig komplex feladatokat kell tervezni a megfelelő szint elérése érdekében, még akkor is, ha már mértünk egy-egy kompetenciát. Pl. a szóbeli kommunikáció kompetenciáinak fejlesztése végigvonul az egész képzési idő alatt.
 
-A kerettanterv követelményeiben felsorolt helyek felismerése, megmutatása különböző méretarányú térképen.
+(3) Modulok, moduláris projekt alapú tanulási útmutató
 
-Távolságbecslés különböző léptékű térképeken, számítás.
+Bevezetés
 
-A földrajzi és a történelmi atlasz összehasonlítása az egyes időszakoknak és helyszíneknek megfelelően.
+A szakképzést előkészítő évfolyam programja kompetencia alapú képzés. Ez azt jelenti, hogy a tanulóknak a képzés végén nem tantárgyakból, illetve ismeretekről kell számot adniuk, hanem meghatározott kompetenciákkal kell rendelkezniük. A kompetenciák igazodnak a szakmacsoportos felosztáshoz, ezért a kompetenciák szakmacsoportonként bizonyos mértékben eltérnek egymástól.
 
-Térképolvasás a térkép grafikái és a megismert térképjelek segítségével.
+A szakmacsoportonként meghatározott kompetenciák modulokba rendeződnek. A modulokból épülnek fel a képzési szakaszok. A program négy képzési szakaszokból áll:
 
-| Témakörök | Tartalmak |
+▪ Alapkészségek fejlesztése
 
-| Élet az őskorban | Az ősember nyomai a Földön.Hogyan élt a gyűjtögető, halászó, vadászó ember.A földművelő és az állattenyésztő ember.Az első mesterségek és a csere kialakulása.Természeti népek napjainkban.Varázslat és művészet.Fogalom: őskor, ősember, régészet, eszközhasználat és eszközkészítés, munkamegosztás, gyűjtögetés, vadászat, halászat, földművelés, állattenyésztés, termelés, kézművesség, csere, mágia (varázslat) |
+▪ Szocializáció
 
-|  | Évszám: nagyon régen, régen |
+▪ Pályaorientáció
 
-| Az ókori Kelet világa | A történelem korszakai. Egyiptom, „a Nílus ajándéka”. A rejtélyes piramisok. Történetek Mezopotámiából. Az írás kialakulása, Mítoszok és mondák az ókori keletről. |
+▪ Szakmai alapozás
 
-|  | Fogalom: ókor, öntözéses földművelés, fáraó, piramis, építészet, szobrászat, múmia, hieroglifa, többistenhit, város, birodalom, ékírás |
+A szakképzést előkészítő évfolyam programja egyúttal projekt alapú képzés is, amely azt jelenti, hogy a tanulók a kompetenciákat alapvetően a projektmódszer révén sajátítják el.
 
-| Helynév: Egyiptom, Nílus, Mezopotámia, Tigris, Eufrátesz |
+I. Modulok
 
-| Évszám: kb. 5000 éve |
+A modulok megnevezése szakmacsoportonként egységes, tartalmuk a szakmacsoportok sajátosságainak megfelelően tér el egymástól.
 
-| Ószövetségi történetek | A Biblia. Bibliai tájak. Ószövetségi történetek. |
+A modulok kapcsolódási pontjait, illetve időrendi sorrendjét a szakmacsoportonkénti modultérkép határozza meg. A modultérkép tartalmazza továbbá a belépési feltételeket is, amelyek a következők:
 
-| Fogalom: Biblia, Ószövetség, egyistenhit |
+▪ Be nem fejezett általános iskolai tanulmányok esetén az adott évben a 15. életév betöltése
 
-| Név: Ádám, Éva, Noé, Mózes, Dávid vagy Salamon |
+▪ Alapfokú iskolai végzettség esetén betöltött 16. életév
 
-| Helynév: Jeruzsálem |
+▪ Alapfokú iskolai végzettség, ám be nem töltött 16. életév esetén a továbbtanulási, pályaválasztási tanácsadó javaslata
 
-| Az ókori görögök életéből | Történetek a görög mondavilágból. Görög istenek és az olimpiai játékok. Görög városállamok: Athén és Spárta. Hősök és csaták. Athén Periklész korában. Az athéni népgyűlés. Történetek Nagy Sándorról. |
+A modultérkép tartalmazza szakképzést előkészítő évfolyam programjának fő célkitűzését, a tanuló szakképzési évfolyamra történő belépését is.
 
-| Fogalom: városállam, piac, kereskedelem, népgyűlés, démosz, demokrácia, mítosz, színház |
+II. Moduláris projekt alapú tanulási útmutató
 
-| Név: Zeusz, Pallasz Athéné, Dareiosz, Xerxész, Miltiádész, Periklész, Nagy Sándor |
+A Moduláris projekt alapú tanulási útmutató tartalmazza a tanulási folyamathoz a tanuló számára szükséges valamennyi információt. Így tartalmazza különösen
 
-| Helynév: Olümposz, Olümpia, Athén, Spárta, Perzsa Birodalom, Alexandria |
+▪ A kapcsolódó modulok megnevezését
 
-| Évszám: kb. 2500 éve |
+▪ A mérendő és a fejlesztendő/kapcsolódó kompetenciák megnevezését
 
-| Az ókori Róma évszázadai | Mondák Róma alapításáról, a királyságról és a köztársaságról. Hadvezérek és csaták: a pun háborúk történetéből. Szabadok és rabszolgák. Julius Caesar és hadserege. Történetek Augustusról. Egy ókori nagyváros: Róma – vízvezetékek, fürdők, amfiteátrumok, bérházak. A rómaiak Magyarország területén. A népvándorlás viharában. |
+▪ Az előfeltételek meghatározását
 
-| Fogalom: királyság, köztársaság, rabszolga, gladiátor, császár, provincia, amfiteátrum, barbár, népvándorlás |
+▪ A részletes projektmunkatervet
 
-| Név: Romulus, Hannibál, Julius Caesar, Augustus |
+▪ A tanulási projektleírást
 
-| Helynév: Itália, Róma, Karthágó, Római Birodalom, Pannónia, Aquincum (és egy lakóhelyhez közeli római kori település) |
+▪ Az információs lapot
 
-| Évszám: kb. 1500 éve |
+▪ Az önellenőrzési feladatot
 
-| A kereszténység születése | Történetek Jézus életéről. A kereszténység fő tanításai. A keresztény időszámítás. |
+▪ Az önellenőrzési feladat megoldókulcsát
 
-| Fogalom: keresztény, evangélium, megváltó, apostol, vallás, egyház, püspök |
+▪ A teljesítménymérés szempontjait
 
-| Név: Jézus, Mária, József |
+A Moduláris projekt alapú tanulási útmutató projektenként készül, figyelembe véve az adott szakmacsoport jellegzetességeit. Minden szakmacsoportban annyi projekt, illetve ennek megfelelően Moduláris projekt alapú tanulási útmutató áll rendelkezésre, amennyi a szakképzést előkészítő évfolyam egyéves (tíz hónapos) képzési idejét lefedi.
 
-| Helynév: Betlehem |
+A Moduláris projekt alapú tanulási útmutató az alábbi részekből épül fel:
 
-| Évszám: 476 |
+1. Összefoglaló, tájékoztató
 
-| A magyar történelem kezdetei Hagyomány ismeret Mélységelvű témák | A magyar nép eredete: mondák és valóság. Az Uráltól a Kárpát-medencéig.A honfoglalás. |
+Általános ismertető a tanuló számára, amely a következő egységekre bomlik.
 
-| Fogalom: finnugor, őshaza, nomád pásztorkodás, nemzetség, törzs, törzsszövetség, fejedelem, táltos, honfoglalás |
+Fejléc
 
-| Név: Álmos, Árpád |
+A Fejléc tartalmazza:
 
-| Helynév: Urál, Volga, Levédia, Etelköz, Vereckei-hágó, Kárpát-medence Évszám: 895 |
+▪ A képzési program címét – ez minden esetben a Szakképzést előkészítő évfolyam programja.
 
-| Házak, háztípusok Élet a házban Munkamegosztás Ünnepek, ünnepkörök A tanév során az alábbi témák közül legalább egyet részletesebben, nagyobb időkeretben kell feldolgozni: Az írás kialakulása, fajtái, fejlődése Nagyvárosi kultúra a Római Birodalom területén Hajó és kereskedelem a főníciaiaktól a rómaiakig. |
+▪ A modul nevét, amelyhez a projekt kapcsolódik – ez lehet egy vagy több modul, attól függően, hogy melyek a projektben mérendő, illetve fejlesztendő/kapcsolódó kompetenciák (lásd a következő két pontot). Amennyiben az alábbiakban felsorolt kompetenciák több modulhoz is kapcsolódnak, úgy valamennyi olyan modul szerepel itt, amelyhez az adott kompetencia tartozik. A megadott modulok más képzési szakaszba is tartozhatnak.
 
-| Mindennapi élet, életmódtörténet | A tanév során az alábbi témák közül legalább egyet kötelező feldolgozni: Gyűjtögető, halászó, vadászó életmódot folytató népek napjainkban. A család és a gyermek az ókori Görögországban és napjainkban. |
+▪ A projekt nevét.
 
-A továbbhaladás feltételei
+Mérendő kompetenciák
 
-A diák tudjon különbséget tenni a történelem forrásai (tárgyi, írásos, szóbeli) között. Tudja, hogy a tanult történetek közül melyik történt előbb, melyik később, mennyivel – a kerettantervben megadott lépték szerint. Tudja, hogy az egyes történetek eseményeihez milyen nevek, helyszínek kapcsolhatók. Tudjon tanult történetet elmondani kérdések alapján a kerettantervben megjelölt fogalmak felhasználásával. Tudja a tanult történetek eseményeinek helyszíneit különböző léptékű térképeken megmutatni. Tudjon kérdéseket feltenni a tanult történetekhez. Tudjon különbséget tenni a történetek mesei és valóságos eseményei között. Tudjon elvégezni egyszerű kronológiai számításokat.
+Ebben az egységben azok a kompetenciák találhatók, amelyeket a projekt során meg kell mérni. A mérendő kompetenciák fejlesztése korábbi projektek keretében is megkezdődhetett, ám azokat akkor nem kellett mérni. Az egyszer megmért és a teljesítménymérés során elismert kompetenciákat a továbbiakban nem kell mérni, azokat a továbbiakban adottnak kell venni. A megmért és elismert kompetenciák a későbbiekben fejleszthetők, illetve „szinten tarthatók”.
 
-6. évfolyam
+Fejlesztendő/Kapcsolódó kompetenciák
 
-Évi óraszám: 74
+Ebben az egységben azok a kompetenciák találhatók, amelyeket a projekt során nem kell megmérni, ugyanakkor beépültek a projektbe. A tanuló ezekben a kompetenciákban még nem érte el az elismeréshez szükséges szintet. A fejlesztendő/kapcsolódó kompetenciák a fejlécben megadott modulok valamelyikébe tartoznak.
 
-Belépő tevékenységformák
+Bevezetés
 
-Ismeretszerzési és feldolgozási képességek
+Rövid, néhány soros, mondatos ismertető a tanuló számára, amelynek célja a tanuló motiválása, figyelmének felkeltése a projekt iránt. Bemutatja a legfontosabb tanulói tevékenységeket.
 
-Képi információk gyűjtése egy adott témáról.
+A projekt célkitűzése(i)
 
-Korabeli építészeti és tárgyi emlékek megfigyelése eredeti helyükön.
+Ez az egység egymondatos, tömör megfogalmazása annak, hogy a tanulónak mit kell elvégeznie a projekt végére.
 
-Korabeli használati tárgyak, leletek funkcióinak, használatának felismerése.
+A projektfeladatokban végzendő fő tevékenységek bemutatása
 
-A középkorból eredeztethető környezeti változások felderítése tanári segítséggel.
+A projektfeladat a projekt olyan nagyobb része, amelynek elvégzése során egyes kompetenciák fejlődését vagy meglétét igazoló produktumot hozott létre a tanuló egyéni vagy csoportmunkában.
 
-Tájékozódás a korosztálynak készült a történelmi tárgyú lexikonok, enciklopédiák, ismeretterjesztő könyvek körében. Használatuk megismerése.
+Ez az egység ezért egymondatos, tömör megfogalmazása felszólító módban annak, hogy a tanulónak mit kell elvégeznie az egyes projektfeladatok végére.
 
-Egyszerűbb korabeli írásos források olvasása (legenda, krónika, históriás ének, emlékirat).A kerettantervben megjelölt személyiségek, fogalmak összekapcsolása.Egyszerű mennyiségi mutatók (lakosság, terület) gyűjtése, értelmezése.
+Előfeltételek
 
-A hírközlés kezdetei, a könyvnyomtatás jelentőségének felismertetése. A képek közti összefüggések felismerése, rendszerezése.Tárgyi és építészeti emlékek vizsgálata a velük kapcsolatos kérdésekre adandó válaszok útján. Oktatófilmek elemzése tanári segítséggel.
+Ebben az egységben azok a feltételek szerepelnek, ha vannak ilyenek, amelyek a projekt megkezdéséhez szükségesek.
 
-Egyszerű mennyiségi adatok összevetése.
+2. Részletes projektmunkaterv
 
-Vázlat készítése tanári segítséggel.
+A Részletes projektmunkaterv a táblázatos forma (lásd a következő bekezdést) fölött tartalmazza:
 
-A középkorból eredeztethető ma is élő népi hagyományok, szokások gyűjtése.
+▪ a projekt címét,
 
-Kifejezőképességek
+▪ a projekt végére előállítandó terméket (produktumot),
 
-A látott építészeti, tárgyi emlékek reprodukálása emlékezetből.
+▪ a projekt időtartamát.
 
-Kérdés és válasz megfogalmazása egy-egy történelmi témáról.
+A Részletes projektmunkaterv táblázatos formájú. A táblázat főbb szerkezeti egységei a projektfeladatok, amelyekhez az egyes oszlopok elemei is kapcsolódnak. A táblázat fejlécében az alábbi megnevezésű oszlopok szerepelnek:
 
-Összefüggő élőbeszéd gyakorlása megadott történelmi témáról a megismert fogalmak felhasználásával.
+Kompetenciák
 
-Adott korszakban, szituációban élt ellentétes történelmi személyiségek jellemzése
+Azok a kompetenciák, amelyeket a projekt megvalósítása során a tanulónak meg kell szereznie (lásd: mérendő kompetenciák), illetve amelyeket a projekt megvalósításával fejleszteni kell.
 
-Életképek összeállítása és megjelenítése adott témáról előzetes kutatómunka alapján, tanári segítséggel.
+Ismerettartalmak
 
-Kérdések megfogalmazása egyszerű korabeli írásos forrásokról, tanári segítséggel.
+Azok a tanuló által elsajátítandó ismeretek, amelyek nélkül az adott kompetenciá(ka)t a tanuló nem tudja megszerezni.
 
-Tájékozódás időben
+Feladatok
 
-A történetek alapján elkülöníthető korszakok jellegzetességeinek felismerése tanári segítséggel.
+A megnevezés a tanuló által a projektfeladatban elvégzendő feladatokat jelöli.
 
-A történelmi múlt jelenben való továbbélésének felismerése. Történelmi események időrendbe állítása.
+Szükséges eszközök, anyagok
 
-Annak gyakorlása konkrét példák segítségével, hogy a különböző területeken végbement események közül melyik történt előbb, melyik később.
+A megnevezés a tanuló által a projektfeladat elvégzéséhez szükséges eszközöket, anyagokat jelöli. Ide kell érteni a különböző „terepmunkák”, iskolán kívül végzendő tevékenységek helyszíneit is.
 
-Tájékozódás térben
+A végrehajtás módja
 
-A földrajzi elhelyezkedés és a történetekben megjelenő események összefüggéseinek felismerése tanári segítséggel.
+A végrehajtás történhet egyénileg, csoportban, párosan különféle módszertani technikák alkalmazásával.
 
-Országok területi változásainak megfigyelése különböző történelmi atlaszokon.
+A rendelkezésre álló időtartam
 
-| Témakörök | Tartalmak |
+A projektfeladat végrehajtására rendelkezésre álló időt jelöli. A projektfeladatonként megadott időtartamok összege megegyezik a projekt időtartamával.
 
-| Képek a középkori Európa életéből | Nagy Károly birodalmában. Az arab hódítás. A középkori egyház. A kolostorok világa: oklevelek, krónikák, legendák. Milyen volt a középkori uradalom és falu? Hűbérurak és hűbéresek. A középkori várak. A lovagi élet. A középkori városok. Céhmesterek és kereskedők. Európa a XV. században. |
+A teljesítés kritériuma
 
-| Fogalom: középkor, iszlám, kalifa, pápa, szent, ereklye, eretnek, kolostor, szerzetes, kódex, uradalom, robot, jobbágy, jobbágytelek, nyomásos gazdálkodás, hűbérúr, hűbéres, vár, lovag, középkori város, kiváltság, polgár, adó, vám, céh, járványok, távolsági kereskedelem, kereslet-kínálat Név: Nagy Károly, Mohamed, Szent Benedek, Szent Ferenc Helynév: Frank Birodalom, Arab Birodalom, Mekka, Bizánc, Német-római Császárság Évszám: 800 |
+Ebben az oszlopban – elsősorban a mérendő kompetenciához kapcsolódóan – az az elvégzendő tanulói tevékenység, illetve az ennek eredményeként megvalósult produktum szerepel, amellyel a tanuló az adott kompetencia megszerzését igazolja. A kompetencia elismerésének szempontjait a Tanári teljesítményértékelő lap (lásd: 7. pont) tartalmazza.
 
-| Magyarország az Árpádok idején | Letelepedés – kalandozó hadjáratok. Géza és I. István. István király udvarában. László és Könyves Kálmán. A tatárjárás. Kultúra az Árpád-korban. |
+Biztonsági előírások
 
-| Fogalom: kalandozás, vármegye, tized, ispán, tatár, kun |
+A tanulói tevékenységek során betartandó biztonsági előírásokat rögzíti. Ebben az oszlopban szerepelnek az iskolán kívüli helyszíneken tanúsítandó magatartási formák megjelölései is.
 
-| Név: Géza fejedelem, I. István, Gellért püspök, I. László, Könyves Kálmán, Julianus barát, IV. Béla |
+3. Tanulási projektleírás
 
-| Helynév: Esztergom, Székesfehérvár, Erdély, Buda, Muhi |
+A Tanulási projektleírás a tanulói tevékenységeket, illetve az ezeket segítő tanácsokat, továbbá a projektfeladat megnevezését tartalmazza táblázatos formában.
 
-| Évszám:1000, 1241–1242, 1301 |
+A Tanulói tevékenységet segítő tanácsok a tevékenység önálló elvégzését segítik azzal, hogy megjelöli az információk megszerzésének, illetve a tevékenység elvégzésének helyét és/vagy módját. Az elvégzendő tanulói tevékenységek között mindig szerepelnie kell az önellenőrzésnek, illetve a megoldókulcs használatának, a segítő tanácsok között pedig a megfelelő önellenőrzési feladat, valamint a megoldókulcs megadásának (lásd az 5. és 6. pontokban). A segítő tanácsok között fel kell tüntetni az Információs lapot is (lásd a következő pontot), ha van.
 
-| Virágzó középkor Magyarországon | Károly Róbert. Nagy Lajos, a lovagkirály. Zsigmond, a császár és király. Egy középkori magyar város. Hunyadi János. Mátyás király. Mohács. Buda elfoglalása. |
+A Moduláris projekt alapú tanulási útmutató annyi Tanulási projektleírást tartalmaz, ahány projektfeladatból áll a projekt.
 
-| Fogalom: Aranyforint, bandérium, nemes, báró, ősiség, kilenced, kormányzó, végvár |
+4. Információs lap
 
-| Név: I. Károly, I. Lajos, Luxemburgi Zsigmond, Hunyadi János, I. Mátyás, Dózsa György, II. Lajos, I. Szulejmán |
+Az Információs lap a kompetenciák elsajátításához szükséges ismereteket, információkat tartalmaz világos, a tanulók szövegértési szintjéhez igazodó megfogalmazásban. Nem tartalmazza a tanulói tevékenységek leírását, az ismeretek, információk megszerzésének módját.
 
-| Helynév: Bécs, Nándorfehérvár, Visegrád, Mohács |
+Azt a célt szolgálja, hogy a tanulók a nehezen hozzáférhető vagy több helyről beszerezhető információkat könnyebben, egy helyről érjék el. Nem kötelező azonban, hogy a kompetenciák elsajátításához szükséges ismereteket és információkat a tanulók kizárólag az Információs lap segítségével szerezzék meg.
 
-| Évszám: 1456, 1514, 1526, 1541 |
+Az információs lapok száma és terjedelme tetszőleges.
 
-| Az újkor kezdetén | Felfedezők és hódítók. Harc a tengerekért. Szemben a pápával: Luther és Kálvin. A Napkirály udvarában – XIV. Lajos. Ablak Európára – I. Péter. Az Európán kívüli világ. Kultúra és tudományok az újkor kezdetén. |
+Az Információs lapon fel kell tüntetni, hogy melyik Tanulói projektleírás melyik Tanulói tevékenységet segítő tanácsához kapcsolódik.
 
-| Fogalom: újkor, azték, inka, felfedező, gyarmat, világkereskedelem, manufaktúra, bankár, hitel, reformáció, protestáns, katolikus megújulás, parlament |
+Az Információs lap nem kötelező része a Moduláris projekt alapú tanulási útmutatónak.
 
-| Név: Kolumbusz, Magellán, Luther, Kálvin, XIV. Lajos, I. Péter, Gutenberg, Leonardo da Vinci, Galileo Galilei |
+5. Önellenőrzési feladat
 
-| Helynév: Amerika, Versailles, Párizs, London, Szentpétervár |
+Az Önellenőrzési feladat a projekt – projektfeladatonkénti – megvalósításának önellenőrzésen alapuló nyomon követését teszi lehetővé a tanuló számára.
 
-|  | Évszám: 1492, 1517 |
+Az Önellenőrzési feladatot projektfeladatonként kell elvégeznie a tanulónak. Az Önellenőrzési feladat tartalmazhat a szükséges ismeretek meglétét, illetve a tanuló által a kompetencia megszerzéséhez elvégzett tevékenységeket ellenőrző kérdéseket. Az Önellenőrzési feladat egyes pontjai a tanulási projektleírásban megadott tanulói tevékenységekhez vagy az abban megjelölt ismeretforrásokhoz kapcsolódnak.
 
-| Magyarország az újkor kezdetén Hagyományismeret Mélységelvű témák | Török világ Magyarországon. A várháborúk hősei. Életképek a királyi Magyarországról. Erdély aranykora. Történetek a függetlenségi küzdelmekről. Buda visszafoglalása. II. Rákóczi Ferenc szabadságharca. |
+Az Önellenőrzési feladathoz mindig tartozik Megoldókulcs (lásd a következő pontot).
 
-| Fogalom: szpáhi, janicsár, pasa, végvár, kuruc, labanc |
+6. Megoldókulcs
 
-| Név: Dobó István, Zrínyi Miklós, Bocskai István, Bethlen Gábor, II. Rákóczi Ferenc |
+A Megoldókulcs az Önellenőrzési feladatban szereplő kérdésekre adandó helyes válaszokat tartalmazza a kérdések sorrendjében. A Moduláris projekt alapú tanulási útmutatóban mindig annyi Megoldókulcs található, ahány Önellenőrzési feladat van benne.
 
-| Helynév: Királyi Magyarország, Hódoltság, Erdélyi Fejedelemség, Gyulafehérvár, Eger, Szigetvár, Pozsony, Isztambul |
+7. Teljesítményértékelés
 
-| Évszám: 1552, 1686, 1703–1711 A paraszti munka A faluközösség Az ember életfordulói A tanév során az alábbi témák közül egyet részletesebben, nagyobb időkeretben kell feldolgozni: Középkori városok Európában és Magyarországon Bárók, nemesek, jobbágyok Magyarországon a XIV–XVIII. századig. Az Európán kívüli világ a kora újkorban |
+A teljesítményértékelés két részből áll: a tanulói, illetve a tanári teljesítményértékelésből, amelyek táblázatos formájúak.
 
-| Mindennapi élet, életmódtörténet | A tanév során az alábbi témák közül legalább egyet kötelező feldolgozni: Mátyás király asztalánál – az étkezés történetéből. Pestis, himlő, kolera-járványok a középkortól napjainkig. |
+Mind a Tanulói teljesítményértékelő lapot, mind a Tanári teljesítményértékelő lapot a tanár állítja össze. Az előbbit a tanuló, az utóbbit a tanár tölti ki.
 
-A továbbhaladás feltételei
+Tanulói teljesítményértékelő lap
 
-A diák legyen képes a korszakra jellemző képeket, tárgyakat, épületeket felismerni. Tudjon információt gyűjteni adott történelmi témában, tanári segítséggel. Tudjon tanult történetet önállóan elmesélni a kerettantervben megjelölt fogalmak felhasználásával. Tudja a tanult történet lényegét kiemelni. Tudjon különböző korszakokat térképen beazonosítani. Tudjon távolságot becsülni és számításokat végezni történelmi térképen.
+A tanulói teljesítményértékelés célja, hogy a tanuló a tevékenységek befejezése után, illetve a tanári teljesítményértékelés előtt önállóan is felmérhesse az elvégzett tevékenységeket.
 
-7. évfolyam
+A Tanulói teljesítményértékelő lap a projekt egésze során elvégzett legfontosabb tanulói tevékenységeket tartalmazza. A tevékenységek elvégzését a tanuló igennel vagy nemmel értékeli.
 
-Évi óraszám: 74
+Tanári teljesítményértékelő lap
 
-Belépő tevékenységformák
+A tanári teljesítményértékelés célja, hogy a tanár felmérje a tanuló egyes kompetenciáit.
 
-Ismeretszerzési és feldolgozási képességek
+A tanár a teljesítményértékelést kompetenciánként végzi, s minden egyes – az adott projektben – mérendő kompetenciáról külön Tanári teljesítményértékelő lapot tölt ki.
 
-Információk gyűjtése statisztikai adatokból.
+A Tanári teljesítményértékelő lap tartalmazza:
 
-Önálló kutatás adott témában, melynek végeredménye rövidebb összefoglaló kiselőadás vagy esszé.
+▪ A tanuló nevét
 
-Könyvtári kutatás megadott témában és szempontok alapján kézikönyvekből és ismeretterjesztő művekből.
+▪ Az értékelés dátumát
 
-Korabeli írásos források összevetése megadott szempontok alapján.
+▪ A kompetencia betűjelét, számát, megnevezését
 
-Történelmi személyiségek korabeli és utólagos megítélésének összevetése.
+▪ A felmérés elvégzésére tett kísérlet számát
 
-Különböző típusú képi információk gyűjtése egy adott témához.
+▪ A projekt célkitűzése(i)ben meghatározott tevékenység megnevezését
 
-Írásos források összegyűjtése megadott szempontok alapján.
+▪ A teljesítés követelményeit – amelyek valamennyi, a kompetencia megszerzését igazoló tevékenységet magukban foglalják. A követelmények nem tartalmazhatnak a projekt során nem gyakorolt tevékenységet és összhangban kell állniuk a Részletes projektmunkaterv, illetve A teljesítés kritériuma megnevezésű oszlopában megfogalmazottakkal. A követelmények csak a kompetencia meglétének elismeréséhez elengedhetetlen elemeket sorolhatják fel. A követelmények teljesítését a tanár igennel vagy nemmel értékeli.
 
-A hírközlési forradalom jelentőségének megértése.
+▪ Amennyiben a teljesítés követelményei közül a tanár akár egyet is nemmel értékel, az azt jelenti, hogy a tanuló nem szerezte meg az adott kompetenciát, s azt egy másik projekt keretében el kell sajátítania.
 
-Anyaggyűjtés tanári segítséggel több szempontból egy adott témában.Különböző képi információk jellegzetességeinek felismerése.
+▪ A tanár aláírását.
 
-Valamely kijelölt téma többszempontú feldolgozása csoportmunkában, tanári irányítással.
+(4) A szakképzést előkészítő évfolyam eszközigénye
 
-A XIX. századi történelmi eseményekről szóló dalok, történetek, mondák feldolgozása.
+1. Humán erőforrás
 
-Kifejezőképességek
+1.1. Képesítési követelmények
 
-Összehasonlító diagramok, grafikonok, táblázatok készítése különböző statisztikák adatainak felhasználásával.
+„A szakképzést előkészítő évfolyamban a pedagógus munkakör betölthető:
 
-Szerepjáték: valamely korszak jellemző alakjának egyes szám első személyű bemutatása.
+Tanító, tanár végzettségű vagy szakoktató, gyakorlati oktató egyaránt lehet a szakképzésre előkészítő évfolyamban pedagógus munkakörben. Megfelel a Kt. 17. § (1) bekezdés b)–d) és g)–i) pontjának és a 127–128. §–okban foglaltaknak. A legjobb pedagógusok kiválasztása az igazgató felelőssége: feleljen meg a pedagógiai szemlélete az alább részletezettekben.”
 
-Vázlat készítése csoportmunkában.
+A „Kt. 1. számú mellékletének »További foglalkoztatás a nevelési-oktatási intézményekben« című rész 2. c) pontjában felsorolt speciális végzettségű szakemberek közül a felzárkóztató oktatást szervező szakiskolákban kell foglalkoztatni: pszichológust, fejlesztő pedagógust, szociálpedagógust, felzárkóztató oktatásban részt vevő tanulócsoportonként legalább 0,5 fő/szakembert; és szabadidő-szervezőt létszámhatártól és hatályba lépéstől függetlenül.”
 
-Összefüggő felelet megadott történelmi témáról, a megismert fogalmak felhasználásával.
+Ezek a szakemberek közreműködnek a tanulási utak sajátos, komplex támogatásában, ami a hagyományos elemeken túlmutató oktatás-nevelés-képzés rendszerszemléletének megfelelő. A reintegráláshoz nélkülözhetetlenek. Jelenlegi hiányuk jelentősen hozzájárul a magas lemorzsolódáshoz. Nem elegendő e szakemberek speciális szakmai szolgáltatások és szakszolgálatok igénybe vételével történő biztosítása (külső hálózat), mert a tanulók „hiányai” nem tűrik a várakoztatást, a segítség mindig sürgős és nem ők keresik azt általában, hanem az iskolának kell felkínálni a tanítás-tanulás rendszerébe beépítetten.
 
-A megismert sematikus rajzok, ábrák élőszóban való megelevenítése.
+1.2. A szakképzést előkészítő évfolyamon a tanulókkal foglalkozó pedagógusoktól elvárt szemlélet és kompetenciák
 
-Tájékozódás időben
+A pedagógiai szemlélet jellemzője a tanulóközpontúság, nevelésfilozófiai elemei: tolerancia, empátia, nyitottság, előítélet-mentesség, elfogadó attitűd, pozitív értékrend.
 
-Az egyetemes és a magyar történelem eseményeinek összevetése térkép alapján.
+A szakképzést előkészítő évfolyamon oktató-nevelő pedagógusoktól elvárható kompetenciák megfogalmazása segíthet eldönteni a pedagógusnak, a vezetőnek, vállalja-e a pedagógus, alkalmas-e a pedagógus az adott feladatra:
 
-Gazdasági, társadalmi, technikai jelenségek összefüggéseinek, változásának, fejlődésének felismertetése.
+| Kompetenciaterület | Elvárások |
 
-Térségek gazdasági, politikai, társadalmi, technikai jelenségeinek időbeli, térbeli összevetése.
+| 1. | Szakmai tapasztalat | Legalább 5 év – a vezetője szerint színvonalasan ellátott – hátrányokkal küzdő tanulókkal is kapcsolatos nevelési-oktatási gyakorlattal rendelkezik a szakoktatásban. |
 
-Ma is előforduló jelenségek, konvenciók, eszmék, intézmények felismerése, összevetése mai jellegzetességeik-kel.
+| 2. | Pedagógus szakma iránt érdeklődés | A pedagógus szakmában felmerülő új megközelítések, új módszerek alapfokú ismereteivel rendelkezik, azokkal egyetért, gyakorolja vagy szeretné gyakorolni mindennapi pedagógiai munkájában. |
 
-Kronologikus táblázatok önálló készítése.
+| 3. | Tanulási és fejlődési készség | Az elmúlt 5 évben továbbképezte magát a fenti témában, önfejlődése tudatos. |
 
-Események egyidejűségének megállapítása, történelmi események elhelyezése az időben.
+| 4. | Elmélet és gyakorlat egységében való gondolkodás | Az oktatandó elméleti tananyagot a tanulóknak a gyakorlattal történő átadás módszereivel egységben látja. |
 
-Tájékozódás térben
+| 5. | Pedagógiai attitűd | A tanulók egyéni erősségeire koncentrálva tűz ki egyéni fejlesztő pedagógiai célokat. Képes nem tantárgyakban gondolkozni (érti a tananyagtartalom eszközjellegét az oktatásban) elfogadja, hogy a moduláris felépítés a szakképzésbe lépéshez nélkülözhetetlen kompetenciák fejlesztését szolgálja. |
 
-A tanult időszak időbeli és térbeli változásainak felismertetése történelmi térképek összehasonlítása.
+| 6. | Csoportban való együttműködés | Az egy csoportban tanító pedagógusok együttműködésében van gyakorlata. Munkáját, ötleteit mások számára rendelkezésre bocsátja. |
 
-Országok területi változásainak megfigyelése különböző térképeken.
+| 7. | Rugalmasság | Mások véleményének érvényességét elismeri. Új megoldások bevezetését nem gátolja. |
 
-| Témakörök | Tartalmak |
+| 8. | Kommunikációs készség | Képes saját véleményét szakmai érvekkel alátámasztani. Képes a tanulókat befolyásolni, adott dologról meggyőzni őket. |
 
-| A polgári átalakulás kora | Az Amerikai Egyesült Államok megalakulása. Eszmék, személyiségek és események a felvilágosodás és a francia forradalom korából. Napóleon és Európa. A mezőgazdaság és a gépek forradalma. Az ipari forradalom társadalmi következményei. Életmód a kapitalizálódó Európában. |
+| 9. | Eredményorientáltság | Képes megkülönböztetni a célhoz vezető feladatok között a lényegest a lényegtelentől. |
 
-| Fogalom: alkotmány, emberi jogok, felvilágosodás, népfelség elve, hatalmi ágak, forradalom, jakobinus, terror, nemzet, ipari forradalom, mezőgazdasági forradalom, gyár, vállalkozó, haszon, tőkés, bérmunkás, kapitalizmus |
+| 10. | Iránymutatás, motiválás | Eléri, hogy a tanulócsoport a feladatokra koncentráljon. |
 
-|  | Név: Washington, Rousseau, XVI. Lajos, Robespierre, Napóleon, Watt, Stephenson |
+| 11. | Személyközpontú pedagógiai megközelítés | Képes másokat – a tanulók problémáit – megérteni (empatikus), a tanulókkal való viselkedésében nyílt és őszinte (érzelmeivel kongruens a kommunikációja), képes a személy feltétel nélküli pozitív elfogadására, vagyis csak a helytelen cselekedetet utasítja el, nem a tanuló személyiségét minősíti. |
 
-| Helynév: Boston, Waterloo |
+A szakképzésre előkészítő évfolyamban oktatást vállaló iskolák pedagógusai olyan pedagógus személyiségek, tanár egyéniségek, akik a felsoroltakkal belsőleg teljesen azonosultak, vagyis a hivatásuknak tekintik a felzárkóztatást. A tanulók számára pozitív mintát jelentenek. Vállalják a szoros személyes kapcsolatot is a tanár – diák viszonyban. Fejlettek szociális készségeik.
 
-| Évszám: 1776, 1789, 1815 |
+Szakmai szempontból a legjobbak közé tartoznak, innovatív módszertani kultúrával rendelkeznek, tökéletesen kommunikálnak (értenek a tanulók nyelvén). Önként vállalják ezt a feladatot.
 
-| Képek a XVIII. századi Magyarországról | Mária Terézia és II. József. A soknemzetiségű Magyarország. A francia forradalom és a napóleoni háborúk hatása Magyarországon. |
+A tanulókkal való együttműködés a projektoktatásban szerves része a pedagógusi tevékenyégnek.
 
-| Fogalom: betelepítés, bevándorlás úrbérrendezés, állandó hadsereg, vallási türelem, államnyelv, oktatáspolitika |
+1.3 A bevezetést segítő elemek
 
-| Név: Mária Terézia, II. József |
+1.3.1. Továbbképzés
 
-| Évszám: 1740–1780 |
+Az akkreditált pedagógusképzésekre tett ajánlást lásd a „Továbbképzés” fejezetben.
 
-| A polgárosodás kezdetei Magyarországon | Országgyűlések Pozsonyban. A magyar nyelv ügye. Gróf Széchenyi István. Kossuth Lajos. Életképek a reformkori Magyarországon. 1848. március 15-e. Polgári törvények. Nemzetiségek ébredése. Képek a szabadságharc csatáiból. |
+Ajánlott az intézményen belül belső továbbképzések szervezése, hogy az előkészítő oktatásban részt vevő pedagógusok egységes szemlélettel rendelkezzenek, valamint a pedagógiai kultúrájuk új elemeit továbbadják a nevelőtestületen belül.
 
-| Fogalom: országgyűlés, arisztokrácia, alsótábla, felsőtábla, reformkor, közteherviselés, örökváltság, zsellér, nyilvánosság, cenzúra, sajtószabadság, választójog, felelős kormány, jobbágyfelszabadítás, nemzetiség, honvédség, trónfosztás |
+1.3.2. Változásmenedzsment ismeretekre felkészítés, disszemináció
 
-| Név: gróf Széchenyi István, Kossuth Lajos, Deák Ferenc, Petőfi Sándor, gróf Batthyány Lajos, Görgey Artúr, Bem |
+A „kritikus tömeg” elve szerint (átütő erejű, végigvitt fejlesztéshez szükséges a felzárkóztató oktatásban dolgozó létszám legalább egyharmadának képzése, akik a legelkötelezettebbek, s továbbadják a tanultakat a belső továbbképzéseken – ehhez ajánlott belső továbbképzési programok is kellenek). Az intézményi munkacsoportok (team) vegyes összetételűek lehetnek, az intézmény vezetője (igazgatóhelyettes, teamvezető vagy munkaközösség-vezető), pedagógusa, segítő beosztású dolgozója, szakoktatója együtt készülhet fel az együttműködésre és az új módszertani készségek megszerzésére.
 
-| Helynév: Debrecen, Isaszeg, Világos, Arad |
+Modell iskolákban szerzett egyhetes gyakorlat kiegészítheti a tréninget, ahol láthatják a megvalósulást is. Élő kapcsolatban maradhatnak ezek az intézmények, ehhez évenként minimum háromnapos tréningek szükségesek, a tapasztalatcserére és a „kiégés” megakadályozására.
 
-| Évszám: 1830–1848, 1848. március 15., 1849. október 6. |
+Az intézmények részéről szükséges szervezetfejlesztés elemei:
 
-| Nemzetállamok kora | Az amerikai polgárháború. Új európai nemzetállamok. Az állam új feladatai: oktatásügy, egészségügy, szociálpolitika. Versenyben a világ felosztásáért. A modern társadalomi csoportok, életmódjuk. A sokarcú munkásmozgalom fő áramlatai. |
+▪ új típusú, együttműködésen alapuló munkakultúra: feladatkultúrás szervezeti felépítés (munkacsoportok) kialakítása
 
-| Fogalom: polgárháború, nemzetállam, szabad verseny, monopólium, szociálpolitika, gyarmatbirodalom, szakszervezet, anarchisták, szocializmus, szociáldemokrácia, utópia, tömegkultúra, központi hatalmak, antant |
+▪ kellő mértékű (a hagyományosnál alacsonyabb) hierarchia, vezetői elkötelezettség, személyi felelősség, elismerés
 
-| Név: Bismarck, Garibaldi, Lincoln, Edison, Marx |
+▪ kollektív tervezés és értékelés
 
-| Helynév: Németország, Olaszország |
+▪ hatékony információáramlás
 
-| Évszám: 1861–1865, 1871 |
+▪ kommunikációs kultúra fejlesztése
 
-| A dualizmus kora | Magyarország a szabadságharc bukása után.A kiegyezés.Képek a politikai életről.Gazdasági felzárkózás.A polgárosodó magyar társadalom. Roma társadalom – roma életformákVilágváros születik: Budapest. A hagyományos falusi társadalom élete (a lakóhely néprajzi tájegységének feldolgozása: gazdálkodás, település, életmód, népszokások). A millennium: sikerek és válságjelek. |
+▪ egyenletes terhelés kialakítása
 
-| Fogalom: emigráció, kiegyezés, közös ügyek, polgárosodás, dzsentri, nagypolgárság, kispolgárság, asszimiláció, millenium |
+El kell kerülni a szervezet leginkább aktív tagjainak túlterhelését, lehetőség szerint a többséget meg kell nyerni a feladatvállalásra, figyelembe véve az egyéniségek irányultságát, az egyéni adottságokat, képességeket, kompetenciákat, s motivációs eszköztárral tudatosan ösztönözni őket a fejlesztési folyamatokban való részvételre.
 
-| Név: Ferenc József, gróf Andrássy Gyula, báró Eötvös József, Tisza Kálmán |
+Ehhez el kell különíteni a csak időszakos jellegű folyamatokat az állandó feladatoktól.
 
-| Helynév: Osztrák–Magyar Monarchia, Budapest |
+Mit tehet a tanár a sikeres munkacsoport kialakításáért?
 
-| Évszám: 1867, 1867–1916 |
+PDCA ciklus szerint építsük fel a tanári együttműködést:
 
-| Az első világháború Mélységelvű témák | A háború okai, céljai és jellege. Forradalom, Oroszországban. Győztesek és vesztesek. |
+Előkészítés:
 
-| Fogalom: villámháború, állóháború, hátország, békerendszer, bolsevik, szovjet |
+▪ minden egyes tag fontosságának hangsúlyozása az alakuló csoportban,
 
-| Név: Lenin |
+▪ a munka eredményének felvázolása,
 
-| Évszám: 1914–1918, 1917 A tanév során az alábbi témák közül legalább egyet részletesebben, nagyobb időkeretben kell feldolgozni: Mágnások, polgárok, parasztok, cselédek, társadalom és életmód A soknemzetiségű Magyarország: nemzeti és etnikai kisebbségek együttélése, Kultúrája A XIX. század emlékei a lakóhelyen és környékén. |
+▪ ennek alapján segítség a csoport világos célkitűzéseinek megfogalmazásához,
 
-| Mindennapi élet, életmódtörténet | A tanév során az alábbi témák közül legalább egyet kötelező feldolgozni:Oktatás, diákok Magyarországon a XVI. - XX. század elejéig Város és falu az új és a legújabb korban |
+▪ megegyezés az alapokban: ezeknek a lépéseknek az irányítása, szakmai támogatása
 
-A továbbhaladás feltételei
+▪ megegyezés a csoporttal a célkitűzésekben és a határidőkben,
 
-Készítsen önállóan vázlatot az adott témáról. A diák tudjon beszámolót, kiselőadást tartani adott történelmi témáról, megadott ismeretterjesztő irodalom alapján. Tudjon egyszerű történelmi tárgyú táblázatokat, grafikonokat, diagramokat értelmezni néhány mondatban. Tudjon egyszerűbb forrásokat értelmezni tanári segítséggel. Ismerje az egyes történelmi korok, korszakok nevét és sorrendjét, ismerje egy-egy korszak fontosabb jellemzőit. Tudja, hogy a kerettantervben szereplő személyeknek mi volt a jelentőségük az adott időszakban. Tudja térben és időben elhelyezni az egyes korszakok fontosabb eseményeit. Tudja összehasonlítani különböző időszakok térképeit. Legyen képes egy-egy ország területváltozásait térképről leolvasni. Tudja megállapítani, hogy a magyar és egyetemes történelem megjelölt személyei közül kik voltak kortársak.
+▪ a teljesítményelvárásokban,
 
-8. évfolyam
+▪ mi történik abban az esetben, ha a dolgok nem a terv szerint alakulnak,
 
-Évi óraszám: 74
+▪ a csoporttagok szerepeinek és felelősségi körének meghatározása,
 
-Belépő tevékenységformák
+▪ az azonnali feladatok meghatározása,
 
-Ismeretszerzési és feldolgozási képességek
+▪ világos, rövid távú célkitűzések, meghatározott időn belül elvégzendő munka kijelölése és az erőforrások meghatározása,
 
-Önálló vázlat készítése.
+▪ megegyezés a beszámolás keretrendszeréről,
 
-Statisztikai adatok gyűjtése jelenismereti témában.
+▪ megegyezés olyan belső folyamatokat illetően, mint a döntéshozatal és a problémamegoldás,
 
-Kutatás informatikai eszközök felhasználásával adott témában tanári segítséggel.
+▪ más csoportok igénybevétele esetén azok tagjai is ismerjék a célkitűzéseket.
 
-Korabeli írásos források összevetése saját szempontok alapján.
+Félelmek eloszlatása:
 
-Riport/interjú készítése szemtanúkkal adott témáról megadott szempontok szerint.
+▪ szakítsunk időt a csoportok, illetve az egyének kétségeinek meghallgatására,
 
-Adott témájú, de eltérő adatok, adatsorok összevetése, az eltérések okainak felderítése tanári segítséggel.
+▪ magyarázzuk meg az egyéni részvétel, hozzáértés és szakértelem jelentőségét, gyűjtsünk javaslatokat a továbblépésre,
 
-Dokumentumfilmek elemzése tanári segítséggel.
+▪ tisztázzuk, hogy a hibák elkerülhetetlenek, ugyanakkor a felmerülő problémákat a lehető leggyorsabban fel kell ismerni annak érdekében, hogy a csoport minél hamarabb megoldhassa azokat.
 
-A televízió, a rádió, napi és hetilapok adott témájú híranyagának összevetése tanári segítséggel.
+A részvétel ösztönzése:
 
-Információk szerzése dokumentumfilmekből, televízióból.Információk szerzése napi és hetilapokból.Információk szerzése rádióműsorokból.
+▪ bátorítsuk a tagokat arra, hogy megnyilvánuljanak,
 
-Az iskolai oktatásban megjelenő tudományterületek történeti szempontú elemzése (technika, ökológia, fizika, stb.) Dokumentumfilmek és játékfilmek jellemző részleteinek értelmezése, mondanivalójának rövid leírása.
+▪ alakítsunk ki ehhez megfelelő légkört – ne engedjük a minősítő megjegyzéseket,
 
-Kifejezőképességek
+▪ a csapatszellem megteremtése,
 
-Az egyetemes és a magyar történelem eseményeinek rendszerezése.
+▪ magyarázzuk el a tagoknak, hogy csapatmunkát várunk tőlük,
 
-Adott történelmi és jelenismereti téma csoportos megvitatása a tanár által előzetesen megadott szempontok alapján.
+▪ tegyenek javaslatokat ennek megvalósítása érdekében.
 
-Gazdasági, társadalmi, politikai, kulturális jelenségek összefüggéseinek felismerése és megfogalmazása.
+Rátermett csoportvezető választása, aki
 
-Adott jelenismereti téma/helyzet megjelenítése szerepjátékkal.
+▪ tisztában van a célkitűzésekkel,
 
-Statisztikai adatok bemutatása.
+▪ tudja, hogyan valósítsa meg azokat,
 
-Ökológiai problémák összetevőinek felismertetése, történeti okainak felderítése.
+▪ tisztázza az egyes csoporttagok szerepét,
 
-Tájékozódás időben
+▪ a csoporttagokat bevonja a tervezésbe és a megvalósításba,
 
-Önálló kutatás az iskolai oktatásban megjelenő tudományterületek változásairól.
+▪ információval és útmutatással szolgál,
 
-Szinkronisztikus kronológiai táblázatok készítése.
+▪ kezelni tudja a konfliktushelyzeteket és meg is oldja azokat,
 
-Tájékozódás térben
+▪ figyelemmel kíséri a fejlődést.
 
-A tanult időszak időbeli és térbeli változásainak felismerése történelmi térképek összehasonlításával.
+Megvalósítás (A csoport működésének segítése):
 
-| Témakörök | Tartalmak |
+▪ teremtsünk kedvező lehetőségeket az ötletek megosztására, megvitatására,
 
-| A világ a 20-as és 30-as években | Európa az első világháború után. A nagy gazdasági világválság. A nácizmus Németországban. A sztálini Szovjetunió. Az Egyesült Államok és Roosevelt. Út a háború felé. |
+▪ konfliktusos területek ütköztetésére.
 
-| Fogalom: jelenkor, parlamenti demokrácia, gazdasági válság, nemzeti szocializmus, fajelmélet, antiszemitizmus, koncentrációs tábor, egypártrendszer, sztálinizmus, tervgazdálkodás, propaganda |
+▪ A hatékonyság ellenőrzése:
 
-| Név: Hitler, Sztálin, Roosevelt |
+– a csoport munkájának és hatékonyságának rendszeres ellenőrzése,
 
-| Helynév: Szovjetunió |
+– esetleges hiányosságok megállapítása.
 
-| Évszám: 1929–1933, 1938 |
+A csoportműködés során felmerülő problémák:
 
-| Magyarország a két világháború között | Forradalom és ellenforradalom. Trianon és következményei. A bethleni konszolidáció. A gazdasági világválság és Magyarország. Kiútkeresés és külpolitika. Életmód és szellemi élet a két világháború között |
+▪ A tanári csoport (team) a tanárok részfeladatainak elvégzésére nem szab határidőt, azaz nem szabályozott a csoport működésének időtartama. Ennek következménye lehet a munka elnyújtása, eközben cél- és feladatvesztés léphet fel.
 
-| Fogalom: őszirózsás forradalom, tanácsköztársaság, konszolidáció, irredentizmus, kommunisták |
+▪ A csoport nem kellően működik együtt a munkát irányító teamvezetővel, a csoport túlzottan önállósítja magát, a felmerülő problémákat nem kellő időben közvetítik a teamvezető felé.
 
-| Név: Károlyi Mihály, Kun Béla, Horthy Miklós, Bethlen István |
+▪ A csoportban résztvevők nem elsősorban az elvárásoknak akarnak megfelelni, hanem a csoportban akarják jól érezni, elfogadtatni magukat.
 
-| Helynév: Kárpátalja, Felvidék, Délvidék, Észak-Erdély |
+▪ Ha a feladat elvégzéséhez szükséges lenne más csoporttal együttműködni, ezt nem ismerik fel.
 
-| Évszám: 1918, 1919, 1920 |
+▪ Igen sok múlik azon, hogy hogyan határozza meg a csoport saját feladatát.
 
-| A második világháború | Európai háborúból világháború. A totális háború. Magyarország a második világháborúban. Magyarország 1944-ben. Az európai és a magyar zsidóság tragédiája. A háború befejezése. |
+A csoport erőforrásigénye:
 
-| Fogalom: totális háború, hadigazdaság, gettó, deportálás, munkaszolgálat, holokauszt, „hintapolitika”, nyilasok, partizán, antifasiszta ellenállás, háborús bűnös |
+Humán erőforrás: akik rendelkeznek a szükséges kompetenciákkal.
 
-| Név: Churchill, Teleki Pál |
+Időszükséglet: (minimum heti 1 óra az órarendbe beépítve), amit a feladatra fordíthatnak.
 
-| Helynév: Sztálingrád, Normandia, Auschwitz, Hirosima, Jalta, Potsdam |
+Eszközszükséglet: a csoportmunkához szükséges eszközök
 
-| Évszám: 1939, 1941, 1944. Március 19., 1944. október 15., 1945. május 9., 1945. szeptember 2. |
+2. Tárgyi feltételek
 
-| A globalizálódó világ | A kétpólusú világ. Kommunista diktatúrák. A harmadik világ. A világgazdaság. Az európai integráció. Az emberi és polgári jogok. Globális problémák – a globalizáció problémái. |
+2.1. Tantermek
 
-| Fogalom: hidegháború, kommunista diktatúra, harmadik világ, világgazdaság, globalizáció, integráció, népességrobbanás, fogyasztói társadalom, környezetkárosítás |
+A speciális bemeneti kompetenciák elsajátítása történhet modularizált rendszerű projektoktatásban is, ekkor a műhelykörülmények a legkedvezőbbek. De vannak olyan tanórai foglalkozások, amelyek elméleti jellegűek, s ezeket tantermi, szaktantermi körülmények között is lehet oktatni. Szaktantermek (a minimum 3 szakmacsoport szakértők által összeállított előkészítői eszközjegyzékével és az osztálytermek eszközjegyzék szerinti felszereléssel) és/vagy osztálytermek (az eszközjegyzék szerinti felszereléssel).
 
-| Magyarország története napjainkig | Magyarország a keleti blokkban – a koalíciós évek.Sztálinizmus Magyarországon – a Rákosi-korszak.1956-os forradalom és szabadságharc.A Kádár-korszak.A magyar társadalom átalakulása.A magyarországi romák A határon túli magyarok. A népi kultúra hagyományai a határon túl (pl. Székelyföld, Kárpátalja, Felvidék). A rendszerváltozás. |
+2.2. Oktatási eszközök
 
-| Fogalom: pártállam, kollektivizálás, rendszerváltozás, földosztás, államosítás |
+A felszereltség alapelemét képezik a multimédiás oktatásra használható eszközök, számítógépek, amelyek segítségével az oktatóprogramok is használhatók.
 
-| Név: Rákosi Mátyás, Nagy Imre, Kádár János, Antall József, Göncz Árpád |
+Hordozók: A szakképzést előkésztő évfolyam esetében az információhordozók a tanulási útmutatók információs lapjai, a feladathordozók a tanulási útmutatók önellenőrzési feladatlapjai az önellenőrzési feladat megoldókulcsával. Komplex információ- és feladathordozók a különböző szoftverek és e-learning anyagok.
 
-| Évszám: 1945, 1948, 1956. október 23., 1989–1990. |
+(5) A szakképzést előkészítő évfolyam értékelési eszközei
 
-| Állampolgári ismeretek: Mélységelvű témák | Az állam és polgára. A nyilvánosság. A politikai rendszer intézményei. Részvétel a közügyekben. Emberi jogok – társadalmi kötelezettségek. A gyermek jogai. |
+A tanulói teljesítmények, a tanulói fejlődés ellenőrzését és értékelését moduláris projekt alapú tanulási útmutatók tartalmazzák. Erről a Modulok, moduláris projekt alapú tanulási útmutató című rész 7. Teljesítményértékelés pontja részletesen tartalmazza.
 
-| Fogalom: állam, nemzet, nemzetiség, etnikum állampolgárság, választási alapelvek, népszavazás, emberi jogok A tanév során az alábbi témák közül legalább egyet részletesebben, nagyobb időkeretben kell feldolgozni: Nők és férfiak a múltban. (a XIX. és a XX. században) Diákjogok, diákszervezetek a mai Magyarországon. Történetek és visszaemlékezések a lakóhely XX. századi történelméből. |
+(6) Pedagógusok felkészítése a szakképzést előkészítő évfolyam pedagógiai rendszerének alkalmazására (30 órás akkreditált továbbképzés keretében)
 
-| Mindennapi élet, életmódtörténet | A tanév során az alábbi témák közül legalább egyet kötelező feldolgozni: Családom története a XX. században. Tömegtársadalom, nagyvárosi életmód. |
+A továbbképzés indokoltsága:
 
-A továbbhaladás feltételei
+A hátrányos helyzetű, általános iskolát el nem végzett vagy a középfokú oktatásból lemorzsolódott, a közoktatásról szóló 1993. évi LXXIX. törvény 27. § (8) bekezdése szerint a fiatalok számára más tanulási út, lehetőség biztosítása szükséges. Ezeknek a fiataloknak nagy része tanulmányait a szakképzésben szeretné folytatni. Szakmát szeretne szerezni, hogy a sikeres munkába állással önálló életet tudjon kezdeni. Ahhoz, hogy az iskolák korszerű, tanulóközpontú pedagógiai módszerekkel, a szociálpedagógia eszközeinek felhasználásával tudják segíteni a tanulók felzárkózását, nélkülözhetetlen a pedagógus-továbbképzésben a szakképzést előkészítő évfolyam programjának bevezetésére felkészítő képzés.
 
-A diák tudjon önálló könyvtári munka alapján kiselőadást tartani. Tudja, mi történt Európa más régióiban a magyar történelem egy-egy kiemelkedő eseménye idején. Legyen képes összefüggéseket találni a történelmi események és a technikai-gazdasági fejlődés legfontosabb állomásai között. Tudja a XX. századi magyar és egyetemes történelem legfontosabb fordulópontjait, idejét. Tudja ismertetni a demokráciák és diktatúrák legjellemzőbb vonásait. Legyen képes néhány jelentős eseményhez kapcsolódó forrást összehasonlítani. Ismerje a mai Magyarország közjogi és politikai rendszerének alapelemeit. Környezetének, lakóhelyének fontos történelmi eseményeit el tudja helyezni a köztörténet folyamában.
+A továbbképzés célcsoportja:
 
-Szempontok a tanulók teljesítményének értékeléséhez
+Szakiskolában tanító pedagógus, szakoktató, gyakorlati oktató és a pedagógiai munkát segítő egyéb, pedagógus munkakörben foglalkoztatott alkalmazott.
 
-Az értékelés célja a tanuló előrehaladásának, illetve a tanári közvetítés módjainak (a tanítás eredményességének) vizsgálata.
+A továbbképzés céljai:
 
-A továbbhaladás feltételei című fejezet felsorolja azokat a kiemelt képességeket, amelyekben a diákoknak fejlődést kell elérniük.
+A szakképzést előkészítő évfolyam pedagógiai rendszerének megismertetése és alkalmazására való felkészítés:
 
-A fejlesztendő képességek rendszerezve a következők:
+▪ ennek keretében a moduláris projekt alapú tanulási útmutató megismertetése és az alkalmazásához szükséges pedagógiai kompetenciák fejlesztése
 
-• Megjegyzés, reprodukció: tények, elemi információk, fogalmak, törvények, konvenciók, szabályok ismerete és reprodukálása.
+▪ projekt alapú éves fejlesztési terv készítése – az egyéni különbségek figyelembevételével
 
-• Egyszerűbb és bonyolultabb összefüggések megértése, értekezés, átkódolás, transzformációs képességek.
+A továbbképzés tartalmi követelményei:
 
-• Alkalmazás ismert vagy új szituációban.
+A résztvevők ismerjék:
 
-• Önálló véleményalkotás, értékelés: magasabb rendű műveletek – analízis, szintézis, értékelés-kreativitás.
+▪ a szakképzést előkészítő évfolyam pedagógiai rendszerének elemeit,
 
-A tanárnak a tanulók évközi munkáját folyamatosan figyelemmel kell kísérnie. A tanulók teljesítményének osztályzattal történő értékelése a tanulói ismeretek, tevékenységek, szóbeli, írásbeli értékelése alapján történhet:
+▪ ezen belül részletesen a moduláris projekt alapú tanulási útmutató felépítését.
 
-• Szóbeli, írásbeli beszámoló egy-egy résztémából.
+A résztvevők legyenek képesek:
 
-• Témazáró dolgozatok.
+▪ a moduláris projekt alapú tanulási útmutató helyi tantervi adaptációjára,
 
-• Kiselőadás, írásbeli vagy szóbeli beszámoló egy-egy témakörben a megadott szakirodalom, önálló gyűjtés alapján.
+▪ adott kompetenciákhoz egyéni tanulási utak tervezésére,
 
-• Előre kiadott témák közül tetszés szerint választott kérdéskör feldolgozása (képi, írásbeli, szóbeli).
+▪ projekt alapú éves fejlesztési terv készítésére.
 
-• Szituációs játékok (történetek, népszokások eljátszása), vitaszituációk, kézműves tevékenységek stb. írásbeli, szóbeli értékelése.
+A továbbképzés főbb tematikai egységei:
 
-IDEGEN NYELV
+▪ A szakképzést előkészítő évfolyam pedagógiai rendszerének megismertetése.
 
-5–8. évfolyam
+▪ A moduláris projekt alapú tanulási útmutató alkalmazásának lépései – ezen belül projekt alapú éves fejlesztési terv készítése.
 
-Célok és feladatok
+▪ A csoportmunka szerepe a projekt alapú tanulásban.
 
-Az ötödik évfolyam megkezdésekor már minden diák (legalább) egy éve tanulja az idegen nyelvet. Megértik a tanár kéréseit, óravezetését, ismerősek a feladattípusok, órai tevékenységek, motiváltak, bíznak magukban, és néhány alapvető stratégiát már használnak.
+▪ Egy adott kompetenciához tanulási projektleírás elkészítése – a megadott projektleírások mintájára.
 
-A négy tanév céljai között első helyen áll a motiváció fenntartása, a gyerekek sikerélményhez juttatása értelmes munkával. Továbbra is a receptív készségek (hallott és olvasott szöveg értése) fejlesztése áll a középpontban, mivel a produktív készségeket (beszéd és írás) a receptív készségek közvetve fejlesztik. Az évek előrehaladtával egyre nagyobb hangsúlyt kap a beszédkészség. Lényeges nevelési cél a diákok olvasási igényének kialakítása és fejlesztése érdekes, könnyített vagy eredeti, illusztrált hosszabb szövegek olvastatásával.
+▪ A résztvevők adaptációs képességének fejlesztése.
 
-A témakörök felölelik a tanterv egyéb tantárgyi tartalmait, hiszen a nyelvet nem önmagáért használjuk, hanem információszerzésre, illetve információfeldolgozásra. A kerettantervi törekvések hozzájárulnak az idegen nyelvi tananyag érthetővé tételéhez, de a tartalmakat más szempontból, másképp csoportosítva dolgozzuk fel, nehogy unalmassá váljanak.
+▪ Kompetencia alapú teljesítményértékelés készítése adott szakmacsoport esetében, egy kiválasztott (egyszerű) kompetenciához.
 
-A 10–14 éves korosztály nyelvelsajátítása során jobban támaszkodik memóriájára, mint a célnyelv szabályrendszerére, de egyre inkább képes szabályszerűségeket észrevenni a nyelvben. A szabályok ismerete ugyanakkor csak kismértékben segíti nyelvi fejlődésüket. A nyelvhasználatban a folyamatosság erősségük a nyelvhelyességgel szemben, de emellett szükség van a legfontosabb struktúrák automatizálására is. Cél, hogy esetleges nyelvi hibáikat maguk vegyék észre és javítsák, így segíthetjük őket autonóm nyelvtanulóvá válni.
+A továbbképzés munkaformái: uralkodik a csoportmunka, a munka prezentációja és az ezt követő rövid megbeszélés a tanulságokról, néhány helyen kiegészítve előadással.
 
-A négy év során a diákoknak el kell jutniuk a nyelvtanulási stratégiák olyan szintű használatához, melyek lehetővé teszik számukra az osztályterem falain kívüli idegen nyelvi hatások (filmek, zene, tévéműsorok, újságok) hasznosítását és az irányított önálló haladást.
+A záró ellenőrzés módja – a következő feladatok írásban történő benyújtása:
 
-A nyolcadik osztály végére nyelvtudásuk eléri azt a mérhető szintet, mellyel képesek ismert témakörökben idegen nyelvű információt megérteni és adni, interakciókban sikerrel részt venni.
+1. Projekt alapú éves fejlesztési terv készítése
 
-Fejlesztési követelmények
+2. Egy adott kompetencia fejlesztéséhez tanulási projektleírás elkészítése
 
-A tanuló képes idegen nyelvű információt megérteni és adni, interakcióban sikerrel részt venni. Képes a tanárral és társaival a célnyelven együttműködni a nyelvórai feladatok megoldásában. Továbbfejleszthető nyelvtanulási stratégiákat használ. Kialakul az igény benne, hogy az osztálytermen kívüli idegen nyelvi hatásokat (pl. reklám, popzene) is megpróbálja hasznosítani.
+Értékelési szempontok:
 
-Témalista (ajánlás)
+▪ az éves fejlesztési terv koherenciája a szakképzést előkészítő évfolyam pedagógiai rendszerének megfelelő elemeivel,
 
-− Én és a családom: személyi adatok; foglalkozások; otthoni teendők, kötelességek; családi ünnepek.
+▪ az adott kompetencia fejlesztéséhez készült tanulási projektleírás koherenciája a pedagógiai rendszerben bemutatott tanulási projektleírással.
 
-− Emberi kapcsolatok: barátság; emberek külső és belső jellemzése.
+A tanúsítvány kiadásának feltételei: 90%-os részvétel, a feladatok írásban, határidőre történő benyújtása, valamint az írásbeli feladatok elfogadása.
 
-− Tágabb környezetünk: falu, kisváros, nagyváros, ország; a lakóhely bemutatása.
+(7) Támogató elemek
 
-− Természeti környezetünk: a természet megóvása; Földünk nevezetes tájai; veszélyeztetett növények és állatok.
+A szakképzést előkészítő évfolyam pedagógiai rendszerét bevezetni kívánó intézmények részére a kerettantervben és a fentiekben meghatározottakon kívül a következő, a program bevezetését segítő tevékenységek biztosításáról az oktatási miniszter gondoskodik:
 
-− Az iskola világa: az iskola bemutatása; az ideális órarend; az ideális iskola.
+▪ Tanácsadás
 
-− Egészséges életmód.
+▪ A program továbbfejlesztése és kiterjesztése további 8 szakmacsoportra
 
-− Étkezés: étkezési szokások nálunk és más országokban; különleges ételek és ételreceptek.
+▪ Hospitálási és helyszíni konzultációs lehetőség a szakképzést előkészítő évfolyam programját bevezető, a Szakiskolai Fejlesztési Program első körében részt vevő 23 intézményben
 
-− Vásárlás: mindennapi bevásárlás; ajándékok ünnepekre.
+▪ Helyszíni szakértői támogatás, szaktanácsadás
 
-− Utazás: utazási előkészületek; a kedvenc közlekedési eszközöd.
+KERETTANTERV A SZAKISKOLÁK 9–10. OSZTÁLYA SZÁMÁRA
 
-− Szabadidő és szórakozás: sport az iskolában és az iskolán kívül; tévé, videó, számítógép és olvasás.
+AZ ANGOL MINT IDEGEN NYELV
 
-5. évfolyam
+1. Bevezetés
 
-Évi óraszám: 111
+A szakiskolai angolnyelv-oktatás fejlesztését célzó kerettanterv a szakiskolák 9. és 10. évfolyamának fejlesztési feladatait, tartalmát, témáit, a tevékenységeket és az elérhető eredményeket tartalmazza. A cél az, hogy a tanuló olyan kompetenciákat és stratégiákat sajátítson el, amelyek segítségével képes idegen nyelven kommunikálni, használható nyelvtudásra szert tenni. Ehhez szükség van olyan hatékony nyelvi képzésre, amely megfelel a korszerű idegennyelv-oktatás elvárásainak. A szakiskolai nyelvoktatás során maximálisan figyelembe kell venni a szakiskolai tanulók képességeit és a megszerzett tudását. A kerettanterv a Nemzeti alaptantervből kiindulva a szakiskolai helyi tantervek kialakításához nyújthat segítséget.
 
-Tartalom
+A kerettanterv készítésekor a középpontban a tanuló áll. A szakiskolába bekerülő tanulók tanulmányi eredménye meglehetősen gyenge, sokuk küzd az alapkészségekhez kapcsolódó problémákkal (írás-olvasási, számolási nehézségekkel). A legtöbbjük hátrányos szociális helyzetű és meglehetősen motiválatlan a tanulást, a pályaválasztást illetően. Mindezeket figyelembe véve a szakiskolai nyelvoktatásnak biztosítani kell az idegen nyelvi felzárkóztatás lehetőségét, a differenciált, szükség szerint egyéni tanulás rendszerét. A tanulóknak a 10. évfolyam végére az A1 szintet kell elérniük, illetve az A2 szint felé elmozdulniuk. Az idegen nyelvi alapkészségek közül a beszédkészség, a beszédértés kerül előtérbe.
 
-A kommunikációs szándékokra és a fogalomkörökre vonatkozó nyelvenként kidolgozott kimeneti követelményeket a kerettanterv hat nyelvre, kétéves bontásban tartalmazza.
+2. A műveltségterület tanításának célja
 
-Kommunikációs szándékok
+A szakiskolai diákok idegen nyelvi kommunikatív kompetenciájának fejlesztése a négy nyelvi alapkészség területén zajlik:
 
-(lásd a 6. évfolyam kerettantervénél)
+– beszédértés,
 
-Fogalomkörök
+– olvasásértés,
 
-(lásd a 6. évfolyam kerettantervénél)
+– beszédkészség,
 
-A továbbhaladás feltételei
+– íráskészség.
 
-Hallott szöveg értése
+A készségek közül a beszédértés és a beszédkészség élvez elsőbbséget.
 
-A tanuló
+A szakiskolában folyó idegennyelv-oktatás célja, hogy a tanulók a 10. évfolyam befejezésekor:
 
-− ismert nyelvi eszközökkel kifejezett kérést, utasítást megért, arra cselekvéssel válaszol;
+– elérjék a Közös Európai Referenciakeretben meghatározott A1 szintet a négy alapkészségben – elsősorban a beszédértés és a beszédkészség területén,
 
-− ismert nyelvi eszközökkel megfogalmazott kérdéseket megért;
+– elmozduljanak az A2 szint irányába és a beszédértés és beszédkészség terén megközelítsék, esetleg elérjék az A2 szintet.
 
-− ismert nyelvi eszközökkel, egyszerűen megfogalmazott szövegből fontos információt kiszűr.
+Optimális esetben a tanulók mind a négy alapkészségben elérhetik az A2 szintet.
+
+Az A1 és A2 szintek meghatározása
+
+A1 szint (minimumszint)
+
+Beszédértés
+
+– Képes önmagára, családjára és közvetlen környezetére vonatkozó ismerős szavakat és nagyon egyszerű mondatokat megérteni, ha lassan és érthetően mondják azokat.
+
+– Képes megérteni ismerős kifejezéseket és egyszerű mondatokat, melyek a mindennapi élet konkrét szükségleteivel kapcsolatosak, ha lassan és érthetően beszélnek hozzá és a legfontosabb információkat többször elismétlik.
+
+– Képes ismerős témakörökön belül lassan és érthetően elmondott rövid szövegek lényegét megérteni, ha sok bennük az internacionalizmus és van ideje feldolgozni a hallottakat.
+
+– Képes megérteni neveket, számokat, árakat és időpontokat, ha lassan és érthetően beszélnek hozzá.
+
+Olvasásértés
+
+– Képes egyszerű és jól strukturált szövegekben, melyek a mindennapok konkrét szükségleteivel kapcsolatosak, egyes szavakat és nagyon egyszerű mondatokat megérteni.
+
+– Képes arra, hogy sok internacionalizmust tartalmazó és/vagy képekkel illusztrált információközlő szövegek témáját beazonosítsa és a lényegi információkat megértse.
+
+– Ismerős kontextusban képes megérteni neveket, számokat, árakat és időpontokat, valamint egyes szavakat és nagyon egyszerű kifejezéseket.
 
 Beszédkészség
 
-A tanuló
+– Képes arra, hogy konkrét, ismerős helyzetekben egyszerű szavakkal, hétköznapi szófordulatokkal és nagyon egyszerű nyelvtani szerkezetekkel alapvető információkat adjon önmagáról és közvetlen környezetéről.
 
-− ismert nyelvi eszközökkel megfogalmazott kérdésekre néhány szóban vagy egyszerű mondatban válaszol;
+– Képes ismerős, hétköznapi helyzetekben röviden és jól begyakorolt fordulatok segítségével közléseket megfogalmazni úgy, hogy esetleg beszéd közben időnként hosszabb szüneteket tart, szavak után kutat az emlékezetében, küzd a nehéz szavak kiejtésével és mondandóját olykor újrafogalmazza.
 
-− tanult minta alapján egyszerű mondatokat mond, kérdéseket tesz fel;
+– Képes az ábécé hangjait és adott mennyiségű szót és kifejezést úgy kiejteni, hogy beszédét nagyobb erőfeszítés nélkül meg lehet érteni.
 
-− megértési probléma esetén segítséget kér.
-
-Olvasott szöveg értése
-
-A tanuló
-
-− ismert nyelvi eszközökkel megfogalmazott, néhány szóból álló mondatokat megért;
-
-− ismert nyelvi eszközökkel, egyszerű mondatokból álló rövid szövegben fontos információt megtalál;
-
-− ismert nyelvi eszközökkel megfogalmazott, egyszerű mondatokból álló szöveg lényegét megérti.
+– Közléseiben nagyjából megfelelően alkalmazza a szó- és mondathangsúlyt.
 
 Íráskészség
 
-A tanuló
+– Képes a személyére és egészen mindennapi, ismerős dolgokra vonatkozó adatokat röviden és egyszerűen írásban megfogalmazni.
 
-− ismert nyelvi elemekből álló rövid mondatokat helyesen lemásol.
+– Képes szótár segítségével mindennapi, ismerős témákhoz kapcsolódó feljegyzéseket készíteni.
 
-6. évfolyam
+– Képes számára ismerős szavakat és gyakran használt fordulatokat nagyjából helyesen leírni.
 
-Évi óraszám: 111
+Képes arra, hogy szavakat és szócsoportokat egyszerű kötőszavakkal összekössön.
 
-Tartalom
+Szóbeli interakció
 
-A kommunikációs szándékokra és a fogalomkörökre vonatkozó nyelvenként kidolgozott kimeneti követelményeket a kerettanterv hat nyelvre, kétéves bontásban tartalmazza.
+– Képes egyszerű módon kommunikálni, ha beszédpartnere lassan és érthetően beszél, továbbá hajlandó arra, hogy mondanivalóját szükség esetén többször, többféleképpen elismételje és segítséget nyújtson a válaszadásban.
 
-Kommunikációs szándékok
+– Képes arra, hogy egyszerű beszélgetést kezdeményezzen, s ennek során érti és alkalmazza az alapvető udvariassági formák legegyszerűbb változatait.
 
-Társadalmi érintkezéshez szükséges kommunikációs szándékok:
+– Képes néhány egyszerű, jól begyakorolt kifejezéssel és mondattal megoldani olyan ismerős helyzeteket, melyek mindennapi, konkrét szükségleteihez kapcsolódnak.
 
-− megszólítás,
+– Képes jól ismert helyzetekben egyszerű szavak, kifejezések és nyelvtani szerkezetek segítségével megválaszolni közvetlenül hozzá intézett kérdéseket és képes arra, hogy ő maga is feltegyen egyszerű kérdéseket.
 
-− köszönés, elköszönés,
+– Képes rövid beszélgetésben előre begyakorolt fordulatok segítségével kommunikálni, még akkor is, ha gyakran megakad és keresi a szavakat.
 
-− köszönet és arra reagálás,
+– Képes arra, hogy beszédpartnere mondanivalóját a mondathangsúly alapján kijelentésként, kérdésként vagy felszólításként értelmezze.
 
-− bemutatkozás,
+– Képes beszédében a mondathangsúlyt úgy alkalmazni, hogy mondanivalójában többnyire világosan elkülönüljön a kijelentés, a kérdés és a felszólítás.
 
-− érdeklődés hogylét iránt és arra reagálás,
+– Kiejtése legalább annyira érthető, hogy beszélgetőpartnere többnyire követni tudja, amit mond.
 
-− bocsánatkérés és arra reagálás,
+Írásbeli interakció
 
-− gratuláció, jókívánságok és arra reagálás.
+– Képes arra, hogy ismerős témakörökben szótár segítségével egyszerű, rövid közléseket megfogalmazzon, miközben a tanult egyszerű nyelvtani szerkezetek használatában még bizonytalanságokat mutat.
 
-Személyes beállítódás és vélemény kifejezésére szolgáló kommunikációs szándékok:
+– Képes arra, hogy személyes kapcsolatai ápolására rövid, egyszerű szövegeket alkosson (pl. üdvözlőkártya, levelezőlap, e-mail).
 
-− egyetértés, egyet nem értés,
+A2 szint (alapszint)
 
-− tetszés, nem tetszés.
+Beszédértés
 
-Információcseréhez kapcsolódó kommunikációs szándékok:
+– Képes arra, hogy a mindennapi élet területén egyszerű mondatokat, gyakran használt szófordulatokat, szavakat megértsen.
 
-− dolgok, személyek megnevezése, leírása,
+– Képes arra, hogy felismerje a lassan és érthetően irodalmi angol nyelven elhangzó és ismerős dolgokról szóló szövegek témáját.
 
-− információkérés, információadás,
+– Képes ismerős témakörökön belül érthetően elmondott rövid szövegek lényegét megérteni, ha sok bennük az internacionalizmus és van ideje feldolgozni a hallottakat.
 
-− igenlő vagy nemleges válasz,
+– Képes egyszerű, rövid, a mindennapokkal kapcsolatos szövegek témáját meghatározni, valamint a szövegekből egyszerű, személyes szükségletei szempontjából fontos információkat kiszűrni.
 
-− tudás, nem tudás.
+Olvasásértés
 
-A partner cselekvését befolyásoló kommunikációs szándékok:
+– Képes egyszerű és jól strukturált, a mindennapi élettel összefüggő szövegek lényegét megérteni.
 
-− kérés,
+– Képes ismerős témakörökben egyszerű és formalizált szövegeket megérteni, ha azok nagyrészt gyakran előforduló szavakat és fordulatokat és/vagy internacionalizmusokat tartalmaznak.
 
-− javaslat és arra reagálás,
-
-− meghívás és arra reagálás,
-
-− kínálás és arra reagálás.
-
-Interakcióban jellemző kommunikációs szándékok:
-
-− visszakérdezés,
-
-− nem értés,
-
-− betűzés kérése, betűzés.
-
-Fogalomkörök
-
-− cselekvés, történés, létezés kifejezése,
-
-− birtoklás kifejezése,
-
-− térbeli viszonyok,
-
-− időbeli viszonyok,
-
-− mennyiségi viszonyok,
-
-− minőségi viszonyok,
-
-− modalitás,
-
-− esetviszonyok,
-
-− logikai viszonyok,
-
-− szövegösszetartó eszközök.
-
-A továbbhaladás feltételei
-
-5–6. évfolyam
-
-Hallott szöveg értése
-
-A tanuló
-
-− utasításokat megért, azokra cselekvéssel válaszol;
-
-− jórészt ismert nyelvi eszközökkel megfogalmazott kéréseket, kérdéseket, közléseket megért;
-
-− jórészt ismert nyelvi eszközökkel, egyszerű mondatokban megfogalmazott szövegből fontos információt kiszűr;
-
-− jórészt ismert nyelvi eszközökkel, egyszerű mondatokban megfogalmazott szöveg lényegét megérti.
+– Képes arra, hogy hosszabb szövegekből kiszűrje és megértse a számára fontos információt.
 
 Beszédkészség
 
-A tanuló
+– Képes arra, hogy mindennapi helyzetekben egyszerű nyelvi eszközökkel kifejezze magát, miközben azonban még gyakran megakad és szavak után kutat.
 
-− ismert nyelvi eszközökkel megfogalmazott kérdésekre egyszerű mondatokban válaszol;
+– Képes arra, hogy egyszerű szavakkal és rövid mondatokkal megközelítően korrekt közléseket fogalmazzon meg közvetlen környezetéről (pl. emberek, helyek és helyszínek, munkahelyi vagy iskolai tapasztalatok).
 
-− tanult minta alapján egyszerű mondatokban közléseket megfogalmaz,
+– Képes csekély szókincs és egyszerű nyelvtani szerkezetek segítségével ismerős témákról, személyes érdeklődési körében közléseket megfogalmazni.
 
-− kérdéseket tesz fel;
+– Közléseiben többnyire világosan ki tudja fejezni szándékát.
 
-− megértési probléma esetén segítséget kér;
+– Képes egy esemény lefolyásáról megfelelő kötőszavak segítségével időbeli sorrendben beszámolni.
 
-− tanult minta alapján egyszerű párbeszédben részt vesz.
+– Képes arra, hogy szavakat és egyszerű mondatokat kötőszavakkal összekössön.
 
-Olvasott szöveg értése
+– Képes mondatait helyesen hangsúlyozni és hosszabb közléseit megfelelően tagolni.
 
-A tanuló
-
-− jórészt ismert nyelvi eszközökkel megfogalmazott, egyszerű mondatokat megért;
-
-− jórészt ismert nyelvi eszközökkel egyszerű mondatokban megfogalmazott szövegben fontos információt megtalál;
-
-− jórészt ismert nyelvi eszközökkel megfogalmazott, egyszerű mondatokból álló rövid szöveg lényegét megérti.
+– Kiejtése többnyire nem nehezíti az értést, bár idegen akcentusa feltűnő.
 
 Íráskészség
 
-A tanuló
+– Képes arra, hogy egyszerű kifejezésekkel és rövid mondatokkal nagyjából hibátlan közléseket fogalmazzon meg közvetlen környezetével kapcsolatban (pl. emberek, helyek és helyszínek, munkahelyi vagy iskolai tapasztalatok).
 
-− ismert nyelvi eszközökkel megfogalmazott, egyszerű mondatokat helyesen lemásol.
+– Képes arra, hogy csekély szókinccsel és néhány egyszerű nyelvtani szerkezettel egyszerű formában nyilatkozzon ismerős témákról, őt magát személyesen érintő kérdésekről.
 
-Az idegen nyelvi mellékletek az egyes nyelvekből változatlanul mintául szolgálnak.
+– Képes egy esemény lefolyásáról megfelelő kötőszavak segítségével időbeli sorrendben beszámolni.
 
-7. évfolyam
+– Képes arra, hogy egyszerű mondatokat fogalmazzon meg és ezeket egyszerű kötőszavakkal összekösse.
 
-Évi óraszám: 111
+– Képes néhány fontos helyesírási szabály megközelítően helyesen alkalmazására.
 
-Tartalom
+Szóbeli interakció
 
-A kommunikációs szándékokra és a fogalomkörökre vonatkozó nyelvenként kidolgozott kimeneti követelményeket a kerettanterv hat nyelvre, kétéves bontásban tartalmazza.
+– Képes ismerős témákról egyszerű módon kommunikálni, ha beszélgetőpartnere irodalmi német nyelven szól hozzá és hajlandó arra, hogy kérésre bizonyos dolgokat megismételjen vagy átfogalmazzon.
 
-Kommunikációs szándékok
+– Képes arra, hogy a mindennapi élet konkrét szükségleteihez kapcsolódó helyzetekben rövid, egyszerű kifejezésekkel, mondatokkal kommunikáljon, miközben a kevésbé ismerős helyzeteket még nem mindig tudja megoldani és esetenként félreértésekbe bonyolódik.
 
-(lásd a 8. évfolyam kerettantervénél)
+– Képes arra, hogy megoldjon ismerős, egyszerű és rutinszerű nyelvi helyzeteket, de közléseit rövidre fogja.
 
-Fogalomkörök
+– Képes arra, hogy ismerős helyzetekben egyszerű nyelvi eszközökkel kommunikáljon.
 
-(lásd a 8. évfolyam kerettantervénél)
+– Képes arra, hogy ismerős témakörben folyó beszélgetések során, ha azok lassan és érthetően zajlanak, kövesse a beszélgetések fonalát, kérdéseket tegyen fel, illetve kérdésekre válaszoljon.
 
-A továbbhaladás feltételei
+– Képes arra, hogy nem értés esetén megkérje beszélgetőpartnerét, ismételje meg a mondottakat vagy betűzzön bizonyos szavakat és kérésre ő maga is képes ezt megtenni.
 
-Hallott szöveg értése
+– Képes beszédében a mondathangsúlyt úgy alkalmazni, hogy mondanivalójában világosan elkülönüljön a kijelentés, a kérdés és a felszólítás.
 
-A tanuló
+– Kiejtése többnyire nem zavarja közlései megértését.
 
-− megérti az utasításokat, azokra cselekvéssel válaszol;
+Írásbeli interakció
 
-− jórészt ismert nyelvi eszközökkel megfogalmazott kéréseket, kérdéseket, közléseket, eseményeket megért;
+– Képes jól ismert helyzetekben, megfelelő szókinccsel rövid, egyszerű közléseket fogalmazni, melyekben sok a formalizált elem, visszatérő szófordulat.
 
-− jórészt ismert nyelvi eszközökkel megfogalmazott szövegből fontos információt kiszűri;
+– Képes rövid, személyes jellegű szövegekben, melyek egyszerű formában eseményekre és kívánságokra vonatkoznak, a közléseket megérteni és azokra egyszerű nyelvi eszközökkel reagálni.
 
-− jórészt ismert nyelvi eszközökkel, egyszerű mondatokban megfogalmazott szöveg lényegét megért;
+– Képes gyakran használt szavak esetében alkalmazni a legfontosabb helyesírási szabályokat, s így a helytelen írásmódból adódó félreértéseket elkerülni.
 
-− ismeretlen nyelvi elemek jelentését jórészt ismert nyelvi eszközökkel megfogalmazott szövegből kikövetkezteti.
+3. A műveltségterület fejlesztési feladatai
 
-Beszédkészség
+Az élő idegen nyelv tanításának és tanulásának alapvető célja a kommunikatív nyelvi kompetenciák kialakítása. A kommunikatív nyelvi kompetencia fogalma azonos a használható nyelvtudással. Az adott szituációnak megfelelő nyelvhasználati képességet jelenti, melynek mérése és értékelése a négy nyelvi alapkészségen (hallás utáni értés, beszédkészség, olvasás utáni értés, íráskészség) keresztül lehetséges.
 
-A tanuló
+A kommunikatív kompetencia fogalmába beletartozik:
 
-− jórészt ismert nyelvi eszközökkel megfogalmazott kérdésekre mondatokban válaszol;
+– a nyelvi kompetencia (a nyelvi eszközök, illetve ezen eszközök funkcióinak ismerete),
 
-− egyszerű mondatokban közléseket megfogalmaz;
+– a szociolingvisztikai kompetencia (a nyelvi kifejezésmódban a beszédhelyzethez való alkalmazkodás képessége),
 
-− kérdéseket tesz fel;
+– a szövegkompetencia (a szövegalkotásban és szövegértelmezésben a megfelelő stratégiák alkalmazása),
 
-− eseményt mesél el;
+– a stratégiai kompetencia (a verbális és nem verbális kommunikáció eszközeinek alkalmazása a kommunikáció során előforduló nehézségek áthidalására),
 
-− megértési probléma esetén segítséget kér;
+– a szociokulturális kompetencia (annak ismerete, hogy a társadalmi és kulturális környezet hogyan határozza meg a nyelvi elemek kommunikatív értékét).
 
-− beszélgetést kezdeményez, befejez.
+A nyelvtanulás során a tanulókban alakuljon ki és maradjon ébren a kedvező attitűd és motiváció a nyelvtanulás, a tanult nyelv, a célnyelven beszélő emberek és kultúrájuk, valamint más nyelvek megismerésére.
 
-Olvasott szöveg értése
-
-A tanuló
-
-− jórészt ismert nyelvi eszközökkel megfogalmazott szöveget megért;
-
-− jórészt ismert nyelvi eszközökkel megfogalmazott szövegben fontos információt megtalál;
-
-− jórészt ismert nyelvi eszközökkel megfogalmazott szöveg lényegét megérti;
-
-− egyszerű, képekkel illusztrált szöveget megért;
-
-− ismeretlen nyelvi elemek jelentését jórészt ismert nyelvi elemek segítségével megfogalmazott szövegben kikövetkezteti.
-
-Íráskészség
-
-A tanuló
-
-− jórészt ismert nyelvi eszközökkel megfogalmazott rövid szöveget diktálás után leír;
-
-− egyszerű, strukturált szöveget (baráti üzenet, üdvözlet) létrehoz;
-
-− ismert struktúrák felhasználásával tényszerű információt közvetítő szöveget ír.
-
-8. évfolyam
-
-Évi óraszám: 111
-
-Tartalom
-
-A kommunikációs szándékokra és a fogalomkörökre vonatkozó nyelvenként kidolgozott kimeneti követelményeket a kerettanterv hat nyelvre, kétéves bontásban tartalmazza.
-
-Kommunikációs szándékok
-
-Társadalmi érintkezéshez szükséges kommunikációs szándékok:
-
-− megszólítás,
-
-− köszönés, elköszönés,
-
-− bemutatás, bemutatkozás,
-
-− érdeklődés hogylét iránt és arra reagálás,
-
-− engedélykérés és arra reagálás,
-
-− köszönet és arra reagálás,
-
-− bocsánatkérés és arra reagálás,
-
-− gratuláció, jókívánságok és arra reagálás,
-
-− személyes levélben megszólítás, és elbúcsúzás.
-
-Érzelmek kifejezésére szolgáló kommunikációs szándékok:
-
-− sajnálkozás,
-
-− öröm,
-
-− elégedettség, elégedetlenség,
-
-− csodálkozás,
-
-− remény,
-
-− bosszúság.
-
-Személyes beállítódás és vélemény kifejezésére szolgáló kommunikációs szándékok:
-
-− véleménykérés és arra reagálás,
-
-− valaki igazának az elismerése és el nem ismerése,
-
-− egyetértés, egyet nem értés,
-
-− tetszés, nem tetszés,
-
-− akarat, kívánság, képesség, szükségesség, lehetőség,
-
-− ígéret,
-
-− szándék,
-
-− dicséret.
-
-Információcseréhez kapcsolódó kommunikációs szándékok:
-
-− dolgok, személyek megnevezése, leírása,
-
-− események leírása,
-
-− információkérés, információadás,
-
-− igenlő vagy nemleges válasz,
-
-− tudás, nem tudás,
-
-− bizonyosság, bizonytalanság.
-
-A partner cselekvését befolyásoló kommunikációs szándékok:
-
-− kérés,
-
-− tiltás, felszólítás,
-
-− javaslat és arra reagálás,
-
-− meghívás és arra reagálás,
-
-− kínálás és arra reagálás.
-
-Interakcióban jellemző kommunikációs szándékok:
-
-− visszakérdezés, ismétléskérés,
-
-− nem értés,
-
-− betűzés kérése, betűzés,
-
-− felkérés lassabb, hangosabb beszédre.
-
-Fogalomkörök
-
-– cselekvés, létezés, történés kifejezése,
-
-– birtoklás kifejezése,
-
-– térbeli viszonyok,
-
-– időbeli viszonyok,
-
-– mennyiségi viszonyok,
-
-– minőségi viszonyok,
-
-– modalitás,
-
-– esetviszonyok,
-
-– logikai viszonyok,
-
-– szövegösszetartó eszközök.
-
-A továbbhaladás feltételei
-
-7–8. évfolyam
-
-Hallott szöveg értése
-
-A tanuló
-
-[^28]: Az 1. számú melléklet címe a 9/2007. (II. 27.) OKM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^29]: Az 1–4. évfolyam szerkezetére vonatkozó eltérést lásd az 1–4. évfolyamos kerettanterv bevezetőjében.
+[^12]: Az 51/2012. (XII. 21.) EMMI rendelet 16. §-a alapján az 1. számú mellékletben a 9–13. évfolyamokra kiadott kerettanterveket, továbbá a 2. és 3. számú mellékletben kiadott kerettanterveket 2020. augusztus 31-ig kifutó rendszerben lehet alkalmazni a nevelési-oktatási intézményekben a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 243/2003. (XII. 17.) Korm. rendelet és az 51/2012. (XII. 21.) EMMI rendelet alapján kiadott kerettantervek felmenő rendszerű bevezetéséhez igazodva.
+[^13]: Az 1. számú melléklet címe a 9/2007. (II. 27.) OKM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^14]: Az 1–4. évfolyam szerkezetére vonatkozó eltérést lásd az 1–4. évfolyamos kerettanterv bevezetőjében.
+[^15]: Az 1. melléklet II. fejezete az 51/2012. (XII. 21.) EMMI rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^16]: A „Kerettanterv a szakiskolák számára” címet és a III. fejezetet az 1/2006. (VI. 29.) OKM rendelet 1. §-a iktatta be.
+[^17]: Kt. 27. § (2)
+[^18]: Kt. 27. § (6)
+[^19]: Kt. 27. § (15)
+[^20]: Kt. 8/A. § (1) b)
+[^21]: Szakképzési törvény 11. § (3) a)
+[^22]: Kt. 8. § (4) a)
+[^23]: Kt. 27. § (15)
+[^24]: Kt. 27. § (6)
+[^25]: 243/2003. (XII. 17.) Kormányrendelet a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról 7. § 1.c)
+[^26]: Kt. 27. § (2)
+[^27]: Kt. 8/A. § (3)
+[^28]: Megjegyzés: A tanuló számára a Pályaorientáció során megismerendő kötelezően választható szakmacsoportok moduljai olyannyira szabadon választhatók, hogy akár más szakképző intézményben oktatott szakmacsoportok is megismerhetők ily módon (például a TISZK központi képzőhelyén, vagy vendégtanulói jogviszony biztosításával az adott modul elsajátításának időtartamára.) Szintén szabadon választható a tanuló számára az iskola által meghirdetett teljes kínálatból a szakmai alapozás szakasz modulja.
+[^29]: A helyi tantervbe építés módja: Rögzíteni kell az egyes modulok értékelését és minősítését, valamint beszámítását az iskolai évfolyam sikeres befejezésébe. A tantárgyak és az előírt tananyag helyett a kötelezően választandó („A” jelűek) és a kötelezően választható („S” jelűek), valamint a szabadon válaszható modulokat jelölje meg és azok ajánlott óraszámait, az előírt követelmények helyett a kompetenciatáblázatban felsorolt kompetenciák teljes körét.
+[^30]: Projekt alapú éves fejlesztési terv: A pedagógus által a teljes képzési időtartamra tervezett tanmenet/tantárgyi program elnevezés helyett ebben a rendszerben a projekt alapú éves fejlesztési terv megnevezést használjuk. Ez csak akkor biztosítja a tanuló számára a kompetenciák elsajátítását, ha lefedi a szakmacsoportra jellemző összes kompetenciát a modulok/projektek sorozata! A sajátos tanulói célcsoportra tekintettel a tanulási módszerek sokféleségét is biztosítani kell.

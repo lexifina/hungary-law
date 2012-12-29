@@ -1,3 +1,3 @@
-## 8. §[^22] Az e rendeletben szabályozott eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni.
+## 3–8. §[^6]
 
-[^22]: A 8. § a 2/2006. (II. 17.) OM rendelet 2. § (3) bekezdésével megállapított szöveg. E módosító rendelet 3. §-a alapján a rendelkezést a 2006. február 25. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^6]: A 3–8. §-t az 51/2012. (XII. 21.) EMMI rendelet 15. § (2) bekezdése hatályon kívül helyezte.
