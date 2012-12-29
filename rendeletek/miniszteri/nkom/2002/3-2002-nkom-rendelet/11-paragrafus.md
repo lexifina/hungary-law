@@ -2,15 +2,15 @@
 
 11. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépés után indult eljárásokban kell alkalmazni.
 
-(2)[^9]
+(2)[^11]
 
-Melléklet a 3/2002. (II. 15.) NKÖM rendelethez
+Melléklet a 3/2002. (II. 15.) NKÖM rendelethez[^12]
 
 A kulturális javak védetté nyilvánítási eljárásában szakértőként
 
 közreműködő intézmények
 
-| 1. Magyarországi eredetű képzőmű- vészeti alkotás (festmény, szobor, grafika, plakett, dombormű stb.) | Magyar Nemzeti Galéria | 1014 Budapest, Budavári Palota B–C–D épület |
+| 1. Magyarországi eredetű képzőmű- vészeti alkotás (festmény, szobor, grafika, plakett, dombormű stb.) | Szépművészeti Múzeum | 1014 Budapest, Budavári Palota B–C–D épület |
 
 | 2. Külföldi eredetű képzőművészeti alkotás, kivéve a 3. és 5. pontnál lévők | Szépművészeti Múzeum | 1146 Budapest, Dózsa György út 41. |
 
@@ -28,33 +28,33 @@ közreműködő intézmények
 
 | 9. Színháztörténeti emlékek | Országos Színháztörténeti Múzeum és Intézet | 1013 Budapest, Krisztina krt. 57. |
 
-| 10. Műszaki és technikatörténeti emlékek | Országos Műszaki Múzeum | 1117 Budapest, Kaposvár u. 13–14. |
+| 10. Műszaki és technikatörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 1117 Budapest, Kaposvár u. 13–14. |
 
-| 11. Zenetörténeti emlékek | MTA Zenetörténeti Múzeuma | 1014 Budapest, Táncsics M. u. 7. |
+| 11. Zenetörténeti emlékek | Zenetörténeti Múzeum | 1014 Budapest, Táncsics M. u. 7. |
 
-| 12. Hadtörténeti emlékek | Hadtörténeti Múzeum | 1014 Budapest, Tóth Árpád sétány 40. |
+| 12. Hadtörténeti emlékek | Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum | 1014 Budapest I., Kapisztrán tér 2–4. |
 
 | 13. Sporttörténeti emlékek | Testnevelési és Sportmúzeum | 1143 Budapest, Dózsa György út 3. |
 
 | 14. Mezőgazdaság-történeti emlékek | Magyar Mezőgazdasági Múzeum | 1146 Budapest, Városliget, Széchenyi sziget |
 
-| 15. Közlekedéstörténeti emlékek | Közlekedési Múzeum | 1146 Budapest, Városligeti krt. 11. |
+| 15. Közlekedéstörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 1146 Budapest, Városligeti krt. 11. |
 
 | 16. Budapest várostörténetére vonatkozó emlékek és leletek | Budapesti Történeti Múzeum | 1014 Budapest, Budavári Palota E épület |
 
-| 17. Kereskedelmi és vendéglátóipari emlékek | Magyar Kereskedelmi és Vendéglátóipari Múzeum | 1014 Budapest, Fortuna utca 4. |
+| 17. Kereskedelmi és vendéglátóipari emlékek | Magyar Kereskedelmi és Vendéglátóipari Múzeum | 1036 Budapest, Korona tér 1. |
 
 | 18. Orvos- és gyógyszerészettörténeti emlékek | Semmelweis Orvostörténeti Múzeum, Könyvtár és Levéltár | 1013 Budapest, Apród u. 1–3. |
 
-| 19. Rendőrség- és bűnözéstörténeti tárgyi emlékek | Bűnügyi és Rendőrség-történeti Múzeum | 1087 Budapest, Mosonyi u. 7. |
+| 19. Rendőrség- és bűnözéstörténeti tárgyi emlékek | Rendőrmúzeum | 1087 Budapest, Mosonyi u. 7. |
 
-| 20. Neveléstudományi (pedagógiai) emlékek | Országos Pedagógiai Könyvtár és Múzeum | 1089 Budapest, Győrffy I. u. 22–24. |
+| 20. Neveléstudományi (pedagógiai) emlékek | Oktatáskutató és Fejlesztő Intézet Pedagógiai Könyvtár és Múzeum | 1089 Budapest, Győrffy I. u. 22–24. |
 
-| 21. A tűzkárok és a katasztrófák elleni küzdelem, a tűzvédelem és a polgári védelem tárgyi emlékei | Tűzoltó Múzeum | 1155 Budapest, Martinovics tér 12. |
+| 21. A tűzkárok és a katasztrófák elleni küzdelem, a tűzvédelem és a polgári védelem tárgyi emlékei | Katasztrófavédelem Központi Múzeuma | 1155 Budapest, Martinovics tér 12. |
 
 | 22. Bélyegek, filatélia | Bélyegmúzeum | 1074 Budapest, Hársfa u. 47. |
 
-| 23. Iratok, irategyüttesek | Magyar Országos Levéltár | 1014 Budapest, Bécsi kapu tér 2–4. |
+| 23. Iratok, irategyüttesek | Magyar Nemzeti Levéltár | 1014 Budapest, Bécsi kapu tér 2–4. |
 
 | 24. Építészettörténeti emlékek | Magyar Építészeti Múzeum | 1036 Budapest, Mókus u. 20. |
 
@@ -62,10 +62,11 @@ közreműködő intézmények
 
 | 26. Vízügytörténeti és környezet- védelmi emlékek | Magyar Környezetvédelmi és Vízügyi Múzeum | 2500 Esztergom, Kölcsey u. 2. |
 
-| 27. Mozgófilmek, videofelvételek | Magyar Nemzeti Filmarchívum | 1021 Budapest, Budakeszi út 51/B |
+| 27. Mozgófilmek, videofelvételek | Magyar Nemzeti Digitális Archívum és Filmintézet | 1021 Budapest, Budakeszi út 51/B |
 
-| 28. Elektronikus információ hordozók | Neumann János Digitális Könyvtár és Multimédia Központ | 1014 Budapest, Színház u. 1–3. |
+| 28. |  |  |
 
 | 29. Egyház- és vallástörténeti emlé- kek, kegytárgyak, műalkotások | A tárgy jellegének megfelelő fenti közgyűjtemények, az alábbi illetékes felekezeti intézmények bevonásával: Országos Katolikus Gyűjteményi Központ Evangélikus Országos Múzeum Országos Református Gyűjteményi Központ Országos Zsidó Vallási és Történeti Gyűjtemény | 1071 Budapest, Városligeti fasor 45. 1052 Budapest, Deák tér 4. 1146 Budapest, Abonyi u. 21. 1075 Budapest, Dohány u. 2. |
 
-[^9]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 47. pontja hatályon kívül helyezte.
+[^11]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 47. pontja hatályon kívül helyezte.
+[^12]: A Melléklet az 54/2012. (XII. 28.) EMMI rendelet 2. § (1) bekezdés c)–l) pontja és (2) bekezdése szerint módosított szöveg.
