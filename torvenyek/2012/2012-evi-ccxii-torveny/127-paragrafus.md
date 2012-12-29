@@ -1,1 +1,0 @@
-127. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvény 103. § (7) bekezdésében az „a 49. § (2) bekezdése, az 51. § a) és c) pontja” szövegrész helyébe az „az 51. § a) pontja” szöveg lép.
