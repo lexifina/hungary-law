@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1989-6-20-06
 | 2012-03-01 | 1989-6-20-06.7 | 11/2012. (II. 29.) KIM rendelet |
 | 2012-07-07 | 1989-6-20-06.8 | 40/2011. (XII. 30.) KIM rendelet |
 | 2012-08-28 | 1989-6-20-06.9 | 11/2012. (II. 29.) KIM rendelet |
+| 2012-12-29 | 1989-6-20-06.10 | 11/2012. (II. 29.) KIM rendelet |
