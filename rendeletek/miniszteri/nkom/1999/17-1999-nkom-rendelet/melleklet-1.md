@@ -10,19 +10,17 @@ Sorszám Intézmény megnevezése, számlaszáma
 
 -------------
 
-1. Nemzeti Kulturális Örökség Minisztérium Hivatala, Budapest 10032000-00282314
-
-2. NKÖM Gazdasági Főigazgatóság, Budapest 10032000-00282462
+1–2.[^3]
 
 3. Országos Széchényi Könyvtár, Budapest 10032000-01427659
 
 4. Országos Idegennyelvű Könyvtár, Budapest 10032000-01427666
 
-5. Magyar Országos Levéltár, Budapest 10032000-01425011
+5.[^4] Magyar Nemzeti Levéltár, Budapest 10032000-01425011
 
 6. Országos Színháztörténeti Múzeum és Intézet, Budapest 10032000-01711569
 
-7. Magyar Nemzeti Filmarchívum, Budapest 10032000-01714036
+7.[^5] Magyar Nemzeti Digitális Archívum és Filmintézet, Budapest 10032000-01714036
 
 8. Szabadtéri Néprajzi Múzeum, Szentendre 10032000-01425176
 
@@ -36,11 +34,11 @@ Sorszám Intézmény megnevezése, számlaszáma
 
 13. Szépművészeti Múzeum, Budapest 10032000-01425114
 
-14. Országos Műszaki Múzeum, Budapest 10032000-01425035
+14.[^6] Magyar Műszaki és Közlekedési Múzeum, Budapest 10032000-01425035
 
 15. Magyar Nemzeti Múzeum, Budapest 10032000-01425121
 
-16. Magyar Nemzeti Galéria, Budapest 10032000-01426050
+16.[^7]
 
 17. Kortárs Művészeti Múzeum – Ludwig Múzeum, Budapest 10032000-01425107
 
@@ -54,22 +52,29 @@ Sorszám Intézmény megnevezése, számlaszáma
 
 22. Műcsarnok, Budapest 10032000-01712450
 
-23. Képző- és Iparművészeti Lektorátus, Budapest 10032000-01738557
+23.[^8]
 
-24. Kulturális Örökségvédelmi Hivatal, Budapest 10032000-01461769
+24.[^9] Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ, Budapest 10032000-01461769
 
-25. Állami Műemlék-helyreállítási és Restaurálási Központ, Budapest 10032000-01711318
+25–26.[^10]
 
-26. Műemlékek Állami Gondnoksága, Budapest 10032000-01711301
-
-27. Magyar Művelődési Intézet, Budapest 10032000-01425334
+27.[^11] Nemzeti Közművelődési és Közgyűjteményi Intézet, Budapest 10032000-01425334
 
 28. NKA Igazgatósága, Budapest 10032000-01425200
 
-29.[^3]
+29.[^12]
 
-30.[^4] Balassi Intézet
+30.[^13]
 
 [^2]: Az 1. számú melléklet a 4/2005. (II. 8.) NKÖM–OM együttes rendelet 2. §-ával megállapított szöveg.
-[^3]: Az 1. számú melléklet 29. pontját a 10/2007. (II. 28.) OKM rendelet 6. § (2) bekezdésének g) pontja hatályon kívül helyezte.
-[^4]: Az 1. számú melléklet 30. pontja a 10/2007. (II. 28.) OKM rendelet 6. § (3) bekezdésének g) pontjával megállapított szöveg.
+[^3]: Az 1. számú melléklet 1–2. pontját az 54/2012. (XII. 28.) EMMI rendelet 1. § (2) bekezdése hatályon kívül helyezte.
+[^4]: Az 1. számú melléklet 5. pontja az 54/2012. (XII. 28.) EMMI rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. számú melléklet 7. pontja az 54/2012. (XII. 28.) EMMI rendelet 1. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^6]: Az 1. számú melléklet 14. pontja az 54/2012. (XII. 28.) EMMI rendelet 1. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^7]: Az 1. számú melléklet 16. pontját az 54/2012. (XII. 28.) EMMI rendelet 1. § (2) bekezdése hatályon kívül helyezte.
+[^8]: Az 1. számú melléklet 23. pontját az 54/2012. (XII. 28.) EMMI rendelet 1. § (2) bekezdése hatályon kívül helyezte.
+[^9]: Az 1. számú melléklet 24. pontja az 54/2012. (XII. 28.) EMMI rendelet 1. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^10]: Az 1. számú melléklet 25–26. pontját az 54/2012. (XII. 28.) EMMI rendelet 1. § (2) bekezdése hatályon kívül helyezte.
+[^11]: Az 1. számú melléklet 27. pontja az 54/2012. (XII. 28.) EMMI rendelet 1. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^12]: Az 1. számú melléklet 29. pontját a 10/2007. (II. 28.) OKM rendelet 6. § (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^13]: Az 1. számú melléklet 30. pontját az 54/2012. (XII. 28.) EMMI rendelet 1. § (2) bekezdése hatályon kívül helyezte.
