@@ -4,7 +4,7 @@
 
 (3) Amennyiben a kérelmező személyazonosságát illetően kétség merül fel, az eljáró útlevél hatóság – szükség esetén az érintett személy meghallgatásával – elrendelheti a személyazonosítást.
 
-(4)[^91] Ha a kérelem felvételénél végrehajtott adategyeztetéskor a személyiadat- és lakcímnyilvántartás adatai nem egyeznek meg a bemutatott okmány vagy okirat adataival – a hazatérés céljából kiállított ideiglenes magánútlevél iránti kérelem kivételével – vizsgálni kell az eltérés okát, és indokolt esetben a személyiadat- és lakcímnyilvántartás adatait haladéktalanul helyesbíteni kell. A helyesbítést magyar állampolgár esetén kizárólag a magyar anyakönyvi okirat alapján – szükség esetén az illetékes anyakönyvvezető megkeresésével – lehet elvégezni. Az anyakönyvvezető a megkeresésnek soron kívül köteles eleget tenni.
+(4)[^91] Ha a kérelem felvételénél végrehajtott adategyeztetéskor a személyiadat- és lakcímnyilvántartás adatai nem egyeznek meg a bemutatott okmány vagy okirat adataival – a hazatérés céljából kiállított ideiglenes magánútlevél iránti kérelem kivételével – vizsgálni kell az eltérés okát, és indokolt esetben a személyiadat- és lakcímnyilvántartás adatait haladéktalanul helyesbíteni kell. A helyesbítést magyar állampolgár esetén kizárólag az elektronikus anyakönyvi nyilvántartás adatai alapján lehet elvégezni.
 
 (5)[^92]
 
@@ -15,7 +15,7 @@
 (8)[^95] Magyar állampolgárságát nem kell igazolnia annak, akinek adatait a polgárok személyi adatainak és lakcímének nyilvántartása külföldön élő magyar állampolgárként tartalmazza.
 
 [^90]: A 19. § (1) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 49. §-a (2) bekezdésének d) pontja, a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^91]: A 19. § új (4) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 12. §-a iktatta a szövegbe, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. A 19. § (4) bekezdése a 197/2006. (IX. 27.) Korm. rendelet 14. §-a, a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^91]: A 19. § új (4) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 12. §-a iktatta a szövegbe, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. A 19. § (4) bekezdése a 197/2006. (IX. 27.) Korm. rendelet 14. §-a, a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 409/2012. (XII. 28.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
 [^92]: A 19. § eredeti (4) bekezdésének számozását a 122/2004. (IV. 29.) Korm. rendelet 12. §-a (5) bekezdésre változtatta. A 19. § (5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^93]: A 19. § eredeti (5) bekezdésének számozását a 122/2004. (IV. 29.) Korm. rendelet 12. §-a (6) bekezdésre változtatta, szövege a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 98/2010. (IV. 2.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^94]: A 19. § (7) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
