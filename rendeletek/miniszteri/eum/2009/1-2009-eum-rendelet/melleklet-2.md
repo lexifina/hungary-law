@@ -296,7 +296,7 @@
 
 | VIII.17. | Sugáregészségügyi Decentrum által adott tevékenységi engedély területi hatályának kiterjesztése | 29 100 Ft |
 
-| VIII.18. | Filmdózismérővel végzett vizsgálat | 1 540 Ft/eset |
+| VIII.18. | Hatósági személyi dózismérővel végzett vizsgálat | 2070 Ft/eset |
 
 | VIII.19. | Munkahelyi sugárvédelmi szabályzat jóváhagyása | 10 500 Ft |
 
