@@ -10,4 +10,8 @@
 
 ## 6. elutasítja a 2. mellékletben szereplő kiemelt projekt akciótervi nevesítését.
 
-1. melléklet az 1464/2012. (X. 26.) Korm. határozathoz
+1. melléklet az 1464/2012. (X. 26.) Korm. határozathoz[^2]
+
+AZ ÉSZAK-ALFÖLDI OPERATÍV PROGRAM 2011-2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK
+
+[^2]: Az 1. melléklet az 1704/2012. (XII. 29.) Korm. határozat 2. pontja szerint módosított szöveg.
