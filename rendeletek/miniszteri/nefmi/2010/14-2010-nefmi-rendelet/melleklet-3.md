@@ -2,7 +2,7 @@
 
 |  | A A kiviendő kulturális javak műfaja, besorolása | B Szakértő (köz)intézmény |
 
-| 1. | Magyarországi eredetű képzőművészeti alkotás | MAGYAR NEMZETI GALÉRIA |
+| 1. | Magyarországi eredetű képzőművészeti alkotás | Szépművészeti Múzeum |
 
 | 2. | Külföldi eredetű képzőművészeti alkotás, kivéve a 3. és 5. pontnál lévők | SZÉPMŰVÉSZETI MÚZEUM |
 
@@ -22,7 +22,7 @@
 
 | 10. | Műszaki, technika- és közlekedéstörténeti emlékek | MAGYAR MŰSZAKI ÉS KÖZLEKEDÉSI MÚZEUM |
 
-| 11. | Zenetörténeti emlékek | MAGYAR TUDOMÁNYOS AKADÉMIA ZENETÖRTÉNETI MÚZEUMA |
+| 11. | Zenetörténeti emlékek | Zenetörténeti Múzeum |
 
 | 12. | Hadtörténeti emlékek | HONVÉDELMI MINISZTÉRIUM HADTÖRTÉNETI INTÉZET ÉS MÚZEUM |
 
@@ -36,21 +36,21 @@
 
 | 17. | Orvos- és gyógyszerészet-történeti emlékek | SEMMELWEIS ORVOSTÖRTÉNETI MÚZEUM, KÖNYVTÁR ÉS LEVÉLTÁR |
 
-| 18. | Rendőrség- és bűnözéstörténeti tárgyi emlékek | BŰNÜGYI ÉS RENDŐRSÉG-TÖRTÉNETI MÚZEUM |
+| 18. | Rendőrség- és bűnözéstörténeti tárgyi emlékek | Rendőrmúzeum |
 
-| 19. | Neveléstudományi (pedagógiai) emlékek | ORSZÁGOS PEDAGÓGIAI KÖNYVTÁR ÉS MÚZEUM |
+| 19. | Neveléstudományi (pedagógiai) emlékek | Oktatáskutató és Fejlesztő Intézet Pedagógiai Könyvtár és Múzeum |
 
 | 20. | A tűzkárok elleni küzdelem, a tűzvédelem tárgyi emlékei | TŰZOLTÓ MÚZEUM |
 
 | 21. | Bélyegek, filatélia | BÉLYEGMÚZEUM |
 
-| 22. | Iratok, irategyüttesek | MAGYAR ORSZÁGOS LEVÉLTÁR (VAGY BÁRMELY KÖZLEVÉLTÁR) |
+| 22. | Iratok, irategyüttesek | Magyar Nemzeti Levéltár (VAGY BÁRMELY KÖZLEVÉLTÁR) |
 
 | 23. | Építészettörténeti emlékek | MAGYAR ÉPÍTÉSZETI MÚZEUM |
 
 | 24. | Vízügytörténeti és környezetvédelmi emlékek | MAGYAR KÖRNYEZETVÉDELMI ÉS VÍZÜGYI MÚZEUM |
 
-| 25. | Mozgófilmek | MAGYAR NEMZETI FILMARCHÍVUM |
+| 25. | Mozgófilmek | Magyar Nemzeti Digitális Archívum és Filmintézet |
 
 | 26. | Egyház- és vallástörténeti emlékek, kegytárgyak, műalkotások | A tárgy jellegének megfelelő fenti közgyűjtemények, az alábbi illetékes felekezeti intézmények bevonásával: |
 
