@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-10-20-1
 | --- | --- | --- |
 | 2010-03-26 | 2010-10-20-1W.1 | 10/2010. (III. 11.) OKM rendelet |
 | 2012-03-29 | 2010-10-20-1W.2 | 18/2012. (III. 28.) NEFMI rendelet |
+| 2012-12-29 | 2010-10-20-1W.3 | 54/2012. (XII. 28.) EMMI rendelet |

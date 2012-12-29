@@ -1,4 +1,4 @@
-## 3. A szakmai minősítő testület és a Magyar Művelődési Intézet és Képzőművészeti Lektorátus
+## 3.[^2] A szakmai minősítő testület és a Nemzeti Közművelődési és Közgyűjteményi Intézet
 
 11. § (1) A szakmai minősítő testület 5 főből áll. A szakmai minősítő testület elnökét és négy tagját a miniszter bízza meg a 14. §-ban foglalt feltételeknek megfelelő szakértők közül. A megbízás 4 évre szól.
 
@@ -11,3 +11,5 @@
 (5) A szakmai minősítő testületnek a pályázatok elbírálása során figyelembe kell vennie a pályázó intézménynél alkalmazott, a vezetés minőség iránti elkötelezettségét, az erőforrás gazdálkodást, a célkitűzéseket és stratégiát, az alkalmazott értékteremtő folyamat irányítását, a társadalmi hatást és az eredményeket.
 
 (6) A szakmai minősítő testület javaslatot tesz a miniszternek a Cím visszavonására, ha a helyszíni ellenőrzés alapján megállapítható, hogy az érintett intézmény nem felel meg a pályázat benyújtásakor érvényes pályázati kiírásban foglaltaknak.
+
+[^2]: A 3. alcím címe az 54/2012. (XII. 28.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
