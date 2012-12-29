@@ -1,1 +1,0 @@
-Az illetékekről szóló, többször módosított 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében foglalt felhatalmazás alapján az időszaki lapok nyilvántartásba vételéért és kezeléséért fizetendő igazgatási szolgáltatások díjáról – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
