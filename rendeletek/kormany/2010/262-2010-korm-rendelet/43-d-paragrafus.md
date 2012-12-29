@@ -30,6 +30,8 @@ c) 7 éven belül a pályázónak természetkárosítás bűntette miatti bünte
 
 a) a Tft. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
 
-b) a pályázati kiírásban közzétett természetvédelmi célra, feladatra létesült és nonprofit szervezetnek minősül, vagy
+b)[^43]
 
 c) a régi magyar háziállatfajták tartását, tenyésztését és genetikai állományának megőrzését végzi, különös tekintettel a legeltetett fajokra és fajtákra.
+
+[^43]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
