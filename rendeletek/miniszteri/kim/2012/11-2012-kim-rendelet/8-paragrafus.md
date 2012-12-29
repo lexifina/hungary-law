@@ -10,7 +10,7 @@ b) az alapítvány nyilvántartásba vételi, változásbejegyzési és törlés
 
 c) a párt nyilvántartásba vételi, változásbejegyzési és törlési,
 
-d)–f)[^4]
+d)–f)[^5]
 
 g) a közhasznú jogállás nyilvántartásba vétele iránti
 
@@ -18,7 +18,7 @@ g) a közhasznú jogállás nyilvántartásba vétele iránti
 
 (3) A papír alapú űrlapon a bíróság érkeztető bélyegzője lenyomatának helyét ki kell alakítani.
 
-(4)–(5)[^5]
+(4)–(5)[^6]
 
-[^4]: A 8. § (2) bekezdés d)–f) pontja a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^5]: A 8. § (4)–(5) bekezdése a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^5]: A 8. § (2) bekezdés d)–f) pontja a 13. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^6]: A 8. § (4)–(5) bekezdése a 13. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
