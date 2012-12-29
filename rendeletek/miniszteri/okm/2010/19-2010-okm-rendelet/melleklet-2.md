@@ -166,9 +166,9 @@
 
 | 77. |  | okleveles történelem szakos bölcsész és tanár |
 
-| V. | Kulturális örökség védelmével kapcsolatos |  |
+| V. |  |  |
 
-| 78. |  | okleveles régész |
+| 78. |  |  |
 
 | VI. | Világörökségi |  |
 
@@ -210,4 +210,6 @@
 
 | 97. |  | okleveles közgazdász turizmus-menedzsment szakon. |
 
-2. melléklet a 19/2010. (IV. 23.) OKM rendelethez
+2. melléklet a 19/2010. (IV. 23.) OKM rendelethez[^10]
+
+[^10]: A 2. mellékletet az 54/2012. (XII. 28.) EMMI rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.

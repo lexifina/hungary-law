@@ -1,6 +1,6 @@
-## 5–6. §[^7]
+## 5–6. §[^8]
 
-1. melléklet a 19/2010. (IV. 23.) OKM rendelethez[^8]
+1. melléklet a 19/2010. (IV. 23.) OKM rendelethez[^9]
 
-[^7]: Az 5–6. §-t a 4. § (2) bekezdése hatályon kívül helyezte.
-[^8]: Az 1. melléklet a 32/2012. (V. 8.) NEFMI rendelet 13. § (6) bekezdésével megállapított szöveg.
+[^8]: Az 5–6. §-t a 4. § (2) bekezdése hatályon kívül helyezte.
+[^9]: Az 1. melléklet a 32/2012. (V. 8.) NEFMI rendelet 13. § (6) bekezdésével megállapított és az 54/2012. (XII. 28.) EMMI rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
