@@ -1,0 +1,5 @@
+## 25. § A részarány-tulajdon önálló földrészletben történő kiadására irányuló eljárás során nem alkalmazható az 1–3. §, az 5. §, a 9. §, a 10. § (1) bekezdése tekintetében a 15 napos határidőre és annak számítására vonatkozó szabály, a 13. § (1) bekezdés c), i) és k) pontja, a 13. § (4) bekezdése, a 18. § (1), bekezdés, a 20. § (6) bekezdése tekintetében a változásátvezetési eljárásra vonatkozó szabály, a 21. § (2) és (3) bekezdése és a 23. §.
+
+26. § (1) A földhivatal az Fkbt. 9/C. § (4) bekezdésében meghatározott sorsolási jegyzőkönyvnek a megérkezését követő 45 napon belül – (2) bekezdésben meghatározott eltérésekkel – gondoskodik a jegyzőkönyvben szereplő földrészleteket érintően a 6. §-ban, a 7. § (2) és (3) bekezdésében, a 8. §-ban és a 10. § és a 11. § szerinti feladatok elvégzéséről, illetve eljárás lefolytatásáról.
+
+(2) A 8. § (1) bekezdése tekintetében a területi minimumra az Fkbt. 9/C. § (6) bekezdésében foglaltak az irányadók, továbbá a mezőgazdászi helyszínelés során megállapított művelési ág változást külön eljárás keretében, a tulajdonjog ingatlan-nyilvántartási bejegyzését követően lehet átvezetni az ingatlan-nyilvántartásban.

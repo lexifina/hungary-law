@@ -1,0 +1,1 @@
+## 27. § A 12–17. §-t azzal az eltéréssel kell alkalmazni, hogy a 14. § (3) bekezdésétől eltérően a sorsolási jegyzőkönyv öt eredeti példányban készül, amelyből két-két példány a földhivatalnál és a jogi szolgáltatónál kerül megőrzésre, és egy példányt a földhivatal a fővárosi és megyei kormányhivatal földművelésügyi igazgatósága részére ad át.
