@@ -1,3 +1,0 @@
-53. § (1) A Támtv. 29 § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ügyfél köteles a mezőgazdasági és vidékfejlesztési támogatási szervet az ügyfél-nyilvántartásban szereplő adataiban bekövetkezett változásról, valamint a (4) bekezdés szerinti változásról – annak bekövetkezésétől számított tizenöt napon belül – a mezőgazdasági és vidékfejlesztési támogatási szerv által előírt, hatályban levő nyomtatványon értesíteni azzal, hogy a változás-bejelentés elektronikus úton is teljesíthető. Az ügyfél-azonosító szám típusa a pénzügyi következményekkel járó intézkedéssel kapcsolatos eljárás megindítására irányuló kérelem benyújtásával egyidejűleg is módosítható.”

@@ -1,3 +1,0 @@
-55. § A Támtv. 38. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Amennyiben jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító szám megállapítása, valamint a regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható. A regisztrációs adatok módosítása iránti kérelem elektronikus úton is benyújtható.”

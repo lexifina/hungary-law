@@ -1,3 +1,0 @@
-60. § A Támtv. a következő 86. §-sal egészül ki:
-
-„86. § E törvénynek az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a folyamatban levő ügyekben és eljárásokban is kell alkalmazni azzal, hogy a Módtv. hatálybalépése előtt megállapított regisztrációs számok és technikai azonosítók ügyfél-azonosító számnak minősülnek, továbbá a regisztrált ügyfelek kérelemre nyilvántartásba vett, a technikai azonosítóval rendelkező ügyfelek nyilvántartásba vett ügyfeleknek minősülnek.”
