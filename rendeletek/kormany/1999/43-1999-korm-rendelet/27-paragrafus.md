@@ -54,9 +54,11 @@ kivételével történik.
 
 (8) A tárgyidőszakra megállapított TVK-t a tárgyidőszak szerinti hónapokra vonatkozóan jelentett szolgáltatói teljesítmények elszámolásában kell alkalmazni.
 
-(9)[^238] Az egészségügyi közszolgáltatásért felelős szerv kezdeményezheti a finanszírozónál a saját fenntartásában lévő egészségügyi szolgáltatók közötti TVK átcsoportosítását.
+(9)[^238] A (9a) bekezdésben meghatározott eset kivételével a fenntartó kezdeményezheti a finanszírozónál a saját fenntartásában lévő egészségügyi szolgáltatók közötti TVK átcsoportosítást.
 
-(10)[^239] Az új finanszírozási évre vonatkozó TVK megállapításáig – átmenetileg – a járóbeteg-szakellátás (ideértve a CT/MRI vizsgálatokat is), az orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint az aktív fekvőbeteg-szakellátás tekintetében a szolgáltató részére a finanszírozási évet követő hónapokra vonatkozó havi TVK-kat a számára az új finanszírozási évet megelőző finanszírozási év utolsó hónapjára meghatározott, miniszteri tartalék terhére biztosított növekmény nélküli TVK (e bekezdés alkalmazásában a továbbiakban: átmeneti TVK alap) alapján kell megállapítani. A finanszírozási évet követő hónapokra vonatkozó havi TVK-k meghatározásánál az átmeneti TVK alapot úgy kell korrigálni, mintha az adott hónapra vonatkozó szezonális index egytizenketted lett volna.
+(9a)[^239] Abban az esetben, ha a (9) bekezdés szerinti átcsoportosítással érintett, állami tulajdonban lévő egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, az állami tulajdonban lévő szolgáltatók közötti TVK átcsoportosítást az egészségügyért felelős miniszter kezdeményezheti. Amennyiben az átcsoportosítással érintett egészségügyi szolgáltatók valamelyikének tekintetében a fenntartói jogokat egy másik miniszter gyakorolja, az állami tulajdonban lévő szolgáltatók közötti TVK átcsoportosítást az egészségügyért felelős miniszter és a fenntartói jogot gyakorló miniszter közösen kezdeményezheti.
+
+(10)[^240] Az új finanszírozási évre vonatkozó TVK megállapításáig – átmenetileg – a járóbeteg-szakellátás (ideértve a CT/MRI vizsgálatokat is), az orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint az aktív fekvőbeteg-szakellátás tekintetében a szolgáltató részére a finanszírozási évet követő hónapokra vonatkozó havi TVK-kat a számára az új finanszírozási évet megelőző finanszírozási év utolsó hónapjára meghatározott, miniszteri tartalék terhére biztosított növekmény nélküli TVK (e bekezdés alkalmazásában a továbbiakban: átmeneti TVK alap) alapján kell megállapítani. A finanszírozási évet követő hónapokra vonatkozó havi TVK-k meghatározásánál az átmeneti TVK alapot úgy kell korrigálni, mintha az adott hónapra vonatkozó szezonális index egytizenketted lett volna.
 
 [^223]: A 27. § a 232/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
 [^224]: A 27. § (2) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
@@ -73,5 +75,6 @@ kivételével történik.
 [^235]: A 27. § (7) bekezdés e) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.
 [^236]: A 27. § (7) bekezdés f) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.
 [^237]: A 27. § (7) bekezdés g) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^238]: A 27. § (9) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (4) bekezdése iktatta be.
-[^239]: A 27. § (10) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^238]: A 27. § (9) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^239]: A 27. § (9a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^240]: A 27. § (10) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (1) bekezdése iktatta be.
