@@ -7044,7 +7044,7 @@
 
 ## Zalavég
 
-2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^10]
+2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^12]
 
 Megállapodás a járási (fővárosi kerületi) hivatalok kialakításához
 
@@ -7414,4 +7414,4 @@ Telefonközpont kapacitás
 
 | Telephely címe | Telefon szolgáltatás típusa | Szolgáltatás azonosítója a partner részéről | Saját telefonközpont | Ha saját telefonközpont, annak a típusa | Kiosztott telefonmellékek száma | További működési mód |
 
-[^10]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 66. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 66. § (2) bekezdése szerint módosított szöveg.

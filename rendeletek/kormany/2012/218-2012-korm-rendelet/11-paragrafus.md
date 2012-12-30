@@ -6,4 +6,6 @@
 
 (3) A megállapodás alapján az érintett vagyonelemek tényleges birtokba adása jegyzőkönyv felvételével történik, melyre 2013. január 1-jével kerül sor.
 
-(4) A birtokba adási eljárás levezetője a kormánymegbízott. A kormánymegbízott dönt a birtokba vételi eljárás pontos időpontjáról, továbbá a használatba vevőn és a polgármesteren kívüli jelenlévőkről, a birtokba vételről készített jegyzőkönyv hitelesítésének módjáról, továbbá adott esetben a nevében és helyette eljáró meghatalmazott személyről. A jegyzőkönyvet a kormánymegbízott és a polgármester írja alá. A jegyzőkönyv egy példányát annak aláírását követő 15 napon belül a kormánymegbízott köteles megküldeni a Magyar Nemzeti Vagyonkezelő Zrt. részére.
+(4)[^9] A birtokba adási eljárás levezetője a kormánymegbízott. A kormánymegbízott dönt a birtokba vételi eljárás pontos időpontjáról, továbbá a használatba vevőn és a polgármesteren kívüli jelenlévőkről, a birtokba vételről készített jegyzőkönyv hitelesítésének módjáról, továbbá adott esetben a nevében és helyette eljáró meghatalmazott személyről. A jegyzőkönyvet a kormánymegbízott és a polgármester írja alá.
+
+[^9]: A 11. § (4) bekezdés negyedik mondatát a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés j) pontja hatályon kívül helyezte.
