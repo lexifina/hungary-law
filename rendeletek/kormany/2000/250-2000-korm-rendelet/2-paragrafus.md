@@ -90,43 +90,41 @@ b) valamely meglévő deviza más devizában történő kihelyezése érdekében
 
 35.[^17] kamatlábcollar ügylet: egy kamatlábcap és egy kamatlábfloor ügyletből összetett ügylet, amelyben a kamatlábcap ügylet vevője egyben a kamatlábfloor ügylet kiírója és a kamatlábfloor ügylet vevője egyben a kamatlábcap ügylet kiírója. A felek a változó kamat egy meghatározott felső kamatszint és alsó kamatszint által határolt kamatsávhoz képest bekövetkező különbözetének megtérítésére vállalnak kötelezettséget;
 
-36.[^18] fix kamat az 5. § (5) bekezdése e) pontjának, a 7. § (3) bekezdése d) pontjának, a 10. § (7) bekezdésének, a 17. § (8) bekezdésének alkalmazása szempontjából:
+36.[^18] fix kamat az 5. § (5) bekezdés e) pontjának, a 7. § (3) bekezdés d) pontjának, a 10. § (7) bekezdésének, a 17. § (8) bekezdésének alkalmazása szempontjából:
 
-a) a két éves és két éven túli lejáratú exporthitel és exportköveteléshez adott megelőlegezés, valamint külföldi hitelintézetnek nyújtott refinanszírozási hitel esetében a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet (a továbbiakban: kamatkiegyenlítési rendelet) 7. §-ának (3) bekezdése szerinti kamat,
+a) a két éves és a két éven túli futamidejű közvetlen exporthitel és exportkövetelés megelőlegezés, valamint külföldi hitelintézetnek nyújtott refinanszírozási exporthitel esetén a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet (a továbbiakban: kamatkiegyenlítési rendelet) 7. § (2) bekezdése szerinti kamat,
 
-b)[^19]
+b) belföldi hitelintézetnek nyújtott két éves és két éven túli futamidejű refinanszírozási exporthitelek és egyéb export célú refinanszírozási hitelek esetében esetén a kamatkiegyenlítési rendelet 8. § (2) bekezdése szerinti kamat,
 
-c) a belföldi hitelintézetnek nyújtott két éves és két éven túli lejáratú refinanszírozási hitel esetében a kamatkiegyenlítési rendelet 8. §-ának (2) bekezdése szerinti kamat,
+c) az a) és b) pontban fel nem sorolt hiteleknél közvetlen hitel esetében a kamatkiegyenlítési rendelet 7. § (1) bekezdése szerinti kamat, refinanszírozási hitel esetében a kamatkiegyenlítési rendelet 8. § (1) bekezdése szerinti kamat,
 
-d)[^20]
+d) engedményezés (faktoring, forfeit ügylet) keretében megvásárolt, leszámítolt exportkövetelés esetében a kamatkiegyenlítési rendelet 3. § c) pontja szerinti diszkontkamatláb,
 
-e) engedményezés (faktoring, forfeit ügylet) keretében megvásárolt, leszámítolt exportkövetelés esetében a kamatkiegyenlítési rendelet 3. §-ának c) pontja szerinti diszkontkamatláb,
+e) kötött segélyhitel esetében az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet (a továbbiakban: kötött segélyhitelezési rendelet) 18. §-ában rögzített, a segélyhitel-szerződés szerinti kamatláb;
 
-f) kötött segélyhitel esetében az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet (a továbbiakban: kötött segélyhitelezési rendelet) 18. §-ában rögzített, a segélyhitel-szerződés szerinti kamatláb;
+37.[^19] hitelderivatíva: olyan határidős, opciós, illetve swap ügylet, amelynek célja a hitelezési kockázat átadása, tárgya egy minősített követelés, követelésállomány, hitelindex, illetve valamely követelés megtérülése (hozama), és az ügylet értéke a követelés (tőke-, illetve kamatkövetelés) törlesztésével kapcsolatos mulasztási esemény bekövetkezésétől, egy előre meghatározott hitelkockázati besorolás (hitelmérték, bonitás), hitelindex, illetve követelés megtérülés (hozam) alakulásától függ;
 
-37.[^21] hitelderivatíva: olyan határidős, opciós, illetve swap ügylet, amelynek célja a hitelezési kockázat átadása, tárgya egy minősített követelés, követelésállomány, hitelindex, illetve valamely követelés megtérülése (hozama), és az ügylet értéke a követelés (tőke-, illetve kamatkövetelés) törlesztésével kapcsolatos mulasztási esemény bekövetkezésétől, egy előre meghatározott hitelkockázati besorolás (hitelmérték, bonitás), hitelindex, illetve követelés megtérülés (hozam) alakulásától függ;
+38.[^20] EGT-állam: az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes állam.
 
-38.[^22] EGT-állam: az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes állam.
+39.[^21] ügynöki tevékenység: a 11. § (1) bekezdésének e) pontja szempontjából a Bszt. 111–116. §-a szerinti tevékenység;
 
-39.[^23] ügynöki tevékenység: a 11. § (1) bekezdésének e) pontja szempontjából a Bszt. 111–116. §-a szerinti tevékenység;
+40.[^22] értékpapír forgalomba hozatal szervezési tevékenység: a Bszt. 5. §-a (1) bekezdésének g) pontja szerinti tevékenység körébe tartozó tevékenység;
 
-40.[^24] értékpapír forgalomba hozatal szervezési tevékenység: a Bszt. 5. §-a (1) bekezdésének g) pontja szerinti tevékenység körébe tartozó tevékenység;
+41.[^23] bizományi tevékenység: a Bszt. alapján végzett azon tevékenység, amely megfelel a Polgári Törvénykönyvről szóló törvény szerinti bizományi megállapodásra vonatkozó rendelkezések szerint létrejövő szerződésen alapuló tevékenységnek;
 
-41.[^25] bizományi tevékenység: a Bszt. alapján végzett azon tevékenység, amely megfelel a Polgári Törvénykönyvről szóló törvény szerinti bizományi megállapodásra vonatkozó rendelkezések szerint létrejövő szerződésen alapuló tevékenységnek;
+42.[^24] tőke megóvására, illetve hozamra vonatkozó ígéret, a tőke megóvására, illetve hozamra vonatkozó garancia (tőke-, illetve hozamgarancia): a Bszt. szerinti tevékenységek.
 
-42.[^26] tőke megóvására, illetve hozamra vonatkozó ígéret, a tőke megóvására, illetve hozamra vonatkozó garancia (tőke-, illetve hozamgarancia): a Bszt. szerinti tevékenységek.
+43.[^25] devizakamat-csere ügylet (deviza kamat-swap ügylet): különböző devizákban meghatározott névleges tőkeösszegre vetítve, meghatározott mértékben történő kamatfizetésre és kamatvételre (kamatcserére) vonatkozó megállapodás;
 
-43.[^27] devizakamat-csere ügylet (deviza kamat-swap ügylet): különböző devizákban meghatározott névleges tőkeösszegre vetítve, meghatározott mértékben történő kamatfizetésre és kamatvételre (kamatcserére) vonatkozó megállapodás;
+44.[^26] kamatcserével járó deviza-betétcsere ügylet (currency swap ügylet): különböző devizák cseréjére kötött olyan éven belüli vagy éven túli futamidejű swap ügylet, amelynek során a deviza-tőkeösszegek azonnali cseréjére és a határidős cserére alkalmazott árfolyam megegyezik, és amelyek esetében a futamidő alatt meghatározott elszámolási időpontokban a cserébe adott deviza-tőkeösszeg után előre meghatározott mértékű devizakamatot kap, a cserébe kapott deviza-tőkeösszeg után előre meghatározott mértékű devizakamatot fizet a vállalkozás;
 
-44.[^28] kamatcserével járó deviza-betétcsere ügylet (currency swap ügylet): különböző devizák cseréjére kötött olyan éven belüli vagy éven túli futamidejű swap ügylet, amelynek során a deviza-tőkeösszegek azonnali cseréjére és a határidős cserére alkalmazott árfolyam megegyezik, és amelyek esetében a futamidő alatt meghatározott elszámolási időpontokban a cserébe adott deviza-tőkeösszeg után előre meghatározott mértékű devizakamatot kap, a cserébe kapott deviza-tőkeösszeg után előre meghatározott mértékű devizakamatot fizet a vállalkozás;
+45.[^27] változó kamatok cseréjére vonatkozó swap ügylet: azonos devizanemben meghatározott azonos névleges tőkeösszegre vetítve a szerződésben meghatározott futamidő alatt, meghatározott elszámolási időszakonként változó piaci tényezőkhöz igazított változó kamatok cseréjére vonatkozó ügylet;
 
-45.[^29] változó kamatok cseréjére vonatkozó swap ügylet: azonos devizanemben meghatározott azonos névleges tőkeösszegre vetítve a szerződésben meghatározott futamidő alatt, meghatározott elszámolási időszakonként változó piaci tényezőkhöz igazított változó kamatok cseréjére vonatkozó ügylet;
+46.[^28] teljes hozamcsere-ügylet (total return swap ügylet): olyan, hitelderivatívának minősülő ügylet, amelynek során a szerződésben rögzített futamidő alatt és meghatározott elszámolási időszakonként, az egyik fél egy létező hitel, hitelállomány, hitelviszonyt megtestesítő eszköz, ilyen eszközökből kialakított eszközcsoport (kosár), leképezett index (a továbbiakban: referenciaeszköz) alapján járó kamatát, hozamát, jutalékait, és a referenciaeszköz szerződésben rögzített elszámolási időszakonként végrehajtott értékeléséből eredő pozitív értékkülönbözet (értéktöbblet) összegét cseréli el a másik féllel egy – a referenciaeszközzel – azonos névértékre vetített, szerződésben meghatározott piaci kamatra, hozamra, valamint a referenciaeszköz értékeléséből eredő negatív értékkülönbözet megtérítésére;
 
-46.[^30] teljes hozamcsere-ügylet (total return swap ügylet): olyan, hitelderivatívának minősülő ügylet, amelynek során a szerződésben rögzített futamidő alatt és meghatározott elszámolási időszakonként, az egyik fél egy létező hitel, hitelállomány, hitelviszonyt megtestesítő eszköz, ilyen eszközökből kialakított eszközcsoport (kosár), leképezett index (a továbbiakban: referenciaeszköz) alapján járó kamatát, hozamát, jutalékait, és a referenciaeszköz szerződésben rögzített elszámolási időszakonként végrehajtott értékeléséből eredő pozitív értékkülönbözet (értéktöbblet) összegét cseréli el a másik féllel egy – a referenciaeszközzel – azonos névértékre vetített, szerződésben meghatározott piaci kamatra, hozamra, valamint a referenciaeszköz értékeléséből eredő negatív értékkülönbözet megtérítésére;
+47.[^29] hitel nem teljesítéskori csereügylet (credit default swap ügylet): egy létező hitel, hitelállomány, hitelviszonyt megtestesítő értékpapír, ilyen eszközökből kialakított mögöttes termék (a továbbiakban: hiteleszköz) meghatározott jövőbeni feltétel bekövetkezéséhez kötött – leszállítási vagy elszámolási típusú – határidős adásvételére vonatkozó – hitelderivatívának minősülő – megállapodás, amelynek értelmében az ügylet tárgyát képező hiteleszköz hitelkockázata elleni védelmet vevő fél (a továbbiakban: védelmet vevő) meghatározott díj kifizetése ellenében jogot szerez arra, hogy az adott hiteleszközhöz, kapcsolódó, a szerződésben meghatározott – a hiteleszköz megtérülését csökkentő, veszteséget eredményező – hitelesemény bekövetkezése esetén a még nem törlesztett, be nem váltott, meg nem térült hiteleszközt a hitelkockázat elleni védelmet eladó szerződő partnernek (a továbbiakban: védelmet eladó) a szerződésben előre rögzített kötési áron eladja, a védelmet eladó szerződő partner pedig kötelezettséget vállal arra, hogy azt megveszi;
 
-47.[^31] hitel nem teljesítéskori csereügylet (credit default swap ügylet): egy létező hitel, hitelállomány, hitelviszonyt megtestesítő értékpapír, ilyen eszközökből kialakított mögöttes termék (a továbbiakban: hiteleszköz) meghatározott jövőbeni feltétel bekövetkezéséhez kötött – leszállítási vagy elszámolási típusú – határidős adásvételére vonatkozó – hitelderivatívának minősülő – megállapodás, amelynek értelmében az ügylet tárgyát képező hiteleszköz hitelkockázata elleni védelmet vevő fél (a továbbiakban: védelmet vevő) meghatározott díj kifizetése ellenében jogot szerez arra, hogy az adott hiteleszközhöz, kapcsolódó, a szerződésben meghatározott – a hiteleszköz megtérülését csökkentő, veszteséget eredményező – hitelesemény bekövetkezése esetén a még nem törlesztett, be nem váltott, meg nem térült hiteleszközt a hitelkockázat elleni védelmet eladó szerződő partnernek (a továbbiakban: védelmet eladó) a szerződésben előre rögzített kötési áron eladja, a védelmet eladó szerződő partner pedig kötelezettséget vállal arra, hogy azt megveszi;
-
-48.[^32] átstrukturált hitelek (követelések): az adós vagy a pénzügyi intézmény kezdeményezésére a – követelést keletkeztető eredeti – szerződés módosítása keretében újratárgyalt, átütemezett (prolongált), átstrukturált hitelek, kölcsönök (beleértve a vásárolt követeléseket és egyéb, pénzkölcsönnek minősülő ügyletből, illetve más pénzügyi szolgáltatásból eredő követeléseket is), amelyek esetében
+48.[^30] átstrukturált hitelek (követelések): az adós vagy a pénzügyi intézmény kezdeményezésére a – követelést keletkeztető eredeti – szerződés módosítása keretében újratárgyalt, átütemezett (prolongált), átstrukturált hitelek, kölcsönök (beleértve a vásárolt követeléseket és egyéb, pénzkölcsönnek minősülő ügyletből, illetve más pénzügyi szolgáltatásból eredő követeléseket is), amelyek esetében
 
 a) a szerződésmódosításra a nem fizetés elkerülése érdekében azért került sor, mert az adós, pénzügyi pozíciójának, fizetőképességének jelentős romlása miatt, visszafizetési kötelezettségének az eredeti szerződéses feltételek szerinti nem tud eleget tenni és
 
@@ -134,13 +132,13 @@ b) a szerződésmódosítás az eredeti szerződés szerinti feltételeket – a
 
 c) sor kerülhet a felek, vagy az adós és az eredeti hitelező kapcsolt vállalkozása között olyan kiegészítő megállapodásra, vagy új szerződés megkötésére, amely a fel nem mondott eredeti szerződés miatt fennálló tartozások (tőke- és/vagy kamattartozások) törlesztése céljára nyújtott új hitelre, illetve a kockázat növekedésének elkerülését és a veszteség mérséklését szolgáló további kötelezettségvállalásra vonatkoznak, ilyen esetben ezen kiegészítő megállapodások, illetve kapcsolódó új szerződések miatt a pénzügyi intézménynél (beleértve az eredeti hitelező kapcsolt vállalkozásának minősülő pénzügyi intézményt is) keletkezett követelések is átstrukturált hitelnek (követelésnek) minősülnek.
 
-49.[^33] gyűjtőszámlahitel: a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben (a továbbiakban: devizakölcsöntv.) meghatározott fogalom;
+49.[^31] gyűjtőszámlahitel: a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben (a továbbiakban: devizakölcsöntv.) meghatározott fogalom;
 
-50.[^34] a rögzített árfolyam alkalmazási időszaka: a devizakölcsöntv.-ben ilyenként meghatározott időszak.
+50.[^32] a rögzített árfolyam alkalmazási időszaka: a devizakölcsöntv.-ben ilyenként meghatározott időszak.
 
-51.[^35] mentesített követelésrész: a devizakölcsöntv.-ben meghatározott fogalom;
+51.[^33] mentesített követelésrész: a devizakölcsöntv.-ben meghatározott fogalom;
 
-52.[^36] legmagasabb árfolyam: a devizakölcsöntv.-ben ilyenként meghatározott árfolyam.
+52.[^34] legmagasabb árfolyam: a devizakölcsöntv.-ben ilyenként meghatározott árfolyam.
 
 [^1]: A 2. § 2. pontja a 331/2008. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^2]: A 2. § 8. pontja a 331/2008. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
@@ -159,22 +157,20 @@ c) sor kerülhet a felek, vagy az adós és az eredeti hitelező kapcsolt válla
 [^15]: A 2. § 33. pontját a 334/2005. (XII. 29.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
 [^16]: A 2. § 34. pontját a 334/2005. (XII. 29.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
 [^17]: A 2. § 35. pontját a 334/2005. (XII. 29.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^18]: A 2. § 36. pontját a 334/2005. (XII. 29.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^19]: A 2. § 36. pont b) alpontját a 204/2012. (VII. 27.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
-[^20]: A 2. § 36. pont d) alpontját a 204/2012. (VII. 27.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
-[^21]: A 2. § 37. pontját a 357/2006. (XII. 27.) Korm. rendelet 1. §-a iktatta be, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
-[^22]: A 2. § 38. pontját a 397/2007. (XII. 27.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést először a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^23]: A 2. § 39. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^24]: A 2. § 40. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^25]: A 2. § 41. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^26]: A 2. § 42. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^27]: A 2. § 43. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^28]: A 2. § 44. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^29]: A 2. § 45. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^30]: A 2. § 46. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^31]: A 2. § 47. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^32]: A 2. § 48. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (4) bekezdését.
-[^33]: A 2. § 49. pontját a 342/2011. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
-[^34]: A 2. § 50. pontját a 342/2011. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
-[^35]: A 2. § 51. pontját a 114/2012. (VI. 8.) Korm. rendelet 26. §-a iktatta be.
-[^36]: A 2. § 52. pontját a 114/2012. (VI. 8.) Korm. rendelet 26. §-a iktatta be.
+[^18]: A 2. § 36. pontját a 334/2005. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 433/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: A 2. § 37. pontját a 357/2006. (XII. 27.) Korm. rendelet 1. §-a iktatta be, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
+[^20]: A 2. § 38. pontját a 397/2007. (XII. 27.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést először a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^21]: A 2. § 39. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^22]: A 2. § 40. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^23]: A 2. § 41. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^24]: A 2. § 42. pontját a 331/2008. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^25]: A 2. § 43. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^26]: A 2. § 44. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^27]: A 2. § 45. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^28]: A 2. § 46. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^29]: A 2. § 47. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^30]: A 2. § 48. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (4) bekezdését.
+[^31]: A 2. § 49. pontját a 342/2011. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
+[^32]: A 2. § 50. pontját a 342/2011. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
+[^33]: A 2. § 51. pontját a 114/2012. (VI. 8.) Korm. rendelet 26. §-a iktatta be.
+[^34]: A 2. § 52. pontját a 114/2012. (VI. 8.) Korm. rendelet 26. §-a iktatta be.
