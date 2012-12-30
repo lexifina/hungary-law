@@ -2,7 +2,7 @@
 
 (2) A tárgynegyedévi befizetési kötelezettséget, illetve igényt a (3)–(4) bekezdésben foglaltak szerint kell megállapítani.
 
-(3)[^14] Az Eximbank az exporthitelre, refinanszírozási hitelre, exportkövetelésekhez adott megelőlegezésre, engedményezésre és leszámítolásra (a továbbiakban: ügylet) vonatkozóan szerződésenként megállapítja a szerződések – a hitelintézetek és pénzügyi vállalkozások éves beszámolókészítési és könyvvezetési sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet 2. §-ának 36. pontja szerinti – fix kamatlábbal számított, tárgynegyedévben időarányosan járó kamatokat, valamint a – Eximbank Korm. rendelet 3. §-ának a) pontjában szereplő, negyedévekre jóváhagyott – bázisköltségek alkalmazásával számított, azonos időszakra vonatkozó összeget. Amennyiben a bázisköltségek alkalmazásával számított összeg nagyobb az időarányosan járó kamatnál, a különbözet a kiegyenlítési igény a központi költségvetéssel szemben, ellenkező esetben befizetési kötelezettség a központi költségvetés javára.
+(3)[^14] Az Eximbank Korm. rendelet szerinti exporthitelekre, refinanszírozási exporthitelekre, pénzkölcsönökre, egyéb export célú hitelekre és egyéb export célú refinanszírozási hitelekre (a továbbiakban: ügylet) vonatkozóan az Eximbank szerződésenként megállapítja az ügyletekre a – számviteli Korm. rendelet 2. § 36. pontja szerinti fix kamatlábbal számított – tárgynegyedévben időarányosan járó kamatokat, valamint – az Eximbank Korm. rendelet 3. § a) pontjában szereplő – a jóváhagyott bázisköltségek alkalmazásával számított, azonos időszakra vonatkozó összeget. Amennyiben a bázisköltségek alkalmazásával számított összeg nagyobb az időarányosan járó kamatnál, a különbözet a kiegyenlítési igény a központi költségvetéssel szemben, ellenkező esetben befizetési kötelezettség a központi költségvetés javára.
 
 (4)[^15] Az ügyletekre szerződésenként megállapított különbözeteket a tárgynegyedév utolsó munkanapján érvényes, hivatalosan közzétett MNB deviza árfolyam alkalmazásával az Eximbank forintra átszámítja, és azok összesítéseként kimutatott forintösszeget rendezi a költségvetéssel az (5)–(6) bekezdésben foglaltak szerint.
 
@@ -12,7 +12,7 @@
 
 (7)[^18] Amennyiben az Eximbank Zrt. megállapítja, hogy a kamatkiegyenlítési rendszerbe bevont ügylet a futamidő alatt történő változások miatt nem felel meg az Eximbank Korm. rendeletben előírt feltételeknek, az Eximbank a változás tudomására jutását követően az adott ügylet vonatkozásában a kamatkiegyenlítési rendszerben a költségvetéssel nem számolhat el.
 
-[^14]: A 4. § (3) bekezdése a 15/2006. (V. 17.) PM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
+[^14]: A 4. § (3) bekezdése az 54/2012. (XII. 29.) NGM rendelet 2. §-ával megállapított szöveg.
 [^15]: A 4. § (4) bekezdése a 15/2006. (V. 17.) PM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
 [^16]: A 4. § (5) bekezdése a 22/2011. (VI. 21.) NGM rendelet 12. § e) pontja, a 16/2012. (VI. 28.) NGM rendelet 12. § (2) bekezdése szerint módosított szöveg.
 [^17]: A 4. § (6) bekezdése a 15/2006. (V. 17.) PM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni. Alkalmazására lásd még e módosító rendelet 8. §-át.

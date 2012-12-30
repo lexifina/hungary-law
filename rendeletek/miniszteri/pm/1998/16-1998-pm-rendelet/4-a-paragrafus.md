@@ -1,0 +1,5 @@
+4/A. §[^19] (1) Az Eximbank legkésőbb az esedékesség értéknapját követő munkanapon írásban értesíti a Magyar Államkincstárat, amennyiben az Eximbank az általa igénybe vett hitelekből, felvett kölcsönökből, az Eximbank által kibocsátott kötvényekből, elfogadott betétekből eredő fizetési kötelezettségének az esedékesség értéknapjáig nem tud, vagy nem tudott eleget tenni. Az Eximbank a Magyar Államkincstárnak küldött értesítésben feltünteti a fizetés jogcímét, a fizetendő összeget, a fizetendő összeg devizanemét, az elmulasztott kifizetés értéknapját, az alkalmazandó árfolyamot, továbbá a bankszámlaszámát és egyidejűleg kéri a fizetési kötelezettség összegének költségvetés terhére történő folyósítását.
+
+(2) A Magyar Államkincstár – az alapügylet vizsgálata nélkül – az értesítés beérkezésétől követő 5 munkanapon belül, vagy amennyiben az esedékesség időpontja ennél későbbi időpontra esik, az esedékesség időpontjára – az 10032000-01907003 NAV Állami kezességbeváltás folyósítási számla terhére teljesíti a kifizetést az Eximbank részére a megjelölt számlaszámra.
+
+[^19]: A 4/A. §-t az 54/2012. (XII. 29.) NGM rendelet 3. §-a iktatta be.
