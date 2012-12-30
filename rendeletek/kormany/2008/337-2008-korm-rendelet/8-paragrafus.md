@@ -64,6 +64,8 @@ i) a kérelem a Tv. 7. § (1)–(4) és (6) bekezdésébe ütközik.
 
 (15)[^98] A Tv. 7. § (11) bekezdése szerinti átcsoportosítás során a kapacitások ellátási formája és szakmai összetétele megváltoztatható azzal, hogy nem lehet a krónikus fekvőbeteg-szakellátási kapacitást aktív fekvőbeteg-szakellátási kapacitásra, a járóbeteg-szakellátási kapacitást fekvőbeteg-szakellátási kapacitásra változtatni.
 
+(16)[^99] Abban az esetben, ha a Tv. 7. § (1)–(4) bekezdése szerinti átcsoportosítás eredményeként az 1. § szerinti többletkapacitás jönne létre, az átcsoportosításra irányuló eljárás során az OTH megkeresi az OEP-et. Az OEP soron kívül gondoskodik arról, hogy a kérelmezett átcsoportosítást a többletkapacitás-befogadási bizottság (a továbbiakban: TBB) – az OTH megkeresésétől számított 30 napon belül – megtárgyalja. Amennyiben a kérelmezett átcsoportosítást a TBB támogatja, az OEP – a TBB döntésétől számított 5 napon belül – előzetes jóváhagyás céljából megkeresi az egészségügyért felelős minisztert. Az egészségügyért felelős miniszter a 15. § (12) bekezdésében foglaltaknak megfelelően megkeresi az államháztartásért felelős minisztert. Az államháztartásért felelős miniszter a 15. § (12) bekezdésében foglaltak szerint nyilatkozik az átcsoportosítás jóváhagyásáról. Az egészségügyért felelős miniszter – az államháztartásért felelős miniszter általi jóváhagyás kézhezvételétől számított 10 napon belül – tájékoztatja az átcsoportosítással való egyetértéséről és az államháztartásért felelős miniszter általi jóváhagyásról az OTH-t és az OEP-et. Az OTH a kérelmezett átcsoportosítást csak abban az esetben engedélyezheti, ha azzal az egészségügyért felelős miniszter és az államháztartásért felelős miniszter egyetértett.
+
 [^80]: A 7. §-t és az azt megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 16. § 5. pontja hatályon kívül helyezte.
 [^81]: A 8. § a 360/2009. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^82]: A 8. § (1) bekezdés a) pontja a 164/2012. (VII. 19.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -83,3 +85,4 @@ i) a kérelem a Tv. 7. § (1)–(4) és (6) bekezdésébe ütközik.
 [^96]: A 8. § (13) bekezdés a 325/2011. (XII. 28.) Korm. rendelet 67. § (4) bekezdésével megállapított szöveg.
 [^97]: A 8. § (14) bekezdését a 185/2011. (IX. 9.) Korm. rendelet 3. §-a iktatta be.
 [^98]: A 8. § (15) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 39. §-a iktatta be.
+[^99]: A 8. § (16) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 51. §-a iktatta be.

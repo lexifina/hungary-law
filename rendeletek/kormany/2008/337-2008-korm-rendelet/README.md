@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2012-07-02 | 2008-337-20-22.22 | 137/2012. (VII. 29.) Korm. rendelet |
 | 2012-07-20 | 2008-337-20-22.23 | 164/2012. (VII. 19.) Korm. rendelet |
 | 2012-09-01 | 2008-337-20-22.24 | 137/2012. (VI. 29.) Korm. rendelet |
+| 2012-12-30 | 2008-337-20-22.25 | 447/2012. (XII. 29.) Korm. rendelet |
