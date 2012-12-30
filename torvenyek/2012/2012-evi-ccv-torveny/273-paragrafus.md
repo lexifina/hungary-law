@@ -1,1 +1,1 @@
-273. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 13. § c) pontjában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
+273. §

@@ -1,1 +1,0 @@
-19. § A különleges műveleti kiképzések, gyakorlatok alkalmával az állomány tagjának személyi szabadsága előzetes írásbeli beleegyezés alapján a kiképzés céljának elérése érdekében a szükséges mértékben és ideig, de összefüggően legfeljebb 96 óra időtartamban korlátozható.

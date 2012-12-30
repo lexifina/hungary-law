@@ -1,1 +1,0 @@
-277. § A Kitüntetési törvény 23. § (1) bekezdésében a „22. § (1) bekezdés b)–d) pontja szerinti jogosult” szövegrész helyébe a „22. § (1) bekezdés b)–d) pontja szerinti jogosult – a 22. § (1) bekezdés e) pontja szerinti jogosult esetében a honvédelemért felelős miniszter – ” szöveg lép.

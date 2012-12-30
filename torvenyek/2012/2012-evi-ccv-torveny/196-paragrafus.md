@@ -1,5 +1,0 @@
-196. § (1) Fedőbeosztásban történő foglalkoztatás érdekében a főigazgató a miniszter egyetértésével hivatásos szolgálati viszonyt létesíthet. Ebben az esetben legfeljebb 6 hónapig terjedő próbaidő köthető ki, továbbá a miniszter a főigazgató javaslatára nemzetbiztonsági érdekből a 40. § (2) bekezdésétől eltérhet.
-
-(2) A főigazgató a hivatásos állomány tagját fedőbeosztásba áthelyezheti. A szolgálati feladatok befejezését követően, amennyiben a hivatásos állomány tagja részére a KNBSZ-nél más megfelelő szolgálati beosztás nem biztosítható, a hivatásos állomány tagja a 46. § (1) bekezdés f) pontja szerint rendelkezési állományba áthelyezhető. A hivatásos állomány fedőbeosztást ellátó tagjának szolgálati viszonyát folyamatosnak kell tekinteni, előmenetelére a speciális beosztást betöltőkre vonatkozó rendfokozati előmeneteli szabályok az irányadók.
-
-(3) A hivatásos állomány tagja nemzetbiztonsági feladatait külső munkaviszonyt létesítve is elláthatja, továbbá külső intézményeknél és szervezeteknél is teljesíthet szolgálatot. A szolgálatteljesítést a főigazgató saját hatáskörben szabályozza.

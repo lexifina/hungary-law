@@ -1,1 +1,0 @@
-256. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 124. § (3) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.

@@ -6,4 +6,4 @@
 
 (3) E törvény 275. §-a az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
-(4) E törvény 278. §-a az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(4)
