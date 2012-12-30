@@ -1,8 +1,8 @@
-1. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^92]
+1. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^115]
 
 ## A piacképes kockázatú országok jegyzéke
 
-## I.[^93] Az Európai Unió tagállamai Görögország kivételével
+## I.[^116] Az Európai Unió tagállamai Görögország kivételével
 
 II. Az OECD tagállamai közül
 
@@ -22,5 +22,5 @@ II. Az OECD tagállamai közül
 
 8. Amerikai Egyesült Államok
 
-[^92]: A rendelet eredeti mellékletének számozását a 303/2005. (XII. 25.) Korm. rendelet 18. §-a 1. számú mellékletre változtatta.
-[^93]: Az 1. számú melléklet I. pontja a 205/2012. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^115]: A rendelet eredeti mellékletének számozását a 303/2005. (XII. 25.) Korm. rendelet 18. §-a 1. számú mellékletre változtatta.
+[^116]: Az 1. számú melléklet I. pontja a 205/2012. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

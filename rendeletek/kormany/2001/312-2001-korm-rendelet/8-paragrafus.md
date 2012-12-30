@@ -1,15 +1,19 @@
-8. § (1)[^49] A 4. § (1) bekezdésének e) pontjában meghatározott biztosítás csak abban az esetben köthető, ha a biztosított által a külföldi vállalkozásban megszerzendő részesedés aránya – figyelembe véve az adott vállalkozásban korábban megszerzett részesedéseket is – meghaladja külföldi vállalkozás jegyzett tőkéjének, illetve ennek hiányában saját tőkéjének 10%-át.
+8. § (1)[^58] A 4. § (1) bekezdésének e) pontjában meghatározott biztosítás csak abban az esetben köthető, ha a biztosított által a külföldi vállalkozásban megszerzendő részesedés aránya – figyelembe véve az adott vállalkozásban korábban megszerzett részesedéseket is – meghaladja külföldi vállalkozás jegyzett tőkéjének, illetve ennek hiányában saját tőkéjének 10%-át.
 
-(2)[^50] Nem köthető olyan biztosítási szerződés, amelyben a biztosítási esemény állami adós esetén az 5. § b)–j) pontjaiba és l) pontjába, magánadós esetében pedig az 5. § a)–j) pontjaiba, valamint l) pontjába tartozik, és
+(2)[^59] Nem köthető olyan biztosítási szerződés, amelyben a biztosítási esemény állami adós esetén az 5. § b)–j) pontjába és l) pontjába, magánadós esetében pedig az 5. § a)–j) pontjába, valamint l) pontjába tartozik, és az alábbi feltételek együttesen teljesülnek:
 
-a)[^51] az adósnak vagy kezesének a székhelye az 1. melléklet szerinti országokban van, továbbá
+a) az adósnak vagy kezesének a székhelye az 1. számú melléklet szerinti országok valamelyikében van, továbbá
 
-b)[^52] a futamidő (a gyártási és hitelezési idő együtt) kevesebb, mint két év, kivéve, ha olyan, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: KKV törvény) meghatározásának megfelelő mikro-, kis- és középvállalkozások exporthiteleihez kapcsolódik, amelyek KKV törvény éves nettó árbevételre vonatkozó előírásainak értelemszerű alkalmazásával számított éves exportforgalma nem haladja meg a 2 000 000 EUR-t. Az e pontban meghatározott kivétel nem vonatkozik a 4. § (1) bekezdésének e) pontjában meghatározott biztosításra.
+b) a gyártási és hitelezési időszakot tartalmazó teljes kockázatviselési idő kevesebb, mint két év.
 
-(3)–(5)[^53]
+(3)[^60] A (2) bekezdésben meghatározottakat nem kell alkalmazni arra a biztosítási szerződésre, amely olyan, a KKV törvény meghatározásának megfelelő mikro-, kis- és középvállalkozásoknak nyújtott exporthitelhez kapcsolódik, amelyek a KKV törvény éves nettó árbevételre vonatkozó előírásainak alkalmazásával számított éves exportforgalma nem haladja meg a 2 000 000 eurót. Az e bekezdésben meghatározottakat csak az Európai Bizottságnak előzetesen bejelentett és a Bizottság által jóváhagyott program keretében, a program időbeli hatálya alatt kötött szerződésekre lehet alkalmazni.
 
-[^49]: A 8. § (1) bekezdése a 303/2005. (XII. 25.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^50]: A 8. § (2) bekezdése a 48/2003. (IV. 3.) Korm. rendelet 6. §-ával megállapított szöveg, e módosító rendelet 12. §-ának (1)–(2) bekezdése alapján a rendelkezés a 2004. május 1-je után kötött szerződésekre irányadó.
-[^51]: A 8. § (2) bekezdés a) pontja az 50/2010. (III. 9.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^52]: A 8. § (2) bekezdésének b) pontja a 303/2005. (XII. 25.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 22/2011. (III. 3.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^53]: A 8. § (3)–(5) bekezdését az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+(4)[^61] A (3) bekezdésben meghatározott kivétel nem vonatkozik a 4. § (1) bekezdés e) és h)–j) pontjában meghatározott biztosításokra.
+
+(5)[^62]
+
+[^58]: A 8. § (1) bekezdése a 303/2005. (XII. 25.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^59]: A 8. § (2) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^60]: A 8. § (3) bekezdését az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte, újonnan a 437/2012. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^61]: A 8. § (4) bekezdését az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte, újonnan a 437/2012. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^62]: A 8. § (5) bekezdését az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
