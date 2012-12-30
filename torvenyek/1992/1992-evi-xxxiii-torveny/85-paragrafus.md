@@ -54,7 +54,7 @@ b) a szociális, valamint a gyermekjóléti és gyermekvédelmi intézményekné
 
 ba) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 
-bb) az egyes munkakörök betöltéséhez szükséges iskolai végzettség, szakképesítés, illetve szakképzettség megszerzése alóli felmentés és végleges mentesítés szabályait,
+bb)
 
 bc) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
