@@ -20,6 +20,8 @@ e) az országgyűlési, európai parlamenti, helyi önkormányzati képviselői 
 
 f) a munkaviszony nélküli igazgatósági és felügyelőbizottsági tagság,
 
-g) a kuratóriumi tagság és tisztségviselés.
+g) a kuratóriumi tagság és tisztségviselés,
+
+h) az önkéntes tartalékos szolgálati viszony.
 
 (3) Az ügyvéd az összeférhetetlenségi okot a bekövetkezésétől számított 15 napon belül köteles az ügyvédi kamarának bejelenteni.
