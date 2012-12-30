@@ -1,1 +1,0 @@
-## 1. § A Vásárhelyi-terv keretében megvalósuló Szamos-Krasznaközi árvízi tározó területével érintett földrészletek jegyzékéről, valamint az egyszeri térítés, az igénybevétel és a kártalanítás részletes szabályairól szóló 13/2010. (V. 6.) KvVM–FVM együttes rendelet (a továbbiakban: 13/2010. KvVM–FVM együttes rendelet) 1. melléklete az 1. melléklet szerinti módosul.
