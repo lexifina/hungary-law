@@ -12,13 +12,13 @@
 
 | 6. | Nemzetgazdasági Minisztérium | 793 |
 
-| 7. | Emberi Erőforrások Minisztériuma | 924 |
+| 7. | Emberi Erőforrások Minisztériuma | 929 |
 
 | 8. | Nemzeti Fejlesztési Minisztérium | 626 |
 
 | 9. | Vidékfejlesztési Minisztérium | 598 |
 
-| 10. | ÖSSZESEN: | 5578 |
+| 10. | ÖSSZESEN: | 5583 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
