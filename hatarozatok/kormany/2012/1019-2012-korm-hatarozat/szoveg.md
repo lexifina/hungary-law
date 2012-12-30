@@ -4,9 +4,9 @@ A Kormány a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74/E.
 
 2. A Kormány
 
-a) felhívja a nemzeti fejlesztési minisztert, hogy az állami alapító nevében kérelmezze a Fővárosi Törvényszéknél az Alapítvány megszüntetését, kérje kérelmének soron kívüli elbírálását, továbbá a megszüntetés kapcsán felmerülő kérdésekben az Alapító nevében eljárjon, és az ennek érdekében szükséges intézkedéseket megtegye;
+a)[^2] felhívja a nemzeti fejlesztési minisztert, hogy az állami alapító nevében, az államháztartáson kívüli alapítókkal egyetértésben kérelmezze a Fővárosi Törvényszéknél az Alapítvány megszüntetését, kérje kérelmének soron kívüli elbírálását, továbbá a megszüntetés kapcsán felmerülő kérdésekben az alapító nevében eljárjon;
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen vagyonelszámoló, könyvvizsgáló, valamint az átadás-átvételi eljárásban közreműködő személyek kijelöléséről;
+b)[^3] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen vagyonelszámoló, és szükség szerint könyvvizsgáló, valamint az átadás-átvételi eljárásban közreműködő személyek kijelöléséről;
 
 c) felhívja a nemzeti fejlesztési minisztert, hogy biztosítsa, hogy az Alapítvány megszűnése napjával mint mérlegfordulónappal az Alapítvány elkészítse a számviteli törvény szerinti egyes egyéb szervezetek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 224/2000. (XII. 19.) Korm. rendelet 6. §-a szerinti beszámolóját;
 
@@ -28,9 +28,11 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: az Alapítvány bírósági törlését követően azonnal
 
-5–7.[^1]
+5–7.[^4]
 
-8.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
+8.[^5] Ez a határozat a közzétételét követő napon lép hatályba,
 
-[^1]: Az 5–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: A 2. pont a) alpontja az 1693/2012. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pont b) alpontja az 1693/2012. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 5–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
