@@ -1,3 +1,7 @@
+## II. Fejezet[^2]
+
+## A MEGVÉTELRE FELAJÁNLOTT LAKÓINGATLAN MEGVÁSÁRLÁSÁNAK SZABÁLYAI
+
 ## 2. A szociális rászorultság feltételei és a szociális rászorultság igazolásának módja
 
 2. § (1) A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant abban az esetben vásárolja meg, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő házastársa vagy élettársa
@@ -23,3 +27,5 @@ aa) a családi pótlékra való jogosultságról a kincstárnak,
 ab) az aktív korúak ellátására való jogosultságról vagy a lakásfenntartási támogatásra való jogosultságról a lakóingatlan fekvése szerinti települési önkormányzat jegyzőjének,
 
 b) a (2) bekezdésben meghatározott esetben az ápolási díjra való jogosultságról a lakóingatlan fekvése szerinti települési önkormányzat jegyzőjének
+
+[^2]: A II. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.

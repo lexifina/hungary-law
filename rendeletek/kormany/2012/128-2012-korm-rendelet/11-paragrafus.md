@@ -1,4 +1,4 @@
-## 10. § A bérleti szerződés bérbeadó általi felmondása esetén, ha a bérlő a felmondásban meghatározott időben nem üríti ki az ingatlant, a bérbeadó a lakóingatlan kiürítése iránt, valamint a bérlő által felhalmozott és meg nem fizetett tartozások végrehajtása iránt intézkedik.
+## 10. §[^8] A bérleti szerződés bérbeadó általi felmondása esetén, ha a bérlő a felmondásban meghatározott időben nem üríti ki a lakóingatlant vagy a lakhatási célú ingatlant, a bérbeadó annak kiürítése iránt, valamint a bérlő által felhalmozott és meg nem fizetett tartozások végrehajtása iránt intézkedik.
 
 ## 7. A Nemzeti Eszközkezelő feladatainak ellátására kizárólagos jog alapján történő kijelölés
 
@@ -9,3 +9,5 @@
 (3) A Kijelölt Szolgáltató feladatát a Nemzeti Eszközkezelővel kötött, az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozatnak megfelelő szolgáltatási szerződés alapján látja el. A szolgáltatási szerződésben meghatározásra kerül az e rendelet alapján kötelezően ellátandó feladatok pontos köre, ellátásuk részletei, és a szolgáltatás ellenértéke.
 
 (4) A Kijelölt Szolgáltató a feladatot közszolgáltatás keretében látja el.
+
+[^8]: A 10. § a 431/2012. (XII. 29.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
