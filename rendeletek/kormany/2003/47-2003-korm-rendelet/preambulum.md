@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2003. évi költségvetéséről szóló 2002. évi LXII. törvény (a továbbiakban: Tv.) 57. §-a (7) bekezdésének c) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:

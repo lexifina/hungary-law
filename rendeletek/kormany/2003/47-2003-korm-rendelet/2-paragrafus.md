@@ -1,1 +1,0 @@
-## 1. § A megyék részére elkülönített támogatási keretösszegek rendeltetése a megyék társadalmi-gazdasági helyzetének javulását elősegítő fejlesztések támogatása, különös tekintettel a leghátrányosabb helyzetű kistérségeik felzárkóztatására.
