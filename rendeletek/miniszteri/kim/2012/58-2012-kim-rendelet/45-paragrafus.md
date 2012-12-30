@@ -1,13 +1,3 @@
-## „14. § A papír alapú űrlapot 2014. június 30. napjáig úgy kell kialakítani, hogy az ne tartalmazzon mezőt
-
-## a) az 1. melléket 5.3.5., 6.3.4., 6.3.5., 8.1.–8.7. pontjában,
-
-## b) a 2. melléklet 3.3.5., 3.4.3., 3.5.3. pontjában és
-
-## c) a 13. melléklet 8.5., 13., 13.1.–13.7., és 14., 14.1., 14.2. pontjában
-
-## meghatározott adatok megadására.”
-
 45. § (1) Az R. 1. melléklete a következő 5.3.5. ponttal kiegészülve lép hatályba:
 
 ## „5.3.5. anyja születési neve”
