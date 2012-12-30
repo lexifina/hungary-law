@@ -40,7 +40,7 @@ b)[^22] az élelmiszer-higiéniai és állat-egészségügyi követelményeknek 
 
 ## szakhatóságként jelöli ki.
 
-(5)[^23] Az engedélyezési eljárás ügyintézési határideje tizenöt nap. A kistérségi jegyző az engedély megadásával egyidejűleg a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi. A nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.
+(5)[^23] Az engedélyezési eljárás ügyintézési határideje tizenöt nap. A jegyző az engedély megadásával egyidejűleg a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi. A nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.
 
 (6)[^24] A kistérségi jegyző által a vásárokról és piacokról vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
 
@@ -80,7 +80,7 @@ l) a nyilvántartásból való törlés tényét, annak időpontját.
 [^20]: A 4. § (4) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^21]: A 4. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
 [^22]: A 4. § (4) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított és 9. § (2) bekezdése, a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^24]: A 4. § (6) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^25]: A 4. § (6) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni. [A 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja alapján a „ , telefonszámát” szövegrész hatályát veszti; a módosítás nem vezethető át.]
 [^26]: A 4. § (6) bekezdés d)–e) pontját a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.

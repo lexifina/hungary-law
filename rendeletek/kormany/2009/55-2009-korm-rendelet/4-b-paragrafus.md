@@ -16,7 +16,7 @@ f) a területhasználatának jogcímét,
 
 g) a piac nyitva tartási idejét.
 
-(3) A települési jegyző a helyi termelői piacot nyilvántartásba veszi. A települési jegyző által vezetett nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.
+(3)[^38] A jegyző a helyi termelői piacot nyilvántartásba veszi. A jegyző által vezetett nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.
 
 (4) A települési jegyző által a bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza a fenntartó által a (2) bekezdés alapján megadott adatokat.
 
@@ -34,6 +34,8 @@ e) az illetékes rendőrkapitányságnak és
 
 f) a Nemzeti Adó- és Vámhivatalnak.
 
-(6) A helyi termelői piac fenntartója a (2) bekezdésben meghatározott adatokban bekövetkezett változásokat haladéktalanul köteles bejelenteni a települési jegyzőnek. A települési jegyző a változást a nyilvántartásba bejegyzi.
+(6)[^39] A helyi termelői piac fenntartója a (2) bekezdésben meghatározott adatokban bekövetkezett változásokat haladéktalanul köteles bejelenteni a jegyzőnek. A jegyző a változást a nyilvántartásba bejegyzi.
 
 [^37]: A 4/B. §-t a 260/2011. (XII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^38]: A 4/B. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^39]: A 4/B. § (6) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
