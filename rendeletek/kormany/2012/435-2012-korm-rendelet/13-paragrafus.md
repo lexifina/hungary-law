@@ -1,0 +1,1 @@
+## 12. § A vállalkozás 11. § (2) bekezdés a) pontjában meghatározott helyzetének minősítése során az Eximbank az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ában meghatározott rendelkezéseknek megfelelően jár el.

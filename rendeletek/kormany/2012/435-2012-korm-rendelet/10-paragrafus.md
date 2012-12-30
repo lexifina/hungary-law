@@ -1,0 +1,1 @@
+## 9. § Az Eximbank teljesíti az OECD Kereskedelmi és Mezőgazdasági Igazgatósága által meghatározott adatszolgáltatási, valamint bejelentési kötelezettségeket, továbbá az e rendelet hatálya alá tartozó ügyekben eljár az OECD-ben.
