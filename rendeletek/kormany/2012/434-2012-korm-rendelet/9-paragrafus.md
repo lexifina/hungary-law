@@ -1,0 +1,5 @@
+## 8. § Az R. 7. §-a helyébe a következő rendelkezés lép:
+
+## „7. § (1) Az Eximbank az általa közvetlenül nyújtott, kamatkiegyenlítési rendszerbe bevont hitelek legkisebb kamatlábát a (2) bekezdésben foglalt kivétellel az Európai Unió állami támogatási előírásaival összhangban, az egyéni referencia kamatlábra vonatkozó rendelkezések vagy a finanszírozási feltételeket rögzítő szerződés napján érvényes, az OECD titkárság által közzétett kamatláb figyelembe vételével határozza meg. Az így felszámítandó kamatláb mértéke legalább 0,5%. A legkisebb kamatláb meghatározására a szerződéskötés napján kerül sor, amely kamatláb rögzített a teljes futamidő alatt.
+
+## (2) Az Eximbank által közvetlenül nyújtott két éves és két éven túli futamidejű exporthitelek, illetve megelőlegezés legkisebb kamatlába az OECD Megállapodás rendelkezései szerint megállapított időpontban a hitelnyújtás devizanemére érvényes, az OECD titkársága által közzétett CIRR kamatláb (a továbbiakban: CIRR), amely kamatláb rögzített a teljes futamidő alatt.”
