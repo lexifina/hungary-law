@@ -1,10 +1,10 @@
 A Kormány – figyelembe véve az Elektronikus Közigazgatás Operatív Program 2011–2013. évi akciótervének és az Elektronikus Közigazgatás Operatív Program 2009–2010. évi akciótervének módosításáról szóló 1247/2011. (VII. 18.) Korm. határozatot, amely az „ESR – az egységes európai hívószámra (112) alapozott Európai Segélyhívó Rendszer” kiemelt projektet 5 milliárd forint keretösszeggel nevesíti – az egységes európai segélyhívó számra (112) alapozott Egységes Segélyhívó Rendszer (ESR) kialakításának érdekében a korábbi célkitűzéseket módosítva az ütemezést és a feladatmegosztást az alábbiak szerint határozza meg:
 
-1. A Kormány felhívja a belügyminisztert, hogy a nemzeti erőforrás miniszter, a nemzetgazdasági miniszter, a nemzeti fejlesztési miniszter, valamint a közigazgatási és igazságügyi miniszter részvételével hozzon létre egy szakmai munkacsoportot (a továbbiakban: munkacsoport), amely kidolgozza az Egységes Segélyhívó Rendszer szakmai specifikációját, és előkészíti a szükséges jogszabály-módosításokat.
+1.[^1] A Kormány felhívja a belügyminisztert, hogy a emberi erőforrások minisztere, a nemzetgazdasági miniszter, a nemzeti fejlesztési miniszter, valamint a közigazgatási és igazságügyi miniszter részvételével hozzon létre egy szakmai munkacsoportot (a továbbiakban: munkacsoport), amely kidolgozza az Egységes Segélyhívó Rendszer szakmai specifikációját, és előkészíti a szükséges jogszabály-módosításokat.
 
 Felelős: belügyminiszter
 
-nemzeti erőforrás miniszter
+emberi erőforrások minisztere
 
 nemzetgazdasági miniszter
 
@@ -14,9 +14,9 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a munkacsoport létrehozására: azonnal
 
-a feladat végrehajtására: 2011. szeptember 15.
+a feladat végrehajtására: 2013. április 1.
 
-2. A Kormány kijelöli az Egységes Segélyhívó Rendszer fejlesztési projekt megvalósítására létrehozandó konzorcium tagjaként a Belügyminisztériumot, az Országos Rendőr-főkapitányságot, az Országos Katasztrófavédelmi Főigazgatóságot, a Nemzeti Fejlesztési Minisztériumot, a Nemzeti Erőforrás Minisztériumot, az Országos Mentőszolgálatot és a Kopint Datorg Zártkörűen Működő Részvénytársaságot, a konzorcium vezetőjének és projektgazdának a Kormányzati Informatikai Fejlesztési Ügynökséget.
+2.[^2] A Kormány kijelöli az Egységes Segélyhívó Rendszer fejlesztési projekt megvalósítására létrehozandó konzorcium tagjaként a Belügyminisztériumot, az Országos Rendőr-főkapitányságot, az Országos Katasztrófavédelmi Főigazgatóságot, a Nemzeti Fejlesztési Minisztériumot, az Emberi Erőforrások Minisztériumát, az Országos Mentőszolgálatot és a Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaságot, a konzorcium vezetőjének és projektgazdának a Kormányzati Informatikai Fejlesztési Ügynökséget.
 
 A Kormány felkéri a projekt megvalósítására kijelölt konzorciumot, hogy készítse elő a konzorciumi megállapodást és készítse el a projekt megvalósításához szükséges Részletes Megvalósíthatósági Tanulmányt, valamint készítse elő az európai uniós támogatás elnyeréséhez szükség pályázatot.
 
@@ -30,38 +30,50 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatosan
 
-4. Az egységes európai segélyhívó számra (112) alapozott Egységes Segélyhívó Rendszert a készenléti szervek egységei pozícióadatainak meghatározását biztosító egységes digitális rádiótávközlő rendszer (a továbbiakban: EDR), valamint a hívó fél helyének meghatározására szolgáló – a telekommunikációs szolgáltatók által működtetett földi és rádiótelefon rendszerekből származó, az 1. pontban meghatározott munkacsoport által kidolgozott műszaki tartalom szerinti – adatok felhasználásával kell működtetni. A rendszert automatikus – a gazdasági lehetőségekhez képest lehető legpontosabb – helymeghatározással és térinformatikai ábrázolásokkal kibővítve kell létrehozni, amely valamennyi készenléti szervezet tevékenység-irányítását megfelelően elő-feldolgozott adatokkal, információkkal szolgálja ki.
+4.[^3] Az egységes európai segélyhívó számra (112) alapozott Egységes Segélyhívó Rendszert a készenléti szervek egységei pozícióadatainak meghatározását biztosító egységes digitális rádiótávközlő rendszer (a továbbiakban: EDR), valamint a hívó fél helyének meghatározására szolgáló – a telekommunikációs szolgáltatók által működtetett földi és rádiótelefon rendszerekből származó, az 1. pontban meghatározott munkacsoport által kidolgozott műszaki tartalom szerinti – adatok felhasználásával kell működtetni. A rendszert automatikus – a gazdasági lehetőségekhez képest lehető legpontosabb – helymeghatározással és térinformatikai ábrázolásokkal kibővítve kell létrehozni, amely valamennyi készenléti szervezet tevékenység-irányítását megfelelően elő-feldolgozott adatokkal, információkkal szolgálja ki.
 
 Felelős: nemzeti fejlesztési miniszter
 
-A teljes projekt megvalósulásának határideje: 2012. december 31.
+A teljes projekt megvalósulásának határideje: 2013. december 31.
 
-5. A Kormány felhívja a belügyminisztert, hogy készítsen előterjesztést, amely bemutatja, hogy az Egységes Segélyhívó Rendszer bevezetési folyamatában a korábbi rendszer párhuzamos működtetése mely időpontig szükséges, valamint azt, hogy a párhuzamos működtetés megszüntetését követően – figyelembe véve mind az új rendszer működéséből fakadó igényeket, mind a várható megtakarításokat – az Egységes Segélyhívó Rendszer működtetése milyen forrásigénnyel jár.
+5.[^4] A Kormány felhívja a nemzeti fejlesztési minisztert, a belügyminisztert, illetve az emberi erőforrások miniszterét, hogy dolgozzák ki az Egységes Segélyhívó Rendszer üzemeltetési koncepcióját, részletesen bemutatva az egyes alrendszerek üzemeltetése kapcsán kialakításra kerülő felelősségi köröket.
 
-Felelős: belügyminiszter
+Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2011. szeptember 30.
+belügyminiszter
 
-6. Az Egységes Segélyhívó Rendszer működtetése érdekében a Kormány felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy az Egységes Segélyhívó Rendszer működtetésének az 5. pontban foglaltak szerint megállapított költségeit a 2013. évi költségvetésbe tervezze be.
+emberi erőforrások minisztere
+
+Határidő: 2013. február 28.
+
+6.[^5] A Kormány az Egységes Segélyhívó Rendszer működtetése érdekében felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy az Egységes Segélyhívó Rendszer működtetésének költségeit a 2014. évi költségvetésbe tervezzék be.
 
 Felelős: nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: a 2013. évi költségvetés tervezése során
+Határidő: a 2014. évi költségvetés tervezése során
 
-7. A Kormány felhívja a nemzeti erőforrás minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak az Országos Mentőszolgálat mentésirányítási rendszerének korszerűsítésére szolgáló TIOP 2.3.4. és KMOP 4.3.3./B európai uniós projekteknek az Egységes Segélyhívó Rendszer kialakítása érdekében létrejövő projekthez való kapcsolódásáról, a fejlesztési programok végrehajtásának nyomon követéséért felelős Nemzeti Fejlesztési Ügynökség illetékes Irányító Hatóságának iránymutatásai szerint, nem korlátozva a pályázatban szereplő Mentés-irányítási Rendszer tesztüzemének megvalósítását.
+7.[^6] A Kormány felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy gondoskodjanak az Országos Mentőszolgálat mentésirányítási rendszerének korszerűsítésére szolgáló TIOP 2.3.4. és KMOP 4.3.3./B európai uniós projekteknek az Egységes Segélyhívó Rendszer kialakítása érdekében létrejövő projekthez való kapcsolódásáról, a fejlesztési programok végrehajtásának nyomon követéséért felelős Nemzeti Fejlesztési Ügynökség illetékes Irányító Hatóságának iránymutatásai szerint, nem korlátozva a pályázatban szereplő Mentés-irányítási Rendszer tesztüzemének megvalósítását.
 
-Felelős: nemzeti erőforrás miniszter
+Felelős: emberi erőforrások miniszter
 
 nemzeti fejlesztési miniszter
 
 Határidő: folyamatosan
 
-8. A Kormány felhívja a nemzeti fejlesztési minisztert és a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet) szerinti kormányzati célú hírközlési szolgáltatót, hogy vizsgálja meg, és szükség esetén módosítsa a Korm. rendelet szerinti EDR-közreműködővel kötött, az EDR-re vonatkozó szolgáltatási szerződést annak érdekében, hogy az Egységes Segélyhívó Rendszer tevékenység-irányítási követelményeiben szereplő EDR-integrációnak ne legyen akadálya, valamint gondoskodjon az Egységes Segélyhívó Rendszer felhasználói szervezetei hálózati végpontjainak konszolidálásáról.
+8.[^7] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy szükség esetén a jogszabályban meghatározott EDR-szolgáltatásról szóló közszolgáltatási szerződés módosításával gondoskodjon az Egységes Segélyhívó Rendszer tevékenység-irányítási követelményeiben szereplő EDR-integráció megvalósulásáról, valamint az Egységes Segélyhívó Rendszer felhasználói szervezetei hálózati végpontjainak konszolidálásáról.
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2011. szeptember 30.
+Határidő: 2013. április 1.
 
 9. Ez a határozat a közzétételét követő napon lép hatályba. Hatályát veszti a „112-es” Európai Segélyhívó Rendszer kialakításával kapcsolatos feladatokról szóló 2031/2007. (III. 7.) Korm. határozat.
+
+[^1]: Az 1. pont az 1686/2012. (XII. 29.) Korm. határozat 3. pont a) és b) pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1686/2012. (XII. 29.) Korm. határozat 3. pont c) és d) pontja szerint módosított szöveg.
+[^3]: A 4. pont az 1686/2012. (XII. 29.) Korm. határozat 3. pont e) pontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1686/2012. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 6. pont az 1686/2012. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 7. pont az 1686/2012. (XII. 29.) Korm. határozat 3. pont f) és g) pontja szerint módosított szöveg.
+[^7]: A 8. pont az 1686/2012. (XII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
