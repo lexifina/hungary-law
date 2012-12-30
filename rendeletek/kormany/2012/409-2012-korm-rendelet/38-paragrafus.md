@@ -1,4 +1,4 @@
-## 37. §[^16]
+## 37. §[^17]
 
 ## 7. Záró rendelkezések
 
@@ -30,4 +30,4 @@ f) a 17–18. §, valamint
 
 g) a 20–37. §.
 
-[^16]: A 37. § a 38. § (4) bekezdés g) pontja alapján 2013. január 1-jén lép hatályba.
+[^17]: A 37. § a 38. § (4) bekezdés g) pontja alapján 2013. január 1-jén lép hatályba.
