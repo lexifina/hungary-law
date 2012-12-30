@@ -1,12 +1,27 @@
-1. §[^1] (1) E rendelet hatálya a Törvény 1. §-ának (5) bekezdésében és 2. §-ának (2) bekezdésében meghatározott pénzügyi szolgáltatások keretében az Eximbank által a magyar áruk létrehozásához és értékesítéséhez, valamint a szolgáltatásokhoz
+1. §[^1] (1) E rendelet hatálya a Törvény 1. § (5) bekezdésében és 2. § (2) bekezdésében meghatározott pénzügyi szolgáltatások keretében az Eximbank által a magyar áruk létrehozásához és értékesítéséhez, valamint a szolgáltatásokhoz
 
-a) a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklete I.10.1 és I.10.2. a) pontja szerint nyújtott exporthitelekre; valamint a belföldi és külföldi hitelintézeteknek nyújtott exporthitelekre (a továbbiakban: refinanszírozási hitelek), és
+a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklete I.10.1. és I.10.2. a) pontja szerint nyújtott
 
-b) a Hpt. 2. számú melléklete I.10.2. b) pontjában szereplő pénzkölcsönügyletek közül a külkereskedelmi szerződésből eredő, legalább két éves kockázati időtartamú exportköveteléshez adott megelőlegezésre, illetve engedményezés (faktoring, forfeit ügylet) keretében történő megvásárlására, leszámítolására (a továbbiakban: pénzkölcsön)
+aa) exporthitelekre,
 
-## terjed ki, amelyek esetében a hitelszerződések, illetve pénzkölcsönszerződések futamideje legalább két év és a kamatláb a futamidő alatt rögzített.
+ab) belföldi és külföldi hitelintézeteknek nyújtott exporthitelekre (a továbbiakban: refinanszírozási exporthitel),
 
-(2)[^2]
+ac) beszállítói hitelekre, exportcélú befektetési hitelekre, külföldön megvalósuló befektetési hitelekre (a továbbiakban: egyéb export célú hitel),
 
-[^1]: Az 1. § a 304/2005. (XII. 25.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után megkötött exporthitel-, pénzkölcsön- és garancia-szerződésekre irányadó.
-[^2]: Az 1. § (2) bekezdését a 204/2012. (VII. 27.) Korm. rendelet 8. § a) pont aa) alpontja hatályon kívül helyezte.
+ad) a belföldi és külföldi hitelintézeteknek nyújtott egyéb export célú hitelekre (a továbbiakban: egyéb export célú refinanszírozási hitel) és
+
+b) a Hpt. 2. számú melléklete I.10.2. b) pontjában szereplő pénzkölcsönügyletek közül a külkereskedelmi szerződésből eredő exportköveteléshez adott megelőlegezésre, vagy engedményezés (faktoring, forfeit ügylet) keretében történő megvásárlására, leszámítolására (a továbbiakban: pénzkölcsön)
+
+terjed ki.
+
+(2) Az Eximbank az (1) bekezdés a) pont aa) és ab) alpontjában felsorolt két éves és két éven túli hiteleket és az (1) bekezdés b) pontjában szereplő megelőlegezést a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló Megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja.
+
+(3) Az Eximbank az (2) bekezdésben fel nem sorolt termékei esetében gondoskodik arról, hogy a termékleírások tartalmazzák, hogy az egyes termékek feltételei megfelelnek az OECD Megállapodásnak vagy az Európai Unió állami támogatási szabályainak.
+
+(4) Az OECD Megállapodásnak vagy az Európai Unió állami támogatási szabályainak megfelelő termékhez kapcsolódóan az Eximbank az e rendelet szerinti kamatkiegyenlítést az (5) bekezdésben foglalt kivétellel igénybe veheti.
+
+(5) Amennyiben az Európai Unió állami támogatási szabályainak való megfelelés olyan módon biztosított, hogy a termék nem tartalmaz az Európai Unió Működéséről szóló Szerződés 107. cikk (1) bekezdése szerinti állami támogatást, akkor az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
+
+(6) Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel vagy export célú befektetési hitellel finanszírozott összegig az olyan áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, vagy export célú befektetési hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
+
+[^1]: Az 1. § a 434/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

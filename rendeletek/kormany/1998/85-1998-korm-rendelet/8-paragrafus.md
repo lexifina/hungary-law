@@ -1,11 +1,7 @@
-8. § (1)[^24]
+8. §[^25] (1) A refinanszírozási hitelek legkisebb kamatlába a (2) bekezdésben foglalt kivétellel a 7. § (1) bekezdésében meghatározott legkisebb kamatláb mínusz 2%. Amennyiben az így számított kamatláb nem éri el a 0,5%-ot, a felszámításra kerülő kamatláb mértéke legalább 0,5%. A refinanszírozási hitelek legkisebb kamatlábának meghatározására a finanszírozási feltételeket rögzítő szerződés megkötésének napján kerül sor, amely kamatláb rögzített a teljes futamidő alatt.
 
-(2)[^25] A két éves és két éven túli futamidejű refinanszírozási hitelek legkisebb kamatlába belföldi hitelintézetek esetében a 7. § (3) bekezdésében szereplő kamatláb mínusz 2%.
+(2) A két éves és két éven túli futamidejű refinanszírozási exporthitelek legkisebb kamatlába belföldi hitelintézetek esetében a 7. § (2) bekezdésében szereplő kamatláb mínusz 2%. Amennyiben az így számított kamatláb nem éri el a 0,5%-ot, a felszámításra kerülő kamatláb mértéke legalább 0,5%.
 
-(3) Az Eximbank csak azzal a belföldi hitelintézettel köthet refinanszírozási szerződést, amely vállalja, hogy az általa e forrás terhére nyújtott két évnél hosszabb futamidejű hitelek kamatlába legalább CIRR, amely kamatláb rögzített a hitel teljes futamideje alatt.
+(3) Az Eximbank csak azzal a belföldi hitelintézettel köthet a (2) bekezdés szerinti refinanszírozási exporthitel szerződést, amely vállalja, hogy az általa e forrás terhére nyújtott két éves vagy két évnél hosszabb futamidejű hitelek kamatlába legalább CIRR, amely rögzített a hitel teljes futamideje alatt.
 
-(4)[^26]
-
-[^24]: A 8. § (1) bekezdését a 204/2012. (VII. 27.) Korm. rendelet 8. § a) pont ac) alpontja hatályon kívül helyezte.
-[^25]: A 8. § (2) bekezdése a 304/2005. (XII. 25.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után megkötött exporthitel-, pénzkölcsön- és garancia-szerződésekre irányadó.
-[^26]: A 8. § (4) bekezdését a 304/2005. (XII. 25.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^25]: A 8. § a 434/2012. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-2. melléklet a 85/1998. (V. 6.) Korm. rendelethez[^46]
+2. melléklet a 85/1998. (V. 6.) Korm. rendelethez[^43]
 
-## A 11/A. § (13) bekezdésében foglaltak teljesítéséhez az 1233/2011/EU rendelet alapján az Európai Bizottság számára összeállítandó éves tevékenységi jelentés tartalmára vonatkozó ellenőrzési lista
+## A 11/B. §-ban foglaltak teljesítéséhez az 1233/2011/EU rendelet alapján az Európai Bizottság számára összeállítandó éves tevékenységi jelentés tartalmára vonatkozó ellenőrzési lista
 
 I. Jelentéstevőre vonatkozó adatok
 
@@ -88,4 +88,4 @@ VI. A környezeti kockázatok értékelése
 
 |  | 4 | Hogyan kerülnek figyelembe vételre az OECD Megállapodás 5. pontja alá tartozó hivatalosan támogatott exporthitelezési tevékenységükben azok a környezeti kockázatok, amelyek egyéb jelentős kockázatokat okozhatnak? |  |
 
-[^46]: A 2. mellékletet a 204/2012. (VII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^43]: A 2. mellékletet a 204/2012. (VII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 434/2012. (XII. 29.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
