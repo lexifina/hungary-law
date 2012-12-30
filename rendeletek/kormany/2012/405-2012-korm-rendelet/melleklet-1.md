@@ -1,3 +1,5 @@
+## 32–33. §[^1]
+
 1. melléklet a 405/2012. (XII. 28.) Korm. rendelethez
 
 Az osztatlan közös földtulajdon megszüntetésével kapcsolatos földhivatali feladatok költségvonzata
@@ -43,3 +45,5 @@ B) Földhivatali adminisztrációs költségek egyezség esetén
 | 7 | Ingatlan-nyilvántartási határozat, postázás | 13 000 |
 
 | 8 | Összes földhivatali költség | 59 000 |
+
+[^1]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
