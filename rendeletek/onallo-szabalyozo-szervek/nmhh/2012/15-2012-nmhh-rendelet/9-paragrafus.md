@@ -1,0 +1,1 @@
+## 4. Frekvenciasávok használata
