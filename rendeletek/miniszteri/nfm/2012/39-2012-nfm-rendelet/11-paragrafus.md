@@ -6,8 +6,8 @@
 
 (2) Az előirányzat felhasználása a NIF Zrt.-vel, mint a kormányzati beruházás megvalósítójával kötött megállapodás alapján történik.
 
-(2a)[^2] Az előirányzat felhasználása során a Kétvölgy–Felsőszölnök közötti közút építésének műszaki ellenőrzési és beruházás-lebonyolítási feladatait a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar Közút Nonprofit Zrt.) látja el. A feladatok ellátására a Magyar Közút Nonprofit Zrt.-vel a NIF Zrt. megállapodást köt.
+(2a)[^3] Az előirányzat felhasználása során a Kétvölgy–Felsőszölnök közötti közút építésének műszaki ellenőrzési és beruházás-lebonyolítási feladatait a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar Közút Nonprofit Zrt.) látja el. A feladatok ellátására a Magyar Közút Nonprofit Zrt.-vel a NIF Zrt. megállapodást köt.
 
 (3) Az előirányzat felhasználására a 9. §-t és a 10. §-t alkalmazni kell.
 
-[^2]: A 11. § (2a) bekezdését a 63/2012. (XII. 4.) NFM rendelet 2. §-a iktatta be.
+[^3]: A 11. § (2a) bekezdését a 63/2012. (XII. 4.) NFM rendelet 2. §-a iktatta be.

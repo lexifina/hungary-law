@@ -1,6 +1,6 @@
 ## 1. Általános rendelkezések
 
-1. § (1)[^1] E rendelet hatálya a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. címe alatti fejezeti kezelésű előirányzatok közül a következő előirányzatokra terjed ki:
+1. § (1)[^2] E rendelet hatálya a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. címe alatti fejezeti kezelésű előirányzatok közül a következő előirányzatokra terjed ki:
 
 a) 17-20-31-2 Egyedi kormánydöntésen alapuló közlekedési beruházások (ÁHT: 302679),
 
@@ -42,4 +42,4 @@ s) 17-20-38-3 Kormányzati szakpolitikai feladatok (ÁHT: 301624).
 
 (2) A TEN-T projektek fejezeti kezelésű előirányzat vonatkozásában a 3–8. §-ban foglalt rendelkezéseket nem kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdése a 63/2012. (XII. 4.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 63/2012. (XII. 4.) NFM rendelet 1. §-ával megállapított szöveg.

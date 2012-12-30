@@ -1,4 +1,4 @@
-## 20/A. §[^4] A „TEN-T projektek” előirányzat vonatkozásában a „Tanulmányok a 22. számú kiemelt fontosságú vasúti projekt kidolgozásához” TEN-T projekt megvalósításában a MÁV Zrt. megvalósító szervezetként vesz részt, és ellátja a miniszterrel kötött támogatási szerződésben meghatározott feladatokat.
+## 20/A. §[^5] A „TEN-T projektek” előirányzat vonatkozásában a „Tanulmányok a 22. számú kiemelt fontosságú vasúti projekt kidolgozásához” TEN-T projekt megvalósításában a MÁV Zrt. megvalósító szervezetként vesz részt, és ellátja a miniszterrel kötött támogatási szerződésben meghatározott feladatokat.
 
 ## 8. Ferihegyi út meghosszabbítása
 
@@ -8,4 +8,4 @@
 
 (3) A támogatásból előleg folyósítható.
 
-[^4]: A 20/A. §-t a 63/2012. (XII. 4.) NFM rendelet 4. §-a iktatta be.
+[^5]: A 20/A. §-t a 63/2012. (XII. 4.) NFM rendelet 4. §-a iktatta be.

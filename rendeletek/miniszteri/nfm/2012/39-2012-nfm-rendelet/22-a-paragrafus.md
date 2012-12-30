@@ -1,6 +1,6 @@
-## 9/A.[^5] Velencei tó körüli kerékpárút felújítása, építése
+## 9/A.[^6] Velencei tó körüli kerékpárút felújítása, építése
 
-22/A. §[^6] (1) Az előirányzat fedezetet nyújt a Velencei-tó körüli kerékpárúttal kapcsolatos előkészítő, megvalósítási, valamint felújítási munkálatok ellátásához.
+22/A. §[^7] (1) Az előirányzat fedezetet nyújt a Velencei-tó körüli kerékpárúttal kapcsolatos előkészítő, megvalósítási, valamint felújítási munkálatok ellátásához.
 
 (2) Az előirányzat felhasználható a (3) bekezdés szerinti kedvezményezett (1) bekezdésben meghatározott feladatok ellátásával összefüggő – nem működtetési típusú – költségeinek megtérítésére.
 
@@ -8,5 +8,5 @@
 
 (4) A támogatásból előleg folyósítható.
 
-[^5]: A 9/A. alcímet (22/A. §-t) a 63/2012. (XII. 4.) NFM rendelet 5. §-a iktatta be.
-[^6]: A 22/A. §-t a 63/2012. (XII. 4.) NFM rendelet 5. §-a iktatta be.
+[^6]: A 9/A. alcímet (22/A. §-t) a 63/2012. (XII. 4.) NFM rendelet 5. §-a iktatta be.
+[^7]: A 22/A. §-t a 63/2012. (XII. 4.) NFM rendelet 5. §-a iktatta be.

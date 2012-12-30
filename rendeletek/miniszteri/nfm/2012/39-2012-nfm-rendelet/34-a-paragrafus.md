@@ -1,6 +1,6 @@
-## 13/A.[^7] PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások
+## 13/A.[^8] PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások
 
-34/A. §[^8] (1) Az előirányzat célja
+34/A. §[^9] (1) Az előirányzat célja
 
 a) a törökbálinti Bálint Márton Iskola és Sportközpont beruházás befejezéséről és egyéb, PPP konstrukcióban létesült sportlétesítményekről szóló 1219/2012. (VI. 26.) Korm. határozat alapján a törökbálinti Bálint Márton Iskola és Sportközpont jelenlegi PPP konstrukciójának megszüntetése, a beruházás befejezése és az elkészült létesítmény Törökbálint Város Önkormányzata részére a közcélú hasznosítás érdekében történő átadása, továbbá a Sport XXI. Létesítményfejlesztési Program keretében létrejött tornaterem és tanuszoda PPP projektek magánbefektetőivel szemben fennálló, a PPP projekthez kapcsolódó lejárt pénzintézeti követelések megvásárlása, vagy amennyiben ez az eljárás nem alkalmazható, a Sport XXI. Létesítményfejlesztési Program keretében létrejött egyes tornaterem és tanuszoda létesítményekhez kapcsolódó PPP szerződések megszüntetése és ennek során a létesítmények állami tulajdonba vétele;
 
@@ -14,5 +14,5 @@ b) a Kormány határozatában megjelölt egyes oktatási létesítmények PPP-ko
 
 (5) Az (1) bekezdés a) pontja szerinti célok megvalósítása érdekében az előirányzat felhasználása a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetbe történő átcsoportosítást követően az MNV Zrt. vagy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság útján történik.
 
-[^7]: A 13/A. alcímet (34/A. §-t) a 63/2012. (XII. 4.) NFM rendelet 6. §-a iktatta be.
-[^8]: A 34/A. §-t a 63/2012. (XII. 4.) NFM rendelet 6. §-a iktatta be.
+[^8]: A 13/A. alcímet (34/A. §-t) a 63/2012. (XII. 4.) NFM rendelet 6. §-a iktatta be.
+[^9]: A 34/A. §-t a 63/2012. (XII. 4.) NFM rendelet 6. §-a iktatta be.
