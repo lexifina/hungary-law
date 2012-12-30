@@ -1,0 +1,3 @@
+275. § (1) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 151. § (1) bekezdésében az „a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény” szövegrész helyébe az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szöveg lép.
+
+(2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 151. § (1) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.

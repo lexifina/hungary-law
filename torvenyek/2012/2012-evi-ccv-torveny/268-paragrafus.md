@@ -1,0 +1,1 @@
+268. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 16. § (5) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.

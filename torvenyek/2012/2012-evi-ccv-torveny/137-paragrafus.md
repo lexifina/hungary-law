@@ -1,0 +1,35 @@
+## 80. A lakhatás-támogatási rendszer
+
+137. § (1) A Honvédség – különösen a 25. § (1) bekezdés szerinti kötelezettség teljesítésének elősegítése érdekében – lakhatás-támogatási rendszert működtet.
+
+(2) A lakhatás támogatása
+
+a) a miniszter által vezetett minisztérium rendelkezése alatt lévő lakások juttatásával,
+
+b) a miniszter által vezetett minisztérium rendelkezése alatt lévő helyőrségi szálló-férőhelyek juttatásával,
+
+c) a miniszter által vezetett minisztérium rendelkezése alatt álló, karba nem helyezett állapotban juttatott lakás részleges felújításához nyújtott hozzájárulással,
+
+d) a miniszter által vezetett minisztérium vagyonkezelésében lévő lakás elidegenítése esetén a honvédségi szolgálati idő elismerésével,
+
+e) a miniszter által vezetett minisztérium rendelkezési jogától függetlenül a lakás fenntartási költségeihez való, a rászorultság mértékéhez igazodó hozzájárulással,
+
+f) a miniszter által vezetett minisztérium vagyonkezelésébe nem tartozó lakások bérletéhez és lízingjéhez nyújtható pénzbeli támogatással, és
+
+g) a magántulajdonú lakás építéséhez, vásárlásához, valamint a pénzintézeti lakáscélú kölcsön kiváltásához nyújtható visszatérítendő és vissza nem térítendő támogatással,
+
+valósul meg. A legénységi állomány tagja, továbbá az állomány próbaidős tagja kizárólag laktanyai elhelyezésre vagy helyőrségi szálló férőhely juttatására jogosult.
+
+(3) A lakhatási támogatások formáját és mértékét, az igényjogosultság feltételeit, a miniszter által vezetett minisztérium által bérbe adott lakások és szállóférőhelyek bérleti díját miniszteri rendelet a szolgálati viszony jellegére, az állománycsoportra, a rendfokozati csoportra, a szolgálati beosztásra, valamint a szociális és családi körülményekre tekintettel differenciáltan határozhatja meg.
+
+(4) A hősi halottá nyilvánított részére nyújtott kamatmentes kölcsönből fennálló tartozást a miniszter kérelemre elengedheti. A kérelmet a túlélő házastársa, élettársa, örököse miniszteri rendeletben meghatározott eljárási rendben, a hősi halottá nyilvánítástól számított 1 éves jogvesztő határidőn belül terjesztheti elő.
+
+(5) A (2) bekezdés g) pontja szerinti támogatás forrása
+
+a) a miniszter által vezetett minisztérium rendelkezése alatt lévő lakások és nem lakáscélú helyiségek elidegenítéséből származó bevétel,
+
+b) a lakáscélú munkáltatói kölcsönök törlesztéséből származó bevétel, valamint
+
+c) az e célra rendelt fejezeti kezelésű támogatás.
+
+(6) Az (5) bekezdés a) pontja szerinti, a miniszter által vezetett minisztériumot megillető bevétel a Honvédség technikai modernizációjára és infrastrukturális fejlesztéseire is felhasználható.

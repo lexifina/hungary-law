@@ -1,0 +1,1 @@
+270. § Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 3. § (2) bekezdés b) pontjában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.

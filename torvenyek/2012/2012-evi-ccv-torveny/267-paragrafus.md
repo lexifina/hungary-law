@@ -1,0 +1,1 @@
+267. § Az Szja. 1. számú melléklet 4.6. pontjában az „a honvédelemért felelős miniszter” szövegrész helyébe az „a honvédelemért felelős miniszter, a Honvéd Vezérkar főnöke”, a „(dísztőr, gyűrű stb.)” szövegrész helyébe a „(különösen szál- vagy lőfegyver, dísztőr, gyűrű)” szöveg lép.

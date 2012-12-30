@@ -1,0 +1,1 @@
+265. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 4. § (1) bekezdésében és 44/A. § (2) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
