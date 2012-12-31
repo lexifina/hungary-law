@@ -40,9 +40,9 @@
 
 ## férőhelynek kell minden egyes állat rendelkezésére állnia.
 
-## 1.2.2.[^48] A termékenyített kocasüldők, illetve kocák csoportos tartása során újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében minden egyes termékenyített kocasüldő számára legalább 1,64 m2, minden egyes koca részére legalább 2,25 m2 akadálytalanul használható alapterületet kell biztosítani. A 6 egyednél kevesebbet tartalmazó csoport esetén az akadálytalanul használható alapterületet 10%-kal növelni kell. A 40 vagy ennél több egyedet tartalmazó csoport esetén az akadálytalanul használható alapterület 10%-kal csökkenthető.
+## 1.2.2.[^48] A termékenyített kocasüldők, illetve kocák csoportos tartása során minden egyes termékenyített kocasüldő számára legalább 1,64 m2, minden egyes koca részére legalább 2,25 m2 akadálytalanul használható alapterületet kell biztosítani. A 6 egyednél kevesebbet tartalmazó csoport esetén az akadálytalanul használható alapterületet 10%-kal növelni kell. A 40 vagy ennél több egyedet tartalmazó csoport esetén az akadálytalanul használható alapterület 10%-kal csökkenthető.
 
-## 1.3.1.[^49] A padozatfelületnek újonnan épített, újjáépített vagy 2003. január elsejét köve tően első alkalommal üzembe helyezett állattartóhely esetében kell megfelelnie az 1.3.2–1.3.4. pontokban foglaltaknak.
+## 1.3.1.[^49] A padozatfelületnek kell megfelelnie az 1.3.2–1.3.4. pontokban foglaltaknak.
 
 ## 1.3.2. A termékenyített kocasüldők esetében az 1.2.2. pontban előírt minimális alapterületből egyedenként legalább 0,95 m2 legyen tömör, szilárd padozatfelület, melyből legfeljebb 15%-ot foglalhatnak el a vízelvezető nyílások.
 
@@ -60,11 +60,11 @@
 
 ## 1.4.2. Tilos a kocák és kocasüldők lekötve tartására szolgáló épület létesítése, valamint az épületek e célból történő átalakítása.
 
-## 1.5.1.[^50] A tíznél kevesebb kocát tartó gazdaságok kivételével újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében a kocasüldőket és a kocákat a termékenyítés utáni 4. hét eltelte utáni naptól 1 héttel az ellés várható időpontja előtti napig csoportosan kell tartani. A csoport tartására kialakított kutrica oldalfalainak 2,8 m-nél hosszabbnak kell lenniük. Ha egy csoportban kevesebb, mint 6 egyedet tartanak, a kutrica oldalfalainak 2,4 m-nél hosszabbnak kell lenniük.
+## 1.5.1.[^50] A tíznél kevesebb kocát tartó gazdaságok kivételével a kocasüldőket és a kocákat a termékenyítés utáni 4. hét eltelte utáni naptól 1 héttel az ellés várható időpontja előtti napig csoportosan kell tartani. A csoport tartására kialakított kutrica oldalfalainak 2,8 m-nél hosszabbnak kell lenniük. Ha egy csoportban kevesebb, mint 6 egyedet tartanak, a kutrica oldalfalainak 2,4 m-nél hosszabbnak kell lenniük.
 
 ## 1.5.2. A tíznél kevesebb kocát tartó gazdaságokban az állatok az 1.5.1. pontban leírt időtartam alatt elkülönítve is tarthatók, ha azok saját rekeszükben kényelmesen meg tudnak fordulni.
 
-## 1.6.[^51] E rendelet előírásait figyelembe véve újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében a kocasüldők és kocák számára állandó hozzáférést kell biztosítani manipulálható anyaghoz, illetve az azzal való játék lehetőségéhez.
+## 1.6.[^51] E rendelet előírásait figyelembe véve a kocasüldők és kocák számára állandó hozzáférést kell biztosítani manipulálható anyaghoz, illetve az azzal való játék lehetőségéhez.
 
 ## 1.7. A csoportosan tartott kocasüldők és kocák takarmányozására olyan rendszert kell alkalmazni, amely a vetélytársak jelenlétében is lehetővé teszi minden egyed számára az elegendő mennyiségű táplálék felvételét.
 
@@ -72,7 +72,7 @@
 
 ## 1.9. Azokat, az egyébként csoportosan tartandó sertéseket, amelyek különösen agresszívek, vagy amelyeket más sertések megtámadtak, illetve amelyek betegek vagy sérültek, ideiglenes jelleggel egyedi kutricában lehet hizlalni.
 
-## 1.10.[^52] Az 1.9. pont szerinti célra alkalmazott egyedi kutrica méreteit újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében úgy kell kialakítani, hogy az állat kényelmesen megfordulhasson, hacsak ez nem ellentétes az állatorvos erre vonatkozó konkrét utasításával.
+## 1.10.[^52] Az 1.9. pont szerinti célra alkalmazott egyedi kutrica méreteit úgy kell kialakítani, hogy az állat kényelmesen megfordulhasson, hacsak ez nem ellentétes az állatorvos erre vonatkozó konkrét utasításával.
 
 ## 1.11. Minden sertést legalább naponta egyszer meg kell etetni. Amennyiben a sertéseket csoportokban, és nem ad libitum etetik, vagy az állatok egyéni etetését biztosító automatikus működtetésű takarmányellátó berendezést alkalmaznak, minden sertésnek a csoport többi tagjával azonos időben kell a takarmányhoz jutnia.
 
@@ -280,11 +280,11 @@ A tojótyúkok feljavított ketreces, valamint alternatív tartási rendszerekbe
 
 25.[^73]
 
-[^48]: A 2. számú melléklet 1.2.2. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
-[^49]: A 2. számú melléklet 1.3.1. pontja a 31/2010. (XI. 18.) VM rendelet 9. § (1) bekezdése szerint módosított szöveg. A 2. számú melléklet 1.3.1. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
-[^50]: A 2. számú melléklet 1.5.1. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
-[^51]: A 2. számú melléklet 1.6. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
-[^52]: A 2. számú melléklet 1.10. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
+[^48]: A 2. számú melléklet 1.2.2. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^49]: A 2. számú melléklet 1.3.1. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^50]: A 2. számú melléklet 1.5.1. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^51]: A 2. számú melléklet 1.6. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^52]: A 2. számú melléklet 1.10. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
 [^53]: A 3. számú melléklet a 20/2002. (III. 14.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^54]: A 3. számú melléklet 1. pont b) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
 [^55]: A 3. számú melléklet 2.1. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdése iktatta be.
