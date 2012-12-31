@@ -1,4 +1,4 @@
-12/A. §[^12] (1) A hatáskörében kibocsátott – külön jogszabályokban meghatározott – okmányok vonatkozásában, a KEKKH a még kitöltetlen okmányok következő adatait kezeli:
+12/A. §[^11] (1) A hatáskörében kibocsátott – külön jogszabályokban meghatározott – okmányok vonatkozásában, a KEKKH a még kitöltetlen okmányok következő adatait kezeli:
 
 a) az okmány típusa,
 
@@ -14,4 +14,4 @@ f) a SIS figyelmeztető jelzés kezelésével kapcsolatos külön jogszabályban
 
 (2) Az (1) bekezdésben meghatározott nyilvántartásban a nyilvántartásba vétel és az adatokban bekövetkező változások időpontját – időrendi sorrendben – is nyilván kell tartani.
 
-[^12]: A 12/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.
+[^11]: A 12/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.

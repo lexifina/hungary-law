@@ -2,7 +2,7 @@
 
 4. § (1) A miniszter a KEKKH költségvetését – az e rendeletben meghatározott hatáskörét érintő feladatok tekintetében – a (2) bekezdés szerinti irányítási jogkört gyakorló miniszter véleményének kikérésével készíti elő.
 
-(2)[^3] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
+(2)[^2] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
 
 a) útiokmány-nyilvántartási ügycsoportja tekintetében a külföldre utazás szabályozásáért felelős miniszter,
 
@@ -16,10 +16,10 @@ e) szabálysértési nyilvántartás vezetésével összefüggő ügycsoportja t
 
 gyakorolja.
 
-(3)[^4]
+(3)[^3]
 
-(4)[^5] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(4)[^4] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
-[^3]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
-[^5]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
+[^4]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
