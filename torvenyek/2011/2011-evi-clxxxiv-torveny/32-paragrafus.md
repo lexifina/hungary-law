@@ -4,6 +4,6 @@
 
 a)
 
-b)
+b) 341/F. §-a, valamint
 
 c)
