@@ -2,11 +2,11 @@
 
 ## 30. § Az informatikai alkalmazást úgy kell kialakítani, hogy
 
-a)[^51] az árverés befejezésének időpontjában, ha pedig ezen időpontot megelőzően öt percen belül újabb vételi ajánlat kerül közzétételre, az újabb vételi ajánlat közzétételétől számított öt perc elteltével, az utolsó vételi ajánlat közzétételét követően pedig az ötödik perc végén automatikusan lezárja a licitnaplót;
+a)[^53] az árverés befejezésének időpontjában, ha pedig ezen időpontot megelőzően öt percen belül újabb vételi ajánlat kerül közzétételre, az újabb vételi ajánlat közzétételétől számított öt perc elteltével, az utolsó vételi ajánlat közzétételét követően pedig az ötödik perc végén automatikusan lezárja a licitnaplót;
 
 b) a licitnapló lezárása iránt az elektronikus árverési rendszer felületén erre szolgáló művelet elvégzésével az árverési hirdetményt közzétevő végrehajtó is intézkedhessen;
 
-c)[^52] a licitnapló lezárását követően ne biztosítsa vételi ajánlat és előárverezési jog gyakorlására vonatkozó nyilatkozat megtételének lehetőségét.
+c)[^54] a licitnapló lezárását követően ne biztosítsa vételi ajánlat és előárverezési jog gyakorlására vonatkozó nyilatkozat megtételének lehetőségét.
 
-[^51]: A 30. § a) pontja a 38/2012. (VIII. 23.) KIM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^52]: A 30. § c) pontja a 38/2012. (VIII. 23.) KIM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^53]: A 30. § a) pontja a 38/2012. (VIII. 23.) KIM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^54]: A 30. § c) pontja a 38/2012. (VIII. 23.) KIM rendelet 12. § (2) bekezdésével megállapított szöveg.

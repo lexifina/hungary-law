@@ -6,9 +6,11 @@
 
 (2) A kamara
 
-a) 2012. december 31-éig köteles bejelenteni – a kormányrendelet 18. §-ában foglaltak szerint – az igazságügyért felelős miniszternek az informatikai alkalmazás működtetésével kapcsolatos szolgáltatásnyújtást,
+a)[^6] 2014. január 1-jéig köteles bejelenteni – a kormányrendelet 18. §-ában foglaltak szerint – az igazságügyért felelős miniszternek az informatikai alkalmazás működtetésével kapcsolatos szolgáltatásnyújtást,
 
-b) legkésőbb 2013. június 30-ig köteles biztosítani az informatikai alkalmazás működtetésével kapcsolatban – a Vht.-ban és e rendeletben foglalt eltérésekkel – a kormányrendeletben foglaltaknak való megfelelést.
+b)[^7] legkésőbb 2014. július 1-jéig köteles biztosítani az informatikai alkalmazás működtetésével kapcsolatban – a Vht.-ban és e rendeletben foglalt eltérésekkel – a kormányrendeletben foglaltaknak való megfelelést.
 
 [^4]: A 6/A. §-t megelőző alcímet a 38/2012. (VIII. 23.) KIM rendelet 2. §-a iktatta be.
 [^5]: A 6. §-t a 38/2012. (VIII. 23.) KIM rendelet 2. §-a iktatta be.
+[^6]: A 6/A. § (2) bekezdés a) pontja az 57/2012. (XII. 28.) KIM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 6/A. § (2) bekezdés b) pontja az 57/2012. (XII. 28.) KIM rendelet 19. § (2) bekezdése szerint módosított szöveg.
