@@ -10,7 +10,7 @@ ab) szolgálati időt megszerezte azzal, hogy a korhatár előtti ellátásra e 
 
 b) az az 1953. évben született nő, aki 59. életévét betöltötte és a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig legalább 37 év szolgálati időt szerzett azzal, hogy a korhatár előtti ellátásra e pont alapján való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát is,
 
-c) az, aki a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint korkedvezményre jogosultságot szerzett,
+c) az, aki a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2014. december 31-éig a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint korkedvezményre jogosultságot szerzett,
 
 d) az, aki 2011. december 31-éig a bányásznyugdíjról szóló 150/1991. (XII. 4.) Korm. rendelet 2012. január 1-jét megelőzően hatályos szabályai szerint a bányásznyugdíjra való jogosultságot megszerezte,
 
@@ -22,6 +22,6 @@ feltéve, hogy a korhatár előtti ellátás kezdő napjáig az öregségi nyugd
 
 (2) Az (1) bekezdés c) pontja szerinti esetben a jogosult a korhatár előtti ellátást az öregségi nyugdíjkorhatár betöltése előtt annyi évvel kérheti, ahány év korkedvezményt a Tny. 2011. december 31-én hatályos szabályai szerint
 
-a) a korhatár előtti ellátás kezdő napját megelőző napig szerzett, ha a korhatár előtti ellátás kezdő napja 2012. évben van,
+a) a korhatár előtti ellátás kezdő napját megelőző napig szerzett, ha a korhatár előtti ellátás kezdő napja 2012. január 1-je és 2014. december 31-e között van,
 
-b) az a) pontban nem említett esetben 2012. december 31-éig szerzett.
+b) az a) pontban nem említett esetben 2014. december 31-éig szerzett.
