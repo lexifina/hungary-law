@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2012-36-00-00.3 |
 | 2012-09-01 | 2012. évi LXXVI. törvény | 2012-36-00-00.4 |
 | 2012-09-02 | 2010. évi CXXX. törvény | 2012-36-00-00.5 |
+| 2012-12-31 | 2012. évi CCXIV. törvény | 2012-36-00-00.6 |
