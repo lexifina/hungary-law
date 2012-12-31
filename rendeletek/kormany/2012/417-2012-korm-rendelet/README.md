@@ -1,0 +1,9 @@
+# 417/2012. (XII. 29.) Korm. rendelet
+
+az anyakönyvi eljárásokra, az állampolgársági eljárásokra és a személyiadat- és lakcímnyilvántartással összefüggő eljárásokra vonatkozó egyes kormányrendeleteknek a Magyary Egyszerűsítési Programmal összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-417-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-12-31 | 2012-417-20-22.1 | 417/2012. (XII. 29.) Korm. rendelet |

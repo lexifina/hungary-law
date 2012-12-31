@@ -1,0 +1,1 @@
+## 44. § A Bevándorlási és Állampolgársági Hivatalról szóló 162/1999. (XI. 19.) Korm. rendelet 4. § (3) bekezdésében a „valamint a hazai anyakönyvi eljárással összefüggésben” szövegrész helyébe az „a magyar állampolgárság kérelemre történő igazolásával, valamint a hazai anyakönyvi eljárással összefüggésben” szöveg lép.

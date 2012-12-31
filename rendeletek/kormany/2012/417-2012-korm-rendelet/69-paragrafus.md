@@ -1,0 +1,1 @@
+## 68. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 40. § (4a) bekezdésében az „a magyar állampolgárság igazolásával kapcsolatos eljárásban” szövegrész helyébe az „a magyar állampolgárságról szóló 1993. évi LV. törvény 12. §-a szerinti eljárásban” szöveg lép.
