@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2012-05-20 | 2012. évi XXVII. törvény | 1992-66-00-00.50 |
 | 2012-05-31 | 2012. évi LX. törvény | 1992-66-00-00.51 |
 | 2012-12-28 | 2012. évi CCXIII. törvény | 1992-66-00-00.52 |
+| 2012-12-31 | 2012. évi CCVII. törvény | 1992-66-00-00.53 |
