@@ -4,6 +4,9 @@
 
 (2) A kamara
 
-a) 2012. december 31-éig köteles bejelenteni – a kormányrendelet 18. §-ában foglaltak szerint – az igazságügyért felelős miniszternek a kézbesítési rendszer működtetésével kapcsolatos szolgáltatásnyújtást,
+a)[^1] 2014. január 1-jéig köteles bejelenteni – a kormányrendelet 18. §-ában foglaltak szerint – az igazságügyért felelős miniszternek a kézbesítési rendszer működtetésével kapcsolatos szolgáltatásnyújtást,
 
-b) legkésőbb 2013. június 30-ig köteles biztosítani a kézbesítési rendszer működtetésével kapcsolatban – a Vht.-ban és e rendeletben foglalt eltérésekkel – a kormányrendeletben foglaltaknak való megfelelést.
+b)[^2] legkésőbb 2014. július 1-jéig köteles biztosítani a kézbesítési rendszer működtetésével kapcsolatban – a Vht.-ban és e rendeletben foglalt eltérésekkel – a kormányrendeletben foglaltaknak való megfelelést.
+
+[^1]: A 15. § (2) bekezdés a) pontja az 57/2012. (XII. 28.) KIM rendelet 21. §-a szerint módosított szöveg.
+[^2]: A 15. § (2) bekezdés b) pontja az 57/2012. (XII. 28.) KIM rendelet 21. §-a szerint módosított szöveg.
