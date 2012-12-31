@@ -6,4 +6,4 @@
 
 (3) A 106. § 2012. november 30-án lép hatályba.
 
-(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2013. január 1-jén lép hatályba.
+(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2014. július 1-jén lép hatályba.

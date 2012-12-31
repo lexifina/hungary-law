@@ -8,4 +8,12 @@
 
 (5)
 
-(6) A szervezet adatairól – kizárólag írásban – kivonatot kérhet az államháztartás rendjéről szóló törvény alapján az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolító feladatot ellátó költségvetési szerv is.
+(6) A szervezet adatairól – kizárólag írásban – kivonatot kérhet
+
+a) az államháztartásról szóló törvény alapján az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolító feladatot ellátó, illetve a támogatási forrást kezelő költségvetési szerv,
+
+b) az európai uniós forrásból finanszírozott költségvetési támogatás esetén a támogató képviseletében eljáró, jogszabályban kijelölt szervezet, továbbá
+
+c) a közigazgatási hatósági ügyben eljáró hatóság
+
+is.

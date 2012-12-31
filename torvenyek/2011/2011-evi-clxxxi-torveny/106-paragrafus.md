@@ -1,1 +1,1 @@
-106. § Az OBH legkésőbb 2012. november 30. napjától köteles biztosítani az informatikai rendszer tesztelését a bíróságok részére.
+106. § Az OBH legkésőbb 2014. június 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.
