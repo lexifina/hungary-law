@@ -8,7 +8,7 @@ b) az a) ponttól eltérő esetben a víziközmű-szolgáltató a 2011. december
 
 alkalmazhat.
 
-(2) Ha 2011. december 31-ig létrejött, víziközmű-beruházásra vonatkozó szerződés alapján – szerződésben vállalt kötelezettségként – a víziközmű pótlási fedezetét vagy a beruházás finanszírozásához igénybe vett külső forrás hitelszolgálati fedezetét a víziközmű-szolgáltatás díjába be kell építeni, akkor a víziközmű-szolgáltató az (1) bekezdésben meghatározottakon kívül is jogosult – a szerződésben foglaltaknak megfelelően – a víziközmű-szolgáltatás 2011. december 31-én alkalmazott díját megemelni.
+(2)
 
 (3) A Hivatal az (1) bekezdés alapján alkalmazandó díjtól eltérő díj alkalmazásához való hozzájárulást adhat a víziközmű-szolgáltató kérelmére az alábbi esetekben:
 
