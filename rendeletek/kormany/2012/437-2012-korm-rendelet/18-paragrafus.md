@@ -1,1 +1,0 @@
-## „(6) A biztosított köteles lehetővé tenni a Mehib Rt. vagy meghatalmazottja számára, hogy az adott biztosítási jogviszonnyal összefüggésben könyveibe, üzleti levelezéseibe a biztosítási szerződéssel érintett adósokkal folytatott üzleti levelezéseibe teljes körűen betekintsen.”
