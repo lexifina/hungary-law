@@ -1,0 +1,1 @@
+## „(10) Az üzemeltető a (8) bekezdés szerinti egyetértés megadását feltételekhez kötheti. A keresztezett, megközelített létesítmény biztonsági övezetén belüli feltárás céljából végzett földmunka csak az üzemeltető vagy megbízottja szakmai felügyelete mellett végezhető. Szakmai felügyelet nélkül az építési tevékenységet megkezdeni és végezni nem lehet.”

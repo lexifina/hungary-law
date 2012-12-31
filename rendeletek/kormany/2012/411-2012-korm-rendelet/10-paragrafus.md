@@ -1,0 +1,3 @@
+## 9. § A Vhr. 6/D. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Ha a kutatás felhagyott földalatti bánya bányatérségein keresztül, valamint azok igénybevételével történő bányabeli módszerek alkalmazására is irányul, a műszaki üzemi tervnek tartalmaznia kell a bányatérségek újranyitásának, biztosításának, járásra, szállításra, munkavégzésre történő alkalmassá tételének, szellőztetésének, világításának, víztelenítésének, továbbá végleges felhagyásának és lezárásának a tervét és a kutatási munkálatok, valamint az ahhoz igénybevett bányatérségek biztonsága érdekében elvégzendő feladatok tételes költségtervét.”
