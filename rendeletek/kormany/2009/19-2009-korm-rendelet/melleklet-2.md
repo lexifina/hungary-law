@@ -158,7 +158,7 @@
 
 ## f) a megvalósulási dokumentációt.
 
-## 6.3.[^485] Az ellenőrzést – a 6.1. pont szerinti kezdeményezővel egyeztetett időpontban – a szerelési nyilatkozat benyújtásától számított 15 napon belül a földgázelosztó lefolytatja. A 6.1. pont szerinti kezdeményező gondoskodik arról, hogy a kivitelező az ellenőrzésnél jelen legyen. A kivitelezőnek biztosítania kell az ellenőrzés elvégzéséhez szükséges eszközöket és feltételeket. Az ellenőrzés eredményéről jegyzőkönyvet kell készíteni, és annak egy példányát a 6.1. pont szerinti kezdeményezőnek át kell adni. A földgázelosztó a kiviteli tervet és az ellenőrzésről készült jegyzőkönyv egy példányát köteles megőrizni, valamint a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatáról szóló jogszabály szerinti műszaki-biztonsági felülvizsgálat esedékességének időpontjáról nyilvántartást vezetni.
+## 6.3.[^486] Az ellenőrzést – a 6.1. pont szerinti kezdeményezővel egyeztetett időpontban – a szerelési nyilatkozat benyújtásától számított 15 napon belül a földgázelosztó lefolytatja. A 6.1. pont szerinti kezdeményező gondoskodik arról, hogy a kivitelező az ellenőrzésnél jelen legyen. A kivitelezőnek biztosítania kell az ellenőrzés elvégzéséhez szükséges eszközöket és feltételeket. Az ellenőrzés eredményéről jegyzőkönyvet kell készíteni, és annak egy példányát a 6.1. pont szerinti kezdeményezőnek át kell adni. A földgázelosztó a kiviteli tervet és az ellenőrzésről készült jegyzőkönyv egy példányát köteles megőrizni, valamint a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatáról szóló jogszabály szerinti műszaki-biztonsági felülvizsgálat esedékességének időpontjáról nyilvántartást vezetni.
 
 ## 6.4. Ha a kivitelezés nem felel meg a műszaki-biztonsági előírásoknak, a bekapcsolást a földgázelosztó a hiba kijavításáig köteles megtagadni. Biztonsági okokból a földgázelosztó a főcsapot vagy a fogyasztói főelzárót elzárhatja, és azokat biztonsági záróelemmel láthatja el. A biztonsági záróelemet eltávolítani és a lezárt főcsapot vagy a fogyasztói főelzárót kinyitni csak a földgázelosztó jogosult.
 
@@ -166,7 +166,7 @@
 
 ## 6.6. Ha a szolgáltatás hat hónapot meghaladóan szünetel, a földgázelosztó jogosult a visszakapcsolás előtt a felhasználói berendezést és a csatlakozóvezetéket műszaki-biztonsági szempontból a felhasználó költségére felülvizsgálni.
 
-## 6.7.[^486] A gázfogyasztó készüléknek a gáz csatlakozó vezetékekre és fogyasztói berendezésekre vonatkozó műszaki-biztonsági előírásokról szóló miniszteri rendelet szerinti egyszerűsített cseréjét a földgázelosztó jogosult ellenőrizni. Az ellenőrzés időpontjáról a földgázelosztó az ellenőrzés napját megelőzően legalább 15 nappal köteles értesíteni a felhasználót és a kivitelezőt. Az ellenőrzésen a kivitelező köteles megjelenni.
+## 6.7.[^487] A gázfogyasztó készüléknek a gáz csatlakozó vezetékekre és fogyasztói berendezésekre vonatkozó műszaki-biztonsági előírásokról szóló miniszteri rendelet szerinti egyszerűsített cseréjét a földgázelosztó jogosult ellenőrizni. Az ellenőrzés időpontjáról a földgázelosztó az ellenőrzés napját megelőzően legalább 15 nappal köteles értesíteni a felhasználót és a kivitelezőt. Az ellenőrzésen a kivitelező köteles megjelenni.
 
 ## 7. Az elosztóhálózat-használati szerződés
 
@@ -370,7 +370,7 @@
 
 ## 14.1. A földgázelosztó az élet- és vagyonbiztonság, valamint a gázszolgáltatás folyamatosságának veszélyeztetettsége esetén a gázszolgáltatást szüneteltetni köteles.
 
-## 14.2.[^487] A földgázelosztó a szolgáltatás folytatását szünetelteti, ha az ingatlan tulajdonosa, vagy a felhasználó a földgázelosztó írásbeli felszólításától számított 90 napon belül a jegyzőkönyv megküldésével nem igazolja, hogy a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatáról szóló jogszabályban meghatározott műszaki-biztonsági felülvizsgálatot az előírt határidőben elvégezte. A földgázelosztó felszólításának tartalmaznia kell az igazolás elmaradásának jogkövetkezményeit. A földgázelosztó a műszaki-biztonsági felülvizsgálat elvégzését igazoló jegyzőkönyv alapján köteles a GET 16. § (2) bekezdése szerint gondoskodni a felfüggesztés megszüntetéséről.
+## 14.2.[^488] A földgázelosztó a szolgáltatás folytatását szünetelteti, ha az ingatlan tulajdonosa, vagy a felhasználó a földgázelosztó írásbeli felszólításától számított 90 napon belül a jegyzőkönyv megküldésével nem igazolja, hogy a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatáról szóló jogszabályban meghatározott műszaki-biztonsági felülvizsgálatot az előírt határidőben elvégezte. A földgázelosztó felszólításának tartalmaznia kell az igazolás elmaradásának jogkövetkezményeit. A földgázelosztó a műszaki-biztonsági felülvizsgálat elvégzését igazoló jegyzőkönyv alapján köteles a GET 16. § (2) bekezdése szerint gondoskodni a felfüggesztés megszüntetéséről.
 
 ## 14.3. Az elosztási szolgáltatás szüneteltetésére a felhasználóval szerződéses kapcsolatban álló egyetemes szolgáltató vagy földgázkereskedő kezdeményezésére is sor kerülhet, amely esetben a földgázelosztó nem vizsgálja a kizárás jogszerűségét. A jogszerűtlen kizárásból eredő károkért és annak költsége azt az engedélyest terhelik, akinek magatartása folytán a kizárásra sor került.
 
@@ -402,7 +402,7 @@
 
 ## 17.2. Az ingatlanon belüli gázszivárgás, gázömlés esetén a felhasználó köteles a veszély elhárítása érdekében a tőle elvárható intézkedéseket megtenni.
 
-## 17.3.[^488]
+## 17.3.[^489]
 
 ## 17.4. Üzemzavar vagy forráshiány miatti fogyasztáskorlátozás esetén a felhasználó köteles a korlátozási sorrend szerinti vételezés végrehajtására.
 
@@ -514,10 +514,10 @@
 
 ## Szerződés nélkül használja a gázelosztó-vezetéket az a felhasználó, aki nem rendelkezik elosztóhálózat-használati szerződéssel.
 
-2. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^489]
+2. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^490]
 
-[^485]: Az 1. számú melléklet 6.3. pontja a 245/2012. (VIII. 31.) Korm. rendelet 14. §-ával megállpított szöveg.
-[^486]: Az 1. számú melléklet 6.7. pontját a 245/2012. (VIII. 31.) Korm. rendelet 14. §-a iktatta be.
-[^487]: Az 1. számú melléklet 14.2. pontja a 245/2012. (VIII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^488]: Az 1. számú melléklet 17.3. pontját a 245/2012. (VIII. 31.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^489]: A 2. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
+[^486]: Az 1. számú melléklet 6.3. pontja a 245/2012. (VIII. 31.) Korm. rendelet 14. §-ával megállpított szöveg.
+[^487]: Az 1. számú melléklet 6.7. pontját a 245/2012. (VIII. 31.) Korm. rendelet 14. §-a iktatta be.
+[^488]: Az 1. számú melléklet 14.2. pontja a 245/2012. (VIII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^489]: Az 1. számú melléklet 17.3. pontját a 245/2012. (VIII. 31.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^490]: A 2. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.

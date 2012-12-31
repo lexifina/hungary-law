@@ -26,27 +26,30 @@ g)[^408] mindazon személyek közjegyzői aláírás-hitelesítéssel ellátott 
 
 h) a – változással, kérelemmel – érintett engedélyes legfőbb döntéshozó szervének a kérelem tárgyát képező ügyletről szóló döntését,
 
-i) a kérelem tárgyát képező ügyletre vonatkozó szerződéstervezetet.
+i) a kérelem tárgyát képező ügyletre vonatkozó szerződéstervezetet,
+
+j)[^409] befolyást szerezni kívánó vállalkozás esetében a vállalkozás létrejöttére irányadó jog szerinti nyilvántartásba vételért felelős hatóság által kiállított igazolást a vállalkozás nyilvántartásba vételéről és a nyilvántartott adatokról, valamint a tényleges tulajdonosnak a megnevezését olyan nem szabályozott tőzsdén jegyzett társaság esetében, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pontja szerinti tényleges tulajdonosa nem megismerhető.
 
 (5) A (2) bekezdés szerinti kérelemhez – a (4) bekezdésben meghatározottakon túlmenően –mellékelni kell továbbá:
 
-a)[^409]
+a)[^410]
 
-b)[^410] a befolyást szerezni kívánó külföldi vállalkozás esetén a vállalkozás létrejöttére irányadó jog szerinti nyilvántartásba vételért felelős hatóság által kiállított igazolást a vállalkozás nyilvántartásba vételéről és a nyilvántartott adatokról és annak magyar nyelvű fordítását,
+b)[^411] a befolyást szerezni kívánó külföldi vállalkozás esetén a vállalkozás létrejöttére irányadó jog szerinti nyilvántartásba vételért felelős hatóság által kiállított igazolást a vállalkozás nyilvántartásba vételéről és a nyilvántartott adatokról és annak magyar nyelvű fordítását,
 
 c) a befolyást szerezni kívánó kérelmező és kapcsolt vállalkozásai magyarországi energiaipari befektetéseinek és részesedéseinek bemutatását a GET és a villamos energiáról szóló törvény hatálya alá tartozó engedélyesekben,
 
-d)[^411]
+d)[^412]
 
 e) a befolyásszerzésre irányuló ügyletet megelőző, valamint az ügylet zárása után kialakuló társasági (engedélyesi) struktúrát mutató ábrát, feltüntetve a közvetlen és közvetett tulajdoni és irányítási viszonyokat, továbbá az engedélyesi szakszemélyzet létszámának változását.
 
-(6)[^412] Ha a kérelmező – kivéve, ha az az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi gazdálkodó szervezeten kívüli külföldi vállalkozás – a kérelemhez az (5) bekezdés b) pontjában előírtakat nem csatolja, a Hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet, illetve a külföldi vállalkozás nyilvántartását vezető hatóságot.
+(6)[^413] Ha a kérelmező – kivéve, ha az az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi gazdálkodó szervezeten kívüli külföldi vállalkozás – a kérelemhez az (5) bekezdés b) pontjában előírtakat nem csatolja, a Hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet, illetve a külföldi vállalkozás nyilvántartását vezető hatóságot.
 
 [^405]: A Vhr. 142. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
 [^406]: A Vhr. 142. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (10) bekezdése szerint módosított szöveg.
 [^407]: A Vhr. 142. § (4) bekezdés f) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^408]: A Vhr. 142. § (4) bekezdés g) pontja a 163/2009. (VIII. 6.) Korm. rendelet 40. § (15) bekezdése szerint módosított szöveg. E módosító rendelet 41. § (4) bekezdése alapján ahol kormányrendelet vagy miniszteri rendelet aláírási címpéldány benyújtását írja elő, e kötelezettség ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta benyújtásával is teljesíthető.
-[^409]: A Vhr. 142. § (5) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^410]: A Vhr. 142. § (5) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 667. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^411]: A Vhr. 142. § (5) bekezdés d) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^412]: A Vhr. 142. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 667. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^409]: A Vhr. 142. § (4) bekezdés j) pontját a 411/2012. (XII. 28.) Korm. rendelet 25. §-a iktatta be.
+[^410]: A Vhr. 142. § (5) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^411]: A Vhr. 142. § (5) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 667. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^412]: A Vhr. 142. § (5) bekezdés d) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^413]: A Vhr. 142. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 667. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -162,7 +162,7 @@ a) az együttműködő földgázrendszer szereplői,
 
 b) együttműködési szerződések, az engedélyesek és a hozzáférésre jogosultak közötti együttműködés rendje,
 
-c)[^490] a szállítási rendszerirányító és a külföldi rendszerirányító kapcsolatai.
+c)[^491] a szállítási rendszerirányító és a külföldi rendszerirányító kapcsolatai.
 
 2. Az együttműködő földgázrendszer részletes leírása:
 
@@ -222,7 +222,7 @@ h) a nominálás, nominálási eljárás, felosztás rendjét, elszámolások re
 
 10. A rendszerirányítás működésére vonatkozó rendelkezések keretében részletesen kell szabályozni:
 
-a)[^491] a más szállítási rendszerüzemeltetőkkel, földgázelosztói és földgáztárolói rendszerüzemeltetőkkel történő együttműködés rendjét,
+a)[^492] a más szállítási rendszerüzemeltetőkkel, földgázelosztói és földgáztárolói rendszerüzemeltetőkkel történő együttműködés rendjét,
 
 b) a rendszeregyensúlyhoz szükséges tartalék-szállító, elosztó és tároló kapacitások meghatározását,
 
@@ -238,7 +238,7 @@ b) a kapacitáslekötés időtartama.
 
 12. A kiegyensúlyozáshoz szükséges földgázforrás megtervezése, igénybevételi rendje, opciós források felhasználása, az elszámolások szabályai.
 
-13.[^492] A szállítási rendszerüzemeltető által a kiegyenlítő földgáz beszerzésének rendje.
+13.[^493] A szállítási rendszerüzemeltető által a kiegyenlítő földgáz beszerzésének rendje.
 
 14. Rendszerszintű szolgáltatások:
 
@@ -246,7 +246,7 @@ a) az informatikai platform működtetésének és használatának szabályai, a
 
 b) nominálási szabályok,
 
-c)[^493] a szállítási rendszerüzemeltető intézkedései a rendszeregyensúly érdekében,
+c)[^494] a szállítási rendszerüzemeltető intézkedései a rendszeregyensúly érdekében,
 
 d) másodlagos kapacitás-kereskedelem nyilvántartása,
 
@@ -266,7 +266,7 @@ d) külső-belső elszámolások.
 
 16. A szervezett földgázpiac működtetésére vonatkozó jogszabályok alkalmazásának részletei.
 
-[^490]: A Vhr. 3. számú melléklet 1. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^491]: A Vhr. 3. számú melléklet 10. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^492]: A Vhr. 3. számú melléklet 13. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^493]: A Vhr. 3. számú melléklet 14. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^491]: A Vhr. 3. számú melléklet 1. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^492]: A Vhr. 3. számú melléklet 10. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^493]: A Vhr. 3. számú melléklet 13. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^494]: A Vhr. 3. számú melléklet 14. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
