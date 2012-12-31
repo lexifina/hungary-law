@@ -10,9 +10,27 @@ Az igényjogosultság a gazdálkodó szervezet megszűnésének, illetve a felsz
 
 (3)[^3] A (2) bekezdésben foglalt feltételek megléte esetén sem jogosultak a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására azok, akik 1995. október 21-ét követően alapított bányászati gazdálkodó szervezettől mennek nyugdíjba.
 
-(4)[^4] A nyugdíjas bányászok pénzbeli szénjárandósága megilleti a jogosult elhalálozása esetén
+(3a)[^4] Jogosultak a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására, akik 2011. december 31-ig a (2) bekezdés szerint mentek nyugdíjba, azonban 2012. január 1-jétől
 
-a) a jogosult házastársát (élettársát) mindaddig, amíg özvegyi nyugdíjra vagy eltartott kiskorú, illetve rokkant gyermeke után árvaellátásra jogosult, kivéve, ha új házasságot köt,
+a) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény szerinti korhatár előtti ellátásban,
+
+b) a bányászatról szóló törvény szerinti átmeneti bányászjáradékban vagy
+
+c) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban vagy rokkantsági ellátásban
+
+## részesülnek.
+
+(3b)[^5] Jogosultak a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására, akik tekintetében – a nyugdíjazás kivételével – a (2) bekezdésben foglalt feltételek teljesülnek, a (3) bekezdés szerinti kizáró ok nem áll fenn, és részükre
+
+a) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény szerinti korhatár előtti ellátás,
+
+b) a bányászatról szóló törvény szerinti átmeneti bányászjáradék vagy
+
+c) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátás vagy rokkantsági ellátás került megállapításra.
+
+(4)[^6] A nyugdíjas bányászok pénzbeli szénjárandósága megilleti a jogosult elhalálozása esetén
+
+a)[^7] a jogosult házastársát (élettársát) mindaddig, amíg özvegyi nyugdíjra, ideiglenes özvegyi nyugdíjra vagy eltartott kiskorú, illetve rokkant gyermeke után árvaellátásra jogosult, kivéve, ha új házasságot köt,
 
 b) a jogosult szülőjét (nagyszülőjét) mindaddig, amíg szülői nyugdíjat élvez, vagy a meghalt nyugdíjas bányász után annak kiskorú, illetve rokkant gyermeke árvaellátásra jogosult,
 
@@ -21,4 +39,7 @@ c) az a) és b) pontokban megállapított hozzátartozók hiányában a jogosult
 [^1]: Az 1. § a 116/1994. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 129/1997. (VII. 24.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított, záró szövegrésze a 75/2011. (V. 2.) Korm. rendelet 30. § (5) bekezdése szerint módosított szöveg.
 [^3]: Azb 1. § (3) bekezdését a 123/1995. (X. 6.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. § (4) bekezdése a 129/1997. (VII. 24.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3a) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (3b) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (4) bekezdése a 129/1997. (VII. 24.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (4) bekezdés a) pontja a 411/2012. (XII. 28.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.

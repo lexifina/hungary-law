@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-145-20-
 | 2008-05-16 | 1992-145-20-22.5 | 145/1992. (XI. 4.) Korm. rendelet |
 | 2011-05-03 | 1992-145-20-22.6 | 75/2011. (V. 2.) Korm. rendelet |
 | 2012-07-10 | 1992-145-20-22.7 | 146/2012. (VII. 5.) Korm. rendelet |
+| 2012-12-31 | 1992-145-20-22.8 | 411/2012. (XII. 28.) Korm. rendelet |
