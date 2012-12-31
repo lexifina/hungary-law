@@ -126,4 +126,6 @@
 
 ## 19.2.12. Vilonya”
 
-2. melléklet a 87/2012. (XII. 29.) BM rendelethez
+2–3. melléklet a 87/2012. (XII. 29.) BM rendelethez[^4]
+
+[^4]: A 2–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
