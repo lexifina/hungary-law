@@ -1,3 +1,1 @@
-90. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 39. § (3) bekezdése a következő szöveggel lép hatályba:
-
-„(3) Ha a bejegyzett élettársi kapcsolat létrehozását megelőző eljárásról készített jegyzőkönyv felvétele óta egy év eltelt, a bejegyzett élettársi kapcsolat nem jött létre és a bejegyzett élettársi kapcsolat létesítése iránti szándék továbbra is fennáll, az eljárást meg kell ismételni.”
+90. §
