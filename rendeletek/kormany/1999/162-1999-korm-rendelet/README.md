@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-162-20-
 | 2010-12-04 | 1999-162-20-22.10 | 267/2010. (XII. 3.) Korm. rendelet |
 | 2010-12-24 | 1999-162-20-22.11 | 212/2009. (IX. 29.) Korm. rendelet |
 | 2012-07-07 | 1999-162-20-22.12 | 151/2012. (VII. 6.) Korm. rendelet |
+| 2012-12-31 | 1999-162-20-22.13 | 267/2010. (XII. 3.) Korm. rendelet |
