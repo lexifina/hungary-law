@@ -1,10 +1,12 @@
-1. § (1)[^1] Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak elvégzésére feljogosított magánállatorvos (a továbbiakban: jogosult állatorvos) az állat belföldi szállítása során megvizsgálja a származási hely állatállományát, a szállítandó állatokat, a szállítóeszközt, igazolja az állat forgalomképességét, és kiállítja a szállításhoz szükséges okiratot. A jogosult állatorvos az e bekezdésben meghatározott állatszállítással kapcsolatos hatáskörén túl a (2)–(4) bekezdés szerinti hatásköröket láthatja el.
+1. § (1)[^1] Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak elvégzésére feljogosított szolgáltató állatorvos (a továbbiakban: jogosult állatorvos) a (2)–(4) bekezdés szerinti hatásköröket láthatja el. A jogosult állatorvos a tevékenységét csak a 4. § szerinti érvényes szerződés birtokában végezheti.
 
-(2) A jogosult állatorvos az állatok, állatállományok betegségtől való mentesítése, illetve mentesség megőrzése céljából külön jogszabály szerint
+(2)[^2] A jogosult állatorvos elvégzi az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló miniszteri rendelet szerinti hatósági felügyeletet az alábbi állatok, illetve szállítmányok kirakodása esetében:
 
-a) elvégzi azok állategészségügyi vizsgálatát, beleértve a diagnosztikai próbákat és eljárásokat is, amiknek az elvégzéséről jegyzőkönyvet állít ki;
+a) a vágóhídra érkező állat,
 
-b) diagnosztikai eljáráshoz és egyéb ellenőrzéshez mintát vesz, és a mintavétel elvégzéséről jegyzőkönyvet állít ki.
+b) a gyűjtőállomásra, kereskedői telepre érkező állat,
+
+c) az állatkiállításra, -vásárra, -piacra vagy rendezvényre érkező állat.
 
 (3) A jogosult állatorvos külön jogszabály szerint
 
@@ -12,11 +14,15 @@ a) ellátja az állatvásár, állatbemutató, állatkiállítás, állatverseny
 
 b) elvégzi az embert mart kutya hatósági megfigyelését;
 
-c) a költségvetési támogatások igénybevételéhez, illetve hitelprogramokban való részvételhez szükséges igazolások kiállításához szemlét végez, és a szemle eredményét jegyzőkönyvben rögzíti.
+c)[^3] elvégzi a szalmonella hatósági mintavételt;
+
+d)[^4] fogyaszthatósági döntést hoz elejtett vad esetében, amennyiben azt a vadászatra jogosult a végső fogyasztónak minősülő természetes vagy jogi személynek, vagy jogi személyiséggel nem rendelkező szervezetnek, vagy a végső fogyasztót közvetlenül ellátó helyi kiskereskedelmi vagy vendéglátó egységnek átadásra, vagy eladásra szánja.
+
+(3a)[^5] A jogosult állatorvos elvégzi az előzetes kockázatbecslés alapján kijelölt állattartó telepre érkező állatszállítmányok vizsgálatát.
 
 (4) A jogosult állatorvos külön jogszabály szerint – az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különleges szabályok megállapításáról szóló 854/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 854/2004/EK rendelet) I. melléklet III. szakasz II. fejezet 3. bekezdésében meghatározott eseteket kivéve –
 
-a) elvégzi a húsvizsgálatot az olyan vágóhidaknál, ahol nem vágnak többet
+a)[^6] elvégzi a húsvizsgálatot a vágópontok esetében, valamint az olyan vágóhidaknál, ahol nem vágnak többet
 
 aa) hetente 40 egyed felnőtt szarvasmarhánál, lónál vagy 80 egyed egyéb szarvasmarhánál,
 
@@ -24,7 +30,7 @@ ab) hetente 200 egyed 100 kg élősúly feletti sertésnél vagy 400 egyed 15 kg
 
 ac) hetente 200 egyed juhnál, kecskénél vagy 400 egyed 15 kg élősúly alatti báránynál, gödölyénél,
 
-ad) évente 150 000 egyed baromfinál;
+ad)[^7] évente 250 000 egyed baromfinál;
 
 b) elvégzi a húsvizsgálatot és kiállítja a hússzállítási igazolást a kistermelőknél.
 
@@ -32,12 +38,19 @@ b) elvégzi a húsvizsgálatot és kiállítja a hússzállítási igazolást a 
 
 a) alkalmas, elvégzi a 854/2004/EK rendelet 5. cikkének 2. pontja szerinti jelölést a hatósági állatorvos felügyelete és felelőssége alatt;
 
-b)[^2] nem alkalmas, javaslatot tesz a hatósági állatorvosnak az emberi fogyasztásra való alkalmatlanság megállapítására.
+b)[^8] nem alkalmas, javaslatot tesz a hatósági állatorvosnak az emberi fogyasztásra való alkalmatlanság megállapítására.
 
-(6) A (4) bekezdésben meghatározott hatáskörében nem járhat el az a jogosult állatorvos, aki az adott állatállomány, illetőleg ügyfél vonatkozásában magánállatorvosi szolgáltató tevékenységet végez, illetve aki az adott állatok vonatkozásában a vágóhídra történő szállításhoz szükséges okiratot kiállította.
+(6)[^9] A (4) bekezdésben meghatározott hatáskörében nem járhat el az a jogosult állatorvos, aki az adott állatállomány, illetőleg ügyfél vonatkozásában szolgáltató állatorvosi tevékenységet végez, illetve aki az adott állatok vonatkozásában a vágóhídra történő szállításhoz szükséges okiratot kiállította.
 
-(7)[^3] Ha a hatósági állatorvos illetékességi területén vagy annak egy részén nincs engedély alapján eljáró jogosult állatorvos, a hatósági állatorvos jár el. E rendelkezés alapján eljáró hatósági állatorvos által ellátott ügyben jogosult állatorvos nem járhat el.
+(7)[^10] Ha a hatósági állatorvos illetékességi területén vagy annak egy részén nincs jogosult állatorvos, a hatósági állatorvos jár el. E rendelkezés alapján eljáró hatósági állatorvos által ellátott ügyben jogosult állatorvos nem járhat el.
 
-[^1]: Az 1. § (1) bekezdése a 274/2006. (XII. 23.) Korm. rendelet 44. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 465. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: Az 1. § (5) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 465. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: Az 1. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 466. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^1]: Az 1. § (1) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés c) pontja a 369/2012. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdés d) pontját a 369/2012. (XII. 17.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (3a) bekezdését a 369/2012. (XII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: Az 1. § (4) bekezdés a) pont nyitó szövegrésze a 369/2012. (XII. 17.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (4) bekezdés a) pont ad) alpontja a 369/2012. (XII. 17.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. § (5) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 465. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: Az 1. § (6) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^10]: Az 1. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 466. §-a, a 369/2012. (XII. 17.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.

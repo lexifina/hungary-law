@@ -1,5 +1,6 @@
-7. §[^14] (1) Ha a jogosult állatorvos az engedélyben rögzített feladatok ellátásában akadályoztatva van, azt haladéktalanul jeleznie kell a kerületi főállatorvosnak, aki erről a hatósági állatorvost haladéktalanul értesíti.
+7. § (1)[^32] Ha a jogosult állatorvos a szerződésben rögzített feladatok ellátásában akadályoztatva van, azt haladéktalanul jeleznie kell az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak.
 
-(2) Ha a jogosult állatorvos tudomására jut, hogy valamely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság megsérti az állategészségügyi előírásokat, akkor arról haladéktalanul köteles tájékoztatni a kerületi főállatorvost.
+(2)[^33] Ha a jogosult állatorvos tudomására jut, hogy valamely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság megsérti az állategészségügyi előírásokat, akkor arról haladéktalanul köteles tájékoztatni az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot.
 
-[^14]: A 7. § a 218/2008. (VIII. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^32]: A 7. § (1) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^33]: A 7. § (2) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
