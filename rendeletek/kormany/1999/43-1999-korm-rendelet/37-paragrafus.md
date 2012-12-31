@@ -60,7 +60,7 @@ f)[^371] a d) pont szerinti elszámolási szabályok alkalmazása szempontjábó
 
 (8a)[^376] A (8) bekezdésben foglaltakon túl a rehabilitációs ellátási program szerinti nappali ellátás esetén meg kell határozni és a betegdokumentációban vezetni kell a rehabilitációs ellátási programban megállapított állapotmutatókat is.
 
-(9)[^377] A 24. számú mellékletben meghatározott egészségügyi szolgáltató az Eftv. alapján kapott krónikus kapacitásának legfeljebb 10 százalékán végzett aktív belgyógyászati szakellátás után kiegészítő díjazásban részesülhet. A kiegészítő díjazás alapja a 2006. évben elért, egy aktív ágyra vetített teljesítmény díj bevételének 20 százaléka, az aktív ellátásra is engedélyezett ágyszám figyelembevételével.
+(9)[^377]
 
 (10)[^378]
 
@@ -85,5 +85,5 @@ f)[^371] a d) pont szerinti elszámolási szabályok alkalmazása szempontjábó
 [^374]: A 37. § (7a) bekezdését a 227/2011. (X. 28.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^375]: A 37. § (5) bekezdését a 264/2003. (XII. 24.) Korm. rendelet 17. §-a iktatta be, számozását a 291/2009. (XII. 18.) Korm. rendelet 12. § (4) bekezdése (8) bekezdésre változtatta, szövege a 227/2011. (X. 28.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^376]: A 37. § (8a) bekezdését a 227/2011. (X. 28.) Korm. rendelet 3. § (5) bekezdése iktatta be.
-[^377]: A 37. § (8) bekezdését a 41/2007. (III. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be. A 37. § eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 364/2007. (XII. 23.) Korm. rendelet 10. §-a, szövege 365/2010. (XII. 30.) Korm. rendelet 18. § 45. pontja szerint módosított szöveg.
+[^377]: A 37. § (8) bekezdését a 41/2007. (III. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be. A 37. § eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 364/2007. (XII. 23.) Korm. rendelet 10. §-a. A 37. § (9) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
 [^378]: A 37. § (9) bekezdését a 148/2007. (VI. 26.) Korm. rendelet 2. §-a iktatta be, számozását (10) bekezdésre változtatta a 364/2007. (XII. 23.) Korm. rendelet 10. §-a. A 37. § (10) bekezdését az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének i) pontja hatályon kívül helyezte.

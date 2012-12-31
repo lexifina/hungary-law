@@ -426,4 +426,10 @@ N. az oldaliság nem értelmezhető
 
 27. Beavatkozások
 
+Megnevezés
+
+(Elektronikusan nem továbbítandó)
+
+Intézet/osztály azonosítója
+
 [^496]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
