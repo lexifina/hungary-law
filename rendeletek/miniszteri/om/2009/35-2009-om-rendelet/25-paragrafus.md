@@ -780,4 +780,4 @@ Melléklet 13. minta
 
 [^7]: A 24/A. §-t a 28/2011. (IX. 14.) KIM rendelet 3. §-a iktatta be.
 [^8]: A hatálybalépés időpontja 2011. július 20.
-[^9]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a, a 6/2010. (VII. 21.) KIM rendelet 4–5. §-a, a 8/2010. (VIII. 18.) KIM rendelet 1. §-a, a 28/2011. (IX. 14.) KIM rendelet 1. §-a szerint módosított szöveg. [Az 50/2012. (XII. 4.) KIM rendelet 33. § c) pontjával elrendelt módosítás, amely szerint a 21. mellékletben hatályát veszti a „nem vagyok és a jelöltként történő bejelentésemet megelőző három évben nem voltam a Magyar Honvédség, a Rendőrség vagy a nemzetbiztonsági szolgálatok hivatásos állományú tagja, így az Alkotmány 40/B. § (4) bekezdése a választójogomat nem zárja ki” szövegrész, nem vezethető át.]
+[^9]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a, a 6/2010. (VII. 21.) KIM rendelet 4–5. §-a, a 8/2010. (VIII. 18.) KIM rendelet 1. §-a, a 28/2011. (IX. 14.) KIM rendelet 1. §-a, az 54/2012. (XII. 28.) KIM rendelet 24. §-a szerint módosított szöveg.

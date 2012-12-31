@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-35-20-2
 | 2010-08-19 | 2009-35-20-2L.4 | 10/2010. (IV. 16.) ÖM rendelet |
 | 2011-09-15 | 2009-35-20-2L.5 | 28/2011. (IX. 14.) KIM rendelet |
 | 2012-12-05 | 2009-35-20-2L.6 | 50/2012. (XII. 4.) KIM rendelet |
+| 2012-12-31 | 2009-35-20-2L.7 | 10/2010. (IV. 16.) ÖM rendelet |
