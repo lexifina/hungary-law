@@ -1,0 +1,3 @@
+94. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 48. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A házassági névviselési forma módosítása iránti kérelmet bármely települési önkormányzat polgármesteri hivatalának anyakönyvvezetőjénél személyesen lehet előterjeszteni. A külföldön élő magyar állampolgár a kérelmét személyesen a lakóhelye szerinti hivatásos konzuli tisztviselőnél is előterjesztheti. Ha a kérelmet nem a házasságkötés helye szerinti anyakönyvvezetőnél terjesztették elő, az anyakönyvvezető haladéktalanul, de legkésőbb öt napon belül, a hivatásos konzuli tisztviselő az első diplomáciai futárral köteles megküldeni a kérelmet a házasságkötés helye szerinti anyakönyvvezetőnek.”

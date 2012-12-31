@@ -1,0 +1,1 @@
+74. § A külföldre utazásról szóló 1998. évi XII. törvény 27. § (1) bekezdésében az „állampolgársági ügyekben eljáró szervnek” szövegrész helyébe az „állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek” szöveg lép.
