@@ -1,4 +1,4 @@
-94. § (1) A Tny. 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással akkor kérhető a felmentés, ha a feltételekkel legkésőbb a felmentési idő utolsó napján rendelkezik a bíró.
+94. § (1) A Tny. 18. § (2) vagy (2a) bekezdésében foglalt feltételek fennállására hivatkozással akkor kérhető a felmentés, ha a feltételekkel legkésőbb a felmentési idő utolsó napján rendelkezik a bíró.
 
 (2) A bíró felmentési ideje – a (3) bekezdésben említett esetek kivételével – egy hónap, amelyre a bírót a munkavégzési kötelezettség alól mentesíteni kell.
 
