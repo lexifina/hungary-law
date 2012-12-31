@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-2
 | 2012-09-01 | 2012-45-20-22.4 | 237/2012. (VIII. 30.) Korm. rendelet |
 | 2012-09-02 | 2012-45-20-22.5 | 237/2012. (VIII. 30.) Korm. rendelet |
 | 2012-09-03 | 2012-45-20-22.6 | 2010: CXXX. törvény |
+| 2012-12-31 | 2012-45-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
