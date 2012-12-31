@@ -1,3 +1,3 @@
-49. §[^55]
+49. §[^54]
 
-[^55]: A 46–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 46–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

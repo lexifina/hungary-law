@@ -2,6 +2,6 @@
 
 ## 134/1999. (VIII. 31.) Korm. rendelet módosítása
 
-23. §[^27]
+23. §[^26]
 
-[^27]: A 23–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 23–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
