@@ -22,7 +22,7 @@ f) a miniszter ásványvagyon-gazdálkodással, valamint a koncessziós szerződ
 
 g) a Bt. 34. §-ának (2) bekezdésében foglalt bányászati, gázipari biztonsági szabályzatok előkészítése;
 
-h)[^11] a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések hatósági felügyeletéről szóló 23/2006. (II. 3.) Korm. rendelet 7. § (2) bekezdésében meghatározott minőségbiztosítási rendszer jóváhagyása és alkalmazásának ellenőrzése;
+h)[^11] a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések hatósági felügyeletéről szóló 23/2006. (II. 3.) Korm. rendelet 7. § (2) bekezdésében meghatározott minőségbiztosítási rendszer jóváhagyása;
 
 i) a Bt. 26/A. §-ának (5) bekezdése szerinti határidő hosszabbítási kérelem elbírálása;
 
@@ -42,15 +42,17 @@ p)[^16] a Bt. 42/I. § (4) bekezdése szerinti szén-dioxid szállítóhálózat
 
 q)[^17] a Bt. 42/J. § (2) bekezdése szerinti együttműködési megállapodás hiánya esetére előírt eljárás lefolytatása; és
 
-r)[^18] a Bt. 42/V. § (2) bekezdése szerinti, Európai Bizottságnak megküldendő jelentés előkészítése a miniszter számára.
+r)[^18] a Bt. 42/V. § (2) bekezdése szerinti, Európai Bizottságnak megküldendő jelentés előkészítése a miniszter számára;
 
-(6)[^19] A Hivatal bányafelügyeleti és állami földtani feladatokat ellátó szervként hatósági ügyekben országos illetékességgel jár el, döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+s)[^19] a Bt. 26/A. § (6) bekezdése, valamint a Bt. 42/R. § (1) bekezdése szerinti pályázat lebonyolítása és a bányatelekben fennálló bányászati jog új jogosítottjának, valamint az új tárolási engedély engedélyesének kijelölése.
 
-(7)[^20] A bányakapitányság köztisztviselője illetékességi területén kívül, a Hivatal köztisztviselője az ország egész területén az elnök által kiállított megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján indult eljárás lefolytatására az a bányakapitányság jogosult, amelynek illetékességi területén az ellenőrzés történt.
+(6)[^20] A Hivatal bányafelügyeleti és állami földtani feladatokat ellátó szervként hatósági ügyekben országos illetékességgel jár el, döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
-(8)[^21] A bányafelügyelet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+(7)[^21] A bányakapitányság köztisztviselője illetékességi területén kívül, a Hivatal köztisztviselője az ország egész területén az elnök által kiállított megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján indult eljárás lefolytatására az a bányakapitányság jogosult, amelynek illetékességi területén az ellenőrzés történt.
 
-(9)[^22] A bányafelügyelet – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
+(8)[^22] A bányafelügyelet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+
+(9)[^23] A bányafelügyelet – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
 [^3]: A 3. § (3) bekezdését a 63/2012. (IV. 2.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
 [^4]: A 3. § (4) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
@@ -60,7 +62,7 @@ r)[^18] a Bt. 42/V. § (2) bekezdése szerinti, Európai Bizottságnak megkülde
 [^8]: A 3. § (5) bekezdésének c) pontja a 113/2009. (V. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: A 3. § (5) bekezdés d) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: A 3. § (5) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^11]: A 3. § (5) bekezdés h) pontját az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 3. § (5) bekezdés h) pontját az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 24. § (9) bekezdése szerint módosított szöveg.
 [^12]: A 3. § (5) bekezdés j) pontja a 195/2011. (IX. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^13]: A 3. § (5) bekezdés m) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^14]: A 3. § (5) bekezdés n) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
@@ -68,7 +70,8 @@ r)[^18] a Bt. 42/V. § (2) bekezdése szerinti, Európai Bizottságnak megkülde
 [^16]: A 3. § (5) bekezdés p) pontját a 146/2012. (VII. 5.) Korm. rendelet 22. § (3) bekezdése iktatta be.
 [^17]: A 3. § (5) bekezdés q) pontját a 146/2012. (VII. 5.) Korm. rendelet 22. § (3) bekezdése iktatta be.
 [^18]: A 3. § (5) bekezdés r) pontját a 146/2012. (VII. 5.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^19]: A 3. § (6) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
-[^20]: A 3. § (7) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^21]: A 3. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
-[^22]: A 3. § (9) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
+[^19]: A 3. § (5) bekezdés s) pontját a 411/2012. (XII. 28.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^20]: A 3. § (6) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^21]: A 3. § (7) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 3. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
+[^23]: A 3. § (9) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
