@@ -39,3 +39,9 @@ rendeletben állapítsa meg,
 j) a polgári peres eljárás elektronikus beadványai formanyomtatványának tartalmát – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza,
 
 k) a polgári perben alkalmazható videókonferencia technikai szabályait – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza.
+
+l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tartalmi és formai kellékeit, valamint az űrlaphoz csatolható mellékleteket rendeletben szabályozza,
+
+m) az ügyész polgári eljárásbeli részvételével kapcsolatos költség előlegezésének és viselésének részletes szabályait az államháztartásért és az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza.
+
+(5)
