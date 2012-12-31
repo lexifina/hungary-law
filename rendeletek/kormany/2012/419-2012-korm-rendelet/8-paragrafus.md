@@ -1,0 +1,1 @@
+8. § Nem lép hatályba az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételének részletes szabályairól és egyes kormányrendeletek módosításáról szóló 349/2012. (XII. 12.) Korm. rendelet 66. § (1) bekezdése.
