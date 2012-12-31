@@ -1,3 +1,3 @@
-## 48–50. §[^15]
+## 48–50. §[^18]
 
-[^15]: A 48–50. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^18]: A 48–50. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

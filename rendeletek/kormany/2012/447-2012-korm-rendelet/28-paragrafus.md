@@ -1,13 +1,14 @@
-## 27. §[^6]
+## 27. §[^8]
 
 ## 28. § A Kr.
 
-a)–k)[^7]
+a)–k)[^9]
 
-l) 35. § (13) bekezdésében a „3200” szövegrész helyébe a „3380” szöveg,
+l)[^10]
 
-m)–q)[^8]
+m)–q)[^11]
 
-[^6]: A 27. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^7]: A 28. § a)–k) pontja a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^8]: A 28. § m)–q) pontja a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^8]: A 27. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^9]: A 28. § a)–k) pontja a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^10]: A 28. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 28. § m)–q) pontja a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

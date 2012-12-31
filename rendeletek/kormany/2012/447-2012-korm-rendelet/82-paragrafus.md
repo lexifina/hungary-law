@@ -1,4 +1,4 @@
-## 81. §[^29]
+## 81. §[^33]
 
 ## 12. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Ez a rendelet 2014. március 2-án hatályát veszti.
 
-[^29]: A 81. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^33]: A 81. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

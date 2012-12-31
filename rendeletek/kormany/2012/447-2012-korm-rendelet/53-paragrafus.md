@@ -1,3 +1,3 @@
-## 52. §[^16]
+## 52. §[^20]
 
-[^16]: Az 52. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^20]: Az 52. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

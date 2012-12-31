@@ -1,3 +1,3 @@
-## 54. § Az Eftv. Vhr. a következő 17/D. §-sal egészül ki:
+## 53–54. §[^21]
 
-## „17/D. § Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 447/2012. (XII. 29.) Korm. rendelettel megállapított 8. § (16) bekezdését és 11/C. §-t a folyamatban lévő ügyekben is alkalmazni kell, azzal, hogy amennyiben a 8. § (16) bekezdése és a 11/C. § hatálybalépésekor a kapacitás átcsoportosításra irányuló eljárás mellett az érintett kapacitás többletkapacitásként történő befogadására irányuló eljárás is folyamatban van, az utóbbi eljárást meg kell szüntetni és az eljárás során született TBB javaslatot a TBB támogató nyilatkozataként, valamint az egészségügyért felelős miniszter, illetve az államháztartásért felelős miniszter jóváhagyását a kapacitásátcsoportosításra irányuló eljárás során lehetőség szerint figyelembe kell venni.”
+[^21]: Az 53–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
