@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-48-00-00
 | 2011-06-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-48-00-00.1 |
 | 2011-06-13 | 2010. évi CXXX. törvény | 2011-48-00-00.2 |
 | 2011-08-12 | 24/2011. (IX. 22.) KüM határozat | 2011-48-00-00.3 |
+| 2012-12-31 | 2012. évi CCXIV. törvény | 2011-48-00-00.4 |
