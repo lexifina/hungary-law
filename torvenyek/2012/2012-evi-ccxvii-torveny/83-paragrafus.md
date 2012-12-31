@@ -1,0 +1,3 @@
+## „(1) A környezetvédelemért felelős miniszter egyetértésben a miniszter, valamint az erdőgazdálkodásért felelős miniszterrel az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.”
+
+83. § Az Éhvt. 5. §-a a következő (6) bekezdéssel egészül ki:

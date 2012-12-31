@@ -1,0 +1,3 @@
+## „(4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet negyedévente közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy, valamint ezek jogi személyiség nélküli társasága tehet javaslatot. A bányafelügyelet a soron következő közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe. A negyedévente közzétett területekre a miniszter a pályázatot legkésőbb 9 hónapon belül írja ki.”
+
+47. § A Bt. 12. § (2) bekezdése helyébe a következő rendelkezés lép:

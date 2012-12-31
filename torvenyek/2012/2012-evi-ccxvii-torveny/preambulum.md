@@ -1,0 +1,1 @@
+Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse annak lehetőségét, hogy Magyarország az üvegházhatású gázok tudományos alapon szükségesnek tartott csökkentésével mérsékelje az emberi tevékenység hatására bekövetkező éghajlatváltozást azáltal, hogy részt vesz az üvegházhatású gázok Európai Unióban alkalmazott kereskedelmi rendszerében.
