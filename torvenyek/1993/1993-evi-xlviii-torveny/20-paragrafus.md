@@ -52,6 +52,8 @@ g) szilárd ásványi energiahordozók mélyműveléses bányászata esetén 0%-
 
 h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.
 
+(3a) A bányajáradék mértéke az 1. § (7) bekezdése szerinti engedély alapján kitermelt és az engedélyben foglalt tevékenységgel össze nem függő célra felhasznált, hasznosított ásványi nyersanyag mennyisége után keletkező értéknek az 50%-a.
+
 (4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
 
 A (3) bekezdés ba) pont szerinti bányajáradék mértéke akkor emelkedik az előbbiek szerint, ha P: az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, vagy jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára. A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti.
@@ -80,9 +82,9 @@ c) egyéb közérdek
 
 ## különbözőségének figyelembevételével kitermelési helyenként állapítja meg.
 
-(9) A bányajáradékot pénzben kell teljesíteni. A bányafelügyelet engedélyezheti, illetve előírhatja a bányajáradék ásványi nyersanyagban, illetve hasznosítható geotermikus energiában, természetben történő teljesítését. A befizetett, illetve a természetben teljesített bányajáradék költségként számolható el.
+(9) A bányajáradékot pénzben kell teljesíteni. A befizetett bányajáradék költségként számolható el.
 
-(10) A bányajáradék befizetésének, természetben történő teljesítésének, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítés (15. §), illetve díjfizetés [30. § (3) bekezdés] szabályait a Kormány állapítja meg.
+(10)
 
 (11) A bányajáradék pénzben kifejezett összege a kitermelt ásványi nyersanyag vagy geotermikus energia értékének e törvényben vagy a koncessziós szerződésben meghatározott százaléka. A bányajáradék számításának alapja az ásványi nyersanyag természetes előfordulási helyéről kitermelt, a bányanyíláson kiszállított, kútfejen vagy ennek hiányában a kútfejre visszaszármaztatott módon mért mennyiség értéke.
 

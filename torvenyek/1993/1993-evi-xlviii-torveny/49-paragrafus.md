@@ -68,7 +68,7 @@ E törvény alkalmazásában feltárás
 
 12. ,,Geotermikus energiahordozók'' e törvény alkalmazásában azok a különböző halmazállapotú anyagok (pl. felszín alatti vizek, gőzök), melyek a földkéreg belső energiájának hőenergetikai célú hasznosítását kitermeléssel vagy más technológia alkalmazásával lehetővé teszik.
 
-13. ,,Ipari robbantási tevékenység'' a nem honvédelmi vagy karhatalmi célú robbantásra szolgáló robbantóanyag forgalmazása, tárolása, őrzése, felhasználása és megsemmisítése.
+13.
 
 14. ,,Ipari vagyon'' a földtani vagyonnak az a része, amely az adott időpontban gazdaságosan kitermelhető.
 
@@ -86,7 +86,7 @@ c) a geotermikus energia földkéregbeli viszonyainak megismerése, valamint
 
 d) a földtani szerkezetek megismerése szénhidrogén felszín alatti tárolására való alkalmasság szempontjából.
 
-18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatási jogot adományozó határozatban meghatározott ásványi nyersanyag, vagy geotermikus energia kutatására körülhatárolt terület.
+18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatást engedélyező határozatban meghatározott ásványi nyersanyag, vagy geotermikus energia kutatására körülhatárolt terület.
 
 19. ,,Lelőhely'' az ásványi nyersanyagok természetes előfordulásának helye (pl. réteg, telep, lerakódás).
 
@@ -181,3 +181,7 @@ c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartoz�
 48. „EGT-állam”: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
 49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított öt éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.
+
+50. Használaton kívüli bányászati célú mélyfúrás, kút: a meddő szénhidrogén kutatófúrás, kút, illetve a termelésből kivont, a mező termeltetéséhez már nem szükséges vagy műszakilag alkalmatlanná vált szénhidrogénkút.
+
+51. Meddő szénhidrogén kutatófúrás, kút: olyan kutatófúrás (kút), amely szénhidrogén-indikációt nem eredményezett vagy olyan mértékben eredményezett, amely alapján a szénhidrogén nem termelhető ki gazdaságosan.

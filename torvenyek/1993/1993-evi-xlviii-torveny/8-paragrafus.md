@@ -2,7 +2,7 @@
 
 ## A KONCESSZIÓ
 
-8. § A miniszter belföldi vagy külföldi jogi és természetes személyekkel, valamint ezek jogi személyiség nélküli társaságaival kötött koncessziós szerződéssel meghatározott időre átengedheti:
+8. § A miniszter belföldi vagy külföldi természetes személlyel vagy átlátható szervezettel kötött koncessziós szerződéssel meghatározott időre átengedheti:
 
 a) zárt területen
 

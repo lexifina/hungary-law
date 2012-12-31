@@ -43,3 +43,5 @@ r) a földtani közeg hasznosítási lehetőségeinek számbavétele, értékel�
 (4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenységek folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, gyakorlati idővel, és megfelel az ott meghatározott egyéb feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
 
 (5) A bányafelügyelet – tudomására jutását követően – haladéktalanul köteles intézkedni a hatósági felügyelete alá tartozó tevékenységek gyakorlásával kapcsolatban a 2. §-ban meghatározott közérdek sérelmének megelőzésére, illetőleg megszüntetésére.
+
+(6) Az 1. § (7) bekezdése szerinti tevékenységek jogszerűségének vizsgálata a bányafelügyelet hatáskörébe tartozik.

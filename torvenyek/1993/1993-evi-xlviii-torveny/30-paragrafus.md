@@ -8,7 +8,7 @@
 
 (4) A bányafelügyelet hivatalból elrendeli a bánya bezárását és a tájrendezés elvégzését, ha
 
-a) a jóváhagyott szüneteltetési műszaki üzemi terv alapján történő szüneteltetés időtartama eléri a 6 évet,
+a) a kitermelés szüneteltetésének időtartama eléri a 6 évet,
 
 b) a bányavállalkozó a kiesett bányajáradék pótlására megállapított díjfizetési kötelezettségének felhívás ellenére nem tesz eleget vagy
 

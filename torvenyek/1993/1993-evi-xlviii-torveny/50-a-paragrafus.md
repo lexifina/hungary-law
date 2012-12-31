@@ -6,9 +6,9 @@
 
 3. a koncessziós pályázatok értékelését végző minősítő bizottság létrehozására és összetételére,
 
-4. a bányajáradékra, annak befizetésére, természetben történő teljesítésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
+4. a bányajáradékra, annak befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
 
-5. a kutatási jogadományozásra és a kutatási munkaprogram minimális tartalmi követelményeire, a kutatási jogadományhoz tartozó pénzügyi biztosítékra, valamint a kutatási terület kialakítására és mértékére,
+5. a kutatási engedélyezésére és a kutatási munkaprogram alapvető tartalmi követelményeire, a kutatási jogadományhoz, illetve a kutatási engedélyhez tartozó pénzügyi biztosítékra, valamint a kutatási terület kialakítására és mértékére, valamint kutatási jogadománnyal vagy kutatási engedéllyel érintett olyan részben vagy egészben fedő vagy magában foglaló földtani szerkezetek esetében, amelyekre más bányavállalkozó bányászati jogát már megállapították, a kötendő megállapodás hatósági jóváhagyásának feltételeire vagy a megállapodás hiányában az együttműködés szükségességének és tartalmának megállapítására,
 
 6. a biztonsági övezetre és a védőpillérre,
 
@@ -76,7 +76,13 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 25. a 26/A. § (5) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
 
-26. a kőolaj- és földgázbányászati létesítmények, a szénhidrogén szállító-, elosztó-, célvezetékek és tároló létesítmények tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint az európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
+26. a kőolaj- és földgázbányászati létesítmények, a szénhidrogén szállító-, elosztó-, célvezetékek és tároló létesítmények tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint az európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre,
+
+27. a használaton kívüli bányászati célú mélyfúrások nyilvántartására,
+
+28. a koncessziós pályázatra kijelölhető zárt területek listájának kiegészítésére tehető javaslatra, a kijelölhető területek közzétételére,
+
+29. a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
@@ -110,7 +116,9 @@ m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok,
 
 n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén-dioxid szállítóvezetékek biztonsági szabályzatára vonatkozó rendelkezések,
 
-o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
+o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok,
+
+p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
 
 rendeletben történő megállapítására.
 

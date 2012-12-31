@@ -24,10 +24,22 @@ c) a kiadott és érvényes kutatási engedélyükben meghatározott nyersanyagr
 
 (8) A bányászati tevékenységet folytató gazdálkodó szervezetek és természetes személyek e törvény hatálybalépésétől számított 3 hónapon belül kötelesek a miniszternek megküldeni a (6) bekezdésben foglalt rendelkezések alapján elkészített területkimutatásaikat. A határidőre megküldött területkimutatásokba fel nem vett, illetőleg a (6) bekezdés b) és c) pontjaiban foglalt rendelkezések alapján a felszabadult területekre a miniszter nyilvános pályázatot írhat ki.
 
-(9)
+(9) A 24. § (3) bekezdése szerinti műszaki-biztonsági irányítási rendszert 2013. december 31-éig kell kidolgozni.
 
 (10) Ha a bányatelek jogosítottja a (8) bekezdésben meghatározott kötelezettségét nem teljesíti, a bányafelügyelet hivatalból intézkedik a mulasztó bányászati jogának törléséről és a földtani adatok beszolgáltatásáról.
 
 (11) E törvénynek az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2010. évi CLXXXI. törvény 1. § (4) bekezdésével megállapított 43. § (9) bekezdésében meghatározott bányavállalkozónak nem minősülő bányászati hulladék kezelő felügyeleti díj fizetési kötelezettsége első alkalommal 2012. január 1. napján keletkezik.
 
-(12)–(14)
+(12) Az 1991. október 1-je előtt mélyített használaton kívüli bányászati célú mélyfúrások, illetve kutak – ha az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Módtv1.) hatálybalépését megelőzően azokon más tulajdonjogot nem szerzett – tulajdonjoga az államot illeti meg. E rendelkezés nem zárja ki azt, hogy az állam e rendelkezés hatálybalépése után 1991. október 1-je előtt mélyített használaton kívüli bányászati célú mélyfúrást vagy kutat elidegenítsen.
+
+(13) E törvény Módtv1.-vel megállapított 14. § (1) bekezdését a hatálybalépését követően adományozott kutatási jogokra vagy kiadott kutatási engedélyekre kell alkalmazni.
+
+(14) Az e törvény 22/A. § (13) bekezdése a Módtv1. hatálybalépését megelőzően kiadott kutatási engedélyek hatályát nem érinti, de az abban foglalt területi korlátozást az újonnan megszerezni kívánt kutatási jog vagy kutatási engedély tekintetében az új kutatási engedély vagy kutatási jog megszerzésének időpontjában alkalmazni kell.
+
+(15) A Módtv1.-vel megállapított 22/C. § szerinti, 2003. január 1-je előtt megállapított bányatelken lehatárolt szénhidrogén mezőre vonatkozóan a 22/C. § szerinti kutatási műszaki üzemi tervet a Módtv1. hatálybalépését követő 2 éven belül kell benyújtani. Nem vonatkozik ez a kötelezettség a Módtv1. hatálybalépésekor jóváhagyott szüneteltetési műszaki üzemi terv alapján szüneteltetett szénhidrogén mezőkre.
+
+(16) A Módtv1. hatálybalépése előtt a bányafelügyelet által nyilvántartásba vett felelős műszaki vezető vagy helyettes abban a nyilvántartás szerinti bányaüzemben, amelyre kijelölése szól a felelős műszaki vezetői vagy helyettesi tevékenységet a Módtv1. hatálybalépése előtt hatályos szabályok szerint továbbfolytathatja. A Módtv1. hatálybalépését követően felelős műszaki vezetői vagy helyettesi megbízás csak az e törvény Módtv1.-vel módosított 28. §-a szerinti engedéllyel rendelkező részére adható.
+
+(17) A használaton kívüli bányászati célú mélyfúrásoknak, kutaknak a 36. §-t módosító Módtv1. hatálybalépése előtt engedélyezett nem bányászati célú hasznosítása esetében a hasznosítást a Módtv1. hatálybalépésétől számított egy éven belül kell megkezdeni. Ennek elmaradása esetén a használaton kívüli bányászati célú mélyfúrás kút tájrendezését el kell végezni.
+
+(18) A Módtv1. hatálybalépését követően a 36. § (8) bekezdése szerinti nyilvántartást 2013. szeptember 30-ig kell létrehozni, amelyhez a használaton kívüli bányászati célú mélyfúrások tulajdonosa 2013. július 31-ig köteles adatot szolgáltatni.

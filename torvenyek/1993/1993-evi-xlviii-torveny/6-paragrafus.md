@@ -2,4 +2,4 @@
 
 (2) A bányászati jog átruházására vonatkozó szerződés a bányafelügyelet határozatának jogerőssé és végrehajthatóvá válása napján jön létre.
 
-(3) A bányafelügyelet a bányászati jog átruházása iránti kérelmet elutasítja, ha az átadónak vagy az átvevőnek jogerős határozattal megállapított bányajáradék, felügyeleti díj, térítési díj vagy bírság tartozása van.
+(3) A bányafelügyelet a bányászati jog átruházása iránti kérelmet elutasítja, ha az átadónak vagy az átvevőnek bányajáradék, felügyeleti díj, jogerős határozattal megállapított kiesett bányajáradék pótlására megállapított díj, térítési díj vagy bírság tartozása van.

@@ -32,20 +32,18 @@ l) az a)–k) pontokban felsorolt tevékenységek gyakorlásához szükséges l�
 
 (2) Az (1) bekezdés a) pontjában meghatározott tevékenységnek minősül a torlatban, hordalékban előforduló ásványi nyersanyagok kutatása és kitermelése is.
 
-(3) E törvény bányakárokra (37. §), ingatlanhasználatra (38. §) és a bányafelügyeletnek a mélyfúrási és ipari robbantási tevékenységekre előírt műszaki biztonsági és engedélyezési hatáskörére (44. §) vonatkozó rendelkezéseit kell alkalmazni a geológiai képződmények és szerkezetek földtani kutatására is.
+(3) E törvény bányakárokra (37. §), ingatlanhasználatra (38. §) és a bányafelügyeletnek a mélyfúrási és polgári robbantási tevékenységekre előírt műszaki biztonsági és engedélyezési hatáskörére (44. §) vonatkozó rendelkezéseit kell alkalmazni a geológiai képződmények és szerkezetek földtani kutatására is.
 
 (4) A vizekre, ha e törvény másként nem rendelkezik, a környezetvédelmi és a vízügyi jogszabályok az irányadók.
 
 (5) Nem tartozik e törvény hatálya alá:
 
-a) a szén-dioxidnak új termékekkel és eljárásokkal kapcsolatos kutatás és fejlesztés vagy tesztelés céljából történő, 100 kilotonna tervezett mennyiséget el nem érő geológiai tárolása,
+a) a szén-dioxidnak új termékekkel és eljárásokkal kapcsolatos kutatás és fejlesztés, vagy tesztelés céljából történő, 100 kilotonna tervezett mennyiséget el nem érő geológiai tárolása,
 
-b) az építés, tereprendezés és a vizek medrének – a külön törvényben meghatározott – vízgazdálkodási célból végzett alakítása, továbbá a kézi erővel végzett aranymosás,
-
-c) a katasztrófák elhárításához szükséges ásványi nyersanyag kitermelése, ha azt – külön jogszabály szerint – katasztrófahelyzetben végezték.
+b) a kézi erővel végzett aranymosás.
 
 (6) A felsorolt — és e törvény hatálya alá tartozó — tevékenységekhez szükséges létesítményeknek minősülnek a bányavasutak, a bányászati kötélpályák és szalagpályák, továbbá a mezőn belüli és a mezők közötti gyűjtő vezetékek.
 
-(7) Az építésügyi, illetve talajvédelmi hatósági engedély alapján végzett tereprendezéssel, továbbá a vízjogi engedély alapján végzett mederalakítással összefüggő ásványi nyersanyag kitermelésre a 20. § és a 41. § rendelkezéseit kell alkalmazni azzal, hogy az így kitermelt ásványi nyersanyag nem minősül a föld méhe kincsének.
+(7) Az építési vagy talajvédelmi engedély alapján végzett tereprendezéssel, a vízjogi engedély alapján végzett mederalakítással összefüggő, valamint katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet elhárításához szükséges ásványi nyersanyag kitermelésre a 3. §, 20. §, 41. §, és 44. § rendelkezéseit kell alkalmazni.
 
 (8) A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) 1. és 2. mellékletében meghatározott gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges cél-kitermelőhelyeken folytatott kitermelő tevékenységre e törvény rendelkezései csak annyiban alkalmazhatók, amennyiben azt az Aptv. elrendeli.
