@@ -1,0 +1,1 @@
+70. § Nem lép hatályba a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 64. § (2) bekezdése és 104. § (2) bekezdése.
