@@ -1,0 +1,1 @@
+## „(4) Az Mpt. 24. § (17) bekezdése szerinti társadalombiztosítási nyugdíjrendszerbe történő visszalépések miatti vagyonátadás tekintetében a magánnyugdíjpénztár és az Alap közötti utólagos elszámolások magyar forintban kerülnek lebonyolításra a 2012. május 31. napjára vonatkozóan megállapított piaci érték figyelembevételével.”
