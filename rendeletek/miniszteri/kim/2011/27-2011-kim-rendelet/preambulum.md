@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 5. melléklet 11. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § h) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

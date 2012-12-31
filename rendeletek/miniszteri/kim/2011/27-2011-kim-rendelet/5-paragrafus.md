@@ -1,3 +1,0 @@
-5. § (1) Az esélyegyenlőségi támogatás az oktatásért felelős miniszter által kiadott óvodai, iskolai integrációs pedagógiai programban meghatározott tevékenységekre, feladatok ellátására, illetve az ott meghatározott célok megvalósítására a 10. melléklet szerinti mértékben használható fel az MKM rendelet 39/D. §-ában, 39/E. §-ában, valamint 54. § (15) bekezdésében foglalt követelményeknek megfelelően.
-
-(2) Az esélyegyenlőségi támogatás nem fordítható olyan tevékenység finanszírozására, amelynek pénzügyi fedezetét a 4. alcímben meghatározott pedagógusok kiegészítő illetményére fordítható támogatás biztosítja.
