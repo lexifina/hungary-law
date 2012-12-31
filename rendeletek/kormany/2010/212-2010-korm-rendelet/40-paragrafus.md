@@ -56,7 +56,7 @@ i) irányítja a védelmi igazgatás – feladat- és hatáskörébe tartozó �
 
 (4)[^144] A miniszter irányítja a Bevándorlási és Állampolgársági Hivatalt.
 
-(4a)[^145] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1), (2) és (4)–(6) bekezdésével összefüggő honosítási eljárásban, a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a szerinti eljárásban, a magyar állampolgárságról történő lemondással kapcsolatos eljárásban, a magyar állampolgárság visszavonásával kapcsolatos eljárásban, továbbá a magyar állampolgárság igazolásával kapcsolatos eljárásban állampolgársági ügyekért felelős miniszterként a minisztert jelöli ki.
+(4a)[^145] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1), (2) és (4)–(6) bekezdésével összefüggő honosítási eljárásban, a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a szerinti eljárásban, a magyar állampolgárságról történő lemondással kapcsolatos eljárásban, a magyar állampolgárság visszavonásával kapcsolatos eljárásban, továbbá a magyar állampolgárságról szóló 1993. évi LV. törvény 12. §-a szerinti eljárásban állampolgársági ügyekért felelős miniszterként a minisztert jelöli ki.
 
 (5) A miniszter az építésügyért való felelősségi körében
 
@@ -180,7 +180,7 @@ i)[^158]
 [^142]: A 40. § (2) bekezdés e) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^143]: A 40. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^144]: A 40. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^145]: A 40. § (4a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 151/2012. (VII. 6.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^145]: A 40. § (4a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 151/2012. (VII. 6.) Korm. rendelet 1. § (3) bekezdésével megállapított és a 417/2012. (XII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
 [^146]: A 40. § (5) bekezdés c) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (7) bekezdése hatályon kívül helyezte. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
 [^147]: A 40. § (5) bekezdés e) pontja a 174/2012. (VII. 26.) Korm. rendelet 74. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^148]: A 40. § (5) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
