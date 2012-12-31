@@ -1256,6 +1256,8 @@
 
 ## ”
 
-6. melléklet az 50/2012. (XII. 4.) KIM rendelethez
+6. melléklet az 50/2012. (XII. 4.) KIM rendelethez[^81]
 
 „2. számú melléklet a 31/2011. (X. 24.) KIM rendelethez
+
+[^81]: A 6. melléklet az 59/2012. (XII. 28.) KIM rendelet 1. §-a szerint módosított szöveg.
