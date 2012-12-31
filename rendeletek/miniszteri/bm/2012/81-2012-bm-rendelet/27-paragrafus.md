@@ -1,0 +1,1 @@
+## 14. A belügyminiszter irányítása alá tartozó egyes fegyveres szerveknél rendszeresített hivatásos beosztásokról és a betöltésükhöz szükséges követelményekről szóló 65/2011. (XII. 30.) BM rendelet módosítása
