@@ -1,4 +1,4 @@
-8/A. §[^69] (1) A geotermikus védőidom kijelölésére irányuló kérelem tartalmazza:
+8/A. §[^67] (1) A geotermikus védőidom kijelölésére irányuló kérelem tartalmazza:
 
 a) a geotermikus energia kinyerésére alkalmazandó technológia leírását,
 
@@ -20,4 +20,4 @@ c) a 2500 m-nél nagyobb mélységű felszín alatti víz-termelő és besajtol�
 
 (4) A geotermikus védőidom a kizárólag azonos tulajdonban lévő létesítményekre közösített burkolófelületként is kijelölhető.
 
-[^69]: A Vhr. 8/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be.
+[^67]: A Vhr. 8/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be.

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-203-20-
 | 2011-12-09 | 1998-203-20-22.27 | 251/2011. (XII. 1.) Korm. rendelet |
 | 2012-01-01 | 1998-203-20-22.28 | 145/2006. (VII. 11.) Korm. rendelet |
 | 2012-07-10 | 1998-203-20-22.29 | 146/2012. (VII. 5.) Korm. rendelet |
+| 2012-12-31 | 1998-203-20-22.30 | 411/2012. (XII. 28.) Korm. rendelet |

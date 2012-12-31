@@ -1,4 +1,4 @@
-6/A. §[^49] (1) A Bt. 22/A. § (1) bekezdése szerinti pályázatok esetén a miniszter meghatározza a pályázatok elbírálásának szempontrendszerét és azt a pályázati hirdetménnyel együttesen az Európai Unió Hivatalos Lapjában közzéteszi.
+6/A. §[^43] (1) A Bt. 22/A. § (1) bekezdése szerinti pályázatok esetén a miniszter meghatározza a pályázatok elbírálásának szempontrendszerét és azt a pályázati hirdetménnyel együttesen az Európai Unió Hivatalos Lapjában közzéteszi.
 
 (2) A pályázatok eredményét az (1) bekezdés szerint meghatározott és közzétett szempontok alapján kell megállapítani.
 
@@ -10,4 +10,4 @@
 
 (6) A pályázattal összefüggő döntés indokairól kérésükre tájékoztatni kell azokat a pályázókat, akiknek a pályázatát nem fogadták el.
 
-[^49]: A Vhr. 6/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 9. §-a iktatta a szövegbe.
+[^43]: A Vhr. 6/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 9. §-a iktatta a szövegbe.

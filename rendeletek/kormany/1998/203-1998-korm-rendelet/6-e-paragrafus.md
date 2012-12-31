@@ -1,4 +1,4 @@
-6/E. §[^54] (1) A kutatási műszaki üzemi tervet jóváhagyó határozatban a bányafelügyelet meghatározza a kutatás engedélyezett időtartamát, az ásványvagyon-gazdálkodás, a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket.
+6/E. §[^52] (1) A kutatási műszaki üzemi tervet jóváhagyó határozatban a bányafelügyelet meghatározza a kutatás engedélyezett időtartamát, az ásványvagyon-gazdálkodás, a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket.
 
 (2) A kutatásra engedélyezett időtartam számításának kezdő napja a kutatási műszaki üzemi tervet jóváhagyó határozat végrehajthatóvá válásának a napja.
 
@@ -10,7 +10,7 @@ b) ha a kérelmező a bányajáradék bevallására vagy megfizetésére vonatko
 
 c) a kérelmezőnek jogerős határozattal megállapított bányászati bírság vagy felügyeleti díj tartozása van,
 
-d)[^55] ha a kérelmező a kérelemben megjelölt kutatási területen kutató létesítményekkel történő kutatás elvégzését nem tervezi.
+d)[^53] ha a kérelmező a kérelemben megjelölt kutatási területen kutató létesítményekkel történő kutatás elvégzését nem tervezi.
 
 (4) A bányavállalkozó köteles a kutatási tevékenység megkezdésének tervezett időpontját a kutatás megkezdését megelőzően legalább 8 nappal korábban, és a kutatás befejezését a befejezés napját követő 8 napon belül a bányafelügyelet részére írásban bejelenteni.
 
@@ -22,18 +22,11 @@ b) az elvégzett kutatási eredmények alapján a kutatási tevékenység helyé
 
 a műszaki üzemi tervet módosítani kell.
 
-(6)[^56] A kutatási időszak meghosszabbítását – a kutatási műszaki üzemi terv módosításával – a bányafelügyelet akkor engedélyezi, ha a bányavállalkozó a munkaprogramban, valamint a műszaki üzemi tervben jóváhagyott kutatási feladatainak elvégzését megkezdte és
+(6)[^54] A kutatási időszak meghosszabbítását a bányafelügyelet akkor engedélyezi, ha a bányavállalkozó igazolja, hogy a kutatást az engedélyezett határidőig – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt nem tudja befejezni.
 
-a) igazolja, hogy a kutatást a kutatási engedélyben meghatározott határidőre, tőle független körülmény miatt befejezni nem tudja, vagy
+(7)–(8)[^55]
 
-b) a kutatás elvégzéséhez a kutatási feladatok bővítése indokolt.
-
-(7)[^57] Ha a kutatási időszak meghosszabbítását a bányavállalkozó a (6) bekezdés b) pontja alapján kérelmezi, akkor a kérelemnek tartalmaznia kell a 6/D. § (1) bekezdésében felsoroltakat. A bányavállalkozónak a kutatási feladatok bővítésének indokoltságát igazolnia kell.
-
-(8)[^58] Ha a kutatási időszak első meghosszabbítása a (6) bekezdés b) pontja alapján történt, a kutatási időszak második alkalommal történő meghosszabbítása akkor engedélyezhető, ha a bányavállalkozó valamennyi jóváhagyott kutatási feladatát a hosszabbítás iránti kérelem benyújtásáig teljesítette.
-
-[^54]: A Vhr. 6/E. §-át a 251/2011. (XII. 1.) Korm. rendelet 6. §-a iktatta be.
-[^55]: A Vhr. 6/E. § (3) bekezdés d) pontját a 146/2012. (VII. 5.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^56]: A Vhr. 6/E. § (6) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^57]: A Vhr. 6/E. § (7) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^58]: A Vhr. 6/E. § (8) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^52]: A Vhr. 6/E. §-át a 251/2011. (XII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^53]: A Vhr. 6/E. § (3) bekezdés d) pontját a 146/2012. (VII. 5.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^54]: A Vhr. 6/E. § (6) bekezdése a 411/2012. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^55]: A Vhr. 6/E. § (7)–(8) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 411/2012. (XII. 28.) Korm. rendelet 23. §-a.

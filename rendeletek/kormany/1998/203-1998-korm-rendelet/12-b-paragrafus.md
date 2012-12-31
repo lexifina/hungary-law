@@ -28,7 +28,7 @@ h) a pályázatok elbírálásának szempontrendszerét, határidejét.
 
 (7)[^117] A pályázat eredménytelen akkor is, ha a pályázati hirdetményben vagy e jogszabályban foglalt előírásokat figyelembe véve a bányászati jog jogosultja nem jelölhető ki.
 
-(8)[^118] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet ismételten meghirdeti. A pályázat ismételt eredménytelensége esetén a bányafelügyelet megkeresi a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban: MNV Zrt.), azzal, hogy 10 napon belül igényt jelenthet be a bányatelek bányászati jogára.
+(8)[^118] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet ismételten meghirdeti. A pályázat ismételt eredménytelensége esetén a bányafelügyelet megkeresi a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban: MNV Zrt.) azzal, hogy a megkeresés kézhezvételétől számított 20 napon belül igényt jelenthet be a bányatelek bányászati jogára. Az MNV Zrt. igénybejelentése esetén az MBFH a bányászati jog új jogosítottjaként az MNV Zrt.-t jelöli ki.
 
 (9)[^119] Ha az MNV Zrt. a (8) bekezdésben meghatározott határidőn belül nem jelent be igényt a bányatelek bányászati jogára, a bányafelügyelet intézkedik a fennmaradó kötelezettségeknek a Bt. 41. § (7) bekezdése szerinti biztosíték terhére történő teljesítéséről, ezt követően megkeresi az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból való törlése céljából.
 
@@ -38,5 +38,5 @@ h) a pályázatok elbírálásának szempontrendszerét, határidejét.
 [^115]: A Vhr. 12/B. § (5) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^116]: A Vhr. 12/B. §-ának (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (5) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^117]: A Vhr. 12/B. § (7) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 12. §-a iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^118]: A Vhr. 12/B. § (8) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^118]: A Vhr. 12/B. § (8) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^119]: A Vhr. 12/B. § (9) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.

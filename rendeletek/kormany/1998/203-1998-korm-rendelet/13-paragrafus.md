@@ -34,9 +34,9 @@ hb) a kitermeléssel érintett területen (térrészben) nyilvántartott ásván
 
 hc) a kitermelt ásványi nyersanyag mennyiségét érintő veszteséget (termelvény-veszteség) és annak indokolását;
 
-i) a bányaművelés környezetre gyakorolt hatásának ismertetését, a káros környezeti hatások megelőzéséhez és csökkentéséhez szükséges intézkedéseket, a hatások megfigyelésének módját, az ehhez szolgáló létesítmények, mérési helyek kialakításának, üzemeltetésének rendjét, valamint a hulladékgazdálkodási tervet;
+i)[^122] a bányaművelés környezetre gyakorolt hatásának ismertetését, a káros környezeti hatások megelőzéséhez és csökkentéséhez szükséges intézkedéseket, a hatások megfigyelésének módját, az ehhez szolgáló létesítmények, mérési helyek kialakításának, üzemeltetésének rendjét,;
 
-j) a tervezett tevékenységgel összefüggésben várható kötelezettségekről és ezek számított költségeiről szóló kimutatást, a kötelezettségek teljesítésének pénzügyi fedezetére a bányavállalkozó által ajánlott biztosítéknyújtás módját és mértékét;
+j)[^123]
 
 k) a szénhidrogén feltárás, kitermelés és földgáztárolás esetében
 
@@ -50,7 +50,7 @@ kd) a tárgyidőszakban tervezett próbatermeltetéseket;
 
 l) az esetleges régészeti feltárás ütemezését, módszerét, a feltárást követően bolygatatlanul maradó régészeti lelőhely-részlet megőrzésére tett intézkedéseket.
 
-(4)[^122]
+(4)[^124]
 
 (5) A Bt. 29. §-a szerinti bányászati tevékenység esetén a bányavállalkozók az egymás tevékenységét közvetlenül érintő körben egyesített műszaki üzemi tervet kötelesek készíteni.
 
@@ -58,9 +58,11 @@ l) az esetleges régészeti feltárás ütemezését, módszerét, a feltárást
 
 (7) A tervtérkép tartalmi követelményeit a miniszter bányabiztonsági szabályzatban állapítja meg.
 
-(8)[^123] Ha a bányászati tevékenység folytatásához környezetvédelmi engedély, egységes környezethasználati engedély vagy környezetvédelmi működési engedély szükséges, akkor a kérelemhez mellékelni kell a jogerős környezetvédelmi engedélyt, egységes környezethasználati engedélyt vagy a környezetvédelmi működési engedélyt.
+(8)[^125] Ha a bányászati tevékenység folytatásához környezetvédelmi engedély, egységes környezethasználati engedély vagy környezetvédelmi működési engedély szükséges, akkor a kérelemhez mellékelni kell a jogerős környezetvédelmi engedélyt, egységes környezethasználati engedélyt vagy a környezetvédelmi működési engedélyt.
 
 [^120]: A Vhr. 13. §-a a 106/2005. (VI. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^121]: A Vhr. 13. § (2) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^122]: A Vhr. 13. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
-[^123]: A Vhr. 13. § (8) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan a 146/2012. (VII. 5.) Korm. rendelet 9. §-a iktatta be.
+[^122]: A Vhr. 13. § (3) bekezdés i) pontja a 411/2012. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^123]: A Vhr. 13. § (3) bekezdés j) pontját a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^124]: A Vhr. 13. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^125]: A Vhr. 13. § (8) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan a 146/2012. (VII. 5.) Korm. rendelet 9. §-a iktatta be.
