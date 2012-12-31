@@ -1,4 +1,4 @@
-23. § (1)[^55] Az állandó személyazonosító igazolvány kiadására irányuló eljárásban a kérelmező jogosultságát, személyazonosságát, állampolgárságát és a fényképnek az azonosításra alkalmasságát ellenőrizni kell. Ennek során a kérelem adatait egyeztetni kell az állandó személyazonosító igazolvány vagy a személyazonosságát igazoló más érvényes – vagy a 22. § (1) bekezdésében meghatározott – okmány adattartalmával, illetőleg a bemutatott okiratokban szereplő adatokkal. Újszülött esetében az igazolványt az anyakönyvvezető által továbbított adatok alapján kell kiadni.
+23. § (1)[^55] Az állandó személyazonosító igazolvány kiadására irányuló eljárásban a kérelmező jogosultságát, személyazonosságát, állampolgárságát és a fényképnek az azonosításra alkalmasságát ellenőrizni kell. Ennek során a kérelem adatait egyeztetni kell az állandó személyazonosító igazolvány vagy a személyazonosságát igazoló más érvényes – vagy a 22. § (1) bekezdésében meghatározott – okmány adattartalmával és a bemutatott okiratokban szereplő adatokkal. Újszülött esetében az igazolványt az anyakönyvvezető által továbbított adatok alapján kell kiadni.
 
 (2)[^56] A körzetközponti jegyző az egyeztetést a személyiadat- és lakcímnyilvántartásban tárolt adatokkal – a központi szerv közreműködésével – is elvégzi.
 
@@ -8,7 +8,7 @@
 
 (5)[^59] A kérelmező az állandó személyazonosító igazolvány kiadásáig, illetve a kiadást megtagadó vagy visszavonó döntés közléséig bármikor írásban kérheti, hogy az eljárást a továbbiakban a lakóhelye, ennek hiányában tartózkodási helye szerint illetékes körzetközponti jegyző folytassa le. Ebben az esetben az ügy iratait haladéktalanul át kell tenni a lakó- vagy tartózkodási hely szerint illetékes körzetközponti jegyzőhöz.
 
-[^55]: A 23. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^55]: A 23. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 3. § (5) bekezdésével megállapított és a 417/2012. (XII. 29.) Korm. rendelet 59. § b) pontja szerint módosított szöveg.
 [^56]: A 23. § (2) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének c) pontja szerint módosított szöveg.
 [^57]: A 23. § új (3) bekezdését a 9/2004. (I. 31.) Korm. rendelet 19. §-a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta.
 [^58]: A 23. § (4) bekezdését a 9/2004. (I. 31.) Korm. rendelet 19. §-a iktatta a szövegbe.
