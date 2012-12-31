@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-356-20-
 | 2011-05-01 | 2008-356-20-22.4 | 73/2011. (IV. 29.) Korm. rendelet |
 | 2011-07-01 | 2008-356-20-22.5 | 73/2011. (IV. 29.) Korm. rendelet |
 | 2012-07-01 | 2008-356-20-22.6 | 135/2012. (VI. 28.) Korm. rendelet |
+| 2012-12-31 | 2008-356-20-22.7 | 75/2010. (III. 25.) Korm. rendelet |
