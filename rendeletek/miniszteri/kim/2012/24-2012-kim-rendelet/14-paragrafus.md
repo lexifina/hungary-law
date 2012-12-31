@@ -1,3 +1,3 @@
-## 13. §[^11]
+## 13. §[^12]
 
-[^11]: A 13. § a 18. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^12]: A 13. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

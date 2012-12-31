@@ -1,3 +1,3 @@
-## 11. §[^9]
+## 11. §[^10]
 
-[^9]: A 11. § a 18. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^10]: A 11. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

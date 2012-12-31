@@ -4,7 +4,7 @@
 
 1. adat: jogszabály rendelkezése alapján a Civil Információs Portálon közzéteendő vagy e rendelet alapján elérhetővé tett tény, adat, nyilatkozat vagy egyéb dokumentum;
 
-2. adatfelelős: az a szerv vagy civil szervezet vezető tisztségviselője, amelynek vagy akinek kezelésében vagy ismeretében lévő adatot az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) rendelkezése alapján a Civil Információs Portálon nyilvánosságra kell hozni;
+2.[^1] adatfelelős: az a szerv, amelynek kezelésében vagy ismeretében lévő adatot az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) rendelkezése alapján a Civil Információs Portálon nyilvánosságra kell hozni;
 
 3. alapkezelő: a Nemzeti Együttműködési Alap (a továbbiakban: Alap) a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter (a továbbiakban: miniszter) rendeletében meghatározott kezelő szerve;
 
@@ -23,3 +23,5 @@
 10. szabályozott elektronikus ügyintézési szolgáltatás: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény X. fejezete szerinti szabályozott elektronikus ügyintézési szolgáltatás,
 
 11. testületi tag: az Alap tanácsának (a továbbiakban: Tanács) vagy kollégiumának tagja.
+
+[^1]: A 2. § 2. pontja az 56/2012. (XII. 29.) EMMI rendelet 20. §-ával megállapított szöveg.

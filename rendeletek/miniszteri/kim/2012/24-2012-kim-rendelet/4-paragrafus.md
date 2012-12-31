@@ -1,5 +1,5 @@
-## 3. §[^1]
+## 3. §[^2]
 
 ## 4. Az adatok közzététele
 
-[^1]: A 3. § a 18. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^2]: A 3. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

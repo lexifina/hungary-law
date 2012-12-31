@@ -1,3 +1,3 @@
-## 6. §[^4]
+## 6. §[^5]
 
-[^4]: A 6. § a 18. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^5]: A 6. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

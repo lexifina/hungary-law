@@ -1,4 +1,4 @@
-## 15. §[^13]
+## 15. §[^14]
 
 ## 8. Civil információs centrumok
 
@@ -10,4 +10,4 @@
 
 (4) A nyilvános pályázat nyerteseivel a miniszter határozott idejű szakmai együttműködési megállapodást köt. A határozott idő elteltével a cím viselésére vonatkozó jogosultság megszűnik.
 
-[^13]: A 15. § a 18. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^14]: A 15. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
