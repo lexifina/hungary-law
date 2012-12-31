@@ -32,4 +32,6 @@ Határidő: a Közalapítvány törlését követően azonnal
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti az Összefogás a Budapesti Lakástalanokért és Hajléktalan Emberekért Közalapítvány megszüntetéséről szóló 1169/2011. (V. 26.) Korm. határozat.
+6.[^2]
+
+[^2]: A határozat 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
