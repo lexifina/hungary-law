@@ -1,3 +1,0 @@
-## 11. § Az R. a következő 11/B. §-sal egészül ki:
-
-## „11/B. § Az Eximbank az Európai Bizottság számára készítendő éves tevékenységi jelentéshez a 2. mellékletben e rendelet hatálya alá tartozóan az 1. § (1) bekezdés a) pont aa) és ab) alpontjában szereplő ügyletekkel kapcsolatban szolgáltat adatot. A jelentésben azokat az ügyleteket, amelyekhez az Eximbank és a Magyar Exporthitel Biztosító Részvénytársaság közösen nyújtott hivatalos támogatást, az Európai Uniónak és az OECD-nek megküldött jelentések esetén követett gyakorlatnak megfelelően csak az egyik intézmény szerepeltetheti. Az Eximbank a tevékenységi jelentésben megadja közérdekű adatai elektronikus elérhetőségét is és határidőben gondoskodik ezek nyilvánosan hozzáférhetővé tételéről.”
