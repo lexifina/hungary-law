@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2012-07-06 | 2012. évi XCIII. törvény | 1992-33-00-00.81 |
 | 2012-07-07 | 2012. évi XCVI. törvény | 1992-33-00-00.82 |
 | 2012-12-30 | 2009. évi CXXVI. törvény | 1992-33-00-00.83 |
+| 2012-12-31 | 2009. évi CXXVI. törvény | 1992-33-00-00.84 |
