@@ -1,0 +1,3 @@
+96. § A munkavédelemről szóló 1993. évi XCIII. törvény 88. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.”
