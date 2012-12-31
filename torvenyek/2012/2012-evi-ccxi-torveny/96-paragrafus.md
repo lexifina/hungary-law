@@ -31,11 +31,3 @@ n) 80. §-a az Alaptörvény XXIX. cikk (3) bekezdése,
 o) 82. §-a az Alaptörvény 31. cikk (3) bekezdése
 
 alapján.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
