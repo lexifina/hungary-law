@@ -42,6 +42,6 @@
 
 | 2200 | Hőközvetítő anyag recirkulációjával nyert geotermikus energia | Azon geotermikus energia, amelynek kinyerése hőközvetítő anyagnak a földkéregben történő recirkuláltatásával történik. | 325 |
 
-2. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^25]
+2. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^27]
 
-[^25]: A 2. melléklet a 251/2011. (XII. 1.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. melléklet a 251/2011. (XII. 1.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.

@@ -84,6 +84,6 @@
 
 |  |  | 100 |
 
-3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^26]
+3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^28]
 
-[^26]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^28]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
