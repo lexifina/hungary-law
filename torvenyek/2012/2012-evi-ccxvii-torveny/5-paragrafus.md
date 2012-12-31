@@ -1,5 +1,0 @@
-5. § (1) Az üzemeltető értesíti a hatóságot valamennyi, a létesítményben folytatott tevékenységének, tevékenységi körének, alkalmazott technológiájának vagy működésének megváltoztatására, a létesítmény kapacitásának bővítésére vagy jelentős csökkentésére irányuló szándékáról, amelyhez az üvegházhatású gáz kibocsátására vonatkozó engedély módosítására lehet szükség.
-
-(2) A hatóság az (1) bekezdés szerinti értesítésben foglaltakat megvizsgálja és amennyiben az értesítésben foglalt tervezett változtatások megvalósulása esetén a kibocsátási engedély módosítása szükséges, felhívja az üzemeltetőt, hogy a hatóság felhívásától számított 8 napon belül nyújtson be kérelmet a kibocsátási engedély módosítása iránt. A kibocsátási engedély módosítására vonatkozó kérelem elbírálására a kibocsátási engedély elbírálására vonatkozó szabályokat kell alkalmazni.
-
-(3) Ha a létesítmény üzemeltetőjének személye változik, a hatóság az üzemeltető adatainak megváltoztatásával módosítja a kibocsátási engedélyt. Ebben az esetben a kibocsátási engedély tekintetében az új üzemeltető a korábbi üzemeltető helyébe lép.
