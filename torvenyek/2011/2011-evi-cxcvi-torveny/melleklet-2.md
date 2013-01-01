@@ -387,7 +387,3 @@
 ## 9. HAJDÚ-BIHAR MEGYE
 
 ## | 130. | DEBRECEN Déri tér 1. | Déri Múzeum | 131. | DEBRECEN, Egyetem tér 1. | Kossuth Lajos Tudományegyetem | 132. | DERECSKE Nyárfa utca 30. | tájház | 133. | HAJDÚBÖSZÖRMÉNY Kossuth u. 1. | Hajdúkerületi Székház | 134. | HORTOBÁGY a 33. sz. főút (71+879 szelvény) | Nagyhortobágyi kőhíd | 135. | HORTOBÁGY Petőfi tér 1. | Nagyhortobágyi csárda | 136. | HORTOBÁGY Petőfi tér | egykori szekérállás | 137. | NAGYKEREKI, Bocskai tér | Bocskai várkastély és magtár
-
-## 10. HEVES MEGYE
-
-## | 138. | EGER Dózsa György tér 3. | Validé Szultana török fürdő romjai | 139. | EGER | vár és erődrendszer romjai | 140. | EGER Knézich K. u. | minaret | 141. | ERDŐTELEK Fő u. 129. | Buttler-kastély és parkja | 142. | HATVAN Kossuth tér | Grassalkovich-kastély és parkja | 143. | NOSZVAJ Dobó u. 10. | De la Motte-kastély és parkja | 144. | PARÁD Sziget u. 8. | falumúzeum | 145. | SIROK | várrom

@@ -42,9 +42,17 @@ c) a hasznosításban – a hasznosítóval közvetlen vagy közvetett módon jo
 
 (13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása céljából, a közfeladat ellátásához szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe.
 
-(14)
+(14) Nemzeti vagyonba tartozó állami tulajdonú ingatlant használó központi költségvetési szerv – a (15) bekezdésben meghatározott eseteket kivéve – a rábízott állami tulajdonú ingatlant vagy ingatlanrészt nem hasznosíthatja, az ingatlanra vagy annak bármely részére vonatkozóan a használatot bármely címen átengedő szerződést nem köthet, továbbá a rábízott állami tulajdonú ingatlanon beruházást, felújítási tevékenységet nem végezhet, és nem végeztethet.
 
-(15)
+(15) A (14) bekezdésben foglalt tilalom nem vonatkozik arra az esetre, ha:
+
+a) törvény vagy kormányrendelet az érintett központi költségvetési szerv kötelező alapfeladataként nevesíti a (14) bekezdésben megjelölt tevékenységeket;
+
+b) az ingatlan az Országgyűlés Hivatala vagyonkezelésében van, vagy a (14) bekezdésben meghatározott tevékenység összefügg az Országgyűlés Hivatala vagyonkezelésében lévő ingatlan fejlesztését szolgáló beruházással;
+
+c) az állami tulajdonú ingatlant használó központi költségvetési szerv számára a (14) bekezdésben megjelölt tevékenység végzését az arra jogosult központi költségvetési szervvel vagy az állami vagyonról szóló törvény szerinti tulajdonosi joggyakorló szervvel kötött szerződése lehetővé teszi; vagy
+
+d) központi költségvetési szerv Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme mint kötelező alapfeladat ellátásához törvény által rendelkezésre bocsátott ingatlant érintően végzi a (14) bekezdésben megjelölt tevékenységeket.
 
 (16) Törvényben, valamint a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében törvényben vagy a helyi önkormányzat rendeletében meghatározott értékhatár feletti nemzeti vagyont hasznosítani – ha törvény kivételt nem tesz – csak versenyeztetés útján, az összességében legelőnyösebb ajánlatot tevő részére, a szolgáltatás és ellenszolgáltatás értékarányosságával lehet.
 

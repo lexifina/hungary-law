@@ -32,7 +32,7 @@ a) a helyi közutak és műtárgyaik létrehozása és működtetése,
 
 b) a helyi önkormányzat tulajdonába tartozó nemzetközi kereskedelmi repülőtér létrehozása és működtetése – a földi kiszolgálási tevékenység kivételével – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 
-c) a menetrend szerinti helyi személyszállítás,
+c) a menetrend szerinti helyi személyszállítási szolgáltatás és a menetrend szerinti helyi különcélú személyszállítási szolgáltatás,
 
 d) a törzsvagyon részét képező helyi közművek létrehozása és működtetése,
 
@@ -40,7 +40,7 @@ e) a törzsvagyon részét képező terek, parkok felszíne alatt építmény l�
 
 f) a helyi önkormányzat kizárólagos tulajdonában álló – külön törvény rendelkezése alapján részére átadott – vizek, közcélú vízi létesítmények működtetése.
 
-(3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát, a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át. A kizárólagos gazdasági tevékenységek közül az (1) bekezdés d), és h)–j) pontja esetén az állam, a (2) bekezdés a)–b), d)–e) pontja esetén a helyi önkormányzat a nemzeti vagyon létrehozását és működtetését vagy kizárólag annak működtetését engedheti át e törvény rendelkezései szerint. A koncesszióról szóló törvény szerinti koncessziós szerződés határozott időtartamra köthető, amelynek leghosszabb ideje harmincöt év. Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós törvény szerinti koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – történő meghosszabbítását abban az esetben, ha a koncesszióba vevő és a koncessziós társaság valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. A közbeszerzésekről szóló törvény szerinti építési, illetve szolgáltatási koncesszió a nemzeti vagyon tekintetében határozott időre, legfeljebb 35 évre adható.
+(3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát, a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át. A kizárólagos gazdasági tevékenységek közül az (1) bekezdés d), és h)–k) pontja esetén az állam, a (2) bekezdés a)–b), d)–e) pontja esetén a helyi önkormányzat a nemzeti vagyon létrehozását és működtetését vagy kizárólag annak működtetését engedheti át e törvény rendelkezései szerint. A koncesszióról szóló törvény szerinti koncessziós szerződés határozott időtartamra köthető, amelynek leghosszabb ideje harmincöt év. Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós törvény szerinti koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – történő meghosszabbítását abban az esetben, ha a koncesszióba vevő és a koncessziós társaság valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. A közbeszerzésekről szóló törvény szerinti építési, illetve szolgáltatási koncesszió a nemzeti vagyon tekintetében határozott időre, legfeljebb 35 évre adható.
 
 (4) Az állam kizárólagos tulajdonában álló Szent Korona és a hozzá tartozó jelvények használata másnak nem engedhető át. A Szent Korona és a hozzá tartozó jelvények őrzésére, szállítására, tárolására kizárólag az állam és költségvetési szerv jogosult külön jogszabályban rögzített feltételek szerint.
 

@@ -26,7 +26,7 @@ i) az állami tulajdonban lévő nemzetközi kereskedelmi repülőtér, a hozzá
 
 j) a barlang,
 
-k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat.
+k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat,
 
 l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
 
