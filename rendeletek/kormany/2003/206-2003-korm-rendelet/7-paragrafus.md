@@ -1,4 +1,4 @@
-7. § (1)[^6] Az oktatásért felelős miniszter által meghatározott, a határon túli pedagógusok továbbképzésére rendelkezésre álló éves keretszám elosztása a beérkezett kérelmek számának ismeretében, a rangsorolás elveinek figyelembevételével az Oktatási Tanács javaslata alapján történik.
+7. § (1)[^7] Az oktatásért felelős miniszter által meghatározott, a határon túli pedagógusok továbbképzésére rendelkezésre álló éves keretszám elosztása a beérkezett kérelmek számának ismeretében, a rangsorolás elveinek figyelembevételével az Oktatási Tanács javaslata alapján történik.
 
 (2) Ha az egyéni jelentkezők száma meghaladja a teljesíthető kérelmek számát, a továbbképzési központ a benyújtott kérelmeket rangsorba állítja. A rangsorban előbb álló kérelem teljesítése megelőzi a rangsorban hátrébb lévő kérelem teljesítését.
 
@@ -12,4 +12,4 @@ b) aki régebben vett részt magyarországi pedagógus- továbbképzésben.
 
 (5) Az Oktatási Tanács kezdeményezésére szervezett továbbképzés résztvevőire a Tanács tesz javaslatot, s küldi meg az adatokat a továbbképzési központnak.
 
-[^6]: A 7. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 310. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 7. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 310. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
