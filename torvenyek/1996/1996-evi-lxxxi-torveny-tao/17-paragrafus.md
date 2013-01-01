@@ -14,17 +14,17 @@
 
 (7) Átalakulás esetén a jogutód a jogelődnél keletkezett elhatárolt veszteségnek a jogelőd vagyonából a vagyonmérleg szerinti részesedése arányában számított, az adózás előtti eredmény csökkentéseként még el nem számolt részére, valamint kedvezményezett eszközátruházás esetén az átvevő társaság az átruházó társaságnál keletkezett, az önálló szervezeti egységnek betudható elhatárolt veszteségre – a jogelődnél, illetve az átruházó társaságnál eltelt időt is beszámítva – az (1)–(3) bekezdés rendelkezéseit a (8) bekezdésre figyelemmel alkalmazza. Ez a rész kiválás esetén a jogelőd, kedvezményezett eszközátruházás esetén az átruházó társaság elhatárolt veszteségét csökkenti.
 
-(8) A jogutód társaság csak akkor jogosult az átalakulás útján átvett elhatárolt veszteség felhasználására,
+(8) A jogutód társaság csak akkor jogosult az átalakulás útján átvett elhatárolt veszteség felhasználására (ideértve kiválás esetén a fennmaradó adózó vagyonmérleg szerinti részesedése alapján meghatározott elhatárolt veszteségét is), ha
 
-a) ha az átalakulás során benne – a Ptk. rendelkezéseinek megfelelő alkalmazásával meghatározott – közvetlen vagy közvetett többségi befolyást olyan tag, részvényes szerez (rendelkezik), amely vagy amelynek kapcsolt vállalkozása a jogelődben ilyen befolyással az átalakulás napját megelőző napon rendelkezett, és
+a) az átalakulás során benne – a Ptk. rendelkezéseinek megfelelő alkalmazásával meghatározott – közvetlen vagy közvetett többségi befolyást olyan tag, részvényes szerez (rendelkezik), amely vagy amelynek kapcsolt vállalkozása a jogelődben ilyen befolyással az átalakulás napját megelőző napon rendelkezett, és
 
-b) ha a jogutód társaság (kiválás esetén a kiváló társaság) az átalakulást követő két adóévben a jogelőd által folytatott legalább egy tevékenységből (ide nem értve a vagyonkezelési tevékenységet) bevételt, árbevételt szerez.
+b) a jogutód társaság az átalakulást követő két adóévben a jogelőd által folytatott legalább egy tevékenységből bevételt, árbevételt szerez. Nem kell e feltételt teljesíteni, ha az adózó az átalakulást követő két adóéven belül jogutód nélkül megszűnik, továbbá, ha a jogelőd tevékenysége kizárólag vagyonkezelésre irányult.
 
 (9) Az adózó nem jogosult az adóévben és az azt megelőző bármely adóévben keletkezett elhatárolt veszteség felhasználására, ha benne olyan adózó szerez – a Ptk. rendelkezéseinek megfelelő alkalmazásával megállapított – közvetlen vagy közvetett többségi befolyást (ide nem értve az átalakulással történő részesedés szerzést), amely e befolyása megszerzését megelőző két adóévben (a jogelődje tagi, részvényesi jogviszonyát is figyelembe véve) nem állt folyamatosan az adózóval vagy jogelődjével kapcsolt vállalkozási viszonyban. E rendelkezés hatálya nem terjed ki az adózóra
 
 a) ha a többségi befolyás megszerzését megelőzően az általa vagy a többségi befolyást megszerző társaság által kibocsátott részvényeknek legalább egy részét a tőkepiacról szóló törvényben meghatározott szabályozott piacra már bevezették, vagy
 
-b) ha a társaság a tevékenységét a többségi befolyás megszerzését követő két adóévben tovább folytatja és
+b) ha a társaság a tevékenységét a többségi befolyás megszerzését követő két adóévben tovább folytatja (ide nem értve a jogutód nélküli megszűnés esetét) és
 
 ba) annak természete jelentősen nem tér el a többségi befolyás megszerzését megelőzően végzett tevékenységtől, azzal, hogy a tevékenység jelentős változását jelenti különösen az üzleti tevékenység során nyújtott szolgáltatások, értékesített termékek, kezelt vagyon, értékesítési piac, ügyfélkapcsolatok körének az alapvető változása, ideértve, ha a kereskedelmi, termelői, szolgáltatói tevékenységet vagyonkezelői tevékenység váltja fel,
 
@@ -35,3 +35,5 @@ bb) a tevékenységből mindkét adóévben bevételt, árbevételt szerez.
 (11) Amennyiben az adózó döntése arra irányul, hogy a fizetendő adója az elhatárolt veszteség (2) bekezdés szerinti teljes körű levonásával kerüljön megállapításra, akkor ezt az önellenőrzés és az adóellenőrzés során is figyelembe kell venni.
 
 (12) Amennyiben az adózó adókötelezettsége a felszámolási eljárás (annak megfelelő más eljárás) befejezését követő napon folytatódik, az adózó az (1)–(3) bekezdésben, illetve a VII. fejezetben foglaltakat alkalmazza a felszámolás kezdő napját megelőző napig keletkezett, és az adózás előtti eredmény csökkentéseként még nem érvényesített elhatárolt veszteségre, azzal, hogy a felszámolási időszak egy adóévnek minősül.
+
+(13) A (2) bekezdéstől eltérően, amennyiben az adózóval szemben kezdeményezett csődeljárás vagy felszámolási eljárás jogerős bírósági végzéssel jóváhagyott egyezséggel szűnik meg, akkor a korábbi adóévek elhatárolt vesztesége legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékának az egyezségre tekintettel elengedett (rendkívüli bevételként elszámolt, időbelileg el nem határolt) kötelezettség felével növelt összegben számolható el az adózás előtti eredmény csökkentéseként.

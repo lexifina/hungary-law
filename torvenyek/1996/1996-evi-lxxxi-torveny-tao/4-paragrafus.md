@@ -26,7 +26,7 @@ e)
 
 5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben, jogi személyiséggel nem rendelkező társas cégben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 30 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 30 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 30 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
 
-5/a. bejelentett immateriális jószág: jogdíjbevételre jogosító immateriális jószág (szellemi termék, vagyoni értékű jog) szerzése, feltéve, hogy az adózó a szerzést követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjbevételre jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett;
+5/a. bejelentett immateriális jószág: jogdíjbevételre jogosító immateriális jószág (szellemi termék, vagyoni értékű jog) szerzése, előállítása feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja, előállítás napjának a használatba vétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjbevételre jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő;
 
 6. belföld: Magyarország területe, ideértve a vámszabad- és a tranzitterületet is;
 
@@ -40,7 +40,9 @@ e)
 
 10. célszervezet: miniszter által a teljes adóévre ilyennek kijelölt gazdasági társaság, szövetkezet (a lakásszövetkezet kivételével) és egyes jogi személyek vállalata;
 
-10/a. elismert tőzsde: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
+10/a. egyház: az adóév utolsó napján a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény mellékletében meghatározott egyháznak minősülő adózó és annak belső egyházi jogi személye;
+
+10/b. elismert tőzsde: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
 
 11. ellenőrzött külföldi társaság: az a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű (a továbbiakban együtt: külföldi társaság), amelyben a külföldi társaság adóéve napjainak többségében a személyi jövedelemadóról szóló törvény szerint belföldi illetőségű tényleges tulajdonos (a továbbiakban: részesedéssel rendelkező) van, valamint az a külföldi társaság, amelynek az adóévben elért bevételei többségében magyarországi forrásból származnak, bármely esetben akkor, ha a külföldi társaság által az adóévre fizetett (fizetendő), adóvisszatérítéssel csökkentett társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 10 százalékot vagy a külföldi társaság nulla vagy negatív adóalap miatt nem fizet társasági adónak megfelelő adót, bár eredménye pozitív; nem kell e rendelkezést alkalmazni, ha a külföldi társaság székhelye, illetősége az Európai Unió tagállamában, az OECD tagállamában vagy olyan államban van, amellyel Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére és amely államban valódi gazdasági jelenléttel bír, azzal, hogy
 
@@ -48,7 +50,7 @@ a) valódi gazdasági jelenlétnek minősül a külföldi társaság és az adot
 
 b) befektetői tevékenységnek minősül a tulajdoni részesedést jelentő tartós befektetés, a hitelviszonyt megtestesítő értékpapír megszerzése, tartása és elidegenítése, valamint az adott államban az értékpapírokra, befektetési szolgáltatásokra vonatkozó jogszabályok által szabályozott illetve a pénzügyi szolgáltatási, befektetési szolgáltatási tevékenység felügyeletét ellátó hatóság által felügyelt illetve engedélyezett alap, társaság vagy egyéb szervezet, továbbá az adott állam illetékes hatóságának engedélyével rendelkező alapkezelő által kezelt, ugyanazon országban alapított vagy bejegyzett alap, társaság vagy egyéb szervezet befektetése, illetve tevékenysége;
 
-c) nulla vagy negatív eredmény és adóalap esetén a külföldi állam által jogszabályban előírt társasági adónak megfelelő adó mértékének kell elérnie a 10 százalékot;
+c) nulla vagy negatív eredmény és adóalap esetén a külföldi állam által jogszabályban előírt társasági adónak megfelelő adó mértékének (amennyiben a külföldi állam az adóalap összegétől függően több társasági adónak megfelelő adómértéket alkalmaz, akkor a legkisebb mértéknek) kell elérnie a 10 százalékot;
 
 d) a külföldi társaság adóéve alatt a részesedéssel rendelkező adóévének utolsó napján vagy napjáig lezárult utolsó adóévet kell érteni;
 
@@ -58,7 +60,7 @@ f) e rendelkezés alkalmazásában tényleges tulajdonosnak minősül az a magá
 
 g) nem minősül ellenőrzött külföldi társaságnak a külföldi társaság, amelyben az adóév első napján már legalább öt éve elismert tőzsdén jegyzett személy vagy kapcsolt vállalkozása az adóév minden napján legalább 25 százalékos részesedéssel rendelkezik;
 
-h) e rendelkezésben foglaltakat az adózó köteles bizonyítani;
+h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi jogállás közvetett fennállásának kivételével – az adózó köteles bizonyítani;
 
 12. előkészítő vagy kisegítő jellegű tevékenység: kizárólag a külföldi személy részére végzett olyan tevékenység, amely nem tartozik a külföldi személy társasági szerződésben meghatározott tevékenységi körébe, de az abban meghatározott tevékenységek végzését segíti, készíti elő;
 
@@ -71,6 +73,8 @@ h) e rendelkezésben foglaltakat az adózó köteles bizonyítani;
 16. építkezés kezdetének napja: az építési, szerelési naplóban az építkezés kezdő napjaként megjelölt nap, alvállalkozó esetén az építési, szerelési naplóban megjelölt kezdési időpont;
 
 16/a. foglalkoztatottak átlagos állományi létszáma: a Központi Statisztikai Hivatal által a munkaügyi-statisztikai adatszolgáltatáshoz kiadott, az adóév első napján hatályos kiadvány szerinti éves szinten számított statisztikai állományi létszám, azzal, hogy a kölcsönvett munkaerő a kölcsönvevőnél figyelembe vehető, amennyiben a kölcsönadó e létszámot a kölcsönadott munkaerő nélkül számítja fel, és erről az adóbevallás benyújtásáig írásban nyilatkozik a kölcsönvevőnek;
+
+16/b. foglalkoztatói nyugdíjszolgáltató intézmény: a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltató intézmény;
 
 17. független képviselő: az adózótól gazdaságilag és jogilag független személy, amely/aki a szokásos üzletmenete szerint jár el, amikor az adózót képviseli; nem számít szokásos üzletmenetnek, ha a képviselő olyan tevékenységet is végez, amely az adózó tevékenységi körébe tartozik; nem független a képviselő, ha üzleti tevékenységét az adózó részletes utasítása vagy átfogó ellenőrzése mellett végzi, vagy ha a kockázatot az adózó és nem a képviselő viseli;
 
@@ -148,7 +152,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 24/a.
 
-25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Országos Érdekegyeztető Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
+25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
 
 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 
@@ -162,7 +166,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
 
-30. pályakezdő: a munkavállaló a középfokú nevelési-oktatási vagy a felsőoktatási intézménnyel nappali képzés keretében fennálló jogviszonya megszűnését, illetve a tanulói jogviszonya tankötelezettség címén való megszűnését követő egy naptári éven belül létesített első munkaviszonyában, illetve első munkavégzésre irányuló egyéb jogviszonyában;
+30.
 
 30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
 
@@ -170,7 +174,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 30/c. szabályozott ingatlanbefektetési társaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési társaságként nyilvántartásba vett gazdasági társaság;
 
-31.
+31. szabad vállalkozási zóna: a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, a fejlesztés szempontjából együtt kezelt térség;
 
 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;
 
@@ -241,6 +245,8 @@ a) legmagasabb felnőtt bajnoki osztályában – a veterán korosztályokra ki�
 b) alsóbb bajnoki osztályaiban részt vevő (indulási jogot elnyert) sportszervezet abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz.
 
 Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakosztállyal) működő sportszervezet esetén az e törvényben a hivatásos sportszervezetekre előírt rendelkezéseket csak arra a jogi személy szervezeti egységre (szakosztályra) kell alkalmazni, amelyik az a)–b) pont szerinti versenyrendszerek bajnoki osztályaiban részt vesz.
+
+43/a. látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány: minden olyan, a sportról szóló törvényben meghatározott szabályok szerint működő utánpótlás-nevelés fejlesztését végző alapítvány, amelyik közhasznúnak minősül;
 
 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
 

@@ -36,4 +36,4 @@ bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított r�
 
 (9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
 
-(10) Az európai területi együttműködési csoportosulás az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.
+(10) Az európai területi együttműködési csoportosulás, és a foglalkoztatói nyugdíjszolgáltató intézmény az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.

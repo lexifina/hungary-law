@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2012-06-20 | 2012. évi LXIX. törvény | 1996-81-00-00.68 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1996-81-00-00.69 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 1996-81-00-00.70 |
+| 2013-01-01 | 2012. évi CLXXVIII. törvény | 1996-81-00-00.71 |

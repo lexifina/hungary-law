@@ -28,19 +28,25 @@ i) a jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (
 
 j) jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás
 
+k) a szabad vállalkozási zóna területén üzembe helyezett és üzemeltetett jelenértéken legalább 100 millió forint értékű beruházás,
+
+l) a jelenértéken legalább 100 millió forint értékű – külön jogszabályban meghatározott tanúsítvány által igazolt módon – energiahatékonyságot szolgáló beruházás
+
 üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén, feltéve, hogy a beruházás új létesítmény létrehozatalát, meglévő létesítmény bővítését vagy – az alapkutatást, alkalmazott kutatást vagy kísérleti fejlesztést szolgáló beruházást kivéve – az előállított termék, a nyújtott szolgáltatás, illetve a termelési, szolgáltatási folyamat alapvető változását eredményezi.
 
 (2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A kormányrendeletben meghatározott időtartam alatt összevonandó, jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó – kormányrendeletben meghatározott – elszámolható költség esetén az adózó az adókedvezményt a Kormány engedélye alapján, az engedélyben meghatározott feltételek szerint veheti igénybe. A Kormány az adókedvezményt az adózó kérelmére, a kérelemben bemutatott fejlesztési program alapján engedélyezi, ha a fejlesztési program és a kérelem megfelel az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott valamennyi feltételnek.
 
-(3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás megkezdése előtt
+(3) Az adókedvezmény igénybevételének feltétele, hogy az adózó
 
-a) a miniszternek bejelenti a kormányrendeletben meghatározott valamennyi adatot,
+a) a beruházás megkezdése előtt az adópolitikáért felelős miniszternek bejelenti a kormányrendeletben meghatározott valamennyi adatot, vagy
 
-b) az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tartalommal és formában benyújtja a miniszterhez, ha az adókedvezmény a Kormány engedélye alapján vehető igénybe.
+b) a beruházás megkezdése előtt az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tartalommal és formában benyújtja az adópolitikáért felelős miniszterhez, ha az adókedvezmény a Kormány engedélye alapján vehető igénybe,
+
+és a beruházás üzembe helyezését követően 90 napon belül az adópolitikáért felelős miniszternek bejelenti a beruházás befejezésének a napját.
 
 (4) A (3) bekezdés a) pontjában előírt bejelentés késedelmes teljesítése esetén igazolási kérelem előterjesztésének nincs helye, továbbá a beruházás megkezdését követően a bejelentés nem egészíthető ki, illetve nem módosítható.
 
-(5) Az adókedvezmény igénybevételének további feltétele, hogy a környezeti elemek védelme, valamint a környezetet veszélyeztető hatások elleni védelem érdekében, a beruházás üzembe helyezését követő öt évben hatályos, jogszabályban vagy hatósági határozatban megállapított határértéket a tényleges kibocsátási mutató ne haladja meg.
+(5) Az adókedvezmény a környezeti elemek védelme, valamint a környezetet veszélyeztető hatások elleni védelem érdekében, a beruházás üzembe helyezését követő 5 év során abban az adóévben nem vehető igénybe, amelyben az adózó a jogszabályban vagy hatósági határozatban megállapított kibocsátási határértéket jogerős határozattal megállapított módon túllépi.
 
 (6) Az adózó az adókedvezményt a beruházás üzembe helyezését követő adóévben – vagy döntése szerint a beruházás üzembe helyezésének adóévében – és az azt követő kilenc adóévben, legfeljebb a bejelentés, illetve a kérelem benyújtásának adóévét követő tizennegyedik adóévben veheti igénybe.
 
@@ -82,7 +88,7 @@ b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az ad
 
 (17) Az adózó a kormányrendeletben meghatározott adatokat társasági adóbevallásában beruházásonként feltünteti.
 
-(18) Az adóhatóság a rendelkezésére álló valamennyi adatról adózónként és beruházásonként haladéktalanul tájékoztatja a kincstárt, amely a kapott adatok felhasználásával, megkeresésre – törvénnyel kihirdetett nemzetközi szerződésben előírt tájékoztatási kötelezettség teljesítése érdekében – a miniszter részére adatot szolgáltat. A kincstár által a tájékoztatás révén megszerzett adatra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(18) Az adópolitikáért felelős miniszter a (3) bekezdésben meghatározott adatokról évente tájékoztatást nyújt az állami adóhatóság részére. Az adóhatóság a rendelkezésére álló valamennyi adatról adózónként és beruházásonként haladéktalanul tájékoztatja a kincstárt, amely a kapott adatok felhasználásával, megkeresésre – törvénnyel kihirdetett nemzetközi szerződésben előírt tájékoztatási kötelezettség teljesítése érdekében – a miniszter részére adatot szolgáltat. A kincstár által a tájékoztatás révén megszerzett adatra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 (19) Az adózó a (2) bekezdés alkalmazása esetén az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlást követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 60 nappal meghosszabbítható. A kérelem előterjesztését megelőzően az adópolitikáért felelős miniszter – ha szükséges – megkéri az Európai Bizottság hozzájárulását. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelemnek a Kormány elé terjesztését.
 

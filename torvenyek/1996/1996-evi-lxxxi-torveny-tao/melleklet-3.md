@@ -12,7 +12,9 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 1.
 
-2–3.
+2. a kisvállalati adó hatálya alá tartozó adózó részére visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó;
+
+3.
 
 4. az általános forgalmi adó nélkül 200 ezer forintot meghaladó szolgáltatás ellenértéke (vagy annak egy része), ha a körülmények (így különösen az adózó vállalkozási tevékenysége, árbevétele, a szolgáltatás jellege, a szolgáltatás ellenértéke) alapján egyértelműen megállapítható, hogy a szolgáltatás igénybevétele ellentétes az ésszerű gazdálkodás követelményeivel; az adóévben ugyanazon személytől ugyanazon jogcímen igénybe vett szolgáltatások ellenértékét együttesen kell figyelembe venni;
 
@@ -32,7 +34,7 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 12.
 
-13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredmény e a juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámoló elkészítését követően nyilatkozat útján igazol;
+13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából, visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke (ide nem értve az általános forgalmi adóról szóló törvény szerinti árumintát), az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredmény e juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámoló elkészítését követően nyilatkozat útján igazol;
 
 14. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére az adózó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
 
@@ -58,7 +60,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 6. az elektronikus hírközlési szolgáltatás (így különösen helyhez kötött telefonszolgáltatás és mobil rádiótelefon-szolgáltatás) használata, igénybevétele következtében felmerült költség, ráfordítás, továbbá a cégautó használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
 
-7. az adózó által a vele önkéntes jogviszonyban álló magánszemély részére személyi jellegű egyéb kifizetésként elszámolt összeg, ha az önkéntest az adózó gazdasági-vállalkozási tevékenysége érdekében foglalkoztatta;
+7. az adózó által a vele önkéntes jogviszonyban álló magánszemély részére személyi jellegű egyéb kifizetésként elszámolt összeg;
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy az adózónál jogszabályban meghatározott tanulószerződés alapján gyakorlati képzésben résztvevő szakképző iskolai tanuló;
 

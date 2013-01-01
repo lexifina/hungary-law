@@ -16,7 +16,7 @@ A társasági adóalanynak nem minősülő szervezetek
 
 7. a jogszabályban meghatározott közszolgálati médiaszolgáltatók,
 
-8. a felszámolás kezdő napjától a felszámolási eljárás alatt állók,
+8. a felszámolás kezdő napjától a felszámolási eljárás alatt állók, a kényszertörlési eljárás kezdő napjától a kényszertörlési eljárás alatt állók;
 
 9. a pártok,
 
@@ -29,3 +29,5 @@ A társasági adóalanynak nem minősülő szervezetek
 13. a költségvetési szervként működő felsőoktatási intézmény (ideértve az általa létrehozott intézményt is) és diákotthon,
 
 14. a Nemzeti Eszközkezelő Zrt.
+
+15. az az adózó, aki az adóévben a kisadózó vállalkozások tételes adójának alanya vagy a kisvállalati adó alanya.
