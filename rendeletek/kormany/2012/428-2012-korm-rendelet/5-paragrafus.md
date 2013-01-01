@@ -1,0 +1,9 @@
+5. § (1) A támogató a 4. § (2) bekezdés alapján megküldött képviselő-testületi jegyzőkönyvek – ideértve a testületi jegyzőkönyvek mellékleteit és a testületi döntések alapjául szolgáló előterjesztéseket is – alapján az 1. mellékletben meghatározott szempontrendszer szerint települési nemzetiségi önkormányzatonként, területi nemzetiségi önkormányzatonként meghatározza a feladatalapú költségvetési támogatásban való részesedésre vonatkozó pontszámokat.
+
+(2) Az (1) bekezdés szerinti pontszámokat és a képviselő-testületi ülések dátumát a támogató honlapján június 15-éig közzéteszi.
+
+(3) A települési nemzetiségi önkormányzat és a területi nemzetiségi önkormányzat a közzétételtől számított 15 napon belül észrevételt tehet. Az észrevételt a támogatóhoz elektronikus úton vagy papíralapon kell benyújtani. Az észrevétel beérkezésére nyitva álló határidő jogvesztő.
+
+(4) Az észrevételhez csatolni kell az észrevétel tárgyát alátámasztó dokumentumokat, bizonyításra alkalmas igazolásokat, így különösen a képviselő-testületi jegyzőkönyvek megküldési időpontjának igazolását, illetve a hiányzó képviselő-testületi jegyzőkönyveket.
+
+(5) Az észrevételt a támogató a beérkezését követő 15 napon belül megvizsgálja és a megalapozott észrevételeknek megfelelően az (1) bekezdés szerinti pontszámokat módosítja. A támogató a támogatási döntést a módosított pontszámok alapján július 31-éig hozza meg.
