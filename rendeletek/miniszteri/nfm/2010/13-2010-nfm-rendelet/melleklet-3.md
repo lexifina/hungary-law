@@ -82,7 +82,7 @@
 
 | tengelycsoport terhelés** <= megengedett érték 150%-a |
 
-| 6.2. | Kistérségi úthálózatra – a kiindulási cím és a tőle 50 km-en belül lévő úticélok közötti közlekedésre | Mezőgazdasági vontató, önjáró Vontatott Munkagép vagy Lassú jármű össztömeg <= 28 t | 0,6 |
+| 6.2. | Kiindulási cím és a tőle 30 km-en belül lévő úticélok közötti közlekedésre | Mezőgazdasági vontató, önjáró Vontatott Munkagép vagy Lassú jármű össztömeg <= 28 t | 0,6 |
 
 | 6.3. | Teljes úthálózatra érvényes | szélesség <= 3 m | 2,5 |
 
