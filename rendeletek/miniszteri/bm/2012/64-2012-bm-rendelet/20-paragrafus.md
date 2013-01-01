@@ -1,0 +1,17 @@
+20. § (1) Alapfelszerelés-kiegészítésre jogosult
+
+a) az Országgyűlési Őrségen belül a hivatásos állomány
+
+aa) polgári ruhás állományból vegyes vagy egyenruhás állományba,
+
+ab) vegyes ruhás állományból egyenruhás állományba
+
+átsorolt tagja, vagy
+
+b) a hivatásos állomány tábornokká kinevezett tagja.
+
+(2) Az alapfelszerelés-kiegészítésben részesülők a tárgyévben kifizetett ruházati utánpótlási ellátmány teljes összegére jogosultak.
+
+(3) A hivatásos állomány tagja magasabb rendfokozatba történő kinevezésekor valamint előléptetésekor jogosult 1 pár rendfokozati jelzéssel ellátott váll-lapra.
+
+(4) Ugyanazon igényjogosultnak az Országgyűlési Őrségen belül, két éven belül történt ismételt vagy többszöri áthelyezése, illetve átsorolása esetén az Országgyűlési Őrség parancsnoka dönt az igényjogosult újbóli ellátásáról.

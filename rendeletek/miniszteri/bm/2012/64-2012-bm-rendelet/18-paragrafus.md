@@ -1,0 +1,7 @@
+18. § (1) Alapfelszereléskor és alapfelszerelés-kiegészítés során az igényjogosultak részére – természetbeni ellátás keretében – konfekcionált termékeket kell biztosítani. A méretes ruházatok, valamint lábbelik beszerzési ára csak azokra a termékekre és cikkekre fizethető ki, amelyekből az igényjogosult méretére konfekcionált kivitelű nem áll rendelkezésre.
+
+(2) A méretes és konfekcionált ár közötti különbözetet, valamint a méretre igazítás költségét az alapfelszerelésben és az alapfelszerelés-kiegészítésben részesülőknek az Országgyűlési Őrség nevére és címére kiállított számla ellenében ki kell fizetni. Ezen összeg elszámolását a 15. és 16. § alapján kell végrehajtani. Az alapfelszerelés és alapfelszerelés-kiegészítés keretében az igényjogosult részére – megfelelő méret esetén – a ruházati raktár készletében lévő I. osztályú, új ruházati termék is biztosítható. Az egyenruházati termékek és felszerelési cikkek a ruházati raktár használt készletéből is kiadhatók.
+
+(3) A hivatásos állomány részére rendszeresített egyenruházati termékeket és felszerelési cikkeket az igényjogosultak részére alapfelszerelésként természetben, térítésmentesen kell biztosítani. A térítésmentes természetbeni alapfelszerelést az Országgyűlés Hivatala biztosítja.
+
+(4) Az Országgyűlési Őrség parancsnoka által elrendelt, újonnan rendszeresített egyenruházat rendelkezésre bocsátása a ruházati utánpótlási ellátmány terhére történhet.

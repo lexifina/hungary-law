@@ -1,0 +1,9 @@
+3. § (1) A ruházati termékek és felszerelési cikkek meglétét, valamint az öltözködési előírások betartását a szolgálati elöljáró rendszeresen ellenőrzi. A ruházati termékek és felszerelési cikkek folyamatos utánpótlását az igényjogosult és – az Országgyűlési Őrség parancsnokának állományparancsa alapján, az általa kijelölt ruházati szakértő felügyeletével – a ruházati raktár végzi.
+
+(2) Ruházati szemlét évente legalább két alkalommal, a ruházati utánpótlási ellátmány kifizetését megelőzően és a harmadik negyedévben kell tartani az egyenruha-viselésre kötelezett hivatásos állomány öltözetének ellenőrzése érdekében. A ruházati szemle megtartására és a szemle során tapasztalt hiányosságok megszüntetésére az Országgyűlési Őrség parancsnoka intézkedik.
+
+(3) A ruházati szemle kiterjed az igényjogosultak ruházati termékeire és felszerelési cikkeire (beleértve azokat a ruházati termékeket és felszerelési cikkeket is, amelyeket az ellenőrzéskor nem visel), különös tekintettel a szolgálati öltözet, a munka- és védőruházat, valamint a riadócsomag hiánytalan meglétére, állagmegóvására, megfelelő tárolására, rendeltetésszerű használatára, minőségére, a ruházat egységes, az évszaknak megfelelő viseletére.
+
+(4) A ruházati szemléről jegyzőkönyvet kell készíteni, amelyben rögzíteni kell a szemle lefolytatását, eredményét.
+
+(5) A végrehajtott ruházati szemlékről és a hiányosságok megszüntetésére tett intézkedésekről, valamint a ruházati termékek és felszerelési cikkek ellátási tapasztalatairól szóló jelentést az Országgyűlési Őrség parancsnoka minden év január 31-ig felterjeszti az Országgyűlés elnökének.

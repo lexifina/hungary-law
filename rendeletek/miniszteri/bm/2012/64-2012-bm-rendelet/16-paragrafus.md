@@ -1,0 +1,3 @@
+16. § (1) A számlát elszámolás céljából az Országgyűlési Őrséghez kell benyújtani.
+
+(2) Ha az igényjogosult a ruházati utánpótlási ellátmánnyal nem vagy csak részben számol el, az Országgyűlési Őrség a számla benyújtására nyitva álló határidő elteltét követő 30 napon belül értesíti a ruházati utánpótlási ellátmányt folyósító szervet az igényjogosultnak az elszámolás után fennálló adó- és járulékfizetési kötelezettségéről. Adó- és járulékfizetési kötelezettség fennmaradása esetén az illetményfolyósító szerv gondoskodik a megfizetendő adó és járulék következő havi illetményből történő levonásáról.
