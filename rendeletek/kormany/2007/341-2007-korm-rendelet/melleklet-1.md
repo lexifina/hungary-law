@@ -1,3 +1,3 @@
-1. számú melléklet a 341/2007. (XII. 15.) Korm. rendelethez[^8]
+1–3. számú melléklet a 341/2007. (XII. 15.) Korm. rendelethez[^16]
 
-[^8]: Az 1. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 198. § (2) bekezdése szerint módosított szöveg.
+[^16]: Az 1–3. számú mellékletet a 281/2012. (X. 1.) Korm. rendelet 9. §-a hatályon kívül helyezte.
