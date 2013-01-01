@@ -1,6 +1,6 @@
-## 24. §[^1]
+## 24. §[^5]
 
-1. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^2]
+1. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^6]
 
 I. Az aktív és kúraszerű ellátások folyamatábrái
 
@@ -68,5 +68,5 @@ I. Az aktív és kúraszerű ellátások folyamatábrái
 
 II. A más intézetben folytatódó aktív fekvőbeteg ellátás folyamatábrája
 
-[^1]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 24. § (1) bekezdésével megállapított szöveg.
+[^5]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 24. § (1) bekezdésével megállapított szöveg.

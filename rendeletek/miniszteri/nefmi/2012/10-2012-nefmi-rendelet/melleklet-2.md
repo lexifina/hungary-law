@@ -1,4 +1,4 @@
-2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^3]
+2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^7]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
 
@@ -233,8 +233,6 @@ S0690 Koponyaűri sérülés, k.m.n.
 50203 Calvaria-plastica allo- vagy autografttal
 
 50215 Intracranialis vénás sinusok reconstructioja
-
-5387C Carotideo-cavernosus fistula endovasc. embolisatioja
 
 **** 01 001C Speciális intracranialis műtétek 18 év alatt
 
@@ -1410,17 +1408,15 @@ Q8584 Hemangioblastoma agytörzsi
 
 ÉS BEAVATKOZÁSOK "A"
 
+21041 Albumin meghatározása szérumban, immunturbidimetriás, immunnefelometriás módszerrel
+
+21042 Fehérjék elválasztása elfo-val agarózgélben
+
 22701 Haemoglobin kimutatása liquorban kémiai módszerrel
 
 22741 Liquor összfehérje meghatározása
 
-22742 Liquor elfo
-
 22743 Liquor albumin meghatározása
-
-22744 Liquor elfo immunfixálással
-
-22745 Liquor IgG meghatározása
 
 22746 Liquor/serum albumin és IgG arány számítása
 
@@ -1430,7 +1426,7 @@ Q8584 Hemangioblastoma agytörzsi
 
 25065 Punktátum, liquor, genny tenyésztése, csak aerob
 
-26031 Komplement kötési reakció, liquor KKR
+26030 Komplement kötési reakció /savó /vírus KRR
 
 26390 Escherichia AG kimutatása liquorban
 
@@ -1438,7 +1434,9 @@ Q8584 Hemangioblastoma agytörzsi
 
 26392 Haemophilus AG kimutatása liquorban
 
-2903M Liquor nephelometria
+26701 Fehérje azonosítása immunfixációval
+
+26780 IgG meghatározása
 
 3530B Liquor keringés izotópvizsgálata
 
@@ -1478,9 +1476,9 @@ Q8584 Hemangioblastoma agytörzsi
 
 2661C Kettősszálú DNS elleni antitest meghatározása
 
-26653 DNS AAT kimutatás (agglutináció)
+26650 Antinukleáris antitest (faktor, ANA, ANF) kimutatása
 
-26655 DNS AAT mennyiségi meghatározása
+26652 Antinukleáris antitest (faktor, ANA, ANF) mennyiségi meghatározása
 
 28945 Western Blotting
 
@@ -1542,17 +1540,15 @@ G3780 A központi idegrendszer egyéb meghatározott demyelinisatiós betegsége
 
 ÉS BEAVATKOZÁSOK "A"
 
+21041 Albumin meghatározása szérumban, immunturbidimetriás, immunnefelometriás módszerrel
+
+21042 Fehérjék elválasztása elfo-val agarózgélben
+
 22701 Haemoglobin kimutatása liquorban kémiai módszerrel
 
 22741 Liquor összfehérje meghatározása
 
-22742 Liquor elfo
-
 22743 Liquor albumin meghatározása
-
-22744 Liquor elfo immunfixálással
-
-22745 Liquor IgG meghatározása
 
 22746 Liquor/serum albumin és IgG arány számítása
 
@@ -1562,7 +1558,7 @@ G3780 A központi idegrendszer egyéb meghatározott demyelinisatiós betegsége
 
 25065 Punktátum, liquor, genny tenyésztése, csak aerob
 
-26031 Komplement kötési reakció, liquor KKR
+26030 Komplement kötési reakció /savó /vírus KRR
 
 26390 Escherichia AG kimutatása liquorban
 
@@ -1570,7 +1566,9 @@ G3780 A központi idegrendszer egyéb meghatározott demyelinisatiós betegsége
 
 26392 Haemophilus AG kimutatása liquorban
 
-2903M Liquor nephelometria
+26701 Fehérje azonosítása immunfixációval
+
+26780 IgG meghatározása
 
 3530B Liquor keringés izotópvizsgálata
 
@@ -1682,7 +1680,7 @@ BEAVATKOZÁSOK "B"
 
 BEAVATKOZÁSOK "C"
 
-06066 Alteplase
+06042 Alteplase
 
 "A" DIAGN. ÉS "B" BEAV. ÉS "F" TÍPUSKÉNT "C" BEAV.
 
@@ -3456,58 +3454,6 @@ I6716 Arteréria beasiláris nem rupturált aneurismája
 
 01181 Folyékony embolizáló rendszer agyi érmalformációk zárására
 
-**** 01 029B Nyaki és intracranialis PTA
-
-BETEGSÉGEK
-
-I6500 Az arteria vertebralis elzáródása vagy szűkülete
-
-I6510 Az arteria basilaris elzáródása vagy szűkülete
-
-I6520 Az arteria carotis elzáródása vagy szűkülete
-
-I6530 A praecerebralis art. többszörös vagy kétoldali elzáródása-szűkülete
-
-I6600 Az arteria cerebri media elzáródása és szűkülete
-
-I6610 Az arteria cerebri anterior elzáródása és szűkülete
-
-I6620 Az arteria cerebri posterior elzáródása és szűkülete
-
-I6630 Az arteriae cerebellares elzáródása és szűkülete
-
-I6640 Több, ill. bilaterális agyi arteria elzáródása és szűkülete
-
-I6700 Agyi ütőerek nem-rupturált dissectiója
-
-ÉS BEAVATKOZÁSOK
-
-33933 Intracranialis superselectiv thrombolysis
-
-53958 Intracranialis percutan transluminalis angioplastica
-
-53961 Nyaki percutan transluminaris angioplastica
-
-ÉS ESZKÖZÖK
-
-01170 1 v.2 lumenű femorocerebralis vezető katéter mikrokatéter bevez.-hez
-
-01171 Drót vezérelt femorocerebr.mikrokatéter neuro-endovascularis beav.-hoz
-
-01173 Mikrovezetődrót drótvezérelt mikrokatéterhez neuro-endovasc. beav.-hoz
-
-01177 Intravascularis stent intracranialis erek angioplasztikájához
-
-01178 Mikro-ballonkatéter intracranialis erek angioplasztikájához
-
-01179 Intraart.alk.fibrinolyticum intracran. ér superselect.fibrinolysiséhez
-
-01182 Vasculáris stent nyaki nagyerek angioplasztikájához
-
-01183 Ballon katéter nyaki nagyerek angioplasztikájához
-
-01184 Distális védőeszköz nyaki nagyerek angioplasztikájához
-
 **** 01 029C Fej, nyak, központi idegrendszer érmalformációinak, tumorainak endovascularis műtétei
 
 BETEGSÉGEK
@@ -3570,6 +3516,8 @@ S0680 Egyéb koponyaűri sérülések
 
 5387B Intraspin. érmalform. superselectív endovasc. embolisatioja
 
+5387C Carotideo-cavernosus fistula endovasc. embolisatioja
+
 5387D Intracranialis és intrasp. tumorok endovasc. embolisatioja
 
 5387E Extracranialis (arc, fej) malform. endovasc. embolisatioja
@@ -3601,6 +3549,14 @@ S0680 Egyéb koponyaűri sérülések
 **** 01 029D Fej, nyak, központi idegrendszer érmalformációinak, tumorainak endovascularis műtétei, speciális intracranialis műtéttel
 
 BETEGSÉGEK "A"
+
+C7000 Agyburkok rosszindulatú daganata
+
+C7010 Gerincvelő burkok rosszindulatú daganata
+
+D1800 Haemangioma, bármely lokalizációban
+
+D1801 A közp. idegrendsz. és/vagy burkainak haemangiomája
 
 D1820 Juvenilis angiofibroma
 
@@ -3664,6 +3620,8 @@ Q2882 A gerinc ereinek nem vérzett arteriovenosus rendellenessége - cervicalis
 
 Q2883 A gerinc ereinek nem vérzett arteriovenosus rendellenessége - thoracalis
 
+Q2884 A gerinc ereinek nem vérzett arteriovenosus rendellenessége – lumbosacralis
+
 Q8580 Egyéb, m.n.o. phakomatosisok
 
 Q8581 Hemangioblastoma cerebelli
@@ -3718,6 +3676,8 @@ BEAVATKOZÁSOK "D"
 
 5387B Intraspin. érmalform. superselectív endovasc. embolisatioja
 
+5387C Carotideo-cavernosus fistula endovasc. embolisatioja
+
 5387D Intracranialis és intrasp. tumorok endovasc. embolisatioja
 
 5387E Extracranialis (arc, fej) malform. endovasc. embolisatioja
@@ -3725,8 +3685,6 @@ BEAVATKOZÁSOK "D"
 53965 Intracranialis erek ballon teszt occlusioja
 
 BEAVATKOZÁSOK "E"
-
-53958 Intracranialis percutan transluminalis angioplastica
 
 ESZKÖZÖK "F"
 
@@ -3749,6 +3707,132 @@ ESZKÖZÖK "F"
 01180 Oszt.méretű embolizációs részecskék intracran.intraspin.ér embolis.hoz
 
 ("A" DIAGN. ÉS "C" BEAV. ÉS "D" BEAV. ÉS "F" ESZKÖZ) VAGY ("B" DIAGN. ÉS "C" BEAV. ÉS "E" BEAV. ÉS "F" ESZKÖZ)
+
+**** 01 029E Endovascularis aneurysma műtétek áramlásmódosítással a központi idegrendszer erein
+
+BETEGSÉGEK
+
+I6000 Subarachnoidealis vérzés a carotis szifonból és bifurcatióból
+
+I6010 Subarachnoidealis vérzés az arteria cerebri mediából
+
+I6020 Subarachnoidealis vérzés az arteria communicans anteriorból
+
+I6030 Subarachnoidealis vérzés az arteria communicans posteriorból
+
+I6040 Subarachnoidealis vérzés az arteria basilarisból
+
+I6050 Subarachnoidealis vérzés az arteria vertebralisból
+
+I6060 Subarachnoidealis vérzés egyéb koponyaűri artériákból
+
+I6710 Agyi aneurysma, nem-rupturált
+
+I6711 Artéria carotis interna nem rupturált aneurysmája
+
+I6712 Artéria communicans anterior nem rupturált aneurismája
+
+I6713 Artéria cerebri anterior nem rupturált aneurysmája
+
+I6714 Artéria cerebri media nem rupturált aneurysmája
+
+I6715 Artéria vertebralis és ágai nem rupturált aneurysmája
+
+I6716 Artéria basilaris nem rupturált aneurismája
+
+ÉS BEAVATKOZÁSOK
+
+5387G Intracranialis aneurysma endovascularis műtéte áramlásmódosítással
+
+ÉS ESZKÖZÖK
+
+01170 1 v. 2 lumenű femorocerebralis vezető katéter mikrokatéter bevez.-hez
+
+01171 Drót vezérelt femorocerebr.mikrokatéter neuro-endovascularis beav.-hoz
+
+01173 Mikrovezetődrót drótvezérelt mikrokatéterhez neuro-endovasc. beav.-hoz
+
+01175 Kontrolláltan leválasztható mikrospirálok intracran. erek zárásához
+
+01177 Intravascularis stent intracranialis erek angioplasztikájához
+
+01178 Mikro-ballonkatéter intracranialis erek angioplasztikájához
+
+01181 Folyékony embolizáló rendszer agyi érmalformációk zárására
+
+ÉS ESZKÖZÖK
+
+0117A Sűrűfonatú öntáguló intracranialis stent
+
+**** 01 029F Intracranialis PTA
+
+BETEGSÉGEK
+
+I6501 Az arteria vertebralis intracranialis elzáródása vagy szűkülete
+
+I6510 Az arteria basilaris elzáródása vagy szűkülete
+
+I6521 Az arteria carotis intracranialis elzáródása vagy szűkülete
+
+I6600 Az arteria cerebri media elzáródása és szűkülete
+
+I6610 Az arteria cerebri anterior elzáródása és szűkülete
+
+I6620 Az arteria cerebri posterior elzáródása és szűkülete
+
+I6630 Az arteriae cerebellares elzáródása és szűkülete
+
+I6640 Több, ill. bilaterális agyi arteria elzáródása és szűkülete
+
+I6700 Agyi ütőerek nem-rupturált dissectiója
+
+ÉS BEAVATKOZÁSOK
+
+33933 Intracranialis superselectiv thrombolysis
+
+53958 Intracranialis percutan transluminalis angioplastica
+
+ÉS ESZKÖZÖK
+
+01170 1 v. 2 lumenű femorocerebralis vezető katéter mikrokatéter bevez.-hez
+
+01171 Drót vezérelt femorocerebr.mikrokatéter neuro-endovascularis beav.-hoz
+
+01173 Mikrovezetődrót drótvezérelt mikrokatéterhez neuro-endovasc. beav.-hoz
+
+01177 Intravascularis stent intracranialis erek angioplasztikájához
+
+01178 Mikro-ballonkatéter intracranialis erek angioplasztikájához
+
+01179 Intraart.alk.fibrinolyticum intracran. ér superselect.fibrinolysiséhez
+
+**** 01 029G Nyaki PTA
+
+BETEGSÉGEK
+
+I6502 Az arteria vertebralis extracranialis elzáródása vagy szűkülete
+
+I6522 Az arteria carotis extracranialis elzáródása vagy szűkülete
+
+I6530 A praecerebralis art. többszörös vagy kétoldali elzáródása-szűkülete
+
+ÉS BEAVATKOZÁSOK
+
+53961 Nyaki percutan transluminaris angioplastica
+
+ÉS ESZKÖZÖK
+
+01170 1 v.2 lumenű femorocerebralis vezető katéter mikrokatéter bevez.-hez
+
+01171 Drót vezérelt femorocerebr.mikrokatéter neuro-endovascularis beav.-hoz
+
+01173 Mikrovezetődrót drótvezérelt mikrokatéterhez neuro-endovasc. beav.-hoz
+
+01182 Vasculáris stent nyaki nagyerek angioplasztikájához
+
+01183 Ballon katéter nyaki nagyerek angioplasztikájához
+
+01184 Distális védőeszköz nyaki nagyerek angioplasztikájához
 
 **** 01 057Z Nagy, rutin intracranialis műtétek és gerincműtétek súlyos társult betegséggel
 
@@ -7418,96 +7502,4 @@ C1014 A gégefedő mellső felszínének rosszindulatú daganata IV. stádium
 
 C1023 A szájgarat oldalsó falának rosszindulatú daganata III. stádium
 
-C1024 A szájgarat oldalsó falának rosszindulatú daganata IV. stádium
-
-C1033 A szájgarat hátsó falának rosszindulatú daganata III. stádium
-
-C1034 A szájgarat hátsó falának rosszindulatú daganata IV. stádium
-
-C1043 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata III. stádium
-
-C1044 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata IV. stádium
-
-C1083 A szájgarat átfedő elváltozása, rosszindulatú daganata III. stádium
-
-C1084 A szájgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
-
-C1093 Szájgarat rosszindulatú daganata, k.m.n. III. stádium
-
-C1094 Szájgarat rosszindulatú daganata, k.m.n. IV. stádium
-
-C1103 Az orrgarat felső falának rosszindulatú daganata III. stádium
-
-C1104 Az orrgarat felső falának rosszindulatú daganata IV. stádium
-
-C1113 Az orrgarat hátsó falának rosszindulatú daganata III. stádium
-
-C1114 Az orrgarat hátsó falának rosszindulatú daganata IV. stádium
-
-C1123 Az orrgarat oldalfalának rosszindulatú daganata III. stádium
-
-C1124 Az orrgarat oldalfalának rosszindulatú daganata IV. stádium
-
-C1133 Az orrgarat mellső falának rosszindulatú daganata III. stádium
-
-C1134 Az orrgarat mellső falának rosszindulatú daganata IV. stádium
-
-C1183 Az orrgarat átfedő elváltozása, rosszindulatú daganata III. stádium
-
-C1184 Az orrgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
-
-C1193 Orrgarat rosszindulatú daganata, k.m.n. III. stádium
-
-C1194 Orrgarat rosszindulatú daganata, k.m.n. IV. stádium
-
-C1203 A sinus pyriformis rosszindulatú daganata III. stádium
-
-C1204 A sinus pyriformis rosszindulatú daganata IV. stádium
-
-C1303 Gyűrűporc mögötti terület rosszindulatú daganata III. stádium
-
-C1304 Gyűrűporc mögötti terület rosszindulatú daganata IV. stádium
-
-C1313 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. III. stád.
-
-C1314 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. IV. stád.
-
-C1323 A hypopharynx hátsó falának rosszindulatú daganata III. stádium
-
-C1324 A hypopharynx hátsó falának rosszindulatú daganata IV. stádium
-
-C1383 A hypopharynx átfedő elváltozása, rosszindulatú dag. III. stádium
-
-C1384 A hypopharynx átfedő elváltozása, rosszindulatú dag. IV. stádium
-
-C1393 Hypopharynx rosszindulatú daganata, k.m.n. III. stádium
-
-C1394 Hypopharynx rosszindulatú daganata, k.m.n. IV. stádium
-
-C1403 Garat rosszindulatú daganata, k.m.n. III. stádium
-
-C1404 Garat rosszindulatú daganata, k.m.n. IV. stádium
-
-C1413 Laryngopharynx rosszindulatú daganata III. stádium
-
-C1414 Laryngopharynx rosszindulatú daganata IV. stádium
-
-C1423 Waldeyer-gyűrű rosszindulatú daganata III. stádium
-
-C1424 Waldeyer-gyűrű rosszindulatú daganata IV. stádium
-
-C1483 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. III.st.
-
-C1484 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. IV.st.
-
-C3003 Orrüreg rosszindulatú daganata III. stádium
-
-C3004 Orrüreg rosszindulatú daganata IV. stádium
-
-C3013 Középfül rosszindulatú daganata III. stádium
-
-C3014 Középfül rosszindulatú daganata IV. stádium
-
-C3103 Arcüreg rosszindulatú daganata III. stádium
-
-[^3]: A 2. melléklet a 24. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése szerint módosított szöveg.

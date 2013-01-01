@@ -22,4 +22,6 @@ c) az adott kórházi ellátás során, a kezelés következtében kialakult egy
 
 (9) Az „E” jelű, „A sérülések és mérgezések külső okai”-nak kiegészítő osztályozására kialakított BNO-kódokat (a BNO–10 S, T, V, W, X, Y betűvel kezdődő tételei) kötelezően kell használni, amikor a diagnózisok között megjelennek a sérülések, mérgezések, egyéb külső okok következményei. Ezt a jelzést akkor is alkalmazni kell, ha a T80-T88 kóddal, (Orvosi ellátás máshova nem osztályozott szövődményei”) „K” jelzéssel az állapot oka más jellemző kiemelésével már minősítésre került.
 
-(10) A morfológiai kódokat „M” jelzéssel minősítve kell rögzíteni. A morfológiai kódok alkalmazása kötelező minden olyan esetben, amikor az ellátást indokoló fődiagnózis, vagy az ellátást indokoló fődiagnózis alapjául szolgáló betegség, vagy a kísérőbetegség vagy a szövődmény daganatos betegség, és a daganatos betegség igazolása a szakma szabályai szerint legalább kórszövettani vizsgálattal, képalkotó eljárással, vagy molekuláris biológiai módszerrel megtörtént.
+(10)[^2] A morfológiai kódokat „M” jelzéssel minősítve kell rögzíteni. A morfológiai kódok alkalmazása kötelező minden olyan esetben, amikor az ellátást indokoló fődiagnózis, vagy az ellátást indokoló fődiagnózis alapjául szolgáló betegség, vagy a kísérőbetegség vagy a szövődmény daganatos betegség, és a daganatos betegség igazolása a szakma szabályai szerint legalább kórszövettani vizsgálattal megtörtént.
+
+[^2]: A 6. § (10) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 15. §-a szerint módosított szöveg.

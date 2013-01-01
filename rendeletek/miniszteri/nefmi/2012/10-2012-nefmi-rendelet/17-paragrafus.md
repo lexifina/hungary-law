@@ -14,15 +14,17 @@
 
 (7) A Kr. 14. számú mellékletében a „Beavatkozás minősítése az ellátásban elfoglalt helye szerint (M)” mezőt csak onkológiai daganatellenes kezelések és reoperáció esetén kell kitölteni.
 
-(8) A daganatellenes kezeléseknél meg kell jelölni a beavatkozás helyét a betegellátás folyamatában az alábbi kódok szerint:
+(8)[^4] A daganatellenes kezeléseknél meg kell jelölni a beavatkozás minősítését az ellátásban elfoglalt helye szerint (M):
 
-a) 1. adjuváns beavatkozás,
+a) 0. neoadjuváns beavatkozás,
 
-b) 2. első vonalbeli kezelés,
+b) 1. adjuváns beavatkozás,
 
-c) 3. másodvonalbeli kezelés,
+c) 2. első vonalbeli kezelés,
 
-d) 4. harmad vonalbeli kezelés.
+d) 3. másod vonalbeli kezelés,
+
+e) 4. harmad, illetve többed vonalbeli kezelés.
 
 (9) Az „M” mezőben 5 kódjelű reoperáció az a műtéti beavatkozás, amelyet egy megelőző, bármely egészségügyi szolgáltatónál végzett műtéti jellegű tevékenységet követően ugyanabban a régióban végeznek
 
@@ -39,3 +41,5 @@ a) az alapbetegség megjelölése, amely az a megbetegedés, ami korábban fenn�
 b) kórházi ellátást indokoló fődiagnózis megjelölése, az állapotnak megfelelően U9920 Status post sanationem BNO kóddal.
 
 (12) Aktív részszámlák esetén a legnagyobb felső határnapú HBCs felső határnapját meghaladó ápolási napokra számolhatók el hosszúnapok a hosszúnap elszámolás szabálya szerint. Azaz a legnagyobb felső határnapú HBCs felső határnapját meghaladó időtartamból intenzív osztályon töltött napokra intenzív hosszúnap jár, a többi osztályos ápolásra hosszúnap. A tényleges elszámolási csoport hosszúnapja szerint járó különbözet az eset lezárásakor kerül elszámolásra.
+
+[^4]: A 17. § (8) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 12. §-ával megállapított szöveg.
