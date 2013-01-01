@@ -1,0 +1,9 @@
+# 439/2012. (XII. 29.) Korm. rendelet
+
+a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-439-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-01 | 2012-439-20-22.1 | 439/2012. (XII. 29.) Korm. rendelet |
