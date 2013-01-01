@@ -1,23 +1,26 @@
-9. § (1) A felügyelőség a kérelem benyújtása után – a telepítés helye szerint illetékes önkormányzat területén – közmeghallgatást tart, kivéve, ha a tevékenység katonai titokvédelem alá esik, vagy ha a kérelmet benyújtását követően elutasította. A titkos katonai tevékenység környezeti hatásairól a felügyelőség a telepítés helye szerinti és az érintett települési önkormányzat jegyzőjét tájékoztatja.
+9. § (1)[^58] A felügyelőség közmeghallgatást tart, kivéve, ha a tevékenység katonai titokvédelem alá esik, vagy ha a kérelmet benyújtását követően elutasította. A titkos katonai tevékenység környezeti hatásairól a felügyelőség a telepítés helye szerinti és az érintett települési önkormányzat jegyzőjét tájékoztatja.
 
 (2) Több érintett település esetén, vagy ha az érintettek száma miatt ez indokolt, több helyszínen is tartható közmeghallgatás.
 
-(3) A közmeghallgatás helye a (1)–(2) bekezdés szerinti település(ek) önkormányzata által biztosított helyiség.
+(3)[^59] A közmeghallgatás céljára alkalmas önkormányzati helyiséget a telepítés helye szerint illetékes, illetve az egyéb érintett települési önkormányzat jegyzője térítésmentesen biztosítja. Ha ez az érintett nyilvánosság eljárásban való részvétele szempontjából hátránnyal nem jár, a közmeghallgatás a felügyelőség erre alkalmas hivatalos helyiségében is megtartható.
 
 (4) A felügyelőség értesíti a közmeghallgatásról az ügyben érdekelt szakhatóságokat és az érintett önkormányzatokat, a környezethasználót, továbbá a környezetvédelmi érdekek képviseletére alakult egyesületet, és más társadalmi szervezeteket, ha az eljárásban való részvételi szándékukat bejelentették és ügyféli minőségüket a felügyelőség számára igazolták.
 
 (5) Az érintett környezetvédelmi szervezetek alapszabályukkal és a bírósági bejegyzésről szóló jogerős határozattal igazolhatják ügyféli jogosultságukat.
 
-(6)[^49] A felügyelőség a közmeghallgatásra vonatkozó adatokat – ha azok a 8. § (1) bekezdése szerint még nem voltak megadva – hirdetményi úton és legalább egy helyi lapban vagy napilapban vagy országos napilapban is közzéteszi, valamint közhírré tételre megküldi az eljárásban részt vevő önkormányzatok jegyzőinek. A jegyző a közhírré tételt követő öt napon belül tájékoztatja a felügyelőséget a közlemény közhírré tételének időpontjáról és helyéről.
+(6)[^60] A felügyelőség a közmeghallgatásra vonatkozó adatokat hirdetményi úton közzéteszi, valamint közhírré tételre megküldi az eljárásban részt vevő önkormányzatok jegyzőinek. A jegyző a közhírré tételt követő öt napon belül tájékoztatja a felügyelőséget a közlemény közhírré tételének időpontjáról és helyéről.
 
-(7)[^50] A közzétételnek legalább harminc nappal a közmeghallgatás időpontja előtt kell megtörténnie.
+(7)[^61] A közzétételnek legalább harminc nappal a közmeghallgatás időpontja előtt kell megtörténnie.
 
 (8) Az észrevételeket a közmeghallgatás időpontjáig a felügyelőséghez vagy a közmeghallgatás helye szerint illetékes települési önkormányzat jegyzőjéhez lehet benyújtani.
 
-(9)[^51] A közmeghallgatásról készült jegyzőkönyvről a felügyelőség tizenöt napon belül másolatot küld a kérelmezőnek és az eljárásban részt vevő szakhatóságoknak.
+(9)[^62] Ha a felügyelőség a közmeghallgatást a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, azt elektronikus úton közzéteszi. Ha a felügyelőség a közmeghallgatás dokumentálására az írásos jegyzőkönyvi formát választja, a dokumentumot elektronikus úton közzéteszi.
 
-(10) A jegyzőkönyvet a felügyelőség megküldi az eljárásban részt vevő szervezetnek. A jegyzőkönyv nyilvánosságát biztosítani kell a felügyelőségnél és minden érintett települési önkormányzatnál.
+(10)[^63]
 
-[^49]: A 9. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (8) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^50]: A 9. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^51]: A 9. § (9) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (9) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^58]: A 9. § (1) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 17. § 3. pontja szerint módosított szöveg.
+[^59]: A 9. § (3) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^60]: A 9. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (8) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése, a 371/2012. (XII. 17.) Korm. rendelet 17. § 4. pontja szerint módosított szöveg.
+[^61]: A 9. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^62]: A 9. § (9) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^63]: A 9. § (10) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.

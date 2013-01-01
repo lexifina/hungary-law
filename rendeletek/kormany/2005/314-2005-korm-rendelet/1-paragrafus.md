@@ -28,7 +28,7 @@ f)[^2] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mel
 
 ## engedély szükséges.
 
-(4)[^3] A (3) bekezdés b) és ea) pontjai szerinti esetekben a felügyelőség a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárást a környezethasználó kérelme szerint összevontan vagy összekapcsoltan folytatja le.
+(4)[^3] A (3) bekezdés b) pontja és e) pont ea) alpontja szerinti esetekben a felügyelőség a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárást a környezethasználó kérelmére – önálló engedélyezési eljárások lefolytatása helyett – összevontan folytatja le.
 
 (5)[^4] A környezethasználó kérelmére a felügyelőség – előzetes vizsgálati eljárás nélkül – környezeti hatásvizsgálati eljárást folytat le, ha a környezethasználó olyan tevékenység megvalósítását tervezi, amely a 3. számú mellékletben szerepel.
 
@@ -38,7 +38,7 @@ f)[^2] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mel
 
 [^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be.
-[^3]: Az 1. § (4) bekezdése a 151/2009. (VII. 23.) Korm. rendelet 1. §-ával megállapított, a 82/2011. (V. 18.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (5) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2011. (II. 22.) Korm. rendelet 1. §-a iktatta be.
 [^5]: Az 1. § (6) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

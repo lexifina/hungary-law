@@ -1,6 +1,6 @@
-## 29/E. §[^120] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 175/2012. (VII. 26.) Korm. rendelettel (a továbbiakban: Mkr7.) megállapított rendelkezéseit az Mkr7. hatálybalépésekor[^121] folyamatban lévő ügyekben (eljárásokban) is alkalmazni kell.
+## 29/F. §[^146] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 371/2012. (XII. 17.) Korm. rendelettel (a továbbiakban: Mkr8.) megállapított rendelkezéseit az Mkr8. hatálybalépését[^147] követően indult ügyekben, továbbá a megismételt eljárásokban kell alkalmazni.
 
-## 30. §[^122] Ez a rendelet a Kvt.-vel együtt
+## 30. §[^148] Ez a rendelet a Kvt.-vel együtt
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és a tanács irányelvnek,
 
@@ -10,6 +10,6 @@ c) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi ir�
 
 való megfelelést szolgálja.
 
-[^120]: A 29/E. §-t a 175/2012. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
-[^121]: A hatálybalépés napja 2012. július 27.
-[^122]: A 30. § a 145/2012. (VII. 3.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^146]: A 29/F. §-t a 371/2012. (XII. 17.) Korm. rendelet 14. §-a iktatta be.
+[^147]: A hatálybalépés időpontja 2013. január 1.
+[^148]: A 30. § a 145/2012. (VII. 3.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.

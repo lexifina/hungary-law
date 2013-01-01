@@ -350,7 +350,7 @@
 
 | c) védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 106. | Nem veszélyes hulladékot égetéssel, kémiai kezeléssel, biológiai kezeléssel ártalmatlanító létesítmény (amennyiben nem tartozik az 1. számú mellékletbe) | a) 10 t/nap kapacitástól |
+| 106. | Nem veszélyes hulladékot égetéssel, kémiai, biológiai eljárással ártalmatlanító létesítmény (amennyiben nem tartozik az 1. számú mellékletbe) | a) 10 t/nap kapacitástól |
 
 | b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
@@ -358,7 +358,7 @@
 
 | b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 108. | Fémhulladékgyűjtő, -feldolgozó és -újrahasznosító telep (beleértve az autóroncstelepeket) | a) 5 t/nap kapacitástól |
+| 108. | Fémhulladékgyűjtő, -előkezelő, -hasznosító telep (beleértve az autóroncstelepeket) | a) 5 t/nap kapacitástól |
 
 | b) méretmegkötés nélkül vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 

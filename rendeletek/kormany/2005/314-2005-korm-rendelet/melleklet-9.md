@@ -52,7 +52,7 @@ Az elérhető legjobb technika meghatározásánál figyelembe kell venni külö
 
 2. kevésbé veszélyes anyagok használata,
 
-3. a folyamatban keletkező és felhasznált anyagok és hulladékok regenerálásának és újrafelhasználásának elősegítése,
+3.[^172] a folyamatban keletkező és felhasznált anyagok újrahasználatának, és a hulladékok újrafeldolgozásának elősegítése,
 
 4. alternatív üzemeltetési folyamatok, berendezések vagy módszerek, amelyeket sikerrel próbáltak ki ipari méretekben,
 
@@ -71,3 +71,5 @@ Az elérhető legjobb technika meghatározásánál figyelembe kell venni külö
 11. annak igénye, hogy megelőzzék a baleseteket és a minimálisra csökkentsék ezek környezetre gyakorolt hatását,
 
 12. a magyar környezetvédelmi közigazgatási szervek vagy a nemzetközi szervezetek által közzétett információk, továbbá az Európai Bizottság által a tagállamok és az érintett iparágak között az elérhető legjobb technikákról, a kapcsolódó monitoringról és a fejlődésről szervezett információcserének a Bizottság által közzétett tapasztalatai.
+
+[^172]: A 9. számú melléklet 3. pontja a 441/2012. (XII. 29.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.
