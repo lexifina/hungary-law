@@ -20,7 +20,6 @@
 
 8. A tárolóberendezést az üzemeltetőnek az üzembehelyezéssel egyidőben be kell jelenteni az éghető folyadékok és olvadékok tárolótartályairól szóló rendelet melléklete szerinti bejelentőlapnak a felügyelőség részére történő megküldésével.
 
-9.[^2]
+9. A véggázkezelővel ellátott tárolóberendezést fel kell szerelni olyan kijelző berendezéssel, amely folyamatosan, véletlenszerű ellenőrzések esetében is lehetővé teszi az ellenőrző műszaki biztonsági hatóság vagy felügyelőség számára annak megállapítását, hogy a véggázkezelő rendszer működik-e.
 
 [^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet 9. pontja a 9. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

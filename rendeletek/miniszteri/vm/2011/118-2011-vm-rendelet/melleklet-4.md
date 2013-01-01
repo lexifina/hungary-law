@@ -22,6 +22,6 @@ b) 100 m3/év feletti, és a töltőállomás az országos településrendezési
 
 fel kell szerelni automata monitoring rendszerrel. A rendszernek automatikusan észlelni kell a II. fázisú benzingőz-visszanyerő rendszer megfelelő működésében, és magában az automatikus monitoring rendszerben bekövetkezett meghibásodásokat, jeleznie kell a hibákat a töltőállomás üzemeltetőjének, és automatikusan le kell állítania a benzinkiszolgálást a meghibásodott kútoszlopból, amennyiben a meghibásodást hét napon belül nem javítják ki.
 
-8.[^3]
+8.[^2]
 
-[^3]: A 4. melléklet 8. pontja a 9. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^2]: A 4. melléklet 8. pontja a 9. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
