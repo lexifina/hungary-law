@@ -24,15 +24,15 @@
 
 ## Pécsi Törvényszék
 
-| Komlói Városi Bíróság | 2 |
+| Komlói Járásbíróság | 2 |
 
-| Mohácsi Városi Bíróság | 1 |
+| Mohácsi Járásbíróság | 1 |
 
-| Pécsi Városi Bíróság | 5 |
+| Pécsi Járásbíróság | 5 |
 
-| Siklósi Városi Bíróság | 1 |
+| Siklósi Járásbíróság | 1 |
 
-| Szigetvári Városi Bíróság | 1 |
+| Szigetvári Járásbíróság | 1 |
 
 | Összesen: | 10 |
 
@@ -40,19 +40,19 @@
 
 ## Kecskeméti Törvényszék
 
-| Bajai Városi Bíróság | 2 |
+| Bajai Járásbíróság | 2 |
 
-| Kalocsai Városi Bíróság | 1 |
+| Kalocsai Járásbíróság | 1 |
 
-| Kecskeméti Városi Bíróság | 2 |
+| Kecskeméti Járásbíróság | 2 |
 
-| Kiskőrösi Városi Bíróság | 1 |
+| Kiskőrösi Járásbíróság | 1 |
 
-| Kiskunfélegyházi Városi Bíróság | 1 |
+| Kiskunfélegyházi Járásbíróság | 1 |
 
-| Kiskunhalasi Városi Bíróság | 1 |
+| Kiskunhalasi Járásbíróság | 1 |
 
-| Kunszentmiklósi Városi Bíróság | 1 |
+| Kunszentmiklósi Járásbíróság | 1 |
 
 | Összesen: | 9 |
 
@@ -60,19 +60,19 @@
 
 ## Gyulai Törvényszék
 
-| Battonyai Városi Bíróság | 1 |
+| Battonyai Járásbíróság | 1 |
 
-| Békéscsabai Városi Bíróság | 1 |
+| Békéscsabai Járásbíróság | 1 |
 
-| Békési Városi Bíróság | 1 |
+| Békési Járásbíróság | 1 |
 
-| Gyulai Városi Bíróság | 2 |
+| Gyulai Járásbíróság | 2 |
 
-| Orosházi Városi Bíróság | 1 |
+| Orosházi Járásbíróság | 1 |
 
-| Szarvasi Városi Bíróság | 1 |
+| Szarvasi Járásbíróság | 1 |
 
-| Szeghalmi Városi Bíróság | 1 |
+| Szeghalmi Járásbíróság | 1 |
 
 | Összesen: | 8 |
 
@@ -80,23 +80,23 @@
 
 ## Miskolci Törvényszék
 
-| Encsi Városi Bíróság | 1 |
+| Encsi Járásbíróság | 1 |
 
-| Kazincbarcikai Városi Bíróság | 3 |
+| Kazincbarcikai Járásbíróság | 3 |
 
-| Mezőkövesdi Városi Bíróság | 1 |
+| Mezőkövesdi Járásbíróság | 1 |
 
-| Miskolci Városi Bíróság | 8 |
+| Miskolci Járásbíróság | 8 |
 
-| Ózdi Városi Bíróság | 3 |
+| Ózdi Járásbíróság | 3 |
 
-| Sátoraljaújhelyi Városi Bíróság | 1 |
+| Sátoraljaújhelyi Járásbíróság | 1 |
 
-| Szerencsi Városi Bíróság | 1 |
+| Szerencsi Járásbíróság | 1 |
 
-| Szikszói Városi Bíróság | 1 |
+| Szikszói Járásbíróság | 1 |
 
-| Tiszaújvárosi Városi Bíróság | 1 |
+| Tiszaújvárosi Járásbíróság | 1 |
 
 | Összesen: | 20 |
 
@@ -104,15 +104,15 @@
 
 ## Szegedi Törvényszék
 
-| Csongrádi Városi Bíróság | 1 |
+| Csongrádi Járásbíróság | 1 |
 
-| Hódmezővásárhelyi Városi Bíróság | 2 |
+| Hódmezővásárhelyi Járásbíróság | 2 |
 
-| Makói Városi Bíróság | 1 |
+| Makói Járásbíróság | 1 |
 
-| Szegedi Városi Bíróság | 5 |
+| Szegedi Járásbíróság | 5 |
 
-| Szentesi Városi Bíróság | 1 |
+| Szentesi Járásbíróság | 1 |
 
 | Összesen: | 10 |
 
@@ -120,13 +120,13 @@
 
 ## Székesfehérvári Törvényszék
 
-| Bicskei Városi Bíróság | 1 |
+| Bicskei Járásbíróság | 1 |
 
-| Dunaújvárosi Városi Bíróság | 2 |
+| Dunaújvárosi Járásbíróság | 2 |
 
-| Sárbogárdi Városi Bíróság | 1 |
+| Sárbogárdi Járásbíróság | 1 |
 
-| Székesfehérvári Városi Bíróság | 5 |
+| Székesfehérvári Járásbíróság | 5 |
 
 | Összesen: | 9 |
 
@@ -134,11 +134,11 @@
 
 ## Győri Törvényszék
 
-| Győri Városi Bíróság | 5 |
+| Győri Járásbíróság | 5 |
 
-| Mosonmagyaróvári Városi Bíróság | 2 |
+| Mosonmagyaróvári Járásbíróság | 2 |
 
-| Soproni Városi Bíróság | 2 |
+| Soproni Járásbíróság | 2 |
 
 | Összesen: | 9 |
 
@@ -146,15 +146,15 @@
 
 ## Debreceni Törvényszék
 
-| Berettyóújfalui Városi Bíróság | 1 |
+| Berettyóújfalui Járásbíróság | 1 |
 
-| Debreceni Városi Bíróság | 4 |
+| Debreceni Járásbíróság | 4 |
 
-| Hajdúböszörményi Városi Bíróság | 1 |
+| Hajdúböszörményi Járásbíróság | 1 |
 
-| Hajdúszoboszlói Városi Bíróság | 1 |
+| Hajdúszoboszlói Járásbíróság | 1 |
 
-| Püspökladányi Városi Bíróság | 1 |
+| Püspökladányi Járásbíróság | 1 |
 
 | Összesen: | 8 |
 
@@ -162,15 +162,15 @@
 
 ## Egri Törvényszék
 
-| Egri Városi Bíróság | 3 |
+| Egri Járásbíróság | 3 |
 
-| Füzesabonyi Városi Bíróság | 1 |
+| Füzesabonyi Járásbíróság | 1 |
 
-| Gyöngyösi Városi Bíróság | 2 |
+| Gyöngyösi Járásbíróság | 2 |
 
-| Hatvani Városi Bíróság | 2 |
+| Hatvani Járásbíróság | 2 |
 
-| Hevesi Városi Bíróság | 1 |
+| Hevesi Járásbíróság | 1 |
 
 | Összesen: | 9 |
 
@@ -178,17 +178,17 @@
 
 ## Szolnoki Törvényszék
 
-| Jászberényi Városi Bíróság | 3 |
+| Jászberényi Járásbíróság | 3 |
 
-| Karcagi Városi Bíróság | 1 |
+| Karcagi Járásbíróság | 1 |
 
-| Kunszentmártoni Városi Bíróság | 1 |
+| Kunszentmártoni Járásbíróság | 1 |
 
-| Mezőtúri Városi Bíróság | 1 |
+| Mezőtúri Járásbíróság | 1 |
 
-| Szolnoki Városi Bíróság | 4 |
+| Szolnoki Járásbíróság | 4 |
 
-| Tiszafüredi Városi Bíróság | 1 |
+| Tiszafüredi Járásbíróság | 1 |
 
 | Összesen: | 11 |
 
@@ -196,13 +196,13 @@
 
 ## Tatabányai Törvényszék
 
-| Esztergomi Városi Bíróság | 2 |
+| Esztergomi Járásbíróság | 2 |
 
-| Komáromi Városi Bíróság | 1 |
+| Komáromi Járásbíróság | 1 |
 
-| Tatabányai Városi Bíróság | 4 |
+| Tatabányai Járásbíróság | 4 |
 
-| Tatai Városi Bíróság | 1 |
+| Tatai Járásbíróság | 1 |
 
 | Összesen: | 8 |
 
@@ -210,11 +210,11 @@
 
 ## Balassagyarmati Törvényszék
 
-| Balassagyarmati Városi Bíróság | 2 |
+| Balassagyarmati Járásbíróság | 2 |
 
-| Pásztói Városi Bíróság | 1 |
+| Pásztói Járásbíróság | 1 |
 
-| Salgótarjáni Városi Bíróság | 2 |
+| Salgótarjáni Járásbíróság | 2 |
 
 | Összesen: | 5 |
 
@@ -222,29 +222,29 @@
 
 ## Budapest Környéki Törvényszék
 
-| Budakörnyéki Bíróság | 1 |
+| Budakörnyéki Járásbíróság | 1 |
 
-| Budaörsi Városi Bíróság | 2 |
+| Budaörsi Járásbíróság | 2 |
 
-| Ceglédi Városi Bíróság | 1 |
+| Ceglédi Járásbíróság | 1 |
 
-| Dabasi Városi Bíróság | 2 |
+| Dabasi Járásbíróság | 2 |
 
-| Dunakeszi Városi Bíróság | 2 |
+| Dunakeszi Járásbíróság | 2 |
 
-| Gödöllői Városi Bíróság | 2 |
+| Gödöllői Járásbíróság | 2 |
 
-| Monori Városi Bíróság | 1 |
+| Monori Járásbíróság | 1 |
 
-| Nagykátai Városi Bíróság | 1 |
+| Nagykátai Járásbíróság | 1 |
 
-| Nagykőrösi Városi Bíróság | 1 |
+| Nagykőrösi Járásbíróság | 1 |
 
-| Ráckevei Városi Bíróság | 2 |
+| Ráckevei Járásbíróság | 2 |
 
-| Szentendrei Városi Bíróság | 1 |
+| Szentendrei Járásbíróság | 1 |
 
-| Váci Városi Bíróság | 1 |
+| Váci Járásbíróság | 1 |
 
 | Összesen: | 17 |
 
@@ -252,17 +252,17 @@
 
 ## Kaposvári Törvényszék
 
-| Barcsi Városi Bíróság | 2 |
+| Barcsi Járásbíróság | 2 |
 
-| Fonyódi Városi Bíróság | 1 |
+| Fonyódi Járásbíróság | 1 |
 
-| Kaposvári Városi Bíróság | 4 |
+| Kaposvári Járásbíróság | 4 |
 
-| Marcali Városi Bíróság | 1 |
+| Marcali Járásbíróság | 1 |
 
-| Nagyatádi Városi Bíróság | 2 |
+| Nagyatádi Járásbíróság | 2 |
 
-| Siófoki Városi Bíróság | 2 |
+| Siófoki Járásbíróság | 2 |
 
 | Összesen: | 12 |
 
@@ -270,17 +270,17 @@
 
 ## Nyíregyházi Törvényszék
 
-| Fehérgyarmati Városi Bíróság | 1 |
+| Fehérgyarmati Járásbíróság | 1 |
 
-| Kisvárdai Városi Bíróság | 2 |
+| Kisvárdai Járásbíróság | 2 |
 
-| Mátészalkai Városi Bíróság | 2 |
+| Mátészalkai Járásbíróság | 2 |
 
-| Nyírbátori Városi Bíróság | 2 |
+| Nyírbátori Járásbíróság | 2 |
 
-| Nyíregyházi Városi Bíróság | 7 |
+| Nyíregyházi Járásbíróság | 7 |
 
-| Vásárosnaményi Városi Bíróság | 1 |
+| Vásárosnaményi Járásbíróság | 1 |
 
 | Összesen: | 15 |
 
@@ -288,15 +288,15 @@
 
 ## Szekszárdi Törvényszék
 
-| Bonyhádi Városi Bíróság | 1 |
+| Bonyhádi Járásbíróság | 1 |
 
-| Dombóvári Városi Bíróság | 1 |
+| Dombóvári Járásbíróság | 1 |
 
-| Paksi Városi Bíróság | 1 |
+| Paksi Járásbíróság | 1 |
 
-| Szekszárdi Városi Bíróság | 3 |
+| Szekszárdi Járásbíróság | 3 |
 
-| Tamási Városi Bíróság | 1 |
+| Tamási Járásbíróság | 1 |
 
 | Összesen: | 7 |
 
@@ -304,13 +304,13 @@
 
 ## Szombathelyi Törvényszék
 
-| Körmendi Városi Bíróság | 1 |
+| Körmendi Járásbíróság | 1 |
 
-| Kőszegi Városi Bíróság | 1 |
+| Kőszegi Járásbíróság | 1 |
 
-| Sárvári Városi Bíróság | 1 |
+| Sárvári Járásbíróság | 1 |
 
-| Szombathelyi Városi Bíróság | 3 |
+| Szombathelyi Járásbíróság | 3 |
 
 | Összesen: | 6 |
 
@@ -318,15 +318,15 @@
 
 ## Veszprémi Törvényszék
 
-| Ajkai Városi Bíróság | 1 |
+| Ajkai Járásbíróság | 1 |
 
-| Pápai Városi Bíróság | 1 |
+| Pápai Járásbíróság | 1 |
 
-| Tapolcai Városi Bíróság | 1 |
+| Tapolcai Járásbíróság | 1 |
 
-| Veszprémi Városi Bíróság | 4 |
+| Veszprémi Járásbíróság | 4 |
 
-| Zirci Városi Bíróság | 1 |
+| Zirci Járásbíróság | 1 |
 
 | Összesen: | 8 |
 
@@ -334,16 +334,16 @@
 
 ## Zalaegerszegi Törvényszék
 
-| Keszthelyi Városi Bíróság | 2 |
+| Keszthelyi Járásbíróság | 2 |
 
-| Lenti Városi Bíróság | 1 |
+| Lenti Járásbíróság | 1 |
 
-| Nagykanizsai Városi Bíróság | 3 |
+| Nagykanizsai Járásbíróság | 3 |
 
-| Zalaegerszegi Városi Bíróság | 3 |
+| Zalaegerszegi Járásbíróság | 3 |
 
 | Összesen: | 9 |
 
-2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^93]
+2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^98]
 
-[^93]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta.
+[^98]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet az 57/2012. (XII. 28.) KIM rendelet 10. § (2) bekezdése szerint módosított szöveg.

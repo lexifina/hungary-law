@@ -1,16 +1,14 @@
 ## A bírósági végrehajtói állásra pályázók szakmai értékelésének szempontjai és a szakmai értékelésnél adható pontok
 
-## 1. Iskolai végzettség – maximális pontszám: 40
+## 1. Iskolai végzettség – maximális pontszám: 20
 
 |  |  | értékelési szempont | adható pontszám |
 
-|  | 1.1. | szakirányú felsőfokú végzettség | 20 |
+|  | 1.1. | a végrehajtói tevékenység során használható ismereteket adó felsőfokú végzettség | 10 |
 
-|  | 1.2. | a végrehajtói tevékenység során használható ismereteket adó egyéb felsőfokú végzettség | 10 |
+|  | 1.2. | egyéb felsőfokú végzettség | 5 |
 
-|  | 1.3. | egyéb felsőfokú végzettség | 5 |
-
-|  | 1.4. | a végrehajtói tevékenység során használható ismereteket adó egyéb iskolai végzettség, szakképzettség | 5 |
+|  | 1.3. | a végrehajtói tevékenység során használható ismereteket adó egyéb iskolai végzettség, szakképzettség | 5 |
 
 ## 2. Szakmai vizsga – maximális pontszám: 40
 
@@ -82,6 +80,6 @@
 
 |  | 7.4. | tudományos eredmény, oktatás, vizsgáztatás, szakmai publikáció egyéb területen | 3 |
 
-3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^94]
+3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^99]
 
-[^94]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a.
+[^99]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a.

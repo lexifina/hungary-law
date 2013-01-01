@@ -32,7 +32,7 @@
 
 ## P. H.
 
-4. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^95]
+4. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^100]
 
 BÍRÓSÁGI VÉGREHAJTÁSI ÜGYINTÉZŐI OKLEVÉL
 
@@ -68,4 +68,4 @@ a vizsgabizottság tagja a vizsgabizottság tagja
 
 P. H.
 
-[^95]: Az eredeti 3. számú melléklet megjelölését 4. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a.
+[^100]: Az eredeti 3. számú melléklet megjelölését 4. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a.
