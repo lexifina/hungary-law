@@ -1,4 +1,4 @@
-2. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^7]
+2. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^8]
 
 A közzétételi egységek az 1. melléklet szerinti szervezetben
 
@@ -94,15 +94,15 @@ I. Közzétételi egység: Lapok
 
 | 3. A közfeladatot ellátó szerv által alapított lapok főszerkesztőjének a neve |  |
 
-1.6. Felettes, felügyeleti, törvényességi ellenőrzést gyakorló szerv
+1.6. Felettes, felügyeleti, törvényességi ellenőrzést vagy felügyeletet gyakorló szerv
 
-I. Közzétételi egység: Felettes, felügyeleti, törvényességi ellenőrzést gyakorló szerv
+I. Közzétételi egység: Felettes, felügyeleti, törvényességi ellenőrzést vagy felügyeletet gyakorló szerv
 
 | A) Adat megnevezése | B) Megjegyzés |
 
-| 1. A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, hatósági döntéseinek tekintetében a fellebbezés elbírálására jogosult szervek, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést gyakorló szerv hivatalos neve (teljes neve), székhelye, elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím), honlapjának címe | A honlap és az elektronikus levélcím közvetlen elérésének biztosításával. |
+| 1. A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, hatósági döntéseinek tekintetében a fellebbezés elbírálására jogosult szervek, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést vagy felügyeletet gyakorló szerv hivatalos neve (teljes neve), székhelye, elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím), honlapjának címe | A honlap és az elektronikus levélcím közvetlen elérésének biztosításával. |
 
-| 2. A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, hatósági döntéseinek tekintetében a fellebbezés elbírálására jogosult szervek, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést gyakorló szerv ügyfélszolgálatának vagy közönségkapcsolatának elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme), ügyfélfogadásának rendje |  |
+| 2. A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, hatósági döntéseinek tekintetében a fellebbezés elbírálására jogosult szervek, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést vagy felügyeletet gyakorló szerv ügyfélszolgálatának vagy közönségkapcsolatának elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme), ügyfélfogadásának rendje |  |
 
 1.7. Költségvetési szervek
 
@@ -120,9 +120,9 @@ I. Közzétételi egység: A szerv alaptevékenysége, feladat- és hatásköre
 
 | 1. A közfeladatot ellátó szerv feladatát, hatáskörét és alaptevékenységét meghatározó, a szervre vonatkozó alapvető jogszabályok, közjogi szervezetszabályozó eszközök, valamint a szervezeti és működési szabályzat vagy ügyrend az adatvédelmi és adatbiztonsági szabályzat hatályos és teljes szövege | A jogszabályok, közjogi szervezetszabályozó eszközök, valamint a szervezeti és működési szabályzat vagy ügyrend, az adatvédelmi és biztonsági szabályzat hatályos és teljes szövegét tartalmazó önálló dokumentumok elérhetőségének biztosításával. |
 
-| 2. Az országos illetékességű szervek, valamint a Kormány általános hatáskörű területi államigazgatási szerve esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató szövege magyar és angol nyelven | A tartalomjegyzékben a dokumentum címét angol nyelven is meg kell jelölni. |
+| 2. Az országos illetékességű szervek, valamint a fővárosi és megyei kormányhivatal esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató szövege magyar és angol nyelven | A tartalomjegyzékben a dokumentum címét angol nyelven is meg kell jelölni. |
 
-| 3. A helyi önkormányzat önként vállalt feladatainak felsorolása és részletes leírása | A feladatokat helyi kisebbségi önkormányzatok esetén az adott kisebbség nyelvén is meg kell jelentetni. |
+| 3. A helyi önkormányzat önként vállalt feladatainak felsorolása és részletes leírása | A feladatokat helyi nemzetiségi önkormányzatok esetén az adott nemzetiség nyelvén is meg kell jelentetni. |
 
 II. Közzétételi egység: A hatósági ügyek intézésének rendjével kapcsolatos adatok
 
@@ -370,4 +370,4 @@ VII. Közzétételi egység: Közbeszerzés
 
 | 1. Közbeszerzési információk: éves terv, összegzés az ajánlatok elbírálásáról, a megkötött szerződésekről | Az éves terv közvetlen elérésének biztosításával. |
 
-[^7]: A 2. melléklet a 34/2012. (VIII. 15.) KIM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. melléklet a 34/2012. (VIII. 15.) KIM rendelet 3. § (2) bekezdésével megállapított és az 54/2012. (XII. 28.) KIM rendelet 19. § a)–d) pontja szerint módosított szöveg.
