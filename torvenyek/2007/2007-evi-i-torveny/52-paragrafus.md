@@ -6,7 +6,7 @@
 
 (3) A kitoloncolási őrizetbe vett személy kifogással élhet, amennyiben az idegenrendészeti hatóság az 58–59. §-ban meghatározott kötelezettségét elmulasztotta.
 
-(4) A kifogást a kitoloncolási őrizet helye szerint illetékes helyi bíróság bírálja el.
+(4) A kifogást a kitoloncolási őrizet helye szerint illetékes járásbíróság bírálja el.
 
 (5) A bíróság
 

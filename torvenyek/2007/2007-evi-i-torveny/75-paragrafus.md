@@ -14,7 +14,7 @@ d) a kiutasított vagy beutazási és tartózkodási tilalom hatálya alatt áll
 
 e) a személyes szabadságukban korlátozott EGT-állampolgárok és családtagok nyilvántartása,
 
-f) az úti okmány, illetve a személyazonosító igazolvány elvesztését bejelentő EGT-állampolgárok és családtagok nyilvántartása,
+f) az úti okmány, a személyazonosító igazolvány vagy a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő EGT-állampolgárok és családtagok nyilvántartása;
 
 g) a három hónapot meg nem haladó tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
 

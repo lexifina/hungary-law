@@ -1,7 +1,9 @@
-## A kiutazás korlátozása
+## Külföldre utazási korlátozás
 
-64. § (1) Nem hagyhatja el Magyarország területét az az EGT-állampolgár vagy családtag, aki büntetőeljárás keretében előzetes letartóztatásban, házi őrizetben, lakhelyelhagyási tilalom hatálya alatt, őrizetben, kiadatási őrizetben, kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban van, illetve ideiglenes kényszergyógykezelés alatt áll.
+64. § (1) Az eljáró hatóság külföldre utazási korlátozást rendel el azzal az EGT-állampolgárral vagy családtaggal szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyész az eljáró hatóságot a külföldre utazásról szóló törvény alapján értesítette.
 
-(2) Az eljáró hatóság az EGT-állampolgár vagy a családtag úti okmányának visszatartásáról határozattal dönt, ha az (1) bekezdés szerinti valamely kényszerintézkedés jogerős elrendeléséről a büntetőeljárást folytató bíróság, ügyészség, illetve nyomozó hatóság értesítette. A határozat ellen jogorvoslatnak nincs helye.
+(2) Az (1) bekezdés szerinti értesítés alapján az eljáró hatóság külföldre utazási korlátozást elrendelő határozatában az EGT-állampolgár vagy családtag úti okmányát visszatartja.
 
-(3) Az úti okmányt arra az időtartamra kell visszatartani, ameddig az EGT-állampolgár vagy a családtag az (1) bekezdés szerinti valamely kényszerintézkedés hatálya alatt áll.
+(3) A határozat ellen nincs helye jogorvoslatnak.
+
+(4) Az eljáró hatóság a bíróság, az ügyész, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.
