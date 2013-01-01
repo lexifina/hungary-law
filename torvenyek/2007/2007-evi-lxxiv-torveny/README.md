@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-74-00-00
 | 2012-04-20 | 2012. évi XXXVI. törvény | 2007-74-00-00.8 |
 | 2012-07-25 | 2012. évi CXXX. törvény | 2007-74-00-00.9 |
 | 2012-11-17 | 2012. évi CLXI. törvény | 2007-74-00-00.10 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 2007-74-00-00.11 |

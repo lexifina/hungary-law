@@ -28,10 +28,10 @@ c) a pályázat nyerteséről szóló döntéshez (a továbbiakban együtt: bizo
 
 a) a meghozatalától számított harminc napos jogvesztő határidő elteltével a határozatot, vagy hatósági szerződést akkor sem lehet megtámadni, ha az ismert ügyfeleken kívüli más jogorvoslatra jogosulttal azt nem közölték, illetve arról addig nem szerzett tudomást,
 
-b) a bírósági felülvizsgálat iránti keresetet a Fővárosi Ítélőtábla háromtagú tanácsban, a kereset benyújtására meghatározott határidő elteltétől számított harminc napon belül bírálja el,
+b) a bírósági felülvizsgálat iránti keresetet a Fővárosi Közigazgatási és Munkaügyi Bíróság háromtagú tanácsban, a kereset benyújtására meghatározott határidő elteltétől számított harminc napon belül bírálja el,
 
-c) a Fővárosi Ítélőtábla határozatával szemben fellebbezésnek nincs helye,
+c) a Fővárosi Közigazgatási és Munkaügyi Bíróság határozatával szemben fellebbezésnek nincs helye,
 
 d) azt a Bizottság tagja is kezdeményezheti.
 
-(12) Ha a Fővárosi Ítélőtábla azt állapítja meg, hogy a Hatóság a (10) bekezdés alkalmazásával úgy hozott az egyes pályázatok érvénytelenségéről, illetve pályázat eredménytelenségéről döntést, hogy a Bizottság a jogszabályoknak (ideértve a pályázati kiírás és eljárás szabályait is) megfelelő határozattervezethez, vagy hatósági szerződéshez nem járult hozzá, a Hatóságot új eljárásra kötelezi, amelynek során a Hatóság az e határozattervezet vagy hatósági szerződés tartalmával megegyező döntést hoz a Bizottságnak való megküldés és a Bizottság hozzájárulása nélkül.
+(12) Ha a Fővárosi Közigazgatási és Munkaügyi Bíróság azt állapítja meg, hogy a Hatóság a (10) bekezdés alkalmazásával úgy hozott az egyes pályázatok érvénytelenségéről, illetve pályázat eredménytelenségéről döntést, hogy a Bizottság a jogszabályoknak (ideértve a pályázati kiírás és eljárás szabályait is) megfelelő határozattervezethez, vagy hatósági szerződéshez nem járult hozzá, a Hatóságot új eljárásra kötelezi, amelynek során a Hatóság az e határozattervezet vagy hatósági szerződés tartalmával megegyező döntést hoz a Bizottságnak való megküldés és a Bizottság hozzájárulása nélkül.
