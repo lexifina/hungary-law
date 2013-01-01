@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-105-20-
 | --- | --- | --- |
 | 2008-05-16 | 1999-105-20-82.2 | 105/1999. (XII. 22.) FVM rendelet |
 | 2010-05-01 | 1999-105-20-82.3 | 129/2010. (IV. 21.) Korm. rendelet |
+| 2013-01-01 | 1999-105-20-82.4 | 151/2012. (XII. 29.) VM rendelet |
