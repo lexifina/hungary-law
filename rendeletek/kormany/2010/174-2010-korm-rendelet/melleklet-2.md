@@ -6,7 +6,7 @@
 
 | 2 | A Nabucco földgázszállító vezeték és telepített létesítményei, épített építményei, valamint azok biztonsági övezete által lehatárolt területeken megvalósuló beruházás építményei. A térbeli rend szempontjából meghatározó települések az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 1/10. számú melléklete szerint: (Románia) - országhatár - Nagylak - Hódmezővásárhely - Kecskemét - Adony - Székesfehérvár - Mór - Tét - Rajka - országhatár - (Ausztria). | bányahatósági építési engedélyek | Szolnoki Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 3 |  | a telekalakítási eljárás kivételével az építésügyi hatósági engedélyek | a területileg illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| 3 |  | a telekalakítási eljárás kivételével az építésügyi hatósági engedélyek | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 4 |  | környezetvédelmi hatósági engedélyek | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -16,7 +16,7 @@
 
 | 7 |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8 |  | régészeti feltárási engedély | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 8 |  | régészeti feltárási engedély | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 9 |  | erdő igénybevétel és fakivágási engedély | megyei kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -56,7 +56,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény-és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10 | Gyógyfürdők | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
@@ -74,7 +74,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 4 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 5. | Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 6 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -98,7 +98,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 8 | A területrendezési tervekkel való összhang megteremtése | illetékes állami főépítész | területrendezésért felelős miniszter |
 
-| 9 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 4. Útügyi hatósági engedélyezés
 
@@ -118,7 +118,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 7 | Helyi jelentőségű védett természeti terület vagy arra közvetlen hatást gyakorló módon megvalósuló létesítmény esetén | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
-| 8 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 8. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 5. Vízjogi engedélyezés
 
@@ -126,7 +126,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3 | Egészségügy | fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -154,7 +154,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10 | Gyógyfürdők | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
@@ -178,7 +178,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 9. Termőföld más célú hasznosításának engedélyeztetése
 
@@ -190,6 +190,6 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 3 | Természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 4 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 4. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 41. §-a szerint módosított szöveg.
