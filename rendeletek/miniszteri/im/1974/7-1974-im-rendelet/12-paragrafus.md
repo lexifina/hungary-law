@@ -1,3 +1,3 @@
-## 11. §[^3]
+## 11. §[^4]
 
-[^3]: A 11. § ma már nem érvényesülő átmeneti rendelkezéseket tartalmaz, közlését mellőztük.
+[^4]: A 11. § ma már nem érvényesülő átmeneti rendelkezéseket tartalmaz, közlését mellőztük.

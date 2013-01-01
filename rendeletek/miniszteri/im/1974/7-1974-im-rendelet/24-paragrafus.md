@@ -1,3 +1,3 @@
-## 23. §[^7]
+## 23. §[^9]
 
-[^7]: Idejétmúlt rendelkezést tartalmaz közlését mellőztük.
+[^9]: Idejétmúlt rendelkezést tartalmaz közlését mellőztük.

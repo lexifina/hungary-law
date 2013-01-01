@@ -1,3 +1,3 @@
-## 19–20. §[^6]
+## 19–20. §[^7]
 
-[^6]: A 19-20. § ma már nem érvényesülő átmeneti rendelkezéseket tartalmaz, közlését mellőztük.
+[^7]: A 19-20. § ma már nem érvényesülő átmeneti rendelkezéseket tartalmaz, közlését mellőztük.
