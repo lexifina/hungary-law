@@ -12,7 +12,7 @@ d) az 1. számú melléklet szerinti törzsadatlap kitöltésével a terület eg
 
 (3) A gyógyhellyé nyilvánítás iránti kérelemhez két példányban csatolni kell
 
-a)–c)[^4]
+a)–c)[^5]
 
 d) az Országos Meteorológiai Szolgálatnak a terület éghajlati adottságait a tervezett gyógyászati tevékenység szempontjából értékelő szakvéleményét,
 
@@ -22,4 +22,4 @@ f) a gyógyhely és védőterületének határvonalát tartalmazó terület-, il
 
 g) a települési önkormányzat képviselő-testületének döntéséről készült irat másolatát.
 
-[^4]: A 3. § (3) bekezdés a)–c) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^5]: A 3. § (3) bekezdés a)–c) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.

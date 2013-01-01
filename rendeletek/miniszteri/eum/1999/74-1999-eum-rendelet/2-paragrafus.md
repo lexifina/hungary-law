@@ -6,10 +6,11 @@
 
 a) e rendelet szerint elismert természetes gyógytényezővel (gyógyvíz, éghajlat stb.) rendelkezik,
 
-b) a természetes gyógytényező igénybevételének gyógyintézményi feltételei (gyógyfürdő, gyógyszálló, szanatórium) biztosítottak,
+b)[^4] a természetes gyógytényező igénybevételének gyógyintézményi feltételei (gyógyfürdő, gyógyszálló) biztosítottak,
 
 c) a gyógyítás zavartalanságát és a betegek nyugalmát biztosító környezeti feltételek (kiemelten védett területre előírt levegőtisztaság, fokozottan védett területnek megfelelő zajszint, rendezett zöldterületek stb.) adottak,
 
 d) a pihenés infrastruktúrájának (közművek, közlekedés, hírközlés, kommunális szolgáltatások, ellátó, szolgáltató intézmények stb.) kiépítettsége biztosított.
 
 [^3]: A 2. § (1) bekezdése a 37/2009. (XI. 5.) EüM rendelet 1. §-ával megállapított, a 10/2011. (III. 30.) NEFMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdés b) pontja az 58/2012. (XII. 29.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.

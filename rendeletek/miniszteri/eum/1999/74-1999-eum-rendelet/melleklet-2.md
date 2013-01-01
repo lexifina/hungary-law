@@ -10,7 +10,7 @@
 
 ## 3. Gyógyfürdőkórház: a nem közvetlenül területi betegellátást nyújtó fekvőbeteg-gyógyintézet, amely meghatározott betegségben szenvedők gyógyítását, főként természetes gyógytényezők alkalmazásával végzi. A gyógyfürdőkórház járóbeteg-részleggel is rendelkezhet.
 
-## 4. Szanatórium: az a fekvőbeteg-gyógyintézet, amely más egészségügyi intézményben kivizsgált, illetőleg előzőleg már gyógykezelt betegek számára gyógyszeres, pszichoterápiás eljárás, természetes gyógytényező, illetve ezek együttes alkalmazásával nyújt fekvőbeteg-ellátást.
+## 4.[^54]
 
 ## 5. Éghajlati gyógyintézet, klímagyógyintézet: az a létesítmény, amely a helyi földrajzi adottságokból eredő sajátos éghajlati tényezők (a levegő tisztasága, hőmérséklete, páratartalma, a napfény stb.) felhasználásával nyújt gyógyító és rehabilitációs kezelést.
 
@@ -312,9 +312,9 @@
 
 ## 27.2 Távolsága
 
-## 28. A létesítmény és környezetének ellátottsága (1000 m-en belül)
+## 28.[^55] A létesítmény és környezetének ellátottsága (1000 m-en belül)
 
-## (szálloda, panzió/fogadó, turistaszállás, üdülő-nyaralóház, kemping, fizető-vendéglátás, egyéb szálláshely, üdülő, szanatórium, étterem, vendéglő, egyéb kereskedelmi vendéglátóhely, élelmiszerüzlet, áruház, gyógyszertár, posta, távhívásba bekapcsolt távbeszélő állomás, nyilvános távbeszélő állomás, taxi állomás, parkolóhely, kulturális létesítmény, sportlétesítmény, pénzváltóhely, egyéb)
+## (szálloda, panzió/fogadó, turistaszállás, üdülő-nyaralóház, kemping, fizető-vendéglátás, egyéb szálláshely, üdülő, étterem, vendéglő, egyéb kereskedelmi vendéglátóhely, élelmiszerüzlet, áruház, gyógyszertár, posta, távhívásba bekapcsolt távbeszélő állomás, nyilvános távbeszélő állomás, taxi állomás, parkolóhely, kulturális létesítmény, sportlétesítmény, pénzváltóhely, egyéb)
 
 ## 29. A létesítmény megközelíthetősége
 
@@ -331,3 +331,6 @@
 ## 29.6 Közúton
 
 2. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez
+
+[^54]: Az 1. számú melléklet I. rész 4. pontját az 58/2012. (XII. 29.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
+[^55]: Az 1. számú melléklet II. rész 28. pontja az 58/2012. (XII. 29.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
