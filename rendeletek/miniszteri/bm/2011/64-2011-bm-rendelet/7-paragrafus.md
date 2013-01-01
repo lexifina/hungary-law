@@ -6,11 +6,11 @@ a) a kérelmezőt szolgálati nyugállományba vonulását megelőzően foglalko
 
 b) az egészségi, pszichológiai és fizikai alkalmassági feltételek meglétének önálló jogszabályban meghatározott eljárás keretében történő vizsgálatára, valamint
 
-c) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítése feladatokat ellátó szervnél a Hszt. 37/B. §-a és 37/C. §-a szerinti kifogástalan életvitel ellenőrzés lefolytatásának kezdeményezésére.
+c)[^9] a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítése feladatokat ellátó szervnél a Hszt. 37/B. §-a szerinti kifogástalan életvitel ellenőrzés lefolytatásának kezdeményezésére.
 
 (3) Ha a szenior állományba vétel érdekében folytatott felvételi eljárás során valamely felvételt kizáró okot állapítanak meg, a felvételt az állományilletékes parancsnok elutasítja, és erről a jelentkezőt írásban tájékoztatja, megjelölve az állományba vételt kizáró okot.
 
-(4) Kizáró ok hiányában a szenior állományba vétel érdekében folytatott felvételi eljárásban keletkezett iratokat az állományilletékes parancsnok a szenior állományba vételre irányuló kinevezési javaslatával – ha nem ő az arra jogosult – a hivatásos állományba kinevezésre jogosult vezetőhöz (elöljáróhoz) szolgálati úton felterjeszti. Az iratok felterjesztésére a (2) bekezdésben meghatározott alkalmassági vizsgálatok elvégzését, vagy a kifogástalan életvitel megállapításáról szóló tájékoztatás megérkezését követő nyolc napon belül intézkedni kell.
+(4)[^10] Kizáró ok hiányában a szenior állományba vétel érdekében folytatott felvételi eljárásban keletkezett iratokat az állományilletékes parancsnok a szenior állományba vételre irányuló kinevezési javaslatával – ha nem ő az arra jogosult – a hivatásos állományba kinevezésre jogosult vezetőhöz (elöljáróhoz) szolgálati úton felterjeszti. Az iratok felterjesztésére a (2) bekezdésben meghatározott alkalmassági vizsgálatok elvégzését, vagy a kifogástalan életvitel megállapításáról szóló tájékoztatás megérkezését követő nyolc napon belül intézkedni kell.
 
 (5) A kinevezési javaslathoz csatolni kell az illetékes humánigazgatási szakszolgálat által elkészített
 
@@ -45,3 +45,6 @@ h) a szolgálati feladat ellátásához esetlegesen előírt képzésről, annak
 (7) A szenior állományba kinevezésről szóló kiadmányozott állományparancsot, valamint a szerződést és a munkaköri leírást az esküokmánnyal együtt az állományilletékes parancsnok – az illetékes humánigazgatási szakszolgálat képviselője és a szenior állományba kinevezett szolgálati elöljárója jelenlétében – a kérelmezőnek átadja, aki a jelenlévők előtt az eskü szövegét hangosan felolvasva az esküt leteszi, majd azt aláírja a kinevezést elfogadó nyilatkozattal együtt.
 
 (8) Az aláírt esküokmányt – az állományparancs vagy határozat és a szerződés mellékleteként – a személyi anyagban kell elhelyezni és kezelni.
+
+[^9]: A 7. § (2) bekezdés c) pontja a 81/2012. (XII. 28.) BM rendelet 26. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: [A 7. § (4) bekezdésében a 81/2012. (XII. 28.) BM rendelet 25. § (2) bekezdés a) pontjával elrendelt módosítás, amely szerint az „állományilletékes parancsnoka szenior” szövegrész helyébe az „állományilletékes parancsnok a szenior” szöveg lép, nem vezethető át.]

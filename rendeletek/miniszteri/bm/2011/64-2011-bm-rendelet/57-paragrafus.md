@@ -8,7 +8,7 @@ b) a munkáltatói jogkört gyakorló vezetők személyügyi igazgatási feladat
 
 c) a fegyveres szervek és szervezeteik működtetéséhez, fejlesztéséhez szükséges vezetői állomány utánpótlásának tervezése, biztosítása,
 
-d) a hivatásos és szerződéses állomány előmenetelének biztosításával összefüggő személyügyi igazgatási feladatok végzése,
+d)[^37] a hivatásos állomány előmenetelének biztosításával összefüggő személyügyi igazgatási feladatok végzése,
 
 e) az állományban lévők és a hivatásos állományból nyugállományba helyezettekkel kapcsolatos szociális és kegyeleti intézkedések végrehajtása.
 
@@ -21,3 +21,5 @@ b) a döntések előkészítésébe be kell vonni a közvetlen szolgálati elöl
 c) a személyügyi igazgatási intézkedések során biztosítani kell a személyiségi jogok védelmét, továbbá
 
 d) biztosítani kell – a titokvédelmi szabályok betartásával – a személyi döntésekről való nyílt tájékoztatást.
+
+[^37]: Az 57. § (1) bekezdés d) pontja a 81/2012. (XII. 28.) BM rendelet 26. § (2) bekezdés h) pontja szerint módosított szöveg.
