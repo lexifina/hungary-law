@@ -1,0 +1,9 @@
+# 20/2012. (X. 15.) MNB rendelet
+
+a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-20-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-01 | 2012-20-20-2C.1 | 20/2012. (X. 15.) MNB rendelet |
