@@ -74,7 +74,7 @@
 
 | Dátum: ...................................... | .................................................... kitöltésért felelős (jogosult) (név, telefonszám) | .................................................... ellenőrzést végző személy (MÁK) (név, telefonszám) |
 
-2. számú melléklet a 64/2007. (IV. 3.) Korm. rendelethez[^2]
+2. számú melléklet a 64/2007. (IV. 3.) Korm. rendelethez[^3]
 
 ## Kimutatás a 2007. évi létszámcsökkentéshez kapcsolódó támogatás igénylés elbírálásáról
 
@@ -106,4 +106,4 @@ Adatok ezer forintban
 
 | Dátum: ...................................... | .................................................... kitöltésért felelős (jogosult) (név, telefonszám) | .................................................... ellenőrzést végezte (MÁK) (név, telefonszám)” |
 
-[^2]: A 2. számú melléklet a 111/2007. (V. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. számú melléklet a 111/2007. (V. 23.) Korm. rendelet 1. §-ával megállapított szöveg.

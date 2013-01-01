@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-64-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2007-64-20-22.3 | 64/2007. (IV. 3.) Korm. rendelet |
+| 2013-01-01 | 2007-64-20-22.4 | 403/2012. (XII. 28.) Korm. rendelet |

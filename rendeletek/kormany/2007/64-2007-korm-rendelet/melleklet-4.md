@@ -30,7 +30,7 @@
 
 ## (név, telefonszám)
 
-4. számú melléklet a 64/2007. (IV. 3.) Korm. rendelethez[^3]
+4. számú melléklet a 64/2007. (IV. 3.) Korm. rendelethez[^4]
 
 Kimutatás a 2007. évi létszámcsökkentéshez kapcsolódó támogatás elszámolásáról
 
@@ -44,10 +44,10 @@ Adatok ezer forintban
 
 | 1. | 2. | 3. | 4. | 5. | 6. |
 
-* Visszautalások indoklása (például Munkaügyi Bíróság előtt folyamatban lévő eljárás).
+* Visszautalások indoklása (például közigazgatási és munkaügyi bíróság előtt folyamatban lévő eljárás).
 
 | ............................................................. a szervezetet képviselő vezető | ............................................................. gazdasági vezető |
 
 | Dátum: .............................................. | ............................................................. kitöltésért felelős (jogosult) (név, telefonszám) |
 
-[^3]: A 4. számú melléklet a 111/2007. (V. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 4. számú melléklet a 111/2007. (V. 23.) Korm. rendelet 1. §-ával megállapított, a 403/2012. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
