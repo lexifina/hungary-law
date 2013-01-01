@@ -8,7 +8,7 @@
 
 a) a nemzetiségi önkormányzatoknak, intézményeiknek és egyéb nemzetiségi szervezeteknek a központi költségvetésből nyújtott támogatások feltételrendszerét és elszámolásnak rendjét;
 
-b)
+b) a 128.§ szerinti feladatfinanszírozás részletes szabályait;
 
 c) a nemzetiségek vonatkozásában ellátandó helyi közszolgálat képesítési előírásait.
 
