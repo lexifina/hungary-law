@@ -1,0 +1,5 @@
+9. § (1) Az 1. § (1) bekezdés b)–d) és k)–m) pontja szerinti, 2013. január 1-je előtt indult eljárásokban nem elektronikusan keletkezett dokumentumok Dokumentációs Központnak történő átadására az eljárás megindításakor hatályos előírásokat kell alkalmazni.
+
+(2) A 4. § (1) bekezdés e) pontjában meghatározott dokumentációk közül a szabályozási tervet az a jegyző, akinél az nem áll elektronikus úton rendelkezésre és annak elektronikus úton történő előállításhoz szükséges technikai feltételek is hiányoznak, papíralapon adhatja át a Dokumentációs Központnak.
+
+(3) Az Üzemeltető 2014. január 1-jéig a nyilvántartási rendszer működtetése, fenntartása és fejlesztése érdekében az 5. § (5) bekezdésében foglaltak teljesítése céljából egységes ügyintézői felületet biztosít – az Étv. 59. § (4) bekezdés a) pontjában meghatározott személyes adatokon kívül – az építésügyi és építésfelügyeleti hatóságok által eljárás alá vont telkek cím, helyrajzi szám-, terület- és művelési ág (ideértve a kivett terület megnevezését) adatainak megismerése érdekében, az ingatlan-nyilvántartási adatbázisokhoz távoli hozzáférést lehetővé tevő TAKARNET rendszeren keresztül történő lekérdezésekhez.
