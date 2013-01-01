@@ -1,0 +1,19 @@
+## 18. Ellenőrzés, jogkövetkezmények
+
+25. § (1) A bizottsági rendelet 104. és 111. cikkében hivatkozott helyszíni szemle, helyszíni ellenőrzés és adminisztratív ellenőrzés elvégzéséről ideértve a bizottsági rendelet 44. cikkében foglalt feltétel teljesülésének az ellenőrzését is, a miniszter – szükség esetén szakértők bevonásával – gondoskodik. Más, a bizottsági rendeletben meghatározott ellenőrzéseket az MVH végzi. A bizottsági rendelet 107. cikkében meghatározott, valamint a 106. és 112. cikk keretében végzett ellenőrzés során az elismerési feltételeknek való megfelelés tekintetében tett megállapításokat is tartalmazó dokumentum egy másolati példányát meg nem felelőség, vagy szabálytalanság gyanúja esetén az MVH megküldi a minisztérium részére.
+
+(2) Amennyiben az Európai Mezőgazdasági Garanciaalap finanszírozási rendszerébe tartozó ügyletek tagállamok által végzett vizsgálatáról szóló 2008. május 26.-i 485/2008/EK Tanács rendeletnek megfelelően elvégzett az Európai Mezőgazdasági Orientációs és Garanciaalap Garanciarészlegéből történő kifizetések utólagos ellenőrzéséről szóló 23/2004. (IV. 22.) PM rendelet alapján az MVH részére megküldött vizsgálati jegyzőkönyv az elismerési feltételek megszegésével kapcsolatos megállapításokat tartalmaz, úgy az MVH a jegyzőkönyvet nyolc napon belül megküldi a minisztérium részére. Az elismerési feltételek megszegésével kapcsolatos ügyben a minisztérium által hozott döntésig az MVH a jegyzőkönyvvel érintett ügyben folyatatott eljárását felfüggeszti.
+
+(3) Az elismerési feltételek megszegésével – ideértve az elismerési terv végre nem hajtását, késedelmes végrehajtását –, valamint a bizottsági rendelet 115. cikkében meghatározott csalással kapcsolatos jogkövetkezményeket a miniszter, valamint ezek alapján a támogatások folyósításának felfüggesztése, vagy a korábban már folyósított támogatási összeg visszakövetelése vonatkozásában pedig az MVH alkalmazza.
+
+(4) Az előzetes elismeréshez kapcsolódó elismerési terv éves teljesítésének, valamint a termelői szervezetekre és a zöldség-gyümölcs termelői csoportokra vonatkozó jogszabályoknak való megfelelés és az azokban foglalt kötelezettségek teljesítésének adminisztratív úton történő ellenőrzéséről valamint, azon termelői szerezetek vonatkozásában, amelyek nem rendelkeznek működési programmal, illetve nem nyújtanak be támogatási kérelmet, az elismerési követelményeknek való megfelelés ellenőrzéséről, ideértve a helyszíni szemlét is a miniszter gondoskodik.
+
+(5) A bizottsági rendeletben foglalt esetekben, továbbá az elismerési terv végre nem hajtása, vagy késedelmes végrehajtása esetén a miniszter dönt az elismerés ideiglenes felfüggesztéséről vagy az elismerés visszavonásáról.
+
+(6) Ha egy zöldség-gyümölcs termelői csoport vagy termelői szervezet az e rendeletben, valamint a tanácsi rendeletben és a bizottsági rendeletben szabályozott jelentési és adatszolgáltatási kötelezettségeinek nem vagy nem megfelelően tesz eleget, az elismerése felfüggesztésre kerül mindaddig, amíg e kötelezettségeit hiánytalanul nem teljesíti.
+
+(7) A miniszter az elismerés felfüggesztéséről vagy visszavonásáról szóló határozatát az MVH-nak is megküldi.
+
+(8) A termelői szervezetként való elismerés visszavonása esetén a visszavonás időpontját megelőző öt évben a tanácsi rendelet 103a. cikk, valamint végrehajtás alatt lévő működési program esetén a tanácsi rendelet 103d. és 103e. cikke alapján nyújtott támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+
+(9) Amennyiben a termelői szervezet a 15. § (10) bekezdésében meghatározott jelentését nem vagy nem megfelelően küldi meg, részére támogatás addig nem fizethető ki, amíg a jelentés megküldésre nem kerül és az a hivatkozott formai és tartalmi követelményeknek eleget nem tesz.

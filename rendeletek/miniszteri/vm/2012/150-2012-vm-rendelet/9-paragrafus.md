@@ -1,0 +1,5 @@
+9. § (1) A termelői szervezet és a termelői szervezetek társulása a bizottsági rendelet 23. cikkében meghatározottakra figyelemmel bármely tevékenységének teljesítésével harmadik felet bízhat meg, ha az elismerés iránti kérelem benyújtásával egyidejűleg, vagy a kiszervezésre vonatkozó szerződés megkötése előtt hitelt érdemlően bizonyítja, hogy ez a célkitűzések, illetve intézkedések megvalósításának megfelelő módját jelenti.
+
+(2) A kiszervezés feltétele, hogy a kiszervezésre vonatkozó szerződés rendelkezéseket tartalmazzon, a kiszervezett tevékenység megvalósításának fonatosabb követelményeire, a kiszervezett tevékenység végrehajtásának termelői szervezet vagy termelői szervezetek társulása által történő ellenőrzésének és a kiszervezett tevékenyég elvégzésére szerződésben kötelezettséget vállaló fél beszámoltatásának módjára.
+
+(3) A kiszervezésre vonatkozó szerződést a termelői szervezet, vagy termelői szervezetek társulása legfőbb döntéshozó szervének jóvá kell hagynia. A legfőbb döntéshozó szerv által történő jóváhagyás során a kiszervezett tevékenyég elvégzésére szerződésben kötelezettséget vállaló fél illetve annak képviselője nem szavazhat.
