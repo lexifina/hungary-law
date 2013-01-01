@@ -10,4 +10,4 @@ c) aki magyar állampolgár anyától és külföldi állampolgár apától 1957
 
 (2) A nyilatkozat elfogadása esetén a miniszter bizonyítványban igazolja az állampolgárság megszerzését.
 
-(3) A miniszter határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Törvényszéktől kérhető.
+(3) A miniszter határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.

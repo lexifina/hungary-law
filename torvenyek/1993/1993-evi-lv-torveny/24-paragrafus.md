@@ -8,7 +8,7 @@ a) a miniszter e törvényben meghatározott feladatainak részletes szabályait
 
 b) az eskü vagy fogadalom letételével kapcsolatos feladatokat;
 
-c) a jegyzőnek, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
+c) a járási hivatalnak, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
 
 d) az eljárásban használandó formanyomtatványokat;
 

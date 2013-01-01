@@ -10,4 +10,4 @@ b) adatot kérhet és betekinthet a polgárok személyi adat- és lakcímnyilvá
 
 c) adatot kérhet a rendőrségi, a bűntettesek és a büntetőeljárás alatt állók nyilvántartásából, valamint az ügyészségtől és a bíróságtól;
 
-d) véleményt kérhet a jegyzőtől, a konzultól, a gyámhatóságtól és az idegenrendészeti hatóságoktól, továbbá véleményt kér a rendőrségtől és az illetékes nemzetbiztonsági szolgálattól.
+d) véleményt kérhet a jegyzőtől, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától (a továbbiakban: járási hivatal), a konzultól, a gyámhatóságtól és az idegenrendészeti hatóságoktól, továbbá véleményt kér a rendőrségtől és az illetékes nemzetbiztonsági szolgálattól.
