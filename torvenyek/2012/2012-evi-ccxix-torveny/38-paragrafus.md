@@ -6,7 +6,7 @@ a) segíti a hegyközségek és a hegyközségi tanácsok tevékenységét;
 
 b) összegzi és elemzi a hegyközségek adatszolgáltatását, és ennek alapján javaslatokat dolgoz ki az esetleges agrárpiaci beavatkozásra;
 
-c) vezeti az újratelepítési jogok központi nyilvántartását;
+c)
 
 d) termékek piacra jutását elősegítő szolgáltatásokat szervez;
 
