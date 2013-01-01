@@ -10,15 +10,15 @@ a) a szolgáltatási díj — az esetleges víziközmű fejlesztési hozzájáru
 
 b) az átvezetési szolgalom ingatlan-nyilvántartási bejegyzése iránti kérelemnek a földhivatal iktatóbélyegzőjével ellátott igazolását.
 
-(4)[^45] Ha a víziközmű törzshálózat a szomszédos ingatlan mentén fekszik, a bekötés a szomszédos ingatlan tulajdonosának hozzájárulásával – az ingatlantulajdonosok megállapodása (szerződéses szolgalom) alapján – a szomszédos ingatlan igénybevételével is elvégezhető. A szerződésnek tartalmaznia kell a létesítmény elhelyezésével, az ingatlan használatával kapcsolatos kölcsönös jogokat és kötelezettségeket. A szerződést a szolgáltatói hozzájárulás iránti kérelemhez kell csatolni.
+(4)[^48] Ha a víziközmű törzshálózat a szomszédos ingatlan mentén fekszik, a bekötés a szomszédos ingatlan tulajdonosának hozzájárulásával – az ingatlantulajdonosok megállapodása (szerződéses szolgalom) alapján – a szomszédos ingatlan igénybevételével is elvégezhető. A szerződésnek tartalmaznia kell a létesítmény elhelyezésével, az ingatlan használatával kapcsolatos kölcsönös jogokat és kötelezettségeket. A szerződést a szolgáltatói hozzájárulás iránti kérelemhez kell csatolni.
 
-(5)[^46] A (4) bekezdésben meghatározott megállapodás hiányában – ha a szomszédos ingatlant érintő bekötővezeték megvalósítása és üzemeltetése az ingatlan rendeltetésszerű használatát nem zárja ki, vagy lényegesen nem akadályozza – a jegyző a szomszédos ingatlanra vízvezetési és szennyvízelvezetési szolgalmat alapíthat.
+(5)[^49] A (4) bekezdésben meghatározott megállapodás hiányában – ha a szomszédos ingatlant érintő bekötővezeték megvalósítása és üzemeltetése az ingatlan rendeltetésszerű használatát nem zárja ki, vagy lényegesen nem akadályozza – a járási hivatal a szomszédos ingatlanra vízvezetési és szennyvízelvezetési szolgalmat alapíthat.
 
-(6)[^47] Az (5) bekezdés szerinti tűrési kötelezettséget meg kell szüntetni, ha az uralkodó telek mentén a víziközmű törzshálózat megépült, és az abba való bekötés – a meglévő állapothoz képest – nem okoz aránytalan hátrányt.
+(6)[^50] Az (5) bekezdés szerinti tűrési kötelezettséget meg kell szüntetni, ha az uralkodó telek mentén a víziközmű törzshálózat megépült, és az abba való bekötés – a meglévő állapothoz képest – nem okoz aránytalan hátrányt.
 
-(7)[^48] A víziközmű törzshálózatba bekötött ingatlanok megosztása vagy egyesítése esetén az új állapotnak megfelelő bekötések megépítéséről, illetőleg megszüntetéséről – eltérő megállapodás hiányában – az ezzel járó költségek viselése mellett a telekalakítás kezdeményezőjének kell gondoskodnia.
+(7)[^51] A víziközmű törzshálózatba bekötött ingatlanok megosztása vagy egyesítése esetén az új állapotnak megfelelő bekötések megépítéséről, illetőleg megszüntetéséről – eltérő megállapodás hiányában – az ezzel járó költségek viselése mellett a telekalakítás kezdeményezőjének kell gondoskodnia.
 
-[^45]: A 6. § (4) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^46]: A 6. § (5) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^47]: A 6. § (6) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^48]: A 6. § (7) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^48]: A 6. § (4) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^49]: A 6. § (5) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^50]: A 6. § (6) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^51]: A 6. § (7) bekezdése a 37/1999. (II. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
