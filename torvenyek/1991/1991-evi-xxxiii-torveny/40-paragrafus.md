@@ -4,7 +4,7 @@
 
 (3) A megyei, fővárosi közigazgatási hivatal használatába kell adni az (1) bekezdésben megjelölt vagyont, ha a volt tanács és szervei, illetve tisztségviselői, valamint a (2) bekezdésben felsoroltak feladatait jogutódként a megyei, fővárosi közigazgatási hivatal vezetője látja el.
 
-(4) Az állami szerv használatában lévő vagyont az önkormányzat használatába kell adni, ha az állami szerv által biztosított közszolgáltatást törvény az önkormányzat kötelező feladatává teszi vagy az állami szerv által végzett államigazgatási feladatot törvény, illetve kormányrendelet a főpolgármesterre, polgármesterre, a megyei közgyűlés elnökére, a főjegyzőre, jegyzőre, képviselőtestület hivatalának ügyintézőjére bízza.
+(4) Az állami szerv használatában lévő vagyont az önkormányzat használatába kell adni, ha az állami szerv által biztosított közszolgáltatást törvény az önkormányzat kötelező feladatává teszi vagy az állami szerv által végzett államigazgatási feladatot törvény, illetve kormányrendelet a főpolgármesterre, polgármesterre, a megyei közgyűlés elnökére, a főjegyzőre, jegyzőre bízza.
 
 (5) Ha a feladat- és hatáskört megállapító jogszabály másként nem rendelkezik, az átadás időpontját az érintett önkormányzatok, illetve állami szervek megállapodása határozza meg. A használatba vétel kezdő időpontja — megállapodás hiányában — a feladat- és hatáskört megállapító jogszabály hatályba lépését követő év január 1. napja.
 
