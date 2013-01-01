@@ -180,7 +180,9 @@ vasúti pálya;
 
 16. kapcsolt vállalkozás: a számviteli törvényben így meghatározott fogalom;
 
-17–18.
+17. GSM-R fejlesztő: olyan gazdasági társaság, amely a vasúti pályahálózat tartozékát képező GSM-R rendszer-hálózat létesítését végzi, és nem minősül a vasúti pályahálózat működtetőjének, valamint tevékenységének folytatásához nincs szüksége e törvény szerinti működési engedélyre;
+
+18.
 
 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
 

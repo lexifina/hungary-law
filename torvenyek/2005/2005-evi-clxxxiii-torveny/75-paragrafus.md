@@ -6,6 +6,6 @@
 
 (3) A vasúti igazgatási szerv a (2) bekezdés szerinti tevékenysége során igénybe vett szakértőre a vasúti igazgatási szerv köztisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
 
-(4) A vasúti igazgatási szerv a vasúti társaságokat, a VPSZ-t és a fejlesztési közreműködőt a piac felügyeletével kapcsolatos tevékenység ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
+(4) A vasúti igazgatási szerv a vasúti társaságokat, a VPSZ-t és a fejlesztési közreműködőt, valamint a közlekedésszervezőt a piac felügyeletével kapcsolatos tevékenység ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
 
 (5) A vasúti igazgatási szerv felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.

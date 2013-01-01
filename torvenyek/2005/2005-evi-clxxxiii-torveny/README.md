@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2012-07-06 | 2012. évi XCIII. törvény | 2005-183-00-00.30 |
 | 2012-08-07 | 2012. évi CXIX. törvény | 2005-183-00-00.31 |
 | 2012-08-23 | 2012. évi CXIX. törvény | 2005-183-00-00.32 |
+| 2013-01-01 | 2012. évi CCVIII. törvény | 2005-183-00-00.33 |

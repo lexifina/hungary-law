@@ -16,7 +16,7 @@ g)
 
 h) a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a vasúti pályahálózat működtetője, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés vasúti pályák nyílt hozzáférésűvé, illetve nyílt hozzáférés alól mentessé történő minősítéséről,
 
-i) a vasúti társaság személyszállítási és árufuvarozási üzletszabályzatának jóváhagyása,
+i) a vasúti társaság személyszállítási és árufuvarozási üzletszabályzatának, valamint a közlekedésszervező személyszállítási üzletszabályzatának jóváhagyása,
 
 j) a vasúti közlekedési piac fejlődésének nyomon követése, elemzése és értékelése,
 

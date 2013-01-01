@@ -10,4 +10,4 @@
 
 (6) A vasúti igazgatási szerv közzéteszi a 73. § (1) bekezdésének a)–h) és p)–r) pontjai szerinti eljárásokban hozott határozatait azzal, hogy a közzététel kiterjed a Hálózati Üzletszabályzat, a keretmegállapodás, a belső megállapodás, valamint az üzemi menetrend szövegére is. A közzétett határozat nem tartalmazhatja az érdekeltek által előzetesen – indokoltan – üzleti titoknak minősített adatokat.
 
-(7) A vasúti igazgatási szerv jogosult a működési engedélyben meghatározott tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához a vasúti társaságtól, a VPSZ-től, valamint a fejlesztési közreműködőtől információkat kérni. Az információk, adatok nyilvánosságra hozatalát jogszabály előírhatja.
+(7) A vasúti igazgatási szerv jogosult a működési engedélyben meghatározott tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához a vasúti társaságtól, a VPSZ-től, valamint a fejlesztési közreműködőtől, valamint a közlekedésszervezőtől információkat kérni. Az információk, adatok nyilvánosságra hozatalát jogszabály előírhatja.
