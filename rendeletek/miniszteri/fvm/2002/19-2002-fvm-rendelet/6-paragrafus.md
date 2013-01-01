@@ -22,10 +22,12 @@ eb) a magas szintű tőgyegészségügyi tevékenység technológiáját, valami
 
 ec) a rendszeres rágcsáló- és rovarirtás módját.
 
-(2) A mentesítési tervben előírtak betartását a kerületi főállatorvos felügyeli. A 7. § (3) bekezdés a) és b) pontja szerinti vér-, illetve tejminták vételének időpontját a kerületi főállatorvosnak előzetesen be kell jelenteni. A mintavételt állami állategészségügyi feladatokkal megbízott állatorvos végzi.
+(2)[^3] A mentesítési tervben előírtak betartását a járási főállatorvos felügyeli. A 7. § (3) bekezdés a) és b) pontja szerinti vér-, illetve tejminták vételének időpontját a járási főállatorvosnak előzetesen be kell jelenteni. A mintavételt állami állategészségügyi feladatokkal megbízott állatorvos végzi.
 
 (3) A mentesítéssel kapcsolatos vizsgálatokat az Állategészségügyi Intézetek (a továbbiakban: Intézet) végzik. A laboratóriumi vizsgálatok során az eredmények értékelése és összehasonlíthatósága érdekében minden Intézetben egységes diagnosztikai módszereket kell alkalmazni.
 
 (4) A laboratóriumi vizsgálatok és a mintavétel díjkötelesek. A vizsgálatok díja a tulajdonost terheli, mértékéről külön jogszabály rendelkezik.
 
 (5) A védekezéshez előírt vakcina árát, más jogszabály eltérő rendelkezése hiányában a tulajdonos köteles megtéríteni.
+
+[^3]: A 6. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 7. § b) pontja szerint módosított szöveg.

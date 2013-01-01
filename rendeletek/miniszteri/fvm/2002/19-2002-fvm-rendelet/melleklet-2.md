@@ -1,6 +1,4 @@
-## ................................. Állategészségügyi és Élelmiszer-ellenőrző Állomás
-
-## Kerületi Főállatorvos
+## ................................. Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal
 
 ## Cím:
 
@@ -22,7 +20,7 @@
 
 ## ......................
 
-## kerületi főállatorvos
+## járási főállatorvos
 
 2. számú melléklet a 19/2002. (III. 8.) FVM rendelethez
 
