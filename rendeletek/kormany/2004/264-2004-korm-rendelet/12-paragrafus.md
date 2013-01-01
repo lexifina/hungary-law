@@ -1,1 +1,0 @@
-## A gyártó adatszolgáltatásának ellenőrzése
