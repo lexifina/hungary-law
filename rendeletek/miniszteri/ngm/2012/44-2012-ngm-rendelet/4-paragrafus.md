@@ -1,0 +1,1 @@
+## 3. § Hatályát veszti a megyei (fővárosi) munkaügyi központok illetékességéről, valamint a felnőttképzési tevékenység megkezdésének és folytatásának részletes szabályairól szóló 2/2010. (II. 16.) SZMM rendelet módosításáról szóló 42/2011. (XII. 2.) NGM rendelet.
