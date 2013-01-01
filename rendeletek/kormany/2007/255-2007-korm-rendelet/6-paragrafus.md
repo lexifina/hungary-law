@@ -1,1 +1,0 @@
-## Egyes építésügyi nyilvántartások
