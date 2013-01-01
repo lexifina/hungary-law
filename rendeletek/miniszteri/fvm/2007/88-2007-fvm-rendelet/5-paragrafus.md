@@ -40,7 +40,7 @@ b) kiegészítő intézkedés megvalósítása.
 
 a) az erdőrészlet határainak azonosíthatóságáról a teljes támogatási időszak alatt gondoskodni, és
 
-b)[^17] a művelési ág változását bejelenteni a körzeti földhivatalnál a megvalósult erdőtelepítés Országos Erdőállomány Adattáron történő átvezetéséről szóló jogerős határozattal, annak közlését követő nyolc napon belül.
+b)[^17] a művelési ág változását bejelenteni a járási földhivatalnál a megvalósult erdőtelepítés Országos Erdőállomány Adattáron történő átvezetéséről szóló jogerős határozattal, annak közlését követő nyolc napon belül.
 
 [^11]: Az 5. § a 118/2007. (X. 17.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^12]: Az 5. § (1) bekezdésének a) pontja a 149/2008. (XI. 12.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -48,4 +48,4 @@ b)[^17] a művelési ág változását bejelenteni a körzeti földhivatalnál a
 [^14]: Az 5. § (1) bekezdésének c) pontja a 149/2008. (XI. 12.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^15]: Az 5. § (2) bekezdése a 11/2010. (VIII. 30.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (3) bekezdése a 46/2010. (XII. 31.) VM rendelet 4. §-ával megállapított szöveg.
-[^17]: Az 5. § (5) bekezdés b) pontja a 11/2010. (VIII. 30.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (5) bekezdés b) pontja a 11/2010. (VIII. 30.) VM rendelet 3. § (3) bekezdésével megállapított, a 151/2012. (XII. 29.) VM rendelet 24. §-a szerint módosított szöveg.
