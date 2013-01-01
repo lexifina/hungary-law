@@ -6,13 +6,13 @@
 
 (3) A szabadforgalomból visszavásárolt, illetve visszaszállított adójegyes dohánygyártmányt az egyéb dohánygyártmánytól elkülönítetten kell tárolni, és nyilvántartani. Az ezen dohánygyártmányokon lévő adójegyet nem kell az adójegy-elszámolásban szerepeltetni.
 
-(4) A szabadforgalomba bocsátott dohánygyártmány adójegyének
+(4)[^62] A szabadforgalomba bocsátott dohánygyártmány adójegyének
 
-a) a Jöt. 99. § (7) bekezdés b) pontja szerinti eltávolítása és a bejegyzett kereskedő vagy az importáló által a dohánygyártmány új adójeggyel történő ellátása, vagy
+a) a Jöt. 99. § (7) bekezdés b) pontja szerinti eltávolítása és a bejegyzett kereskedő vagy az importáló által a dohánygyártmány új adójeggyel történő ellátása kizárólag a vámszerv előzetes értesítését követően végezhető; az adójegy eltávolítását és a bejegyzett kereskedő vagy az importáló által a dohánygyártmány új adójeggyel történő ellátását követően, a dohánygyártmányokról levett, gyűjtőívre felhelyezett korábbi adómértéknek megfelelő adójegyek megsemmisítése kizárólag a vámszerv jelenlétében végezhető;
 
-b) a Jöt. 108. § (1) bekezdése szerinti felülragasztása
+b) a Jöt. 108. § (1) bekezdése szerinti felülragasztása kizárólag a vámszerv jelenlétében, annak előzetes értesítését követően végezhető.
 
-kizárólag a vámszerv jelenlétében, annak előzetes értesítését követően végezhető. Az értesítést legalább 3 munkanappal a felülragasztás tervezett időpontját megelőzően, írásban kell a vámszervhez benyújtani.
+(4a)[^63] A (4) bekezdés szerinti értesítést legalább 3 munkanappal az eltávolítás, illetve felülragasztás tervezett időpontját megelőzően, írásban kell a vámszervhez benyújtani.
 
 (5) A vámszerv az adójegy (4) bekezdés a) pontja szerinti eltávolításáról és az új adójegyek felhelyezéséről, vagy a b) pontja szerinti felülragasztásáról jegyzőkönyvet készít.
 
@@ -20,3 +20,5 @@ kizárólag a vámszerv jelenlétében, annak előzetes értesítését követő
 
 [^60]: A 12. §-t megelőző cím a 46/2005. (XII. 26.) PM rendelet 2. §-ával megállapított szöveg.
 [^61]: A 12. § az 54/2011. (XII. 29.) NGM rendelet 10. §-ával megállapított szöveg.
+[^62]: A 12. § (4) bekezdése az 52/2012. (XII. 29.) NGM rendelet 5. §-ával megállapított szöveg.
+[^63]: A 12. § (4a) bekezdését az 52/2012. (XII. 29.) NGM rendelet 5. §-a iktatta be.

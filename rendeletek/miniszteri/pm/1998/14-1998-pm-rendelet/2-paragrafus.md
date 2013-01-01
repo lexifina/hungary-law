@@ -12,11 +12,11 @@
 
 (6)[^10] Az importőr adójegy-felhasználó, valamint az eseti bejegyzett kereskedő számára fizetési halasztás mellett a megrendelt adójegy abban az esetben adható ki, ha a kiadást megelőzően a Jöt. 98. § (6) bekezdésében előírt nagyságú biztosíték rendelkezésre állását az importőr adójegy-felhasználó, valamint az eseti bejegyzett kereskedő igazolja. Biztosítékként készpénz vagy a Jöt. 7. § 43. pontja szerinti pénzügyi biztosíték fogadható el.
 
-(7)[^11] Az (5)–(6) bekezdés szerinti, bankgaranciában nyújtott jövedéki biztosítéknak olyan eredeti, meghatározott határnapig érvényes, visszavonhatatlan vagy a Jöt. 38. § (11) bekezdése szerint visszavonható bankgaranciának kell lennie, amelynek összegén belül a garanciát nyújtó hitelintézet kötelezettséget vállal arra, hogy a fizetési kötelezettségre adott halasztás lejártát követően fennálló tartozás esetén, a KAVIG igénybejelentése alapján – a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 banki napon belül – teljesít. A bankgaranciában a KAVIG-ot kizárólagos kedvezményezettként kell megjelölni. A bankgarancia érvényességi idejének legalább 30 nappal meg kell haladnia a fizetési kötelezettségre adott halasztás lejárta időpontját.
+(7)[^11] Az (5) és (6) bekezdés szerinti, a Jöt. 7. § 43. pontjában meghatározott pénzügyi biztosítékban nyújtott jövedéki biztosítéknak olyan eredeti, meghatározott határnapig érvényes, visszavonhatatlan vagy a Jöt. 38. § (11) bekezdése szerint visszavonható pénzügyi biztosítéknak kell lennie, amelynek összegén belül a pénzügyi biztosítékot nyújtó pénzügyi intézmény vagy biztosító kötelezettséget vállal arra, hogy a fizetési kötelezettségre adott halasztás lejártát követően fennálló tartozás esetén, a KAVIG igénybejelentése alapján – a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 banki napon belül – teljesít. A pénzügyi biztosítékban a KAVIG-ot kizárólagos kedvezményezettként kell megjelölni. A pénzügyi biztosíték érvényességi idejének legalább 30 nappal meg kell haladnia a fizetési kötelezettségre adott halasztás lejárta időpontját.
 
 (8)[^12] Amennyiben az adójegy-felhasználó nem kér fizetési halasztást, a megrendelt adójegyeket az adójegy átvételével keletkező fizetési kötelezettsége teljesítésének igazolása mellett veheti át. Igazolásként fizetésiszámla-kivonat vagy a terhelés megtörténtéről szóló banki igazolás eredeti példánya fogadható el.
 
-(9)[^13] A KAVIG az adójegyek kiadásának engedélyezése során megállapítja az adójegyek utáni fizetési kötelezettséget. Amennyiben az adójegy-felhasználónak a vámhatóság felé meg nem fizetett jövedéki adó vagy általános forgalmi adó tartozása van – nem értve ide, ha arra részletfizetést vagy fizetési halasztást engedélyeztek –, a KAVIG az adójegyek kiadásáról elutasítja.
+(9)[^13] Ha az adójegy kiadásának – a Jöt.-ben és e rendeletben előírt – feltételei hiányoznak, vagy az adójegy-felhasználónak az állami adó- és vámhatóság felé meg nem fizetett végrehajtható adótartozása van – nem értve ide, ha arra részletfizetést vagy fizetési halasztást engedélyeztek –, a KAVIG a kiadás elutasításáról dönt.
 
 (10)[^14]
 
@@ -26,7 +26,7 @@
 [^8]: A 2. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
 [^9]: A 2. § (5) bekezdése a 44/2009. (XII. 29.) PM rendelet 45. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
 [^10]: A 2. § (6) bekezdése a 31/2008. (XII. 19.) PM rendelet 1. §-ával megállapított, a 44/2009. (XII. 29.) PM rendelet 45. § (2) bekezdése szerint módosított szöveg.
-[^11]: A 2. § (7) bekezdése a 17/2011. (IV. 19.) NGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 2. § (7) bekezdése az 52/2012. (XII. 29.) NGM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (8) bekezdése a 17/2010. (IV. 28.) PM rendelet 1. §-a szerint módosított szöveg.
-[^13]: A 2. § (9) bekezdése a 17/2009. (IX. 29.) PM rendelet 29. §-a, a 17/2011. (IV. 19.) NGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 2. § (9) bekezdése az 52/2012. (XII. 29.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^14]: A 2. § (10) bekezdését a 44/2009. (XII. 29.) PM rendelet 48. § (1) bekezdése hatályon kívül helyezte.

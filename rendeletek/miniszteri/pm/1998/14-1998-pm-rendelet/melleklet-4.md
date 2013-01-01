@@ -8,11 +8,13 @@
 
 ## 1.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír.
 
-## 1.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és nyolc számból álló sorszám (XXX0000000XX0).
+## 1.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és hét számból álló sorszám (XXX0000000XX).
 
-## 1.5. Kiszerelési egység: A cigaretta esetében a méretre vágott adójegyek 500-anként szalagozott kötegekben, egyébként a méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
+## 1.5. Ellenőrző kód: A sorszámot követő karakter.
 
-## 1.6. Csomagolási egység: A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelemben kitöltsék.
+## 1.6. Kiszerelési egység: A cigaretta esetében a méretre vágott adójegyek 500-anként szalagozott kötegekben, egyébként a méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
+
+## 1.7. Csomagolási egység: A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelemben kitöltsék.
 
 ## 2. A darabonként csomagolt szivar adójegye
 
@@ -22,10 +24,12 @@
 
 ## 2.3. Anyaga: Speciális, kizárólag erre a célra gyártott öntapadós hologramfólia.
 
-## 2.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és nyolc számból álló sorszám (XXX0000000XX0).
+## 2.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és hét számból álló sorszám (XXX0000000XX).
 
-## 2.5. Csomagolási egység: 50 darab ív, ívenként 30 darab adójegy, dobozba rakva.
+## 2.5. Ellenőrző kód: A sorszámot követő karakter.
 
-4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^71]
+## 2.6. Csomagolási egység: 50 darab ív, ívenként 30 darab adójegy, dobozba rakva.
 
-[^71]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.
+4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^73]
+
+[^73]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.

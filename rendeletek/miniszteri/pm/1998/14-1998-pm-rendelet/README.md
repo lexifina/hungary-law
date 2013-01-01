@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-14-20-5
 | 2012-01-01 | 1998-14-20-53.20 | 54/2011. (XII. 29.) NGM rendelet |
 | 2012-05-01 | 1998-14-20-53.21 | 54/2011. (XII. 29.) NGM rendelet |
 | 2012-07-01 | 1998-14-20-53.22 | 54/2011. (XII. 29.) NGM rendelet |
+| 2013-01-01 | 1998-14-20-53.23 | 52/2012. (XII. 29.) NGM rendelet |
