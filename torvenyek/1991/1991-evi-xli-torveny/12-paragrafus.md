@@ -1,6 +1,6 @@
 ## A közjegyző illetékességi területe
 
-12. § (1) A közjegyző illetékességi területe általában annak a helyi bíróságnak az illetékességi területével egyezik meg, amely a közjegyző székhelyén működik.
+12. § (1) A közjegyző illetékességi területe általában annak a járásbíróságnak az illetékességi területével egyezik meg, amely a közjegyző székhelyén működik.
 
 (2) A Budapesten működő közjegyzők illetékessége a főváros egész területére kiterjed.
 
