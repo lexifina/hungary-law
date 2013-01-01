@@ -2,9 +2,9 @@
 
 5. § Ez a rendelet 2009. július 28. napján lép hatályba.
 
-Melléklet a 154/2009. (VII. 23.) Korm. rendelethez
+Melléklet a 154/2009. (VII. 23.) Korm. rendelethez[^2]
 
-Igénylőlap az állami készfizető kezesség beváltásához (a kötelezett lakcíme szerint területileg illetékes Adó- és Pénzügyi Ellenőrzési Hivatal részére küldendő)
+Igénylőlap az állami készfizető kezesség beváltásához (a Kiemelt Adózók Adóigazgatósága részére küldendő)
 
 1. A természetes személy adatai
 
@@ -61,3 +61,5 @@ Kelt:
 .................................................
 
 cégszerű aláírás
+
+[^2]: A melléklet a 366/2012. (XII. 17.) Korm. rendelet 37. §-a szerint módosított szöveg.
