@@ -1,6 +1,6 @@
-## 28–33. §[^4]
+## 28–33. §[^29]
 
-1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^5]
+1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^30]
 
 1. számú adatlap
 
@@ -8,9 +8,11 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 (megalapozott gyanú közlése, eljárás felfüggesztése, eljárás folytatása, új eljárás lefolytatása, eljárás megszüntetése)
 
+Az 1., 2. és 4. pont kitöltése minden esetben kötelező!
+
 □ PÓTLAP IGÉNYBEVÉTELE
 
-| 1. Terhelt személyazonosító adatai: |
+| 1. Terhelt személyazonosító adatai: (kitöltése kötelező) |
 
 | 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
@@ -20,7 +22,7 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 |  | 1.4. Előző családi és utónév: |
 
-|  | 1.5. Születési hely: ........................................................................................................ és idő: □□□□ év □□ hó □□ nap. |
+| 1.5. Születési hely: ........................................................................................................ és idő: □□□□ év □□ hó □□ nap. |
 
 |  | 1.6. Anyja születési családi és utóneve: |
 
@@ -28,7 +30,7 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 |  | 1.9. Lakóhely: |
 
-| 2. A bűncselekmény adatai: |
+| 2. A bűncselekmény adatai: (kitöltése kötelező) |
 
 |  | Kód és megnevezés | Btk. szerinti minősítés | Rendbeliség | Elkövetési hely | Elkövetési idő |  |
 
@@ -48,7 +50,7 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 |  | 3.1. arcképmás egyedi azonosító | 3.2. belső azonosító kód ujj- és tenyérnyomathoz | 3.3. belső azonosító kód DNS-mintához |  |
 
-| 4. Megalapozott gyanú közlésének adatai: |
+| 4. Megalapozott gyanú közlésének adatai: (kitöltése kötelező) |
 
 | 4.1. Az eljáró szerv kódja és megnevezése: □□□□□□□ |
 
@@ -64,7 +66,7 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 |  | 5.3. Az eljárás felfüggesztésének oka: |
 
-| 5.4. A felfüggesztés időtartama: □□□□.□□.□□-tól □□□□.□□.□□-ig |
+| 5.4. A felfüggesztés időtartama: □□□□.□□.□□-tól□□□□.□□.□□-ig |
 
 |  | 5.5. Az alapügyben eljárt szerv megnevezése: ......................................... határozatának száma: |
 
@@ -76,9 +78,9 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 |  | 6.2. Az eljárásban hozott határozat száma: |
 
-|  | 6.3. Az eljárás folytatásának vagy új eljárás indításának időpontja: □□□□ év □□ hó □□ nap. |
+| 6.3. Az eljárás folytatásának vagy új eljárás indításának időpontja: □□□□ év □□ hó □□ nap. |
 
-|  | 6.4. Alapügyben vagy a büntetőeljárás folytatását megelőzően eljárt szerv kódja és megnevezése: |
+| 6.4. Alapügyben vagy a büntetőeljárás folytatását megelőzően eljárt szerv kódja és megnevezése: |
 
 |  | □□□□□□□ |
 
@@ -104,9 +106,11 @@ Az eljáró szerv képviselője
 
 ADATKÖZLÉS VÁDEMELÉSRŐL VAGY VÁDEMELÉS ELHALASZTÁSÁRÓL
 
+Az 1., 2. és 3. pont kitöltése minden esetben kötelező!
+
 □ PÓTLAP IGÉNYBEVÉTELE
 
-| 1. Terhelt személyazonosító adatai: |
+| 1. Terhelt személyazonosító adatai: (kitöltése kötelező) |
 
 | 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
@@ -120,19 +124,19 @@ ADATKÖZLÉS VÁDEMELÉSRŐL VAGY VÁDEMELÉS ELHALASZTÁSÁRÓL
 
 |  | 1.6. Anyja születési családi és utóneve: |
 
-|  | 1.7. Neme: □ férfi □ nő |  | 1.8. Állampolgárság: .............................. Előző állampolgárság: |
+| 1.7. Neme: □ férfi □ nő |  | 1.8. Állampolgárság: .............................. Előző állampolgárság: |
 
 |  | 1.9. Lakóhely: |
 
-| 2. Megalapozott gyanú közlésével kapcsolatos adatok: |
+| 2. Megalapozott gyanú közlésével kapcsolatos adatok: (kitöltése kötelező) |
 
 | 2.1. A megalapozott gyanút közlő szerv kódja és megnevezése: □□□□□□□ |
 
-|  | 2.2. A megalapozott gyanú közlésének időpontja: □□□□ év □□ hó □□ nap. |
+| 2.2. A megalapozott gyanú közlésének időpontja: □□□□ év □□ hó □□ nap. |
 
-|  | 2.3. A büntetőügy iktatószáma: |  |
+|  | 2.3. A büntetőügy iktatószáma: |
 
-| 3. A vád tárgyává tett bűncselekmény adatai: |
+| 3. A vád tárgyává tett bűncselekmény adatai: (kitöltése kötelező) |
 
 |  | Kód és megnevezés | Btk. szerinti minősítés | Rendbeliség | Elkövetési hely | Elkövetési idő |  |
 
@@ -192,7 +196,7 @@ ADATKÖZLÉS ÜGYÉSZI MEGROVÁS ALKALMAZÁSÁRÓL
 
 |  | 1.6. Anyja születési családi és utóneve: |
 
-|  | 1.7. Neme: □ férfi □ nő |  | 1.8. Állampolgárság: ...................................... Előző állampolgárság: |
+| 1.7. Neme: □ férfi □ nő |  | 1.8. Állampolgárság: ...................................... Előző állampolgárság: |
 
 |  | 1.9. Lakóhely: |
 
@@ -202,21 +206,15 @@ ADATKÖZLÉS ÜGYÉSZI MEGROVÁS ALKALMAZÁSÁRÓL
 
 |  | 2.2. Határozatának száma: | kelte: □□□□ év □□ hó □□ nap. |
 
-|  | 2.3. Büntetőeljárást indító szerv megnevezése: |  |
+|  | 2.3. Büntetőeljárást indító szerv megnevezése: |
 
 |  | határozatának száma: | kelte: □□□□ év □□ hó □□ nap. |
 
 | 3. Bűncselekményi adatok: |
 
-|  | Megnevezés | Btk. szerinti minősítés | Rb. | Az elkövetési helye és ideje | Elkövetői vagy elkövetési alakzat | Bűn- szerv. |  |
+|  | Megnevezés | Btk. szerinti minősítés | Rb. | Az elkövetési helye és ideje | Elkövetői és elkövetési alakzat | Bűn- szerv. |  |
 
 |  |  |  |  | ............................../ .............................. | ............................../ .............................. | □ |  |
-
-|  |  |  |  | ............................../ ............................... | ............................../ ............................... | □ |  |
-
-|  |  |  |  | ............................../ ............................... | ............................../ ............................... | □ |  |
-
-|  |  |  |  | ............................../ ............................... | ............................../ ............................... | □ |  |
 
 |  |  |  |  | ............................../ ............................... | ............................../ ............................... | □ |  |
 
@@ -232,13 +230,15 @@ Az eljáró szerv képviselője
 
 | Bűnügyi nyilvántartó szerv bejegyzése: |
 
-| Nyilvántartási ideje: □□□□ év □□ hó □□ nap |
+| Nyilvántartási ideje: |
 
 4. számú adatlap
 
 ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
 | □ PÓTLAP IGÉNYBEVÉTELE |
+
+| A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM(kitöltése kötelező) |
 
 | 1. Terhelt személyazonosító adatai: |
 
@@ -254,7 +254,7 @@ ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
 |  | 1.6. Anyja születési családi és utóneve: |
 
-|  | 1.7. Neme: □ férfi □ nő |  | 1.8. Állampolgárság: .......................................... Előző állampolgárság: |
+| 1.7. Neme: □ férfi □ nő |  | 1.8. Állampolgárság: .......................................... Előző állampolgárság: |
 
 |  | 1.9. Lakóhely: |
 
@@ -280,29 +280,23 @@ ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
 | 2.7. Vádiratot benyújtó ügyészség kódja és megnevezése: □□□□□□□ |
 
-| vádirat száma: ........................................................................ kelte: □□□□ év □□ hó □□ nap. |
+|  | vádirat száma: | kelte: □□□□ év □□ hó □□ nap |
+
+| annak az eljárásnak az ügyiratszáma, amelyben a megalapozott gyanút a terhelttel közölték: ...................................................kelte: □□□□ év □□ hó □□ nap. |
 
 | 2.8. Rendkívüli perorvoslat vagy jogorvoslat esetén az alapügyben jogerős határozatot hozó bíróság megnevezése: |
 
 | határozatának száma: .......................................................... jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
 
-| 2.9. □ A terhelt fiatalkorú |
+| 2.9. □ A terhelt fiatalkorú □igen□ nem (kitöltése kötelező) |
 
 | 2.10. A terhelt □ nem visszaeső □ visszaeső □ különös visszaeső □ többszörös visszaeső □ erőszakos többszörös visszaeső |
 
-| 2.11. Az érintett előzetes mentesítésben részesült: □ igen |
+| 2.11. Az érintett előzetes mentesítésben részesült: □ igen □nem (kitöltése kötelező) |
 
 | 3. Bűncselekményi adatok: |
 
-|  | Megnevezés | Btk. szerinti minősítés | Rb. | Az elkövetés helye és ideje | Elkövetői vagy elkövetési alakzat | Bűn- szerv. |  |
-
-|  |  |  |  | ........................../ ........................... | ........................../ ........................... | □ |  |
-
-|  |  |  |  | ........................../ ........................... | ........................../ ........................... | □ |  |
-
-|  |  |  |  | ........................../ ........................... | ........................../ ........................... | □ |  |
-
-|  |  |  |  | ........................../ ........................... | ........................../ ........................... | □ |  |
+|  | Megnevezés | Btk. szerinti minősítés | Rb. | Az elkövetés helye és ideje | Elkövetői éselkövetési alakzat | Bűn- szerv. |  |
 
 | 4. Szankció adatai: |
 
@@ -316,9 +310,9 @@ ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
 | 4.3.1 Vh. felfüggesztve ……… évre |
 
-| 4.3.2.1. Részben felfüggesztett szabadságvesztés esetén a végrehajtandó rész tartama: ….év …… hónap |
+| 4.3.1.1. Részben felfüggesztett szabadságvesztés esetén a végrehajtandó rész tartama: ….év …… hónap |
 
-| 4.3.2.2. Részben felfüggesztett szabadságvesztés esetén a próbaidő tartama: ….év …… hónap |
+| 4.3.1.2. Részben felfüggesztett szabadságvesztés esetén a próbaidő tartama: ….év …… hónap |
 
 | 4.4. MELLÉKBÜNTETÉS |
 
@@ -328,29 +322,7 @@ ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
 |  | Neme | Mértéke |  |
 
-| 4.6. Önállóan alkalmazott, határozott idejű kiutasítás leteltének napja: □□□□ év □□ hó □□ nap. |
-
-| 4.7. A bíróság a kiszabott szabadságvesztésbe az |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| előzetes fogva tartásban, illetőleg |  |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| .......... évi ............................................. hó ........ napjától | .......... évi ............................................. hó ........ napjáig |
-
-| házi őrizetben eltöltött időt, oly módon, hogy egynapi szabadságvesztésnek három/négy/öt napi házi őrizet felel meg beszámította. |
+| 4.6. Önállóan alkalmazott, határozott idejű kiutasítás leteltének napja: □□□□ év □□ hó □□ nap. 4.7. A szabadságvesztés végrehajtásába beszámított idő (kitöltése kötelező):□□□□ év □□ hó □□ nap. |
 
 | 4.8. Felfüggesztett szabadságvesztés, illetve részben felfüggesztett szabadságvesztés felfüggesztett része végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság |
 
@@ -362,11 +334,11 @@ ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
 |  | határozatának száma: | jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
 
-|  | 4.10. Próbára bocsátás meghosszabbítása esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: |
+| 4.10. Próbára bocsátás meghosszabbítása esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: |
 
 |  | határozatának száma: | jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
 
-| Kelt: ................................, ........... év .......... hó ........ nap. |
+| 4.11. Az ítélettel kapcsolatos egyéb eljárási cselekmény: Kelt: ................................, ........... év .......... hó ........ nap. |
 
 | P. H. |
 
@@ -382,15 +354,15 @@ ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
 |  | Büntetését letöltötte: |  |
 
-|  | Közügyek gyakorlásától eltiltás lejár: □□□□ év □□ hó □□ nap |
+|  | Közügyek gyakorlásától eltiltás lejár: |
 
-|  | Mentesítés várható időpontja: □□□□ év □□ hó □□ nap |  |
+|  | Mentesítés várható időpontja: |  |
 
-|  | Büntetés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Büntetés nyilvántartási ideje: |  |
 
-|  | Mellékbüntetés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Mellékbüntetés nyilvántartási ideje: |  |
 
-|  | Intézkedés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Intézkedés nyilvántartási ideje: |  |
 
 5. számú adatlap
 
@@ -402,45 +374,45 @@ ADATKÖZLÉS ÖSSZBÜNTETÉSI ÍTÉLETRŐL, EGYSÉGES INTÉZKEDÉS ELRENDELÉSÉ
 
 | 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
-| 1.2. Családi és utónév: |
+|  | 1.2. Családi és utónév: |
 
-| 1.3. Születési családi és utónév: |
+|  | 1.3. Születési családi és utónév: |
 
-| 1.4. Előző családi és utónév: |
+|  | 1.4. Előző családi és utónév: |
 
-| 1.5. Születési hely: idő: □□□□ év □□ hó □□ nap. |
+|  | 1.5. Születési hely: | idő: □□□□ év □□ hó □□ nap. |
 
-| 1.6. Anyja születési családi és utóneve: |
+|  | 1.6. Anyja születési családi és utóneve: |
 
 | 1.7. Neme: □ férfi □ nő |  | 1.8. Állampolgárság: ...................................... Előző állampolgárság: |
 
-| 1.9. Lakóhely: |
+|  | 1.9. Lakóhely: |
 
 | 2. A határozat és az eljáró szerv adatai: |
 
 | 2.1. Jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
 
-| 2.2. Első fokon eljárt bíróság megnevezése: |
+|  | 2.2. Első fokon eljárt bíróság megnevezése: |
 
 | határozatának száma:......................................................................... kelte: □□□□ év □□ hó □□ nap |
 
-| 2.3. Másodfokon eljárt bíróság megnevezése: |
+|  | 2.3. Másodfokon eljárt bíróság megnevezése: |
 
 | határozatának száma: ......................................................................... kelte: □□□□ év □□ hó □□ nap. |
 
-| 2.4. A terhelt fiatalkorú □ |
+| 2.4. A terhelt fiatalkorú □ igen □ nem (kitöltése kötelező) |
 
 | 3. Az alapügyben eljárt bíróság megnevezése, határozatának száma: |
 
-| Bíróság megnevezése: |
+|  | Bíróság megnevezése: |
 
 | határozatának száma:......................................................................... kelte: □□□□ év □□ hó □□ nap |
 
-| Bíróság megnevezése: |
+|  | Bíróság megnevezése: |
 
 | határozatának száma:......................................................................... kelte: □□□□ év □□ hó □□ nap |
 
-| Bíróság megnevezése: |
+|  | Bíróság megnevezése: |
 
 | határozatának száma:......................................................................... kelte: □□□□ év □□ hó □□ nap |
 
@@ -450,23 +422,15 @@ ADATKÖZLÉS ÖSSZBÜNTETÉSI ÍTÉLETRŐL, EGYSÉGES INTÉZKEDÉS ELRENDELÉSÉ
 
 |  | Neme | Mértéke | Vh. Fokozata | Foglalkozás/Jármű- kategória |  |
 
-| 4.2. SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK FELFÜGGESZTÉSE/ RÉSZBENI FELFÜGGESZTÉS |
-
-| 4.2.1 Vh. felfüggesztve ……… évre |
-
-| 4.2.2.1. Részben felfüggesztett szabadságvesztés esetén a végrehajtandó rész tartama: ….év …… hónap |
-
-| 4.2.2.2. Részben felfüggesztett szabadságvesztés esetén a próbaidő tartama: ….év …… hónap |
-
-| 4.3. MELLÉKBÜNTETÉS |
+| 4.2. MELLÉKBÜNTETÉS |
 
 |  | Neme | Mértéke | kitiltás helye |  |
 
-| 4.4. BÜNTETÉS VAGY INTÉZKEDÉS MELLETT ALKALMAZOTT INTÉZKEDÉS |
+| 4.3. BÜNTETÉS VAGY INTÉZKEDÉS MELLETT ALKALMAZOTT INTÉZKEDÉS |
 
 |  | Neme | Mértéke |  |
 
-| 4.5. Az előzetes fogvatartás során kitöltött büntetések: |
+| 4.4. A szabadságvesztés végrehajtásába beszámított idő (kitöltése kötelező):□□□□ év □□ hó □□ nap. 4.5. Az ítélettel kapcsolatos egyéb eljárási cselekmény: |
 
 Kelt: ................................, ........... év .......... hó ........ nap.
 
@@ -484,21 +448,23 @@ Az eljáró szerv képviselője
 
 |  |  |  |  | Egyéb: |
 
-|  | Közügyek gyakorlásától eltiltás lejár: □□□□ év □□ hó □□ nap. |  |
+|  | Közügyek gyakorlásától eltiltás lejár:. |  |
 
-|  | Mentesítés várható időpontja: □□□□ év □□ hó □□ nap. |  |
+|  | Mentesítés várható időpontja: |  |
 
-|  | Büntetés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Büntetés nyilvántartási ideje: |  |
 
-|  | Mellékbüntetés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Mellékbüntetés nyilvántartási ideje: |  |
 
-|  | Intézkedés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Intézkedés nyilvántartási ideje: |  |
 
 6. számú adatlap
 
 ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 □ PÓTLAP IGÉNYBEVÉTELE
+
+A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM(kitöltése kötelező)
 
 | 1. Terhelt személyazonosító adatai: |
 
@@ -536,17 +502,17 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 | határozatának száma:......................................................................... kelte: □□□□ év □□ hó □□ nap. |
 
-| 2.3. A jogerős elismerő határozatot hozó bíróság megnevezése: |
+| 2.3. Első fokon eljárt bíróság megnevezése: : |
 
-| határozatának száma:......................................................................... kelte: □□□□ év □□ hó □□ nap. |
+|  | határozatának száma: | kelte:□□□□ év □□ hó □□ nap |
 
-| jogerőre emelkedésének napja: | □□□□ év □□ hó □□ nap. |
+| 2.4. Másodfokon eljárt bíróság megnevezése: határozatának száma:......................................................................... jogerő: □□□□ év □□ hó □□ nap |
 
-| 2.4. A terhelt fiatalkorú □ |  |
+| 2.5. A terhelt fiatalkorú □igen □ nem (kitöltése kötelező) |  |
 
 | 3. Bűncselekményi adatok: |
 
-|  | Megnevezés | Btk. szerinti minősítés | Rb. | Az elkövetés helye és ideje | Elkövetői vagy elkövetési alakzat | Bűn- szerv. |  |
+|  | Megnevezés | Btk. szerinti minősítés | Rb. | Az elkövetés helye és ideje | Elkövetői és elkövetési alakzat | Bűn- szerv. |  |
 
 |  |  |  |  | ............................../ ............................... | ............................../ ............................... | □ |  |
 
@@ -559,8 +525,6 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 |  |  |  |  | ............................../ ............................... | ............................../ ............................... | □ |  |
 
 |  |  |  |  | ............................../ ............................... | ............................../ ............................... | □ |  |
-
-|  |  |  |  | ............................../ ............................... | ............................../ ............................... |  |  |
 
 | 4. Szankció adatai: |
 
@@ -572,9 +536,9 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 | 4.2.1 Vh. felfüggesztve ……… évre |
 
-| 4.2.2.1. Részben felfüggesztett szabadságvesztés esetén a végrehajtandó rész tartama: ….év …… hónap |
+| 4.2.1.1. Részben felfüggesztett szabadságvesztés esetén a végrehajtandó rész tartama: ….év …… hónap |
 
-| 4.2.2.2. Részben felfüggesztett szabadságvesztés esetén a próbaidő tartama: ….év …… hónap |
+| 4.2.1.2. Részben felfüggesztett szabadságvesztés esetén a próbaidő tartama: ….év …… hónap |
 
 | 4.2. MELLÉKBÜNTETÉS |
 
@@ -583,6 +547,10 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 | 4.3. BÜNTETÉS VAGY INTÉZKEDÉS MELLETT ALKALMAZOTT INTÉZKEDÉS |
 
 |  | Neme | Mértéke |  |
+
+| 5. A szabadságvesztés végrehajtásába beszámított idő (kitöltése kötelező):□□□□ év □□ hó □□ nap.: |
+
+| 6. Az ítélettel kapcsolatos egyéb eljárási cselekmények: |
 
 Kelt: ................................, ........... év .......... hó ........ nap.
 
@@ -602,15 +570,15 @@ Az eljáró szerv képviselője
 
 |  | Büntetését letöltötte: |  |
 
-|  | Közügyek gyakorlásától eltiltás lejár: □□□□ év □□ hó □□ nap. |
+|  | Közügyek gyakorlásától eltiltás lejár:. |
 
-|  | Mentesítés várható időpontja: □□□□ év □□ hó □□ nap. |
+|  | Mentesítés várható időpontja: |
 
-|  | Büntetés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Büntetés nyilvántartási ideje: |  |
 
-|  | Mellékbüntetés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Mellékbüntetés nyilvántartási ideje: |  |
 
-|  | Intézkedés nyilvántartási ideje: □□□□ év □□ hó □□ nap |  |
+|  | Intézkedés nyilvántartási ideje: |  |
 
 7. számú adatlap
 
@@ -618,23 +586,25 @@ ADATKÖZLÉS KÜLÖNLEGES ELJÁRÁSBAN HOZOTT DÖNTÉSEKRŐL
 
 □ PÓTLAP IGÉNYBEVÉTELE
 
+A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM(kitöltése kötelező)
+
 | 1. Terhelt személyazonosító adatai: |
 
 | 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
-|  | 1.2. Családi és utónév: |
+| 1.2. Családi és utónév: |
 
-|  | 1.3. Születési családi és utónév: |
+| 1.3. Születési családi és utónév: |
 
-|  | 1.4. Előző családi és utónév: |
+| 1.4. Előző családi és utónév: |
 
-|  | 1.5. Születési hely: | idő: □□□□ év □□ hó □□ nap. |
+| 1.5. Születési hely: idő: □□□□ év □□ hó □□ nap. |
 
-|  | 1.6. Anyja születési családi és utóneve: |
+| 1.6. Anyja születési családi és utóneve: |
 
-|  | 1.7. Neme: □ férfi vagy □ nő 1.8. Állampolgárság: .............................. Előző állampolgárság: |
+| 1.7. Neme: □ férfi vagy □ nő 1.8. Állampolgárság: .............................. Előző állampolgárság: |
 
-|  | 1.9. Lakóhely: |
+| 1.9. Lakóhely: |
 
 | 2. A különleges eljárás tárgya: |
 
@@ -648,21 +618,21 @@ ADATKÖZLÉS KÜLÖNLEGES ELJÁRÁSBAN HOZOTT DÖNTÉSEKRŐL
 
 | 3. Az eljáró bíróság adatai és az ügy alapadatai: |
 
-|  | 3.1. Az első fokon eljáró bíróság megnevezése: |
+| 3.1. Az első fokon eljáró bíróság megnevezése: |
 
 |  | határozatának száma: | kelte: | □□□□ év □□ hó □□ nap. |
 
-|  | Jogerős határozatot hozó bíróság megnevezése: |
+| Jogerős határozatot hozó bíróság megnevezése: |
 
 |  | határozatának száma: | kelte: | □□□□ év □□ hó □□ nap. |
 
 | jogerőre emelkedés napja: | □□□□ év □□ hó □□ nap. |
 
-|  | 3.2. Alapügyben első fokon eljárt bíróság megnevezése: |
+| 3.2. Alapügyben első fokon eljárt bíróság megnevezése: |
 
 |  | határozatának száma: | kelte: | □□□□ év □□ hó □□ nap. |
 
-|  | Az alapügyben jogerős határozatot hozó bíróság megnevezése: |
+| Az alapügyben jogerős határozatot hozó bíróság megnevezése: |
 
 |  | határozatának száma: | kelte: | □□□□ év □□ hó □□ nap. |
 
@@ -680,9 +650,9 @@ ADATKÖZLÉS KÜLÖNLEGES ELJÁRÁSBAN HOZOTT DÖNTÉSEKRŐL
 
 | az elévülés napja: □□□□ év □□ hó □□ nap. |
 
-|  | 4.4. A pénzbüntetés vagy a közérdekű munka szabadságvesztésre történő átváltoztatása során megállapított szabadságvesztés időtartama: |
+| 4.4. A pénzbüntetés vagy a közérdekű munka szabadságvesztésre történő átváltoztatása során megállapított szabadságvesztés időtartama: 4.5. A pénzbüntetés közérdekű munkára történő átváltoztatása során megállapított közérdekű munka időtartama: ................................................................................................ |
 
-| 4.5. A mentesítés várható időpontja: □□□□ év □□ hó □□ nap. |
+| 4.6. A mentesítés időpontja: □□□□ év □□ hó □□ nap. |
 
 Kelt: ................................, ........... év .......... hó ........ nap.
 
@@ -782,7 +752,7 @@ ADATKÖZLÉS VÉGREHAJTÁSI ADATOKRÓL
 
 | 5. Kényszergyógykezelés végrehajtására vonatkozó adatok: |
 
-| 5.1. Kényszergyógykezelés megszüntetésének napja: □□□□ év □□ hó □□ nap. |
+| 5.1. Kényszergyógykezelés megszüntetésének napja: □□□□ év □□ hó □□ nap. 5.2. Kényszergyógykezelés megszűnésének napja: □□□□ év □□ hó □□ nap. |
 
 | 6. Egyes büntetések végrehajtására vonatkozó adatok: |
 
@@ -827,6 +797,8 @@ Az eljáró szerv képviselője
 ADATKÖZLÉS KÉNYSZERINTÉZKEDÉS TÁRGYÁBAN HOZOTT DÖNTÉSEKRŐL
 
 □ PÓTLAP IGÉNYBEVÉTELE
+
+A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM(kitöltése kötelező)
 
 | 1. Terhelt személyazonosító adatai: |
 
@@ -880,11 +852,11 @@ ADATKÖZLÉS KÉNYSZERINTÉZKEDÉS TÁRGYÁBAN HOZOTT DÖNTÉSEKRŐL
 
 | 4.2. A meghosszabbított vagy fenntartott kényszerintézkedés adatai: |
 
-|  | 4.1.1. A bíróság megnevezése: |
+|  | 4.2.1. A bíróság megnevezése: |
 
-| 4.1.2. határozatának száma: .................................................................. és kelte: | □□□□ év □□ hó □□ nap. |
+| 4.2.2. határozatának száma: .................................................................. és kelte: | □□□□ év □□ hó □□ nap. |
 
-| 4.4. A kényszerintézkedés típusa: |
+| 4.3. A kényszerintézkedés típusa: |
 
 | □ ELŐZETES LETARTÓZTATÁS | □ LAKHELYELHAGYÁSI TILALOM | □ HÁZI ŐRIZET |
 
@@ -946,5 +918,65 @@ P. H.
 
 Az eljáró szerv képviselője
 
-[^4]: A 28–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 11/2010. (III. 31.) IRM rendelet 42. §-ával megállapított szöveg.
+10. számú adatlap
+
+ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁNTARTÁSA RÉSZÉRE
+
+□ PÓTLAP IGÉNYBEVÉTELE
+
+AZ ÉRINTETT SZEMÉLY ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM(kitöltése kötelező)
+
+| 1. Az érintett személy személyazonosító adatai: |
+
+| 1.1. Személyi azonosító: □□□□□□□□□□□ |
+
+|  | 1.2. Családi és utónév: |
+
+|  | 1.3. Születési családi és utónév: |
+
+|  | 1.4. Előző családi és utónév: |
+
+|  | 1.5. Születési hely: | idő: □□□□ év □□ hó □□ nap. |
+
+|  | 1.6. Anyja születési családi és utóneve: |
+
+|  | 1.7. Neme: □ férfi vagy □ nő 1.8. Állampolgárság: ............................ Előző állampolgárság: |
+
+|  | 1.9. Lakóhely: |
+
+| 2. A korlátozás elrendelésének adatai: |
+
+|  | 2.1. Az eljáró bíróság megnevezése: |
+
+| 2.2. határozatának száma: ...................................................................... és kelte: | □□□□ év □□ hó □□ nap. |
+
+| 2.3. A korlátozás lejáratának napja: | □□□□ év □□ hó □□ nap. |
+
+| 2.4. Az elrendelt korlátozás típusa: |
+
+| □ KIADATÁSI LETARTÓZTATÁS | □ IDEIGLENES KIADATÁSI LETARTÓZTATÁS |  |
+
+| □ ÁTADÁSI LETARTÓZTATÁS | □ IDEIGLENES ÁTADÁSI LETARTÓZTATÁS |  |
+
+| □ IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | □ MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |  |
+
+| 3. A korlátozás megszüntetésének adatai: |
+
+| 3.1. Az eljáró bíróság megnevezése:…………………………………………………………………. |
+
+| 3.2. határozatának száma: .......................................................................... és kelte: | □□□□ év □□ hó □□ nap. |
+
+| 3.3. A korlátozás megszüntetésének napja: | □□□□ év □□ hó □□ nap. |
+
+| 3.4. A megszűnt korlátozás típusa: □ KIADATÁSI LETARTÓZTATÁS □ ÁTADÁSI LETARTÓZTATÁS □ IDEIGLENES VÉGREHAJTÁS LETARTÓZTATÁS | □ IDEIGLENES KIADATÁSI LETARTÓZTATÁS □ IDEIGLENES ÁTADÁSI LETARTÓZTATÁS □ MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
+
+Kelt: ................................, ........... év .......... hó ........ nap.
+
+P. H.
+
+........................................................
+
+Az eljáró szerv képviselője
+
+[^29]: A 28–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1. melléklet a 60/2012. (XII. 28.) KIM rendelet 10. §-ával megállapított szöveg.

@@ -4,11 +4,11 @@
 
 ## Adatközlés a bűnügyi nyilvántartó szerv részére
 
-1. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben (a továbbiakban: Bnytv.) meghatározott, a bűnügyi nyilvántartó szerv részére teljesítendő adatközlést – ha e rendelet másképp nem rendelkezik – az 1. mellékletben meghatározott 1–9. számú adatlap, szükség esetén a 2. mellékletben meghatározott pótlap kitöltésével és a bűnügyi nyilvántartó szerv részére történő megküldésével kell teljesíteni.
+1. § (1)[^1] A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben (a továbbiakban: Bnytv.) meghatározott, a bűnügyi nyilvántartó szerv részére teljesítendő adatközlést – ha e rendelet másképp nem rendelkezik – az 1. mellékletben meghatározott 1–10. számú adatlap, szükség esetén a 2. mellékletben meghatározott pótlap kitöltésével és a bűnügyi nyilvántartó szerv részére történő megküldésével kell teljesíteni.
 
 (2) Ha az adatvédelem és az adatbiztonság feltételei adottak, az (1) bekezdésben meghatározott adatközlést számítástechnikai rendszerek közvetlen (online) összekapcsolásával, egyedi informatikai alkalmazás igénybevételével kell teljesíteni.
 
-(3) Ha az adatközlés a (2) bekezdésben meghatározott módon nem teljesíthető, az adatokat elsősorban számítástechnikai eszközzel előállított formában vagy – ha ennek feltétételei sem állnak fenn – papír alapon kell megküldeni a bűnügyi nyilvántartó szerv részére.
+(3)[^2] Ha az adatközlés a (2) bekezdésben meghatározott módon nem teljesíthető, az 1. és 2. mellékletben meghatározott adatlapokat számítástechnikai eszközzel előállított formában, papír alapon kell megküldeni a bűnügyi nyilvántartó szerv részére.
 
 (4) Az adatközlés során
 
@@ -18,4 +18,8 @@ b) a Bnytv. 4. § (2) bekezdés a) pont af)–ah) alpontjában meghatározott sz
 
 ## meg kell küldeni a bűnügyi nyilvántartó szerv részére.
 
-(5) Az eljáró nyomozó hatóság, ügyész, nyomozó ügyész vagy ügyészségi nyomozó a rendelet 1. és 3. mellékletében meghatározott adatlapokon szereplő eljáró szerv kódját és bűncselekménykódokat az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló IRM rendelet rendelkezéseinek megfelelően kiadott iránymutatás alapján tölti ki.
+(5)[^3] Az eljáró nyomozó hatóság, ügyész, nyomozó ügyész vagy ügyészségi nyomozó a rendelet 1. és 3. mellékletében meghatározott adatlapokon szereplő eljáró szerv kódját és bűncselekménykódokat az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló BM rendelet rendelkezéseinek megfelelően kiadott iránymutatás alapján tölti ki.
+
+[^1]: Az 1. § (1) bekezdése a 60/2012. (XII. 28.) KIM rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 60/2012. (XII. 28.) KIM rendelet 3. §-ával megállapított szöveg.
+[^3]: Az 1. § (5) bekezdése a 60/2012. (XII. 28.) KIM rendelet 9. § b) pontja szerint módosított szöveg.

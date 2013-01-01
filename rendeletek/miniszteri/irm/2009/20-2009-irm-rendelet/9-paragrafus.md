@@ -4,9 +4,9 @@
 
 a) az 1. számú adatlapon a Bnytv. 23. § c), d), h) és j) pontjában meghatározott adatokat, ehhez mellékeli az e rendelet szabályai szerint rögzített arcképmást és az arcképmás egyedi azonosítót,
 
-b) a nyomozás felfüggesztése vagy a felfüggesztett nyomozás folytatásának elrendelése esetén az 1. számú adatlapon a Bnytv. 23. § c), g), h) és j) pontjában meghatározott adatokat,
+b)[^6] a nyomozás felfüggesztése vagy a felfüggesztett nyomozás folytatásának elrendelése esetén az 1. számú adatlapon a Bnytv. 23. § c), d), g), h) és j) pontjában meghatározott adatokat,
 
-c) a nyomozás megszüntetése esetén az 1. számú adatlapon a Bnytv. 23. § c), h) és j) pontjában meghatározott adatokat, továbbá az erről szóló határozat számát és keltét,
+c)[^7] a nyomozás megszüntetése esetén az 1. számú adatlapon a Bnytv. 23. § c), d), h) és j)pontjában meghatározott adatokat, továbbá az erről szóló határozat számát és keltét,
 
 d) vádemelés esetén a 2. számú adatlapon a Bnytv. 23. § c)–e), h) és j) pontjában meghatározott adatokat,
 
@@ -27,3 +27,6 @@ d) a vádemelés elhalasztása esetén a jogorvoslatra nyitva álló idő eltelt
 e) a vádirat benyújtásának,
 
 f) ha az nem azonos az a) pontban meghatározott időponttal, az arcképmás rögzítésének
+
+[^6]: A 9. § (1) bekezdés b) pontja a 60/2012. (XII. 28.) KIM rendelet 9. § c) pontja szerint módosított szöveg.
+[^7]: A 9. § (1) bekezdés c) pontja a 60/2012. (XII. 28.) KIM rendelet 9. § d) pontja szerint módosított szöveg.
