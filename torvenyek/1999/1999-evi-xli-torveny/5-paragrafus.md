@@ -1,1 +1,0 @@
-5. § A területszervezési eljárásban – amennyiben az érintett önkormányzat területén helyi nemzetiségi önkormányzat működik – a polgármester az előkészítő eljárás során kéri a helyi nemzetiségi önkormányzat véleményét, és erről a képviselő-testületet tájékoztatja.
