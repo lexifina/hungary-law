@@ -1,1 +1,3 @@
-2–3. §
+2. § Az Eht. 44. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A Hivatal a 182. § (3) bekezdés 5. pontjában foglalt felhatalmazás alapján megalkotott Elnök rendelete szerinti frekvenciahasználati jogosultság megszerzését szolgáló árverési vagy pályázati eljárásban hozott árverés vagy pályázat eredménytelenségét, vagy eredményesség esetén az árverés vagy pályázat nyertesét vagy nyerteseit megállapító határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető bírósági felülvizsgálat.”
