@@ -90,7 +90,7 @@ d) ellátja a közfoglalkoztatás-politika koordinációjával kapcsolatos felad
 
 e) gondoskodik a közfoglalkoztatási koncepció végrehajtásáról, meghatározza a közfoglalkoztatás eszközrendszerét, elemzi és ellenőrzi annak működését,
 
-f)[^151] irányítja a munkaügyi központok és kirendeltségeik közfoglalkoztatási feladatainak ellátását.
+f)[^151] irányítja a munkaügyi központok és járási (fővárosi kerületi) hivatalok munkaügyi kirendeltségei közfoglalkoztatási feladatainak ellátását.
 
 (5b)[^152] A miniszter a vízügyi igazgatási szervek irányításáért való felelőssége körében
 
@@ -186,7 +186,7 @@ i)[^158]
 [^148]: A 40. § (5) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^149]: A 40. § (5) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^150]: A 40. § (5a) bekezdését a 90/2011. (VI. 14.) Korm. rendelet 2. §-a iktatta be.
-[^151]: A 40. § (5a) bekezdés f) pontja a 90/2011. (VI. 14.) Korm. rendelet 4. § (2) bekezdés a) pontja alapján 2011. július 1-jén lépett hatályba.
+[^151]: A 40. § (5a) bekezdés f) pontja a 296/2012. (X. 17.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
 [^152]: A 40. § (5b) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^153]: A 40. § (5c) bekezdését a 266/2012. (IX. 18.) Korm. rendelet 23. § (4) bekezdése iktatta be.
 [^154]: A 40. § (5c) bekezdés a) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.

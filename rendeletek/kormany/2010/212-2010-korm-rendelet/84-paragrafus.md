@@ -32,7 +32,9 @@ m) űrkutatásért,
 
 n)[^328] fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért,
 
-o)[^329] víziközmű-szolgáltatásért
+o)[^329] víziközmű-szolgáltatásért,
+
+p)[^330] hulladékgazdálkodási közszolgáltatási díj megállapításáért
 
 felelős tagja.
 
@@ -40,3 +42,4 @@ felelős tagja.
 [^327]: A 84. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (53) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^328]: A 84. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^329]: A 84. § o) pontját a 118/2012. (VI. 26.) Korm. rendelet 6. §-a iktatta be.
+[^330]: A 84. § p) pontját a 441/2012. (XII. 29.) Korm. rendelet 18. § (1) bekezdése iktatta be.
