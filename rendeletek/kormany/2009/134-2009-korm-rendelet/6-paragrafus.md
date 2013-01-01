@@ -4,7 +4,7 @@
 
 (2) A támogatásra való jogosultságot a kérelem benyújtásakor fennálló körülmények alapján kell megállapítani.
 
-(3) A kamattámogatásra való jogosultság megállapítását és mértékének meghatározását új lakás vásárlása esetén a lakásra vonatkozó végleges adásvételi szerződés megkötését követő 120 napon belül, építés esetén a végleges használatbavételi engedély kiadása előtt, korszerűsítés esetén a hitelcél megvalósulása előtt kell kérni a hitelintézettől.
+(3)[^14] A kamattámogatásra való jogosultság megállapítását és mértékének meghatározását új lakás vásárlása esetén a lakásra vonatkozó adásvételi szerződés megkötését követő 120 napon belül, építés esetén a végleges használatbavételi engedély kiadása előtt, korszerűsítés esetén a hitelcél megvalósulása előtt kell kérni a hitelintézettől.
 
 (4) Ha a kérelmező a (3) bekezdésben említett időpontig nem élt a kamattámogatás igénylésének lehetőségével, erre később már nem tarthat igényt.
 
@@ -26,7 +26,9 @@ g) a hontalan jogállást a hontalankénti elismerésről szóló határozattal,
 
 h) a bejelentett lakóhelyet a lakcímet igazoló hatósági igazolvánnyal, a bejelentett szálláshelyet külön jogszabály szerinti bejelentőlappal,
 
-i) a személyazonosságot személyazonosító igazolvánnyal vagy érvényes úti okmánnyal.
+i) a személyazonosságot személyazonosító igazolvánnyal vagy érvényes úti okmánnyal,
+
+j)[^15] a 2. § (2) bekezdés c) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával.
 
 (6) Az 5. § (4) bekezdés szerinti gyermekszám-növekedésről
 
@@ -45,3 +47,6 @@ b) az építtető az építési szándékától elállt,
 c) a használatbavételi engedély megszerzése előtt a szerződés teljesítése más, az építtetőnek felróható okból hiúsul meg, vagy
 
 d) a használatbavételi engedély megszerzése előtt az építtető e rendelet szerint támogatott és már igénybe vett kölcsönt visszafizeti,
+
+[^14]: A 6. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^15]: A 6. § (5) bekezdés j) pontját a 379/2012. (XII. 19.) Korm. rendelet 15. §-a iktatta be.

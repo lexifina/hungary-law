@@ -22,7 +22,9 @@ ab) az aa) alpontban meghatározott jogok ingatlan-nyilvántartási bejegyzésé
 
 ac) önkormányzati tulajdonban lévő, illetve szolgálati jogviszonyhoz vagy munkakörhöz kötött lakásra bérleti jogviszonya nincs, és
 
-b) az eladó az igénylőnek nem – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti – közeli hozzátartozója, továbbá nem élettársa.
+b) az eladó az igénylőnek nem – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti – közeli hozzátartozója, továbbá nem élettársa,
+
+c)[^8] jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó eladó esetén az igénylő az eladóval nem áll tulajdonosi kapcsolatban.
 
 (3) Lakás korszerűsítéséhez kamattámogatás akkor nyújtható, ha az igénylőnek, házastársának, élettársának, bejegyzett élettársának és gyermekének, valamint a vele együttköltöző családtagjainak a korszerűsítendő lakást kivéve
 
@@ -44,17 +46,15 @@ b) amelynek lebontását az építésügyi hatóság elrendelte vagy engedélyez
 
 c) amely a kölcsönkérelem benyújtását megelőzően több mint két éve öröklés vagy ajándékozás jogcímén, haszonélvezettel terhelten került az igénylőnek, házastársának, élettársának, bejegyzett élettársának, kiskorú gyermekének vagy a vele együttköltöző családtagjának a tulajdonába, és a haszonélvező a lakásban lakik.
 
-(7) A kamattámogatás igénybevételéhez a nem magyar állampolgár igénylő köteles
+(7)[^9] A kamattámogatás igénybevételéhez – a menekült, az oltalmazott valamint a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy kivételével – a nem magyar állampolgár igénylő köteles származási országának ingatlan-nyilvántartásért felelős szerve által kiállított – az ország egész közigazgatási területére, tagállamok esetén a tagállam, szövetségi államok esetén a szövetségi állam közigazgatási területére vonatkozó – hivatalos iratot és annak hiteles magyar nyelvű fordítását bemutatni a hitelintézetnek, amellyel igazolja, hogy saját magának, házastársának, élettársának, bejegyzett élettársának, gyermekének és az együttköltöző családtagjának származási országában lakástulajdona nincs.
 
-a) származási országának ingatlan-nyilvántartást vezető országos hatáskörű szerve (hatósága) által kiállított – az ország egész közigazgatási területére, tagállamok esetén a tagállam, szövetségi államok esetén a szövetségi állam közigazgatási területére vonatkozó – hivatalos iratot és annak hiteles magyar nyelvű fordítását bemutatni a hitelintézetnek, amellyel igazolja, hogy saját magának, házastársának, élettársának, bejegyzett élettársának, gyermekének és az együttköltöző családtag(ok)nak származási országában lakástulajdona nincs, valamint
+(7a)[^10] A kamattámogatás igénybevételéhez – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy kivételével – a nem magyar állampolgár igénylő köteles teljes bizonyító erejű magánokiratba foglaltan nyilatkozni arról, hogy a kamattámogatással építeni, vásárolni, korszerűsíteni kívánt lakásban lakóhelyet létesít.
 
-b) írásban nyilatkozni arról, hogy a kamattámogatással építeni, vásárolni, korszerűsíteni kívánt lakásban lakóhelyet létesít.
+(8)[^11] Nem kell a (7) bekezdésben foglaltakat alkalmazni, ha az igénylő a menekült jogállásával rendelkező személy.
 
-(8) Nem kell a (7) bekezdés a) pontjában foglaltakat alkalmazni, ha az igénylő a menekült jogállásával rendelkező személy.
+(9)[^12] Házaspár, illetve bejegyzett élettárs igénylők esetében, ha a házastársak vagy bejegyzett élettársak egyike magyar állampolgár, a (7) bekezdésben foglaltakat nem kell igazolni.
 
-(9) Házaspár, illetve bejegyzett élettárs igénylők esetében, ha a házastársak vagy bejegyzett élettársak egyike magyar állampolgár, a (7) bekezdés a) pontjában foglaltakat nem kell igazolni.
-
-(10) A (7) bekezdés b) pontja szerinti nyilatkozatot mind az építtető (vásárló), mind az eltartott köteles aláírni.
+(10)[^13] A (7a) bekezdés szerinti nyilatkozatot mind az építtető (vásárló), mind az eltartott köteles aláírni.
 
 (11) Ha a támogatott személy a kamattámogatással épített, vásárolt, korszerűsített lakását
 
@@ -63,3 +63,10 @@ a) építés esetén a használatbavételi engedély kiadásától számított,
 b) vásárlás esetén a tulajdonjog ingatlan-nyilvántartásban történő bejegyzésétől számított,
 
 c) korszerűsítés esetén a korszerűsítési munkák befejezésétől számított
+
+[^8]: A 2. § (2) bekezdés c) pontját a 379/2012. (XII. 19.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^9]: A 2. § (7) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § (7a) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^11]: A 2. § (8) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § (9) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (10) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

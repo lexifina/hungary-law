@@ -66,35 +66,33 @@ a) a 16. életévét még nem töltötte be,
 
 b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem érte el,
 
-c) a 16. életévét már betöltötte, de testi vagy szellemi fogyatékossága (betegsége) miatt munkaképességét legalább 67%-ban elvesztette, vagy legalább 50%-os mértékű egészségkárosodást szenvedett és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
+c)[^3] a 16. életévét már betöltötte, de megváltozott munkaképességű személy, és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
 
-12. eltartott: az építtető, vásárló eltartottjának minősül
+12.[^4] eltartott: az építtető, vásárló eltartottjának minősül
 
 a) a gyermek,
 
 b) az építtető (vásárló) kereső tevékenységet nem folytató házastársa, bejegyzett élettársa vagy élettársa, ha
 
-1. munkaképességét legalább 67%-ban elvesztette,
+1. megváltozott munkaképességű személy,
 
-2. legalább 50%-os mértékű egészségkárosodást szenvedett,
+2. az öregségi nyugdíjkorhatárt betöltötte,
 
-3. az öregségi nyugdíjkorhatárt betöltötte,
+3. háztartáson belül gondoz legalább két olyan gyermeket, akik koruknál fogva családi pótlékra jogosultak,
 
-4. háztartáson belül gondoz legalább két olyan gyermeket, akik koruknál fogva családi pótlékra jogosultak,
+4. háztartáson belül gondoz állandó ápolásra szoruló fogyatékos gyermeket, vagy
 
-5. háztartáson belül gondoz állandó ápolásra szoruló fogyatékos gyermeket, vagy
+5. háztartáson belül gondoz az a)–c) pontban említett hozzátartozót, aki megváltozott munkaképességű személy,
 
-6. háztartáson belül gondoz az a)–c) pontban említett hozzátartozót, aki a munkaképességét legalább 67%-ban elvesztette, vagy legalább 50%-os mértékű egészségkárosodást szenvedett,
-
-c) az építtetőnek (vásárlónak) vagy házastársának, illetve bejegyzett élettársának szülője (mostoha- és nevelőszülője), nagyszülője, testvére, ha az öregségi nyugdíjkorhatárt betöltötte, vagy a munkaképességét legalább 67%-ban elvesztette, vagy legalább 50%-os mértékű egészségkárosodást szenvedett,
+c) az építtetőnek (vásárlónak) vagy házastársának, illetve bejegyzett élettársának szülője (mostoha- és nevelőszülője), nagyszülője, testvére, ha az öregségi nyugdíjkorhatárt betöltötte, vagy megváltozott munkaképességű személynek minősül,
 
 13. együttköltöző: aki az építő, vásárló eltartottja, házastársa, élettársa, bejegyzett élettársa és a támogatott személlyel az új lakásba együtt költözik be,
 
 14. állampapírhozam:
 
-a)[^3] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+a)[^5] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
-b)[^4] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+b)[^6] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
 15. referenciahozam: az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga,
 
@@ -122,7 +120,9 @@ i) az építmény megépítése érdekében felmerült építménybontási költ
 
 j) a telek ára,
 
-18. ügyleti kamat: a támogatott által fizetendő, a kamattámogatással csökkentett ellenszolgáltatás.
+18. ügyleti kamat: a támogatott által fizetendő, a kamattámogatással csökkentett ellenszolgáltatás,
+
+19.[^7] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket.
 
 (3) Az e rendeletben meg nem határozott fogalmakat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben, illetve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottak szerint kell értelmezni.
 
@@ -138,5 +138,8 @@ b) az a) pont hatálya alá nem tartozó esetekben a Magyar Államkincstár (a t
 
 [^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés 5. pont b) alpontja a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^3]: A 1. § (2) bekezdés 11. pont c) alpontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^4]: A 1. § (2) bekezdés 12. pontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^7]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
