@@ -1,3 +1,3 @@
-## 6. §[^2]
+## 6. § Az R. 7. §-a a következő (5) bekezdéssel egészül ki:
 
-[^2]: A 6. § a 16. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## „(5) A Tv. 7/C. § (2) bekezdésében foglalt, a miniszter által egyedi elbírálással nyújtható működési támogatás kizárólag dologi kiadásra használható fel.”

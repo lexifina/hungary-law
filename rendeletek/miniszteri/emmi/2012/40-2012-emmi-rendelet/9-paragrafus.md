@@ -1,9 +1,8 @@
-## 7–8. §[^3]
+## 7–8. §[^2]
 
-9. § (1)[^4]
+9. § (1)[^3]
 
-(2)[^5]
+(2) Az R. 19. § (3) bekezdése helyébe a következő rendelkezés lép, valamint a § a következő (4)–(8) bekezdésekkel egészül ki:
 
-[^3]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 9. § (2) bekezdése a 16. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^2]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
