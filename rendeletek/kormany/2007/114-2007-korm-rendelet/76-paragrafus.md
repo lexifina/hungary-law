@@ -2,4 +2,6 @@
 
 (2) A befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár az ellátásra, illetve támogatásra irányuló kérelmét a szálláshelye szerint illetékes regionális igazgatóság bírálja el.
 
-(3) Az ellátásra, támogatásra jogosult személy a regionális igazgatóság által kiállított, e rendelet VII. mellékletében foglalt ellátási okmánnyal igazolja jogosultságát. Az ellátási okmány csak a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár tartózkodási engedélyének egyidejű felmutatásával együtt érvényes.
+(3)[^150]
+
+[^150]: A 76. § (3) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.

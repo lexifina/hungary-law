@@ -1,4 +1,4 @@
-72/B. §[^136] (1)[^137] A Kormány az EU Kék Kártya kiadására és meghosszabbítására irányuló eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magas szintű képzettséget igénylő foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatható-e – elsőfokon a megyei (fővárosi) kormányhivatal munkaügyi központját (a továbbiakban: munkaügyi központ), másodfokon a Nemzeti Munkaügyi Hivatalt szakhatóságként jelöli ki.
+72/B. §[^141] (1)[^142] A Kormány az EU Kék Kártya kiadására és meghosszabbítására irányuló eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magas szintű képzettséget igénylő foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatható-e – elsőfokon a megyei (fővárosi) kormányhivatal munkaügyi központját (a továbbiakban: munkaügyi központ), másodfokon a Nemzeti Munkaügyi Hivatalt szakhatóságként jelöli ki.
 
 (2) A munkaügyi központ az EU Kék Kártya kiadásával kapcsolatos szakhatósági állásfoglalás kialakításának szabályairól szóló kormányrendelet szerint kialakított szakhatósági állásfoglalását harminc napon belül adja meg a regionális igazgatóságnak.
 
@@ -6,5 +6,5 @@
 
 (4) A fellebbezéssel megtámadott szakhatósági vélemény tekintetében másodfokon a Foglalkoztatási Hivatal jár el. A szakhatósági állásfoglalását tizenöt napon belül adja meg a Hivatalnak.
 
-[^136]: A 72/B. §-t a 168/2011. (VIII. 24.) Korm. rendelet 11. §-a iktatta be.
-[^137]: A 72/B. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^141]: A 72/B. §-t a 168/2011. (VIII. 24.) Korm. rendelet 11. §-a iktatta be.
+[^142]: A 72/B. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | 2012-06-27 | 2007-114-20-22.19 | 130/2012. (VI. 26.) Korm. rendelet |
 | 2012-07-27 | 2007-114-20-22.20 | 318/2008. (XII. 23.) Korm. rendelet |
 | 2012-11-01 | 2007-114-20-22.21 | 130/2012. (VI. 26.) Korm. rendelet |
+| 2013-01-01 | 2007-114-20-22.22 | 409/2012. (XII. 28.) Korm. rendelet |

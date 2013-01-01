@@ -1,10 +1,10 @@
 ## Nemzeti letelepedési engedély
 
-103. § (1) A Tv. 35. § (1) bekezdés a) pontjában foglalt feltételnek az a harmadik országbeli állampolgár felel meg, aki a nemzeti letelepedési engedély iránti kérelem benyújtásáig – a Tv. 35. § (2) bekezdésében foglaltak figyelembevételével – hároméves jogszerű tartózkodását nem szakította meg.
+103. §[^189] (1) A Tv. 35. § (1) bekezdés a) pontjában foglalt feltételnek az a harmadik országbeli állampolgár felel meg, aki a nemzeti letelepedési engedély iránti kérelem benyújtásáig – a Tv. 35. § (2) bekezdésében foglaltak figyelembevételével – hároméves jogszerű tartózkodását nem szakította meg.
 
 (2) A jogszerű tartózkodás megszakítása esetén a tartózkodási idő számítása újra kezdődik.
 
-(3)[^179] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
+(3)[^190] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
 
 a) a három hónapot meghaladó tartózkodásra jogosító vízummal,
 
@@ -26,4 +26,5 @@ a) külföldi intézményben történő gyógykezelésről szóló igazolással;
 
 b) a gyakori külföldi kiküldetéssel járó munkakör betöltéséről szóló igazolással, illetve a kiküldetések – a munkáltatói jogkör gyakorlója által hitelesített – listájával.
 
-[^179]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^189]: [A 103. §-nak a 409/2012. (XII. 28.) Korm. rendelet 19. §-ával 2012. december 28-ával elrendelt módosítása – mivel a módosító rendelet 2012. december 29-én lépett hatályba – nem vezethető át.]
+[^190]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

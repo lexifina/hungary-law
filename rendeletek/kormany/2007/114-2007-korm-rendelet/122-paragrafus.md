@@ -1,4 +1,4 @@
-## 121/C. §[^218] A Tv. 50. § (2) bekezdése alapján a menetjegy megvásárlásához, valamint az úti okmány beszerzéséhez szükséges pénzösszeg lefoglalását a kérelmező visszaadását megelőzően meg kell szüntetni és a pénzösszeget a kérelmező részére haladéktalanul vissza kell adni.
+## 121/C. §[^231] A Tv. 50. § (2) bekezdése alapján a menetjegy megvásárlásához, valamint az úti okmány beszerzéséhez szükséges pénzösszeg lefoglalását a kérelmező visszaadását megelőzően meg kell szüntetni és a pénzösszeget a kérelmező részére haladéktalanul vissza kell adni.
 
 ## A bíróság által elrendelt kiutasítás végrehajtása
 
@@ -6,7 +6,7 @@
 
 (2) A bíróság, illetve – szabadságvesztés-büntetés végrehajtásából szabadult harmadik országbeli állampolgár esetén – a büntetés-végrehajtási intézet a Tv. 49. § (2) bekezdés szerinti értesítést a bíróság, illetve a büntetés-végrehajtási intézet székhelye szerint illetékes regionális igazgatóságnak továbbítja.
 
-(3)[^219] A regionális igazgatóság végzésében meghatározza az önkéntes távozásra nyitva álló határnapot és azt az országot, ahova a kiutasítás végrehajtása történik.
+(3)[^232] A regionális igazgatóság végzésében meghatározza az önkéntes távozásra nyitva álló határnapot és azt az országot, ahova a kiutasítás végrehajtása történik.
 
 (4) A regionális igazgatóság intézkedik
 
@@ -14,5 +14,5 @@ a) a beutazási és tartózkodási tilalom nyilvántartásba vétele,
 
 b) a harmadik országbeli állampolgár tartózkodásra jogosító engedélyének visszavonása
 
-[^218]: A 121/C. §-t a 290/2010. (XII. 21.) Korm. rendelet 62. §-a iktatta be.
-[^219]: A 122. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^231]: A 121/C. §-t a 290/2010. (XII. 21.) Korm. rendelet 62. §-a iktatta be.
+[^232]: A 122. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 63. §-ával megállapított szöveg.

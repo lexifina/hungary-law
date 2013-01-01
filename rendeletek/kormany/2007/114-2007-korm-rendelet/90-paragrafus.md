@@ -4,7 +4,7 @@
 
 ## és tartózkodása
 
-## 90. §[^155] A Tv. 31. § (1) bekezdés hatálya alá tartozó harmadik országbeli állampolgárnak a tartózkodási engedély átvételére jogosító vízum, illetve a tartózkodási engedély iránti kérelméhez – a 35. § (5), illetve a 47. § (4) bekezdésében foglaltaktól eltérően – az alábbi okiratokat kell mellékelnie:
+## 90. §[^161] A Tv. 31. § (1) bekezdés hatálya alá tartozó harmadik országbeli állampolgárnak a tartózkodási engedély átvételére jogosító vízum, illetve a tartózkodási engedély iránti kérelméhez – a 35. § (5), illetve a 47. § (4) bekezdésében foglaltaktól eltérően – az alábbi okiratokat kell mellékelnie:
 
 a) egy darab arcfényképet,
 
@@ -12,4 +12,4 @@ b) a Tv. 13. § (1) bekezdés c)–d) pontjaiban foglalt feltételek fennállás
 
 b) a honvédelemért felelős miniszter által kiállított, magyarországi státuszára vonatkozó igazolást.
 
-[^155]: A 90. § nyitó szövegrésze a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^161]: A 90. § nyitó szövegrésze a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
