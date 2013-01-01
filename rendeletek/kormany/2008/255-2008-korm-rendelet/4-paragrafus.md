@@ -1,37 +1,22 @@
-## 3. §[^10] A szépkorúak jubileumi juttatásának fedezetét – a XXVI. Szociális és Munkaügyi Minisztérium fejezet Egyéb szociális ellátások és költségtérítések cím terhére –, továbbá a végrehajtási költségeket a központi költségvetés a Nyugdíjbiztosítási Alapnak megtéríti.
+## 3. §[^12] A szépkorúak jubileumi juttatásának fedezetét – a XXVI. Szociális és Munkaügyi Minisztérium fejezet Egyéb szociális ellátások és költségtérítések cím terhére –, továbbá a végrehajtási költségeket a központi költségvetés a Nyugdíjbiztosítási Alapnak megtéríti.
 
 4. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
 (2) E rendelet alapján a szépkorú személy 2009. január 1-jétől köszönthető.
 
-(3) Az 1. § (1) bekezdésében foglaltaktól eltérően
+(3)[^13] Az 1. § (1) bekezdésében foglaltakon túl 2013. évben annak a személynek is kell jubileumi juttatást folyósítani, aki 105., 110. vagy 115. életévét 2013. évet megelőzően töltötte be.
 
-a) 2009. évben
+(4)[^14] A (3) bekezdés alkalmazása során a jubileumi juttatás összege
 
-aa) azt a személyt kell köszönteni és részére az azzal járó jubileumi juttatást folyósítani, aki 100. életévét 2009. évben tölti be, továbbá
+a) 105–109. életévét betöltött személy esetén 105 000 forint,
 
-ab) annak a személynek kell jubileumi juttatást folyósítani, aki 100. életévét 2009. évet megelőzően töltötte be;
+b) 110–114. életévét betöltött személy esetén 110 000 forint,
 
-b) 2010. évben
+c) 115. életévét betöltött személy esetén 115 000 forint.
 
-ba) azt a személyt kell köszönteni és részére az azzal járó jubileumi juttatást folyósítani, aki 95. vagy 100. életévét 2010. évben tölti be, továbbá
+(5)[^15] Ha a szépkorú személy a 105., 110. vagy 115. életévét 2013. január 1-je és március 15-e között tölti be, valamint a (3) bekezdés szerinti esetben a KEKKH 2013. január 15-éig keresi meg – a 2. § (1) bekezdésében foglaltak megfelelő alkalmazásával – a szépkorú személyt.
 
-bb) annak a személynek kell jubileumi juttatást folyósítani, aki 96–99. életévét 2010. évben tölti be;
-
-c) 2011. évben
-
-ca) azt a személyt kell köszönteni és részére az azzal járó jubileumi juttatást folyósítani, aki 90., 95. vagy 100. életévét 2011. évben tölti be, továbbá
-
-cb) annak a személynek kell jubileumi juttatást folyósítani, aki 91–94. életévét 2011. évben tölti be.
-
-(4) A (3) bekezdés alkalmazása során a jubileumi juttatás összege
-
-a) 90–94. életévét betöltött személy esetén 90 000 forint,
-
-b) 95–99. életévét betöltött személy esetén 95 000 forint,
-
-c) 100. életévét betöltött személy esetén 100 000 forint.
-
-(5) A (3) bekezdés ab), bb) és cb) alpontjának alkalmazása során a KEKKH az esedékesség évét megelőző év november 1-jéig keresi meg – a 2. § (1) bekezdésében foglaltak megfelelő alkalmazásával – a szépkorú személyt, majd a 2. § (2) bekezdésében foglalt feltételek teljesülése esetén az adatokat az Igazgatóságnak adja át, amely a jubileumi juttatást az adatátvételt követő 15 napon belül, de legkorábban az esedékesség évének januárjában folyósítja.
-
-[^10]: A 3. § a 60/2009. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 3. § a 60/2009. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 4. § (3) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^14]: A 4. § (4) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^15]: A 4. § (5) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
