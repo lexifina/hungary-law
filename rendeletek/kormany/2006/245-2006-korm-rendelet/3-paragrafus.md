@@ -1,14 +1,30 @@
-## 2/A. §[^3] A műemléki védelem alatt álló építményt érintő építési és bontási tevékenység esetén az építésügyi bírság mértékét az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet szerinti módon és mértékben kell megállapítani.
+## 2/A. §[^2] A műemléki védelem alatt álló építményt érintő építési és bontási tevékenység esetén az építésügyi bírság mértékét az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet mérlegelési szempontrendszere szerint, annak megfelelő módon és mértékben kell megállapítani.
 
-3. § (1)[^4] A bírság alapja az építmény számított értéke. Az építmény számított értéke
+3. §[^3] (1) A bírság mértéke az alapbírság és a számított építményérték (4) bekezdés és a 2. melléklet figyelembevételével meghatározott értékének az összege. A bírság mértékét a 3. melléklet szerint – a kerekítés szabályai alkalmazva – 10 000 forintra való kerekítéssel kell megállapítani.
 
-a) az elkészült, kivitelezés alatt álló, megsemmisült építmény, építményrész rendeltetéséhez, a megmozgatott földmennyiséghez hozzárendelt 1. melléklet szerinti egységár, és
+(2) Az alapbírság mértéke
 
-b) az építmény, építményrész, a megmozgatott földmennyiség – építésügyi hatósági engedély, építészeti-műszaki tervdokumentáció, felmérés alapján számított – bruttó (határoló szerkezetekkel együtt mért) térfogatának, felületének (vagy az 1. melléklet 1–9. pontjaiban felsorolt építmények alapterületének), magasságának, darabszámnak
+a) műemléki területen álló, nem védett építményen jogszerűtlenül végzett építési tevékenység esetén: 300 000 forint,
 
-## szorzata. A bírság mértékét – a 2. melléklet figyelembevételével – a 3. melléklet szerint kell kiszámítani.
+b) helyi védelem alatt álló építményen jogszerűtlenül végzett építési tevékenység esetén: 250 000 forint,
 
-(2)[^5] A bírság összegét az alábbi %-os értékek alapján kell meghatározni:
+c) építési engedély nélkül, vagy engedélytől eltérően végzett építési tevékenység esetén: 200 000 forint,
+
+d) engedélytől eltérően meg nem épült építményrész esetén, ha annak hiányában a megvalósult építmény anyagi jogi jogszabályt sért: 100 000 forint,
+
+e) az építési engedély jogerőre emelkedése előtt megkezdett, vagy az építési engedély végrehajthatóságának felfüggesztése alatt végzett építési tevékenység esetén, ha az építtető az engedélyezett tervtől nem tért el: 50 000 forint,
+
+f) kezdés bejelentés nélkül végzett bontási tevékenység esetén: 50 000 forint,
+
+g) építési engedély nélkül végezhető, de anyagi jogi jogszabályt sértő módon végzett építési tevékenység esetén: 50 000 forint.
+
+(3) A számított építményérték az elkészült, kivitelezés alatt álló, vagy elbontott
+
+a) építményhez, építményrészhez, megmozgatott földmennyiséghez hozzárendelt, az 1. melléklet szerinti egységár, valamint
+
+b) az építmény, építményrész, – építésügyi hatósági engedély, építészeti-műszaki tervdokumentáció vagy felmérés alapján számított – nettó alapterületének, bruttó (határoló szerkezetekkel együtt mért) térfogatának, felületének, hosszának vagy darabszámának, a megmozgatott földmennyiség tervdokumentáció vagy felmérés alapján számított térfogatának szorzata, több különböző mértékegységű vagy egységáru építményrész esetében e szorzatok összege.
+
+(4) A bírság meghatározásakor a (3) bekezdés szerinti számított építményértéknek az alábbi százalékos értékét kell figyelembe venni:
 
 a) engedély nélküli építés esetén 50%,
 
@@ -16,27 +32,23 @@ b) engedélytől eltérő építés esetén 40%,
 
 c) engedély nélkül végzett bontás esetén 30%,
 
-d) engedélyhez nem kötött, de szabálytanul végzett építés esetén 20%,
+d) kezdés bejelentés nélkül végzett bontás esetén 20%,
 
-e) bejelentés nélkül végzett építés és bontás esetén 20%,
+e) helyi védelem alatt álló épületen végzett jogszerűtlen építési tevékenység esetén 70%, ha a szabálytalanság a védettség elrendelésének alapjául szolgáló építményt (építményrészt) érinti,
 
-f) helyi védelem alatt álló épületen végzett építés és bontás esetén 70%, ha a szabálytalanság a védettség elrendelésének alapjául szolgáló építmény(rész)t érinti,
+f) világörökségi területen és műemléki védelem alatt álló ingatlanon meglévő, nem védett építményen történő jogszerűtlen építési tevékenység esetén 80%.
 
-g) világörökség területén és műemléki védelem alatt álló ingatlanon meglévő, nem védett épületen történő építés és bontás esetén 80%.
+(5) Amennyiben a számított építményérték (4) bekezdés szerinti összege nem éri el a (2) bekezdés szerinti alapbírság értékét, úgy a bírság mértéke a (2) bekezdés szerinti alapbírság összegével egyezik meg.
 
-(3) A kiszabható bírság összege a (2) bekezdésben meghatározott érték 30%-a a meghatározott időre szóló, visszavonásig érvényes fennmaradási engedély megadásakor.
+(6) A bírság mértékének meghatározásánál nem kell figyelembe venni a számított építményértéket a (2) bekezdés d), e) és g) pontja esetében. Ez esetben a bírság mértéke a (2) bekezdés szerinti alapbírság összegével egyezik meg.
 
-(4) Ha a meghatározott idő lejárta, illetőleg az engedély visszavonása előtt megváltozott tényállás alapján az építésügyi hatóság – építtető kérelmére – utóbb végleges fennmaradási engedélyt ad, a fennmaradó 70% bírságot is ki kell szabni.
+(7) A jogszerűtlenül végzett bontást követően új építmény jogszerűtlen vagy szakszerűtlen létesítése esetén a bírságot a bontásra és az építésre külön ki kell szabni.
 
-(5)[^6] Ha az építmény, építményrész kivitelezését az építési engedélyt, illetőleg a bontási engedélyt megadó határozat kézhezvételét követően, de annak jogerőre emelkedése előtt kezdték meg, és a szabálytalanul elkészült vagy megsemmisült építményrészre az építésügyi hatóság változatlan műszaki tartalommal a fennmaradási és továbbépítési engedélyt megadta, illetőleg a bontást tudomásul vette, az (2) bekezdésben meghatározott bírság mértékét 50%-kal mérsékelni kell.
+(8) A fizetendő bírság összege az (1) bekezdés szerint megállapított bírságérték
 
-(6) A kiszabható bírság összege nem lehet kevesebb, mint 10 000 forint azzal, hogy a bírság összegét – a kerekítés szabályai szerint – száz forintra való kerekítéssel kell megállapítani.
+a) 150%-a, ha kiszabására olyan személlyel vagy szervezettel szemben kerül sor, akit 3 éven belül egy alkalommal,
 
-(7) A külön jogszabály szerint az építésügyi hatósági engedélyezés körébe vont építési tevékenységgel összefüggő több szabálytalanság (bontással járó átalakítás, bővítés, felújítás) esetén a magasabb bírsággal járó jogsértő cselekmény után kell a bírságot kiszabni.
+b) 200%-a, ha kiszabására olyan személlyel vagy szervezettel szemben kerül sor, akit 3 éven belül legalább két alkalommal
 
-(8) Az engedély nélkül végzett építmény bontása és ezt követően új építmény engedély nélküli létesítése esetén a bírságot bontásra és létesítésre külön ki kell szabni.
-
-[^3]: A 2/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A 3. § (1) bekezdése a 9/2008. (I. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
-[^5]: A 3. § (2) bekezdése a 9/2008. (I. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
-[^6]: A 3. § (5) bekezdése a 9/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
+[^2]: A 2/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 13. §-ával megállapított szöveg.

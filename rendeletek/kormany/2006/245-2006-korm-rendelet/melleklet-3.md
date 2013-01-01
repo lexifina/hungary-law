@@ -1,46 +1,43 @@
-3. melléklet a 245/2006. (XII. 5.) Korm. rendelethez
+3. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^29]
 
 ## Az építésügyi bírság kiszámításának módja
 
-1.[^32] Meg kell állapítani a megépített, kivitelezés alatt álló építmény, építményrész, megmozgatott földmennyiség építésügyi hatósági engedély, illetve a felmérési terv szerinti bruttó (határoló szerkezetekkel együtt mért) térfogatát, felületét, magasságát, darabszámát, illetőleg az 1. melléklet 1–9. pontjaiban felsorolt építmények alapterületét függetlenül annak tényleges készültségi fokától.
+1. Meg kell állapítani az elkövetett jogsértésnek megfelelő alapbírság összegét, a 3. § (2) bekezdése szerint.
 
-1.1. A térfogatban mért, alapozással készült építmények, építményrészek bruttó térfogatának számításakor az alapozás és az alapozással összefüggő földmunka mennyiségét figyelmen kívül kell hagyni. A térfogatszámításhoz szükséges magassági méret az alapozás felső síkjától értendő.
+2. Meg kell határozni a számított építményértéket, az alábbiak szerint:
 
-1.2. A térfogatban mért, többszintes építmények bruttó térfogatát az egyes szintek bruttó térfogatainak összege adja, ahol egy szint magassági méretét az OTÉK 1. számú melléklete Fogalommeghatározások 69. pontja alapján kell figyelembe venni.
+2.1. Az építésügyi hatósági engedély, illetve a felmérési terv alapján meg kell határozni a jogszerűtlenül vagy szakszerűtlenül megmozgatott földmennyiség, vagy elkészült építmény, építményrész jellemző méretét és mennyiségét, ami lehet nettó alapterület, bruttó térfogat, felületét, hossz (magasság) vagy darabszám. Az e pont szerinti mennyiség meghatározáskor:
 
-1.3. Az 1. melléklet 1–9. pontokba sorolt építményérték meghatározásának alapját az egyes szintek alapterületének összege adja.
+a) az alapozással, vagy terepszint alatti építéssel összefüggő földmunka mennyiségét figyelmen kívül kell hagyni;
 
-1.4.[^33] A szabálytalanul elbontott építmény, építményrész térfogatát, felületét, alapterületét mindig a ténylegesen megsemmisült méretekből kell kiszámolni.
+b) a szabálytalanul elbontott építmény, építményrész térfogatát, felületét, alapterületét mindig a ténylegesen megsemmisült méretekből kell kiszámolni;
 
-1.5. Az engedély nélkül végzett terepátalakítás esetében a ténylegesen megmozgatott föld mennyiségével kell számolni.
+c) ha az engedélyezettnél kisebb vagy nagyobb mennyiségű, méretű a szabálytalanul megvalósult építmény (vagy tereprendezés), akkor a számítás alapja az engedélyezett és a ténylegesen elkészült mennyiség különbsége;
 
-1.6. Az engedélyezett tervtől eltérő terepátalakítás esetében a számítás alapjául szolgáló mennyiséget a következő módon kell kiszámolni:
+d) ha az engedélyezett és a létrehozott építmény (vagy tereprendezés) mérete, mennyisége megegyező, de kialakításában, vagy elhelyezésében tér el, akkor a számítás alapja:
 
-1.6.1. ha az engedélyezettnél kisebb vagy nagyobb mennyiségű terepátalakítást végeztek, akkor a bírságszámítás alapja az engedélyezett és a ténylegesen elvégzett mennyiség különbsége,
+da) az engedélytől eltérő részek alapterületének, felületének vagy térfogatának, vagy hosszának összege, vagy
 
-1.6.2. ha ugyanazt a mennyiséget végezték, de más kialakítással mint az engedélyezett, a számítás alapja az eltérő részek térfogatának összege.
+db) az eredetileg engedélyezett befoglaló méreten, helyen kívül eső építményrész térfogata, alapterülete, felülete, illetve hossza;
 
-1.7. Ha a kivitelezés során a helyszínrajzi elhelyezéstől – az engedélyezett alaprajzi és magassági méretek betartása mellett – 10 centimétert meghaladóan úgy tértek el, hogy az egyébként engedélyezhető lett volna, a bírságszámítás alapja az eredetileg engedélyezett befoglaló méreten kívül eső vetület alapján számított épületrész térfogata, alapterülete, felülete, illetve magassága.
+e) ha az épület vegyes rendeltetésű és az 1. melléklet 1. és 3. sora szerinti – különböző egységár besorolás alá eső – rendeltetéseket tartalmaz, akkor a nettó alapterületet az azonos egységár és készültségi fok besorolás alá eső rendeltetésenként összegezve kell meghatározni.
 
-1.8. Ha az építmény külső megjelenése, térfogata nem változott, de a szabálytalan építési tevékenységgel olyan tartószerkezetet érintő változást, rendeltetési egységek számának változását eredményezte, amely egyébként csak építési engedély alapján lett volna megvalósítható, a bírságszámítás alapja ennek a tartószerkezetnek, illetve rendeltetési egységeket elválasztó épületszerkezetnek (fal vagy födém) a felülete.
+2.2. Az 1. mellékletből ki kell választani az épület, épületrész rendeltetéséhez vagy az építmény, építményrész előírt méretéhez rendelt egységárat, melynek meghatározásakor:
 
-2. Meg kell határozni a szabálytalan építési, bontási tevékenységgel érintett építmény, építményrész (fennmaradási, bontási) engedély szerinti rendeltetését.
+a) ha a jogszerűtlen építési tevékenységgel, vegyes rendeltetésű épületben található önálló rendeltetési egység érintett, akkor az egységárat az érintett rendeltetési egység rendeltetésének megfelelően kell meghatározni;
 
-3. Az 1. mellékletből ki kell választani a 2. pontban megállapított építménynek megfelelő egységárat és ezzel be kell szorozni az 1. pont szerint kiszámított méretet.
+b) ha a jogszerűtlen építési tevékenységgel létrejött építmény, építményrész 1. melléklet szerinti egységár besorolása több sorba is lehetséges, akkor a magasabb egységárral kell számolni.
 
-4. A kapott értéket be kell szorozni a 2. melléklet szerinti készültségi fok mértékével.
+2.3. Be kell szorozni a 2.1. pont szerint kiszámított mennyiséget, a hozzátartozó 2.2. pont szerinti egységárral.
 
-5. Az így kiszámított építmény, építményrész értékének a rendelet 3. § (2) bekezdése szerinti százaléka adja az építésügyi bírság összegét a 3. § (6) bekezdés előírása szerinti kerekítéssel.
+2.4. A fennmaradási engedély tárgyát képező több építményre, építményrészre a 2.3. pont szerint kiszámított szorzatok összege adja a számított építményértéket.
 
-6. Az építési engedélytől eltérően végzett építési tevékenység után bírságot nem kell megállapítani, ha az eltérés nem nagyobb vagy kisebb az engedélyezett
+3. A számított építmény értéket az 1. melléklet 1-3. és 5. sora esetében be kell szorozni a 2. melléklet szerinti készültségi fok mértékével.
 
-6.1. helyszínrajzi elhelyezéstől 10 centimétert meg nem haladóan,
+4. Ki kell számítani a 2-3. pont szerinti összeg 3. § (4) bekezdése szerinti százalékát.
 
-6.2. térfogat 1%-a, de maximum 5 lm3,
+5. Az 1. pont szerinti alapbírság és 4. pont szerinti érték összege adja az építésügyi bírság mértékét, a 3. § (1) bekezdése előírása szerinti 10.000 forintra kerekítéssel.
 
-6.3. alapterület, felület 1%-a, de maximum 0,5 m2,
+6. Az 5. pont szerinti építésügyi bírság összeget – ismételt szabálytalanság esetén – a 3. § (8) bekezdése szerinti mértékben kell növelni.
 
-6.4. hossznak, magasságnak 1%-a, de maximum 0,5 m.
-
-[^32]: A 3. melléklet 1. pontja a 9/2008. (I. 26.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
-[^33]: A 3. melléklet 1.4. pontja a 9/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
+[^29]: A 3. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § c) pontjával megállapított szöveg.
