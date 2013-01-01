@@ -1,6 +1,6 @@
-3. § (1)[^5] A Kpt. 7. §-ában meghatározott pontszám elérése esetén a Nyilvántartó az eljáró bíróság, hatóság adatközlésének nyilvántartásba vételét követő három napon belül a vezetői engedély visszavonása céljából tájékoztatja az érintett lakóhelye (tartózkodási helyre) szerint körzetközponti feladatokat ellátó települési önkormányzat jegyzőjét.
+3. § (1)[^5] A Kpt. 7. §-ában meghatározott pontszám elérése esetén a Nyilvántartó az eljáró bíróság, hatóság adatközlésének nyilvántartásba vételét követő három napon belül a vezetői engedély visszavonása céljából tájékoztatja az érintett lakóhelye (tartózkodási helyre) szerint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
 
 (2)[^6] A Kpt. 7. §-ának (1) bekezdése alapján hozott határozat – az általános tartalmi elemeken túl – tartalmazza a vezetői engedély visszavonásának alapját képező összpontszámot, az egyes ügyekben eljáró bíróság, hatóság határozatának (elismervénynek) ügyszámát (sorszámát), a határozat (elismervény) keltét, az elkövetett cselekmények megnevezését és a hozzájuk rendelt pontok számát, valamint a visszavont vezetői engedély típusát, azonosító jelét és a leadására nyitva álló határidőt.
 
-[^5]: A 3. § (1) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 19. §-ával megállapított és a 385/2007. (XII. 23.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 19. §-ával megállapított és a 385/2007. (XII. 23.) Korm. rendelet 5. § (3) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (2) bekezdése a 385/2007. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.

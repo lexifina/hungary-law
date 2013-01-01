@@ -2,6 +2,6 @@
 
 (2) Az utánképzésről szóló igazolás alapján a Nyilvántartó a nyilvántartott pontszámok csökkentését a legkorábban nyilvántartásba vett pontok vonatkozásában, a pontok nyilvántartásba vételének sorrendjében érvényesíti. Amennyiben a pontok csökkentésére a nyilvántartásban soron következő pontok számának megbontásával kerülhet sor, a maradó pontok elévülésére a Kpt. 6. §-a (1) bekezdésének rendelkezései vonatkoznak.
 
-(3)[^7] Az utánképzés elvégzését tanúsító igazolást az ügyfél a lakóhelye (tartózkodási helye) szerint illetékes körzetközponti feladatokat ellátó települési önkormányzat jegyzőjénél (a továbbiakban: körzetközponti jegyző) mutatja be. A körzetközponti jegyző a bemutatott igazolás adatait haladéktalanul továbbítja a Nyilvántartó részére.
+(3)[^7] Az utánképzés elvégzését tanúsító igazolást az ügyfél a lakóhelye (tartózkodási helye) szerint illetékes járási hivatalnál mutatja be. A járási hivatal a bemutatott igazolás adatait haladéktalanul továbbítja a Nyilvántartó részére.
 
-[^7]: A 4. § (3) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 18. § (1) bekezdésének d) pontja szerint módosított szöveg.
+[^7]: A 4. § (3) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 18. § (1) bekezdésének d) pontja, a 174/2012. (VII. 26.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
