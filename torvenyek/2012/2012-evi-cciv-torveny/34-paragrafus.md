@@ -1,0 +1,27 @@
+## 15. A helyi önkormányzatok pénzellátásának kiegészítő szabályai
+
+34. § (1) A támogatási igények jogosságát elbíráló és ellenőrző szerv a 3. melléklet 6. pontja szerinti előirányzatból nyújtható támogatás iránti igények jogszerűségének elbírálása, ellenőrzése és folyósítása céljából a pályázatban megnevezett személy nevét, további természetes személyazonosító adatait, a foglalkoztatási jogviszony megszűnéséhez kapcsolódó kifizetések összegét és az azonosítására szolgáló, munkaviszonnyal kapcsolatos kódját, valamint a foglalkoztatási jogviszonyának megszüntetésével kapcsolatosan a pályázatban megnevezett személy munkaviszonya megszűnésének jogcímét, szolgálati és közszolgálati idejét, besorolását és munkakörének megnevezését, foglalkoztatási jogviszonya kezdetének és megszűnésének időpontját, munkavégzés alóli felmentése kezdő és záró időpontját, felmentése indokául szolgáló okot és a munkaviszonnyal kapcsolatos azonosító kódját megismerheti, és a támogatási döntést követő ötödik év utolsó napjáig kezelheti. A kezelt személyes adatokat az adatkezelés céljának megszűnését követően, de legfeljebb a támogatási döntést követő ötödik év utolsó napjának elteltével oly módon kell fizikailag megsemmisíteni, hogy helyreállításuk ne legyen lehetséges.
+
+(2) A 2. melléklet I. pontja, II. pontja, III. 2–4. pontja, IV. pontja és a 3. melléklet 6. és 15. pontja alapján számított előirányzatok folyósítása az Áht. 83. § (1) bekezdésében foglaltak szerint nettó finanszírozás keretében történik.
+
+(3) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) szerinti kiegészítő gyermekvédelmi támogatás és gyermektartásdíjak megelőlegezése esetében a települési önkormányzat januárban teljesített kifizetéseit követően, az őt megillető összeget január hónapban igényelheti jogszabályban meghatározott éven belüli elszámolási kötelezettséggel. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) alapján nyújtott, a 2. melléklet III. 1. pontjának a)–e) alpontjaiban szereplő ellátások esetében:
+
+a) ha az önkormányzat a tárgyévet megelőző év decemberében igénylést nyújtott be, úgy a január hónapban járó előleg folyósítása – külön jogszabályban meghatározott módon – igénylés nélkül történik;
+
+b) ha az önkormányzat a tárgyévet megelőző év decemberében nem nyújtott be igénylést, úgy első alkalommal az őt megillető havi összeg legfeljebb kétszeresét igényelheti jogszabályban meghatározott éven belüli elszámolási kötelezettséggel.
+
+(4) Az államháztartásról szóló jogszabályokban foglaltaktól eltérően a 2. melléklet II. 1. és III. 4. pontja szerinti támogatások – 2. mellékletre vonatkozó kiegészítő szabályok szerinti – évközi módosítása során kamatfizetési kötelezettség csak abban az esetben áll fenn, ha az önkormányzat által az eredetileg szolgáltatott adatokból kalkulált támogatás legalább 10%-kal meghaladja az őt ténylegesen megillető összeget.
+
+(5) Az államháztartásról szóló jogszabályokban foglaltak szerint meghatározott, az állami támogatás jogtalan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet II., III. 3, III. 4 pontja szerinti előirányzatok együttes összegét kell figyelembe venni, a (4) bekezdésben foglaltakra tekintettel.
+
+(6) Ha az állam a nemzeti köznevelésről szóló 2011. évi CXC. törvény 74. §-ában foglaltaknak megfelelően hozzájárulás megfizetésére kötelezi a települési önkormányzatot, annak befizetését az önkormányzat havonta, minden hónap 10. napjáig köteles teljesíteni. A hozzájárulás összege a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. Költségvetési befizetések cím 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcím előirányzatának bevételét növeli.
+
+(7) A helyi önkormányzatoknak a 25 év alatti valamint az 55 év feletti, továbbá a képzettséget nem igénylő (egyszerű) munkakörben foglalkoztatott munkavállalók, valamint a gyesről visszatérő és tartós munkanélküliség után elhelyezkedő munkavállalók foglalkoztatásához kapcsolódó 2013. évi szociális hozzájárulási adó változásból eredő kiadási megtakarításait a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. Költségvetési befizetések cím 2. Munkahelyvédelmi akciótervvel összefüggő befizetések alcím 2. Helyi önkormányzati költségvetési szervek jogcímcsoport előirányzata javára kell befizetni és elszámolni.
+
+(8) A Kincstár a (6)–(7) bekezdésekben foglalt befizetési kötelezettséggel érintett önkormányzatok számára folyósítandó, a helyi önkormányzatokat megillető támogatások, hozzájárulások havi összegéből a nettó finanszírozás során
+
+a) levonja az önkormányzatot terhelő elmaradt összeget, amennyiben a (6) bekezdésben előírt befizetési kötelezettség tekintetében az elmaradt összeg két havi hozzájárulási kötelezettség összegével megegyezik, vagy azt meghaladja,
+
+b) havonta levonja a (7) bekezdés szerinti esetben az előző havi bérszámfejtés alapján az önkormányzatnál jelentkező kiadási megtakarítás összegét.
+
+(9) Ha a helyi önkormányzatot a (2) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (8) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, vagy az önkormányzatnak 2013. december 15-én bármilyen elmaradása van a (6) bekezdés szerinti befizetési kötelezettsége tekintetében, a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára – felhatalmazó nyilatkozatra tekintet nélkül – azonnali beszedési megbízást nyújt be.

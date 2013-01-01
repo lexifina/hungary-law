@@ -1,0 +1,1 @@
+31. § A helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter, illetve a támogatás jellegétől függően a feladatkörrel rendelkező miniszter egyetértésével a IX. Helyi önkormányzatok támogatásai fejezetben átcsoportosítást hajthat végre.

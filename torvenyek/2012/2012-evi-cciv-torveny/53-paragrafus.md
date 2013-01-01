@@ -1,0 +1,3 @@
+53. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. § szerinti illetményalap a 2013. évben 38 650 forint.
+
+(2) A költségvetési szervek által foglalkoztatottak éves kafetériakerete illetve kafetéria rendszert nem alkalmazó szervek esetében az egy foglalkoztatottnak éves szinten – az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvényre is figyelemmel, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában és (3) bekezdésében meghatározott juttatások – együttes összege a 2013. évben nem haladhatja meg a bruttó 200 000 forintot, amely összeg fedezetet biztosít az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.

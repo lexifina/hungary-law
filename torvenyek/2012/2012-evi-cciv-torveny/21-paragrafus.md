@@ -1,0 +1,1 @@
+21. § A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcímen belül az időarányoshoz viszonyított évközi előirányzat-túllépést az 1. Gyógyító-megelőző ellátás jogcímcsoport, a 4. Gyógyszertámogatás jogcímcsoport, továbbá az 5. Gyógyászati segédeszköz támogatás jogcímcsoport esetében az államháztartásért felelős miniszter engedélyezheti.
