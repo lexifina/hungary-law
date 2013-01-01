@@ -2,30 +2,26 @@
 
 12. § (1) A tervtanácsi eljárás a tervdokumentáció benyújtójának kérelmére indul.
 
-(2) A tervdokumentációt
+(2)[^27] Az építészeti-műszaki dokumentációt a tervtanács ülése előtt legalább 8 nappal, elektronikusan digitális formában az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott módon, az ÉTDR által biztosított elektronikus tárhelyre fel kell tölteni és egy kinyomtatott példányban a tervtanácshoz be kell nyújtani.
 
-a) településrendezési tervtanácsnak három példányban,
+(3)[^28]
 
-b) építészeti-műszaki tervtanácsnak két példányban,
+(4)[^29] Amennyiben a benyújtott építészeti-műszaki dokumentáció nem felel meg az e rendeletben előírt tartalmi követelményeknek, 3 napon belül egy alkalommal, legfeljebb 8 napos határidővel hiánypótlásra kell felszólítani a benyújtót.
 
-## papír alapon kell benyújtani.
+(5)[^30] A benyújtott tervdokumentációt a tervtanács tagjai és a meghívott résztvevők számára a tárgyalás előtt legalább 5 munkanappal tanulmányozásra hozzáférhetővé kell tenni.
 
-(3)[^46] Amennyiben a tervdokumentáció digitális adathordozón is benyújtásra kerül, papír alapon a (2) bekezdés a) pontjában meghatározotthoz képest eggyel kevesebb példányszámban kell benyújtani.
+(6)[^31] A tervtanács a véleményét az építészeti-műszaki dokumentáció hiánytalanná válásától számított 15 napon belül alakítja ki. Az ügyintézési határidőbe a vélemény postára adásának napja is beleszámít.
 
-(4) Amennyiben a benyújtott tervdokumentáció nem felel meg az e rendeletben előírt tartalmi követelményeknek a tervtanács titkára 3 munkanapon belül egy alkalommal legfeljebb 15 napos határidővel hiánypótlásra szólíthatja fel a benyújtót. A hiánypótlás ideje nem számít bele véleményezési határidőbe.
+(7)[^32] A tervtanács elnöke által hitelesített tervtanácsi véleményt elektronikusan az ÉTDR rendszer tárhelyére fel kell tölteni vagy kérésre postai úton meg kell küldeni – építészeti-műszaki tervtanács esetén – az építészeti-műszaki dokumentáció benyújtójának.
 
-(5)[^47] A benyújtott tervdokumentációt a tervtanács tagjai és a meghívott résztvevők számára a tárgyalás előtt legalább 5 munkanappal tanulmányozásra hozzáférhetővé kell tenni.
-
-(6)[^48] A tervtanács a véleményét a kérelem előterjesztésétől számított 30 munkanapon belül hozza meg. Az ügyintézési határidőbe a vélemény postára adásának napja is beleszámít.
-
-(7)[^49] A titkár a tervtanács elnöke által aláírt véleményt postai úton megküldi – építészeti-műszaki tervtanács esetén a tervdokumentáció egy lepecsételt példányával együtt – a tervdokumentáció benyújtójának és tervezőjének.
-
-(8)[^50] A titkár a tervtanácsot működtető szerv iratkezelési szabályai szerint nyilvántartásba veszi és megőrzi a jegyzőkönyvet és annak mellékleteit, valamint a tervtanács véleményét, továbbá a tervdokumentáció egy példányát vagy az azt tartalmazó digitális adathordozót.
+(8)[^33]
 
 (9) Az építészeti-műszaki tervtanács a külön jogszabályokban foglalt előírásoknak megfelelően gondoskodik a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról, valamint a titokvédelemről.
 
-[^46]: A 12. § (3) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének c) pontja szerint módosított szöveg.
-[^47]: A 12. § (5) bekezdésének második mondatát a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének b) pontja hatályon kívül helyezte; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^48]: A 12. § (6) bekezdése a 207/2008. (VIII. 27.) Korm. rendelet 11. §-ával megállapított, valamint a 196/2009. (IX. 15.) Korm. rendelet 62. § (12) bekezdésének q) pontja szerint módosított szöveg.
-[^49]: A 12. § (7) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (12) bekezdésének r) pontja szerint módosított szöveg.
-[^50]: A 12. § (8) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (12) bekezdésének s) pontja szerint módosított szöveg.
+[^27]: A 12. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^28]: A 12. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 31. § d) pontja hatályon kívül helyezte.
+[^29]: A 12. § (4) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^30]: A 12. § (5) bekezdésének második mondatát a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének b) pontja hatályon kívül helyezte; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
+[^31]: A 12. § (6) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^32]: A 12. § (7) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^33]: A 12. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 31. § d) pontja hatályon kívül helyezte.

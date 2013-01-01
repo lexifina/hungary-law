@@ -1,50 +1,46 @@
-## irányul.
-
 ## Az építészeti-műszaki tervtanácsok feladatköri
 
 ## és működési területre vonatkozó szabályai
 
 9. § (1) A központi építészeti-műszaki tervtanács működési területe az egész ország területére kiterjed.
 
-(2) A központi építészeti-műszaki tervtanács feladata, hogy véleményezze:
+(2)[^20] A központi építészeti tervtanács feladata, hogy
 
-a)[^28] műemléki jelentőségű területen, műemléki környezetben, országos jelentőségű védett természeti területen, Natura 2000 területen, kiemelt üdülőkörzetben megvalósuló
+a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben a másodfokú építésügyi hatóság megkeresésére véleményezze az első fokú építésügyi hatósági eljárásban a döntés alapjául szolgáló, a területi tervtanács által véleményezett építészeti-műszaki dokumentációt, valamint
 
-aa) 20 000 m2 összes szintterületet meghaladó kereskedelmi, ipari, logisztikai rendeltetésű, továbbá
+b) véleményezze a nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képező építési beruházás épületeinek építészeti-műszaki dokumentációját, ha a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító kormányrendelet erre kijelöli.
 
-ab) 5000 m2 összes szintterületet meghaladó egyéb rendeltetésű
+(2a)[^21] A 2/A. §-ban meghatározott dokumentációk tárgyalása során a központi tervtanács feladata, hogy véleményezze
 
-## új épület építési engedélyezéséhez és a településképi követelmények tisztázását szolgáló elvi építési engedélyezéséhez szükséges építészeti-műszaki terveket;
+a) a jogszabály szerinti I. és II. bírsági kategóriába tartozó műemlékeket érintő építési tevékenységek építészeti-műszaki, továbbá
 
-b)[^29] világörökség területen a 2000 m2 összes szintterületet meghaladó egyéb rendeltetésű új épület építési engedélyhez vagy elvi építési engedélyhez szükséges építészeti-műszaki terveket;
+b) az a) pont szerinti épületeket érintő, a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott tevékenységek örökségvédelmi
 
-c)[^30] a külön jogszabály szerint nemzetgazdasági szempontból kiemelt beruházásban létesítendő új épület építési engedélyezéséhez és a településképi követelmények tisztázását szolgáló elvi építési engedélyezéséhez szükséges építészeti-műszaki terveket,
+## dokumentációját.
 
-d)[^31] az egyedi műemléki védelem alatt álló ingatlant érintő tervezett beruházás, illetve műemléki védelem alatt álló épületek teljes homlokzatát, teljes tömegét érintő felújítás, átalakítás, hozzáépítés, illetve műemléki védettségű ingatlanon új épület építési engedélyezéséhez és a településképi követelmények tisztázását szolgáló elvi építési engedélyezéséhez szükséges építészeti-műszaki terveket,
+(3)[^22] A területi építészeti-műszaki tervtanács működési területe – a 10. § (1) bekezdésében foglaltak figyelembevételével – megegyezik a területi főépítész illetékességi területével.
 
-e)[^32] az a) és d) pont szerinti védelem alatt nem álló területen a 15 000 m2 összes szintterületet meghaladó méretű új épület – az ipari és logisztikai rendeletetésű új épület kivételével – építési engedélyezéséhez és a településképi követelmények tisztázását szolgáló elvi építési engedélyezéséhez szükséges építészeti-műszaki terveket.
+(4)[^23] A területi építészeti-műszaki tervtanács feladata, hogy véleményezze
 
-(3) A területi építészeti-műszaki tervtanács működési területe – a 10. § (3) bekezdésben foglaltak kivételével – megegyezik a területi főépítész illetékességi területével.
+a) a főpolgármester településképi véleménye hiányában a fővárosi helyi építészeti örökségvédelem alatt
 
-(4) A területi építészeti-műszaki tervtanács feladata – a 10. § (4) bekezdésben foglaltak kivételével –, hogy véleményezze:
+aa) álló területen az építéssel érintett telek közterülettel határos, vagy a telek közterületi határához legközelebb, de legfeljebb 20 méterre álló új épület építéséhez vagy ilyen helyen álló meglévő épület településképet érintő felújításához, átalakításához, bővítéséhez, továbbá
 
-a)[^33] a műemléki jelentőségű területen, a műemléki környezetben, a világörökség területen, az országos jelentőségű védett természeti területen, a Natura 2000 területen, a kiemelt üdülőkörzetben megvalósuló
+ab) nem álló területen fővárosi helyi építészeti örökségvédelem alatt álló épület településképet érintő felújításához, átalakításához, bővítéséhez
 
-aa) 10 000 m2 összes szintterületet elérő, de a 20 000 m2 összes szintterületet meg nem haladó kereskedelmi, ipari, logisztikai rendeltetésű, továbbá
+szükséges építészeti-műszaki dokumentációt,
 
-ab) 3000 m2 összes szintterületet elérő, de az 5000 m2 összes szintterületet meg nem haladó egyéb rendeltetésű új épület, és
+b) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben a másodfokú építésügyi hatóság megkeresésére az első fokú eljárásban a döntés alapjául szolgáló, az önkormányzat polgármestere által – a helyi építészeti-műszaki tervtanács szakmai álláspontjára alapozott – véleményezett építészeti-műszaki dokumentációt, továbbá
 
-ac)[^34] a meglévő közhasználatú építmény homlokzatát is érintő, 5000 m2 összes szintterületet meghaladó bővítés
+c) a jogszabály szerint III. bírság kategóriába tartozó műemléki épületen végzett építési tevékenység végzéséhez szükséges építészeti-műszaki dokumentációt,
 
-## építési engedélyezéséhez és a településképi követelmények tisztázását szolgáló elvi építési engedélyezéséhez szükséges építészeti-műszaki terveket;
+d) a jogszabály szerint III. bírság kategóriába tartozó műemléki épületen végzett, a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott tevékenységek örökségvédelmi dokumentációját,
 
-b)[^35] az a) pont szerinti védelem alatt nem álló területen a 10 000 m2 összes szintterületet meghaladó, legfeljebb 15 000 m2 összes szintterületű – a 9. § (2) bekezdés c) pontjának hatálya alá nem tartozó –, valamint a 15 000 m2 összes szintterületet meghaladó méretű ipari és logisztikai rendeltetésű új épület építési engedélyezéséhez és a településképi követelmények tisztázását szolgáló elvi építési engedélyezéséhez szükséges építészeti-műszaki terveket.
+e) az önkormányzat polgármesterének településképi véleménye hiányában a világörökségi területen a telek közterületi határához legközelebb, de legfeljebb 10 méterre álló új épület építésével vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítésével vagy átalakításával kapcsolatos építészeti-műszaki dokumentációt, valamint
 
-[^28]: A 9. § (2) bekezdése a) pontjának bevezető szövegrésze a 199/2007. (VII. 30.) Korm. rendelet 8. § (3) bekezdése, befejező szövegrésze a 8. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
-[^29]: A 9. § (2) bekezdésének b) pontja a 207/2008. (VIII. 27.) Korm. rendelet 29. § (5) bekezdése szerint módosított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^30]: A 9. § (2) bekezdésének c) pontja a 199/2007. (VII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
-[^31]: A 9. § (2) bekezdésének d) pontja a 199/2007. (VII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
-[^32]: A 9. § (2) bekezdésének e) pontját a 199/2007. (VII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
-[^33]: A 9. § (4) bekezdése a) pontjának befejező szövegrésze a 199/2007. (VII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított, bevezető szövegrésze a 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
-[^34]: A 9. § (4) bekezdése a) pontjának ac) alpontja a 199/2007. (VII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
-[^35]: A 9. § (4) bekezdésének b) pontja a 199/2007. (VII. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
+f) az önkormányzat polgármesterének településképi véleménye hiányában a műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 10 méterre álló új épület építésével vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítésével vagy átalakításával kapcsolatos építészeti-műszaki dokumentációt.
+
+[^20]: A 9. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^21]: A 9. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^22]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^23]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.

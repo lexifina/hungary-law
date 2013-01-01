@@ -1,51 +1,34 @@
-## a tervtanács elnöke által a 13. § (2) bekezdésének a)–c) és e)–f) pontjai, valamint (3) bekezdése figyelembevételével kinevezett személy.
+## 2/A. §[^5] A műemléki épületen végzett, az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendelet alapján építési engedélyhez kötött építési továbbá a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott örökségvédelmi engedélyhez kötött és e rendeletben meghatározott tevékenység dokumentációjának véleményezése során a tervtanács a 2. §-ban foglaltakon túlmenően a műemlékvédelemben kiemelkedő, magas szintű elméleti és gyakorlati ismeretekkel rendelkező természetes személyekből áll.
 
 ## A tervtanács elnöke
 
-3. § (1)[^6] A tervtanács elnöke
+3. §[^6] (1) A tervtanács elnöke
 
-a) a központi tervtanácsok esetében az építésügyért felelős miniszter (a továbbiakban: miniszter) által kinevezett köztisztviselő,
+a) a központi építészeti tervtanács esetében az országos főépítész,
 
-b) a területi (regionális) tervtanácsok esetén a működési területén külön jogszabály szerint illetékes állami főépítész (a továbbiakban: területi főépítész),
+b) a területi tervtanács esetén a működési területén illetékes állami főépítész.
 
-c) a helyi tervtanácsban
+(2) A tervtanács elnöke
 
-ca)[^7] ha a települési önkormányzat működteti, akkor az önkormányzati főépítész,
+a) javaslatot tesz a tervtanács ügyrendjére és annak elfogadására,
 
-cb) ha a területi építész kamara működteti, akkor a területi építész kamara elnöke vagy az általa felkért kamarai tag.
+b) vizsgálja a tervtanács hatáskörének és illetékességének fennállását, szükség esetén a tervtanácsi tárgyalásra irányuló kérelmet átteszi a feladatkör és működési terület szerint illetékes tervtanácshoz,
 
-(2)[^8] A tervtanács elnökévé a településtervezési, az építészeti-műszaki tervezési és az építésügyi műszaki szakértői jogosultság szabályairól szóló külön jogszabályban meghatározott felsőfokú szakirányú végzettséggel és legalább nyolc éves szakmai gyakorlattal rendelkező személy nevezhető ki.
+c) e rendeletben foglaltaknak megfelelően meghatározza a tervtanács összetételét, ennek keretében a tárgyalandó témáktól függően – a Magyar Építész Kamara, illetve érintettség esetén a Magyar Mérnöki Kamara javaslatát is figyelembe véve – bírálót és tervtanácsi tagot jelöl ki, megbízza a tervtanács tagjait, a terv bírálóját, meghívja a tervtanácsi tárgyalás résztvevőit, visszavonja a tervtanácsi tagok megbízását,
 
-(3) A tervtanácsi elnöki kinevezés négy évre szól, amely meghosszabbítható. A tervtanácsi elnöki kinevezés megszűnik
+d) vizsgálja, hogy a bírálatra rendelkezésre bocsátott építészeti-műszaki dokumentáció tartalmazza-e az e rendelet szerinti kötelező tartalmi elemeket, szükség esetén hiánypótlásra szólítja fel a dokumentáció benyújtóját,
 
-a) központi tervtanács elnöke esetében a kinevezés miniszter általi visszavonásával,
+e) irányítja a tervtanácsi munkát, vezeti a tárgyalást,
 
-b) a területi, illetve önkormányzati főépítészi megbízatás megszűnésével,
+f) gondoskodik a jegyzőkönyv vezetéséről, a tárgyaláson elhangzott véleményeket szóban összefoglalja és ez alapján a tervtanácsi véleményt megfogalmazza a jegyzőkönyv számára,
 
-c) kamarai tag esetében a szakmagyakorlási jogosultság, illetve a kamarai tagsági jogviszony megszűnésével.
+g) hitelesíti a tervtanácsi véleményt,
 
-(4) A tervtanács elnökének feladata:
+h) gondoskodik a tervtanácsi véleménynek az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe (a továbbiakban: ÉTDR) való feltöltéséről, kérésre megküldi az érintettnek a tervtanácsi véleményt,
 
-a)[^9] kinevezi a tervtanács titkárát és tagjait, javaslatot tesz a tervtanács ügyrendjére és annak elfogadására;
+i) gondoskodik a tervtanács működésével kapcsolatos iratkezelési, nyilvántartási feladatok végzéséről,
 
-b) a tervdokumentáció áttétele a feladatkör és működési terület szerint illetékes tervtanácshoz a titkár javaslata alapján;
+j) gondoskodik akadályoztatása esetén a helyettesítéséről.
 
-c) szükség esetén a titkár javaslata alapján elrendelheti a tervdokumentáció rövidített, vagy – amennyiben készült – digitálisan rögzített változatának a tervdokumentáció benyújtója általi megküldését a tervtanács számára;
-
-d) a tervtanácsi tárgyaláson részt vevő tagok kiválasztása;
-
-e) a tárgyalandó témáktól függően bíráló kijelölése;
-
-f) a tervtanácsi munka irányítása, a tárgyalás vezetése;
-
-g) a tárgyaláson elhangzott vélemények szóbeli összefoglalása a jegyzőkönyv számára;
-
-h)[^10] a tervtanácsi vélemény kiadmányozása.
-
-(5) A (4) bekezdés a)–e) pontjaiban meghatározottak az elnök kizárólagos, át nem ruházható jogkörét képezik, további jogköreit az ügyrendben meghatározottak szerint átadhatja. Tartós akadályoztatása esetén a tervtanács titkárának kezdeményezésére az elnök helyettesítésére a kinevezés, illetve megbízás (2) bekezdésben foglalt rendje szerint kerül sor.
-
-[^6]: A 3. § (1) bekezdése a 207/2008. (VIII. 27.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^7]: A 3. § (1) bekezdésének ca) alpontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (12) bekezdésének d) pontja szerint módosított szöveg.
-[^8]: A 3. § (2) bekezdésének első mondatát a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének b) pontja hatályon kívül helyezte; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^9]: A 3. § (4) bekezdésének a) pontja a 207/2008. (VIII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^10]: A 3. § (4) bekezdésének h) pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (12) bekezdésének e) pontja szerint módosított szöveg.
+[^5]: A 2/A. §-t a 394/2012. (XII. 20.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^6]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.

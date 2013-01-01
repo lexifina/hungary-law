@@ -1,52 +1,35 @@
 ## A tervtanácshoz benyújtandó tervdokumentumok
 
-11. § (1) A településrendezési tervtanácshoz benyújtandó tervdokumentációnak – annak jellegétől függően – a következőket kell tartalmaznia:
+11. §[^25] (1) A 8. § (1) bekezdése szerinti esetben a településrendezési tervtanácshoz a dokumentációt olyan állapotban (munkafázisban) kell benyújtani, hogy arról egyértelmű vélemény legyen alkotható.
+
+(2) A településrendezési tervtanácshoz benyújtandó dokumentáció – annak jellegétől függően – tartalmazza:
 
 a) az országos területrendezési terv, a megyei, valamint a kiemelt térségi tervek irányadó részeit,
 
 b) a hatályos településfejlesztési koncepciót,
 
-c) a hatályos településszerkezeti tervet annak módosításakor, illetve új településszerkezeti terv, valamint szabályozási terv benyújtása esetén,
+c) az elvégzett vizsgálatok összefoglalását,
 
-d) az adott településrendezési terv, helyi építési szabályzat készítéséről rendelkező önkormányzati határozatot,
+d) az alátámasztó munkarészeket,
 
-e) az elvégzett vizsgálatok összefoglalását,
+e) a tervdokumentáció tervezőjének nevét, címét, székhelyét, a tervezési jogosultság megnevezését, névjegyzéki számát, továbbá
 
-f) az alátámasztó munkarészek, valamint – amennyiben rendelkezésre áll – az örökségvédelmi hatástanulmány összefoglalását és hatásait a tervre,
+f) azon dokumentumokat, amelyekkel kapcsolatban a benyújtó tervtanácsi véleményt kér.
 
-g) a településszerkezeti terv tervezetét,
+(3) Az építészeti-műszaki tervtanácshoz benyújtandó építészeti-műszakidokumentációnak az alábbi munkarészeket kell tartalmaznia:
 
-h) a hatályos szabályozási tervet a szabályozási terv benyújtása esetén,
+a) építészeti műszaki leírás,
 
-i) a szabályozási terv tervezetét,
+b) a településszerkezetet, a telepítést – a környezetbe illeszkedést, a beépítést – bemutató helyszínrajz a szomszédos építmények és a terepviszonyok feltüntetésével,
 
-j) a helyi építési szabályzat tervezetét,
+c) az eltérő szintek alaprajza 1:200 léptékben,
 
-k) a tervdokumentáció benyújtójának és tervezőjének nevét vagy elnevezését, valamint címét, illetve székhelyét, és a tervezési jogosultság megnevezését, valamint az azt igazoló okirat számát, továbbá
+d) metszet 1:200 léptékben,
 
-l) azon dokumentumokat, amelyekkel kapcsolatban a benyújtó tervtanácsi véleményt kér.
+e) az esztétikus megjelenést – tömegalakítást, színezést, anyaghasználatot – bemutató, a rálátás- és látványvédelmet alátámasztó valamennyi homlokzat, településkép, utcakép, látványterv, fotó,
 
-(2) A településrendezési tervtanácshoz a tervdokumentációt olyan tervi állapotban (munkafázisban) kell beadni, hogy arról egyértelmű vélemény legyen alkotható.
+f) a szabályozási tervnek és a helyi építési szabályzatnak a tervezéssel érintett telekre vonatkozó kivonata,
 
-(3)[^44] Az építészeti-műszaki tervtanácshoz benyújtott tervdokumentációnak a külön jogszabály szerint építési engedélyhez vagy elvi építési engedélyhez kötött, és a 9. § (2) és (4), valamint a 10. § (2) és (4) bekezdésében meghatározott építmények építési engedélyezési vagy építési elvi engedélyezési tervdokumentációjából az alábbi munkarészeket kell tartalmaznia:
+g) műemlék esetén az építési tevékenységgel érintett épületrészre vonatkozó, külön jogszabályban meghatározott tartalmú építéstörténeti dokumentáció, a tervezett beavatkozásokat megalapozó vizsgálatok, szakvélemények, valamint a műemléki értékek bemutatására alkalmas részletességű felmérési dokumentáció.
 
-a) műszaki leírás,
-
-b) helyszínrajz a szomszédos építmények és a terepviszonyok feltüntetésével,
-
-c) az eltérő szintek alaprajza,
-
-d) metszetek, a megértéshez szükséges mértékben,
-
-e) valamennyi homlokzat,
-
-f) utcakép, ha a tervezett építmény az utcaképben megjelenik,
-
-g) a szabályozási tervnek és a helyi építési szabályzatnak a tervezéssel érintett telekre vonatkozó kivonata.
-
-(4) A (3) bekezdés g) pontjában foglaltak a helyi önkormányzat által működtetett tervtanácsok tekintetében nem alkalmazandók.
-
-(5)[^45]
-
-[^44]: A 11. § (3) bekezdésének bevezető szövegrésze a 207/2008. (VIII. 27.) Korm. rendelet 29. § (5) bekezdése szerint módosított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^45]: A 11. § (5) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének b) pontja hatályon kívül helyezte.
+[^25]: A 11. § a 322/2012. (XI. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
