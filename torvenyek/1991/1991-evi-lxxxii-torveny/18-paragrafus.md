@@ -28,9 +28,7 @@
 
 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
 
-12. súlyos mozgáskorlátozott
-
-az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeinek rendszeréről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott orvosi szakvélemény igazolja,
+12. súlyos mozgáskorlátozott az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeinek rendszeréről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
 
 13. segédmotoros kerékpár: olyan két-, három- vagy négykerekű jármű, amelyet 50 cm3-t meg nem haladó lökettérfogatú belső égésű motor vagy legfeljebb 4 kW teljesítményű egyéb motor hajt, tervezési végsebessége 45 km/óránál nem nagyobb és saját tömege legfeljebb 350 kg,
 
@@ -42,7 +40,7 @@ az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeine
 
 17. külföldön nyilvántartott gépjármű és pótkocsi üzembentartója azon személyek egyike, akinek a nevére a forgalmi engedélyt kiállították; vagy akit a jogi személy vagy más személyi egyesülés nevére kiállított forgalmi engedélyben a jogi személy vagy a személyi egyesülés mellett feltüntettek; vagy aki a járművet Magyarország területén használja; vagy aki azt az ország területéről kilépteti,
 
-18. gépjármű forgalomból való kivonásának minősül a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet szerinti forgalomból való kivonás,
+18. gépjármű forgalomból való kivonásának minősül a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet szerinti forgalomból való kivonás,
 
 19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik. Amennyiben az önkormányzati adóhatóság az adómegállapítása során e tényt nem vette figyelembe, akkor az adóalany ezt a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával igazolhatja,
 
@@ -58,10 +56,10 @@ az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeine
 
 25. gyártási év: a hatósági nyilvántartásban ilyen elnevezéssel szereplő naptári év,
 
-26. lassú jármű és a lassú jármű pótkocsija: a 35/2000. (XI. 30.) BM rendelet értelmében speciális rendszámtáblával – fehér alapon (3-3) piros betű- és számjellel, Y kezdő betűjellel – és igazolólappal ellátott jármű, amely a sík úton önerejéből (vagy vontatója által) 25 km/óra sebességnél gyorsabban haladni nem képes,
+26. lassú jármű és a lassú jármű pótkocsija: a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet alapján speciális rendszámtáblával – fehér alapon (3–3) piros betű- és számjellel, Y kezdő betűjellel – és igazolólappal ellátott jármű, amely a sík úton önerejéből (vagy vontatója által) 25 km/óra sebességnél gyorsabban haladni nem képes,
 
 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 
 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
 
-29. környezetvédelmi osztály-jelzés: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 2011. augusztus 15-én hatályos 5. számú melléklete II. alpontja szerinti környezetvédelmi osztály-jelzés (kód).
+29. környezetvédelmi osztály-jelzés: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló, 2012. augusztus 15-én hatályos 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: KöHÉM rendelet) 5. számú melléklet II. alpontja szerinti környezetvédelmi osztály jelzés (kód). Ha a KöHÉM rendelet szerinti osztály jelzés nem ismert, akkor azt a személygépkocsi légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl. forgalmi engedély, típus-bizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztály-jelzése: ”6”. Ha a személygépkocsi osztályjelzése a KöHÉM rendelet 2012. augusztus 15-ét követő módosítása miatt „15”-nél nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztály-jelzés „15”.
