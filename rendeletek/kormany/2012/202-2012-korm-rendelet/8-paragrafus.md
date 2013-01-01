@@ -1,0 +1,3 @@
+8. § (1) A konszolidációs törvény, valamint Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján állami fenntartásba került közoktatási intézmények tekintetében ellátott intézményfenntartói feladatokat – a 3. § (2) bekezdésben foglalt feladatok kivételével – az Intézményfenntartó Központ veszi át.
+
+(2) A megyei intézményfenntartó központok foglalkoztatotti állományából az Intézményfenntartó Központ foglalkoztatotti állományába kerülnek az (1) bekezdésben meghatározott szakmai és funkcionális feladatokat ellátó kormánytisztviselők és munkavállalók.
