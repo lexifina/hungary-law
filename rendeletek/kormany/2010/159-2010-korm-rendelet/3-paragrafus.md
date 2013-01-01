@@ -34,6 +34,6 @@ d) ha a létesítési engedély időbeli hatályának tartama alatt az engedély
 
 a) létesítési engedély.
 
-b)[^7]
+b)[^8]
 
-[^7]: A 3. § (5) bekezdés b) pontját a 309/2010. (XII. 23.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^8]: A 3. § (5) bekezdés b) pontját a 309/2010. (XII. 23.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.

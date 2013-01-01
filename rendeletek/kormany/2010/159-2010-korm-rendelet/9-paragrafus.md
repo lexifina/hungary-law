@@ -2,11 +2,11 @@
 
 ## 9. § A légiközlekedési hatóság, ha
 
-a)[^9] a kérelem hiányos, a kérelem beérkezésétől számított tizenöt napon belül, vagy
+a)[^10] a kérelem hiányos, a kérelem beérkezésétől számított tizenöt napon belül, vagy
 
-b)[^10] az ügyfél az a) pont szerinti hiányokat pótolta, de kérelme a mellékletek műszaki tartalma tekintetében hiányos, az a) pont szerinti hiánypótlást követő húsz napon belül
+b)[^11] az ügyfél az a) pont szerinti hiányokat pótolta, de kérelme a mellékletek műszaki tartalma tekintetében hiányos, az a) pont szerinti hiánypótlást követő húsz napon belül
 
 hiánypótlásra hívja fel a kérelmezőt.
 
-[^9]: A 9. § a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (145) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^10]: A 9. § b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (145) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^10]: A 9. § a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (145) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^11]: A 9. § b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (145) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
