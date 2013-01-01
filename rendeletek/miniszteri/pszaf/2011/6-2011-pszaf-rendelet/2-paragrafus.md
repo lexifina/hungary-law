@@ -1,7 +1,7 @@
-2. § (1) A befektetési alapkezelő a rendszeres adatszolgáltatást a Felügyelet által meghatározott elektronikus formában, minősített vagy fokozott biztonságú elektronikus aláírással ellátva, a Felügyelet Kihelyezett Adatküldő Program rendszerén (a továbbiakban: adatfogadó rendszer) keresztül teljesíti.
+2. §[^2] (1) Az adatszolgáltató az e rendeletben előírt adatszolgáltatási kötelezettséget a Felügyelet által meghatározott elektronikus formában, a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással ellátva teljesíti.
 
-(2) A Felügyelet az (1) bekezdés szerinti kötelezettséget akkor tekinti teljesítettnek, ha az adatszolgáltatás megfelel a 2. melléklet II. címében foglaltaknak.
+(2) A Felügyelet az (1) bekezdés szerinti kötelezettséget akkor tekinti teljesítettnek, ha az adatszolgáltatás megfelel a 2. melléklet I. rész 2. pontjában foglaltaknak.
 
-(3) A befektetési alapkezelő biztosítja, hogy a (4) bekezdésben meghatározott őrzési időtartam alatt mindenkor, ellenőrizhető módon rendelkezésre álljon a rendszeres adatszolgáltatás, a rendszeres adatszolgáltatást alátámasztó iratok és a számviteli, nyilvántartási, informatikai rendszerekben tárolt információk.
+(3) Az adatszolgáltató a Felügyelet kérésére az adatszolgáltatási kötelezettség teljesítéséhez szükséges iratokat és a számviteli, nyilvántartási, informatikai rendszerekben tárolt információkat a rendszeres adatszolgáltatás esedékessége naptári évének utolsó napjától számított öt évig bármikor köteles a Felügyelet számára rendelkezésre bocsátani.
 
-(4) Az iratokat és a számviteli, nyilvántartási, informatikai rendszerekben tárolt információkat a rendszeres adatszolgáltatás esedékessége naptári évének utolsó napjától számított öt évig kell megőrizni.
+[^2]: A 2. § a 22/2012. (XI. 14.) PSZÁF rendelet 1. § (2) bekezdésével megállapított szöveg.

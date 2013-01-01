@@ -1,21 +1,33 @@
-3. § (1) A befektetési alapkezelő a következő rendszeres adatszolgáltatást teljesíti:
+3. §[^3] (1) Az adatszolgáltató
 
-a) Napi jelentés (1. melléklet szerinti 50A, 50AA és 50B jelű tábla) a nyilvánosan létrehozott befektetési alapokról, amelyet a nyilvános alap nettó eszközértékének kiszámítását követő második munkanap 18 óráig kell teljesíteni.
+a) a nyilvános befektetési alapra vonatkozóan a napi jelentést a tárgyidőszakot követő 2. munkanap 18 óráig,
 
-b) Heti jelentés (1. melléklet szerinti 50A, 50AA és 50B jelű tábla) a nettó eszközértéket hetente vagy annál ritkábban megállapító befektetési alapokról, amelyet minden hét első munkanapján 18 óráig kell teljesíteni. A nettó eszközértéket az adatszolgáltatást megelőző hét utolsó munkanapjára kell megállapítani.
+b) a nyilvános befektetési alapra vonatkozóan a heti jelentést a tárgyidőszakot követő hét 2. munkanap 18 óráig,
 
-c) Negyedéves jelentés (1. melléklet szerinti 50C, 50D, 50F, 50G, ALAPVDN, AKVDN, AKFVDN jelű tábla) a nyilvános és zártkörű alapokról, a befektetési alapkezelő által a portfóliókezelési tevékenység keretében kezelt portfóliókról, a befektetési alap egyes jellemzőiről, a nyilvántartásba vett panaszbejelentésekről és a felügyeleti díj változó részéről, amelyet a tárgynegyedévet követő hónap 15. napjáig kell teljesíteni.
+c) a negyedéves jelentést a tárgyidőszakot követő hónap 20. munkanapjáig,
 
-d) Éves jelentés (1. melléklet szerinti 50EE, 50EF, 50ER, AKAD, AKFAD, KTAAE1, KTAAE2, KTAAE3, KTAAE4, KTAFAE1, KTAFAE2 jelű tábla) a befektetési alapkezelő mérlegéről, eredménykimutatásáról, a felügyeleti alapdíjról és a törzsadatokról, amelyek közül
+d) az éves jelentést
 
-da) az 1. melléklet szerinti AKAD, AKFAD jelű táblát és az 50EE, 50EF, 50ER táblát nem auditált adatokkal a tárgyév január 31. napjáig,
+da) a nem auditált adatokkal január 31-ig,
 
-db) az 1. melléklet szerinti 50EE, 50EF, 50ER jelű táblát a könyvvizsgálói záradékkal ellátott éves beszámoló alapján június 15. napjáig,
+db) az auditált adatokkal – az előírt mellékletekkel együtt – az éves beszámolót elfogadó közgyűlést követő 15. napig, de legkésőbb a tárgyévet követő év június 15-ig,
 
-dc) az 1. melléklet szerinti KTAAE1, KTAAE2, KTAAE3, KTAAE4, KTAFAE1, KTAFAE2 jelű táblát a június 30-i állapotot tükröző adatokkal a második negyedévre vonatkozó negyedéves jelentéssel egyidejűleg
+e) a törzsadatairól szóló
 
-kell teljesíteni.
+ea) tárgyév június 30-i állapotot tükröző törzsadat jelentést a második negyedévre vonatkozó negyedéves jelentéssel egyidejűleg a tárgynegyedévet követő hónap 20. munkanapjáig,
 
-e) A befektetési alapkezelő törzsadatainak változásról szóló jelentés (1. melléklet szerinti KTAAE1, KTAAE2, KTAAE3, KTAAE4, KTAFAE1, KTAFAE2 jelű tábla), amelyet a változást követő 15. napig kell teljesíteni.
+eb) tárgyév december 31-i állapotot tükröző törzsadat jelentést a tárgyévet követő év január 15. napjáig,
 
-(2) Ha a befektetési alapkezelő önellenőrzési vagy belső ellenőrzési tevékenysége megállapítja, hogy a már teljesített rendszeres adatszolgáltatás módosítása szükséges, akkor a módosítást visszamenőleg attól az időszaktól kezdve kell végrehajtani, amelyben az adat módosításra szorul. A módosított rendszeres adatszolgáltatást a hiba feltárását követő 15. napig kell teljesíteni.
+ec) az időközi változások miatti törzsadat jelentést – eltérő jogszabályi rendelkezés hiányában – a változást követő 15 munkanapon belül
+
+## köteles a Felügyelet részére megküldeni.
+
+(2) Az adatszolgáltató
+
+a) a felügyeleti alapdíj számításáról szóló éves bevallást a tárgyév január 31. napjáig,
+
+b) a felügyeleti változó díj számításáról szóló negyedéves jelentést a negyedéves adatszolgáltatási jelentéssel egyidejűleg, annak részeként,
+
+c) a tárgyévre számított felügyeleti változó díj éves beszámoló auditálása utáni esetleges különbözetét a tárgyévet követő év második negyedévére vonatkozó bevallásban – külön korrekciós tételként –
+
+[^3]: A 3. § a 22/2012. (XI. 14.) PSZÁF rendelet 1. § (3) bekezdésével megállapított szöveg.
