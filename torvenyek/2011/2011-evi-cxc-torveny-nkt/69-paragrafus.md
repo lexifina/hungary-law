@@ -1,8 +1,8 @@
 69. § (1) A köznevelési intézmény vezetője
 
-a) felel az intézmény szakszerű és törvényes működéséért, gazdálkodásért,
+a) felel az intézmény szakszerű és törvényes működéséért, gazdálkodásért, önálló költségvetéssel nem rendelkező intézmény esetében a működtetővel kötött szerződésben foglaltak végrehajtásáért, működtető hiányában a fenntartó által rendelkezésére bocsátott eszközök tőle elvárható gondossággal való kezeléséért,
 
-b) gyakorolja a munkáltatói jogokat,
+b) önálló költségvetéssel nem rendelkező intézmény vezetője kivételével gyakorolja a munkáltatói jogokat a köznevelési intézményben foglalkoztatottak felett,
 
 c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés, közalkalmazotti szabályzat nem utal más hatáskörébe,
 
@@ -20,7 +20,7 @@ b) a nevelőtestület vezetéséért,
 
 c) a nevelőtestület jogkörébe tartozó döntések előkészítéséért, végrehajtásuk szakszerű megszervezéséért és ellenőrzéséért,
 
-d) a rendelkezésre álló költségvetés alapján a nevelési-oktatási intézmény működéséhez szükséges személyi és tárgyi feltételek biztosításáért,
+d) önálló költségvetéssel rendelkező intézmény esetében a rendelkezésre álló költségvetés alapján a nevelési-oktatási intézmény működéséhez szükséges személyi és tárgyi feltételek biztosításáért,
 
 e) a nemzeti és iskolai ünnepek munkarendhez igazodó, méltó megszervezéséért,
 

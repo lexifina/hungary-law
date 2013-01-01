@@ -1,4 +1,4 @@
-23. § (1) Ha a köznevelési intézményt nem az állami intézményfenntartó központ alapítja, működésének megkezdéséhez engedély szükséges.
+23. § (1) Ha a köznevelési intézményt nem az állami intézményfenntartó központ, települési önkormányzat alapítja, működésének megkezdéséhez engedély szükséges.
 
 (2) Az engedély akkor adható ki, ha a köznevelési intézmény a 22. § (1)–(2) bekezdésben meghatározottak szerint rendelkezik a működéséhez szükséges feltételekkel és a nyilvántartásba vétel óta kevesebb mint hat hónap telt el. Az engedély kiadásával összefüggő költségeket a kérelem benyújtója viseli.
 

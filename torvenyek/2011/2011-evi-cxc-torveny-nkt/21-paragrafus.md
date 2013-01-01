@@ -1,8 +1,8 @@
 ## 19. A köznevelési intézmények alapítása, megszüntetése
 
-21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény a fenntartójától elkülönült, önálló költségvetéssel rendelkező jogi személy, amely a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
+21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – az állami intézményfenntartó központ által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A köznevelési intézmény a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
 
-(2) A köznevelési intézmény alapítását az alapító okirat, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, más esetben a köznevelési intézmény székhelye szerint illetékes kormányhivatalnál kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
+(2) A köznevelési intézmény alapítását az alapító okirat, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, az állami intézményfenntartó központ által fenntartott intézmény esetében a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szervnél (a továbbiakban: hivatal), más esetben a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
 
 (3) A köznevelési intézmény alapító okirata tartalmazza
 
@@ -20,7 +20,7 @@ db) tagintézményét,
 
 dc) telephelyét,
 
-e) alapfeladatának, szakfeladatának jogszabály szerinti megnevezését,
+e) alapfeladatának jogszabály szerinti megnevezését,
 
 f) nevelési, oktatási feladatot ellátó feladatellátási helyenként felvehető maximális gyermek-, tanulólétszámot,
 
@@ -30,9 +30,9 @@ h) alapfokú művészetoktatás esetén a művészeti ágak, azon belül a tansz
 
 i) szakképzés esetén a szakmacsoportokat és az Országos Képzési Jegyzékben meghatározottak szerint a szakképesítés megnevezését és azonosító számát, szakközépiskola esetén az ágazatokat,
 
-j) a feladatellátást szolgáló vagyont, a vagyon feletti rendelkezés jogát,
+j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
 
-k) a gazdálkodással összefüggő jogosítványokat.
+k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálkodással összefüggő jogosítványokat.
 
 (4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A nyilvántartásban szereplő adatok közhitelesek. A bejegyzett adatokban bekövetkezett változásokat – a (2) bekezdésben meghatározottak szerint – nyolc napon belül be kell jelenteni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, valamint elektronikus úton is hozzáférhetők.
 
@@ -42,13 +42,13 @@ a) a köznevelési intézmény
 
 aa) létesítő és módosító alapító okiratának keltét,
 
-ab) nevét, alapfeladatának, szakfeladatának jogszabály szerinti megnevezését és valamennyi feladatellátási helyét,
+ab) nevét, alapfeladatának jogszabály szerinti megnevezését és valamennyi feladatellátási helyét,
 
 ac) képviseletére jogosult személy nevét,
 
-ad) adószámát,
+ad) az önálló költségvetéssel rendelkező intézmény esetében adószámát,
 
-ae) valamennyi pénzforgalmi számlaszámát,
+ae) az önálló költségvetéssel rendelkező intézmény esetében valamennyi pénzforgalmi számlaszámát,
 
 b) a nyilvántartásba vétel, létesítés napját,
 
@@ -60,7 +60,7 @@ e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntet
 
 (6) Ha a köznevelési intézmény székhelye megváltozik, a (2) bekezdésben foglaltak szerint újra nyilvántartásba kell venni, feltéve hogy a kormányhivatal illetékessége is megváltozik. Az ismételt nyilvántartásba vétel a köznevelési intézmény létrejöttének időpontját nem érinti.
 
-(7) A nyilvántartásba vételről szóló jogerős határozat alapján a köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
+(7) A nyilvántartásba vételről szóló jogerős határozat alapján az önálló költségvetéssel rendelkező köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
 
 (8) A köznevelési intézményt törölni kell a nyilvántartásból, ha
 
@@ -78,7 +78,7 @@ f) a fenntartó egy nevelési, tanítási évnél hosszabb ideig nem működteti
 
 g) hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során megállapított szakmai jogszabálysértés miatt a nyilvántartásból való törlését elrendeli.
 
-(9) A megszűnt intézmény székhelye szerint illetékes kormányhivatal az intézmény telephelye szerint illetékes kormányhivatal bevonásával gondoskodik a gyermekek, tanulók elhelyezéséről.
+(9) A nyilvántartásból való törléssel egyidejűleg a kormányhivatal kijelöli azt a nevelési-oktatási intézményt, amely a megszűnt intézménnyel jogviszonyban álló gyermekek, tanulók felvételét nem tagadhatja meg. Az intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló jogerős határozatot a kormányhivatal megküldi az állami intézményfenntartó központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A határozat tartalmazza annak az intézménynek a kijelölését, amely a gyermek, tanuló felvételét nem tagadhatja meg.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 
