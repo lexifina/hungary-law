@@ -1,1 +1,1 @@
-20–23. §
+20. § A 2013. január 1-jén hatályos olyan kizárólagos jogot biztosító megállapodások, amelyek nem felelnek meg a 9. § (2) bekezdésének, a megállapodás lejártakor, de legkésőbb 2014. január 1-jén megszűnnek.
