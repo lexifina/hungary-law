@@ -1,10 +1,10 @@
-## 9. §[^7] A közösségi rendelet 22. cikke alapján fennálló tájékoztatási kötelezettséget az Igazgatóság teljesíti.
+## 9. §[^8] A közösségi rendelet 22. cikke alapján fennálló tájékoztatási kötelezettséget az Igazgatóság teljesíti.
 
 10. § (1) E rendelet 2005. január 1. napján lép hatályba, rendelkezéseit a hatálybalépését követően benyújtott kérelmekre kell alkalmazni.
 
-(2)[^8]
+(2)[^9]
 
 (3) Ez a rendelet az egyes szellemi tulajdonjogokat feltehetően sértő áruk elleni vámhatósági intézkedésekről és az ilyen jogokat ténylegesen sértő áruk ellen hozandó intézkedésekről szóló a Tanács 1383/2003/EK rendelete, továbbá a közösségi rendelet végrehajtási rendelkezéseinek elfogadásáról szóló, a Bizottság 1891/2004/EK rendelete végrehajtásához szükséges szabályokat állapítja meg.
 
-[^7]: A 9. § a 273/2010. (XII. 9.) Korm. rendelet 105. § (2) bekezdése szerint módosított szöveg.
-[^8]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 584. pontja hatályon kívül helyezte.
+[^8]: A 9. § a 273/2010. (XII. 9.) Korm. rendelet 105. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 584. pontja hatályon kívül helyezte.
