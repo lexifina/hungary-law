@@ -1,4 +1,4 @@
-86. §[^240] A 84. § (3) bekezdés a) pontja szerinti előzetes jóváhagyáshoz az engedélyes köteles benyújtani a kiszervezésre vonatkozó szerződést vagy annak tervezetét, amelynek minden kiszervezett tevékenység esetében tartalmaznia kell legalább a következőket:
+86. §[^250] A 84. § (3) bekezdés a) pontja szerinti előzetes jóváhagyáshoz az engedélyes köteles benyújtani a kiszervezésre vonatkozó szerződést vagy annak tervezetét, amelynek minden kiszervezett tevékenység esetében tartalmaznia kell legalább a következőket:
 
 a) a tevékenység tartalmát, ideértve annak végzésének helyét és idejét,
 
@@ -14,4 +14,4 @@ f) az üzemzavarok elhárítása, mint kiemelt fontosságú szolgáltatás vonat
 
 g) a szerződés felmondásának feltételeit, módját és jogkövetkezményeit.
 
-[^240]: A Vhr. 86. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^250]: A Vhr. 86. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

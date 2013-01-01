@@ -1,6 +1,6 @@
-## A villamosenergia-ellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^104]
+## A villamosenergia-ellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^114]
 
-29/A. §[^105] A VET és e rendelet alkalmazásában közintézményi felhasználó
+29/A. §[^115] A VET és e rendelet alkalmazásában közintézményi felhasználó
 
 a) a közoktatásról szóló törvény szerinti óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda vagy iskola, és az ezekhez tartozó kollégium, ha
 
@@ -26,5 +26,5 @@ da) állami vagy önkormányzati fenntartású, vagy
 
 db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos szerződéssel rendelkezik.
 
-[^104]: A Vhr. 29/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^105]: A Vhr. 29/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^114]: A Vhr. 29/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^115]: A Vhr. 29/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.

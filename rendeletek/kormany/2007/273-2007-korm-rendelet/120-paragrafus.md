@@ -1,6 +1,6 @@
 ## Átmeneti rendelkezések
 
-120. §[^296] (1) Az egyetemes szolgáltató az üzletszabályzat részét képező egyetemes szolgáltatási szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a VET 176. § (3) bekezdésében meghatározott villamosenergia-vásárlási szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
+120. §[^306] (1) Az egyetemes szolgáltató az üzletszabályzat részét képező egyetemes szolgáltatási szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a VET 176. § (3) bekezdésében meghatározott villamosenergia-vásárlási szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
 
 a) azt, hogy az írásbeli villamosenergia-vásárlási szerződéssel nem rendelkező felhasználókkal 2014. december 31-ig írásbeli villamosenergia-vásárlási szerződést kell kötni,
 
@@ -30,4 +30,4 @@ b) az üzletszabályzatában meghatározott módon
 
 (7) Az egyetemes szolgáltató biztosítja, hogy az írásbeli egyetemes szolgáltatási szerződéssel rendelkező felhasználók aránya a felhasználók összlétszámához képest 2012. december 31-ig eléri a 40%-ot, 2013. december 31-ig a 80%-ot.
 
-[^296]: A Vhr. 120. §-a a 378/2011. (XII. 31.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^306]: A Vhr. 120. §-a a 378/2011. (XII. 31.) Korm. rendelet 28. §-ával megállapított szöveg.

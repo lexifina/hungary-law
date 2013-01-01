@@ -1,6 +1,6 @@
-## Az elektronikus hírközlő hálózati elemekre vonatkozó szerződés[^264]
+## Az elektronikus hírközlő hálózati elemekre vonatkozó szerződés[^274]
 
-100/A. §[^265] (1) Az átviteli rendszerirányító és az elektronikus hírközlő hálózati elemek tulajdonosa közötti, az elektronikus hírközlő hálózati elemekre vonatkozó, a VET 102/B. § (4) bekezdése, a VET 103. § (4a) bekezdése és a VET 104. § (1a) bekezdése szerinti szerződéshez (a 100/A–100/C. § alkalmazásában a továbbiakban együtt: szerződés), annak módosításához vagy megszüntetéséhez a Hivatal jóváhagyása szükséges.
+100/A. §[^275] (1) Az átviteli rendszerirányító és az elektronikus hírközlő hálózati elemek tulajdonosa közötti, az elektronikus hírközlő hálózati elemekre vonatkozó, a VET 102/B. § (4) bekezdése, a VET 103. § (4a) bekezdése és a VET 104. § (1a) bekezdése szerinti szerződéshez (a 100/A–100/C. § alkalmazásában a továbbiakban együtt: szerződés), annak módosításához vagy megszüntetéséhez a Hivatal jóváhagyása szükséges.
 
 (2) A Hivatal az (1) bekezdés szerinti jóváhagyás során vizsgálja, hogy a szerződésben foglaltak, a szerződés módosítása vagy megszüntetése megfelel-e a villamosenergia-rendszer folyamatos és biztonságos működésére, valamint a folyamatos és biztonságos villamosenergia-ellátásra vonatkozó jogszabályi követelményeknek.
 
@@ -54,5 +54,5 @@ c) az átviteli rendszerirányítás mindenkori igénye szerint az elektronikus 
 
 d) az elektronikus hálózati elemek átkonfigurálásáról, lebontásáról és hálózatmenedzseléséről az átviteli rendszerirányítás igényeinek kielégítése céljából intézkedni.
 
-[^264]: A Vhr. 100/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
-[^265]: A Vhr. 100/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^274]: A Vhr. 100/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^275]: A Vhr. 100/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 24. §-a iktatta be.

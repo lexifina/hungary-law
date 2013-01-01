@@ -1,4 +1,4 @@
-23/A. §[^80] (1) Az ügyfélszolgálatokon kötelezően végzendő tevékenységek körét, a nyitvatartási időre és a tevékenységek végzésére vonatkozó részletes minőségi követelményeket, a szolgáltatás elvárt színvonalát a Hivatal – az üzletszabályzatok keretei között – állapítja meg.
+23/A. §[^88] (1) Az ügyfélszolgálatokon kötelezően végzendő tevékenységek körét, a nyitvatartási időre és a tevékenységek végzésére vonatkozó részletes minőségi követelményeket, a szolgáltatás elvárt színvonalát a Hivatal – az üzletszabályzatok keretei között – állapítja meg.
 
 (2) A Hivatal az árszabályozás során kizárólag a kötelezően létesítendő ügyfélszolgálatok költségeit ismeri el.
 
@@ -10,4 +10,4 @@
 
 (6) A villamosenergia-kereskedő köteles honlapján közzétenni és ügyfélszolgálatán térítésmentesen a felhasználók rendelkezésére bocsátani a szolgáltatási területén működő, az épületek energetikai jellemzőinek tanúsításáról szóló rendelet szerint kijelölt vagy akkreditált energiaauditot, energetikai szolgáltatást végző tanúsítók listáját és elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok hozzáférhetőségét.
 
-[^80]: A Vhr. 23/A. §-át a 64/2009. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^88]: A Vhr. 23/A. §-át a 64/2009. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.

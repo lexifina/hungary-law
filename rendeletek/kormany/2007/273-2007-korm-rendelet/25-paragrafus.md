@@ -2,11 +2,11 @@
 
 (2) Amennyiben az elosztó a kikapcsolást a villamosenergia-kereskedő értesítésének kézhezvételétől számított 30 napon belül nem tudja végrehajtani, köteles erről a villamosenergia-kereskedőt értesíteni. A villamosenergia-kereskedő a kikapcsolás meghiúsulásáról szóló értesítést követően az elosztó egyidejű tájékoztatása mellett a villamosenergia-értékesítési szerződést felmondhatja.
 
-(3)[^88]
+(3)[^96]
 
 (4) A lakossági fogyasztó – amennyiben a villamos energia szolgáltatásra igényt tart – tartozásának rendezését a villamosenergia-kereskedő felé igazolni köteles.
 
-(5)[^89]
+(5)[^97]
 
-[^88]: A Vhr. 25. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
-[^89]: A Vhr. 25. § (5) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^96]: A Vhr. 25. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+[^97]: A Vhr. 25. § (5) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
