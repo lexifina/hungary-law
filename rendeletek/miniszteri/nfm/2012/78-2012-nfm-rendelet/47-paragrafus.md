@@ -1,5 +1,3 @@
-## 44–46. §
+## 46. § Az R9. 1. melléklete helyébe a 14. melléklet lép.
 
-## 11.[^12]
-
-[^12]: A 11. alcím (47. §) a 48. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 11. A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet módosítása

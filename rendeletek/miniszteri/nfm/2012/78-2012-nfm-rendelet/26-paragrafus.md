@@ -1,6 +1,7 @@
-## 23–25. §[^6]
+## 23–25. §[^5]
 
-## 6.[^7]
+## 6. Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló
 
-[^6]: A 23–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 6. alcím (26–34. §) a 48. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 19/2010. (XII. 3.) NFM rendelet módosítása
+
+[^5]: A 23–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

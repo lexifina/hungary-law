@@ -1,5 +1,5 @@
-## 26–34. §
+## 34. § Az R6. 3. §-ában a „3. mellékletben” szövegrész helyébe a „3. és 4. mellékletben” szöveg, 3/B. §-ában a „2–4. mellékletben” szövegrész helyébe a „2–5. mellékletben” szöveg lép.
 
-## 7.[^8]
+## 7. A földgáz csatlakozási díjak meghatározásáról és alkalmazásuk általános szabályairól szóló
 
-[^8]: A 7. alcím (35–40. §) a 48. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 79/2011. (XII. 22.) NFM rendelet módosítása

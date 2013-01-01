@@ -1,0 +1,3 @@
+## 35. § A földgáz csatlakozási díjak meghatározásáról és alkalmazásuk általános szabályairól szóló 79/2011. (XII. 22.) NFM rendelet (a továbbiakban: R7.) 4. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A leendő vagy a már csatlakozott felhasználó, illetve a földgáztermelő által a szállítói engedélyes részére fizetendő csatlakozási díjakat a Hivatal hivatalból indított közigazgatási hatósági eljárásban engedélyesenként határozattal állapítja meg, amely határozat hatálya határozott vagy határozatlan időre is szólhat. A határozatlan időre megállapított csatlakozási díjak felülvizsgálata esetén a Hivatal új határozatot a következő gázév kezdetére hoz.”

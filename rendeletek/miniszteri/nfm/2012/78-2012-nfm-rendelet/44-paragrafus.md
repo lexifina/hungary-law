@@ -1,6 +1,5 @@
-## 43. §[^10]
+## 43. §[^6]
 
-## 10.[^11]
+## 10. A távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendelet módosítása
 
-[^10]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 10. alcím (44–46. §) a 48. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^6]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
