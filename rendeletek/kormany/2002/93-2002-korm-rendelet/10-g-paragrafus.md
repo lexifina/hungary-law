@@ -1,4 +1,4 @@
-## 10/G. §[^76] Az akkreditált szervezet a továbbképzés szervezésével és lebonyolításával összefüggésben köteles:
+## 10/G. §[^91] Az akkreditált szervezet a továbbképzés szervezésével és lebonyolításával összefüggésben köteles:
 
 a) a továbbképzéseket a 10/D. § (1) bekezdés szerinti kérelemben rögzített tematika szerint, a kérelemben foglalt időtartamban szervezni és lebonyolítani,
 
@@ -20,4 +20,4 @@ a nyilvántartásba vételt végző szervezet részére a továbbképzés lebony
 
 g) a továbbképzésekről olyan nyilvántartást vezetni, amelyből egyértelműen nyomon követhető, hogy a továbbképzésen részt vevő személy mely továbbképzésen, mennyi kreditpontról kapott igazolást.
 
-[^76]: A 10/G. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^91]: A 10/G. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (3) bekezdése iktatta be.

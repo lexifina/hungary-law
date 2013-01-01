@@ -1,4 +1,4 @@
-10/D. §[^74] (1) Kreditpont-minősítési eljárás keretében az akkreditált szervezet továbbképzési programját – minősítésre – a 10. számú mellékletben meghatározott adattartalmú kérelemmel nyújthatja be a nyilvántartásba vételt végző szervezetnek.
+10/D. §[^88] (1) Kreditpont-minősítési eljárás keretében az akkreditált szervezet továbbképzési programját – minősítésre – a 10. számú mellékletben meghatározott adattartalmú kérelemmel nyújthatja be a nyilvántartásba vételt végző szervezetnek.
 
 (2) A szabályszerűen benyújtott (1) bekezdés szerinti kérelem alapján a program szakmai tartalmára, aktualitására, időtartamára, a tartalom és az időkeret összhangjára, valamint elméleti és gyakorlati jellegére figyelemmel kell a továbbképzési program kreditpont-értékét meghatározni.
 
@@ -14,4 +14,4 @@
 
 (8) A kreditpont-minősítési eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni az e rendeletben foglaltak figyelembevételével.
 
-[^74]: A 10/D. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^88]: A 10/D. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.

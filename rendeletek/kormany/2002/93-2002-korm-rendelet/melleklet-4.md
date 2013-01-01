@@ -1,35 +1,17 @@
-## a) oldal
+| a) oldal |
 
-| PÉNZÜGYMINISZTÉRIUM |
+| NEMZETGAZDASÁGI MINISZTÉRIUM |
 
 | Regisztrálási szám: IGAZOLVÁNY könyvviteli szolgáltatást végzők nyilvántartásba vételéről Személyi azonosító adatok Családi és utónév: Születési hely, idő: Anyja születési családi és utóneve: Regisztrálási szakterület: Igazolványszám: |
 
-## b) oldal
+| b) oldal |
 
-| PÉNZÜGYMINISZTÉRIUM |
+| NEMZETGAZDASÁGI MINISZTÉRIUM |
 
-|  | A pénzügyminiszter a 93/2002. (V. 5.) Korm. rendelet alapján könyvviteli szolgáltatás végzése céljából |
+|  | A nemzetgazdasági miniszter a 93/2002. (V. 5.) Korm. rendelet alapján könyvviteli szolgáltatás végzése céljából .............................................................. számon nyilvántartásba vette. Ezen nyilvántartásba vétel alapján az igazolvány tulajdonosa könyvviteli szolgáltatási tevékenység folytatására jogosult. Az igazolvány érvényes: .................................................-től a visszavonásig Budapest, .................................................. P. H. ........................................................ aláírás |
 
-|  | .............................................................. |
+|  | Fénykép helye |  |
 
-|  | számon nyilvántartásba vette. |
+4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^102]
 
-|  | Fénykép helye |  | Ezen nyilvántartásba vétel alapján az igazolvány tulajdonosa könyvviteli szolgáltatási tevékenység folytatására jogosult. |
-
-|  |  |  | Az igazolvány érvényes: |
-
-|  | .................................................-től |
-
-|  | a visszavonásig |
-
-|  | Budapest, .................................................. |
-
-|  | P. H. |
-
-|  | ........................................................ |
-
-|  | aláírás |
-
-4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^104]
-
-[^104]: A 4. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^102]: A 4. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.

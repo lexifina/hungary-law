@@ -1,64 +1,4 @@
-## ADATLAP
-
-## a könyvviteli szolgáltatást végzők továbbképzéséről készített értékelőlapok összesítéséhez[^122]
-
-## Az adatlap kötelező tartalmi elemei a következők:
-
-## A könyvviteli szolgáltatást végzők továbbképzéséről készített értékelőlapok összesítéséhez a továbbképzésben közreműködő szervezetnek a következő adatokat kell megadnia:
-
-## a) A továbbképzésben közreműködő szervezet neve
-
-## b) A képzés helyszíne
-
-## c) A képzés időpontja
-
-## d) Csoportazonosító
-
-## e) Csoportlétszám
-
-## f) Továbbképzési szak
-
-## – vállalkozási
-
-## – államháztartási
-
-## – pénzügyi
-
-## – egyéb szervezeti (nonprofit)
-
-## g) Értékelés 1-től 5-ig terjedő skálán
-
-## – témakör
-
-## – az oktató előadói készsége
-
-## – az oktató szakmai felkészültsége
-
-## – az elhangzottak gyakorlati alkalmazhatósága
-
-## h) Tankönyv értékelése 1-től 5-ig terjedő skálán
-
-## – tartalma
-
-## – kivitele
-
-## i) Helyszín értékelése 1-től 5-ig terjedő skálán
-
-## – előadóterem
-
-## – oktatási technika
-
-## – megközelíthetőség
-
-## j) Szervezés értékelése 1-től 5-ig terjedő skálán
-
-## – előzetes szervezés, tájékoztatás
-
-## – képzés lebonyolítása
-
-## k) Szöveges értékelés, észrevételek, javaslatok összefoglalása
-
-10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^123]
+10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^117]
 
 ADATLAP
 
@@ -128,7 +68,6 @@ d) „Kijelentem, hogy az akkreditált szervezet Rendelet alapján nyilvántarto
 
 5. Cégszerű aláírás
 
-[^122]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
-[^123]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^117]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be.
 [^1.]: Kreditpont-minősítési eljárás esetén kell megadni.
 [^2”]: Egyszerűsített kreditpont-minősítési eljárás során kell megadni.
