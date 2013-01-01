@@ -8,4 +8,4 @@
 
 (5) Az elmulasztott határnaptól számított 30 napon belül igazolási kérelmet lehet előterjeszteni.
 
-(6) A miniszter határozatának felülvizsgálatát az érintett a polgári perrendtartásnak a közigazgatási határozatok felülvizsgálatára vonatkozó XX. fejezetének szabályai szerint kérheti. Az eljárásra kizárólag a Fővárosi Törvényszék illetékes. A bíróság a megtámadott törvénysértő határozatot megsemmisíti.
+(6) A miniszter határozatának felülvizsgálatát az érintett a polgári perrendtartásnak a közigazgatási határozatok felülvizsgálatára vonatkozó XX. fejezetének szabályai szerint kérheti. Az eljárásra kizárólag a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes. A bíróság a megtámadott törvénysértő határozatot megsemmisíti.

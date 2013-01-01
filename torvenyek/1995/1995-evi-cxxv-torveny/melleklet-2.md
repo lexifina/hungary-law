@@ -12,7 +12,7 @@ Fontos és bizalmas munkakört betöltő személyek:
 
 5. központi hivatalok vezetői, valamit a velük azonos jogállású más közszolgálati vezetők,
 
-6. az Országgyűlés Hivatala vezető beosztású munkatársai,
+6. az Országgyűlés Hivatala vezető beosztású munkatársai, valamint az Országgyűlési Őrség munkatársai,
 
 7. a Köztársasági Elnök Hivatala vezető beosztású munkatársai,
 

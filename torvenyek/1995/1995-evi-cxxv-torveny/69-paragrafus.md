@@ -16,7 +16,9 @@ a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottsá
 
 b) az Országgyűlés Hivatalának vezető beosztású munkatársai
 
-c) a Független Rendészeti Panasztestület tagjai
+c) a Független Rendészeti Panasztestület tagjai,
+
+d) az Országgyűlési Őrség munkatársai
 
 tekintetében.
 
