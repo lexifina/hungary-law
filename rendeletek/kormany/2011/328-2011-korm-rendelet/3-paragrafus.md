@@ -4,6 +4,9 @@
 
 (3) Ha az (1) bekezdés szerinti intézmény ellátási területe több megyére vagy az ország egész területére kiterjed, az intézmény fenntartója gondoskodik az intézményi térítési díj összegének a minisztérium hivatalos lapjában való közzétételéről. Intézményi társulás és többcélú kistérségi társulás által fenntartott intézmény, szolgáltató esetében a tájékoztatási kötelezettséget a társulás székhelye szerinti jegyző teljesíti.
 
-(4) A minisztérium által fenntartott intézmények intézményi térítési díját a miniszter a minisztérium hivatalos lapjában közleményként közzéteszi.
+(4)[^4] A Szociális és Gyermekvédelmi Főigazgatóság által fenntartott intézmények intézményi térítési díját a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium hivatalos lapjában közleményként közzé kell tenni. Amennyiben az intézmény ellátási területe nem országos, az intézményi térítési díjról tájékoztatni kell az ellátási terület szerinti önkormányzat jegyzőjét, főjegyzőjét, aki gondoskodik a lakosság, valamint az ellátási terület szerint érintett önkormányzatok tájékoztatásáról.
 
-(5) A megyei fenntartó által fenntartott intézmények intézményi térítési díját a minisztérium hivatalos lapjában közzé kell tenni, valamint arról értesíteni kell a megyei önkormányzat főjegyzőjét, aki gondoskodik a lakosság, valamint az ellátási terület szerint érintett önkormányzatok tájékoztatásáról.
+(5)[^5]
+
+[^4]: A 3. § (4) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^5]: A 3. § (5) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte.

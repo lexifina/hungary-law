@@ -14,6 +14,8 @@ bb) a Gyvt. 5. § s) pont sc)–se) alpontja szerinti nem állami fenntartó
 
 (2) E rendelet hatálya nem terjed ki
 
-a) a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) fenntartásában működő javítóintézetek által nyújtott utógondozói ellátásért fizetendő térítési díjra,
+a)[^1] a javítóintézetek által nyújtott utógondozói ellátásért fizetendő térítési díjra,
 
 b) a gyermekétkeztetés kivételével az óvodai nevelés, az iskolai nevelés-oktatás, a kollégiumi nevelés keretében biztosított szolgáltatásokra.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 349/2012. (XII. 12.) Korm. rendelet 61. §-ával megállapított szöveg.
