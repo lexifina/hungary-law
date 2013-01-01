@@ -1,1 +1,0 @@
-## A kártérítési ügy felterjesztése
