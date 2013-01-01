@@ -1,4 +1,4 @@
-6. § (1) A kapacitásokat és az ellátási területet e törvény szerinti eljárásokban megállapító, módosító határozatok ellen fellebbezésnek nincs helye, azok jogerőre emelkedésével, illetve ha ettől eltérő teljesítési határidő kerül megállapításra, a teljesítési határidővel egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik.
+6. § (1) A kapacitásokat és az ellátási területet érintő e törvény szerinti eljárásokban hozott döntések ellen fellebbezésnek nincs helye. A kapacitásokat és az ellátási területeket megállapító határozatok jogerőre emelkedésével, illetve ha ettől eltérő teljesítési határidő kerül megállapításra, a teljesítési határidővel egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik.
 
 (2) A szakellátási kapacitást, illetve ellátási területet megállapító, illetve módosító határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.
 

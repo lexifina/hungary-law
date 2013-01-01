@@ -8,14 +8,14 @@
 
 (5) Az (1)–(4) bekezdés szerinti átcsoportosítás részletes feltételeit a Kormány rendeletben állapítja meg.
 
-(6) A fenntartó az (1)–(4) bekezdés szerinti kérelmek mindegyikét szolgáltatónként évente csak két alkalommal nyújthatja be.
+(6)
 
-(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító és a Kormány által kijelölt szerv véleményét. Az egészségügyi államigazgatási szerv hatvan napon belül dönt.
+(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító és amennyiben az érintett egészségügyi szolgáltató fenntartójával nem azonos, a Kormány által kijelölt szerv véleményét. Az egészségügyi államigazgatási szerv hatvan napon belül dönt.
 
 (8)
 
 (9) Az átcsoportosítható kapacitásmennyiség megállapítása során a kerekítés szabályait kell alkalmazni.
 
-(10) Amennyiben az (1)–(4) bekezdés szerinti átcsoportosításra az 5. § (1) bekezdés alapján kerül sor, a kapacitások csökkentésének mértéke az előző év országos átlaga mértékének eléréséig terjedhet.
+(10) Amennyiben az (1)–(4) bekezdés szerinti átcsoportosításra az 5. § (1) bekezdés alapján kerül sor, a kapacitáscsökkentés csak olyan mértékű lehet, hogy az egy kapacitás egységre jutó várható betegforgalom ne haladja meg a szakmára országosan jellemző előző évi átlagot 15%-nál nagyobb mértékben.
 
 (11) Az egészségügyi államigazgatási szerv hivatalból indult eljárásban – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – az egészségügyi szolgáltató szakellátási kapacitást részben vagy egészben átcsoportosíthatja egy vagy több másik egészségügyi szolgáltató részére, amennyiben a térségi betegút-szervezésért felelős szerv vagy az egészségbiztosító tájékoztatása, illetve olyan adatok alapján, amelyekről hivatalos tudomása van, az átcsoportosítás ellátási érdekből való szükségességét megállapítja. Az átcsoportosítás során a 4/A. § (4) bekezdés a) pontjában, illetve a 4/A. § (5) bekezdésében meghatározott feltételnek meg kell felelni.

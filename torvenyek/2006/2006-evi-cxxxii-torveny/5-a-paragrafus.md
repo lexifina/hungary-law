@@ -1,4 +1,4 @@
-5/A. § (1) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint a Kormány által kijelölt szerv szakértői véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
+5/A. § (1) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint amennyiben az érintett egészségügyi szolgáltató fenntartójával nem azonos, a Kormány által kijelölt szerv szakértői véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
 
 (2) Az ellátási területet településenként, illetőleg valamely településre csak részben kiterjedő ellátási terület esetén a település érintett részének közterületek általi lehatárolásának pontos meghatározásával kell kijelölni.
 
@@ -10,7 +10,7 @@
 
 (6) Az ellátási terület megállapítása során a (2)–(5) bekezdésben foglaltakon túl figyelembe kell venni a 4/A. § (5) bekezdésében foglaltakat.
 
-(7) Az egészségügyi szolgáltatóknak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásaikról és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről – egészségügyi szolgáltatónként – az egészségügyi államigazgatási szerv közhiteles nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a nyilvántartásba.
+(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv közhiteles nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a nyilvántartásba.
 
 (7a) A kapacitásokat és az ellátási területeket érintő változásokat a (7) bekezdés szerinti nyilvántartáson a változás hatálybalépésével egyidejűleg át kell vezetni.
 
@@ -20,7 +20,7 @@ a) a (7) bekezdés szerinti kapacitásokra és ellátási területekre,
 
 b) az egészségügyi szolgáltató fenntartójának bejelentése alapján szünetelő kapacitásokra,
 
-c) 14. § (8) bekezdés szerinti kapacitásokra
+c) a tartalékkapacitásokra
 
 vonatkozóan az e törvény végrehajtásáról szóló kormányrendeletben meghatározott adatokat.
 
@@ -36,7 +36,7 @@ egészségügyi szolgáltatók ellátási területének meghatározásakor.
 
 (10) Uniós fejlesztési pályázat alapján megvalósuló kapacitásokon ellátást nyújtó egészségügyi szolgáltató ellátási területét az egészségügyi államigazgatási szerv a pályázatban foglalt nyilatkozat alapján állapítja meg, ennek során a (3) és (6) bekezdésben foglaltakat nem kell alkalmaznia. Az ezt követő egy éven belül az érintett ellátási területeket az egészségügyi államigazgatási szerv a (3) és (6) bekezdésben foglaltak figyelembevételével hivatalból felülvizsgálja, illetve szükség esetén – az uniós fejlesztési pályázatban vállalt kötelezettségekre figyelemmel – módosítja. Amennyiben az ellátási terület e bekezdés szerinti megállapításakor a pályázatban foglalt nyilatkozat kétoldalúan a párhuzamos ellátások megszüntetésére irányul, a felülvizsgálat során az államigazgatási szerv az ellátási területet a hozzá tartozó kapacitásokkal együtt tekinti át, illetve módosító döntése a kapacitásokra is irányulhat.
 
-(11) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területeket – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – az egészségügyi államigazgatási szerv
+(11) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területeket – amennyiben az érintett egészségügyi szolgáltató fenntartójával nem azonos, a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – az egészségügyi államigazgatási szerv
 
 a) azoknak az eseteknek a kivételével, amikor szakmai szempontból indokolatlan az ellátási területnek az adott szakmához tartozóan valamennyi progresszivitási szinten történő megállapítása, az aktív fekvőbeteg-szakellátások tekintetében a külön jogszabály szerinti progresszivitási szintenként külön-külön,
 

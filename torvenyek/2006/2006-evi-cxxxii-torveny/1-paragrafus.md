@@ -30,11 +30,11 @@ h) sürgősségi ellátás: az Eütv. 3. §-ának i) pontja szerinti sürgős sz
 
 i) szakellátási kapacitás:
 
-ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma, a nappali, kúraszerű és az egynapos ellátások finanszírozott szolgáltatási egységei,
+ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma,
 
 ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
 
-ic) jogszabályban előírt bármely más finanszírozott szolgáltatási egység, ideértve a CT, MRI, PET/CT, illetve egyéb, külön jogszabályban meghatározott eszközök finanszírozott szolgáltatási egységét, a művesekezelés finanszírozott szolgáltatási egységét;
+ic) az ia) és az ib) alá nem tartozó esetben az e törvény végrehajtásáról szóló rendeletben foglaltak szerinti eljárásban meghatározott egység;
 
 j) egészségügyi szakellátási felelősség: az államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásoknak az l), az o), illetve a p) pontban meghatározott módon, valamint a 2. § (2) bekezdése szerinti esetben az ott meghatározott módon történő biztosításáról;
 
@@ -48,7 +48,9 @@ n) területi ellátási kötelezettség: a lekötött kapacitással rendelkező 
 
 o) egészségügyi szakellátási feladat: a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat;
 
-p) egészségügyi szakellátási kötelezettség: a magyar államnak az a kötelezettsége, hogy az l) és az o) pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat;
+p) egészségügyi szakellátási kötelezettség: az államnak az a kötelezettsége, hogy az l) és az o) pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat;
+
+q) tartalékkapacitás: az – a rendelkezésre álló országos kapacitásmennyiség részét képező – járóbeteg-, illetve fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 
