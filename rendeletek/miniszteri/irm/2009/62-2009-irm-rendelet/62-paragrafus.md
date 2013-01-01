@@ -1,6 +1,6 @@
-## 61. §[^17]
+## 61. §[^15]
 
-62. §[^18]
+62. §[^16]
 
-[^17]: A 61. §-t a 62. § (1) bekezdése hatályon kívül helyezte.
-[^18]: A 62. § ugyanezen § (3) bekezdése alapján hatályát vesztette.
+[^15]: A 61. §-t a 62. § (1) bekezdése hatályon kívül helyezte.
+[^16]: A 62. § ugyanezen § (3) bekezdése alapján hatályát vesztette.
