@@ -1,7 +1,5 @@
-3. § (1) A fővárosi és megyei kormányhivatal a kormánymegbízott által közvetlenül vezetett szervezeti egységekből (a továbbiakban: törzshivatal), valamint ágazati szakigazgatási szervekből (a továbbiakban: szakigazgatási szerv) áll.
+3. § (1) A fővárosi és megyei kormányhivatal a kormánymegbízott által közvetlenül vezetett szervezeti egységekből (a továbbiakban: törzshivatal), ágazati szakigazgatási szervekből (a továbbiakban: szakigazgatási szerv) és járási, illetve a fővárosban fővárosi kerületi hivatalokból (a továbbiakban együtt: járási hivatal) áll.
 
-(2) A szakigazgatási szervek törvény vagy kormányrendelet rendelkezése alapján önálló feladat- és hatáskörrel rendelkező szervezeti egységekkel rendelkezhetnek.
+(2) A szakigazgatási szervek törvény vagy kormányrendelet alapján önálló feladat- és hatáskörrel rendelkező szervezeti egységekkel rendelkezhetnek.
 
-(3) A törzshivatal és a szakigazgatási szervek egy költségvetési szervet képeznek.
-
-(4) A Kormány rendeletben állapítja meg a fővárosi és megyei kormányhivatalok gazdálkodására vonatkozó szabályokat.
+(3) A törzshivatal, a szakigazgatási szervek és a járási hivatalok egy költségvetési szervet képeznek.
