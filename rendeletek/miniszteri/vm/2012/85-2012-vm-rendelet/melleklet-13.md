@@ -1,4 +1,4 @@
-13. melléklet a 85/2012. (VIII. 6.) VM rendelethez
+13. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^4]
 
 1. A körzet neve
 
@@ -264,11 +264,11 @@ A fészek szélétől számított 100 méteren belül fakitermelés nem végezhe
 
 |  | Véghasználat módja | hektár |
 
-|  | Tarvágással érintett | 3000 |
+|  | Tarvágással érintett | 3500 |
 
 |  | fokozatos felújítóvágás és szálalóvágás tervezett redukált területe |
 
-|  | Összesen | 3000 |
+|  | Összesen | 3500 |
 
 7.5. A véghasználatok és erdőfelújítások tervezési szempontjai
 
@@ -333,3 +333,5 @@ c) az átmeneti erdő, kultúrerdő és faültetvény természetességi állapot
 11. A 100 %-os állami tulajdonban lévő erdőkre vonatkozó erdőtervezési szempontok
 
 11.1. A Honvédelmi Minisztérium vagyonkezelésében lévő erdőkben a körzeti erdőtervezés során figyelemmel kell lenni a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény, valamint annak végrehajtási rendeletében rögzített, a Magyar Honvédség nemzeti és szövetségi védelmi feladatainak ellátására.
+
+[^4]: A 13. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.

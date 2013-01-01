@@ -1,4 +1,4 @@
-7. melléklet a 85/2012. (VIII. 6.) VM rendelethez
+7. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^2]
 
 1. A körzet neve
 
@@ -190,11 +190,11 @@ Mageredetű kocsánytalan tölgyesek:
 
 |  | Véghasználat módja | hektár |
 
-|  | tarvágással érintett | 2900 |
+|  | tarvágással érintett | 3300 |
 
 |  | fokozatos felújítóvágás és szálalóvágás tervezett redukált területe |
 
-|  | Összesen | 2900 |
+|  | Összesen | 3300 |
 
 7.5. A véghasználatok és erdőfelújítások tervezési szempontjai
 
@@ -237,3 +237,5 @@ b) a vágásérettségi korát elérő kocsányos tölgyes, gyertyános, mézgá
 11. A vegetációs időszakra vonatkozó erdőgazdálkodási szabályok védett természeti területen
 
 11.1. A vegetációs időszak a körzetben április 1-től augusztus 31-ig tart.
+
+[^2]: A 7. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.

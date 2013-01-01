@@ -1,4 +1,4 @@
-8. melléklet a 85/2012. (VIII. 6.) VM rendelethez
+8. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^3]
 
 1. A körzet neve
 
@@ -150,11 +150,11 @@ c) amelyben közösségi jelentőségű, jelölő erdei élőhelytípusba tartoz
 
 |  | Véghasználat módja | hektár |
 
-|  | tarvágással érintett | 7000 |
+|  | tarvágással érintett | 8200 |
 
-|  | fokozatos felújítóvágás és szálalóvágás tervezett redukált területe | 100 |
+|  | fokozatos felújítóvágás és szálalóvágás tervezett redukált területe |
 
-|  | Összesen | 7100 |
+|  | Összesen | 8200 |
 
 7.5. A véghasználatok és erdőfelújítások tervezési szempontjai
 
@@ -229,3 +229,5 @@ c) a természetszerű vagy származék erdő természetességi állapotú erdőb
 d) az átmeneti, kultúrerdő vagy faültetvény természetességi állapotú erdőben.
 
 12.2. 100%-os állami tulajdonban lévő erdőben készletgondozó használat nem tervezhető.
+
+[^3]: A 8. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-85-20-2
 | --- | --- | --- |
 | 2012-08-14 | 2012-85-20-2Y.1 | 85/2012. (VIII. 6.) VM rendelet |
 | 2012-08-15 | 2012-85-20-2Y.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2012-85-20-2Y.3 | 151/2012. (XII. 29.) VM rendelet |
