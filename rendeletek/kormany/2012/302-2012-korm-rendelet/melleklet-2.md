@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt beruházásként citromsav előállító üzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 2. | Kiemelt beruházásként citromsav előállító üzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági engedélyezési eljárás | Szolnoki Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárás | Közép-Tiszavidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -28,7 +28,7 @@
 
 | 13. | talajvédelmi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 14. | kulturális örökségvédelmi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal | Budapest Főváros Kormányhivatalának Műemlékvédelmi és Régészeti Örökségvédelmi Szakigazgatási Szerve |
+| 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Szolnoki Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 15. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
@@ -40,7 +40,7 @@
 
 | 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Jász-Nagykun- Szolnok Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 302/2012. (X. 26.) Korm. rendelethez
+2. melléklet a 302/2012. (X. 26.) Korm. rendelethez[^2]
 
 Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -48,7 +48,7 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Jász-Nagykun-Szolnok Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 2. | építésügy | Szolnoki Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelem, természetvédelem és vízügy | Közép-Tiszavidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezet-védelmi, Természet-védelmi és Vízügyi Főfelügyelőség |
 
@@ -82,7 +82,7 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | b) erdővédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 12. | kulturális örökségvédelem | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Budapest Főváros Kormányhivatalának Műemlékvédelmi és Régészeti Örökségvédelmi Szakigazgatási Szerve |
+| 12. | régészet és műemlékvédelem | Szolnoki Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 13. | egészségügy | Jász-Nagykun-Szolnok Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | Országos Tisztifőorvosi Hivatal |
 
@@ -92,4 +92,6 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 16. | élelmiszer-egészségügy | Jász-Nagykun-Szolnok Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 17. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területfejlesztésért felelős miniszter |
+| 17. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | területrendezésért felelős miniszter |
+
+[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 63. §-a szerint módosított szöveg.
