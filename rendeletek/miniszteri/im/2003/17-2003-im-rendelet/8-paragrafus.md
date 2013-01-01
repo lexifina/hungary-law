@@ -2,10 +2,10 @@
 
 ## Fiatalkorúval kapcsolatos környezettanulmány és pártfogó felügyelői vélemény elkészítésének külön szabálya
 
-8. § (1)[^10] Ha a nyomozó hatóság, az ügyész vagy a bíróság környezettanulmány beszerzését rendeli el, azt a terhelt lakóhelye (tartózkodási helye) szerint illetékes fővárosi, megyei igazságügyi szolgálat pártfogó felügyelője készíti el.
+8. § (1)[^11] Ha a nyomozó hatóság, az ügyész vagy a bíróság környezettanulmány beszerzését rendeli el, azt a terhelt lakóhelye (tartózkodási helye) szerint illetékes fővárosi, megyei igazságügyi szolgálat pártfogó felügyelője készíti el.
 
 (2) A környezettanulmányban a pártfogó felügyelő a terhelt életviszonyaira és életvitelére meghatározó módon jellemző tényeket és körülményeket – így különösen az 5. § (1) bekezdésében felsoroltakat – írja le.
 
 (3) Ha a terhelt lakóhelyének (tartózkodási helyének) megtekintése akadályba ütközik, illetve a környezettanulmány elkészítéséhez meghallgatandó személy az együttműködést megtagadja, a környezettanulmányban erre is ki kell térni. A környezettanulmány elkészítésének esetleges egyéb módszereit a környezettanulmányban le kell írni.
 
-[^10]: A 8. § (1) bekezdése a 30/2010. (XII. 31.) KIM rendelet 13. §-ával megállapított szöveg.
+[^11]: A 8. § (1) bekezdése a 30/2010. (XII. 31.) KIM rendelet 13. §-ával megállapított szöveg.

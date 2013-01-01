@@ -1,6 +1,6 @@
 ## A fiatalkorúak pártfogó felügyelete végrehajtásának külön szabályai
 
-## 33. §[^53] A fővárosi, megyei igazságügyi szolgálat fiatalkorúakkal foglalkozó pártfogó felügyelője látja el a pártfogó felügyeletét a Btk. 119. §-a értelmében pártfogó felügyelet alatt álló
+## 33. §[^54] A fővárosi, megyei igazságügyi szolgálat fiatalkorúakkal foglalkozó pártfogó felügyelője látja el a pártfogó felügyeletét a Btk. 119. §-a értelmében pártfogó felügyelet alatt álló
 
 a) fiatalkorúnak,
 
@@ -10,4 +10,4 @@ c) olyan személynek, aki fiatalkorúként elkövetett bűncselekmény miatt pá
 
 d) azon felnőtt korúnak, aki a b) vagy a c) pontban foglaltak miatt is – más ügyben – pártfogó felügyelet alatt áll.
 
-[^53]: A 33. § nyitó szövegrésze a 30/2010. (XII. 31.) KIM rendelet 19. § a) pontja szerint módosított szöveg.
+[^54]: A 33. § nyitó szövegrésze a 30/2010. (XII. 31.) KIM rendelet 19. § a) pontja szerint módosított szöveg.
