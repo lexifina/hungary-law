@@ -4,7 +4,7 @@
 
 23. § (1) A termékdíjat azon termékek után lehet visszaigényelni, amelyekre vonatkozóan a termékdíj megfizetése ténylegesen és igazolható módon megtörtént.
 
-(2) A vámhatóság jár el a hulladékká vált egyéb kőolajtermék anyagában történő hasznosítása után történő termékdíj visszaigénylése során. Az anyagában történő hasznosítás esetében a hasznosítás tényére, körülményeire vonatkozó szakkérdések eldöntése érdekében a vámhatóság megkeresi a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget.
+(2)[^17] Az állami adóhatóság jár el a hulladékká vált egyéb kőolajtermék anyagában történő hasznosítása után történő termékdíj visszaigénylése során. Az anyagában történő hasznosítás esetében a hasznosítás tényére, körülményeire vonatkozó szakkérdések eldöntése érdekében állami adóhatóság megkeresi a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget.
 
 (3) A termékdíj visszaigénylésére – a használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos visszaigénylés kivételével – a visszaigénylésre való jogosultság keletkezésének időpontja szerinti tárgyidőszakra vonatkozó bevallásban kerülhet sor.
 
@@ -12,7 +12,7 @@
 
 (5) A Ktdt. 25. § (1) bekezdés a), b) és f) pontjai szerinti jogcímeken történő visszaigénylések esetén a visszaigénylő nyilvántartásának tartalmaznia kell
 
-a) a termékdíj visszaigénylőjének 2. melléklet I. pontja szerinti alapadatait,
+a)[^18] a termékdíj visszaigénylőjének nevét, adószámát,
 
 b) a termékdíjköteles termék megnevezését CsK, KT kódját,
 
@@ -20,13 +20,13 @@ c) amennyiben a visszaigénylő nem azonos a kötelezettel, a beszerzett termék
 
 d) a termékdíj megfizetését (bevallását) igazoló dokumentumok adatait,
 
-e) a termékdíj befizetőjének (bevallójának) nevét, címét, VPID számát,
+e)[^19] a termékdíj befizetőjének (bevallójának) nevét, címét, adószámát,
 
 f) a külföldre kiszállított termékdíjköteles termék mennyiségét, értékesítés esetén az ellenértékről szóló számlát, a számla pénzügyi teljesítését igazoló bizonylatot, a vámokmányt (amennyiben a kiszállításhoz szükséges), egyéb esetekben az áruk szállítását igazoló fuvarokmányt, fuvarokmány hiányában a vevő átvételre vonatkozó igazolását.
 
 (6) A Ktdt. 25. § (1) bekezdés c) és d) pontjai szerinti jogcímen történő visszaigénylések esetén a visszaigénylő nyilvántartásának tartalmaznia kell
 
-a) a termékdíj visszaigénylőjének 2. melléklet I. pontja szerinti alapadatait,
+a)[^20] a termékdíj visszaigénylőjének nevét, adószámát,
 
 b) a termékdíjköteles termék megnevezését CsK, KT kódját,
 
@@ -34,13 +34,13 @@ c) a beszerzett termékdíjköteles termék mennyiségét,
 
 d) a termékdíj megfizetését (bevallását) igazoló dokumentumok adatait,
 
-e) a termékdíj befizetőjének (bevallójának) nevét, címét, VPID számát,
+e)[^21] a termékdíj befizetőjének (bevallójának) nevét, címét, adószámát,
 
 f) a visszaigénylés jogalapját alátámasztó iratot.
 
 (7) A Ktdt. 25. § (1) bekezdés e) pontja szerinti jogcímen történő visszaigénylés esetén a visszaigénylő nyilvántartásának tartalmaznia kell
 
-a) a termékdíj visszaigénylőjének 2. melléklet I. pontja szerinti alapadatait,
+a)[^22] a termékdíj visszaigénylőjének nevét, adószámát,
 
 b) a közvetlen anyagként (alapanyagként) felhasznált termékdíjköteles termék
 
@@ -50,7 +50,7 @@ bb) mennyiségét,
 
 c) a felhasznált termék termékdíjának megfizetését (bevallását) igazoló dokumentumok adatait,
 
-d) a felhasznált termék utáni termékdíj befizetőjének (bevallójának) nevét, címét, VPID számát,
+d)[^23] a felhasznált termék utáni termékdíj befizetőjének (bevallójának) nevét, címét, adószámát,
 
 e) az előállított termékdíjköteles termék
 
@@ -66,7 +66,7 @@ h) anyagmérleget, amely pontosan bemutatja a gyártáshoz közvetlen anyagként
 
 (8) A Ktdt. 25. § (1) bekezdés g) pontja szerinti jogcímen történő visszaigénylés esetén a visszaigénylő nyilvántartásának tartalmaznia kell
 
-a) a termékdíj visszaigénylőjének 2. melléklet I. pontja szerinti alapadatait,
+a)[^24] a termékdíj visszaigénylőjének nevét, adószámát,
 
 b) a beszerzett termékdíjköteles csomagolóeszköz vagy egyéb csomagolószer
 
@@ -76,10 +76,20 @@ bb) mennyiségét,
 
 bc) a kötelezett által kiállított számla számát, keltét a bevallott (befizetett) termékdíj tételét és összegét,
 
-bd) a beszerzett termék utáni termékdíj befizetőjének (bevallójának) nevét, címét, VPID számát,
+bd)[^25] a beszerzett termék utáni termékdíj befizetőjének (bevallójának) nevét, címét, adószámát,
 
 c) a nem csomagolási célú felhasználás megnevezését.
 
 (9) Termékdíjköteles termék alapanyagként felhasználása esetén a visszaigénylésre jogosult nyilvántartást vezet az alapanyagként felhasználás időpontjáról és az alapanyagként felhasznált termékdíjköteles termék mennyiségéről. A visszaigénylés a gyártási selejt és hulladék mennyiségére is figyelembe vehető, de ebben az esetben a gyártási selejt és hulladék a hulladékhasznosítási teljesítménybe nem vehető figyelembe.
 
 (10) Használt vagy hulladékká vált termékdíjköteles termék után – az újrahasználható csomagolószer-nyilvántartásban található csomagolószer és az egyéb kőolajtermék hulladékának kivételével – nem lehet a termékdíjat külföldre történő értékesítés esetén visszaigényelni.
+
+[^17]: A 23. § (2) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 23. § (5) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (3) bekezdése szerint módosított szöveg.
+[^19]: A 23. § (5) bekezdés e) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (4) bekezdése szerint módosított szöveg.
+[^20]: A 23. § (6) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (3) bekezdése szerint módosított szöveg.
+[^21]: A 23. § (6) bekezdés e) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (4) bekezdése szerint módosított szöveg.
+[^22]: A 23. § (7) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (3) bekezdése szerint módosított szöveg.
+[^23]: A 23. § (7) bekezdés d) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (4) bekezdése szerint módosított szöveg.
+[^24]: A 23. § (8) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (3) bekezdése szerint módosított szöveg.
+[^25]: A 23. § (8) bekezdés b) pont bd) alpontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (4) bekezdése szerint módosított szöveg.

@@ -1,3 +1,5 @@
-## 31. § A Ktdt. 29. § (23) bekezdésében meghatározott támogatási összeg kétszeresét a 10032000-01037454–00000000 NAV környezetvédelmi termékdíj adóbevételi számlára kell beszedni.
+## 31. §[^33] A Ktdt. 29/A. §-a szerint megállapított jogosulatlanul igénybe vett állami támogatás összeg kétszeresét a NAV által megjelölt számlára kell befizetni.
 
 ## 17. Záró rendelkezések
+
+[^33]: A 31. § a 366/2012. (XII. 17.) Korm. rendelet 39. § (3) bekezdésével megállapított szöveg.

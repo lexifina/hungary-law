@@ -1,4 +1,4 @@
-## „A ……… VPID szám, ……………… név, ……………… cím eladótól 20… év ……… hónap … napjától, 20… év ……… hónap … napjáig (teljesítés napja) megvásárolt, alábbi csomagolószerekre
+## „A ……… adószám, ……………… név, ……………… cím eladótól 20… év ……… hónap … napjától, 20… év ……… hónap … napjáig (teljesítés napja) megvásárolt, alábbi csomagolószerekre
 
 ## …… CsK kód, …………………………… megnevezés
 
@@ -12,4 +12,6 @@
 
 ## cégszerű aláírás”
 
-4. melléklet a 343/2011. (XII. 29.) Korm. rendelethez
+4. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^40]
+
+[^40]: A 4. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.

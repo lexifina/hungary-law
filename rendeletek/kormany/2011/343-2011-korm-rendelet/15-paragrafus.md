@@ -42,4 +42,6 @@ f) az új technológia alkalmazására, a hasznosítási technológia megvalós�
 
 g) arra, hogy a Ktdt. 20. § (2) bekezdése alapján folyósított támogatást ténylegesen a lakossági környezettudatos nevelésre fordították-e.
 
-(4) A teljesítési igazolás és mellékletei formai és tartalmi követelményeinek meghatározásakor a Hgt.-ben és végrehajtási rendeleteiben meghatározott előírásokat is figyelembe kell venni.
+(4)[^12] A teljesítési igazolás és mellékletei formai és tartalmi követelményeinek meghatározásakor a Ht.-ben és végrehajtási rendeleteiben meghatározott előírásokat is figyelembe kell venni.
+
+[^12]: A 15. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.

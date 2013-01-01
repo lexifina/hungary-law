@@ -12,6 +12,6 @@
 
 ## T = a befizetett összes termékdíj, Ft
 
-7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^4]
+7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^42]
 
-[^4]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

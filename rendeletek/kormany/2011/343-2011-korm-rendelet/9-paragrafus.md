@@ -2,7 +2,7 @@
 
 (2) A termékdíj-kötelezettség szerződés alapján való átvállalása esetén a szerződés
 
-a) a szerződő feleknek e rendelet 2. melléklete szerinti adatait,
+a)[^6] a szerződő feleknek e rendelet 2. melléklet IV. pontja szerinti adatait,
 
 b) a termékdíjköteles termék megnevezését, vámtarifaszámát, KT, CsK kódját,
 
@@ -12,7 +12,7 @@ d) az átvállalás jogcímét
 
 tartalmazza.
 
-(3) Az átvállalási szerződés érvényességéhez, ideértve annak módosítását is, a vámhatósághoz történő bejelentése szükséges. A bejelentést az átvállaló a szerződés kezdő, vagy módosítási időpontjától, megszűnés esetén annak megszűnésétől számított 15 napon belül teszi meg.
+(3)[^7] Az átvállalási szerződés érvényességéhez, ideértve annak módosítását is, a szerződésnek az állami adóhatósághoz történő bejelentése szükséges. A bejelentést az átvállaló a szerződés kezdő, vagy módosítási időpontjától, megszűnés esetén annak megszűnésétől számított 15 napon belül teszi meg.
 
 (4) A termékdíj-kötelezettség a szerződés érvényességének időszaka alatt, a Ktdt. 5. § (1) bekezdésében meghatározott időpontban száll át az átvállalóra, amennyiben a (3) bekezdés szerinti bejelentés megvalósult, és a (7) bekezdés szerinti záradékszöveg a számlán feltüntetésre került.
 
@@ -39,3 +39,6 @@ igazolja.
 (9) A csomagolószerekre vonatkozó szerződéses átvállalás során a csomagolóeszközt és az egyéb csomagolószert külön-külön termékdíjköteles termékként kell figyelembe venni.
 
 (10) Bérgyártás során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított 50%-os mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez.
+
+[^6]: A 9. § (2) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 9. § (3) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg.

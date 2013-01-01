@@ -22,6 +22,6 @@ amennyiben az adatokban és a megbízás, meghatalmazás körülményeiben vált
 
 (9) A rendelet hatálybelépését megelőzően egyéni mentességgel rendelkezők esetében az egyéni mentesség feltételeinek teljesítése során igazoltan felmerült hulladékkezelési költségeket is megfizetett hasznosítási díjnak kell tekinteni a Ktdt. 40. § (8) bekezdés szerinti kötelezettség teljesítése során.
 
-(10)[^1] A vámhatóság jár el a 2012. január 1-jét megelőzően, a használt vagy hulladékká vált egyéb kőolajtermék energetikai módon történő hasznosítása jogcímén keletkező termékdíj visszaigénylése során.
+(10)[^34] A vámhatóság jár el a 2012. január 1-jét megelőzően, a használt vagy hulladékká vált egyéb kőolajtermék energetikai módon történő hasznosítása jogcímén keletkező termékdíj visszaigénylése során.
 
-[^1]: A 34. § (10) bekezdését a 251/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 34. § (10) bekezdését a 251/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.

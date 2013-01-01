@@ -6,4 +6,6 @@
 
 (3) A Ktdt. 3. § (6) bekezdése szerinti kötelezett első vevője írásban tesz nyilatkozatot, melyet teljesíthet alkalmanként az egyes ügyletek során (eseti nyilatkozat) vagy időszakra szólóan. A nyilatkozat szövegét a 3. melléklet tartalmazza.
 
-(4) A Ktdt. 3. § (6) bekezdés szerinti esetben a kötelezett negyedéves bevallásában a Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság) részére adatot szolgáltat a nyilatkozóról, mely tartalmazza annak cégszerű adatait, és összesítetten azt a mennyiséget, amely után ilyen jogcímen nem fizetett termékdíjat. A kötelezett negyedéves gyakorisággal részletes nyilvántartást vezet az egyes nyilatkozók felé történő forgalomba hozatalról.
+(4)[^1] A Ktdt. 3. § (6) bekezdés szerinti esetben a kötelezett negyedéves bevallásában az állami adóhatóság részére adatot szolgáltat a nyilatkozóról, mely tartalmazza annak cégszerű adatait, és összesítetten azt a mennyiséget, amely után ilyen jogcímen nem fizetett termékdíjat. A kötelezett negyedéves gyakorisággal részletes nyilvántartást vezet az egyes nyilatkozók felé történő forgalomba hozatalról.
+
+[^1]: A 2. § (4) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg.

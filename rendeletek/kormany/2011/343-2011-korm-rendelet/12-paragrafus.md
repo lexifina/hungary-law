@@ -2,7 +2,7 @@
 
 12. § (1) A Ktdt. 19. § (3) bekezdésében meghatározott veszélyes csomagolási hulladék a növényvédő-szerrel szennyezett csomagolóeszköz-hulladékok kezeléséről szóló miniszteri rendeletben meghatározott hulladék.
 
-(2) Az (1) bekezdés szerinti veszélyes csomagolási hulladékká váló csomagolások első belföldi forgalomba hozói, saját célú felhasználói (a továbbiakban: veszélyes csomagolási hulladékok hulladékgazdálkodási kötelezettjei) a veszélyes csomagolási hulladékok után – a Hgt.-ben és annak végrehajtási rendeleteiben meghatározott – hulladékkezelési kötelezettségüket – a (3) bekezdésben foglalt kivétellel – a hulladékkezelés szervezését ellátó non-profit szervezeten (a továbbiakban: közvetítő szervezet) keresztül teljesítik. A hulladékkezelés szervezését ellátó non-profit szervezettel – azonos feltételekkel – hirdetményben nyilvánosságra hozott szolgáltatási díj megfizetésével lehet szerződést kötni.
+(2)[^10] Az (1) bekezdés szerinti veszélyes csomagolási hulladékká váló csomagolások első belföldi forgalomba hozói, saját célú felhasználói (a továbbiakban: veszélyes csomagolási hulladékok hulladékgazdálkodási kötelezettjei) a veszélyes csomagolási hulladékok után – a Ht.-ben és annak végrehajtási rendeleteiben meghatározott – hulladékkezelési kötelezettségüket – a (3) bekezdésben foglalt kivétellel – a hulladékkezelés szervezését ellátó non-profit szervezeten (a továbbiakban: közvetítő szervezet) keresztül teljesítik. A hulladékkezelés szervezését ellátó non-profit szervezettel – azonos feltételekkel – hirdetményben nyilvánosságra hozott szolgáltatási díj megfizetésével lehet szerződést kötni.
 
 (3) A veszélyes csomagolási hulladékká váló csomagolások saját célú felhasználója jogosult – erre engedéllyel rendelkező hulladékkezelőkkel történő közvetlen szerződésen keresztül – saját maga is teljesíteni a hulladékkezelési kötelezettséget.
 
@@ -11,3 +11,5 @@
 (5) A közvetítő szervezet a tárgyév április 20-ig bejelentést tesz az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) felé a szerződött veszélyes csomagolási hulladékok hulladékgazdálkodási kötelezettjeiről.
 
 (6) A bejelentés tartalmazza azt, hogy a közvetítő szervezet tevékenysége milyen termék- és anyagáramra vonatkozik, azok tárgyévre elszámolni tervezett mennyiségét – a hulladékkezelés alapját és a kezelt mennyiséget –, továbbá a hulladékkezelés során együttműködő szerződött partnerek, és a gyűjtési pontként felhasznált telephelyek, egyéb, jogszabály alapján biztosított helyszínek felsorolását.
+
+[^10]: A 12. § (2) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.

@@ -1,52 +1,16 @@
 ## A bevallás teljesítéséhez szükséges adattartalmi követelmények
 
-## I. Alapadatok (Főlap)
+## I. Alapadatok
 
-## A termékdíjfizetésre kötelezett adatai:
+## A termékdíjfizetésre kötelezett adatai
 
-## a) név,
-
-## b) adószám, adóazonosító,
-
-## c) VPID szám,
-
-## d) belföldi, külföldi bankszámlaszám,
-
-## e) kötelezett székhelye,
-
-## f) levelezési cím,
-
-## g) ügyintéző neve,
-
-## h) ügyintéző telefonszáma,
-
-## i) képviselőjének neve,
-
-## j) képviselőjének VPID száma,
-
-## k) képviselőjének adószáma,
-
-## l) adatszolgáltatás típusa,
-
-## m) kötelezetti státusz bejelentése
-
-## n) oldalak száma,
-
-## o) tárgyidőszak,
-
-## p) keltezés, cégszerű aláírás.
-
-## II. Összesítő lap nettó kötelezettségekről
+## II. Összesített adatok nettó kötelezettségekről
 
 ## 1. Tárgyidőszak
 
 ## 2. Termékkörönként tárgyidőszakban összesen fizetendő termékdíj összege
 
-## 3. Önellenőrzés és az önellenőrzési pótlék összege
-
-## 4. Keltezés, cégszerű aláírás
-
-## III. A termékdíj-fizetési kötelezettség nem egyéni hulladékkezelés esetén (BEV)
+## III. A termékdíj-fizetési kötelezettség nem egyéni hulladékkezelés esetén
 
 ## 1. Termékdíj fajtája KT, CSK kód szerinti bontásban
 
@@ -62,9 +26,7 @@
 
 ## d) Környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen
 
-## 4. Keltezés, cégszerű aláírás
-
-## IV. A termékdíj-fizetési kötelezettség egyéni hulladékkezelés esetén (EGY)
+## IV. A termékdíj-fizetési kötelezettség egyéni hulladékkezelés esetén
 
 ## 1. Termékdíj fajtája KT, CSK kód szerinti bontásban
 
@@ -80,9 +42,7 @@
 
 ## d) környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen.
 
-## 4. Keltezés, cégszerű aláírás
-
-## V. Visszaigényelhető termékdíj (VIS)
+## V. Visszaigényelhető termékdíj
 
 ## 1. Visszaigényelhető termékdíj összegének megállapítása
 
@@ -92,7 +52,7 @@
 
 ## c) Termékdíjköteles termék után megfizetett visszaigényelhető összeg soronként és összesen.
 
-## 2. hulladékká vált kenőolaj visszaigénylése
+## 2. Hulladékká vált kenőolaj visszaigénylése
 
 ## a) átadott mennyiség,
 
@@ -104,11 +64,7 @@
 
 ## e) feldolgozás módja.
 
-## 3. Keltezés, cégszerű aláírás
-
-## VI. Bevallás az egyéni hulladékkezelés keretében végzett hulladékkezelési tevékenységről (HAS)
-
-## Hulladékkezelésre vonatkozó adatok
+## VI. Az egyéni hulladékkezelés keretében végzett hulladékkezelési tevékenységre vonatkozó adatok
 
 ## a) a hulladékkezelési tevékenységet végző KÜJ száma,
 
@@ -120,11 +76,9 @@
 
 ## e) hulladékkezelési művelet megnevezése,
 
-## f) egyéni hulladékkezelés keretében kezelt mennyiség,
+## f) egyéni hulladékkezelés keretében kezelt mennyiség.
 
-## g) keltezés, cégszerű aláírás.
-
-## VII. Bevallás a termékdíj-fizetési kötelezettség átvállalásáról (ÁTV)
+## VII. A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
 
 ## 1. Átvállalással érintett termék adatai
 
@@ -150,11 +104,9 @@
 
 ## h) csomagolóeszközt előállító első belföldi vevő által átvett mennyiség.
 
-## 3. Keltezés, cégszerű aláírás
+## VIII. A nyilatkozattal átadott termékdíj-kötelezettség átadása
 
-## VIII. Bevallás a nyilatkozattal átadott termékdíj-kötelezettség átadásról (ÁNY)
-
-## 1. Kötelezett neve, VPID száma
+## 1. Kötelezett neve, adószáma
 
 ## 2. Nyilatkozattal átadott termék adatai
 
@@ -162,69 +114,15 @@
 
 ## b) termékdíjköteles termék megnevezése,
 
-## c) vevő adószáma, VPID száma.
+## c) vevő adószáma.
 
 ## 2. Az átadott mennyiség jogcímek szerint:
 
-## a) a Ktdt. 6. § (3) bekezdés a) pontja alapján átadott mennyiség,
+## a) a Ktdt. 3. § (6) bekezdés a) pontja alapján átadott mennyiség,
 
-## b) a Ktdt. 6. § (3) bekezdés b) pontja alapján átadott mennyiség,
+## b) a Ktdt. 3. § (6) bekezdés b) pontja alapján átadott mennyiség,
 
-## c) a Ktdt. 6. § (3) bekezdés c) pontja alapján átadott mennyiség.
-
-## 3. Keltezés, cégszerű aláírás
-
-## IX. Önellenőrzésről (ÖNP)
-
-## 1. Önellenőrzési pótlék kiszámítása
-
-## a) helyesbített díj,
-
-## aa) termékpályánkénti bontásban a bevallott, befizetett termékdíj (Ft), és a helyes számított termékdíj (Ft),
-
-## ab) összesen a bevallott, befizetett termékdíj (Ft), és összesen a helyes számított termékdíj (Ft),
-
-## ac) a befizetendő, illetve a visszautalandó termékdíj összege (ezer Ft),
-
-## b) az önellenőrzési pótlékok kiszámítása és összesítésük,
-
-## ba) nyilvántartásba vétel ideje,
-
-## bb) önellenőrzési, ismételt önellenőrzési pótlék összege.
-
-## 2. Keltezés, cégszerű aláírás
-
-## X. Átvezetési/kiutalási kérelem (ÁKK)
-
-## 1. Adatok
-
-## a) összeg forintban
-
-## b) módja
-
-## c) helye
-
-## d) átvezetési kód,
-
-## e) számlaszám,
-
-## f) átutalás egyéb belföldi számlaszámra,
-
-## g) számlaszám,
-
-## h) bank neve,
-
-## i) kötelezett számlaszáma,
-
-## j) bank címe,
-
-## k) Swift_bic kód,
-
-## l) devizanem,
-
-## m) költségviselés,
-
-## n) keltezés, cégszerű aláírás.
+## c) a Ktdt. 3. § (6) bekezdés c) pontja alapján átadott mennyiség.
 
 5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez
 

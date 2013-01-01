@@ -4,4 +4,6 @@
 
 (2) A termékdíjköteles termékből képződött hulladékokkal kapcsolatos ügyben a telephely szerint illetékes vámhatóság is jogosult az illetékességi területén helyszíni szemle tartására, valamint telephely ellenőrzésének lefolytatására.
 
-(3) Az OHÜ a szerződést, illetve a kifizetés alapjául szolgáló bizonylatok adatait a NAV Központi Hivatala részére küldi meg. Az így megküldött adatok teljeskörűségéért az OHÜ tartozik felelősséggel. A kifizetés alapjául szolgáló bizonylatok adatai alatt az OHÜ által lefolytatott, kifizetést megelőző ellenőrzésekről felvett dokumentációk is értendők. Amennyiben a megküldött adatok nem elegendőek a vámhatóság feladatainak elvégzéséhez, úgy a vámhatóság megkeresésére a kért adatokat az OHÜ – amennyiben rendelkezésére áll – 15 napon belül megküldi.
+(3)[^32] Az OHÜ a szerződést, illetve a kifizetés alapjául szolgáló bizonylatok adatait a NAV Központi Hivatala részére küldi meg. Az így megküldött adatok teljeskörűségéért az OHÜ tartozik felelősséggel. A kifizetés alapjául szolgáló bizonylatok adatai alatt az OHÜ által lefolytatott, kifizetést megelőző ellenőrzésekről felvett dokumentációk is értendők. Amennyiben a megküldött adatok nem elegendőek az állami adó- és vámhatóság feladatainak elvégzéséhez, úgy az állami adó- és vámhatóság megkeresésére a kért adatokat az OHÜ – amennyiben rendelkezésére áll – 15 napon belül megküldi.
+
+[^32]: A 30. § (3) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg.

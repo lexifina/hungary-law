@@ -4,7 +4,7 @@
 
 (3) Az (1) bekezdésben meghatározott hasznosításra történő átvétel igazolásának legalább az alábbi adatokat kell tartalmaznia:
 
-a) az átadó egyéni hulladékkezelő nevét, címét, adószámát, VPID számát,
+a)[^29] az átadó egyéni hulladékkezelő nevét, címét, adószámát,
 
 b) az átvevő hasznosító nevét, címét, – amennyiben rendelkezésre áll – adószámát, KÜJ számát,
 
@@ -16,10 +16,14 @@ d) keltezést és az átadó, átvevő aláírását.
 
 (5) A (4) bekezdésben meghatározott hasznosításról szóló igazolásnak legalább az alábbi adatokat kell tartalmaznia:
 
-a) az egyéni hulladékkezelő nevét, címét, adószámát, VPID számát,
+a)[^30] az egyéni hulladékkezelő nevét, címét, adószámát,
 
 b) a hasznosító nevét, címét, – amennyiben rendelkezésre áll – adószámát, KÜJ számát,
 
-c) a termékdíjköteles termékből képződött hulladék termék- és anyagáram megnevezését, EWC, HKT kódját, Hgt. szerinti hasznosítási kódját és mennyiségét,
+c)[^31] a termékdíjköteles termékből képződött hulladék termék- és anyagáram megnevezését, EWC, HKT kódját, Ht. szerinti hasznosítási kódját és mennyiségét,
 
 d) keltezést és a hasznosító aláírását.
+
+[^29]: A 29. § (3) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 29. § (5) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 29. § (5) bekezdés c) pontja a 441/2012. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
