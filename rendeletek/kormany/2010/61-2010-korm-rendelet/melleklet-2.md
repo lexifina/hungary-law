@@ -6,7 +6,7 @@
 
 | 2. | Kiemelt nagyberuházásként a kabai „EM Bioetanol Kft. Bioetanol-Biogáz- Kiserőmű” projekthez kapcsolódó építmények, létesítmények. | Kaba közigazgatási területén lévő külterületi 0513/3 ingatlan- nyilvántartási helyrajzi számú terület | a Magyar Kereskedelmi Engedélyezési Hivatalról szóló kormányrendelet szerint a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai | Hajdú-Bihar Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Hajdú-Bihar Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 4. |  |  | környezetvédelmi hatósági eljárások | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
 
@@ -16,23 +16,23 @@
 
 | 7. |  |  | vízjogi hatósági eljárások | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
 
-| 8. |  |  | földvédelmi hatósági eljárások | Püspökladányi Körzeti Földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
+| 8. |  |  | földvédelmi hatósági eljárások | illetékes járási földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
-| 9. |  |  | ingatlan-nyilvántartási hatósági eljárások | Püspökladányi Körzeti Földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
+| 9. |  |  | ingatlan-nyilvántartási hatósági eljárások | illetékes járási földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
-| 10. |  |  | telekalakítási hatósági eljárások | Püspökladányi Körzeti Földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
+| 10. |  |  | telekalakítási hatósági eljárások | illetékes járási földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
-| 11. |  |  | földmérési hatósági eljárások | Püspökladányi Körzeti Földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
+| 11. |  |  | földmérési hatósági eljárások | illetékes járási földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
 | 12. |  |  | erdővédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 13. |  |  | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 13. |  |  | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 14. |  |  | bányahatósági eljárások | Magyar Bányászati és Földtani Hivatal Miskolci Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 15. |  |  | talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16. |  |  | kulturális örökségvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 17. |  |  | vasúti hatósági eljárások | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -60,7 +60,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Hajdú-Bihar Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 2. | építésügy | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelem, természetvédelem és vízügy | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -86,20 +86,20 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 14. | katasztrófavédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | termőföldvédelem | Püspökladányi Körzeti Földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
+| 15. | termőföldvédelem | illetékes járási földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
 | 16. | talajvédelem | Hajdú-Bihar Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 17. | erdővédelem | Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 18. | kulturális örökségvédelem | Hajdú-Bihar Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 18. | régészet és műemlékvédelem | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 19. | egészségügy | Jász-Nagykun-Szolnok Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 20. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 20. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 21. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 22. | élelmiszer-biztonság | Hajdú-Bihar Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a, a 23/2012. (II. 29.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a, a 23/2012. (II. 29.) Korm. rendelet 53. §-a, a 296/2012. (X. 17.) Korm. rendelet 44. §-a, a 394/2012. (XII. 20.) Korm. rendelet 39. §-a szerint módosított szöveg.

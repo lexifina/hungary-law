@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-61-20-2
 | 2012-01-01 | 2010-61-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-03-15 | 2010-61-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-09-21 | 2010-61-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2013-01-01 | 2010-61-20-22.11 | 351/2010. (XII. 30.) Korm. rendelet |
