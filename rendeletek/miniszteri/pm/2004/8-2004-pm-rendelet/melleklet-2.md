@@ -4,146 +4,114 @@
 
 ## KÉRELEM
 
-## a kísérleti előállítást végző üzem tevékenysége folytatásának engedélyezésére
+## a tiszta növényiolaj-gyártó adóraktári tevékenysége folytatásának engedélyezésére
 
-## I. Személyi adatok
+## 1. Személyi adatok
 
-## 1. Egyéni vállalkozó vagy mezőgazdasági őstermelő esetében
+## 1.1. Egyéni vállalkozó vagy mezőgazdasági őstermelő esetében
 
-## 1.1. Neve:
+## 1.1.1. Neve:
 
-## 1.2. Születési helye, ideje:
+## 1.1.2. Születési helye, ideje:
 
-## 1.3. Anyja neve:
+## 1.1.3. Anyja neve:
 
-## 1.4. Állampolgársága:
+## 1.1.4. Állampolgársága:
 
-## 1.5. Állandó lakóhelye (tartózkodási helye):
+## 1.1.5. Állandó lakóhelye (tartózkodási helye):
 
-## 1.6. Székhelye (ennek hiányában levelezési címe):
+## 1.1.6. Székhelye (ennek hiányában levelezési címe):
 
-## 1.7. Személyazonosító igazolvány (útlevél) száma:
+## 1.1.7. Személyazonosító igazolvány (útlevél) száma:
 
-## 1.8. Vállalkozói vagy őstermelői igazolvány száma, kelte, kiadó hatóság megnevezése:
+## 1.1.8. Vállalkozói vagy őstermelői igazolvány száma, kelte, kiadó hatóság megnevezése:
 
-## 1.9. Adószáma/közösségi adószáma:
+## 1.1.9. Adószáma/közösségi adószáma:
 
-## 1.10. Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma:
+## 1.1.10. Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma:
 
-## 2. Jogi személy, jogi személyiséggel nem rendelkező szervezet esetében
+## 1.2. Jogi személy, jogi személyiséggel nem rendelkező szervezet esetében
 
-## 2.1. Neve (elnevezése):
+## 1.2.1. Neve (elnevezése):
 
-## 2.2. Rövidített neve:
+## 1.2.2. Rövidített neve:
 
-## 2.3. Cégbírósági bejegyzés száma, kelte:
+## 1.2.3. Cégbírósági bejegyzés száma, kelte:
 
-## 2.4. Székhelye (ennek hiányában telephelye vagy fióktelepe):
+## 1.2.4. Székhelye (ennek hiányában telephelye vagy fióktelepe):
 
-## 2.5. Adószáma/közösségi adószáma:
+## 1.2.5. Adószáma/közösségi adószáma:
 
-## 2.6. Egységes statisztikai jelzőszáma:
+## 1.2.6. Egységes statisztikai jelzőszáma:
 
-## 2.7. Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma:
+## 1.2.7. Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezető pénzintézet(ek) megnevezése, fiókja, számlaszáma:
 
-## 2.8. Levelezési címe:
+## 1.2.8. Levelezési címe:
 
-## 2.9. AEO tanúsítvány száma:
+## 1.2.9. AEO tanúsítvány száma:
 
-## 2.10. A képviseletre jogosult neve:
+## 1.2.10. A képviseletre jogosult neve:
 
-## 2.11. Születési helye, ideje:
+## 1.2.11. Születési helye, ideje:
 
-## 2.12. Anyja neve:
+## 1.2.12. Anyja neve:
 
-## 2.13. Állampolgársága:
+## 1.2.13. Állampolgársága:
 
-## 2.14. Állandó lakóhelye (tartózkodási helye):
+## 1.2.14. Állandó lakóhelye (tartózkodási helye):
 
-## 2.15. Személyazonosító igazolvány (útlevél) száma:
+## 1.2.15. Személyazonosító igazolvány (útlevél) száma:
 
-## 3.[^629]
+## 2. Nyilatkozatok
 
-## 4. Nyilatkozatok
+## 2.1. Egyéb köztartozásra:
 
-## 4.1. Egyéb köztartozásra:
+## 2.2. Jövedéki biztosítékra (felajánlott összeg, teljesítési módja):
 
-## 4.2. Jövedéki biztosítékra (felajánlott összeg, teljesítési módja):
+## 3. Adóraktári adatok
 
-## II. Adóraktári adatok
+## 3.1. Adóraktár címe:
 
-## 1. Adóraktár címe:
+## 3.2. Adóraktár helyrajzi száma:
 
-## 2. Adóraktár helyrajzi száma:
+## 3.3. Adóraktár használati jogcíme:
 
-## 3. Adóraktár használati jogcíme
+## 3.3.1. Bérleti szerződés határozott időtartamra (tól-ig):
 
-## 4.1. Bérleti szerződés határozott időtartamra (tól-ig):
+## 3.3.2. Bérleti szerződés határozatlan időtartamra:
 
-## 4.2. Bérleti szerződés határozatlan időtartamra:
+## 3.3.3. Saját tulajdon esetén a tulajdoni hányad:
 
-## 4.3. Saját tulajdon esetén a tulajdoni hányad:
+## 4. Adóraktári tevékenység adatai
 
-## III. Adóraktári tevékenység adatai
+## 4.1. Az alapanyag előállításának helye [település, helyrajzi szám, terület hektárban]:
 
-## 1. A felhasznált alapanyag megnevezése:
+## 4.2. A tiszta növényi olaj előállításához felhasznált alapanyag megnevezése:
 
-## 2. A felhasznált alapanyag vámtarifaszáma:
+## 4.3. Az adóraktár tároló tartályainak adatai (azonosítószám, űrtartalom):
 
-## 3. Az előállításra kerülő bioüzemanyag megnevezése:
+## 5. Az előállított tiszta növényi olaj felhasználására vonatkozó adatok
 
-## 4. Az előállításra kerülő bioüzemanyag vámtarifaszáma:
+## 5.1. A felhasználás helye [település, helyrajzi szám vagy erdészeti azonosító, terület hektárban]:
 
-## 5. Az előállításra kerülő bioüzemanyag fajtakódja:
+## 5.2. A felhasználás célja [mezőgazdasági földművelési munkákhoz, betakarításhoz kapcsolódó közvetlen szállításhoz, erdőfelújítási munkákhoz, halgazdálkodáshoz]:
 
-## 6. Bioetanol előállítása esetén az alkalmazott denaturálási eljárás:
+## 6. Felelős üzemvezető
 
-## 7. A kísérleti előállítás célja:
+## 6.1. Neve:
 
-## 8. Az adóraktár tároló/keverő tartályainak adatai (azonosítószám, űrtartalom):
+## 6.2. Munkaköre:
 
-## 9. A kísérleti fejlesztés időtartama:
+## 6.3. Beosztása:
 
-## IV. Az előállított bioüzemanyag felhasználására vonatkozó adatok
+## 7. A csatolt okiratok db száma és megnevezése:
 
-## 1. Felhasználó neve/cégneve:
+## Kelt: .........................
 
-## 2. A felhasználó lakóhelye/székhelye:
-
-## 3. A felhasználás helye:
-
-## 4. A felhasználás ideje:
-
-## 5. A felhasználás módja:
-
-## V. Egyéb
-
-## 1.[^630] Egyszerűsített kísérő okmány aláírására jogosultak
-
-## 1.1. Neve:
-
-## 1.2. Munkaköre:
-
-## 1.3. Beosztása:
-
-## 2. Felelős üzemvezető
-
-## 2.1. Neve:
-
-## 2.2. Munkaköre:
-
-## 2.3. Beosztása:
-
-## VI. A csatolt okiratok db száma és megnevezése:
-
-## Kelt: ........................
-
-## ..................................
+## .....................................
 
 ## a kérelmező aláírása (bélyegzője)
 
-2. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^631]
+2. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^642]
 
-[^629]: Az 1/A. számú melléklet I.3. pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^630]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
-[^631]: A 2. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 33/2006. (XII. 25.) PM rendelet 23. §-a, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) 28. § (3) bekezdése szerint módosított szöveg.
+[^642]: A 2. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 33/2006. (XII. 25.) PM rendelet 23. §-a, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) 28. § (3) bekezdése szerint módosított szöveg.

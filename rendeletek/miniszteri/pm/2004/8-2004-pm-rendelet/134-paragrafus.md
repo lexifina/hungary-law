@@ -1,3 +1,3 @@
-## 133/B. §[^613]
+## 133/B. §[^622]
 
-[^613]: A 133/B. §-t a 40/2007. (XII. 29.) PM rendelet 37. §-a iktatta be, hatályon kívül helyezte az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 15. pontja.
+[^622]: A 133/B. §-t a 40/2007. (XII. 29.) PM rendelet 37. §-a iktatta be, hatályon kívül helyezte az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 15. pontja.

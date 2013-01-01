@@ -80,7 +80,7 @@
 
 |  |  | 4.4. | Kettős könyvvezetésre: |
 
-|  |  | 4.5. | Szja. törvény szerinti nyilvántartás vezetésre: |
+|  |  | 4.5. | Szja törvény szerinti nyilvántartás vezetésre: |
 
 |  |  | 4.6. | Az éves beszámoló hitelesítésére: |
 
@@ -95,6 +95,8 @@
 |  |  | 4.11. | A szőlő értékesítésére, felhasználására: |
 
 |  |  | 4.12. | Jövedéki termék, megfigyelt termék közösségen belüli beszerzésére, kiszállítására: |
+
+|  |  | 4.13. | Egyszerűsített adóraktárban történő pezsgő előállításra: |
 
 | II. Adóraktári adatok (adóraktáranként) |
 
@@ -112,7 +114,7 @@
 
 |  |  | 4.3. | Saját tulajdon esetén a tulajdoni hányad: |
 
-|  | 5. | Tároló adóraktár, tranzitadóraktár esetén |
+|  | 5. | Tároló adóraktár, tranzitadóraktár, utasellátó adóraktár esetén |
 
 |  |  | 5.1. | Tárolt jövedéki termék megnevezése: |
 
@@ -166,27 +168,7 @@
 
 |  |  | 10.4. | Foglalkoztatásának módja (munkaviszony, megbízási jogviszony): |
 
-| III. Szőlőborászati üzem adóraktári engedélyt kérelmező, illetve egyszerűsített adóraktári engedélyt kérelmező esetében a szőlőterületi adatok (szőlőterületenként) |
-
-|  | 1. | Szőlőültetvény |
-
-|  |  | 1.1. | Helye: |
-
-|  |  | 1.2. | Helyrajzi száma: |
-
-|  |  | 1.3. | Nagysága (m2): |
-
-|  |  | 1.4. | Telepítésének éve: |
-
-|  | 2. | Szőlőültetvény használati jogcíme |
-
-|  |  | 2.1. | Bérleti szerződés határozott időtartamra (tól–ig): |
-
-|  |  | 2.2. | Bérleti szerződés határozatlan időtartamra: |
-
-|  |  | 2.3. | Bérleti szerződés esetén a tulajdonos neve, címe: |
-
-|  |  | 2.4. | Saját tulajdon esetén a tulajdoni hányad: |
+| III. |
 
 | IV. A csatolt okiratok db száma és megnevezése: |
 
@@ -196,6 +178,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^628]
+1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^638]
 
-[^628]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^638]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.

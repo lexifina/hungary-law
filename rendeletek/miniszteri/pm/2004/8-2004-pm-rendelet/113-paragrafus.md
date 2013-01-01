@@ -1,64 +1,56 @@
-113. § (1) A Jöt. 47. § (1) bekezdés a) pontja szerinti adóvisszaigénylési (-levonási) jogosultság igazolásához szükséges okmányok:
+113. § (1)[^530] A Jöt. 47. § (1) bekezdés a) pontja szerinti adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
-a)[^518] a jövedéki termék adózott beszerzését igazoló, az adóraktár nevére kiállított számla, vagy az adóraktár engedélyese által a jövedéki engedéllyel rendelkező saját telephelyére történt kitárolást igazoló egyszerűsített kísérő okmány és az onnan az adóraktárba való visszaszállításról kiállított bizonylat, vagy – a jövedéki terméknek a jövedéki engedélyes kereskedőtől, a nem jövedéki engedélyes kereskedőtől, illetve a végfelhasználótól az adóraktárba való visszaszállítása esetén – a jövedéki engedélyes kereskedőhöz, nem jövedéki engedélyes kereskedőhöz, illetve végfelhasználóhoz történt kitárolást igazoló egyszerűsített kísérő okmány és a visszaszállításról az adóraktár nevére kiállított bizonylat;
+a) a jövedéki termék adózott beszerzését igazoló, az adóraktár nevére kiállított számla, vagy az adóraktár engedélyese által a jövedéki engedéllyel rendelkező saját telephelyére történt kitárolást igazoló egyszerűsített kísérő okmány és az onnan az adóraktárba való visszaszállításról kiállított bizonylat, vagy – a jövedéki terméknek a jövedéki engedélyes kereskedőtől, a nem jövedéki engedélyes kereskedőtől, illetve a végfelhasználótól az adóraktárba való visszaszállítása esetén – a jövedéki engedélyes kereskedőhöz, nem jövedéki engedélyes kereskedőhöz, illetve végfelhasználóhoz történt kitárolást igazoló egyszerűsített kísérő okmány és a visszaszállításról az adóraktár nevére kiállított bizonylat;
 
-b)[^519] az adóraktárnak értékesített jövedéki terméknek az eladó által adóraktárból vagy importálótól való beszerzését igazoló számla és – adóraktárból történt beszerzés esetén – egyszerűsített kísérő okmány;
+b) az adóraktárnak értékesített jövedéki terméknek az eladó által adóraktárból vagy importálótól való beszerzését igazoló számla és – adóraktárból történt beszerzés esetén – egyszerűsített kísérő okmány;
 
 c) az adózottan beszerzett jövedéki termék adóraktárba történt betárolását igazoló okmány;
 
 d) az adózott jövedéki termék felhasználását igazoló, a Számv. tv. számviteli bizonylatra vonatkozó rendelkezései szerint kiállított okmány;
 
-e)[^520] az adójeggyel ellátott dohánygyártmány beszerzése esetén a Jöt. 47. § (2) bekezdésében meghatározott, e rendelet 105. §-a rendelkezéseinek értelemszerű alkalmazásával felvett jegyzőkönyv.
+e) az adójeggyel ellátott dohánygyártmány beszerzése esetén a Jöt. 47. § (2) bekezdésében meghatározott, a 105. § rendelkezéseinek értelemszerű alkalmazásával felvett jegyzőkönyv.
 
-(2)[^521] A Jöt. 47. § (1) bekezdés b) pontja esetében – az elektronikusan benyújtott bevallás kivételével – benyújtandó okmány
+(2)[^531] A Jöt. 47. § (1) bekezdés b) pontja esetében az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
-a) a jövedéki termék belföldi forgalom számára történő vámkezelését igazoló vámokmány, a mellékleteivel együtt,
+a) a jövedéki termék belföldi forgalom számára történő vámkezelését igazoló vámokmány, a mellékleteivel együtt;
 
 b) a jövedéki adó megfizetését igazoló bizonylat;
 
-c) a harmadik országba kiléptetést igazoló vámhatóság által záradékolt vámokmány,
+c) a harmadik országba kiléptetést igazoló vámhatóság által záradékolt vámokmány;
 
-d)[^522] zárjeggyel vagy adójeggyel ellátott jövedéki termék esetén a Jöt. 47. § (2) bekezdésében meghatározott, e rendelet 105. §-a rendelkezéseinek értelemszerű alkalmazásával felvett jegyzőkönyv.
+d) zárjeggyel vagy adójeggyel ellátott jövedéki termék esetén a Jöt. 47. § (2) bekezdésében meghatározott, a 105. § rendelkezéseinek értelemszerű alkalmazásával felvett jegyzőkönyv.
 
-(3)[^523] A Jöt. 47. § (1) bekezdés c) pontja esetében – az elektronikusan benyújtott bevallás kivételével – benyújtandó okmány
+(3)[^532] A Jöt. 47. § (1) bekezdés c) pontja esetében az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
-a)[^524] az exportáló nevére kiállított, a jövedéki termék adózott beszerzését igazoló számla, vagy a jövedéki termék adózott voltát igazoló egyéb bizonylat, továbbá – az adóraktárból történt beszerzés esetén – egyszerűsített kísérő okmány;
+a) az exportáló nevére kiállított, a jövedéki termék adózott beszerzését igazoló számla, vagy a jövedéki termék adózott voltát igazoló egyéb bizonylat, továbbá – az adóraktárból történt beszerzés esetén – egyszerűsített kísérő okmány;
 
-b) a vámhatóság által záradékolt, végleges rendeltetéssel harmadik országba történő kilétpetést igazoló vámokmány;
+b) a vámhatóság által záradékolt, végleges rendeltetéssel harmadik országba történő kiléptetést igazoló vámokmány;
 
-c)[^525] a repülőgép üzemanyag esetében a nemzetközi légi közlekedésben résztvevő külföldi és magyar lajstromjelű repülőgép üzemanyagtartályába történő betöltést és a repülőgép külföldre távozását igazoló, a 43. számú melléklet szerinti adattartalmú bizonylat, amelyet szigorú számadás alá vont nyomtatványként kell kezelni;
+c) a repülőgép üzemanyag esetében a nemzetközi légi közlekedésben részt vevő külföldi és magyar lajstromjelű repülőgép üzemanyagtartályába történő betöltést és a repülőgép külföldre távozását igazoló, a 43. számú melléklet szerinti adattartalmú bizonylat, amelyet szigorú számadás alá vont nyomtatványként kell kezelni;
 
-d)[^526] a zárjeggyel vagy adójeggyel ellátott jövedéki termék esetén a Jöt. 47. § (2) bekezdésében meghatározott, e rendelet 105. §-a rendelkezéseinek értelemszerű alkalmazásával felvett jegyzőkönyv, illetve a zárjeggyel vagy adójeggyel ellátott jövedéki terméknek a külföldön szolgálatot teljesítő magyar fegyeres erők részére történő kiszállítás esetén a külön jogszabályban meghatározott NATO Vámokmány vagy – a nem NATO tagállamokba történő kiszállítás esetében – az Egységes Vámokmány, amelyben exportőrként a Honvédelmi Minisztérium vagy a Magyar Honvédség kijelölt szerve, címzettként a külföldön szolgálatot teljesítő Magyar Honvédség egysége, alegysége, köteléke szerepel.
+d) a zárjeggyel vagy adójeggyel ellátott jövedéki termék esetén a Jöt. 47. § (2) bekezdésében meghatározott, a 105. § rendelkezéseinek értelemszerű alkalmazásával felvett jegyzőkönyv, illetve a zárjeggyel vagy adójeggyel ellátott jövedéki terméknek a külföldön szolgálatot teljesítő magyar fegyveres erők részére történő kiszállítás esetén a külön jogszabályban meghatározott NATO Vámokmány vagy – a nem NATO tagállamokba történő kiszállítás esetében – az Egységes Vámokmány, amelyben exportőrként a Honvédelmi Minisztérium vagy a Magyar Honvédség kijelölt szerve, címzettként a külföldön szolgálatot teljesítő Magyar Honvédség egysége, alegysége, köteléke szerepel.
 
-(4)[^527] A Jöt 47. § (4) bekezdésben meghatározott adó-visszaigénylési jog érvényesíthetőségének feltétele, hogy a jövedéki termék beszerzése előtt legalább 15, illetve az (5) bekezdés szerinti esetben 3 nappal korábban a vásárlási szándékot a vámszervhez előzetesen bejelentsék. A bejelentésnek – az (5) bekezdésben foglalt eltéréssel – a beszerzendő jövedéki termék mennyiségén kívül a pontos felhasználási célt, a felhasználási arányszámot, a felhasználás telephelyét, az elszámoláshoz szükséges, a mérésügyi törvényben meghatározott hitelesítéseket, a vezetendő nyilvántartást, valamint a szükséges engedélyeket is tartalmaznia kell.
+(4)[^533] A Jöt 47. § (4) bekezdésben meghatározott adó-visszaigénylési jog érvényesíthetőségének feltétele, hogy a jövedéki termék beszerzése előtt legalább 15, illetve az (5) bekezdés szerinti esetben 3 nappal korábban a vásárlási szándékot a vámszervhez előzetesen bejelentsék. A bejelentésnek – az (5) bekezdésben foglalt eltéréssel – a beszerzendő jövedéki termék mennyiségén kívül a pontos felhasználási célt, a felhasználási arányszámot, a felhasználás telephelyét, az elszámoláshoz szükséges, a mérésügyi törvényben meghatározott hitelesítéseket, a vezetendő nyilvántartást, valamint a szükséges engedélyeket is tartalmaznia kell.
 
-(5)[^528] Amennyiben az adómentes felhasználó olyan adózott jövedéki terméket kíván beszerezni, amelynek beszerzésére keretengedéllyel rendelkezik, a (4) bekezdésben említett bejelentésnek csak a beszerzendő jövedéki termék mennyiségét kell tartalmaznia. Az adómentes felhasználó az általa az előbbiek szerint beszerzett jövedéki termékről és annak felhasználásáról a Jöt. 44. § (3) bekezdése szerinti – az adómentesen beszerzett jövedéki termék felhasználásáról vezetett nyilvántartástól elkülönített – nyilvántartást köteles vezetni.
+(5)[^534] Amennyiben az adómentes felhasználó olyan adózott jövedéki terméket kíván beszerezni, amelynek beszerzésére keretengedéllyel rendelkezik, a (4) bekezdésben említett bejelentésnek csak a beszerzendő jövedéki termék mennyiségét kell tartalmaznia. Az adómentes felhasználó az általa az előbbiek szerint beszerzett jövedéki termékről és annak felhasználásáról a Jöt. 44. § (3) bekezdése szerinti – az adómentesen beszerzett jövedéki termék felhasználásáról vezetett nyilvántartástól elkülönített – nyilvántartást köteles vezetni.
 
-(6)[^529] A Jöt. 47. § (1) bekezdés d) pontja esetében – az elektronikusan benyújtott bevallás kivételével – benyújtandó okmány
+(6)[^535] A Jöt. 47. § (1) bekezdés d) pontja esetében az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
-a)[^530] a jövedéki termék adózott beszerzését igazoló, a Jöt. 106. § (4) bekezdés a) pontja szerinti adatokat tartalmazó, a jövedéki engedélyes importáló, a bejegyzett kereskedő, a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő, illetve az adómentes felhasználó által kiállított számla;
+a) a jövedéki termék adózott beszerzését igazoló, a Jöt. 106. § (4) bekezdés a) pontja szerinti adatokat tartalmazó, a jövedéki engedélyes importáló, a bejegyzett kereskedő, a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő, illetve az adómentes felhasználó által kiállított számla;
 
 b) az adóraktár engedélyese által kiállított, a szabadforgalomba bocsátást igazoló számla és egyszerűsített kísérő okmány;
 
-c)[^531] az adómentes célra beszerzett ásványolaj, alkoholtermék, sör, bor és nem habzó köztes alkoholtermék felhasználásának elszámolását igazoló, a hatósági felügyeletet ellátó vámszerv által felvett jegyzőkönyv.
+c) az adómentes célra beszerzett ásványolaj, alkoholtermék, sör, bor és nem habzó köztes alkoholtermék felhasználásának elszámolását igazoló, a hatósági felügyeletet ellátó vámszerv által felvett jegyzőkönyv.
 
-(7)[^532]
+(7)[^536]
 
-(8)[^533] E § (3) bekezdés c) pontja szerinti adó-visszaigénylés esetében az adó-visszaigényléshez benyújtott, a betöltést és a repülőgép külföldre távozását igazoló bizonylatot aláíró üzembentartó (vagy megbízottja) közjegyző által hitelesített aláírás mintájának a vámszervnél rendelkezésre kell állnia.
+(8)[^537]
 
-[^518]: A 113. § (1) bekezdésének a) pontja a 46/2004. (XII. 29.) PM rendelet 21. §-ával megállapított, a 44/2009. (XII. 29.) PM rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^519]: A 113. § (1) bekezdés b) pontja a 18/2010. (XII. 30.) NGM rendelet 17. § (1) bekezdése szerint módosított szöveg.
-[^520]: A 113. § (1) bekezdésének e) pontja a 45/2005. (XII. 26.) PM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^521]: A 113. § (2) bekezdésének bevezető rendelkezése a 13/2007. (VI. 26.) PM rendelet 1. § (1) bekezdésével megállapított szöveg, e módosító rendelet 3. §-a alapján a rendelkezést első ízben a 2007. június 30-át követően keletkezett adó-visszaigénylési jogosultság bevallására kell alkalmazni.
-[^522]: A 113. § (2) bekezdésének d) pontja a 45/2005. (XII. 26.) PM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^523]: A 113. § (3) bekezdésének bevezető rendelkezése a 13/2007. (VI. 26.) PM rendelet 1. § (2) bekezdésével megállapított szöveg, e módosító rendelet 3. §-a alapján a rendelkezést első ízben a 2007. június 30-át követően keletkezett adó-visszaigénylési jogosultság bevallására kell alkalmazni.
-[^524]: A 113. § (3) bekezdésének a) pontja a 20/2006. (VIII. 30.) PM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^525]: A 113. § (3) bekezdésének c) pontja a 45/2005. (XII. 26.) PM rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^526]: A 113. § (3) bekezdésének d) pontja a 45/2005. (XII. 26.) PM rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^527]: A 113. § (4) bekezdése a 38/2008. (XII. 31.) PM rendelet 13. § (1) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (5) bekezdése szerint módosított szöveg.
-[^528]: A 113. § (5) bekezdését a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5)–(7) bekezdés számozását (6)–(8) bekezdésre változtatta.
-[^529]: A 113. § (5) bekezdésének bevezető rendelkezése a 13/2007. (VI. 26.) PM rendelet 1. § (3) bekezdésével megállapított szöveg. A 113. § eredeti (5) bekezdésének számozását a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése (6) bekezdésre változtatta.
-[^530]: A 113. § (6) bekezdésének a) pontja a 45/2005. (XII. 26.) PM rendelet 16. § (4) bekezdésével megállapított, a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése szerint módosított szöveg.
-[^531]: A 113. § (6) bekezdés c) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^532]: A 113. § (6) bekezdését a 45/2005. (XII. 26.) PM rendelet 16. § (5) bekezdése iktatta be, szövege a 40/2007. (XII. 29.) PM rendelet 29. §-ával megállapított szöveg. A 113. § eredeti (6) bekezdésének számozását a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése (7) bekezdésre változtatta. A 113. § (7) bekezdését a 13/2009. (VI. 12.) PM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^533]: A 113. § (7) bekezdését a 45/2005. (XII. 26.) PM rendelet 16. § (5) bekezdése iktatta be, szövege a 40/2007. (XII. 29.) PM rendelet 40. § (8) bekezdése szerint módosított szöveg. A 113. § eredeti (7) bekezdésének számozását a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése (8) bekezdésre változtatta, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (8) bekezdése szerint módosított szöveg.
+[^530]: A 113. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^531]: A 113. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^532]: A 113. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 36. § (3) bekezdésével megállapított szöveg.
+[^533]: A 113. § (4) bekezdése a 38/2008. (XII. 31.) PM rendelet 13. § (1) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (5) bekezdése szerint módosított szöveg.
+[^534]: A 113. § (5) bekezdését a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5)–(7) bekezdés számozását (6)–(8) bekezdésre változtatta.
+[^535]: A 113. § eredeti (5) bekezdésének számozását a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése (6) bekezdésre változtatta, szövege az 52/2012. (XII. 29.) NGM rendelet 36. § (4) bekezdésével megállapított szöveg.
+[^536]: A 113. § (6) bekezdését a 45/2005. (XII. 26.) PM rendelet 16. § (5) bekezdése iktatta be, szövege a 40/2007. (XII. 29.) PM rendelet 29. §-ával megállapított szöveg. A 113. § eredeti (6) bekezdésének számozását a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése (7) bekezdésre változtatta. A 113. § (7) bekezdését a 13/2009. (VI. 12.) PM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^537]: A 113. § (7) bekezdését a 45/2005. (XII. 26.) PM rendelet 16. § (5) bekezdése iktatta be, számozását a 38/2008. (XII. 31.) PM rendelet 13. § (2) bekezdése (8) bekezdésre változtatta, hatályon kívül helyezte az 52/2012. (XII. 29.) NGM rendelet 47. § 4. pontja.

@@ -1,5 +1,6 @@
-102. § (1) A Jöt. 111. § (1) bekezdés a) pontja, (2) bekezdés d) pontja és (4) bekezdés f) pontja szerinti jövedéki ellenőrzés során a mintavételt a vonatkozó jogszabályoknak és mintavételi szabványoknak megfelelően a 103. § (4)–(6) bekezdéseiben foglaltak értelemszerű alkalmazásával kell elvégezni.
+102. § (1)[^470] A Jöt. 49. § szerinti hatósági felügyelet gyakorlása, valamint a Jöt. 111. § (1) bekezdés a) pontja, (2) bekezdés d) pontja és (4) bekezdés f) pontja szerinti jövedéki ellenőrzés során a mintavételt a vonatkozó jogszabályoknak és mintavételi szabványoknak megfelelően a 103. § (4)–(5) bekezdéseiben foglaltak értelemszerű alkalmazásával kell elvégezni.
 
-(2)[^459] Az (1) bekezdés szerinti mintavételről a mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek eredeti példánya a mintát vevő hatósági felügyeletet ellátó vámszerv példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött személy példánya.
+(2)[^471] Az (1) bekezdés szerinti mintavételről a mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek eredeti példánya a mintát vevő hatósági felügyeletet ellátó vámszerv példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött személy példánya.
 
-[^459]: A 102. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^470]: A 102. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 33. §-ával megállapított szöveg.
+[^471]: A 102. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
