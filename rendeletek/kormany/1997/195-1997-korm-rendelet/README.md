@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-195-20-
 | 2012-01-01 | 1997-195-20-22.40 | 266/2011. (XII. 13.) Korm. rendelet |
 | 2012-05-01 | 1997-195-20-22.41 | 366/2007. (XII. 23.) Korm. rendelet |
 | 2012-12-23 | 1997-195-20-22.42 | 297/2010. (XII. 23.) Korm. rendelet |
+| 2013-01-01 | 1997-195-20-22.43 | 378/2012. (XII. 19.) Korm. rendelet |
