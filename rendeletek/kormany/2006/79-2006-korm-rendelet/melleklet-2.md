@@ -32,6 +32,6 @@
 
 ## d) szociális szolgáltatások (étkezés, szállás stb.) tekintetében a hallgatók számára szálláslehetőséget, illetve a hallgatók és az alkalmazottak számára meleg étkezés lehetőséget az intézményben vagy annak közvetlen környezetében.
 
-2. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^106]
+2. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^105]
 
-[^106]: A 2. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^105]: A 2. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 18. §-a szerint módosított szöveg.
