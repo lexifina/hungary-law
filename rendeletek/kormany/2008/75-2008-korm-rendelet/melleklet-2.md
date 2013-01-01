@@ -2,13 +2,13 @@
 
 | 1. | Budapesti elővárosi vasútvonalak rekonstrukciója |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 2. | Rákosrendező(kiz.) - Óbuda-Esztergom vasútvonal rekonstrukciója |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -16,7 +16,7 @@
 
 | 4. | Budapest Kelenföld- Székesfehérvár vasútvonal rekonstrukciója II. ütem |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések,lift építménye) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések,lift építménye) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -28,7 +28,7 @@
 
 | 8. | Budapest-Lőkösháza vasútvonal rekonstrukciója III. ütem |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -36,31 +36,31 @@
 
 | 10. | ETCS 2 kiépítése a Hódos-Boba vonalszakaszon |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 11. | Győr-Pápa- Celldömölk-Boba vasútvonal rekonstrukciója |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 12. | Sopron- Szombathely- Szentgotthárd vasútvonal rekonstrukciója |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 13. | Szajol-Szolnok- Záhony vasútvonal rekonstrukciója I. ütem |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépület, perontető, lépcső lefedések, lift építménye) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építménye, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 14. | a MÁV Zrt. és a GySEV Zrt. által működtetett vasúti pályahálózaton a GSM-R rendszer megvalósítása |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépületek átalakítása, adótornyok felállítása) | Általános építésügyi hatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal | az építésügyért felelős miniszter |
+| Felszín feletti építmények (különösen: állomásépületek átalakítása, adótornyok felállítása) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -86,8 +86,8 @@ Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
 | 3.2. | állami célú | Nemzeti Közlekedési Hatóság Légügyi Hivatala | honvédelemért felelős miniszter |
 
-| 4. | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 4. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 5. | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^2]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 28. §-ával megállapított, a 394/2012. (XII. 20.) Korm. rendelet 24. §-a szerint módosított szöveg.
