@@ -43,3 +43,5 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 11. cukrozott kakaópor: a 1806 10 VTSZ szám alá tartozó termék.
 
 12. metil-xantin: a koffein (1,3,7-trimetil-xantin), a teobromin (3,7-dimetil-xantin), a teofillin (1,3-dimetil-xantin).
+
+13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
