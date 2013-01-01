@@ -4,4 +4,4 @@
 
 (3) Az írnoki munkakört ellátó alkalmazottat a 4. számú mellékletben megjelölt IV. fizetési osztályba kell besorolni. A besorolásnál a 101. §-ban foglaltak megfelelő alkalmazásával legfeljebb két fizetési fokozattal csökkentett fokozat állapítható meg.
 
-(4) A fizikai alkalmazott alapilletményét a felek közös megegyezésével a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) alapján kell megállapítani azzal, hogy a 2001. június 30. napján járó alapilletmény nem csökkenthető.
+(4) A fizikai alkalmazott alapilletményét a felek közös megegyezésével az Mt. alapján kell megállapítani azzal, hogy a 2001. június 30. napján járó alapilletmény nem csökkenthető.
