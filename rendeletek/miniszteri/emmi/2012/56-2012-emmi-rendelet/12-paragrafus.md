@@ -1,0 +1,1 @@
+## „(5) Ha az Alapkezelő részére történő adatküldésre kötelezett személy, szerv vagy testület az adatküldést a jogszabályban előírt határidőben nem teljesíti, az Alapkezelő felhívja e kötelezettség öt napon belül történő teljesítésére.”

@@ -1,0 +1,1 @@
+## „(4) Nem jogosult költségátalányra vagy költségtérítésre a testület döntéseit rögzítő dokumentumot hitelesítő testületi tag, ha az adott hónapban a testület a hitelesített emlékeztető, jegyzőkönyv megküldésével öt napot meghaladóan késedelembe esett.”
