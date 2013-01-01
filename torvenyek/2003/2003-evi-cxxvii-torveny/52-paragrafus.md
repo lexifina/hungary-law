@@ -14,7 +14,7 @@ f) a 2711 12, a 2711 13, a 2711 14 00, a 2711 19 00 vámtarifaszám alatti gáz 
 
 g) a 2711 21 00 és a 2711 29 00 vámtarifaszám alatti gáz termékekből arra a sűrített gáz halmazállapotú szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 0 Ft/nm3,
 
-h)
+h) az 50. § (3) bekezdés f) pontja szerinti termékek közül az ólmozatlan benzin adalékanyagára, hígítóanyagára az a) pont szerinti adómérték, az üzemanyag célú gázolaj adalékanyagára, hígítóanyagára a d) pont szerinti adómérték, egyébként 0 Ft/ezer liter,
 
 i) a 2707 10, a 2707 20, a 2707 30, a 2707 50, a 2710 11 11, a 2710 11 15, a 2710 11 21, a 2710 11 25, a 2710 11 70, a 2710 11 90, a 2710 19 11, a 2710 19 15, a 2710 19 25, a 2710 19 29, a 2710 19 31, a 2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10, a 2902 20 00, a 2902 30 00, a 2902 41 00, a 2902 42 00, a 2902 43 00 és a 2902 44 00 vámtarifaszám alá tartozó, valamint a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszámú, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött ásványolajra (a továbbiakban: egyéb ellenőrzött ásványolaj) az üzemanyagkénti vagy a tüzelő-, fűtőanyagkénti beszerzés, importálás, kínálás, értékesítés vagy felhasználás esetén az üzemanyagkénti, vagy a tüzelő-, fűtőanyagkénti beszerzésnek, importálásnak, kínálásnak, értékesítésnek vagy felhasználásnak megfelelő, az a)–f) pontban megjelölt ásványolaj adója.
 
@@ -26,12 +26,14 @@ b) – figyelemmel a (3) bekezdés rendelkezésére is – az E85 esetében a te
 
 c) az a) és b) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti alacsonyabb adómérték,
 
-d) benzin, illetve gázolaj adalékakénti, hígítóanyagakénti beszerzés, importálás, kínálás, értékesítés vagy felhasználás esetén az (1) bekezdés a), illetve d) pont szerinti adómérték,
+d) a tiszta növényiolaj-gyártó adóraktárban előállított és a 129. § (1) bekezdés a) pontjában meghatározott mennyiségben és célra felhasznált ásványolaj esetében az (1) bekezdés d) pont szerinti adómérték 18%-a,
 
-e) az a)–d) pont alá nem eső ásványolaj esetében – az üzemanyagkénti vagy a tüzelő-, fűtőanyagkénti előállításnak, beszerzésnek, importálásnak, kínálásnak, értékesítésnek vagy felhasználásnak megfelelően – az (1) bekezdés a)–d) vagy f), g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, figyelemmel a (3) bekezdés rendelkezésére is.
+e) benzin, illetve gázolaj adalékakénti, hígítóanyagakénti beszerzés, importálás, kínálás, értékesítés vagy felhasználás esetén az (1) bekezdés a), illetve d) pont szerinti adómérték,
+
+f) az a)–e) pont alá nem eső ásványolaj esetében – az üzemanyagkénti vagy a tüzelő-, fűtőanyagkénti előállításnak, beszerzésnek, importálásnak, kínálásnak, értékesítésnek vagy felhasználásnak megfelelően – az (1) bekezdés a)–d) vagy f), g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, figyelemmel a (3) bekezdés rendelkezésére is.
 
 (3) Az adó mértéke az (1) bekezdés a)–d) pontjában meghatározott mérték 40 000 Ft/ezer literrel, illetve a fűtőolaj esetében az (1) bekezdés e) pontjában meghatározott mérték 20 000 Ft/ezer kilogrammal, a cseppfolyósított gáz esetén az (1) bekezdés f) pontjában meghatározott mérték 20 000 Ft/ezer kilogrammal, gáz halmazállapot esetén az (1) bekezdés g) pontjában meghatározott mérték 20 Ft/nm3-rel növelt összege, amennyiben a termék nem felel meg a hatályos magyar szabvány előírásainak.
 
 (4) A (3) bekezdés rendelkezését nem kell alkalmazni a külön jogszabály szerinti hulladékból a külön jogszabály szerinti hulladékkezelés során egyébásványolaj-gyártó adóraktárban előállított egyéb ellenőrzött ásványolajra és olajtermékre, ide nem értve az üzemanyagként előállított terméket.
 
-(5) A (2) bekezdés b) pontja szerinti adómérték a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
+(5) A (2) bekezdés b) és d) pontja szerinti adómérték a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.

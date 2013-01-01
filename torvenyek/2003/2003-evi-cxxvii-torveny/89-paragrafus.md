@@ -2,7 +2,7 @@
 
 89. § (1) Az adó alapja a pezsgő mennyisége, hektoliterben mérve.
 
-(2) Az adó mértéke hektoliterenként 14 960 forint.
+(2) Az adó mértéke hektoliterenként 16 460 forint.
 
 (3) Adómentes a természetes személy által palackos erjesztéssel előállított és az előállító, annak családtagjai vagy vendégei által elfogyasztott, naptári évenként és háztartásonként 1000 litert meg nem haladó mennyiségű pezsgő, feltéve hogy értékesítésre nem kerül sor.
 

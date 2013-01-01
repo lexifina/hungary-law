@@ -26,7 +26,13 @@ f) az érvényessége lejár.
 
 a) az adómentes felhasználó ellen felszámolási eljárás indult;
 
-b) az adómentes felhasználó az adóhatósághoz, illetve a vámhatósághoz teljesítendő adóbevallási, adófizetési, társadalombiztosítási járulék fizetési kötelezettségét vagy vámtartozását a határidőt, illetve az esedékességet 60 nappal meghaladóan késedelmesen teljesítette, vagy azt követően sem teljesítette; vagy a vámhatóság, illetve az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. §-ának (2) bekezdése kizárja;
+b) az adómentes felhasználó
+
+ba) az adóhatósághoz vagy a vámhatósághoz teljesítendő adóbevallási kötelezettségét a határidőt követő 60 napon belül nem teljesítette,
+
+bb) az adóhatósághoz vagy a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az adómentes felhasználó az engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
+
+bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (1) bekezdése kizárja;
 
 c) a keretengedély megadásánál figyelembe vett, illetve az engedélyben szereplő feltételek nem teljesülnek.
 

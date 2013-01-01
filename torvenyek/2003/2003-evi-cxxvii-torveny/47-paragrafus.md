@@ -56,6 +56,4 @@ e) az (1) bekezdés d) pontja esetében a jövedéki termék adómentes felhaszn
 
 kell dokumentálni, alátámasztani.
 
-(10) Az adó-visszaigénylés (-levonás) joga kizárólag a (9) bekezdésben, illetve az alkoholtermék és a dohánygyártmány exportálása esetén ezen felül a (2) bekezdésben meghatározott bizonylat csatolásával, illetve azok birtokában érvényesíthető.
-
-(11) A vámhatóság az adó-visszatérítésnél figyelembe vett mennyiséget, valamint a visszatérített adó összegét a (9) bekezdésben meghatározott bizonylatokon hitelt érdemlő módon feltünteti.
+(10)–(11)

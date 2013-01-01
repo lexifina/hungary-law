@@ -12,7 +12,7 @@ d) a fogyasztói csomagolású, adójegy nélküli, a 96. § (1) bekezdésének 
 
 adható.
 
-(2) A dohánygyártmány adó- és általános forgalmi adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra is adható, a 72. § (2)–(3) bekezdése szerint.
+(2) A dohánygyártmány adó- és általános forgalmi adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra, valamint utasellátó adóraktárra is adható, a 72. § (2)–(3) bekezdése szerint.
 
 (3) A jövedéki biztosítékot adóraktáranként – ide nem értve a (2) bekezdés szerinti adóraktárat –
 

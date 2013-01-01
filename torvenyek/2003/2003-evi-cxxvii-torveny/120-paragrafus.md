@@ -26,7 +26,7 @@ d) azokat a termékeket, amelyek értékesítése valamely szellemi tulajdonjogo
 
 a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
 
-b) közül az értékesítésre vagy az a) pont szerinti átadásra nem került ásványolajtermékeket a vámhatóság – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként, vagy fűtési, tüzelési célra felhasználhatja;
+b) közül az a) pont szerinti átadásra nem került ásványolajtermékeket az adóhatóság és a vámhatóság – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként vagy fűtési, tüzelési célra felhasználhatja;
 
 c) közül az értékesítésre vagy az a) és b) pont szerint átadásra, felhasználásra nem került ásványolajtermékek a katasztrófavédelmi szerv részére oktatás, gyakorlatozás céljára a katasztrófavédelmi szerv kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók.
 
@@ -36,7 +36,7 @@ a) (7) bekezdés a) pontja szerinti termék előzetes megsemmisítésére, ha az
 
 b) (7) bekezdés b) pontja szerinti eszköz előzetes megsemmisítésére, a lefoglalt (7) bekezdés c) pontja szerinti termék és eszköz előzetes értékesítésére, amennyiben azok kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna,
 
-c) ásványolajtermék előzetes, (8) bekezdés a) pontja szerinti célra történő átadására, ha annak kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna.
+c) ásványolajtermék előzetes, (8) bekezdés a) pontja szerinti célra történő átadására, valamint a (8) bekezdés b) pontja szerinti felhasználására, ha annak kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna.
 
 (10) Az előzetes megsemmisítés, értékesítés vagy átadás elrendeléséről végzésben kell intézkedni.
 

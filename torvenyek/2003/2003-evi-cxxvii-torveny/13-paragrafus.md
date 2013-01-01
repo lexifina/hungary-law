@@ -22,11 +22,11 @@ g) – amennyiben a kitárolt termék a 2710 19 41 és 2710 19 45 vámtarifaszá
 
 (2) Az adóraktár engedélyese véglegesen mentesül
 
-a) a végső úti céllal harmadik országba utazó utas részére tranzitadóraktárban [72. § (2) bekezdés a) pont] értékesített és onnan egyidejűleg az utas által kitárolt jövedéki termékre – dohánygyártmány esetén az adójeggyel el nem látott dohánygyártmányra –,
+a) a végső úti céllal harmadik országba utazó utas részére tranzitadóraktárban [72. § (2) bekezdés a) pont] értékesített, valamint az utasellátó adóraktárból [72. § (2) bekezdés b) pont] kitárolt jövedéki termékre – dohánygyártmány esetén az adójeggyel el nem látott dohánygyártmányra –,
 
 b) a Közösségen belüli végső úti céllal utazó utas részére tranzitadóraktárban értékesített és onnan egyidejűleg az utas által kitárolt adójeggyel ellátott dohánygyártmányra
 
-felfüggesztett adómegállapítási és adófizetési kötelezettsége alól, amennyiben az utasok beszállókártyája számának dokumentálása alapján – az átszállóutasok esetében továbbá a repülőjegy másolatával – a külön jogszabály szerint igazolja a kitárolás tényét.
+felfüggesztett adómegállapítási és adófizetési kötelezettsége alól, ha – tranzitadóraktárból történő kitárolás esetén az utasok beszállókártyája számának dokumentálása alapján, az átszálló utasok esetében továbbá a repülőjegy másolatával – jogszabályban meghatározott módon igazolja a kitárolás tényét.
 
 (3) Az adóraktár engedélyese véglegesen mentesül az adóraktárban tárolt azon jövedéki termékre felfüggesztett adómegállapítási és adófizetési kötelezettség alól,
 
@@ -55,6 +55,8 @@ f) amely az adóraktárban vagy az adófelfüggesztéssel végzett szállítás 
 g) amely az adóraktárban az előállítás, tárolás, raktározás, illetve az adófelfüggesztéssel történő szállítás során keletkezett veszteség, legfeljebb a jogszabályban meghatározott mértékig;
 
 h) amelyet – amennyiben az alkoholtermék – az adóraktárban az e törvény végrehajtási rendeletében meghatározott teljes denaturálási eljárással denaturáltak.
+
+(3a) A 69. § (2) bekezdés b) pontja szerinti esetben az adóraktár engedélyese a teljesen denaturált alkoholtermék – alkalmazott teljes denaturálási eljárást bejelentő tagállami címzett általi – átvételét visszaigazoló EKO példány alapján mentesül véglegesen felfüggesztett adómegállapítási és adófizetési kötelezettsége alól.
 
 (4) Az adómentes felhasználó a felfüggesztett adómegállapítási és adófizetési kötelezettsége alól véglegesen mentesül, ha
 

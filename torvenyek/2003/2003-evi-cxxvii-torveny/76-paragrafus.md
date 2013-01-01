@@ -4,7 +4,7 @@
 
 (2) E fejezet alkalmazásában alkoholfok a sörszabvány szerinti, 20 °C-on mért alkoholtartalom térfogatszázalékban kifejezve.
 
-(3) Az adó hektoliterre vetítve alkoholfokonként 1470 forint, illetve a 78. § (1) bekezdés a) pontjában írt feltételeknek megfelelő üzemben előállított sörre alkoholfokonként 735 forint.
+(3) Az adó mértéke hektoliterre vetítve alkoholfokonként 1620 forint, illetve a 78. § (1) bekezdés a) pontjában írt feltételeknek megfelelő üzemben előállított sörre alkoholfokonként 810 forint.
 
 (4) Adómentes a természetes személy által előállított és az előállító, annak családtagjai vagy vendégei által elfogyasztott, naptári évenként és háztartásonként 1000 litert meg nem haladó mennyiségű sör, feltéve hogy értékesítésre nem kerül sor.
 

@@ -2,7 +2,7 @@
 
 (2) A 65. §-ban meghatározott rendelkezések elmulasztásával be nem szedett adót a szeszfőzde köteles megfizetni. Amennyiben a szeszfőzde a bérfőzető valótlan nyilatkozata alapján állapította meg helytelenül az adó összegét, a bérfőzető az adókülönbözet megfizetésén felül az adókülönbözettel azonos összegben adóbírságot is fizet.
 
-(3) A szeszfőzde a bérfőzetőtől beszedett adót az 500 ezer forint értékhatár elérését, illetve az elszámolási időszakonkénti rendszeres vagy a szúrópróbaszerű elszámolást követő munkanapon pénzforgalmi számlájáról átutalással befizeti a vámhatóságnak.
+(3) A szeszfőzde a bérfőzetőtől beszedett adót a 200 ezer forint értékhatár elérését, illetve az elszámolási időszakonkénti rendszeres vagy a szúrópróbaszerű elszámolást követő munkanapon pénzforgalmi számlájáról átutalással befizeti a vámhatóságnak.
 
 (4) A beszedett adó késedelmes befizetése esetén a szeszfőzde a (3) bekezdés szerinti fizetési határidő napjától a teljesítés napjáig késedelmi pótlékot köteles fizetni.
 

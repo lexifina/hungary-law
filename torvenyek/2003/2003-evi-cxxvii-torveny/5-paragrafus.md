@@ -6,7 +6,7 @@
 
 (3) Az Európai Unió adóügyi együttműködési szabályainak jövedéki adóval kapcsolatos alkalmazása tekintetében a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve (a továbbiakban: központi kapcsolattartó szerv) jár el.
 
-(4) A csomagküldő kereskedő és a csomagküldő kereskedő adóügyi képviselője e törvény szerinti nyilvántartásba vételével kapcsolatos ügyekben a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve (a továbbiakban: csomagküldő kereskedő nyilvántartásba vételét végző szerv) jár el.
+(4) A csomagküldő kereskedő adóügyi képviselője e törvény szerinti nyilvántartásba vételével kapcsolatos ügyekben a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve (a továbbiakban: kijelölt vámszerv) jár el.
 
 (5) Helyszíni ellenőrzés keretében a jövedéki terméket forgalmazóknál az adóhatóság köteles jövedéki ellenőrzést is lefolytatni, az adófelfüggesztés alatt álló jövedéki termékek forgalmazásának ellenőrzése kivételével.
 
@@ -14,4 +14,4 @@
 
 (7) A végrehajtási eljárás lefolytatására az adóhatóság jogosult.
 
-(8) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
+(8) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény (a továbbiakban: Art.) tartalmazza.

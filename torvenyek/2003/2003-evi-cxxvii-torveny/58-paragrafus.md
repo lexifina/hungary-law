@@ -14,13 +14,15 @@ e) ásványolaj önálló tárolását végző tárolótelepre, ahol a bioetanol
 
 f) a (2) bekezdésben foglaltak figyelembevételével – az ásványolaj-adóraktárak, illetve az ásványolaj-adóraktár és a jövedéki engedélyes kereskedő telephelye vagy az adómentes felhasználó üzeme, raktára között kiépített, ásványolaj szállítására létesített, összefüggő csővezetékrendszerre, ideértve Magyarország államhatárát átlépő csővezeték esetén annak belföldre eső szakaszát is (a továbbiakban: terméktávvezeték);
 
-g) a bioüzemanyagot vagy tiszta növényi olajat előállító üzemre (a továbbiakban: bioüzemanyag-adóraktár),
+g) a bioüzemanyagot vagy – a k) pontban foglalt eltéréssel – tiszta növényi olajat előállító üzemre (a továbbiakban: bioüzemanyag-adóraktár);
 
 h) a vegyipari és gyógyszeripari felhasználás során szennyezetté vált ásványolaj önálló tevékenység keretében történő tisztítását, regenerálását végző üzemre, ahol a tisztított (regenerált) és vásárolt ásványolajból egyéb ellenőrzött ásványolaj vagy megfigyelt termék is előállítható külön engedély nélkül, adóraktári engedéllyel (a továbbiakban: ásványolaj-regeneráló üzem),
 
-i) az egyéb ellenőrzött ásványolajat, valamint az olajterméket nem az a) pontban meghatározott módon, illetve az 52. § (1) bekezdés a)–e) pont alá tartozó ásványolajat a külön jogszabály szerinti hulladékból a külön jogszabály szerinti hulladékkezelés során előállító üzemre, ideértve azt az esetet is, amikor az egyéb ellenőrzött ásványolaj vagy más ásványolaj az üzemben végzett vegyipari tevékenység vagy kőszénkokszolás melléktermékeként jön létre, de nem értve ide a h) pont szerinti esetet (a továbbiakban: egyébásványolaj-gyártó adóraktár);
+i) az egyéb ellenőrzött ásványolajat, az 52. § (1) bekezdés h) pontja szerinti terméket, valamint az olajterméket nem az a) pontban meghatározott módon, illetve az 52. § (1) bekezdés a)–e) pont alá tartozó ásványolajat jogszabályban meghatározott hulladékból hulladékkezelés során előállító üzemre, ideértve azt az esetet is, amikor az egyéb ellenőrzött ásványolaj vagy más ásványolaj az üzemben végzett vegyipari tevékenység vagy kőszénkokszolás melléktermékeként jön létre, de nem értve ide a h) pont szerinti esetet (a továbbiakban: egyébásványolaj-gyártó adóraktár);
 
 j) bioüzemanyagot kísérleti fejlesztés keretében előállító üzemre (a továbbiakban: kísérleti előállítást végző üzem)
+
+k) tiszta növényi olajat a mezőgazdasági termelő által – kizárólag saját célú felhasználásra – termelt alapanyagból előállító üzemre (a továbbiakban: tiszta növényiolaj-gyártó adóraktár)
 
 adható.
 
@@ -52,7 +54,7 @@ c) a cseppfolyósítottgáz-töltőn legalább 300 m3, a repülőtéri adórakt�
 
 d) az ásványolaj-tárolóban – kivéve a kizárólag az 52. § (1) bekezdés f) pontja szerinti és a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént vasúti tartálykocsiban tároló adóraktárt, amennyiben a vasúti tartálykocsi feltöltése a mérésügyi szerv által hitelesített vágánymérleg alkalmazásával történik – legalább 10 000 m3,
 
-e) az ásványolaj-regeneráló üzemben és az egyébásványolaj-gyártó adóraktárban – a (16) bekezdésben foglalt eltéréssel – legalább 500 m3,
+e) az ásványolaj-regeneráló üzemben és az egyébásványolaj-gyártó adóraktárban – a (16) és a (17) bekezdésben foglalt eltéréssel – legalább 500 m3,
 
 f) a kikötői adóraktárban legalább 100 m3,
 
@@ -74,13 +76,15 @@ e) a kikötői adóraktár esetén legfeljebb 200 millió Ft, a repülőtéri ad
 
 f) az ásványolaj-regeneráló üzem esetén legalább 60 millió forint,
 
-g) egyébásványolaj-gyártó adóraktár esetén – a (16) bekezdésben foglalt eltéréssel –legalább 50, legfeljebb 150 millió forint,
+g) egyébásványolaj-gyártó adóraktár esetén – a (16) és a (17) bekezdésben foglalt eltéréssel – legalább 50, legfeljebb 150 millió forint,
 
 h) a bioüzemanyag-adóraktár esetén – az 52. § (1) bekezdés d) pontjában meghatározott adómérték figyelembevételével – legalább 25, legfeljebb 200 millió forint
 
 értékben kell nyújtani.
 
 A terméktávvezeték adóraktárra nem kell külön jövedéki biztosítékot nyújtani, ha az oda betároló adóraktár engedélyese azonos a terméktávvezeték adóraktár engedélyesével. Ebben az esetben a betároló adóraktárra nyújtott jövedéki biztosíték szolgál a terméktávvezeték jövedéki biztosítékaként is. Egyéb terméktávvezeték adóraktár esetében a jövedéki biztosíték 50 millió forint. A kísérleti előállítást végző üzem esetében a jövedéki biztosítékot az előállításra kerülő összes bioüzemanyag mennyiségére számított adótartalom kísérleti előállítás időszakának egy hónapra számított átlaga alapulvételével kell meghatározni azzal, hogy amennyiben az így számított jövedéki biztosíték összege nem éri el az 500 ezer forintot, a jövedéki biztosíték nyújtásától el kell tekinteni.
+
+(5a) A tiszta növényiolaj-gyártó adóraktár esetében a jövedéki biztosítékot a 38. § (2) bekezdésének figyelembe vételével kell meghatározni azzal, hogy ha az így számított jövedéki biztosíték összege nem éri el az 500 ezer forintot, a jövedéki biztosíték nyújtásától el kell tekinteni.
 
 (6) A repülőtéri adóraktár engedélyese, ha az adóraktára nem állandó nyitvatartással vagy nem a külön jogszabály szerint közzétett nyitvatartási idővel és nem állandó vámhatósági felügyelet mellett üzemelő repülőtéren van kialakítva, köteles a repülőtér megnyitását és bezárását azt megelőzően legalább 3 nappal korábban a vámhatósághoz bejelenteni. A repülőtér bezárásakor a repülőtéri adóraktár engedélyese jövedéki terméket csak olyan mennyiségben tarthat készleten, amelynek adótartalmára a jövedéki biztosítéka fedezetet nyújt.
 
@@ -104,7 +108,7 @@ engedélyezhető, amennyiben a hajó gázolaj tárolásra kialakított legalább
 
 (13) Kőolaj-finomítóban és finomítói ásványolajraktárban E85 előállítása is, kőolaj-finomítóban továbbá ETBE előállítása is végezhető, ezen adóraktárakra kiadott adóraktári engedély birtokában.
 
-(14) A kísérleti előállítást végző üzem esetében a 35–41. §-okban szabályozottakra, így az adóraktári engedélyezésre, az adóraktár-engedélyes bizonylatolási, nyilvántartási és elszámolási kötelezettségére – a jövedékibiztosíték-nyújtáson kívül – a külön jogszabályban meghatározott, eltérő rendelkezéseket kell alkalmazni.
+(14) A kísérleti előállítást végző üzem és a tiszta növényiolaj-gyártó adóraktár esetében a 35–41. §-t, így az adóraktári engedélyezésre, az adóraktár-engedélyes bizonylatolási, nyilvántartási és elszámolási kötelezettségére – a jövedékibiztosíték-nyújtáson kívül – jogszabályban meghatározott eltérésekkel kell alkalmazni.
 
 (15) A kísérleti előállítást végző üzemben előállított bioüzemanyag kizárólag a kísérleti fejlesztés keretében használható fel, egyébként meg kell semmisíteni.
 
@@ -123,3 +127,5 @@ da) az a) és b) pontban megjelölt ásványolajat, az adóraktári engedélyhez
 db) a c) pontban megjelölt ásványolaj mellett az a) és/vagy b) pontban megjelölt ásványolajat, legalább 150 millió forint értékben nyújtott jövedéki biztosíték és adóraktáranként legalább 500 m3
 
 talajjal egybeépített vagy talajhoz rögzített, az illetékes hatóság által engedélyezett és hitelesített tárolótartály szükséges.
+
+(17) Az olyan egyébásványolaj-gyártó adóraktár esetén, amely kizárólag az 52. § (1) bekezdés h) pontja szerinti terméket állít elő, az adóraktári engedélyhez legalább 10, legfeljebb 60 millió forint értékben nyújtott jövedéki biztosíték szükséges.

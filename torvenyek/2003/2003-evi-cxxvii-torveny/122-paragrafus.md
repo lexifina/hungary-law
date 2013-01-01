@@ -26,4 +26,4 @@ l) a Tanács 2010/24/EU irányelve (2010. március 16.) az adókból, vámokból
 
 m) a Tanács 2011/64/EU irányelve (2011. június 21.) a dohánygyártmányra alkalmazott jövedéki adó szerkezetéről és adókulcsáról.
 
-n)
+n) a Bizottság 2012/209/EU számú végrehajtási határozata (2012. április 20.) a 2008/118/EK tanácsi irányelv ellenőrzési és szállítási rendelkezéseinek a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével egyes adalékokra történő alkalmazásáról.

@@ -8,6 +8,6 @@ a) nyilvántartást nem vezeti, nyilvántartás-vezetési kötelezettségét val
 
 b) nyilvántartás havi zárását, összesítését, annak a vámhatósághoz történő benyújtását késedelmesen vagy nem teljesíti,
 
-c) 62/A. § szerinti bejelentési kötelezettségét elmulasztja.
+c) 62/A. § szerinti bejelentési, nyilvántartás-vezetési kötelezettségét elmulasztja.
 
 (3) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, a gazdálkodó szervezetre 300 ezer forintig terjedő mulasztási bírságot lehet kivetni az e törvényben és a végrehajtási rendeleteiben előírt kötelezettség megsértése, elmulasztása miatt, ha arra jogkövetkezményt sem e törvény 112. §-a, sem e § (2) bekezdése, sem az Art. nem határoz meg.

@@ -1,6 +1,6 @@
 ## A bor előállítása
 
-81. § (1) A bor előállítása – a (2) bekezdésben foglalt kivétellel – a 82. §-ban meghatározott egyszerűsített adóraktári engedéllyel vagy a 84. § szerinti boradóraktári engedéllyel lehetséges.
+81. § (1) A bor előállítása a 82. §-ban meghatározott egyszerűsített adóraktári engedéllyel vagy a 84. § szerinti boradóraktári engedéllyel lehetséges.
 
 (2)
 

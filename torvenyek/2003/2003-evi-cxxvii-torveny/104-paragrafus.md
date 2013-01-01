@@ -24,7 +24,7 @@ is rendelkezzen.
 
 (5) Az adóraktár engedélyese, illetve a bejegyzett kereskedő által a szabadforgalomban folytatott jövedéki engedélyes kereskedelmi tevékenységre a (2) bekezdés a) pontja szerinti jövedéki biztosítékot nem kell külön teljesíteni, amennyiben azt az adóraktárra, illetve a bejegyzett kereskedői tevékenységre nyújtott jövedéki biztosíték összege meghaladja. Ellenkező esetben a kereskedelmi jövedéki engedély megadásához, illetve érvényességéhez a különbözetre kell jövedéki biztosítékot nyújtani.
 
-(6) Amennyiben az importáló az importált jövedéki termékét jövedéki engedélyes kereskedelmi tevékenység keretében értékesíti, vagy a jövedéki engedélyes kereskedő a jövedéki termékét exportálja, a (2) bekezdés a) pontja szerinti jövedéki biztosítékot csak az egyik tevékenysége után kell nyújtania.
+(6) Amennyiben az importáló az importált jövedéki termékét jövedéki engedélyes kereskedelmi tevékenység keretében értékesíti, vagy a jövedéki engedélyes kereskedő a jövedéki termékét exportálja, vagy ha a jövedéki engedélyes kereskedő a légiutas-ellátási tevékenység keretében jövedéki engedélyes kereskedelmi tevékenységet és importtevékenységet is folytat, a (2) bekezdés a) pontja szerinti jövedéki biztosítékot csak az egyik tevékenysége után kell nyújtania.
 
 (7) Ha a jövedéki engedélyes kereskedő, az exportáló és az importáló ásványolajat és egyéb jövedéki terméket egyaránt forgalmaz, exportál, importál, a (2) bekezdés a) pontjában meghatározott jövedéki biztosítékot 142 millió forint összegben kell teljesíteni.
 
@@ -36,7 +36,7 @@ is rendelkezzen.
 
 a) kizárólag szőlőborral folytató személynek a jövedéki engedély megszerzéséhez nem kell,
 
-b) kizárólag 5 liter/5 kilogramm vagy annál kisebb kiszerelésű üzemanyag-adalékkal folytató személynek 1 millió Ft összegben kell,
+b) kizárólag 5 liter/5 kilogramm vagy annál kisebb kiszerelésű, az 52. § (1) bekezdés h) pontja szerinti termékkel folytató személynek 1 millió Ft összegben kell,
 
 c) kizárólag sörfőzdében előállított sörrel folytató, sörfőzdét működtető személynek 500 ezer forint összegben kell
 
@@ -68,7 +68,13 @@ d) az engedélyt a vámhatóság visszavonja.
 
 a) a jövedéki engedélyes kereskedő, exportáló, importáló ellen felszámolási eljárás indult,
 
-b) a jövedéki engedélyes kereskedő, exportáló, importáló az adóhatósághoz, illetve a vámhatósághoz teljesítendő adóbevallási, adófizetési, társadalombiztosítási járulék fizetési kötelezettségét vagy vámtartozását a határidőt, illetve az esedékességet 60 nappal meghaladóan késedelmesen teljesítette, vagy azt követően sem teljesítette, vagy a vámhatóság, illetve az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. §-ának (2) bekezdése kizárja,
+b) a jövedéki engedélyes kereskedő, exportáló, importáló
+
+ba) az adóhatósághoz vagy a vámhatósághoz teljesítendő adóbevallási kötelezettségét a határidőt követő 60 napon belül nem teljesítette,
+
+bb) az adóhatósághoz vagy a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha a jövedéki engedélyes kereskedő, exportáló, importáló a jövedéki engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
+
+bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (1) bekezdése kizárja,
 
 c) a 104. § (2) bekezdés a), b) pontjában és (3) bekezdésében meghatározott feltételek nem teljesülnek,
 

@@ -28,9 +28,9 @@ adható.
 
 a) a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló helyen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzlet és az üzlet áruellátását biztosító raktár együttes területére (a továbbiakban: tranzitadóraktár),
 
-b)
+b) a nemzetközi közforgalmú repülőtéren a harmadik országba közvetlenül repülő repülőgépek fedélzetén az utasoknak felszolgált termékek tárolására (a továbbiakban: utasellátó adóraktár).
 
-(3) A tranzitadóraktárban alkoholtermék mellett adózatlan sör, bor, pezsgő, köztes alkoholtermék és dohánygyártmány a (2) bekezdés szerinti céllal történő adómentes tárolása is megengedett.
+(3) A tranzitadóraktárban és az utasellátó adóraktárban alkoholtermék mellett adózatlan sör, bor, pezsgő, köztes alkoholtermék és dohánygyártmány a (2) bekezdés szerinti céllal történő adómentes tárolása is megengedett.
 
 (4) Az italgyár és a szeszfőzde engedélyesének üzemi szeszraktárába nem saját előállítású, 2208 vámtarifaszám alá tartozó alkoholtermék legfeljebb az egy naptári év alatt előállított, a 73. § (9)–(10) bekezdése szerinti kiszerelésű, saját gyártású alkoholtermék 25%-ának megfelelő mennyiségben tárolható be évente. Az italgyár és a szeszfőzde engedélyese ezt meghaladó mennyiséget abban az esetben tárolhat be az üzemi szeszraktárába, ha a (6) bekezdésben foglalt feltételt, továbbá az alkoholtároló adóraktár esetében nyújtandó jövedéki biztosítékot külön teljesíti. A szeszüzem engedélyesének üzemi szeszraktárába nem saját előállítású, 2207 vámtarifaszám alá tartozó alkoholtermék legfeljebb az egy naptári év alatt előállított saját gyártású alkoholtermék 25%-ának megfelelő mennyiségben tárolható be évente.
 
@@ -44,7 +44,7 @@ b) a raktárban számítógépes raktárgazdálkodási rendszert működtetnek.
 
 (7) A jövedéki biztosítékot az (1) bekezdés szerinti adóraktárak esetében – a (8) bekezdésben foglalt eltéréssel – adóraktáranként legalább 40 millió forint, de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 200 millió forint értékben kell teljesíteni. Az egy helyrajzi számon vagy az összefüggő helyrajzi számokon szereplő szeszüzem, italgyár, szeszfőzde és üzemi szeszraktár a jövedéki biztosíték szempontjából egy adóraktárnak minősül. A nem összefüggő helyrajzi számokon szereplő, de a gyártástechnológiai folyamatból fakadóan egy technológiai egységet képező, csővezetékrendszerrel összekötött üzem, raktár egy adóraktárnak tekintendő.
 
-(8) A jövedéki biztosítékot a kizárólag bérfőzést végző szeszfőzdére 500 ezer forint, az etanolüzemre legalább 1 millió forint, a szeszfőzdére és az egyéb alkoholtermék-adóraktárra legalább 10 millió forint értékben kell nyújtani. Amennyiben a szeszüzem éves etilalkohol-gyártó kapacitása nem haladja meg az évi 50 ezer hektolitert, és a szeszüzemben kizárólag legalább 80, legfeljebb 92 térfogatszázalék alkoholtartalmú, finomítatlan, élelmiszeripari alapanyagkénti felhasználásra alkalmatlan etilalkoholt állítanak elő egy desztillációs lépésben, a jövedéki biztosítékot legfeljebb 25 millió forint értékben kell nyújtani.
+(8) A jövedéki biztosítékot a kizárólag bérfőzést végző szeszfőzdére 200 ezer forint, az etanolüzemre legalább 1 millió forint, az évi legfeljebb 20 hektoliter tiszta szesz tartalmú alkoholterméket előállító kereskedelmi szeszfőzdére 2 millió forint, más szeszfőzdére és az egyéb alkoholtermék-adóraktárra legalább 10 millió forint értékben kell nyújtani. Amennyiben a szeszüzem éves etilalkohol-gyártó kapacitása nem haladja meg az évi 50 ezer hektolitert, és a szeszüzemben kizárólag legalább 80, legfeljebb 92 térfogatszázalék alkoholtartalmú, finomítatlan, élelmiszer-ipari alapanyagkénti felhasználásra alkalmatlan etilalkoholt állítanak elő egy desztillációs lépésben, a jövedéki biztosítékot legfeljebb 25 millió forint értékben kell nyújtani.
 
 (8a) Az alkoholtároló adóraktár-engedélyes nem teljesített adófizetési kötelezettségének összege 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
 

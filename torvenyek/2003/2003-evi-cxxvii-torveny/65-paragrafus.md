@@ -4,7 +4,7 @@
 
 a) a szeszfőzde a terméket átadja a bérfőzetőnek, vagy
 
-b) a szeszfőzde a terméket még nem adta át a bérfőzetőnek, de az adó összege elérte az 500 ezer forintot, vagy
+b) a szeszfőzde a terméket még nem adta át a bérfőzetőnek, de az adó összege elérte a 200 ezer forintot, vagy
 
 c) a külön jogszabály szerinti elszámolási időszak (a továbbiakban: elszámolási időszak) utolsó napján a szeszfőzdében a bérfőzető által még el nem szállított bérfőzött párlat található;
 

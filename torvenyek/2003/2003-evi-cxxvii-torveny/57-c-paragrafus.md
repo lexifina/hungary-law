@@ -6,7 +6,7 @@ b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi tele
 
 kereskedelmi gázolaj után literenként 17 Ft visszaigényelhető.
 
-(2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iráni kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását haladéktalanul köteles a vámhatósághoz bejelenteni.
+(2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iránti kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását legkésőbb a változás bekövetkezésétől számított 10 napon belül köteles a vámhatósághoz bejelenteni.
 
 (3) A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező, kereskedelmi járművet üzemeltető személy esetében e § rendelkezése a más tagállamban vagy EFTA-országban (azaz Norvégiában, Svájcban, Liechtensteinben vagy Izlandon) regisztrált és ott kiadott nemzetközi fuvarozási engedéllyel rendelkező személyre alkalmazható.
 
@@ -22,9 +22,11 @@ b) az (1) bekezdés b) pont szerinti esetben a telephelyen történt tankolások
 
 (6) Az adó-visszaigénylésre jogosult az adó-visszaigénylést – a 48. § (13) bekezdésében foglaltaktól eltérően – választása szerint az adott évre vonatkozóan
 
-a) évente, legkorábban a tárgyévet követő év január hónapjának 20. napjától, vagy
+a) évente, legkorábban a tárgyévet követő év január hónapjának 20. napjától,
 
-b) negyedévente, legkorábban a tárgynegyedévet követő hónap 20. napjától
+b) negyedévente, legkorábban a tárgynegyedévet követő hónap 20. napjától vagy
+
+c) havonta, legkorábban a tárgyhót követő hónap 20. napjától
 
 igényelheti.
 

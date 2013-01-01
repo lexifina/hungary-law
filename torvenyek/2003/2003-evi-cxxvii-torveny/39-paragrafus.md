@@ -14,7 +14,13 @@ d) az engedélyt a vámhatóság visszavonja.
 
 a) az adóraktár engedélyese ellen felszámolási eljárás indult;
 
-b) az adóraktár engedélyese az adóhatósághoz, illetve a vámhatósághoz teljesítendő adóbevallási, adófizetési, társadalombiztosítási járulék fizetési kötelezettségét vagy vámtartozását a határidőt, illetve az esedékességet 60 nappal meghaladóan késedelmesen teljesítette, vagy azt követően sem teljesítette, vagy a vámhatóság, illetve az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. §-ának (2) bekezdése kizárja;
+b) az adóraktár engedélyes
+
+ba) az adóhatósághoz vagy a vámhatósághoz teljesítendő adóbevallási kötelezettségét a határidőt követő 60 napon belül nem teljesítette,
+
+bb) az adóhatósághoz vagy a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az engedélyes az adóraktári engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
+
+bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (1) bekezdése kizárja;
 
 c) az adóraktár engedélyese a 37. § (10) bekezdése szerinti hiányosság megszüntetésére a vámhatóság által megadott határidőn belül nem intézkedik;
 

@@ -16,7 +16,7 @@ adható.
 
 (4) A bor adóraktári engedély megadásának nem feltétele a bor tárolására szolgáló tároló eszközök hitelesítése.
 
-(5) Az (1) bekezdésben foglalt eseteken kívül az egyéb bor adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra is adható a 72. § (2)–(3) bekezdése szerint, továbbá az egyébbor-tároló adóraktárban az egyéb boron kívül adózatlan, a 73. § (9)–(10) bekezdése szerint kiszerelt alkoholtermék, sör, pezsgő és köztes alkoholtermék tárolása is megengedett.
+(5) Az (1) bekezdésben foglalt eseteken kívül az egyéb bor adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra, valamint utasellátó adóraktárra is adható a 72. § (2)–(3) bekezdése szerint, továbbá az egyébbor-tároló adóraktárban az egyéb boron kívül adózatlan, a 73. § (9)–(10) bekezdése szerint kiszerelt alkoholtermék, sör, pezsgő és köztes alkoholtermék tárolása is megengedett.
 
 (6) A jövedéki biztosítékot adóraktár engedélyesenként legfeljebb 10 millió forint, illetve az egyéb bor tároló adóraktár esetében legalább 1 millió forint, de legfeljebb 10 millió forint értékben kell nyújtani.
 

@@ -50,22 +50,24 @@ d) a 2901 10 vámtarifaszám alatti termék,
 
 e) a 2902 20 00, 2902 30 00, 2902 41 00, 2902 42 00, 2902 43 00 és a 2902 44 00 vámtarifaszám alatti termék
 
+f) a 3811 11 10, 3811 11 90, 3811 19 00 és a 3811 90 00 vámtarifaszám alatti termék
+
 minősül.
 
-(4) E törvény alkalmazásában megfigyelt terméknek – az (5) bekezdésben foglalt eltéréssel – az 5 liternél/5 kilogrammnál nagyobb kiszerelésű,
+(4) E törvény alkalmazásában megfigyelt terméknek az 5 liternél/5 kilogrammnál nagyobb kiszerelésű,
 
 a) 2709 00 10 vámtarifaszám alatti termék, kivéve a stabilizálatlan (50 °C-on 0,7 barnál nagyobb gőznyomású) gazolint,
 
 b) 2710 19 71, 2710 19 75 vámtarifaszám alatti termék,
 
-c) 3811 vámtarifaszám alatti termék,
+c) 3811 21 00 és 3811 29 00 vámtarifaszám alatti termék,
 
 d) 3814 00 90 vámtarifaszám alatti termék, amennyiben legalább 95 térfogatszázalékban kőolajból és bitumenes ásványokból nyert olajat tartalmaz,
 
 e) 3814 00 90 vámtarifaszám alatti termék, amennyiben legalább 85 térfogatszázalékban etilalkoholt tartalmaz,
 
-f) 3824 90 99 vámtarifaszám alá tartozó biodízel
+f)
 
 minősül.
 
-(5) A (4) bekezdés c) pontjában megjelölt, 3811 vámtarifaszám alatti termékek közül az üzemanyagok adalékanyaga, hígítóanyaga (a továbbiakban: üzemanyagadalék) és a (4) bekezdés f) pontjában megjelölt biodízel a kiszerelés nagyságától függetlenül tekintendő megfigyelt terméknek.
+(5)

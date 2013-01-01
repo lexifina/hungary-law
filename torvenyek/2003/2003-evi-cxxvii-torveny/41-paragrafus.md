@@ -1,4 +1,4 @@
-41. § (1) Az adóraktár engedélyese – a sűrítettgáz-töltő adóraktár és a tranzitadóraktár engedélyese kivételével – a jövedéki termék értékesítéséről vevőnként (címzettenként), – ásványolaj-tároló adóraktárból a raktározott ásványolajtermék tulajdonosának történő kitárolás esetén tulajdonosonként – külön nyilvántartást is köteles vezetni, és az értékesített, kitárolt jövedéki termék értékét és mennyiségét havonta, tárgyhó végén összesíteni.
+41. § (1) Az adóraktár engedélyese – a sűrítettgáz-töltő adóraktár és a tranzitadóraktár, valamint az utasellátó adóraktár engedélyese kivételével – a jövedéki termék értékesítéséről vevőnként (címzettenként), – ásványolaj-tároló adóraktárból a raktározott ásványolajtermék tulajdonosának történő kitárolás esetén tulajdonosonként – külön nyilvántartást is köteles vezetni, és az értékesített, kitárolt jövedéki termék értékét és mennyiségét havonta, tárgyhó végén összesíteni.
 
 (2) A vevőnyilvántartás tartalmazza
 
