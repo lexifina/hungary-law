@@ -1,0 +1,21 @@
+## 20. § A fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet 29. §-a helyébe a következő rendelkezés lép:
+
+## „29. § (1) A Kormány a kizárólag állati eredetű melléktermékek égetését vagy együttégetését végző üzem engedélyezésére irányuló első fokú eljárásban – a hulladék égetésére vonatkozó levegőtisztaság-védelmi, hulladékgazdálkodási előírásoknak és határértékeknek való megfelelés, valamint a levegővédelmi ellenőrzések gyakorisága előírásának szakkérdésében –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+
+## (2) A Kormány a kísérleti vagy tudományos célú tevékenység, illetve fajtaszelekciós munka céljára a külön jogszabályban meghatározott, tilalmazott, Magyarországon nem honos károsítónak, illetve az egyéb, Magyarországon nem honos, életképes növényi károsító bármely fejlődési alakjának, tenyészetének Magyarországra való behozatala engedélyezésére irányuló első fokú eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+
+## (3) A Kormány a nem emberi fogyasztásra szánt állati eredetű melléktermékekre és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EK rendelet hatályon kívül helyezéséről szóló, 2009. október 21-i 1069/2009/EK európai parlamenti és tanácsi rendelet 24. cikk (1) bekezdés a) és e)–j) pontjaiban meghatározott tevékenység(ek)et végző üzem működésének engedélyezésére irányuló első fokú eljárásban,
+
+## a) – az egészségkárosító kockázatok és esetleges hatások felmérésére, a higiénés és egészségvédelmi, a települési hulladékkal, és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésének kérdésében –, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét, valamint
+
+## b) ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges – a hulladékkezelésre vonatkozó jogszabályi követelmények teljesülésének vizsgálata, valamint a hulladékgazdálkodási előírások alapján a technológiából származó környezetterhelések kockázatának megítélése kérdésében, illetve barlang védőövezetén belüli engedélyezés esetén, annak elbírálása kérdésében, hogy a védőövezetben tervezett tevékenység a barlang védelmére vonatkozó jogszabályi követelményeknek a kérelem szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget
+
+## szakhatóságként jelöli ki.
+
+## (4) A Kormány a kegyeleti állattemető működésének engedélyezésére irányuló első fokú eljárásban – az egészségkárosító kockázatok és esetleges hatások felmérésére, az egészségvédelmi, a települési hulladékkal, és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésének kérdésében –, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét szakhatóságként jelöli ki.”
+
+## 21. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosítása
+
+21. § (1) A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet (a továbbiakban: Kr.) 117. § (2) bekezdésében a „hulladékgazdálkodásról szóló 2000. évi XLIII.” szövegrész helyébe a „hulladékról szóló” szöveg lép.
+
+(2) A Kr. 117. § (5) bekezdés c) pontjában a „224/2004. (VII. 22.) Korm. rendelet” szövegrész helyébe a „kormányrendelet” szöveg lép.
