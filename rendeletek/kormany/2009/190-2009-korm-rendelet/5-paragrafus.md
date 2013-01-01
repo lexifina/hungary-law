@@ -2,10 +2,15 @@
 
 (2) Települési főépítész esetében az (1) bekezdés szerinti szakmai gyakorlati idő legalább öt év.
 
-(3) A főépítésznek a főépítészi munkakörben eltöltött ötévenként a miniszter által jóváhagyott szakmai továbbképzésen kell részt vennie.
+(3)[^13]
 
-(4) Részben mentesül a főépítész a továbbképzésen való részvétel alól, ha a külön jogszabályban szabályozott, az egyes építésügyi szakmagyakorlási tevékenységekhez kötelezően előírt továbbképzést teljesítette. Ebben az esetben a főépítésznek az azonos tartalmú szakmai továbbképzésen nem kell részt vennie.
+(4)[^14]
 
-(5) Az állami főépítészek továbbképzéséről a miniszter, az önkormányzati főépítészek továbbképzéséről az állami főépítész gondoskodik.
+(5)[^15]
 
-(6) A továbbképzés határidejének elmulasztása esetén – a mentesítésre vonatkozó előírások kivételével – a főépítész főépítészi munkakörben nem foglalkoztatható tovább.
+(6)[^16]
+
+[^13]: Az 5. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
+[^14]: Az 5. § (4) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
+[^15]: Az 5. § (5) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
+[^16]: Az 5. § (6) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.

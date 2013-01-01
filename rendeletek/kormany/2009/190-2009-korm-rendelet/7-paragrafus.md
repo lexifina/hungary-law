@@ -6,7 +6,7 @@ a) szakmai segítséget nyújt az önkormányzati főépítészi feladatok ellá
 
 b) az egységes szakmai szempontok – különösen az általános érvényű terület- és településrendezési, illetve építési követelmények – érvényesítése érdekében elősegíti és szükség szerint koordinálja az önkormányzatok terület- és településrendezéssel, valamint az építészeti értékvédelemmel kapcsolatos döntéseinek főépítészi előkészítését,
 
-c) gondoskodik az önkormányzati főépítészek szakmai továbbképzéséről,
+c)[^20]
 
 d) elősegíti a területi településpolitikai és építészetpolitikai elvek és elvárások koncepcionális kialakítását,
 
@@ -14,10 +14,16 @@ e) ellátja a külön jogszabályokban a hatáskörébe utalt hatósági feladat
 
 f) vezeti a területi tervtanácsot,
 
-g) gondoskodik a területi tervtanács nyilvántartásának vezetéséről, és abból, valamint az önkormányzati főépítészek és a szakmai kamarák által vezetett tervtanácsi nyilvántartásokból adatokat szolgáltat a miniszternek,
+g)[^21]
 
-h) ellátja az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 9. §-ában meghatározott szakmai ellenőrzési feladatokat a településrendezési eszközök tekintetében,
+h)[^22] ellátja a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározott szakmai feladatokat.
 
-i) a h) pontban foglaltakkal összefüggésben jogsértés esetén a bírósághoz, illetve az Alkotmánybírósághoz fordul,
+i)[^23]
 
-j) nyilvántartást vezet az önkormányzati főépítészek e feladatkörével összefüggő, közérdekű nyilvános személyes adatairól.
+j)[^24]
+
+[^20]: A 7. § c) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte.
+[^21]: A 7. § g) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte.
+[^22]: A 7. § h) pontja a 322/2012. (XI. 16.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^23]: A 7. § i) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte.
+[^24]: A 7. § j) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte.

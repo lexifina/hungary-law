@@ -98,7 +98,7 @@
 
 ## 6. a településrendezési eszközök tartalmi és egyeztetési követelményeit.
 
-2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^9]
+2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^38]
 
 |  | A | B | C |
 
@@ -122,4 +122,4 @@
 
 | 9. | Baranya Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Pécs | Tolna megye és Baranya megye területe |
 
-[^9]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 329/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^38]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 329/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
