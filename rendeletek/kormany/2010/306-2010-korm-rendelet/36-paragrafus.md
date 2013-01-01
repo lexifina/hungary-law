@@ -4,7 +4,7 @@
 
 36. § (1) A levegőtisztaság-védelmi ügyben az elsőfokú hatósági jogkört – a (2)–(4) bekezdésben foglalt kivétellel – a felügyelőség gyakorolja.
 
-(2) A települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvényben meghatározott kistérség körzetközponti feladatot ellátó települési, a főváros esetében a kerületi önkormányzat jegyzője
+(2)[^6] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 a) a legfeljebb 500 kWth névleges bemenő hőteljesítményű, háztartási és közintézmény tüzelőberendezés forrásával,
 
@@ -16,6 +16,8 @@ d) a nem gazdasági tevékenység keretében végzett tevékenység okozta bűzt
 
 e) a nem gazdasági tevékenység keretében működő diffúz légszennyező forrással
 
-kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el első fokon.
+## kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el első fokon.
 
 (3) A polgármester, fővárosban a főpolgármester a füstköd-riadó terv végrehajtásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el első fokon.
+
+[^6]: A 36. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 76. §-ával megállapított szöveg.
