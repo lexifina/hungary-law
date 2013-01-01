@@ -6,6 +6,12 @@
 
 (2) A (3) bekezdés 2013. január 1-jén lép hatályba.
 
-(3)[^1]
+(3) E rendelet
 
-[^1]: A 15. § (3) bekezdése a (2) bekezdés alapján 2013. január 1-jén lép hatályba.
+a) 4. § (2) bekezdésében a „kerületi állategészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: kerületi hivatal)” szövegrész helyébe a „járási állategészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: járási állategészségügyi hivatal)” szöveg,
+
+b) 4. § (3) bekezdésében a „kerületi hivatalnak” szövegrész helyébe a „járási állategészségügyi hivatalnak” szöveg,
+
+c) 5. § (1) bekezdésében a „kerületi hivatalt” szövegrész helyébe a „járási állategészségügyi hivatalt” szöveg
+
+d) 10. § b) pontjában a „kerületi hivatal” szövegrész helyébe a „járási állategészségügyi hivatal” szöveg
