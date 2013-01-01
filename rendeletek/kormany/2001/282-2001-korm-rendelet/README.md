@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-282-20-
 | 2010-12-23 | 2001-282-20-22.22 | 297/2010. (XII. 23.) Korm. rendelet |
 | 2011-01-01 | 2001-282-20-22.23 | 331/2004. (XII. 11.) Korm. rendelet |
 | 2011-05-31 | 2001-282-20-22.24 | 297/2010. (XII. 23.) Korm. rendelet |
+| 2013-01-01 | 2001-282-20-22.25 | 425/2012. (XII. 29.) Korm. rendelet |

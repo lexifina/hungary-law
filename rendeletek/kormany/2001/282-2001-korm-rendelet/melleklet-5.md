@@ -1,3 +1,5 @@
+## A 10 éves vagyonnövekedési mutató meghatározása
+
 ## A pénztárnak a vagyonnövekedési mutatót a következő képlet szerint kell meghatároznia:
 
 ## ahol
