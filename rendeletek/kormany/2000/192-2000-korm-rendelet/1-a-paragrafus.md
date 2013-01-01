@@ -10,8 +10,8 @@
 
 4. Információs Központ: a Bit. 3. §-a (1) bekezdésének 27. pontja szerint meghatározott fogalom.
 
-5.[^4] megszolgált bruttó díj: egy adott időszakra vonatkozóan azon díjak összege, amelyek a biztosító által az adott időszakban fedezett kockázatokhoz kapcsolódnak.
+5.[^4] megszolgált díj, viszontbiztosítás nélkül: egy adott időszakra vonatkozóan azon díjak összege, amelyek a biztosító által az adott időszakban fedezett kockázatok saját megtartású részéhez kapcsolódnak.
 
 [^2]: Az 1/A. §-t megelőző címet a 334/2005. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
 [^3]: Az 1/A. §-t a 334/2005. (XII. 29.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^4]: Az 1/A. § 5. pontját a 342/2011. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1/A. § 5. pontját a 342/2011. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 382/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.

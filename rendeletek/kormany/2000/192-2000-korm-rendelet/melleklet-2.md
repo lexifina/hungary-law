@@ -44,9 +44,9 @@
 
 ## C. A befektetési egységekhez kötött (unit-linked) életbiztosítások szerződői javára végrehajtott befektetések
 
-## D. Követelések
+## D. Követelések[^112]
 
-## I. Közvetlen biztosítási ügyletből származó követelések
+## I. Közvetlen biztosítási tevékenységből származó követelések
 
 ## 1. Követelések a biztosítási kötvénytulajdonosoktól
 
@@ -58,7 +58,17 @@
 
 ## 2. Követelések a biztosítási közvetítőktől
 
-## ebből: a) kapcsolt vállalkozástól
+## ebből:
+
+## a) kapcsolt vállalkozástól
+
+## b) egyéb részesedési viszonyban lévő vállalkozástól
+
+## 3. Egyéb közvetlen biztosítási tevékenységből származó követelések
+
+## ebből:
+
+## a) kapcsolt vállalkozástól
 
 ## b) egyéb részesedési viszonyban lévő vállalkozástól
 
@@ -130,7 +140,7 @@
 
 ## B. Alárendelt kölcsöntőke
 
-## C.[^101] Biztosítástechnikai tartalékok
+## C.[^113] Biztosítástechnikai tartalékok
 
 ## 1. Meg nem szolgált díjak tartaléka [a)+b)]
 
@@ -228,9 +238,9 @@
 
 ## F. Viszontbiztosítóval szembeni letéti kötelezettségek
 
-## G. Kötelezettségek
+## G. Kötelezettségek[^114]
 
-## I. Kötelezettségek közvetlen biztosítási ügyletekből
+## I. Kötelezettségek közvetlen biztosítási tevékenységből
 
 ## ebből:
 
@@ -282,7 +292,9 @@
 
 ## 3. Halasztott bevételek
 
-2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^102]
+2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^115]
 
-[^101]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^102]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^112]: Az 1. számú melléklet D . Követelések része a 382/2012. (XII. 19.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^113]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^114]: Az 1. számú melléklet G. Kötelezettségek része a 382/2012. (XII. 19.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^115]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.

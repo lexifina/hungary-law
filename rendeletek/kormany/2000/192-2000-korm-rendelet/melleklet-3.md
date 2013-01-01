@@ -342,7 +342,7 @@
 
 ## Ez a sor tartalmazza a nem-életbiztosítási ághoz kapcsolódó tartalékok fedezetéül szolgáló befektetések bevételéből átvezetett, a biztosítottaknak visszajuttatandó eredményt.
 
-## A/03. és B/04. sor[^103]: Egyéb biztosítástechnikai bevétel
+## A/03. és B/04. sor[^116]: Egyéb biztosítástechnikai bevétel
 
 ## Itt kell kimutatni a biztosítási tevékenységből eredő, az előbbiek közé nem tartozó egyéb biztosítási bevételek összegét.
 
@@ -372,6 +372,42 @@
 
 ## Saját tulajdonú és használatú ingatlanok miatti korrekcióként kell kimutatni azt az összeget, amelyet a saját tulajdonú, saját használatban lévő ingatlanok bérbeadása esetén bérleti díj címén a biztosító elérhetne (realizálhatna).
 
+## A c) pontban kell többek között kimutatni a külföldi pénzértékre szóló befektetések 6. § (2) bekezdése szerinti értékeléséből adódó árfolyamnyereséget.”
+
+## szövegrész helyébe a
+
+## „A/03. és B/04. sor: Egyéb biztosítástechnikai bevétel
+
+## Itt kell kimutatni a biztosítási tevékenységből eredő, az előbbiek közé nem tartozó egyéb biztosítási bevételek összegét.
+
+## Egyéb biztosítástechnikai bevételként kell nyilvántartásba venni a szerződés megkötését követő 30 napon belül az ügyfél által történő felmondáshoz kapcsolódóan, a szerzési költségnek minősülő költségek szerződésben vagy jogszabályban meghatározott mértékben történő ügyfél általi megtérítését.
+
+## Itt kell elszámolni továbbá a nem élet-biztosítási ág biztosítástechnikai tartalékainak fedezetét jelentő külföldi pénznemre szóló befektetések deviza árfolyamváltozásból adódó realizált és nem realizált eredményét, ha az nyereségjellegű.
+
+## A/04. és B/05. sor: Károk ráfordításai
+
+## Ezeken a sorokon kell szerepeltetni a biztosítási szerződések alapján a tárgyévben fizetett bruttó kártérítéseket és szolgáltatások ráfordításait függetlenül attól, hogy az mely biztosítási teljesítési időszakot terheli.
+
+## Bruttó kár: a bruttó kárfizetés, a biztosítottnak, a szerződőnek (viszontbiztosítást és együttbiztosítást is beleértve) ténylegesen fizetett kártérítés.
+
+## Bruttó egyéb biztosítási szolgáltatások közé tartoznak a bizonylatokkal igazoltan kármegelőzés címén kifizetett összegek, valamint a biztosítási szerződésben vállalt kiegészítő szolgáltatások miatti kötelezettségekhez kapcsolódó ráfordítások (pl. a CSÉB-szerződésekben a betegség, gyermek születés és halálozás, gyermekgondozás stb. esetére vállalt kiegészítő jellegű szolgáltatások miatt felmerült szociális célú ráfordítások stb.).
+
+## Kárrendezési költségek (ráfordítások) közé tartoznak a kárszakértők, kárügyintézők bére, társadalombiztosítási járulékai, utazási és egyéb költségtérítései, a kárrendezést végző jogi személyeknek fizetett költségtérítések, konkrét kárügyekhez tartozó dokumentumokért fizetett költségek, és az önállóan működtetett vagy jól elhatárolható kárrendezési helyek működési és fenntartási költségei (ideértve a kárrendezést is végző fiókok kárrendezéssel kapcsolatos költségeit).
+
+## A károk ráfordításait csökkentő tételként kell kimutatni a szerződő, a biztosított vagy a harmadik fél által a mérlegfordulónapig megtérített károk, kárrendezési költségek összegét.
+
+## Itt kell továbbá kimutatni a függő károk tartalékainak változását is.
+
+## Kárráfordításként kell kimutatni a biztosítottnak (szerződőnek, kedvezményezettnek) juttatott eredménytől független díj-visszatérítés összegét is, amennyiben a szerződés a díj összegét nem módosítja. Ha a szerződés a díj nagyságát is módosítja, akkor a visszatérítés összegével az elszámolt díjbevételt kell csökkenteni.
+
+## B/02. sor: Biztosítástechnikai bevételek befektetésekből
+
+## Az eredménykimutatás ezen során szereplő összeg az életbiztosítási ághoz kapcsolódó tartalékok fedezetéül szolgáló befektetések bevételét tartalmazza, bevételi jogcímek szerinti megbontásban, továbbá mínusz előjellel külön soron a 9. § (3) bekezdése szerint az életbiztosítási ág befektetéseinek biztosítástechnikai bevételeiből a befektetések nettó eredményébe átvezetett eredmény összegét.
+
+## A ba) alpontban és/vagy a C/03. sorban kell kimutatni a saját tulajdonú, saját használatú ingatlanok miatt végrehajtott bevétel korrekciót is, a költségek között ilyen jogcímen elszámolt tételek összegével megegyezően.
+
+## Saját tulajdonú és használatú ingatlanok miatti korrekcióként kell kimutatni azt az összeget, amelyet a saját tulajdonú, saját használatban lévő ingatlanok bérbeadása esetén bérleti díj címén a biztosító elérhetne (realizálhatna).
+
 ## A c) pontban kell többek között kimutatni a külföldi pénzértékre szóló befektetések 6. § (2) bekezdése szerinti értékeléséből adódó árfolyamnyereséget.
 
 ## B/09. sor:
@@ -390,11 +426,13 @@
 
 ## A c) pontban kell többek között kimutatni a külföldi pénzértékre szóló befektetések 6. § (2) bekezdése szerinti értékeléséből adódó árfolyamveszteséget.
 
-## A/10. és B/14. sor: Egyéb biztosítástechnikai ráfordítások
+## A/10. és B/14. sor:[^117] Egyéb biztosítástechnikai ráfordítások
 
 ## Itt kell kimutatni a biztosítási tevékenységből eredő és az előbbi sorok ráfordításai közé nem tartozó, biztosítási szerződésekhez közvetlenül kapcsolható egyéb biztosítási ráfordítások összegét. Ide kell elszámolni a Kártalanítási Számlával szemben elszámolt összeget is, ha az veszteségjellegű.
 
 ## Ha a Kártalanítási Számlával szemben elszámolt összeg nyereségjellegű, azt az Egyéb biztosítástechnikai bevételek soron kell kimutatni.
+
+## Itt kell elszámolni továbbá a nem élet-biztosítási ág biztosítástechnikai tartalékainak fedezetét jelentő külföldi pénznemre szóló befektetések deviza árfolyamváltozásból adódó realizált és nem realizált eredményét, ha az veszteségjellegű.
 
 ## C/09. sor: Befektetések értékesítésének árfolyamvesztesége, befektetések egyéb ráfordításai
 
@@ -412,7 +450,8 @@
 
 ## Itt kell szerepeltetni – a 9. § (11) bekezdésének előírásait is figyelembe véve – a Tv. szerinti egyéb ráfordítások közé tartozó tételek összegét, továbbá a nem biztosítási tevékenységhez kapcsolódó ráfordításokat is (pl. iparűzési adó). Nem szabad ide beállítani a biztosítási állományhoz kapcsolódó ingatlanok értékesítésének ráfordításait (nettó értékét).
 
-3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^104]
+3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^118]
 
-[^103]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a szerint módosított szöveg, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^104]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a, a 342/2011. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^116]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a, a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^117]: A 2. számú melléklet A/10. és B/14. sor szövege a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^118]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a, a 342/2011. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
