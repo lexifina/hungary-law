@@ -55,3 +55,11 @@
 ## 21. iparjogvédelmi jogok megsértése [Btk. 388. § (2)–(3) bekezdés, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 329/D. § (2)–(3) bekezdés],
 
 ## 22. pénzhamisítás (Btk. 389. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 304. §) és a pénzhamisítás elősegítése (Btk. 390. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 304/A. §),
+
+## 23. költségvetési csalás [Btk. 396. § (2)–(7) bekezdés, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 310. § (2)–(7) bekezdés], amelyen érteni kell a 2011. december 31-ig hatályban volt adócsalást, visszaélés jövedékkel bűncselekményt, valamint a csempészet súlyosabban minősülő eseteit is,
+
+## 24. pénzmosás (Btk. 399–400. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 303–303/A. §),
+
+## 25. versenytárs utánzása (Btk. 419. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti áru hamis megjelölése (1978. évi IV. törvény 296. §).
+
+## ”

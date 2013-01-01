@@ -1,1 +1,0 @@
-11. § A Be. 68. § (1) bekezdés, 70. § (8) bekezdés, 128. § (3) bekezdés, 137. § (4) bekezdés, 138. § (5) bekezdés, 162. § (6) bekezdés, 470. § (1) bekezdés a) pontjának alkalmazása során katona az 1978. évi IV. törvény 122. § (1) bekezdésében meghatározott személy is.

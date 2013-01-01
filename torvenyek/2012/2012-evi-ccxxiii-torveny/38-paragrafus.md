@@ -1,3 +1,0 @@
-## „(7) A Magyarországon élő elítélt köteles a lakcímadataiban (lakóhely, tartózkodási hely) történő változást a változás bekövetkeztétől számított három munkanapon belül a büntetés vagy az intézkedés végrehajtásáért felelős szervnek, ha ez nem ismert, a büntetés-végrehajtási bírónak bejelenteni. A kötelezettség elmulasztása miatt a büntetés-végrehajtási bíró hivatalból vagy a végrehajtásért felelős szerv kezdeményezésére rendbírságot szab ki. Erre az elítéltet az ítélet kihirdetésekor, továbbá a végrehajtás során adott tájékoztatásakor vagy a részére kiadott idézésben, felhívásban figyelmeztetni kell.”
-
-38. § A Bv. tvr. 5/A. §-a helyébe a következő rendelkezés lép:

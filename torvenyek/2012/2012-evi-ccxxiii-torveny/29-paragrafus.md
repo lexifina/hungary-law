@@ -1,1 +1,0 @@
-29. § A Be. 470. § alkalmazásában katonai büntetőeljárásnak van helye az 1978. évi IV. törvény 122. § (1) bekezdésében meghatározott katona által a tényleges szolgálati viszonyának tartama alatt elkövetett, az 1978. évi IV. törvény XX. Fejezete szerinti katonai bűncselekmény esetén is.

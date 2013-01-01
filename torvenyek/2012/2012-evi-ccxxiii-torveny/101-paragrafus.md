@@ -1,3 +1,0 @@
-## „(3) A kihallgatás elején tisztázni kell, hogy nincs-e a tanú vallomástételének akadálya (81–82. §). Ha a tanú vallomástételének nincs akadálya, figyelmeztetni kell arra, hogy köteles a legjobb tudomása és lelkiismerete szerint az igazat vallani, továbbá arra, hogy a hamis tanúzást és a tanúvallomás jogosulatlan megtagadását a törvény büntetni rendeli. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.”
-
-101. § A Be. 93. §-a helyébe a következő rendelkezés lép:

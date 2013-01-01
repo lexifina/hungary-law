@@ -1,3 +1,0 @@
-## „a) az eljárás a terhelt halála után az egyeneságbeli rokona és ennek házastársa vagy bejegyzett élettársa, az örökbefogadó és a nevelőszülő, az örökbe fogadott és a nevelt gyermek, a testvér, a házastárs, a bejegyzett élettárs, az élettárs és a jegyes, a házastárs vagy a bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa és bejegyzett élettársa (a továbbiakban együtt: hozzátartozó) indítványára is megindul;”
-
-283. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény a 12. §-t követően a következő 12/A. §-sal és az azt megelőző alcímmel egészül ki:

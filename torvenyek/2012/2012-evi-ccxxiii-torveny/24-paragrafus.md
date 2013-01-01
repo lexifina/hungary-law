@@ -1,1 +1,0 @@
-24. § A bíróság az eljárást a Be. 332. § (1) bekezdés f) pontjának alkalmazása során az 1978. évi IV. törvény 36. § (1) bekezdésében meghatározott tevékeny megbánás, a Be. 332. § (1) bekezdés g) pontjának alkalmazása során az 1978. évi IV. törvény 32. § e) pontjában meghatározott büntethetőséget megszüntető ok esetén is megszüntetheti.

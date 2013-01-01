@@ -1,1 +1,0 @@
-14. § A Be. 179. § (5) bekezdésében meghatározottak szerint jár el a nyomozó hatóság abban az esetben is, ha a nyomozás adatai alapján az 1978. évi IV. törvény 283. §-ában meghatározott büntethetőséget megszüntető okból lehet helye az eljárás megszüntetésének.
