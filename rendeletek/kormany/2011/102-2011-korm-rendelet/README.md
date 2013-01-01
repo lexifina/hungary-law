@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | 2012-03-31 | 2011-102-20-22.5 | 61/2012. (III. 30.) Korm. rendelet |
 | 2012-07-01 | 2011-102-20-22.6 | 95/2012. (V. 15.) Korm. rendelet |
 | 2012-09-08 | 2011-102-20-22.7 | 250/2012. (IX. 7.) Korm. rendelet |
+| 2013-01-01 | 2011-102-20-22.8 | 174/2012. (VII. 26.) Korm. rendelet |

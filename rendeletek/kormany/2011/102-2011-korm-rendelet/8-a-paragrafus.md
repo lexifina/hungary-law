@@ -24,7 +24,8 @@ b) a következő felülvizsgálat időpontját.
 
 (4) A közlekedőképesség vizsgálata a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti komplex minősítés keretében is kérhető.
 
-(5) Ha a közlekedőképesség vizsgálata nem folyamatban levő hatósági eljárás keretében válik szükségessé, azt az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott települési, a fővárosban a fővárosi kerületi önkormányzat jegyzőjénél lehet kezdeményezni, aki a továbbiakban az (1) bekezdés szerint jár el.
+(5)[^34] Ha a közlekedőképesség vizsgálata nem folyamatban levő hatósági eljárás keretében válik szükségessé, azt a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál lehet kezdeményezni, amely a továbbiakban az (1) bekezdés szerint jár el.
 
 [^32]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
 [^33]: A 8/A. § (1) bekezdése a 95/2012. (V. 15.) Korm. rendelet 44. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^34]: A 8/A. § (5) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 4. §-ával megállapított szöveg.

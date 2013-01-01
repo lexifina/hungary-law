@@ -1,6 +1,6 @@
 ## 4. A jogosultság megállapítása
 
-7. § (1)[^23] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes megyei, fővárosi kormányhivatal szociális és gyámhivatalánál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.
+7. § (1)[^23] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes megyei, fővárosi kormányhivatal megyei, fővárosi szociális és gyámhivatalánál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.
 
 (2) A kérelemben fel kell tüntetni
 
@@ -52,6 +52,6 @@ c) a rokoni kapcsolatot igazoló irat másolatát, amennyiben hozzátartozókén
 
 (6)[^25] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerint igazolandó körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
 
-[^23]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^23]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 84. § (2) bekezdése szerint módosított szöveg.
 [^24]: A 7. § (3) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^25]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.

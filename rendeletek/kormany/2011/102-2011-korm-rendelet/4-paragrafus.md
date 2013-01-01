@@ -1,4 +1,4 @@
-## 3. §[^10] A Kormány a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (6) bekezdésének alkalmazása során szociális hatóságként a területileg illetékes megyei, fővárosi kormányhivatal szociális és gyámhivatalát jelöli ki.
+## 3. §[^10] A Kormány a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (6) bekezdésének alkalmazása során szociális hatóságként a területileg illetékes megyei, fővárosi kormányhivatal megyei, fővárosi szociális és gyámhivatalát jelöli ki.
 
 ## 2. Személygépkocsi szerzési támogatás
 
@@ -24,7 +24,7 @@ b) az (1) bekezdés b)–d) pontja szerinti esetben a vételár 60%-a, de legfel
 
 (4)[^13] A szerzési támogatással vásárolt személygépkocsi kizárólag a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy érdekében használható.
 
-[^10]: A 3. § a 250/2012. (IX. 7.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^10]: A 3. § a 174/2012. (VII. 26.) Korm. rendelet 84. § (2) bekezdése, a 250/2012. (IX. 7.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
 [^11]: A 4. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^12]: A 4. § (2) bekezdés nyitó szövegrésze a 189/2011. (IX. 19.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^13]: A 4. § (4) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
