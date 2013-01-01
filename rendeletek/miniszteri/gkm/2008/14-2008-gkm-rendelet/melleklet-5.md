@@ -1,4 +1,4 @@
-5. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^61]
+5. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^62]
 
 A külső vészhelyzeti terv tartalmi követelményei
 
@@ -70,4 +70,4 @@ A külső vészhelyzeti terv tartalmi követelményei
 
 | 6.2. | A térképen, vázlaton ki kell emelni a hulladékkezelő létesítmény megközelítési útvonalait, valamint a kimenekítési és egyéb, a súlyos baleset hatásai elleni védekezéssel kapcsolatos tevékenységek során igénybe vehető útvonalakat. |
 
-[^61]: Az 5. mellékletet a 11/2011. (IV. 7.) NFM rendelet 12. § (3) bekezdése iktatta be.
+[^62]: Az 5. mellékletet a 11/2011. (IV. 7.) NFM rendelet 12. § (3) bekezdése iktatta be.

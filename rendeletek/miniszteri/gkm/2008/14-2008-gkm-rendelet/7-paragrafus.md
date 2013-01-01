@@ -1,6 +1,6 @@
 ## A nyilvánosság részvétele
 
-7. §[^40] (1) A bányafelügyelet az engedélykérelem benyújtását követő 5 napon belül a hivatalában, valamint a bányászatihulladék-kezelő létesítmény helye szerint illetékes települési önkormányzat hirdetőtábláján közleményt tesz közzé, amely tartalmazza:
+7. §[^41] (1) A bányafelügyelet az engedélykérelem benyújtását követő 5 napon belül a hivatalában, valamint a bányászatihulladék-kezelő létesítmény helye szerint illetékes települési önkormányzat hirdetőtábláján közleményt tesz közzé, amely tartalmazza:
 
 a) az engedélykérelmet,
 
@@ -30,4 +30,4 @@ b) az (1) bekezdésben meghatározott tájékoztatáson felül minden olyan info
 
 (6) Az engedélyek 6. § (4) bekezdése szerinti módosítására irányuló eljárás során e § rendelkezéseit megfelelően alkalmazni kell.
 
-[^40]: A 7. § a 11/2011. (IV. 7.) NFM rendelet 7. §-ával megállapított szöveg.
+[^41]: A 7. § a 11/2011. (IV. 7.) NFM rendelet 7. §-ával megállapított szöveg.

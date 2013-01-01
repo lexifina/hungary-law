@@ -158,6 +158,6 @@
 
 ## 3. A meddőhányó kioldásos létesítmények esetében, ahol a fémet az ércmeddőkből kilúgozó oldat átszivárogtatásával vonják ki, a bányafelügyelet a bezáráskor a veszélyes anyagokra vonatkozóan ellenőrzést végez a felhasznált oldószerek leltára és ezeknek az oldószereknek átmosás után a vízelvezető csatornában jelen levő maradvány-koncentrációjának számbavétele alapján. Ha e csurgalékokat veszélyes készítménynek kell tekinteni, a létesítmény „A” osztályú besorolást kap.
 
-2. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^55]
+2. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^56]
 
-[^55]: A 2. melléklet a 22/2010. (III. 19.) KHEM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^56]: A 2. melléklet a 22/2010. (III. 19.) KHEM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.

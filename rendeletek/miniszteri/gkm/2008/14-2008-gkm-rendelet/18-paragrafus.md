@@ -1,4 +1,4 @@
-## 18. §[^53] Ez a rendelet – a Bt.-vel és a Bt. Vhr.-rel együtt –
+## 18. §[^54] Ez a rendelet – a Bt.-vel és a Bt. Vhr.-rel együtt –
 
 1. az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló, 2006. március 15-i 2006/21/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -12,4 +12,4 @@
 
 való megfelelést szolgálja.
 
-[^53]: A 18. § a 22/2010. (III. 19.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^54]: A 18. § a 22/2010. (III. 19.) KHEM rendelet 4. §-ával megállapított szöveg.
