@@ -7,3 +7,5 @@ a) írásban felszólítja a használót az üzemeltetés azonnali leállítás�
 b) az ingatlan címének közlésével – a veszély jellegétől függően – haladéktalanul tájékoztatja a hatáskörrel rendelkező hatóságot, szükség esetén a gázelosztói engedélyest.
 
 (3) Ha az égéstermék-elvezető állapotának időszakos ellenőrzése, tisztítása, műszaki felülvizsgálata – az ingatlan használója e törvényben meghatározott kötelezettségének elmulasztása miatt – meghiúsul, a közszolgáltató értesíti a tűzvédelmi hatóságot.
+
+(4) A (2) bekezdés b) pontja szerinti hatóság, a gázelosztói engedélyes a (2) bekezdés b) pontja szerinti tájékoztatás alapján megtett intézkedéseiről értesíti a közszolgáltatót.

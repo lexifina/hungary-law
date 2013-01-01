@@ -26,7 +26,7 @@ a) a 6. § (2) bekezdésében meghatározott műszaki vizsgálatokat megrendelni
 
 b) személyes adatait a közszolgáltatónak írásban, igazolható módon bejelenteni,
 
-c) az ingatlan használójával fennálló megállapodás alapján írásban, igazolható módon bejelenteni a közszolgáltatónak, ha a közszolgáltatásért járó díj megfizetése az ingatlan használóját terheli,
+c) a közszolgáltatásért járó díjat megfizetni vagy az ingatlan használójával fennálló megállapodás alapján írásban, igazolható módon a közszolgáltatónak bejelenteni, ha a közszolgáltatásért járó díj megfizetése az ingatlan használóját terheli,
 
 d) a (2) bekezdés c)–f) pontjában meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.
 

@@ -31,3 +31,5 @@ f) mellékletként a közszolgáltatással összefüggő dokumentumok, nyilvánt
 (6) A szerződés megszűnése esetén a közszolgáltatással összefüggő valamennyi dokumentumot és nyilvántartást a közszolgáltató az ellátásért felelős önkormányzatnak a szerződés megszűnése napján átadja.
 
 (7) A közszolgáltató köteles a közszolgáltatási tevékenységet a tűzvédelmi hatóságnak bejelenteni.
+
+(8) Közszolgáltatási tevékenység ellátásában az a természetes személy működhet közre, aki büntetlen előéletű és nem áll a kéményseprő-ipari közszolgáltatással kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
