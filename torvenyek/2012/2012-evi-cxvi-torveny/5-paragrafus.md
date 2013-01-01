@@ -14,6 +14,12 @@ e) a készpénzfizetésre szóló csekk beváltása esetén a kibocsátó száml
 
 f) a 3. § (2) bekezdésében meghatározott esetben a fizető fél pénzforgalmi szolgáltatója,
 
-g) a legfeljebb kéthetes lejáratú jegybanki értékpapír kibocsátása, továbbá az egynapos, legfeljebb kéthetes lejáratú jegybanki betét lekötésére irányuló művelet esetében az MNB
+g) kölcsöntörlesztés esetén a fizetési számlát vezető pénzforgalmi szolgáltató,
+
+h) az a) pont hatálya alá nem tartozó készpénzkifizetés esetén az a pénzforgalmi szolgáltató, amely a készpénz-helyettesítő fizetési eszköz fedezetéül szolgáló hitelkeretet rendelkezésre tartja,
+
+i) pénzváltási tevékenység esetén a fizetőeszköz útján történő eladást kezdeményező pénzváltási tevékenység végzésére jogosult hitelintézet, vagy a pénzváltás közvetítésére jogosult kiemelt közvetítő,
+
+j) jutalék- és díjbevételek esetén a jutalék- és díj felszámítására jogosult pénzforgalmi szolgáltató
 
 köteles teljesíteni.
