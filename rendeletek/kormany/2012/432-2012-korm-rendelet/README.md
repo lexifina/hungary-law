@@ -1,0 +1,9 @@
+# 432/2012. (XII. 29.) Korm. rendelet
+
+a Fővárosi Önkormányzat kezelésében lévő főútvonalak, közutak és közterületek kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-432-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-01 | 2012-432-20-22.1 | 432/2012. (XII. 29.) Korm. rendelet |
