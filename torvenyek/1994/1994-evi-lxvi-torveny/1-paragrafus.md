@@ -1,4 +1,12 @@
-1. § (1) A bérgarancia-eljárás keretében a felszámolás alatt álló gazdálkodó szervezetnek a munkavállalóval szemben fennálló, kiegyenlíthetetlen bértartozása előlegezhető meg.
+1. § (1) A bérgarancia-eljárás keretében
+
+a) a felszámolás alatt álló gazdálkodó szervezetnek a munkavállalóval szemben fennálló kiegyenlíthetetlen bértartozásából,
+
+b) a felszámolás alatt álló kölcsönbevevő által a kölcsönbeadó részére a kölcsönzött munkavállaló után meg nem fizetett kölcsönzési díjból,
+
+c) a felszámolás alatt álló gazdálkodó szervezetnek az iskolaszövetkezet részére meg nem fizetett szolgáltatási díjból
+
+az e törvény által meghatározott összeg előlegezhető meg.
 
 (2) E törvény alkalmazásában
 
@@ -12,6 +20,14 @@ b) gazdálkodó szervezet: a Cstv. 3. §-a (1) bekezdésének a) pontjában fels
 
 c) bértartozás: a felszámolás alatt álló gazdálkodó szervezetet – mint munkáltatót – terhelő minden munkabértartozás, ideértve a betegszabadság időtartamára járó térítést is, és a munkaviszony megszűnésével összefüggésben járó, a Cstv. 57. §-ának (3) bekezdése szerint elszámolható végkielégítés tartozás.
 
+d) kölcsönbeadó: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 214. § (1) bekezdés b) pontjában és 215. § (1) bekezdés b) pontjában meghatározott munkáltató,
+
+e) kölcsönvevő: az Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató,
+
+f) felszámolási eljárás: a Cstv. szerinti felszámolási eljárás.
+
 (3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
 
 (4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Nemzeti Foglalkoztatási Alap bérgarancia alaprésze szolgál.
+
+(5) Az (1) bekezdés b) és c) pontjában foglaltakkal kapcsolatos támogatásra az e törvényben foglaltakat a 11–13. §-ban meghatározott eltérésekkel kell alkalmazni.

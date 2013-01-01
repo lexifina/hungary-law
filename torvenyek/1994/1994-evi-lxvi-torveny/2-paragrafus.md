@@ -1,7 +1,13 @@
 2. § (1) Ha a felszámoló a felszámolás alatt álló gazdálkodó szervezetnél foglalkoztatott, szokásos magyarországi munkavégzési hellyel rendelkező munkavállalókkal szemben fennálló bértartozást a felszámolás kezdő időpontját követően a felszámolási költségek fedezetét jelentő bevételek hiánya miatt a bérfizetési napon – ideértve a 7. § (4) bekezdésében meghatározott esetet is – nem tudja kielégíteni, haladéktalanul kérelmet nyújt be az állami foglalkoztatási szervhez visszatérítendő pénzügyi támogatás iránt. Ettől eltérően, a 7. § (2) bekezdésében foglalt esetben a felszámoló a feltételek fennállása esetén kérelmet nyújthat be.
 
-(2) Az (1) bekezdésben említett kérelem a felszámolás alatt álló gazdálkodó szervezet nem magyarországi szokásos munkavégzési hellyel rendelkező munkavállalói tekintetében nem terjeszthető elő.
+(2) Az (1) bekezdés szerinti kérelem nem terjeszthető elő a felszámolás alatt álló gazdálkodó szervezet olyan munkavállalója tekintetében, aki
 
-(3) Vitás esetben az állami foglalkoztatási szerv, a felszámoló, vagy a munkavállaló kérelmére a munkaügyi bíróság tizenöt napon belül, nemperes eljárásban dönt arról, hogy a munkavállaló szokásos munkavégzési helye Magyarországon található-e.
+a) nem magyarországi szokásos munkavégzési hellyel rendelkezik,
 
-(4) A (3) bekezdés szerinti nemperes eljárásban a munkaügyi bíróság illetékességét az eljáró állami foglalkoztatási szerv székhelye határozza meg, eljáró állami foglalkoztatási szerv hiányában a Fővárosi Munkaügyi Bíróság az illetékes.
+b) a felszámolóval a felszámolás elrendelésekor vagy azt megelőző fél éven belül tagsági (részvényesi) jogviszonyban, vagy foglalkoztatásra irányuló jogviszonyban áll, illetőleg állt, vagy
+
+c) a felszámolónak, vagy a felszámoló szervezet (1) bekezdés b) pontjában meghatározott munkavállalójának a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója.
+
+(3) Vitás esetben az állami foglalkoztatási szerv, a felszámoló, vagy a munkavállaló kérelmére a közigazgatási és munkaügyi bíróság tizenöt napon belül, nemperes eljárásban dönt arról, hogy a munkavállaló szokásos munkavégzési helye Magyarországon található-e.
+
+(4) A (3) bekezdés szerinti nemperes eljárásban a közigazgatási és munkaügyi bíróság illetékességét az eljáró állami foglalkoztatási szerv székhelye határozza meg, eljáró állami foglalkoztatási szerv hiányában a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes.
