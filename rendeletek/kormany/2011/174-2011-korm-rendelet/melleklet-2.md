@@ -1,4 +1,4 @@
-## 2. függelék[^53]
+## 2. függelék[^56]
 
 ## Szám:
 
@@ -26,7 +26,7 @@
 
 ## vizsgaszervező vezetője
 
-## 3. függelék[^54]
+## 3. függelék[^57]
 
 2. melléklet a 174/2011. (VIII. 31.) Korm. rendelethez
 
@@ -58,7 +58,7 @@ megfelelt, ha az átlag 2,50–2,00
 
 9. A jelentkezési lap, a jegyzőkönyv, a bizonyítvány és a vizsganyilvántartó-könyv mintáját a függelékek tartalmazzák.
 
-10.[^55] A vizsgaszervező az NKE által rendelkezésére bocsátott írásbeli feladatokat – zárt borítékban – a vizsgaelnök rendelkezésére bocsátja a hozzájuk tartozó helyes megoldással együtt.
+10.[^58] A vizsgaszervező az NKE által rendelkezésére bocsátott írásbeli feladatokat – zárt borítékban – a vizsgaelnök rendelkezésére bocsátja a hozzájuk tartozó helyes megoldással együtt.
 
 ## 2. függelék
 
@@ -104,7 +104,7 @@ P. H.
 
 vizsgáztató bizottság elnöke
 
-3. függelék[^56]
+3. függelék[^59]
 
 3. függelék
 
@@ -134,7 +134,7 @@ P. H.
 
 | ............................................................... vizsgáztató bizottság elnöke |
 
-4. függelék[^57]
+4. függelék[^60]
 
 VIZSGANYILVÁNTARTÓ-KÖNYV
 
@@ -142,8 +142,8 @@ Az ügykezelői alapvizsgáról
 
 | Sorszám | Dátum | Vizsgázó családi és utóneve, (Születési családi és utóneve) születési helye, ideje anyja születési családi és utóneve | Munkáltató megnevezése | Bizonyítvány minősítése | Vizsgabizottság tagjainak megnevezése |
 
-[^53]: Az 1. melléklet 2. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés i) pontja szerint módosított szöveg.
-[^54]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
-[^55]: A 2. melléklet 10. pontját a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdése iktatta be.
-[^56]: A 2. melléklet 3. függeléke a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
-[^57]: A 2. melléklet 4. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés j) pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet 2. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés i) pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
+[^58]: A 2. melléklet 10. pontját a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdése iktatta be.
+[^59]: A 2. melléklet 3. függeléke a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^60]: A 2. melléklet 4. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés j) pontja szerint módosított szöveg.

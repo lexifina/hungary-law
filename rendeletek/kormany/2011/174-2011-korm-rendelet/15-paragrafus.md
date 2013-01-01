@@ -2,7 +2,7 @@
 
 15. § (1) A vizsgázó a közigazgatási alapvizsgára a Vizsgaportálon keresztül regisztrál és jelentkezik. Regisztrációjához és a vizsgára való jelentkezéséhez munkáltatójának előzetesen regisztrálnia szükséges a Vizsgaportálon.
 
-(2)[^33] A munkáltatónak a Vizsgaportálon való regisztrációja során ki kell kijelölnie a munkáltató képviseletében a közigazgatási alapvizsgával kapcsolatban nyilatkozattételre jogosult személyt vagy személyeket. A regisztrációs folyamat végén a rögzített adatok hitelesítése érdekében a munkáltató írásban tájékoztatja az NKE-t a regisztráció megtörténtéről. Az NKE az írásos tájékoztatás beérkezését követően 3 munkanapon belül aktiválja a munkáltatót a rendszerben.
+(2)[^36] A munkáltatónak a Vizsgaportálon való regisztrációja során ki kell kijelölnie a munkáltató képviseletében a közigazgatási alapvizsgával kapcsolatban nyilatkozattételre jogosult személyt vagy személyeket. A regisztrációs folyamat végén a rögzített adatok hitelesítése érdekében a munkáltató írásban tájékoztatja az NKE-t a regisztráció megtörténtéről. Az NKE az írásos tájékoztatás beérkezését követően 3 munkanapon belül aktiválja a munkáltatót a rendszerben.
 
 (3) A vizsgázó regisztrációja során
 
@@ -44,4 +44,4 @@ b) a felkészítő konzultáción való részvételéhez.
 
 (15) Indokolt esetben a vizsgaszervező – a vizsgázóval egyeztetve – átirányíthatja a vizsgázót egy másik vizsgaszervezőhöz a közigazgatási alapvizsga letétele érdekében. Indokolt esetnek minősül különösen, ha a közigazgatási alapvizsga letételére nyitva álló határidő lejár és a vizsgáztatásra illetékes vizsgaszervező nem szervez vizsgát e határidő lejártáig.
 
-[^33]: A 15. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) és e) pontja, a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^36]: A 15. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) és e) pontja, a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés c) pontja szerint módosított szöveg.
