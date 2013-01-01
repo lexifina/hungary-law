@@ -1,1 +1,0 @@
-Az államháztartásról szóló, többször módosított 1992. évi XXXVIII. törvény 124. §-a (2) bekezdésének b) pontjában kapott felhatalmazás alapján a Kormány a központosított illetményszámfejtésről szóló 172/2000. (X. 18.) Korm. rendeletet (a továbbiakban: R.) a következők szerint módosítja:
