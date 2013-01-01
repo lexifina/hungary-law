@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-23-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-09-30 | 2009-23-20-1U.4 | 23/2009. (VI. 19.) IRM rendelet |
+| 2013-01-01 | 2009-23-20-1U.5 | 53/2012. (XII. 22.) KIM rendelet |
