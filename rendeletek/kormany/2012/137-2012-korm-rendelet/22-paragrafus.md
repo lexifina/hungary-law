@@ -2,11 +2,10 @@
 
 a)–b)[^24]
 
-c) 37. § (9) bekezdése,
+c)–d)[^25]
 
-d) 24. számú melléklete,
-
-e)[^25]
+e)[^26]
 
 [^24]: A 22. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 22. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 22. § c)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 22. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
