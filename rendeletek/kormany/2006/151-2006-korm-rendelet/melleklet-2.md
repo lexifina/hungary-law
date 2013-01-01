@@ -8,7 +8,7 @@
 
 | 2 | 1. | hulladéklerakó telep | Királyszentistván (hrsz. 017) | egységes környezet- használati engedély | Közép- Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség (KTVF) | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: OKTVF) |
 
-| 3 | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Veszprém Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 3 | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Veszprémi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Veszprém Megyei Kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 4 | vízjogi engedély | Közép-Dunántúli KTVF | OKTVF |
 
@@ -26,13 +26,13 @@
 
 | 2 | 1. | hulladéklerakó telep | Nyíregyháza (hrsz. 02350) | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| 3 | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Szabolcs-Szatmár- Bereg Megyei Kormány Hivatal | építésügyért felelős miniszter |
+| 3 | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Nyíregyházi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 4 | 2. | bekötőút | Nyíregyháza - a Nyíregyházát elkerülő (épülő) 4. sz. úttól a hulladéklerakó telepre | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
 | 5 | 3. | hulladéklerakó telep | Kisvárda (hrsz. 068) | egységes környezethasználati engedély (módosítás) | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| 6 | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár- Bereg Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 6 | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Nyíregyházi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 7 | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
@@ -42,7 +42,7 @@
 
 | 10 | 5. | hulladéklerakó telep | Nagyecsed (hrsz. 0188) | egységes környezethasználati engedély (módosítás) | Felső-Tisza-vidéki KTVF | OKTVF |
 
-| 11 | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár- Bereg Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 11 | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Nyíregyházi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 12 | vízjogi engedély | Felső-Tisza-vidéki KTVF | OKTVF |
 
@@ -74,13 +74,13 @@
 
 | Gyógyhelyek védelme | Országos Tisztifőorvosi Hivatal Országos Gyógyhelyi és Gyógyfürdőügyi Főigazgatósága | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Lakosság életének védelme | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonsági Igazgatósága | Országos Atomenergia Hivatal Nukleáris Biztonsági Igazgatósága főigazgatója |
 
-| Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Állattartás | megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -128,11 +128,11 @@
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve) | Országos Tisztifőorvosi Hivatal |
 
-| Hírközlés | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | Műszaki biztonság | főváros, megyei kormányhivatal mérésügyi és biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -142,7 +142,7 @@
 
 | Környezetvédelem | illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Közlekedés |  |  |
 
@@ -172,11 +172,11 @@
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve) | Országos Tisztifőorvosi Hivatal |
 
-| Hírközlés | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | Műszaki biztonság | főváros, megyei kormányhivatal mérésügyi és biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -184,7 +184,7 @@
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Közlekedés |  |  |
 
@@ -214,12 +214,12 @@
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| Hírközlés | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | Műszaki biztonság | főváros, megyei kormányhivatal mérésügyi és biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 14. §-a, a 394/2012. (XII. 20.) Korm. rendelet 10. §-a szerint módosított szöveg.
