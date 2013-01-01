@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-52-20-8
 | 2011-08-01 | 2010-52-20-82.4 | 4/2010. (VII. 5.) VM rendelet |
 | 2012-02-11 | 2010-52-20-82.5 | 5/2012. (II. 10.) VM rendelet |
 | 2012-07-25 | 2010-52-20-82.6 | 72/2012. (VII. 24.) VM rendelet |
+| 2013-01-01 | 2010-52-20-82.7 | 151/2012. (XII. 29.) VM rendelet |
