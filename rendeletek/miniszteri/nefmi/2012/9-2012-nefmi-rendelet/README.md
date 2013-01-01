@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-9-20-2V
 | --- | --- | --- |
 | 2012-02-28 | 2012-9-20-2V.1 | 9/2012. (II. 28.) NEFMI rendelet |
 | 2012-02-29 | 2012-9-20-2V.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2012-9-20-2V.3 | 55/2012. (XII. 28.) EMMI rendelet |

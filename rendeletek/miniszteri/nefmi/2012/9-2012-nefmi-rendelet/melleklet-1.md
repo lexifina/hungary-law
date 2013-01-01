@@ -1,6 +1,6 @@
 ## 15. § Ez a rendelet a kihirdetése napján 18 órakor lép hatályba.
 
-1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez
+1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^8]
 
 ## Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
@@ -170,19 +170,19 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 | 18. | 86202 | Kezelés monochromatikus polarizált fénnyel (Evolite, Bioptron) |
 
-| 19. | 86209 | Fototerápia |
+| 19. |  |  |
 
 | 20. | 86210 | Fototerápia UV fénnyel |
 
 | 21. | 86211 | PUVA-kezelés |
 
-| 22. | 86216 | Goeckermann f. kátrány-UV kezelés 1-10% bőrfelszín |
+| 22. |  |  |
 
-| 23. | 86217 | Goeckermann f. kátrány-UV kezelés 11-20% bőrfelszín |
+| 23. |  |  |
 
-| 24. | 86218 | Goeckermann f. kátrány-UV kezelés 21-30% bőrfelszín |
+| 24. |  |  |
 
-| 25. | 86219 | Goeckermann f. kátrány-UV kezelés 31-40% bőrfelszín |
+| 25. |  |  |
 
 | 26. | 86240 | Szinkron Balneofototerápiás kezelés (SBP) |
 
@@ -348,7 +348,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 | 107. | 94885 | Súlyfürdő, hónalj függesztéssel és terheléssel |
 
-| 108. | 94887 | Szénsavgáz fürdő |
+| 108. |  |  |
 
 | 109. | 94889 | Skót zuhany |
 
@@ -474,7 +474,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 6.2.3.7. Speciális vizsgálatok esetén csak a vizsgálat alapját képező szekvencia számolható el, a speciális postprocessing nem.
 
-6.3. Laborvizsgálatok általános elszámolhatósági szabályai, melyek a 2. melléklet „50” szakmakódjánál az X-jelzésű egészségügyi eljárásokra vonatkoznak
+6.3. Laborvizsgálatok általános elszámolhatósági szabályai, melyek a 2. melléklet “50” szakmakódjánál az X-jelzésű egészségügyi eljárásokra vonatkoznak
 
 6.3.1. Ha a laboratórium orvosa az elkészült eredmények alapján további vizsgálatokat tart szükségesnek, akkor ezt elvégezheti, de ilyenkor – akár utólag is – az eredeti vizsgálatot elrendelő orvos egyetértését dokumentálni kell. Kivétel ez alól az a vizsgálat, melynek természetéből fakad, hogy az egymást követően előálló eredményekből következnek a további vizsgálatok (egyes mikrobiológiai vizsgálatok, haemorrhagiás diathesis kivizsgálása, stb.), illetve azon vizsgálatok, melyekről az eredmények és diagnózisok ismeretében szakmai leírások alapján feltételezhető, hogy késedelem nélkül történő elvégzésük életmentő lehet.
 
@@ -482,7 +482,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 6.3.3. A laboratóriumi kérésnek tartalmilag meg kell felelni annak a követelménynek, hogy a vizsgálatot kérő egészségügyi szolgáltató szakorvosa és az igényelt vizsgálatok egyértelműen azonosíthatók legyenek.
 
-6.3.4. Az Országos Egészségbiztosítási Pénztár részére megküldendő teljesítmény elszámolási adatokban a „megjelenés” időpontjának a mintavétel időpontját kell tekinteni.
+6.3.4. Az Országos Egészségbiztosítási Pénztár részére megküldendő teljesítmény elszámolási adatokban a “megjelenés” időpontjának a mintavétel időpontját kell tekinteni.
 
 6.3.5. Ha egy laboratóriumi vizsgálatot a megnevezésben, definícióban nem szereplő, de a megjelölt eljárásoknál pontosabb eredményt adó, szakmai irányelveknek megfelelő vizsgálati módszerrel végezték, az adott eljárás kódján az elvégzett teljesítmény elszámolható.
 
@@ -506,7 +506,7 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 7. Vizsgálat elszámolási szabályai szakmák szerint
 
-A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészségügyi eljárások meghatározása szakmánként részletezve:
+A “11041 Vizsgálat” és “11042 Vizsgálat a rendelőn kívül” egészségügyi eljárások meghatározása szakmánként részletezve:
 
 |  | A | B |
 
@@ -553,3 +553,5 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 | 21. | Tüdőgyógyászat | Részletes anamnézis felvétel és alap orvosi vizsgálat – a beteg megtekintése, kopogtatása, meghallgatása, tapintása. |
 
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
+
+[^8]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 9/2012. (II. 28.) NEFMI rendelethez
+2. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^9]
 
 I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátási és elszámolási kompetenciája
 
@@ -417,3 +417,5 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 | 12302 |  | Békésy audiometria |  |  |  |  |  | X |  |  | O |  |  |  |
 
 | 12310 |  | Impedancia audiometria (Tympanometria + stapedius refl.) |  |  |  |  | O | X |  |  |  |  |  |  |
+
+[^9]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése szerint módosított szöveg.
