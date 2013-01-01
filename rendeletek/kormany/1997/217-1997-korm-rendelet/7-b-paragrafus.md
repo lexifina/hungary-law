@@ -1,4 +1,4 @@
-7/B. §[^115] (1)[^116] Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
+7/B. §[^118] (1)[^119] Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
 
 a) 98%-os támogatási mérték,
 
@@ -26,7 +26,7 @@ b) azon eszköz árához nyújtott támogatás összege, amelynek az OEP határo
 
 c) azon eszköz árához nyújtott támogatás összege, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott ára a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
 
-(3a)[^117] A 7/A. § (5) bekezdése szerinti fixcsoportban a támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (3) bekezdés a) pontja szerint megállapított összeg.
+(3a)[^120] A 7/A. § (5) bekezdése szerinti fixcsoportban a támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (3) bekezdés a)–c) pontja szerint megállapított összeg.
 
 (4) A 7/A. § (3) bekezdés b) pont bb) alpontja szerinti, az eszköz valamely fizikai paraméterének fajlagos egységére meghatározott fix összegű támogatási csoportban a fajlagos egységre jutó támogatás összege
 
@@ -36,7 +36,7 @@ b) azon eszköz esetében, amelynek egy fajlagos egységére jutó, az OEP hatá
 
 c) azon eszköz esetében, amelynek fajlagos közfinanszírozás alapjául elfogadott ára a referenciaeszközénél alacsonyabb, az eszköz fajlagos közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
 
-(4a)[^118] A 7/A. § (5) bekezdése szerinti fixcsoportban a fajlagos egységre jutó támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (4) bekezdés a) pontja szerint megállapított összeg.
+(4a)[^121] A 7/A. § (5) bekezdése szerinti fixcsoportban a fajlagos egységre jutó támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (4) bekezdés a)–c) pontja szerint megállapított összeg.
 
 (5) A kizárólag kölcsönzés keretében kiszolgáltatható gyógyászati segédeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjához nyújtott támogatás összege
 
@@ -46,10 +46,10 @@ b) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinansz
 
 c) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési napidíja a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
 
-(6)[^119] A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.
+(6)[^122] A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.
 
-[^115]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^116]: A Vhr. 7/B. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^117]: A Vhr. 7/B. § (3a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^118]: A Vhr. 7/B. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^119]: A Vhr. 7/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^118]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^119]: A Vhr. 7/B. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^120]: A Vhr. 7/B. § (3a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^121]: A Vhr. 7/B. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^122]: A Vhr. 7/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

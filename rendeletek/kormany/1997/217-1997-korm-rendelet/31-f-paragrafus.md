@@ -1,16 +1,16 @@
-## Méltányosságból engedélyezhető egyszeri segély[^372]
+## Méltányosságból engedélyezhető egyszeri segély[^395]
 
-31/F. §[^373] (1)[^374] Az Ebtv. 50. § (4) bekezdésének alkalmazásánál biztosítottnak kell tekinteni a kizárólag egészségügyi szolgáltatásra jogosult személyt is.
+31/F. §[^396] (1) Az OEP főigazgatója, illetve a fővárosi és megyei kormányhivatalt vezető kormánymegbízott a biztosított kérelemében előadott összes körülményre tekintettel dönt a segélyben részesítésről és a segély összegéről. Ennek keretében mérlegelni kell a biztosított
 
-(2)[^375] Egyszeri segélyben részesíthető az a biztosított, akinek
+a) egészségi állapotában bekövetkezett kedvezőtlen változást, illetve egészségkárosodást,
 
-a) az egészségi állapotában kedvezőtlen változás, egészségkárosodás következett be, és a kérelmében előadottak az egészségbiztosítás által nyújtott ellátással vannak összefüggésben, vagy
+b) jövedelmi helyzetét, életkörülményeit,
 
-b) részére a táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósítását az Ebtv. 50. § (1) bekezdése alapján méltányosságból sem engedélyezték.
+c) egészségügyi szolgáltatás igénybevételével kapcsolatban felmerült utazási költségét,
 
-(3) Az engedélyezési eljárás során vizsgálni kell a biztosított jövedelmi helyzetét, továbbá, hogy a kérelem benyújtását megelőző egy évben részesült-e segélyben.
+d) Ebtv. 50. § (1) és (2) bekezdése alapján méltányosságból megállapítható táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj iránti kérelmének elutasítását.
 
-[^372]: A 31/F. §-t megelőző alcímet a 130/2003. (VIII. 22.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
-[^373]: A 31/F. § a 130/2003. (VIII. 22.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
-[^374]: A Vhr. 31/F. § (1) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^375]: A Vhr. 31/F. § (2) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
+(2) A biztosított a segély megállapításának időpontjától számított egy éven belül csak különös méltánylást érdemlő körülmény bekövetkezése esetén részesíthető ismételten segélyben.
+
+[^395]: A 31/F. §-t megelőző alcímet a 130/2003. (VIII. 22.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^396]: A Vhr. 31/F. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

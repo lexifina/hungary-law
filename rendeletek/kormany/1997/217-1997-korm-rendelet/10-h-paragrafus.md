@@ -1,3 +1,3 @@
-10/H. §[^160]
+10/H. §[^166]
 
-[^160]: A Vhr. 10/H. §-át a 204/2006. (X. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.
+[^166]: A Vhr. 10/H. §-át a 204/2006. (X. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.
