@@ -2,15 +2,15 @@
 
 9. § (1) Ha törvény eltérően nem rendelkezik, a költségvetési szerv irányítása a következő hatáskörök gyakorlásának jogát jelenti:
 
-a) a költségvetési szerv átalakítása és megszüntetése,
+a) a költségvetési szerv alapító okiratának kiadása, szervezeti és működési szabályzatának jóváhagyása, átalakítása és megszüntetése,
 
-b) a költségvetési szerv vezetője tekintetében a vezetői megbízás adása, visszavonása, és az egyéb munkáltatói jogok gyakorlása,
+b) a költségvetési szerv vezetője tekintetében a kinevezés és felmentés, vagy a vezetői megbízás adása, visszavonása, és az egyéb munkáltatói jogok gyakorlása,
 
-c) a költségvetési szerv gazdasági vezetőjének megbízása, megbízásának visszavonása, díjazásának megállapítása,
+c) a költségvetési szerv gazdasági vezetőjének kinevezése és felmentése, vagy a megbízása, megbízásának visszavonása, továbbá díjazásának megállapítása,
 
-d) a bevételi és kiadási előirányzatokkal való gazdálkodás rendszeres figyelemmel kísérése, a végrehajtás, illetve a költségvetési szerv által ellátandó közfeladatok megvalósításának veszélye esetén a jogszabályban meghatározott szükséges intézkedések megtétele,
+d) a bevételi és kiadási előirányzatokkal való gazdálkodás rendszeres figyelemmel kísérése, a végrehajtás, illetve a költségvetési szerv által ellátandó közfeladatok meg nem valósításának veszélye esetén a jogszabályban meghatározott szükséges intézkedések megtétele,
 
-e) a költségvetési szerv szervezeti és működési szabályzatának jóváhagyása,
+e)
 
 f) a költségvetési szerv által ellátandó közfeladatok ellátására vonatkozó, és az erőforrásokkal való szabályszerű és hatékony gazdálkodáshoz szükséges követelmények érvényesítése, számonkérése, ellenőrzése,
 
@@ -22,13 +22,13 @@ i) a költségvetési szerv jelentéstételre vagy beszámolóra való kötelez�
 
 j) a költségvetési szerv kezelésében lévő közérdekű adatok és közérdekből nyilvános adatok, valamint a b), c) és f)–i) pont szerinti irányítási jogkörök gyakorlásához szükséges, törvényben meghatározott személyes adatok kezelése.
 
-(1a) A 8. § (1) bekezdésében megjelölt alapító szervek a költségvetési szerv irányításával kapcsolatos, az (1) bekezdésben meghatározott hatásköreiket törvény, kormányrendelet, vagy megállapodás alapján egymásnak átadhatják.
+(1a) Jogszabállyal alapított költségvetési szerv esetén jogszabály, más költségvetési szerv esetén az átadó irányító szerv és az átvevő irányító szerv közötti megállapodás alapján a költségvetési szerv az államháztartás azonos alrendszerébe tartozó más irányító szerv irányítása alá kerülhet. Törvény elrendelheti, hogy a költségvetési szerv az irányító szervtől az államháztartás más alrendszerébe tartozó irányító szerv irányítása alá kerüljön.
 
 (2) A költségvetési szerv költségvetésének végrehajtásáért az irányító szerv közjogi felelősséggel tartozik.
 
 (3) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv esetén törvény vagy kormányrendelet az irányítási jogkört korlátozhatja, azok gyakorlásával más szervet vagy személyt ruházhat fel.
 
-(4) Törvény vagy kormányrendelet meghatározhatja azokat az irányítási hatásköröket és az átruházás módját, amelyeket a központi költségvetési szerv az irányítása alá tartozó költségvetési szervre, mint középirányító szervre átruházhat.
+(4) Törvény vagy kormányrendelet meghatározhatja azokat az irányítási hatásköröket, amelyek a központi költségvetési szerv irányítása alá tartozó más költségvetési szervre, mint középirányító szervre átruházhatók.
 
 (5) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az irányító szerv feladatkörének gyakorlásához szükséges hatásköröket az irányító szerv vezetője – a fejezetet irányító szervnek címzett hatásköröket a fejezetet irányító szerv vezetője – gyakorolja.
 

@@ -8,6 +8,6 @@
 
 (2) A költségvetési bevételek a bevételi előirányzatokon felül is teljesíthetők.
 
-(3) A bevételi előirányzatok – a Kormány rendeletében és a 31. § (1) bekezdésében meghatározott kivételekkel – kizárólag azok túlteljesítése esetén növelhetők, és a költségvetési bevételek tervezettől történő elmaradása esetén azokat csökkenteni kell.
+(3) A bevételi előirányzatok – Kormány rendeletében és a 31. § (1) bekezdésében meghatározott kivételekkel – kizárólag azok túlteljesítése esetén növelhetők, és a költségvetési bevételek tervezettől történő elmaradása esetén azokat csökkenteni kell.
 
 (4) Kormányrendelet előírhatja, hogy a költségvetési szerv és a fejezeti kezelésű előirányzat bevételi előirányzatain felüli többletbevétel csak előzetes engedéllyel legyen felhasználható.

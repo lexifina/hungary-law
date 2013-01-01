@@ -14,7 +14,7 @@
 
 a) törvényben meghatározott kivétellel értékpapírt nem bocsáthat ki, nem szerezhet meg,
 
-b) pénzügyi lízinget vagy faktoringot magában foglaló szerződést nem köthet, és
+b) faktoringot magában foglaló szerződést nem köthet, és
 
 c) garanciát és kezességet nem vállalhat.
 

@@ -4,7 +4,7 @@
 
 a) a kincstári kör és a kincstári körön kívüli számlatulajdonosok számára vezetett fizetési számlák és az azokhoz kapcsolódóan nyitható alszámlák típusait,
 
-b) az a) pont szerinti, valamint a helyi önkormányzatok, a helyi nemzetiségi önkormányzatok és a többcélú kistérségi társulások, továbbá az általuk irányított költségvetési szervek számára a Kormány rendeletében foglaltak szerint nyitható fizetési számlák, alszámlák megnyitásának, törzsadataik módosításának, megszüntetésének feltételeit,
+b) az a) pont szerinti, valamint a helyi önkormányzatok, a helyi nemzetiségi önkormányzatok és a társulások, továbbá az általuk irányított költségvetési szervek számára a Kormány rendeletében foglaltak szerint nyitható fizetési számlák, alszámlák megnyitásának, törzsadataik módosításának, megszüntetésének feltételeit,
 
 c) a kincstár szolgáltatásai után felszámított jutalékokat, díjakat, egyéb költségeket, ezek számításának módszerét,
 

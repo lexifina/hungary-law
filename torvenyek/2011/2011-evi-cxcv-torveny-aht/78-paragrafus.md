@@ -2,7 +2,7 @@
 
 78. § (1) A kincstár a likvidásmenedzsment keretében folyamatosan figyelemmel kíséri a bevételek alakulását s ennek figyelembevételével biztosítja a kiadások rendelkezésre állását.
 
-(2) A költségvetési szerv, a helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás és a térségi fejlesztési tanács a bevételek beérkezésének és a kiadások teljesítésének ütemezéséről likviditási tervet készít.
+(2) A költségvetési szerv, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács a bevételek beérkezésének és a kiadások teljesítésének ütemezéséről likviditási tervet készít.
 
 (3) A központi kezelésű előirányzatokból a kincstár által folyósított ellátási kiadásokat havi bontású finanszírozási terv alapján kell folyósítani.
 
@@ -12,9 +12,11 @@ a) az agrártámogatások Európai Unió által finanszírozott része, valamint
 
 b) a társadalombiztosítás pénzügyi alapjait terhelő ellátások, valamint a társadalombiztosítás pénzügyi alapjait nem terhelő, azok kezelő szervei által folyósított ellátások folyamatos teljesítése érdekében a bevételek és a kiadások időbeli eltéréséből adódó átmeneti finanszírozási igény,
 
-c) az államháztartásért felelős miniszter engedélyével az elkülönített állami pénzalapok – a bevételek és kiadások pénzügyi teljesítése időbeni ütemének eltérése miatt felmerülő, a korábbi évek előirányzat-maradványával nem fedezett – finanszírozási igény, és
+c) az államháztartásért felelős miniszter engedélyével az elkülönített állami pénzalapok – a bevételek és kiadások pénzügyi teljesítése időbeni ütemének eltérése miatt felmerülő, a korábbi év költségvetési maradványával nem fedezett – finanszírozási igény,
 
-d) a Fővárosi Önkormányzatnak a budapesti 4-es metróvonal megépítésével kapcsolatos általános forgalmi adó megfizetésének
+d) a Fővárosi Önkormányzatnak a budapesti 4-es metróvonal megépítésével kapcsolatos általános forgalmi adó megfizetésének, és
+
+e) a Nemzeti Infrastruktúra Fejlesztő Zrt. részére az európai uniós és ahhoz kapcsolódó központi költségvetési forrás felhasználásával, érvényes támogatási szerződés alapján fizetendő támogatások általános forgalmi adó finanszírozására szolgáló részének
 
 fedezetét.
 

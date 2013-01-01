@@ -4,7 +4,7 @@
 
 (2) A központi költségvetésről szóló törvényben az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai alaponként külön fejezetben jelennek meg.
 
-(3) A központi költségvetésről szóló törvény a helyi önkormányzatok központi adókból, illetékekből származó részesedését, a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatást, a helyi önkormányzatok, helyi nemzetiségi önkormányzatok, többcélú kistérségi társulások normatív hozzájárulásait, támogatásait, valamint a részükre juttatandó egyéb költségvetési támogatásokat önálló fejezetként tartalmazza.
+(3) A központi költségvetésről szóló törvény a helyi önkormányzatok központi adókból származó részesedését, a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működésének és ágazati feladatai támogatásait, valamint a részükre juttatandó költségvetési támogatásokat önálló fejezetként tartalmazza.
 
 (4) A központi költségvetésről szóló törvény az (1) és (2) bekezdésben foglaltakon, valamint törvény által előírt önálló fejezeteken kívül fejezetként tartalmazza
 

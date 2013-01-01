@@ -6,6 +6,8 @@
 
 (3) Beolvadás esetén a beolvadó költségvetési szerv megszűnik, jogutódja az átvevő költségvetési szerv. Összeolvadás esetében az egyesítendő költségvetési szervek megszűnnek, jogutódjuk az átalakítással létrejövő új költségvetési szerv. Különválás esetén a különváló költségvetési szerv megszűnik, jogutódjai az átalakítással létrejövő költségvetési szervek.
 
+(3a) Költségvetési szerv közös átalakítására a 8. § (2) bekezdésében foglaltak alkalmazandók azzal, hogy az alapító szerven kívül a Kormány is jogosult az irányítása vagy felügyelete alá tartozó, továbbá miniszter vagy miniszterek által alapított költségvetési szerv átalakítására.
+
 (4) A költségvetési szerv általános jogutóddal történő megszüntetése a vele szemben fennálló követeléseket nem teszi lejárttá.
 
 (5) A költségvetési szerv jogutód nélküli megszüntetése esetén az állami vagyonról szóló törvény (a továbbiakban: Vtv.) vagy a megszüntetésről rendelkező jogszabály, megszüntető okirat eltérő rendelkezése hiányában a költségvetési szerv megszüntetés időpontjában fennálló magánjogi jogait és kötelezettségeit – ideértve a vagyonkezelői jogot is – az alapító szerv, az Országgyűlés vagy a Kormány által alapított költségvetési szerv esetén az alapító szerv által kijelölt szerv gyakorolja és teljesíti.

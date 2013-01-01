@@ -1,6 +1,6 @@
 ## 54. Az államháztartás központi alrendszerébe tartozó költségvetési szervek és a fejezeti kezelésű előirányzatok finanszírozása
 
-81. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv részére a kincstár havonta a működési költségvetésre és a kölcsönökre jutó központi támogatás időarányos, a felhalmozási költségvetésre eső központi támogatás teljesítésarányos részének megfelelő összegű előirányzat-felhasználási keretet nyit.
+81. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv részére a kincstár havonta a működési költségvetésre jutó központi támogatás időarányos, a felhalmozási költségvetésre eső központi támogatás teljesítésarányos részének megfelelő összegű előirányzat-felhasználási keretet nyit.
 
 (2) Az előirányzat-felhasználási keret előrehozása a Kormány rendeletében meghatározott esetben és módon történhet.
 

@@ -8,7 +8,7 @@
 
 a) a 22. § (4) bekezdése szerinti mérlegeket és kimutatásokat, az államháztartás költségvetési mérlegében az államháztartás központi alrendszerén belül költségvetési szervek és fejezeti kezelésű előirányzatok, állami vagyon, egyéb központi kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai szerinti bontásban,
 
-b) az államháztartás központi alrendszerében a finanszírozási célú pénzügyi műveletekről készített összegzést,
+b) az államháztartás központi alrendszerében a finanszírozási bevételekről és kiadásokról készített összegzést,
 
 c) a Stabilitási tv. 2. § (2)–(4) bekezdése szerinti bontásban az államadósságot, és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor adósságával,
 
@@ -18,4 +18,12 @@ e) az állam tulajdonában álló gazdálkodó szervezetek működéséből szá
 
 (4) A 21. § (6) bekezdésében, 29. § (1) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozatot a Kormány a Magyar Közlönyben közzéteszi.
 
-(5) A Kormány 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozata az adott költségvetési évre vonatkozó központi költségvetésről szóló törvény hatályvesztésének időpontjával végrehajtottnak tekintendő, és az ezt követő nappal visszavontnak minősül.
+(5) A Kormány
+
+a) 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozata
+
+b) kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználására vonatkozó egyedi határozata, és
+
+c) a központi költségvetésről szóló törvényben az előirányzatok átcsoportosításával, módosításával összefüggésben biztosított jogkörében hozott egyedi határozata
+
+az adott költségvetési évre vonatkozó központi költségvetésről szóló törvény hatályvesztésének időpontjával végrehajtottnak tekintendő, és az ezt követő nappal visszavontnak minősül.

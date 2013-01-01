@@ -1,6 +1,6 @@
 ## 16. A helyi önkormányzat átmeneti gazdálkodásának szabályai
 
-25. § (1) Ha a költségvetési rendeletet a képviselő-testület a költségvetési év kezdetéig nem fogadta el, az átmeneti gazdálkodásról rendeletet alkothat, amelyben felhatalmazást ad, hogy a helyi önkormányzat és költségvetési szervei a bevételeiket folytatólagosan beszedhessék, kiadásaikat teljesítsék.
+25. § (1) Ha a költségvetési rendeletet a képviselő-testület a költségvetési évben legkésőbb március 15-ig nem fogadta el, az átmeneti gazdálkodásról rendeletet alkot, amelyben felhatalmazást ad, hogy a helyi önkormányzat és költségvetési szervei a bevételeiket folytatólagosan beszedhessék, kiadásaikat teljesítsék.
 
 (2) Az átmeneti gazdálkodásról szóló rendeletben meg kell határozni a felhatalmazás időtartamát. A felhatalmazás az új költségvetési rendelet hatálybalépésének napján megszűnik.
 

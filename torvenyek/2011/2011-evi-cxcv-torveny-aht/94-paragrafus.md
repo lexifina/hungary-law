@@ -14,6 +14,6 @@ eredményeképpen keletkeztek.
 
 (4) A kiállítási tárgy elveszése esetén kifizetett kártérítést haladéktalanul vissza kell fizetni az állam részére, ha a kiállítási tárgy később előkerül.
 
-(5) Az államháztartásért felelős miniszter a kiemelkedő kulturális érdeket jelentő kiállítás megrendezése érdekében az állam nevében – a kiállítási garanciával tartalmában és feltételeiben megegyező – közvetlen és önálló kötelezettséget vállalhat a kiállító által kötött biztosítási szerződésből eredő, a biztosító társaság által kifizetett összeg megtérítésére a biztosító társaság felé (a továbbiakban: kiállítási viszontgarancia)
+(5) Az államháztartásért felelős miniszter a kiemelkedő kulturális érdeket jelentő kiállítás megrendezése érdekében az állam nevében – a kiállítási garanciával tartalmában és feltételeiben megegyező – közvetlen és önálló kötelezettséget vállalhat a kiállító által kötött biztosítási szerződésből eredő, a biztosító társaság által kifizetett összeg megtérítésére a biztosító társaság felé (a továbbiakban: kiállítási viszontgarancia).
 
 (6) A kár megtérítésére tekintettel a biztosító társaságot megillető jogok a kiállítási viszontgarancia alapján a központi költségvetés által kifizetett összeg erejéig az államra szállnak át.

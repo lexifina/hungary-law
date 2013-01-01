@@ -18,7 +18,7 @@ a) a helyi önkormányzat,
 
 b) a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat (a továbbiakban együtt: nemzetiségi önkormányzat),
 
-c) a jogi személyiségű társulás, a többcélú kistérségi társulás,
+c) a társulás,
 
 d) a térségi fejlesztési tanács, és
 

@@ -14,11 +14,11 @@
 
 (7) A központi költségvetési szervhez 2011. december 31-éig befolyt és e törvény hatálybalépéséig fel nem használt bírságbevételek és azok kamatainak felhasználására a bírság kiszabását lehetővé tevő törvénynek a bírság felhasználására jogosult személyét és a bírság felhasználásának célját meghatározó rendelkezése esetén annak 2011. december 31-én hatályos rendelkezéseit kell alkalmazni. A központi költségvetési szervek által 2011. december 31-éig jogerősen kiszabott és 2012. január 1-jét követően befolyt bírságbevételek és azok kamatai tekintetében a 42. §-ban foglaltakat kell alkalmazni.
 
-(8) E törvénynek a vállalkozási tevékenység maradványából származó befizetési kötelezettségre vonatkozó szabályait a 2011. évi vállalkozási tevékenység maradványára is alkalmazni kell.
+(8)
 
 (9) A VI. fejezet szabályait az e törvény hatálybalépését követően benyújtott támogatási igényekre, pályázati úton biztosított költségvetési támogatás esetén az e törvény hatálybalépését követően megjelentetett pályázati kiírásokra, és az azok alapján nyújtott költségvetési támogatásokra kell először alkalmazni.
 
-(10) A 2012. évben a helyi nemzetiségi önkormányzatok részére a 14. § (3) bekezdés szerinti fejezetben meghatározott költségvetési támogatásokat a 2011. december 30-án hatályos szabályok szerint kell igényelni és folyósítani. A helyi önkormányzat a költségvetési támogatás helyi nemzetiségi önkormányzatot megillető, a nettósítás során csökkentett összegét a fizetési számláján történő jóváírástól számított három munkanapon belül továbbutalja a helyi nemzetiségi önkormányzat fizetési számlájára.
+(10)
 
 (11) Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, azon a 63. § (1) bekezdésében meghatározott kormányzati ellenőrzési szervet kell érteni.
 
@@ -32,28 +32,16 @@
 
 (16) E törvény 2012. december 31-én hatályos rendelkezéseit 2013. június 30-áig a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján működő többcélú kistérségi társulásokra, valamint a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény alapján létrejött társulásokra is alkalmazni kell.
 
+(16a) A többcélú kistérségi társulás megszűnése esetén a társulási megállapodásban megjelölt önkormányzat (a továbbiakban: kijelölt önkormányzat) felel a tárgyévben, illetve a tárgyévet megelőző években a központi költségvetésből származó támogatásokkal való elszámolásért. Eltérő megállapodás hiányában a kijelölt önkormányzat a többcélú kistérségi társulás korábbi székhelye szerinti települési önkormányzat. A társulási tanács elnöke a megszüntetésről hozott döntést követően haladéktalanul tájékoztatja a kincstárat a kijelölt önkormányzatról.
+
 (17) A Magyar Államkincstár Részvénytársaság munkavállalóinak köztisztviselőként történő továbbfoglalkoztatása esetén
 
 a) a végkielégítésre és a jubileumi jutalomra jogosító idő meghatározásánál is közszolgálati jogviszonyban töltött időnek minősül a 2001. december 31-ig a Magyar Államkincstárnál elismert közalkalmazotti, valamint 2002. január 1-jétől a Magyar Államkincstár Részvénytársaságnál munkaviszonyban töltött idő, a munkavállaló nem jogosult ugyanazon fokozatú jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban már megkapta,
 
 b) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben meghatározott felmentési idő mértéke meghaladhatja a hat hónapot azon köztisztviselők esetében, akik a Magyar Államkincstár megszűnésekor a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 33. §-ában foglaltak alapján 2001. december 31-ével azonos vagy magasabb mértékű felmentési időre voltak jogosultak közalkalmazotti jogviszonyuk megszűnésekor.
 
-(18) Amennyiben a helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv és a helyi nemzetiségi önkormányzati költségvetési szerv adóhatósághoz történő bejelentkezése az e törvény hatálybalépésére tekintettel vált szükségessé 2012. január 1-jén és e kötelezettségének nem tett eleget, az e bekezdésben említett szerv a bejelentési kötelezettségét legkésőbb 2012. július 31. napjáig teljesíti, azzal, hogy a bejelentkezéskor az adóköteles tevékenység kezdő időpontját is köteles közölni.
+(18) A többcélú kistérségi társulások által igénybevett támogatások elszámolása felülvizsgálata megkezdésének határideje – a 60. § (1) bekezdésében foglaltaktól eltérően – a költségvetési évet követő második év június 30-a.
 
-(19) A helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv és a helyi nemzetiségi önkormányzati költségvetési szerv az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdés a)–d), illetve h) pontja szerinti nyilatkozatot 2012. július 31-ig – közvetlenül az állami adóhatósághoz benyújtott nyilatkozatával – jogosult megtenni, megváltoztatni, mely során
-
-a) az alanyi adómentesség választására vonatkozó joggal abban az esetben is élhet, ha
-
-aa) az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 188. § (1) bekezdés a) pontjában meghatározott feltételt nem teljesíti,
-
-ab) az Áfa tv. 191. § (3) bekezdésében rögzített időtartam még nem telt el,
-
-b) az Áfa tv. 88. § (1) bekezdésében említett választástól abban az esetben is eltérhet, ha a 88. § (5) bekezdésében rögzített időtartam még nem telt el.
-
-(20) A (19) bekezdés alapján tett nyilatkozatot úgy kell tekintetni, mintha azt a helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv és a helyi nemzetiségi önkormányzati költségvetési szerv 2011. december 31-ig az állami adóhatósághoz bejelentette volna.
-
-(21) A (19) bekezdés szerinti bejelentéssel összefüggő önellenőrzés esetén önellenőrzési pótlékot sem felszámítani sem megfizetni nem kell.
-
-(22) A helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv, a helyi nemzetiségi önkormányzati költségvetési szerv gazdálkodásának elkülönítése adó- és illetékfizetési kötelezettséget nem keletkeztet, azzal az eltéréssel, hogy azt általános forgalmi adó szempontból az Áfa tv. 17. § (3) bekezdése szerinti jogutódlással történő megszűnésnek kell tekinteni. Az elkülönített gazdálkodás tekintetében az elkülönítést követően gazdálkodást folytató helyi önkormányzatot, többcélú kistérségi társulást, jogi személyiségű társulást, helyi nemzetiségi önkormányzatot, helyi önkormányzati költségvetési szervet, helyi nemzetiségi önkormányzati költségvetési szervet az adó- és illetéktörvények szempontjából úgy kell tekinteni, mintha jogutódként járna el.
+(19)–(22)
 
 (23) A helyi önkormányzat, a helyi nemzetiségi önkormányzat 2011. évben igénybevett támogatásai elszámolásának 60. § szerinti felülvizsgálatára az e törvény 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.

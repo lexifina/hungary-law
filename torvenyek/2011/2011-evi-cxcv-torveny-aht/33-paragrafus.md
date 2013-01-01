@@ -4,7 +4,13 @@
 
 (3) A fejezetet irányító szerv a fejezeten belül a költségvetési szervek előirányzatai terhére átcsoportosítást hajthat végre, ha a költségvetési szerv előirányzatain megtakarítás keletkezik, vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával, megszüntetésével kapcsolatban szükséges.
 
-(4) A fejezetet irányító szerv – a 32. § b)–g) pontja szerinti előirányzatok kivételével – a fejezeti kezelésű előirányzatok terhére – a Kormány irányítása alá tartozó fejezet esetén az államháztartásért felelős miniszter előzetes engedélyével – a fejezeten belül átcsoportosítást hajthat végre, ha a fejezeti kezelésű előirányzat előirányzatain megtakarítás keletkezik, vagy az átcsoportosítás a közfeladatok változásával kapcsolatban szükséges.
+(4) A fejezetet irányító szerv – a 32. § b)–g) pontja szerinti előirányzatok kivételével – a fejezeti kezelésű előirányzatok terhére a fejezeten belül átcsoportosítást hajthat végre, ha
+
+a) a fejezeti kezelésű előirányzat előirányzatain megtakarítás keletkezik, vagy az átcsoportosítás a közfeladatok változásával kapcsolatban szükséges, vagy
+
+b) a fejezeti általános tartalék fejezeten belüli átcsoportosítása előre nem valószínűsíthető és nem tervezhető költségvetési kiadás teljesítéséhez szükséges.
+
+(4a) A (4) bekezdés szerinti előirányzat-átcsoportosítás – a (4) bekezdés b) pontja szerinti és az olyan előirányzat-átcsoportosítás kivételével, amely az európai uniós források felhasználásával kapcsolatos költségvetési kiadásokkal érintett fejezeti kezelésű előirányzatok javára történik – a Kormány irányítása alá tartozó fejezet esetében az államháztartásért felelős miniszter előzetes engedélyével történhet.
 
 (5) A fejezetet irányító szerv a fejezeti kezelésű előirányzatok terhére más fejezethez tartozó címekhez, alcímekhez a fejezetet irányító szerv hatáskörében átcsoportosítást hajthat végre, ha az államháztartás központi alrendszerébe tartozó költségvetési szerv részére pályázati úton elnyert költségvetési támogatás biztosításával, az európai uniós források felhasználásával vagy elkülönített állami pénzalap javára feladatátadással kapcsolatban szükséges.
 

@@ -4,7 +4,7 @@
 
 ## 5. A költségvetési szerv fogalma, tevékenységei
 
-7. § (1) A költségvetési szerv jogszabályban vagy az alapító okiratban meghatározott közfeladat ellátására létrejött jogi személy.
+7. § (1) A költségvetési szerv jogszabályban vagy az alapító okiratban meghatározott közfeladat ellátására létrejött jogi személy. A nemzeti köznevelésről szóló törvény szerinti állami intézményfenntartó központ egyes szervezeti egységei törvényben foglaltak szerint jogi személyiséggel rendelkezhetnek.
 
 (2) A költségvetési szerv tevékenysége lehet
 

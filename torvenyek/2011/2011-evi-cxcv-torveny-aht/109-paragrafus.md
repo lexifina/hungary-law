@@ -16,11 +16,11 @@
 
 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásának rendjét,
 
-6. az államháztartás önkormányzati alrendszerében az irányító szerv és az általa irányított költségvetési szervek költségvetési bevételei és költségvetési kiadásai között megtervezendő tételeket, a körjegyzőség és a körjegyzőségben részt vevő helyi önkormányzatok költségvetésének sajátos szabályait, a költségvetési koncepció és a költségvetési rendelet, határozat előkészítésének, elfogadásának részletszabályait, a 24. § (4) bekezdés c) pontja szerinti közvetett támogatások további részletezését a költségvetés és a zárszámadás elfogadása során,
+6. az államháztartás önkormányzati alrendszerében az irányító szerv és az általa irányított költségvetési szervek költségvetési bevételei és költségvetési kiadásai között megtervezendő tételeket, a költségvetési koncepció és a költségvetési rendelet, határozat előkészítésének, elfogadásának részletszabályait, a 24. § (4) bekezdés c) pontja szerinti közvetett támogatások további részletezését a költségvetés és a zárszámadás elfogadása során,
 
 7. a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit,
 
-8. a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos követelményeket, a bevételi kiemelt előirányzatokat, a továbbadási célú bevételek elszámolásának sajátos szabályait,
+8. a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos követelményeket, a bevételi kiemelt előirányzatokat,
 
 9. a költségvetési szerv és a fejezeti kezelésű előirányzat többletbevétele felhasználása engedélyezésének eseteit, az engedélyezés szempontjait, eljárási szabályait, az engedélyezők körét, az engedély megadása, megtagadása esetén a többletbevétel további rendeltetését, a 33. § (2) bekezdése szerinti eseteket, valamint az előirányzatok módosításának és az előirányzatok átcsoportosításának módját, az előirányzat-csoportok közötti és a kiemelt előirányzatok közötti átcsoportosítás eseteit, módját és az arra jogosultak körét
 
@@ -36,7 +36,7 @@
 
 15. a 49. § szerinti lebonyolító szerv megbízásának, feladatellátásának, elszámoltatásának szabályait, a költségvetési támogatások biztosításának e törvény előírásain felüli további feltételeit, a költségvetési támogatások igénylésének, biztosításának, folyósításának – ide értve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a felhasználásról szóló beszámolásnak, ellenőrzésnek, és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének részletes szabályait, a kincstár által működtetett monitoring rendszerrel kapcsolatos szabályokat, valamint az európai uniós forrásból nyújtott támogatások és az államháztartás alrendszereinek felajánlott külföldi segélyek és adományok felhasználásának információs rendszereit és monitoring szabályait,
 
-16. a 14. § (3) bekezdés szerinti fejezetben meghatározott hozzájárulások, támogatások igénylésére, az arról történő lemondásra, évközi módosítására, az igénylés, igénybevétel évközi felülvizsgálatára, a hozzájárulásokkal, támogatásokkal történő elszámolásra, az elszámolás felülvizsgálatára és a hatósági eljárásban meghozott határozatok, végzések kötelező tartalmi elemeire vonatkozó részletes szabályokat, valamint az 57. § (4) bekezdése és 58. § (3) bekezdése szerinti kamatok alapját, mértékét, felszámításának szabályait, kezdő és záró napját, valamint a 83. § (5) és (6) bekezdésében a nettósításban felfüggesztett támogatás visszatérítésének szabályait,
+16. a 14. § (3) bekezdés szerinti fejezetben meghatározott támogatások igénylésére, az arról történő lemondásra, az évközi módosításra, az igénylés, igénybevétel évközi felülvizsgálatára a hatósági eljárásban meghozott határozatok, végzések kötelező tartalmi elemeire vonatkozó részletes szabályokat, valamint az 57/A. § (2) bekezdése szerinti kamatok alapját, mértékét, felszámításának szabályait, kezdő és záró napját, valamint a 83. § (5) és (6) bekezdésében a nettósításban felfüggesztett támogatás visszatérítésének szabályait,
 
 17. a kormányzati ellenőrzéssel, a belső kontrollrendszerrel, a belső ellenőrzéssel, a belső kontrollrendszerrel és a belső ellenőrzéssel kapcsolatos kötelező továbbképzésekkel, a kincstári biztos és az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat,
 
@@ -46,7 +46,7 @@
 
 20. a 78. § (2) bekezdése szerinti likviditási tervek tartalmát, elkészítésének, aktualizálásának, valamint a 78. § (4) bekezdése szerinti megelőlegezések feltételeinek, a megelőlegezett összeg visszapótlásának szabályait,
 
-21. a helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, és a térségi fejlesztési tanács fizetési számláinak és az ahhoz kapcsolódó alszámlák körét, felhasználásuk szabályait, a kincstár által végzett fedezetvizsgálat szempontjait, a fedezetvizsgálat alóli kivételeket, és a 80. § (2) bekezdése szerinti szabályzat további tartalmi elemeit,
+21. a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, és a térségi fejlesztési tanács fizetési számláinak és az ahhoz kapcsolódó alszámlák körét, felhasználásuk szabályait, a kincstár által végzett fedezetvizsgálat szempontjait, a fedezetvizsgálat alóli kivételeket, és a 80. § (2) bekezdése szerinti szabályzat további tartalmi elemeit,
 
 22. az államháztartás alrendszereiben a készpénzhasználat és a házipénztár működtetésének részletes szabályait,
 
@@ -112,7 +112,7 @@ rendeletben szabályozza.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben megállapítsa a rendezett munkaügyi kapcsolatok feltételeit, a feltételek igazolásának módját és általános eljárási szabályait.
 
-(5) Felhatalmazást kapnak a miniszterek, hogy a költségvetési évre vonatkozóan az államháztartásért felelős miniszterrel egyetértésben évente megalkotott rendeletben állapítsák meg a fejezeti kezelésű előirányzatok kezelésével, felhasználásával kapcsolatosan a támogatási igények benyújtásának, elbírálásának, a pályázatok lebonyolításának, a beszámolásnak, a visszakövetelésnek és a felhasználás ellenőrzésének szabályait, továbbá fejezeti kezelésű előirányzatonként
+(5) Felhatalmazást kap a Kormány tagja, hogy – a központi költségvetésről szóló törvény uniós fejlesztések fejezet tekintetében abban az esetben, ha annak meghatározására más nem kapott felhatalmazást – az államháztartásért felelős miniszter egyetértésével kiadott rendeletben – a költségvetési évre tekintet nélkül – állapítsa meg az általa irányított fejezetbe sorolt fejezeti kezelésű előirányzatok felhasználásával kapcsolatosan a támogatási igények benyújtásának, elbírálásának, a pályázatok lebonyolításának, a beszámolásnak, a visszakövetelésnek és a felhasználás ellenőrzésének szabályait, továbbá fejezeti kezelésű előirányzatonként
 
 a) a fejezeti kezelésű előirányzatok felhasználási célját,
 
@@ -130,7 +130,17 @@ cd) a kikötendő biztosítékokat, és
 
 d) a kezelő szerv esetleges kijelölését, a lebonyolító szerv igénybevételének lehetőségét.
 
-(6) Felhatalmazást kap a helyi önkormányzat, hogy rendeletben az önkormányzati biztos kirendelésének feltételei közül az e törvényben foglaltaknál kisebb mértéket, rövidebb időtartamot és lejáratot állapíthasson meg.
+(5a) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben megállapítsa a központi költségvetés 14. § (3) bekezdése szerinti fejezetébe tartozó olyan központi kezelésű előirányzat terhére nyújtott költségvetési támogatás
+
+a) felhasználási célját és lehetséges kedvezményezettjei körét, továbbá
+
+b) igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
+
+amely előirányzatra vonatkozóan az a) és b) pont szerinti szabályokat törvény nem állapítja meg és azok megállapítására más nem kapott felhatalmazást.
+
+(5b) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg a 14. § (3) bekezdése és (4) bekezdés a) és b) pontja szerinti fejezetbe nem tartozó központi kezelésű előirányzatok jogszabály kiadását igénylő felhasználási szabályait és kijelölje azok kezelő szervét, ha azt törvény nem állapítja meg, illetve jelöli ki, és arra más nem kapott felhatalmazást.
+
+(6) Felhatalmazást kap a helyi önkormányzat, hogy rendeletben állapítsa meg a kiadások készpénzben történő teljesítésének eseteit.
 
 (7) Az (1) bekezdés 15. pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben meghatározott nyilvántartásokkal kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 

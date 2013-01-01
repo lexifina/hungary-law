@@ -1,4 +1,4 @@
-21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az előre nem valószínűsíthető, nem tervezhető költségvetési kiadásokra és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására.
+21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az év közben meghozott kormányzati döntésekből következő feladatok finanszírozására és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására.
 
 (2) A rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzata nem lehet több a központi költségvetésről szóló törvény kiadási főösszegének 2%-ánál, és nem lehet kevesebb 0,5%-ánál.
 
