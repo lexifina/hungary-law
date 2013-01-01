@@ -1,7 +1,11 @@
-81. §[^350] (1)[^351] A gyámhivatal székhelye szerinti jegyző a határozat jogerőre emelkedését követő hónap utolsó napjáig intézkedik az otthonteremtési támogatás összegének, részösszegének kifizetése iránt.
+81. §[^375] (1) A gyámhivatal értesítése alapján az otthonteremtési támogatást folyósító fővárosi és megyei kormányhivatal (e § alkalmazásában: folyósító szerv) a határozat jogerőre emelkedését követő hónap utolsó napjáig intézkedik az otthonteremtési támogatás összegének, részösszegének kifizetése iránt.
 
-(2)[^352] A gyámhivatal székhelye szerinti jegyző a jogerősen megállapított otthonteremtési támogatás összegét, részösszegét – kifizetés céljából – a 9. számú melléklet szerinti adatlapon minden hónap 10. napjáig jelenti az Igazgatóságnak. Az otthonteremtési támogatással való elszámolás során egyebekben a 76. § (2)–(4) bekezdésben foglaltak szerint kell eljárni.
+(2) Az otthonteremtési támogatás finanszírozására szolgáló fejezeti kezelésű előirányzat tekintetében az otthonteremtési támogatással kapcsolatos feladatokat a fővárosi és megyei kormányhivatal, mint lebonyolító szerv látja el. A lebonyolító szervet az utalványozás joga megilleti.
 
-[^350]: A 81. § a 14/2003. (II. 12.) Korm. rendelet 43. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^351]: A 81. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés j) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^352]: A 81. § (2) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 86. §-ának i) pontja, az 57/2006. (III. 21.) Korm. rendelet 16. § (12) bekezdésének f) pontja, a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés k) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+(3) A gyámhivatal a jogerősen megállapított otthonteremtési támogatás kifizetése érdekében minden hónap 10-éig értesíti a folyósító szervet a jogosultak folyósításhoz szükséges adatairól és a kifizetés havi összegéről.
+
+(4) A folyósító szerv a beérkezett adatokat feldolgozza és az összesítést követően a létszám- és kifizetési összeg adatokat minden hónap 15-éig, gyámhivatalonkénti bontásban – számítógépes hálózaton – megküldi a Minisztérium részére.
+
+(5) A Minisztérium minden hónap 25-éig a folyósító szerv rendelkezésére bocsátja a (4) bekezdés szerinti összeget.
+
+[^375]: A 81. § a 352/2012. (XII. 13.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.

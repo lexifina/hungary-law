@@ -2,7 +2,7 @@
 
 ## A kapcsolattartási ügyek
 
-27. §[^89] (1) A kapcsolattartás célja, hogy
+27. §[^93] (1) A kapcsolattartás célja, hogy
 
 a) a gyermek és a 28. § (1) bekezdése szerinti kapcsolattartásra jogosult személyek (a továbbiakban: kapcsolattartásra jogosult) közötti családi kapcsolatot fenntartsa, továbbá
 
@@ -20,7 +20,7 @@ c) a gyermekkel személyes érintkezés nélkül történő rendszeres kapcsolat
 
 (4) Az időszakos kapcsolattartás magában foglalja a gyermekkel a tanítási szünetek és a többnapos ünnepek időszakában való huzamos együttlétet.
 
-(5)[^90] Nincs helye folyamatos kapcsolattartásnak
+(5)[^94] Nincs helye folyamatos kapcsolattartásnak
 
 a) az időszakos kapcsolattartás ideje alatt,
 
@@ -32,10 +32,10 @@ bb) ha a kapcsolattartást rendező egyezség, illetve a kapcsolattartás enged�
 
 ## nem haladhatja meg.
 
-(6)[^91] A gyermek érdekét veszélyeztető körülmény, illetve felróható magatartás hiányában a kapcsolattartásra jogosulttól az elvitel jogát is magában foglaló kapcsolattartás nem vonható meg.
+(6)[^95] A gyermek érdekét veszélyeztető körülmény, illetve felróható magatartás hiányában a kapcsolattartásra jogosulttól az elvitel jogát is magában foglaló kapcsolattartás nem vonható meg.
 
 (7) A gyermek elvitelével felmerülő költségek a kapcsolattartásra jogosultat terhelik.
 
-[^89]: A 27. § a 315/2005. (XII. 25.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^90]: A 27. § (5) bekezdése a 251/2006. (XII. 6.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^91]: A 27. § (6) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 23. § (6) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^93]: A 27. § a 315/2005. (XII. 25.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^94]: A 27. § (5) bekezdése a 251/2006. (XII. 6.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^95]: A 27. § (6) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 23. § (6) bekezdés a) pont ac) alpontja szerint módosított szöveg.

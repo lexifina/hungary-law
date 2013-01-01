@@ -26,7 +26,7 @@
 
 ## jegyző aláírása
 
-5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^736]
+5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^802]
 
 ## Adatlap a kiegészítő gyermekvédelmi támogatás címén igénybe vehető előleg igényléséhez
 
@@ -80,4 +80,4 @@ P. H.
 
 a jegyző aláírása
 
-[^736]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
+[^802]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.

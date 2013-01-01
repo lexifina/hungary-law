@@ -1,12 +1,12 @@
 ## A védelembe vétel felülvizsgálata
 
-90. §[^379] (1) A védelembe vétel felülvizsgálata iránti eljárás
+90. §[^413] (1) A védelembe vétel felülvizsgálata iránti eljárás
 
 a) hivatalból indul
 
 aa) az elrendelő határozatban foglalt időpontban,
 
-ab) ha a jegyzőnek hivatalos tudomása van a felülvizsgálat szükségességéről,
+ab)[^414] ha a gyámhivatalnak hivatalos tudomása van a felülvizsgálat szükségességéről,
 
 ac) a kirendelt családgondozó kezdeményezésére,
 
@@ -14,7 +14,7 @@ ad) ha a védelembe vétel fennállása alatt a fiatalkorú pártfogó felügyel
 
 b) a korlátozottan cselekvőképes gyermek, a szülő, illetve más törvényes képviselő kérelmére indul.
 
-(2) A pártfogó felügyelő a védelembe vétel felülvizsgálatának kezdeményezésével egyidejűleg közli a jegyzővel a fiatalkorú pártfogó felügyeletét elrendelő határozatot.
+(2)[^415] A pártfogó felügyelő a védelembe vétel felülvizsgálatának kezdeményezésével egyidejűleg közli a gyámhivatallal a fiatalkorú pártfogó felügyeletét elrendelő határozatot.
 
 (3) A pártfogó felügyelet alatt álló fiatalkorú védelembe vételének felülvizsgálata során vizsgálni kell különösen a megállapított magatartási szabályokat, az egyéni gondozási-nevelési tervet és az egyéni párfogó felügyelői tervet.
 
@@ -32,6 +32,9 @@ d) szükség esetén a pártfogó felügyelő és a kirendelt családgondozó fe
 
 e) a Gyvt. 68. § (3) bekezdése alapján elrendelt újabb intézkedésekről,
 
-f) a Gyvt. 68. § (5) bekezdése szerinti eredménytelen védelembe vétel esetén a gyámhivatal értesítéséről.
+f)[^416]
 
-[^379]: A 90. § a 173/2009. (VIII. 29.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^413]: A 90. § a 173/2009. (VIII. 29.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^414]: A 90. § (1) bekezdés a) pont ab) alpont a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 16. pontja szerint módosított szöveg.
+[^415]: A 90. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 17. pontja szerint módosított szöveg.
+[^416]: A 90. § (5) bekezdés f) pontját a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés e) pont ek) alpontja hatályon kívül helyezte.

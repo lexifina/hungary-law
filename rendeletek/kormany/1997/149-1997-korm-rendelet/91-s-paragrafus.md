@@ -1,3 +1,3 @@
-## 91/R. §[^437]
+## 91/R. §[^484]
 
-[^437]: A 91/R. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés c) pontja.
+[^484]: A 91/R. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés c) pontja.

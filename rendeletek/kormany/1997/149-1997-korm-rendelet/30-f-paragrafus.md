@@ -1,4 +1,4 @@
-30/F. §[^113] (1) Ha az átmeneti gondozásban lévő gyermek és a kapcsolattartásra jogosult hozzátartozója külön élnek, a gyámhivatal vagy a bíróság kérelemre szabályozza a kapcsolattartást.
+30/F. §[^117] (1) Ha az átmeneti gondozásban lévő gyermek és a kapcsolattartásra jogosult hozzátartozója külön élnek, a gyámhivatal vagy a bíróság kérelemre szabályozza a kapcsolattartást.
 
 (2) A gyámhivatal vagy a bíróság felügyelt kapcsolattartást rendel el, ha az átmeneti gondozásban lévő gyermek számára ez látszik biztonságosnak, mert a kapcsolattartásra jogosult személy a gyermeket bántalmazta vagy elhanyagolta.
 
@@ -14,4 +14,4 @@ d) az elmaradt kapcsolattartás pótlásának rendjét,
 
 e) a kapcsolattartás egyéb formáinak meghatározását (levelezés, elektronikus levelezés, telefonkapcsolat, ajándékozás, csomagküldés).
 
-[^113]: A 30/F. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^117]: A 30/F. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

@@ -1,10 +1,10 @@
-## 8/C. §[^25] Az örökbefogadási ügyek elbírálásához szükséges iratok, valamint a hatósági, bírósági döntést tartalmazó közokiratok kivételével a gyámhatóság eltekinthet a nem magyar nyelvű irat hiteles magyar fordításának beszerzésétől, ha a gyámhatóság valamely ügyintézője az adott nyelvből államilag elismert, legalább középfokú nyelvvizsgával rendelkezik. Azon nyelvek listáját, amelyek esetében hiteles magyar fordítás nem szükséges, a gyámhatóság a honlapján közzéteszi.
+## 8/C. §[^28] Az örökbefogadási ügyek elbírálásához szükséges iratok, valamint a hatósági, bírósági döntést tartalmazó közokiratok kivételével a gyámhatóság eltekinthet a nem magyar nyelvű irat hiteles magyar fordításának beszerzésétől, ha a gyámhatóság valamely ügyintézője az adott nyelvből államilag elismert, legalább középfokú nyelvvizsgával rendelkezik. Azon nyelvek listáját, amelyek esetében hiteles magyar fordítás nem szükséges, a gyámhatóság a honlapján közzéteszi.
 
 ## Környezettanulmány
 
-9. § (1)[^26] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a gyermekjóléti szolgálatot.
+9. § (1)[^29] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a gyermekjóléti szolgálatot és a települési önkormányzat jegyzőjét.
 
-(2)[^27] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
+(2)[^30] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
 
 a) az örökbefogadhatónak nyilvánításra irányuló eljárás során a gyermekjóléti szolgálatot,
 
@@ -12,7 +12,7 @@ b) az örökbefogadás előtti eljárás és az örökbefogadás engedélyezése
 
 kérheti fel.
 
-(3)[^28] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza
+(3)[^31] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza
 
 a) a gyermek
 
@@ -36,7 +36,7 @@ bd) anyagi és szociális körülményeit,
 
 be) ügyének szempontjából lényeges megállapításokat.
 
-[^25]: A 8/C. §-t a 315/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^26]: A 9. § (1) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^27]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^28]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 3. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A 8/C. §-t a 315/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 9. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^30]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^31]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 3. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

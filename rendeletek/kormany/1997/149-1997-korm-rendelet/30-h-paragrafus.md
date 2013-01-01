@@ -1,4 +1,4 @@
-30/H. §[^115] (1) Az átmeneti nevelésbe vétel és különösen indokolt esetben a tartós nevelésbe vétel elrendelésével, illetve felülvizsgálatával egyidejűleg – a gyermek és lehetőség szerint a szülő véleményét figyelembe véve – a gyámhivatal
+30/H. §[^119] (1) Az átmeneti nevelésbe vétel és különösen indokolt esetben a tartós nevelésbe vétel elrendelésével, illetve felülvizsgálatával egyidejűleg – a gyermek és lehetőség szerint a szülő véleményét figyelembe véve – a gyámhivatal
 
 a) hivatalból szabályozza a gyermek szüleivel, nagyszüleivel, testvéreivel való kapcsolattartását, és ennek keretében
 
@@ -24,4 +24,4 @@ d) felhívja a gyám figyelmét, hogy jeleznie kell a gyámhivatalnak, ha a kapc
 
 (3) A gyermekvédelmi gondoskodás alatt álló gyermek gyámja – a gyermek érdekében és a gyermek testvéreivel való kapcsolat ápolása céljából, különösen, ha azt a gyermek is kéri – biztosíthatja, hogy a gyermek személyes kapcsolatait a 28. § (1) bekezdésben felsorolt személyeken kívül mással is ápolhassa. A gyám köteles jelezni a gyámhivatalnak, ha az ítélőképessége birtokában lévő gyermek és közte vita áll fenn a személyes kapcsolatok ápolása kérdésében. A gyám és a gyermek közötti vita esetén a gyámhivatal dönt.
 
-[^115]: A 30/H. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^119]: A 30/H. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

@@ -1,14 +1,16 @@
-## Tájékoztatás a vér szerinti szülő adatairól
+## A származás megismerésével kapcsolatos eljárás általános szabályai[^259]
 
-53. § (1)[^239] A 14. életévét betöltött örökbefogadott gyermek a vér szerinti szülője adatainak megismerése iránti kérelmét önállóan, törvényes képviselőjének hozzájárulása nélkül is előterjesztheti.
+53. §[^260] (1) A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (2) bekezdés a) pontjában meghatározott, a származásával kapcsolatos tényekről.
 
-(2) A gyámhivatal a vér szerinti szülő adatairól történő felvilágosítás megadása előtt meggyőződik arról, hogy az adatok megadása nem áll a kiskorú gyermek érdekével ellentétben.
+(2) A tizennegyedik életévét betöltött örökbefogadott gyermek és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (2) bekezdés b) pontjában meghatározott vér szerinti hozzátartozóinak adatairól.
 
-(3) Indokolt esetben a gyámhivatal a tájékoztatás megadása előtt kikéri a gyermekvédelmi szakszolgálat pszichológiai szakvéleményét arra vonatkozóan, hogy a gyermek személyiségfejlődését az adatokról történő tájékoztatás nem veszélyezteti-e.
+(3) A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával, a tizennegyedik életévét betöltött örökbefogadott gyermek törvényes képviselője és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (7) bekezdésében meghatározott egészségügyi adatokról.
 
-(4) A kiskorú örökbefogadott esetén a tájékoztatás megadásához a gyámhivatal meghallgatja a vér szerinti és az örökbefogadó szülőt, nagykorú örökbefogadott esetén csak a vér szerinti szülőt.
+(4) A származás megismerésével kapcsolatos eljárás megindítására vonatkozó kérelem személyesen, az örökbefogadott lakóhelye szerinti kijelölt gyámhivatalnál terjeszthető elő. A származás megismerésével kapcsolatban kérhető adatok köréről a gyámhivatal tájékoztatja a kérelmezőt, amelyet jegyzőkönyvben rögzít. Írásbeli megkeresés esetén a gyámhivatal a kérelem személyes előterjesztésének szükségességéről és a kérhető adatok köréről írásban tájékoztatást nyújt.
 
-(5)[^240] Titkos örökbefogadás esetén a vér szerinti szülő az örökbefogadó szülő személyes adatáról tájékoztatást nem kaphat.
+(5) A gyámhivatal, ha nem állnak rendelkezésre nála a kérelemmel érintett örökbefogadásra vonatkozó adatok, megkeresi az örökbefogadott születési helye szerinti anyakönyvvezetőt az örökbefogadást engedélyező határozat másolatának megküldése érdekében. Ezt követően intézkedik az 53/A–53/C. §-ban meghatározott szervek megkeresése és személyek meghallgatása iránt.
 
-[^239]: Az 53. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^240]: Az 53. § (5) bekezdését a 14/2003. (II. 12.) Korm. rendelet 26. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+(6) A gyámhivatal a származás megismerésére vonatkozó tájékoztatást személyes meghallgatás keretében adja meg, amelyet jegyzőkönyvben rögzít. Ha az ügyfél számára aránytalan nehézséggel járna a személyes megjelenés, kérelmére a gyámhivatal írásban ad tájékoztatást.
+
+[^259]: Az 53. §-t megelőző alcím a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^260]: Az 53. § a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.

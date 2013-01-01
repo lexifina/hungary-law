@@ -1,3 +1,3 @@
-## Eljárási költség[^65]
+## Eljárási költség[^69]
 
-[^65]: A 17. § előtti alcímet a 315/2005. (XII. 25.) Korm. rendelet 18. §-a iktatta be.
+[^69]: A 17. § előtti alcímet a 315/2005. (XII. 25.) Korm. rendelet 18. §-a iktatta be.

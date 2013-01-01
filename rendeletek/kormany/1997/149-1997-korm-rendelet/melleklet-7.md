@@ -32,7 +32,7 @@
 
 ## a jegyző aláírása
 
-7. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^738]
+7. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^804]
 
 ## NYILATKOZAT gyermektartásdíj megelőlegezéséhez
 
@@ -86,7 +86,7 @@ B) Jövedelmi adatok
 
 | 14. | A család összes nettó jövedelmét csökkentő tényezők (tartásdíj összege) |  |  |  |  |  |  |
 
-| 15. AZ ÜGYINTÉZŐ TÖLTI KI!Önkormányzat által folyósított rendszeres pénzbeli ellátás [a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. tv. 4. § (1) bek. i) pontja] |  |  |  |  |  |  |
+| 15. AZ ÜGYINTÉZŐ TÖLTI KI!Önkormányzat/Fővárosi és megyei kormányhivatal által folyósított rendszeres pénzbeli ellátás [a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. tv. 4. § (1) bek. i) pontja] |  |  |  |  |  |  |
 
 Egy főre jutó havi családi nettó jövedelem (az ügyintéző tölti ki!): ........................................ Ft/hó.
 
@@ -98,4 +98,4 @@ Dátum: .................................................................
 
 |  | a támogatást kérő aláírása |
 
-[^738]: Az 5. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 5. számú melléklet számozását az 57/2006. (II. 21.) Korm. rendelet 15. § (4) bekezdése 7. számú mellékletre változtatta.
+[^804]: Az 5. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 5. számú melléklet számozását az 57/2006. (II. 21.) Korm. rendelet 15. § (4) bekezdése 7. számú mellékletre változtatta, szövege a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés e) pontja szerint módosított szöveg.

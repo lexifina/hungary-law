@@ -1,6 +1,6 @@
-## Természetbeni támogatás[^268]
+## Természetbeni támogatás[^295]
 
-68. §[^269] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
+68. §[^296] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
 
 (2) A jegyző a 4. számú melléklet szerinti adatlapon
 
@@ -88,5 +88,5 @@ b) a (14) bekezdés b) pontja szerinti esetben a tárgyévet követő év márci
 
 (17) A Magyar Államkincstár a (16) bekezdés szerinti határidők lejártát követő 10 munkanapon belül tájékoztatja a Minisztériumot a visszaváltott utalványok ellenértékéről.
 
-[^268]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^269]: A 68. § a 236/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^295]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^296]: A 68. § a 236/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

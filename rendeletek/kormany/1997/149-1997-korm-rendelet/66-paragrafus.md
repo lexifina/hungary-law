@@ -6,6 +6,6 @@ a) átmenetileg tartózkodik a háztartáson kívül, így különösen diákott
 
 b) 30 napot meg nem haladóan átmeneti gondozásban részesül.
 
-(3)[^261] A családbafogadó gyám gyámsága alatt álló gyermek a jövedelemszámítás szempontjából nem tekinthető a támogatást kérővel közös háztartásban élő közeli hozzátartozónak. A reá nézve igényelt támogatás megállapításánál a gyermek megélhetését szolgáló juttatásokat kell figyelembe venni [Csjt. 104. § (1) bek.].
+(3)[^288] A családbafogadó gyám gyámsága alatt álló gyermek a jövedelemszámítás szempontjából nem tekinthető a támogatást kérővel közös háztartásban élő közeli hozzátartozónak. A reá nézve igényelt támogatás megállapításánál a gyermek megélhetését szolgáló juttatásokat kell figyelembe venni [Csjt. 104. § (1) bek.].
 
-[^261]: A 66. § (3) bekezdése a 21/2012. (II. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^288]: A 66. § (3) bekezdése a 21/2012. (II. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
