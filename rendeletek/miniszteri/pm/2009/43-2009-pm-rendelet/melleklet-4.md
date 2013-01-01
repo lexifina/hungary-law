@@ -60,122 +60,120 @@
 
 | 1.1. | Belföldön felhelyezett zárjegyek |
 
-| a) | alkoholtermék GTIN száma / VP termékazonosító-száma: ............ |
+| a) | alkoholtermék GTIN száma / VP termékazonosító-száma: |
 
-| b) | tételazonosító száma(i) / sorszámtartománya(i): ................ |
+| b) | tételazonosító száma(i) / sorszámtartománya(i): |
 
 | c) | felhasznált zárjegyek sorszámtartománya(i) |
 
-| ca) | kezdete (legkisebb számérték): ............... |
+| ca) | kezdete (legkisebb számérték): |
 
-| cb) | vége (legnagyobb számérték): .................. |
+| cb) | vége (legnagyobb számérték): |
 
 | d) | palackozott (kiszerelt) alkoholtermék mennyisége |
 
-| da) | literben: .............. |
+| da) | literben: |
 
-| db) | a fogyasztói csomagolás szerinti mennyiségi egységben (palack stb.): ............. |
+| db) | a fogyasztói csomagolás szerinti mennyiségi egységben (palack stb.): |
 
-| dc) | az adó alapjául szolgáló mennyiségi egységben: ................. |
+| dc) | az adó alapjául szolgáló mennyiségi egységben: |
 
 | 1.2. | Tagállamban felhelyezett zárjegyek |
 
-| a) | alkoholtermék GTIN száma / VP termékazonosító-száma: ............... |
+| a) | alkoholtermék GTIN száma / VP termékazonosító-száma: |
 
-| b) | tételazonosító száma(i) / sorszámtartománya(i)  ................ |
+| b) | tételazonosító száma(i) / sorszámtartománya(i): |
 
-| c) | felhasznált zárjegyek sorszámtartománya(i) |
+| c) | felhasznált zárjegyek sorszámtartománya(i): |
 
-| ca) | kezdete (legkisebb számérték): ................ |
+| ca) | kezdete (legkisebb számérték): |
 
-| cb) | vége (legnagyobb számérték): .................. |
+| cb) | vége (legnagyobb számérték): |
 
 | d) | palackozott (kiszerelt) alkoholtermék mennyisége |
 
-| da) | literben: .............. |
+| da) | literben: |
 
-| db) | a fogyasztói csomagolás szerinti mennyiségi egységben (palack stb.): .............. |
+| db) | a fogyasztói csomagolás szerinti mennyiségi egységben (palack stb.): |
 
-| dc) | az adó alapjául szolgáló mennyiségi egységben: ............. |
+| dc) | az adó alapjául szolgáló mennyiségi egységben: |
 
 | 1.3. | Harmadik országban felhelyezett zárjegyek |
 
-| a) | alkoholtermék GTIN száma / VP termékazonosító-száma: ............... |
+| a) | alkoholtermék GTIN száma / VP termékazonosító-száma: |
 
-| b) | tételazonosító száma(i) / sorszámtartománya(i): ............. |
+| b) | tételazonosító száma(i) / sorszámtartománya(i): |
 
 | c) | felhasznált zárjegyek sorszámtartománya(i) |
 
-| ca) | kezdete (legkisebb számérték): ............... |
+| ca) | kezdete (legkisebb számérték): |
 
-| cb) | vége (legnagyobb számérték): ................. |
+| cb) | vége (legnagyobb számérték): |
 
 | d) | palackozott (kiszerelt) alkoholtermék mennyisége |
 
-| da) | literben: ............. |
+| da) | literben: |
 
-| db) | a fogyasztói csomagolás szerinti mennyiségi egységben (palack stb.): ............ |
+| db) | a fogyasztói csomagolás szerinti mennyiségi egységben (palack stb.): |
 
-| dc) | az adó alapjául szolgáló mennyiségi egységben: ........... |
+| dc) | az adó alapjául szolgáló mennyiségi egységben: |
 
 | 2. | Másik saját telephelyre átadás |
 
-| a) | átadott zárjegy darabszáma: ............ és sorszáma (sorszámtartománya): ............ |
+| a) | átadott zárjegy darabszáma: ............ és sorszáma (sorszámtartománya): |
 
-| b) | fogadó telephely jövedéki száma: .............. |
+| b) | fogadó telephely jövedéki száma: ............. |
 
-| c) | szállítólevél száma: ............ |
+| c) | szállítólevél száma: |
 
 | 3. | Másik adóraktár-engedélyesnek bérmunkára átadás |
 
-| a) | átadott zárjegy darabszáma: ........... és sorszáma (sorszámtartománya): ............ |
+| a) | átadott zárjegy darabszáma: ........... és sorszáma (sorszámtartománya): |
 
-| b) | fogadó telephely jövedéki száma: ............ |
+| b) | fogadó telephely jövedéki száma: |
 
-| c) | szállítólevél száma: ............ |
+| c) | szállítólevél száma: |
 
 | 4. | Másik adóraktár-engedélyestől bérmunkára átvett zárjegy visszaadása |
 
-| a) | visszaadott zárjegy darabszáma: .............. és sorszáma (sorszámtartománya): ........... |
+| a) | visszaadott zárjegy darabszáma: .............. és sorszáma (sorszámtartománya): |
 
-| b) | fogadó telephely jövedéki száma: ........... |
+| b) | fogadó telephely jövedéki száma: |
 
-| c) | szállítólevél száma: ........... |
+| c) | szállítólevél száma: |
 
 | 5. | Külföldön történő zárjegyfelhelyezés céljából harmadik országba kiszállítás |
 
-| a) | kiszállított zárjegy darabszáma: ............... és sorszáma (sorszámtartománya): ............... |
+| a) | kiszállított zárjegy darabszáma: ................... és sorszáma (sorszámtartománya): |
 
-| b) | vámokmány száma: ........... |
+| b) | vámokmány száma: |
 
 | 6. | Másik tagállamban történő zárjegyfelhelyezés céljából másik tagállamba kiszállítás |
 
-| a) | kiszállított zárjegy darabszáma: ............. és sorszáma (sorszámtartománya): ............ |
+| a) | kiszállított zárjegy darabszáma: ............. és sorszáma (sorszámtartománya): |
 
-| b) | szállítólevél száma: ............ |
+| b) | szállítólevél száma: |
 
 | 7. | Telephelyen megsemmisítés |
 
-| a) | feleslegessé vált megsemmisített zárjegy darabszáma: .............. és sorszáma (sorszámtartománya): ............ |
+| a) | feleslegessé vált megsemmisített zárjegy darabszáma: .............. és sorszáma (sorszámtartománya): |
 
-| b) | a 14. § (2) bekezdés szerinti, gyártás közben megsérült zárjegy darabszáma: ........... és sorszáma (sorszámtartománya): .............. |
+| b) | a 14. § (2) bekezdés szerinti, gyártás közben megsérült zárjegy darabszáma: ........... és sorszáma (sorszámtartománya): |
 
-| c) | a megsemmisítésről felvett vámhatósági jegyzőkönyv száma: ............. |
+| c) | a megsemmisítésről felvett vámhatósági jegyzőkönyv száma: |
 
-| 8. | Hivatal által visszavétel |
+| 8. | KAVIG általi visszavétel |
 
-| a) | visszavett zárjegy darabszáma: ............. és sorszáma (sorszámtartománya): ............. |
+| a) | visszavett zárjegy darabszáma: ............. és sorszáma (sorszámtartománya): |
 
-| b) | a Hivatal visszavételt igazoló bizonylatának száma: ........... |
+| b) | KAVIG visszavételt igazoló bizonylatának száma: |
 
-| 9. | Gyártás közben történt, a 14. § (2) bekezdés szerinti elszámolásra nem kerülő megsérülés |
-
-| a) | tárgynapon megsérült zárjegyek darabszáma: ............. |
+| 9. | Gyártás közben megsérült, a 14. § (2) bekezdés szerinti elszámolásra nem kerülő zárjegyek darabszáma |
 
 | 10. | A zárjegy igénylőjének tevékenységi körén kívül eső elháríthatatlan okból történt – ide nem értve a lopás esetét – használhatatlanná válás, megsemmisülés |
 
-| a) | a használhatatlanná vált vagy megsemmisült zárjegy darabszáma: ............... |
+| a) | a használhatatlanná vált vagy megsemmisült zárjegy darabszáma: |
 
-| b) | a használhatatlanná válásról vagy megsemmisítésről felvett vámhatósági jegyzőkönyv száma: ............... |
+| b) | a használhatatlanná válásról vagy megsemmisítésről felvett vámhatósági jegyzőkönyv száma: |
 
 4. melléklet a 43/2009. (XII. 29.) PM rendelethez
