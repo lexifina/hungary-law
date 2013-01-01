@@ -1,0 +1,1 @@
+A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 235/A. § c) pontjában kapott felhatalmazás alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
