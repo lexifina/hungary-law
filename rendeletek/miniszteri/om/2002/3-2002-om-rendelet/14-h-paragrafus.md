@@ -1,5 +1,3 @@
-14/H. §[^43] (1) A Waldorf-iskolák tekintetében a 10–14/G. §-ban foglaltakat a (2) bekezdésben foglalt eltérésekkel kell alkalmazni.
+## 14/G. §[^12]
 
-(2) A Waldorf-iskolák művészetoktatási tevékenységének minősítése során a minősítő csoport egy tagját a minősítő testület a Magyar Waldorf Szövetség által összeállított jegyzék Waldorf-végzettségű szakembereiből jelöli ki. A minősítés szakmai szempontrendszere kidolgozásának és az intézményi tevékenység minősítésének alapja a kerettantervek kiadásáról és jóváhagyásának rendjéről, valamint egyes jogszabályok módosításáról szóló 17/2004. (V. 20.) OM rendelettel kihirdetett magyar Waldorf-iskolák kerettanterve.
-
-[^43]: A 14/H. §-t a 31/2008. (XI. 24.) OKM rendelet 8. §-a iktatta be.
+[^12]: A 14/G. §-t a 31/2008. (XI. 24.) OKM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 20/2012. (VIII. 31.) EMMI rendelet 194. § (2) bekezdése. Alkalmazására lásd e hatályon kívül helyező rendelet 193. §-át.

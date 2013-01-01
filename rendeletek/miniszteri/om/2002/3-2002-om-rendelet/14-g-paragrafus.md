@@ -1,5 +1,3 @@
-14/G. §[^42] (1) A minősítési eljárás lefolytatását kérelmező fenntartó a kérelméhez csatolt intézményi dokumentumokat, ha az eljárás pozitív eredménnyel lezárult, visszakérheti. Ha a fenntartó a kérelméhez csatolt intézményi dokumentumokat a 14/E. § (1) bekezdésében meghatározott közzétételt követően harminc napon belül nem kéri vissza, akkor a minősítő testület három minősítő testületi tag jelenlétében – jegyzőkönyv felvétele mellett – az intézmények által beküldött dokumentumokat megsemmisíti.
+## 14/A–14/F. §[^11]
 
-(2) A 14/A. § (5) bekezdésében meghatározott törvényességi kérelem benyújtása esetén a minősítő testület a 13. § (2) bekezdésében meghatározott intézményi dokumentumokat a Hivatal, illetőleg a bíróság jogerős döntését követő öt év elteltével semmisítheti meg.
-
-[^42]: A 14/G. §-t a 31/2008. (XI. 24.) OKM rendelet 7. §-a iktatta be. E módosító rendelet 9. § (6) bekezdése alapján a minősítési eljárás lefolytatását kérelmező fenntartó a 2007/2008. tanévben a kérelméhez csatolt intézményi dokumentumokat 2008. december 2. napját követő harminc napon belül visszakérheti. Amennyiben a fenntartó e dokumentumokat nem kéri vissza, a 3/2002. (II. 15.) OM rendelet 14/G. § (1) bekezdésében foglaltakat kell alkalmazni.
+[^11]: A 14/A–14/F. §-t a 12/2006. (III. 28.) OM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 20/2012. (VIII. 31.) EMMI rendelet 194. § (2) bekezdése. Alkalmazására lásd e hatályon kívül helyező rendelet 193. §-át.
