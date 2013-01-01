@@ -2,4 +2,4 @@
 
 (2) Ha a terhelt a bűncselekményt Magyarország határain kívül követte el, és az eljárást a távollétében folytatják, az a bíróság illetékes, amelynek a területén a terhelt utoljára lakott, vagy tartózkodott.
 
-(3) Ha az (1) és (2) bekezdésben foglaltak alapján az eljárásra illetékes bíróság nem állapítható meg, a helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék jár el.
+(3) Ha az (1) és (2) bekezdésben foglaltak alapján az eljárásra illetékes bíróság nem állapítható meg, a járásbíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék jár el.

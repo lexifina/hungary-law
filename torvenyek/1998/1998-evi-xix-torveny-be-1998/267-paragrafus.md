@@ -24,7 +24,9 @@ j) ha a vád nem törvényes [2. § (2) bek.],
 
 k) ha a vádirat nem felel meg a 217. § (3) bekezdésében foglaltaknak, és az ügyész nem tett eleget a 268. § (1) bekezdése szerinti megkeresésben foglaltaknak,
 
-l) tevékeny megbánás esetén [Btk. 36. § (1) bek.].
+l) tevékeny megbánás esetén [Btk. 36. § (1) bek.],
+
+m) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti konzultációs eljárás eredménye alapján a büntetőeljárást az Európai Unió másik tagállama folytatja le.
 
 (2) Az eljárás megszüntetéséről a bíróság értesíti a magánfelet azzal a figyelmeztetéssel, hogy a polgári jogi igényét egyéb törvényes úton érvényesítheti.
 

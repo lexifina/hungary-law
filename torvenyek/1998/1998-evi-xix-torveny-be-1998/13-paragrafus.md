@@ -1,10 +1,10 @@
 ## Az eljáró bíróságok
 
-13. § (1) Első fokon a helyi bíróság és a törvényszék jár el.
+13. § (1) Első fokon a járásbíróság és a törvényszék jár el.
 
 (2) Másodfokon jár el
 
-a) a törvényszék a helyi bíróság hatáskörébe tartozó ügyekben,
+a) a törvényszék a járásbíróság hatáskörébe tartozó ügyekben,
 
 b) az ítélőtábla a törvényszék hatáskörébe tartozó ügyekben,
 

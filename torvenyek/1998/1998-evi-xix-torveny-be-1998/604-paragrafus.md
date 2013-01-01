@@ -6,7 +6,9 @@ a) a büntetőeljárásban részt vevők, valamint az eljárást folytató bír�
 
 b) a hírközlési szolgáltatást, valamint a küldemények továbbítását végzők titkos adatszerzéssel kapcsolatos kötelezettségeit és hatóságokkal történő együttműködésük részletes szabályait,
 
-c) a bírósági ügyintéző által a büntető ügyekben ellátható feladatokat.
+c) a bírósági ügyintéző által a büntető ügyekben ellátható feladatokat,
+
+d) az Információs Hivatal tekintetében a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
@@ -42,7 +44,7 @@ o) a bírósági ügyvitel szabályait,
 
 p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
 
-q)
+q) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg,
 
 r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
 
@@ -56,9 +58,11 @@ rendeletben szabályozza.
 
 a) a honvédelemért felelős miniszter, hogy az érintett miniszterek egyetértésével a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályait,
 
-b) a fegyveres szervet irányító miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
+b) az (1) bekezdés d) pontja kivételével a rendvédelmi szervek tekintetében a rendvédelmi szervet irányító miniszter, a Magyar Honvédség tekintetében a honvédelemért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
 
-c) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
+c) a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével és az Országgyűlés elnöke véleményének kikérésével az Országgyűlési Őrségnél a nyomozásra illetékes parancsnokot, valamint hatáskörét és a parancsnoki nyomozás részletes szabályait,
+
+d) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
 
 rendeletben megállapítsa.
 
@@ -73,3 +77,9 @@ c) az Országos Bírósági Hivatal elnöke, hogy a bírósági eljárással kap
 d) az igazságügyért felelős miniszter, hogy a bíróság büntetés-végrehajtási feladataival kapcsolatban rendeletben
 
 az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az eljárás során gyakrabban használt más iratokra nyomtatvány rendszeresítését rendelje el.
+
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, a rendészetért felelős miniszter, az igazságügyért felelős miniszter egyetértésével kiadott rendeletben meghatározza a kábítószerfüggőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait.
+
+(7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
+
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.

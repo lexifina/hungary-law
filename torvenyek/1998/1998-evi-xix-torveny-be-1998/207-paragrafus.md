@@ -18,6 +18,8 @@ f) a vádirat benyújtása előtt az ügyész indítványára a 82. § (1) bekez
 
 (2a) A nyomozás megszüntetését követően a nyomozás folytatása nyomozási bíró általi elrendelésének indítványozását az ügyésznél lehet kezdeményezni.
 
+(2b) A vádirat benyújtása előtt az európai elfogatóparancsot a nyomozási bíró bocsátja ki.
+
 (3) A nyomozási bíró a vádirat benyújtása előtt az ügyész indítványára kihallgatja a különösen védett tanút és azt a tanút, aki az életét közvetlenül veszélyeztető állapotban van. A tanú kihallgatásának indítványozását a tanú és az érdekében eljáró ügyvéd az ügyésznél kezdeményezheti. A nyomozási bíró ismételten kihallgatja a különösen védett tanút, ha ezt a tárgyalás előkészítése vagy a tárgyalás során a bíróság elrendeli [268. § (3) bek., 305. § (3) bek.].
 
 (4) A nyomozási bíró a vádirat benyújtása előtt az ügyész indítványára kihallgatja a tizennegyedik életévét be nem töltött tanút, ha megalapozottan feltehető, hogy a tárgyaláson történő kihallgatása a fejlődését károsan befolyásolná. A tanú kihallgatásának indítványozását a törvényes képviselő, a gondozó és a tanú érdekében eljáró ügyvéd az ügyésznél kezdeményezheti.

@@ -1,3 +1,5 @@
+## Az ügyész eljárása
+
 538. § (1) Ha az ügyész a 193. § (1) bekezdése szerinti eljárási cselekményt maga végezte, ennek megtörténte után, ha pedig azt a nyomozó hatóság végezte, az iratok hozzá érkezését követő harminc napon belül az ügy iratait megvizsgálja, és ennek eredményéhez képest dönt arról, hogy a nyomozás során a bűnösségére is kiterjedő beismerő vallomást tevő terheltnek a tárgyalásról lemondásra irányuló kezdeményezését elfogadja-e. Ha az ügyész a kezdeményezéssel egyetért, erről határozatot hoz.
 
 (2) Ha az ügyész a kezdeményezéssel nem ért egyet, erről a terheltet értesíti.

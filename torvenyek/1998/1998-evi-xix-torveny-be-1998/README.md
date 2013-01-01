@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2012-09-01 | 2012. évi LXII. törvény | 1998-19-00-00.60 |
 | 2012-12-08 | 2012. évi CLXXX. törvény | 1998-19-00-00.61 |
 | 2012-12-15 | 2012. évi CLXXXIX. törvény | 1998-19-00-00.62 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 1998-19-00-00.63 |

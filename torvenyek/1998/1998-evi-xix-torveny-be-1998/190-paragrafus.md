@@ -18,7 +18,7 @@ g) ha a magánindítvány, kívánat vagy feljelentés hiányzik, és az már ne
 
 h) ha a cselekményt már jogerősen elbírálták,
 
-i)
+i) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti konzultációs eljárás eredménye alapján a büntetőeljárást az Európai Unió másik tagállama folytatja le,
 
 j) és megrovást alkalmaz, ha a gyanúsított cselekménye már nem veszélyes, vagy oly csekély fokban veszélyes a társadalomra, hogy a törvény szerint alkalmazható legenyhébb büntetés kiszabása, vagy más intézkedés alkalmazása is szükségtelen.
 

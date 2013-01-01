@@ -12,7 +12,7 @@ d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője út
 
 e) nemzetközi jogsegély keretében,
 
-f) külön jogszabályok szerint.
+f) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
 
@@ -25,6 +25,8 @@ f) külön jogszabályok szerint.
 (6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő bíróság, ügyészség, illetőleg nyomozó hatóság, valamint – ha ilyen van – a címzett utolsó ismert belföldi lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. Az iratot a hirdetménynek a bíróságnál, az ügyészségnél, illetőleg a nyomozó hatóságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 (7) A kézbesítési bizonyítvánnyal (tértivevénnyel) feladott hivatalos iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át.
+
+(7a) A 69/A. § (1) bekezdése alapján létrejött elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
 
 (8) A katonának [Btk. 122. § (1) bek.] kézbesítendő iratot az elöljárója útján kell kézbesíteni. A kézbesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a katonának az iratot küldő bíróság, ügyész, illetőleg nyomozó hatóság székhelyén nincs elöljárója, és a késedelmes kézbesítés az eljárás sikerét vagy a katona jogát, illetőleg méltányolható érdekét sértené. Ha a katona szolgálati viszonya a büntetőeljárás alatt megszűnik, a kézbesítésre az általános szabályok az irányadók.
 

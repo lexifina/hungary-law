@@ -1,6 +1,6 @@
 ## A perújítási eljárás
 
-411. § (1) A perújítás megengedhetőségének kérdésében, ha az alapügyben a helyi bíróság járt el első fokon, a törvényszék, ha a törvényszék járt el első fokon, az ítélőtábla dönt.
+411. § (1) A perújítás megengedhetőségének kérdésében, ha az alapügyben a járásbíróság járt el első fokon, a törvényszék, ha a törvényszék járt el első fokon, az ítélőtábla dönt.
 
 (2) A perújítási indítványt – ha azt nem az ügyész nyújtja be – a perújítás megengedhetőségének kérdésében döntésre jogosult bíróság területén működő ügyésznél kell írásban benyújtani vagy jegyzőkönyvbe mondani. Az ügyész az indítványt a nyilatkozatával együtt, harminc napon belül megküldi a bíróságnak. Ha a pótmagánvádló nyújt be perújítási indítványt, azt közvetlenül a döntésre jogosult bíróságnál kell előterjesztenie.
 

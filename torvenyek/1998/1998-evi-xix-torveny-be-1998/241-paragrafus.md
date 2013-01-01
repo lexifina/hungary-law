@@ -6,9 +6,9 @@ b)
 
 c) –f
 
-(2) A helyi bíróságon alügyész is képviselheti a vádat.
+(2) A járásbíróságon alügyész is képviselheti a vádat.
 
-(3) A helyi bíróságon ügyészségi fogalmazó is képviselheti a vádat, kivéve, ha
+(3) A járásbíróságon ügyészségi fogalmazó is képviselheti a vádat, kivéve, ha
 
 a) a bűncselekményre a törvény öt évi vagy ennél súlyosabb szabadságvesztést rendel,
 
