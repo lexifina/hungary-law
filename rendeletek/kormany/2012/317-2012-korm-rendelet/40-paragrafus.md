@@ -1,9 +1,8 @@
-## 39. §[^19]
+## 39. §[^13]
 
-40. § (1)[^20]
+40. § (1)[^14]
 
-(2)[^21]
+(2) A szociális szolgáltatók és intézmények működésének engedélyezéséről és ellenőrzéséről szóló 321/2009. (XII. 29.) Korm. rendelet 2. és 3. számú melléklete a 3. melléklet szerint módosul.
 
-[^19]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 40. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 40. § (2) bekezdése az 51. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^13]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 40. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
