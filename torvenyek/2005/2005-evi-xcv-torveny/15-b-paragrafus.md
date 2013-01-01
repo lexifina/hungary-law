@@ -1,5 +1,3 @@
-## Az új pszichoaktív anyagokkal kapcsolatos külön rendelkezések
-
 15/B. § (1) Valamely anyag vagy vegyületcsoport az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat 4. cikk (1) bekezdése szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
 
 (2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat a Kormány rendeletében határozza meg.

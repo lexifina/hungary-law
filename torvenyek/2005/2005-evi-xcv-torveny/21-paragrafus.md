@@ -1,6 +1,6 @@
 ## Felelősség a vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért
 
-21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a kárt szenvedett személy, illetve halála esetén a hozzátartozója [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pont] részére
+21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a kárt szenvedett személy, illetve halála esetén a hozzátartozója [a Polgári Törvénykönyv 685. § b) pont] részére
 
 a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a vizsgálat kezdeményezője,
 

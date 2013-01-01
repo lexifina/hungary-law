@@ -1,6 +1,6 @@
 ## Farmakovigilancia
 
-18. § (1) A forgalomba hozatali engedély jogosultja a jogszabályban foglaltak szerint nyilvántartja és bejelenti az EGT-államokban vagy harmadik országban bekövetkező valamennyi, a betegek vagy egészségügyi dolgozók által bejelentett vagy engedélyezés utáni vizsgálatok során észlelt feltételezett mellékhatást.
+18. § (1) A forgalomba hozatali engedély jogosultja a jogszabályban foglaltak szerint nyilvántartja és bejelenti az EGT-megállapodásban részes államokban vagy harmadik országban bekövetkező valamennyi, a betegek vagy egészségügyi dolgozók által bejelentett vagy engedélyezés utáni vizsgálatok során észlelt feltételezett mellékhatást.
 
 (2) Az egészségügyi dolgozó köteles az általa észlelt vagy tudomására jutott feltételezett mellékhatást haladéktalanul a gyógyszerészeti államigazgatási szervnek jelenteni. A gyógyszerészeti államigazgatási szerv a jogszabályban meghatározott módon nyilvántartásba veszi és továbbítja az egészségügyi dolgozók és a betegek által a tudomására hozott, Magyarországon bekövetkezett összes feltételezett mellékhatást.
 
