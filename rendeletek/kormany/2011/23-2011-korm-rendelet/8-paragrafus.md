@@ -12,6 +12,6 @@ d) a biztonsági személyzet létszámát;
 
 e) az egészségügyi biztosítás feltételeinek meglétére vonatkozó utalást; valamint
 
-f)[^5] szabadtéri rendezvényeknél a viharos időjárás esetére vonatkozó intézkedési tervet.
+f)[^6] szabadtéri rendezvényeknél a viharos időjárás esetére vonatkozó intézkedési tervet.
 
-[^5]: A 8. § f) pontja a 94/2011. (VI. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
+[^6]: A 8. § f) pontja a 94/2011. (VI. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
