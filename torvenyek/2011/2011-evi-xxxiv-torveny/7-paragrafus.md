@@ -46,7 +46,7 @@ i) a 4. § (2) bekezdés a), c) és g) pontjában és a 4. § (5) bekezdés a), 
 
 j) a 4. § (2) bekezdés a), b), c), e) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról a közlekedési igazgatási eljárás lefolytatása érdekében a közlekedési igazgatási hatóság,
 
-k) a 4. § (2) bekezdés a), c), e) és g) pontjában és a 4. § (5) bekezdés a), d), e) és f) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője
+k) a 4. § (2) bekezdés a), c), e) és g) pontjában és a 4. § (5) bekezdés a), d), e) és f) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője és az elhelyezési helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 részére.
 
