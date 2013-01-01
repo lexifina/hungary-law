@@ -1,3 +1,57 @@
+## Állami támogatásban nem részesíthető szakközépiskolai ágazatok 2013. szeptember 1-jétől az iskolai rendszerű képzésben megyénként és a fővárosra tekintettel
+
+| 1. | A | B | C |
+
+| 2. | Sorszám | Megye/főváros | Szakközépiskolai ágazat megnevezése |
+
+| 3. | I/1. | Bács-Kiskun | Bányászat |
+
+| 4. | II/1. | Budapest | Erdészet és vadgazdálkodás |
+
+| 5. | III/1. | Csongrád | Bányászat |
+
+| 6. | IV/1. | Győr-Moson-Sopron | Bányászat |
+
+| 7. | IV/2. | Győr-Moson-Sopron | Egészségügyi technika |
+
+| 8. | IV/3. | Győr-Moson-Sopron | Földmérés |
+
+| 9. | IV/4. | Győr-Moson-Sopron | Kohászat |
+
+| 10. | IV/5. | Győr-Moson-Sopron | Közlekedésépítő |
+
+| 11. | IV/6. | Győr-Moson-Sopron | Nyomdaipar |
+
+| 12. | IV/7. | Győr-Moson-Sopron | Optika |
+
+| 13. | V/1. | Vas | Bányászat |
+
+| 14. | V/2. | Vas | Kohászat |
+
+| 15. | V/3. | Vas | Közlekedésépítő |
+
+| 16. | V/4. | Vas | Nyomdaipar |
+
+| 17. | V/5. | Vas | Optika |
+
+| 18. | V/6. | Vas | Sport |
+
+| 19. | V/7. | Vas | Vegyész |
+
+| 20. | V/8. | Vas | Vegyipar |
+
+| 21. | VI/1. | Zala | Egészségügyi technika |
+
+| 22. | VI/2. | Zala | Kohászat |
+
+| 23. | VI/3. | Zala | Közlekedésépítő |
+
+| 24. | VI/4. | Zala | Nyomdaipar |
+
+| 25. | VI/5. | Zala | Optika |
+
+| 26. | VI/6. | Zala | Sport |
+
 3. melléklet a 331/2012. (XI. 28.) Korm. rendelethez
 
 Szakiskolai tanulmányi ösztöndíjra jogosító szakiskolai szakképesítések a 2013/2014-es tanévben induló képzésekben
