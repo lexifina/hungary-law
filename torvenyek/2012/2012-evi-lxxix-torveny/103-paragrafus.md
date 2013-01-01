@@ -12,7 +12,7 @@
 
 (6) A 84. §, a 85. §, a 89. §, a 92. § (2) bekezdés i) pontja 2012. szeptember 1-jén lép hatályba.
 
-(7) A 36. § (2) bekezdése, a 45. § (4) bekezdése, a 49. § (2) bekezdése, az 51. § a) és c) pontja és az 5. melléklet 2013. január 1-jén lép hatályba.
+(7) A 36. § (2) bekezdése, a 45. § (4) bekezdése, az 51. § a) pontja és az 5. melléklet 2013. január 1-jén lép hatályba.
 
 (8) Az 52. §, a 61. § és a 64. § 2013. január 2-án lép hatályba.
 
