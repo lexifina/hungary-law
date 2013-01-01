@@ -100,25 +100,21 @@
 
 | 39. |  | parancsnok- helyettes (LRP) |  |  |  |  |  |
 
-| 40. |  | főosztályvezetői illetményre jogosult | kapitányságvezető (kiemelt) | ezredes |  |  | RIASZTSZ + RMVK |  |
+| 40. |  | főosztályvezetői illetményre jogosult | kapitányságvezető (kiemelt) | ezredes |  |  | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK |  |
 
-|  | kapitányságvezető | alezredes |  |  | vagy RSZVI + |  |
+| 41. |  |  | kapitányságvezető | alezredes |  |  |  |  |
 
-|  |  |  | RVK + |  |
+| 42. | Helyi | főosztályvezető- helyettesi illetményre jogosult | határrendészeti kirendeltségvezető (kiemelt) | ezredes |  |  | RIASZTSZ vagy RSZVI + RVK |  |
 
-| 41. |  |  |  |  | RMVK |  |
+| 43. |  |  | kapitányság- vezető-helyettes (kiemelt) | alezredes |  |  |  |  |
 
-| 42. |  | főosztályvezető- helyettesi illetményre jogosult | kapitányságvezető-helyettes (kiemelt) |  |  |  | RIASZTSZ vagy RSZVI + RVK |  |
+| 44. |  |  | határrendészeti kirendeltségvezető |  |  |  |  |
 
-| 43. | Helyi | határ-rendészeti kirendeltségvezető |  |  |  |  |
+| 45. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |  |
 
-| 44. | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |
+| 46. |  |  | hivatalvezető (kiemelt) |  |  |  |  |  |
 
-| 45. |  | hivatalvezető (kiemelt) |  |  |  |  |
-
-| 46. |  |  | őrsparancsnok |  |  |  |  |
-
-|  |  |  | (osztály jogállású) |  |  |  |  |
+| 47. |  |  | őrsparancsnok (osztály jogállású) |  |  |  |  |  |
 
 ## I. Besorolási osztály
 
@@ -568,7 +564,9 @@
 
 |  |  | rendőrkapitányságok, határrendészeti kirendeltségek |  |
 
-|  | Kiemelt Rendőrkapitányság | BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV., dunai vízirendészeti, megyeszékhelyi, Gödöllői Rendőrkapitányság |
+|  | Kiemelt Rendőrkapitányság | BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV., dunai vízirendészeti, megyeszékhelyi, Gödöllői, Soproni, Nagykanizsai, Dunaújvárosi, Érdi, Hódmezővásárhelyi Rendőrkapitányság |
+
+|  | Kiemelt Határrendészeti Kirendeltség | Kelebiai, Szegedi, Záhonyi Határrendészeti Kirendeltség |
 
 |  | Egyéb rövidítések: |  |  |
 
@@ -667,6 +665,10 @@
 | 4. |  |  | főigazgató- helyettes |  |  |  |  |  |
 
 | 5. |  | főosztály- vezetői illetményre jogosult | igazgató | ezredes |  |  |  |  |
+
+| 5a. |  |  | igazgatóhelyettes |  |  |  |  |  |
+
+| 5b. |  |  | kiemelt főtanácsadó |  |  |  |  |  |
 
 | 6. |  |  | hivatalvezető |  |  |  |  |  |
 
@@ -986,7 +988,7 @@
 
 | 32. |  | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  |  |  |
 
-## I. Besorolási osztály
+## I. Besorolási osztály
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -1010,7 +1012,7 @@
 
 | 10. |  | II. | fogalmazó | százados |  |  |  |  |
 
-| 11. |  | I. | szerződéses | százados |  |  |  |  |
+| 11. |  |  |  |  |  |  |  |  |
 
 | 12. |  |  | pályakezdő | hadnagy |  |  |  |  |
 
@@ -1050,7 +1052,7 @@
 
 | 30. |  | II. | fogalmazó | százados |  |  |  |  |
 
-| 31. |  | I. | szerződéses | százados |  |  |  |  |
+| 31. |  |  |  |  |  |  |  |  |
 
 | 32. |  |  | pályakezdő | hadnagy |  |  |  |  |
 
@@ -1074,7 +1076,7 @@
 
 | 42. |  | IV. | rajparancsnok | őrnagy |  |  |  |  |
 
-| 43. |  | IV. | irodavezető | őrnagy |  |  |  |  |
+| 43. |  | IV. | katasztrófa- védelmi megbízott | őrnagy |  |  |  |  |
 
 | 44. |  | IV. | főelőadó | őrnagy |  |  |  |  |
 
@@ -1084,11 +1086,11 @@
 
 | 47. |  | II. | fogalmazó | százados |  |  |  |  |
 
-| 48. |  | I. | szerződéses | százados |  |  |  |  |
+| 48. |  |  |  |  |  |  |  |  |
 
 | 49. |  |  | pályakezdő | hadnagy |  |  |  |  |
 
-## II. Besorolási osztály
+## II. Besorolási osztály
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -1116,7 +1118,7 @@
 
 | 12. |  | II. | gépjármű- vezető** | főtörzs- őrmester | középfokú iskola | szakirányú alapfokú |  |  |
 
-| 13. |  | I. | szerződéses | főtörzs- őrmester |  |  |  |  |
+| 13. |  |  |  |  |  |  |  |  |
 
 | 14. |  |  | pályakezdő | őrmester |  |  |  |  |
 
@@ -1138,7 +1140,7 @@
 
 | 23. |  | II. | ügyeletes | főtörzs- őrmester |  |  |  |  |
 
-| 24. |  | I. | szerződéses | főtörzs- őrmester |  |  |  |  |
+| 24. |  |  |  |  |  |  |  |  |
 
 | 25. |  | I. | pályakezdő | őrmester |  |  |  |  |
 
@@ -1162,6 +1164,6 @@
 
 ## 6. GEK: BM OKF Gazdasági Ellátó Központ
 
-2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^7]
+2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^19]
 
-[^7]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.

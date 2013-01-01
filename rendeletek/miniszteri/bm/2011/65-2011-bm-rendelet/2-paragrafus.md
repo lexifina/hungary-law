@@ -1,4 +1,4 @@
-2. § (1) Új szervezési állománytáblázatot kell
+2. § (1)[^8] Új állománytáblázatot kell
 
 a) készíteni, ha
 
@@ -10,8 +10,12 @@ ac) jelentősebb feladatmódosulás miatt a szervezeti egység lényeges átalak
 
 b) kiadni, ha arra a jóváhagyó vagy a miniszter külön döntése alapján kerül sor.
 
-Minden más változást a szervezési állománytáblázat módosításával kell a szervezési állománytáblázaton átvezetni.
+Minden más változást az állománytáblázat módosításával kell az állománytáblázaton átvezetni.
 
-(2) A szervezési állománytáblázatot és annak módosítását a 3. § a) pont 1. és 2. alpontja, b) pontja, c) pontja, d) pont 1. alpontja, e) pont 1. alpontja, továbbá f) és g) pontja alá tartozó szervek tekintetében a miniszter, egyéb esetben – az általa irányított szervek tekintetében – az országos rendőrfőkapitány, a büntetés-végrehajtás országos parancsnoka, illetve az országos katasztrófavédelmi főigazgató hagyja jóvá.
+(2)[^9] Az állománytáblázatot és annak módosítását a 3. § a) pont 1. és 2. alpontja, b) pontja, c) pontja, d) pont 1. alpontja, e) pont 1. alpontja, továbbá f) és g) pontja alá tartozó szervek tekintetében a miniszter, egyéb esetben – az általa irányított szervek tekintetében – az országos rendőrfőkapitány, a büntetés-végrehajtás országos parancsnoka, illetve az országos katasztrófavédelmi főigazgató hagyja jóvá.
 
-(3) Amennyiben a jóváhagyás nem a miniszter hatáskörébe tartozik, a szervezési állománytáblázatot, illetve annak módosítását jóváhagyás előtt a miniszterhez fel kell terjeszteni.
+(3)[^10] Amennyiben a jóváhagyás nem a miniszter hatáskörébe tartozik, az állománytáblázatot, illetve annak módosítását jóváhagyás előtt a miniszterhez fel kell terjeszteni.
+
+[^8]: A 2. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés c), f) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés c) pontja szerint módosított szöveg.

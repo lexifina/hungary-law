@@ -76,7 +76,7 @@
 
 ## i) a c)-h) pontokban meghatározottakkal azonos besorolású beosztásokban, az állományilletékes parancsnok döntése szerint.
 
-4. melléklet a 65/2011. (XII. 30.) BM rendelethez[^9]
+4. melléklet a 65/2011. (XII. 30.) BM rendelethez[^21]
 
 1. Őr-, ügyeleti, készenléti és készültségi szolgálatok a rendőrségnél
 
@@ -212,4 +212,4 @@ g) ügyeletvezető (területi jogállású szervek)
 
 h) ügyeletes (helyi szervek)
 
-[^9]: A 4. melléklet a 11/2012. (III. 30.) BM rendelet 5. § (2) bekezdése, a 31/2012. (VI. 28.) BM rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 4. melléklet a 11/2012. (III. 30.) BM rendelet 5. § (2) bekezdése, a 31/2012. (VI. 28.) BM rendelet 18. § (2) bekezdése szerint módosított szöveg.
