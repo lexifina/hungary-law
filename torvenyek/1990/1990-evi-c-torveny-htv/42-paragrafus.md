@@ -11,3 +11,7 @@
 (6)
 
 (7) Az önkormányzat rendeletében feljogosíthatja az adóhatóságot arra, hogy az (5) bekezdésben meghatározott pénzkezelési szabályok betartásával 5000 forintot meg nem haladó összegű helyi adóra (adótartozásra) készpénz-befizetést elfogadjon.
+
+(8) A helyi iparűzési adóbevallást magyar nyelven, forintban kell elkészíteni. A beszámolót, könyvvezetést konvertibilis devizában készítő adózó a helyi iparűzési adóbevallás adatait a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével számítja át forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni. Ugyanígy kell eljárni minden más esetben, ha az átszámításra a számvitelről szóló törvény rendelkezése nem vonatkozik.
+
+(9) Az idegenforgalmi adót az adó beszedője abban a – Magyar Nemzeti Bank által jegyzett – külföldi pénznemben is beszedheti, amelyben a szállásdíj megfizetését lehetővé teszi. A beszedésre kötelezett az adó összegének külföldi pénznemben való megállapításakor és az adónak az önkormányzati adóhatóság számára forintban való befizetésekor a Magyar Nemzeti Bank hivatalos – az adóévet megelőző év utolsó napján érvényes – devizaárfolyamát veszi alapul.

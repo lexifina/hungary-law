@@ -34,9 +34,23 @@
 
 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
 
-16. telek: az épülettel be nem épített földterület, ide nem értve az ingatlan-nyilvántartásban művelési ág szerint aranykorona-értékkel nyilvántartott és ténylegesen mezőgazdasági művelés alatt álló belterületi telket, a külterületi termőföldet, valamint az ingatlan-nyilvántartás szerint tanyaként nyilvántartott ingatlanhoz tartozó földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll, továbbá a közút területét, a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet, a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet;
+16. telek: az épülettel be nem épített földterület, ide nem értve
 
-17. termőföld: az ingatlan-nyilvántartásban aranykorona értékkel és művelési ággal nyilvántartott, a termőföldről szóló törvény szerinti termőföldnek minősülő földterület;
+a) a halastó kivételével a termőföldről szóló törvény szerint mező-, erdőgazdálkodási művelés alatt álló belterületi földnek minősülő földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll,
+
+b) a termőföldet,
+
+c) a tanyát,
+
+d) a közút területét,
+
+e) a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet,
+
+f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet;
+
+g) a halászatról és horgászatról szóló törvény szerinti víztározó területét;
+
+17. termőföld: a halastó kivételével a termőföldről szóló törvény szerinti termőföldnek minősülő földterület;
 
 18. kommunális beruházás: a közmű (a településekre vagy azok jelentős részére kiterjedő elosztó és vezetékrendszerek és az ezekkel kapcsolatos létesítmények, amelyek a fogyasztók vízellátási — ideértve a belvíz-, a csapadék- és szennyvízelvezetési, tisztítási-, villamos energia, hő-, gázenergia és távbeszélési igényeit elégítik ki), valamint az út és járda építés,
 
@@ -48,9 +62,9 @@
 
 22. nettó árbevétel:
 
-a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó összegével, feltéve ha az így elszámolt regisztrációs adó, energiaadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)–g) alpontokban foglalt eltérésekkel,
+a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó összegével, feltéve ha az így elszámolt regisztrációs adó, energiaadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)–h) alpontokban foglalt eltérésekkel,
 
-b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
+b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
 
 c) biztosítóknál: a biztosítástechnikai eredmény növelve a nettó működési költségekkel, a befektetésekből származó biztosítástechnikai ráfordításokkal (csak életbiztosítási ágnál), az egyéb biztosítástechnikai ráfordításokkal, a kapott kamatokkal és kamatjellegű bevételekkel, a biztosítási állományhoz kapcsolódó tárgyi eszközök bevételeivel, a befektetések értékesítésének árfolyamnyereségével és az egyéb befektetési bevételekkel (nem életbiztosítási ágnál), az életbiztosításból allokált befektetési bevétellel, valamint a nem biztosítási tevékenység bevételeivel, valamint csökkentve a Kártalanítási Számlával és a Kártalanítási Alappal szemben ráfordításként elszámolt összeggel, a tűzvédelmi hozzájárulásként elszámolt összeggel és a biztosítottaknak visszajuttatandó befektetési eredménnyel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
 
@@ -60,13 +74,15 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepénél, valam
 
 f) lakásszövetkezet, társasház, (köz)alapítvány, társadalmi szervezet, köztestület, egyesület, önkéntes kölcsönös biztosító pénztár, iskolaszövetkezet, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetek, a kizárólag a fogvatartottak foglalkoztatása céljából közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a TIG Tartalékgazdálkodási Nonprofit Kft. a KHVT Közlekedési, Hírközlési, Vízügyi Tartalékgazdálkodási Kiemelkedően Közhasznú Nonprofit Kft. esetében a vállalkozási tevékenységből származó, a) pont szerinti nettó árbevétel. Nem minősül vállalkozási tevékenységből származó nettó árbevételnek a társasház és a lakásszövetkezet belső szolgáltatásból származó árbevétele,
 
-g) a személyi jövedelemadóról szóló törvény hatálya alá tartozó, a 26. pont a) és b) alpontja szerinti vállalkozónál: a tevékenységvégzéssel (termékértékesítés, szolgáltatásnyújtás) közvetlen összefüggésben kapott – általános forgalmi adó nélküli – ellenérték, növelve a kompenzációs felárral és csökkentve az adóhatósággal elszámolt regisztrációs adó összegével, feltéve, hogy azt bevételként elszámolta, továbbá azon bevétellel, amelyet a számvitelről szóló törvény alapján egyéb bevételként kellene elszámolni;
+g) a személyi jövedelemadóról szóló törvény hatálya alá tartozó, a 26. pont a) és b) alpontja szerinti vállalkozónál: a tevékenységvégzéssel (termékértékesítés, szolgáltatásnyújtás) közvetlen összefüggésben kapott – általános forgalmi adó nélküli – ellenérték, növelve a kompenzációs felárral és csökkentve az adóhatósággal elszámolt regisztrációs adó összegével, feltéve, hogy azt bevételként elszámolta, továbbá azon bevétellel, amelyet a számvitelről szóló törvény alapján egyéb bevételként kellene elszámolni,
 
-23.
+h) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás esetén, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás bevétele;
+
+23. egyházi személy: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyházi személy;
 
 24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2008. január 1-jétől hatályos (TEÁOR'08) besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
 
-25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 4. § 32. pontja szerinti saját tevékenységi körben megvalósított K+F tevékenység közvetlen költsége, figyelemmel a Tao tv. 31. §-a (2) bekezdésének c) pontjában foglaltakra;
+25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 4. § 32. pontja szerinti saját tevékenységi körben megvalósított K+F tevékenység közvetlen költsége;
 
 26. vállalkozó: a gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végző
 

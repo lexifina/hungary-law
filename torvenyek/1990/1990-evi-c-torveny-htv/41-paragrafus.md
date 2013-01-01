@@ -1,6 +1,6 @@
 ## V. Fejezet
 
-## Az adóelőleg megállapítása és az adó megfizetése
+## Az adóelőleg megállapítása, az adó bevallása és az adó megfizetése
 
 41. § (1) A vállalkozó – a (4) bekezdésben foglaltak kivételével – a helyi iparűzési adóban az előlegfizetési időszakra – az egyes esedékességi időpontokra eső összeg feltüntetésével önkormányzatonként – adóelőleget köteles a (3) bekezdésben foglalt esetekben a bejelentkezéssel egyidejűleg az adóhatóság által rendszeresített nyomtatványon bejelenteni, illetve minden más esetben a bevallás-benyújtással egyidejűleg bevallani. A benyújtott – adóelőleget tartalmazó – bejelentkezési nyomtatvány végrehajtható okiratnak minősül.
 
