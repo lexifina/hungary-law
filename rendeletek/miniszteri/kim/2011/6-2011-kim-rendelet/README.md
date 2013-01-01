@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-6-20-2T
 | --- | --- | --- |
 | 2011-02-25 | 2011-6-20-2T.1 | 6/2011. (II. 24.) KIM rendelet |
 | 2011-02-26 | 2011-6-20-2T.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2011-6-20-2T.3 | 49/2012. (XII. 15.) EMMI rendelet |

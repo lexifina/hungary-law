@@ -120,47 +120,7 @@
 
 ## 5. A díjhoz 500 000 Ft összegű pénzjutalom jár.
 
-## V. „Károli Gáspár-díj”
-
-## 1. A díj azon kiemelkedő személyiségek elismerésére került alapításra, akik a hittudományok terén kifejtett munkásságukkal gazdagították a magyar tudományos életet, illetve a magyar vallási irodalomban és vallási életben kiemelkedőt alkottak, különös tekintettel a biblikus tudományokban, illetőleg a teológiában – fordítással, tanulmánnyal – elért kimagasló eredményeikre.
-
-## 2. A díj évente legfeljebb 3 fő részére adományozható, megosztás nélkül. A díj posztumusz nem adományozható.
-
-## 3. A díj minden évben október 31-én, a reformáció napján kerül átadásra.
-
-## 4. A díjazott emlékérmet és az adományozást igazoló okiratot kap.
-
-## 5. Az emlékérem bronzból készült, kör alakú, átmérője 80 mm, vastagsága 8 mm. Az emlékérem egyoldalas, Károli Gáspár domború arcképét és Károli Gáspár-díj feliratot, születési és halálozási dátummal (1529k.–1591) ábrázolja. Az emlékérem Csontos László szobrászművész alkotása.
-
-## 6. A díjhoz 500 000 Ft összegű pénzjutalom jár.
-
-## VI. „Fraknói Vilmos-díj”
-
-## 1. A díj azoknak adományozható, akik munkássága kiemelkedő a teológia, a filozófia vagy az egyháztörténelem területén, illetve akik tevékenységükkel előmozdították a magyar vallási élet megújulását és a teológia oktatásának fejlődését.
-
-## 2. A díj évente legfeljebb 3 fő részére adományozható, megosztás nélkül. A díj posztumusz nem adományozható.
-
-## 3. A díj minden évben november 20-án, Fraknói Vilmos halálának évfordulóján kerül átadásra.
-
-## 4. A díjazott emlékérmet és az adományozást igazoló okiratot kap.
-
-## 5. Az emlékérem bronzból készült, kör alakú, átmérője 80 mm, vastagsága 8 mm. Az emlékérem egyoldalas, Fraknói Vilmos domború arcképét és Fraknói Vilmos-díj feliratot, születési és halálozási dátummal (1843–1924) ábrázolja. Az emlékérem Király Vilmos szobrászművész alkotása.
-
-## 6. A díjhoz 500 000 Ft összegű pénzjutalom jár.
-
-## VII. „Scheiber Sándor-díj”
-
-## 1. A díj azoknak adományozható, akik kiemelkedőt alkottak – a magyar nemzeti kultúra szolgálatában – a hebraisztika, judaisztika, zsidó vallás-, művelődéstörténet és az oktatás, valamint a zsidók és nem zsidók közötti párbeszéd és tolerancia előmozdításának területén.
-
-## 2. A díj évente 3 fő részére adományozható, megosztás nélkül.
-
-## 3. A díj minden évben március 3-án, Scheiber Sándor főrabbi halálának évfordulóján kerül átadásra.
-
-## 4. A díjazott emlékérmet és az adományozást igazoló okiratot kap.
-
-## 5. Az emlékérem bronzból készült, kör alakú, átmérője 80 mm, vastagsága 8 mm. A plakett kétoldalas, előlapja Scheiber Sándor domború arcképét és Scheiber Sándor-díj feliratot születési és halálozási dátummal (1913–1985) ábrázolja; hátlapját az „emlékezz” szó magyarul és héberül díszíti. A plakett Gáti Gábor szobrászművész alkotása.
-
-## 6. A díjhoz 500 000 Ft összegű pénzjutalom jár.
+## V–VII.[^3]
 
 ## VIII. „Pálfi István-díj”
 
@@ -191,3 +151,5 @@
 ## 6. A díjhoz 500 000 Ft összegű pénzjutalom jár.
 
 2. számú melléklet a 6/2011. (II. 24.) KIM rendelethez
+
+[^3]: Az 1. számú melléklet V–VII. pontját a 49/2012. (XII. 15.) EMMI rendelet 11. § (5) bekezdés h) pont hb) alpontja hatályon kívül helyezte.

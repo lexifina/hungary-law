@@ -8,11 +8,7 @@ c) Magyary Zoltán-díj;
 
 d) Moór Gyula-díj;
 
-e) Károli Gáspár-díj;
-
-f) Fraknói Vilmos-díj;
-
-g) Scheiber Sándor-díj;
+e)–g)[^1]
 
 h) Pálfi István-díj;
 
@@ -37,3 +33,5 @@ g) Magyary Zoltán-díj a nemzetközi kapcsolatok erősítése
 érdekében végzett tevékenységért.
 
 (3) A díjakban részesíthetők körét, a díjak leírását és az adományozás feltételeit az 1. számú melléklet tartalmazza.
+
+[^1]: A 3. § (1) bekezdés e)–g) pontját a a 49/2012. (XII. 15.) EMMI rendelet 11. § (5) bekezdés h) pont ha) alpontja hatályon kívül helyezte.
