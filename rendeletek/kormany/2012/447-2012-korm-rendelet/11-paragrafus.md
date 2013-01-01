@@ -1,0 +1,1 @@
+## „(15) A TAJ-t tartalmazó hatósági igazolvány kizárólag a TAJ igazolására szolgál, az egészségügyi szolgáltatásra való jogosultságot az egészségügyi szolgáltató a jogviszony-ellenőrzés során az OEP nyilvántartásában ellenőrzi.”

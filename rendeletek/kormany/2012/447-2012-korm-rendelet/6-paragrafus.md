@@ -1,0 +1,1 @@
+## „(11) Tömegközlekedési eszközzel történő utazás esetén legfeljebb egy kísérő jogosult az (1)–(4), a (6)–(10a) és a (14)–(20) bekezdésben foglaltak szerint a kísérettel kapcsolatban felmerült utazási költségei (oda- és visszaút) megtérítésére. Több biztosított egyidejű kísérete során csak egyszeri utazási költség téríthető meg a kísérő részére.”

@@ -1,0 +1,1 @@
+## „(6) A (2) bekezdés alapján megjelölt vagy az OEP által kijelölt gyógyszertár a méltányossági kérelem alapján engedélyezett gyógyszerről és a kiadott mennyiségéről nyilvántartást vezet, melyeket a vonatkozó hatósági engedélyre is rávezet. A nyilvántartott adatokat 5 évig meg kell őrizni.”

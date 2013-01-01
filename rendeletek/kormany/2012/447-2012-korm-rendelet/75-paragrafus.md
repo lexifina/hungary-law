@@ -1,3 +1,9 @@
-## 74. §[^30]
+## lép.
 
-[^30]: A 74. § a 82. § (4) bekezdése alapján 2014. március 1-jén lép hatályba.
+75. § (1) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti kutatásfejlesztési tevékenység után igénybe vehető engedményekre vonatkozó részletes szabályokról szóló 162/2009. (VIII. 3.) Korm. rendelet (a továbbiakban: 162/2009. Korm. rendelet) 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § (1) A Gyftv. 36. § (10) bekezdése szerinti engedményt az 1. § (1) bekezdése szerinti éves beszámoló közzététele hónapjában benyújtott – a 3. § (1)–(3) bekezdése szerinti – bevallásnál, de legkorábban a tárgyév negyedik hónapjára vonatkozó befizetési kötelezettség bevallásánál lehet érvényesíteni. Az engedményt ezt követően mindig a soron következő befizetési kötelezettség bevallásánál lehet a tárgyévre vonatkozó engedmény szabályai szerint érvényesíteni addig, amíg a befizetési kötelezettségből az engedmény 1. § (1) bekezdése szerinti összegének teljes mértékben történő érvényesítésére nem került sor. A befizetési kötelezettséget az engedménnyel csökkentett (nettó) összegben kell teljesíteni.
+
+## (2) Azoknál a befizetésre kötelezett forgalomba hozatali engedély jogosultaknál, akiknél az 1. § (1) bekezdése szerinti éves beszámoló csak a tárgyévet követő évben kerül közzétételre, ott a közzététel hónapjában benyújtott – a 3. § (1)–(3) bekezdése szerinti – bevallásnál lehet az engedményt a tárgyévre vonatkozó engedmény szabályai szerint érvényesíteni. Az engedményt ezt követően mindig a soron következő befizetési kötelezettség bevallásánál lehet a tárgyévre vonatkozó engedmény szabályai szerint érvényesíteni addig, amíg a befizetési kötelezettségből az engedmény 1. § (1) bekezdése szerinti összegének teljes mértékben történő érvényesítésére nem került sor. A befizetési kötelezettséget az engedménnyel csökkentett (nettó) összegben kell teljesíteni.”
+
+(2) A 162/2009. Korm. rendelet 3. §-a a következő (3) bekezdéssel egészül ki:

@@ -1,3 +1,9 @@
-## 75–78. §[^31]
+## 79. §[^7]
 
-[^31]: A 75–78. § a 82. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+(2) Hatályát veszti a 6/2012. Korm. rendelet
+
+a) 3. §-ában a „2012-ben folyósított” szövegrész,
+
+b) 9. § (2) bekezdésében a „2012. évi” szövegrész.
+
+[^7]: A 79. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
