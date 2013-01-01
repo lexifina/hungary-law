@@ -26,296 +26,296 @@
 
 ## 0106 Budapesti XX., XXI. és XXIII. Kerületi Bíróság
 
-## 0199 Fővárosi Munkaügyi Bíróság
+## 0199 Fővárosi Közigazgatási és Munkaügyi Bíróság
 
 ## 0200 Pécsi Törvényszék
 
-## 0201 Pécsi Városi Bíróság
+## 0201 Pécsi Járásbíróság
 
-## 0202 Komlói Városi Bíróság
+## 0202 Komlói Járásbíróság
 
-## 0203 Mohácsi Városi Bíróság
+## 0203 Mohácsi Járásbíróság
 
-## 0204 Siklósi Városi Bíróság
+## 0204 Siklósi Járásbíróság
 
-## 0205 Szigetvári Városi Bíróság
+## 0205 Szigetvári Járásbíróság
 
-## 0299 Pécsi Munkaügyi Bíróság
+## 0299 Pécsi Közigazgatási és Munkaügyi Bíróság
 
 ## 0300 Kecskeméti Törvényszék
 
-## 0301 Kecskeméti Városi Bíróság
+## 0301 Kecskeméti Járásbíróság
 
-## 0302 Bajai Városi Bíróság
+## 0302 Bajai Járásbíróság
 
-## 0303 Kalocsai Városi Bíróság
+## 0303 Kalocsai Járásbíróság
 
-## 0304 Kiskőrösi Városi Bíróság
+## 0304 Kiskőrösi Járásbíróság
 
-## 0305 Kiskunfélegyházi Városi Bíróság
+## 0305 Kiskunfélegyházi Járásbíróság
 
-## 0306 Kiskunhalasi Városi Bíróság
+## 0306 Kiskunhalasi Járásbíróság
 
-## 0307 Kunszentmiklósi Városi Bíróság
+## 0307 Kunszentmiklósi Járásbíróság
 
-## 0399 Kecskeméti Munkaügyi Bíróság
+## 0399 Kecskeméti Közigazgatási és Munkaügyi Bíróság
 
 ## 0400 Gyulai Törvényszék
 
-## 0401 Gyulai Városi Bíróság
+## 0401 Gyulai Járásbíróság
 
-## 0402 Battonyai Városi Bíróság
+## 0402 Battonyai Járásbíróság
 
-## 0403 Békéscsabai Városi Bíróság
+## 0403 Békéscsabai Járásbíróság
 
-## 0404 Békési Városi Bíróság
+## 0404 Békési Járásbíróság
 
-## 0405 Orosházi Városi Bíróság
+## 0405 Orosházi Járásbíróság
 
-## 0406 Szarvasi Városi Bíróság
+## 0406 Szarvasi Járásbíróság
 
-## 0407 Szeghalmi Városi Bíróság
+## 0407 Szeghalmi Járásbíróság
 
-## 0499 Gyulai Munkaügyi Bíróság
+## 0499 Gyulai Közigazgatási és Munkaügyi Bíróság
 
 ## 0500 Miskolci Törvényszék
 
-## 0501 Miskolci Városi Bíróság
+## 0501 Miskolci Járásbíróság
 
-## 0502 Encsi Városi Bíróság
+## 0502 Encsi Járásbíróság
 
-## 0503 Kazincbarcikai Városi Bíróság
+## 0503 Kazincbarcikai Járásbíróság
 
 ## 0504 Edelény, Bírósági Kirendeltség (Kazincbarcika)
 
-## 0505 Mezőkövesdi Városi Bíróság
+## 0505 Mezőkövesdi Járásbíróság
 
-## 0506 Ózdi Városi Bíróság
+## 0506 Ózdi Járásbíróság
 
-## 0507 Sátoraljaújhelyi Városi Bíróság
+## 0507 Sátoraljaújhelyi Járásbíróság
 
-## 0508 Szerencsi Városi Bíróság
+## 0508 Szerencsi Járásbíróság
 
-## 0509 Szikszói Városi Bíróság
+## 0509 Szikszói Járásbíróság
 
-## 0510 Tiszaújvárosi Városi Bíróság
+## 0510 Tiszaújvárosi Járásbíróság
 
-## 0599 Miskolci Munkaügyi Bíróság
+## 0599 Miskolci Közigazgatási és Munkaügyi Bíróság
 
 ## 0600 Szegedi Törvényszék
 
-## 0601 Szegedi Városi Bíróság
+## 0601 Szegedi Járásbíróság
 
-## 0602 Csongrádi Városi Bíróság
+## 0602 Csongrádi Járásbíróság
 
-## 0603 Hódmezővásárhelyi Városi Bíróság
+## 0603 Hódmezővásárhelyi Járásbíróság
 
-## 0604 Makói Városi Bíróság
+## 0604 Makói Járásbíróság
 
-## 0605 Szentesi Városi Bíróság
+## 0605 Szentesi Járásbíróság
 
-## 0699 Szegedi Munkaügyi Bíróság
+## 0699 Szegedi Közigazgatási és Munkaügyi Bíróság
 
 ## 0700 Székesfehérvári Törvényszék
 
-## 0701 Székesfehérvári Városi Bíróság
+## 0701 Székesfehérvári Járásbíróság
 
-## 0702 Bicskei Városi Bíróság
+## 0702 Bicskei Járásbíróság
 
-## 0703 Dunaújvárosi Városi Bíróság
+## 0703 Dunaújvárosi Járásbíróság
 
-## 0704 Sárbogárdi Városi Bíróság
+## 0704 Sárbogárdi Járásbíróság
 
-## 0799 Székesfehérvári Munkaügyi Bíróság
+## 0799 Székesfehérvári Közigazgatási és Munkaügyi Bíróság
 
 ## 0800 Győri Törvényszék
 
-## 0801 Győri Városi Bíróság
+## 0801 Győri Járásbíróság
 
-## 0802 Mosonmagyaróvári Városi Bíróság
+## 0802 Mosonmagyaróvári Járásbíróság
 
-## 0803 Soproni Városi Bíróság
+## 0803 Soproni Járásbíróság
 
-## 0899 Győri Munkaügyi Bíróság
+## 0899 Győri Közigazgatási és Munkaügyi Bíróság
 
 ## 0900 Debreceni Törvényszék
 
-## 0901 Debreceni Városi Bíróság
+## 0901 Debreceni Járásbíróság
 
-## 0902 Berettyóújfalui Városi Bíróság
+## 0902 Berettyóújfalui Járásbíróság
 
-## 0903 Hajdúböszörményi Városi Bíróság
+## 0903 Hajdúböszörményi Járásbíróság
 
-## 0904 Hajdúszoboszlói Városi Bíróság
+## 0904 Hajdúszoboszlói Járásbíróság
 
-## 0905 Püspökladányi Városi Bíróság
+## 0905 Püspökladányi Járásbíróság
 
-## 0999 Debreceni Munkaügyi Bíróság
+## 0999 Debreceni Közigazgatási és Munkaügyi Bíróság
 
 ## 1000 Egri Törvényszék
 
-## 1001 Egri Városi Bíróság
+## 1001 Egri Járásbíróság
 
-## 1002 Füzesabonyi Városi Bíróság
+## 1002 Füzesabonyi Járásbíróság
 
-## 1003 Gyöngyösi Városi Bíróság
+## 1003 Gyöngyösi Járásbíróság
 
-## 1004 Hatvani Városi Bíróság
+## 1004 Hatvani Járásbíróság
 
-## 1005 Hevesi Városi Bíróság
+## 1005 Hevesi Járásbíróság
 
-## 1099 Egri Munkaügyi Bíróság
+## 1099 Egri Közigazgatási és Munkaügyi Bíróság
 
 ## 1100 Szolnoki Törvényszék
 
-## 1101 Szolnoki Városi Bíróság
+## 1101 Szolnoki Járásbíróság
 
-## 1102 Jászberényi Városi Bíróság
+## 1102 Jászberényi Járásbíróság
 
-## 1103 Karcagi Városi Bíróság
+## 1103 Karcagi Járásbíróság
 
-## 1104 Kunszentmártoni Városi Bíróság
+## 1104 Kunszentmártoni Járásbíróság
 
-## 1105 Mezőtúri Városi Bíróság
+## 1105 Mezőtúri Járásbíróság
 
-## 1106 Tiszafüredi Városi Bíróság
+## 1106 Tiszafüredi Járásbíróság
 
-## 1199 Szolnoki Munkaügyi Bíróság
+## 1199 Szolnoki Közigazgatási és Munkaügyi Bíróság
 
 ## 1200 Tatabányai Törvényszék
 
-## 1201 Tatabányai Városi Bíróság
+## 1201 Tatabányai Járásbíróság
 
-## 1202 Esztergomi Városi Bíróság
+## 1202 Esztergomi Járásbíróság
 
-## 1203 Komáromi Városi Bíróság
+## 1203 Komáromi Járásbíróság
 
-## 1204 Tatai Városi Bíróság
+## 1204 Tatai Járásbíróság
 
-## 1299 Tatabányai Munkaügyi Bíróság
+## 1299 Tatabányai Közigazgatási és Munkaügyi Bíróság
 
 ## 1300 Balassagyarmati Törvényszék
 
-## 1301 Balassagyarmati Városi Bíróság
+## 1301 Balassagyarmati Járásbíróság
 
-## 1302 Pásztói Városi Bíróság
+## 1302 Pásztói Járásbíróság
 
-## 1303 Salgótarjáni Városi Bíróság
+## 1303 Salgótarjáni Járásbíróság
 
-## 1399 Salgótarjáni Munkaügyi Bíróság
+## 1399 Salgótarjáni Közigazgatási és Munkaügyi Bíróság
 
 ## 1400 Budapest Környéki Törvényszék
 
-## 1401 Budakörnyéki Bíróság
+## 1401 Budakörnyéki Járásbíróság
 
-## 1402 Budaörsi Városi Bíróság
+## 1402 Budaörsi Járásbíróság
 
-## 1403 Ceglédi Városi Bíróság
+## 1403 Ceglédi Járásbíróság
 
-## 1404 Dabasi Városi Bíróság
+## 1404 Dabasi Járásbíróság
 
-## 1405 Dunakeszi Városi Bíróság
+## 1405 Dunakeszi Járásbíróság
 
-## 1406 Gödöllői Városi Bíróság
+## 1406 Gödöllői Járásbíróság
 
-## 1407 Monori Városi Bíróság
+## 1407 Monori Járásbíróság
 
-## 1408 Nagykátai Városi Bíróság
+## 1408 Nagykátai Járásbíróság
 
-## 1409 Nagykőrösi Városi Bíróság
+## 1409 Nagykőrösi Járásbíróság
 
-## 1410 Ráckevei Városi Bíróság
+## 1410 Ráckevei Járásbíróság
 
-## 1411 Szentendrei Városi Bíróság
+## 1411 Szentendrei Járásbíróság
 
-## 1412 Váci Városi Bíróság
+## 1412 Váci Járásbíróság
 
-## 1499 Pest Megyei Munkaügyi Bíróság
+## 1499 Pest Megyei Közigazgatási és Munkaügyi Bíróság
 
 ## 1500 Kaposvári Törvényszék
 
-## 1501 Kaposvári Városi Bíróság
+## 1501 Kaposvári Járásbíróság
 
-## 1502 Barcsi Városi Bíróság
+## 1502 Barcsi Járásbíróság
 
-## 1503 Fonyódi Városi Bíróság
+## 1503 Fonyódi Járásbíróság
 
-## 1504 Marcali Városi Bíróság
+## 1504 Marcali Járásbíróság
 
-## 1505 Nagyatádi Városi Bíróság
+## 1505 Nagyatádi Járásbíróság
 
-## 1506 Siófoki Városi Bíróság
+## 1506 Siófoki Járásbíróság
 
-## 1599 Kaposvári Munkaügyi Bíróság
+## 1599 Kaposvári Közigazgatási és Munkaügyi Bíróság
 
 ## 1600 Nyíregyházi Törvényszék
 
-## 1601 Nyíregyházi Városi Bíróság
+## 1601 Nyíregyházi Járásbíróság
 
-## 1602 Fehérgyarmati Városi Bíróság
+## 1602 Fehérgyarmati Járásbíróság
 
-## 1603 Kisvárdai Városi Bíróság
+## 1603 Kisvárdai Járásbíróság
 
-## 1604 Mátészalkai Városi Bíróság
+## 1604 Mátészalkai Járásbíróság
 
-## 1605 Nyírbátori Városi Bíróság
+## 1605 Nyírbátori Járásbíróság
 
-## 1606 Vásárosnaményi Városi Bíróság
+## 1606 Vásárosnaményi Járásbíróság
 
-## 1699 Nyíregyházi Munkaügyi Bíróság
+## 1699 Nyíregyházi Közigazgatási és Munkaügyi Bíróság
 
 ## 1700 Szekszárdi Törvényszék
 
-## 1701 Szekszárdi Városi Bíróság
+## 1701 Szekszárdi Járásbíróság
 
-## 1702 Bonyhádi Városi Bíróság
+## 1702 Bonyhádi Járásbíróság
 
-## 1703 Dombóvári Városi Bíróság
+## 1703 Dombóvári Járásbíróság
 
-## 1704 Paksi Városi Bíróság
+## 1704 Paksi Járásbíróság
 
-## 1705 Tamási Városi Bíróság
+## 1705 Tamási Járásbíróság
 
-## 1799 Szekszárdi Munkaügyi Bíróság
+## 1799 Szekszárdi Közigazgatási és Munkaügyi Bíróság
 
 ## 1800 Szombathelyi Törvényszék
 
-## 1801 Szombathelyi Városi Bíróság
+## 1801 Szombathelyi Járásbíróság
 
-## 1802 Körmendi Városi Bíróság
+## 1802 Körmendi Járásbíróság
 
-## 1803 Kőszegi Városi Bíróság
+## 1803 Kőszegi Járásbíróság
 
-## 1804 Sárvári Városi Bíróság
+## 1804 Sárvári Járásbíróság
 
-## 1899 Szombathelyi Munkaügyi Bíróság
+## 1899 Szombathelyi Közigazgatási és Munkaügyi Bíróság
 
 ## 1900 Veszprémi Törvényszék
 
-## 1901 Veszprémi Városi Bíróság
+## 1901 Veszprémi Járásbíróság
 
-## 1902 Ajkai Városi Bíróság
+## 1902 Ajkai Járásbíróság
 
-## 1903 Pápai Városi Bíróság
+## 1903 Pápai Járásbíróság
 
-## 1904 Tapolcai Városi Bíróság
+## 1904 Tapolcai Járásbíróság
 
-## 1905 Zirci Városi Bíróság
+## 1905 Zirci Járásbíróság
 
-## 1999 Veszprémi Munkaügyi Bíróság
+## 1999 Veszprémi Közigazgatási és Munkaügyi Bíróság
 
 ## 2000 Zalaegerszegi Törvényszék
 
-## 2001 Zalaegerszegi Városi Bíróság
+## 2001 Zalaegerszegi Járásbíróság
 
-## 2002 Keszthelyi Városi Bíróság
+## 2002 Keszthelyi Járásbíróság
 
-## 2003 Lenti Városi Bíróság
+## 2003 Lenti Járásbíróság
 
-## 2004 Nagykanizsai Városi Bíróság
+## 2004 Nagykanizsai Járásbíróság
 
-## 2099 Zalaegerszegi Munkaügyi Bíróság
+## 2099 Zalaegerszegi Közigazgatási és Munkaügyi Bíróság
 
-2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^129]
+2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^131]
 
-[^129]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.
+[^131]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.

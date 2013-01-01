@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-06
 | 2012-07-07 | 2002-1-20-06.17 | 31/2012. (VI. 29.) KIM rendelet |
 | 2012-08-01 | 2002-1-20-06.18 | 31/2012. (VI. 29.) KIM rendelet |
 | 2012-09-01 | 2002-1-20-06.19 | 40/2012. (VIII. 30.) KIM rendelet |
+| 2013-01-01 | 2002-1-20-06.20 | 6/2010. (III. 12.) IRM rendelet |

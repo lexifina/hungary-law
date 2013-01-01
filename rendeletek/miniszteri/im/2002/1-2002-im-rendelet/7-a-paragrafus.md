@@ -1,4 +1,4 @@
-7/A. §[^16] (1) E rendelet
+7/A. §[^17] (1) E rendelet
 
 a) 3. számú mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása iránti kérelmet,
 
@@ -28,4 +28,4 @@ i) 11. számú mellékletében meghatározott adattartalommal rendszeresített n
 
 (6) A nyomtatványt úgy kell kialakítani, hogy azon kellő hely álljon rendelkezésre a kérelem előterjesztésére. Az (1) bekezdés a)–d) pontjaiban meghatározott nyomtatványon a bíróság és a végrehajtó érkeztető bélyegzője, az e)–i) pontjaiban meghatározott nyomtatványon a bíróság érkeztető bélyegzője lenyomatának helyét ki kell alakítani.
 
-[^16]: A 7/A. §-t a 31/2012. (VI. 29.) KIM rendelet 8. § (1) bekezdése iktatta be.
+[^17]: A 7/A. §-t a 31/2012. (VI. 29.) KIM rendelet 8. § (1) bekezdése iktatta be.
