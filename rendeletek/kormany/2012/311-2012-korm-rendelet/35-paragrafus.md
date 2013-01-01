@@ -26,6 +26,4 @@ b) a szakértő kedvezményezett országba történő kiutazásának és kedvezm
 
 c) a finanszírozása az Európai Unió által, az ikerintézményi projekt költségvetése és az ikerintézményi szerződés alapján biztosított.
 
-(5)[^2]
-
-[^2]: A 35. § (5) bekezdése a 39. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+(5) Az ikerintézményi szakértői tevékenységgel összefüggésben a (4) bekezdés szerinti napidíj és költségtérítés a személyi jövedelemadóról szóló 1995. évi CXVII. törvény, adómentes bevételekről szóló 1. sz. mellékletének 4.7 pont e) alpontja szerinti juttatásnak minősül.
