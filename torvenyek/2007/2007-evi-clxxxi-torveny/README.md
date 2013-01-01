@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-181-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2007-181-00-00.5 |
 | 2012-01-01 | 2011. évi CXCVIII. törvény | 2007-181-00-00.6 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2007-181-00-00.7 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 2007-181-00-00.8 |
