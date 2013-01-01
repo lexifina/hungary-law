@@ -6,7 +6,7 @@ a) ha hozzátartozójával [Mt. 294. § (1) bekezdés b) pont] irányítási (fe
 
 b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
 
-(3) A (2) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint a helyi önkormányzat által a feladatkörébe tartozó egészségügyi közszolgáltatások ellátására létesített, továbbá az egészségügyért felelős miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített közalkalmazotti jogviszonyra nem alkalmazható.
+(3) A (2) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint a helyi önkormányzat által a feladatkörébe tartozó egészségügyi közszolgáltatások ellátására létesített, továbbá az egészségügyért felelős miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített közalkalmazotti jogviszonyhoz kapcsolódó munkakörre, magasabb vezetői, vezetői megbízásra nem alkalmazható.
 
 (4) A felsőoktatási intézményben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény 121. §-ának (8) bekezdésében az intézményi társaságokkal kapcsolatosan előírt korlátozás megtartása mellett – a magasabb vezető és a vezető megbízásával nem összeférhetetlen a gazdasági társaságban betöltött igazgatósági, felügyelőbizottsági tagság.
 

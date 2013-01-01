@@ -64,4 +64,6 @@ jb) a Magyar Tudományos Akadémia hazai rendes és levelező tagsága, az akad�
 
 (3) Az Országos Képzési Jegyzék szerinti emelt szintű szakképesítést az (1) bekezdés, valamint a 66. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
 
-(4)–(5)
+(4) Végrehajtási rendelet rendelkezhet az (1) és (3) bekezdésben foglaltak alól indokolt esetben lehetséges felmentésről. A felmentéssel egyidejűleg elő kell írni a szükséges iskolai végzettség, illetve szakképesítés, szakképzettség legfeljebb öt éven belüli megszerzését. Nem számítható be az ötéves határidőbe mindazon időtartam, amelyet a gyakornoki időnél figyelmen kívül kell hagyni. A felmentés időtartamának eredménytelen eltelte esetén a közalkalmazotti jogviszony a törvény erejénél fogva megszűnik.
+
+(5)

@@ -12,7 +12,7 @@ c) a munkáltató jogutód nélküli megszűnésével, valamint
 
 d) a 22. (16) bekezdésében és a 25/A. § (1) bekezdésében meghatározott esetben, továbbá ha törvény így rendelkezik,
 
-e) a prémiumévek programban történő részvétel esetén az erre vonatkozó külön törvény szabályai szerint.
+e) a prémiumévek programban történő részvétel esetén a prémiumévek programról szóló törvény szabályai szerint.
 
 e)
 
@@ -52,7 +52,7 @@ g) rendkívüli felmentéssel
 
 ga) az Mt. 78. §-a szerinti esetben, vagy
 
-gb) a gyakornoki idő alatt.
+gb)
 
 h)
 

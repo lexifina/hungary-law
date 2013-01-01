@@ -16,7 +16,7 @@ g) üzemi tanácsot, illetve üzemi megbízottat említ, azon közalkalmazotti t
 
 h) munkabért említ, azon illetményt, illetménypótlékot, illetménykiegészítést, egyhavi különjuttatást, keresetkiegészítést és jutalmat;
 
-i) személyi alapbért említ, azon illetményt;
+i) alapbért említ, azon illetményt;
 
 j) bérpótlékot említ, azon illetménypótlékot
 

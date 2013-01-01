@@ -243,3 +243,5 @@ b) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások,
 c) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat.
 
 (9) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó szervek tekintetében rendeletben határozza meg a külföldi kiküldetést teljesítő közalkalmazottak pénzbeni járandóságaira és a kiküldetésre vonatkozó részletes szabályokat.
+
+(10) Felhatalmazást kap az ágazatért felelős miniszter, hogy az ágazati, szakmai sajátosságokra tekintettel rendeletben határozza meg az Mt. 86. § (3) bekezdésétől az ágazati irányítása, illetve felügyelete alá tartozó szerveknél foglalkoztatott közalkalmazottak javára történő eltérés szabályait.

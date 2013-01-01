@@ -8,6 +8,6 @@ Az indokolásból a rendkívüli lemondás okának világosan ki kell tűnnie. V
 
 (2) A rendkívüli lemondás jogát az annak alapjául szolgáló okról való tudomásszerzéstől számított tizenöt napon belül, legfeljebb azonban az ok bekövetkeztétől számított egy éven belül, bűncselekmény elkövetése esetén a büntetőeljárás megindítására nyitva álló elévülési idő alatt lehet gyakorolni.
 
-(3) Rendkívüli lemondás esetén a munkáltató a közalkalmazott részére annyi időre járó átlagkeresetét köteles kifizetni, amennyi felmentése esetén járna, továbbá a közalkalmazotti jogviszony megszűnésének időpontját a közalkalmazottra irányadó felmentési idő figyelembevételével kell meghatározni. A közalkalmazott követelheti felmerült kárának megtérítését is.
+(3) Rendkívüli lemondás esetén a munkáltató a közalkalmazott részére annyi időre járó távolléti díját köteles kifizetni, amennyi felmentése esetén járna, továbbá a közalkalmazotti jogviszony megszűnésének időpontját a közalkalmazottra irányadó felmentési idő figyelembevételével kell meghatározni. A közalkalmazott követelheti felmerült kárának megtérítését is.
 
 (4) Rendkívüli lemondás esetén — e törvényben előírt kivételektől eltekintve — a lemondás szabályai nem alkalmazhatók.

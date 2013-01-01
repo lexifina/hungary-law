@@ -1,5 +1,1 @@
-59. § A közalkalmazotti jogviszony tekintetében
-
-a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény munka- és pihenőidőről szóló rendelkezései közül a 131. § és a 132. § (4)–(6) bekezdés,
-
-b) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés és a 135. § nem alkalmazható.
+59. § A közalkalmazotti jogviszony tekintetében az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, 116–117. §, 119. § (2) bekezdés és a 135. § nem alkalmazható.

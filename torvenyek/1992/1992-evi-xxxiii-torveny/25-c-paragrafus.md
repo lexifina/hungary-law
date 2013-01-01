@@ -12,4 +12,4 @@ alapján a közalkalmazotti jogviszony a 25/A. § (2) bekezdése szerinti időpo
 
 (5)
 
-(6) A 34. § alkalmazásakor – amennyiben a közalkalmazottat eredeti munkakörében kell továbbfoglalkoztatni – az átvevő munkáltató köteles az ítélet jogerőre emelkedésekor a 25/A–25/B. §-ban foglaltak megfelelő alkalmazásával az állásfelajánlási és foglalkoztatási kötelezettséget teljesíteni. Az átvevő munkáltató a 25/A. § (2)–(3) bekezdése szerinti tájékoztatási kötelezettséget a jogerős ítélet közlésétől számított tizenöt napon belül köteles teljesíteni.
+(6) A közalkalmazotti jogviszony jogellenes megszüntetése esetén – amennyiben a közalkalmazottat eredeti munkakörében kell továbbfoglalkoztatni – az átvevő munkáltató köteles az ítélet jogerőre emelkedésekor a 25/A–25/B. §-ban foglaltak megfelelő alkalmazásával az állásfelajánlási és foglalkoztatási kötelezettséget teljesíteni. Az átvevő munkáltató a 25/A. § (2)–(3) bekezdése szerinti tájékoztatási kötelezettséget a jogerős ítélet közlésétől számított tizenöt napon belül köteles teljesíteni.

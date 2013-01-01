@@ -16,7 +16,7 @@ f) az (1) bekezdés szerinti kezességvállalással biztosított hitelrészt a h
 
 g) a kölcsönt nyújtó hitelintézet belső szabályai szerint – saját, illetve adóstársa jövedelmi helyzetét is figyelembe véve – a kölcsön teljes összegére vonatkozóan hitelképesnek bizonyul.
 
-(3) A (2) bekezdés a)–d) pontjaiban foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló közalkalmazotti jogviszony fennállását a munkáltatói jogkör gyakorlója igazolja.
+(3) A (2) bekezdés a)–c) pontjaiban foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló közalkalmazotti jogviszony fennállását a munkáltatói jogkör gyakorlója igazolja.
 
 (4) A (2) bekezdés e) pontjában foglalt feltétel teljesülését a közalkalmazott hatósági bizonyítvánnyal igazolja, a (2) bekezdés f) pontjában foglalt feltétel teljesüléséről a közalkalmazott a kölcsönt nyújtó hitelintézetnek nyilatkozik.
 
