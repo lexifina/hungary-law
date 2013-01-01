@@ -4,6 +4,6 @@
 
 | Termelő/ származás | Forgalmazó | Mintavétel időpontja | Növény, növényi termék | Növényvédőszer- hatóanyag megnevezése | Határérték (mg/kg) | Mért szermaradék (mg/kg) |
 
-3. melléklet a 66/2010. (V. 12.) FVM rendelethez[^5]
+3. melléklet a 66/2010. (V. 12.) FVM rendelethez[^6]
 
-[^5]: A 3. mellékletet a 15. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 3. mellékletet a 15. § (2) bekezdése hatályon kívül helyezte.
