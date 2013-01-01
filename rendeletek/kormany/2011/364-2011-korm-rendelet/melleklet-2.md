@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011–2020) | Budapest XIV. kerület 32826 helyrajzi számú terület, illetve ezen területből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011–2020) | Budapest XIV. kerület 32826 helyrajzi számú terület, illetve ezen területből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -16,7 +16,7 @@
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapest 2. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapest 2. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
 | 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -36,7 +36,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 1. | Szakhatósági közreműködése tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -60,6 +60,6 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 13. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 14. | kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 14. | Régészeti és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 53. §-a szerint módosított szöveg.
