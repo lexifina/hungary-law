@@ -1,4 +1,4 @@
-## I. Kiállító intézet:
+## I. Kiállító Tagozat:
 
 ## II. Mellékletek: Jelen státus és a vizsgálati eredmények leírása
 
@@ -12,7 +12,7 @@
 
 ## 4. Diagnózis:
 
-## III. Az Országos Intézet, illetve a GYEMSZI szakmai javaslata:
+## III. A Tagozat szakmai javaslata:
 
 ## 1. A külföldi gyógykezelés indokoltságának rövid leírása, a gyógykezeléstől várható eredmény:
 
@@ -44,17 +44,17 @@
 
 ## Budapest, .............................................................................................
 
-## A szakmai bizottság elnökének neve és aláírása:
+## A Tagozat vezetőjének neve és aláírása:
 
 ## P. H.
 
-## A szakmai bizottság tagjainak neve és aláírása:
+## A Tagozatnak a szakmai javaslat meghozatalában részt vevő tagjainak neve és aláírása:
 
 ## 1. .............................................................................................
 
 ## 2. .............................................................................................
 
-2. melléklet a 227/2003. (XII. 13.) Korm. rendelethez[^22]
+2. melléklet a 227/2003. (XII. 13.) Korm. rendelethez[^29]
 
 Az Országos Vérellátó Szolgálat igazolja, hogy a mellékelt számlák az alábbi személyen végrehajtandó vagy elvégzett transzplantációval kapcsolatban felmerült jogszerű és célhoz kötött költségeket takarnak
 
@@ -86,4 +86,4 @@ aláírás
 
 P. H.
 
-[^22]: A 2. melléklet a 325/2011. (XII. 28.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^29]: A 2. melléklet a 325/2011. (XII. 28.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
