@@ -6,7 +6,7 @@ a) az (1) bekezdésben foglalt esetekben MOKK elnöke szerint a kizárási ok ne
 
 b) a kizárási okot nem a közjegyző jelentette be, és kizárásához sem járult hozzá,
 
-a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett közjegyző székhelye szerint illetékes helyi bíróság nemperes eljárásban határoz.
+a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett közjegyző székhelye szerint illetékes járásbíróság nemperes eljárásban határoz.
 
 (3) A (2) bekezdés a) pontjában meghatározott esetben a MOKK elnöke a kizárási ügyben keletkezett iratokat megküldi a kizárásról való döntés végett a bíróságnak.
 
