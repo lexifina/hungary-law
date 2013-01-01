@@ -1,5 +1,5 @@
-## 62. §[^62]
+## 62. §[^63]
 
 ## 63. A Szociális Családiház-építési Program keretében az Ócsa területén megvalósuló építési beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 156/2011. (VIII. 10.) Korm. rendelet módosítása
 
-[^62]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

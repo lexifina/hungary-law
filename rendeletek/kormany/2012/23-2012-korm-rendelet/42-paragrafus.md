@@ -1,5 +1,5 @@
-## 41. §[^41]
+## 41. §[^42]
 
 ## 42. A „Tisza hullámtér projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 79/2009. (IV. 8.) Korm. rendelet módosítása
 
-[^41]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
