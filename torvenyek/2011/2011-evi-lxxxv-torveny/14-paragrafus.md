@@ -20,10 +20,30 @@ b) a bérgyártó,
 
 c) a 1234/2007/EK rendelet szerinti mezőgazdasági termelői szerveződésen keresztül forgalomba hozott termékdíjköteles termék esetén a termelői szerveződés,
 
-d) a csomagolószer első belföldi vevője, ha csomagolást hoz létre a csomagolószerből,
+d) csomagolószer esetében az azt változatlan formában és állapotban vagy más kiszerelésben továbbértékesítő első belföldi vevő,
 
-e) csomagolóanyag esetében az azt csomagolóeszköz előállítására felhasználó első belföldi vevő
+e) a csomagolószer
 
-átvállalhatja. Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor, vagy saját célú felhasználáskor keletkezik.
+ea) első belföldi vevője vagy
 
-(6)–(7)
+eb) a d) pont szerinti értékesítés belföldi vevője,
+
+ha csomagolást hoz létre a csomagolószerből,
+
+f) csomagolóanyag esetében az azt anyagában, méretében, megjelenésében továbbfeldolgozott csomagolóanyag, csomagolóeszköz, illetve csomagolási segédanyag előállítására felhasználó
+
+fa) első belföldi vevő vagy
+
+fb) a d) pont szerinti értékesítés belföldi vevője,
+
+g) a 3920 vámtarifaszám alá tartozó csomagolóanyag esetében az azt változatlan formában és állapotban, vagy más kiszerelésben, kiskereskedelmi értékesítés keretében továbbértékesítő
+
+ga) első belföldi vevő vagy
+
+gb) a d) pont szerinti értékesítés belföldi vevője
+
+átvállalhatja.
+
+(6) Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor vagy saját célú felhasználáskor keletkezik.
+
+(7)

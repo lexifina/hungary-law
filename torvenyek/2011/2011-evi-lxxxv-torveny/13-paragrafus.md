@@ -2,7 +2,7 @@
 
 13. § A számlán
 
-a) számlán történő átvállalás esetén, vagy
+a) számlán vagy szerződéssel történő átvállalás esetén, vagy
 
 b) a kötelezett és vevőinek visszaigénylésre jogosult vevő partnerei által igényelt esetben, vagy
 

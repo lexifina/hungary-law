@@ -52,7 +52,7 @@ olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj ne
 
 b) a termékdíjköteles termék mennyiségében bekövetkezett, a törvény végrehajtási rendeletében meghatározott elszámolható hiányt meghaladó hiány és a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
 
-(6) A csomagolószer termékdíját nem kell megfizetni, ha – e törvény végrehajtási rendeletében meghatározottak szerint – nyilatkozik a kötelezett első vevője (a továbbiakban: nyilatkozó) arról, hogy
+(6) A csomagolószer termékdíját nem kell megfizetni, ha – e törvény végrehajtási rendeletében meghatározottak szerint – nyilatkozik a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) arról, hogy
 
 a) a csomagolószert csomagolás előállítására használja fel és a 15. § (4) bekezdés szerinti termékdíjátalány fizetésére jogosult, vagy
 
