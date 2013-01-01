@@ -1,5 +1,3 @@
-## 45. §[^54]
+## 45. § A közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 8. § (1) bekezdés i) pontjában a „lakóhelye szerint illetékes jegyző igazolja (a helyi közlekedésben)” szövegrész helyébe a „kifizetőhely igazolja (helyi közlekedésben)” szöveg lép.
 
 ## 46. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet módosítása
-
-[^54]: A 45. § a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

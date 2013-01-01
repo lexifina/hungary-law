@@ -1,7 +1,5 @@
-## 82. §[^98]
+## 82. § A vis maior támogatás felhasználásának részletes szabályairól szóló 9/2011. (II. 15.) Korm. rendelet 2. § 14. pontjában az „okmányiroda” szövegrész helyébe a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala” szöveg lép.
 
 ## 83. A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetről szóló
 
 ## 59/2011. (IV. 12.) Korm. rendelet módosítása
-
-[^98]: A 82. § a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

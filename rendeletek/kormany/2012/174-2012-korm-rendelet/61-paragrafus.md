@@ -1,13 +1,15 @@
-## 60. §[^70]
+## 60. §[^38]
 
 ## 61. A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet módosítása
 
 ## 61. § A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet
 
-a)–c)[^71]
+a)–b)[^39]
 
-d)[^72]
+c) 7. § (4) bekezdés a) pont aa) alpontjában a „kistérségi” szövegrész helyébe a „járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi)” szöveg,
 
-[^70]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^71]: A 61. § a)–c) pontja a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^72]: A 61. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+d)[^40]
+
+[^38]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 61. § a)–b) pontja a 296/2012. (X. 17.) Korm. rendelet 70. §-a alapján nem lép hatályba.
+[^40]: A 61. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

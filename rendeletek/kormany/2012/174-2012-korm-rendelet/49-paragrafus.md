@@ -1,5 +1,3 @@
-## 48. §[^58]
+## „9. Az állandó menazséria szerint illetékes járási hivatal aláírása, bélyegzője, valamint az aláírás kelte.”
 
 ## 49. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
-
-[^58]: A 48. § a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
