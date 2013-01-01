@@ -1,29 +1,31 @@
-8. § Az engedély-nyilvántartás tartalmazza:
+8. § (1) Az engedély-nyilvántartás tartalmazza
 
-a járművezető
+a) a járművezető,
 
-a) természetes személyazonosító adatát,
+aa) természetes személyazonosító adatát,
 
-b) lakcímét,
+ab) lakcímét,
 
-c) arcfényképét (arcképmását),
+ac) arcfényképét (arcképmását),
 
-d) saját kezű aláírását,
+ad) saját kezű aláírását,
 
-e) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
+ae) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
 
-f) elhalálozásának idejét,
+af) elhalálozásának idejét,
 
-g) állampolgárságát,
+ag) állampolgárságát,
 
-h) közúti közlekedési előéleti pontrendszer adatait; továbbá
+ah) közúti közlekedési előéleti pontrendszer adatait, továbbá
 
-az engedély
+b) az engedély
 
-i) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vonatkozó adatokat,
+ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
 
-j) elvesztésére, eltulajdonítására, megsemmisülésére, találására, megkerülésére, valamint a figyelmeztető jelzés elhelyezésére vonatkozó adatokat,
+bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
 
-k) hivatalos feljegyzések rovatába bejegyzett adatokat,
+bc) hivatalos feljegyzések rovatába bejegyzett adatokat, valamint
 
-l) a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
+bd) a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
+
+(2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.

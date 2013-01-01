@@ -4,7 +4,7 @@ a) természetes személyazonosító adatát,
 
 b) lakcímét, egyéni vállalkozó esetében kérelmére székhelyét, telephelyét,
 
-c)
+c) adóazonosító számát,
 
 d) külföldi esetén állampolgárságát; továbbá a jogi személy vagy jogi személyiséggel nem rendelkező szervezet
 
@@ -26,9 +26,11 @@ c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Uni
 
 d) a járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására,
 
-e) vonatkozásában a járműokmányoknak és a jármű hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, találására, megkerülésére, valamint a forgalmi engedély okmány, illetve a jármű hatósági jelzése tekintetében a figyelmeztető jelzés elhelyezésére vonatkozó adatokat,
+e) járműokmányainak és hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására, megkerülésére, vonatkozó adatokat,
 
-f) kilométerszámláló műszere által jelzett értéket (km-óra állást) és a km-óra állás rögzítésének időpontját.
+f) az állandó forgalmi engedély okmány, illetve az állandó rendszámtábla tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatait, valamint
+
+g) kilométerszámláló műszere által jelzett értéket (kilométeróra-állást) és a kilométeróra-állás rögzítésének időpontját.
 
 (3) A járműnyilvántartás tartalmazza a külön jogszabályban meghatározottak szerint a régi tulajdonos (átruházó) tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettség-teljesítésének időpontját.
 

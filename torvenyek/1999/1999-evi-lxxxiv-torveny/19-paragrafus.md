@@ -6,19 +6,19 @@ b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabály
 
 c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 
-d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozóhatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1a) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
+d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1a) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 
 e) a települési önkormányzat jegyzője
 
-ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat,
+ea) gépjármű-adóztatási feladatok ellátásához a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában, továbbá a 9/A. § (1) bekezdésében meghatározott adatokat,
 
-eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdés a), b), e) és f) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdésének a), b), d) és e) pontjaiban, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
+eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b), e) és f) pontjában, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában megjelölt adatokat;
 
-f) az adóhatóság az adóigazgatási eljáráshoz a 8. § a), b), i) és k) pontjaiban, a 9. § (1)–(1a) bekezdésében, a (2) bekezdés a)–c) pontjaiban és a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
+f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1a) bekezdésében, a 9. § (2) bekezdés a)–c) pontjában és a 9/A. § (1) bekezdés a)–e) pontjában meghatározott adatokat;
 
-g) a vámhatóság a vámigazgatási eljáráshoz a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat;
+g) a vámhatóság a vámigazgatási eljáráshoz a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában, továbbá a 9/A. § (1) bekezdésében meghatározott adatokat;
 
-h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdés a), b), e), f) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjaiban, valamint a 9. § (4) bekezdésében megjelölt adatokat;
+h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b), e), f) pontjában, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat;
 
 i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 
@@ -28,7 +28,7 @@ k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 
 l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b), e) és f) pontjában, a 9. § (1a) bekezdésében, a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
 
-m)
+m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 
 n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a helyi önkormányzatokról szóló 1990. évi LXV. törvény 9. § (5) bekezdésben meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjaiban, továbbá a (3) bekezdésében megjelölt adatokat.
 
@@ -44,12 +44,12 @@ s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jo
 
 (2) A nyilvántartásból adatot igényelhetnek:
 
-a) a 8. § c), d) pontjaiban megjelölt adatok kivételével
+a) a 8. § (1) bekezdés a) pont ac)–ad) alpontjában meghatározott adatok kivételével
 
 aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához,
 
-ab) a közúti közlekedés ellenőrzésére jogosult hatóságok jogszabályban meghatározott feladataik ellátásához;
+ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
 
-b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § c), d), g), h) és a 9. § (1) bekezdés d), g) pontjaiban megjelölt adatok kivételével.
+b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés d), g) pontjában meghatározott adatok kivételével.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
