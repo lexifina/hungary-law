@@ -1,3 +1,5 @@
+## 8. §[^8]
+
 ## VIII. Cafetéria
 
 9. § (1) A közszolgálati tisztviselő, szakmai vezető, politikai vezető írásban vagy elektronikus úton a tárgyév március 1-ig, illetve a jogviszony létesítésekor vagy az áthelyezésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt a hivatali szervezet vezetője a közszolgálati szabályzatban lehetővé teszi. A hivatali szervezet vezetője a közszolgálati szabályzatban előírhatja, hogy a közszolgálati tisztviselőnek, szakmai vezetőnek, politikai vezetőnek a helyi utazására szolgáló bérlet választására vonatkozó nyilatkozatát a tárgyévre vonatkozó nyilatkoztatási időszakot megelőzően kell megtennie.
@@ -25,3 +27,5 @@
 (12) A juttatás elszámolásakor figyelembe kell venni a közszolgálati tisztviselő, szakmai vezető, politikai vezető nevére szóló, a szerv által már megrendelt utalvány összegét is. Továbbá igénybe vett juttatásnak kell tekinteni az elszámolás során az Szja tv. 71. § (3) bekezdése szerinti juttatások esetében a kiutalt tárgyhavi munkáltatói hozzájárulást.
 
 (13) A hivatali szervezet vezetője által kiadott közszolgálati szabályzat a szervezet személyi állományának egyes csoportjai tekintetében nem állapíthat meg valamely szempont alapján eltérő mértékű keretösszeget, illetve eltérő választható juttatásokat.
+
+[^8]: A 8. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.

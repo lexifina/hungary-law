@@ -1,9 +1,15 @@
 ## I. Hatály
 
-1. § (1) A rendelet hatálya – a (2)–(4) bekezdésben foglalt kivétellel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-ában meghatározott közigazgatási szervekre és az ott foglalkoztatott kormányzati szolgálati jogviszonyban állókra, valamint a közszolgálati jogviszonyban állókra terjed ki.
+1. § (1)[^1] A rendelet hatálya – a (2)–(5) bekezdésben foglalt kivétellel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-ában meghatározott közigazgatási szervekre és az ott foglalkoztatott kormányzati szolgálati jogviszonyban állókra, valamint a közszolgálati jogviszonyban állókra terjed ki.
 
-(2) A 3. § hatálya a minisztériumban, illetve a Miniszterelnökségen foglalkoztatott kormánytisztviselőre, kormányzati ügykezelőre terjed ki.
+(2)[^2] A 3. § hatálya az államigazgatási szervnél foglalkoztatott kormánytisztviselőre, kormányzati ügykezelőre terjed ki.
 
 (3) A szakmai vezetőre, a politikai tanácsadóra, politikai főtanácsadóra, a kormányzati ügykezelőre, közszolgálati ügykezelőre a 2. § hatálya nem terjed ki.
 
 (4) A 9. § hatálya az (1) bekezdésben foglaltakon kívül kiterjed a politikai vezetőre is.
+
+(5)[^3] A NAV állományába tartozó kormánytisztviselőkre és kormányzati ügykezelőkre a 2. § és 9. § hatálya nem terjed ki.
+
+[^1]: Az 1. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 46. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 46. § (1) bekezdése iktatta be.
