@@ -2,7 +2,7 @@
 
 ## 1. E melléklet alkalmazásában:
 
-## a) Elfogadóhely: a körzetközponti jegyzők által a települési (fővárosi kerületi) önkormányzat polgármesteri hivatalának részeként működtetett okmányirodák, illetve azok kirendeltségei, valamint a Központi Okmányiroda és kirendeltségei, amelyek POS-terminállal felszereltek,
+## a)[^24] Elfogadóhely: a járási hivatal részeként működtetett okmányirodák, illetve azok kirendeltségei, valamint a Központi Okmányiroda és kirendeltségei, amelyek POS-terminállal felszereltek,
 
 ## b) Szolgáltató: azon – közbeszerzési eljárás keretében központilag kiválasztott – hitelintézet, amely az elfogadóhelyeken fizetőkártya-elfogadó szolgáltatást nyújt,
 
@@ -16,7 +16,7 @@
 
 ## g) POS Kézikönyv: a szolgáltató által papíralapon, illetve elektronikus formában előállított és az elfogadóhelyek rendelkezésére bocsátott tájékoztató anyag, amely a fizetőkártya-elfogadás technikai és üzleti folyamatait szabályozza,
 
-## h) Elfogadó: az okmányirodát működtető körzetközponti jegyző, valamint a Központi Okmányiroda vezetője, amely a szolgáltató részére POS Végfelhasználói Nyilatkozatot tesz igazgatási szolgáltatási díjak és illetékek ellenértékének a szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítése céljából.
+## h)[^25] Elfogadó: az okmányirodát működtető járási hivatal vezetője, valamint a Központi Okmányiroda vezetője, amely a szolgáltató részére POS Végfelhasználói Nyilatkozatot tesz igazgatási szolgáltatási díjak és illetékek ellenértékének a szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítése céljából.
 
 ## 2. Az elfogadóhelyeken fizetőkártya-elfogadó szolgáltatás nyújtására – a Hivatal által jóváhagyott dokumentációban foglaltak betartása mellett – kizárólag a központilag közbeszerzési eljárás keretében kiválasztott hitelintézet jogosult. A szolgáltató személyét a Hivatal köteles az internetes honlapján és a kormányzati portálon, valamint az EFER rendszert működtető szervezetnél közzétenni.
 
@@ -36,7 +36,7 @@
 
 ## A szolgáltató által az elfogadóhelyek rendelkezésére bocsátott, a fizetőkártya-elfogadói szolgáltatás logóit, matricáit az elfogadóhelynek feltűnő, a kártyabirtokosok által jól látható módon kell elhelyezni, különös tekintettel arra az esetre, ha a kártyával történő fizetés nem minden munkaállomásnál biztosított.
 
-4. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^12]
+4. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^26]
 
 A központi bianco okmány ellátás rendje
 
@@ -44,9 +44,9 @@ A központi bianco okmány ellátás rendje
 
 1. Bianco okmányok kezelése
 
-1.1. Megrendelés
+1.1.[^27] Megrendelés
 
-A jegyző által az okmányok kezelésére kijelölt ügyintéző köteles figyelemmel kísérni a bianco okmányok, tartozékok és kellékek okmányirodai készletét, és köteles elkészíteni a szükséges megrendeléseket.
+A járási hivatal vezetője által az okmányok kezelésére kijelölt ügyintéző köteles figyelemmel kísérni a bianco okmányok, tartozékok és kellékek okmányirodai készletét, és köteles elkészíteni a szükséges megrendeléseket.
 
 A Hivatal negyedévenként a megrendelések alapján biztosítja az igényelt bianco okmányokat.
 
@@ -180,4 +180,7 @@ Az okmányok selejtezését az Okmányiroda vezetőjének engedélyével lehet m
 
 Az okmányokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
 
-[^12]: A 4. számú melléklet a 38/2003. (VIII. 14.) BM rendelet 3. §-ával megállapított szöveg.
+[^24]: A 3. számú melléklet 1. pont a) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § l) pontja szerint módosított szöveg.
+[^25]: A 3. számú melléklet 1. pont h) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § d) pontja szerint módosított szöveg.
+[^26]: A 4. számú melléklet a 38/2003. (VIII. 14.) BM rendelet 3. §-ával megállapított szöveg.
+[^27]: A 4. számú melléklet 1.1. pontja az 50/2012. (XII. 4.) KIM rendelet 10. § g) pontja szerint módosított szöveg.
