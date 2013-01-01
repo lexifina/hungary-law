@@ -1,5 +1,17 @@
-## 3–4. §[^3]
-
 ## 4. A járási hivatal vezetőjének feladatai
 
-[^3]: A 3–4. § a 15. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 5. § A járási hivatal vezetője (a továbbiakban: hivatalvezető) a kormánymegbízott szakmai irányítása mellett
+
+a) vezeti a járási hivatalt,
+
+b) gyakorolja a járási hivatal törzshivatalának feladat- és hatásköreit,
+
+c) biztosítja – a kormánymegbízott által meghatározott keretek között – a járási hivatal szakigazgatási szervei feladatellátásának feltételeit,
+
+d) gondoskodik a kormánymegbízott által meghatározott belső szabályzatok elkészítéséről,
+
+e)[^4]
+
+f) ellátja a járási hivatal üzemeltetésével összefüggő feladatokat.
+
+[^4]: Az 5. § e) pontja a 414/2012. (XII. 29.) Korm. rendelet 16. §-a alapján nem lépett hatályba.

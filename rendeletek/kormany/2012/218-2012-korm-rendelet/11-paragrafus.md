@@ -1,3 +1,5 @@
+## 10. §[^10]
+
 ## 10. A megállapodás megkötése és a birtokba adás szabályai
 
 11. § (1) A megállapodás alapjául a települési önkormányzatnak a megállapodás megkötésének időpontjában meglévő, hitelesített vagyonleltára és a 12. §-ban meghatározott felmérés eredményei szolgálnak. A megállapodást a Törvényben meghatározott felek e rendelet 2. melléklete szerinti megállapodás-minta alapján kötik meg.
@@ -6,6 +8,7 @@
 
 (3) A megállapodás alapján az érintett vagyonelemek tényleges birtokba adása jegyzőkönyv felvételével történik, melyre 2013. január 1-jével kerül sor.
 
-(4)[^9] A birtokba adási eljárás levezetője a kormánymegbízott. A kormánymegbízott dönt a birtokba vételi eljárás pontos időpontjáról, továbbá a használatba vevőn és a polgármesteren kívüli jelenlévőkről, a birtokba vételről készített jegyzőkönyv hitelesítésének módjáról, továbbá adott esetben a nevében és helyette eljáró meghatalmazott személyről. A jegyzőkönyvet a kormánymegbízott és a polgármester írja alá.
+(4)[^11] A birtokba adási eljárás levezetője a kormánymegbízott. A kormánymegbízott dönt a birtokba vételi eljárás pontos időpontjáról, továbbá a használatba vevőn és a polgármesteren kívüli jelenlévőkről, a birtokba vételről készített jegyzőkönyv hitelesítésének módjáról, továbbá adott esetben a nevében és helyette eljáró meghatalmazott személyről. A jegyzőkönyvet a kormánymegbízott és a polgármester írja alá.
 
-[^9]: A 11. § (4) bekezdés negyedik mondatát a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^10]: A 10. §-t a 15. § (4) bekezdése hatályon kívül helyezte.
+[^11]: A 11. § (4) bekezdés negyedik mondatát a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés j) pontja hatályon kívül helyezte.
