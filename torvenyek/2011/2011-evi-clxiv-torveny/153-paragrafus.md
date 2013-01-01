@@ -10,15 +10,19 @@ c) a záró rendelkezések közül: a 295–297. §.
 
 (3) Az ügyészségi alkalmazottak szolgálati viszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény
 
-a) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
+a) 53. §-át csak a kinevezéstől eltérő munkakörben való foglalkoztatásra kell alkalmazni,
 
-b) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
+b) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
 
-c) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
+c) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik;
 
-d) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
+d) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
 
-e) 287. § (2) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
+e) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
+
+f) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
+
+g) 287. § (2) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
 
 (4) A munka törvénykönyvéről szóló 2012. évi I. törvény 140. §-át és 143. §-át csak az írnok és a fizikai alkalmazott, az 59. §-át és 145. §-át csak a fizikai alkalmazott esetében kell alkalmazni.
 
@@ -40,4 +44,4 @@ kell érteni.
 
 (6) Ahol e törvény a „nyugdíjasnak minősül”, „öregségi nyugdíjra jogosult”, „öregségi nyugdíjra való jogosultság” kifejezést használja, e fogalmak tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 294. § (1) bekezdés g) pontját kell alkalmazni azzal, hogy a legfőbb ügyész helyettes és az ügyész esetében e fogalmakat a rá irányadó öregségi nyugdíjkorhatárt be nem töltött személyre kell alkalmazni. Nyugdíjasnak minősül az alügyész, az ügyészségi fogalmazó, továbbá a tisztviselő, írnok, fizikai alkalmazott, valamint a rá irányadó öregségi nyugdíjkorhatárt be nem töltött ügyész abban az esetben is, ha felmentését a Tny. 18. § (2a) bekezdésére szerzett jogosultságára hivatkozással maga kéri.
 
-(7) Nem alkalmazható az ügyészségi alkalmazottak szolgálati viszonyára a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 105. és 106. §-a.
+(7)

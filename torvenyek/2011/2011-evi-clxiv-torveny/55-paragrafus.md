@@ -6,7 +6,7 @@
 
 a) a fizetés nélküli szabadság megszűnését követő naptól,
 
-b) ha az ügyésznek ki kell adni a korábbi évekre járó rendes szabadságát, akkor a szabadság leteltét követő naptól
+b) ha az ügyésznek a munka törvénykönyvéről szóló 2012. évi I. törvény 123. § (3) bekezdése alapján ki kell adni a szabadságát, akkor a szabadság leteltét követő naptól
 
 hatályos.
 
