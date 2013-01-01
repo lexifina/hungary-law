@@ -1,8 +1,9 @@
-6. § (1) A bírság összegét ezer forintra való kerekítéssel kell megállapítani.
+6. §[^19] (1) A bírság összegét 10 000 forintra, kulturális javak esetén 1000 forintra való kerekítéssel kell megállapítani.
 
-(2)[^16]
+(2) A bírság megfizetésének határideje legfeljebb 90 nap.
 
-(3)[^17]
+(3) A határidő kezdő napja a bírságot kiszabó határozat jogerőssé válásának napja.
 
-[^16]: A 6. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 236. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^17]: A 6. § (3) bekezdését a 281/2005. (XII. 20.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 236. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(4) A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb 90 napra.
+
+[^19]: A 6. § a 394/2012. (XII. 20.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.

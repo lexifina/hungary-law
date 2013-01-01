@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-191-20-
 | 2012-04-15 | 2001-191-20-22.5 | 63/2012. (IV. 2.) Korm. rendelet |
 | 2012-07-01 | 2001-191-20-22.6 | 134/2012. (VI. 28.) Korm. rendelet |
 | 2012-11-06 | 2001-191-20-22.7 | 310/2012. (XI. 6.) Korm. rendelet |
+| 2013-01-01 | 2001-191-20-22.8 | 394/2012. (XII. 20.) Korm. rendelet |

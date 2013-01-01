@@ -1,8 +1,8 @@
-5/B. §[^13] (1) Az 5/A. §-ban foglaltak alapján meghatározott bírságalapot meg kell szorozni
+5/B. §[^16] (1) Az 5/A. §-ban foglaltak alapján meghatározott bírságalapot meg kell szorozni
 
-a) a kulturális örökségi elem veszélyeztetése, illetve hatósági engedélytől eltérő módon végzett tevékenység esetén 1,5-del,
+a) a kulturális örökségi elem veszélyeztetése esetén 1,5-del,
 
-b) a kulturális örökségi elem megrongálása, illetve hatósági engedély nélkül végzett tevékenység esetén 3-mal,
+b) a kulturális örökségi elem megrongálása esetén 3-mal,
 
 c) a kulturális örökségi elem részleges megsemmisítése esetén 6-tal,
 
@@ -10,4 +10,12 @@ d) a kulturális örökségi elem teljes megsemmisítése (eltűnése) esetén 1
 
 (2) Ha az (1) bekezdésben felsorolt magatartások közül több is megvalósul, a súlyosabb jogsértéshez tartozó szorzószámmal kell a bírságalapot megszorozni.
 
-[^13]: Az 5/B. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a 2006. január 1. napját követően megvalósított (befejezett) kötelezettségszegésekre kell alkalmazni.
+(3) Amennyiben a hatósági engedély nélkül vagy engedélytől eltérően végzett tevékenységet megelőző, vagy a kulturális örökségi elem sérelme nélküli állapot létrehozása az erre vonatkozó hatósági kötelezésben megállapított határidőben, vagy a hatóság jóváhagyásával megtörtént, a bírság az 5/A. §-ban foglaltak alapján meghatározott bírságalap %-os értéke:
+
+a) engedély nélkül végzett tevékenység esetén 10–50%,
+
+b) engedélytől eltérően végzett tevékenység esetén 10–40%.
+
+(4) Ha a műemléken az örökségvédelmi és az építésügyi hatósági engedélyhez egyaránt kötött tevékenységeket szabálytalanul végezték, akkor az örökségvédelmi bírságot az örökségvédelmi engedélyhez kötött valamennyi szabálytalan tevékenységre meg kell állapítani és a fennmaradási engedélyről hozott döntésbe kell foglalni.
+
+[^16]: Az 5/B. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
