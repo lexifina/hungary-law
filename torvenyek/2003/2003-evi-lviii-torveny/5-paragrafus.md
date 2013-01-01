@@ -4,4 +4,4 @@
 
 (2) A szerződő éves befizetési kötelezettségének összege a lakóingatlan értéke alapján a veszélyeztetettségi fokozat szerinti korrekciós tényező alkalmazásával a szerződésben kerül meghatározásra.
 
-(3) Szociális rászorultság esetén, a rászorultság mértékétől függően, az önkormányzat jegyzőjének igazolása alapján a befizetés éves összege a szerződésben legfeljebb 30%-kal csökkenthető.
+(3) Szociális rászorultság esetén, a rászorultság mértékétől függően, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának igazolása alapján a befizetés éves összege a szerződésben legfeljebb 30%-kal csökkenthető.
