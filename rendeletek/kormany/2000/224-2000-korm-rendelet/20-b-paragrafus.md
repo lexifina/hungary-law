@@ -50,8 +50,11 @@ fedezetéül szolgáló eszközöket az egyéb ráfordítással szemben vezeti k
 
 (15)[^92] A (13)–(14) bekezdés szerinti pénzeszközöknek az államadósság csökkentésére az Alapból átutalt összegét az Alap a pénzügyi rendezés időpontjával egyéb ráfordításként számolja el.
 
+(16)[^93] Az Nyt. 2. § (6a) bekezdése szerinti, a Magyar Nemzeti Vagyonkezelő Zrt. részére átadott eszközök átadáskori könyv szerinti értékét az Alap az átadás időpontjával egyéb ráfordításként számolja el.
+
 [^88]: A 20/B. §-t a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be.
 [^89]: A 20/B. § (9) bekezdése a 342/2011. (XII. 29.) Korm. rendelet 39. § (2) bekezdés 2. pontja szerint módosított szöveg.
 [^90]: A 20/B. § (13) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
 [^91]: A 20/B. § (14) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
 [^92]: A 20/B. § (15) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^93]: A 20/B. § (16) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 17. §-a iktatta be.

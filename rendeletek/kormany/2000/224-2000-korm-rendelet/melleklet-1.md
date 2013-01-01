@@ -1,6 +1,6 @@
-## 25. §[^100] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 114/2012. (VI. 8.) Korm. rendelet 24. §-ával megállapított 24. § (2) bekezdését először a 2012. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+## 26. §[^102] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 382/2012. (XII. 19.) Korm. rendelet 16. §-ával megállapított 2. § (2) bekezdését, 17. §-ával megállapított 20/B. § (16) bekezdését először a 2013. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2012. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
 
-1. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^101]
+1. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^103]
 
-[^100]: A 25. §-t a 114/2012. (VI. 8.) Korm. rendelet 25. §-a iktatta be.
-[^101]: Az 1. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (1) bekezdése szerint módosított szöveg.
+[^102]: A 26. §-t a 382/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
+[^103]: Az 1. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (1) bekezdése szerint módosított szöveg.
