@@ -1,4 +1,4 @@
-17/F. §[^50] (1) A tartást engedélyező határozat jogerőre emelkedését követően a kerületi hivatal az 5. számú melléklet A. pontjában meghatározott adattartalmú tartási engedélyt (a továbbiakban: engedély) állít ki az eb tulajdonosa részére.
+17/F. §[^61] (1)[^62] A tartást engedélyező határozat jogerőre emelkedését követően a járási állat-egészségügyi hivatal az 5. számú melléklet A. pontjában meghatározott adattartalmú tartási engedélyt (a továbbiakban: engedély) állít ki az eb tulajdonosa részére.
 
 (2) Az engedély a kiállítástól számított két évig hatályos.
 
@@ -18,4 +18,5 @@ b) az eb tartási helyét – akár ideiglenesen is – megváltoztatják, vagy
 
 c) a veszélyes eb tulajdonjoga átruházásra kerül.
 
-[^50]: A 17/F. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^61]: A 17/F. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^62]: A 17/F. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.

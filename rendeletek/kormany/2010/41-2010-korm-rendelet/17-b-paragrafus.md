@@ -22,5 +22,14 @@ b) az adatbázis működtetője köteles a korábbi tartó adatait legalább öt
 
 (9) Az ebösszeírás során felvett, az adatbázisban nyilvántartottaktól eltérő vagy abból hiányzó adatokról a jegyző köteles az adatbázis működtetőjét értesíteni.
 
+(10)[^46] Négy hónaposnál idősebb eb csak transzponderrel megjelölve tartható.
+
+(11)[^47] A (10) bekezdésekben foglaltak betartását a jegyző és a járási állat-egészségügyi hivatal ellenőrzi.
+
+(12)[^48] A négy hónaposnál idősebb transzponderrel nem jelölt ebről a jegyző és a magánállatorvos köteles jelentést tenni a járási állat-egészségügyi hivatal felé.
+
 [^44]: A 17/A. §-t a 115/2012. (VI. 11.) Korm. rendelet 6. § (10) bekezdése iktatta be.
 [^45]: A 17/B. §-t a 115/2012. (VI. 11.) Korm. rendelet 6. § (10) bekezdése iktatta be.
+[^46]: A 17/B. § (10) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be.
+[^47]: A 17/B. § (11) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^48]: A 17/B. § (12) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.

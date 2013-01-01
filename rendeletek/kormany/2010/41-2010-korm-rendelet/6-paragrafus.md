@@ -1,4 +1,4 @@
-## 5. §[^12] A kerületi hivatal szükség szerint, de legalább évente egy alkalommal az állatkereskedésben hatósági ellenőrzést végez.
+## 5. §[^12] A járási állat-egészségügyi hivatal szükség szerint, de legalább évente egy alkalommal az állatkereskedésben hatósági ellenőrzést végez.
 
 6. §[^13] (1) Forgalmazni egészséges, vagy az ellátó állatorvos által felvett helyszíni jegyzőkönyvben – az állategészségügyre vonatkozó jogszabályok alapján – forgalmazhatónak nyilvánított állatot lehet. A forgalmazó köteles tájékoztatni a vevőt a helyszíni jegyzőkönyvben foglalt állatorvosi leletről és véleményről.
 
@@ -6,5 +6,5 @@
 
 (3) Amennyiben a kedvtelésből tartott állat tartásáról, tenyésztéséről, jelöléséről, illetve nyilvántartásáról külön jogszabály rendelkezik, csak az ott meghatározott rendelkezéseknek megfelelően tartott, tenyésztett és nyilvántartott, valamint megjelölt állat hozható forgalomba.
 
-[^12]: Az 5. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^12]: Az 5. § a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
 [^13]: A 6. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
