@@ -40,6 +40,6 @@
 
 ## B. A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv
 
-## A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, valamint a terrorizmust elhárító szervnél berendeléssel foglalkoztatott hivatásos állomány tekintetében a szerv vezetője gyakorolja az A. alcímben szereplő, Az általános rendőrségi feladatok ellátására létrehozott szerv elnevezésű táblázat 6–8. és 11–17. sorában meghatározott jogköröket.
+## A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, valamint a terrorizmust elhárító szervnél vezényléssel foglalkoztatott hivatásos állomány tekintetében a szerv vezetője gyakorolja az A. alcímben szereplő, Az általános rendőrségi feladatok ellátására létrehozott szerv elnevezésű táblázat 6–8. és 11–17. sorában meghatározott jogköröket.
 
 2. melléklet a 61/2011. (XII. 29.) BM rendelethez
