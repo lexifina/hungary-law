@@ -50,11 +50,11 @@ a) az oktatási intézményben ellátandó tanulói létszámot az oktatási int
 
 b)[^168] a körzet 0–7 éves korú lakosságának számát és az oktatási intézménybe nem járó, otthon gondozott tanköteles korúak számát a területileg illetékes jegyző ellenjegyzése alapján;
 
-c)[^169] a várandós anyák számát a fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézetének igazolása alapján.
+c)[^169] a várandós anyák számát a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetének igazolása alapján.
 
 (14)[^170] A szolgáltató részére az adott havi finanszírozás összegét az OEP a 6. § (3) bekezdése szerint utalványozza a tárgyhónapot megelőző hónapban.
 
-(15)[^171] A szolgáltató a gyermek-, illetve nőgyógyászati mozgó szakorvosi szolgálat tevékenységéről a finanszírozási szerződés szerinti adatokat, a tárgyhónapot követő hónap 5. napjáig nyújtja be a finanszírozónak.
+(15)[^171] A szolgáltató a gyermek-, illetve nőgyógyászati mozgó szakorvosi szolgálat tevékenységéről a finanszírozási szerződés szerinti adatokat, a tárgyhónapot követő hónap 5. munkanapjáig nyújtja be a finanszírozónak.
 
 (16)[^172] A gyermek-, illetve nőgyógyászati mozgó szakorvosi szolgálatot működtető szolgáltatót a (15) bekezdés szerint jelentett esetek száma és az egy ellátott esetre jutó tárgyhavi összeg alapján megállapított díjazás illeti meg. Az OEP a finanszírozásra rendelkezésre álló havi keret, valamint a (15) bekezdés szerint jelentett összes esetszám alapján havonta állapítja meg az egy ellátott esetre jutó összeget.
 
@@ -72,7 +72,7 @@ c)[^169] a várandós anyák számát a fővárosi és megyei kormányhivatal ki
 [^166]: A 21. § eredeti (10) bekezdésének számozását (12) bekezdésre változtatta és szövegét módosította a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, illetve 5. § (5) bekezdése.
 [^167]: A 21. § (11) bekezdése a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (2) bekezdésével megállapított szöveg, számozását (13) bekezdésre változtatta a 79/2008. (IV. 3.) 1. § (2) bekezdése, nyitó szövegrésze a 365/2010. (XII. 30.) Korm. rendelet 18. § 18. pontja szerint módosított szöveg.
 [^168]: A 21. § (13) bekezdés b) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont ca) alpontja szerint módosított szöveg.
-[^169]: A 21. § (13) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont cb) alpontja szerint módosított szöveg.
+[^169]: A 21. § (13) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont cb) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^170]: A 21. § új (12) bekezdését a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (12) bekezdés számozását (13) bekezdésre változtatva. A (12) bekezdés számozását (14) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése.
-[^171]: A 21. § eredeti (12) bekezdésének számozását a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (3) bekezdése (13) bekezdésre változtatta, szövege a 318/2006. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg. A (13) bekezdés számozását (15) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, szövege a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
+[^171]: A 21. § eredeti (12) bekezdésének számozását a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (3) bekezdése (13) bekezdésre változtatta, szövege a 318/2006. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg. A (13) bekezdés számozását (15) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, szövege a 447/2012. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^172]: A 21. § (14) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 9. §-a iktatta be, számozását (16) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése.

@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^496]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^513]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -142,6 +142,8 @@ F. magyar biztosítással rendelkező betegnek az Ebtv. 18. § (6) bekezdéséne
 
 G. magyar biztosítással rendelkező betegnek az Ebtv. 18. § (6) bekezdésének l) pontja szerinti, kizárólag orvosbiológiai kutatás keretében végzett beavatkozása miatt bekövetkezett szövődmény ellátása
 
+H. harmadik országbeli állampolgárnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 140. §-a szerinti ellátása
+
 K. külföldi donor ellátása
 
 M. magyar biztosítás alapján méltányosságból átvállalt térítés ellenében végzett ellátás
@@ -161,8 +163,6 @@ A. az ellátást végző orvos megválasztása
 B. biztosított beutaló nélküli ellátása
 
 C. beutalási rendtől eltérő igénybevétel
-
-G. miniszteri rendelet szerinti szanatóriumi ellátás
 
 H. külsődleges nemi jellegek megváltoztatása
 
@@ -354,6 +354,8 @@ N. nagy értékű, országosan még nem elterjedt műtéti eljárás előtti áp
 
 R. otthonába bocsátva, rehabilitációra irányítva
 
+T. otthoni parentális táplálás
+
 24. Az ellátó orvos kódja
 
 Az orvos 5 jegyű pecsétnyomójának száma.
@@ -432,4 +434,156 @@ Megnevezés
 
 Intézet/osztály azonosítója
 
-[^496]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
+A beavatkozást végző osztály finanszírozási szerződés szerinti 9 karakteres kódja. Ha a kúraszerű onkológiai ellátás a szakmai szabályok alapján a beteg otthonában történik, akkor az első négy karakter az ellátásért felelős intézet kódja, a többi karakter nulla
+
+Szakmakód
+
+Annak a szakmának a kódja, amelyen a beteg ellátása történik
+
+Dátum
+
+A beavatkozás kezdési időponja, óra, perc pontossággal
+
+Beavatkozás jellege (J)
+
+A. akut beavatkozás
+
+B. daganatellenes terápiás kezelés protokoll alapján, gyógyszerkészítménnyel, a beteg otthonában, az onkológiai centrum felügyeletében
+
+C. magyar biztosítással rendelkező beteg részére orvosbiológiai kutatás során vagy a kutatás során fellépett szövődmény miatt szükséges akut beavatkozás
+
+D. magyar biztosítással rendelkező beteg részére orvosbiológiai kutatás során vagy a kutatás során fellépett szövődmény miatt szükséges, választott időpontban végzett beavatkozás
+
+V. választott időpontban végzett beavatkozás
+
+Nosocomiális környezet (N)
+
+0. nem értelmezhető
+
+A. aszeptikus környezet
+
+C. szeptikus környezet
+
+Sebgyógyulás (S)
+
+1. sebgyógyulás per primam intentionem
+
+2. nem fertőzött seroma, haematoma
+
+3. sebgennyesedés
+
+4. varrat insufficientia
+
+5. folyamatban levő, zavartalanul gyógyuló seb elbocsátáskor
+
+Nosocomiális fertőzés (F)
+
+1. nosocomiális fertőzés nem volt
+
+2. nosocomiális fertőzés történt
+
+Beavatkozás minősítése az ellátásban elfoglalt helye szerint (M)
+
+0. neoadjuváns beavatkozás
+
+1. adjuváns beavatkozás
+
+2. első vonalbeli kezelés
+
+3. másod vonalbeli kezelés
+
+4. harmad, illetve többed vonalbeli kezelés
+
+5. reoperáció
+
+Anesztézia technikája (A)
+
+OENO kódok
+
+Beavatkozás típusa (T)
+
+1. a kórházi ápolást indokló fődiagnózis miatt végzett beavatkozás
+
+2. a kórházi ápolást indokló fődiagnózis miatti további beavatkozás
+
+3. kísérő betegség miatt végzett beavatkozás
+
+4. szövődmény miatt végzett beavatkozás
+
+5. donorból történő szervkivétel
+
+6. kórház által vásárolt, de tételesen finanszírozott beépített anyag, implantátum
+
+7. beteg által vásárolt implantátum
+
+8. tételesen finanszírozott beépített anyag, implantátum
+
+9. promóciós implantátum
+
+A. kórház által vásárolt, nem tételesen finanszírozott beépített anyag, implantátum
+
+B. OGYI engedély alapján indikáción túli gyógyszer alkalmazásával történt beavatkozás
+
+C. magyar biztosított részére egyedi méltányossági engedély alapján végzett orvosi beavatkozás
+
+D. magyar biztosított részére egyedi méltányossági engedéllyel biztosított implantátum
+
+E. magyar biztosított részére egyedi méltányossági engedély alapján, nem indikáción túli gyógyszer alkalmazása
+
+F. tételesen finanszírozott gyógyszeres kezelés
+
+Kód
+
+A műtét vagy beavatkozás OENO kódja
+
+Oldaliság (L)
+
+S. bal oldali beavatkozás
+
+D. jobb oldali beavatkozás
+
+U. mindkét oldalon végzett beavatkozás
+
+N. az oldaliság nem értelmezhető
+
+db
+
+Az elvégzett beavatkozás darabszáma
+
+Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött szűrésére vonatkozó OENO kódok esetén nem kell kitölteni a 27. rovatban a Sebgyógyulás (S), a Nosocomiális fertőzés (F), a beavatkozás minősítése az ellátásban elfoglalt helye szerint (M) rovatokat.
+
+29. Újszülött súlya
+
+Újszülött testsúlya felvételkor grammban, újszülött esetén kitöltése kötelező
+
+30. Baleset minősítése
+
+00. nem baleset, nem foglalkozási betegség
+
+11. munkahelyi baleset munkahely területén és/vagy munkavégzés közben
+
+16. ellátást nyújtó egészségügyi intézményben történt baleset
+
+20. foglalkozási megbetegedés miatti egészségügyi ellátás
+
+21. közúti baleset KRESZ hatálya alá tartozó gépjárművel
+
+22. közúti baleset tömegközlekedési eszközön
+
+31. háztartási baleset
+
+32. sportbaleset
+
+34. állat okozta baleset
+
+40. közterületen történt baleset
+
+41. baleset feltételezhető, de a körülményei nem ismertek
+
+42. idegenkezűség következtében létrejött baleset
+
+43. fentiekbe be nem sorolható egyéb baleset
+
+31. Felhasználói mezők
+
+[^513]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja szerint módosított szöveg.

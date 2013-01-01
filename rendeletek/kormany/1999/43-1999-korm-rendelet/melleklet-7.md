@@ -50,6 +50,8 @@
 
 ## G = magyar biztosítással rendelkező betegnek az Ebtv. 18. § (6) bekezdés l) pontja szerinti, kizárólag orvostudományi kutatás keretében végzett beavatkozása miatt bekövetkezett szövődmény ellátása
 
+## H = harmadik országbeli állampolgárnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 140. §-a szerinti ellátása
+
 ## K = külföldi donor ellátása
 
 ## M = magyar biztosítás alapján méltányosságból átvállalt térítés ellenében végzett ellátás
@@ -144,9 +146,9 @@ A finanszírozás módja szerint aktív ellátásnak minősül az az ellátás, 
 
 A finanszírozás módja szerint krónikus ellátásnak minősül az, amelynek célja az egészségi állapot stabilizálása, fenntartása, illetve helyreállítása. Az ellátás időtartama, illetve befejezése általában nem tervezhető, és jellemzően hosszú időtartamú.
 
-3.[^487] Mátrix kórházi ellátás
+3.[^503] Mátrix kórházi ellátás
 
-A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^488]
+A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^504]
 
-[^487]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^488]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
+[^503]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^504]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
