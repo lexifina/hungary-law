@@ -2,9 +2,9 @@
 
 11. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépés után indult eljárásokban kell alkalmazni.
 
-(2)[^11]
+(2)[^9]
 
-Melléklet a 3/2002. (II. 15.) NKÖM rendelethez[^12]
+Melléklet a 3/2002. (II. 15.) NKÖM rendelethez[^10]
 
 A kulturális javak védetté nyilvánítási eljárásában szakértőként
 
@@ -68,5 +68,5 @@ közreműködő intézmények
 
 | 29. Egyház- és vallástörténeti emlé- kek, kegytárgyak, műalkotások | A tárgy jellegének megfelelő fenti közgyűjtemények, az alábbi illetékes felekezeti intézmények bevonásával: Országos Katolikus Gyűjteményi Központ Evangélikus Országos Múzeum Országos Református Gyűjteményi Központ Országos Zsidó Vallási és Történeti Gyűjtemény | 1071 Budapest, Városligeti fasor 45. 1052 Budapest, Deák tér 4. 1146 Budapest, Abonyi u. 21. 1075 Budapest, Dohány u. 2. |
 
-[^11]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 47. pontja hatályon kívül helyezte.
-[^12]: A Melléklet az 54/2012. (XII. 28.) EMMI rendelet 2. § (1) bekezdés c)–l) pontja és (2) bekezdése szerint módosított szöveg.
+[^9]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 47. pontja hatályon kívül helyezte.
+[^10]: A Melléklet az 54/2012. (XII. 28.) EMMI rendelet 2. § (1) bekezdés c)–l) pontja és (2) bekezdése szerint módosított szöveg.
