@@ -6,4 +6,4 @@
 
 (4) A Központi Nukleáris Pénzügyi Alap pénzeszközeit a kincstári egységes számlán elkülönítetten kell nyilvántartani.
 
-(5) A Központi Nukleáris Pénzügyi Alap kezelője a felhalmozott vagyont a 40. §-ban megjelölt szerv útján, kizárólag a 62. § (1) bekezdésben megjelölt célokra fordíthatja.
+(5) A Központi Nukleáris Pénzügyi Alap kezelője a felhalmozott vagyont a 10/A. § (6) bekezdésében foglalt kivétellel a 40. § (1) bekezdése szerint kijelölt szerv útján, kizárólag a 62. § (1) bekezdésben megjelölt célokra fordíthatja.

@@ -44,7 +44,7 @@ m) az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenő
 
 n) a speciális érvényesítési eljárások rendjét.
 
-o) a 10/A. § alapján létrejött ellenőrzési és információs célú önkormányzati társulások és tagjaik Központi Nukleáris Pénzügyi Alapból származó támogatásainak mértékét, felhasználásának ellenőrzését és az elszámolás rendjét, figyelemmel a 62. § (1) bekezdésében foglaltakra;
+o) a 10/A. § alapján létrejött társulások számára a Központi Nukleáris Pénzügyi Alapból nyújtható támogatás felosztásának módjára és a folyósítására, a támogatási szerződés megkötésére, a támogatás felhasználásának ellenőrzésére és az elszámolás rendjére vonatkozó szabályokat;
 
 p) a radioaktív hulladékok és a kiégett üzemanyagok országhatáron át történő szállításának engedélyezését és az engedélyezéshez való hozzájárulást;
 
