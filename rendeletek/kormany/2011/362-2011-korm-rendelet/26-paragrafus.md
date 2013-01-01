@@ -1,5 +1,3 @@
-## 25. §[^7]
-
 26. § (1) A pedagógusigazolványra jogosult az igazolvány iránti igényét a közreműködő intézménynek jelenti be.
 
 (2) A jogosult a közreműködő intézmény által meghatározott módon megfizeti a 39. §-ban meghatározott díjat a közreműködő intézmény részére.
@@ -10,7 +8,7 @@ a) az igénylő felület vagy az IAR használatával a pedagógusigazolvány ig�
 
 b) az elektronikusan rögzített igénylésről ellenőrző adatlapot nyomtat, melyet a jogosulttal aláírat,
 
-c) az intézmény képviseletére jogosult személy továbbítja az elektronikus igénylést, aláírja az igénylő felület vagy az IAR segítségével nyomtatott fedőlapot, és továbbítja azt az adatkezelő részére.
+c)[^10] az intézmény képviseletére jogosult személy a 25. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
 
 (4) Az adatkezelő ingyenesen biztosítja a KIR honlapján az igénylő felülethez a hozzáférést azon közreműködő intézmény számára, amely 2011. szeptember 1. napját megelőzően nem volt jogosult IAR állami támogatásból történő beszerzésére, vagy jogosult volt, de nem szerzett be ilyen rendszert. Az igénylő felületen az adatkezelő meg nem változtatható módon biztosítja a közreműködő intézmény számára a KIR-ben nyilvántartott és a pedagógusigazolvány előállításához szükséges intézményi és pedagógus adatokat.
 
@@ -22,4 +20,4 @@ c) az intézmény képviseletére jogosult személy továbbítja az elektronikus
 
 (8) A pedagógusigazolvány igénylése esetén az IAR az igénylés során feltöltött személyes adatokat összeveti a KIR-ben szereplő adatokkal. Amennyiben a KIR-ben tárolt adatok eltérnek az igénylésben és a közreműködő intézmény nyilvántartásában szereplő adatoktól, akkor az igénylés továbbítása előtt a közreműködő intézmény köteles az adatváltozásokat a jogszabályban meghatározott módon bejelenteni.
 
-[^7]: A 25. § a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^10]: A 26. § (3) bekezdés c) pontja a 43. § (4) bekezdésével megállapított szöveg.

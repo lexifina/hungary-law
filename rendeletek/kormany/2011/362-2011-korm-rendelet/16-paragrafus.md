@@ -18,6 +18,4 @@ b) az intézmény képviseletére jogosult személy hitelesíti az igénylést �
 
 (7) A diákigazolvány-igénylések csak abban az esetben tekinthetők érvényesnek, ha a közreműködő intézmény szerepel az adatkezelő által vezetett intézményi adatbázisban. A közreműködő intézményeket tartalmazó adatbázis módosítása az adatkezelő felé, az adatkezelő által meghatározott módon tett bejelentéssel lehetséges.
 
-(8)[^5]
-
-[^5]: A 16. § (8) bekezdése a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+(8) Az adatkezelő a közreműködő intézmény által az igénylés során feltöltött és továbbított hallgatói adatokat összeveti a felsőoktatási információs rendszerben (a továbbiakban: FIR) szereplő adatokkal. Amennyiben a FIR-ben tárolt adatok eltérnek az igénylésben és a közreműködő intézmény nyilvántartásában szereplő adatoktól, a közreműködő intézmény köteles a 34. §-ban foglaltak szerint eljárni.

@@ -18,6 +18,4 @@ b) az intézmény képviseletére jogosult személy hitelesíti az igénylést �
 
 (7) Az oktatói igazolvány igénylése csak abban az esetben tekinthető érvényesnek, ha a közreműködő intézmény szerepel az adatkezelő által karbantartott intézményi adatbázisban. A közreműködő intézményeket tartalmazó adatbázis módosítása az adatkezelő felé, az adatkezelő által meghatározott módon tett bejelentéssel lehetséges.
 
-(8)[^8]
-
-[^8]: A 30. § (8) bekezdése a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+(8) Az adatkezelő a közreműködő intézmény által az igénylés során feltöltött és továbbított oktatói adatokat összeveti a FIR-ben szereplő adatokkal. Amennyiben a FIR-ben tárolt adatok eltérnek az igénylésben és a közreműködő intézmény nyilvántartásában szereplő adatoktól, a közreműködő intézmény köteles 34. §-ban foglaltak szerint eljárni.
