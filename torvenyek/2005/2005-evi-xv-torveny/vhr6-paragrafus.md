@@ -8,4 +8,4 @@ Vhr. 6. § (1) Amennyiben a Bizottság a Kiosztási Tervet részben vagy egés
 
 (5) A Kormány a Kiosztási Tervet – a Bizottság által történt jóváhagyását követő harminc napon belül – rendeletben hirdeti ki.
 
-[Üht. 6. §] (3) A kormány a Kiosztási Terv alapján – az üzemeltetőkkel külön jogszabály szerint lefolytatott egyeztetés eredményeire figyelemmel – az egyes létesítmények üzemeltetői számára kiosztott kibocsátási egységek mennyiségének meghatározása céljából – kereskedési időszakonként – Nemzeti Kiosztási Listát (a továbbiakban: Kiosztási Lista) állapít meg.
+[Üht. 6. §] (3)

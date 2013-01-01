@@ -12,8 +12,4 @@ b) az adott létesítmény részére a kibocsátási egységek kiosztani terveze
 
 (5) A Kiosztási Listát a Kormány a kereskedési időszak kezdetét megelőző második év december 31-ig rendeletben hirdeti ki. A miniszter egyidejűleg gondoskodik a 2216/2004/EK bizottsági rendelet XIV. mellékletének megfelelő kiosztási terv táblának a Bizottság részére történő megküldéséről.
 
-[Üht. 6. §] (4) Kiosztási Tervet és Kiosztási Listát a kormány első alkalommal a 2005. január 1-jétől 2007. december 31-ig terjedő időszakra állapít meg (első kereskedési időszak).
-
-(5) A kormány a 2008. január 1-jétől 2012. december 31-ig terjedő időszakra (második kereskedési időszak), valamint 2012-től kezdődően ötéves időszakokra állapít meg Kiosztási Tervet és Kiosztási Listát.
-
-(6) A Kiosztási Tervet és a Kiosztási Listát az Európai Bizottság (a továbbiakban: Bizottság) jóváhagyását követően a Kormány rendeletben hirdeti ki.
+[Üht. 6. §] (4)

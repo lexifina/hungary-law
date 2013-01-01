@@ -1,37 +1,5 @@
 2. számú melléklet a 2005. évi XV. törvényhez
 
-A Kiosztási Terv elkészítésének alapelvei
-
-1. Az adott kereskedési időszakra kiosztható kibocsátási egységek teljes mennyiségének összhangban kell lennie:
-
-a) Magyarországnak a Kiotói Jegyzőkönyv szerinti kibocsátáscsökkentési kötelezettségével, figyelembe véve egyfelől azt, hogy a nem e törvény hatálya alá tartozó forrásokból származó kibocsátásokhoz képest a kibocsátási egységek a teljes kibocsátás mekkora hányadát képviselik, másfelől pedig a nemzeti energiapolitikát;
-
-b) a nemzeti éghajlat-változási programmal.
-
-A kiosztható kibocsátási egységek teljes mennyisége nem lehet több, mint amennyi az e mellékletben meghatározott követelmények szigorú alkalmazásához valószínűleg szükséges. E mennyiséget 2008 előtt össze kell hangolni a Kiotói Jegyzőkönyv szerinti célok elérése vagy túlteljesítése érdekében követendő kibocsátáscsökkentési ütemmel.
-
-2. A kiosztható kibocsátási egységek mennyiségének összhangban kell állnia az e törvény hatálya alá eső tevékenységek kibocsátáscsökkentési potenciáljával, beleértve a technológiai potenciált is. A kiosztás alapja meghatározható az egyes tevékenységek termékenkénti átlagos üvegházhatású gáz kibocsátása és az egyes tevékenységekben elérhető eredmények vonatkozásában is.
-
-3. A Kiosztási Tervnek összhangban kell állnia a vonatkozó európai közösségi jogi aktusokkal és szakpolitikai eszközökkel. Az új jogszabályi követelmények következtében felmerülő elkerülhetetlen kibocsátásnövekedést is figyelembe kell venni.
-
-4. Az EUMSZ, különösen annak 106. és 107. cikke értelmében a Kiosztási Terv nem részesíthet indokolatlan előnyben bizonyos vállalkozásokat vagy tevékenységeket.
-
-5. A Kiosztási Tervnek tartalmaznia kell, hogy az új belépők miként kapcsolódhatnak be a kibocsátási egységkereskedelmi rendszerbe.
-
-6. A Kiosztási Terv kedvezményben részesítheti az e törvény hatálybalépése előtt megvalósított önkéntes kibocsátáscsökkentő beruházásokat (korai beruházások) és tájékoztatást kell tartalmaznia arról, hogy a korai beruházásokat hogyan veszi figyelembe. A Kiosztási Terv összeállítása során az elérhető legjobb technológiára vonatkozó referenciadokumentumokból származtatott technológiai referenciaértékek is alkalmazhatók, mely technológiai referenciaértékek előnyben részesíthetik a korai beruházásokat.
-
-7. A Kiosztási Tervnek tartalmaznia kell, hogy miként veszi figyelembe a tiszta technológiákat, beleértve az energiahatékony technológiákat is.
-
-8. A Kiosztási Tervnek tájékoztatást kell adnia a nyilvánosság bevonásának és az észrevételek figyelembevételének módjáról.
-
-9. A Kiosztási Tervnek tartalmaznia kell az e törvény hatálya alá tartozó, kibocsátási engedéllyel rendelkező létesítmények előzetes jegyzékét és az egyes létesítmények számára kiosztani tervezett kibocsátási egységek mennyiségét.
-
-10. A Kiosztási Terv tájékoztatást adhat arról is, hogy miként veszi figyelembe az EGT-megállapodásban részes államokon kívüli országok vagy szervezetek okozta verseny hatásait.
-
-11. A Kiosztási Terv kitér a kiosztás gazdasági vonatkozásaira, különös tekintettel az agroökológiai potenciál megőrzésének és optimális hasznosításának érdekeire.
-
-12. A Kiosztási Terv kitér a kiosztás társadalmi vonatkozásaira, különösen tekintettel a munkaerő-piaci hatásokra.
-
 2. melléklet a 213/2006. (X. 27.) Korm. rendelethez
 
 A kibocsátási engedély iránti kérelem tartalmi követelményei
