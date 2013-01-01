@@ -1,0 +1,9 @@
+# 424/2012. (XII. 29.) Korm. rendelet
+
+a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, az állami foglalkoztatási szerv és a munkaügyi hatóság részére az állami adóhatóság által teljesített adatátadás részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-424-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-01 | 2012-424-20-22.1 | 424/2012. (XII. 29.) Korm. rendelet |

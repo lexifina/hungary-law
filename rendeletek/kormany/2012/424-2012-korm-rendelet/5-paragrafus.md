@@ -1,0 +1,5 @@
+## 4. § Az állami adóhatóság elektronikus úton hivatalból átadja a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv és az egészségbiztosítási szerv részére kisadózó vállalkozásonként – a kisadózó vállalkozás elnevezésének és adószámának megjelölésével – a főállású kisadózó biztosítotti jogállásának és a biztosítás szünetelésének időtartamára, valamint az ellátások alapjára vonatkozó adatot a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (a továbbiakban: Katv.) 7. §-a és 8. § (11) bekezdése szerinti bejelentések adattartalma alapján.
+
+5. § (1) Az állami adóhatóság az 1–3. § szerinti adatszolgáltatási kötelezettségének havonta, az Art. 31. § (2) bekezdése szerinti bevallás benyújtására előírt határidőt követő hónap utolsó napjáig tesz eleget.
+
+(2) Az állami adóhatóság a 4. § szerinti adatszolgáltatási kötelezettségének havonta, a Katv. 7. §-a és 8. § (11) bekezdése szerinti bejelentés benyújtására előírt határidőt követő hónap utolsó napjáig tesz eleget, amennyiben az adatszolgáltatás alapjául szolgáló adatot az állami adóhatósághoz a tárgyhónapban jelentették be.

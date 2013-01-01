@@ -1,0 +1,3 @@
+7. § (1) Az állami adóhatóság 2013. február 28-ig megállapodásokat köt szervenként a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervvel, az egészségbiztosítási szervvel, a rehabilitációs hatósággal, az állami foglalkoztatási szervvel és a munkaügyi hatósággal az adatátadás formájáról, formátumáról, az adatok fogadásáról, az átadásra kerülő adatállományok minőségéről, az adatvizsgálat során alkalmazandó minőségi paraméterek meghatározásáról.
+
+(2) Az érintett felek az (1) bekezdés szerinti megállapodást – a megkötés évének kivételével – minden év május 31-ig kötelesek felülvizsgálni, szükség esetén módosítani.
