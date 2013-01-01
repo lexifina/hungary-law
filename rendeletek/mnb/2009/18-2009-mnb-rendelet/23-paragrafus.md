@@ -2,6 +2,6 @@
 
 (2) A 46. § szerinti kifizetési utalvány, valamint a 47. § (1) bekezdésének b) pontja szerinti készpénzátutalás alkalmazása esetén, amennyiben a teljesítés postai kézbesítés útján történik, a határidő egy munkanappal meghosszabbodik.
 
-(3)[^24]
+(3)[^37]
 
-[^24]: A 23. § (3) bekezdését a 8/2011. (VII. 13.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. § (2) bekezdése.
+[^37]: A 23. § (3) bekezdését a 8/2011. (VII. 13.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. § (2) bekezdése.

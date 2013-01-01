@@ -8,4 +8,6 @@ b) fogyasztónak vagy mikrovállalkozásnak minősülő számlatulajdonos javár
 
 (2) Amennyiben a számlatulajdonos nem fogyasztó vagy mikrovállalkozás, és a készpénzbefizetés a számlavezető pénzforgalmi szolgáltatónál forinton kívüli, a fizetési számla pénznemével megegyező pénznemben történik, a pénzforgalmi szolgáltató az (1) bekezdés szerinti feladatait legkésőbb a pénzösszeg átvételét követő munkanapon teljesíti.
 
-(3) A befizetési funkciót ellátó bankjegykiadó automata útján történő készpénzbefizetés esetén a pénzösszeg fizetési számlán történő jóváírását a befizetés 6. § (2) bekezdésének cb) alpontja szerinti befogadásának napján, azonos értéknappal végzi el a pénzforgalmi szolgáltató.
+(3)[^36] Automata bankjegykiadó gép útján történő készpénzbefizetés esetén a pénzösszegnek a kedvezményezett fizetési számláján történő jóváírását a befizetés összegszerűségének a befizetést követő három munkanapon belül történő ellenőrzése munkanapján, a jóváírás munkanapjával azonos értéknappal végzi el a pénzforgalmi szolgáltató.
+
+[^36]: A 22. § (3) bekezdése a 12/2012. (VI. 12.) MNB rendelet 12. §-ával megállapított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2013. január 1-jét követően átvett fizetési megbízásokra kell alkalmazni.

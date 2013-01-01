@@ -18,11 +18,11 @@ a) a teljesítés felső értékhatárát,
 
 b) a benyújtási gyakoriságot,
 
-c) fedezethiány esetén a sorbaállítás időtartamát,
+c)[^43] fedezethiány esetére a sorba állítás időtartamát, a részfizetés lehetőségét és annak legkisebb összegét,
 
 d) a visszavonás módját.
 
-(4) A felhatalmazó levélen alapuló beszedési megbízást a pénzforgalmi szolgáltató – a felhatalmazó levél eltérő rendelkezése hiányában – addig fogadja be, illetve teljesíti, ameddig az erre vonatkozó felhatalmazást a fizető fél írásban vissza nem vonja.
+(4)[^44] A felhatalmazó levélen alapuló beszedési megbízást a pénzforgalmi szolgáltató – a felhatalmazó levél eltérő rendelkezése hiányában – addig veszi át, illetve teljesíti, ameddig az erre vonatkozó felhatalmazást a fizető fél írásban vissza nem vonja.
 
 (5) Ha a fizető fél a Pft. 17. § (1) bekezdése alapján, vagy a fizető fél pénzforgalmi szolgáltatója a Pft. 17. § (4) bekezdése szerint felmondja a keretszerződést, a fizető fél pénzforgalmi szolgáltatója – a (4) bekezdésben foglaltaktól eltérően – a felhatalmazó levél alapján legkésőbb a keretszerződés megszűnésének napján teljesít felhatalmazó levélen alapuló beszedési megbízást.
 
@@ -31,3 +31,6 @@ d) a visszavonás módját.
 (7) A fizető fél pénzforgalmi szolgáltatója haladéktalanul értesíti a kedvezményezettet a keretszerződés (5)–(6) bekezdés szerinti felmondásáról, ha a kedvezményezett írásbeli hozzájárulása szükséges a felhatalmazás visszavonásához.
 
 (8) A felhatalmazó levél szövegét a 3. melléklet 4. mintája tartalmazza.
+
+[^43]: A 34. § (3) bekezdés c) pontja a 12/2012. (VI. 12.) MNB rendelet 15. §-ával megállapított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2013. január 1-jét követően átvett fizetési megbízásokra kell alkalmazni.
+[^44]: A 34. § (4) bekezdése a 12/2012. (VI. 12.) MNB rendelet 18. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2013. január 1-jét követően átvett fizetési megbízásokra kell alkalmazni.

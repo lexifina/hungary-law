@@ -2,7 +2,7 @@
 
 ## AZ EGYES FIZETÉSI MÓDOK RÉSZLETES SZABÁLYAI
 
-## 25. §[^25] A Pft. szerinti fizetési módokon belüli altípusok:
+## 25. §[^38] A Pft. szerinti fizetési módokon belüli altípusok:
 
 a) fizetési számlák közötti fizetési módok különösen:
 
@@ -26,4 +26,4 @@ c) fizetési számla nélküli fizetési mód különösen:
 
 ca) a készpénzátutalás.
 
-[^25]: A 25. § a 12/2012. (VI. 12.) MNB rendelet 13. §-ával megállapított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.
+[^38]: A 25. § a 12/2012. (VI. 12.) MNB rendelet 13. §-ával megállapított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.

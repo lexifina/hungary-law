@@ -1,5 +1,5 @@
-## 52. §[^33]
+## 52. §[^53]
 
 ## Módosuló rendelkezések
 
-[^33]: Az 52. § a (4) bekezdés alapján hatályát vesztette.
+[^53]: Az 52. § a (4) bekezdés alapján hatályát vesztette.

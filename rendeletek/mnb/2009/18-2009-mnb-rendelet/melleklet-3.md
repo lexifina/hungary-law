@@ -16,7 +16,7 @@
 
 ## 2. A forintra kerekített átutalandó összeget csak számmal kell feltüntetni.
 
-## 3. A „Terhelési nap” rovatába csak akkor kell adatot (év, hó, nap) írni, ha a fizető fél fizetési számláját – az 5. § (1) bekezdésben foglaltak szerint – a számlavezető pénzforgalmi szolgáltatónak nem a tárgynapon, hanem a fizetési megbízás befogadásának napját követő valamely munkanapon kell megterhelni.
+## 3.[^55] A „Terhelési nap” rovatába csak akkor kell adatot (év, hó, nap) írni, ha a fizető fél fizetési számláját – az 5. § (1) bekezdésben foglaltak szerint – a számlavezető pénzforgalmi szolgáltatónak nem a tárgynapon, hanem a fizetési megbízás átvételének napját követő valamely munkanapon kell megterhelni.
 
 ## 4. A pénzforgalmi nyomtatvány „Bizonylatszám” rovatában legfeljebb hat számjeggyel lehet a fizetési megbízást sorszámmal ellátni.
 
@@ -80,7 +80,7 @@
 
 ## 6. A PFNY 31, csoportos beszedési megbízás teljesítésére szóló felhatalmazás (3. melléklet 5. minta) pénzforgalmi nyomtatvány mind három példányos (fizető fél pénzforgalmi szolgáltatója, kedvezményezett, fizető fél példánya), mind két példányos (fizető fél pénzforgalmi szolgáltatója és fizető fél példánya) formában alkalmazható.
 
-3. melléklet a 18/2009. (VIII. 6.) MNB rendelethez
+3. melléklet a 18/2009. (VIII. 6.) MNB rendelethez[^56]
 
 A pénzforgalmi nyomtatványok technikai jellemzői
 
@@ -226,7 +226,7 @@ Megbízom/megbízzuk Önöket az alább megjelölt fizetési számlánk terhére
 
 | Kedvezményezett fizetési számlájának pénzforgalmi jelzőszáma: |  |
 
-A felhatalmazás időtartama:….. év, ………………. hó ….. naptól ….. év, ……………. hó ….. napig[^*]
+A felhatalmazás időtartama:….. év, ………………. hó ….. naptól ….. év, ……………. hó ….. napig*
 
 visszavonásig*
 
@@ -234,7 +234,7 @@ a) a beszedési megbízáshoz okiratot nem kell csatolni*
 
 b) a beszedési megbízáshoz a következő okirato(ka)t kell csatolni*:
 
-az okirat(ok) megnevezése ……………………………………….
+az okirat(ok) megnevezése ………
 
 További feltételek*: a) nem kerülnek meghatározásra
 
@@ -248,13 +248,25 @@ c) benyújtási gyakoriság: ………………. (pl. napi, havi, évi)
 
 d) fedezethiány esetén a sorba állítás időtartama legfeljebb ..............nap
 
-e)felhatalmazás csak a Kedvezményezett írásbeli hozzájárulásával vonható vissza
+e) fedezethiány esetén részfizetés teljesíthető, a részfizetés minimális összege
+
+a teljesítés pénznemétől függően:
+
+……… Ft
+
+……… devizanem ISO kódja*
+
+f) felhatalmazás csak a Kedvezményezett írásbeli hozzájárulásával vonható vissza
 
 Kelt, ………………………, …… év, ………………. hó ….. nap
 
-……………………………………..
+……………………………..
 
 Fizető fél számlatulajdonos
+
+__________________
+
+* nem kívánt rész törlendő
 
 5. számú minta
 
@@ -372,4 +384,5 @@ hátoldal:
 
 Csatolva …… db okmány.
 
-[^*]: nem kívánt rész törlendő
+[^55]: A 2. melléklet II. pont 3. alpontja a 12/2012. (VI. 12.) MNB rendelet 18. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2013. január 1-jét követően átvett fizetési megbízásokra kell alkalmazni.
+[^56]: A 3. melléklet a 12/2012. (VI. 12.) MNB rendelet 17. §-a szerint módosított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2013. január 1-jét követően átvett fizetési megbízásokra kell alkalmazni.
