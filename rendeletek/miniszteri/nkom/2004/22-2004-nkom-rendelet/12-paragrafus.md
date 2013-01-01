@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja az itt található középső bronzkori földvár és a hozzá tartozó település védelme, a föld felszíne alatti régészeti emlékek megőrzése és a lelőhely kutathatóságának biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez.
+(3)[^13]
 
 (4) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (5) A Magyar Államot az (1) bekezdésben megjelölt 015/22, 016/1, 016/2, 016/3, 401 helyrajzi számú ingatlanokra elővásárlási jog illeti meg.
+
+[^13]: A 12. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 4. § l) pontja hatályon kívül helyezte.

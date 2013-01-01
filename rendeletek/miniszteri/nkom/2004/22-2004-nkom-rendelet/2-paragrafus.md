@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja a Fajsz, Garadomb lelőhelyen található rézkori és középső újkőkori település, valamint avar kori temető, illetve Fajsz, Kovács-halom néven ismert középső újkőkori több periódusú település megóvása, a föld felszíne alatti régészeti emlékek megőrzése és a lelőhely kutathatóságának biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez.
+(3)[^2]
 
 (4) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a védett régészeti lelőhelyet az I. kategóriába sorolom.
 
 (5) A Magyar Államot az (1) bekezdésben megjelölt ingatlanokra elővásárlási jog illeti meg.
+
+[^2]: A 2. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 4. § b) pontja hatályon kívül helyezte.

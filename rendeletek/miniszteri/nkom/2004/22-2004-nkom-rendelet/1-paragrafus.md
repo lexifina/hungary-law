@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja a római kori katonai tábor és a hozzá tartozó település, valamint a védett területen található őskori település, római és avar kori temetők, középkori falu és török kori erődítmény védelme, a föld felszíne alatti régészeti emlékek megőrzése és az Európa-hírű lelőhely kutathatóságának biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^1]
 
 (4) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a védett régészeti lelőhelyet az I. kategóriába sorolom.
 
 (5) A Magyar Államot az (1) bekezdésben megjelölt 904, 905, 906, 907, 908, 909, 910, 911, 912/3, 912/4, 3504, 3505, 3506, 3507, 3508, 3509, 3510, 3518/2, 3519/1, 3520, 3521/1, 3521/2, 3523/1, 3523/2, 3523/3 helyrajzi számú ingatlanokra elővásárlási jog illeti meg.
+
+[^1]: Az 1. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 4. § a) pontja hatályon kívül helyezte.

@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja a Jakab-hegyi késő bronzkori és kora vaskori földvár, kora vaskori halomsírok, valamint az 1225-ben alapított, jelenlegi formájában 14–15. századi pálos kolostor védelme, a kiemelkedő tudományos jelentőségű emlékek fokozott megóvása, valamint a lelőhely kutathatóságának biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, valamint tereprendezéshez.
+(3)[^3]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
+
+[^3]: A 3. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 4. § c) pontja hatályon kívül helyezte.

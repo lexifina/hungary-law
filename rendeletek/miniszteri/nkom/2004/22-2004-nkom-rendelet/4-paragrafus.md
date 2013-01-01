@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben megjelölt területen a védelem célja a Sárospatak, Várnegyed területén a föld felszíne alatt lévő – a sárospataki várhoz kapcsolódó – középkori és kora újkori régészeti emlékek megőrzése.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^4]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
+
+[^4]: A 4. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 4. § d) pontja hatályon kívül helyezte.
