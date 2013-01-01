@@ -1,8 +1,8 @@
-## 21/A. §[^9] Az 1/95 EK–Törökország társulási tanácsi határozat részletes alkalmazási szabályainak megállapításáról szóló, 2006. szeptember 26-i 1/2006 EK–Törökország vámügyi együttműködési bizottsági határozat 11. cikke szerinti elfogadott exportőri engedély kiadására és visszavonására a fent írtak értelemszerűen alkalmazandók.
+## 21/A. §[^10] Az 1/95 EK–Törökország társulási tanácsi határozat részletes alkalmazási szabályainak megállapításáról szóló, 2006. szeptember 26-i 1/2006 EK–Törökország vámügyi együttműködési bizottsági határozat 11. cikke szerinti elfogadott exportőri engedély kiadására és visszavonására a fent írtak értelemszerűen alkalmazandók.
 
 ## Könyvelés szerinti elkülönítés
 
-22. § (1)[^10] A külön jogszabályban foglaltak, valamint jelen rendelkezések betartásával a könyvelés szerinti elkülönítésre vonatkozó engedélyt a vámhatóság adja ki. Amennyiben a gyártó több telephellyel rendelkezik, a telephely(ek) szerint illetékes vámszervvel az engedélyt a vámszerv a határozat egy példányának megküldésével közli.
+22. § (1)[^11] A külön jogszabályban foglaltak, valamint jelen rendelkezések betartásával a könyvelés szerinti elkülönítésre vonatkozó engedélyt a vámhatóság adja ki. Amennyiben a gyártó több telephellyel rendelkezik, a telephely(ek) szerint illetékes vámszervvel az engedélyt a vámszerv a határozat egy példányának megküldésével közli.
 
 (2) Az engedély akkor adható ki, ha
 
@@ -50,7 +50,7 @@ a) vállalni, hogy csak azon termékekre ad ki számlanyilatkozatot, illetve ké
 
 b) teljes felelősséget vállalni az engedély felhasználásának módjáért, valamint a téves származási nyilatkozatokból eredő következményekért, illetve az engedély helytelen alkalmazásáért,
 
-c)[^11] eljuttatni az engedélyt kiadó vámszervhez minden könyvviteli időszak végén az adott időszakra vonatkozó analitikus nyilvántartását,
+c)[^12] eljuttatni az engedélyt kiadó vámszervhez minden könyvviteli időszak végén az adott időszakra vonatkozó analitikus nyilvántartását,
 
 d) a vámhatóság kérésére lehetővé tenni a hozzáférést – az elévülési időn belül bármely időszakra vonatkozóan – minden okmányhoz, nyilvántartáshoz, könyveléshez,
 
@@ -62,6 +62,6 @@ f) vállalni, hogy amennyiben a termékek a kedvezményes származás igazolása
 
 (7) A vámhatóság az engedélyt visszavonja, ha az engedélyes az előírt feltételeket nem teljesíti. Ez esetben az összes helytelenül kiadott származási okmányt vagy más, a származás igazolására szolgáló okmányt érvényteleníteni kell.
 
-[^9]: A 21/A. §-t a 17/2011. (IV. 19.) NGM rendelet 59. §-a iktatta be.
-[^10]: A 22. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 60. §-ával megállapított szöveg.
-[^11]: A 22. § (5) bekezdés c) pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 21/A. §-t a 17/2011. (IV. 19.) NGM rendelet 59. §-a iktatta be.
+[^11]: A 22. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 60. §-ával megállapított szöveg.
+[^12]: A 22. § (5) bekezdés c) pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (2) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-3. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^176]
+3. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^179]
 
-[^176]: A 3. számú melléklet a 17/2011. (IV. 19.) NGM rendelet 79. § (1) bekezdésével megállapított szöveg.
+[^179]: A 3. számú melléklet a 17/2011. (IV. 19.) NGM rendelet 79. § (1) bekezdésével megállapított szöveg.

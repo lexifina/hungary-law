@@ -1,4 +1,4 @@
-13. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^198]
+13. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^201]
 
 Díjjegyzék
 
@@ -352,4 +352,4 @@ vizsgálatok térítési díjairól
 
 | 172. | Olajmagvak olajtartalmának meghatározása | 8 700 Ft |
 
-[^198]: A 13. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 79. § (2) bekezdése iktatta be.
+[^201]: A 13. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 79. § (2) bekezdése iktatta be.

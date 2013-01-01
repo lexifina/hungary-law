@@ -26,6 +26,6 @@
 
 ## A kezes példánya
 
-2. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^175]
+2. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^178]
 
-[^175]: A 2. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 80. §-a hatályon kívül helyezte.
+[^178]: A 2. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 80. §-a hatályon kívül helyezte.
