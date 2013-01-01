@@ -23,3 +23,7 @@ f) döntés mindazokban az ügyekben, amelyeket az alapszabály a legfőbb szerv
 (6) Az egyesület szervei határozatképesek, ha tagjainak több mint a fele jelen van, az alapszabály ennél magasabb jelenléti arányt is megállapíthat. Az egyesület szervei határozataikat a jelenlévők szótöbbségével hozzák mindazon kérdésben, amely tekintetében az alapszabály a szótöbbség magasabb arányát nem írja elő.
 
 (7) Ha az egyesület szerveinek ülése nem határozatképes, megismételt ülést kell tartani. A megismételt ülés a határozatképtelen ülést követő későbbi időpontra az eredetivel azonos napirenddel hívható össze. A megismételt ülés a legfőbb szerv esetében a megjelent tagok számától függetlenül, egyéb egyesületi szerv esetén pedig a (6) bekezdésben foglalt rendelkezés szerint határozatképes.
+
+## Egyesületek
+
+Ptké.19/A. § A legfőbb szerv megismételt ülésének határozatképességére vonatkozó rendelkezés a megismételt taggyűlés esetében akkor is irányadó, ha az egyesület legfőbb szervének egyébként nem a taggyűlést, hanem az általa legfőbb szervként választott testületet kell tekinteni.

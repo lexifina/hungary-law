@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1959-4-00-00
 | 2012-06-13 | 2012. évi LXV. törvény | 1959-4-00-00.100 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1959-4-00-00.101 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 1959-4-00-00.102 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 1959-4-00-00.103 |

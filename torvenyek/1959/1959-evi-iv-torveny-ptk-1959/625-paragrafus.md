@@ -4,7 +4,7 @@ Ptk.625. § (1) Közvégrendeletet közjegyző vagy bíróság előtt lehet te
 
 ## Közvégrendelet tétele bíróságnál
 
-Ptké.71. § Közvégrendeletet helyi bíróság előtt lehet tenni.
+Ptké.71. § Közvégrendeletet járásbíróság előtt lehet tenni.
 
 Ptk.625. § (2) Nem lehet érvényesen közvégrendeletet tenni olyan személy előtt, aki a végrendelkezőnek vagy a végrendelkező házastársának, bejegyzett élettársának hozzátartozója, gyámja vagy gondnoka.
 
