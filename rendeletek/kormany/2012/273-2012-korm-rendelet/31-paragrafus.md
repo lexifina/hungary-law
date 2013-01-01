@@ -1,3 +1,3 @@
-31. §[^12]
+31. §[^20]
 
-[^12]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
