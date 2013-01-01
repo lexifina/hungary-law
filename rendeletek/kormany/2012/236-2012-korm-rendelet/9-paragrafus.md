@@ -1,6 +1,5 @@
-9. § (1)[^16]
+9. § (1)[^12]
 
-(2)[^17]
+(2) A Cstr. 4/B. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^16]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 9. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^12]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

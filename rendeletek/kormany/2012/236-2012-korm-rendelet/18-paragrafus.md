@@ -1,12 +1,17 @@
-## 17. §[^28]
+## 17. §[^19]
 
-18. § (1)[^29]
+18. § (1)[^20]
 
-(2)[^30]
+(2) Hatályát veszti a Cstr.
 
-(3)[^31]
+a) 22. § (2) bekezdése,
 
-[^28]: A 17. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^29]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 18. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^31]: A 18. § (3) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+b) 24. § (4) bekezdés d) pontjában a „gyámhatósági” szövegrész,
+
+c) 7. számú melléklete.
+
+(3)[^21]
+
+[^19]: A 17. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^20]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 18. § (3) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
