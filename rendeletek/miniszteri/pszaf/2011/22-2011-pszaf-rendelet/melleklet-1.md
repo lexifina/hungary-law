@@ -1,1 +1,1727 @@
-1. melléklet a 22/2011. (X. 20.) PSZÁF rendelethez
+1. melléklet a 22/2011. (X. 20.) PSZÁF rendelethez[^7]
+
+| ÖSSZEFOGLALÓ TÁBLA |
+
+| Sorszám | Táblakód | Tábla neve | Adatszolgáltatásra kötelezettek | Vonatkozási idő | Beküldési gyakoriság | Beküldési határidő (munkanapok száma a vonatkozási időhöz viszonyítva, illetve dátum) |
+
+| a | b | c | d |
+
+|  | Előkészített napi jelentés |  |  |  |  |
+
+| 001 | 83NA | Pénzforgalmi intézmény - ÜGYFÉLPÉNZEK KEZELÉSE | PI | MN | PEE | 3 |
+
+| 002 | 83ENA | Elektronikuspénz-kibocsátó intézmény - ÜGYFÉLPÉNZEK KEZELÉSE | E | MN | PEE | 3 |
+
+| 003 | 83PNA | Posta Elszámoló Központot működtető intézmény (PEKMI) -ÜGYFÉLPÉNZEK KEZELÉSE | PEKMI | MN | PEE | 3 |
+
+| 004 | 83NB | ELKÜLÖNÍTETT LETÉTI SZÁMLÁN VAGY ALACSONY KOCKÁZATI SÚLYÚ ESZKÖZBEN ELHELYEZETT ÜGYFÉLPÉNZEK KEZELÉSE | E, PI, PEKMI | MN | PEE | 3 |
+
+|  | Napi jelentés |  |  |  |  |
+
+| 005 | 83NA | Pénzforgalmi intézmény - ÜGYFÉLPÉNZEK KEZELÉSE | PI | UMN | H | 5 |
+
+| 006 | 83ENA | Elektronikuspénz-kibocsátó intézmény - ÜGYFÉLPÉNZEK KEZELÉSE | E | UMN | H | 5 |
+
+| 007 | 83PNA | Posta Elszámoló Központot működtető intézmény (PEKMI) -ÜGYFÉLPÉNZEK KEZELÉSE | PEKMI | UMN | H | 5 |
+
+| 008 | 83NB | ELKÜLÖNÍTETT LETÉTI SZÁMLÁN VAGY ALACSONY KOCKÁZATI SÚLYÚ ESZKÖZBEN ELHELYEZETT ÜGYFÉLPÉNZEK KEZELÉSE | E, PI, PEKMI | UMN | H | 5 |
+
+|  | Negyedéves jelentés |  |  |  |  |
+
+| 009 | 81A | MÉRLEG – ESZKÖZÖK | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 010 | 81B | MÉRLEG – FORRÁSOK | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 011 | 81C | MÉRLEGEN KÍVÜLI KÖVETELÉSEK ÉS KÖTELEZETTSÉGEK | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 012 | 82A | EREDMÉNYKIMUTATÁS | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 013 | 84A | SZAVATOLÓ TŐKE SZÁMÍTÁSA | E, PI | NÉ | NÉ | 20 |
+
+| 014 | 84B | TŐKEKÖVETELMÉNY SZÁMÍTÁSA ÉS TELJESÍTÉS | E, PI | NÉ | NÉ | 20 |
+
+| 015 | 85A | MINŐSÍTETT KÖVETELÉSÁLLOMÁNY ALAKULÁSA | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 016 | 86A | PÉNZMOSÁSSAL ÉS TERRORIZMUS FINANSZÍROZÁSÁVAL KAPCSOLATOS ADATOK | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 017 | 86BA | Fogyasztói panaszügyekre vonatkozó adatok I. | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 018 | 86BB | Fogyasztói panaszügyekre vonatkozó adatok II. | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 019 | 87A | RENDSZERES NEGYEDÉVES BESZÁMOLÓ | E, PI, F, PEKMI | NÉ | NÉ | 20 |
+
+| 020 | PIVDN | FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA | E, PI | NÉ | NÉ | 20 |
+
+| 021 | PIFVDN | Fióktelep - FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA | F | NÉ | NÉ | 20 |
+
+|  | Éves auditált jelentés |  |  |  |  |
+
+| 022 | 81A | MÉRLEG – ESZKÖZÖK | E, PI, F, PEKMI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+| 023 | 81B | MÉRLEG – FORRÁSOK | E, PI, F, PEKMI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+| 024 | 81C | MÉRLEGEN KÍVÜLI KÖVETELÉSEK ÉS KÖTELEZETTSÉGEK | E, PI, F, PEKMI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+| 025 | 82A | EREDMÉNYKIMUTATÁS | E, PI, F, PEKMI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+| 026 | 84A | SZAVATOLÓ TŐKE SZÁMÍTÁSA | E, PI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+| 027 | 84B | TŐKEKÖVETELMÉNY SZÁMÍTÁSA ÉS TELJESÍTÉS | E, PI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+| 028 | 85A | MINŐSÍTETT KÖVETELÉSÁLLOMÁNY ALAKULÁSA | E, PI, F, PEKMI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+| 029 | 87A | RENDSZERES NEGYEDÉVES BESZÁMOLÓ | E, PI, F, PEKMI | ÉA | É | előző éves beszámoló elfogadását követő 15. munkanap, legkésőbb május 31. |
+
+|  | Éves jelentés |  |  |  |  |  |
+
+| 030 | PIAD | FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA | E, PI, F | É | É | tárgyév január 31. |
+
+|  | Törzsadat jelentés (évente egyszer) |  |  |  |  |  |
+
+| 031 | KTAPI1 | INTÉZMÉNYI ALAPADATOK | E, PI, F, PEKMI | J | É | 20 |
+
+| 032 | KTAPI2 | BEJELENTÉS- ÉS ENGEDÉLYKÖTELES TISZTSÉGVISELŐK | E, PI, F, PEKMI | J | É | 20 |
+
+| 033 | KTAPI3 | TULAJDONOS ADATAI | E, PI, F, PEKMI | J | É | 20 |
+
+| 034 | KTAPI4 | MINŐSÍTETT BEFOLYÁS | E, PI, F, PEKMI | J | É | 20 |
+
+| 035 | KTAPI5 | KÖNYVVIZSGÁLÓ ADATAI | E, PI, F, PEKMI | J | É | 20 |
+
+| 036 | KTAPI6 | KISZERVEZÉS ADATOK | E, PI, F, PEKMI | J | É | 20 |
+
+|  | Törzsadat jelentés (eseti) |  |  |  |  |
+
+| 037 | KTAPI1 | INTÉZMÉNYI ALAPADATOK | E, PI, F, PEKMI | VN | V | 15 |
+
+| 038 | KTAPI2 | BEJELENTÉS- ÉS ENGEDÉLYKÖTELES TISZTSÉGVISELŐK | E, PI, F, PEKMI | VN | V | 15 |
+
+| 039 | KTAPI3 | TULAJDONOS ADATAI | E, PI, F, PEKMI | VN | V | 15 |
+
+| 040 | KTAPI4 | MINŐSÍTETT BEFOLYÁS | E, PI, F, PEKMI | VN | V | 15 |
+
+| 041 | KTAPI5 | KÖNYVVIZSGÁLÓ ADATAI | E, PI, F, PEKMI | VN | V | 15 |
+
+| 042 | KTAPI6 | KISZERVEZÉS ADATOK | E, PI, F, PEKMI | VN | V | 15 |
+
+|  | Rövid név | Felügyeleti jelentéssel együtt kötelezően beküldendő mellékletek megnevezése | Adatszolgáltatásra kötelezettek | Vonatkozási idő | Beküldési gyakoriság | Beküldési határidő |
+
+| 043 | szovjel | Rendszeres negyedéves beszámoló | E, PI, F, PEKMI | NÉ | NÉ, É | Negyedéves és Éves auditált jelentéssel egyidejűleg |
+
+| 044 | merleg | Éves beszámoló – mérleg | E, PI, F, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| 045 | erkim | Éves beszámoló – eredménykimutatás | E, PI, F, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| 046 | cashflow | Éves beszámoló – cash-flow | E, PI, F, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| 047 | kiegmell | Éves beszámoló – kiegészítő melléklet | E, PI, F, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| 048 | konyvzar | Könyvvizsgálói záradék vagy jelentés | E, PI, F, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| 049 | kozgyhat | Közgyűlési határozat vagy jegyzőkönyv | E, PI, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| 050 | erfeloszt | Adózott eredmény felhasználására vonatkozó határozat | E, PI, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| 051 | uzljel | Üzleti jelentés | E, PI, F, PEKMI | ÉA | É | Éves auditált jelentéssel egyidejűleg |
+
+| Az összefoglaló táblában előforduló rövidítések |
+
+| Adatszolgáltatásra kötelezettek | Elektronikuspénz-kibocsátó intézmény | E |
+
+| Pénzforgalmi intézmény | PI |
+
+| Postai Elszámoló Központot működtető intézmény | PEKMI |
+
+| Fióktelep | F |
+
+| Vonatkozási idő | Munkanap | MN |
+
+| Hónap utolsó munkanapja | UMN |
+
+| Negyedév vége | NÉ |
+
+| Év vége (auditált) | ÉA |
+
+| Június 30-ra vonatkozó | J |
+
+| Változás napja | VN |
+
+| Beküldési gyakoriság | Havi | H |
+
+| Negyedéves | NÉ |
+
+| Éves | É |
+
+| PSZÁF egyedi elrendelése szerint | PEE |
+
+| Változás esetén | V |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+81A
+
+MÉRLEG – ESZKÖZÖK
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Elektronikuspénz kibocsátási tevékenységből és kapcsolódó pénzügyi szolgáltatásból | Pénzforgalmi szolgáltatásból és kapcsolódó pénzügyi szolgáltatásból | Egyéb üzleti tevékenységből | Összesen | Mód. |
+
+| Forint | Deviza | Összesen | Forint | Deviza | Összesen | Forint | Deviza | Összesen | Forint | Deviza | Összesen |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+
+| a | b | c | d | e | f | g | h | i | j | k | l | z |
+
+| 001 | 81A0 | ESZKÖZÖK ÖSSZESEN |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 81A1 | Befektetett eszközök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 81A11 | Immateriális javak |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 81A111 | Immateriális javak - vagyoni jogok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 81A112 | Immateriális javak - szoftverek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 81A113 | Immateriális javak - egyéb |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 81A114 | Immateriális javak értékhelyesbítése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 81A117 | Immateriális javak értékcsökkenése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 81A12 | Tárgyi eszközök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 81A121 | Ingatlanok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 81A122 | Műszaki berendezések, gépek, járművek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 81A123 | Egyéb berendezések, felszerelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 81A125 | Beruházások, felújítások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 81A127 | Tárgyi eszközök értékcsökkenése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 81A128 | Tárgyi eszközök értékhelyesbítése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 81A13 | Befektetett pénzügyi eszközök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 81A131 | Tulajdoni részesedést jelentő befektetések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 81A1311 | Tartós részesedés kapcsolt vállalkozásban |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 81A1312 | Egyéb tartós részesedés |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 81A1313 | Részesedések értékvesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 81A1314 | Részesedések értékhelyesbítése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 81A132 | Befektetési célú (tartós) hitelviszonyt megtestesítő értékpapír |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 81A1321 | Államkötvények |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 81A1322 | Jegybanki kötvény |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 81A1323 | Egyéb belföldi kötvény |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 81A13231 | ebből: kapcsolt vállalkozások értékpapírja |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 81A1324 | Külföldi kötvény |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 81A1325 | Értékpapírok értékvesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 81A1326 | Értékpapírok értékelési különbözete |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 81A133 | Tartósan adott kölcsönök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 031 | 81A1331 | Tartósan adott kölcsön kapcsolt vállalkozásban |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 032 | 81A1332 | Tartósan adott kölcsön egyéb részesedési viszonyban álló vállalkozásban |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 033 | 81A1333 | Egyéb tartósan adott kölcsön |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 034 | 81A1334 | Tartósan adott kölcsönök értékvesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 035 | 81A2 | Forgóeszközök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 036 | 81A21 | Készletek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 037 | 81A211 | Anyagok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 038 | 81A212 | Befejezetlen termelés és félkész termékek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 039 | 81A214 | Késztermékek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 040 | 81A215 | Áruk |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 041 | 81A217 | Készletek értékvesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 042 | 81A22 | Követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 043 | 81A221 | Követelések áruszállításból és szolgáltatásból (vevők) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 044 | 81A222 | Követelések kapcsolt vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 045 | 81A223 | Követelések egyéb részesedési viszonyban lévő vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 046 | 81A224 | Váltókövetelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 047 | 81A225 | Egyéb követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 048 | 81A2251 | Rövid lejáratú kölcsönök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 049 | 81A2253 | Részesedésekkel, értékpapírokkal kapcsolatos követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 050 | 81A2254 | Határidős és opciós ügyletekből származó követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 051 | 81A2255 | Ügyfelekkel szemben pénzforgalmi- és kapcsolódó pénzügyi szolgáltatásból adódóan keletkezett követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 052 | 81A2256 | Egyéb rövid lejáratú követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 053 | 81A226 | Követelések értékvesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 054 | 81A227 | Követelések értékelési különbözete |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 055 | 81A228 | Származékos ügyletek pozitív értékelési különbözete |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 056 | 81A23 | Értékpapírok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 057 | 81A231 | Részesedés kapcsolt vállalkozásban |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 058 | 81A232 | Egyéb részesedés |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 059 | 81A233 | Saját részvények, saját üzletrészek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 060 | 81A234 | Forgatási célú hitelviszonyt megtestesítő értékpapírok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 061 | 81A2341 | Diszkont kincstárjegy |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 062 | 81A2342 | Államkötvények |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 063 | 81A2343 | Jegybanki kötvény |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 064 | 81A2344 | Belföldi hitelintézetek kötvénye |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 065 | 81A2345 | Egyéb belföldi kötvények |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 066 | 81A23451 | ebből: kapcsolt vállalkozások értékpapírja |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 067 | 81A2346 | Külföldi kötvény |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 068 | 81A235 | Értékpapírok értékvesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 069 | 81A236 | Értékpapírok értékelési különbözete |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 070 | 81A24 | Pénzeszközök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 071 | 81A241 | Pénztár, elektronikus pénzeszköz, csekkek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 072 | 81A242 | Pénzforgalmi számlák |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 073 | 81A243 | Bankbetétek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 074 | 81A244 | Letéti számlán elhelyezett ügyfélpénz |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 075 | 81A245 | Bankbetétek, pénzforgalmi számlák értékvesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 076 | 81A3 | Aktív időbeli elhatárolások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 077 | 81A31 | Bevételek aktív időbeli elhatárolása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 078 | 81A32 | Költségek, ráfordítások aktív időbeli elhatárolása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 079 | 81A33 | Halasztott ráfordítások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+81B
+
+MÉRLEG – ESZKÖZÖK
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Elektronikuspénz kibocsátási tevékenységből és kapcsolódó pénzügyi szolgáltatásból | Pénzforgalmi szolgáltatásból és kapcsolódó pénzügyi szolgáltatásból | Egyéb üzleti tevékenységből | Összesen | Mód. |
+
+| Forint | Deviza | Összesen | Forint | Deviza | Összesen | Forint | Deviza | Összesen | Forint | Deviza | Összesen |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+
+| a | b | c | d | e | f | g | h | i | j | k | l | z |
+
+| 001 | 81B0 | FORRÁSOK ÖSSZESEN |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 81B1 | Saját tőke |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 81B11 | Jegyzett tőke |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 81B111 | ebből: visszavásárolt tulajdoni részesedés névértéken |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 81B12 | Jegyzett, de még be nem fizetett tőke (-) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 81B13 | Tőketartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 81B14 | Eredménytartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 81B15 | Lekötött tartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 81B16 | Értékelési tartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 81B161 | Értékhelyesbítés értékelési tartaléka |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 81B162 | Valós értékelés értékelési tartaléka |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 81B17 | Mérleg szerinti eredmény |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 81B2 | Céltartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 81B21 | Céltartalék a függő (várható) kötelezettségekre |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 81B22 | Céltartalék a biztos (jövőbeni) kötelezettségekre |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 81B23 | Egyéb céltartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 81B3 | Kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 81B31 | Hátrasorolt kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 81B311 | Hátrasorolt kötelezettségek kapcsolt vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 81B312 | Hátrasorolt kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 81B313 | Hátrasorolt kötelezettségek egyéb gazdálkodóval szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 81B32 | Hosszú lejáratú kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 81B321 | Hosszú lejáratra kapott kölcsönök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 81B322 | Átváltoztatható kötvények |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 81B323 | Tartozások kötvénykibocsátásból |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 81B324 | Beruházási és fejlesztési hitelek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 81B325 | Egyéb hosszú lejáratú hitelek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 81B326 | Tartós kötelezettségek kapcsolt vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 81B327 | Tartós kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 81B328 | Egyéb hosszú lejáratú kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 031 | 81B33 | Rövid lejáratú kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 032 | 81B331 | Kibocsátott elektronikuspénz |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 033 | 81B332 | Rövid lejáratú kölcsönök |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 034 | 81B3321 | ebből: átváltoztatható kötvények |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 035 | 81B333 | Rövid lejáratú hitelek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 036 | 81B334 | Vevőktől kapott előlegek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 037 | 81B335 | Kötelezettségek áruszállításból és szolgáltatásból (szállítók) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 038 | 81B336 | Váltótartozások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 039 | 81B337 | Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 040 | 81B338 | Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 041 | 81B339 | Egyéb rövid lejáratú kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 042 | 81B3391 | Részesedésekkel, értékpapírokkal kapcsolatos kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 043 | 81B3392 | Határidős és opciós ügyletekből származó kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 044 | 81B3393 | Ügyfelekkel szemben pénzforgalmi- és kapcsolódó pénzügyi szolgáltatásból adódóan keletkezett kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 045 | 81B33931 | 81B3393 sorból: A fizetési számla kapcsán az ügyféllel szemben fennálló tartozás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 046 | 81B3394 | Különféle egyéb rövid lejáratú kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 047 | 81B34 | Kötelezettségek értékelési különbözete |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 048 | 81B35 | Származékos ügyletek negatív értékelési különbözete |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 049 | 81B4 | Passzív időbeli elhatárolások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 050 | 81B41 | Bevételek passzív időbeli elhatárolása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 051 | 81B42 | Költségek, ráfordítások passzív időbeli elhatárolása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 052 | 81B43 | Halasztott bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+81C
+
+MÉRLEGEN KÍVÜLI KÖVETELÉSEK ÉS KÖTELEZETTSÉGEK
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Elektronikus pénzkibocsátásból és kapcsolódó pénzügyi szolgáltatásból | Pénzforgalmi szolgáltatásból és kapcsolódó pénzügyi szolgáltatásból | Egyéb üzleti tevékenységből | Összesen | Mód. |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| a | b | c | d | z |
+
+| 001 | 81C1 | Mérlegen kívüli követelések összesen |  |  |  |  |  |
+
+| 002 | 81C11 | Függő követelések összesen |  |  |  |  |  |
+
+| 003 | 81C111 | Opciós ügyletek |  |  |  |  |  |
+
+| 004 | 81C112 | Kapott garancia és kezesség |  |  |  |  |  |
+
+| 005 | 81C1121 | 81C112-ből: harmadik fél által az elektronikuspénz kibocsátása miatti kötelezettségéért vállalt garancia, kezesség |  |  |  |  |  |
+
+| 006 | 81C1122 | 81C112-ből: harmadik fél által a pénzforgalmi szolgáltató kötelezettségéért vállalt garancia, kezesség |  |  |  |  |  |
+
+| 007 | 81C113 | Hitellevelek és akkreditívek |  |  |  |  |  |
+
+| 008 | 81C114 | Hitelszerződés alapján még igénybe vehető keretösszeg |  |  |  |  |  |
+
+| 009 | 81C115 | Peres ügyekkel kapcsolatban várható követelések |  |  |  |  |  |
+
+| 010 | 81C116 | Egyéb függő követelések |  |  |  |  |  |
+
+| 011 | 81C12 | Jövőbeni követelések összesen |  |  |  |  |  |
+
+| 012 | 81C121 | Határidős követelések |  |  |  |  |  |
+
+| 013 | 81C122 | SWAP ügyletek határidős ügyletrésze miatti követelések |  |  |  |  |  |
+
+| 014 | 81C123 | Egyéb jövőbeni követelések |  |  |  |  |  |
+
+| 015 | 81C131 | Biztosítékok és fedezetek (teljes értéken) |  |  |  |  |  |
+
+| 016 | 81C1311 | Óvadék (készpénz, betét, értékpapír) |  |  |  |  |  |
+
+| 017 | 81C1312 | Jelzálogjog |  |  |  |  |  |
+
+| 018 | 81C13121 | Lakóingatlan |  |  |  |  |  |
+
+| 019 | 81C13122 | Egyéb ingatlan |  |  |  |  |  |
+
+| 020 | 81C1313 | Egyéb zálogjog |  |  |  |  |  |
+
+| 021 | 81C1314 | Egyéb fedezetek, biztosítékok |  |  |  |  |  |
+
+| 022 | 81C132 | Biztosítékok és fedezetek (a követelés erejéig) |  |  |  |  |  |
+
+| 023 | 81C1321 | Óvadék (készpénz, betét, értékpapír) |  |  |  |  |  |
+
+| 024 | 81C1322 | Jelzálogjog |  |  |  |  |  |
+
+| 025 | 81C13221 | Lakóingatlan |  |  |  |  |  |
+
+| 026 | 81C13222 | Egyéb ingatlan |  |  |  |  |  |
+
+| 027 | 81C1323 | Egyéb zálogjog |  |  |  |  |  |
+
+| 028 | 81C1324 | Egyéb fedezetek, biztosítékok |  |  |  |  |  |
+
+| 029 | 81C2 | Mérlegen kívüli kötelezettségek összesen |  |  |  |  |  |
+
+| 030 | 81C21 | Függő kötelezettségek összesen |  |  |  |  |  |
+
+| 031 | 81C211 | Opciós ügyletek |  |  |  |  |  |
+
+| 032 | 81C212 | Adott garancia és kezességvállalás |  |  |  |  |  |
+
+| 033 | 81C213 | Hitellevelek és akkreditívek |  |  |  |  |  |
+
+| 034 | 81C214 | Hitelszerződés alapján még igénybe vehető keretösszeg |  |  |  |  |  |
+
+| 035 | 81C2141 | 81C214-ből: ügyfelek fizetési számlájához kapcsolódóan lehívható hitelkeret összege |  |  |  |  |  |
+
+| 036 | 81C215 | Peres ügyekkel kapcsolatban várható kötelezettségek |  |  |  |  |  |
+
+| 037 | 81C216 | Egyéb függő kötelezettségek |  |  |  |  |  |
+
+| 038 | 81C22 | Jövőbeni kötelezettségek összesen |  |  |  |  |  |
+
+| 039 | 81C221 | Határidős kötelezettségek |  |  |  |  |  |
+
+| 040 | 81C222 | SWAP ügyletek határidős ügyletrésze miatti kötelezettségek |  |  |  |  |  |
+
+| 041 | 81C223 | Egyéb jövőbeni kötelezettségek |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |
+
+|  |  | Tilos |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+82A
+
+EREDMÉNYKIMUTATÁS
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Tárgynegyedévi | Halmozott (év elejétől kumulált) | Mód. |
+
+| Elektronikuspénz kibocsátásból és kapcsolódó pénzügyi szolgáltatásból | Pénzforgalmi szolgáltatásból és kapcsolódó pénzügyi szolgáltatásból | Egyéb üzleti tevékenységből | Összesen | Elektronikuspénz kibocsátásból és kapcsolódó pénzügyi szolgáltatásból | Pénzforgalmi szolgáltatásból és kapcsolódó pénzügyi szolgáltatásból | Egyéb üzleti tevékenységből | Összesen |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| a | b | c | d | e | f | g | h | z |
+
+| 001 | 82A1 | A. ÜZEMI (ÜZLETI) TEVÉKENYSÉG EREDMÉNYE |  |  |  |  |  |  |  |  |  |
+
+| 002 | 82A11 | I. Értékesítés nettó árbevétele |  |  |  |  |  |  |  |  |  |
+
+| 003 | 82A111 | Belföldi értékesítés nettó árbevétele |  |  |  |  |  |  |  |  |  |
+
+| 004 | 82A1111 | Elektronikuspénz kibocsátásának díjbevétele és kapcsolódó pénzügyi szolgáltatások díjbevétele |  |  |  |  |  |  |  |  |  |
+
+| 006 | 82A1112 | Pénzforgalmi műveletek bevételei |  |  |  |  |  |  |  |  |  |
+
+| 007 | 82A1113 | Készpénzátutalás bevételei |  |  |  |  |  |  |  |  |  |
+
+| 008 | 82A1114 | Készpénzhelyettesítő fizetési eszköz kibocsátásának bevételei |  |  |  |  |  |  |  |  |  |
+
+| 009 | 82A1115 | Egyéb bevételek |  |  |  |  |  |  |  |  |  |
+
+| 010 | 82A112 | Exportértékesítés nettó árbevétele |  |  |  |  |  |  |  |  |  |
+
+| 011 | 82A1121 | Elektronikuspénz kibocsátásának díjbevétele és kapcsolódó pénzügyi szolgáltatások díjbevétele |  |  |  |  |  |  |  |  |  |
+
+| 012 | 82A1122 | Pénzforgalmi műveletek bevételei |  |  |  |  |  |  |  |  |  |
+
+| 013 | 82A1123 | Készpénzátutalás bevételei |  |  |  |  |  |  |  |  |  |
+
+| 014 | 82A1124 | Készpénzhelyettesítő fizetési eszköz kibocsátásának bevételei |  |  |  |  |  |  |  |  |  |
+
+| 015 | 82A1125 | Egyéb bevételek |  |  |  |  |  |  |  |  |  |
+
+| 016 | 82A12 | II. Aktivált saját teljesítmények értéke |  |  |  |  |  |  |  |  |  |
+
+| 017 | 82A13 | III. Egyéb bevételek |  |  |  |  |  |  |  |  |  |
+
+| 018 | 82A131 | Immateriális javak, tárgyi eszközök értékesítéséből és átadásából származó bevétel |  |  |  |  |  |  |  |  |  |
+
+| 019 | 82A132 | Saját követelések értékesítéséből származó bevétel |  |  |  |  |  |  |  |  |  |
+
+| 020 | 82A133 | Behajthatatlannak minősített és leírt követelésből származó bevételek |  |  |  |  |  |  |  |  |  |
+
+| 021 | 82A134 | Követelések értékvesztésének visszaírása |  |  |  |  |  |  |  |  |  |
+
+| 022 | 82A135 | Egyéb eszközök értékvesztésének visszaírása |  |  |  |  |  |  |  |  |  |
+
+| 023 | 82A136 | Céltartalék felhasználása és felszabadítása |  |  |  |  |  |  |  |  |  |
+
+| 024 | 82A137 | Különféle egyéb bevételek |  |  |  |  |  |  |  |  |  |
+
+| 025 | 82A14 | IV. Anyagjellegű ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 026 | 82A15 | V. Személyi jellegű ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 027 | 82A16 | VI. Értékcsökkenési leírás |  |  |  |  |  |  |  |  |  |
+
+| 028 | 82A17 | VII. Egyéb ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 029 | 82A171 | Immateriális javak, tárgyi eszközök, készletek könyv szerinti értéke értékesítéskor |  |  |  |  |  |  |  |  |  |
+
+| 030 | 82A172 | Saját követelés könyv szerinti értéke értékesítéskor |  |  |  |  |  |  |  |  |  |
+
+| 031 | 82A173 | Saját követelés könyv szerinti értéke leíráskor |  |  |  |  |  |  |  |  |  |
+
+| 032 | 82A174 | Követelések értékvesztésének képzése |  |  |  |  |  |  |  |  |  |
+
+| 033 | 82A175 | Egyéb eszközök értékvesztésének képzése |  |  |  |  |  |  |  |  |  |
+
+| 034 | 82A176 | Céltartalék képzése |  |  |  |  |  |  |  |  |  |
+
+| 035 | 82A177 | Adók, adó jellegű kifizetések |  |  |  |  |  |  |  |  |  |
+
+| 036 | 82A178 | Különféle egyéb ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 037 | 82A2 | B. Pénzügyi műveletek eredménye |  |  |  |  |  |  |  |  |  |
+
+| 038 | 82A21 | VIII. Pénzügyi műveletek bevételei |  |  |  |  |  |  |  |  |  |
+
+| 039 | 82A211 | Kapott (járó) osztalék és részesedés |  |  |  |  |  |  |  |  |  |
+
+| 040 | 82A21101 | Ebből: kapcsolt vállalkozástól kapott |  |  |  |  |  |  |  |  |  |
+
+| 041 | 82A212 | Részesedések értékesítésének árfolyamnyeresége |  |  |  |  |  |  |  |  |  |
+
+| 042 | 82A213 | Befektetett pénzügyi eszközök kamatai, árfolyamnyeresége |  |  |  |  |  |  |  |  |  |
+
+| 043 | 82A2131 | Befektetett pénzügyi eszközök kamat és kamat jellegű bevételei |  |  |  |  |  |  |  |  |  |
+
+| 044 | 82A2132 | Befektetett pénzügyi eszközök árfolyamnyeresége |  |  |  |  |  |  |  |  |  |
+
+| 045 | 82A214 | Egyéb kapott (járó) kamatok és kamatjellegű bevételek |  |  |  |  |  |  |  |  |  |
+
+| 046 | 82A2141 | a.) Alaptevékenységekhez kapcsolódó |  |  |  |  |  |  |  |  |  |
+
+| 047 | 82A21411 | Pénzforgalmi szolgáltatás |  |  |  |  |  |  |  |  |  |
+
+| 048 | 82A21412 | Hitel, kölcsön nyújtása |  |  |  |  |  |  |  |  |  |
+
+| 049 | 82A21413 | Letéti szolgáltatás nyújtása |  |  |  |  |  |  |  |  |  |
+
+| 050 | 82A21414 | Fizetési rendszer működtetése |  |  |  |  |  |  |  |  |  |
+
+| 051 | 82A2142 | b.) Ügyfélpénzek védelme érdekében keletkezett követelésekhez kapcsolódó |  |  |  |  |  |  |  |  |  |
+
+| 052 | 82A21421 | Elkülönített letéti számla |  |  |  |  |  |  |  |  |  |
+
+| 053 | 82A21422 | Nulla % kockázati súlyozású pénzügyi eszközök |  |  |  |  |  |  |  |  |  |
+
+| 054 | 82A21423 | Alacsony kockázati súlyú eszközök |  |  |  |  |  |  |  |  |  |
+
+| 055 | 82A21424 | Egyéb |  |  |  |  |  |  |  |  |  |
+
+| 056 | 82A2143 | c.) Egyéb kamat és kamatjellegű bevételek |  |  |  |  |  |  |  |  |  |
+
+| 057 | 82A215 | Pénzügyi műveletek egyéb bevételei |  |  |  |  |  |  |  |  |  |
+
+| 058 | 82A2151 | Függő és jövőbeni kötelezettségekhez kapcsolódó |  |  |  |  |  |  |  |  |  |
+
+| 059 | 82A2152 | Pénzügyi eszközök realizált árfolyamnyeresége |  |  |  |  |  |  |  |  |  |
+
+| 060 | 82A2153 | Konverziós árfolyamnyereség- deviza és valutaforgalomban realizált árfolyamkülönbözet |  |  |  |  |  |  |  |  |  |
+
+| 061 | 82A2154 | Átértékelési nyereség- Devizaeszközök és devizakötelezettségek deviza árfolyamváltozás miatti átértékeléséből |  |  |  |  |  |  |  |  |  |
+
+| 062 | 82A2155 | Értékelési különbözet |  |  |  |  |  |  |  |  |  |
+
+| 063 | 82A2156 | Egyéb |  |  |  |  |  |  |  |  |  |
+
+| 064 | 82A22 | IX. Pénzügyi műveletek ráfordításai |  |  |  |  |  |  |  |  |  |
+
+| 065 | 82A221 | Befektetett pénzügyi eszközök árfolyamvesztesége |  |  |  |  |  |  |  |  |  |
+
+| 066 | 82A222 | Fizetendő kamatok és kamatjellegű ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 067 | 82A2221 | a.) Alaptevékenységekhez kapcsolódó |  |  |  |  |  |  |  |  |  |
+
+| 068 | 82A22211 | Pénzforgalmi szolgáltatás |  |  |  |  |  |  |  |  |  |
+
+| 069 | 82A22212 | Hitel, kölcsön nyújtása |  |  |  |  |  |  |  |  |  |
+
+| 070 | 82A22213 | Letéti szolgáltatás nyújtása |  |  |  |  |  |  |  |  |  |
+
+| 071 | 82A22214 | Fizetési rendszer működtetése |  |  |  |  |  |  |  |  |  |
+
+| 072 | 82A2222 | b.) Ügyfélpénzek védelme érdekében keletkezett követelésekhez kapcsolódó |  |  |  |  |  |  |  |  |  |
+
+| 073 | 82A22221 | Elkülönített letéti számla |  |  |  |  |  |  |  |  |  |
+
+| 074 | 82A22222 | Nulla % kockázati súlyozású pénzügyi eszközök |  |  |  |  |  |  |  |  |  |
+
+| 075 | 82A22223 | Egyéb |  |  |  |  |  |  |  |  |  |
+
+| 076 | 82A2223 | c.) Egyéb kamat és kamatjellegű ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 077 | 82A223 | Részesedések, értékpapírok, bankbetétek értékvesztése |  |  |  |  |  |  |  |  |  |
+
+| 078 | 82A224 | Pénzügyi műveletek egyéb ráfordításai |  |  |  |  |  |  |  |  |  |
+
+| 079 | 82A2241 | Függő és jövőbeni kötelezettségekhez kapcsolódó ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 080 | 82A2242 | Pénzügyi eszközök realizált árfolyamvesztesége |  |  |  |  |  |  |  |  |  |
+
+| 081 | 82A2243 | Konverziós árfolyamveszteség- deviza és valutaforgalomban realizált árfolyamkülönbözet |  |  |  |  |  |  |  |  |  |
+
+| 082 | 82A2244 | Átértékelési veszteség- Devizaeszközök és devizakötelezettségek deviza árfolyamváltozás miatti átértékeléséből |  |  |  |  |  |  |  |  |  |
+
+| 083 | 82A2245 | Értékelési különbözet |  |  |  |  |  |  |  |  |  |
+
+| 084 | 82A2246 | Egyéb |  |  |  |  |  |  |  |  |  |
+
+| 085 | 82A3 | C. Szokásos vállalkozási eredmény |  |  |  |  |  |  |  |  |  |
+
+| 086 | 82A4 | D. Rendkívüli eredmény |  |  |  |  |  |  |  |  |  |
+
+| 087 | 82A41 | X. Rendkívüli bevételek |  |  |  |  |  |  |  |  |  |
+
+| 088 | 82A42 | XI. Rendkívüli ráfordítások |  |  |  |  |  |  |  |  |  |
+
+| 089 | 82A5 | E. Adózás előtti eredmény |  |  |  |  |  |  |  |  |  |
+
+| 090 | 82A6 | XII. Adófizetési kötelezettség (évközben fizetett adóelőleg) |  |  |  |  |  |  |  |  |  |
+
+| 091 | 82A7 | F. Adózott eredmény |  |  |  |  |  |  |  |  |  |
+
+| 092 | 82A71 | Eredménytartalék igénybevétele osztalékra, részesedésre |  |  |  |  |  |  |  |  |  |
+
+| 093 | 82A72 | Jóváhagyott osztalék, részesedés |  |  |  |  |  |  |  |  |  |
+
+| 094 | 82A721 | Ebből: kapcsolt vállalkozásnak adott |  |  |  |  |  |  |  |  |  |
+
+| 095 | 82A8 | G. Mérleg szerinti eredmény |  |  |  |  |  |  |  |  |  |
+
+| 096 | 82A9 | Tájékoztató adatok |  |  |  |  |  |  |  |  |  |
+
+| 097 | 82A91 | I. Értékesítés közvetett költségei |  |  |  |  |  |  |  |  |  |
+
+| 098 | 82A911 | Értékesítés, forgalmazás közvetett költségei |  |  |  |  |  |  |  |  |  |
+
+| 099 | 82A912 | Igazgatási költségek |  |  |  |  |  |  |  |  |  |
+
+| 100 | 82A913 | Egyéb általános költségek |  |  |  |  |  |  |  |  |  |
+
+| 101 | 82A92 | II. Kiszervezett tevékenység |  |  |  |  |  |  |  |  |  |
+
+| 102 | 82A921 | Másik pénzforgalmi szolgáltató részére kiszervezett tevékenység szerződés szerinti, fizetett ellenértéke |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+83NA
+
+Pénzforgalmi intézmény - ÜGYFÉLPÉNZEK KEZELÉSE
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Forint | Deviza | Összesen | Mód. |
+
+| 1 | 2 | 3 | 4 |
+
+| a | b | c | z |
+
+| 001 | 83NA1 | Ügyfélpénz tárgynapi nyitó egyenlege |  |  |  |  |
+
+| 002 | 83NA111 | Fizetési műveletekre átvett készpénz |  |  |  |  |
+
+| 003 | 83NA112 | Pénzforgalmi szolgáltató által vezetett ügyfélszámlán nyilvántartott összeg |  |  |  |  |
+
+| 004 | 83NA113 | Pénzforgalmi szolgáltató saját pénzforgalmi -, letéti-, értékpapír- és egyéb számláján nyilvántartott összeg |  |  |  |  |
+
+| 005 | 83NA121 | 83NA1-ből: ügyfélpénz kihelyezett összege |  |  |  |  |
+
+| 006 | 83NA1211 | - a Hpt. 87/L. §-a alapján elkülönített letéti számlán elhelyezett összeg |  |  |  |  |
+
+| 007 | 83NA1212 | - a Hpt. 76/A. § alkalmazásában 0%-os kockázati súlyú kitettségnek minősülő eszközben történt befektetés összege |  |  |  |  |
+
+| 008 | 83NA122 | 83NA1-ből: pénzforgalmi szolgáltató pénztárában, fizetési számláján, egyéb eszközben (úton lévő tétel) |  |  |  |  |
+
+| 009 | 83NA2 | Ügyfélpénz növekedésével járó tranzakciók |  |  |  |  |
+
+| 010 | 83NA21 | - fizetési műveletekre átvett készpénz pénztárba |  |  |  |  |
+
+| 011 | 83NA22 | - készpénz befizetése ügyfél fizetési számlájára |  |  |  |  |
+
+| 012 | 83NA23 | - fizetési megbízás jóváírása ügyfél fizetési számlára |  |  |  |  |
+
+| 013 | 83NA24 | - egyéb jóváírás |  |  |  |  |
+
+| 014 | 83NA3 | Ügyfélpénz csökkenésével járó tranzakciók |  |  |  |  |
+
+| 015 | 83NA31 | - fizetési műveletekhez kapcsolódó készpénz kifizetése pénztárból |  |  |  |  |
+
+| 016 | 83NA32 | - kifizetés ügyfél fizetési számlájáról |  |  |  |  |
+
+| 017 | 83NA33 | - fizetési megbízás terhelése fizetési számlán |  |  |  |  |
+
+| 018 | 83NA34 | - egyéb terhelés |  |  |  |  |
+
+| 019 | 83NA4 | Ügyfélpénz tárgynapi záró egyenlege (83NA1+83NA2-83NA3) |  |  |  |  |
+
+| 020 | 83NA41 | Fizetési műveletekre átvett készpénz |  |  |  |  |
+
+| 021 | 83NA42 | Ügyfélszámlákon nyilvántartott összeg |  |  |  |  |
+
+| 022 | 83NA43 | Saját pénzforgalmi- és egyéb számlákon nyilvántartott összeg |  |  |  |  |
+
+| 023 | 83NA51 | Fizetési műveletekre átvett pénzeszközből tárgynapot követő (T+1) munkanapon teljesített kifizetések |  |  |  |  |
+
+| 024 | 83NA511 | - fizetési műveletekhez kapcsolódó készpénz kifizetése pénztárból |  |  |  |  |
+
+| 025 | 83NA512 | - kifizetés ügyfél fizetési számlájáról |  |  |  |  |
+
+| 026 | 83NA513 | - fizetési megbízás terhelése fizetési számlán |  |  |  |  |
+
+| 027 | 83NA514 | - egyéb terhelés |  |  |  |  |
+
+| 028 | 83NA52 | Fizetési műveletekre átvett pénzeszközből tárgynapot követő (T+1) munkanapon nem teljesített kifizetések |  |  |  |  |
+
+| 029 | 83NA521 | - fizetési műveletekre átvett készpénz pénztárba |  |  |  |  |
+
+| 030 | 83NA522 | - készpénz befizetése ügyfél fizetési számlájára |  |  |  |  |
+
+| 031 | 83NA523 | - fizetési megbízás jóváírása ügyfél fizetési számlára |  |  |  |  |
+
+| 032 | 83NA524 | - egyéb jóváírás |  |  |  |  |
+
+| 033 | 83NA6 | Jogszabályi előírás alapján teljesített elhelyezés |  |  |  |  |
+
+| 034 | 83NA61 | - a Hpt. 87/L. §-a alapján elkülönített letéti számlán elhelyezett összeg |  |  |  |  |
+
+| 035 | 83NA62 | - a Hpt. 76/A. § alkalmazásában 0%-os kockázati súlyú kitettségnek minősülő eszközben történt befektetés összege |  |  |  |  |
+
+| 036 | 83NA63 | - bankgaranciával- vagy kezesi biztosítási szerződés alapján biztosított összeg |  |  |  |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+83ENA
+
+Elektronikuspénz-kibocsátó intézmény - ÜGYFÉLPÉNZEK KEZELÉSE
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Forint | Deviza | Összesen | Mód. |
+
+| 1 | 2 | 3 | 4 |
+
+| a | b | c | z |
+
+| 001 | 83ENA1 | Kibocsátott elektonikuspénz tárgynapi nyitó egyenlege |  |  |  |  |
+
+| 002 | 83ENA2 | Ügyfélpénz (átvett elektronikuspénz ellenértékének) tárgynapi nyitó egyenlege |  |  |  |  |
+
+| 003 | 83ENA21 | 83ENA2-ből: a Hpt. 87/P. § (3) bekezdés a) alpontja alapján elhelyezett elektronikuspénz ellenértéke |  |  |  |  |
+
+| 004 | 83ENA211 | - a Hpt. 87/P. § (3) bekezdés a) alpontja alapján elkülönített letéti számlán elhelyezett összeg |  |  |  |  |
+
+| 005 | 83ENA212 | - a Hpt. 87/P. § (3) bekezdés a) alpontja alapján alacsony kockázatú eszközben elhelyezett összege |  |  |  |  |
+
+| 006 | 83ENA22 | 83ENA2-ből: a Hpt. 87/P. § (3) bekezdés b) alpontja szerinti bankgarancia vagy kezesi biztosítási szerződés által biztosított elektronikuspénz ellenérték összege |  |  |  |  |
+
+| 007 | 83ENA23 | 83ENA2-ből: a Hpt. 87/P. § (4) bekezdés b) alpontja alapján az elektronikuspénz kibocsátását követő 5. munkanapig nem elhelyezett elektronikuspénz ellenérték |  |  |  |  |
+
+| 008 | 83ENA24 | 83ENA2-ből: elektronikuspénz-kibocsátó pénztárában, fizetési számláján, egyéb eszközben (úton lévő) lévő tétel |  |  |  |  |
+
+| 009 | 83ENA25 | 83ENA2-ből: a Hpt. 87/P. § (4) bekezdés b) pontja szerinti ügynök által átvett, de a Hpt. 87/P. § (3) bekezdés szerint még nem biztosított összeg |  |  |  |  |
+
+| 010 | 83ENA3 | Tárgynapi kibocsátott elektronikus pénz |  |  |  |  |
+
+| 011 | 83ENA4 | Tárgynapi ügyfélpénz növekedés |  |  |  |  |
+
+| 012 | 83ENA41 | - ügyfelektől átvett elektronikuspénz ellenérték a Hpt. 87/P. § (3) alapján kezelve |  |  |  |  |
+
+| 013 | 83ENA42 | - ügyfelektől átvett elektonikuspénz kibocsátó pénztárában, fizetési számláján, egyéb eszközben (úton lévő) tétel |  |  |  |  |
+
+| 014 | 83ENA43 | - ügyfelektől átvett elektronikuspénz ellenérték a Hpt. 87/P. § (4) b) pontja szerinti ügynök által átvett, de a Hpt. 87/P. § (3) bekezdés szerint még nem biztosított összeg |  |  |  |  |
+
+| 015 | 83ENA5 | Tárgynapi visszaváltott elektronikuspénz |  |  |  |  |
+
+| 016 | 83ENA6 | Tárgynapi ügyfélpénz csökkenésére felvett megbízás (ügyfelek részére visszaváltott elektronikuspénz ellenérték) |  |  |  |  |
+
+| 017 | 83ENA7 | Kibocsátott elektronikuspénz tárgynapi záró egyenlege (83ENA1+83ENA3-83ENA5) |  |  |  |  |
+
+| 018 | 83ENA8 | Ügyfélpénz tárgynapi záró egyenlege (83ENA2+83ENA4-83ENA6) |  |  |  |  |
+
+| 019 | 83ENA81 | 83ENA8-ből: a Hpt. 87/P. § (3) bekezdés a) alpontja alapján elhelyezett elektronikuspénz ellenértéke |  |  |  |  |
+
+| 020 | 83ENA811 | - a Hpt. 87/P. § (3) bekezdés a) alpontja alapján elkülönített letéti számlán elhelyezett összeg |  |  |  |  |
+
+| 021 | 83ENA812 | - a Hpt. 87/P. § (3) bekezdés a) alpontja alapján alacsony kockázatú eszközben elhelyezett összege |  |  |  |  |
+
+| 022 | 83ENA82 | 83ENA8-ból: a Hpt. 87/P. § (3) bekezdés b) alpontja szerinti bankgarancia vagy kezesi biztosítási szerződés által biztosított elektronikuspénz ellenérték összege |  |  |  |  |
+
+| 023 | 83ENA83 | 83ENA8-ből: a Hpt. 87/P. § (4) bekezdés b) alpontja alapján az elektronikuspénz kibocsátását követő 5. munkanapig nem elhelyezett ügyfélpénz |  |  |  |  |
+
+| 024 | 83ENA84 | 83ENA8-ből: pénzforgalmi szolgáltató elektronikuspénz-kibocsátó pénztárában, fizetési számláján, egyéb eszközben (úton lévő) lévő tétel |  |  |  |  |
+
+| 025 | 83ENA85 | 83ENA8-ból: a Hpt. 87/P. § (4) bekezdés b) pontja szerinti ügynök által átvett de még a Hpt. 87/P. § (3) bekezdés szerint nem biztosított összegek |  |  |  |  |
+
+|  |  | Jelmagyarázat |  |  |  |  |
+
+|  |  |  | Tilos |  |  |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+83PNA
+
+Posta Elszámoló Központot működtető intézmény (PEKMI) - ÜGYFÉLPÉNZEK KEZELÉSE
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Forint | Deviza | Összesen | Mód. |
+
+| 1 | 2 | 3 | 4 |
+
+| a | b | c | z |
+
+| 001 | 83PNA1 | Ügyfélpénz tárgynapi nyitó egyenlege |  |  |  |  |
+
+| 002 | 83PNA111 | Fizetési műveletekre átvett készpénz |  |  |  |  |
+
+| 003 | 83PNA112 | Pénzforgalmi szolgáltató által vezetett ügyfélszámlán nyilvántartott összeg |  |  |  |  |
+
+| 004 | 83PNA113 | Pénzforgalmi szolgáltató saját pénzforgalmi -, letéti-, értékpapír- és egyéb számláján nyilvántartott összeg |  |  |  |  |
+
+| 005 | 83PNA121 | 83PNA1-ből: ügyfélpénz kihelyezett összege |  |  |  |  |
+
+| 006 | 83PNA1211 | - a Hpt. 87/L. §-a alapján elkülönített letéti számlán elhelyezett összeg |  |  |  |  |
+
+| 007 | 83PNA1212 | - a Hpt. 76/A. § alkalmazásában 0%-os kockázati súlyú kitettségnek minősülő eszközben történt befektetés összege |  |  |  |  |
+
+| 008 | 83PNA122 | 83PNA1-ből: pénzforgalmi szolgáltató pénztárában, fizetési számláján, egyéb eszközben (úton lévő tétel) |  |  |  |  |
+
+| 009 | 83PNA2 | Ügyfélpénz növekedésével járó tranzakciók |  |  |  |  |
+
+| 010 | 83PNA21 | - fizetési műveletekre átvett készpénz pénztárba |  |  |  |  |
+
+| 011 | 83PNA22 | - készpénz befizetése ügyfél fizetési számlájára |  |  |  |  |
+
+| 012 | 83PNA23 | - fizetési megbízás jóváírása ügyfél fizetési számlára |  |  |  |  |
+
+| 013 | 83PNA24 | - egyéb jóváírás |  |  |  |  |
+
+| 014 | 83PNA3 | Ügyfélpénz csökkenésével járó tranzakciók |  |  |  |  |
+
+| 015 | 83PNA31 | - fizetési műveletekhez kapcsolódó készpénz kifizetése pénztárból |  |  |  |  |
+
+| 016 | 83PNA32 | - kifizetés ügyfél fizetési számlájáról |  |  |  |  |
+
+| 017 | 83PNA33 | - fizetési megbízás terhelése fizetési számlán |  |  |  |  |
+
+| 018 | 83PNA34 | - egyéb terhelés |  |  |  |  |
+
+| 019 | 83PNA4 | Ügyfélpénz tárgynapi záró egyenlege (83NA1+83NA2-83NA3) |  |  |  |  |
+
+| 020 | 83PNA41 | Fizetési műveletekre átvett készpénz |  |  |  |  |
+
+| 021 | 83PNA42 | Ügyfélszámlákon nyilvántartott összeg |  |  |  |  |
+
+| 022 | 83PNA43 | Saját pénzforgalmi- és egyéb számlákon nyilvántartott összeg |  |  |  |  |
+
+| 023 | 83PNA51 | Fizetési műveletekre átvett pénzeszközből tárgynapot követő (T+1) munkanapon teljesített kifizetések |  |  |  |  |
+
+| 024 | 83PNA511 | - fizetési műveletekhez kapcsolódó készpénz kifizetése pénztárból |  |  |  |  |
+
+| 025 | 83PNA512 | - kifizetés ügyfél fizetési számlájáról |  |  |  |  |
+
+| 026 | 83PNA513 | - fizetési megbízás terhelése fizetési számlán |  |  |  |  |
+
+| 027 | 83PNA514 | - egyéb terhelés |  |  |  |  |
+
+| 028 | 83PNA52 | Fizetési műveletekre átvett pénzeszközből tárgynapot követő (T+1) munkanapon nem teljesített kifizetések |  |  |  |  |
+
+| 029 | 83PNA521 | - fizetési műveletekre átvett készpénz pénztárba |  |  |  |  |
+
+| 030 | 83PNA522 | - készpénz befizetése ügyfél fizetési számlájára |  |  |  |  |
+
+| 031 | 83PNA523 | - fizetési megbízás jóváírása ügyfél fizetési számlára |  |  |  |  |
+
+| 032 | 83PNA524 | - egyéb jóváírás |  |  |  |  |
+
+| 033 | 83PNA53 | Fizetési műveletekre átvett pénzeszközből tárgynapot követő második (T+2) munkanapon teljesített kifizetések |  |  |  |  |
+
+| 034 | 83PNA531 | - fizetési műveletekhez kapcsolódó készpénz kifizetése pénztárból |  |  |  |  |
+
+| 035 | 83PNA532 | - kifizetés ügyfél fizetési számlájáról |  |  |  |  |
+
+| 036 | 83PNA533 | - fizetési megbízás terhelése fizetési számlán |  |  |  |  |
+
+| 037 | 83PNA534 | - egyéb terhelés |  |  |  |  |
+
+| 038 | 83PNA54 | Fizetési műveletekre átvett pénzeszközből tárgynapot követő második (T+2) munkanapon nem teljesített kifizetések |  |  |  |  |
+
+| 039 | 83PNA541 | - fizetési műveletekre átvett készpénz pénztárba |  |  |  |  |
+
+| 040 | 83PNA542 | - készpénz befizetése ügyfél fizetési számlájára |  |  |  |  |
+
+| 041 | 83PNA543 | - fizetési megbízás jóváírása ügyfél fizetési számlára |  |  |  |  |
+
+| 042 | 83PNA544 | - egyéb jóváírás |  |  |  |  |
+
+| 043 | 83PNA6 | Jogszabályi előírás alapján teljesített elhelyezés |  |  |  |  |
+
+| 044 | 83PNA61 | - a Hpt. 87/L. §-a alapján elkülönített letéti számlán elhelyezett összeg |  |  |  |  |
+
+| 045 | 83PNA62 | - a Hpt. 76/A. § alkalmazásában 0%-os kockázati súlyú kitettségnek minősülő eszközben történt befektetés összege |  |  |  |  |
+
+| 046 | 83PNA63 | - bankgaranciával- vagy kezesi biztosítási szerződés alapján biztosított összeg |  |  |  |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+83NB
+
+ELKÜLÖNÍTETT LETÉTI SZÁMLÁN VAGY ALACSONY KOCKÁZATI SÚLYÚ ESZKÖZBEN ELHELYEZETT ÜGYFÉLPÉNZEK KEZELÉSE
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Letétkezelő neve | 0% kockázati súlyozású eszközök megnevezése | Alacsony kockázatú eszközök megnevezése | Forint | Deviza | Összesen | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+
+| a | b | c | d | e | f | Z |
+
+| 001 | 83NB1 | Letéti számlán elhelyezett összegek összesen: |  |  |  |  |  |  |  |
+
+| 002 | 83NB101 |  |  |  |  |  |  |  |  |
+
+|  | ... | ... |  |  |  |  |  |  |  |
+
+|  | 83NB199 |  |  |  |  |  |  |  |  |
+
+| 003 | 83NB2 | Nulla %-os kockázati súlyú kitettségnek minősülő eszközben elhelyezett összeg |  |  |  |  |  |  |  |
+
+| 004 | 83NB201 |  |  |  |  |  |  |  |  |
+
+| 005 | 83NB20101 |  |  |  |  |  |  |  |  |
+
+|  | ... | ... |  |  |  |  |  |  |  |
+
+|  | 83NB20199 |  |  |  |  |  |  |  |  |
+
+|  | ...... | ...... |  |  |  |  |  |  |  |
+
+| 006 | 83NB299 |  |  |  |  |  |  |  |  |
+
+| 007 | 83NB29901 |  |  |  |  |  |  |  |  |
+
+|  | ... | ... |  |  |  |  |  |  |  |
+
+|  | 83NB29999 |  |  |  |  |  |  |  |  |
+
+| 008 | 83NB3 | Alacsony kockázati súlyú kitettségnek minősülő eszközben elhelyezett összeg |  |  |  |  |  |  |  |
+
+| 009 | 83NB301 |  |  |  |  |  |  |  |  |
+
+| 010 | 83NB30101 |  |  |  |  |  |  |  |  |
+
+|  | ... | ... |  |  |  |  |  |  |  |
+
+|  | 83NB30199 |  |  |  |  |  |  |  |  |
+
+|  | ...... | ...... |  |  |  |  |  |  |  |
+
+| 011 | 83NB399 |  |  |  |  |  |  |  |  |
+
+| 012 | 83NB39901 |  |  |  |  |  |  |  |  |
+
+|  | ... | ... |  |  |  |  |  |  |  |
+
+|  | 83NB39999 |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+84A
+
+SZAVATOLÓ TŐKE SZÁMÍTÁSA
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Összeg | Mód |
+
+| 1 | 2 |
+
+| a | z |
+
+| 001 | 84A1 | KOCKÁZATOK FEDEZÉSÉRE FIGYELEMBE VEHETŐ SZAVATOLÓ TŐKE ÖSSZESEN |  |  |
+
+| 002 | 84A11 | ALAPVETŐ TŐKE |  |  |
+
+| 003 | 84A111 | ALAPVETŐ TŐKEKÉNT ELISMERT TŐKEELEMEK |  |  |
+
+| 004 | 84A11101 | ebből: Törzsrészvények és a törzsrészvényekkel egyenrangú jegyzett és befizetett tőke |  |  |
+
+| 005 | 84A11102 | ebből: Osztalék-elsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére fel nem jogosító, jegyzett és befizetett részvények |  |  |
+
+| 006 | 84A1111 | Befizetett jegyzett tőke |  |  |
+
+| 007 | 84A1112 | (-) Visszavásárolt saját részvények könyv szerinti értéken |  |  |
+
+| 008 | 84A1113 | Tőketartalék alapvető tőkében figyelembe vehető része |  |  |
+
+| 009 | 84A11131 | a) Számviteli tőketartalék |  |  |
+
+| 010 | 84A11132 | b1) (-) Tőketartalék csökkenése a cégbírósági bejegyzésig |  |  |
+
+| 011 | 84A11133 | b2) Tőketartalék növekedése a cégbírósági bejegyzésig |  |  |
+
+| 012 | 84A112 | ALAPVETŐ TŐKEKÉNT ELISMERT TARTALÉKOK |  |  |
+
+| 013 | 84A1121 | Lekötött tartalék |  |  |
+
+| 014 | 84A1122 | Eredménytartalék alapvető tőkében figyelembe vehető része |  |  |
+
+| 015 | 84A11221 | a1) Számviteli eredménytartalék, ha pozitív |  |  |
+
+| 016 | 84A11222 | a2) (-) Számviteli eredménytartalék, ha negatív |  |  |
+
+| 017 | 84A11223 | b1) (-) Eredménytartalék csökkenése a Felügyeletnek bejelentett, dokumentált, Cégbíróságon még nem bejegyzett jegyzett tőke emelés miatt |  |  |
+
+| 018 | 84A11224 | b2) Eredménytartalék növekedése a Cégbíróságon még nem bejegyzett jegyzett tőke leszállítás miatt |  |  |
+
+| 019 | 84A1123 | Könyvvizsgáló által hitelesített mérleg szerinti vagy évközi eredmény, ha pozitív |  |  |
+
+| 020 | 84A11241 | (-) Évközi eredmény, ha negatív |  |  |
+
+| 021 | 84A11242 | (-) Könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív |  |  |
+
+| 022 | 84A113 | ALAPVETŐ TŐKEKÉNT ELISMERT EGYÉB TŐKEELEMEK - Vegyes tulajdonságú befizetett jegyzett tőke és az alapvető kölcsöntőke teljes összege |  |  |
+
+| 023 | 84A1131 | Vegyes tulajdonságú befizetett jegyzett tőke |  |  |
+
+| 024 | 84A1132 | Alapvető kölcsöntőke |  |  |
+
+| 025 | 84A114 | (-) EGYÉB LEVONÁSOK AZ ALAPVETŐ TŐKÉBŐL |  |  |
+
+| 026 | 84A1141 | (-) Immateriális javak (amortizált értéken) |  |  |
+
+| 027 | 84A1142 | (-) Vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke limit feletti része |  |  |
+
+| 028 | 84A1143 | (-) Egyéb levonások |  |  |
+
+| 029 | 84A11431 | (-) Kockázati céltartalék és az értékvesztés hiánya |  |  |
+
+| 030 | 84A12 | JÁRULÉKOS TŐKE |  |  |
+
+| 031 | 84A121 | Vegyes tulajdonságú befizetett jegyzett tőkéből és alapvető kölcsöntőkéből a járulékos tőkébe beszámítható rész |  |  |
+
+| 032 | 84A122 | Értékelési tartalékok járulékos tőkében figyelembe vehető része |  |  |
+
+| 033 | 84A123 | Lejárat nélküli osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett elsőbbségi részvények és egyéb, járulékos tőkébe sorolható részvények, részjegyek és alárendelt kölcsöntőke |  |  |
+
+| 034 | 84A124 | Járulékos kölcsöntőke |  |  |
+
+| 035 | 84A125 | Lejárattal rendelkező osztalék-elsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére feljogosító, jegyzett és befizetett elsőbbségi részvények és egyéb, járulékos tőkébe sorolható részvények, részjegyek |  |  |
+
+| 036 | 84A126 | Lejárattal rendelkező alárendelt kölcsöntőke |  |  |
+
+| 037 | 84A127 | Részvénnyé átváltoztatható kötvények |  |  |
+
+| 038 | 84A128 | (-) Lejárattal rendelkező alap-, járulékos-, alárendelt kölcsöntőke és járulékos tőkeként figyelembe vehető, lejárattal rendelkező részvények és részjegyek összegének limit feletti része |  |  |
+
+| 039 | 84A129 | (-) Járulékos tőke limit feletti része |  |  |
+
+| 040 | 84A13 | KIEGÉSZÍTŐ INFORMÁCIÓK |  |  |
+
+| 041 | 84A131 | (-) Elismert, de fel nem használt szavatoló tőke |  |  |
+
+| 042 | 84A132 | Alárendelt kölcsöntőke számviteli értéke |  |  |
+
+| 043 | 84A133 | Hpt. 9. § szerinti AKTUÁLIS induló tőkekövetelmény |  |  |
+
+|  | Jelmagyarázat |  |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+84B
+
+TŐKEKÖVETELMÉNY SZÁMÍTÁSA ÉS TELJESÍTÉS
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Általános igazgatási költség | Irányadó mutató összege | Figyelembe veendő fizetési forgalom értéke | Átlagosan kinnlevő elektronikus pénz- állomány elmúlt 6 havi átlaga | Kockázati súly | Kockázati súllyal súlyozott érték | "k" tényező | Tőkekövetelmény | Összegző adatok | Mód |
+
+| A tárgyévet megelőző üzleti év | A tárgyévet megelőző 3. üzleti év | A tárgyévet megelőző 2. üzleti év | A tárgyévet megelőző üzleti év | Megelőző 3 üzleti év átlaga |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 12 |
+
+| a | b1 | b2 | b3 | b4 | c | d | e | f | g | h | i | z |
+
+|  |  |  | PÉNZFORGALMI SZOLGÁLTATÁS TŐKEKÖVETELMÉNY SZÁMÍTÁSA |  |
+
+| 001 | 84B11 | Fizetési forgalom módszer szerint (Hpt.87/D. (1) a)2. pont) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 84B111 | 1.500.000.000 Ft-ig |  |  |  |  |  |  |  | 4,00% |  |  |  |  |  |
+
+| 003 | 84B112 | 1.500.000.001 - 3.000.000 Ft között |  |  |  |  |  |  |  | 2,50% |  |  |  |  |  |
+
+| 004 | 84B113 | 3.000.000.001 - 30.000.000.000 Ft között |  |  |  |  |  |  |  | 1,00% |  |  |  |  |  |
+
+| 005 | 84B114 | 30.000.000.001 - 75.000.000.000 Ft között |  |  |  |  |  |  |  | 0,50% |  |  |  |  |  |
+
+| 006 | 84B115 | 75.000.000.0001 Ft felett |  |  |  |  |  |  |  | 0,25% |  |  |  |  |  |
+
+| 007 | 84B12 | Költség módszer szerint (Hpt.87/D. (1) a) 1. pont) |  |  |  |  |  |  |  | 10,00% |  |  |  |  |  |
+
+| 008 | 84B13 | Irányadó módszer szerint (Hpt.87/D. (1) a) 3. pont) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 84B131 | 750.000.000 Ft-ig |  |  |  |  |  |  |  | 10,00% |  |  |  |  |  |
+
+| 010 | 84B132 | 750.000.001 - 1.500.000.000 Ft között |  |  |  |  |  |  |  | 8,00% |  |  |  |  |  |
+
+| 011 | 84B133 | 1.500.000.001 - 7.500.000.000 Ft között |  |  |  |  |  |  |  | 6,00% |  |  |  |  |  |
+
+| 012 | 84B134 | 7.500.000.001 - 15.000.000.000 Ft között |  |  |  |  |  |  |  | 3,00% |  |  |  |  |  |
+
+| 013 | 84B135 | 15.000.000.001 Ft felett |  |  |  |  |  |  |  | 1,50% |  |  |  |  |  |
+
+|  |  |  | ELEKTRONIKUSPÉNZ KIBOCSÁTÁSI TEVÉKENYSÉG TŐKEKÖVETELMÉNY SZÁMÍTÁSA |  |
+
+| 014 | 84B14 | Átlagos kinnlevő elektronikuspénz- állomány (Hpt. 2.sz. melléklet. III./67 pont) |  |  |  |  |  |  |  | 2,00% |  |  |  |  |  |
+
+|  |  |  | TŐKEKÖVETELMÉNY TELJESÍTÉSÉRE VONATKOZÓ ADATOK |  |
+
+| 015 | 84B21 | Kockázatok fedezetére figyelembe vehető szavatoló tőke összesen (84A1,1 cella értéke) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 84B22 | Tőkekövetelmény összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 84B221 | - pénzforgalmi szolgáltatáshoz kapcsolódó |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 84B222 | - elektronikuspénz-kibocsátási tevékenységhez kapcsolódó |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 84B23 | Szavatoló tőke többlet/hiány (+/-) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 84B31 | Felügyeleti felülvizsgálat (SREP) előírásainak figyelembe vételét követően rendelkezésre álló szavatoló tőke |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 84B32 | Felügyeleti felülvizsgálat (SREP) előírásainak figyelembe vételét követő tőkekövetelmény |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 84B33 | Szavatoló tőke többlet/hiány felügyeleti felülvizsgálat előírásainak figyelembevételét követően |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 84B34 | Tőkemegfelelési index felügyeleti felülvizsgálat előírásainak figyelembevételét követően |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 84B35 | TMM felügyeleti felülvizsgálat előírásainak figyelembevételét követően |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 84B36 | BELSŐ TŐKEMEGFELELÉS ÉRTÉKELÉS (ICAAP) UTÁN RENDELKEZÉSRE ÁLLÓ SZAVATOLÓ TŐKE |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 84B37 | BELSŐ TŐKEMEGFELELÉS ÉRTÉKELÉS (ICAAP) SZAVATOLÓ TŐKE SZÜKSÉGLETE |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 84B38 | Szavatoló tőke többlet/hiány belső tőkemegfelelés értékelést követően |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 84B39 | Tőkemegfelelési index belső tőkemegfelelés értékelést követően |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 84B40 | TMM belső tőkemegfelelés értékelést követően |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+85A
+
+Minősített követelésállomány alakulása
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Minősített ügyletek tárgynegyedévi nyitó állománya | Megképzett értékvesztés/céltartalék | Visszaírt értékvesztés /céltartalék felhasználása, felszabadítása | Leírt, értékesített követelések | Minősített ügyletek tárgynegyedévi záró állománya | Mód. |
+
+| Forint | Deviza | Forint | Deviza | Forint | Deviza | Forint | Deviza | Forint | Deviza |
+
+| érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db | érték | db |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+
+| a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | ö | p | q | r | s | z |
+
+| 001 | 85A1 | Összes követelés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 85A2 | Pénzforgalmi és kapcsolódó pénzügyi szolgáltatásból származó követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 85A21 | ebből: hitel- és kölcsönügyletek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 85A3 | Elektronikuspénz kibocsátási és kapcsolódó pénzügyi szolgáltatásból származó követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 85A31 | ebből: hitel- és kölcsönügyletek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 85A4 | Egyéb üzleti tevékenységből származó követelések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 85A5 | Tájékoztató adatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 85A51 | Mérlegen kívüli kötelezettségek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 85A511 | ebből: le nem hívott hitelkeret |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+86A
+
+Pénzmosással és terrorizmus finanszírozásával kapcsolatos adatok
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Tárgynegyedév | Halmozott (naptári év elejétől kumulált) | Mód. |
+
+| Darabszám | Összeg | Darabszám | Összeg |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| a | b | c | d | z |
+
+| 001 | 86A1 | Nem teljes körűen átvilágított ügyfél |  |  |  |  |  |
+
+| 002 | 86A11 | ebből: ügyfélkövetelés |  |  |  |  |  |
+
+| 003 | 86A12 | ebből: ügyfél-kötelezettség |  |  |  |  |  |
+
+| 004 | 86A2 | Összes ügyfél-átvilágítás |  |  |  |  |  |
+
+| 005 | 86A21 | Egyszerűsített ügyfél átvilágítás |  |  |  |  |  |
+
+| 006 | 86A22 | Fokozott ügyfél átvilágítás |  |  |  |  |  |
+
+| 007 | 86A221 | ebből: kiemelt közszereplő (PEP) ügyfél átvilágítása |  |  |  |  |  |
+
+| 008 | 86A23 | Normál ügyfél átvilágítás |  |  |  |  |  |
+
+| 009 | 86A31 | Üzleti kapcsolat létesítésekor történt átvilágítás |  |  |  |  |  |
+
+| 010 | 86A32 | Hárommillió-hatszázezer forintot elérő vagy meghaladó összegű tranzakció miatti átvilágítás |  |  |  |  |  |
+
+| 011 | 86A33 | Több, egymással ténylegesen összefüggő, hárommillió-hatszázezer forintot meghaladó összegű tranzakció miatti átvilágítás |  |  |  |  |  |
+
+| 012 | 86A34 | Korábban rögzített ügyféladatok valódiságával kapcsolatos kétség felmerülése miatti átvilágítás |  |  |  |  |  |
+
+| 013 | 86A35 | Más szolgáltató által elvégzett ügyfél-átvilágítás eredményének elfogadása |  |  |  |  |  |
+
+| 014 | 86A36 | Pénzforgalmi közvetítő által végzett átvilágítás |  |  |  |  |  |
+
+| 015 | 86A41 | Saját bejelentések |  |  |  |  |  |
+
+| 016 | 86A42 | Bejelentésekből devizában bonyolított ügyletek |  |  |  |  |  |
+
+| 017 | 86A431 | Bejelentésekből: 1. legnagyobb összegű bejelentés |  |  |  |  |  |
+
+| 018 | 86A432 | 2. legnagyobb összegű bejelentés |  |  |  |  |  |
+
+| 019 | 86A433 | 3. legnagyobb összegű bejelentés |  |  |  |  |  |
+
+| 020 | 86A434 | 4. legnagyobb összegű bejelentés |  |  |  |  |  |
+
+| 021 | 86A435 | 5. legnagyobb összegű bejelentés |  |  |  |  |  |
+
+| 022 | 86A44 | Bejelentésekből pénzforgalmi közvetítő által végzett tranzakciók bejelentése |  |  |  |  |  |
+
+| 023 | 86A5 | Bejelentésekből 24/48 órára felfüggesztett tranzakció |  |  |  |  |  |
+
+| 024 | 86A6 | Bíróság által pénzmosás miatt zárolt követelések |  |  |  |  |  |
+
+| 025 | 86A7 | Terrorizmus finanszírozásának gyanúja miatti bejelentés |  |  |  |  |  |
+
+| 026 | 86A8 | Szankciós lista alapján zárolt követelések |  |  |  |  |  |
+
+| Jelmagyarázat |
+
+|  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+86BA
+
+Fogyasztói panaszügyekre vonatkozó adatok I.
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Panaszügy darabszáma a panasz elsődleges témája szerint | Összesen | Mód |
+
+| Árfolyam | Egyoldalú szerződésmódosítás | Elszámolás | Jogosulatlan tevékenység | Jutalék, költség, díj mértéke | Kamat mértéke | KHR (BAR lista) | Megbízás teljesítése | Nyilvántartás hiányosság | Pénzügyi közvetítő | Pénzügyi visszaélés | Szolgáltatás minősége | Tájékoztatási hiányosság | Egyéb ügyviteli hibák |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+
+| a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | z |
+
+| 001 | 86BA1 | TÁRGYIDŐSZAKBAN NYILVÁNTARTÁSBA VETT PANASZÜGYEK SZÁMA ÖSSZESEN |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 86BA111 | Pénzforgalmi szolgáltatással kapcsolatos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 86BA1111 | ebből: fizetési számla vezetésével |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 86BA1112 | készpénzátutalással |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 86BA1113 | készpénz-helyettesítő fizetési eszközzel |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 86BA1114 | elektronikus bankolással |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 86BA112 | Pénzforgalmi szolgáltatáshoz kapcsolódó pénzügyi tevékenységgel kapcsolatos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 86BA1121 | ebből: hitelezéssel |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 86BA1122 | letéti szolgáltatással |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 86BA1123 | pénz átváltással |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 86BA121 | Elektronikus pénz kibocsátásával kapcsolatos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 86BA122 | Elektronikus pénz kibocsátásához kapcsolódó pénzügyi tevékenységgel kapcsolatos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 86BA13 | Egyéb tevékenységgel kapcsolatos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 86BA2 | PERESÍTETT PANASZÜGYEKRE VONATKOZÓ ADATOK |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 86BA21 | Folyamatban lévő peresített panaszügyek száma az időszak végén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 86BA22 | Tárgyidőszakban a panaszos javára lezárt peresített panaszügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 86BA221 | Részben megalapozott panaszügyek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 86BA222 | Megalapozott panaszügyek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 86BA23 | Tárgyidőszakban az intézmény javára lezárt peresített panaszügyek száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 86BA231 | Részben megalapozott panaszügyek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 86BA232 | Elutasított panaszügyek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+86BB
+
+Fogyasztói panaszügyekre vonatkozó adatok II.
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Adat | Mód |
+
+| 1 | 2 |
+
+| a | z |
+
+| 001 | 86BB1 | TÁRGYIDŐSZAKBAN LEZÁRT PANASZÜGYEK SZÁMA ÖSSZESEN |  |  |
+
+| 002 | 86BB11 | Szolgáltatási ágak szerint |  |  |
+
+| 003 | 86BB111 | Pénzforgalmi szolgáltatással kapcsolatos |  |  |
+
+| 004 | 86BB1111 | ebből: fizetési számla vezetésével |  |  |
+
+| 005 | 86BB1112 | készpénzátutalással |  |  |
+
+| 006 | 86BB1113 | készpénz-helyettesítő fizetési eszközzel |  |  |
+
+| 007 | 86BB1114 | elektronikus bankolással |  |  |
+
+| 008 | 86BB112 | Pénzforgalmi szolgáltatáshoz kapcsolódó pénzügyi tevékenységgel kapcsolatos |  |  |
+
+| 009 | 86BB1121 | ebből: hitelezéssel |  |  |
+
+| 010 | 86BB1122 | letéti szolgáltatással |  |  |
+
+| 011 | 86BB1123 | pénz átváltással |  |  |
+
+| 012 | 86BB113 | Elektronikus pénz kibocsátásával kapcsolatos |  |  |
+
+| 013 | 86BB114 | Elektronikus pénz kibocsátásához kapcsolódó pénzügyi tevékenységgel kapcsolatos |  |  |
+
+| 014 | 86BB115 | Egyéb tevékenységgel kapcsolatos |  |  |
+
+| 015 | 86BB12 | A panasz típusa szerint |  |  |
+
+| 016 | 86BB1201 | Árfolyam |  |  |
+
+| 017 | 86BB1202 | Egyoldalú szerződésmódosítás |  |  |
+
+| 018 | 86BB1203 | Elszámolás |  |  |
+
+| 019 | 86BB1204 | Jogosulatlan tevékenység |  |  |
+
+| 020 | 86BB1205 | Jutalék, költség, díj mértéke |  |  |
+
+| 021 | 86BB1206 | Kamat mértéke |  |  |
+
+| 022 | 86BB1207 | KHR (BAR lista) |  |  |
+
+| 023 | 86BB1208 | Megbízás teljesítése |  |  |
+
+| 024 | 86BB1209 | Nyilvántartás hiányosság |  |  |
+
+| 025 | 86BB1210 | Pénzügyi közvetítő |  |  |
+
+| 026 | 86BB1211 | Pénzügyi visszaélés |  |  |
+
+| 027 | 86BB1212 | Szolgáltatás minősége |  |  |
+
+| 028 | 86BB1213 | Tájékoztatási hiányosság |  |  |
+
+| 029 | 86BB1214 | Egyéb ügyviteli hibák |  |  |
+
+| 030 | 86BB13 | Panaszkezelés időtartama szerint |  |  |
+
+| 031 | 86BB131 | A jogszabályban meghatározott határidőn belül |  |  |
+
+| 032 | 86BB132 | A jogszabályban meghatározott határidőn túl |  |  |
+
+| 033 | 86BB14 | Panaszügyek megalapozottsága szerint |  |  |
+
+| 034 | 86BB141 | Elutasított panaszügy |  |  |
+
+| 035 | 86BB142 | Részben megalapozott panaszügy |  |  |
+
+| 036 | 86BB143 | Megalapozott panaszügy |  |  |
+
+| 037 | 86BB2 | FOLYAMATBAN LÉVŐ PANASZÜGYEK SZÁMA AZ IDŐSZAK VÉGÉN |  |  |
+
+| 038 | 86BB21 | Összesen |  |  |
+
+| 039 | 86BB2101 | Panasztípusok:Árfolyam |  |  |
+
+| 040 | 86BB2102 | Egyoldalú szerződésmódosítás |  |  |
+
+| 041 | 86BB2103 | Elszámolás |  |  |
+
+| 042 | 86BB2104 | Jogosulatlan tevékenység |  |  |
+
+| 043 | 86BB2105 | Jutalék, költség, díj mértéke |  |  |
+
+| 044 | 86BB2106 | Kamat mértéke |  |  |
+
+| 045 | 86BB2107 | KHR (BAR lista) |  |  |
+
+| 046 | 86BB2108 | Megbízás teljesítése |  |  |
+
+| 047 | 86BB2109 | Nyilvántartás hiányosság |  |  |
+
+| 048 | 86BB2110 | Pénzügyi közvetítő |  |  |
+
+| 049 | 86BB2111 | Pénzügyi visszaélés |  |  |
+
+| 050 | 86BB2112 | Szolgáltatás minősége |  |  |
+
+| 051 | 86BB2113 | Tájékoztatási hiányosság |  |  |
+
+| 052 | 86BB2114 | Egyéb ügyviteli hibák |  |  |
+
+| 053 | 86BB3 | EGYÉB TÁJÉKOZTATÓ ADATOK |  |  |
+
+| 054 | 86BB31 | Panaszügyekkel, panaszkezeléssel foglalkozó személyek száma (fő) |  |  |
+
+| 055 | 86BB32 | Panaszügyek rendezése miatt kifizetett kártérítés összege (ezer Ft) |  |  |
+
+| 056 | 86BB331 | Pénzügyi Békéltető Testület elé került panaszügyek száma |  |  |
+
+| 057 | 86BB332 | Pénzügyi békéltető testületi eljárásban az intézmény által tett alávetési nyilatkozatok száma a tárgyidőszakban |  |  |
+
+| 058 | 86BB333 | Az intézmény által végrehajtott pénzügyi békéltető testületi döntések száma a tárgyidőszakban |  |  |
+
+| 059 | 86BB334 | Pénzügyi Békéltető Testület elé vitt ügyekben az intézmény és a panaszos között létrejött egyezségek száma a tárgyidőszakban |  |  |
+
+|  | Jelmagyarázat |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+87A
+
+RENDSZERES NEGYEDÉVES BESZÁMOLÓ
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+PIVDN
+
+Felügyeleti változó díj számítása (negyedéves)
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Érték | Mód. |
+
+| 1 | 2 |
+
+| a | z |
+
+|  |  |  | Tárgynegyedévi változó díj |  |
+
+| 001 | PIVDN01 | Tárgynegyedévi működés napjainak száma (nap) |  |  |
+
+| 002 | PIVDN02 | Tárgynegyedévi változó díj alapja - tőkekövetelmény |  |  |
+
+| 003 | PIVDN03 | Tárgynegyedévre számított változó díj összesen - tőkekövetelmény után |  |  |
+
+| 004 | PIVDN04 | Tárgynegyedévi változó díjfizetési kötelezettség összesen (PIVDN03 - PIVDN11) |  |  |
+
+|  |  |  | Előző évi változó díjra vonatkozó adatok (csak a II. negyedévben töltendő) |  |
+
+| 005 | PIVDN05 | Előző évi működés napjainak száma (nap) |  |  |
+
+| 006 | PIVDN06 | Előző évi változó díj alapja - tőkekövetelmény után - auditált adatok alapján* |  |  |
+
+| 007 | PIVDN07 | Előző évre számított változó díj - tőkekövetelmény után - auditált adatok alapján* |  |  |
+
+| 008 | PIVDN08 | Előző évre számított és negyedévente bevallott változó díj* |  |  |
+
+| 009 | PIVDN09 | Előző évre számított változó díj korrekciója (PIVDN08 - PIVDN07)* |  |  |
+
+| 010 | PIVDN10 | Előző évben összesen ténylegesen befizetett felügyeleti változó díj (PIVDN101 + PIVDN102)* |  |  |
+
+| 011 | PIVDN101 | Előző évben a korábbi év(ek)re vonatkozóan befizetett felügyeleti változó díj (korábbi évekre vonatkozó korrekció)* |  |  |
+
+| 012 | PIVDN102 | Előző évben kizárólag az előző évre vonatkozóan felügyeleti változó díjként pénzügyileg rendezett összeg (korábbi évekre vonatkozó korrekció nélkül)* |  |  |
+
+| 013 | PIVDN11 | Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) (PIVDN102 - PIVDN07)* |  |  |
+
+|  | Jelmagyarázat |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+| PIFVDN |
+
+| Fióktelep - Felügyeleti változó díj számítása (negyedéves) |
+
+| Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Érték | Mód. |
+
+| 1 | 2 |
+
+| a | z |
+
+|  |  |  | Tárgynegyedévi változó díj |  |
+
+| 001 | PIFVDN01 | Tárgynegyedévi működés napjainak száma (nap) |  |  |
+
+| 002 | PIFVDN02 | Tárgynegyedévi változó díj alapja - mérlegfőösszeg |  |  |
+
+| 003 | PIFVDN03 | Tárgynegyedévre számított változó díj összesen - mérlegfőösszeg után |  |  |
+
+| 004 | PIFVDN04 | Tárgynegyedévi változó díjfizetési kötelezettség összesen (PIFVDN03 - PIFVDN11) |  |  |
+
+|  |  |  | Előző évi változó díjra vonatkozó adatok (csak a II. negyedévben töltendő) |  |
+
+| 005 | PIFVDN05 | Előző évi működés napjainak száma (nap) |  |  |
+
+| 006 | PIFVDN06 | Előző évi változó díj alapja - mérlegfőösszeg után - auditált adatok alapján* |  |  |
+
+| 007 | PIFVDN07 | Előző évre számított változó díj - mérlegfőösszeg után - auditált adatok alapján* |  |  |
+
+| 008 | PIFVDN08 | Előző évre számított és negyedévente bevallott változó díj* |  |  |
+
+| 009 | PIFVDN09 | Előző évre számított változó díj korrekciója (PIFVDN08 - PIFVDN07)* |  |  |
+
+| 010 | PIFVDN10 | Előző évben összesen ténylegesen befizetett felügyeleti változó díj (PIFVDN101 + PIFVDN102)* |  |  |
+
+| 011 | PIFVDN101 | Előző évben a korábbi év(ek)re vonatkozóan befizetett felügyeleti változó díj (korábbi évekre vonatkozó korrekció)* |  |  |
+
+| 012 | PIFVDN102 | Előző évben kizárólag az előző évre vonatkozóan felügyeleti változó díjként pénzügyileg rendezett összeg (korábbi évekre vonatkozó korrekció nélkül)* |  |  |
+
+| 013 | PIFVDN11 | Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) (PIFVDN102 - PIFVDN07)* |  |  |
+
+|  | Jelmagyarázat |
+
+|  |  | Tilos |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+PIAD
+
+Felügyeleti alapdíj számítása (éves)
+
+Nagyságrend: ezer forint
+
+| Sorszám | PSZÁF kód | Megnevezés | Érték | Mód |
+
+| 1 | 2 |
+
+| a | z |
+
+| 001 | PIAD1 | Előírt alapdíj |  |  |
+
+| 002 | PIAD2 | Megfizetett alapdíj |  |  |
+
+| Vonatkozási idő vége: | Adatszolgáltató neve: | Adatszolgáltató törzsszáma: |
+
+KTAPI1
+
+Intézményi alapadatok
+
+Nagyságrend: forint
+
+[^7]: Az 1. melléklet a 3/2012. (VIII. 28.) PSZÁF rendelet 2. § (1) bekezdésével megállapított, a 29/2012. (XII. 27.) PSZÁF rendelet 2. § (1)–(2) bekezdése szerint módosított szöveg.
