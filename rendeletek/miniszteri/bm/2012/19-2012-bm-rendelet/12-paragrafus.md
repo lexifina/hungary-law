@@ -1,1 +1,0 @@
-## 11. § A 2012. évben időarányos ruházati utánpótlási ellátmány keretében a 2. és 3. § alapján természetbeni ellátásban részesülő állomány részére is biztosítani kell az 5., vagy 6. § szerinti cikkösszetételt.

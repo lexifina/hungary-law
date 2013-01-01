@@ -1,5 +1,0 @@
-## 12. § A 2011–2012. évben szolgálati jogviszonyt létesítő újfelszerelő állomány, amennyiben az alapellátás, vagy alapellátás-kiegészítés során az alapellátási normájának megfelelő kiváltásra kerülő szolgálati ruházat cikkeit nem kapta meg, akkor a 2. és 4. § figyelembe vételével az 5. § szerinti ruházati cikkösszetételt alapellátás keretében kell biztosítani.
-
-13. § (1) Az időarányos ruházati utánpótlási ellátmány összegét a ruházati utánpótlási ellátmányra jogosult részére ki kell fizetni, ha az nem haladja meg az éves ruházati utánpótlási ellátmány összegének 50%-át. A természetben kiadásra kerülő ruházat ellenértékét a következő évi ruházati utánpótlási ellátmány terhére túlellátásként kell előjegyezni. A túlellátásként előjegyzett összeget a teljes kiegyenlítésig kell göngyölíteni.
-
-(2) Amennyiben az időarányos ruházati utánpótlási ellátmány összege a 48 313 Ft-ot meghaladja, a ruházati utánpótlási ellátmányra jogosult részére a visszatartott összeg feletti maradványrészt kell kifizetni.
