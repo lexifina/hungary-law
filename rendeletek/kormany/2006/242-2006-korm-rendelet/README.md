@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-242-20-
 | 2011-03-23 | 2006-242-20-22.9 | 37/2011. (III. 22.) Korm. rendelet |
 | 2011-07-08 | 2006-242-20-22.10 | 113/2011. (VII. 7.) Korm. rendelet |
 | 2012-01-01 | 2006-242-20-22.11 | 304/2011. (XII. 23.) Korm. rendelet |
+| 2013-01-01 | 2006-242-20-22.12 | 394/2012. (XII. 20.) Korm. rendelet |

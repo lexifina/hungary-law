@@ -4,9 +4,9 @@
 
 (2) A támogatási intenzitás nem haladhatja meg a támogatható költségek 45%-át. A támogatási intenzitás azonban 20 százalékponttal növelhető a kisvállalkozásoknak, illetve 10 százalékponttal a középvállalkozásoknak nyújtott támogatások esetén.
 
-(3)[^150] A támogatható költségek azok a többletköltségek, amelyek a projektgazda, illetőleg a végső kedvezményezettet terhelik egy hagyományos, a tényleges energiatermelés szempontjából ugyanolyan kapacitású erőműhöz vagy fűtőrendszerhez képest. A támogatható költségek kiszámításához a 92/I. § (4) és (5) bekezdésében rögzített módszert kell alkalmazni.
+(3)[^152] A támogatható költségek azok a többletköltségek, amelyek a projektgazda, illetőleg a végső kedvezményezettet terhelik egy hagyományos, a tényleges energiatermelés szempontjából ugyanolyan kapacitású erőműhöz vagy fűtőrendszerhez képest. A támogatható költségek kiszámításához a 92/I. § (4) és (5) bekezdésében rögzített módszert kell alkalmazni.
 
-(4)[^151] A bioüzemanyag előállításához nyújtott környezetvédelmi beruházási támogatás csak annyiban mentesül az EUMSz 108. cikk (3) bekezdésében foglalt bejelentési kötelezettség alól, amennyiben a támogatott beruházásokat kizárólag fenntartható bioüzemanyagok előállítására használják fel.
+(4)[^153] A bioüzemanyag előállításához nyújtott környezetvédelmi beruházási támogatás csak annyiban mentesül az EUMSz 108. cikk (3) bekezdésében foglalt bejelentési kötelezettség alól, amennyiben a támogatott beruházásokat kizárólag fenntartható bioüzemanyagok előállítására használják fel.
 
-[^150]: A 92/Ly. § (3) bekezdése a 155/2010. (V. 4.) Korm. rendelet 46. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^151]: A 92/Ly. § (4) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés m) pontja szerint módosított szöveg.
+[^152]: A 92/Ly. § (3) bekezdése a 155/2010. (V. 4.) Korm. rendelet 46. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^153]: A 92/Ly. § (4) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés m) pontja szerint módosított szöveg.

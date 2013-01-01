@@ -4,9 +4,9 @@
 
 92/I. § (1) A támogatott beruházásnak meg kell felelnie a következő feltételek egyikének:
 
-a)[^148] a beruházás a közösségi szabványok túlteljesítése révén lehetővé teszi a projektgazdát, illetőleg a végső kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó közösségi szabványoknál szigorúbb kötelező nemzeti szabványok meglététől;
+a)[^150] a beruházás a közösségi szabványok túlteljesítése révén lehetővé teszi a projektgazdát, illetőleg a végső kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó közösségi szabványoknál szigorúbb kötelező nemzeti szabványok meglététől;
 
-b)[^149] a beruházás lehetővé teszi a projektgazda, illetőleg a végső kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését a közösségi szabványok hiányában.
+b)[^151] a beruházás lehetővé teszi a projektgazda, illetőleg a végső kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését a közösségi szabványok hiányában.
 
 (2) Nem nyújtható támogatás, ha a tervezett fejlesztések annak biztosítására irányulnak, hogy a társaság megfeleljen a már elfogadott, de még hatályban nem lévő közösségi szabványoknak.
 
@@ -32,5 +32,5 @@ c) szabványok hiányában a támogatható költségek azon beruházási költs�
 
 (8) Más vállalkozás hulladékának gazdálkodásával kapcsolatos beruházásokhoz nyújtott támogatás nem mentesülhet e cikk alapján.
 
-[^148]: A 92/I. § (1) bekezdés a) pontja a 155/2010. (V. 4.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^149]: A 92/I. § (1) bekezdés b) pontja a 155/2010. (V. 4.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^150]: A 92/I. § (1) bekezdés a) pontja a 155/2010. (V. 4.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^151]: A 92/I. § (1) bekezdés b) pontja a 155/2010. (V. 4.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
