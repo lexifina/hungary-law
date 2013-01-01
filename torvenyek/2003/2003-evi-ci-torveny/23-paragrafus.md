@@ -1,7 +1,0 @@
-## A kártérítés különös esetei
-
-23. § (1) Belföldi postai szolgáltatás keretében a garantált kézbesítési idejű és egyben értéknyilvánított postai küldemény megsemmisülése vagy teljes elveszése esetén a postai szolgáltató a 21. § a) pontjában meghatározott kártérítési összeg és a 22. § (1) bekezdése alapján meghatározott kártérítési átalány összege közül a nagyobb összeget köteles kártérítésként megfizetni.
-
-(2) Belföldi postai szolgáltatás keretében a garantált kézbesítési idejű, de nem értéknyilvánított küldemény megsemmisülése vagy teljes elveszése esetén a fizetendő kártérítést a küldemény megsemmisülése vagy teljes elveszése folytán keletkezett kár alapulvételével kell meghatározni, a kártérítés összege azonban nem lehet kevesebb, mint a 22. § (1) bekezdése szerint meghatározott kártérítési átalány összege.
-
-(3) Ha belföldi postai szolgáltatás keretében a garantált kézbesítési idejű és egyben értéknyilvánított postai küldemény részlegesen elvész vagy megsérül, a megmaradt küldeményrészt vagy a sérült küldeményt pedig a postai szolgáltató késedelmesen kézbesíti, a szolgáltatónak a késedelmes teljesítés miatt is, és a postai küldemény részleges elveszése, illetve megsérülése miatt is kártérítést kell fizetnie. A kártérítés összege az értéknyilvánításban megjelölt teljes érték [21. § a) pontja] és a késedelem miatt fizetendő kártérítési átalány összege [22. § (1) bek.] közül a nagyobbik összeg erejéig terjedhet.
