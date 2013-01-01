@@ -12,6 +12,6 @@
 
 (4) Az (1)–(3) bekezdés szerint jóváhagyott programokat az 53. §-ban foglalt eljárás szerint az MgSzH Központ hozzáférhetővé teszi.
 
-(5)[^20] A programoknak az (1)–(3) bekezdés szerinti jóváhagyása időpontjától a programok hatálya alá tartozó területekre a 15–24/A. §-ban, a 27–38. §-ban, valamint a 39. § (1) bekezdésében a betegségtől mentes területekkel kapcsolatban előírt követelményeket és intézkedéseket kell alkalmazni.
+(5)[^44] A programoknak az (1)–(3) bekezdés szerinti jóváhagyása időpontjától a programok hatálya alá tartozó területekre a 15–24/A. §-ban, a 27–38. §-ban, valamint a 39. § (1) bekezdésében a betegségtől mentes területekkel kapcsolatban előírt követelményeket és intézkedéseket kell alkalmazni.
 
-[^20]: A 46. § (5) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 11. §-ával megállapított szöveg.
+[^44]: A 46. § (5) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 11. §-ával megállapított szöveg.

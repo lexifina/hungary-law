@@ -2,4 +2,6 @@
 
 (2) Az elszigetelési területen belüli vízterületekről betegségre fogékony víziállatot kivinni vagy oda bevinni tilos.
 
-(3) Az elszigetelési területen használt eszközöket csak a kerületi főállatorvos engedélyével lehet kivinni. Az engedély csak akkor adható meg, ha a kivinni kívánt tárgyat fertőtlenítették.
+(3)[^29] Az elszigetelési területen használt eszközöket csak a járási főállatorvos engedélyével lehet kivinni. Az engedély csak akkor adható meg, ha a kivinni kívánt tárgyat fertőtlenítették.
+
+[^29]: A 32. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.

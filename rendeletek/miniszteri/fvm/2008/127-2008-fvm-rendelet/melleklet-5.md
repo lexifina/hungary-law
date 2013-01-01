@@ -18,13 +18,13 @@
 
 ## 1.2. Az 1.1. pont a) alpontjában említett biológiai biztonsági intézkedések legalább a következőket tartalmazzák:
 
-## a) a betegség bejelentése a hatósági állatorvos, a kerületi főállatorvos vagy az MgSzH területi szerve felé kötelező, beleértve a gyanú bejelentését is,
+## a)[^51] a betegség bejelentése a hatósági állatorvos, a járási főállatorvos vagy az MgSzH területi szerve felé kötelező, beleértve a gyanú bejelentését is,
 
 ## b) az MgSzH-ban a betegséggel kapcsolatos hatékony vizsgálat elvégzését, annak jelentését és különösen az alábbiakat lehetővé tévő, a betegség korai kimutatására vonatkozó országos rendszer működik:
 
 ## 1. egy betegség, új betegség, vagy megnövekedett mértékű pusztulás gyanújára utaló klinikai tünetek gyors felismerése a gazdaságokban vagy puhatestű-tenyésztési területeken és a vadon élő állatok között,
 
-## 2. az esemény gyors közlése a hatósági állatorvos, a kerületi főállatorvos vagy az MgSzH területi szerve felé abból a célból, hogy a diagnosztikai vizsgálat minimális késedelemmel megkezdődjön.
+## 2.[^52] az esemény gyors közlése a hatósági állatorvos, a járási főállatorvos vagy az MgSzH területi szerve felé abból a célból, hogy a diagnosztikai vizsgálat minimális késedelemmel megkezdődjön.
 
 ## 1.3. Az 1.2. pont b) alpontjában említett, a betegség korai kimutatására vonatkozó rendszernek legalább a következőket kell tartalmaznia:
 
@@ -119,3 +119,6 @@
 ## c) a tenyésztett víziállatok, ikrák vagy ivarsejtek behozatala előtt a gazdaságot megtisztították és fertőtlenítették, és szükség szerint pihentetési időszakot alkalmaztak.
 
 5. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
+
+[^51]: A 4. számú melléklet I. rész 1. pont 1.2. alpont a) alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
+[^52]: A 4. számú melléklet I. rész 1. pont 1.2. alpont b) alpontjának 2. alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.

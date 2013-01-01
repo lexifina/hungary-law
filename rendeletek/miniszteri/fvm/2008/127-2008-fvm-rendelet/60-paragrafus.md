@@ -10,7 +10,7 @@ a) 5. §-ának (2) bekezdését,
 
 b) 8. §-a (1) bekezdésének a)–b) pontjait és (3) bekezdésének b) pontját,
 
-c)[^23] 10. §-ának (1) bekezdését és (3) bekezdésének a)–b) pontját,
+c)[^47] 10. §-ának (1) bekezdését és (3) bekezdésének a)–b) pontját,
 
 d) 16. §-a (1) bekezdésének b) pontját, (3) bekezdését és (5) bekezdésének b) pontját,
 
@@ -34,4 +34,4 @@ m) 38. §-ának (1) bekezdését, valamint
 
 n) 40. §-ának (20) bekezdését
 
-[^23]: A 60. § (2) bekezdés c) pontja a 106/2009. (VIII. 14.) FVM rendelet 13. §-ával megállapított szöveg.
+[^47]: A 60. § (2) bekezdés c) pontja a 106/2009. (VIII. 14.) FVM rendelet 13. §-ával megállapított szöveg.

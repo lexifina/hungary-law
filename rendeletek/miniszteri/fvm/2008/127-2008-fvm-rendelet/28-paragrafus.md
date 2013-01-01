@@ -1,6 +1,6 @@
 ## Járványügyi vizsgálat (nyomozás)
 
-28. § (1) A kerületi főállatorvos az adott betegség tekintetében lefolytatja a 27. § (1) bekezdése c) pontjának 3. alpontjával összhangban megindított járványügyi vizsgálatot, amennyiben a 27. § (1) bekezdése b) pontjában meghatározott vizsgálat kimutatja a következők jelenlétét:
+28. § (1)[^24] A járási főállatorvos az adott betegség tekintetében lefolytatja a 27. § (1) bekezdése c) pontjának 3. alpontjával összhangban megindított járványügyi vizsgálatot, amennyiben a 27. § (1) bekezdése b) pontjában meghatározott vizsgálat kimutatja a következők jelenlétét:
 
 a) a 3. számú mellékletben felsorolt valamely egzotikus betegség, vagy
 
@@ -19,3 +19,5 @@ c) azon víziállatok ikrái, ivadékai, járművek, anyagok, személyek, amelye
 (4) Nagyobb vízgyűjtő medencék esetében az MgSzH területi szerve határozhat úgy, hogy a 27. § alkalmazását a fertőzésre gyanús gazdaságot körülvevő kisebb területre korlátozza, amennyiben úgy véli, hogy ez a kisebb terület elég nagy annak biztosításához, hogy a betegség ne terjedjen el.
 
 (5) Amennyiben szükséges, az országos főállatorvos tájékoztatja a szomszédos tagállamok vagy harmadik országok illetékes hatóságait a betegség gyanújáról.
+
+[^24]: A 28. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
