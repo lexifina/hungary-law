@@ -1,3 +1,0 @@
-## 6. §[^6] Az állatok mozgatására, elszállásolására, féken tartására, kábítására, levágására vagy leölésére csak az ilyen feladatok kíméletes és eredményes végrehajtásához az e rendeletben meghatározott ismeretekkel és gyakorlattal rendelkező személyek foglalkoztathatók. A vágóhíd tulajdonosa köteles gondoskodni arról, hogy az ott alkalmazott személy rendelkezzen a szükséges képesítéssel, gyakorlattal és szakmai tudással. Ennek igazolásául dokumentációt kell vezetni, melyet a hatósági állatorvos is köteles ellenőrizni.
-
-[^6]: A 6. § a 26/2002. (IV. 13.) FVM rendelet 5. §-ával megállapított szöveg.
