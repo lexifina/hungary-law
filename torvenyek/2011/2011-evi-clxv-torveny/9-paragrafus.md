@@ -24,7 +24,9 @@ f) véleményt nyilvánít az e törvény hatálya alá tartozó tevékenységek
 
 g) az információs önrendelkezési jogról és az információszabadságról szóló törvény adatvédelmi szabályai megtartásával a nyilvántartásában szereplő adatokról – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat, valamint
 
-h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezetekkel.
+h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezetekkel,
+
+i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja.
 
 (3) Az Országos Polgárőr Szövetség működési, elhelyezési feltételeit az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött együttműködési megállapodásban meghatározott módon az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve vagy a megyei (fővárosi) rendőr-főkapitányság biztosíthatja.
 

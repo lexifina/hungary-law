@@ -20,6 +20,8 @@ g) az önálló, valamint közös feladat- vagy szolgálatellátás útján az e
 
 h) a polgárőr egyesület feladataival összefüggő oktatási, kulturális, ismeretterjesztő tevékenységben, valamint
 
-i) a körözött tárgyak, személyek és holttestek azonosításában és felkutatásában.
+i) a körözött tárgyak, személyek és holttestek azonosításában és felkutatásában,
+
+j) a közforgalmú vasúti személyszállítási szolgáltatás rendjének biztosításában.
 
 (3) A polgárőr egyesület (1) bekezdésben meghatározott alapfeladatait más társadalmi szervezet nem végezheti, ilyen célra más társadalmi szervezet nem alapítható.

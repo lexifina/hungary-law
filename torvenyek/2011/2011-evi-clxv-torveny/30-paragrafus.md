@@ -4,7 +4,7 @@
 
 (2) A bejegyzett és működő polgárőr szervezetek 2012. december 31-ig kötelesek az e törvényben foglaltaknak megfelelni.
 
-(3) A 26. § (1) bekezdés b) és c) pontja szerinti ruházatot vagy annak fedezetét a központi költségvetésben – az e törvénynek megfelelően átalakult, e törvény szerint működő polgárőr egyesületek tagja vonatkozásában – 2013. január 1-jét követően kell biztosítani. Az új formaruhák biztosításáig az e törvény hatálybalépését megelőzően használt formaruhák tovább használhatók, amennyiben megfelelnek a 15. § (3) bekezdésében foglalt követelményeknek.
+(3) A 26. § (1) bekezdés b) és c) pontja szerinti ruházat vagy annak fedezete a központi költségvetésben – az e törvénynek megfelelően átalakult, e törvény szerint működő polgárőr egyesületek tagja vonatkozásában – 2013. január 1-jét követően biztosítható. Az új formaruhák biztosításáig az e törvény hatálybalépését megelőzően használt formaruhák tovább használhatók, amennyiben megfelelnek a 15. § (3) bekezdésében foglalt követelményeknek.
 
 (4) Az Országos Polgárőr Szövetség az e törvény szerint működő polgárőr egyesületek tagjainak a polgárőr igazolványokat 2013. július 1-jéig köteles kiadni. Az új polgárőr igazolványok kiadásáig az e törvény hatálybalépését megelőzően, az Országos Polgárőr Szövetség által kiadott polgárőr igazolványok tovább használhatók.
 
