@@ -1,6 +1,6 @@
 ## 4. A felhasználás nyomonkövetése és ellenőrzése
 
-9. § (1) Az inaktivált telepspecifikus vakcinák felhasználását a megyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi igazgatóságának kerületi állategészségügyi és élelmiszer-ellenőrző hivatala ellenőrzi.
+9. § (1)[^1] Az inaktivált telepspecifikus vakcinák felhasználását a megyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi igazgatóságának járási állategészségügyi és élelmiszer-ellenőrző hivatal ellenőrzi.
 
 (2) Az inaktivált telepspecifikus vakcinák felhasználásának dokumentálására és annak ellenőrzésére az állatgyógyászati készítményekre vonatkozó, az állatgyógyászati termékekről szóló miniszteri rendelet szerinti szabályok érvényesek.
 
@@ -13,3 +13,5 @@
 (6) Az inaktivált telepspecifikus vakcina nem reklámozható, de az előállítására irányuló tevékenységre vonatkozó tájékoztatás közzétehető.
 
 (7) Az inaktivált telepspecifikus vakcina vonatkozásában elkövetett jogszabálysértés esetén az állatgyógyászati készítményekre vonatkozó, az állatgyógyászati termékekről szóló miniszteri rendelet szerinti szankciók alkalmazandók.
+
+[^1]: A 9. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 61. §-a szerint módosított szöveg.
