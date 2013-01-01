@@ -8,6 +8,8 @@ b) művelés alól kivett területként nyilvántartott olyan terület (ide nem 
 
 c) művelés alól kivett területként nyilvántartott olyan terület, amely a Nemzeti Földalapba tartozó földrészlet mező-, erdőgazdasági tevékenységét szolgálja, vagy ahhoz szükséges.
 
+d) művelés alól kivett, honvédelmi célra feleslegessé nyilvánított területként nyilvántartott földrészlet.
+
 (2) Az (1) bekezdésben foglaltakon túl a Nemzeti Földalap részét képezik az (1) bekezdésben meghatározott területekhez kapcsolódó vagyoni értékű jogok is.
 
 (2a) E törvény alkalmazásában földrészletnek minősül az (1) bekezdésben meghatározott terület, függetlenül attól, hogy az az ingatlan-nyilvántartásban önálló földrészletként vagy a földrészlet alrészleteként van nyilvántartva.

@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2012-04-14 | 2012. évi XVIII. törvény | 2010-87-00-00.8 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2010-87-00-00.9 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2010-87-00-00.10 |
+| 2013-01-01 | 2012. évi CCXIII. törvény | 2010-87-00-00.11 |

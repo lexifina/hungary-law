@@ -4,13 +4,15 @@ a) nyilvános pályázat vagy árverés útján történő eladással,
 
 b) nyilvános pályázat útján történő haszonbérbe adással,
 
-c) nyilvános pályázat útján történő vagyonkezelésbe adással,
+c) vagyonkezelésbe adással,
 
 d) cserével
 
 hasznosítja.
 
 (1a) A termőföldről szóló törvény szerinti termőföld vagy tanya haszonbérbe adása során a jogszabály alapján fennálló előhaszonbérleti jog nem gyakorolható.
+
+(1b) A termőföldről szóló törvénynek a közös tulajdonban álló termőföldek használatára vonatkozó szabályait – ide nem értve a használati megosztásról szóló megállapodásra vonatkozó rendelkezéseket – nem kell alkalmazni az állam tulajdoni hányadának megfelelő területnek pályáztatás útján történő haszonbérbe adása során.
 
 (2) Az eladás, a haszonbérbe adás, és a csere során a földbirtok-politikai irányelveknek megfelelően kell eljárni, valamint előnyben kell részesíteni az élethivatásszerűen mezőgazdasági tevékenységet folytató személyeket.
 

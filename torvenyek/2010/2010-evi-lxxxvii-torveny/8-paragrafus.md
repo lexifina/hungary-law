@@ -10,7 +10,7 @@ d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcs
 
 e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrészlet vagy földrészletek tulajdonjogának az állam javára történő megszerzésével kapcsolatos ügyekben;
 
-f) dönt a 21. § (3)–(6) bekezdése szerinti jogügyletekről;
+f) dönt a 21. § (2)–(6) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri az 1 millió forintot;
 
 g) véleményezi Nemzeti Földalap helyzetéről és az NFA tevékenységéről készült éves országgyűlési beszámoló tervezetét.
 
