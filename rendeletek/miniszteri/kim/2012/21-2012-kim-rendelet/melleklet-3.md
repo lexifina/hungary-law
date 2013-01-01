@@ -1,4 +1,4 @@
-## A gazdasági szervezetek gazdálkodási forma szerinti osztályozása (GFO)
+| A gazdasági szervezetek gazdálkodási forma szerinti osztályozása (GFO) |
 
 | GFO'2012 kód | GFO'2012 megnevezés |
 
@@ -90,7 +90,7 @@
 
 |  |  | 322 | Helyi önkormányzati költségvetési szerv |
 
-|  |  | 325 | Polgármesteri hivatal (költségvetési szerv) |
+|  |  | 325 | Önkormányzati hivatal (költségvetési szerv) |
 
 |  |  | 326 | Többcélú kistérségi társulás |
 
@@ -136,7 +136,7 @@
 
 |  |  | 382 | Költségvetési rend szerint gazdálkodó, önkormányzati költségvetési körbe tartozó szerv |
 
-|  |  | 383 | Állami felsőoktatási intézmény által fenntartott közoktatási, köznevelési intézmény |
+|  | 383 | Állami felsőoktatási intézmény által fenntartott közoktatási, köznevelési intézmény |
 
 |  | 39 |  | Költségvetési technikai kódok |
 
@@ -152,11 +152,13 @@
 
 |  |  | 396 | Nemzeti együttműködési Alap |
 
+|  |  | 397 | Járási hivatalok |
+
 | 5 |  |  | Jogi személyiségű nonprofit szervezet |
 
 | 5, 6 |  |  | Nonprofit és egyéb nem nyereségérdekelt szervezet |
 
-|  | 51-59, 62, 69 | Statisztikai nonprofit szervezetek |
+|  | 51-59, 62, 69Statisztikai nonprofit szervezetek |
 
 |  | 51-53 |  | Egyesület |
 
@@ -164,7 +166,7 @@
 
 |  |  | 511 | Párt |
 
-|  | 52 |  | Szövetség, az egyesület nem különös formái |
+|  | 52 |  | Szövetség, és más egyesületi formák |
 
 |  |  | 521 | Sportegyesület |
 
@@ -260,7 +262,7 @@
 
 |  |  | 699 | Egyéb, jogi személyiség nélküli nonprofit szervezet |
 
-| 7, 8, 9 |  | Átmeneti és technikai kódok |
+| 7, 8, 9 |  |  | Átmeneti és technikai kódok |
 
 | 7 |  |  | Egyéb gazdasági szervezet |
 
@@ -324,7 +326,7 @@
 
 |  |  | 942 | Egyéb területen kívüli szervezet |
 
-|  | 95 |  | Önkormányzatok jogi személyiség nélküli társulása, európai területi együttműködési csoportosulás |
+|  | 95 | Önkormányzatok jogi személyiség nélküli társulása, európai területi együttműködési csoportosulás |
 
 |  |  | 951 | Önkormányzatok jogi személyiség nélküli társulása |
 

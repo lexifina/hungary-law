@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-21-20-2
 | --- | --- | --- |
 | 2012-05-01 | 2012-21-20-2T.1 | 21/2012. (IV. 16.) KIM rendelet |
 | 2012-05-02 | 2012-21-20-2T.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2012-21-20-2T.3 | 50/2012. (XII. 4.) KIM rendelet |
