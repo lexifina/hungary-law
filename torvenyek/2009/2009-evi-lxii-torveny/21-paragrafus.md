@@ -8,6 +8,6 @@
 
 (5) A biztosító köteles a szerződés megszűnéséről 15 napon belül az üzemben tartónak igazolható módon értesítést küldeni, amennyiben a szerződés megszűnése díjnemfizetés miatt következett be.
 
-(6) Ha a szerződés díjnemfizetés miatti megszűnése az üzemben tartó önhibáján kívül eső okból következik be, az üzemben tartó a megszűnés tudomására jutásától számított 15 napon belül, de legkésőbb a megszűnést követő 2 hónapon belül, kizárólag az önhiba hiányát alátámasztó tények hitelt érdemlő igazolásával kezdeményezheti a jövőre nézve – egy adott biztosítási időszakon belül – az eredetivel egyező szerződéses állapot helyreállítását.
+(6) Az 5. § (3) bekezdésében meghatározott esetben a szerződő fél a szerződés megkötésekor köteles megfizetni az újrakötött szerződés vonatkozásában az adott biztosítási időszak hátralévő részére járó díjat, és – amennyiben még nem fizette meg – a díjnemfizetéssel megszűnt szerződés vonatkozásában a türelmi időre járó díjat.
 
-(7) Az üzemben tartó a szerződéses állapot (6) bekezdés szerinti helyreállítására akkor jogosult, ha a szerződés megszűnéséig esedékessé vált díjat a biztosítónak megfizeti, és a szerződés díjnemfizetéssel történő megszűnését követően a szerződéses állapot helyreállításáig a gépjármű nem vett részt a közúti forgalomban, illetve azzal kárt nem okoztak.
+(7) A biztosító köteles a szerződés (4) bekezdés szerinti díjnemfizetés miatt bekövetkező megszűnése esetén a kötvénynyilvántartó szerv felé a 49. § alapján fennálló értesítési kötelezettségének a szerződés megszűnésétől számított nyolc munkanapon belül eleget tenni.

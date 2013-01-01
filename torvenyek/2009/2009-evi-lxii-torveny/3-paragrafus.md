@@ -10,13 +10,15 @@
 
 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
 
-5. díjtarifa: külön rendeletben meghatározott gépjármű-kategóriánként, és – a flotta kivételével – bonus-malus osztályonként, egy meghatározott naptári évre vonatkozóan a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
+5. díjtarifa: miniszteri rendeletben meghatározott gépjármű-kategóriánként és – a flotta kivételével – bonus-malus osztályonként a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
 
 6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
 
-7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, valamint az üzemben tartó önhibáján kívül eső, hitelt érdemlően igazolt okból bekövetkező díjnemfizetés időtartamának kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
+7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
 
 8. forgalmi engedély: az állandó vagy ideiglenes forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a lassú jármű és a négykerekű segédmotoros kerékpár (quad) igazolólapja;
+
+8/A. gazdasági totálkár: a káresemény következtében károsult gépjármű megjavíttatása gazdaságilag nem indokolható, mivel annak javítási, valamint a kár elhárításával kapcsolatos egyéb költségei, illetve a javítást követően esetlegesen fennmaradó értékcsökkenés összege a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét meghaladja.
 
 9. gépjárműflotta: egy adott biztosítónál ugyanazon – egyéni vállalkozó, jogi személy, jogi személyiség nélküli gazdasági társaság – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma eléri az ötöt;
 
@@ -42,7 +44,7 @@
 
 20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű üzemeltetésével kapcsolatban felmerült kárigényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
 
-21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában biztosítási fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a Bit. szerinti felszámolási eljárás megindult;
+21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában e törvény szerinti biztosítási szerződés alapján fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a biztosító tevékenységét engedélyező tagállamban felszámolási eljárás megindult;
 
 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
 

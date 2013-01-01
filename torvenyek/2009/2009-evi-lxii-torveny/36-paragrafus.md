@@ -2,7 +2,7 @@
 
 (2) A vagyon- és felelősségbiztosításból, valamint a társadalombiztosításból eredő megtérítési követeléseket a Kártalanítási Számla nem fedezi.
 
-(3) A Kártalanítási Számla kezelőjének kártalanítási kötelezettsége nem terjed ki az ismeretlen gépjárművel a károsult gépjárműben, az útban, az út tartozékát képező közlekedési műtárgyakban, az elektromos és a hírközlési berendezésekben és egyéb közművekben, ezek tartozékaiban, valamint a reklámhordozó eszközökben okozott károkra.
+(3) A Kártalanítási Számla kezelőjének kártalanítási kötelezettsége nem terjed ki az ismeretlen gépjárművel a károsult gépjárműben, az útban, az út tartozékát képező közlekedési műtárgyakban, az elektromos és a hírközlési berendezésekben és egyéb közművekben, ezek tartozékaiban, a reklámhordozó eszközökben, továbbá az egyéb vagyontárgyakban okozott károkra.
 
 (4) Ha az ismeretlen gépjárművel okozott baleset halállal vagy súlyos személyi sérüléssel jár, a Kártalanítási Számla kezelője megtéríti a károsult gépjárműben okozott károkat is.
 

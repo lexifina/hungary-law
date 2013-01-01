@@ -12,4 +12,4 @@
 
 (6) Ha az üzemben tartó az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a 21. § (4) bekezdésében meghatározott rendelkezéseket kell alkalmazni.
 
-(7) A fedezetlenségi díjnak – a díjhirdetést követő naptári évre vonatkozó – egy naptári évre számított tarifáját gépjármű-kategóriánként minden év október 30-ig a Kártalanítási Számla kezelője hirdeti meg két országos napilapban és honlapján.
+(7) A Kártalanítási Számla kezelője a fedezetlenségi díjnak – a díjhirdetést követő naptári évre vonatkozó, a Kártalanítási Számla általi kártérítések és a kártérítésekhez kapcsolódó eljárási költségek alapján egy naptári évre számított – tarifáját gépjármű-kategóriánként, legkésőbb a naptári év végét megelőző negyvenötödik napig a Felügyelet elnöke által meghatározott módon a Felügyelet honlapján meghirdeti, továbbá ezzel egyidejűleg a MABISZ honlapján közzéteszi. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.

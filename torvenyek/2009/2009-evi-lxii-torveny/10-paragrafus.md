@@ -1,1 +1,1 @@
-10. § A biztosítási szerződés hatálya alatt ugyanarra a biztosítási időszakra kötött további biztosítási szerződés érvénytelen.
+10. § Ugyanarra a biztosítási időszakra vagy ugyanazon biztosítási időszak egy részére kötött további biztosítási szerződés érvénytelen.

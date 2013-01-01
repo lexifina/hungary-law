@@ -2,7 +2,7 @@
 
 a) a 46. § (2) bekezdésének b), c) és e) pontjaiban foglalt adatok tekintetében – az e törvényben meghatározott feladatai ellátásához – a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 
-b) a 46. § (2) bekezdésében foglalt adatok tekintetében – a biztosítással nem rendelkező vagy ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése céljából – a Kártalanítási Számla kezelője, az adatigénylés időpontja szerinti és a káresemény időpontja szerinti adatokra vonatkozóan;
+b) a 46. § (2) bekezdésében foglalt adatok tekintetében – a biztosítással nem rendelkező vagy ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése és a károsult követelésének kielégítésével kapcsolatban felmerült összes ráfordítása és költsége visszakövetelése céljából – a Kártalanítási Számla kezelője, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 
 c) a 46. § (2) bekezdésében foglalt adatok tekintetében – az e törvényben meghatározott koordinációs, kárrendezési és elszámolási feladatok ellátása céljából – a Nemzeti Iroda, a káresemény időpontja szerinti adatokra vonatkozóan;
 

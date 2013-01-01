@@ -2,8 +2,8 @@
 
 11. § (1) Gépjárműflottára kötött szerződés esetén a szerződő felek az e törvényben meghatározottaktól eltérhetnek a szerződés létrejöttét, megszűnését, a biztosítási időszakot, a díjfizetést illetően.
 
-(2) A biztosító köteles a flottára kötött szerződés vonatkozásában – az egyedi szerződéseket illető díjtarifa meghirdetésével egyidejűleg – a következő naptári évre vonatkozó díjtarifáját legalább két országos napilapban és a honlapján meghirdetni, amelyet nem változtathat meg.
+(2) A biztosító a díjat a flottára kötött szerződés vonatkozásában a biztosítási időszak, illetve tartam kezdő napján alkalmazandó díjtarifa alapján alakítja ki. A biztosító az így megállapított díjat az adott biztosítási időszak alatt nem változtathatja meg.
 
-(3) A biztosító a díjat a flottára kötött szerződés vonatkozásában a meghirdetett – időszak, illetve tartam kezdőnapján érvényben lévő – díjtarifa alapján alakítja ki és azt az adott biztosítási időszak alatt nem változtatja meg.
+(3) A biztosító köteles a flottára kötött szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Felügyelet elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
 
 (4) Gépjárműflottára a flottához tartozó gépjárművek kategóriáitól és fajtáitól függetlenül határozott tartamú szerződés is köthető.

@@ -4,11 +4,11 @@
 
 a) arról tájékoztatja a biztosítót, hogy a gépjármű a közúti forgalomban való részvételre közlekedésbiztonsági szempontból alkalmas, vagy
 
-b) a gépjárművet közlekedésbiztonsági szempontból a (3) bekezdésben meghatározott kivétellel műszakilag alkalmatlannak minősíti, és ennek alapján a gépjárművet a jegyző – a külön jogszabályban meghatározottak szerint – ideiglenesen kivonta a forgalomból.
+b) a gépjárművet közlekedésbiztonsági szempontból a (3) bekezdésben meghatározott kivétellel műszakilag alkalmatlannak minősíti, és ennek alapján a gépjárművet a járási hivatal – a külön jogszabályban meghatározottak szerint – ideiglenesen kivonta a forgalomból.
 
 (3) A (2) bekezdés b) pontja nem alkalmazható abban az esetben, ha a közlekedési hatóság a gépjármű műszaki vizsgálata eredményeként a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjárművet közlekedésbiztonsági szempontból véglegesen alkalmatlannak minősítette.
 
-(4) A biztosító az értékcsökkenés összegét csak abban az esetben fizetheti ki a károsult részére, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatta vagy a gépjárművet a jegyző – a külön jogszabályban meghatározottak szerint – végleg kivonta a forgalomból.
+(4) A biztosító az értékcsökkenés összegét csak abban az esetben fizetheti ki a károsult részére, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatta vagy a gépjárművet a járási hivatal – a külön jogszabályban meghatározottak szerint – végleg kivonta a forgalomból.
 
 (5) A károsult részére a biztosító nem fizetheti ki a 32/A. § (1) bekezdése szerint kalkulált nettó összeget, illetve az értékcsökkenés összegét, ha a közlekedési hatóság arról tájékoztatja, hogy az üzemben tartó az (1) bekezdésben foglalt értesítés alapján elrendelt műszaki vizsgálatra a gépjárművet nem mutatta be, és a műszaki vizsgálatára más módon sem került sor.
 
