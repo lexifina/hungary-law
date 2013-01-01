@@ -1,4 +1,4 @@
-## 12. §[^11]
+## 12. §[^10]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 10. § (10) és (11) bekezdése, valamint a 11. § (2) bekezdése 2016. január 1-jén lép hatályba.
 
-[^11]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
