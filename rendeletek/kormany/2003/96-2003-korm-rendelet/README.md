@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2012-04-28 | 2003-96-20-22.24 | 92/2012. (IV. 27.) Korm. rendelet |
 | 2012-06-01 | 2003-96-20-22.25 | 107/2012. (VI. 1.) Korm. rendelet |
 | 2012-07-01 | 2003-96-20-22.26 | 137/2012. (VI. 29.) Korm. rendelet |
+| 2013-01-01 | 2003-96-20-22.27 | 447/2012. (XII. 29.) Korm. rendelet |

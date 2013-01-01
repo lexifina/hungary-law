@@ -1,6 +1,6 @@
 ## Az egészségügyi szolgáltatás gyakorlásának ellenőrzése
 
-16. §[^53] (1) Az egészségügyi államigazgatási szerv – a 9. §-ban és 15. §-ban meghatározott ellenőrzésen kívül – előre meghatározott és közzétett ütemezés szerint végzi az egészségügyi szolgáltatók ellenőrzését, amelynek során vizsgálja a jogszabályban meghatározott személyi, tárgyi, szakmai minimumfeltételek, a szakmai szabályok, protokollok, illetve közegészségügyi előírások teljesítését.
+16. §[^63] (1)[^64] Az egészségügyi államigazgatási szerv – a 9. §-ban, a 13. §-ban és 15. §-ban meghatározott ellenőrzésen kívül – előre meghatározott és közzétett ütemezés szerint végzi az egészségügyi szolgáltatók ellenőrzését, amelynek során vizsgálja a jogszabályban meghatározott személyi, tárgyi, szakmai minimumfeltételek, a szakmai szabályok, protokollok, illetve közegészségügyi előírások teljesítését.
 
 (2) Az egészségügyi államigazgatási szerv, illetve a szakfelügyelet által tartott – a 9. §-ban és a 15. §-ban meghatározott ellenőrzést is ideértve – helyszíni ellenőrzés megállapításai vagy az egészségügyi szolgáltató képviselője által tett nyilatkozat alapján az engedélyező egészségügyi államigazgatási szerv a jogszabálysértés vagy szakmai szabályszegés jellegének, súlyának, az egészségügyi ellátásra nézve okozott sérelem nagyságának mérlegelésével megteszi a szükséges intézkedéseket, amelynek során az alábbi jogkövetkezményeket alkalmazhatja:
 
@@ -22,8 +22,10 @@ h) közfinanszírozott egészségügyi szolgáltatónak a működési engedély�
 
 (3) A (2) bekezdés e)–g) pontja szerinti felfüggesztés és a működési engedély visszavonása esetén az egészségügyi államigazgatási szerv az egészségügyi közszolgáltatást végző egészségügyi szolgáltató esetén dönt a betegellátás átmeneti biztosítása érdekében más egészségügyi szolgáltató kijelöléséről.
 
-(4) Az egészségügyi szolgáltató működését a szolgáltatás helye szerinti kistérségi népegészségügyi intézet akkor is ellenőrizheti, ha a szolgáltatásra jogosító működési engedélyt az Országos Tisztifőorvosi Hivatal adta ki. A kistérségi népegészségügyi intézet az ellenőrzésről készült jegyzőkönyv egy példányát haladéktalanul, de legfeljebb nyolc napon belül megküldi az engedélyt kiadó egészségügyi államigazgatási szerv részére.
+(4)[^65] Az egészségügyi szolgáltató működését a szolgáltatás helye szerinti járási népegészségügyi intézet akkor is ellenőrizheti, ha a szolgáltatásra jogosító működési engedélyt az Országos Tisztifőorvosi Hivatal adta ki. A járási népegészségügyi intézet az ellenőrzésről készült jegyzőkönyv egy példányát haladéktalanul, de legfeljebb nyolc napon belül megküldi az engedélyt kiadó egészségügyi államigazgatási szerv részére.
 
 (5) Az egészségügyi államigazgatási szerv a tapasztalt közegészségügyi hiányosságok esetén saját hatáskörben intézkedik, és erről értesíti a működési engedélyt kiadó egészségügyi államigazgatási szervet. Egyéb hiányosság esetén intézkedést kezdeményez a működési engedélyt kiadó egészségügyi államigazgatási szervnél.
 
-[^53]: A 16. § a 325/2011. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^63]: A 16. § a 325/2011. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^64]: A 16. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
+[^65]: A 16. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.

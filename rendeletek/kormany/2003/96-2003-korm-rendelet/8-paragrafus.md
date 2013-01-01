@@ -1,4 +1,4 @@
-8. §[^32] (1) A kérelemben fel kell tüntetni
+8. §[^35] (1) A kérelemben fel kell tüntetni
 
 a) a kérelmező telephelyét;
 
@@ -58,4 +58,4 @@ b) amennyiben a kérelmező egészségügyi szolgáltató már rendelkezik műk�
 
 (7) A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
-[^32]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^35]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
