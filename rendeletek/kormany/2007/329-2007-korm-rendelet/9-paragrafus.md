@@ -46,7 +46,9 @@ q)[^44] ellátja a bűnüldöző szervek nemzetközi együttműködéséről sz�
 
 r)[^45] feladatkörében eljárva közreműködik az Európai Unió különleges intervenciós egységével való együttműködés keretében a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott segítségnyújtás végrehajtásában,
 
-s)[^46] a Budapest Liszt Ferenc Nemzetközi Repülőtéren közreműködik a nemzetközi és belföldi polgári repülés elleni jogellenes cselekmények védelmével kapcsolatos feladatok ellátásában.
+s)[^46] a Budapest Liszt Ferenc Nemzetközi Repülőtéren közreműködik a nemzetközi és belföldi polgári repülés elleni jogellenes cselekmények védelmével kapcsolatos feladatok ellátásában,
+
+t)[^47] a titkos információgyűjtésre feljogosított bűnüldöző szervek felkérése alapján ellátja a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott határon átnyúló megfigyelésekkel kapcsolatos feladatokat.
 
 [^36]: A 8. §-t a 227/2012. (VIII. 23.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
 [^37]: A 9. § nyitó szövegrésze a 227/2012. (VIII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
@@ -59,3 +61,4 @@ s)[^46] a Budapest Liszt Ferenc Nemzetközi Repülőtéren közreműködik a nem
 [^44]: A 9. § q) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^45]: A 9. § r) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^46]: A 9. § s) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^47]: A 9. § t) pontját a 416/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
