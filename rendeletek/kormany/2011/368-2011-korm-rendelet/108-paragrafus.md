@@ -1,25 +1,26 @@
-## [Az Áht. 58. § (1) és (2) bekezdéséhez]
+## [Az Áht. 58. §-ához][^108]
 
-108. § (1) A Kincstár az Áht. 58. § (1) bekezdése szerinti felhívást a 101. § (4) bekezdésében foglalt benyújtási határidőt, az Áht. 58. § (2) bekezdése szerinti felhívást a vizsgálat befejezését követő tizenöt napon belül adja ki.
+108. §[^109] (1) Az Áht. 58. § (1) bekezdése szerinti közigazgatási hatósági ellenőrzést úgy kell megszervezni, hogy valamennyi helyi önkormányzatnál, helyi nemzetiségi önkormányzatnál a támogatás igénybevételének évében legalább egyszer sor kerüljön vizsgálat lefolytatására.
 
-(2) A felhívásnak tartalmaznia kell
+(2) Az ellenőrzés lefolytatható a támogatási jogcímek meghatározott körére vonatkozóan is.
 
-a) a helyi önkormányzat, helyi nemzetiségi önkormányzat, többcélú kistérségi társulás által jelzett, felhívással érintett mutatószámokat jogcímenként,
+(3) A Kincstár az Áht. 58. § (2) bekezdése szerinti végzést a vizsgálat befejezését követő tizenöt napon belül adja ki.
 
-b) a Kincstár által helyesnek tartott mutatószámokat,
+(4) A végzés tartalmazza
+
+a) a helyi önkormányzat, helyi nemzetiségi önkormányzat által jelzett érintett mutatószámokat jogcímenként,
+
+b) a Kincstár által megállapított mutatószámokat és az ezeket megalapozó adatokat,
 
 c) az eltérés indokait,
 
-d) felhívást
+d) kötelezést arra, hogy – arra vonatkozó lehetőség esetén – a soron következő módosítás során a helyi önkormányzat, helyi nemzetiségi önkormányzat feladatmutatóit módosítsa, és
 
-da) az Áht. 58. § (1) bekezdése szerinti esetben az adatszolgáltatás pontosítására és annak határidejére,
+e) tájékoztatást a végzésben foglaltak elmulasztásának jogkövetkezményeiről.
 
-db) az Áht. 58. § (2) bekezdése szerinti esetben arra, hogy a következő módosítási lehetőségnél a feladatmutatóikat módosítsák, illetve – ha évközi módosítási lehetőség már nincs, – a Kincstár által javasolt adatokat az év végi elszámolás során érvényesítsék, és
+(5) Ha a végzés meghozatalát követően nincs lehetőség a feladatmutatók módosítására, a Kincstár a végzésben meghatározott adatokat az Áht. 60. §-a szerinti vizsgálat során veszi figyelembe.
 
-e) tájékoztatást a javaslatban foglaltak elmulasztásának jogkövetkezményeiről.
+(6) A Kincstár az Áht. 58. § (3) bekezdése szerinti határozatot a (4) bekezdés d) pontja szerinti kötelezés elmulasztását követő harminc napon belül adja ki.
 
-(3) A felhívás címzettje a felhívásra adott válaszában jogcímenként nyilatkozik adatszolgáltatása módosításáról vagy eredeti adatszolgáltatása fenntartásáról.
-
-(4)[^35] A (3) bekezdés szerinti választ helyi önkormányzat esetén a polgármester és a jegyző, helyi nemzetiségi önkormányzat esetén az elnök és a jegyző, többcélú kistérségi társulás esetén az elnök és az Áht. 27. § (4) bekezdése szerint a többcélú kistérségi társulás gazdálkodási feladatait ellátó költségvetési szerv vezetője írja alá.
-
-[^35]: Az Ávr. 108. § (4) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^108]: Az Ávr. 108. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^109]: Az Ávr. 108. § a 413/2012. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.

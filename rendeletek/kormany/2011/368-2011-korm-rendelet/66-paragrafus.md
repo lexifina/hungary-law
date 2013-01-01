@@ -4,7 +4,7 @@
 
 ## [Az Áht. 48. § (1) bekezdéséhez]
 
-66. § (1) Az Áht. 48. § (1) bekezdése szerinti pályázati kiírást a támogató az internetes honlapján, a jogszabály által előírt, továbbá az általa szükségesnek tartott egyéb helyen teszi közzé. A pályázati kiírás megjelentetésének feltétele a támogatási konstrukció bejelentése a 92. § (2) bekezdésében foglaltak szerint.
+66. § (1)[^67] Az Áht. 48. § (1) bekezdése szerinti pályázati kiírást a támogató az internetes honlapján, a jogszabály által előírt, továbbá az általa szükségesnek tartott egyéb helyen teszi közzé. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 53. §-a szerint nyújtott költségvetési támogatások odaítélésének, valamint az Áht. 48. § (1) bekezdése szerinti pályázati kiírások megjelentetésének feltétele a támogatási konstrukció bejelentése a 92. § (2) bekezdésében foglaltak szerint.
 
 (2) A pályázati kiírás tartalmazza legalább
 
@@ -49,3 +49,5 @@ r) a támogató által szükségesnek tartott egyéb információkat.
 (4) A pályázati kiírásban jogszabály által nem rendezett kérdésekről is lehet rendelkezni. A pályázati kiírás és a megkötött támogatási szerződés ellentmondása esetén a támogatási szerződés rendelkezései irányadóak. Támogatói okirattal biztosított költségvetési támogatás esetén a kiadott támogatói okirat a pályázati kiírásban és a kedvezményezett előzetes nyilatkozataiban foglaltaktól nem térhet el.
 
 (5) Jogszabály eltérő rendelkezése hiányában a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetének előirányzatai terhére biztosított költségvetési támogatás az Áht. 48. § (1) bekezdése szerinti egyedi elbírálás útján nyújtott költségvetési támogatásnak minősül, amelyek esetén támogató a költségvetési támogatás felhasználására vonatkozó részletszabályok megalkotásáért felelős miniszter.
+
+[^67]: Az Ávr. 66. § (1) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 20. pontja szerint módosított szöveg.

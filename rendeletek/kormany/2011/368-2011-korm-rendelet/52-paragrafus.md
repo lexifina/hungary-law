@@ -4,9 +4,9 @@
 
 a) a költségvetési szerv,
 
-b) a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve, törvényben meghatározott feladatai ellátása érdekében ideértve a fővárosi és megyei kormányhivatalok szakigazgatási szervét is, és
+b)[^49] a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve, törvényben meghatározott feladatai ellátása érdekében ideértve a fővárosi és megyei kormányhivatalok szakigazgatási szervét is, a lebonyolító szerv számára rendelkezésre bocsátott összeg tekintetében a lebonyolító szerv, és
 
-c) a helyi önkormányzat, nemzetiségi önkormányzat, többcélú kistérségi társulás, jogi személyiségű társulás, térségi fejlesztési tanács
+c)[^50] a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács
 
 [az a)–c) pont e fejezet alkalmazásában a továbbiakban együtt: kötelezettséget vállaló szerv] nevében az a) és b) pont szerinti esetben a kötelezettséget vállaló szerv vezetője, vagy az általa írásban felhatalmazott, a (4) és (5) bekezdésben foglaltak kivételével a kötelezettséget vállaló szerv alkalmazásában álló személy, a c) pont szerinti esetben a (6)–(8) bekezdésben meghatározott személy (a továbbiakban: kötelezettségvállaló) írásban jogosult.
 
@@ -22,4 +22,8 @@ c) a helyi önkormányzat, nemzetiségi önkormányzat, többcélú kistérségi
 
 (7) A nemzetiségi önkormányzat kiadási előirányzatai terhére a nemzetiségi önkormányzat elnöke vagy az általa írásban felhatalmazott nemzetiségi önkormányzati képviselő jogosult kötelezettségvállalásra.
 
-(8) A többcélú kistérségi társulás, jogi személyiségű társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban felhatalmazott tagja vállalhat kötelezettséget.
+(8)[^51] A társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban felhatalmazott tagja vállalhat kötelezettséget.
+
+[^49]: Az Ávr. 52. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 13. pontja szerint módosított szöveg.
+[^50]: Az Ávr. 52. § (1) bekezdés c) pontja a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^51]: Az Ávr. 52. § (8) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 8. pontja szerint módosított szöveg.

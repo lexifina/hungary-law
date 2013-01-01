@@ -6,7 +6,7 @@ a) nevét, székhelyét, esetleges telephelyeit,
 
 b) az alapításáról rendelkező jogszabály teljes megjelölését, ha az alapításról jogszabály rendelkezett,
 
-c)[^2] közfeladatát és alaptevékenységét, továbbá ezek államháztartás szakfeladatrendje szerinti megjelölését, államháztartási szakágazati besorolását,
+c)[^7] közfeladatát és alaptevékenységét, továbbá ezek államháztartás szakfeladatrendje szerinti megjelölését, államháztartási szakágazati besorolását,
 
 d) illetékességét, működési körét,
 
@@ -30,4 +30,4 @@ c) megszűnésének időpontját vagy pontos feltételét, ha határozott időre
 
 (4) Az alapító okirat módosítása esetén el kell készíteni és a módosító okirathoz csatolni az egységes szerkezetbe foglalt alapító okiratot is.
 
-[^2]: Az Ávr. 5. § (1) bekezdés c) pontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^7]: Az Ávr. 5. § (1) bekezdés c) pontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

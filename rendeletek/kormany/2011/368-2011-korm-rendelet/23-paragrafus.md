@@ -12,8 +12,10 @@ a) a tartalék biztosításának célját, az elszámolás időpontját,
 
 b) az átcsoportosítás egyszeri vagy tartós jellegét, és
 
-c) az esetleges visszafizetési kötelezettséget és a visszafizetés időpontját.
+c)[^28] az esetleges visszatérítési kötelezettséget és a visszafizetés időpontját.
 
 (5) A Kormány egyedi határozata mellékletét a 2. melléklet szerinti formában kell elkészíteni.
 
 (6) A rendkívüli kormányzati intézkedésekre szolgáló tartalékból visszatérítési kötelezettséggel átcsoportosított előirányzat visszatérülését, valamint a bármely címen átcsoportosított előirányzat fel nem használt vagy nem rendeltetésszerűen felhasznált részét a Kincstár által megjelölt fizetési számlára kell befizetni, amellyel az adott évi rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzatát a Kormány megnövelheti.
+
+[^28]: Az Ávr. 23. § (4) bekezdés c) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 8. pontja szerint módosított szöveg.

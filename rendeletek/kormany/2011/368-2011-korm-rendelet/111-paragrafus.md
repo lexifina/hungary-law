@@ -1,3 +1,15 @@
-## [Az Áht. 59. § (3) bekezdéséhez]
+111. §[^113] (1) Ha az Áht. 59. § (2) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az ellenőrzés befejezésétől számított tizenöt napon belül átad vagy megküld az ellenőrzöttnek. A jegyzőkönyvre az átvételt követő tizenöt napon belül, írásban lehet észrevételt tenni.
 
-111. § Az Áht. 59. § (3) bekezdése szerinti jegyzőkönyvnek a 109. § (1) bekezdés a) és c) pontjában, valamint a 110. § (4) bekezdés a) és b) pontjában foglaltakat kell tartalmaznia. A jegyzőkönyvre egyebekben a 109. § (2)–(4) bekezdésében foglaltakat kell alkalmazni.
+(2) A jegyzőkönyvnek a következőket kell tartalmaznia:
+
+a) az eljáró közigazgatási szerv nevét, a jegyzőkönyv készítésének helyét és idejét, a vizsgált helyi önkormányzat, helyi nemzetiségi önkormányzat, költségvetési szerv nevét, székhelyét, a felülvizsgálat alapjául szolgáló dokumentumok felsorolását, az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat,
+
+b) az ellenőrök és a Kincstár illetékes vezetőjének aláírását, és
+
+c) a 110. § (4) bekezdés a) és b) pontjában foglaltakat.
+
+(3) Az ellenőrzöttnek a jegyzőkönyv megállapításaira tett észrevételeit részletesen, jogcímenként alá kell támasztania. A beérkezett észrevételek alapján a jegyzőkönyv megállapításait a Kincstár felülvizsgálja, és azokat szükség esetén végzésében módosítja.
+
+(4) Ha a vizsgálatra kizárólag a helyszínen kerül sor, elegendő az Áht. 59. § (3) bekezdése szerinti végzést meghozni, azzal, hogy a 110. § (4) bekezdésében meghatározottakon túl annak tartalmaznia kell a (2) bekezdésben foglaltakat.
+
+[^113]: Az Ávr. 111. § előtti alcímet hatályon kívül helyezte és a 111. §-t megállapította a 413/2012. (XII. 29.) Korm. rendelet 27. §-a.

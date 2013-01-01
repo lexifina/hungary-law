@@ -24,9 +24,9 @@ i) támogatási intenzitás: a támogatástartalom és az elszámolható költs�
 
 j) támogatási konstrukciók: a pályázati kiírás, program, egyedi költségvetési támogatás összefoglaló elnevezése,
 
-k) támogatott tevékenység: az európai uniós forrásból finanszírozott költségvetési támogatás esetén a projekt, egyéb költségvetési támogatás esetén az a jogszabályban, támogatói okiratban, támogatási szerződésben megjelölt tevékenység – ideértve a kedvezményezett működését is –, feladat, amely során felmerült költségek megtérítését a költségvetési támogatás részben vagy egészében biztosítja,
+k) támogatott tevékenység: az európai uniós forrásból finanszírozott költségvetési támogatás esetén a projekt, egyéb költségvetési támogatás esetén az a jogszabályban, támogatói okiratban, támogatási szerződésben megjelölt tevékenység – ideértve a kedvezményezett működését is –, feladat, amely során felmerült költségek megtérítését a költségvetési támogatás részben vagy egészében biztosítja.
 
-l)[^1] körjegyzőség irányító szerv és annak vezetője: a 25. § (2) bekezdésében meghatározott kivétellel a körjegyzőség székhelye szerinti helyi önkormányzat és annak polgármestere.
+l)[^1]
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerint kell értelmezni.
 
@@ -34,8 +34,9 @@ l)[^1] körjegyzőség irányító szerv és annak vezetője: a 25. § (2) bekez
 
 a) alapító, irányító szervről rendelkezik, azon az Áht. 9. § (7) bekezdése szerint a költségvetési szerv felett felügyeleti hatáskörrel rendelkező szervet,
 
-b) jegyzőről rendelkezik, azon a főjegyzőt és a körjegyzőt
+b)[^2] jegyzőről rendelkezik, azon a főjegyzőt
 
 is érteni kell, ha törvény, vagy e rendelet egyéb rendelkezéséből kifejezetten más nem következik.
 
-[^1]: Az Ávr. 1. § (1) bekezdés l) pontját az 56/2012. (III. 30.) Korm. rendelet 1. §-a iktatta be.
+[^1]: Az Ávr. 1. § (1) bekezdés l) pontját az 56/2012. (III. 30.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 1. pontja.
+[^2]: Az Ávr. 1. § (3) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 1. pontja szerint módosított szöveg.

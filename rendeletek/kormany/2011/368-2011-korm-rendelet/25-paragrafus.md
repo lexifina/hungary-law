@@ -1,5 +1,3 @@
-25. § (1) Ha a helyi önkormányzatok tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladatait körjegyzőség látja el, a körjegyzőség – mint költségvetési szerv – bevételei, kiadásai, engedélyezett létszáma a körjegyzőség székhelye szerinti helyi önkormányzat költségvetési rendeletében szerepel.
+25. §[^33]
 
-(2) A körjegyzőség bevételeiről, kiadásairól, engedélyezett létszámáról az érdekelt helyi önkormányzatok – a költségvetési rendeletüket tárgyaló képviselő-testületi ülés előtt – együttes testületi ülésen döntenek.
-
-(3) A körjegyzőségben részt vevő helyi önkormányzatok mindegyike önálló költségvetési rendeletet alkot, amelyet a körjegyző készít elő.
+[^33]: Az Ávr. 25. §-t a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 6. pontja hatályon kívül helyezte.

@@ -46,6 +46,6 @@
 
 ## x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni.
 
-3. melléklet a 368/2011. (XII. 31.) Korm. rendelethez
+3. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^186]
 
-Azonos célú előirányzatok
+[^186]: Az Ávr. 3. melléklet a 413/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
