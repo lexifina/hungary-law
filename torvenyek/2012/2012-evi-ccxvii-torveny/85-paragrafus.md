@@ -1,0 +1,3 @@
+## „7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, és egyéb éghajlatváltozással kapcsolatos jelentéstételt a miniszter teljesíti a 601/2012/EU bizottsági rendelet és az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat rendelkezéseinek, valamint a nemzetközi kötelezettségeknek megfelelően.”
+
+85. § Az Éhvt. 9. § (1) bekezdése helyébe a következő rendelkezés lép:

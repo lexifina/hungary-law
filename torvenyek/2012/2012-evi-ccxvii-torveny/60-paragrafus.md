@@ -1,3 +1,0 @@
-## „(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a tájrendezés – településrendezési eszközökben foglaltaknak megfelelő – teljesítését.”
-
-60. § A Bt. „Üzemeltetési szabályok” alcíme helyébe a következő rendelkezés lép:

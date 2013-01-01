@@ -1,3 +1,0 @@
-## „(13) Szénhidrogének esetében egy bányavállalkozó kutatási joga vagy kutatási engedélye összesen legfeljebb 12 000 km2 hagyományos kitermelésű szénhidrogén kutatási területre, továbbá összesen 12 000 km2 nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén kutatási területre terjedhet ki. A kutatási terület megállapítása során a kutatási jogot vagy a kutatási engedélyt megszerezni kívánó bányavállalkozóban a Polgári Törvénykönyv szerinti többségi befolyással rendelkező bányavállalkozó kutatási területét is figyelembe kell venni.”
-
-54. § A Bt. a 22/B. §-át követően a következő alcímmel és 22/C. §-sal egészül ki:

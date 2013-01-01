@@ -1,3 +1,5 @@
+## „(4) E törvénynek az Ükt. 129. § (3) bekezdésével megállapított 120. § l) pontját a 2013. január 1-je után megkezdett közbeszerzési eljárásokra kell alkalmazni.”
+
 1. melléklet a 2012. évi CCXVII. törvényhez
 
 Üvegházhatású gázkibocsátással járó kibocsátási engedélyköteles és légiközlekedési tevékenységek

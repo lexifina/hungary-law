@@ -1,0 +1,1 @@
+27. § A magyar állam tulajdonában lévő ÜHG-egységek vagyonkezelésére, értékesítésére és az értékesítésből származó bevételek felhasználására vonatkozó részletes szabályokat a Kormány e törvény végrehajtására kiadott rendeletében állapítja meg.
