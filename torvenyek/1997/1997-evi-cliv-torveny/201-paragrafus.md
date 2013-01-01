@@ -4,7 +4,7 @@
 
 (2) Az e fejezetben szabályozott nemperes eljárások tárgyi költségmentesek.
 
-(3) A kötelező pszichiátriai gyógykezelés elrendelésére irányuló eljárásra a beteg lakóhelye vagy tartózkodási helye szerinti helyi bíróság illetékes. A pszichiátriai intézeti gyógykezelés felülvizsgálatára vonatkozó eljárásban a pszichiátriai intézet székhelye szerinti helyi bíróság illetékes.
+(3) A kötelező pszichiátriai gyógykezelés elrendelésére irányuló eljárásra a beteg lakóhelye vagy tartózkodási helye szerinti járásbíróság illetékes. A pszichiátriai intézeti gyógykezelés felülvizsgálatára vonatkozó eljárásban a pszichiátriai intézet székhelye szerinti járásbíróság illetékes.
 
 (4) A bírósági eljárásban biztosítani kell a beteg megfelelő képviseletét. A beteg képviseletére a beteg vagy törvényes képviselője meghatalmazása alapján a betegjogi képviselő is jogosult. Ha a betegnek az eljárás során nincs törvényes vagy meghatalmazott képviselője, részére a bíróság ügygondnokot rendel ki.
 
@@ -18,4 +18,4 @@
 
 (9) A sürgősségi gyógykezelés során a kötelező intézeti gyógykezelést elrendelő határozat ellen benyújtott fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
 
-(10) Amennyiben az igazságügyi elmeorvos-szakértői vélemény szerint a beteg ügyei viteléhez szükséges belátási képessége csökkent vagy hiányzik, a bíróság a szakértői véleményt megküldi a gyámhivatalnak a gondnokság alá helyezési eljárás megindítása céljából.
+(10) Amennyiben az igazságügyi elmeorvos-szakértői vélemény szerint a beteg ügyei viteléhez szükséges belátási képessége csökkent vagy hiányzik, a bíróság a szakértői véleményt megküldi a gyámhatóságnak a gondnokság alá helyezési eljárás megindítása céljából.

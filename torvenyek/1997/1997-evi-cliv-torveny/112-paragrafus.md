@@ -8,7 +8,7 @@
 
 a) aki nem szerepel az alapnyilvántartásban,
 
-b) aki a (4) bekezdés a) pontjában foglalt adatok közlését megtagadja,
+b) aki a (4) bekezdés foglalt adatok közlését megtagadja,
 
 c) aki – jogszabályban meghatározott esetekben – a megfelelő szakmai nyelvismeret meglétét, vagy aki a 113. § (6) bekezdés esetében a továbbképzési kötelezettsége teljesítését nem igazolja,
 
@@ -16,7 +16,7 @@ d) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fű
 
 e) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 
-f) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
+f) akit az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
 
 g) aki a 113. § (5) bekezdése szerinti nyilatkozattételi kötelezettségét nem teljesíti,
 
@@ -38,7 +38,7 @@ k) aki – feltéve, hogy a törvény kötelező kamarai tagságot ír elő – 
 
 a) az egészségügyi dolgozó neme, természetes személyazonosító adatai, az egészségügyi tevékenység gyakorlása során használt neve, lakóhelye és tartózkodási helye, állampolgársága,
 
-b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
+b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
 
 c) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, e törvény és jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye,
 
@@ -46,7 +46,17 @@ d) idegen nyelv vagy nyelvek ismeretének szintje, típusa, az arról kiállíto
 
 e) a korlátozott alkalmasság ténye,
 
-f) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe, a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez, a munkavégzésre irányuló jogviszony jellege, a szolgáltató ellátási szintje (alapellátás, járóbeteg-ellátás, fekvőbeteg-ellátás), valamint – alkalmazott egészségügyi dolgozó esetén – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, a heti munkaidő,,
+f) munkavégzéssel kapcsolatos adatok:
+
+fa) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe,
+
+fb) a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez,
+
+fc) a munkavégzésre irányuló jogviszony jellege, kezdő időpontja, határozott idejű foglalkoztatás esetében annak végdátuma vagy a jogviszony határozatlan jellege,
+
+fd) a szolgáltató ellátási szintje (alapellátás, járóbeteg-ellátás, fekvőbeteg-ellátás), valamint
+
+fe) alkalmazott egészségügyi dolgozó esetén az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, a heti munkaidő,
 
 g) a működési nyilvántartás meghosszabbításának kezdő, befejező dátuma, a meghosszabbítás alapjául szolgáló, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma,
 
@@ -58,7 +68,7 @@ j) az egészségügyi dolgozóval szemben törvény alapján etikai eljárás ke
 
 k) az egészségügyi dolgozó alap- és működési nyilvántartási száma,
 
-l) a külföldi munkavégzés helye, időtartama,
+l) a külföldi munkavégzés helye, időtartama és a szakterület megnevezése, amely területen az egészségügyi dolgozó a munkát végzi,
 
 m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személy neve, működési nyilvántartási száma,
 
@@ -76,7 +86,7 @@ használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tev�
 
 (4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
 
-(5) A (4) bekezdés b)–c), e)–f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
+(5) A (4) bekezdés b)–c), e), fa)–fb) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
 
 (6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
 

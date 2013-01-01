@@ -28,7 +28,13 @@ c) kórisme megállapítása, továbbá
 
 d) kutatás
 
-céljából lehet külföldre, illetve külföldről Magyarország területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha Magyarország területén nincs megfelelő recipiens. Ettől a feltételtől eltekinteni akkor lehet, ha szervet külföldről Magyarország területére behoztak és átültettek, és nemzetközi egyezmény vagy megállapodás szerint ezen szervadományozás viszonzása céljából kerül sor azonos típusú szerv külföldre vitelére. A viszonzási kötelezettség a szerv Magyarország területén történő átültetésének időpontjában keletkezik, és a viszonzásként adományozott szerv külföldön történő beültetésének időpontjában ér véget.
+céljából lehet külföldre, illetve külföldről Magyarország területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha Magyarország területén nincs megfelelő recipiens.
+
+(6a) A (6) bekezdés szerinti feltételtől eltekinteni akkor lehet, ha
+
+a) az állami vérellátó szolgálat által megkötött egyezmény vagy megállapodás eltérően rendelkezik, vagy
+
+b) szervet külföldről Magyarország területére behoztak és átültettek, és nemzetközi egyezmény vagy megállapodás szerint ezen szervadományozás viszonzása céljából kerül sor azonos típusú szerv külföldre vitelére. A viszonzási kötelezettség a szerv Magyarország területén történő átültetésének időpontjában keletkezik, és a viszonzásként adományozott szerv külföldön történő beültetésének időpontjában ér véget.
 
 (7) Szerv, szövet – a vér és vérkészítmény kivételével – külföldre, illetve külföldről Magyarország területére történő szállításáról rendelkező nem államközi, illetve nem kormányközi egyezmény vagy megállapodás érvényességének feltétele – kivéve az állami vérellátó szolgálat által megkötött egyezményt vagy megállapodást – az egészségügyi államigazgatási szerv egyetértése. Az egészségügyi államigazgatási szerv az egyetértést megtagadja, ha megállapítható, hogy az egyezmény vagy megállapodás haszonszerzésre irányul. Az egészségügyi államigazgatási szerv határozata ellen fellebbezésnek helye nincs. A nem államközi, illetve nem kormányközi egyezményekről vagy megállapodásokról a magyar szerződő fél bejelentése alapján az egészségügyi államigazgatási szerv nyilvántartást vezet.
 

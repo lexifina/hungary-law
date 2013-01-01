@@ -4,7 +4,7 @@
 
 (2) Az egészségügyi ágazati szakmai képzés fajtái:
 
-a) egészségügyi szakirányú szakmai képzés,
+a)
 
 b) egészségügyi felsőfokú szakirányú szakmai képzés,
 

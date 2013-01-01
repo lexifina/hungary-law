@@ -1,10 +1,22 @@
-116/A. § (1) Az egészségügyi felsőfokú szakirányú szakmai képzésben szakorvos, szakfogorvos, szakgyógyszerész szakterületen az vehet részt, aki az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben meghatározottak szerint a felsőfokú végzettségi szintenként mesterfokozatot és orvos, fogorvos, gyógyszerész szakképzettséget szerzett és egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll.
+116/A. § (1) Az egészségügyi felsőfokú szakirányú szakmai képzésben az vehet részt, aki
 
-(2) Minden olyan szakterületen, amely nem tartozik a (1) bekezdésben felsoroltak közé, az egészségügyi felsőfokú szakirányú szakmai képzésben az vehet részt, aki a felsőoktatási mesterképzésben külön jogszabályban meghatározottak szerinti szakképzettséget szerzett és egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll, továbbá megfelel az adott felsőfokú szakirányú szakmai képzéshez szükséges külön jogszabály szerinti részvételi követelményeknek.
+a) a felsőoktatási alapképzés orvos- és egészségtudomány képzési területén egészségügyi szakképzettséget szerzett,
 
-(3) Az egészségügyi felsőfokú szakirányú szakmai képzés szakvizsgával zárul, a szakvizsgáztatást az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: ESZTT) szervezi külön jogszabályban meghatározottak szerint. A szakvizsga sikeres letételéről az ESZTT külön jogszabályban meghatározottak szerint szakmai szakvizsga bizonyítványt állít ki.
+b) felsőoktatási ciklusokra bontott osztott mesterképzési szakon szakképzettséget vagy
 
-(4) Az egészségügyi felsőfokú szakirányú szakmai képzés költségvetési forrásának kezelése érdekében az egészségügyi államigazgatási szerv nyilvántartást vezet, az államilag támogatott egészségügyi felsőfokú szakirányú szakmai képzésben részt vevő személyekről.
+c) felsőoktatási egységes osztatlan mesterképzési szakon orvos- és egészségtudomány képzési területen szakképzettséget szerzett
+
+és egészségügyi szolgáltatónál munkavégzésre irányuló jogviszonyban áll.
+
+(2) A képzési idő
+
+a) az (1) bekezdés a) és b) pontja szerinti képzésben részt vevő számára legalább 12, legfeljebb 48 hónap,
+
+b) az (1) bekezdés c) pontja szerinti képzésben részt vevő számára legalább 24, legfeljebb 72 hónap.
+
+(3) Az egészségügyi felsőfokú szakirányú szakmai képzés szakvizsgával zárul. A szakvizsga sikeres letételéről az egészségügyi államigazgatási szerv az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló miniszteri rendeletben meghatározottak szerint szakmai szakvizsga-bizonyítványt állít ki.
+
+(4) A szakorvos-, szakfogorvos-, szakgyógyszerész- és szakpszichológus-képzés költségvetési forrásának kezelése érdekében az egészségügyi államigazgatási szerv nyilvántartást vezet, az államilag támogatott képzésben részt vevőről.
 
 (5) A (4) bekezdés szerinti nyilvántartás tartalmazza:
 
@@ -20,7 +32,7 @@ e) a munkáltató nevét, címét, adószámát és bankszámla számát.
 
 (5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet. A kijelölés alapján eljáró egészségügyi államigazgatási szerv a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
-(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a szakorvosjelöltnek az (5) bekezdés d) pontja szerinti adatairól.
+(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az
 
@@ -34,4 +46,4 @@ a változás bekövetkezésétől számított 15 napon belül köteles bejelente
 
 (8) A (4) bekezdés szerinti nyilvántartás adatainak kötelező megőrzési ideje a támogatott szakképesítés megszerzésétől számított 10 év.
 
-(9) Az ESZTT a (3) bekezdés szerinti szervezési feladatai ellátása érdekében jogosult megismerni a 112. § (4) bekezdés a) és b) pontja szerinti adatokat.
+(9) Az egészségügyi államigazgatási szerv a (3) bekezdés szerinti szervezési feladatai ellátása érdekében jogosult megismerni a 112. § (4) bekezdés a) és b) pontja szerinti adatokat.

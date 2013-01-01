@@ -6,7 +6,7 @@
 
 (3) Az alapnyilvántartás az alábbi adatokat tartalmazza:
 
-a) a szakképesítést szerzett neme, természetes személyazonosító adatai, állampolgársága, lakóhelye és tartózkodási helye;
+a) a szakképesítést szerzett neme, természetes személyazonosító adatai, egészségügyi tevékenység során használt neve, állampolgársága, lakóhelye és tartózkodási helye;
 
 b) a megszerzett szakképesítés megnevezése, az erről kiállított oklevél, bizonyítvány száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése;
 

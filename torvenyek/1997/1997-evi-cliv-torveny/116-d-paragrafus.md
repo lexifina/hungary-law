@@ -4,26 +4,12 @@
 
 (3) Az egészségügyi szakirányú szakmai továbbképzésre az vehető fel, aki
 
-a) a szakképzésről szóló külön jogszabályok alapján alap-, közép-, emeltszintű, illetve felsőfokú szakképesítéssel,
+a) a szakképzésről szóló törvény alapján egészségügyi szakképesítéssel, valamint egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán vagy ciklusokra bontott, osztott képzés mesterképzési szakán szerzett szakképzettséggel, vagy
 
-b) egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudomány képzési terület alapképzési szakán szerzett szakképzettséggel, vagy
+b) orvos- és egészségtudományi képzési terület egységes osztatlan mesterképzési szakán szerzett szakképzettséggel vagy egészségügyi felsőfokú szakirányú szakképesítéssel
 
-c) felsőfokú szakirányú szakmai képesítéssel
+rendelkezik, és megfelel az egészségügyi szakirányú szakmai továbbképzésről szóló jogszabályokban meghatározott részvételi követelményeknek.
 
-rendelkezik, és megfelel az adott egészségügyi szakirányú szakmai továbbképzéshez szükséges, külön jogszabályban meghatározott részvételi követelményeknek.
+(4)
 
-(4) Az egészségügyi szakirányú szakmai továbbképzés képzési ideje
-
-a) a (3) bekezdés a) pontja alá tartozók esetében legalább 2 hónap, legfeljebb 6 hónap,
-
-b) a (3) bekezdés b) és c) pontja alá tartozók esetében legalább 4, legfeljebb 12 hónap,
-
-amelynek során az egészségügyi szakirányú szakmai továbbképzésben részt vevő személynek elméleti és gyakorlati képzésben kell részt vennie.
-
-(5) Az egészségügyi szakirányú szakmai továbbképzés vizsgával zárul, amelynek sikeres letételéről
-
-a) a (3) bekezdés a) és b) pontjában meghatározott személyek tekintetében a vizsgáztatásra miniszter által feljogosított szerv,
-
-b) a (3) bekezdés c) pontjában meghatározott személyek tekintetében az ESZTT
-
-egészségügyi szakmai tevékenység végzésére jogosító bizonyítványt állít ki.
+(5) Az egészségügyi szakirányú szakmai továbbképzés vizsgával zárul, amelynek sikeres letételéről az egészségügyi államigazgatási szerv egészségügyi szakmai tevékenység végzésére jogosító tanúsítványt állít ki.

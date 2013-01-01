@@ -8,7 +8,7 @@ a) a 112. § (4) bekezdés a)–c), e), g) és j)–l) pontjai szerinti adatokat
 
 b) a 112. § (4) bekezdés d) pontjából idegen nyelvenként a nyelvismeret legmagasabb szintjére és típusára vonatkozó adatokat,
 
-c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének kistérség szerinti megjelölését,
+c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének járás szerinti megjelölését,
 
 d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 

@@ -56,6 +56,18 @@ n) a külön törvényben vagy törvényi felhatalmazás alapján kormányrendel
 
 költségének fedezetét.
 
+(3a) Az egészségbiztosítási szerv – az E. Alapnak e címen adott költségvetési hozzájárulás előirányzatának erejéig – finanszírozza az adott egészségügyi szolgáltatásra meghatározott finanszírozási rendszer szerint
+
+a) a (2) bekezdés a) pontja alapján végzett szolgáltatásokat, amennyiben a kötelezően elrendelt járványügyi intézkedést az egészségbiztosítási szervvel szerződött egészségügyi szolgáltatónál foganatosítják,
+
+b) az a) pont szerinti ellátásokkal összefüggő egészségügyi szolgáltatásokat,
+
+c) a (3) bekezdés b) pontjában meghatározott ellátások máshonnan meg nem térülő költségét,
+
+d) a (3) bekezdés c) pontjában foglalt szolgáltatásokat, és
+
+e) a (3) bekezdés g) pontja alapján végzett egészségügyi szolgáltatásokat.
+
 (4) Az Egészségbiztosítási Alap költségvetésén keresztül kerül biztosításra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben (a továbbiakban: Ebtv.) meghatározott egészségbiztosítási ellátások fedezete.
 
 (5) A (3) bekezdés d) pontja szerinti ellátásra – a központi költségvetés terhére – a Magyarországon lakó-, illetve tartózkodási hellyel rendelkező magyar állampolgár és a vele biztosítási jogviszony tekintetében egy elbírálás alá eső, továbbá nemzetközi szerződés alapján az ellátásra jogosult nem magyar állampolgár jogosult. Ha jogszabály másként nem rendelkezik, az egészségügyi ellátás finanszírozása tekintetében e törvény rendelkezéseit kell alkalmazni magyar állampolgár külföldön végzett szervtranszplantációjára is.

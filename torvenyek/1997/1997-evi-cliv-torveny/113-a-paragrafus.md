@@ -6,7 +6,7 @@ b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fű
 
 c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 
-d) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
+d) akit az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
 
 e) aki felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
 

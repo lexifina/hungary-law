@@ -12,7 +12,7 @@ b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy 
 
 c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 
-d) a térségben található kistérségekben levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
+d) a térségben található járásokban levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
 
 e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
 

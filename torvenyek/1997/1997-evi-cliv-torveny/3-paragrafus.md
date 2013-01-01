@@ -54,7 +54,7 @@ o) életfenntartó beavatkozás: a beteg életének mesterséges módon történ
 
 p) egészségügyi dokumentáció: az egészségügyi szolgáltatás során az egészségügyi dolgozó tudomására jutó, a beteg kezelésével kapcsolatos egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
 
-q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
+q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés vagy felsőoktatási szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
 
 r) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér, valamint az élettárs;
 
@@ -74,7 +74,9 @@ wb) egyházi jogi személy vagy jogi személyiséggel nem rendelkező egyházi e
 
 wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
 
-wd) más szervezet egészségügyi szolgáltató egységeként működő gyógyintézet esetén a tulajdonosi jogokat gyakorló szervezet;
+wd) egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén az egészségügyi felsőoktatási intézmény,
+
+we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet.
 
 x) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
@@ -82,7 +84,9 @@ y) egészségügyi tevékenység: az egészségügyi szolgáltatás részét ké
 
 ya) egészségügyi szakképesítés vagy
 
-yb) egészségügyi szakképesítéssel rendelkező személy szakmai felügyelete.
+yb) egészségügyi szakképesítéssel rendelkező személy szakmai felügyelete;
+
+z) fenntartói jogkör gyakorlója: a 155. § (1) bekezdésében meghatározott fenntartói jogok egy részét vagy összességét gyakorló szerv.
 
 4. CÍM
 
