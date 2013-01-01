@@ -1,10 +1,10 @@
 ## I. RÉSZ
 
-## ÖSSZEFOGLALÓ TÁBLÁZAT
+## Összefoglaló táblázat
 
 | Jelentéskód | Megnevezés | Hitelintézet | Hitelintézeti fióktelep | Pénzügyi vállalkozás |
 
-| Hitel- és pénzügyi lízingtermékek |
+## Hitel- és pénzügyi lízingtermékek
 
 | 9HA | Termékismertető – Hitel- és pénzügyi lízingtermékek – Áruhitel | V |  |  |
 
@@ -64,7 +64,7 @@
 
 | 25DM | PÉNZÜGYI VÁLLALKOZÁSOK – Termékismertető – Hitel- és pénzügyi lízingtermékek – Megtakarítás fedezete mellett nyújtott hitel |  |  | V |
 
-| Betéti- és megtakarítási termékek |
+## Betéti- és megtakarítási termékek
 
 | 9BB | Termékismertető – Betéti és megtakarítási termékek – Lekötött betét | V |  |  |
 
@@ -82,15 +82,19 @@
 
 | F9BZ | FIÓKTELEP – Termékismertető – Betéti és megtakarítási termékek – Megtakarítási számla |  | V |  |
 
+| – | Teljességi nyilatkozat | H | H | H |
+
 | Kód | Rendszeresen küldendő jelentések |
 
 | V | Eseti jelentés (változás esetén) |
 
+| H | Havonta küldendő |
+
 ## II. RÉSZ
 
-## A HITEL- ÉS PÉNZÜGYI LÍZINGTERMÉKEK ESETÉBEN SZOLGÁLTATANDÓ ADATTARTALOM
+## A hitel- és pénzügyi lízingtermékek esetében szolgáltatandó adattartalom
 
-## 1. 9HA, F9HA, 25DA Termékismertető- Hitel- és pénzügyi lízingtermékek – Áruhitel
+## 1. 9HA, F9HA, 25DA Termékismertető – Hitel- és pénzügyi lízingtermékek – Áruhitel
 
 ## a) Termékkód
 
@@ -170,13 +174,21 @@
 
 ## o3) A kedvezmény igénybevételének feltétele
 
-## o4) Akció időtartamának kezdete
+## o4) Az akció időtartamának kezdete
 
-## o5) Akció időtartamának vége
+## o5) Az akció időtartamának vége
 
 ## p) Hiperhivatkozás termékkondíciókhoz
 
-## 2. 9HC, F9HC, 25DC Termékismertető- Hitel- és pénzügyi lízingtermékek – Gépjárműlízing
+## q) Felügyeleti kapcsolattartó a terméket illetően
+
+## q1) Neve
+
+## q2) Telefonszáma
+
+## q3) E-mail címe
+
+## 2. 9HC, F9HC, 25DC Termékismertető – Hitel- és pénzügyi lízingtermékek – Gépjárműlízing
 
 ## a) Termékkód
 
@@ -260,13 +272,21 @@
 
 ## q3) A kedvezmény igénybevételének feltétele
 
-## q4) Akció időtartamának kezdete
+## q4) Az akció időtartamának kezdete
 
-## q5) Akció időtartamának vége
+## q5) Az akció időtartamának vége
 
 ## r) Hiperhivatkozás termékkondíciókhoz
 
-## 3. 9HG, F9HG, 25DG Termékismertető- Hitel- és pénzügyi lízingtermékek – Gépjárműhitel
+## s) Felügyeleti kapcsolattartó a terméket illetően
+
+## s1) Neve
+
+## s2) Telefonszáma
+
+## s3) E-mail címe
+
+## 3. 9HG, F9HG, 25DG Termékismertető – Hitel- és pénzügyi lízingtermékek – Gépjárműhitel
 
 ## a) Termékkód
 
@@ -348,13 +368,21 @@
 
 ## p3) A kedvezmény igénybevételének feltétele
 
-## p4) Akció időtartamának kezdete
+## p4) Az akció időtartamának kezdete
 
-## p5) Akció időtartamának vége
+## p5) Az akció időtartamának vége
 
 ## q) Hiperhivatkozás termékkondíciókhoz
 
-## 4. 9HH, F9HH, 25DH Termékismertető- Hitel- és pénzügyi lízingtermékek – Hitelkártyák
+## r) Felügyeleti kapcsolattartó a terméket illetően
+
+## r1) Neve
+
+## r2) Telefonszáma
+
+## r3) E-mail címe
+
+## 4. 9HH, F9HH, 25DH Termékismertető – Hitel- és pénzügyi lízingtermékek – Hitelkártyák
 
 ## a) Termékkód
 
@@ -430,13 +458,21 @@
 
 ## t2) A kedvezmény leírása
 
-## t3) Akció időtartamának kezdete
+## t3) Az akció időtartamának kezdete
 
-## t4) Akció időtartamának vége
+## t4) Az akció időtartamának vége
 
 ## u) Hiperhivatkozás termékkondíciókhoz
 
-## 5. 9HI, F9HI, 25DI Termékismertető- Hitel- és pénzügyi lízingtermékek – Ingatlanlízing
+## v) Felügyeleti kapcsolattartó a terméket illetően
+
+## v1) Neve
+
+## v2) Telefonszáma
+
+## v3) E-mail címe
+
+## 5. 9HI, F9HI, 25DI Termékismertető – Hitel- és pénzügyi lízingtermékek – Ingatlanlízing
 
 ## a) Termékkód
 
@@ -520,13 +556,21 @@
 
 ## q3) A kedvezmény igénybevételének feltétele
 
-## q4) Akció időtartamának kezdete
+## q4) Az akció időtartamának kezdete
 
-## q5) Akció időtartamának vége
+## q5) Az akció időtartamának vége
 
 ## r) Hiperhivatkozás termékkondíciókhoz
 
-## 6. 9HJ, F9HJ, 25DJ Termékismertető- Hitel- és pénzügyi lízingtermékek – Szabad felhasználású jelzáloghitel
+## s) Felügyeleti kapcsolattartó a terméket illetően
+
+## s1) Neve
+
+## s2) Telefonszáma
+
+## s3) E-mail címe
+
+## 6. 9HJ, F9HJ, 25DJ Termékismertető – Hitel- és pénzügyi lízingtermékek – Szabad felhasználású jelzáloghitel
 
 ## a) Termékkód
 
@@ -616,13 +660,21 @@
 
 ## o3) A kedvezmény igénybevételének feltétele
 
-## o4) Akció időtartamának kezdete
+## o4) Az akció időtartamának kezdete
 
-## o5) Akció időtartamának vége
+## o5) Az akció időtartamának vége
 
 ## p) Hiperhivatkozás termékkondíciókhoz
 
-## 7. 9HK, F9HK, 25DK Termékismertető- Hitel- és pénzügyi lízingtermékek – Személyi kölcsön
+## q) Felügyeleti kapcsolattartó a terméket illetően
+
+## q1) Neve
+
+## q2) Telefonszáma
+
+## q3) E-mail címe
+
+## 7. 9HK, F9HK, 25DK Termékismertető – Hitel- és pénzügyi lízingtermékek – Személyi kölcsön
 
 ## a) Termékkód
 
@@ -702,13 +754,21 @@
 
 ## n3) A kedvezmény igénybevételének feltétele
 
-## n4) Akció időtartamának kezdete
+## n4) Az akció időtartamának kezdete
 
-## n5) Akció időtartamának vége
+## n5) Az akció időtartamának vége
 
 ## o) Hiperhivatkozás termékkondíciókhoz
 
-## 8. 9HL, F9HL, 25DL Termékismertető- Hitel- és pénzügyi lízingtermékek – Ingatlancélú hitel
+## p) Felügyeleti kapcsolattartó a terméket illetően
+
+## p1) Neve
+
+## p2) Telefonszáma
+
+## p3) E-mail címe
+
+## 8. 9HL, F9HL, 25DL Termékismertető – Hitel- és pénzügyi lízingtermékek – Ingatlancélú hitel
 
 ## a) Termékkód
 
@@ -804,13 +864,21 @@
 
 ## r3) A kedvezmény igénybevételének feltétele
 
-## r4) Akció időtartamának kezdete
+## r4) Az akció időtartamának kezdete
 
-## r5) Akció időtartamának vége
+## r5) Az akció időtartamának vége
 
 ## s) Hiperhivatkozás termékkondíciókhoz
 
-## 9. 9HM, F9HM, 25DM Termékismertető- Hitel- és pénzügyi lízingtermékek – Megtakarítási fedezet mellett nyújtott hitel
+## t) Felügyeleti kapcsolattartó a terméket illetően
+
+## t1) Neve
+
+## t2) Telefonszáma
+
+## t3) E-mail címe
+
+## 9. 9HM, F9HM, 25DM Termékismertető – Hitel- és pénzügyi lízingtermékek – Megtakarítási fedezet mellett nyújtott hitel
 
 ## a) Termékkód
 
@@ -896,13 +964,21 @@
 
 ## p3) A kedvezmény igénybevételének feltétele
 
-## p4) Akció időtartamának kezdete
+## p4) Az akció időtartamának kezdete
 
-## p5) Akció időtartamának vége
+## p5) Az akció időtartamának vége
 
 ## q) Hiperhivatkozás termékkondíciókhoz
 
-## 10. 9HS, F9HS Termékismertető- Hitel- és pénzügyi lízingtermékek – Számlahitel
+## r) Felügyeleti kapcsolattartó a terméket illetően
+
+## r1) Neve
+
+## r2) Telefonszáma
+
+## r3) E-mail címe
+
+## 10. 9HS, F9HS Termékismertető – Hitel- és pénzügyi lízingtermékek – Számlahitel
 
 ## a) Termékkód
 
@@ -970,15 +1046,23 @@
 
 ## m3) A kedvezmény igénybevételének feltétele
 
-## m4) Akció időtartamának kezdete
+## m4) Az akció időtartamának kezdete
 
-## m5) Akció időtartamának vége
+## m5) Az akció időtartamának vége
 
 ## n) Hiperhivatkozás termékkondíciókhoz
 
+## o) Felügyeleti kapcsolattartó a terméket illetően
+
+## o1) Neve
+
+## o2) Telefonszáma
+
+## o3) E-mail címe
+
 ## III. RÉSZ
 
-## A BETÉTI ÉS MEGTAKARÍTÁSI TERMÉKEK ESETÉBEN SZOLGÁLTATANDÓ ADATTARTALOM
+## A betéti és megtakarítási termékek esetében szolgáltatandó adattartalom
 
 ## 1. 9BB, F9BB Termékismertető – Betéti és megtakarítási termékek – Lekötött betét
 
@@ -1042,11 +1126,9 @@
 
 ## q1) Neve
 
-## q2) Munkaköre
+## q2) Telefonszáma
 
-## q3) Telefonszáma
-
-## q4) E-mail címe
+## q3) E-mail címe
 
 ## r) Éves kamat (%)
 
@@ -1144,13 +1226,21 @@
 
 ## t) Hiperhivatkozás
 
-## u) Éves kamat (%)
+## u) Felügyeleti kapcsolattartó a terméket illetően
 
-## v) Éves kamathoz kapcsolódó megjegyzések
+## u1) Neve
 
-## w) EBKM (%)
+## u2) Telefonszáma
 
-## x) EBKM-hez kapcsolódó megjegyzések
+## u3) E-mail címe
+
+## v) Éves kamat (%)
+
+## w) Éves kamathoz kapcsolódó megjegyzések
+
+## x) EBKM (%)
+
+## y) EBKM-hez kapcsolódó megjegyzések
 
 ## 3. 9BT, F9BT Termékismertető – Betéti és megtakarítási termékek – Tartós befektetési szerződés
 
@@ -1204,13 +1294,21 @@
 
 ## n) A TBSZ-ről leköthető betétek, kombinált megtakarítási termékek
 
-## o) Éves kamat (%)
+## o) Felügyeleti kapcsolattartó a terméket illetően
 
-## p) Éves kamathoz kapcsolódó megjegyzések
+## o1) Neve
 
-## q) EBKM (%)
+## o2) Telefonszáma
 
-## r) EBKM-hez kapcsolódó megjegyzések
+## o3) E-mail címe
+
+## p) Éves kamat (%)
+
+## q) Éves kamathoz kapcsolódó megjegyzések
+
+## r) EBKM (%)
+
+## s) EBKM-hez kapcsolódó megjegyzések
 
 ## 4. 9BZ, F9BZ Termékismertető – Betéti és megtakarítási termékek – Megtakarítási számla
 
@@ -1298,15 +1396,23 @@
 
 ## n) Hiperhivatkozás
 
-## o) Éves kamat (%)
+## o) Felügyeleti kapcsolattartó a terméket illetően
 
-## p) Éves kamathoz kapcsolódó megjegyzések
+## o1) Neve
 
-## q) EBKM (%)
+## o2) Telefonszáma
 
-## r) EBKM-hez kapcsolódó megjegyzések
+## o3) E-mail címe
 
-2. melléklet a 26/2011. (XI. 24.) PSZÁF rendelethez
+## p) Éves kamat (%)
+
+## q) Éves kamathoz kapcsolódó megjegyzések
+
+## r) EBKM (%)
+
+## s) EBKM-hez kapcsolódó megjegyzések
+
+2. melléklet a 26/2011. (XI. 24.) PSZÁF rendelethez[^5]
 
 KITÖLTÉSI ÚTMUTATÓ
 
@@ -1318,7 +1424,7 @@ I. 1. Kapcsolódó jogszabályok
 
 a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.),
 
-a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.),
+a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.),
 
 a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény (a továbbiakban: Psztv.),
 
@@ -1334,9 +1440,7 @@ A kitöltési útmutatóban használt rövidítéseket – külön magyarázat h
 
 EBKM: egységesített betéti kamatláb mutató
 
-EGT állam: Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes állam (EU tagállamok, Norvégia, Liechtenstein, Izland)
-
-PSZÁF: Pénzügyi Szervezetek Állami Felügyelete
+Felügyelet: Pénzügyi Szervezetek Állami Felügyelete
 
 THM: teljes hiteldíj mutató
 
@@ -1344,11 +1448,11 @@ I. 3. Fogalmak
 
 Az alábbiakban közölt fogalmak az adatszolgáltatásra, valamint a kitöltési útmutatóra vonatkoznak.
 
-Áthidaló kölcsön: a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény 1. § 2. pontja szerinti fogalom
+Áthidaló kölcsön: a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény 1. § 2. pontja szerinti fogalom.
 
-Betéti kamat: a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló 82/2010. (III. 25.) Korm. rendelet 2. § b) pontja szerinti fogalom
+Betéti kamat: a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló 82/2010. (III. 25.) Korm. rendelet 2. § b) pontja szerinti fogalom.
 
-Betéti okirat: a hitelintézetnél elhelyezett betétek közül az, amely nem számlán és nem könyvesbetétben került elhelyezésre, függetlenül az okirat elnevezésétől, címletezésétől, lejáratától, illetve attól, hogy bemutatóra szóló-e vagy sem (pl. takaréklevél, értékjegy, pénztárjegy, betétjegy, takarékjegy, takarékszelvény, értéklevél, kamatjegy, trezorjegy stb.).
+Betéti okirat: a hitelintézetnél elhelyezett betétek közül az, amely nem számlán és nem könyvesbetétben került elhelyezésre, függetlenül az okirat elnevezésétől, címletezésétől, lejáratától, illetve attól, hogy bemutatóra szóló-e vagy sem (pl. takaréklevél, értékjegy, pénztárjegy, betétjegy, takarékjegy, takarékszelvény, értéklevél, kamatjegy, trezorjegy).
 
 Egyszeri betétlekötés: a lekötési idő lejártát követően a betét lekötése megszűnik, és látra szóló betétként működik, vagy nem kamatozik tovább.
 
@@ -1364,21 +1468,21 @@ Ez kétféleképpen történhet. A futamidő végén a hitelintézet:
 
 Gyűjtőszámlahitel: a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 1. § (1) bekezdés 4. pontja szerinti fogalom.
 
-Hitelintézet: a rendelet (továbbiakban: R.) alkalmazásában a Hpt. szerinti hitelintézet és hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás.
+Hitelintézet: a rendelet (a továbbiakban: R.) alkalmazásában a Hpt. szerinti hitelintézet és hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás.
 
 Hitelintézeti fióktelep: az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező hitelintézet magyarországi fióktelepe.
 
-Könyvesbetét: a hitelintézetnél elhelyezett betétek közül az, amelynek elhelyezésekor a betétszerződés alapján betétkönyvet állítanak ki (pl. takarékbetétkönyv, nyereménybetétkönyv stb.), nem ideértve a takaréklevelet.
+Könyvesbetét: a hitelintézetnél elhelyezett betétek közül az, amelynek elhelyezésekor a betétszerződés alapján betétkönyvet állítanak ki (pl. takarékbetétkönyv, nyereménybetétkönyv), nem ideértve a takaréklevelet.
 
-Pénzügyi vállalkozás: a R. alkalmazásában a Hpt. szerinti pénzügyi vállalkozás a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás kivételével.
+Pénzügyi vállalkozás: az R. alkalmazásában a Hpt. szerinti pénzügyi vállalkozás a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás kivételével.
 
-Premium (personal) banking: az ún. prémium banki szolgáltatás keretében a hitelintézet bizonyos kivételes szolgáltatásokat kínál az átlagosnál magasabb jövedelmű és ilyen szolgáltatásokat igénylő ügyfelek számára pl. saját kapcsolattartójukon keresztül intézhetik ügyeiket, elérhető számukra a banki termékek emelt szintű csomagja, a bank segítséget nyújt kiemelt ügyfeleinek, hogy megtalálják a számukra legkedvezőbb megoldásokat stb.
+Premium (personal) banking: az ún. prémium banki szolgáltatás keretében a hitelintézet bizonyos kivételes szolgáltatásokat kínál az átlagosnál magasabb jövedelmű és ilyen szolgáltatásokat igénylő ügyfelek számára (pl. saját kapcsolattartójukon keresztül intézhetik ügyeiket, elérhető számukra a banki termékek emelt szintű csomagja, a bank segítséget nyújt kiemelt ügyfeleinek, hogy megtalálják a számukra legkedvezőbb megoldásokat).
 
-Private banking: olyan, ún. privát banki szolgáltatás, melyet vagyonos ügyfeleknek kínálnak, akik számára hozzáférhető a privátbanki szolgáltatás teljes palettája: pl. személyre szabott konstrukciók, személyi bankár, exkluzív kényelmi szolgáltatások stb.
+Private banking: olyan, ún. privát banki szolgáltatás, melyet vagyonos ügyfeleknek kínálnak, akik számára hozzáférhető a privátbanki szolgáltatás teljes palettája (pl. személyre szabott konstrukciók, személyi bankár, exkluzív kényelmi szolgáltatások).
 
 I. 4. Az adatszolgáltatás formai követelményei
 
-I.4. 1. Általános követelmények
+I.4.1. Általános követelmények
 
 A felügyeleti jelentések formáját, szerkezetét megváltoztatni nem lehet.
 
@@ -1388,11 +1492,11 @@ Ha az adatszolgáltató nem értékesít jelentendő terméket, akkor nemleges a
 
 Ha a Felügyelet megállapítja, hogy az adatszolgáltatás javítást igényel (pl. téves adatközlés miatt), a javított adatokat a felszólítás kézhezvételétől számítva 2 munkanapon belül a Felügyelet részére meg kell küldeni.
 
-Ha az adatszolgáltató önellenőrzése, belső ellenőrzése, vagy egyéb lefolytatott ellenőrzés folytán kiderül, hogy a jelentett adatok korrekcióra szorulnak, akkor az adatszolgáltatónak javítást kell végrehajtania. A javított adatot – a javítás pontos okának megjelölésével együtt – a feltárástól számított 2 munkanapon belül kell beküldeni.
+Ha az adatszolgáltató önellenőrzése, belső ellenőrzése vagy egyéb lefolytatott ellenőrzés folytán kiderül, hogy a jelentett adatok korrekcióra szorulnak, akkor az adatszolgáltatónak javítást kell végrehajtania. A javított adatot – a javítás pontos okának megjelölésével együtt – a feltárástól számított 2 munkanapon belül kell beküldeni.
 
 A teljességi nyilatkozat beküldésére vonatkozó kötelezettséget a „Teljességi nyilatkozat beküldése” menüpontot választva generált nyilatkozat (pdf fájl) küldésével kell teljesíteni.
 
-I.4. 2. A kitöltéssel kapcsolatos formai szabályok:
+I.4.2. A kitöltéssel kapcsolatos formai szabályok:
 
 Tömör megfogalmazás: A szöveges mezők kitöltésénél törekedni kell a tömör és a fogyasztó által is érthető megfogalmazásokra. Figyelembe kell venni, hogy az adatok automatikusan konvertálódnak át a WEB-es lekérdező felületre, így a Felügyelet által történő korrektúrázásukra nincs mód.
 
@@ -1418,13 +1522,13 @@ Hitel- és pénzügyi lízingtermék
 
 A Áruhitel
 
-C Gépjármű lízing
+C Gépjárműlízing
 
-G Gépjármű hitel
+G Gépjárműhitel
 
 H Hitelkártyák
 
-I Ingatlan lízing
+I Ingatlanlízing
 
 J Szabad felhasználású jelzáloghitel
 
@@ -1448,7 +1552,7 @@ Z Megtakarítási számla
 
 A sorszám a pénzügyi intézmény által az adott típusú termék egyedi azonosítását szolgáló, folyamatos azonosító (4 karakter).
 
-A verziószám az adott sorszámhoz tartozó terméktípus különböző változatait jelölő, a sorszámhoz kapcsolódó folyamatos alszám (3 karakter) (pl. azonos termék eltérő devizanemben stb.). Amennyiben a termékhez nem tartoznak termékváltozatok, úgy a verziószámnál 3 db 0 szerepel.
+A verziószám az adott sorszámhoz tartozó terméktípus különböző változatait jelölő, a sorszámhoz kapcsolódó folyamatos alszám (3 karakter) (pl. azonos termék eltérő devizanemben). Amennyiben a termékhez nem tartoznak termékváltozatok, úgy a verziószámnál 3 db 0 szerepel.
 
 I. 5. Az adatszolgáltatás tartalmi követelményei
 
@@ -1462,7 +1566,7 @@ I. 6. Az adatszolgáltatás határideje
 
 A termékekre vonatkozó adatszolgáltatást eseti jelentés keretében kell teljesíteni. Eseti jelentés: ha a Felügyelet olyan esemény bekövetkezése esetén ír elő adatszolgáltatást, amelynek időpontja, gyakorisága előre nem határozható meg.
 
-Az egyes termékek feltételeiben történő változásról, új konstrukció bevezetéséről, valamint a meglévő termék piacról történő kivonásáról a Felügyelet részére legkésőbb az érvényesség kezdőnapját megelőző munkanapon 20.00 óráig kell adatot szolgáltatni.
+Az egyes termékek feltételeiben történő változásról, új konstrukció bevezetéséről, valamint a meglévő termék piacról történő kivonásáról a Felügyelet részére legkésőbb az érvényesség kezdőnapját megelőző munkanapon 20:00 óráig kell adatot szolgáltatni.
 
 A beküldött adatok naprakészségére vonatkozó teljességi nyilatkozatot (pdf fájl) a tárgyhónapot követő 5. munkanapig kell a Felügyelet részére megküldeni.
 
@@ -1470,7 +1574,7 @@ II. RÉSZ
 
 AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ RÉSZLETES SZABÁLYOK
 
-II.1. 9HA–9HS, F9HA – F9HS, 25DA – 25DM – Termékismertető – Hitel- és pénzügyi lízing
+II.1. 9HA-9HS, F9HA – F9HS, 25DA – 25DM – Termékismertető – Hitel- és pénzügyi lízing
 
 A táblák célja
 
@@ -1490,11 +1594,11 @@ Deviza árfolyamváltozás miatti THM módosításról – amennyiben egyéb fel
 
 A pénzügyi intézmény által a problémássá vált hiteleknél a tartozás rendezése érdekében nyújtott hiteleket is fel kell tüntetni. Amennyiben a tartozás rendezése céljából nyújtott hitel mögé ingatlan fedezet kerül biztosítékként bevonásra, akkor azt a 9HJ (F9HJ, 25DJ) táblában, ingatlan fedezet bevonása nélküli konstrukció esetén az adósságrendező hitelt a 9HK (F9HK, 25DK) táblában kell feltüntetni.
 
-Azokat, a pénzügyi intézmény által késedelmes teljesítés kapcsán – a késedelmi kamaton felül – felszámított díjtételeket, amelyek felszámítására a pénzügyi intézmény szerződés, ÁSZF, Hirdetmény stb. alapján jogosult, a Késedelmes teljesítéshez kapcsolódó díjak, költségek között kell bemutatni. A törvény alapján fizetendő egyéb, a végrehajtással kapcsolatos költségeket pl. illeték, végrehajtó költsége nem kell szerepeltetni. Amennyiben azonban a pénzügyi intézmény a végrehajtási költségekre előzetesen például a szerződésben vagy hirdetménybe fix költséget határoz meg pl. teljes tőketartozás 20%-a, akkor azok összegét a terméktáblában be kell mutatni.
+Azokat a pénzügyi intézmény által késedelmes teljesítés kapcsán – a késedelmi kamaton felül – felszámított díjtételeket, amelyek felszámítására a pénzügyi intézmény szerződés, ÁSZF, Hirdetmény stb. alapján jogosult, a Késedelmes teljesítéshez kapcsolódó díjak, költségek között kell bemutatni. A törvény alapján fizetendő egyéb, a végrehajtással kapcsolatos költségeket pl. illeték, végrehajtó költsége nem kell szerepeltetni. Amennyiben azonban a pénzügyi intézmény a végrehajtási költségekre előzetesen, például a szerződésben vagy hirdetménybe fix költséget határoz meg pl. teljes tőketartozás 20%-a, akkor azok összegét a terméktáblában be kell mutatni.
 
 9HA, F9HA, 25DA – Termékismertető – Hitel- és pénzügyi lízingtermékek – Áruhitel
 
-A jelentés vonatkozásában áruhitelnek a fogyasztási kölcsön azon típusa minősül, amely kölcsönt a fogyasztó elsősorban konkrét fogyasztási cikkek vagy szolgáltatások megvásárlásához, illetve igénybevételéhez, általában a vásárlás helyén, a megvásárolni kívánt termék vagy szolgáltatás megszerzése, illetve elérése érdekében vesz igénybe.
+A jelentés vonatkozásában áruhitelnek a fogyasztási kölcsön azon típusa minősül, melyet a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához, szolgáltatások igénybevételéhez nyújtanak. Azaz olyan kölcsön, amelyet a fogyasztó elsősorban konkrét fogyasztási cikkek vagy szolgáltatások megvásárlásához, illetve igénybevételéhez, általában a vásárlás helyén, a megvásárolni kívánt termék vagy szolgáltatás megszerzése, illetve elérése érdekében vesz igénybe.
 
 A termékváltozatok, kapcsolódó információk bemutatása
 
@@ -1502,7 +1606,7 @@ Amennyiben egy termékhez az áruhitel devizaneme, kamatozás típusa (fix, vál
 
 Figyelemmel az áruhitelek sokszínűségére és speciális jellemzőire (kereskedőnként és finanszírozandó termékenként eltérő kondíciókkal igényelhetőek, jelentős szerepük van a gyorsan változó akciós lehetőségeknek) – a termékvariációk számosságának optimalizálása érdekében – lehetőség van az árszintben nem túlzottan eltérő egyes hiteltermék változatokat ún. „összevont” konstrukcióként bemutatni, illetve az egyes sztenderd termékek bemutatásánál jelezni a lehetséges kismértékű eltéréseket.
 
-Ilyen eset lehet az, amikor egy adott ismérv (pl. hitelösszeg, futamidő, hitelbírálat alapján meghatározott ügyfél-kategória) alakulásától függően különböző kamatláb szintek lehetségesek. Ilyenkor a jellemző kamattartomány (h2) és h3) cellák) bemutatása mellett – az adatok értelmezését segítendő – rövid magyarázatot kell feltüntetni a h6) cellában. (pl. „Az ügyleti kamatláb a választott futamidőtől/összegtől/hitelbírálattól függően kerül meghatározásra.”)
+Ilyen eset lehet az, amikor egy adott ismérv (pl. hitelösszeg, futamidő, hitelbírálat alapján meghatározott ügyfél-kategória) alakulásától függően különböző kamatláb szintek lehetségesek. Ilyenkor a jellemző kamattartomány [h2) és h3) cellák] bemutatása mellett – az adatok értelmezését segítendő – rövid magyarázatot kell feltüntetni a h6) cellában. (pl. „Az ügyleti kamatláb a választott futamidőtől/összegtől/hitelbírálattól függően kerül meghatározásra.”)
 
 Nem szükséges külön termékvariációként feltüntetni azon konstrukcióváltozatokat sem, ahol csak a fizetési mód (bankszámláról, csekken történő fizetés), törlesztési lehetőségek, kedvezmények, illetve egyes díjtételek különböznek bizonyos feltételek alapján. Ezen jellemzőkre vonatkozó megjegyzések is megtehetők a jelzett helyeken.
 
@@ -1522,7 +1626,7 @@ A b) cellában az áruhitel-konstrukció teljes megnevezését kell szerepeltetn
 
 A c) Devizanem cellában kell megjelölni a hitel nyilvántartásának devizanemét (ISO-kódját). Amennyiben az áruhitel igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
 
-A d1)–d2) Futamidő (min. és max.) cellákban a futamidő minimális és maximális hosszát kell hónapokban (numerikusan, egész számban) megadni. (Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni a d1) és d2) cellákban is.)
+A d1)–d2) Futamidő (min. és max.) cellákban a futamidő minimális és maximális hosszát kell hónapokban (numerikusan, egész számban) megadni. [Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni a d1) és d2) cellákban is.]
 
 Az e1)–e2) Igényelhető kölcsönösszeg (min. és max.) cellákban a minimálisan és maximálisan igényelhető hitelösszeget kell feltüntetni forintban, numerikus, egész számban, a pénznem megjelölése nélkül. Devizahitelek esetében, amennyiben az igényelhető hitelösszeg devizában meghatározott, az átváltás árfolyama az egyéb megjegyzéseknél az n) Egyéb megjegyzés cellában jelezhető.
 
@@ -1540,7 +1644,7 @@ A h1)–h6) cellákban kell tájékoztatást adni az áruhitel-konstrukció kama
 
 A h1) Kamatozás típusa cellában kell megadni a kamatozás típusát, azaz, hogy a kamat mértéke a futamidő alatt „fix” vagy „változó”. A kamatozás típusához kapcsolódó esetleges megjegyzéseket (pl. kamatperiódus hossza) a h6) cellában lehet megtenni.
 
-A h2)–h3) cellában a minimális és maximális ügyleti kamat éves százalékos mértékét kell szerepeltetni (% jel feltüntetése nélkül). A kamat minimális és maximális mértékéhez fűzendő esetleges rövid magyarázat az h6) cellában tüntetendő fel.
+A h2) a h3) cellában a minimális és maximális ügyleti kamat éves százalékos mértékét kell szerepeltetni (% jel feltüntetése nélkül). A kamat minimális és maximális mértékéhez fűzendő esetleges rövid magyarázat a h6) cellában tüntetendő fel.
 
 A h4) cellában kell feltüntetni, ha a pénzügyi intézmény kamatbázist alkalmaz, pl. 3 havi BUBOR.
 
@@ -1548,15 +1652,15 @@ A h5) cellában az irányadó kamathoz kapcsolódó alap kamat felár/marge szer
 
 Amennyiben a konstrukció nem kamatbázishoz kötődik, a h4)–h5) cellákat „nincs” megjelöléssel kell kitölteni.
 
-A h6) cellában jeleníthetők meg a kamatozáshoz kapcsolódó egyéb megjegyzések (pl. „Az ügyleti kamatláb a választott futamidőtől/összegtől/hitelbírálattól függően kerül meghatározásra.” stb.).
+A h6) cellában jeleníthetők meg a kamatozáshoz kapcsolódó egyéb megjegyzések (pl. „Az ügyleti kamatláb a választott futamidőtől/összegtől/hitelbírálattól függően kerül meghatározásra.”).
 
-Az i1)–i2) cellákban a kezelési költség mértékét és megfizetésének módját kell bemutatni. Az i1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). Az i2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel együtt fizetendő”, „vásárláskor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs, vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is az i1)–i2) cellákban kell feltüntetni.
+Az i1)–i2) cellákban a kezelési költség mértékét és megfizetésének módját kell bemutatni. Az i1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). Az i2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel együtt fizetendő”, „vásárláskor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is az i1)–i2) cellákban kell feltüntetni.
 
 A j) cellában kell tételenként összegszerűen vagy százalékos mértékben bemutatni a hitelfelvevő által a hitel folyósításáig fizetendő és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költséget, díjat, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításánál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
 
-A k) cellában kell feltüntetni a hitel folyósításának és törlesztésének jellemzőit, mint például a devizában folyósítás, vagy törlesztés lehetőségét, a törlesztés módját, illetve hogy az ügyfél által választható-e a törlesztés napja, a halasztott fizetés lehetősége.
+A k) cellában kell feltüntetni a hitel folyósításának és törlesztésének jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját, illetve hogy az ügyfél által választható-e a törlesztés napja, a halasztott fizetés lehetősége.
 
-Az l1)–l3) cellákban a szerződésmódosítással kapcsolatos díjakat kell bemutatni összegszerűen vagy százalékos mértékben, a díjfelszámítás alapjának feltüntetésével együtt. Az l1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az l2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az l3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
+Az l1)–l3) cellákban a szerződésmódosítással kapcsolatos díjakat kell bemutatni összegszerűen vagy százalékos mértékben, a díjfelszámítás alapjának feltüntetésével együtt. Az l1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az l2) cellában kell megadni pl. előtörlesztés. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az l3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
 
 Az m1)–m2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az m1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), az m2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége megnevezéssel és mértékkel együtt).
 
@@ -1574,11 +1678,13 @@ Az o4)–o5) cellákban feltüntetendő az akció kezdete és záró napja. Amen
 
 A p) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
 
+A q1)–q3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
 9HC, F9HC, 25DC – Termékismertető – Hitel- és pénzügyi lízingtermékek – Gépjárműlízing
 
-A jelentés vonatkozásában gépjárműlízing a fogyasztók részére új és használt személygépkocsik és rendszámozható motorkerékpár megvásárlásához kínált azon finanszírozási forma, amelynek során a lízingbeadó pénzügyi intézmény a járművet adásvételi szerződéssel megvásárolja az eladótól és egy lízingszerződéssel lízingbe adja a lízingbevevőnek azzal, hogy a futamidő végéig, illetve az esetleges végtörlesztésig a gépjármű tulajdonjogát a pénzügyi intézmény fenntartja. (A forgalmi engedély szerinti tulajdonos a lízingbeadó pénzügyi intézmény, míg a szerződésből eredő kötelezettségek teljesítéséig a lízingbevevő, mint üzembetartó kerül bejegyzésre.)
+A jelentés vonatkozásában gépjárműlízing a fogyasztók részére új és használt személygépkocsik és rendszámozható motorkerékpár megvásárlásához kínált azon finanszírozási forma, amelynek során a lízingbeadó pénzügyi intézmény a járművet adásvételi szerződéssel megvásárolja az eladótól és egy lízingszerződéssel lízingbe adja a lízingbevevőnek azzal, hogy a futamidő végéig, illetve az esetleges végtörlesztésig a gépjármű tulajdonjogát a pénzügyi intézmény fenntartja. (A forgalmi engedély szerinti tulajdonos a lízingbeadó pénzügyi intézmény, míg a szerződésből eredő kötelezettségek teljesítéséig a lízingbevevő, mint üzembentartó kerül bejegyzésre.)
 
-A táblázatban kell feltüntetni a pénzügyi intézmény által nyújtott saját gépjármű lízing-konstrukciók jellemző adatait. Amennyiben egy termékhez a lízing típusa, lízing tárgya, devizanem, kamatozás típusa (fix, változó) szempontok alapján alternatív lehetőség kapcsolódik, akkor azt külön termékként vagy termékvariációként kell feltüntetni.
+A táblázatban kell feltüntetni a pénzügyi intézmény által nyújtott saját gépjárműlízing-konstrukciók jellemző adatait. Amennyiben egy termékhez a lízing típusa, lízing tárgya, devizanem, kamatozás típusa (fix, változó) szempontok alapján alternatív lehetőség kapcsolódik, akkor azt külön termékként vagy termékvariációként kell feltüntetni.
 
 A konstrukciók megnevezésénél fontos, hogy egyértelműen jelenjen meg a terméket/termékvariációkat megkülönböztető jellemzőre való utalás.
 
@@ -1588,11 +1694,11 @@ Az a) Termékkód cellában – a Felügyelet útmutatása alapján automatikusa
 
 A b) cellában kell a lízing-konstrukció teljes megnevezését szerepeltetni. Amennyiben azonos konstrukció eltérő alternatíváiról van szó (és nincs külön „fantázianeve”), az eltérési szempontot javasolt feltüntetni a termék megnevezésében is.
 
-A c) Lízing típusa cellában meg kell jelölni, hogy a termék „zárt végű” vagy „nyílt végű” pénzügyi lízing. Zártvégű pénzügyi lízing esetén a lízingbe vevő az összes szerződéses kötelezettsége teljesítésével megszerzi a gépjármű tulajdonjogát, a futamidő alatt pedig tulajdonjog fenntartással szerepel a gépjármű törzskönyvében. Nyíltvégű pénzügyi lízing esetén a lízingbe vevő az összes tartozás kiegyenlítését követően vételi opcióval és vevőkijelölési joggal rendelkezik.
+A c) Lízing típusa cellában meg kell jelölni, hogy a termék „zárt végű” vagy „nyílt végű” pénzügyi lízing. Zártvégű pénzügyi lízing esetén a lízingbevevő az összes szerződéses kötelezettsége teljesítésével megszerzi a gépjármű tulajdonjogát, a futamidő alatt pedig tulajdonjog fenntartással szerepel a gépjármű törzskönyvében. Nyíltvégű pénzügyi lízing esetén a lízingbevevő az összes tartozás kiegyenlítését követően vételi opcióval és vevőkijelölési joggal rendelkezik.
 
 A d) Lízing tárgya cellában a lízingfinanszírozás tárgyát aszerint kell megkülönböztetni, hogy az „új gépjármű” vagy „használt gépjármű” vásárlásához kapcsolódik.
 
-Az e) Devizanem cellában kell megjelölni a lízing nyilvántartásának devizanemét (ISO-kódját). Amennyiben a lízing termék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
+Az e) Devizanem cellában kell megjelölni a lízing nyilvántartásának devizanemét (ISO-kódját). Amennyiben a lízingtermék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
 
 Az f1)–f2) Futamidő (min. és max.) cellában kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban (numerikusan, egész számban) kell megadni. (Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni az f1)–f2) cellákban is.) A futamidő meghatározásához kapcsolódó megjegyzések a p) Egyéb megjegyzések cellában tüntethetők fel (pl. „A max. futamidő hosszát befolyásolja a személygépkocsi maximális életkora szerződéskötéskor, illetve futamidő végén.”).
 
@@ -1628,11 +1734,11 @@ Az l) cellában kell tételes bemutatással, felsorolással szerepeltetni össze
 
 Az m) cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját (annuitásos, csak kamatfizetés havonta-futamidő végi tőketörlesztés stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
 
-Az n1)–n3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. Az n1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az n2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az n3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
+Az n1)–n3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. Az n1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az n2) cellában kell megadni (pl. előtörlesztés). A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az n3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
 
 Az o1)–o2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az o1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), az o2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
-A p) cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható pl. a további biztosítékok kérése, jármű életkorára vonatkozó előírások szerződéskötéskor, szerződés lejáratakor, biztosítással kapcsolatos előírások, illetve jelezhető, ha az adott termékhez fix havidíjas törlesztés kapcsolódik stb.
+A p) cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható pl. a további biztosítékok kérése, jármű életkorára vonatkozó előírások szerződéskötéskor, szerződés lejáratakor, biztosítással kapcsolatos előírások, illetve jelezhető, ha az adott termékhez fix havidíjas törlesztés kapcsolódik.
 
 A q1)–q5) cellákban kell bemutatni az akció jellegére és időtartamára vonatkozó adatokat.
 
@@ -1646,21 +1752,23 @@ A q4)–q5) cellákban feltüntetendő az akció kezdete és záró napja. Amenn
 
 Az r) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
 
+Az s1)–s3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
 9HG, F9HG, 25DG – Termékismertető – Hitel- és pénzügyi lízingtermékek – Gépjárműhitel
 
 A jelentés vonatkozásában gépjárműhitel a fogyasztók részére új és használt személygépkocsik és rendszámozható motorkerékpár megvásárlásához fogyasztónak nyújtott hitel. Itt kell feltüntetni a nem közvetlenül a gépjármű adásvételekor nyújtott hitelkonstrukciókat is (pl. hitellevél alapján történő finanszírozás). Nem ebben, hanem a 9HK táblában kell szerepeltetni a gépjárműhitel kiváltásához, illetve a saját gépjármű fedezete mellett nyújtott szabad felhasználású hiteleket.
 
-A táblázatban kell feltüntetni a pénzügyi intézmény által nyújtott saját gépjármű hitelkonstrukciók jellemző adatait. Amennyiben egy termékhez a gépjármű hitel tárgya, devizanem és kamatozás típusa szempontok alapján alternatív lehetőség kapcsolódik, akkor azt külön termékként vagy termékvariációként kell feltüntetni.
+A táblázatban kell feltüntetni a pénzügyi intézmény által nyújtott saját gépjárműhitel-konstrukciók jellemző adatait. Amennyiben egy termékhez a gépjárműhitel tárgya, devizanem és kamatozás típusa szempontok alapján alternatív lehetőség kapcsolódik, akkor azt külön termékként vagy termékvariációként kell feltüntetni.
 
-Figyelemmel a gépjármű hitelek sokszínűségére és speciális jellemzőire (kereskedőnként és finanszírozandó termékenként eltérő kondíciókkal igényelhetőek, jelentős szerepük van a gyorsan változó akciós lehetőségeknek) – a termékvariációk számosságának optimalizálása érdekében – lehetőség van az árszintben nem túlzottan eltérő egyes hiteltermék változatokat ún. „összevont” konstrukcióként bemutatni, illetve az egyes sztenderd termékek bemutatásánál jelezni a lehetséges kismértékű eltéréseket.
+Figyelemmel a gépjárműhitelek sokszínűségére és speciális jellemzőire (kereskedőnként és finanszírozandó termékenként eltérő kondíciókkal igényelhetőek, jelentős szerepük van a gyorsan változó akciós lehetőségeknek) – a termékvariációk számosságának optimalizálása érdekében – lehetőség van az árszintben nem túlzottan eltérő egyes hiteltermék változatokat ún. „összevont” konstrukcióként bemutatni, illetve az egyes sztenderd termékek bemutatásánál jelezni a lehetséges kismértékű eltéréseket.
 
-Ilyen eset lehet az, amikor egy adott ismérv (pl. hitelösszeg, futamidő, hitelbírálat alapján meghatározott ügyfél-kategória) alakulásától függően különböző kamatláb szintek lehetségesek. Ilyenkor a jellemző kamattartomány (i2) és i3) cellák) bemutatása mellett – az adatok értelmezését segítendő – rövid magyarázatot kell feltüntetni az i6) cellában. (pl. „Az ügyleti kamatláb a választott futamidőtől/összegtől/hitelbírálattól/biztosítás meglététől függően kerül meghatározásra.”)
+Ilyen eset lehet az, amikor egy adott ismérv (pl. hitelösszeg, futamidő, hitelbírálat alapján meghatározott ügyfél-kategória) alakulásától függően különböző kamatláb szintek lehetségesek. Ilyenkor a jellemző kamattartomány [i2) és i3) cellák] bemutatása mellett – az adatok értelmezését segítendő – rövid magyarázatot kell feltüntetni az i6) cellában. (pl. „Az ügyleti kamatláb a választott futamidőtől/összegtől/hitelbírálattól/biztosítás meglététől függően kerül meghatározásra.”)
 
 Nem szükséges külön termékvariációként feltüntetni azon konstrukcióváltozatokat sem, ahol csak a fizetési mód (bankszámláról, csekken történő fizetés), törlesztési lehetőségek, kedvezmények, illetve egyes díjtételek különböznek bizonyos feltételek alapján. Ezen jellemzőkre vonatkozó megjegyzések is megtehetők a jelzett helyeken.
 
 A kért adatok mellett további tájékozódási forrás is jelezhető (pl. „További részletes tájékoztatást a hirdetmény tartalmaz.”). Közölhető a termék elérhetőségeire történő utalás is az o) Egyéb megjegyzés cellában (pl. „Az érintett kereskedések listája megtalálható honlapunkon.”).
 
-Az összes említett esetben, így „összevont termék” bemutatása esetén is, meg kell jelölni a kereskedelmi kommunikációban szereplő THM-et az arra szolgáló numerikus cellában. Az adatot a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet által meghatározott feltételű hiteltípusra, amennyiben a pénzügyi intézmény az adott hitelt nem nyújtja adott feltételekkel, akkor a hiteltípusra létező legközelebbi összeggel és futamidővel kell meghatározni. (Olyan további tulajdonságok tekintetében, amelyek esetén a jogszabály nem ad útmutatást, a leginkább jellemző konstrukció-típushoz tartozó értéket kell ebben a cellában feltüntetni.)
+Az összes említett esetben, így „összevont termék” bemutatása esetén is, meg kell jelölni a kereskedelmi kommunikációban szereplő THM-et az arra szolgáló numerikus cellában. Az adatot a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet által meghatározott feltételű hiteltípusra, amennyiben a pénzügyi intézmény az adott hitelt nem nyújtja adott feltételekkel, akkor a hiteltípusra létező legközelebbi összeggel és futamidővel kell meghatározni. (Olyan további tulajdonságok tekintetében, amelyek esetén a jogszabály nem ad útmutatást, a leginkább jellemző konstrukciótípushoz tartozó értéket kell ebben a cellában feltüntetni.)
 
 A jelzett kereskedelmi kommunikációban szereplő THM és ügyleti kamat értékek számításához fűzendő magyarázat a részletes kitöltési útmutatóban jelzett helyeken, h4) és i6) cellákban tüntetendő fel.
 
@@ -1676,7 +1784,7 @@ A c) Gépjárműhitel tárgya cellában a finanszírozás tárgyát aszerint kel
 
 A d) Devizanem cellában kell megjelölni a kölcsön nyilvántartásának devizanemét (ISO-kódját). Amennyiben a hiteltermék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációnként kell feltüntetni.
 
-Az e1)–e2) Futamidő (min. és max.) cellában kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban (numerikusan, egész számban) kell megadni. (Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni az e1)–e2) cellákban is.) A futamidő meghatározásához kapcsolódó megjegyzések az o) Egyéb megjegyzések cellában tüntethetők fel (pl. személygépkocsi maximális életkora szerződéskötéskor, illetve futamidő végén).
+Az e1)–e2) Futamidő (min. és max.) cellában kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban (numerikusan, egész számban) kell megadni. [Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni az e1)–e2) cellákban is.] A futamidő meghatározásához kapcsolódó megjegyzések az o) Egyéb megjegyzések cellában tüntethetők fel (pl. személygépkocsi maximális életkora szerződéskötéskor, illetve futamidő végén).
 
 Az f1)–f2) Igényelhető kölcsönösszeg (min. és max.) cellákban a minimálisan és maximálisan igényelhető finanszírozási összeget kell feltüntetni forintban, numerikus egész számban a pénznem megjelölése nélkül. Ha a maximálisan finanszírozható összeg nagyságát befolyásolja az önrész mértéke, akkor az f2) cellában az adott terméknél a legmagasabb önrészhez tartozó összeget kell feltüntetni. (A finanszírozási összeghez kapcsolódó megjegyzések az o) cellában feltüntethetők.)
 
@@ -1704,15 +1812,15 @@ Az i4)–i5) cellákhoz fűzendő magyarázat feltüntethető az i6) cellában.
 
 Az i6) cella alkalmazható a kamatozásra vonatkozó további szöveges információk feltüntetésére is.
 
-A j1)–j2) cellákban a kezelési költség mértékét és megfizetés módját kell bemutatni. A j1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és az éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). A j2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel egyidejűleg”, „folyósításkor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs, vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is a j1)–j2) cellákban kell feltüntetni.
+A j1)–j2) cellákban a kezelési költség mértékét és megfizetés módját kell bemutatni. A j1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és az éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). A j2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel egyidejűleg”, „folyósításkor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is a j1)–j2) cellákban kell feltüntetni.
 
-A k) cellában kell tételes bemutatással, felsorolással szerepeltetni összegszerűen vagy százalékos mértékben a fogyasztó által a kölcsön folyósításáig és azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költséget, díjat, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításánál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
+A k) cellában kell tételes bemutatással, felsorolással szerepeltetni összegszerűen vagy százalékos mértékben a fogyasztó által fizetendő, a kölcsön folyósításáig és azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költséget, díjat, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításánál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
 
-Az l) cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás, vagy törlesztés lehetőségét, a törlesztés módját, illetve, hogy az ügyfél által választható-e a törlesztés napja.
+Az l) cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját, illetve, hogy az ügyfél által választható-e a törlesztés napja.
 
-Az m1)–m3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. Az m1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az m2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az m3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
+Az m1)–m3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. Az m1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az m2) cellában kell megadni pl. előtörlesztés. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az m3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
 
-Az n1)–n2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az n1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), az n2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+Az n1)–n2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az n1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x %), az n2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
 Az o) cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható pl. a további biztosítékok kérése, jármű életkorára vonatkozó előírások szerződéskötéskor, szerződés lejáratakor, biztosítással kapcsolatos előírások.
 
@@ -1727,6 +1835,8 @@ A p3) cellában az akció igénybevételének esetleges feltételeit kell szerep
 A p4)–p5) cellákban feltüntetendő az akció kezdete és záró napja. Amennyiben az akció visszavonásig érvényes, a p5) cellában ezt szövegszerűen kell jelezni („visszavonásig”).
 
 A q) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
+
+Az r1)–r3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
 
 9HH, F9HH, 25DH – Termékismertető – Hitel- és pénzügyi lízingtermékek – Hitelkártyák
 
@@ -1744,7 +1854,7 @@ A b) cellában a hitelkártya-konstrukció teljes megnevezését kell szerepelte
 
 A c) Devizanem cellában kell megjelölni a hitel nyilvántartásának devizanemét (ISO-kódját). Amennyiben a hiteltermék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációnként kell feltüntetni.
 
-A d) Kártya típusa cellában kell szerepeltetni a kártya típusát, (dombornyomott, elektronikus, charge, ikermárkás stb.) így ebben a cellába egy kártyához több meghatározás is kapcsolódhat.
+A d) Kártya típusa cellában kell szerepeltetni a kártya típusát, (dombornyomott, elektronikus, charge, ikermárkás stb.) így ebben a cellában egy kártyához több meghatározás is kapcsolódhat.
 
 Az e) cellában kell feltüntetni a kártya érvényességi idejét években kifejezve.
 
@@ -1760,19 +1870,19 @@ Az i1) cellában a kereskedelmi kommunikációban szereplő THM számításakor 
 
 Az i2)–i3) cellákban a konstrukció keretein belül elérhető hitelösszegek tekintetében a legkisebb és a legnagyobb THM mértéket kell feltüntetni.
 
-A THM számításához kapcsolódó megjegyzéseket az i4) cellában kell feltüntetni. Itt kell tételesen megadni a THM számításánál figyelembe vett kamat, kezelési költség éves mértékét vagy összegét, valamint a THM számításánál figyelembe veendő egyéb költség és díjtételek megnevezését és mértékét százalékosan vagy összegszerűen.
+A THM számításához kapcsolódó megjegyzéseket az i4) cellában kell feltüntetni. Itt kell tételesen megadni a THM számításánál figyelembe vett kamat, kezelési költség éves mértékét vagy összegét, valamint a THM számításánál figyelembe veendő egyéb költség- és díjtételek megnevezését és mértékét százalékosan vagy összegszerűen.
 
 A j) cellában az ügyleti kamat éves százalékos mértékét kell szerepeltetni (százalékjel feltüntetése nélkül).
 
 A k1) cellában a főkártya normál éves díját kell feltüntetni a felszámítás devizanemében a k2) cellában a devizanem megjelölésével. A k3) cellában kell megjeleníteni a hitelkártya normál éves díjától eltérő, bármely időszakban felszámított éves díját a felszámítás devizanemében és devizanem megjelölésével.
 
-Az l1)–l2) cellákban kell szerepeltetni a külföldi és belföldi készpénzfelvétel díját (pl. 3%, min. 1000 Ft, vagy 2000 Ft + 2%).
+Az l1)–l2) cellákban kell szerepeltetni a külföldi és belföldi készpénzfelvétel díját (pl. 3%, min. 1000 Ft, vagy 2 000 Ft + 2%).
 
 Az m1) cellában kell feltüntetni a kártyaletiltás díját a felszámítás devizanemében, az m2) cellában a devizanem megjelölésével.
 
 Az n) cellában kell szerepeltetni a kártya normál idejű, illetve sürgősségi pótlásának díjait a felszámítás devizanemében a devizanem megjelölésével.
 
-Az o1)–o2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az o1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat + x%), az o2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+Az o1)–o2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az o1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat + x %), az o2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
 A p) cellában kell szerepeltetni a hitelkeret túllépésének díját, illetve feltüntetni, ha a hitelkeret túllépése nem lehetséges.
 
@@ -1780,7 +1890,7 @@ A q) Egyéb díjak cellában kell szerepeltetni a pénzügyi intézmény részé
 
 Az r) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ebben a cellában kell feltüntetni például a hitelkeret maximális mértékét meghatározó egyéb feltételeket, illetve a hitelkártya nemzetközi elszámolásával kapcsolatos tudnivalókat (elszámolás devizaneme stb.).
 
-Az s) cellában a hitelkártyához kapcsolódó speciális kedvezményeket, jellegzetességeket kell feltüntetni (pl. vásárlási kedvezmény, speciális lehetőségek, támogatások stb.)
+Az s) cellában a hitelkártyához kapcsolódó speciális kedvezményeket, jellegzetességeket kell feltüntetni (pl. vásárlási kedvezmény, speciális lehetőségek, támogatások).
 
 A t1)–t4) cellákban kell bemutatni az akció jellegére és időtartamára vonatkozó adatokat.
 
@@ -1791,6 +1901,8 @@ A t2) cellában a kedvezmények leírását kell szerepeltetni jelezve azt is, h
 A t3)–t4) cellákban feltüntetendő az akció kezdete és záró napja. Amennyiben az akció visszavonásig érvényes, a t4) cellában ezt szövegszerűen kell jelezni („visszavonásig”).
 
 Az u) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
+
+A v1)–v3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
 
 9HI, F9HI, 25DI – Termékismertető – Hitel- és pénzügyi lízingtermékek – Ingatlanlízing
 
@@ -1806,17 +1918,17 @@ Az a) Termékkód cellában – a Felügyelet útmutatása alapján automatikusa
 
 A b) Megnevezés cellában kell a lízingkonstrukció teljes megnevezését szerepeltetni. Amennyiben azonos konstrukció eltérő alternatíváiról van szó (és nincs külön „fantázianeve”), az eltérési szempontot javasolt feltüntetni a termék megnevezésében is.
 
-A c) Lízing típusa cellában meg kell jelölni, hogy a termék „zárt végű” vagy „nyílt végű” pénzügyi lízing. Zártvégű pénzügyi lízing esetén a lízingbe vevő az összes szerződéses kötelezettsége teljesítésével megszerzi az ingatlan tulajdonjogát, a futamidő alatt pedig tulajdonjog fenntartással szerepel az ingatlan tulajdoni lapján, nyíltvégű pénzügyi lízing esetén a lízingbe vevő az összes tartozás kiegyenlítését követően vételi opcióval és vevőkijelölési joggal rendelkezik.
+A c) Lízing típusa cellában meg kell jelölni, hogy a termék „zárt végű” vagy „nyílt végű” pénzügyi lízing. Zártvégű pénzügyi lízing esetén a lízingbevevő az összes szerződéses kötelezettsége teljesítésével megszerzi az ingatlan tulajdonjogát, a futamidő alatt pedig tulajdonjog fenntartással szerepel az ingatlan tulajdoni lapján, nyíltvégű pénzügyi lízing esetén a lízingbevevő az összes tartozás kiegyenlítését követően vételi opcióval és vevőkijelölési joggal rendelkezik.
 
 A d) Lízing tárgya cellában a lízingfinanszírozás tárgyát aszerint kell megkülönböztetni, hogy az „új ingatlan” vagy „használt ingatlan” vásárlásához kapcsolódik.
 
-Az e) Devizanem cellában kell megjelölni a lízing nyilvántartásának devizanemét (ISO-kódját). Amennyiben a lízing termék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
+Az e) Devizanem cellában kell megjelölni a lízing nyilvántartásának devizanemét (ISO-kódját). Amennyiben a lízingtermék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
 
 Az f1)–f2) Futamidő (min. és max.) cellákban kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban (numerikusan, egész számban) kell megadni. [Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni az f1)–f2) cellákban is.]
 
 A g1)–g2) Igényelhető finanszírozási összeg (min. és max.) cellákban a minimálisan és maximálisan igényelhető finanszírozási összeget kell feltüntetni forintban, numerikus egész számban, a pénznem megjelölése nélkül.
 
-A h1)–h2) cellákban kell megadni a finanszírozás maximális arányát meghatározó adatokat. A h1) Alapja cellában kell feltüntetni az igénybe vehető maximális finanszírozási összeg meghatározásának alapjául szolgáló ingatlan értéket (piaci érték, likvidálási érték, hitelbiztosítéki érték) és az h2) cellában a kapcsolódó százalékos mértéket (pl. 60). Mivel a tájékoztatás a fogyasztók számára készül, ezt a szövegezésnél figyelembe kell venni (pl. szakmai rövidítések lehetséges mellőzése).
+A h1)–h2) cellákban kell megadni a finanszírozás maximális arányát meghatározó adatokat. A h1) Alapja cellában kell feltüntetni az igénybe vehető maximális finanszírozási összeg meghatározásának alapjául szolgáló ingatlan értéket (piaci érték, likvidálási érték, hitelbiztosítéki érték) és a h2) cellában a kapcsolódó százalékos mértéket (pl. 60). Mivel a tájékoztatás a fogyasztók számára készül, ezt a szövegezésnél figyelembe kell venni (pl. szakmai rövidítések lehetséges mellőzése).
 
 Az i) cellában kell megjelölni a maradványérték maximális százalékos mértékét.
 
@@ -1842,13 +1954,13 @@ A k6) cella alkalmazható a kamatozásra vonatkozó további szöveges informác
 
 Az l) cellában kell tételes bemutatással, felsorolással szerepeltetni összegszerűen vagy százalékos mértékben a lízingbevevő által a folyósításig fizetendő és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költséget, díjat, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításánál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
 
-Az m) cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás, vagy törlesztés lehetőségét, a törlesztés módját (annuitásos, csak kamatfizetés havonta-futamidő végi tőketörlesztés stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
+Az m) cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját (annuitásos, csak kamatfizetés havonta-futamidő végi tőketörlesztés stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
 
-Az n1)–n3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. Az n1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az n2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az n3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
+Az n1)–n3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. Az n1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az n2) cellában kell megadni pl. előtörlesztés. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az n3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
 
-Az o1)–o2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az o1) Késedelmes kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), az o2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+Az o1)–o2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az o1) Késedelmes kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x %), az o2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
-A p) Egyéb megjegyzés cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható pl. a további biztosítékok kérése, óvadéki betét szükségessége, magasabb finanszírozási arány feltételei stb.
+A p) Egyéb megjegyzés cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható pl. a további biztosítékok kérése, óvadéki betét szükségessége, magasabb finanszírozási arány feltételei.
 
 A q1)–q5) cellákban kell bemutatni az akció jellegére és időtartamára vonatkozó adatokat.
 
@@ -1862,13 +1974,15 @@ A q4)–q5) cellákban feltüntetendő az akció kezdete és záró napja. Amenn
 
 Az r) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
 
+Az s1)–s3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
 9HJ, F9HJ, 25DJ – Termékismertető – Hitel- és pénzügyi lízingtermékek – Szabad felhasználású jelzáloghitel
 
-A jelentés vonatkozásában szabad felhasználású jelzáloghitel terméknek minősül az ingatlanon alapított jelzálog fedezete mellett, felhasználási célhoz nem kötötten fogyasztónak folyósított hitel. Itt kell feltüntetni az ingatlan célú hitel kiváltására folyósított jelzáloghitelek főbb adatait is. Nem kell szerepeltetni a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítéséről szóló 2011. évi LXXV. törvény alapján nyújtott gyűjtőszámlahiteleket azok speciális jellege és igénylési körülményei miatt.
+A jelentés vonatkozásában szabad felhasználású jelzáloghitel terméknek minősül az ingatlanon alapított jelzálog fedezete mellett, felhasználási célhoz nem kötötten fogyasztónak folyósított hitel. Itt kell feltüntetni az ingatlan célú hitel kiváltására folyósított jelzáloghitelek főbb adatait is. Nem kell szerepeltetni a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény alapján nyújtott gyűjtőszámlahiteleket azok speciális jellege és igénylési körülményei miatt.
 
 A táblázatban kell feltüntetni a pénzügyi intézmény által nyújtott saját szabad felhasználású jelzáloghitel-konstrukciók jellemző adatait. A termékvariációk számosságának optimalizálása érdekében célszerű „összevont” konstrukcióként bemutatni az – egyes megkülönböztető ismérvek alapján egyébként részleteiben is megjeleníthető, árszintben nem túlzottan eltérő – hiteltermékeket. Ilyen eset lehet az, amikor az adott ismérv (pl. hitelösszeg, futamidő, hitelbírálat alapján meghatározott ügyfél-kategória) alakulásától függően különböző kamatláb szintek lehetségesek.
 
-A konstrukció tekintetében lehetséges kamattartomány a h2)–h3) cellákban tüntetendő fel. A h6) cellában a kamatadatok értelmezését rövid magyarázat is segítheti (pl. „A hitel ügyleti kamatlába a választott futamidőtől/összegtől/hitelbírálattól függően kerül meghatározásra X%–Y% között”; „A kamat éves mértékénél feltüntetett érték 20 éves futamidejű/5 millió forint összegű, normál kockázati besorolású, egyenletes törlesztésű hitelre vonatkozik.”). További tájékoztatás elérhetősége is jelezhető (pl. „További részletes tájékoztatást a hirdetmény tartalmaz.”).
+A konstrukció tekintetében lehetséges kamattartomány a h2)–h3) cellákban tüntetendő fel. A h6) cellában a kamatadatok értelmezését rövid magyarázat is segítheti (pl. „A hitel ügyleti kamatlába a választott futamidőtől/összegtől/hitelbírálattól függően kerül meghatározásra X%-Y% között”; „A kamat éves mértékénél feltüntetett érték 20 éves futamidejű/5 millió forint összegű, normál kockázati besorolású, egyenletes törlesztésű hitelre vonatkozik.”). További tájékoztatás elérhetősége is jelezhető (pl. „További részletes tájékoztatást a hirdetmény tartalmaz.”).
 
 Az összes említett esetben, így „összevont termék” bemutatása esetén is, meg kell jelölni a kereskedelmi kommunikációban szereplő THM-et az arra szolgáló numerikus cellában. Az adatot a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet által meghatározott feltételű hiteltípusra, amennyiben a pénzügyi intézmény az adott hitelt nem nyújtja adott feltételekkel, akkor a hiteltípusra létező legközelebbi összeggel és futamidővel kell meghatározni. (Olyan további tulajdonságok tekintetében, amelyek esetén a jogszabály nem ad útmutatást, a leginkább jellemző konstrukció-típushoz tartozó értéket kell ebben a cellában feltüntetni.)
 
@@ -1886,7 +2000,7 @@ A b) cellában a szabad felhasználású jelzáloghitel-konstrukció teljes megn
 
 A c) Devizanem cellában kell megjelölni a hitel nyilvántartásának devizanemét (ISO-kódját). Amennyiben a szabad felhasználású jelzáloghitel-termék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
 
-A d1)–d2) Futamidő (min. és max.) cellákban kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban (numerikusan, egész számban) kell megadni. (Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni a d1) és d2) cellákban is.)
+A d1)–d2) Futamidő (min. és max.) cellákban kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban (numerikusan, egész számban) kell megadni. [Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni a d1) és d2) cellákban is.]
 
 Az e1)–e2) Igényelhető kölcsönösszeg (min. és max.) cellákban a minimálisan és maximálisan igénybe vehető hitelösszeget kell feltüntetni forintban, numerikus, egész számban, a pénznem megjelölése nélkül. Devizahitelek esetében, amennyiben az igényelhető hitelösszeg devizában meghatározott, az átváltás árfolyama az egyéb megjegyzéseknél az n) Egyéb megjegyzés cellában jelezhető.
 
@@ -1914,15 +2028,15 @@ Amennyiben a konstrukció nem kamatbázishoz kötődik, a h4)–h5) cellákat �
 
 Az összevont termékvariációk tekintetében a kamatozással kapcsolatos, illetve a h1)–h5) cellára vonatkozó további szöveges információk feltüntetése is a h6) Kamatozáshoz kapcsolódó megjegyzések cellában lehetséges.
 
-Az i1)–i5) cellákban a futamidő alatt folyamatosan felszámítandó kezelési költség alapját, mértékét összegszerűen vagy százalékos mértékben kell bemutatni. Az i1) Kezelési költség alapja cellában tüntetendő fel a kezelési költség felszámításának alapja pl. „ügyfélév elején fennálló tőketartozás”. Az i2)–i5) cellákban kell rögzíteni a pénzügyi intézmény által felszámítandó kezelési költség éves százalékos mértékét, minimumát, maximumát, illetve tételes összegét és devizanemét. Amennyiben a futamidő alatt folyamatosan tételes díj kerül felszámításra ezen a jogcímen, akkor annak éves mértékét a minimum és maximum összegre vonatkozó cellákban egyaránt fel kell tüntetni (i3) és i4) cellák).
+Az i1)–i5) cellákban a futamidő alatt folyamatosan felszámítandó kezelési költség alapját, mértékét összegszerűen vagy százalékos mértékben kell bemutatni. Az i1) Kezelési költség alapja cellában tüntetendő fel a kezelési költség felszámításának alapja pl. „ügyfél év elején fennálló tőketartozása”. Az i2)–i5) cellákban kell rögzíteni a pénzügyi intézmény által felszámítandó kezelési költség éves százalékos mértékét, minimumát, maximumát, illetve tételes összegét és devizanemét. Amennyiben a futamidő alatt folyamatosan tételes díj kerül felszámításra ezen a jogcímen, akkor annak éves mértékét a minimum és maximum összegre vonatkozó cellákban egyaránt fel kell tüntetni (i3) és i4) cellák).
 
 A j) cellában kell tételenként bemutatni a hitelfelvevő által a hitel folyósításáig fizetendő és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költséget, díjat összegszerűen vagy százalékos mértékben, amelyek a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításánál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
 
-A k) Folyósítás és törlesztés jellemzői cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás, vagy törlesztés lehetőségét, a törlesztés módját (annuitásos, csak kamatfizetés havonta-futamidő végi tőketörlesztés stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
+A k) Folyósítás és törlesztés jellemzői cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját (annuitásos, csak kamatfizetés havonta-futamidő végi tőketörlesztés stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
 
-Az l1)–l3) cellákban a szerződésmódosítással kapcsolatos díjakat összegszerűen vagy százalékos mértékben kell feltüntetni. Az l1) cellában be kell mutatni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az l2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az l3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
+Az l1)–l3) cellákban a szerződésmódosítással kapcsolatos díjakat összegszerűen vagy százalékos mértékben kell feltüntetni. Az l1) cellában be kell mutatni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az l2) cellában kell megadni pl. előtörlesztés. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az l3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
 
-Az m1)–m2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az m1) Késedelmes kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), az m2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+Az m1)–m2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az m1) Késedelmes kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x %), az m2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
 Az n) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható például a további biztosítékok kérése, finanszírozási arány meghatározás feltételei, a türelmi időre vonatkozó előírások, illetve feltüntethető itt a hitelterméket a pénzügyi intézmény javára, nevében, felelősségére és kockázatára értékesítő hitelközvetítők megnevezése is.
 
@@ -1937,6 +2051,8 @@ Az o3) cellában az akció igénybevételének esetleges feltételeit kell szere
 Az o4)–o5) cellákban feltüntetendő az akció kezdete és záró napja. Amennyiben az akció visszavonásig érvényes, az o5) cellában ezt szövegszerűen kell jelezni („visszavonásig”).
 
 A p) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
+
+A q1)–q3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
 
 9HK, F9HK, 25DK – Termékismertető – Hitel- és pénzügyi lízingtermékek – Személyi kölcsön
 
@@ -1958,9 +2074,9 @@ A b) cellában kell a hitelkonstrukció teljes megnevezését szerepeltetni. Ame
 
 A c) Devizanem cellában kell megjelölni a kölcsön nyilvántartásának devizanemét (ISO-kódját). Amennyiben a hiteltermék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
 
-A d1)–d2) Futamidő (min. és max.) cellákban kell szerepeltetni a futamidő minimális és maximális hosszát, a d3) cellában pedig azt, hogy az d1)–d2) cellák értékei hónapban („hó”), vagy hétben („hét”) értendőek (numerikus, egész számban). Az utóbbi opció a heti törlesztési gyakoriságú hitelek esetén választható. (Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hetekben vagy hónapokban megadott időtartamát kell feltüntetni a d1)–d2) cellákban is.)
+A d1)–d2) Futamidő (min. és max.) cellákban kell szerepeltetni a futamidő minimális és maximális hosszát, a d3) cellában pedig azt, hogy a d1)–d2) cellák értékei hónapban („hó”), vagy hétben („hét”) értendőek (numerikus, egész számban). Az utóbbi opció a heti törlesztési gyakoriságú hitelek esetén választható. (Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hetekben vagy hónapokban megadott időtartamát kell feltüntetni a d1)–d2) cellákban is.)
 
-Az e1)–e2) cellákban a minimálisan és maximálisan igényelhető finanszírozási összeget kell feltüntetni forintban, numerikus, egész számban, a pénznem megjelölése nélkül.
+Az e1)–e2) cellákban a minimálisan és maximálisan igényelhető finanszírozási összeget kell feltüntetni forintban, numerikus egész számban, a pénznem megjelölése nélkül.
 
 Az f1)–f3) cellákban a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint kiszámított teljes hiteldíj mutató értékeket kell szerepeltetni százalékos formában, numerikusan két tizedes pontossággal % jel feltüntetése nélkül.
 
@@ -1972,29 +2088,29 @@ A THM számításához kapcsolódó megjegyzéseket az f4) cellában kell feltü
 
 A g1)–g6) cellákban kell tájékoztatást adni a hitelkonstrukció kamat adatairól.
 
-A g1) cellában kell megadni a kamatozás típusát azaz, hogy a kamat mértéke a futamidő alatt fix vagy változó. A kamatozás típusához kapcsolódó esetleges további megjegyzéseket a g6) cellában lehet megtenni (pl. változtatható kamatozás, változó kamat esetén kamatperiódus hossza stb.).
+A g1) cellában kell megadni a kamatozás típusát, azaz, hogy a kamat mértéke a futamidő alatt fix vagy változó. A kamatozás típusához kapcsolódó esetleges további megjegyzéseket a g6) cellában lehet megtenni (pl. változtatható kamatozás, változó kamat esetén kamatperiódus hossza).
 
 A g2)–g3) cellákban az ügyleti kamat minimális és maximális éves százalékos mértékét kell szerepeltetni (% jel feltüntetése nélkül).
 
 A g4) cellában a pénzügyi intézmény által alkalmazott kamatbázist kell feltüntetni pl. 3 havi BUBOR.
 
-A g5) cellában az irányadó kamathoz kapcsolódó kamat felár / marge szerepeltetendő, illetve ha az intézmény alkalmaz további (kockázati) felárat, annak mértékét kell százalékos formában megadni. Amennyiben a konstrukció nem kamatbázishoz kötődik, a g4)–g5) cellákat „nincs” megjelöléssel kell kitölteni.
+A g5) cellában az irányadó kamathoz kapcsolódó kamat felár/marge szerepeltetendő, illetve ha az intézmény alkalmaz további (kockázati) felárat, annak mértékét kell százalékos formában megadni. Amennyiben a konstrukció nem kamatbázishoz kötődik, a g4)–g5) cellákat „nincs” megjelöléssel kell kitölteni.
 
 A g4)–g5) cellához fűzendő magyarázat is feltüntethető a g6) cellában.
 
 A g6) cella alkalmazható a kamatozásra vonatkozó további szöveges információk feltüntetésére is.
 
-A h1)–h2) cellákban a kezelési költség mértékét és megfizetésének módját kell bemutatni. A h1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és az éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). A h2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel egyidejűleg”, „folyósításkor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs, vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is a h1)–h2) cellákban kell feltüntetni.
+A h1)–h2) cellákban a kezelési költség mértékét és megfizetésének módját kell bemutatni. A h1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és az éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). A h2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel egyidejűleg”, „folyósításkor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is a h1)–h2) cellákban kell feltüntetni.
 
-Az i) cellában kell tételes bemutatással, felsorolással szerepeltetni összegszerűen vagy százalékos mértékben a fogyasztó által a kölcsön folyósításáig és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költséget, díjat, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításánál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
+Az i) cellában kell tételes bemutatással, felsorolással szerepeltetni összegszerűen vagy százalékos mértékben a fogyasztó által fizetendő, a kölcsön folyósításáig és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költséget, díjat, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításánál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
 
-A j) cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás, vagy törlesztés lehetőségét, a törlesztés módját, illetve hogy az ügyfél által választható-e a törlesztés napja.
+A j) cellában kell feltüntetni a folyósítás és törlesztés jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját, illetve hogy az ügyfél által választható-e a törlesztés napja.
 
-A k1)–k3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. A k1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét a k2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét a k3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
+A k1)–k3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni összegszerűen vagy százalékos mértékben. A k1) cellában ki kell emelni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét a k2) cellában kell megadni pl. előtörlesztés. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét a k3) cellában kell feltüntetni (pl. fizetési átütemezés, fedezetmódosítás, átvállalás).
 
-Az l1)–l2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az l1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), az l2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+Az l1)–l2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az l1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x %), az l2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
-Az m) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható pl. a további biztosítékok kérése (kezes), gépjármű fedezet mellett nyújtott kölcsön esetén a gépjármű terhelhetőségének vetítési alapja, mértéke, a kapcsolódó biztosítás stb.
+Az m) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható pl. a további biztosítékok kérése (kezes), gépjármű fedezet mellett nyújtott kölcsön esetén a gépjármű terhelhetőségének vetítési alapja, mértéke, a kapcsolódó biztosítás.
 
 Az n1)–n5) cellákban kell bemutatni az akció jellegére és időtartamára vonatkozó adatokat.
 
@@ -2008,17 +2124,19 @@ Az n4)–n5) cellákban feltüntetendő az akció kezdete és záró napja. Amen
 
 Az o) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
 
+A p1)–p3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
 9HL, F9HL, 25DL – Termékismertető – Hitel- és pénzügyi lízingtermékek – Ingatlancélú hitel
 
-A jelentés vonatkozásában ingatlancélú hitelterméknek minősül az ingatlanon alapított jelzálog fedezete, vagy más fedezet (pl. óvadéki betét) mellett, lakáscélú és egyéb ingatlancélú felhasználási célhoz kötött (pl. lakás, üdülő, zártkert, garázs vásárlása, ingatlan bővítése, építése, felújítása stb.) fogyasztónak nyújtott hitel. Nem kell szerepeltetni a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény alapján nyújtott áthidaló kölcsönöket azok speciális jellege és igénylési körülményei miatt.
+A jelentés vonatkozásában ingatlancélú hitelterméknek minősül az ingatlanon alapított jelzálog fedezete vagy más fedezet (pl. óvadéki betét) mellett, lakáscélú és egyéb ingatlancélú felhasználási célhoz kötött (pl. lakás, üdülő, zártkert, garázs vásárlása, ingatlan bővítése, építése, felújítása) fogyasztónak nyújtott hitel. Nem kell szerepeltetni a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény alapján nyújtott áthidaló kölcsönöket azok speciális jellege és igénylési körülményei miatt.
 
 Ebben a táblában kell feltüntetni azokat a hiteltermékeket is, amelyeket a pénzügyi intézmény ingatlan célra folyósít, függetlenül attól, hogy ingatlanfedezet nem kerül bevonásra.
 
 A táblázatban kell feltüntetni a pénzügyi intézmény által nyújtott saját ingatlancélú hitelkonstrukciók jellemző adatait. Amennyiben egy termékhez a devizanem, a kamatozás típusa (fix, változó), a konstrukció jellege (lakáscélú piaci feltételű, lakáscélú államilag támogatott, nem lakáscélú) szempontok alapján alternatív lehetőség kapcsolódik, akkor azt külön termékként vagy termékvariációként kell feltüntetni.
 
-A termékvariációk számosságának optimalizálása érdekében célszerű „összevont” konstrukcióként bemutatni az – egyes megkülönböztető ismérvek alapján egyébként részleteiben is megjeleníthető, árszintben nem túlzottan eltérő – hiteltermékeket. Ilyen eset lehet az, amikor az adott ismérv (pl. hitelösszeg, futamidő, hitelbírálat alapján meghatározott ügyfél-kategória, támogatott hiteleknél a nevelt gyermekek száma) alakulásától függően különböző kamatláb szintek lehetségesek.
+A termékvariációk számosságának optimalizálása érdekében célszerű „összevont” konstrukcióként bemutatni az egyes megkülönböztető ismérvek alapján egyébként részleteiben is megjeleníthető, árszintben nem túlzottan eltérő hiteltermékeket. Ilyen eset lehet az, amikor az adott ismérv (pl. hitelösszeg, futamidő, hitelbírálat alapján meghatározott ügyfél-kategória, támogatott hiteleknél a nevelt gyermekek száma) alakulásától függően különböző kamatláb szintek lehetségesek.
 
-Az ügyfél által fizetendő lehetséges kamattartomány a k2) és k3) cellákban tüntetendő fel, továbbá a k6) cellában a kamatozásra vonatkozó rövid magyarázat is megjeleníthető (pl. „A hitel ügyleti kamatlába a választott futamidőtől / összegtől / hitelbírálattól / gyermekek számától függően kerül meghatározásra X%–Y% között”). Összevont konstrukció esetén is a THM értékek számításánál figyelembe vett kamat mértékére vonatkozó megjegyzést a j4) cellában kell szerepeltetni.
+Az ügyfél által fizetendő lehetséges kamattartomány a k2) és k3) cellákban tüntetendő fel, továbbá a k6) cellában a kamatozásra vonatkozó rövid magyarázat is megjeleníthető (pl. „A hitel ügyleti kamatlába a választott futamidőtől/összegtől/hitelbírálattól/gyermekek számától függően kerül meghatározásra X%-Y% között”). Összevont konstrukció esetén is a THM értékek számításánál figyelembe vett kamat mértékére vonatkozó megjegyzést a j4) cellában kell szerepeltetni.
 
 Nem szükséges külön termékvariációként feltüntetni azon konstrukcióváltozatokat, ahol csak a fizetési mód (bankszámláról, csekken történő fizetés), törlesztési lehetőségek, kedvezmények, illetve egyes díjtételek különböznek bizonyos feltételek alapján. Ezen jellemzőkre vonatkozó megjegyzések megtehetők az érintett ismérvet bemutató mezőben vagy a q) Egyéb megjegyzés mezőben. Ezen túlmenően további tájékoztatás elérhetősége is jelezhető (pl. „További részletes tájékoztatást a hirdetmény tartalmaz.”).
 
@@ -2032,11 +2150,11 @@ A b) cellában az ingatlancélú hitelkonstrukció teljes megnevezését kell sz
 
 A c) Konstrukció jellege cellában szükséges megjelölni a konstrukció jellegét, miszerint „lakáscélú piaci feltételű”, „lakáscélú államilag támogatott” vagy „nem lakáscélú”.
 
-A d) A felhasználás célja cellában kell megnevezni az ingatlancélú hitel felhasználási célját, ami lehet például új, vagy használt lakás vásárlása, építése, felújítása, korszerűsítése, bővítése, egyéb, nem lakáscélú ingatlan megvásárlása stb.
+A d) A felhasználás célja cellában kell megnevezni az ingatlancélú hitel felhasználási célját, ami lehet például új vagy használt lakás vásárlása, építése, felújítása, korszerűsítése, bővítése, egyéb, nem lakáscélú ingatlan megvásárlása.
 
 Az e) Devizanem cellában kell megjelölni a hitel nyilvántartásának devizanemét (ISO-kódját). Amennyiben a hiteltermék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
 
-Az f1)–f2) Futamidő (min. és max.) cellákban kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban numerikusan, egész számban kell megadni. [Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni az f1) és f2) cellákban is.]
+Az f1)–f2) Futamidő (min. és max.) cellákban kell szerepeltetni a futamidő minimális és maximális hosszát. A futamidőt hónapokban numerikusan, egész számban kell megadni. (Amennyiben a futamidő egy meghatározott fix időszak lehet csak, akkor annak a hónapokban megadott időtartamát kell feltüntetni az f1) és f2) cellákban is.)
 
 A g1)–g2) Igényelhető kölcsönösszeg (min. és max.) cellákban a minimálisan és maximálisan igényelhető hitelösszeget kell feltüntetni forintban, numerikus egész számban, a pénznem feltüntetése nélkül. Devizahitelek esetében, amennyiben az igényelhető hitelösszeg devizában meghatározott, az átváltás árfolyama a q) Egyéb megjegyzések cellában jelezhető.
 
@@ -2068,15 +2186,15 @@ Amennyiben a konstrukció nem kamatbázishoz kötődik, a k4)–k5) cellákat �
 
 A kamatozással kapcsolatos, illetve a k1)–k5) cellákra vonatkozó további szöveges információk feltüntetése is a k6) Kamatozáshoz kapcsolódó megjegyzések cellában lehetséges.
 
-Az l1)–l5) cellákban a futamidő alatt felszámítandó kezelési költség alapját, mértékét kell bemutatni. A l1) Kezelési költség alapja cellában tüntetendő fel a kezelési költség felszámításának, vetítésének alapja. Az l2)–l5) cellákban kell rögzíteni a pénzügyi intézmény által felszámítandó kezelési költség éves százalékos mértékét, minimumát, maximumát, illetve tételes összegét és devizanemét. Amennyiben a futamidő alatt folyamatosan tételes díj kerül felszámításra ezen a jogcímen, akkor annak éves mértékét a minimum és maximum összegre vonatkozó cellákban egyaránt fel kell tüntetni [l3) és l4) cellák].
+Az l1)–l5) cellákban a futamidő alatt felszámítandó kezelési költség alapját, mértékét kell bemutatni. Az l1) Kezelési költség alapja cellában tüntetendő fel a kezelési költség felszámításának, vetítésének alapja. Az l2)–l5) cellákban kell rögzíteni a pénzügyi intézmény által felszámítandó kezelési költség éves százalékos mértékét, minimumát, maximumát, illetve tételes összegét és devizanemét. Amennyiben a futamidő alatt folyamatosan tételes díj kerül felszámításra ezen a jogcímen, akkor annak éves mértékét a minimum és maximum összegre vonatkozó cellákban egyaránt fel kell tüntetni (l3) és l4) cellák).
 
 Az m) cellában kell tételenként, összegszerűen vagy százalékos mértékben bemutatni a hitelfelvevő által a hitel folyósításáig fizetendő és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó összes olyan költséget, díjat, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításnál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
 
-Az n) Folyósítás és törlesztés cellában kell feltüntetni a hitel folyósításának és törlesztésének jellemzőit, mint például a devizában folyósítás, vagy törlesztés lehetőségét, a törlesztés módját (annuitásos, csak kamatfizetés havonta-futamidő végi tőketörlesztés stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
+Az n) Folyósítás és törlesztés cellában kell feltüntetni a hitel folyósításának és törlesztésének jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját (annuitásos, csak kamatfizetés havonta-futamidő végi tőketörlesztés stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
 
-Az o1)–o3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni. Az o1) cellában be kell mutatni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az o2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az o3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
+Az o1)–o3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni. Az o1) cellában be kell mutatni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az o2) cellában kell megadni (pl. előtörlesztés). A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az o3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
 
-A p1)–p2) cellákban kell bemutatni azon tételek megnevezését és mértékét, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. A p1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), a p2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+A p1)–p2) cellákban kell bemutatni azon tételek megnevezését és mértékét, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. A p1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x %), a p2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
 A q) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható például a további biztosítékok kérése, finanszírozási arány meghatározás feltételei, a türelmi időre vonatkozó előírások, illetve feltüntethető itt a hitelterméket értékesítő hitelközvetítők megnevezése is.
 
@@ -2091,6 +2209,8 @@ Az r3) cellában az akció igénybevételének esetleges feltételeit kell szere
 Az r4)–r5) cellákban feltüntetendő az akció kezdete és záró napja. Amennyiben az akció visszavonásig érvényes, az r5) cellában ezt szövegszerűen kell jelezni („visszavonásig”).
 
 Az s) cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
+
+A t1)–t3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
 
 9HM, F9HM, 25DM – Termékismertető – Hitel- és pénzügyi lízingtermékek – Megtakarítási fedezet mellett nyújtott hitel
 
@@ -2116,7 +2236,7 @@ Az f) cellában a hitel fedezetének meghatározását kell szerepeltetni, mint 
 
 A g1)–g2) cellákban kell megadni a finanszírozás maximális arányát meghatározó adatokat. A g1) Finanszírozás alapja cellában kell feltüntetni az igénybe vehető maximális finanszírozási összeg meghatározásának alapjául szolgáló értéket és a g2) Maximális mértéke cellában a kapcsolódó százalékos mértéket (pl. 60). Mivel a tájékoztatás a fogyasztók számára készül, ezt a szövegezésnél figyelembe kell venni (pl. szakmai rövidítések lehetséges mellőzése).
 
-A h1)–h3) cellákban a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint kiszámított teljes hiteldíj mutató értékeket kell szerepeltetni százalékos formában, numerikusan, két tizedes pontossággal a%-jel feltüntetése nélkül.
+A h1)–h3) cellákban a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint kiszámított teljes hiteldíj mutató értékeket kell szerepeltetni százalékos formában, numerikusan, két tizedes pontossággal a %-jel feltüntetése nélkül.
 
 A h1) A ker. kommunikációban szereplő THM cellában a THM számításakor a kormányrendelet kereskedelmi kommunikációra vonatkozó előírásainál meghatározott feltételű hitelt kell alapul venni.
 
@@ -2138,15 +2258,15 @@ Amennyiben a konstrukció nem kamatbázishoz kötődik, az i4)–i5) cellákat �
 
 A kamatozással kapcsolatos szöveges információk feltüntetése is az i6) Kamatozáshoz kapcsolódó megjegyzések cellában lehetséges.
 
-A j1)–j2) cellákban a kezelési költség mértékét és megfizetés módját kell bemutatni. A j1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és az éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). A j2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel egyidejűleg”, „folyósításkor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs, vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is a j1)–j2) cellákban kell feltüntetni.
+A j1)–j2) cellákban a kezelési költség mértékét és megfizetés módját kell bemutatni. A j1) cellában tüntetendő fel a pénzügyi intézmény által felszámítandó kezelési költség alapja és az éves mértéke százalékosan vagy összegszerűen (pl. jóváhagyott hitelösszeg 2%-a). A j2) cellában kell megadni a kezelési költség megfizetésének módját (pl. „havonta esedékes, a törlesztőrészlettel egyidejűleg”, „folyósításkor esedékes, egyszeri kezelési költség”). Amennyiben az intézmény adminisztrációs vagy más megnevezéssel kezelési költség jellegű díjat számol fel, azt is a j1)–j2) cellákban kell feltüntetni.
 
 A k) cellában kell tételenként bemutatni a hitelfelvevő által a hitel folyósításáig fizetendő és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költség, díj megnevezését és mértékét a meghirdetés módja szerint, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításnál nem kell figyelembe venni, és a táblázat egyéb celláiban sincs nevesítve.
 
-Az l) cellában kell feltüntetni a hitel folyósításának és törlesztésének jellemzőit, mint például a devizában folyósítás, vagy törlesztés lehetőségét, a törlesztés módját (pl. egyenlő részletekben (annuitás), vagy havi kamatfizetéssel-futamidő végén történő tőkefizetéssel, vagy futamidő végén történő kamat és tőkefizetéssel stb.), illetve hogy az ügyfél által választható-e a törlesztés napja.
+Az l) cellában kell feltüntetni a hitel folyósításának és törlesztésének jellemzőit, mint például a devizában folyósítás vagy törlesztés lehetőségét, a törlesztés módját [pl. egyenlő részletekben (annuitás), vagy havi kamatfizetéssel-futamidő végén történő tőkefizetéssel, vagy futamidő végén történő kamat és tőkefizetéssel], illetve hogy az ügyfél által választható-e a törlesztés napja.
 
-Az m1)–m3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni. Az m1) cellában be kell mutatni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az m2) cellában kell megadni pl. előtörlesztés stb. A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az m3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
+Az m1)–m3) cellákban a szerződésmódosítással kapcsolatos díjakat kell feltüntetni. Az m1) cellában be kell mutatni a teljes előtörlesztéssel (végtörlesztéssel) összefüggően fizetendő díj(ak) mértékét, illetve összegét. Az egyéb, pénzügyi teljesítéssel összefüggő díj mértékét, illetve összegét az m2) cellában kell megadni (pl. előtörlesztés). A nem pénzügyi teljesítéssel összefüggő szerződésmódosítás mértékét, illetve összegét az m3) cellában kell feltüntetni pl. fizetési átütemezés, fedezetmódosítás.
 
-Az n1)–n2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az n1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), az n2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételeket (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+Az n1)–n2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. Az n1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x %), az n2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételeket (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
 Az o) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra. Ide sorolható például a további biztosítékok kérése, finanszírozási arány meghatározás feltételei, a türelmi időre vonatkozó előírások.
 
@@ -2161,6 +2281,8 @@ A p3) cellában az akció igénybevételének esetleges feltételeit kell szerep
 A p4)–p5) cellákban feltüntetendő az akció kezdete és záró napja. Amennyiben az akció visszavonásig érvényes, a p5) cellában ezt szövegszerűen kell jelezni („visszavonásig”).
 
 A q) cellában a pénzügyi intézmény honlapján az adott termék részletes leírásához vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
+
+Az r1)–r3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
 
 9HS, F9HS – Termékismertető – Hitel- és pénzügyi lízingtermékek – Számlahitel
 
@@ -2178,9 +2300,9 @@ A b) cellában a számlahitel-konstrukció teljes megnevezését kell szerepelte
 
 A c) Devizanem cellában kell megjelölni a hitel nyilvántartásának devizanemét (ISO-kódját). Amennyiben a számlahitel-termék igénybe vehető forintban és egyéb devizanemben is, akkor a változatokat külön termékként vagy termékvariációként kell feltüntetni.
 
-A d) cellában kell szerepeltetni a futamidő maximális hosszát. A futamidőt hónapokban kell megadni. Amennyiben a szerződésben taxatíve nem kerül rögzítésre a futamidő mértéke, akkor a szerződésben / általános szerződési feltételekben / üzletszabályzatban meghatározott hitelkeret felülvizsgálat rendszeressége alapján kell a futamidő maximális mértékét megadni, és ennek tényét az l) Egyéb megjegyzések cellában feltüntetni.
+A d) cellában kell szerepeltetni a futamidő maximális hosszát. A futamidőt hónapokban kell megadni. Amennyiben a szerződésben taxatíve nem kerül rögzítésre a futamidő mértéke, akkor a szerződésben/általános szerződési feltételekben/üzletszabályzatban meghatározott hitelkeret felülvizsgálat rendszeressége alapján kell a futamidő maximális mértékét megadni, és ennek tényét az l) Egyéb megjegyzések cellában feltüntetni.
 
-Az e1)–e2) Igényelhető hitelkeret (min. és max.) cellákban a konstrukcióhoz tartozó minimálisan és maximálisan igényelhető hitelkeret nagyságát kell feltüntetni forintban, numerikus, egész számban, a pénznem megjelölése nélkül. Devizahitelek esetében amennyiben az igényelhető hitelkeret devizában meghatározott, az átváltás árfolyama az egyéb megjegyzéseknél az l) cellában jelezhető. Az e3) Igénylés feltétele cellában az igényelhető egyedi hitelkeretet meghatározó feltételeket kell szerepeltetni (pl. max. az igénylő havi rendszeres jövedelmének kétszerese).
+Az e1)–e2) Igényelhető hitelkeret (min. és max.) cellákban a konstrukcióhoz tartozó minimálisan és maximálisan igényelhető hitelkeret nagyságát kell feltüntetni forintban, numerikus, egész számban, a pénznem megjelölése nélkül. Devizahitelek esetében, amennyiben az igényelhető hitelkeret devizában meghatározott, az átváltás árfolyama az egyéb megjegyzéseknél az l) cellában jelezhető. Az e3) Igénylés feltétele cellában az igényelhető egyedi hitelkeretet meghatározó feltételeket kell szerepeltetni (pl. max. az igénylő havi rendszeres jövedelmének kétszerese).
 
 Az f1)–f3) cellákban a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint kiszámított teljes hiteldíj mutató értékeket kell szerepeltetni százalékos formában, numerikusan, két tizedes pontossággal %-jel feltüntetése nélkül.
 
@@ -2196,8 +2318,6 @@ A g1) Kamatozás típusa cellában kell megadni a kamatozás típusát, azaz, ho
 
 A g2)–g3) Kamat éves mértéke (min. és max.) cellában az ügyleti kamat minimális és maximális éves százalékos mértékét kell szerepeltetni (% jel feltüntetése nélkül). A g2)–g3) cellához fűzendő magyarázat feltüntethető a g6) cellában.
 
-Amennyiben a konstrukció nem kamatbázishoz kötődik, az i4)–i5) cellákat „nincs” megjelöléssel kell kitölteni.
-
 A g4) cellában kell feltüntetni, ha a pénzügyi intézmény kamatbázist alkalmaz, pl. 3 havi BUBOR.
 
 A g5) cellában az irányadó kamathoz kapcsolódó kamat felár/marge szerepeltetendő, illetve ha a pénzügyi intézmény további (kockázati) felárakat alkalmaz, akkor azok mértékét kell százalékos formában megadni.
@@ -2212,7 +2332,7 @@ Az i1)–i2) cellákban a kezelési költség mértékét és megfizetés módj�
 
 A j) cellában kell tételenként bemutatni a hitelfelvevő által fizetendő, és az azt követően, a futamidő alatt, illetve az ügylet lezárásához kapcsolódó minden olyan költség, díj megnevezését és mértékét a meghirdetés módja szerint, amelyet a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló kormányrendelet előírásai szerint a THM számításnál nem kell figyelembe venni és a táblázat egyéb celláiban sincs nevesítve.
 
-A k1)–k2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. A k1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x%), a k2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
+A k1)–k2) cellákban kell bemutatni azon tételeket, melyek az ügyfél szerződésből eredő kötelezettségeinek késedelmes teljesítése esetén kerülnek elszámolásra. A k1) Késedelmi kamat mértéke cella tartalmazza a késedelmi kamat kiszabható mértékét (pl. ügyleti kamat+x %), a k2) Egyéb, késedelemhez kapcsolódó díjak cella pedig az egyéb, késedelmes teljesítéskor felszámított díjtételek megnevezését és összegét (pl. felszólítási díj, kiszállás díja, kintlévőség-kezelési eljárás költsége).
 
 Az l) Egyéb megjegyzés cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra.
 
@@ -2228,7 +2348,9 @@ Az m4)–m5) cellákban feltüntetendő az akció kezdete és záró napja. Amen
 
 Az n) Hiperhivatkozás termékkondíciókhoz cellában a pénzügyi intézmény honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
 
-II.2. 9BB – 9BT, F9BB – F9BT – Termékismertető – Betéti és megtakarítási termék
+Az o1)–o3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
+II.2. 9BB - 9BT, F9BB – F9BT – Termékismertető – Betéti és megtakarítási termék
 
 A táblák célja
 
@@ -2238,11 +2360,11 @@ A táblák célja a hitelintézet által a fogyasztók részére forgalmazott me
 
 A nem a fogyasztóknak nyújtott termékeket, valamint az ügynökként forgalmazott termékeket jelen adatszolgáltatásban nem kell szerepeltetni. Az ügynökként forgalmazott termékek esetében a terméket eredetileg forgalmazó intézménynek lehetősége van adatszolgáltatásában (az Egyéb megjegyzések cellában, illetve a megjelölt internetes oldalon) jelezni, hogy a termék milyen további pénzügyi intézményeknél érhető el.
 
-Továbbá nem kell feltüntetni a rögzített célú megtakarításokat (pl.: lakástakarékpénztári megtakarítások, nyereménybetétkönyvek, gyámhatósági takarékbetétkönyvek stb.), valamint a private és premium banking szolgáltatás keretében elérhető termékeket.
+Továbbá nem kell feltüntetni a rögzített célú megtakarításokat (pl. lakástakarékpénztári megtakarítások, nyereménybetétkönyvek, gyámhatósági takarékbetétkönyvek), valamint a private és premium banking szolgáltatás keretében elérhető termékeket.
 
 Betéti kamat és EBKM számítás
 
-Az EBKM értékeket a mindenkor hatályos, a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló 82/2010. (III. 25.) Korm. rendelet előírása szerint kell meghatározni.
+Az EBKM értékeket a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló 82/2010. (III. 25.) Korm. rendelet előírása szerint kell meghatározni.
 
 Sávos kamatozás esetében sávonként, az adott sáv felső határa szerinti, a betét elhelyezésétől számított időszakra, illetve teljes betétösszegre megadott EBKM értékekkel kell a segédtáblázatot feltölteni.
 
@@ -2250,13 +2372,13 @@ Mind az egyszeri, mind a folyamatosan (ismétlődő) lekötött betétek esetéb
 
 Amennyiben a betéti termék kamatozása referencia kamathoz (pl. mindenkori jegybanki alapkamat) kötött, akkor a jelentés beküldésekor érvényes kamatmértéket kell számszerűsítve megjeleníteni. A referencia kamat változása miatt bekövetkező kamat és EBKM változásokat legkésőbb a változás érvénybelépésének napján kell az adatszolgáltatásban aktualizálni. A napi rendszerességgel változó betéti kamatokat minden naptári hét utolsó banki munkanapján kell aktualizálni.
 
-Akciós termék esetén a közzététel időpontjában hatályos kondíciós lista szerinti nem akciós EBKM értéket is fel kell tüntetni, azt a segédtáblában az akciós EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában kell szerepeltetni. Az akciós kamattal meghirdetett, automatikusan megújuló betét esetén a nem kedvezményes EBKM értéket kötelező feltüntetni [82/2010. (III. 25.) Korm. rendelet 7. § (3) bekezdés].
+Akciós termék esetén a közzététel időpontjában hatályos kondíciós lista szerinti nem akciós EBKM értéket is fel kell tüntetni, azt a segédtáblában az akciós EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában kell szerepeltetni. Az akciós kamattal meghirdetett, automatikusan megújuló betét esetén a nem kedvezményes EBKM értéket kötelező feltüntetni [a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló 82/2010. (III. 25.) Korm. rendelet 7. § (3) bekezdése].
 
 9BB, F9BB Termékismertető – Betéti és megtakarítási termékek – Lekötött betét
 
 A jelentés vonatkozásában lekötött betétnek tekintjük a lekötött betéteken túl a takarékbetétkönyveket és az olyan betéti jellegű okiratokat, ahol a betételhelyezés általános célja az értékmegőrzés, illetve a vagyon gyarapítása.
 
-Az adott konstrukció keretében rögzített célú megtakarításokat (pl. lakástakarékpénztári megtakarítások, nyereménybetétkönyvek, gyámhatósági takarékbetétkönyvek, hitelfedezeti célbetétek, lakáscélú betétek stb.), a strukturált betéteket, valamint a privát- és prémiumbanki termékeket nem kell feltüntetni.
+Az adott konstrukció keretében rögzített célú megtakarításokat (pl. lakástakarékpénztári megtakarítások, nyereménybetétkönyvek, gyámhatósági takarékbetétkönyvek, hitelfedezeti célbetétek, lakáscélú betétek), a strukturált betéteket, valamint a privát- és prémiumbanki termékeket nem kell feltüntetni.
 
 A táblában azokat a megtakarítási konstrukciókat kell részletezni, amelyek alapvetően más megtakarítási termékektől függetlenül érhetők el.
 
@@ -2286,7 +2408,7 @@ e1) Az idő függvényében:
 
 – Sávos: a fizetett kamat mértéke függ a betétlekötés kezdetétől eltelt időperiódusok számától, azaz kamatperiódusonként különböző mértékű a járó kamat.
 
-– Lépcsős: az adott határ feletti futamidőre lekötött betét a hosszabb futamidőre érvényes feltételek szerint kamatozik a lekötés teljes ideje alatt (pl. lekötési idő: 20–30 nap, 31–60 nap. Egy 35 napra lekötött betét a 31–60 nap közötti lekötésekre érvényes feltételek szerint kamatozik a lekötés teljes ideje alatt).
+– Lépcsős: az adott határ feletti futamidőre lekötött betét a hosszabb futamidőre érvényes feltételek szerint kamatozik a lekötés teljes ideje alatt (pl.: lekötési idő: 20–30 nap, 31–60 nap. Egy 35 napra lekötött betét a 31–60 nap közötti lekötésekre érvényes feltételek szerint kamatozik a lekötés teljes ideje alatt.)
 
 – Egyszerű: az idő függvényében nincs eltérés a betét után fizetett kamatban.
 
@@ -2302,7 +2424,7 @@ Az f) cellában kell megjelölni, hogy a lekötött betéti termék „fix”, �
 
 Fix kamat esetén a lekötés futamideje alatt nem változik a kamatláb. Változó kamatozást abban az esetben kell megadni, ha a hirdetményben előre rögzített tényező függvényében, annak változásakor automatikusan módosul a kamatláb mértéke a hirdetményben közzétett módon. Ha a betét kamatlába a futamidő alatt a hitelintézet döntése alapján, előre nem szabályozott módon módosítható, akkor a kamatozás jellegeként a változtatható típust kell megjelölni.
 
-A g) cellában kell szerepeltetni a kamatjóváírással kapcsolatos információkat (pl.: kamatjóváírás időpontja, gyakorisága stb.).
+A g) cellában kell szerepeltetni a kamatjóváírással kapcsolatos információkat (pl. kamatjóváírás időpontja, gyakorisága).
 
 A h1) és h2) cellák a betéti termékkonstrukció keretében elérhető legkisebb és legnagyobb EBKM értékeket jelenítik meg 2 tizedesjegy pontossággal. Az itt szereplő minimális és maximális EBKM értékeket a program automatikusan feltölti a termékhez kapcsolódó kamatozási segédtábla legkisebb és legnagyobb értékeivel.
 
@@ -2310,15 +2432,15 @@ Az i) cellában kell a kamatszámítással, EBKM-mel kapcsolatos megjegyzéseket
 
 A j) cellában a hitelintézet által alkalmazott kamatszámítási képletet kell feltüntetni az alábbi példához hasonlóan.
 
-Pl. Kamat összege a kamatperiódus végén = (Tőke a periódus elején) x (éves kamatráta) x (futamidő napjainak száma) / 365
+pl. Kamat összege a kamatperiódus végén = (Tőke a periódus elején) x (éves kamatráta) x (futamidő napjainak száma) / 365
 
 A k) cellában kell a betét futamidejének lejárta előtti teljes vagy részleges megszüntetése esetén alkalmazandó kamatlábról tájékoztatást adni. Ha a betét elhelyezésétől számított napok száma vagy egyéb feltételek alapján az ilyen esetben alkalmazott kamat mértéke eltérő lehet, ennek részletes bemutatása is szükséges.
 
 Az l) cellában kell – „igen” vagy „nem” válasszal – jelölni, hogy az adott betéti termék igénybevételéhez szükséges-e a betételhelyezőnek folyószámlával rendelkezni az adott hitelintézetnél, vagy sem.
 
-Az m) Igénybevételi feltételek cella az előző cellákban még be nem mutatott, a termék igénybevételével kapcsolatos egyéb feltételeket tartalmazza. Pl. csak új forrás helyezhető el az adott konstrukcióban, a lekötés kezdeményezhető bankfiókban, TeleBankon keresztül stb. A két vagy több betétből álló kombinált betétek elemei esetében itt kell megjelölni, hogy mely más termék(ek)kel együtt, milyen feltételekkel lehet, illetve kell igénybe venni (pl. a megtakarítás összegét hogyan kell megosztani a termékek között). Az esetleges akciós kamat elérésének feltételeit nem itt, hanem az o2) cellában kell megadni.
+Az m) Igénybevételi feltételek cella az előző cellákban még be nem mutatott, a termék igénybevételével kapcsolatos egyéb feltételeket tartalmazza (pl. csak új forrás helyezhető el az adott konstrukcióban, a lekötés kezdeményezhető bankfiókban, TeleBankon keresztül). A két vagy több betétből álló kombinált betétek elemei esetében itt kell megjelölni, hogy mely más termék(ek)kel együtt, milyen feltételekkel lehet, illetve kell igénybe venni (pl. a megtakarítás összegét hogyan kell megosztani a termékek között). Az esetleges akciós kamat elérésének feltételeit nem itt, hanem az o2) cellában kell megadni.
 
-Az n) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra és nem az akciós kedvezményekkel kapcsolatosak. Pl. a lekötés módjára vonatkozóan az egyszeri és/vagy ismétlődő tőkésedő, ismétlődő nem tőkésedő lekötés lehetősége, a társtulajdonosi, állandó meghatalmazotti és haláleseti rendelkezési lehetőség stb.
+Az n) Egyéb megjegyzések cellában kell azokat a speciális paramétereket, jellemzőket szerepeltetni, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra és nem az akciós kedvezményekkel kapcsolatosak (pl. a lekötés módjára vonatkozóan az egyszeri, illetve ismétlődő tőkésedő, ismétlődő nem tőkésedő lekötés lehetősége, a társtulajdonosi, állandó meghatalmazotti és haláleseti rendelkezési lehetőség).
 
 Az o1)–o4) cellákban kell bemutatni az akció jellegére és időtartamára vonatkozó adatokat.
 
@@ -2330,7 +2452,7 @@ Az o3)–o4) cellában feltüntetendő az akció kezdete és záró napja. Amenn
 
 A p) cellában a hitelintézet honlapján az adott termékhez kapcsolódó részletes leíráshoz, vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
 
-A q1)–q4) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának elérhetőségét, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+A q1)–q3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
 
 A kamatozási segédtábla kitöltése
 
@@ -2338,11 +2460,11 @@ Minden, a főtáblában szereplő lekötött betéti termékhez kapcsolódik egy
 
 A segédtáblában kell megadni a különböző időszakokra (futamidő vagy kamatperiódus) és eltérő összegekre vonatkozó éves betéti kamatszinteket, valamint EBKM értékeket.
 
-A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos és mind a lépcsős kamatozású termékek kondícióinak megadására.
+A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos, mind a lépcsős kamatozású termékek kondícióinak megadására.
 
 A tábla oszlopai különböző megtakarítási összeghatárok megadását teszik lehetővé a betét nyilvántartásának devizanemében. Ha az elhelyezhető összeg minimuma közvetlenül nincs meghatározva, de a leköthető betét összegére kerekítési szabály van érvényben, abban az esetben a kerekítési szabályból adódó minimális összeget kell megadni. Ha az elhelyezhető megtakarítási összeg maximumára nincs előírás, a segédtáblában a „Nincs felső határ” opciót kell kiválasztani.
 
-A tábla soraiban a lekötési időszakokat (futamidők), kamatperiódusokat kell feltüntetni. A táblában különböző formátumú lekötési időszakok, illetve kamatperiódusok megadására van lehetőség: napokban, hetekben, hónapokban, években megadott (numerikus) kamatozási időtartam vagy ezek hiányában szövegesen megfogalmazott időszak rögzíthető.
+A tábla soraiban a lekötési időszakokat (futamidők), kamatperiódusokat kell feltüntetni. A táblában különböző formátumú lekötési időszakok, illetve kamatperiódusok megadására van lehetőség: napokban, hetekben, hónapokban, években megadott (numerikus) kamatozási időtartam, vagy ezek hiányában szövegesen megfogalmazott időszak rögzíthető.
 
 – Ha az idő függvényében egyszerű a kamatozás, a futamidő (összevont termék esetén az összes elérhető futamidő) a tábla első oszlopában adható meg. Összevont termék esetén a futamidőket növekvő sorrendben kell megadni pl. Lekötés időtartama: 1 hó, 2 hó, 3 hó, 6 hó.
 
@@ -2352,13 +2474,13 @@ A tábla soraiban a lekötési időszakokat (futamidők), kamatperiódusokat kel
 
 Az oszlopok és a sorok száma tetszőlegesen bővíthető.
 
-A segédtábla numerikus kamatértékeket kell, hogy tartalmazzon (2 tizedesjegy pontossággal, a % jel feltüntetése nélkül). A kamathoz kapcsolódó megjegyzéseket (pl. alkalmazott referencia kamat, arra vonatkozó szabály stb.) a főtábla i) cellájában lehet szerepeltetni. Ha az alapkamat felett lehetőség van kamatprémium/bónuszkamat elérésére is, akkor ezt a segédtáblában az alapkamat cellájához közvetlenül kapcsolódó megjegyzés cellában lehet megjeleníteni.
+A segédtábla numerikus kamatértékeket kell, hogy tartalmazzon (2 tizedesjegy pontossággal, a % jel feltüntetése nélkül). A kamathoz kapcsolódó megjegyzéseket (pl. alkalmazott referencia kamat, arra vonatkozó szabály) a főtábla i) cellájában lehet szerepeltetni. Ha az alapkamat felett lehetőség van kamatprémium/bónuszkamat elérésére is, akkor ezt a segédtáblában az alapkamat cellájához közvetlenül kapcsolódó megjegyzés cellában lehet megjeleníteni.
 
-Az egyes kamatértékek mellett minden egyes esetben az EBKM értéket is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó mindenkor hatályos jogszabály előírásait betartva. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
+Az egyes kamatértékek mellett minden egyes esetben az EBKM értéket is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó jogszabály előírásait betartva. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
 
 9BO, F9BO Termékismertető – Betéti és megtakarítási termékek – Kombinált megtakarítási termék
 
-A jelentés azoknak a kombinált megtakarítási termékeknek a bemutatására szolgál, amelyekben betétek és befektetési termékek kapcsolódnak össze. A termékek bemutatása során fő hangsúly a megtakarítás betéti részére esik. A befektetési termékek teljes körű bemutatására az adatszolgáltatásban nincs lehetőség. Az alapvető tájékoztatás érdekében a kombinált termék befektetési összetevőjét néhány lényeges szempont alapján kell bemutatni.
+A jelentés azoknak a kombinált megtakarítási termékeknek a bemutatására szolgál, amelyekben betétek és befektetési termékek kapcsolódnak össze. Azokat a kombinált megtakarítási termékeket is szerepeltetni kell, amelyek esetében a befektetési terméket az adatszolgáltató ügynökként forgalmazza. A termékek bemutatása során fő hangsúly a megtakarítás betéti részére esik. A befektetési termékek teljes körű bemutatására az adatszolgáltatásban nincs lehetőség. Az alapvető tájékoztatás érdekében a kombinált termék befektetési összetevőjét néhány lényeges szempont alapján kell bemutatni.
 
 Ha a választható befektetési termékek függvényében vagy a betét és a befektetési termék(ek) arányának függvényében a kombinált megtakarítás betéti elemére más-más kamatszint jellemző, az eltérő betéti kamatozás alapján a különböző kombinációkat termékvariációként kell megjeleníteni az adatszolgáltatásban. A konstrukciók megnevezésénél fontos, hogy a termék elnevezése mellett egyértelműen jelenjen meg a variációkat megkülönböztető jellemzőre való utalás is.
 
@@ -2384,7 +2506,7 @@ e1) Az idő függvényében:
 
 – Sávos: a fizetett kamat mértéke függ a betétlekötés kezdetétől eltelt időperiódusok számától, azaz kamatperiódusonként különböző mértékű a járó kamat.
 
-– Lépcsős: az adott határ feletti futamidőre lekötött betét a hosszabb futamidőre érvényes feltételek szerint kamatozik a lekötés teljes ideje alatt (pl. lekötési idő: 20–30 nap, 31–60 nap. Egy 35 napra lekötött betét a 31–60 nap közötti lekötésekre érvényes feltételek szerint kamatozik a lekötés teljes ideje, azaz 35 nap alatt.)
+– Lépcsős: az adott határ feletti futamidőre lekötött betét a hosszabb futamidőre érvényes feltételek szerint kamatozik a lekötés teljes ideje alatt (pl.: lekötési idő: 20–30 nap, 31–60 nap. Egy 35 napra lekötött betét a 31–60 nap közötti lekötésekre érvényes feltételek szerint kamatozik a lekötés teljes ideje, azaz 35 nap alatt.)
 
 – Egyszerű: az idő függvényében nincs eltérés a betét után fizetett kamatban.
 
@@ -2412,21 +2534,21 @@ A k) cellában kell megadni minden olyan egyéb, a konstrukció betéti részév
 
 Az l1)–o3) cellákban a kombinált megtakarítási termék befektetési termék(ek)kel kapcsolatos jellemzőit kell bemutatni.
 
-Az l1)–l3) cellák szolgálnak a befektetési részben elhelyezendő minimum és maximum értékekre vonatkozó előírások megjelenítésére numerikus egész számban. A minimum és maximum előírások devizanemét az l2), illetve l4) cellákban kell feltüntetni (ISO-kód). Ha a befektethető összeg minimuma közvetlenül nincs meghatározva, de az összegre kerekítési szabály van érvényben, abban az esetben a kerekítési szabályból adódó minimális összeget kell megadni. Amennyiben a befektethető összeg maximumára nincs előírás, akkor a „Nincs felső határ” opciót kell kiválasztani.
+Az l1) – l3) cellák szolgálnak a befektetési részben elhelyezendő minimum és maximum értékekre vonatkozó előírások megjelenítésére numerikus egész számban. A minimum és maximum előírások devizanemét az l2), illetve l4) cellákban kell feltüntetni (ISO-kód). Ha a befektethető összeg minimuma közvetlenül nincs meghatározva, de az összegre kerekítési szabály van érvényben, abban az esetben a kerekítési szabályból adódó minimális összeget kell megadni. Amennyiben a befektethető összeg maximumára nincs előírás, akkor a „Nincs felső határ” opciót kell kiválasztani.
 
-Az m) cellában kell bemutatni a választható befektetési termék jellegét, típusát. Ha a választható termékek köre lehetővé teszi, azok pontos megnevezése is lehetséges, ha azonban a szóba jöhető termékek nagy száma miatt nem megoldható, akkor elegendő azok jellegére utalni: pl. (állam-, vállalati-, egyéb) kötvény, részvény, befektetési jegy (lehetőleg jelezve a mögötte álló termékeket is), megtakarítási életbiztosítások, származtatott ügyletek (jelezve típusukat, illetve az alaptermékeket) stb.
+Az m) cellában kell bemutatni a választható befektetési termék jellegét, típusát. Ha a választható termékek köre lehetővé teszi, azok pontos megnevezése is lehetséges, ha azonban a szóba jöhető termékek nagy száma miatt nem megoldható, akkor elegendő azok jellegére utalni [pl. (állam-, vállalati-, egyéb) kötvény, részvény, befektetési jegy (lehetőleg jelezve a mögötte álló termékeket is, megtakarítási életbiztosítások, származtatott ügyletek (jelezve típusukat, illetve az alaptermékeket)].
 
-Az n) cella ad tájékoztatást arról, hogy a befektetési termékek közül milyen elvek és szabályok alapján lehet választani, az ügyfél milyen kombinációkat állíthat össze, illetve a megtakarítás összegét hogyan kell megosztani e termékek között. Továbbá minden egyéb, a befektetési termékre vonatkozó egyéb megjegyzést is itt lehet feltüntetni.
+Az n) cella ad tájékoztatást arról, hogy a befektetési termékek közül milyen elvek és szabályok alapján lehet választani, az ügyfél milyen kombinációkat állíthat össze, illetve a megtakarítás összegét hogyan kell megosztani e termékek között. Továbbá minden egyéb, a befektetési termékre vonatkozó további megjegyzést is itt lehet feltüntetni.
 
 Az o1)–o3) cellákban kell szerepeltetni a befektetési termékek igénybevétele esetén felmerülő költségeket. A díjak, költségek megnevezése mellett azok hirdetmény szerinti mértékét is fel kell tüntetni. Az itt szerepeltetett költségek között a termék igénybevétele szempontjából elengedhetetlen tételek megadása szükséges. Azokat a költségtételeket, melyeket a hitelintézet a termékhez kapcsolódóan számít fel ugyan, de nem a szokásos, alapvető termékhasználatból adódóan merülnek fel, nem kell megjeleníteni.
 
 Az o1) cellában a befektetési termék vásárlásakor fizetendő költségeket kell megjeleníteni. A termék eladásakor felszámított díjak az o2) cellába kerülnek. Minden egyéb, a befektetési termékkel kapcsolatban felmerülő költséget, díjat az o3) cellában kell megadni, pl. itt kell a befektetési termékekhez kötődő számlavezetési alapdíjakat is bemutatni.
 
-A p) cellában kell – „igen” vagy „nem” válasszal – jelölni, hogy az adott kombinált megtakarítási termék igénybevételéhez szükséges-e a betételhelyezőnek folyószámlával rendelkeznie az adott hitelintézetnél, vagy sem.
+A p) cellában kell – „igen” vagy „nem” válasszal – jelölni, hogy az adott kombinált megtakarítási termék igénybevételéhez szükséges-e a betételhelyezőnek folyószámlával rendelkeznie az adott hitelintézetnél vagy sem.
 
 A q) cellában kell szerepeltetni a kombinált megtakarítási termék igénybevételeinek feltételeit (pl. értékpapír számlavezetési kötelezettség). Az olyan lényeges információkat is itt kell megadni, amelyek a termék igénybevétele esetén korlátozó megkötéseket jelentenek (pl. a betét adott időtartam alatt nem törhető fel).
 
-Az r) Egyéb megjegyzések cella a kombinált megtakarítási termékre vonatkozó minden olyan egyéb, a korábbi cellákban nem szerepeltett információ megjelenítésére szolgál, amelyeket az adatszolgáltató lényegesnek tart kiemelni. Pl. Ha a betéten és a befektetési termékeken felül más kiegészítő szolgáltatás is tartozhat (pl. biztosítás) a konstrukcióhoz, azt is jelezni kell.
+Az r) Egyéb megjegyzések cella a kombinált megtakarítási termékre vonatkozó minden olyan egyéb, a korábbi cellákban nem szerepeltett információ megjelenítésére szolgál, amelyeket az adatszolgáltató lényegesnek tart kiemelni [pl. ha a betéten és a befektetési termékeken felül más kiegészítő szolgáltatás is tartozhat (pl. biztosítás) a konstrukcióhoz, azt is jelezni kell].
 
 Az s1)–s5) cellákban kell bemutatni az akció jellegére és időtartamára vonatkozó adatokat.
 
@@ -2438,13 +2560,15 @@ Az s4)–s5) cellákban feltüntetendő az akció kezdete és záró napja. Amen
 
 A t) cellában a hitelintézet honlapján az adott termékhez kapcsolódó részletes leíráshoz, vagy annak hiányában a termékre vonatkozó hirdetményhez vezető hiperhivatkozást kell megadni.
 
+Az u1)–u3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
 A kamatozási segédtábla kitöltése
 
 Minden, a főtáblában szereplő kombinált megtakarítási termék betéti részéhez kapcsolódik egy, a kamatozással kapcsolatos információkat tartalmazó segédtábla.
 
 A segédtáblában kell megadni a különböző időszakokra (futamidő vagy kamatperiódus) és eltérő összegekre vonatkozó éves betéti kamatszinteket, valamint EBKM értékeket.
 
-A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos és mind a lépcsős kamatozású termékek kondícióinak megadására.
+A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos, mind a lépcsős kamatozású termékek kondícióinak megadására.
 
 A tábla oszlopai különböző megtakarítási összeghatárok megadását teszik lehetővé a betét nyilvántartásának devizanemében. Ha az elhelyezhető összeg minimuma közvetlenül nincs meghatározva, de a leköthető betét összegére kerekítési szabály van érvényben, abban az esetben a kerekítési szabályból adódó minimális összeget kell megadni. Ha az elhelyezhető megtakarítási összeg maximumára nincs előírás, a segédtáblában a „Nincs felső határ” opciót kell kiválasztani.
 
@@ -2458,9 +2582,9 @@ A tábla soraiban a lekötési időszakokat (futamidők), kamatperiódusokat kel
 
 Az oszlopok és a sorok száma tetszőlegesen bővíthető.
 
-A segédtábla numerikus kamatértékeket kell, hogy tartalmazzon (2 tizedesjegy pontossággal, a % jel feltüntetése nélkül). A kamathoz kapcsolódó megjegyzéseket (pl. alkalmazott referenciakamat, arra vonatkozó szabály stb.) a főtábla h) cellájában lehet szerepeltetni. Ha az alapkamat felett lehetőség van kamatprémium/bónuszkamat elérésére is, akkor ezt a segédtáblában a kamat cellájához közvetlenül kapcsolódó megjegyzés cellában lehet megjeleníteni.
+A segédtábla numerikus kamatértékeket kell, hogy tartalmazzon (2 tizedesjegy pontossággal, a % jel feltüntetése nélkül). A kamathoz kapcsolódó megjegyzéseket (pl. alkalmazott referenciakamat, arra vonatkozó szabály) a főtábla h) cellájában lehet szerepeltetni. Ha az alapkamat felett lehetőség van kamatprémium/bónuszkamat elérésére is, akkor ezt a segédtáblában a kamat cellájához közvetlenül kapcsolódó megjegyzés cellában lehet megjeleníteni.
 
-Az egyes kamatértékek mellett minden egyes esetben az EBKM értéket is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó mindenkor hatályos jogszabály előírásait betartva. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
+Az egyes kamatértékek mellett minden egyes esetben az EBKM értéket is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó jogszabály előírásait betartva. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
 
 9BT, F9BT Termékismertető – Betéti és megtakarítási termékek – Tartós Befektetési Szerződés
 
@@ -2474,7 +2598,7 @@ A jelentés kitöltése
 
 Az a) Termékkód cellában – a Felügyelet útmutatása alapján automatikusan generált – a termékhez kapcsolódó egyedi azonosító szerepel, amely végigkíséri a terméket forgalmazásának teljes idejében. Amennyiben a termék értékesítése szünetel, az értékesítés újrakezdésekor is az eredeti termékkóddal kell küldeni az adatszolgáltatásban.
 
-A b) Konstrukció teljes megnevezése cellában a tartós betéti szerződés teljes megnevezését, vagy fantázianevét kell szerepeltetni, amely a könnyebb beazonosíthatóság érdekében a hirdetményekben használt megnevezésekkel megegyezik.
+A b) Konstrukció teljes megnevezése cellában a tartós betéti szerződés teljes megnevezését vagy fantázianevét kell szerepeltetni, amely a könnyebb beazonosíthatóság érdekében a hirdetményekben használt megnevezésekkel megegyezik.
 
 A c) Minimálisan elhelyezendő összeg (Ft) cellában a számla megnyitásához minimálisan szükséges összeget kell feltüntetni, numerikus, egész számban, a pénznem megjelölése nélkül.
 
@@ -2488,23 +2612,23 @@ A d2) cellában kell megjelölni a tartós betéti szerződés kamatozási típu
 
 – Egyszerű: az összeg függvényében nincs eltérés a betéti számlán elhelyezett összeg után fizetett kamatban.
 
-Az e) Kamatozás jellege cellában kell megadni, hogy a kamat mértéke a futamidő alatt „fix” „változó” vagy „változtatható”.
+Az e) Kamatozás jellege cellában kell megadni, hogy a kamat mértéke a futamidő alatt „fix”, „változó” vagy „változtatható”.
 
 Fix kamat esetén a lekötés futamideje alatt nem változik a kamatláb. Változó kamatozást abban az esetben kell megadni, ha a hirdetményben előre rögzített tényező függvényében, annak változásakor automatikusan módosul a kamatláb mértéke a hirdetményben közzétett módon. Ha a betét kamatlába a futamidő alatt a hitelintézet döntése alapján, előre nem szabályozott módon módosítható, akkor a kamatozás jellegeként a változtatható típust kell megjelölni.
 
 Az f1)–f2) cellák a tartós betéti szerződés keretében elérhető legkisebb és legnagyobb EBKM értékeit jelenítik meg százalékos formában, numerikusan, két tizedes pontossággal, a %-jel feltüntetése nélkül. Az itt szereplő minimális és maximális EBKM értékeket a program automatikusan feltölti a termékhez kapcsolódó kamatozási segédtábla legkisebb és legnagyobb értékeivel.
 
-A g) Kamathoz/EBKM-hez kapcsolódó megjegyzések cellában kell a kamatozással és EBKM-mel kapcsolatos megjegyzéseket megjeleníteni (pl. kamatszámítás módja, kamatjóváírás gyakorisága stb.). A kamatszámítással összefüggő információk egy részét a kamatozási segédtábla tartalmazza. Mivel a segédtábla számszerűsített kamatokat jelenít meg, itt lehet a változó, illetve változtatható kamatozással kapcsolatos tájékoztatást is megadni (pl. referencia kamatra vonatkozó adatok). Ha adott feltételek teljesülése estén (nem akciós) bónusz/prémium kamat is jár az általánosan érvényes alapkamaton felül, annak feltételei is ide kerülnek.
+A g) Kamathoz/EBKM-hez kapcsolódó megjegyzések cellában kell a kamatozással és EBKM-mel kapcsolatos megjegyzéseket megjeleníteni (pl. kamatszámítás módja, kamatjóváírás gyakorisága). A kamatszámítással összefüggő információk egy részét a kamatozási segédtábla tartalmazza. Mivel a segédtábla számszerűsített kamatokat jelenít meg, itt lehet a változó, illetve változtatható kamatozással kapcsolatos tájékoztatást is megadni (pl. referencia kamatra vonatkozó adatok). Ha adott feltételek teljesülése estén (nem akciós) bónusz/prémium kamat is jár az általánosan érvényes alapkamaton felül, annak feltételei is ide kerülnek.
 
 A h1)–h2) cellában a számlavezetési díjat kell bemutatni.
 
 A h1) cellában kell a számlavezetési díj mértékét forintban, numerikus, egész számban, a pénznem megjelölése nélkül szerepeltetni. (Amennyiben a számlavezetés díjmentes, a cellában a 0 érték tüntetendő fel.)
 
-A h2) cellában kell megadni a számlavezetési díj gyakoriságát, azaz, hogy a számlavezetési díj „havonta”, „negyedévente”, „félévente” vagy „évente” esedékes. Az i) cellában kell feltüntetni a tartós betéti szerződéshez szorosan kapcsolódó tranzakciós és egyéb díjak mértékét (pl. indítható betétlekötés díja, betétfeltörés díja, saját számlára történő átvezetés díja, TBSZ megszüntetése esetén kifizetéshez kapcsolódó díjak, számlakivonat postázása stb.).
+A h2) cellában kell megadni a számlavezetési díj gyakoriságát, azaz, hogy a számlavezetési díj „havonta”, „negyedévente”, „félévente” vagy „évente” esedékes. Az i) cellában kell feltüntetni a tartós betéti szerződéshez szorosan kapcsolódó tranzakciós és egyéb díjak mértékét (pl. indítható betétlekötés díja, betétfeltörés díja, saját számlára történő átvezetés díja, TBSZ megszüntetése esetén kifizetéshez kapcsolódó díjak, számlakivonat postázása).
 
-A j) cellában kell feltüntetni a tartós betéti szerződés igénybevételének feltételeit (pl. számlavezetés szükségessége stb.).
+A j) cellában kell feltüntetni a tartós betéti szerződés igénybevételének feltételeit (pl. számlavezetés szükségessége).
 
-A k) Egyéb megjegyzések cellában jeleníthetők meg azok a speciális paraméterek, jellemzők, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra és nem az akciós kedvezményekkel kapcsolatosak (pl. adófizetési kötelezettség bemutatása, kapcsolódó biztosítás).
+A k) Egyéb megjegyzések cellában jeleníthetők meg azok a speciális paraméterek, jellemzők, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra és nem az akciós kedvezményekkel kapcsolatosak (pl.: adófizetési kötelezettség bemutatása, kapcsolódó biztosítás).
 
 Az l1)–l5) cellákban kell bemutatni az akció jellegére és időtartamára vonatkozó adatokat.
 
@@ -2522,13 +2646,15 @@ Az n) cellában kell a tartós betéti szerződés keretében elérhető betéti
 
 Itt kell a „Meglevő termék hozzáadása” funkció segítségével a termékkód alapján kiválasztani a TBSZ keretében és önállóan is elérhető, korábban a 9BB és 9BO táblákban már rögzített betéti és kombinált megtakarítási termék(ek)et. Amennyiben a kapcsolódó betéti vagy kombinált megtakarítási termék(ek) csak a TBSZ keretében érhetőek el, azok rögzítését is itt kell elvégezni. Az „Új altermék felvétele” gomb választásával a termékeket a 9BB és 9BO táblákkal megegyező segédtáblákba kell rögzíteni az azokra vonatkozó kitöltési útmutató szerint.
 
+Az o1)–o3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
 A kamatozási segédtábla kitöltése
 
 Minden, a főtáblában szereplő tartós betéti szerződéshez kapcsolódik egy, a tartós betéti számla látra szóló kamatával kapcsolatos információkat tartalmazó segédtábla.
 
 A segédtáblában kell megadni az eltérő összegekre vonatkozó éves kamatszinteket, valamint EBKM értékeket.
 
-A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos és mind a lépcsős kamatozású termékek kondícióinak megadására.
+A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos, mind a lépcsős kamatozású termékek kondícióinak megadására.
 
 A tábla oszlopai a különböző megtakarítási összeghatárok megadását teszik lehetővé. Az első oszlopban kell feltüntetni az elhelyezhető összeg minimumát. Ha a megtakarítási összeg maximumára nincs előírás, a segédtáblában a „Nincs felső határ” opciót kell kiválasztani.
 
@@ -2536,21 +2662,21 @@ A tábla sorában a szöveges mezőben a „Látra szóló kamat” szöveget ke
 
 Az oszlopok és a sorok száma tetszőlegesen bővíthető.
 
-A segédtábla numerikus kamatértékeket kell, hogy tartalmazzon (2 tizedesjegy pontossággal, a % jel feltüntetése nélkül). A látra szóló kamathoz kapcsolódó megjegyzéseket (pl. alkalmazott referenciakamat, arra vonatkozó szabály stb.) a 9BT főtábla i) cellájában lehet szerepeltetni. Ha a látra szóló kamat felett lehetőség van kamatprémium/bónuszkamat elérése is, akkor ezt a segédtáblában a látra szóló kamat cellájához közvetlenül kapcsolódó megjegyzés cellában lehet megjeleníteni.
+A segédtábla numerikus kamatértékeket kell, hogy tartalmazzon (2 tizedesjegy pontossággal, a % jel feltüntetése nélkül). A látra szóló kamathoz kapcsolódó megjegyzéseket (pl. alkalmazott referenciakamat, arra vonatkozó szabály) a 9BT főtábla i) cellájában lehet szerepeltetni. Ha a látra szóló kamat felett lehetőség van kamatprémium/bónuszkamat elérése is, akkor ezt a segédtáblában a látra szóló kamat cellájához közvetlenül kapcsolódó megjegyzés cellában lehet megjeleníteni.
 
-Az egyes kamatértékek mellett minden egyes esetben az EBKM-t is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó mindenkor hatályos jogszabály előírásait betartva. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
+Az egyes kamatértékek mellett minden egyes esetben az EBKM-t is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó jogszabály előírásait betartva. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
 
 9BZ, F9BZ Termékismertető – Betéti és megtakarítási termékek – Megtakarítási számla
 
 A jelentés vonatkozásában megtakarítási számlának tekintjük az olyan termékeket, ahol a számlanyitás általános célja az értékmegőrzés, illetve a vagyon gyarapítása, azonban nincs meghatározott lekötési idő, a számla jelleg dominál, továbbá a számla nem meghatározott célt szolgál.
 
-Nem kell a táblában szerepeltetni a meghatározott célt szolgáló számlákat (pl. Start-számla, társasházi felújításra vonatkozó megtakarítási számla, iskolai osztályoknak szóló megtakarítási számla; nyugdíj-előtakarékossági számla, gyámhatósági számla stb.).
+Nem kell a táblában szerepeltetni a meghatározott célt szolgáló számlákat (pl. Start-számla, társasházi felújításra vonatkozó megtakarítási számla, iskolai osztályoknak szóló megtakarítási számla, nyugdíj-előtakarékossági számla, gyámhatósági számla).
 
 A jelentés kitöltése
 
 Az a) Termékkód cellában – a Felügyelet útmutatása alapján automatikusan generált – a termékhez kapcsolódó egyedi azonosító szerepel, amely végigkíséri a terméket forgalmazásának teljes idejében. Amennyiben a termék értékesítése szünetel, az értékesítés újrakezdésekor is az eredeti termékkóddal kell küldeni az adatszolgáltatásban.
 
-A b) Konstrukció teljes megnevezése cellában a megtakarítási számla teljes megnevezését, vagy fantázianevét kell szerepeltetni, amely a könnyebb beazonosíthatóság érdekében a hirdetményekben használt megnevezésekkel megegyezik. Amennyiben azonos konstrukció eltérő alternatíváiról van szó (és nincs külön „fantázianeve”), a megkülönböztető jellemzőt javasolt feltüntetni a termék, termékvariáció megnevezésében is.
+A b) Konstrukció teljes megnevezése cellában a megtakarítási számla teljes megnevezését vagy fantázianevét kell szerepeltetni, amely a könnyebb beazonosíthatóság érdekében a hirdetményekben használt megnevezésekkel megegyezik. Amennyiben azonos konstrukció eltérő alternatíváiról van szó (és nincs külön „fantázianeve”), a megkülönböztető jellemzőt javasolt feltüntetni a termék, termékvariáció megnevezésében is.
 
 A c) Devizanem cellában kell megjelölni a megtakarítási számla nyilvántartásának devizanemét (ISO-kódját).
 
@@ -2580,7 +2706,7 @@ Fix kamat esetén a lekötés futamideje alatt nem változik a kamatláb. Válto
 
 Az f1)–f2) cellák a megtakarítási számlán elérhető legkisebb és legnagyobb EBKM értékeket jelenítik meg, numerikusan, két tizedes pontossággal, %-jel feltüntetése nélkül. Az itt szereplő minimális és maximális EBKM értékeket a program automatikusan feltölti a termékhez kapcsolódó kamatozási segédtábla legkisebb és legnagyobb értékeivel.
 
-A g) cellában kell a kamatszámítással, EBKM-mel kapcsolatos megjegyzéseket megjeleníteni (pl. referencia kamatra vonatkozó adatok, kamatperiódus hossza, kamatszámítás módja, felmondásnál alkalmazott kamatláb stb.). A kamatszámítással összefüggő információk egy részét a kamatozási segédtábla tartalmazza. Mivel a segédtábla számszerűsített kamatokat jelenít meg, itt lehet a változó, illetve változtatható kamatozással kapcsolatos tájékoztatást is megadni (pl. amennyiben a termék báziskamathoz kötött az ezzel kapcsolatos információ is megjeleníthető). Ha adott feltételek teljesülése estén (nem akciós) bónusz kamat is jár az általánosan érvényes alapkamaton felül, annak feltételei is ide kerülnek.
+A g) cellában kell a kamatszámítással, EBKM-mel kapcsolatos megjegyzéseket megjeleníteni (pl. referencia kamatra vonatkozó adatok, kamatperiódus hossza, kamatszámítás módja, felmondásnál alkalmazott kamatláb). A kamatszámítással összefüggő információk egy részét a kamatozási segédtábla tartalmazza. Mivel a segédtábla számszerűsített kamatokat jelenít meg, itt lehet a változó, illetve változtatható kamatozással kapcsolatos tájékoztatást is megadni (pl. amennyiben a termék báziskamathoz kötött, az ezzel kapcsolatos információ is megjeleníthető). Ha adott feltételek teljesülése estén (nem akciós) bónusz kamat is jár az általánosan érvényes alapkamaton felül, annak feltételei is ide kerülnek.
 
 A h1)–h5) cellákban a számlavezetéshez kapcsolódó költségeket kell bemutatni.
 
@@ -2592,7 +2718,7 @@ A h3) cellában kell a rendszeres számlakivonat költségét bemutatni.
 
 A h4) cellában a számlacsomag váltásának díját kell megadni.
 
-A h5) cellában a megtakarítási számla megszüntetéséhez kapcsolódó költségek (számlazárási díj) bemutatására szolgál.
+A h5) cella a megtakarítási számla megszüntetéséhez kapcsolódó költségek (számlazárási díj) bemutatására szolgál.
 
 Az i1)–i7) cellákban kell feltüntetni a megtakarítási számla használatához kapcsolódó tranzakciós díjakat.
 
@@ -2600,7 +2726,7 @@ Az i1) cellában a megtakarítási számlára történő készpénzbefizetés d�
 
 Az i2) cellában kell megjeleníteni a főszámlára, a pénzügyi intézménynél vezetett másik saját számlára történő átvezetés díját.
 
-Az i3) cellában kell bemutatni a pénzügyi intézményen belüli átvezetés/átutalás díját (eltérő ügyfélszámlára)
+Az i3) cellában kell bemutatni a pénzügyi intézményen belüli átvezetés/átutalás díját (eltérő ügyfélszámlára).
 
 Az i4) cellában kell a pénzügyi intézményen kívüli átutalás díját megjeleníteni.
 
@@ -2612,9 +2738,9 @@ Az i7) cellában kell feltüntetni azon egyéb díjakat, melyek a fent megneveze
 
 A j1)–j3) cellákban kell a megtakarítási számlához kapcsolódó kiegészítő szolgáltatásokra vonatkozó előírásokat feltüntetni.
 
-A j1) cellában kell a haláleseti rendelkező megadására vonatkozó információkat, költségeket bemutatni. A j2) cellában a rendelkezőre, illetve a társtulajdonos módosítására vonatkozó információkat, költségeket bemutatni. A j3) cellában kell a megtakarítási számlához kapcsolódó egyéb kiegészítő szolgáltatásokat, valamint díjait, költségeit feltüntetni (pl. elektronikus szolgáltatások stb.).
+A j1) cellában kell a haláleseti rendelkező megadására vonatkozó információkat, költségeket bemutatni. A j2) cellában kell a rendelkezőre, illetve a társtulajdonos módosítására vonatkozó információkat, költségeket bemutatni. A j3) cellában kell a megtakarítási számlához kapcsolódó egyéb kiegészítő szolgáltatásokat, valamint díjait, költségeit feltüntetni (pl. elektronikus szolgáltatások).
 
-A k) cellában kell szerepeltetni a megtakarítási számla igénybevételi feltételeit (pl. számla nyitásához szükséges minimális összeg; szolgáltatónál vezetett folyószámla stb.).
+A k) cellában kell szerepeltetni a megtakarítási számla igénybevételi feltételeit (pl. számla nyitásához szükséges minimális összeg, szolgáltatónál vezetett folyószámla).
 
 Az l) cellában jeleníthetők meg azok a speciális paraméterek, jellemzők, amelyek az előző cellákban nem kerültek bemutatásra, felsorolásra.
 
@@ -2630,26 +2756,30 @@ Az m4)–m5) cellákban feltüntetendő az akció kezdete és záró napja. Amen
 
 Az n) cellában a hitelintézet honlapján az adott termékhez kapcsolódó részletes leíráshoz vagy annak hiányában a hirdetményhez vezető hiperhivatkozást kell megadni.
 
+Az o1)–o3) cellákban kell feltüntetni az adatszolgáltató azon kapcsolattartójának közvetlen elérhetőségeit, akit szükség esetén a Felügyelet munkatársai az adott termékkel kapcsolatban elérhetnek. Az itt szereplő információk nem jelennek meg a fogyasztók által is látható felületen.
+
 A kamatozási segédtábla kitöltése
 
 Minden, a főtáblában szereplő megtakarítási számlához kapcsolódik egy, a számla kamatozásával kapcsolatos információkat tartalmazó kamatozási segédtábla.
 
 A segédtáblában kell megadni az eltérő összegek és különböző feltételek (pl. havi megtakarítás összege) teljesülése esetén elérhető éves kamatszinteket, valamint EBKM értékeket.
 
-A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos és mind a lépcsős kamatozású termékek kondícióinak megadására.
+A segédtábla és a főtábla között a termékkód teremt kapcsolatot. A segédtábla alkalmas mind az egyszerű, mind a sávos, mind a lépcsős kamatozású termékek kondícióinak megadására.
 
 A tábla oszlopai különböző megtakarítási összeghatárok megadását teszik lehetővé a megtakarítási számla nyilvántartásának devizanemében. Ha az elhelyezhető összeg minimuma közvetlenül nincs meghatározva, de arra kerekítési szabály van érvényben, abban az esetben a kerekítési szabályból adódó minimális összeget kell megadni. Ha az elhelyezhető megtakarítási összeg maximumára nincs előírás, a segédtáblában a „Nincs felső határ” opciót kell kiválasztani.
 
-A tábla soraiban lekötési időszakok hiányában a kamatra kiható egyéb feltételeket kell feltüntetni. (Pl. Ha a havi megtakarított összeg, vagy a havi terhelések számának, illetve egyéb feltételek függvényében eltérő a kamat, azokat itt lehet szerepeltetni.)
+A tábla soraiban lekötési időszakok hiányában a kamatra kiható egyéb feltételeket kell feltüntetni (pl. ha a havi megtakarított összeg vagy a havi terhelések számának, illetve egyéb feltételek függvényében eltérő a kamat, azokat itt lehet szerepeltetni).
 
 Az oszlopok és a sorok száma tetszőlegesen bővíthető.
 
 A segédtábla numerikus kamatértékeket kell, hogy tartalmazzon (2 tizedesjegy pontossággal, a % jel feltüntetése nélkül). A kamat képzésével kapcsolatos információkat a termék 9BZ főtáblájának g) cellájában lehet szerepeltetni. Ha a látra szóló kamat felett lehetőség van kamatprémium/bónuszkamat elérése is, akkor annak feltételeit és mértékét/mértékeit a segédtáblában a látra szóló kamat cellájához közvetlenül kapcsolódó megjegyzés cellában lehet megjeleníteni.
 
-Az egyes kamatértékek mellett minden egyes esetben az EBKM értéket is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó mindenkor hatályos jogszabály szerint. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
+Az egyes kamatértékek mellett minden egyes esetben az EBKM értéket is fel kell tüntetni két tizedesjegy pontossággal, a % jel feltüntetése nélkül, a vonatkozó jogszabály szerint. Az EBKM-hez kapcsolódó megjegyzéseket az EBKM cellájához közvetlenül kapcsolódó megjegyzés cellában lehet szerepeltetni.
 
 II.3. Teljességi nyilatkozat
 
-A teljességi nyilatkozat küldésével a pénzügyi intézmény nyilatkozik arról, hogy a beküldött termékek adatai a nyilatkozat megtétele napján naprakészek és az adatok egyeznek a mindenkori aktuális kondíciós listában szereplő termékadatokkal. A teljességi nyilatkozatot a pénzügyi intézménynek nem terméktípusonként, hanem szolgáltatásonként („Hitel- és pénzügyi lízing termékbejelentő”, valamint „Betéti és megtakarítási termékbejelentő” szolgáltatás) kell megküldeni. A teljességi nyilatkozatot havonta, a tárgyhónapot követő 5. munkanapig, első alkalommal 2012. február 7-ig kell a Felügyelet részére megküldeni, a „Teljességi nyilatkozat megküldése” elnevezésű gomb választásával.
+A teljességi nyilatkozat küldésével a pénzügyi intézmény nyilatkozik arról, hogy a beküldött termékek adatai a nyilatkozat megtétele napján naprakészek és az adatok egyeznek a mindenkori aktuális kondíciós listában szereplő termékadatokkal. A teljességi nyilatkozatot a pénzügyi intézménynek nem terméktípusonként, hanem szolgáltatásonként („Hitel- és pénzügyi lízing termékbejelentő”, valamint „Betéti és megtakarítási termékbejelentő” szolgáltatás) kell megküldeni. A teljességi nyilatkozatot havonta, a tárgyhónapot követő 5. munkanapig kell a Felügyelet részére megküldeni, a „Teljességi nyilatkozat megküldése” elnevezésű gomb választásával.
 
 Nem kell teljességi nyilatkozatot tenni azon pénzügyi intézménynek, mely korábban minden hitel- és pénzügyi lízing, illetve betéti és megtakarítási termékre vonatkoztatva nemleges jelentést küldött.
+
+[^5]: A 2. melléklet a 4/2012. (IX. 7.) PSZÁF rendelet 2. § (2) bekezdésével megállapított szöveg.
