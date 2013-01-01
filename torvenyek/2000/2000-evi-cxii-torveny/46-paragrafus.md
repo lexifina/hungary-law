@@ -10,4 +10,4 @@ c) építeni csak a legalább 80%-ban szőlőműveléssel hasznosított telken, 
 
 d) szakrális építmény (kápolna, kereszt, kőkép stb.), amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül elhelyezhető;
 
-e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró, ahol a hegyközség nem működik, a település jegyzője nyilatkozatával kell igazolni.
+e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró nyilatkozatával kell igazolni.
