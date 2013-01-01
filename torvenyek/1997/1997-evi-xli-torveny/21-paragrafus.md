@@ -96,10 +96,4 @@ h) az egyesületi tagságból eredő jogokról és kötelezettségekről.
 
 (4)–(5)
 
-Vhr. 12. § (1) Az állami halászjegy (beleértve a kutatási célút is), az állami horgászjegy és annak évenkénti érvényesítésének díja – a (1) bekezdésben foglalt személyek horgászjegyének kivételével – 2004. január 1-jétől ezer forint.
-
-(2) Az állami gyermek horgászjegy kiváltása, továbbá a 70. életévét betöltött személy állami horgászjegyének kiváltása és évenkénti érvényesítésének díja ingyenes, a díj fizetése alól való mentességet a horgászjegyen fel kell tüntetni.
-
-(3) Az állami halászjegy és az állami horgászjegy díját a halászati hatóságnál, illetve megbízottjánál a jegyek átvételekor kell megfizetni.
-
-(4) A halászati hatóság, illetve megbízottja a díjbevételeket havonta, a tárgyhót követő 5. napig köteles átutalni, illetve befizetni a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) 10032000-00289782-00000000 számú számlájára. A kiadott jegyekkel a forgalmazással megbízott negyedévenként, a negyedévet követő hónap 15. napjáig a halászati hatóság felé, a halászati hatóság pedig a tárgyévet követő év január 31-ig köteles a MgSzH Központ felé elszámolni.
+Vhr. 12. §

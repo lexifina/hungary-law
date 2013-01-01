@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-41-00-00
 | 2011-01-01 | 2010. évi CXXX. törvény | 1997-41-00-00.23 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 1997-41-00-00.24 |
 | 2012-08-01 | 63/2012. (VII. 2.) VM rendelet | 1997-41-00-00.25 |
+| 2013-01-01 | 2012. évi CXX. törvény | 1997-41-00-00.26 |
