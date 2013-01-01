@@ -1,14 +1,16 @@
-8. §[^6] (1) A kifogástalan életvitel ellenőrzése felfüggeszthető, ha – a Hszt. 149. § (3) bekezdésében foglaltakra is figyelemmel – a kifogástalan életvitel megállapítása bíróság vagy más hatóság hatáskörébe tartozó döntéstől függ. Az eljárás felfüggesztésének időtartama nem számít be az eljárás lefolytatására nyitva álló határidőbe.
+8. §[^7] (1) A kifogástalan életvitel ellenőrzése felfüggeszthető, ha – a Hszt. 149. § (3) bekezdésében foglaltakra is figyelemmel – a kifogástalan életvitel megállapítása bíróság vagy más hatóság hatáskörébe tartozó döntéstől függ. Az eljárás felfüggesztésének időtartama nem számít be az eljárás lefolytatására nyitva álló határidőbe.
 
-(2)[^7] A kifogástalan életvitel ellenőrzését meg kell szüntetni, ha
+(2)[^8] A kifogástalan életvitel ellenőrzését meg kell szüntetni, ha
 
-a) a jelentkező a hivatásos állományba jelentkezéstől eláll,
+a) a jelentkező a hivatásos állományba vagy a rendvédelmi oktatási intézménybe jelentkezéstől eláll,
 
-b) a jelentkező hivatásos szolgálatra egészségi, pszichikai vagy fizikai okból alkalmatlan,
+b) a hivatásos állományba vagy a rendvédelmi oktatási intézménybe jelentkező hivatásos szolgálatra egészségi, pszichikai vagy fizikai okból alkalmatlan,
 
-c) a hivatásos állomány tagja hivatásos szolgálati viszonya megszűnik, vagy
+c) a hivatásos állomány tagja hivatásos szolgálati viszonya megszűnik,
 
-d) a 7. § (1) bekezdése szerint a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta.
+d) a rendvédelmi oktatási intézmény ösztöndíjas hallgatójának vagy tanulójának ösztöndíjszerződése megszűnik vagy
 
-[^6]: A 8. § a 376/2011. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^7]: A 8. § (2) bekezdése a 319/2012. (XI. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+e) a 7. § (1) bekezdése szerint a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta.
+
+[^7]: A 8. § a 376/2011. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^8]: A 8. § (2) bekezdése a 416/2012. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
