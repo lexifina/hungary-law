@@ -1,1 +1,0 @@
-## 1. § E rendelet alkalmazásában átvett intézmény: a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Törvény) 1. melléklete alapján átvételre kerülő intézmények.
