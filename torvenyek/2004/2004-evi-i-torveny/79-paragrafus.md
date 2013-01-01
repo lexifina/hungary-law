@@ -40,11 +40,7 @@ b) a sportági stratégiai fejlesztési koncepciók egységes követelményrends
 
 c) az amatőr és a hivatásos sportolói versenyengedély kiadásának feltételeit.
 
-(3) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg
-
-a) az állami sportcélú támogatás felhasználásának és elosztásának a részletes szabályait,
-
-b) a hazai rendezésű sport világesemények állami támogatására és rendezési feltételeire vonatkozó részletes szabályokat.
+(3)
 
 (4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
 
