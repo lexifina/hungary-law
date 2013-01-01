@@ -28,7 +28,7 @@ e) a végrehajtójelölt (e fejezetben a továbbiakban együtt: végrehajtó).
 
 (5) Az önálló bírósági végrehajtó ellátja a számára külön jogszabályban megállapított feladatokat is.
 
-(6) A végrehajtást elrendelő bíróságnak azt a bíróságot kell tekinteni, amely a végrehajtható okirat kiállítására jogosult. Végrehajtást foganatosító bíróságnak – ha e törvény másként nem rendelkezik – azt a bíróságot kell tekinteni, amely mellé az eljáró önálló bírósági végrehajtót kinevezték, illetve azon törvényszék székhelye szerinti helyi bíróságot, amely törvényszékre a törvényszéki végrehajtót kinevezték, fővárosi törvényszéki végrehajtó esetében pedig a Pesti Központi Kerületi Bíróságot.
+(6) A végrehajtást elrendelő bíróságnak azt a bíróságot kell tekinteni, amely a végrehajtható okirat kiállítására jogosult. Végrehajtást foganatosító bíróságnak – ha e törvény másként nem rendelkezik – azt a bíróságot kell tekinteni, amely mellé az eljáró önálló bírósági végrehajtót kinevezték, illetve azon törvényszék székhelye szerinti járásbíróságot, amely törvényszékre a törvényszéki végrehajtót kinevezték, fővárosi törvényszéki végrehajtó esetében pedig a Pesti Központi Kerületi Bíróságot.
 
 (7) A végrehajtást elrendelő közjegyzőnek azt a közjegyzőt kell tekinteni, aki a végrehajtható okirat kiállítására jogosult.
 

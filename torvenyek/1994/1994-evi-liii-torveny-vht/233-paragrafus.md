@@ -8,7 +8,7 @@ c) a 24. évét betöltötte,
 
 d) az országgyűlési képviselők választásán választható,
 
-e) felsőfokú iskolai végzettséggel rendelkezik,
+e) egyetemi jogi végzettséggel rendelkezik,
 
 f) a végrehajtói szakvizsgát letette, és
 

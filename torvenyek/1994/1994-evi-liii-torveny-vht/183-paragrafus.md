@@ -2,7 +2,7 @@
 
 183. § (1) A bíróság az önkényesen elfoglalt lakás kiürítését – végrehajtható okirat kiállítása nélkül – nemperes eljárás során hozott végzésben rendeli el. E végzés elleni fellebbezésnek nincs halasztó hatálya.
 
-(2) Az önkényesen elfoglalt lakás kiürítése iránti kérelmet az ingatlan fekvése szerinti helyi bírósághoz kell benyújtani. A kérelemben meg kell jelölni
+(2) Az önkényesen elfoglalt lakás kiürítése iránti kérelmet az ingatlan fekvése szerinti járásbírósághoz kell benyújtani. A kérelemben meg kell jelölni
 
 a) a kérelmező adatait és rövid úton történő értesítésének módját,
 

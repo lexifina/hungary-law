@@ -14,6 +14,6 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (4) A (3) bekezdés a) pontja szerinti esetben a kamara elnöke a döntését – a kizárási ügyben keletkezett iratokkal együtt –, a b) pontja szerinti esetben pedig a végrehajtó a kizárási indítványt és az indítványra vonatkozó álláspontját tartalmazó iratot beterjeszti a végrehajtást foganatosító bíróságnak.
 
-(5) Ha a bíróság az eljárásból a végrehajtót kizárta, az erről szóló végzést megküldi a kamara elnökének. Az eljáró végrehajtót a kamara elnöke (elnök esetében helyettese) jelöli ki; ugyanazon helyi bíróság mellé kinevezett, ha pedig ez nem lehetséges, a megyében működő helyi bíróság mellé kinevezett – Budapesten és Pest megyében egyaránt budapesti és pest megyei székhelyű – végrehajtó jelölhető ki, ha pedig ez sem lehetséges, bármely végrehajtó kijelölhető az eljárás lefolytatására.
+(5) Ha a bíróság az eljárásból a végrehajtót kizárta, az erről szóló végzést megküldi a kamara elnökének. Az eljáró végrehajtót a kamara elnöke (elnök esetében helyettese) jelöli ki; ugyanazon járásbíróság mellé kinevezett, ha pedig ez nem lehetséges, a megyében működő járásbíróság mellé kinevezett – Budapesten és Pest megyében egyaránt budapesti és pest megyei székhelyű – végrehajtó jelölhető ki, ha pedig ez sem lehetséges, bármely végrehajtó kijelölhető az eljárás lefolytatására.
 
 (6) A bíróság kizárási indítványnak helyt adó végzése ellen és a kamara elnökének a végrehajtó kijelölésére vonatkozó döntése ellen jogorvoslatnak helye nincs.

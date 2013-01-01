@@ -4,7 +4,7 @@
 
 a)
 
-b) külön névjegyzéket vezet a végrehajtókról, végrehajtó-helyettesekről, végrehajtójelöltekről, végrehajtói kézbesítésre felhatalmazott végrehajtójelöltekről és a tartós helyettesként kirendelt végrehajtókról; e névjegyzékek adatairól és az adatváltozásokról tájékoztatja a minisztert,
+b) külön névjegyzéket vezet a végrehajtókról, végrehajtó-helyettesekről, végrehajtójelöltekről, végrehajtói kézbesítésre felhatalmazott végrehajtójelöltekről és a tartós helyettesként kirendelt végrehajtókról; e névjegyzékek adatairól és az adatváltozásokról tájékoztatja a minisztert és ellenőrzi a névjegyzékekbe való felvétel feltételeinek folyamatos fennállását,
 
 c) meghallgatja a végrehajtó-helyettesi vagy végrehajtójelölti nyilvántartásba való felvételüket kérő személyeket,
 

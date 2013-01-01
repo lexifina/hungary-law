@@ -1,6 +1,6 @@
 123. § (1) Az árverező személyesen vagy megbízottja, illetve képviselője útján árverezhet.
 
-(2) Az árverésen sem személyesen, sem megbízottja vagy képviselője útján nem árverezhet, az árverező képviseletében sem járhat el, és az ingóságot árvereztetéssel közvetve sem szerezheti meg – a (3) bekezdésben foglalt kivételekkel –
+(2) Az árverésen sem személyesen, sem megbízottja vagy képviselője útján nem árverezhet, az árverező képviseletében sem járhat el, és a dolgot árvereztetéssel közvetve sem szerezheti meg – a (3) bekezdésben foglalt kivételekkel –
 
 a) végrehajtó, végrehajtó-helyettes, végrehajtójelölt, végrehajtó egyéb alkalmazottja, végrehajtói iroda, végrehajtói iroda tagja és alkalmazottja,
 
@@ -12,6 +12,6 @@ d) az ügyben eljáró végrehajtást foganatosító bíróság állományába t
 
 e) az adós.
 
-(3) Nem minősül kizártnak az árverezésből a (2) bekezdés szerinti személy vagy szervezet, ha az ingóság megszerzésére végrehajtást kérői vagy tulajdonostársi jogállása miatt van jogosultsága, vagy ha külön törvény biztosít számára az ingóság eladása esetére elővásárlási jogot.
+(3) Nem minősül kizártnak az árverezésből a (2) bekezdés szerinti személy vagy szervezet, ha a dolog megszerzésére végrehajtást kérői vagy tulajdonostársi jogállása miatt van jogosultsága, vagy ha külön törvény biztosít számára a dolog eladása esetére elővásárlási jogot.
 
 (4) Az árverező a vételi ajánlatot nem vonhatja vissza.

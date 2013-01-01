@@ -26,8 +26,8 @@ c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
 
 d) a tartós helyettesítés egyéves időtartamának lejártáig nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés].
 
-(4) A miniszter a végrehajtói kinevezés érvénytelenségét állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) pontjaiban meghatározott körülmény állt fenn.
+(4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) pontjaiban meghatározott körülmény állt fenn.
 
-(5) Ha a kamara a (3) bekezdés a)–d) pontjában foglalt, a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni.
+(5) Ha a kamara a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni.
 
-(6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének és a végrehajtói kinevezés érvénytelenségének megállapításáról a miniszter a kamara véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a kamarát.
+(6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének megállapításáról a miniszter a kamara véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a kamarát.

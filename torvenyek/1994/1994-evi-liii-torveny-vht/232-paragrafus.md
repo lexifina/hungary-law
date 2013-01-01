@@ -4,11 +4,11 @@
 
 ## A végrehajtói szolgálat keletkezése
 
-232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a miniszter nevezi ki határozatlan időre, meghatározott székhelyre és meghatározott helyi bíróság mellé.
+232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a miniszter nevezi ki határozatlan időre, meghatározott székhelyre és meghatározott járásbíróság mellé.
 
-(2) Ugyanarra a székhelyre, illetőleg ugyanazon helyi bíróság mellé több végrehajtót is ki lehet nevezni.
+(2) Ugyanarra a székhelyre, illetőleg ugyanazon járásbíróság mellé több végrehajtót is ki lehet nevezni.
 
-(3) A végrehajtó székhelye és illetékességi területe megegyezik annak a helyi bíróságnak a székhelyével és illetékességi területével, amely mellé kinevezték.
+(3) A végrehajtó székhelye és illetékességi területe megegyezik annak a járásbíróságnak a székhelyével és illetékességi területével, amely mellé kinevezték.
 
 (4) A végrehajtó az illetékességi területén indult ügyben a székhelye szerinti megye területén, a budapesti és Pest megyei székhelyű végrehajtó Budapest és Pest megye területén jár el.
 

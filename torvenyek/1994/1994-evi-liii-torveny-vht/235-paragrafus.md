@@ -6,7 +6,7 @@ b) végrehajtók kölcsönös áthelyezése
 
 esetén van lehetőség.
 
-(2) Ha a végrehajtói álláshelyet a miniszter a 234. § szerinti eljárása során más székhelyre kinevezett végrehajtó személyével tölti be, a végrehajtót e székhelyre és helyi bíróság mellé helyezi át.
+(2) Ha a végrehajtói álláshelyet a miniszter a 234. § szerinti eljárása során más székhelyre kinevezett végrehajtó személyével tölti be, a végrehajtót e székhelyre és járásbíróság mellé helyezi át.
 
 (3) A miniszter a végrehajtókat – közös kérelmükre és a kamara egyetértésével – egymás székhelyére pályázat nélkül kölcsönösen áthelyezheti.
 

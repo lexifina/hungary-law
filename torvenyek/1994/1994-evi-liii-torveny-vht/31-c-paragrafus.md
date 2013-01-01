@@ -12,7 +12,7 @@ d) a 861/2007/EK rendelet IV. melléklete szerinti tanúsítványt,
 
 e) a 4/2009/EK tanácsi rendelet I. és II. melléklete szerinti kivonatot.
 
-(2) A közokiratot kiállító hatóság székhelye szerint illetékes helyi bíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
+(2) A közokiratot kiállító hatóság székhelye szerint illetékes járásbíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
 a) a 44/2001/EK tanácsi rendelet VI. melléklete szerinti tanúsítványt,
 

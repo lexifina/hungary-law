@@ -2,7 +2,7 @@
 
 31/E. § (1) Ha a bírósági végrehajtás elrendelésére a közjegyző rendelkezik hatáskörrel [16. § a) és i) pont, 23/C. §], a 11–12/A. §-ban, 18–19/A. §-ban, 31/D. §-ban, 32. §-ban, 35. §-ban, 47/A. §-ban, 49. §-ban, 50. §-ban a (4) bekezdés és az (5) bekezdés a) és d) pontjának kivételével, 51. §-ban, 56. §-ban, 89. §-ban, 172. §-ban, 179. §-ban, 180. §-ban a (3) és (4) bekezdés kivételével, 181. §-ban, 185. §-ban, 186. §-ban a (3) bekezdés kivételével, 189. §-ban, 190. §-ban, 200–201/A. §-ban és a 204/B. §-ban a bíróság alatt, a 39. §-ban a végrehajtást elrendelő bíróság alatt a közjegyzőt is érteni kell.
 
-(2) A közjegyző eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos hatályú. A közjegyző által hozott határozat a helyi bíróság határozatával azonos hatályú.
+(2) A közjegyző eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos hatályú. A közjegyző által hozott határozat a járásbíróság határozatával azonos hatályú.
 
 (3) A végrehajtási kérelem előterjesztéséért a közjegyzőnek díjat kell fizetni, melynek mértéke
 
