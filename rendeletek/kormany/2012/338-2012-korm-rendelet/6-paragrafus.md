@@ -1,3 +1,1 @@
-## 5. §[^3]
-
-[^3]: Az 5. § a 7. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 5. § Hatályát veszti az R.2. 1. § (4) és (5) bekezdése.

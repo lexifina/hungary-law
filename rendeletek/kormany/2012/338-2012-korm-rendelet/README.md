@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-338-20-
 | --- | --- | --- |
 | 2012-12-05 | 2012-338-20-22.1 | 338/2012. (XII. 4.) Korm. rendelet |
 | 2012-12-06 | 2012-338-20-22.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2012-338-20-22.3 | 2010: CXXX. törvény |
