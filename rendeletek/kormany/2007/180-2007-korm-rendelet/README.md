@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-180-20-
 | 2009-10-01 | 2007-180-20-22.4 | 180/2007. (VII. 3.) Korm. rendelet |
 | 2011-01-01 | 2007-180-20-22.5 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2012-04-15 | 2007-180-20-22.6 | 74/2012. (IV. 13.) Korm. rendelet |
+| 2013-01-01 | 2007-180-20-22.7 | 441/2012. (XII. 29.) Korm. rendelet |

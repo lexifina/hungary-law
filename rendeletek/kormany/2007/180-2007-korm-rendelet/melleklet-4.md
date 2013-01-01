@@ -1,29 +1,33 @@
-4. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^12]
+4. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^16]
 
 A Közösségbe érkező és azt elhagyó hulladékszállítmányok számára kijelölt magyar határkirendeltségek
 
-| Közúti szállítás esetén | Cím, fax, e-mail |
+|  | A | B |
 
-| Horvátország | Letenye | NAV Zala Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Letenye, 8868 Letenye, Pf. 69 Fax: +36-93-544-082 e-mail: vph92300@vam.gov.hu |
+| I. | Közúti szállítás esetén | Cím, fax, e-mail |
 
-| Szerbia | Röszke | NAV Csongrád Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Röszke, 6758 Röszke, Pf. 8 Fax: +36-62-573-289 e-mail: vph51500@vam.gov.hu |
+| 1. | Horvátország | Letenye | NAV Zala megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Letenye 8868 Letenye, Pf. 69 Fax: +36-93-544-082 e-mail: letenye_hk@nav.gov.hu |
 
-| Ukrajna | Záhony | NAV Szabolcs-Szatmár-Bereg Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Záhony, 4625 Záhony, Pf. 6 Fax: +36-45-526-151, +36-45-526-153 e-mail: vph72400@vam.gov-hu |
+| 2. | Szerbia | Röszke | NAV Csongrád megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Röszke 6758 Röszke, Pf. 8 Fax: +36-62-573-289 e-mail: roszke_hk@nav.gov.hu |
 
-| Vasúti szállítás esetén |  |
+| 3. | Ukrajna | Záhony | NAV Szabolcs-Szatmár-Bereg megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Záhony 4625 Záhony, Pf. 6 Fax: +36-45-526-151, +36-45-526-153 e-mail: zahony_hk@nav.gov.hu |
 
-| Horvátország | Murakeresztúr | NAV Zala Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Letenye, 8834 Murakeresztúr, Pf. 3 Fax: +36-93-369-644 e-mail: vph92400@vam.gov.hu |
+| II. | Vasúti szállítás esetén |  |
 
-| Szerbia | Kelebia | NAV Bács-Kiskun Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Tompa, 6423 Kelebia, Ady E. u. 35. Fax: +36-77-554-027 e-mail: vph31700@vam.gov.hu |
+| 1. | Horvátország | Murakeresztúr | NAV Zala Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Letenye, Murakeresztúr vasúti határátkelőhely 8834 Murakeresztúr, Pf. 3 Fax: +36-93-369-644 e-mail: vph92400@nav.gov.hu vagy letenye_hk@nav.gov.hu |
 
-| Ukrajna | Záhony | NAV Szabolcs-Szatmár-Bereg Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Záhony, 4625 Záhony, Pf. 6 Fax: +36-45-425-050 e-mail: vph72400@vam.gov.hu |
+| 2. | Horvátország | Gyékényes | NAV Somogy Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Gyékényes 8851 Gyékényes, Vasútállomás Fax: +36-82-596-901 e-mail: gyekenyes_hk@nav.gov.hu |
 
-| Vízi szállítás esetén (Duna) |  |
+| 3. | Szerbia | Kelebia | NAV Bács-Kiskun Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Tompa, Kelebia vasúti határátkelőhely 6423 Kelebia, Ady E. u. 35. Fax: +36-77-554-027 e-mail: tompa_hk@nav.gov.hu |
 
-| Mohács |  | NAV Baranya Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Mohács, 7700 Mohács, Budapesti u. 14/B Fax: +36-69-511-131; +36-69-510-307 e-mail: vph21300@vam.gov.hu |
+| 4. | Ukrajna | Záhony | NAV Szabolcs-Szatmár-Bereg Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Záhony 4625 Záhony, Pf. 6 Fax: +36-45-425-050 e-mail: zahony_hu@nav.gov.hu |
 
-| Légi szállítás esetén |  |
+| III. | Vízi szállítás esetén (Duna) |  |
 
-| Budapest-Ferihegy |  | NAV 1. számú Repülőtéri Igazgatóság Budapest XVIII., Ferihegyi Közforgalmú Repülőtér, 1675 Budapest, Pf. 40 Fax: +36-1-296-8761 e-mail: vph12100@vam.gov.hu |
+| 1. | Mohács |  | NAV Baranya Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltség Mohács 7700 Mohács, Budapesti u. 14/B Fax: +36-69-511-131; +36-69-510-307 e-mail: mohacs_hk@nav.gov.hu |
 
-[^12]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 121. § (4) bekezdésével megállapított szöveg.
+| IV. | Légi szállítás esetén |  |
+
+| 1. | Budapest–Liszt Ferenc Nemzetközi Repülőtér |  | NAV 1. számú Repülőtéri Igazgatóság Budapest XVIII., Ferihegyi Közforgalmú Repülőtér, Igló utca Fax:+36-1-296-8761 e-mail: _hk@vam.gov.hu |
+
+[^16]: A 4. számú melléklet a 441/2012. (XII. 29.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
