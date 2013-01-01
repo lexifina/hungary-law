@@ -46,7 +46,7 @@
 
 ## 1A nyúlós költésrothadásra (Ny), enyhébb (európai) költésrothadásra (E) és a légcsőatka-kórra (LA) gyanús családok számát kell feltünteni.
 
-2. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez
+2. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez[^28]
 
 ÁLLATORVOSI IGAZOLÁS MÉHCSALÁDOK ÁLLATEGÉSZSÉGÜGYI VIZSGÁLATÁRÓL*
 
@@ -72,8 +72,10 @@ Kelt ..........................., 20...... év .................... hó ........
 
 1. Fertőző vagy parazitás méhbetegség megállapítása esetén az igazolást a vándoroltatás helye szerint illetékes hatósági állatorvosnak azonnal be kell szolgáltatni.
 
-2. Az igazolást a méhek állandó tartási helyére történő visszatéréskor, 48 órán belül a kerületi főállatorvosnak megőrzés céljából vissza kell szolgáltatni.
+2. Az igazolást a méhek állandó tartási helyére történő visszatéréskor, 48 órán belül a járási főállatorvosnak megőrzés céljából vissza kell szolgáltatni.
 
 __________
 
 * Vándorlásra jogosító igazolás.
+
+[^28]: A 2. számú melléklet a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja szerint módosított szöveg.

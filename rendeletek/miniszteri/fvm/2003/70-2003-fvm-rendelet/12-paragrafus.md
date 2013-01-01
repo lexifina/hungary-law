@@ -2,4 +2,6 @@
 
 (2) A műlépet előállító üzem köteles a viasz megbízható fertőtlenítése céljából olyan berendezést üzemeltetni, amely a viaszt egy órán át legalább 112 °C-os hőmérsékleten tartja. A hőfok és a hőhatás idejének megtartását kifogástalanul működő műszerekkel ellenőrizni kell. A viasz sterilizálására (fertőtlenítő hőkezelésére) szolgáló, viaszfertőtlenítő berendezést el kell látni automatikus hőfokszabályozó és hőmérséklet-regisztráló műszerrel, amely legalább öt percenként mér, és a mért értékeket az idő függvényében rögzíti, valamint ellenőrzéskor kinyomtatja. Az öníró műszerrel regisztrált adatokat három évig kell megőrizni. A viaszt, illetve a műlépet értékesíteni csak abban az esetben lehet, ha a viaszt minimum egy órán át, legalább 112 °C-on hőkezelték és ezt a hőmérséklet-regisztráló berendezés igazolja.
 
-(3) A műlépet előállító üzemet működés közben a kerületi főállatorvos évente köteles ellenőrizni, vagy a területileg illetékes hatósági állatorvossal ellenőriztetni.
+(3)[^6] A műlépet előállító üzemet működés közben a járási főállatorvos évente köteles ellenőrizni, vagy a területileg illetékes hatósági állatorvossal ellenőriztetni.
+
+[^6]: A 12. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja szerint módosított szöveg.

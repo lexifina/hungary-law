@@ -10,4 +10,6 @@
 
 (5) Az állomás irányítja, és időszakosan ellenőrzi a méhészek védekezési tevékenységét. Hiányosságok esetén intézkedik azok megszüntetéséről, továbbá – indokolt esetben – előírhatja az adott terület összehangolt, egyidejű gyógykezelését.
 
-(6) Elhanyagolt védekezés esetén – ha az állományban az atka feldúsult és a méhész az előírt védekezést nem hajtotta végre – a hatósági állatorvos a szomszédos méhállományok fertőződésének megakadályozása céljából kötelezi a méhészt a gyógykezelés haladéktalan elvégzésére. Ha a méhész a gyógykezelést nyolc munkanapon belül sem kezdi meg, akkor a kerületi főállatorvos a méhállományt állami kártalanítás nélkül leöleti.
+(6)[^26] Elhanyagolt védekezés esetén – ha az állományban az atka feldúsult és a méhész az előírt védekezést nem hajtotta végre – a hatósági állatorvos a szomszédos méhállományok fertőződésének megakadályozása céljából kötelezi a méhészt a gyógykezelés haladéktalan elvégzésére. Ha a méhész a gyógykezelést nyolc munkanapon belül sem kezdi meg, akkor a járási főállatorvos a méhállományt állami kártalanítás nélkül leöleti.
+
+[^26]: A 39. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja szerint módosított szöveg.
