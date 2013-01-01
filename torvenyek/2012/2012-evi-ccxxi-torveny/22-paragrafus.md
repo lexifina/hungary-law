@@ -1,0 +1,7 @@
+22. § Az MMA tv. 28. §-a helyébe a következő rendelkezés lép:
+
+„28. § (1) Az MMA a közfeladatai szervezését, valamint a költségvetési fejezeti és az MMA által irányított költségvetési szervekkel kapcsolatos, a köztestület közfeladatai ellátásával összefüggő igazgatási, gazdálkodási, így különösen pénzügyi, vagyonkezelési és ellenőrzési feladatokat az MMA által irányított költségvetési szerv (a továbbiakban: MMA Titkársága) látja el. Az MMA Titkárságának a közfeladat szervezési, igazgatási és gazdálkodási feladatokat ellátó alkalmazottja – a főtitkárt is beleértve – közszolgálati jogviszonyban álló köztisztviselő és közszolgálati ügykezelő.
+
+(2) Az MMA Titkársága feladatait az alapító okirata rögzíti, amelyet az MMA elnöke ad ki.
+
+(3) Az MMA által irányított költségvetési szerveknél foglalkoztatottra – az MMA Titkárságának a közfeladat szervezési, igazgatási és gazdálkodási feladatokat ellátó köztisztviselője, közszolgálati ügykezelője, illetve munkavállalója kivételével – a közalkalmazottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.”
