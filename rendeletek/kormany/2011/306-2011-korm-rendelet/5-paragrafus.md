@@ -6,7 +6,7 @@ b) az Európai Unió Kohéziós Alapjából származó forrásból támogatott, 
 
 c) vízilétesítmény megvalósítására irányuló közbeszerzési eljárás esetén,
 
-d) a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 3. § k)–q) pontjában meghatározott tevékenységek végzéséhez szükséges építmények megvalósítására irányuló közbeszerzési eljárás esetén,
+d)[^1] a hulladékról szóló törvény szerinti hulladékgazdálkodási létesítmény építményeinek megvalósítására irányuló közbeszerzési eljárás esetén,
 
 e) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó építési beruházás esetén.
 
@@ -17,3 +17,5 @@ e) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvaló
 (4) Az ajánlatkérőnek az általa rendelkezésre bocsátott tervekkel kapcsolatban a tervezővel kötött szerződés feltételeiben biztosítania kell, hogy annak alapján a nyertes ajánlattevő jogdíj fizetése nélkül jogosult legyen a terveknek az általa elvégzendő tervezési feladathoz szükséges továbbtervezésére, átdolgozására.
 
 (5) A Kbt. 24. § (3) bekezdése alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen a kivitelezésre, vagy kivitelezésére és tervezésére együtt, illetve egy (elvi) engedélyezési tervet követően ugyanazon építmény tekintetében további tervek készítésére vonatkozó közbeszerzési eljárásban annak a tervezőnek a részvétele, aki ezen közbeszerzési eljárás Kbt. 49. §-a szerinti dokumentációját megalapozó tervet készítette, ha egyéb módon nem vesz részt a közbeszerzési eljárás előkészítésében.
+
+[^1]: Az 5. § (1) bekezdés d) pontja a 441/2012. (XII. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.
