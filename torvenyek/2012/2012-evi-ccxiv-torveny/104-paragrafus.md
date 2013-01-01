@@ -1,0 +1,3 @@
+104. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 145. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A háznagy javadalmazása megegyezik a miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott – alapilletményből, illetménykiegészítésből, vezetői illetménypótlékból álló – illetményével, illetve egyéb, a miniszter részére jogszabályban biztosított juttatással. A háznagyi megbízatás időtartama a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek minősül, illetve nyugdíjra jogosító szolgálati időnek számít.”
