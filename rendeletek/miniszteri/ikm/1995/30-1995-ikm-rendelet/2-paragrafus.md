@@ -398,7 +398,7 @@ Kereskedelmi és Vendéglátóipari Biztonsági Szabályzat[^2]
 
 4.4.16 Bolti konténert mozgatni csak olyan helyen szabad, ahol a megfelelő szélességű közlekedési út a rendelkezésre áll és az út jól belátható. Ellenkező esetben irányító személy jelenléte és közreműködése kötelező.
 
-4.4.17[^18] Növényvédőszert csak a területileg illetékes fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézete engedélyével lehet forgalmazni.
+4.4.17[^18] Növényvédőszert csak a területileg illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete engedélyével lehet forgalmazni.
 
 4.4.18 Növényvédőszerek árusítását, kezelését, jogszabályban meghatározott képesítésű személy végezheti.
 
@@ -515,5 +515,5 @@ A rögzítő részbe árut csak akkor lehet berakni, ha a gép kikapcsolt helyze
 [^15]: A melléklet 3.5.1.2 alpontját a 130/2004. (XII. 14.) GKM rendelet 2. §-a hatályon kívül helyezte.
 [^16]: A melléklet 4.1.4 alpontja a 130/2004. (XII. 14.) GKM rendelet 1. §-ával megállapított szöveg.
 [^17]: A melléklet 4.3.15 alpontja a 130/2004. (XII. 14.) GKM rendelet 1. §-ával megállapított szöveg.
-[^18]: A melléklet 4.4.17 pontja a 27/2010. (XII. 31.) NGM rendelet 6. §-a szerint módosított szöveg.
+[^18]: A melléklet 4.4.17 pontja a 27/2010. (XII. 31.) NGM rendelet 6. §-a, a 48/2012. (XII. 28.) NGM rendelet 2. §-a szerint módosított szöveg.
 [^19]: A melléklet 4.4.45 alpontját a 130/2004. (XII. 14.) GKM rendelet 2. §-a hatályon kívül helyezte.
