@@ -54,7 +54,7 @@ Ft/db
 
 | – megszüntetési vagy üzemszüneteltetési engedély | 234 000 |
 
-| g) Keskeny nyomközű vasutak esetében a fenti díjtételek 30%-át kell alkalmazni |  |
+| g) Keskeny nyomközű vasutak esetében a fenti díjtételek 30%-át kell alkalmazni” |  |
 
 | 2. A vasúti berendezések engedélyezésével összefüggő díjak |  |
 
@@ -124,7 +124,9 @@ Ft/db
 
 | i) vasúti jármű hatósági jelzésének meghatározása pályaszámonként/ |  |
 
-| jármű nyilvántartásban történő rögzítése és a jármű adataiban történő változás átvezetése a nyilvántartásban | 3 000 |
+| jármű nyilvántartásban történő rögzítése és a jármű adataiban történő változás átvezetése |  |
+
+| a nyilvántartásban | 3 000 |
 
 | 4. Vasúti járművekre szerelt és vasútüzemi célt szolgáló kazánok, nyomástartó edények |  |
 
@@ -278,11 +280,11 @@ Ft/db
 
 | d) vasútvállalatok átszervezésével, az infrastruktúra, |  |
 
-| illetve a kiszolgálás változásával kapcsolatban | 1 718 000 |
+| Illetve a kiszolgálás változásával kapcsolatban | 1 718 000 |
 
-| 19. Sikló-, függőpálya-, sífelvonó és mozgólépcső (mozgójárda) kezelők vizsgájával kapcsolatos hatósági díj | 18 000 |
+| 19. |  |
 
-| 20. A javítóvizsga díja megegyezik az adott, sikertelen vizsgával kapcsolatos hatósági díjjal |  |
+| 20. |  |
 
 | 21. A vasúti közlekedésbiztonságával összefüggő munkakörök alapképzésével, |  |
 
@@ -296,11 +298,11 @@ Ft/db
 
 | 24. Nem közúti mozgó gépekbe épített belső égésű motorok típusjóváhagyása |  |
 
-| motorcsaládonként | 176 000 |
+| Motorcsaládonként | 176 000 |
 
 | 25. Nem közúti mozgó gépekbe épített belső égésű motorok |  |
 
-| típusjóváhagyás alóli felmentési eljárása | 121 000 |
+| Típusjóváhagyás alóli felmentési eljárása | 121 000 |
 
 | 26. Nem közúti mozgó gépekbe épített belső égésű motorok esetében |  |
 
@@ -308,7 +310,7 @@ Ft/db
 
 | 27. Nem közúti mozgó gépekbe épített belső égésű motorok típusjóváhagyási bizonyítványa |  |
 
-| módosítása, kiterjesztése | 121 000 |
+| Módosítása, kiterjesztése | 121 000 |
 
 | 28. Nem közúti mozgó gépekbe épített belső égésű motorok regisztrációja |  |
 
@@ -324,4 +326,4 @@ Ft/db
 
 | 30. Vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek tanúsítása, engedélyezése | 1 248 000 |
 
-[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése szerint módosított szöveg.
