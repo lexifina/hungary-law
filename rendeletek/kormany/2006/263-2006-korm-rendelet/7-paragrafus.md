@@ -1,12 +1,12 @@
-## 6/B. §[^112] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
+## 6/B. §[^116] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
 
 ## A hajózási hatóságok kijelölése
 
-7. §[^113] (1) Hajózási hatóságként a Kormány
+7. §[^117] (1) Hajózási hatóságként a Kormány
 
 a) a (2)–(3) bekezdés szerinti ügyekben a Hatóságot,
 
-b)[^114] a Vkt. 4. § (4) bekezdésében foglalt feladat tekintetében Magyarország konzuli tisztviselőjét,
+b)[^118] a Vkt. 4. § (4) bekezdésében foglalt feladat tekintetében Magyarország konzuli tisztviselőjét,
 
 c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő úszólétesítmény részére való engedélyezésével kapcsolatos ügyekben a közlekedésért felelős minisztert
 
@@ -72,7 +72,7 @@ c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő 
 
 29. a radioaktív anyagok szállításának engedélyezésével
 
-30.[^115] a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével
+30.[^119] a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével
 
 kapcsolatos ügyekben.
 
@@ -98,7 +98,7 @@ i) a tengeri hajózási szolgálatot teljesítő személy egészségi alkalmass�
 
 j) elemi csapás vagy egyéb veszély esetén az úszólétesítmények ideiglenes igénybevételével,
 
-k)[^116] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
+k)[^120] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
 
 l) az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító elismert szervezetek elismerését megalapozó javaslathoz az elismerést kérelmező szervezet auditálásával, továbbá az elismerést elnyert szervezet tevékenységének ellenőrzésével,
 
@@ -126,8 +126,8 @@ b) a révkalauzi tevékenység, valamint
 
 c) a Vkt.-ben előírt képesítési követelményekkel összefüggő képzési és vizsgáztatási tevékenységek.
 
-[^112]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^113]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^114]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^115]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^116]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^116]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^117]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^118]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^119]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^120]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
