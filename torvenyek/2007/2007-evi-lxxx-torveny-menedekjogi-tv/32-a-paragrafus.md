@@ -8,6 +8,6 @@ c) a befogadás anyagi feltételeire, illetve külön jogszabályban meghatároz
 
 d) súlyosan erőszakos magatartást tanúsít.
 
-(2) A befogadás anyagi feltételei, valamint a külön jogszabályban meghatározott ellátások és támogatások korlátozásáról, megvonásáról, illetve megtagadásáról a menekültügyi hatóság, illetve a jegyző határozattal dönt.
+(2) A befogadás anyagi feltételei, valamint a külön jogszabályban meghatározott ellátások és támogatások korlátozásáról, megvonásáról, illetve megtagadásáról a menekültügyi hatóság, illetve a járási hivatal határozattal dönt.
 
 (3) A 30. § (2)–(3) és (5)–(9) bekezdéseiben foglaltakat az (1) bekezdés alapján hozott döntésekre is megfelelően alkalmazni kell.

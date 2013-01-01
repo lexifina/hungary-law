@@ -2,7 +2,7 @@
 
 30. § (1) Az elismerését kérő számára biztosított befogadási feltételek korlátozhatók, megvonhatók, illetve megtagadhatók, ha az elismerését kérő
 
-a) az együttműködési kötelezettségét ismételten vagy súlyosan megszegi;
+a)
 
 b) a befogadó állomást vagy a számára kijelölt kötelező tartózkodási helyet a kijelölő hatóság engedélye nélkül huszonnégy órát meghaladó időtartamra elhagyja;
 

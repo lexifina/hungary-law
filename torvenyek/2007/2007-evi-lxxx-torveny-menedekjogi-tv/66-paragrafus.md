@@ -1,13 +1,15 @@
-66. § (1) A részletes vizsgálati eljárás megszűnését a menekültügyi hatóság végzéssel állapítja meg, ha a kérelmező meghalt. A végzés ellen jogorvoslatnak nincs helye.
+66. § (1) A részletes vizsgálati eljárás megszűnik, ha a kérelmező meghalt.
 
-(2) A menekültügyi hatóság a részletes vizsgálati eljárást megszünteti, ha
+(2) A menekültügyi hatóság a részletes vizsgálati eljárást megszünteti, ha az 52. § (2) bekezdésében foglalt feltétel fennáll.
 
-a) az 52. § (2) bekezdés a), c), d), e) vagy f) pontjában foglalt feltétel fennáll;
+(3) A menekültügyi hatóság a rendelkezésre álló adatok alapján dönt, vagy a részletes vizsgálati eljárást megszünteti, ha
 
-b) a kérelmező a nyilatkozattételt megtagadja, és ezzel a kérelem érdemi elbírálását megakadályozza;
+a) az 52. § (2a) bekezdés b)–e) pontjában foglalt feltétel fennáll,
 
-c) az 51. § (2) vagy (5) bekezdés alapján a kérelem részletes vizsgálati eljárás nélküli elutasításának lett volna helye, az elutasítási ok azonban a részletes eljárás megindítását követően jutott a menekültügyi hatóság tudomására.
+b) a kérelmező a nyilatkozattételt megtagadja és ezzel a kérelem érdemi elbírálását megakadályozza vagy
 
-(3) Ha a menekültügyi hatóság a részletes vizsgálati eljárást a (2) bekezdés a) vagy b) pontja alapján szünteti meg, a továbbiakban az 52. § (3) bekezdésben foglaltakat kell megfelelően alkalmazni.
+c) az 51. § (2) vagy (5) bekezdés alapján a kérelem részletes vizsgálati eljárás nélküli elutasításának lett volna helye.
 
-(4) A részletes vizsgálati eljárást a (2) bekezdés c) pontja alapján megszüntető végzéssel szemben – az 53. § (3)–(5) bekezdésben foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
+(4) Ha a menekültügyi hatóság a részletes vizsgálati eljárást megszünteti, a továbbiakban az 52. § (3) bekezdésben foglaltakat kell megfelelően alkalmazni.
+
+(5) A részletes vizsgálati eljárást megszüntető végzéssel szemben – az 53. § (3)–(5) bekezdésében foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
