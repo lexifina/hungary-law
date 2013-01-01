@@ -4,7 +4,7 @@
 
 12. §[^26] (1) A költség előlegezéséről az a bíróság intézkedik, amelynek eljárásában a költség felmerült. A költséget bírósági határozat alapján lehet előlegezni, és a jogosultaknak kifizetni. A határozatban fel kell tüntetni az eljáró bíróságot, a bíróság ügyszámát, a peres felek nevét és perbeli állását, az ügy tárgyát, a jogosult nevét és lakcímét, valamint az előlegezett összeget és a kifizetés jogcímét.
 
-(2)[^27] Az előlegezett összeget a bírósági gazdasági hivatal (a továbbiakban: BGH), illetőleg a törvényszék székhelyén kívül működő helyi bíróság esetén az ellátmány kezelésével megbízott dolgozó (a továbbiakban: az ellátmány kezelője) fizeti ki a jogosultnak.
+(2)[^27] Az előlegezett összeget a bírósági gazdasági hivatal (a továbbiakban: BGH), illetőleg a törvényszék székhelyén kívül működő járásbíróság esetén az ellátmány kezelésével megbízott dolgozó (a továbbiakban: az ellátmány kezelője) fizeti ki a jogosultnak.
 
 (3) A meg nem fizetett illetékről és a fél helyett előlegezett költségekről a bíróság, illetve a bírósági végrehajtási eljárásban a bírósági végrehajtó költségjegyzéket vezet. A költségjegyzékbe az egyes tételeket azok felmerülésekor kell bejegyezni.
 
@@ -14,5 +14,5 @@
 
 [^25]: A III. fejezet címe a 23/2005. (XI. 10.) IM rendelet 1. § (5) bekezdésének a) pontjával megállapított szöveg.
 [^26]: A 12. § és címe a 17/1995. (VII. 25.) IM rendelet 10. §-ával megállapított szöveg.
-[^27]: A 12. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 4. § b) pontja szerint módosított szöveg.
+[^27]: A 12. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 4. § b) pontja, az 57/2012. (XII. 28.) KIM rendelet 4. §-a szerint módosított szöveg.
 [^28]: A 12. § (4) bekezdése az 56/2007. (XII. 22.) IRM rendelet 126. § (1) bekezdésének e) pontja szerint módosított szöveg. E módosító rendelet 125. § (3) bekezdése alapján a rendelkezést személyes költségmentesség engedélyezése esetén a 2008. január 1. napját követően előterjesztett kérelmek elbírálása során, míg a tárgyi költségmentesség és tárgyi költségfeljegyzési jog esetén a 2008. január 1. napját követően indult ügyekben kell alkalmazni.
