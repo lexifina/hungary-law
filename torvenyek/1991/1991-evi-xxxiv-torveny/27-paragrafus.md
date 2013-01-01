@@ -6,13 +6,15 @@
 
 (4) Az állami adóhatóság az engedélyben meghatározza a játékkaszinó kategóriáját, helyét, működési, látogatási feltételeit, az egyes játékfajtákat, azok szabályait, az egyes játékoknál alkalmazható legmagasabb téteket, a tétek és a nyeremények arányát, valamint minden tényt, körülményt vagy feltételt, amely a játékkaszinó biztonságos üzemeltetéséhez szükséges.
 
-(5) A koncessziós díj egységenként
+(5) A tárgyévi koncessziós díj jogszabályi minimumát a tárgyévre vonatkozó központi költségvetésről szóló törvény határozza meg
 
-a) Budapesten és Pest megyében I. kategóriájú játékkaszinó esetében évente legalább 600 millió forint, II. kategóriájú játékkaszinó esetében évente legalább 350 millió forint,
+a) a 2013. tárgyév esetén az e törvény 2012. január 1. napján hatályos 27. § (5) bekezdésében,
 
-b) az a) pontban foglalt kivétellel I. kategóriájú játékkaszinó esetében évente legalább 500 millió forint, II. kategóriájú játékkaszinó esetében évente legalább 50 millió forint.
+b) ezt követően pedig a tárgyévet megelőző évre a központi költségvetésről szóló törvényben
 
-(6) Az (5) bekezdés a)–b) pontjaiban meghatározott koncessziós díjat évente valorizálni kell. A koncessziót a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett éves fogyasztói árindexszel megnövelve kell kiszámítani és megfizetni a tárgyév február hó 15-éig. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre a koncessziós díj időarányos részét kell megfizetni.
+meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezett gazdasági környezet figyelembe vételével. A koncessziós szerződésben a felek a jogszabályi minimumot meghaladó mértékű koncessziós díjban megállapodhatnak.
+
+(6) A koncessziós szerződésben meghatározott, a jogszabályi minimumot meghaladó mértékű koncessziós díjat évente valorizálni kell oly módon, hogy a tárgyévi koncessziós díjat a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett éves fogyasztói árindexszel megnövelve kell kiszámítani. A koncessziós díjat a tárgyév február hó 15-éig kell megfizetni. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre a koncessziós díj időarányos részét kell megfizetni.
 
 (7) A koncesszió időtartama I. kategóriájú játékkaszinó esetében legfeljebb 20 év, II. kategóriájú játékkaszinó esetében legfeljebb 10 év.
 

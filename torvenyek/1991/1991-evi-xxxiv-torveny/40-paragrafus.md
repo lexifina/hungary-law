@@ -9,3 +9,9 @@
 (5) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdésének rendelkezéseit 2012. január 1-től és első alkalommal 2012. január–március tárgynegyedévre kell alkalmazni.
 
 (6)
+
+(7) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 35. §-át az e § hatálybalépése napját követő tárgyhónapra kell első alkalommal alkalmazni.
+
+(8) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 36/C–36/E. §-át a 2012. december 31. napját követően keletkező szerencsejáték felügyeleti díjfizetési kötelezettséggel kapcsolatban kell alkalmazni.
+
+(9) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 36/F. §-át a 2012. december 31. napját követően indult eljárásokban kell alkalmazni.

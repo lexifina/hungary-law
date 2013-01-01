@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2012-04-15 | 2012. évi II. törvény | 1991-34-00-00.47 |
 | 2012-06-20 | 2012. évi LXIX. törvény | 1991-34-00-00.48 |
 | 2012-10-10 | 2012. évi CXLIV. törvény | 1991-34-00-00.49 |
+| 2013-01-01 | 2012. évi CLXXVIII. törvény | 1991-34-00-00.50 |

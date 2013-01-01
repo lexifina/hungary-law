@@ -1,16 +1,16 @@
-11. § (1) A szerencsejáték szervezésének engedélyezéséért, ellenőrzéséért, az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
+11. § (1) A szerencsejáték szervezésének engedélyezéséért és az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
 
 (1a)
 
 (2) A szerencsejáték-szervező tevékenységre jogosító engedély iránti, a játékterv felülvizsgálatára, továbbá a játékterv módosítására irányuló kérelem benyújtásával egyidejűleg – külön felhívás nélkül – kell az igazgatási-szolgáltatási díjat készpénz-átutalási megbízással vagy átutalással megfizetni.
 
-(3) A szerencsejátékot és ajándéksorsolást szervező működésének felügyeleti ellenőrzéséért folyamatos sorsolásos játék és totalizatőri rendszerű fogadás, bukmékeri rendszerű fogadás, játékkaszinó üzemeltetése esetén negyedévenként a tárgynegyedévet követő hó 15. napjáig, nem folyamatos sorsolásos játék és nem folyamatos fogadás, valamint ajándéksorsolás esetén pedig a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül kell a díjat megfizetni.
+(3)
 
 (4) A szerencsejáték szervezésére kiírt koncessziós pályázaton való részvételért fizetendő díjat a koncessziós pályázat benyújtásával egyidejűleg kell megfizetni.
 
 (5)
 
-(6) A szolgáltatások igénybevételéért fizetendő díjak körét és mértékét, megfizetésének rendjével kapcsolatos szabályokat az e törvény végrehajtására a miniszter által kiadott rendelet állapítja meg.
+(6)
 
 (7) Az állami adóhatóság díjbevételéből kell fedezni a koncessziós pályázatok kiírásának és elbírálásának költségeit is.
 

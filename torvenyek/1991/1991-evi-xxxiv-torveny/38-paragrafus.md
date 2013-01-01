@@ -22,6 +22,8 @@ h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen 
 
 i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
 
+j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával
+
 kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
