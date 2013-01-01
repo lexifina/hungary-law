@@ -34,9 +34,9 @@
 
 15. a le nem zárt peres ügyekkel kapcsolatban várható kötelezettségek;
 
-16.[^195] portfolió kezelés kapcsán saját ügyfelek felé vállalt tőkegarancia, illetve hozamgarancia, valamint tőke megóvására, illetve hozamra tett ígéret, amelyet az ügyfelek által a portfoliókezelési szerződés megkötésekor rögzített értékben rendelkezésre bocsátott pénzeszközök és értékpapírok együttes értékének összegében, illetve annak az arra vetített garantált (ígért) hozammal növelt összegében kell kimutatni;
+16.[^199] portfolió kezelés kapcsán saját ügyfelek felé vállalt tőkegarancia, illetve hozamgarancia, valamint tőke megóvására, illetve hozamra tett ígéret, amelyet az ügyfelek által a portfoliókezelési szerződés megkötésekor rögzített értékben rendelkezésre bocsátott pénzeszközök és értékpapírok együttes értékének összegében, illetve annak az arra vetített garantált (ígért) hozammal növelt összegében kell kimutatni;
 
-17.[^196] befektetési alapkezelők vagy portfoliókezelők által vállalt tőkegarancia, illetve hozamgarancia után vállalt bankgarancia, amelyet
+17.[^200] befektetési alapkezelők vagy portfoliókezelők által vállalt tőkegarancia, illetve hozamgarancia után vállalt bankgarancia, amelyet
 
 a) a befektetési alap forgalomban lévő befektetési jegyeinek névértéke összegében, illetve a névértéke és az arra vetített garantált hozam együttes összegében,
 
@@ -44,7 +44,7 @@ b) a portfoliókezelő által vállalt tőkegaranciával, illetve hozamgaranciá
 
 ## mint kötelezettségvállalást kell kimutatni;
 
-18.[^197] a Tv. 3. § (8) bekezdés 14. pontjában meghatározott, egyéb eszközre vonatkozó függő kötelezettségek.
+18.[^201] a Tv. 3. § (8) bekezdés 14. pontjában meghatározott, egyéb eszközre vonatkozó függő kötelezettségek.
 
 (3) Biztos (jövőbeni) kötelezettségek közé tartoznak többek között:
 
@@ -52,19 +52,19 @@ b) a portfoliókezelő által vállalt tőkegaranciával, illetve hozamgaranciá
 
 2. a swap ügyletek határidős ügyletrésze miatti kötelezettségek (a kamatok cseréjére vonatkozó swap ügylet esetén a vállalt fix, illetve változó kamat értékelés napján – a mérleg fordulónapján – fennálló mértékével a teljes hátralévő futamidőre számított kamatra vonatkozó fizetési kötelezettség),
 
-3.[^198] a Tv. 3. § (8) bekezdés 15. pontjában meghatározott, egyéb eszközre vonatkozó biztos (jövőbeni) kötelezettségek.
+3.[^202] a Tv. 3. § (8) bekezdés 15. pontjában meghatározott, egyéb eszközre vonatkozó biztos (jövőbeni) kötelezettségek.
 
-(4)[^199] A függő kötelezettségeken belül elkülönítetten kell kimutatni a Magyar Export-Import Bank Részvénytársaságnál a Kormány megbízása alapján vállalt, a Kormány készfizető kezességével fedezett, illetve az egyéb pénzügyi intézmények által vállalt részben vagy egészben állami kezességvállalással fedezett garanciaügyletekből adódóan be nem váltott kötelezettség összegét.
+(4)[^203] A függő kötelezettségeken belül elkülönítetten kell kimutatni a Magyar Export-Import Bank Részvénytársaságnál a Kormány megbízása alapján vállalt, a Kormány készfizető kezességével fedezett, illetve az egyéb pénzügyi intézmények által vállalt részben vagy egészben állami kezességvállalással fedezett garanciaügyletekből adódóan be nem váltott kötelezettség összegét.
 
-(5)[^200] Mérlegen kívüli követelésként kell kimutatni a Tv. 3. § (8) bekezdés 17–18. pontja szerinti függő és biztos (jövőbeni) követelések pénzeszközre és egyéb eszközre vonatkozó összegét, a pénzeszközre vonatkozókba beleértve a forintra szóló követelések mellett a 2. § 10. pontja szerinti mérlegen kívüli, devizában fennálló követelések összegét is. A pénzeszköztől eltérő egyéb eszközökre vonatkozó mérlegen kívüli tételnek minősülő kapott biztosítékok és fedezetek esetében a fedezet értékelési szabályzat alapján meghatározott értéket és abból a pénzügyi intézményt – a fennálló kintlévősége alapján – jogilag megillető értéket egyaránt be kell mutatni a kiegészítő mellékletben.
+(5)[^204] Mérlegen kívüli követelésként kell kimutatni a Tv. 3. § (8) bekezdés 17–18. pontja szerinti függő és biztos (jövőbeni) követelések pénzeszközre és egyéb eszközre vonatkozó összegét, a pénzeszközre vonatkozókba beleértve a forintra szóló követelések mellett a 2. § 10. pontja szerinti mérlegen kívüli, devizában fennálló követelések összegét is. A pénzeszköztől eltérő egyéb eszközökre vonatkozó mérlegen kívüli tételnek minősülő kapott biztosítékok és fedezetek esetében a fedezet értékelési szabályzat alapján meghatározott értéket és abból a pénzügyi intézményt – a fennálló kintlévősége alapján – jogilag megillető értéket egyaránt be kell mutatni a kiegészítő mellékletben.
 
 (6) A (2)–(3) és az (5) bekezdésben felsorolt mérlegen kívüli tételeket, azok szerződés szerinti értékén, a 0. Nyilvántartási számlák számlaosztályban kell nyilvántartani. A devizára szóló mérlegen kívüli tételek esetén, ha a szerződés szerinti érték csak devizában rögzített, akkor annak a mérleg fordulónapján érvényes, MNB által közzétett hivatalos devizaárfolyamon átszámított forintértékét is ki kell mutatni 0. Nyilvántartási számlák számlaosztályban.
 
 (7) Az elszámolási határidős és opciós ügyletek, valamint a kamat-swap ügyletek esetében a 0. Nyilvántartási számlák számlaosztályban kell kimutatni az ügylet tárgyát képező pénzügyi instrumentumnak a 22. § (6) bekezdése szerint a mérleg fordulónapjára vonatkozó piaci értékét is. Ezeket az ügyleteket a piaci ár és a szerződés szerinti érték különbözetének összegében, annak jellegétől függően a mérlegen kívüli követelések és a függő vagy biztos (jövőbeni) kötelezettségek között kell kimutatni az (1) bekezdés szerint a kiegészítő melléklet részeként a mérleg hátoldalán. A leszállítási határidős és opciós ügyleteket, valamint a forint és deviza cseréjére, valamint a különböző devizák cseréjére vonatkozó swap ügyleteket a szerződés szerinti összegben kell jellegétől függően a mérlegen kívüli követelések és a függő vagy a biztos (jövőbeni) kötelezettségek között kimutatni a mérleg hátoldalán.
 
-[^195]: A 20. § (2) bekezdésének 16. pontját a 291/2001. (XII. 26.) Korm. rendelet 17. §-ának (1) bekezdése iktatta be, szövege a 397/2007. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^196]: A 20. § (2) bekezdésének 17. pontját a 291/2001. (XII. 26.) Korm. rendelet 17. §-ának (1) bekezdése iktatta be, szövege a 397/2007. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^197]: A 20. § (2) bekezdésének 18. pontját a 238/2003. (XII. 17.) Korm. rendelet 11. § (1) bekezdése iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^198]: A 20. § (3) bekezdésének 3. pontját a 238/2003. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^199]: A 20. § (4) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 17. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
-[^200]: A 20. § (5) bekezdése a 238/2003. (XII. 17.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^199]: A 20. § (2) bekezdésének 16. pontját a 291/2001. (XII. 26.) Korm. rendelet 17. §-ának (1) bekezdése iktatta be, szövege a 397/2007. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^200]: A 20. § (2) bekezdésének 17. pontját a 291/2001. (XII. 26.) Korm. rendelet 17. §-ának (1) bekezdése iktatta be, szövege a 397/2007. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^201]: A 20. § (2) bekezdésének 18. pontját a 238/2003. (XII. 17.) Korm. rendelet 11. § (1) bekezdése iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^202]: A 20. § (3) bekezdésének 3. pontját a 238/2003. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^203]: A 20. § (4) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 17. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
+[^204]: A 20. § (5) bekezdése a 238/2003. (XII. 17.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
