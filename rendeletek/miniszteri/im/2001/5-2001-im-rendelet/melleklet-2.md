@@ -10,7 +10,7 @@
 
 ## -------------------
 
-## 1.[^19] A Kúrián foglalkoztatott igazságügyi alkalmazottak:
+## 1.[^20] A Kúrián foglalkoztatott igazságügyi alkalmazottak:
 
 ## 1.1. Vezetők mellé beosztott igazságügyi alkalmazott
 
@@ -134,7 +134,7 @@
 
 ## általános iskola
 
-## 1/A.[^20] Az ítélőtáblán foglalkoztatott igazságügyi alkalmazottak:
+## 1/A.[^21] Az ítélőtáblán foglalkoztatott igazságügyi alkalmazottak:
 
 ## --------------
 
@@ -298,7 +298,7 @@
 
 ## középiskolai végzettség és középfokú munkaügyi vagy személyügyi szakirányú ügyintézői képesítés, ügyviteli vizsga
 
-## 2.3.[^21] A törvényszék személyügyi nyilvántartását vezető tisztviselő
+## 2.3.[^22] A törvényszék személyügyi nyilvántartását vezető tisztviselő
 
 ## középiskolai végzettség, gépírói szakvizsga vagy operátori képesítést adó iskolai végzettség, ügyviteli vizsga
 
@@ -310,7 +310,7 @@
 
 ## szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és mérlegképes könyvelői pénzügyi és számviteli szakellenőri vagy okleveles pénzügyi revizori képesítés, okleveles könyvvizsgáló képesítés, ügyviteli vizsga
 
-## 2.6.[^22]
+## 2.6.[^23]
 
 ## 2.7. Főtanácsadó
 
@@ -324,19 +324,19 @@
 
 ## középiskolai végzettség, gépírói szakvizsga vagy operátori képesítést adó iskolai végzettség, hároméves szakmai gyakorlat, ügyviteli vizsga
 
-## 2.10.[^23] A törvényszék könyvtárának vezetője
+## 2.10.[^24] A törvényszék könyvtárának vezetője
 
 ## szakirányú főiskolai végzettség vagy középfokú könyvtárosi végzettség
 
-## 2.11.[^24] A törvényszék könyvtárába beosztott könyvtáros és helyi bírósági könyvtáros
+## 2.11.[^25] A törvényszék könyvtárába beosztott könyvtáros és járásbírósági könyvtáros
 
 ## középiskolai végzettség, alapfokú könyvtárosi képesítés
 
-## 2.12.[^25] A törvényszék statisztikai csoport vezetője
+## 2.12.[^26] A törvényszék statisztikai csoport vezetője
 
 ## középiskolai végzettség, középfokú statisztikai képesítés, ügyviteli vizsga
 
-## 2.13.[^26] A törvényszékeken, a helyi bíróságon és a munkaügyi bíróságon leíró, adatrögzítő, adatfeldolgozó
+## 2.13.[^27] A törvényszékeken, a járásbíróságon és a közigazgatási és munkaügyi bíróságon leíró, adatrögzítő, adatfeldolgozó
 
 ## középiskolai végzettség, ügyviteli vizsga
 
@@ -374,7 +374,7 @@
 
 ## 3. A bírósági vezetőkhöz és a bírákhoz kapcsolódó ügykezelői munkakörök:
 
-## 3.1.[^27] A törvényszék, valamennyi törvényszék és a munkaügyi bíróság vezetői mellé beosztott ügykezelő
+## 3.1.[^28] A törvényszék, valamennyi törvényszék és a közigazgatási és munkaügyi bíróság vezetői mellé beosztott ügykezelő
 
 ## középiskolai végzettség vagy szakiskola, gépírói szakvizsga vagy operátori képesítést adó iskolai végzettség, ügyviteli vizsga
 
@@ -398,7 +398,7 @@
 
 ## középiskolai végzettség, ügyviteli vizsga
 
-## 4.[^28] A Törvényszék Gazdasági Hivatalánál tisztviselői és ügykezelői munkakörök:
+## 4.[^29] A Törvényszék Gazdasági Hivatalánál tisztviselői és ügykezelői munkakörök:
 
 ## 4.1. Gazdasági Hivatal vezetője (igazgató)
 
@@ -408,7 +408,7 @@
 
 ## szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és mérlegképes könyvelői, illetve ezzel egyenértékű szakképzettség
 
-## 4.3.[^29] A törvényszék gazdasági hivatalánál ügykezelői munkakör
+## 4.3.[^30] A törvényszék gazdasági hivatalánál ügykezelői munkakör
 
 ## középiskolai végzettség, ügyviteli vizsga
 
@@ -488,7 +488,7 @@
 
 ## 4.7.5. Munkavédelmi és tűzvédelmi felelős
 
-## szakirányú középiskolai végzettség, munkavédelmi, tűzvédelmi szakképesítés[^30]
+## szakirányú középiskolai végzettség, munkavédelmi, tűzvédelmi szakképesítés[^31]
 
 ## 4.8. Bevételi csoport:
 
@@ -498,7 +498,7 @@
 
 ## 4.8.2. Csoportvezető-helyettes
 
-## középiskolai végzettség, szakirányú képesítés, ügyviteli vizsga[^31]
+## középiskolai végzettség, szakirányú képesítés, ügyviteli vizsga[^32]
 
 ## 4.8.3. Gyermektartásdíj ügyintéző
 
@@ -536,7 +536,7 @@
 
 ## 4.9.5. Készpénzletét-kezelő
 
-## középiskolai végzettség, középfokú könyvelői képesítés, ügyviteli vizsga[^32]
+## középiskolai végzettség, középfokú könyvelői képesítés, ügyviteli vizsga[^33]
 
 ## 4.10. Bűnjelcsoport:
 
@@ -618,9 +618,9 @@
 
 ## általános iskola
 
-## II. Az Országos Bírósági Hivatalban foglalkoztatott igazságügyi alkalmazottak[^33]
+## II. Az Országos Bírósági Hivatalban foglalkoztatott igazságügyi alkalmazottak[^34]
 
-## 1.[^34] elnökhelyettesek
+## 1.[^35] elnökhelyettesek
 
 ## szakirányú felsőfokú iskolai végzettség
 
@@ -776,7 +776,7 @@
 
 ## szakirányú felsőfokú iskolai végzettség vagy szakirányú középiskolai végzettség és szakirányú felsőfokú szakképesítés
 
-## 22.[^35]
+## 22.[^36]
 
 | 22. | Fizikai munkakörök: |  |
 
@@ -830,20 +830,20 @@
 
 2. számú melléklet az 5/2001. (III. 13.) IM rendelethez
 
-[^19]: Az 1. számú melléklet I. alcím 1. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § p) pontja szerint módosított szöveg.
-[^20]: Az 1. számú melléklet I. részének 1/A. pontját a 22/2004. (V. 18.) IM rendelet 17. §-a iktatta be, e módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^21]: Az 1. számú melléklet I. alcím 2.3. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
-[^22]: Az 1. számú melléklet I. részének 2.6. pontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte.
-[^23]: Az 1. számú melléklet I. alcím 2.10. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
-[^24]: Az 1. számú melléklet I. alcím 2.11. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
-[^25]: Az 1. számú melléklet I. alcím 2.12. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
-[^26]: Az 1. számú melléklet I. alcím 2.13. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § r) pontja szerint módosított szöveg.
-[^27]: Az 1. számú melléklet I. alcím 3.1. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
-[^28]: Az 1. számú melléklet I. alcím 4. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § s) pontja szerint módosított szöveg.
-[^29]: Az 1. számú melléklet I. alcím 4.3. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
-[^30]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.
+[^20]: Az 1. számú melléklet I. alcím 1. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § p) pontja szerint módosított szöveg.
+[^21]: Az 1. számú melléklet I. részének 1/A. pontját a 22/2004. (V. 18.) IM rendelet 17. §-a iktatta be, e módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^22]: Az 1. számú melléklet I. alcím 2.3. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
+[^23]: Az 1. számú melléklet I. részének 2.6. pontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte.
+[^24]: Az 1. számú melléklet I. alcím 2.10. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
+[^25]: Az 1. számú melléklet I. alcím 2.11. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja, az 57/2012. (XII. 28.) KIM rendelet 9. § c) pontja szerint módosított szöveg.
+[^26]: Az 1. számú melléklet I. alcím 2.12. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
+[^27]: Az 1. számú melléklet I. alcím 2.13. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § r) pontja, az 57/2012. (XII. 28.) KIM rendelet 9. § c) pontja szerint módosított szöveg.
+[^28]: Az 1. számú melléklet I. alcím 3.1. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja, az 57/2012. (XII. 28.) KIM rendelet 9. § c) pontja szerint módosított szöveg.
+[^29]: Az 1. számú melléklet I. alcím 4. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § s) pontja szerint módosított szöveg.
+[^30]: Az 1. számú melléklet I. alcím 4.3. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § q) pontja szerint módosított szöveg.
 [^31]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.
 [^32]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.
-[^33]: Az 1. számú melléklet II. alcíme a 40/2011. (XII. 30.) KIM rendelet 15. § t) pontja szerint módosított szöveg.
-[^34]: Az 1. számú melléklet II. alcím 1. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § u) pontja szerint módosított szöveg.
-[^35]: Az 1. számú melléklet II. pontjának 22. alpontja a 7/2009. (IV. 8.) IRM rendelet 3. §-ával megállapított szöveg.
+[^33]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.
+[^34]: Az 1. számú melléklet II. alcíme a 40/2011. (XII. 30.) KIM rendelet 15. § t) pontja szerint módosított szöveg.
+[^35]: Az 1. számú melléklet II. alcím 1. pontja a 40/2011. (XII. 30.) KIM rendelet 15. § u) pontja szerint módosított szöveg.
+[^36]: Az 1. számú melléklet II. pontjának 22. alpontja a 7/2009. (IV. 8.) IRM rendelet 3. §-ával megállapított szöveg.
