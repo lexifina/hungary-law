@@ -266,7 +266,7 @@
 
 ## 1.101.[^101] Megyei Kormányhivatalok Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságon dolgozó hatósági személy igazolványa;
 
-## 1.102.[^102] Megyei Kormányhivatalok Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság Kerületi Állat-egészségügyi és Élelmiszer-ellenőrző Hivatalaiban dolgozó hatósági személy igazolványa;
+## 1.102.[^102] Megyei Kormányhivatalok járási hivatalai Állat-egészségügyi és Élelmiszer-ellenőrző Hivatalaiban dolgozó hatósági személy igazolványa;
 
 ## 1.103.[^103] Megyei Kormányhivatalok Növény- és Talajvédelmi Igazgatóságon dolgozó hatósági személy igazolványa;
 
@@ -306,7 +306,7 @@
 
 ## 1.121.[^121] esélyegyenlőségi szakértői bizonyítvány;
 
-## 1.122.[^122] az Országos Tisztifőorvosi Hivatalban, valamint a fővárosi és megyei kormányhivatalok megyei népegészségügyi szakigazgatási szerveiben, továbbá kistérségi népegészségügyi intézeteiben dolgozó hatósági személy igazolványa;
+## 1.122.[^122] az Országos Tisztifőorvosi Hivatalban, valamint a fővárosi és megyei kormányhivatalok megyei népegészségügyi szakigazgatási szerveiben, továbbá járási (fővárosi kerületi) hivatalok járási (fővárosi kerületi) népegészségügyi intézeteiben dolgozó hatósági személy igazolványa;
 
 ## 1.123.[^123] a Magyar Honvédség központi adatfeldolgozó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és állományuk tagja részére kiállított igazolvány jogállásukról, kiváltságaik és mentességeik igénybevételére;
 
@@ -458,7 +458,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^99]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^100]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 23/2012. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^101]: Az 1. számú melléklet III. rész 1. pont 1.101. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^102]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^102]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^103]: Az 1. számú melléklet III. rész 1. pont 1.103. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^104]: Az 1. számú melléklet III. rész 1. pont 1.104. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^105]: Az 1. számú melléklet III. rész 1. pont 1.105. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
@@ -478,7 +478,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^119]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^120]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^121]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^122]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^122]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^123]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^124]: Az 1. számú melléklet III. rész 1. pont 1.124. alpontját a 359/2012. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
 [^125]: Az 1. számú melléklet III. rész 2. pont 2.3. alpontja a 314/2011. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
