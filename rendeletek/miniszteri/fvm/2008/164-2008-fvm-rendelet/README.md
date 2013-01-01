@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-164-20-
 | --- | --- | --- |
 | 2010-01-01 | 2008-164-20-82.3 | 164/2008. (XII. 20.) FVM rendelet |
 | 2010-04-30 | 2008-164-20-82.4 | 42/2010. (IV. 22.) FVM rendelet |
+| 2013-01-01 | 2008-164-20-82.5 | 151/2012. (XII. 29.) VM rendelet |

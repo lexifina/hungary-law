@@ -18,7 +18,7 @@ d) az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi X
 
 (3) A veszettség elleni védőoltást valamennyi magánállatorvos elvégezheti.
 
-(4) A (3) bekezdésben leírt tevékenységet az e rendelet előírásainak megszegése miatt kiszabott szankcióként az Éltv. 57. § a) pontja szerint a kerületi főállatorvos korlátozhatja. A kerületi főállatorvos az oltási jogkör korlátozásáról, illetve a korlátozás feloldásáról hozott határozatát megküldi a Kamara illetékes területi szervezetének és a magánállatorvos székhelye szerint illetékes jegyzőnek is.
+(4)[^2] A (3) bekezdésben leírt tevékenységet az e rendelet előírásainak megszegése miatt kiszabott szankcióként az Éltv. 57. § a) pontja szerint a járási főállatorvos korlátozhatja. A járási főállatorvos az oltási jogkör korlátozásáról, illetve a korlátozás feloldásáról hozott határozatát megküldi a Kamara illetékes területi szervezetének és a magánállatorvos székhelye szerint illetékes jegyzőnek is.
 
 (5) Az oltást végző magánállatorvos köteles:
 
@@ -34,31 +34,40 @@ bc) a veszettség elleni védőoltás időpontja,
 
 bd) a felhasznált oltóanyag neve, gyártási száma;
 
-c) az év során elvégzett immunizálások ba)–bc) pontokban felsorolt adatait az oltást végző állatorvos székhelye szerint illetékes kerületi főállatorvosnak az azt követő év január 30-ig megküldeni;
+c)[^3] az év során elvégzett immunizálások ba)–bc) pontokban felsorolt adatait az oltást végző állatorvos székhelye szerint illetékes járási főállatorvosnak az azt követő év január 30-ig megküldeni;
 
 d) nyilvántartásából egy adott állat immunizálásának b) pontban felsorolt adatait haladéktalanul az állat-egészségügyi hatóság rendelkezésére bocsátani, annak felhívására;
 
 e) az általa beoltott, embert mart állat oltottságáról a megmart embert kezelő orvost – annak kérésére – tájékoztatni;
 
-f)[^1]
+f)[^4]
 
-g)[^2] az MgSzH által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
+g)[^5] az MgSzH által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
 
-h)[^3] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről, egyidejűleg azt új, a g) pontban leírt címkével érvényesíteni.
+h)[^6] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről, egyidejűleg azt új, a g) pontban leírt címkével érvényesíteni.
 
-(6) A kerületi főállatorvos
+(5a)[^7] Az oltást végző magánállatorvos az eb oltási könyvének kiállítása során az állat fajtájának megjelölésére szolgáló sort kizárólag abban az esetben töltheti ki, amennyiben az eb tulajdonosa az eb fajtatiszta származását az elismert tenyésztő szervezet által kibocsátott származási igazolással igazolja. E sor kitöltésekor az ebnek a származási igazolásán szereplő törzskönyvi azonosítóját is fel kell tüntetni.
+
+(6)[^8] A járási főállatorvos
 
 a) ellenőrzi az oltást végző állatorvost (a jelentési és nyilvántartási kötelezettségek betartását, a vakcina-rendelés, -beszerzés, illetve -felhasználás és ezek nyilvántartásának szabályszerűségét);
 
 b) nyilvántartja az embert mart és a megfigyelés alá helyezett, egyedileg azonosított, továbbá az 5. § (2) bekezdésében leírt állatokat;
 
-c)[^4]
+c)[^9]
 
 d) évenként összesíti az illetékességi területén beoltott ebek számát az (5) bekezdés c) pontjában leírt jelentések alapján;
 
 e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végrehajtását, továbbá jogsértés esetén az Éltv. 56. §-a szerint jogkövetkezményeket alkalmazhat.
 
-[^1]: A 4. § (5) bekezdésének f) pontját a 23. § (2) bekezdése hatályon kívül helyezte.
-[^2]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja szerint módosított szöveg.
-[^3]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
-[^4]: A 4. § (6) bekezdés c) pontját a 42/2010. (IV. 22.) FVM rendelet 17. §-a hatályon kívül helyezte.
+(7)[^10] Veszettség ellen csak elektronikus transzponderrel megjelölt eb oltható.
+
+[^2]: A 4. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (5) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (5) bekezdésének f) pontját a 23. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
+[^7]: A 4. § (5a) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^8]: A 4. § (6) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (6) bekezdés c) pontját a 42/2010. (IV. 22.) FVM rendelet 17. §-a hatályon kívül helyezte.
+[^10]: A 4. § (7) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (2) bekezdése iktatta be.

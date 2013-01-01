@@ -8,10 +8,13 @@
 
 (4) A csalétek kihelyezését repülőgépes kiszórás módszerével kell végrehajtani a vakcina használati utasításában előírtak szerint. Azokon a területeken, ahol biztonsági vagy egyéb okból a repülőgépes kiszórás nem valósítható meg, a csalétket kézzel kell kihelyezni.
 
-(5) A vakcinázás kezdetétől számított tizennégy napig az érintett területeken az illetékes kerületi főállatorvos ebzárlatot és legeltetési tilalmat köteles elrendelni.
+(5)[^18] A vakcinázás kezdetétől számított tizennégy napig az érintett területeken az illetékes járási főállatorvos ebzárlatot és legeltetési tilalmat köteles elrendelni.
 
 (6) Az immunizálással érintett területen a vadászati hatóság felhívására és irányításával a vadászatra jogosultnak jól látható, piros színű, legalább magyar nyelvű, a felhívás megértését szolgáló piktogrammal ellátott figyelemfelhívó plakátokat kell kihelyezni a lakott területekről kivezető utak mentén, bekötőutaknál, kiránduló és parkolóhelyeken, turistaházak és vadászházak mellett. A vadászatra jogosult ezért a tevékenységéért költségtérítésre jogosult.
 
-(7) A (6) bekezdés szerinti tájékoztató plakátokat a kerületi főállatorvosok a lakosság tájékoztatása érdekében eljuttatják az érintett önkormányzatokhoz is.
+(7)[^19] A (6) bekezdés szerinti tájékoztató plakátokat a járási főállatorvosok a lakosság tájékoztatása érdekében eljuttatják az érintett önkormányzatokhoz is.
 
 (8) Amennyiben ember érintkezik a csalétekben található vakcinával, azt haladéktalanul jelenteni kell az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) illetékes területi szervének.
+
+[^18]: A 8. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^19]: A 8. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
