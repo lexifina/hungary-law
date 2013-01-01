@@ -84,9 +84,9 @@
 
 ## A mosogató-, tisztító-, tisztító-fertőtlenítő-, valamint fertőtlenítőszerek a termelési és technikai eszközöknek az élelmiszerekkel rendeltetésszerűen érintkező felületén tartós maradékot nem képezhetnek és az élelmiszerekben kimutatható mennyiségben nem lehetnek jelen.
 
-## 2.10.[^10]
+## 2.10.[^13]
 
-3. számú melléklet a 17/1999. (VI. 16.) EüM rendelethez[^11]
+3. számú melléklet a 17/1999. (VI. 16.) EüM rendelethez[^14]
 
-[^10]: A 2. számú melléklet 2.10. pontját a 9/2003. (III. 13.) ESZCSM rendelet 2. §-ának (1) bekezdése iktatta be, a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^11]: A 3. számú melléklet a 40/2000. (XII. 20.) EüM rendelet 1. §-ának (2) bekezdése, illetve 2. számú melléklet 1-2. pontja szerint módosított és megállapított szöveg.
+[^13]: A 2. számú melléklet 2.10. pontját a 9/2003. (III. 13.) ESZCSM rendelet 2. §-ának (1) bekezdése iktatta be, a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^14]: A 3. számú melléklet a 40/2000. (XII. 20.) EüM rendelet 1. §-ának (2) bekezdése, illetve 2. számú melléklet 1-2. pontja szerint módosított és megállapított szöveg.

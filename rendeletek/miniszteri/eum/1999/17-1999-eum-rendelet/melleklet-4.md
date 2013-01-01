@@ -28,13 +28,13 @@
 
 ## o a termék zsírtartalmára számított érték.
 
-## 3.2.[^12] Élelmiszerek maximális fémtartalma
+## 3.2.[^15] Élelmiszerek maximális fémtartalma
 
 ## (valamennyi forrásból: környezeti, illetve technológiai szennyeződés, természetes tartalom)
 
 ## Minden megállapított maximális szint az adott élelmianyag ehető részére, illetve fogyasztásra kész állapotára vonatkozik.
 
-## 3.2.1.[^13]
+## 3.2.1.[^16]
 
 ## 3.2.1.1. Ólom
 
@@ -294,13 +294,13 @@
 
 ## ** Az étrend-kiegészítőkből ajánlott napi dózis figyelembevételével számított napi bevitel ólomból a 180 mikrogramm/fő, kadmiumból az 50 mikrogramm/fő értéket nem haladhatja meg.
 
-## 3.3.[^14]
+## 3.3.[^17]
 
-## 3.4.[^15]
+## 3.4.[^18]
 
 4. számú melléklet a 17/1999. (VI. 16.) EüM rendelethez
 
-[^12]: A 3. számú melléklet 3.2. pontja a 9/2003. (III. 13.) ESZCSM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
-[^13]: A 3. számú melléklet 3.2.1. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^14]: A 3. számú melléklet 3.3. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^15]: A 3. számú melléklet 3.4. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^15]: A 3. számú melléklet 3.2. pontja a 9/2003. (III. 13.) ESZCSM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
+[^16]: A 3. számú melléklet 3.2.1. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^17]: A 3. számú melléklet 3.3. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^18]: A 3. számú melléklet 3.4. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.

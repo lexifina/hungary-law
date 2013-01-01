@@ -4,7 +4,7 @@ a) vegyi szennyeződés: minden olyan, az élelmiszerhez nem szándékosan hozz�
 
 b) határérték: a szennyező anyag, a fogyasztó egészségére ártalmas esetleges bomlástermékei, kísérő anyagai, átalakulási termékei, anyagcsere- és reakciótermékei még megtűrhető legnagyobb együttes mennyisége az élelmiszerben;
 
-c)[^1]
+c)[^2]
 
 d) technológiai eredetű szennyező anyag: minden olyan vegyi anyag, amely termelési és technikai eszközökből, berendezésekből, csomagoló- és tárolóedényekből rendeltetésszerű érintkezés során jut az élelmiszerbe, illetve a technológia hatására keletkezik az élelmiszerben, ideértve a termelési és technológiai műveletek során felhasznált tisztító- és fertőtlenítőszerekből, valamint segédanyagokból visszamaradt szennyező anyagokat;
 
@@ -14,7 +14,7 @@ f) biológiai eredetű szennyező anyag: minden olyan egészségre ártalmas veg
 
 g) természetes eredetű szennyező (ártalmas) anyag: az élelmiszer olyan természetes alkotórésze, amely eredeti mennyiségében vagy feldúsulás következtében az egészségre ártalmas lehet, ide nem értve a gyommagvakat, rovarrészeket, szőrt.
 
-h)–i)[^2]
+h)–i)[^3]
 
-[^1]: A 2. § c) pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^2]: A 2. § h)–i) pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^2]: A 2. § c) pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^3]: A 2. § h)–i) pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.

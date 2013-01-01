@@ -1,6 +1,6 @@
 ## Biológiai eredetű szennyező anyagok élelmiszerekben megengedhető mértéke
 
-## 4.1.[^16] Mikotoxin maximális szintje élelmiszerekben
+## 4.1.[^19] Mikotoxin maximális szintje élelmiszerekben
 
 ## 4.1.1.
 
@@ -58,11 +58,11 @@ Természetes eredetű ártalmas anyagok élelmiszerekben megengedhető mértéke
 
 nyers, hámozatlan burgonya 180 mg/kg
 
-2.[^17]
+2.[^20]
 
 | 2. Ciánhidrogén | csonthéjas magvakkal készült édesipari termékek (pl. marcipán) és maggal eltett csonthéjas gyümölcs befőttek gyümölcsborok | 10 mg/kg 1 mg/l |
 
-3.[^18]
+3.[^21]
 
 4. Morfin
 
@@ -84,9 +84,9 @@ mákmag 20 mg/kg
 
 mákmag 20 mg/kg
 
-9–10.[^19]
+9–10.[^22]
 
-Jelmagyarázat:[^20]
+Jelmagyarázat:[^23]
 
 * A térfogatszázalékban megadott határértéket a termék abszolút etanoltartalmára kell számítani.
 
@@ -96,8 +96,8 @@ Jelmagyarázat:[^20]
 
 **** A termelési módot jelző megfelelő jelölés hiányában a szabadföldi salátára megállapított határértéket kell alkalmazni.
 
-[^16]: A 4. számú melléklet 4.1.1. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte és a 4.1.2. pontját pedig a (4) bekezdésének c) pontja megállapította.
-[^17]: Az 5. számú melléklet 2. pontja a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (4) bekezdésének d) pontjával megállapított szöveg.
-[^18]: Az 5. számú melléklet 3. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^19]: Az 5. számú melléklet 9–10. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^20]: Az 5. számú melléklet jelmagyarázata a 9/2003. (III. 13.) ESZCSM rendelet 2. §-ának (4) bekezdése szerint módosított szöveg.
+[^19]: A 4. számú melléklet 4.1.1. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte és a 4.1.2. pontját pedig a (4) bekezdésének c) pontja megállapította.
+[^20]: Az 5. számú melléklet 2. pontja a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (4) bekezdésének d) pontjával megállapított szöveg.
+[^21]: Az 5. számú melléklet 3. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^22]: Az 5. számú melléklet 9–10. pontját a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^23]: Az 5. számú melléklet jelmagyarázata a 9/2003. (III. 13.) ESZCSM rendelet 2. §-ának (4) bekezdése szerint módosított szöveg.
