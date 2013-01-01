@@ -50,7 +50,7 @@ gc) szénhidrogén szállítóvezetékek, valamint ezek tartozékai és alkotór
 
 h) elektronikus hírközlési szolgáltatás céljából, ha az elektronikus hírközlési építmény elhelyezése és üzemeltetése céljából közérdekű használati jog alapításában az ingatlan tulajdonos és az engedélyes között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a használati jogot az illetékes hatóság nem engedélyezte;
 
-i) kulturális örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
+i) örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
 
 ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
 
@@ -84,8 +84,22 @@ la) a tulajdonos az erdejében olyan tevékenységet folytat, amely kisajátít�
 
 lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna;
 
-m)
+m) környezetvédelem céljából, ha
+
+ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása,
+
+mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
+
+mc) hulladékkezelő létesítmény rekultivációja
+
+érdekében szükséges;
 
 n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül.
 
-(2) A 3. § (1) bekezdésének d) pontját e paragrafus (1) bekezdés da), db) és ka) pontjai szerinti beruházások esetében nem kell alkalmazni.
+(2) Nem kell alkalmazni
+
+a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, valamint törvényben vagy kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében,
+
+b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
+
+(3) Ha a közérdekű célnak a kisajátítandó ingatlanon történő megvalósítására építési engedélyt adtak ki, a kisajátítási hatóság a 3. § (1) bekezdés c) pontja szerinti feltételt csak akkor vizsgálja, ha az ügyfél valószínűsíti, hogy a közérdekű cél más ingatlanon is megvalósítható, és hogy a más ingatlanon történő megvalósítás a tulajdon kisebb sérelmével járna.

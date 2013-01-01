@@ -2,7 +2,7 @@
 
 a) a pert a kisajátítást kérő ellen is meg kell indítani;
 
-b) a közigazgatási perben az ingatlan fekvése szerint illetékes törvényszék jár el;
+b) a közigazgatási perben az ingatlan fekvése szerint illetékes közigazgatási és munkaügyi bíróság jár el;
 
 c) a bíróságnak a keresetlevél beérkezését követő 45 napon belül tárgyalást kell tartania;
 

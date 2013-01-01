@@ -1,0 +1,1 @@
+43. § E törvénynek a kisajátításról szóló 2007. évi CXXIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CLXXXIV. törvénnyel megállapított rendelkezéseit a hatálybalépésüket követően indult és megismételt hatósági eljárásokban, valamint a hatálybalépésüket követően indult bírósági eljárásokban kell alkalmazni.

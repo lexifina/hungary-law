@@ -4,7 +4,7 @@
 
 (3) Védett természeti területet érintő kisajátításhoz – a 4. § (1) bekezdésének j) pontjában szabályozott esetek kivételével – a természetvédelmi hatóság előzetes hozzájárulása szükséges.
 
-(4) Védetté nyilvánított régészeti lelőhely, illetve műemlék kisajátításához – a 4. § (1) bekezdésének i) pontjában szabályozott esetek kivételével – a kulturális örökségvédelmi hatóság előzetes hozzájárulása szükséges.
+(4) Védetté nyilvánított régészeti lelőhely, illetve műemlék kisajátításához – a 4. § (1) bekezdésének i) pontjában szabályozott esetek kivételével – a kormányrendeletben meghatározott szerv előzetes hozzájárulása szükséges.
 
 (5) Véderdő telepítése, védőfásítás és közérdekű erdőtelepítés céljára történő kisajátításához be kell szerezni a területileg illetékes erdészeti hatóság hozzájárulását, ha a kisajátítást más szerv kérte. Ez a rendelkezés védőfásításnak közút és vasút mentén, valamint egyéb műszaki létesítmény tartozékát képező, azzal azonos földrészleten lévő, a patak, csatorna medrében lévő, illetve azt szegélyező, a külön törvény szerint erdőnek nem minősülő faállományként történő telepítése céljára kért kisajátítás esetére nem vonatkozik.
 
