@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-11-20-8
 | 2010-02-14 | 2010-11-20-82.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-04-30 | 2010-11-20-82.4 | 50/2010. (IV. 27.) FVM rendelet |
 | 2011-10-25 | 2010-11-20-82.5 | 96/2011. (X. 17.) VM rendelet |
+| 2013-01-01 | 2010-11-20-82.6 | 151/2012. (XII. 29.) VM rendelet |

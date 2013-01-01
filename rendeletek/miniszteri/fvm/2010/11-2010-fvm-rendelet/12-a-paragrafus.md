@@ -1,6 +1,6 @@
-## Körzeti Erdőterv Bizottság[^9]
+## Körzeti Erdőterv Bizottság[^10]
 
-12/A. §[^10] (1) Amennyiben a záró tárgyalás során az erdészeti hatóság, az érintett hatóságok, és az erdőgazdálkodó között véleményeltérés marad fenn, az erdészeti hatóság felterjesztése alapján a vitás kérdésekben a Körzeti Erdőterv Bizottság dönt.
+12/A. §[^11] (1) Amennyiben a záró tárgyalás során az erdészeti hatóság, az érintett hatóságok, és az erdőgazdálkodó között véleményeltérés marad fenn, az erdészeti hatóság felterjesztése alapján a vitás kérdésekben a Körzeti Erdőterv Bizottság dönt.
 
 (2) A Körzeti Erdőterv Bizottság a felterjesztéstől számított 30 napon belül hozza meg döntését.
 
@@ -22,5 +22,5 @@ e) a véleményeltéréssel érintett erdő rendeltetése alapján a 3. § (4) b
 
 (6) A Körzeti Erdőterv Bizottság ügyrendjét maga határozza meg, titkársági feladatait az erdészeti hatóság központi szerve látja el.
 
-[^9]: A 12/A. §-t megelőző alcímet a 96/2011. (X. 17.) VM rendelet 10. § (7) bekezdése iktatta be.
-[^10]: A 12/A. §-t a 96/2011. (X. 17.) VM rendelet 10. § (7) bekezdése iktatta be.
+[^10]: A 12/A. §-t megelőző alcímet a 96/2011. (X. 17.) VM rendelet 10. § (7) bekezdése iktatta be.
+[^11]: A 12/A. §-t a 96/2011. (X. 17.) VM rendelet 10. § (7) bekezdése iktatta be.
