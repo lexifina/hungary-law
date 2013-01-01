@@ -1,0 +1,9 @@
+## 20. A közszolgáltatóra vonatkozó szabályok
+
+41. § (1) A közszolgáltató gondoskodik a hulladékgazdálkodási közszolgáltatás folyamatos ellátásáról.
+
+(2) A közszolgáltató törekszik arra, hogy a feladatkörébe tartozó hulladékgazdálkodási tevékenységeket a hulladékhierarchiára figyelemmel úgy válassza meg, hogy az e törvényben, illetve a hulladékgazdálkodási tervekben foglalt megelőzési, hasznosítási és ártalmatlanítási célkitűzések teljesülni tudjanak.
+
+(3) A közszolgáltató a hulladékgazdálkodási közszolgáltatási szerződésben meghatározott, továbbá a (2) bekezdés szerinti célok elérése érdekében a hulladékgazdálkodási közszolgáltatás ellátására – a Kbt. előírásainak megfelelően – alvállalkozót vehet igénybe.
+
+(4) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult közszolgáltató külön kormányrendeletben meghatározott összegben céltartalékot képez, és ennek tényét a környezetvédelmi hatóságnak, valamint az OHÜ-nek igazolja.

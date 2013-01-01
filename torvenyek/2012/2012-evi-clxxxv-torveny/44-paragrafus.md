@@ -1,0 +1,1 @@
+44. § A közszolgáltató a hulladékgazdálkodási közszolgáltatási tevékenységéről – ideértve bevételeit és kiadásait – évente beszámolót készít, és azt a települési önkormányzatnak, valamint az OHÜ-nek benyújtja.
