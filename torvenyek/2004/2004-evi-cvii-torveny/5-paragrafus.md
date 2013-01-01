@@ -1,5 +1,0 @@
-5. § (1) A többcélú kistérségi társulás döntést hozó szerve a társulási tanács. A társulási tanács gyakorolja a többcélú kistérségi társulási megállapodásban meghatározott feladat- és hatásköröket.
-
-(2) A társulási tanácsot a társulás tagjainak polgármesterei alkotják. A polgármester helyettesítésének rendjéről a képviselő-testület rendelkezik. A társulási tanács alakuló ülését a többcélú kistérségi társulás székhely települése önkormányzatának polgármestere hívja össze. A társulási tanács alakuló ülésén mondja ki a többcélú kistérségi társulás megalakulását.
-
-(3) A társulási tanács alakuló ülésén titkos szavazással tagjai sorából elnököt választ, az elnök helyettesítésére, munkájának segítésére elnökhelyettes(eke)t választhat, meghatározza a helyettesítés rendjét. Az elnök személyére a társulási tanács bármely tagja javaslatot tehet. A jelöltté váláshoz – amennyiben a társulási tanács tagjainak száma a huszonötöt meghaladja – a jelen lévő tagok legalább egynegyedének szavazata szükséges. Az elnökhelyettes(ek) személyére az elnök tesz javaslatot.
