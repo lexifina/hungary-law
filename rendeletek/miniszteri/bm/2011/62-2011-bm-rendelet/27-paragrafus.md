@@ -1,5 +1,3 @@
-## 26. § A polgári védelmi szervezetek alkalmazásának idejére a polgári védelmi parancsnoksághoz a polgári védelmi kötelezettség alatt álló és megfelelő szakmai felkészültséggel rendelkező személyeket lehet beosztani.
-
 ## IV. Fejezet
 
 ## A POLGÁRI VÉDELMI SZERVEZETEK ANYAGI-TECHNIKAI ELLÁTÁSÁNAK SZABÁLYAI
