@@ -6,7 +6,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Az Erkel Színház előadás tartására alkalmas állapotra történő felújítása | Budapest 34704 hrsz. | építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2. | Az Erkel Színház előadás tartására alkalmas állapotra történő felújítása | Budapest 34704 hrsz. | építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -22,9 +22,9 @@
 
 | 9. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti engedélyek | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 10. | védelem alatt álló építményrészek építésügyi hatósági engedélye | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Iroda | Kulturális Örökségvédelmi Hivatal |
+| 10. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-2. melléklet a 27/2012. (III. 6.) Korm. rendelethez
+2. melléklet a 27/2012. (III. 6.) Korm. rendelethez[^2]
 
 A beruházással összefüggő kiemelt jelentőségű üggyé minősített hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -32,14 +32,16 @@ A beruházással összefüggő kiemelt jelentőségű üggyé minősített ható
 
 | 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
+| 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 4. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Iroda | Kulturális Örökségvédelmi Hivatal |
+| 5. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 6. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
 | 7. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+
+[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 55. §-a szerint módosított szöveg.
