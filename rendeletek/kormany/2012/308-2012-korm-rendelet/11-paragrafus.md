@@ -1,0 +1,1 @@
+## „(2) Az (1) bekezdésben nem szabályozottak tekintetében e cím alkalmazásában az Eütv.-ben, az orvostechnikai eszközökről szóló miniszteri rendeletben és az orvostechnikai eszközök klinikai vizsgálatáról szóló miniszteri rendeletben foglalt fogalom meghatározásokat és előírásokat kell figyelembe venni.”

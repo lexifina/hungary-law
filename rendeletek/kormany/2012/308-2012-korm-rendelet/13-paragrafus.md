@@ -1,9 +1,13 @@
-## 1–12. §[^1]
+## lép.
 
 13. § (1)[^2]
 
-(2)[^3]
+(2) Hatályát veszti az R1.
 
-[^1]: Az 1–12. § a 20. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+a) 15. §-ában a „b) pontja” szövegrész,
+
+b) 37. § (1) bekezdésében az „az ellenőrzés során” szövegrész, és
+
+c) Melléklet 18. pontja.
+
 [^2]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 13. § (2) bekezdése a 20. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
