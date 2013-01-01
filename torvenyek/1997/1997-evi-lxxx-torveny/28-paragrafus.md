@@ -8,4 +8,4 @@ c) fogvatartott,
 
 d) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát szünetelteti.
 
-(2) Amennyiben az (1) bekezdésben meghatározott körülmények nem állnak fenn a naptári hónap teljes tartamán át, a járulékfizetési alsó határ kiszámításánál egy naptári napra a 27. § (1) bekezdésben meghatározott járulékalap harmincad részét kell alapul venni. A járulékfizetési felső határt csökkenteni kell az (1) bekezdésben meghatározott időtartamok naptári napjai és a járulékfizetési felső határ naptári napi összegének szorzatával. Ezt a szabályt kell alkalmazni akkor is, ha a társas vállalkozó biztosítási jogviszonya a hónap közben kezdődött vagy szűnt meg.
+(2) Amennyiben az (1) bekezdésben meghatározott körülmények nem állnak fenn a naptári hónap teljes tartamán át, a járulékfizetési alsó határ kiszámításánál egy naptári napra a 27. § (1) bekezdésben meghatározott járulékalap harmincad részét kell alapul venni. Ezt a szabályt kell alkalmazni akkor is, ha a társas vállalkozó biztosítási jogviszonya a hónap közben kezdődött vagy szűnt meg.

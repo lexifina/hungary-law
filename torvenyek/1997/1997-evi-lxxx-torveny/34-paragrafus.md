@@ -1,24 +1,24 @@
 ## Megállapodás társadalombiztosítási ellátásra
 
-Tbj. 34. § (1) Az a belföldi nagykorú személy, aki nem magán-nyugdíjpénztári tag és nem saját jogú nyugdíjas, és
+Tbj. 34. § (1) Az a belföldi nagykorú természetes személy, aki nem saját jogú nyugdíjas, és
 
-a) aki az 5. és a 13. §-ban említett biztosítási kötelezettséggel járó jogviszonyban nem áll, illetőleg akire a 11. § szerint a biztosítás nem terjed ki,
+a) az 5. § és a 13. § szerinti biztosítási kötelezettséggel járó jogviszonyban nem áll, vagy a 11. § szerint a biztosítás nem terjed ki rá, vagy
 
-b) akinek biztosítása szünetel,
+b) a biztosítása szünetel,
 
-nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 34 százalék nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet. A megállapodás megszűnik a tagdíjfizetésre kötött megállapodás megszűnésével.
+nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 34 százalék nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet.
 
 (2) Az (1) bekezdés szerinti megállapodás szolgálati időre és nyugdíj alapjául szolgáló átlagkereset megszerzésére külön-külön nem köthető meg.
 
 (3)
 
-(4) Az (1) bekezdés alapján kötött megállapodás esetén a járulékfizetés alapja a megállapodást kötő személy által megjelölt jövedelem, legfeljebb azonban a megállapodás megkötésekor érvényes járulékfizetési felső határ napi összegének figyelembevételével a naptári hónapokra számított összeg, de legalább a megállapodás megkötése napján érvényes minimálbér összege. Amennyiben a megállapodást a minimálbér, vagy a járulékfizetési felső határ összegének figyelembevételével kötik meg, annak változása esetén a megállapodás alapján fizetendő nyugdíjjárulékot, a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni. Így kell eljárni akkor is, ha a megállapodást kötő személy az általa megjelölt jövedelmét módosítja. Ha a megállapodást kötő személy, kedvezményezett javára kötött megállapodás esetén a kedvezményezett a megállapodás időtartama alatt biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel.
+(4) Az (1) bekezdés alapján kötött megállapodás esetén a járulékfizetés alapja a megállapodást kötő személy által megjelölt jövedelem, de legalább a megállapodás megkötése napján érvényes minimálbér összege. Amennyiben a megállapodást a minimálbér összegének figyelembevételével kötik meg, annak változása esetén a megállapodás alapján fizetendő nyugdíjjárulékot, a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni. Így kell eljárni akkor is, ha a megállapodást kötő személy az általa megjelölt jövedelmét módosítja. Ha a megállapodást kötő személy, kedvezményezett javára kötött megállapodás esetén a kedvezményezett a megállapodás időtartama alatt biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel.
 
-(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított 34 százalék nyugdíjjárulék fizetésével az a nem magán-nyugdíjpénztári tag nagykorú személy, aki
+(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított 34 százalék nyugdíjjárulék fizetésével az a nagykorú személy, aki
 
-a) felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányoknak a Tny. 41. §-a szerint figyelembe vehető idejét (ideértve a doktorandusz-képzést is),
+a) felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányoknak (ideértve a doktorandusz-képzést is) a Tny. 41. §-a szerint figyelembe vehető idejét,
 
-b) a társadalombiztosítási öregségi teljes nyugdíjhoz a Tny.-ben meghatározott húsz év szolgálati idő, vagy – az igénylőre irányadó öregségi nyugdíjkorhatár 1997. december 31-e utáni betöltése esetén – az öregségi résznyugdíjhoz előírt tizenöt év szolgálati idő elérése érdekében kizárólag az említett öregségi résznyugdíjra, illetőleg öregségi teljes nyugdíjra jogosultsághoz szükséges hiányzó szolgálati idejét, legfeljebb azonban öt naptári évet
+b) a társadalombiztosítási öregségi teljes nyugdíjhoz a Tny.-ben meghatározott húsz év szolgálati idő, vagy – az igénylőre irányadó öregségi nyugdíjkorhatár 1997. december 31-e utáni betöltése esetén – az öregségi résznyugdíjhoz előírt tizenöt év szolgálati idő elérése érdekében kizárólag az öregségi résznyugdíjra vagy öregségi teljes nyugdíjra jogosultsághoz szükséges hiányzó szolgálati idejét, legfeljebb azonban öt naptári évet
 
 kívánja szolgálati időként elismertetni.
 
@@ -45,3 +45,7 @@ b) 18 évesnél fiatalabb gyermek esetén a (4) bekezdés szerinti minimálbér 
 (12) A Magyarország területén oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató külföldi állampolgár egészségügyi szolgáltatására a (4) bekezdésben meghatározott minimálbér 30 százalékának megfelelő havi összegű egészségbiztosítási járulék megfizetésének vállalása esetén köthet megállapodást.
 
 (13) A nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem, illetőleg a szolgálati idő, valamint az egészségügyi szolgáltatás szerzése érdekében kötött megállapodást a kedvezményezett személy javára a járulékfizetés átvállalásával más személy vagy szerv is megkötheti. Az előzőekben említett megállapodások alapján fizetendő járulékokat Magyarország hivatalos pénznemében és a megállapodás megkötése utáni mértékváltozások figyelembevételével kell megállapítani és megfizetni.
+
+(14) A köztársasági elnök saját jogú nyugdíjasnak nem minősülő házastársa biztosítottnak minősül arra az időre is, amelyre a fennálló biztosítással járó jogviszonyában a biztosítása szünetel, vagy nem rendelkezik az 5. § szerinti biztosítással járó jogviszonnyal.
+
+(15) A járulékfizetés alapja a (14) bekezdés szerinti esetben a biztosítás szünetelésének kezdetét vagy a biztosítási jogviszony megszűnését megelőző hónapban elért járulékalapot képező jövedelem, ilyen jövedelem hiányában a minimálbér kétszerese. A járulékokat a Köztársasági Elnöki Hivatal fizeti meg és vallja be, továbbá teljesíti a biztosítotti bejelentést.

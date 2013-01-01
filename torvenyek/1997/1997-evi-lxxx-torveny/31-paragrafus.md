@@ -2,7 +2,7 @@
 
 Tbj. 31. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidejű fennállása esetén a járulékalap után mindegyik jogviszonyban meg kell fizetni a nyugdíjjárulékot és az egészségbiztosítási- és munkaerő-piaci járulékot.
 
-(2) A nyugdíjjárulékot a biztosítási kötelezettséggel járó jogviszonyokban és a 26. § (1) bekezdésében említett ellátások után együttesen legfeljebb a járulékfizetési felső határig kell megfizetni. A nyugdíjjárulékot a naptári év folyamán addig kell levonni, amíg a biztosított nem nyilatkozik arról, hogy a nyugdíjjárulékot a járulékfizetési felső határig megfizette. Nyugdíjjárulék-túlfizetés esetén a foglalkoztató a túlfizetés igazolását követő 15 napon belül köteles a járulékot visszafizetni a biztosítottnak.
+(2)
 
 (3)
 

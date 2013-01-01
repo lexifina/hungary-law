@@ -4,4 +4,4 @@ Tbj. 36. § (1) A kiegészítő tevékenységet folytató társas vállalkozó
 
 (2) A kiegészítő tevékenységet folytató társas vállalkozó tevékenységének megszűnése után kifizetett, a személyes közreműködése alapján járó járulékalapot képező jövedelem után is meg kell fizetni a járulékot.
 
-(3) A kiegészítő tevékenységet folytató társas vállalkozó a nyugdíjjárulékot legfeljebb a járulékfizetési felső határig fizeti meg.
+(3)

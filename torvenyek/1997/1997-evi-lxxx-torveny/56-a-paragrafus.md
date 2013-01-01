@@ -24,7 +24,7 @@ b) a foglalkoztatott természetes személyazonosító adatait, nemét, állampol
 
 c) a foglalkoztatott taj-számát, adóazonosító jelét,
 
-d) a járulékfizetési felső határig terjedő és az afölötti járulékalapra, a járulékok összegére, a biztosítási (foglalkoztatási) idő „tól-ig” tartamára vonatkozó adatot,
+d) a járulékalapra, a járulékok összegére, a biztosítási (foglalkoztatási) idő „tól-ig” tartamára vonatkozó adatot,
 
 e) annak az időszaknak a megjelölését, amely alatt a biztosított természetes személy járulékalapot képező jövedelemmel nem rendelkezett, és
 

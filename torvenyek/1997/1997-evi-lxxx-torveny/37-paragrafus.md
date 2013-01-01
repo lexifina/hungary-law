@@ -4,4 +4,4 @@ Tbj. 37. § (1) A kiegészítő tevékenységet folytató egyéni vállalkozó
 
 (3) A kiegészítő tevékenységet folytató egyéni vállalkozó a 10. § (1) bekezdésében meghatározott időtartam alatt köteles járulék fizetésére.
 
-(4) A kiegészítő tevékenységet folytató egyéni vállalkozó a nyugdíjjárulékot legfeljebb a járulékfizetési felső határig fizeti meg.
+(4)

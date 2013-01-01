@@ -4,7 +4,7 @@ Tbj. 29. § (1)
 
 (2)
 
-(3) A biztosított egyéni vállalkozó a 19. § (2) bekezdése szerinti nyugdíjjárulékot, valamint a 19. § (3) bekezdése szerinti egészségbiztosítási- és munkaerő-piaci járulékot vállalkozói jövedelem szerinti adózás esetén a vállalkozói kivét, átalányadózás esetén az átalányban megállapított jövedelem után fizeti meg. A nyugdíjjárulék alapja havonta legalább a minimálbér, az egészségbiztosítási- és munkaerő-piaci járulék alapja havonta legalább a minimálbér másfélszerese. Az egyéni vállalkozó nyugdíjjárulékot legfeljebb a járulékfizetési felső határig fizet.
+(3) A biztosított egyéni vállalkozó a 19. § (2) bekezdése szerinti nyugdíjjárulékot, valamint a 19. § (3) bekezdése szerinti egészségbiztosítási- és munkaerő-piaci járulékot vállalkozói jövedelem szerinti adózás esetén a vállalkozói kivét, átalányadózás esetén az átalányban megállapított jövedelem után fizeti meg. A nyugdíjjárulék alapja havonta legalább a minimálbér, az egészségbiztosítási- és munkaerő-piaci járulék alapja havonta legalább a minimálbér másfélszerese.
 
 (4) Az egyéni vállalkozó a járulékfizetési alsó határ után nem köteles nyugdíjjárulékot és egészségbiztosítási- és munkaerő-piaci járulékot fizetni arra az időtartamra, amely alatt
 
@@ -16,9 +16,9 @@ c) fogvatartott,
 
 d) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát, egyéni vállalkozói tevékenységét szünetelteti,
 
-e) a 31. § (4) bekezdésében említett egyéni vállalkozó keresőképtelen.
+e)
 
-(5) Amennyiben a (4) bekezdésben meghatározott körülmények a naptári hónap teljes tartamán át nem állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni. A járulékfizetési felső határt csökkenteni kell a (4) bekezdésben meghatározott időtartamok naptári napjai és a járulékfizetési felső határ naptári napi összegének szorzatával. Ezt a szabályt kell alkalmazni akkor is, ha az egyéni vállalkozó biztosítási jogviszonya hónap közben kezdődött vagy szűnt meg.
+(5) Amennyiben a (4) bekezdésben meghatározott körülmények a naptári hónap teljes tartamán át nem állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni. Ezt a szabályt kell alkalmazni akkor is, ha az egyéni vállalkozó biztosítási jogviszonya hónap közben kezdődött vagy szűnt meg.
 
 (6)
 

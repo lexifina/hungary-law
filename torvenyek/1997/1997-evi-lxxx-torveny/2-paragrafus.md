@@ -1,6 +1,6 @@
 ## Alapelvek
 
-Tbj. 2. § (1) A társadalombiztosítás Magyarország állampolgárait és e törvény külön rendelkezése alapján más természetes személyeket az e törvényben meghatározott szabályok szerint magába foglaló, társadalmi szintű kockázatközösség.
+Tbj. 2. § (1) A társadalombiztosítás Magyarország állampolgárait és e törvény külön rendelkezése alapján Magyarországon munkát végző más természetes személyeket az e törvényben meghatározott szabályok szerint magába foglaló, társadalmi szintű kockázatközösség.
 
 (2) A társadalombiztosításban való részvétel a törvényben meghatározott szabályok szerint kötelező.
 

@@ -130,7 +130,7 @@ o) Magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó:
 
 p) Tanulószerződés:
 
-a szakképzésről szóló 1993. évi LXXVI. törvény szerinti tanulószerződés.
+a a szakképzésről szóló törvény szerinti tanulószerződés.
 
 q)
 
