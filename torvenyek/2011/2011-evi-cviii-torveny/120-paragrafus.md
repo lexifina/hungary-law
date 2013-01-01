@@ -22,4 +22,6 @@ i) fogvatartottak kötelező foglalkoztatása keretében előállított áruk va
 
 j) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, vagy teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 
-k) a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. tv. szerinti hitel és pénzkölcsön igénybevételére.
+k) a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. tv. szerinti hitel és pénzkölcsön igénybevételére;
+
+l) a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet beszerzései vonatkozásában.

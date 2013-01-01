@@ -10,7 +10,7 @@ c) az a jogképes szervezet, amelyet közérdekű, de nem ipari vagy kereskedelm
 
 d) a 9. § (1) bekezdés k) pontja szerinti gazdálkodó szervezet;
 
-e) az a)–d) pontok hatálya alá nem tartozó gazdálkodó szervezet [Ptk. 685. § c) pontja], amely a 114. § (2) bekezdésében meghatározott közszolgáltatói tevékenységek valamelyikét folytatja, és amely felett az a)–d) pontokban meghatározott egy vagy több szervezet közvetlenül vagy közvetve meghatározó befolyást képes gyakorolni, a 114. § (2) bekezdése szerinti közszolgáltatói tevékenységének biztosítása céljából lefolytatott beszerzése során;
+e) az a)–d) pontok hatálya alá nem tartozó gazdálkodó szervezet [Ptk. 685. § c) pontja], amely a 114. § (2) bekezdésében meghatározott közszolgáltatói tevékenységek valamelyikét folytatja, vagy ilyen tevékenység folytatása céljából hozták létre, és amely felett az a)–d) pontokban meghatározott egy vagy több szervezet közvetlenül vagy közvetve meghatározó befolyást képes gyakorolni, a 114. § (2) bekezdése szerinti közszolgáltatói tevékenységének biztosítása céljából lefolytatott beszerzése során;
 
 f) az a)–e) pontok hatálya alá nem tartozó szervezet, amely a 114. § (2) bekezdésében meghatározott egy vagy több közszolgáltatói tevékenységét különleges vagy kizárólagos jog alapján folytatja, a 114. § (2) bekezdése szerinti közszolgáltatói tevékenységének biztosítása céljából lefolytatott beszerzése során;
 

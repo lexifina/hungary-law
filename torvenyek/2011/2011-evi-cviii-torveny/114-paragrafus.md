@@ -27,3 +27,5 @@ d) postai szolgáltatás nyújtása, vagy postai szolgáltatástól eltérő szo
 a) vízépítési projekttel, öntözéssel vagy vízrendezéssel (vízelvezetéssel) függ össze, feltéve, hogy az ivóvízellátásra szánt víz mennyisége az ilyen projekt vagy az öntözési, illetve vízrendezési létesítmények által biztosított víz teljes mennyiségének több mint húsz százaléka, vagy
 
 b) szennyvízelvezetéssel vagy -kezeléssel függ össze.
+
+(5) Közszolgáltatói szerződésnek minősül a 6. § (1) bekezdés a)–e) pontja szerinti ajánlatkérő szerződése akkor is, ha az ajánlatkérő a (2) bekezdés szerinti közszolgáltatói tevékenységét ténylegesen még nem kezdte meg, de az adott szerződés a közszolgáltatói tevékenység előkészítésének, megkezdésének vagy folytatásának biztosítása céljából szükséges.

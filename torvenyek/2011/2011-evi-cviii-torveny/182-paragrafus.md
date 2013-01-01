@@ -32,7 +32,7 @@
 
 15. a dinamikus beszerzési rendszerre vonatkozó szabályokat;
 
-16. a védett foglalkoztatók, védett szervezeti szerződést kötött szervezetek, valamint szociális foglalkoztatási engedéllyel rendelkező szervezetek részére fenntartott közbeszerzések részletes szabályait, valamint a szociális szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját;
+16. a védett munkahelyek, valamint a szociális foglalkoztatási engedéllyel rendelkező szervezetek részére fenntartott közbeszerzések részletes szabályait, valamint a szociális szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját;
 
 17. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 

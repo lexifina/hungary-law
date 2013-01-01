@@ -72,4 +72,4 @@ f) postai küldeményekkel kapcsolatos logisztikai szolgáltatások (a fizikai k
 
 22. tervpályázat: olyan, külön jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként az építészet és építés területén – egy olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
 
-23. védett foglalkoztató, védett szervezeti szerződést kötött szervezet: a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásról szóló, valamint a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjának, továbbá az akkreditált munkáltatók ellenőrzésének szabályairól szóló kormányrendeletben így meghatározott fogalom.
+23. védett munkahely: az akkreditált munkáltató általi foglalkoztatás, ha a munkáltató biztosít tranzit vagy tartós foglalkoztatást, és munkavállalóinak legalább 50%-a a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22. §-a szerinti megváltozott munkaképességű személynek minősül.
