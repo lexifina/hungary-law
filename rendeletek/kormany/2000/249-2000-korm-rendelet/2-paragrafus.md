@@ -1,11 +1,11 @@
-## I. Fejezet[^10]
+## I. Fejezet[^11]
 
-## Általános rendelkezések[^11]
+## Általános rendelkezések[^12]
 
-## 2. §[^12] Az államháztartás szervezeteinek beszámoló készítésére, könyvvezetésére a Tv. következő rendelkezéseit kell alkalmazni:
+## 2. §[^13] Az államháztartás szervezeteinek beszámoló készítésére, könyvvezetésére a Tv. következő rendelkezéseit kell alkalmazni:
 
 1–2. §; 3. § (1), (4) 1–4. pontok, 7–9. pontok, (6) 1–4., 6–7. pontok, (8) 12–13., 20. pontok, (11)–(13); 5. §; 7. §; 12. § (1); 14. § (8), (11); 15. § (3)–(4), (6); 16. § (3); 23. § (2)–(5); 24. § (1); 25. § (2), (4)–(7), (9)–(10); 26. § (2)–(3), (6)–(9); 27. § (8); 28. § (2)–(3); 29. § (2); 30. § (1); 42. § (2)–(3); 46. § (1)–(3); 47. § (1)–(8); 48. § (1)–(6), (8); 49. § (4)–(7); 50. § (1)–(2), (4)–(5); 51. §; 53. § (1) b)–d) pont, (3); 54. § (1)–(6), (8)–(9); 56. §; 58. § (6), (9); 60. § (1), (4)–(5), (5a), (10); 61. §; 62. §; 64. § (1)–(3); 65. § (1), (4); 66. § (1)–(2); 68. § (2), (4); 69. § (1)–(2), (5)–(6); 88. § (8)–(9); 93. § (4); 94. § (1)–(2); 150. §; 151. § (3)–(14); 151/A–152/B. §; 155/A–155/B. §; 157. § (1), (3); 159. §; 160. § (1); 161. § (2)–(3), (5); 161/A. § (2); 164. § (1); 165. § (1)–(2), (4); 166. § (1)–(4), (6); 167–169. §; 170. § (1)–(2); 171–173. §; 177. § (2), (18)–(19); 178. § (1) a), (2).
 
-[^10]: Az I. fejezet megjelölést a 317/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^11]: Az I. fejezet címét a 317/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^12]: A 2. § a 359/2006. (XII. 27.) Korm. rendelet 2. §-ával megállapított, a 400/2007. (XII. 27.) Korm. rendelet 18. § (3) bekezdése, a 328/2008. (XII. 30.) Korm. rendelet 13. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 43. § (3) bekezdése, a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 1–3. pontja, a 369/2011. (XII. 31.) Korm. rendelet 21. § 2–7. pontja szerint módosított szöveg.
+[^11]: Az I. fejezet megjelölést a 317/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az I. fejezet címét a 317/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 2. § a 359/2006. (XII. 27.) Korm. rendelet 2. §-ával megállapított, a 400/2007. (XII. 27.) Korm. rendelet 18. § (3) bekezdése, a 328/2008. (XII. 30.) Korm. rendelet 13. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 43. § (3) bekezdése, a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 1–3. pontja, a 369/2011. (XII. 31.) Korm. rendelet 21. § 2–7. pontja szerint módosított szöveg.

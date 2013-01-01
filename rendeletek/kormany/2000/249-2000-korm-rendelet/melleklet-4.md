@@ -84,6 +84,6 @@
 
 | 12. Tájékoztató adat: Év végén a forgatási célú értékpapír állománya | 39 |  |  |
 
-4. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^471]
+4. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^474]
 
-[^471]: A 4. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^474]: A 4. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
