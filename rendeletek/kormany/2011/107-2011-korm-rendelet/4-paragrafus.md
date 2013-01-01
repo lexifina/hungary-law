@@ -54,7 +54,7 @@ d) azzal a pályázóval köt szerződést a sportcélú ingatlanfejlesztés meg
 
 e) kellő gondot fordít az átláthatóság – ideértve a pályázati eljárás minden elemének dokumentálását, különösen az árajánlatok bekérését és azok értékelését – és az ajánlattevőkkel való egyenlő elbánás elvére.
 
-(9) A jóváhagyást végző szervezet a Tao. tv. 22/C. § (9) bekezdése szerinti értékhatárt elérő vagy meghaladó, sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot – a (8) és (10) bekezdésekben meghatározottakra tekintettel – abban az esetben hagyja jóvá, ha a sportfejlesztési program az érintett településen (kistérségben, vagy a beruházás, felújítás eredményeként annak társadalmi- gazdasági hatásait illetően nagyobb területi szintű szerveződésben) a látvány-csapatsportok szakmai felkészülési és versenyzési igényeit kiszolgáló
+(9)[^21] A jóváhagyást végző szervezet a Tao. tv. 22/C. § (9) bekezdése szerinti értékhatárt elérő vagy meghaladó, sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot – a (8) és (10) bekezdésekben meghatározottakra tekintettel – abban az esetben hagyja jóvá, ha a sportfejlesztési program az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi- gazdasági hatásait illetően nagyobb területi szintű szerveződésben) a látvány-csapatsportok szakmai felkészülési és versenyzési igényeit kiszolgáló
 
 a) új sportcélú ingatlan-fejlesztésre – ideértve a meglévő sportcélú ingatlanok által nem biztosított sportszolgáltatások vagy a nézők kiszolgálását ellátó új sportcélú ingatlan-fejlesztést is, ha a hiányzó szolgáltatások a b) pont szerinti sportcélú ingatlan-fejlesztési célok keretében nem biztosíthatók –,
 
@@ -68,7 +68,7 @@ bc) építészeti, műszaki akadálymentesítésére
 
 ## irányul.
 
-(10) A jóváhagyást végző szervezet a (8)–(9) bekezdés szerinti jóváhagyás során nem támogathat olyan sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot, amelynek megvalósulása az érintett településen (kistérségben, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) már meglévő, méretében és funkciójában azonos, sportcélú ingatlanok piaci versenyhelyzetét hátrányosan befolyásolná. Nem kell alkalmazni ezt a rendelkezést, ha a támogatás igénybevételére jogosult szervezet igazolja, hogy az érintett településen (kistérségben, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) meglévő sportcélú ingatlan kapacitások a fejlesztési program sikeres megvalósításához minőségben vagy mennyiségben nem elegendők.
+(10)[^22] A jóváhagyást végző szervezet a (8)–(9) bekezdés szerinti jóváhagyás során nem támogathat olyan sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot, amelynek megvalósulása az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) már meglévő, méretében és funkciójában azonos, sportcélú ingatlanok piaci versenyhelyzetét hátrányosan befolyásolná. Nem kell alkalmazni ezt a rendelkezést, ha a támogatás igénybevételére jogosult szervezet igazolja, hogy az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) meglévő sportcélú ingatlan kapacitások a fejlesztési program sikeres megvalósításához minőségben vagy mennyiségben nem elegendők.
 
 (11) A támogatás igénybevételére jogosult szervezet honlapján köteles közzétenni a jóváhagyást végző szervezet által jóváhagyott sportfejlesztési programját, valamint annak költségtervét, illetve a támogatás (7) bekezdésben meghatározott összegét.
 
@@ -81,3 +81,5 @@ bc) építészeti, műszaki akadálymentesítésére
 [^18]: A 4. § (4) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^19]: A 4. § (8) bekezdés nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^20]: A 4. § (8) bekezdés a) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^21]: A 4. § (9) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^22]: A 4. § (10) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
