@@ -1,3 +1,3 @@
-1. melléklet a 37/2003. (X. 29.) IM rendelethez[^56]
+1. melléklet a 37/2003. (X. 29.) IM rendelethez[^57]
 
-[^56]: Az 1. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
+[^57]: Az 1. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
