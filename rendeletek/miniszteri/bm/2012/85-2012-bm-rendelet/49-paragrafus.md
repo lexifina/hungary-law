@@ -1,0 +1,1 @@
+## 48. § A támogatás esedékességére meghatározott feltétel bekövetkezésének igazolását, valamint a támogatás esedékességére meghatározott határnapot követő 3 napon belül a támogatás utalására, vagy folyósítására az Országgyűlés Hivatalának Gazdasági Igazgatósága intézkedik.

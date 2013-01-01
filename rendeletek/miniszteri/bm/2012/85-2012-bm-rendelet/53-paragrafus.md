@@ -1,0 +1,1 @@
+## 52. § A hivatásos állomány tagja családi életkörülményeinek jelentős megváltozása esetén – indokolt esetben – az Országgyűlési Őrség parancsnoka a visszafizetés meghatározott időre, de legfeljebb hat hónapra történő felfüggesztését engedélyezheti.

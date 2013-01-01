@@ -1,0 +1,1 @@
+## 10. § A hivatásos állomány más fegyveres szervtől áthelyezett tagja jogosult az áthelyezést megelőzően a korábbi fegyveres szervet irányító miniszter által adományozott cím viselésére – a cím előtt álló, a korábbi fegyveres szervre utaló megjelölés kivételével –, valamint az azzal együtt járó címpótlékra.

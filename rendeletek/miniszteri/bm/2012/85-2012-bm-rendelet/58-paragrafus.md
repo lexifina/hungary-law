@@ -1,0 +1,5 @@
+## 10. Szociális és kegyeleti gondoskodás
+
+58. § (1) Az Országgyűlési Őrség éves költségvetésében a szociális és kegyeleti gondoskodás pénzügyi fedezetére külön keretet (a továbbiakban: szociális keret) kell képezni, amelyet elkülönítetten kell kezelni.
+
+(2) Az Országgyűlési Őrség parancsnoka az elfogadott szociális keretről tájékoztatja a szociális és a nyugdíjas bizottságot.

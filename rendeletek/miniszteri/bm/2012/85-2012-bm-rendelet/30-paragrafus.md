@@ -1,0 +1,3 @@
+30. § (1) A lakásigény mértéke, a lakáshelyzet, a vagyoni feltételek és a család jövedelmi helyzete – mint együttes feltételek – szempontjából a hivatásos állomány tagját, valamint azon családtagot lehet figyelembe venni, akit a hivatásos állomány tagja a kérelmében megjelöl. A hivatásos állomány tagjánál és az általa megjelölt családtagnál valamennyi felsorolt feltételt vizsgálni kell.
+
+(2) Együttlakó családtagnak minősül az, aki a támogatás iránti kérelem benyújtását megelőző egy évben azonos lakhelyen vagy lakcímen, életvitelszerűen a hivatásos állomány tagjával együtt lakik, ideértve a hivatásos állomány tagjának egy évnél fiatalabb gyermekét is.
