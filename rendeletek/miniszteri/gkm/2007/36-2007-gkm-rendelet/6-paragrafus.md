@@ -1,6 +1,6 @@
 ## A díj mértéke
 
-6. § (1)[^26] A díj mértéke a gépjármű kategóriájától függ. A díjkategóriák a következők:
+6. § (1)[^32] A díj mértéke a gépjármű kategóriájától függ. A díjkategóriák a következők:
 
 a) D1 díjkategória: motorkerékpár, valamint a legfeljebb 3,5 tonna megengedett legnagyobb össztömegű gépjármű bármilyen vontatmánnyal is,
 
@@ -8,32 +8,38 @@ b) D2 díjkategória: a 3,5 tonnát meghaladó, legfeljebb 7,5 tonna megengedett
 
 c) D3 díjkategória: a 7,5 tonnát meghaladó, legfeljebb 12,0 tonna megengedett legnagyobb össztömegű gépjármű, valamint járműszerelvény (gépjármű és vontatmány),
 
-d) D4 díjkategória: a 12,0 tonnát meghaladó megengedett legnagyobb össztömegű gépjármű, valamint járműszerelvény (gépjármű és vontatmány).
+d) D4 díjkategória: a 12,0 tonnát meghaladó megengedett legnagyobb össztömegű gépjármű, valamint járműszerelvény (gépjármű és vontatmány),
 
-(2)[^27] Nem kell díjat fizetni a mezőgazdasági erőgép és vontatmánya után a díjfizetés ellenében használható utakról szóló jogszabály szerint díjfizetés ellenében használható főutak használatáért.
+e)[^33] B2 díjkategória: a 3,5 tonnát meghaladó megengedett legnagyobb össztömegű autóbuszok és lakóautók bármilyen vontatmánnyal is.
 
-(3)[^28] A 7,5 tonnát meghaladó össztömegű autóbuszt, ide értve a bármilyen vontatmánnyal ellátottat is, az autóbusz össztömegének megfelelő díjkategóriánál eggyel alacsonyabb díjkategóriába kell besorolni.
+(2)[^34] Nem kell díjat fizetni a mezőgazdasági erőgép és vontatmánya után a díjfizetés ellenében használható utakról szóló jogszabály szerint díjfizetés ellenében használható főutak használatáért.
+
+(3)[^35] A 3,5 tonnát meghaladó és legfeljebb 7,5 tonnát elérő össztömegű autóbuszt, ideértve a bármilyen vontatmánnyal ellátott autóbuszt is, valamint a lakóautót az 1 napos, a heti és a havi jogosultság árának megállapítása szempontjából a D2 díjkategóriába kell besorolni. A 7,5 tonnát meghaladó össztömegű autóbuszt, ideértve a bármilyen vontatmánnyal ellátott autóbuszt is, valamint a lakóautót az 1 napos, a heti és a havi jogosultság megállapítása szempontjából az autóbusz össztömegének megfelelő díjkategóriánál eggyel alacsonyabb díjkategóriába kell besorolni.
+
+(3a)[^36] A (3) bekezdés szerint díjkategóriába sorolt autóbusz, ideértve a bármilyen vontatmánnyal ellátottat is, valamint a lakóautó esetében a díjkategóriába sorolás a pótdíj megállapítása során is irányadó.
 
 (4) A gépjármű és a vontatmány megengedett legnagyobb össztömegének értékét a forgalmi engedélyben szereplő hatósági bejegyzés alapján kell meghatározni.
 
-(5)[^29] A jogosultság általános forgalmi adóval terhelt ára a következő:
+(5)[^37] A jogosultság általános forgalmi adóval terhelt ára a következő:
 
-|  |  |  |  | Bruttó ár forintban |
+|  | Díjkategória | 1 napos | Heti | Havi | Éves |
 
-| Díjkategória | 1 napos | Heti | Havi | Éves |
+| a) | D1 | – | 2 975 | 4 780 | 42 980 |
 
-| D1 |  | 2 975 | 4 780 | 42 980 |
+| b) | B2 | – | – | – | 199 975 |
 
-| D2 | 3 375 | 8 255 | 13 970 | 123 975 |
+| c) | D2 | 3 375 | 8 255 | 13 970 | – |
 
-| D3 | 3 375 | 12 600 | 20 370 | 184 985 |
+| d) | D3 | 3 375 | 12 600 | 20 370 | – |
 
-| D4 | 3 375 | 15 875 | 25 785 | 234 950 |
+| e) | D4 | 3 375 | 15 875 | 25 785 | – |
 
-(6)[^30] A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint.
+(6)[^38] A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint.
 
-[^26]: A 6. § (1) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^27]: A 6. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^28]: A 6. § (3) bekezdése a 38/2010. (V. 6.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^29]: A 6. § (5) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^30]: A 6. § (6) bekezdését a 95/2011. (XII. 30.) NFM rendelet 5. § (3) bekezdése iktatta be.
+[^32]: A 6. § (1) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^33]: A 6. § (1) bekezdés e) pontját a 79/2012. (XII. 27.) NFM rendelet 3. § (1) bekezdése iktatta be.
+[^34]: A 6. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^35]: A 6. § (3) bekezdése a 79/2012. (XII. 27.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^36]: A 6. § (3a) bekezdését a 79/2012. (XII. 27.) NFM rendelet 3. § (2) bekezdése iktatta be.
+[^37]: A 6. § (5) bekezdése a 79/2012. (XII. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^38]: A 6. § (6) bekezdését a 95/2011. (XII. 30.) NFM rendelet 5. § (3) bekezdése iktatta be.
