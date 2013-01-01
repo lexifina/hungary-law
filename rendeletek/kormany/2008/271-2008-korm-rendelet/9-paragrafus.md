@@ -8,9 +8,11 @@ a) a közigazgatási és igazságügyi miniszter,
 
 b) az oktatásért és a kultúráért felelős miniszter,
 
-c) a bizottsági tagságra vonatkozó felkérés elfogadása esetén a Magyar Tudományos Akadémia elnöke,
+c)[^11] a Magyar Tudományos Akadémia elnöke és a Magyar Művészeti Akadémia elnöke,
 
 d) a Kossuth-díjjal, Széchenyi-díjjal, illetve az Állami Díjjal korábban kitüntetettek, továbbá a tudományos, a műszaki, a gazdasági, a művészeti és a kulturális élet mértékadó képviselői köréből a Bizottság elnöke által egyéves időtartamra felkért tíz fő.
+
+(3a)[^12] A Bizottság elnöke a művészeti élet mértékadó képviselői köréből a Magyar Művészeti Akadémia elnöke javaslatára kér fel tagot vagy tagokat.
 
 (4) A Bizottság tagjai sorából előkészítő, jelölő bizottságot alakíthat. A Bizottság, illetve a jelölőbizottság a véleménynyilvánításra külső szakértőt is felkérhet. A felkért szakértő véleményét a Bizottság ülésén fejti ki.
 
@@ -19,3 +21,5 @@ d) a Kossuth-díjjal, Széchenyi-díjjal, illetve az Állami Díjjal korábban k
 (6) A Művészeti Díj Bizottság elnöke a miniszterelnök általános helyettese, tagjai a közigazgatási és igazságügyi miniszter, a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért négy fő.
 
 [^10]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 9. § (3) bekezdés c) pontja a 407/2012. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 9. § (3a) bekezdését a 407/2012. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
