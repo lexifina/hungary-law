@@ -1,0 +1,1 @@
+## „b) egy naptári évre vonatkozóan csak egy TSzK-val kötött egy szolgáltatói szerződésre az (1) bekezdésben meghatározott jogosultsági jogcímek egyike alapján nyújt be egyesített támogatási-kifizetési kérelmet;”
