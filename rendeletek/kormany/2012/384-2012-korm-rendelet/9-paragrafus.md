@@ -1,9 +1,12 @@
-## 8. §[^4]
+## 8. §[^3]
 
-9. § (1)[^5]
+9. § (1)[^4]
 
-(2)[^6]
+(2) Hatályát veszti az R.
 
-[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 9. § (2) bekezdése a 7. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+a) 29. §-a és
+
+b) 33. § (2) bekezdése.
+
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
