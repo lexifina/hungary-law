@@ -399,3 +399,43 @@ Pornográf tartalmú előadó-művészeti események hírverése, szervezése
 |
 
 Szerzők, zeneszerzők, szobrászok és egyéb művészek pornográf tartalmú tevékenysége, kivéve előadóművészeké
+
+|
+
+61.10.51-ből
+
+|
+
+pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére
+
+|
+
+61.10.52-ből
+
+|
+
+pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére
+
+|
+
+61.10.53-ból
+
+|
+
+pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére
+
+|
+
+61.20.50-ből
+
+|
+
+pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére
+
+|
+
+61.30.20-ból
+
+|
+
+pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére

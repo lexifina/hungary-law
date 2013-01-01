@@ -20,7 +20,7 @@ a) a Munka Törvénykönyvében meghatározott munkaviszony,
 
 b) a közalkalmazotti jogviszony,
 
-c) a közszolgálati jogviszony,
+c) a közszolgálati jogviszony, a kormányzati szolgálati viszony,
 
 d) a bírósági jogviszony,
 
@@ -34,12 +34,12 @@ h) az ösztöndíjas foglalkoztatási jogviszony,
 
 i) a közfoglalkoztatási jogviszony,
 
-j) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
+j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
 
 k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
 
 l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
 
-m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony;
+m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik;
 
 8. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy.

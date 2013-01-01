@@ -8,9 +8,11 @@ b) a kifizetőnek a természetes személlyel fennálló, adófizetési köteleze
 
 c) a tanulószerződésben meghatározott díj;
 
-d) a hivatásos nevelőszülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint megillető nevelési díj;
+d) a hivatásos nevelőszülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint megillető hivatásos nevelőszülői díj;
 
-e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott személyi alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában személyi alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi személyi alapbér.
+e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi alapbér.
+
+(1a) Ha a kifizető a természetes személlyel fennálló adófizetési kötelezettséget eredményező jogviszonya alapján ugyanazon adó-megállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is kifizet (juttat), az adóalap megállapításánál az (1) bekezdés a)–b) és e) pontját együttesen kell alkalmazni, azzal az eltéréssel, hogy az (1) bekezdés e) pontjának alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
 
 (2) Adófizetési kötelezettséget eredményező jogviszony:
 
@@ -26,13 +28,13 @@ e) a gazdálkodó szervezet és a tanuló között tanulószerződés alapján f
 
 f) az egyház és az egyházi szolgálatot teljesítő egyházi személy között fennálló, az egyházi szolgálat teljesítése alapjául szolgáló jogviszony;
 
-g) a szerzetesrend és a tagja között fennálló tagi jogviszony;
+g)
 
-h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–g) pont hatálya alá nem tartozó jogviszony.
+h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–f) pont hatálya alá nem tartozó olyan jogviszony, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 
 (3) Nem eredményez adófizetési kötelezettséget
 
-a) a (2) bekezdés c)–d), f)–g) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
+a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
 
 b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony.
 
@@ -44,7 +46,7 @@ b) a külföldi állam Magyarországra akkreditált diplomáciai és konzuli ké
 
 c) a nemzetközi szervezet nemzetközi szerződés alapján mentességet élvező tisztviselője, alkalmazottja részére kifizetett, juttatott bevétel;
 
-d) a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel, fiókteleppel, kereskedelmi képviselettel vagy a jogszabályban előírt belföldi nyilvántartásba bejegyzésre kötelezett más hasonló telephellyel nem rendelkező kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – magánszemély részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott személyi alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt;
+d) a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel, fiókteleppel, kereskedelmi képviselettel vagy a jogszabályban előírt belföldi nyilvántartásba bejegyzésre kötelezett más hasonló telephellyel nem rendelkező kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – magánszemély részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt;
 
 e) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint az általa folyósított szociális ellátásból a szociális igazgatásról és a szociális ellátásokról szóló törvény szerint nem a kifizetőt terhelő rész;
 

@@ -44,7 +44,7 @@ b) a 2013. évre havonta
 
 ba) a kedvezményalap 16 százaléka, de legfeljebb 12 ezer forint, ha a részkedvezmény-alap nem haladja meg a 75 ezer forintot,
 
-bb) az a) pont szerint meghatározott összegnek a 75 ezer forint feletti kedvezményalap 20 százalékát meghaladó része, amennyiben a kedvezményalap meghaladja a 75 ezer forintot,
+bb) a ba) alpont szerint meghatározott összegnek a 75 ezer forint feletti kedvezményalap 20 százalékát meghaladó része, amennyiben a kedvezményalap meghaladja a 75 ezer forintot,
 
 azzal, hogy a 2013. évben az adókedvezmény a kifizetőt az (1) bekezdés szerinti feltételre tekintet nélkül illeti meg.
 
