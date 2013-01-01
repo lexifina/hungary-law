@@ -44,4 +44,4 @@ k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
 (11) A meg nem fizetett állattenyésztési bírság adók módjára behajtandó köztartozásnak minősül.
 
-(12) Az állattenyésztési bírság a tenyésztési hatóság saját bevétele. A befolyt bírság kizárólag szakterületi ellenőrzésekre, az országos állattenyésztési adatbázis fejlesztésére és működtetésére, ellenőrzésekkel kapcsolatos fejlesztésekre, illetve továbbképzésre használható fel.
+(12)
