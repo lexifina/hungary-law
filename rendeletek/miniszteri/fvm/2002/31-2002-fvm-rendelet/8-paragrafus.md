@@ -2,7 +2,7 @@
 
 ## Azonnali intézkedések az afrikai lópestis hivatalos megállapítása után
 
-## 8. § Az afrikai lópestis hivatalos megállapítása után a kerületi főállatorvos az érintett telephely és az istálló(k) bejáratain jól látható, ,,Állategészségügyi zárlat afrikai lópestis betegség miatt, idegeneknek tilos a bemenet!'' feliratú táblát helyeztet el, és a települési (a fővárosban a fővárosi kerületi) önkormányzat jegyzőjének egyidejű értesítése mellett elrendeli
+## 8. §[^6] Az afrikai lópestis hivatalos megállapítása után a járási főállatorvos az érintett telephely és az istálló(k) bejáratain jól látható, ,,Állategészségügyi zárlat afrikai lópestis betegség miatt, idegeneknek tilos a bemenet!'' feliratú táblát helyeztet el, és a települési (a fővárosban a fővárosi kerületi) önkormányzat jegyzőjének egyidejű értesítése mellett elrendeli
 
 a) az érintett telephely valamennyi megbetegedett és afrikai lópestis betegségre gyanús lóféléjének leölését,
 
@@ -23,3 +23,5 @@ h) az érintett telephelyen tartott ebek laboratóriumi vizsgálatát,
 i) a beteg ebek kiirtását,
 
 j) kiterjedt járványnyomozást a betegség terjedésének megakadályozására.
+
+[^6]: A 8. § nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 9. § b) pontja szerint módosított szöveg.
