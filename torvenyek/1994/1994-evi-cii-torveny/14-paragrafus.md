@@ -1,1 +1,0 @@
-14. § A közgyűlésen minden tagot egy szavazat illet meg. A közgyűlés időpontjáról minden tagot írásban kell értesíteni azzal a figyelmeztetéssel, hogy a közgyűlés a megjelentek számára tekintet nélkül határozatképes. A határozathozatal és a választás rendjét az alapszabályban kell meghatározni.

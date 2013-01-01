@@ -1,1 +1,0 @@
-36. § A nemzeti tanács ülésén tanácskozási joggal részt vesznek az agrárpolitikáért felelős miniszter, a borászati hatóság, az országos szőlészeti-borászati oktatási, kutatási intézmények, valamint szakmai érdek-képviseleti szervezetek képviselői. A tanács ülésére meg kell hívni a napirend szerint érdekelt miniszter képviselőjét.
