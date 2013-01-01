@@ -36,7 +36,7 @@ a) közoktatási intézményben,
 
 b) gyermekjóléti, gyermekvédelmi intézményben,
 
-c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál, ideértve a többcélú intézményt is, ha abban egészségügyi szolgáltatást is nyújtanak.
+c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál,.
 
 (5) A (7)–(9) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
 

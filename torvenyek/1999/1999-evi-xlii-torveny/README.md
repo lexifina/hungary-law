@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-42-00-00
 | 2012-01-01 | 2011. évi XLI. törvény | 1999-42-00-00.15 |
 | 2012-01-02 | 2011. évi CLXXVI. törvény | 1999-42-00-00.16 |
 | 2012-04-09 | 2012. évi XXVI. törvény | 1999-42-00-00.17 |
+| 2013-01-01 | 2012. évi CCXII. törvény | 1999-42-00-00.18 |

@@ -14,4 +14,6 @@ e) zárt légterű helyiség: valamely műszaki megoldással környezetétől fi
 
 f) kombinált figyelmeztetés: az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint fényképből vagy egyéb illusztrációból és kiegészítő figyelmeztetés megfelelő szövegéből álló figyelmeztetés;
 
-g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen egyesületek szövetsége.
+g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen egyesületek szövetsége;
+
+h) gyűjtőcsomag: több fogyasztói csomagolási egységet tartalmazó, kiskereskedelmi forgalomban értékesített nagyobb csomagolási egység.

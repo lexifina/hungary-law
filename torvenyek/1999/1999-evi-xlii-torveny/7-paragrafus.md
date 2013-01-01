@@ -4,7 +4,7 @@
 
 (2) Egészségvédelmi bírság megfizetésére köteles a 4. § (9) bekezdésében megjelölt személy is, aki a dohányzásra vonatkozó, e törvényben foglalt tilalmak, korlátozások betartását feladatkörében nem érvényesíti.
 
-(3) Egészségvédelmi bírság csak azon természetes személy ellen szabható ki, aki a cselekmény elkövetésekor 14. életévét betöltötte, és saját jövedelemmel rendelkezik.
+(3) Egészségvédelmi bírság csak azon természetes személy ellen szabható ki, aki a cselekmény elkövetésekor 14. életévét betöltötte.
 
 (4) Az egészségvédelmi bírság összege
 
