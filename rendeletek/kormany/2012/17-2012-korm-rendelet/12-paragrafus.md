@@ -4,7 +4,7 @@
 
 (3) A Világörökség Szakbizottságba a melléklet 8.2. pontjában meghatározott szervezetek delegálhatnak meghívottat.
 
-(4) A szakbizottságok elnökeit a miniszter az MTA elnökével egyetértésében kéri fel négyéves időtartamra.
+(4)[^2] A szakbizottságok elnökeit a miniszter – az MTA elnökével és az MMA elnökével egyetértésében – kéri fel négyéves időtartamra.
 
 (5) A szakbizottság:
 
@@ -75,3 +75,5 @@ k) a kultúráért felelős miniszter kérelmére bármely egyéb az 1985. évi 
 (9) A szakbizottság ülésein a főtitkár állandó meghívottként vesz részt.
 
 (10) A szakbizottság titkársági feladatainak ellátásáért a mellékletben az adott szakbizottság szerint meghatározott feladat- és hatáskörrel rendelkező miniszter, a Szellemi Kulturális Örökség Szakbizottság és a Világörökség Szakbizottság esetében a kultúráért felelős miniszter felel.
+
+[^2]: A 12. § (4) bekezdése a 407/2012. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

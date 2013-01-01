@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-17-20-2
 | --- | --- | --- |
 | 2012-02-24 | 2012-17-20-22.1 | 17/2012. (II. 16.) Korm. rendelet |
 | 2012-02-25 | 2012-17-20-22.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2012-17-20-22.3 | 407/2012. (XII. 28.) Korm. rendelet |
