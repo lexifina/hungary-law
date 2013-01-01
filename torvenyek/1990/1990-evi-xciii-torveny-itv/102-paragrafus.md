@@ -26,7 +26,7 @@ lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy 
 
 g) értékpapírnak olyan okirat vagy – jogszabályban megjelölt – más módon rögzített, nyilvántartott és továbbított adat tekinthető, amely jogszabályban meghatározott kellékekkel rendelkezik és kiállítását (kibocsátását), illetve ebben a formában történő megjelenítését jogszabály lehetővé teszi;
 
-h) takarékbetét: a PTK. 533. §-a alapján kötött szerződés szerint a magánszemély által a hitelintézetnél elhelyezett pénzösszeg és kamata, ideértve a magánszemély bankszámla szerződés keretében elhelyezett pénzeszközeit és azok kamatát, kivéve az adózás rendjéről szóló törvény alapján az állami adóhatósághoz kötelezően bejelentendő üzleti célú pénzforgalmi bankszámlán, elszámolási számlán elhelyezett pénzeszközt és kamatát;
+h)
 
 i) gépjármű: az olyan közúti szállító- vagy vontatóeszköz – a mezőgazdasági vontató, az önjáró vagy vontatott munkagép, a lassú jármű és a segédmotoros kerékpár kivételével –, amelyet beépített erőgép hajt és nyilvántartásba vételét jogszabály írja elő;
 
@@ -34,13 +34,13 @@ j) pótkocsi:
 
 az i) pont szerinti gépjárművel történő vontatásra készült jármű, teher- és sátras utánfutó, félpótkocsi, valamint lakópótkocsi, melynek a közlekedésben való részvételét — külön jogszabály — hatósági nyilvántartásba vételhez köti;
 
-k) sporttelep: az ingatlan-nyilvántartási bejegyzés szerint sporttelep, sportpálya, uszoda, stadion, sportcsarnok, jégpálya, jégcsarnok, tornaterem, tornaszoba, tornaudvar, vízi-sporttelep – vagy a széljegy szerint ilyenként feltüntetésre váró ingatlan, ingatlanrész, feltéve, ha az az ingatlan-nyilvántartási eljárás, melynek megindítását a széljegy tanúsítja bejegyzéssel zárul –, ide nem értve a földrészleten létesített, de a sporttevékenység végzéséhez vagy az e célt szolgáló létesítmény fenntartásához közvetlenül nem szükséges ingatlanrészt (szálloda, irodaház, bevásárlóközpont és az építési szabályok szerint ezekhez kialakított parkolóhelyek stb.), akkor is, ha az a sportteleppel egybeépült, vagy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
+k) sportcélú ingatlan: az ingatlan-nyilvántartási bejegyzés szerint sporttelep, sportpálya, uszoda, stadion, sportcsarnok, jégpálya, jégcsarnok, tornaterem, tornaszoba, tornaudvar, vízi-sporttelep – vagy a széljegy szerint ilyenként feltüntetésre váró ingatlan, ingatlanrész, feltéve, ha az az ingatlan-nyilvántartási eljárás, melynek megindítását a széljegy tanúsítja, bejegyzéssel zárul –, ide nem értve a földrészleten létesített, de a sporttevékenység végzéséhez vagy az e célt szolgáló létesítmény fenntartásához közvetlenül nem szükséges ingatlanrészt (szálloda, irodaház, bevásárlóközpont és az építési szabályok szerint ezekhez kialakított parkolóhelyek stb.), akkor is, ha az a sportcélú ingatlannal egybeépült, vagy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
 
 l) lakóház építésére alkalmas telektulajdon:
 
 az építésügyi szabályoknak és a településrendezési tervnek megfelelően kialakított, lakóépület elhelyezésére szolgáló, beépítetlen földrészlet;
 
-m) termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, gyep, nádas és erdő művelési ágban, vagy halastóként nyilvántartott és a felsorolt valamelyik célra hasznosított külterületi földrészlet, ide nem értve a földrészleten bármilyen célra létesített épületet;
+m) termőföld: az a földrészlet, amelyet a település külterületén az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület művelési ágban vagy halastóként tartanak nyilván és a felsorolt valamelyik célra hasznosítják, ide nem értve a földrészleten bármilyen célra létesített épületet;
 
 n) nettó árbevétel: a helyi adókról szóló 1990. évi C. törvény szerinti nettó árbevétel;
 
@@ -72,6 +72,6 @@ c) külön jogszabály értelmében menekültnek minősül.
 
 (3) Az (1) bekezdés f) és l)—m), továbbá s) pontjaiban foglaltak alkalmazásakor a vagyontárgy minősítése tekintetében az illetékkötelezettség keletkezésekor fennálló állapot az irányadó.
 
-(4) A 26. § (1) bekezdésének f) pontja alkalmazásában új lakásnak minősül a lakástulajdon a használatbavételi engedély kiadását követő első – illetve, ha a lakást a használatbavételi engedély kiadását követően a vállalkozótól a 23/A. § (1) és (4) bekezdésében meghatározott ingatlanforgalmazó vásárolja meg akkor második – megvásárlásáig.
+(4) A 26. § (1) bekezdésének f) pontja alkalmazásában új lakásnak minősül a lakástulajdon a használatbavételi engedély kiadását követő első – illetve, ha a lakást a használatbavételi engedély kiadását követően a vállalkozótól a 23/A. § (1), (2) és (4) bekezdésében meghatározott ingatlanforgalmazó vásárolja meg akkor második – megvásárlásáig.
 
 (5) A 26. § (1) bekezdés f) pontjának alkalmazásában vállalkozónak kell tekinteni a Ptk. szerinti gazdálkodó szervezetet, illetve a vállalkozói tevékenység végzésére jogosult egyéb szervezetet.

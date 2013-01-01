@@ -8,17 +8,21 @@
 
 73. § (1) A közigazgatási hatósági eljárási illetéket az eljárás megindításakor illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni a (2)–(4), a (7) és (8), valamint a (11) bekezdésekben foglaltak kivételével.
 
-(2) Az okmányirodánál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét
+(2) Az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét
 
 a) az eljárás megindítását megelőzően készpénzátutalási megbízás útján, vagy
 
-b) amennyiben az okmányirodán erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával vagy házipénztárba készpénzzel
+b) amennyiben a járási hivatalban erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával vagy házipénztárba készpénzzel
 
-kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénzátutalási megbízással az okmányiroda naponta fizeti meg az említett számla javára.
+kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénzátutalási megbízással a járási hivatal naponta fizeti meg az említett számla javára.
 
-(3) Az első fokú adóhatóságnál és az első fokú vámhatóságnál (a továbbiakban: adóhatóság) indított eljárás – ideértve az elektronikus úton kezdeményezett eljárást is – illetékét – a másolat, kivonat illetékének kivételével –, valamint az adóhatóság határozata, végzése és végrehajtási cselekménye ellen kezdeményezett jogorvoslati eljárás illetékét az illetékes adóhatóság illetékbeszedési számlája javára kell megfizetni. A 73/A. § (1) bekezdésében foglaltaktól eltérően az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét az adóhatóság határozatban közli az ügyféllel, azzal hogy az eljárási illetéket a határozat közlésétől számított 8 napon belül az adóhatóság illetékbeszedési számlájára mulasztási bírság nélkül fizetheti meg. Az így meg nem fizetett illetéket és a mulasztási bírságot az adóhatóság hajtja be.
+(3) Az adóhatóságnál és vámhatóságnál (a továbbiakban: adóhatóság) indított eljárás – ideértve az elektronikus úton kezdeményezett eljárást is – illetékét – a másolat, kivonat illetékének kivételével –, valamint az adóhatóság határozata, végzése és végrehajtási cselekménye ellen kezdeményezett jogorvoslati eljárás illetékét az illetékes adóhatóság illetékbeszedési számlája javára kell megfizetni. A 73/A. § (1) bekezdésében foglaltaktól eltérően az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét az adóhatóság határozatban közli az ügyféllel, azzal, hogy az eljárási illetéket a határozat közlésétől számított 8 napon belül az adóhatóság illetékbeszedési számlájára mulasztási bírság nélkül fizetheti meg. Az így meg nem fizetett illetéket és a mulasztási bírságot az adóhatóság hajtja be.
+
+(3a) Az adózás rendjéről szóló törvény szerinti felügyeleti intézkedés iránti kérelem illetékét illetékbélyeggel kell megfizetni, ha az eljárást az adópolitikáért felelős miniszter vagy a NAV felügyeletére kijelölt miniszter folytatja le.
 
 (4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően készpénzátutalási megbízás vagy azt követően az eljáró hatóság által az ügyfél rendelkezésére bocsátott ügyiratszámra hivatkozással átutalási megbízás útján kell megfizetni az elektronikus kapcsolattartás részletes eljárási szabályairól szóló külön jogszabály szerint.
+
+(4a) Az elektronikus úton kezdeményezett építésügyi hatósági, szakhatósági eljárások illetékét az eljárás megindítását megelőzően átutalási megbízással, vagy ha erre lehetőség van, az eljárás megindításával bankkártyával kell megfizetni. Az eljárási illeték megfizetését az átutalási megbízás elfogadásáról szóló nyilatkozat másolatával kell igazolni.
 
 (5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4) bekezdésben szabályozott esetben pedig a készpénzátutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
 

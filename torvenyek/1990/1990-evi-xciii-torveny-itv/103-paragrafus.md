@@ -48,7 +48,7 @@ IV. A másolat és kivonat illetéke
 
 1. Az államigazgatási eljárásban készített hitelesített vagy hitelesítetlen másolat, illetőleg kivonat illetéke – ha e Melléklet kivételt nem tesz – oldalanként magyar nyelvű másolat esetében 100 forint, idegen nyelvű másolat esetében 300 forint. A nem hitelesített fénymásolat illetéke oldalanként 100 forint.
 
-2.
+2. Illetékmentes – az elektronikus úton benyújtott adóbevallások kivételével – az adóbevallás másolata.
 
 3. Az illetéket a másolat átvételekor az eredeti iraton illetékbélyeggel kell megfizetni.
 
@@ -212,67 +212,85 @@ c) vízkészletjárulékot, valamint ezzel összefüggő késedelmi pótlékot, 
 
 d) hivatalból indult vagy folytatott környezet- és természetvédelmi, illetőleg vízgazdálkodási ügyben kötelezettséget megállapító egyéb – az a)–c) pontokban nem érintett – eljárásokban hozott határozat esetén a fellebbezés illetéke 15 000 forint.
 
-XIV.
+XIV. A felszámolói névjegyzékbe vétel illetéke
 
-XV. Az építésügyi hatósági eljárás illetéke
+A felszámolói névjegyzékbe vétel illetéke 8 000 Ft.
 
-1. Az építésügyi hatóságnál indított eljárás illetéke
+XV. Az építésügyi és az építésfelügyeleti hatósági eljárás illetéke
 
-a)
+I. Az építésügyi hatóságnál indított
 
-b) elvi építési engedélyezési eljárás esetében, ha
+1. építési (továbbépítési) engedélyezési eljárás alapilletéke 5 000 forint, melyen felül az illeték
 
-ba) a telek beépítésével kapcsolatos követelmények, vagy a településképi és építészeti követelmények (építészeti megjelenítés környezetbe illeszkedése) tisztázására szolgál, 15 000 forint,
+a) új – más önálló rendeltetési egységet nem tartalmazó – egylakásos lakóépület építése esetén 20 000 forint,
 
-bb) a műemléki, régészeti, kulturális örökségvédelmi, természet-, táj- és környezetvédelmi, egészségvédelmi, talajvédelmi, valamint életvédelmi, tűzvédelmi követelmények tisztázására, vagy a műszaki követelményeket előzetesen tisztázó – az építményekkel kapcsolatos országos szakmai követelmények jogszabályban meghatározott előírásaitól eltérő – műszaki megoldások alkalmazhatóságára szolgál, 30 000 forint,
+b) új – más önálló rendeltetési egységet is tartalmazó – épület építése esetén lakásonként 10 000 forint, egyéb önálló rendeltetési egység esetén
 
-bc) a ba)–bb) pontokban meghatározottak együttes tisztázására szolgál, 45 000 forint,
+ba) önálló rendeltetési egységenként 250 m2 hasznos alapterületig 20 000 forint,
 
-c) építési (továbbépítési) engedélyezési eljárás esetében az alapilleték 5000 forint, melyen felül
+bb) a 250 m2-nél nagyobb hasznos alapterületű önálló rendeltetési egységenként 100 000 forint,
 
-ca) új egylakásos lakóépület építése és bővítése esetén 20 000 forint, egyéb új épület építése és bővítése esetén lakásonként 10 000 forint, egyéb önálló rendeltetési egység építése és bővítése esetén
+c) műtárgy építése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 10 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 1000 forint,
 
-– önálló rendeltetési egységenként 250 m2 hasznos alapterületig 20 000 forint,
+d) meglévő építmény bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén az építési tevékenységgel érintett
 
-– a 250 m2-nél nagyobb hasznos alapterületű önálló rendeltetési egységenként 100 000 forint,
+da) hasznos alapterület minden megkezdett 100 m2-ként 10 000 forint, vagy
 
-cb) meglévő épület átalakítása, felújítása, helyreállítása, korszerűsítése esetén az építési tevékenységgel érintett hasznos alapterület minden megkezdett 100 m2-ként 10 000 forint, vagy az érintett felület minden megkezdett 200 m2-ként 10 000 forint,
+db) az érintett felület minden megkezdett 200m2-ként 10 000 forint,
 
-cc) műtárgy építése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 10 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 1000 forint,
+e) egyéb építési tevékenység esetén 50 m2-ként 10 000 forint,
 
-cd) meglévő műtárgy bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén az építési tevékenységgel érintett alapterület minden megkezdett 100 m2-ként 10 000 forint, vagy ennek hiányában az érintett felület minden megkezdett 200 m2-ként 10 000 forint,
+f) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény IV. fejezete szerinti veszélyes anyagokkal foglalkozó üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint, de legfeljebb 3 000 000 forint,
 
-ce) egyéb építési tevékenység esetén 50 m2-ként 10 000 forint,
+g) ha az építményben felvonó, mozgólépcső és mozgójárda is létesül, az építési engedélyezés az a)–f) pontokban foglaltakon felül 15 000 forint,
 
-cf) antennák, antennatartó szerkezetek, csatlakozó műtárgyak esetén, az eljárás tárgyát képező távközlési építmény legnagyobb lineáris méretét figyelembe véve, megkezdett méterenként 50 000 forint,
+2. módosított építési engedélyezés esetén a módosítással érintett építményrész tekintetében az illeték az 1. pontban foglaltakkal megegyező mértékű,
 
-cg) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény IV. fejezete szerinti veszélyes anyagokkal foglalkozó üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint, de legfeljebb 3 000 000 forint.
+3. összevont eljárás esetén az alapilleték 10 000 forint, melyen felül
 
-d) módosított építési engedélyezés esetén a módosítással érintett építményrész tekintetében az alapeljárás illetékével egyező mértékű,
+a) az elvi keretengedélyezési szakasz illetéke 20 000 forint,
 
-e) az építményekkel kapcsolatos országos szakmai követelmények jogszabályban meghatározott előírásaitól eltérő műszaki megoldás engedélyezése esetén 20 000 forint,
+b) az építési engedélyezési szakasz illetéke alapilleték nélkül az 1. pontban foglaltakkal megegyező mértékű,
 
-f) felvonó, mozgólépcső és mozgójárda építésére vonatkozó engedélyezés esetén 15 000 forint,
+4. összevont telepítési eljárás esetén az alapilleték 50 000 forint, melyen felül
 
-g)
+a) az integrált hatásvizsgálati szakaszba bevont hatósági eljárásonként 20 000 forint,
 
-h) bontási engedélyezési eljárás esetén a bontandó építmény 100 m2-ként 10 000 forint, vagy folyóméterenként 1000, vagy darabonként 10 000 forint,
+b) az építési engedélyezési szakasz illetéke alapilleték nélkül az 1. pontban foglaltakkal megegyező mértékű,
 
-i) fennmaradási engedélyezési eljárás (engedély nélkül végzett bontás tudomásulvétele) esetén a c), f) és h) pont szerint megállapított illeték másfélszerese,
+5. az integrált eljárásért az eljárásba bevont társhatóságonként 20 000 forint, a közreműködő építésügyi hatóságnak az eljárásért az 1. pontban foglaltakon felül 50 000 forint,
 
-j) használatbavételi engedélyezés esetében a c), f) pontokban megállapított illetékkel megegyező mértékű,
+6. az építményekkel kapcsolatos országos szakmai követelmények jogszabályban meghatározott előírásaitól eltérő műszaki megoldás engedélyezése esetén 20 000 forint,
 
-k)–l)
+7. a bontási engedélyezési eljárás esetén a bontandó építmény hasznos alapterülete 100 m2-ként 10 000 forint, vagy folyóméterenként 1000, vagy darabonként 10 000 forint,
 
-m) az a)–l) pont alá nem eső elsőfokú építésügyi hatósági eljárás (pl. bármely építésügyi hatósági engedély érvényének meghosszabbítása, jogutódlás kérése) esetében 10 000 forint,
+8. a fennmaradási engedélyezési eljárás (engedély nélkül végzett bontás tudomásulvétele) esetén az illeték az 1. pont, a 3–5. pont vagy a 7. pont szerint megállapított illeték másfélszerese,
 
-n) az építésrendészeti hatósági intézkedés kérése esetében 15 000 forint,
+9. a használatbavételi engedélyezés esetében az illeték az 1–5. pontban megállapított illetékkel megegyező mértékű,
 
-2. az építésügyi és építésfelügyeleti hatósági eljárásban hozott döntés ellen igénybe vehető fellebbezés esetén 30 000 forint,
+10. a használatbavétel tudomásul vétele 10 000 forint,
 
-3.
+11. az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásban történő átvezetéséhez, vagy tény, állapot, egyéb adat igazolásához az építésügyi hatóság hatáskörébe tartozó hatósági bizonyítvány kiadása 20 000 forint,
 
-4. Illetékmentes és igazgatási szolgáltatási díjmentes a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, elvi építési, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása.
+12. az építésügyi hatósági intézkedés kezdeményezése 15 000 forint,
+
+13. az 1–12. pont alá nem eső első fokú építésügyi hatósági eljárás 10 000 forint.
+
+II. Az építésfelügyeleti hatóságnál indított eljárás illetéke
+
+1. bontás tudomásul vételi eljárása esetén 5000 forint,
+
+2. építőipari kivitelezési tevékenység megkezdésének tudomásul vételi eljárása esetén 5000 forint,
+
+3. az építésrendészeti hatósági intézkedés kezdeményezése esetén 15 000 forint,
+
+III. Az építésügyi vagy építésfelügyeleti hatósági eljárásban hozott döntés elleni fellebbezés illetéke 30 000 forint.
+
+IV. Illetékmentes és igazgatási szolgáltatási díjmentes a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása.
+
+V. Ha az építésügyi vagy az építésfelügyeleti hatósághoz egyszerre többféle eljárás lefolytatása iránti kérelem kerül beadásra és azok a külön jogszabály szerint összevonhatóak, vagy egy kérelemmel is benyújthatóak, az illetéket az összevonásra kerülő eljárásonként kell megfizetni.
+
+VI. Az építésügyi hatóságnál indított eljárás illetéke antennák, antennatartó szerkezetek, csatlakozó műtárgyak esetén, az eljárás tárgyát képező távközlési építmény legnagyobb lineáris méretét figyelembe véve, megkezdett méterenként 50 000 forint.
 
 XVI.
 
@@ -314,7 +332,9 @@ Ingatlan tulajdonjogának a külön jogszabály szerinti külföldi jogi vagy te
 
 XXI. A hatósági bizonyítvány kiállítása iránti eljárás illetéke
 
-1–2.
+1. A felszámolói névjegyzékben vezetett adatokról kiállított hatósági bizonyítvány illetéke 5000 Ft.
+
+2.
 
 3. Az anyakönyvi kivonat kiállítása iránti eljárás illetéke – kivonatonként – 2000 forint.
 

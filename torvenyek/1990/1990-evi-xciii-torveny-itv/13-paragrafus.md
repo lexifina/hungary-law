@@ -8,7 +8,7 @@
 
 (4) Az adósság és más teher fennállását és összegét az örökös (hagyományos), illetőleg a megajándékozott köteles igazolni. Az örökhagyó eltemettetésének szokásos költségei azonban bizonyítás nélkül is elfogadhatók.
 
-(5) A megajándékozottnak az ajándékot terhelő adósság és egyéb terhek után — ide nem értve az ajándékot terhelő vagyoni értékű jogot — visszterhes vagyonátruházási illetéket kell fizetni.
+(5) A megajándékozottnak az ajándékot terhelő, igazolhatóan általa átvállalt adósság és egyéb terhek után – ide nem értve az ajándékot terhelő vagyoni értékű jogot – visszterhes vagyonátruházási illetéket kell fizetni. Ez a rendelkezés nem alkalmazható, ha a vagyonszerző az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is).
 
 (6) Ha a hagyatékban, ajándékban, gépjármű, illetőleg pótkocsi is van, ennek értékét az egyéb hagyaték, ajándék tiszta értékének kiszámításánál figyelmen kívül kell hagyni.
 

@@ -12,7 +12,7 @@ e) a lakosság ellátását szolgáló közüzemi létesítmény és az ehhez ta
 
 f) az állami tulajdonban levő természetvédelmi terület kezelői jogának a természetvédelmi kezelő által történő megszerzése;
 
-g) a takarékbetét ingyenes megszerzése;
+g)
 
 h) termőföld megszerzése ajándékozással a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők gazdaságátadási támogatása feltételeként,
 
@@ -26,7 +26,7 @@ l) hitelintézet, befektetési szolgáltató, pénzügyi vállalkozás pénzügy
 
 m) a közüzemi (vezetékes gáz-, áram-, távhő-szolgáltatási, víz- és csatornahasználati, szemétszállítási, központi fűtési) díjtartozásnak a szolgáltató általi elengedése, feltéve, hogy a magánszemély kötelezett (adós) és vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét;
 
-n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak a számvitelről szóló törvény szerinti térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követelés-elengedést és a tartozásátvállalást is – útján történő megszerzése;
+n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követelés-elengedést és a tartozásátvállalást is – útján történő megszerzése;
 
 o) a pénzügyi intézmény által elengedett követelés, amennyiben a követelés elengedése a magánszemély adós és családja megélhetési ellehetetlenülésének megelőzése érdekében az azonos helyzetben levők egyenlő elbánásának elve alapján történik. E feltételek fennállásáról a pénzügyi intézmény igazolást ad az adósnak;
 
@@ -54,4 +54,4 @@ tb) a követelés biztosítékául szolgáló, a magánszemély tulajdonában á
 
 (3) Termőföld tulajdonjogának, vagyoni értékű jogának ajándékozása esetén az egyébként járó ajándékozási illeték felét kell megfizetni. Az (1) bekezdés h) pontja szerinti mentesség esetén a mentességre való jogosultságot az ajándékozottnak kell igazolnia. A támogatás elnyerését igazoló okiratot az ingatlanügyi hatósághoz benyújtásra kerülő ajándékozási szerződéshez kell csatolnia, mely okiratot az ajándékozási szerződés másolatával az ingatlanügyi hatóság a 92. § (1) bekezdés szerint továbbítja az állami adóhatóságnak.
 
-(4) Ha az ingyenes eszközátadásra irányuló ügyletben részt vevő, számviteli törvény szerinti gazdálkodók egyike a másik 100%-os tulajdonában áll vagy a gazdálkodók egyazon személy 100%-os tulajdonában állnak, akkor a gazdálkodó vagyonszerzésére a 12. § (1) bekezdésének b) pontja szerinti táblázat I. csoportjára vonatkozó illetékmértékeket kell alkalmazni. Akkor is ezeket az illetékmértékeket kell alkalmazni, ha a gazdálkodó gazdálkodónak nem minősülő ajándékozó 100%-os tulajdonában áll.
+(4)

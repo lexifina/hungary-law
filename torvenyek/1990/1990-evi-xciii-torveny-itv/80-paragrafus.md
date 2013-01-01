@@ -1,10 +1,10 @@
-80. § (1) Azoktól az esetektől eltekintve, amelyekben az illetéket e törvény egyéb rendelkezése alapján kell törölni vagy visszatéríteni, a kiszabott, de még meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – hivatalból, vagy a fizetésre kötelezett, illetve jogutódja kérelmére – a következő esetekben van helye:
+80. § (1) Azoktól az esetektől eltekintve, amelyekben az illetéket törvény rendelkezése alapján kell törölni vagy visszatéríteni, a kiszabott, de még meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – hivatalból, vagy a fizetésre kötelezett, illetve jogutódja kérelmére – a következő esetekben van helye:
 
 a) ha az illeték jogerős megállapítása után olyan körülmény állott be, amely az örökség vagy hagyomány értékét az öröklés megnyíltának idejére visszaható módon csökkenti;
 
-b) ha a jogügyletet a bíróság módosítja, átváltoztatja vagy megszünteti, illetőleg felbontja, s emiatt a jogügylet után kevesebb illeték jár, illetőleg illeték nem jár;
+b) ha a jogügyletet a bíróság módosítja, megszünteti, felbontja, vagy a jogügylet érvénytelenségét megállapítja, és emiatt a jogügylet után kevesebb illeték jár, vagy illeték nem jár;
 
-c) ha a jogügyletet a felek közös megegyezéssel, az eredeti állapot helyreállításával megszüntetik vagy az erre jogosult a jogügylettől eláll és ezt ingatlan esetén az ingatlanügyi hatóság határozata igazolja, más esetben a közös megegyezésről, illetve az elállásról szóló okirattal igazolják;
+c) ha a jogügyletet a felek közös megegyezéssel megszüntetik vagy felbontják, továbbá ha a szerződés valamelyik fél elállása vagy felmondása folytán szűnik meg, és ingatlan esetén a szerződés megszűnésével az eredeti ingatlan-nyilvántartási állapot helyreáll, más esetben a jogügylet megszűnését a kérelmező okirattal igazolja;
 
 d) ha a vagyoni értékű jog valamely személy életének, házasságának vagy özvegységének idejére terjed, de e jogosultság a 72. § (4) bekezdésében megállapított szorzókkal vélelmezett évek felénél rövidebb idő elteltével megszűnik;
 
@@ -18,7 +18,9 @@ h) ha a bontó feltételtől függő jogügyletnél a feltétel bekövetkezik;
 
 i) mindazokban a bírósági eljárásokban, ahol az eljárás illetékmentes, vagy az illeték mérséklésének van helye, de az illetéket megfizettették, vagy nagyobb összegben fizették meg;
 
-j) a hatóság visszatéríti a természetes személy ügyfél által lerótt illetéket, ha számára az eljárás során költségmentességet engedélyez, vagy ha hatásköre az ügy elbírálása alatt megszűnt, és az ügy elbírálására nincs hatáskörrel rendelkező más hatóság.
+j) a hatóság visszatéríti a természetes személy ügyfél által lerótt illetéket, ha számára az eljárás során költségmentességet engedélyez, vagy ha hatásköre az ügy elbírálása alatt megszűnt, és az ügy elbírálására nincs hatáskörrel rendelkező más hatóság;
+
+k) ha a hatóság a kérelmet érdemi vizsgálat nélkül utasítja el, vagy ha az eljárás megszüntetésének oka, hogy a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye.
 
 (2) Az (1) bekezdés d)—e) pontjában meghatározott esetekben a vagyoni értékű jog tényleges ideje után számított illetéket meghaladó részt kell törölni, illetve visszatéríteni.
 

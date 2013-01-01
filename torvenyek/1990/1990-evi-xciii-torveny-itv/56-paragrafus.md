@@ -9,3 +9,5 @@
 (3) Illetékmentes az eseti gondnok és az ügygondnok részére a bíróság által készített jegyzőkönyv- vagy egyéb iratmásolat.
 
 (4) A bírósági közvetítés illetékmentes.
+
+(5) A jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárás, valamint a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti nemperes eljárás illetékmentes.

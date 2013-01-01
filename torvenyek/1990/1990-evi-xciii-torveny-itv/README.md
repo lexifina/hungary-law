@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2012-06-20 | 2012. évi LXIX. törvény | 1990-93-00-00.117 |
 | 2012-07-15 | 2012. évi CVI. törvény | 1990-93-00-00.118 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 1990-93-00-00.119 |
+| 2013-01-01 | 2012. évi CLXXVIII. törvény | 1990-93-00-00.120 |

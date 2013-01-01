@@ -2,10 +2,14 @@
 
 ## EGYES ELJÁRÁSI RENDELKEZÉSEK
 
-## A hagyaték (vagyonátszállás) bejelentése a közjegyző által
+## A hagyaték (vagyonátszállás) bejelentése a közjegyző és a bíróság által
 
-89. § (1) Ha a hagyatékot közjegyző adja át, azt illetékkiszabás végett a közjegyző köteles bejelenteni az állami adóhatóságnak.
+89. § (1) Ha a hagyatékot közjegyző vagy bíróság adja át, az illetékkiszabás végett
 
-(2) A hagyaték bejelentése céljából a közjegyző a teljes hatályú hagyatékátadó végzést a jogerőre emelkedéstől számított 15 napon belül az illetékes állami adóhatóságnak küldi meg. A végzéshez csatolni kell a hagyatéki leltár másolatát, a végrendelet, osztályos egyezség, illetőleg hagyatéki tárgyalási jegyzőkönyv hitelesített, teljes másolatát.
+a) a közjegyző a teljes hatályú hagyatékátadó végzést,
 
-(3) Az (1)—(2) bekezdést kell alkalmazni a póthagyatéki eljárásban keletkezett hagyatékátadó végzés megküldésére is.
+b) a bíróság az öröklési jogcímen tulajdonszerzést megállapító határozatát
+
+annak jogerőre emelkedésétől számított 15 napon belül megküldi az állami adóhatóságnak. A végzéshez és a határozathoz csatolni kell a hagyatéki leltár másolatát, a végrendelet, osztályos egyezség, illetőleg hagyatéki tárgyalási jegyzőkönyv hitelesített, teljes másolatát.
+
+(2) Az (1) bekezdést a póthagyatéki eljárásra is alkalmazni kell.

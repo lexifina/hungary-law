@@ -8,7 +8,7 @@
 
 (3) Ha az eljárás tárgyának értéke az (1) bekezdésben foglaltak szerint nem állapítható meg, és ha törvény másként nem rendelkezik, az illeték számításának alapja:
 
-a) a helyi bíróság előtt a peres eljárásban 350 000 forint, a nemperes eljárásban 200 000 forint;
+a) a járásbíróság előtt a peres eljárásban 350 000 forint, a nemperes eljárásban 200 000 forint;
 
 b) a törvényszék előtt:
 

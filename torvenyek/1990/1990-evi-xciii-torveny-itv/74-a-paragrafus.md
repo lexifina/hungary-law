@@ -8,4 +8,4 @@
 
 (4) Átutalási megbízással történő fizetés esetén az eljárási illeték megfizetésének ellenőrzésére vonatkozó szabályokat az adópolitikáért felelős miniszter rendeletben szabályozza.
 
-(5) Amennyiben az illetékköteles iraton az állami adóhatóság a 73. § (7) bekezdése, illetve a 74. § (1) bekezdése szerint igazolja az illetékkiszabásra történő benyújtás tényét, az eljáró bíróság vagy más hatóság az illetéket megfizetettnek tekinti.
+(5) Az eljáró bíróság vagy hatóság az illetéket kizárólag akkor tekinti megfizetettnek, ha az illetékköteles iraton az állami adóhatóság a 73. § (7) bekezdése, illetve a 74. § (1) bekezdése szerint igazolja az illetékkiszabásra történő benyújtás tényét.
