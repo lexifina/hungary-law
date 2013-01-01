@@ -1,0 +1,9 @@
+42. § (1) A Vhr. 2. § (4) bekezdésében az „a Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság)” szövegrész helyébe az „az állami adóhatóság” szöveg, a 3. § (2) bekezdésében az „a vámhatóság” szövegrész helyébe az „az állami adóhatóság” szöveg, a 9. § (3) bekezdésében az „a vámhatósághoz történő bejelentése” szövegrész helyébe az „a szerződésnek az állami adóhatósághoz történő bejelentése” szöveg, a 10. §-ban az „a vámhatóság mulasztási bírságot szabhat ki” szövegrész helyébe az „az állami adó- és vámhatóság mulasztási bírságot szabhat ki” szöveg, a 11. § (1) bekezdésében az „a vámhatóságnak” szövegrész helyébe az „az állami adóhatóságnak” szöveg, a 13. § d) pontjában, a 11. alcímében, a 21. § (1) bekezdésében, 25. § (1) bekezdésében, a 27. § (2) bekezdésében, 30. § (3) bekezdésében az „a vámhatóság” szövegrészek helyébe az „az állami adó- és vámhatóság” szöveg, a 21. § (4) bekezdésben az „A vámhatóság” szövegrész helyébe az „Az állami adó- és vámhatóság” szöveg, a 23. § (2) bekezdésében az „A vámhatóság” szövegrész helyébe az „Az állami adóhatóság”, az „a vámhatóság” szövegrész helyébe az „állami adóhatóság” szöveg lép.
+
+(2) A Vhr. 9. § (2) bekezdés a) pontjában az „e rendelet 2. melléklete szerinti” szövegrész helyébe az „e rendelet 2. melléklet IV. pontja szerinti” szöveg lép.
+
+(3) A Vhr. 23. § (5) bekezdés a) pontjában, (6) bekezdés a) pontjában, (7) bekezdés a) pontjában, (8) bekezdés a) pontjában a „2. melléklet I. pontja szerinti alapadatait” szövegrészek helyébe a „nevét, adószámát” szöveg lép.
+
+(4) A Vhr. 23. § (5) bekezdés e) pontjában, (6) bekezdés e) pontjában, (7) bekezdés d) pontjában, (8) bekezdés b) pont bd) alpontjában a „VPID számát” szövegrészek helyébe az „adószámát” szöveg lép.
+
+(5) A Vhr. 3. melléklet 2. pontjában a „VPID szám” szövegrész helyébe az „adószám” szöveg lép.

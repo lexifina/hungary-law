@@ -1,0 +1,5 @@
+## 44. § A közszolgálati tisztviselők munka- és pihenőidejéről, az igazgatási szünetről, a közszolgálati tisztviselőt és a munkáltatót terhelő egyes kötelezettségekről, valamint a távmunkavégzésről szóló 30/2012. (III. 7.) Korm. rendelet 1. § (3) bekezdése a helyébe a következő rendelkezés lép:
+
+## „(3) A rendelet V. fejezetének hatálya a Miniszterelnökségre, a minisztériumra, a kormányhivatalra – ide nem értve a Nemzeti Adó- és Vámhivatalt –, és a központi hivatalra, valamint a kormányhivatal és a központi hivatal területi, helyi szerveire, a megyei, fővárosi kormányhivatalra, valamint területi szervére, továbbá a Kormány által intézményfenntartásra kijelölt szervre és az ott foglalkoztatott kormánytisztviselőre, kormányzati ügykezelőre, munkavállalóra, az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra és ügyészre, továbbá a szakmai vezetőre terjed ki.”
+
+## 9. A közszolgálati tisztviselőkkel szembeni fegyelmi eljárásról szóló 31/2012. (III. 7.) Korm. rendelet módosítása
