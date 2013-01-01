@@ -1,4 +1,4 @@
-2. melléklet a 219/2012. (VIII. 13.) Korm. rendelethez
+2. melléklet a 219/2012. (VIII. 13.) Korm. rendelethez[^2]
 
 A nyugdíjbiztosítási átutalás során alkalmazandó járulékmértékek
 
@@ -99,3 +99,7 @@ A nyugdíjbiztosítási átutalás során alkalmazandó járulékmértékek
 | 47. | 2011 | 30,1 | 30,1 |
 
 | 48. | 2012 | 30,1 | 30,1 |
+
+| 49. | 2013 | 30,1 | 30,1 |
+
+[^2]: A 2. melléklet a 425/2012. (XII. 29.) Korm. rendelet 29. §-a szerint módosított szöveg.
