@@ -2,7 +2,7 @@
 
 8. § (1) Iskoláztatási támogatásra jogosult
 
-a) a 7. § (1) bekezdés a)–c) pontjában meghatározott személy, továbbá a gyámhivatal által a szülői ház elhagyását engedélyező határozatban megjelölt személy
+a) a 7. § (1) bekezdés a)–c) pontjában meghatározott személy, továbbá a gyámhatóság által a szülői ház elhagyását engedélyező határozatban megjelölt személy
 
 aa) a tanköteles gyermekre tekintettel a gyermek tankötelessé válása évének november 1-jétől a tankötelezettség teljes időtartamára, valamint
 
@@ -24,7 +24,7 @@ d) akinek a gyámsága nagykorúvá válása miatt szűnt meg,
 
 e) aki a 7. § (1) bekezdésének a) pontja szerinti személlyel nem él egy háztartásban, vagy
 
-f) ha az iskoláztatási támogatást – a gyámhivatalnak a szülői ház elhagyását engedélyező határozatában foglaltak szerint – a nagykorúságát megelőzően is a részére folyósították,
+f) ha az iskoláztatási támogatást – a gyámhatóságnak a szülői ház elhagyását engedélyező határozatában foglaltak szerint – a nagykorúságát megelőzően is a részére folyósították,
 
 annak a tanévnek az utolsó napjáig, amelyben a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti.
 

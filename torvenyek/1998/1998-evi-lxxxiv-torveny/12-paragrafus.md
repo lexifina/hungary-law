@@ -8,7 +8,7 @@ ab) aki közoktatási intézmény tanulója vagy felsőoktatási intézményben 
 
 ac) aki a családi pótlékra – a 8. § (3) bekezdés e) pontja szerinti eset kivételével – saját jogán jogosult; vagy
 
-b) aki fogyatékosként szociális intézményi ellátásban részesül, feltéve, hogy őt a gyámhivatal nem vette átmeneti vagy tartós nevelésbe, és a családi pótlékot igénylő – a kormányrendeletben foglaltak szerint – vele kapcsolatot tart fenn.
+b) aki fogyatékosként szociális intézményi ellátásban részesül, feltéve, hogy őt a gyámhatóság nem vette átmeneti vagy tartós nevelésbe, és a családi pótlékot igénylő – a kormányrendeletben foglaltak szerint – vele kapcsolatot tart fenn.
 
 (2) A családi pótlékra való jogosultság szempontjából, valamint az (1) bekezdés, a 20. és a 23. § alkalmazása során saját háztartásban nevelt, gondozott gyermeknek kell tekinteni azt a gyermeket (személyt) is,
 
