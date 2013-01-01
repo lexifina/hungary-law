@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2010-43-00-00.15 |
 | 2012-07-14 | 2012. évi CVII. törvény | 2010-43-00-00.16 |
 | 2012-10-01 | 2012. évi CXL. törvény | 2010-43-00-00.17 |
+| 2013-01-01 | 2012. évi CCXIV. törvény | 2010-43-00-00.18 |
