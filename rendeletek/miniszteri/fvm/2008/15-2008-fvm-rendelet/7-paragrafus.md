@@ -6,7 +6,7 @@ a) az 509/2006/EK tanácsi rendelet 1. cikk (1) bekezdésének a) pontjában hiv
 
 b) zöldség-gyümölcs esetében az MgSzH Központja és területi szervei,
 
-c) egyéb élelmiszerek esetében az MgSzH kerületi hivatala
+c)[^17] egyéb élelmiszerek esetében a járási állategészségügyi és élelmiszer-ellenőrző hivatal
 
 [az a)–c) pont szerinti hatóság a továbbiakban együtt: ellenőrző hatóság] végzi.
 
@@ -19,3 +19,4 @@ c) egyéb élelmiszerek esetében az MgSzH kerületi hivatala
 (5) Az 509/2006/EK tanácsi rendelet 17. cikkében foglalt, a fogyasztók félrevezetésére vonatkozó tilalmak a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
 [^16]: A 7. § a 62/2010. (V. 11.) FVM rendelet 1. §-ával megállapított szöveg.
+[^17]: A 7. § (1) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 27. §-a szerint módosított szöveg.
