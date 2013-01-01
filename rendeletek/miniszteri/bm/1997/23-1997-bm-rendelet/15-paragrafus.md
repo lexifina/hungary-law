@@ -15,3 +15,7 @@ c) az indoklásban a megállapított tényállást és az annak alapjául elfoga
 d) a határozat hozatalának helyét és idejét, a határozat aláírójának nevét, beosztását és az eljáró szerv bélyegzőlenyomatát.
 
 (3) Ha a határozat kötelezést tartalmaz, rendelkezni kell a kártérítés összegéről, a teljesítési határidőről, illetőleg a teljesítés feltételeiről.
+
+(4)[^5] Ha a határozat az eredeti állapot helyreállítására kötelezést tartalmaz, rendelkezni kell a helyreállítás lehetséges módjáról.
+
+[^5]: A 15. § (4) bekezdését a 81/2012. (XII. 28.) BM rendelet 5. §-a iktatta be.

@@ -1,6 +1,16 @@
 ## A tényállás tisztázása
 
-11. § (1) Az eljáró szerv tisztázza a határozathozatalhoz szükséges tényállást, amennyiben a rendelkezésre álló adatok nem elegendőek, bizonyítási eljárást folytat le.
+11. § (1)[^3] Az eljáró szerv tisztázza a határozathozatalhoz szükséges tényállást, ennek keretében vizsgálja
+
+a) a kár összegét,
+
+b) azt, hogy a kár a dolog rongálódásával, megsemmisülésével, használhatatlanná válásával vagy elvesztésével következett be,
+
+c) a károkozó személy kötelezettségszegő magatartása és a kár keletkezése közötti ok-okozati kapcsolatot, és
+
+d) a felróhatóság mértékének megítélését alátámasztó tényeket.
+
+(1a)[^4] Ha a rendelkezésre álló adatok a tényállás tisztázásához nem elegendőek, az eljáró szerv bizonyítási eljárást folytat le.
 
 (2) Az eljárás alá vont személy, illetve képviselője a tényállás tisztázása érdekében az eljáró szervnél írásban bizonyítási indítvánnyal élhet.
 
@@ -13,3 +23,6 @@
 (6) A bizonyítási eszközök különösen a károkozásért felelősnek tartott személy nyilatkozata, az irat, a tanúvallomás, a szemle és a szakértői vélemény.
 
 (7) Az eljáró szerv a bizonyítékokat egyenként és összességükben értékeli, és ezen alapuló meggyőződése szerint állapítja meg a tényállást.
+
+[^3]: A 11. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 11. § (1a) bekezdését a 81/2012. (XII. 28.) BM rendelet 4. §-a iktatta be.
