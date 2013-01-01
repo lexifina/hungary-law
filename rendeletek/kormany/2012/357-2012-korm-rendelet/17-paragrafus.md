@@ -1,20 +1,34 @@
+## szöveg lép.
+
 ## 17. § Hatályát veszti a Rendelet
 
-a)–e)[^14]
+a) 1. § (2) bekezdésben az „ , és akiknek a szakmai továbbképzéséről a Magyar Könyvvizsgálói Kamara gondoskodik” szövegrész,
 
-f)[^15]
+b) 6. § (1) bekezdésben az „a 3. § (1), (2) és (13) bekezdése szerint” szövegrész,
 
-g)[^16]
+c) 9. §-a,
 
-h)[^17]
+d) 10. § (2) bekezdése,
 
-i)[^18]
+e) 10. § (5) bekezdése,
 
-j)–m)[^19]
+f)[^7]
 
-[^14]: A 17. § a)–e) pontja a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^15]: A 17. § f) pontja a 19. § (6) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^16]: A 17. § g) pontja a 19. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^17]: A 17. § h) pontja a 19. § (3) bekezdése alapján 2013. február 1-jén lép hatályba.
-[^18]: A 17. § i) pontja a 19. § (5) bekezdése alapján 2015. július 1-jén lép hatályba.
-[^19]: A 17. § j)–m) pontja a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+g)[^8]
+
+h)[^9]
+
+i)[^10]
+
+j) 10/C. § (5) bekezdése,
+
+k) 7. számú melléklete,
+
+l) 8. számú melléklete,
+
+m) 9. számú melléklete.
+
+[^7]: A 17. § f) pontja a 19. § (6) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^8]: A 17. § g) pontja a 19. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^9]: A 17. § h) pontja a 19. § (3) bekezdése alapján 2013. február 1-jén lép hatályba.
+[^10]: A 17. § i) pontja a 19. § (5) bekezdése alapján 2015. július 1-jén lép hatályba.

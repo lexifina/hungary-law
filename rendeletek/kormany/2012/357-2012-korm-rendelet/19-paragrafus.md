@@ -1,4 +1,4 @@
-## 18. §[^20]
+## 18. §[^11]
 
 ## 4. Záró rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) A 2. § és a 17. § f) pontja 2017. január 1-jén lép hatályba.
 
-[^20]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

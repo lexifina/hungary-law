@@ -126,7 +126,7 @@
 
 ## ”
 
-3–4. melléklet a 357/2012. (XII. 13.) Korm. rendelethez[^21]
+3–4. melléklet a 357/2012. (XII. 13.) Korm. rendelethez[^12]
 
 [^1.]: Az adatlap letölthető az egységes Kormányzati Portálról.
 [^2.]: Nyilvántartásba történő felvétel kérelmezése esetén – a 3. pontban foglaltak kivétel – az adatlap valamennyi adatát kötelező megadni. A 3. pontban szereplő adatok önkéntes adatszolgáltatás alapján kerülnek a nyilvántartásba.
@@ -136,4 +136,4 @@
 [^6.]: Hozzájárulás esetén a megfelelő személyes adatok külön-külön egyértelműen megjelölendők.
 [^7.]: A megfelelő szövegrész aláhúzandó.
 [^8.]: Akkor kötelező kitölteni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^21]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

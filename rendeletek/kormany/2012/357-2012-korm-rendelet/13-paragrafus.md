@@ -1,6 +1,5 @@
-13. § (1)[^6]
+13. § (1)[^4]
 
-(2)[^7]
+(2) A Rendelet 11/A. §-a helyébe a következő rendelkezés lép:
 
-[^6]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 13. § (2) bekezdése a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^4]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
