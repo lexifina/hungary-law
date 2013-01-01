@@ -1,4 +1,4 @@
-## 6. § Minden településen (a fővárosban minden kerületben) önálló HVI működik. Körjegyzőséghez tartozó településeken a HVI feladatait közös HVI látja el.
+## 6. §[^3] Minden településen (a fővárosban minden kerületben) önálló HVI működik. Közös önkormányzati hivatalhoz tartozó településeken a HVI feladatait közös HVI látja el.
 
 ## A helyi választási iroda feladatai
 
@@ -40,7 +40,7 @@ b) gondoskodik a névjegyzék összeállításáról, egy példányban történ�
 
 c) gondoskodik az értesítők elkészítéséről és azoknak az ajánlószelvényekkel együtt történő borítékolásáról,
 
-d)[^1] a névjegyzék és az értesítők technikai elkészítésével, valamint az értesítők és ajánlószelvények borítékolásával megbízhat másik HVI-t, a fővárosi és megyei kormányhivatalt vagy a KEKKH-t,
+d)[^4] a névjegyzék és az értesítők technikai elkészítésével, valamint az értesítők és ajánlószelvények borítékolásával megbízhat másik HVI-t, a fővárosi és megyei kormányhivatalt vagy a KEKKH-t,
 
 e) a szavazás napját megelőző második nap 16 óráig gondoskodik a névjegyzék folyamatos vezetéséről, a névjegyzékbe való felvételről és az abból való törlésről szóló értesítők elkészítéséről,
 
@@ -74,11 +74,12 @@ s) a napközbeni részvételi jelentések adatainak telefonos adattovábbítás�
 
 t) a szavazást megelőző második napon 16 óráig gondoskodik a személyi adatokban és a lakcímekben bekövetkezett változások feldolgozásáról, továbbá a névjegyzéket érintő választási iratok és értesítések maradéktalan átvezetéséről az informatikai rendszerben,
 
-u)[^2] a szavazást megelőző második nap 16 órát követően gondoskodik a névjegyzék szavazókörbe kerülő példányának kinyomtatásáról, a kinyomtatott névjegyzéket az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti; a HVI vezetője a névjegyzék kinyomtatásával megbízhat másik HVI-t, a fővárosi és megyei kormányhivatalt vagy a KEKKH-t,
+u)[^5] a szavazást megelőző második nap 16 órát követően gondoskodik a névjegyzék szavazókörbe kerülő példányának kinyomtatásáról, a kinyomtatott névjegyzéket az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti; a HVI vezetője a névjegyzék kinyomtatásával megbízhat másik HVI-t, a fővárosi és megyei kormányhivatalt vagy a KEKKH-t,
 
 v) a szavazást megelőző nap 16 órát követően értesíti az OVI vezetőjét a szavazókörökbe kerülő névjegyzék példány hitelesítésének megtörténtéről, valamint
 
 w) megszervezi a szavazóköri jegyzőkönyvek feldolgozását és továbbítását.
 
-[^1]: A 7. § (2) bekezdés d) pontja az 50/2012. (XII. 4.) KIM rendelet 24. § c) pontja szerint módosított szöveg.
-[^2]: A 7. § (2) bekezdés u) pontja az 50/2012. (XII. 4.) KIM rendelet 24. § c) pontja szerint módosított szöveg.
+[^3]: A 6. § az 50/2012. (XII. 4.) KIM rendelet 24. § b) pontja szerint módosított szöveg.
+[^4]: A 7. § (2) bekezdés d) pontja az 50/2012. (XII. 4.) KIM rendelet 24. § c) pontja szerint módosított szöveg.
+[^5]: A 7. § (2) bekezdés u) pontja az 50/2012. (XII. 4.) KIM rendelet 24. § c) pontja szerint módosított szöveg.

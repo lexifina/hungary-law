@@ -34,6 +34,8 @@ o) az adatlapok és a jegyzőkönyvek rögzítéséhez és ellenőrzéséhez, va
 
 p) a névjegyzékbe többször vagy jogosulatlanul felvettek adatainak ellenőrzéséhez, valamint az ehhez szükséges, a szavazókörbe igazolást kérő, névjegyzéken még nem szereplő választópolgárokat tartalmazó lista (a továbbiakban: segédlista) előállításához.
 
-(3) Az okmányirodával rendelkező település HVI-je és az országgyűlési egyéni választókerületi választási iroda (a továbbiakban: OEVI) a (2) bekezdésben említett feladatai mellett – az üzemzavar esetére előírtak szerint – további feladatokat is elláthat.
+(3)[^2] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának székhelye szerinti település HVI-je és az országgyűlési egyéni választókerületi választási iroda (a továbbiakban: OEVI) a (2) bekezdésben említett feladatai mellett – az üzemzavar esetére előírtak szerint – további feladatokat is elláthat.
 
 (4) A külképviseleti választási iroda (a továbbiakban: KÜVI) számítógépet használ a külképviseleti névjegyzék, a szavazólapok és egyéb iratok előállításához.
+
+[^2]: A 4. § (3) bekezdése az 50/2012. (XII. 4.) KIM rendelet 24. § a) pontja szerint módosított szöveg.
