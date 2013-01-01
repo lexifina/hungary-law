@@ -58,7 +58,7 @@ b) másik lakóingatlanban nem rendelkezik tulajdoni hányaddal sem ő, sem a ve
 
 8.[^5] késedelmes jelzáloghitel: a fel nem mondott és e rendelet hatálybalépésének időpontjában törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege – devizahitel vagy deviza alapú hitel esetében annak a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított ellenértéke – az e rendelet hatálybalépésének napján érvényes minimálbér közterhekkel csökkentett (nettó) összegét meghaladja;
 
-9.[^6] késedelmes deviza jelzáloghitel: a fel nem mondott és 2011. szeptember 30-án 90 napot meghaladó törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege a 2011. szeptember 30-án érvényes minimálbér közterhekkel csökkentett (nettó) összegét eléri;
+9.[^6] késedelmes deviza jelzáloghitel: a fel nem mondott és 2011. szeptember 30-án 90 napot meghaladó törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege a 2011. szeptember 30-án érvényes minimálbér összegét eléri;
 
 10. komfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 3. pontjában meghatározott lakás;
 
@@ -102,7 +102,13 @@ ba) amelyet első ízben természetes személy részére értékesítenek, vagy
 
 bb) amelyet másodízben értékesítenek természetes személy részére, feltéve, hogy a második eladó hitelintézet vagy ingatlan-forgalmazással üzletszerűen foglalkozó jogi személy, jogi személyiség nélküli társaság, egyéni vállalkozó;
 
-16. ügyleti kamat: a kamattámogatott kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás.
+16. ügyleti kamat: a kamattámogatott kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás;
+
+17.[^8] bővítés: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül – ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is – a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység;
+
+18.[^9] hasznos alapterület: az OTÉK fogalom-meghatározásának keretein belül a lakás fűthető helyiségei alapterületének összege;
+
+19.[^10] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
@@ -110,5 +116,8 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 [^3]: Az 1. § (1) bekezdés 3. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba, szövege a 71/2012. (IV. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés 6. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
 [^5]: Az 1. § (1) bekezdés 8. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^6]: Az 1. § (1) bekezdés 9. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^6]: Az 1. § (1) bekezdés 9. pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (1) bekezdés 12. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^8]: Az 1. § (1) bekezdés 17. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be.
+[^9]: Az 1. § (1) bekezdés 18. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
+[^10]: Az 1. § (1) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.

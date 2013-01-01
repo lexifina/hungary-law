@@ -2,7 +2,7 @@
 
 15. § (1) Az otthonteremtési kamattámogatásra való jogosultság megállapítását, az otthonteremtési kamattámogatással érintett kölcsönök nyújtását, folyósítását és a törlesztés megállapítását, valamint az otthonteremtési kamattámogatásnak a központi költségvetéssel való elszámolását hitelintézet végzi.
 
-(2) A hitelintézet az otthonteremtési kamattámogatás folyósításáról és az azzal való elszámolás rendjéről, a pénzügyi ellenőrzéshez szükséges adatszolgáltatásról, valamint az e rendelet szerinti egyéb kötelezettségekről a miniszterrel és a Kincstárral legkésőbb e rendelet hatálybalépését követő 90 napon belül szerződést köt. Az otthonteremtési kamattámogatás elszámolására a hitelintézet e szerződés megkötését követően jogosult.
+(2)[^72] A hitelintézet az otthonteremtési kamattámogatás folyósításáról és az azzal való elszámolás rendjéről, a pénzügyi ellenőrzéshez szükséges adatszolgáltatásról, valamint az e rendelet szerinti egyéb kötelezettségekről a miniszterrel és a Kincstárral szerződést köt. Az otthonteremtési kamattámogatás elszámolására a hitelintézet e szerződés megkötését követően jogosult.
 
 (3) Az otthonteremtési kamattámogatást az állam nevében a Kincstár nyújtja a folyósító hitelintézet utólagos havi elszámolása alapján.
 
@@ -31,3 +31,5 @@ f) adóazonosító jel.
 (9) A hitelintézet az igényelt kamattámogatás éves összegét évente egyszer, az éves elszámolás keretében közli a támogatott személlyel.
 
 (10) A (6)–(8) bekezdés szerinti adatszolgáltatások teljesítésének elmaradása esetén a miniszter az otthonteremtési kamattámogatás folyósítását felfüggeszti.
+
+[^72]: A 15. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
