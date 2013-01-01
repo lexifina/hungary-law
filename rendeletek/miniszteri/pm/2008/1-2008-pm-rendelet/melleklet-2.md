@@ -8,7 +8,7 @@
 
 | A települési jegyző igazolása Eljáró hatóság megnevezése: Ügyintéző neve: Ügyszám: Igazolom, hogy fent nevezett gyermek a ⬜⬜⬜⬜⬜⬜⬜⬜ – ⬜⬜⬜⬜ közötti időszakban a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint rendszeres gyermekvédelmi kedvezményre volt jogosult. ..............................., 200........................ P. H. .................................. Jegyző |
 
-| A gyámhivatal igazolása Eljáró hatóság megnevezése: Ügyintéző neve: Ügyszám: ............................................................................. Igazolom, hogy fent nevezett gyermek a ⬜⬜⬜⬜ évben a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint a ⬜⬜⬜⬜ – ⬜⬜⬜⬜ közötti időszakban, a ⬜⬜⬜⬜ – ⬜⬜⬜⬜ közötti időszakban átmeneti/tartós nevelésbe vett gyermek. ..............................., 200........................ P. H. .................................. Gyámhivatal |
+| A járási (fővárosi kerületi) gyámhivatal igazolása Eljáró hatóság megnevezése: Ügyintéző neve: Ügyszám: ............................................................................. Igazolom, hogy fent nevezett gyermek a ⬜⬜⬜⬜ évben a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint a ⬜⬜⬜⬜ – ⬜⬜⬜⬜ közötti időszakban, a ⬜⬜⬜⬜ – ⬜⬜⬜⬜ közötti időszakban átmeneti/tartós nevelésbe vett gyermek. ..............................., 200........................ P. H. .................................................................... Járási (fővárosi kerületi) gyámhivatal |
 
 ## Tájékoztató
 
