@@ -14,7 +14,7 @@
 
 | 6. | (Mezőgazdasági Szakigazgatási Hivatalnál rendelkezésre álló, illetve azokból számítható adatok:) | Talajvédelmi Információs és Monitoring rendszer adatai az összes mérőhelyre vonatkozóan | – Talaj szervesanyag tartalma; – Szén-dioxid produkció; – Összes nitrogén tartalom; nitrát-nitrit tartalom | 1992-től a rendelkezésre álló adatsor |  |
 
-| 7. |  |  | Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (Üht.) hatálya alá tartozó ágazatok energiafelhasználási adatai (2005-től), visszamenőleg korrigált adatok jelzése | 2005-ig visszamenőleg, a teljes adatsor |  |
+| 7. |  |  | Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény hatálya alá tartozó ágazatok energiafelhasználási adatai (2005-től), visszamenőleg korrigált adatok jelzése | 2005-ig visszamenőleg, a teljes adatsor |  |
 
 | 8. |  | Hulladékkal kapcsolatos adatok | - Hulladékégetés során keletkező hasznosított energia mennyisége; – Hasznosított biogáz és a keletkező energia mennyisége | az adatok rendelkezésre állásának megfelelően |  |
 

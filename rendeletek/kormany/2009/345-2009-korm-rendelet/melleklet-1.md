@@ -3,4 +3,4 @@
 1. melléklet a 345/2009. (XII. 30.) Korm. rendelethez[^19]
 
 [^18]: A 15. § a 11. § (2) bekezdése alapján 2010. január 7. napján lép hatályba.
-[^19]: Az 1. melléklet a 378/2011. (XII. 31.) Korm. rendelet 84. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet a 378/2011. (XII. 31.) Korm. rendelet 84. §-ával megállapított, a 410/2012. (XII. 28.) Korm. rendelet 32. §-a szerint módosított szöveg.
