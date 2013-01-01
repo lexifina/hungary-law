@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-46-30-4
 | 2012-01-01 | 1994-46-30-41.26 | 98/2011. (XII. 31.) OGY határozat |
 | 2012-04-20 | 1994-46-30-41.27 | 36/2012. (IV. 19.) OGY határozat |
 | 2012-11-08 | 1994-46-30-41.28 | 73/2012. (XI. 7.) OGY határozat |
+| 2013-01-01 | 1994-46-30-41.29 | 36/2012. (IV. 19.) OGY határozat |

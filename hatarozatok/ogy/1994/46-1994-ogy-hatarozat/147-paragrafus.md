@@ -1,14 +1,14 @@
-## 146/A. §[^356]
+## 146/A. §[^357]
 
-## Az európai parlamenti képviselőcsoportok tevékenységét segítő szakértőket és ügyviteli dolgozókat a gazdasági főigazgató, a képviselőcsoport vezetőjének javaslatára, alkalmazza. A gazdasági főigazgató – jogszabálysértés esetét kivéve – az európai parlamenti képviselőcsoport vezetőjének javaslatait az alkalmazás, illetve annak megszüntetése tárgyában köteles elfogadni. E dolgozókkal szemben az egyéb munkáltatói jogokat – átruházott hatáskörben – az európai parlamenti képviselőcsoport vezetője gyakorolja.
+## Az európai parlamenti képviselőcsoportok tevékenységét segítő szakértőket és ügyviteli dolgozókat a főigazgató, a képviselőcsoport vezetőjének javaslatára, alkalmazza. A főigazgató – jogszabálysértés esetét kivéve – az európai parlamenti képviselőcsoport vezetőjének javaslatait az alkalmazás, illetve annak megszüntetése tárgyában köteles elfogadni. E dolgozókkal szemben az egyéb munkáltatói jogokat – átruházott hatáskörben – az európai parlamenti képviselőcsoport vezetője gyakorolja.
 
-## 147. §[^357]
+## 147. §[^358]
 
-(1)[^358] Az Országgyűlés Hivatala könyvtári tevékenységet ellátó hivatali szerve prézens könyvtárként, az állam- és jogtudomány, a politikatudomány, a legújabbkori magyar és egyetemes történelem, valamint a magyar parlament dokumentumainak országos feladatkörű tudományos, nyilvános szakkönyvtára és információs központja. Országos tudományos szakkönyvtári kiemelt feladata e körben a hazai szakirodalom teljes körű és a külföldi szakirodalom válogató jellegű beszerzése és feldolgozása. A külföldi parlamentek, az ENSZ és szakosított szervezetei, valamint az európai uniós szervezetek kiadványainak gyűjtése és feldolgozása.
+(1)[^359] Az Országgyűlés Hivatala könyvtári tevékenységet ellátó hivatali szerve prézens könyvtárként, az állam- és jogtudomány, a politikatudomány, a legújabbkori magyar és egyetemes történelem, valamint a magyar parlament dokumentumainak országos feladatkörű tudományos, nyilvános szakkönyvtára és információs központja. Országos tudományos szakkönyvtári kiemelt feladata e körben a hazai szakirodalom teljes körű és a külföldi szakirodalom válogató jellegű beszerzése és feldolgozása. A külföldi parlamentek, az ENSZ és szakosított szervezetei, valamint az európai uniós szervezetek kiadványainak gyűjtése és feldolgozása.
 
-(2)[^359] Az Országgyűlés Hivatala könyvtári tevékenységet ellátó hivatali szerve alapszolgáltatásai ingyenesek, egyéb szolgáltatásai térítés ellenében vehetők igénybe.
+(2)[^360] Az Országgyűlés Hivatala könyvtári tevékenységet ellátó hivatali szerve alapszolgáltatásai ingyenesek, egyéb szolgáltatásai térítés ellenében vehetők igénybe.
 
-[^356]: A 146/A. §-t a 68/2004. (VI. 22.) OGY határozat 5. §-a iktatta be.
-[^357]: A 147. § a 71/1997. (VII. 17.) OGY határozat 53. §-ával megállapított szöveg. A 147. §-t megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 65. pontja hatályon kívül helyezte.
-[^358]: A 147. § (1) bekezdése a 36/2012. (IV. 19.) OGY határozat 73. § 47. pontja szerint módosított szöveg.
-[^359]: A 147. § (2) bekezdése a 36/2012. (IV. 19.) OGY határozat 73. § 47. pontja szerint módosított szöveg.
+[^357]: A 146/A. §-t a 68/2004. (VI. 22.) OGY határozat 5. §-a iktatta be, szövege a 36/2012. (IV. 19.) OGY határozat 73. § 46. pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító határozat 75. § (4) bekezdését.
+[^358]: A 147. § a 71/1997. (VII. 17.) OGY határozat 53. §-ával megállapított szöveg. A 147. §-t megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 65. pontja hatályon kívül helyezte.
+[^359]: A 147. § (1) bekezdése a 36/2012. (IV. 19.) OGY határozat 73. § 47. pontja szerint módosított szöveg.
+[^360]: A 147. § (2) bekezdése a 36/2012. (IV. 19.) OGY határozat 73. § 47. pontja szerint módosított szöveg.
