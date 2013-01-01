@@ -4,7 +4,7 @@
 
 a) haladéktalanul jelentést tesz az MgSzH Központnak;
 
-b) ellenőrzi a kerületi főállatorvos intézkedéseit, szükség esetén azokat kiegészíti vagy módosítja;
+b)[^12] ellenőrzi a járási főállatorvos intézkedéseit, szükség esetén azokat kiegészíti vagy módosítja;
 
 c) elrendelheti magánállatorvosok közcélú igénybevételét;
 
@@ -25,3 +25,5 @@ b) a megfigyelési körzet területét a fertőzött gazdaság körüli legaláb
 (5) A Newcastle-betegség kitörése esetén a MgSzH területi szervének vezetője felállítja a HJK-t, mely a készenléti tervben leírtak szerint látja el feladatait.
 
 (6) Az országos készenléti terv alapján az MgSzH területi szervei megyei készenléti tervet készítenek és azt folyamatosan naprakészen tartják.
+
+[^12]: A 14. § (1) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.

@@ -6,4 +6,6 @@ a) azonnal megkezdi a betegség megállapításához szükséges vizsgálatokat,
 
 b) az állományt azonnal megfigyelési zárlat alá helyezi annak érdekében, hogy a gazdaságot vagy a galambdúcot ne hagyja el sem galamb vagy más, fogságban tartott madár, sem semmilyen más dolog, ami alkalmas a Newcastle-betegség terjesztésére.
 
-(3) A (2) bekezdésben előírt intézkedéseket mindaddig fenn kell tartani, amíg a kerületi főállatorvos a Newcastle-betegség gyanúját ki nem zárja.
+(3)[^5] A (2) bekezdésben előírt intézkedéseket mindaddig fenn kell tartani, amíg a járási főállatorvos a Newcastle-betegség gyanúját ki nem zárja.
+
+[^5]: A 11. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.

@@ -26,7 +26,7 @@ b) a másodlagos és az azt követő járványkitörések esetén a Newcastle-be
 
 11. gazdaság: olyan létesítmény, ahol baromfit állandóan vagy átmeneti jelleggel nevelnek, illetve tartanak, és amely egy telepet is magába foglalhat;
 
-12. hatósági megállapítás: a kerületi főállatorvos határozata, amely szerint a Newcastle-betegség előfordulása megállapításra került az NRL eredményei alapján vagy az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a Newcastle-betegségre jellemző klinikai tünetek és kórbonctani elváltozások alapján;
+12.[^1] hatósági megállapítás: a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetőjének (a továbbiakban: járási főállatorvos) határozata, amely szerint a Newcastle-betegség előfordulása megállapításra került az NRL eredményei alapján vagy az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a Newcastle-betegségre jellemző klinikai tünetek és kórbonctani elváltozások alapján;
 
 13. Helyi Járványvédelmi Központ (a továbbiakban: HJK): a Mezőgazdasági Szakigazgatási Hivatal területi szervén (a továbbiakban: MgSzH területi szerve) belüli, a betegség felszámolását irányító szervezet, melynek felállítását a területi szerv vezetője rendeli el járványkitörés esetén;
 
@@ -71,3 +71,5 @@ f) galambdúc: versenygalambok tartására, illetve tenyésztésére használt l
 25. termelési egység: a gazdaságon belüli olyan egység, amelyet a hatósági állatorvos az ugyanabban a gazdaságban lévő más egységektől teljesen függetlennek minősít annak elhelyezkedése, és az ott tartott baromfi vagy más, fogságban tartott madarak napi ellátása szempontjából;
 
 26. versenygalamb: a galambdúcból elszállított vagy elszállítani szándékozott galamb, amit azért engednek el, hogy szabadon szállhasson vissza a galambdúcba vagy más úti célhoz.
+
+[^1]: A 2. § 12. pontja a 151/2012. (XII. 29.) VM rendelet 38. § a) pontja szerint módosított szöveg.

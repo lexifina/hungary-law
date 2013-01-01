@@ -1,6 +1,6 @@
 ## A védő- és megfigyelési körzet szabályai
 
-7. § (1) Aki a védő- és megfigyelési körzeten belül baromfit tart, köteles a hasznosítási irányt, a baromfitartó gazdaság székhelyét, az állattartás helyét és az állomány nagyságát a kerületi főállatorvosnak haladéktalanul bejelenteni.
+7. § (1)[^3] Aki a védő- és megfigyelési körzeten belül baromfit tart, köteles a hasznosítási irányt, a baromfitartó gazdaság székhelyét, az állattartás helyét és az állomány nagyságát a járási főállatorvosnak haladéktalanul bejelenteni.
 
 (2) A védőkörzetben
 
@@ -27,3 +27,5 @@ a) azonnali levágás céljából lehetőleg a védő- vagy megfigyelési körze
 b) napos baromfi vagy tojójérce szállítása a megfigyelési körzeten belüli gazdaságba, ahol nem tartanak más baromfit. Amennyiben erre nincs lehetőség, az MgSzH területi szerve – az Európai Bizottság jóváhagyását követően – engedélyezheti, hogy a baromfit a megfigyelési körzeten kívüli gazdaságba szállítsák. A gazdaságot a 10. § (1) bekezdése szerinti hatósági ellenőrzés alá kell vonni;
 
 c) keltetőtojásoknak az MgSzH területi szerve által kijelölt keltetőbe történő szállítása; az elszállítás előtt a tojásokat és a csomagolóanyagot fertőtleníteni kell.
+
+[^3]: A 7. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.
