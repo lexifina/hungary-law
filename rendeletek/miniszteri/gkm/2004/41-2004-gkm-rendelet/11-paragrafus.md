@@ -20,7 +20,7 @@ a)[^28] PÁV vagy az NKH Központi Hivatalának határozata,
 
 b) vezetői engedély erre vonatkozó bejegyzése,
 
-c) okmányiroda által kiállított, a megszerzett PÁV minősítés igazolását tartalmazó okirat.
+c)[^29] fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szervezeti egységeként működő okmányiroda által kiállított, a megszerzett PÁV minősítés igazolását tartalmazó okirat.
 
 (6) A pályaalkalmassági vizsgálat során, e rendelet hatálybalépését megelőzően szerzett pályaalkalmassági minősítés a vezetői engedélybe történt – az alábbiakban felsorolt – bejegyzések valamelyikével is igazolható:
 
@@ -46,13 +46,14 @@ ca) az 1978. április 1-je után kiadott gépjárműkezelői bizonyítvány,
 
 cb) III. pályaalkalmassági kategória megszerzését igazoló PÁV határozat.
 
-(7)–(8)[^29]
+(7)–(8)[^30]
 
-(9)–(10)[^30]
+(9)–(10)[^31]
 
 [^25]: A 11. § (1) bekezdés bevezető szövegrésze a 48/2009. (IX. 30.) KHEM rendelet 33. § (3) bekezdése szerint módosított szöveg.
 [^26]: A 11. § (1) bekezdés a)–b) pontját a 48/2009. (IX. 30.) KHEM rendelet 33. § (3) bekezdése hatályon kívül helyezte.
 [^27]: A fegyveres erők részére történő közúti járművezető képzésről, vizsgáztatásról és az ehhez kapcsolódó vezetői engedély kiadásáról szóló 22/1992. (XI. 25.) KHVM–HM–BM együttes rendelet 3. §-a (1) bekezdésének a) pontja.
 [^28]: A 11. § (5) bekezdésének a) pontja a 97/2006. (XII. 28.) GKM rendelet 11. § (1) bekezdésének f) pontja szerint módosított szöveg.
-[^29]: A 11. § (7)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 173. pontja hatályon kívül helyezte.
-[^30]: A 11. § (9)–(10) bekezdését a 24/2005. (IV. 21.) GKM rendelet 39. §-ának (2) bekezdése hatályon kívül helyezte.
+[^29]: A 11. § (5) bekezdés c) pontja a 76/2012. (XII. 22.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
+[^30]: A 11. § (7)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 173. pontja hatályon kívül helyezte.
+[^31]: A 11. § (9)–(10) bekezdését a 24/2005. (IV. 21.) GKM rendelet 39. §-ának (2) bekezdése hatályon kívül helyezte.
