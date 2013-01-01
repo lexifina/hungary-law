@@ -16,4 +16,4 @@ c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelem
 
 d)
 
-(5) Az egészségbiztosító méltányosságból a biztosítottat indokolt esetben segélyben részesítheti.
+(5) Az egészségbiztosító méltányosságból a biztosítottat és a kizárólag egészségügyi szolgáltatásra jogosult személyt indokolt esetben segélyben részesítheti.

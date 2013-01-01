@@ -2,13 +2,13 @@
 
 70. § (1) Az egészségbiztosító a követelését
 
-a) a 66. § szerinti visszafietésre kötelező határozattal, illetőleg megtérítésre kötelező fizetési meghagyással,
+a) a 66. § szerinti visszafizetésre kötelező határozattal, illetve megtérítésre kötelező fizetési meghagyással,
 
-b) a 67–68. §-ok szerinti megtérítésre kötelező fizetési meghagyással,
+b) a 67–68. § szerinti megtérítésre kötelező fizetési meghagyással,
 
 c) a 68/B. § szerinti megtérítésre kötelező határozattal
 
-érvényesíti. A fizetési meghagyás fellebbezéssel meg nem támadható hatósági határozat.
+érvényesíti. A fizetési meghagyás hatósági határozat, a kiadására irányuló eljárásban hozott döntés ellen nincs helye fellebbezésnek.
 
 (2) A 66–68. §-on alapuló követelés a felvett ellátás kifizetésétől, illetőleg az egészségügyi vagy baleseti egészségügyi szolgáltatás igénybevételétől számított öt éven belül, míg a 68/B. §-on alapuló követelés a gyógyszerhez, gyógyászati segédeszközhöz vagy gyógyászati ellátáshoz nyújtott támogatás igénybevételétől számított öt éven belül érvényesíthető. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, a 66–68. §-on alapuló követelés öt éven túl, a 68/B. §-on alapuló követelés pedig öt éven túl is érvényesíthető mindaddig, amíg a büntethetőség el nem évül.
 

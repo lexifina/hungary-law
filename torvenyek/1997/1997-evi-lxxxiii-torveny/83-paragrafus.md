@@ -4,7 +4,7 @@
 
 (2) Felhatalmazást kap a Kormány
 
-a) a finanszírozási szerződések megkötésére és tartalmára, valamint az egészségügyi szolgáltatások finanszírozására vonatkozó szabályok
+a) a finanszírozási szerződések megkötésére és tartalmára, valamint az egészségügyi szolgáltatások finanszírozására és az Egészségbiztosítási Alapból folyósított pénzeszközök felhasználásának pénzügyi ellenőrzésére, továbbá a kifizetéshez szükséges jóváhagyás esetköreire, jogcímeire vonatkozó szabályok,
 
 b) a keresőképesség elbírálásával kapcsolatos eljárás rendjének,
 
@@ -78,6 +78,8 @@ d) határozza meg a térségi várólista alapján történő ellátás-igénybe
 
 (2e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg azoknak az eseteknek a körét, amikor nem köthető a nem finanszírozott egészségügyi szolgáltató orvosával gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító szerződés.
 
+(2f) Felhatalmazást kap a Kormány, hogy a társadalombiztosítási támogatással rendelhető gyógyszerek és a gyógyászati segédeszközök rendelése, kiadása és felhasználása ellenőrzésének szabályait rendeletben állapítsa meg.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
@@ -106,7 +108,7 @@ c) az egyes főbb betegségcsoportok finanszírozási, vizsgálati és terápiá
 
 d) a meddőség kezelésére vonatkozó rendelkezéseket,
 
-e) a szanatóriumi ellátásokat,
+e)
 
 f) a betegszállításra jogosító kúraszerű kezeléseket,
 
@@ -164,7 +166,11 @@ e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egy
 
 f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
 
-g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait, valamint az ellenjegyzéssel kapcsolatos eljárási szabályokat.
+g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait, valamint az ellenjegyzéssel kapcsolatos eljárási szabályokat,
+
+h) a társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét,
+
+i) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat.
 
 (7)
 

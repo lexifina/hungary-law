@@ -12,7 +12,7 @@ e) a külön jogszabály rendelkezései szerinti feltételeket,
 
 f) a külön jogszabályban meghatározott esetben az elszámolható szolgáltatások mennyiségi korlátjait,
 
-g) a 35. § (1) bekezdése szerint a finanszírozásra kapott összegek elkülönített kezelésére szolgáló számla számát,
+g)
 
 h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is,
 
@@ -34,15 +34,15 @@ e) az egészségügyi szolgáltató, valamint – ha az egészségügyi szolgál
 
 (4) A finanszírozási szerződés módosítását – a kapacitásokat szabályozó külön jogszabályokra figyelemmel – bármelyik fél kezdeményezheti.
 
-(5) Az egészségügyi szolgáltató köteles bejelenteni
+(5) Az egészségügyi szolgáltató – a változás bekövetkezésétől számított 15 napon belül – köteles bejelenteni
 
-a) ha a működési engedélyét módosították,
+a) a személyi és tárgyi feltételek változását, amennyiben azok a finanszírozott feladatkör ellátását érintik,
 
-b) a személyi és tárgyi feltételek változását, amennyiben azok a finanszírozott feladatkör ellátását érintik,
+b) ha nem minősül a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek,
 
-c) ha nem minősül a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek,
+c) ha az általa igénybe vett közreműködő egészségügyi szolgáltató – annak a közreműködői szerződésben foglaltak szerinti bejelentése alapján – nem minősül a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek,
 
-d) ha az általa igénybe vett közreműködő egészségügyi szolgáltató – annak a közreműködői szerződésben foglaltak szerinti bejelentése alapján – nem minősül a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek.
+d) ha vele szemben csőd-, felszámolási vagy végelszámolási eljárás megindítására került sor.
 
 (6) Amennyiben az egészségügyi szolgáltató az (5) bekezdésben foglalt kötelezettségét elmulasztja, köteles az ebből eredő finanszírozási többletet visszatéríteni.
 
@@ -50,7 +50,7 @@ d) ha az általa igénybe vett közreműködő egészségügyi szolgáltató –
 
 (8) Amennyiben az egészségügyi szolgáltató a (7) bekezdésben meghatározott kötelezettségének legkésőbb a köztartozás esedékessége időpontjának lejártától, illetve a lejárt esedékességű köztartozásában bekövetkezett változás időpontjától számított 30 napon belül nem tesz eleget, illetőleg ha a lejárt esedékességű köztartozását 90 napon belül nem egyenlíti ki, a finanszírozási szerződését fel kell mondani.
 
-(9) Az egészségügyi szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató negyedévente, a tárgyidőszakot követő 45 napon belül köteles
+(9) Az egészségügyi szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató negyedévente, a tárgyidőszakot követő 30 napon belül köteles
 
 a) a bevételeire,
 
@@ -66,7 +66,7 @@ f) a készletállományára és
 
 g) a beruházásaira
 
-vonatkozó – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. §-a alapján üzleti titoknak nem minősülő – adatokat az egészségbiztosító számára megküldeni. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 10 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
+vonatkozó – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. §-a alapján üzleti titoknak nem minősülő – adatokat az egészségbiztosító számára megküldeni. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 15 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
 
 (10) Amennyiben az egészségügyi szolgáltató a (9) bekezdés szerinti kötelezettségét határidőn belül nem teljesíti, az egészségbiztosító új határidő kitűzésével és a mulasztás (11), illetve (12) bekezdés szerinti következményeiről történő tájékoztatással felszólítja az egészségügyi szolgáltatót a (9) bekezdés szerinti kötelezettsége teljesítésére. A felszólítással egyidejűleg – annak tényéről – értesíteni kell az egészségügyi szolgáltató fenntartóját is.
 

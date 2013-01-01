@@ -8,7 +8,11 @@ c) a társadalombiztosítási támogatásba még be nem fogadott, támogatással
 
 d) támogatást nyújthat méltányosságból már támogatott gyógyászati segédeszköz javítási díjához,
 
+e) támogatást nyújthat már támogatott, egyedi méretvétel alapján gyártott gyógyászati segédeszköz alkatrészének cseréjéhez, amennyiben a cserét a beteg testi állapotában bekövetkezett változás indokolja.
+
 (2) Az egészségbiztosító méltányosságból a gyógyászati segédeszközök árához a külön jogszabályban foglaltaktól eltérő gyakorisággal támogatást nyújthat.
+
+(2a) Az egészségbiztosító méltányosságból – az egészségügyért felelős miniszter rendeletében meghatározott eszközök esetében – a támogatással rendelhető gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat.
 
 (3) A méltányossági jogkör gyakorlása nem terjed ki
 
@@ -18,13 +22,13 @@ b) a szakmai szempontok figyelembevételével összeállított várólista alapj
 
 igénybe vehető ellátásokra,
 
-c) a külön jogszabály alapján háromhavi terápiás (HTL) alapú támogatásban részesített, illetve az egyszerűsített támogatási jegyzékben felsorolt funkcionális csoportokba (alcsoportokba) tartozó gyógyászati segédeszközök körére,
+c)
 
 d) az (1) bekezdés c) pontja szerinti gyógyászati segédeszközre, amennyiben a biztosított adott indikációban a gyógyászati segédeszközt – külön jogszabály alapján – támogatással kölcsönzi.
 
 (4) Nem nyújtható az (1) bekezdés c) pontja szerinti támogatás
 
-a) olyan gyógyszerhez vagy gyógyászati segédeszközhöz, amelyre vonatkozóan a Gyftv. szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányán alapult,
+a) olyan gyógyszerhez, amelyre vonatkozóan a Gyftv. szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányán alapult,
 
 b) olyan, Magyarországon az adott indikációra forgalomba hozatali engedéllyel rendelkező gyógyszerhez, amely esetén
 
@@ -32,11 +36,13 @@ ba) a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetle
 
 bb) egy beteg tekintetében elérte az engedély időtartamára vonatkozóan a 8 millió Ft támogatás összeget,
 
-kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van.
+kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van,
+
+c) az 1000 forint havi terápiás költséget el nem érő készítményekre.
 
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 
-a) gyógyszerhez az E. Alap Méltányossági gyógyszertámogatás jogcím időarányos előirányzatának terhére,
+a) gyógyszerhez az E. Alap gyógyszertámogatás jogcímcsoport előirányzatának a különös méltánylást érdemlő körülmények esetén felhasználható összeg időarányos részének terhére,
 
 b) gyógyászati segédeszközhöz az E. Alap Gyógyászati segédeszköz támogatás jogcímcsoport előirányzatának a különös méltánylást érdemlő körülmények esetén felhasználható összeg időarányos részének terhére
 

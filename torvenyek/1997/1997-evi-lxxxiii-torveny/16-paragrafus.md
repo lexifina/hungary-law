@@ -4,9 +4,9 @@
 
 a) orvos előírása szerinti vizsgálatra, gyógykezelésre, gyógyászati ellátásra és foglalkoztatás-terápiára,
 
-b) az egészségbiztosításért felelős miniszter rendeletében meghatározott esetekben szanatóriumi ellátásra,
+b)
 
-c) amennyiben az orvosi rehabilitációra fekvőbeteg-gyógyintézetben kerül sor, illetve a b) pontban foglalt esetben a 14. § (2) bekezdés c)–f) pontjaiban foglalt ellátásokra és gyógyászati ellátásra,
+c) amennyiben az orvosi rehabilitációra fekvőbeteg-gyógyintézetben kerül sor, a 14. § (2) bekezdés c)–f) pontjaiban foglalt ellátásokra és gyógyászati ellátásra,
 
 d) szenvedélybetegsége esetén a külön jogszabályban meghatározott rehabilitációs ellátásra.
 

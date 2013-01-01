@@ -1,0 +1,1 @@
+83/B. § Ez a törvény az önálló vállalkozói tevékenységet folytató férfiak és nők közötti egyenlő bánásmód elvének alkalmazásáról és a 86/613/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2010. július 7-i 2010/41/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

@@ -16,7 +16,7 @@ g)
 
 h)
 
-i) az egészségbiztosításért felelős miniszter rendeletében foglalt esetekben szanatóriumi ellátásra;
+i)
 
 j)
 

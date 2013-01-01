@@ -10,7 +10,7 @@ támogatást állapít meg,
 
 b) azt a finanszírozott egészségügyi szolgáltató e jogosultságra kijelölt orvosa, illetve az egészségbiztosítóval e jogosultságra szerződést kötött orvos rendeli, és
 
-c) a rendelés a külön jogszabályban foglalt szakmai szabályok szerint történik, és
+c) a rendelés a (4) bekezdésben foglaltak szerint történik, és
 
 d) az adott gyógyászati segédeszköz árához, illetve kölcsönzési díjához az egészségbiztosító a külön jogszabályban meghatározott eljárásrend szerint támogatást állapít meg, továbbá javítási díjához, illetőleg a gyógyászati ellátás árához külön jogszabály támogatást rendel, és
 

@@ -4,7 +4,7 @@
 
 a) biztosított:
 
-aa) az egészségbiztosítás egészségügyi szolgáltatásainak tekintetében a Tbj. 5. §-a szerinti biztosított, valamint a Tbj. 13. §-a és 16. §-ának (1) bekezdése szerint egészségügyi szolgáltatásra jogosult személy,
+aa) az egészségbiztosítás egészségügyi szolgáltatásainak tekintetében a Tbj. 5. §-a szerinti biztosított, valamint a Tbj. 13. §-a és a 16. § (1) és (3) bekezdése szerint egészségügyi szolgáltatásra jogosult személy,
 
 ab) az egészségbiztosítás pénzbeli ellátásai tekintetében a Tbj. 5. §-a szerinti biztosított,
 

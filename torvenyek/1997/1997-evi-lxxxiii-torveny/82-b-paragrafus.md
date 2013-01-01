@@ -1,0 +1,1 @@
+82/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 64. § (2) bekezdésében foglalt rendelkezés hatálybalépését megelőzően benyújtott kérelmeket a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 2012. december 31-én hatályos rendelkezései alapján kell elbírálni.

@@ -32,6 +32,8 @@ e) a biztosított hátrányára a biztosított kérése alapján
 
 lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségbiztosításért felelős miniszter rendeletben határozza meg.
 
+(3b) A finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a biztosítottnak nem minősülő betegek ellátása – a sürgős szükség esetének kivételével – nem eredményezheti a biztosítottak – várólista illetve betegfogadási lista szerinti – várakozási idejének meghosszabbodását.
+
 (4) A keresőképtelen biztosítottat – a (3) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
 
 (5) A transzplantációs várólistára való felvételre jogosult:
