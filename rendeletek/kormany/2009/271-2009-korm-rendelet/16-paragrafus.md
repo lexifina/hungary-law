@@ -1,6 +1,6 @@
 ## A vasúti társaság felelőssége a szerződésszegéssel okozott károkért
 
-16. § (1)[^5] Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására 30 percet meghaladó késéssel történő érkezése esetén a vasúti társaság köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.
+16. § (1)[^5] Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására késéssel történő érkezése esetén a vasúti társaság köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.
 
 (2) Nem minősül járatkimaradásnak vagy késésnek, ha az utasok továbbszállításáról a vasúti társaság oly módon gondoskodott, vagy arra más vonattal lehetőség volt úgy, hogy az utas vonatkimaradás esetében 180 percet, a vonat késése esetén 30 percet meg nem haladó késéssel a célállomására megérkezzék.
 
@@ -14,4 +14,4 @@ b) 30 percet meghaladó késés esetében az ötszörösét.
 
 (5) A kártérítési igény elbírálásával kapcsolatos részletes szabályokat – ideértve a kárigény-bejelentés helyét, a kártérítés jogalapját alátámasztó dokumentumok körét és a vonatkozó eljárási szabályokat – a vasúti társaság az üzletszabályzatában határozza meg.
 
-[^5]: [A 16. § (1) bekezdésének a 25. § (2) bekezdésével megállapított, a 24. § (2) bekezdése alapján 2013. január 1-jétől hatályos szövege: „(1) Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására késéssel történő érkezése esetén a vasúti társaság köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.”.]
+[^5]: A 16. § (1) bekezdése a 25. § (2) bekezdésével megállapított szöveg.
