@@ -38,47 +38,55 @@
 
 | 18. Fizetett kamatok és kamatjellegű ráfordítások (-) |  |  |
 
-| 19. HTV. SZERINTI NETTÓ ÁRBEVÉTEL [(1+2+3+4+5+6+7+8+9+10+11+12)-(13+14+15+16+17+18+19)] |  |  |
+| 19. Pénzügyi lízinget végző vállalkozások esetén az eladott áruk beszerzési értéke (-) |  |  |
 
-| 20. Eladott áruk beszerzési értéke (-) |  |  |
+| 20. HTV. SZERINTI NETTÓ ÁRBEVÉTEL [(1+2+3+4+5+6+7+8+9+10+11+12)-(13+14+15+16+17+18+19)] |  |  |
 
-| 21. Közvetített szolgáltatások értéke (-) |  |  |
+| 21. Eladott áruk beszerzési értéke |  |  |
 
-| 22. Alvállalkozói teljesítések értéke |  |  |
+| 22. Közvetített szolgáltatások értéke |  |  |
 
-| 23. Anyagköltség (a Htv. 39. § (1) bek.) (-) |  |  |
+| 23. Eladott áruk beszerzési értéke és közvetített szolgáltatások értéke együttesen levonható összege (-) |  |  |
 
-| 24. Alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége |  |  |
+| 24. Alvállalkozói teljesítések értéke(-) |  |  |
 
-| 25. HTV. SZERINTI ADÓALAP [19-(20+2122+23+24)] |  |  |
+| 25. Anyagköltség (a Htv. 39. § (1) bek.) (-) |  |  |
 
-| 26. A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség (-) |  |  |
+| 26. Alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége(-) |  |  |
 
-| 27. A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |
+| 27. HTV. SZERINTI ADÓALAP [20-(23+24+25+26)] |  |  |
 
-| 28. HTV. SZERINTI ADÓALAP MENTESSÉGGEL KORRIGÁLVA [(25-26)+27] |  |  |
+| 28. A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség (-) |  |  |
 
-| 29. Adómentes adóalap önkormányzati döntés alapján (-) |  |  |
+| 29. A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |
 
-| 30. Adózás alá eső adóalap (28-29) |  |  |
+| 30. HTV. SZERINTI ADÓALAP MENTESSÉGGEL KORRIGÁLVA [(27-28)+29] |  |  |
 
-| 31. ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |
+| 31. Adómentes adóalap önkormányzati döntés alapján (-) |  |  |
 
-| 32. Kedvezmény az adóból az önkormányzat döntése alapján (-) |  |  |
+| 32. Adózás alá eső adóalap (30-31) |  |  |
 
-| 33. Az 1995. évi XCVIII. tv. 10. § (2) bek. alapján csökkentés (-) |  |  |
+| 33. ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |
 
-| 34. Az ideiglenes jelleggel megfizetett adóátalány levonható összege (-) |  |  |
+| 34. Kedvezmény az adóból az önkormányzat döntése alapján (-) |  |  |
 
-| 35. FIZETENDŐ IPARŰZÉSI ADÓ [31-(32+33+34)] |  |  |
+| 35. Az 1995. évi XCVIII. tv. 10. § (2) bek. alapján csökkentés (-) |  |  |
 
-| 36. A Htv. 40. § (3)-(4) bek. alapján megfizetett adóátalány önkormányzatra jutó összege |  |  |
+| 36. Az ideiglenes jelleggel megfizetett adóátalány levonható összege (-) |  |  |
 
-| 37. Első adóelőleg részletre bevallott összeg |  |  |
+| 37. FIZETENDŐ IPARŰZÉSI ADÓ [33-(34+35+36)] |  |  |
 
-| 38. Második adóelőleg részletre bevallott összeg |  |  |
+| 38. A Htv. 40. § (3)-(4) bek. alapján megfizetett adóátalány önkormányzatra jutó összege |  |  |
 
-| 39. Külföldön létesített telephelyre jutó adóalap |  |  |
+| 39. Első adóelőleg részletre bevallott összeg |  |  |
+
+| 40. Második adóelőleg részletre bevallott összeg |  |  |
+
+| 41. Külföldön létesített telephelyre jutó adóalap |  |  |
+
+| 42. Az export árbevétellel összefüggésben elszámolt elábé és közvetített szolgáltatás értéke |  |  |
+
+| 43. A közfinanszírozott gyógyszerek értékesítésével összefüggésben elszámolt eladott áruk beszerzési értéke |  |  |
 
 13/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^85]
 

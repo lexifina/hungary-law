@@ -17,4 +17,4 @@
 13. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^84]
 
 [^83]: Lásd MK 1995. 34. szám 1644. oldal.
-[^84]: A 13. számú melléklet az 54/2011. (XII. 29.) NGM rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^84]: A 13. számú melléklet a 45/2012. (XII. 27.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
