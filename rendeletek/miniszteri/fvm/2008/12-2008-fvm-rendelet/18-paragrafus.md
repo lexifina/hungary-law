@@ -6,8 +6,10 @@
 
 (2) Az elkülönített, fertőzött állat gondozására az állat leöléséig az állat tartójának – ha az állatgondozást nem saját maga végzi – külön gondozót kell beosztania, és részére védőöltözetről gondoskodnia. Az állatgondozó az elkülönítés helyének elhagyása előtt köteles védőöltözetét levetni, kezét és lábbelijét fertőtleníteni.
 
-(3) Ha a Hivatal állatokkal kapcsolatban álló személynek Brucella-eredetű megbetegedéséről vagy fertőzöttségéről kap értesítést, köteles az esetet a hatósági főállatorvossal kivizsgáltatni. Állatok hatóságilag megállapított brucellózisáról a Hivatal értesíti az ÁNTSZ területileg illetékes regionális intézetét.
+(3)[^2] Ha a Hivatal állatokkal kapcsolatban álló személynek Brucella-eredetű megbetegedéséről vagy fertőzöttségéről kap értesítést, köteles az esetet a hatósági főállatorvossal kivizsgáltatni. Állatok hatóságilag megállapított brucellózisáról a Hivatal értesíti a fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi) népegészségügyi intézetét.
 
 (4) A B. abortus, B. melitensis vagy B. suis baktériumokkal fertőzött állatállományok tartási helyén ebet, macskát szabadon tartani tilos. Az őrző-védő ebet a fertőződését kizáró módon kell tartani.
 
 (5) A fertőzött vagy fertőzöttségre gyanús állatok tejével és húsával, valamint az ezekből származó állati hulladékokkal az élelmiszerhigiéniai, illetve az állati hulladékok ártalmatlanítására vonatkozó külön jogszabályokban meghatározottak szerint kell eljárni.
+
+[^2]: A 18. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 26. § b) pontja szerint módosított szöveg.

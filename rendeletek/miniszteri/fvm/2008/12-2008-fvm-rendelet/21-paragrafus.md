@@ -1,4 +1,4 @@
-## 19–20. §[^1]
+## 19–20. §[^3]
 
 ## VIII. Fejezet
 
@@ -12,4 +12,4 @@
 
 (4) E rendelet hatálybalépésével egyidejűleg az Állategészségügyi Szabályzat kiadásáról szóló 41/1997. (V. 28.) FM rendelet 1. számú melléklete 197. §-ának (4) bekezdése, 514–532. §-a, az 514. §-t megelőző „Brucellózis” cím, továbbá a 24. számú függelékének 27. pontja hatályát veszti.
 
-[^1]: A 19-20. §-t és a megelőző alcímet a 63/2009. (V. 20.) FVM rendelet 4. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 19-20. §-t és a megelőző alcímet a 63/2009. (V. 20.) FVM rendelet 4. § (3) bekezdése hatályon kívül helyezte.

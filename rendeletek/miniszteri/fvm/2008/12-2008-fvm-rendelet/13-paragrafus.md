@@ -12,4 +12,6 @@ c) utasítja a hatósági főállatorvoson keresztül az illetékes hatósági �
 
 (3) A Hivatal évente legkésőbb március 1-jéig összefoglaló jelentést küld az országos főállatorvosnak és egyidejűleg e jelentés másolatát a nemzeti referencia laboratóriumnak (a továbbiakban: NRL) is megküldi tájékoztatásul. A közösségi előírások, illetve a nemzetközi ajánlások figyelembevételével az országos főállatorvos határozza meg a jelentéssel szemben támasztott követelményeket.
 
-(4) Ha a Hivatal illetékességi területén brucellózissal fertőzött állatot találtak, akkor a Hivatal köteles értesíteni az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) illetékes regionális intézetét.
+(4)[^1] Ha a Hivatal illetékességi területén brucellózissal fertőzött állatot találtak, akkor a Hivatal köteles értesíteni a fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi) népegészségügyi intézetét.
+
+[^1]: A 13. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 26. § a) pontja szerint módosított szöveg.
