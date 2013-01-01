@@ -10,7 +10,7 @@ a) az állami adóhatóság és Nemzeti Foglalkoztatási Alap, a Nyugdíjbiztos�
 
 b) a START kártya, a START PLUSZ kártya, a START EXTRA kártya és a START BÓNUSZ kártya felhasználásának és – a (4) bekezdésben foglaltak kivételével – az azokhoz kapcsolódó szociális hozzájárulási kedvezmény érvényesítésének részletes szabályait a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben megállapítsa.
 
-(3) Felhatalmazást kap a Kormány, hogy a 8. § (1) bekezdésének a) pontjában meghatározott kistérségek, települések körét – a 2. számú mellékletben meghatározott szempontok alapján – rendeletben állapítsa meg.
+(3)
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8/A. §-ban meghatározott adókedvezmény érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
 

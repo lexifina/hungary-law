@@ -6,9 +6,9 @@
 
 III. fejezet
 
-8/A. § (1) Az önkormányzati közfoglalkoztatás, valamint az országos közfoglalkoztatási program keretében költségvetési szerv által történő foglalkoztatás esetén a munkaadót a szociális hozzájárulási adóból igénybe vehető részkedvezményt illeti meg. A részkedvezmény egyenlő a közfoglalkoztatott természetes személy (munkavállaló) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér 130 százalékának tizenhárom és fél százalékával.
+8/A. § (1) A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (3) bekezdésében felsorolt közfoglalkoztatót a közfoglalkoztatási jogviszonyban történő foglalkoztatás esetére a szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg. A részkedvezmény egyenlő a közfoglalkoztatott természetes személyt az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a közfoglalkoztatottat terhelő közterhekkel és más levonásokkal nem csökkentett közfoglalkoztatási bér, de legfeljebb a közfoglalkoztatási garantált bér 130 százalékának tizenhárom és fél százalékával.
 
-(2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe.
+(2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe. Az (1) bekezdésben meghatározott szerv által történő foglalkoztatás esetén a foglalkoztató kizárólag az e §-ban szabályozott adókedvezményt érvényesítheti.
 
 (3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az Art. alapján kerül sor.
 
