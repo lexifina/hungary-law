@@ -1,21 +1,21 @@
-## 17. §[^18]
+## 17. § Az R. 3. melléklet 4. számú mintája az 1. melléklet szerint módosul.
 
-18. § (1)[^19]
+18. § (1)[^12]
 
-(2)–(3)[^20]
+(2) Az R. 10. § (2) bekezdésében a „befogadását” szövegrész helyébe az „átvételét” szöveg lép.
 
-(4)–(5)[^21]
+(3) Az R. 13. § (2) bekezdésében a „befogadását” szövegrész helyébe az „átvételét” szöveg, a „nyomtatványokon” szövegrész helyébe a „pénzforgalmi nyomtatványokon” szöveg, a „nyomtatványon” szövegrész helyébe a „pénzforgalmi nyomtatványon” szöveg lép.
 
-(6)–(7)[^22]
+(4)–(5)[^13]
 
-(8)–(9)[^23]
+(6) Az R. 32. § (3) bekezdésében a „befogadása előtt” szövegrész helyébe a „átvételét követően” szöveg lép.
 
-(10)[^24]
+(7) Az R. 34. § (4) bekezdésében a „fogadja be” szövegrész helyébe a „veszi át” szöveg lép.
 
-[^18]: A 17. § a 20. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^19]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 18. § (2)–(3) bekezdése a 20. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^21]: A 18. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 18. § (6)–(7) bekezdése a 20. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^23]: A 18. § (8)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 18. § (10) bekezdése a 20. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+(8)–(9)[^14]
+
+(10) A 2. melléklet II.3. pontjában a „befogadásának” szövegrész helyébe az „átvételének” szöveg lép.
+
+[^12]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 18. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 18. § (8)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
