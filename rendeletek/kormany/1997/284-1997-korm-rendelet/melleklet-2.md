@@ -104,6 +104,10 @@
 
 | 14. | Az a mellkas-szűrővizsgálat (tüdőszűrés), melynek igénybevételére nem az egészségügyi hatóság által a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerint kötelezően elrendelt szűrővizsgálat keretében, vagy nem a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti korhoz kötött szűrővizsgálat keretében, vagy nem jogszabály által előírt, a szakképzésről szóló 1993. évi LXXVI. törvény 2. § (1) bekezdés a)–c) pontja szerinti szakképzési intézményekben oktatásban részesülők szakmai alkalmassági vizsgálatai keretében kerül sor. | A mellkas- szűrővizsgálat közfinan- szírozásban érvényesíthető díja |
 
-| 15. | A foglalkoztathatóság szakvéleményezése | 3 100 Ft/fő/eset |
+| 15. | A foglalkoztathatóság szakvéleményezése |  |
 
-[^20]: A 2. számú melléklet a 366/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+|  | a) a b) pontban nem említett esetben | 3 100 Ft/fő/eset |
+
+|  | b) közfoglalkoztatási jogviszonyhoz szükséges szakvélemény esetén | 1 900 Ft/fő/eset |
+
+[^20]: A 2. számú melléklet a 366/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdésével megállapított, a 350/2012. (XII. 12.) Korm. rendelet 5. §-a szerint módosított szöveg.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-284-20-
 | 2011-05-01 | 1997-284-20-22.17 | 73/2011. (IV. 29.) Korm. rendelet |
 | 2011-07-01 | 1997-284-20-22.18 | 366/2010. (XII. 30.) Korm. rendelet |
 | 2012-07-01 | 1997-284-20-22.19 | 73/2011. (IV. 29.) Korm. rendelet |
+| 2013-01-01 | 1997-284-20-22.20 | 366/2010. (XII. 30.) Korm. rendelet |
