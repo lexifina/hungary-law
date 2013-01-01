@@ -1,4 +1,4 @@
-## 29. §[^15]
+## 29. §[^17]
 
 30. § (1) Az érdemjelek, kitüntető címek odaítélését a minisztériumi állami vezetők és az 1. § (1) bekezdésének a)–d) pontjaiban meghatározott szervek vezetői – a hivatásos önkormányzati, a létesítményi tűzoltóság és tűzoltó egyesületek állományában dolgozók esetében az OKF útján – kezdeményezhetik.
 
@@ -6,7 +6,7 @@
 
 (3) Az 1. § (1) bekezdésének f) pontjában felsorolt személynek, szervezetnek és közösségnek a miniszter hatáskörébe tartozó elismerését a minisztériumi állami vezető, a miniszter irányítása alá tartozó szerv vezetője, más miniszter, központi államigazgatási szerv vezetője, társadalmi szerv, illetve a helyi önkormányzat képviselőtestülete, jegyzője kezdeményezheti.
 
-(4)[^16]
+(4)[^18]
 
-[^15]: A 29. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^16]: A 30. § (4) bekezdését a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^17]: A 29. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: A 30. § (4) bekezdését a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
