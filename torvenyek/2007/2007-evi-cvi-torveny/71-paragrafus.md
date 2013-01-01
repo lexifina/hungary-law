@@ -10,7 +10,9 @@ d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
 
 e) az állami vagyon értékesítésére vonatkozó szabályokat,
 
-f)–g)
+f) az állami vagyon feletti tulajdonosi joggyakorló által az MNV Zrt. részére küldendő adatszolgáltatás tartalmát, módját és határidejét.
+
+g)
 
 h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 

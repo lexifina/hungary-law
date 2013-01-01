@@ -1,6 +1,6 @@
 21. § (1) Az MNV Zrt. feladatait központi munkaszervezete és – a szervezeti és működési szabályzatban meghatározott – területi szervezeti egységei útján látja el.
 
-(2) Az MNV Zrt. alkalmazottaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) előírásai irányadók.
+(2) Az MNV Zrt. alkalmazottaira a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) előírásai irányadók.
 
 (3) A szervezeti és működési szabályzatot a Magyar Közlönyben közzé kell tenni.
 
