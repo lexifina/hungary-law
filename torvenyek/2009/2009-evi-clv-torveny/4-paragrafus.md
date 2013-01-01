@@ -34,7 +34,7 @@ m) a kormánybiztos, a miniszterelnöki biztos, a kormányhivatal vezetője,
 
 n) a Kormány ügyrendje szerint működő testület vezetője,
 
-o) a rendvédelmi szerv központi szerve, valamint a Katonai Nemzetbiztonsági Szolgálat vezetője, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vezetője, az idegenrendészeti hatóság vezetője, továbbá a menekültügyi hatóság vezetője.
+o) a rendvédelmi szerv központi szerve, valamint a Katonai Nemzetbiztonsági Szolgálat vezetője, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vezetője, az Országgyűlési Őrség parancsnoka, az idegenrendészeti hatóság vezetője, továbbá a menekültügyi hatóság vezetője.
 
 p) a Nemzeti Biztonsági Felügyelet vezetője,
 

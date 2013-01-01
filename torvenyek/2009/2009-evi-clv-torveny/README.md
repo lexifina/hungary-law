@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2011-07-01 | 2011. évi CXII. törvény | 2009-155-00-00.6 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2009-155-00-00.7 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 2009-155-00-00.8 |
+| 2013-01-01 | 2012. évi CCXIV. törvény | 2009-155-00-00.9 |
