@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Debreceni Nagyerdei Labdarúgó Stadion Projekt | Debrecen II. kerület 22334 és 22331 helyrajzi számú terület, illetve e területből telekalakítás folytán kialakított terület | Általános építésügyi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 2. | Debreceni Nagyerdei Labdarúgó Stadion Projekt | Debrecen II. kerület 22334 és 22331 helyrajzi számú terület, illetve e területből telekalakítás folytán kialakított terület | Általános építésügyi hatósági engedélyezési eljárások | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Környezetvédelmi hatósági engedélyezési eljárások | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség, Debrecen | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -16,7 +16,7 @@
 
 | 7. | Hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 8. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Debreceni Körzeti Földhivatal | Hajdú-Bihar Megyei Kormányhivatal Földhivatala |
+| 8. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | illetékes járási földhivatal | Hajdú-Bihar Megyei Kormányhivatal Földhivatala |
 
 | 9. | Talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -28,4 +28,6 @@
 
 | 13. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 166/2012. (VII. 19.) Korm. rendelethez
+2. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^3]
+
+[^3]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 59. §-a szerint módosított szöveg.
