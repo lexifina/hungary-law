@@ -1,4 +1,4 @@
-## III. Fejezet[^3]
+## III. Fejezet[^4]
 
 ## A PROGRAM KERETÉBEN FELÉPÜLŐ LAKHATÁSI CÉLÚ INGATLANOK BÉRLŐINEK KIVÁLASZTÁSÁRA VONATKOZÓ SZABÁLYOK
 
@@ -32,4 +32,4 @@ fb) családi pótlékra nem jogosító, de nevelési-oktatási vagy felsőoktat�
 
 (2) Ha a pályázatot benyújtó adós a pályázati döntés meghozatalának időpontjáig a kényszerértékesítésre kijelölt lakóingatlan tulajdonjogát nem veszíti el, de az e rendeletben meghatározott egyéb feltételeknek megfelel, és a Program Bírálati Bizottság a pályázatkezelő döntési javaslata alapján a pályázatát támogatja, vele a bérleti szerződés megköthető. Ebben az esetben a bérleti szerződésben rögzíteni kell, hogy ha a szerződés hatálybalépésének napjától számított egy éven belül a tulajdonjog nem szűnik meg, a lakásbérleti szerződés a hatályba lépésének napjától számított egy év elteltével megszűnik.
 
-[^3]: A III. Fejezetet (4/A–4/G. §-t) a 431/2012. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A III. Fejezetet (4/A–4/G. §-t) a 431/2012. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
