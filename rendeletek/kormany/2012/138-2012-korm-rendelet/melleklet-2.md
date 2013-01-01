@@ -198,6 +198,6 @@
 
 ## ** = a Kjt. vhr. 17. §-ában említett fegyveres szerveknél foglalkoztatott közalkalmazottakra irányadó munkakör
 
-2. melléklet a 138/2012. (VI. 29.) Korm. rendelethez[^5]
+2. melléklet a 138/2012. (VI. 29.) Korm. rendelethez[^8]
 
-[^5]: A 2. melléklet a 338/2012. (XII. 4.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 2. melléklet a 338/2012. (XII. 4.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

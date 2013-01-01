@@ -4,8 +4,8 @@
 
 (3) A Kjt. hatálya alá nem tartozó, az (1) és (2) bekezdés szerinti munkakörben alkalmazott foglalkoztatottak tekintetében a visszamenőleges és folyamatos illetmény- vagy bérnövelés összegének meghatározása érdekében a munkáltató megállapítja, hogy az egészségügyi dolgozó vagy az egészségügyben dolgozó számára 2012. július 1-jétől melyik közalkalmazotti fizetési osztályt (besorolást) és fizetési fokozatot kellene megállapítani abban az esetben, ha a munkáltató 2012. július 1-jével a Kjt. hatálya alá tartozó munkáltató számára kerülne átadásra. A Kjt. hatálya alá nem tartozó foglalkoztatottak esetében a jogviszonyban töltött idő számításánál a Kjt.-nek a közalkalmazotti jogviszonyban töltött idő megállapítására vonatkozó rendelkezéseit kell alkalmazni, azzal az eltéréssel, hogy a béremelésre tekintettel elvégzendő besorolás szempontjából jogviszonyban töltött időnek kell tekinteni az 1992. június 30-át követően, közfinanszírozott egészségügyi szolgáltatónál, az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó munkakörben töltött időt is.
 
-(4) Ha az (1) bekezdés hatálya alá tartozó foglalkoztatott besorolása vagy fizetési fokozata 2012. július 1-jét követően változik, vagy – a Kjt. hatálya alá nem tartozó munkáltató esetében – a (3) bekezdés alapján elvégzett besoroláshoz képest a Kjt. szabályai alapján változna, a folyamatos bérnövelés összegét a változás időpontját követő naptári hónaptól kell módosítani.
-
-(5) A 2012. június 30-án és 2012. július 1-jén is az (1) bekezdés szerinti jogviszonyban álló foglalkozatott az Eütev. 11/A. § (5) bekezdése szerinti garantált illetményre vagy bérre az Eütev. 29. § (12) bekezdésében meghatározott folyamatos illetmény- vagy bérnövelés útján jogosult. A 2012. július 1-jét követően az (1) bekezdés szerinti munkakört létesítő foglalkoztatott az egészségügyi ágazati előmeneteli szabályok alapján őt megillető illetmény- vagy bérnövelésre kizárólag az Eütev. 11/A. § (5) bekezdése alapján jogosult.
+(4)–(5)[^2]
 
 (6) Az Eütev. 29. § (14) bekezdése alkalmazásában az egészségügyi dolgozó 2012. június 30-án irányadó illetményébe, alapbérébe az Eütev. 29. § (2)–(5) bekezdése alapján, 2012. június hónapra járó visszamenőleges illetmény- vagy bérnövelés összegét nem kell figyelembe venni.
+
+[^2]: Az 1. § (4)–(5) bekezdését a 338/2012. (XII. 4.) Korm. rendelet 5. §-a hatályon kívül helyezte.

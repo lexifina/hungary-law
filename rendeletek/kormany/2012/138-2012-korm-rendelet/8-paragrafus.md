@@ -1,6 +1,6 @@
-## 7. §[^2] A 4. § (9) bekezdésében 2012. október 15-éig előírt elszámolás az annak teljesítéséhez szükséges adatok rendelkezésre állásának késedelme esetén a 4. § (9) bekezdésében foglaltaktól eltérően – 2012. január–október hónapokra – 2012. november 15-ig teljesíthető.
+## 7. §[^5] A 4. § (9) bekezdésében 2012. október 15-éig előírt elszámolás az annak teljesítéséhez szükséges adatok rendelkezésre állásának késedelme esetén a 4. § (9) bekezdésében foglaltaktól eltérően – 2012. január–október hónapokra – 2012. november 15-ig teljesíthető.
 
-8. §[^3] (1) Az egyes egészségügyi tárgyú kormányrendeleteknek az egészségügyi dolgozók és egészségügyben dolgozók 2012. évi illetmény- vagy bérnövelésével összefüggő módosításáról szóló 338/2012. (XII. 4.) Korm. rendelettel megállapított
+8. §[^6] (1) Az egyes egészségügyi tárgyú kormányrendeleteknek az egészségügyi dolgozók és egészségügyben dolgozók 2012. évi illetmény- vagy bérnövelésével összefüggő módosításáról szóló 338/2012. (XII. 4.) Korm. rendelettel megállapított
 
 a) 1. melléklet II. pont 57–64. alpontját, és
 
@@ -22,5 +22,5 @@ c) az OEP a b) pont szerinti támogatási összeget 2012. december 28-ig kifizet
 
 (5) A 2. melléklet szerinti munkáltató a 4. § (9) bekezdésében foglaltaktól eltérően az 1. melléklet II. pont 57–64. alpontjában meghatározott munkakörök vonatkozásában a 2012. január–szeptember hónapokra ténylegesen kifizetett összegekkel 2013. február 28-ig számol el a 4. melléklet szerinti tartalommal a GYEMSZI felé. Az ezt követő időszakok elszámolása a 4. § (9) bekezdése szerint történik.
 
-[^2]: A 7. §-t a 308/2012. (XI. 6.) Korm. rendelet 19. §-a iktatta be.
-[^3]: A 8. §-t a 338/2012. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 7. §-t a 308/2012. (XI. 6.) Korm. rendelet 19. §-a iktatta be.
+[^6]: A 8. §-t a 338/2012. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
