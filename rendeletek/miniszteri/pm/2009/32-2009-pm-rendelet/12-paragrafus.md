@@ -10,7 +10,7 @@ ba) a Tanács 2006/138/EK irányelve (2006. december 19.) a közös hozzáadott�
 
 c) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról;
 
-d) a Bizottság 1174/2009/EK rendelete (2009. november 30.) az 1798/2003/EK rendelet 34a. és 37. cikkének a 2008/9/EK tanácsi irányelv szerinti héa-visszatérítéssel kapcsolatos végrehajtási szabályai megállapításáról.
+d)[^15] a Bizottság 79/2012/EU végrehajtási rendelete (2012. január 31.) a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről szóló 904/2010/EU tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról.
 
 Melléklet a 32/2009. (XII. 21.) PM rendelethez
 
@@ -139,3 +139,5 @@ A termékek, szolgáltatások megnevezésére, illetőleg a felhasználásuk, eg
 | 10.16 Vagyontárgyakkal kapcsolatos munkák | 10.16.1 Lakóhely, illetve rekreációs vagy szabadidős tevékenység céljára használt ingatlannal kapcsolatos munkák 10.16.2 A 10.16.1-es kódon kívül eső ingatlanokkal kapcsolatos munkák 10.16.3 A 10.16.1-es kód szerinti ingatlanhoz kötődő vagy ott használt ingósággal kapcsolatos munkák 10.16.4 A 10.16.3-as kódon kívül eső ingóságokkal kapcsolatos munkák |
 
 | 10.17 Vagyontárgyakkal kapcsolatos kiadások | 10.17.1 Lakás, illetve rekreációs vagy szabadidős tevékenység céljára használt ingatlannal kapcsolatos kiadások 10.17.2 A 10.17.1-es kódon kívül eső ingatlanokkal kapcsolatos kiadások |
+
+[^15]: A 12. § d) pontja az 52/2012. (XII. 29.) NGM rendelet 53. §-ával megállapított szöveg.
