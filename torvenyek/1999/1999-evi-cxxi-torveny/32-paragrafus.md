@@ -4,7 +4,7 @@
 
 (3)
 
-(4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a megyeszékhelyen működő helyi bírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
+(4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a megyeszékhelyen működő járásbírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
 
 (5) A bíróság a kifogásról a beérkezésétől számított 3 napon belül, nemperes eljárásban határoz. Ha a bíróság a kifogást alaposnak tartja, elrendeli a választási névjegyzék vagy a tagjegyzék kiigazítását, ellenkező esetben a kifogást elutasítja. A bíróság határozata ellen további jogorvoslatnak nincs helye.
 

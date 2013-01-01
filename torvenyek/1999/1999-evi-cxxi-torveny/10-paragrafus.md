@@ -16,7 +16,7 @@ f) együttműködnek a fogyasztóvédelmi hatósággal és a Gazdasági Versenyh
 
 g) minősítő és ellenőrzési rendszereket működtetnek;
 
-h) a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve az adóhatóságnál az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik;
+h) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik és a járási hivatal az egyéni vállalkozói tevékenység megszüntetéséről az egyéni vállalkozó székhelye szerinti jegyzőt értesíti,
 
 i) működtetik a fogyasztóvédelemről szóló 1997. évi CLV. törvény alapján működő békéltető testületeket;
 
@@ -24,4 +24,4 @@ j) közreműködnek a gazdálkodó szervezetek nemzetközi gazdasági kapcsolata
 
 (2) Ha a bíróság vagy a Gazdasági Versenyhivatal jogerős határozatával megállapította a tisztességtelen piaci magatartás tilalmáról szóló törvényben meghatározott, a tisztességtelen verseny tilalmára vonatkozó rendelkezések megsértését, a gazdasági kamara a bíróság, illetve a Gazdasági Versenyhivatal határozatát nyilvánosságra hozhatja.
 
-(3) A gazdasági kamarák (1) bekezdés h) pontja szerinti kezdeményezése alapján a cégbíróság, illetve a jegyző köteles a megfelelő eljárást lefolytatni és annak eredményéről a kamarát is írásban tájékoztatni.
+(3) A gazdasági kamarák (1) bekezdés h) pontja szerinti kezdeményezése alapján a cégbíróság, illetve a járási hivatal köteles a megfelelő eljárást lefolytatni és annak eredményéről a kamarát is írásban tájékoztatni.)

@@ -1,6 +1,6 @@
 ## A gazdálkodó szervezetek kamarai nyilvántartása
 
-8/A. § (1) A cégbejegyzésre kötelezett gazdálkodó szervezet a cégjegyzékbe való bejegyzését, az egyéni vállalkozó a külön jogszabályban meghatározott bejelentés alapján történő nyilvántartásba vételét követő öt munkanapon belül – a (2) bekezdésben meghatározott kivétellel – köteles a székhelye szerint illetékes, a (2) bekezdés szerinti területi gazdasági kamaránál a kamarai nyilvántartásba való bejegyzését kérni.
+8/A. § (1) A cégbejegyzésre kötelezett gazdálkodó szervezet a cégjegyzékbe való bejegyzését, az egyéni vállalkozó a külön jogszabályban meghatározott bejelentés alapján történő nyilvántartásba vételét követő öt munkanapon belül köteles a székhelye szerint illetékes, a (2) bekezdés szerinti területi gazdasági kamaránál a kamarai nyilvántartásba való bejegyzését kérni.
 
 (2) A gazdálkodó szervezet a kereskedelmi és iparkamaránál köteles kérni a kamarai nyilvántartásba való bejegyzését.
 
