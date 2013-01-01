@@ -1,12 +1,12 @@
 ## Állami szaklevéltárak
 
-19. § (1) Állami szaklevéltár a Hadtörténelmi Levéltár, a és a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
+19. § (1) Állami szaklevéltár a Hadtörténeti Levéltár, a Földügyi és Távérzékelési Levéltár, a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 
 a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a Katonai Nemzetbiztonsági Szolgálat,
 
-b)
+b) a Földügyi és Távérzékelési Levéltár esetében a földmérési és térképészeti tevékenységért felelős miniszter felügyelete alá tartozó szervek,
 
 c) a Környezetvédelmi és Vízügyi Levéltár esetében a környezetvédelemért felelős miniszter és a vízgazdálkodásért felelős miniszter felügyelete alá tartozó szervek,
 

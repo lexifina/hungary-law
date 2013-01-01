@@ -38,4 +38,4 @@ r) közlevéltár illetékessége (illetékességi köre): a maradandó érték�
 
 s) levéltári gyűjtőkör: a maradandó értékű, köziratnak nem minősülő irattári anyagnak, ha arra vonatkozóan törvény közlevéltárba adási, illetve a levéltárfenntartó levéltárba adási kötelezettséget nem ír elő, továbbá a természetes személyek maradandó értékű iratainak az a köre, amelyet az adott levéltár az őrizetében lévő levéltári anyag forrásértékének gazdagítása céljából gyűjt (ajándékként elfogad vagy megvásárol);
 
-t) önkormányzati hivatal: a polgármesteri hivatal, a társult képviselő-testület közös hivatala, a körjegyzőség, a megyei önkormányzati hivatal és a fővárosi közgyűlés hivatala.
+t) önkormányzati hivatal: a főpolgármesteri hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala.
