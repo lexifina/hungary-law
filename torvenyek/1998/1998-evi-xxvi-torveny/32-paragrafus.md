@@ -10,7 +10,7 @@ A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítás�
 
 |
 
-Az egyenlő esélyű hozzáférés feltételeinek megteremtésére kötelezett önkormányzatok és többcélú kistérségi társulások
+Az egyenlő esélyű hozzáférés feltételeinek megteremtésére kötelezett önkormányzatok
 
 |
 
