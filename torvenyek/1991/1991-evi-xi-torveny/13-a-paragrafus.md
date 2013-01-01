@@ -32,6 +32,8 @@ ab) szakmailag indokolatlanul a betegbeutalási rendtől eltért, különösen, 
 
 ac) a jogszabályban előírt intézkedési, jelentéstételi kötelezettségét felhívás ellenére elmulasztotta,
 
+ad) térítési díjszabályzata nem felel meg a jogszabályban foglaltaknak, illetve az egészségügyi szolgáltató nem a térítési díjszabályzatában meghatározottaknak megfelelően járt el.
+
 b) a társadalombiztosítási támogatással vagy árhoz nyújtott társadalombiztosítási támogatással, ezek elszámolásával, folyósításával, ellenőrzésével kapcsolatos, jogszabályban előírt kötelezettségeket megsértették,
 
 c) a külön jogszabályban előírt működési engedély hiányában egészségügyi szolgáltatást nyújtanak, illetve az egészségügyi képesítéssel rendelkező személy képesítésének megfelelő tevékenységet jogosulatlanul végeznek,

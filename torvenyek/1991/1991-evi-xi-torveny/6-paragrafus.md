@@ -32,6 +32,8 @@ n) tanácskozási joggal
 
 — részt vesz az egészségügyi vonatkozású kérdéseket tárgyaló önkormányzati testületi üléseken és az egészségügyi intézményeket felügyelő testületek ülésein;
 
-o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyógyszerellátással kapcsolatos hatósági feladatokat.
+o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyógyszerellátással kapcsolatos hatósági feladatokat;
+
+p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el.
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.

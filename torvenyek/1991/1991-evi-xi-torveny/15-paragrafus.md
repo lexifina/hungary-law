@@ -8,9 +8,9 @@
 
 a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket,
 
-b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
+b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
 
-(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
@@ -34,7 +34,9 @@ rendeletben állapítsa meg.
 
 a) a szúnyogirtószer és szúnyoglárvairtó-szer légi úton történő környezetbe juttatásának feltételeit és az egészségügyi államigazgatási szervnek teljesítendő bejelentésekre és az engedélyezésre vonatkozó eljárás részletes szabályait, valamint
 
-b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat
+b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat,
+
+c) az élelmiszerekben lévő transz-zsírsavak megengedhető legnagyobb mennyiségét, a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeit és hatósági ellenőrzésének szabályait, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokat az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben
 
 rendeletben határozza meg.
 
@@ -44,4 +46,16 @@ a) az egészségügyi államigazgatási szerv eljárásában kiszabott egészsé
 
 b) a közigazgatási hatósági eljárás során felmerülő, egyéb eljárási költségnek minősülő, mintavételi, laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait,
 
-c) az egészségügyi államigazgatási szerv élelmezés- és táplálkozás-egészségügyi feladataira vonatkozó részletes szabályokat.
+c) az egészségügyi államigazgatási szerv élelmezés- és táplálkozás-egészségügyi feladataira vonatkozó részletes szabályokat,
+
+d) a kozmetikai termékekről szóló 2009. november 30-i 1223/2009/EK európai parlamenti és tanácsi rendelet
+
+da) 19. cikk (4) és (5) bekezdésének végrehajtása körében a nem előre csomagolt kozmetika termékek – ideértve azon termékeket is, amelyeket a vevő kérésére a vásárláskor csomagolnak be vagy azonnali eladásra előre csomagolnak – címkézésének részletes szabályait, valamint a magyar nyelven feltüntetendő tájékoztatások körét,
+
+db) 22. cikkének végrehajtása körében a kozmetikai termékek piacfelügyeletét ellátó szervek kijelölését,
+
+dc) 34. cikk (1) és (2) bekezdésének végrehajtása körében az illetékes nemzeti hatóság és méregellenőrző központ kijelölését,
+
+dd) 37. cikkének végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciók körét, illetve kijelölését.
+
+(13) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kereskedelemért felelős miniszterrel, valamint az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben az energiaitalok megengedett térfogatértékeit és azok ellenőrzési módszereit rendeletben határozza meg.
