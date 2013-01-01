@@ -4,7 +4,7 @@
 
 | 1. | hallépcső a 21T műtárgy mellett, létesítmény szám: IV/H | Keszthely (hrsz. 0380) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 2. | 1 db kilátó áthelyezése, építmény szám: VI/K | Balatonszentgyörgy (hrsz. 0115/2) | általános építésügyi hatósági engedélyek | Somogy Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 2. | 1 db kilátó áthelyezése, építmény szám: VI/K | Balatonszentgyörgy (hrsz. 0115/2) | általános építésügyi hatósági engedélyek | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | áramlásjavító csatorna, létesítmény szám: VI/Cs | Zalakomár (hrsz. 0175), Balatonmagyaród (hrsz. 04) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -30,7 +30,7 @@
 
 | 14. | Fenékpusztai géptelep rekonstrukció, létesítmény szám: XVII/SzB | Keszthely (hrsz. 0378/6) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 15. | Balatonhídvégi őrtelep építményeinek átalakítása, építmény szám: XVIII | Balatonmagyaród | általános építésügyi hatósági engedélyek | Zala Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 15. | Balatonhídvégi őrtelep építményeinek átalakítása, építmény szám: XVIII | Balatonmagyaród | általános építésügyi hatósági engedélyek | Zalaegerszegi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Zala Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 16. | Ingói berek lezárása, létesítmény szám: XXI/AT | Zalavár (hrsz. 022/4) | vízügyi hatósági engedély | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -74,7 +74,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. építésügy | illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| 1. építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 2. közlekedés |  |  |
 
@@ -106,11 +106,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. kulturális örökségvédelem | Fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 12. műszaki biztonság | Fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -150,11 +150,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10. egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 12. műszaki biztonság | Fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -164,7 +164,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. környezetvédelem, természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 2. építésügy | illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| 2. építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 3. közlekedés |  |  |
 
@@ -200,12 +200,12 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 9.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 10. régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 11. egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 12. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 12. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 13. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal „ |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 242. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 24. §-a, a 23/2012. (II. 29.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 242. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 24. §-a, a 23/2012. (II. 29.) Korm. rendelet 43. §-a, a 394/2012. (XII. 20.) Korm. rendelet 34. §-a szerint módosított szöveg.
