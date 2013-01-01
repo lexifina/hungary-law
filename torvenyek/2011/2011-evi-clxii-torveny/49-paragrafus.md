@@ -6,7 +6,7 @@
 
 a) a fizetés nélküli szabadság megszűnését követő naptól,
 
-b) ha a bírónak a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 134. § (3) bekezdés b) pontja alapján ki kell adni a rendes szabadságát, a szabadság leteltét követő naptól
+b) ha a bírónak a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 123. § (3) bekezdése alapján ki kell adni a rendes szabadságát, a szabadság leteltét követő naptól
 
 hatályos.
 

@@ -6,7 +6,7 @@
 
 a) a járásbírósági bírónál 10,
 
-b)
+b) a közigazgatási és munkaügyi bírósági bírónál 15,
 
 c) a törvényszéki bírónál 20,
 
