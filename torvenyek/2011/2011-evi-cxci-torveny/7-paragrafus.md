@@ -4,7 +4,13 @@
 
 (3) A rehabilitációs ellátás időtartama keresőtevékenységet folytató ellátott esetén meghosszabbodik a keresőtevékenység időtartama alatt bekövetkezett keresőképtelenség (a továbbiakban: keresőképtelenség) időtartamával. A rehabilitációs ellátásban részesülő személy keresőtevékenység folytatása esetén a keresőképtelenségére tekintettel – a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározottak szerint – táppénzre vagy baleseti táppénzre jogosult.
 
-(4)
+(4) A rehabilitációs pénzbeli ellátás folyósítását szüneteltetni kell arra az időtartamra, amikor az ellátott
+
+a) keresőtevékenységet végez vagy közfoglalkoztatásban vesz részt, ha a munkaszerződés szerinti heti munkaideje a 20 órát meghaladja, vagy
+
+b) keresőképtelen.
+
+(4a) A szüneteltetés időtartamára folyósított rehabilitációs pénzbeli ellátást az ok bekövetkezéséről való tudomásszerzést követő hónaptól járó ellátásból le kell vonni, vagy azt a rehabilitációs ellátás megszüntetése esetén vissza kell követelni. A levonás legfeljebb a rehabilitációs pénzbeli ellátás 50%-áig terjedhet.
 
 (5) A rehabilitációs ellátás időtartamát – a (3) bekezdésben meghatározottak kivételével – meghosszabbítani nem lehet.
 

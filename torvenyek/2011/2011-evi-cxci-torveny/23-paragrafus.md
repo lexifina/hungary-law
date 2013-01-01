@@ -6,7 +6,7 @@ a) a közfoglalkoztatási jogviszonyban, valamint a közfoglalkoztatás támogat
 
 b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
 
-c) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó munkavállalót, ideértve az önkéntes tartalékos szolgálati viszonnyal rendelkező munkavállalót is, és
+c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavállalót, és
 
 d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót.
 
