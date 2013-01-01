@@ -2,7 +2,7 @@
 
 4. § Ez a rendelet a kihirdetését követő 90. napon lép hatályba.
 
-Melléklet a 93/1996. (VII. 4.) Korm. rendelethez
+Melléklet a 93/1996. (VII. 4.) Korm. rendelethez[^4]
 
 | KSH beso- rolás | A) | B) |
 
@@ -180,11 +180,11 @@ Melléklet a 93/1996. (VII. 4.) Korm. rendelethez
 
 | 9011 |  | Önállóan létesített szennyvíziszap lerakó 100 t/év szárazanyagtól |
 
-| 9012 |  | Települési folyékony hulladékok szállítása 2000 m3/hó szállítási teljesítmény fölött |
+| 9012 |  | Nem közművel összegyűjtött háztartási szennyvíz szállítása 2000 m3/hó szállítási teljesítmény fölött |
 
 | 9012 |  | Szennyvízleürítő és ürítő kezelő telep 100 m3/nap kapacitástól |
 
-| 9021 |  | Települési szilárd hulladékok szállítása 2000 lakosnál nagyobb begyűjtési teljesítmény esetén |
+| 9021 |  | Települési szilárd hulladékok szállítása 2000 lakosnál nagyobb gyűjtési teljesítmény esetén |
 
 | 9021 | Települési szilárd hulladéklerakó 20 000 m3/év kapacitás felett | Települési szilárd hulladéklerakó 20 000 m3/év alatt |
 
@@ -207,3 +207,4 @@ Melléklet a 93/1996. (VII. 4.) Korm. rendelethez
 |  | „A” típusú izotóplaboratórium |  |
 
 [^3]: A 3. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1383. pontja hatályon kívül helyezte.
+[^4]: A Melléklet a 441/2012. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
