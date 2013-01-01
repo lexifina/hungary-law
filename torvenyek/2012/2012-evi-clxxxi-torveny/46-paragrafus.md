@@ -1,1 +1,1 @@
-### 46. §
+46. § Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet 41/B. § (3) bekezdés c) pontjában az „útlevélhatóság személyazonosításra” szövegrész helyébe az „útlevélhatóság, vagy a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője személyazonosításra” szöveg lép.
