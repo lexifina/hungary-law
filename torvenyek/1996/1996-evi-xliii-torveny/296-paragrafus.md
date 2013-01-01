@@ -1,3 +1,1 @@
-## Kártérítési felelősség
-
 296. §

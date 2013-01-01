@@ -36,7 +36,7 @@ c) a 66/A. § (2) bekezdésében meghatározott tartalékállomány tartama alat
 
 a) a szolgálati viszony megszűnésekor az Mt. megfelelő alkalmazásával nyugdíjasnak minősül, szolgálati járandóságra jogosult, vagy az 56. § (7) bekezdése alapján a felmentését maga kérte,
 
-b) alkalmatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai és fizikai alkalmatlanság miatt került felmentésre.
+b) alkalmatlansága vagy méltatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai és fizikai alkalmatlanság miatt került felmentésre.
 
 c) nem felel meg a kifogástalan életvitel követelményének, vagy a kifogástalan életvitel ellenőrzéséhez szükséges hozzájáruló nyilatkozatot határidőben nem tette meg, ezért a hivatásos szolgálatra alkalmatlanná vált,
 

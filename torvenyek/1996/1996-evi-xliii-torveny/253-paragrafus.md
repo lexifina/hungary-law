@@ -1,13 +1,15 @@
-253. § (1) A 90. § (2) bekezdésben meghatározott pótszabadság helyett a parancsnokokat (vezetőket) az alábbi mértékű vezetői pótszabadság illeti meg:
+253. § (1) A 90. § (3) bekezdésben meghatározott vezetői pótszabadság helyett az alábbi vezetőket a következő mértékű vezetői pótszabadság illeti meg:
 
-a) osztályvezetői besorolású vezető esetén 11 munkanap;
+a) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgató-helyettese esetében 14 munkanap,
 
-b) főosztályvezető-helyettesi besorolású vezető esetén 12 munkanap;
+b) a terrorizmust elhárító szerv főigazgató-helyettese esetében 14 munkanap,
 
-c) főosztályvezetői besorolású vezető esetén 13 munkanap;
+c) az Országgyűlési Őrség parancsnokhelyettese esetében 14 munkanap;
 
-d) az országos parancsnok helyettese esetén 14 munkanap;
+d) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója esetében 15 munkanap,
 
-e) az országos parancsnok esetén 15 munkanap.
+e) a terrorizmust elhárító szerv főigazgatója esetében 15 munkanap,
+
+f) az Országgyűlési Őrség parancsnoka esetében 15 munkanap.
 
 (2) A 92. § (2) bekezdése szerinti tartós igénybevétel esetén a rendkívüli pihenőnapokat az országos parancsnok engedélyezi.

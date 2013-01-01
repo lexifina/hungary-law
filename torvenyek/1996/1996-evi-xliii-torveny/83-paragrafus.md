@@ -2,4 +2,4 @@
 
 (2) A minősítést ismertetni kell a hivatásos állomány tagjával, aki arra írásban észrevételt tehet, és az ismertetés megtörténtét aláírásával igazolja.
 
-(3) A hivatásos állomány tagja a minősítés valótlan vagy személyiségi jogát sértő megállapítása ellen a bírósághoz fordulhat.
+(3) A minősítés megállapításai ellen a hivatásos állomány tagja szolgálati panasszal élhet.

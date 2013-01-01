@@ -46,7 +46,7 @@ p) tagjai számára jóléti, szociális és egyéb kedvezményes szolgáltatás
 
 r) megfigyelőként részt vehet tagjai szakmai vizsgáztatásában és továbbképzésében, indokolt esetben törvényességi vagy egyéb intézkedést kezdeményez,
 
-s) tagot delegál a Rendészeti Szakvizsga Bizottság elnökségébe,
+s) tagot delegál a Rendészeti Alap- és Szakvizsga Bizottság elnökségébe,
 
 t) megalkotja éves költségvetését, elfogadja az éves költségvetés végrehajtásáról szóló, a számviteli törvény szerinti beszámolót,
 

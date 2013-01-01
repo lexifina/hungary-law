@@ -4,30 +4,36 @@
 
 (2) Hivatásos szolgálat a fegyveres szerven kívül a következő szerveknél teljesíthető:
 
-a) a minisztériumban és a miniszter irányítása vagy felügyelete alá tartozó szervnél,
+a) a miniszter által irányított minisztériumban hivatásos szolgálati beosztásban, kormánytisztviselői vagy kormányzati ügykezelői munkakörben,
 
-b) a felsőoktatási intézménynél,
+b) a miniszter irányítása, felügyelete alá tartozó, valamint költségvetési jogállása alapján irányítása, felügyelete alatt álló
 
-c) a tudományos intézménynél,
+ba) önálló költségvetési szervnél,
 
-d) a közigazgatási szervnél,
+bb) rendvédelmi oktatási intézménynél,
 
-e) a honvédelmi és rendvédelmi célú tevékenységet folytató vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervnél,
+bc) tudományos, kutató intézménynél,
 
-f) az egészségügyi intézménynél,
+bd) a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetnél
 
-g) a szövetséges fegyveres erőknél,
+meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beosztásban, kormánytisztviselői vagy közalkalmazotti munkakörben,
 
-h) polgári védelmi feladatok ellátása céljából a bíróságok igazgatási feladatait ellátó szervezeténél,
+c) közigazgatási szervnél,
 
-i) az ügyészi szervezetnél,
+d) felsőoktatási intézménynél,
 
-j) a szervezett bűnözés elleni fellépés céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjáért felelős szervnél,
+e) tudományos intézménynél,
 
-k) az Európai Unió intézményeiben nemzeti szakértőként, az Európai Unió vagy a NATO szervezeteinél nemzetközi együttműködés keretében vállalt misszió tagjaként, illetve amennyiben az a szolgálat érdekével egybe esik, egyéb nemzetközi szervezetben,
+f) honvédelmi vagy rendvédelmi célú tevékenységet folytató vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervnél,
 
-l) Magyarország külpolitikai, gazdasági vagy kulturális érdekeinek képviseletére külföldön létrehozott szervezetnél összekötőként vagy a diplomáciai szolgálat tagjaként,
+g) egészségügyi intézménynél,
 
-m) rendészeti adatfeldolgozást végző szervnél
+h) szövetséges fegyveres erőknél,
+
+i) polgári védelmi feladatok ellátása céljából a bíróságok igazgatási feladatait ellátó szervezeténél,
+
+j) ügyészi szervezetnél,
+
+k) rendészeti adatfeldolgozást végző szervnél
 
 (a továbbiakban együtt: más szerv).

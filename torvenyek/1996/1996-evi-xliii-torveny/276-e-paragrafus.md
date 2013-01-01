@@ -1,0 +1,1 @@
+276/E. § A 85. § alapján elrendelt szolgálatteljesítési időbeosztást – a 87. § (1) bekezdésben meghatározott eseteket kivéve – az illetékes szolgálati elöljáró köteles azt megelőzően legalább egy héttel közölni az Országgyűlési Őrség hivatásos állományú tagjával.

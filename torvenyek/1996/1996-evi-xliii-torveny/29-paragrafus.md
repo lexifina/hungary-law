@@ -10,10 +10,12 @@ a) a rendőrségről szóló törvény hatálya alá tartozó szervek,
 
 b) a büntetés-végrehajtási szervezetről szóló törvény hatálya alá tartozó szervek,
 
-c) a Nemzeti Adó- és Vámhivatalról szóló törvény hatálya alá tartozó fegyveres rendvédelmi feladatokat ellátó szervek,
+c) a Nemzeti Adó- és Vámhivatalról szóló törvény hatálya alá tartozó fegyveres, rendvédelmi feladatokat ellátó szervek,
 
 d) a hivatásos katasztrófavédelmi szervek,
 
-e) a polgári nemzetbiztonsági szolgálatok
+e) a polgári nemzetbiztonsági szolgálatok,
 
-személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban álló tagjainak a)–e) pont szerint elkülönülő résztestülete.
+f) az Országgyűlési Őrség
+
+személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban álló tagjainak a)–f) pont szerint elkülönülő résztestülete.

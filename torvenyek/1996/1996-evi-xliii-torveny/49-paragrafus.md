@@ -6,16 +6,10 @@
 
 (3) A rendelkezési állományba nem tartozók iskolai rendszerű oktatása/képzése az oktatás időtartamára vezényléssel történik. Az e célból történő vezénylés időtartama nem számít be a (2) bekezdésben meghatározott időtartamba.
 
-(4) A nemzetközi szervezetek által békefenntartó (fegyveres vagy egyéb rendészeti) tevékenységre kiírt és a miniszter által támogatott pályázat elnyerése esetén a hivatásos állomány tagját vezényelni kell a külföldi szolgálati tevékenység időtartamára.
+(4)
 
-(5) A hivatásos állomány tagját
+(5)
 
-a) külföldi szolgálatra az ezzel járó sajátos szolgálati kötelezettségeknek, ezek teljesítése feltételeinek és körülményeinek ismertetése után,
+(6)
 
-b) az Európai Unió intézményeibe nemzeti szakértőként, kormányrendeletben meghatározott jelölési eljárás alapján
-
-a miniszter vezényli.
-
-(6) A hivatásos állomány (5) bekezdés szerint vezényelt tagjának juttatására, többletjuttatására, költségtérítésére, ellátmányára kormányrendelet a szolgálatteljesítés helyének sajátosságaira, továbbá a vezényelt közeli hozzátartozóira tekintettel pénzbeli és természetbeni ellátást állapíthat meg.
-
-(7) A hivatásos állomány tagja megszakítás nélkül legalább három hónapra, de 6 évet meg nem haladó időtartamra külföldi szolgálatra vezényelhető (a továbbiakban: tartós külszolgálat).
+(7)

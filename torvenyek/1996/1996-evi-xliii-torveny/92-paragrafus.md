@@ -8,4 +8,4 @@ b) repülőgép- és helikoptervezető, fedélzeti szolgálattevő és ejtőerny
 
 14 munkanap.
 
-(2) Az állományilletékes parancsnok – gyakorlattal kapcsolatban a gyakorlatvezető javaslatára – tartós, legalább 14 napig tartó folyamatos igénybevétel utáni pihentetés céljából esetenként legfeljebb 5 naptári nap szabadidőt engedélyezhet.
+(2)

@@ -12,4 +12,4 @@
 
 (6) A szabadság címén engedélyezett és a szoptatási munkaidő-kedvezmény miatti távollét idejére – a 93. § (6)–(8) bekezdésben meghatározott kivételekkel – távolléti díjat kell folyósítani.
 
-(7)
+(7) Ha a hivatásos állomány tagjának szolgálati viszonya év közben kezdődik vagy szűnik meg, a hivatásos állomány tagja a szabadság arányos részére jogosult.

@@ -20,7 +20,7 @@ h) a szolgálati viszony megszüntetése,
 
 i) lefokozás.
 
-(2) Pénzbírság fenyítés csak a 119. § (2) és (3) bekezdésében meghatározott esetekben alkalmazható. A 119. § (2) bekezdésében meghatározott esetben a pénzbírság mértéke nem haladhatja meg az egyes szabálysértésekre a szabálysértési jogszabályok alapján kiszabható pénzbírság összegét. A 119. § (3) bekezdésében meghatározott esetben a pénzbírság legalacsonyabb összege ötezer forint, legmagasabb összege kétszázezer forint.
+(2) Pénzbírság fenyítés csak a 119. § (2) és (3) bekezdésében meghatározott esetekben alkalmazható. A 119. § (2) bekezdésében meghatározott esetben a pénzbírság mértéke nem haladhatja meg az egyes szabálysértésekre a szabálysértési jogszabályok alapján kiszabható pénzbírság összegét, ha pedig a szabálysértés miatt helyszíni bírság is kiszabható és a hivatásos állomány tagja a szabálysértés elkövetését elismeri, a pénzbírság mértéke nem haladhatja meg a helyszíni bírság jogszabályban meghatározott mértékét. A 119. § (3) bekezdésében meghatározott esetben a pénzbírság legalacsonyabb összege ötezer forint, legmagasabb összege kétszázezer forint.
 
 (3) Fegyelmi eljárásban pénzbírság fenyítés nem alkalmazható, ha az eljárás alapjául szolgáló cselekmény miatt külön jogszabály alapján közigazgatási bírság kiszabásának van helye.
 

@@ -2,9 +2,9 @@
 
 30/A. § (1) A fegyveres szerv hivatásos állományának tagja és közalkalmazottja az MRK tagja.
 
-(2) A fegyveres szerv 15 napon belül írásban tájékoztatja az Irodát – polgári nemzetbiztonsági szolgálat esetén a polgári nemzetbiztonsági szolgálat szerinti tagozatot – a szolgálati viszony vagy a közalkalmazotti jogviszony létesítéséről, illetve megszűnéséről. Szolgálati viszony vagy közalkalmazotti jogviszony létesítése esetén az Iroda – polgári nemzetbiztonsági szolgálat hivatásos állománya tekintetében a polgári nemzetbiztonsági szolgálat szerinti tagozat – a tagot nyilvántartásba veszi és a tagságról igazolást állít ki.
+(2) A fegyveres szerv 15 napon belül írásban tájékoztatja az Irodát a szolgálati viszony vagy a közalkalmazotti jogviszony létesítéséről, illetve megszűnéséről. Szolgálati viszony vagy közalkalmazotti jogviszony létesítése esetén az Iroda a tagot nyilvántartásba veszi és a tagságról igazolást állít ki.
 
-(3) Megszűnik a tagsági viszony a szolgálati viszony vagy a közalkalmazotti jogviszony megszűnésével. Az Iroda – polgári nemzetbiztonsági szolgálat hivatásos állománya tekintetében a polgári nemzetbiztonsági szolgálat szerinti tagozat – az MRK tagját szolgálati viszonya vagy közalkalmazotti jogviszonya megszűnése esetén a nyilvántartásból törli.
+(3) Megszűnik a tagsági viszony a szolgálati viszony vagy a közalkalmazotti jogviszony megszűnésével. Az Iroda az MRK tagját szolgálati viszonya vagy közalkalmazotti jogviszonya megszűnése esetén a nyilvántartásból törli.
 
 (4) Az MRK tagság nem zár ki más kamarai tagsági viszonyt.
 

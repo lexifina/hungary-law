@@ -230,6 +230,14 @@ c) szolgálatonként:
 
 2,1%
 
+|
+
+16. az Országgyűlési Őrség állományának a pótléka
+
+|
+
+150–450%
+
 (3) A (2) bekezdés szerinti pótlék a hivatásos állomány tagjának a pótlékkal elismert tevékenység tényleges kifejtésének, illetve beosztás betöltésének idejére jár.
 
 (4) Aki havi rendszerességgel veszélyes tűzoltói beosztás pótlékában részesül, az – ha jogszabály másképp nem rendelkezik – egyéb veszélyességi pótlékra nem jogosult.

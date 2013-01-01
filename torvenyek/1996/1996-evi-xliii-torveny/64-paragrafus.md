@@ -2,7 +2,7 @@
 
 64. § (1) Akinek szolgálati viszonyát az 53. § a) pontja, vagy az 56. § (1) bekezdés a)–d) pontja, vagy az 56. § (2) bekezdés a) pontjában meghatározott egészségi, pszichikai vagy fizikai alkalmatlanság miatt, illetve az 56. § (2) bekezdés c) pontja alapján felmentéssel vagy az 59/A. § (1) bekezdése alapján kormányzati szolgálati, közszolgálati, közalkalmazotti történő áthelyezéssel szüntették meg, a szolgálat érdekében, kérelmére hivatásos állományba visszavehető, ha egyébként megfelel a szolgálati viszony létesítéséhez szükséges egészségi, pszichikai és fizikai alkalmassági követelményeknek. A visszavétel során próbaidő köthető ki, legfeljebb 6 hónap időtartamra, ha a szolgálati viszony megszűnése és a visszavételre irányuló kérelem benyújtása között legalább egy év eltelt. A visszavételre legfeljebb két alkalommal kerülhet sor.
 
-(2) Akinek a szolgálati viszonya az 59. § (1) bekezdés c) vagy e) pontja alapján szűnt meg, mandátumának lejártát, illetve állami vezetői megbízatásából eredő hatáskörei gyakorlásának megszűnését követően – 30 napon belül előterjesztett kérelmére – a hivatásos állományba vissza kell venni.
+(2) Azt, akinek a szolgálati viszonya az 59. § (1) bekezdés c) pontja alapján szűnt meg, mandátumának lejártát követően – 30 napon belül előterjesztett kérelmére – a hivatásos állományba vissza kell venni.
 
 (3) Akinek a rokkantságát, megváltozott munkaképességű személyek ellátását a felülvizsgálat során megszüntették, a hivatásos állományba akkor vehető vissza, ha egyébként megfelel a szolgálati viszony létesítéséhez szükséges egészségi, pszichikai és fizikai alkalmassági követelményeknek.
 

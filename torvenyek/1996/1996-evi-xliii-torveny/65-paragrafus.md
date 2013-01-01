@@ -2,7 +2,7 @@
 
 65. § (1) A hivatásos állomány tagja nem tölthet be olyan szolgálati beosztást
 
-a) amelyben – a miniszter által meghatározott kivétellel – közeli hozzátartozójával közvetlen szolgálati elöljárói-alárendelti viszonyba kerül,
+a) amelyben – a miniszter által meghatározott kivétellel – közeli hozzátartozójával közvetlen irányítási, felügyeleti vagy ellenőrzési viszonyba kerül,
 
 b) amelynek révén – az állományilletékes parancsnok engedélye nélkül – olyan gazdálkodó szervezettel kerül elszámolási viszonyba, amelyben közeli hozzátartozójának tulajdoni hányada meghatározó, vagy a hozzátartozó az elszámolási viszonyra befolyással bíró tisztséget (munkakört) lát el.
 

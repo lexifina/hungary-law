@@ -12,6 +12,8 @@ d) a minisztérium, illetve a fegyveres szerv rendelkezése alatt álló önkorm
 
 e) az egyedülállóak és gyermektelen házaspárok részére szükség esetén saját szálló- vagy garzonelhelyezés;
 
-f) a lakással rendelkezők részére a lakhatással kapcsolatos költségekhez való hozzájárulás.
+f) a lakással rendelkezők részére a lakhatással kapcsolatos költségekhez való hozzájárulás;
+
+g) lakástulajdon megszerzéséhez nyújtott hitelintézeti kölcsön igénybevételének támogatása.
 
 (2) A hivatásos állomány tagja számára az (1) bekezdés a) és d) pontja szerinti bérlakást a külön jogszabály szerint szolgálati érdekből kell biztosítani.

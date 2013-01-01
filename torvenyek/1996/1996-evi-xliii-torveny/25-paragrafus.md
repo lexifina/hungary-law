@@ -2,7 +2,7 @@
 
 25. § A hivatásos állomány tagja
 
-a) az iskolai végzettségének (szakképesítésének) megfelelő szolgálati beosztását az előmeneteli rend szerint, a betölthető szolgálati beosztások keretei között, a szolgálati érdekre is figyelemmel választhatja meg;
+a)
 
 b) beosztásában a polgári szakképesítését a szolgálat ellátására vonatkozó szabályoknak megfelelően gyakorolhatja;
 

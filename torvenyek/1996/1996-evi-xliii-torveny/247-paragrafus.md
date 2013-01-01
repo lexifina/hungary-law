@@ -6,18 +6,16 @@ a) országos parancsnok,
 
 b) főigazgató,
 
-c) megyei (budapesti) rendőrfőkapitány, és a vele azonos jogállású szervek vezetői,
+c) Országgyűlési Őrség parancsnoka,
 
-d) a Készenléti Rendőrség parancsnokának helyettesei,
+d) megyei rendőrfőkapitány, budapesti rendőrfőkapitány, a vele azonos jogállású szervek vezetői és a Készenléti Rendőrség parancsnoka,
 
-e)
+e) Készenléti Rendőrség parancsnokának helyettesei,
 
-f) a hivatásos katasztrófavédelmi szerv területi szerve vezetője, és a vele azonos jogállású szervek vezetői,
+f) a hivatásos katasztrófavédelmi szerv területi szerve vezetője és a vele azonos jogállású szervek vezetői,
 
-g) tűzoltó parancsnok,
+g) rendőrkapitány,
 
-h) városi (kerületi) rendőrkapitány,
-
-i) határrendészeti kirendeltségvezető.
+h) határrendészeti kirendeltségvezető.
 
 (2) Az állományilletékes parancsnokok munkáltatói jogkörét e törvény keretei között a miniszter állapítja meg.

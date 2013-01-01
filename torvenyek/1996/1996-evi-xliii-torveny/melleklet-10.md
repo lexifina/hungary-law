@@ -392,7 +392,7 @@ Jelentősebb (300 000 Ft-ot meghaladó) hitelállomány, kölcsön tartozások �
 
 |
 
-VII. A jelentkező büntető és szabálysértési előéletére vonatkozó adatok
+VII. A jelentkező büntetett és szabálysértési előéletére vonatkozó adatok
 
 |
 
@@ -422,7 +422,7 @@ az eljáró bíróság megnevezése:
 
 |
 
-büntetés mértéke:
+a büntetés mértéke:
 
 |
 
@@ -434,7 +434,7 @@ az ítélet kelte:
 
 |
 
-mentesülés időpontja:
+a mentesülés időpontja:
 
 |
 
@@ -458,7 +458,7 @@ az eljáró bíróság megnevezése:
 
 |
 
-büntetés mértéke:
+a büntetés mértéke:
 
 |
 
@@ -470,7 +470,7 @@ az ítélet kelte:
 
 |
 
-mentesülés időpontja:
+a mentesülés időpontja:
 
 |
 
@@ -478,19 +478,25 @@ mentesülés időpontja:
 
 2. Áll-e jelenleg büntetőeljárás alatt?
 
-Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elkövetés ideje:
-
-Eljáró bíróság (ügyészség, nyomozóhatóság):
-
 |
 
 igen – nem
 
 |
 
-Az eljárás jelentkezéskori szakasza:
+Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elkövetés ideje:
 
-Az eljárás során hozott érdemi határozat, végzés, ítélet tartalma, kelte:
+|
+
+|
+
+Eljáró bíróság, ügyészség, nyomozóhatóság, ügyszám:
+
+|
+
+|
+
+Az eljárás jelentkezéskori szakasza:
 
 |
 
@@ -498,49 +504,83 @@ nyomozati – ügyészi – bírói szak
 
 |
 
-3. A jelentkezést megelőző két éven belül szabálysértés miatt kapott-e pénzbírságot?
+Az eljárás során hozott érdemi határozat, végzés, ítélet tartalma, kelte:
+
+|
+
+|
+
+3. A jelentkezést megelőző két éven belül szabálysértés miatt marasztalták-e el?
+
+(büntetés vagy intézkedés)
 
 |
 
 igen – nem
 
+|
+
+Az elkövetett szabálysértés:
+
+|
+
+|
+
+Eljáró szerv:
+
+|
+
+|
+
+A szabálysértés miatt alkalmazott büntetés vagy intézkedés teljesítése, végrehajtása:
+
 (helyszíni bírságot figyelmen kívül kell hagyni)
 
 |
 
-Az elkövetett szabálysértés:
-
-Eljáró szerv:
-
-Ha igen, bírság befizetés megtörtént-e:
-
-|
-
-igen – még nem – elzárásra változtatták
+(pl. a bírság befizetés megtörtént – nem történt meg – elzárásra átváltoztatták, a járművezetéstől eltiltás hatálya eltelt – nem telt el)
 
 |
 
 Az elkövetett szabálysértés:
 
-Eljáró szerv:
-
-Ha igen, bírság befizetés megtörtént-e:
-
 |
 
-igen – még nem – elzárásra változtatták
-
 |
-
-Az elkövetett szabálysértés:
 
 Eljáró szerv:
 
-Ha igen bírság befizetés megtörtént-e:
+|
 
 |
 
-igen – még nem – elzárásra változtatták
+A szabálysértés miatt alkalmazott büntetés vagy intézkedés teljesítése, végrehajtása:
+
+(helyszíni bírságot figyelmen kívül kell hagyni)
+
+|
+
+(pl. a bírság befizetés megtörtént – nem történt meg – elzárásra átváltoztatták, a járművezetéstől eltiltás hatálya eltelt – nem telt el)
+
+|
+
+4. Áll-e jelenleg szabálysértési eljárás alatt?
+
+|
+
+igen – nem
+
+|
+
+Az eljárás alapjául szolgáló szabálysértés megnevezése és az elkövetés ideje:
+
+|
+
+|
+
+Eljáró hatóság, ügyszám:
+
+|
 
 |
 
@@ -565,13 +605,3 @@ Hozzájárulok, hogy az adatlapon szereplő adataim valóságát, az életvitele
 ............................................................, 20............................................................-n
 
 .......................................................................
-
-jelentkező
-
-Az adatlapot kitöltve átvettem:
-
-Dátum: ............................................................
-
-.......................................................................
-
-fegyveres szerv képviselője

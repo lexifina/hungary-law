@@ -1,3 +1,7 @@
+## VII. Fejezet
+
+## A SZOLGÁLATI VISZONY MEGSZŰNÉSE
+
 ## A szolgálati viszony megszűnésének esetei
 
 53. § A szolgálati viszony megszűnik:

@@ -160,7 +160,7 @@ VII. Szolgálatteljesítési kötelezettséggel nem járó távollétek adatai:
 
 VIII. Összeférhetetlenségre vonatkozó adatok:
 
-– közeli hozzátartozóval engedélyezett alá-fölérendeltségi, elszámolási, ellenőrzési kapcsolat,
+– közeli hozzátartozóval engedélyezett közvetlen irányítási, felügyeleti, ellenőrzési kapcsolat,
 
 – engedélyezett, más kereső foglalkozás,
 

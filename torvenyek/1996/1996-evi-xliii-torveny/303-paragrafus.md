@@ -1,5 +1,3 @@
 ## Állományba tartozás és szolgálatteljesítés
 
-303. § (1)
-
-(2) A 42. § (2) bekezdés e) pontja alapján a hivatásos állomány tagja a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetnél is teljesíthet szolgálatot. Az így szolgálatot teljesítő személyt vezénylésével egyidejűleg a büntetés-végrehajtási intézet rendelkezési állományába kell helyezni.
+303. § A 42. § (2) bekezdés f) pontja alapján a hivatásos állomány tagja a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetnél is teljesíthet szolgálatot. A hivatásos állomány 42. § (2) bekezdés b) pont bd) alpontja, valamint f) pontja alapján a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezethez vezényelt tagja foglalkoztatásával kapcsolatos költségek a vezénylő szervet terhelik.

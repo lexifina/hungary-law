@@ -22,8 +22,18 @@ h) 31 év és annál hosszabb szolgálati viszonyban töltött idő után 10 mun
 
 Ha a hivatásos állomány tagja középfokú vagy ennél alacsonyabb iskolai végzettségű, a pótszabadság mértéke 1-1 nappal kevesebb.
 
-(3) A (2) bekezdés szerinti pótszabadság helyett meghatározott parancsnokokat (vezetőket) vezetői pótszabadság illet meg. Ezek körét, valamint a vezetői pótszabadság 9–15 munkanapig terjedő mértékét fegyveres szervenként e törvénynek a különös szabályokról szóló Második része tartalmazza.
+(3) A (2) bekezdés szerinti pótszabadság helyett a vezetőket vezetői pótszabadság illeti meg. A vezetői pótszabadságra jogosultak köre és mértéke:
 
-(4) A parancsnoki pótszabadságra jogosult a szolgálati idő után járó pótszabadság és a vezetői pótszabadság közül a számára kedvezőbbet választhatja.
+a) osztályvezetői besorolású vezető esetén 11 munkanap,
+
+b) főosztályvezető-helyettesi besorolású vezető esetén 12 munkanap,
+
+c) főosztályvezetői besorolású vezető esetén 13 munkanap,
+
+d) országos parancsnok helyettese esetén 14 munkanap,
+
+e) országos parancsnok esetén 15 munkanap.
+
+(4)
 
 (5) A hivatásos állomány tagját megillető pótszabadság soron következő fokozata először abban az évben jár, amelyben a hivatásos állomány tagja a (2) bekezdésben meghatározott szolgálati időt betölti.

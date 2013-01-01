@@ -5,3 +5,5 @@
 (3) Ha a károkozó nem él panasszal, a kártérítésre vonatkozó határozat végrehajtható.
 
 (4) Az állományilletékes parancsnok határozata elleni panaszt 8 napon belül fel kell terjeszteni az elöljáró parancsnokhoz, aki azt 30 napon belül elbírálja. E határozat ellen a kártérítésre kötelezett bírósághoz fordulhat.
+
+(5) Az Országgyűlési Őrség parancsnokának a határozata ellen panasznak nincs helye, a határozat ellen a kártérítésre kötelezett bírósághoz fordulhat.

@@ -26,7 +26,7 @@ c) a hitel lejártának időpontját.
 
 A fenti adatokban bekövetkezett változásokról a hivatásos állomány tagja haladéktalanul köteles tájékoztatni az állományilletékes parancsnokát.
 
-(6) Amennyiben a hivatásos állomány tagjának szolgálati viszonya az 53. § a)–b) és f)–g), valamint az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi vagy pszichikai állapota miatti megszűnés kivételével –, b) pontja alapján, továbbá az 59. § (1) bekezdés b), d) pontja alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
+(6) Amennyiben a hivatásos állomány tagjának szolgálati viszonya az 53. § a)–b) és f)–g), valamint az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi vagy pszichikai állapota miatti megszűnés kivételével –, b) vagy e) pontja alapján, továbbá az 59. § (1) bekezdés b), d) pontja alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
 
 (7) Az állományilletékes parancsnok a hivatásos állomány tagja szolgálati viszonyának (6) bekezdés szerinti megszűnése esetén erről 8 napon belül értesíti a hivatásos állomány tagja által az (5) bekezdés alapján bejelentett hitelintézetet.
 

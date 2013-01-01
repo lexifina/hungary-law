@@ -12,7 +12,7 @@ a) a felmentésére az 56. § (2) bekezdés a) pontja alapján egészségi, pszi
 
 b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a fegyveres szervnél, más fegyveres vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichikai és fizikai állapotának megfelelő hivatásos, kormánytisztviselői, közalkalmazotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
 
-c) a felmentési idő lejártakor rendelkezik legalább 25 év hivatásos szolgálati viszonyban töltött idővel.
+c) a felmentési idő lejártakor rendelkezik legalább – a 341/D. § szerint megállapított – 25 év hivatásos szolgálati viszonyban töltött idővel.
 
 (3) A (2) bekezdés szerinti tartalékállományban tartás időtartamára a tartalékállományban tartott a felmentését megelőző havi illetménye 50%-ának, de legalább a minimálbérnek megfelelő összegű ideiglenes szolgálati járandóságra jogosult, feltéve, hogy az ideiglenes szolgálati járandóság kezdő napján más biztosítással járó jogviszonyban nem áll, és a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátásban – ide nem értve a Tny. tv. szerinti hozzátartozói nyugellátásokat – nem részesül. A tartalékállomány időtartama társadalombiztosítási szempontból szolgálati időnek számit, a tartalékállományban tartott biztosítási jogviszonyban áll.
 

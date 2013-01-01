@@ -26,29 +26,33 @@ i) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hiva
 
 j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét;
 
-k)
+k) a lakástulajdon megszerzéséhez nyújtott hitelintézeti kölcsön igénybevételének támogatása esetén a kölcsön feltételeit és igénybevételére vonatkozó rendelkezéseket;
 
-l) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és e vizsgák alóli mentesítést;
+l) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és e vizsgák alóli mentesítést, valamint a Rendészeti Alap- és Szakvizsga Bizottságra, a rendészeti alapvizsga vizsgabiztosi névjegyzékére és a rendészeti szakvizsga vizsgabizottsági névjegyzékére vonatkozó rendelkezéseket.
 
 m) a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat;
 
-n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztviselői kártya alkalmazásának szabályait.
+n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztviselői kártya alkalmazásának szabályait;
+
+o) az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként részt vevő hivatásos állományú szolgálati viszonyára és sajátos jogállására vonatkozó rendelkezéseket;
+
+p) a teljesítményértékelés kötelező elemeit és a teljesítményértékelés szintjeit, valamint a kötelező elemek alkalmazásához kapcsolódó eljárás részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy – ha e törvény eltérően nem rendelkezik – rendeletben a (2) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
-1. a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a személyügyi igazgatás rendjét, azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét, azokat a szolgálati beosztásokat, amelyek a rendőrség különleges állományában határozott idejű szolgálati viszonyban tölthetők be, az előmenetel, a teljesítményértékelés, a minősítés és a szolgálati jellemzés készítésének szabályait, a visszavétel, az áthelyezés, a megbízás, a berendelés, a fegyveres szerven belüli vezénylés feltételeit, eljárási rendjét, a munkáltatói intézkedések kiadásának rendjét, a beosztási kategóriákba történő besorolás és az előresorolás rendjét, az illetménykiegészítésre jogosító szervek, szervezeti egységek meghatározását;
+1. a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a személyügyi igazgatás rendjét, azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét, a 42. § (2) bekezdés a) és b) pontjában meghatározott szerveknél, valamint a Miniszterelnökségnél vezényléssel betölthető szolgálati beosztásokat és azok számát, azokat a szolgálati beosztásokat, amelyek a rendőrség különleges állományában határozott idejű szolgálati viszonyban tölthetők be, az előmenetel részletes szabályait, a minősítés készítésének szabályait, a visszavétel, az áthelyezés, a megbízás, a fegyveres szerven belüli vezénylés feltételeit, eljárási rendjét, a munkáltatói intézkedések kiadásának rendjét, a beosztási kategóriákba történő besorolás és az előresorolás rendjét, az illetménykiegészítésre jogosító szervek, szervezeti egységek meghatározását;
 
 2. a miniszter és az országos parancsnok munkáltatói jogkörében nem szereplő, alacsonyabb szintű munkáltatói jogköröket és a jogkört gyakorló elöljárók körét;
 
 3. az illetmény, illetményjellegű juttatások, egyéb juttatások megállapításának, folyósításának valamint a költségek viselésének szabályait, a végkielégítés kifizetésének rendjét;
 
-4. az illetménypótlékra jogosító beosztást, tevékenységet, az illetménypótlék tényleges mértékét e törvény szerinti alsó és felső határ között, azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, illetve, ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, továbbá a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét;
+4. az illetménypótlékra jogosító beosztást, tevékenységet, az illetménypótlék tényleges mértékét e törvény szerinti alsó és felső határ között, azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, valamint, ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét, továbbá a képzettségi és munkaköri pótlékra vonatkozó részletes szabályokat;
 
 5. a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét;
 
-6. a ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, a tervezett viselési (használati) időt és annak módosítását, az egyenruha, a rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
+6. a ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, az egyenruha, a rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
 
 7. a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel összefüggő szabályait, az őr-, ügyeleti, a részben vagy egészben készenléti és a készültségi szolgálatok körét, a túlszolgálat, illetve a készenlét elrendelésének és a pihenőidő kiadásának a rendjét, a nyilvántartás szabályait, a szabadság nyilvántartásának és kiadásának rendjét, valamint a hivatali munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját;
 
@@ -68,7 +72,7 @@ n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztvise
 
 15. a fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, megállapításának módját, mérséklésének és mellőzésének részletes szabályait;
 
-16.
+16. az utánpótlási és vezetői adatbank vezetésének elrendelését és az adatkezelés részletes szabályait, a vezetőkiválasztási eljárás részletes szabályait, a kezelt adatoknak a vezetők kiválasztása során történő felhasználásának szabályait;
 
 17. a kérelem és a panasz elbírálásának rendjét;
 
@@ -78,7 +82,11 @@ n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztvise
 
 20. a szenior állományba vétel fizikai, pszichikai és egészségi feltételeit, a ruházati ellátási normát és a felszerelést;
 
-21. azon fertőző betegségek körét, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.
+21. azon fertőző betegségek körét, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait;
+
+22. a méltatlansági eljárás részletes szabályait;
+
+23. a teljesítményértékelés ajánlott elemeit, valamint az ajánlott elemek alkalmazásához kapcsolódó részletes eljárási szabályokat, a szervezeti teljesítményértékelés és a szakmai teljesítménykövetelmény-minimumok figyelembevételének szabályait, a minősítés tartalmi és eljárási szabályait.
 
 (3)
 
@@ -88,7 +96,9 @@ n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztvise
 
 (6) Felhatalmazást kap a miniszter, hogy a könnyített szolgálat teljesítésének feltételeit, a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket rendeletben – a polgári nemzetbiztonsági szolgálatok, valamint a polgári hírszerző szolgálat esetében utasításban – állapítsa meg.
 
-(7) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztások beosztási kategóriába sorolását, a beosztásban elérhető rendfokozatot, valamint a betöltéséhez szükséges képzettségi (végzettségi) feltételeket rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
+(7) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztások beosztási kategóriába sorolását, a beosztásban elérhető rendfokozatot, valamint a betöltéséhez szükséges képzettségi, végzettségi feltételeket rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
+
+(7a) Felhatalmazást kap a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott, a rendészeti felsőoktatás felügyeletét gyakorló miniszter, hogy az NKE-n rendszeresített hivatásos szolgálati beosztásokat, továbbá azok beosztási kategóriába sorolását rendeletben állapítsa meg.
 
 (8) Felhatalmazást kap a miniszter, hogy a feladatok hatékonyabb ellátása érdekében kísérleti jelleggel az e törvényben nem szereplő – az abban résztvevő állományra anyagi szempontból az e törvényben foglaltaknál nem hátrányosabb – ösztönzési rendszert vezessen be.
 

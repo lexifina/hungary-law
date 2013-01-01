@@ -10,7 +10,7 @@ c) országgyűlési vagy európai parlamenti képviselővé, főpolgármesterré
 
 d) az összeférhetetlenség megszüntetésének elmulasztása [66. § (2) bekezdése];
 
-e) állami vezetővé történt kinevezése, megválasztása;
+e)
 
 f) a részére előírt rendészeti alapvizsga vagy a rendészeti szakképesítés megszerzésére vonatkozó kötelezettség meghatározott időben nem teljesítése
 

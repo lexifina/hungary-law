@@ -2,7 +2,7 @@
 
 114. § (1) A hivatásos állomány tagja részére – szolgálati viszonya alapján – visszatérítendő, illetőleg vissza nem térítendő szociális, jóléti és kulturális kedvezmények és támogatások biztosíthatók. Ezek különösen a következők:
 
-a)
+a) üdülési támogatás,
 
 b) családalapítási támogatás,
 
@@ -14,7 +14,7 @@ e) illetményelőleg,
 
 f) tanulmányi ösztöndíj, képzési, továbbképzési támogatás.
 
-(2)
+(2) A hivatásos állomány tagja – kiemelkedő munkateljesítménye alapján – üdülési támogatásban részesíthető. Az üdülési támogatás összege magában foglalja a hivatásos állomány tagjával közös háztartásban élő házastársa, élettársa, valamint eltartott gyermeke üdülésének támogatását is.
 
 (3) A hivatásos állomány tagját a belföldi menetrend szerinti távolsági közlekedési eszközök igénybevételénél jogszabályban meghatározott utazási kedvezmény illeti meg.
 

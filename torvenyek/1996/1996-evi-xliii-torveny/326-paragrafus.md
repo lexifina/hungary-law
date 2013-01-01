@@ -12,6 +12,6 @@
 
 (2)
 
-(3) A hivatásos szolgálati viszonyban töltött idő a kinevezési okmánnyal történt állománybavétel napjától a szolgálati viszony megszűnésének napjáig tart.
+(3) A tényleges hivatásos szolgálati viszonyban töltött idő a hivatásos állományba vétel napjától a szolgálati viszony megszűnésének napjáig tart. A tényleges hivatásos szolgálati időbe a 2012. január 1-je előtt hatályos szabályok alapján számított kedvezményes szolgálati időt is be kell számítani.
 
 (4) E törvény hatálybalépését követően a továbbszolgálói szolgálati viszonyban eltöltött időt szerződéses szolgálati viszonyban töltött szolgálati időnek kell tekinteni. Ha a szerződéses állomány tagja hivatásos szolgálati viszonyt létesít, az addig szerződéses szolgálati viszonyban eltöltött ideje hivatásos szolgálati viszonyban töltött időnek számít.

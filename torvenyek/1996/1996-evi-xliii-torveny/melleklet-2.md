@@ -616,7 +616,7 @@ Vezényléssel kapcsolatos intézkedések
 
 |
 
-– tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külszolgálatra történő vezénylése
+– tábornok, főtiszt, tiszt, zászlós, tiszthelyettes 3 hónapot meghaladó időtartamú külszolgálatra vezénylése
 
 |
 

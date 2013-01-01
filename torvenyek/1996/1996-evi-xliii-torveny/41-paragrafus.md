@@ -1,10 +1,10 @@
 ## Próbaidő
 
-41. § (1) A szolgálati viszony létesítésekor – a katonai és rendvédelmi oktatásban végzettek kivételével – legalább három, de legfeljebb tizenkét hónapig terjedő próbaidőt kell kikötni. Tizenkét hónap próbaidőt kell kikötni, ha a jelentkező nem rendelkezik a beosztáshoz szükséges szakirányú iskolai végzettséggel (szakképesítéssel).
+41. § (1) A szolgálati viszony létesítésekor legalább három, de legfeljebb tizenkét hónapig terjedő próbaidőt kell kikötni. Tizenkét hónap próbaidőt kell kikötni, ha a jelentkező nem rendelkezik a beosztáshoz szükséges szakirányú iskolai végzettséggel (szakképesítéssel).
 
 (2) A hivatásos állomány tagját a próbaidő alatt a fegyveres szerv sajátosságainak megfelelő képzésben kell részesíteni.
 
-(3) A hivatásos állomány tagja a próbaidő alatt a jogszabályban meghatározott illetményre és – lakás és lakhatási támogatás kivételével – a szolgálat teljesítéséhez szükséges egyéb ellátásra jogosult.
+(3) A hivatásos állomány tagja a próbaidő alatt a jogszabályban meghatározott illetményre és – a 115. § (1) bekezdés b)–c) és g) pontja szerinti lakhatási támogatások kivételével – a szolgálat teljesítéséhez szükséges egyéb ellátásra jogosult.
 
 (4) A próbaidő alatt a szolgálati viszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti.
 

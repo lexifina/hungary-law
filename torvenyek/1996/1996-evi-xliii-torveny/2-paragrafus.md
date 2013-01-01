@@ -4,7 +4,7 @@
 
 a) munkáltatói jogkört gyakorló elöljáró: az a parancsnok, vezető, aki jogosult a szolgálati viszony létesítésére, megszüntetésére, tartalmának törvény szerinti érvényesítésére, a fegyelmi és kártérítési felelősség megállapítására, valamint mindazon jogok gyakorlására és kötelezettségek teljesítésére, amelyeket jogszabály a munkáltató részére meghatároz;
 
-b) állományilletékes parancsnok: az az általános munkáltatói jogkört gyakorló elöljáró, aki a fegyveres szerv olyan szervezeti egységét vezeti, amely önálló állománytáblával rendelkezik; gyakorolja mindazon munkáltatói jogokat, és teljesíti azokat a kötelezettségeket, amelyeket a törvény nem határoz meg más parancsnok, vezető részére;
+b) állományilletékes parancsnok: az az általános munkáltatói jogkört gyakorló elöljáró, aki a fegyveres szerv olyan szervezeti egységét vezeti, amely önálló állománytáblázattal rendelkezik; gyakorolja mindazon munkáltatói jogokat, és teljesíti azokat a kötelezettségeket, amelyeket a törvény nem határoz meg más parancsnok, vezető részére;
 
 c) elöljáró parancsnok: az állományilletékes parancsnok közvetlen szolgálati elöljárója;
 
@@ -24,19 +24,17 @@ j) a szolgálatteljesítés helye: az a földrajzilag körülhatárolható terü
 
 k) kinevezés: a munkáltatói jogkört gyakorló elöljáró rendelkezése hivatásos állományba vételről (szolgálati viszony létesítéséről); magasabb vagy azonos, illetve vezetői beosztásba helyezésről; az első, az első tiszti és tábornoki rendfokozatok megállapításáról;
 
-l) felmentés: a szolgálati beosztás betöltése, valamint a szolgálati viszony megszüntetésének módja;
+l) szolgálati érdek: a fegyveres szerv vagy valamely szervezeti egysége jogszerű, rendeltetésszerű és eredményes működéséhez, jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott feladatainak teljesítéséhez szükséges, vagy azt meghatározó módon befolyásoló személyi feltétel, illetve körülmény;
 
-m) áthelyezés: a fegyveres szerv szervezeti egységén belül, vagy az egyik szervezeti egységtől a másik szervezeti egységhez történő kinevezés vagy alacsonyabb beosztásba helyezés, amely az érintett miniszterek megállapodása alapján történhet fegyveres szervek között is; továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés;
+m) állománytáblázat: a fegyveres szerv szervezeti egységénél rendszeresített szervezeti elemeket, a rendszeresített szolgálati beosztásokat vagy nem hivatásos munkakörök megnevezését, illetménybesorolását, az abban elérhető legmagasabb rendfokozatot, valamint az azok ellátásához szükséges képesítési, képzettségi és egyéb követelményeket meghatározó okmány;
 
-n) berendelés: a fegyveres szervet irányító miniszter arra irányuló rendelkezése, hogy a hivatásos állomány tagja a Miniszterelnökségnél, az általa vezetett minisztériumban vagy törvényben meghatározott – a miniszter irányítása, felügyelete, valamint költségvetési jogállása alapján irányítása, felügyelete alá tartozó – szervnél meghatározott beosztásban teljesítse szolgálatát;
+n) rendvédelmi oktatási intézmény: a nemzeti köznevelésről szóló 2011. évi CXC. törvény 36. § (1) bekezdésében meghatározott rendelkezés szerint a fegyveres szerv részére létesített és fenntartott köznevelési intézmény, valamint a rendvédelmi felsőoktatást folytató felsőoktatási intézmény;
 
 o) szolgálati viszonyra vonatkozó szabály: e törvényben és a végrehajtására kiadott rendeletekben, illetve az e törvényben megnevezett törvényekben és azok végrehajtási rendeleteiben meghatározott rendelkezés;
 
 p) közeli hozzátartozó: a házastárs, a bejegyzett élettárs, az egyenes ágbeli rokon, a házastárs egyenes ágbeli rokona, a bejegyzett élettárs egyenes ágbeli rokona, az örökbefogadott, mostoha és nevelt gyermek, az örökbefogadó, a mostoha és a nevelő szülő, a testvér, valamint az élettárs;
 
-r) vezénylés: a hivatásos állomány tagjának az eredeti szervezeti egységétől meghatározott szolgálati feladat teljesítése céljából más szervezeti egységhez időleges, illetőleg a rendelkezési állományból más szervezeti egységhez, valamint más szervhez időleges vagy határozatlan időtartamra történő átirányítása;
-
-s) magasabb beosztás: nagyobb felelősséggel, szélesebb hatáskörrel és ennek megfelelően magasabb rendfokozattal és illetménnyel járó státusz;
+r)–s)
 
 t) átszervezés: a fegyveres szervnél végrehajtott – a kizárólag névváltoztatással járó szervezetmódosításon kívüli – minden olyan szervezési intézkedés, amely az egyes szervezeti egységek egészét vagy azok egyes elemeit érinti, amelyből eredően új szervezeti elemek, beosztások létesülnek vagy azok megszűnnek, illetve módosulnak és ennek következtében megváltozik az adott szervezeti elem, illetve egyes beosztások szervezeti szint szerinti besorolása, vagy a beosztás egyes elemei (munkakör tartalma, a szolgálatteljesítés helye, beosztási kategória, rendszeresített rendfokozat) módosulnak. Nem átszervezés, ha a szolgálati beosztást – szolgálati jellegének megszűnése miatt – a miniszter köztisztviselői, vagy közalkalmazotti munkakörré minősíti át. Nem minősül átszervezésnek az sem, ha a fegyveres szerv egészét vagy az érintett szervezeti egységét más fegyveres szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más fegyveres szerv állományába kerül, feltéve, hogy a szolgálati beosztásának felsorolt jellemzői – így különösen a hivatásos állomány tagjának szolgálati beosztása és helye, rendfokozata, a besorolási osztályon belüli beosztási kategóriája, fizetési fokozata, szolgálati rendje, vezényelhetősége – egyébként nem változnak;
 

@@ -10,4 +10,4 @@
 
 (3) Jogszabályban meghatározott rész munkáltatói jogokat az állományilletékes parancsnok alárendeltségébe tartozó parancsnok, kiemelt munkáltatói jogokat a törvény 2. számú melléklete alapján az országos parancsnok, a bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv vezetője, valamint a miniszter gyakorol.
 
-(4)
+(4) Tábornok szolgálati viszonyának létesítéséről, megszüntetéséről, hivatásos állományba visszavételéről, tábornoki rendfokozatba történő kinevezéséről, előléptetéséről, valamint a tábornokra vonatkozó rendfokozatot vagy szolgálati viszonyt érintő fegyelmi fenyítés kiszabásáról a miniszter javaslatára a köztársasági elnök dönt.

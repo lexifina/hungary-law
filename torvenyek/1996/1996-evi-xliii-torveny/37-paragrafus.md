@@ -1,6 +1,6 @@
 ## A szolgálati viszony létesítésének feltételei
 
-37. § (1) Hivatásos szolgálati viszony önkéntes jelentkezés alapján azzal a 18. életévét betöltött, de 37 évnél nem idősebb, cselekvőképes, állandó belföldi lakóhellyel rendelkező, a rendfokozati állománycsoporthoz meghatározott iskolai végzettségű, szakképzettségű magyar állampolgárral létesíthető,
+37. § (1) Hivatásos szolgálati viszony önkéntes jelentkezés alapján azzal a 18. életévét betöltött, de a hivatásos szolgálati viszony felső korhatárát még el nem érő, cselekvőképes, állandó belföldi lakóhellyel rendelkező, a rendfokozati állománycsoporthoz meghatározott iskolai végzettségű, szakképzettségű magyar állampolgárral létesíthető,
 
 a) aki a hivatásos szolgálatra egészségi, pszichikai és fizikai szempontból alkalmas,
 
@@ -12,9 +12,7 @@ d) aki tudomásul veszi, hogy szolgálati viszonya fennállása alatt szolgálat
 
 e) aki hozzájárul a jogszabályokban meghatározott szintű nemzetbiztonsági ellenőrzéséhez, ha az a beosztása ellátásához szükséges.
 
-(2) Hivatásos szolgálati viszony létesíthető azzal a szerződéses szolgálati jogviszonyban lévő személlyel, akinek szolgálati idejéből már legalább egy év eltelt és megfelel az (1) bekezdésben, valamint a 37/A. § (1) bekezdésében előírt feltételeknek.
-
-(3) Tiszti kinevezés esetén a miniszter, egyéb esetben az országos parancsnok hozzájárulásával a munkáltatói jogkört gyakorló elöljáró indokolt esetben szolgálati viszonyt létesíthet a 47. életévét még be nem töltött személlyel. A Nemzeti Adó- és Vámhivatalnál tiszti kinevezés esetén a miniszter, egyéb esetben az országos parancsnok hozzájárulásával a munkáltatói jogkört gyakorló elöljáró indokolt esetben szolgálati viszonyt létesíthet a 47. életévét már betöltött személlyel is.
+(2)–(3)
 
 (4) A szolgálati viszony létesítéséhez szükséges, az (1) bekezdésben meghatározott adatokat és tényeket a jelentkezőnek igazolnia kell.
 

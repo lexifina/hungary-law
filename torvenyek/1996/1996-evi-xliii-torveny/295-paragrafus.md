@@ -1,3 +1,1 @@
-## Fegyelmi felelősség
-
 295. §

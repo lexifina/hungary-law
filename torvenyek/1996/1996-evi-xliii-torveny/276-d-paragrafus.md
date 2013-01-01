@@ -1,0 +1,3 @@
+276/D. § (1) A szolgálati viszonyt létesítő személyt, aki még nem rendelkezik az Országgyűlési Őrségnél előírt szakképzettséggel – a feltételek biztosítása mellett – megfelelő határidő kitűzésével kötelezni kell a szakképzettség megszerzésére. Ha ennek az előírt határidőben nem tesz eleget, a szolgálati viszonya az 59. § (1) bekezdés b) pontja alapján megszűnik.
+
+(2) Az Országgyűlési Őrség hivatásos állományának szakképzettséggel nem rendelkező tagja önálló intézkedésre nem jogosult, szolgálatba történő beosztására az Országgyűlési Őrség hivatásos állományú, szakképzettséggel rendelkező tagjának alárendelten vagy kötelékben alkalmazva kerülhet sor.

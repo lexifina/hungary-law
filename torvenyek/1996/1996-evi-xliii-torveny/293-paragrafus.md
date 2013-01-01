@@ -12,7 +12,7 @@ Egy hónapra számítva:
 
 – gépjárművezetői pótlék 13%
 
-– a 285. § (2) bekezdésében meghatározott szerv állományának pótléka 30%
+–
 
 – közterületi pótlék 45%
 

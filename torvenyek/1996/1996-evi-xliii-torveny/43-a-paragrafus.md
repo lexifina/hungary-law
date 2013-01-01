@@ -1,1 +1,1 @@
-43/A. § A hivatásos állomány tagja – a hivatásos szolgálati jogviszonyát nem érintve – az ügyészi szervezethez a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével meghatározott feladat ellátására vezényelhető. A hivatásos állomány tagjának ügyészséghez vezénylésére a 43–44. §-ban foglalt szabályokat kell alkalmazni.
+43/A. §

@@ -18,13 +18,13 @@ g) aki szolgálati feladatait önhibáján kívüli okból (pl. gyermekgondozás
 
 h)
 
-i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 245/D. § (2) és (5) bekezdés szerinti beosztás felajánlására nincs lehetőség;
+i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 75/B. § (5) és (7) bekezdés szerinti beosztás felajánlására nincs lehetőség;
 
-j) akinek a részére a más szervhez vezénylés, illetve berendelés megszüntetését követően a 43. § (4) bekezdés, illetve a 248. § (4) bekezdés d) pontja szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig.
+j) akinek a részére a más szervhez vezénylés megszüntetését követően a 43. § (4) bekezdés, illetve a 248. § (4) bekezdés d) pontja szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig.
 
 (2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 43. § – az NKE-re vezényeltek esetében a 43. § és a 43/C. § – rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
-(3)
+(3) Az (1) bekezdés c)–g) pontja szerinti rendelkezési állomány megszűnésekor a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a rendelkezési állományba helyezést megelőző beosztásával azonos besorolási szintű szolgálati beosztást kell biztosítani, ilyen beosztás hiányában legalább a végzettségének, képzettségének megfelelő beosztást kell felajánlani. Amennyiben a hivatásos állomány tagjának ilyen beosztás nem biztosítható, szolgálati viszonyát felmentéssel meg kell szüntetni.
 
 (4)
 

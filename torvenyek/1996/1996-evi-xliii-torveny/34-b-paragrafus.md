@@ -1,6 +1,6 @@
 34/B. § (1) A közvetlen felsőbb szakszervezeti szerv egyetértése szükséges a szakszervezetnél választott tisztséget betöltő és a szakszervezet által megjelölt hivatásos állományú tag 15 munkanapot elérő vezényléséhez és a szolgálatteljesítési helyének megváltoztatásához, továbbá szolgálati viszonyának a fegyveres szerv által felmentéssel történő megszüntetéséhez kivéve, ha a felmentés az 56. § (2) bekezdése alapján kötelező. Az 56. § (2) bekezdés szerinti felmentésről a közvetlen felsőbb szakszervezeti szervet előzetesen értesíteni kell.
 
-(2) Az (1) bekezdésben foglaltak alkalmazása során a szakszervezet állományilletékes parancsnok által vezetett, önálló állománytáblával rendelkező szervenként a hivatásos állomány legfeljebb egy tagját jogosult megjelölni.
+(2) Az (1) bekezdésben foglaltak alkalmazása során a szakszervezet szervezeti egységenként a hivatásos állomány legfeljebb egy tagját jogosult megjelölni.
 
 (3) A szakszervezet az (1) bekezdés szerinti védelemre jogosult hivatásos állományú tag helyett másikat akkor jelölhet meg, ha a védelemre jogosult szolgálati viszonya vagy tisztsége megszűnt.
 

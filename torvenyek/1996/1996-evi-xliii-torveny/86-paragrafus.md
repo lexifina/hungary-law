@@ -8,7 +8,7 @@ b) gyermekét egyedül nevelő tagját gyermekének 6 éves koráig, ha annak fe
 
 (2) A munkaközi szünetet a napi szolgálatteljesítési időn belül kell kiadni.
 
-(3) A hivatásos állomány tagja részére a napi szolgálati tevékenység befejezése és a másnapi szolgálatteljesítés megkezdése között legalább 8 óra pihenőidőt kell biztosítani, amelybe a lakásról a szolgálati helyre és az onnan való visszautazás időtartama nem számít bele.
+(3) A hivatásos állomány tagja részére a napi szolgálati tevékenység befejezése és a következő napi szolgálatteljesítés megkezdése között legalább 8 óra egybefüggő pihenőidőt kell biztosítani, amelybe a lakásról a szolgálati helyre és az onnan való visszautazás időtartama nem számít bele. A napi pihenőidő, ha az a nyári időszámítás kezdetének időpontjára esik, legalább 7 óra.
 
 (4) A hivatásos állomány tagját hetenként 2 pihenőnap illeti meg, amelyet lehetőleg együtt kell kiadni. A folyamatos ügyeleti szolgálat ellátására szervezett beosztásokban szolgálatot teljesítők esetében az 1 hónapra eső pihenőnapok közül legalább az egyiknek vasárnapra kell esnie.
 

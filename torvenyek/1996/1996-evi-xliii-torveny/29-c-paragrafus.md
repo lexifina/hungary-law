@@ -26,17 +26,17 @@ c) a PEB elnöke,
 
 d) az EB elnöke.
 
-(8) A PEB a Közgyűlés által megválasztott, tagozatonként egy, összesen öt tagból áll. A PEB elnökét a Közgyűlés választja meg.
+(8) A PEB a Közgyűlés által megválasztott, tagozatonként egy, összesen hat tagból áll. A PEB elnökét a Közgyűlés választja meg.
 
-(9) Az EB a Közgyűlés által megválasztott, tagozatonként négy, összesen húsz tagból áll. Az EB elnökét a Közgyűlés választja meg. Az EB az Alapszabályban meghatározott módon háromtagú tanácsban jár el.
+(9) Az EB a Közgyűlés által megválasztott, a 29. § (3) bekezdés a)–e) pontja szerinti tagozatonként négy, valamint a 29. § (3) bekezdés f) pontja szerinti tagozat esetében egy, összesen huszonegy tagból áll. Az EB elnökét a Közgyűlés választja meg. Az EB az Alapszabályban meghatározott módon háromtagú tanácsban jár el.
 
-(10) A Közgyűlés által megválasztott elnök az MRK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját a Közgyűlés által megválasztott, tagozatonként egy-egy, összesen öt alelnök segíti.
+(10) A Közgyűlés által megválasztott elnök az MRK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját a Közgyűlés által megválasztott, tagozatonként egy-egy, összesen hat alelnök segíti.
 
 (11) A Közgyűlés által megválasztott főtitkár vezeti az MRK Irodáját (a továbbiakban: Iroda), valamint ellátja az Alapszabályban meghatározott feladatokat.
 
 (12) Az Elnökség, az Elnökség tagjai, a PEB és az EB feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
-(13) Etikai vétség gyanúja esetén az MRK a tagja ellen etikai eljárást folytat le. Etikai vétséget követ el az, aki e törvény 70/A. §-a rendelkezéseit, a Rendvédelmi Hivatásetikai Kódexnek a fegyveres szerv hivatásos állományú tagjaira a rájuk vonatkozó –, illetve közalkalmazott esetén a Rendvédelmi Hivatásetikai Kódexnek a fegyveres szerv közalkalmazottaira vonatkozó – előírásait, valamint az Alapszabály vagy az Etikai Eljárási Szabályzat rendelkezéseit megszegi.
+(13) Etikai vétség gyanúja esetén az MRK a tagja ellen etikai eljárást folytat le. Etikai vétséget követ el az, aki e törvény 70/B. §-a rendelkezéseit, a Rendvédelmi Hivatásetikai Kódexnek a fegyveres szerv hivatásos állományú tagjaira a rájuk vonatkozó –, illetve közalkalmazott esetén a Rendvédelmi Hivatásetikai Kódexnek a fegyveres szerv közalkalmazottaira vonatkozó – előírásait, valamint az Alapszabály vagy az Etikai Eljárási Szabályzat rendelkezéseit megszegi.
 
 (14) Az etikai eljárás eredménye alapján az MRK
 

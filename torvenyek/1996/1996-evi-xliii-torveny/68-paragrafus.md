@@ -21,3 +21,23 @@ g) szolgálaton kívül is a hivatásos állomány tagjához és beosztásához 
 (4) A miniszter rendeletben határozza meg azokat a fertőző betegségeket, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan – így különösen a külföldi szolgálat végrehajtása során – a hivatásos állomány tagjának vagy egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázatának elkerülése érdekében kötelező védőoltás elrendelésének van helye. A kötelező védőoltást a fegyveres szerv egészségügyi szakfeladatainak ellátásáért felelős vezető főorvos javaslatára az országos parancsnok rendeli el. Az országos parancsnok által elrendelt kötelező védőoltás alól az Eütv. 58. § (3) bekezdése szerinti mentesítést a hivatásos állomány védőoltásra kötelezett tagja, törvényes képviselője, illetve kezelőorvosa a fegyveres szerv egészségügyi szakfeladatainak ellátásáért felelős főorvosnál kezdeményezheti.
 
 (5) A hivatásos állomány tagja a fegyveres szerv hivatásos állományba tartozását szolgálati igazolványával igazolja. Ha jogszabály előírja, a hivatásos állomány tagját a szolgálata ellátásához szolgálati azonosító jelvénnyel is el kell látni.
+
+(6) A szolgálati igazolvány a fegyveres szerv hivatásos állományába tartozáson túl – a miniszter által meghatározottak szerint – igazolhatja a hivatásos állomány tagjának
+
+a) fegyverviselésre jogosultságát, valamint
+
+b) intézkedésre jogosultságát.
+
+(7) A szolgálati igazolvány – a miniszter által meghatározottak szerint – a hivatásos állomány tagja személyes adatai közül tartalmazhatja a hivatásos állomány tagjának
+
+a) nevét,
+
+b) arcképét,
+
+c) állományviszonyát és rendfokozatát,
+
+d) aláírását,
+
+e) társadalombiztosítási azonosító jelét,
+
+f) vércsoportját.

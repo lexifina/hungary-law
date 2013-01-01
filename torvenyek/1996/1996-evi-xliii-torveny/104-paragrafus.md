@@ -22,4 +22,6 @@ c) alapfokú ,,C'' típusú nyelvvizsga esetén az illetményalap 15%-a.
 
 (6) Ha a hivatásos állomány tagja az (5) bekezdésben meghatározott idegen nyelvekből ,,A'' vagy ,,B'' típusú nyelvvizsgával rendelkezik, a (4) bekezdésben foglalt, ,,C'' típusú nyelvvizsgára meghatározott mértékű nyelvpótlékra jogosult.
 
+(6a) Ha a hivatásos állomány tagja ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú vagy különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult.
+
 (7) Ha a fegyveres szerv a nyelvvizsga megszerzéséhez pénzügyi támogatást nyújt, akkor a hivatásos állomány tagja mindaddig nem jogosult az így megszerzett idegennyelv-tudás alapján idegennyelv-tudási pótlékra, amíg a havonta fizetendő pótlék együttes összege nem éri el a tanulmányi szerződés alapján kifizetett pénzügyi támogatás összegét.

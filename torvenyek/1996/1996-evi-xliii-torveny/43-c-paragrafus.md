@@ -1,11 +1,1 @@
-43/C. § (1) A hivatásos állomány tagja – beleegyezésével – vezetői, oktatói és kiképzői feladatokra, határozott vagy határozatlan időtartamra a Nemzeti Közszolgálati Egyetemre (a továbbiakban: NKE) vezényelhető. A vezénylésre a 43. § (1)–(3) bekezdését az e §-ban meghatározott eltérésekkel kell alkalmazni.
-
-(2) Az NKE-n rendszeresített, e törvény hatálya alá tartozó alapbeosztásokat, továbbá azok e törvény szerinti besorolását a Kormány az NKE Fenntartói Testület – a felügyelő miniszterek jóváhagyásával előterjesztett – javaslatára rendeletben állapítja meg. A hivatásos szolgálati beosztás a Fenntartói Testület egyetértésével szolgálati viszonyban nem álló személlyel is betölthető.
-
-(3) A vezényelt a besorolásának megfelelő illetményre és e törvény szerinti pótlékokra, juttatásokra, támogatásokra és költségtérítésre jogosult azzal, hogy azokat az eredeti fegyveres szerv folyósítja. A vezetői és oktatói szolgálati beosztásba vezényelt kormányrendeletben meghatározott feltételekkel és mértékben rendészeti felsőoktatási illetménykiegészítésre, továbbá a nemzeti felsőoktatásról szóló törvényben, vagy az NKE szabályzataiban meghatározott feltételekkel juttatásokra, támogatásokra, valamint költségtérítésekre is jogosult, illetve azokban részesíthető.
-
-(4) A (3) bekezdésben meghatározott rendészeti felsőoktatási illetménykiegészítés az NKE-t terheli azzal, hogy annak összegét átadja az eredeti fegyveres szerv részére és azt a fegyveres szerv az illetmény részeként folyósítja. Az egyéb juttatásokat és támogatásokat az NKE folyósítja és azzal az NKE felé kell a hivatásos állomány tagjának elszámolnia.
-
-(5) A vezényelt oktatói, tudományos ismeretei fejlesztése érdekében, vagy az NKE nemzetközi kapcsolatai keretében – az NKE rektorának kezdeményezésre – külföldi szolgálatra vezényelhető. A külföldre vezénylés tartamára az e törvény vagy a végrehajtására kiadott rendelet alapján járó, az eredeti fegyveres szerv költségvetését terhelő költségtérítést az NKE saját költségvetése terhére kiegészítheti.
-
-(6) A Nemzeti Adó- és Vámhivatal állományába tartozók esetében a (3) bekezdést a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvényben foglalt eltérésekkel kell alkalmazni.
+43/C. §

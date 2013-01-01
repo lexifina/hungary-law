@@ -38,6 +38,6 @@ megfelelő címpótlékot kell folyósítani.
 
 a) a hivatásos állomány tagja jogerősen pénzbírságnál súlyosabb fegyelmi fenyítésben részesült, illetve
 
-b) a hivatásos állomány tagjával szemben – megrovás és járművezetéstől eltiltás kivételével – a bíróság büntetést szabott ki vagy intézkedést alkalmazott, feltéve, hogy a szolgálati viszonya e törvény alapján nem szűnt meg.
+b) a hivatásos állomány tagjával szemben a bíróság szabadságvesztést, pénzbüntetést, közérdekű munka büntetést, katonai büntetést vagy katonai mellékbüntetést szabott ki.
 
 (6) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a fegyveres szervek hivatásos állományú tagjai is részt vehetnek, és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosultak.
