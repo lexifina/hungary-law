@@ -8,6 +8,6 @@
 
 (4) Az (1) bekezdés szerinti adóelőleg módosítását az esedékesség időpontjáig benyújtott kérelemben lehet kérni.
 
-(5) Az állami adóhatóság a bejelentett érték alapján fizetendő illetékelőleget állapíthat meg.
+(5)
 
 (6) Az adóelőleg akkor is fizethető, ha azt törvény nem írja elő.

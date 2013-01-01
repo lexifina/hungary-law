@@ -188,13 +188,13 @@ teljesíti.
 
 6. Játékadó
 
-6.1. Az adózó – a 6.2.–6.4. alpontokban foglalt kivétellel – a játékadót a tárgyhót követő hó 20. napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó 20. napjáig vallja be és fizeti meg.
+6.1. Az adózó – a 6.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó 20. napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó 20. napjáig vallja be és fizeti meg.
 
 6.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
 
-6.3. A pénznyerő automata üzemeltetése után fizetendő 20%-os százalékos mértékű játékadót az adózó a tárgynegyedévet követő hónap 20. napjáig vallja be és fizeti meg.
+6.3.
 
-6.4. A helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése esetén fizetendő 33%-os százalékos mértékű játékadót az adózó a tárgynegyedévet követő hónap 20. napjáig vallja be és fizeti meg.
+6.4.
 
 7. Rehabilitációs hozzájárulás
 

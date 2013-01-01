@@ -1,6 +1,6 @@
 30. § (1) A magánszemély a munkáltatónál, kifizetőnél a kifizetést megelőzően nyilatkozhat – a jogcímet megjelölve – arról, hogy a kifizetést járulékfizetési kötelezettség nem terheli. A magánszemély nyilatkozata az adóbevallással egyenértékű.
 
-(2) A járulékfizetési kötelezettség felső határát meghaladóan levont nyugdíjjárulékot az önadózó magánszemély a jövedelemadóról benyújtott adóbevallásában igényelheti vissza, feltéve, hogy a különbözetet év közben a munkáltatóval (kifizetővel) nem számolta el.
+(2)
 
 (3) Ha a munkáltató (kifizető) a magánszemélynek teljesített kifizetésről szóló igazolás kiállítását követően tárja fel, hogy a magánszemélyt terhelő járulékot nem a törvényben meghatározottak szerint állapította meg és vonta le, a feltárt hibát nyilvántartásba veszi. Amennyiben a hiba a törvényben meghatározottnál alacsonyabb összegű járulék levonását eredményezte, a munkáltató (kifizető) az igazolás kiállításának napjától a nyilvántartásba vétel napjáig a levonni elmulasztott járulék után önellenőrzési pótlékot állapít meg, vall be, és fizet meg.
 

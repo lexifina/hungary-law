@@ -4,7 +4,7 @@
 
 ## Nyomtatványok, elektronikus űrlapok, adóügyek elektronikus intézése, felhatalmazás rendeletalkotásra
 
-175. § (1) Az adóhatóság az adókötelezettségek teljesítéséhez nyomtatványt, elektronikus űrlapot rendszeresíthet különösen a bejelentésre, a bevallásra, a költségvetési támogatás előlegének, gyakoribb igénybevételének igénylésére, az adatszolgáltatásra, a bevallás kiegészítésére szóló felhívásra tett nyilatkozatra, az önellenőrzésre, az adófizetésre, átvezetésre és az adófolyószámla egyeztetésére. A rendszeresített nyomtatványon történő teljesítéssel azonos értékű, ha az iratot az adózó az adóhatóság honlapján közzétett számítógépes program segítségével tölti ki és állítja elő, és a kinyomtatott iratot aláírva az adóhatósághoz benyújtja, illetőleg elektronikus úton küldi meg az adóhatósághoz.
+175. § (1) Az adóhatóság az adókötelezettségek, valamint adótörvényben, vagy adótörvény felhatalmazása alapján kiadott rendeletben meghatározott más kötelezettség teljesítéshez, illetve kérelem benyújtásához nyomtatványt, elektronikus űrlapot rendszeresíthet különösen a bejelentésre, a bevallásra, a költségvetési támogatás előlegének, gyakoribb igénybevételének igénylésére, az adatszolgáltatásra, a bevallás kiegészítésére szóló felhívásra tett nyilatkozatra, az önellenőrzésre, az adófizetésre, átvezetésre és az adófolyószámla egyeztetésére. A rendszeresített nyomtatványon történő teljesítéssel azonos értékű, ha az iratot az adózó az adóhatóság honlapján közzétett számítógépes program segítségével tölti ki és állítja elő, és a kinyomtatott iratot aláírva az adóhatósághoz benyújtja, illetőleg elektronikus úton küldi meg az adóhatósághoz.
 
 (2) A helyi iparűzési adóval illetve az idegenforgalmi adóval kapcsolatos bejelentési (változásbejelentési) kötelezettségeket az adópolitikáért felelős miniszter által az erre a célra rendszeresített nyomtatványon kell teljesíteni.
 
@@ -20,11 +20,11 @@
 
 (8) Az állami adóhatóság meghatározza és közzéteszi a rendszeresített nyomtatványok tartalmát és formáját, gondoskodik arról, hogy azok az adózók számára megfelelő időben, könnyen elérhető helyen álljanak rendelkezésre. A bevallási és adatszolgáltatási nyomtatványokat – ideértve az adóhatóság honlapján közzétett informatikai alkalmazásokat – a benyújtásukra előírt határidőt megelőzően legalább 30 nappal kell közzétenni. A térítés ellenében beszerezhető nyomtatványok gyártói kiválasztásának és forgalmazásának részletes szabályait a kormány rendeletben határozza meg.
 
-(9) A 31. § (2) bekezdésében meghatározott bevallás benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adóhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését elektronikus úton teljesíti.
+(9) A 31. § (2) bekezdésében meghatározott bevallás, valamint a 31/B. § szerinti általános forgalmi adó összesítő jelentés benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adóhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését, továbbá adóhatósági igazolás kiadására irányuló kérelmének előterjesztését elektronikus úton teljesíti. Az 5/A. § (6) bekezdésében meghatározott, sürgősségi eljárást kérő adózó fizetési könnyítési tárgyú kérelmének előterjesztését elektronikus úton teljesíti.
 
 (10) Az adóazonosító számmal rendelkező adózó az állami adóhatósághoz teljesítendő bejelentési, változásbejelentési kötelezettségének elektronikus úton is eleget tehet, illetőleg adóügyeiben az adóhatóságnál a (13) bekezdés szerinti beadványait elektronikus úton is előterjesztheti.
 
-(11) Az adózó általános, nemleges adóigazolás, a jövedelemigazolás, illetve az együttes adóigazolás iránti kérelmét az adó- és vámhatósághoz elektronikus úton is előterjesztheti. Ez esetben az adó- és vámhatóság az igazolást elektronikus űrlapon állítja ki és küldi meg az adózó részére.
+(11) Az adózó általános, nemleges adóigazolás, a jövedelemigazolás, illetve az együttes adóigazolás iránti kérelmét az adó- és vámhatósághoz elektronikus úton is előterjesztheti. Ez esetben az adó- és vámhatóság az igazolást az adózó választása szerint papíron vagy elektronikus űrlapon állítja ki és küldi meg az adózó részére.
 
 (12) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy azokat az értékhatárokat és feltételeket, amelyek alapján
 
@@ -40,7 +40,7 @@ a) a bevallási, adatszolgáltatási kötelezettség teljesítésének,
 
 b) a bejelentési, változásbejelentési kötelezettség teljesítésének,
 
-c) az adóhatósági igazolás, a fizetési könnyítés, adómérséklés, illetőleg a köztartozásmentes adózói adatbázisba történő felvétel iránti kérelmek intézése rendjének,
+c) az adóhatósági igazolás, a fizetési könnyítés, adómérséklés, illetőleg a köztartozásmentes adózói adatbázisba történő felvétel, valamint másolat kiadása iránti kérelmek intézése rendjének,
 
 d) az adófizetés teljesítésének,
 
@@ -117,3 +117,17 @@ b) másolásának,
 c) elektronikus úton történő ellenőrzésének
 
 módjára és az adóhatóság rendelkezésére bocsátandó fájlok adatszerkezetére vonatkozó részletes eljárási és technikai szabályokat.
+
+(29) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
+
+a) a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+
+b) az egészségbiztosítási szerv,
+
+c) a rehabilitációs hatóság,
+
+d) az állami foglalkoztatási szerv és
+
+e) a munkaügyi hatóság
+
+részére az állami adóhatóság által teljesített adatátadással érintett adatok körét, az adatátadás részletes szabályait, így különösen az adatátadás határidejét és gyakoriságát.

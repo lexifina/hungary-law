@@ -6,11 +6,11 @@
 
 a) a természetes személyazonosító adatokat, a lakcímet és az adóazonosító jelet,
 
-b) valamennyi, a személyi jövedelemadóról szóló törvény szerint adóévi adóköteles jövedelem együttes összegét,
+b) a magánszemély összevont adóalapjának és valamennyi, bevallási kötelezettséggel járó külön adózó jövedelmének együttes összegét,
 
-c) az adózó személyi jövedelemadó kötelezettségét,
+c) az adózó személyi jövedelemadó-kötelezettségét,
 
-d) a levont személyi jövedelemadót, adóelőleget.
+d) a levont személyi jövedelemadó és adóelőleg együttes összegét.
 
 (3) Az adónyilatkozat az adózó által benyújtott bevallásnak minősül.
 

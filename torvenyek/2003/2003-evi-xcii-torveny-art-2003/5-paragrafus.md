@@ -6,7 +6,7 @@ a) az eljárás megindítására, az újrafelvételi eljárásra, a hatósági s
 
 b) a kiskorú adózó esetében az ügyintézés soronkívüliségére és határidejére vonatkozó szabályait.
 
-(2a) A kutatás-fejlesztési tevékenység minősítésével összefüggő eljárás lefolytatására hatáskörrel rendelkező szakértő intézmény kirendelése során nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény
+(2a) A kutatás-fejlesztési tevékenység minősítésével összefüggő eljárás lefolytatására hatáskörrel rendelkező szerv szakértői kirendelése során nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény
 
 a) ügyfél által javasolt szakértő kirendelésére,
 

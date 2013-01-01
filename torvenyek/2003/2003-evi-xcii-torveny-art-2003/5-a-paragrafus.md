@@ -34,4 +34,6 @@ i) az eljárási cselekményhez kapcsolódó igazolási kérelmet a mulasztásr�
 
 (4) A hiánypótlási felhívás kibocsátására nyitva álló határidőre vonatkozó, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben, valamint a (3) bekezdés g) pontjában foglalt rendelkezéseket a feltételes adómegállapításra, a szokásos piaci ár megállapítására, valamint a fejlesztési adókedvezmény iránti kérelem elbírálására irányuló eljárásokban nem kell alkalmazni.
 
-(5) Az adóhatósági igazolás kiállítására irányuló kérelmet a kérelem beérkezésétől számított 8 napon belül kell teljesíteni.
+(5) Az adó-, együttes adó-, jövedelem- és illetőségigazolás kiállítására irányuló kérelmet a kérelem beérkezésétől számított 6 napon belül kell teljesíteni.
+
+(6) Ha a fizetési könnyítés, adómérséklés iránti kérelmet benyújtó adózó a kérelem benyújtásakor minősített adózónak minősül, a kérelmével egyidejűleg annak sürgősségi eljárásban történő elbírálására irányuló kérelmet (sürgősségi kérelem) is előterjeszthet. Sürgősségi eljárásban az ügyintézési határidő 15 nap. A sürgősségi kérelem benyújtásának késedelme esetén igazolási kérelemnek nincs helye.

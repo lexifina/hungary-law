@@ -6,7 +6,7 @@
 
 (2) Ha az adóhatóság a felettes szervének utasítására az általa meghatározott határidőn belül nem tesz eleget eljárási kötelezettségének, a felettes szerv az ügyet magához vonhatja. A felettes szerv az ügyben első fokon jár el, vagy az elsőfokú eljárásra a mulasztóval azonos hatáskörű adóhatóságot jelöl ki.
 
-(3) Ha nincs felettes szerv, illetőleg a felettes szerv intézkedési vagy eljárási kötelezettségének nem tesz eleget, a törvényszék az adózó kérelmére nemperes eljárásban kötelezi az adóhatóságot az eljárás lefolytatására.
+(3) Ha nincs felettes szerv, illetőleg a felettes szerv intézkedési vagy eljárási kötelezettségének nem tesz eleget, a közigazgatási és munkaügyi bíróság az adózó kérelmére nemperes eljárásban kötelezi az adóhatóságot az eljárás lefolytatására.
 
 (4) Az adóhatóságtól a (2) bekezdésben foglaltak kivételével a hatáskörébe tartozó ügy nem vonható el.
 

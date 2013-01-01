@@ -32,11 +32,13 @@
 
 15. járulék: a nyugdíjjárulék, a biztosított egészségbiztosítási és munkaerő-piaci járuléka (ideértve a természetbeni egészségbiztosítási járulékot, a pénzbeli egészségbiztosítási járulékot és munkaerő-piaci járulékot), az egészségügyi szolgáltatási járulék, a korkedvezmény-biztosítási járulék, a táppénz-hozzájárulás, továbbá a végrehajtás tekintetében a jogalap nélkül felvett és visszakövetelt társadalombiztosítási és – a társadalombiztosítási szervek által folyósított – egyéb ellátások, valamint a társadalombiztosítás ellátásainak fedezetére előírt más kötelező járulékbefizetések, ideértve a jogosulatlan kifizetőhelyi költségtérítést is,
 
-16. jövőbeni ügylet: a szokásos piaci ár megállapítása iránti kérelem benyújtását követően megkötött szerződés vagy más jogügylet, illetve az adó feltételes megállapítása iránti kérelem benyújtását követően ugyanazon felek között megkötött szerződés vagy más jogügylet, annak gazdasági céljától függetlenül. Jövőbeni ügyletnek minősül az a szerződés vagy más jogügylet is, amely(ek) alapján az adó feltételes vagy a szokásos piaci ár megállapítása iránti kérelem benyújtásának időpontjában vagy azt követően folyamatos teljesítés történik, függetlenül attól, hogy a szerződést vagy egyéb jogügyletet a kérelem benyújtását megelőzően kötötték meg. Folyamatos teljesítésűnek az a szerződés vagy egyéb jogügylet minősül, amelyet legalább hat hónap időtartamra kötöttek meg vagy jött létre és
+16. jövőbeni ügylet: a szokásos piaci ár megállapítása iránti kérelem benyújtását követően megkötött szerződés vagy más jogügylet, illetve az adó feltételes megállapítása iránti kérelem benyújtását követően ugyanazon felek között megkötött szerződés vagy más jogügylet, annak gazdasági céljától függetlenül. Jövőbeni ügyletnek minősül az a szerződés vagy más jogügylet is, amely(ek) alapján az adó feltételes megállapítása vagy a szokásos piaci ár megállapítása iránti kérelem benyújtásának időpontjában vagy azt követően folyamatos teljesítés történik, függetlenül attól, hogy a szerződést vagy egyéb jogügyletet a kérelem benyújtását megelőzően kötötték meg. Folyamatos teljesítésűnek az a szerződés vagy egyéb jogügylet minősül, amelyet legalább hat hónap időtartamra kötöttek meg vagy jött létre és
 
 a) amely alapján kéthavonta legalább egyszer teljesítés történik, vagy
 
-b) amely alapján az egyik szerződő fél meghatározott hitelkeretet tart a szerződés időtartama alatt a másik fél rendelkezésére.
+b) amely alapján az egyik szerződő fél meghatározott hitelkeretet tart a szerződés időtartama alatt a másik fél rendelkezésére, vagy
+
+c) amely az egyik szerződő fél számára folyamatos rendelkezésre állási kötelezettséget ír elő.
 
 17. kapcsolt vállalkozás:
 
@@ -76,9 +78,9 @@ e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephe
 
 30. csekély összegű (de minimis) támogatás: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatás,
 
-31. minősített adózó: az a vállalkozási tevékenységet folytató személy, aki (amely) legalább a kérelem előterjesztésének napját megelőző 3 éven át működött, és a kérelem benyújtását megelőző elévülési időn belül az állami adóhatóság nem állapított meg a terhére adóhiányt, nem indított ellene végrehajtási eljárást, nem állt vagy áll csőd-, illetve felszámolási eljárás alatt, illetőleg az adózó egy naptári éven belül legfeljebb két fizetési könnyítés (adómérséklés) iránti kérelmet terjesztett elő. Az állami adóhatóság a minősített adózót kérelmére az erre a célra létrehozott és közzétett külön nyilvántartásában tünteti fel. Amennyiben a nyilvántartásba vételt követően az adózó a feltételek bármelyikének nem felel meg, az adóhatóság az adózót a nyilvántartásból törli,
+31. minősített adózó: az a vállalkozási tevékenységet folytató személy, aki (amely) legalább a minősített adózói nyilvántartásba való felvétel iránti kérelem előterjesztésének napját megelőző 3 éven át működött, és a kérelem benyújtását megelőző elévülési időn belül az állami adóhatóság nem állapított meg a terhére adóhiányt, nem indított ellene végrehajtási eljárást, nem állt vagy áll csőd-, felszámolási, kényszer-végelszámolási, illetve kényszertörlési eljárás alatt, illetve az adózó egy naptári éven belül legfeljebb két fizetési könnyítés (adómérséklés) iránti kérelmet terjesztett elő. Az állami adóhatóság a minősített adózót, kérelmére az erre a célra létrehozott és közzétett nyilvántartásában tünteti fel. Ha a nyilvántartásba vételt követően az adózó a feltételek bármelyikének nem felel meg, az adóhatóság az adózót a nyilvántartásból törli,
 
-32. köztartozásmentes adózói adatbázis: az állami adóhatóság honlapján közzétett, az adózó nevét, elnevezését, adószámát tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akiknek/amelyeknek az alábbi együttes feltételek szerint
+32. köztartozásmentes adózói adatbázis: az állami adóhatóság honlapján közzétett, az adózó nevét, elnevezését, adóazonosító számát tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akiknek/amelyeknek az alábbi együttes feltételek szerint
 
 a) a közzétételt megelőző hónap utolsó napján nincs az állami adóhatóságnál és vámhatóságnál nyilvántartott nettó adótartozása, valamint köztartozása;
 
@@ -101,3 +103,7 @@ g) nem minősül adó megfizetésére kötelezettnek.
 35. tényleges üzletvezetés helye: a kettős adózás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a társasági és az osztalékadóról szóló törvény alkalmazásában tényleges üzletvezetési hely, üzletvezetés helye.
 
 36. kutatás-fejlesztési tevékenység: a kutatás-fejlesztésről és a technológiai innovációról szóló törvényben meghatározott kutatás-fejlesztés.
+
+38. szerződéscsomag: a kérelemben megjelölt konkrét gazdasági cél elérését közvetlenül szolgáló, egymással közvetlen kapcsolatban lévő ügyletek (szerződések) összessége,
+
+39. szerződéstípus: az adózó és előre meg nem határozható számú, vagy előre meghatározható számú, de nem azonosítható személy(ek) közötti ügylet (szerződés).

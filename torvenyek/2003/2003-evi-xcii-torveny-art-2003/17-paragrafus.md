@@ -12,7 +12,7 @@ c) ha adókötelezettsége, adóköteles bevételszerző tevékenysége nem tart
 
 (3) Az (1) bekezdés a) pontjában megjelölt adózó a bejelentkezéssel egyidejűleg, az (1) bekezdés b) pontjában megjelölt adózó a bejelentkezés napjától számított 15 napon belül a 16. § (3) bekezdésében felsorolt adatok közül az állami adóhatósághoz írásban bejelenti:
 
-a) iratai, elektronikus alapon rendelkezésre álló bizonylatai és nyilvántartásai őrzésének helyét, ha az nem azonos az adózó székhelyével vagy lakóhelyével;
+a) iratai, elektronikus alapon rendelkezésre álló bizonylatai és nyilvántartásai őrzésének helyét, ha az nem azonos az adózó székhelyével vagy lakóhelyével, valamint ha az adózó bizonylatot, könyvet, nyilvántartást online hozzáférést biztosítva, elektronikusan őrzi meg, ezt a tényt;
 
 b)
 
@@ -28,7 +28,7 @@ h) a cégbírósághoz be nem jelentett, az e törvény 178. § 27. pontjában f
 
 (4) Ha az adóköteles (bevételszerző) tevékenység folytatásához engedély, jóváhagyás, záradék szükséges, ennek megszerzését – az (1) bekezdés a) pontjában megjelölt adózók kivételével – a jogerős engedély, jóváhagyás, záradék közlésétől számított 15 napon belül az adóhatóságnak be kell jelenteni.
 
-(5) A 31. § (2) bekezdése szerinti bevallás, illetőleg adatszolgáltatás, illetve az összesítő nyilatkozat benyújtására kötelezett adózó az adószám megszerzését követően 8 napon belül köteles az okmányirodánál ügyfélkapu létesítését kezdeményezni, és erről a létesítést követő 8 napon belül bejelentést tesz az állami adóhatósághoz. Amennyiben az adózó az adószám megszerzését megelőzően már létesített ügyfélkaput, úgy a 8 napos bejelentési határidőt az adószám megszerzésétől kell számítani. Ha az adózó állandó meghatalmazással vagy megbízással rendelkező képviselője útján elektronikus úton teljesíti adóbevallási és adatszolgáltatási kötelezettségét, az állandó meghatalmazott vagy megbízott a megbízást követő 8 napon belül köteles az adóhatósághoz bejelenteni a képviselt adózó nevét, elnevezését és adóazonosító számát.
+(5) A 175. § (9) bekezdés szerint bevallási kötelezettségét elektronikus úton teljesíteni köteles adózó az adószám megszerzését követően 8 napon belül köteles a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) ügyfélkapu létesítését kezdeményezni, és erről a létesítést követő 8 napon belül bejelentést tesz az állami adóhatósághoz. Amennyiben az adózó az adószám megszerzését megelőzően már létesített ügyfélkaput, úgy a 8 napos bejelentési határidőt az adószám megszerzésétől kell számítani. Ha az adózó állandó meghatalmazással vagy megbízással rendelkező képviselője útján elektronikus úton teljesíti adóbevallási és adatszolgáltatási kötelezettségét, az állandó meghatalmazott vagy megbízott a megbízást követő 8 napon belül köteles az adóhatósághoz bejelenteni a képviselt adózó nevét, elnevezését és adóazonosító számát.
 
 (6) A munkáltatónak és a kifizetőnek e minőségét akkor is be kell az állami adóhatósághoz jelentenie, ha más adókötelezettség nem terheli. Ebben az esetben a bejelentést az első adóköteles kifizetéstől számított 15 napon belül kell megtenni.
 
@@ -62,7 +62,7 @@ c) a munkavégzésre megbízást adó külföldi szervezet vagy magánszemély n
 
 (13)
 
-(14) Az egyéni vállalkozó adózó tevékenységi köreinek a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek megfelelő bejelentését a mindenkor hatályos Önálló vállalkozások tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kódokon teljesíti. A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit szintén az ÖVTJ kód szerint jelenti be az állami adóhatósághoz.
+(14) A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit az ÖVTJ-kód szerint jelenti be az állami adóhatósághoz.
 
 (15)
 

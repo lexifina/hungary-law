@@ -6,4 +6,4 @@
 
 (4) Az adóhatóság a köztartozásmentes adózói adatbázis adatait minden hónap 10. napján frissíti. Amennyiben a köztartozásmentes adózói adatbázisba történő felvételt követően az adózó a feltételek bármelyikének nem felel meg, az adóhatóság az adózót a köztartozásmentes adózói adatbázisból törli, amelyről az adózót elektronikus úton és írásban értesíti. Ezt követően a köztartozásmentes adózói adatbázisba történő felvétel a kérelem ismételt benyújtásával kérhető.
 
-(5) Ha az egyéb jogszabályok erről külön rendelkeznek, az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adóhatóság az adózót nyilvántartja a köztartozásmentes adózói adatbázisban.
+(5)

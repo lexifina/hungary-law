@@ -14,7 +14,7 @@
 
 (7) A határozat határozott időre, legalább három, legfeljebb öt évre érvényes. A határozat érvényességének időtartama a szokásos piaci ármegállapítással érintett kapcsolt vállalkozások kérelmére egy alkalommal három évre meghosszabbítható. A határozat érvényessége nem hosszabbítható meg, ha az eredeti határozat alapjául szolgáló tényállás olyan mértékben megváltozott, hogy a szokásos piaci ár megállapítására új határozatot kellene kiadni. A határozat érvényességének meghosszabbítására irányuló kérelmet a határozat érvényességének lejártát megelőzően legalább hat hónappal kell előterjeszteni. A meghosszabbítás iránti kérelem alapján induló eljárásban az eredeti kérelem benyújtásával kapcsolatos eljárási szabályokat kell megfelelően alkalmazni.
 
-(8) A kérelmet a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló külön jogszabály szerinti nyilvántartással megegyező tartalommal adótanácsadó, adószakértő, okleveles adószakértő vagy ügyvéd ellenjegyzésével, három példányban kell az állami adóhatósághoz benyújtani. A kérelemhez csatolni kell az előterjesztő nyilatkozatát arról, hogy a kérelemben megjelölt tényállás megfelel a valóságnak.
+(8) A kérelmet a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló külön jogszabály szerinti nyilvántartással megegyező tartalommal, három példányban kell az állami adóhatósághoz benyújtani. A kérelemhez csatolni kell az előterjesztő nyilatkozatát arról, hogy a kérelemben megjelölt tényállás megfelel a valóságnak.
 
 (9) A szokásos piaci ár megállapítására irányuló eljárás díjköteles, a díj
 

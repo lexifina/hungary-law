@@ -47,3 +47,5 @@ hatósági eljárás.
 a) az adózótól – az azonosításához szükséges adatok kivételével – nem kérhető olyan adat igazolása, amelyet valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvános nyilvántartásának tartalmaznia kell, vagy amelyet ilyen nyilvántartásból az adóhatóság közvetlen adathozzáféréssel megszerezhet, ebben az esetben az adatszolgáltatásért díj nem számítható fel,
 
 b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az a) pontban foglaltakon túlmenően más szervet adatszolgáltatás iránt keressen meg.
+
+(9) Ha az adózó a hatósági eljárás során költségmentesség iránti kérelmet terjeszt elő, a kérelemről az elsőfokú adóhatóság dönt azzal, hogy a kérelem elbírálása a folyamatban lévő eljárás lefolytatását nem érinti.

@@ -12,7 +12,7 @@ d) adószámhoz kötött tevékenységet vagy adóköteles tevékenységet adós
 
 e) a jogszabályokban előírt bizonylatok kiállítását, illetve könyvek, nyilvántartások vezetését elmulasztja, a bizonylatokat az előírásoktól eltérően állítja ki, a könyveket, nyilvántartásokat hiányosan vagy az előírásoktól eltérően vezeti, a számviteli törvény alapján összeállítandó szabályzataiban foglaltaktól eltérően jár el, a 174/A. §-ban meghatározott esetben, továbbá, ha a közzétett beszámolója a beszámoló szempontjából lényegesnek minősülő információkat nem tartalmaz vagy tévesen mutat be (lényegesnek minősül a beszámoló szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – az ésszerűség határain belül – befolyásolja a beszámoló adatait felhasználók döntéseit).
 
-f)
+f) a 24/F. § (1) bekezdése szerinti kérdőívet határidőn belül nem küldi vissza az állami adóhatóság részére, illetve a kérdőívvel kapcsolatos hiánypótlási felhívásnak határidőn belül nem tesz eleget,
 
 g)
 
@@ -22,7 +22,7 @@ i) a nyilatkozattételt elmulasztja, a tanúvallomást jogosulatlanul megtagadja
 
 j) a költségvetési támogatás (adó-visszaigénylés, adó-visszatérítés) igénylésénél a fennálló köztartozásáról valótlan tartalmú nyilatkozatot tesz,
 
-k) a járulékfizetési kötelezettség felső határának eléréséről valótlan tartalmú nyilatkozatot tesz,
+k)
 
 l) az ellenőrzést, az üzletlezárást vagy a végrehajtási eljárást a megjelenési kötelezettség elmulasztásával, az együttműködési kötelezettség megsértésével vagy más módon akadályozza, különösen ilyennek minősül, ha a becslés során az adózó bizonyítékként más adózót is érintő szerződéses kapcsolatra vagy egyéb ügyletre hivatkozik, és az ez alapján lefolytatott kapcsolódó vizsgálat az adózó bizonyítási indítványában foglaltakat nem támasztja alá,
 
@@ -44,7 +44,7 @@ ny) az általános forgalmi adóról szóló törvény XV. fejezete alkalmazás�
 
 (6) Az (1) bekezdés a)–b) pontja szerinti késedelem esetén nincs helye mulasztási bírság megállapításának, ha az adózó késedelmét annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
-(7) A bejelentkezési, bejelentési, változás-bejelentési, bevallási, adatszolgáltatási, pénzforgalmi számlanyitási, bizonylat kiállítási kötelezettség elmulasztása esetén a mulasztási bírság megállapításával egyidejűleg az adóhatóság az adózót – határidő tűzésével – teljesítésre hívja fel. A kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező, előző határozatban előírt határidőt az adózó elmulasztotta. A kötelezettség teljesítése esetén az e bekezdés előző mondata alapján kiszabott bírság korlátlanul mérsékelhető. Amennyiben az adózó felszámolás vagy végelszámolás alatt áll és a mulasztási bírság megállapításakor már nincsen lehetősége a teljesítésre, az e bekezdés első mondata szerinti felhívást az adóhatóság mellőzi.
+(7) A bejelentkezési, bejelentési, változásbejelentési, bevallási, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettség elmulasztása, továbbá az (1) bekezdés f) pontja esetén a mulasztási bírság megállapításával egyidejűleg az adóhatóság az adózót – határidő tűzésével – teljesítésre hívja – bizonylatkiállítási kötelezettség elmulasztása esetén hívhatja – fel. Az (1) bekezdés f) pontja szerinti mulasztási bírságtól eltekintve a kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező, előző határozatban előírt határidőt az adózó elmulasztotta. A kötelezettség teljesítése esetén az e bekezdés előző mondata alapján kiszabott bírság korlátlanul mérsékelhető. Ha az adózó felszámolás vagy végelszámolás, vagy kényszertörlési eljárás alatt áll és a mulasztási bírság megállapításakor már nincsen lehetősége a teljesítésre, az e bekezdés első mondata szerinti felhívást az adóhatóság mellőzi.
 
 (7a) Ha az adózó a számviteli törvény szerinti beszámoló letétbe helyezésére és közzétételére vonatkozó kötelezettségét az állami adóhatóság 174/A. § szerinti első felszólításában szereplő határidőn belül nem teljesíti, az állami adóhatóság 1 millió forintig terjedő mulasztási bírságot állapít meg az adózó terhére.
 
@@ -64,7 +64,7 @@ A fenti jogsértések ismételt elkövetése esetén az üzletlezárást helyett
 
 (10) Hibásan benyújtott bevallás esetén a magánszemély 20 ezer forintig, más adózó 100 ezer forintig terjedő mulasztási bírsággal sújtható. Ha a késedelmesen benyújtott bevallás hibás, az adózó csak a késedelemért szankcionálható.
 
-(11) Ha az eljárás kezdeményezésekor fennálló eljárási illetékfizetési kötelezettségét a kötelezett felhívás ellenére egyáltalán nem vagy nem teljes mértékben vagy nem a megszabott határidőben teljesítette, a meg nem fizetett illeték 100%-áig terjedő, de legfeljebb 100 ezer forint mulasztási bírság szabható ki.
+(11) Ha az eljárás kezdeményezésekor fennálló eljárási illetékfizetési kötelezettségét a kötelezett felhívás ellenére egyáltalán nem vagy nem teljes mértékben vagy nem a megszabott határidőben teljesítette, a meg nem fizetett illeték 100%-áig terjedő, de legalább 5000 forint és legfeljebb 100 ezer forint mulasztási bírság szabható ki.
 
 (12) Ha az adózó esedékességig az adóévi várható adó összegét – figyelemmel az adóév során megfizetett előleg összegére is – nem fizette meg legalább 90%-os mértékben, a befizetett előleg és az adó 90%-ának különbözete után 20%-ig terjedő mulasztási bírságot fizet.
 
@@ -99,5 +99,7 @@ terjedő mulasztási bírsággal sújtható.
 (20d) Ha az adózó az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 464/A. §-a alapján mentesül a jogosulatlanul igénybevett adókedvezménnyel kapcsolatos adókülönbözet megállapítása alól, a jogosulatlanul igénybevett kedvezmény összege 15%-ának megfelelő, de legalább 100 000 forint mértékű mulasztási bírságot fizet, kivéve ha bizonyítja, hogy a szükséges béremelést valamennyi folyamatosan foglalkoztatott munkavállaló tekintetében visszamenőleg, az ellenőrzés megkezdésének időpontját megelőzően végrehajtotta.
 
 (20e) Ha az adózó az általános forgalmi adó visszaigénylésénél a 37. § (4a) bekezdésben meghatározott feltétel fennállásáról valótlan tartalmú nyilatkozatot tesz, terhére az adóhatóság a bevallásban visszaigényelt adó összegének 5%-áig, de magánszemély adózó esetében legalább 200 ezer forintig, más adózó esetében legalább 500 ezer forintig terjedő mulasztási bírságot szabhat ki.
+
+(20f) A pénzforgalmi számla nyitására kötelezett adózó a 38. § (3a) bekezdésében foglalt előírás megsértése esetén a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet. A 38. § (3a) bekezdésében foglalt előírás megsértésével teljesített kifizetés jogosultja, ha a szabálytalan kifizetést elfogadja, a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet.
 
 (21) A mulasztási bírság kiszabásánál – különös tekintettel a (4) és (5) bekezdésben meghatározott esetekre – az adóhatóság mérlegeli az eset összes körülményét, az adózó jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az adózó, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el. A körülmények mérlegelése alapján az adóhatóság a mulasztás súlyához igazodó az adózási érdeksérelemmel arányos bírságot szab ki, vagy a bírság kiszabását mellőzi.

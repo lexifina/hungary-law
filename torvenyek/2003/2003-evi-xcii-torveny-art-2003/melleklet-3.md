@@ -82,7 +82,7 @@ a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illeté
 
 4. Az első fokon eljáró közlekedési igazgatási hatóság által a jármű tulajdonjogának, üzemben tartói jogának bejegyzésére, ezek valamelyikének változására irányuló eljárás során a közlekedési igazgatási ügymenetet támogató informatikai rendszerben rögzített, az ügyfél által bemutatott, a gépjármű és pótkocsi vagyonszerzési illetékének megfizetését igazoló készpénz-átutalási megbízás azonosító számát, gyártójának kódját, valamint a befizetett illeték összegét a közúti közlekedési nyilvántartást vezető szerv útján, továbbá a közúti közlekedési nyilvántartást vezető szerv a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (2) bekezdésében szereplő adatok közül a gépjármű és pótkocsi vagyonszerzési illetéke teljesítésének ellenőrzéséhez szükséges adatokat (a jármű fajtáját, gyártmányát, típusát, kategóriáját, forgalmi rendszámát, hengerűrtartalmát, kamratérfogatát, teljesítményét, össztömegét, gyártási évét, a járműtulajdonos, üzemben tartói jog jogosítottja azonosító adatait, lakcímét, székhelyét, adóazonosító számát) elektronikus úton továbbítja az állami adóhatóságnak.
 
-5. Az okmányiroda, valamint a vámhatóság minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően adatokat szolgáltat az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtábla kiadásáról a kérelmező lakóhelye (székhelye) szerint illetékes önkormányzati adóhatósághoz. Az adatszolgáltatás tartalmazza a kérelmező nevét, anyja nevét, születési helyét és idejét, valamint lakcímét (székhelyét), továbbá a jármű fajtáját és rendszámát.
+5. A járási hivatal, valamint a vámhatóság minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően adatokat szolgáltat az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtábla kiadásáról a kérelmező lakóhelye (székhelye) szerint illetékes önkormányzati adóhatósághoz. Az adatszolgáltatás tartalmazza a kérelmező nevét, anyja nevét, születési helyét és idejét, valamint lakcímét (székhelyét), továbbá a jármű fajtáját és rendszámát.
 
 6. Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység megkezdésével kapcsolatban bejelentett adatok közül az alábbi tartalommal – elektronikus úton – adatot szolgáltat az állami adóhatóságnak:
 
@@ -120,15 +120,17 @@ I) Az állami foglalkoztatási szerv adatszolgáltatása
 
 J) Adókedvezményre jogosító igazolásokról adatszolgáltatás
 
-Az adókedvezményre jogosító igazolást kiállító szerv, ha olyan igazolást (bizonylatot) állít ki, amelynek alapján a magánszemély adókedvezmény (adómentesség) igénybevételére jogosult, a kedvezmény igénybevételére jogosító igazolás tartalmának közlésével adatot szolgáltat az adózónak kiadott igazolásról. Az adatszolgáltatást az adóévet követő év január 31-ig elektronikus úton az adókedvezményre jogosító igazolást kiállító szerv illetékes állami adóhatóságához kell teljesíteni.
+1. Az adókedvezményre jogosító igazolást kiállító szerv, ha olyan igazolást (bizonylatot) állít ki, amelynek alapján a magánszemély adókedvezmény (adómentesség) igénybevételére jogosult, a kedvezmény igénybevételére jogosító igazolás tartalmának közlésével adatot szolgáltat az adózónak kiadott igazolásról. Az adatszolgáltatást az adóévet követő év január 31-ig elektronikus úton az adókedvezményre jogosító igazolást kiállító szerv illetékes állami adóhatóságához kell teljesíteni.
+
+2. A tartósan álláskereső személyek után, illetve a gyermekgondozási díj, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítását követően foglalkoztatott munkavállalók után érvényesíthető szociális hozzájárulási adókedvezmény ellenőrzése céljából az adókedvezményre jogosító igazolást kiállító szerv a tárgyhónapban kiállított igazolásban szereplő adatokat a tárgyhónapot követő hónap ötödik napjáig elektronikus úton hivatalból megküldi az állami adóhatóság részére.
 
 K) A nyomtatványt forgalmazó (alforgalmazó) adatszolgáltatása
 
-1. A nyomtatvány forgalmazó (alforgalmazó) az általa értékesített adóigazgatási azonosításra alkalmas számla-, nyugtatömbökről, szállítólevéltömbökről – jogszabály eltérő rendelkezésének hiányában – vevőnkénti részletezésben adatot szolgáltat.
+1. A nyomtatvány forgalmazó (alforgalmazó) az általa értékesített adóigazgatási azonosításra alkalmas számla-, nyugtatömbökről – jogszabály eltérő rendelkezésének hiányában – vevőnkénti részletezésben adatot szolgáltat.
 
 2. Az adatszolgáltatás tartalmazza:
 
-a) az értékesített nyomtatványok (számlatömbök, nyugtatömbök, szállítólevéltömbök) megnevezését,
+a) az értékesített nyomtatványok (számlatömbök, nyugtatömbök) megnevezését,
 
 b) a nyomtatvány sorszámát (tól–ig),
 

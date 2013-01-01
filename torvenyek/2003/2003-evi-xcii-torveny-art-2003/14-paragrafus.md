@@ -18,7 +18,7 @@ g) adatszolgáltatásra,
 
 h) adólevonásra, adóbeszedésre,
 
-i) pénzforgalmi számlanyitásra
+i) pénzforgalmi számlanyitásra és adóköteles tevékenységével összefüggő kifizetésnek az e törvényben meghatározott módon való teljesítésére
 
 [az a)–i) pontban foglaltak együtt: adókötelezettség].
 
@@ -26,7 +26,7 @@ i) pénzforgalmi számlanyitásra
 
 (3) A költségvetési támogatásra az adózó csak azt követően jogosult, ha eleget tesz a támogatással kapcsolatos bejelentési vagy bevallási, nyilatkozattételi, illetőleg megállapítási kötelezettségének.
 
-(4) Az adózó (1) bekezdésben meghatározott kötelezettségeit felszámolás esetén a felszámolás kezdő időpontjától a felszámoló, végelszámolás esetén a végelszámolás kezdő időpontjától a végelszámoló teljesíti, továbbá gyakorolja az adózót megillető jogokat. A felszámoló, illetve a végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval szemben kell megállapítani, azzal, hogy akkor mentesül a mulasztási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza.
+(4) Az adózó (1) bekezdésben meghatározott kötelezettségeit felszámolás esetén – a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 31. § (1) bekezdésben foglalt feladatok kivételével – a felszámolás kezdő időpontjától a felszámoló, végelszámolás esetén – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 98. § (3) bekezdésében foglalt feladatok kivételével – a végelszámolás kezdő időpontjától a végelszámoló, kényszertörlési eljárás esetén a kényszertörlési eljárás kezdő időpontjától a vezető tisztségviselő, vezető tisztségviselő hiányában – ha a kényszertörlési eljárást végelszámolás előzte meg – a volt végelszámoló teljesíti, továbbá gyakorolja az adózót megillető jogokat. A felszámoló, a végelszámoló, kényszertörlési eljárás esetén a vezető tisztségviselő vagy – ha a kényszertörlési eljárást végelszámolás előzte meg – a volt végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval, kényszertörlési eljárás esetén a vezető tisztségviselővel, vagy a volt végelszámolóval szemben kell megállapítani, azzal, hogy akkor mentesül a mulasztási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza. A felszámolás, a végelszámolás vagy a kényszertörlési eljárás kezdő időpontját megelőzően elkövetett jogsértés miatt a mulasztási bírság a vezető tisztségviselőt, – ha a felszámolást vagy a kényszertörlési eljárást végelszámolás előzte meg – a végelszámolót terheli.
 
 (5) A kockázati tőkealap adókötelezettségeit az alap kezelője teljesíti, és gyakorolja az adózót megillető jogokat is.
 

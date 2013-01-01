@@ -10,7 +10,7 @@ veheti igénybe.
 
 (2)
 
-(3) A társadalombiztosítási szerv az általa kifizetett adóköteles társadalombiztosítási ellátás teljes összegéről, a kifizetett összegről és a levont adóelőlegről a magánszemély részére a kifizetéskor igazolást ad.
+(3) A társadalombiztosítási szerv az általa kifizetett adóköteles társadalombiztosítási ellátás teljes összegéről, a kifizetett összegről és a levont adóelőlegről a magánszemély részére, naptári éven belül az ellátási időszak végén (az utolsó kifizetéskor), teljes naptári évet lefedő ellátási időszak esetén a naptári évet követő január hónap 31. napjáig ad igazolást.
 
 (4) Az olyan igazolást, amelynek alapján az adózó a bevételét, az adóalapját vagy az adóját csökkentheti, a kedvezményre való jogosultság keletkezésének időpontjában, de legkésőbb az adóévet követő év február 15-ig kell kiadni.
 

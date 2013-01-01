@@ -24,7 +24,7 @@ h) a végrehajtási kifogást elbíráló,
 
 i) az eljárási bírságot kiszabó,
 
-j) az eljárási költség viselésének kérdésében hozott, valamint
+j) az eljárási költség viselésével kapcsolatos, a költségmentességi kérelmet elutasító, valamint
 
 k) a kézbesítési vélelem megdöntése tárgyában hozott elutasító
 
@@ -34,4 +34,4 @@ végzés ellen.
 
 (5) A fellebbezésre jogosult a fellebbezési határidőn belül a fellebbezési jogáról lemondhat. A fellebbezési jogról való lemondást tartalmazó nyilatkozat nem vonható vissza.
 
-(6) Az adóhatóság az elkésett fellebbezést felügyeleti intézkedés iránti kérelemként bírálja el.
+(6) Az elkésett fellebbezést, a fellebbezésre nem jogosulttól származó fellebbezést, valamint az önálló fellebbezéssel meg nem támadható végzés ellen irányuló fellebbezést az elsőfokú adóhatóság érdemi vizsgálat nélkül elutasítja.

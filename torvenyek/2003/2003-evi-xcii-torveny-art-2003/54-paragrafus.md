@@ -18,15 +18,23 @@ e) az adóvégrehajtás során végrehajtási joggal vagy jelzálogjoggal terhel
 
 (5) Az állami adóhatóság az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez honlapján közzéteszi
 
-a) az általános forgalmiadó-alanynak minősülő, illetve az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó adózó, valamint e törvények hatálya alá nem tartozó, de adószámmal rendelkező jogi személy, egyéb szervezet adózók nevét (elnevezését), adószámát, székhelyét, telephelyét; csoportos általános forgalmi adóalanyiságot választók esetén a csoport azonosító számot, valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, illetve a csoportos általános forgalmiadó-alanyiságot engedélyező határozat jogerőre emelkedése napját; továbbá azt a tényt, hogy az általános forgalmiadó-alanynak minősülő adózó (ideértve a csoportos általános forgalmi adó-alanyt is) az általános forgalmi adóról szóló törvény 88. § (1) bekezdés alapján az adómentes ingatlan értékesítés vagy bérbeadás tekintetében az adókötelessé tételt választotta, valamint az adókötelessé tétel időpontját,
+a) az általános forgalmiadó-alanynak minősülő, illetve az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó adózó, valamint e törvények hatálya alá nem tartozó, de adószámmal rendelkező jogi személy, egyéb szervezet adózók
+
+aa) nevét (elnevezését), adószámát, székhelyét, telephelyét;
+
+ab) közül a csoportos általános forgalmi adóalanyiságot választók esetén a csoport azonosító számot valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, illetve a csoportos általános forgalmiadóalanyiságot engedélyező határozat jogerőre emelkedése napját;
+
+ac) közül a pénzforgalmi elszámolást választók esetén e választás tényét, a pénzforgalmi elszámolás időszakának kezdő és befejező időpontját;
+
+ad) azt a tényt, hogy az általános forgalmiadó-alanynak minősülő adózó (ideértve a csoportos általános forgalmi adóalanyt is) az általános forgalmi adóról szóló törvény 88. § (1) bekezdés alapján az adómentes ingatlan értékesítés vagy bérbeadás tekintetében az adókötelessé tételt választotta, valamint az adókötelessé tétel időpontját;
 
 b) az általa felfüggesztett adószámmal (csoportazonosító számmal) rendelkező adózók nevét, elnevezését, adószámát (csoportazonosító számát), a felfüggesztést elrendelő határozat jogerőre emelkedésének napját valamint határozott időtartamú felfüggesztés esetén a felfüggesztés kezdő és záróidőpontját, a felfüggesztés megszüntetését elrendelő határozat jogerőre emelkedésének, illetve az adószám (csoportazonosító szám) törlését elrendelő határozat jogerőre emelkedésének napjáig, továbbá
 
-c) azon adózók nevét, elnevezését és adószámát (csoport azonosító számát) az adószám (csoport azonosító szám) törlésére utalással, amely adózók adószámát az állami adóhatóság a 24/A. § (4) bekezdése alkalmazásával törölte, a törlést elrendelő határozat jogerőre emelkedésétől az adószám megállapításáig vagy ennek hiányában az adózó megszűnéséig, valamint
+c) azon adózók nevét, elnevezését és adószámát (csoportazonosító számát) az adószám (csoportazonosító szám) törlésére utalással, amely adózók adószámát az állami adóhatóság a 24/A. §, 24/B. §, vagy 174/A. § (1) bekezdés alkalmazásával törölte, a törlést elrendelő határozat jogerőre emelkedésétől az adószám megállapításáig vagy ennek hiányában az adózó megszűnéséig, valamint
 
 d) az általa nyilvántartott adószámmal (csoport azonosító számmal) rendelkező, valamint a c) pont hatálya alá tartozó azon adózók nevét, elnevezését, adószámát, csoport azonosító számát (adószámát, csoport azonosító számát a törlésre utalással), amely adózókkal szemben az állami adóhatóság végrehajtási eljárást folytat, a végrehajtási eljárás megindításától annak befejezéséig a végrehajtás felfüggesztése vagy szünetelése időtartama kivételével;
 
-e) az adóköteles tevékenységet adószám birtokában végző magánszemélyek kivételével az adózónak a 1893/2006/EK rendelet szerint bejelentett és nyilvántartott tevékenységi köreit;
+e) az adóköteles tevékenységet adószám birtokában végző magánszemélyek kivételével az adózónak a mindenkor hatályos TEÁOR nómenklatúra szerint, egyéni vállalkozók esetén a mindenkor hatályos ÖVTJ szerinti ÖVTJ-kódokon bejelentett és nyilvántartott tevékenységi köreit;
 
 f) a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési elővállalkozás nevét, adószámát, az ilyenként való nyilvántartásba vétel dátumát, és a nyilvántartásból való törlés dátumát, valamint ezen társaságok projekttársaságainak nevét és adószámát;
 
@@ -44,7 +52,7 @@ c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeres�
 
 d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervet a törvényben meghatározott feladatai ellátása érdekében, az abban kapott felhatalmazás körében;
 
-e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), ha a tájékoztatás az ellenőrzéshez szükséges;
+e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), valamint az Európai Támogatásokat Auditáló Főigazgatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
 
 f) az adópolitikáért felelős minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 
@@ -52,7 +60,9 @@ g) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az ál
 
 h) a központi költségvetésből vagy Európai Uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges.
 
-i) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet a helyi önkormányzatokról szóló törvény 33/A. § (2a) bekezdés c) pontjában meghatározott körben.
+i) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet a helyi önkormányzatokról szóló törvény 33/A. § (2a) bekezdés c) pontjában meghatározott körben;
+
+j) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben.
 
 (8) Az állami adó- és vámhatóság a NAV nyomozó hatóságát tájékoztatja az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntető eljárás megindítása vagy lefolytatása céljából.
 

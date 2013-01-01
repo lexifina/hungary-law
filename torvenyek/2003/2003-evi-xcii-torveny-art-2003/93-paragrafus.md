@@ -1,6 +1,6 @@
 ## Az ellenőrzés megindítása
 
-93. § (1) Az ellenőrzés az erről szóló megbízólevél kézbesítésétől kezdődik. Ha az adóhatóság a megbízólevél kézbesítését mellőzi, az ellenőrzés a megbízólevél egy példányának átadásával vagy az általános megbízólevél bemutatásával kezdődik. Új eljárás lefolytatása esetén megbízólevél kiállítására ismételten nem kerül sor.
+93. § (1) Az ellenőrzés az erről szóló megbízólevél kézbesítésével, egy példányának átadásával vagy az általános megbízólevél bemutatásával kezdődik. Új eljárás lefolytatása esetén megbízólevél kiállítására ismételten nem kerül sor.
 
 (2) Ha az adózó vagy képviselője, meghatalmazottja, alkalmazottja a megbízólevél átvételét megtagadja, az ellenőrzés két hatósági tanú jelenlétében az erről szóló jegyzőkönyv felvételével és aláírásával kezdődik.
 

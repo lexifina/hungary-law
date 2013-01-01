@@ -68,31 +68,17 @@ ab) az állami foglalkoztatási szerv részére, ha statisztikai célú adatfeld
 
 szükséges,
 
-b) elektronikus úton hivatalból átadja a (4) bekezdésben meghatározott bevallásra kötelezettek és a mezőgazdasági őstermelő által
+b) elektronikus úton hivatalból átadja a (4) bekezdésben meghatározott bevallásra kötelezettek és a mezőgazdasági őstermelő által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül
 
-ba) a 31. § (2) bekezdése 1–7., 9–14., 24. és 26–28. pontjai szerinti részletezettséggel bevallott, a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz szükséges, magánszemélyenként összesített (konszolidált) éves adatokat – ide nem értve a Magyar Honvédség, Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjaira vonatkozó adatokat – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére a tárgyévet követő év augusztus 31. napjáig. Amennyiben az önellenőrzés vagy az adóhatósági ellenőrzés a már összesített (konszolidált) éves adatokat kiegészíti, módosítja vagy megváltoztatja, az adóhatósági eljárás lezárását követő hónap utolsó napjáig az e pontban megjelölt összesített (konszolidált) éves adatokat kijavítva kell átadni a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
+ba) a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz, valamint a nyugdíjfolyósító szerv által folyósított ellátások jogszerűségének vizsgálatához szükséges adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére;
 
-bb) a 31. § (2) bekezdése 1–6., 8–10., 12–14., 16., 23–24. és 26–27. pontjaiban meghatározott adatokat az egészségbiztosítási ellátások utólagos ellenőrzése céljára az egészségbiztosítási szerv, rehabilitációs hatóság részére a bevallásra előírt határidőt követő hónap utolsó napjáig,
+bb) az egészségbiztosítási ellátások, valamint a rehabilitációs hatóság által folyósított ellátások utólagos ellenőrzéséhez szükséges adatokat az egészségbiztosítási szerv, és a rehabilitációs hatóság részére;
 
-bc)
+bc) az álláskeresési támogatások és a foglalkoztatást elősegítő támogatások megállapításához és ellenőrzéséhez szükséges adatokat az állami foglalkoztatási szerv részére, a munkaügyi ellenőrzés elősegítéséhez és a munkajogviszonyok jogszerűségének ellenőrzéséhez szükséges adatokat a munkaügyi hatóság részére.
 
-bd) a 31. § (2) bekezdése 1–5., 7–8., 10., 12–13., 23., 27. és 28. pontjában foglalt adatokat, továbbá a 31. § (2) bekezdésének 6. pontjában felsorolt adatok közül a munkaerő-piaci járulék alapjára és összegére vonatkozó adatokat az állami foglalkoztatási szerv részére az álláskeresési támogatások és a foglalkoztatást elősegítő támogatások megállapításához és ellenőrzéséhez, illetőleg a munkaügyi hatóság részére a munkaügyi ellenőrzés elősegítése céljából a bevallásra előírt határidőt követő hónap utolsó napjáig,
+c)
 
-be) a 31. § (2) bekezdése szerinti bevallásokból a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére a nyugellátás, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék vagy átmeneti bányászjáradék folyósítása mellett munkát végző magánszemélyek és foglalkoztatóik azonosító adatait, valamint e magánszemélyek járulékalapjára (keresetére, jövedelmére) vonatkozó adatokat a nyugdíjfolyósító szerv által folyósított ellátások jogszerűségének vizsgálata céljából a bevallásra előírt határidőt követő hónap utolsó napjáig,
-
-bf) a 31. § (2) bekezdése szerinti bevallásokból a rehabilitációs hatóság részére a megváltozott munkaképességű személyek ellátásának folyósítása mellett munkát végző magánszemélyek és foglalkoztatóik azonosító adatait, valamint e magánszemélyek pénzbeli egészségbiztosítási járulékalapjára (keresetére, jövedelmére) vonatkozó adatokat a rehabilitációs hatóság által folyósított ellátások jogszerűségének vizsgálata céljából a bevallásra előírt határidőt követő hónap utolsó napjáig,
-
-c) elektronikus úton hivatalból átadja a (4) bekezdésben meghatározott bevallásra kötelezettek által a 31. § (2) bekezdés 1–3., 5., 12. és a – korkedvezményre jogosító munkakör tartama kivételével – 13., továbbá 27. pontjaiban meghatározott adatokat, valamint 10. pontjából a tárgyhónaptól eltérő biztosítási jogviszony időtartamára vonatkozó adatot a munkajogviszonyok jogszerűségének ellenőrzése céljából a munkaügyi hatóság részére a bevallásra előírt határidőt követő hónap utolsó napjáig,
-
-d) a társadalombiztosítási ellátások és a foglalkoztatást elősegítő támogatások megállapítása és ellenőrzése céljából, a tárgyévet követő év augusztus 31. napjáig elektronikus úton hivatalból átadja
-
-da) a vendéglátó üzlet felszolgálója által a személyi jövedelemadóról benyújtott bevallásban bevallott borravaló után fizetett nyugdíjjárulék alapjára és összegére vonatkozó adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
-
-db) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett által a 31. § (2) bekezdésében meghatározott bevallásban bevallott, a Tbj. 56/A. § (1) bekezdésében felsorolt járulékok közül a Nyugdíjbiztosítási Alapot megillető nyugdíjjárulék alapját és összegét a Nyugdíjbiztosítási Alap kezeléséért felelős szerv,
-
-dc) a db) alpontban említett kötelezett által a 31. § (2) bekezdésében meghatározott bevallásban bevallott, a Tbj. 56/A. § (1) bekezdésében felsorolt járulékok közül az Egészségbiztosítási Alapot megillető járulékok alapját és összegét az egészségbiztosítási szerv,
-
-dd) a db) alpontban említett kötelezett által a 31. § (2) bekezdésében meghatározott bevallásban bevallott, a Tbj. 56/A. § (1) bekezdésében felsorolt járulékok közül a Nemzeti Foglalkoztatási Alapot megillető járulék alapját és összegét az állami foglalkoztatási szerv és a munkaügyi hatóság részére;
+d) a társadalombiztosítási ellátások és a foglalkoztatást elősegítő támogatások megállapítása és ellenőrzése céljából elektronikus úton hivatalból átadja a vendéglátó üzlet felszolgálója által a személyi jövedelemadóról benyújtott bevallásban bevallott borravaló után fizetett nyugdíjjárulék alapjára és összegére vonatkozó adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
 
 e) a bevallásra előírt határidőt követő hónap utolsó napjáig, a nyugdíjfolyósító szerv részére elektronikus úton hivatalból átadja a 31. § (2) bekezdés 5. pontja szerinti nyugdíjas státusszal rendelkező vagy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban részesülő magánszemélyre vonatkozó tárgyévi nyugdíjjárulék-alapot képező összesített jövedelmi adatokat ahhoz az időponthoz igazodva, amikor a magánszemély tárgyévi nyugdíjjárulék-alapot képező jövedelme meghaladja a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (továbbiakban: Tny. törvény) 83/B. §-ában meghatározott éves keretösszeget;
 
@@ -110,7 +96,7 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 j) megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére (megnevezésére), lakhelyére (székhelyére), valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat a kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv részére a költségvetési támogatások folyósítása során a köztartozás visszatartása céljából,
 
-k) az általa a bb), bd), be), c), e) és h) pontok alapján teljesített adatszolgáltatások vonatkozásában, a bevallás kijavítása, önellenőrzéssel történő helyesbítése esetén, a hivatkozott pontokban felsorolt adatokat, a kijavítás, illetőleg az önellenőrzés benyújtásának időpontját követő hónap utolsó napjáig adja át.
+k)
 
 l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi felügyeletéért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához.
 

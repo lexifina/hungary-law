@@ -14,7 +14,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 (3) Az önkormányzati adóhatóságot megillető tartozások megkeresés alapján történő végrehajtása esetén a végrehajtást az adózóra az általános illetékességi szabályok szerint illetékes állami adóhatóság folytatja le.
 
-(4) Az adóhatóság a végrehajtást az adós lakóhelye, székhelye vagy végrehajtás alá vonható vagyontárgya szerinti helyi bíróság mellett működő, az ügyelosztási szabályok szerint illetékes önálló bírósági végrehajtó útján is foganatosíthatja. Ez esetben a bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. §-ának (3)–(5) bekezdése az irányadó, és alkalmazza a Vht.-nak az elektronikus ingóárverésre és ingatlanárverésre vonatkozó rendelkezéseit is.
+(4) Az adóhatóság a végrehajtást az adós lakóhelye, székhelye vagy végrehajtás alá vonható vagyontárgya szerinti járásbíróság mellett működő, az ügyelosztási szabályok szerint illetékes önálló bírósági végrehajtó útján is foganatosíthatja. Ez esetben a bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. §-ának (3)–(5) bekezdése az irányadó, és alkalmazza a Vht.-nak az elektronikus ingóárverésre és ingatlanárverésre vonatkozó rendelkezéseit is.
 
 (5) Amennyiben ugyanazt az ingóságot vagy ingatlant több adóhatóság is lefoglalta, a végrehajtás folytatására és az értékesítésre az a végrehajtó jogosult és köteles, aki a vagyontárgyat a többi végrehajtót megelőzően foglalta le. Egyidejű foglalás esetén az adóhatóságok megegyezése szerint kell folytatni a végrehajtást. Más adóhatósággal történő egyidejű foglalás esetén a végrehajtást az állami adóhatóság folytatja le.
 

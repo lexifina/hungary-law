@@ -1,4 +1,4 @@
-164/A. § (1) Az adók módjára behajtandó köztartozás végrehajtásával és a végrehajtáshoz való jog elévülésével kapcsolatos rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni, ha az adóhatóság az Áht. 99. §-ában alapján indult ügyben folytat végrehajtást megkeresésre.
+164/A. § (1) Az adók módjára behajtandó köztartozás végrehajtásával és a végrehajtáshoz való jog elévülésével kapcsolatos rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni, ha az adóhatóság az Áht. 99. §-a alapján indult ügyben folytat végrehajtást megkeresésre.
 
 (2) A végrehajtáshoz való jog az esedékesség naptári évének utolsó napjától számított 10 év elteltével évül el. A végrehajtáshoz való jog elévülése szempontjából esedékesség az Európai Közösségek Bizottsága visszatéríttetést elrendelő határozata alapján a magyar közigazgatási vagy egyéb szerv által kiadott, visszatérítési kötelezettséget előíró közigazgatási döntésben vagy fizetési felszólításban teljesítési határidőként megjelölt időpont. Ha jogszabály eltérően nem rendelkezik, a teljesítési határidő a döntés jogerőre emelkedésétől, illetve a fizetési felszólítás közlésétől számított 15 nap.
 

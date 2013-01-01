@@ -16,17 +16,23 @@ b) az adószám megállapítása iránti kérelem benyújtásának napján az á
 
 (2a) A (2) bekezdés a) pont aa) alpontja és b) pontja alkalmazásában nem tekinthető fennálló adótartozásnak az adótartozás azon része, amely jogerős adóhatósági határozaton alapul feltéve, hogy a határozat bírósági felülvizsgálatának megindítására nyitva álló határidő még nem telt el, vagy az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen még nem zárult le. Ebben az esetben az adóhatósági határozaton alapuló adótartozás a bírósági felülvizsgálat megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a bírósági eljárás jogerős lezárását követő naptól tekinthető fennállónak.
 
+(2b) A (2) bekezdés a) pont ab) alpontja alkalmazása szempontjából adótartozásnak minősül az adóhatóság által a csődeljárási és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 80. §-a szerint engedményezett, valamint a bejelenteni mellőzött vagy lemondással érintett követelés is.
+
 (3) A (2) bekezdés ac) pontja alkalmazásában nem tekinthető jogerősnek az adószám törlését kimondó határozata, ha a bírósági felülvizsgálat megindítására nyitva álló határidő még nem telt el, illetőleg az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen nem zárult le.
 
 (4) Amennyiben az állami adóhatóság az adószám megállapítását a (2) bekezdés szerint megtagadta, az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adóhatóság az adózó adószámát megtagadta, az adószám megállapítását megtagadó határozat adózóval történő közlésétől számított 8 napon belül kimentési kérelmet terjeszthet elő. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(5) Az állami adóhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja, ha az adószám megállapítását a (2) bekezdés aa), ab), vagy b) pontja alapján tagadta meg és az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adóhatóság az adózó adószámának megállapítását megtagadta, a (4) bekezdés szerinti kérelmére indult eljárásban bizonyítja, hogy
+(5) Az állami adóhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja, ha
 
-a) az adószám megállapításának megtagadására okot adó tartozást az azt felhalmozó adózó azért nem tudta kiegyenlíteni, mert az általa teljesített termékértékesítés vagy szolgáltatásnyújtás ellenértékét egy vagy több vevő, illetőleg megrendelő részben vagy egészben nem egyenlítette ki, és
+a) az adószám megállapítását a (2) bekezdés aa), ab), vagy b) pontja alapján tagadta meg és az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adóhatóság az adózó adószámának megállapítását megtagadta, a (4) bekezdés szerinti kérelmére indult eljárásban bizonyítja, hogy
 
-b) a vevőkkel, megrendelőkkel szemben fennálló – illetőleg a felszámolás vagy kényszertörlési eljárás kezdő időpontjában fennállt –, határidőre ki nem egyenlített követelések összege az adótartozás összegét eléri vagy meghaladja, illetőleg a felszámolás vagy kényszertörlési eljárás kezdő időpontjában elérte vagy meghaladta, és
+aa) az adószám megállapításának megtagadására okot adó tartozást az azt felhalmozó adózó azért nem tudta kiegyenlíteni, mert az általa teljesített termékértékesítés vagy szolgáltatásnyújtás ellenértékét egy vagy több vevő, illetőleg megrendelő részben vagy egészben nem egyenlítette ki, és
 
-c) az adótartozást felhalmozó adózó a követelések érvényesítése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
+ab) a vevőkkel, megrendelőkkel szemben fennálló – illetőleg a felszámolás vagy kényszertörlési eljárás kezdő időpontjában fennállt –, határidőre ki nem egyenlített követelések összege az adótartozás összegét eléri vagy meghaladja, illetőleg a felszámolás vagy kényszertörlési eljárás kezdő időpontjában elérte vagy meghaladta, és
+
+ac) az adótartozást felhalmozó adózó a követelések érvényesítése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
+
+b) az adószám megállapítását a (2) bekezdés aa) vagy b) pontja alapján tagadta meg, és az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adóhatóság az adózó adószámának megállapítását megtagadta, a (4) bekezdés szerinti kérelmére indult eljárásban, a kérelem benyújtásával egyidejűleg igazolja, hogy a kizáró ok alapjául szolgáló adótartozás már nem áll fenn.
 
 (6) Az állami adóhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a (2) bekezdés ac) pontja alapján tagadta meg, és az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adóhatóság az adózó adószámát megtagadta,
 

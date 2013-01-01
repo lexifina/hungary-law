@@ -1,11 +1,9 @@
-## A feltételes adómegállapítás időbeli hatályának kiterjesztése
+## A feltételes adómegállapítás alkalmazhatóságának megállapítása
 
-132/A. § (1) Az adózó a feltételes adómegállapítás időbeli hatályának kiterjesztésére irányuló kérelmet terjeszthet elő az adópolitikáért felelős miniszternél a feltételes adómegállapításra irányadó eljárási szabályoknak megfelelően, ha a feltételes adómegállapítást érintő jövőbeli jogszabály-, tényállásváltozás:
+132/A. § (1) Az adópolitikáért felelős miniszter kérelemre megállapítja a feltételes adómegállapítás során hozott határozat (e bekezdés alkalmazásában a továbbiakban: határozat) alkalmazhatóságát, ha a határozat jogerőre emelkedését követően hatályba lépett jogszabályváltozás, megvalósult vagy a jövőbeni tényállásváltozás a határozat rendelkező részében foglaltakat érdemben nem érinti.
 
-a) a feltételes adómegállapítás során hozott határozat jogerőre emelkedését követően, de a jogügylet megvalósítása előtt következett be, és
+(2) Az (1) bekezdés alapján hozott határozat az adóhatóságra kötelező.
 
-b) nem eredményezi a feltételes adómegállapítás során hozott határozat rendelkező részében foglalt rendelkezések, így különösen a feltételes adómegállapításban rögzített részletes tényállás és az annak alapján megállapított adókötelezettség adójogi megítélésének változását.
+(3) Az adópolitikáért felelős miniszter eljárására – ha e § másként nem rendelkezik – a feltételes adómegállapításra irányadó eljárási szabályokat kell alkalmazni.
 
-(2) A feltételes adómegállapítás időbeli hatályának kiterjesztésére irányuló eljárás a feltételes adómegállapítást tartalmazó határozat jövőbeni alkalmazását állapítja meg a jogszabályváltozás, illetve a tényállás-változás időpontjára kiterjedő hatállyal.
-
-(3) A feltételes adómegállapítás időbeli hatályának kiterjesztésére irányuló eljárás díja a kapcsolódó feltételes adómegállapítás díjának 50 százaléka.
+(4) Az eljárás díja a kérelemmel érintett feltételes adómegállapítás díjának 50 százaléka. Ha a feltételes adómegállapítási határozat meghozatalára sürgősségi eljárásban került sor, az eljárás díjának számítása során a sürgősségi eljárásért fizetendő kétszeres szorzó alkalmazását figyelmen kívül kell hagyni.

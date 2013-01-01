@@ -12,4 +12,4 @@ c) azokból kitűnjék az adott időszakra vonatkozó bevallott adó, illetve t�
 
 d) az adó megfizetésének, a költségvetési támogatás igénybevételének, valamint az alapul szolgáló bizonylatoknak az ellenőrzését lehetővé tegyék.
 
-(3) A fióktelepnek nem minősülő telephelyen gazdasági tevékenységet folytató külföldi vállalkozó és a külföldi székhelyű, belföldi illetőségűnek minősülő adózó az (1)–(2) bekezdésben előírt kötelezettségeit a számvitelről szóló törvény előírásai szerint, a kettős könyvvitelt vezető vállalkozókra vonatkozó szabályok megfelelő alkalmazásával teljesíti.
+(3) A társasági adóról szóló törvény alapján fióktelepnek nem minősülő telephelyen gazdasági tevékenységet folytató külföldi vállalkozó és a külföldi székhelyű, a társasági adóról szóló törvény alapján belföldi illetékességűnek minősülő adózó az (1) és (2) bekezdésben előírt kötelezettségeit a számvitelről szóló törvény előírásai szerint, a kettős könyvvitelt vezető vállalkozókra vonatkozó szabályok megfelelő alkalmazásával teljesíti.

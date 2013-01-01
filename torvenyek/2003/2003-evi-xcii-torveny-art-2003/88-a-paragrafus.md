@@ -1,4 +1,4 @@
-88/A. § (1) A központi költségvetés, az egyes elkülönített pénzalapok bevételi érdekeit különösen veszélyeztető adózói jogsértések felderítése, illetve a jogszerű állapot helyreállítása érdekében a Kormány által központosított ellenőrzésre kijelölt szervek az állami adó- és vámhatóság vezetőjének saját hatáskörében vagy más hatóság megkeresésére kiadott utasítása alapján Magyarország területén a (2) bekezdésben meghatározott okból ellenőrzést végezhetnek, kezdeményezhetnek, megkezdett ellenőrzéseket magukhoz vonhatnak (központosított ellenőrzés).
+88/A. § (1) A központi költségvetés, az egyes elkülönített pénzalapok bevételi érdekeit különösen veszélyeztető adózói jogsértések felderítése, illetve a jogszerű állapot helyreállítása érdekében a NAV alsó fokú adóztatási szerve, illetve alsó fokú vámszerve az állami adó- és vámhatóság vezetőjének saját hatáskörében vagy más hatóság megkeresésére kiadott utasítása alapján Magyarország területén a (2) bekezdésben meghatározott okból ellenőrzést végezhet, kezdeményezhet, megkezdett ellenőrzéseket magához vonhat (központosított ellenőrzés).
 
 (2) Az (1) bekezdés szerinti központosított ellenőrzés elrendelésére abban az esetben kerülhet sor, ha a rendelkezésre álló adatok, tények, körülmények valószínűsítik, hogy az adókötelezettségeket
 
@@ -12,4 +12,4 @@ d) közbeszerzések megvalósítása érdekében kötött szerződések teljesí
 
 e) kiemelkedő jelentőségű, a vámhatóság hatáskörébe tartozó adóügyekben megsértik.
 
-(3) A központosított ellenőrzési eljárást és az azt követő hatósági eljárást a Kormány által központosított ellenőrzésre kijelölt szerv egy eljárásban, több adózónál egyidejűleg is jogosult lefolytatni. Az eljáró szerv az eljárás eredményeként kiadmányozott jogerős határozat(ok) egy példányának megküldésével tájékoztatja az egyébként hatáskörrel és illetékességgel rendelkező adóhatóságot.
+(3) A központosított ellenőrzési eljárást és az azt követő hatósági eljárást a NAV alsó fokú adóztatási szerve, illetve alsó fokú vámszerve egy eljárásban, több adózónál egyidejűleg is jogosult lefolytatni. Az eljáró szerv az eljárás eredményeként kiadmányozott jogerős határozat(ok) egy példányának megküldésével tájékoztatja az egyébként hatáskörrel és illetékességgel rendelkező adóhatóságot.

@@ -14,7 +14,7 @@
 
 (8) A Mód. törvénnyel megállapított 95. § (2) és (4) bekezdését az annak hatálybalépését követően postára adott vagy személyesen átadott felhívások esetén kell alkalmazni.
 
-(9) A Mód. törvénnyel megállapított Art. 104. § (3) bekezdését a hatálybalépésekor folyamatban lévő ellenőrzések esetén alkalmazni kell.
+(9) A Mód. törvénnyel megállapított 104. § (3) bekezdését a hatálybalépésekor folyamatban lévő ellenőrzések esetén alkalmazni kell.
 
 (10) A Mód. törvénnyel megállapított 127/A. § rendelkezését az annak hatálybalépését követően benyújtott kérelem esetén kell alkalmazni.
 
@@ -23,6 +23,8 @@
 (12) A Mód. törvénnyel megállapított 141. § (5) bekezdését a hatálybalépését követően indult ügyekben kell alkalmazni.
 
 (13) A Mód. törvénnyel megállapított 155/A. §-t a hatálybalépésekor folyamatban lévő, vagy ezt követően indított végrehajtási eljárásokban kell alkalmazni.
+
+(14) A Mód. törvénnyel megállapított 124. § (1), (1a), (2), (8)–(9) bekezdését az e rendelkezés hatálybalépését követően postára adott vagy személyesen átadott hivatalos irat tekintetében kell alkalmazni.
 
 (15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 24/C. § (13) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 

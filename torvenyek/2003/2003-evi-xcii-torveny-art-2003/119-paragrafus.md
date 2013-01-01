@@ -14,7 +14,9 @@ d) a vállalkozási tevékenységben résztvevők alkalmazásának jogszerűség
 
 e) az adózónál az adómegállapítás alapját képező statisztikai állományi létszámot,
 
-f) a bejelentett tények, adatok, körülmények valódiságát
+f) a bejelentett tények, adatok, körülmények valódiságát,
+
+g) termék előállítását, raktározását, szállítását, felhasználását, valamint a termékekkel kapcsolatosan végzett tevékenységeket
 
 vizsgálja.
 
