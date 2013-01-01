@@ -1,0 +1,7 @@
+16. § A Kstv. 24/A. §-a helyébe a következő rendelkezés lép:
+
+„24/A. § (1) A kisajátítási kérelem hiányainak pótlására a kisajátítást kérő csak egy alkalommal hívható fel, és az ennek során meghatározott hiánypótlási határidő nem hosszabbítható meg. A hiánypótlásra meghatározott határidő eredménytelen elteltét követően a kisajátítási hatóság a hiányok ezt követő pótlásáig terjedő időt, de legfeljebb 30 nap időtartamot alapul véve a kisajátítást kérőt – ha mulasztását nem igazolta – eljárási bírsággal sújtja. Az eljárási bírság mértéke naponta 10 000 forint. Az eljárási bírság kiszabását követően a kisajátítási hatóság – ha a hiányok pótlása megtörtént – folytatja az eljárást, ellenkező esetben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint megszüntetheti az eljárást vagy a rendelkezésre álló adatok alapján dönt.
+
+(2) Az (1) bekezdésben foglalt előírások – a hiánypótlások számára vonatkozó szabályt kivéve – irányadók a kisajátítást kérő részére a tényállás tisztázása során felmerült új adatokra tekintettel elrendelt hiánypótlási felhívásokra is.
+
+(3) Az e §-ban foglaltak nem vonatkoznak a 24. § (3) bekezdése szerinti kötelezés alapján indult kisajátítási eljárásokra.”
