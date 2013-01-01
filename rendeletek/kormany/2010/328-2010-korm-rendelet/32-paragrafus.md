@@ -1,6 +1,6 @@
 ## 9. Az erdészeti hatósági eljárásokban közreműködő szakhatóságok
 
-32. § (1)[^48] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a Kulturális Örökségvédelmi Hivatalról és a kulturális örökségvédelmi szakigazgatási szervekről szóló Korm. rendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Kulturális Örökségvédelmi Hivatal által vezetett adatbázisban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
+32. § (1)[^55] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló első fokú eljárásban,
 
@@ -14,7 +14,7 @@ e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti első fokú el
 
 – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a kulturális örökségvédelmi szakigazgatási szervet szakhatóságként jelöli ki.
 
-(2)[^49] A Kormány védett természeti területen található erdő esetén
+(2)[^56] A Kormány védett természeti területen található erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló eljárásban,
 
@@ -64,7 +64,7 @@ r) lovas sportverseny rendezésének engedélyezésére irányuló eljárásban,
 
 (4) A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló első fokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
-(5)[^50] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
+(5)[^57] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló eljárásban,
 
@@ -106,6 +106,6 @@ g) cserjék kivágásának engedélyezése iránti eljárásban,
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
-[^48]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^49]: A 32. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^50]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg.
+[^55]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^56]: A 32. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^57]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg.
