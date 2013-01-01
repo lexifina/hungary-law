@@ -22,7 +22,7 @@ a (3) bekezdéssel összhangban.
 
 (5) A (4) bekezdés b)–d) pontjában meghatározott szervezetek képviselőik útján vesznek részt az új HACS címre pályázó egyesületben.
 
-(5a)[^19] A (4) bekezdés a)–e) pontjában felsorolt tagokat kizárólag egy új HACS szerveződésében lehet figyelembe venni. Egy személy csak egy, a (4) bekezdés a)–e) pontjában felsorolt tagot képviselhet a helyi közösségben.
+(5a)[^20] A (4) bekezdés a)–e) pontjában felsorolt tagokat kizárólag egy új HACS szerveződésében lehet figyelembe venni. Egy személy csak egy, a (4) bekezdés a)–e) pontjában felsorolt tagot képviselhet a helyi közösségben.
 
 (6) Nem lehet tag az új HACS címre pályázó egyesület döntéshozó testületében, a munkaszervezet vezetésében, aki a címvisszavonással érintett LEADER HACS döntéshozó testületének a tagja, vagy a munkaszervezetnek vezetője volt, kivéve, ha a LEADER HACS cím visszavonására a 7. § (1) bekezdés k) pontja alapján került sor.
 
@@ -40,4 +40,4 @@ d) a b) és c) pontokban meghatározott szervezetek közös csoportja, amely 300
 
 részt vesz az új HACS megalakításában.
 
-[^19]: A 10. § (5a) bekezdését a 126/2012. (XII. 12.) VM rendelet 7. § (5) bekezdése iktatta be.
+[^20]: A 10. § (5a) bekezdését a 126/2012. (XII. 12.) VM rendelet 7. § (5) bekezdése iktatta be.
