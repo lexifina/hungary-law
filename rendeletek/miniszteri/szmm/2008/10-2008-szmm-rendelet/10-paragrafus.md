@@ -6,22 +6,14 @@ b) a Fogyasztóvédelmi Világnap (március 15.),
 
 c) a Munka ünnepe (május 1.),
 
-d) az Esélyegyenlőség Napja (május 5.),
+d)–f)[^12]
 
-e) a Nemzetközi Családi Nap (május 15.),
+g)[^13]
 
-f) az ENSZ Kábítószer-ellenes Világnapja (június 26.),
-
-g)[^9] ,
-
-h) az Idősek Világnapja (október 1.),
-
-i) a Szociális Munka Napja (november 12.),
-
-j) a Gyermeki Jogok Világnapja (november 20.),
-
-k) a Fogyatékos Emberek Világnapja (december 3.),
+h)–k)[^14]
 
 l) egyéb kiemelkedő szakmai esemény
 
-[^9]: A 10. § g) pontját a 26/2009. (XI. 26.) SZMM rendelet 8. § (5) bekezdése hatályon kívül helyezte.
+[^12]: A 10. § d)–f) pontját a 49/2012. (XII. 15.) EMMI rendelet 11. § (5) bekezdés f) pont fc) alpontja hatályon kívül helyezte.
+[^13]: A 10. § g) pontját a 26/2009. (XI. 26.) SZMM rendelet 8. § (5) bekezdése hatályon kívül helyezte.
+[^14]: A 10. § h)–k) pontját a 49/2012. (XII. 15.) EMMI rendelet 11. § (5) bekezdés f) pont fc) alpontja hatályon kívül helyezte.
