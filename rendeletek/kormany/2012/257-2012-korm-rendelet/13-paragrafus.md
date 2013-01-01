@@ -1,1 +1,0 @@
-## 12. § A régészeti feltárást a hatóság, valamint a nagyberuházás engedélyezésére hatáskörrel rendelkező hatóság hatósági ellenőrzés keretében ellenőrzi. Ennek keretében ellenőrzi különösen az R. szerinti feltárási naplóban rögzített régészeti feltárásra alkalmas és alkalmatlan napokat, a feltárásra alkalmatlanság indokoltságát, és vita esetén dönt.

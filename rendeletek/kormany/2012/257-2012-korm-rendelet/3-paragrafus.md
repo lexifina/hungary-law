@@ -1,9 +1,0 @@
-3. § (1) A feltárást végző intézmény – ha a beruházó az előzetes régészeti dokumentáció addig elkészült tartalma alapján a beruházás tervezett megvalósítása mellett dönt – az előzetes régészeti dokumentáció záródokumentumaként elkészíti a feltárási projekttervet a Kötv. 23/E. § (1) és (3) bekezdésében meghatározott költségkorlátra vagy – a 2. § (5) bekezdése esetén – a Kormány döntésének megfelelően.
-
-(2) A feltárási projektterv tartalmazza azon régészeti lelőhelyek, lelőhelyrészek meghatározását, amelyeken a feltárást végző intézmény – ha az előzetes régészeti dokumentáció készítése során nem készült – próbafeltárást, megelőző feltárást vagy elfedést javasol. A feltárási projektterv elkészítése során figyelemmel kell lenni a hatóság által előírt régészeti megfigyelés eredményeként felmerülő megelőző feltárás költségére is.
-
-(3) A projekttervet a feltárást végző intézmény a beruházó részére megküldi. A beruházó a projekttervet véleményezheti, módosítását, kiegészítését javasolhatja. A beruházó és a feltárást végző intézmény a feltárásra vonatkozó szerződést a feltárási projektterv adataira figyelemmel köti meg.
-
-(4) A szerződésnek tartalmaznia kell a szükség szerinti próbafeltárásra, illetve a megelőző feltárásra vagy – szükség esetén – az elfedésre, továbbá az előre nem látható körülmények kezelésére vonatkozó rendelkezéseket is.
-
-(5) A szerződésben a feltárásra, illetve elfedésre, valamint a hatósági eljárás megindítására irányuló kérelem benyújtására meghatározott határidők késedelmes teljesítése esetére a feltárást végző intézményt terhelő kötbért kell kikötni. A kötbér mértéke – ha a felek magasabb összegben nem állapodnak meg – a Kötv. 23/E. §-a szerint megállapított költség után, ennek a késedelem időtartamára számított napi egy százaléka, legfeljebb azonban húsz százalék.
