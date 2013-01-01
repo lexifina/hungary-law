@@ -7,5 +7,5 @@
 (4)[^21] A gyermek születéséről a Központi Kórház főigazgató főorvosa értesíti az apát, az illetékes gyámhatóságot, kiskorú fogvatartott anya esetében a törvényes képviselőt is.
 
 [^19]: A 22. § (2) bekezdése a 41/2011. (XII. 30.) KIM rendelet 16. §-ával megállapított szöveg.
-[^20]: A 22. § (3) bekezdése a 25/2003. (VII. 1.) IM rendelet 4. §-ával megállapított szöveg.
-[^21]: A 22. § (4) bekezdése a 25/2003. (VII. 1.) IM rendelet 4. §-ával megállapított szöveg.
+[^20]: A 22. § (3) bekezdése a 25/2003. (VII. 1.) IM rendelet 4. §-ával megállapított szöveg. [A 22. § (3) bekezdésében a 71/2012. (XII. 14.) BM rendelet 1. § a) pontjával elrendelt módosítás, amely szerint az „a gyámhatóságot” szövegrész helyébe az „a járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: gyámhivatal)” szöveg lép, nem vezethező át.]
+[^21]: A 22. § (4) bekezdése a 25/2003. (VII. 1.) IM rendelet 4. §-ával megállapított szöveg [A 22. § (4) bekezdésében a 71/2012. (XII. 14.) BM rendelet 1. § b) pontjával elrendelt módosítás, amely szerint az „a gyámhatóságot” szövegrész helyébe az „a gyámhivatalt” szöveg lép, nem vezethező át.]
