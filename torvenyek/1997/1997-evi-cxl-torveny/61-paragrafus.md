@@ -30,6 +30,8 @@ i) a kulturális örökség részét képező könyvtári dokumentumok és köny
 
 j) könyvtári dokumentumokról hitelesített másolatok készítése,
 
-k) a miniszter által megállapított további feladatok végzése.
+k) a miniszter által megállapított további feladatok végzése,
+
+l) a Magyar Országos Közös Katalógus adatbázis működtetése és fejlesztése.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.

@@ -1,9 +1,17 @@
 ## Területi múzeumok
 
-46. § (1) A területi múzeum több múzeumi szakágat felölelő gyűjtőkörrel, egy (városi, települési múzeum), esetleges több (tájmúzeum) önkormányzat területére kiterjedő gyűjtőterülettel rendelkezik.
+46. § (1) A területi múzeum több múzeumi szakágat felölelő gyűjtőkörrel rendelkezik.
 
-(2) Területi múzeum működhet a megyei múzeumi szervezet részeként, vagy önálló jogi személyként.
+(2) A területi múzeum gyűjtőterülete
 
-(3) A területi múzeum vezetője igazgató, akit a miniszter véleményének kikérésével bíznak meg, illetőleg vonják vissza megbízatását. Megyei múzeumi szervezet részeként működő intézménynél erre a megyei múzeumi szervezet igazgatója, önálló jogi személyként működő múzeumnál a fenntartó (tulajdonos) jogosult.
+a) egy települési önkormányzat (városi, települési múzeum), vagy
 
-(4)
+b) több települési önkormányzat (tájmúzeum), vagy
+
+c) egy járás (járási múzeum)
+
+közigazgatási területére terjed ki.
+
+(3) A területi múzeum vezetőjének megbízásához és annak visszavonásához a miniszter véleményét előzetesen ki kell kérni.
+
+(4) A területi múzeum gyűjtőterületére kiterjedően – a megyei hatókörű városi múzeummal kötött megállapodás alapján – elláthatja a megyei hatókörű városi múzeum 45/A. § (2) bekezdés bf), bg), bh) pontjaiban foglalt feladatait, vagy azok egy részét.

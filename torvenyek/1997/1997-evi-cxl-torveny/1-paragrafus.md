@@ -6,9 +6,9 @@
 
 1. § E törvény célja:
 
-a) rendelkezni a nemzeti és az egyetemes történelem során felhalmozott és megőrzött kulturális javak védelméről, tudományos feldolgozásáról és közkinccsé tételéről,
+a) a társadalmi jólét és a fenntartható fejlődés biztosítása, az egész életen át tartó tanulás elősegítése, az életminőség javítása, valamint a kulturális örökség helyi és országos védelme érdekében rendelkezni a kulturális javak gyarapításának, megőrzésének, tudományos feldolgozásának, a jövő nemzedékek számára történő átörökítésének és társadalmi hasznosításának általános szabályairól,
 
-b) a nemzeti és az egyetemes kulturális örökség megőrzése érdekében szabályozni az e javakkal kapcsolatos intézmények tevékenységét,
+b) szabályozni a muzeális intézmények tevékenységével és feladatellátásával, valamint a közgyűjteményekben őrzött kulturális javak hozzáférésével kapcsolatos kérdéseket,
 
 c) mindenki számára biztosítani a könyvtárhasználat jogát, szabályozni a nyilvános könyvtári ellátás működését és fejlesztését,
 

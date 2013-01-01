@@ -1,4 +1,4 @@
-74. § A közművelődési intézmény szerepét – az 1. számú melléklet o) pontjában meghatározott feltételek fennállása esetén – betöltheti:
+74. § A közművelődési intézmény szerepét – az 1. számú melléklet p) pontjában meghatározott feltételek fennállása esetén – betöltheti:
 
 a) művelődési otthon, ház, központ, szabadidő központ, közösségi ház, ifjúsági, illetve gyermekház, faluház,
 

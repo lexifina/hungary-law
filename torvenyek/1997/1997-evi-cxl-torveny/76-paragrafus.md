@@ -22,4 +22,6 @@ f) a különböző kultúrák közötti kapcsolatok kiépítésének és fenntar
 
 g) a szabadidő kulturális célú eltöltéséhez a feltételek biztosítása,
 
-h) egyéb művelődést segítő lehetőségek biztosítása.
+h) egyéb művelődést segítő lehetőségek biztosítása,
+
+i) a települési könyvtár, valamint a település közigazgatási területén lévő muzeális intézmény közművelődési tevékenységének támogatása.

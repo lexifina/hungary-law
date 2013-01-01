@@ -6,4 +6,4 @@ a) a kulturális javak egy meghatározott csoportját, illetve egy témát érin
 
 b) egy muzeológiai szakterületet (szakágat) felölelő gyűjtőkörrel, korlátozott gyűjtőterülettel rendelkező intézmény.
 
-(2) Vezetője igazgató, akit a miniszter véleményének kikérésével bíznak meg, illetőleg vonják vissza megbízatását. Megyei múzeumi szervezet részeként működő intézménynél erre minden esetben a megyei múzeumi szervezet igazgatója, önálló jogi személyként működő múzeumnál a fenntartó (tulajdonos) jogosult.
+(2) A tematikus múzeum vezetőjének megbízásához és annak visszavonásához a miniszter véleményét előzetesen ki kell kérni.

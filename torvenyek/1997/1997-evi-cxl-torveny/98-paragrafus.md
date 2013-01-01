@@ -2,6 +2,6 @@
 
 (2) E törvény nem érinti a hatálybalépése előtt a korábbi jogszabályok alapján védetté nyilvánított kulturális javak és földterületek védettségét.
 
-(3)
+(3) A 37/A. §-ban és a 42. §-ban foglaltakat a miniszter 2013. április 1-jétől ellenőrzi a szakfelügyelet útján.
 
 (4)–(7)

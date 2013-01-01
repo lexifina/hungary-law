@@ -1,15 +1,17 @@
-85. § Az állam és a fővárosi önkormányzat a közművelődési szakmai tanácsadás és szolgáltatás feladatkörében
+85. § (1) A területi szintű közművelődési szakmai szolgáltatás keretében ellátandó feladatok:
 
-a) elősegíti a megye közigazgatási területén működő települési önkormányzatok, nemzetiségi önkormányzatai önkormányzatok és a megye közigazgatási területén működő közművelődési szervezetek művelődési céljainak megvalósulását,
+a) területi szintű közművelődési tevékenységek szervezése, támogatása, a közművelődési feladatellátás, a közművelődési intézmények és a közösségi színterek működésének kérdéseiben szakmai szolgáltatás biztosítása, a közművelődés minőségbiztosítási, -fejlesztési rendszere működésének segítése,
 
-b) együttműködik az országos közművelődési szakmai tanácsadást és szolgáltatást biztosító szervvel, az országos szakmai érdek-képviseleti szervezetekkel,
+b) együttműködés az országos, a hazai és a nemzetközi szakmai szervezetekkel,
 
-c) közművelődési tevékenységgel összefüggő elemzéseket és fejlesztő programokat készít és hasznosít,
+c) a terület- és vidékfejlesztési célokkal összhangban közművelődési tevékenységgel összefüggő elemzések és fejlesztő programok készítése és hasznosítása, szakmai műhelyek működtetése, innovatív kezdeményezések támogatása, közreműködés a kulturális alapú gazdaságfejlesztésben a kreatív és kulturális ipari szolgáltatások fejlesztésével,
 
-d) részt vesz a térség nemzetközi, országos, megyei, fővárosi közművelődési rendezvényeinek szervezésében, gondozza a kistérségi, megyei, regionális, országos és nemzetközi kulturális kapcsolatokat,
+d) a területi szintű amatőr művészeti, népművészeti, hagyományőrző tevékenységek megőrzésének és fejlesztésének, a népi iparművészet, az élethosszig tartó tanulás, a tanórán kívüli nevelés, a felnőttképzés, az ismeretterjesztés, a közösségfejlesztés, a honismereti, helytörténeti kutatás, az anyanyelvápolás, a kulturális turizmus, a népfőiskolai mozgalom szakmai támogatása,
 
-e) gyűjti és összesíti a közművelődési információkat, megyei (fővárosi) adattárat kezel,
+e) közművelődési információs szolgáltatás nyújtása, tematikus adatbázisok létrehozása és működtetése, részvétel az országos információs adatbázis működtetésében és a közművelődési statisztikai adatgyűjtésben,
 
-f) elősegíti a megye (főváros) környezeti, művészeti, közművelődési értékeinek, sajátosságainak bemutatását,
+f) a területi szintű értéktárak összeállításának módszertani segítése, területi kulturális regiszter gondozása, az adott terület és a főváros szellemi, tárgyi, természeti kulturális örökségének, környezeti, művészeti, közművelődési sajátosságainak bemutatása, közreműködés digitális archívum működtetésében,
 
-g) végzi a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzését és továbbképzését.
+g) a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzése és továbbképzése, szakkiadványok megjelentetése.
+
+(2) A fővárosi közművelődési szakmai szolgáltató szervezet együttműködik az országos közművelődési szakmai szolgáltatást biztosító szervvel.

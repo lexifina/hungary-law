@@ -4,13 +4,17 @@
 
 70. § (1) A könyvtárnak rendelkeznie kell a feladatai ellátásához szükséges feltételekkel. A könyvtár az alapító, illetőleg a fenntartó által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik feladatainak ellátásáról. A könyvtár fenntartási és működési költségeit az évente összeállított és a fenntartó által megállapított költségvetésben kell előirányozni.
 
-(2) A nyilvános könyvtári ellátásból adódó feladatok finanszírozásához a központi költségvetés járul hozzá:
+(2) A nyilvános könyvtári ellátásból adódó állami feladatokhoz a központi költségvetés hozzájárul:
 
-a) a nemzeti könyvtár és az országos szakkönyvtárak esetében a központi költségvetésről szóló törvényben,
+a) a nemzeti könyvtár és az országos szakkönyvtárak esetében – a Fővárosi Szabó Ervin Könyvtár kivételével – a fenntartó fejezeti költségvetésében,
 
-b) a helyi önkormányzatok támogatása – a közművelődési és közgyűjteményi normatív hozzájárulás keretében – a helyi önkormányzatokért felelős miniszter által vezetett minisztérium költségvetési fejezetében,
+b) a megyei és a fővárosi könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
 
-c) a helyi önkormányzatokért felelős miniszter által vezetett minisztérium költségvetési fejezete központosított előirányzatként a helyi önkormányzatok számára a települési és a megyei (fővárosi) könyvtárak állománygyarapítási kereteinek érdekeltségnövelő támogatását tartalmazza.
+c) a települési önkormányzatok által kötelező feladatként biztosított nyilvános könyvtári ellátás biztosításához a helyi önkormányzatok költségvetési fejezetében,
+
+d) a kistelepülések által igénybe vehető megyei könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
+
+e) a települési önkormányzatok által működtetett könyvtárak állománygyarapítási kereteinek érdekeltségnövelő támogatásához a helyi önkormányzatok költségvetési fejezetében.
 
 (3) A helyi önkormányzatok számára a települési és megyei (fővárosi) könyvtárak állománygyarapítási keretei érdekeltségnövelő támogatása elosztásának szabályait a miniszter rendeletben határozza meg.
 

@@ -50,7 +50,7 @@ s) Közösségi színtér: a helyi lakosság rendszeres vagy alkalmi közművel�
 
 sz) Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei, és egyéb bizonyítékai – az ingatlanok kivételével –, a művészeti alkotások.
 
-t) Muzeális intézmény: a múzeum, a közérdekű muzeális gyűjtemény és a közérdekű muzeális kiállítóhely.
+t) Múzeumi küldetésnyilatkozat: a múzeumok szakmai tevékenységét megalapozó írott dokumentum, amely az e törvényben meghatározott feladatok teljesítése érdekében a gyűjtemények, valamint a szakmai és tárgyi infrastruktúra alapján rögzíti a múzeum belső és külső adottságait, továbbá ennek alapján kijelöli helyi társadalmi szerepvállalásának stratégiai céljait.
 
 u) Művelődési szervezet: minden olyan jogi személyiséggel rendelkező települési, megyei, regionális, országos szervezet (például népfőiskola), amely alapító okirata szerint e törvény 76. §-ában felsorolt közművelődési feladatokból egy vagy több tevékenység megvalósítására jött létre.
 
@@ -59,5 +59,9 @@ v) Művelődő közösség: a művelődési érdeklődési kör és az önképz�
 w) Népfőiskola: olyan felnőttoktatási célú tanfolyamokat szervező, helyi önszerveződés alapján létrejött szervezet, amelynek pedagógiai programja a szakismeretek átadásán túl személyiségfejlesztő (állampolgári, közéleti) elemet is tartalmaz, s melyek lebonyolítási, oktatási rendszerét, módszereit a résztvevők maguk is alakíthatják.
 
 x) Nyilvános könyvtári ellátás: a nyilvános könyvtárak által nyújtott szolgáltatások és az e szolgáltatások nyújtását elősegítő központi szolgáltatások összessége, amelyek biztosítják az információhoz való szabad hozzáférést.
+
+y) Tagintézmény: muzeális intézmény szervezeti egységeként működő, önálló működési engedéllyel rendelkező muzeális intézmény.
+
+z) Megyei hatókörű muzeális intézmény: a települési szintet meghaladó, egy megye közigazgatási területére, valamint a megyében lévő megyei jogú városok közigazgatási területére kiterjedő feladatokat ellátó muzeális intézmény.
 
 zs)

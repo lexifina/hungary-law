@@ -1,19 +1,23 @@
-45/A. § (1) A megyei múzeumi szervezet székhelye az önálló működési engedéllyel rendelkező megyei múzeum (a továbbiakban: megyei múzeum). A megyei múzeum gyűjteményi anyagában legalább öt muzeológiai szakág jelenik meg. Gyűjtőterülete az adott megye és az abban található megyei jogú város közigazgatási területére terjed ki. E gyűjtőterülettől – szakmai és tudományos indokok alapján – a működési engedélyben eltérés engedélyezhető.
+45/A. § (1) A megyei hatókörű városi múzeum gyűjtőköre legalább öt muzeológiai szakágra terjed ki, gyűjtőterülete a megye és a megyében levő megyei jogú városok közigazgatási területe.
 
-(2) A megyei múzeum:
+(2) A megyei hatókörű városi múzeum – a 37/A. §-ban és a 42. § (2) bekezdésében foglalt feladatokon túlmenően – állami feladatai keretében:
 
-a) közreműködik a miniszter és a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) területi feladatainak ellátásában,
+a) vagyonkezelője a tevékenység ellátásához szükséges állami vagyonnak,
 
-b) elősegíti a megyei múzeumi szervezet, illetőleg a megye közigazgatási területén tevékenykedő más muzeális intézmények szakmai együttműködését, munkájuk összehangolását, valamint az illetékességi területén lévő egyéb kulturális javak védelmét;
+b) területileg illetékes múzeumként gyűjtőterületére kiterjedően
 
-c) a megye közigazgatási területén és a megyében levő megyei jogú városban ellátja a régészeti lelőhelyek szakmai nyilvántartását, mentését és régészeti feltárásokat végez;
+ba) végzi a kormányrendeletben meghatározott régészeti szaktevékenységeket,
 
-d) szakmai nyilvántartása alapján adatokat szolgáltat a régészeti lelőhelyekről;
+bb) vezeti a régészeti lelőhelyek szakmai nyilvántartását, és annak alapján adatokat szolgáltat a régészeti lelőhelyekről,
 
-e) a régészeti feltárás esetén előkerült régészeti leletet, illetve lelőhelyet a múzeum köteles a hatóságnak haladéktalanul bejelenteni;
+bc) a régészeti feltárás esetén kívül előkerült régészeti leletet vagy lelőhelyet a kulturális örökségvédelmi hatóságnak haladéktalanul bejelenti,
 
-f) részt vesz a megye közigazgatási területén lévő régészeti emlékek és a műemlékek vissza nem építhető, illetőleg a helyszínen meg nem őrizhető töredékei és tartozékai muzeális közgyűjteményben történő elhelyezésében;
+bd) részt vesz a régészeti emlékek és a műemlékek vissza nem építhető vagy a helyszínen meg nem őrizhető töredékei és tartozékai muzeális intézményben történő elhelyezésében,
 
-g) szakértőként részt vesz a régészetileg védett területek ellenőrzésében;
+be) szakértőként részt vesz a régészetileg védett területek ellenőrzésében,
 
-h) ellátja továbbá a megyei múzeumi szervezet működésével kapcsolatos funkcionális feladatokat.
+bf) gyűjtőkörében szakmai tanácsadást folytat a muzeális intézmények szakmai együttműködése, munkájuk összehangolása, valamint az egyéb kulturális javak védelme érdekében,
+
+bg) részt vesz a szellemi kulturális örökség védelmével kapcsolatos helyi tevékenységek koordinálásában és szakmai támogatásában,
+
+bh) muzeológiai, múzeumpedagógiai, képzési és restaurálási szakmai-módszertani központként működik.

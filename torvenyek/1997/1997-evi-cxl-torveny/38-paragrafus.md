@@ -1,10 +1,4 @@
-## V. Fejezet
-
-## Muzeális intézmények
-
-38. § (1) A kulturális javak védelmével összefüggő, e törvényben meghatározott célok megvalósításának legfontosabb letéteményesei a muzeális intézmények.
-
-(2) A muzeális intézmények a feladatellátás veszélyeztetésével nem vonhatók össze más intézménnyel.
+38. § (1)–(2)
 
 (3)
 

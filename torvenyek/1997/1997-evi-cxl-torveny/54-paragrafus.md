@@ -14,7 +14,7 @@ f) statisztikai adatokat szolgáltat,
 
 g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat.
 
-(2) A nyilvános könyvtárakról a muzeális intézményeket nyilvántartó hatóság jegyzéket vezet. A központi költségvetési támogatás csak a jegyzékben szereplő nyilvános könyvtárakat, illetőleg fenntartóikat illeti meg a 71. § (1) bekezdésében felsoroltak figyelembevételével.
+(2) A nyilvános könyvtárakról a muzeális intézményeket nyilvántartó hatóság jegyzéket vezet.
 
 (3) A fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata és kérelme nélkül bekerülnek a nyilvános könyvtárak jegyzékébe: a nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtárak, a megyei könyvtárak, a 3. számú melléklet szerinti országos szakkönyvtárak, illetőleg az állami egyetemek könyvtárai.
 
@@ -26,4 +26,4 @@ g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat.
 
 (7) Nyilvános könyvtár megszüntetése esetén a fenntartó köteles gondoskodni a gyűjtemény további könyvtári hasznosításáról.
 
-(8) A könyvtárakban őrzött, állami tulajdonban lévő kulturális javak korlátozottan forgalomképesek, elidegenítésükhöz a miniszter engedélye szükséges.
+(8) A könyvtárakban őrzött állami tulajdonban lévő kulturális javak, valamint a helyi önkormányzatok tulajdonában lévő muzeális könyvtári dokumentumok korlátozottan forgalomképesek, elidegenítésükhöz a miniszter engedélye szükséges.

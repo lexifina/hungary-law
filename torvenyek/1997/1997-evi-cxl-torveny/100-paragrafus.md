@@ -2,7 +2,7 @@
 
 100. § (1) Felhatalmazást kap a Kormány, hogy a törvény végrehajtásaként rendeletben szabályozza
 
-a) a könyvtári intézet vagy intézetek, a muzeális intézményeket nyilvántartó hatóság vagy hatóságok, valamint a közművelődési szakmai tanácsadó és szolgálató szerv vagy szervek kijelölését,
+a) a könyvtári intézet vagy intézetek, a muzeális intézményeket nyilvántartó hatóság vagy hatóságok, valamint a közművelődési szakmai szolgálató szerv vagy szervek kijelölését,
 
 b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillető kedvezményeket,
 
@@ -34,7 +34,7 @@ a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvt
 
 b) az önállóan működő és gazdálkodó közgyűjtemény éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
 
-c)
+c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
 
 d) a muzeális intézmények működési engedélyeivel kapcsolatos kérdéseket,
 
@@ -46,7 +46,7 @@ g) a muzeális intézmények tevékenységével összefüggő szakmai követelm�
 
 h)
 
-i) a muzeális intézmények szakmai normatíváit, a továbbképzés és a szervezett képzés rendszerét és követelményeit,
+i) a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 
 j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
 
@@ -56,7 +56,7 @@ l) a muzeális intézményekre, a könyvtárakra és a közművelődési intézm
 
 m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés és a szervezett képzés rendszerét,
 
-n)
+n) a Könyvtárellátási Szolgáltató Rendszer működését,
 
 o) a könyvtárak szervezeti és működési szabályzatának kötelező tartalmát,
 
@@ -80,7 +80,7 @@ x) az egyes közművelődési munkakörök betöltéséhez szükséges képesít
 
 y) a muzeális intézményekben foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
 
-z)
+z) az országos múzeumok, az országos szakmúzeumok, a nemzeti könyvtár és az országos szakkönyvtárak kiemelt feladatait.
 
 (4)
 
