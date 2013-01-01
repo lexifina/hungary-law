@@ -1,1 +1,1 @@
-68–70. §
+68. § A külön jogszabályban meghatározott jegyző ellátja az üzletek működésével, nyitva tartásával és tevékenységének ellenőrzésével, valamint a telepengedélyezéssel és a telep létesítésének bejelentésével kapcsolatos elsőfokú hatósági feladatokat. A feladat- és hatáskört és a feladatellátás feltételeit a Kormány rendeletben állapítja meg.

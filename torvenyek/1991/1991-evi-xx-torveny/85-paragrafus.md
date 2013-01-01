@@ -20,4 +20,4 @@ i) az önkormányzati környezetvédelmi alappal való rendelkezés és gazdálk
 
 (2)
 
-(3) A jegyző környezet- és természetvédelmi feladat- és hatáskörét a Kormány rendeletben állapítja meg.
+(3) A jegyző környezet- és természetvédelmi – különösen a parlagfű elleni közérdekű védekezéssel és a zaj- és rezgésvédelemmel kapcsolatos – feladat- és hatáskörét a Kormány rendeletben állapítja meg.

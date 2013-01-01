@@ -1,0 +1,1 @@
+148. § Az önkormányzati képviselő-testület hatósági feladatokat ellátó szervei, feladataik ellátása céljából – külön törvény rendelkezései szerint – közvetlenül hozzáférnek a személy- és lakcímnyilvántartás rendszeréhez.
