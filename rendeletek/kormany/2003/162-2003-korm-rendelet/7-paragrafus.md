@@ -22,7 +22,7 @@ g) észlelt rendellenességek,
 
 h) megtett intézkedések.
 
-[^22]: A 7. § (1) bekezdése a 296/2012. (X. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^22]: A 7. § (1) bekezdése a 296/2012. (X. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg. [A 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés h) pontjával elrendelt módosítás, amely szerint az „a falugazdászi hálózat” szövegrész helyébe az „a járási állat-egészségügyi és élelmiszer-ellenőrző hivatal” szöveg lép, nem vezethető át.]
 [^23]: A 7. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
-[^24]: A 7. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § b) és f) pontja, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés g) és i) pontja szerint módosított szöveg.
+[^24]: A 7. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § b) és f) pontja, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés g) pontja, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés i) pontja szerint módosított szöveg.
 [^25]: A 7. § (4) bekezdését a 62/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése iktatta be.

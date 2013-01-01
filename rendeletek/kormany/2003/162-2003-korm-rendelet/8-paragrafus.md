@@ -24,4 +24,4 @@ e) az előző évi betakarított terület nagysága.
 [^27]: A 8. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
 [^28]: A 8. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
 [^29]: A 8. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^30]: A 8. § (5) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § g) pontja, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés g) és i) pontja szerint módosított szöveg.
+[^30]: A 8. § (5) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § g) pontja, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés g) pontja, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés i) pontja szerint módosított szöveg.
