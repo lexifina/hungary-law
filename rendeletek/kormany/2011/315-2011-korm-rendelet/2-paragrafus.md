@@ -40,7 +40,7 @@ n) az a)–m) pontokban meghatározott szakképzettséggel egyenértékű szakir
 
 (6) A kezelési terv készítője a megalapozó dokumentáció és a kezelési terv elkészítésébe bevonja
 
-a)[^4] az illetékes fővárosi és megyei kormányhivatalt,
+a)[^4] az illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatalát,
 
 b) táj- és természetvédelmet, ökoturizmust és környezeti nevelést érintő kérdésekben a működési területével érintett nemzeti park igazgatóságot,
 
@@ -59,4 +59,4 @@ g) az illetékes önkormányzati és állami főépítészeket.
 (8) A megalapozó dokumentáció és a kezelési terv elkészítése során a kezelési terv készítője együttműködik a világörökségi területen működő, világörökségi gondnoksággal.
 
 [^3]: A 2. § (1a) bekezdését a 310/2012. (XI. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^4]: A 2. § (6) bekezdés a) pontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 2. § (6) bekezdés a) pontja a 394/2012. (XII. 20.) Korm. rendelet 52. § (1) bekezdés a) pontjával megállapított szöveg.
