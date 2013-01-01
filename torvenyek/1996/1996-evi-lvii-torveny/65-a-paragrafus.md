@@ -2,7 +2,7 @@
 
 (2) Magáncélú, illetve magánhasználatú helyiségben, ideértve a járműveket és más területet is, az e § szerinti vizsgálati cselekményt folytatni csak akkor lehet, ha az az ügyfél bármely jelenlegi vagy volt vezető tisztségviselője, alkalmazottja, megbízottja, valamint a ténylegesen az irányítást gyakorló, vagy korábban irányítást gyakorolt más személy használatában van.
 
-(3) Az e § szerinti vizsgálati cselekményre előzetes bírói engedéllyel kerülhet sor. A Gazdasági Versenyhivatal engedély iránti írásbeli kérelmét a Fővárosi Törvényszék bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
+(3) Az e § szerinti vizsgálati cselekményre előzetes bírói engedéllyel kerülhet sor. A Gazdasági Versenyhivatal engedély iránti írásbeli kérelmét a Fővárosi Közigazgatási és Munkaügyi Bíróság bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
 
 (4) A bíróság a kérelmezett vizsgálati cselekményt akkor engedélyezi, ha a Gazdasági Versenyhivatal valószínűsíti, hogy más vizsgálati cselekmény nem vezetne eredményre, és ésszerű megalapozottsággal feltehető, hogy az indítvány szerinti helyszínen a megjelölt jogsértéssel kapcsolatos információforrás fellelhető, és feltételezhető, hogy azt önként nem bocsátanák rendelkezésre vagy felhasználhatatlanná tennék. A bíróság a kérelmezett vizsgálati cselekményt részben is engedélyezheti, meghatározva, hogy kivel szemben, illetve milyen vizsgálati cselekmény tehető.
 
