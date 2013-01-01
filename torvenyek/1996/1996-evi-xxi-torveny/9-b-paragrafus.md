@@ -6,4 +6,8 @@ b) kidolgozza az országos fejlesztési koncepciót, valamint az országos terü
 
 c) elősegíti a területfejlesztési koncepciók és programok összhangját;
 
-d) legalább négyévente felülvizsgálja a kedvezményezett területek besorolását, és szükség esetén javaslatot tesz annak módosítására.
+d) a Kormány részére javaslatot tesz a régiók területi lehatárolására, az érintett megyei önkormányzatok és az országos önkormányzati szövetségek véleményének figyelembevételével, a miniszterrel egyetértésben;
+
+e) ötévente kezdeményezi a területfejlesztési-statisztikai kistérségi lehatárolás megváltoztatását, az érintett megyei önkormányzatok és az országos önkormányzati szövetségek véleményének figyelembevételével, a miniszterrel egyetértésben;
+
+f) ötévente felülvizsgálja a kedvezményezett területek besorolását, és szükség esetén a Kormány részére javaslatot tesz annak módosítására.

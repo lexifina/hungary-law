@@ -20,7 +20,7 @@ d) dönt – az e törvény 20. § (2) bekezdés a) pontjában és (4) bekezdés
 
 e) meghatározza a területfejlesztést szolgáló pénzügyi eszközök, az igénybe vehető kedvezmények felhasználási szabályait;
 
-f) meghatározza a régiók területi lehatárolását;
+f) az Országgyűlésnek javaslatot tesz a területfejlesztési-statisztikai kistérségi lehatárolásra, valamint meghatározza a régiók területi lehatárolását;
 
 g) elfogadja a kiemelt térségekre vonatkozó területfejlesztési koncepciókat és programokat;
 

@@ -28,13 +28,13 @@ e) régió: a statisztikai célú területi egységek nómenklatúrájának (NUT
 
 f) kiemelt térség: egy vagy több megyére (a fővárosra) vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területi egység, amely egységes tervezéséhez és fejlesztéséhez országos érdekek fűződnek;
 
-g)
+g) területfejlesztési-statisztikai kistérség: földrajzilag összefüggő területfejlesztési-statisztikai területi egység, amelyet a hozzá sorolt települések teljes közigazgatási területe alkot, továbbá amelynek határai e települések közigazgatási határai által meghatározottak;
 
-h)
+h) kistérségi lehatárolás: a települések területfejlesztési-statisztikai kistérségbe sorolása;
 
 i) térség: különböző területi egységek (a régió, a megye, ezek területének egy része és a kiemelt térség) összefoglaló elnevezése;
 
-j) szabad vállalkozási zóna: a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, különböző feltételek teljesítése mellett, sajátos kedvezmények igénybevételét biztosító, a fejlesztés szempontjából együtt kezelt térség;
+j) szabad vállalkozási zóna: a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal vagy helyrajzi számokkal lehatárolt, különböző feltételeket teljesítő, a fejlesztés szempontjából együtt kezelt térség, illetve kedvezményezett térségben a Kormány által egyedileg meghatározott, nemzetgazdasági érdekből kiemelt gazdasági ágazat, amely a térség fejlődése érdekében sajátos kedvezményeket biztosít;
 
 k) elmaradott térség: ahol a gazdaság értéktermelő képessége, infrastrukturális fejlettsége és társadalmi mutatói jelentősen kedvezőtlenebbek az országos átlagnál;
 
