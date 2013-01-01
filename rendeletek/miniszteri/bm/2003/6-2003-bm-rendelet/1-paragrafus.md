@@ -4,8 +4,8 @@
 
 (2)[^2] A hazai anyakönyvezést végző kijelölt hatóság a Bevándorlási és Állampolgársági Hivatal (a továbbiakban: hazai anyakönyvezést végző hatóság), amelynek anyakönyvvezetői vezetik a hazai anyakönyveket.
 
-(3)[^3] A bejegyzett élettársi kapcsolatok anyakönyvét az At. 26/E. §-ában meghatározott anyakönyvvezetők mellett a körzetközponti feladatokat ellátó más települési önkormányzat polgármesteri hivatalának anyakönyvvezetője vezeti. A bejegyzett élettársi kapcsolatok anyakönyvét vezető anyakönyvvezető helyettesítésére a 7. § (3)–(6) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+(3)[^3] A bejegyzett élettársi kapcsolatok anyakönyvét az At. 26/E. §-ában meghatározott anyakönyvvezetők mellett a járási hivatal székhelye szerinti más települési önkormányzat polgármesteri hivatalának anyakönyvvezetője vezeti. A bejegyzett élettársi kapcsolatok anyakönyvét vezető anyakönyvvezető helyettesítésére a 7. § (3)–(6) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 [^1]: Az 1. § előtti alcím a 10/2007. (III. 6.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 14/2009. (VI. 3.) IRM rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (3) bekezdését a 14/2009. (VI. 3.) IRM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (3) bekezdését a 14/2009. (VI. 3.) IRM rendelet 1. §-a iktatta be, szövege az 54/2012. (XII. 28.) KIM rendelet 16. § a) pontja szerint módosított szöveg.

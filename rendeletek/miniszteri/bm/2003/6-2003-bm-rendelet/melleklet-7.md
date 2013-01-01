@@ -82,7 +82,7 @@
 
 ## A biztonsági tintával töltött íróeszközt az ASZA-rendszeren keresztül lehet megrendelni. A rendelést az évi egyszeri rendes okmányigényléssel együtt kell továbbítani.
 
-7. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^235]
+7. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^252]
 
 Az ASZA-rendszer használatához szükséges hozzáférési jogosultságok
 
@@ -90,7 +90,7 @@ Az ASZA-rendszer használatához szükséges hozzáférési jogosultságok
 
 A rendelet 89. §-ában meghatározott ASZA-rendszer használatához szükséges hozzáférési jogosultság igénylésének szabályai a következők:
 
-1.[^236] Hozzáférési jogosultság az illetékes anyakönyvvezető, a hazai anyakönyvezést végző anyakönyvvezető, továbbá a fővárosi és megyei kormányhivatalnak, a Központi Hivatal, valamint a központi anyakönyvi szerv erre feljogosított köztisztviselője (a továbbiakban együtt: jogosult vagy felhasználó) részére biztosítható.
+1.[^253] Hozzáférési jogosultság az illetékes anyakönyvvezető, a hazai anyakönyvezést végző anyakönyvvezető, továbbá a fővárosi és megyei kormányhivatal, a Központi Hivatal, valamint a központi anyakönyvi szerv erre feljogosított kormánytisztviselője (a továbbiakban együtt: jogosult vagy felhasználó) részére biztosítható.
 
 2. A hozzáférési jogosultság érvényességi ideje 5 év.
 
@@ -124,7 +124,7 @@ a) Anyakönyv-nyilvántartás: az anyakönyvvel kapcsolatos nyilvántartást, á
 
 b) Okmányigénylés: a Központi Hivatal által üzemeltetett logisztikai rendszeren keresztüli biankó okmányrendelés.
 
-3.4.[^237] A fővárosi és megyei kormányhivatalnak hozzáférésre jogosult köztisztviselője részére bejelenthető jogosultságok:
+3.4.[^254] A fővárosi és megyei kormányhivatal hozzáférésre jogosult kormánytisztviselője részére bejelenthető jogosultságok:
 
 a) Tanúsítvány kiállítása: külföldön történő házasságkötéshez, élettársi kapcsolat bejegyzéséhez tanúsítvány kiállítása.
 
@@ -142,9 +142,9 @@ g) HelpDesk (alkalmazási): alkalmazási HelpDesk nyújtása a fórumalkalmazás
 
 h) HelpDesk (technikai): technikai HelpDesk nyújtása a fórumalkalmazáson keresztül.
 
-i)[^238] Rendszeradminisztrátor: a fővárosi és megyei kormányhivatalnak illetékességi területén a jogosultságokkal és kártyaigényléssel kapcsolatos adatbeviteli tevékenység ellátása.
+i)[^255] Rendszeradminisztrátor: a fővárosi és megyei kormányhivatal illetékességi területén a jogosultságokkal és kártyaigényléssel kapcsolatos adatbeviteli tevékenység ellátása.
 
-3.5. A Központi Hivatal, valamint a központi anyakönyvi szerv köztisztviselője részére bejelenthető jogosultságok:
+3.5.[^256] A Központi Hivatal, valamint a központi anyakönyvi szerv kormánytisztviselője részére bejelenthető jogosultságok:
 
 a) Kártyaigénylés/karbantartás: Központi Hivatalban dolgozók kártyaigénylési, karbantartási tevékenysége (kártya felvétele, cseréje, kiadása stb.).
 
@@ -158,7 +158,7 @@ e) HelpDesk (alkalmazási): alkalmazási HelpDesk nyújtása a fórumalkalmazás
 
 f) HelpDesk (technikai): technikai HelpDesk nyújtása a fórumalkalmazáson keresztül.
 
-g)[^239] Rendszeradminisztrátor: a Központi Hivatal illetékességébe tartozóan (a fővárosi és megyei kormányhivatalnak rendszeradminisztrátora, Központi Hivatal köztisztviselői) a jogosultságokkal és kártyaigényléssel kapcsolatos adatbeviteli tevékenység ellátása.
+g)[^257] Rendszeradminisztrátor: a Központi Hivatal illetékességébe tartozóan (a fővárosi és megyei kormányhivatal rendszeradminisztrátora, Központi Hivatal kormánytisztviselői) a jogosultságokkal és kártyaigényléssel kapcsolatos adatbeviteli tevékenység ellátása.
 
 h) Specimen okmánykezelés: a Központi Hivatal által üzemeltetett logisztikai rendszeren keresztüli biankó specimen okmányrendelés.
 
@@ -178,29 +178,29 @@ e) a felhasználó aláírását,
 
 f) a munkáltató jóváhagyó nyilatkozatát és aláírását.
 
-5.[^240] Az anyakönyvvezető jogosultság és felhasználói kártya bejelentő lapját (a továbbiakban: ASZA bejelentő lapok) a jegyző – a kitöltést követően – haladéktalanul továbbítja a fővárosi és megyei kormányhivatalhoz.
+5.[^258] Az anyakönyvvezető jogosultság és felhasználói kártya bejelentő lapját (a továbbiakban: ASZA bejelentő lapok) a jegyző – a kitöltést követően – haladéktalanul továbbítja a fővárosi és megyei kormányhivatalhoz.
 
-5.1.[^241] A fővárosi és megyei kormányhivatal képzi a felhasználó azonosítóját, és legyártatja a felhasználói kártyát a Központi Hivatallal.
+5.1.[^259] A fővárosi és megyei kormányhivatal képzi a felhasználó azonosítóját, és legyártatja a felhasználói kártyát a Központi Hivatallal.
 
-5.2.[^242] A Központi Hivatal a – központilag előállított – felhasználói kártyát a fővárosi és megyei kormányhivatal számára juttatja el.
+5.2.[^260] A Központi Hivatal a – központilag előállított – felhasználói kártyát a fővárosi és megyei kormányhivatal számára juttatja el.
 
-5.3.[^243] A felhasználói kártyát az anyakönyvvezető személyesen veszi át a fővárosi és megyei kormányhivatalnak székhelyén. Az átvétellel egyidejűleg történik meg a felhasználói kártya aktiválása.
+5.3.[^261] A felhasználói kártyát az anyakönyvvezető személyesen veszi át a fővárosi és megyei kormányhivatal székhelyén. Az átvétellel egyidejűleg történik meg a felhasználói kártya aktiválása.
 
-5.4.[^244] A fővárosi és megyei kormányhivatalnak és a Központi Hivatal hozzáférésre jogosult köztisztviselője esetében a felhasználói kártya gyártására, átvételére, aktiválására az 5. pontban foglaltakat kell megfelelően alkalmazni.
+5.4.[^262] A fővárosi és megyei kormányhivatal és a Központi Hivatal hozzáférésre jogosult kormánytisztviselője esetében a felhasználói kártya gyártására, átvételére, aktiválására az 5. pontban foglaltakat kell megfelelően alkalmazni.
 
-5.5. A hazai anyakönyvezést végző anyakönyvvezető, továbbá a hazai anyakönyvezést végző hatóság vezetője a jogosultság és felhasználói kártya bejelentő lapját, valamint a központi anyakönyvi szerv hozzáférésre jogosult köztisztviselője a jogosultság bejelentő lapját közvetlenül a Központi Hivatalnak küldi meg.
+5.5.[^263] A hazai anyakönyvezést végző anyakönyvvezető, továbbá a hazai anyakönyvezést végző hatóság vezetője a jogosultság és felhasználói kártya bejelentő lapját, valamint a központi anyakönyvi szerv hozzáférésre jogosult kormánytisztviselője a jogosultság bejelentő lapját közvetlenül a Központi Hivatalnak küldi meg.
 
-6.[^245] Az okmányirodai anyakönyvvezetőknek – azoknak is, akik már rendelkeznek felhasználói azonosítóval – az ASZA bejelentő lapokon kívül ki kell tölteniük az „Okmányirodai Rendszerek Jogosultság Igénylő Lap” című formanyomtatványt. A három igénylőlapot a jegyző továbbítja a fővárosi és megyei kormányhivatalhoz.
+6.[^264] Az okmányirodát működtető járási hivatal székhelyén működő anyakönyvvezetőknek – azoknak is, akik már rendelkeznek felhasználói azonosítóval – az ASZA bejelentő lapokon kívül ki kell tölteniük az „Okmányirodai Rendszerek Jogosultság Igénylő Lap” című formanyomtatványt. A három igénylőlapot a jegyző továbbítja a fővárosi és megyei kormányhivatalhoz.
 
-6.1.[^246] A fővárosi és megyei kormányhivatal az ASZA-s bejelentő lapok feldolgozását követően az okmányirodai igénylőlapra felvezeti az ASZA jogosultsági rendszer által képzett felhasználó azonosítót és továbbítja – faxon – a Központi Hivatalnak. A legyártott felhasználói kártyát a Központi Hivatal a fővárosi és megyei kormányhivatal részére juttatja el.
+6.1.[^265] A fővárosi és megyei kormányhivatal az ASZA-s bejelentő lapok feldolgozását követően az okmányirodai igénylőlapra felvezeti az ASZA jogosultsági rendszer által képzett felhasználó azonosítót és továbbítja – faxon – a Központi Hivatalnak. A legyártott felhasználói kártyát a Központi Hivatal a fővárosi és megyei kormányhivatal részére juttatja el.
 
 6.2. A felhasználói kártya átvétele és aktiválása az 5.3–5.4. pontban foglaltak szerint történik.
 
 7. A jogosultnak a felhasználói kártyát munkaidőben használaton kívül és munkaidőn túl biztonságos, jól elzárható és illetéktelen személyek számára hozzáférhetetlen helyen kell tárolnia.
 
-7.1.[^247] A jogosult a felhasználói kártya használatát más személynek nem engedheti át, az azonosítót (PIN-kód, PUK-kód) más személynek nem hozhatja tudomására. Helyettesítő anyakönyvvezető kijelölése esetén a fővárosi és megyei kormányhivatalt vezető kormánymegbízott megteszi a szükséges intézkedéseket (kártyaigénylés, illetve jogosultság biztosítása) az ASZA-rendszer használatához szükséges jogosultság megadásával kapcsolatban.
+7.1.[^266] A jogosult a felhasználói kártya használatát más személynek nem engedheti át, az azonosítót (PIN-kód, PUK-kód) más személynek nem hozhatja tudomására. Helyettesítő anyakönyvvezető kijelölése esetén a fővárosi és megyei kormányhivatalt vezető kormánymegbízott megteszi a szükséges intézkedéseket (kártyaigénylés, illetve jogosultság biztosítása) az ASZA-rendszer használatához szükséges jogosultság megadásával kapcsolatban.
 
-7.2.[^248] A jogosult a kártya elvesztését, megrongálódását, megsemmisülését, a 7.1. pont szerinti egyéb azonosító elfelejtését, illetéktelen birtokába kerülését haladéktalanul köteles bejelenteni az igénylőnek. Az előbbi tényekről, körülményekről az igénylő haladéktalanul (pl. telefonon, faxon, elektronikus formában), de legkésőbb a bekövetkezés/felismerés napját követő munkanapon – írásban – köteles tájékoztatni a fővárosi és megyei kormányhivatalt/Központi Hivatalt) a szükséges intézkedések végrehajtása érdekében. A felhasználói kártya pótlására 5 munkanapon belül kerül sor. A felhasználói kártya átvétele és aktiválása az 5.3–5.4. pontban foglaltak szerint történik.
+7.2.[^267] A jogosult a kártya elvesztését, megrongálódását, megsemmisülését, a 7.1. pont szerinti egyéb azonosító elfelejtését, illetéktelen birtokába kerülését haladéktalanul köteles bejelenteni az igénylőnek. Az előbbi tényekről, körülményekről az igénylő haladéktalanul (pl. telefonon, faxon, elektronikus formában), de legkésőbb a bekövetkezés/felismerés napját követő munkanapon – írásban – köteles tájékoztatni a fővárosi és megyei kormányhivatalt/Központi Hivatalt) a szükséges intézkedések végrehajtása érdekében. A felhasználói kártya pótlására 5 munkanapon belül kerül sor. A felhasználói kártya átvétele és aktiválása az 5.3–5.4. pontban foglaltak szerint történik.
 
 7.3. A jogosult a felhasználói kártyát a hozzáférési jogosultság megszűnésekor, illetve új kártya kibocsátása esetén köteles leadni a jogosultságot bejelentő munkáltatónak, aki az átvételt írásban igazolja, majd a felhasználói kártyát – a felügyeleti szerven keresztül – lyukasztással történt érvénytelenítését követően megküldi a Központi Hivatalnak a bevonás, érvénytelenítés technikai műveletek nyilvántartáson való átvezetése és a selejtezés végrehajtása érdekében.
 
@@ -214,9 +214,9 @@ f) a munkáltató jóváhagyó nyilatkozatát és aláírását.
 
 – ha a jogosultság érvényességi ideje lejár.
 
-7.5.[^249] A jegyző, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a központi anyakönyvi szerv vezetője, valamint a hazai anyakönyvezést végző hatóság vezetője a helyi jogosultságokról nyilvántartást vezet, melynek tartalmaznia kell:
+7.5.[^268] A jegyző, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a központi anyakönyvi szerv vezetője, valamint a hazai anyakönyvezést végző hatóság vezetője a helyi jogosultságokról nyilvántartást vezet, melynek tartalmaznia kell:
 
-– a jogosult köztisztviselők nevét;
+–[^269] a jogosult közszolgálati tisztviselők nevét;
 
 – a jogosult felhasználói azonosítóját;
 
@@ -224,18 +224,21 @@ f) a munkáltató jóváhagyó nyilatkozatát és aláírását.
 
 – a hozzáférési jogosultság érvényességének kezdő időpontját, továbbá az érvényesség megszűnésének idejét.
 
-[^235]: A 7. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be, szövege a 14/2009. (VI. 3.) IRM rendelet 44. § (2) bekezdésével megállapított szöveg.
-[^236]: A 7. számú melléklet 1. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § k) pontja szerint módosított szöveg.
-[^237]: A 7. számú melléklet 3.4. pont nyitó szövegrésze az 50/2012. (XII. 4.) KIM rendelet 15. § k) pontja szerint módosított szöveg.
-[^238]: A 7. számú melléklet 3.4. pont i) alpontja az 50/2012. (XII. 4.) KIM rendelet 15. § k) pontja szerint módosított szöveg.
-[^239]: A 7. számú melléklet 3.5. pont g) alpontja az 50/2012. (XII. 4.) KIM rendelet 15. § k) pontja szerint módosított szöveg.
-[^240]: A 7. számú melléklet 5. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § d) pontja szerint módosított szöveg.
-[^241]: A 7. számú melléklet 5.1. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
-[^242]: A 7. számú melléklet 5.2. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
-[^243]: A 7. számú melléklet 5.3. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § k) pontja szerint módosított szöveg.
-[^244]: A 7. számú melléklet 5.4. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § k) pontja szerint módosított szöveg.
-[^245]: A 7. számú melléklet 6. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § d) pontja szerint módosított szöveg.
-[^246]: A 7. számú melléklet 6.1. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
-[^247]: A 7. számú melléklet 7.1. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § j) pontja szerint módosított szöveg.
-[^248]: A 7. számú melléklet 7.2. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § n) pontja szerint módosított szöveg.
-[^249]: A 7. számú melléklet 7.5. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § j) pontja szerint módosított szöveg.
+[^252]: A 7. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be, szövege a 14/2009. (VI. 3.) IRM rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^253]: A 7. számú melléklet 1. pontja az 54/2012. (XII. 28.) KIM rendelet 16. § j) és k) pontja szerint módosított szöveg.
+[^254]: A 7. számú melléklet 3.4. pont nyitó szövegrésze az 54/2012. (XII. 28.) KIM rendelet 16. § j) és k) pontja szerint módosított szöveg.
+[^255]: A 7. számú melléklet 3.4. pont i) alpontja az 54/2012. (XII. 28.) KIM rendelet 16. § j) pontja szerint módosított szöveg.
+[^256]: A 7. számú melléklet 3.5. pont nyitó szövegrésze az 54/2012. (XII. 28.) KIM rendelet 16. § k) pontja szerint módosított szöveg.
+[^257]: A 7. számú melléklet 3.5. pont g) alpontja az 54/2012. (XII. 28.) KIM rendelet 16. § j) és l) pontja szerint módosított szöveg.
+[^258]: A 7. számú melléklet 5. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § d) pontja szerint módosított szöveg.
+[^259]: A 7. számú melléklet 5.1. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
+[^260]: A 7. számú melléklet 5.2. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
+[^261]: A 7. számú melléklet 5.3. pontja az 54/2012. (XII. 28.) KIM rendelet 16. § j) pontja szerint módosított szöveg.
+[^262]: A 7. számú melléklet 5.4. pontja az 54/2012. (XII. 28.) KIM rendelet 16. § j) és k) pontja szerint módosított szöveg.
+[^263]: A 7. számú melléklet 5.5. pontja az 54/2012. (XII. 28.) KIM rendelet 16. § k) pontja szerint módosított szöveg.
+[^264]: A 7. számú melléklet 6. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § d) és m) pontja szerint módosított szöveg.
+[^265]: A 7. számú melléklet 6.1. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
+[^266]: A 7. számú melléklet 7.1. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § j) pontja szerint módosított szöveg.
+[^267]: A 7. számú melléklet 7.2. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § n) pontja szerint módosított szöveg.
+[^268]: A 7. számú melléklet 7.5. pontja az 50/2012. (XII. 4.) KIM rendelet 15. § j) pontja szerint módosított szöveg.
+[^269]: A 7. számú melléklet 7.5. pont első franciabekezdése az 54/2012. (XII. 28.) KIM rendelet 16. § m) pontja szerint módosított szöveg.

@@ -74,7 +74,7 @@
 
 ## – a kiállítás kelte.
 
-## b)[^227] Jegyzőkönyv a házasság bejelentéséről:
+## b)[^244] Jegyzőkönyv a házasság bejelentéséről:
 
 ## – anyakönyvi azonosító,
 
@@ -164,7 +164,7 @@
 
 ## – megjegyzések (itt kell szerepeltetni azt a tényt, ha a házasságot valamely nemzetiségi nyelven kötik).
 
-## c)[^228] Jegyzőkönyv bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről:
+## c)[^245] Jegyzőkönyv bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről:
 
 ## – anyakönyvi azonosító,
 
@@ -298,8 +298,8 @@
 
 ## – az értesítést kiállította.
 
-2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^229]
+2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^246]
 
-[^227]: Az 1. számú melléklet b) pontja a 41/2011. (XII. 30.) KIM rendelet 30. § j) bekezdése szerint módosított szöveg.
-[^228]: Az 1. számú melléklet c) pontja a 41/2011. (XII. 30.) KIM rendelet 30. § j) bekezdése szerint módosított szöveg.
-[^229]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.
+[^244]: Az 1. számú melléklet b) pontja a 41/2011. (XII. 30.) KIM rendelet 30. § j) bekezdése szerint módosított szöveg.
+[^245]: Az 1. számú melléklet c) pontja a 41/2011. (XII. 30.) KIM rendelet 30. § j) bekezdése szerint módosított szöveg.
+[^246]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.

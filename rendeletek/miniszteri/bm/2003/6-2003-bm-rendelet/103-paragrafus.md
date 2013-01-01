@@ -1,4 +1,4 @@
-## 102/A. §[^221] Az anyakönyvvezető a nemzetközi jogsegélyre, valamint az egyéb külföldről érkező megkeresésre – amennyiben az személyes adatok közlésére irányul – a felettes szerv útján válaszol.
+## 102/A. §[^236] Az anyakönyvvezető a nemzetközi jogsegélyre, valamint az egyéb külföldről érkező megkeresésre – amennyiben az személyes adatok közlésére irányul – a felettes szerv útján válaszol.
 
 ## Átmeneti rendelkezések
 
@@ -6,7 +6,7 @@
 
 a) az apa adatait utólag bejegyzik;
 
-b) a gyámhatóság képzelt apát állapít meg;
+b)[^237] a gyámhivatal képzelt apát állapít meg;
 
 c) az örökbefogadó szülőket vér szerinti szülőkként jegyzik be.
 
@@ -14,7 +14,7 @@ c) az örökbefogadó szülőket vér szerinti szülőkként jegyzik be.
 
 a) a férj a gyermeket magáénak elismerte, és az elismerést az anyakönyvbe bejegyezték;
 
-b) a férj a gyermeket anyakönyvvezető, gyámhatóság, bíróság, közjegyző vagy magyar külképviseleti hatóság előtt tett és jegyzőkönyvbe foglalt nyilatkozattal a magáénak elismerte, bár a nyilatkozatot az anyakönyvbe nem jegyezték fel;
+b)[^238] a férj a gyermeket anyakönyvvezető, gyámhivatal, bíróság, közjegyző vagy magyar külképviseleti hatóság előtt tett és jegyzőkönyvbe foglalt nyilatkozattal a magáénak elismerte, bár a nyilatkozatot az anyakönyvbe nem jegyezték fel;
 
 c) jogerős bírósági határozat megállapította, hogy az utólagos házasságkötés folytán a férjet kell a gyermek apjának tekinteni.
 
@@ -22,4 +22,6 @@ c) jogerős bírósági határozat megállapította, hogy az utólagos házassá
 
 (4) Az 1947. június 1. előtt teljesített születési anyakönyvi bejegyzésben, ha az ismeretlen szülőktől származóként vagy az apa adatai nélkül anyakönyvezték, csak az érdekeltek kérelmére kell a képzelt szülők, illetőleg a képzelt apa adatait bejegyezni.
 
-[^221]: A 102/A. §-t és alcímét a 2/2006. (I. 13.) BM rendelet 24. §-a iktatta be.
+[^236]: A 102/A. §-t és alcímét a 2/2006. (I. 13.) BM rendelet 24. §-a iktatta be.
+[^237]: A 103. § (1) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.
+[^238]: A 103. § (2) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.

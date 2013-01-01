@@ -94,6 +94,6 @@
 
 ## város, -i = vár.
 
-3/A. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^231]
+3/A. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^248]
 
-[^231]: A 3/A. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.
+[^248]: A 3/A. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.

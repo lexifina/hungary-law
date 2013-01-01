@@ -1,4 +1,4 @@
-67/E. §[^138] (1) Ha a felek vagy azok egyike a magyar állampolgárságot megszerezte, e tényt az anyakönyvvezető – az állampolgársági eskü vagy fogadalom letételének helye szerinti anyakönyvvezető, ennek hiányában az állampolgársági ügyekben eljáró szerv értesítése alapján – az anyakönyv „Utólagos bejegyzések” rovatába jegyzi be.
+67/E. §[^148] (1) Ha a felek vagy azok egyike a magyar állampolgárságot megszerezte, e tényt az anyakönyvvezető – az állampolgársági eskü vagy fogadalom letételének helye szerinti anyakönyvvezető, ennek hiányában az állampolgársági ügyekben eljáró szerv értesítése alapján – az anyakönyv „Utólagos bejegyzések” rovatába jegyzi be.
 
 (2) A magyar állampolgárság megszűnésének tényét az állampolgársági ügyekben eljáró szerv értesítése alapján kell az anyakönyvbe bejegyezni.
 
@@ -6,4 +6,4 @@
 
 (4) Az anyakönyvbe bejegyzett adat kijavítását az „Utólagos bejegyzések” rovat tartalmazza.
 
-[^138]: A 67/E. §-t a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.
+[^148]: A 67/E. §-t a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.

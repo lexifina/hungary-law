@@ -1,11 +1,11 @@
-12. § (1)[^32] Ha a haláleset mozgó járművön történt, annak anyakönyvezésére az az anyakönyvvezető illetékes, akinek működési területén a holttestet a járműről leemelték.
+12. § (1)[^33] Ha a haláleset mozgó járművön történt, annak anyakönyvezésére az az anyakönyvvezető illetékes, akinek működési területén a holttestet a járműről leemelték.
 
 (2) Talált holttest esetében az anyakönyvi bejegyzésre az az anyakönyvvezető illetékes, akinek működési területén a holttestet megtalálták.
 
-(3)[^33] A halál tényének bírósági megállapítása esetén az anyakönyvi bejegyzésre az az anyakönyvvezető illetékes, akinek a működési területén a bíróság döntése szerint a haláleset bekövetkezett, kivéve, ha hazai anyakönyvezésnek van helye.
+(3)[^34] A halál tényének bírósági megállapítása esetén az anyakönyvi bejegyzésre az az anyakönyvvezető illetékes, akinek a működési területén a bíróság döntése szerint a haláleset bekövetkezett, kivéve, ha hazai anyakönyvezésnek van helye.
 
-(4)[^34] Ha a bíróság holttá nyilvánító döntést hozott, a halálesetet a holtnak nyilvánított személy születését nyilvántartó anyakönyvvezető anyakönyvezi, kivéve, ha hazai anyakönyvezésnek van helye.
+(4)[^35] Ha a bíróság holttá nyilvánító döntést hozott, a halálesetet a holtnak nyilvánított személy születését nyilvántartó anyakönyvvezető anyakönyvezi, kivéve, ha hazai anyakönyvezésnek van helye.
 
-[^32]: A 12. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 8. pontja szerint módosított szöveg.
-[^33]: A 12. § (3) bekezdése a 10/2007. (III. 6.) IRM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
-[^34]: A 12. § (4) bekezdése a 10/2007. (III. 6.) IRM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^33]: A 12. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 8. pontja szerint módosított szöveg.
+[^34]: A 12. § (3) bekezdése a 10/2007. (III. 6.) IRM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^35]: A 12. § (4) bekezdése a 10/2007. (III. 6.) IRM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
