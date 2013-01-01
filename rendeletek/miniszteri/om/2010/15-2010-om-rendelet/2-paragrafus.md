@@ -1,7 +1,7 @@
 ## 2. A tűzvédelmi technika tervezése és fejlesztése
 
-2. § (1) Az OKF a tűzoltóságok véleményének kikérésével meghatározza a tűzvédelmi technika tervezését, fejlesztését és meghatározza azok főbb irányait.
+2. §[^4] (1) Az OKF meghatározza a tűzvédelmi technika tervezését, fejlesztését és azok főbb irányait.
 
-(2)[^1]
+(2) A létesítményi tűzoltóságok a rendszeresítettel együtt használható tűzvédelmi technikát tartanak készenlétben.
 
-[^1]: A 2. § (2) bekezdését a 24/2012. (V. 8.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^4]: A 2. § a 73/2012. (XII. 15.) BM rendelet 2. §-ával megállapított szöveg.

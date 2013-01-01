@@ -16,7 +16,7 @@ g) korlátozott bevethetőséggel történő készenlétbe állítás engedélye
 
 h) az üzemeltetés műszaki követelményeinek, feltételeinek meghatározására.
 
-(2) A rendszeresítési eljárás a tűzoltóságok, tűzvédelmi technika gyártója, forgalmazója kezdeményezésére, továbbá hivatalból indulhat.
+(2)[^5] A rendszeresítési eljárás a hivatásos katasztrófavédelmi szerv területi, helyi szerve és az önkormányzati tűzoltóság, tűzvédelmi technika gyártója, forgalmazója kezdeményezésére, továbbá hivatalból indulhat.
 
 (3) A tűzvédelmi technika gyártója, forgalmazója által kezdeményezett rendszeresítési eljárás esetén a próbahasználat költségeit a kezdeményező viseli.
 
@@ -27,3 +27,5 @@ a) a jogszabályi előírásoknak való megfelelést és a biztonságosságot ig
 b) a fényképeket, rajzokat tartalmazó ismertetőt és
 
 c) a használatra, karbantartásra és felülvizsgálatra, alkalmazási korlátozásra is kiterjedő alkalmazástechnikai leírást.
+
+[^5]: A 4. § (2) bekezdése a 73/2012. (XII. 15.) BM rendelet 4. §-a szerint módosított szöveg.
