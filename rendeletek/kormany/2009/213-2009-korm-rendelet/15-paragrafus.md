@@ -10,6 +10,6 @@
 
 (5) A személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet 1. számú melléklete szerinti gondozási napló vezetése a támogató szolgáltatást nyújtó szociális szolgáltatóktól, intézményektől a folyamatban lévő ellenőrzések során sem követelhető meg.
 
-(6)–(10)[^53]
+(6)–(10)[^88]
 
-[^53]: A 15. § (6)–(10) bekezdését a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés q) pontja hatályon kívül helyezte.
+[^88]: A 15. § (6)–(10) bekezdését a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés q) pontja hatályon kívül helyezte.
