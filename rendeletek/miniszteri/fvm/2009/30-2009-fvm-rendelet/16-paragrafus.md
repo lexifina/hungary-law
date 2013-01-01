@@ -1,6 +1,6 @@
-## A kerületi főállatorvos feladatai
+## A járási főállatorvos feladatai[^2]
 
-## 16. § A kerületi főállatorvos köteles:
+## 16. §[^3] A járási főállatorvos köteles:
 
 a) az állományok minősítését határozatban kiadni;
 
@@ -23,3 +23,6 @@ cb) az állomány felszámolását elrendelni és az állami kártalanításról
 cc) a hatósági állatorvos útján intézkedni annak érdekében, hogy mindazon sertéstartó helyek, amelyek a helyi zárlat alatt álló állománnyal élőállat, sertéstermék vagy ragályfogó tárgyak útján kapcsolatba kerültek, megfigyelési zárlat alá kerüljenek;
 
 cd) az MgSzH területi szervét a megtett intézkedésekről tájékoztatni.
+
+[^2]: A 16. §-t megelőző alcím a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.
+[^3]: A 16. § nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.

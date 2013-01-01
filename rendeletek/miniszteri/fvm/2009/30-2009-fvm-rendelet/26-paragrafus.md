@@ -1,4 +1,4 @@
-## 25. § A laboratóriumi mintát beküldő állatorvos köteles a kerületi főállatorvost értesíteni, ha a laboratóriumi vizsgálatok során az Aujeszky-betegség vírusát, antigénjét vagy DNS-ét nem sertésben mutatják ki. A betegséget a kerületi főállatorvos állapítja meg és a fertőzés eredetét illetően járványügyi nyomozást végez.
+## 25. §[^10] A laboratóriumi mintát beküldő állatorvos köteles a járási főállatorvost értesíteni, ha a laboratóriumi vizsgálatok során az Aujeszky-betegség vírusát, antigénjét vagy DNS-ét nem sertésben mutatják ki. A betegséget a járási főállatorvos állapítja meg és a fertőzés eredetét illetően járványügyi nyomozást végez.
 
 ## Átmeneti és záró rendelkezések
 
@@ -11,3 +11,5 @@
 ## „3. Aujeszky-betegség”
 
 (4) Ez a rendelet az Aujeszky-féle betegségre vonatkozó, a sertések Közösségen belüli kereskedelmében alkalmazandó kiegészítő garanciákról és a betegséggel kapcsolatos információnyújtással szemben támasztott kritériumokról szóló 2008. február 21-i 2008/185/EK bizottsági határozatnak, valamint az azt módosító 2008/476/EK, 2008/988/EK bizottsági határozatnak való megfelelést szolgálja.
+
+[^10]: A 25. § a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.
