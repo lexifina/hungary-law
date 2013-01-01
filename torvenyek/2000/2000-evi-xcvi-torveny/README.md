@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-96-00-00
 | 2011-01-01 | 2010. évi CXXVI. törvény | 2000-96-00-00.7 |
 | 2012-01-01 | 2011. évi CLXXXIX. törvény | 2000-96-00-00.8 |
 | 2012-11-15 | 2012. évi CXLV. törvény | 2000-96-00-00.9 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 2000-96-00-00.10 |
