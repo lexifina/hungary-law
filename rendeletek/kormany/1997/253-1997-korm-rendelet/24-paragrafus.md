@@ -1,43 +1,37 @@
 ## Különleges terület
 
-24. § (1) A különleges területbe azok a területek tartoznak, amelyek a rajtuk elhelyezendő építmények különlegessége miatt (helyhez kötöttek, jelentős hatást gyakorolnak a környezetükre vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek) a 10–23. §-ok szerinti területektől eltérő területek.
+24. §[^67] (1) A különleges területbe azok a területek tartoznak, amelyeken az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre, vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek. A különleges területek célját és fajtáját a településszerkezeti tervben, a beépítési előírásokat a helyi építési szabályzatban minden esetben meg kell határozni.
 
-(2) A különleges területek célját és használatuk fajtáját, a beépítési előírásait minden esetben a helyi építési szabályzatban, szabályozási tervben meg kell határozni.
+(2) Különleges terület
 
-(3) A különleges területek lehetnek:
+a) a nagy bevásárlóközpont és nagykiterjedésű kereskedelmi célú terület,
 
-1. nagy bevásárlóközpontok és nagykiterjedésű kereskedelmi célú területek,
+b) a nagy kiterjedésű szállítmányozási-, raktározási és logisztikai terület,
 
-2. vásárok, kiállítások és kongresszusok területei,
+c) a vásár, kiállítás és kongresszus területe,
 
-3. oktatási központok területei,
+d) az oktatási központok területe,
 
-4. egészségügyi területek (kórház, szanatórium, gyógyszálló, gyógyüdülő stb.),
+e) az egészségügyi épület elhelyezésére szolgáló terület,
 
-5. nagykiterjedésű sportolási célú területek,
+f) a nagykiterjedésű sportolási célú terület,
 
-6.[^32] a kutatás-fejlesztés, a megújuló energiaforrások hasznosításának céljára szolgáló (pl. szél- és napenergia) területek,
+g) a kutatás-fejlesztés, a megújuló energiaforrás hasznosításának céljára szolgáló terület,
 
-7.[^33] állat- és növénykertek területei,
+h) az állat- és növénykert területe,
 
-8.[^34] a nyersanyag kitermelés (bányászat), nyersanyag előfeldolgozás céljára szolgáló területek,
+i) a nyersanyag kitermelés (bánya), nyersanyag feldolgozás céljára szolgáló terület,
 
-9.[^35] honvédelmi és katonai, valamint nemzetbiztonsági építmények területei,
+j) a honvédelmi, katonai és nemzetbiztonsági célra szolgáló terület,
 
-10. hulladékkezelők, -lerakók területei (települési szilárd és folyékony, egyéb veszélyes, radioaktív stb.),
+k) a hulladékkezelő, -lerakó területe,
 
-11. épületnek minősülő közlekedési építmények területei, ha azok nem a közlekedési területen belül kerülnek elhelyezésre,
+l) a közlekedéshez kapcsolódó épület elhelyezésére szolgáló terület, ha az nem a közlekedési területen belül kerül elhelyezésre, valamint a repülőtér területe,
 
-12.[^36] temetők területei,
+m) a temető területe,
 
-13.[^37] mezőgazdasági üzemi terület,
+n) a mezőgazdasági üzemi terület,
 
-14.[^38] egyéb, a 10–23. §-ban foglaltak egyikébe sem sorolható, helyi sajátosságot hordozó terület.
+o) az egyéb, a 10–23. §-ban foglaltak egyikébe sem sorolható, helyi sajátosságot hordozó terület.
 
-[^32]: A 24. § (3) bekezdésének 6. pontja a 182/2008. (VII. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^33]: A 24. § (3) bekezdésének 7. pontja a 182/2008. (VII. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^34]: A 24. § (3) bekezdésének 8. pontja a 182/2008. (VII. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^35]: A 24. § (3) bekezdésének 9. pontja a 182/2008. (VII. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^36]: A 24. § (3) bekezdésének 12. pontját a 182/2008. (VII. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^37]: A 24. § (3) bekezdésének 13. pontját a 182/2008. (VII. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^38]: A 24. § (3) bekezdésének 14. pontját a 182/2008. (VII. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^67]: A 24. § a 90/2012. (IV. 26.) Korm. rendelet 16. §-ával megállapított szöveg.

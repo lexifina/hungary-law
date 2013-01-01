@@ -1,32 +1,28 @@
 ## Kisvárosias lakóterület
 
-12. § (1) A kisvárosias lakóterület sűrű beépítésű, több önálló rendeltetési egységet magába foglaló, 12,5 m-es épületmagasságot meg nem haladó lakóépületek elhelyezésére szolgál.
+12. § (1)[^37] A kisvárosias lakóterület sűrű beépítésű, több önálló rendeltetési egységet magába foglaló, 12,5 m-es beépítési magasságot meg nem haladó elsősorban lakó rendeltetésű épületek elhelyezésére szolgál.
 
-(2) A kisvárosias lakóterületen elhelyezhető:
+(2)[^38] Kisvárosias lakóterületen elhelyezhető épület – a lakó rendeltetésen kívül – :
 
-1. lakóépület,
+a) kereskedelmi, szolgáltató,
 
-2. a helyi lakosság ellátását szolgáló kereskedelmi, szolgáltató, vendéglátó épület,
+b) hitéleti, nevelési, oktatási, egészségügyi, szociális,
 
-3. egyházi, oktatási, egészségügyi, szociális épület,
+c) kulturális, közösségi szórakoztató,
 
-4. sportépítmény,
+d) szállás jellegű,
 
-5.[^25] a terület rendeltetésszerű használatát nem zavaró hatású kézműipari építmény.
+e) igazgatási, iroda és
 
-(3) A kisvárosias lakóterületen a 31. § (2) bekezdésében előírtak figyelembevételével kivételesen elhelyezhető:
+f) sport
 
-1. szálláshely szolgáltató épület,
+rendeltetést is tartalmazhat.
 
-2. igazgatási épület,
+(3)[^39]
 
-3. termelő kertészeti építmény,
+(4)[^40]
 
-4. üzemanyagtöltő,
-
-5.[^26] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület.
-
-(4) A kisvárosias lakóterületen nem helyezhető el önálló parkolóterület és garázs a 3,5 t önsúlynál nehezebb gépjárművek és az ilyeneket szállító járművek számára.
-
-[^25]: A 12. § (2) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének c) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^26]: A 12. § (3) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^37]: A 12. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § a) és b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^38]: A 12. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^39]: A 12. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 4. pontja hatályon kívül helyezte.
+[^40]: A 12. § (4) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 4. pontja hatályon kívül helyezte.

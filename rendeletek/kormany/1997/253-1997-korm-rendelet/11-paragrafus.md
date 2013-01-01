@@ -1,27 +1,28 @@
 ## Nagyvárosias lakóterület
 
-11. § (1) A nagyvárosias lakóterület sűrű beépítésű, több önálló rendeltetési egységet magába foglaló, 12,5 m-es épületmagasságot meghaladó lakóépületek elhelyezésére szolgál.
+11. § (1)[^33] A nagyvárosias lakóterület sűrű beépítésű, több önálló rendeltetési egységet magába foglaló, 12,5 m-es beépítési magasságot meghaladó elsősorban lakó rendeltetésű épületek elhelyezésére szolgál.
 
-(2) A nagyvárosias lakóterületen elhelyezhető:
+(2)[^34] A nagyvárosias lakóterületen elhelyezhető épület – a lakó rendeltetésen kívül – :
 
-1. lakóépület,
+a) kereskedelmi, szolgáltató,
 
-2. a helyi lakosság ellátását szolgáló kereskedelmi, szolgáltató, vendéglátó épület,
+b) hitéleti, nevelési, oktatási, egészségügyi, szociális,
 
-3. egyházi, oktatási, egészségügyi, szociális épület,
+c) kulturális, közösségi szórakoztató,
 
-4. sportépítmény.
+d) szállás jellegű,
 
-(3) A nagyvárosias lakóterületen a 31. § (2) bekezdésében előírtak figyelembevételével kivételesen elhelyezhető:
+e) igazgatási, iroda és
 
-1. szálláshely szolgáltató épület,
+f) sport
 
-2. igazgatási épület,
+rendeltetést is tartalmazhat.
 
-3.[^24] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület,
+(3)[^35]
 
-4. többszintes parkolóházhoz kapcsolódó üzemanyagtöltő.
+(4)[^36]
 
-(4) A nagyvárosias lakóterületen nem helyezhető el önálló parkolóterület és garázs a 3,5 t önsúlynál nehezebb gépjárművek és az ilyeneket szállító járművek számára.
-
-[^24]: A 11. § (3) bekezdésének 3. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^33]: A 11. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § a) és b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^34]: A 11. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^35]: A 11. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 3. pontja hatályon kívül helyezte.
+[^36]: A 11. § (4) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 3. pontja hatályon kívül helyezte.

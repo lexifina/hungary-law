@@ -1,31 +1,37 @@
 ## A közművesítettség mértéke
 
-8. § (1) Az egyes építési övezetek közművesítettségének módját és mértékét helyi építési szabályzatban, szabályozási tervben kell megállapítani.
+8. §[^30] (1) A közműellátás építési övezetenkénti mértékét és módját a helyi építési szabályzatban kell megállapítani.
 
-(2)[^22] A közművesítettség szempontjából
+(2) A közművesítettség szempontjából az építési övezet
 
-a) teljes közművesítettségnek minősül
+a) teljesen közművesített, ha
 
-aa) a közüzemi energia szolgáltatás (villamos energia és vezetékes gáz vagy távhő)
+aa) az energia (villamos energia, gáz vagy távhő),
 
-ab) a közüzemi ivóvíz szolgáltatás,
+ab) az ivóvíz,
 
-ac) a közüzemi szennyvízelvezetés és -tisztítás, továbbá
+ac) a szennyvízelvezetés és -tisztítás, valamint
 
-ad) a közterületi nyílt vagy zárt rendszerű csapadékvíz-elvezetés együttes megléte;
+ad) a közterületi csapadékvíz-elvezetés
 
-b) részleges közművesítettségnek minősül
+együttesen közüzemi vagy közcélú szolgáltatással történik;
 
-ba) a közüzemi villamos energia szolgáltatás,
+b) részlegesen közművesített, ha
 
-bb) a közüzemi ivóvíz szolgáltatás,
+ba) a villamos energia,
 
-bc) az egyedi közművel történő szennyvíztisztítás és szennyvízelhelyezés, továbbá
+bb) az ivóvíz,
 
-bd) a közterületi nyílt rendszerű csapadékvíz-elvezetés együttes megléte;
+bc) a közterületi csapadékvíz-elvezetés
 
-c) hiányos közművesítettségnek minősül, ha a részleges közművesítettségre előírt feltételek valamelyike nem áll fenn;
+közüzemi vagy közcélú szolgáltatással,
 
-d) közművesítetlennek minősül, ha nincs közüzemi közműhálózat.
+bd) a szennyvíz tisztítása és elhelyezése egyedi szennyvízkezelő berendezéssel, vagy tisztítómezővel ellátott oldómedencés műtárggyal vagy időszakos tárolása egyedi zárt szennyvíztárolóban
 
-[^22]: A 8. § (2) bekezdése a 36/2002. (III. 7.) Korm. rendelet 5. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
+történik;
+
+c) hiányosan közművesített, ha a részleges közművesítettségre előírt feltételek valamelyike nem áll fenn;
+
+d) közművesítetlen, ha nincs közüzemi vagy közcélú szolgáltatás.
+
+[^30]: A 8. § a 90/2012. (IV. 26.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,9 +1,3 @@
-## Gazdasági terület
+18. §[^53]
 
-18. § (1) A gazdasági terület elsősorban gazdasági célú építmények elhelyezésére szolgál.
-
-(2) A gazdasági terület lehet:
-
-1. kereskedelmi, szolgáltató terület,
-
-2. ipari terület.
+[^53]: A 18. §-t és az azt megelőző alcímet a 90/2012. (IV. 26.) Korm. rendelet 31. § 9. pontja hatályon kívül helyezte.

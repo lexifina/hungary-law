@@ -1,9 +1,3 @@
-## Vegyes terület
+15. §[^48]
 
-15. § (1) A vegyes terület lakó és kereskedelmi, szolgáltató gazdasági épületek vegyesen történő elhelyezésére szolgál.
-
-(2) A vegyes terület lehet:
-
-1. településközpont vegyes terület,
-
-2. központi vegyes terület.
+[^48]: A 15. §-t és az azt megelőző alcímet a 90/2012. (IV. 26.) Korm. rendelet 31. § 8. pontja hatályon kívül helyezte.

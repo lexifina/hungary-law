@@ -1,29 +1,22 @@
-## Településközpont vegyes terület
+## Településközpont terület[^49]
 
-16. § (1) A településközpont vegyes terület több önálló rendeltetési egységet magába foglaló, lakó és olyan helyi települési szintű igazgatási, kereskedelmi, szolgáltató, vendéglátó, szálláshely szolgáltató, egyházi, oktatási, egészségügyi, szociális épületek, valamint sportépítmények elhelyezésére szolgál, amelyek alapvetően nincsenek zavaró hatással a lakófunkcióra.
+16. §[^50] (1) A településközpont terület elsősorban lakó és olyan települési szintű egyéb rendeltetést szolgáló épület elhelyezésére szolgál, amely nincs zavaró hatással a lakó rendeltetésre.
 
-(2) A településközpont vegyes területen elhelyezhető:
+(2) A településközpont területen elhelyezhető épület – a lakó rendeltetésen kívül – :
 
-1. lakóépület,
+a) igazgatási, iroda,
 
-2. igazgatási épület,
+b) kereskedelmi, szolgáltató, szállás,
 
-3. kereskedelmi, szolgáltató, vendéglátó, szálláshely szolgáltató épület,
+c) a terület azon részén, amelyben a gazdasági célú használat az elsődleges egyéb közösségi szórakoztató,
 
-4. egyéb közösségi szórakoztató épület, a terület azon részén, amelyben a gazdasági célú használat az elsődleges,
+d) hitéleti, nevelési, oktatási, egészségügyi, szociális,
 
-5. egyházi, oktatási, egészségügyi, szociális épület,
+e) kulturális, közösségi szórakoztató és
 
-6. sportépítmény,
+f) sport
 
-7. parkolóház, üzemanyagtöltő,
+rendeltetést is tartalmazhat.
 
-(3) A településközpont vegyes területen a 31. § (2) bekezdésében előírtak figyelembevételével kivételesen elhelyezhető:
-
-1.[^30] nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület,
-
-2. termelő kertészeti építmény.
-
-(4) A településközpont vegyes területen nem helyezhető el önálló parkolóterület és garázs a 3,5 t önsúlynál nehezebb tehergépjárművek és az ilyeneket szállító járművek számára.
-
-[^30]: A 16. § (3) bekezdésének 1. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^49]: A 16. §-t megelőző alcím a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^50]: A 16. § a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.

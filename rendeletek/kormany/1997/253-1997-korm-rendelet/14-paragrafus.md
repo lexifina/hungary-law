@@ -1,25 +1,27 @@
 ## Falusias lakóterület
 
-14. § (1) A falusias lakóterület legfeljebb 7,5 m-es épületmagasságú lakóépületek, a mező- és az erdőgazdasági építmények, továbbá a helyi lakosságot szolgáló, nem zavaró hatású kereskedelmi, szolgáltató és kézműipari építmények elhelyezésére szolgál.
+14. § (1)[^45] A falusias lakóterület legfeljebb 7,5 m-es beépítési magasságú lakóépületek, a mező- és az erdőgazdasági építmények, továbbá a lakosságot szolgáló, környezetre jelentős hatást nem gyakorló kereskedelmi, szolgáltató építmények elhelyezésére szolgál.
 
-(2) A falusias lakóterületen elhelyezhető:
+(2)[^46] A falusias lakóterületen elhelyezhető épület – a lakó rendeltetésen kívül – :
 
-1. lakóépület,
+a) mező- és erdőgazdaság, valamint a terület rendeltetésszerű használatát nem zavaró gazdasági tevékenységi célú,
 
-2. mező- és erdőgazdasági (üzemi) építmény,
+b) kereskedelmi, szolgáltató,
 
-3. kereskedelmi, szolgáltató, vendéglátó épület,
+c) szállás jellegű,
 
-4. szálláshely szolgáltató épület,
+d) igazgatási, iroda,
 
-5. kézműipari építmény,
+e) hitéleti, nevelési, oktatási, egészségügyi, szociális,
 
-6. helyi igazgatási, egyházi, oktatási, egészségügyi, szociális épület,
+f) kulturális, közösségi szórakoztató és
 
-7. sportépítmény,
+g) sport
 
-8. üzemanyagtöltő.
+rendeltetést is tartalmazhat.
 
-(3)[^29] A falusias lakóterületen elhelyezhető a terület rendeltetésszerű használatát nem zavaró hatású egyéb – nem nagyüzemi – gazdasági tevékenység céljára szolgáló építmény is.
+(3)[^47]
 
-[^29]: A 14. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^45]: A 14. § (1) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 31. § 6. pontja, a 314/2012. (XI. 8.) Korm. rendelet 55. § c) és d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 45–46. §-át.
+[^46]: A 14. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^47]: A 14. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 90/2012. (IV. 26.) Korm. rendelet 31. § 7. pontja.

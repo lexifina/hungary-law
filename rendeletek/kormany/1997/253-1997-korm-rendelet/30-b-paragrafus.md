@@ -1,26 +1,40 @@
-## Különleges beépítésre nem szánt terület[^51]
+## Különleges beépítésre nem szánt terület[^91]
 
-30/B. §[^52] (1) A különleges beépítésre nem szánt területek:
+30/B. §[^92] (1) A különleges beépítésre nem szánt területbe azok a területek tartoznak, amelyeken az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek.
 
-a) egészségügyi területek (szanatórium, gyógyszálló, gyógyüdülő stb.),
+(2) Különleges beépítésre nem szánt terület
 
-b) nagykiterjedésű sportolási célú területek (golfpálya, lovaspálya stb.),
+a) az egészségügyi épület elhelyezésére szolgáló terület,
 
-c) a kutatás-fejlesztés, a megújuló energiaforrások hasznosításának céljára szolgáló területek,
+b) a nagy kiterjedésű sportolási célú terület,
 
-d) állat- és növénykertek területei,
+c) a kutatás-fejlesztés, a megújuló energiaforrások hasznosításának céljára szolgáló terület,
 
-e) temetők területei,
+d) a vadaspark, arborétum területe,
 
-f) nyersanyaglelőhelyek,
+e) a temető területe,
 
-g) honvédelmi és katonai, valamint nemzetbiztonsági területek,
+f) a nyersanyag-kitermelés (bánya), nyersanyag-feldolgozás céljára szolgáló terület,
 
-h) egyéb, a 26–30/A. §-ban foglaltak egyikébe sem sorolható, helyi sajátosságot hordozó területek.
+g) a honvédelmi, katonai és nemzetbiztonsági terület,
 
-(2) Az (1) bekezdésben felsorolt különleges beépítésre nem szánt területeken a terület rendeltetésszerű használatát szolgáló építmények helyezhetők el.
+h) burkolt vagy fásított köztér, sétány,
 
-(3) A különleges beépítésre nem szánt területeken épületek legfeljebb 2%-os beépítettséggel helyezhetők el.
+i) az egyéb, a 26–30/A. §-ban foglaltak egyikébe sem sorolható, helyi sajátosságot hordozó terület.
 
-[^51]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
-[^52]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+(3) A (2) bekezdésben felsorolt különleges beépítésre nem szánt területen a terület rendeltetésszerű használatát szolgáló építmény helyezhető el.
+
+(4) A különleges beépítésre nem szánt területen épület – legfeljebb 5%-ig – a helyi építési szabályzatban megengedett beépítettséggel helyezhető el.
+
+(5) A (2) bekezdés h) pontjában meghatározott burkolt köztér, fásított köztér és sétány legkisebb zöldfelületi aránya, valamint megengedett legnagyobb beépítettségének mértéke a sajátos használatok szerint a következő:
+
+a) burkolt köztér esetében a megengedett legnagyobb beépítettség: 5%,
+
+b) fásított köztér, sétány esetében
+
+ba) a megengedett legnagyobb beépítettség: 5%,
+
+bb) a legkisebb zöldfelület: 20%.
+
+[^91]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
+[^92]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 22. §-ával megállapított szöveg.

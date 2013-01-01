@@ -1,17 +1,23 @@
-## Zöldterület
+27. §[^70] (1) A zöldterület állandóan növényzettel fedett közterület (közpark, közkert), amely a település klimatikus viszonyainak megőrzését, javítását, ökológiai rendszerének védelmét, a pihenést és testedzést szolgálja.
 
-27. § (1) A zöldterület az állandóan növényzettel fedett közterület (közkert, közpark).
+(2) A zöldterületnek közútról, köztérről közvetlenül – kerekesszékkel és gyermekkocsival is – megközelíthetőnek és használhatónak kell lennie.
 
-(2) A zöldterületnek közútról, köztérről közvetlenül megközelíthetőnek kell lennie.
+(3) A zöldterületen elhelyezhető a terület rendeltetésszerű használatához szükséges építmény és vendéglátó rendeltetést tartalmazó épület.
 
-(3) A zöldterületnek kerekesszékkel és gyermekkocsival is megközelíthetőnek és használhatónak kell lennie.
+(4) A zöldterület telkén épület legfeljebb 7,50 m beépítési magassággal helyezhető el.
 
-(4) A zöldterületen elhelyezhető:
+(5) Az egyes zöldterületek legkisebb zöldfelületi aránya, valamint megengedett legnagyobb beépítettségének mértéke a sajátos használatok szerint a következő:
 
-a) a pihenést és a testedzést szolgáló építmény (sétaút, pihenőhely, tornapálya, gyermekjátszótér stb.),
+a) közkert esetében
 
-b) vendéglátó épület,
+aa) a megengedett legnagyobb beépítettség: 3%,
 
-c) a terület fenntartásához szükséges épület.
+ab) a legkisebb zöldfelület: 60%,
 
-(5) A zöldterületen épületek legfeljebb 2%-os beépítettséggel helyezhetők el.
+b) közpark esetében
+
+ba) a megengedett legnagyobb beépítettség: 3%,
+
+bb) a legkisebb zöldfelület: 70%.
+
+[^70]: A 27. § a 90/2012. (IV. 26.) Korm. rendelet 19. §-ával megállapított szöveg.

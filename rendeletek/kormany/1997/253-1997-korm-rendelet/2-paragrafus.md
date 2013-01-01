@@ -1,13 +1,14 @@
-## TELEPÜLÉSRENDEZÉSI ESZKÖZÖK
+## Településkép, települési környezet[^2]
 
-2. § (1) A területek felhasználásának, a telkek alakításának, továbbá az építésnek a feltételeit és módját az e rendeletben foglaltak szerinti településrendezési tervben (településszerkezeti és szabályozási terv), illetőleg helyi építési szabályzatban kell meghatározni.
+## 2. §[^3] A telek alakítása, valamint az építmény tervezése, elhelyezése, építése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, elmozdítása vagy lebontása, továbbá az építmény rendeltetésének megváltoztatása során gondoskodni kell
 
-(2) A főváros esetében a településrendezési eszközök tekintetében az Étv. 14. §-ában foglaltakat kell alkalmazni.
+a) a település és a táj szerves kapcsolatáról, az építmény környezetbe illeszkedő elhelyezéséről, a település ökológiai rendszerének védelméről,
 
-(3) A településrendezési tervekben, illetőleg a helyi építési szabályzatban az e rendelet 2. számú melléklete szerinti meghatározásokat kell alkalmazni.
+b) a település, a településrész értéket képviselő építészeti arculatának megőrzéséről,
 
-(4) A településrendezési terveket az e rendelet 2. számú melléklete szerinti jelkulcsok alkalmazásával kell elkészíteni. Ha a helyi adottságok szükségessé teszik az előírt jelkulcsok további jelkulcsokkal kiegészíthetők.
+c) a település építészeti értékeinek megóvásáról, és az építészeti minőség emeléséről, és
 
-(5) A településrendezési tervek jóváhagyandó, valamint kötelező és egyéb alátámasztó szakági munkarészekből állnak.
+d) a településrendezési eszközökben meghatározottak szerint az építészeti és régészeti örökség, a tájrészletek látványának (rálátás), valamint a telekről feltáruló kilátás védelméről annak mértékéig, hogy az érintett telek szabályos beépítését ne akadályozza.
 
-(6) A településrendezési eszközök módosítása során a 3. és a 4. §-ban előírtakat a módosítás jellegének megfelelően kell alkalmazni.
+[^2]: A 2. §-t megelőző alcím a 90/2012. (IV. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § a 90/2012. (IV. 26.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,17 +1,17 @@
 ## A telek beépítésének feltételei
 
-## 33. § Épület csak olyan telken helyezhető el, amelynek
+33. §[^100] (1) Épület csak olyan telken vagy építési telken helyezhető el,
 
-1.[^56] megközelíthetősége – beépítésre nem szánt területen a honvédelmi és katonai, valamint nemzetbiztonsági célú épület elhelyezésére szolgáló telek kivételével – gépjárművel közterületről vagy magánútról közvetlenül,
+a) amelynek megközelíthetősége – beépítésre nem szánt területen a honvédelmi, katonai és nemzetbiztonsági célú épület elhelyezésére szolgáló telek kivételével – gépjárművel közterületről vagy magánútról közvetlenül biztosított,
 
-2. a rendeltetésszerű használathoz szükséges villamos energia, ivóvíz (szükség esetén technológiai víz),
+b) ahol a rendeltetésszerű használathoz szükséges villamos energia, ivóvíz, technológiai víz biztosított,
 
-3. a keletkező szennyvíz és a csapadékvíz elvezetése vagy ártalommentes elhelyezése,
+c) ahol a keletkező szennyvíz és a csapadékvíz elvezetése vagy ártalommentes elhelyezése biztosított,
 
-4. a használat során keletkező hulladék elszállításának vagy ártalommentes elhelyezésének, illetőleg házilagos komposztálásának a lehetősége
+d) ahol a használat során keletkező hulladék elszállításának, ártalommentes elhelyezésének vagy házilagos komposztálásának a lehetősége biztosított, valamint
 
-biztosított, valamint
+e) amelyhez a gépjárművek elhelyezése a 42. §-ban előírtak szerinti biztosítható.
 
-5. a rendeltetésszerű használathoz szükséges gépkocsi elhelyezése a 42. §-ban előírtak szerint biztosítható.
+(2) Az (1) bekezdés b)–d) pontjában előírtak a környezettudatos energiagazdálkodás eszközeivel közüzemi szolgáltatással vagy egyedi módon teljesíthetők az övezetre előírt teljes közművesítettség esetében is.
 
-[^56]: A 33. § 1. pontja a 182/2008. (VII. 14.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^100]: A 33. § a 90/2012. (IV. 26.) Korm. rendelet 24. §-ával megállapított szöveg.
