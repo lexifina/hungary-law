@@ -58,7 +58,7 @@
 
 | 4. | A mezőgazdasági termelő aláírása. |
 
-7. melléklet a 21/2012. (III. 9.) VM rendelethez[^15]
+7. melléklet a 21/2012. (III. 9.) VM rendelethez[^16]
 
 A kárenyhítő juttatás összegének kiszámítása
 
@@ -172,4 +172,4 @@ A kárenyhítő juttatás összegének kiszámítása
 
 | 6. | A termelő aláírása. |
 
-[^15]: A 7. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^16]: A 7. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (3) bekezdése szerint módosított szöveg.
