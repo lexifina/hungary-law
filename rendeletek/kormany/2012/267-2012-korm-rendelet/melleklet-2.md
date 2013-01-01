@@ -6,7 +6,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Korányi Projekt | Budapest VIII. kerület, Korányi S. utca 2. - Üllői út 78. 36177/1 hrsz. (Korányi Projekt, központi betegellátó épület megépítése, a KKT területén lévő klinikákat összekötő folyosó megépítése, részleges rekonstrukciók, és a hozzájuk kötelezően kapcsolódó kivitelezési munkálatok) | építésügyi hatósági engedélyezési eljárások: - általános építmények - műemléki környezetben álló építmények - építményen belül - építménybe beépített felvonók, mozgólépcsők - fürdőmedence létesítése - fakivágási engedély | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2. | Korányi Projekt | Budapest VIII. kerület, Korányi S. utca 2. - Üllői út 78. 36177/1 hrsz. (Korányi Projekt, központi betegellátó épület megépítése, a KKT területén lévő klinikákat összekötő folyosó megépítése, részleges rekonstrukciók, és a hozzájuk kötelezően kapcsolódó kivitelezési munkálatok) | építésügyi hatósági engedélyezési eljárások: - általános építmények - műemléki környezetben álló építmények - építményen belül - építménybe beépített felvonók, mozgólépcsők - fürdőmedence létesítése - fakivágási engedély | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -20,7 +20,7 @@
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 9. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+| 9. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
 | 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -30,7 +30,7 @@
 
 | 13. |  |  | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 14. | kulturális örökségvédelmi hatósági engedélyek | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 15. | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -48,7 +48,7 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 |  | 1. | Szakhatósági közreműködése tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | építésügy | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+|  | 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -56,7 +56,7 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 |  | 5. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-|  | 6. | kulturális örökségvédelem: műemlék, műemléki jelentőségű terület, műemléki környezet, régészeti lelőhely, régészeti védőövezet | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 6. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 7. | közlekedés: közút | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -64,7 +64,7 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 |  | 9. | rendészet, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budapest VIII. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-|  | 10. | földművelésügy: termőföldvédelem | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+|  | 10. | földművelésügy: termőföldvédelem | Budapesti 1. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
 |  | 11. | földművelésügy: talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -76,10 +76,10 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 |  | 15. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | 16. | területrendezés | Budapest Főváros Kormányhivatala Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+|  | 16. | területrendezés | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
 |  | 17. | földtan | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 |  | 18. | bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
+[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 67. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 61. §-a szerint módosított szöveg.
