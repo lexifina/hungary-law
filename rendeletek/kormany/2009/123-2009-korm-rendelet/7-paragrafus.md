@@ -2,12 +2,12 @@
 
 7. § (1) Ez a rendelet a kihirdetését követő hónap 1. napján lép hatályba, rendelkezéseit az egyes veszélyes anyagok és veszélyes készítmények kivitelével, illetve behozatalával összefüggő bejelentési eljárás részletes szabályairól szóló 8/2004. (XII. 1.) EüM–FVM–KvVM–GKM együttes rendelet (a továbbiakban: R.) alapján folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)[^6]
+(2)[^9]
 
-(3)[^7]
+(3)[^10]
 
-(4)–(5)[^8]
+(4)–(5)[^11]
 
-[^6]: A 7. § (2) bekezdését a 7. § (3) bekezdése hatályon kívül helyezte.
-[^7]: A 7. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^8]: A 7. § (4)–(5) bekezdését a 7. § (3) bekezdése hatályon kívül helyezte.
+[^9]: A 7. § (2) bekezdését a 7. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 7. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^11]: A 7. § (4)–(5) bekezdését a 7. § (3) bekezdése hatályon kívül helyezte.
