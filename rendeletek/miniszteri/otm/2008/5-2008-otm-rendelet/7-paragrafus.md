@@ -1,4 +1,4 @@
-## 6. § Az okmányirodával rendelkező település HVI-je az 5. §-ban foglaltakon túl, további feladatként gondoskodik a szavazatösszesítést akadályozó zavarok, vészhelyzetek elhárításáról, szükség szerint intézkedik a vészhelyzet esetére előírt tartalékmegoldások alkalmazásáról, és ezekről az intézkedésekről tájékoztatja a TVI, valamint az érintett HVI-k vezetőjét.
+## 6. §[^6] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának székhelye szerinti település HVI-je az 5. §-ban foglaltakon túl, további feladatként gondoskodik a szavazatösszesítést akadályozó zavarok, vészhelyzetek elhárításáról, szükség szerint intézkedik a vészhelyzet esetére előírt tartalékmegoldások alkalmazásáról, és ezekről az intézkedésekről tájékoztatja a TVI, valamint az érintett HVI-k vezetőjét.
 
 ## A helyi választási iroda feladatai
 
@@ -15,3 +15,5 @@ c) a szavazást követő 3 napon keresztül biztosítja a szavazóköri jegyzők
 d) az Országos Választási Iroda (a továbbiakban: OVI) vezetőjének a befejezésre vonatkozó utasításáig folyamatosan működteti a számítógépes rendszert, és elvégzi az előírt adatfeldolgozási feladatokat, valamint
 
 e) ellenőrzi a névjegyzékbe többször vagy jogosulatlanul felvettek adatait, és a vizsgálat eredményét jelenti a TVI-nek; szükség esetén ismételt egyeztetést végez.
+
+[^6]: A 6. § az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 4. § Az okmányirodával rendelkező település HVI-je a 3. §-ban foglaltakon túl ellátja az adatfeldolgozással kapcsolatos ellenőrzési és vészhelyzeti működési feladatokat, valamint közreműködik az oktatások szervezésével és lebonyolításával kapcsolatos feladatok ellátásában.
+## 4. §[^5] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának székhelye szerinti település HVI-je a 3. §-ban foglaltakon túl ellátja az adatfeldolgozással kapcsolatos ellenőrzési és vészhelyzeti működési feladatokat, valamint közreműködik az oktatások szervezésével és lebonyolításával kapcsolatos feladatok ellátásában.
 
 ## A helyi választási iroda feladatai
 
@@ -35,3 +35,5 @@ d) fogadja a szavazóköri jegyzőkönyveket, azokat jogi és számszaki szempon
 e) fogadja a szavazóurnákat és az F jegyzéket, azokat ellenőrzi, és elvégzi az adatbeviteli teendőket, valamint
 
 f) vezetői ügyeletet tart az országgyűlési egyéni választókerületi választási iroda (a továbbiakban: OEVI) vezetőjének eltérő intézkedéséig.
+
+[^5]: A 4. § az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés b) pontja szerint módosított szöveg.
