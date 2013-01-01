@@ -1,6 +1,6 @@
-## 8. §[^27]
+## 8. §[^29]
 
-9. §[^28] (1) Új vasúti átjáró és önálló vasúti gyalogos-átkelőhely csak akkor létesíthető, ha
+9. §[^30] (1) Új vasúti átjáró és önálló vasúti gyalogos-átkelőhely csak akkor létesíthető, ha
 
 a) a tervezett vasúti átjáróban a közúti mértékadó óraforgalom nem éri el a vasúti átjáró számított kapacitását,
 
@@ -60,5 +60,5 @@ c) azt – az a)–b) pontban nem említett helyeken – a vasúti átjáró kö
 
 (17) Ha a lakott területen levő vasúti átjárón átvezető úton – a vasúti átjárótól nem messzebb, mint 200 méter távolságban – közvilágítás van, a közvilágítást a vasúti átjáróig meg kell hosszabbítani és a vasúti átjárót meg kell világítani.
 
-[^27]: A 8. §-t a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^28]: A 9. § az 55/2011. (X. 24.) NFM rendelet 4. §-ával megállapított szöveg.
+[^29]: A 8. §-t a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^30]: A 9. § az 55/2011. (X. 24.) NFM rendelet 4. §-ával megállapított szöveg.

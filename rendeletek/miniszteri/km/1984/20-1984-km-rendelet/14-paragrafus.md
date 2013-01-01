@@ -2,9 +2,9 @@
 
 (2) Az (1) bekezdés esetén a közúti jelzőtáblák elhelyezésére vonatkozó általános szabályoktól olyan mértékben lehet eltérni, hogy az a jelzések láthatóságát és a közlekedés biztonságát ne veszélyeztesse.
 
-(3)[^42] Azokat a közúti jelzéseket, amelyek az útépítés miatt nem érvényesek és emiatt megtévesztőek lehetnek, el kell távolítani, illetőleg le kell takarni.
+(3)[^44] Azokat a közúti jelzéseket, amelyek az útépítés miatt nem érvényesek és emiatt megtévesztőek lehetnek, el kell távolítani, illetőleg le kell takarni.
 
-(4)[^43]
+(4)[^45]
 
-[^42]: A 14. § (3) bekezdésének második mondatát hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének a) pontja.
-[^43]: A 14. § (4) bekezdését hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének a) pontja.
+[^44]: A 14. § (3) bekezdésének második mondatát hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének a) pontja.
+[^45]: A 14. § (4) bekezdését hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének a) pontja.
