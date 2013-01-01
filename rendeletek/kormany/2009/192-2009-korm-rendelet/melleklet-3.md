@@ -8,11 +8,11 @@
 
 ## 4. kérelmező címe;
 
-## 5. kérelem tárgya (településrendezési szakértői jogosultság, építésügyi igazgatási szakértői jogosultság, tervellenőri jogosultság);
+## 5. kérelem tárgya (településrendezési szakértői jogosultság, építésügyi igazgatási szakértői jogosultság);
 
 ## 6. a kérelmezett szakmagyakorlási tevékenység szakterületének megnevezése.
 
-3. melléklet a 192/2009. (IX. 15.) Korm. rendelethez
+3. melléklet a 192/2009. (IX. 15.) Korm. rendelethez[^14]
 
 Névjegyzéki jelölés
 
@@ -44,20 +44,8 @@ Névjegyzéki jelölés
 
 2. Építésügyi igazgatási szakértői jogosultság (betűjele: SZÉ)
 
-3. Tervellenőri jogosultság szakterületei
+3. Beruházáslebonyolítói jogosultság (betűjele: BB)
 
-3.1. Tartószerkezeti szakterület (betűjele: ET)
+4. Energetikai tanúsító jogosultság (betűjele: TÉ)
 
-3.2. Építmény gépészeti szakterület (betűjele: EG)
-
-3.3. Építmény villamossági szakterület (betűjele: EV)
-
-3.4. Geotechnikai szakterület (betűjele: EGT)
-
-3.5. Épületfizikai szakterület (betűjele: EF)
-
-3.6. Vízi építményi szakterület (betűjele: EVZ)
-
-4. Beruházáslebonyolítói jogosultság (betűjele: BB)
-
-5. Energetikai tanúsító jogosultság (betűjele: TÉ)
+[^14]: A 3. melléklet a 314/2012. (XI. 8.) Korm. rendelet 60. § c) pontjával megállapított szöveg.

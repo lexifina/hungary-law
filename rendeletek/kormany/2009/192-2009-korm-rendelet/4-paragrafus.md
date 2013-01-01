@@ -34,7 +34,7 @@ a) a településrendezési szakértői tevékenység engedélyezéséhez nyolc �
 
 b) az építésügyi igazgatási szakértői tevékenység engedélyezéséhez öt év;
 
-c) a tervellenőri tevékenység engedélyezéséhez nyolc év;
+c)[^8]
 
 d) beruházáslebonyolítói tevékenység folytatásához öt év;
 
@@ -44,6 +44,7 @@ e) energetikai tanúsítói tevékenység folytatásához egy év.
 
 (4) Az építésügyi igazgatási szakértői tevékenység engedélyezéséhez a (2) bekezdés b) pontjában meghatározott gyakorlati idő szakmai tartalmát legalább három év építésügyi hatóságnál (ideértve a sajátos építményfajták szerinti hatóságokat is) végzett gyakorlattal kell igazolni.
 
-(5)[^5] A tervellenőri tevékenység engedélyezéséhez a szakmai gyakorlati időbe az (1) bekezdés b)–c) pontjában meghatározott tevékenység vehető figyelembe.
+(5)[^9]
 
-[^5]: A 4. § (5) bekezdése a 105/2012. (V. 30.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdés c) pontját a 314/2012. (XI. 8.) Korm. rendelet 61. § d) pontja hatályon kívül helyezte.
+[^9]: A 4. § (5) bekezdését a 314/2012. (XI. 8.) Korm. rendelet 61. § e) pontja hatályon kívül helyezte.

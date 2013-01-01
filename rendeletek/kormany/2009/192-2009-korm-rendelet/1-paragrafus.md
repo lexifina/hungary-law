@@ -16,7 +16,7 @@ d) az energiát használó épület energetikai jellemzőinek vizsgálata alapj�
 
 2. építésügyi igazgatási szakértői tevékenység: az Étv. 33/A. § (1) bekezdése szerinti tevékenység;
 
-3. tervellenőri tevékenység: az Étv. 38/A. § (1) bekezdése szerinti tevékenység;
+3.[^2]
 
 4. beruházáslebonyolítói tevékenység: az Étv. 38/B. § (1) bekezdése szerinti tevékenység;
 
@@ -29,3 +29,5 @@ d) az energiát használó épület energetikai jellemzőinek vizsgálata alapj�
 8. tagállami állampolgár: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben tagállami állampolgárként és tagállam állampolgárával azonos megítélés alá eső személyként meghatározott személy;
 
 9. területi szakmai kamara: a területi mérnöki kamarának, illetve a területi építész kamarának a tervező és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott közigazgatási ügyben eljáró szerve.
+
+[^2]: Az 1. § (2) bekezdés 3. pontját a 314/2012. (XI. 8.) Korm. rendelet 61. § a) pontja hatályon kívül helyezte.

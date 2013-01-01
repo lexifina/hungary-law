@@ -2,9 +2,9 @@
 
 ## A jogosultsági követelmények két főrészből állnak: általános és különös követelmények.
 
-## a) Az általános rész a településrendezési szakértői, a tervellenőri, a beruházáslebonyolítói és az energetikai tanúsítói tevékenységet végzők (a továbbiakban: szakmagyakorlók) közös ismeretanyagát tartalmazza.
+## a) Az általános rész a településrendezési szakértői, a beruházáslebonyolítói és az energetikai tanúsítói tevékenységet végzők (a továbbiakban: szakmagyakorlók) közös ismeretanyagát tartalmazza.
 
-## b) A különös rész külön-külön tartalmazza a településrendezési szakértőre, a tervellenőrre, beruházáslebonyolítóra és az energetikai tanúsítóra vonatkozó speciális ismereteket.
+## b) A különös rész külön-külön tartalmazza a településrendezési szakértőre, beruházáslebonyolítóra és az energetikai tanúsítóra vonatkozó speciális ismereteket.
 
 ## I. Általános követelmények
 
@@ -76,15 +76,13 @@
 
 ## g) a szakértői szerződés tartalmi követelményeit.
 
-## 2.[^8]
-
-## 3. A vizsgázó beruházáslebonyolító ismerje:
+## 2. A vizsgázó beruházáslebonyolító ismerje:
 
 ## a) a beruházáslebonyolítói jogosultság feltételrendszerét,
 
 ## b) az építőipari kivitelezési tevékenységhez szükséges hatósági engedélyezés rendszerét,
 
-## c) az építészeti-műszaki tervezési, az építési műszaki ellenőri, a tervellenőri jogosultság feltételrendszerét, a tevékenységet folytató személy feladatát, felelősségét,
+## c) az építészeti-műszaki tervezési, az építési műszaki ellenőri jogosultság feltételrendszerét, a tevékenységet folytató személy feladatát, felelősségét,
 
 ## d) a kivitelezési tevékenység folytatásának feltételrendszerét,
 
@@ -98,7 +96,7 @@
 
 ## i) az építtetői fedezetkezelő feladatát, működését.
 
-## 4. A vizsgázó energetikai tanúsító az épületek energetikai tanúsításához ismerje:
+## 3. A vizsgázó energetikai tanúsító az épületek energetikai tanúsításához ismerje:
 
 ## a) az energetikai követelményekre és a tanúsításra vonatkozó szabályozás hatályát,
 
@@ -122,6 +120,6 @@
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó – az építésügyért felelős miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-2. melléklet a 192/2009. (IX. 15.) Korm. rendelethez
+2. melléklet a 192/2009. (IX. 15.) Korm. rendelethez[^13]
 
-[^8]: Az 1. melléklet II. Különös követelmények fejezet 2. pontját a 105/2012. (V. 30.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^13]: A 2. melléklet a 314/2012. (XI. 8.) Korm. rendelet 60. § b) pontjával megállapított szöveg.
