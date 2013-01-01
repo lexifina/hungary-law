@@ -1,1 +1,0 @@
-66/B. § Amennyiben az új kerületi tagozódás a főváros közigazgatási határát is érinti, a kezdeményezés a helyi népszavazás eredményével az Országgyűléshez csak a fővárosi közgyűlés, az érintett települési önkormányzat képviselő-testülete, valamint a változással érintett határos megye közgyűlésének véleményével nyújtható be.

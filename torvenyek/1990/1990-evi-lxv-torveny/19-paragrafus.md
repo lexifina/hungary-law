@@ -8,7 +8,7 @@ a) a képviselő-testület ülésén a polgármestertől (alpolgármestertől), 
 
 b) kérésére az írásban is benyújtott hozzászólását a jegyzőkönyvhöz kell mellékelni; illetőleg kérésére a véleményét rögzíteni kell a jegyzőkönyvben;
 
-c) tanácskozási joggal részt vehet bármely bizottság ülésén. Javasolhatja a bizottság elnökének a bizottság feladatkörébe tartozó ügy megtárgyalását, amelyet a bizottság legközelebbi ülése elé kell terjeszteni és tárgyalására a települési képviselőt meg kell hívni. Kezdeményezheti, hogy a képviselő-testület vizsgálja felül bizottságának, a polgármesternek, a részönkormányzat testületének, a helyi kisebbségi önkormányzat testületének — a képviselő-testület által átruházott — önkormányzati ügyben hozott döntését.
+c) tanácskozási joggal részt vehet bármely bizottság ülésén. Javasolhatja a bizottság elnökének a bizottság feladatkörébe tartozó ügy megtárgyalását, amelyet a bizottság legközelebbi ülése elé kell terjeszteni és tárgyalására a települési képviselőt meg kell hívni. Kezdeményezheti, hogy a képviselő-testület vizsgálja felül bizottságának, a polgármesternek, a részönkormányzat testületének, a helyi nemzetiségi önkormányzat testületének — a képviselő-testület által átruházott — önkormányzati ügyben hozott döntését.
 
 d) megbízás alapján képviselheti a képviselő-testületet;
 

@@ -1,1 +1,1 @@
-103/B. § Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a helyi sajátosságoknak megfelelően az általa megalkotott rendeletek előkészítésében való társadalmi részvétel szabályait rendeletben állapítsa meg.
+103/B. §

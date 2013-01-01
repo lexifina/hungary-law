@@ -1,1 +1,0 @@
-29. § A bizottságok működésének ügyviteli feladatait a képviselő-testület hivatala látja el. A településrészi önkormányzati testület munkájának segítésére a képviselő-testület hivatali kirendeltségeket hozhat létre, amelyek egyben a lakossági ügyintézésben ügyfélszolgálati teendőket is elláthatnak.

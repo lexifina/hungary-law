@@ -1,5 +1,0 @@
-18. § (1) A képviselő-testület a működésének részletes szabályait a szervezeti és működési szabályzatról szóló rendeletében határozza meg.
-
-(2) A képviselő-testület meghatározza azoknak a fórumoknak a rendjét (község- várospolitikai fórum, városrész tanácskozás, falugyűlés stb.), amelyek a lakosság, az egyesületek közvetlen tájékoztatását, a fontosabb döntések előkészítésébe való bevonását szolgálják. Ezek állásfoglalásáról és az ott felmerült kisebbségi véleményekről tájékoztatni kell a képviselő-testületet.
-
-(3) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását. A képviselő-testület az új képviselő-testület alakuló üléséig, a polgármester az új polgármester megválasztásáig ellátja feladatát, gyakorolja hatáskörét. A képviselő-testület feloszlása nem mondható ki a választást követő hat hónapon belül, illetőleg az általános önkormányzati választásokat megelőző év október 1. napját követően. Az időközi választás költségét az önkormányzat viseli.

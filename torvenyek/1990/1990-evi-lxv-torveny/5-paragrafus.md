@@ -1,1 +1,0 @@
-5. § A helyi önkormányzati jogok a településen választójoggal rendelkező lakosok (továbbiakban: választópolgárok) közösségét illetik meg. A választópolgárok az önkormányzati testületbe választott képviselőik útján, és a helyi népszavazáson való részvételükkel gyakorolják az önkormányzáshoz való közösségi jogaikat.

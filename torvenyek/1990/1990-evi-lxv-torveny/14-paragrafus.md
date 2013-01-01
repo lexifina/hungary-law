@@ -1,3 +1,0 @@
-14. § (1) A képviselő-testület akkor határozatképes, ha az ülésen a települési képviselőknek több mint a fele jelen van. A javaslat elfogadásához a jelenlevő települési képviselők több mint a felének igen szavazata szükséges.
-
-(2) A képviselő-testület döntéshozatalából kizárható az, akit vagy akinek a hozzátartozóját az ügy személyesen érinti. A települési képviselő köteles bejelenteni a személyes érintettséget. A kizárásról az érintett települési képviselő kezdeményezésére vagy bármely települési képviselő javaslatára a képviselő-testület dönt. A kizárt települési képviselőt a határozatképesség szempontjából jelenlevőnek kell tekinteni.

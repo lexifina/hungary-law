@@ -1,3 +1,0 @@
-64/C. § (1) A fővárosi közgyűlés és a kerületi képviselő-testület saját éves költségvetést határoz meg az államháztartásról szóló törvény szabályai szerint.
-
-(2) Mindaddig, amíg a fővárosi közgyűlés az érintett források megosztását rendeletében nem szabályozza, a 64. § (4) bekezdés a) és c) pontja szerinti bevételt a kincstár – a felmerülő személyi jellegű juttatásokat és egyéb kifizetéseket terhelő levonások, járulékok teljesítését és elszámolását követően – a fővárosi önkormányzatnak és az egyes kerületi önkormányzatoknak közvetlenül, a fővárosi közgyűlés előző évi forrásmegosztási rendeletében meghatározott arányok szerint utalja át.

@@ -12,7 +12,7 @@ e) társult képviselő-testület alakítása, a társult képviselő-testületb
 
 f) abban az ügyben, amelyet az önkormányzati rendelet meghatároz.
 
-(2) Az (1) bekezdés a)–d) pontjában foglalt esetekben a helyi népszavazásban az érintett településrész, község választópolgárai vehetnek részt.
+(2)
 
 (3) A képviselő-testület helyi népszavazást rendelhet el:
 

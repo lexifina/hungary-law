@@ -1,1 +1,0 @@
-106. § A közös tanács által alapított, több községet ellátó intézmény az érdekelt községek közös tulajdonába kerül. Ha a közös intézmény a községek között megosztható, a megosztásban az érintett képviselő-testületek 1990. december 31-i hatállyal megállapodhatnak.

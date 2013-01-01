@@ -1,1 +1,0 @@
-66/C. § A 66., 66/A. és 66/B. §-ban megjelölt kezdeményezési jogosultság a Kormányt is megilleti. Ilyen esetben a helyi népszavazást a tervezett területi változtatással közvetlenül érintett települési önkormányzat köteles kiírni. A népszavazás költségét a Kormány viseli.
