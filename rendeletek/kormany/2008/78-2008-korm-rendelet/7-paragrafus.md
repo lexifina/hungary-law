@@ -1,8 +1,8 @@
 ## Mintavétel és laboratóriumi vizsgálat
 
-7. § (1)[^19] A fürdővíz minőségellenőrzését szolgáló mintavételi ütemtervhez tartozó mintavételek és laboratóriumi vizsgálatok elvégzéséről a kistérségi népegészségügyi intézet gondoskodik, üzemeltetett fürdőhely esetében erről – a (7) bekezdésben foglalt eltéréssel – a fürdőhely üzemeltetője saját költségére gondoskodik.
+7. § (1)[^19] A fürdővíz minőségellenőrzését szolgáló mintavételi ütemtervhez tartozó mintavételek és laboratóriumi vizsgálatok elvégzéséről a járási népegészségügyi intézet gondoskodik, üzemeltetett fürdőhely esetében erről – a (7) bekezdésben foglalt eltéréssel – a fürdőhely üzemeltetője saját költségére gondoskodik.
 
-(2)[^20] A fürdővíz mintavételeket a kistérségi népegészségügyi intézet által a 3. § (1) bekezdése és 4. § (1) bekezdése szerint meghatározott minőségellenőrzési ütemterv szerint kell elvégezni. Az egyes mintavételeket legkésőbb az ütemtervben meghatározott időpontot követő 4 napon belül kell elvégezni. Az első mintavételre legfeljebb 3 héttel a fürdési idény kezdete előtt sort kell keríteni, majd további legalább 3 mintát kell venni a fürdési idény folyamán azzal, hogy az egyes mintavételek között nem telhet el egy hónapnál hosszabb idő.
+(2)[^20] A fürdővíz mintavételeket a járási népegészségügyi intézet által a 3. § (1) bekezdése és 4. § (1) bekezdése szerint meghatározott minőségellenőrzési ütemterv szerint kell elvégezni. Az egyes mintavételeket legkésőbb az ütemtervben meghatározott időpontot követő 4 napon belül kell elvégezni. Az első mintavételre legfeljebb 3 héttel a fürdési idény kezdete előtt sort kell keríteni, majd további legalább 3 mintát kell venni a fürdési idény folyamán azzal, hogy az egyes mintavételek között nem telhet el egy hónapnál hosszabb idő.
 
 (3) Olyan fürdővíz esetében, amelynél a fürdési idény nem hosszabb 8 hétnél, elegendő összesen 3 mintát venni.
 
@@ -12,8 +12,8 @@
 
 (6) Rendkívüli helyzet fennállása alatt a minőségellenőrzési ütemterv végrehajtása felfüggeszthető. A minőségellenőrzési ütemterv végrehajtását a rendkívüli helyzet megszűnését követő legrövidebb időn belül folytatni kell. A rendkívüli helyzet miatt hiányzó minták pótlására, annak megszűnését követő legrövidebb időn belül új mintát kell venni.
 
-(7)[^21] Az (5)–(6) bekezdések esetében az előre lefektetett minőségellenőrzési ütemterven kívül vett minták és paraméterek vizsgálatáról a kistérségi népegészségügyi intézet gondoskodik a megyei népegészségügyi szakigazgatási szerv költségvetési kerete terhére.
+(7)[^21] Az (5)–(6) bekezdések esetében az előre lefektetett minőségellenőrzési ütemterven kívül vett minták és paraméterek vizsgálatáról a járási népegészségügyi intézet gondoskodik a megyei népegészségügyi szakigazgatási szerv költségvetési kerete terhére.
 
-[^19]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § c) pontja szerint módosított szöveg.
-[^20]: A 7. § (2) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^21]: A 7. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § d) pontja szerint módosított szöveg.
+[^19]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § c) pontja, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^20]: A 7. § (2) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^21]: A 7. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § d) pontja, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.

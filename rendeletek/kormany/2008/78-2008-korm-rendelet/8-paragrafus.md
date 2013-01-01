@@ -2,16 +2,16 @@
 
 (2) Ha a korábbi tapasztalatok, vagy a fürdővíz-profil cianobaktérium burjánzás lehetőségét jelzi, a helyszíni szemle kiterjed a cianobaktérium burjánzás helyszíni vizsgálatára is. A helyszíni szemle során a cianobaktérium kockázat értékelését az 1. mellékletben megadottak szerint kell elvégezni.
 
-(3)[^22] Ha a helyszíni szemle alapján a cianobaktérium burjánzással összefüggésben egészségügyi kockázat megállapítható vagy valószínűsíthető, a kistérségi népegészségügyi intézet hivatalból vagy a fürdőhely üzemeltetőjének bejelentésére haladéktalanul intézkedik a további a cianobaktérium burjánzással összefüggő egészségügyi kockázatot feltáró vizsgálatokra (fitoplankton analízis, cianobaktérium sejtszám meghatározás, klorofill kimutatás) irányuló mintavétel és vizsgálat megszervezése céljából. A mintát ilyen vizsgálatokra akkreditált laboratóriumba kell eljuttatni azzal, hogy a vizsgálatra legkésőbb 36 órán belül sor kerüljön.
+(3)[^22] Ha a helyszíni szemle alapján a cianobaktérium burjánzással összefüggésben egészségügyi kockázat megállapítható vagy valószínűsíthető, a járási népegészségügyi intézet hivatalból vagy a fürdőhely üzemeltetőjének bejelentésére haladéktalanul intézkedik a további a cianobaktérium burjánzással összefüggő egészségügyi kockázatot feltáró vizsgálatokra (fitoplankton analízis, cianobaktérium sejtszám meghatározás, klorofill kimutatás) irányuló mintavétel és vizsgálat megszervezése céljából. A mintát ilyen vizsgálatokra akkreditált laboratóriumba kell eljuttatni azzal, hogy a vizsgálatra legkésőbb 36 órán belül sor kerüljön.
 
 (4) Ha a (3) bekezdés szerint elrendelt vizsgálatok eredménye a cianobaktérium burjánzással összefüggő egészségügyi kockázat megerősítését (az 1. melléklet 3. és 4. paraméterének a 2. melléklet szerinti értékelés alapján egyaránt kifogásolt vízminőséget) eredményezi, és a cianobaktérium fajösszetétele alapján a microcystin termelés valószínűsíthető, a mintából el kell végeztetni a cianobaktérium toxin analízis (1. melléklet 5. paraméter) vizsgálatát is.
 
-(4a)[^23] Az (1) bekezdésben felsorolt vízszennyező anyagok jelenlétének észlelése esetén a kistérségi népegészségügyi intézet az ezt rögzítő jegyzőkönyv kézhezvételét követően azonnal megteszi a megfelelő intézkedéseket, beleértve a jegyző és a nyilvánosság tájékoztatását.
+(4a)[^23] Az (1) bekezdésben felsorolt vízszennyező anyagok jelenlétének észlelése esetén a járási népegészségügyi intézet az ezt rögzítő jegyzőkönyv kézhezvételét követően azonnal megteszi a megfelelő intézkedéseket, beleértve a jegyző és a nyilvánosság tájékoztatását.
 
 (5) A fürdővíz minőségére vonatkozó minták kezelése és vizsgálata az 1. mellékletben megjelölt módszerekkel, a 6. mellékletben megjelölt szabályok szerint történik. Ezektől eltérő módszerek is alkalmazhatók, amennyiben az így nyert eredmények egyenértékűek az 1. mellékletben meghatározott módszerekkel, illetve a 6. mellékletben megjelölt szabályok alkalmazásával kapott eredményekkel. Az eltérő módszer alkalmazását az Országos Környezetegészségügyi Intézet (a továbbiakban: OKI) szakvéleménye alapján az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) engedélyezi és az engedélyt a honlapján közzéteszi.
 
-(6)[^24] Ha valamely helyszíni szemle vagy laboratóriumi vizsgálat eredménye alapján a fürdővíz jelentős vagy tartós minőségromlása vagy ennek lehetősége megállapítható, a kistérségi népegészségügyi intézet kezdeményezi további vizsgálat elvégzését.
+(6)[^24] Ha valamely helyszíni szemle vagy laboratóriumi vizsgálat eredménye alapján a fürdővíz jelentős vagy tartós minőségromlása vagy ennek lehetősége megállapítható, a járási népegészségügyi intézet kezdeményezi további vizsgálat elvégzését.
 
-[^22]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^23]: A 8. § (4a) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 3. §-a iktatta be.
-[^24]: A 8. § (6) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^22]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^23]: A 8. § (4a) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 3. §-a iktatta be, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^24]: A 8. § (6) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.

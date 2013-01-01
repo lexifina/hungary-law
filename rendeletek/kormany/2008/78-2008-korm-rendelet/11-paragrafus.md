@@ -1,10 +1,10 @@
 ## Nyilvánosság tájékoztatása
 
-11. § (1)[^34] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a kistérségi népegészségügyi intézetnek és a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének, valamint az OKI-nak értékelés és a nyilvánosság tájékoztatása céljából.
+11. § (1)[^34] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a járási népegészségügyi intézetnek és a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének, valamint az OKI-nak értékelés és a nyilvánosság tájékoztatása céljából.
 
-(2)[^35] A fürdővíz minőségére vonatkozó adatok közérdekűek. A nyilvánosság fürdővizekkel kapcsolatos tájékoztatását a (3)–(9) bekezdések alapján kell biztosítani. A víz minőségéről és annak az egészségre gyakorolt hatásáról – kérelemre – a kistérségi népegészségügyi intézet, illetve a megyei népegészségügyi szakigazgatási szerv felvilágosítást ad.
+(2)[^35] A fürdővíz minőségére vonatkozó adatok közérdekűek. A nyilvánosság fürdővizekkel kapcsolatos tájékoztatását a (3)–(9) bekezdések alapján kell biztosítani. A víz minőségéről és annak az egészségre gyakorolt hatásáról – kérelemre – a járási népegészségügyi intézet, illetve a megyei népegészségügyi szakigazgatási szerv felvilágosítást ad.
 
-(3)[^36] A kistérségi népegészségügyi intézet elrendeli a fürdési tilalom alá eső fürdővizek fürdést tiltó táblával történő megjelölését.
+(3)[^36] A járási népegészségügyi intézet elrendeli a fürdési tilalom alá eső fürdővizek fürdést tiltó táblával történő megjelölését.
 
 (4) A jegyző a helyben szokásos módon minden évben tájékoztatja a lakosságot
 
@@ -16,11 +16,11 @@ c) a fürdési tilalom elrendeléséről,
 
 d) a fürdési tilalom feloldásáról.
 
-(5)[^37] A fürdést tiltó tábla elhelyezéséről, karbantartásáról és eltávolításáról engedélyezett fürdővíz esetében a kistérségi népegészségügyi intézet gondoskodik, kijelölt fürdőhely esetében az üzemeltető, ennek elmulasztása esetén a kistérségi népegészségügyi intézet – az üzemeltető költségére – intézkedik.
+(5)[^37] A fürdést tiltó tábla elhelyezéséről, karbantartásáról és eltávolításáról engedélyezett fürdővíz esetében a járási népegészségügyi intézet gondoskodik, kijelölt fürdőhely esetében az üzemeltető, ennek elmulasztása esetén a járási népegészségügyi intézet – az üzemeltető költségére – intézkedik.
 
 (6) A fürdőhely üzemeltetője a 3. mellékletben foglaltak szerint köteles a védőterület határait megjelölni.
 
-(7)[^38] Minden fürdővízre vonatkozóan évente, amint az információ rendelkezésre áll, és a fürdési idény teljes időtartama alatt, a fürdővizek 300 méteres körzetén belül, a fürdőzők számára jól megközelíthető és látható módon, engedélyezett fürdővíz esetében a kistérségi népegészségügyi intézet, kijelölt fürdőhely esetében az üzemeltető hozzáférhetővé teszi:
+(7)[^38] Minden fürdővízre vonatkozóan évente, amint az információ rendelkezésre áll, és a fürdési idény teljes időtartama alatt, a fürdővizek 300 méteres körzetén belül, a fürdőzők számára jól megközelíthető és látható módon, engedélyezett fürdővíz esetében a járási népegészségügyi intézet, kijelölt fürdőhely esetében az üzemeltető hozzáférhetővé teszi:
 
 a) a fürdővíz aktuálisan érvényes osztályba sorolását,
 
@@ -68,18 +68,18 @@ dd) a szennyezés okainak elhárítására és a fürdőzők expozíciójának m
 
 (11)[^41] Az OTH a nyilvántartott fürdővizek és kijelölt fürdőhelyek, valamint a tartós fürdési tilalom alá eső fürdővizek listáját minden fürdési idény kezdete előtt, amint az rendelkezésre áll, de legkésőbb június 15-ig a honlapján közzéteszi.
 
-(12)[^42] A kistérségi népegészségügyi intézet adatszolgáltatása alapján a megyei népegészségügyi szakigazgatási szerv és az OTH a honlapján keresztül közérthető módon tájékoztatja a nyilvánosságot
+(12)[^42] A járási népegészségügyi intézet adatszolgáltatása alapján a megyei népegészségügyi szakigazgatási szerv és az OTH a honlapján keresztül közérthető módon tájékoztatja a nyilvánosságot
 
 a) az emelkedett cianobaktérium-burjánzással összefüggő egészségügyi kockázatról és a cianobaktériumra különösen érzékeny személyek magatartására vonatkozó ajánlásokról,
 
 b) a makroalgák elszaporodásának tendenciájáról és az ezzel összefüggő egészségügyi kockázatról.
 
-[^34]: A 11. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § f) pontja szerint módosított szöveg.
-[^35]: A 11. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § g) pontja szerint módosított szöveg.
-[^36]: A 11. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^37]: A 11. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^38]: A 11. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^34]: A 11. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § f) pontja, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^35]: A 11. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 213. § g) pontja, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^36]: A 11. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^37]: A 11. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^38]: A 11. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
 [^39]: A 11. § (9) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^40]: A 11. § (10) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^41]: A 11. § (11) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^42]: A 11. § (12) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^42]: A 11. § (12) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
