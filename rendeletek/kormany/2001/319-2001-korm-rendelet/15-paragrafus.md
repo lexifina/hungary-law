@@ -1,5 +1,5 @@
 ## II. Fejezet
 
-## A kedvezményekre való jogosultság bejegyzésének eljárási szabályai[^33]
+## A kedvezményekre való jogosultság bejegyzésének eljárási szabályai[^37]
 
-[^33]: A 15. §-t megelőző alcím a 132/2007. (VI. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^37]: A 15. §-t megelőző alcím a 132/2007. (VI. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
