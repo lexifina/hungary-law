@@ -20,7 +20,7 @@ b) által elvégzett, a 8. § (4) bekezdésében meghatározott szakirányú tan
 
 (4)[^7] Ha az ügyfél legalább egy személy vonatkozásában nem csatolja a (3) bekezdés b) pontja szerinti iratot, a megyei népegészségügyi szakigazgatási szerv az ÁNTSZ Országos Tisztifőorvosi Hivatalát keresi meg, hogy a tudomása szerint a tevékenység végzésében részt vevő személy elvégezte-e a 8. § (4) bekezdése szerinti tanfolyamot.
 
-(5)[^8] A tanácsadó Családvédelmi Szolgálat – nyilvánosság számára is hozzáférhető – elnevezésének az ÁNTSZ kistérségi (fővárosi kerületi) intézetei keretében működő Családvédelmi Szolgálatok elnevezésétől történő megkülönböztetésre alkalmasnak kell lennie.
+(5)[^8] A tanácsadó Családvédelmi Szolgálat – nyilvánosság számára is hozzáférhető – elnevezésének az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetei keretében működő Családvédelmi Szolgálatok elnevezésétől történő megkülönböztetésre alkalmasnak kell lennie.
 
 [^2]: A 2. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 77. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdésének a) pontját a 182/2009. (IX. 10.) Korm. rendelet 203. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -28,4 +28,4 @@ b) által elvégzett, a 8. § (4) bekezdésében meghatározott szakirányú tan
 [^5]: A 2. § (3) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 10. pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 2. § (3) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 203. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 2. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 201. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 78. §-a szerint módosított szöveg.
-[^8]: A 2. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 201. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 2. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 201. § (2) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 23. §-a szerint módosított szöveg.
