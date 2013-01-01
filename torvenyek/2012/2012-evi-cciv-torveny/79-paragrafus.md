@@ -11,11 +11,3 @@
 (5) A helyi önkormányzat, többcélú kistérségi társulás a (4) bekezdés szerinti visszafizetési kötelezettségét a 2013. február havi nettó finanszírozás keretében történő levonással teljesíti. Ha a többcélú kistérségi társulás a 2013. évben támogatásban nem részesül, a (4) bekezdésben foglaltakat a többcélú kistérségi társulás székhelye szerinti települési önkormányzattal szemben kell alkalmazni.
 
 (6) A visszafizetési kötelezettség elmulasztása esetén – ideértve azt is, ha a helyi önkormányzat, többcélú kistérségi társulás részére 2013. február hónapban járó támogatás nem nyújt fedezetet a levonás összegére – a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájával szemben azonnali beszedési megbízást nyújt be, felhatalmazó nyilatkozat hiányában is.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
