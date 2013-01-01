@@ -1,4 +1,4 @@
-## 124. §[^73] Ha a Be. 146. §-ának (2) bekezdése alapján a terhelt úti okmányát visszavonták és a gyanúsított külföldre utazásra irányuló kérelmet nyújt be, a nyomozó szerv a kérelmet – álláspontjának kifejtésével – megküldi az ügyészhez.
+## 124. §[^73]
 
 125. §[^74] (1) Ellenőrizni kell, hogy a gyanúsított szerepel-e a bűnügyi nyilvántartásban és be kell szerezni az esetleges korábbi elítélésére vonatkozó iratokat, ha a bűncselekmény minősítése vagy a büntetőjogi jogkövetkezmények alkalmazása szempontjából azoknak jelentősége van, valamint a más nyomozó szerv előtt folyamatban lévő büntetőeljárásokra vonatkozó adatokat.
 
@@ -6,5 +6,5 @@
 
 (3) Teljesíteni kell a Bnytv. és a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló IRM rendeletben meghatározott adatközlést.
 
-[^73]: A 124. § a 21/2006. (IX. 11.) IRM rendelet 25. §-ával megállapított szöveg.
+[^73]: A 124. §-t a 82/2012. (XII. 28.) BM rendelet 6. § b) pontja hatályon kívül helyezte.
 [^74]: A 125. § a 20/2009. (VI. 19.) IRM rendelet 29. §-ával megállapított szöveg.
