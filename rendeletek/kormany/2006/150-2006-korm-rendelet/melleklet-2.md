@@ -6,7 +6,7 @@
 
 | 1. | szennyvíztisztító telep | Budapest, XXI. ker. (hrsz. 210005- 210020) | vízjogi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség (KTVF) | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: OKTVF) |
 
-| 2. |  |  | általános építésügyi hatósági engedély a központi épületre | Fővárosi Kormányhivatal | építésügyért felelős miniszter |
+| 2. |  |  | általános építésügyi hatósági engedély a központi épületre | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | külső szállítási infrastruktúra | Budapest, XXI. ker. (hrsz. 209973, 209990, 209996, 210011) | építési engedély | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -54,7 +54,7 @@
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Közlekedés |  |  |
 
@@ -84,11 +84,11 @@
 
 | - erdővédelem | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve) | Országos Tisztifőorvosi Hivatal |
 
-| Hírközlés | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -140,7 +140,7 @@
 
 | Környezetvédelem | illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Közlekedés |  |  |
 
@@ -170,7 +170,7 @@
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -178,4 +178,4 @@
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 5. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 4. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 5. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 4. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 13. §-a, a 394/2012. (XII. 20.) Korm. rendelet 9. §-a szerint módosított szöveg.
