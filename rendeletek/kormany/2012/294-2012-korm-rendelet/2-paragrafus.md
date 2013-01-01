@@ -1,0 +1,3 @@
+## 1. § A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá tartozó személyek diákkedvezményeiről szóló 319/2001. (XII. 29.) Korm. rendelet (a továbbiakban: R1.) 1. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) A Szátv. 10. §-ában biztosított kedvezmények nemzetközi szerződés alapján megilletik azt a személyt is, aki a szomszédos állam alap- vagy középfokú oktatási intézményével tanulói jogviszonyban áll és magyar nyelven tanul, továbbá azt a hallgatót, aki a szomszédos állam felsőoktatási intézményében magyar nyelven vagy magyar kultúra tárgyában tanulmányokat folytat. A magyar kultúra tárgykörét külön jogszabály határozza meg.”
