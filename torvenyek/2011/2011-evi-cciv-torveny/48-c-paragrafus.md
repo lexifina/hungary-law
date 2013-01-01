@@ -1,10 +1,10 @@
 48/C. § (1) A hallgatói ösztöndíjszerződés alapján a Magyar Állam köteles:
 
->a) a hallgató által az adott képzésben igénybe vett támogatási idő alatt, de legfeljebb a hallgatói jogviszonyának megszűnéséig a magyar állami (rész)ösztöndíjas hallgatóra tekintettel biztosítani a felsőoktatási intézménynek a hallgató magyar állami (rész)ösztöndíjjal támogatott képzésének költségeit (a továbbiakban: állami ösztöndíj),
+a) a hallgató által az adott képzésben igénybe vett támogatási idő alatt, de legfeljebb a hallgatói jogviszonyának megszűnéséig a magyar állami (rész)ösztöndíjas hallgatóra tekintettel biztosítani a felsőoktatási intézménynek a hallgató magyar állami (rész)ösztöndíjjal támogatott képzésének költségeit (a továbbiakban: állami ösztöndíj),
 
 b) foglalkoztatáspolitikai eszközrendszerére támaszkodva törekedni arra, hogy a magyar állami (rész)ösztöndíjas hallgató számára a magyar állami (rész)ösztöndíjjal támogatott képzés befejezését követően megfelelő munkalehetőséget biztosítson.
 
-(2) Az állami ösztöndíj mértéke az adott felsőoktatási intézményben a hallgató által magyar állami (rész)ösztöndíjjal támogatott formában igénybe vett aktív félévekre – külön jogszabályban meghatározott keretek között a felsőoktatási intézmény által – megállapított önköltségek összege. Ezen alcím vonatkozásában azon félév minősül aktív félévnek, amelyre a magyar állami (rész)ösztöndíjas hallgató bejelentkezett.
+(2) Az állami ösztöndíj mértéke az adott felsőoktatási intézményben a hallgató által magyar állami (rész)ösztöndíjjal támogatott formában igénybe vett aktív félévekre – jogszabályban meghatározott keretek között a felsőoktatási intézmény által – a hallgatóra vetítve megállapított költségek összege. Ezen alcím vonatkozásában azon félév minősül aktív félévnek, amelyre a magyar állami (rész)ösztöndíjas hallgató bejelentkezett.
 
 (3) A magyar állami részösztöndíjas hallgató esetében az állami ösztöndíj adott félévre számított összege az azonos képzésen tanulmányokat folytató magyar állami ösztöndíjas hallgató ugyanazon félévére megállapított állami ösztöndíjának ötven százaléka.
 

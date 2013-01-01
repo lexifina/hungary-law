@@ -10,4 +10,4 @@
 
 (3) Az állami felsőoktatási intézmény vagyongazdálkodására a nemzeti vagyonnal való gazdálkodás elveit és feltételrendszerét meghatározó jogszabályok az irányadók.
 
-(4) Ha az állami felsőoktatási intézmény bármilyen jogcímen vagyont szerez, annak tulajdonjoga az államot illeti meg, azonban arra a felsőoktatási intézménnyel határozatlan időre szóló vagyonkezelői szerződést kell kötni.
+(4) Ha az állami felsőoktatási intézmény bármilyen jogcímen vagyont szerez, annak tulajdonjoga – az intézményi társaságot ide nem értve – az államot illeti meg, azonban arra a felsőoktatási intézménnyel határozatlan időre szóló vagyonkezelői szerződést kell kötni.

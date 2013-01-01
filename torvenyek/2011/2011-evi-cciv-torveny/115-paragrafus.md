@@ -46,4 +46,4 @@ c) többletbevétele a fejezetet irányító szerv engedélyével, az irányít�
 
 (12) A felsőoktatási intézményben magasabb vezetői és vezetői megbízással rendelkezők és e személyek közeli hozzátartozói nem tölthetnek be olyan intézményi társaságban vezető tisztségviselői feladatokat, nem lehetnek tagjai a felügyelőbizottságnak, nem láthatnak el könyvvizsgálói feladatot, amelyet a felsőoktatási intézmény hozott létre, vagy amelyben részesedéssel rendelkezik. Az intézményi társaság felügyelőbizottságába egy tagot az MNV Zrt. jogosult delegálni.
 
-(13) Állami fenntartású felsőoktatási intézmény esetén a 13. § (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a gazdasági főigazgatóval kapcsolatos munkáltatói jogokat az állami vagyonért felelős miniszter gyakorolja.
+(13)

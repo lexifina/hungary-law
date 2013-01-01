@@ -1,0 +1,1 @@
+104/A. § A Nemzeti Közszolgálati Egyetem hallgatói tekintetében a 85/C. § b) pont bc) alpontja alapján juttatott szociális alapú ösztöndíj intézményi ösztöndíjrészének fedezetét a Nemzeti Közszolgálati Egyetem költségvetését biztosító miniszter vagy szerv biztosítja.

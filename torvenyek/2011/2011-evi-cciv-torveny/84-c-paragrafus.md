@@ -1,0 +1,1 @@
+84/C. § A 10. § alapján a kiemelt felsőoktatási intézmény, kutatóegyetem, kutató kar, az alkalmazott tudományok főiskolája – kormányrendeletben meghatározott feltételek szerint – támogatásban részesíthető.

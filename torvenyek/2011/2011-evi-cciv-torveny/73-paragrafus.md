@@ -30,9 +30,15 @@ db) a szakmai munka eredményességét;
 
 e) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
 
-f) megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési vezetőt – illetve a rektor kezdeményezésére, vagy saját hatáskörben visszavonhatja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában a fenntartói döntést – a miniszter előzetes tájékoztatásával – az állami vagyonért felelős miniszter hozza meg;
+f) megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési vezetőt – illetve visszavonja a megbízását,
 
-g) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves költségvetési beszámolójának ellenőrzéséről.
+g) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves költségvetési beszámolójának ellenőrzéséről,
+
+h) hozzájárulása szükséges a felsőoktatási intézmény
+
+ha) hatáskörében történő rendszeres pénzjuttatással járó cím, elismerés alapításához,
+
+hb) éves képzési tevékenységének – különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos hallgatói kapacitás – kialakításához.
 
 (4) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 

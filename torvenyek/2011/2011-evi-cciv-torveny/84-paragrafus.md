@@ -18,7 +18,9 @@ d) fenntartási feladatok,
 
 e) a hallgatói sport,
 
-f) egyes speciális felsőoktatási feladatok ellátásának
+f) egyes speciális felsőoktatási feladatok ellátásának,
+
+g) a 10. § szerint minősített intézmények támogatásának
 
 biztosítása.
 
@@ -51,3 +53,5 @@ nyújtott támogatás.
 (6) A (4) bekezdésben szabályozott pályázatok benyújtásának feltételeit és rendjét a Kormány határozza meg, azzal a megkötéssel, hogy a kis létszámú szakokra járó hallgatók együttes létszáma nem haladhatja meg a felsőoktatási intézmények hallgatói létszámának öt százalékát. A kis létszámú szakokra a hozzájárulásra való jogosultságot adott felsőoktatási intézmény tekintetében öt-nyolc évre kell biztosítani.
 
 (7) A (4) bekezdésben meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni.
+
+(8) A (2) bekezdésben meghatározott jogcímek – az a) és f) pontban meghatározott jogcímek kivételével – nem jelentenek felhasználási kötöttséget.

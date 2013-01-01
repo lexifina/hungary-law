@@ -82,4 +82,4 @@ i) a szenátus üléseiről jegyzőkönyvet kell készíteni, a szenátus dönt�
 
 j) a szenátus üléséről az ülés időpontja, a napirend megküldésével előzetesen a fenntartó képviselőjét tájékoztatni kell, a fenntartó képviselője az ülésen tanácskozási joggal részt vehet.
 
-(8) Nem ruházhatók át a (3) bekezdés a–g) és ha)–hb) valamint hd–hf) pontban meghatározott jogkörök.
+(8) Nem ruházhatók át a (3) bekezdés a–g) és ha)–hb) valamint hd), hf) pontjában meghatározott jogkörök

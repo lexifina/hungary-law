@@ -28,7 +28,7 @@ b) szervezeti egység vezetői és vezetőhelyettesei.
 
 (4) A rektori megbízásra benyújtott valamennyi pályázatot a szenátus véleményezi. A fenntartó dönt a rektorjelölt személyéről.
 
-(5) A magasabb vezetői és vezetői megbízásokra benyújtott pályázatok rangsorolásáról – a (4) bekezdésben foglalt kivétellel – a szenátus dönt. Döntését a (4) bekezdésben meghatározott kivétellel megküldi a rektornak. A rektor a szenátus véleményének mérlegelésével dönt a vezetői megbízás kiadásáról. A rangsorolt gazdasági főigazgatói, belső ellenőrzési vezetői pályázatokat a rektor továbbítja a fenntartónak. Ha a 73. § (3) bekezdés f) pontja szerint a gazdasági főigazgatói, illetve belső ellenőrzési vezetői megbízás esetén a foglalkoztatásra irányuló jogviszony létesítésére jogosult személy nem azonos a megbízási jogkör gyakorlójával, a kinevezési jogkör gyakorlójának a megbízott személlyel közalkalmazotti jogviszonyt kell létesítenie.
+(5) A magasabb vezetői és vezetői megbízásokra benyújtott pályázatok rangsorolásáról a szenátus dönt. Döntését – a (4) bekezdés kivételével – megküldi a rektornak. A rektor a szenátus véleményének mérlegelésével dönt a vezetői megbízás kiadásáról. A gazdasági főigazgatói, ennek hiányában gazdasági igazgatói, belső ellenőrzési vezetői pályázatokat a rektor továbbítja a fenntartónak. A 73. § (3) bekezdés f) pontjában és a 75. § (4) bekezdés b) pontjában meghatározott vezetői megbízás esetén a felsőoktatási intézmény vezetője a megbízott személlyel – a megbízásra jogosult által meghatározottak szerint – létesít a felsőoktatási intézményben foglalkoztatásra irányuló jogviszonyt.
 
 (6) A magasabb vezetői és a vezetői megbízás a hatvanötödik életév betöltéséig szólhat.
 

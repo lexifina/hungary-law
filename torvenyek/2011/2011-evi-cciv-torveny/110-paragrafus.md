@@ -18,7 +18,7 @@ b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a do
 
 6. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói igazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási szabályokat, a diákigazolvány és az oktatói igazolvány kibocsátásához kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, a felsőoktatási intézmények által kötelezően használt, központilag kibocsátásra kerülő nyomtatványok – az oklevél megszerzését megelőzően kiállítható, a tanulmányok sikeres befejezését és a záróvizsga megszerzését tanúsító igazolás kiadásának feltételei – tartalmi és formai követelményeit és engedélyezési rendjét, a támogatási idő nyilvántartásának, a magyar állami (rész)ösztöndíjas és az önköltséges hallgatók közötti átsorolásnak a rendjét,
 
-7. a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói munkaszerződésre vonatkozó szabályokat,
+7. a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói megállapodásra, továbbá a hallgatói munkaszerződésre vonatkozó szabályokat,
 
 8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a nyelvi követelményeket, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
 
@@ -48,7 +48,7 @@ c) a tehetséggondozási tevékenység előmozdítását ösztönző támogatás
 
 d) a felsőoktatási intézmény tehetséggondozó rendszere elveit,
 
-13. a hallgatói juttatások, támogatások és egyéb kedvezmények igénybevételi rendjét,
+13. a hallgatói juttatásokkal, támogatásokkal és egyéb kedvezményekkel kapcsolatos részletes szabályokat,
 
 14. a hallgatói lakhatási feltételek, jóléti szolgáltatások biztosításával kapcsolatos szabályokat, intézményi feltételeket,
 
@@ -88,9 +88,9 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 25. a habilitációs eljárás rendjét,
 
-26. felsőoktatási intézmény volt oktatójának, óraadó oktatójának adományozható címeket, az adományozás feltételeit,
+26. felsőoktatási intézmény volt oktatójának, óraadó oktatójának adományozható címeket, az adományozás feltételeit.
 
-27. a gazdasági tanács létrehozásának, hatáskörének, működésének általános szabályait.
+27.
 
 (2) Felhatalmazást kap a Kormány, hogy
 

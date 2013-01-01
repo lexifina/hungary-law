@@ -4,4 +4,4 @@
 
 (3) A felsőoktatási intézmény szervezeti egységei centrummá, főiskolai, egyetemi központtá szervezhetők. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy.
 
-(4) Állami felsőoktatási intézményben – a Kormány által meghatározott keretek között – gazdasági tanácsot kell működtetni, nem állami felsőoktatási intézményben gazdasági tanács működtethető.
+(4) A felsőoktatási intézményben – szervezeti és működési szabályzatában meghatározottak szerint – gazdasági tanács működtethető.

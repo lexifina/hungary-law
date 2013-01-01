@@ -28,6 +28,6 @@ d) a 26. § (3) bekezdést, 65. § (4) bekezdést, továbbá az intézményfejle
 
 e) egyetemi tanári munkaköri cím megszerzéséhez nem szükséges a MAB előzetes szakértői véleménye,
 
-f) az egyetemi, főiskolai kar létesítéséhez elvárt minimális oktatói létszámra vonatkozó rendelkezést nem kell alkalmazni, [108. § 11. aa) és ba) pont]
+f) az egyetemi, főiskolai kar létesítéséhez elvárt minimális oktatói létszámra vonatkozó rendelkezést nem kell alkalmazni, [108. § 13. pont aa) és ba) alpont]
 
 g) tanárképző központ létrehozása nem kötelező.

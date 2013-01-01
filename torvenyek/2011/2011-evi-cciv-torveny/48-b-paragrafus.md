@@ -4,7 +4,7 @@
 
 (3) A szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy a 48/A. § b) pontjában meghatározott kötelezettséget a származási országában is teljesítheti.
 
-(4) A hitéleti képzésben részt vevő magyar állami (rész)ösztöndíjas hallgatót a 48/A. § b) és d) pontjaiban foglalt kötelezettségek nem terhelik.
+(4) A hitéleti képzésben részt vevő magyar állami (rész)ösztöndíjas hallgatót a 48/A. § b) és d) pontjában meghatározott kötelezettségek nem terhelik és a 48/A. § c) pontjában foglaltak a hitéleti képzés sajátos követelményeinek figyelembe vételével érvényesíthetők.
 
 (5) A hazai munkaviszony időtartama teljesítésének számításakor a Magyarországon önkéntes katonai szolgálat alapján fennálló, valamint a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy esetében a származási országában teljesített, társadalombiztosítási jogviszonyt eredményező munkavégzésre irányuló jogviszonyt kétszeres mértékben kell figyelembe venni.
 

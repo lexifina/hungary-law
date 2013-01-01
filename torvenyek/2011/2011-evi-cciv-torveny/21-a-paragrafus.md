@@ -1,0 +1,1 @@
+21/A. § A felsőoktatási intézmény átalakulását az intézmény átalakulással érintett szervezeti egysége – legfőbb testületi döntéshozó szerve tagjai kétharmados támogatásával hozott döntésével – önállóan is kezdeményezheti.

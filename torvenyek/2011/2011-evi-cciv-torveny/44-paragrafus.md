@@ -14,6 +14,8 @@ a) az (1) bekezdés a) pontja szerinti esetben díjazás illetheti, illetve a ha
 
 b) az (1) bekezdés b) pontja szerinti esetben a felek megállapodása szerinti díjazás illeti, melynek ellenében a hallgató által e jogviszonyban létrehozott dolgok tulajdonjoga, illetve a szellemi alkotásokhoz fűződő vagyoni jogok – eltérő megállapodás hiányában – a felsőoktatási intézményre, illetve az általa létrehozott gazdálkodó szervezetre az átadással átszállnak.
 
+(3a) A képzési program keretében, illetve a képzés részeként – az (1) bekezdés a) pont szerint – megszervezett szakmai gyakorlatra költségvetési szervnél hallgatói munkaszerződés és díjazás nélkül is sor kerülhet. A hallgatót ez esetben is megilletik mindazon jogok, amelyeket a munka törvénykönyve biztosít a munkavállalók részére. A gyakorlati képzésben részt vevő hallgatóval e tevékenységére tekintettel a Kormány által meghatározott feltételekkel megállapodást kell kötni.
+
 (4) Az, aki a gyakorlati képzést szervezi, köteles felelősségbiztosítást kötni a felsőoktatási szakképzésben részt vevő hallgató javára.
 
 (5) A doktorandusz oktatási és kutatási tevékenységére az e § (3) bekezdés a) pontjában írtakat az alábbi eltérésekkel kell alkalmazni:

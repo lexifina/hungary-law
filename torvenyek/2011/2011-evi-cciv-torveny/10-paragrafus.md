@@ -2,6 +2,6 @@
 
 (2) A kiemelkedő színvonalú képzést nyújtó, a tudományos életben elismert egyetem, vagy egyetemi kar – a Kormány által meghatározott feltételekkel – „kutató” minősítést kaphat.
 
-(3) A több képzési területen képzést folytató, alkalmazott kutatási területen nemzetközileg elismert főiskola – a Kormány által meghatározott feltételekkel – „alkalmazott kutatások főiskolája” minősítést kaphat.
+(3) A több képzési területen képzést folytató, magas színvonalú gyakorlatorientált képzést folytató, az alkalmazott tudományok területén nemzetközileg elismert, valamint a képzés terén széles körű nemzetközi együttműködést folytató főiskola – a Kormány által meghatározott feltételekkel – „alkalmazott tudományok főiskolája” minősítést kaphat.
 
 (4) A miniszter megállapodás alapján az (1)–(3) bekezdésben meghatározott szervezetek, szervezeti egységek működését támogatásban részesítheti.

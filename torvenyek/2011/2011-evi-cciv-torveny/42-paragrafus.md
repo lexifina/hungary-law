@@ -4,7 +4,7 @@
 
 a) a tanulmányaihoz kapcsolódó résztanulmányok folytatása céljából másik felsőoktatási intézménnyel vendéghallgatói jogviszonyt létesíthet,
 
-b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugyanazon képzési ciklusba és képzési területhez tartozó szakjára.
+b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugyanazon képzési területhez tartozó szakjára.
 
 (2) A felsőoktatási intézmény a vele hallgatói jogviszonyban nem álló felsőfokú végzettségű személyeket – részismereti képzés céljából – hallgatói jogviszony keretében, az intézmény bármely kurzusára, moduljára – külön felvételi eljárás nélkül – önköltséges képzésre felveheti. Az intézmény a tanulmányi teljesítményről igazolást köteles kiállítani. Az elvégzett kurzus, modul teljesítése felsőfokú tanulmányokba a kreditátvitel szabályai szerint beszámítható.
 

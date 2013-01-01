@@ -1,0 +1,1 @@
+85/D. § A 8. § (6) bekezdésében és az 54. §-ban foglaltak szerinti szakkollégium hallgató tagja részére a szakkollégiumban kifejtett kiemelkedő tevékenysége elismeréseként ösztöndíj adományozható. A szakkollégiumi ösztöndíjat a felsőoktatási intézményben működő szakkollégium esetében a felsőoktatási intézmény, diákotthonban működő szakkollégium esetében a diákotthon folyósítja.

@@ -12,7 +12,7 @@ c) feltétele lehet egészségügyi –, szakmai –, pályaalkalmassági vizsg�
 
 a) a Kormány rendeletben határozza meg a felsőoktatási intézménybe történő felvételhez egyes alapszakok esetében az érettségi vizsga teljesítésével kapcsolatos követelményeket,
 
-b) az azonos szakon képzést folytató felsőoktatási intézmények szakonként egységes szóbeli felvételi vizsgakövetelményeket határoznak meg.
+b) az azonos szakon képzést folytató felsőoktatási intézmények – a kormányrendeletben foglaltak szerint – szakonként egységes alkalmassági, szóbeli felvételi vizsgakövetelményeket határozhatnak meg.
 
 (4) Mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett valamint legalább egy „C” típusú középfokú államilag elismert, – középfokú (B2 szintű) általános nyelvi, komplex – vagy azzal egyenértékű nyelvvizsgával rendelkezik. Mesterfokozatot eredményező képzésre épülő mesterképzésre az vehető fel, aki mesterképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
 

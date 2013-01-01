@@ -27,3 +27,5 @@ f) a képzéssel, illetve doktori fokozatszerzéssel kapcsolatos valamennyi okir
 (3) Ha magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató valamely EGT-államban olyan részképzésben vesz részt, amelyben folytatott tanulmányai a hazai felsőoktatási intézmény képzésébe beszámíthatók, a hallgató a külföldi tanulmányok idejére – a (4) bekezdésben meghatározottak szerint – attól a felsőoktatási intézménytől, amellyel hallgatói jogviszonyban áll, ösztöndíjat kaphat.
 
 (4) A hallgató akkor jogosult az (3) bekezdésben meghatározott ösztöndíjra, ha külföldi tanulmányait a felsőoktatási intézmény hozzájárulásával kezdte meg.
+
+(5) A (3) bekezdésben meghatározott ösztöndíj a képzési támogatás terhére adható. Az ösztöndíj adományozásáról nyilvános pályázat útján kell dönteni.
