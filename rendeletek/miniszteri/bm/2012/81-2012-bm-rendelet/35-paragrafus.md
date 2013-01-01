@@ -1,3 +1,0 @@
-## 34. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet (a továbbiakban: R7.) 13. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
-
-## „(4) A hivatásos állománynak a Hszt. 52/A. §-a alapján az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programokban szakértőként részt vevő tagját a szolgálati feladatok ellátása alól a Hszt. 70. § (1) bekezdés h) pontja alapján mentesíteni kell arra az időtartamra, amíg a szakértői tevékenységet ellátja. A szakértői tevékenység ellátásának időtartamára a hivatásos állomány tagja nem jogosult a Hszt. 254. §-ában meghatározott pótlékokra.”

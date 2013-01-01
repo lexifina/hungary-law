@@ -1,7 +1,5 @@
-## 21. §[^12]
+## 21. § A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjaira vonatkozó munkáltatói jogkörökről és azok gyakorlására feljogosított elöljárókról szóló 61/2011. (XII. 29.) BM rendelet 1. melléklet „B. A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv” alcímében a „berendeléssel” szövegrész helyébe a „vezényléssel” szöveg lép.
 
 ## 13. A belügyminiszter felügyelete, irányítása alá tartozó egyes fegyveres szervekkel hivatásos szolgálati viszonyban állók szolgálati viszonyáról és a személyügyi igazgatás rendjéről szóló
 
 ## 64/2011. (XII. 30.) BM rendelet módosítása
-
-[^12]: A 21. § a 44. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

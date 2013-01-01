@@ -1,4 +1,4 @@
-## 38. § Az R7. 118. § (1) bekezdése a következő szöveggel lép hatályba:
+## 3. § Az R1. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
 
 ## „(1) Az eljáró szerv tisztázza a határozathozatalhoz szükséges tényállást, ennek keretében vizsgálja
 

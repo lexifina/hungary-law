@@ -6,4 +6,6 @@
 
 (3) A 26. § (3) bekezdése, valamint a 43. § (2) bekezdése 2013. július 1-jén lép hatályba.
 
-(4) Nem lép hatályba a járások kialakításával összefüggésben egyes miniszteri rendeletek módosításáról szóló 71/2012. (XII. 14.) BM rendelet 3. § (2) bekezdése.
+(4)[^6]
+
+[^6]: A 44. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
