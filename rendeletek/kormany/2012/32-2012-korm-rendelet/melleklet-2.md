@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Tüskecsarnok beruházási program | Budapest XI. kerület 4082/23 helyrajzi számú terület, illetve ezen területből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2. | Tüskecsarnok beruházási program | Budapest XI. kerület 4082/23 helyrajzi számú terület, illetve ezen területből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -16,7 +16,7 @@
 
 | 7. | Hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest 1. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
 | 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -36,7 +36,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 1. | Szakhatósági közreműködése tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Budapest Főváros XI. Kerület Újbuda Önkormányzatának jegyzője | Budapest Főváros Kormányhivatala |
+| 2. | építésügy | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -60,6 +60,6 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 13. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 14. | kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 14. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^3]: A 2. melléklet a 70/2012. (IV. 11.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 70/2012. (IV. 11.) Korm. rendelet 2. §-a, a 394/2012. (XII. 20.) Korm. rendelet 56. §-a szerint módosított szöveg.
