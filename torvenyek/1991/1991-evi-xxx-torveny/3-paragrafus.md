@@ -1,1 +1,1 @@
-3. § A kárigény érvényesítésére irányuló perre helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék kizárólagosan illetékes.
+3. § A kárigény érvényesítésére irányuló perre járásbíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék kizárólagosan illetékes.
