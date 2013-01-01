@@ -14,8 +14,6 @@ a) a Rendőrségi szolgálati jelnél: világoskék;
 
 b) a Katasztrófavédelmi szolgálati jelnél: skarlátpiros,
 
-c)[^2]
+c) a Büntetés-végrehajtási szolgálati jelnél: sötétlila.
 
 3. A Szolgálati Jel eredeti formában csak dísz- és társasági öltözeten viselhető. A kitüntetést a bal felső zubbonyzseb fölé úgy kell elhelyezni, hogy az alsó széle a zsebtakaró felső varrását érintse. A kitüntetést úgy kell viselni, hogy a zsebtakaró középvonalával egybeessen. A kitűző változat a köznapi, a szolgálati és a megengedett öltözeten is viselhető a fenti előírás szerint.
-
-[^2]: A 21. melléklet 2. pont c) alpontja az 58. § (2) bekezdése alapján 2013. január 1. napján lép hatályba.
