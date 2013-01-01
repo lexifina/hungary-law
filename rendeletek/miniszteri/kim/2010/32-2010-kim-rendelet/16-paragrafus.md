@@ -1,10 +1,10 @@
-16. § (1)[^10] A közjogi szervezetszabályozó eszköz kibocsátójának teljes megjelölése
+16. § (1)[^13] A közjogi szervezetszabályozó eszköz kibocsátójának teljes megjelölése
 
 a) az Országgyűlés esetén „Az Országgyűlés”,
 
 b) a Kormány kivételével a testületi központi államigazgatási szerv esetén nagybetűs névelőt követően a szerv feladat- és hatásköréről rendelkező jogszabályban meghatározott megnevezése,
 
-c) az Alkotmánybíróság esetén „Az Alkotmánybíróság”,
+c)[^14] az Alkotmánybíróság esetén „Az Alkotmánybíróság teljes ülése”,
 
 d) a Költségvetési Tanács esetén „A Költségvetési Tanács”,
 
@@ -34,13 +34,13 @@ p) jegyző esetén a helyi önkormányzat megnevezését követően a „jegyző
 
 q) a Jat. 23. § (5) bekezdése esetén a Jat. 23. § (5) bekezdés a)–f) pontjában meghatározott szervre e rendeletben meghatározott teljes megjelölését követően a hivatali szerv vezetője tisztségének megnevezése a birtokos raggal és birtokos személyjellel.
 
-(2)[^11] A közjogi szervezetszabályozó eszköz kibocsátója megjelölésének rövidítése
+(2)[^15] A közjogi szervezetszabályozó eszköz kibocsátója megjelölésének rövidítése
 
 a) az Országgyűlés esetén „OGY”,
 
 b) a Kormány kivételével a testületi központi államigazgatási szerv esetén a szerv feladat- és hatásköréről rendelkező jogszabályban meghatározott, ennek hiányában a szerv által a kibocsátáskor meghatározott rövid megjelölés,
 
-c) az Alkotmánybíróság esetén „AB”,
+c)[^16] az Alkotmánybíróság esetén „AB Tü.”,
 
 d) a Költségvetési Tanács esetén „KT”,
 
@@ -60,5 +60,7 @@ k) minisztérium hivatali szervezetének vezetője esetén a minisztériumot vez
 
 (3) A közjogi szervezetszabályozó eszköz (1)–(2) bekezdésben nem meghatározott kibocsátójának teljes megjelölésére és rövidítésére a jogszabály megalkotójának teljes megjelölésére és rövidítésére vonatkozó szabályokat kell alkalmazni.
 
-[^10]: A 16. § (1) bekezdése a 44/2011. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.
-[^11]: A 16. § (2) bekezdése a 44/2011. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 16. § (1) bekezdése a 44/2011. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 16. § (1) bekezdés c) pontja az 52/2012. (XII. 22.) KIM rendelet 7. § d) pontja szerint módosított szöveg.
+[^15]: A 16. § (2) bekezdése a 44/2011. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.
+[^16]: A 16. § (2) bekezdés c) pontja az 52/2012. (XII. 22.) KIM rendelet 7. § e) pontja szerint módosított szöveg.
