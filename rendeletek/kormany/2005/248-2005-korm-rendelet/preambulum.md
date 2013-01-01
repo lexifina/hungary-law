@@ -1,1 +1,0 @@
-Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 90. §-ának (5) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
