@@ -4,4 +4,4 @@
 
 (3)
 
-(4) Hatályát veszti a 76. § (2) bekezdése.
+(4)

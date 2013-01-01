@@ -8,7 +8,7 @@ b) az ingatlan használata rendszeres emberi tartózkodáshoz kötődik.
 
 (3) Ha a bekötés feltételei teljesültek, a víziközmű-szolgáltató az ingatlan víziközmű-rendszerbe történő bekötését nem tagadhatja meg.
 
-(4) Ha az ingatlan tulajdonosa az (1) és (2) bekezdésben foglalt kötelezettségét nem teljesíti, a települési önkormányzat jegyzője hivatalból kötelezi az ingatlan beköttetésére.
+(4) Ha az ingatlan tulajdonosa az (1) és (2) bekezdésben foglalt kötelezettségét nem teljesíti, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) hivatalból kötelezi az ingatlan beköttetésére.
 
 (5) Adott ingatlan tekintetében mentesül a tulajdonos
 

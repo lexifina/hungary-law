@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-209-00-00
 | 2012-07-15 | 2012. évi CVI. törvény | 2011-209-00-00.6 |
 | 2012-07-16 | 2010. évi CXXX. törvény | 2011-209-00-00.7 |
 | 2012-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-209-00-00.8 |
+| 2013-01-01 | 2012. évi XCIII. törvény | 2011-209-00-00.9 |
