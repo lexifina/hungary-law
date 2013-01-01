@@ -1,0 +1,10 @@
+## 35/A. §[^125] A járási hivatal megvizsgálja, hogy a kérelmező az Szt. 50. § (1) vagy (2) bekezdése szerinti közgyógyellátásra jogosult-e. Amennyiben a kérelmező számára az Szt. 50. § (1) vagy (2) bekezdése szerinti jogcímen az ellátást nem lehet megállapítani, úgy a járási hivatal a kérelmet elutasítja, és ezzel egyidejűleg tájékoztatja a kérelmezőt arról, hogy a jegyzőnél az Szt. 50. § (3) bekezdése szerinti közgyógyellátás megállapítását kérheti.
+
+35/B. §[^126] (1) A jegyzőnél benyújtott kérelem esetén a jegyzőnek meg kell vizsgálnia, hogy a járási hivatalnál ugyanazon kérelmezőre tekintettel nincs-e folyamatban eljárás közgyógyellátás megállapítása iránt, ideértve a járási hivatal által a közgyógyellátásra való jogosultság tárgyában hozott döntés elleni fellebbezés elbírálására irányuló eljárást is. Ha a jegyző azt állapítja meg, hogy a járási hivatalnál az ellátás megállapítása iránti eljárás folyamatban van, úgy a Ket. 32. § (1) bekezdése alapján az eljárását felfüggeszti. Ha a járási hivatalnál nincs folyamatban közgyógyellátás megállapítása iránti eljárás, a jegyző a kérelmet az illetékes járási hivatalhoz átteszi.
+
+(2) Amennyiben a járási hivatal az (1) bekezdés szerint áttett közgyógyellátás megállapítása iránti kérelmet elutasítja, az elutasító döntést – annak jogerőre emelkedését követően –, továbbá az ügyfél közgyógyellátás megállapítása iránti kérelmét és annak mellékleteit megküldi a kérelmet áttevő jegyzőnek. A jegyző öt napon belül megindítja az eljárást az Szt. 50. § (3) bekezdése szerinti közgyógyellátás megállapítása iránt.
+
+(3) A járási hivatalnak a közgyógyellátás megállapítása iránt előtte folyamatban lévő eljárásban az Szt. 50. § (1) és (2) bekezdése szerinti közgyógyellátás jogosultsági feltételeinek fennállását egyaránt vizsgálnia kell. Az Szt. 50. § (2) bekezdése szerinti jogcímen közgyógyellátás akkor állapítható meg, ha az ügyfél az Szt. 50. § (1) bekezdése alapján közgyógyellátásra nem jogosult.
+
+[^125]: A 35/A. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be.
+[^126]: A 35/B. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be.

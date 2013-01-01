@@ -38,7 +38,7 @@
 
 ## A jogosult aláírása
 
-14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^204]
+14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^222]
 
 A természetben nyújtott lakásfenntartási támogatás folyósításához szükséges adatszolgáltatás formai követelményei
 
@@ -70,4 +70,4 @@ A jegyző az adatokat táblázat formájában, *.xls, vagy *.csv kiterjesztésű
 
 7 Az „Utalás mindösszesen” sorban a szolgáltató számára az adott hónapban átutalandó összeget kell feltűntetni, amelynek meg kell egyeznie „A támogatás havi összegének”, illetve – ahol kitöltött - „A támogatás eseti összegének” összeadott értékével. Amennyiben az adott ügyfél esetében „A támogatás eseti összege” nem került kitöltésre, úgy ott „A támogatás havi összegét” kell figyelembe venni. (pl: az 1. ügyfélnél „A támogatás eseti összege”: 5 000 Ft + a 2. ügyfélnél „A támogatás havi összege”: 5 600 Ft, vagyis az „Utalás mindösszesen”: 5 000 Ft + 5 600 Ft = 10 600 Ft).
 
-[^204]: A 14. számú mellékletet a 331/2011. (XII. 29.) Korm. rendelet 16. § c) pontja iktatta be.
+[^222]: A 14. számú mellékletet a 331/2011. (XII. 29.) Korm. rendelet 16. § c) pontja iktatta be.

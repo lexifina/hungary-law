@@ -102,7 +102,7 @@
 
 ## Keresőtevékenységből származó jövedelemnek minősül minden olyan bevétel, amely munkavégzésből származik - például: munkabér, megbízási díj, vállalkozásból származó jövedelem.
 
-## Egyéb jövedelmek között kell feltüntetni a táppénzt, a gyermekgondozási segélyt, a gyermeknevelési támogatást, a munkaügyi központ vagy az önkormányzat által folyósított pénzbeli ellátásokat (például: álláskeresési támogatás, rendszeres szociális segély, foglalkoztatást helyettesítő támogatás, ápolási díj), valamint azon jövedelmeket, amelyek az előző két rovatban nem tüntethetők fel.
+## Egyéb jövedelmek között kell feltüntetni a táppénzt, a gyermekgondozási segélyt, a gyermeknevelési támogatást, a munkaügyi központ vagy az önkormányzat vagy a járási hivatal által folyósított pénzbeli ellátásokat (például: álláskeresési támogatás, rendszeres szociális segély, foglalkoztatást helyettesítő támogatás, ápolási díj), valamint azon jövedelmeket, amelyek az előző két rovatban nem tüntethetők fel.
 
 ## Ha a jövedelemből munkavállalói járulékot, személyi jövedelemadót, egészségbiztosítási és nyugdíjjárulékot, magán-nyugdíjpénztári tagdíjat fizetnek, akkor jövedelemnek e befizetésekkel csökkentett összegét kell a kérelemben szerepeltetni.
 
@@ -118,6 +118,6 @@
 
 ## A jövedelemről a jövedelem típusának megfelelő iratot vagy annak másolatát a kérelemhez mellékelni szükséges.
 
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^193]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^211]
 
-[^193]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja, a 95/2012. (V. 15.) Korm. rendelet 35. § (2) bekezdés b)–c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
+[^211]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja, a 95/2012. (V. 15.) Korm. rendelet 35. § (2) bekezdés b)–c) pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés t) és u) pontja, a 296/2012. (X. 17.) Korm. rendelet 20. § b–e) pontjai szerint módosított szöveg.

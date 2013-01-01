@@ -114,7 +114,7 @@
 
 | 4. | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |  |  |  |  |  |
 
-| 5. | Önkormányzat és munkaügyi szervek által folyósított ellátások |  |  |  |  |  |  |
+| 5. | Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások |  |  |  |  |  |  |
 
 | 6. | Egyéb jövedelem |  |  |  |  |  |  |
 
@@ -142,7 +142,7 @@
 
 ## Jelölje aláhúzással, ha csatolta:
 
-## a) annak a munkaügyi központnak vagy kirendeltségének az igazolását, amely a munkanélküli járadékot, álláskeresési járadékot, álláskeresési segélyt, vállalkozói járadékot folyósította, vagy amellyel a kérelem benyújtása előtt együttműködött;
+## a) annak a megyei munkaügyi központnak vagy a munkaügyi kirendeltségnek az igazolását, amely a munkanélküli járadékot, álláskeresési járadékot, álláskeresési segélyt, vállalkozói járadékot folyósította, vagy amellyel a kérelem benyújtása előtt együttműködött;
 
 ## b) az együttműködésre kijelölt szerv igazolását a 2009. január 1-jét megelőzően teljesített megelőző együttműködésről;
 
@@ -156,7 +156,7 @@
 
 ## Amennyiben Ön
 
-## - az a) pontban foglalt igazolást nem csatolta, a hivatal által adatszolgáltatási kérelemmel megkereshető munkaügyi központ (kirendeltség) megnevezése és címe:
+## - az a) pontban foglalt igazolást nem csatolta, a hivatal által adatszolgáltatási kérelemmel megkereshető munkaügyi központ [járási (fővárosi kerületi) hivatal munkaügyi kirendeltsége] megnevezése és címe:
 
 ## ................................................................................................................................................................
 
@@ -262,7 +262,7 @@
 
 ## 5.2.7.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
-## 5.2.7.5. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a foglalkoztatást helyettesítő támogatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+## 5.2.7.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a foglalkoztatást helyettesítő támogatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
 ## 5.2.7.6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
 
@@ -294,19 +294,19 @@
 
 ## b) akinek az álláskeresési támogatás folyósítását keresőtevékenység folytatása miatt a folyósítási időtartam lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az álláskeresési támogatásra nem szerez jogosultságot, vagy
 
-## c) aki az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőző két évben a munkaügyi központtal, annak kirendeltségével, vagy 2009. január 1-jét megelőzően a lakó-, tartózkodási hely szerint illetékes települési önkormányzat által kijelölt szervvel (a továbbiakban: együttműködésre kijelölt szerv) legalább egy év időtartamban együttműködött, vagy
+## c) aki az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőző két évben a megyei munkaügyi központtal, a munkaügyi kirendeltséggel, vagy 2009. január 1-jét megelőzően a lakó-, tartózkodási hely szerint illetékes települési önkormányzat által kijelölt szervvel (a továbbiakban: együttműködésre kijelölt szerv) legalább egy év időtartamban együttműködött, vagy
 
-## d) akinek az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, rokkantsági ellátás, rehabilitációs ellátás, a rehabilitációs járadék, az ideiglenes özvegyi nyugdíj, továbbá az árvaellátás megszűnése miatt az özvegyi nyugdíj folyósítását megszüntették, és közvetlenül a kérelem benyújtását megelőzően a munkaügyi központtal, illetve annak kirendeltségével vagy az együttműködésre kijelölt szervvel legalább három hónapig együttműködött,
+## d) akinek az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, rokkantsági ellátás, rehabilitációs ellátás, a rehabilitációs járadék, az ideiglenes özvegyi nyugdíj, továbbá az árvaellátás megszűnése miatt az özvegyi nyugdíj folyósítását megszüntették, és közvetlenül a kérelem benyújtását megelőzően a megyei munkaügyi központtal, a munkaügyi kirendeltséggel vagy az együttműködésre kijelölt szervvel legalább három hónapig együttműködött,
 
 ## e) akinek az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőzően fennálló aktív korúak ellátására való jogosultsága nem az együttműködési kötelezettség megszegése miatt szűnt meg, feltéve, hogy az aktív korúak ellátása megállapítását a kérelmező a korábbi jogosultság megszüntetésétől számított harminchat hónapon belül kérte.
 
 ## 5.3.4. A kérelemhez vagy mellékelni kell az alábbi igazolások valamelyikét, vagy meg kell adni azon szerv nevét és címét, ahonnan az irat beszerezhető, így:
 
-## - az 5.3.3.a) pontban meghatározott esetben: a munkaügyi központnak (kirendeltségének) az igazolása a munkanélküli járadék, az álláskeresési járadék, álláskeresési segély folyósítása időtartamának lejártáról, valamint arról, hogy a nem foglalkoztatott személy álláskeresést ösztönző juttatásban nem részesül.
+## - az 5.3.3.a) pontban meghatározott esetben: a munkaügyi központnak, illetve a munkaügyi kirendeltségnek az igazolása a munkanélküli járadék, az álláskeresési járadék, álláskeresési segély folyósítása időtartamának lejártáról, valamint arról, hogy a nem foglalkoztatott személy álláskeresést ösztönző juttatásban nem részesül.
 
-## - az 5.3.3.b) pontban meghatározott esetben: a munkaügyi központ (kirendeltség) igazolása arról, hogy az álláskeresési támogatásra való jogosultsága nem áll fenn, továbbá a munkaviszonyban töltött azon napjainak számáról, amelyeket az álláskeresési támogatás megállapításánál figyelembe kell venni.
+## - az 5.3.3.b) pontban meghatározott esetben: a munkaügyi központ [járási (fővárosi kerületi) hivatal munkaügyi kirendeltsége] igazolása arról, hogy az álláskeresési támogatásra való jogosultsága nem áll fenn, továbbá a munkaviszonyban töltött azon napjainak számáról, amelyeket az álláskeresési támogatás megállapításánál figyelembe kell venni.
 
-## - az 5.3.3.c) és d) pontokban meghatározott esetben: a munkaügyi központ (kirendeltség) vagy az együttműködésre kijelölt szerv igazolása a megelőző együttműködés teljesítéséről.
+## - az 5.3.3.c) és d) pontokban meghatározott esetben: a munkaügyi központ [járási (fővárosi kerületi) hivatal munkaügyi kirendeltsége] vagy az együttműködésre kijelölt szerv igazolása a megelőző együttműködés teljesítéséről.
 
 ## - az 5.3.3.d) és e) pontokban meghatározott esetben: a korábban megállapított szociális ellátások megszüntetéséről szóló határozat vagy a folyósító szerv igazolása, ha a korábbi ellátásokat nem a kérelmező jelenlegi lakcíme szerint illetékes települési önkormányzat folyósította.
 
@@ -316,7 +316,7 @@
 
 ## 5.3.7. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója nem cselekvőképes, helyette a törvényes képviselője jogosult az aláírásra.
 
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^194]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^212]
 
 ## KÉRELEM
 
@@ -472,4 +472,4 @@ A kérelem 2. c) pontját abban az esetben kell kitölteni, ha az ápolt személ
 
 A kérelemhez minden esetben mellékelni kell a háziorvos igazolását.
 
-[^194]: A 4. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának aj) alpontja, a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bh) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 314/2009. (XII. 28.) Korm. rendelet 37. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés b) pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^212]: A 4. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának aj) alpontja, a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bh) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 314/2009. (XII. 28.) Korm. rendelet 37. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés b) pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.

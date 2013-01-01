@@ -54,7 +54,7 @@
 
 | 4. | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |  |  |  |  |  |
 
-| 5. | Önkormányzat és munkaügyi szervek által folyósított ellátások |  |  |  |  |  |  |
+| 5. | Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások |  |  |  |  |  |  |
 
 | 6. | Egyéb jövedelem |  |  |  |  |  |  |
 
@@ -94,6 +94,6 @@
 
 | * Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha bejelentett lakó- és tartózkodási hellyel is rendelkezik. |
 
-12/a. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^202]
+12/a. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^220]
 
-[^202]: A 12/a. számú mellékletet a 133/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja. Újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § b) pontja iktatta be.
+[^220]: A 12/a. számú mellékletet a 133/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja. Újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § b) pontja iktatta be.
