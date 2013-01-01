@@ -1,0 +1,1 @@
+## 33. § Az egyes mezőgazdasági állatfajok spermatároló központjainak létesítéséről és üzemeltetésüknek rendjéről 49/2007. (VI. 26.) FVM rendelet 10. § (10) bekezdésében a „kerületi” szövegrész helyébe a „megyei kormányhivatal járási hivatala járási állat-egészségügyi és élelmiszer-ellenőrző” szöveg lép.

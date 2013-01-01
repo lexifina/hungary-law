@@ -1,0 +1,1 @@
+## 54. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 21/2012. (III. 9.) VM rendelet 4. § (5) bekezdésében a „megyei kormányhivatal kerületi állat-egészségügyi és élelmiszerellenőrző hivatalának falugazdásza” szövegrész helyébe a „falugazdász” szöveg lép.

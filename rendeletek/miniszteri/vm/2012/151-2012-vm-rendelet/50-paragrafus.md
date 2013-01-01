@@ -1,0 +1,1 @@
+## 49. § A LEADER Helyi Akciócsoportok működéséről szóló 54/2011. (VI. 10.) VM rendelet 3. § (1) bekezdésében és 13. § (1) bekezdés felvezető szövegében a „megyei bírósághoz” szövegrész helyébe a „közigazgatási és munkaügyi” szöveg lép.
