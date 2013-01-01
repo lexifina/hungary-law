@@ -2,7 +2,7 @@
 
 (2) Ha az önkormányzati tanács megállapítja, hogy az önkormányzati rendelet vagy annak valamely rendelkezése más jogszabályba ütközik,
 
-a) az önkormányzati rendeletet vagy annak rendelkezését megsemmisíti, vagy kimondja, hogy a kihirdetett, de még hatályba nem lépett önkormányzati rendelet vagy annak rendelkezése nem lép hatályba,
+a) az önkormányzati rendeletet vagy annak rendelkezését megsemmisíti, megállapítja a hatályon kívül helyezett önkormányzati rendelet vagy annak rendelkezése más jogszabályba ütközését, vagy kimondja, hogy a kihirdetett, de még hatályba nem lépett önkormányzati rendelet vagy annak rendelkezése nem lép hatályba,
 
 b) elrendeli a határozat Magyar Közlönyben való közzétételét, és
 

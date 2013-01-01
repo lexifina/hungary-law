@@ -6,4 +6,4 @@
 
 (4) A megsemmisítés – az (5) bekezdésben meghatározott kivétellel – nem érinti a hatályvesztést megelőzően létrejött jogviszonyokat, valamint a belőlük származó jogokat és kötelezettségeket.
 
-(5) Ha az önkormányzati tanács bírói kezdeményezés alapján semmisíti meg az önkormányzati rendeletnek a bíróság előtt folyamatban lévő ügyben alkalmazandó rendelkezését, az önkormányzati rendelet megsemmisített rendelkezése nem alkalmazható a bíróság előtt folyamatban lévő egyedi ügyben, valamint valamennyi, a megsemmisítés időpontjában valamely bíróság előtt folyamatban lévő egyedi ügyben.
+(5) Ha az önkormányzati rendeletnek a bíróság előtt folyamatban lévő ügyben alkalmazandó rendelkezésének megsemmisítésére, illetve más jogszabályba ütközésének megállapítására bírói kezdeményezés alapján kerül sor, az önkormányzati rendelet megsemmisített, illetve más jogszabályba ütközőnek ítélt rendelkezése nem alkalmazható a bíróság előtt folyamatban lévő egyedi ügyben, valamint valamennyi, a megsemmisítés időpontjában valamely bíróság előtt folyamatban lévő egyedi ügyben.

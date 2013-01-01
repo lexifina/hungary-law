@@ -12,6 +12,6 @@ b) az ítélőtábla,
 
 c) a törvényszék,
 
-d) a járásbíróság és
+d) a járásbíróság és a kerületi bíróság (a továbbiakban együtt: járásbíróság) és
 
 e) a közigazgatási és munkaügyi bíróság.
