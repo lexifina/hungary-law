@@ -1,27 +1,25 @@
 ## A beruházáslebonyolító
 
-## 8. § A jogszabályban meghatározott jogosultsággal rendelkező beruházáslebonyolító feladata – ha a felek eltérően nem állapodnak meg – a 7. § (2) bekezdésben foglaltak keretében az építtető általános megbízottjaként
+8. §[^31] (1) Az építtető általános megbízottjaként a beruházáslebonyolító feladata az erre irányuló megállapodásban foglaltaktól függően
 
-a) szerződések megkötése az építtető nevében,
+a) az Étv. 38/B. § (1) bekezdésében meghatározott feladatok elvégzése,
 
-b) a beruházás megindításához szükséges személyi feltételek meghatározása, döntések előkészítése,
+b) szerződések megkötése az építtető nevében,
 
-c) szükség szerint előtanulmányok (különösen vázlatterv, tanulmányterv, megvalósíthatósági tanulmány) készíttetése, az építőipari kivitelezési tevékenység megvalósításához szükséges hatósági engedélyek megszerzése,
+c) szükség szerint előtanulmányok, így különösen vázlatterv, tanulmányterv, megvalósíthatósági tanulmány készíttetése,
 
-d) a beruházás gazdasági számításainak előkészítése (ráfordítások, árindex, megtérülési mutatók, hozam stb.),
+d) a beruházás gazdasági számításainak előkészítése,
 
-e) a megbízás tárgyára vonatkozó költségbecslés készítése, elő- és utókalkulációs elemzések készítése,
+e) a megbízás tárgyára vonatkozó költségbecslés készíttetése, elő- és utókalkulációs elemzések készíttetése,
 
-f)–g)[^14]
+f) az építési beruházás ajánlati, részvételi vagy ajánlattételi felhívásának, dokumentációjának összeállításában, kiegészítő tájékoztatás megadásában, továbbá az ajánlatok értékelésében történő közreműködés,
 
-h) a kivitelezési dokumentációnak az egyes építményfajtáknak megfelelő módon és mértékben történő elkészíttetése,
+g) az építtető által vállalt szolgáltatások biztosítása,
 
-i) a tervező, a fővállalkozó kivitelező, az építési műszaki ellenőr kiválasztása és tevékenységük koordinációja,
+h) az árviták rendezése, valamint
 
-j) az építtető által vállalt szolgáltatások biztosítása,
+i) az építési munkaterület kiválasztása, biztosítása és átadása a kivitelező részére.
 
-k) az árviták rendezése,
+(2) A beruházáslebonyolító az építtetővel kötött megállapodás alapján – a 6. §-ban felsorolt résztvevők tevékenységének kivételével – minden olyan feladat vagy tevékenység ellátására jogosult, ami az építési tevékenység szakszerű megvalósításának ellenőrzésével vagy irányításával kapcsolatos.
 
-l) az építési munkaterület kiválasztása, biztosítása és átadása a kivitelező részére.
-
-[^14]: A 8. § f)–g) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^31]: A 8. § a 322/2012. (XI. 16.) Korm. rendelet 64. §-ával megállapított szöveg.

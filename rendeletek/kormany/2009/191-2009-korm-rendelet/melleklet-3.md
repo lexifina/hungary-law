@@ -4,389 +4,367 @@
 
 ## ÉPÍTÉSI NAPLÓ
 
-## Építmény megnevezése:
+## Építmény megnevezése: ..........................................................................................................
 
-## Címe:
+## Címe: ........................................................................................................................................
 
-## A napló megkezdésének kelte:  év hó nap
+## A napló megkezdésének kelte: ........................ év ....................................... hó ............... nap
 
-## Lezárásának kelte:  év hó nap
+## Lezárásának kelte: ........................................... év ....................................... hó ............... nap
 
 ## Nyilvántartási rész: tartalomjegyzék minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: ..................................................................................................
 
-## Oldalszám:   /Tartalom
+## Oldalszám: ............................ /Tartalom
 
 ## Tartalomjegyzék
 
 | Oldal sorszáma | Befűzés dátuma | Saját példányát átvette |
 
-| megbízó (építtető) | vállalkozó |
+|  |  | megbízó (építtető) | vállalkozó |
 
 |  |  | dátum | aláírás | dátum | aláírás |
 
 ## Nyilvántartási rész: szerződéses adatok minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: .................................................................................................
 
-## Oldalszám:   /Szerződés
+## Oldalszám: .................... /Szerződés
 
 ## Nyilvántartási rész
 
 ## Az építés-szerelési munka:
 
-## Megnevezése:
+## Megnevezése............................................................................................................................
 
-## Helye (település, utca, házszám, hrsz.):
+## Helye (település, utca, házszám, hrsz.): ..................................................................................
 
 ## Jellege*: új építés, bontás, átalakítás, fenntartás, felújítás, karbantartás, egyéb:
 
-## * aláhúzandó
+| * aláhúzandó |
 
 ## A szerződés főbb adatai:
 
-## Kelte:  év hó nap
+## Kelte: ....................................................................... év ............................... hó ............... nap
 
-## Munkaterület átadás:  év hó nap
+## Munkaterület átadás: .............................................. év ............................... hó ............... nap
 
-## Műszaki átadás-átvétel szerződés szerint:  év hó nap
+## Műszaki átadás-átvétel szerződés szerint: ............. év ............................... hó ............... nap
 
 ## Részhatáridők:
 
 ## Megnevezése:
 
-## év hó nap
+## .......................................................... év ..................................................... hó .................. nap
 
-## év hó nap
+## .......................................................... év ..................................................... hó .................. nap
 
-## év hó nap
+## .......................................................... év ..................................................... hó .................. nap
 
-## év hó nap
+## .......................................................... év ..................................................... hó .................. nap
 
-## év hó nap
+## .......................................................... év ..................................................... hó .................. nap
+
+## .......................................................... év ..................................................... hó .................. nap
 
 ## Szerződésmódosítások:
 
-## Kelte:   év  hó  nap
+## Kelte: .............................................. év ...................................................... hó .................. nap
 
-## Kelte:   év  hó  nap
+## Kelte: .............................................. év ...................................................... hó .................. nap
 
-## Kelte:   év  hó  nap
+## Kelte: .............................................. év ...................................................... hó .................. nap
 
-## Kelte:   év  hó  nap
+## Kelte: .............................................. év ...................................................... hó .................. nap
 
 ## Nyilvántartási rész: megrendelői (építtetői) adatok minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: .................................................................................................
 
-## Oldalszám:   /Megrendelő
+## Oldalszám: .................... / Megrendelő
 
 ## Nyilvántartási rész
 
 ## A megrendelő (építtető):
 
-## Neve (elnevezése):
+## Neve (elnevezése): ....................................................................................................................
 
-## Címe (székhelye):
+## Címe (székhelye): .....................................................................................................................
 
-## Naplóbejegyzésre jogosult képviselője:
+## Naplóbejegyzésre jogosult képviselője: ..................................................................................
 
 ## Műszaki ellenőr:
 
 ## Az építmény rendeltetése szerinti:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
 ## A beruházáslebonyolító:
 
-## Neve (elnevezése):
+## Neve (elnevezése): ....................................................................................................................
 
-## Címe (székhelye):
+## Címe (székhelye): .....................................................................................................................
 
-## Naplóbejegyzésre jogosult képviselője:
+## Naplóbejegyzésre jogosult képviselője: ..................................................................................
 
 ## Nyilvántartási rész: vállalkozó kivitelezői adatok minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: ..................................................................................................
 
-## Oldalszám:   /Vállalkozó
+## Oldalszám: .................... /Vállalkozó
 
 ## Nyilvántartási rész
 
 ## A vállalkozó kivitelező:
 
-## Neve (elnevezése):
+## Neve (elnevezése): ....................................................................................................................
 
-## Címe (székhelye):
+## Címe (székhelye): .....................................................................................................................
 
-## Vállalkozói engedély vagy cégbírósági bejegyzés száma:
+## Vállalkozói engedély vagy cégbírósági bejegyzés száma: ......................................................
 
-## Naplóbejegyzésre jogosult képviselője:
+## Naplóbejegyzésre jogosult képviselője: ..................................................................................
 
 ## Felelős műszaki vezető:
 
 ## Az építmény rendeltetése szerinti:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
-
-## szakági:
-
-## Neve:
-
-## Címe, telefonszáma:
-
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
 ## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
+
+## ................................................. szakági:
+
+## Neve: .........................................................................................................................................
+
+## Címe, telefonszáma: .................................................................................................................
+
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
 ## Nyilvántartási rész: vállalkozó kivitelezői adatok minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: .................................................................................................
 
-## Oldalszám:   /Alvállalkozó
+## Oldalszám: .................... /Alvállalkozó
 
 ## Nyilvántartási rész
 
 ## Az alvállalkozó kivitelező:
 
-## Neve (elnevezése):
+## Neve (elnevezése): ....................................................................................................................
 
-## Címe (székhelye):
+## Címe (székhelye): .....................................................................................................................
 
-## Vállalkozói engedély vagy cégbírósági bejegyzés száma:
+## Vállalkozói engedély vagy cégbírósági bejegyzés száma: ......................................................
 
-## Naplóbejegyzésre jogosult képviselője:
+## Naplóbejegyzésre jogosult képviselője: ..................................................................................
 
-## Munkanem:
+## Munkanem: ...............................................................................................................................
 
-## Munkaterület átadás:  év hó nap
+## Munkaterület átadás: ................................................... év ............................. hó .............. nap
 
-## Szerződéses határidő  év hó nap
+## Szerződéses határidő ................................................... év ............................. hó .............. nap
 
 ## Felelős műszaki vezető:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
 ## Építési napló:
 
-## □ A vállalkozó kivitelező az alvállalkozói építési napló vezetését a szerződésben átvállalja.
+## □ A vállalkozó kivitelező az alvállalkozói építési napló vezetését a szerződésben átvállalja.
 
-## □ Az alvállalkozó önállóan vezeti.
+## □ Az alvállalkozó önállóan vezeti.
 
 ## Az alvállalkozó naplójába a vállalkozó kivitelező naplóbejegyzésre jogosult képviselője:
 
+## ..................................................................................................................................................
+
 ## Az alvállalkozó naplójába az alvállalkozó naplóbejegyzésre jogosult képviselője:
+
+## ..................................................................................................................................................
 
 ## Nyilvántartási rész: vállalkozó kivitelezői adatok minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: ...............................................................................................
 
-## Oldalszám:   /Tervező
+## Oldalszám: .................... /Tervező
 
 ## Nyilvántartási rész
 
 ## A tervező:
 
-## Neve (elnevezése):
+## Neve (elnevezése):....................................................................................................................
 
-## Címe (székhelye):
+## Címe (székhelye): .....................................................................................................................
 
 ## Tervezők:
 
 ## Az építmény jellege (rendeltetése) szerinti:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
+
+## ................................................. szakági:
+
+## Neve: .........................................................................................................................................
+
+## Címe, telefonszáma: .................................................................................................................
+
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
 ## Nyilvántartási rész: tervezői művezetői adatok minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: .................................................................................................
 
-## Oldalszám:   /Tervezői művezető
+## Oldalszám: .................... /Tervezői művezető
 
 ## Nyilvántartási rész
 
 ## A tervezői művezető:
 
-## Neve (elnevezése):
+## Neve (elnevezése): ....................................................................................................................
 
-## Címe (székhelye):
+## Címe (székhelye): .....................................................................................................................
 
 ## Tervezők:
 
 ## Az építmény rendeltetése szerinti:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
-## szakági:
+## ................................................. szakági:
 
-## Neve:
+## Neve: .........................................................................................................................................
 
-## Címe, telefonszáma:
+## Címe, telefonszáma: .................................................................................................................
 
-## Névjegyzéki bejegyzés száma:
+## Névjegyzéki bejegyzés száma: .................................................................................................
 
 ## Nyilvántartási rész: tervellenőri adatok minta
 
-## Építmény megnevezése, címe:
-
-## Oldalszám:   /Tervellenőr
+## Építmény egnevezése, címe:......................................................................................................
 
 ## Nyilvántartási rész
 
-## Tervellenőrök:
-
-## Az építmény rendeltetése szerinti:
-
-## Neve:
-
-## Címe, telefonszáma:
-
-## Névjegyzéki bejegyzés száma:
-
-## szakági:
-
-## Neve:
-
-## Címe, telefonszáma:
-
-## Névjegyzéki bejegyzés száma:
-
-## szakági:
-
-## Neve:
-
-## Címe, telefonszáma:
-
-## Névjegyzéki bejegyzés száma:
-
-## szakági:
-
-## Neve:
-
-## Címe, telefonszáma:
-
-## Névjegyzéki bejegyzés száma:
-
 ## Nyilvántartási rész: naplómellékletek minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: .................................................................................................
 
-## Oldalszám:   /Naplómelléklet
+## Oldalszám: .................... /Naplómelléklet
 
 ## Nyilvántartási rész
 
 ## Naplómelléklet:
 
-## Típusa:
+## Típusa: ......................................................................................................................................
 
-## Azonosító száma:
+## Azonosító száma: .....................................................................................................................
 
-## Mellékelt oldalak száma:
+## Mellékelt oldalak száma: ..........................................................................................................
 
-## Kelte:   év  hó  nap
+## Kelte: ................................................... év ................................................. hó .................. nap
 
-## Naplóhoz csatolás kelte:   év  hó  nap
+## Naplóhoz csatolás kelte: .................... év .................................................. hó ................. nap
 
 ## Naplórész minta
 
-## Építmény megnevezése, címe:
+## Építmény megnevezése, címe: .................................................................................................
 
-## Kötetszám:
+## Kötetszám: ................................................................................................................................
 
-## Oldalszám:
+## Oldalszám: ................................................................................................................................
 
 ## Építtetői fedezetkezelő
 
-## Neve (elnevezése):
+## Neve (elnevezése): ....................................................................................................................
 
-## Címe (székhelye):
+## Címe (székhelye): .....................................................................................................................
 
-## Képviseletében eljáró személy neve:
+## Képviseletében eljáró személy neve: .......................................................................................
 
-## Elérhetősége:
+## Elérhetősége: ............................................................................................................................
 
 ## Nyilvántartási rész
 
@@ -400,33 +378,39 @@
 
 ## Az alvállalkozó kivitelező által kitöltve
 
-## – az alvállalkozó kivitelező megnevezése, címe vagy székhelye, adószáma, pénzforgalmi számlaszáma, elérhetősége, a képviseletében eljáró személy neve vagy megnevezése, címe vagy székhelye, és elérhetősége,
+## - az alvállalkozó kivitelező megnevezése, címe vagy székhelye, adószáma, pénzforgalmi számlaszáma, elérhetősége, a képviseletében eljáró személy neve vagy megnevezése, címe vagy székhelye, és elérhetősége,
 
-## – az építési munkaterület pontos körülírása (cím, helyrajzi szám),
+## - az építési munkaterület pontos körülírása (cím, helyrajzi szám),
 
-## – a szerződés tárgyában megjelölt vállalt építőipari kivitelezési tevékenység vagy építési-szerelési munka pontos megnevezése, az építési tevékenységre vonatkozó követelmény (mennyiségi és minőségi mutatók) meghatározásával, a kivitelezés szakaszolása esetén szakaszokra bontva,
+## - a szerződés tárgyában megjelölt vállalt építőipari kivitelezési tevékenység vagy építési-szerelési munka pontos megnevezése, az építési tevékenységre vonatkozó követelmény (mennyiségi és minőségi mutatók) meghatározásával, a kivitelezés szakaszolása esetén szakaszokra bontva,
 
-## – a kivitelezési tevékenység kezdő és befejezési időpontja, a vállalt teljesítési határidők részletesen, részteljesítés esetén a részteljesítés kezdő és befejezési időpontja,
+## - a kivitelezési tevékenység kezdő és befejezési időpontja, a vállalt teljesítési határidők részletesen, részteljesítés esetén a részteljesítés kezdő és befejezési időpontja,
 
-## – a vállalkozói díj összege, részteljesítés esetén a teljesítés ellenértéke,
+## - a vállalkozói díj összege, részteljesítés esetén a teljesítés ellenértéke,
 
-## – a fizetési határnap,
+## - a fizetési határnap,
 
-## – az ellenérték kiegyenlítésének igazolása.
+## - az ellenérték kiegyenlítésének igazolása.
 
 ## Az ellenszolgáltatásra kötelezett vállalkozó kivitelező által kitöltve
 
-## – a kiállított teljesítésigazolásban megjelölt ellenérték.
+## - a kiállított teljesítésigazolásban megjelölt ellenérték.
 
 ## Az építtetői fedezetkezelő által megjelenítve
 
-## – a kifizetésből történő visszatartási kötelezettség teljesítése,
+## - a kifizetésből történő visszatartási kötelezettség teljesítése,
 
-## – értesítés küldése, ha a fővállalkozó kivitelező a 18. § (6) bekezdés szerinti a kivitelezés felfüggesztésére vagy a szerződés felmondására válik jogosulttá,
+## - értesítés küldése, ha a fővállalkozó kivitelező a 18. § (6) bekezdés szerinti a kivitelezés felfüggesztésére vagy a szerződés felmondására válik jogosulttá,
 
-## – értesítés, ha az előző pont szerinti állapot fennállását az építtető a fedezet biztosításával megszüntette.
+## - értesítés, ha az előző pont szerinti állapot fennállását az építtető a fedezet biztosításával megszüntette.
 
 ## I. Naplórész
+
+## ..................................................................................................................................................
+
+## ..................................................................................................................................................
+
+## ..................................................................................................................................................
 
 ## II. Naplórész
 
@@ -440,19 +424,19 @@
 
 ## d) létszámadatok:
 
-## – műszakiak,
+## - műszakiak,
 
-## – adminisztratívak,
+## - adminisztratívak,
 
-## – kisegítők,
+## - kisegítők,
 
-## – fizikai létszám (saját és alvállalkozói szakmunkás, segédmunkás) szakmánként részletezve,
+## - fizikai létszám (saját és alvállalkozói szakmunkás, segédmunkás) szakmánként részletezve,
 
-## – összlétszám;
+## - összlétszám;
 
 ## e) napi teljesítmény adatai (címszószerű körülírásban);
 
-## A napi teljesítmény adatait építményenként részletezve kell leírni: pl. északi pillér betonozása a –0,30 m szinten, I. emeleti födém vasbetonszerelés stb. Nagyobb vasbeton szerkezeteknél az idom, keret vagy pillér számát fel kell tüntetni. Egyes főbb munkarészek kivitelezésének megkezdését és befejezését fel kell tüntetni (pl. 013 j. oszlop betonozása befejezve vagy 40/60-as csőfektetés a +228–262 m szelvényig stb.);
+## A napi teljesítmény adatait építményenként részletezve kell leírni: pl. északi pillér betonozása a -0,30 m szinten, I. emeleti födém vasbetonszerelés stb. Nagyobb vasbeton szerkezeteknél az idom, keret vagy pillér számát fel kell tüntetni. Egyes főbb munkarészek kivitelezésének megkezdését és befejezését fel kell tüntetni (pl. 013 j. oszlop betonozása befejezve vagy 40/60-as csőfektetés a +228-262 m szelvényig stb.);
 
 ## f) az építőipari kivitelezési tevékenység végzése során naponta keletkező építési-bontási hulladék mennyiségének, fajtájának megnevezése, EWC kódja [a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet alapján], elszállításának ténye, helye, bizonylata a hulladék kezeléséhez igénybe vett létesítmény neve, címe, KÜJ, KTJ száma (idecsatolandók az átvételt igazoló számlák is) a külön jogszabályban foglaltak szerint.
 

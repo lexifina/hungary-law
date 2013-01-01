@@ -14,4 +14,6 @@ b) a területi gazdasági kamara
 
 ba) a bejelentés és változás-bejelentés megtételéhez internetes kapcsolati lehetőséget, szakmai és informatikai segítséget biztosít, személyes megkeresés esetén ideértve a bejelentés kitöltését, adattartalma hiánytalanságának ellenőrzését és továbbítását, valamint
 
-bb) önállóan – vagy az Étv. 46. § (7) bekezdése szerint – helyszíni ellenőrzést végez.
+bb)[^160] önállóan, továbbá az építésfelügyeleti vagy építésügyi hatóság által bevontan helyszíni ellenőrzést végez.
+
+[^160]: A 39. § b) pont bb) alpontja a 322/2012. (XI. 16.) Korm. rendelet 92. § t) pontja szerint módosított szöveg.

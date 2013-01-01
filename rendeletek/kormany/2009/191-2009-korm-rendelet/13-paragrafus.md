@@ -38,13 +38,17 @@ lc) a szerződésben meghatározott alvállalkozói díj és a teljesítésigazo
 
 m) a kiállított teljesítésigazolásnak az alvállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől – ha szerződés vagy jogszabály átadás-átvételi eljárást határoz meg, ennek lezárásától – számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül az alvállalkozó kivitelező részére történő megküldése, és annak adatainak az alvállalkozói nyilvántartásba való felvitele,
 
-n)[^21] értesíti az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket.
+n)[^57] értesíteni az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket,
+
+o)[^58] annak ellenőrzése, hogy az építménybe csak a tervező által a kivitelezési dokumentációban meghatározott, az Étv. 41. §-a szerinti, legalább az elvárt műszaki teljesítményű építési termék kerüljön beépítésre, és a szakszerű beépítés ellenőrzése,
+
+p)[^59] az építési naplóban történő rögzítés mellett a tervező által a kivitelezési dokumentációban megjelölt építési termék helyett a megadottal azonos vagy annál jobb teljesítményértékű helyettesítő építési termék kiválasztása a tervező jóváhagyásával és az építtető egyetértésével.
 
 (4) A felelős műszaki vezető – a külön jogszabályban meghatározottak szerint – az építési munkaterületről származó természetes építőanyagok és a bontott építési termékek – szükség szerint szakértővel történő – vizsgálatát követően dönt azok kezeléséről, építési célra való megfelelősségéről, ismételt felhasználhatóságáról, beépíthetőségéről. Döntését az építési naplóba be kell jegyeznie.
 
 (5) A vállalkozó kivitelező felelős műszaki vezetőjének feladata az (1)–(4) bekezdésben meghatározottakon túlmenően
 
-a) az alvállalkozó kivitelezők felelős műszaki vezetőivel és a szakági felelős műszaki vezetőkkel való együttműködés, a velük történő egyeztetések koordinálása, tevékenységük összehangolása,
+a)[^60] az alvállalkozó kivitelezővel, az alvállalkozó kivitelezők felelős műszaki vezetőivel és a szakági felelős műszaki vezetőkkel való együttműködés, a velük történő egyeztetések koordinálása, tevékenységük összehangolása,
 
 b) a használatbavételi engedélyezési eljáráshoz szükséges felelős műszaki vezetői nyilatkozat megadása az alvállalkozói és a szakági felelős műszaki vezetői nyilatkozatok alapján.
 
@@ -52,17 +56,10 @@ b) a használatbavételi engedélyezési eljáráshoz szükséges felelős műsz
 
 (7) A felelős műszaki vezető egyes tevékenységek (pl. munkahelyi irányítás), illetve építési-szerelési szakterületek irányításával a tevékenységnek megfelelő – külön jogszabály szerinti – képesítéssel rendelkező személyt is megbízhat.
 
-(8)[^22] Az építmények olyan jellegű felújítási, helyreállítási, átalakítási vagy korszerűsítési tevékenységét, melynek során
+(8)[^61] Az építőipari kivitelezési munka jellegének megfelelő szakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet olyan építőipari kivitelezési tevékenységet, melynek teljesítéséhez nem vesz igénybe további alvállalkozót.
 
-a) az építmény tartószerkezeti rendszere nem változik meg, vagy
-
-b) az építmény tartószerkezetének teherbíró képességét befolyásoló olyan mértékű teherváltozás – írásos szakértői véleménnyel igazoltan – nem következik be, mely a tartószerkezet megerősítését, elbontását, megváltoztatását tenné szükségessé, továbbá
-
-c) ha égéstermék elvezetésére szolgáló bármilyen szerkezetű égéstermék-elvezető berendezés építésére nem kerül sor, illetve
-
-d) az építmény homlokzatának megváltoztatása (kivéve a védett építményeket) nem jár együtt annak teherhordó szerkezeti változtatásával,
-
-a munka jellegének megfelelő szakmunkás-képesítéssel rendelkező személy vállalkozó kivitelezőként felelős műszaki vezető irányítása nélkül is végezheti, ha alvállalkozót nem vesz igénybe.
-
-[^21]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
-[^22]: A 13. § (8) bekezdés záró szövegrésze a 182/2010. (V. 14.) Korm. rendelet 7. § 9. pontja szerint módosított szöveg.
+[^57]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fa) alpontja szerint módosított szöveg.
+[^58]: A 13. § (3) bekezdés o) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
+[^59]: A 13. § (3) bekezdés p) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
+[^60]: A 13. § (5) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fb) alpontja szerint módosított szöveg.
+[^61]: A 13. § (8) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 70. § (2) bekezdésével megállapított szöveg.

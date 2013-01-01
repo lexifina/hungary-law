@@ -62,32 +62,6 @@
 
 | Összesen: |  |  |  |
 
-6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^109]
+6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^176]
 
-Az építési tevékenység megkezdésének utólagos bejelentése
-
-Iktatószám: ..........................
-
-Adatok:
-
-1. Az építési tevékenységgel érintett ingatlan címe, helyrajzi száma: .........................................
-
-2. Az építtető neve, címe: .............................
-
-3. A bejelentés tárgyára vonatkozó jogerős építésügyi hatósági engedély megnevezése, száma, kelte, építésügyi hatóság megnevezése: .............................................................................
-
-Bejelentem, hogy az 1. pontban megjelölt ingatlanon tervezett új építmény, építményrész, meglévő építmény bővítése, átalakítása, korszerűsítése, felújítása, helyreállítása, elmozdítása, fennmaradása és továbbépítése, egyéb építési tevékenység
-
-a) az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított 50 millió forint számított építményértéket nem éri el és nem haladja meg, az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint nem tartozik az építtetői fedezetkezelés hatálya alá, nem tartozik a közbeszerzésekről szóló törvény hatálya alá, valamint a továbbépítésre vonatkozóan az 50 millió forint számított építményértéket nem éri el,
-
-b) végzését ............................... (dátum) a vállalkozó kivitelező megkezdte, az építési naplót megnyitotta.
-
-Kelt: .................................., .................. év ..................................... hó ........ nap
-
-........................................................
-
-aláírás
-
-(építtető)
-
-[^109]: A 6. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^176]: A 6. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 93. § t) pontja hatályon kívül helyezte.

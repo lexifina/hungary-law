@@ -2,17 +2,17 @@
 
 35. § (1) A vállalkozó kivitelezőre vonatkozó, az Étv. 39. § (3) bekezdése szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 22. § (1) bekezdésében meghatározott adatokon kívül – tartalmaznia kell
 
-a) a kivitelező
+a)[^155] a vállalkozó kivitelező
 
 aa) cégjegyzékszámát, egyéni vállalkozó esetében egyéni vállalkozói nyilvántartási számát, adószámát,
 
-ab) bejegyzett tevékenységi körét,
+ab)[^156] építőipari kivitelezési tevékenységi körét,
 
 ac) telephelye – több telephely esetén telephelyei – címét,
 
-ad)[^98] építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkásainak számát, a szakképesítéssel rendelkező egyéni vállalkozó kivételével,
+ad)[^157] építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkásainak számát, az építési szakmunkához szükséges szakképesítéssel rendelkező egyéni vállalkozó kivételével,
 
-ae)[^99] rendelkezésére álló felelős műszaki vezetői feladatok ellátására jogosult foglalkoztatottak vagy munkavégzésre irányuló egyéb jogviszonyban állók számát, és
+ae)[^158] felelős műszaki vezetői feladatok ellátására jogosult tagsági vagy alkalmazotti jogviszonyban állók megnevezését és névjegyzéki számát vagy az Étv. 39/A. § (2) bekezdésére hivatkozást, valamint
 
 af) nyilatkozatát arról, hogy az Étv. 39. § (2) bekezdésében meghatározott feltételeket egyébként teljesíti, továbbá
 
@@ -40,5 +40,7 @@ c) a bejelentést tevő nyilatkozatát a bejelentés (ideértve az igazolás cé
 
 (5) A bejelentés elektronikus úton vagy elektronikus adathordozón is benyújtható.
 
-[^98]: A 35. § (1) bekezdés a) pont ad) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.
-[^99]: A 35. § (1) bekezdés a) pont ae) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított szöveg.
+[^155]: A 35. § (1) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sa) alpontjával megállapított szöveg.
+[^156]: A 35. § (1) bekezdése a) pont ab) alpontja a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sb) alpontja szerint módosított szöveg.
+[^157]: A 35. § (1) bekezdés a) pont ad) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított, a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sc) alpontja szerint módosított szöveg.
+[^158]: A 35. § (1) bekezdés a) pont ae) alpontja a 322/2012. (XI. 16.) Korm. rendelet 86. §-ával megállapított szöveg.

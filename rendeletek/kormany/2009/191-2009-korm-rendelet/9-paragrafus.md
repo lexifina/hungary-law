@@ -1,6 +1,6 @@
 ## A tervező
 
-9. § (1)[^15] Az építtető, vagy megbízása alapján a fővállalkozó kivitelező vagy a beruházáslebonyolító a jogosultsággal rendelkező tervezővel a kivitelezési dokumentáció elkészítésére írásbeli tervezési szerződést köt.
+9. § (1)[^32] Az építtető, vagy megbízása alapján a fővállalkozó kivitelező vagy a beruházáslebonyolító a jogosultsággal rendelkező tervezővel a kivitelezési dokumentáció elkészítésére írásbeli tervezési szerződést köt.
 
 (2) A tervezési szerződés tartalmazza
 
@@ -10,15 +10,15 @@ b) a teljesítési határidőket (figyelemmel a szakaszos tervszolgáltatásra i
 
 c) a vállalkozási díj összege mellett az elszámolás formáját, módját, a fizetés módját és határidejét,
 
-d) a tervellenőr nyilatkozata alapján a terv átdolgozásának kötelezettségét,
+d)[^33]
 
 e) a készítendő kivitelezési dokumentáció példányszámát és annak elektronikus formában is történő átadási kötelezettségét.
 
-(3) A (2) bekezdésben nem szabályozott kérdésekben a Ptk.-nak a tervezési szerződésre vonatkozó rendelkezései irányadóak.
+(3)[^34] A (2) bekezdésben nem szabályozott kérdésekben a Ptk.-nak a vállalkozási és az Étv.-nek a tervezési szerződésre vonatkozó rendelkezései irányadóak.
 
 (4) A tervező a jogerős építésügyi hatósági engedély és a hozzá tartozó, jóváhagyott, engedélyezési záradékkal ellátott dokumentáció alapján szakszerű műszaki tartalmú kivitelezési dokumentációt készít.
 
-(5) A tervező a kivitelezési dokumentáció részeként tervezői nyilatkozatot tesz, amely tartalmazza
+(5)[^35] A tervező a kivitelezési dokumentáció részeként műszaki leírást készít, amely tartalmazza
 
 a) a tervezett építési tevékenység
 
@@ -38,7 +38,7 @@ db) a vonatkozó szabványtól eltérő műszaki megoldás alkalmazása esetén 
 
 dc) az építési engedélyezési terv és a kivitelezési terv összhangban van,
 
-dd) a kivitelezési dokumentáció a külön jogszabály szerinti biztonsági és egészségvédelmi koordinátor közreműködésével készült, és
+dd)[^36]
 
 de) műemléki védettség esetén az örökségvédelmi hatósági engedély rendelkezésre áll,
 
@@ -46,13 +46,26 @@ e) a betervezett építési termékek megfelelőség igazolására vonatkozó ny
 
 f) annak ismertetését, ha az engedélyezési dokumentációtól – a jogszabályok keretein belül – a kivitelezési dokumentáció eltér.
 
-(6) A tervező szakmagyakorlási jogosultságát a tervezői nyilatkozaton a névjegyzéki bejegyzési (nyilvántartási) száma feltüntetésével igazolja.
+(6)[^37] A tervező szakmagyakorlási jogosultságát a kivitelezési dokumentáció aláíró lapján a névjegyzéki száma feltüntetésével igazolja.
 
-(7) A tervező az Étv. 33. § (1) bekezdésében foglaltakon túlmenően felelős az általa készített kivitelezési dokumentáció technológiai megvalósíthatóságáért.
+(7)[^38] A tervező az Étv. 33. § (1) bekezdésében foglaltak mellett felelős az általa készített kivitelezési dokumentáció technológiai megvalósíthatóságáért.
 
-(8)[^16] A kivitelezési dokumentációt az (5) bekezdés szerinti nyilatkozatával a tervező a szerződésben megállapított ellenérték kézhezvételekor – a tervezési szerződés teljesítéseként – aláírásával ellátva felhasználás céljából az (1) bekezdés szerinti szerződő fél birtokába adja.
+(8)[^39] A kivitelezési dokumentációt a tervező, szerződésben meghatározottak szerint felhasználás céljából az (1) bekezdés szerinti szerződő fél birtokába adja. A tervező biztosítja a tervellenőr számára a tervek szakaszos rendelkezésre bocsátását.
 
-(9) A tervező biztosítja a tervellenőr számára a tervek szakaszos rendelkezésre bocsátását.
+(9)[^40] Aki tervezői, beruházáslebonyolítói és építési műszaki ellenőri jogosultsággal is rendelkezik, az e három feladatkört együtt – külön jogszabály szerint szabályozott – tanácsadó mérnök címen láthatja el.
 
-[^15]: A 9. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^16]: A 9. § (8) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 6. pontja szerint módosított szöveg.
+(10)[^41] A tervező a kivitelezési tervek készítése során a tervezési programban vagy az építési engedélyezési építészeti-műszaki dokumentációban meghatározott elvárt műszaki teljesítményeket – az építtető egyetértése mellett – legalább az elvárt teljesítményadatokkal rendelkező építési termékek kiválasztásával teljesíti.
+
+(11)[^42] Ha a tervezési program vagy az építési engedélyezési építészeti-műszaki dokumentáció nem vagy nem teljes körűen tartalmaz információt az alkalmazandó építési termékek elvárt műszaki teljesítményére vagy azok nem felelnek meg a szabványokban vagy jogszabályokban foglalt követelményeknek, a kivitelezési terveket készítő tervező az építményre vonatkozó alapvető követelmények teljesülése érdekében jogosult az elvárt teljesítményadatok módosítására.
+
+[^32]: A 9. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^33]: A 9. § (2) bekezdés d) pontját a 322/2012. (XI. 16.) Korm. rendelet 93. § f) pontja hatályon kívül helyezte.
+[^34]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § c) pont ca) alpontja szerint módosított szöveg.
+[^35]: A 9. § (5) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § c) pont cb) alpontja szerint módosított szöveg.
+[^36]: A 9. § (5) bekezdés d) pont dd) alpontját a 322/2012. (XI. 16.) Korm. rendelet 93. § g) pontja hatályon kívül helyezte.
+[^37]: A 9. § (6) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^38]: A 9. § (7) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^39]: A 9. § (8) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^40]: A 9. § (9) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^41]: A 9. § (10) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be.
+[^42]: A 9. § (11) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be.

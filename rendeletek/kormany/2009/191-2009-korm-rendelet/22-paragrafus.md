@@ -2,77 +2,58 @@
 
 ## A KIVITELEZÉSI DOKUMENTÁCIÓ
 
-22. § (1) Építésügyi hatósági engedélyhez és bejelentéshez kötött építési tevékenység – a (3) bekezdésben foglaltak figyelembevételével – az 1. mellékletben meghatározott tartalmú és részletezettségű kivitelezési dokumentáció alapján végezhető. Műemlék esetén az örökségvédelmi hatóság örökségvédelmi érdekből egyedileg meghatározott tartalmú részlettervek készítését írhatja elő.
+22. §[^128] (1) Az építésügyi hatóság engedélyéhez vagy az építésfelügyeleti hatóság tudomásulvételi eljárásához kötött építési tevékenység – a (3) bekezdésben foglaltak figyelembevételével – az 1. mellékletben meghatározott tartalmú kivitelezési dokumentáció alapján végezhető.
 
-(2) A kivitelezési dokumentációban az Étv. 31. § (2) bekezdés c)–h) pontjában meghatározott követelmények teljesítését a vonatkozó szabványok vagy azokkal egyenértékű műszaki megoldás alkalmazásával lehet igazolni.
+(2) A kivitelezési dokumentáció az Étv. 31. § (2) bekezdésében meghatározott alapvető követelmények és egyéb előírások kielégítését bizonyító, az építmény megvalósításához – minden munkarészre kiterjedően az építők, szerelők, gyártók számára kellő részletességgel – szükséges információt, utasítást tartalmazza, továbbá meghatározza az építmény részévé váló összes anyag, szerkezet, termék, berendezés helyzetét, méretét, minőségét, mérettűrését.
 
-(3) A kivitelezési dokumentáció tartalma az építési engedélyezési vagy bejelentési dokumentációból, költségvetési kiírásból és – a külön jogszabályban meghatározott esetekben – biztonsági és egészségvédelmi tervből áll
+(3) A kivitelezési dokumentáció tartalma – a (4) bekezdés kivételével – az építési engedélyezési dokumentációból, költségvetési kiírásból és – jogszabályban meghatározott esetekben – jogszabály szerinti biztonsági és egészségvédelmi tervből áll
 
-a) a legfeljebb az alábbi jellemzőjű építményt, építményrészt érintő építőipari kivitelezési tevékenység esetén:
+a) a legfeljebb
 
-aa) 300 m2 összes szintterület,
+aa) 300 m2 szintterületű,
 
-ab) három beépített építményszint (alápincézett, földszint + tetőtér-beépítés),
+ab) három építményszinttel rendelkező, vagy
 
-ac) 1000 m3 bruttó térfogat,
+ac) 1000 m3 bruttó térfogatú
 
-ad) 7,5 m-es építménymagasság és
+építményt, építményrészt érintő építőipari kivitelezési tevékenység vagy
 
-ae)[^81] az af) alpont kivételével 5,4 m-es szerkezeti nyílásméret, vagy
+b) a 1,5 m-t meg nem haladó magasságú támfal építése
 
-af)[^82] 6,6 m-es falköz, oszlopköz méretű előregyártott födémszerkezet, vagy
+## esetén.
 
-b) a bejelentéshez kötött építményt, építési tevékenységet érintő építőipari kivitelezési tevékenység esetén, vagy
+(4) A (3) bekezdésben meghatározott tartalmú kivitelezési dokumentáción túlmenően
 
-c) polgári lőteret,
-
-d) hírközlési építményt,
-
-e) nem közhasználatú parkot, játszóteret, sportpályát,
-
-f) kerítést, vagy
-
-g) támfalakat, ha a megtámasztott föld magassága nem haladja meg az 1,5 m-t,
-
-érintő építőipari kivitelezési tevékenység esetén.
-
-(4) A kivitelezési dokumentáció tartalma a (3) bekezdésben meghatározottak szerinti a jogszabályban meghatározott védelemmel érintett műemléki területen álló meglévő építmény homlokzatán végzett építési tevékenység (pl. átalakítás, felújítás, nyílászárócsere, vakolás, színezés, felületképzés), a homlokzatára, födémére vagy tetőzetére szerelt bármely szerelvény, berendezés, antenna, antennatartó szerkezet, műtárgy létesítése, valamint az ilyen építményeken, területeken hirdetési vagy reklámcélú építmények, berendezések, szerkezetek elhelyezése során.
-
-(5) Az építési vagy bejelentési dokumentáción és a költségvetési kiíráson túlmenően
-
-a) tartószerkezeti kivitelezési dokumentációt kell készíteni, ha
+a) tartószerkezeti kivitelezési dokumentációt kell készíteni, ha a (3) bekezdés szerinti jellemzők teljesülése mellett
 
 aa) az épület tartószerkezete vagy annak elemei monolit vasbeton,
 
 ab) az aa) alpontban foglaltak kivételével a teherhordó szerkezet 5,4 m-es fal- vagy oszlopköznél nagyobb kiváltást tartalmaz,
 
-ac)[^83] előregyártott födémszerkezet 6,6 m-es fal- vagy oszlopköznél nagyobb,
+ac) előregyártott födémszerkezet 6,6 m-es fal- vagy oszlopköznél nagyobb, vagy
 
 ad) a tetőszerkezetben a talpszelemenek távolsága, vagy bárhol lévő megtámasztás nélküli áthidalás meghaladja a 6,0 m-t,
 
-b) épületgépészeti kivitelezési dokumentációt kell készíteni, ha az építménybe 30 kW-nál nagyobb hőtermelő berendezés kerül beépítésre,
+b) épületgépészeti kivitelezési dokumentációt kell készíteni, ha a (3) bekezdés szerinti jellemzők teljesülése mellett az építménybe 30 kW-nál nagyobb hőtermelő berendezés kerül beépítésre,
 
-c) épületvillamossági kivitelezési dokumentációt kell készíteni, ha 7 kW-nál nagyobb az építmény elektromos áram teljesítményfelvétele,
+c) épületvillamossági kivitelezési dokumentációt kell készíteni, ha a (3) bekezdés szerinti jellemzők teljesülése mellett 7 kW-nál nagyobb az építmény elektromos áram teljesítményfelvétele,
 
 d) energetikai számítást kell készíteni a külön jogszabályban meghatározott esetekben, az ott meghatározottak szerint.
 
-(6) Az építményekre vonatkozó követelmények teljes körére kiterjedő kivitelezési dokumentációt kell készíteni, mely az építők, szerelők, gyártók számára a gyártmányterv elkészítéséhez, a megvalósításhoz szükséges és elégséges minden közvetlen információt, utasítást tartalmaz, továbbá tanúsítja az építési engedélyezési és a külön jogszabály szerinti ajánlatkérési műszaki dokumentációban részletezett követelmények teljesítését
+(5) Az építményekre vonatkozó követelmények teljes körére kiterjedő kivitelezési dokumentációt kell készíteni, mely az építők, szerelők, gyártók számára a gyártmányterv elkészítéséhez, a megvalósításhoz szükséges és elégséges minden közvetlen információt, utasítást tartalmaz, továbbá tanúsítja az építési engedélyezési és a külön jogszabály szerinti ajánlatkérési műszaki dokumentációban részletezett követelmények teljesítését
 
-a) a (3) bekezdés b)–g) pont és a (4) bekezdés hatálya alá nem tartozó építmény,
+a) a (3) bekezdésben meghatározott jellemzőt illetve méretet meghaladó építményt,
 
-b)[^84] a (3) bekezdés a) pont aa)–ad) alpontjában meghatározott mértéket meghaladó építmény,
+b) építési engedélyhez kötött külön jogszabályban meghatározott védelemmel érintett műemléki területen álló meglévő építményt,
 
-c) közhasználatú épület,
+c) közhasználatú épületet,
 
-d) a 10. § (1) bekezdésben meghatározott építmény,
+d) a 10. § (1) bekezdésében meghatározott építményt vagy
 
-e) üzemeléstechnológiai (gyártás-, javítás-, vizsgálat-, konyha-, egészségügyi technológiai stb.) tervet igénylő épület
+e) üzemeléstechnológiai (gyártás-, javítás-, vizsgálat-, konyha-, egészségügyi technológiai stb.) tervet igénylő épületet
 
-építőipari kivitelezési tevékenysége esetében.
+érintő építőipari kivitelezési tevékenység esetén.
 
-(7) A kivitelezési dokumentáció tartalma – az Étv. 38. § (2) bekezdésében foglaltak kivételével – nem térhet el a jogerős építésügyi hatósági engedélyben, illetve műemlék esetén az örökségvédelmi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól, illetve a bejelentéshez mellékelt dokumentáció tartalmától. Ennek betartásáért a tervező felel.
+(6) A kivitelezési dokumentáció tartalma nem térhet el a jogerős építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól vagy a tudomásulvételhez mellékelt dokumentáció tartalmától kivéve, ha maga az eltérés nem engedélyhez vagy tudomásulvételhez kötött építési tevékenység. Ennek betartásáért a tervező felel.
 
-[^81]: A 22. § (3) bekezdés a) pont ae) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (27) bekezdésével megállapított szöveg.
-[^82]: A 22. § (3) bekezdés a) pont af) alpontját a 182/2010. (V. 14.) Korm. rendelet 5. § (27) bekezdése iktatta be.
-[^83]: A 22. § (5) bekezdés a) pont ac) alpontja a 182/2010. (V. 14.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^84]: A 22. § (6) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (28) bekezdésével megállapított szöveg.
+[^128]: A 22. § a 322/2012. (XI. 16.) Korm. rendelet 77. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## Szervizkönyv
+## A tulajdonos jókarbantartási kötelezettsége és a szervizkönyv[^153]
 
 34. § (1) Az építmény szervizkönyve igazolja
 
@@ -42,4 +42,7 @@ követelményeire vonatkozóan a külön jogszabályban foglaltak szerint.
 
 (8) Az építmény felülvizsgálatát igazoló szakértői vélemények, javaslatok, megállapítások és az építmény fennállása alatt az építmény rendeltetésszerű és biztonságos használatát befolyásoló vagy a tartószerkezetét érintő építési-szerelési munkák elvégzésének igazolása, leírása a szervizkönyv részét képezik, ennek hiányában ezeket az ingatlan tulajdonosa köteles megőrizni.
 
-(9) A szervizkönyv, illetve a külön jogszabály szerinti biztonsági és egészségvédelmi terv az építmény tartozéka, tulajdonosváltáskor az új tulajdonos részére át kell adni.
+(9)[^154] A szervizkönyv az építmény tartozéka, tulajdonosváltáskor az új tulajdonos részére át kell adni.
+
+[^153]: A 34. §-t megelőző alcím a 322/2012. (XI. 16.) Korm. rendelet 85. §-ával megállapított szöveg.
+[^154]: A 34. § (9) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 93. § r) pontja szerint módosított szöveg.

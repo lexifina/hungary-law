@@ -1,245 +1,299 @@
 ## A kivitelezési dokumentáció tartalma
 
-## I. a) A kivitelezési dokumentáció: az Étv. 31. § (2) bekezdésében meghatározott követelmények kielégítését bizonyító, az építmény megvalósításához – minden munkarészre kiterjedően az építők, szerelők, gyártók számára kellő részletességgel – a szükséges és elégséges minden közvetlen információt, utasítást tartalmazva bemutatja az építmény részévé váló összes anyag, szerkezet, termék, berendezés stb. helyzetét, méretét, minőségét, mérettűrését, továbbá tanúsítja az összes vonatkozó előírásokban, valamint az építésügyi hatósági engedélyezésnél és az ajánlatkérési műszaki dokumentációban részletezett követelmények teljesítését. A kivitelezési dokumentáció minden munkarészét olyan léptékben kell elkészíteni, amely a megértéséhez, a kivitelezéshez, az építési szerelési munka szakszerű elvégzéséhez, az ellenőrzéshez szükséges (a dokumentáció egyes munkarészeinek léptékére, kidolgozottsági szintjére a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó szabályzatában foglaltak irányadóak).
+## I. Általános rendelkezések
 
-## b) Az azonos alaprajzi és szerkezeti kialakítású tartószerkezetek tervei az épületen belüli elhelyezkedésük egyértelmű jelölésével összevonhatók.
+## 1. A kivitelezési dokumentáció minden munkarészét olyan léptékben és kidolgozottsági szinten kell elkészíteni, amilyen mértékben az a megértéséhez, a kivitelezéshez, az építési-szerelési munka szakszerű elvégzéséhez, és az építőipari kivitelezés ellenőrzéséhez szükséges. A kivitelezési dokumentáció tartalmi követelménye tekintetében figyelembe kell venni a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó, szakmai követelményeket megállapító szabályzatait.
 
-## c) Több szakaszra bontott építkezés esetében az egyes megvalósulási szakaszokat a dokumentációban egyértelműen jelölni kell.
+## 2. Az adott anyag vagy szerkezet jelölésére vonatkozó hatályos szabvány hiányában, egyedileg meghatározott, egyértelmű jelkulcsot kell alkalmazni.
 
-## d) Az adott anyag vagy szerkezet jelölésére a dokumentációban feltüntetett, egyedileg meghatározott, egyértelmű jelkulcsot kell alkalmazni.
+## 3. A tervezett építési tevékenység szempontjából érdemi adatot, tényt, körülményt nem tartalmazó tervdokumentáció részek elhanyagolhatók.
 
-## II. A kivitelezési tervdokumentációban meg kell határozni:
+## 4. Az azonos alaprajzi és szerkezeti kialakítású szintek alaprajzai – a különböző szintmagasságok egyértelmű jelölésével – a dokumentációban összevonhatók.
 
-## a) az összes építményrész, szerkezeti elem, beépített berendezés térbeli elhelyezkedését, méretét, mennyiségét,
+## 5. Több szakaszra bontott építkezés esetében az egyes megvalósulási szakaszokat a tervrajzokon egyértelműen jelölni kell.
 
-## b) minőségének meghatározását,
+## 6. Közhasználatú rendeltetési egységet, építményrészt tartalmazó építmények esetében mind a helyszínrajzon, mind az egyes tervlapokon méretadatok megadásával ábrázolni kell a mozgásukban korlátozottak akadálymentes és biztonságos közlekedését biztosító megoldásokat a telek közterületi csatlakozásától az építmény megközelítéséig (bejáratáig).
 
-## c) a mennyiségek és minőségek részletes, tételes költségvetési kiírását a technológiai folyamatok és minőség szerint csoportosítva.
+## II. A kivitelezési dokumentáció munkarészei
 
-## III. Általános előírások
+## 1. Építészeti munkarész
 
-## A kivitelezési dokumentáció munkarészei:
+## 1.1. Tartalmazza az építmény elhelyezését, funkcionális (térbeli - alaprajzi - szintbeli) elrendezését és homlokzati rendszerét, valamint összehangolja és a megvalósíthatóság, gazdaságosság és összeegyeztethetőség alapján egységes keretbe foglalja a szakági kiviteli tervezés során kialakított megoldásokat, szerkezeteket, technológiákat.
 
-## a) helyszínrajz,
+## 1.2. A munkarész a kivitelezéshez szükséges mértékben bemutatja az összes építményrész, szerkezeti elem, beépített berendezés térbeli elhelyezkedését, méretét, mennyiségét, az építőmesteri, szakipari, épületasztalos, lakatos és egyéb feladatok műszaki megoldásait, az építmény épületszerkezeti-csomóponti részleteit.
 
-## b) egyesített közmű (genplan) terv, az építmények és a közművek összefüggéseinek áttekintését szolgáló elrendezési terv,
+## 1.3. Elemei különösen:
 
-## c) alapozási terv,
+## 1.3.1. építészeti műszaki leírás,
 
-## d) alaprajzok,
+## 1.3.2. kitűzési terv,
 
-## e) metszetrajzok,
+## 1.3.3. helyszínrajz,
 
-## f) tartószerkezeti terv,
+## 1.3.4. valamennyi szint alaprajza (feltüntetve a ±0,00 helyét és abszolút magasságát),
 
-## g) szintáthidalók alaprajzai és metszetei,
+## 1.3.5. metszetek, a javasolt rétegrendek feltüntetésével,
 
-## h) csavarozott, szegecselt, hegesztett vagy ragasztott, illetve faszerkezetű tartószerkezetek esetében tartószerkezeti csomóponti részletterv,
+## 1.3.6. homlokzatok, az alkalmazott anyagok feltüntetésével,
 
-## i) homlokzatok, nézetrajzok,
+## 1.3.7. részletrajzok,
 
-## j) épületgépészeti és épületvillamossági tervek (ivóvíz-, ipari víz-, gáz-, szennyvíz-, csapadékvíz vezetékrendszerről, elektromos-, távközlési-, hír- és számítástechnikai hálózatokról),
+## 1.3.8. konszignációk,
 
-## k) villámvédelmi terv,
+## 1.3.9. építészeti műszaki leírás:
 
-## l) üzemeléstechnológiai terv,
+## 1.3.10. szigetelések tervei:
 
-## m) részlettervek az építmény olyan részeinek, szerkezeteinek és azok összeépítésének nagyléptékű rajzai, melyek az általános terveken kellően nem ábrázolhatóak,
+## 1.3.10.1. talajnedvesség elleni szigetelés,
 
-## n) tartószerkezeti, akusztikai, energetikai, tűzvédelmi és szakági igazoló (méretezési) számítások,
+## 1.3.10.2. hőszigetelés,
 
-## o) szakáganként műszaki leírások,
+## 1.3.10.3. tetőszigetelés,
 
-## p) méret- és mennyiségkimutatások, konszignációk,
+## 1.3.11. rétegrendek tervei:
 
-## q) a beépítendő építési termékek műszaki specifikációja,
+## 1.3.11.1. padló/födém rétegrendek,
 
-## r) részletes, minden szakágra kiterjedő tételes költségvetés-kiírás, mennyiségi kimutatással.
+## 1.3.11.2. fal rétegrendek,
 
-## Az e pontban felsorolt és a IV. pontban részletezett tartalmú munkarészek közül azok képezik kötelezően a kivitelezési dokumentáció részét, amelyek az adott építményre vonatkozóan a I. pontban meghatározott követelmények kielégítéséhez szükségesek. A 22. § (4) bekezdésben meghatározott esetben a dokumentáció tartalmát az örökségvédelmi hatóság határozza meg.
-
-## IV. 1. Építészeti munkarész
-
-## Az építmény elhelyezését, funkcionális (térbeli – alaprajzi – szintbeli) elrendezését, az építőmesteri, szakipari, épületasztalos és lakatos feladatok műszaki megoldásait, épületszerkezeti-csomóponti részleteit az építészeti dokumentációban kell meghatározni. Az építészeti tervezés elemei:
-
-## a) Helyszínrajz, kiegészítve a kitűzési adatokkal, tartalmazza a ±0,00 kiinduló relatív szintmagasságnak megfelelő abszolút szintmagassági értékek, valamint a kitűzésre vonatkozó pontok, irányok meghatározását.
-
-## b) Tereprendezés esetén a csapadékvíz elvezetés részletes tervmegoldása is szükséges.
-
-## c) Alaprajzok valamennyi szintről, ábrázolva:
-
-## ca) az elmetszett és a nézet irányába eső nem teljes szintmagasságú szerkezeteket, kéményeket, szellőzőket stb.,
-
-## cb) a földszinti alaprajzon a csatlakozó véglegesen rendezett terepet, az épület körüli járdát, az előlépcsőt és egyéb szerkezeteket, a ±0,00 helyét és abszolút magasságát,
-
-## cc) a nyílásokat és nyílásáthidalókat, a nyílászárókat (tengelyméret, méret, konszignációs jel és parapet magasság megadásával),
-
-## cd) az ábrázolt szintek szintváltásait és szintmagasságát, a szintáthidalók emelkedési irányát, méreteit, mindkét végének szintmagasságát,
-
-## ce) a szerkezeti dilatációk helyét, méretét,
-
-## cf) a beépített bútorokat, berendezéseket,
-
-## cg) a gépészeti helyiségeket, aknákat, kéményeket,
-
-## ch) a helyiségek rendeltetését, méreteit, burkolatát.
-
-## Az azonos alaprajzi és szerkezeti kialakítású szintek tervrajzai – a különböző szintmagasságok egyértelmű jelölésével – a tervdokumentációban összevonhatók. Több szakaszra bontott építkezés esetében az egyes megvalósulási szakaszokat a tervrajzokon egyértelműen jelölni kell.
-
-## Meg kell nevezni az egyes helyiségek rendeltetését (elnevezését), alapterületét és burkolatát.
-
-## Jelölni kell a metszetek helyét, esetleges törését és nézetének irányát.
-
-## d) Metszetek, minden eltérő épületrészről ábrázolni és méretadatokkal kell ellátni:
-
-## da) az elmetszett, a nézet irányába eső látható vagy más szerkezetek által takart szerkezeteket, beleértve az alapokat, lépcsőket, áthidalókat, tetőszerkezetet is; a helyiségek belmagasságának, a szerkezetek magasságának, az anyagok minőségének ismertetésével,
-
-## db) zártsorú beépítésnél a szomszédos csatlakozó alapokat,
-
-## dc) a csatlakozó végleges rendezett terepszintet, járdát,
-
-## dd) meg kell határozni az összes egymástól eltérő vízszintes és függőleges épületszerkezeti rétegfelépítést.
-
-## e) Szintáthidalók, a szintkülönbség-áthidalók alaprajzai és metszetei az épület minden 1,5 m-nél nagyobb függőleges méretű eleméről, mely ábrázolja és méretezi:
-
-## ea) a szintkülönbség-áthidaló geometriáját, szerkezetét,
-
-## eb) a fellépők szélességét és magasságát, járóvonalát,
-
-## ec) a csatlakozó szerkezeteket, korlátokat.
-
-## Az azonos alaprajzi és szerkezeti kialakítású szintkülönbség-áthidalók az épületen belüli elhelyezkedésük egyértelmű jelölésével összevonhatók.
-
-## f) Homlokzatok minden eltérő homlokzatról.
-
-## g) Építészeti műszaki leírás. A közhasználatú rendeltetési egységet, építményrészt tartalmazó építmények esetében mind a helyszínrajzon, mind az egyes tervlapokon méretadatok megadásával ábrázolni kell a mozgásukban korlátozottak akadálymentes és biztonságos közlekedését biztosító megoldásokat a telek közterületi csatlakozásától az építmény megközelítéséig (bejáratáig).
+## 1.3.11.3. tető rétegrendek.
 
 ## 2. Tartószerkezeti munkarész
 
-## A tartószerkezet olyan építményszerkezet, szerkezeti elem, amely feladata az erőhatások felvétele és továbbítása (pl. a talajra). A tartószerkezet az építmény „erőtani vázát” alkotja, ezért erőtani (statikai) tervezéssel az egyensúly megtartására úgy kell méretezni, hogy a várható hatások (terhek) következtében a megengedett mértéket meghaladó mértékű elmozdulás, törés, repedés, folyás ne keletkezzék. Tartószerkezeti tervezés elemei: erőtani számítás, tartószerkezetek terve, tartószerkezeti műszaki leírás.
+## 2.1. A tartószerkezet (teherhordó szerkezet) olyan építményszerkezet, szerkezeti elem, amelynek feladata az erőhatások felvétele és továbbítása (pl. a talajra). A tartószerkezet az építmény „erőtani vázát” alkotja, ezért erőtani (statikai) tervezéssel az egyensúly megtartására úgy kell méretezni, hogy a várható és az előírt rendkívüli hatások (terhek), és a geotechnikai hatások következtében állékonyságvesztés és törés, valamint a megengedett mértéket meghaladó mértékű elmozdulás, repedés, folyás, rezgés ne keletkezzék.
 
-## a) Erőtani számítás (méretezés): a tartószerkezeti rendszer egészében a hatások (terhek) okozta igénybevételek és alakváltozások meghatározása, valamint az ezek felvételére alkalmas szerkezetek, anyagok és szerkezeti méretek kiválasztása, az építmény tartószerkezetének, illetve egyes tartószerkezeti elemének (megtervezése), annak érdekében, hogy
+## 2.2. Elemei különösen:
 
-## aa) a követelményeket előírt biztonsággal kielégítse,
+## 2.2.1. tartószerkezeti műszaki leírás,
 
-## ab) a tervezett élettartama során kellő megbízhatósággal (biztonsággal) és gazdaságosan álljon ellen a megvalósítás és a használat során fellépő minden hatásnak (tehernek),
+## 2.2.2. erőtani számítás,
 
-## ac) legyen alkalmas az előírt használatra.
+## 2.2.3. tartószerkezetek tervei.
 
-## b) Részletes talajmechanikai szakvélemény kell
-
-## ba) a négy beépített szintnél nagyobb,
-
-## bb) a 10 m-es építménymagasságnál magasabb,
-
-## bc) az 1000 m2 -nél nagyobb alapterületű,
-
-## bd) a 7,0 m-nél nagyobb szerkezeti fesztávolságú, előre gyártott vagy vázas tartószerkezetű építmény építési, fennmaradási engedélyezésekor az építmény szerkezeti rendszerétől függetlenül, vagy ha az alapozás várható szintje a környező terepszint alatt 4,0 m-nél mélyebbre ér.
-
-## c) Tartószerkezetek tervei tartalmazzák az
-
-## ca) építmény bármely anyagú teherhordó szerkezet minden tartószerkezeti részének, szerkezeti elemének erőtani méretezéssel (számítással) meghatározott alakját, méretét, kapcsolatait, anyag és egyéb jellemzőit, rajzi és/vagy írásos meghatározását a tartószerkezet alapozási, teherhordó fal és pillér, teherhordó födém (és azok további részei: lemezek, gerendák, koszorúk, kiváltók), a szintek áthidalására szolgáló szerkezetek (lépcső, rámpa stb.) elemeiről,
-
-## cb) a csavarozott, szegecselt, hegesztett vagy ragasztott, illetve faszerkezetű tartószerkezetek esetében m1:20 a tartószerkezeti csomóponti részletterveket,
-
-## cc) a monolit vasbeton szerkezetek vasalási terveit,
-
-## cd) az üzemben előregyártott szerkezetek diszpozíciós terveit (gyártmánytervek nélkül).
-
-## d) Zártsorú beépítés esetén a szomszédos, meglévő épületek feltárás útján meghatározott alapsíkjának megadásán túlmenően meg kell tervezni a meglévő épületek esetleges alapmegerősítésének megoldását is.
-
-## e) A tartószerkezeti műszaki leírás tartalmazza a tervezett tartószerkezet jellemzőit, és minden olyan fontos jellemzőt, amelyet a tervező a szerkezet megtervezésénél figyelembe vett, illetve amelyet a kivitelezés során be kell tartani.
-
-## f) Részletes geotechnikai munkarész szükséges:
-
-## fa) a jogszabályban meghatározott veszélyes üzemnél,
-
-## fb) a jogszabállyal kijelölt veszélyes környezetben: csúszás-, omlás- és barlangveszélyes, illetve alábányászott, valamint árvíz- és földrengésveszélyes területen, ha egynél több szint kerül a terepszint alá,
-
-## fc) 5,0 m-nél nagyobb szabad magasságú, földet megtámasztó építményekhez (támfal).
+## 2.3. A tartószerkezetek tervei tartalmazzák az építmény bármely anyagú és funkciójú teherhordó szerkezetének, minden tartószerkezeti részének, szerkezeti elemének erőtani méretezéssel (számítással) a hatályos szabványok előírásai szerint (vagy azzal egyenértékű módon) meghatározott alakját, méretét, kapcsolatait, anyag és egyéb jellemzőit, szükség esetén technológiai leírását, mindezek megvalósítását lehetővé tevő rajzi, illetve írásos meghatározásával.
 
 ## 3. Épületgépészeti munkarész
 
-## Az épületgépészeti munkarészek vonatkozásában el kell készíteni az épület valamennyi épületgépészeti rendszerének kiviteli terveit, alaprajz, metszet, függőleges csőterv és kapcsolási vázlat szinten, de szerelési, műhely- és gyártmánytervek nélkül.
+## 3.1. Tartalmazza mindazon telekhatáron belüli közmű; vízellátási, szennyvíz-, és csapadékvíz elvezetési; gázellátási, égéstermék elvezetési; fűtési, hűtési és légtechnikai terveket, melyek az épület, építmény megvalósításához szükségesek a megállapított tervezési határig.
 
-## a) Az épületgépészeti tervezés elemei:
+## 3.2. Elemei különösen:
 
-## aa) épületgépészeti számítások, az épületek energetikai méretezése, energiateljesítményének kiszámítása (a külön jogszabályban rögzített esetekben és részletezéssel),
+## 3.2.1. épületgépészeti műszaki leírás,
 
-## ab) épületgépészeti rendszertervezés, a vezetékhálózatok és berendezések méretezése a teljesítmény- és fogyasztási adatok számításon alapuló értékeivel.
+## 3.2.2. épületgépészeti számítások, az épület energetikai méretezése, energiateljesítményének kiszámítása (a külön jogszabályban rögzített esetekben és részletezéssel),
 
-## b) Az épületgépészeti tervdokumentáció tartalmazza:
+## 3.2.3. épületgépészeti rendszertervezés, a vezetékhálózatok és berendezések méretezése a teljesítmény- és fogyasztási adatok számításon alapuló értékeivel,
 
-## ba) a (víz-, csatorna-, gáz-, fűtés- és légtechnikai) rendszerek, vezetékhálózatok és berendezések elrendezési és szerelési terveit,
-
-## bb) az elrendezési, nyomvonal-vezetési, szerelési részletterveket,
-
-## bc) méretkimutatásokat, konszignációkat,
-
-## bd) műszaki leírást az épületgépészeti hálózatok és rendszerek, berendezések írásos ismertetésével, a teljesítmény- és fogyasztási adatok (számításon alapuló) értékeivel, az épület funkciójából adódó speciális épületgépészeti rendszerek részletes ismertetését.
-
-## Az épületgépészeti számításokat a vonatkozó szabványoknak és rendeleteknek megfelelően kell elkészíteni, archiválni. A számításokat a kiviteli tervdokumentáció nem tartalmazza.
+## 3.2.4. a (víz-, csatorna-, gáz-, fűtés- és légtechnikai) rendszerek, vezetékhálózatok és berendezések elrendezési és szerelési tervei.
 
 ## 4. Épületvillamossági munkarész
 
-## Az épületvillamossági munkarészek vonatkozásában el kell készíteni az épület valamennyi épületvillamossági rendszerének hálózati kiviteli terveit, alaprajz, függőleges vezetékterv, kapcsolási vázlat szinten, de szerelési, műhely- és gyártmánytervek nélkül.
+## 4.1. Az épületvillamossági kivitelezési tervdokumentáció tartalmazza mindazon villamosenergia-ellátási, erőátviteli, világítási, mérési, vezérlési, szabályozási, gyengeáramú (informatikai, épületautomatikai, tűzjelző, hangosítási, TV, vagyonvédelmi stb.) villámvédelmi, érintés(hiba)védelmi, földelési, zavarvédelmi, EMC villamos terveket, amelyek az építmény, épület megvalósításához szükségesek.
 
-## a) Az épületvillamossági tervek tartalmazzák:
+## 4.2. Elemei különösen:
 
-## aa) szerelési alaprajzokon a villamosvezetékek nyomvonalait, illetve az ezekhez tartozó vezetéktartó szerkezeteket, villamos készülékek és berendezések feltüntetésével,
+## 4.2.1. épületvillamossági műszaki leírás az épületvillamossági hálózatok, rendszerek és berendezések írásos ismertetése, a teljesítmény- és fogyasztási adatok számításon alapuló értékeivel, speciális rendszerek bemutatásával,
 
-## ab) fővezeték-terven az elosztó berendezések elhelyezésének ábrázolását, a vezetékhálózatok jellemzőinek, az elosztó berendezésekre számított beépített, illetve egyidejű villamos teljesítményadatok, feszültségjellemzők, érintésvédelmi módok feltüntetésével,
+## 4.2.2. épületvillamossági tervek,
 
-## ac) a villamos elosztó berendezések vonalas kapcsolási rajzait, a kapcsolási rajzokon szereplő villamos készülékek és berendezések jellemzőinek (névleges áram, zárlati szilárdság, védettség stb.) feltüntetésével, elosztó berendezések homlokkép rajzait felirati táblákkal, a beépítésükre vonatkozó utasításokkal, áramút-tervekkel, szükség szerint,
+## 4.2.3. villámvédelmi terv és a villámvédelmi berendezés tervei a villámvédelmi fokozat feltüntetésével, szerelési és anyagminőségre vonatkozó utasításokkal,
 
-## ad) a villámvédelmi berendezés terveit a villámvédelmi fokozat feltüntetésével, szerelési és anyagminőségre vonatkozó utasításokkal,
-
-## ae) a gyengeáramú rendszerek hálózati terveit, a készülékek és berendezések telepítési helyeinek megjelölésével, az egyes rendszerek vezetékhálózatainak nyomvonalaival.
-
-## b) Az épületvillamossági műszaki leírás az épületvillamossági hálózatok, rendszerek és berendezések írásos ismertetése, a teljesítmény- és fogyasztási adatok számításon alapuló értékeivel, speciális rendszerek bemutatásával.
+## 4.2.4. a gyengeáramú rendszerek hálózati tervei, a készülékek és berendezések telepítési helyeinek megjelölésével, az egyes rendszerek vezetékhálózatainak nyomvonalaival.
 
 ## 5. Tűzvédelmi munkarész
 
-## A külön jogszabályban rögzített esetekben előírt részletes tűzvédelmi munkarész tartalmazza:
+## A tűzvédelmi dokumentáció tartalma
 
-## a) az építmény megközelíthetőségét, tűztávolságát,
+## 5.1. írásos munkarészek:
 
-## b) az építmény oltóvíz-ellátásának biztosítását,
+## 5.1.1. tartalomjegyzék,
 
-## c) az építmény tűzveszélyességi osztályba sorolását, tűzállósági fokozatát,
+## 5.1.2. a dokumentációt készítő nyilatkozata,
 
-## d) a tűzszakaszok elhelyezkedését, a tűzszakasz-határokat és azokon található nyílászárók és átvezetések leírását,
+## 5.1.3. műszaki leírás, ami tartalmazza:
 
-## e) az alkalmazott épületszerkezetek éghetőségi és tűzállósági paramétereit,
+## 5.1.3.1. az építmény, létesítmény megközelíthetőségére, mentési helyek elhelyezkedésére,
 
-## f) a tűzterhelés meghatározását,
+## 5.1.3.2. a létesítmény oltóanyagellátására, a tűzoltósági beavatkozási feltételekre,
 
-## g) a kiürítési feltételek biztosítását,
+## 5.1.3.3. a létesítmény, építmény tűzveszélyességi osztályba sorolására, az építmény, tűzszakaszok tűzállósági fokozatára,
 
-## h) az épületgépészet és a villámvédelmi rendszer kialakítását, valamint
+## 5.1.3.4. az alkalmazott épületszerkezetek tűzvédelmi paramétereire,
 
-## i) a hő- és füstelvezetésre, tűzjelzésre és tűzoltásra vonatkozó megoldásokat.
+## 5.1.3.5. a tűzszakaszolásra, a tűzterjedés gátlására, a tűztávolságra,
 
-## 6. Építésszervezési munkarész
+## 5.1.3.6. a kiürítésre, mentésre,
+
+## 5.1.3.7. az épületgépészeti, valamint a villamos és villámvédelmi berendezések tűzvédelmi követelményeinek teljesülésére,
+
+## 5.1.3.8. a tűzjelzésre és -oltásra,
+
+## 5.1.3.9. a hő és füst elleni védelem kialakítására,
+
+## 5.1.3.10. a tűzterhelés meghatározására,
+
+## 5.1.3.11. a technológia tűzvédelmére,
+
+## 5.1.3.12. a hasadó, hasadó-nyíló felületekre,
+
+## 5.1.3.13. a biztonsági jelzésekre
+
+## vonatkozó megoldásokat.
+
+## 5.2. rajzi munkarészek:
+
+## 5.2.1. helyszínrajz (méretarány: 1:200 vagy nagyobb), amelyen feltüntetik:
+
+## 5.2.1.1. a tűzoltási felvonulási út és terület, a mentési (talpalási) helyek elhelyezkedését,
+
+## 5.2.1.2. homlokzati mentési pontokat az érintett szint számának feltüntetésével,
+
+## 5.2.1.3. a tűzoltó gépjárművek közlekedését, működését hátrányosan befolyásoló körülményeket,
+
+## 5.2.1.4. oltóanyagforrások elhelyezkedését és jellegét, tűzcsap-szerelvényszekrényeket,
+
+## 5.2.1.5. tűzoltósági beavatkozási központ elhelyezkedését, bejáratát,
+
+## 5.2.1.6. tűzoltósági kulcsszéf elhelyezkedését,
+
+## 5.2.1.7. a tűzoltó beavatkozással összefüggő feliratokat, jelöléseket, közlekedési és egyéb táblákat,
+
+## 5.2.1.8. az engedélyezéssel érintett épületet és a szomszédos építményeket, a közöttük lévő tűztávolságot,
+
+## 5.2.2. szintenkénti alaprajzok, szükség szerint homlokzati rajzok (méretarány: 1:100 vagy nagyobb) az alábbiak feltüntetésével:
+
+## 5.2.2.1. tűzszakaszhatárok,
+
+## 5.2.2.2. tűzgátló nyílászárók, csappantyúk, mandzsetták, tűzterjedés gátlására szolgáló egyéb szerkezetek,
+
+## 5.2.2.3. tűzterjedési gátak,
+
+## 5.2.2.4. helyiségek tűzveszélyességi osztálya,
+
+## 5.2.2.5. helyiségek befogadóképessége,
+
+## 5.2.2.6. kiürítési és menekülési útvonalak nyomvonala,
+
+## 5.2.2.7. homlokzati mentési pontok,
+
+## 5.2.2.8. átmeneti védett terek,
+
+## 5.2.2.9. biztonsági és irányfényvilágítási lámpatestek, ezek központi akkumulátora,
+
+## 5.2.2.10. kiürítésre szolgáló ajtók, vésznyitók, pánikzárak, vészkijárati zárak,
+
+## 5.2.2.11. kiürítésre szolgáló fotocellás ajtók,
+
+## 5.2.2.12. menekülési útirányjelzések (az irány és az elhelyezési magasság feltüntetésével),
+
+## 5.2.2.13. biztonsági jelzések és jellegük,
+
+## 5.2.2.14. fali tűzcsapok, száraz oltóvízvezeték betáplálási és leágazási pontjai, oltóvízellátás nyomásfokozó szivattyúja,
+
+## 5.2.2.15. füstszakaszhatárok,
+
+## 5.2.2.16. füstgátló nyílászárók,
+
+## 5.2.2.17. hő- és füstelvezetés, füstmentesítés elszívó- és légpótló nyílásai, elszívó és légpótló csatornák, füstelvezető és légpótló felületek (nyílások),
+
+## 5.2.2.18. füstelvezető, füstmentesítő és légpótló ventillátorok helye, azok légbeszívó nyílásának helye,
+
+## 5.2.2.19. füst szabadba vezetésének helye,
+
+## 5.2.2.20. tűzgátló előterek szellőzőnyílásai, szellőzőventillátorai, az előterek szellőzését biztosító légcsatornák, azok szabadba nyíló vége,
+
+## 5.2.2.21. légtechnikai vezetékek,
+
+## 5.2.2.22. tűzgátló burkolattal ellátott légtechnikai vezetékek tűzgátló burkolata,
+
+## 5.2.2.23. tűzvédelmi berendezések, eszközök kezelőszerkezetei, vezérlőtablói,
+
+## 5.2.2.24. hasadó, hasadó-nyíló felületek,
+
+## 5.2.2.25. napelemek, a tűzvédelmi kapcsolók, nyomvonalak és rendszerelemek,
+
+## 5.2.2.26. technológiai alaprajz,
+
+## 5.2.3. homlokzati rajzok az alábbiak feltüntetésével:
+
+## 5.2.3.1. az éghető homlokzatburkolati, bevonati rendszerek, éghető homlokzati hőszigetelések,
+
+## 5.2.3.2. hasadó, hasadó-nyíló felületek,
+
+## 5.2.3.3. napelemek, a tűzvédelmi kapcsolók, nyomvonalak és rendszerelemek,
+
+## 5.2.4. metszetrajzok homlokzati és tetőtűz-terjedési gát megoldásáról.
+
+## 6. Üzemeléstechnológiai munkarész
+
+## 6.1. Egyes építménytípusoknál az építmény vagy egy részének működése, környezetre gyakorolt hatása okán technológiai (gyártás-, javítás-, vizsgálat-, konyha-, egészségügyi technológiai stb.) terv elkészítése válhat szükségessé, amely az építményre jellemző egyedi folyamatok működését írja le.
+
+## 6.2. Elemei különösen:
+
+## 6.2.1. technológiai műszaki leírás,
+
+## 6.2.2. technológiai terv.
+
+## 7. Környezetvédelmi munkarész
+
+## 7.1. Az építkezés környezetre gyakorolt hatásait mutatja be, különösen a levegőtisztaság-védelem, a víz- és földvédelem, a hulladékgazdálkodás, a zaj- és rezgésvédelem, az élővilág és természetvédelem, a megújuló energiaforrások használata és egyéb munkarészekkel, amely szöveges, rajzi formában készül, a vonatkozó ágazati jogszabályok előírásai alapján.
+
+## 7.2. Elemei különösen:
+
+## 7.2.1. levegőtisztaság-védelem,
+
+## 7.2.2. zaj- és rezgésvédelem,
+
+## 7.2.3. vízigénybevétel, vízminőség védelem,
+
+## 7.2.4. hulladékgazdálkodás.
+
+## 8. Műemlékvédelmi munkarész
+
+## Örökségvédelmi hatóság által meghatározott esetekben és tartalommal:
+
+## 8.1. Az építéstörténeti kutatási dokumentáció aktualizálása.
+
+## 8.2. Archív tervek és fényképek másolata.
+
+## 8.3. Épületkutatási dokumentáció.
+
+## 8.4. Épületdiagnosztikai vizsgálatok.
+
+## 8.5. Ha a műemlékkel kapcsolatos építési beruházás az építési engedély szerint restaurálási tevékenységet is tartalmaz, a műemlékvédelmi munkarész tartalmazza a 8.1. pontban foglaltakon túl a következő dokumentumokat:
+
+## 8.5.1. a restaurálás tárgyának felmérése, állapotleírása, fotódokumentáció a látható károsodásokkal,
+
+## 8.5.2. restaurátori kutatási dokumentáció külön jogszabályban meghatározott tartalommal,
+
+## 8.5.3. az esetleges korábbi restaurálások dokumentációja,
+
+## 8.5.4. restaurálási terv (az előírt beavatkozások, eljárások, a felhasználandó anyagok leírása, esztétikai helyreállítási javaslat),
+
+## 8.5.5. a kezelések várható eredményei és kockázata.
+
+## 8.6. Műemlékvédelmi kiviteli (részlet)tervek:
+
+## 8.6.1. külső homlokzatok helyreállítási (részlet)tervei,
+
+## 8.6.2. a belső falak és a mennyezetek, padlók, tetőzetek helyreállítási (részlet)tervei,
+
+## 8.6.3. kutatási dokumentációkon (a műemléki épületkutatási dokumentációkon és az épületdiagnosztikai vizsgálatokon) alapuló, a történeti tartó- és épületszerkezetek, illetve más tartozékok és alkotórészek helyreállítására (szükség esetén megerősítésére, pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek, csomópontok, az épületdíszítés tervei, a nyílászárók (részlet)tervei a profilokkal,
+
+## 8.6.4. színezési tervek, burkolatok (részlet)tervei, pl.: kiosztás, felületképzés, kezelés stb.,
+
+## 8.6.5. kert-történeti kutatási dokumentációkon alapuló, a történeti kertépítészeti elemek és a növényzet helyreállítására (szükség esetén pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek.
+
+## 9. Részletes, minden szakágra kiterjedő tételes költségvetés-kiírás, mennyiségi kimutatással.
+
+## 10. Építésszervezési munkarész
 
 ## A kivitelező által készített munkarész a tervezett építmény építőipari kivitelezési feladatainak megszervezéséhez szükséges részletezettségben tartalmazza:
 
-## a) az egyesített közmű (genplan) tervet, az építmények és a közművek összefüggéseinek áttekintését szolgáló elrendezési és időbeli fázisterveit,
+## 10.1. az egyesített közmű (genplan) tervet, az építmények és a közművek összefüggéseinek áttekintését szolgáló elrendezési és időbeli fázisterveit,
 
-## b) a kivitelezési tevékenység végzéséhez szükséges – tervezői koordinátor által ellenőrzött – munkabiztonsági és egészségvédelmi tervet.
+## 10.2. a kivitelezési tevékenység végzéséhez szükséges – tervezői koordinátor által ellenőrzött – munkabiztonsági és egészségvédelmi tervet.
 
-## 7. Környezetrendezési munkarész
+2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^174]
 
-## A kivitelezés során felhasznált anyagok, alkalmazott eljárások, technológiák környezetvédelmi szempontú leírása, ezen belül:
-
-## a) az építés során felhasznált – a külön jogszabály szerint környezetbarátnak minősített – anyagok leírása,
-
-## b) az alkalmazott napkollektoros, hőszivattyús és egyéb alternatív energiaforrásokkal üzemelő rendszerek leírása,
-
-## c) egyéb környezetvédelmi, természetvédelmi szempontok felsorolása.
-
-## V. Az épületek energetikai jellemzőinek meghatározásáról szóló jogszabályban meghatározott esetekben – annak melléklete szerinti – energetikai számításokat kell készíteni.
-
-2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^107]
-
-[^107]: A 2. melléklet a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^174]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § b) pontjával megállapított szöveg.

@@ -18,9 +18,9 @@ e) a 17. § (2) bekezdés alapján építtetői fedezetkezelő működik közre.
 
 (3) Az építtető helyszíni képviselőjeként – ha a felek további feladatokról nem állapodtak meg – az építési műszaki ellenőr feladata:
 
-a) az Étv. 43. § (1) bekezdés b)–d) és g) pontjában meghatározottak,
+a)[^64] az Étv. 43. § (1) bekezdés e)–h) pontjában meghatározottak,
 
-b) az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a jogerős építési (létesítési) engedély, illetve műemlék esetén örökségvédelmi hatósági engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
+b)[^65] az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a jogerős építési (létesítési) engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
 
 c) az építmény kitűzése helyességének, szükség esetén a talajmechanikai, környezetvédelmi és egyéb felmérések, vizsgálatok megtörténtének ellenőrzése,
 
@@ -36,7 +36,7 @@ h) az átadás-átvételi és a birtokbaadási eljárásban való részvétel,
 
 i) egyes építményfajták műszaki teljesítmény-jellemzőinek ellenőrzése, a technológiával összefüggő biztonsági előírások betartásának ellenőrzése,
 
-j) a beépített anyagok, késztermékek és berendezések megfelelőség-igazolása meglétének ellenőrzése,
+j)[^66] a beépített építési termékek teljesítmény nyilatkozatai meglétének ellenőrzése,
 
 k) az építési műszaki ellenőri feladatok elvégzésének dokumentálása az építési naplóban,
 
@@ -46,13 +46,15 @@ m) műszaki kérdésekben javaslattétel (pl. szakértő bevonására),
 
 n) pénzügyi elszámolások, felmérések ellenőrzése,
 
-o)[^23] a teljesítésigazolás kiállítása és – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – az építtető, a fővállalkozó kivitelező, valamint az építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése,
+o)[^67] a teljesítésigazolás kiállítása és – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – az építtető, a fővállalkozó kivitelező, valamint az építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése,
 
-p)[^24] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
+p)[^68] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
 
-q)[^25] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
+q)[^69] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
 
-r)[^26] építtetői fedezetkezelő közreműködése esetén a teljesítésigazolásban foglalt számlázható összegnek az elektronikus alvállalkozói nyilvántartásban történő haladéktalan rögzítése.
+r)[^70]
+
+s)[^71] a 13. § (3) bekezdés o)–p) pontjában foglaltak teljesülésének ellenőrzése.
 
 (4) Ha az építőipari kivitelezési tevékenységet több fővállalkozó kivitelező végzi, az építési műszaki ellenőr összehangolja a felelős műszaki vezetők tevékenységét és gondoskodik arról, hogy az elvégzett építési-szerelési munkák (részmunkák) vonatkozásában az egyes fővállalkozó kivitelezők felelős műszaki vezetői által tett nyilatkozatok – az építési napló részeként – a használatbavételi engedély iránti kérelem benyújtásakor az építtető és az építésügyi hatóság rendelkezésére álljanak.
 
@@ -74,7 +76,11 @@ f) az építési műszaki ellenőr díját, fizetési módját, határidejét,
 
 g) az építési műszaki ellenőrnek a jogszabályban meghatározott feladatokon és felelősségén kívüli további feladatait és felelősségét.
 
-[^23]: A 16. § (3) bekezdés o) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^24]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^25]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^26]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^64]: A 16. § (3) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § i) pontja szerint módosított szöveg.
+[^65]: A 16. § (3) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont ka) alpontja szerint módosított szöveg.
+[^66]: A 16. § (3) bekezdés j) pontja a 322/2012. (XI. 16.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
+[^67]: A 16. § (3) bekezdés o) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^68]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^69]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^70]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont kb) alpontja.
+[^71]: A 16. § (3) bekezdés s) pontját a 322/2012. (XI. 16.) Korm. rendelet 71. § (3) bekezdése iktatta be.

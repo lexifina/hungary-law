@@ -1,4 +1,4 @@
-## 6. § Az építtető, a beruházáslebonyolító, a tervező (a kivitelezési dokumentáció tervezője, ideértve a szakági tervezőt is), a tervellenőr, a vállalkozó kivitelező, a felelős műszaki vezető, a tervezői művezető, az építési műszaki ellenőr, az építtetői fedezetkezelő, valamint a külön jogszabály szerinti biztonsági és egészségvédelmi koordinátor (a továbbiakban együtt: az építőipari kivitelezési tevékenység résztvevői) kötelesek együttműködni a kivitelezési folyamatok megvalósítása érdekében.
+## 6. §[^27] Az építtető, a beruházáslebonyolító, a tervező (a kivitelezési dokumentáció tervezője, ideértve a szakági tervezőt is), a vállalkozó kivitelező, a felelős műszaki vezető, a tervezői művezető, az építési műszaki ellenőr, az építtetői fedezetkezelő, valamint a külön jogszabály szerinti biztonsági és egészségvédelmi koordinátor (a továbbiakban együtt: az építőipari kivitelezési tevékenység résztvevői) kötelesek együttműködni a kivitelezési folyamatok megvalósítása érdekében.
 
 ## Az építtető
 
@@ -12,7 +12,7 @@ b) a tervező kiválasztása, jogszabályban meghatározott esetekben a tervező
 
 c) az 1. mellékletben meghatározott tartalmú kivitelezési dokumentáció meglétéről való gondoskodás, az abban foglaltak betartatása,
 
-d) az Étv. 39/A. § (2) bekezdésében és e rendelet 13. § (8) bekezdésében meghatározott esetben az építési szakmunkás kiválasztása,
+d)[^28]
 
 e) az építési napló ellenőrzése,
 
@@ -22,6 +22,11 @@ g) az igazoltan elvégzett teljesítések pénzügyi elszámolásának ellenőrz
 
 h) a 17. § (2) bekezdés szerinti esetben gondoskodni az építtetői fedezetkezelő közreműködéséről,
 
-i)[^13] a 16. § (3) bekezdés p) pontja esetében a teljesítésigazolás kiállítása és a fővállalkozó kivitelező által számlázható összeg meghatározása, továbbá ezeknek – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – a fővállalkozó kivitelező, valamint építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése.
+i)[^29] a 16. § (3) bekezdés p) pontja esetében a teljesítésigazolás kiállítása és a fővállalkozó kivitelező által számlázható összeg meghatározása, továbbá ezeknek – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – a fővállalkozó kivitelező, valamint építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése,
 
-[^13]: A 7. § (2) bekezdés i) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+j)[^30] a fővállalkozó kivitelező építési naplóban történő azonnali értesítése, ha az építési szerződésben meghatározott, de még el nem kezdett kivitelezési szakasz ellenértékének rendelkezésre álló fedezete olyan mértékben csökkent, ami nem elegendő a még hátra lévő szerződés szerinti vállalkozói díj teljesítésére.
+
+[^27]: A 6. § a 322/2012. (XI. 16.) Korm. rendelet 93. § d) pontja szerint módosított szöveg.
+[^28]: A 7. § (2) bekezdés d) pontját a 322/2012. (XI. 16.) Korm. rendelet 93. § e) pontja hatályon kívül helyezte.
+[^29]: A 7. § (2) bekezdés i) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^30]: A 7. § (2) bekezdés j) pontját a 322/2012. (XI. 16.) Korm. rendelet 62. §-a iktatta be.
