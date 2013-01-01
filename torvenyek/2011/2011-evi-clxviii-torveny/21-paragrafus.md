@@ -3,3 +3,13 @@
 (2) Az (1) bekezdésben foglaltakat megfelelően alkalmazni kell a mezőgazdasági termény harmadik személy javára történő termeltetése esetén is.
 
 (3) A választottbíráskodásról szóló 1994. évi LXXI. törvény 55. § (2) bekezdés b) pontja szerint közrendbe ütközőnek kell tekinteni az olyan választottbírósági ítéletet, amely a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben képtelen termelőt a hiányzó mezőgazdasági termény – teljesítés céljából való – pótlására, beszerzésére vagy helyette más szolgáltatás, illetve biztosíték nyújtására kötelezi.
+
+(4) Az (1) bekezdés szerinti szerződésnek kell tekinteni azt a szerződést is, amellyel
+
+a) az általa megtermelt mezőgazdasági terményt
+
+aa) a termelő olyan gazdasági társaságon vagy szövetkezeten keresztül értékesíti, amelynek tulajdonosa vagy tagja, vagy
+
+ab) a termelőtől továbbértékesítés céljából termeltetési szerződés keretében vásárolják fel,
+
+b) a családi gazdálkodó a gazdálkodó család tagja által megtermelt mezőgazdasági terményt értékesíti.

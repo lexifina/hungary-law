@@ -18,6 +18,6 @@ d) a hozamérték-csökkenés mértékéről.
 
 (6) Az agrárkár-megállapító szerv a hozamérték-csökkenés mértékét – e törvény eltérő rendelkezése hiányában – az e törvény végrehajtásáról szóló rendeletben foglaltaknak megfelelően állapítja meg.
 
-(7) Az agrárkár-megállapító szerv az (1) bekezdés szerint kiállított hatósági bizonyítványt a kárenyhítő juttatás iránti kérelemmel együtt a tárgyévet követő év január 15-éig beérkezőleg küldi meg a mezőgazdasági igazgatási szervhez, amely továbbítja azokat az agrárkár-enyhítési szervhez.
+(7) Az agrárkár-megállapító szerv az e törvény végrehajtásáról szóló rendeletben foglaltaknak megfelelően az (1) bekezdés szerint kiállított hatósági bizonyítványt a kárenyhítő juttatás iránti kérelemmel együtt megküldi az agrárkár-enyhítési szervhez, míg a kárenyhítő juttatás iránti kérelmek ellenőrzött adataiból készített adatállományt továbbítja a mezőgazdasági igazgatási szervhez.
 
 (8) Az agrárkár-enyhítési eljárás során kiállított valamennyi hatósági bizonyítvány tárgyi illetékmentes.

@@ -14,7 +14,7 @@
 
 7. elemi káresemény: a jégesőkár, aszálykár, belvízkár, viharkár, tavaszi fagykár, téli fagykár, felhőszakadáskár;
 
-8. fagy: a kockázatviselés helyén, a talajszinttől számított két méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
+8.
 
 9. felhőszakadás: azon időjárási jelenség, amelynek során a kockázatviselés helyén lehullott csapadék húsz perc alatt mért átlagos intenzitása elérte vagy meghaladta a 0,75 mm/perc értéket, vagy a lehullott csapadék mennyisége huszonnégy óra alatt elérte vagy meghaladta a negyvenöt mm-t;
 
@@ -38,9 +38,9 @@
 
 19. mezőgazdasági árvízkár: a kockázatviselés helyén termesztett növényekben az árvíz miatt bekövetkezett olyan káresemény, amely a növénykultúra legalább 30%-os mértékű hozamcsökkenését okozza;
 
-20. mezőgazdasági biztosítás: a lábon álló növényi kultúrára üzleti alapon kötött vagyonbiztosítás;
+20. mezőgazdasági biztosítás: a lábon álló növényi kultúrára, valamint a gazdasági céllal tartott, illetve tenyésztett haszonállatra kötött vagyonbiztosítás;
 
-21. mezőgazdasági káresemény: az elemi káresemény, valamint az árvízkár;
+21. mezőgazdasági káresemény: az elemi káresemény, valamint a mezőgazdasági árvízkár;
 
 22. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
 
@@ -48,23 +48,27 @@
 
 24. mezőgazdasági termény termeltetése: a mezőgazdasági termény termelőjével kötött olyan megállapodás, amely keretében a mezőgazdasági termény termelője a mezőgazdasági termény megtermelését segítő szolgáltatást vesz igénybe, és az így megtermelt mezőgazdasági terményt a szolgáltatás nyújtója saját felhasználás vagy továbbértékesítés céljára átveszi;
 
-25. mikro-, kis- és középvállalkozás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet I. melléklete szerinti mikro-, kis- és középvállalkozás, ideértve a mezőgazdasági őstermelőt is;
+25.
 
 26. referenciahozam: a referencia-időszak hozamaiból a legmagasabb és a legalacsonyabb érték elhagyásával képzett átlag;
 
-27. referenciahozam-érték: a referenciahozamból számított átlagtermés, az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott áron számított, üzemi szintű értéke;
+27. referenciahozam-érték: a referenciahozam alapján számított átlagtermés, az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott referenciaáron számított, üzemi szintű értéke;
 
 28. referencia-időszak: tárgyévet megelőző ötéves időszak;
 
 29. szántóföldi zöldség: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. melléklet második rész II. áruosztály 7. árucsoportjába tartozó termékek, továbbá a görög- és a sárgadinnye;
 
-30. tavaszi fagykár: a téli nyugalmi periódus végét követően jelentkező fagy miatt, a kockázatviselés helyén termesztett növényekben bekövetkezett olyan káresemény, amelynek során a termőrügyek, virágok vagy terméskezdemények elhalnak, és ennek következtében a növénykultúra legalább 30%-os mértékű hozamcsökkenést szenved;
+30. tavaszi fagy: a kockázatviselés helyén, a talajszinttől számított két méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
 
-31. tárgyévi hozamérték: a használatban lévő termőföldről a tárgyévben betakarított termékeknek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott áron számított értéke;
+30a. tavaszi fagykár: a téli nyugalmi periódus végét követően jelentkező tavaszi fagy miatt, a kockázatviselés helyén termesztett növényekben bekövetkezett olyan káresemény, amelynek során a termőrügyek, virágok vagy terméskezdemények elhalnak, és ennek következtében a növénykultúra legalább 30%-os mértékű hozamcsökkenést szenved;
 
-32. téli fagykár: a kockázatviselés helyén, nyugalmi periódusban, az őszi kalászos gabona-, a repce- és az őszi takarmánykeverék kultúráinak a fagy miatt bekövetkezett kipusztulását, valamint az ültetvényekben a termőrészek vagy növényegyedek fagy miatt bekövetkezett elhalásából adódóan legalább 30%-os hozamcsökkenést eredményező káresemény;
+31. tárgyévi hozamérték: a használatban lévő termőföldről a tárgyévben betakarított termékeknek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben a tárgyévre vonatkozóan meghatározott referenciaáron számított értéke;
 
-33. üzemi szint: a tárgyévi egységes kérelemben feltüntetett összes mezőgazdasági hasznosítású terület;
+32. téli fagy: a kockázatviselés helyén, a talajszinttől számított két méter magasságban mért mínusz 15 °C vagy annál alacsonyabb hőmérséklet;
+
+32a. téli fagykár: a kockázatviselés helyén, nyugalmi periódusban, az őszi kalászos gabona-, a repce- és az őszi takarmánykeverék kultúráinak a téli fagy miatt bekövetkezett kipusztulásából, valamint az ültetvényekben a termőrészek vagy növényegyedek téli fagy miatt bekövetkezett elhalásából adódóan legalább 30%-os hozamcsökkenést eredményező káresemény;
+
+33. üzemi szint: a tárgyévi egységes kérelemben feltüntetett összes használatban lévő termőföld figyelembevételével megállapított üzemméret;
 
 34. vihar: a legalább húsz m/sec. szélsebesség;
 

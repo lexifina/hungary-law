@@ -2,7 +2,7 @@
 
 17. § (1) A biztosító köteles a mezőgazdasági biztosítási szerződés alapján díjtámogatás iránti kérelmet benyújtó mezőgazdasági termelő használatában lévő területre kötött mezőgazdasági biztosítási szerződés adatai közül
 
-a) a biztosított mezőgazdasági termelő azonosítására (név, székhely vagy lakcím, eljárási tv. szerinti regisztrációs szám),
+a) a biztosított mezőgazdasági termelő azonosítására (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító szám),
 
 b) a biztosított növénykultúra megnevezésére,
 
@@ -10,11 +10,11 @@ c) a kockázatviselés helyére, valamint
 
 d) a biztosítási díj mértékére
 
-vonatkozó adatokat az a) és b) pont szerinti adatok esetében június 8-áig, a c) és d) pont szerinti adatok esetében július 15-éig átadni az agrárkár-enyhítési szerv részére.
+vonatkozó adatokat az a) és b) pont szerinti adatok esetében június 15-ig, a c) és d) pont szerinti adatok esetében augusztus 1-jéig átadni az agrárkár-enyhítési szerv részére.
 
 (2) A biztosító köteles:
 
-a) a mezőgazdasági biztosítási szerződés alapján díjtámogatás iránti kérelmet benyújtó mezőgazdasági termelő által kötött mezőgazdasági biztosítási szerződés adatai alapján a mezőgazdasági termelő azonosítására szolgáló adatokról (név, székhely vagy lakcím, eljárási tv. szerinti regisztrációs szám),
+a) a mezőgazdasági biztosítási szerződés alapján díjtámogatás iránti kérelmet benyújtó mezőgazdasági termelő által kötött mezőgazdasági biztosítási szerződés adatai alapján a mezőgazdasági termelő azonosítására szolgáló adatokról (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító szám),
 
 b) a kockázatviselés helye szerinti bontásban a biztosítónak bejelentett mezőgazdasági káreseményről, valamint
 
@@ -22,20 +22,32 @@ c) a mezőgazdasági termelő részére a mezőgazdasági biztosítási szerződ
 
 tájékoztatni az agrárkár-enyhítési szervet és a mezőgazdasági igazgatási szervet, amely ezen információkat továbbítja az agrárkár-megállapító szervhez.
 
-(3) A biztosító köteles a mezőgazdasági biztosítás díjtámogatása iránti kérelmet benyújtó mezőgazdasági termelők által kötött mezőgazdasági biztosítási szerződések alapján kockázatviselés helyenkénti bontásban:
+(3) A biztosító köteles a mezőgazdasági biztosítási díjtámogatás iránt kérelmet benyújtó mezőgazdasági termelők által kötött valamennyi növénybiztosítási szerződés adatairól kárnemenkénti és kockázatviselési hely szerinti bontásban:
 
-a) a károsodott kultúra nevéről,
+a) a biztosított mezőgazdasági termelők vonatkozásában
 
-b) a károsodott kultúra üzemi szintű területéről,
+aa) az eljárási tv. szerinti ügyfél-azonosító számáról,
 
-c) a biztosítási érték hektáronkénti mértékéről,
+ab) a biztosított kultúra megnevezéséről,
 
-d) a kárt vagy károkat okozó kárnemekről,
+ac) a biztosított kultúra üzemi szintű területéről,
 
-e) a kár forintosított értékéről, valamint
+ad) a biztosított kultúra hektáronkénti biztosítási összegéről,
 
-f) a káresemény helyéről
+ae) a biztosított kultúrára kötött biztosítás díjáról, valamint
+
+af) a biztosított kultúra MePAR azonosító szerinti helyéről;
+
+b) a biztosított és károsodott mezőgazdasági termelők vonatkozásában
+
+ba) a károsodott kultúra nevéről,
+
+bb) a kárt vagy károkat okozó kárnemekről,
+
+bc) a kárkifizetés összegéről, valamint
+
+bd) a káresemény MePAR azonosító szerinti helyéről
 
 évente egy alkalommal a miniszter által vezetett minisztérium irányítása alatt álló és gazdasági elemzésekkel foglalkozó intézményt tájékoztatni.
 
-(4) A (3) bekezdés szerinti, a biztosító által átadott adatokat a miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézmény csak statisztikai, gazdaságelemzési és rendszerfejlesztési célból kezelheti.
+(4) A (3) bekezdés szerinti adatokat a miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézmény statisztikai, gazdaságelemzési és rendszerfejlesztési célból használhatja fel.

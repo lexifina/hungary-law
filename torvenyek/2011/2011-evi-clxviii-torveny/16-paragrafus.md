@@ -2,7 +2,7 @@
 
 16. § (1) A mezőgazdasági termelő uniós jogi aktusban foglaltak szerint az időjárási kockázatokra kötött, és e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben foglaltaknak megfelelő mezőgazdasági biztosítási szerződés díjához támogatást vehet igénybe.
 
-(2) A miniszter a biztosító kérelmére – az uniós jogi aktusban foglalt előírások teljesítésének vizsgálatát követően – előzetesen jóváhagyja a biztosító által alkalmazott mezőgazdasági biztosításra vonatkozó, (1) bekezdés szerinti szerződés általános szerződési feltételeinek megfelelőségét. A jóváhagyás csak abban az esetben tagadható meg, ha a mezőgazdasági biztosítási szerződés ellentétes az e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben meghatározottakkal.
+(2) A miniszter a biztosító kérelmére – az uniós jogi aktusban foglalt előírások teljesítésének vizsgálatát követően – előzetesen jóváhagyja a biztosító által alkalmazott mezőgazdasági biztosításra vonatkozó, (1) bekezdés szerinti szerződés különös szerződési feltételeinek megfelelőségét. A jóváhagyás csak abban az esetben tagadható meg, ha a mezőgazdasági biztosítási szerződés ellentétes az e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben meghatározottakkal.
 
 (3) A (2) bekezdésben foglalt előzetes jóváhagyás hiánya esetén a mezőgazdasági biztosítási szerződésnek e törvényben, valamint az e törvény végrehajtásáról szóló rendeletben meghatározottakkal való összhangját az agrárkár-enyhítési szerv a mezőgazdasági biztosítás díjához nyújtott támogatási kérelemmel egyidejűleg vizsgálja.
 
@@ -12,4 +12,4 @@
 
 a) a kockázatviselés helyét a MePAR kötelező alkalmazásával is meg kell határozni, és
 
-b) a mezőgazdasági termelő regisztrációs számát is fel kell tüntetni.
+b) a mezőgazdasági termelő ügyfél-azonosító számát is fel kell tüntetni.
