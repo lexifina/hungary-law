@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-219-20-
 | 2012-06-27 | 2004-219-20-22.18 | 124/2012. (VI. 26.) Korm. rendelet |
 | 2012-07-11 | 2004-219-20-22.19 | 145/2012. (VII. 3.) Korm. rendelet |
 | 2012-07-28 | 2004-219-20-22.20 | 300/2011. (XII. 22.) Korm. rendelet |
+| 2013-01-01 | 2004-219-20-22.21 | 182/2009. (IX. 10.) Korm. rendelet |

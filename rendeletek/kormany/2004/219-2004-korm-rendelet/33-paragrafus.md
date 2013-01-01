@@ -4,7 +4,7 @@
 
 33. § (1)[^205] Tartós környezetkárosodásnak minősül, ha a rendelet hatálya alá tartozó tevékenység olyan károsodást okozott a földtani közegben, illetve a felszín alatti vízben, amely a természeti folyamatok vagy beavatkozás révén a tényfeltárási záródokumentáció elfogadásától számított öt éven belül sem csökken a (D) kármentesítési célállapot határérték alá.
 
-(2)[^206] A pontszerű szennyezőforráshoz tartozó tartós környezeti károsodás tényfeltárását követően a felügyelőség a tényfeltárás eredménye alapján határozatot hoz, és azt a vázrajzzal együtt megküldi az illetékes körzeti földhivatalnak a tartós környezetkárosodás tényének feljegyzése végett. Az ingatlan-nyilvántartási feljegyzésben a tartós környezetkárosodás tényének feltüntetése mellett utalni kell a tény jellegét és mértékét megállapító jogerős határozatra, illetve az annak mellékletét képező vázrajzra.
+(2)[^206] A pontszerű szennyezőforráshoz tartozó tartós környezeti károsodás tényfeltárását követően a felügyelőség a tényfeltárás eredménye alapján határozatot hoz, és azt a vázrajzzal együtt megküldi az illetékes járási földhivatalnak a tartós környezetkárosodás tényének feljegyzése végett. Az ingatlan-nyilvántartási feljegyzésben a tartós környezetkárosodás tényének feltüntetése mellett utalni kell a tény jellegét és mértékét megállapító jogerős határozatra, illetve az annak mellékletét képező vázrajzra.
 
 (3) A (2)[^207] bekezdés szerinti határozatnak tartalmaznia kell a károsodás jellegét és mértékét az alábbiak szerint:
 
@@ -41,7 +41,7 @@ b) a bejegyzett adatok nagyságrendet meghaladó változása esetén a változá
 (7)[^213] A tartós károsodással érintett területek ingatlan-nyilvántartásba bejegyzésének kezdeményezésével egyidejűleg a hatóság közli határozatát az érintett önkormányzattal is. E szerint jár el a (6) bekezdés szerinti módosulások esetében is.
 
 [^205]: A 33. § (1) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (1)–(2) bekezdése szerint módosított szöveg.
-[^206]: A 33. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 359. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^206]: A 33. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 359. §-a, a 296/2012. (X. 17.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^207]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
 [^208]: A 33. § (3) bekezdésének a) pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
 [^209]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
