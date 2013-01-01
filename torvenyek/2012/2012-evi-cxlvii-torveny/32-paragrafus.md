@@ -1,1 +1,3 @@
-### 32. §
+## „2. a kisvállalati adó hatálya alá tartozó adózó részére visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó;”
+
+32. § A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 39/B. §-a helyébe a következő rendelkezés lép:

@@ -31,3 +31,5 @@ h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnöveked�
 (7) Az adóalanyiság (5) bekezdésben meghatározott megszűnése napjával, mint mérlegfordulónappal önálló üzleti év végződik.
 
 (8) Az adóalanyiság megszűnését követő két adóévre az adóalanyiság ismételten nem választható.
+
+(9) Az (1) bekezdéstől eltérően az adóévben újonnan alakuló adózó adóalanyisága a társasági szerződése közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön, feltéve, hogy a kisvállalati adó szerinti adóalanyiság választását a társasági szerződése közokiratba foglalásának, ellenjegyzésének, az első jognyilatkozat megtételének, illetve az alapítását szabályozó jogszabály szerinti létrejövetelének napjától számított 30 napon belül bejelenti az állami adóhatóságnak. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
