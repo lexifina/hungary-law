@@ -4,6 +4,6 @@
 
 (2) E rendelet 15. és 16. §-a e rendelet kihirdetését követő nyolcadik napon lép hatályba.
 
-(3)[^8] A rendelet hatálybalépését megelőzően létesített méhészetek esetében 2008. december 31-ig kell e rendelet előírásainak megfelelni.
+(3)[^9] A rendelet hatálybalépését megelőzően létesített méhészetek esetében 2008. december 31-ig kell e rendelet előírásainak megfelelni.
 
-[^8]: A 14. § (3) bekezdését a 95/2008. (VII. 25.) FVM rendelet 16. § (3) bekezdése iktatta be.
+[^9]: A 14. § (3) bekezdését a 95/2008. (VII. 25.) FVM rendelet 16. § (3) bekezdése iktatta be.
