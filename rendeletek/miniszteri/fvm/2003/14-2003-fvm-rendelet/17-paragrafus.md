@@ -10,6 +10,8 @@ b) a vágóhídra szállítandó sertések vizsgálata befejeződött;
 
 c) minden sertést egyedileg füljelzéssel láttak el vagy más módon megjelöltek;
 
-d) a sertések szállítása a kerületi főállatorvos által lepecsételt járművel történik;
+d)[^10] a sertések szállítása a járási főállatorvos által lepecsételt járművel történik;
 
 e) a vágóhíd helye szerinti illetékes állomás engedélyezte a sertések beszállítását.
+
+[^10]: A 17. § (3) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 17. § b) pontja szerint módosított szöveg.
