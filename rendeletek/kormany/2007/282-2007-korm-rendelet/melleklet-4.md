@@ -42,41 +42,45 @@
 
 Szakvélemény adására feljogosított szervek
 
+2K29554R_0
+
 | A szakterület és az ahhoz kapcsolódó szakkérdés (vizsgálat) megjelölése | A szakvélemény adására feljogosított szervezet |
 
 | 1. | Büntetőügyekben szükséges kriminalisztikai és egyéb szakkérdések esetén felmerülő vizsgálatok: |  |
 
-|  | a) az alkotmányos rendet sértő nyomdai és sajtótermékek vizsgálata | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+|  | a) | az alkotmányos rendet sértő nyomdai és sajtótermékek vizsgálata | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-|  | b) értékpapír, értékcikk, egyéb okmány vagy nyomtatvány eredetiségével, illetve hamisításával kapcsolatos vizsgálat |  |
+|  | b) | értékpapír, értékcikk, egyéb okmány vagy nyomtatvány eredetiségével, illetve hamisításával kapcsolatos vizsgálat |  |
 
-|  | c) nyelvészeti vizsgálat |  |
+|  | c) | nyelvészeti vizsgálat |  |
 
-|  | d) hangtechnikai vizsgálat |  |
+|  | d) | hangtechnikai vizsgálat |  |
 
-|  | e) írásszakértői vizsgálat |  |
+|  | e) | írásszakértői vizsgálat |  |
 
-|  | f) fotó- és videotechnikai vizsgálat |  |
+|  | f) | fotó- és videotechnikai vizsgálat |  |
 
-|  | g) kémiai anyagok analitikai vizsgálata |  |
+|  | g) | kémiai anyagok analitikai vizsgálata |  |
 
-|  | h) fizikai vizsgálat | Bűnügyi Szakértői és Kutatóintézet |
+|  | h) | informatikai szakkérdések vizsgálata |  |
 
-|  | i) textilszakértői, vegyészeti vizsgálat, ideértve (a toxikológiai és az áruminőségi vizsgálatok kivételével) öngyulladással és egyéb tűzesettel kapcsolatos vegyelemzés |  |
+|  | i) | fizikai vizsgálat | Bűnügyi Szakértői és Kutatóintézet |
 
-|  | j) fegyver- és lőszerszakértői vizsgálat |  |
+|  | j) | textilszakértői, vegyészeti vizsgálat, ideértve (a toxikológiai és az áruminőségi vizsgálatok kivételével) öngyulladással és egyéb tűzesettel kapcsolatos vegyelemzés |  |
 
-|  | k) nyomszakértői vizsgálat |  |
+|  | k) | fegyver- és lőszerszakértői vizsgálat |  |
 
-|  | l) tárgy fénykép alapján történő azonosítása |  |
+|  | l) | nyomszakértői vizsgálat |  |
 
-|  | m) mikromaradványok vizsgálata |  |
+|  | m) | tárgy fénykép alapján történő azonosítása |  |
 
-|  | n) a Nemzetbiztonsági Szakszolgálat Szakértői Intézete kizárólagos hatáskörébe nem tartozó iratok okmányszakértői vizsgálata | Bűnügyi Szakértői és Kutatóintézet Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+|  | n) | mikromaradványok vizsgálata |  |
 
-|  | o) személy fénykép alapján történő azonosítása | Igazságügyi Szakértői és Kutatóintézet |
+|  | o) | a Nemzetbiztonsági Szakszolgálat Szakértői Intézete kizárólagos hatáskörébe nem tartozó iratok okmányszakértői vizsgálata | Bűnügyi Szakértői és Kutatóintézet Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-|  | p) vegyészeti vizsgálat, termékhamisítási ügyekben fizikai-kémiai vizsgálatok, ideértve az eredetiség vizsgálatát is | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
+|  | p) | személy fénykép alapján történő azonosítása | Igazságügyi Szakértői és Kutató Intézetek |
+
+|  | q) | vegyészeti vizsgálat, termékhamisítási ügyekben fizikai-kémiai vizsgálatok, ideértve az eredetiség vizsgálatát is | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
 | 2. | Tűzvédelemmel kapcsolatos szakkérdés | Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok |
 
@@ -86,37 +90,37 @@ Szakvélemény adására feljogosított szervek
 
 | 5. | Kulturális szakterületek: |  |
 
-|  | 1. Kulturális javakkal összefüggő szakkérdések |  |
+|  | 1. Kulturális javakkal összefüggő szakkérdések |  |
 
-|  | a) régészeti leletek, történeti emlékek és fotótörténeti emlékek vizsgálata, numizmatika | Magyar Nemzeti Múzeum |
+|  | a) régészeti leletek, történeti emlékek és fotótörténeti emlékek vizsgálata, numizmatika | Magyar Nemzeti Múzeum |
 
-|  | b) természettudományi emlékek vizsgálata | Magyar Természettudományi Múzeum |
+|  | b) természettudományi emlékek vizsgálata | Magyar Természettudományi Múzeum |
 
-|  | c) műszaki és technikatörténeti tárgyak vizsgálata | Országos Műszaki Múzeum |
+|  | c) műszaki és technikatörténeti tárgyak vizsgálata | Országos Műszaki Múzeum |
 
-|  | d) képző- és iparművészeti emlékek vizsgálata | Magyar Nemzeti Galéria Szépművészeti Múzeum Iparművészeti Múzeum |
+|  | d) képző- és iparművészeti emlékek vizsgálata | Magyar Nemzeti Galéria Szépművészeti Múzeum Iparművészeti Múzeum |
 
-|  | e) néprajzi emlékek vizsgálata | Néprajzi Múzeum |
+|  | e) néprajzi emlékek vizsgálata | Néprajzi Múzeum |
 
-|  | f) irodalom- és színháztörténeti emlékek vizsgálata | Petőfi Irodalmi Múzeum Országos Színháztörténeti Múzeum és Intézet |
+|  | f) irodalom- és színháztörténeti emlékek vizsgálata | Petőfi Irodalmi Múzeum Országos Színháztörténeti Múzeum és Intézet |
 
-|  | g) zene- és hangszertörténeti emlékek vizsgálata | Magyar Tudományos Akadémia Zenetudományi Intézete Zenetörténeti Múzeuma Iparművészeti Múzeum |
+|  | g) zene- és hangszertörténeti emlékek vizsgálata | Magyar Tudományos Akadémia Zenetudományi Intézete Zenetörténeti Múzeuma Iparművészeti Múzeum |
 
-|  | h) könyvtári dokumentumok vizsgálata | Országos Széchényi Könyvtár |
+|  | h) könyvtári dokumentumok vizsgálata | Országos Széchényi Könyvtár |
 
-|  | i) levéltári dokumentumok vizsgálata | Magyar Országos Levéltár |
+|  | i) levéltári dokumentumok vizsgálata | Magyar Országos Levéltár |
 
 |  | 2. Az 1. pontban megjelölt kulturális javak állagvédelme, restaurálása, preparálása | Magyar Nemzeti Múzeum Magyar Természettudományi Múzeum Országos Műszaki Múzeum Magyar Nemzeti Galéria Szépművészeti Múzeum Képzőművészeti Egyetem Restaurátorképző Intézet Országos Széchényi Könyvtár Magyar Országos Levéltár |
 
 |  | 3. Mozgóképekkel összefüggő szakkérdések |  |
 
-|  | a) mozgóképgyártás | Színház és Filmművészeti Egyetem |
+|  | a) mozgóképgyártás | Színház és Filmművészeti Egyetem |
 
-|  | b) mozgókép-terjesztés, állagvédelem | Magyar Nemzeti Filmarchívum |
+|  | b) mozgókép-terjesztés, állagvédelem | Magyar Nemzeti Filmarchívum |
 
-|  | 4. Műemlékvédelemmel összefüggő szakkérdések | Budapest Főváros Kormányhivatala műemlékvédelmi és régészeti örökségvédelmi szakigazgatási neve, Forster Gyula Nemzeti Örökséggazdálkodási Szolgáltatási Központ Budapesti Műszaki és Gazdaságtudományi Egyetem |
+|  | 4. |  |
 
-|  | 5. Régészeti lelőhelyekkel összefüggő szakkérdések | Budapest Főváros Kormányhivatala műemlékvédelmi és régészeti örökségvédelmi szakigazgatási neve, Forster Gyula Nemzeti Örökséggazdálkodási Szolgáltatási Központ Magyar Nemzeti Múzeum |
+|  | 5. |  |
 
 | 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Munkaügyi Hivatal Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
@@ -126,6 +130,10 @@ Szakvélemény adására feljogosított szervek
 
 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggö szakkérdés | Nemzeti Környezetügyi Intézet (NeKI) |
 
-|  |  | Környezetvédelmi és Vízgazdálkodási Tudományos Kutató Intézet Közhasznú Társaság (VITUKI Kht.) |
+| 10. | Régészeti örökség és műemléki érték védelme |  |
 
-[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 310/2012. (XI. 6.) Korm. rendelet 17. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 11. §-a szerint a folyamatban lévő ügyekben is alkalmazni kell.
+|  |  | 1. | Műemléki értékekkel összefüggő szakkérdések | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+
+|  |  | 2. | Régészeti örökséggel kapcsolatos szakkérdések | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+
+[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 310/2012. (XI. 6.) Korm. rendelet 17. §-a, a 394/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
