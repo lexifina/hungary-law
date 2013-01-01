@@ -2,184 +2,92 @@
 
 1. számú melléklet
 
-a 339/2008. (XII. 30.) Korm. rendelethez
+a 339/2008. (XII. 30.) Korm. rendelethez[^4]
 
 ## Adatszolgáltatás reprodukciós eljárás során elvégzett beavatkozásról
 
-1. Résztvevő centrum ÁNTSZ kódja:
+## Az adatszolgáltatás során az alábbi adatok kerülnek továbbításra:
 
-2. Kapcsolati kód:
+1. ÁNTSZ azonosító
 
-3. Az adott intézetből jelentett ciklus (napló) száma (x/2008):
+2. Intézményi törzsszám
 
-4. Paciens életkora:
+3. TAJ szám (A külföldi személyek esetén a TAJ szám: 000000000)
 
-5. Férj/élettárs életkora:
+4. OEP finanszírozott
 
-6. Anamnézis:
+5. Páciens születési éve
 
-6.1. hányadik IVF lesz az intézetben:
+6. Férj/partner születési éve
 
-6.2. korábbi embriótranszferek száma az intézetben:
+7. Összesen hányadik friss IVF ciklus kezdődik most (megelőző szüléstől függetlenül összesen)
 
-6.3. korábbi más típusú kezelés száma az adott intézetben:
+8. Korábbi friss embriótranszferek száma
 
-6.4. összesen hányadik IVF kezelési ciklus kezdődik most:
+9. Korábbi fagyasztott embriótranszferek száma
 
-7. Kezelés javallata:
+10. Kezelés javallata
 
-7.1. kizárólag kürt eredetű
+11. Kezelési ciklus (gyógyszeres kezelés/beültetés) kezdetének dátuma
 
-7.2. egyéb női meddőségi ok
+12. Gyógyszeres kezelés típusa
 
-7.3. andrológiai eredetű
+13. Beavatkozás típusa
 
-7.4. összetett javallat
+14. Beavatkozás módja
 
-7.5. ismeretlen eredetű
+15. Petesejtleszívás időpontja
 
-8. Beavatkozás típusa:
+16. Leszívott petesejtek száma összesen
 
-8.1. IVF
+17. Ebből lefagyasztott petesejtek száma
 
-8.2. Donor-IVF
+18. Ebből adományozásra szánt petesejtek száma
 
-8.3. ICSI
+19. Petesejtek megtermékenyítése
 
-8.4. Donor-ICSI
+20. Megtermékenyült (PN2) petesejtek száma
 
-8.5. TESA
+21. Felhasznált petesejtek száma
 
-8.6. Fagyasztott-felolvasztott embrióval végzett transzfer
+22. PN2-ből létrejött embriók száma
 
-8.7. Petesejt adományozással végzett IVF/ICSI + ET
+23. Lefagyasztott petesejtből létrehozott embriók száma
 
-8.8. Adományozott embrióval végzett transzfer
+24. Preimplantációs genetikai vizsgálat történt (PGD)
 
-9. Ovulációindukciós kezelés kezdete (időpont):
+25. Embrióvisszaültetés történt
 
-10. Stimuláció típusa:
+26. Embrióvisszaültetés történt dátum
 
-10.1. nem történt stimuláció
+27. Beültetett embriók száma
 
-10.2. tiszta CC és/vagy gonadotropin stimuláció
+28. Lefagyasztott embriók száma
 
-10.3. GnRH-agonista-analóg + gonadotropin stimuláció
+29. A kezelések szövődményei (30 napon belül) – korházi felvétellel járó szövődmények
 
-10.4. GnRH-antagonista-analóg + gonadotropin stimuláció
+30. Anyai halálozási (30 napon belül)
 
-10.5. egyéb
+31. Klinikai terhesség
 
-11. Petesejt leszívás történt: igen – nem
+32. Klinikai terhesség helye
 
-11.1. Petesejt leszívás időpontja:
+33. Ultrahanggal igazolt petezsákok száma
 
-11.2. Leszívott petesejtek száma:
+34. Embrióredukció történt
 
-11.3. Fagyasztott petesejtek száma:
+35. Redukált magzatok száma
 
-11.4. Adományozásra szánt petesejtek száma:
+36. Élveszülés
 
-12. Petesejtek megtermékenyítése:
+37. Megszületett gyermekek száma
 
-12.1. Saját spermiumokkal
+38. Páciens testmagassága
 
-12.1.1. friss
+39. Páciens súlya
 
-12.1.2. fagyasztott
+40. Adományozott embriók száma
 
-12.1.2.1. spontán nyert
+41. Adományozás (petesejt/spermium/embrio) esetén a donorok száma
 
-12.1.2.2. műtéttel nyert
-
-12.1.2.2.1. heréből
-
-12.1.2.2.2. mellékheréből
-
-12.2. Idegen (donor) spermiumokkal
-
-13. Preimplantációs genetikai vizsgálat:
-
-13.1. történt
-
-13.2. diagnózis:
-
-13.3. nem történt
-
-14. Embrió visszaültetés időpontja:
-
-14.1. Beültetett embriók száma:
-
-14.2. Fagyasztott embriók száma:
-
-14.3. Adományozott embriók száma:
-
-15. A kezelések szövődményei (14 napon belül – kórházi felvétellel járó szövődmények)
-
-15.1. hiperstimulációs szindróma
-
-15.2. petesejtnyerés szövődményei (összes)
-
-15.3. hüvelyi vérzés
-
-15.4. hasűri vérzés
-
-15.5. bélsérülés
-
-15.6. peritonitis
-
-15.7. lázas állapot
-
-15.8. egyéb műtéti bevatkozásról
-
-15.9. anyai halálozás (dokumentált)
-
-15.10. egyéb
-
-16. Biokémiai terhesség
-
-16.1. igen
-
-16.2. nem
-
-17. Klinikai terhesség:
-
-17.1. igen
-
-17.1.1. méhen belül
-
-17.1.2. méhen kívül
-
-17.1.3. mindkettő
-
-17.2. nem
-
-18. Embriók száma
-
-18.1. egy
-
-18.2. kettő
-
-18.3. három
-
-– redukció történt
-
-– igen
-
-– nem
-
-18.4. négy
-
-– redukció történt
-
-– igen
-
-– nem
-
-18.5. négynél több
-
-– redukció történt
-
-– igen
-
-– nem
+[^4]: Az 1. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 72. § (4) bekezdésével megállapított szöveg.

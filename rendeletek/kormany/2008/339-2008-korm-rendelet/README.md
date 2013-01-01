@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-339-20-
 | 2009-01-01 | 2008-339-20-22.1 | 339/2008. (XII. 30.) Korm. rendelet |
 | 2011-01-01 | 2008-339-20-22.2 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2011-05-01 | 2008-339-20-22.3 | 59/2011. (IV. 12.) Korm. rendelet |
+| 2013-01-01 | 2008-339-20-22.4 | 447/2012. (XII. 29.) Korm. rendelet |
