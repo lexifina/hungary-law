@@ -12,7 +12,7 @@ b) a 3. §-ban meghatározott támogatás folyósítását, ha a 3. § (5) bekez
 
 (4a)[^33] A munkaadó a munkaviszony megszűnésének időpontját haladéktalanul köteles bejelenteni.
 
-(5)[^34] A 2. §-ban és a 4. §-ban meghatározott támogatással kapcsolatos feladatokat a munkaügyi központ – a foglalkoztatni kívánt személyt álláskeresőként nyilvántartó – kirendeltsége, a 3. §-ban meghatározott támogatással kapcsolatos feladatokat – a munkaügyi központ illetékességi területén kívül lakó és a csoportos személyszállításban részt vevő munkavállalókra vonatkozóan is – a munkaadó székhelye (telephelye) szerint illetékes munkaügyi központ kirendeltsége látja el.
+(5)[^34] A 2. §-ban és a 4. §-ban meghatározott támogatással kapcsolatos feladatokat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának a foglalkoztatni kívánt személy lakóhelye szerint illetékes foglalkoztatási, munkaerőpiaci feladatokat ellátó ágazati szakigazgatási szerve (a továbbiakban: kirendeltség), a 3. §-ban meghatározott támogatással kapcsolatos feladatokat – a munkaügyi központ illetékességi területén kívül lakó és a csoportos személyszállításban részt vevő munkavállalókra vonatkozóan is – a munkaadó székhelye (telephelye) szerint illetékes kirendeltség látja el.
 
 (5a)[^35] A 4. §-ban meghatározott támogatásról hatósági keretszerződést kell kötni. A támogatás mértékét hat hónaponként külön hatósági szerződésben kell meghatározni.
 
@@ -26,7 +26,7 @@ b) a 3. §-ban meghatározott támogatás folyósítását, ha a 3. § (5) bekez
 [^31]: A 7. § (3) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 5. § (7) bekezdés c) pontja hatályon kívül helyezte, újonnan a 272/2012. (IX. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^32]: A 7. § (4) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg. [az e módosító rendelet 5. § (6) bekezdés c) pontjával elrendelt módosítás, amely szerint a „2–4. §-ban” szövegrész helyébe a „2–3. §-ban” szöveg lép, nem vezethető át.]
 [^33]: A 7. § (4a) bekezdését 324/2011. (XII. 28.) Korm. rendelet 5. § (4) bekezdése iktatta be.
-[^34]: A 7. § (5) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 5. § (5) bekezdésével megállapított, a 272/2012. (IX. 28.) Korm. rendelet 4. § (7) bekezdése szerint módosított szöveg.
+[^34]: A 7. § (5) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^35]: A 7. § (5a) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^36]: A 7. § (5b) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 4. § (5) bekezdése iktatta be.
 [^37]: A 7. § (6) bekezdését a 225/2005. (X. 13.) Korm. rendelet 9. § (3) bekezdése iktatta be. E módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
