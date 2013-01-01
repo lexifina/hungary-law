@@ -1,13 +1,19 @@
-## 18. §[^18]
+## 18. § A Bírósági Határozatok Gyűjteményében közzétett határozatok megjelöléséről szóló 29/2007. (V. 31.) IRM rendelet 2. § (2) bekezdésében a „helyi bíróságokat és a munkaügyi bíróságokat” szövegrész helyébe a „járásbíróságokat, valamint a közigazgatási és munkaügyi bíróságokat” szöveg lép.
 
 ## 19. Az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokról szóló 27/2008. (XII. 10.) IRM rendelet módosítása
 
-19. § (1)[^19]
+19. § (1) Az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokról szóló 27/2008. (XII. 10.) IRM rendelet 1. § c) pontja helyébe a következő rendelkezés lép:
 
-(2) Az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokról szóló 27/2008. (XII. 10.) IRM rendelet 6/A. § (2) bekezdésében a „2012. december 31-éig” szövegrész helyébe a „2014. január 1-jéig” szöveg, a „2013. június 30-ig” szövegrész helyébe a „2014. július 1-jéig” szöveg lép.
+(E rendelet alkalmazásában:)
 
-(3)[^20]
+## „c) végrehajtó: hivatali elektronikus aláírás használatára jogosult önálló bírósági végrehajtó, önálló bírósági végrehajtó-helyettes, törvényszéki végrehajtó és törvényszéki végrehajtó-helyettes;”
 
-[^18]: A 18. § a 22. § (2) bekezdése alapján 2013. január 1. napján lép hatályba.
-[^19]: A 19. § (1) bekezdése a 22. § (2) bekezdése alapján 2013. január 1. napján lép hatályba.
-[^20]: A 19. § (3) bekezdése a 22. § (2) bekezdése alapján 2013. január 1. napján lép hatályba.
+(2)[^2]
+
+(3) Hatályát veszti az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokról szóló 27/2008. (XII. 10.) IRM rendelet
+
+a) 1. § d) pontja,
+
+b) 18. § (1) bekezdésében, 19. § (1) bekezdés bevezető szövegében, 19. § (2) bekezdés b) és e) pontjában, 20. § (1) bekezdésében és 20. § (2) bekezdés b) pontjában a „bírósági” szövegrészek.
+
+[^2]: A 19. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

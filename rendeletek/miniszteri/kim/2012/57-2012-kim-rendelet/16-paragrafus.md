@@ -1,5 +1,9 @@
-## 15. §[^15]
+## lép.
 
 ## 16. A közjegyzői ügyvitel szabályairól szóló 37/2003. (X. 29.) IM rendelet módosítása
 
-[^15]: A 15. § a 22. § (2) bekezdése alapján 2013. január 1. napján lép hatályba.
+## 16. § A közjegyzői ügyvitel szabályairól szóló 37/2003. (X. 29.) IM rendelet
+
+a) 48. § (3)–(5) bekezdéseiben a „helyi bíróság” szövegrészek helyébe a „járásbíróság” szöveg,
+
+b) 50. § (2) bekezdésében a „helyi bíróságon” szövegrész helyébe a „járásbíróságon” szöveg
