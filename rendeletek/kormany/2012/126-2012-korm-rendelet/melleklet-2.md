@@ -4,7 +4,7 @@
 
 | 1 | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2 | A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezése | Budapest VIII. kerület Orczy út 1. Hrsz. 36030; Budapest VIII. kerület Diószeghy Sámuel utca 38–40. Hrsz. 36009; Budapest VIII. kerület Diószeghy Sámuel utca 42. Hrsz. 36014; Budapest VIII. kerület Korányi Sándor utca 14. Hrsz. 36038/2; Budapest VIII. kerület Dugonics utca 9. Hrsz. 36038/2; Budapest VIII. kerület Korányi Sándor utca 22–26. Hrsz. 36034; Budapest VIII. kerület Dugonics utca 17–21. Hrsz. 36034; Budapest VIII. kerület Diószeghy Sámuel utca 16. Hrsz. 35978; Budapest VIII. kerület Diószeghy Sámuel utca 18. Hrsz. 35979; Budapest VIII. kerület Diószeghy Sámuel utca 20. Hrsz. 35980; Budapest VIII. kerület Diószeghy Sámuel utca 22. Hrsz. 35981; Budapest VIII. kerület Diószeghy Sámuel utca 24. Hrsz. 35982; | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők, (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala (általános építésügyi hatóság jogkörében) | építésügyért felelős miniszter |
+| 2 | A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezése | Budapest VIII. kerület Orczy út 1. Hrsz. 36030; Budapest VIII. kerület Diószeghy Sámuel utca 38–40. Hrsz. 36009; Budapest VIII. kerület Diószeghy Sámuel utca 42. Hrsz. 36014; Budapest VIII. kerület Korányi Sándor utca 14. Hrsz. 36038/2; Budapest VIII. kerület Dugonics utca 9. Hrsz. 36038/2; Budapest VIII. kerület Korányi Sándor utca 22–26. Hrsz. 36034; Budapest VIII. kerület Dugonics utca 17–21. Hrsz. 36034; Budapest VIII. kerület Diószeghy Sámuel utca 16. Hrsz. 35978; Budapest VIII. kerület Diószeghy Sámuel utca 18. Hrsz. 35979; Budapest VIII. kerület Diószeghy Sámuel utca 20. Hrsz. 35980; Budapest VIII. kerület Diószeghy Sámuel utca 22. Hrsz. 35981; Budapest VIII. kerület Diószeghy Sámuel utca 24. Hrsz. 35982; | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők, (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Budapest VIII. kerület Diószeghy Sámuel utca 26. Hrsz. 35983; Budapest VIII. kerület Diószeghy Sámuel utca 28. Hrsz. 35996; Budapest VIII. kerület Diószeghy Sámuel utca 30. Hrsz. 35997; Budapest VIII. kerület Sárkány utca 8. Hrsz. 35995; Budapest VIII. kerület Nagyvárad tér Hrsz. 36806/3; Budapest VIII. kerület Üllői út |
 
@@ -18,7 +18,7 @@
 
 | 7 | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 8 | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+| 8 | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
 | 9 | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -30,11 +30,11 @@
 
 | 12 | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13 | kulturális örökségvédelmi hatósági engedélyek | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 13 | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 14 | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez
+2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^3]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -42,7 +42,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 1 | Szakhatósági közreműködése tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Építésügy | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2 | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3 | Környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -54,7 +54,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6 | Kulturális örökségvédelem: műemlék, műemléki jelentőségű terület, műemléki környezet, régészeti lelőhely, régészeti védőövezet | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 6. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 7 | Közlekedés: közút | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -62,7 +62,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 9 | Földművelésügy: |  |  |
 
-| 10 | a) termőföldvédelem | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+| 10 | a) termőföldvédelem | Budapesti 1. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
 | 11 | b) talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -74,10 +74,12 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 15 | Élelmiszer-biztonság | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16 | Területrendezés | Budapest Főváros Kormányhivatala Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+| 16 | Területrendezés | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
 | 17 | Földtan | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 18 | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 19 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^3]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a szerint módosított szöveg.
