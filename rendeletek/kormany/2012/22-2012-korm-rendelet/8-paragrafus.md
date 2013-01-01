@@ -2,7 +2,7 @@
 
 (2) Az Éltv. 32. §-a (1) bekezdésének d) pontja alapján a NÉBIH laboratóriumot működtet, illetve kijelöli az Éltv. szerinti hatósági ellenőrzések során vett minták vizsgálatait végző állami laboratóriumokat, és ezek jegyzékét honlapján közzéteszi.
 
-(3) A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatala (a továbbiakban: kerületi hivatal) és a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága által az Éltv. 32. §-ának (3) bekezdése alapján nyilvántartott bejelentett és kivizsgált élelmiszer-mérgezések és -fertőzések adatait a NÉBIH rendszeresen értékeli és közzéteszi.
+(3)[^5] A megyei kormányhivatal járási hivatala járási állat-egészségügyi és élelmiszer-ellenőrző hivatala (a továbbiakban: járási állat-egészségügyi hivatal) és a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága által az Éltv. 32. §-ának (3) bekezdése alapján nyilvántartott bejelentett és kivizsgált élelmiszer-mérgezések és -fertőzések adatait a NÉBIH rendszeresen értékeli és közzéteszi.
 
 (4) A NÉBIH az Éltv. 33. §-ának c) pontja szerinti eseményeket országos szinten összegzi és elemzi, és amennyiben az szakmailag indokolt, koordinálja azok – szükség szerint helyszíni – kivizsgálását és az intézkedéseket.
 
@@ -12,7 +12,7 @@
 
 (7) Az Éltv. 38. §-a (1) bekezdésének q) pontja szerinti nyilvántartást a Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézet vezeti.
 
-(8) Az Éltv. 71. §-ának (3) bekezdése alapján az elnök a NÉBIH, a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, illetve a kerületi hivatal jogalkalmazási gyakorlatának alapjait ismertető közleményt ad ki.
+(8)[^6] Az Éltv. 71. §-ának (3) bekezdése alapján az elnök a NÉBIH, a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, illetve a járási állat-egészségügyi hivatal jogalkalmazási gyakorlatának alapjait ismertető közleményt ad ki.
 
 (9) A NÉBIH ellátja a Bizottság 2009. július 13-i, a 2005/94/EK tanácsi irányelvnek a baromfitartó egységek és más, fogságban tartott madarakat tartó egységek madárinfluenza szempontjából történő jóváhagyása, valamint az említett egységekben hozott további biológiai biztonsági megelőző intézkedések tekintetében történő végrehajtásáról szóló 616/2009/EK rendeletének végrehajtása során a tagállami feladatokat.
 
@@ -39,3 +39,6 @@ db) az eszközök NÉBIH, valamint a megyei kormányhivatalok mezőgazdasági sz
 (14) Az évente befolyt felügyeleti díjnak az Éltv. 47/B. § (10) bekezdése szerint fejlesztésre fordítandó 10%-a a NÉBIH bevétele. A felügyeleti díj bevétel fennmaradó összegének 40%-a a NÉBIH bevétele, 60%-át a Nemzeti Államigazgatási Központ részére tovább kell utalni.
 
 (15) Az Éltv. 47/B. § (11) bekezdése szerinti beszámoló elkészítése érdekében a fővárosi és megyei kormányhivatal mezőgazdasági szakigazgatási szerve beszámolót készít, amelyet a tárgyévet követő év március 15-éig köteles a NÉBIH-nek megküldeni.
+
+[^5]: A 8. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 90. § a) pontja szerint módosított szöveg.
+[^6]: A 8. § (8) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.

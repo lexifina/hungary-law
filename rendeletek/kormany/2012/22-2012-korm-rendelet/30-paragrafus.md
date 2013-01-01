@@ -1,6 +1,6 @@
 ## 11. Az erdészeti hatósági eljárásokban közreműködő szakhatóságok
 
-30. § (1) A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a Kulturális Örökségvédelmi Hivatalról és a kulturális örökségvédelmi szakigazgatási szervekről szóló Korm. rendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Kulturális Örökségvédelmi Hivatal által vezetett adatbázisban szereplő – az MgSzH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
+30. § (1)[^11] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett adatbázisban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló másodfokú eljárásban,
 
@@ -12,7 +12,7 @@ d) az engedély nélkül vagy engedélytől eltérően telepített faállomány 
 
 e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti másodfokú eljárásban
 
-## – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a Kulturális Örökségvédelmi Hivatalt szakhatóságként jelöli ki.
+## – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát szakhatóságként jelöli ki.
 
 (2) A Kormány védett természeti területen található erdő esetén
 
@@ -103,3 +103,5 @@ e) új erdő telepítésekor az erdő elsődleges rendeltetésének megállapít
 f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó másodfokú eljárásban, valamint
 
 g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
+
+[^11]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a szerint módosított szöveg.

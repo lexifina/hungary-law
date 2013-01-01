@@ -10,7 +10,7 @@ c) a NÉBIH által kiadott és kötelezően alkalmazandó szakmai eljárásrende
 
 d) végrehajtják a NÉBIH által kiadott ellenőrzési és mintavételi terveket,
 
-e) az országos adatbázisok kialakítása és fenntartása érdekében adatgyűjtést végeznek, nyilvántartást vezetnek, valamint jelentést küldenek a NÉBIH-nek,
+e)[^1] az országos adatbázisok kialakítása és fenntartása érdekében adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a NÉBIH-nek,
 
 f) részt vesznek a központosított mintaszállítási rendszer működtetésében,
 
@@ -38,6 +38,7 @@ o) az elvégzett feladataikról közvetlenül jelentenek a NÉBIH-nek.
 
 (4) A NÉBIH az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében az MVH által átruházott, illetve együttműködőként ellátott feladatok ellátása érdekében megállapodást köthet a megyei kormányhivatallal, amelyben rendelkezni kell ezeknek a feladatoknak az ellátásához a pénzeszközátadás, a szakmai teljesítés és az elszámolás rendjéről.
 
-(5)[^1]
+(5)[^2]
 
-[^1]: A 4. § (5) bekezdését a 32. § (4) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
+[^1]: A 4. § (1) bekezdés e) pontja a 319/2012. (XI. 13.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^2]: A 4. § (5) bekezdését a 32. § (4) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
