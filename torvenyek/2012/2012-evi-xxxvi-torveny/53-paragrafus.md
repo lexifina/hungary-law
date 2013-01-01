@@ -2,7 +2,9 @@
 
 53. § (1) A házelnök – az Országgyűlés zavartalan működésének, illetve az Országgyűlés méltóságának biztosítása érdekében – rendészeti jogkört gyakorol. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol.
 
-(2)–(3)
+(2) Az ülést vezető elnök az Országgyűlési Őrséggel kivezetteti az ülésteremből az 50. § (2) bekezdése szerint kizárt képviselőt, ha a képviselő az ülést vezető elnök felszólítása ellenére sem hagyja el a termet.
+
+(3) Az ülésről az 50. § (2) bekezdése szerint kizárt vagy a jogainak gyakorlásából felfüggesztett képviselő a kizárás vagy a felfüggesztés idején nem léphet be az ülésterembe, amelynek végrehajtásáról az Országgyűlési Őrség gondoskodik.
 
 (4) Az a képviselő, akivel szemben az ülést vezető elnök rendészeti intézkedést alkalmazott, kifogást nyújthat be a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottsághoz, amely nyolc napon belül kivizsgálja a kifogást, és vizsgálatának eredményéről jelentést tesz az Országgyűlésnek.
 

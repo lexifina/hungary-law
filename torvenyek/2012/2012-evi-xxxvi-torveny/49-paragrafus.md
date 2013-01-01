@@ -4,12 +4,12 @@
 
 (3) Akitől a szót az (1) bekezdés, a 46. § (2) bekezdése vagy a 48. § (2) bekezdése alapján megvonták, ugyanazon az ülésnapon, ugyanabban az ügyben nem szólalhat fel újra.
 
-(4) Azt a képviselőt, aki magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, az ülést vezető elnök – az intézkedés okának, illetve a megsértett házszabályi rendelkezésnek a megjelölésével – rendreutasítja, egyidejűleg figyelmezteti, hogy további rendzavarás esetén az ülésnapról való kizárását fogja kezdeményezni.
+(4) Ha a képviselő az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve a képviselővel szemben pénzbírság kiszabását. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
 
-(5) Ha a képviselő a rendreutasítás ellenére is folytatja a (4) bekezdésben meghatározott magatartást, az ülést vezető elnök javasolhatja az ülésnapról való kizárását, illetve vele szemben pénzbírság kiszabását.
+(5) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
 
-(6) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
+(6) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
 
-(7) A pénzbírság kiszabására irányuló javaslatról a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság dönt. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
+(7) A házelnök – a (4) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a (4) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselővel szemben pénzbírság kiszabását javasolni.
 
-(8) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
+(8) A (4) és (7) bekezdés szerinti, pénzbírság kiszabására irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.

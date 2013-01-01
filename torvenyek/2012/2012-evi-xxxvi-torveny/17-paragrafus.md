@@ -1,6 +1,6 @@
 17. § (1) Az állandó bizottság munkájában bizottsági tagként minden képviselőcsoportból annyi képviselő vehet részt, amennyi a képviselőcsoportok közötti létszámaránynak megfelel, de minden képviselőcsoportból legalább egy képviselő.
 
-(2) A Kormány tagja, az államtitkár és a kormánymegbízott kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy állandó bizottság munkájában részt vegyen.
+(2) A Kormány tagja, az államtitkár, a kormánymegbízott és a járási (fővárosi kerületi) hivatal vezetője (a továbbiakban: járási hivatalvezető) kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy állandó bizottság munkájában részt vegyen.
 
 (3) Az Országgyűlés az (1) bekezdésben foglaltaktól eltérően is határozhat. Ahhoz, hogy állandó bizottságban a képviselőcsoport létszámaránya egy bizottsági tagsági helyet meghaladóan eltérjen a képviselőcsoport létszámának az Országgyűlés egészéhez viszonyított arányától, a jelen lévő képviselők négyötödének szavazata szükséges.
 
