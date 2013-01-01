@@ -14,7 +14,7 @@
 
 |  | Ha az építmény szélső pontjainak vetületétől számított 50 méteren belül a fővárosi önkormányzat tulajdonában lévő közút található, és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. |  | Budapest Főváros Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
 
-|  | Ha az építmény szélső pontjainak vetületétől számított 50 méteren belül a fővárosi kerületi önkormányzatok tulajdonában lévő közút található, és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. |  | fővárosi főjegyző | Budapest Főváros Kormányhivatal Közlekedési Felügyelőség |
+|  | Ha az építmény szélső pontjainak vetületétől számított 50 méteren belül a fővárosi kerületi önkormányzatok tulajdonában lévő közút található, és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. |  | Illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatal Közlekedési Felügyelőség |
 
 | 3. | Repülőterek 5 kilométeres körzetében sajátos építmény építése, használatba vétele, átalakítása esetén, ha a kérelmező a repülőtér-üzemeltetői hozzájárulás megtagadását sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a tevékenység a polgári légiközlekedés biztonsága követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
@@ -28,7 +28,7 @@
 
 | 6. | Minden eljárásban. | A helyi építésügyi követelményeknek (HÉSZ) való megfelelés és a helyi településrendezési tervekkel való összhang megállapítása kérdésében, valamint annak elbírálása kérdésében, hogy az építmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző | fővárosi és megyei kormányhivatal |
 
-| 7. | A Kulturális Örökségvédelmi Hivatalról és a kulturális örökségvédelmi szakigazgatási szervekről szóló kormányrendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Kulturális Örökségvédelmi Hivatal által vezetett adatbázisban szereplő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy az építmény vagy tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi igazgatósága | Kulturális Örökségvédelmi Hivatal |
+| 7. | A Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett adatbázisban szereplő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás | Annak elbírálása kérdésében, hogy az építmény vagy tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | régészeti lelőhelyen vagy régészeti védőövezet területén lévő építmény engedélyezésére irányuló eljárás esetén a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala, műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás esetén az illetékes fővárosi vagy a megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 8. | Minden eljárásban a nyomvonalas létesítmény, valamint szélerőmű engedélyezése kivételével. | Létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
 
@@ -68,4 +68,4 @@
 
 – kéményseprő-ipari szolgáltató szerv.
 
-[^63]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított szöveg.
+[^63]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a szerint módosított szöveg.
