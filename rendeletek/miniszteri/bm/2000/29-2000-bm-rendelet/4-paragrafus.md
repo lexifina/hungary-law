@@ -16,6 +16,6 @@ a) az aláírások tételes vizsgálatával vagy statisztikai és matematikai m�
 
 b) a Ve. 136. § (1) bekezdésében meghatározott esetben közreműködik az aláírásgyűjtő ívet aláíró választópolgárok személyazonosságának ellenőrzésében;
 
-c)[^4] a Ve. 121. §-a alapján gondoskodik az aláírásgyűjtő ívek megsemmisítéséről és erről jegyzőkönyvet vesz fel.
+c)[^5] a Ve. 121. §-a alapján gondoskodik az aláírásgyűjtő ívek megsemmisítéséről és erről jegyzőkönyvet vesz fel.
 
-[^4]: A 4. § (2) bekezdésének c) pontját a 10/2006. (XII. 7.) ÖTM rendelet 3. §-a iktatta be. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezést a 2006. december 15. napját követően kezdeményezett helyi népszavazás és népi kezdeményezés során kell alkalmazni.
+[^5]: A 4. § (2) bekezdésének c) pontját a 10/2006. (XII. 7.) ÖTM rendelet 3. §-a iktatta be. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezést a 2006. december 15. napját követően kezdeményezett helyi népszavazás és népi kezdeményezés során kell alkalmazni.

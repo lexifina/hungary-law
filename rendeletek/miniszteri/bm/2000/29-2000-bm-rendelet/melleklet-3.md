@@ -328,7 +328,7 @@
 
 | Név | Megbízó szervezet | Aláírás |
 
-3. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^23]
+3. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^24]
 
 Kötelezően használandó nyomtatványok jegyzéke és mintái
 
@@ -666,4 +666,4 @@ Egy választópolgár a kezdeményezést csak egy aláírással támogathatja!
 
 az aláírást gyűjtő polgár aláírása
 
-[^23]: A 3. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (3) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján rendelkezéseit a 2006. december 15. napját követően kitűzött helyi népszavazás során kell alkalmazni.
+[^24]: A 3. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (3) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján rendelkezéseit a 2006. december 15. napját követően kitűzött helyi népszavazás során kell alkalmazni.

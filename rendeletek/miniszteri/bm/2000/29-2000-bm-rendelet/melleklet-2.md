@@ -150,6 +150,6 @@
 
 |  |  | HVI vezetője |
 
-2. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^22]
+2. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^23]
 
-[^22]: A 2. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján rendelkezéseit a 2006. december 15. napját követően kitűzött helyi népszavazás során kell alkalmazni.
+[^23]: A 2. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján rendelkezéseit a 2006. december 15. napját követően kitűzött helyi népszavazás során kell alkalmazni.
