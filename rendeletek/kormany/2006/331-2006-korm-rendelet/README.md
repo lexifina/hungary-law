@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2012-03-03 | 2006-331-20-22.15 | 21/2012. (II. 29.) Korm. rendelet |
 | 2012-07-01 | 2006-331-20-22.16 | 133/2012. (VI. 28.) Korm. rendelet |
 | 2012-07-27 | 2006-331-20-22.17 | 318/2008. (XII. 23.) Korm. rendelet |
+| 2013-01-01 | 2006-331-20-22.18 | 174/2012. (VII. 26.) Korm. rendelet |

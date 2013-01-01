@@ -16,4 +16,6 @@ c) az ideiglenes gondnokrendeléssel, zárgondnok kirendelésével, valamint gon
 
 (3) Lakóhely hiányában – az (1) és (2) bekezdésben foglaltak szerint – a gyámhatóság illetékességét a tartózkodási hely határozza meg.
 
-(4) Belföldi lakóhely vagy tartózkodási hely hiányában, a gyámhatóság illetékességét az utolsó ismert hazai lakóhely vagy tartózkodási hely határozza meg, ennek hiányában az eljárásra a 3. § szerinti ügyekben a Budapest Főváros V. Kerület Önkormányzat Jegyzője, a 4–12. §-ban foglalt ügyekben pedig a Budapest Főváros V. Kerület Gyámhivatala illetékes.
+(4)[^57] Belföldi lakóhely vagy tartózkodási hely hiányában, a gyámhatóság illetékességét az utolsó ismert hazai lakóhely vagy tartózkodási hely határozza meg, ennek hiányában az eljárásra a 3. § szerinti ügyekben a Budapest Főváros V. Kerület Önkormányzat Jegyzője, a 4–12. §-ban foglalt ügyekben pedig a fővárosi kormányhivatal V. kerületi járási gyámhivatala illetékes.
+
+[^57]: A 21. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés b) pontja szerint módosított szöveg.

@@ -1,5 +1,7 @@
-## 5. § A városi gyámhivatal a pénzbeli támogatásokkal kapcsolatban dönt
+## 5. §[^29] A járási gyámhivatal a pénzbeli és természetbeni támogatásokkal kapcsolatban
 
-a) az otthonteremtési támogatás megállapításáról,
+a) dönt az otthonteremtési támogatás megállapításáról,
 
-b) a gyermektartásdíj megelőlegezéséről.
+b) dönt a gyermektartásdíj megelőlegezéséről.
+
+[^29]: Az 5. § a 174/2012. (VII. 26.) Korm. rendelet 42. § (5) bekezdésével megállapított szöveg.
