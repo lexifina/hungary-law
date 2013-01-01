@@ -14,7 +14,7 @@ bc) 4. csoportba tartozó biológiai tényezőkkel legalább a 4. fokozatú
 
 ## védelmi szintnek megfelelő munkahelyen, illetve tevékenységi helyen végezhető.
 
-(2)[^20] Azon laboratóriumban, ahol olyan anyagokkal dolgoznak, amelyeknél bizonytalan, hogy tartalmaznak-e emberi megbetegedést okozó biológiai tényezőket, de nem céljuk a biológiai tényezők tenyésztése vagy koncentrálása, legalább a 2. fokozatú védelmi szintet kell alkalmazni azzal, hogy a tevékenység jellegétől függően a 3. vagy 4. szint bevezetése is szükséges lehet. A munkáltató megkeresésére a munkavédelmi felügyelőség indokolt esetben, szükség szerint a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézete véleményének figyelembevételével a 3. vagy 4. szintnél alacsonyabb védelmi szintet is engedélyezhet.
+(2)[^20] Azon laboratóriumban, ahol olyan anyagokkal dolgoznak, amelyeknél bizonytalan, hogy tartalmaznak-e emberi megbetegedést okozó biológiai tényezőket, de nem céljuk a biológiai tényezők tenyésztése vagy koncentrálása, legalább a 2. fokozatú védelmi szintet kell alkalmazni azzal, hogy a tevékenység jellegétől függően a 3. vagy 4. szint bevezetése is szükséges lehet. A munkáltató megkeresésére a munkavédelmi felügyelőség indokolt esetben, szükség szerint a járási népegészségügyi intézet véleményének figyelembevételével a 3. vagy 4. szintnél alacsonyabb védelmi szintet is engedélyezhet.
 
 (3) Amennyiben ipari eljárásokban a 2–4. csoportba tartozó biológiai tényezőt használnak
 
@@ -24,5 +24,5 @@ b)[^21] a 2., 3. vagy 4. csoportba tartozó biológiai tényezők használatáho
 
 c) az (1)–(2) bekezdések szerinti minden olyan tevékenységnél, ahol nem lehetséges a biológiai hatóanyag meggyőző értékelését elvégezni, de amelynél valószínűsíthető, hogy azok tervezett használata súlyos kockázatot jelent a munkavállaló egészségére, a tevékenység csak olyan munkahelyiségben folytatható, amelynek védelmi szintje legalább 3. fokozatú.
 
-[^20]: A 16. § (2) bekezdése a 27/2010. (XII. 30.) NGM rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^20]: A 16. § (2) bekezdése a 27/2010. (XII. 30.) NGM rendelet 19. § (5) bekezdésével megállapított, a 48/2012. (XII. 28.) NGM rendelet 6. § f) pontja szerint módosított szöveg.
 [^21]: A 16. § (3) bekezdésének b) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (5) bekezdésének d) pontja szerint módosított szöveg.
