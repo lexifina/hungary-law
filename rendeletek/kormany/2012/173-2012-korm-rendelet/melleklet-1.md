@@ -1,5 +1,6 @@
 ## 5. §[^1]
 
-1. melléklet a 173/2012. (VII. 26.) Korm. rendelethez
+1. melléklet a 173/2012. (VII. 26.) Korm. rendelethez[^2]
 
 [^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 296/2012. (X. 17.) Korm. rendelet 63. §-a, a 394/2012. (XII. 20.) Korm. rendelet 60. §-a szerint módosított szöveg.
