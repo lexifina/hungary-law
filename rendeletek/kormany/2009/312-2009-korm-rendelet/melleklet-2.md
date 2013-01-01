@@ -156,6 +156,6 @@
 
 ## a kérelmező aláírása (bélyegzője)
 
-2. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez[^54]
+2. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez[^55]
 
-[^54]: A 2. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 129. § (14) bekezdésével megállapított szöveg.
+[^55]: A 2. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 129. § (14) bekezdésével megállapított szöveg.

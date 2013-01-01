@@ -1,8 +1,8 @@
 9. § (1) A tevékenységi biztosíték készpénz vagy pénzügyi biztosíték lehet. Készpénzben nyújtott tevékenységi biztosítéknak minősül a fémkereskedelmi hatóság honlapján tájékoztatóban közzétett számlára, tevékenységi biztosíték céljára történő banki átutalás. A készpénzben nyújtott tevékenységi biztosíték után a fémkereskedelmi hatóságnak kamatfizetési kötelezettsége nem keletkezik.
 
-(2)[^14] Pénzügyi biztosítékként a visszavonhatatlan vagy a kizárólag olyan visszavonható pénzügyi biztosíték fogadható el, amely a visszavonás lehetőségét az engedélyező vámszerv, mint kedvezményezett jóváhagyásához is köti. A pénzügyi biztosíték visszavonása akkor hagyható jóvá, ha a fémkereskedőnek nincs a fémkereskedelmi hatóság felé fennálló tartozása. A pénzügyi biztosíték érvényességének lejártát legalább 60 nappal megelőzően, az érvényesség lejártának napját követő naptól érvényes újabb pénzügyi biztosítékot kell a fémkereskedelmi hatósághoz benyújtani.
+(2)[^15] Pénzügyi biztosítékként a visszavonhatatlan vagy a kizárólag olyan visszavonható pénzügyi biztosíték fogadható el, amely a visszavonás lehetőségét az engedélyező vámszerv, mint kedvezményezett jóváhagyásához is köti. A pénzügyi biztosíték visszavonása akkor hagyható jóvá, ha a fémkereskedőnek nincs a fémkereskedelmi hatóság felé fennálló tartozása. A pénzügyi biztosíték érvényességének lejártát legalább 60 nappal megelőzően, az érvényesség lejártának napját követő naptól érvényes újabb pénzügyi biztosítékot kell a fémkereskedelmi hatósághoz benyújtani.
 
-(3)[^15] Pénzügyi biztosítékként olyan bankgarancia fogadható el, amely
+(3)[^16] Pénzügyi biztosítékként olyan bankgarancia fogadható el, amely
 
 a) a kedvezményezett által kiadott határozatban előírt összegre szól és meghatározott határnapig érvényes,
 
@@ -32,10 +32,10 @@ e) a (3) bekezdés b), c) és d) pontjában foglalt kötelezettségvállalást.
 
 (8) A nem magyar nyelven kiállított bankgarancia kizárólag hiteles magyar fordítással ellátva fogadható el.
 
-(9)[^16] A fémkereskedő által, bankgaranciában nyújtott biztosíték esetén a bankgarancia érvényességének lejártát legalább 60 nappal megelőzően az érvényesség lejártának napját követő naptól érvényes újabb bankgaranciát kell az engedélyező vámszervhez benyújtani.
+(9)[^17] A fémkereskedő által, bankgaranciában nyújtott biztosíték esetén a bankgarancia érvényességének lejártát legalább 60 nappal megelőzően az érvényesség lejártának napját követő naptól érvényes újabb bankgaranciát kell az engedélyező vámszervhez benyújtani.
 
 (10) A tevékenységi biztosíték összegének csökkentése esetén a fémkereskedelmi hatóság haladéktalanul intézkedik a különbözet felszabadításáról, illetve visszafizetéséről.
 
-[^14]: A 9. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
-[^15]: A 9. § (3) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (9) bekezdésével megállapított szöveg.
-[^16]: A 9. § (9) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
+[^15]: A 9. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
+[^16]: A 9. § (3) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (9) bekezdésével megállapított szöveg.
+[^17]: A 9. § (9) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.

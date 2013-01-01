@@ -1,6 +1,6 @@
 ## A fémkereskedő nyilvántartási kötelezettségére vonatkozó részletes szabályok
 
-10. § (1)[^17] A Fémtv.-ben meghatározott nyilvántartás számítógépes vezetését, valamint az anyagkísérő okmány számítógépes előállítását és kitöltését az e §-ban meghatározott követelményeknek megfelelő, az engedélyező vámszerv által engedélyezett számítógépes programokkal lehet végezni.
+10. § (1)[^18] A Fémtv.-ben meghatározott nyilvántartás számítógépes vezetését, valamint az anyagkísérő okmány számítógépes előállítását és kitöltését az e §-ban meghatározott követelményeknek megfelelő, az engedélyező vámszerv által engedélyezett számítógépes programokkal lehet végezni.
 
 (2) A Fémtv.-ben meghatározott nyilvántartások számítógépes vezetésére szolgáló program (a továbbiakban: nyilvántartó program) és az anyagkísérő okmány számítógépes előállítását és kitöltését végző program (a továbbiakban: bizonylat-kiállító program) engedélyezéséhez szükséges feltétel, hogy
 
@@ -32,7 +32,7 @@ a) a program által készített bizonylatok formátuma, tartalma, kiállításá
 
 b) a program a felhasznált sorszám (ideértve a stornózott sorszámot is) ismételt felhasználását ne engedélyezze,
 
-c)[^18] a program kizárólag az engedélyező vámszerv által az adott időszakra kiadott sorszámok felhasználását, emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során, és önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé.
+c)[^19] a program kizárólag az engedélyező vámszerv által az adott időszakra kiadott sorszámok felhasználását, emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során, és önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé.
 
-[^17]: A 10. § (1) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
-[^18]: A 10. § (4) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
+[^18]: A 10. § (1) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
+[^19]: A 10. § (4) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
