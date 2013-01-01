@@ -8,7 +8,7 @@ c) szolgáltatót, intézményt működtető fenntartóval létrejött – a szo
 
 tehet eleget.
 
-(2) A megyei fenntartó az állam 88. § (1) bekezdése szerinti ellátási kötelezettségének a szociális szolgáltatást nyújtó
+(2) Az állam fenntartói feladatainak elllátására a Kormány rendeletében kijelölt szerv 88. § (1) bekezdése szerinti ellátási kötelezettségének a szociális szolgáltatást nyújtó
 
 a) szolgáltató, intézmény fenntartásával, vagy
 
@@ -20,4 +20,4 @@ tehet eleget.
 
 (4) A (2) bekezdés b) pontja szerinti megállapodás, illetve ellátási szerződés megkötéséhez, módosításához és megszüntetéséhez a szociál- és nyugdíjpolitikáért felelős miniszter jóváhagyása szükséges.
 
-(5) A (3) és (4) bekezdés szerinti jogkörében a szociál- és nyugdíjpolitikáért felelős miniszter az adott megye szolgáltatástervezési koncepciójában foglaltak figyelembevételével, a megyében elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
+(5) A (3) és (4) bekezdés szerinti jogkörében a szociál- és nyugdíjpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.

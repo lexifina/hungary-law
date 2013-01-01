@@ -8,6 +8,8 @@ b) az intézmény vagy az intézménnyel az ellátottak foglalkoztatására meg�
 
 által, legfeljebb egy évre kötött munkaszerződés alapján, a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti határozott idejű munkaviszony keretében folytatható. Az intézményi jogviszony megszűnése esetén a fejlesztő-felkészítő foglalkoztatásra irányuló jogviszony is megszűnik.
 
+(2a) A (2) bekezdés alapján létesített munkaviszony – a munka törvénykönyvéről szóló 2012. évi I. törvény 192. § (2) bekezdésétől eltérően – a fejlesztő-felkészítő foglalkoztatás időtartamára a (2) bekezdésben foglaltak figyelembevételével meghosszabbítható.
+
 (3) Az intézmény és az intézménnyel az ellátottak foglalkoztatására megállapodást kötő szervezet közötti szerződésre a 122/B. §-ban foglaltakat megfelelően kell alkalmazni.
 
 (4) A fejlesztő-felkészítő foglalkoztatás keretében

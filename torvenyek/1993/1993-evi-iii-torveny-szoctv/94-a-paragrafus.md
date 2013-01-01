@@ -8,7 +8,7 @@ c) a települési önkormányzat – ide nem értve a fővárosi önkormányzat 
 
 d) a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium által fenntartott szociális intézmény esetén az intézményvezető,
 
-e) a megyei fenntartó által fenntartott szociális intézmény esetén az intézményvezető
+e) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott szociális intézmény esetén az intézményvezető
 
 dönt.
 

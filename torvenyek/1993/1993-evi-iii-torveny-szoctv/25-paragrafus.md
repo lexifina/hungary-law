@@ -6,25 +6,25 @@
 
 a) a települési önkormányzat jegyzője az e törvényben meghatározott feltételek szerint
 
-aa) időskorúak járadékát,
+aa) foglalkoztatást helyettesítő támogatást,
 
-ab) foglalkoztatást helyettesítő támogatást,
+ab) rendszeres szociális segélyt,
 
-ac) rendszeres szociális segélyt,
-
-ad) lakásfenntartási támogatást
-
-ae) a 41. § (1) bekezdésében és a 43/A. § (1) bekezdésében foglalt ápolási díjat;
+ac) lakásfenntartási támogatást;
 
 b) a települési önkormányzat képviselő-testülete az e törvényben, illetve az önkormányzat rendeletében meghatározott feltételek szerint
 
-ba)
+ba) a 43/B. § (1) bekezdésében foglalt ápolási díjat,
 
-bb) a 43/B. § (1) bekezdésében foglalt ápolási díjat,
+bb) átmeneti segélyt,
 
-bc) átmeneti segélyt,
+bc) temetési segélyt;
 
-bd) temetési segélyt
+c) a járási hivatal az e törvényben meghatározott feltételek szerint
+
+ca) időskorúak járadékát,
+
+cb) a 41. § (1) bekezdésében és a 43/A. § (1) bekezdésében foglalt ápolási díjat;
 
 állapít meg (a továbbiakban együtt: szociális rászorultságtól függő pénzbeli ellátások).
 

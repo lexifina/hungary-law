@@ -2,7 +2,7 @@
 
 a) a fenntartó önkormányzat,
 
-b) ha a fenntartó önkormányzati társulás vagy többcélú kistérségi társulás, akkor a társulási megállapodásban erre kijelölt települési önkormányzat a társulási megállapodásban meghatározottak szerint
+b) ha a fenntartó önkormányzati társulás, akkor a társulási megállapodásban erre kijelölt települési önkormányzat a társulási megállapodásban meghatározottak szerint
 
 rendeletet alkot.
 
@@ -23,6 +23,8 @@ f) a személyes gondoskodásért fizetendő térítési díjak mértékét, a fi
 g) az intézményvezető és az ellátást igénybe vevő között kötendő megállapodással összefüggő kérdéseket;
 
 h)
+
+(2a) Az állam 88. § (1) bekezdése szerinti ellátási kötelezettsége esetében az (1) bekezdésben és a (2) bekezdés b)–g) pontjában foglaltakat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv határozza meg.
 
 (3) A legalább kétezer lakosú települési önkormányzat a településen, fővárosban élő szociálisan rászorult személyek részére biztosítandó szolgáltatási feladatok meghatározása érdekében szolgáltatástervezési koncepciót készít. Amennyiben a települések egyes szociális feladataikat társulás keretében látják el, e szolgáltatások tekintetében a szolgáltatástervezési koncepciót a társulás készíti el. A szolgáltatástervezési koncepció tartalmát az önkormányzat, illetve a társulás kétévente felülvizsgálja és aktualizálja.
 

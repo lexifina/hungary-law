@@ -6,19 +6,19 @@ b) biztosítja az intézmény gazdálkodásának és működésének törvényes
 
 (2)–(4)
 
-(5) Ha a tartós bentlakást nyújtó egyházi és nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a normatív állami hozzájárulás visszatartása iránt. A visszatartás mértéke, ha a nem állami és egyházi fenntartó
+(5) Ha a tartós bentlakást nyújtó egyházi és nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha a nem állami és egyházi fenntartó
 
 a)
 
 b)
 
-c) az intézmény alapfeladataiban történő változást – mely új működési engedélyeztetési eljárást tesz szükségessé – nem jelzi a működést engedélyező hatóság felé, az éves normatív állami hozzájárulás nyolc százaléka,
+c) az intézmény alapfeladataiban történő változást – mely új működési engedélyeztetési eljárást tesz szükségessé – nem jelzi a működést engedélyező hatóság felé, az éves központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka,
 
-d) nem biztosítja a kötelező gyógyszerkészletet vagy gyógyászati segédeszközt, az éves normatív állami hozzájárulás nyolc százaléka.
+d) nem biztosítja a kötelező gyógyszerkészletet vagy gyógyászati segédeszközt, az éves központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka.
 
-(6) Amennyiben a működést engedélyező hatóság több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a normatív állami hozzájárulás visszatartásának mértéke legfeljebb az éves normatív állami hozzájárulás 15 százaléka.
+(6) Amennyiben a működést engedélyező hatóság több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a központi költségvetésről szóló törvényben biztosított támogatás visszatartásának mértéke legfeljebb az éves központi költségvetésről szóló törvényben biztosított támogatás 15 százaléka.
 
-(7) A visszatartott normatív állami hozzájárulás akkor illeti meg az egyházi és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
+(7) A visszatartott központi költségvetésről szóló törvényben biztosított támogatás akkor illeti meg az egyházi és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
 
 VI. CÍM
 

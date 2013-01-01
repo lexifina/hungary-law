@@ -1,11 +1,17 @@
-88. § (1) Az állam a megyei fenntartó útján, valamint a fővárosi önkormányzat köteles gondoskodni
+88. § (1) Az állam az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv útján köteles gondoskodni
 
-a) azoknak a szakosított ellátásoknak a megszervezéséről, amelyek biztosítására e törvény alapján a települési önkormányzat nem köteles;
+a) a harmincezer főnél nagyobb állandó lakosságszámú településeken a fogyatékos személyek gondozóháza, a pszichiátriai betegek és szenvedélybetegek átmeneti otthona megszervezéséről és fenntartásáról,
 
-b) a szakosított szociális szolgáltatások területi összehangolásáról;
+b) a fővárosban a pszichiátriai betegek, a szenvedélybetegek, fogyatékos személyek szakosított ellátásának a megszervezéséről és fenntartásáról,
 
-(2) A fővárosban — ha a fővárosi önkormányzat és a kerületi önkormányzat másként nem állapodik meg — a fővárosi önkormányzat gondoskodik a hajléktalanok éjjeli menedékhelyének és átmeneti szállásának megszervezéséről és fenntartásáról.
+c) a megye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles.
 
-(3)–(5)
+(2) A fővárosi önkormányzat köteles gondoskodni
 
-(6)
+a) idősek otthonának, a hajléktalanok otthonának, a hajléktalan személyek rehabilitációs intézményének,
+
+b) a fővárosban – ha a kerületi önkormányzattal másként nem állapodik meg – a hajléktalanok éjjeli menedékhelyének és átmeneti szállásának
+
+megszervezéséről és fenntartásáról.
+
+(3) A fővárosi önkormányzat által fenntartott szakosított ellátást nyújtó intézmények ellátási területe az egész fővárosra kiterjed.

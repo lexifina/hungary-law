@@ -1,1 +1,1 @@
-58. § A szociál- és nyugdíjpolitikáért felelős miniszter – a jogszabályokban meghatározott szakmai, módszertani feladatok ellátására – módszertani intézményeket jelöl ki, és e feladatok ellátására a módszertani intézménynek miniszteri rendeletben meghatározottak szerint egyedi támogatást nyújt.
+58. § A jogszabályban meghatározott szakmai, módszertani feladatokat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.

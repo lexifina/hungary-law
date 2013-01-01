@@ -10,10 +10,12 @@ b) a települési önkormányzat polgármestere,
 
 c) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
 
-d) a szociális hatóság
+d) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
 
-gyakorolja (a továbbiakban az a)–d) pontokban foglaltak együtt: szociális hatáskört gyakorló szerv).
+e) a szociális hatóság
 
-(2) A jegyző szakmai irányítását a szociális hatóság látja el.
+gyakorolja (a továbbiakban az a)–e) pontokban foglaltak együtt: szociális hatáskört gyakorló szerv).
+
+(2)
 
 (3)–(5)

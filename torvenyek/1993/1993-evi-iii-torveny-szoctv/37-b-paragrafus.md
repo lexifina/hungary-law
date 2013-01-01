@@ -2,7 +2,7 @@
 
 a) 90 napnál nem hosszabb időtartamra létesített jogviszony alapján keresőtevékenységet végez, a jogviszony fennállásának időtartama alatt, vagy
 
-b) olyan képzésben vesz részt, amelynek keretében képzési támogatásként keresetpótló juttatásban részesül, a keresetpótló juttatás folyósításának időtartama alatt
+b) olyan képzésben vesz részt, amelynek keretében felzárkózást elősegítő megélhetési támogatásban vagy képzési támogatásként keresetpótló juttatásban részesül, a felzárkózást elősegítő megélhetési támogatás vagy a keresetpótló juttatás folyósításának időtartama alatt
 
 a rendszeres szociális segély folyósítása szünetel.
 

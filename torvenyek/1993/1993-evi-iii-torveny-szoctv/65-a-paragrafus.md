@@ -22,4 +22,4 @@ a) a szenvedélybetegség okozta egészségügyi és szociális károk mérsékl
 
 b) a kríziskezelést az életet veszélyeztető, a testi, szociális, kapcsolati és életvezetési rendszerben kialakult kezelhetetlen helyzetek esetére.
 
-(4) A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás esetén a természetes személyazonosító adatokat nem kell megadni, a jegyző a 18. § szerinti nyilvántartásba kizárólag a szociális ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést jegyzi be.
+(4)

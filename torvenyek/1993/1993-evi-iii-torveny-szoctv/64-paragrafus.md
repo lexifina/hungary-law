@@ -2,7 +2,7 @@
 
 64. § (1) A családsegítés a szociális vagy mentálhigiénés problémák, illetve egyéb krízishelyzet miatt segítségre szoruló személyek, családok számára az ilyen helyzethez vezető okok megelőzése, a krízishelyzet megszüntetése, valamint az életvezetési képesség megőrzése céljából nyújtott szolgáltatás.
 
-(2) A családok segítése érdekében veszélyeztetettséget és krízishelyzetet észlelő jelzőrendszer működik. A jegyző, továbbá a szociális, egészségügyi szolgáltató, intézmény, valamint a gyermekjóléti szolgálat, a pártfogói felügyelői és a jogi segítségnyújtói szolgálat jelzi, a társadalmi szervezetek, egyházak és magánszemélyek jelezhetik a családsegítést nyújtó szolgáltatónak, intézménynek, ha segítségre szoruló családról, személyről szereznek tudomást.
+(2) A családok segítése érdekében veszélyeztetettséget és krízishelyzetet észlelő jelzőrendszer működik. A jegyző, a járási hivatal, továbbá a szociális, egészségügyi szolgáltató, intézmény, valamint a gyermekjóléti szolgálat, a pártfogói felügyelői és a jogi segítségnyújtói szolgálat jelzi, a társadalmi szervezetek, egyházak és magánszemélyek jelezhetik a családsegítést nyújtó szolgáltatónak, intézménynek, ha segítségre szoruló családról, személyről szereznek tudomást.
 
 (3) A (2) bekezdés szerint kapott jelzés alapján a családsegítést nyújtó szolgáltató, intézmény feltérképezi az ellátási területen élő szociális és mentálhigiénés problémákkal küzdő családok, személyek körét, és személyesen felkeresve tájékoztatja őket a családsegítés (4) bekezdésben megjelölt céljáról, tartalmáról.
 

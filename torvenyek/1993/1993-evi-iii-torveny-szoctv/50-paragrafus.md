@@ -36,7 +36,9 @@ b) a havi rendszeres gyógyító ellátás költségének mértékeként az öre
 
 jogosultsági feltételként nem lehet előírni; a szociális rászorultság további feltételeit az önkormányzat a helyi viszonyoknak megfelelően szabályozza.
 
-(4) A közgyógyellátásra való jogosultságról a jegyző dönt. A jogosultság az (1) bekezdés szerinti jogosult esetében két évre, a (2)–(3) bekezdés szerinti jogosult esetében egy évre kerül megállapításra. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben foglaltak kivételével – a jogosultságot megállapító határozat meghozatalát követő 15. nap.
+(4) A közgyógyellátásra való jogosultságról az (1) és (2) bekezdés esetében a járási hivatal, a (3) bekezdés esetében a jegyző dönt. A jogosultság az (1) bekezdés szerinti jogosult esetében két évre, a (2)–(3) bekezdés szerinti jogosult esetében egy évre kerül megállapításra. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben foglaltak kivételével – a jogosultságot megállapító határozat meghozatalát követő 15. nap.
+
+(4a) A közgyógyellátásra való jogosultság ugyanazon időszakra vonatkozóan csak egy jogcímen állapítható meg azzal, hogy a (3) bekezdés szerinti közgyógyellátásra való jogosultság csak abban az esetben állapítható meg, ha a kérelmező az (1) vagy a (2) bekezdés szerinti jogcímen nem jogosult az ellátásra.
 
 (5) A közgyógyellátás iránti kérelem a jogosultság időtartama alatt, annak lejártát megelőző három hónapban is benyújtható. Amennyiben az eljárás a jogosultság lejárta előtt legalább 15 nappal korábban befejeződik, az új jogosultság kezdő időpontjaként a korábbi jogosultság lejártát követő napot kell megállapítani.
 
@@ -46,4 +48,4 @@ a) a gyógykezelést szolgáló terápiában, illetőleg a gyógyszerek térít�
 
 b) a kérelmező jövedelme nem változott,
 
-a jegyző a kérelmet érdemi vizsgálat nélkül elutasítja.
+a jegyző, illetve a járási hivatal a kérelmet érdemi vizsgálat nélkül elutasítja.

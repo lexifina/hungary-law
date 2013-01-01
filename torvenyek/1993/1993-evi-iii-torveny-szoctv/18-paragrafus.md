@@ -1,6 +1,6 @@
 ## Adatkezelés
 
-18. § A jegyző a szociális ellátásra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+18. § A jegyző a települési önkormányzat és a jegyző feladat- és hatáskörébe tartozó szociális ellátásra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 a) a jogosult természetes személyazonosító adatait;
 
@@ -14,7 +14,7 @@ e) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vo
 
 f) a szociális ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
 
-g) a jogosultság és a térítési díj megállapításához szükséges jövedelmi adatokat;
+g) a jogosultság megállapításához szükséges jövedelmi adatokat;
 
 h) a jogosult Társadalombiztosítási Azonosító Jelét;
 

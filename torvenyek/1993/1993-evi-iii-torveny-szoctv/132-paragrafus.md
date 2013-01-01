@@ -16,7 +16,7 @@ e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési d�
 
 f) a szociális szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
 
-g) a nem állami és egyházi fenntartók által igénybe vehető normatív állami hozzájárulás igénylésének, folyósításának és elszámolásának részletes szabályait,
+g) a nem állami és egyházi fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 
 i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
 
@@ -36,7 +36,7 @@ p) a támogató szolgáltatás, a jelzőrendszeres házi segítségnyújtás, a 
 
 q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 
-r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, továbbá a fogyatékos személyek alapvizsgálatára vonatkozó szabályokat;
+r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;
 
 s) a bírság megállapításának és megfizetésének részletes eljárási szabályait;
 
@@ -49,6 +49,8 @@ v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén köz
 w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat;
 
 x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
+
+y) a 32/D. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
@@ -64,7 +66,7 @@ e) a személyes gondoskodást végző személyek adatainak működési nyilvánt
 
 f) a szociális alapvizsgára, szakvizsgára, valamint a szociális szolgáltatásokat nyújtó személyek továbbképzésére vonatkozó szabályokat, ide nem értve a szakirányú továbbképzési szakokon folyó továbbképzést;
 
-g) a módszertani intézmények kijelölésére és feladataira vonatkozó részletes szabályokat;
+g) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat;
 
 h) a személyes gondoskodást nyújtó szociális ellátások igénybevételére vonatkozó szabályokat,
 
@@ -78,7 +80,7 @@ n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan
 
 o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
-(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani intézményeknek fizetendő szakértői díj mértékét.
+(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 

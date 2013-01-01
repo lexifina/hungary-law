@@ -20,7 +20,7 @@ g) a falu- és a tanyagondnok.
 
 (3) A bentlakásos intézménynek rendelkeznie kell – a szolgáltatásban foglalkoztatottak védelme érdekében – az ellátást igénybevevők részéről esetlegesen felmerülő veszélyhelyzet kezelésére vonatkozó belső utasítással.
 
-(4) Azoknak a munkavállalóknak a munkaidejét, pihenőidejét, előmeneteli és illetményrendszerét, akik olyan egyházi vagy nem állami fenntartású szolgáltatónál, intézménynél dolgoznak, amely után a fenntartó normatív állami hozzájárulásban részesül – ideértve a 127. § (4) bekezdés szerinti szolgáltatót, intézményt is –, a Kjt. 55–80. §-a szerint kell megállapítani. E rendelkezésektől akkor lehet eltérni, ha azzal a munkavállaló kizárólag előnyt szerez.
+(4) Azoknak a munkavállalóknak a munkaidejét, pihenőidejét, előmeneteli és illetményrendszerét, akik olyan egyházi vagy nem állami fenntartású szolgáltatónál, intézménynél dolgoznak, amely után a fenntartó központi költségvetésről szóló törvényben biztosított támogatásban részesül – ideértve a 127. § (4) bekezdés szerinti szolgáltatót, intézményt is –, a Kjt. 55–80. §-a szerint kell megállapítani. E rendelkezésektől akkor lehet eltérni, ha azzal a munkavállaló kizárólag előnyt szerez.
 
 (5) A szociális szolgáltatónál és szociális intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
 

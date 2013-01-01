@@ -24,6 +24,6 @@ alapján állítja ki.
 
 a) az (1) bekezdés a) pontjában foglalt igazolás felülvizsgálatát az egészségügyi államigazgatási szerv által kijelölt, az ápolást indokoló diagnózis szerinti szakorvostól vagy szervtől,
 
-b) az (1) bekezdés b) pontjában foglalt szakvélemény felülvizsgálatát az ápolt személy tartózkodási helye szerint illetékes módszertani intézmény által kijelölt szakértőtől
+b) az (1) bekezdés b) pontjában foglalt szakvélemény felülvizsgálatát a módszertani feladatokat ellátó szerv által kijelölt szakértőtől
 
 kérheti.

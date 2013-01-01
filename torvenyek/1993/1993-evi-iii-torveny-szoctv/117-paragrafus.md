@@ -16,6 +16,12 @@ b) 80%-át az a) pont alá nem tartozó egyéb tartós elhelyezést
 
 nyújtó intézmények esetén.
 
+(2a) Támogatott lakhatás esetén
+
+a) a személyi térítési díj nem haladhatja meg az ellátott havi jövedelmének 80%-át,
+
+b) a térítési díjra a tartós bentlakásos intézmények térítési díjára vonatkozó szabályokat kell alkalmazni.
+
 (3) Tartós bentlakásos intézményi ellátás esetén a személyi térítési díj az intézményi térítési díjjal megegyező összeg, ha a jövedelemhányad eléri vagy meghaladja az intézményi térítési díj összegét.
 
 (4) Ha tartós bentlakásos intézményi ellátás esetén a jövedelemhányad nem éri el az intézményi térítési díj összegét, és az ellátott jelentős pénzvagyonnal rendelkezik, a személyi térítési díj az intézményi térítési díjjal megegyező összeg azzal, hogy a jövedelemhányad és az intézményi térítési díj közötti különbözetet a jelentős pénzvagyonból kell fedezni.

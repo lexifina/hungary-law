@@ -4,7 +4,7 @@ a) 90 napnál nem hosszabb időtartamra létesített jogviszony alapján kereső
 
 b) közfoglalkoztatásban vesz részt, a közfoglalkoztatásban való részvétel időtartama alatt, vagy
 
-c) olyan képzésben vesz részt, amelynek keretében képzési támogatásként keresetpótló juttatásban részesül, a keresetpótló juttatás folyósításának időtartama alatt
+c) olyan képzésben vesz részt, amelynek keretében felzárkózást elősegítő megélhetési támogatásban vagy képzési támogatásként keresetpótló juttatásban részesül, a felzárkózást elősegítő megélhetési támogatás vagy a keresetpótló juttatás folyósításának időtartama alatt
 
 a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
 

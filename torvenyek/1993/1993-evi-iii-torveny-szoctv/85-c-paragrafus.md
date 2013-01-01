@@ -22,7 +22,7 @@ c) egyéb szakdolgozói munkakör létszámnormáira
 
 vonatkozó előírásoknak.
 
-(5) A megyei fenntartó és a fővárosi önkormányzat a megye, főváros területén ellátandó, intézményi keretek között gondozható, de speciális egyéni ellátást igénylő személyek részére – így különösen akik súlyos pszichés vagy disszociális tüneteket, magatartászavart mutatnak – külön-külön egyes ellátotti csoportok szerint – ide nem értve az időskorúakat – speciális intézményt alakít ki, amely az egyes ellátotti csoportok vonatkozásában legfeljebb húsz fő elhelyezését biztosítja.
+(5)
 
 IV. CÍM
 
