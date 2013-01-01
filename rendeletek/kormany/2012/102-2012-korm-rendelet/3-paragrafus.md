@@ -1,11 +1,11 @@
-## 3. §
+## 3. § A Kormányrendelet 1.
 
-a)[^5]
+a) 14. § (1) bekezdésében a „Nemzeti Adó- és Vámhivatal” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség”,
 
-b)[^6]
+b) 27/A. § (2) bekezdésében a „minisztériumok szerveinél” szövegrész helyébe a „minisztériumok szerveinél és az Országgyűlési Őrségnél”,
 
-c)[^7]
+c)[^6]
 
-[^5]: A 3. § a) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^6]: A 3. § b) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^7]: A 3. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+szöveg lép.
+
+[^6]: A 3. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

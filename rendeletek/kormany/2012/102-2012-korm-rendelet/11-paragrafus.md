@@ -1,17 +1,15 @@
-## 10. §[^15]
+## 10. §[^13]
 
-## 11. §
+## 11. § Hatályát veszti a Kormányrendelet2.
 
-a)[^16]
+a)[^14]
 
-b)[^17]
+b) 3. § (3) bekezdésében az „az Országgyűlés elnökének,” szövegrész,
 
-c)[^18]
+c) 8/E. § (3) bekezdés c) pontja, valamint
 
-d)[^19]
+d)[^15]
 
-[^15]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 11. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 11. § b) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^18]: A 11. § c) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^19]: A 11. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 11. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

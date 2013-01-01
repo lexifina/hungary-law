@@ -1,12 +1,12 @@
-## 1. §[^1]
+## 1. §[^2]
 
-2. § (1)[^2]
+2. § (1)[^3]
 
-(2)[^3]
+(2)[^4]
 
-(3)[^4]
+(3)[^5]
 
-[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 2. § (2) bekezdése a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^4]: A 2. § (3) bekezdése a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § (2) bekezdése a 275/2012. (IX. 28.) Korm. rendelet 8. § a) pontja alapján nem lép hatályba.
+[^5]: A 2. § (3) bekezdése a 275/2012. (IX. 28.) Korm. rendelet 8. § a) pontja alapján nem lép hatályba.
