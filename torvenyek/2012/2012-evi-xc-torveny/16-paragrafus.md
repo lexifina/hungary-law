@@ -1,0 +1,1 @@
+16. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény mellékletének 2. pontjában az „A kéményseprő-ipari tevékenység ellátásának biztosítása (1995. évi XLII. törvény)” szövegrész helyébe az „A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény)” szöveg lép.
