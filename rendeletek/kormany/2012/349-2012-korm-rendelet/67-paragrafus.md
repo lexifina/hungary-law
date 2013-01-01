@@ -1,3 +1,1 @@
-## 65–66. §[^23]
-
-[^23]: A 65–66. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## „(4) A főigazgató a 4. § (1) bekezdés a) pontja szerinti átvett intézmény vezetőjének feladatai ellátására 2013. december 31-éig pályázatot írhat ki.”

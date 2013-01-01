@@ -1,9 +1,8 @@
-## 28. §[^10]
+## 28. §[^6]
 
-29. § (1)[^11]
+29. § (1)[^7]
 
-(2)[^12]
+(2) A Kjtr. 4. számú melléklete e rendelet 3. melléklete szerint módosul.
 
-[^10]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 29. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 29. § (2) bekezdése a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^6]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 29. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

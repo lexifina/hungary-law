@@ -1,0 +1,1 @@
+## „a) a rászoruló személyek az ellátásra köteles helyi önkormányzat, Főigazgatóság, illetve az ellátási kötelezettséget az Szt. alapján a helyi önkormányzattól, államtól átvállaló más fenntartó intézményében – az ellátásra köteles helyi önkormányzat, Főigazgatóság nyilatkozata alapján – nem láthatók el, és”

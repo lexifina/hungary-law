@@ -1,0 +1,3 @@
+## 37. § A Gymr. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Amennyiben a szociális és gyámhivatal gyermekek átmeneti gondozásának, otthont nyújtó ellátásnak, illetve utógondozói ellátásnak a működési engedélyét vonja vissza, vagy ilyen szolgáltató tevékenységet végeznek működési engedély nélkül, az ellátás ideiglenes megszervezése érdekében – a szociális és gyámhivatal megkeresése alapján – a gondozási hely szerint illetékes megyei kirendeltség haladéktalanul intézkedik. A gyermek további ellátásáról az arra köteles helyi önkormányzat, illetve a Főigazgatóság hatvan napon belül gondoskodik.”

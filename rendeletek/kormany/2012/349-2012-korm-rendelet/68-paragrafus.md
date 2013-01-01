@@ -1,4 +1,4 @@
-## 67. §[^24]
+## 67. §[^11]
 
 ## 14. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 9–19. §, a 21–22. §, a 27. § (1) és (3) bekezdése, a 29. § (2) bekezdése, a 32–49. § és az 51–66. § 2013. január 1-jén lép hatályba.
 
-[^24]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

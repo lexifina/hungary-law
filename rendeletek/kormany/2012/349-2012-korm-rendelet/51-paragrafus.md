@@ -1,3 +1,3 @@
-## 50. §[^19]
+## 50. §[^9]
 
-[^19]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
