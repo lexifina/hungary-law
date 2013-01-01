@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem indoka az itt található Árpád-kori vár maradványainak megőrzése, kutathatóságának biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^5]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
+
+[^5]: Az 5. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 3. § e) pontja hatályon kívül helyezte.

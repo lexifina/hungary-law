@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem indoka a Március 15. téren és környezetében található késő római Contra Aquincum erőd, valamint a középkori Pest városának központja, a belvárosi plébániatemplom és középkori városháza régészeti értékeinek megőrzése, kutathatóságuk biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez.
+(3)[^3]
 
 (4) Az örökségvédelmi bírság megállapítása szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
+
+[^3]: A 3. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 3. § c) pontja hatályon kívül helyezte.
