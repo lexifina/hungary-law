@@ -4,31 +4,37 @@
 
 ## 1. A földhasználó adatai:
 
-## 1.1. a magánszemély bejelentő
+## 1.1.[^42] a magánszemély kérelmező
 
 ## a) természetes személyazonosító adatai,
 
-## b) lakcíme,
+## b) személyi azonosítója,
 
-## c) családi gazdaságának nyilvántartási száma (ha a bejelentő családi gazdálkodó);
+## c) állampolgársága,
 
-## 1.2.[^35] a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (gazdálkodó szervezet) bejelentő
+## d) lakcíme,
+
+## e) családi gazdaságának nyilvántartási száma (ha a bejelentő családi gazdálkodó);
+
+## 1.2.[^43] a gazdálkodó szervezet kérelmező
 
 ## a) megnevezése,
 
-## b) székhelye (telephelye),
+## b) statisztikai azonosítója (törzsszám),
 
-## c) statisztikai számjele,
+## c) cég esetében a cégjegyzékszám,
 
-## d) képviseletében eljáró személy családi és utóneve, lakcíme,
+## d) székhelye (telephelye),
 
-## e) bélyegzőlenyomata.
+## e) képviseletében eljáró személy családi és utóneve, lakcíme,
+
+## f) bélyegzőlenyomata.
 
 ## 2. A használt földterületekre vonatkozó következő adatok földrészletenkénti bontásban:
 
 ## a) a település neve,
 
-## b) a földrészlet helyrajzi száma,
+## b)[^44] a földrészlet fekvése, helyrajzi száma,
 
 ## c) a használat jogcíme,
 
@@ -46,11 +52,11 @@
 
 ## j) ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, a használt alrészletek jelei, művelési ágai, minőségi osztályai, valamint a használattal érintett terület nagysága (ha, m2) és aranykorona-értéke (AK).
 
-## 3.[^36] A használatba adó adatai:
+## 3.[^45] A használatba adó adatai (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon, alapul):
 
-## a) a természetes személy használatba adó természetes személyazonosító adatai és lakcíme;
+## a) a magánszemély használatba adó természetes személyazonosító adatai és lakcíme;
 
-## b) a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (gazdálkodó szervezet) használatba adó megnevezése, székhelye (telephelye) és statisztikai számjele, továbbá a képviseletében eljáró személy családi és utóneve, valamint lakcíme.
+## b) a gazdálkodó szervezet használatba adó megnevezése, székhelye (telephelye) és statisztikai azonosítója, továbbá a képviseletében eljáró személy családi és utóneve, valamint lakcíme.
 
 ## 4. A földhasználó nyilatkozata
 
@@ -58,9 +64,13 @@
 
 ## b) gazdálkodó szervezet földhasználó esetén arra vonatkozóan, hogy a korábban benyújtott okiratban rögzített adatok változatlanok-e;
 
-## c) szívességi földhasználat jogcímén bejelentett földhasználat esetén arról, hogy a földhasználó a használatba adó közeli hozzátartozója.
+## c) szívességi földhasználat jogcímén bejelentett földhasználat esetén arról, hogy a földhasználó a használatba adó közeli hozzátartozója;
 
-## 5. A használatba adó aláírása és az aláírás dátuma.
+## d)[^46] arról, hogy családi gazdálkodónak minősül;
+
+## e)[^47] cég esetén arra vonatkozóan, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
+
+## 5.[^48] A használatba adó aláírása és az aláírás dátuma (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon alapul).
 
 ## 6. A földhasználó magánszemélynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
 
@@ -74,7 +84,7 @@
 
 ## 4. Benyújtott pótlapok száma.
 
-## 5. Mellékelt szerződések száma.
+## 5.[^49] Mellékelt okiratok, szerződések száma.
 
 ## 6. Annak megjelölése, hogy befizetésre került-e az igazgatási szolgáltatási díj.
 
@@ -82,8 +92,14 @@
 
 ## 8. Az ügyintéző aláírása.
 
-2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^37]
+2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^50]
 
-[^35]: Az 1. számú melléklet I. 1.2. pontja a 252/2009. (XI. 16.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
-[^36]: Az 1. számú melléklet I. 3. pontja a 252/2009. (XI. 16.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
-[^37]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: Az 1. számú melléklet I. 1. pont 1.1. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 1. számú melléklet I. 1. pont 1.2. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^44]: Az 1. számú melléklet I. 2. pont b) alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 1. számú melléklet I. 3. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 1. számú melléklet I. 4. pont d) alpontját a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^47]: Az 1. számú melléklet I. 4. pont e) alpontját a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^48]: Az 1. számú melléklet I. 5. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^49]: Az 1. számú melléklet II. 5. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^50]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

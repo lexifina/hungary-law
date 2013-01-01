@@ -1,13 +1,27 @@
 ## 3. § A nyilvántartásbavétel során minden földhasználó számára, földhivatalonként külön földhasználati lapot kell nyitni, amelyen a földhivatal nevét is fel kell tüntetni.
 
-## 4. §[^4] A földhasználati lap I. része a földhasználó következő adatait tartalmazza:
+## 4. §[^7] A földhasználati lap I. része a földhasználó következő adatait tartalmazza:
 
-a) magánszemély földhasználó esetén a természetes személyazonosító adatok, gazdálkodó szervezet földhasználó esetén a gazdálkodó szervezet megnevezése,
+a) magánszemély földhasználó
 
-b) lakcím, székhely (telephely),
+aa) természetes személyazonosító adatai,
 
-c) gazdálkodó szervezet földhasználó esetén a statisztikai számjel,
+ab) személyi azonosítója,
 
-d) magánszemély földhasználó esetén annak megjelölése, hogy a földhasználó családi gazdálkodónak minősül, továbbá a családi gazdaság nyilvántartási száma.
+ac) állampolgársága,
 
-[^4]: A 4. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+ad) lakcíme,
+
+ae) annak megjelölése, hogy a földhasználó családi gazdálkodónak minősül, továbbá ez esetben a családi gazdaság nyilvántartási száma;
+
+b) gazdálkodó szervezet földhasználó
+
+ba) megnevezése,
+
+bb) székhelye (telephelye),
+
+bc) statisztikai azonosítója (törzsszám),
+
+bd) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég esetében a cégjegyzékszám.
+
+[^7]: A 4. § a 429/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

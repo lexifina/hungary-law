@@ -1,4 +1,4 @@
-5. §[^5] (1) A földhasználati lap II. része – földrészletenként bontva – a használt földterületre vonatkozó következő adatokat tartalmazza:
+5. §[^8] (1) A földhasználati lap II. része – földrészletenként bontva – a használt földterületre vonatkozó következő adatokat tartalmazza:
 
 a) a település neve,
 
@@ -22,4 +22,4 @@ j) annak megjelölése, hogy a földterület családi gazdasághoz tartozik, fel
 
 (2) Az (1) bekezdésben foglaltakon túl a földhasználati lap II. része tartalmazza a földhasználó által használt valamennyi földterület összterületét területi mértékben (hektárban, tízezred pontossággal) és aranykoronában (két tizedes pontossággal) kifejezve.
 
-[^5]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
