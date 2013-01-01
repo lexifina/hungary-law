@@ -40,9 +40,9 @@
 
 ## 3. A kérelemhez mellékelni kell:
 
-## a) az egyetemes szolgáltatási szerződés másolatát,
+## a) új felhasználási hely esetén az egyetemes szolgáltatási szerződés másolatát, vagy
 
-## b) amennyiben az a) pont szerinti szerződés alapján már történt számla kibocsátás, a kérelem benyújtását megelőzően kézhez kapott utolsó számla (részszámla) másolatát.
+## b) amennyiben az egyetemes szolgáltatási szerződés alapján már történt számlakibocsátás, a kérelem benyújtását megelőzően kézhez kapott utolsó számla (részszámla) másolatát.
 
 ## 4. Ha a családi pótlék folyósítására kifizetőhelyen kerül sor, ennek neve és címe:
 
@@ -72,7 +72,7 @@
 
 ## (az igénylő aláírása)
 
-12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^81]
+12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^92]
 
 A kedvezményre jogosultakról szóló értesítés adatai
 
@@ -104,10 +104,10 @@ A kedvezményre jogosultakról szóló értesítés adatai
 
 12. Gyerekek után járó kedvezmény felső határa:
 
-12.1. A 16/C. § (1) bekezdés c) pont ca) alpontja esetén (MJ):
+12.1. A 16/C. § (1) bekezdés b) pont ba) alpontja esetén (MJ):
 
-12.2. A 16/C. § (1) bekezdés c) pont cb) alpontja esetén (Ft):
+12.2. A 16/C. § (1) bekezdés b) pont bb) alpontja esetén (Ft):
 
 13. Dátum.
 
-[^81]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^92]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított, a 78/2012. (XII. 22.) NFM rendelet 13. §-a szerint módosított szöveg.

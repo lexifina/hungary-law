@@ -1,3 +1,3 @@
-## 25. §[^71] A 16/B. § (8) bekezdése szerinti kérelem a 2012. évben szeptember 1. és szeptember 30. között nyújtható be.
+## 25. §[^82]
 
-[^71]: A 25. §-t a 28/2012. (V. 31.) NFM rendelet 1. §-a iktatta be.
+[^82]: A 25. §-t a 28/2012. (V. 31.) NFM rendelet 1. §-a iktatta be, hatályon kívül helyezte az 51/2012. (VIII. 31.) NFM rendelet 12. § e) pontja.

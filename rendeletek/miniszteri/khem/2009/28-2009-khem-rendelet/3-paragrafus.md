@@ -2,13 +2,17 @@
 
 3. § (1)[^11] A szolgáltató az egyetemes szolgáltatás keretében a következő árszabások szerint értékesíti a földgázt:
 
-a) a 20 m3/h-nál kisebb gázmérővel rendelkező felhasználók árszabása, kivéve fogyasztói közösségeket,
+a) a 20 m3/h-nál kisebb gázmérővel rendelkező lakossági felhasználók árszabása, kivéve a fogyasztói közösségeket,
 
-b) a 20 m3/h-nál kisebb gázmérővel rendelkező fogyasztói közösségek árszabása,
+b) a 20 m3/h-nál kisebb gázmérővel rendelkező nem lakossági felhasználók árszabása,
 
-c) a 20 m3/h és annál nagyobb gázmérővel rendelkező felhasználók árszabása és
+c) a 20 m3/h-nál kisebb gázmérővel rendelkező fogyasztói közösségek árszabása,
 
-d) a gázmérővel nem rendelkező felhasználók árszabása.
+d) a 20 m3/h és annál nagyobb gázmérővel rendelkező lakossági felhasználók árszabása,
+
+e) a 20 m3/h névleges teljesítményű gázmérővel rendelkező nem lakossági felhasználók árszabása, és
+
+f) a gázmérővel nem rendelkező felhasználók árszabása.
 
 (2)[^12]
 
@@ -20,7 +24,7 @@ d) a gázmérővel nem rendelkező felhasználók árszabása.
 
 (6)[^15]
 
-[^11]: A 3. § (1) bekezdése a 32/2011. (VI. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdése a 78/2012. (XII. 22.) NFM rendelet 5. §-ával megállapított szöveg.
 [^12]: A 3. § (2) bekezdését a 18/2010. (XII. 3.) NFM rendelet 4. §-a hatályon kívül helyezte.
 [^13]: A 3. § (3) bekezdése a 32/2011. (VI. 30.) NFM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^14]: A 3. § (5) bekezdése a 18/2010. (XII. 3.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.

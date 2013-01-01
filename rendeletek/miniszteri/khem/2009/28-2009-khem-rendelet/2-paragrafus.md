@@ -20,7 +20,7 @@ h)[^6]
 
 i)[^7] fogyasztói közösség: a közös gázmérővel rendelkező olyan lakóépületben vételezők összessége, ahol a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát,
 
-j)[^8] jogosultsági időszak: minden naptári évben a január 1. és december 31. közötti időszak,
+j)[^8]
 
 k)[^9] jogosult: az a nagycsaládos kedvezményre jogosult személy, aki
 
@@ -38,6 +38,6 @@ l)[^10] nagycsaládos kedvezmény: a jogosult részére a MÁK által határozat
 [^5]: A 2. § (1) bekezdés f) pontját a 32/2011. (VI. 30.) NFM rendelet 3. §-a hatályon kívül helyezte.
 [^6]: A 2. § (1) bekezdés h) pontját a 32/2011. (VI. 30.) NFM rendelet 3. §-a hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdés i) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be.
-[^8]: A 2. § (1) bekezdés j) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be.
+[^8]: A 2. § (1) bekezdés j) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, hatályon kívül helyezte az 51/2012. (VIII. 31.) NFM rendelet 12. § a) pontja.
 [^9]: A 2. § (1) bekezdés k) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdés l) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
