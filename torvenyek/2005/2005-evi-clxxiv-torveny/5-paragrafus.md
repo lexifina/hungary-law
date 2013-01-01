@@ -10,7 +10,7 @@ b) az állami adóhatóság az a) pont szerinti adatszolgáltatást követő öt
 
 a)
 
-b) az (1) bekezdés b) pontja szerint kapott adatok alapján 8 munkanapon belül kincstári letéti Start-számlát nyit, amelyen az első utalási összeget a gyermek születésének napjától, valamint a gyermek jogosultsága esetén – ha Start-számlával nem rendelkezik – a második utalási összeget a hetedik életéve betöltésétől, és a harmadik utalási összeget a tizennegyedik életéve betöltésétől nyilvántartja mindaddig, amíg a szülő, vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek azt Start-számlára nem helyezi, vagy ameddig a (7) bekezdés szerinti jogosultsággal a jogosult nem él,
+b) az (1) bekezdés b) pontja szerint kapott adatok alapján a beérkezést követő 8 munkanapon belül kincstári letéti Start-számlát nyit, amelyen az első utalási összeget a gyermek születésének napjától, valamint a gyermek jogosultsága esetén – ha Start-számlával nem rendelkezik – a második utalási összeget a hetedik életéve betöltésének napjától, és a harmadik utalási összeget a tizennegyedik életéve betöltésének napjától – a 9/B. § szerinti adatszolgáltatás alapján, visszamenőlegesen – nyilvántartja mindaddig, amíg a szülő, vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek azt Start-számlára nem helyezi, vagy ameddig a (7) bekezdés szerinti jogosultsággal a jogosult nem él,
 
 c) amennyiben a gyermek anyakönyvezése a születését követő egy éven túl történik – feltéve, hogy Magyarország területén lakóhellyel rendelkezik és születésének évében egyébként az első utalási összegre jogosult –, a kiutaló az első utalási összeget a gyermek születési évének megfelelő összeggel utólag veszi nyilvántartásba azzal, hogy második és harmadik utalási összegre a gyermek visszamenőleg nem jogosult,
 
@@ -68,7 +68,7 @@ ec) az ea) pontban foglalt rendelkezéstől függetlenül is, a 6. § (5) bekezd
 
 (5) A kincstári letéti Start-számlán nyilvántartott összeget a kiutaló a Start-számlára annak megnyitásától számított 8 munkanapon belül vezeti át.
 
-(6) Ha a gyermek Start-számlával rendelkezik, a második és a harmadik utalási összeget a kiutaló a gyermek jogosultsága esetén annak igazolásától számított 8 munkanapon belül – felróható késedelem esetén az utalás összege után napi 3,5 ezrelék késedelmi kamattal növelten – utalja a számlavezetőhöz.
+(6) Ha a gyermek Start-számlával rendelkezik, a második és a harmadik utalási összeget – a gyermek hetedik vagy tizennegyedik születésnapjától az utalást megelőző napig felszámított, az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ Zrt. által az utalást megelőző napon közzétett mértékű kamattal növelten – a kiutaló a 9/B. § szerinti adatszolgáltatás beérkezését követő 30 napon belül – felróható késedelem esetén az utalás összege után napi 3,5 ezrelék késedelmi kamattal növelten – utalja a számlavezetőhöz.
 
 (7) A Start-számlán vagy ennek hiányában a kincstári letéti Start-számlán nyilvántartott követelés kifizetését – a számla megszüntetésével –
 

@@ -28,7 +28,7 @@ b) a (2) bekezdés a)–b) pontja szerint, ha a gyermeknek a rendelkezésekben m
 
 a) a (2) bekezdés a) pontjában meghatározott, a naptári évben legalább egy napig fennálló feltétel tényét rögzítő iratot a szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek,
 
-b) átmeneti vagy tartós nevelésbe vett Start-számlával rendelkező gyermek esetében (2) bekezdés b) pontjában meghatározott jogosultságról szóló, annak a naptári évben fennálló időtartamát is tartalmazó iratot a gyámhivatal vagy egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek
+b) átmeneti vagy tartós nevelésbe vett Start-számlával rendelkező gyermek esetében (2) bekezdés b) pontjában meghatározott jogosultságról szóló, annak a naptári évben fennálló időtartamát is tartalmazó iratot a gyámhatóság vagy egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek
 
 a számlavezető írásbeli megkeresése alapján a naptári évet követő január 15-éig juttatja el a számlavezetőhöz.
 

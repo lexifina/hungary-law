@@ -16,7 +16,7 @@ ae) elhunyta esetén halálának napján
 
 az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ ZRt. által a jóváírás napján közzétett mértékű kamat alapján a nyilvántartott követelés utolsó fordulónaptól számított időszakban meghatározott átlagos állománya után számított támogatást,
 
-b) a gyámhivatal által a naptári évet követő év február 15-éig megküldött – az átmeneti vagy tartós nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint állami támogatást
+b) a gyámhatóság által a naptári évet követő év február 15-éig megküldött – az átmeneti vagy tartós nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint állami támogatást
 
 ír jóvá.
 
