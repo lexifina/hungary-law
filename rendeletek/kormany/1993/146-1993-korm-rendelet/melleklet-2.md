@@ -8,7 +8,7 @@
 
 ## Címzett:
 
-## Én[^183]
+## Én[^199]
 
 ## – családi neve:
 
@@ -28,7 +28,7 @@
 
 ## a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 2. §-ának (1) bekezdése alapján a rólam nyilvántartott adatok kiadását megtiltom.
 
-## Tudomásul veszem, hogy a jegyző vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának megkeresésére – eseti engedélyem alapján – az adatszolgáltatási tilalmat feloldhatom.
+## Tudomásul veszem, hogy a jegyző, a járási hivatal vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának megkeresésére – eseti engedélyem alapján – az adatszolgáltatási tilalmat feloldhatom.
 
 ## A nyilatkozat nem érinti a törvényben kötelezően előírt adatszolgáltatások teljesítését (pl. adóigazgatás, honvédelmi nyilvántartás, ingatlan-nyilvántartás), továbbá a törvény 20. §-a alapján engedélyezett adatszolgáltatásokat.
 
@@ -36,7 +36,7 @@
 
 ## Aláírás / Elektronikus aláírás
 
-2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^184]
+2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^200]
 
-[^183]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
-[^184]: A 2. számú melléklet a 13/1999. ( II.1.) Korm. rendelet 35. §-ával és 2. számú mellékletével megállapított szöveg.
+[^199]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
+[^200]: A 2. számú melléklet a 13/1999. ( II.1.) Korm. rendelet 35. §-ával és 2. számú mellékletével megállapított szöveg.

@@ -1,12 +1,12 @@
-35. § (1)[^152] Ha a Magyarországon élő polgárnak a nyilvántartásban sem lakó-, sem tartózkodási helye nincs, adatait „lakcím nélküli”-ként kezelik.
+35. § (1)[^165] Ha a Magyarországon élő polgárnak a nyilvántartásban sem lakó-, sem tartózkodási helye nincs, adatait „lakcím nélküli”-ként kezelik.
 
-(2)[^153] A bíróság vagy más hatóság – amennyiben a lakás használatának megváltoztatására vonatkozó döntés végrehajtásának foganatosítására sor került – erről értesíti a jegyzőt, aki hivatalból intézkedik a lakcím érvénytelenítésére. Ha egyidejűleg a döntéssel érintett polgár új lakcímet nem jelent be, illetőleg a jegyző a bejelentett lakcímről nem szerez tudomást, az (1) bekezdésnek megfelelően kell eljárni.
+(2)[^166] A bíróság vagy más hatóság – ha a lakás használatának megváltoztatására vonatkozó döntés végrehajtásának foganatosítására sor került – erről értesíti a járási hivatalt, amely hivatalból intézkedik a lakcím érvénytelenítésére. Ha egyidejűleg a döntéssel érintett polgár új lakcímet nem jelent be vagy a járási hivatal a bejelentett lakcímről nem szerez tudomást, az (1) bekezdésnek megfelelően kell eljárni.
 
-(3)[^154] Ha a polgár igazolja, hogy a lakásába bejelentkezett személy ténylegesen nem lakik ott, a jegyző a 34. § (3) bekezdés szerint jár el. Nem szerepeltethető ,,fiktív'' jelzéssel a lakcím, ha a jegyző eljárása során megállapítja, hogy az érintett – a lakás végleges elhagyásának szándéka nélkül – átmenetileg nem tartózkodik a lakásban.
+(3)[^167] Ha a polgár igazolja, hogy a lakásába bejelentkezett személy ténylegesen nem lakik ott, a jegyző, illetve a járási hivatal a 34. § (3) bekezdése szerint jár el. Nem szerepeltethető „fiktív” jelzéssel a lakcím, ha a jegyző, illetve a járási hivatal az eljárása során megállapítja, hogy az érintett – a lakás végleges elhagyásának szándéka nélkül – átmenetileg nem tartózkodik a lakásban.
 
-(4)[^155] A lakcím érvénytelenítése, illetőleg „fiktív” jelzéssel szerepeltetése esetén a jegyző haladéktalanul gondoskodik arról, hogy az érintett polgár lakcímet tartalmazó hatósági igazolványa érvénytelenségének ténye a hatósági igazolvány nyilvántartásba bejegyzésre kerüljön.
+(4)[^168] A lakcím érvénytelenítése vagy „fiktív” jelzéssel szerepeltetése esetén a jegyző, illetve a járási hivatal haladéktalanul gondoskodik arról, hogy az érintett polgár lakcímet tartalmazó hatósági igazolványa érvénytelenségének ténye a hatósági igazolvány nyilvántartásba bejegyzésre kerüljön.
 
-[^152]: Az R. 35. § (1) bekezdése a 26/2011. (III. 10.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^153]: Az R. 35. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 48. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^154]: Az R. 35. §-ának (3) bekezdése a 13/1999. (II. 1.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^155]: Az R. 35. §-ának (4) bekezdését a 327/2005. (XII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 48. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^165]: Az R. 35. § (1) bekezdése a 26/2011. (III. 10.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^166]: Az R. 35. § (2) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^167]: Az R. 35. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^168]: Az R. 35. § (4) bekezdését a 327/2005. (XII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
