@@ -1,6 +1,6 @@
 ## Az anyakönyvi szakvizsga vizsgaszabályzata
 
-## 1.[^5] Egy-egy tanfolyami csoportba legfeljebb harminc főt lehet beosztani.
+## 1.[^9] Egy-egy tanfolyami csoportba legfeljebb harminc főt lehet beosztani.
 
 ## 2. A vizsgabizottság munkáját az elnök vezeti, aki gondoskodik a vizsga jogszerűségéről és zavartalan lebonyolításáról. A vizsgabizottság elnöke kizárja a vizsgából azt, aki a vizsga rendjét megzavarja, vagy szabálytalanságot, illetve visszaélést követ el. A vizsgából történt kizárást jegyzőkönyvezni kell.
 
@@ -30,7 +30,7 @@
 
 ## 10. A vizsga eredményének megállapítása elleni kifogást az eredmény közlésétől számított három napon belül a vizsgabizottság elnökénél lehet benyújtani, aki arról három munkanapon belül dönt, és erről a jelöltet írásban tájékoztatja.
 
-4. melléklet a 9/2007. (III. 6.) IRM rendelethez[^6]
+4. melléklet a 9/2007. (III. 6.) IRM rendelethez[^10]
 
-[^5]: A 3. melléklet 1. pontja a 14/2009. (VI. 3.) IRM rendelet 44. § (4) bekezdése szerint módosított szöveg.
-[^6]: A 4. melléklet az 50/2012. (XII. 4.) KIM rendelet 21. § d) pontja szerint módosított szöveg.
+[^9]: A 3. melléklet 1. pontja a 14/2009. (VI. 3.) IRM rendelet 44. § (4) bekezdése szerint módosított szöveg.
+[^10]: A 4. melléklet az 50/2012. (XII. 4.) KIM rendelet 21. § d) pontja, az 54/2012. (XII. 28.) KIM rendelet 21. § e) pontja szerint módosított szöveg.

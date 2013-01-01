@@ -94,7 +94,7 @@
 
 ## 37. Anyakönyvi okiratok típusai, a kiállításra vonatkozó szabályok, külföldi okiratokra vonatkozó szabályok, anyakönyvi okiratok beszerzése külföldről
 
-## 38. Az anyakönyvi adatszolgáltatások (gyámhatóság, levéltár, más anyakönyvvezető, okmányiroda, idegenrendészeti és menekültügyi hatóság, külképviseletek)
+## 38.[^8] Az anyakönyvi adatszolgáltatások (gyámhatóság, levéltár, más anyakönyvvezető, járási (fővárosi kerületi) hivatal, idegenrendészeti és menekültügyi hatóság, külképviseletek)
 
 ## 39. Statisztikai adatszolgáltatás
 
@@ -125,3 +125,5 @@
 ## 52. Illeték- és díjfizetési szabályok az anyakönyvi és házasságkötési eljárásokban
 
 3. melléklet a 9/2007. (III. 6.) IRM rendelethez
+
+[^8]: A 2. melléklet 38. pontja az 54/2012. (XII. 28.) KIM rendelet 21. § d) pontja szerint módosított szöveg.
