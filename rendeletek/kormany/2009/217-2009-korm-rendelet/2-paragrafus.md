@@ -1,1 +1,3 @@
-## 1. § A Kormány az üzletszerű társasházkezelői, és ingatlankezelői tevékenység tekintetében ingatlanvállalkozás-felügyeleti hatóságként körzetközponti feladatokat ellátó települési önkormányzat jegyzőjét jelöli ki. A jegyző az ingatlanvállalkozás-felügyeleti hatósági eljárásban az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott illetékességi területen jár el.
+## 1. §[^2] A Kormány az üzletszerű társasházkezelői, és ingatlankezelői tevékenység tekintetében ingatlanvállalkozás-felügyeleti hatóságként a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát jelöli ki.
+
+[^2]: Az 1. § a 174/2012. (VII. 26.) Korm. rendelet 62. §-ával megállapított szöveg.
