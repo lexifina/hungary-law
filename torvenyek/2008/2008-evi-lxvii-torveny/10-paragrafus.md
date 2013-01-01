@@ -12,7 +12,15 @@
 
 1.4. a villamos energiáról szóló törvény szerinti villamosenergia-kereskedelmi engedélyes,
 
-1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, azzal, hogy a villamos energia kötelező átvételi rendszerében értékesítő termelők közül kizárólag az 50 MW beépített teljesítőképességet meghaladó teljesítőképességű erőmű termelői engedélyese;
+1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, azzal, hogy a villamos energia kötelező átvételi rendszerében értékesítő termelők közül kizárólag az 50 MW beépített teljesítőképességet meghaladó teljesítőképességű erőmű termelői engedélyese,
+
+1.6. a villamos energiáról szóló törvény szerinti egyetemes szolgáltató,
+
+1.7. a villamos energiáról szóló törvény szerinti elosztói engedélyes,
+
+1.8. a földgázellátásról szóló törvény szerinti egyetemes szolgáltató,
+
+1.9. a földgázellátásról szóló törvény szerinti elosztói engedélyes,
 
 2. beszámoló: a számvitelről szóló törvény szabályai szerint készített beszámoló, ide nem értve a konszolidált beszámolót; az adóévről beszámoló készítésére nem kötelezett esetében a számvitelről szóló törvény kettős könyvvitelt vezetőkre vonatkozó előírásai szerint készített nyilvántartás;
 
@@ -30,4 +38,10 @@
 
 9. kedvezményezett részesedéscsere: a Tao. tv. 4. § 23/c. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 
-10. kőolajtermék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (1) bekezdésének a)–f) pontjaiban felsorolt üzem- és tüzelőanyag.
+10. kőolajtermék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (1) bekezdésének a)–f) pontjaiban felsorolt üzem- és tüzelőanyag;
+
+11. közszolgáltató:
+
+11.1. a vízgazdálkodásról szóló törvény szerinti, víziközművekkel közüzemi tevékenységet végző szolgáltató,
+
+11.2. a hulladékgazdálkodásról szóló törvény szerinti települési hulladékkezelési közszolgáltatást végző hulladékkezelő.
