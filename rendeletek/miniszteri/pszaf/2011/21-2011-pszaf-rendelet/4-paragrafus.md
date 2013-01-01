@@ -1,11 +1,19 @@
-4. § (1) Az adatszolgáltató
+4. §[^2] (1) Az adatszolgáltató
 
-a) a negyedéves jelentést a tárgyidőszakot követő hónap 20. munkanapjáig,
+a) a negyedéves és a féléves jelentést a tárgyidőszakot követő hónap 20. munkanapjáig,
 
 b) az éves jelentést legkésőbb a tárgyévet követő év május 31-ig,
 
-c) az adatszolgáltató törzsadatairól szóló, tárgyév június 30-i állapotot tükröző rendszeres jelentést – a második negyedévre vonatkozó negyedéves jelentéssel egyidejűleg – a tárgynegyedévet követő hónap 20. munkanapjáig, az időközi változások miatti törzsadat jelentést a változást követő 15 munkanapon belül
+c) az adatszolgáltató törzsadatairól szóló, tárgyév június 30-i állapotot tükröző rendszeres jelentést – a második negyedévre vonatkozó negyedéves jelentéssel egyidejűleg – a tárgynegyedévet követő hónap 20. munkanapjáig, az időközi változások miatti törzsadat jelentést, eltérő jogszabályi rendelkezés hiányában a változást követő 15 munkanapon belül,
 
-köteles a Felügyelet részére megküldeni.
+d) az Öpt. előírásai szerinti pénzügyi tervről szóló jelentést
 
-(2) Az adatszolgáltató a felügyeleti alapdíj számításáról szóló éves bevallást a tárgyév január 31. napjáig, a felügyeleti változó díj számításáról szóló negyedéves jelentést a negyedéves adatszolgáltatási jelentéssel egy időben, a tárgyévre számított felügyeleti változó díj auditálás utáni esetleges különbözetét a tárgyévet követő év második negyedévére vonatkozó bevallásban – külön korrekciós tételként – köteles megküldeni a Felügyelet részére.
+## köteles a Felügyelet részére megküldeni.
+
+(2) Az adatszolgáltató a felügyeleti alapdíj számításáról szóló éves bevallást a tárgyév január 31. napjáig, a felügyeleti változó díj számításáról szóló negyedéves jelentést a negyedéves adatszolgáltatási jelentéssel egy időben, a tárgyévre számított felügyeleti változó díj auditálás utáni esetleges különbözetét a tárgyévet követő év második negyedévére vonatkozó jelentéssel egy időben – külön korrekciós tételként – köteles eljuttatni a Felügyelet részére.
+
+(3) A végelszámolás alatt álló pénztár negyedéves jelentést – e rendeletben meghatározott formában és tartalommal – köteles készíteni és azt a Felügyelet részére megküldeni.
+
+(4) A felszámolás alatt álló pénztár a negyedéves, illetve féléves jelentést a felszámolás megkezdését megelőző nappal, mint fordulónappal – e rendeletben meghatározott formában és tartalommal – köteles elkészíteni és 30 munkanapon belül a Felügyeletnek megküldeni. A felszámolás időtartama alatt a pénztárnak negyedéves, illetve féléves jelentést nem kell készítenie.
+
+[^2]: A 4. § a 18/2012. (X. 30.) PSZÁF rendelet 2. §-ával megállapított szöveg.
