@@ -1,0 +1,69 @@
+## IV. Fejezet
+
+## ÉPÍTÉSI ENGEDÉLYEZÉSI ELJÁRÁS
+
+## 15. Az építési engedély iránti kérelem és mellékletei
+
+17. § (1) Az építési tevékenység végzésére – az 1. mellékletben felsoroltak kivételével – jogszabályban meghatározott építésügyi hatóságtól építési engedélyt kell kérni.
+
+(2) Az építési engedélyt egy telekre – a (3) bekezdésben foglalt kivétellel – az egy időben megvalósuló építési tevékenység egészére kell kérni.
+
+(3) Egy telken több ütemben megvalósuló építési tevékenységre az építési engedélyt
+
+a) az összes ütemre egyszerre, de az egyes ütemeket megjelölve, vagy
+
+b) a teljes építési beruházás bemutatása mellett ütemenként
+
+is meg lehet kérni.
+
+(4) Az építési engedély iránti kérelemmel egy időben
+
+a) az országos építési követelményektől eltérő műszaki megoldás engedélyezésére,
+
+b) bontás engedélyezésére,
+
+c) fennmaradási engedélyezésre, valamint
+
+d) a műemlékileg védett építmény esetén, az örökségvédelmi engedélyre
+
+## irányuló kérelem is előterjeszthető.
+
+(5) Az építésügyi hatóság a (4) bekezdés szerinti kérelmek elbírálását összevonja, döntéseit egybefoglalja.
+
+(6) Az építési engedély iránti kérelemhez, a tartalmától függően mellékelni kell
+
+a) jogszabályban előírt esetekben
+
+aa) a települési önkormányzat polgármesterének településképi véleményét, vagy
+
+ab) a településrendezési és építésügyi-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
+
+b) az Étv. 53/F. § (1) bekezdésében meghatározott kereskedelmi építmény létesítése esetén az Étv. 53/F. § (2) bekezdése szerinti felmentést,
+
+c) az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását.
+
+(7) Amennyiben a kérelmező birtokában van
+
+a) a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvr.) meghatározott esetekben jogerős környezetvédelmi vagy jogerős egységes környezethasználati engedély – kivéve, ha az az összevont telepítési eljárásban került kiadásra –, illetve az előzetes vizsgálati eljárást lezáró határozat, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen,
+
+b) erdőterület igénybevétele esetén az erdészeti hatóság engedélye – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
+
+c) termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló jogerős hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
+
+d) a természet védelméről szóló törvényben meghatározott esetekben a természetvédelmi hatóság engedélye,
+
+## az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
+
+(8) Ha a kérelemhez a (7) bekezdés a)–d) pontjában meghatározott döntéseket nem csatolták, azokat az építésügyi hatóság belföldi jogsegély keretében beszerzi a társhatóságtól.
+
+(9) A kérelemhez adathordozón vagy az ÉTDR-be történő feltöltéssel mellékelni kell
+
+a) a 8. mellékletben meghatározott építészeti-műszaki dokumentációt,
+
+b) ha a kérelem benyújtásakor előzetes szakhatósági állásfoglalás nem áll rendelkezésre, a szakhatóság megkereséséhez szükséges, 5. melléklet szerinti dokumentációt.
+
+(10) A kérelemhez mellékelni lehet
+
+a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakhatóság előzetes állásfoglalását és a hozzá tartozó, a szakhatóság által záradékolt építészeti-műszaki dokumentációt, amennyiben az nem az ÉTDR igénybevételével került beszerzésre,
+
+b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
