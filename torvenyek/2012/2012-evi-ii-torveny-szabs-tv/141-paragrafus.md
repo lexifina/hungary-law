@@ -8,7 +8,7 @@
 
 (4) A helyszíni bírságot kiszabó szerv a nála keletkezett iratok megküldésével – ha nem azonos a szabálysértés miatt eljáró hatósággal – értesíti a lakóhely szerinti általános szabálysértési hatóságot, valamint a szabálysértési nyilvántartó szervet a helyszíni bírság kiszabásáról.
 
-(5) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, a szabálysértési hatóság a meg nem fizetett bírság szabálysértési elzárásra átváltoztatásának szükségessége esetén az ügy iratait haladéktalanul megküldi az illetékes helyi bíróságnak.
+(5) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, a szabálysértési hatóság a meg nem fizetett bírság szabálysértési elzárásra átváltoztatásának szükségessége esetén az ügy iratait haladéktalanul megküldi az illetékes járásbíróságnak.
 
 (6) A bíróság a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatásáról az iratok bíróságra érkezésétől számított harminc napon belül tárgyaláson dönt.
 

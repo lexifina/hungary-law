@@ -4,7 +4,7 @@
 
 (2) Törvényben meghatározott esetben szabálysértés észlelése esetén – amennyiben ezt e törvény külön említi – helyszíni bírságot szabhat ki:
 
-a) a kormányhivatal arra felhatalmazott ügyintézője,
+a) a járási hivatal arra felhatalmazott ügyintézője,
 
 b) a Nemzeti Adó- és Vámhivatal vámszerve,
 

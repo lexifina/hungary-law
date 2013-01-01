@@ -5,3 +5,5 @@
 (2) Az átvizsgálás megkezdése előtt az érintett személyt fel kell szólítani, hogy a keresett tárgyat önként adja át.
 
 (3) A ruházat átvizsgálását csak az átvizsgálandó személlyel azonos nemű személy végezheti.
+
+(4) A 39. § (2) bekezdés e)–f) és h)–i) pontja szerint helyszíni bírság kiszabására jogosult az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározottak szerint jogosult a ruházat, csomag és jármű átvizsgálására.
