@@ -1,4 +1,4 @@
-## 12. §[^2] E rendeletnek a bonus-malus rendszer, az abba való besorolás, illetve a kártörténeti igazolások kiadásának szabályairól szóló 21/2011. (VI. 10.) NGM rendelet módosításáról szóló 36/2012. (XII. 14.) NGM rendelet (a továbbiakban: Mód. r.) által megállapított 5/A. §-ában foglaltakat a Mód. r. hatálybalépését[^3] megelőzően rendelkezésre álló – a szerződés beazonosításához és besorolásához szükséges – adatok alapján besorolandó szerződések esetében is alkalmazni kell.
+## 12. §[^3] E rendeletnek a bonus-malus rendszer, az abba való besorolás, illetve a kártörténeti igazolások kiadásának szabályairól szóló 21/2011. (VI. 10.) NGM rendelet módosításáról szóló 36/2012. (XII. 14.) NGM rendelet (a továbbiakban: Mód. r.) által megállapított 5/A. §-ában foglaltakat a Mód. r. hatálybalépését[^4] megelőzően rendelkezésre álló – a szerződés beazonosításához és besorolásához szükséges – adatok alapján besorolandó szerződések esetében is alkalmazni kell.
 
 1. melléklet a 21/2011. (VI. 10.) NGM rendelethez
 
@@ -74,5 +74,5 @@ Bonus-malus osztályba sorolás autóbusz, tehergépkocsi, vontató, mezőgazdas
 
 | M04 | M03 | M04 | M04 | M04 | M04 |
 
-[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2012. (XII. 14.) NGM rendelet 3. §-a iktatta be.
-[^3]: A hatálybalépés napja: 2012. december 17.
+[^3]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2012. (XII. 14.) NGM rendelet 3. §-a iktatta be.
+[^4]: A hatálybalépés napja: 2012. december 17.
