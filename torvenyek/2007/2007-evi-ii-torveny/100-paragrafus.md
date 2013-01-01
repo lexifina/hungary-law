@@ -1,8 +1,8 @@
-100. § (1) Az idegenrendészeti hatóság az úti okmány elvesztését, eltulajdonítását vagy megsemmisülését bejelentő harmadik országbeli állampolgár következő adatait kezeli:
+100. § (1) Az idegenrendészeti hatóság az úti okmány és a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő harmadik országbeli állampolgár következő adatait kezeli:
 
 a) a természetes személyazonosító adatok;
 
-b) az elveszettként, eltulajdonítottként vagy megsemmisültként bejelentett úti okmány, illetve tartózkodási engedély típusa és azonosító adatai, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés ténye;
+b) az elveszettként, eltulajdonítottként, megsemmisültként bejelentett úti okmány vagy tartózkodásra jogosító okmány típusa, azonosító adatai, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés ténye;
 
 c) a bejelentés időpontja;
 
@@ -16,4 +16,4 @@ g) a tartózkodásra jogosító igazolás száma, érvényessége és a kiállí
 
 h) az új úti okmány típusa, száma és érvényessége.
 
-(2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az úti okmány megtalálásáig, ennek hiányában a bejelentéstől számított öt évig kezeli.
+(2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az okmány megtalálásáig, ennek hiányában az adatbeviteltől számított legfeljebb 10 évig kezeli.

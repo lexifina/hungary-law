@@ -28,7 +28,7 @@ m) a nyugdíjbiztosítási igazgatási szerv,
 
 n) a helyi önkormányzat hatósági feladatot ellátó szerve és
 
-o) az okmányiroda
+o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 részére továbbíthat adatot.
 
@@ -50,6 +50,8 @@ e) a cégnyilvántartásból,
 
 f) az egyéni vállalkozók nyilvántartásából és
 
-g) a közegészségügyi hatóságtól.
+g) a közegészségügyi hatóságtól,
+
+h) a köztartozásmentes adózói adatbázisból.
 
 (5)

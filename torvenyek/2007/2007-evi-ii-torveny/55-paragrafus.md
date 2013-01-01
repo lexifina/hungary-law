@@ -2,4 +2,4 @@
 
 (2) A kiutasítást előkészítő őrizetet határozattal kell elrendelni, és azt a közléssel egyidejűleg végre kell hajtani.
 
-(3) A kiutasítást előkészítő őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes helyi bíróság a harmadik országbeli állampolgár személyazonosságának vagy tartózkodása jogszerűségének tisztázásáig, de legfeljebb harminc napig meghosszabbíthat.
+(3) A kiutasítást előkészítő őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes járásbíróság a harmadik országbeli állampolgár személyazonosságának vagy tartózkodása jogszerűségének tisztázásáig, de legfeljebb harminc napig meghosszabbíthat.

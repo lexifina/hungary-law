@@ -21,3 +21,5 @@ c) az Európai Unió tagállamai területének önkéntes elhagyását kifejezet
 d) magyarországi tartózkodása veszélyezteti a közrendet, a közbiztonságot vagy a nemzetbiztonságot.
 
 (7) Ha az idegenrendészeti hatóság a kiutasító határozatában a kiutasítás kitoloncolással történő végrehajtásáról rendelkezik, az önkéntes távozásra határnapot nem határoz meg.
+
+(8) A (3)–(4) bekezdés rendelkezéseit a különleges bánásmódot igénylő személyek vonatkozásában a helyzetükből fakadó sajátos szükségleteik figyelembevételével kell alkalmazni.

@@ -40,6 +40,12 @@ r) a Tanács 2009/52 irányelve (2009. június 18.) az illegálisan tartózkodó
 
 s) a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és a tanácsi irányelv [5. §, 32. § (5) bekezdés, 34. § (9) és (10) bekezdés, 38. § (2) bekezdés d) és f) és g) pont, 38. § (5a) bekezdés, 39. § (1a) bekezdés, 45. § (2a)–(2e) bekezdés, 107. § (4) bekezdés],
 
+t) a menedékkérők befogadása minimumszabályainak megállapításáról szóló, 2003. január 27-i 2003/9/EK tanácsi irányelv;
+
+u) a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról szóló, 2004. április 29-i 2004/83/EK tanácsi irányelv;
+
+v) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló, 2005. december 1-jei 2005/85/EK tanácsi irányelv.
+
 (2) E törvény
 
 a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet [6. §; 40. §];
@@ -52,6 +58,10 @@ d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. 
 
 e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet;
 
-f) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11b. cikkének (107. §)
+f) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11b. cikkének (107. §);
+
+g) a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i, 343/2003/EK tanácsi rendelet,
+
+h) a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i 2725/2000/EK tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

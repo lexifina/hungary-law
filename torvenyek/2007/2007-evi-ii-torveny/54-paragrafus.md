@@ -16,7 +16,7 @@ e) szándékos bűncselekmény elkövetése miatt kiszabott szabadságvesztés-b
 
 (3) Az idegenrendészeti őrizetet határozattal kell elrendelni, és azt a közléssel egyidejűleg végre kell hajtani.
 
-(4) Az idegenrendészeti őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes helyi bíróság a harmadik országbeli állampolgár kitoloncolásáig vagy átadásáig, alkalmanként legfeljebb harminc nappal meghosszabbíthat.
+(4) Az idegenrendészeti őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes járásbíróság a harmadik országbeli állampolgár kitoloncolásáig vagy átadásáig, alkalmanként legfeljebb harminc nappal meghosszabbíthat.
 
 (5) Az idegenrendészeti őrizet hat hónap elteltével további, legfeljebb hat hónappal – a (4) bekezdésben foglaltak szerint – meghosszabbítható, ha a kiutasítás végrehajtása minden szükséges intézkedés megtétele ellenére azért tart tovább hat hónapnál, mert
 

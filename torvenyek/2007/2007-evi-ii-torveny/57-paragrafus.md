@@ -6,7 +6,7 @@
 
 (3) Az őrizetbe vett harmadik országbeli állampolgár kifogással élhet, amennyiben az idegenrendészeti hatóság a 60–61. §-ban meghatározott kötelezettségét elmulasztotta.
 
-(4) A kifogást az őrizet végrehajtásának helye szerint illetékes helyi bíróság bírálja el.
+(4) A kifogást az őrizet végrehajtásának helye szerint illetékes járásbíróság bírálja el.
 
 (5) A bíróság döntése alapján az elmulasztott intézkedést pótolni kell, illetve a jogsértő állapotot meg kell szüntetni.
 

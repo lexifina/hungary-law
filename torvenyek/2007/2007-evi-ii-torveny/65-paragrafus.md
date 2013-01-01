@@ -33,3 +33,5 @@ c) a külön jogszabályban meghatározottak szerint a kitoloncolás végrehajt�
 d) a kitoloncolt engedély nélkül lépett be a felkért állam területére az átszállítás folyamán.
 
 (9) A kitoloncolás végrehajtását az ügyész a rá vonatkozó szabályok szerint felügyeli.
+
+(10) E § rendelkezéseit a különleges bánásmódot igénylő személyek vonatkozásában a helyzetükből fakadó sajátos szükségleteik figyelembevételével kell alkalmazni.
