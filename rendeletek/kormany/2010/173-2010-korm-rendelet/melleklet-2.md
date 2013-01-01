@@ -8,7 +8,7 @@
 
 | 3 |  | vízjogi üzemeltetési engedély vezeték szilárdsági nyomás próbához | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 4 |  | régészeti feltárási engedély | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 4 |  | régészeti feltárási engedély | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 5 |  | külső villamos energia ellátás kiépítésére és oszlop áthelyezésére vonatkozó engedélyek | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -20,13 +20,13 @@
 
 | 9 |  | gázvezeték és tartozékai építési engedélyeztetése | Szolnoki Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 10 |  | Városföld kompresszorállomás épületre vonatkozó építésügyi hatósági engedély | Kecskemét Megyei Jogú Város Önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
+| 10 |  | Városföld kompresszorállomás épületre vonatkozó építésügyi hatósági engedély | Kecskeméti Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 11 | Magyar-horvát összekötő földgázszállító-vezeték és a kapcsolódó beruházások a Bátmonostor-Dráva keresztezés szakaszon. | Báta kompresszorállomásra vonatkozó előzetes környezetvédelmi és környezetvédelmi hatásvizsgálati engedélyezés, egységes környezethasználati engedély | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 12 |  | vízjogi engedély vezeték szilárdsági nyomás próbához vízjogi létesítési engedély kútfúráshoz | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 13 |  | régészeti feltárási engedély | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 13 |  | régészeti feltárási engedély | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 14 |  | külső villamos energia ellátás kiépítésére vonatkozó engedély | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -42,7 +42,7 @@
 
 | 20 |  | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése a) Túrony szakaszoló állomáson, b) Drávaszerdahely szakaszoló és mérő-állomáson | Siklós Város Önkormányzat Hivatásos Önkormányzati Tűzoltóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 21 |  | építésügyi hatósági engedélyezési eljárások a) Báta kompresszorállomás épület, b) Drávaszerdahely mérőállomás | a) Tolna Megyei Kormányhivatal, b) Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 21 |  | építésügyi hatósági engedélyezési eljárások a) Báta kompresszorállomás épület, b) Drávaszerdahely mérőállomás | a) Szekszárdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala b) Pécsi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 22 |  | Báta kompresszorállomás bekötőút vonatkozásában útügyi hatósági engedélyezési eljárások | Tolna Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -62,13 +62,13 @@
 
 | 4 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 5 | Területrendezési előírásokkal való összhang | fővárosi és megyei kormányhivatal építésügyi hivatalának állami főépítésze | területrendezésért felelős miniszter |
+| 5 | Területrendezési előírásokkal való összhang | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalának állami főépítésze | területrendezésért felelős miniszter |
 
 | 6 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 7 | Termőföld mennyiségi védelme | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| 8 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 8. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 9 | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
@@ -88,7 +88,7 @@
 
 | 6 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 7 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 7. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 8 | Határrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -102,7 +102,7 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -128,7 +128,7 @@
 
 | 4 | Helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
-| 5 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 5. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 6. Útügyi hatósági eljárások
 
@@ -142,7 +142,7 @@
 
 | 4 | Helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
-| 5 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 5 | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 7. Építésügyi hatósági engedélyezési eljárás
 
@@ -155,8 +155,6 @@
 | 3 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 4 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
-
-| 5 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
 | 6 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -174,7 +172,7 @@
 
 | 5 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 6 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 6. | Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 9. Erdészeti engedélyezés
 
@@ -182,6 +180,6 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a, a 394/2012. (XII. 20.) Korm. rendelet 40. §-a szerint módosított szöveg.
