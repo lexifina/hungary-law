@@ -1,4 +1,4 @@
-## 5. § Minden településen önálló HVI működik. Körjegyzőséghez tartozó településeken a HVI feladatait közös HVI látja el.
+## 5. §[^2] Minden településen önálló HVI működik. Közös önkormányzati hivatalhoz tartozó településeken a HVI feladatait közös HVI látja el.
 
 ## A helyi választási iroda feladatai a szavazás napját megelőzően
 
@@ -84,6 +84,7 @@ x) a kinyomtatott névjegyzéket az utolsó oldalon aláírásával és lebélye
 
 y) gondoskodik a megfelelő szavazóhelyiség és a szavazáshoz szükséges egyéb technikai feltételek biztosításáról, a szavazólapok és az egyéb választási iratok őrzéséről.
 
-(3)[^1] A HVI vezetője az értesítők és ajánlószelvények borítékolásával megbízhat másik HVI-t, fővárosi és megyei kormányhivatalt vagy a KEKKH-t.
+(3)[^3] A HVI vezetője az értesítők és ajánlószelvények borítékolásával megbízhat másik HVI-t, fővárosi és megyei kormányhivatalt vagy a KEKKH-t.
 
-[^1]: A 6. § (3) bekezdése az 50/2012. (XII. 4.) KIM rendelet 25. § b) pontja szerint módosított szöveg.
+[^2]: Az 5. § az 50/2012. (XII. 4.) KIM rendelet 25. § a) pontja szerint módosított szöveg.
+[^3]: A 6. § (3) bekezdése az 50/2012. (XII. 4.) KIM rendelet 25. § b) pontja szerint módosított szöveg.

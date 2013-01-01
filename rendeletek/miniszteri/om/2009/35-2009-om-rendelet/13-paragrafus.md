@@ -10,7 +10,7 @@ b) a jelölő szervezet jelképét, illetőleg jelvényét ellátja a szervezet 
 
 c) átveszi a jelöltek fényképét tartalmazó fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
 
-d)[^3] az ajánlószelvényeket – az országgyűlési egyéni választókerületi választási bizottság (a továbbiakban: OEVB) döntésének előkészítése érdekében – a személyiadat- és lakcímnyilvántartás és a választójoggal nem rendelkező nagykorú polgárok nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
+d)[^5] az ajánlószelvényeket – az országgyűlési egyéni választókerületi választási bizottság (a továbbiakban: OEVB) döntésének előkészítése érdekében – a személyiadat- és lakcímnyilvántartás és a választójoggal nem rendelkező nagykorú polgárok nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
 da) az ajánlószelvény eredeti-e,
 
@@ -48,4 +48,4 @@ n) ellátja az adatfeldolgozási feladatokat,
 
 o) a választás második fordulójában segítséget nyújt az OEVB részére a választópolgárok tájékoztatásához a választás második fordulójáról.
 
-[^3]: A 13. § d) pontja a 6/2010. (VII. 21.) KIM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 13. § d) pontja a 6/2010. (VII. 21.) KIM rendelet 1. §-ával megállapított szöveg.

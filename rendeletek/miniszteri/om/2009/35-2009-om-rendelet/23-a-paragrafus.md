@@ -1,4 +1,4 @@
-## VI/A. Fejezet[^5]
+## VI/A. Fejezet[^7]
 
 ## Időközi választás
 
@@ -14,4 +14,4 @@ d) a IV. Fejezet rendelkezéseit a 13. § b), c) és f) pontja, valamint a 15. �
 
 e) a 20. § (1) bekezdésének e) pontját, a 21. § (1) bekezdésének a), d), e) és h)–j) pontját, (2) bekezdésének a) és f)–j) pontját, a 22. § e) és f) pontját, a 23. § (1) bekezdésének b), c) és k) pontját.
 
-[^5]: A VI/A. Fejezetet (23/A–E. §) a 6/2010. (VII. 21.) KIM rendelet 2. §-a iktatta be.
+[^7]: A VI/A. Fejezetet (23/A–E. §) a 6/2010. (VII. 21.) KIM rendelet 2. §-a iktatta be.
