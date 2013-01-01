@@ -12,7 +12,7 @@
 
 | 1.02.02. | 1 | – helyi választási irodákban | 4 200 | 4 200 |
 
-| 1.02.06. | 1 | Körjegyzőség HVI-ben kapcsolódó településenként 1400 Ft | 1 400 | 1 400 |
+| 1.02.06. | 1 | Közös önkormányzati hivatal HVI-ben kapcsolódó településenként 1400 Ft | 1 400 | 1 400 |
 
 | 1.03. | 1 | Választói nyilvántartások és értesítők elkészítése választópolgáronként | 50 |  |
 
@@ -32,7 +32,7 @@
 
 | 2.02. | 1 | A szavazatszámláló bizottság mellett működő jegyzőkönyvvezető díja | 10 000 | 10 000 |
 
-| 2.03. | 1 | A helyi választási iroda tagjainak 7000 Ft/fő díja az alábbi tagokkal számolva (körjegyzőség esetén a körjegyzőséghez tartozó települések összválasztópolgár száma alapján) |  |  |
+| 2.03. | 1 | A helyi választási iroda tagjainak 7000 Ft/fő díja az alábbi tagokkal számolva (közös önkormányzati hivatal esetén a közös önkormányzati hivatalhoz tartozó települések összválasztópolgár száma alapján) |  |  |
 
 | 2.03.01. | 1 | –1 000 választópolgár    3 tag | 21 000 | 21 000 |
 
@@ -94,7 +94,7 @@
 
 | 2.31.07. | 3 | 100 001 választópolgár felett | 140 000 | 140 000 |
 
-| 2.32. | 3 | HVI vezetők díja körjegyzőségekben, a hozzá tartozó kapcsolódó települések száma utáni plusz díj | 3 000 | 3 000 |
+| 2.32. | 3 | HVI vezetők díja közös önkormányzati hivatalban, a hozzá tartozó kapcsolódó települések száma utáni plusz díj | 3 000 | 3 000 |
 
 | 2.33. | 3 | OEVI vezetők plusz díja | 60 000 | 60 000 |
 
@@ -124,6 +124,6 @@
 
 | 1.43. | 4 | Telekommunikáció | 40 000 |  |
 
-2. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^11]
+2. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^12]
 
-[^11]: A 2. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c), g) és j) pontja szerint módosított szöveg.

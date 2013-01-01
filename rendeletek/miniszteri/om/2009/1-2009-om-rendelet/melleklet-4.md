@@ -8,7 +8,7 @@
 
 | 1.1. | Szerv megnevezése: |  |  |
 
-| 1.2. | Körjegyzőség esetén székhely település megnevezése: |  |  |
+| 1.2. | Közös önkormányzati hivatal esetén székhely település megnevezése: |  |  |
 
 |  | hozzá kapcsolódó települések száma: |  |  |
 
@@ -18,7 +18,7 @@
 
 | 1.4. | Település lakosságszáma: |  |  |
 
-| 1.5. | Körjegyzőség lakosságszáma: |  |  |
+| 1.5. | Közös önkormányzati hivatal lakosságszáma: |  |  |
 
 | 1.6. | Választópolgárok száma: |  |  |
 
@@ -102,7 +102,7 @@
 
 | Kapja: | 1 példányt a fővárosi és megyei kormányhivatal vezetője 1 példányt TVI vezetője 1 példányt az Országos Választási Iroda vezetője | Kapja: | 1 példányt a területi választási iroda vezetője 1 példányt az Országos Választási Iroda vezetője |
 
-4. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^13]
+4. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^14]
 
 Feladattípusú elszámolás munkalapjának adattartalma Fővárosi/megyei összesítő
 
@@ -122,7 +122,7 @@ Feladattípusú elszámolás munkalapjának adattartalma Fővárosi/megyei össz
 
 | 1.4. | Település lakosságszáma: |
 
-| 1.5. | Körjegyzőség lakosságszáma: |
+| 1.5. | Közös önkormányzati hivatal lakosságszáma: |
 
 | 1.6. | Választópolgárok száma: |  |
 
@@ -206,4 +206,4 @@ aláírás
 
 |  | 1 példányt az Országos Választási Iroda vezetője |
 
-[^13]: A 4. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c) pontja szerint módosított szöveg.
+[^14]: A 4. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c) és g) pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 | 1.1. | Település megnevezése: |
 
-| 1.2. | Körjegyzőség esetén székhely település megnevezése: |
+| 1.2. | Közös önkormányzati hivatal esetén székhely település megnevezése: |
 
 |  | hozzá kapcsolódó települések száma: |  |
 
@@ -20,7 +20,7 @@
 
 | 1.4. | Település lakosságszáma: |  |
 
-| 1.5. | Körjegyzőség lakosságszáma: |  |
+| 1.5. | Közös önkormányzati hivatal lakosságszáma: |  |
 
 | 1.6. | Választópolgárok száma: |  |
 
@@ -50,7 +50,7 @@
 
 |  | átlagbér [a Ve. 21. §-ának (4) bekezdése szerinti kiadás]: |  |  |
 
-| 2.4. | A települést, körjegyzőséget megillető pénzügyi fedezet összege: | N+T=F |
+| 2.4. | A települést, közös önkormányzati hivatalt megillető pénzügyi fedezet összege: | N+T=F |
 
 |  | Ebből: személyi juttatások: |  |  |
 
@@ -108,6 +108,6 @@
 
 |  | 1 példányt az Országos Választási Iroda vezetője |
 
-3. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^12]
+3. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^13]
 
-[^12]: A 3. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c) és d) pontja szerint módosított szöveg.
+[^13]: A 3. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c)–d) és g) pontja szerint módosított szöveg.
