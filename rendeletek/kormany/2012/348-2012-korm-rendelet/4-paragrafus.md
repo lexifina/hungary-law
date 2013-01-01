@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. § A Kr. a következő 60/A. §-sal egészül ki:
 
-[^2]: A 3. § a 6. § (2) bekezdése alapján 2013. január 1-jén hatályba.
+## „60/A. § Rétegvízből történő öntözésre szolgáló termelőkútra – mikroöntözés kivételével – vízjogi létesítési vagy fennmaradási engedély nem adható.”
