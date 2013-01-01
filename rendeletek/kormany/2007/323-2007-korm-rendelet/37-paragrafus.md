@@ -1,4 +1,6 @@
-## 37. §[^80] Ez a rendelet
+## végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 37. §[^82] Ez a rendelet
 
 a) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet,
 
@@ -8,4 +10,4 @@ c) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos faj
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^80]: A 37. §-t a 361/2012. (XII. 17.) Korm. rendelet 3. §-a iktatta be.
+[^82]: A 37. §-t a 361/2012. (XII. 17.) Korm. rendelet 3. §-a iktatta be.

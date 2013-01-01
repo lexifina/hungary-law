@@ -1,9 +1,9 @@
 ## A nemzeti forgalmi jegyzék
 
-7. § (1) Egy kiotói egység a nemzeti forgalmi jegyzéknek csak egy számláján szerepelhet.
+7. §[^14] (1) Egy Éhvt. szerinti kibocsátásai jogosultság a nemzeti forgalmi jegyzéknek csak egy számláján szerepelhet.
 
-(2) A számlatulajdonos jogosult kibocsátás-csökkentési egységeket és igazolt kibocsátás-csökkentési egységeket tartani az üzemeltetői számláján.
+(2) A számlatulajdonos jogosult kibocsátási jogosultságokat vásárolni, értékesíteni, illetve a nemzeti forgalmi jegyzékben levő számláján tartani.
 
-(3) Személyi számlán kibocsátás-csökkentési egységet és igazolt kibocsátás-csökkentési egységet a 17–18. § szerinti jóváhagyással rendelkező jogi személy tarthat.
+(3) A forgalmi jegyzék kezelője biztosítja az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) számára a forgalmi jegyzékhez való folyamatos hozzáférést, valamint azt, hogy szükség esetén módosítást hajtson végre a jegyzékben.
 
-(4) A személyi számla és az üzemeltetői számla tulajdonosa jogosult kibocsátási egységeket vásárolni, értékesíteni, illetve a nemzeti forgalmi jegyzékben levő számláján tartani.
+[^14]: A 7. § a 410/2012. (XII. 28.) Korm. rendelet 27. §-ával megállapított szöveg.
