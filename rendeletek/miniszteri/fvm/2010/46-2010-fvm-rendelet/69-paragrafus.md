@@ -1,3 +1,3 @@
-## 68. §[^2]
+## 68. §[^4]
 
-[^2]: A 68. §-t a 69. § hatályon kívül helyezte.
+[^4]: A 68. §-t a 69. § hatályon kívül helyezte.

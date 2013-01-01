@@ -1,3 +1,3 @@
-10. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^7]
+10. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^9]
 
-[^7]: A 10. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 10. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.

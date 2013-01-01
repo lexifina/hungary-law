@@ -6,6 +6,6 @@
 
 (4) Ha a határvonal helyét korábban jogerős bírósági ítélettel állapították meg, akkor a munkát végző csak olyan vázrajzot készíthet, amely a bíróság által megállapított határvonalat és az ennek megfelelő területi adatokat tartalmazza.
 
-(5)[^1] Ha az adatok szolgáltatása és a munka leadása között 30 napnál hosszabb idő telik el, az adatszolgáltatáskor kiadott adatokat a munka leadása előtt a földhivatalnál egyeztetni kell. Az adatokban bekövetkezett időközi változásokat a munka elkészítése során a készítőnek figyelembe kell vennie.
+(5)[^2] Ha az adatok szolgáltatása és a munka leadása között 30 napnál hosszabb idő telik el, az adatszolgáltatáskor kiadott adatokat a munka leadása előtt a földhivatalnál egyeztetni kell. Az adatokban bekövetkezett időközi változásokat a munka elkészítése során a készítőnek figyelembe kell vennie.
 
-[^1]: A 9. § (5) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (46) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^2]: A 9. § (5) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (46) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

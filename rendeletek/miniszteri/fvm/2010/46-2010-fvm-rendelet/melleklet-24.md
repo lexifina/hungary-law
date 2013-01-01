@@ -1,3 +1,3 @@
-24. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^21]
+24. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^23]
 
-[^21]: A 24. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^23]: A 24. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.

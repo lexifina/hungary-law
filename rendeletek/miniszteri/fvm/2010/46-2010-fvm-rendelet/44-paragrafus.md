@@ -2,4 +2,6 @@
 
 (2) A változási állományban az új pontokat 1-től kezdődően folyamatos számozással kell ellátni. Az új pontok pontkódjait az 6. melléklet szerint kell meghatározni.
 
-(3) A fővárosi változási vázrajzok készítéséhez az új határpontokat az ingatlan fekvése szerint illetékes budapesti Körzeti Földhivatal által előírt pontszámokkal kell megjelölni.
+(3)[^3] A fővárosi változási vázrajzok készítéséhez az új határpontokat az ingatlan fekvése szerint illetékes budapesti Járási Földhivatal által előírt pontszámokkal kell megjelölni.
+
+[^3]: A 44. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 44. §-a szerint módosított szöveg.

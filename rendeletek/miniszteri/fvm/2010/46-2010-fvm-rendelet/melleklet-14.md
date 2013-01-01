@@ -1,3 +1,3 @@
-14. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^11]
+14. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^13]
 
-[^11]: A 14. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 14. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.

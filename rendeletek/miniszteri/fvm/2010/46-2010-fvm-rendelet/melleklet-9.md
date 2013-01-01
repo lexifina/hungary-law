@@ -52,6 +52,6 @@
 
 | Összesen: | - | 2 | 5726 |
 
-9. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^6]
+9. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^8]
 
-[^6]: A 9. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 9. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
