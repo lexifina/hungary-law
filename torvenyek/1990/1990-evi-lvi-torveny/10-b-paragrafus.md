@@ -1,4 +1,4 @@
-10/B. § (1) Az Országgyűlés elnöke – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+10/B. § (1) Az Országgyűlés elnöke – hivatalos és magánprogramokra is kiterjedően – belföldön és külföldi utazása során személyi védelemre jogosult.
 
 (2) Az Országgyűlés elnöke rezidencia használatára jogosult, amelyet köteles igénybe venni.
 
