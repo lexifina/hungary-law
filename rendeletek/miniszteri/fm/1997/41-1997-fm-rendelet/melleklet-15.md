@@ -1,8 +1,8 @@
-## 13. számú függelék[^138]
+## 13. számú függelék[^229]
 
 ## 14. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^139]
+## az Állategészségügyi Szabályzathoz[^230]
 
 ## 15. számú függelék
 
@@ -620,7 +620,7 @@ Klórlúg 4,0%
 
 Nátrium-hidroxid 4,0%
 
-14.[^140]
+14.[^231]
 
 15. Brucellózis
 
@@ -692,7 +692,7 @@ A takarmányban levő száj- és körömfájás vírus az alábbi módon pusztí
 
 Fenti eljárást kell értelemszerűen alkalmazni valamennyi bejelentési kötelezettség alá tartozó állatbetegség esetén.
 
-4.[^141] A kutak fertőtlenítése
+4.[^232] A kutak fertőtlenítése
 
 Kutakat klórmésszel, magnolmésszel vagy klórlúggal kell fertőtleníteni.
 
@@ -848,31 +848,7 @@ b) A levágott állatok húsát a tejsavas érés bekövetkezéséig 36 órán �
 
 c) A beleket 24 órán át 0,3% tejsavat is tartalmazó 0,3%-os hangyasavoldatban kell áztatni.
 
-d) A bőr 2% szódát (esetleg 1% naftalint) tartalmazó konyhasóval történő megszórással fertőtleníthető, ha a konyhasó mennyisége a bőr súlyának 30%-át kiteszi. Ezt a sózást egy hét múlva meg kell ismételni. A bőr egy hónap múlva fertőtlenítettnek tekinthető, de csak négy hónapig alkalmas bőripari feldolgozásra.
-
-e) A vágóhídi szennyvizet az 5. pontban leírtak szerint kell kezelni. (Pl. a medence telítődését követően oltott mésszel a pH-értéket 11-re kell beállítani.)
-
-f) A vágóhídi mellékterméket és a víziszapot csővezetékben vagy zárt tartálykocsikban állatifehérje üzembe lehet szállítani, ahol nagy gőznyomáson (133 °C-on, 20 percig 3 bár nyomáson) sterilizálják.
-
-g) A mechanikai tisztítás után kapott szennyvíziszapot az 5. pont szerint is ártalmatlanná lehet tenni.
-
-12. A tejüzemek és a tejitatás eszközeinek fertőtlenítése
-
-a) A tejüzemek fertőtlenítésekor a helyiségeket a 9., a szállítóeszközöket a 7., a szennyvizet az 5. pont szerint kell fertőtleníteni, illetőleg ártalmatlanná tenni.
-
-A nem fémből készült felületek lemosására a trinátrium-foszfát 2%-os oldata használható.
-
-A tejüzemek csővezetékeit és az egyéb cirkuláltatással (keringtetéssel) tisztítható (pl. a fejő-) berendezést hideg vízzel, ha erősen szennyezett vagy elzsírosodott, akkor 45 °C-os hőmérsékletű vízzel kell átmosni. Az átmosásnak addig kell tartania, amíg a rendszerből kifolyó víz tiszta nem lesz. A cirkulációval tisztítható berendezés olyan tartozékait, amelyekhez az öblítővíz nem fér hozzá, szét kell szedni és kézzel kell leöblíteni.
-
-Az öblítés után 83 °C-os hőmérsékletű, 2–4%-os szódaoldatot vagy a berendezés használati utasításában előírt tisztítószeres oldatot legalább tíz percig cirkuláltatni kell. Ezek után az oldatot le kell engedni és a padozat tisztítására lehet felhasználni. A tisztítószer maradékát vízzel ki kell öblíteni.
-
-Ha a berendezésben savas tisztítószert nem cirkuláltattak, akkor azt egyszerű fertőtlenítéssel 20 °C-os és 0,1–0,2%-os Nitrogenol-oldattal legalább tíz percig kell fertőtleníteni, majd vízzel mindaddig átöblíteni, míg az elfolyó öblítővíz habzik.
-
-A száj- és körömfájás vírusának elpusztítására alkalmas például a NaOH, vagy az UINPON TF-klór 2%-os oldata, amely a tejjel érintkező felületeket egyúttal jól zsírtalanítja.
-
-b) A tej egyszerű fertőtlenítésére alkalmasak a különféle pasztőrözési eljárások. Szigorított fertőtlenítés szükségessége esetén, például száj- és körömfájás vírusával vagy gümőbacillusokkal vagy fertőzöttség, illetőleg annak gyanúja esetén a tejet fel kell forralni, vagy legalább 80 °C-on húsz percig tartani.
-
-[^138]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
-[^139]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^140]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^141]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.
+[^229]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
+[^230]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^231]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^232]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.
