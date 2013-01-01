@@ -1,4 +1,4 @@
-## 6/A. [^8] Szakmai tapasztalatok értékelése
+## 6/A. [^10] Szakmai tapasztalatok értékelése
 
 15/A. § (1) Az értékelés célja a szakmai tapasztalatok összefoglalása, melyek felhasználhatók a legjobb nemzeti gyakorlat kialakításához, a tűzvédelem, a beavatkozás hatékonyságának fejlesztésére.
 
@@ -22,4 +22,4 @@ f) a beavatkozás szakszerűségének elemezése,
 
 g) a legjobb nemzeti gyakorlat kialakítását célzó esetleges észrevételek és javaslatok.
 
-[^8]: A 6/A. alcímet (15/A. §) a 24/2012. (V. 8.) BM rendelet 7. §-a iktatta be.
+[^10]: A 6/A. alcímet (15/A. §) a 24/2012. (V. 8.) BM rendelet 7. §-a iktatta be.

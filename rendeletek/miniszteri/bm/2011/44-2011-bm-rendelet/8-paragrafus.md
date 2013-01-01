@@ -14,15 +14,15 @@ d) a tűz keletkezéséhez vezető folyamat leírását, a terjedéssel kapcsola
 
 e) a személyek, anyagi javak, és a természeti környezet veszélyeztetettségére vonatkozó megállapításokat,
 
-f)[^4]
+f)[^5]
 
-g)[^5]
+g)[^6]
 
-h)[^6]
+h)[^7]
 
-i)[^7]
+i)[^8]
 
-[^4]: A 8. § (2) bekezdés f) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
-[^5]: A 8. § (2) bekezdés g) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
-[^6]: A 8. § (2) bekezdés h) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
-[^7]: A 8. § (2) bekezdés i) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^5]: A 8. § (2) bekezdés f) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^6]: A 8. § (2) bekezdés g) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^7]: A 8. § (2) bekezdés h) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^8]: A 8. § (2) bekezdés i) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.

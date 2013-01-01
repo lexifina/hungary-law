@@ -1,0 +1,1 @@
+## 11. § A rendőrség az ügyelete útján minden tudomására jutott tűzesetről haladéktalanul értesíti a hivatásos katasztrófavédelmi szerv ügyeletét, az MH létesítményében, járművében keletkezett tűz esetén a Magyar Honvédség központi ügyeletét.
