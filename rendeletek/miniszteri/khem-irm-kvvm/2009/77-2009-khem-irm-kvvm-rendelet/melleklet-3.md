@@ -666,7 +666,7 @@
 
 ## * – csak 2006. 01. 01 utáni első ízben forgalomba helyezett járműveknél.
 
-3. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez
+3. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^3]
 
 ## A jármű környezetvédelmi tulajdonságának és a felülvizsgálat érvényességének jelölése plakettel
 
@@ -730,8 +730,10 @@ Az évszámot befoglaló négyzet vonalvastagsága 0,5 mm
 
 4. A plakett kezelése, adminisztráció
 
-4.1. A plakett a közlekedési hatóság által, kizárólag a hatósági szerződéssel rendelkező vizsgáló állomást üzemeltető gépjárműfenntartó szervezetek részére, valamint az okmányirodáknak, illetve a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok felülvizsgáló szervezeteinek szín és darabszám szerint adható át.
+4.1. A plakett a közlekedési hatóság által, kizárólag a hatósági szerződéssel rendelkező vizsgáló állomást üzemeltető gépjárműfenntartó szervezetek részére, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalainak szervezeti egységeiként működő okmányirodáknak, illetve a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok felülvizsgáló szervezeteinek szín és darabszám szerint adható át.
 
 4.2. A vizsgálóállomás köteles a plakett színét a műszaki adatlapon rögzíteni.
 
 4.3. Az átvevő szervezeteknek színenként darabszám szerint el kell számolnia a közlekedési hatóságtól felvett plakettekkel. Ennek érdekében az átvevő szervezet köteles a felvett és kiadott plakettekről, valamint a megmaradt készletről a közlekedési hatóság által meghatározott nyilvántartást naprakészen vezetni és azt a közlekedési hatóság által meghatározott időközönként a közlekedési hatóságnak bemutatni. A Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok felülvizsgáló szervezeteinél a felvett plakettek nyilvántartását és a velük való elszámolást és annak ellenőrzését a szerv vezetője szabályozza.
+
+[^3]: A 3. melléklet a 76/2012. (XII. 22.) NFM rendelet 16. §-a szerint módosított szöveg.
