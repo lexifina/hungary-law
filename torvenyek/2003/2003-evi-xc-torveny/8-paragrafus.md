@@ -8,7 +8,7 @@ b) a kutatás-fejlesztés és a technológiai innováció infrastrukturális fel
 
 c) a kutatás-fejlesztést és a technológiai innovációt erősítő szolgáltatások, innovációs hídképző és hálózatépítő tevékenységek támogatására, beleértve konferenciák tartásának, szakkiállítások rendezésének, kiadványok készítésének költségeit;
 
-d) a technológiai innováció ösztönzésére a régiókban és a kistérségekben; a régiók és a kistérségek innovációs képességének növelésére és innovációs forrásainak támogatására;
+d) a technológiai innováció ösztönzésére a régiókban és a megyékben; a régiók és a megyék innovációs képességének növelésére és innovációs forrásainak támogatására;
 
 e) a nemzetközi tudományos és technológiai együttműködés támogatására, beleértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását;
 
@@ -20,7 +20,7 @@ h) a társadalomtudományi kutatások támogatására.
 
 (2) Az Alap pénzeszközei felhasználhatók továbbá jogszabályban, nemzetközi szerződésben meghatározottak szerint különösen:
 
-a) a Nemzeti Fejlesztési Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések hazai társfinanszírozására;
+a) az Új Széchenyi Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések hazai társfinanszírozására;
 
 b) a tudás- és technológia-intenzív kis- és középvállalkozásokba befektető magvető-, valamint kockázati tőkealapokban történő részvétel révén;
 
@@ -36,7 +36,7 @@ g)
 
 (3) Az Alapból támogatás nyílt pályázati rendszerben nyerhető el. Pályázaton kívüli támogatás nyújtására, beleértve a (2) bekezdésben más jogszabályból, illetve nemzetközi szerződésből fakadó kötelezettségeket és támogatásokat – a fejlesztési célú beruházások kivételével – az Alap céljaival és felhasználásának jogcímeivel összhangban az Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben kerülhet sor.
 
-(4)
+(4) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül – a központi költségvetésről szóló törvényben meghatározott összegben – az Alap pénzeszközei terhére kell biztosítani az Elektronikus Információszolgáltatás Nemzeti Program működtetésével kapcsolatos feladatokat ellátó szervezet e feladatok ellátásával kapcsolatban felmerült kiadásainak támogatását.
 
 (4a) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül
 
@@ -48,13 +48,23 @@ c) innovációs szolgáltatás közvetlen biztosításához
 
 források biztosíthatók.
 
-(5) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítható az Új Magyarország Fejlesztési Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések – ideértve K+F nagy infrastruktúrák fejlesztését célzó beruházásokat – társfinanszírozása, hazai – Kormány által jóváhagyott – K+F infrastrukturális fejlesztések visszatérítendő támogatása, európai uniós együttműködés keretében megvalósuló – Kormány által jóváhagyott – K+F infrastrukturális beruházások vissza nem térítendő támogatása, az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség.
+(5) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítható
+
+a) az Új Széchenyi Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések – ideértve K+F nagy infrastruktúrák fejlesztését célzó beruházásokat – társfinanszírozása,
+
+b) a hazai – a Kormány által jóváhagyott – K+F infrastrukturális fejlesztések visszatérítendő támogatása,
+
+c) európai uniós együttműködés keretében megvalósuló – a Kormány által jóváhagyott – K+F infrastrukturális beruházások vissza nem térítendő támogatása,
+
+d) a Kormány által jóváhagyott, az Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a K+F kapacitás ösztönzést elősegítő projektek támogatása,
+
+e) az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség.
 
 (6) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül a nemzetközi European X-Ray Free-Electron Laser Facility (XFEL) GmbH-ban (a továbbiakban: GmbH) való tagi hozzájárulás és éves tagdíj a kutatás-fejlesztésért és technológiai innovációért felelős szerv részére az Alapból biztosítható. A GmbH-ban a kutatás-fejlesztésért és technológiai innovációért felelős szerv 1%-os részesedést szerezhet.
 
 (7) Az Alap kezelése során felmerülő – így különösen elemzések, koncepciók, támogatási stratégiák, programok, projektek készítésével, pályázatok megismertetésével és elbírálásával, a szerződések előkészítésével, megkötésével és bonyolításával, nyilvántartásuk egyes tárgyi és személyi feltételeivel, valamint az ellenőrzéssel és értékeléssel, kapcsolatos – költségeket az Alap finanszírozza. Az Alap kezelésével kapcsolatos költségek nem haladhatják meg az Alap tárgyévi eredeti kiadási előirányzatának 4,5%-át.
 
-(8)
+(8) Az Alap költségvetési befizetést teljesít a tudás-intenzív, nagy hozzáadott értéket teremtő és nemzetgazdasági növekedést ösztönző kutatás-fejlesztési tevékenységek finanszírozásának elősegítése érdekében. A befizetés összegét a központi költségvetésről szóló törvény határozza meg.
 
 (9) Az (1) bekezdés f) pontja szerinti kutatói tehetséggondozás, kutatói, oktatói továbbképzés, továbbá a (4) bekezdésben meghatározott jogcímek, feladatok éves támogatására együttesen a 2. § b) pontja szerinti tárgyévi központi költségvetési támogatás 8%-át meg nem haladó mértékben kerülhet sor.
 
