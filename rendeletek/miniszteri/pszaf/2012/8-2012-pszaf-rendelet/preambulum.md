@@ -1,0 +1,1 @@
+A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 86. § a) pontjában kapott felhatalmazás alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
