@@ -2,10 +2,9 @@
 
 194. § (1)[^20]
 
-(2)[^21]
+(2) Hatályát veszti az OM rendelet 10–14/H. §-a és 1. számú melléklete.
 
-(3)–(4)[^22]
+(3)–(4)[^21]
 
 [^20]: A 194. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 194. § (2) bekezdése a 192. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^22]: A 194. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 194. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
