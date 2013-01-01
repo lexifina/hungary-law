@@ -1,4 +1,4 @@
-## 15/A. §[^133]
+## 15/A. §[^134]
 
 (1) A pedagógus-munkakörben foglalkoztatott közalkalmazott részére kiegészítő illetmény jár, ha az integrációs és képesség-kibontakoztató támogatás rendszerébe (a továbbiakban: integrációs támogatásirendszer) bekapcsolódott közoktatási intézmény keretei között vesz részt az óvodai nevelés, az általános iskolai nevelés-oktatás feladataiban.
 
@@ -38,4 +38,4 @@ bd) az érintett tanulók középfokú iskolai továbbhaladásának segítése.
 
 (6) A kiegészítő illetmény összegét a nevelési-oktatási intézmény vezetője – az (5) bekezdésben szabályozott feladat-meghatározás alapján – állapítja meg, azzal a megkötéssel, hogy az egy pedagógusnak járó összeg nem lehet kevesebb havi ötezer forintnál és nem lehet több havi hatvanezer forintnál.
 
-[^133]: A 15/A. §-t a 323/2008. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^134]: A 15/A. §-t a 323/2008. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
