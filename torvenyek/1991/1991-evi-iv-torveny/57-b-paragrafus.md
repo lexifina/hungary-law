@@ -142,7 +142,7 @@ b) aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági 
 
 (5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) A (3) bekezdés 1. pont a) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban. A települési önkormányzat jegyzője rögzítheti a (3) bekezdés 3. pont g) alpontja szerinti adatokat is.
+(6) A (3) bekezdés 1. pont aa)–ae) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban. A települési önkormányzat jegyzője rögzítheti a (3) bekezdés 3. pont g) alpontja szerinti adatokat is.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 

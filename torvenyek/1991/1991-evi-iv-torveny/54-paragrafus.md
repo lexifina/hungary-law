@@ -38,11 +38,13 @@ f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci pr
 
 g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
+(9a) Az álláskereső a (9) bekezdés b) pontjában, valamint az 51/A. § (9) bekezdésében meghatározott jelentkezési kötelezettségének elektronikus levél útján is eleget tehet.
+
 (10) Az álláskeresési járadékra vagy nyugdíj előtti álláskeresési segélyre jogosult vagy abban részesülő álláskereső az 58. § (5) bekezdés d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a 25. § (2) bekezdésében meghatározott megfelelő munkahelyet köteles elfogadni.
 
 (10a) Az olyan álláskereső esetében, aki sem álláskeresési járadékra, sem nyugdíj előtti álláskeresési segélyre nem jogosult, a 25. § (2) bekezdésében foglaltakon kívül a munkahely abban az esetben is megfelelő, ha a foglalkoztatás közfoglalkoztatási jogviszonyban történik.
 
-(10b) A közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a munkahely akkor megfelelő, ha a munkavégzés helye és a közfoglalkoztatott lakóhelye között naponta történő oda- és visszautazás ideje tömegközlekedési eszközzel
+(10b) A közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a munkahely – a 25. § (2) bekezdés d) pontjában foglaltakon kívül – akkor is megfelelő, ha a munkavégzés helye és a közfoglalkoztatott lakóhelye között naponta történő oda- és visszautazás ideje tömegközlekedési eszközzel
 
 a) a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi álláskereső esetében a két órát meghaladja, és a munkavégzés helyére és onnan a közfoglalkoztatott lakóhelyére történő térítésmentes szállításról, vagy
 
@@ -72,7 +74,7 @@ b) az 58. § (5) bekezdés d) pont 1–4. alpontjaiban meghatározott feltétele
 
 c) meghalt, vagy
 
-d) jelentkezési kötelezettségének ismételten, felszólítás ellenére nem tesz eleget, vagy
+d) jelentkezési kötelezettségének személyesen vagy elektronikus levél útján nem tesz eleget, vagy
 
 e) a (9) bekezdés e)–g) pontjában, valamint a (10) bekezdésben foglalt együttműködési kötelezettségének nem tesz eleget, vagy
 

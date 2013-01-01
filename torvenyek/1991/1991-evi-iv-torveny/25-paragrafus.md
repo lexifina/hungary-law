@@ -6,7 +6,7 @@ a) álláskereső,
 
 b) az álláskeresővé válását megelőző három éven belül legalább 360 nap – a 27. § (1) bekezdésében meghatározott – jogosultsági idővel rendelkezik,
 
-c) megváltozott munkaképességű személyek ellátására nem jogosult, továbbá táppénzben nem részesül,
+c)
 
 d) munkát akar vállalni, de önálló álláskeresése nem vezetett eredményre, és számára az állami foglalkoztatási szerv sem tud megfelelő munkahelyet felajánlani.
 

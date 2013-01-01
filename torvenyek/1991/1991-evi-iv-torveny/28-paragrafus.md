@@ -1,23 +1,25 @@
-## Álláskeresési járadék folyósításának megszüntetése és szüneteltetése
+## Az álláskeresési járadék folyósításának megszűnése, megszüntetése és szünetelése
 
-28. § (1) Meg kell szüntetni az álláskeresési járadék folyósítását, ha az álláskereső:
+28. § (1) Megszűnik az álláskeresési járadék folyósítása, ha az álláskereső
 
-a) kéri,
+a) kéri, a kérelemben megjelölt időponttól,
 
-b) álláskeresési járadékban részesül, és törlik a nyilvántartásból,
+b) megváltozott munkaképességű személyek ellátására válik jogosulttá, a jogosultság kezdő napjától,
 
-c) megváltozott munkaképességű személyek ellátására válik jogosulttá,
+c) oktatási intézmény nappali tagozatán folytat tanulmányokat, a tanulói, hallgatói jogviszony kezdő napjától,
 
-d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszonyban foglalkoztatottakat,
+d) meghalt, a halál bekövetkezését követő naptól,
 
-e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
+e) az álláskeresési járadék folyósítási idejét kimerítette, a folyósítási idő utolsó napját követő naptól,
 
-f) oktatási intézmény nappali tagozatán folytat tanulmányokat,
+f) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül, a támogatás folyósításának kezdő napjától,
 
-g) meghalt,
+g) kereső tevékenységet folytat – kivéve a (2) bekezdésben, a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszony keretében folytatott kereső tevékenységet – a kereső tevékenység kezdő napjától.
 
-h) az álláskeresési járadék folyósítási idejét kimerítette,
+(2) Meg kell szüntetni az álláskeresési járadék folyósítását, ha
 
-i)
+a) az álláskeresőt törlik a nyilvántartásból, a nyilvántartásból való törlés napjától,
 
-(2) Ha az álláskeresési járadék folyósításának megszüntetése az (1) bekezdés b) pontjában meghatározott ok miatt, valamint a keresőtevékenység folytatása miatt úgy történik, hogy az álláskereső 36. § (1) bekezdése szerinti bejelentést elmulasztotta, az álláskereső részére álláskeresési járadék csak a folyósítás megszüntetésének kezdő napjától számított 90 nap elteltével folyósítható még akkor is, ha a jogosultsághoz szükséges feltételekkel egyébként rendelkezik.
+b) az álláskereső kereső tevékenységet folytat, és a 36. § (1) bekezdése szerinti bejelentési kötelezettségét elmulasztotta, a kereső tevékenység kezdő napjától, ha ez nem állapítható meg, a kereső tevékenység megállapításának napjától.
+
+(3) Ha az álláskeresési járadék folyósításának megszüntetése a (2) bekezdés b) pontjában meghatározott ok miatt történik, az álláskereső részére álláskeresési járadék csak a folyósítás megszüntetésének kezdő napjától számított 90 nap elteltével folyósítható még akkor is, ha a jogosultsághoz szükséges feltételekkel rendelkezik.

@@ -1,6 +1,6 @@
 39/C. § (1) A Nemzeti Foglalkoztatási Alap bevétele:
 
-a) a Tbj.-ben meghatározott munkaerő-piaci járulék;
+a) az egészségbiztosítási- és munkaerőpiaci járulékból a Nemzeti Foglalkoztatási Alapot a Tbj. szerint megillető rész;
 
 b) a szociális hozzájárulási adónak a költségvetési törvényben meghatározott százaléka.
 

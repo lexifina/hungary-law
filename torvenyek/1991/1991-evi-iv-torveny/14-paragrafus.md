@@ -16,7 +16,7 @@ f) aki közfoglalkoztatásban vesz részt, és a képzésben való részvételt 
 
 g) aki munkaviszonyban áll és rendszeres foglalkoztatása képzés nélkül nem biztosítható.
 
-(2) Az (1) bekezdés c) pontjában meghatározott személyek képzése akkor támogatható, ha a képzés időtartama hetente nem haladja meg a húsz órát, és
+(2) Az (1) bekezdés c) pontjában meghatározott személyek képzése akkor támogatható, ha a képzés időtartama hetente nem haladja meg a harminc órát, és
 
 a) a gyermekgondozási segélyben, gyermekgondozási díjban részesülő személy képzése a gyermek egy éves – gyermekgondozási díj folyósítása esetén másfél éves – korának betöltését követően kezdődik meg, valamint
 
