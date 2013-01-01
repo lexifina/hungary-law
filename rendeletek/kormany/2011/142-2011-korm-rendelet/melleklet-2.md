@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | a Pesti Vigadó épületének rekonstrukciója | Budapest, belterület 24.429/1 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 2. | a Pesti Vigadó épületének rekonstrukciója | Budapest, belterület 24.429/1 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -12,7 +12,7 @@
 
 | 5. | ingatlan-nyilvántartási hatósági eljárások | Budapesti 2. sz. Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
-| 6. | kulturális örökségvédelmi hatósági engedélyek | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 6. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
@@ -32,16 +32,16 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
+| 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
 
 | 4. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 5. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 6. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
 | 7. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^2]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése, a 166/2012. (VII. 19.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése, a 166/2012. (VII. 19.) Korm. rendelet 6. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 47. §-a szerint módosított szöveg.
