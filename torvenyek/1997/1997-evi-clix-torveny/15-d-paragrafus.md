@@ -1,1 +1,1 @@
-15/D. § A természetvédelmi őrszolgálat vagy az önkormányzati természetvédelmi őrszolgálat a közszolgálati alapnyilvántartásban – a közszolgálati jogviszonyból származó jogok gyakorlásához és kötelezettségek teljesítéséhez, a munkáltatói jogkör gyakorlásához – nyilvántartja a természetvédelmi őr vagy az önkormányzati természetvédelmi őr hatósági szolgálati igazolványának, valamint szolgálati jelvényének a sorszámát, valamint a természetvédelmi őr szolgálati maroklőfegyverének a lőfegyverekről és lőszerekről szóló törvény szerinti azonosító adatait.
+15/D. §

@@ -1,15 +1,15 @@
 ## Önkormányzati természetvédelmi őrszolgálat
 
-14. § (1) Az önkormányzati természetvédelmi őr egyenruhával ellátott, intézkedésre jogosult hivatalos személy, aki a helyi jelentőségű védett természeti területen jogosult és köteles:
+14. § (1) Az önkormányzati természetvédelmi őr formaruhával ellátott, intézkedésre jogosult hivatalos személy, aki a helyi jelentőségű védett természeti területen jogosult és köteles
 
-a) a helyi jelentőségű védett természeti területre vonatkozó előírások betartását ellenőrizni;
+a) a helyi jelentőségű védett természeti területre vonatkozó előírások betartásának ellenőrzése során,
 
-b) a helyi jelentőségű védett természeti területet veszélyeztető vagy károsító cselekményt elkövető személyt cselekményének abbahagyására felszólítani, feltartóztatni, igazoltatni, ellene eljárást kezdeményezni;
+b) a helyi jelentőségű védett természeti területet veszélyeztető vagy károsító cselekményt elkövető személlyel szemben,
 
-c) a helyi jelentőségű védett természeti területen károsító vagy veszélyeztető cselekmény elkövetésén tetten ért, vagy ezzel alaposan gyanúsítható személytől a területről származó és jogellenesen szerzett természeti vagy védett természeti értéket, illetve az elkövetéshez használt eszközt elvenni, és azt a lefoglalásra, illetőleg elkobzásra jogosult hatóságnak átadni;
+c) a helyi jelentőségű védett természeti területen károsító vagy veszélyeztető cselekmény elkövetésén tetten ért, vagy ezzel alaposan gyanúsítható személlyel szemben a területről származó és jogellenesen szerzett természeti vagy védett természeti érték megóvása érdekében
 
-d) jogszabályban meghatározott esetben helyszíni bírságot kiszabni.
+az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
-(2) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére testi kényszert vagy a rendőrségnél rendszeresített könnygázszóró palackot alkalmazhat.
+(2) Az önkormányzati természetvédelmi őr az (1) bekezdésben meghatározottakon túl jogosult és köteles a jogszabályban meghatározott esetben helyszíni bírságot kiszabni.
 
-(3) Az önkormányzati természetvédelmi őr az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+(3) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott kényszerítő eszközt alkalmazhat.

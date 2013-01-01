@@ -1,3 +1,1 @@
-15/A. § (1) A természetvédelmi őrnek és az önkormányzati természetvédelmi őrnek a tevékenysége folytatására való jogosultságát a természetvédelmi hatóság által kiadott hatósági szolgálati igazolvány igazolja.
-
-(2) A természetvédelmi őr és az önkormányzati természetvédelmi őr az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles magát hatósági szolgálati igazolvánnyal vagy sorszámozott szolgálati jelvénnyel igazolni. A hatósági szolgálati igazolvány tartalmazza a természetvédelmi őr vagy az önkormányzati természetvédelmi őr arcfényképét, nevét, a munkáltató szerv megnevezését és székhelyét.
+15/A. §
