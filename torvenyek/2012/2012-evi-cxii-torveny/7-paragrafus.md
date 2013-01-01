@@ -1,10 +1,6 @@
-7. § (1) Ha – a (2) bekezdésben nem említett esetben – az uniós intézmény által levont járulék
+7. § (1) A beszámított jövedelmet – a (2) bekezdésben nem említett esetben – úgy kell kiszámítani, hogy az uniós intézmény által levont járulék összegét el kell osztani a nyugdíjjárulék és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes mértékével.
 
-a) eléri a járulékfizetési felső határra számított nyugdíjjárulék és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes összegét, a járulékfizetési felső határnak megfelelő összeget,
-
-b) nem éri el a járulékfizetési felső határra számított nyugdíjjárulék és nyugdíjbiztosítási járulék, számított szociális hozzájárulási adó együttes összegét, az uniós intézmény által levont járulékból a nyugdíjjárulék törvényi mértéke, valamint a nyugdíjbiztosítási járulék törvényi mértéke, illetve a számított szociális hozzájárulási adó mértéke alapján számított összeget
-
-kell a nyugdíjbiztosítási visszautalás során beszámított jövedelemként figyelembe venni. Ha az uniós tisztviselő ugyanarra a napra a magyar nyugdíjrendszerben is szerzett szolgálati időt, az a) és b) pont alkalmazása során a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
+(1a) Az (1) bekezdés szerint a 2013. január 1-jét megelőző időszakra meghatározott beszámított jövedelem nem haladhatja meg a járulékfizetési felső határ összegét. Ha az uniós tisztviselő a 2013. január 1-jét megelőző időszak ugyanazon napjára a magyar nyugdíjrendszerben is szerzett szolgálati időt, a járulékfizetési felső határ helyett a járulékfizetési felső határnak a magyar nyugdíjrendszerben szerzett, nyugdíjjárulék-alapot képező keresettel, jövedelemmel csökkentett összegét kell figyelembe venni.
 
 (2) Ha az uniós tisztviselő korábban nyugdíjbiztosítási átutalással élt, az ezzel érintett időszakra a beszámított jövedelmet úgy kell meghatározni, mintha a nyugdíjbiztosítási átutalásra nem került volna sor.
 

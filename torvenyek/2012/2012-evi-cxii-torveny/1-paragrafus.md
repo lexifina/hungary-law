@@ -4,7 +4,7 @@
 
 a) beszámított jövedelem: a nyugdíjbiztosítási visszautalás során a visszautalással érintett időre megállapított, a társadalombiztosítási nyugellátás szempontjából figyelembevételre kerülő jövedelem, amely alapján a nyugdíj alapjául szolgáló átlagkeresetet meg kell határozni,
 
-b) járulékfizetési felső határ: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 24. § (2) bekezdése szerinti járulékfizetési felső határ, illetve nem teljes év esetén annak arányos összege,
+b) járulékfizetési felső határ: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény – 2013. január 1-jét megelőzően hatályos – 24. § (2) bekezdése szerinti járulékfizetési felső határ, illetve nem teljes év esetén annak arányos összege,
 
 c) nyugdíjbiztosítási átutalás: a Magyarországon levont, illetve befizetett, e törvény szerint számított járulék- és adóösszegeknek, valamint a magyarországi magánnyugdíj-pénztári egyéni számlaegyenlegnek az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet (a továbbiakban: SR.) VIII. melléklet 11. cikk (2) bekezdése szerinti átadása,
 

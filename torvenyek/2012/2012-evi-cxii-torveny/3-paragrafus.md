@@ -2,7 +2,7 @@
 
 a) szolgálati időként és keresetként, jövedelemként nem vehető figyelembe az az idő, illetve kereset, jövedelem, amely után nyugdíjjárulék-fizetési kötelezettség nem állt fenn, és
 
-b) a figyelembevételre kerülő szolgálati idő teljes tartamára a járulékfizetés alapjául szolgáló keresetet, jövedelmet kell figyelembe venni, legfeljebb a járulékfizetési felső határnak megfelelő összegig.
+b) a figyelembevételre kerülő szolgálati idő teljes tartamára a járulékfizetés alapjául szolgáló keresetet, jövedelmet kell figyelembe venni, a 2013. január 1-jét megelőző időszakra legfeljebb a járulékfizetési felső határnak megfelelő összegig.
 
 (2) Az uniós tisztviselőnek az (1) bekezdés alapján figyelembevételre kerülő éves kereseteit, jövedelmeit évenként a nyugellátások megállapítása során alkalmazott valorizációs szorzószámokkal (a továbbiakban: valorizációs szorzószám) meg kell szorozni. A kiszámítás során a nyugdíjbiztosítási átutalás évében alkalmazandó valorizációs szorzószámokat kell figyelembe venni.
 
