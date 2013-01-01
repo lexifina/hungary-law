@@ -6,7 +6,7 @@ a) a 97. § alapján szolgáltatott adatokat,
 
 b) az Mpt. 120/A. § (8) bekezdése alapján átvett adatokat,
 
-c) az Art. 52. § (7) bekezdés b) pont ba) és be) alpontja, d) pont da) és db) alpontja, valamint e)–g) pontja alapján átvett adatokat,
+c) az Art. 52. § (7) bekezdés b) és d) pontja, valamint e)–g) pontja alapján átvett adatokat,
 
 d) a megállapított, illetve folyósított ellátásra vonatkozó adatokat,
 

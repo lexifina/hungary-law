@@ -1,0 +1,3 @@
+21/A. § (1) Ha a biztosított, volt biztosított magánnyugdíjpénztár tagja, az öregségi nyugdíj összegét úgy kell megállapítani, hogy a 20. és 21. § alapján kiszámított nyugdíjösszeget meg kell szorozni az 1. mellékletben meghatározott szorzószámmal.
+
+(2) Ha a magánnyugdíjpénztár a tag egyéni számláján lévő – törvényben meghatározott esetben csökkentett – összeget a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. év LXXXII. törvényben (a továbbiakban: Mpt.) foglaltak szerint az öregségi nyugdíj megállapítását követően az államháztartás részére utalja át, az öregségi nyugdíj összegét a 20. és 21. §-ban foglaltak szerint, a megállapítás kezdő időpontjára visszamenőlegesen módosítani kell.

@@ -1,3 +1,7 @@
+## VI. Fejezet
+
+## A NYUGELLÁTÁSOK ÉVENKÉNTI RENDSZERES EMELÉSE
+
 62. § (1) A tárgyév január 1-je előtti időponttól megállapított társadalombiztosítási nyugellátást – ideértve a 6. § (4) bekezdésében meghatározott ellátásokat és a baleseti járadékot is – a megállapítás naptári évét követően minden év január hónapjában az emelés évére tervezett fogyasztói árnövekedésnek megfelelő mértékben kell emelni.
 
 (2) A tárgyévi tervezett fogyasztói árnövekedést a központi költségvetésről szóló törvény állapítja meg.
@@ -9,7 +13,3 @@
 (5) Egyösszegű kifizetés esetén a következő év januárjában a nyugellátás és a baleseti járadék összegét – az (1) bekezdés szerinti emelés végrehajtását megelőzően – meg kell emelni az egyösszegű kifizetés összegének alapjául szolgáló, kormányrendeletben meghatározott százalékos mérték egytizenketted részével.
 
 (6) Az Országgyűlés felhatalmazza a Kormányt, hogy a tényleges, illetőleg a várható makrogazdasági folyamatok és adatok ismeretében a szükséges feltételek megléte esetén további kiegészítő intézkedéseket tegyen.
-
-2. CÍM
-
-A 2012. december 31-ét követő időponttól megállapított nyugellátások emelése

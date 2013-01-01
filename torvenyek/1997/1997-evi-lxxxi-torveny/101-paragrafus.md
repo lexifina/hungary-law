@@ -12,7 +12,7 @@ c) a nyugellátás megállapítására és folyósítására vonatkozó részlet
 
 d) a nyugdíjprémium megállapítására és a végrehajtásra vonatkozó részletes szabályokat, valamint a (6) bekezdés a) pontja szerinti szorzószámot,
 
-e) a 2013. január 1-je előtti nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
+e) a nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
 
 f) a nyugellátás emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 
@@ -38,7 +38,9 @@ p) az özvegyi járadék számítására vonatkozó szabályokat;
 
 q) a 2. § (6) bekezdés szerinti esetben a társadalombiztosítási nyugdíjrendszerben szerzett jogosultságok meghatározásának, beszámításának módját;
 
-r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat
+r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat;
+
+s) az egyeztetési eljárás és a jogosultsági idő, szolgálati idő igazolása iránti eljárás részletes szabályait
 
 rendeletben határozza meg.
 

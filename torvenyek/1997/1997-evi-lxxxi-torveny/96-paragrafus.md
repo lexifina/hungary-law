@@ -42,7 +42,7 @@ c) a munkaügyi és szociális igazgatás szervei, az állami foglalkoztatási s
 
 d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügyi szolgáltatói feladataik ellátása érdekében az a)–e) pontjai,
 
-e) az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott – körzetközponti feladatokat ellátó – települési (fővárosi kerületi) önkormányzatok jegyzői és a cégbíróságok külön törvényben meghatározottak,
+e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai és a cégbíróságok külön törvényben meghatározottak,
 
 f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése céljából az a), d) és f) pont,
 
@@ -58,8 +58,6 @@ szerinti adatok igénylésére jogosultak.
 
 (7) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője azonban a nyilvántartásba betekinthet, az iratokról másolatot, illetőleg nyilvántartott adatairól felvilágosítást kérhet.
 
-(8) A nyugdíjbiztosítási igazgatási szerv a biztosított (volt biztosított) kérelmére igazolást állít ki a biztosítási kötelezettséggel járó jogviszonyokra és a keresetekre, jövedelmekre vonatkozóan a nyilvántartásba bejelentett adatokról.
-
-(9) A biztosított (volt biztosított) kérheti a bejelentésre kötelezett szerv vagy személy rá vonatkozó adatszolgáltatásának hatósági ellenőrzését, és a rendelkezésére álló bizonyítékok figyelembevételével a nyilvántartás adatainak kiegészítését, javítását.
+(8)–(9)
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.

@@ -6,7 +6,7 @@
 
 (2) Az igényt visszamenőleg legfeljebb hat hónapra lehet érvényesíteni, az ellátást a jogosultsági feltételek fennállása esetén legkorábban az igénybejelentés időpontját megelőző hatodik hónap első napjától lehet megállapítani. Az igényt az ellátás megállapításának kezdő időpontjában hatályos jogszabályok alapján kell elbírálni.
 
-(3)
+(3) Visszamenőlegesen történő igényérvényesítés esetén nem folyósítható az öregségi nyugdíj arra az időszakra, ami alatt az öregségi nyugdíjas a 83/C. § (1) bekezdésében meghatározott jogviszonyban állt.
 
 (4) Az igénybejelentő lap benyújtásával egyidejűleg az igénylőnek közölnie kell az azonosításához szükséges adatokat, a társadalombiztosítási azonosító jelét, valamint csatolnia kell a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratokat, továbbá egészségi állapottól függő ellátás esetén az egészségi állapottal összefüggő iratokat.
 

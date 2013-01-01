@@ -5,11 +5,3 @@ a) az elhunyt jogszerzőnek a tagsági jogviszonya megszűnésekor fennálló, a
 b) az elhunyt jogszerzőnek a tagsági jogviszonya megszűnésekor fennálló tagi követelése alapján kell kiszámítani, ha a visszalépő tagi kifizetések összegét a Nyugdíjbiztosítási Alapnak utalták át.
 
 (2) Özvegyi járadék fizetése esetén özvegyi nyugdíj nem folyósítható.
-
-## VI. Fejezet
-
-## A NYUGELLÁTÁSOK ÉVENKÉNTI RENDSZERES EMELÉSE
-
-1. CÍM
-
-A 2013. január 1-je előtt megállapított nyugellátások évenkénti emelése

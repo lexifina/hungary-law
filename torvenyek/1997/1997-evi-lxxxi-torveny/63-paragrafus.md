@@ -1,1 +1,1 @@
-63. § A 2012. december 31-ét követően bruttó kereseti adatokból megállapított saját jogú nyugdíjbiztosítási nyugellátást, illetve hozzátartozói nyugellátást a megállapítás naptári évét követő évben, legkorábban 2014. január 1-jétől kezdődően – évente egy alkalommal, január hónapban – az emelést megelőző naptári év I–III. negyedévében és az azt megelőző év negyedik naptári negyedévében mért fogyasztói árnövekedés és az országos bruttó átlagkereset-növekedés 50-50 százalékos súlyozott átlagának megfelelő mértékben kell emelni.
+### 63. §
