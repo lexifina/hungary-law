@@ -6,7 +6,7 @@
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő pernyertessége érdekében beavatkozhat.
 
-(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A helyi bíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő helyi bíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
+(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A járásbíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
 
 (6) A bíróság soron kívül jár el.
 
