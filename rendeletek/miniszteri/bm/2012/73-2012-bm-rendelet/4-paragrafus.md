@@ -1,0 +1,1 @@
+## „(5) A hivatásos katasztrófavédelmi szervek, az önkormányzati tűzoltóság és a tűzoltó egyesület által készenlétben tartott tűzvédelmi technika műszaki állapotát a hivatásos katasztrófavédelmi szerv illetékes területi szerve jogosult ellenőrizni.”
