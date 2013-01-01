@@ -1,7 +1,7 @@
-11. § (1) A föld alatt állandó jelleggel dolgozó, illetve az ionizáló sugárzásnak kitett munkahelyen naponta legalább három órát eltöltő munkavállalót évenként öt munkanap pótszabadság illeti meg.
+11. § (1)[^19] A föld alatt állandó jelleggel dolgozó, és az ionizáló sugárzásnak kitett naponta legalább három órát eltöltő munkavállalót a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 119. § (2) bekezdésében foglaltakkal összhangban évenként öt munkanap pótszabadság illeti meg.
 
-(2)[^19] A pótszabadság – kollektív szerződés eltérő rendelkezése hiányában – a munkavállalót a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 131. §-ban meghatározott szabadságon felül, és a többféle címen járó pótszabadság egymás mellett is megilleti.
+(2) Az (1) bekezdés szerinti pótszabadság – kollektív szerződés eltérő rendelkezése hiányában – a munkavállalót az Mt. 116. §-ában meghatározott alapszabadságon és az Mt. 117–120. §-ai szerinti egyéb, többféle címen egymás mellett járó pótszabadságokon felül is megilleti.
 
 (3) Ha a munkavállaló munkaviszonya év közben kezdődött, részére az (1) bekezdés szerinti pótszabadság arányos része jár.
 
-[^19]: A 11. § (2) bekezdése az 5/2010. (III. 9.) HM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A 11. § (1) bekezdése a 23/2012. (XII. 18.) HM rendelet 49. §-ával megállapított szöveg.
