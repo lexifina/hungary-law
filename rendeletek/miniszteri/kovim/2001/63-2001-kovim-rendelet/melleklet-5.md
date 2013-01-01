@@ -94,7 +94,7 @@
 
 ## – a területi navigáció használata szerinti üzemeltetésre kiterjesztés engedélye B-RNAV;
 
-## r) a helikopter fedélzetének fertőtlenítéséről és féregmentesítéséről szóló ÁNTSZ igazolást;
+## r)[^14] a helikopter fedélzetének fertőtlenítéséről és féregmentesítéséről szóló igazolást;
 
 ## 1.3. A felsorolt dokumentációk átadásáért az üzembentartó a felelős.
 
@@ -327,3 +327,5 @@
 ## 3.1. A helikopter légi ellenőrzése a mindenkor érvényes, hatóságilag jóváhagyott, a típusra vonatkozó berepülési és útvonal ellenőrzési jegyzőkönyv alapján kerül végrehajtásra.
 
 5. számú melléklet a 63/2001. (XII. 23.) KöViM rendelethez
+
+[^14]: A 4. számú melléklet 1. pont 1.2. pont r) alpontja a 76/2012. (XII. 22.) NFM rendelet 7. §-a szerint módosított szöveg.

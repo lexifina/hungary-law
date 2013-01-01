@@ -1,4 +1,4 @@
-## 17. §[^4] Légijármű külföldről Magyarország területére történő behozatala esetén a hatóságnak a légialkalmassági felülvizsgálat terjedelmének meghatározásánál figyelembe kell venni a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) tagállamai által kiadott export légialkalmassági bizonyítványt, különös tekintettel az alábbiakra:
+## 17. §[^5] Légijármű külföldről Magyarország területére történő behozatala esetén a hatóságnak a légialkalmassági felülvizsgálat terjedelmének meghatározásánál figyelembe kell venni a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) tagállamai által kiadott export légialkalmassági bizonyítványt, különös tekintettel az alábbiakra:
 
 a) a légijármű származási helye,
 
@@ -8,4 +8,4 @@ c) a légialkalmassági bizonyítványban feltüntetett esetleges korlátozások
 
 d) a légijármű műszaki állapota, környezetterhelési és üzemeltetési jellemzői.
 
-[^4]: A 17. § nyitó szövegrésze a 91/2011. (XII. 30.) NFM rendelet 19. § a) pontja szerint módosított szöveg.
+[^5]: A 17. § nyitó szövegrésze a 91/2011. (XII. 30.) NFM rendelet 19. § a) pontja szerint módosított szöveg.
