@@ -18,7 +18,7 @@ esetében felmerülő helyreállítási költségek támogatására vonatkozó v
 
 a) a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló kormányrendelet mellékletében szerepel, vagy
 
-b)[^3]
+b)[^4]
 
 c) teljesítőképességét a felmerült károk helyreállítása jelentősen meghaladja, feltéve, hogy a vis maior esemény rövid időszakon belül ismétlődő természeti vagy időjárási csapások következményeként alakult ki, és az adott térségben több települést is érintett.
 
@@ -54,4 +54,4 @@ e) a folyó jellegű működési kiadások.
 
 (13) A (11) és (12) bekezdésben foglalt feltétel alól mentesül az önkormányzat, ha az adott kötelező önkormányzati feladatot ellátó épületre nem köthető biztosítás. Ezt a tényt az önkormányzat legalább három országos biztosítótársaság nyilatkozatával igazolja a Kincstár felé.
 
-[^3]: Az 5. § (2) bekezdés b) pontját a 11. § hatályon kívül helyezte.
+[^4]: Az 5. § (2) bekezdés b) pontját a 11. § hatályon kívül helyezte.

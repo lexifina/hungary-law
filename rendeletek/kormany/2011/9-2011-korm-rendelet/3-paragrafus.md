@@ -16,7 +16,7 @@ b) az önkormányzati, kisebbségi önkormányzati tulajdonban lévő építmén
 
 (6) A bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a területileg illetékes fővárosi és megyei kormányhivatal által koordinált bizottság helyszíni vizsgálatot végez (a továbbiakban: előzetes helyszíni vizsgálat). Az előzetes helyszíni vizsgálatban részt vesz a területileg illetékes fővárosi és megyei kormányhivatal, a Katasztrófavédelmi Igazgatóság, továbbá szükség szerint a területileg illetékes fővárosi és megyei kormányhivatal felkérése alapján
 
-a)[^1] ár- vagy belvíz elleni védekezés esetében a területileg illetékes vízügyi igazgatóság, valamint
+a)[^2] ár- vagy belvíz elleni védekezés esetében a területileg illetékes vízügyi igazgatóság, valamint
 
 b) utakban, kompokban, hidakban keletkezett károk esetében a Közlekedésfejlesztési Koordinációs Központ
 
@@ -36,4 +36,4 @@ képviselője.
 
 (13) Az önkormányzat az előleg iránti kérelmét – legfeljebb a 4. § (1) bekezdés szerinti támogatási kérelem lezárásáig – az ebr42 rendszerben az 1. melléklet B) része szerinti adatlapon rögzíti. A kitöltött és lezárt, 1. melléklet B) része szerinti adatlapot aláírást követően faxon el kell juttatni a minisztérium részére. A minisztérium az előlegigény beérkezését követően – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi az illetékes Katasztrófavédelmi Igazgatóságot, amely az ebr42 rendszerben az 1. melléklet C) része szerinti adatlap kitöltésével haladéktalanul, de legkésőbb 3 napon belül javaslatot tesz a folyósítandó előleg összegére.
 
-[^1]: A 3. § (6) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^2]: A 3. § (6) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.

@@ -38,6 +38,6 @@
 
 | Telefon: | Telefon: |
 
-3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^10]
+3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^11]
 
-[^10]: A 3. melléklet a 300/2011. (XII. 22.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^11]: A 3. melléklet a 300/2011. (XII. 22.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.

@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^11]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^12]
 
 Igénylésazonosító:
 
@@ -182,4 +182,4 @@ P. H.
 
 | polgármester/elnök | jegyző/munkaszervezet vezető, |
 
-[^11]: Az 5. melléklet a 11. § szerint módosított szöveg.
+[^12]: Az 5. melléklet a 11. § szerint módosított szöveg.

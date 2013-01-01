@@ -28,4 +28,6 @@
 
 13. különösen súlyos természeti károk: a természeti és lakókörnyezetben különösen földrengés, árvíz, lakott területen belüli nagy kiterjedésű belvíz, tornádó, tűzvész, robbanás, pince- vagy partfalomlás, földcsuszamlás miatt bekövetkezett károk,
 
-14. igazgatási feladatok ellátását szolgáló intézmény: önkormányzati, államigazgatási feladat ellátását végző intézmény, különösen a polgármesteri hivatal, okmányiroda.
+14.[^1] igazgatási feladatok ellátását szolgáló intézmény: önkormányzati, államigazgatási feladat ellátását végző intézmény, különösen a polgármesteri hivatal, fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
+
+[^1]: A 2. § 14. pontja a 174/2012. (VII. 26.) Korm. rendelet 82. §-a szerint módosított szöveg.
