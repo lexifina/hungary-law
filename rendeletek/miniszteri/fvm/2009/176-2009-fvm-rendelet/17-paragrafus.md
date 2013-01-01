@@ -1,62 +1,67 @@
 17. § (1) Ez a rendelet a kihirdetését követő 45. napon lép hatályba, azzal, hogy rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2)[^5]
+(2)[^20]
 
-(3)[^6]
+(3)[^21]
 
-(4)[^7] A számítógépes ingatlan-nyilvántartási rendszerből lekérdezés útján szolgáltatható egyes ingatlan-nyilvántartási adatok szolgáltatásáról és igazgatási szolgáltatási díjáról, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapításáról és a díjak megfizetésének részletes szabályairól szóló 176/2009. (XII. 28.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
+(4)[^22] A számítógépes ingatlan-nyilvántartási rendszerből lekérdezés útján szolgáltatható egyes ingatlan-nyilvántartási adatok szolgáltatásáról és igazgatási szolgáltatási díjáról, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapításáról és a díjak megfizetésének részletes szabályairól szóló 176/2009. (XII. 28.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
 
 a) 92. §-ával módosított 4. §-át,
 
-b) 96. §-ával módosított 8. §-át a Mr. hatálybalépését[^8] követően indult ügyekben kell alkalmazni.
+b) 96. §-ával módosított 8. §-át a Mr. hatálybalépését[^23] követően indult ügyekben kell alkalmazni.
 
-Melléklet a 176/2009. (XII. 28.) FVM rendelethez
+(5)[^24] E rendeletnek az egyes ingatlan-nyilvántartási eljárások egyszerűsítésével összefüggő miniszteri rendeletek módosításáról szóló 148/2012. (XII. 28.) VM rendelet (a továbbiakban: Mr2.) 29. §-ával módosított 7. § (2)–(4) bekezdését az Mr2. hatálybalépésekor[^25] még nem teljesített díjátutalásokra is alkalmazni kell.
+
+Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^26]
 
 | Név | Számlaszám |
 
-| Baranya Megyei Földhivatal | 10024003-01409330-00000000 |
-
-| Bács-Kiskun Megyei Földhivatal | 10025004-01409347-00000000 |
-
-| Békés Megyei Földhivatal | 10026005-01409354-00000000 |
-
-| Borsod-Abaúj-Zemplén Megyei Földhivatal | 10027006-01409361-00000000 |
-
-| Csongrád Megyei Földhivatal | 10028007-01409378-00000000 |
-
-| Fejér Megyei Földhivatal | 10029008-01409385-00000000 |
-
-| Fővárosi Földhivatal | 10032000-01409316-00000000 |
-
-| Győr-Moson-Sopron Megyei Földhivatal | 10033001-01409392-00000000 |
-
-| Hajdú-Bihar Megyei Földhivatal | 10034002-01409402-00000000 |
-
-| Heves Megyei Földhivatal | 10035003-01409419-00000000 |
-
-| Jász-Nagykun-Szolnok Megyei Földhivatal | 10045002-01409464-00000000 |
-
-| Komárom-Esztergom Megyei Földhivatal | 10036004-01409426-00000000 |
-
-| Nógrád Megyei Földhivatal | 10037005-01409433-00000000 |
-
-| Pest Megyei Földhivatal | 10032000-01409323-00000000 |
-
-| Somogy Megyei Földhivatal | 10039007-01409440-00000000 |
-
-| Szabolcs-Szatmár-Bereg Megyei Földhivatal | 10044001-01409457-00000000 |
-
-| Tolna Megyei Földhivatal | 10046003-01409471-00000000 |
-
-| Vas Megyei Földhivatal | 10047004-01409488-00000000 |
-
-| Veszprém Megyei Földhivatal | 10048005-01409495-00000000 |
-
-| Zala Megyei Földhivatal | 10049006-01409505-00000000 |
-
 | Földmérési és Távérzékelési Intézet | 10032000-01474527-00000000 |
 
-[^5]: A 17. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
-[^6]: A 17. § (3) bekezdése ugyanezen bekezdés alapján hatályát veszette.
-[^7]: A 17. § (4) bekezdését a 48/2010. (IV. 27.) FVM rendelet 94. §-a iktatta be.
-[^8]: A hatálybalépés időpontja: 2010. május 12.
+| Baranya Megyei Kormányhivatal Földhivatala | 10024003-00300960-00000000 |
+
+| Bács-Kiskun Megyei Kormányhivatal Földhivatala | 10025004-00299657-00000000 |
+
+| Békés Megyei Kormányhivatal Földhivatala | 10026005-00321127-00000000 |
+
+| Borsod-Abaúj-Zemplén Megyei Kormányhivatal Földhivatala | 10027006-00302814-00000000 |
+
+| Csongrád Megyei Kormányhivatal Földhivatala | 10028007-00302515-00000000 |
+
+| Fejér Megyei Kormányhivatal Földhivatala | 10029008-00302649-00000000 |
+
+| Győr-Moson-Sopron Megyei Kormányhivatal Földhivatala | 10033001-00301617-00000000 |
+
+| Hajdú-Bihar Megyei Kormányhivatal Földhivatala | 10034002-00301813-00000000 |
+
+| Heves Megyei Kormányhivatal Földhivatala | 10035003-00302089-00000000 |
+
+| Jász-Nagykun-Szolnok Megyei Kormányhivatal Földhivatala | 10045002-00301820-00000000 |
+
+| Komárom-Esztergom Megyei Kormányhivatal Földhivatala | 10036004-00301428-00000000 |
+
+| Nógrád Megyei Kormányhivatal Földhivatala | 10037005-00302106-00000000 |
+
+| Pest Megyei Kormányhivatal Földhivatala | 10023002-00302247-00000000 |
+
+| Somogy Megyei Kormányhivatal Földhivatala | 10039007-00301112-00000000 |
+
+| Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Földhivatala | 10044001-00302261-00000000 |
+
+| Tolna Megyei Kormányhivatal Földhivatala | 10046003-00302436-00000000 |
+
+| Vas Megyei Kormányhivatal Földhivatala | 10047004-00301507-00000000 |
+
+| Veszprém Megyei Kormányhivatal Földhivatala | 10048005-00301569-00000000 |
+
+| Zala Megyei Kormányhivatal Földhivatala | 10049006-00303004-00000000 |
+
+| Budapest Főváros Kormányhivatalának Földhivatala | 10023002-00301208-00000000 |
+
+[^20]: A 17. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^21]: A 17. § (3) bekezdése ugyanezen bekezdés alapján hatályát veszette.
+[^22]: A 17. § (4) bekezdését a 48/2010. (IV. 27.) FVM rendelet 94. §-a iktatta be.
+[^23]: A hatálybalépés időpontja: 2010. május 12.
+[^24]: A 17. § (5) bekezdését a 148/2012. (XII. 28.) VM rendelet 32. §-a iktatta be.
+[^25]: A hatálybalépés időpontja 2013. január 1.
+[^26]: A melléklet a 148/2012. (XII. 28.) VM rendelet 35. §-ával megállapított szöveg.

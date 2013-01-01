@@ -4,8 +4,38 @@ a) elektronikus dokumentumként szolgáltatott hiteles és nem hiteles tulajdoni
 
 b) elektronikus dokumentumként szolgáltatott hiteles és nem hiteles térképmásolat.
 
-(2) Az (1) bekezdés szerinti adatszolgáltatásért járó – külön jogszabályban meghatározott – díj (a továbbiakban: elektronikus adatszolgáltatási díj) megfizetését a FÖMI előirányzat-felhasználási keret számlájára történő átutalással kell teljesíteni.
+(2)[^11] A FÖMI előirányzat-felhasználási keret számlájára történő átutalással kell teljesíteni
+
+a) az (1) bekezdés szerinti adatszolgáltatásért járó – külön jogszabályban meghatározott – díj (a továbbiakban: elektronikus adatszolgáltatási díj),
+
+b) a Díjtörvény
+
+ba) 31. § (6) bekezdésében, valamint
+
+bb) 32/G. §-ában meghatározott díj
+
+## megfizetését.
 
 (3) Az (1) bekezdés a) pontja szerinti adatszolgáltatásból származó bevétel 65%-a az adatszolgáltatással érintett ingatlan fekvése szerint illetékes megyei földhivatalt, 35%-a pedig a FÖMI-t illeti meg.
 
-(4) A FÖMI az elektronikus adatszolgáltatási díjnak az adatszolgáltatással érintett ingatlan fekvése szerint illetékes megyei földhivatalt megillető részét a tárgyhónap utolsó napját követő 15 napon belül az adatszolgáltatásban érintett megyei földhivatal előirányzat-felhasználási keretszámlájára a földhivatal által kiállított számla alapján átutalja.
+(3a)[^12] A Díjtörvény 31. § (6) bekezdésében meghatározott kétszeres díjtételből
+
+a) az elektronikus adatszolgáltatási díj a (3) bekezdésben meghatározottak szerint az adatszolgáltatással érintett ingatlan fekvése szerint illetékes megyei földhivatalt és a FÖMI-t,
+
+b) az elektronikus adatszolgáltatási díjon felüli rész a TAKARNET felhasználónál végzett hatósági ellenőrzést (a továbbiakban: TAKARNET ellenőrzés) lefolytató megyei földhivatalt
+
+illeti meg.
+
+(4)[^13] A FÖMI a tárgyhónap utolsó napját követő 15 napon belül
+
+a) a fővárosi és megyei kormányhivatal által kiállított számla alapján az elektronikus adatszolgáltatási díjnak a (3) bekezdésben meghatározott részét az adatszolgáltatással érintett ingatlan fekvése szerint illetékes,
+
+b) a TAKARNET ellenőrzés során a Díjtörvény 31. § (6) bekezdése szerinti határozat alapján a (3a) bekezdés
+
+ba) a) pontja szerinti elektronikus adatszolgáltatási díjat az adatszolgáltatással érintett ingatlan fekvése szerint illetékes,
+
+bb) b) pontja szerinti összeget a TAKARNET ellenőrzést lefolytató
+
+[^11]: A 7. § (2) bekezdése a 148/2012. (XII. 28.) VM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^12]: A 7. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 29. § (2) bekezdése iktatta be.
+[^13]: a 7. § (4) bekezdése a 148/2012. (XII. 28.) VM rendelet 29. § (3) bekezdésével megállapított szöveg.
