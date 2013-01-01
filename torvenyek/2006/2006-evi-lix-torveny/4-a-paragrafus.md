@@ -1,16 +1,16 @@
 ## Pénzügyi szervezetek különadója
 
-4/A. § (1) A pénzügyi szervezet 2012-ben különadó megállapítására, bevallására és fizetésére kötelezett.
+4/A. § (1) A pénzügyi szervezet 2013-ban különadó megállapítására, bevallására és fizetésére kötelezett.
 
-(2) A pénzügyi szervezet a különadót 2012. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(2) A pénzügyi szervezet a különadót 2013. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A 2010-ben és 2011-ben jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2012. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
+(3) A 2010–2012. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2013. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított módosított mérlegfőösszeg;
 
-2. biztosítónál a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált díj;
+2.
 
 3. egyéb pénzügyi szervezetnél:
 
@@ -36,7 +36,7 @@ e) befektetési alapkezelőnél az általa kezelt alapok 2009. december 31-i net
 
 a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,53 százalék,
 
-b) biztosító esetén az adóalap 1 milliárd forintot meg nem haladó része után 1,5 százalék, 8 milliárd forintot meg nem haladó része után 3 százalék, az e feletti összegre 6,4 százalék,
+b)
 
 c) egyéb pénzügyi szervezet esetén:
 
@@ -52,7 +52,7 @@ ce) befektetési alapkezelőnél 0,028 százalék.
 
 (7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(37) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
-(8) A jogutód a jogutódlással 2011. január 1-jét követően megszűnő adózó – a jogutódlással történő megszűnés adóévében hatályos (4) és (6) bekezdése szerint megállapított – különadó fizetési kötelezettségét – első ízben a jogutódlást követő adóévben – március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti. E bekezdést nem kell alkalmazni akkor, ha a jogutód a (3) bekezdés szerint állapítja meg a különadót.
+(8) A jogutód a jogutódlással 2011. január 1-jét követően megszűnő adózó – a jogutódlással történő megszűnés adóévében hatályos rendelkezések szerint megállapított – különadó fizetési kötelezettségét – első ízben a jogutódlást követő adóévben – március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
 (9) A megszűnő, vagy a különadó hatálya alól bármely más okból kikerülő pénzügyi szervezet a különadóval összefüggő minden olyan adókötelezettségét, amelynek teljesítésére előírt határidő korábban nem telt le, a megszűnését, illetőleg a különadó hatálya alól történő kikerülését követő 30. napig teljesíti.
 
@@ -66,7 +66,7 @@ c) a befektetési alapkezelő az adóalap meghatározásakor számításba vett,
 
 d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
 
-e) a biztosító az adóalap meghatározásakor számításba vett korrigált díjbevétel megállapítását tartalmazó kimutatást.
+e)
 
 (11) A hitelintézet, a pénzügyi vállalkozás (a továbbiakban együtt: pénzügyi intézmény) által 2011-re fizetendő különadó megállapításánál a (6) bekezdés szerint kiszámított különadót adó-visszatérítés címén csökkenti a fogyasztóval kötött deviza alapú kölcsönszerződés alapján teljesített előtörlesztés miatt, valamint a fogyasztóval kötött deviza alapú pénzügyi lízingszerződés alapján fennálló követelése teljesítése (ideértve különösen a finanszírozási összeg és maradványérték megfizetését) következtében
 
@@ -159,3 +159,7 @@ b) a fogyasztóval kötött, Magyarország területén lévő lakóingatlanra vo
 (36) A (30)–(33) bekezdések alapján meghatározott különadóalap-csökkentést – külön-külön és együttesen – a különadó alapjának megállapításánál a pénzügyi intézmény legfeljebb olyan mértékig veheti figyelembe, hogy az általa fizetendő különadó ezt követően is elérje a (6) bekezdés szerint kiszámított különadó 70 százalékát.
 
 (37) A (21) bekezdés szerinti adóvisszatérítést az előzőek szerint csökkentett adó terhére veheti igénybe a pénzügyi intézmény.
+
+(38) A Hpt. szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a Hpt. 76/A. § (8) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
+
+(39) A Hpt. 80. § (1) bekezdés m) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.

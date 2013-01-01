@@ -6,13 +6,11 @@
 
 2. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít;
 
-3. pénzügyi szervezet: a hitelintézet, a biztosító és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
+3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 
 4. hitelintézet: a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti hitelintézet;
 
-5. biztosító: a biztosítókról és a biztosítási tevékenységről szóló törvény (a továbbiakban: Bit.) szerinti biztosító (ide nem értve a nem jelentős biztosító egyesületeket) és a viszontbiztosítókról szóló törvény szerinti viszontbiztosító;
-
-6. nem jelentős biztosító egyesület: a Bit. szerinti nem-élet biztosítási ágon belül kizárólag a tűz és elemi károk, az egyéb vagyoni károk és a segítségnyújtási ágazatot művelő olyan biztosító egyesület, amely éves díjbevételének és tagsági hozzájárulásának együttes összege az utóbbi három üzleti évben egyszer sem érte el a 125 millió forintot;
+5–6.
 
 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő, befektetési alapkezelő;
 
@@ -70,11 +68,7 @@ n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz ka
 
 15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege;
 
-16. egyszeri díj: azon életbiztosítási szerződésekből származó díj, amely egy összegben a tartam elején esedékes;
-
-17. eseti díj: az életbiztosítási szerződéshez kapcsolódó, a szerződésben előre rögzített díjfizetési kötelezettségen felül fizetett biztosítási díj;
-
-18. korrigált díj: a nem-élet biztosítási ágból származó megszolgált díj viszontbiztosítás nélküli összege, növelve az életbiztosítási ág bruttó díjával, csökkentve az egyszeri díjas biztosítások díjának 90 százalékával és az eseti biztosítási díjak 90 százalékával, továbbá csökkentve a halasztott kezdetű nyugdíjkiegészítő biztosításoknak az Önkéntes kölcsönös biztosító pénztárakról szóló 1993. évi XCVI. törvény 46–49. §-ainak a Felügyelet által igazoltan megfelelő díjbevételével;
+16–18.
 
 19. korrigált nettó árbevétel:
 
