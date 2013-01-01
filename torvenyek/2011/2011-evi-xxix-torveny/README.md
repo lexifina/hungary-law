@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-29-00-00
 | 2011-03-30 | 2011. évi LIX. törvény | 2011-29-00-00.1 |
 | 2011-06-30 | 2011. évi LIX. törvény | 2011-29-00-00.2 |
 | 2011-09-30 | 2011. évi LIX. törvény | 2011-29-00-00.3 |
+| 2013-01-01 | 2012. évi CCXVII. törvény | 2011-29-00-00.4 |

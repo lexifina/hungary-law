@@ -14,7 +14,7 @@
 
 (6) E törvény 108. § (2) bekezdése, 202. § (2) bekezdése, 237. § (1)–(2) bekezdése, és 239. §-a 2013. március 3-án lép hatályba.
 
-(7) E törvény 27–29. § (1) bekezdése, 30–31. §-a, 114. § (6) bekezdése, 125. § (21) bekezdése, 126. § (3) bekezdése, 237. § (3) bekezdése az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba, amely naptári napot a nemzeti fejlesztési miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
+(7) E törvény 27–29. § (1) bekezdése, 30. §-a, 114. § (6) bekezdése, 125. § (21) bekezdése, 126. § (3) bekezdése, 237. § (3) bekezdése az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba, amely naptári napot a nemzeti fejlesztési miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
 
 (8) E törvény 238. §-a 2016. július 1-jén lép hatályba.
 
