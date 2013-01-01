@@ -1,4 +1,4 @@
-## 12. § E rendelet 1–6. §-a, 9. §-a, valamint 1. melléklete a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2008. április 23-i 2008/48/EK Európai Parlamenti és a Tanácsi irányelvnek való megfelelést szolgálja.
+## való megfelelést szolgálja.
 
 1. melléklet a 83/2010. (III. 25.) Korm. rendelethez
 

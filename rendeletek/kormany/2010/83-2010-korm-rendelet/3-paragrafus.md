@@ -22,10 +22,13 @@ a) a prolongálás (futamidő hosszabbítás) költsége,
 
 b) a késedelmi kamat,
 
-c) egyéb olyan fizetési kötelezettség, amely a szerződésben vállalt kötelezettség nem teljesítéséből származik,
+c)[^1] egyéb olyan fizetési kötelezettség, amely a hitelszerződésben vállalt kötelezettség nem teljesítéséből származik,
 
 d) a közjegyzői díj,
 
 e) kereskedelmi kölcsön vagy kapcsolt hitelszerződés esetén a fogyasztó által a termékek vagy szolgáltatások megvételéért fizetett – a vételáron felüli – díj függetlenül attól, hogy készpénzzel vagy hitelből fizeti, valamint
 
-f) a számlavezetés és a készpénz-helyettesítő fizetési eszköz használatának költségei és a fizetési műveletekkel kapcsolatos egyéb költségek, ha a számla fenntartását a hitelező nem írja elő az adott hitelszerződéshez és költségeit a fogyasztóval kötött szerződésben egyértelműen és külön feltüntették.
+f)[^2] a számlavezetés és a készpénz-helyettesítő fizetési eszköz használatának költségei és a fizetési műveletekkel kapcsolatos egyéb költségek, ha a számla fenntartását a hitelező nem írja elő az adott hitelszerződéshez és költségeit a fogyasztóval kötött hitelszerződésben egyértelműen és külön feltüntették.
+
+[^1]: A 3. § (3) bekezdés c) pontja a 337/2012. (XII. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés f) pontja a 337/2012. (XII. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

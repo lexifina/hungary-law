@@ -6,7 +6,7 @@ a) a lakás-takarékpénztár által nyújtott hitelnél a hitel összege 1 mill
 
 b) más hitelező által nyújtott jelzáloghitelnél a hitel összege 5 millió forint, futamideje 20 év,
 
-c) hitelkártya és fizetési számlához kapcsolódó hitel esetén a hitel összege 375 000 forint, futamideje 1 év,
+c)[^17] hitelkártya és fizetési számlához kapcsolódó hitel esetén a hitel összege 375 000 forint,
 
 d) 1 millió forintos összeghatárig nyújtott – az a)–c) pontba nem tartozó – hitelnél a hitel összege 500 000 forint, futamideje 3 év,
 
@@ -17,3 +17,5 @@ e) 1 millió forint feletti – az a)–c) pontba nem tartozó – hitelnél a h
 (3) Ha az adott hitelt a hitelező nem nyújtja az (1) bekezdésben meghatározott feltételekkel és a hitelező által kínált feltételek érdemben attól eltérőek, abban az esetben a THM számításakor az (1) bekezdésben említett feltételekhez legközelebbi – a hiteltípusra létező – összeget és futamidőt kell figyelembe venni. Ezt a kereskedelmi kommunikációban feltűnő módon jelezni kell.
 
 (4) Az (1) bekezdés alkalmazásában egyenletes törlesztésű hitel az a legfeljebb 6 hónapos türelmi idejű hitel, amelynek visszafizetése havonta, azonos összegű törlesztéssel történik. Azonos összegű törlesztés alatt értendő minden olyan kölcsöntörlesztés, amely esetében a tőketörlesztési időszakban a tőketörlesztés és a kamat forintban vagy devizában meghatározott együttes összege állandó.
+
+[^17]: A 9. § (1) bekezdés c) pontja a 337/2012. (XII. 4.) Korm. rendelet 4. §-a szerint módosított szöveg.
