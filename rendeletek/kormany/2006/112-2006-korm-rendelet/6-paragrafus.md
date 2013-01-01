@@ -6,7 +6,7 @@ b) a szociális intézmény szakmai programja és a foglalkoztatási szakmai pro
 
 c) a szociális foglalkoztatás céljainak megfelelően
 
-végzi-e. A szociális és gyámhivatal az ellenőrzés során a foglalkoztatás helyén, valamint a szociális intézményben helyszíni szemlét tart, ennek keretében megvizsgálja a külön jogszabály szerinti személyi és tárgyi feltételek teljesülését. A szociális és gyámhivatal az ellenőrzés során a szociális intézmény szakmai programja és a foglalkoztatási szakmai program összhangjának megvalósulása tekintetében szakvéleményt kér a szociális foglalkoztatási módszertani intézménytől, amely a szakvéleményt 30 napon belül adja meg.
+végzi-e. A szociális és gyámhivatal az ellenőrzés során a foglalkoztatás helyén, valamint a szociális intézményben helyszíni szemlét tart, ennek keretében megvizsgálja a külön jogszabály szerinti személyi és tárgyi feltételek teljesülését. A szociális és gyámhivatal az ellenőrzés során a szociális intézmény szakmai programja és a foglalkoztatási szakmai program összhangjának megvalósulása tekintetében szakvéleményt kér a Szociális és Gyermekvédelmi Főigazgatóságtól, amely a szakvéleményt 30 napon belül adja meg.
 
 (2)[^44] A szociális és gyámhivatal az ellenőrzésről készült jegyzőkönyvet megküldi a szociális intézménynek és az intézmény fenntartójának, továbbá a folyósító igazgatóságnak.
 
@@ -52,7 +52,7 @@ g)[^50] a szociális intézmény működési engedélye visszavonásra került.
 
 (8)[^52] A Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: Hivatal) a (2) és a (4)–(6) bekezdésben foglaltak szerint – a szociális és gyámhivatal egyidejű értesítése mellett – ellenőrizheti, hogy a szolgáltató működése, tevékenysége megfelel-e a jogszabályokban és a működési engedélyben foglaltaknak.
 
-[^43]: A 6. § (1) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított, záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^43]: A 6. § (1) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított, záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés b) pontja, a 349/2012. (XII. 12.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
 [^44]: A 6. § (2) bekezdése a 371/2007. (XII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés a) pont ac) alpontja szerint módosított szöveg.
 [^45]: A 6. § (3) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^46]: A 6. § (4) bekezdése a 321/2006. (XII. 23.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg.

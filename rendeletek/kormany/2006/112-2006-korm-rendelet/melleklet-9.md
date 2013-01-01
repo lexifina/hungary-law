@@ -14,6 +14,6 @@
 
 ## 93.29 M.n.s. egyéb szórakoztatás, szabadidős tevékenység
 
-9. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^159]
+9. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^160]
 
-[^159]: A 9. számú mellékletet a 210/2006. (X. 17.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 371/2007. (XII. 23.) Korm. rendelet 11. § (3) bekezdésének e) pontja.
+[^160]: A 9. számú mellékletet a 210/2006. (X. 17.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 371/2007. (XII. 23.) Korm. rendelet 11. § (3) bekezdésének e) pontja.

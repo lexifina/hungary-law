@@ -1,3 +1,3 @@
-2. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^149]
+2. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^150]
 
-[^149]: A 2. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.
+[^150]: A 2. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.
