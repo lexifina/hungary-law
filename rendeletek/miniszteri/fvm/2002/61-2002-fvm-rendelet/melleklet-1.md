@@ -1,12 +1,12 @@
-1. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^50]
+1. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^56]
 
 ## A szarvasmarha és a bivaly szaporításának részletes állategészségügyi feltételei
 
 1. A mesterséges termékenyítő állomásra csak olyan bika szállítható,
 
-a) amelyiket a kerületi állategészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: kerületi hivatal) által erre a célra engedélyezett helyen és módon legalább harminc napig elkülönítve tartottak úgy, hogy annak helyén csak a bikával azonos állategészségügyi státuszú egyedek tartózkodtak;
+a)[^57] amelyiket a járási állategészségügyi és élelmiszerellenőrző hivatal (a továbbiakban: járási állategészségügyi hivatal) által erre a célra engedélyezett helyen és módon legalább harminc napig elkülönítve tartottak úgy, hogy annak helyén csak a bikával azonos állategészségügyi státuszú egyedek tartózkodtak;
 
-b) amelyik a kerületi hivatal által elismerten brucellózistól (brucellosis), gümőkórtól (tuberculosis) és leukózistól (szarvasmarha-leukosis) mentes állományból származik, származási állományában BSE (szarvasmarhák szivacsos agyvelőbántalma) nem fordult elő, és az nem került kapcsolatba korábban sem alacsonyabb állategészségügyi státuszú állomány egyedével;
+b)[^58] amelyik a járási hivatal által elismerten brucellózistól (brucellosis), gümőkórtól (tuberculosis) és leukózistól (szarvasmarha-leukosis) mentes állományból származik, származási állományában BSE (szarvasmarhák szivacsos agyvelőbántalma) nem fordult elő, és az nem került kapcsolatba korábban sem alacsonyabb állategészségügyi státuszú állomány egyedével;
 
 c) amelyiknél az elkülönítést megelőző harminc napon belül végzett alábbi vizsgálatok negatív eredményt adtak:
 
@@ -88,4 +88,6 @@ Ettől eltérő, de a campylobacterek, leptospirák és mycoplasmák ellen egyen
 
 Közvetlenül az antibiotikum hígított spermához adását követően a spermát legalább 45 percig legalább 5 °C hőmérsékleten kell tartani.
 
-[^50]: Az 1. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^56]: Az 1. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^57]: Az 1. számú melléklet 1. pont a) alpontja a 151/2012. (XII. 29.) VM rendelet 11. § c) pontja szerint módosított szöveg.
+[^58]: Az 1. számú melléklet 1. pont b) alpontja a 151/2012. (XII. 29.) VM rendelet 11. § d) pontja szerint módosított szöveg.

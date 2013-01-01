@@ -1,4 +1,4 @@
-9/B. §[^19] (1) A 9/A. §-ban megállapított feltételek megfelelően vonatkoznak a petesejtek in vitro megtermékenyítésre, illetve a petefészkek és más szövetek in vitro tenyésztésre történő felhasználására.
+9/B. §[^20] (1) A 9/A. §-ban megállapított feltételek megfelelően vonatkoznak a petesejtek in vitro megtermékenyítésre, illetve a petefészkek és más szövetek in vitro tenyésztésre történő felhasználására.
 
 (2) A donor állatok származási gazdaságai az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság felügyelete alá tartoznak.
 
@@ -8,4 +8,4 @@
 
 (5) A petefészek és egyéb szövet eltávolításához és szállításához használt felszerelést használat előtt meg kell tisztítani és fertőtleníteni vagy sterilizálni kell. A felszerelést kizárólag erre a célra lehet felhasználni.
 
-[^19]: A 9/B. §-t a 114/2012. (XI. 13.) VM rendelet 9. §-a iktatta be.
+[^20]: A 9/B. §-t a 114/2012. (XI. 13.) VM rendelet 9. §-a iktatta be.

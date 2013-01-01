@@ -10,7 +10,7 @@
 
 ## 1. A mesterséges termékenyítő állomásra csak olyan kan szállítható:
 
-## a)[^51] amelyiket az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által erre a célra engedélyezett helyen és módon legalább 40 napig elkülönítetten tartottak úgy, hogy annak helyén csak azonos állategészségügyi státuszú egyedek tartózkodtak;
+## a)[^59] amelyiket az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által erre a célra engedélyezett helyen és módon legalább 40 napig elkülönítetten tartottak úgy, hogy annak helyén csak azonos állategészségügyi státuszú egyedek tartózkodtak;
 
 ## b) amelyik az állategészségügyi hatóság által elismerten brucellózistól, Aujeszky-betegségtől (morbus Aujeszkyí), PRRS-től (sertések szaporítószervi és légzőszervi tünetegyüttese) mentes állományból származik, a származási állományhoz tartozó állat a beszállítást megelőző 12 hónapon belül nem volt ragadós száj- és körömfájás (aphtae epizooticae) ellen vakcinázva, nem állt forgalmi korlátozás alatt, és nem került kapcsolatba korábban sem alacsonyabb állategészségügyi státuszú állomány egyedével;
 
@@ -52,7 +52,7 @@
 
 ## 10. A sperma hígításához használt, engedélyezett hígítónak a leptospirák és mycoplasmák ellen hatékony antibiotikum-kombinációt kell tartalmaznia.
 
-3. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^52]
+3. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^60]
 
 ## A lófélék szaporításának részletes állat-egészségügyi feltételei
 
@@ -124,5 +124,5 @@ III. A kancákra vonatkozó feltételek
 
 1.3. a ló ragályos méhgyulladásának kimutatására irányuló vizsgálatnak kell alávetni, a Taylorella equigenitalis a clitoris árkának és szinuszainak nyálkahártyás felületeiről két egymást követő ivarzási időszakban vett mintából és egy ivarzási időszakban cervix endometriális felületéről vett további mintából történő izolálásával, minden esetben negatív eredménnyel 7–14 napos tenyésztés után.
 
-[^51]: A 2. számú melléklet 1. pont a) alpontja a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^52]: A 3. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^59]: A 2. számú melléklet 1. pont a) alpontja a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^60]: A 3. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-9/A. §[^18] (1) Az in vivo kinyert embriók az e rendeletben foglalt követelményeknek megfelelő spermával történő mesterséges megtermékenyítés útján fogannak, és gyűjtésük, feldolgozásuk és tartósításuk az alábbi feltételek betartásával történik:
+9/A. §[^19] (1) Az in vivo kinyert embriók az e rendeletben foglalt követelményeknek megfelelő spermával történő mesterséges megtermékenyítés útján fogannak, és gyűjtésük, feldolgozásuk és tartósításuk az alábbi feltételek betartásával történik:
 
 a) embriókat engedélyezett embrióátültető állomáson működő embriógyűjtő munkacsoport gyűjti be és dolgozza fel úgy, hogy azok ne kerülhessenek kapcsolatba semmilyen másik tételbe tartozó, e rendelet követelményeinek nem megfelelő embrióval;
 
@@ -22,4 +22,4 @@ f) az embriók kezelése során felhasznált műszalmát, ampullát vagy egyéb 
 
 (6) Az IETS-kézikönyvnek megfelelően minden embriógyűjtő munkacsoportnak a tevékenységéből származó rutinmintát kell beküldenie az életképtelen embriókból vagy petesejtekből, öblítő folyadékokból vagy mosófolyadékokból a NÉBIH-nek, baktérium- és vírusfertőzöttséget ellenőrző hatósági vizsgálat céljára.
 
-[^18]: A 9/A. §-t a 114/2012. (XI. 13.) VM rendelet 9. §-a iktatta be.
+[^19]: A 9/A. §-t a 114/2012. (XI. 13.) VM rendelet 9. §-a iktatta be.
