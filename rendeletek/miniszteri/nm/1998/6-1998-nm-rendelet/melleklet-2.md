@@ -1,4 +1,4 @@
-## M801552A_0
+## JAVASLAT ÚJ BNO KÓDRA
 
 | Felelős: Cím: Telefon Fax: E-mail: |
 
@@ -30,6 +30,6 @@
 
 |  |  | aláírás |
 
-2. számú melléklet a 6/1998. (III. 11.) NM rendelethez[^34]
+2. számú melléklet a 6/1998. (III. 11.) NM rendelethez[^25]
 
-[^34]: A 2. számú melléklet a 26/2001. (VIII. 2.) EüM rendelet 4. §-a (4) bekezdésének a) pontjával megállapított szöveg.
+[^25]: A 2. számú melléklet a 26/2001. (VIII. 2.) EüM rendelet 4. §-a (4) bekezdésének a) pontjával megállapított szöveg.

@@ -51,5 +51,3 @@
 | 67. |  | Összesen (62 ⇒ 66) |  |
 
 5. számú melléklet a 6/1998. (III. 11.) NM rendelethez
-
-Kalkulációs lap orvosi eljárásokhoz

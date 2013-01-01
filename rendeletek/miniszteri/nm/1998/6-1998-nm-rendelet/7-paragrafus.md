@@ -1,4 +1,6 @@
-7. § (1)[^32] A módosított és közzétett finanszírozási kódok és paraméterek használatának és értelmezésének elősegítésére a miniszter rendeletben szabályozza
+## 6. §[^21]
+
+7. § (1)[^22] A módosított és közzétett finanszírozási kódok és paraméterek használatának és értelmezésének elősegítésére a miniszter rendeletben szabályozza
 
 a) az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról,
 
@@ -10,6 +12,8 @@ d) az Egészségbiztosítási Alapból a 959A-L, valamint 9511-9515 homogén bet
 
 szóló szabályokat.
 
-(2) Az évközi módosításokat a GYÓGYINFOK szaklapokban is közzéteszi, melyeket írásban és mágneses adathordozón megküld az OEP és a felhasználó intézetek részére.
+(2)[^23]
 
-[^32]: A 7. § (1) bekezdése a 9/2012. (II. 28.) NEFMI rendelet 11. §-ával megállapított szöveg.
+[^21]: A 6. §-t a 67/1999. (XII. 25.) EüM rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^22]: A 7. § (1) bekezdése a 9/2012. (II. 28.) NEFMI rendelet 11. §-ával megállapított szöveg.
+[^23]: A 7. § (2) bekezdését az 55/2012. (XII. 28.) EMMI rendelet 9. § c) pontja hatályon kívül helyezte.
