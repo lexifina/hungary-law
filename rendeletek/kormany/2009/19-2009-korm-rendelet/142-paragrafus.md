@@ -2,9 +2,9 @@
 
 ## Egyes cégjogi eseményekre vonatkozó közös szabályok
 
-142. §[^405] (1) A GET 122. §-ában meghatározott cégjogi események esetén a kérelmet a cégjogi eseménnyel érintett engedélyes (több érintett engedélyes esetén egyenként) köteles benyújtani a Hivatalhoz.
+142. §[^408] (1) A GET 122. §-ában meghatározott cégjogi események esetén a kérelmet a cégjogi eseménnyel érintett engedélyes (több érintett engedélyes esetén egyenként) köteles benyújtani a Hivatalhoz.
 
-(2)[^406] A GET 123. § (2) bekezdésében meghatározott befolyásszerzés esetén a kérelmet a közvetlen módon befolyást szerezni kívánó köteles a Hivatalnak benyújtani.
+(2)[^409] A GET 123. § (2) bekezdésében meghatározott befolyásszerzés esetén a kérelmet a közvetlen módon befolyást szerezni kívánó köteles a Hivatalnak benyújtani.
 
 (3) A GET 124. §-ában meghatározott ügyletek esetén a kérelmet az érintett engedélyes köteles benyújtani a Hivatalhoz.
 
@@ -20,36 +20,36 @@ d) a hatósági jóváhagyásra irányuló kérelem megnevezését, a hatósági
 
 e) az eljárási díj befizetését tanúsító dokumentumot (kérelmezőnként),
 
-f)[^407]
+f)[^410]
 
-g)[^408] mindazon személyek közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját, illetve annak hiteles másolatát, akik a kérelemhez csatolt iratokat aláírták,
+g)[^411] mindazon személyek közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját, illetve annak hiteles másolatát, akik a kérelemhez csatolt iratokat aláírták,
 
 h) a – változással, kérelemmel – érintett engedélyes legfőbb döntéshozó szervének a kérelem tárgyát képező ügyletről szóló döntését,
 
 i) a kérelem tárgyát képező ügyletre vonatkozó szerződéstervezetet,
 
-j)[^409] befolyást szerezni kívánó vállalkozás esetében a vállalkozás létrejöttére irányadó jog szerinti nyilvántartásba vételért felelős hatóság által kiállított igazolást a vállalkozás nyilvántartásba vételéről és a nyilvántartott adatokról, valamint a tényleges tulajdonosnak a megnevezését olyan nem szabályozott tőzsdén jegyzett társaság esetében, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pontja szerinti tényleges tulajdonosa nem megismerhető.
+j)[^412] befolyást szerezni kívánó vállalkozás esetében a vállalkozás létrejöttére irányadó jog szerinti nyilvántartásba vételért felelős hatóság által kiállított igazolást a vállalkozás nyilvántartásba vételéről és a nyilvántartott adatokról, valamint a tényleges tulajdonosnak a megnevezését olyan nem szabályozott tőzsdén jegyzett társaság esetében, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pontja szerinti tényleges tulajdonosa nem megismerhető.
 
 (5) A (2) bekezdés szerinti kérelemhez – a (4) bekezdésben meghatározottakon túlmenően –mellékelni kell továbbá:
 
-a)[^410]
+a)[^413]
 
-b)[^411] a befolyást szerezni kívánó külföldi vállalkozás esetén a vállalkozás létrejöttére irányadó jog szerinti nyilvántartásba vételért felelős hatóság által kiállított igazolást a vállalkozás nyilvántartásba vételéről és a nyilvántartott adatokról és annak magyar nyelvű fordítását,
+b)[^414] a befolyást szerezni kívánó külföldi vállalkozás esetén a vállalkozás létrejöttére irányadó jog szerinti nyilvántartásba vételért felelős hatóság által kiállított igazolást a vállalkozás nyilvántartásba vételéről és a nyilvántartott adatokról és annak magyar nyelvű fordítását,
 
 c) a befolyást szerezni kívánó kérelmező és kapcsolt vállalkozásai magyarországi energiaipari befektetéseinek és részesedéseinek bemutatását a GET és a villamos energiáról szóló törvény hatálya alá tartozó engedélyesekben,
 
-d)[^412]
+d)[^415]
 
 e) a befolyásszerzésre irányuló ügyletet megelőző, valamint az ügylet zárása után kialakuló társasági (engedélyesi) struktúrát mutató ábrát, feltüntetve a közvetlen és közvetett tulajdoni és irányítási viszonyokat, továbbá az engedélyesi szakszemélyzet létszámának változását.
 
-(6)[^413] Ha a kérelmező – kivéve, ha az az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi gazdálkodó szervezeten kívüli külföldi vállalkozás – a kérelemhez az (5) bekezdés b) pontjában előírtakat nem csatolja, a Hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet, illetve a külföldi vállalkozás nyilvántartását vezető hatóságot.
+(6)[^416] Ha a kérelmező – kivéve, ha az az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi gazdálkodó szervezeten kívüli külföldi vállalkozás – a kérelemhez az (5) bekezdés b) pontjában előírtakat nem csatolja, a Hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet, illetve a külföldi vállalkozás nyilvántartását vezető hatóságot.
 
-[^405]: A Vhr. 142. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^406]: A Vhr. 142. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (10) bekezdése szerint módosított szöveg.
-[^407]: A Vhr. 142. § (4) bekezdés f) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^408]: A Vhr. 142. § (4) bekezdés g) pontja a 163/2009. (VIII. 6.) Korm. rendelet 40. § (15) bekezdése szerint módosított szöveg. E módosító rendelet 41. § (4) bekezdése alapján ahol kormányrendelet vagy miniszteri rendelet aláírási címpéldány benyújtását írja elő, e kötelezettség ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta benyújtásával is teljesíthető.
-[^409]: A Vhr. 142. § (4) bekezdés j) pontját a 411/2012. (XII. 28.) Korm. rendelet 25. §-a iktatta be.
-[^410]: A Vhr. 142. § (5) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^411]: A Vhr. 142. § (5) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 667. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^412]: A Vhr. 142. § (5) bekezdés d) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^413]: A Vhr. 142. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 667. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^408]: A Vhr. 142. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^409]: A Vhr. 142. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (10) bekezdése szerint módosított szöveg.
+[^410]: A Vhr. 142. § (4) bekezdés f) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^411]: A Vhr. 142. § (4) bekezdés g) pontja a 163/2009. (VIII. 6.) Korm. rendelet 40. § (15) bekezdése szerint módosított szöveg. E módosító rendelet 41. § (4) bekezdése alapján ahol kormányrendelet vagy miniszteri rendelet aláírási címpéldány benyújtását írja elő, e kötelezettség ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta benyújtásával is teljesíthető.
+[^412]: A Vhr. 142. § (4) bekezdés j) pontját a 411/2012. (XII. 28.) Korm. rendelet 25. §-a iktatta be.
+[^413]: A Vhr. 142. § (5) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^414]: A Vhr. 142. § (5) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 667. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^415]: A Vhr. 142. § (5) bekezdés d) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^416]: A Vhr. 142. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 667. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

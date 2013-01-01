@@ -1,5 +1,5 @@
 ## Üzemi és Kereskedelmi Szabályzat
 
-118. §[^351] Az ÜKSZ tartalmi követelményeit e rendelet 3. számú melléklete tartalmazza.
+118. §[^354] Az ÜKSZ tartalmi követelményeit e rendelet 3. számú melléklete tartalmazza.
 
-[^351]: A Vhr. 118. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^354]: A Vhr. 118. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

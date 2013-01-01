@@ -1,4 +1,4 @@
-45. §[^139] A jelentős piaci erővel rendelkező engedélyes azonosítása során a Hivatal a következők szerint jár el:
+45. §[^141] A jelentős piaci erővel rendelkező engedélyes azonosítása során a Hivatal a következők szerint jár el:
 
 a) az engedélyes, az általa a Tpvt. szerint irányított vállalatok, valamint az őt irányító vállalat, valamint az engedélyest irányító vállalat által irányított vállalatok piaci részesedését az engedélyes piaci erejének megítélésekor az azonos termékpiacok tekintetében együtt kezeli, a kapcsolódó piacok tekintetében pedig fokozottan figyelembe veszi,
 
@@ -6,4 +6,4 @@ b) a piaci részesedések számításakor az értékesített földgáz mennyisé
 
 c) ha két vagy több engedélyes az érintett piac sajátosságaiból kifolyólag képes piaci magatartásának összehangolására, a Hivatal a két vagy több engedélyest külön-külön jelentős piaci erővel rendelkezőnek azonosíthatja.
 
-[^139]: A Vhr. 45. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^141]: A Vhr. 45. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

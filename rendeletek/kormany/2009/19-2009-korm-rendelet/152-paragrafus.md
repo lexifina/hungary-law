@@ -1,3 +1,3 @@
-152. §[^440]
+152. §[^443]
 
-[^440]: A Vhr. 152. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^443]: A Vhr. 152. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

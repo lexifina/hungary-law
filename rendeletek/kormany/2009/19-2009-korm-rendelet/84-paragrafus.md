@@ -1,3 +1,3 @@
-84. §[^253] A rendszerhasználó köteles a szerződéses biztosíték (banki letét, bankgarancia, vagy egyéb biztosíték) érvényességét a rendszerüzemeltető GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződésében foglalt határidőig biztosítani.
+84. §[^256] A rendszerhasználó köteles a szerződéses biztosíték (banki letét, bankgarancia, vagy egyéb biztosíték) érvényességét a rendszerüzemeltető GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződésében foglalt határidőig biztosítani.
 
-[^253]: A Vhr. 84. §-a a 378/2011. (XII. 31.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^256]: A Vhr. 84. §-a a 378/2011. (XII. 31.) Korm. rendelet 62. §-ával megállapított szöveg.
