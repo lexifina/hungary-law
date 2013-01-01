@@ -4,6 +4,6 @@
 
 a) a harmadik országbeli állampolgár az előzetes megállapodásban meghatározott munkakörhöz szükséges felsőfokú szakmai képesítéssel rendelkezik, és
 
-b)[^1] a harmadik országbeli állampolgárok Magyarország területén történő engedélymentes foglalkoztatásának szabályairól szóló jogszabály szerint a harmadik országbeli állampolgár magyarországi foglalkoztatásához nincs szükség engedélyre.
+b)[^2] a harmadik országbeli állampolgárok Magyarország területén történő engedélymentes foglalkoztatásának szabályairól szóló jogszabály szerint a harmadik országbeli állampolgár magyarországi foglalkoztatásához nincs szükség engedélyre.
 
-[^1]: A 2. § b) pontja a 324/2011. (XII. 28.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^2]: A 2. § b) pontja a 324/2011. (XII. 28.) Korm. rendelet 32. §-a szerint módosított szöveg.

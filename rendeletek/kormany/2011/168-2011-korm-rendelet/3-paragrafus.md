@@ -12,7 +12,7 @@ d) a harmadik országbeli állampolgár megfelel a jogszabályban előírt, vala
 
 a) legalább tizenöt nappal korábban, de hatvan napnál nem régebben nyújtott be, vagy hatvan napnál régebben nyújtott be, de azt legalább hatvannaponként megújította, és a legutolsó megújítás a kérelem benyújtását megelőzően hatvan napnál nem régebben történt, és
 
-b) az (5) bekezdésben foglalt kivétellel az előzetes megállapodást kötő foglalkoztató a munkaerőigényt a munkaügyi központnak annál a kirendeltségénél (a továbbiakban: kirendeltség) jelentette be, amelynek területén a harmadik országbeli állampolgár foglalkoztatása történik.
+b)[^3] az (5) bekezdésben foglalt kivétellel az előzetes megállapodást kötő foglalkoztató a munkaerőigényt a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának annál a munkaügyi kirendeltségénél (a továbbiakban: kirendeltség) jelentette be, amelynek területén a harmadik országbeli állampolgár foglalkoztatása történik.
 
 (3) Ha a harmadik országbeli állampolgár foglalkoztatásának helye több különböző megye területén található, az (1) bekezdés b)–c) pontjában meghatározott feltételnek – a (4) bekezdésben meghatározott kivétellel – a foglalkoztató székhelye szerinti megyében kell fennállnia. Ezen túlmenően az engedély kiadásának az is feltétele, hogy a munkavégzéssel érintett többi megye területén ne álljon rendelkezésre olyan kiközvetíthető munkaerő, aki a tevékenység ellátására rendelkezik a jogszabályban előírt, valamint a foglalkoztató munkaerőigényében megjelölt alkalmazási feltételekkel.
 
@@ -25,3 +25,5 @@ a) ha a munka természetéből adódóan, a munkavégzés több megye vagy kiren
 b) ha a harmadik országbeli állampolgárt a foglalkoztató több – különböző megye vagy kirendeltség területén lévő – telephelyén kívánja foglalkoztatni, hogy a foglalkoztató a székhelye szerinti kirendeltségnél
 
 jelentse be.
+
+[^3]: A 3. § (2) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 85. §-a szerint módosított szöveg.
