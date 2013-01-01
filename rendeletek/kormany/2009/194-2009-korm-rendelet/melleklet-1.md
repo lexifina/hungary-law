@@ -1,6 +1,6 @@
-## 23. §[^18] E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelet (a továbbiakban: Mkr.) 7. §-ával megállapított 1. § (1) bekezdését és 5. §-át az Mkr. hatálybalépését követően[^19] indult eljárásokban kell alkalmazni.
+## 24. §[^30] E rendeletnek az építésüggyel összefüggő egyes kormányrendeletek módosításáról szóló 322/2012. (XI. 16.) Korm. rendelettel megállapított rendelkezéseit a 2013. január 1-jét követően indult eljárásokban kell alkalmazni.
 
-1. melléklet a 194/2009. (IX. 15.) Korm. rendelethez
+1. melléklet a 194/2009. (IX. 15.) Korm. rendelethez[^31]
 
-[^18]: A 23. §-t a 228/2010. (VIII. 13.) Korm. rendelet 7. § (4) bekezdése iktatta be.
-[^19]: A hatálybalépés napja: 2010. augusztus 28.
+[^30]: A 24. §-t a 322/2012. (XI. 16.) Korm. rendelet 101. §-a iktatta be.
+[^31]: Az 1. melléklet a 322/2012. (XI. 16.) Korm. rendelet 103. § e)–f) pontja szerint módosított szöveg.

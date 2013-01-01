@@ -1,6 +1,6 @@
 ## Az integrált engedélyezési eljárások fajtái
 
-## I. Építmények építési engedélye és az építőipari kivitelezésből származó zaj határértékének túllépésének engedélye:
+## I. Építmények építési engedélye és az építőipari kivitelezésből származó zaj határértéke túllépésének engedélye:
 
 | Sorszám | Eljárás | Közreműködő hatóság |
 
@@ -32,7 +32,7 @@
 
 | 2. | Az építményben vagy építményhez kapcsolódó berendezés vagy rendszer engedélyezési eljárása |  |
 
-3. melléklet a 194/2009. (IX. 15.) Korm. rendelethez.
+3. melléklet a 194/2009. (IX. 15.) Korm. rendelethez.[^33]
 
 Az integrált hatásvizsgálati eljárások fajtái
 
@@ -40,7 +40,7 @@ I. Építmények engedélyezését megelőző, követelményeket előzetesen tis
 
 | Sorszám | Eljárás | Közreműködő hatóság |
 
-| 1. | Építmények elvi építési engedélyezési eljárásai | a 4. sor szerinti eljárást lefolytató hatóság |
+| 1. |  | a 4. sor szerinti eljárást lefolytató hatóság |
 
 | 2. | Egyéb közlekedési építmények elvi építési engedélyezési eljárásai |  |
 
@@ -54,7 +54,7 @@ II. Építmények engedélyezését megelőző, követelményeket előzetesen ti
 
 | Sorszám | Eljárás | Közreműködő hatóság |
 
-| 1. | Építmények elvi építési engedélyezési eljárásai | a 3. sor szerinti eljárást lefolytató hatóság |
+| 1. |  | a 3. sor szerinti eljárást lefolytató hatóság |
 
 | 2. | Egyéb közlekedési építmények elvi építési engedélyezési eljárásai |  |
 
@@ -64,8 +64,10 @@ III. Építmények engedélyezését megelőző, követelményeket előzetesen t
 
 | Sorszám | Eljárás | Közreműködő hatóság |
 
-| 1. | Építmények elvi építési engedélyezési eljárásai | az 5. §-ban meghatározott építésügyi hatóság |
+| 1. |  | az 5. §-ban meghatározott építésügyi hatóság |
 
 | 2. | Egyéb közlekedési építmények elvi építési engedélyezési eljárásai |  |
 
 | 3. | Erdő igénybevételének engedélyezési eljárása |  |
+
+[^33]: A 3. melléklet a 322/2012. (XI. 16.) Korm. rendelet 103. § g) pontja szerint módosított szöveg.

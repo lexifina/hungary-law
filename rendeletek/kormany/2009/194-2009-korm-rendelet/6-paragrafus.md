@@ -1,3 +1,5 @@
+## 5. §[^3] Ha az integrált eljárásban általános építésügyi hatósági eljárás is lefolytatásra kerül, akkor közreműködő és társhatóságként első és másodfokon az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló kormányrendeletben az integrált eljárásban való közreműködő vagy társhatósági feladatok ellátására kijelölt hatóság az eljáró általános építésügyi hatóság.
+
 ## A hatóságok közötti együttműködés
 
 6. § (1) Az integrált eljárásban a közreműködő hatóság, a társhatóság és a szakhatóság a tényállás tisztázása érdekében köteles a legszélesebb körű együttműködésre és az egymás közötti hatékony kommunikáció biztosítására.
@@ -39,3 +41,5 @@ i) a bíróságnak a végrehajtás felfüggesztéséről hozott döntését,
 j) a bíróságnak az ügy érdemében hozott döntését.
 
 (7) A társhatóságok közötti együttműködés során a társhatósági minőség nem érinti az ágazati jogszabályokban előírt követelményeket.
+
+[^3]: Az 5. § a 322/2012. (XI. 16.) Korm. rendelet 95. §-ával megállapított szöveg.
