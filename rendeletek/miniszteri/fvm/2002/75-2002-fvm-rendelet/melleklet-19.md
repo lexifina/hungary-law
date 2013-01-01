@@ -1,10 +1,10 @@
-19. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez
+19. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^41]
 
-………………………… Megyei Állategészségügyi Ikt. sz.:
+………………………… Járási Állategészségügyi Ikt. sz.:
 
 és Élelmiszer-ellenőrző Állomás Tárgy: megfigyelési zárlat feloldása
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ………………………………….
 
@@ -14,7 +14,7 @@ A …………………………………… szám alatti határozatomban klassz
 
 feloldom.
 
-A határozat ellen a kézhezvételtől számított 15 napon belül a ………………………………… Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
+A határozat ellen a kézhezvételtől számított 15 napon belül a ………………………………… Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
 
 A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -30,7 +30,7 @@ Dátum: …………………………………… ………………………�
 
 ……………………………………
 
-kerületi főállatorvos
+járási főállatorvos
 
 A határozatot kapják:
 
@@ -51,3 +51,5 @@ A határozatot kapják:
 ____________
 
 * A nem kívánt rész törlendő.
+
+[^41]: A 19. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-11. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez
+11. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^34]
 
-………………………… Megyei Állategészségügyi Ikt. sz.:
+………………………… Járási Állategészségügyi Ikt. sz.:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: megfigyelési zárlat elrendelése
+és Élelmiszer-ellenőrző Tárgy: megfigyelési zárlat elrendelése
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ………………………………….
 
@@ -28,7 +28,7 @@ A helyi zárlat alá vont állomány létszáma:
 
 ## A zárlat ellenőrzésével ................................................................................………...................... hatósági állatorvost bízom meg.
 
-## A határozat ellen a kézhezvételtől számított 15 napon belül a ...................................................... Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomnál benyújtott fellebbezéssel lehet élni. A határozat fellebbezésre tekintet nélkül végrehajtandó.
+## A határozat ellen a kézhezvételtől számított 15 napon belül a ...................................................... Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz címzett, hivatalomnál benyújtott fellebbezéssel lehet élni. A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
 ## INDOKOLÁS
 
@@ -42,7 +42,7 @@ A helyi zárlat alá vont állomány létszáma:
 
 ## ......................................................................
 
-## kerületi főállatorvos
+## járási főállatorvos
 
 ## A határozatot kapják:
 
@@ -63,3 +63,5 @@ A helyi zárlat alá vont állomány létszáma:
 ___________
 
 * A nem kívánt rész törlendő.
+
+[^34]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.

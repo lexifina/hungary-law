@@ -1,8 +1,8 @@
 ## A vágóhídon vagy szállítóeszközön lévő sertéseken észlelt klasszikus sertéspestis esetén hozandó intézkedések
 
-16. § (1) Ha a klasszikus sertéspestis gyanúja vágóhídon vagy szállítás közben kerül megállapításra, a kerületi főállatorvos haladéktalanul megkezdi a betegség megállapítása vagy kizárása érdekében a járványtani vizsgálatot a diagnosztikai kézikönyvben foglalt eljárás alapján.
+16. § (1)[^23] Ha a klasszikus sertéspestis gyanúja vágóhídon vagy szállítás közben kerül megállapításra, a járási főállatorvos haladéktalanul megkezdi a betegség megállapítása vagy kizárása érdekében a járványtani vizsgálatot a diagnosztikai kézikönyvben foglalt eljárás alapján.
 
-(2) Ha a klasszikus sertéspestis előfordulását valamely vágóhídon vagy szállítóeszközön észlelik, a kerületi főállatorvos elrendeli
+(2)[^24] Ha a klasszikus sertéspestis előfordulását valamely vágóhídon vagy szállítóeszközön észlelik, a járási főállatorvos elrendeli
 
 a) a vágóhídon vagy a szállítóeszközön lévő valamennyi sertés azonnali leölését;
 
@@ -17,3 +17,6 @@ e) a klasszikus sertéspestis vírusa izolátumának vizsgálatát a diagnosztik
 f) a 7. §-ban foglalt intézkedéseket abban a gazdaságban, ahonnan a fertőzött sertések, illetve azok hullái származnak, valamint a többi kontaktgazdaságban. A fertőzött sertések vagy hullák származási helyére – a járványtani vizsgálat függvényében – az 5. § (1) bekezdésében leírt intézkedéseket kell alkalmazni.
 
 (3) A vágóhíd a 14. § szerint elvégzett takarítási és fertőtlenítési műveletek befejezését követő legalább 24 óráig nem fogadhat levágásra szánt állatot.
+
+[^23]: A 16. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^24]: A 16. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.

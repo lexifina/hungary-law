@@ -16,7 +16,7 @@ c) a klasszikus sertéspestis laboratóriumi vizsgálatokkal történő megálla
 
 d) a klasszikus sertéspestis kimutatására szolgáló laboratóriumi vizsgálatokat, beleértve:
 
-da) a klasszikus sertéspestis vírusa és egyéb, a pestivírus[^3] genusba tartozó vírus közötti differenciáldiagnosztikai teszteket, és
+da) a klasszikus sertéspestis vírusa és egyéb, a pestivírus[^27] genusba tartozó vírus közötti differenciáldiagnosztikai teszteket, és
 
 db) amennyiben rendelkezésre állnak, a markervakcina és klasszikus sertéspestis vadvírusa által termelt ellenanyagok megkülönböztetésére szolgáló megbízható teszteket;
 
@@ -30,4 +30,4 @@ e) a klasszikus sertéspestis-izolátumok genotipizálására szolgáló laborat
 
 (7) A diagnosztikai eljárások során a diagnosztikai kézikönyvben foglaltakat, a diagnosztikai kézikönyv megjelenéséig e rendelet 6. számú mellékletében foglalt diagnosztikai eljárásokat kell alkalmazni.
 
-[^3]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
+[^27]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.

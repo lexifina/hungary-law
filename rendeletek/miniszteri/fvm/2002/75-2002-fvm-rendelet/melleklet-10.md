@@ -1,10 +1,10 @@
-10. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez
+10. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^33]
 
-.................. Megyei Állategészségügyi Ikt. sz.:
+.................. Járási Állategészségügyi Ikt. sz.:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: leölési határozat
+és Élelmiszer-ellenőrző Tárgy: leölési határozat
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ......................................................
 
@@ -20,7 +20,7 @@ rendelem el.
 
 A helyi zárlat alá vont állomány létszáma:
 
-## 2M06058_0
+## 2K38970O_0
 
 |  | tenyészkan |  | db |
 
@@ -54,7 +54,7 @@ A helyi zárlat alá vont állomány létszáma:
 
 ## ......................................................................
 
-## kerületi főállatorvos
+## járási főállatorvos
 
 ## A határozatot kapják:
 
@@ -69,3 +69,5 @@ A helyi zárlat alá vont állomány létszáma:
 ___________
 
 * A nem kívánt rész törlendő.
+
+[^33]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg. [Az e módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint a „Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz” szövegrész helyébe a „Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz” szöveg lép, nem vezethető át.]

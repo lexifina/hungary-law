@@ -1,10 +1,10 @@
-17. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez
+17. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^39]
 
-………………………… Megyei Állategészségügyi Ikt. sz.:
+………………………… Járási Állategészségügyi Ikt. sz.:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: községi zárlat feloldása
+és Élelmiszer-ellenőrző Tárgy: helyi zárlat feloldása
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ………………………………….
 
@@ -14,7 +14,7 @@ A …………………………………… szám alatt elrendelt klasszikus* (
 
 feloldom.
 
-A határozat ellen a kézhezvételtől számított 15 napon belül a ………………………………… Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
+A határozat ellen a kézhezvételtől számított 15 napon belül a ………………………………… Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
 
 A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -32,7 +32,7 @@ Dátum: …………………………………… ………………………�
 
 ……………………………………
 
-kerületi főállatorvos
+járási főállatorvos
 
 A határozatot kapják:
 
@@ -51,3 +51,5 @@ A határozatot kapják:
 __________
 
 * A nem kívánt rész törlendő.
+
+[^39]: A 17. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.

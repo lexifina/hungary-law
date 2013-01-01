@@ -1,10 +1,10 @@
-12. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^8]
+12. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^35]
 
-………………………… Megyei Állategészségügyi Ikt. sz.:
+………………………… Járási Állategészségügyi Ikt. sz.:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: községi zárlat elrendelése
+és Élelmiszer-ellenőrző Tárgy: községi zárlat elrendelése
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ………………………………….
 
@@ -50,7 +50,7 @@ A községi zárlat alatt álló terület határait az utak mellett jól láthat
 
 A községi zárlatról a zárlati terület lakosságát a helyben kialakult módon értesíteni kell.
 
-A határozat ellen a kézhezvételtől számított 15 napon belül a .................................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomnál benyújtott fellebbezéssel lehet élni.
+A határozat ellen a kézhezvételtől számított 15 napon belül a .................................................. Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz címzett, hivatalomnál benyújtott fellebbezéssel lehet élni.
 
 A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -66,7 +66,7 @@ Dátum: ........................................................................
 
 ......................................................................
 
-kerületi főállatorvos
+járási főállatorvos
 
 A határozatot kapják:
 
@@ -86,4 +86,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^8]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
+[^35]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg. A 12. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.

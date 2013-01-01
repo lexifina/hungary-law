@@ -1,6 +1,6 @@
 ## Intézkedések a községi zárlat területén
 
-## 10. § A kerületi főállatorvosnak a községi zárlat területén a következő intézkedések végrehajtásáról kell gondoskodni:
+## 10. §[^14] A járási főállatorvosnak a községi zárlat területén a következő intézkedések végrehajtásáról kell gondoskodni:
 
 a) a sertéstartók bejelentése alapján – amilyen hamar csak lehetséges – minden gazdaságot és azok sertésállományát nyilvántartásba vesz. Ezeket a gazdaságokat a községi zárlat létrehozását követő hét napon belül hatósági állatorvosnak kell felkeresnie a sertések klinikai vizsgálata, valamint a sertések azonosító jelölésének ellenőrzése céljából;
 
@@ -23,3 +23,5 @@ fc) kivételes esetben a községi zárlaton belüli más gazdaságba;
 g) sertések ondója, petesejtjei és embriói nem vihetők ki a községi zárlat területén lévő gazdaságból;
 
 h) mindenki, aki a gazdaságba be- vagy onnan kilép, köteles betartani a klasszikus sertéspestisvírus elhurcolásának megelőzésére hozott hatósági intézkedéseket.
+
+[^14]: A 10. § nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.

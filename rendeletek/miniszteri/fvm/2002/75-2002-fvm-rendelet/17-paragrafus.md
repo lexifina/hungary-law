@@ -14,13 +14,13 @@ ac) kidolgozza a betegség felszámolásának tervét, amelyet jóváhagyásra b
 
 ad) ellenőrzéseket végez, hogy igazolja a klasszikus sertéspestisnek a fertőzött területen történő megszüntetésére hozott intézkedések hatékonyságát;
 
-b) a kijelölt fertőzött területen a kerületi főállatorvos útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és különösen elrendeli:
+b)[^25] a kijelölt fertőzött területen a járási főállatorvos útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és különösen elrendeli:
 
 ba) valamennyi gazdaságban a sertések korcsoportok szerinti nyilvántartásba vételét. A nyilvántartás adatait a tulajdonosnak naprakészen kell vezetnie, azt a hatósági állatorvos kérésére be kell mutatni, aki az adatokat minden szemle alkalmával ellenőrzi. Azokban a gazdaságokban, ahol szabadon tartják a sertéseket, az első számlálást becslés alapján is el lehet végezni,
 
 bb) a gazdaságban lévő összes sertésnek a szállásán vagy más olyan helyen tartását, ahol a vaddisznóktól el lehet őket különíteni. A vaddisznók nem férhetnek hozzá olyan anyagokhoz, amelyekkel a gazdaságban lévő sertések később érintkezhetnek,
 
-bc) hogy a gazdaságba nem léphet be, vagy azt nem hagyhatja el sertés, kivéve, ha a járványügyi helyzetre tekintettel a kerületi főállatorvos engedélyezi,
+bc)[^26] hogy a gazdaságba nem léphet be, vagy azt nem hagyhatja el sertés, kivéve, ha a járványügyi helyzetre tekintettel a járási főállatorvos engedélyezi,
 
 bd) a sertéstartó épületek, illetve a gazdaság ki- és bejáratánál megfelelő fertőtlenítési eszköz elhelyezését,
 
@@ -37,3 +37,6 @@ c) intézkedik, hogy az összes, a kijelölt fertőzött területen kilőtt vagy
 d) intézkedik, hogy a klasszikus sertéspestis vírusának izolátumát a vírus genotípusának meghatározása céljából vessék alá a diagnosztikai kézikönyvben előírt laboratóriumi eljárásnak.
 
 (3) Ha a klasszikus sertéspestis olyan területen lépett fel vaddisznókban, amely egy másik állam területéhez közel esik, az érintett államokkal együtt kell működni a betegség felszámolására irányuló intézkedések meghozatalában.
+
+[^25]: A 17. § (2) bekezdés b) pontjának nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^26]: A 17. § (2) bekezdés b) pont bc) alpontja a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.

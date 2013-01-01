@@ -56,13 +56,13 @@
 
 ## * A nem kívánt rész törlendő.
 
-15. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^9]
+15. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^37]
 
-………………………… Megyei Állategészségügyi Ikt. sz.:
+………………………… Járási Állategészségügyi Ikt. sz.:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: takarítás, fertőtlenítés elrendelése
+és Élelmiszer-ellenőrző Tárgy: takarítás, fertőtlenítés elrendelése
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ………………………………….
 
@@ -78,7 +78,7 @@ A munkát a 75/2002. (VIII. 16.) FVM rendeletben leírtak szerint kell elvégezn
 
 A takarítás és fertőtlenítés felügyeletével …………………………………… hatósági állatorvost bízom meg.
 
-A határozat ellen a kézhezvételtől számított 15 napon belül a ………………………………… Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomnál benyújtott fellebbezéssel lehet élni.
+A határozat ellen a kézhezvételtől számított 15 napon belül a ………………………………… Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz címzett, hivatalomnál benyújtott fellebbezéssel lehet élni.
 
 A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -86,9 +86,7 @@ INDOKOLÁS
 
 …………………………………… állattartó ……………………………… telepen (udvarban) klasszikus* (afrikai)* sertéspestis fertőzöttség került megállapításra. A zárlat alatt álló állományt leölték. A takarítás és fertőtlenítés a zárlat területén maradt kórokozók ártalmatlanítása miatt szükséges.
 
-A határozat az állategészségügyről szóló 1995. évi XCI. törvény 6. §-ának (4) bekezdésén, valamint a 75/2002.
-
-(VIII. 16. ) FVM rendelet .... §-án alapul.
+A határozat az állategészségügyről szóló 1995. évi XCI. törvény 6. §-ának (4) bekezdésén, valamint a 75/2002. (VIII. 16. ) FVM rendelet .... §-án alapul.
 
 A jogorvoslati lehetőséget az 1957. évi IV. törvény 62. §-a alapján biztosítottam.
 
@@ -98,7 +96,7 @@ Dátum: …………………………………… …………………
 
 ……………………………………
 
-kerületi főállatorvos
+járási főállatorvos
 
 A határozatot kapják:
 
@@ -112,4 +110,4 @@ __________
 
 * A nem kívánt rész törlendő.
 
-[^9]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
+[^37]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg. A 15. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-13. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez
+13. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^36]
 
-………………………… Megyei Állategészségügyi Ikt. sz:
+………………………… Járási Állategészségügyi Ikt. sz:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: védőkörzet elrendelése
+és Élelmiszer-ellenőrző Tárgy: védőkörzet elrendelése
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ………………………………….
 
@@ -58,7 +58,7 @@ A határozatot kapják:
 
 1. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
 
-2. Kerületi főállatorvos
+2. Járási főállatorvos
 
 3. Állami feladattal megbízott magánállatorvos(ok)
 
@@ -77,3 +77,5 @@ A határozatot kapják:
 ___________
 
 * A nem kívánt rész törlendő.
+
+[^36]: A 13. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.

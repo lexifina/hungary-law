@@ -1,6 +1,6 @@
-## 11. § Amennyiben a 10. §-ban megállapított tilalmak további járványkitörések miatt 30 napon túl is fennmaradnak, és ennek következtében a sertések tartásában állatvédelmi vagy más problémák merülnek fel, a 12. § (1)–(3) bekezdésében felsorolt feltételektől függően a kerületi főállatorvos – a sertéstartó indokolt kérésére – engedélyezheti a sertések közvetlen elszállítását a községi zárlaton belüli gazdaságból a 10. § fa)–fc) pontjaiban foglaltak szerint.
+## 11. §[^15] Amennyiben a 10. §-ban megállapított tilalmak további járványkitörések miatt 30 napon túl is fennmaradnak, és ennek következtében a sertések tartásában állatvédelmi vagy más problémák merülnek fel, a 12. § (1)–(3) bekezdésében felsorolt feltételektől függően a járási főállatorvos – a sertéstartó indokolt kérésére – engedélyezheti a sertések közvetlen elszállítását a községi zárlaton belüli gazdaságból a 10. § fa)–fc) pontjaiban foglaltak szerint.
 
-12. § (1) A kerületi főállatorvos engedélyezheti a sertések elszállítását az érintett gazdaságból, a következő feltételekkel:
+12. § (1)[^16] A járási főállatorvos engedélyezheti a sertések elszállítását az érintett gazdaságból, a következő feltételekkel:
 
 a) a hatósági állatorvos a gazdaságban elvégezte a sertések – különösen az elszállításra kerülő sertések – klinikai vizsgálatát, beleértve egy részük hőmérőzését, valamint ellenőrizte a nyilvántartást és a sertések azonosítására szolgáló jelöléseket;
 
@@ -41,3 +41,6 @@ A kezelést az állomás által kijelölt helyen, hatósági állatorvos felügy
 a) a takarítást és a fertőtlenítést a fertőzött gazdaságokban el nem végezték;
 
 b) a sertések klinikai és laboratóriumi vizsgálatát a diagnosztikai kézikönyv szerint valamennyi gazdaságban elvégezték. A vizsgálatokat addig nem szabad elvégezni, amíg a fertőzött gazdaságban az előzetes takarítás és fertőtlenítés befejezése után 30 nap el nem telt.
+
+[^15]: A 11. § a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^16]: A 12. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.

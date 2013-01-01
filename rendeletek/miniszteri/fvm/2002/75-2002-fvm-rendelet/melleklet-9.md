@@ -22,13 +22,13 @@
 
 ## gc) kommunikációs technikai gyakorlaton azért, hogy megszervezzen egy információs hadjáratot tekintettel egy folyamatban lévő járványra a hatóságokat, sertéstartókat és az állatorvosokat megcélozva.
 
-9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez
+9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^32]
 
-.................. Megyei Állategészségügyi Ikt. sz.:
+.................. Járási Állategészségügyi Ikt. sz.:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: helyi zárlat elrendelése
+és Élelmiszer-ellenőrző Tárgy: helyi zárlat elrendelése
 
-Kerületi Főállatorvosi Hivatal Előadó:
+Hivatala Előadó:
 
 ......................................................
 
@@ -44,7 +44,7 @@ rendelem el.
 
 A zárlat által érintett sertésállomány:
 
-## 2M06057_0
+## 2K38970N_0
 
 |  | tenyészkan |  | db | ebből beteg: |  | db |
 
@@ -74,7 +74,7 @@ A zárlat által érintett sertésállomány:
 
 ## A helyi zárlat ellenőrzésével .............................. hatósági állatorvost bízom meg.
 
-## A határozat ellen a kézhezvételtől számított 15 napon belül, a ................................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
+## A határozat ellen a kézhezvételtől számított 15 napon belül, a ................................................. Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
 
 ## A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -90,7 +90,7 @@ A zárlat által érintett sertésállomány:
 
 ## ......................................................................
 
-## kerületi főállatorvos
+## járási főállatorvos
 
 ## A határozatot kapják:
 
@@ -111,3 +111,5 @@ A zárlat által érintett sertésállomány:
 ___________
 
 * A nem kívánt rész törlendő.
+
+[^32]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.
