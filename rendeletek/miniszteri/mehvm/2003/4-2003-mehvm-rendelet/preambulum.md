@@ -1,1 +1,0 @@
-Az államháztartásról szóló 1992. évi XXXVIII. törvény 49. §-ának o) pontjában kapott felhatalmazás alapján a pénzügyminiszterrel egyetértésben a vállalkozási övezetek támogatására irányuló előirányzat felhasználásával kapcsolatban a következőket rendelem el:
