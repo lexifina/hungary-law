@@ -1,5 +1,0 @@
-27. § A Kstv. a 37. §-t követően a következő alcímmel és 37/A. §-sal egészül ki:
-
-„Járulékos költség megtérítése
-
-37/A. § A kisajátítási kártalanítás megfizetésére kötelezettnek – a kisajátítási határozatban nem rendezett – indokolt és igazolt járulékos költségek megtérítésére való kötelezését a kisajátítási kártalanításra jogosult a 21/A. § szerinti időpontokat követő 15 napon belül kérelmezheti a kisajátítási hatóságnál. A járulékos költségeket a kötelezett egy összegben, a 21. § (2) bekezdésében meghatározott módon köteles megfizetni a jogosult részére; a kifizetésre a kisajátítási hatóság legfeljebb 60 napos teljesítési határidőt állapíthat meg. A járulékos költség megtérítésére irányuló eljárásnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti egyéb eljárási költségeit a kötelezett viseli; az eljárásra egyebekben – az e törvény szerinti eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szabályai alkalmazandók.”
