@@ -24,7 +24,7 @@ g) a vízügyi igazgatási szerv képviselője,
 
 h) a megyei védelmi bizottság titkára.
 
-(5) A megyei védelmi bizottság állandó meghívottja tanácskozási joggal az Országos Mentőszolgálat képviselője. A megyei védelmi bizottság elnöke az ülésre tanácskozási joggal más személyeket is meghívhat. A helyi védelmi bizottság feladatkörét érintő döntésben részt vesz a helyi védelmi bizottság elnöke is.
+(5) A megyei védelmi bizottság ülésein tanácskozási joggal részt vevő, állandó meghívottak körét a Kormány rendeletben állapítja meg. A megyei védelmi bizottság elnöke az ülésre tanácskozási joggal más személyeket is meghívhat. A helyi védelmi bizottság feladatkörét érintő döntésben részt vesz a helyi védelmi bizottság elnöke is.
 
 (6) A megyei védelmi bizottság testületi szerv. Szervezeti és működési rendjét a honvédelemért felelős miniszter, valamint a katasztrófák elleni védekezésért felelős miniszter előzetes hozzájárulásával maga állapítja meg.
 

@@ -24,11 +24,17 @@ c) elrendeli a Honvédség és a rendvédelmi szervek működéséhez szüksége
 
 (5) A polgármester
 
-a) elrendeli a települési közigazgatás működéséhez és a lakosság polgári védelméhez, ellátásához szükséges szolgáltatások teljesítését,
+a) elrendeli a település lakosságának polgári védelméhez, ellátásához szükséges szolgáltatások teljesítését,
 
 b) igénybe veszi a személyek vagy dolgok elhelyezésére szolgáló ingatlanokat,
 
 c) dönt minden olyan esetben, amely nem tartozik más igénybevételi hatóság hatáskörébe.
+
+(5a) A helyi védelmi bizottság elnöke
+
+a) megállapítja a helyi jellegű szolgáltatások és szolgáltatásra kötelezettek körét,
+
+b) nyilvántartást vezet, amelyben elősegíti a megyei védelmi bizottság elnökének, valamint a helyi védelmi bizottság illetékességi területén a polgármesterek hatáskörébe tartozó igénybevételi jog gyakorlását, koordinálja az igénybevétel helyi szintű végrehajtását.
 
 (6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője jogosult.
 

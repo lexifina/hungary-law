@@ -1,15 +1,17 @@
 ## 19. A helyi védelmi bizottság
 
-27. § (1) A főváros kerületeiben, a megyei jogú városokban és a megyei védelmi bizottság által kijelölt városokban helyi védelmi bizottság működik.
+27. § (1) A járásokban és a fővárosi kerületekben helyi védelmi bizottság működik. A helyi védelmi bizottságok illetékességi területe a járásokhoz, illetve a fővárosi kerületekhez igazodik.
 
-(2) A helyi védelmi bizottság illetékességi területét (a továbbiakban: honvédelmi körzet) a közigazgatás rendszerének, valamint az érintett polgármesterek véleményének figyelembevételével a megyei védelmi bizottság állapítja meg.
+(2)
 
-(3) A honvédelmi körzetben levő települések polgármestereit a helyi védelmi bizottság munkájában tanácskozási jog illeti meg.
+(3)
 
-(4) A helyi védelmi bizottság testületi szerv. A helyi védelmi bizottság elnöke a megyei jogú város, a város, a fővárosi kerület polgármestere, elnökhelyettesei a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy, a honvédelmi feladatok tekintetében a Honvédség állományából szükség esetén vezényelt tényleges állományú katona. Tagjai:
+(4) A helyi védelmi bizottság testületi szerv. A helyi védelmi bizottság elnöke a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) vezetője, elnökhelyettesei a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy, a honvédelmi feladatok tekintetében a Honvédség állományából szükség esetén vezényelt tényleges állományú katona. Tagjai az elnökön és az elnökhelyettesen kívül:
 
-a) a megyei jogú városban, a városban, a fővárosi kerületben a jegyző,
+a) a hivatásos katasztrófavédelmi szerv kivételével a rendvédelmi szerveknek a helyi védelmi bizottság illetékességi területe szerinti vezetője,
 
-b) a honvédelmi körzethez tartozó polgármesterek által megválasztott polgármester,
+b) a helyi védelmi bizottság illetékességi területén működő, a helyi védelmi bizottság feladatrendszerében érintett szakigazgatási szerv vezetője,
 
-c) a hivatásos katasztrófavédelmi szerv kivételével a rendvédelmi szervek és a központi államigazgatási szervek területi szerveinek a honvédelmi körzet szerint illetékes vezetője, valamint a Kormány általános hatáskörű területi államigazgatási szervének képviselője.
+c) a fővárosi és megyei kormányhivatal képviselője,
+
+d) különleges jogrend bevezetése esetén a katonai igazgatási szerv képviselője.

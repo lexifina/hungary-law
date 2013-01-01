@@ -50,4 +50,6 @@ s) szakirányítás: az arra jogosultnak a Honvédség alaprendeltetés szerinti
 
 t) szövetséges fegyveres erők: a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés szerint a Magyarországgal szövetséges államok fegyveres erői, valamint az e szerződés alapján létrehozott közös katonai szervezetek,
 
-u) szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület.
+u) szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület,
+
+v) katonai hatóság: a honvédelmi és a katonai célú ingatlanok, azok védőterületei, valamint az ott végzett tevékenységek vonatkozásában – jogszabályban meghatározott hatósági jogkörében eljárva – hatósági vagy szakhatósági feladatokat ellátó honvédségi szervezet.

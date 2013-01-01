@@ -6,9 +6,9 @@
 
 (3) Rendelet eltérően állapíthatja meg a bírák és az ügyészek kinevezését és felmentését, a bírósági és ügyészségi vezetők kinevezési rendjét. A bírói és ügyészségi önkormányzati szervek működése felfüggeszthető. A bírót igazságszolgáltatási érdekből, bírói beosztásba, ideiglenesen más bírósághoz lehet kirendelni.
 
-(4) Rendeletben megállapított esetben a helyi bírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények szabálysértésnek minősülnek. Rendeletben módosíthatók más büntető anyagi jogi rendelkezések is, így új bűncselekmények állapíthatók meg, egyes bűncselekmények büntetési tételei, tételkeretei módosíthatók, rendelet azonban új büntetési nemet nem állapíthat meg.
+(4) Rendeletben megállapított esetben a járásbírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények szabálysértésnek minősülnek. Rendeletben módosíthatók más büntető anyagi jogi rendelkezések is, így új bűncselekmények állapíthatók meg, egyes bűncselekmények büntetési tételei, tételkeretei módosíthatók, rendelet azonban új büntetési nemet nem állapíthat meg.
 
-(5) A helyi bíróságok hatáskörébe tartozó ügyekben bírósági eljárásnak csak rendelet által meghatározott körben van helye. Rendeletben megállapított esetben a helyi bírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények miatt büntetőeljárás nem indítható és nem folytatható le.
+(5) A járásbíróságok hatáskörébe tartozó ügyekben bírósági eljárásnak csak rendelet által meghatározott körben van helye. Rendeletben megállapított esetben a járásbírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények miatt büntetőeljárás nem indítható és nem folytatható le.
 
 (6) Rendeletben fel kell függeszteni a folyamatban levő eljárást:
 

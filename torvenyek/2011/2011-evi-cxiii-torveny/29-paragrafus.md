@@ -4,15 +4,15 @@
 
 (2) A polgármester a honvédelmi feladatok végrehajtása céljából
 
-a) biztosítja a honvédelmi kötelezettségekkel összefüggő hatósági, vagy más közigazgatási feladatok végrehajtásához szükséges feltételeket,
+a)
 
-b) szervezi és irányítja a Honvédség hadkiegészítésével kapcsolatos közigazgatási feladatokra való felkészülést és azok végrehajtását,
+b)
 
 c) összehangolja a honvédelemben közreműködő települési szervek tevékenységét,
 
 d) elrendeli a hatáskörébe utalt gazdasági és anyagi szolgáltatási kötelezettség teljesítését,
 
-e) részt vesz a honvédelmi körzet honvédelmi feladataihoz szükséges tájékoztatási rendszer működtetésében,
+e) részt vesz az illetékességi területe honvédelmi feladataihoz szükséges tájékoztatási rendszer működtetésében,
 
 f) irányítja a rendkívüli intézkedésekből eredő feladatok végrehajtását,
 
@@ -22,6 +22,6 @@ h) közreműködik a gazdaságfelkészítés és -mozgósítás helyi feladatain
 
 (3) A polgármester az (1) bekezdésben meghatározott feladatok teljesítése érdekében a helyi védelmi bizottság rendelkezései szerint együttműködik más települések polgármestereivel.
 
-(4) A polgármester a védelmi igazgatási feladatait fővárosi kerületben, városban, községben a jegyző vagy a körjegyző, valamint a polgármesteri hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a polgármesteri hivatal minden köztisztviselője, közalkalmazottja, munkavállalója rendkívüli túlmunkára kötelezhető.
+(4) A polgármester a védelmi igazgatási feladatait a járási hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a járási hivatal minden kormánytisztviselője és munkavállalója rendkívüli túlmunkára kötelezhető.
 
 (5) A polgármester e §-ban meghatározott feladatának végrehajtásához szükséges költségek és kiadások fedezetére állami támogatás biztosítható.
