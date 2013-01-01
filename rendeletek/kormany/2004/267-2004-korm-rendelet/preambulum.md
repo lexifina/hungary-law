@@ -1,1 +1,0 @@
-A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 8. § (2) bekezdésében, 59. §-ának (1) bekezdés b) és g) pontjában foglalt felhatalmazás alapján – figyelemmel a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 12. és 36. §-ára – a Kormány a következőket rendeli el:
