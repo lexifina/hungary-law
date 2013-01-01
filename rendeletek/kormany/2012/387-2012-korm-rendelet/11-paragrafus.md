@@ -1,0 +1,5 @@
+## 3. A doktori fokozat megszerzésének feltételei és folyamata
+
+11. § (1) A doktori képzéshez kapcsolódóan megállapodás köthető a felsőoktatási intézmény, a doktorandusz, doktorjelölt és a témavezető között.
+
+(2) Az egészségügyi szakirányú felsőfokú szakképzési rendszerben rezidensként, vagy a felsőoktatási intézmények oktatói utánpótlásának biztosítására meghatározott szakképzésben központi gyakornokként résztvevők által teljesített törzsképzési és szakgyakorlati időből az illetékes kreditátviteli bizottság – a doktori szabályzatában meghatározottak szerint –, a doktori képzésben legfeljebb két félév, illetve hatvan kredit elismerését engedélyezheti.

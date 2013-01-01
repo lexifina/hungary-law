@@ -1,0 +1,5 @@
+23. § (1) A felsőoktatási intézmény habilitációs bizottsága tudomány- illetve művészeti ági habilitációs bizottságokat hozhat létre, az összetételre és a személyi feltételre vonatkozó, a 22. § (2) bekezdésében megfogalmazott előírások betartásával. Az így létrehozott szakmai habilitációs bizottságoknak a felsőoktatási intézmény habilitációs bizottsága a 22. § (4) bekezdésében meghatározott jogköreit – a 22. § (4) bekezdés c) pontja szerinti jogosultság kivételével – átruházhatja.
+
+(2) A felsőoktatási intézmény szervezeti és működési szabályzatában rendelkezhet úgy, hogy a habilitációs bizottság feladatait is a doktori tanács látja el, amennyiben annak összetétele eleget tesz a 22. § (2) bekezdése feltételeinek.
+
+(3) A habilitációs tézisek illetve – ha benyújtásra kerül – a habilitációs értekezés, a nyilvános vita és az előadás értékelésére a habilitációs bizottság bírálóbizottságot hoz létre. A bírálóbizottság tagjainak kiválasztására megfelelően alkalmazni kell a 22. § (2) bekezdésében meghatározott szabályokat. A bírálóbizottság elnöke csak egyetemi tanár vagy Professor Emeritus lehet.

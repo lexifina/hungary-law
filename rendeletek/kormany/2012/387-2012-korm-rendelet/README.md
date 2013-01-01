@@ -1,0 +1,9 @@
+# 387/2012. (XII. 19.) Korm. rendelet
+
+a doktori iskolákról, a doktori eljárások rendjéről és a habilitációról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-387-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-01 | 2012-387-20-22.1 | 387/2012. (XII. 19.) Korm. rendelet |
