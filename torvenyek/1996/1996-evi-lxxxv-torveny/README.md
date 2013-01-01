@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2011-09-29 | 2011. évi CXXI. törvény | 1996-85-00-00.19 |
 | 2011-11-15 | 2011. évi CXLVII. törvény | 1996-85-00-00.20 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1996-85-00-00.21 |
+| 2013-01-01 | 2012. évi CCXIII. törvény | 1996-85-00-00.22 |

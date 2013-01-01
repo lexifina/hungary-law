@@ -38,6 +38,6 @@ kéri.
 
 (4) Az (1) bekezdés a)–c), valamint f)–k) pontjában meghatározott eljárásokhoz szükséges elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését kezdeményezőknek – a mentességet megalapozó eljárás, az ügyszám, illetőleg a pályázati azonosító megjelölésével – a felhasználás célját hitelt érdemlően igazolni kell.
 
-(5) Az (1) és (2) bekezdésben foglaltak szerint elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
+(5) Az elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles és hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
 
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.

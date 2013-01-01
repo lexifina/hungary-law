@@ -36,6 +36,8 @@ la) a Magyar Állam javára történő lakásvásárlással megszűnt jelzálogj
 
 lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
 
-lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás.
+lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
+
+m) az ingatlan közigazgatási címének közterületnév-változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja, ha az eljárás megindítására a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14. § (2) bekezdésébe foglalt tilalomba ütközés miatti közterületnév-változás miatt kerül sor.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.

@@ -22,6 +22,12 @@ d) annak, aki a kérelmet, megkeresést előterjeszti.
 
 (8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség (ideértve a fellebbezés díját is) az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
 
+(8a) Új épület építése vagy meglévő épület – ingatlan-nyilvántartásban változást eredményező – átalakítása esetén, a változás ingatlan-nyilvántartási átvezetésére (az épület feltüntetésére) irányuló eljárás igazgatási szolgáltatási díját az ehhez szükséges változási vázrajz záradékolása iránt történő benyújtásával egyidejűleg kell megfizetni.
+
+(8b) Amennyiben az építésügyi hatóság a használatbavételi engedély iránti kérelmet elutasítja vagy a használatbavételi engedélyezési eljárást megszünteti, az ingatlanügyi hatóság az erről szóló jogerős döntés kézhezvételét követő harminc napon belül intézkedik az ügyfél részére a (8a) bekezdés szerinti igazgatási szolgáltatási díj visszatérítése iránt.
+
+(8c) A külön jogszabályban meghatározott – az ingatlan-nyilvántartásban változást eredményező – engedélyköteles bontási tevékenység esetében az igazgatási szolgáltatási díj megfizetésére a (8a) bekezdésben foglaltakat kell értelemszerűen alkalmazni.
+
 (9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül kell megfizetni a díjat és igazolni annak megfizetését.
 
 (10) Ha jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági, bírósági végrehajtói vagy hatósági megkeresés alapján induló eljárás esetén a díj megfizetésére kötelezett nem tesz eleget a (9) bekezdés szerinti hiánypótlási felhívásban foglaltaknak, az ingatlanügyi hatóság az eljárást lefolytatja, azonban a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
