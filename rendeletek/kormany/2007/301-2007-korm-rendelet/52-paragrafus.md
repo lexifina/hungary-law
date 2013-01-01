@@ -1,12 +1,12 @@
 ## Rendszeres létfenntartási támogatás
 
-52. § (1)[^68] A menekült és az oltalmazott az elismerésről szóló határozat jogerőre emelkedésétől számított négy évig – a befogadó állomás végleges elhagyását követően, kérelmére – rendszeres létfenntartási támogatásban részesülhet.
+52. § (1)[^77] A menekült és az oltalmazott az elismerésről szóló határozat jogerőre emelkedésétől számított négy évig – a befogadó állomás végleges elhagyását követően, kérelmére – rendszeres létfenntartási támogatásban részesülhet.
 
-(2)[^69] A rendszeres létfenntartási támogatás a nagykorú, továbbá a tankötelezettség megszűnését követően nappali rendszerű iskolai oktatásban nem részesülő kiskorú menekültet és az oltalmazottat – az elismerésről szóló határozat jogerőre emelkedésétől számított két évig – akkor illeti meg, ha az 51. § (1) bekezdésében meghatározottak szerint magyar nyelvi oktatásban vesz részt. A menekült és az oltalmazott a támogatásra akkor jogosult, ha az ingyenes magyar nyelvi oktatás keretében biztosított havi óraszám legalább 70%-án részt vesz.
+(2)[^78] A rendszeres létfenntartási támogatás a nagykorú, továbbá a tankötelezettség megszűnését követően nappali rendszerű iskolai oktatásban nem részesülő kiskorú menekültet és az oltalmazottat – az elismerésről szóló határozat jogerőre emelkedésétől számított két évig – akkor illeti meg, ha az 51. § (1) bekezdésében meghatározottak szerint magyar nyelvi oktatásban vesz részt. A menekült és az oltalmazott a támogatásra akkor jogosult, ha az ingyenes magyar nyelvi oktatás keretében biztosított havi óraszám legalább 70%-án részt vesz.
 
-(3)[^70] A 6. életévét betöltött menekült és oltalmazott akkor jogosult rendszeres létfenntartási támogatásra, ha tankötelezettségét teljesíti, továbbá a még nagykorúsága elérése előtt megkezdett tanulmányait a nappali rendszerű iskolai oktatásban folytatta.
+(3)[^79] A 6. életévét betöltött menekült és oltalmazott akkor jogosult rendszeres létfenntartási támogatásra, ha tankötelezettségét teljesíti, továbbá a még nagykorúsága elérése előtt megkezdett tanulmányait a nappali rendszerű iskolai oktatásban folytatta.
 
-(4)[^71] A magyar nyelvi oktatásban való részvétel nem feltétele a rendszeres létfenntartási támogatás megállapításának, ha a menekült vagy az oltalmazott
+(4)[^80] A magyar nyelvi oktatásban való részvétel nem feltétele a rendszeres létfenntartási támogatás megállapításának, ha a menekült vagy az oltalmazott
 
 a) a 6. életévét még nem, illetve a 60. életévét már betöltötte,
 
@@ -16,7 +16,7 @@ c) szakorvos igazolásával bizonyítja, hogy tőle a magyar nyelv elsajátítá
 
 d) magyar nyelvből államilag elismert alap-, közép- vagy felsőfokú nyelvvizsgával rendelkezik.
 
-(5)[^72] A nagykorú, továbbá a tankötelezettség megszűnését követően nappali rendszerű iskolai oktatásban nem részesülő kiskorú menekültnek, valamint oltalmazottnak a rendszeres létfenntartási támogatás az elismerésről szóló határozat jogerőre emelkedésétől számított harmadik és negyedik évben akkor folyósítható, ha igazolja, hogy
+(5)[^81] A nagykorú, továbbá a tankötelezettség megszűnését követően nappali rendszerű iskolai oktatásban nem részesülő kiskorú menekültnek, valamint oltalmazottnak a rendszeres létfenntartási támogatás az elismerésről szóló határozat jogerőre emelkedésétől számított harmadik és negyedik évben akkor folyósítható, ha igazolja, hogy
 
 a) elhelyezkedése érdekében a támogatás folyósításának ideje alatt legalább egy évig a munkaügyi központtal folyamatosan együttműködött, amelynek keretében
 
@@ -34,7 +34,7 @@ c) legalább három hónapig közcélú munkát, közmunkát, illetve közhaszn�
 
 d) a munkaügyi központ közreműködése nélkül legalább egy évre vagy határozatlan időre legális munkaviszonyt létesített.
 
-(6)[^73] A létfenntartási támogatásban részesülő nagykorú menekültnek, valamint oltalmazottnak a rendszeres létfenntartási támogatás – kérelmére – legfeljebb az elismerésről szóló határozat jogerőre emelkedésétől számított négy évig folyósítható, ha
+(6)[^82] A létfenntartási támogatásban részesülő nagykorú menekültnek, valamint oltalmazottnak a rendszeres létfenntartási támogatás – kérelmére – legfeljebb az elismerésről szóló határozat jogerőre emelkedésétől számított négy évig folyósítható, ha
 
 a) 60. életévét betöltötte,
 
@@ -42,24 +42,25 @@ b) szakorvos igazolásával bizonyítja, hogy tartós és visszafordíthatatlan 
 
 c) a terhességi gyermekágyi segélyre, gyermekgondozási díjra, illetőleg gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, vagy
 
-d)[^74]
+d)[^83]
 
-(7) A rendszeres létfenntartási támogatást a menekült, illetve az oltalmazott kérelmére a menekültügyi hatóság állapítja meg, és azt a jegyző havonta – a hónap 15. napjáig – folyósítja, majd visszaigényli a menekültügyi hatóságtól.
+(7)[^84] A rendszeres létfenntartási támogatást a menekült, illetve az oltalmazott kérelmére a menekültügyi hatóság állapítja meg, és azt a járási hivatal havonta – a hónap 15. napjáig – folyósítja, majd visszaigényli a menekültügyi hatóságtól.
 
-(8)[^75] A rendszeres létfenntartási támogatás havi legalacsonyabb összege az öregségi nyugdíj mindenkori legkisebb összegének huszonöt százaléka, legmagasabb összege az öregségi nyugdíj mindenkori legkisebb összege.
+(8)[^85] A rendszeres létfenntartási támogatás havi legalacsonyabb összege az öregségi nyugdíj mindenkori legkisebb összegének huszonöt százaléka, legmagasabb összege az öregségi nyugdíj mindenkori legkisebb összege.
 
-(9)[^76] A menekültügyi hatóság a támogatás összegére vonatkozó döntés meghozatala során különösen az alábbi szempontokat mérlegeli:
+(9)[^86] A menekültügyi hatóság a támogatás összegére vonatkozó döntés meghozatala során különösen az alábbi szempontokat mérlegeli:
 
 a) a kérelmező menekült, illetve oltalmazott, valamint a vele egyazon háztartásban együtt élő házastársa és egyenes ági rokona összes jövedelmének figyelembevételével számított egy főre jutó havi jövedelem nagysága, továbbá
 
 b) a kérelmező személyes körülményei, különösen életkora, egészségi állapota és családi állapota.
 
-[^68]: Az 52. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 587–588. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^69]: Az 52. § (2) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^70]: Az 52. § (3) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^71]: Az 52. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (2) bekezdésével megállapított szöveg.
-[^72]: Az 52. § (5) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^73]: Az 52. § (6) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (4) bekezdésével megállapított szöveg.
-[^74]: Az 52. § (6) bekezdés d) pontját a 81/2012. (IV. 18.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.
-[^75]: Az 52. § (8) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (5) bekezdésével megállapított szöveg.
-[^76]: Az 52. § (9) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 106. § (6) bekezdése iktatta be.
+[^77]: Az 52. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 587–588. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: Az 52. § (2) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^79]: Az 52. § (3) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^80]: Az 52. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (2) bekezdésével megállapított szöveg.
+[^81]: Az 52. § (5) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^82]: Az 52. § (6) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (4) bekezdésével megállapított szöveg.
+[^83]: Az 52. § (6) bekezdés d) pontját a 81/2012. (IV. 18.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.
+[^84]: Az 52. § (7) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^85]: Az 52. § (8) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (5) bekezdésével megállapított szöveg.
+[^86]: Az 52. § (9) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 106. § (6) bekezdése iktatta be.

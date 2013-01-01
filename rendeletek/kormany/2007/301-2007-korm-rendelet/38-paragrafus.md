@@ -6,11 +6,11 @@
 
 (3) Az ellátás, illetve a támogatás iránti kérelem benyújtása során a menekült és az oltalmazott személyazonosító igazolványával, illetve annak kiállításáig az elismerésről szóló jogerős határozattal, a menedékes személyazonosságát és tartózkodási jogát igazoló okmányával igazolhatja az ellátásra, illetve a támogatásra való jogosultságát.
 
-(4)[^46] A menekült, az oltalmazott és a menedékes a 37. § szerinti ellátásokra és támogatásokra – ha e rendelet eltérően nem rendelkezik – akkor jogosult, ha rászorult, és
+(4)[^48] A menekült, az oltalmazott és a menedékes a 37. § szerinti ellátásokra és támogatásokra – ha e rendelet eltérően nem rendelkezik – akkor jogosult, ha rászorult, és
 
-a)[^47] az elismerésről rendelkező határozat jogerőre emelkedésének időpontjában Magyarország területén való tartózkodásának időtartama nem haladta meg a három évet, és
+a)[^49] az elismerésről rendelkező határozat jogerőre emelkedésének időpontjában Magyarország területén való tartózkodásának időtartama nem haladta meg a három évet, és
 
 b) az elismerésről rendelkező határozat jogerőre emelkedése, valamint az ellátás, illetve támogatás iránti kérelem benyújtása között nem telt el három évnél hosszabb idő.
 
-[^46]: A 38. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 97. §-a iktatta be.
-[^47]: A 38. § (4) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^48]: A 38. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 97. §-a iktatta be.
+[^49]: A 38. § (4) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.

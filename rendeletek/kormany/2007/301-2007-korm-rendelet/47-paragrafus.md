@@ -1,6 +1,6 @@
 ## Letelepedéshez nyújtott egyszeri támogatás
 
-47. §[^64] (1) A menekültügyi hatóság a menekült, illetve az oltalmazott kérelmére – lakhatásuk elősegítése céljából, e rendeletben foglaltaktól eltérő, más intézményi ellátás igénybevétele kivételével – egyszeri támogatást állapíthat meg.
+47. §[^72] (1) A menekültügyi hatóság a menekült, illetve az oltalmazott kérelmére – lakhatásuk elősegítése céljából, e rendeletben foglaltaktól eltérő, más intézményi ellátás igénybevétele kivételével – egyszeri támogatást állapíthat meg.
 
 (2) A támogatás a településen elismert minimális lakásnagyságot és minőséget meg nem haladó lakás vagy szállás esetén, csak érvényes lakásbérleti szerződés, albérleti szerződés (a továbbiakban együtt: lakásbérleti szerződés) alapján folyósítható, és csak a lakásbérleti szerződésben meghatározott lakásbérleti vagy albérleti díj, illetve letéti díj (kaució) fedezetére fordítható.
 
@@ -26,8 +26,9 @@ b) a kérelmező menekült, és oltalmazott, valamint a vele egyazon háztartás
 
 c) a lakás mérete, állapota és felszereltsége.
 
-(8) A támogatást a (3) bekezdés a) pontja esetében a menekültügyi hatóság, a (3) bekezdés b) pontja esetében a jegyző folyósítja. A jegyző a támogatás összegét a 13. §-ban foglaltak szerint igényelheti vissza a menekültügyi hatóságtól.
+(8)[^73] A támogatást a (3) bekezdés a) pontja esetében a menekültügyi hatóság, a (3) bekezdés b) pontja esetében a járási hivatal folyósítja. A járási hivatal a támogatás összegét a 13. §-ban foglaltak szerint igényelheti vissza a menekültügyi hatóságtól.
 
 (9) Ha a menekültügyi hatóság a támogatás iránti kérelemnek helyt ad, a menekült, illetve az oltalmazott köteles a támogatás folyósításától számított tizenöt napon belül a befogadó állomás területét véglegesen elhagyni.
 
-[^64]: A 47. § a 290/2010. (XII. 21.) Korm. rendelet 103. §-ával megállapított szöveg.
+[^72]: A 47. § a 290/2010. (XII. 21.) Korm. rendelet 103. §-ával megállapított szöveg.
+[^73]: A 47. § (8) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.

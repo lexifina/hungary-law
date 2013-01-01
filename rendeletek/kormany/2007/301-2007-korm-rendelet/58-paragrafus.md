@@ -1,37 +1,52 @@
-58. § (1) A lakáscélú támogatás iránti kérelem az ingatlan fekvése szerint illetékes jegyzőnél nyújtható be. A kérelemnek tartalmaznia kell:
+58. § (1)[^94] A lakáscélú támogatás iránti kérelem az ingatlan fekvése szerint illetékes járási hivatalnál nyújtható be. A kérelemnek tartalmaznia kell:
 
 a) a menekült, illetve az oltalmazott családi és utónevét, születési helyét és idejét, anyja nevét, személyazonosító igazolványának számát, lakóhelyét (tartózkodási helyét), közeli hozzátartozóinak családi és utónevét, születési helyét és idejét;
 
 b) a megvásárolni, építeni, bővíteni, felújítani kívánt ingatlanra vonatkozó lényeges adatokat (az ingatlan helye, forgalmi értéke, nagysága stb.).
 
-(2) A kérelemhez mellékelni kell:
+(2)[^95] A kérelemhez mellékelni kell
 
-a)[^78] az ingatlan adásvételére vonatkozó megállapodást (előszerződést, vételre történő kijelölést), építkezés esetén a jogerős építési engedélyt;
+a) az ingatlan adásvételére vonatkozó megállapodást (előszerződést, vételre történő kijelölést), építkezés esetén a jogerős építési engedélyt,
 
-b) a menekült, az oltalmazott, valamint a közeli hozzátartozó büntetőjogi felelőssége tudatában tett, vagyoni helyzetére vonatkozó nyilatkozatát;
+b) a menekült, az oltalmazott, valamint a közeli hozzátartozó büntetőjogi felelőssége tudatában tett, vagyoni helyzetére vonatkozó nyilatkozatát,
 
-c) a menekült, illetve az oltalmazott és közeli hozzátartozójuk keresetének vagy jövedelmének igazolását;
+c) a menekült, illetve az oltalmazott és közeli hozzátartozójuk keresetének vagy jövedelmének igazolását,
 
-d) értékbecslést az ingatlanról, illetve hiteles költségvetési főösszesítőt;
+d) a kérelem benyújtását megelőző háromhavi pénzforgalmat kimutató bankszámla-kivonat hitelesített másolatát, a kérelem benyújtását megelőző három hónapra szóló közüzemi számlákat, vagy azok befizetési bizonylatait,
 
-e) a különös méltánylást érdemlő körülmények mérlegeléséhez szükséges igazolásokat.
+e) értékbecslést az ingatlanról, illetve hiteles költségvetési főösszesítőt, valamint
 
-(3) A lakáscélú támogatásra – a kérelem alapján – a jegyző tesz javaslatot. A javaslat tartalmazza:
+f) a különös méltánylást érdemlő körülmények mérlegeléséhez szükséges igazolásokat.
+
+(3)[^96] A lakáscélú támogatásra – a kérelem alapján – a járási hivatal tesz javaslatot. A javaslat tartalmazza:
 
 a) a támogatás összegére, a visszafizetés időtartamára és megkezdése időpontjának esetleges halasztására vonatkozó véleményt;
 
 b) a különös méltánylást érdemlő körülményeket.
 
-(4) A lakáscélú támogatás megítéléséről a menekültügyi hatóság dönt. A menekültügyi hatóság a megállapított kamatmentes kölcsön összegét a jegyzőnek átutalja.
+(4)[^97] A lakáscélú támogatás megítéléséről a menekültügyi hatóság dönt. A menekültügyi hatóság a kérelem elbírálása során megvizsgálja a menekült, illetve oltalmazott vagyoni, jövedelmi viszonyait, egyéni életkörülményeit. Ennek keretében a menekültügyi hatóság vizsgálja, hogy a háztartás tényleges havi bevétele fedezi-e a tényleges havi kiadások kamatmentes kölcsön tervezett havi törlesztő részletével megnövelt összegét úgy, hogy a kiadások teljesítését követően a tényleges bevétel legalább 30%-ának lekötetlenül kell maradnia.
 
-(5) A menekültügyi hatóság döntése alapján a jegyző
+A menekültügyi hatóság a megállapított kamatmentes kölcsön összegét a járási hivatalnak átutalja.
+
+(5)[^98] A menekültügyi hatóság döntése alapján a járási hivatal
 
 a) a támogatásra szerződést köt a menekülttel, illetve az oltalmazottal,
 
-b) gondoskodik a támogatás menekült, illetve oltalmazott részére történő folyósításáról, továbbá
+b) gondoskodik a támogatás menekült, illetve oltalmazott részére történő folyósításáról,
 
-c) intézkedik az ingatlanra jelzálogjog, valamint elidegenítési és terhelési tilalom menekültügyi hatóság javára történő bejegyeztetése, ezek törlése, valamint a törlesztésnek a menekültügyi hatóság, illetve a jegyző írásbeli felszólítása ellenére történő elmulasztása esetén a lejárt követelés bírósági úton történő érvényesítése iránt.
+c) intézkedik az ingatlanra jelzálogjog, valamint elidegenítési és terhelési tilalom menekültügyi hatóság javára történő bejegyeztetése iránt,
 
-(6) Ha a menekült, illetve az oltalmazott a támogatás odaítéléséről szóló értesítés kézhezvételétől számított hat hónapon belül a támogatás összegét nem veszi át, azt a jegyző visszautalja a menekültügyi hatóságnak.
+d) havonta tájékoztatja a menekültügyi hatóságot a törlesztésről, a beérkezett törlesztő részletet haladéktalanul átutalja a menekültügyi hatóságnak,
 
-[^78]: Az 58. § (2) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 588. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+e) a kölcsönösszeg maradéktalan visszafizetése esetén a menekültügyi hatóság engedélye alapján intézkedik az ingatlanra bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom törléséről, a megtett intézkedésekről a menekültügyi hatóságot tájékoztatja, valamint
+
+f) a törlesztésnek a járási hivatal írásbeli felszólítása ellenére történő elmulasztása esetén intézkedik a lejárt követelés bírósági úton történő érvényesítése iránt, a végrehajtási eljárás során befolyt összeget haladéktalanul átutalja a menekültügyi hatóságnak.
+
+(6)[^99] Ha a menekült, illetve az oltalmazott a támogatás odaítéléséről szóló értesítés kézhezvételétől számított hat hónapon belül a támogatás összegét nem veszi át, azt a járási hivatal visszautalja a menekültügyi hatóságnak.
+
+[^94]: Az 58. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 50. § f) pontja szerint módosított szöveg.
+[^95]: Az 58. § (2) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^96]: Az 58. § (3) bekezdés nyitó szövegrésze a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^97]: Az 58. § (4) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^98]: Az 58. § (5) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^99]: Az 58. § (6) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.

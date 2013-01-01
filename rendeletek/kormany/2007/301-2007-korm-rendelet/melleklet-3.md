@@ -110,6 +110,6 @@
 
 ## A nyilatkozatot nyomtatott betűvel kell kitölteni.
 
-3. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^131]
+3. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^161]
 
-[^131]: A 3. melléklet a 81/2012. (IV. 18.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^161]: A 3. melléklet a 81/2012. (IV. 18.) Korm. rendelet 22. § (2) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 50. § h) pontja, a 409/2012. (XII. 28.) Korm. rendelet 35. § b) és c) pontja szerint módosított szöveg.

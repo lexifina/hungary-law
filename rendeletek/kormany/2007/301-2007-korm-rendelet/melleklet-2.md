@@ -1,3 +1,3 @@
-2. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^130]
+2. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^160]
 
-[^130]: A 2. melléklet a 81/2012. (IV. 18.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^160]: A 2. melléklet a 81/2012. (IV. 18.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

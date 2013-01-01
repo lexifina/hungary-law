@@ -92,7 +92,7 @@
 
 ## D) Változás bejelentése
 
-## A menekült, az oltalmazott, valamint a menedékes, ha befogadó állomáson tartózkodik a Bevándorlási és Állampolgársági Hivatalnak (a továbbiakban: Hivatal), egyébként pedig a lakóhelye (tartózkodási helye, szálláshelye) szerint illetékes települési önkormányzat jegyzőjének köteles haladéktalanul, de legkésőbb 15 napon belül bejelenteni, ha
+## A menekült, az oltalmazott, valamint a menedékes, ha befogadó állomáson tartózkodik a Bevándorlási és Állampolgársági Hivatalnak (a továbbiakban: Hivatal), egyébként pedig a lakóhelye (tartózkodási helye, szálláshelye) szerint illetékes járási hivatalnak köteles haladéktalanul, de legkésőbb 15 napon belül bejelenteni, ha
 
 ## a) a saját vagy vele közös háztartásban élő házastársa és egyenes ági rokona vagyontárgyai külön-külön számított forgalmi értéke (összege) elérte a ............................. Ft-ot, együttes forgalmi értéke (összege) a ...................................... Ft-ot;
 
@@ -104,17 +104,17 @@
 
 ## Tudomásul veszem, hogy
 
-## a) ha vagyonom értéke (összege) vagy jövedelmem havi összege meghaladja ezen Nyilatkozat D) pontjában meghatározott értéket (összeget), a részemre biztosított ellátások és támogatások folyósítását a Hivatal, illetve a jegyző megszünteti, és a jogosulatlanul igénybe vett ellátás ellenértékének megfizetésére, illetve a támogatási összeg visszafizetésére kötelezhet;
+## a) ha vagyonom értéke (összege) vagy jövedelmem havi összege meghaladja ezen Nyilatkozat D) pontjában meghatározott értéket (összeget), a részemre biztosított ellátások és támogatások folyósítását a Hivatal, illetve a járási hivatal megszünteti, és a jogosulatlanul igénybe vett ellátás ellenértékének megfizetésére, illetve a támogatási összeg visszafizetésére kötelezhet;
 
-## b) ha térítésmentes ellátásban, illetve támogatásban részesülök, a Hivatal, illetve a jegyző vagyoni és jövedelmi helyzetemről újabb nyilatkozat benyújtására kötelezhet, amelynek 15 napon belül köteles vagyok eleget tenni;
+## b) ha térítésmentes ellátásban, illetve támogatásban részesülök, a Hivatal, illetve a járási hivatal vagyoni és jövedelmi helyzetemről újabb nyilatkozat benyújtására kötelezhet, amelynek 15 napon belül köteles vagyok eleget tenni;
 
-## c) a vagyoni és jövedelmi helyzetemben bekövetkezett, ezen Nyilatkozat D) pontja szerinti változás bejelentésének elmulasztása esetén, illetve a vagyoni és jövedelmi helyzetemről szóló újabb nyilatkozat határidőben történő benyújtásának elmulasztása esetén a Hivatal, illetve a jegyző az ellátás vagy a pénzbeli támogatás folyósítását a nyilatkozat benyújtásáig felfüggesztheti;
+## c) a vagyoni és jövedelmi helyzetemben bekövetkezett, ezen Nyilatkozat D) pontja szerinti változás bejelentésének elmulasztása esetén, illetve a vagyoni és jövedelmi helyzetemről szóló újabb nyilatkozat határidőben történő benyújtásának elmulasztása esetén a Hivatal, illetve a járási hivatal az ellátás vagy a pénzbeli támogatás folyósítását a nyilatkozat benyújtásáig felfüggesztheti;
 
-## d) a Hivatal és a jegyző a nyilatkozatban szereplő adatok valódiságát ellenőrizheti;
+## d) a Hivatal és a járási hivatal a nyilatkozatban szereplő adatok valódiságát ellenőrizheti;
 
 ## e) a vagyoni és jövedelmi helyzetemről, valamint az abban bekövetkezett változásról kitöltött Nyilatkozatban valótlan adatok közlése vagy a nyilatkozattétel megtagadása esetén a Hivatal megvonhatja az ellátást és a támogatást;
 
-## f) ha a harminc napot meghaladó külföldi tartózkodásomat vagy más akadályoztatásomat a Hivatalnak vagy a jegyzőnek bejelentem, a támogatás folyósítása a távollétem időtartama alatt, illetve az akadályoztatásom megszűnéséig szünetel.
+## f) ha a harminc napot meghaladó külföldi tartózkodásomat vagy más akadályoztatásomat a Hivatalnak vagy a járási hivatalnak bejelentem, a támogatás folyósítása a távollétem időtartama alatt, illetve az akadályoztatásom megszűnéséig szünetel.
 
 ## Dátum: ............................, 20............ év ............ hónap ......... nap.
 

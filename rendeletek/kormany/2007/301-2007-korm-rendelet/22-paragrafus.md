@@ -1,6 +1,6 @@
 ## Szabad felhasználású havi költőpénz
 
-22. § (1)[^25] Az e bekezdésben meghatározott esetekben az elismerését kérő szabad felhasználású havi költőpénzben részesül, amelynek összege
+22. § (1)[^27] Az e bekezdésben meghatározott esetekben az elismerését kérő szabad felhasználású havi költőpénzben részesül, amelynek összege
 
 a) befogadó állomáson elhelyezett kiskorú esetében 18. életéve betöltéséig, továbbá általános- vagy középfokú tanulmányai folytatása esetén 18. életéve betöltését követően tanulmányai befejezéséig az öregségi nyugdíj mindenkori legkisebb összegének 25%-a;
 
@@ -14,15 +14,15 @@ e) büntetőjogi vagy szabálysértési felelősségét megállapító jogerős 
 
 f) az e) pontban meghatározott eset kivételével, egyéb fogva tartott személy esetében az öregségi nyugdíj mindenkori legkisebb összegének 25%-a.
 
-(2)[^26] A szabad felhasználású költőpénz a részletes vizsgálati eljárásra utaló végzés meghozatalától teljes hónapra, annak az elismerését kérőnek jár, aki az (1) bekezdés a)–d) pontban foglalt esetekben a befogadó állomáson életvitelszerűen tartózkodik. Az (1) bekezdés e)–f) pont hatálya alá tartozó esetekben a szabad felhasználású költőpénz a részletes vizsgálati eljárásra utaló végzés meghozatalától teljes hónapra jár.
+(2)[^28] A szabad felhasználású költőpénz a részletes vizsgálati eljárásra utaló végzés meghozatalától teljes hónapra, annak az elismerését kérőnek jár, aki az (1) bekezdés a)–d) pontban foglalt esetekben a befogadó állomáson életvitelszerűen tartózkodik. Az (1) bekezdés e)–f) pont hatálya alá tartozó esetekben a szabad felhasználású költőpénz a részletes vizsgálati eljárásra utaló végzés meghozatalától teljes hónapra jár.
 
-(3)[^27]
+(3)[^29]
 
 (4) A szabad felhasználású költőpénz kifizetését a tárgyhó 5. napjáig kell teljesíteni, utólagos kifizetés kizárólag az elismerését kérő fekvőbeteg-gyógyintézeti ellátása esetén lehetséges.
 
-(5)[^28] A kiskorú elismerését kérő havi költőpénzét törvényes képviselője, veheti át. Az összeg személyes szükségletekre történő felhasználását ezekben az esetekben is biztosítani kell.
+(5)[^30] A kiskorú elismerését kérő havi költőpénzét törvényes képviselője, veheti át. Az összeg személyes szükségletekre történő felhasználását ezekben az esetekben is biztosítani kell.
 
-[^25]: A 22. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 89. §-ával megállapított szöveg.
-[^26]: A 22. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 89. §-ával megállapított szöveg.
-[^27]: A 22. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^28]: A 22. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 126. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 22. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 89. §-ával megállapított szöveg.
+[^28]: A 22. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 89. §-ával megállapított szöveg.
+[^29]: A 22. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^30]: A 22. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 126. § (2) bekezdés b) pontja szerint módosított szöveg.

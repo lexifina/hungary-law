@@ -10,7 +10,7 @@ a) a befogadás anyagi feltételeinek biztosítása,
 
 b) egészségügyi ellátás,
 
-c)[^19] oktatási-nevelési költségek megtérítése,
+c)[^21] oktatási-nevelési költségek megtérítése,
 
 d) pénzbeli támogatások.
 
@@ -32,4 +32,4 @@ a) a beiskolázási támogatás,
 
 b) az ország végleges elhagyásának támogatása.
 
-[^19]: A 15. § (1) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 83. §-ával megállapított szöveg. E módosító rendelet 127. §-a alapján a 15. § (1) bekezdés c) pontja szerinti ellátásokra és támogatásokra vonatkozó szabályok a 2010. december 24-én a folyamatban lévő ügyekben is alkalmazandók.
+[^21]: A 15. § (1) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 83. §-ával megállapított szöveg. E módosító rendelet 127. §-a alapján a 15. § (1) bekezdés c) pontja szerinti ellátásokra és támogatásokra vonatkozó szabályok a 2010. december 24-én a folyamatban lévő ügyekben is alkalmazandók.
