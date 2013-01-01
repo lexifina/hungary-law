@@ -1,6 +1,6 @@
-## Közfoglalkoztatás mobilitását szolgáló támogatás[^11]
+## Közfoglalkoztatás mobilitását szolgáló támogatás[^12]
 
-4/A. §[^12] (1)[^13] Támogatás nyújtható a közhasznú kölcsönző részére, ha
+4/A. §[^13] (1)[^14] Támogatás nyújtható a közhasznú kölcsönző részére, ha
 
 a) a foglalkoztatást helyettesítő támogatásra jogosult személy vagy
 
@@ -8,9 +8,9 @@ b) a megváltozott munkaképességű személyek ellátásairól szóló törvén
 
 legalább 60 nap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében történő foglalkoztatását vállalja.
 
-(2)[^14] A támogatás a foglalkoztatott közfoglalkoztatási bére és az ahhoz kapcsolódó – a szociális hozzájárulási adóból kedvezmény igénybevételével csökkentett – szociális hozzájárulási adó mértékének 50–80 százalékáig terjedhet. A támogatási időszak a közfoglalkoztatási jogviszony időtartama, de legfeljebb egy év lehet.
+(2)[^15] A támogatás a foglalkoztatott közfoglalkoztatási bére és az ahhoz kapcsolódó – a szociális hozzájárulási adóból kedvezmény igénybevételével csökkentett – szociális hozzájárulási adó mértékének 50–80 százalékáig terjedhet. A támogatási időszak a közfoglalkoztatási jogviszony időtartama, de legfeljebb egy év lehet.
 
-[^11]: A 4/A. §-t megelőző alcímet a 171/2011. (VIII. 24.) Korm. rendelet 17. §-a iktatta be.
-[^12]: A 4/A. §-t a 171/2011. (VIII. 24.) Korm. rendelet 17. §-a iktatta be.
-[^13]: A 4/A. § (1) bekezdése a 136/2012. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^14]: A 4/A. § (2) bekezdése a 136/2012. (VI. 28.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^12]: A 4/A. §-t megelőző alcímet a 171/2011. (VIII. 24.) Korm. rendelet 17. §-a iktatta be.
+[^13]: A 4/A. §-t a 171/2011. (VIII. 24.) Korm. rendelet 17. §-a iktatta be.
+[^14]: A 4/A. § (1) bekezdése a 136/2012. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 4/A. § (2) bekezdése a 136/2012. (VI. 28.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.

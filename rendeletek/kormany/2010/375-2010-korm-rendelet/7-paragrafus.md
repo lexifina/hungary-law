@@ -1,6 +1,6 @@
 ## Eljárási szabályok
 
-7. §[^23] (1) Az e rendeletben meghatározott támogatások kérelemre nyújthatók.
+7. §[^24] (1) Az e rendeletben meghatározott támogatások kérelemre nyújthatók.
 
 (2) A kérelmet a tervezett közfoglalkoztatás helye, az 5. § esetében a foglalkoztatás helye szerint illetékes munkaügyi központhoz, több munkaügyi központ illetékességi területén megvalósuló közfoglalkoztatás, illetve foglalkoztatás esetén a közfoglalkoztató, az 5. § esetében a vállalkozás székhelye szerint illetékes munkaügyi központhoz kell benyújtani.
 
@@ -36,4 +36,4 @@ b) a 6. §-ban meghatározott támogatás esetén a munkaügyi központ
 
 egységes szerződéses feltételrendszer alapján hatósági szerződést köt a támogatottal. A munkaügyi központ és a kirendeltség illetékességére a (2) bekezdésben foglaltakat kell alkalmazni.
 
-[^23]: A 7. § a 171/2011. (VIII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^24]: A 7. § a 171/2011. (VIII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
