@@ -1,4 +1,4 @@
-## haladéktalanul továbbítja a kitoloncolási őrizet helye szerint illetékes helyi bíróságnak.
+## haladéktalanul továbbítja a kitoloncolási őrizet helye szerint illetékes járásbíróságnak.
 
 59. § (1) Az őrizetet elrendelő regionális igazgatóság az őrizet időtartamát az eljárás lefolytatásához szükséges legrövidebb időtartamban határozza meg.
 
