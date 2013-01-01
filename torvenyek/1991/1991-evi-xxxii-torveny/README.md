@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-32-00-00
 | 2007-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1991-32-00-00.12 |
 | 2011-01-01 | 2010. évi CXXVI. törvény | 1991-32-00-00.13 |
 | 2012-01-01 | 2011. évi CXCV. törvény | 1991-32-00-00.14 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 1991-32-00-00.15 |
