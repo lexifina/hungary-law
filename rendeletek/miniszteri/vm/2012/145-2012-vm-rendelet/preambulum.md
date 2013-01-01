@@ -1,0 +1,1 @@
+A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (2) bekezdés 5. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § k) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
