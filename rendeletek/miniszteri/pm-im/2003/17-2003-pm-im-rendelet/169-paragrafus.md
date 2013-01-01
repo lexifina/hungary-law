@@ -1,4 +1,4 @@
-## 168. §[^97] Ha a nem magyar állampolgár gyanúsított tartózkodási engedéllyel rendelkezik vagy letelepedett, illetve bevándorolt jogállású, a büntetőeljárás megindításáról a nyomozó szerv köteles értesíteni a BÁH-nak a nem magyar állampolgár magyarországi szálláshelye, illetve lakhelye szerint illetékes hatóságát is.
+## 168. §[^99] Ha a nem magyar állampolgár gyanúsított tartózkodási engedéllyel rendelkezik vagy letelepedett, illetve bevándorolt jogállású, a büntetőeljárás megindításáról a nyomozó szerv köteles értesíteni a BÁH-nak a nem magyar állampolgár magyarországi szálláshelye, illetve lakhelye szerint illetékes hatóságát is.
 
 ## IX. Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) Ha valamely irat eredeti példányának Magyarországon maradásához fontos érdek fűződik, arról másolatot kell készíteni és a nyomozási iratok eredeti példányában is a másolatot kell elhelyezni.
 
-[^97]: A 168. § a 9/2007. (V. 31.) PM–IRM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezés 2007. július 1. napján lépett hatályba.
+[^99]: A 168. § a 9/2007. (V. 31.) PM–IRM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján a rendelkezés 2007. július 1. napján lépett hatályba.

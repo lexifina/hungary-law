@@ -1,5 +1,5 @@
 ## X. Fejezet
 
-## A Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve eljárására vonatkozó különös szabályok[^98]
+## A Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve eljárására vonatkozó különös szabályok[^100]
 
-[^98]: A X. Fejezet címe a 19/2011. (V. 6.) NGM rendelet 13. §-ával megállapított szöveg.
+[^100]: A X. Fejezet címe a 19/2011. (V. 6.) NGM rendelet 13. §-ával megállapított szöveg.
