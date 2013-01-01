@@ -1,0 +1,1 @@
+A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 69. § (4) bekezdésében kapott felhatalmazás alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
