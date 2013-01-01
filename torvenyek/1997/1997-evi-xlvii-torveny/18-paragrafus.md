@@ -1,3 +1,11 @@
-## Epidemiológiai vizsgálatok, elemzések, az egészségügyi ellátás tervezése, szervezése
+## Epidemiológiai vizsgálatok, elemzések, az egészségügyi ellátás tervezése, szervezése, minőség- és teljesítményértékelés
 
-18. §
+18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükséges, TAJ számmal összekapcsolt egészségügyi adatok kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
+
+(2) A szakmai minőségértékelésért felelős szerv az azonos TAJ számhoz kapcsolódóan átadott egészségügyi adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a szakmai minőségértékelésért felelős szerv minden átadott, az (1) bekezdés szerinti adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja a betegre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását. A kapcsolati kód nem származtatható személyazonosító adatból és nem lehet azzal azonos.
+
+(3) A szakmai minőségértékelésért felelős szerv a kapcsolati kód képzését követően az (1) bekezdés szerinti célból kapott TAJ számot haladéktalanul törli.
+
+(4) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti szervek által más adatkezelési célból létrehozott és a 4. § (2) bekezdés x) pontja szerinti célból átadott, TAJ számmal összekapcsolt adatbázisokat, illetve nyilvántartásokat a kapcsolati kód képzését követően haladéktalanul törli.
+
+(5) A 4. § (2) bekezdés x) pontja szerinti célból egyedi ügy kivizsgálása érdekében a minőségértékelésért felelős szerv, az ügy kivizsgálásának lezárását követő 5 évig kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát. Az érintett TAJ száma más személyazonosító adatokkal történő összekapcsolás nélkül kezelendő.

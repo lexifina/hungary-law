@@ -10,7 +10,7 @@ c) az a 4. § (2) bekezdésének g) pontjában foglalt célok teljesítéséhez 
 
 (2) Az egészségügyi és személyazonosító adatokat a társadalombiztosítási igazgatási szervek kizárólag az ellátás megállapításával, folyósításával, az ellenőrzés lefolytatásával, egészségbiztosítási orvosszakértői, illetve jogorvoslati tevékenységgel megbízott dolgozója, továbbá a 4. § (2) bekezdésének g) pontja szerinti feladat teljesítésével megbízott munkatársa kezelheti.
 
-(3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak orvos, illetve gyógyszerész végzettségű alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
+(3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak egészségügyi felsőfokú szakképesítéssel rendelkező alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
 
 (4)
 

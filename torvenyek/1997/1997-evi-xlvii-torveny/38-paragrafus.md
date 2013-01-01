@@ -18,10 +18,18 @@ g) az egyes daganatos megbetegedések bejelentési módját, valamint a bejelent
 
 h) az elektronikus vényre vonatkozó részletszabályokat,
 
-i) a Betegségregiszterre vonatkozó részletes szabályokat
+i) a Betegségregiszterre vonatkozó részletes szabályokat,
+
+j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a Kormány, hogy a 30. § (4) bekezdés b) pontja szerinti adatkezelőt rendeletben jelölje ki.
+(3) Felhatalmazást kap a Kormány, hogy
+
+a) a 30. § (4) bekezdés b) pontja szerinti adatkezelőt,
+
+b) a 30. § (9) bekezdése szerinti adatfeldolgozót
+
+rendeletben jelölje ki.
 
 (4) Ez a törvény a foglalkozási megbetegedések európai jegyzékéről szóló 2003/670/EK ajánlásnak való megfelelést szolgálja.

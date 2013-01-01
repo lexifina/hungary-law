@@ -6,7 +6,7 @@ a) büntetőügyben a nyomozó hatóság, az ügyészség, a bíróság, az igaz
 
 b) szabálysértési eljárás során az eljárást lefolytató szervek,
 
-c) potenciális hadköteles és hadköteles személy esetén az illetékes jegyző, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
+c) potenciális hadköteles és hadköteles személy esetén a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
 
 d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 
