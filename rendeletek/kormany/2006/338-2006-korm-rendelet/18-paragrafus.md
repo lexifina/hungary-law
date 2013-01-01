@@ -2,19 +2,56 @@
 
 ## FÖLDMÉRÉSI, TÉRKÉPÉSZETI TEVÉKENYSÉGGEL KAPCSOLATOS ELJÁRÁS
 
-18. § (1) Az Fttv. 6. §-ának (3) bekezdésében foglalt helyi vonatkozású állami alapadatokat a körzeti földhivatalok és a megyei földhivatalok illetékességi területüknek megfelelően kezelik.
+18. §[^73] (1) A járási földhivatal illetékességi területén első fokú hatósági jogkörébe tartozó földmérési és térképészeti feladatok a következők:
 
-(2)[^63]
+a) az állami ingatlan-nyilvántartási térképi adatbázis kezelése a változások folyamatos vezetése és az abból történő adatszolgáltatás;
 
-(3)[^64] Az Fttv. 16. § (2) bekezdése, 19. § (2) bekezdés b) pontja, 19. § (3)–(4) bekezdése, 20. § (2) bekezdés második mondata, 20. § (3) bekezdés szerinti ingatlanügyi hatóságként a Kormány a megyei földhivatalt jelöli ki.
+b) a földmérési tárgyú beadványokkal kapcsolatos ügyek intézése;
 
-(4) A FÖMI és a földhivatalok az Fttv. 27. §-ának d) pontjában foglalt ellenőrző tevékenységüket a földmérési szakfelügyelet útján látják el.
+c) az ingatlan-nyilvántartási térképi adatbázisban változást eredményező vázrajzok vizsgálata és záradékolása;
 
-(5)[^65] Az Fttv. 29. §-ának (5) bekezdésével összhangban a Térképellátási Koordinációs Bizottságba egy-egy tagot delegáló miniszterként a Kormány a területrendezésért, a területfejlesztésért, a közlekedésért, a környezetvédelemért, a vízgazdálkodásért, az államháztartásért, az e-közigazgatásért, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős minisztert jelöli ki.
+d) a felmérési, térképezési és területszámítási hibák kijavítása;
 
-(6)[^66]
+e) az állami alapadatok adatbázisaiban bekövetkezett hivatalból észlelt változásokkal kapcsolatos feladatok végzése;
 
-[^63]: A 18. § (2) bekezdését a 107/2009. (V. 14.) Korm. rendelet 4. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^64]: A 18. § (3) bekezdésének második mondata a 357/2007. (XII. 23.) Korm. rendelet 7. §-a, a 182/2009. (IX. 10.) Korm. rendelet 514–515. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^65]: A 18. § (5) bekezdése a 317/2010. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^66]: A 18. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 515. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+f) az ingatlan-nyilvántartás tartalmát nem érintő térképi változásokkal összefüggő bejelentési kötelezettség betartásának ellenőrzése;
+
+g) a hatáskörébe utalt szakfelügyeleti tevékenység ellátása;
+
+h) állami alapmunkákkal kapcsolatos feladatok, illetve részfeladatok elvégzése;
+
+i) az illetékességi területére vonatkozóan adat- és térképtár létesítése és működtetése;
+
+j) az állami ingatlan-nyilvántartási térképi adatbázis állami alapadat tartalmának időszakos helyszíni ellenőrzése.
+
+(2) A járási földhivatal hatósági tevékenységén kívül egyéb, az állami alapadatok előállításával kezelésével és felhasználásával kapcsolatos szolgáltató tevékenységet is végezhet, illetve végeztethet.
+
+(3) A megyei földhivatal illetékességi területén hatósági jogkörébe tartozó földmérési és térképészeti feladatok a következők:
+
+a) az alaphálózati pontok adatbázisából, az állami földmérési térképi adatbázisból, valamint az állami ingatlan-nyilvántartási térképi adatbázisból történő adatszolgáltatás;
+
+b) másodfokú eljárás a járási földhivatal hatáskörébe tartozó földmérési és térképészeti ügyekben;
+
+c) földmérési és térképészeti szakfelügyelet ellátása;
+
+d) az alaphálózatok megjelölésére szolgáló állandó földmérési jelek helyszínelése, karbantartása és védelme, pontpusztulás esetén a károkozóval szemben külön jogszabály szerinti eljárás megindítása;
+
+e) az alapponthálózatok megjelölésére szolgáló állandó földmérési jelek által elfoglalt területre vonatkozó használati joggal kapcsolatos ügyekben való eljárás;
+
+f) az állami alapmunkákkal kapcsolatban a megyei földhivatalra háruló hatósági feladatok ellátása;
+
+g) a közigazgatási határok központi nyilvántartásával kapcsolatos, rá háruló feladatok ellátása;
+
+h) jogszabályokban és szakmai szabályzatokban meghatározott nyilvántartások vezetése.
+
+(4) A megyei földhivatal irányítja, ellenőrzi és felügyeli az illetékességi területéhez tartozó első fokon eljáró földhivatalok földmérési és térképészeti tevékenységét.
+
+(5) A megyei földhivatal a hatósági feladatain kívül egyéb, az állami alapadatok adatbázisainak előállításával és kezelésével kapcsolatos földmérési és térképészeti feladatokat is végez, illetve végeztet.
+
+(6) A megyei földhivatal az illetékességi területére vonatkozóan adat- és térképtárat létesít és működtet.
+
+(7) A megyei földhivatal illetékességi területén szakfelügyeleti jogkörében ellenőrzi az állami alapadatok adatbázisainak jogszerű felhasználását.
+
+(8) A megyei földhivatal az Fttv.-ben meghatározott bejelentésre kötelezett földmérési munkákról nyilvántartást vezet.
+
+[^73]: A 18. § a 404/2012. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.

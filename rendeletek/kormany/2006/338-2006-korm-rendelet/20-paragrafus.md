@@ -1,10 +1,8 @@
-## 19. §[^67]
-
 ## Záró rendelkezések
 
 20. § (1) Ez a rendelet 2007. január 1-jén lép hatályba; a már folyamatban lévő eljárásokat az azok indulásakor hatályos rendelkezések szerint kell befejezni.
 
-(2)[^68] E rendeletnek az egyes ingatlanügyi jogszabályok módosításáról szóló 129/2010. (IV. 21.) Korm. rendelet (a továbbiakban: Mr.)
+(2)[^75] E rendeletnek az egyes ingatlanügyi jogszabályok módosításáról szóló 129/2010. (IV. 21.) Korm. rendelet (a továbbiakban: Mr.)
 
 a) 1. §-a által módosított 2. § (3), (4) és (5) bekezdését,
 
@@ -22,11 +20,10 @@ f) 8. §-a által módosított 2. mellékletét,
 
 g) 9. §-a által módosított 3. és 4. mellékletét
 
-az Mr. hatálybalépését[^69] követően indult ügyekben kell alkalmazni.
+az Mr. hatálybalépését[^76] követően indult ügyekben kell alkalmazni.
 
-(3)[^70] E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel módosított 6. §-át és 2. mellékletét a 2012. július 1-jét követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+(3)[^77] E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel módosított 6. §-át és 2. mellékletét a 2012. július 1-jét követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
-[^67]: A 19. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte.
-[^68]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan a 129/2010. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
-[^69]: A hatálybalépés időpontja: 2010. május 1.
-[^70]: A 20. § (3) bekezdését a 134/2012. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^75]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan a 129/2010. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
+[^76]: A hatálybalépés időpontja: 2010. május 1.
+[^77]: A 20. § (3) bekezdését a 134/2012. (VI. 28.) Korm. rendelet 2. §-a iktatta be.

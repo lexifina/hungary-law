@@ -1,13 +1,13 @@
-3. §[^10] (1)[^11] A megyei földhivatal a fővárosi és megyei kormányhivatal ingatlanügyi szakigazgatási szerve.
+3. §[^12] (1)[^13] A megyei földhivatal a fővárosi és megyei kormányhivatal ingatlanügyi szakigazgatási szerve.
 
-(2)[^12] A megyei földhivatal illetékességi területe kiterjed a megye területére, a Fővárosi Földhivatal illetékessége pedig a főváros területére, az 1. mellékletben foglaltak szerint.
+(2)[^14] A megyei földhivatal illetékességi területe kiterjed a megye területére, a Fővárosi Földhivatal illetékessége pedig a főváros területére. A járási földhivatalok illetékességi területét, valamint a kirendeltségek működési területét külön jogszabály határozza meg.
 
-(3)[^13] A körzeti földhivatal a megyei földhivatal önálló feladat- és hatáskörrel rendelkező szervezeti egysége. A körzeti földhivatal nevében a közigazgatási hatósági eljárásokban a körzeti földhivatal vezetője vagy kiadmányozási jogkörrel rendelkező ügyintézője jár el. A megyei földhivatal vezetője vagy más kormánytisztviselője a körzeti földhivatal vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét az elsőfokú közigazgatási hatósági eljárásban nem utasíthatja.
+(3)[^15] A járási földhivatal a külön jogszabályban meghatározott járási (fővárosi kerületi) hivatal önálló feladat- és hatáskörrel rendelkező szakigazgatási szerve. A járási földhivatal nevében a közigazgatási hatósági eljárásokban a járási földhivatal vezetője vagy kiadmányozási jogkörrel rendelkező ügyintézője jár el. A megyei földhivatal vezetője vagy más kormánytisztviselője a járási földhivatal vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét az elsőfokú közigazgatási hatósági eljárásban nem utasíthatja.
 
-(4)[^14] A körzeti földhivatal illetékessége, illetve a földhivatali kirendeltség működési területe kiterjed az 1. mellékletben meghatározott települések, illetve a fővárosi kerületek közigazgatási területére.
+(4)[^16]
 
-[^10]: A 3. § a 357/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^11]: A 3. § (1) bekezdése a 317/2010. (XII. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^13]: A 3. § (3) bekezdése a 317/2010. (XII. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^14]: A 3. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^12]: A 3. § a 357/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 3. § (1) bekezdése a 317/2010. (XII. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: A 3. § (2) bekezdése a 296/2012. (X. 17.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^15]: A 3. § (3) bekezdése a 296/2012. (X. 17.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^16]: A 3. § (4) bekezdését a 296/2012. (X. 17.) Korm. rendelet 69. § d) pontja hatályon kívül helyezte.

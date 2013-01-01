@@ -4,19 +4,19 @@
 
 1. §[^1] (1)[^2] Ingatlanügyi hatóságként a Kormány – ha kormányrendelet eltérően nem rendelkezik – a földhivatali szervezet-rendszernek a (2) bekezdés a)–c) pontjai szerinti szerveket jelöli ki.
 
-(2) A földhivatali szervezet-rendszer
+(2)[^3] A földhivatali szervezet-rendszer
 
 a) megyei földhivatalokból, Budapesten a fővárosi földhivatalból (a továbbiakban együtt: megyei földhivatal),
 
-b) körzeti földhivatalokból és kirendeltségekből,
+b) járási földhivatalokból, Budapesten a Budapesti 1. Számú Földhivatalból és a Budapesti 2. Számú Földhivatalból (a továbbiakban együtt: járási földhivatalok), továbbá földhivatali kirendeltségekből,
 
 c) a Földmérési és Távérzékelési Intézetből (a továbbiakban: FÖMI)
 
 áll.
 
-(3) A FÖMI központi hivatal, amelyet az agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) irányít.
+(3)[^4] A FÖMI központi hivatal, amelyet az ingatlan-nyilvántartásért, a térképészetért, valamint a földügyért felelős miniszter (a továbbiakban: miniszter) irányít.
 
-(4)[^3] A földhivatali szervezet-rendszer
+(4)[^5] A földhivatali szervezet-rendszer
 
 a) központi szerve: a (2) bekezdés c) pontja szerinti szerv,
 
@@ -30,4 +30,6 @@ c) helyi szervei: a (2) bekezdés b) pontja szerinti szervek.
 
 [^1]: Az 1. § a 317/2010. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése az 50/2012. (III. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (4) bekezdése az 50/2012. (III. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdése a 296/2012. (X. 17.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdése a 296/2012. (X. 17.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (4) bekezdése az 50/2012. (III. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
