@@ -1,0 +1,1 @@
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvényben 88. § (1) bekezdés 5. és 14. pontjában foglalt felhatalmazás alapján, valamint az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
