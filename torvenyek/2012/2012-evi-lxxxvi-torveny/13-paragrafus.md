@@ -1,4 +1,4 @@
-13. § (1) Az Mt. hatálybalépését megelőzően megválasztott üzemi tanács tagjára 2012. december 31. napjáig az Mt. 260. § (3) bekezdését megfelelően alkalmazni kell.
+13. § (1)
 
 (2) A 2012. július 1-jét megelőzően megválasztott üzemi tanács tagja megbízatásának megszűnése esetén, az új tag megválasztására az Mt. szabályai az irányadók, azzal, hogy a megbízatás tartama az üzemi tanács megszűnéséig tart.
 

@@ -2,6 +2,8 @@
 
 74. § (1)–(6)
 
-(7)
+(7) A Kftv. 2. § az alábbi (6) bekezdéssel egészül ki:
+
+## „(6) Közfoglalkoztatási jogviszony esetén az Mt. 53. §-a nem alkalmazható.”
 
 (8)–(9)
