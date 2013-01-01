@@ -18,10 +18,10 @@
 
 | Tanácsi rendelet szerinti sorszám | EK irányelv/rendelet | Hatáskörrel rendelkező ellenőrző szervek |
 
-| 16. | A Tanács 91/629/EGK irányelve (1991. november 19.) borjak védelmére vonatkozó minimumkövetelmények megállapításáról 3. és 4. cikk | – Mezőgazdasági Szakigazgatási Hivatal és megyei kormányhivatal Élelmiszerlánc-biztonsági és állategészségügyi igazgatósága |
+| 16. | A Tanács 91/629/EGK irányelve (1991. november 19.) borjak védelmére vonatkozó minimumkövetelmények megállapításáról 3. és 4. cikk | – Nemzeti Élelmiszerlánc-biztonsági Hivatal és megyei kormányhivatal Élelmiszerlánc-biztonsági és állategészségügyi igazgatósága |
 
-| 17. | A Tanács 91/630/EGK irányelve (1991. november 19.) a sertések védelmére vonatkozó minimumkövetelmények megállapításáról 3. cikk és 4. cikk (1) bekezdése | – Mezőgazdasági Szakigazgatási Hivatal és megyei kormányhivatal Élelmiszerlánc-biztonsági és állategészségügyi igazgatósága |
+| 17. | A Tanács 91/630/EGK irányelve (1991. november 19.) a sertések védelmére vonatkozó minimumkövetelmények megállapításáról 3. cikk és 4. cikk (1) bekezdése | – Nemzeti Élelmiszerlánc-biztonsági Hivatal és megyei kormányhivatal Élelmiszerlánc-biztonsági és állategészségügyi igazgatósága |
 
-| 18. | A Tanács 98/58/EK irányelve (1998. július 20.) a tenyésztés céljából tartott állatok védelméről 4. cikk | – Mezőgazdasági Szakigazgatási Hivatal és megyei kormányhivatal Élelmiszerlánc-biztonsági és állategészségügyi igazgatósága |
+| 18. | A Tanács 98/58/EK irányelve (1998. július 20.) a tenyésztés céljából tartott állatok védelméről 4. cikk | – Nemzeti Élelmiszerlánc-biztonsági Hivatal és megyei kormányhivatal Élelmiszerlánc-biztonsági és állategészségügyi igazgatósága |
 
-[^24]: A 3. számú melléklet e rendelet 5. § (2) bekezdésének b) pontja alapján 2013. január 1-jén lép hatályba, szövege a 351/2010. (XII. 30.) Korm. rendelet 196. §-a szerint módosított szöveg.
+[^24]: A 3. számú melléklet e rendelet 5. § (2) bekezdésének b) pontja alapján 2013. január 1-jén lép hatályba, szövege a 351/2010. (XII. 30.) Korm. rendelet 196. §-a, a 23/2012. (II. 29.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
