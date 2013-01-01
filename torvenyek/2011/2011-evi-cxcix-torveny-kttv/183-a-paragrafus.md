@@ -1,0 +1,5 @@
+183/A. § (1) A Közigazgatási és Igazságügyi Hivatal az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek 6. mellékletben meghatározott adatait a kormánytisztviselők munkavégzésével összefüggésben belépési jogosultságot biztosító igazolványok kibocsátása, nyilvántartása és bevonása céljából kezeli.
+
+(2) A 6. melléklet szerinti adatokat, az abban bekövetkező változásokat, valamint a kormányzati szolgálati jogviszony megszűnésére vagy a kormánytisztviselő tartós távollétére vonatkozó adatokat a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőt alkalmazó államigazgatási szerv hivatali szervezetének vezetője köteles a közszolgálati alapnyilvántartás adatai alapján továbbítani az (1) bekezdésben meghatározott adatkezelő részére.
+
+(3) Az (1) bekezdés szerinti nyilvántartásba – az eljárásban indokolt mértékig – saját adatai tekintetében kizárólag a kormánytisztviselő jogosult betekinteni, illetve abból adatokat átvenni.

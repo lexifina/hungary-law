@@ -2,7 +2,7 @@
 
 144. § (1) A kormánytisztviselőt, ha a munkáltató működési körében felmerült okból nem tud munkát végezni, az emiatt kiesett munkaidőre (állásidő) illetmény illeti meg.
 
-(2) A kormánytisztviselőt, ha a munkáltató engedélye alapján mentesül a munkavégzés alól, a kiesett munkaidőre megállapodásuk szerint illeti meg díjazás.
+(2) A kormánytisztviselőt, ha a 79. § j) vagy l) pontja alapján mentesül a munkavégzés alól, a kiesett munkaidőre megállapodásuk szerint illeti meg díjazás.
 
 (3) A kormánytisztviselőt illetmény illeti meg
 

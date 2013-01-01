@@ -32,7 +32,7 @@
 
 14. kormányzati, illetve közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti fegyveres szervnél vagy a Honvédségnél közalkalmazotti jogviszonyban álló személy végzi;
 
-15. körzetközponti jegyző: az a jegyző, aki a körzetközponti feladatot ellátó önkormányzatnál törvény vagy kormányrendelet alapján más településekre is kiterjedő illetékességgel államigazgatási hatáskört gyakorol;
+15.
 
 15a. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
 

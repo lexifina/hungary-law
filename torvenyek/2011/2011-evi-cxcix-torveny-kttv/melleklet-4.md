@@ -1,12 +1,12 @@
 ## A kormánytisztviselő I.
 
-## 1. családi és utóneve
+## 1. családi és utóneve, valamint születési neve
 
 ## 2. technikai azonosítója
 
 ## 3. születési ideje
 
-## 4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma
+## 4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma, e-mail cím
 
 ## II.
 
@@ -69,3 +69,31 @@
 4. melléklet a 2011. évi CXCIX. törvényhez
 
 A toborzási adatbázis adatköre
+
+## I.
+
+## 1. családi és utónév
+
+## 2. születési hely, idő
+
+## 3. lakcím, telefonszám, email cím
+
+## II.
+
+## 1. szakmai tapasztalat
+
+## 2. munkáltató megnevezése, tevékenységi területe
+
+## 3. betöltött feladatkör/munkakör
+
+## 4. időtartam
+
+## III.
+
+## 1. iskolai végzettség
+
+## 2. képző intézmény megnevezése (kar, szak megjelölésével)
+
+## 3. képzés időtartama, végzés időpontja
+
+## 4. idegennyelv-ismerete (szintje, típusa)

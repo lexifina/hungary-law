@@ -2,7 +2,7 @@
 
 ## Az egyoldalú jognyilatkozat, nyilatkozat
 
-14. § (1) Egyoldalú jognyilatkozatból csak törvényben és közszolgálati szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
+14. § (1) Egyoldalú jognyilatkozatból csak az e törvényben, e törvény végrehajtására kiadott jogszabályban és közszolgálati szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
 
 (2) Az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá, és – e törvény eltérő rendelkezésének hiányában – csak a címzett hozzájárulásával módosítható, vagy vonható vissza.
 

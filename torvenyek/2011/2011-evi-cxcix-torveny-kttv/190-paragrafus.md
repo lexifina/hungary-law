@@ -14,7 +14,7 @@ d) a fegyelmi és kártérítési ügyben hozott határozattal;
 
 e) a kinevezés egyoldalú módosításával
 
-kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével szemben a kormánytisztviselő a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
+kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
 
 (3) A kormánytisztviselő közvetlenül a bírósághoz fordulhat keresetével
 
@@ -34,7 +34,7 @@ c) a (2) bekezdésben és a b) pontban meghatározottakon kívüli egyéb tárgy
 
 (8) A (2) bekezdés b)–e) pontjaiban, valamint a (3) bekezdés b) pontjában foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre.
 
-(9) A közszolgálati panaszt a Kormánytisztviselői Döntőbizottság annak kézhezvételétől számított harminc napon belül indokolással ellátott határozatban bírálja el és döntését írásban közli. Ezt a határidőt indokolt esetben a Kormánytisztviselői Döntőbizottság egy alkalommal hatvan nappal meghosszabbíthatja.
+(9) A közszolgálati panaszt a Kormánytisztviselői Döntőbizottság annak kézhezvételétől számított hatvan napon belül indokolással ellátott határozatban bírálja el és döntését írásban közli. Ezt a határidőt indokolt esetben a Kormánytisztviselői Döntőbizottság egy alkalommal hatvan nappal meghosszabbíthatja.
 
 (10) A Kormánytisztviselői Döntőbizottság hatásköre az e törvény hatálya alá tartozó államigazgatási szervnél keletkezett jogvitára terjed ki.
 
@@ -43,3 +43,5 @@ c) a (2) bekezdésben és a b) pontban meghatározottakon kívüli egyéb tárgy
 (12) A tanács a határozatát többségi szavazással hozza.
 
 (13) A Kormánytisztviselői Döntőbizottság eljárása illeték- és költségmentes.
+
+(14) A Kormánytisztviselői Döntőbizottság a jogellenes jogviszony megszüntetésének jogkövetkezményeiről a 193–194. §-okban meghatározottak szerint dönt.

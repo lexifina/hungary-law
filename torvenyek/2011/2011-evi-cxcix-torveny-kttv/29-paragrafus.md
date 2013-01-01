@@ -50,7 +50,7 @@ p) tagjai számára jóléti, szociális és egyéb kedvezményes szolgáltatás
 
 q) megfigyelőként részt vesz a kormánytisztviselők vizsgáztatásában és továbbképzésében, indokolt esetben törvényességi és egyéb intézkedést kezdeményez;
 
-r) tagot delegál az Országos Közigazgatási Vizsgabizottság és a Közigazgatási Továbbképzési Kollégium elnökségébe;
+r) tagot delegál a Közigazgatási Továbbképzési Kollégiumba;
 
 s) megalkotja éves költségvetését, elfogadja az éves költségvetés végrehajtásáról szóló a számviteli törvény szerinti beszámolót;
 

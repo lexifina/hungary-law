@@ -14,8 +14,10 @@ b) főosztályvezető-helyettes esetén az alapilletmény 15%-a,
 
 c) osztályvezető esetén az alapilletmény 10%-a.
 
-(3) A 134. § (4) bekezdésben meghatározott államigazgatási szervnél a vezetői illetménypótlék mértéke a vezető alapilletményének:
+(3) A 134. § (4) bekezdésében meghatározott államigazgatási szervnél a vezetői illetménypótlék mértéke a vezető alapilletményének:
 
 a) főosztályvezető esetén az alapilletmény 20%-a,
 
-b) osztályvezető esetén az alapilletmény 10%-a.
+b) főosztályvezető-helyettes esetén az alapilletmény 15%-a,
+
+c) osztályvezető esetén az alapilletmény 10%-a.

@@ -6,10 +6,12 @@
 
 (4) A 230. § hatálya kiterjed a polgármesterre, valamint a helyi önkormányzati képviselőre.
 
-(5) A 80. § (2) bekezdésének hatálya – az ott meghatározottak szerint – kiterjed a Nemzeti Közszolgálati Egyetemre.
+(5) A 80. § (2) és (3) bekezdésének hatálya – az ott meghatározottak szerint – kiterjed a Nemzeti Közszolgálati Egyetemre.
 
 (6) Az e törvény hatálya alá tartozó szervek jegyzékét a Kormány teszi közzé.
 
 (7) A 258. § hatálya kiterjed a közigazgatási szervnél kormánytisztviselőnek, köztisztviselőnek, kormányzati, illetve közszolgálati ügykezelőnek nem minősülő munkavállaló munkaviszonyára.
 
-(8) A 34. § (3) bekezdésének, 37. § (1) bekezdésének, 151. §, 185. §, 186. § (1)–(2) bekezdéseinek, 187. § (1) bekezdésének, 188. §, 203. § (1)–(5) és (9) bekezdéseinek, 205. § (2) bekezdésének, 215. § (4) bekezdésének, 216. § (3) bekezdésének, 218. § (1) bekezdésének, 219. § (4)–(6) bekezdéseinek, 220. § (7) bekezdésének, 224. § (4)–(6) bekezdésének hatálya kiterjed a politikai vezetőre.
+(8) A politikai vezetők állami vezetői szolgálati jogviszonyára a 26–50. §, 53. §, 55–73. §, 80–88. §, 98. §, 100. § (1) bekezdés, 101. §, 116–130. §, 133–142. §, 150. §, 154–159. §, 181–183. §, 190–191. §, 195–225. § kivételével e törvény kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni. A politikai vezető, valamint a munkáltató az állami vezetői szolgálati jogviszonyból származó igényt a 238. § megfelelő alkalmazásával érvényesítheti.
+
+(9) Törvény eltérő rendelkezése hiányában az állami intézményfenntartó központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.

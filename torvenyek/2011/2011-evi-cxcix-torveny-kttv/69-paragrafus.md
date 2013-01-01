@@ -58,7 +58,7 @@ b) legkésőbb a kormányzati szolgálati jogviszony megszűnésének időpontj�
 
 c) felmentésére a 63. § (2) bekezdés b) pontjában meghatározott okból került sor;
 
-d) kormányzati szolgálati jogviszonya a 72. § szerint szűnt meg és az új munkáltatóval a 72. § szerint foglalkoztatásra irányuló jogviszonyt létesít;
+d) kormányzati szolgálati jogviszonya a 72. § szerint alakult át;
 
 e) méltatlanság címén mentették fel.
 

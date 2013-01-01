@@ -8,7 +8,7 @@
 
 (3) A közszolgálati ügykezelő közszolgálati jogviszonyában a 226. § (3) bekezdésében foglaltakon túlmenően
 
-a) a kinevezés feltételei közül a 39. § (1) bekezdését, a pályázatra [45. § (1) bekezdése] vonatkozó rendelkezést,
+a) a kinevezés feltételei közül a 39. § (1) bekezdését,
 
 b) a tartalékállományra (73. §, 181. §) vonatkozó rendelkezéseket,
 

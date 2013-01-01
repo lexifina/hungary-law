@@ -16,8 +16,10 @@ g) a 80. § (1) bekezdése szerinti továbbképzésben, valamint a 81. §-ban fo
 
 h) önkéntes, illetőleg létesítményi tűzoltói szolgálat ellátása időtartamára,
 
-i) bíróság vagy hatóság felhívására vagy az eljárásban való személyes részvételhez szükséges időtartamra,
+i) bíróság vagy hatóság vagy Kormánytisztviselői Döntőbizottság felhívására vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 
 j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára, továbbá
 
-k) e törvényben, valamint a közszolgálati szabályzatban meghatározott időtartamra.
+k) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra,
+
+l) a munkáltató engedélye alapján.

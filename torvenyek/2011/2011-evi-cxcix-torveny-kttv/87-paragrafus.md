@@ -12,7 +12,9 @@ d) elláthat edzői, versenybírói, játékvezetői tevékenységet,
 
 e) folytathat tanszékvezetői tevékenységet,
 
-f) lehet állami alapító vagy az általa létrehozott szervezet által önállóan, vagy más állami alapítóval, állami alapító által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítványban felügyelő bizottsági tag.
+f) lehet állami alapító vagy az általa létrehozott szervezet által önállóan, vagy más állami alapítóval, állami alapító által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítványban felügyelő bizottsági tag,
+
+g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője.
 
 (3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1) és (2) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 

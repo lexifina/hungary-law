@@ -26,7 +26,7 @@ a) a 3000-nél kevesebb lakosú településen – ide nem értve a városokat �
 
 b) a 3000–10 000 lakosú településen, valamint a 3000-nél kevesebb lakosú városokban osztályvezetői szintnek megfelelő vezetői kinevezés adható,
 
-c) 10 000 feletti lakosú településen, valamint a körzetközponti feladatot ellátó önkormányzatnál, megyei jogú városi önkormányzatnál, megyei önkormányzatnál, fővárosi kerületi, fővárosi önkormányzatnál osztályvezetői és főosztályvezető-helyettesi szintnek megfelelő vezetői kinevezésen túl további vezetői kinevezés is adható.
+c) 10 000 feletti lakosú településen, valamint a megyei jogú városi önkormányzatnál, megyei önkormányzatnál, fővárosi kerületi, fővárosi önkormányzatnál osztályvezetői és főosztályvezető-helyettesi szintnek megfelelő vezetői kinevezésen túl további vezetői kinevezés is adható.
 
 (6) A (4) bekezdés a) pont és az (5) bekezdés alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
 

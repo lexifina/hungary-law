@@ -46,4 +46,6 @@ e) aki a kormányzati szolgálati jogviszony alapján végzett tevékenység fol
 
 (6) Jogszabály – vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója – a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti.
 
+(6a) Nem nevezhető ki kormánytisztviselőnek a 7. § (1) bekezdés a) pontjában meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve ha a Kormány a munkáltató kérelmére hozzájárul a kormánytisztviselő foglalkoztatásához.
+
 (7) Az e törvényben meghatározott alkalmazási feltételek alól – a 41. § (1) bekezdés a) pontja kivételével – felmentés nem adható.

@@ -34,11 +34,17 @@ vonatkozó részletes szabályokat;
 
 4. a közszolgálati tisztviselő kormányzati szolgálati jogviszonnyal, illetve közszolgálati jogviszonnyal összefüggő költségeinek megtérítésére vonatkozó részletes szabályokat megállapítsa;
 
-5. a közszolgálati tisztviselők teljesítményértékelésének, minősítésnek a rendjére, eljárásra és szintjeire vonatkozó részletes szabályokat megállapítsa;
+5. megállapítsa a közszolgálati tisztviselők
+
+a) teljesítményértékelésének kötelező elemeit,
+
+b) teljesítményértékelésének ajánlott elemeit, továbbá
+
+c) teljesítményértékelésének, minősítésének a rendjére, eljárására és szintjeire vonatkozó részletes szabályokat;
 
 6. megállapítsa
 
-a) a közszolgálati tisztviselők részére járó cafetéria-juttatás, az állam által vállalt készfizető kezesség, valamint az egyéb, a közszolgálati tisztviselők részére adható juttatásokra,
+a) a közszolgálati tisztviselők részére járó cafetéria-juttatás, valamint az egyéb, a közszolgálati tisztviselők részére adható juttatásokra,
 
 b) a központi államigazgatási szerveknél, azok területi és helyi szerveinél foglalkoztatott kormánytisztviselők jutalmazására vonatkozó részletes szabályokat és a jutalmazással összefüggő adatkezelésre és adatszolgáltatásra,
 
@@ -46,7 +52,11 @@ c) a célfeladatra és a kutatási megállapodásra,
 
 d) a képzettségi és munkaköri pótlékra,
 
-e) a nyugállományú közszolgálati tisztviselők számára megállapítható juttatásokra
+e) a nyugállományú közszolgálati tisztviselők számára megállapítható juttatásokra,
+
+f) az üdülési támogatásra,
+
+g) a magántulajdonú lakás megszerzéséhez nyújtott hitelintézeti kölcsön feltételeire és igénybevételére
 
 vonatkozó részletes szabályokat;
 
@@ -54,7 +64,7 @@ vonatkozó részletes szabályokat;
 
 8. megállapítsa a címzetes főjegyzői cím adományozásának, megszűnésének és visszavonásának eljárási szabályait, valamint a címadományozási juttatás kifizetésére vonatkozó részletes szabályokat;
 
-9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, valamint a Kormánytisztviselői Döntőbizottság jogállására, juttatásaira, továbbá a Kormánytisztviselői Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat megállapítsa;
+9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Kormánytisztviselői Döntőbizottság jogállására, juttatásaira, továbbá a Kormánytisztviselői Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat megállapítsa;
 
 10. megállapítsa
 
@@ -62,7 +72,7 @@ a) a munkaidőkeretre, az egyenlőtlen munkaidő-beosztásra, a heti pihenőidő
 
 b) a távmunkavégzésre,
 
-c) a központi államigazgatási szervekre, azok területi és helyi szerveire nézve igazgatási területenként az adott évre az igazgatási szünet időtartamára,
+c) a központi államigazgatási szervekre, azok területi és helyi szerveire nézve igazgatási területenként az igazgatási szünet időtartamára,
 
 d) egészségi ártalom vagy veszély kizárása érdekében a munkaidőn belül az adott tevékenységre fordítható leghosszabb időtartamára
 
@@ -74,13 +84,15 @@ vonatkozó részletes szabályokat;
 
 a) a kormányzati szolgálati jogviszony, valamint a közszolgálati jogviszony létesítéséhez kapcsolódóan a közszolgálati tisztviselőt terhelő kötelezettségekre,
 
-b) a munkáltatót a kinevezéssel kapcsolatban és a kormányzati szolgálati jogviszony, illetve a közszolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre vonatkozó részletes szabályokat;
+b) a munkáltatót a kinevezéssel kapcsolatban és a kormányzati szolgálati jogviszony, illetve a közszolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre vonatkozó részletes szabályokat,
+
+c) a részmunkaidőben történő foglalkoztatás lehetőségével összefüggő munkáltatói kötelezettségeket, valamint az atipikus foglalkoztatási formákhoz kapcsolódó tájékoztatási kötelezettségeket;
 
 13. a közélet tisztasága szempontjából jelentős érzékenységgel rendelkező munkaköröket megállapítsa;
 
 14. a képesítésre vonatkozó részletes szabályokat megállapítsa;
 
-15. a pártfogó felügyelők jogállásával összefüggő részletes szabályokat megállapítsa;
+15.
 
 16. megállapítsa
 
@@ -96,22 +108,34 @@ a) a közigazgatási alap- és szakvizsgával, valamint az ügykezelői alapvizs
 
 b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint e vizsgák alóli mentesítésre vonatkozó részletes szabályokat,
 
-c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat.
+c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat;
+
+18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
 
 (2) Az államigazgatási szerv a kormánytisztviselő önkéntes kiegészítő nyugdíjpénztári tagságához egyéb juttatásként támogatást nyújthat. A központi költségvetés támogatásának részletes szabályait a Kormány határozza meg.
 
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési és kárpótlási feladatokat ellátó szervek dolgozóinak igazolványára vonatkozó szabályokat,
+a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó szervek foglalkoztatottjainak igazolványára vonatkozó szabályokat,
 
 b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő köztisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
 
 (5) Felhatalmazást kap a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) a személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszerrel összefüggő részletes szabályokat,
 
-b) a kormánytisztviselői jogviszonnyal kapcsolatos munkáltatói jogkör gyakorlásával és átruházásával összefüggő részletes szabályokat.
+b) a kormányzati szolgálati jogviszonnyal kapcsolatos munkáltatói jogkör gyakorlásával és átruházásával összefüggő részletes szabályokat,
+
+c) a közszolgálati tisztviselők
+
+ca) teljesítményértékelése eredményének súlyozására vonatkozó,
+
+cb) teljesítményértékelésének ajánlott elemeihez, valamint minősítéséhez kapcsolódó értékelési lapokat és az értékelő lapokkal összefüggő,
+
+cc) teljesítményértékelésének módszertanára vonatkozó
+
+részletes szabályokat.

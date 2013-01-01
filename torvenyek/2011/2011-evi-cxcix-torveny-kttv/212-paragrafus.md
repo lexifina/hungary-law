@@ -10,4 +10,4 @@
 
 (3) A szakmai vezető a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított tizenöt napon belül köteles visszafizetni.
 
-(4) Ha a szakmai vezető kinevezéséről, felmentéséről vagy jogviszonya lemondás miatti megszűnésének megállapításáról szóló okiratban a kormányzati szolgálati jogviszony keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, a szakmai vezető a megjelölt naptári nap kezdetén lép hivatalba, illetve jogviszonya a megjelölt naptári nap végén szűnik meg.
+(4) Ha a szakmai vezető kinevezéséről, a kormányzati szolgálati jogviszonyának e tisztségéből felmentéssel vagy e tisztségéről lemondással való megszűnésének megállapításáról szóló okiratban a megbízatás keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, a szakmai vezető a megjelölt naptári nap kezdetén lép hivatalba, illetve megbízatása a megjelölt naptári nap végén szűnik meg.

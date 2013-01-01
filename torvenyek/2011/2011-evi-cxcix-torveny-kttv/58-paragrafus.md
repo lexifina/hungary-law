@@ -1,6 +1,6 @@
 ## A munkáltató személyében bekövetkező jogutódlás
 
-58. § (1) Nem kell a kormánytisztviselő beleegyezése, ha – a kormányzati szolgálati jogviszony, a feladatkör, az illetmény és a munkavégzés helye szerinti település megváltozása nélkül – a közigazgatási szerv személyében jogutódlás miatt bekövetkezett változás indokolja a kinevezés módosítását.
+58. § (1) Nem kell a kormánytisztviselő beleegyezése, ha – a kormányzati szolgálati jogviszony, a feladatkör, a munkavégzés helye szerinti település és az illetmény megváltozása nélkül, ide nem értve a 134. § alapján járó illetménykiegészítés megváltozását – az államigazgatási szerv személyében jogutódlás miatt bekövetkezett változás indokolja a kinevezés módosítását.
 
 (2) Jogutódlás esetén az annak időpontjában fennálló jogviszonyból származó jogok és kötelességek a jogutódlás időpontjában a jogelődről (átadó) a jogutód (átvevő) munkáltatóra szállnak át.
 

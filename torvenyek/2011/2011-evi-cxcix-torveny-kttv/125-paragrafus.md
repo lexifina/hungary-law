@@ -6,9 +6,9 @@
 
 (3) Az (1) bekezdésben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében fel kell tüntetni.
 
-(4) Főtanácsadói munkakör ellátására kinevezést az kaphat, aki feladata ellátásához szükséges egyetemi szintű végzettséggel és szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott OKV elnökségi teljes körű mentesítéssel és legalább ötéves szakmai gyakorlattal rendelkezik.
+(4) Főtanácsadói munkakör ellátására kinevezést az kaphat, aki feladata ellátásához szükséges egyetemi szintű végzettséggel és szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott Közigazgatási Továbbképzési Kollégiumi teljes körű mentesítéssel és legalább ötéves szakmai gyakorlattal rendelkezik.
 
-(5) Tanácsadói munkakör ellátására kinevezést az kaphat, aki felsőfokú iskolai végzettséggel és feladata ellátásához szükséges szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott OKV elnökségi teljes körű mentesítéssel és legalább kétéves szakmai gyakorlattal rendelkezik.
+(5) Tanácsadói munkakör ellátására kinevezést az kaphat, aki felsőfokú iskolai végzettséggel és feladata ellátásához szükséges szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott Közigazgatási Továbbképzési Kollégiumi teljes körű mentesítéssel és legalább kétéves szakmai gyakorlattal rendelkezik.
 
 (6) Ha a főtanácsadó, illetve tanácsadó kormányzati szolgálati jogviszonya megszűnésekor – a hivatalvesztés fegyelmi büntetés kivételével – e törvény szerint nyugdíjasnak minősül, a kormánytisztviselő jogosult a főtanácsadói, illetve tanácsadói elnevezés „nyugalmazott” jelzővel kiegészített használatára.
 

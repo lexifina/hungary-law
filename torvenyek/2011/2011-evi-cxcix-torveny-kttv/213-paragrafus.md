@@ -1,4 +1,4 @@
-213. § (1) A szakmai vezető összeférhetetlenségére a 87. §-ának a vezetői munkakört betöltő kormánytisztviselőre vonatkozó rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+213. § (1) A szakmai vezető összeférhetetlenségére a 87. §-nak a vezetői munkakört betöltő kormánytisztviselőre vonatkozó rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A szakmai vezető érdek-képviseleti szervezetben tisztséget, szövetkezetben vezető tisztséget nem viselhet, nem lehet továbbá alapítvány kezelő szervezetének tagja.
 

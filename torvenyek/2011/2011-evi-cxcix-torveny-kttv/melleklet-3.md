@@ -140,4 +140,4 @@
 
 3. melléklet a 2011. évi CXCIX. törvényhez
 
-A tartalékállományba helyezett közszolgálati jogviszonyban állók nyilvántartásának adatköre
+A tartalékállományba helyezett közszolgálati tisztviselők nyilvántartásának adatköre

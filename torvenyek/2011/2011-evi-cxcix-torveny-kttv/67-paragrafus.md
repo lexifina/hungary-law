@@ -10,4 +10,4 @@ c) száz vagy annál több, de háromszáznál kevesebb kormánytisztviselő fog
 
 d) háromszáz vagy annál több kormánytisztviselő foglalkoztatása esetén legalább harminc fő.
 
-Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a kormánytisztviselői jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani.
+Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a kormányzati szolgálati jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani.

@@ -4,7 +4,7 @@
 
 (2) A teljesítményértékelésnek vannak kötelező és ajánlott elemei.
 
-(3) Legalább négy teljesítményértékelés eredménye együttesen adja a kormánytisztviselő minősítését. Minősíteni az első teljesítményértékeléstől számított egy évet követően kell.
+(3) Legalább kettő teljesítményértékelés eredménye együttesen adja a kormánytisztviselő minősítését. Minősíteni az első teljesítményértékeléstől számított egy évet követően kell.
 
 (4) A teljesítményértékelés alapján jutalom fizethető.
 

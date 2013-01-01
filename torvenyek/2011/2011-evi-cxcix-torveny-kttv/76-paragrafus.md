@@ -12,4 +12,4 @@ d) vezetőkkel és munkatársakkal együttműködni,
 
 e) munkáját személyesen ellátni, valamint általában olyan magatartást tanúsítani, hogy ez más egészségét és testi épségét ne veszélyeztesse, munkáját ne zavarja, anyagi károsodását vagy helytelen megítélését ne idézze elő.
 
-(2) Az (1) bekezdésben meghatározottakon túl a kormánytisztviselő vezetői iránti szakmai lojalitással köteles ellátni feladatait. Szakmai lojalitás alatt kell érteni különösen a vezető által meghatározott szakmai értékek iránti elkötelezettséget, a vezetőkkel és a munkatársakkal való alkotó együttműködést, a szakmai elhivatottsággal történő, fegyelmezett és lényeglátó feladatvégzést.
+(2) A kormánytisztviselő vezetői iránti szakmai lojalitással köteles ellátni feladatait. Szakmai lojalitás alatt kell érteni különösen a vezető által meghatározott szakmai értékek iránti elkötelezettséget, a vezetőkkel és a munkatársakkal való alkotó együttműködést, a szakmai elhivatottsággal történő, fegyelmezett és lényeglátó feladatvégzést.

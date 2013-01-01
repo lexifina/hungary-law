@@ -2,13 +2,15 @@
 
 (2) Az Országos Közgyűlést szükség szerint, de évente legalább egy alkalommal össze kell hívni. Az Országos Közgyűlés kötelező összehívásának más eseteit, továbbá a működés rendjét az Alapszabály állapítja meg.
 
-(3) Az Országos Közgyűlés feladata:
+(3) Az Országos Közgyűlés:
 
-a) megválasztja saját tagjai közül az elnökét, alelnökeit, a főtitkárt, az Országos Pénzügyi Ellenőrző Bizottság, valamint az Országos Etikai Bizottság elnökét és tagjait;
+a) saját tagjai közül megválasztja az elnökét, alelnökeit, az Országos Pénzügyi Ellenőrző Bizottság, valamint az Országos Etikai Bizottság elnökét és tagjait;
 
 b) megalkotja az Alapszabályt és a Választási Szabályzatot;
 
-c) gyakorolja az MKK-nak az e törvényben, valamint az Alapszabályban meghatározott feladat- és hatásköreit.
+c) gyakorolja az MKK-nak az e törvényben, valamint az Alapszabályban meghatározott feladat- és hatásköreit;
+
+d) megválasztja a főtitkárt.
 
 (4) Az Országos Közgyűlés feladat- és hatásköreinek gyakorlását – ha e törvény vagy az Alapszabály nem rendelkezik másképp – átruházhatja az MKK országos és területi szerveire és tisztségviselőire.
 
