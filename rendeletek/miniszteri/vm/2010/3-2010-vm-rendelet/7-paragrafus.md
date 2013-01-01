@@ -28,6 +28,6 @@ Melléklet a 3/2010. (VII. 5.) VM rendelethez
 
 11. Szállítmányonként 20 tonna feletti 10. ponttól eltérő valamennyi a feldolgozatlan és feldolgozott élelmiszerek szállítmány, az elsődleges termelésből származó nem állati alaptermék, illetve az élelmiszerként történő forgalmazási és feldolgozási céllal beszállított élő állat.
 
-12.[^4] Ionizáló sugárzással kezelt élelmiszerek.
+12.[^10] Ionizáló sugárzással kezelt élelmiszerek.
 
-[^4]: A melléklet 12. pontját a 67/2011. (VII. 13.) VM rendelet 10. §-a iktatta be.
+[^10]: A melléklet 12. pontját a 67/2011. (VII. 13.) VM rendelet 10. §-a iktatta be.
