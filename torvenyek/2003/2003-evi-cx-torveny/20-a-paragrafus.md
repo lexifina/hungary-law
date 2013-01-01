@@ -264,7 +264,7 @@ Otto-motoros személygépkocsi
 
 |
 
-A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó elektromos meghajtású, kizárólag elektromos úton tölthető személygépkocsi
+A 6/1990. (IV. 12.) KöHÉM rendelet szerinti elektromos meghajtású, kizárólag elektromos úton tölthető személygépkocsi
 
 |
 
@@ -276,7 +276,7 @@ A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szeri
 
 |
 
-A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó hybrid (elektromos és Otto-, vagy elektromos és dízelmotoros) hajtású, illetőleg a 8. pont alá nem tartozó egyéb személygépkocsi
+A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, illetőleg az 1–8. kategória alá nem tartozó egyéb személygépkocsi
 
 |
 
@@ -540,11 +540,11 @@ A = adótétel (a Melléklet I. részének adókategóriáiban az adott gépjár
 
 K = Az adó csökkentésének a táblázat II. oszlopában meghatározott mértéke, amely a gépjármű forgalomba helyezésétől számított időtartam alapján az adócsökkentő mértékek alkalmazása tekintetében az utolsó előtti időszakra vonatkozik;
 
-k = A gépjármű forgalomba helyezésétől számított időtartam utolsó időszakára irányadó, a táblázat II. oszlopában meghatározott mérték csökkentve a „K” mértékével;
+k = A gépjármű forgalomba helyezésétől számított időtartam utolsó időszakára irányadó, a táblázat II. oszlopában meghatározott mérték csökkentve a “K” mértékével;
 
 T = Az adóigazgatási eljárás kezdetének hónapját magában foglaló, a táblázat I. oszlopában meghatározott időtartamon belüli hónapok száma;
 
-t = a gépjármű forgalomba helyezésétől számított hónapok száma csökkentve a „K” adócsökkentő mértékhez tartozó, a táblázat I. oszlopa szerinti, felső korlátként megállapított hónapok számával.
+t = a gépjármű forgalomba helyezésétől számított hónapok száma csökkentve a “K” adócsökkentő mértékhez tartozó, a táblázat I. oszlopa szerinti, felső korlátként megállapított hónapok számával.
 
 III.
 
