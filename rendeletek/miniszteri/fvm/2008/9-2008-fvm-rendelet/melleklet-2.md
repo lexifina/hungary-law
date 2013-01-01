@@ -196,6 +196,6 @@
 
 ## Zalaegerszeg
 
-2. számú melléklet a 9/2008. (I. 24.) FVM rendelethez[^23]
+2. számú melléklet a 9/2008. (I. 24.) FVM rendelethez[^24]
 
-[^23]: A 2. számú melléklet az 54/2008. (IV. 24.) FVM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^24]: A 2. számú melléklet az 54/2008. (IV. 24.) FVM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
