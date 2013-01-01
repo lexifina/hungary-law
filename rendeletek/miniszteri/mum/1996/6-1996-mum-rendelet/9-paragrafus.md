@@ -1,4 +1,4 @@
-9. §[^46] (1)[^47] Az Flt. 14. §-a (1) bekezdésének g) pontjában meghatározott munkavállalók képzése – a (2) bekezdésben foglalt kivétellel – akkor támogatható, ha
+9. §[^50] (1)[^51] Az Flt. 14. §-a (1) bekezdésének g) pontjában meghatározott munkavállalók képzése – a (2) bekezdésben foglalt kivétellel – akkor támogatható, ha
 
 a) a képzés az 1. §-ban, a képző intézmény a 3. §-ban foglalt feltételeknek megfelel, és
 
@@ -8,7 +8,7 @@ c) a munkaadó a képzés költségeihez hozzájárul, vagy saját maga vagy ké
 
 (2) Az (1) bekezdés c) pontjában meghatározott, a munkaadót terhelő képzési költségekhez történő hozzájárulástól el kell tekinteni, ha a képzésben részt vevő munkavállaló a támogatás iránti kérelem benyújtásakor a 45. életévét betöltötte.
 
-(3) A képzés támogatására a munkaadó által a telephely szerint illetékes munkaügyi központhoz benyújtott kérelem alapján kerül sor.
+(3)[^52] A képzés támogatására a munkaadó által a telephely szerint illetékes kirendeltséghez benyújtott kérelem alapján kerül sor.
 
 (4) A (3) bekezdésben meghatározott kérelemnek tartalmaznia kell:
 
@@ -24,13 +24,14 @@ e) a képzési program összes, illetve fajlagos költségeit (Ft/fő/óra) a mu
 
 f) a képzésben részt vevők további foglalkoztatására vonatkozó munkaadói nyilatkozatot.
 
-(5)[^48]
+(5)[^53]
 
 (6) A munkaadónak nyújtandó támogatás szempontjából keresetkiegészítésként a képzésben részt vevő által a képzést megelőzően elért átlagkereset és a képzés alatt elért kereset különbözete vehető figyelembe.
 
-(7)–(8)[^49]
+(7)–(8)[^54]
 
-[^46]: A 9. § a 13/2003. (X. 10.) FMM rendelet 4. §-ával megállapított szöveg.
-[^47]: A 9. § (1) bekezdés bevezető szövegrésze a 14/2008. (VII. 30.) SZMM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^48]: A 9. § (5) bekezdését a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^49]: A 9. § (7)–(8) bekezdését a 3/2007. (II. 9.) SZMM rendelet 25. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^50]: A 9. § a 13/2003. (X. 10.) FMM rendelet 4. §-ával megállapított szöveg.
+[^51]: A 9. § (1) bekezdés bevezető szövegrésze a 14/2008. (VII. 30.) SZMM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^52]: A 9. § (3) bekezdése a 48/2012. (XII. 28.) NGM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^53]: A 9. § (5) bekezdését a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^54]: A 9. § (7)–(8) bekezdését a 3/2007. (II. 9.) SZMM rendelet 25. § (1) bekezdésének b) pontja hatályon kívül helyezte.

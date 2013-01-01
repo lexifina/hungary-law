@@ -1,4 +1,4 @@
-21/B. §[^149] (1) A 21/A. § (1) bekezdésében meghatározott támogatás a MEB működésével összefüggő kiadásokra használható fel, így különösen:
+21/B. §[^158] (1) A 21/A. § (1) bekezdésében meghatározott támogatás a MEB működésével összefüggő kiadásokra használható fel, így különösen:
 
 a) a MEB vezetőjének tiszteletdíja és az az után fizetendő társadalombiztosítási járulék,
 
@@ -12,17 +12,19 @@ e) a MEB munkájához szükséges kiadványok előállítása, terjesztése,
 
 f) a MEB tevékenységével, programjával összefüggő hirdetési költségek,
 
-g)[^150] a MEB által szervezett szolgáltatások költségei [pl. állás- és képzési börzék, jogi, vállalkozási, társadalombiztosítási, pszichológiai tanácsadás, álláskeresési, valamint helyi (térségi) tanácsadás, továbbá kihelyezett információs iroda működtetése].
+g)[^159] a MEB által szervezett szolgáltatások költségei [pl. állás- és képzési börzék, jogi, vállalkozási, társadalombiztosítási, pszichológiai tanácsadás, álláskeresési, valamint helyi (térségi) tanácsadás, továbbá kihelyezett információs iroda működtetése].
 
-(2) A támogatás nem számolható el azokra az ingyenes szolgáltatásokra, amelyeket a munkaügyi központ vagy megbízásából közhasznú szervezet nyújt a létszámleépítésben érintett munkavállalók számára.
+(2)[^160] A támogatás nem számolható el azokra az ingyenes szolgáltatásokra, amelyeket a kirendeltség vagy megbízásából közhasznú szervezet nyújt a létszámleépítésben érintett munkavállalók számára.
 
-(3)[^151]
+(3)[^161]
 
-(4) A támogatás folyósítása akkor kezdhető meg, ha a munkaadó a munkaügyi központ részére teljesítette a létszámleépítésre vonatkozó, külön törvényben meghatározott tájékoztatási kötelezettségét.
+(4)[^162] A támogatás folyósítása akkor kezdhető meg, ha a munkaadó a kirendeltség részére teljesítette a létszámleépítésre vonatkozó, külön törvényben meghatározott tájékoztatási kötelezettségét.
 
-(5)[^152] A 21/A. § (1) bekezdésben meghatározott támogatásról szóló hatósági szerződésnek az Flt. 21. §-ának (2) bekezdésében foglaltakon kívül tartalmaznia kell a támogatás folyósításának megkezdésére vonatkozó (4) bekezdésben foglalt feltételeket is.
+(5)[^163] A 21/A. § (1) bekezdésben meghatározott támogatásról szóló hatósági szerződésnek az Flt. 21. §-ának (2) bekezdésében foglaltakon kívül tartalmaznia kell a támogatás folyósításának megkezdésére vonatkozó (4) bekezdésben foglalt feltételeket is.
 
-[^149]: A 21/B. §-t a 6/1998. (III. 4.) MüM rendelet 9. §-a iktatta a szövegbe.
-[^150]: A 21/B. § (1) bekezdésének g) pontja a 6/2002. (XI. 28.) FMM rendelet 9. §-ával megállapított szöveg.
-[^151]: A 21/B. § (3) bekezdését a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^152]: A 21/B. § (5) bekezdése a 20/2005. (X. 27.) FMM rendelet 13. §-ával megállapított szöveg.
+[^158]: A 21/B. §-t a 6/1998. (III. 4.) MüM rendelet 9. §-a iktatta a szövegbe.
+[^159]: A 21/B. § (1) bekezdésének g) pontja a 6/2002. (XI. 28.) FMM rendelet 9. §-ával megállapított szöveg.
+[^160]: A 21/B. § (2) bekezdése a 48/2012. (XII. 28.) NGM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^161]: A 21/B. § (3) bekezdését a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^162]: A 21/B. § (4) bekezdése a 48/2012. (XII. 28.) NGM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^163]: A 21/B. § (5) bekezdése a 20/2005. (X. 27.) FMM rendelet 13. §-ával megállapított szöveg.

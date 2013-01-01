@@ -1,6 +1,6 @@
-## A rehabilitációs célú foglalkoztatás támogatása[^132]
+## A rehabilitációs célú foglalkoztatás támogatása[^140]
 
-19/B. §[^133] (1) A 19. § (1) bekezdésének e) pontja alapján támogatás akkor nyújtható, ha a munkaadó
+19/B. §[^141] (1) A 19. § (1) bekezdésének e) pontja alapján támogatás akkor nyújtható, ha a munkaadó
 
 a) a 19/A. § (1)–(2) bekezdésében foglaltak alapján támogatásban részesíthető, és
 
@@ -24,11 +24,11 @@ g) a beruházással létrehozott kapacitásokat, szolgáltatásokat a foglalkozt
 
 (5) A foglalkoztatási kötelezettség időtartama 3 év.
 
-(6)[^134] A támogatás az általános csoportmentességi rendelet I. fejezetének rendelkezéseivel, valamint a 42. cikkében foglaltakkal összhangban nyújtható. A támogatás összegének meghatározásakor figyelembe kell venni az általános csoportmentességi rendelet 7. cikkének (4) bekezdésében foglalt rendelkezéseket.
+(6)[^142] A támogatás az általános csoportmentességi rendelet I. fejezetének rendelkezéseivel, valamint a 42. cikkében foglaltakkal összhangban nyújtható. A támogatás összegének meghatározásakor figyelembe kell venni az általános csoportmentességi rendelet 7. cikkének (4) bekezdésében foglalt rendelkezéseket.
 
-(7)[^135] Az általános csoportmentességi rendeletben foglaltakat nem kell alkalmazni, ha a támogatást kérő költségvetési szerv, egyesület, alapítvány, közalapítvány, köztestület, kisebbségi önkormányzat, non-profit gazdasági társaság, és az általa végzett támogatott tevékenység nem minősül gazdasági tevékenységnek.
+(7)[^143] Az általános csoportmentességi rendeletben foglaltakat nem kell alkalmazni, ha a támogatást kérő költségvetési szerv, egyesület, alapítvány, közalapítvány, köztestület, kisebbségi önkormányzat, non-profit gazdasági társaság, és az általa végzett támogatott tevékenység nem minősül gazdasági tevékenységnek.
 
-[^132]: A 19/B. § előtti alcímet a 24/2005. (XII. 27.) FMM rendelet 7. §-a iktatta be.
-[^133]: A 19/B. §-t a 4/2000. (IV. 12.) SZCSM rendelet 15. §-a iktatta be, szövege a 31/2004. (XII. 21.) FMM rendelet 8. §-ával megállapított szöveg.
-[^134]: A 19/B. § (6) bekezdését a 3/2007. (II. 9.) SZMM rendelet 12. §-a iktatta be, szövege a 3/2009. (II. 18.) SZMM rendelet 8. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 12. § (5) bekezdését.
-[^135]: A 19/B. § (7) bekezdését a 3/2007. (II. 9.) SZMM rendelet 12. §-a iktatta be, szövege a 3/2009. (II. 18.) SZMM rendelet 7. § (2) bekezdésével megállapított és 12. § (6) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 12. § (5) bekezdését.
+[^140]: A 19/B. § előtti alcímet a 24/2005. (XII. 27.) FMM rendelet 7. §-a iktatta be.
+[^141]: A 19/B. §-t a 4/2000. (IV. 12.) SZCSM rendelet 15. §-a iktatta be, szövege a 31/2004. (XII. 21.) FMM rendelet 8. §-ával megállapított szöveg.
+[^142]: A 19/B. § (6) bekezdését a 3/2007. (II. 9.) SZMM rendelet 12. §-a iktatta be, szövege a 3/2009. (II. 18.) SZMM rendelet 8. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 12. § (5) bekezdését.
+[^143]: A 19/B. § (7) bekezdését a 3/2007. (II. 9.) SZMM rendelet 12. §-a iktatta be, szövege a 3/2009. (II. 18.) SZMM rendelet 7. § (2) bekezdésével megállapított és 12. § (6) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 12. § (5) bekezdését.

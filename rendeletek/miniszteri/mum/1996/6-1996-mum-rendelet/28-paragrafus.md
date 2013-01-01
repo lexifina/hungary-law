@@ -6,6 +6,6 @@
 
 (3) Munkahelyteremtés támogatására a rendelet hatálybalépését megelőzően kiírt pályázati felhívásra beadott kérelmeket a pályázati felhívás kiadása idején hatályos szabályok szerint kell elbírálni.
 
-(4)[^234]
+(4)[^247]
 
-[^234]: A 28. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 37. §-ának 9. pontja hatályon kívül helyezte.
+[^247]: A 28. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 37. §-ának 9. pontja hatályon kívül helyezte.
