@@ -1,4 +1,4 @@
-## 21. §[^20] A gyakorlati képzés megkezdése előtt legalább 30 nappal a szakközépiskola igazgatója – az érintett rendőri szervvel történt előzetes egyeztetés után – írásban rendelkezik a tanulóknak az egyes rendőri szerveknél lévő gyakorlati képzési helyekre történő beosztásáról.
+## 21. §[^28] A gyakorlati képzés megkezdése előtt legalább 30 nappal a szakközépiskola igazgatója – az érintett rendőri szervvel történt előzetes egyeztetés után – írásban rendelkezik a tanulóknak az egyes rendőri szerveknél lévő gyakorlati képzési helyekre történő beosztásáról.
 
 22. § (1) A szakközépiskola igazgatója felelős:
 
@@ -18,13 +18,13 @@ g) a tanuló gyakorlati képzésre történő felkészítéséért, a szüksége
 
 h) a gyakorlati képzésről a szakközépiskolára visszaérkező tanuló fogadásáért, meghallgatásáért, tevékenységének értékeléséért, a gyakorlati képzés dokumentálásáért.
 
-(2)[^21] A rendőri szerv vezetője felelős:
+(2)[^29] A rendőri szerv vezetője felelős:
 
 a) a gyakorlati képzés végrehajtása személyi és tárgyi, valamint működési feltételeinek kialakításáért;
 
 b) a gyakorlati képzés idejére a tanulók számára megfelelő szállás biztosításáért, az esetlegesen felmerülő szállásköltség viseléséért;
 
-c)[^22] a gyakorlati képzésnek a rendőri szervnél történő koordinálásáért, a mentorok kijelöléséért;
+c)[^30] a gyakorlati képzésnek a rendőri szervnél történő koordinálásáért, a mentorok kijelöléséért;
 
 d) a mentoroknak és a koordinátoroknak a szakközépiskola által történő felkészítésen és továbbképzésen való részvételének biztosításáért;
 
@@ -40,6 +40,6 @@ i) a tanulók, gyakorlati képzés ideje alatt bekövetkezett balesete esetén a
 
 j) az iskolarendszeren kívüli szakképzésben részt vevők Szakmai Programban előírt fizikai állóképességének fejlesztéséért, önvédelmi, lőkiképzési ismeretei szinten tartásáért, a gépjárművezetői biztonsági tréningen, valamint önképzés keretében idegen nyelvi és számítástechnikai tanfolyamon való részvétel, illetve a folyamatos konzultációs lehetőségek biztosításáért.
 
-[^20]: A 21. § a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 4. §-ával megállapított szöveg.
-[^21]: A 22. § (2) bekezdésének bevezető szövegrésze a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^22]: A 22. § (2) bekezdésének c) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^28]: A 21. § a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 4. §-ával megállapított szöveg.
+[^29]: A 22. § (2) bekezdésének bevezető szövegrésze a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^30]: A 22. § (2) bekezdésének c) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.

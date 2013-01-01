@@ -2,11 +2,11 @@
 
 ## A gyakorlati képzésre vonatkozó szabályok
 
-17. § (1)[^11] A tanulók gyakorlati képzését a rendőr szakképzés központi programjában előírtak szerint, a szakközépiskola pedagógiai programja alapján, lehetőleg a tervezett első beosztás helye szerinti rendőri szerv által kijelölt szolgálati helyeken kell végrehajtani.
+17. § (1)[^18] A tanulók gyakorlati képzését a rendőr szakképzés központi programjában előírtak szerint, a szakközépiskola pedagógiai programja alapján, lehetőleg a tervezett első beosztás helye szerinti rendőri szerv által kijelölt szolgálati helyeken kell végrehajtani.
 
 (2) A gyakorlati képzés konkrét célja, tartalma és szakmai követelményei, időtartama, helye, feladatrendszere, megkezdésének feltételei, szempontjai a szakközépiskola pedagógiai programjának részét képező helyi tantervben kerülnek meghatározásra.
 
-(3)[^12] A rendőri szerveknél a gyakorlati képzés végrehajtására az a szolgálati hely jelölhető ki, amelyik
+(3)[^19] A rendőri szerveknél a gyakorlati képzés végrehajtására az a szolgálati hely jelölhető ki, amelyik
 
 a) rendelkezik a szükséges számú mentorral;
 
@@ -16,5 +16,5 @@ c) biztosítja a gyakorlati képzés végrehajtásához elengedhetetlen munkavé
 
 d) rendelkezik megfelelő helyiségekkel a tanulók elhelyezéséhez, élelmezéséhez, tisztálkodásához, illetőleg szükség esetén gondoskodik a tanulók egészségügyi alapellátásáról, éjszakai szállásáról.
 
-[^11]: A 17. § (1) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 3. §-ával megállapított szöveg.
-[^12]: A 17. § (3) bekezdésének bevezető szövegrésze a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^18]: A 17. § (1) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 3. §-ával megállapított szöveg.
+[^19]: A 17. § (3) bekezdésének bevezető szövegrésze a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.

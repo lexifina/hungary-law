@@ -1,4 +1,4 @@
-## 5. § A tanulót a Kt. 10–12. §-aiban foglaltakon túl megilletik, illetve terhelik az e rendeletben megfogalmazott jogok és kötelezettségek.
+## 5. §[^11] A tanulót az Nkt. 45. §-ában és 46. §-ában foglaltakon túl megilletik, illetve terhelik az e rendeletben megfogalmazott jogok és kötelezettségek.
 
 6. § (1) A szakközépiskolai tanuló havi rendszerességgel folyósított ösztöndíjra (pénzbeni juttatásra) jogosult. Az ösztöndíj magában foglalja az alapjuttatást, a tanulmányi juttatást és az ösztöndíj-kiegészítést.
 
@@ -27,3 +27,5 @@ egyéb megbízatás (osztályonként max. 2 fő) 10%
 (7) Az ösztöndíj-kiegészítésre jogosító megbízások felsorolását és rendjét a szakközépiskola Szervezeti és Működési Szabályzata állapítja meg. Az ösztöndíj-kiegészítés a megbízatás időtartamára, a feladatkör tényleges ellátásával időarányosan jár.
 
 (8) A szakközépiskola belső rendjének megfelelő tanulói beosztásokra vonatkozó megbízásokat a szakközépiskola igazgatója saját hatáskörben jogosult meghatározni.
+
+[^11]: Az 5. § a 81/2012. (XII. 28.) BM rendelet 13. § (2) bekezdés g) pontja szerint módosított szöveg.
