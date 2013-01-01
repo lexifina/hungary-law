@@ -14,9 +14,9 @@ b) a felvezető rendőrségi gépjárművet követve közlekedik.
 
 (5) A megkülönböztető jelzést adó készüléket használó gépjármű vezetője a jelzés használatának kezdetét, az útvonalat a működtetést megelőzően – ha a késedelem veszéllyel jár, akkor annak megszűnését követően –, használatának végét haladéktalanul köteles a menetlevélben vagy annak megfelelő más okmányban rögzíteni. A szerv vezetője gondoskodik arról, hogy az okmányok ellenőrzése legalább negyedévente megtörténjen.
 
-(6)[^13] A megkülönböztető jelzést adó készülék használatára e rendelet alapján jogosult – hatósági ellenőrzés céljából – az engedély időbeli hatálya alatt az engedélyező hatóság felhívására köteles bemutatni a megkülönböztető jelzés használatáról szóló bejegyzést tartalmazó menetlevelet vagy annak megfelelő más okmányt, illetve azok másolatát.
+(6)[^14] A megkülönböztető jelzést adó készülék használatára e rendelet alapján jogosult – hatósági ellenőrzés céljából – az engedély időbeli hatálya alatt az engedélyező hatóság felhívására köteles bemutatni a megkülönböztető jelzés használatáról szóló bejegyzést tartalmazó menetlevelet vagy annak megfelelő más okmányt, illetve azok másolatát.
 
-(7)[^14] A 3. § (1) bekezdés e) pontjában foglalt szervezetek gépjárművezetője a megkülönböztető jelzést adó készüléknek a (3) bekezdés alapján történő használata során köteles a KKB elnöke által kiállított, a kijelölést tanúsító okmányt magánál tartani.
+(7)[^15] A 3. § (1) bekezdés e) pontjában foglalt szervezetek gépjárművezetője a megkülönböztető jelzést adó készüléknek a (3) bekezdés alapján történő használata során köteles a KKB elnöke által kiállított, a kijelölést tanúsító okmányt magánál tartani.
 
-[^13]: A 7. § új (6) bekezdését a 4/2010. (II. 23.) IRM rendelet 16. §-a iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatta.
-[^14]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 4/2010. (II. 23.) IRM rendelet 16. §-a.
+[^14]: A 7. § új (6) bekezdését a 4/2010. (II. 23.) IRM rendelet 16. §-a iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatta.
+[^15]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 4/2010. (II. 23.) IRM rendelet 16. §-a.
