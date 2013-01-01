@@ -1,6 +1,6 @@
 4. § (1) A 3. § (1) bekezdés szerinti laboratóriumok a zoonózis-kórokozó meghatározása, illetve a megbetegedés diagnosztizálása esetén a betegség előfordulásáról tájékoztatják az ÁNTSZ megyei (fővárosi) intézetét.
 
-(2)[^3] A 3. § (3) bekezdése szerinti referencia-laboratórium az alábbi tevékenységet látja el:
+(2)[^4] A 3. § (3) bekezdése szerinti referencia-laboratórium az alábbi tevékenységet látja el:
 
 a) tájékoztatja a vizsgálati módszerekről a vizsgáló laboratóriumokat;
 
@@ -14,4 +14,4 @@ e) technikai és tudományos segítséget nyújt a vizsgáló laboratóriumok er
 
 (3) A referencialaboratórium működésének részletes feltételeit a 2. számú melléklet tartalmazza.
 
-[^3]: A 4. § (2) bekezdésének bevezető szövege a 19/2003. (II. 25.) FVM rendelet 4. §-ának (3) bekezdésével megállapított szöveg.
+[^4]: A 4. § (2) bekezdésének bevezető szövege a 19/2003. (II. 25.) FVM rendelet 4. §-ának (3) bekezdésével megállapított szöveg.
