@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1966-4-20-06
 | --- | --- | --- |
 | 2009-10-01 | 1966-4-20-06.5 | 4/1966. (VI. 15.) IM rendelet |
 | 2012-12-05 | 1966-4-20-06.6 | 8/2008. (IV. 22.) IRM rendelet |
+| 2013-01-01 | 1966-4-20-06.7 | 50/2012. (XII. 4.) KIM rendelet |
