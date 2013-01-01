@@ -1,1 +1,0 @@
-## 13. § A költségvetési szerv illetményszámfejtésre vonatkozó munkáltatói rendelkezési okiratai kötelezettségvállalásnak minősülnek. A költségvetési szervnek biztosítani kell, hogy az okiratok megfeleljenek a külön jogszabályban előírt feltételeknek.
