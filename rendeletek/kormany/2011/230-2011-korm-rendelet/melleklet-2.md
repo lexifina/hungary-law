@@ -8,13 +8,13 @@
 
 | 3. |  | Vízjogi engedély vezeték szilárdsági nyomáspróbához, vízjogi létesítési engedély kútfúráshoz | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 4. | Régészeti feltárási engedély | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 4. | Régészeti feltárási engedély | Érdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 5. | Külső villamos energia-ellátás kiépítésére vonatkozó engedély | Budapest Főváros Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 6. | Erdő igénybevétele és fakitermelés bejelentése | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 7. | Termőföld más célú hasznosítására vonatkozó engedély | illetékes körzeti földhivatal | illetékes megyei (fővárosi) kormányhivatal földhivatala |
+| 7. | Termőföld más célú hasznosítására vonatkozó engedély | illetékes járási földhivatal | illetékes megyei (fővárosi) kormányhivatal földhivatala |
 
 | 8. | Bányaszolgalom alapítására irányuló engedélyezési eljárás | Pest Megyei Kormányhivatal |  |
 
@@ -24,11 +24,11 @@
 
 | 11. | Építésügyi hatósági engedélyezési eljárások a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló rendelet szerint | Budapest Főváros Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága (Budapest) | Magyar Kereskedelmi és Engedélyezési Hivatal |
 
-| 12. | Általános építésügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 12. | Általános építésügyi hatósági engedélyezési eljárások | Érdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 13. | Veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | BM Országos Katasztrófavédelmi Főigazgatóság | – |
 
-| 14. | Területrendezési eljárások | Pest Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+| 14. | Területrendezési eljárások | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
 | 15. | Útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -48,15 +48,15 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 4. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-|  | 5. | Területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+|  | 5. | Területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
 |  | 6. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 |  | 7. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-|  | 8. | Termőföld mennyiségi védelme | illetékes körzeti földhivatal | illetékes megyei (fővárosi) kormányhivatal földhivatala |
+|  | 8. | Termőföld mennyiségi védelme | illetékes járási földhivatal | illetékes megyei (fővárosi) kormányhivatal földhivatala |
 
-|  | 9. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 9. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
@@ -82,7 +82,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 9. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-|  | 10. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 10. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 11. | Határrendészet | Nógrád Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -98,7 +98,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 2. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 3. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -126,7 +126,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 4. | Helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | illetékes megyei (fővárosi) kormányhivatal |
 
-|  | 5. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 5. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 6. Útügyi hatósági eljárások
 
@@ -140,9 +140,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 4. | Helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | illetékes megyei (fővárosi) kormányhivatal |
 
-|  | 5. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 5. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-|  | 6. | Építésügy | Pest Megyei Kormányhivatal | építésügyért felelős miniszter |
+|  | 6. | Építésügy | Érdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 7. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -158,7 +158,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 4. | Tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
 
-|  | 5. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 5. | Régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 6. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -188,7 +188,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 11. | Vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-|  | 12. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 12. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 9. Erdészeti engedélyezés
 
@@ -196,8 +196,8 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+|  | 2. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 |  | 3. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
+[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
