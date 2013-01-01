@@ -1,5 +1,5 @@
 19. § (1) Ez a rendelet 2006. július 1. napján lép hatályba. Rendelkezéseit a hatálybalépését követően benyújtott cégbejegyzési (változásbejegyzési) kérelmek, illetve egyéb cégügyek esetén kell alkalmazni.
 
-(2)[^25] E rendeletnek a cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosításáról szóló 49/2012. (XI. 29.) KIM rendelettel módosított 1. számú melléklete helyett a hatályba lépést követően indult cégbejegyzési (változásbejegyzési) eljárásokban 2012. december 31-ig e rendelet 2012. november 30-án hatályos 1. számú melléklete szerinti elektronikus nyomtatvány is benyújtható a cégbírósághoz, amennyiben a cég nem kíván élni a pénzforgalmi elszámolás és a kisadózó vállalkozások tételes adója alá történő bejelentkezés lehetőségével.
+(2)[^25]
 
-[^25]: A 19. § (2) bekezdését a 10/2012. (II. 29.) KIM rendelet 9. § c) pontja hatályon kívül helyezte, újonnan a 32/2012. (VII. 2.) KIM rendelet 4. §-a iktatta be, újból hatályon kívül helyezte ez utóbbi módosító rendelet 6. §-a. Újból a 49/2012. (XI. 29.) KIM rendelet 2. §-a iktatta be.
+[^25]: A 19. § (2) bekezdését a 10/2012. (II. 29.) KIM rendelet 9. § c) pontja hatályon kívül helyezte, újonnan a 32/2012. (VII. 2.) KIM rendelet 4. §-a iktatta be, újból hatályon kívül helyezte ez utóbbi módosító rendelet 6. §-a. Újból a 49/2012. (XI. 29.) KIM rendelet 2. §-a iktatta be, újból hatályon kívül helyezte a 49/2012. (XI. 29.) KIM rendelet 4. §-a.
