@@ -1,4 +1,4 @@
-18. §[^23] (1) A személyi védelmet haladéktalanul meg kell szüntetni, ha
+18. §[^24] (1) A személyi védelmet haladéktalanul meg kell szüntetni, ha
 
 a) az elrendelés feltételei már nem állnak fenn;
 
@@ -22,4 +22,4 @@ f) a tolmács a tolmácsolást a személyi védelem elrendelésének alapjául s
 
 (3) A tanú, a terhelt, a szakértő, illetve a szaktanácsadó védelmének a (2) bekezdés c) vagy d) pontjában foglalt okból történő megszüntetése esetén a személyükre tekintettel más személyt érintő személyi védelmet is meg kell szüntetni.
 
-[^23]: A 18. § a 28/2002. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^24]: A 18. § a 28/2002. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
