@@ -4,7 +4,7 @@
 
 ## A szolgáltatások fajtái
 
-4. § (1) Az állam áldozatsegítő szolgáltatásként elősegíti az áldozat érdekeinek érvényesítését, azonnali pénzügyi segélyt ad, illetve jogi segítségnyújtást biztosít.
+4. § (1) Az állam áldozatsegítő szolgáltatásként elősegíti az áldozat érdekeinek érvényesítését, azonnali pénzügyi segélyt ad, jogi segítségnyújtást, illetve szükség szerint védett szálláshelyet biztosít.
 
 (2) Az érdekérvényesítés elősegítése keretében az áldozatsegítő szolgálat az áldozatot a szükségletének megfelelő módon és mértékben hozzásegíti alapvető jogai érvényesítéséhez, az egészségügyi, egészségbiztosítási ellátások és a szociális ellátások igénybevételéhez.
 
@@ -13,3 +13,5 @@
 (4) A jogi segítségnyújtás keretében az állam az áldozatok részére a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott támogatásokat biztosítja.
 
 (5) Az érdekérvényesítés elősegítése és az azonnali pénzügyi segély a rászorultság vizsgálata nélkül térítésmentesen jár az áldozatnak. A jogi segítségnyújtásra a Jst.-ben meghatározott feltételek esetén jogosult az áldozat.
+
+(6) Az állam az emberkereskedelem áldozataként azonosított, magyar állampolgárságú vagy a szabad mozgás és tartózkodás jogával rendelkező személy számára tekintet nélkül arra, hogy az 1. § (1) bekezdésében és a 2. §-ban meghatározott bűncselekmény miatt büntetőeljárás indult-e, szükség szerint védett szálláshelyet biztosít. Védett szálláshely az emberkereskedelem áldozataként azonosított személyt befogadó és számára jogszabályban meghatározott ellátásokat nyújtó létesítmény.

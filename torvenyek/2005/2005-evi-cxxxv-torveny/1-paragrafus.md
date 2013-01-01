@@ -14,7 +14,7 @@ c) az Európai Unión kívüli államnak az Európai Unióban jogszerűen tartó
 
 d) Magyarország területén jogszerűen tartózkodó hontalan személy,
 
-e) emberkereskedelem áldozata, valamint
+e) emberkereskedelem áldozataként azonosított személy, valamint
 
 f) az állampolgársága szerinti államnak Magyarországgal kötött nemzetközi megállapodása vagy viszonosság alapján erre jogosult.
 

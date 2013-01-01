@@ -16,6 +16,6 @@ d) az áldozatsegítésben részt vevő állami, önkormányzati, civil és egyh
 
 e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
 
-(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, írásban tájékoztatja az ügyfelet – az (1) bekezdésben foglaltakon túl – arról, hogy áldozatsegítő támogatás jogosultja lehet, és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
+(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül írásban tájékoztatja az ügyfelet – az (1) bekezdésben foglaltakon túl – arról, hogy áldozatsegítő támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
 
 (3) Az áldozatsegítő szolgálat a tájékoztatás megtörténtéről – a (2) bekezdésben meghatározott eset kivételével – feljegyzést készít.
