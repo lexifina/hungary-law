@@ -1,3 +1,3 @@
-## 32. §[^33]
+## 32. §[^41]
 
-[^33]: A 32. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^41]: A 32. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

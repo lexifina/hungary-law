@@ -2,11 +2,11 @@
 
 ## 2. Az intézményfenntartó szerv kijelölése
 
-2. § (1)[^1] Az átvett intézmények tekintetében a Kormány által intézményfenntartásra és az átvett vagyon tekintetében vagyonkezelői jogok gyakorlására kijelölt szerv a megyei intézményfenntartó központ, kivéve a megyei önkormányzat hivatala által feladatai ellátásához használt, állami tulajdonba tartozó ingatlanok, ingatlanrészek, illetve az ezen ingatlanokhoz, ingatlanrészekhez kapcsolódó ingó vagyon, amelyek tekintetében a vagyonkezelői jogok gyakorlására kijelölt szerv a megyei kormányhivatal.
+2. § (1)[^1] A Kormány az átvett intézmények tekintetében – a közoktatási intézmények kivételével – a megyei intézményfenntartó központot jelöli ki a Törvény 3. § (1) bekezdése és 9. § (1) bekezdése szerinti feladat ellátására.
 
 (1a)[^2] Az Esztergom Város Önkormányzatától átvett nem egészségügyi intézmények tekintetében a Kormány által intézményfenntartásra és az átvett vagyon tekintetében vagyonkezelői jogok gyakorlására kijelölt szerv a Komárom-Esztergom Megyei Intézményfenntartó Központ.
 
 (2) A megyei intézményfenntartó központ székhelye a megyeszékhely városban, a Pest Megyei Intézményfenntartó Központ székhelye Budapesten van.
 
-[^1]: A 2. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (1) bekezdése a 202/2012. (VII. 27.) Korm. rendelet – a 229/2012. (VIII. 28.) Korm. rendelet 55. § (3) bekezdése szerint módosított – 10. §-ával megállapított szöveg.
 [^2]: A 2. § (1a) bekezdését a 372/2011. (XII. 31.) Korm. rendelet 12. § (1) bekezdése iktatta be.
