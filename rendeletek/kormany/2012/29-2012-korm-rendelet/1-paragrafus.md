@@ -6,10 +6,16 @@ a) a Kttv. 1. § d) pontjában meghatározott szakmai vezetőkre;
 
 b) – (3) bekezdésben foglaltak kivételével – a Kttv. 2. §-ában felsorolt szerveknél foglalkoztatott köztisztviselőkre;
 
-c) a megyei, fővárosi kormányhivatalt vezető kormánymegbízottra, a megyei, fővárosi kormányhivatal főigazgatójára és igazgatójára;
+c)[^1] a fővárosi és megyei kormányhivatalt vezető kormánymegbízottra, a fővárosi és megyei kormányhivatal főigazgatójára és igazgatójára, valamint a járási hivatalvezetőre és a hivatalvezető-helyettesre;
 
 d) a miniszterelnökségi főtanácsadói és miniszterelnökségi tanácsadói, a kormány-főtanácsadói és kormánytanácsadói, a miniszteri főtanácsadói és miniszteri tanácsadói munkakörű, továbbá a politikai főtanácsadói és politikai tanácsadói, valamint az önkormányzati főtanácsadói és önkormányzati tanácsadói munkakörbe kinevezett közszolgálati tisztviselőkre;
 
-e) az aljegyzőre, a jegyzőre, a körjegyzőre és a megyei jogú város kerületi hivatalvezetőjére, valamint a főjegyzőre.
+e)[^2] az aljegyzőre, a jegyzőre, valamint a főjegyzőre;
+
+f)[^3] a Nemzeti Adó- és Vámhivatalnál foglalkoztatott kormánytisztviselőkre.
 
 (3) A (2) bekezdés b) pontjában meghatározott szervezeteknél a képesítési előírásokat a hivatal vezetője állapítja meg.
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 415/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés e) pontja a 415/2012. (XII. 29.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés f) pontját a 396/2012. (XII. 20.) Korm. rendelet 6. §-a iktatta be.

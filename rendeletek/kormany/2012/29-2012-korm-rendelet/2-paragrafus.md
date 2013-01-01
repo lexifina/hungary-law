@@ -8,6 +8,8 @@
 
 (5) A közszolgálati tisztviselőnek a melléklet szerinti kiemelt munkakörre meghatározott képesítéssel kell rendelkeznie akkor is, ha e munkakör mellett más feladatkört is ellát.
 
-(6) A megyei, fővárosi kormányhivataloknál foglalkoztatott kormánytisztviselőkre megfelelően kell alkalmazni a 3. melléklet képesítési előírásait, amennyiben a 2. melléklet nem tartalmaz rájuk vonatkozóan képesítési előírást.
+(6)[^4] A fővárosi és megyei kormányhivataloknál foglalkoztatott kormánytisztviselőkre megfelelően kell alkalmazni a 3. melléklet képesítési előírásait, amennyiben a 2. melléklet nem tartalmaz rájuk vonatkozóan képesítési előírást.
 
 (7) Az 1–3. melléklet alkalmazásában azoknál a feladatköröknél, ahol az I. besorolási osztályba soroláshoz képesítési követelményként egyes felsőoktatási képzési területeken szerezhető szakképzettségek is meghatározásra kerültek, a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet 1. és 2. számú melléklete szerinti megfelelő képzési területeken szerezhető szakképzettséggel rendelkezőket is képesítettnek kell tekinteni.
+
+[^4]: A 2. § (6) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.

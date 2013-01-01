@@ -1,0 +1,3 @@
+## 7. §[^5] Aki az egyes építésügyi és területrendezési tárgyú kormányrendeletek módosításáról szóló 105/2012. (V. 30.) Korm. rendelet hatálybalépésekor az 1. melléklet I. pont 4. alpontja alapján jogász végzettséggel, az épített környezet alakításáról és védelméről szóló törvényben meghatározott szakirányú felsőfokú végzettség nélkül, döntés-előkészítésre vagy döntéshozatalra irányuló építésügyi igazgatási feladatok feladatkörben alkalmazásban áll, e feladatkört 2012. szeptember 1-ig töltheti be.
+
+[^5]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 105/2012. (V. 30.) Korm. rendelet 26. §-a iktatta be.

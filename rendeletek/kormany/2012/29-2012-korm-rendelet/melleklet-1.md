@@ -1,5 +1,6 @@
-## 7. §[^1] Aki az egyes építésügyi és területrendezési tárgyú kormányrendeletek módosításáról szóló 105/2012. (V. 30.) Korm. rendelet hatálybalépésekor az 1. melléklet I. pont 4. alpontja alapján jogász végzettséggel, az épített környezet alakításáról és védelméről szóló törvényben meghatározott szakirányú felsőfokú végzettség nélkül, döntés-előkészítésre vagy döntéshozatalra irányuló építésügyi igazgatási feladatok feladatkörben alkalmazásban áll, e feladatkört 2012. szeptember 1-ig töltheti be.
+## 9. §[^8] A Módr. hatálybalépésekor[^9] a közszolgálati tisztviselőt – a 8. §-ban foglaltak kivételével – feladatköre megváltozásáig képesítettnek kell tekinteni, amennyiben e rendeletnek a Módr. hatálybalépését megelőzően hatályos szabályai alapján feladatköre ellátására képesítettnek minősült.
 
 1. melléklet a 29/2012. (III. 7.) Korm. rendelethez
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 105/2012. (V. 30.) Korm. rendelet 26. §-a iktatta be.
+[^8]: A 9. §-t a 415/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A hatálybalépés időpontja 2013. január 1.
