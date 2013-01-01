@@ -76,7 +76,7 @@ ea) gazdasági társaság esetében 30 napnál nem régebbi keltezésű cégkivo
 
 eb) az ingatlan 30 napnál nem régebbi tulajdoni lapjának másolatát;
 
-ec) a Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság területileg illetékes Kerületi Állategészségügyi és Élelmiszer-ellenőrző Hivatalához történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
+ec)[^31] a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
 
 ed) a részvételi kérelmet aláíró cégképviseletre jogosult személy aláírási címpéldányának másolati példányát;
 
@@ -115,3 +115,4 @@ i) a törzstőke és az alaptőke mértéke fedezi az összes tárolható készl
 j) a hídmérleg a telepen belül saját tulajdonban van.
 
 [^30]: Az 5. számú mellékletet a 100/2011. (XI. 5.) VM rendelet 9. § (3) bekezdése iktatta be.
+[^31]: Az 5. melléklet I. cím e) pont ec) alpontja a 151/2012. (XII. 29.) VM rendelet 36. §-a szerint módosított szöveg.
