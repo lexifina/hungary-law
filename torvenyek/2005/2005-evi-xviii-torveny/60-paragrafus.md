@@ -34,7 +34,7 @@ o) a közüzemi szerződés felmondása alóli mentesítésre jogosult közinté
 
 a) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a Hivatal részére fizetendő díjak mértékét és a díjak fizetésére vonatkozó részletes szabályokat;
 
-b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját, továbbá a hatósági árelőkészítés módszertanára vonatkozó szabályokat;
+b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját, továbbá az árelőkészítés módszertanára vonatkozó szabályokat;
 
 c) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
@@ -44,7 +44,7 @@ e) állapíthatja meg az 57. § (3) bekezdése szerinti távhőszolgáltatási c
 
 f) állapíthatja meg az engedélyes, az értékesítő, az egyedi szerződés alapján termelő, valamint a külön kezelt intézmény által a Hivatal részére teljesítendő adatszolgáltatásra vonatkozó szabályokat;
 
-g) állapítja meg a távhőszolgáltatási támogatás mértékét, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat,
+g) állapítja meg a távhőszolgáltatási támogatás mértékét és az előkészítése módszertanára vonatkozó szabályokat, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat,
 
 h) állapítja meg az engedélyesek nyereségének korlátozására és megosztására vonatkozó részletes szabályokat.
 

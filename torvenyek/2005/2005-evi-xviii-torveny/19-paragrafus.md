@@ -16,6 +16,6 @@ d) bármely engedélyes vállalkozásban történő, a szavazatok 25 százalék�
 
 (4) A Hivatal határozatának hiányában az (1) bekezdés rendelkezéseivel kapcsolatos, a részvényesre és tagra vonatkozó változások a részvénykönyvbe nem jegyezhetők be, illetve a tagjegyzékbe nem tüntethetők fel és erre a társaságban jogot alapítani nem lehet.
 
-(5) Az (1) bekezdésben meghatározott egyesüléssel járó, valamint az (1) bekezdésben meghatározott tőkekoncentráció, illetve befolyásszerzés jóváhagyásához vagy annak megtagadásához a Hivatal köteles kikérni a Gazdasági Versenyhivatal véleményét.
+(5)
 
 (6) Ha az engedélyes villamosenergia-termelési működési engedéllyel is rendelkezik, az (1) bekezdésben szabályozott esetekben a Vet. rendelkezéseit is alkalmazni kell.

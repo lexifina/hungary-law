@@ -24,7 +24,7 @@ c) a közüzemi szerződést felmondhatja, ha a felhasználó vagy a díjfizető
 
 (7) A távhőszolgáltatás felfüggesztésével, valamint a felfüggesztés megszüntetésével felmerült költségeket a távhőszolgáltató jogosult a szerződésszegés elkövetőjére áthárítani. A közüzemi szerződés nélküli távhőfogyasztás esetén – az ebből származó jogkövetkezményekért – az érintett ingatlan ingatlan-nyilvántartás szerinti tulajdonosa felel.
 
-(8) Az illetékes önkormányzat jegyzője elrendelheti a távhőszolgáltató bejutását a felhasználási helyre, ha a felhasználó, illetve díjfizető nem teszi lehetővé:
+(8) A járási hivatal elrendelheti a távhőszolgáltató bejutását a felhasználási helyre, ha a felhasználó, illetve díjfizető nem teszi lehetővé:
 
 a) a távhőelszámolási vagy költségmegosztó mérőeszköz leolvasását, ellenőrzését,
 
@@ -32,4 +32,4 @@ b) szerződésszegés vagy szabálytalan vételezés esetén a távhőszolgálta
 
 c) a felhasználói berendezés ellenőrzését.
 
-(9) Az önkormányzat jegyzője a (8) bekezdés szerinti határozatát az energiaellátás folyamatos biztosítása érdekében fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(9) A járási hivatal a (8) bekezdés szerinti határozatát az energiaellátás folyamatos biztosítása érdekében fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
