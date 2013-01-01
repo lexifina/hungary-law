@@ -40,7 +40,7 @@ aa) a gyermekgondozási segély vagy a gyermeknevelési támogatás folyósítá
 
 ab) a gyermekgondozási díj folyósítás megszűnésének időpontját illetően az egészségbiztosítási szerv, valamint a társadalombiztosítási kifizetőhely által kiadott igazolással,
 
-ac) az ápolási díj folyósításának megszűnése időpontját a települési önkormányzat jegyzője által kiadott megszüntető határozattal, ennek hiányában a jegyző által kiadott igazolással;
+ac)[^1] az ápolási díj folyósításának megszűnése időpontját a járási (fővárosi kerületi) hivatal, illetve a képviselő-testület által megállapított ápolási díjat illetően az ellátás megállapítására jogosult hatóság ellátás megszüntetéséről rendelkező határozatával, ennek hiányában a járási (fővárosi kerületi) hivatal, illetve a jegyző által kiadott igazolással;
 
 b) a (4) bekezdés b) pontja tekintetében a gyermekgondozási segélyre való jogosultság megszűnésének időpontját a kincstár, valamint a családtámogatási kifizetőhely gyermekgondozási segély megállapításáról szóló határozatával, ennek hiányában az általuk kiadott igazolással;
 
@@ -49,3 +49,5 @@ c) a (4) bekezdés c) pontja szerinti feltételt az állami foglalkoztatási sze
 d) a (4) bekezdés e) és f) pontjával összefüggésben az öregségi nyugdíjjogosultság megszerzésének időpontjára vonatkozóan a nyugdíjbiztosítási szerv által kiállított igazolással igazolja.
 
 (6) A (2) bekezdés szerinti oklevél, továbbá az (5) bekezdésben előírt igazolás másolati példánya az igénylő nyilatkozatának mellékletét képezi.
+
+[^1]: A 2. § (5) bekezdés ac) pontja a 48/2012. (XII. 28.) NGM rendelet 14. §-ával megállapított szöveg.
