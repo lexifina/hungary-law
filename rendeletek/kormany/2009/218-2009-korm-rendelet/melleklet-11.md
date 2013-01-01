@@ -44,7 +44,7 @@ d)[^43] a megyei kormányhivatal erdészeti igazgatósága
 
 e)[^44] a megyei kormányhivatal növény- és talajvédelmi igazgatósága,
 
-f)[^45] fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája,
+f)[^45] fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala,
 
 g)[^46] a fővárosi és megyei kormányhivatal közlekedési felügyelősége,,
 
@@ -73,7 +73,7 @@ k)[^49] Nemzeti Környezetügyi Intézet működési területtel érintett terü
 [^42]: A 11. melléklet 13. pont c) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § f) pontja szerint módosított szöveg.
 [^43]: A 11. melléklet 13. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
 [^44]: A 11. melléklet 13. pont e) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
-[^45]: A 11. melléklet 13. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^45]: A 11. melléklet 13. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított, a 394/2012. (XII. 20.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^46]: A 11. melléklet 13. pont g) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
 [^47]: A 11. melléklet 13. pont h) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
 [^48]: A 11. melléklet 13. pont i) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
