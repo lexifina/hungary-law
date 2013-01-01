@@ -10,7 +10,7 @@ c) önálló bírósági végrehajtó volt, akkor a Magyar Bírósági Végrehaj
 
 d) igazságügyi szakértő volt, akkor a Magyar Igazságügyi Szakértői Kamarát vagy
 
-e) gyám vagy gondnok volt, akkor a gyámhivatalt
+e) gyám vagy gondnok volt, akkor a gyámhatóságot
 
 a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
 
