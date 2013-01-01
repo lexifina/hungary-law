@@ -1,3 +1,3 @@
-## 22. §[^51] A szakképzés költségvetési forrásának a kezelését és az ezzel összefüggő adminisztrációs feladatokat az Egészségügyi Engedélyezési és Közigazgatási Hivatal végzi.
+## 22. §[^55] A szakképzés költségvetési forrásának a kezelését és az ezzel összefüggő adminisztrációs feladatokat az Egészségügyi Engedélyezési és Közigazgatási Hivatal végzi.
 
-[^51]: A 22. § a 72/2011. (IV. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^55]: A 22. § a 72/2011. (IV. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
