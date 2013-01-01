@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-2-20-0A
 | --- | --- | --- |
 | 2012-03-02 | 2012-2-20-0A.1 | 2/2012. (III. 1.) BM rendelet |
 | 2012-03-03 | 2012-2-20-0A.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2012-2-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
