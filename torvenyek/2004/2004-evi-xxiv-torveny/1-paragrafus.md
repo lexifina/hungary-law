@@ -12,9 +12,11 @@ ab) a Magyarország területén állomásozó fegyveres szervek,
 
 ac) a Nemzeti Adó- és Vámhivatal,
 
-ad) a rendvédelmi szervek, valamint
+ad) a rendvédelmi szervek,
 
 ae) a fegyveres biztonsági őrség
+
+af) az Országgyűlési Őrség
 
 által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre,
 

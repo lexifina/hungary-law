@@ -4,7 +4,9 @@ a) a bíróság, az ügyészség és a nyomozó hatóságok;
 
 b) a nemzetbiztonsági szolgálatok a törvényben meghatározott feladataik ellátásához;
 
-c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint.
+c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint;
+
+d) az Országgyűlési Őrség személyvédelmi és létesítménybiztosítási feladatainak ellátásához.
 
 (2) Az 5. § (2) bekezdés b) és d) pontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók. A vadászlőfegyver tartására jogosító engedély, valamint az annak alapján kiadott európai lőfegyvertartási engedély visszavonásáról a rendőrség a vadászati hatóságot tájékoztatja.
 
