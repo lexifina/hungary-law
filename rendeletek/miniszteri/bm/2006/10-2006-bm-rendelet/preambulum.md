@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény (a továbbiakban: Költségvetési tv.) 5. számú mellékletének 25. pontjában foglalt felhatalmazás alapján a sportpályák felújításának támogatása igénylésére, folyósítására és elszámolására vonatkozóan az alábbiakat rendelem el:
