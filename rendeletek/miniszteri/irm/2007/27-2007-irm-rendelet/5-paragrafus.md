@@ -1,6 +1,6 @@
-5. § (1) A házirendet az őrzött szállás vezetője határozza meg, attól az engedélyével lehet eltérni.
+5. §[^5] (1) Az őrzött szállás rendjének fenntartása érdekében az őrzött szállás vezetője – az országos rendőrfőkapitány és a Bevándorlási és Állampolgársági Hivatal főigazgatója jóváhagyásával – meghatározza a napirendet. Ettől eltérni csak rendkívüli esemény bekövetkezése esetén az őrzött szállás vezetőjének engedélyével lehet.
 
-(2) A házirendben meg kell határozni minden olyan tevékenységet, amely az őrizetes életrendjét, törvényben meghatározott jogai gyakorlását és kötelezettségei teljesítését biztosítja, így különösen:
+(2) A napirendben meg kell határozni az őrzött szállás sajátosságaira figyelemmel a jogok gyakorlása és a kötelezettségek teljesítésének rendjét, így különösen
 
 a) az ébresztő és a pihenőidő kezdetének időpontját,
 
@@ -10,12 +10,12 @@ c) az orvosi rendelési időt,
 
 d) a szabad levegőn tartózkodás idejét,
 
-e) a szabadidő eltöltésének, illetve a közművelődési lehetőségek igénybevételének módját,
+e) a távbeszélő és az internetszolgáltatás használatának időtartamát,
 
-f) a kapcsolattartás és a távbeszélő használatának szabályait,
+f) a kifogás, kérés, panasz, közérdekű bejelentés előterjesztésének rendjét,
 
-g) a kifogás, kérés, panasz, közérdekű bejelentés előterjesztésének rendjét,
+g) a dohányzással kapcsolatos rendelkezéseket, valamint
 
-h) a dohányzással kapcsolatos rendelkezéseket,
+h) a balesetvédelmi és tűzvédelmi előírásokat.
 
-i) a balesetvédelmi és tűzvédelmi előírásokat.
+[^5]: Az 5. § 76/2012. (XII. 19.) BM rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-15. § (1) Az őrizetes a személyes használati tárgyait – ideértve a tisztálkodási eszközöket, meghatározott szükségleti cikkeket, írószereket, élelmet, ruházatot, továbbá az orvos által rendelt vagy engedélyezett gyógyszereket – magánál tarthatja.
+15. § (1)[^18] Az őrizetes a személyes használati tárgyait – ideértve a tisztálkodási eszközöket, meghatározott szükségleti cikkeket, írószereket, nem romlandó élelmiszert, ruházatot, továbbá az orvos által engedélyezett gyógyszereket – magánál tarthatja.
 
 (2) Az őrizetes nem tarthat magánál az őrzött szállás biztonságára, rendjére, saját vagy mások életére, testi épségére veszélyes tárgyakat, anyagokat.
 
@@ -9,3 +9,5 @@
 (5) Az őrizetes a tulajdonát képező pénzletétjéről és a pénzintézethez átutalt fizetőeszközének felhasználásáról szabadon rendelkezik.
 
 (6) Az őrizetes saját költségére – az őrzött szállás vezetője által meghatározott időben és módon – az őrzött szállás területén engedéllyel forgalmazott terméket, így különösen élelmiszert, dohányárut, tisztálkodási eszközt, levelezésre szolgáló cikkeket és telefonkártyát vásárolhat.
+
+[^18]: A 15. § (1) bekezdése a 76/2012. (XII. 19.) BM rendelet 9. § -ával megállapított szöveg.
