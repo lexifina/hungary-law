@@ -70,7 +70,7 @@
 
 | jegyző | polgármester |
 
-4. melléklet a 4/2012. (III. 1.) BM rendelethez
+4. melléklet a 4/2012. (III. 1.) BM rendelethez[^13]
 
 | Igénylésazonosító: |  |  |  |  |  |  |  |
 
@@ -122,7 +122,7 @@ Közfoglalkoztatással kapcsolatos kiegészítő adatok
 
 | - a támogatásból megvalósuló beruházást a beruházás megvalósításától számított 5 évig az eredeti rendeltetésének megfelelően - a működtetésre vonatkozó hatályos jogszabályok betartásával - hasznosítja, a feladatellátási helyet nem szünteti meg és nem adja át az intézmény fenntartói jogát nem állami fenntartó részére, kivéve, ha – települési önkormányzati rendeleten kívüli – jogszabályváltozásból adódóan változik az intézmény fenntartója, |
 
-| - az építéssel járó beruházás esetén - a beruházás megvalósítása során a támogatási összeg legalább 5%-ának mértékéig határozott idejű közfoglalkoztatottakat alkalmaz, - a közfoglalkoztatottak tervezett alkalmazásáról a területileg illetékes munkaügyi központ kirendeltségével egyeztetett. |
+| - az építéssel járó beruházás esetén - a beruházás megvalósítása során a támogatási összeg legalább 5%-ának mértékéig határozott idejű közfoglalkoztatottakat alkalmaz, - a közfoglalkoztatottak tervezett alkalmazásáról a fővárosi és megyei kormányhivatal területileg illetékes járási (fővárosi kerületi) hivatalának munkaügyi kirendeltségénél egyeztetett. |
 
 Csatolandó dokumentumok:
 
@@ -151,3 +151,5 @@ P. H.
 | .............................................................................. | ……………………………………………… |
 
 | jegyző/munkaszervezet vezetője | polgármester/többcélú kistérségi társulás elnöke |
+
+[^13]: A 4. melléklet a 71/2012. (XII. 14.) BM rendelet 13. § (2) bekezdése szerint módosított szöveg.
