@@ -1,1 +1,0 @@
-42. § Ha az eljárási jogsegély iránti megkeresésnek helyt adnak, a külföldi személyek ki- és beutazásának, valamint a tárgyak átadásának és átvételének a magyar útlevél-, az idegenrendészeti és a vámjogszabályok rendelkezései nem képezhetik akadályát.

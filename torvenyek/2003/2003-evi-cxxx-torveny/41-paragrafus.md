@@ -1,1 +1,0 @@
-41. § Ha a magyar igazságügyi hatóság által előterjesztett megkeresést a tagállami igazságügyi hatóság az abban megjelölt feltételek alapján nem, vagy csak részben tudja teljesíteni, azonban a megkeresés indokai továbbra is fennállnak, a magyar igazságügyi hatóság a tagállami igazságügyi hatóság által megjelölt feltételek teljesítése érdekében intézkedik.

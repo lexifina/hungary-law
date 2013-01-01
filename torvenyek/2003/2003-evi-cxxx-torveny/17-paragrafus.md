@@ -1,1 +1,0 @@
-17. § Ha az a személy, akivel szemben európai elfogatóparancsot bocsátottak ki, menekültkénti vagy menedékeskénti elismerését kéri, az átadása esetén a menedékjogi eljárást fel kell függeszteni, és azt akkor kell folytatni, ha a személy Magyarország területére visszatér.

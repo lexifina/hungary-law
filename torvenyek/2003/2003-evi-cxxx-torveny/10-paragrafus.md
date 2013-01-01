@@ -1,3 +1,0 @@
-10. § (1) A Magyarország területén elfogott személyt őrizetbe kell venni és a Fővárosi Törvényszék elé kell állítani, ha vele szemben európai elfogatóparancsot bocsátottak ki, illetve ha ellene más tagállam nemzetközi körözést bocsátott ki. Ez az őrizet hetvenkét óráig tarthat.
-
-(2) Az (1) bekezdést kell alkalmazni akkor is, ha a Magyarország területén elfogott személyre vonatkozóan a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvény 5. § (1) bekezdés a) pontja szerinti figyelmeztető jelzést helyeztek el, és ez a figyelmeztető jelzés a 12. § (2) bekezdése szerint az európai elfogatóparanccsal egyenértékű.

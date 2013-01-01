@@ -1,1 +1,0 @@
-45. § Az eljárási jogsegély keretében az érintett személy tanúként vagy terheltként történő kihallgatásakor a magyar, és – erre vonatkozó kérelem esetén – a megkereső tagállam jogának a kihallgatásra, a vallomástétel megtagadására, illetve a vallomástételi mentességekre és akadályokra vonatkozó rendelkezéseit is alkalmazni kell.

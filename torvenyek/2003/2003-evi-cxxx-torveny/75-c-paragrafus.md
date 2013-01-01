@@ -1,3 +1,0 @@
-75/C. § (1) A rendőrség válsághelyzet megoldása érdekében a NEBEK-en keresztül kérheti az Európai Unió más tagállama intervenciós egységének – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – segítségét.
-
-(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során Magyarország területén okozott kárért a magyar jog szerint felel. Ha a kárt a beavatkozó személy kötelezettségének vétkes megszegésével okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.

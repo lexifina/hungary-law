@@ -1,3 +1,0 @@
-67/J. § (1) A magyar igazságügyi hatóság kérheti a végrehajtó tagállam igazságügyi hatóságától, hogy a határozatot a magyar jogszabályokban foglaltak szerint hajtsa végre. Ebben az esetben az alkalmazandó magyar jogszabályokat a tanúsítványban részletesen ismertetni kell.
-
-(2) Ha a magyar igazságügyi hatóság által kibocsátott határozatot a végrehajtó tagállam igazságügyi hatósága az abban megjelölt adatok és feltételek alapján nem, vagy csak részben tudja végrehajtani, a magyar igazságügyi hatóság a végrehajtó tagállam igazságügyi hatósága által megjelölt feltételek teljesítése iránt haladéktalanul intézkedik.
