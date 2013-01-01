@@ -18,4 +18,6 @@ a) az alaprészből nyújtott támogatásokkal összefüggésben – a 14. §-ba
 
 b) az alaprészből felnőttképzési célra nyújtott támogatások részletes szabályait,
 
-c) a 31. § (2) bekezdése szerinti adatszolgáltatás részletes szabályait.
+c) a 31. § (2) bekezdése szerinti adatszolgáltatás részletes szabályait,
+
+d) a saját munkavállalók képzésére vonatkozó költségek elszámolásának részletes szabályait.

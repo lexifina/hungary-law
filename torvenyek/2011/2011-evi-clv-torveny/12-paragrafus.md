@@ -12,7 +12,7 @@ ab) a szakképzéssel, illetve a felnőttképzéssel összefüggő, központi pr
 
 b) a hozzájárulásra nem kötelezett, a szakképzésről szóló törvény szerint tanulószerződés kötésére jogosult egyéb szerv, szervezet normatív támogatását szolgáló keretösszeget,
 
-c) a közoktatási intézményben nappali rendszerű iskolai oktatásban szakképzési évfolyamon szakiskolai képzésben részt vevő, tanulói jogviszonyban álló, a gazdaság által az adott megyében igényelt szakképesítést tanulókat megillető – a szakiskolai tanulmányi ösztöndíjról szóló kormányrendeletben meghatározott – szakiskolai tanulmányi ösztöndíj és az ezzel összefüggésben felmerült költségek támogatására a költségvetési évre megállapított keretösszeget,
+c) a szakiskola szakképzési évfolyamán, az első szakképesítésre felkészítő, nappali rendszerű iskolai oktatásban részt vevő, tanulói jogviszonyban lévő, hiány-szakképesítést tanulókat megillető – a szakiskolai tanulmányi ösztöndíjról szóló kormányrendeletben meghatározott – szakiskolai tanulmányi ösztöndíj és az ezzel összefüggésben felmerült költségek támogatására a költségvetési évre megállapított keretösszeget,
 
 d) a költségvetési törvény által előírt európai uniós társfinanszírozási kötelezettség keretében a szakképzési és felnőttképzési intézkedésekre biztosított keretösszeget,
 

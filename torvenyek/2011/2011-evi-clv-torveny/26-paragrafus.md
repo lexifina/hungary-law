@@ -19,3 +19,5 @@ b) a gyakorlati képzést nem szervező hozzájárulásra kötelezett a hozzáj�
 (4) A 2011. évben kezdődő üzleti év esetén, ha a (2) bekezdés a) pontjában meghatározott időszakban a hozzájárulásra kötelezett a kötelezettségét részben a saját munkavállalói számára a felnőttképzésről szóló 2001. évi CI. törvény 20. §-ában meghatározott felnőttképzési szerződés és a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény szerinti tanulmányi szerződés, vagy a tanulmányok folytatására történő munkáltatói kötelezés alapján megszervezett képzés külön jogszabályban meghatározott költségei elszámolásával teljesíti, 2012. február 25-ig a jogszabályban előírt adatszolgáltatási kötelezettségét is teljesítenie kell a fővárosi, megyei kormányhivatal munkaügyi központja részére.
 
 (5) A szakképzésért és felnőttképzésért felelős miniszter a 12. § szerinti keretösszegeket a (2)–(4) bekezdésre, valamint a 32. § (1) bekezdésében foglaltakra figyelemmel tervezi.
+
+(6) A hozzájárulási kötelezettséget a 2012. évre vonatkozóan 2013. február 25-ig benyújtandó bevallásban kell teljesíteni, a többletbefizetést ettől az időponttól lehet visszaigényelni.

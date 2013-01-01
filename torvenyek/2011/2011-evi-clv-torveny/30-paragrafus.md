@@ -6,6 +6,6 @@
 
 a) a jogutóddal megszűnő gyakorlati képzést szervező hozzájárulásra kötelezett, ha jogutódja hozzájárulásra kötelezett és a gyakorlati képzést azonos feltételekkel jogszerűen folytatja, továbbá
 
-b) a jogutód nélkül megszűnő vagy a gyakorlati képzést jogutód nélkül megszüntető gyakorlati képzést szervező hozzájárulásra kötelezett, ha a csoportos gyakorlati képzést közvetlenül szolgáló tárgyi eszközök tulajdonjogát a szakképzésről szóló törvényben meghatározott térségi integrált szakképző központ keretében működő nappali iskolai rendszerű szakképzést folytató intézménynek térítésmentesen átadja.
+b) a jogutód nélkül megszűnő vagy a gyakorlati képzést jogutód nélkül megszüntető gyakorlati képzést szervező hozzájárulásra kötelezett, ha a gyakorlati képzést közvetlenül szolgáló tárgyi eszközök tulajdonjogát a szakképzésről szóló törvényben meghatározott állami fenntartású, nappali iskolai rendszerű szakképzést folytató intézménynek térítésmentesen átadja.
 
 (4) A (3) bekezdés b) pontja szerinti eszközátadást más adókötelezettség nem terheli.

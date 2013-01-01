@@ -10,9 +10,21 @@ b) a 2012. évet követően a mindenkori éves költségvetési törvényben meg
 
 az erről szóló kormányrendeletben meghatározott, gyakorlati képzési normatívák szerint számított összeggel (a továbbiakban: csökkentő tétel) csökkentheti.
 
-(2) Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségét kizárólag az 5. § a) pont ab) alpontja alapján gyakorlati képzés szervezésével teljesíti, és a csökkentő tétel összege meghaladja a bruttó kötelezettsége mértékét, az azt meghaladó részt a 9. § (1) és (3) bekezdése szerinti eljárás során az állami adóhatóságtól visszaigényelheti. Az állami adóhatóság a visszatérítés tekintetében az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerint jár el. A kapott visszatérítést egyéb bevételként kell elszámolni.
+(2) Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségét kizárólag az 5. § a) pontja alapján gyakorlati képzés szervezésével teljesíti, és a csökkentő tételek összege meghaladja a bruttó kötelezettsége mértékét, az azt meghaladó részt a (2a) és (2b) bekezdésben meghatározottak szerint – a (2a) bekezdés b) pont ba) alpontja kivételével –, a 9. § (1) és (3) bekezdése szerinti eljárás során az állami adóhatóságtól visszaigényelheti.
 
-(3) A gyakorlati képzést szervező átalányadózó hozzájárulásra kötelezettet nem illeti meg a (2) bekezdés szerinti visszatérítés.
+(2a) Ha az 5. § a) pont aa) és ab) alpontja alapján számított csökkentő tételek összege a bruttó kötelezettség mértékét meghaladja, és
+
+a) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege nagyobb vagy egyenlő, mint a bruttó kötelezettség mértéke, akkor kizárólag az 5. § a) pont ab) alpontja szerint számított csökkentő tétel vehető figyelembe a visszaigénylésnél;
+
+b) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege kisebb, mint a bruttó kötelezettség mértéke, és
+
+ba) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege nagyobb vagy egyenlő, mint az 5. § a) pont ab) alpontja alapján számított csökkentő tétel, akkor a csökkentő tételek legfeljebb a bruttó kötelezettség mértékéig vehetők figyelembe;
+
+bb) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege kisebb, mint az 5. § a) pont ab) alpontja alapján számított csökkentő tétel, akkor a csökkentő tételeknek a bruttó kötelezettség mértékét meghaladó összege visszaigényelhető.
+
+(2b) Ha a hozzájárulásra kötelezett bruttó kötelezettsége nulla, kizárólag az 5. § a) pont ab) alpontja alapján számított csökkentő tétel vehető figyelembe a visszaigénylésnél.
+
+(3) A gyakorlati képzést szervező átalányadózó hozzájárulásra kötelezettet nem illeti meg a (2)–(2b) bekezdés szerinti visszatérítés.
 
 (4) Az (1) bekezdésben foglaltak szerint nem csökkentheti bruttó kötelezettsége mértékét az a hozzájárulásra kötelezett, aki a szakképző iskolával kötött együttműködési megállapodásban az 5. § a) pont aa) alpontjától eltérően, a szakképzésről szóló törvény együttműködési megállapodásra vonatkozó szabályaiban meghatározott időtartamot meghaladó mértékben vállal kötelezettséget és tanulószerződéssel nem rendelkezik.
 
@@ -50,4 +62,6 @@ h) a gyakorlati képzés időtartama alatt a tanuló felügyeletéről gondoskod
 
 (7) Amennyiben a hozzájárulásra kötelezett a megkötött tanulószerződésben rögzített gyakorlati képzés teljesítéséhez a gyakorlati képzési idő 50%-át meghaladó mértékben vesz igénybe teljesítési megbízottat, akkor az adott tanulószerződéses tanulóra vonatkozóan nem érvényesítheti az (1) bekezdésben foglaltakat.
 
-(8) Ha a hozzájárulásra kötelezett az általa megkötött tanulószerződést az abban foglalt határidő lejárta előtt jogellenesen felmondja, a tanulószerződés alapján e törvény szerint a szakképzési hozzájárulási kötelezettsége terhére a tanulószerződés felmondásáig elszámolt csökkentő tétel teljes összegét az Art. önellenőrzésre vonatkozó szabályainak megfelelően a szerződés felmondását követő 15 napon belül köteles az állami adóhatóságnál vezetett számlára visszatéríteni.
+(8) Ha a hozzájárulásra kötelezett az általa megkötött tanulószerződést az abban foglalt határidő lejárta előtt jogellenesen felmondja, a tanulószerződés alapján e törvény szerint a szakképzési hozzájárulási kötelezettsége terhére a tanulószerződés felmondásáig elszámolt csökkentő tétel teljes összegét az adózás rendjéről szóló törvény (a továbbiakban: Art.) önellenőrzésre vonatkozó szabályainak megfelelően a szerződés felmondását követő 15 napon belül köteles az állami adóhatóságnál vezetett számlára visszatéríteni.
+
+(9) A (7) vagy (8) bekezdésben foglaltak megvalósulása esetén a hozzájárulásra kötelezett az érintett adóévek tekintetében nem élhet az 5. § e) pontjában meghatározott levonás lehetőségével, a levonás teljes összegét az Art. önellenőrzésre vonatkozó szabályai szerint az állami adóhatóságnál vezetett számlára kell befizetnie.

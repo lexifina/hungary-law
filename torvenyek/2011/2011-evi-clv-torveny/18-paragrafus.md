@@ -4,7 +4,9 @@ a) a 19. §-ban meghatározott szakképzési célokra,
 
 b) a felnőttképzésről szóló törvényben meghatározott iskolarendszeren kívüli felnőttképzési célokra, valamint
 
-c) az oktatásért felelős miniszter szakképzéssel összefüggő, a (2) bekezdésben meghatározott feladatai ellátásához – az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által évente megkötött külön megállapodás alapján – szükséges forrás biztosítására, illetve támogatás nyújtására
+c) az oktatásért felelős miniszter szakképzéssel összefüggő, a (2) bekezdésben meghatározott feladatai ellátásához – az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által évente megkötött külön megállapodás alapján – szükséges forrás biztosítására, illetve támogatás nyújtására,
+
+d) a 19/A. § (2)–(4) bekezdésében meghatározott feladatok finanszírozására
 
 használható fel.
 
