@@ -15,3 +15,7 @@ b) egyéb céllal
 (4) Ha az ügylet keletkezését követően bekövetkező gazdasági események indokolják, a pénzügyi instrumentum első besorolását követően a pénzügyi instrumentumot át kell sorolni, az értékelést meg kell változtatni és az értékelés alapjának változásából származó nyereséget vagy veszteséget az átsorolás időszakában kell az eredményben elszámolni.
 
 (5) Az opciós díjat annak az időszaknak az eredményében kell figyelembe venni, amelyben az opciót érvényesítik (az ügyletet lezárják). Amennyiben az opció tárgyát befektetett eszközként hasznosítják, akkor az opciós díj a beszerzési ár részét képezi.
+
+(6)[^60] A CDS (Credit Default Swap) ügylet induláskori, felhalmozott kamat nélküli ellenértékét annak az időszaknak az eredményében kell figyelembe venni, amelyben a CDS ügyletet lezárják. Az ügylethez kapcsolódó, negyedévente pénzügyileg rendezett díjat az adott időszak eredményében kell elszámolni.
+
+[^60]: A 16. § (6) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 12. §-a iktatta be.

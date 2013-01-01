@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-221-20-
 | 2009-01-01 | 2000-221-20-22.5 | 221/2000. (XII. 19.) Korm. rendelet |
 | 2011-01-01 | 2000-221-20-22.6 | 345/2010. (XII. 28.) Korm. rendelet |
 | 2012-06-09 | 2000-221-20-22.7 | 114/2012. (VI. 8.) Korm. rendelet |
+| 2013-01-01 | 2000-221-20-22.8 | 382/2012. (XII. 19.) Korm. rendelet |
