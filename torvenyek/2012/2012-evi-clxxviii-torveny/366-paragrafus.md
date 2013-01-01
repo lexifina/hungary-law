@@ -1,1 +1,3 @@
-366. §
+366. § Az Eat. 455. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha a kifizető a természetes személlyel fennálló adófizetési kötelezettséget eredményező jogviszonya alapján ugyanazon adó-megállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is kifizet (juttat), az adóalap megállapításánál az (1) bekezdés a)–b) és e) pontját együttesen kell alkalmazni, azzal az eltéréssel, hogy az (1) bekezdés e) pontjának alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.”

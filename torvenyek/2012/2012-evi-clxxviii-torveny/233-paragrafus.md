@@ -1,0 +1,3 @@
+233. § A Vtv. 7/N. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az elrendelt utólagos ellenőrzéssel összefüggésben a vámhatóság ellenőrzést végezhet olyan személynél, amely az utólagos ellenőrzés alanyával közvetett vagy közvetlen üzleti kapcsolatban áll, feltéve, hogy az elrendelt utólagos ellenőrzés tényállásának teljes körű tisztázása érdekében ezen vizsgálat szükséges (kapcsolódó vizsgálat). Kapcsolódó vizsgálat esetében a vámhatóság a vizsgálat lefolytatásáról szóló előzetes értesítést mellőzi, és a kapcsolódó vizsgálat a megbízólevél átadásával veszi kezdetét. Egyéb tekintetben a kapcsolódó vizsgálatra az utólagos ellenőrzés szabályai alkalmazandók.”

@@ -1,1 +1,5 @@
-141–145. §
+141. § Az Áfa tv. 179. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Minden személy, szervezet, aki (amely) e törvényben szabályozott jogot gyakorol, illetőleg akire (amelyre) e törvény kötelezettséget állapít meg, köteles az adómegállapítás hiánytalan és helyes volta ellenőrizhetőségének érdekében az általa vagy nevében kibocsátott, valamint a birtokában levő vagy egyéb módon rendelkezésére álló okiratot legalább az adó megállapításához való jog elévüléséig megőrizni.
+
+(2) Az (1) bekezdés szerinti megőrzési kötelezettség papír alapú okirat esetében a kibocsátásra kötelezett részéről a másodlati példányra, a befogadó részéről az okirat eredeti példányára, vagy – ha azt e törvény nem zárja ki – eredeti példány hiányában annak hiteles másolatára vonatkozik. A megőrzési kötelezettség teljesíthető a papír alapon kibocsátott okirat elektronikus formában történő megőrzésével is. Elektronikus okirat kizárólag elektronikus formában őrizhető meg. A kötelezettség teljesítését nem befolyásolja az elektronikus okirat formátumának a 168/A. §-ban foglalt követelményeknek megfelelő megváltoztatása. A megőrzési kötelezettség elektronikus formában történő teljesítése esetén az adóalanynak elektronikusan kell megőriznie a számla eredetének hitelességét, adattartalma sértetlenségét biztosító adatokat is.”
