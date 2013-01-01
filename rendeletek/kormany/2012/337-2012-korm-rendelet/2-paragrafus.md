@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdés c) pontja alkalmazásában a határozatlan idejű hitelszerződés olyan határozott futamidő nélküli hitelszerződés, amely esetében a kölcsönt egy adott időszakon belül vagy egy adott időszakot követően teljes összegben vissza kell fizetni, de a visszafizetést követően a kölcsön újra lehívható.”

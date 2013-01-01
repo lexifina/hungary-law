@@ -1,0 +1,51 @@
+1. § (1) A teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló 83/2010. (III. 25.) Korm. rendelet (a továbbiakban: Thmr.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A THM számításánál azt kell figyelembe venni, hogy a hitelszerződés a hitelszerződés szerinti futamidő alatt a hitelszerződés szerint kerül teljesítésre. Ha a THM meghatározásához szükséges feltételek a hitelszerződésben nem szerepelnek vagy a hitelszerződést megelőző tájékoztatásnál és a kereskedelmi kommunikáció során nem ismertek, a THM-et a (2) bekezdésben meghatározott feltételek figyelembevételével kell kiszámítani.”
+
+(2) A Thmr. 4. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A THM kiszámításánál a következő számítási módszert kell alkalmazni:)
+
+## „c) olyan határozatlan idejű hitelszerződés esetén, amely nem minősül fizetési számlához kapcsolódó hitelnek, a THM kiszámításánál
+
+## ca) a hitel futamidejét az első lehívás időpontjától számított egy évnek, a tőke-, kamat- és egyéb esetleges díjtartozások megfizetését az utolsó részlettel együtt történő teljesítésnek kell tekinteni,
+
+## cb) – ha a fogyasztó az első lehívás után egy hónappal kezdi el törleszteni a tőkét egyenlő havi részletekben vagy a tőketartozást minden egyes fizetési időszakban egyetlen részletben teljes összegben vissza kell fizetni – a teljes tőkeösszeg egymást követő lehívásait és visszafizetéseit egy éves időszakra vonatkozóan kell figyelembe venni, vagy
+
+## cc) a kamatokat és más díjakat a lehívásoknak és visszafizetéseknek megfelelően és a hitelszerződésben foglaltak szerint kell figyelembe venni;”
+
+(3) A Thmr. 4. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(A THM kiszámításánál a következő számítási módszert kell alkalmazni:)
+
+## „f) olyan hitelszerződés esetén, amely nem minősül fizetési számlához kapcsolódó hitelnek és nem tartozik a c) pont hatálya alá, a THM kiszámításánál
+
+## fa) – ha a tőketörlesztés időpontja vagy összege nem állapítható meg – a törlesztést a hitelszerződésben meghatározott legkorábbi időpontban és a hitelszerződésben meghatározott legalacsonyabb összegben történő megvalósulással kell figyelembe venni, vagy
+
+## fb) – ha a hitelszerződés megkötésének időpontja és az első lehívás időpontja nem ismert – az első lehívás időpontjának azt az időpontot kell tekinteni, amelytől számítva a legrövidebb idő telik el a fogyasztó első törlesztésének időpontjáig;”
+
+(4) A Thmr. 4. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(A THM kiszámításánál a következő számítási módszert kell alkalmazni:)
+
+## „g) fizetési számlához kapcsolódó hitel esetén, ha a hitel időtartama nem ismert, a hitel futamidejét három hónapnak kell tekinteni és ha a hitelszerződésnek
+
+## ga) feltétele egy meghatározott összeg meghatározott időközönként a fizetési számlán történő jóváírása, a THM-et akként kell kiszámítani, hogy ez az összeg – vagy a befizetendő minimumösszegre vonatkozó előírás esetén a minimumösszeg – a hitelszerződésben meghatározott időközönként jóváírásra kerül úgy, hogy első alkalommal a lehívás után egy teljes időszakkal kerül jóváírásra, ezt követően pedig minden alkalommal lehívásra kerül a hitelkeretből rendelkezésre álló rész;
+
+## gb) nem feltétele egy meghatározott összeg meghatározott időközönként a fizetési számlán történő jóváírása, a THM-et akként kell kiszámítani, hogy a teljes hitelösszeg a hitelszerződés teljes időtartamára lehívásra kerül, a fizetési számlán a futamidő során nem történik jóváírás és a teljes tőke-, kamat- és egyéb esetleges díjtartozás visszafizetésére egy összegben kerül sor a futamidő végén;”
+
+(5) A Thmr. 4. § (2) bekezdés i) pontja helyébe a következő rendelkezés lép:
+
+(A THM kiszámításánál a következő számítási módszert kell alkalmazni:)
+
+## „i) ha a törlesztés időpontja vagy összege a hitelszerződés vagy a c), f) és g) pontban meghatározott feltételek alapján nem állapítható meg, a THM-et akként kell kiszámítani, hogy
+
+## ia) a kamatfizetés a tőketörlesztéssel együtt történik,
+
+## ib) az egy összegben meghatározott, kamatnak nem minősülő díj megfizetésére a szerződés megkötésekor kerül sor,
+
+## ic) a több részletben fizetendő kamatnak nem minősülő díj az első tőketörlesztés időpontjától rendszeres időközönként kerül kifizetésre és a kifizetések összegei – ha ezek összegszerűen nem ismertek – egyenlő összegek, és
+
+## id) a fogyasztó az utolsó részlettel együtt kifizeti a tőke-, kamat- és egyéb esetleges díjtartozásokat.”
+
+(6) A Thmr. 4. §-a a következő (3) bekezdéssel egészül ki:
