@@ -10,7 +10,7 @@ bb) az egészségügyi államigazgatási szerv ismételt figyelmeztetése ellen�
 
 c) a személyi jog jogosultja foglalkozás körében elkövetett veszélyeztetés vagy gazdasági bűncselekmény miatt büntetett előéletűvé válik, vagy a személyi jog jogosultját jogerősen letöltendő szabadságvesztésre ítélik vagy a gyógyszerész foglalkozástól eltiltás hatálya alá kerül,
 
-d) a személyi joggal rendelkező gyógyszerész, vagy a gyógyszertárban dolgozó más személy a 17. § (8)–(10) bekezdésében és a 35. § (1) bekezdésében foglaltakat ismételten megsérti,
+d) a személyi joggal rendelkező gyógyszerész, vagy a gyógyszertárban dolgozó más személy a 17. § (8)–(11) bekezdésében vagy a 35. § (1) bekezdésében foglaltakat ismételten megsérti,
 
 e) a személyi joggal rendelkező gyógyszerészt a Büntető Törvénykönyvről szóló törvény 290. §-a szerinti bűncselekmény elkövetése miatt jogerősen elítélik.
 

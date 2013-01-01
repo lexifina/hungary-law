@@ -22,7 +22,7 @@ bb) tartására jogosult személy már nem felel meg az engedély megadásához 
 
 c) a gyógyszertár hatósági ellenőrzésére jogosult szervek ellenőrzéseik során olyan hiányosságot állapítottak meg, amely miatt a gyógyszertár működését két éven belül ismételten fel kellett függeszteni;
 
-d) az intézeti gyógyszertárat működtető fekvőbeteg-gyógyintézet megszűnik,
+d) az intézeti gyógyszertárat működtető fekvőbeteg-ellátást végző intézmény megszűnik,
 
 e) a személyi jog visszavonásra került az 58. § alapján, továbbá ha a személyi jog megszűnt – kivéve a 60/B. §, 60/C. §, 60/D. § és a 65. § b) pontjának alkalmazása esetén –,
 

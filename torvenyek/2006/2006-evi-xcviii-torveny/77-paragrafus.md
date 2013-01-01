@@ -12,7 +12,9 @@ e) a kutatás-fejlesztési ráfordítások után igénybe vehető engedményekre
 
 f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat,
 
-g) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógussal kapcsolatos bírság összegét és befizetésének szabályait
+g) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógussal kapcsolatos bírság összegét és befizetésének szabályait,
+
+h) a gyógyszertárak részére nyújtandó szolgáltatási díj folyósítására és mértékére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -48,7 +50,7 @@ n) az egészségbiztosítási szerv által működtetett internetes gyógyászat
 
 o) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait,
 
-p) az egyszerűsített támogatási jegyzékre vonatkozó részletes szabályokat, valamint az egyszerűsített támogatási jegyzékben szereplő funkcionális csoportba tartozó, és a háromhavi terápiás limit alapú támogatásban részesülő gyógyászati segédeszközök igénybevételének részletes szabályait,
+p)
 
 q) a gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által vezetendő, a gyógyszertárak gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet felé fennálló pénzügyi kötelezettségét tartalmazó nyilvántartás tartalmára és a tájékoztatásra vonatkozó részletes szabályokat,
 

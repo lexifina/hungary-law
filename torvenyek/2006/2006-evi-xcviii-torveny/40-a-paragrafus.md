@@ -12,6 +12,8 @@
 
 (3a) A gyógyszer forgalombahozatali engedélyének jogosultja az árcsökkentés időpontjától számítva mentesül az (1) bekezdés szerinti befizetési kötelezettség teljesítése alól azon készítmény tekintetében, amelynél a befizetési kötelezettség keletkezésének időpontjában érvényes termelői árhoz képest a forgalombahozatali engedély jogosultja az adott készítmény termelői árát 10%-kal vagy azt meghaladó mértékben csökkentette.
 
+(3b) A gyógyszer forgalombahozatali engedélyének jogosultja mentesül az (1) bekezdés szerinti befizetési kötelezettség teljesítése alól azon készítmények tekintetében, amelyeknél a gyógyszer forgalombahozatali engedélyének jogosultja a 26. § (5) bekezdés b) pontjának alkalmazásával határértékes támogatás-volumen szerződést köt az egészségbiztosítási szervvel.
+
 (4) Az (1) bekezdésben foglalt befizetési kötelezettségre az Art. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (5) Az állami adóhatóság az (1) bekezdés szerinti, a forgalomba hozatali engedély jogosultja és a forgalmazó közötti megállapodás jóváhagyásáról, a jóváhagyás napját követő nyolc napon belül tájékoztatja az egészségbiztosítási szervet.

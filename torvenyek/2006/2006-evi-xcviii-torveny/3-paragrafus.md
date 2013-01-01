@@ -34,19 +34,19 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 14. referenciagyógyszer: az a meghatározott (fix) támogatási csoportba tartozó gyógyszer, amely a külön jogszabályban meghatározottak szerinti bruttó fogyasztói ára és forgalmi részesedése alapján az adott ATC-csoportra meghatározott százalékos támogatásban részesül;
 
-15. referencia gyógyászati segédeszköz: az a meghatározott (fix) támogatási csoportba tartozó gyógyászati segédeszköz – ide nem értve az egyszerűsített támogatási jegyzékben szereplő funkcionális csoportba tartozó, valamint a háromhavi terápiás limit alapú (keretösszeg) támogatásban részesülő gyógyászati segédeszközöket –, amely a közfinanszírozás alapjául elfogadott ára, kölcsönzési díja, illetve forgalmi részesedése alapján az adott támogatási csoportra meghatározott, a külön jogszabály szerinti százalékos támogatásban részesül;
+15. referencia gyógyászati segédeszköz: az a meghatározott (fix) támogatási csoportba tartozó gyógyászati segédeszköz, amely a közfinanszírozás alapjául elfogadott ára, kölcsönzési díja, illetve forgalmi részesedése alapján az adott támogatási csoportra meghatározott, a külön jogszabály szerinti százalékos támogatásban részesül;
 
 16. közforgalmú gyógyszertár: a lakosság közvetlen és teljes körű gyógyszerellátását biztosító olyan egészségügyi intézmény, amely a teljes körű gyógyszerellátás keretében magisztrális gyógyszerkészítést is végez;
 
 17. fiókgyógyszertár: a közforgalmú gyógyszertár részeként működő, de azzal nem azonos telephelyű, vagy mozgó egységként működtetett, a lakosság közvetlen gyógyszerellátását biztosító egészségügyi intézmény;
 
-18. intézeti gyógyszertár: a fekvőbeteg-gyógyintézet részeként működő, annak teljes körű gyógyszerellátását végző egészségügyi intézmény, mely szaktevékenységként közvetlen lakossági gyógyszerellátási feladatokat is végezhet;
+18. intézeti gyógyszertár: a fekvőbeteg-ellátást végző intézmény részeként működő, annak teljes körű gyógyszerellátását végző egészségügyi intézmény, mely szaktevékenységként közvetlen lakossági gyógyszerellátási feladatokat is végezhet;
 
 19. kézigyógyszertár: a háziorvos, házi gyermekorvos (a továbbiakban: háziorvos) gyógyító munkájához szükséges, a gyógyszerek meghatározott körét szolgáltató ellátási forma;
 
 20. személyes gyógyszertár működtetési jog: szakmai gyakorlattal rendelkező gyógyszerész részére, adott közforgalmú gyógyszertár vezetésére és működtetésére szóló engedély (a továbbiakban: személyi jog);
 
-21. közvetlen lakossági gyógyszerellátás: azon tevékenységek összessége, amely során a gyógyszertár a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten, a lakosság részére biztosítja;
+21. közvetlen lakossági gyógyszerellátás: azon egészségügyi szolgáltatási tevékenységek összessége, amelyek során a gyógyszertár a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten a lakosság részére biztosítja, továbbá az interneten igényelt gyógyszerek kiszolgáltatása és házhoz szállítása;
 
 22. gyógyszer házhozszállítása: a gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
 

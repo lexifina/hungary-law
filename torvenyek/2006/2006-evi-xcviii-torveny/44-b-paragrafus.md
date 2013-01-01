@@ -1,0 +1,1 @@
+44/B. § A közforgalmú gyógyszertárat működtető vállalkozás, valamint a közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertár az általa nyújtott, betegbiztonságot és gyógyszerbiztonságot elősegítő szolgáltatásaiért kormányrendeletben foglaltak szerint – az E. Alap éves költségvetésének e célra megjelölt előirányzata terhére – szolgáltatási díjban részesül.
