@@ -1,8 +1,8 @@
 1. § (1) E rendelet alkalmazásában többletkapacitás az
 
-a)[^1] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Tv.) 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő fekvőbeteg-szakellátási kapacitásokon felüli fekvőbeteg-szakellátási kapacitás,
+a)[^1] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Tv.) 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitásokon felüli kapacitás,
 
-b)[^2] a Tv. alapján 2011. december 31-én lekötött, valamint szüneteltetett járóbeteg-szakellátási kapacitáson felüli járóbeteg-szakellátási kapacitás,
+b)[^2] a Tv. 3. § (1) bekezdés b) pontja alá tartozó kapacitások esetében a 2012. december 31-én lekötött kapacitáson felüli kapacitás,
 
 c)[^3] a finanszírozási rendszerbe már befogadott, de az adott egészségügyi szolgáltató érvényes finanszírozási szerződése alapján a szolgáltató által el nem számolható krónikus súlyozási szorzóval finanszírozott ellátás végzése, valamint az a finanszírozási rendszerbe már befogadott és az adott egészségügyi szolgáltató érvényes finanszírozási szerződése alapján a szolgáltató által elszámolható krónikus súlyozási szorzónál magasabb szorzóval finanszírozott ellátás végzése,
 
@@ -48,8 +48,8 @@ c) fizioterápia, dietetika, pszichológia, pedagógiai végzettséggel ellátha
 
 (7)[^18] A Tv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térségek alatt a 4. számú melléklet szerinti térségeket kell érteni.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 325/2011. (XII. 28.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja a 447/2012. (XII. 29.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 48. §-ával megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés c) pontját a 291/2009. (XII. 18.) Korm. rendelet 16. § (8) bekezdése hatályon kívül helyezte, újonnan a 227/2011. (X. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés d) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés e) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.

@@ -20,5 +20,8 @@ c) az állam a (3), illetve a (4) bekezdés szerinti esetben – a Tv. 2. § (2)
 
 (7) A magyar állam szakellátási kötelezettsége keretében végzett ellátásokért az egészségügyi szolgáltató az (1) bekezdés szerinti időponttól jogosult finanszírozásra a finanszírozási szerződésében és a külön jogszabályban foglaltak szerint.
 
+(8)[^21] Ha a Tv. 2. § (2), illetve (2a) bekezdése esetében a feladat állami ellátása érdekében szükséges, az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) határozattal rendelkezik a kapacitások – Tv. 7. § (11) bekezdése szerinti – átcsoportosításáról és az ahhoz kapcsolódó ellátási területek módosításáról.
+
 [^19]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.
 [^20]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.
+[^21]: Az 1/A. § (8) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
