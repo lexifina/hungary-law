@@ -1,0 +1,17 @@
+## 26. A postai szolgáltató kártérítési felelőssége
+
+44. § (1) A postai szolgáltatónak a postai küldemény megsemmisülése, részleges vagy teljes elveszése, megsérülése, továbbá időgarantált szolgáltatás késedelmes teljesítése következtében a feladóval, az 50. § (2) bekezdésében meghatározottak szerint a címzettel vagy harmadik személlyel, valamint utánküldés-szolgáltatás nem szerződésszerű teljesítése esetén a címzettel szemben fennálló kártérítési felelősségére az e §-ban, valamint a 45–52. §-ban foglalt rendelkezéseket kell alkalmazni. A postai szolgáltató az általános szerződési feltételeiben az e törvényben foglaltaknál szigorúbb (a felhasználóra nézve kedvezőbb) szabályok szerint is vállalhat felelősséget.
+
+(2) A postai szolgáltató a bejelentésköteles szolgáltatásokra vonatkozó általános szerződési feltételeiben az (1) bekezdésben, a (3)–(8) bekezdésben, továbbá a 45–51. §-ban foglalt rendelkezések helyett a polgári törvénykönyv szerződésszegéssel okozott kárért való felelősségre vonatkozó szabályainak alkalmazását kötheti ki.
+
+(3) Nem könyvelt postai küldemény vonatkozásában létrejött postai szolgáltatási szerződés nem vagy nem szerződésszerű teljesítése esetén (különösen, ha a postai küldemény megsemmisül, teljesen vagy részlegesen elvész vagy megsérül) a postai szolgáltatót – kivéve, ha a károkozás a szolgáltató vagy az általa megbízott személy szándékos cselekményének eredményeként következett be – kártérítési kötelezettség nem terheli.
+
+(4) A postai szolgáltató és a feladó vagy a címzett megállapodása hiányában a postai szolgáltató postai szolgáltatásnyújtásából eredő kártérítési felelősségére – a postai küldemény megsemmisüléséből, részleges vagy teljes elveszéséből, megsérüléséből, továbbá az időgarantált szolgáltatás késedelmes teljesítéséből eredő kár kivételével – a polgári törvénykönyv általános szabályai az irányadók, azzal, hogy a postai szolgáltató a feladó vagy az 50. § (2) bekezdésében meghatározottak szerint a címzett, utánküldés-szolgáltatás nem szerződésszerű teljesítése esetén a címzett nem vagyoni kárát nem köteles megtéríteni, e személyek vagyonában okozott kárt pedig az elmaradt vagyoni előny kivételével köteles megtéríteni. Az e bekezdés alapján felmerült követelések 6 hónap alatt elévülnek.
+
+(5) A postai szolgáltató nem felel a levélszekrénybe is kézbesíthető postai küldemények, továbbá az oda elhelyezhető értesítések, valamint a tértivevény elveszéséből, megsemmisüléséből vagy megsérüléséből eredő kárért, ha a címen nincs a 41. § (2) bekezdésében meghatározott követelményeknek megfelelő levélszekrény.
+
+(6) A postai szolgáltató nem felel a személyes átadással kézbesítendő postai küldemény sikertelen kézbesítéséért, valamint időgarantált szolgáltatás késedelmes vagy nem teljesítéséért, ha ezek oka az, hogy a címzett a címhez való biztonságos eljutás lehetőségét a postai szolgáltató számára nem biztosította.
+
+(7) A megsemmisült vagy a teljes egészében elveszett postai küldemény esetében késedelem címén kártérítési igény nem érvényesíthető.
+
+(8) Amennyiben a postai szolgáltató a postai küldeményt arra nem jogosult átvevő részére tévesen kézbesítette, és a jogosult átvevő részére történő szerződésszerű teljesítés a téves kézbesítés felismerésétől számított 30 napon belül lehetetlen, az ebből eredő kár megtérítésére a küldemény elveszésére vonatkozó szabályok irányadók.

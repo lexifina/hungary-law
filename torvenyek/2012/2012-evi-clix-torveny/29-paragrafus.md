@@ -1,0 +1,3 @@
+29. § (1) Az egyetemes postai szolgáltató jogosult méltánytalan többletterhének megtéríttetésére.
+
+(2) Amennyiben a Számlára befizetett hozzájárulások és az egyetemes postai szolgáltatóra az egyetemes postai szolgáltatást helyettesítő szolgáltatásai alapján kirótt hozzájárulási kötelezettségének összege alacsonyabb a tárgyévi méltánytalan többletteher összegénél, a különbözetet – az államháztartásért felelős miniszterrel egyetértésben – az Egyetemes Postai Közszolgáltatási Szerződésben rögzítettek alapján, a központi költségvetésről szóló törvényben e célra rendelkezésre álló előirányzat mértékéig kell megtéríteni az egyetemes postai szolgáltató részére.

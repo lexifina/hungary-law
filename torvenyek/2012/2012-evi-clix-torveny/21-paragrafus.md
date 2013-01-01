@@ -1,0 +1,9 @@
+## 15. Az egyetemes postai szolgáltatás nyújtásának méltánytalan többletterhe
+
+21. § (1) Az egyetemes postai szolgáltatási kötelezettség nettó költsége az egyetemes postai szolgáltatás nyújtásával kapcsolatban felmerülő költség. A nettó költség az egyetemes postai szolgáltató egyetemes postai szolgáltatási kötelezettséggel együtt járó és egyetemes postai szolgáltatási kötelezettség nélkül jelentkező nettó költségeinek különbözeteként számítható ki. A nettó költség számításkor figyelembe kell venni az egyetemes postai szolgáltatónál keletkező előnyöket, beleértve a nem tárgyi és piaci előnyöket, továbbá az ésszerű nyereséghez való jogot és a költséghatékonysági ösztönzőket.
+
+(2) Az egyetemes postai szolgáltatások költségszámítására és a költségelszámolási rendszerre, valamint az egyetemes postai szolgáltatási kötelezettség nettó költségének számítására vonatkozó részletes szabályokat a miniszter rendeletben határozza meg.
+
+(3) Amennyiben az egyetemes postai szolgáltatás nettó költsége meghaladja az egyetemes postai szolgáltató egyetemes postai szolgáltatásokhoz kapcsolódó költségeinek 1 százalékát, ezen összeg az egyetemes postai szolgáltató méltánytalan többletterhe (a továbbiakban: méltánytalan többletteher). Az egyetemes postai szolgáltatás méltánytalan többletterhének meghatározására vonatkozó, a jogszabályoknak megfelelő számításokkal alátámasztott kérelmét az egyetemes postai szolgáltató a tárgyévet követő június 30-ig nyújthatja be a Hatósághoz.
+
+(4) A Hatóság ellenőrzi az egyetemes postai szolgáltató által benyújtott számítások jogszabályi megfelelőségét és helyességét. A Hatóság az ellenőrzés során a döntés meghozatala előtt legfeljebb egy alkalommal rendelheti el a benyújtott számítások hiánypótlás keretében történő kiegészítését. Ha az ellenőrzés során a Hatóság megállapítja ezek megfelelőségét, határozatot hoz a méltánytalan többletteher összegéről. A Hatóság döntését honlapján is közzéteszi.

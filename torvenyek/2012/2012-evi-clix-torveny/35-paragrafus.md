@@ -1,0 +1,17 @@
+## V. Fejezet
+
+## A POSTAI SZOLGÁLTATÁS NYÚJTÁSA
+
+## 22. A postai szolgáltatás nyújtásának általános szabályai
+
+35. § (1) A postai szolgáltatás nyújtása során teljesíteni kell a jogszabályokban, az Egyetemes Postai Közszolgáltatási Szerződésben, az általános szerződési feltételekben, valamint a szolgáltatási engedélyben meghatározott vagy a bejelentésben vállalt feltételeket, továbbá teljesíteni kell a jogszabályokban előírt, valamint a postai szolgáltató által a postai szolgáltatási szerződésben vállalt kötelezettségeket.
+
+(2) A postai szolgáltatások és az azokkal kapcsolatos ügyfélszolgálati, panaszkezelési tevékenységek igénybevételét a postai szolgáltatók kötelesek magyar nyelven a felhasználók számára biztosítani, továbbá kötelesek magyar nyelven, közérthetően megfogalmazni és rendelkezésre bocsátani a postai szolgáltatások nyújtásával kapcsolatosan a felhasználók számára meghirdetett általános szerződési feltételeket, szerződésmintákat, a szolgáltatás igénybevételéhez szükséges nyomtatványokat, valamint egyéb tájékoztatókat.
+
+(3) Belföldi forgalomban az egyetemes és az egyetemes postai szolgáltatást helyettesítő szolgáltatás esetében a levélküldemények legalább 97%-át a feladást követő ötödik munkanap végéig kézbesíteni kell vagy kézbesítését meg kell kísérelni. Az egyetemes postai szolgáltatást helyettesítő szolgáltatások vonatkozásában a postai szolgáltató az általános szerződési feltételeiben köteles az elveszett, megsemmisült vagy megsérült könyvelt küldeményeknek a feladott könyvelt küldemények számához viszonyított maximális arányát megállapító – a szolgáltatás megbízhatóságára vonatkozó – minőségi mutatókat meghatározni.
+
+(4) A postai szolgáltató a (3) bekezdés szerinti minőségi követelményeknek való megfelelést évente tanúsíttatja a szolgáltatótól független szakértővel. A minőségi követelmények mérését a Hatóság által előzetesen jóváhagyott módszer alapján, a postai szolgáltató saját költségén kell elvégezni. A Hatóság köteles megfelelőként elfogadni a vonatkozó szabványban meghatározottnak megfelelő mérési módszertant. A mért adatokat is tartalmazó tanúsítványt évente, legkésőbb a tárgyévet követő március 31-ig a postai szolgáltató köteles ellenőrzésre megküldeni a Hatóság részére, és azt a Hatóság és az érintett postai szolgáltató honlapján legalább három éven keresztül elérhetővé teszi.
+
+(5) A postai szolgáltató az egyetemes és az egyetemes postai szolgáltatást helyettesítő szolgáltatás nyújtását köteles úgy megszervezni és működtetni, hogy az átfutási idő belföldi forgalomban teljesüljön a (3) bekezdésben meghatározottak szerint, feltételezve azt, hogy a postai hálózatba való elhelyezés az aktuális felvételi pontra a meghatározott tárgynapi utolsó gyűjtési időpont előtt megtörténik. Ha a postai küldemény elhelyezése az utolsó gyűjtési időpontot követően valósul meg, az elhelyezés napjaként a következő gyűjtési napot kell számításba venni.
+
+(6) A postai szolgáltató köteles gondoskodni arról, hogy a Hatóság részére bejelentett, az azonosítására alkalmas jelzés fel legyen tüntetve az általa kezelt postai küldeményen vagy annak kísérő okiratán, amennyiben a kísérő okiratot a kézbesítés során a postai szolgáltató a jogosult átvevő részére átadja. Az engedélyköteles és a bejelentésköteles szolgáltatást nyújtó postai szolgáltató azonosítására alkalmas jelzés a postai szolgáltató nevét vagy rövidített elnevezését is tartalmazza. Az egyetemes postai szolgáltató azonosítására alkalmas jelzéseket az Egyetemes Postai Közszolgáltatási Szerződés határozza meg.

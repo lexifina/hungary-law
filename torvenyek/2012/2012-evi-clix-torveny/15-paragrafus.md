@@ -1,0 +1,9 @@
+## 9. Az egyetemes postai szolgáltatások alapvető minőségi követelményei
+
+15. § (1) Belföldi forgalomban az egyetemes postai szolgáltatás keretében a küldeményenkénti díjszabás alapján feladott elsőbbségi levélküldemények legalább 85%-át a feladást követő munkanap, legalább 97%-át a feladást követő harmadik munkanap végéig kézbesíteni kell, vagy meg kell kísérelni a kézbesítését. Az Európai Unió tagállamai közötti forgalomban az egyetemes postai szolgáltatónak úgy kell eljárnia, hogy az elsőbbségiként feladott levélküldemények legalább 85%-a esetében a feladást követő harmadik munkanap, legalább 97%-a esetében a feladást követő ötödik munkanap végéig sor kerülhessen a kézbesítésére vagy a kézbesítés megkísérlésére.
+
+(2) A küldeményenkénti díjszabás alapján feladható nem elsőbbségi levélküldemények, valamint az egyetemes postai szolgáltatásként feladható csomagküldemények és egyéb tartalmú küldemények kötelezően teljesítendő átfutási idejét a miniszter az Egyetemes Postai Közszolgáltatási Szerződésben határozza meg.
+
+(3) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatás nyújtását köteles úgy megszervezni és működtetni, hogy az átfutási idő belföldi forgalomban az (1)–(2) bekezdésben meghatározottak szerint teljesüljön, feltételezve, hogy az egyetemes postai hálózatba való elhelyezés az aktuális felvételi pontra a meghatározott tárgynapi utolsó gyűjtési időpont előtt megtörténik. Ha a postai küldemény elhelyezése az utolsó gyűjtési időpontot követően valósul meg, az elhelyezés napjaként a következő gyűjtési napot kell számításba venni.
+
+(4) Az elveszett, megsemmisült vagy megsérült könyvelt küldeményeknek a feladott könyvelt küldemények számához viszonyított maximális arányára vonatkozó – a szolgáltatás megbízhatóságát leíró – követelményeket az egyetemes postai szolgáltatás keretében feladott könyvelt küldemények vonatkozásában a miniszter az Egyetemes Postai Közszolgáltatási Szerződésben határozza meg.

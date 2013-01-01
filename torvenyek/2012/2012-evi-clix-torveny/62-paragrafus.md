@@ -1,0 +1,3 @@
+## 40. A Hatóság postai feladatai
+
+62. § A postai ágazat hatósági feladatait a Hatóság látja el. Ennek keretében a Hatóság eljár a postai szolgáltatások bejelentésével, engedélyezésével, az ehhez kapcsolódó, a jogszabályban előírt nyilvántartások vezetésével, a postai szolgáltatások ellenőrzésével, a postai szolgáltatási piac hatósági és piacfelügyeletével, a postai szolgáltatók adatszolgáltatásával, az Egyetemes Postai Közszolgáltatási Szerződés felhasználói jogokat érintő rendelkezései teljesítésének ellenőrzésével, a nettó elkerülhető költség és a méltánytalan többletteher mértékének jóváhagyásával kapcsolatos és egyéb hatósági ügyekben, valamint kezeli az Egyetemes Postai szolgáltatást Támogató Számlát.

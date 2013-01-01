@@ -1,0 +1,1 @@
+43. § A külföldről érkező, valamint a külföldre küldött postai küldemények vámeljárás alá vonása esetén a kapcsolódó speciális szabályokat a vámjogszabályok tartalmazzák. A postai szolgáltató a külföldre küldött olyan postai küldeményt, amely nem vonható vámeljárás alá – ha a vámjogszabályok vagy a feladó másként nem rendelkezik – visszairányítja a feladóhoz.
