@@ -8,9 +8,11 @@ b) a letelepedési engedéllyel nem rendelkező tagállami állampolgárnak tart
 
 c) a mezőgazdasági igazgatási szerv által kiadott hatósági bizonyítványt arról, hogy a tulajdonszerzést megelőző három évben saját nevében, saját kockázatára folyamatosan mezőgazdasági tevékenységet folytatott Magyarországon.
 
+(2a) Nem minősül a (2) bekezdés c) pontja szerinti saját nevében és kockázatára végzett mezőgazdasági tevékenységnek, ha a tevékenységet ténylegesen gazdasági társaság végezte (ide értve az érintett személy tulajdonában álló gazdasági társaságot is), valamint az elsődlegesen önellátás céljából végzett tevékenység.
+
 (3) A mezőgazdasági igazgatási szervnek az igazolását környezettanulmány alapján kell kiállítania. A környezettanulmány során a mezőgazdasági igazgatási szerv a mezőgazdasági tevékenység folytatását vizsgálja.
 
-(4) A (2) bekezdésben meghatározott igazolás, illetve hatósági bizonyítvány 60 napnál nem lehetnek régebbiek.
+(4) A (2) bekezdésben meghatározott igazolás, illetve hatósági bizonyítvány 60 napnál nem lehetnek régebbi és kizárólag a hatósági bizonyítvány kiadása iránti kérelemben megjelölt ingatlanok tulajdonszerzése vonatkozásában kerülhet felhasználásra.
 
 (5) A tagállami állampolgárnak teljes bizonyító erejű magánokiratba, vagy közokiratba foglalt nyilatkozatot kell tennie a következőkről:
 
