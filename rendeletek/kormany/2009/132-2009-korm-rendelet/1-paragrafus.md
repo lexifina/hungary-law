@@ -4,7 +4,7 @@ a)[^1] a Nemzetgazdasági Minisztériumra (a továbbiakban: Minisztérium),
 
 b)[^2] a Nemzeti Munkaügyi Hivatalra,
 
-c)[^3] a fővárosi és megyei kormányhivatal munkaügyi feladatot ellátó szakigazgatási szervére (a továbbiakban: munkaügyi központra) (a továbbiakban: munkaügyi központ), valamint
+c)[^3] a fővárosi (megyei) kormányhivatal munkaügyi feladatot ellátó szakigazgatási szervére (a továbbiakban: munkaügyi központ), a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala foglalkoztatási, munkaerőpiaci feladatokat ellátó ágazati szakigazgatási szervére (a továbbiakban: kirendeltség), valamint
 
 d) arra a természetes személyre, jogi személyre és jogi személyiség nélküli gazdasági társaságra aki, illetőleg amely
 
@@ -14,5 +14,5 @@ db)[^4] a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1./08/1 ko
 
 [^1]: Az 1. § a) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 324/2011. (XII. 28.) Korm. rendelet 16. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § c) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § c) pontja szerint módosított szöveg.
+[^3]: Az 1. § c) pontja a 272/2012. (IX. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § d) pont db) alpontja a 272/2012. (IX. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
