@@ -54,4 +54,4 @@ kapcsolatos feladatokat és előírásokat.
 
 (4) A fővárosi közgyűlés a környezetvédelmi programja végrehajtásáról legalább kétévente tájékoztatja a 40. § (6) bekezdésben meghatározott közreműködő szervet.
 
-(5) Települési önkormányzatok – az önálló települési környezetvédelmi program mellett vagy helyett – közös települési környezetvédelmi programot is készíthetnek. Az e feladat vállalására is kiterjedő többcélú kistérségi társulás, illetve a kistérségi területfejlesztési tanács kistérségi környezetvédelmi programot készíthet.
+(5) Települési önkormányzatok – az önálló települési környezetvédelmi program mellett vagy helyett – közös települési környezetvédelmi programot is készíthetnek.

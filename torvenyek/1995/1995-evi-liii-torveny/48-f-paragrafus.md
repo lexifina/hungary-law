@@ -12,7 +12,7 @@ véleményezésre megküldi.
 
 (2) A környezetvédelmi hatóság a véleményezésbe bevonja az illetékes környezetvédelmi igazgatási szerveket, a védett természeti területek természetvédelmi kezeléséért felelős szervet, valamint a természetvédelmi, vízügyi hatósági feladatokat ellátó külön szerveket, akik 30 napon belül tájékoztatják véleményükről a hatóságot.
 
-(3) A települési és kistérségi környezetvédelmi program tervezetét – az (1) bekezdésben meghatározott szerveken túl – az illetékes megyei önkormányzatnak, a megyei környezetvédelmi program tervezetét az illetékes regionális fejlesztési tanácsnak is meg kell küldeni véleményezésre.
+(3) A települési önálló vagy közös környezetvédelmi program tervezetét – az (1) bekezdésben meghatározott szerveken túl – az illetékes megyei önkormányzatnak, a megyei környezetvédelmi program tervezetét az illetékes regionális területfejlesztési konzultációs fórumnak is meg kell küldeni véleményezésre.
 
 (4) A véleményező szervek szakmai véleményükről hatvan napon belül tájékoztatják a környezetvédelmi program kidolgozóját.
 

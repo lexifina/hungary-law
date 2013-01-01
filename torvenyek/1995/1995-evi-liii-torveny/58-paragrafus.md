@@ -22,4 +22,4 @@ e) egyéb bevételek.
 
 (6) A környezet igénybevétetelével, terhelésével, szennyezésével érintett települési önkormányzat kezdeményezheti a (2) bekezdés a), b) és c) pontja szerinti bevétellel rendelkezni jogosult települési önkormányzatnál a bevétel arányos megosztását a hatásterületen lévő települési önkormányzatok között. Igényének mértékét adatokkal alá kell támasztania.
 
-(7) Ha a (6) bekezdés szerinti megosztás kérdésében, illetőleg mértékében az érintett települési önkormányzatok között nem jön létre egyezség, a kezdeményező települési önkormányzat a törvényszék székhelyén működő városi bírósághoz, a fővárosban a Pesti Központi Kerületi Bírósághoz keresetet nyújthat be. Az eljárás illetékmentes.
+(7) Ha a (6) bekezdés szerinti megosztás kérdésében, illetőleg mértékében az érintett települési önkormányzatok között nem jön létre egyezség, a kezdeményező települési önkormányzat a törvényszék székhelyén működő járásbírósághoz, a fővárosban a Pesti Központi Kerületi Bírósághoz keresetet nyújthat be. Az eljárás illetékmentes.
