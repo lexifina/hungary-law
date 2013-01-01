@@ -58,4 +58,6 @@
 
 ## vizsgálatot végzők
 
-6. számú melléklet a 65/2002. (VIII. 9.) FVM rendelethez
+6. számú melléklet a 65/2002. (VIII. 9.) FVM rendelethez[^34]
+
+[^34]: A 6. számú melléklet a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.

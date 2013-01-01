@@ -1,8 +1,8 @@
-## A kerületi főállatorvos feladatai
+## A járási főállatorvos feladatai[^4]
 
-4. § (1) Ha a kerületi főállatorvos az állománnyal foglalkozó személy vagy annak valamely hozzátartozója gümőkóros megbetegedéséről értesül, az állományt vagy a fertőzési forrásként gyanúba vett állatot klinikai és immundiagnosztikai, szükség esetén bakteriológiai vizsgálatnak veti alá.
+4. § (1)[^5] Ha a járási főállatorvos az állománnyal foglalkozó személy vagy annak valamely hozzátartozója gümőkóros megbetegedéséről értesül, az állományt vagy a fertőzési forrásként gyanúba vett állatot klinikai és immundiagnosztikai, szükség esetén bakteriológiai vizsgálatnak veti alá.
 
-(2) A kerületi főállatorvos a szarvasmarha gümőkóros megbetegedése, továbbá a betegség, illetve a fertőzöttség gyanújának megállapítása esetén az állat tartóját kötelezi
+(2)[^6] A járási főállatorvos a szarvasmarha gümőkóros megbetegedése, továbbá a betegség, illetve a fertőzöttség gyanújának megállapítása esetén az állat tartóját kötelezi
 
 a) a beteg, betegségre, illetve fertőzöttségre gyanús szarvasmarha elkülönítésére az arra fogékony állatoktól,
 
@@ -12,6 +12,12 @@ c) az istállóból és egyéb tartási helyekről származó trágya oly módon
 
 d) az istállóból vagy egyéb tartási helyről származó folyékony ürülék – ha azt nem a trágyával együtt kezelik – fertőtlenítésére.
 
-(3) A kerületi főállatorvos elrendeli a gümőkórral fertőzött szarvasmarha megjelölését melyet az intradermális tuberkulin próbát végző állatorvos végez el. A jelölés módja: a jobb fülkagyló külső szélén, a fülkagyló hegyétől számított három centiméterre, nyolc milliméter szélességű és mélységű, ék alakú fülcsipkével.
+(3)[^7] A járási főállatorvos elrendeli a gümőkórral fertőzött szarvasmarha megjelölését melyet az intradermális tuberkulin próbát végző állatorvos végez el. A jelölés módja: a jobb fülkagyló külső szélén, a fülkagyló hegyétől számított három centiméterre, nyolc milliméter szélességű és mélységű, ék alakú fülcsipkével.
 
-(4) A kerületi főállatorvos a nyilvántartásba bejegyzi a fertőzöttség tényét.
+(4)[^8] A járási főállatorvos a nyilvántartásba bejegyzi a fertőzöttség tényét.
+
+[^4]: A 4. §-t megelőző alcím a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.

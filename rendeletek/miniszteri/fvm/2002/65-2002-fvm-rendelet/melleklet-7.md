@@ -14,7 +14,7 @@
 
 ## Beküldendő:
 
-## Kerületi főállatorvoshoz január 10-éig.
+## Járási főállatorvoshoz január 10-éig.
 
 ## Állomáshoz január 20-áig.
 

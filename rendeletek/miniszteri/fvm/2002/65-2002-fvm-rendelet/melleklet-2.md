@@ -32,7 +32,7 @@
 
 ## 4. Az állomány hatóságilag elismert gümőkórmentes minősítését vissza kell vonni, ha a betegség jelenlétét a laboratóriumi vizsgálatok a Mycobacterium bovis kimutatásával megerősítették.
 
-## 5. A kerületi főállatorvos az állomány mentes minősítésének visszavonását kezdeményezheti, az állomás a mentes minősítést visszavonhatja, ha
+## 5.[^32] A járási főállatorvos az állomány mentes minősítésének visszavonását kezdeményezheti, az állomás a mentes minősítést visszavonhatja, ha
 
 ## a) a 2. pontban leírt feltételek nem teljesülnek, vagy
 
@@ -42,6 +42,9 @@
 
 ## d) bármi egyéb okból szükségesnek ítélik az állományban a szarvasmarha gümőkór ellenőrzését.
 
-## 6. A fertőzési forrás, a betegség kizárása vagy megállapítása érdekében az állomás irányítja a vizsgálatot, együttműködve az OÁI-val és az ÁNTSZ illetékes intézetével. A hatóságilag elismert gümőkórmentes minősítés mindaddig visszavonásra kerül, amíg a takarítást és fertőtlenítést nem végezték el és a valamennyi hat hétnél idősebb állat két egymást követő tuberkulin próbában nem adott negatív eredményt. Az első próbát a pozitív állat eltávolítását követően leghamarabb 60 nap, a másodikat leghamarabb 4 hónap, de legkésőbb 12 hónap elteltével kell végrehajtani.
+## 6.[^33] A fertőzési forrás, a betegség kizárása vagy megállapítása érdekében az állomás irányítja a vizsgálatot, együttműködve az OÁI-val és a járási népegészségügyi intézetével. A hatóságilag elismert gümőkórmentes minősítés mindaddig visszavonásra kerül, amíg a takarítást és fertőtlenítést nem végezték el és a valamennyi hat hétnél idősebb állat két egymást követő tuberkulin próbában nem adott negatív eredményt. Az első próbát a pozitív állat eltávolítását követően leghamarabb 60 nap, a másodikat leghamarabb 4 hónap, de legkésőbb 12 hónap elteltével kell végrehajtani.
 
 2. számú melléklet a 65/2002. (VIII. 9.) FVM rendelethez
+
+[^32]: Az 1. számú melléklet 5. pontja a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.
+[^33]: Az 1. számú melléklet 6. pontja a 151/2012. (XII. 29.) VM rendelet 12. § d) pontja szerint módosított szöveg.

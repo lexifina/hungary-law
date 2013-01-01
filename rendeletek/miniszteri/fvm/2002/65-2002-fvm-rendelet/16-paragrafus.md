@@ -4,12 +4,15 @@
 
 (2) Az elkülönített, beteg szarvasmarha gondozására az állat leöléséig az állat tartójának külön dolgozót kell beosztania, és részére védőöltözetről gondoskodnia. Az állatgondozó munkahelyének elhagyása előtt köteles védőöltözetét levetni, kezét fertőtleníteni.
 
-(3) A kerületi főállatorvos köteles az ÁNTSZ illetékes intézetét értesíteni, ha
+(3)[^24] A járási főállatorvos köteles a járási népegészségügyi intézetét értesíteni, ha
 
 a) a szarvasmarha, sertés vagy egyéb, az ember környezetében élő állatok gümőkóros megbetegedését, a betegség, illetőleg fertőzöttség gyanúját állapította meg élő állaton, vagy húsvizsgálat, illetve boncolás során, továbbá, ha ilyen állatok fertőzöttségéről a húsvizsgálatot végző állatorvos értesítéséből tudomást szerez;
 
 b) a szarvasmarhák fertőződése feltehetően az ott dolgozó, illetve az ott lakó személyek gümőkóros megbetegedésére vezethető vissza.
 
-(4) Ha a gümőkórt háziállatok gondozásával foglalkozó, háziállatokat tartó vagy rendszeresen, közvetlenül termelőtől tejet vagy tejterméket vásárló személyen állapították meg, erről az ÁNTSZ értesíti a kerületi főállatorvost.
+(4)[^25] Ha a gümőkórt háziállatok gondozásával foglalkozó, háziállatokat tartó vagy rendszeresen, közvetlenül termelőtől tejet vagy tejterméket vásárló személyen állapították meg, erről az ÁNTSZ értesíti a járási főállatorvost.
 
 (5) A gümőkóros, a betegségre vagy a fertőzöttségre gyanús állat tejét, levágott állat húsát az állomás előírása szerint a külön jogszabályban meghatározott élelmiszerhigiéniai előírások szerint kell kezelni.
+
+[^24]: A 16. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 12. § b) és d) pontja szerint módosított szöveg.
+[^25]: A 16. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.
