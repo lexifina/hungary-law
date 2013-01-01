@@ -1,3 +1,3 @@
-## 14–15. §[^10]
+## 15. § A Harmvhr. 55. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 14–15. § a 38. § (4) bekezdés e) pontja alapján 2013. január 1-jén lép hatályba.
+## „(3) A fellebbezést a Hivatal huszonegy napon belül bírálja el.”

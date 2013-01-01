@@ -1,3 +1,3 @@
-## 17–18. §[^12]
+## 18. § A Harmvhr. 97/A. §-a a következő (6) bekezdéssel egészül ki:
 
-[^12]: A 17–18. § a 38. § (4) bekezdés f) pontja alapján 2013. január 1-jén lép hatályba.
+## „(6) Az e § szerinti szakhatóság eljárásának időtartama az ügyintézési határidőbe beleszámít.”
