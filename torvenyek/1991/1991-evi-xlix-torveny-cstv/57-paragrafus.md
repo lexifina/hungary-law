@@ -30,7 +30,15 @@ hf) az adós ingyenes szerződései alapján kedvezményezett szervezet (személ
 
 (2) A felszámolási költségek a következők:
 
-a) az adóst terhelő munkabér és egyéb bérjellegű juttatások – ideértve a munkaviszony megszűnésekor járó végkielégítést, valamint a kollektív szerződésben, illetve a munkaszerződésben meghatározott juttatásokat is –, továbbá ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámolás kezdő időpontja után fizették ki, az ezeket terhelő adó-, járulék- és egyéb közteherfizetési kötelezettség is (ideértve a magánnyugdíj-pénztári tagdíjat is);
+a) az adóst terhelő munkabér és egyéb bérjellegű juttatások, ideértve
+
+aa) a munkaviszony megszűnésekor járó végkielégítést, valamint a kollektív szerződésben, illetve a munkaszerződésben meghatározott juttatásokat,
+
+ab) az adós által a kölcsönbeadóval kötött munkaerő-kölcsönzési szerződésben foglalt, az adóst, mint kölcsönvevőt terhelő díjból az adóshoz kölcsönzött munkavállalók részére járó, a kölcsönbeadó által fizetendő munkabért és egyéb bérjellegű juttatásokat, és
+
+ac) az adós által az iskolaszövetkezettel megkötött szerződésben foglalt, az adóst, mint az iskolaszövetkezet szolgáltatását igénybevevőjét terhelő díj 85 %-át – amely az iskolaszövetkezetnek járó díjból az iskolaszövetkezeti tag munkavállalók részére járó munkabér, egyéb bérjellegű juttatás összegét foglalja magában –, továbbá
+
+ad) ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámoló a felszámolás kezdő időpontja után fizette ki, az ezeket terhelő adó- és járulékfizetési kötelezettséget is (ideértve az egészségügyi hozzájárulást);
 
 b) a felszámolás kezdő időpontja után az adós gazdasági tevékenységének ésszerű befejezésével, továbbá vagyonának megőrzésével kapcsolatos költségek, ideértve a környezeti károsodások és terhek rendezésének, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításának, valamint a termőföldvédelmi követelmények betartásának a költségeit is, továbbá a 27/A. § (13) bekezdése szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat, valamint az adósnak azokat a tartozásait, adó-, járulék- és egyéb közteherfizetési, kártérítési, kártalanítási kötelezettségeit, amelyek a felszámolási eljárás kezdő időpontja utáni gazdasági tevékenységből keletkeztek, kivéve a nyereségből fizetendő adókat;
 
