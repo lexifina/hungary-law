@@ -1,12 +1,12 @@
-## A temetkezési szolgáltatás engedélyezése[^62]
+## A temetkezési szolgáltatás engedélyezése[^66]
 
-59. §[^63] (1) A Kormány temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
+59. §[^67] (1) A Kormány temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
 
 a) a temetkezési szolgáltatás tekintetében a temetkezési szolgáltató székhelye,
 
-b) a temető fenntartásával és üzemeltetésével összefüggő feladatok ellenőrzése tekintetében a temető fekvése
+b)[^68] a temető fenntartásával és üzemeltetésével összefüggő feladatok ellenőrzése tekintetében a temető fekvése
 
-szerint illetékes körzetközponti feladatokat ellátó települési önkormányzat jegyzőjét jelöli ki.
+szerint fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal) jelöli ki.
 
 (2) A 23–29. §, a 32–34. §, a 42–46. §, az 50. §, az 56–58. § rendelkezéseit a határon átnyúló szolgáltatásnyújtás keretében folytatott temetkezési szolgáltatási tevékenységre is alkalmazni kell.
 
@@ -42,7 +42,9 @@ d) az ivóvízellátás, a szennyvízgyűjtés módját és a szennyvíz-elhelye
 
 (6) A szennyvízgyűjtés és -elhelyezés módját a kérelemben akkor is meg kell jelölni, ha a telephelyen halottszállító jármű fertőtlenítésénél szennyvíz nem keletkezik.
 
-(7) Ha a kérelmező a (4) bekezdés a) vagy b) pontjában meghatározott okiratot nem csatolja, a jegyző a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(7)[^69] Ha a kérelmező a (4) bekezdés a) vagy b) pontjában meghatározott okiratot nem csatolja, a járási hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-[^62]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
-[^63]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^66]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
+[^67]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^68]: Az 59. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^69]: Az 59. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
