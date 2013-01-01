@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja a megye egyik legjelentősebb lelőhelyeként ismert, védett természeti területként is nyilvántartott Tiszaalpár, Várdomb és Templomdomb területén található bronzkori és Árpád-kori földvár, középkori templom és temető, valamint a várhoz kapcsolódó őskori telep védelme, a föld felszíne alatti régészeti emlékek megőrzése.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez.
+(3)[^3]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (5) Régészeti védőövezetté nyilvánítom a 100, 101, 168, 169, 170, 171/1, 171/2, 171/3, 172/1, 172/2, 175, 176, 177, 178, 179, 1332, 1333 hrsz. alatt nyilvántartott, kivett művelési ágú ingatlanokat.
+
+[^3]: A 3. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 9. § c) pontja hatályon kívül helyezte.

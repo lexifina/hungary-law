@@ -2,8 +2,10 @@
 
 (2) A régészeti védelem indoka az (1) bekezdésben megjelölt területen található, a térségben jelenleg egyedülálló középkori mezőváros maradványainak védelme, a 0266/17, 0266/20, 076, 0266/19 hrsz. alatti ingatlan esetében a föld felszíne alatti régészeti emlékek megőrzése, a 0266/18 hrsz. alatti ingatlan esetében a kutathatóság biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a Kulturális Örökségvédelmi Hivatal eljárására vonatkozó szabályokról szóló 16/2001. (X. 18.) NKÖM rendelet [a továbbiakban: 16/2001. (X. 18.) NKÖM rendelet] 1. számú mellékletében felsorolt tevékenységekhez. A gépi talajlazítás és mélyszántás a lelőhely súlyos állapotromlását eredményezheti.
+(3)[^1]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (5) Az (1) bekezdésben megjelölt ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^1]: Az 1. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 9. § a) pontja hatályon kívül helyezte.
