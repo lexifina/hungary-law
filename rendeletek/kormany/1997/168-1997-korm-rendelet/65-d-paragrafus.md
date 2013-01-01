@@ -1,3 +1,7 @@
-65/D. §[^112]
+## Az igény érvényesítése
 
-[^112]: A 65/D. §-t a 229/2000. (XII. 23.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés c) pontja.
+65/D. §[^122] (1) A nyugellátás iránti igény bejelentésére szolgáló adatlapokat és elektronikus űrlapokat az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) rendszeresíti, azokat a nyugdíjbiztosítási igazgatási szervek honlapján és a kormányzati portálon közzé kell tenni.
+
+(2) A nyugdíj iránti igény bejelentésére szolgáló adatlapok és elektronikus űrlapok adattartalmát a 4. számú melléklet határozza meg.
+
+[^122]: A 65/D. §-t újonnan a 425/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.

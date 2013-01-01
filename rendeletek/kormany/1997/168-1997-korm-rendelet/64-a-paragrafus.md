@@ -1,3 +1,3 @@
-64/A. §[^98] Ha az árvaellátásra jogosultság megszűnik, de a Tny. 55. §-ában meghatározott jogosultsági feltételek ismét bekövetkeznek, az árvaellátást a megszüntetést követő emelésekkel, kiegészítésekkel növelt összegben kell újból megállapítani.
+64/A. §[^108] Ha az árvaellátásra jogosultság megszűnik, de a Tny. 55. §-ában meghatározott jogosultsági feltételek ismét bekövetkeznek, az árvaellátást a megszüntetést követő emelésekkel, kiegészítésekkel növelt összegben kell újból megállapítani.
 
-[^98]: A 64/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 18. §-a iktatta a szövegbe.
+[^108]: A 64/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 18. §-a iktatta a szövegbe.

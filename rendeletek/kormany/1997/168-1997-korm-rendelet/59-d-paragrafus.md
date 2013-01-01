@@ -1,4 +1,4 @@
-59/D. §[^68] (1) A Tny. 44/D. §-a szerinti esetben a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeget a nyugdíjszámítás alapjául szolgáló átlagkereset és a 3. számú melléklet szerinti szorzószámok szorzataként kell megállapítani.
+59/D. §[^78] (1) A Tny. 44/D. §-a szerinti esetben a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeget a nyugdíjszámítás alapjául szolgáló átlagkereset és a 3. számú melléklet szerinti szorzószámok szorzataként kell megállapítani.
 
 (2) A hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg (1) bekezdésben foglaltak szerint történő megállapítása során a Tny. 39. §-ában foglaltakat alkalmazni kell.
 
@@ -10,4 +10,4 @@ b) a Tny. 46. § (2) bekezdésében foglaltak miatt nem éri el a tíz évet, a 
 
 az (1) bekezdésben foglaltak szerint kell megállapítani a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeget.
 
-[^68]: Az 59/D. §-t a 333/2011. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^78]: Az 59/D. §-t a 333/2011. (XII. 29.) Korm. rendelet 23. §-a iktatta be.

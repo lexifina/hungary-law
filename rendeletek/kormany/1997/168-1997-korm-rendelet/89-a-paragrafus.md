@@ -1,3 +1,3 @@
-89/A. §[^269]
+89/A. §[^285] Az ügyfél kérelmére a nyugdíjbiztosítási igazgatási szerv a szolgálati időről, jogosultsági időről szóló hatósági bizonyítvány kiállítása során tájékoztatást ad a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek vagy szociális biztonsági (szociálpolitikai) egyezmény hatálya alá tartozó, külföldön szerzett szolgálati időről.
 
-[^269]: A 89/A. §-t a 269/2001. (XII. 21.) Korm. rendelet 23. §-a iktatta be, hatályon kívül helyezte a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja, újonnan a 333/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be. Újból hatályon kívül helyezte a 219/2012. (VIII. 13.) Korm. rendelet 8. § a) pontja.
+[^285]: A 89/A. §-t újonnan a 425/2012. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
