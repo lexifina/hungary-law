@@ -1,1 +1,3 @@
-82. §
+82. § A Gfbt. „Átmeneti rendelkezések” alcíme a következő 62. §-sal egészül ki:
+
+„62. § Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 5. § (1) bekezdését a 2013. január 1-jét követően tett ajánlatokra vagy megkötött szerződésekre kell alkalmazni.”
