@@ -10,7 +10,7 @@
 
 4. A Nemzeti Fejlesztési Terv operatív programjai [1260/99/EK tanácsi rendelet 9. cikk f) pontja szerint]
 
-5. Országos, területi, megyei, helyi hulladékgazdálkodási terv, kistérségek közös helyi hulladékgazdálkodási terve (2000. évi XLIII. tv. 33–38. §)
+5.[^11] Országos, területi hulladékgazdálkodási terv (2012. évi CLXXXV. tv. 73–77. §)
 
 6. Agrárpolitika középtávú terve (1997. évi CXIV. tv. 2. §)
 
@@ -19,3 +19,5 @@
 8. Vízgyűjtő gazdálkodási terv [1995. évi LIII. tv. 18. § (7) bekezdés]
 
 9. Országos, helyi közúthálózat fejlesztési terv [30/1988. (IV. 21.) MT rend. 5. §]
+
+[^11]: Az 1. számú melléklet 5. pontja a 441/2012. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
