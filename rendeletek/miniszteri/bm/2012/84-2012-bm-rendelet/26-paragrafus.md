@@ -1,0 +1,1 @@
+## 25. § Tűzmegelőzési és tűzoltási tevékenységet csak a jogszabályban meghatározott szakmai képesítéssel rendelkező, a feladat ellátására egészségi és fizikai állapotánál fogva alkalmas országgyűlési őr végezhet.
