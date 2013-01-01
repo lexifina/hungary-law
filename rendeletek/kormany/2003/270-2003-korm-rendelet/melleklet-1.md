@@ -1,6 +1,6 @@
 ## 8. § Ez a rendelet 2004. január 1-jén lép hatályba.
 
-1. számú melléklet a 270/2003. (XII. 24.) Korm. rendelethez[^11]
+1. számú melléklet a 270/2003. (XII. 24.) Korm. rendelethez[^12]
 
 ## A levegőterhelési díj díjkedvezmény (díjvisszaigénylés) igénybevétele iránti kérelem tartalmi elemei
 
@@ -42,4 +42,4 @@ Pénzforgalmi számlaszám:
 
 A díjkedvezmény összege összesen (Ft):
 
-[^11]: Az 1. számú melléklet a 363/2004. (XII. 26.) Korm. rendelet 5. §-ával megállapított, a 314/2009. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^12]: Az 1. számú melléklet a 363/2004. (XII. 26.) Korm. rendelet 5. §-ával megállapított, a 314/2009. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.
