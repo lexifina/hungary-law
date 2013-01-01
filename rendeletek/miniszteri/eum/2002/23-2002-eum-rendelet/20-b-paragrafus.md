@@ -20,10 +20,13 @@ fb) a vizsgálatot az fa) pont szerinti megbízó tervezi és folytatja,
 
 fc) a vizsgálatból származó adatok az fa) pont szerinti megbízó tulajdonába kerülnek,
 
-fd) a vizsgálat eredményeit az fa) pont szerinti megbízó közli.
+fd) a vizsgálat eredményeit az fa) pont szerinti megbízó közli;
 
-g)–h)[^34]
+g)[^34] koordináló vizsgálatvezető: többközpontú vizsgálat esetén a vizsgálat egészéért felelős vezető.
+
+h)[^35]
 
 [^32]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^33]: A 20/B. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^34]: A 20/B. § g)–h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
+[^34]: A 20/B. § g) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan az 52/2012. (XII. 27.) EMMI rendelet 1. §-a iktatta be.
+[^35]: A 20/B. § h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
