@@ -1,7 +1,8 @@
 4. § (1) Ez a rendelet a kihirdetést követő 3. napon lép hatályba.
 
-(2) A 2. § (1) bekezdésben meghatározott vegyi eszköz mennyiségére vonatkozó tárgyévi igényét 2012-ben az ellátó szerv részére 2012. május 1-ig küldi meg az igénylő szerv.
+(2)[^3]
 
-(3)[^1]
+(3)[^4]
 
-[^1]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § (2) bekezdését a 86/2012. (XII. 28.) BM rendelet 14. § b) pont bb) alpontja hatályon kívül helyezte.
+[^4]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
