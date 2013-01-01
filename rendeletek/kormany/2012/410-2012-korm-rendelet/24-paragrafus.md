@@ -1,0 +1,21 @@
+24. § (1) Ez a rendelet
+
+a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek,
+
+b) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projekt-mechanizmusára tekintettel történő módosításáról szóló, 2004. október 27-i 2004/101/EK európai parlamenti és tanácsi irányelvnek,
+
+c) a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének a légi közlekedésre történő kiterjesztése céljából történő módosításáról szóló, 2008. november 19-i 2008/101/EK európai parlamenti és tanácsi irányelvnek,
+
+d) a 2003/87/EK irányelvnek az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének továbbfejlesztése és kiterjesztése tekintetében történő módosításáról szóló, 2009. április 23-i 2009/29/EK európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(2) Ez a rendelet
+
+a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló, 2010. november 12-i 1031/2010/EU bizottsági rendelet,
+
+b) a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti, az uniós kibocsátáskereskedelmi rendszer 2013. január 1-jén kezdődő kereskedési időszakát és azt követő kereskedési időszakait szolgáló uniós kibocsátásiegység- forgalmi jegyzék létrehozásáról, valamint a 2216/2004/EK és a 920/2010/EU bizottsági rendelet módosításáról szóló, 2011. november 18-i 1193/2011/EU bizottsági rendelet,
+
+c) az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet,
+
+d) a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozat
