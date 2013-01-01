@@ -1,0 +1,1 @@
+5. § A 2013. június 30-ig hatályban volt 1978. évi IV. törvény 3. és 4. §-a szerinti magyar büntető joghatóság alá tartozó ügyekben az eljárást a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) szerint kell lefolytatni.

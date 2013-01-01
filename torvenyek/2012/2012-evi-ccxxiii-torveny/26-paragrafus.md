@@ -1,0 +1,1 @@
+26. § Felülvizsgálatnak a bíróság jogerős ügydöntő határozata ellen a Be. 416. § (1) bekezdés b) pontja alapján akkor is helye van, ha a büntetés végrehajtását az 1978. évi IV. törvény 91. § (1) bekezdésében foglalt kizáró ok ellenére függesztették fel.

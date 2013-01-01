@@ -1,0 +1,3 @@
+## „(2) Ha a magatartási szabályok súlyos megszegése miatt a feltételes szabadság megszüntetésének lehet helye, az ügyész az elítélt tartózkodási helye szerint illetékes büntetés-végrehajtási bírónak indítványt tesz. Ha az elítélt – az elfogása előtt – a hatóság elől elrejtőzött vagy elrejtőzésétől, illetve attól, hogy szabadságvesztéssel büntetendő újabb bűncselekményt követne el, alaposan tartani kell, az ügyész, az indítvány benyújtása után pedig a büntetés-végrehajtási bíró elrendelheti a szabadságvesztés ideiglenes foganatba vételét. A szabadságvesztés ideiglenes foganatba vételére a Be. előzetes letartóztatás tartamára vonatkozó rendelkezései az irányadók.”
+
+48. § A Bv. tvr. 10. §-a és az azt megelőző alcím helyébe a következő alcím és rendelkezés lép:

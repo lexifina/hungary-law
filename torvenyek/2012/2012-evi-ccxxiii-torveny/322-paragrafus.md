@@ -1,0 +1,9 @@
+322. § E törvény 67. § (7) bekezdése és 68. §-a a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 24. cikkének, 77., 105., 163., 174., 283. és 288. §-a az irányelv 25. cikkének való megfelelést szolgálja.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke

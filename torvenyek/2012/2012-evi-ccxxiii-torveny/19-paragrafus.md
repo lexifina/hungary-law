@@ -1,0 +1,3 @@
+19. § (1) A Be. 221/A. § (1) bekezdése szerinti közvetítői eljárás az 1978. évi IV. törvény szerinti személy elleni (1978. évi IV. törvény XII. fejezet I. és III. cím), közlekedési (1978. évi IV. törvény XIII. fejezet), vagyon elleni (1978. évi IV. törvény XVIII. fejezet), ötévi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény miatt indult büntetőeljárás tartama alatt, a gyanúsított vagy a sértett indítványára, illetve önkéntes hozzájárulásukkal alkalmazható eljárás is.
+
+(2) A Be. 221/A. § (3) bekezdés a) pontja alapján jár el az ügyész akkor is, ha az 1978. évi IV. törvény 36. §-a alapján lehet helye az eljárás megszüntetésének vagy a büntetés korlátlan enyhítésének.
