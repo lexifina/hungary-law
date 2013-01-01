@@ -2,7 +2,7 @@
 
 a) a hatáskörükben érintett miniszterek által delegált, kiemelkedő elméleti és gyakorlati ismeretekkel rendelkező tagokból,
 
-b) a kulturális örökségvédelmi, valamint a természetvédelmi feladatokat ellátó központi hivatalok vezetőjéből,
+b) a kulturális, valamint a természetvédelmi feladatokat ellátó központi hivatalok vezetőjéből,
 
 c) a világörökségi gondnokságok 1-1 képviselőjéből,
 
