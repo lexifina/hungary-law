@@ -1,1 +1,3 @@
-## 62. § Hatályát veszti a személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet 26. § (2) bekezdés b) pontjában és 37. §-ában az „illetőleg” szövegrész.
+## 62. §[^17]
+
+[^17]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

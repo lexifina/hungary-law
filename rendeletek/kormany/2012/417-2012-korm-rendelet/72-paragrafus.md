@@ -1,4 +1,4 @@
-## 71. §[^30]
+## 71. §[^26]
 
 ## 11. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 64. § 2013. április 1-jén lép hatályba.
 
-[^30]: A 71. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
+[^26]: A 71. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
