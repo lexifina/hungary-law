@@ -1,0 +1,1 @@
+A Kormány a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (1) bekezdés d) pontjában, valamint az 5. § (3) bekezdése tekintetében a szövetkezetekről szóló 2006. évi X. törvény 107. § (3) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
