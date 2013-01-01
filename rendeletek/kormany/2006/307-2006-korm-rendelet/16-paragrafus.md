@@ -1,4 +1,4 @@
-16. §[^63] (1) A Hivatal a felsőoktatási intézmények nyilvántartását vezető szervként nyilvántartásba veszi
+16. §[^65] (1) A Hivatal a felsőoktatási intézmények nyilvántartását vezető szervként nyilvántartásba veszi
 
 a) a felsőoktatási intézményeket,
 
@@ -36,4 +36,4 @@ l) a felsőoktatási intézmény kollégiumait, valamint a szakkollégiumokat,
 
 m) a felsőoktatási információs rendszer intézménytörzsében nyilvántartandó, külön jogszabályban nevesített adatokat.
 
-[^63]: A 16. § a 248/2012. (VIII. 31.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^65]: A 16. § a 248/2012. (VIII. 31.) Korm. rendelet 23. §-ával megállapított szöveg.

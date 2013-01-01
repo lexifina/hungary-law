@@ -1,4 +1,4 @@
-## 8. §[^37] A Hivatal
+## 8. §[^39] A Hivatal
 
 a) ellátja a közoktatási szakértői tevékenységre vonatkozó bejelentéssel kapcsolatos feladatokat [Kt. 101. § (2)];
 
@@ -10,4 +10,4 @@ d) dönt a közoktatási szakértői tevékenység folytatásától, illetve a v
 
 e) a közoktatási intézmény vagy a fenntartó megkeresésére – az Országos szakértői névjegyzékből – egyidejűleg több tanügyigazgatási szakértő személyére tesz javaslatot, aki az érintett intézménnyel, illetve fenntartóval nem áll, illetve nem állt foglalkoztatásra irányuló jogviszonyban.
 
-[^37]: A 8. § a 4/2010. (I. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^39]: A 8. § a 4/2010. (I. 14.) Korm. rendelet 5. §-ával megállapított szöveg.

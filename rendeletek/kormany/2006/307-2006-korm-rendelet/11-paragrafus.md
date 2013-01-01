@@ -1,15 +1,15 @@
-## 10. §[^40]
+## 10. §[^42]
 
-## 11. §[^41] A Hivatal
+## 11. §[^43] A Hivatal
 
-a)[^42]
+a)[^44]
 
-b)[^43] ellátja a miniszter felelősségébe tartozó szakképesítések tekintetében az Országos szakmai vizsgaelnöki névjegyzékkel kapcsolatos feladatokat;
+b)[^45] ellátja a miniszter felelősségébe tartozó szakképesítések tekintetében az Országos szakmai vizsgaelnöki névjegyzékkel kapcsolatos feladatokat;
 
-c)–f)[^44]
+c)–f)[^46]
 
-[^40]: A 10. §-t a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés e) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
-[^41]: A 11. § bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^42]: A 11. § a) pontját a 351/2010. (XII. 30.) Korm. rendelet 166. §-a hatályon kívül helyezte.
-[^43]: A 11. § b) pontja a 4/2010. (I. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^44]: A 11. § c)–f) pontját a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés f) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^42]: A 10. §-t a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés e) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^43]: A 11. § bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^44]: A 11. § a) pontját a 351/2010. (XII. 30.) Korm. rendelet 166. §-a hatályon kívül helyezte.
+[^45]: A 11. § b) pontja a 4/2010. (I. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^46]: A 11. § c)–f) pontját a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés f) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.

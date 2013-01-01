@@ -1,6 +1,6 @@
 ## A Hivatal felsőoktatási regisztrációval kapcsolatos feladatai
 
-15. § (1)[^62] A Hivatal a felsőoktatási intézmények nyilvántartását vezető szervként közigazgatási hatósági eljárás keretében
+15. § (1)[^64] A Hivatal a felsőoktatási intézmények nyilvántartását vezető szervként közigazgatási hatósági eljárás keretében
 
 a) első fokon eljár
 
@@ -32,4 +32,4 @@ d) közreműködik a nem állami, valamint a külföldi felsőoktatási intézm�
 
 (2) A Hivatal hatáskörébe tartozó jogok, illetve kötelezettségek a központ hatósági határozatának jogerőre emelkedését követően alkalmazhatók.
 
-[^62]: A 15. § (1) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^64]: A 15. § (1) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.

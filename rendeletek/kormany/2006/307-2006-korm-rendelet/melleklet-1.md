@@ -1,3 +1,3 @@
-1. számú melléklet a 307/2006. (XII. 23.) Korm. rendelethez[^98]
+1. számú melléklet a 307/2006. (XII. 23.) Korm. rendelethez[^100]
 
-[^98]: Az 1. számú mellékletet a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés j) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^100]: Az 1. számú mellékletet a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés j) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
