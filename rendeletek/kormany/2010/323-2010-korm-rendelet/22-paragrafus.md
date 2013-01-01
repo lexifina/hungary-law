@@ -12,13 +12,13 @@ b) 140/E. § (5) bekezdésének b) pontja szerinti feladatok ellátása során e
 
 (4) Egészségügyi államigazgatási szervként a Kormány az Eüak.
 
-a) 15. § (1)–(2) és (7) bekezdésének alkalmazásában az érintett lakóhelye, tartózkodási helye, illetve munkahelye szerint illetékes kistérségi népegészségügyi intézetet,
+a)[^69] 15. § (1)–(2) és (7) bekezdésének alkalmazásában az érintett lakóhelye, tartózkodási helye, illetve munkahelye szerint illetékes járási népegészségügyi intézetet,
 
-b) 30. § (4) bekezdés b) pontjának alkalmazásában a megszűnő egészségügyi intézmény székhelye szerint területileg illetékes kistérségi népegészségügyi intézetet
+b)[^70]
 
 ## jelöli ki.
 
-(5) Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint kistérségi intézetet jelöli ki a Kbtv.
+(5)[^71] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási népegészségügyi intézetet jelöli ki a Kbtv.
 
 a) 29. § (1) bekezdésének,
 
@@ -31,3 +31,7 @@ b) 32. § (1) bekezdés a) pontjának
 (7) Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (2) bekezdése szerinti feladatokat – a külön jogszabályban foglaltak szerint – a tisztifőgyógyszerész és tisztigyógyszerészek látják el.
 
 (8) A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter külön jogszabály szerint, a Szolgálat és a megyei népegészségügyi szakigazgatási szerv útján látja el.
+
+[^69]: A 22. § (4) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^70]: A 22. § (4) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 62. §-a hatályon kívül helyezte.
+[^71]: A 22. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés e) pontja szerint módosított szöveg.

@@ -4,13 +4,18 @@
 
 (3) A fővárosi kormányhivatalban működő népegészségügyi szakigazgatási szerv feladatait Budapest és Pest megye területére kiterjedő illetékességgel látja el.
 
+(3a)[^7] A Pest Megyei Kormányhivatal járási népegészségügyi intézeteinek vezetői tekintetében a Fővárosi Kormányhivatalban működő népegészségügyi szakigazgatási szerv vezetője gyakorolja a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/F. §-a szerinti jogosultságokat azzal, hogy a kormánymegbízott jogait a Pest Megyei Kormányhivatalt vezető kormánymegbízott gyakorolja.
+
 (4) A megyei népegészségügyi szakigazgatási szerv kormányrendeletben meghatározottak szerint, valamint a 2. mellékletben meghatározott esetekben – figyelemmel az 5. § (1) bekezdésében és a 3. mellékletben foglaltakra is – egyes hatósági ügyekben különös illetékességgel jár el.
 
-(5)[^7] A megyei népegészségügyi szakigazgatási szervek önálló feladat- és hatáskörrel rendelkező, népegészségügyi feladatokat ellátó szervezeti egységeként kistérségi vagy fővárosi kerületi intézetek (a továbbiakban együtt: kistérségi népegészségügyi intézet) működnek. A kistérségi népegészségügyi intézet nevében a közigazgatási hatósági eljárásokban a kistérségi népegészségügyi intézet vezetője vagy kiadmányozási jogkörrel rendelkező ügyintézője jár el. A kistérségi népegészségügyi intézet vezetője a kistérségi, illetve fővárosi kerületi (a továbbiakban együtt: kistérségi) tisztifőorvos.
+(5)[^8] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalainak önálló feladat- és hatáskörrel rendelkező, népegészségügyi feladatokat ellátó szakigazgatási szerveiként járási (fővárosi kerületi) intézetek (a továbbiakban együtt: járási népegészségügyi intézet) működnek. A járási népegészségügyi intézet nevében a közigazgatási hatósági eljárásokban a járási népegészségügyi intézet vezetője vagy kiadmányozási jogkörrel rendelkező ügyintézője jár el. A járási népegészségügyi intézet vezetője a járási, illetve fővárosi kerületi (a továbbiakban együtt: járási) tisztifőorvos.
 
-(6) A megyei tisztifőorvos, vagy a népegészségügyi szakigazgatási szerv más kormánytisztviselője a kistérségi tisztifőorvost, illetve kistérségi népegészségügyi intézet vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét az első fokú közigazgatási hatósági eljárásban nem utasíthatja.
+(6)[^9] A megyei tisztifőorvos vagy a népegészségügyi szakigazgatási szerv más kormánytisztviselője a járási tisztifőorvost, illetve járási népegészségügyi intézet vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét az első fokú közigazgatási hatósági eljárásban nem utasíthatja.
 
-(7) A kistérségi népegészségügyi intézetek körét, székhelyét és illetékességi területét a 3. melléklet tartalmazza.
+(7)[^10] A járási népegészségügyi intézetek körét, székhelyét és illetékességi területét a 3. melléklet tartalmazza.
 
 [^6]: A 4. § (1) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (5) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § (3a) bekezdését a 414/2012. (XII. 29.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^8]: A 4. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (6) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
+[^10]: A 4. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés a) pontja szerint módosított szöveg.

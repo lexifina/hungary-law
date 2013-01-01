@@ -8,7 +8,7 @@ b) a külső határon lévő határvízen – az államhatár rendje fenntarthat
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését –, első fokú eljárásban az illetékes vízirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
-d)[^52] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdővíz használatának engedélyezése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
+d)[^72] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdővíz használatának engedélyezése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
 
 e) – a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget
 
@@ -22,13 +22,13 @@ b) a külső határon lévő határvízen – az államhatár rendje fenntarthat
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését –, első fokú eljárásban az illetékes vízirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
-d)[^53] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdőhely kijelölése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatók-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
+d)[^73] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdőhely kijelölése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatók-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
 
 e) – a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, valamint
 
 f) a vízi út 50 méteres körzetében és a kikötő, átkelőhely, hajózási létesítmény környezetében található kijelölendő fürdőhely esetén – a biztonságos hajózás feltételei érvényesíthetősége megállapításának kérdésében –, első fokú eljárásban a Nemzeti Közlekedési Hatóság Útügyi Vasúti és Hajózási Hivatalát, másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központját szakhatóságként jelöli ki. A fürdőhely kijelölésére irányuló eljárásban hozott határozatot a fürdőhely helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
 
-(3)[^54] A Kormány a fürdővízprofil megállapítására, felülvizsgálatára és frissítésére irányuló, valamint a vízminőség romlása esetén lefolytatott eljárásban – a szennyező anyagok kibocsátási határértékeinek megállapítása, a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapítása kérdésében –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+(3)[^74] A Kormány a fürdővízprofil megállapítására, felülvizsgálatára és frissítésére irányuló, valamint a vízminőség romlása esetén lefolytatott eljárásban – a szennyező anyagok kibocsátási határértékeinek megállapítása, a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapítása kérdésében –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
 (4) A Kormány a gyógyhellyé nyilvánítással kapcsolatos eljárásban,
 
@@ -68,9 +68,9 @@ d) az Eütv. 161. § (1) és (3) bekezdése szerinti kutatás esetében
 
 ## első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-(9)[^55] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
+(9)[^75] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-[^52]: A 23. § (1) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^53]: A 23. § (2) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^54]: A 23. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^55]: A 23. § (9) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^72]: A 23. § (1) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^73]: A 23. § (2) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^74]: A 23. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^75]: A 23. § (9) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.

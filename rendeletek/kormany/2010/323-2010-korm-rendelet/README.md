@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-323-20-
 | 2012-04-28 | 2010-323-20-22.12 | 325/2011. (XII. 28.) Korm. rendelet |
 | 2012-07-01 | 2010-323-20-22.13 | 137/2012. (VI. 29.) Korm. rendelet |
 | 2012-09-01 | 2010-323-20-22.14 | 137/2012. (VI. 29.) Korm. rendelet |
+| 2013-01-01 | 2010-323-20-22.15 | 174/2012. (VII. 26.) Korm. rendelet |

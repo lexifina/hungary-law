@@ -1,777 +1,763 @@
-## 1. A kistérségi népegészségügyi intézetek székhelye, illetékességi területe
+## 1. A járási (fővárosi kerületi) népegészségügyi intézetek székhelye, illetékességi területe
 
 |  | A | B |
 
-| 1. | BÁCS-KISKUN MEGYE |  |
+| 1. | BARANYA MEGYE |  |
 
-| 2. | Bajai, Bácsalmási Kistérségi Népegészségügyi Intézet |  |
+| 2. | Komlói Járási Népegészségügyi Intézet |  |
 
-| 3. | Székhely: | Baja |
+| 3. | Székhely: | Komló |
 
-| 4. | Illetékességi terület: | Bajai Kistérség |
+| 4. | Illetékességi terület: | Hegyháti Járás |
 
-| 5. |  | Bácsalmási Kistérség |
+| 5. |  | Komlói Járás |
 
-| 6. | Kalocsai, Kiskőrösi Kistérségi Népegészségügyi Intézet |  |
+| 6. |  | Pécsváradi Járás |
 
-| 7. | Székhely: | Kalocsa |
+| 7. | Mohácsi Járási Népegészségügyi Intézet |  |
 
-| 8. | Illetékességi terület: | Kalocsai Kistérség |
+| 8. | Székhely: | Mohács |
 
-| 9. |  | Kiskőrösi Kistérség |
+| 9. | Illetékességi terület: | Bólyi Járás |
 
-| 10. | Kecskeméti, Kunszentmiklósi Kistérségi Népegészségügyi Intézet |  |
+| 10. |  | Mohácsi Járás |
 
-| 11. | Székhely: | Kecskemét |
+| 11. | Pécsi Járási Népegészségügyi Intézet |  |
 
-| 12. | Illetékességi terület: | Kecskeméti Kistérség |
+| 12. | Székhely: | Pécs |
 
-| 13. |  | Kunszentmiklósi Kistérség |
+| 13. | Illetékességi terület: | Pécsi Járás |
 
-| 14. | Kiskunhalasi, Jánoshalmai, Kiskunfélegyházai, Kiskunmajsai Kistérségi Népegészségügyi Intézet |  |
+| 14. | Siklósi Járási Népegészségügyi Intézet |  |
 
-| 15. | Székhely: | Kiskunhalas |
+| 15. | Székhely: | Siklós |
 
-| 16. | Illetékességi terület: | Kiskunhalasi Kistérség |
+| 16. | Illetékességi terület: | Siklósi Járás |
 
-| 17. |  | Jánoshalmai Kistérség |
+| 17. |  | Sellyei Járás |
 
-| 18. |  | Kiskunfélegyházai Kistérség |
+| 18. | Szigetvári Járási Népegészségügyi Intézet |  |
 
-| 19. |  | Kiskunmajsai Kistérség |
+| 19. | Székhely: | Szigetvár |
 
-| 20. | BARANYA MEGYE |  |
+| 20. | Illetékességi terület: | Szigetvári Járás |
 
-| 21. | Komlói, Pécsváradi, Sásdi Kistérségi Népegészségügyi Intézet |  |
+| 21. |  | Szentlőrinci Járás |
 
-| 22. | Székhely: | Komló |
+| 22. | BÁCS-KISKUN MEGYE |  |
 
-| 23. | Illetékességi terület: | Komlói Kistérség |
+| 23. | Bajai Járási Népegészségügyi Intézet |  |
 
-| 24. |  | Pécsváradi Kistérség |
+| 24. | Székhely: | Baja |
 
-| 25. |  | Sásdi Kistérség |
+| 25. | Illetékességi terület: | Bajai Járás |
 
-| 26. | Mohácsi, Siklósi Kistérségi Népegészségügyi Intézet |  |
+| 26. |  | Bácsalmási Járás |
 
-| 27. | Székhely: | Mohács |
+| 27. | Kalocsai Járási Népegészségügyi Intézet |  |
 
-| 28. | Illetékességi terület: | Mohácsi Kistérség |
+| 28. | Székhely: | Kalocsa |
 
-| 29. |  | Siklósi Kistérség |
+| 29. | Illetékességi terület: | Kalocsai Járás |
 
-| 30. | Pécsi Kistérségi Népegészségügyi Intézet |  |
+| 30. |  | Kiskőrösi Járás |
 
-| 31. | Székhely: | Pécs |
+| 31. | Kecskeméti Járási Népegészségügyi Intézet |  |
 
-| 32. | Illetékességi terület: | Pécsi Kistérség |
+| 32. | Székhely: | Kecskemét |
 
-| 33. | Szigetvári, Sellyei, Szentlőrinci Kistérségi Népegészségügyi Intézet |  |
+| 33. | Illetékességi terület: | Kecskeméti Járás |
 
-| 34. | Székhely: | Szigetvár |
+| 34. |  | Kunszentmiklósi Járás |
 
-| 35. | Illetékességi terület: | Szigetvári Kistérség |
+| 35. |  | Tiszakécskei Járás |
 
-| 36. |  | Sellyei Kistérség |
+| 36. | Kiskunhalasi Járási Népegészségügyi Intézet |  |
 
-| 37. |  | Szentlőrinci Kistérség |
+| 37. | Székhely: | Kiskunhalas |
 
-| 38. | BÉKÉS MEGYE |  |
+| 38. | Illetékességi terület: | Kiskunhalasi Járás |
 
-| 39. | Békéscsabai, Békési, Szarvasi Kistérségi Népegészségügyi Intézet |  |
+| 39. |  | Jánoshalmai Járás |
 
-| 40. | Székhely: | Békéscsaba |
+| 40. |  | Kiskunfélegyházi Járás |
 
-| 41. | Illetékességi terület: | Békéscsabai Kistérség |
+| 41. |  | Kiskunmajsai Járás |
 
-| 42. |  | Békési Kistérség |
+| 42. | BÉKÉS MEGYE |  |
 
-| 43. |  | Szarvasi Kistérség |
+| 43. | Békéscsabai Járási Népegészségügyi Intézet |  |
 
-| 44. | Gyulai, Sarkadi, Szeghalomi Kistérségi Népegészségügyi Intézet |  |
+| 44. | Székhely: | Békéscsaba |
 
-| 45. | Székhely: | Gyula |
+| 45. | Illetékességi terület: | Békéscsabai Járás |
 
-| 46. | Illetékességi terület: | Gyulai Kistérség |
+| 46. |  | Békési Járás |
 
-| 47. |  | Sarkadi Kistérség |
+| 47. |  | Gyomaendrődi Járás |
 
-| 48. |  | Szeghalomi Kistérség |
+| 48. |  | Szarvasi Járás |
 
-| 49. | Orosházai, Mezőkovácsházai Kistérségi Népegészségügyi Intézet |  |
+| 49. | Gyulai Járási Népegészségügyi Intézet |  |
 
-| 50. | Székhely: | Orosháza |
+| 50. | Székhely: | Gyula |
 
-| 51. | Illetékességi terület: | Orosházai Kistérség |
+| 51. | Illetékességi terület: | Gyulai Járás |
 
-| 52. |  | Mezőkovácsházai Kistérség |
+| 52. |  | Sarkadi Járás |
 
-| 53. | BORSOD-ABAÚJ-ZEMPLÉN MEGYE |  |
+| 53. |  | Szeghalomi Járás |
 
-| 54. | Edelényi, Kazincbarcikai, Ózdi Kistérségi Népegészségügyi Intézet |  |
+| 54. | Orosházi Járási Népegészségügyi Intézet |  |
 
-| 55. | Székhely: | Edelény |
+| 55. | Székhely: | Orosháza |
 
-| 56. | Illetékességi terület: | Edelényi Kistérség |
+| 56. | Illetékességi terület: | Orosházi Járás |
 
-| 57. |  | Kazincbarcikai Kistérség |
+| 57. |  | Mezőkovácsházai Járás |
 
-| 58. |  | Ózdi Kistérség |
+| 58. | BORSOD-ABAÚJ-ZEMPLÉN MEGYE |  |
 
-| 59. | Encsi, Abaúj-Hegyközi, Szikszói Kistérségi Népegészségügyi Intézet |  |
+| 59. | Edelényi Járási Népegészségügyi Intézet |  |
 
-| 60. | Székhely: | Encs |
+| 60. | Székhely: | Edelény |
 
-| 61. | Illetékességi terület: | Encsi Kistérség |
+| 61. | Illetékességi terület: | Edelényi Járás |
 
-| 62. |  | Abaúj-Hegyközi Kistérség |
+| 62. |  | Kazincbarcikai Járás |
 
-| 63. |  | Szikszói Kistérség |
+| 63. |  | Ózdi Járás |
 
-| 64. | Miskolci Kistérségi Népegészségügyi Intézet |  |
+| 64. |  | Putnoki Járás |
 
-| 65. | Székhely: | Miskolc |
+| 65. | Encsi Járási Népegészségügyi Intézet |  |
 
-| 66. | Illetékességi terület: | Miskolci Kistérség |
+| 66. | Székhely: | Encs |
 
-| 67. | Tiszaújvárosi, Mezőcsáti, Mezőkövesdi Népegészségügyi Intézet |  |
+| 67. | Illetékességi terület: | Encsi Járás |
 
-| 68. | Székhely: | Tiszaújváros |
+| 68. |  | Gönci Járás |
 
-| 69. | Illetékességi terület: | Tiszaújvárosi Kistérség |
+| 69. |  | Szikszói Járás |
 
-| 70. |  | Mezőcsáti Kistérség |
+| 70. | Miskolci Járási Népegészségügyi Intézet |  |
 
-| 71. |  | Mezőkövesdi Kistérség |
+| 71. | Székhely: | Miskolc |
 
-| 72. | Szerencsi, Bodrogközi, Sárospataki, Sátoraljaújhelyi, Tokaji Kistérségi Népegészségügyi Intézet |  |
+| 72. | Illetékességi terület: | Miskolci Járás |
 
-| 73. | Székhely: | Szerencs |
+| 73. | Tiszaújvárosi Népegészségügyi Intézet |  |
 
-| 74. | Illetékességi terület: | Szerencsi Kistérség |
+| 74. | Székhely: | Tiszaújváros |
 
-| 75. |  | Bodrogközi Kistérség |
+| 75. | Illetékességi terület: | Tiszaújvárosi Járás |
 
-| 76. |  | Sárospataki Kistérség |
+| 76. |  | Mezőcsáti Járás |
 
-| 77. |  | Sátoraljaújhelyi Kistérség |
+| 77. |  | Mezőkövesdi Járás |
 
-| 78. |  | Tokaji Kistérség |
+| 78. | Szerencsi Járási Népegészségügyi Intézet |  |
 
-| 79. | BUDAPEST |  |
+| 79. | Székhely: | Szerencs |
 
-| 80. | Budapest I., II., III. Kerületi Népegészségügyi Intézet |  |
+| 80. | Illetékességi terület: | Cigándi Járás |
 
-| 81. | Székhely: | Budapest |
+| 81. |  | Szerencsi Járás |
 
-| 82. | Illetékességi terület: | I. Kerület |
+| 82. |  | Sárospataki Járás |
 
-| 83. |  | II. Kerület |
+| 83. |  | Sátoraljaújhelyi Járás |
 
-| 84. |  | III. Kerület |
+| 84. |  | Tokaji Járás |
 
-| 85. | Budapest IV., V., XIII. Kerületi Népegészségügyi Intézet |  |
+| 85. | BUDAPEST |  |
 
-| 86. | Székhely: | Budapest |
+| 86. | Budapest II. Kerületi Népegészségügyi Intézet |  |
 
-| 87. | Illetékességi terület: | IV. Kerület |
+| 87. | Székhely: | Budapest II. Kerület |
 
-| 88. |  | V. Kerület |
+| 88. | Illetékességi terület: | I. Kerület |
 
-| 89. |  | XIII. Kerület |
+| 89. |  | II. Kerület |
 
-| 90. | Budapest VI., VII., VIII., IX. Kerületi Népegészségügyi Intézet |  |
+| 90. |  | III. Kerület |
 
-| 91. | Székhely: | Budapest |
+| 91. | Budapest V. Kerületi Népegészségügyi Intézet |  |
 
-| 92. | Illetékességi terület: | VI. Kerület |
+| 92. | Székhely: | Budapest V. Kerület |
 
-| 93. |  | VII. Kerület |
+| 93. | Illetékességi terület: | IV. Kerület |
 
-| 94. |  | VIII. Kerület |
+| 94. |  | V. Kerület |
 
-| 95. |  | IX. Kerület |
+| 95. |  | XIII. Kerület |
 
-| 96. | Budapest X., XVII., XVIII. Kerületi Népegészségügyi Intézet |  |
+| 96. | Budapest VI. Kerületi Népegészségügyi Intézet |  |
 
-| 97. | Székhely: | Budapest |
+| 97. | Székhely: | Budapest VI. Kerület |
 
-| 98. | Illetékességi terület: | X. Kerület |
+| 98. | Illetékességi terület: | VI. Kerület |
 
-| 99. |  | XVII. Kerület |
+| 99. |  | VII. Kerület |
 
-| 100. |  | XVIII. Kerület |
+| 100. |  | VIII. Kerület |
 
-| 101. | Budapest XI., XII., XXII. Kerületi Népegészségügyi Intézet |  |
+| 101. |  | IX. Kerület |
 
-| 102. | Székhely: | Budapest |
+| 102. | Budapest X. Kerületi Népegészségügyi Intézet |  |
 
-| 103. | Illetékességi terület: | XI. Kerület |
+| 103. | Székhely: | Budapest X. Kerület |
 
-| 104. |  | XII. Kerület |
+| 104. | Illetékességi terület: | X. Kerület |
 
-| 105. |  | XXII. Kerület |
+| 105. |  | XVII. Kerület |
 
-| 106. | Budapest XIV., XV, XVI. Kerületi Népegészségügyi Intézet |  |
+| 106. |  | XVIII. Kerület |
 
-| 107. | Székhely: | Budapest |
+| 107. | Budapest XI. Kerületi Népegészségügyi Intézet |  |
 
-| 108. | Illetékességi terület: | XIV. Kerület |
+| 108. | Székhely: | Budapest XI. Kerület |
 
-| 109. |  | XV. Kerület |
+| 109. | Illetékességi terület: | XI. Kerület |
 
-| 110. |  | XVI. Kerület |
+| 110. |  | XII. Kerület |
 
-| 111. | Budapest XIX., XX., XXI., XXIII. Kerületi Népegészségügyi Intézet |  |
+| 111. |  | XXII. Kerület |
 
-| 112. | Székhely: | Budapest |
+| 112. | Budapest XIV. Kerületi Népegészségügyi Intézet |  |
 
-| 113. | Illetékességi terület: | XIX. Kerület |
+| 113. | Székhely: | Budapest XIV. Kerület |
 
-| 114. |  | XX. Kerület |
+| 114. | Illetékességi terület: | XIV. Kerület |
 
-| 115. |  | XXI. Kerület |
+| 115. |  | XV. Kerület |
 
-| 116. |  | XXIII. Kerület |
+| 116. |  | XVI. Kerület |
 
-| 117–126. |  |  |
+| 117. | Budapest XX. Kerületi Népegészségügyi Intézet |  |
 
-| 127. | CSONGRÁD MEGYE |  |
+| 118. | Székhely: | Budapest XX. Kerület |
 
-| 128. | Hódmezővásárhelyi, Makói Kistérségi Népegészségügyi Intézet |  |
+| 119. | Illetékességi terület: | XIX. Kerület |
 
-| 129. | Székhely: | Hódmezővásárhely |
+| 120. |  | XX. Kerület |
 
-| 130. | Illetékességi terület: | Hódmezővásárhelyi Kistérség |
+| 121. |  | XXI. Kerület |
 
-| 131. |  | Makói Kistérség |
+| 122. |  | XXIII. Kerület |
 
-| 132. | Szegedi, Kisteleki, Mórahalomi Kistérségi Népegészségügyi Intézet |  |
+| 123. | CSONGRÁD MEGYE |  |
 
-| 133. | Székhely: | Szeged |
+| 124. | Hódmezővásárhelyi Járási Népegészségügyi Intézet |  |
 
-| 134. | Illetékességi terület: | Szegedi Kistérség |
+| 125. | Székhely: | Hódmezővásárhely |
 
-| 135. |  | Kisteleki Kistérség |
+| 126. | Illetékességi terület: | Hódmezővásárhelyi Járás |
 
-| 136. |  | Mórahalomi Kistérség |
+| 127. |  | Makói Járás |
 
-| 137. | Szentesi, Csongrádi Kistérségi Népegészségügyi Intézet |  |
+| 128. | Szegedi Népegészségügyi Intézet |  |
 
-| 138. | Székhely: | Szentes |
+| 129. | Székhely: | Szeged |
 
-| 139. | Illetékességi terület: | Szentesi Kistérség |
+| 130. | Illetékességi terület: | Szegedi Járás |
 
-| 140. |  | Csongrádi Kistérség |
+| 131. |  | Kisteleki Járás |
 
-| 141. | FEJÉR MEGYE |  |
+| 132. |  | Mórahalomi Járás |
 
-| 142. | Dunaújvárosi, Adonyi, Ercsi, Sárbogárdi Kistérségi Népegészségügyi Intézet |  |
+| 133. | Szentesi Járási Népegészségügyi Intézet |  |
 
-| 143. | Székhely: | Dunaújváros |
+| 134. | Székhely: | Szentes |
 
-| 144. | Illetékességi terület: | Dunaújvárosi Kistérség |
+| 135. | Illetékességi terület: | Szentesi Járás |
 
-| 145. |  | Adonyi Kistérség |
+| 136. |  | Csongrádi Járás |
 
-| 146. |  | Ercsi Kistérség |
+| 137. | FEJÉR MEGYE |  |
 
-| 147. |  | Sárbogárdi Kistérség |
+| 138. | Dunaújvárosi Járási Népegészségügyi Intézet |  |
 
-| 148. | Móri, Bicskei Kistérségi Népegészségügyi Intézet |  |
+| 139. | Székhely: | Dunaújváros |
 
-| 149. | Székhely: | Mór |
+| 140. | Illetékességi terület: | Dunaújvárosi Járás |
 
-| 150. | Illetékességi terület: | Móri Kistérség |
+| 141. |  | Martonvásári Járás |
 
-| 151. |  | Bicskei Kistérség |
+| 142. |  | Sárbogárdi Járás |
 
-| 152. | Székesfehérvári, Abai, Enyingi, Gárdonyi Kistérségi Népegészségügyi Intézet |  |
+| 143. | Móri Járási Népegészségügyi Intézet |  |
 
-| 153. | Székhely: | Székesfehérvár |
+| 144. | Székhely: | Mór |
 
-| 154. | Illetékességi terület: | Székesfehérvári Kistérség |
+| 145. | Illetékességi terület: | Móri Járás |
 
-| 155. |  | Abai Kistérség |
+| 146. |  | Bicskei Járás |
 
-| 156. |  | Enyingi Kistérség |
+| 147. | Székesfehérvári Járási Népegészségügyi Intézet |  |
 
-| 157. |  | Gárdonyi Kistérség |
+| 148. | Székhely: | Székesfehérvár |
 
-| 158. | GYŐR-MOSON-SOPRON MEGYE |  |
+| 149. | Illetékességi terület: | Székesfehérvári Járás |
 
-| 159. | Csornai, Kapuvár-Beledi Kistérségi Népegészségügyi Intézet |  |
+| 150. |  | Enyingi Járás |
 
-| 160. | Székhely: | Csorna |
+| 151. |  | Gárdonyi Járás |
 
-| 161. | Illetékességi terület: | Csornai Kistérség |
+| 152. |  | Polgárdi Járás |
 
-| 162. |  | Kapuvár-Beledi Kistérség |
+| 153. | GYŐR-MOSON-SOPRON MEGYE |  |
 
-| 163. | Győri, Pannonhalmai, Téti Kistérségi Népegészségügyi Intézet |  |
+| 154. | Csornai Járási Népegészségügyi Intézet |  |
 
-| 164. | Székhely: | Győr |
+| 155. | Székhely: | Csorna |
 
-| 165. | Illetékességi terület: | Győri Kistérség |
+| 156. | Illetékességi terület: | Csornai Járás |
 
-| 166. |  | Pannonhalmai Kistérség |
+| 157. |  | Kapuvári Járás |
 
-| 167. |  | Téti Kistérség |
+| 158. | Győri Járási Népegészségügyi Intézet |  |
 
-| 168. | Mosonmagyaróvári Kistérségi Népegészségügyi Intézet |  |
+| 159. | Székhely: | Győr |
 
-| 169. | Székhely: | Mosonmagyaróvár |
+| 160. | Illetékességi terület: | Győri Járás |
 
-| 170. | Illetékességi terület: | Mosonmagyaróvári Kistérség |
+| 161. |  | Pannonhalmi Járás |
 
-| 171. | Sopron-Fertődi Kistérségi Népegészségügyi Intézet |  |
+| 162. |  | Téti Járás |
 
-| 172. | Székhely: | Sopron |
+| 163. | Mosonmagyaróvári Járási Népegészségügyi Intézet |  |
 
-| 173. | Illetékességi terület: | Sopron-Fertődi Kistérség |
+| 164. | Székhely: | Mosonmagyaróvár |
 
-| 174. | HAJDÚ-BIHAR MEGYE |  |
+| 165. | Illetékességi terület: | Mosonmagyaróvári Járás |
 
-| 175. | Balmazújvárosi, Derecske-Létavértesi, Hajdúhadházi Kistérségi Népegészségügyi Intézet |  |
+| 166. | Soproni Járási Népegészségügyi Intézet |  |
 
-| 176. | Székhely: | Debrecen |
+| 167. | Székhely: | Sopron |
 
-| 177. | Illetékességi terület: | Balmazújvárosi Kistérség |
+| 168. | Illetékességi terület: | Soproni Járás |
 
-| 178. |  | Derecske-Létavértesi Kistérség |
+| 169. | HAJDÚ-BIHAR MEGYE |  |
 
-| 179. |  | Hajdúhadházi Kistérség |
+| 170. | Balmazújvárosi Járási Népegészségügyi Intézet |  |
 
-| 180. |  | Mikepércs |
+| 171. | Székhely: | Balmazújváros |
 
-| 181. | Debreceni Kistérségi Népegészségügyi Intézet |  |
+| 172. | Illetékességi terület: | Balmazújvárosi Járás |
 
-| 182. | Székhely: | Debrecen |
+| 173. |  | Derecskei Járás |
 
-| 183. | Illetékességi terület: | Debreceni Kistérség, kivéve Mikepércs települést |
+| 174. |  | Hajdúhadházi Járás |
 
-| 184. | Hajdúböszörményi, Polgári Kistérségi Népegészségügyi Intézet |  |
+| 175. |  | Nyíradonyi Járás |
 
-| 185. | Székhely: | Hajdúböszörmény |
+| 176. | Debreceni Járási Népegészségügyi Intézet |  |
 
-| 186. | Illetékességi terület: | Hajdúböszörményi Kistérség |
+| 177. | Székhely: | Debrecen |
 
-| 187. |  | Polgári Kistérség |
+| 178. | Illetékességi terület: | Debreceni Járás |
 
-| 188. | Hajdúszoboszlói, Püspökladányi Kistérségi Népegészségügyi Intézet |  |
+| 179. | Hajdúböszörményi Járási Népegészségügyi Intézet |  |
 
-| 189. | Székhely: | Hajdúszoboszló |
+| 180. | Székhely: | Hajdúböszörmény |
 
-| 190. | Illetékességi terület: | Hajdúszoboszlói Kistérség |
+| 181. | Illetékességi terület: | Hajdúböszörményi Járás |
 
-| 191. |  | Püspökladányi Kistérség |
+| 182. |  | Hajdúnánási Járás |
 
-| 192. | Berettyóújfalui Kistérségi Népegészségügyi Intézet |  |
+| 183. | Hajdúszoboszlói Járási Népegészségügyi Intézet |  |
 
-| 193. | Székhely: | Berettyóújfalu |
+| 184. | Székhely: | Hajdúszoboszló |
 
-| 194. | Illetékességi terület: | Berettyóújfalui Kistérség |
+| 185. | Illetékességi terület: | Hajdúszoboszlói Járás |
 
-| 195. | HEVES MEGYE |  |
+| 186. |  | Püspökladányi Járás |
 
-| 196. | Egri, Bélapátfalvai, Pétervásárai Kistérségi Népegészségügyi Intézet |  |
+| 187. | Berettyóújfalui Járási Népegészségügyi Intézet |  |
 
-| 197. | Székhely: | Eger |
+| 188. | Székhely: | Berettyóújfalu |
 
-| 198. | Illetékességi terület: | Egri Kistérség |
+| 189. | Illetékességi terület: | Berettyóújfalui Járás |
 
-| 199. |  | Bélapátfalvai Kistérség |
+| 190. | HEVES MEGYE |  |
 
-| 200. |  | Pétervásárai Kistérség |
+| 191. | Egri Járási Népegészségügyi Intézet |  |
 
-| 201. | Füzesabonyi, Hevesi Kistérségi Népegészségügyi Intézet |  |
+| 192. | Székhely: | Eger |
 
-| 202. | Székhely: | Füzesabony |
+| 193. | Illetékességi terület: | Egri Járás |
 
-| 203. | Illetékességi terület: | Füzesabonyi Kistérség |
+| 194. |  | Bélapátfalvai Járás |
 
-| 204. |  | Hevesi Kistérség |
+| 195. |  | Pétervásárai Járás |
 
-| 205. | Hatvani, Gyöngyösi Kistérségi Népegészségügyi Intézet |  |
+| 196. | Füzesabonyi Járási Népegészségügyi Intézet |  |
 
-| 206. | Székhely: | Hatvan |
+| 197. | Székhely: | Füzesabony |
 
-| 207. | Illetékességi terület: | Hatvani Kistérség |
+| 198. | Illetékességi terület: | Füzesabonyi Járás |
 
-| 208. |  | Gyöngyösi Kistérség |
+| 199. |  | Hevesi Járás |
 
-| 209. | JÁSZ-NAGYKUN-SZOLNOK MEGYE |  |
+| 200. | Hatvani Járási Népegészségügyi Intézet |  |
 
-| 210. | Jászberényi Kistérségi Népegészségügyi Intézet |  |
+| 201. | Székhely: | Hatvan |
 
-| 211. | Székhely: | Jászberény |
+| 202. | Illetékességi terület: | Hatvani Járás |
 
-| 212. | Illetékességi terület: | Jászberényi Kistérség |
+| 203. |  | Gyöngyösi Járás |
 
-| 213. | Karcagi, Tiszafüredi Kistérségi Népegészségügyi Intézet |  |
+| 204. | JÁSZ-NAGYKUN-SZOLNOK MEGYE |  |
 
-| 214. | Székhely: | Karcag |
+| 205. | Jászberényi Járási Népegészségügyi Intézet |  |
 
-| 215. | Illetékességi terület: | Karcagi Kistérség |
+| 206. | Székhely: | Jászberény |
 
-| 216. |  | Tiszafüredi Kistérség |
+| 207. | Illetékességi terület: | Jászberényi Járás |
 
-| 217. | Mezőtúri, Kunszentmártoni Kistérségi Népegészségügyi Intézet |  |
+| 208. |  | Jászapáti Járás |
 
-| 218. | Székhely: | Mezőtúr |
+| 209. | Karcagi Járási Népegészségügyi Intézet |  |
 
-| 219. | Illetékességi terület: | Mezőtúri Kistérség |
+| 210. | Székhely: | Karcag |
 
-| 220. |  | Kunszentmártoni Kistérség |
+| 211. | Illetékességi terület: | Karcagi Járás |
 
-| 221. | Szolnoki, Törökszentmiklósi Kistérségi Népegészségügyi Intézet |  |
+| 212. |  | Kunhegyesi Járás |
 
-| 222. | Székhely: | Szolnok |
+| 213. |  | Tiszafüredi Járás |
 
-| 223. | Illetékességi terület: | Szolnoki Kistérség |
+| 214. | Mezőtúri Járási Népegészségügyi Intézet |  |
 
-| 224. |  | Törökszentmiklósi Kistérség |
+| 215. | Székhely: | Mezőtúr |
 
-| 225. | KOMÁROM-ESZTERGOM MEGYE |  |
+| 216. | Illetékességi terület: | Mezőtúri Járás |
 
-| 226. | Dorogi, Esztergomi Kistérségi Népegészségügyi Intézet |  |
+| 217. |  | Kunszentmártoni Járás |
 
-| 227. | Székhely: | Dorog |
+| 218. | Szolnoki Járási Népegészségügyi Intézet |  |
 
-| 228. | Illetékességi terület: | Dorogi Kistérség |
+| 219. | Székhely: | Szolnok |
 
-| 229. |  | Esztergomi Kistérség |
+| 220. | Illetékességi terület: | Szolnoki Járás |
 
-| 230. | Komáromi, Kisbéri Kistérségi Népegészségügyi Intézet |  |
+| 221. |  | Törökszentmiklósi Járás |
 
-| 231. | Székhely: | Komárom |
+| 222. | KOMÁROM-ESZTERGOM MEGYE |  |
 
-| 232. | Illetékességi terület: | Komáromi Kistérség |
+| 223. | Esztergomi Járási Népegészségügyi Intézet |  |
 
-| 233. |  | Kisbéri Kistérség |
+| 224. | Székhely: | Dorog |
 
-| 234. | Tatabányai, Tatai, Oroszlányi Kistérségi Népegészségügyi Intézet |  |
+| 225. | Illetékességi terület: | Esztergomi Járás |
 
-| 235. | Székhely: | Tatabánya |
+| 226. | Komáromi Járási Népegészségügyi Intézet |  |
 
-| 236. | Illetékességi terület: | Tatabányai Kistérség |
+| 227. | Székhely: | Komárom |
 
-| 237. |  | Tatai Kistérség |
+| 228. | Illetékességi terület: | Komáromi Járás |
 
-| 238. |  | Oroszlányi Kistérség |
+| 229. |  | Kisbéri Járás |
 
-| 239. | NÓGRÁD MEGYE |  |
+| 230. | Tatabányai Járási Népegészségügyi Intézet |  |
 
-| 240. | Balassagyarmati, Rétsági, Szécsényi Kistérségi Népegészségügyi Intézet |  |
+| 231. | Székhely: | Tatabánya |
 
-| 241. | Székhely: | Balassagyarmat |
+| 232. | Illetékességi terület: | Tatabányai Járás |
 
-| 242. | Illetékességi terület: | Balassagyarmati Kistérség |
+| 233. |  | Tatai Járás |
 
-| 243. |  | Rétsági Kistérség |
+| 234. |  | Oroszlányi Járás |
 
-| 244. |  | Szécsényi Kistérség |
+| 235. | NÓGRÁD MEGYE |  |
 
-| 245. | Salgótarjáni, Bátonyterenyei, Pásztói Kistérségi Népegészségügyi Intézet |  |
+| 236. | Balassagyarmati Járási Népegészségügyi Intézet |  |
 
-| 246. | Székhely: | Salgótarján |
+| 237. | Székhely: | Balassagyarmat |
 
-| 247. | Illetékességi terület: | Salgótarjáni Kistérség |
+| 238. | Illetékességi terület: | Balassagyarmati Járás |
 
-| 248. |  | Bátonyterenyei Kistérség |
+| 239. |  | Rétsági Járás |
 
-| 249. |  | Pásztói Kistérség |
+| 240. |  | Szécsényi Járás |
 
-| 250. | PEST MEGYE |  |
+| 241. | Salgótarjáni Járási Népegészségügyi Intézet |  |
 
-| 251. | Ceglédi Kistérségi Népegészségügyi Intézet |  |
+| 242. | Székhely: | Salgótarján |
 
-| 252. | Székhely: | Cegléd |
+| 243. | Illetékességi terület: | Salgótarjáni Járás |
 
-| 253. | Illetékességi terület: | Ceglédi Kistérség |
+| 244. |  | Bátonyterenyei Járás |
 
-| 254. | Dabasi, Gyáli Kistérségi Népegészségügyi Intézet |  |
+| 245. |  | Pásztói Járás |
 
-| 255. | Székhely: | Dabas |
+| 246. | PEST MEGYE |  |
 
-| 256. | Illetékességi terület: | Dabasi Kistérség |
+| 247. | Ceglédi Járási Népegészségügyi Intézet |  |
 
-| 257. |  | Gyáli Kistérség |
+| 248. | Székhely: | Cegléd |
 
-| 258. | Érdi, Budaörsi Kistérségi Népegészségügyi Intézet |  |
+| 249. | Illetékességi terület: | Ceglédi Járás |
 
-| 259. | Székhely: | Érd |
+| 250. |  | Nagykőrösi Járás |
 
-| 260. | Illetékességi terület: | Érdi Kistérség |
+| 251. | Dabasi Járási Népegészségügyi Intézet |  |
 
-| 261. |  | Budaörsi Kistérség |
+| 252. | Székhely: | Dabas |
 
-| 262. | Gödöllői, Aszódi, Veresegyházi Kistérségi Népegészségügyi Intézet |  |
+| 253. | Illetékességi terület: | Dabasi Járás |
 
-| 263. | Székhely: | Gödöllő |
+| 254. |  | Gyáli Járás |
 
-| 264. | Illetékességi terület: | Gödöllői Kistérség |
+| 255. | Érdi Járási Népegészségügyi Intézet |  |
 
-| 265. |  | Aszódi Kistérség |
+| 256. | Székhely: | Érd |
 
-| 266. |  | Veresegyházi Kistérség |
+| 257. | Illetékességi terület: | Érdi Járás |
 
-| 267. | Monori, Nagykátai Kistérségi Népegészségügyi Intézet |  |
+| 258. |  | Budakeszi Járás |
 
-| 268. | Székhely: | Monor |
+| 259. | Gödöllői Járási Népegészségügyi Intézet |  |
 
-| 269. | Illetékességi terület: | Monori Kistérség |
+| 260. | Székhely: | Gödöllő |
 
-| 270. |  | Nagykátai Kistérség |
+| 261. | Illetékességi terület: | Gödöllői Járás |
 
-| 271. | Ráckevei Kistérségi Népegészségügyi Intézet |  |
+| 262. |  | Aszódi Járás |
 
-| 272. | Székhely: | Ráckeve |
+| 263. | Monori Járási Népegészségügyi Intézet |  |
 
-| 273. | Illetékességi terület: | Ráckevei Kistérség |
+| 264. | Székhely: | Monor |
 
-| 274. | Szentendrei, Pilisvörösvári Kistérségi Népegészségügyi Intézet |  |
+| 265. | Illetékességi terület: | Monori Járás |
 
-| 275. | Székhely: | Szentendre |
+| 266. |  | Nagykátai Járás |
 
-| 276. | Illetékességi terület: | Szentendrei Kistérség |
+| 267. |  | Vecsési Járás |
 
-| 277. |  | Pilisvörösvári Kistérség |
+| 268. | Ráckevei Járási Népegészségügyi Intézet |  |
 
-| 278. | Váci, Szobi, Dunakeszi Kistérségi Népegészségügyi Intézet |  |
+| 269. | Székhely: | Ráckeve |
 
-| 279. | Székhely: | Vác |
+| 270. | Illetékességi terület: | Ráckevei Járás |
 
-| 280. | Illetékességi terület: | Váci Kistérség |
+| 271. |  | Szigetszentmiklósi Járás |
 
-| 281. |  | Szobi Kistérség |
+| 272. | Szentendrei Járási Népegészségügyi Intézet |  |
 
-| 282. |  | Dunakeszi Kistérség |
+| 273. | Székhely: | Szentendre |
 
-| 283. | SOMOGY MEGYE |  |
+| 274. | Illetékességi terület: | Szentendrei Járás |
 
-| 284. | Kaposvári, Kadarkúti Kistérségi Népegészségügyi Intézet |  |
+| 275. |  | Pilisvörösvári Járás |
 
-| 285. | Székhely: | Kaposvár |
+| 276. | Váci Járási Népegészségügyi Intézet |  |
 
-| 286. | Illetékességi terület: | Kaposvári Kistérség |
+| 277. | Székhely: | Vác |
 
-| 287. |  | Kadarkúti Kistérség |
+| 278. | Illetékességi terület: | Váci Járás |
 
-| 288. | Nagyatádi, Barcsi, Csurgói Kistérségi Népegészségügyi Intézet |  |
+| 279. |  | Szobi Járás |
 
-| 289. | Székhely: | Nagyatád |
+| 280. |  | Dunakeszi Járás |
 
-| 290. | Illetékességi terület: | Nagyatádi Kistérség |
+| 281. | SOMOGY MEGYE |  |
 
-| 291. |  | Barcsi Kistérség |
+| 282. | Kaposvári Járási Népegészségügyi Intézet |  |
 
-| 292. |  | Csurgói Kistérség |
+| 283. | Székhely: | Kaposvár |
 
-| 293. | Siófoki, Balatonföldvári, Tabi Kistérségi Népegészségügyi Intézet |  |
+| 284. | Illetékességi terület: | Kaposvári Járás |
 
-| 294. | Székhely: | Siófok |
+| 285. | Nagyatádi Járási Népegészségügyi Intézet |  |
 
-| 295. | Illetékességi terület: | Siófoki Kistérség |
+| 286. | Székhely: | Nagyatád |
 
-| 296. |  | Balatonföldvári Kistérség |
+| 287. | Illetékességi terület: | Nagyatádi Járás |
 
-| 297. |  | Tabi Kistérség |
+| 288. |  | Barcsi Járás |
 
-| 298. | Marcali, Fonyódi, Lengyeltóti Kistérségi Népegészségügyi Intézet |  |
+| 289. |  | Csurgói Járás |
 
-| 299. | Székhely: | Marcali |
+| 290. | Siófoki Járási Népegészségügyi Intézet |  |
 
-| 300. | Illetékességi terület: | Marcali Kistérség |
+| 291. | Székhely: | Siófok |
 
-| 301. |  | Fonyódi Kistérség |
+| 292. | Illetékességi terület: | Siófoki Járás |
 
-| 302. |  | Lengyeltóti Kistérség |
+| 293. |  | Tabi Járás |
 
-| 303. | SZABOLCS-SZATMÁR-BEREG MEGYE |  |
+| 294. | Marcali Járási Népegészségügyi Intézet |  |
 
-| 304. | Kisvárdai, Záhonyi Kistérségi Népegészségügyi Intézet |  |
+| 295. | Székhely: | Marcali |
 
-| 305. | Székhely: | Kisvárda |
+| 296. | Illetékességi terület: | Marcali Járás |
 
-| 306. | Illetékességi terület: | Kisvárdai Kistérség |
+| 297. |  | Fonyódi Járás |
 
-| 307. |  | Záhonyi Kistérség |
+| 298. | SZABOLCS-SZATMÁR-BEREG MEGYE |  |
 
-| 308. | Mátészalkai, Csengeri, Fehérgyarmati, Nyírbátori Kistérségi Népegészségügyi Intézet |  |
+| 299. | Kisvárdai Járási Népegészségügyi Intézet |  |
 
-| 309. | Székhely: | Mátészalka |
+| 300. | Székhely: | Kisvárda |
 
-| 310. | Illetékességi terület: | Mátészalkai Kistérség |
+| 301. | Illetékességi terület: | Kisvárdai Járás |
 
-| 311. |  | Csengeri Kistérség |
+| 302. |  | Záhonyi Járás |
 
-| 312. |  | Fehérgyarmati Kistérség |
+| 303. | Mátészalkai Járási Népegészségügyi Intézet |  |
 
-| 313. |  | Nyírbátori Kistérség |
+| 304. | Székhely: | Mátészalka |
 
-| 314. | Nyíregyházai, Ibrány-Nagyhalászi, Nagykállói, Tiszavasvári Kistérségi Népegészségügyi Intézet |  |
+| 305. | Illetékességi terület: | Mátészalkai Járás |
 
-| 315. | Székhely: | Nyíregyháza |
+| 306. |  | Csengeri Járás |
 
-| 316. | Illetékességi terület: | Nyíregyházai Kistérség |
+| 307. |  | Fehérgyarmati Járás |
 
-| 317. |  | Ibrány-Nagyhalászi Kistérség |
+| 308. |  | Nyírbátori Járás |
 
-| 318. |  | Nagykállói Kistérség |
+| 309. | Nyíregyházi Járási Népegészségügyi Intézet |  |
 
-| 319. |  | Tiszavasvári Kistérség |
+| 310. | Székhely: | Nyíregyháza |
 
-| 320. | Vásárosnaményi, Baktalórántházai Kistérségi Népegészségügyi Intézet |  |
+| 311. | Illetékességi terület: | Nyíregyházi Járás |
 
-| 321. | Székhely: | Vásárosnamény |
+| 312. |  | Ibrányi Járás |
 
-| 322. | Illetékességi terület: | Vásárosnaményi Kistérség |
+| 313. |  | Kemecsei Járás |
 
-| 323. |  | Baktalórántházai Kistérség |
+| 314. |  | Nagykállói Járás |
 
-| 324. | TOLNA MEGYE |  |
+| 315. |  | Tiszavasvári Járás |
 
-| 325. | Dombóvári, Tamási Kistérségi Népegészségügyi Intézet |  |
+| 316. | Vásárosnaményi Járási Népegészségügyi Intézet |  |
 
-| 326. | Székhely: | Dombóvár |
+| 317. | Székhely: | Vásárosnamény |
 
-| 327. | Illetékességi terület: | Dombóvári Kistérség |
+| 318. | Illetékességi terület: | Vásárosnaményi Járás |
 
-| 328. |  | Tamási Kistérség |
+| 319. |  | Baktalórántházai Járás |
 
-| 329. | Paksi Kistérségi Népegészségügyi Intézet |  |
+| 320. | TOLNA MEGYE |  |
 
-| 330. | Székhely: | Paks |
+| 321. | Dombóvári Járási Népegészségügyi Intézet |  |
 
-| 331. | Illetékességi terület: | Paksi Kistérség |
+| 322. | Székhely: | Dombóvár |
 
-| 332. | Szekszárdi, Bonyhádi Kistérségi Népegészségügyi Intézet |  |
+| 323. | Illetékességi terület: | Dombóvári Járás |
 
-| 333. | Székhely: | Szekszárd |
+| 324. |  | Tamási Járás |
 
-| 334. | Illetékességi terület: | Szekszárdi Kistérség |
+| 325. | Paksi Járási Népegészségügyi Intézet |  |
 
-| 335. |  | Bonyhádi Kistérség |
+| 326. | Székhely: | Paks |
 
-| 336. | VAS MEGYE |  |
+| 327. | Illetékességi terület: | Paksi Járás |
 
-| 337. | Körmendi, Őriszentpéteri, Szentgotthárdi, Vasvári Kistérségi Népegészségügyi Intézet |  |
+| 328. | Szekszárdi Járási Népegészségügyi Intézet |  |
 
-| 338. | Székhely: | Körmend |
+| 329. | Székhely: | Szekszárd |
 
-| 339. | Illetékességi terület: | Körmendi Kistérség |
+| 330. | Illetékességi terület: | Szekszárdi Járás |
 
-| 340. |  | Őriszentpéteri Kistérség |
+| 331. |  | Bonyhádi Járás |
 
-| 341. |  | Szentgotthárdi Kistérség |
+| 332. |  | Tolnai Járás |
 
-| 342. |  | Vasvári Kistérség |
+| 333. | VAS MEGYE |  |
 
-| 343. | Szombathelyi, Csepregi, Kőszegi Kistérségi Népegészségügyi Intézet |  |
+| 334. | Körmendi Járási Népegészségügyi Intézet |  |
 
-| 344. | Székhely: | Szombathely |
+| 335. | Székhely: | Körmend |
 
-| 345. | Illetékességi terület: | Szombathelyi Kistérség |
+| 336. | Illetékességi terület: | Körmendi Járás |
 
-| 346. |  | Csepregi Kistérség |
+| 337. |  | Szentgotthárdi Járás |
 
-| 347. |  | Kőszegi Kistérség |
+| 338. |  | Vasvári Járás |
 
-| 348. | Sárvári, Celldömölki Kistérségi Népegészségügyi Intézet |  |
+| 339. | Szombathelyi Járási Népegészségügyi Intézet |  |
 
-| 349. | Székhely: | Sárvár |
+| 340. | Székhely: | Szombathely |
 
-| 350. | Illetékességi terület: | Sárvári Kistérség |
+| 341. | Illetékességi terület: | Szombathelyi Járás |
 
-| 351. |  | Celldömölki Kistérség |
+| 342. |  | Kőszegi Járás |
 
-| 352. | VESZPRÉM MEGYE |  |
+| 343. | Sárvári Járási Népegészségügyi Intézet |  |
 
-| 353. | Ajkai Kistérségi Népegészségügyi Intézet |  |
+| 344. | Székhely: | Sárvár |
 
-| 354. | Székhely: | Ajka |
+| 345. | Illetékességi terület: | Sárvári Járás |
 
-| 355. | Illetékességi terület: | Ajkai Kistérség |
+| 346. |  | Celldömölki Járás |
 
-| 356. | Balatonfüredi, Balatonalmádi, Tapolcai, Sümegi Kistérségi Népegészségügyi Intézet |  |
+| 347. | VESZPRÉM MEGYE |  |
 
-| 357. | Székhely: | Balatonfüred |
+| 348. | Ajkai Járási Népegészségügyi Intézet |  |
 
-| 358. | Illetékességi terület: | Balatonfüredi Kistérség |
+| 349. | Székhely: | Ajka |
 
-| 359. |  | Balatonalmádi Kistérség |
+| 350. | Illetékességi terület: | Ajkai Járás |
 
-| 360. |  | Tapolcai Kistérség |
+| 351. |  | Devecseri Járás |
 
-| 361. |  | Sümegi Kistérség |
+| 352. | Balatonfüredi Járási Népegészségügyi Intézet |  |
 
-| 362. | Pápai Kistérségi Népegészségügyi Intézet |  |
+| 353. | Székhely: | Balatonfüred |
 
-| 363. | Székhely: | Pápa |
+| 354. | Illetékességi terület: | Balatonfüredi Járás |
 
-| 364. | Illetékességi terület: | Pápai Kistérség |
+| 355. |  | Balatonalmádi Járás |
 
-| 365. | Veszprémi, Várpalotai, Zirci Kistérségi Népegészségügyi Intézet |  |
+| 356. |  | Tapolcai Járás |
 
-| 366. | Székhely: | Veszprém |
+| 357. |  | Sümegi Járás |
 
-| 367. | Illetékességi terület: | Veszprémi Kistérség |
+| 358. | Pápai Járási Népegészségügyi Intézet |  |
 
-| 368. |  | Várpalotai Kistérség |
+| 359. | Székhely: | Pápa |
 
-| 369. |  | Zirci Kistérség |
+| 360. | Illetékességi terület: | Pápai Járás |
 
-| 370. | ZALA MEGYE |  |
+| 361. | Veszprémi Járási Népegészségügyi Intézet |  |
 
-| 371. | Keszthelyi, Hévízi, Zalaszentgróti Kistérségi Népegészségügyi Intézet |  |
+| 362. | Székhely: | Veszprém |
 
-| 372. | Székhely: | Keszthely |
+| 363. | Illetékességi terület: | Veszprémi Járás |
 
-| 373. | Illetékességi terület: | Keszthelyi Kistérség |
+| 364. |  | Várpalotai Járás |
 
-| 374. |  | Hévízi Kistérség |
+| 365. |  | Zirci Járás |
 
-| 375. |  | Zalaszentgróti Kistérség |
+| 366. | ZALA MEGYE |  |
 
-| 376. | Nagykanizsai, Letenyei, Zalakarosi Kistérségi Népegészségügyi Intézet |  |
+| 367. | Keszthelyi Járási Népegészségügyi Intézet |  |
 
-| 377. | Székhely: | Nagykanizsa |
+| 368. | Székhely: | Keszthely |
 
-| 378. | Illetékességi terület: | Nagykanizsai Kistérség |
+| 369. | Illetékességi terület: | Keszthelyi Járás |
 
-| 379. |  | Letenyei Kistérség |
+| 370. |  | Zalaszentgróti Járás |
 
-| 380. |  | Zalakarosi Kistérség |
+| 371. | Nagykanizsai Járási Népegészségügyi Intézet |  |
 
-| 381. | Zalaegerszegi, Lenti, Pacsai Kistérségi Népegészségügyi Intézet |  |
+| 372. | Székhely: | Nagykanizsa |
 
-| 382. | Székhely: | Zalaegerszeg |
+| 373. | Illetékességi terület: | Nagykanizsai Járás |
 
-| 383. | Illetékességi terület: | Zalaegerszegi Kistérség |
+| 374. |  | Letenyei Járás |
 
-| 384. |  | Lenti Kistérség |
+| 375. | Zalaegerszegi Járási Népegészségügyi Intézet |  |
 
-| 385. |  | Pacsai Kistérség |
+| 376. | Székhely: | Zalaegerszeg |
 
-## 2. A Sugár-egészségügyi decentrumok
+| 377. | Illetékességi terület: | Zalaegerszegi Járás |
 
-## A jogszabályban a sugár-egészségügyi decentrum számára meghatározott feladatokat a következő szervek látják el:
+| 378. |  | Lenti Járás |
 
-## a) Budapest és Pest megye vonatkozásában: a Fővárosi és Pest Megyei Népegészségügyi Szakigazgatási Szerv,
+4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^100]
 
-## b) Baranya, Somogy és Tolna megye vonatkozásában: a Tolna Megyei Népegészségügyi Szakigazgatási Szerv,
-
-## c) Borsod-Abaúj-Zemplén, Nógrád és Heves megye vonatkozásában: a Borsod-Abaúj-Zemplén Megyei Népegészségügyi Szakigazgatási Szerv,
-
-## d) Bács-Kiskun, Békés és Csongrád megye vonatkozásában: a Csongrád Megyei Népegészségügyi Szakigazgatási Szerv,
-
-## e) Fejér, Komárom-Esztergom, és Veszprém megye vonatkozásában: a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv,
-
-## f) Győr-Moson-Sopron, Vas és Zala megye vonatkozásában: a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv
-
-## g) Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye vonatkozásában: a Hajdú-Bihar Megyei Népegészségügyi Szakigazgatási Szerv.
-
-4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^78]
-
-[^78]: A 4. melléklet a 282/2011. (XII. 21.) Korm. rendelet 51. § (2) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 67. § c) és d) pontja szerint módosított szöveg.
+[^100]: A 4. melléklet a 282/2011. (XII. 21.) Korm. rendelet 51. § (2) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 67. § c) és d) pontja szerint módosított szöveg.
