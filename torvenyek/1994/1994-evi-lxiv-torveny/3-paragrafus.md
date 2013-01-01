@@ -12,15 +12,13 @@ Szorzószám
 
 – 3000–10 000 lakosú település esetén 11,0–12,5
 
-– 10 000-nél több lakosú település, valamint körzetközponti feladatot ellátó önkormányzat esetén 12,5–13,5
+– 10 000-nél több lakosú település önkormányzat esetén 12,5–13,5
 
 – a fővárosi kerületi önkormányzat esetén 13,5–14,5
 
 – a megyei jogú városi önkormányzat és megyei önkormányzat esetén 14,0–15,0
 
-– a fővárosi önkormányzat esetén 15,0–16,5
-
-(3)
+(3) Az (1)–(2) bekezdésben, a (4) bekezdésben, valamint a 18. §-ban foglaltaktól eltérően a főpolgármester illetményére és költségtérítésére vonatkozó szabályokról a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény rendelkezik.
 
 (4) A polgármester illetményének emelését — a száznál kevesebb lakosú község kivételével a szervezeti és működési szabályzatban meghatározott bizottság javaslatára — a képviselő-testület állapítja meg.
 

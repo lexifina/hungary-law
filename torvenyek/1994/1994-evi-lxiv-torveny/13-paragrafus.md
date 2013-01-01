@@ -22,7 +22,7 @@ i) 184. § (3) bekezdését azzal, hogy a polgármester személyi anyagát a jeg
 
 (2a) A felsőfokú iskolai végzettségű, foglalkoztatási jogviszonyban álló polgármester esetében a Kttv. 118. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a polgármester – megválasztását követően legalább egy év foglalkoztatási jogviszony eltöltése után – közigazgatási alapvizsgát tehet.
 
-(2b) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a munkaügyi bírósághoz fordulhat.
+(2b) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási és munkaügyi bírósághoz fordulhat.
 
 (2c) A polgármester a munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül, egyéb esetekben az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
 
@@ -32,4 +32,4 @@ i) 184. § (3) bekezdését azzal, hogy a polgármester személyi anyagát a jeg
 
 (4) Ahol jogszabály munkaviszonyt említ, ott — eltérő rendelkezés hiányában — a foglalkoztatási jogviszonyt is érteni kell.
 
-(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
+(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a közigazgatási és munkaügyi bírósághoz fordulhat.

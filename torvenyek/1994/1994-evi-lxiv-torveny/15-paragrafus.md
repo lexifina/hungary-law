@@ -6,7 +6,7 @@
 
 – 3000–10 000 lakosú település esetén 1,8
 
-– 10 000-nél több lakosú település, valamint körzetközponti feladatot ellátó önkormányzat esetén 2,2
+– 10 000-nél több lakosú település esetén 2,2
 
 – fővárosi kerületi önkormányzat esetén 2,5
 

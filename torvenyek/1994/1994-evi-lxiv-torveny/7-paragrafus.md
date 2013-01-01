@@ -4,6 +4,6 @@
 
 (3) A vizsgálóbizottság a megbízását követő harminc napon belül köteles lefolytatni a vizsgálatot, ennek keretében meghallgatni a polgármestert. A vizsgálóbizottság a vizsgálat lezárását követő nyolc napon belül elkészíti a jelentését és a vizsgálóbizottság elnöke soron kívül, a jelentés elkészítését követő 15 napon belüli időpontra – a jelentés egyidejű megküldésével – összehívja a képviselő-testület ülését. A képviselő-testület a jelentés alapján a vizsgálóbizottság elnöke által összehívott ülésen, de legkésőbb az azt követő nyolc napon belül érdemben dönt a polgármester fegyelmi ügyében. E napirend tárgyalásának levezetésére a képviselő-testület a tagjai sorából elnököt választ.
 
-(4) A polgármester foglalkoztatási jogviszonya a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül a felfüggesztés megszüntetése iránt eljárást kezdeményezhet a megyei (fővárosi) bíróságnál.
+(4) A polgármester foglalkoztatási jogviszonya a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül a felfüggesztés megszüntetése iránt eljárást kezdeményezhet a közigazgatási és munkaügyi bíróságnál.
 
 A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fenntartásáról vagy megszüntetéséről. A bíróság határozata ellen külön fellebbezésnek nincs helye.

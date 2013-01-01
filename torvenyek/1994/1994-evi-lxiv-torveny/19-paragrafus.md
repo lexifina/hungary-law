@@ -3,5 +3,3 @@
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy a polgármester tisztségének megszűnése esetére a munkakör-átadási jegyzőkönyv tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy a polgármester közszolgálati járadéka megállapításának és folyósításának részletes szabályait rendeletben állapítsa meg.
-
-## Melléklet a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvényhez
