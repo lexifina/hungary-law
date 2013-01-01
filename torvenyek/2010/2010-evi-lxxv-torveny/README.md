@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-75-00-00
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 2010-75-00-00.8 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2010-75-00-00.9 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2010-75-00-00.10 |
+| 2013-01-01 | 2012. évi CCXVI. törvény | 2010-75-00-00.11 |

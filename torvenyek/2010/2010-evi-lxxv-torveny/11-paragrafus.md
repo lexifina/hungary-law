@@ -12,13 +12,15 @@ c)
 
 (3) A (2) bekezdés szerinti regisztrációt követően a munkáltató bejelentési kötelezettségét az (1) bekezdés a)–b) pontjában meghatározott módon, az egyszerűsített foglalkoztatás céljából létesített munkaviszonyra vonatkozó alábbi adatok közlésével teljesíti:
 
-a) a munkáltató adószáma,
+a) a munkavállaló neve,
 
-b) a munkavállaló adóazonosító jele és TAJ száma,
+b) a munkáltató adószáma,
 
-c) az egyszerűsített foglalkoztatás 1. § (1) bekezdése szerinti jellege,
+c) a munkavállaló adóazonosító jele és társadalombiztosítási azonosító jele,
 
-d) a munkaviszony napjainak száma.
+d) az egyszerűsített foglalkoztatás 1. § (1) bekezdése szerinti jellege,
+
+e) a munkaviszony napjainak száma.
 
 (4) Amennyiben a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
 
