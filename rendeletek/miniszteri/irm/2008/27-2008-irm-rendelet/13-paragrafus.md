@@ -6,19 +6,19 @@ b) betekintés és bejegyzés (módosítás, törlés) az árverezők elektronik
 
 c) árverési hirdetmény közzététele;
 
-d)[^16] hagyományos ingóárverés hirdetményének, a 21. § (1) bekezdés d) pontja szerinti ingatlanárverési hirdetménynek, a sikertelen ingatlanárverés hirdetményének, valamint az ingatlanok folyamatos árverezése iránti hirdetménynek a törlése;
+d)[^17] hagyományos ingóárverés hirdetményének, a 21. § (1) bekezdés d) pontja szerinti ingatlanárverési hirdetménynek, a sikertelen ingatlanárverés hirdetményének, valamint az ingatlanok folyamatos árverezése iránti hirdetménynek a törlése;
 
 e) az árverező felhasználói nevének és jelszavának aktiválása (aktiválás iránti kérelem elutasítása, aktiválás megszüntetése) meghatározott árverésen történő licitáláshoz;
 
-f)[^17] licitnapló megtekintése és kinyomtatása;
+f)[^18] licitnapló megtekintése és kinyomtatása;
 
-g)[^18] licitnapló lezárása [a Vht. 132/F. § (7) bekezdés, ingatlanárverés esetében a 142. § folytán alkalmazandó 132/F. § (7) bekezdés];
+g)[^19] licitnapló lezárása [a Vht. 132/F. § (7) bekezdés, ingatlanárverés esetében a 142. § folytán alkalmazandó 132/F. § (7) bekezdés];
 
-h)[^19]
+h)[^20]
 
 i) árverési vevő felhívása az árverési jegyzőkönyv aláírására és az árverési vételár kifizetésére;
 
-j)[^20] a licitnaplóban szereplő árverezőknek az árverezők elektronikus nyilvántartásában szereplő adatait tartalmazó elektronikus adatlap megtekintése és kinyomtatása;
+j)[^21] a licitnaplóban szereplő árverezőknek az árverezők elektronikus nyilvántartásában szereplő adatait tartalmazó elektronikus adatlap megtekintése és kinyomtatása;
 
 k) műveletek elvégzéséről szóló rendszerüzenetek megtekintése, valamint az árverezők e rendeletben meghatározott kérelmeinek rendszerüzenetként történő megtekintése és kinyomtatása.
 
@@ -32,8 +32,8 @@ c) a végrehajtói állásra kirendelt helyettes számára a helyettesített vag
 
 (3) A rendszerüzenetek a végrehajtó részére az elektronikus árverési rendszerben történő közzétételüket követő munkanapon kézbesítettnek tekintendők.
 
-[^16]: A 13. § (1) bekezdés d) pontja a 38/2012. (VIII. 23.) KIM rendelet 3. §-ával megállapított szöveg.
-[^17]: A 13. § (1) bekezdés f) pontja a 38/2012. (VIII. 23.) KIM rendelet 15. § a) pontja szerint módosított szöveg.
-[^18]: A 13. § (1) bekezdés g) pontja a 38/2012. (VIII. 23.) KIM rendelet 14. § a) pontja szerint módosított szöveg.
-[^19]: A 13. § (1) bekezdés h) pontját a 38/2012. (VIII. 23.) KIM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^20]: A 13. § (1) bekezdés j) pontja a 38/2012. (VIII. 23.) KIM rendelet 15. § a) pontja szerint módosított szöveg.
+[^17]: A 13. § (1) bekezdés d) pontja a 38/2012. (VIII. 23.) KIM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 13. § (1) bekezdés f) pontja a 38/2012. (VIII. 23.) KIM rendelet 15. § a) pontja szerint módosított szöveg.
+[^19]: A 13. § (1) bekezdés g) pontja a 38/2012. (VIII. 23.) KIM rendelet 14. § a) pontja szerint módosított szöveg.
+[^20]: A 13. § (1) bekezdés h) pontját a 38/2012. (VIII. 23.) KIM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^21]: A 13. § (1) bekezdés j) pontja a 38/2012. (VIII. 23.) KIM rendelet 15. § a) pontja szerint módosított szöveg.

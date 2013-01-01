@@ -6,15 +6,15 @@ a) hagyományos ingóárverés esetén az árverés napját követő napon vagy 
 
 b) elektronikus ingóárverés esetén a licitnapló lezárását követő 30. napon,
 
-c)[^36] ingatlanárverés és ingatlan átvételi eljárás esetén a licitnapló lezárását követő 30. napon,
+c)[^43] ingatlanárverés és ingatlan átvételi eljárás esetén a licitnapló lezárását követő 30. napon,
 
-d)[^37] a 21. § d) pont szerinti ingatlan árverés napját követő napon vagy azt megelőzően a végrehajtó intézkedésére,
+d)[^44] a 21. § d) pont szerinti ingatlan árverés napját követő napon vagy azt megelőzően a végrehajtó intézkedésére,
 
-e)[^38] sikertelen ingatlanárverés hirdetménye esetében a második árverés hirdetményének a nyilvántartásban történő közzétételével egyidejűleg vagy azt megelőzően a végrehajtó intézkedésére,
+e)[^45] sikertelen ingatlanárverés hirdetménye esetében a második árverés hirdetményének a nyilvántartásban történő közzétételével egyidejűleg vagy azt megelőzően a végrehajtó intézkedésére,
 
-f)[^39] az ingatlanok folyamatos árverezése iránti hirdetmény esetében a Vht. 159. § (4) vagy (5) bekezdés szerinti árverés hirdetményének a nyilvántartásban történő közzétételével egyidejűleg vagy azt megelőzően a végrehajtó intézkedésére
+f)[^46] az ingatlanok folyamatos árverezése iránti hirdetmény esetében a Vht. 159. § (4) vagy (5) bekezdés szerinti árverés hirdetményének a nyilvántartásban történő közzétételével egyidejűleg vagy azt megelőzően a végrehajtó intézkedésére
 
-[^36]: A 24. § c) pontja a 38/2012. (VIII. 23.) KIM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^37]: A 24. § d) pontját a 31/2012. (VI. 29.) KIM rendelet 15. § (5) bekezdése iktatta be.
-[^38]: A 24. § e) pontját a 38/2012. (VIII. 23.) KIM rendelet 7. § (2) bekezdése iktatta be.
-[^39]: A 24. § f) pontját a 38/2012. (VIII. 23.) KIM rendelet 7. § (2) bekezdése iktatta be.
+[^43]: A 24. § c) pontja a 38/2012. (VIII. 23.) KIM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^44]: A 24. § d) pontját a 31/2012. (VI. 29.) KIM rendelet 15. § (5) bekezdése iktatta be.
+[^45]: A 24. § e) pontját a 38/2012. (VIII. 23.) KIM rendelet 7. § (2) bekezdése iktatta be.
+[^46]: A 24. § f) pontját a 38/2012. (VIII. 23.) KIM rendelet 7. § (2) bekezdése iktatta be.

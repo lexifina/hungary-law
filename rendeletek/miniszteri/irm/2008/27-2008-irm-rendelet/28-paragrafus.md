@@ -10,12 +10,12 @@ b) közzétehető összegű ajánlattal kitöltött adatlap alapján automatikus
 
 c) nem közzétehető összegű ajánlat esetén ne tegyen közzé vételi ajánlatot, hanem erről – a közzététel akadályának megjelölésével – küldjön hibaüzenetet az árverező részére.
 
-(3)[^48] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell az előárverezési jog gyakorlására szolgáló nyilatkozat megtételére is azzal, hogy az az összeg megjelölésének hiányában is közzétehető; ez a nyilatkozat minősül a megelőzően közzétett vételi ajánlat vonatkozásában megtett előárverezési jogot gyakorló nyilatkozatnak.
+(3)[^55] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell az előárverezési jog gyakorlására szolgáló nyilatkozat megtételére is azzal, hogy az az összeg megjelölésének hiányában is közzétehető; ez a nyilatkozat minősül a megelőzően közzétett vételi ajánlat vonatkozásában megtett előárverezési jogot gyakorló nyilatkozatnak.
 
-(4)[^49] Az átvételi ajánlat megtétele a vételi ajánlat megtételére vonatkozó, az (1) és (2) bekezdésben foglalt rendelkezések alkalmazásával történik.
+(4)[^56] Az átvételi ajánlat megtétele a vételi ajánlat megtételére vonatkozó, az (1) és (2) bekezdésben foglalt rendelkezések alkalmazásával történik.
 
-(5)[^50] Az informatikai alkalmazást úgy kell kialakítani, hogy az ingatlan folyamatos árverése során történő felhasználói név és jelszó aktiválással a vételi ajánlat automatikusan kerüljön közzétételre a licitnaplóban, valamint a Vht 159. § (4) bekezdése szerint közzétételre kerülő ingatlanárverési hirdetményhez tartozó licitnaplóban is.
+(5)[^57] Az informatikai alkalmazást úgy kell kialakítani, hogy az ingatlan folyamatos árverése során történő felhasználói név és jelszó aktiválással a vételi ajánlat automatikusan kerüljön közzétételre a licitnaplóban, valamint a Vht 159. § (4) bekezdése szerint közzétételre kerülő ingatlanárverési hirdetményhez tartozó licitnaplóban is.
 
-[^48]: A 28. § (3) bekezdése a 38/2012. (VIII. 23.) KIM rendelet 11. §-ával megállapított szöveg.
-[^49]: A 28. § (4) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
-[^50]: A 28. § (5) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
+[^55]: A 28. § (3) bekezdése a 38/2012. (VIII. 23.) KIM rendelet 11. §-ával megállapított szöveg.
+[^56]: A 28. § (4) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
+[^57]: A 28. § (5) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
