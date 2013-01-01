@@ -2,7 +2,7 @@
 
 65. § (1) A Hatóság egyes eljárásaiban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályait az egyes eljárástípusok keretében e törvényben meghatározott eltérésekkel alkalmazza.
 
-(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag elektronikus úton, a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezései szerint történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által a szabályozott elektronikus ügyintézési szolgáltatásokra vonatkozó rendelkezések szerint rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő.
+(2)
 
 (3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – negyvenöt nap, amely indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 

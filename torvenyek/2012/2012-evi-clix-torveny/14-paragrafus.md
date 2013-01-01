@@ -8,7 +8,7 @@
 
 (2) A gazdasági és társadalmi igények folyamatos változásának való megfelelés, valamint az egyetemes postai szolgáltatás egyes részletes szabályainak megállapítása érdekében a miniszter az államháztartásért felelős miniszter egyetértésével az egyetemes postai szolgáltatóval Egyetemes Postai Közszolgáltatási Szerződést köt.
 
-(3) Az egyetemes postai szolgáltatás közérdekű jellege miatt az egyetemes postai szolgáltatás ellátása érdekében működtetett postai hálózat fejlesztése (felvételi és kézbesítési pontok kialakítása és rekonstrukciója) a területfejlesztés része, melyet az állam a területfejlesztésről és a területrendezésről szóló törvényben foglaltak szerint területfejlesztést szolgáló pénzügyi eszközökből támogathat, valamint pénzügyi kedvezményekben részesíthet.
+(3)
 
 (4) Az egyetemes postai szolgáltatás keretében az egyetemes postai szolgáltató biztosítja a 6. § (2)–(3) bekezdésében foglalt postai küldemények munkanaponkénti felvételét, valamint a 15. § (3) bekezdésében megállapított kötelezettség teljesítésével és jogszabályban meghatározott kivételek figyelembevételével a cím helyén történő kézbesítés megkísérlését. A cím helyén történő kézbesítésre vonatkozó kötelezettség teljesítése alól az egyetemes postai szolgáltató kérelemre, a Hatóság döntése alapján mentesül ott, ahol annak teljesítése rendkívüli földrajzi, illetve infrastrukturális körülmények következtében nem, vagy csak aránytalan nehézséggel lehetséges.
 
