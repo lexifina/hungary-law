@@ -1,3 +1,0 @@
-A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 47. §-ának (2) bekezdésében foglalt felhatalmazás alapján,
-
-az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § m) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
