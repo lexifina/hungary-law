@@ -1,12 +1,10 @@
-1. melléklet a 43/2011. (XI. 30.) BM rendelethez
+1. melléklet a 43/2011. (XI. 30.) BM rendelethez[^3]
 
 Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  | Katasztrófavédelmi kirendeltség | Település |
 
-| Bács-Kiskun megye | Baja | Apostag |
-
-|  |  | Bácsalmás |
+| Bács-Kiskun megye | Baja | Bácsalmás |
 
 |  |  | Bácsbokod |
 
@@ -22,8 +20,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Bátya |
 
-|  |  | Császártöltés |
-
 |  |  | Csátalja |
 
 |  |  | Csávoly |
@@ -33,8 +29,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Dávod |
 
 |  |  | Drágszél |
-
-|  |  | Dunaegyháza |
 
 |  |  | Dunafalva |
 
@@ -88,8 +82,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Öregcsertő |
 
-|  |  | Rém |
-
 |  |  | Solt |
 
 |  |  | Sükösd |
@@ -110,11 +102,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  | Kecskemét | Ágasegyháza |
 
+|  |  | Apostag |
+
 |  |  | Ballószög |
 
 |  |  | Bugac |
 
 |  |  | Bugacpusztaháza |
+
+|  |  | Dunaegyháza |
 
 |  |  | Dunavecse |
 
@@ -124,13 +120,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Fülöpjakab |
 
-|  |  | Fülöpszállás |
-
 |  |  | Gátér |
 
 |  |  | Helvécia |
-
-|  |  | Izsák |
 
 |  |  | Jakabszállás |
 
@@ -156,8 +148,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Lakitelek |
 
-|  |  | Móricgát |
-
 |  |  | Nyárlőrinc |
 
 |  |  | Orgovány |
@@ -165,8 +155,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Pálmonostora |
 
 |  |  | Petőfiszállás |
-
-|  |  | Soltszentimre |
 
 |  |  | Szabadszállás |
 
@@ -192,13 +180,19 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Borota |
 
+|  |  | Császártöltés |
+
 |  |  | Csengőd |
 
 |  |  | Csólyospálos |
 
+|  |  | Fülöpszállás |
+
 |  |  | Harkakötöny |
 
 |  |  | Imrehegy |
+
+|  |  | Izsák |
 
 |  |  | Jánoshalma |
 
@@ -226,9 +220,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Mélykút |
 
+|  |  | Móricgát |
+
 |  |  | Páhi |
 
 |  |  | Pirtó |
+
+|  |  | Rém |
+
+|  |  | Soltszentimre |
 
 |  |  | Soltvadkert |
 
@@ -258,27 +258,17 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Erdősmárok |
 
-|  |  | Erdősmecske |
-
-|  |  | Erzsébet |
-
-|  |  | Fazekasboda |
-
 |  |  | Feked |
 
-|  |  | Geresdlak |
-
 |  |  | Görcsönydoboka |
+
+|  |  | Hásságy |
 
 |  |  | Himesháza |
 
 |  |  | Homorúd |
 
 |  |  | Ivándárda |
-
-|  |  | Kátoly |
-
-|  |  | Kékesd |
 
 |  |  | Kisbudmér |
 
@@ -310,6 +300,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Palotabozsok |
 
+|  |  | Pócsa |
+
 |  |  | Sárok |
 
 |  |  | Sátorhely |
@@ -323,8 +315,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Szederkény |
 
 |  |  | Székelyszabar |
-
-|  |  | Szellő |
 
 |  |  | Szűr |
 
@@ -358,17 +348,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Berkesd |
 
-|  |  | Bicsérd |
-
 |  |  | Bikal |
 
 |  |  | Birján |
 
-|  |  | Boda |
-
 |  |  | Bodolyabér |
 
 |  |  | Bogád |
+
+|  |  | Bosta |
 
 |  |  | Cserkút |
 
@@ -378,17 +366,23 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Ellend |
 
+|  |  | Erdősmecske |
+
+|  |  | Erzsébet |
+
+|  |  | Fazekasboda |
+
 |  |  | Felsőegerszeg |
 
 |  |  | Gerényes |
+
+|  |  | Geresdlak |
 
 |  |  | Gödre |
 
 |  |  | Görcsöny |
 
 |  |  | Gyód |
-
-|  |  | Hásságy |
 
 |  |  | Hegyhátmaróc |
 
@@ -399,6 +393,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Husztót |
 
 |  |  | Kárász |
+
+|  |  | Kátoly |
+
+|  |  | Kékesd |
 
 |  |  | Keszü |
 
@@ -468,6 +466,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Óbánya |
 
+|  |  | Ócsárd |
+
 |  |  | Ófalu |
 
 |  |  | Palé |
@@ -484,6 +484,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pogány |
 
+|  |  | Regenye |
+
 |  |  | Romonya |
 
 |  |  | Sásd |
@@ -492,13 +494,21 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szalatnak |
 
+|  |  | Szalánta |
+
 |  |  | Szárász |
 
 |  |  | Szászvár |
 
+|  |  | Szellő |
+
 |  |  | Szemely |
 
 |  |  | Szilágy |
+
+|  |  | Szilvás |
+
+|  |  | Szőke |
 
 |  |  | Szőkéd |
 
@@ -520,11 +530,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zengővárkony |
 
-|  |  | Zók |
-
-|  | Siklós | Siklós |
-
-|  |  | Adorjás |
+|  | Siklós | Adorjás |
 
 |  |  | Alsószentmárton |
 
@@ -532,17 +538,21 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Baksa |
 
-|  |  | Baranyahídvég |
+|  |  | Baranyahidvég |
 
 |  |  | Beremend |
+
+|  |  | Besence |
 
 |  |  | Bisse |
 
 |  |  | Bogádmindszent |
 
-|  |  | Bosta |
+|  |  | Bogdása |
 
 |  |  | Csarnóta |
+
+|  |  | Csányoszró |
 
 |  |  | Cún |
 
@@ -552,6 +562,12 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Drávacsepely |
 
+|  |  | Drávafok |
+
+|  |  | Drávaiványi |
+
+|  |  | Drávakeresztúr |
+
 |  |  | Drávapalkonya |
 
 |  |  | Drávapiski |
@@ -560,9 +576,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Drávaszerdahely |
 
+|  |  | Drávasztára |
+
 |  |  | Egyházasharaszti |
 
+|  |  | Felsőszentmárton |
+
 |  |  | Garé |
+
+|  |  | Gilvánfa |
 
 |  |  | Gordisa |
 
@@ -578,11 +600,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Ivánbattyán |
 
+|  |  | Kákics |
+
 |  |  | Kásád |
 
 |  |  | Kémes |
 
 |  |  | Kemse |
+
+|  |  | Kisasszonyfa |
 
 |  |  | Kisdér |
 
@@ -610,7 +636,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Magyarbóly |
 
+|  |  | Magyarmecske |
+
+|  |  | Magyartelek |
+
 |  |  | Márfa |
+
+|  |  | Markóc |
+
+|  |  | Marócsa |
 
 |  |  | Márok |
 
@@ -622,9 +656,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nagytótfalu |
 
-|  |  | Ócsárd |
-
 |  |  | Ózdfalu |
+
+|  |  | Okorág |
 
 |  |  | Old |
 
@@ -638,27 +672,23 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Piskó |
 
-|  |  | Pócsa |
-
 |  |  | Rádfalva |
 
-|  |  | Regenye |
-
 |  |  | Sámod |
+
+|  |  | Sellye |
+
+|  |  | Siklós |
 
 |  |  | Siklósbodony |
 
 |  |  | Siklósnagyfalu |
 
-|  |  | Szalánta |
+|  |  | Sósvertike |
 
 |  |  | Szaporca |
 
 |  |  | Szava |
-
-|  |  | Szilvás |
-
-|  |  | Szőke |
 
 |  |  | Tengeri |
 
@@ -682,9 +712,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zaláta |
 
-|  | Szigetvár | Szigetvár |
-
-|  |  | Almamellék |
+|  | Szigetvár | Almamellék |
 
 |  |  | Almáskeresztúr |
 
@@ -692,9 +720,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Basal |
 
-|  |  | Besence |
+|  |  | Bicsérd |
 
-|  |  | Bogdása |
+|  |  | Boda |
 
 |  |  | Boldogasszonyfa |
 
@@ -703,8 +731,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Bükkösd |
 
 |  |  | Bürüs |
-
-|  |  | Csányoszró |
 
 |  |  | Csebény |
 
@@ -718,21 +744,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Dinnyeberki |
 
-|  |  | Drávafok |
-
-|  |  | Drávaiványi |
-
-|  |  | Drávakeresztúr |
-
-|  |  | Drávasztára |
-
 |  |  | Endrőc |
 
-|  |  | Felsőszentmárton |
-
 |  |  | Gerde |
-
-|  |  | Gilvánfa |
 
 |  |  | Gyöngyfa |
 
@@ -750,29 +764,17 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Kacsóta |
 
-|  |  | Kákics |
-
 |  |  | Katádfa |
 
 |  |  | Kétújfalu |
 
 |  |  | Királyegyháza |
 
-|  |  | Kisasszonyfa |
-
 |  |  | Kisdobsza |
 
 |  |  | Kistamási |
 
 |  |  | Magyarlukafa |
-
-|  |  | Magyarmecske |
-
-|  |  | Magyartelek |
-
-|  |  | Markóc |
-
-|  |  | Marócsa |
 
 |  |  | Merenye |
 
@@ -790,8 +792,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nyugotszenterzsébet |
 
-|  |  | Okorág |
-
 |  |  | Okorvölgy |
 
 |  |  | Patapoklosi |
@@ -802,8 +802,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Rózsafa |
 
-|  |  | Sellye |
-
 |  |  | Somogyapáti |
 
 |  |  | Somogyhárságy |
@@ -811,8 +809,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Somogyhatvan |
 
 |  |  | Somogyviszló |
-
-|  |  | Sósvertike |
 
 |  |  | Sumony |
 
@@ -827,6 +823,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Szentlászló |
 
 |  |  | Szentlőrinc |
+
+|  |  | Szigetvár |
 
 |  |  | Szörény |
 
@@ -844,19 +842,25 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zádor |
 
+|  |  | Zók |
+
 | Békés megye | Békéscsaba | Békéscsaba |
 
 |  |  | Békés |
 
 |  |  | Bélmegyer |
 
+|  |  | Biharugra |
+
 |  |  | Csabaszabadi |
 
-|  |  | Csárdaszállás |
+|  |  | Csorvás |
 
 |  |  | Doboz |
 
 |  |  | Elek |
+
+|  |  | Gerendás |
 
 |  |  | Geszt |
 
@@ -868,9 +872,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Kétsoprony |
 
+|  |  | Körösnagyharsány |
+
 |  |  | Köröstarcsa |
 
 |  |  | Kötegyán |
+
+|  |  | Lőkösháza |
 
 |  |  | Mezőberény |
 
@@ -896,9 +904,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Újszalonta |
 
-|  | Orosháza | Orosháza |
+|  |  | Zsadány |
 
-|  |  | Almáskamarás |
+|  | Orosháza | Almáskamarás |
 
 |  |  | Battonya |
 
@@ -906,15 +914,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Csanádapáca |
 
-|  |  | Csorvás |
-
 |  |  | Dombegyház |
 
 |  |  | Dombiratos |
 
 |  |  | Gádoros |
-
-|  |  | Gerendás |
 
 |  |  | Kardoskút |
 
@@ -925,8 +929,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Kisdombegyház |
 
 |  |  | Kunágota |
-
-|  |  | Lőkösháza |
 
 |  |  | Magyarbánhegyes |
 
@@ -946,6 +948,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nagyszénás |
 
+|  |  | Orosháza |
+
 |  |  | Pusztaföldvár |
 
 |  |  | Pusztaottlaka |
@@ -954,15 +958,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Végegyháza |
 
-|  | Szeghalom | Szeghalom |
-
-|  |  | Békésszentandrás |
-
-|  |  | Biharugra |
+|  | Szeghalom | Békésszentandrás |
 
 |  |  | Bucsa |
 
 |  |  | Csabacsűd |
+
+|  |  | Csárdaszállás |
 
 |  |  | Dévaványa |
 
@@ -982,23 +984,23 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Körösladány |
 
-|  |  | Körösnagyharsány |
-
 |  |  | Körösújfalu |
 
 |  |  | Örménykút |
 
 |  |  | Szarvas |
 
-|  |  | Vésztő |
+|  |  | Szeghalom |
 
-|  |  | Zsadány |
+|  |  | Vésztő |
 
 | Borsod-Abaúj-Zemplén megye | Encs | Abaújalpár |
 
 |  |  | Abaújkér |
 
 |  |  | Abaújlak |
+
+|  |  | Abaújszántó |
 
 |  |  | Abaújszolnok |
 
@@ -1089,6 +1091,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Garadna |
 
 |  |  | Gibárt |
+
+|  |  | Golop |
 
 |  |  | Gönc |
 
@@ -1230,6 +1234,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szentistvánbaksa |
 
+|  |  | Szikszó |
+
+|  |  | Tállya |
+
 |  |  | Telkibánya |
 
 |  |  | Tiszacsermely |
@@ -1237,8 +1245,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Tiszakarád |
 
 |  |  | Tolcsva |
-
-|  |  | Tomor |
 
 |  |  | Tornyosnémeti |
 
@@ -1368,8 +1374,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Komjáti |
 
-|  |  | Kondó |
-
 |  |  | Kurityán |
 
 |  |  | Ládbesenyő |
@@ -1396,13 +1400,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Ózd |
 
-|  |  | Parasznya |
-
 |  |  | Perkupa |
 
 |  |  | Putnok |
-
-|  |  | Radostyán |
 
 |  |  | Ragály |
 
@@ -1418,11 +1418,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Sajóivánka |
 
-|  |  | Sajókápolna |
-
 |  |  | Sajókaza |
-
-|  |  | Sajólászlófalva |
 
 |  |  | Sajómercse |
 
@@ -1464,6 +1460,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Teresztenye |
 
+|  |  | Tomor |
+
 |  |  | Tornabarakony |
 
 |  |  | Tornakápolna |
@@ -1480,8 +1478,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Vadna |
 
-|  |  | Varbó |
-
 |  |  | Varbóc |
 
 |  |  | Viszló |
@@ -1492,9 +1488,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zubogy |
 
-|  | Miskolc | Abaújszántó |
-
-|  |  | Alsódobsza |
+|  | Miskolc | Alsódobsza |
 
 |  |  | Alsózsolca |
 
@@ -1524,8 +1518,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Gesztely |
 
-|  |  | Golop |
-
 |  |  | Harsány |
 
 |  |  | Hernádkak |
@@ -1535,6 +1527,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Kisgyőr |
 
 |  |  | Kistokaj |
+
+|  |  | Kondó |
+
+|  |  | Köröm |
 
 |  |  | Legyesbénye |
 
@@ -1554,7 +1550,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Onga |
 
+|  |  | Ónod |
+
+|  |  | Parasznya |
+
 |  |  | Prügy |
+
+|  |  | Radostyán |
 
 |  |  | Rátka |
 
@@ -1564,9 +1566,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Sajóecseg |
 
+|  |  | Sajóhidvég |
+
+|  |  | Sajókápolna |
+
 |  |  | Sajókeresztúr |
 
 |  |  | Sajólád |
+
+|  |  | Sajólászlófalva |
 
 |  |  | Sajópálfala |
 
@@ -1584,8 +1592,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szerencs |
 
-|  |  | Szikszó |
-
 |  |  | Szirmabesenyő |
 
 |  |  | Taktabáj |
@@ -1595,8 +1601,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Taktakenéz |
 
 |  |  | Taktaszada |
-
-|  |  | Tállya |
 
 |  |  | Tarcal |
 
@@ -1609,6 +1613,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Tokaj |
 
 |  |  | Újcsanálos |
+
+|  |  | Varbó |
 
 |  | Tiszaújváros | Ároktő |
 
@@ -1652,8 +1658,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Kiscsécs |
 
-|  |  | Köröm |
-
 |  |  | Mezőcsát |
 
 |  |  | Mezőkeresztes |
@@ -1672,11 +1676,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nemesbikk |
 
-|  |  | Ónod |
-
 |  |  | Oszlár |
-
-|  |  | Sajóhídvég |
 
 |  |  | Sajóörös |
 
@@ -1852,21 +1852,19 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Előszállás |
 
+|  |  | Enying |
+
 |  |  | Hantos |
 
 |  |  | Igar |
 
 |  |  | Iváncsa |
 
-|  |  | Káloz |
-
 |  |  | Kisapostag |
 
 |  |  | Kulcs |
 
 |  |  | Lajoskomárom |
-
-|  |  | Mátyásdomb |
 
 |  |  | Mezőfalva |
 
@@ -1886,19 +1884,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Rácalmás |
 
-|  |  | Ráckeresztúr |
-
 |  |  | Sárbogárd |
 
 |  |  | Sáregres |
 
 |  |  | Sárkeresztúr |
 
-|  |  | Sárosd |
-
 |  |  | Sárszentágota |
-
-|  |  | Szabadegyháza |
 
 |  |  | Szabadhídvég |
 
@@ -1934,8 +1926,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Csősz |
 
-|  |  | Enying |
-
 |  |  | Ercsi, kivéve MOL Rt. Dunai Finomító üzemi területe |
 
 |  |  | Etyek |
@@ -1960,6 +1950,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Kajászó |
 
+|  |  | Káloz |
+
 |  |  | Kápolnásnyék |
 
 |  |  | Kincsesbánya |
@@ -1977,6 +1969,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Mány |
 
 |  |  | Martonvásár |
+
+|  |  | Mátyásdomb |
 
 |  |  | Mezőszentgyörgy |
 
@@ -2002,9 +1996,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pusztavám |
 
+|  |  | Ráckeresztúr |
+
 |  |  | Sárkeresztes |
 
 |  |  | Sárkeszi |
+
+|  |  | Sárosd |
 
 |  |  | Sárszentmihály |
 
@@ -2017,6 +2015,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Sukoró |
 
 |  |  | Szabadbattyán |
+
+|  |  | Szabadegyháza |
 
 |  |  | Szár |
 
@@ -2056,6 +2056,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Bakonyszentlászló |
 
+|  |  | Bezi |
+
 |  |  | Bőny |
 
 |  |  | Börcs |
@@ -2069,6 +2071,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Écs |
 
 |  |  | Enese |
+
+|  |  | Fehértó |
 
 |  |  | Felpéc |
 
@@ -2088,6 +2092,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Győrság |
 
+|  |  | Győrsövényház |
+
 |  |  | Győrszemere |
 
 |  |  | Győrújbarát |
@@ -2100,6 +2106,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Kajárpéc |
 
+|  |  | Kisbabot |
+
 |  |  | Kisbajcs |
 
 |  |  | Koroncó |
@@ -2109,6 +2117,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Lázi |
 
 |  |  | Mezőörs |
+
+|  |  | Mérges |
+
+|  |  | Mosonszentmiklós |
 
 |  |  | Mórichida |
 
@@ -2128,7 +2140,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pér |
 
+|  |  | Rábacsécsény |
+
 |  |  | Rábapatona |
+
+|  |  | Rábaszentmihály |
 
 |  |  | Rábaszentmiklós |
 
@@ -2172,8 +2188,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Beled |
 
-|  |  | Bezi |
-
 |  |  | Bodonhely |
 
 |  |  | Bogyoszló |
@@ -2196,11 +2210,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Farád |
 
-|  |  | Fehértó |
-
 |  |  | Gyóró |
-
-|  |  | Győrsövényház |
 
 |  |  | Himod |
 
@@ -2209,8 +2219,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Jobaháza |
 
 |  |  | Kapuvár |
-
-|  |  | Kisbabot |
 
 |  |  | Kisfalud |
 
@@ -2221,8 +2229,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Magyarkeresztúr |
 
 |  |  | Markotabödöge |
-
-|  |  | Mérges |
 
 |  |  | Mihályi |
 
@@ -2236,8 +2242,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Rábacsanak |
 
-|  |  | Rábacsécsény |
-
 |  |  | Rábakecöl |
 
 |  |  | Rábapordány |
@@ -2246,11 +2250,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Rábaszentandrás |
 
-|  |  | Rábaszentmihály |
-
 |  |  | Rábatamási |
 
 |  |  | Rábcakapi |
+
+|  |  | Répceszemere |
 
 |  |  | Sobor |
 
@@ -2317,8 +2321,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Mecsér |
 
 |  |  | Mosonmagyaróvár |
-
-|  |  | Mosonszentmiklós |
 
 |  |  | Mosonszolnok |
 
@@ -2388,8 +2390,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pusztacsalád |
 
-|  |  | Répceszemere |
-
 |  |  | Répcevis |
 
 |  |  | Röjtökmuzsaj |
@@ -2414,17 +2414,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 | Hajdú-Bihar megye | Debrecen | Álmosd |
 
-|  |  | Ártánd |
-
 |  |  | Bagamér |
-
-|  |  | Balmazújváros |
-
-|  |  | Bedő |
-
-|  |  | Bocskaikert |
-
-|  |  | Bojt |
 
 |  |  | Debrecen |
 
@@ -2432,27 +2422,17 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Ebes |
 
-|  |  | Egyek |
-
 |  |  | Esztár |
 
 |  |  | Fülöp |
 
 |  |  | Hajdúbagos |
 
-|  |  | Hajdúböszörmény |
-
-|  |  | Hajdúhadház |
-
 |  |  | Hajdúsámson |
 
 |  |  | Hajdúszoboszló |
 
 |  |  | Hajdúszovát |
-
-|  |  | Hencida |
-
-|  |  | Hortobágy |
 
 |  |  | Hosszúpályi |
 
@@ -2468,9 +2448,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Monostorpályi |
 
-|  |  | Nagyhegyes |
+|  |  | Nádudvar |
 
-|  |  | Nagykereki |
+|  |  | Nagyhegyes |
 
 |  |  | Nyírábrány |
 
@@ -2484,25 +2464,37 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Sáránd |
 
-|  |  | Téglás |
-
 |  |  | Tépe |
-
-|  |  | Tiszacsege |
 
 |  |  | Újléta |
 
 |  |  | Vámospércs |
 
-|  | Hajdúnánás | Folyás |
+|  | Hajdúnánás | Balmazújváros |
+
+|  |  | Bocskaikert |
+
+|  |  | Egyek |
+
+|  |  | Folyás |
 
 |  |  | Görbeháza |
 
+|  |  | Hajdúböszörmény |
+
 |  |  | Hajdúdorog |
+
+|  |  | Hajdúhadház |
 
 |  |  | Hajdúnánás |
 
+|  |  | Hortobágy |
+
 |  |  | Polgár |
+
+|  |  | Téglás |
+
+|  |  | Tiszacsege |
 
 |  |  | Tiszagyulaháza |
 
@@ -2510,9 +2502,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Újtikos |
 
-|  | Püspökladány | Bakonszeg |
+|  | Püspökladány | Ártánd |
+
+|  |  | Bakonszeg |
 
 |  |  | Báránd |
+
+|  |  | Bedő |
 
 |  |  | Berekböszörmény |
 
@@ -2526,6 +2522,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Bihartorda |
 
+|  |  | Bojt |
+
 |  |  | Csökmő |
 
 |  |  | Darvas |
@@ -2535,6 +2533,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Furta |
 
 |  |  | Gáborján |
+
+|  |  | Hencida |
 
 |  |  | Kaba |
 
@@ -2550,7 +2550,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Mezősas |
 
-|  |  | Nádudvar |
+|  |  | Nagykereki |
 
 |  |  | Nagyrábé |
 
@@ -2892,13 +2892,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Tomajmonostora |
 
-|  | Mezőtúr | Csépa |
+|  | Mezőtúr | Cibakháza |
+
+|  |  | Csépa |
 
 |  |  | Cserkeszőlő |
 
 |  |  | Kétpó |
-
-|  |  | Kuncsorba |
 
 |  |  | Kunszentmárton |
 
@@ -2914,6 +2914,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szelevény |
 
+|  |  | Tiszaföldvár |
+
 |  |  | Tiszainoka |
 
 |  |  | Tiszakürt |
@@ -2924,8 +2926,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  | Szolnok | Besenyszög |
 
-|  |  | Cibakháza |
-
 |  |  | Csataszög |
 
 |  |  | Fegyvernek |
@@ -2935,6 +2935,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Kengyel |
 
 |  |  | Kőtelek |
+
+|  |  | Kuncsorba |
 
 |  |  | Martfű |
 
@@ -2951,8 +2953,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Szászberek |
 
 |  |  | Szolnok |
-
-|  |  | Tiszaföldvár |
 
 |  |  | Tiszajenő |
 
@@ -2992,10 +2992,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Esztergom |
 
-|  |  | Gyermely |
-
-|  |  | Héreg |
-
 |  |  | Kesztölc |
 
 |  |  | Lábatlan |
@@ -3017,8 +3013,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Sárisáp |
 
 |  |  | Süttő |
-
-|  |  | Szomor |
 
 |  |  | Tát |
 
@@ -3070,6 +3064,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Ete |
 
+|  |  | Gyermely |
+
+|  |  | Héreg |
+
 |  |  | Kecskéd |
 
 |  |  | Kerékteleki |
@@ -3106,6 +3104,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szomód |
 
+|  |  | Szomor |
+
 |  |  | Tardos |
 
 |  |  | Tarján |
@@ -3134,8 +3134,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Becske |
 
-|  |  | Bér |
-
 |  |  | Bercel |
 
 |  |  | Berkenye |
@@ -3160,10 +3158,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Endrefalva |
 
-|  |  | Erdőkürt |
-
-|  |  | Erdőtarcsa |
-
 |  |  | Érsekvadkert |
 
 |  |  | Felsőpetény |
@@ -3185,8 +3179,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Ipolyszög |
 
 |  |  | Ipolyvece |
-
-|  |  | Kálló |
 
 |  |  | Keszeg |
 
@@ -3234,6 +3226,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Patvarc |
 
+|  |  | Piliny |
+
 |  |  | Pusztaberki |
 
 |  |  | Rétság |
@@ -3241,6 +3235,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Rimóc |
 
 |  |  | Romhány |
+
+|  |  | Szalmatercs |
 
 |  |  | Szanda |
 
@@ -3256,8 +3252,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szente |
 
-|  |  | Szirák |
-
 |  |  | Szügy |
 
 |  |  | Terény |
@@ -3266,8 +3260,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Tolmács |
 
-|  |  | Vanyarc |
-
 |  |  | Varsány |
 
 |  | Salgótarján | Alsótold |
@@ -3275,6 +3267,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Bárna |
 
 |  |  | Bátonyterenye |
+
+|  |  | Bér |
 
 |  |  | Bokor |
 
@@ -3294,6 +3288,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Egyházasgerge |
 
+|  |  | Erdőkürt |
+
+|  |  | Erdőtarcsa |
+
 |  |  | Etes |
 
 |  |  | Felsőtold |
@@ -3305,6 +3303,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Ipolytarnóc |
 
 |  |  | Jobbágyi |
+
+|  |  | Kálló |
 
 |  |  | Karancsalja |
 
@@ -3358,8 +3358,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pásztó |
 
-|  |  | Piliny |
-
 |  |  | Rákóczibánya |
 
 |  |  | Ságújfalu |
@@ -3372,17 +3370,19 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Sóshartyán |
 
-|  |  | Szalmatercs |
-
 |  |  | Szarvasgede |
 
 |  |  | Szilaspogony |
+
+|  |  | Szirák |
 
 |  |  | Szuha |
 
 |  |  | Szurdokpüspöki |
 
 |  |  | Tar |
+
+|  |  | Vanyarc |
 
 |  |  | Vizslás |
 
@@ -3398,6 +3398,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Csemő |
 
+|  |  | Dánszentmiklós |
+
 |  |  | Farmos |
 
 |  |  | Jászkarajenő |
@@ -3408,6 +3410,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Kőröstetétlen |
 
+|  |  | Mende |
+
 |  |  | Mikebuda |
 
 |  |  | Nagykáta |
@@ -3417,6 +3421,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Nyársapát |
 
 |  |  | Pánd |
+
+|  |  | Sülysáp |
 
 |  |  | Szentlőrinckáta |
 
@@ -3441,6 +3447,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Törtel |
 
 |  |  | Újszilvás |
+
+|  |  | Úri |
 
 |  | Érd | Apaj |
 
@@ -3490,6 +3498,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pilisjászfalu |
 
+|  |  | Pilisszántó |
+
 |  |  | Pilisszentiván |
 
 |  |  | Pilisvörösvár |
@@ -3536,9 +3546,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zsámbék |
 
-|  | Gödöllő | Acsa |
-
-|  |  | Aszód |
+|  | Gödöllő | Aszód |
 
 |  |  | Bag |
 
@@ -3549,10 +3557,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Domony |
 
 |  |  | Erdőkertes |
-
-|  |  | Fót |
-
-|  |  | Galgagyörk |
 
 |  |  | Galgahévíz |
 
@@ -3576,15 +3580,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nagytarcsa |
 
-|  |  | Őrbottyán |
+|  |  | Pécel |
 
 |  |  | Szada |
 
 |  |  | Tura |
 
 |  |  | Vácegres |
-
-|  |  | Váckisújfalu |
 
 |  |  | Vácszentlászló |
 
@@ -3606,8 +3608,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Dabas |
 
-|  |  | Dánszentmiklós |
-
 |  |  | Ecser |
 
 |  |  | Felsőpakony |
@@ -3628,8 +3628,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Maglód |
 
-|  |  | Mende |
-
 |  |  | Monor |
 
 |  |  | Monorierdő |
@@ -3640,15 +3638,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Örkény |
 
-|  |  | Pécel |
-
 |  |  | Péteri |
 
 |  |  | Pilis |
 
 |  |  | Pusztavacs |
-
-|  |  | Sülysáp |
 
 |  |  | Táborfalva |
 
@@ -3658,15 +3652,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Újlengyel |
 
-|  |  | Úri |
-
 |  |  | Üllő |
 
 |  |  | Vasad |
 
 |  |  | Vecsés |
 
-|  | Vác | Bernecebaráti |
+|  | Vác | Acsa |
+
+|  |  | Bernecebaráti |
 
 |  |  | Budakalász |
 
@@ -3681,6 +3675,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Dunabogdány |
 
 |  |  | Dunakeszi |
+
+|  |  | Fót |
+
+|  |  | Galgagyörk |
 
 |  |  | Göd |
 
@@ -3710,11 +3708,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nagymaros |
 
+|  |  | Őrbottyán |
+
 |  |  | Penc |
 
 |  |  | Perőcsény |
-
-|  |  | Pilisszántó |
 
 |  |  | Pilisszentkereszt |
 
@@ -3751,6 +3749,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Vácduka |
 
 |  |  | Váchartyán |
+
+|  |  | Váckisújfalu |
 
 |  |  | Vácrátót |
 
@@ -3804,6 +3804,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Iharosberény |
 
+|  |  | Inke |
+
 |  |  | Istvándi |
 
 |  |  | Kálmáncsa |
@@ -3820,6 +3822,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Lábod |
 
+|  |  | Lad |
+
 |  |  | Lakócsa |
 
 |  |  | Nagyatád |
@@ -3829,6 +3833,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Őrtilos |
 
 |  |  | Ötvöskónyi |
+
+|  |  | Patosfa |
 
 |  |  | Péterhida |
 
@@ -3888,8 +3894,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Bodrog |
 
-|  |  | Bonnya |
-
 |  |  | Bőszénfa |
 
 |  |  | Büssü |
@@ -3908,15 +3912,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Felsőmocsolád |
 
-|  |  | Fiad |
-
 |  |  | Fonó |
 
 |  |  | Gadács |
 
 |  |  | Gálosfa |
-
-|  |  | Gamás |
 
 |  |  | Gige |
 
@@ -3960,15 +3960,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Kisasszond |
 
-|  |  | Kisbárapáti |
-
 |  |  | Kisgyalán |
 
 |  |  | Kiskorpád |
 
 |  |  | Kőkút |
-
-|  |  | Lad |
 
 |  |  | Magyaratád |
 
@@ -3982,6 +3978,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Mosdós |
 
+|  |  | Nagybajom |
+
 |  |  | Nagyberki |
 
 |  |  | Orci |
@@ -3993,8 +3991,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Patalom |
 
 |  |  | Patca |
-
-|  |  | Patosfa |
 
 |  |  | Polány |
 
@@ -4009,6 +4005,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Somodor |
 
 |  |  | Somogyaszaló |
+
+|  |  | Somogyfajsz |
 
 |  |  | Somogygeszti |
 
@@ -4046,8 +4044,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  | Marcali | Balatonberény |
 
-|  |  | Balatonfenyves |
-
 |  |  | Balatonkeresztúr |
 
 |  |  | Balatonmáriafürdő |
@@ -4057,8 +4053,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Balatonújlak |
 
 |  |  | Böhönye |
-
-|  |  | Buzsák |
 
 |  |  | Csákány |
 
@@ -4072,8 +4066,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Hosszúvíz |
 
-|  |  | Inke |
-
 |  |  | Kelevíz |
 
 |  |  | Kéthely |
@@ -4083,8 +4075,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Marcali |
 
 |  |  | Mesztegnyő |
-
-|  |  | Nagybajom |
 
 |  |  | Nagyszakácsi |
 
@@ -4096,25 +4086,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nikla |
 
-|  |  | Öreglak |
-
-|  |  | Pamuk |
-
 |  |  | Pusztakovácsi |
 
 |  |  | Sávoly |
-
-|  |  | Somogyfajsz |
 
 |  |  | Somogysámson |
 
 |  |  | Somogysimonyi |
 
 |  |  | Somogyszentpál |
-
-|  |  | Somogyvámos |
-
-|  |  | Somogyvár |
 
 |  |  | Somogyzsitfa |
 
@@ -4146,6 +4126,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Balatonendréd |
 
+|  |  | Balatonfenyves |
+
 |  |  | Balatonföldvár |
 
 |  |  | Balatonlelle |
@@ -4158,11 +4140,21 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Balatonszemes |
 
+|  |  | Balatonvilágos |
+
 |  |  | Bálványos |
 
 |  |  | Bedegkér |
 
+|  |  | Bonnya |
+
+|  |  | Buzsák |
+
+|  |  | Fiad |
+
 |  |  | Fonyód |
+
+|  |  | Gamás |
 
 |  |  | Gyugy |
 
@@ -4177,6 +4169,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Karád |
 
 |  |  | Kereki |
+
+|  |  | Kisbárapáti |
 
 |  |  | Kisberény |
 
@@ -4202,6 +4196,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Ordacsehi |
 
+|  |  | Öreglak |
+
+|  |  | Pamuk |
+
 |  |  | Pusztaszemes |
 
 |  |  | Ságvár |
@@ -4225,6 +4223,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Somogymeggyes |
 
 |  |  | Somogytúr |
+
+|  |  | Somogyvámos |
+
+|  |  | Somogyvár |
 
 |  |  | Szántód |
 
@@ -4438,13 +4440,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Benk |
 
-|  |  | Berkesz |
-
-|  |  | Beszterec |
-
 |  |  | Buj |
-
-|  |  | Demecser |
 
 |  |  | Dombrád |
 
@@ -4456,8 +4452,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Gávavencsellő |
 
-|  |  | Gégény |
-
 |  |  | Győröcske |
 
 |  |  | Gyulaháza |
@@ -4465,8 +4459,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Ibrány |
 
 |  |  | Jéke |
-
-|  |  | Kék |
 
 |  |  | Kékcse |
 
@@ -4508,8 +4500,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Tiszamogyorós |
 
-|  |  | Tiszarád |
-
 |  |  | Tiszaszentmárton |
 
 |  |  | Tiszatelek |
@@ -4521,8 +4511,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Újdombrád |
 
 |  |  | Újkenéz |
-
-|  |  | Vasmegyer |
 
 |  |  | Záhony |
 
@@ -4547,8 +4535,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Hodász |
 
 |  |  | Jármi |
-
-|  |  | Kállósemjén |
 
 |  |  | Kántorjánosi |
 
@@ -4600,6 +4586,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nyírmeggyes |
 
+|  |  | Nyírmihálydi |
+
 |  |  | Nyírparasznya |
 
 |  |  | Nyírpilis |
@@ -4648,15 +4636,27 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Balkány |
 
+|  |  | Berkesz |
+
+|  |  | Beszterec |
+
 |  |  | Biri |
 
 |  |  | Bököny |
 
+|  |  | Demecser |
+
 |  |  | Érpatak |
+
+|  |  | Gégény |
 
 |  |  | Geszteréd |
 
+|  |  | Kállósemjén |
+
 |  |  | Kálmánháza |
+
+|  |  | Kék |
 
 |  |  | Kemecse |
 
@@ -4671,8 +4671,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Nyírbogdány |
 
 |  |  | Nyíregyháza |
-
-|  |  | Nyírmihálydi |
 
 |  |  | Nyírpazony |
 
@@ -4706,11 +4704,17 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Tiszanagyfalu |
 
+|  |  | Tiszarád |
+
 |  |  | Tiszavasvári |
 
 |  |  | Újfehértó |
 
+|  |  | Vasmegyer |
+
 | Tolna megye | Dombóvár | Attala |
+
+|  |  | Belecska |
 
 |  |  | Csibrák |
 
@@ -4718,9 +4722,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Dalmand |
 
+|  |  | Diósberény |
+
 |  |  | Dombóvár |
 
 |  |  | Döbrököz |
+
+|  |  | Dúzs |
 
 |  |  | Értény |
 
@@ -4728,15 +4736,23 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Fürged |
 
+|  |  | Gyönk |
+
 |  |  | Gyulaj |
+
+|  |  | Hőgyész |
 
 |  |  | Iregszemcse |
 
 |  |  | Jágónak |
 
+|  |  | Kalaznó |
+
 |  |  | Kapospula |
 
 |  |  | Kaposszekcső |
+
+|  |  | Keszőhidegkút |
 
 |  |  | Kisszékely |
 
@@ -4749,6 +4765,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Lápafő |
 
 |  |  | Magyarkeszi |
+
+|  |  | Miszla |
+
+|  |  | Mucsi |
 
 |  |  | Nagykónyi |
 
@@ -4764,15 +4784,29 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pincehely |
 
+|  |  | Regöly |
+
+|  |  | Simontornya |
+
+|  |  | Szakadát |
+
+|  |  | Szakály |
+
 |  |  | Szakcs |
+
+|  |  | Szárazd |
 
 |  |  | Tamási |
 
 |  |  | Tolnanémedi |
 
+|  |  | Udvari |
+
 |  |  | Újireg |
 
 |  |  | Várong |
+
+|  |  | Varsád |
 
 |  | Paks | Bikács |
 
@@ -4782,11 +4816,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Dunaszentgyörgy |
 
-|  |  | Fadd |
-
 |  |  | Gerjen |
 
 |  |  | Györköny |
+
+|  |  | Kajdacs |
 
 |  |  | Madocsa |
 
@@ -4802,8 +4836,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Sárszentlőrinc |
 
-|  |  | Simontornya |
-
 |  |  | Tengelic |
 
 |  | Szekszárd | Alsónána |
@@ -4818,8 +4850,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Bátaszék |
 
-|  |  | Belecska |
-
 |  |  | Bogyiszló |
 
 |  |  | Bonyhád |
@@ -4830,33 +4860,21 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Decs |
 
-|  |  | Diósberény |
-
-|  |  | Dúzs |
-
 |  |  | Fácánkert |
+
+|  |  | Fadd |
 
 |  |  | Felsőnána |
 
 |  |  | Grábóc |
 
-|  |  | Gyönk |
-
 |  |  | Györe |
 
 |  |  | Harc |
 
-|  |  | Hőgyész |
-
 |  |  | Izmény |
 
-|  |  | Kajdacs |
-
 |  |  | Kakasd |
-
-|  |  | Kalaznó |
-
-|  |  | Keszőhidegkút |
 
 |  |  | Kéty |
 
@@ -4874,15 +4892,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Medina |
 
-|  |  | Miszla |
-
 |  |  | Mórágy |
 
 |  |  | Mőcsény |
 
 |  |  | Mucsfa |
-
-|  |  | Mucsi |
 
 |  |  | Murga |
 
@@ -4894,19 +4908,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Pörböly |
 
-|  |  | Regöly |
-
 |  |  | Sárpilis |
 
 |  |  | Sióagárd |
 
-|  |  | Szakadát |
-
-|  |  | Szakály |
-
 |  |  | Szálka |
-
-|  |  | Szárazd |
 
 |  |  | Szedres |
 
@@ -4916,13 +4922,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Tolna |
 
-|  |  | Udvari |
-
 |  |  | Váralja |
 
 |  |  | Várdomb |
-
-|  |  | Varsád |
 
 |  |  | Závod |
 
@@ -4944,6 +4946,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Csehi |
 
+|  |  | Csehimindszent |
+
+|  |  | Csipkerek |
+
 |  |  | Csörötnek |
 
 |  |  | Daraboshegy |
@@ -4951,6 +4957,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Döbörhegy |
 
 |  |  | Döröske |
+
+|  |  | Egervölgy |
 
 |  |  | Egyházashollós |
 
@@ -5014,6 +5022,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Magyarszombatfa |
 
+|  |  | Mikosszéplak |
+
 |  |  | Molnaszecsőd |
 
 |  |  | Nádasd |
@@ -5072,9 +5082,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szatta |
 
-|  |  | Szentgotthárd |
+|  |  | Szemenye |
 
-|  |  | Szentpéterfa |
+|  |  | Szentgotthárd |
 
 |  |  | Szőce |
 
@@ -5108,17 +5118,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Csánig |
 
-|  |  | Csehimindszent |
-
 |  |  | Csénye |
-
-|  |  | Csipkerek |
 
 |  |  | Csönge |
 
 |  |  | Duka |
-
-|  |  | Egervölgy |
 
 |  |  | Egyházashetye |
 
@@ -5131,8 +5135,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Hosszúpereszteg |
 
 |  |  | Ikervár |
-
-|  |  | Iklanberény |
 
 |  |  | Jákfa |
 
@@ -5164,8 +5166,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Köcsk |
 
-|  |  | Lócs |
-
 |  |  | Meggyeskovácsi |
 
 |  |  | Megyehíd |
@@ -5175,8 +5175,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Mesterháza |
 
 |  |  | Mesteri |
-
-|  |  | Mikosszéplak |
 
 |  |  | Nagygeresd |
 
@@ -5210,8 +5208,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Répceszentgyörgy |
 
-|  |  | Rum |
-
 |  |  | Sajtoskál |
 
 |  |  | Sárvár |
@@ -5224,15 +5220,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szeleste |
 
-|  |  | Szemenye |
-
 |  |  | Szergény |
 
 |  |  | Tokorcs |
 
 |  |  | Tompaládony |
-
-|  |  | Tormásliget |
 
 |  |  | Uraiújfalu |
 
@@ -5244,13 +5236,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Vashosszúfalu |
 
-|  |  | Vát |
-
 |  |  | Vönöck |
 
 |  |  | Zsédeny |
-
-|  |  | Zsennye |
 
 |  | Szombathely | Acsád |
 
@@ -5284,6 +5272,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Horvátzsidány |
 
+|  |  | Iklanberény |
+
 |  |  | Ják |
 
 |  |  | Kisunyom |
@@ -5297,6 +5287,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Kőszegpaty |
 
 |  |  | Kőszegszerdahely |
+
+|  |  | Lócs |
 
 |  |  | Lukácsháza |
 
@@ -5324,6 +5316,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Rábatöttös |
 
+|  |  | Rum |
+
 |  |  | Salköveskút |
 
 |  |  | Sé |
@@ -5336,11 +5330,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Söpte |
 
+|  |  | Szentpéterfa |
+
 |  |  | Szombathely |
 
 |  |  | Tanakajd |
 
 |  |  | Táplánszentkereszt |
+
+|  |  | Tormásliget |
 
 |  |  | Torony |
 
@@ -5356,11 +5354,17 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Vasszilvágy |
 
+|  |  | Vát |
+
 |  |  | Velem |
 
 |  |  | Vép |
 
+|  |  | Zsennye |
+
 | Veszprém megye | Ajka | Ábrahámhegy |
+
+|  |  | Adorjánháza |
 
 |  |  | Ajka |
 
@@ -5376,8 +5380,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Balatonrendes |
 
-|  |  | Balatonszepezd |
-
 |  |  | Bazsi |
 
 |  |  | Bodorfa |
@@ -5392,9 +5394,13 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Dabronc |
 
+|  |  | Dabrony |
+
 |  |  | Devecser |
 
 |  |  | Doba |
+
+|  |  | Egeralja |
 
 |  |  | Farkasgyepű |
 
@@ -5417,6 +5423,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Iszkáz |
 
 |  |  | Kamond |
+
+|  |  | Kapolcs |
 
 |  |  | Káptalanfa |
 
@@ -5458,6 +5466,10 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Mindszentkálla |
 
+|  |  | Monostorapáti |
+
+|  |  | Nagyalásony |
+
 |  |  | Nagypirit |
 
 |  |  | Nemesgulács |
@@ -5471,6 +5483,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Nyirád |
 
 |  |  | Oroszi |
+
+|  |  | Öcs |
 
 |  |  | Pusztamiske |
 
@@ -5504,6 +5518,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szőc |
 
+|  |  | Taliándörögd |
+
 |  |  | Tapolca |
 
 |  |  | Tüskevár |
@@ -5520,6 +5536,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Vid |
 
+|  |  | Vigántpetend |
+
 |  |  | Zalaerdőd |
 
 |  |  | Zalagyömörő |
@@ -5531,8 +5549,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Zalaszegvár |
 
 |  | Pápa | Adásztevel |
-
-|  |  | Adorjánháza |
 
 |  |  | Bakonyjákó |
 
@@ -5554,13 +5570,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Csót |
 
-|  |  | Dabrony |
-
 |  |  | Dáka |
 
 |  |  | Döbrönte |
-
-|  |  | Egeralja |
 
 |  |  | Egyházaskesző |
 
@@ -5595,8 +5607,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Mihályháza |
 
 |  |  | Nagyacsád |
-
-|  |  | Nagyalásony |
 
 |  |  | Nagydém |
 
@@ -5662,11 +5672,11 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Balatonkenese |
 
+|  |  | Balatonszepezd |
+
 |  |  | Balatonszőlős |
 
 |  |  | Balatonudvari |
-
-|  |  | Balatonvilágos |
 
 |  |  | Bánd |
 
@@ -5702,8 +5712,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Jásd |
 
-|  |  | Kapolcs |
-
 |  |  | Királyszentistván |
 
 |  |  | Küngös |
@@ -5718,8 +5726,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Mencshely |
 
-|  |  | Monostorapáti |
-
 |  |  | Monoszló |
 
 |  |  | Nagyesztergár |
@@ -5731,8 +5737,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Óbudavár |
 
 |  |  | Olaszfalu |
-
-|  |  | Öcs |
 
 |  |  | Örvényes |
 
@@ -5768,8 +5772,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Tagyon |
 
-|  |  | Taliándörögd |
-
 |  |  | Tés |
 
 |  |  | Tihany |
@@ -5784,8 +5786,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Veszprémfajsz |
 
-|  |  | Vigántpetend |
-
 |  |  | Vilonya |
 
 |  |  | Vöröstó |
@@ -5794,9 +5794,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zirc |
 
-| Zala megye | Keszthely | Almásháza |
-
-|  |  | Alsópáhok |
+| Zala megye | Keszthely | Alsópáhok |
 
 |  |  | Balatongyörök |
 
@@ -5817,8 +5815,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Esztergályhorváti |
 
 |  |  | Felsőpáhok |
-
-|  |  | Felsőrajk |
 
 |  |  | Gétye |
 
@@ -5846,11 +5842,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nemesbük |
 
-|  |  | Nemesrádó |
-
 |  |  | Óhíd |
-
-|  |  | Pacsa |
 
 |  |  | Pakod |
 
@@ -5866,11 +5858,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szentgyörgyvár |
 
-|  |  | Szentpéterúr |
-
 |  |  | Tekenye |
-
-|  |  | Tilaj |
 
 |  |  | Türje |
 
@@ -5891,8 +5879,6 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Zalabér |
 
 |  |  | Zalacsány |
-
-|  |  | Zalaigrice |
 
 |  |  | Zalaköveskút |
 
@@ -5932,9 +5918,9 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Csörnyeföld |
 
-|  |  | Dobri |
-
 |  |  | Eszteregnye |
+
+|  |  | Felsőrajk |
 
 |  |  | Fityeház |
 
@@ -6062,6 +6048,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  | Zalaegerszeg | Alibánfa |
 
+|  |  | Almásháza |
+
 |  |  | Alsónemesapáti |
 
 |  |  | Alsószenterzsébet |
@@ -6105,6 +6093,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Csöde |
 
 |  |  | Csömödér |
+
+|  |  | Dobri |
 
 |  |  | Dobronhegy |
 
@@ -6204,6 +6194,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Nemesnép |
 
+|  |  | Nemesrádó |
+
 |  |  | Nemessándorháza |
 
 |  |  | Nemesszentandrás |
@@ -6219,6 +6211,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  |  | Ortaháza |
 
 |  |  | Ozmánbük |
+
+|  |  | Pacsa |
 
 |  |  | Padár |
 
@@ -6264,11 +6258,15 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Szentpéterfölde |
 
+|  |  | Szentpéterúr |
+
 |  |  | Szijártóháza |
 
 |  |  | Szilvágy |
 
 |  |  | Teskánd |
+
+|  |  | Tilaj |
 
 |  |  | Tófej |
 
@@ -6292,6 +6290,8 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zalaháshágy |
 
+|  |  | Zalaigrice |
+
 |  |  | Zalaistvánd |
 
 |  |  | Zalalövő |
@@ -6310,7 +6310,7 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 
 |  |  | Zebecke |
 
-| Budapest | Észak-pesti | Budapest IV., XIII., XIV., XV., XVI. kerülete |
+| Budapest | Észak-pesti | Budapest IV., XIII., XIV., XV., XVI. Kerülete |
 
 |  | Közép-pesti | Budapest V., VI. VII., VIII., IX., X. kerülete |
 
@@ -6319,3 +6319,5 @@ Katasztrófavédelmi kirendeltségek illetékességi területe
 |  | Észak-budai | Budapest I., II., III., XII. kerülete |
 
 |  | Dél-budai | Budapest XI., XXI., XXII. kerülete |
+
+[^3]: Az 1. melléklet a 71/2012. (XII. 14.) BM rendelet – 87/2012. (XII. 29.) BM rendelet 3. §-a szerint módosított – 11. § (2) bekezdésével megállapított szöveg.
