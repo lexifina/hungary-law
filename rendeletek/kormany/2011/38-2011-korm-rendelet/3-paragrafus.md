@@ -12,7 +12,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 2. | Egységes szociális nyilvántartás | államigazgatási szerv | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
-| 3. | Az Áht. 124. § (2) bekezdés l) pontjában foglalt felhatalmazás alapján kiadott kormányrendelet-ben meghatározott nyilvántartások, ide nem értve a Magyar Államkincstár által működtetett kincstári monitoring rendszert | Kopint-Datorg Zrt. | elektronikus adatfeldolgozás | kötelező |
+| 3. | Az Áht. 124. § (2) bekezdés l) pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben meghatározott nyilvántartások, ide nem értve a Magyar Államkincstár által működtetett kincstári monitoring rendszert | Kopint-Datorg Zrt. | elektronikus adatfeldolgozás | kötelező |
 
 | államigazgatási szerv | nem elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
@@ -20,7 +20,11 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 5. | Földhasználati nyilvántartás | Földmérési és Távérzékelési Intézet és földhivatalok | teljes adatfeldolgozás | kötelező |
 
-| 6. | Az állami földmérési alaptérképek, nagyméretarányú állami topográfiai térképek, alapponthálózatok, az államhatár földmérési munkarészei, valamint a magyarországi hivatalos földrajzi nevek nyilvántartása | Földmérési és Távérzékelési Intézet és földhivatalok | teljes adatfeldolgozás | kötelező |
+| 6.1. | Az államhatár adatbázisa, az állami nagyméretarányú topográfiai térképi adatbázisok, az állami távérzékelési adatbázisok, a Földrajzinév-tár adatbázis | Földmérési és Távérzékelési Intézet | teljes adatfeldolgozás | kötelező |
+
+| 6.2. | Az alapponthálózati pontok adatbázisa, az állami földmérési alaptérképi adatbázis, az állami ingatlan-nyilvántartási térképi adatbázis, az archív analóg és digitális térképi adatok adatbázisai. | Földmérési és Távérzékelési Intézet és földhivatalok | teljes adatfeldolgozás | kötelező |
+
+| 6.3. | Ingatlan-nyilvántartás | Földmérési és Távérzékelési Intézet és földhivatalok | teljes adatfeldolgozás | kötelező |
 
 | 7. | Közepes és kisméretarányú állami topográfiai térképek | MH Geoinformációs Szolgálat és HM Térképészeti Közhasznú Nonprofit Kft. | teljes adatfeldolgozás | kötelező |
 
@@ -38,7 +42,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 14. | Kulturális örökségvédelmi nyilvántartás | Kopint-Datorg Zrt. | elektronikus adatfeldolgozás | kötelező |
 
-| államigazgatási szerv | nem elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+|  |  | államigazgatási szerv | nem elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
 | 15. | A Nemzeti Adó- és Vámhivatal által kezelt adóhatósági és vámhatósági adatok nyilvántartása | Pillér Pénzügyi és Számítástechnikai Kft. | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
@@ -58,4 +62,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 23. | Bűnügyi nyilvántartási rendszer | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
-[^1]: A melléklet a 63/2012. (IV. 2.) Korm. rendelet 5. § (6) bekezdése szerint módosított szöveg.
+[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
