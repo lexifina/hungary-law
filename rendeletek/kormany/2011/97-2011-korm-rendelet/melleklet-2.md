@@ -4,13 +4,13 @@
 
 | Sor- szám | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként kutatási nagyberendezés és a hozzá tartozó építmények, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Szeged, 01392/19 | Általános építésügyi hatósági engedélyek | Csongád Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | Kiemelt nagyberuházásként kutatási nagyberendezés és a hozzá tartozó építmények, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Szeged, 01392/19 | Általános építésügyi hatósági engedélyek | Szegedi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 2. | Környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 3. | A környezet- és település-egészségügyre, az egészségkárosító kockázatok és esetleges hatások felmérésére, a felszín alatti vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatára, lakott területtől (lakóépülettől) számított védőtávolságok véleményezésére, a talajjal, a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére, az emberi használatra szolgáló felszíni vizek védelmére, továbbá a levegő higiénés követelmények teljesülésére kiterjedően. | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 4. | Környezet-egészségügyi szakkérdésekre, így különösen az egészségkárosító kockázatok és esetleges hatások felmérésére, a veszélyes készítményekkel végzett tevékenység vizsgálatára, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítésére kiterjedően. | Csongrád Megyei Kormányhivatal Szegedi, Kisteleki, Mórahalomi Kistérségi Népegészségügyi Intézete | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
+| 4. | Környezet-egészségügyi szakkérdésekre, így különösen az egészségkárosító kockázatok és esetleges hatások felmérésére, a veszélyes készítményekkel végzett tevékenység vizsgálatára, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítésére kiterjedően. | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatalának Járási Népegészségügyi Intézete | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
 | 5. | Útügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
 
@@ -18,13 +18,13 @@
 
 | 7. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága (Szeged) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8. | Földvédelmi hatósági eljárás | Szegedi Körzeti Földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
+| 8. | Földvédelmi hatósági eljárás | illetékes járási földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
 
-| 9. | Ingatlan-nyilvántartási hatósági eljárások | Szegedi Körzeti Földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
+| 9. | Ingatlan-nyilvántartási hatósági eljárások | illetékes járási földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
 
-| 10. | Ingatlan-nyilvántartási hatósági eljárások | Szegedi Körzeti Földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
+| 10. | Ingatlan-nyilvántartási hatósági eljárások | illetékes járási földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
 
-| 11. | Földmérési hatósági eljárások | Szegedi Körzeti Földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
+| 11. | Földmérési hatósági eljárások | illetékes járási földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
 
 | 12. | Erdészeti hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
 
@@ -34,7 +34,7 @@
 
 | 15. | Talajvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 16. | Kulturális örökségvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 16. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Szegedi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 17. | Vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
@@ -54,7 +54,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. | építésügyi | Csongrád Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | építésügyi | Szegedi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 2. | környezetvédelem, természetvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -84,13 +84,13 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 10. | földművelésügy |
 
-| 10/a | termőföldvédelem | Szegedi Körzeti Földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
+| 10/a | termőföldvédelem | illetékes járási földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
 
 | 10/b | talajvédelem | Csongrád Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 10/c | erdővédelem | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatóság | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 11. | kulturális örökségvédelem | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 11. | régészet és műemlékvédelem | Szegedi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 12. | egészségügy, sugár-egészségügy | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -100,8 +100,8 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | élelmiszer-egészségügy | Csongrád Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16. | területrendezés | Csongrád Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+| 16. | területrendezés | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
 | 17. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi és Vízügyi felügyelőség | Országos Környezetvédelmi és Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^8]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a szerint módosított szöveg.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-97-20-2
 | 2012-08-01 | 2011-97-20-22.4 | 249/2011. (XII. 1.) Korm. rendelet |
 | 2012-10-18 | 2011-97-20-22.5 | 249/2011. (XII. 1.) Korm. rendelet |
 | 2012-10-27 | 2011-97-20-22.6 | 299/2012. (X. 26.) Korm. rendelet |
+| 2013-01-01 | 2011-97-20-22.7 | 259/2011. (XII. 7.) Korm. rendelet |
