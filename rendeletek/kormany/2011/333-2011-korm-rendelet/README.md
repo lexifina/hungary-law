@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-333-20-
 | 2012-04-02 | 2011-333-20-22.4 | 60/2012. (III. 30.) Korm. rendelet |
 | 2012-05-01 | 2011-333-20-22.5 | 60/2012. (III. 30.) Korm. rendelet |
 | 2012-12-31 | 2011-333-20-22.6 | 425/2012. (XII. 29.) Korm. rendelet |
+| 2013-01-01 | 2011-333-20-22.7 | 425/2012. (XII. 29.) Korm. rendelet |
