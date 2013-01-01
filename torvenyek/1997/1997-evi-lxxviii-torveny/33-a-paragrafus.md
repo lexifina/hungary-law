@@ -6,4 +6,4 @@
 
 (4) A névjegyzéket vezető szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről névjegyzéket vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(5) Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet az e § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik igazgatási szakértői jogosultsággal, és ez a tag, személy részt vesz a tevékenység ellátásában.
+(5)

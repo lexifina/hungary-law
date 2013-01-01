@@ -1,43 +1,29 @@
-## Az építmény fennmaradásának engedélyezése
+## Szabálytalan tevékenység és jogkövetkezményei
 
-48. § (1) Ha az építményt, építményrészt szabálytalan építési tevékenységgel valósították meg, az építésügyi hatóság arra – az építtető vagy az ingatlannal rendelkezni jogosult kérelme alapján – fennmaradási engedélyt ad, ha a 36. §-ban meghatározott feltételek fennállnak vagy megteremthetők és az építtető az építési jogosultságát igazolta. Ha az építményt, építményrészt építésügyi hatósági engedély nélkül bontották le az építésügyi hatóság azt tudomásul veszi.
+48. § (1) Szabálytalan a
 
-(2) Fennmaradási engedély az (1) bekezdésben foglaltak érvényesítése mellett kiadható akkor is, ha
+a) jogszerűtlenül,
 
-a) az építmény, építményrész átalakítással szabályossá tehető, vagy
+b) jogosulatlanul vagy
 
-b) a szabálytalanság közérdeket nem sért, vagy az érdeksérelem a hatóság által meghatározott határidőn belül elhárítható.
+c) szakszerűtlenül
 
-(3)–(6)
+megkezdett és végzett tevékenység.
 
-(7) Az építményt, építményrészt az engedélyesnek kártalanítási igény nélkül le kell bontania, ha
+(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet
 
-a) a meghatározott időre szóló fennmaradási engedélyben meghatározott idő eltelt,
+a) engedély vagy tudomásul vétel nélkül,
 
-b) a visszavonásig hatályos fennmaradási engedélyt visszavonták, vagy
+b) az engedélytől vagy tudomásul vételtől eltérően,
 
-c) a fennmaradási engedélyben előírt átalakítási kötelezettséget nem teljesítették.
+c) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –,
 
-(8) Ha a szabálytalanul megépített építményre, építményrészre fennmaradási engedély nem adható, az építésügyi hatóság elrendeli:
+d) a jogerős engedély végrehajthatóságának felfüggesztése ellenére
 
-a) a szabályossá tétel érdekében szükséges munkálatok elvégzését vagy
+végzik.
 
-b) – ha az építmény fennmaradása átalakítással sem engedélyezhető –, a lebontását.
+(3) Nem minősül jogszerűtlen építési tevékenységnek az építési engedélytől a jogszabályban meghatározott szabvány szerinti tűréshatáron belüli eltérés, valamint ha a bíróság a jogerős építési engedély alapján végzett építési tevékenység végrehajthatóságát nem függeszti fel.
 
-(9) Az építésügyi hatóság a szabálytalanság tudomásra jutásától számított két éven belül, legkésőbb azonban az építés befejezésétől – ha nem állapítható meg – az építmény használatbavételétől számított tíz éven belül intézkedhet. A (7) bekezdésben foglaltak és az új eljárás lefolytatása esetén a kétéves időtartam kezdetét a meghatározott idő elteltétől, valamint az engedély visszavonásától, az átalakítási kötelezettségre előírt teljesítési határidő lejártától, illetőleg az új eljárás lefolytatását elrendelő jogerős határozat keltétől kell számítani.
+(4) Jogosulatlan a 16. §, a 32. §, a 33/A. §, a 38/A. §, a 38/B. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal.
 
-(10) A (9) bekezdés szerinti kétéves időtartam az építésügyi hatóság számára újra kezdődik:
-
-a) a (3) bekezdésben foglaltak esetén a fennmaradási engedélykérelem benyújtására való felhívás közlésétől, illetve
-
-b) ha az elrendelt bontási kötelezettség fennállása alatt felmerült új tényre hivatkozva terjeszti elő az építtető fennmaradási engedélykérelmét, továbbá
-
-c) ha az építtető kérelmét módosítja vagy visszavonja,
-
-d) az eljárás felfüggesztésének megszűnésekor.
-
-(11) A fennmaradási engedélyezés (1)–(2) bekezdéseiben foglalt feltételeit új eljárás elrendelése esetén az eredeti eljárás megindításakor hatályos építésügyi szabályok szerint kell figyelembe venni, kivéve, ha az új eljárás lefolytatásakor hatályos szabályok az építtető számára kedvezőbbek.
-
-(12) Amennyiben a fennmaradás engedélyezésének az (1) és (2) bekezdésekben meghatározott feltételei fennállnak – kérelemre – a fennmaradási engedély kiadható akkor is, ha a (9) bekezdésben meghatározott intézkedési határidő már letelt. Ebben az esetben azonban átalakítási kötelezettséget előírni és építésügyi bírságot megállapítani már nem lehet.
-
-(13)
+(5) Szakszerűtlen a 16. §, a 32. §, a 33/A. §, a 38/A. §, a 38/B. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha azt a helyi építési szabályzat és az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.

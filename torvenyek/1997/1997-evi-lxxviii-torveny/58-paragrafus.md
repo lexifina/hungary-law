@@ -4,35 +4,13 @@
 
 ## Nyilvántartások
 
-58. § (1) Az építésügyi hatóságok, települési jegyzők (főjegyzők), közművezetékek kezelői, közalapítványok, kamarák és más, jogszabályban erre felhatalmazott szervek az építésügy körébe tartozó közfeladatok ellátásához szükséges azon területi, társadalmi, környezeti, természeti és műszaki adatokról, amelyek a településrendezéshez és településtervezéshez, az építészeti-műszaki tervezési, és építésügyi műszaki szakértői tevékenységhez és az ezekhez esetenként kapcsolódó tevékenységekhez, az építésügyi és építésfelügyeleti hatósági tevékenységhez, szakmagyakorlási jogosultságok megállapításához és ellenőrzéséhez, az építési beruházások, építőipari kivitelezési tevékenységek megvalósításához feltétlenül szükségesek jogszabályban meghatározott hatósági nyilvántartásokat vezetnek, adatokat kezelnek.
+58. § (1) A szakmai kamarák adatfeldolgozóként vezetik az építészeti-műszaki tervezői, településtervezői, településrendezési szakértői, építésügyi műszaki szakértői, építésügyi igazgatási szakértői, beruházáslebonyolítói, energetikai tanúsítói, építési műszaki ellenőri, felelős műszaki vezetői jogosultsággal rendelkező természetes és jogi személyek egységes elektronikus névjegyzéki hatósági nyilvántartását.
 
-(2) Az (1) bekezdésben említett hatósági nyilvántartásnak minősül:
+(2) A Magyar Kereskedelmi és Iparkamara adatfeldolgozóként vezeti az építőipari kivitelezési tevékenységet folytatók elektronikus regisztrációjának hatósági nyilvántartását az alábbi személyesadat-tartalommal:
 
-a) a települések közigazgatási területét ábrázoló földmérési alaptérképek (bel- és külterület ábrázolásával),
+a) építőipari kivitelező vállalkozó neve, címe, valamint jogi személy vagy jogi személyiség nélküli szervezet esetén a cég tulajdonosa vagy vezető tisztségviselője vagy képviseletére jogosult természetes személy neve, lakóhelye,
 
-b) a helyi építési szabályzat és a településrendezési tervek nyilvántartása,
-
-c) a telekalakítási engedélyek mellékletét képező tervek,
-
-d) a belterületi közműnyilvántartás,
-
-e) az építmény-nyilvántartás,
-
-f) az átnézeti nyilvántartási térkép,
-
-g) a külterületen lévő nyomvonalas és kapcsolódó létesítmények nyilvántartása,
-
-h) építészeti-műszaki tervezői, településtervezői, településrendezési szakértői, építésügyi műszaki és igazgatási szakértői, beruházáslebonyolítói, energetikai tanúsítói, vállalkozó kivitelezői, műszaki ellenőri, felelős műszaki vezetői névjegyzék vezetése,
-
-i) a lakásépítéssel, megszűnéssel kapcsolatos nyilvántartás,
-
-j) a hatósági, építésfelügyeleti ellenőrzések jegyzőkönyveinek nyilvántartása,
-
-k) az építésügyi és építésfelügyeleti hatósági eljárásokkal összefüggésben kiszabott bírságok nyilvántartása,
-
-l) a bauxitcementtel épült építmények nyilvántartása,
-
-m) az egyéb jogszabályban megjelölt, az (1) bekezdés körébe tartozó nyilvántartások.
+b) egyéni vállalkozó neve, egyéni vállalkozói nyilvántartási száma.
 
 (3) A kérelem benyújtásakor
 
@@ -64,7 +42,7 @@ bb) az eseti építészeti-műszaki tervezési engedélyt, eseti műszaki ellen�
 
 kérelmező személy,
 
-c) tizenötezer forint igazgatási szolgáltatási díjat köteles fizetni az eljáró hatóság számlájára az a kérelmező személy, aki az a) pontban meghatározott valamelyik tevékenység mellett egyidejűleg az a) pontban meghatározott más tevékenység folytatására is engedélyt kér,
+c) összesen negyvenezer forint igazgatási szolgáltatási díjat köteles fizetni az eljáró hatóság számlájára az a kérelmező személy, aki az a) pontban meghatározott valamelyik tevékenység mellett egyidejűleg az a) pontban meghatározott más tevékenység folytatására is engedélyt kér,
 
 d) ötezer forint igazgatási szolgáltatási díjat köteles fizetni a névjegyzéket vezető szerv számlájára
 
@@ -78,36 +56,62 @@ dd) az energetikai tanúsítói tevékenység folytatására bejelentést tevő 
 
 Az a) és b) pontokban meghatározott eljárások, illetve azokkal összefüggésben keletkezett eljárások fellebbezésének igazgatási szolgáltatási díja harmincezer forint.
 
-(4) Az (1)–(2) bekezdésben említett nyilvántartások, továbbá az építésügyi, az építésfelügyeleti hatósági, illetve az egyéb építésügyi hatósági feladatot ellátó szervezetek hatósági eljárásaikhoz szükséges ügyiratok, valamint az építési napló az alábbi személyes adatokat tartalmazhatják:
-
-a) családi és utónév, születési név, jogi személy esetén név és a jogosultsággal rendelkező tag (alkalmazott) e bekezdés szerinti adatai,
-
-b) születési hely és idő, anyja neve,
-
-c) lakcím, székhely,
-
-d) személyi igazolvány száma, cégjegyzékszám,
-
-e) iskolai végzettség, szakképesítés, szakvizsga, szakmai gyakorlat, szakmagyakorlási jogosultsági vizsga (megnevezése, szakirányúság, száma, kiállító szerv neve, kelte) adatai,
-
-f) fegyelmi büntetések,
-
-g) fizetési számlát vezető pénzforgalmi szolgáltató neve.
-
-h)
+(4) Az (1) és (2) bekezdés szerinti nyilvántartást elektronikus úton kell vezetni, az adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartásnak alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
 
 (5)
 
-(6) A (2) bekezdésben megnevezett nyilvántartásokban a személyes adatokat el kell különíteni. A személyes adatokat csak az erre jogszabályban felhatalmazottakkal, illetve az érintett hozzájárulásával rendelkezőkkel lehet közölni.
+(6) A miniszter – kormányrendeletben meghatározott módon – a Nyilvántartás keretében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak szerint építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (ÉTDR) működtet. A miniszter a szabálytalan építési tevékenység feltárására irányuló építésfelügyeleti tevékenységet támogató elektronikus építésügyi monitoring rendszert (ÉMO) működtet.
 
-(7) A közbeszerzésről szóló törvény hatálya alá tartozó építőipari kivitelezési tevékenység, illetve külön jogszabályban meghatározott építőipari kivitelezési tevékenység megkezdésével összefüggésben az építtető a következő személyes adatok szolgáltatására köteles az építésfelügyeleti hatósághoz:
+(7) A Nyilvántartás adatai megismerhetők és hozzáférhetők a külön törvényekben foglaltak figyelembevételével.
 
-a) az építtető neve (elnevezése), címe (székhelye),
+(8) Az építésügy különböző területein keletkezett – a (9)–(10) bekezdésben meghatározott – személyes adatok kezelésével a Nyilvántartás célja
 
-b) az építési helyszín címe, helyrajzi száma,
+a) az építésügy körébe tartozó szakmai közfeladat ellátásának elősegítése,
 
-c) a kivitelező (vállalkozó) neve (elnevezése), címe (székhelye), adóazonosító száma, kivitelezési jogosultságának (vállalkozói engedély, cégbírósági bejegyzés) külön jogszabály szerinti igazolása, továbbá
+b) az építmények és telkek állapotának, az építési folyamat végzésének, az építési folyamat résztvevői tevékenységének ellenőrizhetősége,
 
-d) a felelős műszaki vezető és az építési műszaki ellenőr neve, címe (székhelye), jogosultságának igazolása.
+c) az egyéb szakmai feladatok ellátásához, kötelezettségek teljesítéséhez, építésügyi érdekérvényesítéshez szükséges adatok és információk szolgáltatása.
 
-(8) Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység végzése jogszerűségének ellenőrzése céljából a (4) és (7) bekezdésben megjelölt adatokat a használatbavételi engedély jogerőre emelkedését követő 3 évig kezelheti, és azok – külön törvényben megállapított – körét az ott meghatározott hatóságoknak továbbíthatja.
+(9) Az építésügyért felelős állami vezető mint adatkezelő, kormányrendeletben meghatározottak szerint a Nyilvántartás keretein belül az építési folyamat alábbi résztvevőinek személyes adatait kezeli:
+
+a) építtető, kötelezett,
+
+b) beruházáslebonyolító,
+
+c) építési műszaki ellenőr,
+
+d) építtetői fedezetkezelő,
+
+e) építészeti-műszaki tervező,
+
+f) településtervező,
+
+g) településrendezési szakértő,
+
+h) tervellenőr,
+
+i) építésügyi igazgatási szakértő,
+
+j) építésügyi műszaki szakértő,
+
+k) vállalkozó kivitelező,
+
+l) felelős műszaki vezető, valamint
+
+m) energetikai tanúsító.
+
+(10) Az adatkezelő a (6) bekezdésben meghatározott kötelező adatkezelés során a (9) bekezdésben felsorolt személyek alábbi személyes adatait kezeli:
+
+a) természetes személyazonosító adatok,
+
+b) lakcím, székhely,
+
+c) adóazonosító jel, adószám,
+
+d) jogi személy vagy jogi személyiség nélküli szervezet esetén a cég képviseletére jogosultak neve, adóazonosító jele, lakcíme,
+
+e) a (9) bekezdés a) és d) pontja kivételével a szakképzettség megnevezése, okirati száma, szakmagyakorlási jogosultsági névjegyzéki száma,
+
+f) elektronikus ügyintézés, kapcsolattartás esetén az elektronikus levélcím, telefonszám,
+
+g) bírságok, szankciók, fegyelmi büntetések.

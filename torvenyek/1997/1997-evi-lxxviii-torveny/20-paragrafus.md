@@ -2,7 +2,7 @@
 
 20. § (1) Az érintett területre
 
-a) változtatási tilalom rendelhető el a helyi építési szabályzat, a szabályozási terv készítésének időszakára annak hatálybalépéséig,
+a) változtatási tilalom rendelhető el a helyi építési szabályzat készítésének időszakára annak hatálybalépéséig,
 
 b) telekalakítási, illetve építési tilalom rendelhető el
 
@@ -10,7 +10,7 @@ ba) a településrendezési feladatok megvalósítása, végrehajtása, tovább�
 
 bb) a természet-, illetve a környezet védelméről szóló törvényekben foglaltak érvényre juttatása érdekében.
 
-(2) A tilalmat a feltétlenül szükséges mértékre és időtartamra kell korlátozni, s azt haladéktalanul meg kell szüntetni, ha az elrendelésének alapjául szolgáló okok már nem állnak fenn. A tilalmak felülvizsgálatát a helyi építési szabályzat és a hozzá tartozó szabályozási tervek felülvizsgálatával együtt el kell végezni.
+(2) A tilalmat a feltétlenül szükséges mértékre és időtartamra kell korlátozni, s azt haladéktalanul meg kell szüntetni, ha az elrendelésének alapjául szolgáló okok már nem állnak fenn. A tilalmak felülvizsgálatát a helyi építési szabályzat felülvizsgálatával együtt el kell végezni.
 
 (3) A településrendezési feladatok megvalósulása érdekében az önkormányzati rendelettel elrendelt tilalomról, korlátozásról vagy ezek megszüntetéséről – a változtatási tilalom kivételével – a települési önkormányzat képviselő-testülete (a fővárosban a fővárosi önkormányzat közgyűlése, illetőleg a kerületi önkormányzat képviselő-testülete) a főjegyző, illetőleg a jegyző útján tájékoztatja az érintetteket.
 

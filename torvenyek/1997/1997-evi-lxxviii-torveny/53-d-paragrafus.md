@@ -1,3 +1,1 @@
-53/D. § (1) Az elsőfokú általános építésügyi hatóság a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő építésügyi hatósági hatáskörének gyakorlását – a Kormány által rendeletben meghatározott, a feladatellátást veszélyeztető esetben – átruházza a megyeszékhely települési önkormányzat jegyzőjére.
-
-(2) Az e törvény végrehajtására kiadott, a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő engedélyezési és kötelezési eljárási szabályokról szóló kormányrendelet alapján kiadásra került bontási, építési, használatbavételi és fennmaradási engedély fellebbezésre tekintet nélkül végrehajtható.
+53/D. §

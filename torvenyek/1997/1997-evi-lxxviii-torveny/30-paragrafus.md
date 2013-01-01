@@ -1,6 +1,6 @@
 ## Kártalanítási szabályok
 
-30. § (1) Ha az ingatlan rendeltetését, használati módját a helyi építési szabályzat, illetőleg a szabályozási terv másként állapítja meg (övezeti előírások változása) vagy korlátozza (telekalakítási vagy építési tilalom), és ebből a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt kártalanítás illeti meg.
+30. § (1) Ha az ingatlan rendeltetését, használati módját a helyi építési szabályzat másként állapítja meg (övezeti előírások változása) vagy korlátozza (telekalakítási vagy építési tilalom), és ebből a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt kártalanítás illeti meg.
 
 (2) A kártalanítás összege az ingatlannak a korábbi rendeltetése alapján megállapítható régi és az új szabályozás eredményeként megállapítható új forgalmi értéke közötti különbözet.
 

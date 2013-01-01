@@ -1,9 +1,17 @@
-9/B. § A Kormány által rendeletben kihirdetett veszélyhelyzettel érintett települések a településrendezési eszközeinek a veszélyhelyzet következményei felszámolásához, valamint a további károk mérsékléséhez szükséges módosítása során, a veszélyhelyzet feloldásától számított fél éven belül a 9. § (2)–(7) bekezdésétől a következők szerint térhetnek el:
+## A településrendezés feladata és eszközei
 
-a) a településrendezési eszköz módosítására tett javaslatnak a veszélyhelyzet jellegének megfelelő szakterületi jogosultsággal rendelkező szakértő által készített szakvéleményen kell alapulnia,
+9/B. § (1) A településrendezés feladata, hogy a település területének, telkeinek felhasználására és az építés helyi rendjére vonatkozó szabályok kialakításával
 
-b) az elkészített településrendezési eszközt a polgármesternek egyeztető tárgyaláson az érdekelt államigazgatási szervekkel ismertetnie kell, a tárgyalás meghívójához az elkészített településrendezési eszközt mellékelnie kell,
+a) meghatározza a település összehangolt, rendezett fejlődésének térbeli-fizikai kereteit,
 
-c) az egyeztetett településrendezési eszközre vonatkozó végső szakmai véleményét az állami főépítész 5 munkanapon belül kiadja, és
+b) a település adottságait és lehetőségeit hatékonyan kihasználva elősegítse annak működőképességét a környezeti ártalmak legkisebbre való csökkentése mellett,
 
-d) a településrendezési eszköz módosítása azonnal hatályba léptethető.
+c) biztosítsa a település működéséhez szükséges infrastruktúra-hálózatot, valamint
+
+d) biztosítsa a település, településrészek megőrzésre érdemes jellegzetes, értékes szerkezetének, beépítésének, építészeti, természeti és tájképi arculatának védelmét.
+
+(2) A településrendezés eszközei
+
+a) a településszerkezeti terv, amelyet a településfejlesztési koncepció alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg,
+
+b) a helyi építési szabályzat, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg.

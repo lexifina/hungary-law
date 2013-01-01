@@ -1,6 +1,6 @@
 ## Az építészeti-műszaki tervezési, az építésügyi műszaki és igazgatási szakértői tevékenység
 
-32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki tervdokumentáció elkészítése.
+32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki tervdokumentáció elkészítése és kormányrendeletben foglaltak szerinti ellenőrzése, továbbá a 33. § (4) bekezdés szerinti tevékenység.
 
 (2) Építésügyi műszaki szakértői tevékenység az épített környezet alakításával és védelmével kapcsolatos műszaki jelenségek ok-okozati összefüggéseinek magas szakmai színvonalú értékelése, ezen belül a vitatott esetek megítélése; a hibák, károk, illetve ezek okainak feltárása; és mindezekkel kapcsolatban szakértői vélemények készítése, továbbá a külön jogszabály szerinti esetenként kapcsolódó tevékenységek.
 
@@ -10,7 +10,7 @@
 
 (5) Az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői tevékenységet folytató személy csak olyan szakterületen végezhet tervezési vagy szakértői munkát, amelyhez e törvény szerint megfelelő tervezői vagy szakértői jogosultsággal rendelkezik.
 
-(6) Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet az e § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik tervezői, illetve műszaki szakértői jogosultsággal, és ez a tag, személy részt vesz a tevékenység ellátásában.
+(6)
 
 (7) Az építészeti-műszaki tervpályázat a (8) bekezdésben meghatározott tervezési feladatok előkészítésére szolgáló sajátos tervezési versenyforma, és az építészeti-műszaki pályamű alapján a tervező kiválasztásának egyik módja.
 

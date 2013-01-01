@@ -2,7 +2,7 @@
 
 3. § (1) Az épített környezet alakítását és védelmét:
 
-a) a jogszabályokkal összhangban álló településrendezési és építészeti-műszaki tervek alapján,
+a) a jogszabályokkal összhangban álló településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök és építészeti-műszaki dokumentáció alapján,
 
 b) a jogszabályokban előírt építészeti, műszaki, biztonsági, egészségügyi, rendeltetési és használati, továbbá környezet- és természetvédelmi követelményekkel összhangban,
 

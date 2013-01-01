@@ -1,35 +1,21 @@
 ## A fővárosra vonatkozó sajátos rendelkezések
 
-14. § (1) A fővárosban a helyi építési szabályzatra és a településrendezési tervekre vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
+14. § (1) A fővárosban a településfejlesztési koncepcióra és az integrált településfejlesztési stratégiára vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A Fővárosi Önkormányzat a főváros területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek, valamint a környezeti elemek védelmével kapcsolatos általános követelményeket fővárosi építési keretszabályzatban állapítja meg.
+(2) A fővárosban
 
-(3) A fővárosi kerületi önkormányzatnak – a fővárosi építési keretszabályzat keretein belül – a kerület egészére vonatkozóan kerületi építési szabályzatot kell megállapítania. A fővárosi és a kerületi önkormányzat megállapodása esetén kisebb területegységre is megállapítható kerületi építési szabályzat.
+a) a fővárosi önkormányzat
 
-(4) A fővárosi településrendezési tervek:
+aa) fővárosi településfejlesztési koncepciót,
 
-a) a fővárosi önkormányzat által jóváhagyott fővárosi településszerkezeti terv,
+ab) fővárosi integrált településfejlesztési stratégiát,
 
-b) a fővárosi önkormányzat által jóváhagyott fővárosi szabályozási keretterv, valamint
+b) a fővárosi kerületi önkormányzat
 
-c) a fővárosi kerületi önkormányzat által jóváhagyott kerületi szabályozási terv.
+ba) a fővárosi kerület közigazgatási területére kerületi településfejlesztési koncepciót, valamint
 
-(5) A főváros szabályozási kerettervében kell meghatározni a főváros egészét vagy több kerületét érintő, a fővárosi önkormányzat feladat- és hatáskörébe tartozó szabályozási elemeket, különösen
+bb) a fővárosi kerület közigazgatási területére kerületi integrált településfejlesztési stratégiát
 
-a) a bel- és külterületek lehatárolását (belterületi határvonal),
+állapít meg.
 
-b) a beépítésre szánt és a beépítésre nem szánt területek, illetőleg az azokon belüli egyes területrészek lehatárolását,
-
-c) a főváros működéséhez szükséges közterületek és az egyéb területek elkülönítését,
-
-d) a fővárosi önkormányzat tulajdonában lévő közterületeken belül a különböző célokat szolgáló területeket (közút, köztér, közpark stb.),
-
-e) a védett és a védelemre tervezett, valamint a védő területeket, továbbá építményeket,
-
-f) az infrastruktúra-hálózatok és építmények szabályozást igénylő elemeit,
-
-g) a sajátos jogintézmények alkalmazásával érintett területek lehatárolását.
-
-(6) A kerületi szabályozási tervbe a kerületet érintő, a főváros szabályozási kerettervében szereplő szabályozási elemeket be kell építeni, eltérés szükségessége esetén a főváros szabályozási kerettervét előzetesen módosítani kell.
-
-(7) A (2)–(4) bekezdések szerinti fővárosi településrendezési eszközök összehangolt nyilvántartásának szabályait a fővárosi önkormányzat rendeletben állapítja meg.
+(3) A fővárosi településfejlesztési koncepció – a 9/A. §-ban foglaltakon túl – meghatározza a főváros egészének jövőképét, fejlesztésének elveit, prioritásait, ezen kívül a főváros egészét vagy több kerületét érintő és az országban betöltött különleges szerepköréhez kapcsolódó településfejlesztési szándékokat foglalja rendszerbe.

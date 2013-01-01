@@ -1,8 +1,4 @@
-35. § (1) Az építési engedély iránti kérelem benyújtása előtt elvi építési engedély kérhető az építés megvalósításához szükséges követelmények előzetes tisztázása céljából.
-
-(2) A jogerős és végrehajtható elvi építési engedély egy évig hatályos. Érvényessége egy ízben legfeljebb egy évvel meghosszabbítható, ha a jogszabályok, valamint a kötelező hatósági előírások időközben nem változtak meg.
-
-(3) Az elvi építési engedély hatályossága alatt kezdeményezett építésügyi hatósági engedélyezési eljárás során szakhatóság közreműködése esetén a szakhatóságot és az építésügyi hatóságot az elvi engedély azokban a kérdésekben, amelyekről kifejezetten rendelkezett, akkor is köti, ha időközben a jogszabályok, valamint a kötelező hatósági előírások megváltoztak. Az elvi építési engedély alapján építési munka nem végezhető.
+35. § (1)–(3)
 
 (4)
 

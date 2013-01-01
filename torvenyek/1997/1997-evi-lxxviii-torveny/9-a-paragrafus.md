@@ -1,11 +1,7 @@
-9/A. § A településrendezési eszköz módosítása esetén a 9. § (3) bekezdés szerinti véleményeztetés elhagyható, ha
+## A településfejlesztési koncepció és az integrált településfejlesztési stratégia
 
-a) a módosítás
+9/A. § (1) A településfejlesztési koncepció hosszú távra rendszerbe foglalja az önkormányzat településfejlesztési szándékait, ennek keretében a területi adottságok és összefüggések figyelembevételével meghatározza a település jövőképét, javaslatot tesz a helyi környezet, társadalom, gazdaság és az infrastruktúra átfogó fejlesztésére, a műszaki, az intézményi, valamint a táji, természeti és ökológiai adottságok fenntartható hasznosítására. A településfejlesztési koncepcióban foglaltakat a települési önkormányzat döntéseiben érvényesíti.
 
-aa) nem érinti a település fő infrastruktúra hálózatát, alapvető zöldfelületi rendszerét, morfológiáját, védett természeti értékeit, a kulturális örökség védelmét és nem növeli felhasználási intenzitását,
+(2) Az integrált településfejlesztési stratégia a rendelkezésre álló és bevonható források ismeretében meghatározza a településfejlesztési koncepcióban meghatározott célok megvalósítását egyidejűleg szolgáló beavatkozásokat, programokat, továbbá a megvalósítás eszközeit és nyomon követését.
 
-ab) területfelhasználási változást nem jelent, és
-
-ac) már a 9. § (2) bekezdés szerinti véleményeztetéshez részletesen kidolgozásra került és véleményeztetése megtörtént, vagy
-
-b) a módosítás elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatlanság javítása, vagy magasabb szintű jogszabályi változás átvezetése érdekében történik.
+(3) A településfejlesztési koncepciót és az integrált településfejlesztési stratégiát a települési önkormányzat képviselő-testülete állapítja meg.

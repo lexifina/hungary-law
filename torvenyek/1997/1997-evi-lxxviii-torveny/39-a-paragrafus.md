@@ -1,8 +1,8 @@
-39/A. § (1) Az építőipari kivitelezési tevékenység csak olyan felelős műszaki vezető irányításával folytatható, aki a kivitelezési tevékenység szakirányának megfelelő jogosultsággal és egyéb feltételekkel, továbbá az építési tevékenységet végzők vonatkozásában közvetlen utasítási joggal rendelkezik.
+39/A. § (1) Az építőipari kivitelezési tevékenység – a (2) bekezdés kivételével – csak olyan felelős műszaki vezető irányításával folytatható, aki a kivitelezési tevékenység szakirányának megfelelő jogosultsággal és egyéb feltételekkel, továbbá az építési tevékenységet végzők vonatkozásában közvetlen utasítási joggal rendelkezik.
 
-(2) Építésügyi hatósági engedélyhez nem kötött kormányrendeletben meghatározott építési tevékenységet a munka jellegének megfelelő szakmunkás felelős műszaki vezető irányítása nélkül is végezhet.
+(2) Kormányrendeletben meghatározott építési tevékenységet az ott előírt feltételek megléte esetén a tevékenység jellegének megfelelő szakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet. E tevékenység végzése során felel a 40. § (2) bekezdés b)–e) pontjában foglaltak betartásáért.
 
-(3) Építési szakmunkát csak az végezhet, aki az adott tevékenység végzésének megfelelő szakképesítéssel, részszakképesítéssel rendelkezik.
+(3) Építési szakmunkát csak az végezhet, aki az adott tevékenység végzésének megfelelő, jogszabályban meghatározott szakképesítéssel, részszakképesítéssel rendelkezik.
 
 (4) Az építtető köteles az építőipari kivitelezési tevékenység megkezdését e törvény végrehajtására kiadott kormányrendeletben meghatározott esetekben és módon bejelenteni.
 

@@ -8,14 +8,14 @@ ab) valós állapotnak megfelelő tartalmáért,
 
 ac) építészeti minőségéért, a tervezéssel érintett védett építészeti és természeti örökség megóvásáért,
 
-b) a jogszabályok, szabályzatok, építési előírások, szabványok és egyéb szakmai szabályok betartásáért,
+b)
 
 c) a tervdokumentáció készítésében (részben vagy folyamatosan) részt vevő, a tervezői feladat szakmai tartalmának megfelelő szakismerettel és jogosultsággal rendelkező szakági tervezők kiválasztásáért,
 
 d) a szakági tervezők közötti egyeztetések koordinálásáért, terveik összehangolásáért.
 
-(2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság 100 000 forintig terjedő közigazgatási bírsággal sújtja.
+(2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság kormányrendeletben meghatározott közigazgatási bírsággal sújtja.
 
-(3) A névjegyzéket vezető szerv a tervezőt és a szakértőt a szakmagyakorlással kapcsolatos jogszabályok megsértése esetén jogszabályban meghatározott esetekben és módon szankciókkal sújtja.
+(3)
 
 (4) A tervező – ha erre az építtetőtől megbízást kapott – tervezői művezetést végezhet. Ennek keretében közreműködik az építészeti-műszaki terveknek megfelelő maradéktalan megvalósítás érdekében, valamint elősegíti a kivitelezés során a tervekkel kapcsolatban felmerült szakkérdések megoldását.

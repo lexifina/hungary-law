@@ -20,4 +20,12 @@ h) településrendezési kötelezések,
 
 i) kártalanítási szabályok,
 
-j) településrendezési szerződés.
+j) településrendezési szerződés,
+
+k) összevont telepítési eljárás,
+
+l) településképi véleményezési eljárás,
+
+m) településképi bejelentési eljárás,
+
+n) közterület-alakítás.

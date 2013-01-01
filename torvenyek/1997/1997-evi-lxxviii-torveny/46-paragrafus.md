@@ -2,22 +2,64 @@
 
 46. § (1) Az építésfelügyeleti tevékenység ellátása állami feladat.
 
-(2)–(3)
+(2) Az építésfelügyeleti hatóság az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint ellátja az építési folyamat felügyeletét, ellenőrzi az építmény műszaki állapotát, valamint feltárja a szabálytalan építkezéseket. Ennek keretében
 
-(4) Az építésfelügyeleti hatóság hatósági jogkörében a külön jogszabályban meghatározottak szerint
+a) az építőipari kivitelezési tevékenység megkezdésével összefüggő építésfelügyeleti hatósági eljárásokat folytat le,
 
-a) építésfelügyeleti ellenőrzéseket végez,
+b) a helyszínen ellenőrzi az építőipari kivitelezési tevékenység
 
-b) építésfelügyeleti hatósági intézkedést tesz,
+ba) végzésének szakszerűségét, jogszerűségét,
 
-c) vezeti a jogszabállyal hatáskörébe utalt nyilvántartásokat.
+bb) résztvevőinek jogosultságát,
 
-(5) Az építésfelügyeleti hatóság az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint ellenőrzi az építőipari kivitelezési tevékenység végzését.
+bc) végzéséhez előírt építési napló vezetésének módját és tartalmát,
 
-(6) Ha az építésfelügyeleti hatóság ellenőrzése során azt állapítja meg, hogy
+bd) folytatásához előírt kivitelezési dokumentáció(rész) meglétét,
 
-a) az építőipari kivitelezési tevékenység szakszerűségét, az építési napló vezetésére vonatkozó szabályokat súlyosan megsértették, a résztvevők nem rendelkeznek az előírt jogosultsággal, vagy hiányoznak a kiviteli tervek, az építőipari kivitelezési tevékenység folytatását megtilthatja,
+c) a jókarbantartási kötelezettség teljesítése körében ellenőrzést és eljárást folytat le,
 
-b) az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és egészséget vagy a közbiztonságot közvetlenül veszélyezteti, az építőipari kivitelezési tevékenység folytatását megtiltja és a szabálytalan állapot megszüntetését elrendeli.
+d) a szabálytalan építési tevékenység feltárása érdekében az építésügyi monitoring igénybevételével építésrendészeti ellenőrzést és eljárást folytat le,
 
-(7) Az építésügyi és az építésfelügyeleti hatóság az ellenőrzési feladatokban a szakmai kamarák, illetve a szükséges vizsgálatok elvégzésére külön jogszabályban meghatározottak szerint szakértő vagy jogosult szakintézmény közreműködését veheti igénybe. Ha az építésügyi vagy az építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, illetve szakértői véleményt kér, ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.
+e) az ellenőrzései alapján szankciót állapít meg, ennek keretében
+
+ea) építésfelügyeleti intézkedést tesz,
+
+eb) építésfelügyeleti bírságot szab ki,
+
+ec) megkeresi az intézkedésre hatáskörrel rendelkező hatóságot,
+
+f) szakhatósági eljárást folytat le.
+
+(3) Az építésfelügyeleti hatóság jogszabályban meghatározott módon
+
+a) a (2) bekezdés a) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység megkezdését vagy annak folytatását megtilthatja, feltételhez kötheti vagy tudomásul veszi,
+
+b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység folytatását
+
+ba) megtilthatja és építésfelügyeleti bírságot szabhat ki, ha ellenőrzése során azt állapítja meg, hogy az építőipari kivitelezési tevékenység szakszerűségére, az építési napló vezetésére vagy a kivitelezési tevékenység folytatásához szükséges kivitelezési dokumentációra vonatkozó szabályokat súlyosan megsértették,
+
+bb) az építőipari kivitelezési tevékenység folytatását megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
+
+c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
+
+d) a (2) bekezdés c) pontja szerinti feladatkörében jogszabályban meghatározott ellenőrzést végez a meglévő építmények körében, az ellenőrzésen tapasztaltak eredményeképpen
+
+da) kötelezheti az építmény tulajdonosát a szükséges munkálatok elvégzésére,
+
+db) elrendeli az építmény felülvizsgálatát, a szükség szerinti építési munkák elvégzését, ha az építmény állapota az állékonyságot, az életet és az egészséget, a köz- és vagyonbiztonságot veszélyezteti.
+
+e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapasztaltak eredményeképpen
+
+ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
+
+eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
+
+(4) Az építésfelügyeleti hatóság az ellenőrzés során feltárt szabálytalan tevékenységről való tudomásszerzésétől számított 90 napon belül indítja meg a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
+
+a) a (2) bekezdés a)–c) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
+
+b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől számított tíz éven belül
+
+van helyük.
+
+(5)–(7)

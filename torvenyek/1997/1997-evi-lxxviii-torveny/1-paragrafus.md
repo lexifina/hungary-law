@@ -6,9 +6,9 @@
 
 1. § (1) A törvény hatálya kiterjed az épített környezet alakítása és védelme körébe tartozóan:
 
-a) a települések területének rendezésére (a továbbiakban: településrendezés),
+a) a településfejlesztésre és a települések területének rendezésére (a továbbiakban: településrendezés),
 
-b) a településrendezés tervezésére (a továbbiakban: településtervezés),
+b) a településfejlesztés tervezése és a településrendezés tervezésére (a továbbiakban: településtervezés),
 
 c) az épületek, műtárgyak (a továbbiakban együtt: építmények), valamint az építési munkák és építési tevékenységek építési előírásainak kialakítására,
 
@@ -28,4 +28,4 @@ j) az a)–i) pontokban foglaltakkal kapcsolatos feladatokra, hatáskörökre é
 
 k) az a)–j) pontokban foglaltakra vonatkozó szabályok megállapítására, alkalmazásuk ellenőrzésére és érvényre juttatására (a továbbiakban együtt: építésügy).
 
-(2) E törvényt a sajátos építményfajták, valamint a műemlékvédelem alatt álló építmények és területek tekintetében a rájuk vonatkozó külön törvényekkel, kormányrendeletekkel együtt, a bennük foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
+(2) E törvényt a sajátos építményfajták, valamint a műemlékvédelem alatt álló építmények és területek tekintetében a rájuk vonatkozó külön törvényekkel, kormányrendeletekkel, miniszteri rendeletekkel és önálló szabályozó szerv vezetője által kiadott rendeletekkel és miniszteri rendeletekkel együtt, a bennük foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.

@@ -18,7 +18,7 @@ d) az építési tevékenységre vonatkozó szakmai, minőségi és biztonsági 
 
 e) a munkálatok végzésének szakszerűségéért.
 
-(3) A kivitelező – jogszabályban meghatározott esetekben és módon – építési naplót vezet, abban a napi munkát rögzíti, a naplót állandóan a munka helyszínén tartja, és azt az ellenőrző hatóság, illetve az építési műszaki ellenőr kérésére rendelkezésre bocsátja. Az építési napló részét képezik az elvégzett építőipari kivitelezési tevékenységekre vonatkozó felelős műszaki vezetői nyilatkozatok is.
+(3) A kivitelező – jogszabályban meghatározott esetekben és módon – építési naplót vezet, és azt a jogszabályban meghatározott szervek, hatóságok és az építési műszaki ellenőr rendelkezésére bocsátja. Jogszabály előírhatja az építési napló elektronikus vezetését.
 
 (4) A 43. § (1) és (2) bekezdésében foglaltak végrehajtása érdekében az építtető helyszíni képviselőjeként az építőipari kivitelezési tevékenység jellegének megfelelő – kormányrendeletben meghatározott jogosultsággal rendelkező – építési műszaki ellenőrt, illetve külön jogszabályban meghatározott esetekben és módon beruházót, a beruházó lebonyolítót bízhat meg. Jogszabály az építési műszaki ellenőr alkalmazását kötelezővé teheti.
 

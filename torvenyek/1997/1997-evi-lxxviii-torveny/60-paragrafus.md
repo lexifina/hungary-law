@@ -18,12 +18,28 @@ b) jogi személy vagy jogi személyiség nélküli szervezet esetén 500 000 for
 
 terjedő közigazgatási bírsággal sújtja.
 
-(5)
+(5) 2013. január 1-től az elsőfokú építésügyi hatósági feladat- és hatáskör önkormányzati társulás útján nem látható el.
 
-(6)
+(6) E törvénynek a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvénnyel megállapított 53/A. §-át a nukleáris építmények tekintetében a 2015. január 1-jét követően indult eljárásokban kell alkalmazni.
 
-(7)
+(7) A főváros településszerkezeti tervét és a főváros rendezési szabályzatát 2014. június 30-ig el kell fogadni.
 
-(8)
+(8) A településrendezési eszközök 2013. január 1-je és 2018. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
 
-(9)–(10)
+(9) 2018. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók
+
+a) e törvény 2012. december 31-én, és
+
+b) az országos településrendezési és építési követelményekről szóló kormányrendelet 2012. augusztus 6-án
+
+hatályban lévő, településrendezési eszközre vonatkozó előírásai.
+
+(10) A fővárosi kerületi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervben meghatározott keretövezet figyelembevétele helyett a fővárosi településszerkezeti terv területfelhasználásának megfelelő egyéb alkalmazható keretövezetnek megfelelő építési övezetet, övezetet állapíthat meg a fővárosi szabályozási keretterv módosítása nélkül a fővárosi önkormányzat hozzájárulásával.
+
+(11) A fővárosi önkormányzat a kerületi önkormányzat (10) bekezdés szerinti módosítással kapcsolatos
+
+a) hozzájárulását nem adja meg, indokolni köteles,
+
+b) hozzájárulás kérdésében 60 napon belül nem határoz, a hozzájárulást megadottnak kell tekinteni.
+
+(12) Amennyiben a keretövezet változtatása szükséges, és a (10) bekezdésben foglalt eset nem áll fenn, a fővárosi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervet módosíthatja.

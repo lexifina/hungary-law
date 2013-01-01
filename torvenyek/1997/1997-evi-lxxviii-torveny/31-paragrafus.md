@@ -6,7 +6,7 @@
 
 31. § (1) Az építmény elhelyezése során biztosítani kell:
 
-a) az építmény, továbbá a szomszédos ingatlanok és építmények rendeltetésszerű és biztonságos használhatóságát,
+a) az építmény, továbbá a szomszédos építmények rendeltetésszerű és biztonságos használhatóságát,
 
 b) az építmény közszolgálati (tűzoltó, mentő stb.) járművel történő megközelíthetőségét,
 
@@ -16,27 +16,9 @@ d) a közhasználatú építmények esetében a mindenki számára biztonságos 
 
 e) a rendeltetésszerű telekhasználatot.
 
-(2) Az építmények és azok részeinek (önálló rendeltetési egység) építése, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése során érvényre kell juttatni az országos építési szakmai követelményeket, különösen
+(2) Az építmények és azok részeinek építése, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése során érvényre kell juttatni az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott alapvető követelményeket.
 
-a)–b)
-
-c) a mechanikai ellenállás és stabilitás,
-
-d) a tűzbiztonság,
-
-e) a higiénia, egészség- és környezetvédelem,
-
-f) a használati biztonság,
-
-g) a zaj és rezgés elleni védelem,
-
-h) az energiatakarékosság és hővédelem,
-
-i) az élet- és vagyonvédelem, valamint katasztrófavédelem
-
-követelményeit.
-
-(3) Az országos építési szakmai követelmények megtartása alól – külön jogszabályban meghatározott esetekben és módon – eltérési engedély adható.
+(3) Az országos építési szakmai követelményektől – külön jogszabályban meghatározott esetekben és módon – lehet eltérni.
 
 (4) Az építménynek és részeinek (önálló rendeltetési egység) építése, felújítása, átalakítása, bővítése, helyreállítása, korszerűsítése során biztosítani kell:
 
