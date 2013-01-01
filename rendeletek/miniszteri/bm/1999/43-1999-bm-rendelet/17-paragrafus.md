@@ -1,3 +1,8 @@
-17. § (1) Szolgálati kutyát csak a kutyavezetésre kioktatott felügyelő, a Kftv. 24. § (1) bekezdés b) pontjában meghatározott esetben és módon alkalmazhat. A felügyelő kutyavezetésre való kioktatásáról – külön jogszabályban meghatározott feltételekkel rendelkező szakember, illetve szervezet bevonásával – a munkáltató gondoskodik.
+## 15–16. §[^11]
+
+17. § (1)[^12]
 
 (2) A felügyelő kiképzett, egészséges, ápolt és jó erőnlétű, a külön jogszabályban meghatározott minősítési feltételeknek megfelelő kutyával láthat el szolgálatot.
+
+[^11]: A 15–16. §-t a 86/2012. (XII. 28.) BM rendelet 14. § a) pont ad) alpontja hatályon kívül helyezte.
+[^12]: A 17. § (1) bekezdését a 86/2012. (XII. 28.) BM rendelet 14. § a) pont ae) alpontja hatályon kívül helyezte.

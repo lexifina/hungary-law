@@ -4,6 +4,7 @@
 
 (3) Több, egy időben szükséges intézkedés közül először a jogszabályok alapján súlyosabbnak minősülő, illetve a körülmények szerint súlyosabb sérelemmel fenyegető helyzetnek megfelelő intézkedést kell foganatosítani.
 
-(4) A felügyelő a szolgálat befejezésekor – a munkáltató által meghatározottak szerint – írásos jelentést készít a végrehajtott intézkedésekről.
+(4)[^4] Jogszabály eltérő rendelkezésének hiányában a felügyelő a szolgálat befejezésekor – a munkáltató által meghatározottak szerint – írásos jelentést készít a végrehajtott intézkedésekről.
 
 [^3]: A 3. § (1) bekezdése a 4/2010. (II. 23.) IRM rendelet 5. §-ával megállapított szöveg.
+[^4]: A 3. § (4) bekezdése a 86/2012. (XII. 28.) BM rendelet 12. §-ával megállapított szöveg.

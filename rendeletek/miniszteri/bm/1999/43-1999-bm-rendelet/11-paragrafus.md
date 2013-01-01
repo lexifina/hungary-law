@@ -1,3 +1,3 @@
-## 10. §[^5]
+## 10. §[^8]
 
-[^5]: A 10. §-t az 55/2009. (X. 16.) IRM rendelet 20. § (5) bekezdése hatályon kívül helyezte.
+[^8]: A 10. §-t az 55/2009. (X. 16.) IRM rendelet 20. § (5) bekezdése hatályon kívül helyezte.
