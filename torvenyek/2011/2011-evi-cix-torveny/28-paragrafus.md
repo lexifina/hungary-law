@@ -1,5 +1,5 @@
-28. § (1) Az MMA a köztestületi feladatai szervezése, az MMA külön költségvetési fejezete és intézményei igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatai ellátására költségvetési szervet alapít. E költségvetési szerv (a továbbiakban: MMA Titkársága) közfeladatokat ellátó alkalmazottai köztisztviselők.
+28. § (1) Az MMA a közfeladatai szervezését, valamint a költségvetési fejezeti és az MMA által irányított költségvetési szervekkel kapcsolatos, a köztestület közfeladatai ellátásával összefüggő igazgatási, gazdálkodási, így különösen pénzügyi, vagyonkezelési és ellenőrzési feladatokat az MMA által irányított költségvetési szerv (a továbbiakban: MMA Titkársága) látja el. Az MMA Titkárságának a közfeladat szervezési, igazgatási és gazdálkodási feladatokat ellátó alkalmazottja – a főtitkárt is beleértve – közszolgálati jogviszonyban álló köztisztviselő és közszolgálati ügykezelő.
 
-(2) Az (1) bekezdés szerinti költségvetési szerv feladatait alapító okirat rögzíti, amelyet az MMA elnöke ad ki.
+(2) Az MMA Titkársága feladatait az alapító okirata rögzíti, amelyet az MMA elnöke ad ki.
 
-(3) Az MMA által alapított költségvetési szerveknél foglalkoztatottakra – az MMA Titkárságának közfeladatokat ellátó köztisztviselői, ügykezelői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezéseit kell alkalmazni.
+(3) Az MMA által irányított költségvetési szerveknél foglalkoztatottra – az MMA Titkárságának a közfeladat szervezési, igazgatási és gazdálkodási feladatokat ellátó köztisztviselője, közszolgálati ügykezelője, illetve munkavállalója kivételével – a közalkalmazottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
