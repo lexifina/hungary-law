@@ -14,9 +14,9 @@
 
 | c) pufferterület | nemzeti park igazgatóság |
 
-| d) történeti települési terület | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| d) történeti települési terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
 
-| e) világörökség és világörökség-várományos terület | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| e) világörökség és világörökség-várományos terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
 
 | f) földtani veszélyforrás területe | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
@@ -28,7 +28,7 @@
 
 | d) tómeder | Országos Vízügyi Főigazgatóság |
 
-3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^18]
+3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^20]
 
 Az Agglomerációs törvény hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
@@ -50,14 +50,14 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | c) puffer terület | nemzeti park igazgatóság |
 
-| d) világörökség és világörökség- várományos terület | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| d) világörökség és világörökség- várományos terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
 
-| e) történeti települési terület | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| e) történeti települési terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
 
-| f) nagyvízi meder | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
+| f) nagyvízi meder | Országos Vízügyi Főigazgatóság |
 
 | g) földtani veszélyforrás területe | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
 | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-[^18]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 12. § (3) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^20]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 12. § (3) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 49. §-a, a 314/2012. (XI. 8.) Korm. rendelet 63. § e) pontja szerint módosított szöveg.

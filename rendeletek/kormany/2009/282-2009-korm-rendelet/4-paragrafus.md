@@ -1,4 +1,4 @@
-4. §[^4] (1) Az államigazgatási szerv a térségi övezet kiterjedéséről jogszabály, hatósági nyilvántartás alapján, ennek hiányában – a területrendezési vagy településrendezési terv készítésénél vagy módosításánál felhasználható adattartalommal rendelkező – egyéb nyilvántartás, ágazati koncepció vagy módszertannal megalapozott tanulmány figyelembe- vételével ad tájékoztatást.
+4. §[^6] (1) Az államigazgatási szerv a térségi övezet kiterjedéséről jogszabály, hatósági nyilvántartás alapján, ennek hiányában – a területrendezési vagy településrendezési terv készítésénél vagy módosításánál felhasználható adattartalommal rendelkező – egyéb nyilvántartás, ágazati koncepció vagy módszertannal megalapozott tanulmány figyelembe- vételével ad tájékoztatást.
 
 (2) A területrendezési terv készítése vagy módosítása esetében a térségi övezet kiterjedésére vonatkozó előzetes adatszolgáltatás tartalmazza:
 
@@ -18,7 +18,7 @@ a) az államigazgatási szerv megnevezését;
 
 b) az (1) bekezdés szerinti dokumentumok megnevezését és az azok hozzáférhetőségéről szóló tájékoztatást;
 
-c)[^5] a térségi övezet kiterjedésére vonatkozó tájékoztatást helyrajzi számok felsorolásával, vagy tényleges kiterjedésének megfelelő adattartalommal bíró – az ingatlan-nyilvántartási térképi adatbázishoz illeszthető – térképi adat- állománnyal, vagy a térségi övezettel érintett település megnevezésével.
+c)[^7] a térségi övezet kiterjedésére vonatkozó tájékoztatást helyrajzi számok felsorolásával, vagy tényleges kiterjedésének megfelelő adattartalommal bíró – az ingatlan-nyilvántartási térképi adatbázishoz illeszthető – térképi adat- állománnyal, vagy a térségi övezettel érintett település megnevezésével.
 
-[^4]: A 4. § a 7. § (2) bekezdése alapján 2009. december 26. napján lép hatályba.
-[^5]: A 4. § (3) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 263. §-a szerint módosított szöveg.
+[^6]: A 4. § a 7. § (2) bekezdése alapján 2009. december 26. napján lép hatályba.
+[^7]: A 4. § (3) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 263. §-a szerint módosított szöveg.

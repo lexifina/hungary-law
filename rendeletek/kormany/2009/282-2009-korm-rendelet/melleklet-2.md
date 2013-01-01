@@ -4,7 +4,7 @@
 
 | 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc-biztonsági Hivatal | megyei kormányhivatal erdészeti igazgatósága |
 
-| b) felszíni vizek vízminőség- védelmi vízgyűjtő területe | vízgazdálkodásért felelős miniszter | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
+| b) felszíni vizek vízminőség- védelmi vízgyűjtő területe | vízgazdálkodásért felelős miniszter | Nemzeti Környezetügyi Intézet |
 
 | c) ásványi nyersanyag- gazdálkodási terület | Magyar Bányászati és Földtani Hivatal bányakapitánysága | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
@@ -16,9 +16,9 @@
 
 | c) pufferterület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| d) világörökség és világörökség-várományos terület | Kulturális Örökségvédelmi Hivatal | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| d) világörökség és világörökség-várományos terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
 
-| e) történeti települési terület | Kulturális Örökségvédelmi Hivatal | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| e) történeti települési terület | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ |
 
 | f) rendszeresen belvízjárta terület | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
@@ -28,6 +28,6 @@
 
 | i) honvédelmi terület | honvédelemért felelős miniszter | honvédelemért felelős miniszter |
 
-2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^17]
+2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^19]
 
-[^17]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a, a 300/2011. (XII. 22.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a, a 300/2011. (XII. 22.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 63. § d) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 63. § d) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal erdészeti igazgatási feladatokat ellátó területi szerve” szövegrész helyébe a „megyei kormányhivatal erdészeti igazgatósága” szöveg lép, nem vezethetó át.]
