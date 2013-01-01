@@ -26,11 +26,11 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 3. | Minden esetben. | A területrendezési tervekben rögzített környezetvédelemi, természetvédelmi és tájvédelmi szabályozás, továbbá a környezet, természet és táj védelmére vonatkozó jogszabályban rögzített követelmények érvényesülése. Országos jelentőségű meglévő szükségtározók, megvalósuló árvízi tározók és új vízi építmények esetén, valamint az 1 millió m3-t meghaladó, de 10 millió m3-nél kisebb tározási lehetőségek esetén a vízgazdálkodás jogszabályi követelményeinek érvényesülése kérdésében. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
 
-| 4. | Minden esetben. | A területrendezési tervekben rögzített kulturális örökség-védelmi szabályozás, továbbá a kulturális örökség védelme jogszabályban rögzített követelményeinek érvényesülése. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| 4. | Minden esetben. | A területrendezési tervekben rögzített régészeti örökséggel és műemléki értékkel kapcsolatos szabályozás, továbbá a régészeti örökség és a műemléki érték védelme jogszabályban rögzített követelményeinek érvényesülése. | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 5. | Minden esetben. | A termőföld minőségi védelme, valamint erdő esetében a fenntartható erdőgazdálkodás és az erdők közérdekű szolgáltatásainak biztosítása. | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdő esetében a megyei kormányhivatal erdészeti igazgatósága |
 
-| 6. | Minden esetben. | A termőföld mennyiségi védelme. | körzeti földhivatal, több körzeti földhivatal illetékességi területét érintő esetekben a fővárosi és megyei kormányhivatal földhivatala |
+| 6. | Minden esetben. | A termőföld mennyiségi védelme. | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a fővárosi és megyei kormányhivatal földhivatala |
 
 | 7. | Minden esetben. | A szénhidrogén-szállító vezetékek esetén a szakkérdés a műszaki-biztonsági követelmények érvényesítésére vonatkozik. A nyilvántartott ásványi nyersanyag lelőhelyek figyelembevételének biztosítása, a földtani veszély megítélése (földtani veszélyforrás megléte), a felszínmozgásra utaló jellegek vizsgálata. | bányakapitányság |
 
@@ -56,4 +56,4 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 13. | Honvédelmi és katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintő esetben. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
 
-[^35]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^35]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a szerint módosított szöveg.
