@@ -1,6 +1,6 @@
 ## Jogkövetkezmények
 
-12. §[^55] (1) Ha az ügyfél a 7. és 8. § szerinti kötelezettségeinek határidőben és teljeskörűen nem tesz eleget és azt felszólításra sem pótolja, akkor:
+12. §[^56] (1) Ha az ügyfél a 7. és 8. § szerinti kötelezettségeinek határidőben és teljeskörűen nem tesz eleget és azt felszólításra sem pótolja, akkor:
 
 a) az első kötelezettségszegés esetén a kötelezettségszegés megállapításáig kifizetett, a beruházási és a működési támogatás időarányos része 3%-ának megfelelő támogatás jogosulatlanul igénybe vett támogatásnak minősül,
 
@@ -16,4 +16,4 @@ c) a harmadik és minden további kötelezettségszegés esetén a kötelezetts�
 
 (5) Az IKSZT cím felfüggesztéséről és visszavonásáról az MVH javaslatára az IH dönt.
 
-[^55]: A 12. § a 84/2012. (VIII. 2.) VM rendelet 8. §-ával megállapított szöveg.
+[^56]: A 12. § a 84/2012. (VIII. 2.) VM rendelet 8. §-ával megállapított szöveg.
