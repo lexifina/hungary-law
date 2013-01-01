@@ -28,7 +28,7 @@ a) érthető tájékoztatást nyújt a gyermek részére – figyelembe véve ko
 
 b) a megfelelő szolgáltatásnyújtáshoz való hozzájutás segítésében lehetőség szerint személyes részvétel mellett fogalmazza meg észrevételeit, megjegyzéseit,
 
-c) a gyámhivatal kirendelésében foglaltak figyelembevételével személyesen képviseli a gyermeket, megismeri az eljárás során keletkezett dokumentáció tartalmát és folyamatosan figyelemmel kíséri a gyermek jogainak az eljárás során történő érvényesítését,
+c)[^1] a járási (fővárosi kerületi) gyámhivatal (a továbbiakban: járási gyámhivatal) kirendelésében foglaltak figyelembevételével személyesen képviseli a gyermeket, megismeri az eljárás során keletkezett dokumentáció tartalmát és folyamatosan figyelemmel kíséri a gyermek jogainak az eljárás során történő érvényesítését,
 
 d) a gyermekvédelmi bírság kiszabására irányuló javaslattétele során figyelembe veszi a jogsértés jellegét, súlyát, az érintettek létszámának nagyságát a szolgáltatás jellegének arányában, javaslatát megfelelően indokolja.
 
@@ -53,3 +53,5 @@ c) a megkereséseket, valamint eljárását és intézkedéseit írásban dokume
 d) eljárásáról és annak eredményéről írásban tájékoztatja a jogosultat, illetve a panaszost, a szolgáltatót, szükség esetén a fenntartót,
 
 e) munkájáról, eljárásának tapasztalatairól, valamint a jogok gyakorlásával és a szolgáltatásnyújtással kapcsolatos tapasztalatairól – az OBDK által meghatározott formában – évente beszámolót készít.
+
+[^1]: A 7. § (3) bekezdés c) pontja a 296/2012. (X. 17.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
