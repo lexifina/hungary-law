@@ -1,4 +1,4 @@
-## 21. §[^25] A gondnokoltak és gondnokaik Országos Bírósági Hivatal elnöke által kezelt nyilvántartásába a gondnokoltak és gondnokaik, a támogatott személyek és támogatóik, valamint az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott adatokat a helyi bíróság bírája, bírósági titkár, vagy – a bíró utasítása alapján – bírósági ügyintéző vagy a bíróság elnöke által erre a feladatra kijelölt bírósági tisztviselő jegyzi be.
+## 21. §[^25] A gondnokoltak és gondnokaik Országos Bírósági Hivatal elnöke által kezelt nyilvántartásába a gondnokoltak és gondnokaik, a támogatott személyek és támogatóik, valamint az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott adatokat a járásbíróság bírája, bírósági titkár, vagy – a bíró utasítása alapján – bírósági ügyintéző vagy a bíróság elnöke által erre a feladatra kijelölt bírósági tisztviselő jegyzi be.
 
 ## A választottbírósági határozatok jegyzéke
 
@@ -10,5 +10,5 @@
 
 (4) A letétbe helyezett határozatot kiadni nem lehet, arról a felvilágosításra jogosultak részére másolat készíthető.
 
-[^25]: A 21. § a 18/2010. (IV. 30.) IRM rendelet 1. § (1) bekezdésével megállapított, a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^25]: A 21. § a 18/2010. (IV. 30.) IRM rendelet 1. § (1) bekezdésével megállapított, a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés k) pontja, az 57/2012. (XII. 28.) KIM rendelet 13. § (3) bekezdés d) pontja szerint módosított szöveg.
 [^26]: A 22. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés l) pontja szerint módosított szöveg.
