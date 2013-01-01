@@ -2,214 +2,152 @@
 
 ## Adatgyűjtések és Adatátvételek
 
-## Típus: AGY = adatgyűjtés AÁ, adatátvétel
+## Tipus: AGY = adatgyűjtés AÁ, adatátvétel
+
+## 2K27263_0
 
 | Adatgyűjtés - Adatátvétel | Az adatszolgáltatás beérkezési határideje | Irányadó uniós jogi aktus |
 
-| nyilván- tartási száma | címe | típusa | gyakorisága | adatszolgáltatóinak meghatározása |
+| nyilván- tartási száma | címe | típus | gyakorisága | adatszolgáltatóinak meghatározása |
 
-| Nemzeti Erőforrás Minisztérium |  |  |  |  |  |
+| Nemzeti Fejlesztési Minisztérium |
 
-| 1410 | Adatszolgáltatás a közoktatási intézmények tevékenységéről | AGY | Évenkénti | közoktatási intézmények | október 15. | 452/2008/EK Rendelet 88/2011/EU Rendelet |
+| 1368 | A légiközlekedési repülőesemények adatai | AGY | Évenként kétszeri | a polgári repülőtevékenységet hatósági engedéllyel folytató vállalkozások | a tárgyidőszakot követő hó 15. | 1321/2007/EK Rendelet 2003/42/EK Irányelv 94/56/EK Irányelv |
 
-| 1430 | Jelentés az állami nyelvvizsgát tett vizsgázókról | AÁ | Évenkénti | Oktatási Hivatal | a tárgyévet követő január 10. |  |
+| 1382 | A gazdálkodást jellemző fontosabb adatok | AGY | Negyedévenkénti | a szállítás, raktározás ágazatba sorolt, kijelölt vállalkozások, KTI Közlekedés Tudományi Intézet Nonprofit Kft, Magyar Közút Nonprofit Zrt., Állami Autópálya kezelő Zrt., valamint autópályákat kezelő illetve üzemeltető,- és egyéb kijelölt vállalkozások | a tárgyidőszakot követő 30. nap |  |
 
-| 1434 | Jelentés a felsőoktatási intézmények tanév eleji helyzetéről | AGY | Évenkénti | felsőoktatási intézmények | november 15. | 452/2008/EK Rendelet 88/2011/EU Rendelet |
+| 1390 | A helyi közutak adatai | AGY | Évenkénti | települési önkormányzatok | a tárgyévet követő augusztus 15. | 1108/70/EGK | Rendelet |
 
-| 1435 | Jelentés az év folyamán oklevelet, tudományos fokozatot, címet és felsőfokú, illetve szakirányú szakképzettséget szerzett hallgatókról | AGY | Évenkénti | felsőoktatási intézmények | a tárgyévet követő január 10. | 452/2008/EK Rendelet 88/2011/EU Rendelet |
+| 1392 | A hajózási engedélyesek, közforgalmú kikötők, magán kikötők, motoros kishajók, vitorlás kishajók adatai | AGY | Évenkénti | Nemzeti Közlekedési Hatóság (NKH) | a tárgyévet követő február 28. | 2005/44/EK Irányelv 2006/87/EK Irányelv 91/672/EGK Irányelv 96/50/EK Irányelv |
 
-| 1438 | Jelentés a közművelődési tevékenységet folytató szervezetek működéséről | AGY | Évenkénti | valamennyi, alapfeladatként közművelődési tevékenységet folytató önkormányzati, állami intézmény, társadalmi szervezet, gazdasági társaság, vállalkozás | a tárgyévet követő március 1. |  |
+| 1394 | A polgári légiközlekedés statisztikai adatai | AGY | Évenkénti | polgári, légiszállítási tevékenységet hatósági engedéllyel folytató vállalkozások | a tárgyévet követő április 20. |  |
 
-| 1441 | Jelentés a magyarországi állatkertek, vadasparkok és kultúrparkok tevékenységéről | AGY | Évenkénti | állatkertek, vadasparkok, kultúrparkok | a tárgyévet követő január 31. |  |
+| 1396 | Jelentés a közúti közlekedéshez kapcsolódó tevékenységekről | AGY | Évenkénti | Nemzeti Közlekedési Hatóság Központ | a tárgyévet követő április 15. | 2000/53/EK Irányelv 2003/59/EK Irányelv 2006/126/EK Irányelv 2006/22/EK Irányelv 2007/46/EK Irányelv 2008/65/EK Irányelv 2008/68/EK Irányelv 2009/40/EK Irányelv 2163/2001/EK Rendelet 561/2006/EK Rendelet 70/156/EGK Irányelv 91/439/EGK Irányelv |
 
-| 1442 | Jelentés a könyvtárak tevékenységéről | AGY | Évenkénti | települési, munkahelyi, felsőoktatási és szakkönyvtárak | a tárgyévet követő március 1. |  |
+| 1397 | Kötélpálya, sikló, távolsági szalagpálya és sífelvonó szállítási és baleseti adatai | AGY | Évenkénti | létesítményt üzemeltető vállalkozások | a tárgyévet követő április 30. |  |
 
-| 1444 | Muzeális intézmények adatai | AGY | Évenkénti | muzeális intézmények | a tárgyévet követő január 31. |  |
+| 1399 | A vízi utak fenntartási munkái és költségei | AGY | Évenkénti | vízi utak fenntartását végző vízügyi igazgatóságok | a tárgyévet követő május 30. |  |
 
-| 1445 | Jelentés a kiállításokról | AGY | Évenkénti | kiállítást szervezők | a tárgyévet követő január 31. |  |
+| 1705 | A postai, hírközlési, média és műsorszórási hatósági tevékenység | AÁ | Évenkénti | Nemzeti Média- és Hírközlési Hatóság | a tárgyévet követő április 30. |  |
 
-| 1446 | Jelentés a levéltárak működéséről | AGY | Évenkénti | levéltárak | a tárgyévet követő március 1. |  |
+| 1707 | A távközlési tevékenység évközi adatai | AGY | Negyedévenkénti | távközlési tevékenységet végző kijelölt vállalkozások | a tárgynegyedévet követő hó 30. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
 
-| 1447 | Jelentés a színházak (opera) tevékenységéről | AGY | Évenkénti | színházak, opera | a tárgyévet követő január 31. |  |
+| 1708 | A távközlési tevékenység berendezései és szolgáltatásai | AGY | Évenkénti | távközlési tevékenységet végző vállalkozások | a tárgyévet követő március 10. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
 
-| 1449 | Jelentés a szabadtéri játékokról | AGY | Évenkénti | szabadtéri színpadok | október 30. |  |
+| 1811 | Postai szolgáltatás és futárszolgálat eszközei, a szolgáltatás minőségi mutatói | AGY | Évenkénti | a postai, futárpostai tevékenységet végző kijelölt vállalkozások | a tárgyévet követő március 10. |  |
 
-| 1451 | Jelentés a hangversenyekről | AGY | Évenkénti | Hangversenyszervező szervezetek, hivatásos zenekarok | a tárgyévet követő január 31. |  |
+| 1812 | Vasúti infrasruktúra, közlekedési eszközök, üzemi és szállítási teljesítmények adatai | AGY | Évenkénti | vasúti pályahasználati, illetve pályaműködtetési engedéllyel rendelkező gazdasági szervezetek | a tárgyévet követő április 30. | 91/2003/EK | Rendelet |
 
-| 1454 | Jelentés a magyarországi mozik helyzetéről | AGY | Évenkénti | mozgóképet vetítő gazdasági szervezetek | a tárgyévet követő január 31. |  |
+| 1857 | A kikötői áru- és hajóforgalom | AGY | Havonkénti | Magyarországi kikötők és rakodási engedéllyel rendelkező vállalkozások | a tárgyhót követő hó 10. | 1304/2007/EK Rendelet 1365/2006/EK Rendelet 425/2007/EK Rendelet |
 
-| 1460 | Jelentés a megjelentetett VHS, DVD műsorokról | AGY | Évenkénti | vhs, dvd és egyéb hordozón filmeket kiadó gazdasági szervezetek | a tárgyévet követő január 31. |  |
+| 1957 | A hírközlési gazdasági szervezetek gazdálkodását jellemző adatok | AGY | Negyedévenkénti | postai, futárpostai, távközlési tevékenységet végző kijelölt vállalkozások | a tárgynegyedévet követő hó 30. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
 
-| 1464 | Jelentés az év folyamán befejezett filmekről | AGY | Évenkénti | filmgyártó gazdasági szervezetek | a tárgyévet követő január 31. |  |
+| 1994 | Az internet szolgáltatás évközi adatai | AGY | Negyedévenkénti | internet hozzáférési, illetve műsorelosztási szolgáltatást végző kijelölt vállalkozások | a tárgynegyedévet követő hó 30. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
 
-| 1467 | Jelentés a tanév I. évfolyamára jelentkezett pályázókról | AÁ | Évenkénti | Oktatási Hivatal | március 20. |  |
+| 1995 | Az internet szolgáltatás berendezései és szolgáltatásai | AGY | Évenkénti | internet hozzáférési, illetve műsorelosztási szolgáltatást végző vállalkozások | a tárgyévet követő március 10. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
 
-| 1468 | Jelentés a tanév I. évfolyamára felvett pályázókról | AÁ | Évenkénti | Oktatási Hivatal | július 30. |  |
+| 2145 | A postai szolgáltatás és a futárszolgálat negyedéves adatai | AGY | Negyedévenkénti | a postai, futárpostai tevékenységet végző kijelölt vállalkozások | a tárgynegyedévet követő hó 20. |  |
 
-| 1477 | Az egészségügyi intézmények árinformációi | AGY | Negyedévenkénti, évenkénti | A közszolgáltatásban résztvevő valamennyi fekvő és járóbeteg szakellátást nyújtó egészségügyi intézmény | a t.negyedév utolsó hónap 28., illetve június 30. |  |
+| 2222 | Az út infrastruktúra adatai | AGY | Évenkénti | az utak fejlesztésével és üzemeltetésével foglalkozó szervezetek | a tárgyévet követő szeptember 30. | 1108/70/EGK | Rendelet |
 
-| 1498 | Jelentés a bruttó 100 ezer Ft értékhatár feletti tárgyi eszköznek minősülő egészségügyi gépek és műszerek állományának változásáról | AGY | Eseményhez kötődő, évenkénti | valamennyi egészségügyi szolgáltató | tárgyhót követő hó 15., a tárgyévet követő január 31. |  |
+| 2223 | A vasút infrastruktúra adatai | AGY | Évenkénti | a vasutak fejlesztésével és üzemeltetésével foglalkozó szervezetek | a tárgyévet követő szeptember 30. | 1108/70/EGK | Rendelet |
 
-| 1501 | Jelentés a közforgalmú gyógyszertárak támogatott és nem támogatott gyógyszerforgalmáról (gyógyszertáranként, gyógyszerenként, megyénként és országos összesítésben) | AÁ | Havonként ill. évenként | Országos Egészségbiztosítási Pénztár | a tárgyidőszakot követő második hó 1., ill. a tárgyévet követő február 15. |  |
+| 2224 | A vízi út infrastruktúra datai | AGY | Évenkénti | a vízi utak fejlesztésével és üzemeltetésével foglalkozó szervezetek | a tárgyévet követő szeptember 30. | 1108/70/EGK | Rendelet |
 
-| 1510 | Jelentés az egészségügyi szakképzésben végzettekről | AGY | Eseményhez kötődő | a szakképzésben vizsgát szervező intézmények | eseményt követő 30 napon belül |  |
+| 2225 | A hálózati közlekedési infrastruktúra felügyeleti adatai | AGY | Évenkénti | a hálózati közlekedés (út, vasút, vízi út) felügyeletével megbízott szervezet | a tárgyévet követő szeptember 30. | 1108/70/EGK | Rendelet |
 
-| 1511 | Jelentés a javítóintézetek helyzetéről | AGY | Évenkénti | a Nemzeti Erőforrás Minisztérium valamennyi javítóintézete | a tárgyévet követő január 31. |  |
+| 2226 | A közlekedés rendészet ráfordítás adatai | AGY | Évenkénti | az országos közutakhoz, önkormányzati utakhoz és vízi utakhoz kapcsolódó rendészeti feladatot ellátó szervezet | a tárgyévet követő szeptember 30. | 1108/70/EGK | Rendelet |
 
-| 1514 | Egészségbiztosítási statisztikai jelentés havonként (I. lap) negyedévenként (II. lap, III. lap) | AGY | Havonkénti, negyedévenkénti | társadalombiztosítási kifizetőhelyek | a tárgyidőszakot követő hó 11. | 883/2004/EK Rendelet 987/2009/EK Rendelet |
+| 2227 | A közlekedési hálózati infrastruktúra központilag nyilvántartott hitelszolgálati adatai | AGY | Évenkénti | az állam által átvállalt, a vasutakra, az utakra, a vízi utakra vonatkozó, hitelszolgálati adatokat kezelő, szervezet | a tárgyévet követő szeptember 30. | 1108/70/EGK | Rendelet |
 
-| 1527 | Jelentés a sporttal kapcsolatos ágazati szegmensről | AGY | Évenkénti | Állami sportigazgatási szerv | a tárgyévet követő január 15. |  |
+| 2246 | Légijárművek és az alkalmazott személyzet adatai | AGY | Évenkénti | valamennyi menetrend szerinti és/vagy nem menetrend szerinti kereskedelmi légijáratot üzemeltető társaság, amelynek központi ügyintézési helye Magyarországon található | a tárgyévet követő március 31. |  |
 
-| 1549 | Összesítő jelentés a daganatos megbetegedésekről | AÁ | Évenkénti | Nemzeti Rákregiszter | a tárgyévet köv. jan. 31. végl.: június 30. |  |
+| 2247 | Légiszállítási teljesítmények adatai | AGY | Évenkénti | valamennyi menetrend szerinti és/vagy nem menetrend szerinti kereskedelmi légijáratot üzemeltető társaság, amelynek központi ügyintézési helye Magyarországon található | a tárgyévet követő január 31. |  |
 
-| 1560 | Összesítő az élelmiszer eredetű megbetegedési eseményekről | AGY | Évenkénti | Országos Élelmezés- és Táplálkozástudományi Intézet | a tárgyévet követő február 20. |  |
+| 2248 | Légiszállítás az indulási és célállomások szerint | AGY | Negyedévenkénti | valamennyi nemzetközi menetrend szerinti és/vagy nem menetrend szerinti légijáratot üzemeltető társaság, amelynek központi ügyintézési helye Magyarországon található | a tárgynegyedévet követő hó 30. |  |
 
-| 1561 | Bejelentett fertőző megbetegedések | AGY | Évenkénti | Országos Epidemiológiai Központ | a tárgyévet követő április 30. |  |
+| 2249 | Légiszállítás a repülés szakaszai szerint | AGY | Évenkénti | valamennyi nemzetközi menetrend szerinti légijáratot üzemeltető társaság, amelynek központi ügyintézési helye Magyarországon található | a tárgyévet követő január 31. |  |
 
-| 1565 | Influenza és influenzaszerű megbetegedések miatt orvoshoz fordult betegek becsült száma járványok idején | AGY | Évenkénti | Országos Epidemiológiai Központ | a tárgyévet követő év május 31. |  |
+| 2250 | Légitársaságok pénzügyi adatai | AGY | Évenkénti | menetrend szerinti és/vagy nem menetrend szerinti légijáratokat üzemeltető kereskedelmi légitársaságok, amelynek központi ügyintézésének helye Magyarországon található és amelyeket a 2247 számú „Légiszállítási teljesítmények adatai” adatgyűjtés tekintetében havi adatszolgáltatási kötelezettség terhel | a tárgyévet követő április 30. |  |
 
-| 1566 | Védőoltási jelentés | AGY | Évenkénti | Országos Epidemiológiai Központ | a tárgyévet követő április 30. |  |
+| 2251 | Magyarországi repülőterek forgalmi adatai | AGY | Negyedévenkénti | Magyarországon található nemzetközi kereskedelmi repülőterek, valamit egyes nem nemzetközi repülőterek | tárgynegyedévet követő hó 10. |  |
 
-| 1570 | Jelentés az emberi mérgezési esetekről | AGY | Évenkénti | az egészségügyi ellátást végző intézmények (kórházak, klinikák, egészségcentrumok), háziorvosok, mentők | a tárgyévet követő március 31. |  |
+| 2252 | Légiközlekedési szakszemélyzet adatai | AÁ | Évenkénti | Nemzetközi Közlekedési Hatóság Légügyi Hivatal | a tárgyévet követő január 31. |  |
 
-| 1573 | Jelentés a HIV-fertőzésekről, AIDS megbetegedésekről | AGY | Évenkénti | Országos Epidemiológiai Központ | 48 óra vagy diagnózis megerősítésekor, OEK a tárgyévet követő április 30. |  |
+## Országos Statisztikai Adatgyűjtési
 
-| 1576 | Jelentés az egészségügyi ellátás beruházási és felújítási kiadásainak alakulásáról | AGY | Évenkénti | (1) Valamennyi működési engedéllyel rendelkező, fekvőbeteg és járóbeteg szakellátást végző, a közszolgáltatásban részt vevő kórház, önálló szakrendelő intézet, és az OMSZ a saját intézeti beruházási és felújítási kiadásáról. (2) A települési önkormányzatok a felügyeletük alá tartozó fekvő- és járóbeteg szakellátást, valamint alapellátást végző egészségügyi intézményekben megvalósult, az önkormányzat által végzett beruházási és felújítási kiadásokról. Az állami tulajdonú egészségügyi intézmények részére végzett beruházási és felújítási költségekről az adatszolgáltatást a fenntartó intézmény végzi. | 1.) a tárgyévet követő március 10., 2.) a tárgyévet követő március 31. |  |
+## Program Adatkörök
 
-| 1578 | Jelentés a gyógyszertárakról | AGY | Évenkénti | Közforgalmú és intézeti gyógyszertárak (Megyei Tisztifőgyógyszerészek által) | a tárgyévet követő január 25. |  |
+## 2K27263_1
 
-| 1589 | Kimutatás az orvosok, fogorvosok területi, szakképesítés, kor és nemek szerinti megoszlásáról | AÁ | Évenkénti | Egészségügyi Engedélyezési és Közig. Hiv. | a tárgyévet követő március 31. |  |
-
-| 1626 | Adatgyűjtés a Nemzeti Erőforrás Minisztérium munkaügyi és bérnyilvántartási rendszeréhez valamint a közreműködői szerződésekről | AGY | Évenkénti | A nem MÁK számfejtési körbe tartozó, valamint a tárgyévben MÁK számfejtési körből kilépett települési önkormányzatok, ÁNTSZ, valamennyi ÁNTSZ engedéllyel rendelkező, közszolgáltatásban résztvevő egészségügyi szolgáltató (kivéve a vállalkozási, vagy egyéni gazdasági tevékenység formájában működő egészségügyi szolgáltatókat, ha nem nyújtanak fekvő és járóbeteg szakellátást). Közreműködői szerződésekről: valamennyi fekvőbeteg-ellátást nyújtó intézet, valamint önálló járóbeteg-ellátást nyújtó szakorvosi rendelőintézet. | a tárgyévet követő január 31., a közreműködői szerződéssel rendelkezők a tárgyévet követő február 28. |  |
-
-| 1630 | Épületkataszter az egészségügyi szolgáltatókról | AGY | Évenkénti | valamennyi egészségügyi szolgáltató | a tárgyévet követő január 31. |  |
-
-| 1631 | Energiakataszter a fekvőbetegellátó intézetekről | AGY | Évenkénti | önkormányzati tulajdonú, magántulajdonú fekvőbeteg ellátó intézmények, orvos- és egészségtudományi egyetemek fekvőbeteg intézményei, a MÁV, BM, HM, KIM tulajdonú, egyházi, alapítványi, egészségügyi ellátást is nyújtó fekvőbeteg intézmények | a tárgyévet követő január 31. |  |
-
-| 1860 | Oklevelet, diplomát szerzett orvosok, fogorvosok, gyógyszerészek létszámkimutatása | AGY | Évenkénti | egészségügyi felsőoktatási intézmények | a tárgyévet követő február 28. |  |
-
-| 1861 | Kimutatás a gyógyszerészek területi, szakképesítés, kor és nemek szerinti megoszlásáról | AÁ | Évenkénti | Egészségügyi Engedélyezési és Közig. Hiv. | a tárgyévet követő március 31. |  |
-
-| 1913 | Havi jelentés a gyógyszer-nagykereskedők gyógyszer beszerzéseiről és kiszállításairól, valamint a gyógyszergyártók saját előállítású termékeinek kiszállításairól | AGY | Havonkénti | valamennyi gyógyszergyártó és gyógyszernagykereskedő | a tárgyidőszakot követő hónap 15. nap |  |
-
-| 1914 | Jelentés a gyermekgondozási díjat igénybe vevőkről | AGY | Negyedévenkénti | társadalombiztosítási kifizetőhelyek | a tárgynegyedévet követő hó 11. | 883/2004/EK Rendelet 987/2009/EK Rendelet |
-
-| 2179 | Jelentés a táncegyüttesekről | AGY | Évenkénti | hivatásos táncegyüttesek | a tárgyévet követő január 31. |  |
-
-| 2204 | Adatátvétel a Nemzeti Erőforrás Minisztérium munkaügyi és bérnyilvántartási rendszeréhez | AÁ | Havonkénti | Magyar Államkincstár (MÁK) | a tárgyhónapot követő hónap 25. |  |
-
-| 2220 | Adatszolgáltatás a nem állami oktatási intézmények oktatási kiadásairól | AGY | Évenkénti | A nem állami köz- és felsőoktatási intézmények | a tárgy évet követő május 31. | 452/2008/EK Rendelet 88/2011/EU Rendelet |
-
-| 2230 | Informatikakataszter az egészségügyi szolgáltatókról | AGY | Évenkénti | valamennyi egészségügyi szolgáltató | tárgyévet követő január 31. |  |
-
-## Országos Statisztikai Adatgyűjtési Program
-
-## Adatkörök
-
-| nyilván- tartási száma | Adatgyűjtés - Adatátvétel |
+| nyilván- tartási száma |  | Adatgyűjtés | - Adatátvétel |
 
 | cím | adatkör |
 
-| Nemzeti Erőforrás Minisztérium |  |
+| Nemzeti Fejlesztési Minisztérium |
 
-| 1410 | Adatszolgáltatás a közoktatási intézmények tevékenységéről | (1) Közoktatási intézmények infrastruktúrája, informatikai ellátottsága, iskolai könyvtár (2) A pedagógusok továbbképzésben való részvétele (3) A közoktatási intézmény által ellátott óvodai, általános iskolai, szakiskolai, speciális szakiskolai, gimnáziumi, szakközépiskolai feladatonként bontva a) a csoportok, osztályok, b) termek, c) gyermekek, tanulók, d) pedagógusok, illetve egyéb alkalmazottak e) végzettségi adatok, tanévvégi adatok f) külföldi tanulók, g) nemzetiségi oktatás, idegennyelv-oktatás, h) sajátos nevelési igényű gyermekek, tanulók i) szakképzés adatai szakmánként, j) diákjóléti adatok k) emelt szintű oktatásban részesülők száma tantárgyanként az érettségit adó középiskolákban (4) alapfokú művészetoktatás, (5) kollégium, (6) logopédiai ellátás, (7) nevelési tanácsadó tevékenysége, (8) szakértői és rehabilitációs bizottság, (9) korai fejlesztés és gondozás, fejlesztő felkészítés, fejlesztő iskolai oktatás, (10) a továbbtanulási, pályaválasztási tanácsadó, konduktív pedagógiai ellátás, gyógytestnevelés pedagógiai szakszolgálatok, illetve pedagógiai szakmai szolgáltatás feladatai |
+| 1368 | A légiközlekedési repülőesemények adatai | (1) Légiközlekedési repülőesemények okának, körülményeinek feltárása: a) üzembentartónként b) eseménykategóriánként c) az eseményt előidéző okok szerint d) típusonként |
 
-| 1430 | Jelentés az állami nyelvvizsgát tett vizsgázókról | Az állami nyelvvizsgát tett hallgatók száma, szintenként és nyelvenként |
+| 1382 | A gazdálkodást jellemző fontosabb adatok | (1) Személy- és teherszállítás vasúton, közúton, vízi úton vagy légi úton, függetlenül attól, hogy menetrendszerű vagy nem menetrendszerű (2) Személy- és áruszállítást kiegészítő tevékenység, mint a szállítási infrastruktúra részeinek üzemeltetése, közvetlenül a szállítás előtt és után, vagy a szállítás közbeni árukezelés, az összes létesítmény szállítási üzemeltetése és fenntartása |
 
-| 1434 | Jelentés a felsőoktatási intézmények tanév eleji helyzetéről | (1) A felsőoktatási intézmények hallgatóinak főbb adatai karonként, képzési helyenként, tagozatonként és szakonként (2) Külföldi hallgatók országonként (3) Koréves létszám képzési szintenként (4) Új belépők elővégzettsége (5) A hallgatók állandó lakhelye, állampolgársága, elővégzettség szerzésének országa (6) Idegennyelv-oktatás (7) Kollégiumi ellátásban részesülők adatai (8) A hallgatók térítései és juttatásai (9) Oktatók és nem oktatók adatai (10) Informatikai ellátottság |
+| 1390 | A helyi közutak adatai | (1) A helyi közutak útkategóriánkénti hossza, a kiépített utak területe és átlagszélessége (2) A kiépített helyi közutak hossza burkolat-fajtánként (3) A kiépített helyi közutak burkolatának területe (4) A helyi közutak részét képező hidak száma, hossza, területe, a szabad nyílás figyelembevételével (5) A helyi közutakra fordított bruttó kiadások a beszámolási időszakban |
 
-| 1435 | Jelentés az év folyamán oklevelet, tudományos fokozatot, címet és felsőfokú, illetve szakirányú szakképzettséget szerzett hallgatókról | (1) Az év folyamán oklevelet szerzett hallgatók főbb adatai a) szakonként, képzési szintenként b) korév és képzési szint szerint |
+| 1392 | A hajózási engedélyesek, közforgalmú kikötők, magán kikötők, motoros kishajók, vitorlás kishajók adatai | (1) Hajózási engedélyek adatai: a) vízi szállítás b) áruszállítás c) személyszállítás d) rév és komp üzemeltetés (2) Közforgalmú/magán kikötők adatai: a) Duna b) Tisza c) Balaton d) egyéb (3) Magyarországon lajstromozott úszólétesítmények adatai: a) tengeri nagyhajó b) nagyhajó (gépi, vitorlás, gépnélküli) c) kishajó (motoros, vitorlás) d) úszómű e) önjáró úszómunkagép f) nem önjáró úszómunkagép g) önjáró komp h) nem önjáró komp |
 
-| 1438 | Jelentés a közművelődési tevékenységet folytató szervezetek működéséről | (1) A közművelődési tevékenységet végző szervezetek adatai (A szervezet típusa, gazdálkodásának jellemzője, a tevékenység ellátásának infrastruktúrája, munkaügyi adatok, pénzügyi adatok, informatikai ellátottság) (2) A közművelődési tevékenység adatai: a) Alkotó művelődési közösségek b) Klubok, körök, szakkörök c) Tanfolyamok d) Képzések e) Ismeretterjesztés f) Táborok g) Kiállítások, műsorok, rendezvények h) Nemzetiségi és etnikai közművelődési tevékenység i) Szolgáltatások j) Külső szervek tevékenysége k) Külföldiek részvétele a hazai programokban l) Külföldön rendezett programok m) Kiadott közművelődési ismerethordozók n) Székhelyen kívül végzett tevékenység |
+| 1394 | A polgári légiközlekedés statisztikai adatai | (1) Beruházási, felújítási és karbantartási adatok (2) A magyar légijárművel történt személysérüléses balesetek (3) Légiközlekedési balesetek jellemzői (belföldön, külföldön) (4) Bekövetkezett repülőesemények jellemzői (belföldön, külföldön) |
 
-| 1441 | Jelentés a magyarországi állatkertek, vadasparkok és kultúrparkok tevékenységéről | (1) Állatkertek, vadasparkok és kultúrparkok adatai állatállománya (2) Látogatók száma (3) Közművelődési tevékenység: klubok, körök, szakkörök, ismeretterjesztés, kiállítások, műsorok, rendezvények, szolgáltatások, oktatás, képzés, kiadott ismerethordozók (4) Az állatkertek, vadasparkok és kulturparkok egyéb adatai (munkaügyi adatok, pénzügyi adatok, informatikai ellátottság) |
+| 1396 | Jelentés a közúti közlekedéshez kapcsolódó tevékenységekről | (1) Komplex ellenőrzések (belföldi, külföldi járművek) a) közúti, telephelyi, közlekedésbiztonsági és környezetvédelmi, ADR b) forgalmi engedélyezés, bejelentés és egyéb hatósági munka c) vezetési és pihenőidő ellenőrzés d) autóbontók tevékenységének ellenőrzése (2) A járművezetők vizsgáztatásának adatai: a) kategóriák b) vizsgatárgyak szerint (3) A gépjárműfenntartó szervezetek adatai: a) műhelyek száma b) tevékenység jellege c) foglalkoztatott létszám d) gépjárműjavító műhelyek tevékenységére vonatkozó adatok (4) Járművizsgálati tevékenység statisztikai adatai, járműfajták szerint a) saját/külső vizsga b) forgalomba helyezés előtti/időszakos vizsga (5) Veszélyes árut szállító járművek jóváhagyási igazolásai (6) Autójavító szolgáltatási panaszügyek (7) Minősítésre kötelezett alkatrész ellenőrzési tevékenység a) gyártónál b) kereskedőnél c) felhasználónál (8) Típusbizonyítvány, általános forgalomba helyezési engedély, sorozatátalakítási engedély, jóváhagyás, minősítés, elektronikus forgalomba helyezés (járműfajtánként) |
 
-| 1442 | Jelentés a könyvtárak tevékenységéről | (1) A könyvtári szolgáltatóhelyek száma, alapterület, nyitva tartás (2) A könyvtárak leltári állománya, kurrens folyóiratok (3) A könyvtári szolgáltatás adatai: kölcsönzés, helyben használat, információszolgáltatás, rendezvények, távoktatás, fénymásolás (4) Könyvtárhasználók, használatok, kölcsönzés, könyvtárközi kölcsönzés (5) A könyvtár által szervezett rendezvények (6) A más településen (nem a székhelyen) működő ellátóhelyek adatai (7) A könyvtárak adatai (Szakmai besorolás, munkaügyi adatok, pénzügyi adatok, informatikai ellátottság) (8) A könyvtár digitalizált anyaga |
+| 1397 | Kötélpálya, sikló, távolsági szalagpálya és sífelvonó szállítási és baleseti adatai | (1) Kötélpálya, távolsági szalagpálya és sikló szállítási és baleseti adatai (rendkívüli események és balesetek okai, következményei) (2) Sífelvonó szállítási és baleseti adatai (rendkívüli események és balesetek okai, valamint következményei) |
 
-| 1444 | Muzeális intézmények adatai | (1) Tárgyi gyűjteményi anyag (2) Egyéb gyűjteményi anyag (3) A tárgyévben állagvédelmi kezelésében részesült műtárgyak (4) Műtárgynyilvántartás (5) Kutatás, publikációk (6) Kommunikációs kapcsolatok (7) Múzeumi rendezvények (Szakmai, iskolai oktatást segítő, szabadidős foglakozások) (8) Kiállítások (Állandó, időszaki, külső helyszínen) (9) Kiállítások és rendezvények látogatói (10) A muzeális intézmény adatai (Szakmai besorolás, munkaügyi adatok, pénzügyi adatok, informatikai ellátottság) |
+| 1399 | A vízi utak fenntartási munkái és költségei | (1) Vízi utak fenntartási munkái és költségei a) víziút jellemzői b) víziútak beruházási és fenntartási költsége c) beruházási kiadások d) folyó kiadások e) általános kiadások f) vízi rendőrséggel kapcsolatos kiadások (2) Víziútak jelzései a) úszó jelek b) parti jelek |
 
-| 1445 | Jelentés a kiállításokról | (1) Kortársművészeti kiállítások címe, helye, műfaja, látogatók száma (2) A kiállítás szervező adatai (Munkaügyi adatok, pénzügyi adatok) |
+| 1705 | A postai, hírközlési, média és műsorszórási hatósági tevékenység | (1) Nyilvántartott szolgáltatási jogosultságok és bejelentések állománya (2) Tárgyévben kiadott engedélyek és nyilvántartásba vett bejelentések (3) Üzletszabályzat-, ÁSZF-ek (Általános Szerzősédi Feltételek) módosítása (4) Rádióhálózatok engedélyezése, bejelentése (5) Nyomvonal-jellegű elektronikus hírközlési építmények engedélyezése, bejelentése (6) Sajtótermékek bejelentése, nyilvántartásba vétele (7) Általános hatósági felügyelet és piacfelügyelet (8) Frekvenciakijelölések, rádióengedélyek (9) Média hatósági tevékenység |
 
-| 1446 | Jelentés a levéltárak működéséről | (1) A levéltári anyag feldolgozottsága (2) A levéltári anyag mennyiségének változása (3) Irattáros képzés (4) Anyakönyvi másodpéldányok kezelése (5) Iratképző szervek felügyelete (6) A speciális levéltári anyagok mennyiségének változása (7) Levéltári anyag védelmére folytatott tevékenység (8) A levéltár biztonsági filmezett anyaga (9) A levéltár digitalizált anyaga (10) Kutatószolgálat (11) Ügyfélszolgálat (12) Levéltári iratok kölcsönzése (13) Közművelődési feladatok (14) A levéltár adatai (a használatban lévő helyiségek, a levéltár típusa, munkaügyi adatok, pénzügyi adatok, informatikai ellátottság) |
+| 1707 | A távközlési tevékenység évközi adatai | (1) Helyhez kötött telefon szolgáltatás a) bekapcsolt fővonalak száma b) a tárgyidőszak végén üzemelő, xDSL-re alkalmas fővonalak száma c) a kezdeményezett beszélgetés célú hívások száma d) a kezdeményezett beszélgetés célú hívások időtartama e) közvetítőválasztás f) közvetítőválasztás keretében nyújtott szolgáltatási szerződések száma g) a kezdeményezett hívások száma (KTV telefon és egyéb VoIP fővonalakból kezdeményezett hívásokkal együtt) h) a kezdeményezett hívások időtartama és iránya, percben (KTV telefon és egyéb VoIP fővonalakból kezdeményezett hívásokkal együtt) (2) Mobil rádiótelefon-szolgáltatás a) a mobilinternet szolgáltatás beltéri (lakossági) ellátottsága és kültéri (földrajzi) lefedettsége b) mobil rádiótelefon-szolgáltatás adatai c) virtuális mobilszolgáltatás adatai (MVNO) |
 
-| 1447 | Jelentés a színházak (opera) tevékenységéről | (1) A színházlátogatók száma jegyfajták szerint (2) Bérletezés (3) Előadások és látogatók megyei bontásban (4) Előadások és látogatók az előadott darabok szerinti részletezésben (5) Az év folyamán bemutatott és felújított darabok (6) Külföldi vendégszereplések (7) Vendégszereplő társulatok (8) A színház típusa, befogadóképessége, munkaügyi és pénzügyi adatok, informatikai ellátottság |
+| 1708 | A távközlési tevékenység berendezései és szolgáltatásai | (1) Helyhez kötött telefon szolgáltatás a) bekapcsolt fővonalak száma év végén, településenként b) év végén végén üzemelő, xDSL-re alkalmas fővonalak megbontása településenként c) a kezdeményezett beszédcélú hívások száma településenként d) a kezdeményezett beszédcélú hívások időtartama településenként e) közvetítőválasztás f) közvetítőválasztás keretében nyújtott szolgáltatási szerződések száma g) a kezdeményezett hívások száma (KTV telefon és egyéb VoIP fővonalakból kezdeményezett hívásokkal együtt) h) a kezdeményezett hívások időtartama és iránya, percben (KTV telefon és egyéb VoIP fővonalakból kezdeményezett hívásokkal együtt) (2) Mobil rádiótelefon-szolgáltatás a) a mobilinternet szolgáltatás beltéri (lakossági) ellátottsága és kültéri (földrajzi) lefedettsége - (LTE) b) mobil rádiótelefon-szolgáltatás adatai c) virtuális mobilszolgáltatás adatai (MVNO) d) a mobil rádiótelefon-hálózat bázisállomásai az év végén e) a mobil rádiótelefon-szolgáltatás nyomvonalas hálózati eszközei, az év végén (a hálózat azon szakaszai, amelyek kizárólag a mobil bázisállomások működtetéséhez kerültek kiépítésre) (3) Távközlési infrastruktúra a) a szolgáltató által ellátott terület előfizetői távbeszélő központjainak és az MSAN elérési hálózati koncentrátorok száma illetve kapacitása településenkénti bontásban, az év végén b) a szolgáltató által ellátott terület DSLAM központjainak száma településenkénti bontásban, az év végén c) a kábeltelevízió fejállomások száma településenkénti bontásban, az év végén |
 
-| 1449 | Jelentés a szabadtéri játékokról | (1) A szabadtéri színházak látogatóinak száma jegyfajták szerint (2) Előadások és látogatók az előadott darabok szerinti részletezésben (3) A szabadtéri színház, befogadóképessége, munkaügyi és pénzügyi adatok, informatikai ellátottság |
+| 1811 | Postai szolgáltatás és futárszolgálat eszközei, a szolgáltatás minőségi mutatói | (1) Postai szolgáltatás és futárszolgálat eszközei, a szolgáltatás minőségi mutatói (2) Állandó postai szolgáltatóhelyek száma területi bontásban, területi igazgatóságonként (3) Állandó postai szolgáltatóhelyek száma település-kategóriák szerint (4) Állandó postai szolgáltatóhellyel, mobilpostával ellátott települések száma, száma területi bontásban, száma területi igazgatóságonként (5) Csomag, postautalvány- és csekk felvételi és kézbesítőhelyek száma (6) Egyéb szolgáltatásokat végző szolgáltatóhelyek száma (7) Géppel feldolgozott levél és postacsomag küldemények száma (8) Közönséges, könyvelt és elsőbbségi küldemények száma (9) Fenntartott postai szolgáltatás körébe tartozó postai küldemények száma (10) Felvett és kézbesített csomagküldemények száma (11) Belföldön felvett küldemények száma, területi bontásban (12) Pénzforgalmi adatok (13) Táviratforgalmi adatok (14) Bélyegkibocsátás jellemzői számai (15) Hírlapforgalomra vonatkozó adatok (16) Postai szolgáltatáshoz használt szállítóeszközök száma (17) A postai szolgáltatás minőségét jellemző adatok (18) A postai szolgáltatás minőségi mutatói (19) Egyetemes postai szolgáltatási körön kívül továbbított küldemények száma (20) Nemzeti postaszolgálaton kívüli futárpostai szolgáltatás forgalmi adatai (21) Nemzeti postaszolgálaton kívüli futárpostai szolgáltatás mutatói (22) A továbbításra kerülő küldemények mennyisége felvételi hely szerint területi bontásban (23) A továbbított küldemények mennyisége teljesítési (átadási) hely szerint, területi bontásban |
 
-| 1451 | Jelentés a hangversenyekről | (1) Hangversenyek és látogatóik száma a hangverseny műfaja szerint (2) Hangversenyek és látogatóik száma megyénként (3) Bérletezés (4) A látogatott helységek száma megyénként (5) Pénzügyi adatok, munkaügyi adatok |
+| 1812 | Vasúti infrasruktúra, közlekedési eszközök, üzemi és szállítási teljesítmények adatai | (1) Az infrastruktúra állománya, forgalmi és műszaki jellemzők szerinti megoszlásai (2) Közlekedési eszközök forgalmi, energetikai, és műszaki jellemzők szerinti megoszlásai (3) A foglalkoztatottak adatai az üzemi teljesítmények megoszlása szerint (4) Beruházások és ráfordítások az infrastruktúra és közlekedési eszközök főbb csoportjai szerint (5) Vasúti teljesítmények a forgalom szempontjából kiemelt jellemzők alapján |
 
-| 1454 | Jelentés a magyarországi mozik helyzetéről | (1) A mozik forgalmazási adatai (2) A tárgyévben bemutatott filmek forgalmi adatai (3) Műsorellátás (4) A mozi támogatása források szerint (5) A mozi jellege, mozitermek száma, befogadóképesség, üzemeltetési adatok, munkaügyi, pénzügyi és informatikai adatok, technikai adatok |
+| 1857 | A kikötői áru- és hajóforgalom | (1) Kikötői áru- és hajóforgalom adatai (2) Kikötő neve, helye (3) Rakodás helye (4) Szállítást végző hajó típusa és a feladó-, vagy a rendeltetési belvízi kikötő adatai (5) Be-, vagy kirakott áru megnevezése és tömege (mennyisége) (6) Be-, vagy kirakott áru (árucsoport) kódszáma |
 
-| 1460 | Jelentés a megjelentetett VHS, DVD műsorokról | (1) A tárgyévben megjelentetett DVD/VHS műsorok adatai címenként a) eredeti cím, gyártó ország, eredeti tulajdonos b) a jogfelhasználás kezdete és vége c) korhatár szerinti besorolás, a műsor jellege d) szinkronizálásra vonatkozó információ, műsorhordozó |
+| 1957 | A hírközlési gazdasági szervezetek gazdálkodását jellemző adatok | (1) Működési adatok a tárgynegyedévben (tárgyidőszak végi adatok) (2) Vezetékes hívások végződtetéséért más távközlési szolgáltatótól kapott árbevétel adatai (3) Mobil hívások végződtetéséért más távközlési szolgáltatótól kapott árbevétel adatai (4) Vezetékes hálózatról indított hívások végződtetéséért más távközlési szolgáltatónak fizetett díj (5) Mobil hálózatról indított hívások végződtetéséért más távközlési szolgáltatónak fizetett díj (6) Távközlési szolgáltató által, internet-szolgáltatóknak átengedett díjak adatai (7) Internet-szolgáltató részére, távközlési szolgáltatóktól kapott díjak adatai (8) Beruházások adatai (9) Munkaügyi adatok (10) Információ az adatszolgáltatásra kijelölt társaságba történt befektetés tulajdonosi struktúrájáról (11) Információ az adatszolgáltatást teljesítő társaság befektetésének tulajdonosi struktúrájáról (csak a „befolyásoló” részesedéssel rendelkező vállalkozásokról) |
 
-| 1464 | Jelentés az év folyamán befejezett filmekről | (1) Az év folyamán befejezett egész estés és rövidfilmek száma adathordozó típusonként és kategóriánként, műsoridő, koprodukciók (2) Az elkészült filmek cím szerinti felsorolása, típusa, adathordozója, műsoridő, eladott példányok száma, értékesítéssel elért bevétel |
+| 1994 | Az internet szolgáltatás évközi adatai | (1) Helyhez kötött internet-szolgáltatás a) a keskenysávú internet-szolgáltatás előfizetőinek száma negyedév végén, db b) a szélessávú internet-szolgáltatás előfizetőinek száma c) a szélessávú internet-szolgáltatás előfizetőinek száma, névleges sávszélesség szerinti bontásban (letöltési irányban), kiskereskedelmi bérelt vonali előfizetések nélkül, negyedév végén, db d) bérelt vonali előfizetések száma - kiskereskedelmi forgalomban e) a szélessávú internet-szolgáltatás előfizetőinek száma, a garantált sávszélesség szerinti bontásban (letöltési irányban), az negyedév végén, db f) a szélessávú internet-szolgáltatás előfizetőinek száma negyedév végén, db g) a bérelt vonali szélessávú (144 kb/s-nál nagyobb letöltési irányú) - kiskereskedelmi forgalomban elérhető - szolgáltatás előfizetőinek száma, negyedév végén, db h) a szélessávú internet-szolgáltatás forgalmi adatai hozzáférés szerint, negyedév végén (2) Mobilinternet-szolgáltatás (3) Televízió-szolgálatatás a) a televízió szolgáltatás és előfizetői csomagok év végi adatai b) TV előfizetések száma technológiai bontásban c) TV előfizetések száma vezetékes jelátviteli technológiák esetén d) TV előfizetések száma sugárzott jelátviteli technológiák esetén |
 
-| 1467 | Jelentés a tanév I. évfolyamára jelentkezett pályázókról | (1) A felsőoktatási intézményekbe első helyre jelentkezett pályázók a) száma, b) nők száma, c) a nyelvvizsgával rendelkezők száma, d) a jelentkezés évében érettségizettek száma e) az államilag támogatott képzésre jelentkezők száma, f) a jelentkezések összes száma szakonként. |
+| 1995 | Az internet szolgáltatás berendezései és szolgáltatásai | (1) Helyhez kötött internet-szolgáltatás a) a keskenysávú internet-szolgáltatás előfizetőinek száma év végén, db b) a szélessávú internet-szolgáltatás előfizetőinek száma c) a szélessávú internet-szolgáltatás előfizetőinek száma, névleges sávszélesség szerinti bontásban (letöltési irányban), kiskereskedelmi bérelt vonali előfizetések nélkül, év végén, db d) bérelt vonali előfizetések száma - kiskereskedelmi forgalomban e) a szélessávú internet-szolgáltatás előfizetőinek száma, a garantált sávszélesség szerinti bontásban (letöltési irányban), év végén, db f) a szélessávú internet-szolgáltatás előfizetőinek száma települési bontásban, év végén, db g) a bérelt vonali szélessávú (144 kb/s-nál nagyobb letöltési irányú) - kiskereskedelmi forgalomban elérhető - szolgáltatás előfizetőinek száma területi bontásban, év végén, db h) a szélesávú internet-szolgáltatás forgalmi adatai hozzáférés szerint, év végén (2) Mobilinternet-szolgáltatás (3) Televízió-szolgáltatás a) a televízió szolgáltatás és előfizetői csomagok év végi adatai b) TV előfizetések száma technológiai bontásban c) TV előfizetések száma vezetékes jelátviteli technológiák esetén |
 
-| 1468 | Jelentés a tanév I. évfolyamára felvett pályázókról | (1) A felsőoktatási intézményekbe felvételt nyert pályázók a) száma, b) nők száma, c) a nyelvvizsgával rendelkezők száma, d) a jelentkezés évében érettségizettek száma, e) az államilag támogatott képzésre felvettek száma szakonként. |
+| 2145 | A postai szolgáltatás és a futárszolgálat negyedéves adatai | (1) A postai szolgáltatás és a futárszolgálat negyedéves adatai (2) Posta és futárszolgálat negyedévre vonatkozó forgalmi adatai (3) Utalványforgalom negyedévi adatai (4) Postai szolgáltató által végzett egyéb tevékenység forgalmi adatai (5) Postai szolgáltatás bevételi adatai |
 
-| 1477 | Az egészségügyi intézmények árinformációi | (1) Egészségügyi intézmények által vásárolt anyagok, termékek és szolgáltatások értéke beszerzési forrás, ártípus, felhasználási terület, mennyiség és egységár szerint (2) Egészségügyi intézmények éves dologi kiadásai |
+| 2222 | Az út infrastruktúra adatai | (1) Az útra fordított költségek, autópálya (2) Az útra fordított költségek, autóút (3) Az útra fordított költségek, elsőrendű főutak (4) Az útra fordított költségek, másodrendű főutak (5) Az útra fordított költségek, mellékutak (6) Önkormányzati utak ráfordítás és hossz adatai (7) Úthasználati (forgalmi) és hossz adatok a) országos úthálózati kategóriákban b) 7 jármű kategóriában (8) Úthasználati (forgalmi) adatok a) országos úthálózati kategóriákban b) 15 (teher) jármű kategóriában (9) Hitelszolgálati adatok az útpályákról |
 
-| 1498 | Jelentés a bruttó 100 ezer Ft értékhatár feletti tárgyi eszköznek minősülő egészségügyi gépek és műszerek állományának változásáról | Tárgyi eszköznek minősülő egészségügyi gépek és műszerek állományának változása az állománynövekedés jogcíme, működési hely, származási ország, gyártó cég megnevezése, gyártás éve, beszerzés és üzembe helyezés időpontja és a beszerzés értéke szerint, funkcionális vizsgálatok jellemzői, éves karbantartási-javítási költség, karbantartás-javítás önköltsége a kivonás idejéig, eszköz kihasználtság, eszközzel ellátott esetszám, aktuális bruttó érték: javítás és karbantartás előző évi költsége (saját tevékenység értéke) (Ft) javítás és karbantartás előző évi költsége (kiszervezett tevékenység értéke) (Ft) |
+| 2223 | A vasút infrastruktúra adatai | (1) A vasúti főhálózatra vonatkozó hossz adatok (2) A vasúti mellékhálózatra vonatkozó hossz adatok (3) A vasútra fordított költségek (működő infrastruktúra költségei) főhálózat (4) A vasútra fordított költségek (működő infrastruktúra költségei) mellék hálózat (5) A vasúti pályák használatára vonatkozó adatok (főhálózat). Vontatási módonként és forgalmi osztályonként. (6) A vasúti pályák használatára vonatkozó adatok (mellék hálózat). Vontatási módonként és forgalmi osztályonként. (7) Hitelszolgálati adatok a vasúti pályákra. Hálózatonként, hitelszolgálati módonként |
 
-| 1501 | Jelentés a közforgalmú gyógyszertárak támogatott és nem támogatott gyógyszerforgalmáról (gyógyszertáranként, gyógyszerenként, megyénként és országos összesítésben) | (1) Gyógyszerkészítményekre vonatkozó forgalmi adatok jogcímenként (2) Gyógyszertárakra vonatkozó gyógyszerforgalmi adatok megyénként és országos összesítésben |
+| 2224 | A vízi út infrastruktúra datai | (1) Az osztályozott vízi utak hossza osztályonként (2) A vízi útra fordított költségek, vízi út osztályonként (3) A vízi utak használatára vonatkozó adatok a) vízi út osztályonként b) hajókategóriánként c) a Vízügyi és Környezetvédelmi Központi Igazgatóság területéről (4) Hitelszolgálati adatok a vízi utakra a) összevont osztályokban b) hitelszolgálati módonként |
 
-| 1510 | Jelentés az egészségügyi szakképzésben végzettekről | (1) Az egészségügyi szakképzés formája és ideje (2) A szakmai vizsga időpontja (3) A kiadott bizonyítványok száma szakképesítések szerint (4) A szakképzésben résztvevők összetétele nem és állampolgárság szerint |
+| 2225 | A hálózati közlekedési infrastruktúra felügyeleti adatai | (1) A vasúthálózatra vonatkozó felügyeleti kiadások (főhálózat) (2) A vasúthálózatra vonatkozó felügyeleti kiadások (mellékhálózat) (3) Az országos közutakra vonatkozó felügyeleti kiadások (4) Az önkormányzati utakra vonatkozó felügyeleti kiadások (5) Az osztályozott vízi utakra vonatkozó felügyeleti kiadások (6) Hitelszolgálati adatok a vasúti főhálózatra: hálózatonként, hitelszolgálati módonként (7) Hitelszolgálati adatok a vasúti mellékhálózatra: hálózatonként, hitelszolgálati módonként (8) Hitelszolgálati adatok a közutakra: összevont útkategóriánként, hitelszolgálati módonként (9) Hitelszolgálati adatok a vízi utakra: összevont osztályokban, hitelszolgálati módonként |
 
-| 1511 | Jelentés a javítóintézetek helyzetéről | (1) A javítóintézet férőhelyeinek száma (2) A javítóintézeti nevelésre utaltak megoszlása életkor és az ott tartózkodás ideje szerint (3) Az előzetes letartóztatottak megoszlása életkor és az ott tartózkodás ideje szerint (4) A javítóintézeti nevelésre utalt fiatalkorúak megoszlása az elkövetett bűncselekmény jellege szerint (5) A javítóintézetbe bűncselekmény elkövetésének alapos gyanúja miatt előzetes letartóztatottként tartózkodó fiatalkorúak megoszlása a bűncselekmény jellege szerint (6) A növendékek családi körülményei (7) Növendékek száma a beutalást megelőző állandó tartózkodási hely és a végzett tevékenység szerin (8) A tárgyévben az intézetbe beutalt növendékek száma a legmagasabb iskolai végzettség (osztály) szerint (9) A tárgyévben az intézeti növendékek oktatása (10) Tanfolyami képzésben résztvevők és azt befejező intézeti növendékek száma (11) Szakmunkásképzésben résztvevő és azt befejező növendékek száma (12) Növendékek száma a foglalkoztatás jellege szerint (13) Javítóintézeti növendékcsoportok száma (14) A jogszabályban előírt munkakörben foglalkoztatottak száma (15) Egyéb munkakörben alkalmazottak száma (16) A tárgyév folyamán az intézetből elbocsátott növendékek száma (17) A tárgyév folyamán az intézetből szabadított előzetes letartóztatottak száma (18) Szökések száma a tárgyév folyamán (19) A tárgyév folyamán a javítóintézetben visszaesőként ismételten elhelyezésre kerültek száma (20) Szökés alatt elkövetett bűncselekmények megoszlása a bűncselekmény jellege szerint (21) A tárgyévben a javítóintézetbe befogadottak megoszlása kor és az előzetes letartóztatásban töltött idő szerint (22) Adatok az intézetből elbocsátott növendékekről |
+| 2226 | A közlekedés rendészet ráfordítás adatai | (1) Az országos közutakra vonatkozó közlekedésrendészeti kiadások, útkategóriánként (2) Az önkormányzati utakra vonatkozó közlekedésrendészeti kiadások, útkategóriánként (3) Az osztályozott vízi utakra vonatkozó közlekedésrendészeti kiadások, útkategóriánként (4) Hitelszolgálati adatok a közutakra: összevont útkategóriánként, hitelszolgálati módonként (5) Hitelszolgálati adatok az osztályozott vízi utakra: összevont osztályokban, hitelszolgálati módonként |
 
-| 1514 | Egészségbiztosítási statisztikai jelentés havonként (I. lap) negyedévenként (II. lap, III. lap) | (1) Kifizetőhelyi létszámadatok (2) Keresőképtelenségre vonatkozó adatok, ebből: a) táppénzes adatok b) betegszabadság adatai (3) Terhességi-gyermekágyi segély adatai (4) Gyermekgondozási díj adatai |
+| 2227 | A közlekedési hálózati infrastruktúra központilag nyilvántartott hitelszolgálati adatai | (1) Központilag nyilvántartott hitelszolgálati adatok a vasút infrastruktúrára: fő és mellékvonal hálózatonként, hitelszolgálati módonként (2) Központilag nyilvántartott hitelszolgálati adatok az út infrastruktúrára: összevont útkategóriánként, hitelszolgálati módonként (3) Központilag nyilvántartott hitelszolgálati adatok az osztályozott vízi út infrastruktúrára: összevont osztályokban, hitelszolgálati módonként |
 
-| 1527 | Jelentés a sporttal kapcsolatos ágazati szegmensről | (1) Az államháztartáson belüli szervezetek tulajdonában/fenntartásában lévő sportlétesítmények adatai típusa helye (régiós illetve megyei bontásban) akadálymentesítettség foka kora tulajdonosok jellemző gazdálkodási formája vagyonkezelők/használók jellemző vagyonkezelési formája (2) A sportcélú szervezetek adatai (típusa, rendeltetése, helye (régiós illetve megyei bontásban) típusa rendeltetése helye (régiós illetve megyei bontásban) (3) Sportszakember és sportolói adatok sportszakemberek (nem, korcsoport, tevékenység végzésének helye, fogyatékosság, régiós illetve megyei bontásban) sportegészségügyi szakember (nem, korcsoport, tevékenység végzésének helye, fogyatékosság, régiós illetve megyei bontásban) versenyző-hivatásos (nem, korcsoport, tevékenység végzésének helye, fogyatékosság, régiós illetve megyei bontásban) versenyző- amatőr (nem, korcsoport, tevékenység végzésének helye, fogyatékosság, régiós illetve megyei bontásban) szabadidős sportoló (nem, korcsoport, tevékenység végzésének helye, fogyatékosság, régiós illetve megyei bontásban) diáksportoló (nem, korcsoport, tevékenység végzésének helye, fogyatékosság, régiós illetve megyei bontásban) hallgatói sportoló (nem, korcsoport, tevékenység végzésének helye, fogyatékosság, régiós illetve megyei bontásban) utánpótlás vagy versenysport szervezetben sportolók száma olimpiai (nyári-, téli-, és paralimpia) sportágak szerint és nemi bontásban |
+| 2246 | Légijárművek és az alkalmazott személyzet adatai | (1) Légi járművek száma, kapacitása, tulajdonságai a) repülőgép típusok (gyártó és modell) b) verzió (személyszállító repülőgép, áru/teher szállító repülőgép, személy- és teherszállító repülőgép, egyéb nem kereskedelmi célra használt repülőgép) c) légi járművek száma, év elején, év végén, beszerzés, selejtezés d) repülőgépek kapacitása e) repülőgép-használat az év folyamán f) rendelkezésre állási napok száma g) tulajdoni formák (2) Alkalmazottak (személyzet) száma és bérköltsége a) pilóták, másodpilóták b) egyéb repülőszemélyzet c) kabin-személyzet d) karbantartó személyzet e) jegyárusító és értékesítő személyzet |
 
-| 1549 | Összesítő jelentés a daganatos megbetegedésekről | Az észlelt összes rosszindulatú és in situ daganatos megbetegedés, az agy és a húgyhólyag jóindulatú daganata |
+| 2247 | Légiszállítási teljesítmények adatai | (1) Menetrendszerinti járatok adatai (2) Nem menetrendszerinti járatok adatai (3) Légitaxi járatok adatai |
 
-| 1560 | Összesítő az élelmiszer eredetű megbetegedési eseményekről | Élelmiszer-fertőzési és élelmiszer-mérgezési események adatai területi, szezonális és kórokozók szerinti bontásban |
+| 2248 | Légiszállítás az indulási és célállomások szerint | (1) Indulási és célállomás (2) Bevételt hozó nemzetközi menetrend szerinti és nem menetrendszerinti forgalom összesített adatai várospáronként (utas, áru, posta) |
 
-| 1561 | Bejelentett fertőző megbetegedések | Fertőző megbetegedések adatai területi, szezonális és életkor szerinti bontásban |
+| 2249 | Légiszállítás a repülés szakaszai szerint | (1) Indulási és célállomás (2) Repülőgép típusa (3) Járatok száma (4) Rendelkezésre álló kapacitás (utas, áru/posta) (5) Összes forgalom (szállított utas, áru, posta) |
 
-| 1565 | Influenza és influenzaszerű megbetegedések miatt orvoshoz fordult betegek becsült száma járványok idején | Influenzás betegek száma |
+| 2250 | Légitársaságok pénzügyi adatai | (1) Eredménykimutatás a) bevétel adatok b) kiadások adatai c) eredmény adatai (2) Mérlegkimutatás a) vagyon adatok b) tartozások adatai (3) Eredménytartalék kimutatás (4) Forgalmi és kapacitás adatok a) menetrend szerinti járatok adatai b) nem menetrend szerinti járatok adatai c) összesített adatok |
 
-| 1566 | Védőoltási jelentés | (1) Életkorhoz kötött kötelező oltások adatai a védőoltásra kötelezettek száma és a védőoltás teljesítési aránya szerint (2) Nemzetközi utakkal kapcsolatosan végzett védőoltások (3) Megbetegedési veszély elhárítása céljából térítésmentesen végzett védőoltások (4) Megbetegedési veszély esetén kötelező oltások száma megyénként |
+| 2251 | Magyarországi repülőterek forgalmi adatai | (1) A légiforgalom jellege (2) Összes légijármű mozgás (3) Utasforgalom adatai, induló, érkező, átszálló (4) Áruforgalom adatai, felrakott, lerakott, összesített (5) Postai küldemények forgalmára vonatkozó adatok, felrakott, lerakott, összesített |
 
-| 1570 | Jelentés az emberi mérgezési esetekről | (1) Gyógyszermérgezések adatai (2) Ipari-háztartási anyagokkal történt mérgezések adatai (3) Növény-védőszer mérgezések adatai (4) Egyéb mérgezések adatai |
-
-| 1573 | Jelentés a HIV-fertőzésekről, AIDS megbetegedésekről | (1) Újonnan felderített HIV-fertőzöttek rizikócsoportok és életkor szerint (2) AIDS betegek rizikócsoportok és életkor szerint (3) AIDS-ben meghaltak rizikócsoportok és életkor szerint |
-
-| 1576 | Jelentés az egészségügyi ellátás beruházási és felújítási kiadásainak alakulásáról | (1) Egészségügyi intézmények beruházási (épület, gép-műszer) adatai források szerint (2) Egészségügyi intézmények felújítási adatai források szerint |
-
-| 1578 | Jelentés a gyógyszertárakról | (1) Intézeti gyógyszertárak adatai (2) Fiókgyógyszertárak adatai (3) Közforgalmú gyógyszertárak adatai (4) Kézi gyógyszertárak adatai |
-
-| 1589 | Kimutatás az orvosok, fogorvosok területi, szakképesítés, kor és nemek szerinti megoszlásáról | (1) Orvosok területi, szakképesítés, kor és nem szerinti megoszlása (2) Fogorvosok területi, szakképesítés, kor és nem szerinti megoszlása |
-
-| 1626 | Adatgyűjtés a Nemzeti Erőforrás Minisztérium munkaügyi és bérnyilvántartási rendszeréhez valamint a közreműködői szerződésekről | Az egészségügyi ágazat bér- és munkaügyi adatai |
-
-| 1630 | Épületkataszter az egészségügyi szolgáltatókról | (1) Az épület főbb jellemző adatai (2) A telephely főbb jellemző adatai (3) Az intézet főbb jellemző adatai |
-
-| 1631 | Energiakataszter a fekvőbetegellátó intézetekről | (1) Éves energiafelhasználás adatai (2) Telephelyek fő adatai és általános energetikai jellemzői (3) Telephelyek hőenergia ellátó rendszereire vonatkozó adatok (4) Telephelyek villamos-, gáz-, olaj ellátó rendszerére vonatkozó adatok (5) Veszélyes hulladékok kezelésére vonatkozó adatok (6) Klímaberendezések a betegellátás területén, beépített berendezések jellemzői, teljesítmény és energiafelhasználási adatok |
-
-| 1860 | Oklevelet, diplomát szerzett orvosok, fogorvosok, gyógyszerészek létszámkimutatása | Oklevelet szerzett orvosok, fogorvosok, gyógyszerészek létszáma |
-
-| 1861 | Kimutatás a gyógyszerészek területi, szakképesítés, kor és nemek szerinti megoszlásáról | Gyógyszerészek területi, szakképesítés, kor és nem szerinti megoszlása |
-
-| 1913 | Havi jelentés a gyógyszer-nagykereskedők gyógyszer beszerzéseiről és kiszállításairól, valamint a gyógyszergyártók saját előállítású termékeinek kiszállításairól | (1) Gyógyszer-nagykereskedők gyógyszerbeszerzési és eladási adatai (2) Gyógyszergyártók eladási adatai a fekvőbeteg gyógyintézetek számára |
-
-| 1914 | Jelentés a gyermekgondozási díjat igénybe vevőkről | (1) A gyermekgondozási díjat igénybevevőre és a gyermekre vonatkozó adatok (2) Az ellátás folyósítására vonatkozó adatok (3) Az ellátás kifizetett összegére vonatkozó adatok |
-
-| 2179 | Jelentés a táncegyüttesekről | (1) A táncegyüttesek látogatóinak száma jegyfajták szerint (2) Előadások és látogatók megyei bontásban (3) Előadások és látogatók az előadott darabok szerinti részletezésben (4) Az év folyamán bemutatott és felújított darabok (5) Külföldi vendégszereplések (6) Vendégszereplő társulatok (7) A táncegyüttes állandó játszóhelyének befogadóképessége, munkaügyi és pénzügyi adatok, informatikai ellátottság |
-
-| 2204 | Adatátvétel a Nemzeti Erőforrás Minisztérium munkaügyi és bérnyilvántartási rendszeréhez | A Magyar Államkincstár bérszámfejtési körébe tartozó intézetek ágazati bér- és munkaügyi adatai |
-
-| 2220 | Adatszolgáltatás a nem állami oktatási intézmények oktatási kiadásairól | A nem állami oktatási intézmények oktatási kiadásai |
-
-| 2230 | Informatikakataszter az egészségügyi szolgáltatókról | (1) Intézmény és telephely informatikai jellemző adatai (2) Számítógép- és szerverkörnyezet |
+| 2252 | Légiközlekedési szakszemélyzet adatai | (1) A légiközlekedési szakszemélyzet képesítéseire vonatkozó adatok a) szakszolgálati engedély kategóriák és jogosítások típusai b) Magyarországon kiadott szakszolgálati engedélyek és jogosítások c) érvényes szakszolgálati engedélyek és jogosítások d) más állam által kiadott, elismert vagy konvertált szakszolgálati engedélyek és jogosítások éves adatai e más állam által kiadott, elismert vagy konvertált szakszolgálati engedélyek és jogosítások összesített adatai (2) A légiközlekedési szakszemélyzet képzésére rendelkezésre álló kapacitás adatai a) képző szervezetek száma b) képző szervezetek számának várható alakulása c) a férőhelyek számának várható alakulása |
 
 6. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^18]
 
-Országos Statisztikai Adatgyűjtési Program
-
-Adatgyűjtések és Adatátvételek
-
-Típus: AGY = adatgyűjtés AÁ, adatátvétel
-
-[^18]: A 6. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^18]: A 6. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
