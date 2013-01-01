@@ -28,4 +28,6 @@
 
 ## * a megfelelő rész aláhúzandó
 
-3. melléklet a 13/2011. (III. 25.) NGM rendelethez
+3. melléklet a 13/2011. (III. 25.) NGM rendelethez[^11]
+
+[^11]: A 3. melléklet az 53/2012. (XII. 29.) NGM rendelet 2. §-ával megállapított szöveg.

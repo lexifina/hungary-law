@@ -20,11 +20,11 @@ d) hozzájárul, hogy a vizsgálat eredményeként készült alkalmassági minő
 
 (7) A vizsgált személyt a pszichikai alkalmassági vizsgálat megkezdése előtt írásban – a 4. melléklet szerinti nyomtatványon – tájékoztatni kell
 
-a) arról, hogy a pszichikai alkalmassági vizsgálatot végző személyt és az alkalmasság tárgyában döntést hozó személyeket szakmai titoktartási kötelezettség terheli;
+a)[^2] arról, hogy a pszichikai alkalmassági vizsgálatot végző pszichológust, valamint a vizsgálat lefolytatásában résztvevő asszisztenst és az alkalmasság tárgyában döntést hozó személyeket szakmai titoktartási kötelezettség terheli;
 
 b) a keletkezett vizsgálati dokumentáció tárolására, kezelésére vonatkozó előírásokról;
 
-c) arról, hogy a pszichikai alkalmassági vizsgálat eredményét követően a 4. § (1) bekezdése szerint elkészült szöveges értékelés személyi anyagához nem csatolható és a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 34/A. §-a szerinti minősítéséhez nem használható fel;
+c)[^3] arról, hogy a pszichikai alkalmassági vizsgálat eredményét követően a 4. § (1) bekezdése szerint elkészült szöveges értékelés a személyi anyagához nem csatolható és a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAV tv.) 32/Y. §-a szerinti minősítéséhez nem használható fel;
 
 d) arról, hogy a pszichikai alkalmassági vizsgálat eredményét követően a 4. § (1) bekezdése szerint elkészült szöveges értékelésről másolatot kérhet.
 
@@ -32,4 +32,8 @@ d) arról, hogy a pszichikai alkalmassági vizsgálat eredményét követően a 
 
 (9) A pszichikai alkalmassági vizsgálat lezárultával a pszichológus részletesen tájékoztatja a vizsgált személyt az eredményről, és a meghozott minősítésről, továbbá a „Pszichikai követelményeknek nem felelt meg” minősítés esetén a jogorvoslati lehetőségről.
 
-(10) Aki a számára előírt pszichikai alkalmassági vizsgálaton nem vett részt, a vizsgálatba nem egyezik bele, vagy az alkalmassági vizsgálatot véleményező pszichológus döntése alapján a megjelölt munkakörre „Pszichikai követelményeknek nem felelt meg”, kormánytisztviselői állományba nem vehető fel.
+(10)[^4] Aki a számára előírt pszichikai alkalmassági vizsgálaton nem vett részt, a vizsgálatba nem egyezik bele, kormánytisztviselői állományba nem vehető fel.
+
+[^2]: A 3. § (7) bekezdés a) pontja az 53/2012. (XII. 29.) NGM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (7) bekezdés c) pontja az 53/2012. (XII. 29.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (10) bekezdése az 53/2012. (XII. 29.) NGM rendelet 4. § 1. pontja szerint módosított szöveg.

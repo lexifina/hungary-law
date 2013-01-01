@@ -12,4 +12,6 @@ b) „Pszichikai követelményeknek nem felelt meg” (PNMF).
 
 (4) A minősítést a 2. melléklet szerinti formanyomtatványra kell rávezetni.
 
-(5) A kijelölt szervezeti egység az alkalmassági minősítést írásban közli az illetékes munkáltatói jogkört gyakorló vezetővel.
+(5)[^5] A kijelölt szervezeti egység az alkalmassági minősítést írásban közli az illetékes munkáltatói jogkört gyakorló vezetővel. A munkáltatói jogkört gyakorló vezető az alkalmassági minősítésben foglaltak figyelembevételétől a Nemzeti Adó- és Vámhivatal törvényben meghatározott feladatainak ellátása érdekében eltekinthet, ha a vizsgált személy nem felel meg az adott munkakörben, beosztásban és munkahelyen végzett tevékenység pszichológiai alkalmassági követelményeinek, vagy nem alkalmas a munkaköri követelményekből adódó fokozott megterheléssel és igénybevétellel járó tevékenységek elvégzésére.
+
+[^5]: A 4. § (5) bekezdése az 53/2012. (XII. 29.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.

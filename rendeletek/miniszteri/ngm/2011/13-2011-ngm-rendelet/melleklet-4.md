@@ -1,272 +1,142 @@
-| Munkakör megnevezése | Központ | KEKI | Infor- matikai intézetek | KÜAF | Adó területi szervek | Vám területi szervek | Bűnügyi szervek |
+## Pszichikai alkalmassági vizsgálathoz kötött munkakörök:
 
-| adatellenőrzési ügyintéző |  |  |  |  | x |  |  |
+## 1. adóellenőr I.
 
-| adatfeldolgozási ügyintéző | x |  |  |  |  |  |  |
+## 2. adóellenőr II.
 
-| adatvédelmi referens | x | x | x |  |  | x | x |
+## 3. adóügyi koordinátor
 
-| adó szakreferens | x |  |  |  |  |  |  |
+## 4. adóügyi szakkoordinátor
 
-| adóalany-nyilvántartási ügyintéző |  |  |  | x | x |  |  |
+## 5. adóügyi szakreferens
 
-| adóellenőr/revizor | x | x | x | x | x | x | x |
+## 6. adóügyi ügyintéző I.
 
-| adószakmai menedzser | x |  |  |  |  |  |  |
+## 7. adóügyi ügyintéző II.
 
-| adóügyi ügyintéző | x |  |  | x |  |  |  |
+## 8. analitikai referens
 
-| alkalmazás menedzser |  |  | x |  |  |  |  |
+## 9. analitikai szakreferens
 
-| alkalmazásbevizsgáló |  |  | x |  |  |  |  |
+## 10. belső ellenőr
 
-| alkalmazásfelügyelő |  |  | x |  |  |  |  |
+## 11. biztonsági főreferens
 
-| alkalmazásüzemeltetési termelésszervező |  |  | x |  |  |  |  |
+## 12. biztonsági referens
 
-| árverési ügyintéző |  |  |  |  | x |  |  |
+## 13. biztonsági vezető
 
-| belső ellenőr | x | x | x | x | x | x | x |
+## 14. bűnügyi szakreferens
 
-| belső ellenőrzési ügyintéző | x | x |  |  | x | x | x |
+## 15. civil pénzügyi nyomozó I.
 
-| bér- és társadalombiztosítási ügyintéző | x | x |  |  |  | x | x |
+## 16. civil pénzügyi nyomozó II.
 
-| beruházási ügyintéző | x | x | x |  | x |  | x |
+## 17. egészségügyi asszisztens
 
-| bevallási ügyintéző |  |  |  | x | x |  |  |
+## 18. egészségügyi szakasszisztens
 
-| biztonsági referens | x | x | x | x | x |  | x |
+## 19. elemző
 
-| bűnügyi szakreferens |  |  |  |  | x | x | x |
+## 20. ellenőrzési koordinátor
 
-| csődeljárási ügyintéző |  |  |  |  | x |  |  |
+## 21. ellenőrzési szakkoordinátor
 
-| eljárási ügyintéző | x |  |  | x | x |  |  |
+## 22. ellenőrzési szakreferens
 
-| ellenőr | x |  |  |  |  |  |  |
+## 23. ellenőrzési ügyintéző I.
 
-| ellenőrzés irányító | x |  |  |  | x |  |  |
+## 24. ellenőrzési ügyintéző II.
 
-| ellenőrzési ügyintéző | x | x | x |  | x | x | x |
+## 25. hatósági ügyintéző
 
-| elnöki tanácsadó | x |  |  |  |  |  |  |
+## 26. humánigazgatási főreferens
 
-| eszközgazdálkodási ügyintéző | x | x | x | x | x | x | x |
+## 27. humánigazgatási referens
 
-| felszámolási ügyintéző | x |  |  |  | x |  |  |
+## 28. informatikai főreferens
 
-| felügyeleti operátor | x |  |  |  |  |  |  |
+## 29. informatikai koordinátor
 
-| fizetési kedvezmények ügyintéző |  |  |  | x | x |  |  |
+## 30. informatikai referens
 
-| folyamatszervező | x |  | x |  |  |  |  |
+## 31. informatikai szakkoordinátor
 
-| főkönyvi könyvelő | x | x | x |  | x | x | x |
+## 32. informatikai szakreferens
 
-| főosztályvezető | x |  | x | x | x |  |  |
+## 33. jogi szakreferens
 
-| főosztályvezető-helyettes | x |  | x | x | x |  |  |
+## 34. kockázatkezelési koordinátor
 
-| gépteremvezető |  |  | x |  |  |  |  |
+## 35. kockázatkezelési szakkoordinátor
 
-| hardverüzemeltető | x | x | x |  |  | x | x |
+## 36. kockázatkezelési szakreferens
 
-| hatósági ügyintéző | x | x | x | x | x | x | x |
+## 37. kommunikációs főreferens
 
-| hátralékkezelési ügyintéző | x |  |  | x | x |  |  |
+## 38. kommunikációs referens
 
-| humánerőgazdálkodási ügyintéző | x | x | x | x | x | x | x |
+## 39. kontroller
 
-| humánpolitikai szervező | x | x | x | x | x | x | x |
+## 40. közbeszerzési főreferens
 
-| igazgatóhelyettes |  | x | x | x | x |  |  |
+## 41. oktató
 
-| igazgatói tanácsadó |  |  | x |  | x |  |  |
+## 42. pénzügyi információs referens
 
-| igazgatási ügyintéző | x | x | x |  |  | x | x |
+## 43. pénzügyi információs szakreferens
 
-| illetékügyi ügyintéző |  |  |  |  | x |  |  |
+## 44. pszichológus
 
-| információbiztonsági referens | x | x | x |  |  |  | x |
+## 45. rendszerfejlesztő referens
 
-| információrendszer-architektúra tervező | x |  |  |  |  |  |  |
+## 46. rendszergazda
 
-| információrendszer elemző | x |  |  |  |  |  |  |
+## 47. rendszerszervező
 
-| információszervező | x |  |  |  |  |  |  |
+## 48. rendszer-üzemeltető
 
-| információtechnológiai szakreferens | x |  |  |  |  |  |  |
+## 49. szabálytalansági szakreferens
 
-| informatikai menedzser | x |  |  |  |  |  |  |
+## 50. szakorvos
 
-| informatikai mérnök |  |  | x |  |  |  |  |
+## 51. személyi titkár
 
-| informatikai referens |  |  | x | x | x |  |  |
+## 52. szoftverfejlesztő
 
-| informatikai rendszerszervező |  |  | x |  |  |  |  |
+## 53. szóvivő
 
-| informatikai ügyintéző | x | x | x |  |  | x | x |
+## 54. tájékoztatási szakreferens
 
-| informatikai tanácsadó | x |  |  |  |  |  |  |
+## 55. tájékoztatási ügyintéző I.
 
-| informatikus | x | x | x | x | x | x | x |
+## 56. tájékoztatási ügyintéző II.
 
-| ingatlangazdálkodási ügyintéző | x | x | x |  |  | x | x |
+## 57. ügyfélszolgálati ügyintéző I.
 
-| iratirányítás-szervezési ügyintéző | x | x | x | x | x | x | x |
+## 58. ügyfélszolgálati ügyintéző II.
 
-| IT kontroller | x |  |  |  |  |  |  |
+## 59. vám- és pénzügyőri szakreferens
 
-| jogász | x | x | x | x | x | x | x |
+## 60. végrehajtási koordinátor
 
-| jogi és igazgatási ügyintéző | x | x | x | x | x | x | x |
+## 61. végrehajtási szakkoordinátor
 
-| jogosító és adatszolgáltató ügyintéző |  |  |  |  | x |  |  |
+## 62. végrehajtási szakreferens
 
-| jogtanácsos | x | x | x |  |  | x | x |
+## 63. végrehajtási ügyintéző I.
 
-| kirendeltség vezető | x |  |  |  |  |  |  |
+## 64. végrehajtási ügyintéző II.
 
-| kiszabási ügyintéző |  |  |  |  | x |  |  |
+## 65. végrehajtó I.
 
-| kockázatkezelési szakreferens | x |  |  | x | x |  |  |
+## 66. végrehajtó II.
 
-| kódreferens | x |  |  |  |  |  |  |
+## 67. vezető elemző
 
-| kontroller | x | x | x | x | x | x | x |
+## 68. vezető kontroller
 
-| koordinációs ügyintéző | x | x | x | x | x | x | x |
-
-| könyvelési és pénzforgalmi ügyintéző |  |  | x |  |  |  |  |
-
-| könyvelési ügyintéző | x | x | x | x | x | x | x |
-
-| könyvelő | x | x | x |  |  | x | x |
-
-| közbeszerzési ügyintéző/referens | x | x | x |  |  | x | x |
-
-| közgazdász | x | x | x |  | x | x | x |
-
-| külföldi ÁFA ügyintéző |  |  |  | x |  |  |  |
-
-| letéti számla ügyintéző |  |  |  | x | x |  |  |
-
-| megelőzési biztos | x |  |  |  |  |  |  |
-
-| módszertani szakreferens | x |  |  |  | x |  |  |
-
-| nemzetközi (és pályázati) referens | x | x | x |  |  |  | x |
-
-| nemzetközi ügyintéző | x | x | x | x |  |  | x |
-
-| nyomdaüzemi operátor | x |  | x |  |  |  |  |
-
-| nyomdaüzemi vezető |  |  | x |  |  |  |  |
-
-| operátor |  |  | x |  | x |  |  |
-
-| orvos,szakorvos |  | x |  |  |  |  |  |
-
-| osztályvezető | x | x | x | x | x |  |  |
-
-| őrzésvédelmi főfelügyelő | x |  |  |  |  |  |  |
-
-| pénztáros | x | x | x | x | x | x | x |
-
-| pénzügyi és számviteli ügyintéző | x | x | x | x | x | x | x |
-
-| pénzügyi kontroller |  | x |  |  |  |  |  |
-
-| pénzügyi nyomozó |  |  |  |  |  | x | x |
-
-| programtervező |  |  | x |  |  |  |  |
-
-| projekt irányító | x | x | x |  |  |  | x |
-
-| projekt menedzser | x | x | x |  |  |  | x |
-
-| protokoll ügyintéző | x | x | x |  |  |  | x |
-
-| pszichológus, szakpszichológus | x | x |  |  |  |  |  |
-
-| rendszergazda | x | x | x |  | x | x | x |
-
-| rendszerprogramozó |  |  | x |  |  |  |  |
-
-| rendszerszervező | x |  | x |  |  |  |  |
-
-| stratégiai referens | x |  |  |  |  |  |  |
-
-| szaktanácsadó | x | x | x | x | x | x | x |
-
-| szabálytalansági referens | x |  |  |  |  |  | x |
-
-| szabálytalansági ügyintéző | x |  |  |  |  |  | x |
-
-| számítástechnikai minőségbiztosító | x |  | x |  |  |  |  |
-
-| számítástechnikai műszaki ügyintéző |  |  | x |  |  |  |  |
-
-| számítástechnikai programozó | x |  | x |  |  |  | x |
-
-| számítástechnikai szakrevizor |  |  |  | x | x |  |  |
-
-| számítástechnikai szervező | x |  | x |  | x |  | x |
-
-| számítógép-hálózat üzemeltető | x | x | x |  |  | x | x |
-
-| személyi titkár | x | x | x | x | x |  | x |
-
-| személyügyi informatikus | x | x | x |  | x |  | x |
-
-| szoftverfejlesztő |  |  | x |  |  |  |  |
-
-| szoftverüzemeltető | x | x | x |  |  | x | x |
-
-| tájékoztatási ügyintéző |  |  |  | x | x |  |  |
-
-| tanácsadó | x | x | x |  |  | x | x |
-
-| titkársági és igazgatási ügyintéző | x |  | x | x | x |  |  |
-
-| titkársági ügyintéző | x | x | x | x | x | x | x |
-
-| törvényességi ügyintéző | x |  |  |  | x |  |  |
-
-| ügyfélkapcsolati referens | x | x | x | x |  | x | x |
-
-| ügyfélszolgálati ügyintéző | x | x | x | x | x | x | x |
-
-| ügyvitelszervező | x |  |  |  |  |  |  |
-
-| üzemeltetési programozó |  |  | x |  |  |  |  |
-
-| üzemeltetésszervező |  |  | x |  |  |  |  |
-
-| üzemeltető |  |  | x |  |  |  |  |
-
-| üzemeltető mérnök |  |  | x |  |  |  |  |
-
-| végrehajtási ügyintéző | x |  |  | x | x |  |  |
-
-| végrehajtó |  |  |  | x | x |  |  |
-
-| vegyészmérnök |  |  |  |  |  | x |  |
-
-| vezető elemző | x | x | x | x | x | x | x |
-
-| vezető sajtómunkatárs | x |  |  |  | x |  |  |
-
-| vizsgálat előkészítő-szervező | x |  |  | x | x |  |  |
-
-| vizsgálóbiztos | x |  |  |  |  |  |  |
-
-| web fejlesztő | x |  | x |  |  |  | x |
-
-| web szerkesztő | x | x | x |  |  | x | x |
-
-4. melléklet a 13/2011. (III. 25.) NGM rendelethez
+4. melléklet a 13/2011. (III. 25.) NGM rendelethez[^12]
 
 Tájékoztatás és hozzájáruló nyilatkozat
 
@@ -276,11 +146,11 @@ Születési név:
 
 Lakcím:
 
-Szül. hely, idő: ........................................................................... an.:
+Szül. hely, idő: ........................................................................... an.:
 
 tájékoztatást kaptam arról, hogy a Nemzeti Adó- és Vámhivatalnál kormánytisztviselői jogviszony létesítését megelőző pszichikai alkalmassági vizsgálatok rendjéről szóló 13/2011. (III. 25.) NGM rendelet értelmében
 
-– a pszichikai alkalmassági vizsgálatot végző személyt és az alkalmasság tárgyában döntést hozó személyeket szakmai titoktartási kötelezettség terheli;
+– a pszichikai alkalmassági vizsgálatot végző pszichológust, valamint a vizsgálat lefolytatásában résztvevő asszisztenst és az alkalmasság tárgyában döntést hozó személyeket szakmai titoktartási kötelezettség terheli;
 
 – a keletkezett vizsgálati dokumentáció tárolása, kezelése a fent hivatkozott NGM rendelet szerint történik, melyek értelmében:
 
@@ -294,9 +164,9 @@ tájékoztatást kaptam arról, hogy a Nemzeti Adó- és Vámhivatalnál kormán
 
 – pszichikai alkalmassági vizsgálat során keletkezett adatok belső szervhez, szervezeti egységhez, egyéb intézményhez nem továbbíthatók, kivéve, ha ezt jogszabály elrendeli;
 
-– amennyiben az alkalmassági minősítés felülvizsgálatának kezdeményezésére nem került sor, a pszichikai alkalmassági vizsgálat során keletkezett dokumentációt a KEK – az alkalmassági minősítés kivételével – az alkalmassági minősítés közlésének napjától számított tizenötödik napon megsemmisíti;
+– a pszichikai alkalmassági vizsgálat során keletkezett adatok az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott ideig kezelhetők;
 
-– a pszichikai alkalmassági vizsgálat eredményét követően elkészült szöveges értékelés a személyi anyaghoz nem csatolható és a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 34/A. §-a szerinti minősítéséhez nem használható fel;
+– a pszichikai alkalmassági vizsgálat eredményét követően elkészült szöveges értékelés a személyi anyaghoz nem csatolható és a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 32/Y. §-a szerinti minősítéséhez nem használható fel;
 
 – a pszichikai alkalmassági vizsgálat eredményét követően az elkészült szöveges értékelésről másolatot kérhető.
 
@@ -308,7 +178,7 @@ A fenti tájékoztatást követően
 
 – az alkalmassági minősítésben foglaltaknak a munkáltatói jogkört gyakorló vezető általi megismeréséhez
 
-a) hozzájárulok b) nem járulok hozzá*.
+a) hozzájárulok b) nem járulok hozzá*.
 
 Egyúttal tudomásul veszem, hogy a pszichikai alkalmassági vizsgálathoz való hozzájárulás magában foglalja azt is, hogy vállalom, a vizsgálat során együttműködök a vizsgálatot végző pszichológussal és pszichológiai asszisztenssel, illetve az utasításaik alapján járok el.
 
@@ -316,7 +186,7 @@ Tudomásul veszem továbbá, hogy a Nemzeti Adó- és Vámhivatalnál kormányti
 
 _____________________
 
-* A kívánt rész aláhúzandó.
+* A kívánt rész aláhúzandó.
 
 .....................................................................
 
@@ -327,3 +197,5 @@ Kelt:
 .................................................................................
 
 tájékoztatást adó pszichológus aláírása
+
+[^12]: A 4. melléklet az 53/2012. (XII. 29.) NGM rendelet 3. § (1) és (3)–(4) bekezdése szerint módosított szöveg.
