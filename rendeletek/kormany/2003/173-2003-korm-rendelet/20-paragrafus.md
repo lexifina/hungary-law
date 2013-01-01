@@ -1,6 +1,6 @@
 ## Törlés
 
-20. §[^51] (1) A jegyző a szolgáltatót törli a hatósági nyilvántartásból, ha
+20. §[^52] (1) A jegyző a szolgáltatót törli a hatósági nyilvántartásból, ha
 
 a) a szálláshely a típusára (altípusára) a 2. számú mellékletben meghatározott minősítési követelményeknek három hónapnál hosszabb ideig nem felel meg, illetve a szolgáltató az önminősítésében foglaltaknak nem felel meg, és a szálláshelyet nem lehet más típusba (altípusba) átminősíteni, vagy azt a szolgáltató nem fogadja el,
 
@@ -18,4 +18,4 @@ b) hat hónapon belül nem veheti újra nyilvántartásba, ha a törlésre az (1
 
 (3) Üdülő, gyermek- és ifjúsági tábor, turistaház, kulcsosház, valamint pihenőház esetén a jegyző a törlésről értesíti a 14/A. § (5) bekezdése szerinti hatóságokat.
 
-[^51]: A 20. § a 218/2007. (VIII. 15.) Korm. rendelet 8. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^52]: A 20. § a 218/2007. (VIII. 15.) Korm. rendelet 8. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.

@@ -1,6 +1,6 @@
 ## Vásárlók könyve
 
-18. § (1)[^46] A vendég szolgáltatással kapcsolatos írásbeli észrevételeinek, panaszának közlésére a szolgáltató – az alkalmi szálláshely és a nomád táborhely kivételével – köteles vásárlók könyvét rendszeresíteni.
+18. § (1)[^47] A vendég szolgáltatással kapcsolatos írásbeli észrevételeinek, panaszának közlésére a szolgáltató – az alkalmi szálláshely és a nomád táborhely kivételével – köteles vásárlók könyvét rendszeresíteni.
 
 (2) A vásárlók könyvét a használatbavétel előtt a jegyző hitelesíti. A vásárlók könyvében – annak használatbavétele előtt – fel kell tüntetni a megnyitás időpontját.
 
@@ -8,4 +8,4 @@
 
 (4) A szolgáltatónak a vásárlók könyvét – jogszabály eltérő rendelkezése hiányában – az utolsó bejegyzéstől számított két évig meg kell őrizni.
 
-[^46]: A 18. § (1) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 6. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^47]: A 18. § (1) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 6. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
