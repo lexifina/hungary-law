@@ -15,3 +15,5 @@ b) a mederből a vízgazdálkodási feladataik végrehajtása során kiemelt, va
 c) a vízrajzi észleléshez, a hajóút kitűzéséhez, valamint az egyéb szakfeladatok ellátásához szükséges jeleket, létesítményeket az ingatlanon elhelyezzék és karbantartsák.
 
 (4) Az ingatlan tulajdonosát (használóját) az (1) és (3) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.
+
+(5) A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények üzemeltetőjét a vízjogi üzemeltetési engedély jogerőre emelkedése napjától kezdődően e törvény erejénél fogva mederhasználati jog illeti meg, melyet külön jogszabályban meghatározottak szerint kell bejegyezni.

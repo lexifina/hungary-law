@@ -12,4 +12,4 @@ alapján kell kiszámítania.
 
 (3) A vízhasználó a vízjogi engedélyben megjelölt vízmennyiség 80%-a után köteles az (1) bekezdés a) pontjában meghatározott alapjárulék figyelembevételével – a §-ban meghatározottak szerint – a vízkészletjárulékot kiszámítani, ha az általa igénybe vett víz mennyisége a vízjogi engedélyben megjelölt mennyiség 80%-át nem éri el.
 
-(4) Az üzemi fogyasztónak a vízkészletjárulékot 14,10 forint/m3 járulék alapján a ténylegesen igénybe vett vízmennyiség után kell kiszámítania.
+(4) Az üzemi fogyasztónak a vízkészletjárulékot 14,10 forint/m3 alapjárulék alapján a ténylegesen igénybe vett vízmennyiség után kell kiszámítania.

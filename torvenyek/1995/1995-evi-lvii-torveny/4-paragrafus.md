@@ -20,7 +20,7 @@ b) a 2000 lakosegyenértékkel jellemezhető szennyvízkibocsátás feletti szen
 
 c) a b) pontban meghatározott feladatok ellátásáról a lakosegyenértéktől függetlenül azokon a területeken, amelyeket a vízbázisok, távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről, továbbá a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló jogszabályok határoznak meg;
 
-d) a hulladékgazdálkodásról szóló külön törvény szerint nem közművel összegyűjtött szennyvizek ártalommentes elhelyezésének szervezéséről és ellenőrzéséről.
+d) a településen található szennyvízbekötés nélküli ingatlanok esetében a nem közművel összegyűjtött háztartási szennyvíz begyűjtésének szervezéséről és ellenőrzéséről.
 
 (3) Az (1) bekezdésben felsorolt feladatok — a külön jogszabályokban a polgármester, illetve a jegyző hatáskörébe utalt feladatok kivételével — a képviselő-testület, a főváros esetében a fővárosi önkormányzat képviselő-testületének hatáskörébe tartoznak.
 

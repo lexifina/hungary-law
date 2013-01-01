@@ -24,15 +24,15 @@ k) kármentesítés céljából történő vízkivétel esetén, ha az hatóság
 
 l) öntözési, rizstermelési és halgazdasági vízhasználatok vonatkozásában.
 
-(2) A vízkészletjárulék-fizetési kötelezettség alóli mentesítés nem érinti a vízhasználatra vonatkozó bejelentési kötelezettséget.
+(2) Az (1) bekezdés f), g) és l) pontjában foglalt esetben a vízkészletjárulék-fizetési kötelezettség alóli mentesítés nem érinti a vízhasználatra vonatkozó, 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
 
 (3) A vízhasználónak az (1) bekezdés b) és f) pontjaiban megjelölt mentesség megállapítását az ok bekövetkezésétől számított hatvan napon belül az illetékes vízügyi hatóságtól kell kérnie. Hatvan nap után a mentességre hivatkozni nem lehet.
 
 (4) Nem kell az üzemi fogyasztónak vízkészletjárulékot fizetnie, ha a közegészségügyi előírások az igénybe vett vízmennyiség több mint 50%-ára ivóvízminőséget határoznak meg.
 
-(5) A vízkészletjárulék fizetésére kötelezett köteles fizetési kötelezettségét annak keletkezésétől – vízhasználónál a vízjogi engedély kézhezvételétől, üzemi fogyasztónál a vízfelhasználás megkezdésétől – számított 15 napon belül az illetékes vízügyi hatóságnak – az e célra készített nyomtatványon – bejelenteni (bejelentkezés).
+(5) Az üzemi fogyasztó köteles fizetési kötelezettségét annak keletkezésétől számított 15 napon belül az illetékes vízügyi hatóságnak az e célra készített nyomtatványon bejelenteni (bejelentkezés).
 
-(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a jogerős vízjogi engedély kézhezvételével, üzemi vízfogyasztónál a vízfelhasználás megkezdésével keletkezik.
+(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély jogerőre emelkedésével, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
 
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 

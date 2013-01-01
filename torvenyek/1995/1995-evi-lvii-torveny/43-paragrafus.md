@@ -1,1 +1,1 @@
-43. § A víziközmű társulat ellenőrző bizottságára e törvény eltérő rendelkezése hiányában a gazdasági társaságokról szóló törvény rendelkezéseit kell alkalmazni.
+43. § A víziközmű társulatra e törvény eltérő rendelkezése hiányában a gazdasági társaságokról szóló törvénynek a gazdasági társaságokra vonatkozó közös szabályait kell alkalmazni a víziközmű társulat sajátosságainak figyelembevételével.

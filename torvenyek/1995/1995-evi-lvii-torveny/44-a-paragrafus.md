@@ -4,9 +4,9 @@
 
 a) elhatározza jogutód nélküli megszűnését,
 
-b) alapszabályban meghatározott közcélú feladatát megvalósította,
+b) alapszabályban meghatározott közfeladatát megvalósította és az elszámolási eljárást befejezte,
 
-c) a cégbíróság a Cégtörvényben foglalt ok miatt megszünteti.
+c) a cégbíróság hivatalból elrendeli törlését.
 
 (2) A víziközmű társulat jogutódlással szűnik meg, ha másik víziközmű társulattá átalakul.
 

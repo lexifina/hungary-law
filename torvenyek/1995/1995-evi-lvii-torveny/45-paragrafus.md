@@ -10,7 +10,7 @@
 
 (5) E törvénynek a társulatok felügyeletére vonatkozó rendelkezését — a törvény hatálybalépésekor működő társulat esetén — a cégjegyzékbe történő bejegyzést követően kell alkalmazni.
 
-(6)
+(6) Felhatalmazást kap a települési önkormányzat képviselő-testülete, hogy a törvény 44/C. § (2) bekezdésében meghatározottakat rendeletben szabályozza.
 
 (7) Felhatalmazást kap a Kormány
 
@@ -60,7 +60,9 @@ v) a vízkárelhárítási célú tározók létesítésére, az érintett ingat
 
 w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatának, hasznosításának, a víziállásokra vonatkozó előírásoknak és korlátozásoknak, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályainak;
 
-x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok
+x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok;
+
+y) a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzési feltételeinek, az e tevékenységre jogosító bejelentés és a nyilvántartás tartalmi elemeire, a tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek, a közszolgáltatási bírság mértékének és megállapítása módjának, a közszolgáltatási szerződés tartalmának, valamint a közszolgáltatási díj megállapításának, a nyilvántartási és adatszolgáltatási kötelezettségnek
 
 rendeletben történő megállapítására.
 
@@ -94,7 +96,9 @@ m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, iga
 
 n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
 
-o) a folyók nagyvízi medrére vonatkozó kezelési terv
+o) a folyók nagyvízi medrére vonatkozó kezelési terv;
+
+p) a távlati vízbázisok megnevezésének, valamint az egyes távlati vízbázisokkal érintett települések jegyzékének
 
 rendeletben történő megállapítására.
 
