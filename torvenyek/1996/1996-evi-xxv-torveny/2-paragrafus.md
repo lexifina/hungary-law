@@ -1,6 +1,6 @@
 2. § E törvény alkalmazásában
 
-a) helyi önkormányzat: a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 1. §-ának (1) bekezdésében meghatározott önkormányzat;
+a) helyi önkormányzat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 3. §-ában meghatározott önkormányzat;
 
 b) adósságrendezés: az adósságrendezési eljárás azon szakasza, amely a bíróság adósságrendezést megindító végzésének Cégközlönyben való közzétételével [10. § (1) bekezdés] kezdődik;
 
@@ -22,6 +22,6 @@ ee) a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 19
 
 f) adósságrendezésbe vonható vagyon: törvényben meghatározott forgalomképtelen törzsvagyon feletti, valamint a hatósági feladatok és az alapvető lakossági szolgáltatások ellátásához szükséges vagyon feletti forgalomképes vagyonrész;
 
-g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Ötv. 82. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett, vagy követelésként fennálló összege, valamint az Ötv. 83. §-ban szereplő átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
+g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Mötv. 106. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett vagy követelésként fennálló összege, valamint az átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
 
 h) reorganizációs hitel: a reorganizációs költségvetés és a hitelezői egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.

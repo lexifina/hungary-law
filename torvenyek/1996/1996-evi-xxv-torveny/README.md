@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-25-00-00
 | 2012-01-01 | 2011. évi CLXXIX. törvény | 1996-25-00-00.14 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 1996-25-00-00.15 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 1996-25-00-00.16 |
+| 2013-01-01 | 2012. évi XCIII. törvény | 1996-25-00-00.17 |

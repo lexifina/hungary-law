@@ -2,4 +2,4 @@
 
 (2) A bizottság akkor határozatképes, ha a pénzügyi gondnok és a tagok fele jelen van. Döntését többségi szavazataránnyal hozza meg, szavazategyenlőség esetén a pénzügyi gondnok szavazata dönt. A pénzügyi gondnok a bizottsági döntés felülvizsgálatát kérheti a képviselő-testülettől.
 
-(3) Az Ötv. 10. §-ában meghatározott – a képviselő-testület kizárólagos hatáskörébe tartozó – ügyek kivételével a helyi önkormányzat kötelezően ellátandó feladatainak és hatáskörének teljesítésével kapcsolatos valamennyi gazdasági kérdésben az adósságrendezési bizottság dönt.
+(3) Az Mötv. 42. §-ában meghatározott – a képviselő-testület kizárólagos hatáskörébe tartozó – ügyek kivételével a helyi önkormányzat kötelezően ellátandó feladatainak és hatáskörének teljesítésével kapcsolatos valamennyi gazdasági kérdésben az adósságrendezési bizottság dönt.

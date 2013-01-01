@@ -10,6 +10,6 @@ b) a ki nem elégített követelésre vonatkozó okiratokat, amelyekből a köve
 
 c) az (1) bekezdés alapján összehívott képviselő-testületi ülés jegyzőkönyvét és az ahhoz kapcsolódó előterjesztéseket, valamint a képviselő-testület határozatát.
 
-(4) Ha a polgármester vagy az ülés levezetésére megválasztott levezető elnök az Ötv. 12. § (2) bekezdésében meghatározott bármely kötelezettségét nem teljesíti, a bíróság – esetenként – ötszázezer forintig terjedő pénzbírsággal sújthatja.
+(4) Ha a polgármester vagy az ülés levezetésére megválasztott levezető elnök az Mötv. 45. §-ában meghatározott bármely kötelezettségét nem teljesíti, a bíróság – esetenként – ötszázezer forintig terjedő pénzbírsággal sújthatja.
 
 (5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a fővárosi és megyei kormányhivatalt.

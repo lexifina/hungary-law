@@ -6,11 +6,11 @@ Az alapvető lakossági szolgáltatások
 
 1. A köztemetők létesítése, bővítése, fenntartása, bezárása, megszüntetése, kiürítése, újra használatbavétele, halotthamvasztó üzemeltetése (1991. évi XX. törvény).
 
-2. A kéményseprő-ipari tevékenység ellátásának biztosítása (1995. évi XLII. törvény).
+2. A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény).
 
 3. A települési folyékony hulladék leeresztő helyének kijelölése, közcélú ártalmatlanító telep fenntartása (1991. évi XX. törvény).
 
-4. A közterület tisztán tartása, a települési szilárd hulladék gyűjtése, elhelyezése és a lomtalanítási akciókkal kapcsolatos feladatok ellátása (1991. évi XX. törvény, 1995. évi XLII. törvény).
+4. A közterület tisztán tartása, a települési szilárd hulladék gyűjtése, elhelyezése és a lomtalanítási akciókkal kapcsolatos feladatok ellátása (1991. évi XX. törvény,).
 
 5. A települési vízellátás, szennyvízelvezetés, az összegyűjtött szennyvizek tisztítása, a csapadékvíz elvezetése, helyi vízrendezés és vízkárelhárítás, valamint az árvíz- és belvízvédekezés (1995. évi LVII. törvény).
 

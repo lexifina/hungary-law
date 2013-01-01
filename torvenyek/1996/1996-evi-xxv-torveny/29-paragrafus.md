@@ -12,7 +12,7 @@ a) meghatározza a helyi önkormányzat jogszabályokban kötelezően előírt f
 
 b) megállapítja, hogy az a) pontban foglalt kötelezettségek teljesítéséhez a helyi önkormányzat mely vagyontárgyai, illetve milyen központi költségvetéstől kapott támogatások szükségesek;
 
-c) meghatározza az adósságrendezésbe vonható vagyon körét [2. § e) pont].
+c) meghatározza az adósságrendezésbe vonható vagyon körét.
 
 (4) A pénzügyi gondnok a (3) bekezdésben foglaltakra vonatkozó – megfelelő indokolással ellátott – jelentését az (1) bekezdésben megjelölt végzés kézbesítését követő 30 napon belül benyújtja a bírósághoz, valamint megküldi a helyi önkormányzatnak és valamennyi hitelezőnek.
 
