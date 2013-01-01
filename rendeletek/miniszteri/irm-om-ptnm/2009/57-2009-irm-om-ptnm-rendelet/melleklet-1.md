@@ -1,6 +1,6 @@
-## 57. §[^119]
+## 57. §[^129] A 2013. január 1. napjával az Országgyűlési Őrség hivatásos állományába más fegyveres szervtől vagy a Magyar Honvédség állományából áthelyezésre kerülők esetében nem kell elvégezni a 4. § (1) bekezdés e) pontjában, valamint a 26. §-ban meghatározott áthelyezés előtti alkalmassági vizsgálatot. Ezen személyek vonatkozásában az egészségi és fizikai alkalmasságot a 2012. évben elvégzett időszakos egészségi és fizikai alkalmassági vizsgálat eredménye, a pszichikai alkalmasságot a 2011. vagy a 2012. évben elvégzett időszakos pszichikai alkalmassági vizsgálat eredménye alapján kell megállapítani. A 2013. január 1. napjával áthelyezésre kerülő állomány 2013. évben 50–55. életévet betöltő tagjának fizikai alkalmasságát az áthelyezést megelőzően vizsgálni nem kell.
 
-1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^120]
+1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^130]
 
 Táblázat és magyarázat a betegségek és fogyatékosságok alapján
 
@@ -1562,21 +1562,5 @@ A normálisnál alacsonyabb vérnyomás önmagában nem indokolja az alkalmassá
 
 A légzőszervek betegségei (094–105)
 
-| 094 | Orrnyálkahártya jóindulatú daganata (orrpolyp) | I. | II. | III. | IV. | S | K | BNO |
-
-| A | B | A | B | A | B | A | B | A | B |
-
-| 1. | egyik vagy mindkét orrfél érintettsége esetén műtét után tünet és panaszmentes recidiva nélkül | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | J 33 |
-
-| 2. | mindkét orrfél nehezített légzése, vagy teljes elzártsága esetén | AN | AN | AN | AN | E | E | E | E | AN | AN | AN |
-
-| 3. | gyakran recidiváló, sokszor operált esetek | AN | AN | AN | AN | E | E | E | E | AN | AN | AN |
-
-Polypus cavi nasi, conchae, nasopharyngis, polypus-sinus ethmoidalis, frontalis, maxillaris, sphenoidalis.
-
-Szükséges vizsgálatok: Rhinoscopia anterior, posterior, orrmelléküreg-rtg., sz.sz. arckoponya CT, szükség szerint orr- és melléküregek endoscopos vizsgálata, allergológiai vizsgálat.
-
-Amennyiben a recidiv orrpolyp allergiás eredetű, a minősítés 095.1. alszakasz szerint történik.
-
-[^119]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.
-[^120]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja szerint módosított szöveg.
+[^129]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 157. § (5) bekezdése iktatta be.
+[^130]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja szerint módosított szöveg.

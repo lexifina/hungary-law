@@ -1,16 +1,19 @@
 ## 2. § E rendelet alkalmazásában:
 
-a) személyi állomány: a rendelet hatálya alá tartozó szerveknél foglalkoztatási jogviszonyban állók,
+a)[^7] személyi állomány: a rendelet hatálya alá tartozó szerveknél foglalkoztatási jogviszonyban állók, az Országgyűlési Őrségnél közszolgálati jogviszonyban és munkajogviszonyban állók kivételével,,
 
-b)[^6] rendvédelmi szerv országos parancsnoka: az országos rendőrfőkapitány, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv főigazgatója, a büntetés-végrehajtás országos parancsnoka, valamint az Országos Katasztrófavédelmi Főigazgatóság főigazgatója,
+b)[^8] rendvédelmi szerv országos parancsnoka: az országos rendőrfőkapitány, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv főigazgatója, a büntetés-végrehajtás országos parancsnoka, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója, valamint az Országgyűlési Őrség parancsnoka,
 
-c) alapellátó orvos: a rendvédelmi szerv, illetve a polgári nemzetbiztonsági szolgálatok illetékes orvosa,
+c)[^9] alapellátó orvos: a rendvédelmi szerv, illetve a polgári nemzetbiztonsági szolgálatok illetékes orvosa; az Országgyűlési Őrség vonatkozásában a rendőrséggel kötött megállapodás alapján a rendőrség illetékes orvosa,
 
-d) alapellátó pszichológus: a rendvédelmi szerv, illetve a polgári nemzetbiztonsági szolgálatok illetékes pszichológusa,
+d)[^10] alapellátó pszichológus: a rendvédelmi szerv, illetve a polgári nemzetbiztonsági szolgálatok illetékes pszichológusa; az Országgyűlési Őrség vonatkozásában a rendőrséggel kötött megállapodás alapján a rendőrség illetékes pszichológusa,
 
-e)[^7] fegyveres szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a polgári nemzetbiztonsági szolgálatok,
+e)[^11] fegyveres szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség, valamint a polgári nemzetbiztonsági szolgálatok,
 
 f) szolgálati kötelmekkel összefüggő baleset: az a hivatásos állomány tagját ért baleset, amelyet a munkavédelemről szóló törvény és végrehajtási rendelete munkabalesetként, illetve szolgálati kötelmekkel összefüggő balesetként meghatároz.
 
-[^6]: A 2. § b) pontja a 10/2010. (XII. 22.) BM rendelet 2. §-ával megállapított szöveg.
-[^7]: A 2. § e) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) pontja szerint módosított szöveg.
+[^7]: A 2. § a) pontja az 56/2012. (XI. 22.) BM rendelet 159. § e) pontja szerint módosított szöveg.
+[^8]: A 2. § b) pontja a 10/2010. (XII. 22.) BM rendelet 2. §-ával megállapított, az 56/2012. (XI. 22.) BM rendelet 159. § f) pontja szerint módosított szöveg.
+[^9]: A 2. § c) pontja az 56/2012. (XI. 22.) BM rendelet 159. § g) pontja szerint módosított szöveg.
+[^10]: A 2. § d) pontja az 56/2012. (XI. 22.) BM rendelet 159. § h) pontja szerint módosított szöveg.
+[^11]: A 2. § e) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § i) pontja szerint módosított szöveg.
