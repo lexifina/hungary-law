@@ -8,7 +8,7 @@ b) speciális szakértelem szükségessége esetén
 
 (2) Ha a költségvetési szerv nem foglalkoztat belső ellenőrt, a költségvetési szerv vezetője köteles gondoskodni a költségvetési szerv belső ellenőrzési tevékenységének külső szolgáltató bevonásával történő megszervezéséről és ellátásáról.
 
-(3) Amennyiben a belső ellenőrzési tevékenység ellátásába részben vagy egészben külső szolgáltatót vonnak be, és a külső szolgáltató a belső ellenőrzési tevékenység során minősített adatot is megismerhet meg, ha a külső szolgáltató megfelel a jogszabályokban meghatározott minősített adat védelmére vonatkozó előírásoknak.
+(3)[^3] Amennyiben a belső ellenőrzési tevékenység ellátásába részben vagy egészben külső szolgáltatót vonnak be, a külső szolgáltató minősített adat megismerésére csak abban az esetben jogosult, ha a külső szolgáltató megfelel a jogszabályokban meghatározott minősített adat védelmére vonatkozó előírásoknak.
 
 (4) A belső ellenőrzési tevékenység (2) bekezdés szerinti megszervezésére vonatkozó megállapodásban rendelkezni kell a 22. § (1) és (2) bekezdésében foglalt tevékenységek és kötelességek ellátásának módjáról.
 
@@ -17,3 +17,5 @@ b) speciális szakértelem szükségessége esetén
 (6) Az (5) bekezdésben foglaltakat nem kell alkalmazni akkor, ha a külső szolgáltató az (1) bekezdés szerinti bevonásának indoka a speciális szakértelem szükségessége.
 
 (7) Amennyiben a költségvetési szerv a belső ellenőrzési tevékenység során külső szolgáltatót is igénybe vesz, úgy a költségvetési szerv belső ellenőrei kötelesek a külső szolgáltatóval és a külső szolgáltató által rendelkezésre bocsátott személyekkel együttműködni. A külső szolgáltató vezetője a költségvetési szerv belső ellenőrei felett utasítási joggal nem rendelkezik.
+
+[^3]: A 16. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

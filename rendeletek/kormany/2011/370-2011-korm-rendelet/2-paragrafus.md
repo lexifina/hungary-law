@@ -16,7 +16,7 @@ f) ellenőrzés lezárása: egy adott ellenőrzés akkor tekinthető lezártnak,
 
 g) eredményesség: annak, követelménye, hogy a kitűzött célok – az elfogadott módosításokat, változó körülményeket figyelembe véve – megvalósuljanak, a tevékenység tervezett és tényleges hatása közötti különbség a lehető legkisebb mértékű legyen, vagy a tényleges hatás legyen kedvezőbb a tervezettnél;
 
-h) fejezetet irányító szerv vezetője: az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. § (1) bekezdés a) pontja szerinti vezető;
+h)[^1] fejezetet irányító szerv vezetője: az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. § (1) bekezdés a) pontja szerinti vezető;
 
 i) gazdaságosság: annak követelménye, hogy az erőforrások felhasználásához kapcsolódó kiadás vagy ráfordítás az elérhető legkisebb legyen, a jogszabályban meghatározott vagy általánosan elvárható minőség mellett;
 
@@ -44,7 +44,7 @@ nf) helyi önkormányzat, illetve helyi nemzetiségi önkormányzat felügyelete
 
 ng) országos nemzetiségi önkormányzat esetén annak vezetője, illetve országos nemzetiségi önkormányzati költségvetési szerv esetén annak vezetője;
 
-nh) többcélú kistérségi társulás, jogi személyiséggel rendelkező társulás, társulási tanács esetén a munkaszervezet vezetője (vagy a székhely szerinti helyi önkormányzat jegyzője);
+nh)[^2]
 
 ni) társult képviselő-testület, intézményi társulás esetén a megállapodásban meghatározott önkormányzat jegyzője;
 
@@ -61,3 +61,6 @@ r) tanácsadó tevékenység: a költségvetési szerv vezetője részére nyúj
 s) utóellenőrzés: az intézkedések nyomon követése érdekében elrendelt ellenőrzés, amelynek célja, hogy a belső ellenőrzés bizonyosságot szerezzen az elfogadott intézkedések végrehajtásáról, vagy arról a tényről, hogy ha az ellenőrzött szerv, illetve az ellenőrzött szervezeti egység vezetője nem, vagy nem az elfogadott intézkedésnek megfelelően hajtja végre az intézkedéseket, továbbá meggyőződni arról, hogy a végrehajtott intézkedésekkel a megállapított kockázat ténylegesen megszűnt vagy a kockázati tűréshatár alá csökkent;
 
 t) vizsgálatvezető: a belső ellenőrzési vezető által kijelölt, az adott ellenőrzés irányításáért felelős személy.
+
+[^1]: A 2. § h) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § n) pont nh) alpontját a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés h) pontja hatályon kívül helyezte.
