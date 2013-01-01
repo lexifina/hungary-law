@@ -24,7 +24,7 @@
 
 ## 1.2. az I. alcím 1. pontjában foglalt beosztások kivételével a Hivatásos Tűzoltóparancsnokságon és a Katasztrófavédelmi Őrsön rendszeresített valamennyi szolgálati beosztás
 
-## 1.3. a Katasztrófavédelmi Irodán rendszeresített valamennyi szolgálati beosztás
+## 1.3.[^22]
 
 ## 2. Területi szerveknél:
 
@@ -55,3 +55,5 @@
 ## 2.4. a Katasztrófavédelmi Mobil Labornál rendszeresített valamennyi szolgálati beosztás
 
 6. melléklet a 66/2011. (XII. 30.) BM rendelethez
+
+[^22]: Az 5. melléklet II. pont 1.3. alpontját a 71/2012. (XII. 14.) BM rendelet 14. § (2) bekezdés d) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 4. § A belügyminiszter évenként, a költségvetés jóváhagyásakor meghatározza a Hszt. 43/B. § (1) bekezdés b) pontja alapján történő berendeléssel a Belügyminisztériumban foglalkoztatható hivatásos szolgálati viszonyban állók számát.
+## 4. §[^8] A belügyminiszter évenként, a költségvetés jóváhagyásakor meghatározza a Hszt. 49/D. § (1) bekezdése alapján történő vezényléssel a Belügyminisztériumban foglalkoztatható hivatásos szolgálati viszonyban állók számát.
 
 ## (A Hszt. 44. §-ához)
 
@@ -11,3 +11,5 @@
 (4) A rendvédelmi felsőoktatási intézményben tanulmányokat folytató, a Hszt. 44. § (1) bekezdés d) pontja alapján rendelkezési állományba helyezett hallgató részére járó illetmény és illetményjellegű juttatások fedezetéről az adott fegyveres szervnél központilag kell gondoskodni.
 
 (A Hszt. 50. §-ához)
+
+[^8]: A 4. § a 81/2012. (XII. 28.) BM rendelet 29. § (1) bekezdés d) pontja szerint módosított szöveg.

@@ -56,7 +56,7 @@
 
 ## 2.1. futár.
 
-## 3.[^10] A megyei (fővárosi) rendőr-főkapitányságon rendszeresített közrendvédelmi, határrendészeti és közlekedésrendészeti, továbbá a Készenléti Rendőrség szervezeti egységei közül a bevetési főosztályokon, a Mélységi Ellenőrzési Osztályon, a Különleges Szolgálatok Igazgatóságán, a Gazdasági Igazgatóság Informatikai Osztályán és Forgalmi Alosztályán, valamint a Repülőtéri Rendőr Igazgatóság szervezeti egységei közül a Légiközlekedés-védelmi Osztályon, az Idegenrendészeti Osztályon (a Légitolonc Alosztály kivételével), az Őrzött Szállás és Objektumbiztonsági Szolgálatnál, a Határrendészeti Osztályon, a Közrendvédelmi Osztályon, az Utasbiztonsági Osztályon és a Szakértői Alosztályon rendszeresített szolgálati beosztások közül:
+## 3.[^23] A megyei (fővárosi) rendőr-főkapitányságon rendszeresített közrendvédelmi, határrendészeti és közlekedésrendészeti, továbbá a Készenléti Rendőrség szervezeti egységei közül a bevetési főosztályokon, a Mélységi Ellenőrzési Osztályon, a Különleges Szolgálatok Igazgatóságán, a Gazdasági Igazgatóság Informatikai Osztályán és Forgalmi Alosztályán, valamint a Repülőtéri Rendőr Igazgatóság szervezeti egységei közül a Légiközlekedés-védelmi Osztályon, az Idegenrendészeti Osztályon (a Légitolonc Alosztály kivételével), az Őrzött Szállás és Objektumbiztonsági Szolgálatnál, a Határrendészeti Osztályon, a Közrendvédelmi Osztályon, az Utasbiztonsági Osztályon és a Szakértői Alosztályon rendszeresített szolgálati beosztások közül:
 
 ## 3.1. osztályvezető-helyettes,
 
@@ -114,17 +114,17 @@
 
 ## 3.28. kísérőőr,
 
-## 3.29.[^11] biztonsági gépkocsivezető,
+## 3.29.[^24] biztonsági gépkocsivezető,
 
-## 3.30.[^12] kiemelt főmérnök,
+## 3.30.[^25] kiemelt főmérnök,
 
 ## 3.31. kutyavezető,
 
 ## 3.32. tűzszerész,
 
-## 3.33.[^13] mérnök.
+## 3.33.[^26] mérnök.
 
-## 4.[^14] A Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóságán rendszeresített beosztások közül:
+## 4.[^27] A Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóságán rendszeresített beosztások közül:
 
 ## 4.1. osztályvezető-helyettes,
 
@@ -160,9 +160,9 @@
 
 ## 4.17. biztonsági gépkocsivezető,
 
-## 4.18.[^15]
+## 4.18.[^28]
 
-## 4.19.[^16]
+## 4.19.[^29]
 
 ## 4.20. díszőr,
 
@@ -178,10 +178,10 @@
 
 8. melléklet a 66/2011. (XII. 30.) BM rendelethez
 
-[^10]: A 7. melléklet 3. pont nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^11]: A 7. melléklet 3. pont 3.29. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^12]: A 7. melléklet 3. pont 3.30. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^13]: A 7. melléklet 3. pont 3.33. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése iktatta be.
-[^14]: A 7. melléklet 4. pont nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^15]: A 7. melléklet 4. pont 4.18. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^16]: A 7. melléklet 4. pont 4.19. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^23]: A 7. melléklet 3. pont nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 7. melléklet 3. pont 3.29. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^25]: A 7. melléklet 3. pont 3.30. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 7. melléklet 3. pont 3.33. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése iktatta be.
+[^27]: A 7. melléklet 4. pont nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^28]: A 7. melléklet 4. pont 4.18. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^29]: A 7. melléklet 4. pont 4.19. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.

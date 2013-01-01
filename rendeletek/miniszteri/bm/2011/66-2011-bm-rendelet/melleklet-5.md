@@ -26,6 +26,6 @@
 
 ## 3. Az 1. és 2. pontban felsorolt, valamint a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult hivatásos szolgálati viszonyban állók kivételével terrorizmust elhárító szerv állományának pótléka az illetményalap 150%-a.
 
-5. melléklet a 66/2011. (XII. 30.) BM rendelethez[^9]
+5. melléklet a 66/2011. (XII. 30.) BM rendelethez[^21]
 
-[^9]: Az 5. melléklet a 11/2012. (III. 30.) BM rendelet 6. §-ával megállapított szöveg.
+[^21]: Az 5. melléklet a 11/2012. (III. 30.) BM rendelet 6. §-ával megállapított szöveg.
