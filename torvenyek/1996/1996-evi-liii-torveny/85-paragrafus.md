@@ -30,7 +30,7 @@
 
 2. az Európai Közösségek jogi aktusaiban természetből begyűjthetőként, befoghatóként, valamint hasznosíthatóként meghatározott fajok egyedei befogásának, begyűjtésének, valamint hasznosításának szabályait;
 
-3. természeti terület és más védelemre érdemes földterület országos jelentőségű védett természeti területté, illetve fokozottan védetté nyilvánítását, – erdő, fásítás esetén az erdőgazdálkodásért felelős miniszterrel, védett régészeti lelőhely esetén a kultúráért felelős miniszterrel egyetértésben;
+3. természeti terület és más védelemre érdemes földterület országos jelentőségű védett természeti területté, illetve fokozottan védetté nyilvánítását, – erdő, fásítás esetén az erdőgazdálkodásért felelős miniszterrel, védett régészeti lelőhely esetén a régészeti örökség és a műemléki értékek védelméért felelős miniszterrel egyetértésben;
 
 4. védőövezet kijelölését és a védettség feloldását;
 
