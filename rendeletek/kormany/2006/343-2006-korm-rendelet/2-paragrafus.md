@@ -1,9 +1,3 @@
-## vonatkozásában az építésügyi hatósági hatáskört a továbbiakban az 1/A. mellékletben megjelölt települési önkormányzat jegyzője gyakorolja.
+## 1/C. §[^4]
 
-2. § (1) Az elsőfokú építésügyi hatóság megállapítás előtt véleményezi az illetékességi területén a helyi építési szabályzatot és a településrendezési terveket.
-
-(2) A másodfokú építésügyi hatóság az építésügyért felelős miniszter által meghatározottak szerint közreműködik a szakmai képzések, továbbképzések szervezésében.
-
-(3)[^15]
-
-[^15]: A 2. § (3) bekezdését a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^4]: Az 1/C. §-t a 207/2008. (VIII. 27.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 43. § a) pontja.

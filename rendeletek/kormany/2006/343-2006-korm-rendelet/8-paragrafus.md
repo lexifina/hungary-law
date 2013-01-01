@@ -1,32 +1,35 @@
 ## Összeférhetetlenség
 
-8. § (1)[^44] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 21. § (6) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője olyan telekkel, építménnyel kapcsolatban lát el építésügyi vagy építésfelügyeleti hatósági feladatokat, amellyel összefüggésben
+8. § (1)[^47] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 85. § (4) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője vagy kormánytisztviselője olyan építménnyel, telekkel összefüggésben lát el
 
 a) építészeti-műszaki tervezési,
 
-b) kiviteli tervek tervezési,
+b) építésügyi műszaki szakértői,
 
-c) építésügyi műszaki szakértői,
+c) felelős műszaki vezetői,
 
-d) felelős műszaki vezetői,
+d) beruházáslebonyolítói,
 
-e) beruházás lebonyolítói,
+e) építésügyi igazgatási szakértői,
 
-f) tervellenőri,
+f) építési műszaki ellenőri,
 
-g) építésügyi igazgatási szakértői,
+g) építőipari kivitelezési,
 
-h) építési műszaki ellenőri,
+h) igazságügyi szakértői,
 
-i) kivitelezési, vagy
+i) településtervezési,
 
-j) igazságügyi szakértői
+j) településrendezési szakértői, vagy
 
-## tevékenységet végez, vagy öt éven belül végzett.
+k) energetikai tanúsítói
 
-(2)[^45]
+## tevékenységet, amely annak a hatóságnak az illetékességi területén található, ahol építésügyi vagy építésfelügyeleti hatósági feladatot lát el.
 
-(3) Az építésügyi, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő nem lehet a hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint nem láthat el önkormányzati főépítészi feladatot.
+(2)[^48]
 
-[^44]: A 8. § (1) bekezdése a 393/2007. (XII. 27.) Korm. rendelet 3. §-ával megállapított, bevezető szövegrésze a 311/2009. (XII. 28.) Korm. rendelet 25. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^45]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+(3)[^49] Az építésügyi, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő és kormánytisztviselő nem lehet a hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint nem láthat el önkormányzati főépítészi feladatot.
+
+[^47]: A 8. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^48]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^49]: A 8. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 42. § l) pontja szerint módosított szöveg.

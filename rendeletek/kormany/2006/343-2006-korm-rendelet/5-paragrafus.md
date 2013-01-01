@@ -1,10 +1,10 @@
 ## Szakmai gyakorlat
 
-5. § (1)[^36] Az elsőfokú építésügyi hatóságnál foglalkoztatott köztisztviselőnek szakmai gyakorlattal nem kell rendelkeznie, azonban az építésügyi vizsga letételéig döntés-előkészítő, kiadmányozó munkakört önállóan nem tölthet be.
+5. § (1)[^31] Az első fokú építésügyi hatóságnál és az első fokú kiemelt építésügyi hatóságnál foglalkoztatott köztisztviselőnek és kormánytisztviselőnek szakmai gyakorlattal nem kell rendelkeznie, azonban az építésügyi vizsga letételéig döntéshozó, kiadmányozó munkakört nem tölthet be.
 
-(2)[^37] A másodfokú építésügyi hatóságnál foglalkoztatott kormánytisztviselőnek legalább 3 éves építésügyi igazgatási területen szerzett szakmai gyakorlattal kell rendelkeznie.
+(2)[^32] A másodfokú építésügyi hatóságnál foglalkoztatott kormánytisztviselőnek – a (6) bekezdésben foglaltak kivételével – legalább 3 éves építésügyi vagy építésfelügyeleti hatósági területen szerzett szakmai gyakorlattal kell rendelkeznie.
 
-(3)[^38] Az első- és másodfokú építésfelügyeleti hatóságnál foglalkoztatott kormánytisztviselő szakmai gyakorlati idejeként az
+(3)[^33] A másodfokú építésfelügyeleti hatóságnál foglalkoztatott kormánytisztviselő szakmai gyakorlati idejeként – a (6) bekezdésben foglaltak kivételével – az
 
 a) építési műszaki ellenőri;
 
@@ -16,9 +16,7 @@ d) építésügyi hatósági;
 
 e) építésfelügyeleti;
 
-f) beruházói-műszaki (projekt menedzseri);
-
-g) felsőoktatási intézményben építészeti-műszaki szaktárgy-oktatói;
+f)–g)[^34]
 
 h) építészeti-műszaki tervezési;
 
@@ -26,12 +24,16 @@ i) építésügyi-műszaki szakértői
 
 ## tevékenység folytatásának időtartamát kell figyelembe venni.
 
-(4)[^39] Az építésfelügyeleti hatóságnál foglalkoztatott kormánytisztviselő gyakorlati ideje 5 év, a gyakorlati idő fele a (3) bekezdés a)–e) pontok szerinti tartalmú.
+(4)[^35] Az első fokú építésfelügyeleti hatóságnál foglalkoztatott kormánytisztviselőnek szakmai gyakorlattal nem kell rendelkeznie. A másodfokú építésfelügyeleti hatóságnál foglalkoztatott kormánytisztviselő gyakorlati ideje legalább három év. Az első és másodfokú építésfelügyeleti hatóságnál foglalkoztatott kormánytisztviselő az építésügyi vizsga letételéig döntéshozó, kiadmányozó munkakört nem tölthet be.
 
-(5)[^40]
+(5)[^36] Az 1. § (9) bekezdésében meghatározott feladatokat ellátó köztisztviselőnek szakmai gyakorlattal nem kell rendelkeznie.
 
-[^36]: Az 5. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^37]: Az 5. § (2) bekezdése a 115/2011. (VII. 7.) Korm. rendelet 2. § d) pont da) alpontja szerint módosított szöveg.
-[^38]: Az 5. § (3) bekezdés nyitó szövegrésze a 115/2011. (VII. 7.) Korm. rendelet 2. § d) pont db) alpontja szerint módosított szöveg.
-[^39]: Az 5. § (4) bekezdése a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének d) pontja, a 115/2011. (VII. 7.) Korm. rendelet 2. § d) pont db) alpontja szerint módosított szöveg.
-[^40]: Az 5. § (5) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+(6)[^37] A fővárosi és megyei kormányhivatal szakigazgatási szerveként működő építésügyi és örökségvédelmi hivatal vezetőjének a gyakorlati ideje legalább három év, amelyet köztisztviselőként vagy kormánytisztviselőként építésügyi igazgatási vagy örökségvédelmi igazgatási területen kell megszerezni.
+
+[^31]: Az 5. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 5. § (2) bekezdése a 115/2011. (VII. 7.) Korm. rendelet 2. § d) pont da) alpontja, a 394/2012. (XII. 20.) Korm. rendelet 17. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^33]: Az 5. § (3) bekezdés nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 17. § (6) bekezdés b) pontjával megállapított szöveg.
+[^34]: Az 5. § (3) bekezdés f)–g) pontját a 322/2012. (XI. 16.) Korm. rendelet 43. § f) pontja hatályon kívül helyezte.
+[^35]: Az 5. § (4) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^36]: Az 5. § (5) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 38. § (2) bekezdése iktatta be.
+[^37]: Az 5. § (6) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 17. § (4) bekezdése iktatta be.
