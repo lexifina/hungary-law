@@ -2,12 +2,13 @@
 
 (2) Az (1) bekezdésben megjelölt területen a középső paleolitikum idejéből származó település, kovabánya és kőfeldolgozó műhely maradványai és leletei találhatók, amelyek magyarországi és európai viszonylatban egyaránt kiemelkedő jelentőséggel bírnak. A régészeti védelem célja a föld felszíne alatt rejlő régészeti emlékek megőrzése, az Európa-hírű lelőhely kutathatóságának és bemutathatóságának biztosítása.
 
-(3)[^1]
+(3)[^3]
 
-(4) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(4)[^4]
 
 (5) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
 
 (6) Az (1) bekezdésben megjelölt ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
 
-[^1]: A 3. § (3) bekezdését a 25/2012. (IX. 14.) EMMI rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^3]: A 3. § (3) bekezdését a 25/2012. (IX. 14.) EMMI rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 3. § (4) bekezdését a 79/2012. (XII. 28.) BM rendelet 6. § c) pontja hatályon kívül helyezte.

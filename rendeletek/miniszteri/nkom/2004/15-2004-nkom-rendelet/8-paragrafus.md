@@ -4,8 +4,10 @@
 
 (3) Régészeti védőövezetté nyilvánítom a Hernádbűd külterület 040, 041, 042, 044, 045/1, 046/1, 047, 049/4, 049/5, 049/6, 049/7, 049/8, 049/9, 049/10, 049/11, 049/12, 050 hrsz. alatt nyilvántartott ingatlanokat. A védőövezetté nyilvánítás célja a földvár tájképének megőrzése.
 
-(4) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(4)[^9]
 
 (5) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (6) Az (1) bekezdésben megjelölt 048 hrsz. alatti ingatlanra a Magyar Államot elővásárlási jog illeti meg.
+
+[^9]: A 8. § (4) bekezdését a 79/2012. (XII. 28.) BM rendelet 6. § h) pontja hatályon kívül helyezte.
