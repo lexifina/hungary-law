@@ -1,4 +1,4 @@
-33/A. § (1) Az elosztó a felhasználási helyre való bejutás érdekében az illetékes jegyzőhöz fordulhat, amennyiben a rendszerhasználó akadályozza vagy meghiúsítja:
+33/A. § (1) Az elosztó a felhasználási helyre való bejutás érdekében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) fordulhat, amennyiben a rendszerhasználó akadályozza vagy meghiúsítja:
 
 a) a fogyasztásmérő leolvasását, ellenőrzését vagy cseréjét,
 
@@ -6,7 +6,7 @@ b) szerződésszegés vagy szerződés nélküli vételezés esetén az ellátá
 
 c) a felhasználói berendezés ellenőrzését.
 
-(2) A jegyző határozatában
+(2) A járási hivatal határozatában
 
 a) a fogyasztásmérő leolvasásának, ellenőrzésének vagy cseréjének,
 

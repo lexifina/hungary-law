@@ -4,7 +4,11 @@
 
 (3) A hálózati engedélyesek a Hivatal határozatában meghatározott rendszerhasználati díjakat és áralkalmazási feltételeket kötelesek – a (6) bekezdésben foglaltak figyelembevételével – alkalmazni és a honlapjukon közzétenni.
 
-(4) A Hivatal a 142. § (2) bekezdésben meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a következő 4 éves árszabályozási ciklus kezdetét megelőző év május 15-éig a honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelettel történő kihirdetését.
+(4) A Hivatal a 142. § (2) bekezdésében meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+
+(4a) A Hivatal a költség-felülvizsgálatra vonatkozó tájékoztatását a következő árszabályozási ciklus kezdetét megelőző év május 15-éig a honlapján nyilvánosságra hozza. A Hivatal a rendszerhasználati díjak megállapításának részletes keretszabályaira vonatkozó javaslatát a következő árszabályozási ciklus kezdetét megelőző év augusztus 31-ig a honlapján nyilvánosságra hozza, és ezzel egyidejűleg kezdeményezi a miniszternél rendelettel történő kihirdetését.
+
+(4b) A (4a) bekezdésben nem szabályozott esetekben a Hivatal a miniszteri rendeletre vonatkozó előterjesztését a miniszteri rendelet tervezett hatálybalépését megelőzően legalább 40 nappal köteles megküldeni a miniszter részére.
 
 (5) A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
 

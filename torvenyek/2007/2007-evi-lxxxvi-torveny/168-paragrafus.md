@@ -30,9 +30,9 @@ e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és
 
 f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
 
-g) árszabályozási ciklus indulását megelőzően lefolytatott, rendszerhasználati díjak megállapítására irányuló eljárásban hat hónap, amely egy alkalommal, három hónappal meghosszabbítható.
+g) a rendszerhasználati díjak mértéke és alkalmazása egyedi feltételeinek megállapítására irányuló eljárásban 30 nap.
 
-(4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a Ket. általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
+(4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a közigazgatási és hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
 (5) A Hivatal az ügyfél kérelmére hatósági ellenőrzést folytathat le.
 

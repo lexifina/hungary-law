@@ -1,6 +1,6 @@
 17. § (1) Az átviteli rendszerirányító
 
-a) részt vesz a regionális szinten vagy az együttműködő európai villamosenergia-rendszer szintjén szervezett és koordinált átviteli szűkületkezelési eljárásokban;
+a) részt vesz a regionális szinten vagy az együttműködő európai villamosenergia-rendszer szintjén szervezett és koordinált átviteli szűkületkezelési eljárásokban (a továbbiakban együtt: szűkületkezelési eljárások);
 
 b) figyelembe veszi a határkeresztező kapacitások rendelkezésre bocsátása, és a rendszerösszekötő vezetékeken keletkező szűkületek kezelése során mind a regionális, mind az egységes európai villamos-energia hálózat állapotait és műszaki sajátosságait;
 
@@ -12,4 +12,4 @@ e) kapcsolatot tart harmadik felekkel, a Hivatallal és az Európai Unió más t
 
 f) közreműködik a regionális piacok kialakításában, és jogosult az egységes villamosenergia-piac kialakításának megkönnyítése érdekében közös vállalkozás létrehozására.
 
-(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a regionális szinten vagy az együttműködő európai villamosenergia-rendszer szintjén szervezett és koordinált átviteli szűkületkezelési eljárások, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodásokat a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásokról az átviteli rendszerirányító az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a Hivatalt tájékoztatja.
+(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a Hivatalt tájékoztatja.

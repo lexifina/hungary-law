@@ -1,1 +1,1 @@
-30. § Az elosztó hálózati engedélyes a jelen törvényben meghatározott feladatait, különösen a hálózatokhoz történő csatlakozás és a hozzáférés biztosítását átlátható módon, befolyásmentesen és az egyenlő bánásmód követelményének megfelelően köteles végrehajtani.
+30. § Az elosztó hálózati engedélyes az e törvényben meghatározott feladatait, különösen a hálózatokhoz történő csatlakozás és a hozzáférés biztosítását – a 7. § (5) bekezdésének rendelkezéseire figyelemmel – átlátható módon, befolyásmentesen és az egyenlő bánásmód követelményének megfelelően köteles végrehajtani.

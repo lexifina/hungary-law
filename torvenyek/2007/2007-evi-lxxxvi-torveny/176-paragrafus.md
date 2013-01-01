@@ -6,11 +6,11 @@ a) az ugyanezen területen egyetemes szolgáltatás nyújtására köteles egyet
 
 b) az egyetemes szolgáltatói engedélyen felül villamos energia kereskedelemre vonatkozó működési engedéllyel is rendelkezik.
 
-(3) Azon felhasználók esetében, akik 2011. október 1-jén írásba foglaltan nem rendelkeznek külön hálózat használati és villamosenergia-vásárlási szerződéssel, az érintett engedélyesek és felhasználók – a Vhr. szerinti ütemezéssel – 2014. december 31-ig kötelesek az e törvény és a Vhr. rendelkezései szerinti új szerződéseket írásba foglalni.
+(3)
 
-(3a) A szerződéseket az érintett engedélyes az üzletszabályzatban meghatározott módon eljuttatja minden, addig az időpontig írásba foglalt szerződéssel nem rendelkező felhasználó részére, és ezzel egyidejűleg tájékoztatja a felhasználót az írásba foglalás elmaradásának jogkövetkezményeiről. Az e és a (3) bekezdésben foglalt előírások betartását a Hivatal a Vhr.-ben meghatározott módon és gyakorisággal ellenőrzi, és nem teljesítés esetén a 96. § alapján bírságot szabhat ki.
+(3a)
 
-(4) Amennyiben e törvény hatálybalépését követően a (3) bekezdés szerinti megkötéséig érvényben lévő közüzemi szerződések egyes rendelkezései a jelen törvény rendelkezéseivel ellentétesek, úgy a közüzemi szerződés ezzel érintett rendelkezései helyett a jelen törvény és kapcsolódó jogszabályai, a villamosenergia-ellátási szabályzatok és az érintett engedélyesek üzletszabályzatainak rendelkezései megfelelően alkalmazandók.
+(4) Amennyiben e törvény hatálybalépését követően érvényben lévő közüzemi szerződések egyes rendelkezései a jelen törvény rendelkezéseivel ellentétesek, úgy a közüzemi szerződés ezzel érintett rendelkezései helyett a jelen törvény és kapcsolódó jogszabályai, a villamosenergia-ellátási szabályzatok és az érintett engedélyesek üzletszabályzatainak rendelkezései megfelelően alkalmazandók.
 
 (5) E § alkalmazásában közüzemi szerződés a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatásra jogosult, valamint a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatói engedélyes közötti, a villamos energiáról szóló 2001. évi CX. törvény szerint közüzemi szolgáltatásnak minősülő villamosenergia-szolgáltatásra vonatkozó szerződés.
 

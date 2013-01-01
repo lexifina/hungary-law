@@ -6,13 +6,19 @@
 
 (3) A 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőműnek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 39. §-a szerinti kivitelezése (a továbbiakban: kivitelezés) csak a jogerős kiserőművi összevont engedély közlését követően kezdhető meg. A kivitelezés határidejét a kérelmező által szolgáltatott adatok alapján a Hivatal a kiserőművi összevont engedélyben határozza meg.
 
-(4) A 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű tervezett üzembe helyezése előtt legalább két hónappal az engedélyes köteles az üzembe helyezésről a Hivatalt és az átviteli rendszerirányítót tájékoztatni.
+(4) A 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű esetén az engedélyes köteles a Hivatalt és az átviteli rendszerirányítót a kiserőmű
+
+a) üzembe helyezésének és a kereskedelmi üzem megkezdésének tervezett időpontjáról 60 nappal előre és
+
+b) az üzembe helyezés és a kereskedelmi üzembe helyezés megtörténtéről 30 napon belül
+
+tájékoztatni.
 
 (5) A kiserőművi összevont engedély a kérelem alapján a Hivatal által megállapított, határozott időtartamra szól és meghosszabbítható.
 
 (6) A Hivatal a (3) bekezdés szerinti kivitelezési határidőt – az engedélyes kérelmére – meghosszabbíthatja. A kivitelezési határidőt legfeljebb az eredeti kivitelezési határidőtől számított összesen három évvel lehet meghosszabbítani.
 
-(7) Ha az engedélyes a kivitelezés megkezdésével neki felróható okból késlekedik és emiatt az engedélyben előírt vagy a meghosszabbított kivitelezési határidő lejár, a kiserőművi összevont engedélyt a Hivatal visszavonja. Az e bekezdésben meghatározott ok miatt történő visszavonás esetén az engedélyes kártérítési, illetve kártalanítási igényt a Hivatallal szemben nem támaszthat.
+(7) Ha a kiserőművi összevont kérelem tárgya szerinti kiserőmű vonatkozásában az előző rendelkezésre jogosult a 7. § (2) bekezdése szerint szélerőmű kapacitásra jogosult volt, és kiserőművi összevont engedélyt kapott, az új kiserőművi összevont engedélyt kérelmező mentesül a 7. § (2) bekezdése szerinti követelmények teljesítése alól.
 
 (8) Amennyiben az ügyfél a Hivatal hatáskörébe tartozó, a Tszt. szerint engedélyköteles tevékenységet is folytatni kíván, akkor a kiserőművi összevont engedély iránti kérelmével egyidejűleg köteles kérelmezni a Tszt. szerinti engedélyeket is.
 

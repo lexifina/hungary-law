@@ -12,6 +12,6 @@ b) a felmondás benyújtásakor nem teljesített szerződéses feltételekről.
 
 (4) A felhasználó, amennyiben önállóan jár el, köteles a (3) bekezdés a) pont szerinti értesítést az új villamosenergia-kereskedőnek a kézhezvételt követően úgy időben eljuttatni, hogy az új villamosenergia-kereskedő a (6) bekezdésben meghatározott kötelezettségeinek eleget tudjon tenni.
 
-(5) A (3) bekezdés b) pontja szerinti esetben a felhasználó felmondása a megjelölt szerződési feltételek teljesülésével hatályosul.
+(5) A (3) bekezdés b) pontja szerinti esetben a villamosenergia-kereskedő a feltételek teljesítése érdekében határidőt biztosít. A felhasználó felmondása a megjelölt szerződési feltételek teljesülésével hatályosul.
 
 (6) A korábbi villamosenergia-kereskedő a (3) bekezdés a) pontja szerinti visszaigazolással egyidejűleg köteles a hálózati engedélyesnél bejelenteni a Vhr.-ben meghatározottak szerint a kereskedőváltás tényét, és a villamosenergia-vásárlási szerződés megszűnésének időpontját. Az új villamosenergia-kereskedő a (3) bekezdés a) pontja szerinti visszaigazolás kézhezvételét követően haladéktalanul, de a villamosenergia-vásárlási szerződés megszűnésének időpontját legalább 21 nappal megelőzően a hálózati engedélyes részére bejelenti az új villamosenergia-vásárlási szerződés hatálybalépésének időpontját.
