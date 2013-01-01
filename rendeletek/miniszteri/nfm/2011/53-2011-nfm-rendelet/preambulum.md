@@ -1,1 +1,0 @@
-A postáról szóló 2003. évi CI. törvény 53. § (2) bekezdés c), d) és e) pontjaiban kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § h) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el.

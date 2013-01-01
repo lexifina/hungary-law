@@ -1,3 +1,0 @@
-4. § (1) Az egyetemes postai szolgáltató és az engedélyes postai szolgáltató a Pt. 34. § (1) és (2) bekezdésében megállapítottak szerint köteles az elkülönítést végrehajtani az 1. és 4. melléklet szerint az egyes szolgáltatások bevételeire, továbbá az ilyen szolgáltatásokhoz kapcsolódó költségeire, ráfordításaira és a befektetett tőkére vonatkozóan.
-
-(2) A szolgáltatónak a postai elkülönítési szabályzatában rögzítenie kell az alapadatok rendelkezésre állítására, elkülönített nyilvántartására, valamint a bevételek, költségek és ráfordítások, továbbá a befektetett tőke felosztására vonatkozó szabályokat.
