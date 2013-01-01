@@ -1,9 +1,3 @@
-20/A. §[^28] (1) A Bibliotéka Emlékérem díj azoknak a könyvtárosoknak adományozható, akik irányító, elméleti vagy gyakorlati munkájukkal jelentős mértékben hozzájárultak a magyar könyvtári kultúra fejlődéséhez.
+## 16–20. §[^14]
 
-(2) A díjat – amelynek összege 150 000 Ft/fő – évente, január 22-én, a Magyar Kultúra Napján, tíz személy kaphatja.
-
-(3) A kitüntetett adományozást igazoló okiratot és érmet kap.
-
-(4) Az érem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 milliméter. Az érem Pató Róza szobrászművész alkotása, egyoldalas és ,,BIBLIOTÉKA EMLÉKÉREM'' felirattal van ellátva.
-
-[^28]: A 20/A. §-t a 12/2003. (VIII. 9.) NKÖM rendelet 1. §-a iktatta be.
+[^14]: A 16–20. §-t a 49/2012. (XII. 15.) EMMI rendelet 11. § (5) bekezdés b) pontja hatályon kívül helyezte.

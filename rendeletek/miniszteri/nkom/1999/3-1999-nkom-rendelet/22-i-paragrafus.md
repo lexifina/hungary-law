@@ -1,11 +1,3 @@
-22/I. §[^41] (1) A Kultúra Magyar Városa cím, az adományozás évének megjelölésével olyan város önkormányzatának adható, amely a Magyar Köztársaság kulturális, művészeti életét kiemelkedően támogatja, kulturális értékeit példaértékűen mutatja be.
+## 22/H. §[^26]
 
-(2) A cím elnyerése pályázat útján, a nemzeti kulturális örökség minisztere (a továbbiakban: miniszter) által felkért bírálóbizottság közreműködésével történik.
-
-(3) A címet évente egy alkalommal a pályázati kiírásban megjelölt kategóriáknak megfelelően egy-egy város önkormányzata kaphatja.
-
-(4) A kitüntetett az adományozást igazoló okiratot kap.
-
-(5) A címet elnyert város önkormányzata a cím ismételt elnyerésére legkorábban a cím adományozását követő 5. évtől pályázhat.
-
-[^41]: A 22/I. §-t a 12/2005. (III. 22.) NKÖM rendelet 1. §-a iktatta a szövegbe.
+[^26]: A 22/H. §-t az 5/2004. (II. 20.) NKÖM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 49/2012. (XII. 15.) EMMI rendelet 11. § (5) bekezdés b) pontja.

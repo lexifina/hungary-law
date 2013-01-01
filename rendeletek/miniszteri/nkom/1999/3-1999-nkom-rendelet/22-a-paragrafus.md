@@ -1,4 +1,6 @@
-22/A. §[^32] (1) A Műemlékvédelemért – Forster Gyula-díj a műemlékvédelem területén végzett kimagasló szakmai tevékenység elismerésére adományozható.
+## 22. §[^18]
+
+22/A. §[^19] (1) A Műemlékvédelemért – Forster Gyula-díj a műemlékvédelem területén végzett kimagasló szakmai tevékenység elismerésére adományozható.
 
 (2) A díjat – amelynek összege 200 000 Ft/fő – évente, április 18-án, a Műemléki Világnap alkalmából három személy kaphatja.
 
@@ -12,4 +14,5 @@
 
 (7) Az érem a Forster-díj érmével azonos, az előlapon „FORSTER GYULA-EMLÉKÉREM” felirat szerepel.
 
-[^32]: A 22/A. §-t a 2/2000. (I. 31.) NKÖM rendelet 4. §-a iktatta be, szövege a 25/2004. (XII. 9.) NKÖM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 22. §-t a 49/2012. (XII. 15.) EMMI rendelet 11. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^19]: A 22/A. §-t a 2/2000. (I. 31.) NKÖM rendelet 4. §-a iktatta be, szövege a 25/2004. (XII. 9.) NKÖM rendelet 1. §-ával megállapított szöveg.

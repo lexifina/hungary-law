@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-3-20-86
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1999-3-20-86.19 | 3/1999. (II. 24.) NKÖM rendelet |
+| 2013-01-01 | 1999-3-20-86.20 | 49/2012. (XII. 15.) EMMI rendelet |
