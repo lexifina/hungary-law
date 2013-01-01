@@ -32,8 +32,8 @@ n) a vizsgálathoz és záradékoláshoz szükséges egyéb okiratok.
 
 (3) A földhivatal a benyújtott kisajátítási tervet megvizsgálja. A megfelelőnek talált kisajátítási átnézeti térképet „Az állami alapadat-tartalom az érvényes ingatlan-nyilvántartási állapottal megegyezik. A záradék a keltezéstől számított egy évig érvényes, későbbi felhasználás előtt a térképet újra záradékoltatni kell”, a kisajátítási vázrajzot pedig „A helyrajzi számozás és a területszámítás helyes. A záradék a keltezéstől számított egy évig érvényes, későbbi felhasználás előtt a vázrajzot újra záradékoltatni kell” záradékkal látja el. A földügyi záradék szövege: „A művelési ágak és a minőségi osztályok feltüntetése, valamint a földminősítési adatok számítása helyes.”
 
-(4)[^2]
+(4)[^3]
 
 (5) Amennyiben a hibák javítására, illetve a hiányok pótlására nem megfelelően került sor, a kisajátítást kérőt a hibák javítására, illetve a hiányok pótlására ismételten fel kell hívni.
 
-[^2]: A 6. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 627. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 6. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 627. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

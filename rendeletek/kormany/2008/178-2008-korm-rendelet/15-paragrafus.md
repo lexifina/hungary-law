@@ -1,4 +1,4 @@
-## 14. §[^10] A fővárosi és megyei kormányhivatal (a továbbiakban: kisajátítási hatóság) a kisajátítási kérelemhez csatolt kisajátítási tervből a kisajátítási átnézeti térképet raszteres formátumban a honlapján közzéteszi.
+## 14. §[^11] A fővárosi és megyei kormányhivatal (a továbbiakban: kisajátítási hatóság) a kisajátítási kérelemhez csatolt kisajátítási tervből a kisajátítási átnézeti térképet raszteres formátumban a honlapján közzéteszi.
 
 ## Záró rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) A rendelet alkalmazásában kisajátítást kérőn azt kell érteni, aki a kisajátítási terv elkészültét követően a kisajátításról szóló 2007. évi CXXIII. törvény 24. §-ának (2) bekezdése alapján a kisajátítási eljárást kezdeményezni jogosult.
 
-[^10]: A 14. § a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 3. pontja, a 174/2012. (VII. 26.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
+[^11]: A 14. § a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 3. pontja, a 174/2012. (VII. 26.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.

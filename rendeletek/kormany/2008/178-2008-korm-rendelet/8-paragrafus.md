@@ -4,8 +4,8 @@
 
 (3) Ha kisajátítási terv az (1) és (2) bekezdésben foglaltaknak nem felel meg, az építésügyi hatóság azt a szükséges módosítások végrehajtása céljából – a kisajátítást kérőnek, megfelelő határidő kitűzésével – megküldi.
 
-(4)[^5] Ha a kisajátítási terv a 7. §-ban, illetőleg az (1) és (2) bekezdésben foglaltaknak megfelel, az építésügyi hatóság azt nyolc napon belül „a területfelhasználási követelményekkel nem ellentétes, a telekalakításra vonatkozó építésjogi követelményeknek megfelel, a záradék kisajátítás céljára lett kiadva” záradékkal látja el.
+(4)[^6] Ha a kisajátítási terv a 7. §-ban, illetőleg az (1) és (2) bekezdésben foglaltaknak megfelel, az építésügyi hatóság azt nyolc napon belül „a területfelhasználási követelményekkel nem ellentétes, a telekalakításra vonatkozó építésjogi követelményeknek megfelel, a záradék kisajátítás céljára lett kiadva” záradékkal látja el.
 
 (5) Az építésügyi hatóság a záradékkal ellátott kisajátítási tervet megküldi a kisajátítást kérő részére.
 
-[^5]: A 8. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (105) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^6]: A 8. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (105) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
