@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja a hévízi római kori település régészetileg azonosított, illetve feltárt épületeinek védelme, a föld alatti régészeti és építészeti emlékek megőrzése.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^10]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (5) Az (1) bekezdésben felsorolt 61, 65/2 és 011 helyrajzi számú ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^10]: A 7. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 5. § g) pontja hatályon kívül helyezte.

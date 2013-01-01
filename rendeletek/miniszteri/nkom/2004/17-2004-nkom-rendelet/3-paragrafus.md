@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben megjelölt területen található az érd–százhalombattai bronzkori és kora vaskori földvárhoz és településhez tartozó kora vaskori halomsíros temető. A régészeti védelem célja az Európa-hírű, kőből vagy fából készült sírkamrákkal ellátott halomsírok föld felszíne alatt rejlő régészeti maradványainak megőrzése, a kutathatóság biztosítása. A védett régészeti lelőhelyen folytatott intenzív talajművelés a lelőhely súlyos állapotromlását eredményezheti.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^4]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
+
+[^4]: A 3. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 5. § c) pontja hatályon kívül helyezte.

@@ -2,10 +2,12 @@
 
 (2) Az (1) bekezdésben megjelölt területen található az esztergomi Várhegy őskori települése, római kori katonai tábora, Magyarország Árpád-kori királyi és késő középkori érseki székhelye Szt. István protomártír templomával, a Szt. Adalbert székesegyházzal, Géza fejedelem, I. István király és III. Béla király palotájával, a középkori Víziváros (érseki város) területe számos közép- és török kori épülettel, valamint Kovácsi középkori település Árpád-kori kéttornyú háromhajós templommal. A régészeti védelem célja a föld felszíne alatt rejlő Európa-hírű régészeti értékek megőrzése, a kutathatóság és a bemutathatóság biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, valamint tereprendezéshez.
+(3)[^1]
 
 (4) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a védett régészeti területet az I. kategóriába sorolom.
 
 (5) Régészeti védőövezetté nyilvánítom a védett területet a Duna felől övező 16303 és 16323/1 helyrajzi szám alatt nyilvántartott kivett közterület művelési ágú ingatlanokat. A védőövezetté nyilvánítás célja a Víziváros és Várhegy tájképi értékének és a terület jelenlegi állapotának megőrzése.
 
 (6) Az (1) bekezdésben megjelölt 18146/2, 18146/3, 18146/4, 18146/5, 18146/6 helyrajzi számú ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^1]: Az 1. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 5. § a) pontja hatályon kívül helyezte.

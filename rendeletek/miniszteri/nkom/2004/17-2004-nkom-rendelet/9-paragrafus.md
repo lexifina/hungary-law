@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdésben megjelölt védett területen találhatók egy 9–11. századi, valószínűleg szláv etnikumhoz köthető település maradványai. A régészeti védelem célja a föld felszíne alatti régészeti emlékek megőrzése és a lelőhely kutathatóságának biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^13]
 
 (4) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (5) A Magyar Államot az (1) bekezdésben megjelölt ingatlanokra elővásárlási jog illeti meg.
+
+[^13]: A 9. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 5. § i) pontja hatályon kívül helyezte.

@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben megjelölt védett régészeti lelőhelyen található a középső őskőkori Bábonyi kultúra kb. 100–120 ezer éves régészeti emlékanyaga. A régészeti védelem célja a föld felszíne alatti rejtőző őskőkori régészeti emlékek megőrzése és az Európa-hírű lelőhely kutathatóságának biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez.
+(3)[^8]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a védett régészeti lelőhelyet az I. kategóriába sorolom.
+
+[^8]: Az 5. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 5. § e) pontja hatályon kívül helyezte.
