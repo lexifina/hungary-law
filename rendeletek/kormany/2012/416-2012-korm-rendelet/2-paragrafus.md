@@ -1,0 +1,3 @@
+## 1. § A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény végrehajtásáról szóló 140/1996. (VIII. 31.) Korm. rendelet (a továbbiakban: R1.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § A Hszt. 42. § (2) bekezdésében meghatározott más szervhez (a továbbiakban: más szerv) az vezényelhető, aki rendelkezik a vezénylés helyén betöltendő beosztáshoz, munkakörhöz (a továbbiakban együtt: beosztás) szükséges szakképesítéssel, szakképzettséggel, a beosztás ellátásához szükséges egyéb feltételekkel, vagy – a szövetséges fegyveres erőkhöz történő vezénylés kivételével – vállalja azok előírt határidőre történő megszerzését.”
