@@ -1,0 +1,3 @@
+## 32. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-ei 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 11. Hatályon kívül helyező rendelkezés

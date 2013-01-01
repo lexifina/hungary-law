@@ -1,0 +1,3 @@
+28. § (1) A szaktanácsadói feladatok ellátására a pedagógiai intézet köt megállapodást a szolgáltatást igénybe vevő megrendelővel és a feladatellátásban közreműködő szaktanácsadóval. A Központ által fenntartott pedagógiai intézet a megállapodást a megrendelő igényéhez igazodva, az elfogadott éves munkatervtől eltérően is megkötheti, amennyiben ez nem veszélyezteti a munkaterve teljesítését és ehhez a Központ hozzájárult.
+
+(2) Az egyházi vagy más nem állami, nem önkormányzati fenntartású pedagógiai intézet a megállapodást az éves munkatervével összhangban, a megrendelő igényéhez igazodva, az Oktatáskutató és Fejlesztő Intézet egyidejű tájékoztatásával köti meg.
