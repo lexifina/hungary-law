@@ -1,417 +1,315 @@
-10. § E törvénynek a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló 2006. évi CXXXIII. törvény módosításáról szóló 2012. évi LVIII. törvénnyel megállapított 3. § c) pontját, 4. §-át és 6. §-át a 2011. évi forrásmegosztási rendelet felülvizsgálata és a 2012. évi forrásmegosztás során is figyelembe kell venni.
+10. §
 
 ## Melléklet a 2006. évi CXXXIII. törvényhez
 
-A fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek
+A kerületi önkormányzatok egymás közötti részesedési arányai
 
-felosztásához használt tényezők értéke 2005-ben
-
-|
-
-|
-
-Belterületi terület nagysága
-
-(ha)
-
-|
-
-Önkormányzati tulajdonban levő
-
-félkomfortos, komfort nélküli
-
-és szükséglakások együttes alapterülete
-
-(m2)
-
-|
-
-Önkormányzat területén
-
-iparosított technológiával épült lakások
-
-darabszáma
-
-|
-
-I. kerület
-
-|
-
-341
-
-|
-
-6 492
-
-|
-
-461
-
-|
-
-II. kerület
-
-|
-
-2 265
-
 |
-
-9 435
-
-|
-
-2 577
-
-|
-
-III. kerület
-
-|
-
-3 100
-
-|
-
-15 880
-
-|
-
-36 613
-
-|
-
-IV. kerület
-
-|
-
-1 704
-
-|
-
-25 163
-
-|
-
-28 123
-
-|
-
-V. kerület
-
-|
-
-259
-
-|
-
-8 725
 
 |
 
-173
+A
 
 |
 
-VI. kerület
+B
 
 |
 
-238
+1
 
 |
 
-33 753
+Kerületi önkormányzat megnevezése
 
 |
 
-–
+Részesedési arányok (%)
 
 |
 
-VII. kerület
+2
 
 |
 
-209
+I. kerületi önkormányzat
 
 |
 
-84 615
+1,54229750
 
 |
 
-105
+3
 
 |
 
-VIII. kerület
+II. kerületi önkormányzat
 
 |
 
-685
+5,07622909
 
 |
 
-134 977
+4
 
 |
 
-4 714
+III. kerületi önkormányzat
 
 |
 
-IX. kerület
+7,22624018
 
 |
 
-1 253
+5
 
 |
 
-120 599
+IV. kerületi önkormányzat
 
 |
 
-9 219
+6,11004338
 
 |
 
-X. kerület
+6
 
 |
 
-2 895
+V. kerületi önkormányzat
 
 |
 
-38 036
+1,40816157
 
 |
 
-19 656
+7
 
 |
 
-XI. kerület
+VI. kerületi önkormányzat
 
 |
 
-2 838
+2,51692804
 
 |
 
-17 765
+8
 
 |
 
-27 371
+VII. kerületi önkormányzat
 
 |
 
-XII. kerület
+3,31902329
 
 |
 
-1 574
+9
 
 |
 
-11 695
+VIII. kerületi önkormányzat
 
 |
 
-1 033
+3,80946081
 
 |
 
-XIII. kerület
+10
 
 |
 
-1 344
+IX. kerületi önkormányzat
 
 |
 
-97 697
+3,61965731
 
 |
 
-23 072
+11
 
 |
 
-XIV. kerület
+X. kerületi önkormányzat
 
 |
 
-1 813
+4,71307384
 
 |
 
-48 607
+12
 
 |
 
-22 289
+XI. kerületi önkormányzat
 
 |
 
-XV. kerület
+7,28511820
 
 |
 
-1 765
+13
 
 |
 
-14 016
+XII. kerületi önkormányzat
 
 |
 
-20 500
+2,98544811
 
 |
 
-XVI. kerület
+14
 
 |
 
-2 407
+XIII. kerületi önkormányzat
 
 |
 
-5 035
+6,06949128
 
 |
 
-6 324
+15
 
 |
 
-XVII. kerület
+XIV. kerületi önkormányzat
 
 |
 
-2 459
+7,04585324
 
 |
 
-2 119
+16
 
 |
 
-8 249
+XV. kerületi önkormányzat
 
 |
 
-XVIII. kerület
+5,12986946
 
 |
 
-3 226
+17
 
 |
 
-15 769
+XVI. kerületi önkormányzat
 
 |
 
-13 612
+4,16786632
 
 |
 
-XIX. kerület
+18
 
 |
 
-938
+XVII. kerületi önkormányzat
 
 |
 
-7 940
+4,73956940
 
 |
 
-11 996
+19
 
 |
 
-XX. kerület
+XVIII. kerületi önkormányzat
 
 |
 
-1 122
+6,59426818
 
 |
 
-9 323
+20
 
 |
 
-9 240
+XIX. kerületi önkormányzat
 
 |
 
-XXI. kerület
+3,47808963
 
 |
 
-2 302
+21
 
 |
 
-8 422
+XX. kerületi önkormányzat
 
 |
 
-16 968
+3,58665199
 
 |
 
-XXII. kerület
+22
 
 |
 
-2 542
+XXI. kerületi önkormányzat
 
 |
 
-7 378
+4,88600440
 
 |
 
-5 658
+23
 
 |
 
-XXIII. kerület
+XXII. kerületi önkormányzat
 
 |
 
-1 326
+3,27164242
 
 |
 
-1 265
+24
 
 |
 
-690
+XXIII. kerületi önkormányzat
 
 |
 
-Összesen:
+1,41901236
 
 |
 
-38 605
+25
 
 |
 
-724 706
+Kerületi önkormányzatok összesen
 
 |
 
-268 643
+100,00000000

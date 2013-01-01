@@ -1,1 +1,1 @@
-1. § A törvény hatálya a fővárosi önkormányzatra és a kerületi önkormányzatokra terjed ki.
+1. § E törvény alkalmazásában a tárgyév azon év, amelyre vonatkozóan a fővárosi önkormányzat és a kerületi önkormányzatok között megosztandó bevételek a forrásmegosztásról szóló közgyűlési rendeletben meghatározásra kerülnek.

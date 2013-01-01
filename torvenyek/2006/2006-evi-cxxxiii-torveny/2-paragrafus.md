@@ -1,1 +1,5 @@
-2. § A Fővárosi Közgyűlésnek az Ötv. 64. § (4) bekezdésében, valamint a helyi adókról szóló 1990. évi C. törvényben meghatározott, a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek megosztásáról szóló rendeletét az e törvényben foglaltak szerint kell megalkotnia.
+2. § A fővárosi önkormányzatot és a kerületi önkormányzatokat
+
+a) a fővárosi önkormányzat közgyűlésének rendeletével – törvény alapján – a fővárosi önkormányzat által kivetett helyi adóból származó bevétel, valamint
+
+b) ha a helyi adókról szóló törvény alapján a kerületi önkormányzat képviselő-testülete előzetes beleegyezését adta ahhoz, hogy az általa kivethető helyi adót a fővárosi önkormányzat közgyűlése vesse ki, a fővárosi önkormányzat közgyűlésének rendelete alapján kivetett helyi adóból származó bevétel és az ahhoz kapcsolódó állami támogatás e törvényben meghatározott szabályok szerint osztottan illeti meg.
