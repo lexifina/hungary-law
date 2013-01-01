@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. § A bonus-malus rendszer, az abba való besorolás, illetve a kártörténeti igazolások kiadásának szabályairól szóló 21/2011. (VI. 10.) NGM rendelet (a továbbiakban: Rendelet) 5. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## „(2) A biztosító köteles a biztosítási időszak kezdetét követő 15. és 30. nap közötti időtartamon belül a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvényben meghatározott kártörténeti nyilvántartásból (a továbbiakban: kárnyilvántartás) lekérdezni a szerződés bonus-malus besorolásához szükséges adatokat. A biztosító a kárnyilvántartásban az üzemben tartó által közölt hatósági jelzés és az előző biztosítást igazoló okirat száma vagy a kártörténeti rendszer azonosító szám alapján végzi a beazonosítást, a besorolást a közvetlenül megelőző biztosítási időszak kárnyilvántartásban meglévő adatai (kockázatviselés időtartama, kártörténeti adatok) alapján állapítja meg.”
