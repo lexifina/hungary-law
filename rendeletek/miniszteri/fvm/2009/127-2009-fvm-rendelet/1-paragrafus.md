@@ -56,7 +56,7 @@ c)[^2] ellenőrzéssel, laboratóriumi vizsgálatokkal és a forgalomba hozatali
 
 2. biológiai üledékek: élő és holt élesztőgombasejtek, baktériumsejtek vagy sejthalmazok, valamint penészgombafonalak;
 
-3.[^3] borüledékek: mindazok a mikrobiológiai, kémiai és fizikai eredetű részecskék, amelyek a stabilizált, szűrt borászati termékben szaporodás, kicsapódás vagy utószennyeződés útján nemkívánatos elváltozást (opálosság, porosság, zavarosság) okoznak, függetlenül attól, hogy a részecskék a borászati termékben leülepednek vagy lebegve maradnak;
+3.[^3] borüledékek: mindazok a mikrobiológiai, kémiai és fizikai eredetű részecskék, amelyek a stabilizált, szűrt borászati termékben szaporodás, kicsapódás vagy utószennyeződés útján nemkívánatos elváltozást (opálosság, porosság, zavarosság) okoznak, függetlenül attól, hogy a részecskék a borban leülepednek vagy lebegve maradnak;
 
 4. ellenminta: a halmazból, tételből a mintával azonos időben és módon vett és lezárt minta, mely a mintaadónál marad;
 

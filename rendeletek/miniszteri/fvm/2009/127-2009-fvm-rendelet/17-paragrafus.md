@@ -1,6 +1,6 @@
-## 16. §[^42]
+## 16. §[^39]
 
-17. § (1)[^43] A származási bizonyítvány kiadásáról a hegybíró nyilvántartást vezet a HEGYIR-ben.
+17. § (1)[^40] A származási bizonyítvány kiadásáról a hegybíró nyilvántartást vezet a HEGYIR-ben.
 
 (2) A nyilvántartásnak
 
@@ -14,5 +14,5 @@ d) a származási bizonyítványban szereplő szőlő- vagy bormennyiség felhas
 
 kell tartalmaznia.
 
-[^42]: A 16. §-t a 128/2012. (XII. 14.) VM rendelet 32. § c) pontja hatályon kívül helyezte.
-[^43]: A 17. § (1) bekezdése a 128/2012. (XII. 14.) VM rendelet 7. §-ával megállapított szöveg.
+[^39]: A 16. §-t a 128/2012. (XII. 14.) VM rendelet 32. § c) pontja hatályon kívül helyezte.
+[^40]: A 17. § (1) bekezdése a 128/2012. (XII. 14.) VM rendelet 7. §-ával megállapított szöveg.

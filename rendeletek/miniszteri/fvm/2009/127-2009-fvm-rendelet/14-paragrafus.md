@@ -1,20 +1,31 @@
-14. § (1)[^37] A bor származási bizonyítványának kiadását a hegybíró által nyilvántartott, gazdasági aktaszámmal rendelkező természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, kérelmezi a szüretet követő év január 10-ig a 10. számú melléklet szerinti kérelemnek a hegybíróhoz történő benyújtásával. A bor első származási bizonyítványára irányuló kérelemhez mellékelni kell a szőlő származási bizonyítvány első (biztonsági jellel ellátott) példányát, illetve a pincekönyvnek a kérelemben szereplő bortételre vonatkozó részének másolatát.
+14. §[^37] (1) A bor származási bizonyítvány kiadását a hegybíró által nyilvántartott, gazdasági aktaszámmal rendelkező természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet kérelmezi a 10. számú melléklet szerinti kérelemnek a hegybíróhoz történő benyújtásával.
 
-(2)[^38] A bor származási bizonyítvány iránti kérelemben a bor mennyiségét seprős újborban kell megadni. A tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékek előállítása estén a bor első származási bizonyítványa január 10. után a szüretet követő év március 31-ig kérelmezhető.
+(2) Az első bor származási bizonyítvány kiadását legkésőbb a szüretet követő év január 10-ig kell kérelmezni a borszőlőültetvény fekvése szerint illetékes hegybírónál. A tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékek előállítása esetén az első bor származási bizonyítványt a szüretet követő év március 31-ig kell kérelmezni. Az első bor származási bizonyítvány iránti kérelemben a bor mennyiségét seprős újborban kell megadni. A kérelemhez csatolni kell:
 
-(3) A hegybíró a szüretet követő év január 14-ig a (2) bekezdés szerint benyújtott kérelemben szereplő adatokat rögzíti a HEGYIR-ben.
+a) a szőlő származási bizonyítvány első (biztonsági jellel ellátott) példányát, és
 
-(4) Adómentes bor előállítása esetén bor származási bizonyítvány nem adható ki. Ebben az esetben a szőlő származási bizonyítványra a hegybíró rávezeti: „Adómentes bor előállítására felhasznált szőlő”.
+b) a pincekönyvnek a kérelemben szereplő bortételre vonatkozó részének másolatát.
 
-(5) A bor származási bizonyítványt bortételenként kell kiadni.
+(3) Az első bor származási bizonyítvány kiadásával egyidejűleg a szőlő származási bizonyítványát be kell vonni.
 
-(6)[^39] Amennyiben a bor származási bizonyítvánnyal rendelkező bortétel továbbfeldolgozásra kerül, abban az esetben az (1) bekezdés szerint benyújtott kérelem alapján a hegybíró a bor származási bizonyítványának bevonását követően a bor továbbfeldolgozásának megfelelően új bor származási bizonyítványt állít ki. A kiadott bor származási bizonyítványokban rögzített bormennyiséget a pincekönyv érintett bortételre vonatkozó részének másolata alapján kell rögzíteni.
+(4) Bor származási bizonyítvány csak az alábbi célok valamelyikéből benyújtott kérelemre adható ki:
 
-(7) Amennyiben a bor származási bizonyítvánnyal rendelkező bortételt több bortételre bontják meg, abban az esetben az (1) bekezdés szerint benyújtott kérelmek alapján a hegybíró a bor származási bizonyítványának bevonását követően bortételenként új bor származási bizonyítványt állít ki és azon feltünteti a bevont bor származási bizonyítvány számát. A tételenként kiadott bor származási bizonyítványok adattartalmának meg kell egyeznie a bevont származási bizonyítványon szereplő, a borászati terméket meghatározó adatokkal. A tételenként kiadott bor származási bizonyítványokban rögzített, összegzett bormennyiség nem térhet el a bevont származási bizonyítványon szerelő bormennyiségtől.
+a) készletigazolás (első bor származási bizonyítvány kiadását is),
 
-(8)[^40] A (6) bekezdés szerint kiadott bor származási bizonyítványon akkor is fel kell tüntetni az alkoholtartalom-növelés vagy az édesítés tényét, ha azt nem azon a tételen végezték, amelye a borszármazási bizonyítványt kérik, hanem egy vagy több résztételnél, amiből a végső bortétel áll.
+b) másik hegyközség területén található adóraktárba történő átszállítás, vagy
 
-[^37]: A 14. § (1) bekezdése a 64/2010. (V. 12.) FVM rendelet 3. § (1) bekezdésével megállapított, a 27. § (1) bekezdése szerint módosított szöveg.
-[^38]: A 14. § (2) bekezdése a 64/2010. (V. 12.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^39]: A 14. § (6) bekezdése a 64/2010. (V. 12.) FVM rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^40]: A 14. § (8) bekezdését a 64/2010. (V. 12.) FVM rendelet 3. § (3) bekezdése iktatta be.
+c) forgalomba hozatali engedély igénylése.
+
+(5) A hegybíró a szüretet követő év január 14-ig rögzíti a HEGYIR-ben a (2) bekezdés szerint benyújtott kérelemben szereplő adatokat. A tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékekre benyújtott kérelmekben szereplő adatokat április 5-ig rögzíti a HEGYIR-ben.
+
+(6) Adómentes bor előállítása esetén bor származási bizonyítvány nem adható ki. Ebben az esetben a szőlő származási bizonyítványra a hegybíró rávezeti: „Adómentes bor előállítására felhasznált szőlő”. Ezt a tényt a hegybíró rögzíti a HEGYIR-ben.
+
+(7) A bor származási bizonyítványt bortételenként kell kiadni.
+
+(8) A bor származási bizonyítvánnyal rendelkező bortétel további feldolgozása esetén az (1) bekezdés szerint benyújtott kérelem alapján a hegybíró a bor származási bizonyítványának bevonását követően a bor további feldolgozásának megfelelően új bor származási bizonyítványt állít ki. A kiadott bor származási bizonyítványokban rögzített bormennyiséget a pincekönyv érintett bortételre vonatkozó részének másolata alapján kell rögzíteni. A bor további feldolgozása esetén új származási bizonyítványt – az előző bevonásával egyidejűleg – a feldolgozás helye szerint illetékes hegybíró adja ki. A bor származási bizonyítványt a hegybíró csak abban az esetben adhatja ki, amennyiben a származási bizonyítvány kérelemhez melléklet pincekönyv-másolat alkalmas a tétel azonosítására.
+
+(9) Amennyiben a bor származási bizonyítvánnyal rendelkező bortételt több bortételre bontják meg, abban az esetben az (1) bekezdés szerint benyújtott kérelmek alapján a hegybíró a bor származási bizonyítványának bevonását követően bortételenként új bor származási bizonyítványt állít ki és azon feltünteti a bevont bor származási bizonyítvány számát. A tételenként kiadott bor származási bizonyítványok adattartalmának meg kell egyeznie a bevont származási bizonyítványon szereplő, a borászati terméket meghatározó adatokkal. A tételenként kiadott bor származási bizonyítványokban rögzített, összegzett mennyiség – a technológiai veszteségtől, a keletkezett borseprőtől, valamint a felhasznált tirázs és expedíciós likőrtől eltekintve – nem térhet el a bevont származási bizonyítványon szereplő mennyiségtől.
+
+(10) A (8) bekezdés szerint kiadott bor származási bizonyítványon akkor is fel kell tüntetni az alkoholtartalom-növelés vagy az édesítés tényét, ha azt nem azon a tételen végezték, amelyre a borszármazási bizonyítványt kérik, hanem egy vagy több résztételnél, amiből a végső bortétel áll.
+
+[^37]: A 14. § a 128/2012. (XII. 14.) VM rendelet 5. §-ával megállapított szöveg.

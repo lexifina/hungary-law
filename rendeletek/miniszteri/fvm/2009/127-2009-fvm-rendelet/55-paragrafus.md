@@ -1,16 +1,16 @@
 ## Hagyományos kifejezések
 
-55. § (1)[^109] A 607/2009/EK bizottsági rendelet XII. mellékletének „B” részében felsorolt kifejezések közül az alábbiak a Btv.-ben előírtakon túlmenően kizárólag az itt megjelölt feltételek teljesítése esetén tüntethetők fel a borászati termékek címkéjén:
+55. § (1)[^106] A 607/2009/EK bizottsági rendelet XII. mellékletének „B” részében felsorolt kifejezések közül az alábbiak a Btv.-ben előírtakon túlmenően kizárólag az itt megjelölt feltételek teljesítése esetén tüntethetők fel a borászati termékek címkéjén:
 
 a) „Késői szüretelésű bor”: olyan a bor, amelyet az általános szüreti időszak után szüretelt, érett szőlőből állítottak elő, és amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék,
 
 b) „Válogatott szüretelésű bor”: olyan bor, amelyet a tőkén teljesen beérett szőlőből kiválogatott, egészséges, részben túlérett bogyóiból állítottak elő, és amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék,
 
-c)[^110] „Muzeális bor”: olyan OEM-borászati termék, amelyet legalább öt évig érleltek palackban,
+c)[^107] „Muzeális bor”: olyan OEM-borászati termék, amelyet legalább öt évig érleltek palackban,
 
 d) „Siller”: a rövid héjonerjesztés következtében élénk, halvány színű vörösbor.
 
 (2) Az egyes OEM-ek és OFJ-k termékleírásai az (1) bekezdésben foglaltaknál szigorúbb szabályokat is felállíthatnak, ideértve az adott hagyományos kifejezés használatának tilalmát is.
 
-[^109]: Az 55. § (1) bekezdés nyitó szövegrésze a 64/2010. (V. 12.) FVM rendelet 17. §-ával megállapított, a 128/2012. (XII. 14.) VM rendelet 30. § (14) bekezdése szerint módosított szöveg.
-[^110]: Az 55. § c) pontja a 128/2012. (XII. 14.) VM rendelet 30. § (6) bekezdése szerint módosított szöveg.
+[^106]: Az 55. § (1) bekezdés nyitó szövegrésze a 64/2010. (V. 12.) FVM rendelet 17. §-ával megállapított, a 128/2012. (XII. 14.) VM rendelet 30. § (14) bekezdése szerint módosított szöveg.
+[^107]: Az 55. § c) pontja a 128/2012. (XII. 14.) VM rendelet 30. § (6) bekezdése szerint módosított szöveg.

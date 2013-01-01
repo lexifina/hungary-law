@@ -64,6 +64,6 @@
 
 ## adatszolgáltató aláírása
 
-6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^145]
+6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^142]
 
-[^145]: A 6. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (5) bekezdésével megállapított szöveg.
+[^142]: A 6. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (5) bekezdésével megállapított szöveg.

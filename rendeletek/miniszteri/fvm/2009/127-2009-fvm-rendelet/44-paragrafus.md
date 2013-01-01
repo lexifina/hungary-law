@@ -1,6 +1,6 @@
 ## A minta csomagolása és jelölése
 
-44. § (1)[^90] A mintát és az ellenmintát úgy kell lezárni (pecséttel, viaszpecséttel, zsugorfóliával vagy kengyelszerűen elhelyezett ragasztószalaggal), hogy a mintához a zárás megsértése nélkül ne lehessen hozzáférni. A mintát sorszámmal kell ellátni. A lezáráson el kell helyezni a mintavevő aláírását vagy pecsétjét.
+44. § (1)[^87] A mintát és az ellenmintát úgy kell lezárni (pecséttel, viaszpecséttel, zsugorfóliával vagy kengyelszerűen elhelyezett ragasztószalaggal), hogy a mintához a zárás megsértése nélkül ne lehessen hozzáférni. A mintát sorszámmal kell ellátni. A lezáráson el kell helyezni a mintavevő aláírását vagy pecsétjét.
 
 (2) A mintán fel kell tüntetni:
 
@@ -14,10 +14,10 @@ d) a minta által képviselt mennyiséget,
 
 e) a mintavevő, az ellenőrzött vagy a minta beküldője aláírását és pecsétjét,
 
-f)[^91] a megmintázott borászati terméket tároló edény azonosítóját,
+f)[^88] a megmintázott borászati terméket tároló edény azonosítóját,
 
-g)[^92] a mintavételi jegyzőkönyv sorszámát.
+g)[^89] a mintavételi jegyzőkönyv sorszámát.
 
-[^90]: A 44. § (1) bekezdése a 64/2010. (V. 12.) FVM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^91]: A 44. § (2) bekezdés f) pontja a 64/2010. (V. 12.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^92]: A 44. § (2) bekezdés g) pontját a 64/2010. (V. 12.) FVM rendelet 13. § (3) bekezdése iktatta be.
+[^87]: A 44. § (1) bekezdése a 64/2010. (V. 12.) FVM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^88]: A 44. § (2) bekezdés f) pontja a 64/2010. (V. 12.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^89]: A 44. § (2) bekezdés g) pontját a 64/2010. (V. 12.) FVM rendelet 13. § (3) bekezdése iktatta be.

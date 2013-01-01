@@ -1,65 +1,247 @@
+## A. Készletigazolás céljából kiadott bor származási bizonyítvány
+
 ## Bor származási bizonyítvány
 
-| Példányszám: |  | Sorszám: |  |
+## „A” típus - készletigazolás céljából kiadva
 
-| Hegyközségi Tanács: |  | Hegyközség neve: |  |
+| Példányszám: |  |  | Sorszám: |  |
 
-| Termelő neve: |  |  | Felvásárló neve: |
+| Hegyközségi Tanács: |  |  | Hegyközség: |  |
 
-| Termelő címe: |  |  | Címe: |
+| Termelő neve: |  |  | Felvásárló neve: |  |
 
-| Nyilvántartási száma: |  |  | Nyilvántartási száma: |
+| Termelő címe: |  |  | Címe: |  |
 
-| GA száma: |  |  | GA száma: |
+| GA száma: |  |  | GA száma: |  |
 
-| Termelő aláírása: |  |  | Felvásárló aláírása: |
+|  | A | B | C | D |
 
-| Bor tárolási helye: |  |  |  |  |  |
+| 1. | A borászati termék | megnevezése: |  |
 
-| Kérelmezett tétel megnevezése: |  |  |  |  |
+| 2. | tárolási helye: |  |
 
-| Borkezelésre vonatkozó nyilatkozatok |  |  |  |
+| 3. | termékkategóriája: |  |
 
-| Természetes alkoholtartalom növelés történt | ◻igen; ◻nem |  |  |  |
+| 4. | színe: |  |
 
-| Bor édesítése történt | ◻igen; ◻nem |  |  |  |
+| 5. | származási országa: |  |
 
-| must/bor savtartalmának növelése történt | ◻igen; ◻nem |  |  |  |
+| 6. | évjárata |  |
 
-| must/bor savtartalmának csökkentése történt | ◻igen; ◻nem |  |  |  |
+| 7. | szőlőfajtája vagy fajtái |  |
 
-| Évjárat: |
+| 8. | alkoholtartalmát növelték: | igen/nem |
 
-| Szín: | fehér/rozé/vörös | Származási ország: |  |  |
+| 9. | édesítése megtörtént: | igen/nem |
 
-| Bor készültségi foka: | Termék típusa**: |  |  |  |
+| 10. | savtartalmát növelték: | igen/nem |
 
-|  | A | B | C | D | E | F |
+| 11. | savtartalmát csökkentették: | igen/nem |
 
-| 1. | Tétel- szám | Bevonandó szőlő / bor származási bizonyítvány/forgalomba hozatali engedély sorszáma | A címkén feltüntetni kívánt OEM, OFJ vagy fajtanév | A címkén feltüntethető, az 52. §-ban meghatározott kisebb földrajzi egység neve, hagyományos kifejezés, az 56. §-ban meghatározott egyéb korlátozottan használható kifejezés vagy a termékleírásban meghatározott egyéb kifejezés | Összes alkohol (%vol) | Mennyiség* (hl) |
+| 12. | összes alkoholtartalma (%vol) |  |
 
-| 2. |  |  |  |  |  |  |
+| 13. | teljes mennyisége (hl) |  |
 
-| 3. |  |  |  |  |  |  |
+| 14. | Potenciálisan jelölhető | eredetmegjelölés(ek) és bortípus(ok) |  |
 
-| 4. |  |  |  |  |  |  |
+| 15. | földrajzi jelzés(ek) és bortípus(ok) |  |
 
-| 5. |  | ÖSSZESEN |
+| 16. | évjárat |  |
 
-## * 1234/2007/EK rendelet XIb. számú melléklete szerinti kategóriák.
+| 17. | borszőlőfajta(ák) neve(i) |  |
 
-## ** Pincekönyv alapján
+| 18. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
+
+| 19. |  |  |  |
+
+| 20. |  |  |  |
+
+| 21. |  |  |  |
+
+| 22. |  |  |  |
 
 ## Megjegyzés:
 
-## A fenti tételekre a ...................... sorszámú bor származási bizonyítványt ........................... – célra kiadtam és nyilvántartásba vettem
+## A fenti tételre a ____________ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
 
-## Kelt: ..............................
+| Kelt.: | _________________________________ |  |  |  |
 
-## .......................................
+|  |  |  |  |  | P.H. | Hegybíró aláírása |
 
-## Hegybíró aláírása
+## B. Másik hegyközség területén található adóraktárba történő átszállítás céljából kiadott bor származási bizonyítvány
 
-## P. H.
+## Bor származási bizonyítvány
+
+## „B” típus - másik hegyközség területén található adóraktárba történő átszállítás céljából kiadva
+
+## Példányszám
+
+## Sorszám
+
+## Eladó (feladó)
+
+## • neve:
+
+## • címe:
+
+## • GA száma:
+
+## A borászati termék feladásának helye szerint illetékes
+
+## • hegyközség neve
+
+## • hegyközségi tanács neve:
+
+## Vevő (címzett)
+
+## • neve:
+
+## • címe:
+
+## • GA száma:
+
+## A borászati termék rendeltetési helye szerint illetékes
+
+## • hegyközség neve
+
+## • hegyközségi tanács neve:
+
+|  | A | B | C | D |
+
+| 1. | A borászati termék | megnevezése: |  |
+
+| 2. | tárolási helye: |  |
+
+| 3. | termékkategóriája: |  |
+
+| 4. | színe: |  |
+
+| 5. | származási országa: |  |
+
+| 6. | évjárata |  |
+
+| 7. | szőlőfajtája vagy fajtái |  |
+
+| 8. | alkoholtartalmát növelték: | igen/nem |
+
+| 9. | édesítése megtörtént: | igen/nem |
+
+| 10. | savtartalmát növelték: | igen/nem |
+
+| 11. | savtartalmát csökkentették: | igen/nem |
+
+| 12. | összes alkoholtartalma (%vol) |  |
+
+| 13. | teljes mennyisége (hl) |  |
+
+| 14. | Potenciálisan jelölhető | eredetmegjelölés(ek) és bortípus(ok) |  |
+
+| 15. | földrajzi jelzés(ek) és bortípus(ok) |  |
+
+| 16. | évjárat |  |
+
+| 17. | borszőlőfajta(ák) neve(i) |  |
+
+| 18. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
+
+| 19. |  |  |  |
+
+| 20. |  |  |  |
+
+| 21. |  |  |  |
+
+| 22. |  |  |  |
+
+## Megjegyzés:
+
+## A fenti tételre a ____________ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
+
+| Kelt.: | _________________________________ |  |  |  |
+
+|  |  |  |  |  | P.H. | Hegybíró aláírása |
+
+## C. Forgalomba hozatali engedély igénylése céljából kiadott bor származási bizonyítvány
+
+## Bor származási bizonyítvány
+
+## „C” típus – forgalomba hozatali engedély igénylése céljából kiadva
+
+| Példányszám: |  |  | Sorszám: |  |
+
+| Hegyközségi Tanács: |  |  | Hegyközség: |  |
+
+| Termelő neve: |  |  | Felvásárló neve: |  |
+
+| Termelő címe: |  |  | Címe: |  |
+
+| GA száma: |  |  | GA száma: |  |
+
+|  | A | B | C | D |
+
+| 1. | A borászati termék | megnevezése: |  |
+
+| 2. | tárolási helye: |  |
+
+| 3. | termékkategóriája: |  |
+
+| 4. | színe: |  |
+
+| 5. | származási országa: |  |
+
+| 6. | évjárata |  |
+
+| 7. | szőlőfajtája vagy fajtái |  |
+
+| 8. | alkoholtartalmát növelték: | igen/nem |
+
+| 9. | édesítése megtörtént: | igen/nem |
+
+| 10. | savtartalmát növelték: | igen/nem |
+
+| 11. | savtartalmát csökkentették: | igen/nem |
+
+| 12. | teljes mennyisége (hl) |  |
+
+| 13. | minimális összes alkoholtartalma: |  |
+
+| 14. | A borászati terméken jelölhető | eredetmegjelölés vagy földrajzi jelzés és bortípus |  |
+
+| 15. | az eredetmegjelölés termőterületénél kisebb földrajzi egység(ek) neve(i) |  |
+
+| 16. | a Btv. 13/A. § (3), (5) és (6) bekezdésében meghatározott hagyományos kifejezés |  |
+
+| 17. | a Btv. 36. §-ában, valamint az 55. §-ban meghatározott hagyományos kifejezés(ek) |  |
+
+| 18. | a 607/2009/EK bizottsági rendelet 66. cikkében meghatározott bizonyos előállítási eljárásokra utaló kifejezés(ek) |  |
+
+| 19. | az 56. §-ban meghatározott egyéb korlátozottan használható kifejezés(ek) |  |
+
+| 20. | a termékleírásban szabályozott egyéb kifejezés(ek) |  |
+
+| 21. | évjárat |  |
+
+| 22. | borszőlőfajta(ák) neve(i) |  |
+
+| 23. |  | az édességi kategória megnevezése |  |
+
+| 24. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | mennyiség (hl – pincekönyv alapján) |
+
+| 25. |  |  |
+
+| 26. |  |  |
+
+| 27. |  |  |
+
+| 28. |  |  |
+
+## Megjegyzés:
+
+## A fenti tételekre a ____________ sorszámú bor származási bizonyítványt a forgalomba hozatali engedély igénylésének céljából kiadtam és nyilvántartásba vettem.
+
+## A HBB döntésére vonatkozó záradék:
+
+| Kelt.: | _________________________________ |  |  |  |
+
+|  |  |  |  |  | P.H. | Hegybíró aláírása |
 
 12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
