@@ -56,6 +56,6 @@ bn) tájékoztató, kezelési szabályzat utolsó módosításának időpontja,
 
 bo) jogelőd, jogutód befektetési alap neve.
 
-(2)
+(2) A Felügyelet (1) bekezdés szerinti nyilvántartása nyilvános. A Felügyelet az (1) bekezdésben meghatározott adatokat a honlapján letölthető formában magyar és angol nyelven közzéteszi.
 
 (3) A Felügyelet a befektetési alapkezelők (1) bekezdés szerinti adatainak változása esetén tájékoztatja a befektetési alapkezelő fogadó országának hatáskörrel rendelkező felügyeleti hatóságát.
