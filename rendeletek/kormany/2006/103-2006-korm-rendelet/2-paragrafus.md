@@ -2,8 +2,8 @@
 
 (2) A továbbképzési kötelezettség alól mentesül
 
-a)[^3] a külön jogszabály szerint elkülönített névjegyzékbe bejegyzett szakmagyakorló és
+a)[^4] a külön jogszabály szerint elkülönített névjegyzékbe bejegyzett szakmagyakorló és
 
 b) a szakmagyakorlást külön jogszabályban meghatározott eseti engedéllyel folytató személy.
 
-[^3]: A 2. § (2) bekezdésének a) pontja a 61/2008. (III. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 4. napját követően indult ügyekben kell alkamazni.
+[^4]: A 2. § (2) bekezdésének a) pontja a 61/2008. (III. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 4. napját követően indult ügyekben kell alkamazni.
