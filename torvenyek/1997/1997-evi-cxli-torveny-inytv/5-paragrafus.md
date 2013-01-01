@@ -12,4 +12,10 @@
 
 (6) Az ingatlan-nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
 
-(7) Ha az ingatlannak a tulajdoni lapon átvezetett és az ingatlan-nyilvántartási térképen ábrázolt határvonala alapján a földmérésről szóló jogszabályok szerint meghatározható területnagysága eltér egymástól, akkor ez utóbbi az irányadó.
+(7) Ha az ingatlannak a tulajdoni lapon átvezetett és az állami ingatlan-nyilvántartási térképi adatbázisban ábrázolt határvonala alapján külön jogszabály szerint meghatározható területnagysága eltér egymástól, akkor ez utóbbi az irányadó.
+
+(8) Az állami ingatlan-nyilvántartási térképi adatbázis – az ellenkező bizonyításáig – hitelesen tanúsítja a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 11. § (1) bekezdése szerint meghatározott állami alapadat-tartalmat.
+
+(9) Az állami ingatlan-nyilvántartási térképi adatbázisban rögzített földrészletről, továbbá az ott rögzített egyéb önálló ingatlanról – a (10) bekezdés kivételével – az ellenkező bizonyításáig vélelmezni kell, hogy az fennáll, határvonalainak ábrázolása helyes és teljes.
+
+(10) Az állami ingatlan-nyilvántartási térképi adatbázisban nem rögzített, továbbá törölt (érvénytelenített) földrészletről, egyéb önálló ingatlanról azt kell vélelmezni, hogy az nem áll fenn. A bizonyítási kötelezettség azt terheli, aki az állami ingatlan-nyilvántartási térképi adatbázis helyességét, teljességét vitatja.

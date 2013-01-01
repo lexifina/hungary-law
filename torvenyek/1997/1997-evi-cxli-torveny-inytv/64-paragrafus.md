@@ -1,6 +1,6 @@
 ## Perfeljegyzés
 
-64. § (1) A bíróság – az ügyfél kérelmére – előzetesen vérgehajtható végzéssel megkeresi az ingatlanügyi hatóságot
+64. § (1) A bíróság – az ügyfél kérelmére – előzetesen végrehajtható végzéssel megkeresi az ingatlanügyi hatóságot
 
 a) a törlési és kiigazítási,
 

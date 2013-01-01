@@ -6,7 +6,7 @@
 
 (2a) A naplónak minden esetben tartalmazza a lekérdezés időpontját, a lekérdezést végző személy nevét, a lekérdezett ingatlan pontos megjelölését (település neve, helyrajzi szám), díjmentes lekérdezés esetén a lekérdezés célját, valamint a díjmentességet megalapozó jogszabályi rendelkezésre való hivatkozást.
 
-(3) Az okmányirodák által történő tulajdonilap-másolat szolgáltatása esetén naplót kell készíteni, amelyet öt évig meg kell őrizni. A naplóban rögzíteni kell az adatigénylő természetes személyazonosító adatait, illetve a jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet nevét és a képviseletében eljáró személy természetes személyazonosító adatait. A rögzített adatokat az okmányiroda a személyazonosság, illetve a képviseleti jogosultság igazolására szolgáló okmányból ellenőrzi. A naplóból történő adatszolgáltatásra a 81. § (2) bekezdését kell alkalmazni azzal, hogy az adatszolgáltatásra az okmányiroda jogosult.
+(3)
 
 (4) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevők adatlekérdezéseinek jogszerűségét és a biztonsági előírások betartását az ingatlanügyi hatóság és a rendszer üzemeltetője a (2)–(3) bekezdések szerint vezetett naplóból ellenőrizheti. Az adatlekérdezésre vonatkozó szabályok, illetve a biztonsági előírások megsértése esetén, a hozzáférési jogosultság visszavonása tárgyában – az ingatlanügyi hatóság, illetve a rendszer üzemeltetőjének javaslata alapján – az ingatlanügyi hatóság határozatot hoz.
 

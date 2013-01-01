@@ -23,3 +23,9 @@ c) a tulajdonosok jegyzéke (névmutató).
 (4) A (3) bekezdés a) és c) pontja szerintiek megismerhetők akkor is, ha a kérelmező írásban igazolja, hogy az irat megismerése joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
 
 (5) Az ingatlan természetben meghatározott részére bejegyzett jogok, tények és átvezetett adatok alapjául szolgáló okiratnak az érintett természetbeni rész meghatározására vonatkozó tartalma korlátozás nélkül megismerhető.
+
+(6) Az állami ingatlan-nyilvántartási térképi adatbázis tartalma korlátozás nélkül megismerhető, azt bárki megtekintheti, arról feljegyzést készíthet és hiteles másolatot kérhet. A másolat lehet:
+
+a) szemle másolat: amely a hatályos térképi állapotot tartalmazza,
+
+b) teljes másolat: amely a hatályos térképi állapot mellett az előzetes térképi változásokat is tartalmazza.

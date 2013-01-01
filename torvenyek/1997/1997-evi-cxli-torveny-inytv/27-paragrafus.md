@@ -2,7 +2,7 @@
 
 (1a) Hivatalból vezeti át – az (5) bekezdésben és a 28. § (1) bekezdésében foglaltakra figyelemmel – az ingatlanügyi hatóság
 
-a) az ingatlan (2) bekezdés a) pontjában meghatározott adatában, továbbá a földrészlet művelési ágában – ide nem értve a művelés alól kivett területet – és a föld minőségében bekövetkezett, helyszíni ellenőrzés alapján megállapított,
+a) az ingatlan határvonalában, területében, a földrészlet művelési ágában – ide nem értve a művelés alól kivett területet – és a föld minőségében bekövetkezett, helyszíni ellenőrzés alapján megállapított,
 
 b) a hatósági nyilvántartásból, különösen a személyiadat- és lakcímnyilvántartásból vagy a cégnyilvántartásból történő adatátvétellel a jogosult adatában bekövetkezett
 
@@ -19,3 +19,9 @@ b) a nyilvántartás tárgyát képező épület, építmény létesítését, i
 (4) Nincs szükség külön bejelentésre, ha a (2) és (3) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
 (5) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, belterületi határának, továbbá a közterület nevének módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.
+
+(6) Az ingatlanügyi hatóság a lakcímre is kiterjedő adatfelhasználás esetén az ingatlan-nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha az ingatlan-nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az ingatlan-nyilvántartáson hivatalból átvezeti.
+
+(6) Az ingatlanügyi hatóság a lakcímre is kiterjedő adatfelhasználás esetén az ingatlan-nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha az ingatlan-nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az ingatlan-nyilvántartáson hivatalból átvezeti.
+
+(7) A jogosult a tulajdonjog-bejegyzés iránti kérelem benyújtásával egyidejűleg kérheti lakcíme ehhez kapcsolódó megváltozásának ingatlan-nyilvántartásban történő átvezetését is. A kérelem alapján az ingatlanügyi hatóság a tulajdonjog bejegyzésről szóló határozat jogosult részére történő közlésétől számított 30 nap elteltét követő 30 napon belül, a személyiadat- és lakcímnyilvántartásból történő adatátvétel alapján, amennyiben a bejelentett lakcímváltozás regisztrációja megtörtént, gondoskodik a változás ingatlan-nyilvántartásban történő átvezetéséről.

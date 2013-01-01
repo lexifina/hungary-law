@@ -4,7 +4,7 @@
 
 (2) A közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározott jogkörében eljárva a tulajdoni lap tartalmáról tanúsítványt állíthat ki, amely a hiteles tulajdonilap-másolattal azonos hatályú.
 
-(3) A körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője (a továbbiakban: körzetközponti jegyző) a polgármesteri hivatal részeként működtetett okmányiroda (a továbbiakban: okmányiroda) útján a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint hiteles tulajdonilap-másolatot adhat ki.
+(3)
 
 (4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
 
@@ -16,4 +16,4 @@
 
 (7) A 67. § (1) bekezdés, valamint a 68. § (1), (3)–(4) bekezdések szerinti kérelmet a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott nyomtatványon, illetve elektronikus űrlapon kell benyújtani.
 
-(8) Az ingatlan-nyilvántartási térképről másolatot készíteni és szolgáltatni külön jogszabály rendelkezései szerint lehet.
+(8) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmáról másolatot készíteni és szolgáltatni külön jogszabály rendelkezései szerint lehet.

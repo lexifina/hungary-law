@@ -1,0 +1,1 @@
+70/A. § Annak megállapítása érdekében, hogy a kérelmező – az általa megadott természetes személyazonosító adatok alapján – Magyarországon rendelkezik-e ingatlantulajdonnal, az ingatlanügyi hatóság – a 70. § (1) bekezdésében foglaltakra tekintet nélkül – adatlekérdezést végez, amelynek eredményéről hatósági bizonyítványt állít ki.

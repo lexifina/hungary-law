@@ -1,6 +1,6 @@
 ## Az adatváltozás átvezetése alapjául szolgáló okiratok
 
-28. § (1) Az ingatlan adataiban bekövetkezett változás átvezetéséhez a külön jogszabályban meghatározott hatósági engedély, jóváhagyás vagy igazolás, az ingatlan-nyilvántartási térkép tartalmát érintő változás átvezetéséhez pedig jogszabályban meghatározott, ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajz is szükséges. A vázrajzot mindazoknak alá kell írniuk, akik a változás alapjául szolgáló okiratot aláírják.
+28. § (1) Az ingatlan adataiban bekövetkezett változás átvezetéséhez a külön jogszabályban meghatározott hatósági engedély, jóváhagyás vagy igazolás, az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő változás átvezetéséhez pedig jogszabályban meghatározott, ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajz is szükséges. Az Fttv. 23. § (1) bekezdésének a) és h) pontja, valamint a 14. § (8) bekezdése alapján készített vázrajzot mindazoknak alá kell írniuk, akik a változás alapjául szolgáló okiratot aláírják.
 
 (2) Művelési ág változása esetén nem kell változási vázrajzot benyújtani az ingatlanügyi hatósághoz, ha
 

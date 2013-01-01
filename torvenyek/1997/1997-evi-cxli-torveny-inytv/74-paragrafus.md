@@ -1,6 +1,6 @@
 74. § (1) Az ingatlanügyi hatóság
 
-a) a 72–73/A. § hatálya alá tartozó személyek számára szerződés alapján biztosítja;
+a) a 72–73/B. § hatálya alá tartozó személyek számára szerződés alapján biztosítja;
 
 b) az a) pontba nem tartozó személyek számára szerződés alapján biztosíthatja
 

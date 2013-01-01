@@ -8,4 +8,4 @@
 
 (4) Az ingatlan-nyilvántartási döntést az ingatlanügyi hatóság vezetője, vagy az általa kijelölt személy írhatja alá.
 
-(5) A határozat tartalmának megfelelő változást az ingatlanügyi hatóság – kézbesítés előtt – bejegyzi, illetőleg feljegyzi a tulajdoni lapra, illetve átvezeti az ingatlan-nyilvántartási térképen, ha az annak tartalmát is érinti.
+(5) A határozat tartalmának megfelelő változást az ingatlanügyi hatóság – kézbesítés előtt – bejegyzi, illetőleg feljegyzi a tulajdoni lapra, illetve átvezeti az állami ingatlan-nyilvántartási térképi adatbázisban, ha az annak tartalmát is érinti.

@@ -8,6 +8,6 @@
 
 (4) A bejegyzés, a feljegyzés, az átvezetés, a határozat kijavításáról, kiegészítéséről, módosításáról, illetőleg visszavonásáról újabb határozatot kell hozni, és egyidejűleg a bejegyzést helyesbíteni, törölni, illetve a hiányzó bejegyzést pótolni kell. Az újabb határozatot kézbesíteni kell a kérelmezőnek, valamint mindazoknak, akik az eredeti határozatot megkapták. A végzés kijavításáról, kiegészítéséről, módosításáról, illetőleg visszavonásáról újabb végzést kell hozni, amelyet kézbesíteni kell a kérelmezőnek, valamint mindazoknak, akik az eredeti végzést megkapták.
 
-(5) A (3) bekezdésben foglalt eseteket, valamint a döntés fellebbezés folytán történő módosítását, illetve visszavonását kivéve az ingatlanügyi hatóság a döntést nem vonhatja vissza és nem módosíthatja.
+(5) A (3) bekezdésben foglalt eseteket, valamint a döntés fellebbezés, továbbá ügyészi felhívás folytán történő módosítását, illetve visszavonását kivéve az ingatlanügyi hatóság a döntést nem vonhatja vissza és nem módosíthatja.
 
 (6) A jogok bejegyzése, tények feljegyzése, illetve ezek törlése iránti eljárás során hozott ingatlanügyi hatósági döntés ellen felügyeleti eljárásnak nincs helye.

@@ -24,6 +24,8 @@ g) okirat keltezésének helyét vagy az időpontját kellene feltüntetni,
 
 h) az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, vagy a vázrajzon a törvényben meghatározott személyek aláírását kellene pótolni.
 
+(3a) Nem vonatkozik a (3) bekezdés c) pontjában foglalt rendelkezés arra az esetre, ha az ingatlan helyrajzi száma a kérelem iktatását követően, az érdemi döntés meghozatala előtt az ingatlanügyi hatóság ügykörében felmerült, kizárólag számítástechnikai okból került módosításra, és az ingatlan minden más adata változatlan.
+
 (4) A hiány pótlására való felhívás és érdemi vizsgálat nélkül végzéssel kell elutasítani a bejegyzés iránti kérelmet akkor is, ha
 
 a) a kérelem vagy a benyújtott okirat, illetve azok együttes tartalma érthetetlen, ellentmondó, vagy a kérelem nem tartalmazza a kérelmező nevét, lakcímét (székhelyét), az érintett ingatlan helyrajzi számának és annak a jognak, ténynek vagy adatnak a megjelölését, amelynek bejegyzését, feljegyzését, törlését illetőleg átvezetését kérik,

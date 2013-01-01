@@ -12,11 +12,13 @@
 
 (3a) Felhatalmazást kap a miniszter, hogy a részadat-szolgáltatás igénybevételére jogosultak körére, díjának mértékére, valamint annak az ingatlanügyi hatóságok és a földmérési és térinformatikai államigazgatási szerv közötti megosztására, a díjfizetés és a díj visszatérítésének módjára vonatkozó szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
+(3b) Felhatalmazást kap a miniszter, hogy az ingatlanügyi hatóság vagy hatóságok illetékességi területét rendeletben szabályozza.
+
 (4) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben határozza meg a tartós környezetkárosodás tényének, mértékének és jellegének megállapítására vonatkozó részletes szabályokat.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-a) a körzetközponti jegyző okmányirodák útján történő tulajdonilap-másolat kiadására irányuló eljárását,
+a)
 
 b) a számítógépes ingatlan-nyilvántartási rendszerből történő, törvényben meghatározott szolgáltatásra vonatkozó szolgáltatási szerződés kötelező elemeit,
 

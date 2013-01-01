@@ -10,7 +10,7 @@ c) a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képvise
 
 d) kisajátítási és telekalakítási eljárás megindítása,
 
-e) az ingatlanügyi hatósági határozat elleni jogorvoslati kérelem benyújtása,
+e) az ingatlanügyi hatósági határozat elleni jogorvoslati kérelem, ügyészi felhívás, ügyészi fellépés benyújtása,
 
 f) bejegyzés, feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati kérelem benyújtása,
 
