@@ -8,7 +8,7 @@ b) az ÁPB jogszerű létrejöttének, valamint megszűnésének tényét.
 
 (2) Az ÁRMB – a 13. § (1) bekezdésének b)–c) pontja szerinti megállapodás hiányában – megállapítja, hogy az érdekképviselet a 12. § (1) bekezdésében foglalt jogosultságok gyakorlásához kapcsolódóan hány ponttal rendelkezik.
 
-(3) Az ÁRMB kérelemre megállapítja, hogy az érdekképviselet
+(3) Az ÁRMB kérelemre, illetve – a b) pontban foglalt esetben – szakhatóságként eljárva megállapítja, hogy az érdekképviselet
 
 a) megfelel-e az ágazati reprezentativitás feltételeinek, továbbá
 
@@ -32,7 +32,7 @@ c) az ÁRMB határozata a Ket. 115. §-a szerinti felügyeleti eljárás kereté
 
 d) az ÁRMB határozata ellen fellebbezésnek nincs helye, a felek a (6) bekezdésben foglaltaknak megfelelően a határozat bírósági felülvizsgálatát kezdeményezhetik.
 
-(6) Az ÁRMB határozata ellen az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a Fővárosi Munkaügyi Bírósághoz fordulhat. A bíróság a jogszabálysértő határozatot megváltoztathatja.
+(6) Az ÁRMB határozata ellen az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a Fővárosi Közigazgatási és Munkaügyi Bírósághoz fordulhat. A bíróság a jogszabálysértő határozatot megváltoztathatja.
 
 (7) Az ÁRMB jogerőre emelkedett határozatait a miniszter hivatalos lapjában közzé kell tenni.
 

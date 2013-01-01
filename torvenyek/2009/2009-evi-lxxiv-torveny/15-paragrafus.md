@@ -5,3 +5,5 @@
 a) a munkáltatói érdekképviseletben tag munkáltatónál működő, kollektív szerződéskötésre jogosult szakszervezet, illetve szakszervezetek együttesen a kollektív szerződéshez való csatlakozással előzetesen egyetértenek, vagy
 
 b) az a) pontban megjelölt szakszervezet hiányában a kollektív szerződéshez való csatlakozásról a munkavállalók szavaznak. A szavazás akkor érvényes, ha ezen a munkáltatónál foglalkoztatott munkavállalók több mint fele részt vesz. A csatlakozáshoz a résztvevők több mint felének igen szavazata szükséges.
+
+(3) Az (1) bekezdéstől eltérően, ha az azt megkötő munkáltatói érdekképviselet érdekképviseleti tevékenysége több ágazatra (alágazatra, szakágazatra) is kiterjed, a kollektív szerződés előírhatja, hogy a 17. § (1) bekezdésében meghatározott szabályok csak az abba az ágazatba – főtevékenységük szerint – tartozó munkáltatókra hatályosak, amely szerinti ÁPB-ben a kollektív szerződést megkötötték.

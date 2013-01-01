@@ -49,3 +49,7 @@ b) egyéni vállalkozó esetén az általános forgalmi adóval csökkentett bev
 c) egyszerűsített vállalkozói adózást választó adóalany esetén a bevétel,
 
 d) az egyszerűsített közteherviselési hozzájárulást választó adóalany esetén az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 3. §-a (2) bekezdésében meghatározott, az általános forgalmi adóval csökkentett bevétel.
+
+13. tágabb (általános) hatályú kollektív szerződés a szélesebb munkavállalói körre kiterjedő kollektív szerződés, így tágabb hatályúnak minősül az Mt. 276. § (5) bekezdésében említett kollektív szerződéseknél a munkáltatói érdekképviselet tagmunkáltatóinak munkavállalóira kiterjedő hatályú, ezeknél pedig a miniszter által ágazatra (szakágazatra, alágazatra, nemzetgazdasági ágra) kiterjesztett hatályú kollektív szerződés;
+
+14. a postai szolgáltatásokról szóló külön törvény szerinti egyetemes szolgáltatás, valamint az egyetemes postai szolgáltatást helyettesítő és azt nem helyettesítő postai szolgáltatás körébe tartozó tevékenységet végző, Mt. hatálya alá tartozó munkáltató tevékenysége az 53. Postai, futárpostai tevékenység ágazatba tartozó tevékenységnek minősül.

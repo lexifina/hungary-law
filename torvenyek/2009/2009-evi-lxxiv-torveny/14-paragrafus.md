@@ -6,7 +6,7 @@ a) megállapodásokat köthet, illetve
 
 b) kollektív tárgyalásokat folytathat kollektív szerződés létrehozása érdekében,
 
-az Mt.-ben és az e törvényben meghatározott szabályok szerint.
+– a kollektív szerződés kötésére való jogosultságra vonatkozó rendelkezések kivételével – az Mt.-ben, valamint az e törvényben meghatározott szabályok szerint.
 
 (2) Egy ÁPB-ben egy nemzetgazdasági ágra, ágazatra, al- vagy szakágazatra vonatkozóan adott szinten csak egy kollektív szerződés köthető.
 
