@@ -14,4 +14,6 @@ ea) az adatkéréssel érintett felépítményhez tartozó telek m2-ben meghatá
 
 eb) az adatkéréssel érintett felépítményhez tartozó közös tulajdoni illetőség.
 
-(2) Nem adható ki az ingatlan adata, ha az adott jellegű ingatlanból az adott megnevezésű és jellegű közterületen – (1) bekezdés a) pont – csak egy darab felel meg a kérelmező által megjelölt szűkítési feltételeknek. Ez a korlátozás a 2. §-ban meghatározott valamennyi adatszolgáltatásra vonatkozik.
+(2)[^4] Nem adható ki az ingatlan adata, ha az adott jellegű ingatlanból az adott megnevezésű és jellegű közterületen – (1) bekezdés a) pont – csak egy darab felel meg a kérelmező által megjelölt szűkítési feltételeknek. Ez a korlátozás a 2. § a)–f) pontjaiban meghatározott valamennyi adatszolgáltatásra vonatkozik.
+
+[^4]: A 4. § (2) bekezdése a 46/2012. (XII. 27.) NGM rendelet 24. §-ával megállapított szöveg.
