@@ -1,3 +1,0 @@
-70. § (1) E törvény 69. §-a a kihirdetés napján lép hatályba azzal, hogy rendelkezéseit a 2005. június 30-a után teljesítendő bevallási kötelezettségekre kell alkalmazni.
-
-(2) Azok az adózók, akik (amelyek) az adóhatóság engedélye alapján 2005. július 1-jét megelőzően az Art.-ben meghatározott általános forgalmi adó bevallási gyakoriságtól eltérő gyakorisággal teljesítették bevallási kötelezettségüket, – a 15 naponként elszámoló adózók kivételével – az adóév végéig folytathatják a gyakorított elszámolást. A negyedévesről 15 napos bevallási gyakoriságra jogosító adóhatósági engedélyek 2005. július 1-jétől havi bevallási gyakoriságra változnak.
