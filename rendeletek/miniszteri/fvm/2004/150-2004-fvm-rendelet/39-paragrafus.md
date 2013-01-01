@@ -30,7 +30,7 @@ f)[^96] a természetes hozam javítására a tavakban csak istállótrágya alka
 
 (5) A támogatási kérelemhez mellékelni kell
 
-a) a területileg illetékes körzeti földhivatal által kiadott, harminc napnál nem régebbi tulajdoni lap másolatot, melynek értelmében az érintett terület halastóként szerepel az ingatlan-nyilvántartásban, és
+a)[^97] a területileg illetékes járási földhivatal által kiadott, harminc napnál nem régebbi tulajdoni lap másolatot, melynek értelmében az érintett terület halastóként szerepel az ingatlan-nyilvántartásban, és
 
 b) a területre vonatkozó érvényes üzemeltetési vízjogi engedélyt.
 
@@ -39,3 +39,4 @@ b) a területre vonatkozó érvényes üzemeltetési vízjogi engedélyt.
 [^94]: A 39. § (3) bekezdés eredeti c) pontjának megjelölését d) pontra változtatta az 51/2008. (IV. 24.) FVM rendelet 11. § (2) bekezdése.
 [^95]: A 39. § (3) bekezdés eredeti d) pontjának megjelölését e) pontra változtatta az 51/2008. (IV. 24.) FVM rendelet 11. § (2) bekezdése.
 [^96]: A 39. § (3) bekezdés eredeti e) pontjának megjelölését f) pontra változtatta az 51/2008. (IV. 24.) FVM rendelet 11. § (2) bekezdése.
+[^97]: A 39. § (5) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 22. §-a szerint módosított szöveg.

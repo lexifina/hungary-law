@@ -22,4 +22,6 @@ f) a kaszálás során vadriasztó lánc használata szükséges, és természet
 
 (4) A támogatás mértéke a programba bevitt terület után 101,96 euró/ha.
 
-(5) A támogatási kérelemhez mellékelni kell a területileg illetékes körzeti földhivatal által kiadott 30 napnál nem régebbi tulajdoni lap másolatot, mely szerint a terület mocsárként, lápként vagy zsombékként van nyilvántartva.
+(5)[^98] A támogatási kérelemhez mellékelni kell a területileg illetékes járási földhivatal által kiadott 30 napnál nem régebbi tulajdoni lap másolatot, mely szerint a terület mocsárként, lápként vagy zsombékként van nyilvántartva.
+
+[^98]: A 42. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 22. §-a szerint módosított szöveg.

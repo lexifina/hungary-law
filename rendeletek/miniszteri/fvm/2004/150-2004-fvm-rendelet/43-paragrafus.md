@@ -18,4 +18,6 @@ e) ideiglenes vagy állandó náddepót csak olyan helyen szabad kialakítani, a
 
 (4) A támogatás mértéke a programba bevitt terület után 86,27 euró/ha.
 
-(5) A támogatási kérelemhez mellékelni kell a területileg illetékes körzeti földhivatal által kiadott harminc napnál nem régebbi földhasználati nyilvántartó lapot, mely szerint a terület nádasként van nyilvántartva.
+(5)[^99] A támogatási kérelemhez mellékelni kell a területileg illetékes járási földhivatal által kiadott harminc napnál nem régebbi földhasználati nyilvántartó lapot, mely szerint a terület nádasként van nyilvántartva.
+
+[^99]: A 43. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 22. §-a szerint módosított szöveg.
