@@ -2,7 +2,7 @@
 
 ## [A törvény 23. §-ának (2)–(3) bekezdéséhez]
 
-3. §[^24] (1) Magasabb vezetőnek minősül
+3. §[^23] (1) Magasabb vezetőnek minősül
 
 a) a szociális intézmény, a gyermekjóléti és gyermekvédelmi intézmény intézményvezetője, valamint az intézményvezető helyettese,
 
@@ -22,4 +22,4 @@ d) az Intézet igazgatóhelyettese, főosztályvezetője, osztályvezetője és 
 
 (3) A magasabb vezető beosztásra történő megbízás feltétele az (1) bekezdés c) pontja szerinti megbízás kivételével legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
 
-[^24]: A 3. § a 60/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^23]: A 3. § a 60/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított szöveg.

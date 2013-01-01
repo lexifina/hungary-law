@@ -10,19 +10,15 @@ b)[^10] a 2. számú melléklet I.1. pontja szerinti asszisztens munkakör, II.1
 
 (3)[^12] A pályázati eljárás lefolytatásával összefüggő feladatokat
 
-a) intézményvezető esetén a fenntartó
+a) intézményvezető esetén
 
-aa) önkormányzat jegyzője, főjegyzője, illetve
+aa) a fenntartó önkormányzat jegyzője, főjegyzője,
 
-ab) minisztérium,
+ab) a Szociális és Gyermekvédelmi Főigazgatóság által fenntartott intézménynél a Szociális és Gyermekvédelmi Főigazgatóság központi szerve,
 
-ac)[^13] megyei intézményfenntartó központ vezetője,
+b) az a) pontban foglaltakon kívüli egyéb beosztás esetén a munkáltatói jogkör gyakorlója
 
-b) minisztériumi fenntartású intézményben a gazdasági vezető, valamint a belső ellenőrzési egység vezetője tekintetében a munkáltatói jogkör gyakorlója a minisztérium egyetértésével,
-
-c) az a)–b) pontban foglaltakon kívüli egyéb beosztás esetén a munkáltatói jogkör gyakorlója
-
-## (a továbbiakban együtt: a pályázat előkészítője) látja el.
+## látja el (a továbbiakban együtt: a pályázat előkészítője).
 
 (4) A pályázati felhívásnak – a Törvény 20/A. §-ának (3) bekezdésében foglaltakon túlmenően – tartalmaznia kell
 
@@ -32,7 +28,7 @@ b) a jogviszony időtartamát, határozott idejű jogviszony esetén a jogviszon
 
 c) a pályázat benyújtásának formáját, határidejét és helyét, a pályázat tartalmi követelményeire vonatkozó szabályokat.
 
-(5)[^14]
+(5)[^13]
 
 (6) A magasabb vezetői álláshelyre meghirdetett pályázati felhívást a Törvény 20/A. §-ának (4) bekezdésében foglaltakon túl a szociál- és családpolitikáért, valamint a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium hivatalos lapjában, továbbá a gyermekvédelmi területen történő pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában is közzé kell tenni.
 
@@ -40,7 +36,7 @@ c) a pályázat benyújtásának formáját, határidejét és helyét, a pály�
 
 a) a pályázó szakmai életrajzát,
 
-b)–c)[^15]
+b)–c)[^14]
 
 d) a pályázó nyilatkozatát arról, hogy a pályázati anyagában foglalt személyes adatainak a pályázati eljárással összefüggő kezeléséhez hozzájárul,
 
@@ -54,28 +50,27 @@ e) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézm�
 
 a) a pályázat előkészítőjének vagy képviselőjének,
 
-b)[^16]
+b)[^15]
 
-c)[^17] magasabb vezetői beosztás esetén a szakmai érdek-képviseleti szövetség, illetőleg egyesület képviselőjének vagy a szakma szerint illetékes szakmai kollégium tagjának.
+c)[^16] magasabb vezetői beosztás esetén a szakmai érdek-képviseleti szövetség, illetőleg egyesület képviselőjének vagy a szakma szerint illetékes szakmai kollégium tagjának.
 
 (11) A bizottság a kiírt feltételeknek megfelelő pályázókat személyesen hallgatja meg. A bizottságnak a meghallgatásról jegyzőkönyvet kell vezetnie, amelynek tartalmaznia kell a bizottság tagjainak a pályázók alkalmasságára vonatkozó véleményét.
 
 (12) A pályázati feltételeknek megfelelő pályázatokat a bizottsági véleménnyel együtt a pályázatok elbírálására jogosult személy vagy szerv elé kell terjeszteni.
 
-(13)[^18] A pályázati eljárást a pályázat benyújtási határidejét követő hatvan napon belül le kell folytatni, eredményéről valamennyi pályázót írásban értesíteni kell.
+(13)[^17] A pályázati eljárást a pályázat benyújtási határidejét követő hatvan napon belül le kell folytatni, eredményéről valamennyi pályázót írásban értesíteni kell.
 
-(14)–(15)[^19]
+(14)–(15)[^18]
 
 [^7]: Az 1/A. §-t megelőző jogszabályi hivatkozást a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^8]: Az 1/A. §-t a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^9]: Az 1/A. § (1) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: Az 1/A. § (1) bekezdés b) pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^11]: Az 1/A. § (2) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^12]: Az 1/A. § (3) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^13]: Az 1/A. § (3) bekezdés a) pont ac) alpontját a 258/2011. (XII. 7.) Korm. rendelet 31. §-a iktatta be.
-[^14]: Az 1/A. § (5) bekezdése a 224/2007. (VIII. 31.) Korm. rendelet 8. § (4) bekezdése alapján 2007. december 31-én hatályát vesztette.
-[^15]: Az 1/A. § (7) bekezdés b)–c) pontját a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^16]: Az 1/A. § (10) bekezdés b) pontját a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^17]: Az 1/A. § (10) bekezdés c) pontja a 326/2008. (XII. 29.) Korm. rendelet 9. § (4) bekezdése szerint módosított szöveg.
-[^18]: Az 1/A. § (13) bekezdés második mondatát a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^19]: Az 1/A. § (14)–(15) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: Az 1/A. § (3) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^13]: Az 1/A. § (5) bekezdése a 224/2007. (VIII. 31.) Korm. rendelet 8. § (4) bekezdése alapján 2007. december 31-én hatályát vesztette.
+[^14]: Az 1/A. § (7) bekezdés b)–c) pontját a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^15]: Az 1/A. § (10) bekezdés b) pontját a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^16]: Az 1/A. § (10) bekezdés c) pontja a 326/2008. (XII. 29.) Korm. rendelet 9. § (4) bekezdése szerint módosított szöveg.
+[^17]: Az 1/A. § (13) bekezdés második mondatát a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^18]: Az 1/A. § (14)–(15) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.

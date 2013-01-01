@@ -1,4 +1,4 @@
-## 4. §[^26]
+## 4. §[^25]
 
 ## [A törvény 39. §-ának (4) bekezdéséhez]
 
@@ -12,7 +12,7 @@ b) gyermekvédelmi tanácsadó
 
 (2) Az (1) bekezdésben meghatározott cím adományozásának feltétele, hogy a közalkalmazott
 
-a)[^27] az ,,E''–,,J'' fizetési osztályok valamelyikébe tartozik, és
+a)[^26] az ,,E''–,,J'' fizetési osztályok valamelyikébe tartozik, és
 
 b) legalább tízéves szociális, valamint gyermek- és ifjúságvédelem területén eltöltött közalkalmazotti, az 1992. július 1-jét megelőző foglalkoztatási jogviszonnyal rendelkezik, illetve
 
@@ -22,5 +22,5 @@ c) tartósan magas színvonalú tevékenységet végez.
 
 (4) A címpótlék mértéke a pótlékalap 100%-a.
 
-[^26]: A 4. §-t a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés f) pontja hatályon kívül helyezte.
-[^27]: Az 5. § (2) bekezdésének a) pontja a 224/2007. (VIII. 31.) Korm. rendelet 8. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^25]: A 4. §-t a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^26]: Az 5. § (2) bekezdésének a) pontja a 224/2007. (VIII. 31.) Korm. rendelet 8. § (3) bekezdésének d) pontja szerint módosított szöveg.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2012-01-01 | 2000-257-20-22.12 | 258/2011. (XII. 7.) Korm. rendelet |
 | 2012-12-13 | 2000-257-20-22.13 | 349/2012. (XII. 12.) Korm. rendelet |
 | 2012-12-30 | 2000-257-20-22.14 | 326/2008. (XII. 29.) Korm. rendelet |
+| 2013-01-01 | 2000-257-20-22.15 | 349/2012. (XII. 12.) Korm. rendelet |

@@ -1,16 +1,16 @@
 16. § (1) Ez a rendelet 2001. január 1-jén lép hatályba.
 
-(2)[^57] Ha a magasabb vezetői kinevezés – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosításáról szóló 2010. évi CLXXV. törvény alapján – 2011. január 1-jétől kezdődő magasabb vezetői megbízássá alakult át, a magasabb vezető tekintetében a vezetői pótlékra vonatkozó rendelkezéseket 2011. január 1-jétől kell alkalmazni.
+(2)[^59] Ha a magasabb vezetői kinevezés – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosításáról szóló 2010. évi CLXXV. törvény alapján – 2011. január 1-jétől kezdődő magasabb vezetői megbízássá alakult át, a magasabb vezető tekintetében a vezetői pótlékra vonatkozó rendelkezéseket 2011. január 1-jétől kell alkalmazni.
 
 (3) A 4. § (1) bekezdésében a határozott időtartamra történő megbízásra vonatkozó rendelkezést a 2001. május 1-jét követően adott magasabb vezetői beosztásokra adott megbízás esetében kell alkalmazni.
 
-(4)[^58] A közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról a közoktatási intézményekben tárgyú 138/1992. (X. 8.) Korm. rendelet (a továbbiakban: Kr.) 18. § (2)–(3) bekezdése alapján – az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételének részletes szabályairól és egyes kormányrendeletek módosításáról szóló 349/2012. (XII. 12.) Korm. rendelet (a továbbiakban: R.) hatálybalépését megelőzően – megállapított pótlékok tekintetében a Kr.-nek az R. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+(4)[^60] A közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról a közoktatási intézményekben tárgyú 138/1992. (X. 8.) Korm. rendelet (a továbbiakban: Kr.) 18. § (2)–(3) bekezdése alapján – az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételének részletes szabályairól és egyes kormányrendeletek módosításáról szóló 349/2012. (XII. 12.) Korm. rendelet (a továbbiakban: R.) hatálybalépését megelőzően – megállapított pótlékok tekintetében a Kr.-nek az R. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
-(5)[^59] A Kr. 15. § (2) bekezdés d) pontja alapján – az R. hatálybalépését megelőzően megállapított – gyógypedagógiai pótlék mellett az e rendelet szerinti speciális otthoni pótlék, különleges otthoni pótlék nem folyósítható.
+(5)[^61] A Kr. 15. § (2) bekezdés d) pontja alapján – az R. hatálybalépését megelőzően megállapított – gyógypedagógiai pótlék mellett az e rendelet szerinti speciális otthoni pótlék, különleges otthoni pótlék nem folyósítható.
 
-(6)[^60] A Kr. 15. § (12) bekezdés alapján – az R. hatálybalépését megelőzően megállapított – pótlék mellett az e rendelet szerinti különleges szakértelmet igénylő munka után járó pótlék nem folyósítható.
+(6)[^62] A Kr. 15. § (12) bekezdés alapján – az R. hatálybalépését megelőzően megállapított – pótlék mellett az e rendelet szerinti különleges szakértelmet igénylő munka után járó pótlék nem folyósítható.
 
-[^57]: A 16. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1103. pontja hatályon kívül helyezte, újonnan a 60/2011. (IV. 12.) Korm. rendelet 7. §-a iktatta be.
-[^58]: A 16. § (4) bekezdését a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés h) pontja hatályon kívül helyezte, újonnan a 349/2012. (XII. 12.) Korm. rendelet 28. §-a iktatta be.
-[^59]: A 16. § (5) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 28. §-a iktatta be.
-[^60]: A 16. § (6) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 28. §-a iktatta be.
+[^59]: A 16. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1103. pontja hatályon kívül helyezte, újonnan a 60/2011. (IV. 12.) Korm. rendelet 7. §-a iktatta be.
+[^60]: A 16. § (4) bekezdését a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés h) pontja hatályon kívül helyezte, újonnan a 349/2012. (XII. 12.) Korm. rendelet 28. §-a iktatta be.
+[^61]: A 16. § (5) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 28. §-a iktatta be.
+[^62]: A 16. § (6) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 28. §-a iktatta be.

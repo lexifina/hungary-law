@@ -1,4 +1,4 @@
-7/A. §[^32] (1) A heti teljes munkaidőből 30 órát [a Gyvt. 15. § (12) bekezdése szerinti neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő] kell a munkahelyen, a gyermekkel, fiatal felnőttel foglalkozva, illetve más személy vizsgálatát végezve eltölteni
+7/A. §[^31] (1) A heti teljes munkaidőből 30 órát [a Gyvt. 15. § (12) bekezdése szerinti neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő] kell a munkahelyen, a gyermekkel, fiatal felnőttel foglalkozva, illetve más személy vizsgálatát végezve eltölteni
 
 a) a gyermekotthonban, az utógondozó otthonban a nevelőnek, a pszichológusnak,
 
@@ -12,4 +12,4 @@ c) a területi gyermekvédelmi szakszolgáltatást nyújtó intézményben a psz
 
 (4) A nevelőszülői hálózat nevelőszülői tanácsadójának, családgondozójának, utógondozójának, a gyermekotthon, utógondozói otthon családgondozójának, utógondozójának és a területi gyermekvédelmi szakszolgáltatást nyújtó intézményben a családgondozónak, utógondozónak a heti teljes munkaidejéből a munkáltató által a munkaköri leírásban meghatározott időtartamot kell a munkahelyén tartózkodnia.
 
-[^32]: A 7/A. §-t a 349/2012. (XII. 12.) Korm. rendelet 23. §-a iktatta be.
+[^31]: A 7/A. §-t a 349/2012. (XII. 12.) Korm. rendelet 23. §-a iktatta be.

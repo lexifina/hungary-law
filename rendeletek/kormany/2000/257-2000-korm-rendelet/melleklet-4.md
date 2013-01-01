@@ -16,7 +16,7 @@
 
 | a 2. számú melléklet szerinti bármely munkakör | amennyiben a munkáltató kötelezte a közalkalmazottat a további képesítés megszerzésére, és az nem biztosít magasabb fizetési osztályba sorolást; vagy a további szakképesítés hasznosítását a munkáltató foglalkozási feltételként a közalkalmazott kinevezésében (kinevezés-módosításában, átsorolásában) előírja |
 
-4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^69]
+4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^71]
 
 ## A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
@@ -24,7 +24,7 @@ I. Magasabb vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 |  |  | Beosztás megnevezése | Vezetői pótlék mértéke (a pótlékalap %-ában) |
 
-|  | 1. | A helyi önkormányzatok, megyei intézményfenntartó központok által fenntartott intézmény intézményvezetője |  |
+|  | 1. | A helyi önkormányzatok, Szociális és Gyermekvédelmi Főigazgatóság által fenntartott intézmény intézményvezetője |  |
 
 |  |  | a) | bentlakásos szociális intézmény intézményvezetője (ide nem értve a lakóotthon intézményvezetőjét) | 250% |
 
@@ -36,19 +36,19 @@ I. Magasabb vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 |  |  | e) | lakóotthon intézményvezetője | 200% |
 
-|  | 2. | A helyi önkormányzatok, megyei intézményfenntartó központok által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetőjének helyettese | 100% |
+|  | 2. | A helyi önkormányzatok, Szociális és Gyermekvédelmi Főigazgatóság által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetőjének helyettese | 100% |
 
-|  | 3. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetője | 250% |
+|  | 3. | Az országos feladatot ellátó, Szociális és Gyermekvédelmi Főigazgatóság fenntartású szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetője | 250% |
 
-|  | 4. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetőjének helyettese | 150% |
+|  | 4. | Az országos feladatot ellátó, Szociális és Gyermekvédelmi Főigazgatóság fenntartású szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetőjének helyettese | 150% |
 
 II. Vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 |  |  | Beosztás megnevezése | Vezetői pótlék mértéke (a pótlékalap %-ában) |
 
-|  | 1. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazott | 150% |
+|  | 1. | Az országos feladatot ellátó, Szociális és Gyermekvédelmi Főigazgatóság fenntartású szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazott | 150% |
 
-|  | 2. | A helyi önkormányzatok, megyei intézményfenntartó központok által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazott | 100% |
+|  | 2. | A helyi önkormányzatok, Szociális és Gyermekvédelmi Főigazgatóság által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazott | 100% |
 
 III. A Nemzeti Család- és Szociálpolitikai Intézetnél magasabb vezető, vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
@@ -72,4 +72,4 @@ III. A Nemzeti Család- és Szociálpolitikai Intézetnél magasabb vezető, vez
 
 |  | 8. | csoportvezető | 100% |
 
-[^69]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése szerint módosított szöveg.
+[^71]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
