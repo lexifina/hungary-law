@@ -6,7 +6,7 @@ b) a magánnyugdíjpénztár és az önkéntes kölcsönös biztosítópénztár
 
 c) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a kifizetőt terhelő összege,
 
-d) az önkéntes kölcsönös biztosítópénztár által a magánszemély javára jóváírt támogatói adomány,
+d)
 
 e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
 

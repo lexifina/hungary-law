@@ -26,13 +26,13 @@ e) ingatlan bérbeadásából [Szja tv. 16. § (1) bekezdés] származó egymill
 
 után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddig, amíg a biztosítási jogviszonyában a Tbj. 19. § (3) bekezdése alapján megfizetett természetbeni és pénzbeli egészségbiztosítási járulék, az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 9. § (1) bekezdése alapján megfizetett egészségbiztosítási járulék, a Tbj. 36–37. §-a és 39. § (2) bekezdése alapján megfizetett egészségügyi szolgáltatási járulék (a továbbiakban együtt: egészségbiztosítási járulék), valamint az a)–e) pontban meghatározott jövedelmek után megfizetett százalékos mértékű egészségügyi hozzájárulás együttes összege a tárgyévben el nem éri a négyszázötvenezer forintot (a továbbiakban: hozzájárulás-fizetési felső határ).
 
-(4) A kifizető a béren kívüli juttatás (Szja tv. 71. §) adóalapként meghatározott összege után 10 százalékos mértékű egészségügyi hozzájárulást fizet.
+(4) A kifizető a béren kívüli juttatás (Szja tv. 71. §) adóalapként meghatározott összege után 14 százalékos mértékű egészségügyi hozzájárulást fizet.
 
 (5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem és járulék alapjául szolgáló azon összeg, amely után a Tbj. szabályai szerint járulékot kell fizetni, valamint a szociális hozzájárulási adó alapját képező összeg, továbbá az a jövedelem, amely után az adót nem kell megállapítani és/vagy megfizetni.
 
-(6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított 10 százalékos mértékű egészségügyi hozzájárulás.
+(6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított egészségügyi hozzájárulás.
 
-(7)
+(7) Az Szja tv. 28. § (2) bekezdése szerinti jövedelem után a jövedelmet szerző magánszemélyt terhelő egészségügyi hozzájárulás mértéke – az (1) bekezdésben foglaltaktól eltérően – 14 százalék, ha a jövedelem megszerzésének időpontja a lejárati szolgáltatással nem bíró, teljes életre (kizárólag halál esetére) szóló, visszavásárlási értékkel bíró életbiztosítás megkötésétől – de legkorábban 2013. január 1-jétől – számított 10 évet követő időpontra esik.
 
 (8)
 

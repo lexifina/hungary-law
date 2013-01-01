@@ -16,7 +16,7 @@
 
 (9) Ha az egyszerűsített bevallási nyilatkozat tételére jogosult mezőgazdasági őstermelő jövedelemadóját a munkáltató az adóbevallást helyettesítő elszámolásra vonatkozó rendelkezések szerint állapítja meg, a magánszemély a munkáltatónak tett, bevallást helyettesítő nyilatkozatában köteles nyilatkozni az e tevékenységből származó bevételéről is. A nyilatkozat alapján a munkáltató az egészségügyi hozzájárulást megállapítja, és az adózás rendjéről szóló törvénynek a jövedelemadó-hátralék levonására vonatkozó szabályai megfelelő alkalmazásával megfizeti. Amennyiben a jövedelemadó-hátralék és az egészségügyi hozzájárulás együttes levonására – a levonható összeg százalékos korlátozására tekintettel – nincs lehetőség, a levonást a kötelezettségek arányában kell teljesíteni.
 
-(10)
+(10) A Tbj. szerinti foglalkoztató a magánszeméllyel tett egybehangzó nyilatkozata alapján átvállalhatja a 3. § (1) bekezdés szerinti egészségügyi hozzájárulás megfizetését és bevallását, ha a magánszemély kifizetőnek nem minősülő külföldi személytől a foglalkoztatóval fennálló jogviszonyára tekintettel szerez jövedelmet. A fizetési és bevallási kötelezettség átvállalásának további feltétele a magánszemély nyilatkozata arról, hogy a kötelezettség teljesítéséhez szükséges adatokat a foglalkoztató rendelkezésére bocsátja. Az átvállalt kötelezettség teljesítéséért a foglalkoztató és a magánszemély egyetemlegesen felelnek.
 
 (11) E törvény alkalmazásában nem minősül kifizetőnek
 
@@ -24,6 +24,10 @@ a) az önkéntes kölcsönös biztosítópénztár a tag kilépése, illetőleg 
 
 b) a számlavezető a nyugdíj-előtakarékossági számlákról szóló törvényben meghatározott számlatulajdonos részére kifizetett, egyéb jövedelemnek minősülő összeg
 
-c) az önkéntes egészségpénztár és az önkéntes önsegélyező pénztár a jogosulatlanul igénybe vett pénztári szolgáltatás esetén.
+c) az önkéntes egészségpénztár és az önkéntes önsegélyező pénztár a jogosulatlanul igénybe vett pénztári szolgáltatás esetén,
+
+d) az önkéntes kölcsönös biztosítópénztár a magánszemély javára jóváírt támogatói adomány tekintetében,
+
+e) a biztosító az Szja tv. 28. § (2) bekezdése szerinti jövedelem esetében.
 
 (12)
