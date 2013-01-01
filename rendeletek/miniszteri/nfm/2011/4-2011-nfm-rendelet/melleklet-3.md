@@ -6,28 +6,30 @@
 
 | 2. | A1 |  |  |  |  |
 
-|  |  | - lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 20,84 | 19,69 | 20,65 | 20,42 |
+|  | - lakossági felhasználók esetében |  |  |  |  |
 
-|  |  | - lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 21,99 | 22,24 | 22,02 | 21,78 |
+|  | 1320 kWh/év fogyasztásig - lakossági felhasználók esetében | 19,09 | 18,06 | 18,92 | 18,72 |
 
-|  | - nem lakossági felhasználók esetében | 21,99 | 22,24 | 22,02 | 21,78 |
+|  | az éves fogyasztás 1320 kWh-t meghaladó részére | 20,13 | 20,35 | 20,16 | 19,94 |
+
+|  | - nem lakossági felhasználók esetében | 22,28 | 22,53 | 22,31 | 22,07 |
 
 | 3. | A2 |  |  |  |  |
 
-|  | - csúcsidőszak | 25,70 | 28,14 | 27,13 | 25,10 |
+|  | - csúcsidőszak | 25,99 | 28,43 | 27,42 | 25,39 |
 
-|  | - völgyidőszak | 15,23 | 17,02 | 16,40 | 15,16 |
+|  | - völgyidőszak | 15,52 | 17,31 | 16,69 | 15,45 |
 
 | 4. | A3 |  |  |  |  |
 
-|  | - csúcsidőszak | 25,96 | 30,53 | 27,13 | 25,10 |
+|  | - csúcsidőszak | 26,25 | 30,82 | 27,42 | 25,39 |
 
-|  | - völgyidőszak | 15,40 | 19,29 | 16,40 | 15,16 |
+|  | - völgyidőszak | 15,69 | 19,58 | 16,69 | 15,45 |
 
-| 5. | B Alap | 14,85 | 15,28 | 14,90 | 14,41 |
+| 5. | B Alap | 13,19 | 13,58 | 13,24 | 12,80 |
 
-| 6. | H | 14,85 | 15,28 | 14,90 | 14,41 |
+| 6. | H | 13,19 | 13,58 | 13,24 | 12,80 |
 
 3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^7]
 
-[^7]: A 3. melléklet a 83/2011. (XII. 29.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. melléklet a 78/2012. (XII. 22.) NFM rendelet 42. §-ával megállapított szöveg.

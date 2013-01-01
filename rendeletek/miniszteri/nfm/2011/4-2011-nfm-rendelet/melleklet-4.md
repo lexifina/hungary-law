@@ -4,13 +4,13 @@
 
 | 1. | Egyetemes szolgáltató | Árrés (Ft/kWh) |
 
-| 2. | EDF DÉMÁSZ Zrt. | 1,711 |
+| 2. | EDF DÉMÁSZ Zrt. | 1,316 |
 
-| 3. | E.ON Energiaszolgáltató Kft. | 1,925 |
+| 3. | E.ON Energiaszolgáltató Kft. | 1,316 |
 
-| 4. | ELMŰ Nyrt. | 1,859 |
+| 4. | ELMŰ Nyrt. | 1,316 |
 
-| 5. | ÉMÁSZ Nyrt. | 1,928 |
+| 5. | ÉMÁSZ Nyrt. | 1,316 |
 
 4. melléklet a 4/2011. (I. 31.) NFM rendelethez
 
