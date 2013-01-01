@@ -1,4 +1,4 @@
-## 24–29. §
+## 29. § A gyakorlati képzést végző egyéb szervezet a rendelkezésére bocsátott támogatási összeget kizárólag az e rendeletben meghatározott célokra használhatja fel.
 
 ## 8. Ellenőrzés
 

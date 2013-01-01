@@ -16,7 +16,15 @@ f) gondoskodik a formai szempontból érvényes pályázatok értékeléséről,
 
 g) előterjesztést készít a támogatásban részesítendő kedvezményezettekre vonatkozó javaslatáról és azt a pályázatok értékelését követő 10 napon belül benyújtja döntésre a miniszterhez.
 
-(3)[^1]
+(3) Az NMH-nak a szakképzésről szóló 2011. évi CLXXXVII. törvényben (a továbbiakban: Szt.) meghatározott, tanulószerződés kötésére jogosult egyéb szerv, szervezet (a továbbiakban: gyakorlati képzést végző egyéb szervezet) Szht. 15. §-a szerinti támogatására vonatkozó döntés-előkészítéssel kapcsolatos feladatai a következők:
+
+a) tájékoztatást és szakmai felvilágosítást nyújt az adott támogatással kapcsolatban,
+
+b) elvégzi a támogatási kérelmek regisztrációját, kialakítja és működteti a támogatás nyilvántartására vonatkozó adatbázist,
+
+c) elvégzi a támogatási kérelmek, folyósítási igény-bejelentések, elszámolások formai, tartalmi vizsgálatát,
+
+d) elkészíti a támogatási javaslattal kapcsolatos előterjesztést és benyújtja azt döntésre a miniszterhez.
 
 (4) A pályázati eljárás eredményeként, valamint 2013. január 1. napjától a gyakorlati képzést végző egyéb szervezetek számára odaítélt támogatás esetén az NMH, az egyedi miniszteri döntés alapján odaítélt támogatás esetén a miniszter által a támogatási szerződés kötésére kijelölt szerv
 
@@ -31,5 +39,3 @@ d) ellenőrzi a támogatások jogszerű felhasználását,
 e) intézkedik a kedvezményezettekkel szemben a visszafizetési kötelezettségek elrendeléséről, fogadja a visszafizetésekből befolyt bevételeket.
 
 (5) Az NMH az oktatásért felelős miniszternek az Szht. 18. § (2) bekezdése alapján a szakképzéssel összefüggő feladatai ellátásához biztosított támogatás felhasználásával kapcsolatban ellátja az (1) és (4) bekezdésben meghatározott feladatokat.
-
-[^1]: A 4. § (3) bekezdése a 34. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
