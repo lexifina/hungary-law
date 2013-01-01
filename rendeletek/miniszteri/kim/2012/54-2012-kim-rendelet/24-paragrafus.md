@@ -1,5 +1,3 @@
-## 23. §[^10]
+## 23. § A polgárok személyi adatainak és lakcímének nyilvántartásából teljesített adatszolgáltatásért, a kapcsolatfelvétel céljából való megkeresésért, valamint értékesítésért fizetendő igazgatási szolgáltatási díjról szóló 16/2007. (III. 13.) IRM–MeHVM együttes rendelet 4. § (7) bekezdés b) pontjában a „körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője járt el, a Kormány általános hatáskörű területi államigazgatási szervének” szövegrész helyébe a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járt el, a fővárosi és megyei kormányhivatal” szöveg lép.
 
 ## 5. A választási eljárásról szóló 1997. évi C. törvénynek az országgyűlési képviselők választásán történő végrehajtásáról szóló 35/2009. (XII. 30.) ÖM rendelet módosítása
-
-[^10]: A 23. § a 26. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
