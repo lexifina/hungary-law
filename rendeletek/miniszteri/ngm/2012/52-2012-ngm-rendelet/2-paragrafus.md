@@ -1,0 +1,3 @@
+## 1. § A jövedéki termékek veszteségnormáiról szóló 43/1997. (XII. 30.) PM rendelet (a továbbiakban: PM1 rendelet) 1. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A vegyipari, gyógyszeripari és élelmiszeripari felhasználás során szennyezetté vált adózatlan jövedéki termék regenerálásánál a figyelembe vehető veszteségnorma mértékét a regenerálás helye szerinti alsó fokú vámszerv az adómentes felhasználó kérelmére, szakértői véleménnyel és próbagyártással alátámasztva, a regeneráláshoz használt berendezés műszaki jellemzőinek és a jövedéki termék szennyezettségének figyelembevételével esetenként határozza meg.”

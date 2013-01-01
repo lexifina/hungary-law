@@ -1,0 +1,1 @@
+## „(6) A vámszerv az engedély módosítása iránti kérelemben vagy a változásbejelentésben foglaltak alapján az adóraktári (egyszerűsített adóraktári) engedélyt vagy a betétlapot – szükség esetén mindkettőt – bevonja, és új adóraktári (egyszerűsített adóraktári) engedélyt vagy betétlapot ad ki.”

@@ -1,0 +1,3 @@
+## 14. § A PM3 rendelet 16. §-a helyébe a következő rendelkezés lép:
+
+## „16. § A felhasználói engedély kiadására a 11. § (1)–(3) bekezdése, a felhasználói engedély iránti kérelem elutasítására a 12. §, a felhasználói engedély iránti kérelemben vagy a felhasználói engedélyben szereplő adatok változása esetén a 8. § rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a felhasználói engedélyt a 13. számú melléklet szerinti adattartalmú nyomtatványon kell kiadni, a felhasználói engedély módosítása iránti kérelmet és a változásbejelentést pedig a 3. számú melléklet szerinti adattartalmú nyomtatványon kell benyújtani.”
