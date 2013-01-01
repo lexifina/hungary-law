@@ -1,4 +1,4 @@
-37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a nemzeti filmvagyonba tartozó filmalkotások többcsatornás és hatékony terjesztésének szabályait, valamint a terjesztésből befolyt bevétel felosztásának módját.
+37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a közterületi filmforgatással összefüggő közterület-használathoz szükséges egyes engedélyek összevont eljárásban való kiadásának rendjét.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -11,3 +11,7 @@ c) az „art” besorolású mozik üzemeltetésének, valamint az „art” bes
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a társadalompolitika összehangolásáért felelős miniszter, hogy rendeletben állapítsa meg a filmalkotás végefőcímében az állam támogatóként való feltüntetésének módját.
+
+(4) Felhatalmazást kap a települési önkormányzat képviselő-testülete, hogy a tulajdonában álló közterületek filmforgatási célú használatának díjára vonatkozóan alkalmazható mentességek és kedvezmények körét, a használat területi és időbeli korlátait, valamint a turisztikailag kiemelt közterületek körét rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a községi önkormányzat képviselő-testülete, hogy a tulajdonában álló közterületek filmforgatási célú használata díjának felső határát rendeletben állapítsa meg.

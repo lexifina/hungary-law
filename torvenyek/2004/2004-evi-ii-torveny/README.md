@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2011-06-11 | 2011. évi LX. törvény | 2004-2-00-00.17 |
 | 2012-01-01 | 2011. évi CLXIX. törvény | 2004-2-00-00.18 |
 | 2012-12-16 | 2012. évi CXCIX. törvény | 2004-2-00-00.19 |
+| 2013-01-01 | 2012. évi CXCIX. törvény | 2004-2-00-00.20 |
