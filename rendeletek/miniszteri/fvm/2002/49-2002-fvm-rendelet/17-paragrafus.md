@@ -10,4 +10,6 @@ b) a szülőpárokat tartó és a keltetőtojás-termelő telepekről származó
 
 c) az a) és b) pontban foglaltakon túl az állományból származó keltetett, befulladt tojásokban, illetve a kikeltetett baromfiak életének első öt napjában végzett bakteriológiai vizsgálatok Salmonella gallinarumra, Salmonella pullorumra negatív eredményre vezettek.
 
-(3) Baromfitífusz mentesség esetében a kerületi főállatorvos az 5. számú melléklet szerinti igazolást állítja ki.
+(3)[^13] Baromfitífusz mentesség esetében a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetője (a továbbiakban: járási főállatorvos) az 5. számú melléklet szerinti igazolást állítja ki.
+
+[^13]: A 17. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 10. § a) pontja szerint módosított szöveg.

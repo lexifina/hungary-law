@@ -1,4 +1,4 @@
-5. számú melléklet a 49/2002. (V. 24.) FVM rendelethez[^21]
+5. számú melléklet a 49/2002. (V. 24.) FVM rendelethez[^24]
 
 ÁLLATORVOSI IGAZOLÁS
 
@@ -26,16 +26,16 @@ A vizsgálatok eredménye alapján az állomány tojásait baromfitífusz szempo
 
 ...........................................................
 
-kerületi főállatorvos
+járási főállatorvos
 
 Magyarázat az 5. számú melléklethez:
 
 A függelék szerinti ,,Állatorvosi Igazolást'' négy példányban kell kiállítani:
 
-– a tőpéldányt a kerületi főállatorvos iktatja,
+– a tőpéldányt a járási főállatorvos iktatja,
 
 – egy példány szolgálati úton az MgSzH illetékes területi szervéhez küldendő,
 
 – két példány az állattartónál marad, és ebből egy példányt a tojásszállítmánnyal a keltetőnek vagy a forgalmazónak kell küldeni.
 
-[^21]: Az 5. számú melléklet a 2/2008. (I. 4.) FVM rendelet 11. § (6) bekezdésének c) pontja szerint módosított szöveg.
+[^24]: Az 5. számú melléklet a 2/2008. (I. 4.) FVM rendelet 11. § (6) bekezdésének c) pontja, a 151/2012. (XII. 29.) VM rendelet 10. § b) pontja szerint módosított szöveg.
