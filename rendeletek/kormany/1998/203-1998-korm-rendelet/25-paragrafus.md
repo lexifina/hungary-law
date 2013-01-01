@@ -48,7 +48,7 @@ figyelemmel.
 
 (10)[^218] A meg nem fizetett bányajáradék, jogosulatlanul kitermelt ásványi nyersanyag értéke és felügyeleti díj, valamint ezek késedelmi kamatai behajtása érdekében a bányafelügyelet megkeresi az adóhatóságot.
 
-(11)[^219] A jogosulatlan bányászati tevékenység ügyében hivatalból indult eljárásáról a bányakapitányság értesíti a jegyzőt és az elsőfokú környezetvédelmi, természetvédelmi, vízügyi, kulturális örökségvédelmi, valamint talajvédelmi hatóságot.
+(11)[^219] A jogosulatlan bányászati tevékenység ügyében hivatalból indult eljárásáról a bányakapitányság értesíti a jegyzőt, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát és az elsőfokú környezetvédelmi, természetvédelmi, vízügyi, kulturális örökségvédelmi, valamint talajvédelmi hatóságot.
 
 [^206]: A Vhr. 25. § (1) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^207]: A Vhr. 25. § (1a) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdése iktatta be.
@@ -63,4 +63,4 @@ figyelemmel.
 [^216]: A Vhr. 25. §-ának új (8) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (11) bekezdésre változtatva. A (8) bekezdés a 411/2012. (XII. 20.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
 [^217]: A Vhr. 25. §-ának (9) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
 [^218]: A Vhr. 25. §-a eredeti (7) bekezdésének számozását az 57/2008. (III. 26.) Korm. rendelet 17. §-a (10) bekezdésre változtatta, szövege a 146/2012. (VII. 5.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^219]: A Vhr. 25. §-ának (8) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 29. §-ának (4) bekezdése iktatta be. A Vhr. 25. §-a eredeti (8) bekezdésének számozását az 57/2008. (III. 26.) Korm. rendelet 17. §-a (11) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^219]: A Vhr. 25. §-ának (8) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 29. §-ának (4) bekezdése iktatta be. A Vhr. 25. §-a eredeti (8) bekezdésének számozását az 57/2008. (III. 26.) Korm. rendelet 17. §-a (11) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a, a 174/2012. (VII. 26.) Korm. rendelet 18. § -a szerint módosított szöveg.
