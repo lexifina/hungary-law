@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-77-20-2
 | 2012-01-01 | 2009-77-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-03-15 | 2009-77-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-07-01 | 2009-77-20-22.7 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2013-01-01 | 2009-77-20-22.8 | 234/2010. (VIII. 31.) Korm. rendelet |

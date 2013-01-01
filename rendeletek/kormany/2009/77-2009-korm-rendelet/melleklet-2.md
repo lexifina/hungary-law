@@ -212,7 +212,7 @@
 
 | 105. | műtárgy rekonstrukció | Duna jp. 63+699 tkm Tüzéptelepi rekonstrukciója, acél- és vasbeton szerkezetek felújítása | vízügyi hatósági engedély | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 106. | épület rekonstrukció | Duna jp.83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Tolna Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 106. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Szekszárdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 107. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja ” |
 
@@ -224,7 +224,7 @@
 
 | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. építésügy | az illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| 1. építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 2. közlekedés |  |  |
 
@@ -256,11 +256,11 @@
 
 | 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -268,7 +268,7 @@
 
 | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. építésügy | illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| 1. építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 2. közlekedés |  |  |
 
@@ -300,11 +300,11 @@
 
 | 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. kulturális örökségvédelem | Fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -344,12 +344,12 @@
 
 | 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. kulturális örökségvédelem | Fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. régészet, műemlékvédelem és világörökség | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 40. §-a, a 137/2012. (VI. 29.) Korm. rendelet 95. § (5) bekezdése és 97. § n) pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 40. §-a, a 137/2012. (VI. 29.) Korm. rendelet 95. § (5) bekezdése és 97. § n) pontja, a 394/2012. (XII. 20.) Korm. rendelet 31. §-a szerint módosított szöveg.
