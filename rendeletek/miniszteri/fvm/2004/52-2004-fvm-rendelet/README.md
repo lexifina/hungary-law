@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-52-20-8
 | --- | --- | --- |
 | 2008-05-16 | 2004-52-20-82.2 | 52/2004. (IV. 24.) FVM rendelet |
 | 2012-02-11 | 2004-52-20-82.3 | 5/2012. (II. 10.) VM rendelet |
+| 2013-01-01 | 2004-52-20-82.4 | 151/2012. (XII. 29.) VM rendelet |

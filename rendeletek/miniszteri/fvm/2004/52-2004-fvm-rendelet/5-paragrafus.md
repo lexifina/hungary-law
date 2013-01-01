@@ -6,19 +6,19 @@
 
 (3) Amennyiben a valamely más tagállamból származó termék rendeltetési helye a hatósági állatorvos állandó ellenőrzése alatt álló létesítmény, a hatósági állatorvosnak meg kell bizonyosodnia arról, hogy a létesítmény a terméket csak akkor veszi át, ha az az árumegjelölés és a kísérőokiratok tekintetében a 3. § (1)–(5) bekezdése szerinti rendelkezéseknek megfelel, illetve azt a 2. számú mellékletben megnevezett termékek esetében a külön jogszabály által meghatározott okirattal ellátták.
 
-(4) Amennyiben a valamely tagállamból származó termék címzettje olyan nagykereskedelmi tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely a küldeményeket részegységekre osztja, vagy olyan kereskedelmi tevékenységet végző természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely több telephellyel rendelkezik, vagy olyan létesítmény, amelyre nem vonatkozik állandó ellenőrzési kötelezettség, akkor annak minden szétosztás vagy értékesítés előtt meg kell vizsgálnia, hogy a szükséges jelölések, igazolások vagy egyéb, külön jogszabály által meghatározott okiratok rendelkezésre állnak-e. A termék címzettje az illetékes kerületi főállatorvos részére köteles jelenteni minden eltérést, illetve hiányosságot.
+(4)[^8] Amennyiben a valamely tagállamból származó termék címzettje olyan nagykereskedelmi tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely a küldeményeket részegységekre osztja, vagy olyan kereskedelmi tevékenységet végző természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely több telephellyel rendelkezik, vagy olyan létesítmény, amelyre nem vonatkozik állandó ellenőrzési kötelezettség, akkor annak minden szétosztás vagy értékesítés előtt meg kell vizsgálnia, hogy a szükséges jelölések, igazolások vagy egyéb, külön jogszabály által meghatározott okiratok rendelkezésre állnak-e. A termék címzettje az illetékes járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetője (a továbbiakban: járási főállatorvos) részére köteles jelenteni minden eltérést, illetve hiányosságot.
 
 (5) Ha a valamely tagállamból származó terméknek több címzettje is van, a tételt – különösen a szállítás közben történő részleges kirakodás esetén – a 3. § (1)–(5) bekezdésének megfelelően a (3) bekezdésben meghatározott eredeti bizonyítványnak vagy okiratnak kell kísérnie.
 
 (6) Az olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaságnak, amely egy másik tagállamból szerez be terméket vagy ilyen termék szétosztását végzi,
 
-a) tevékenysége megkezdését megelőzően be kell jegyeztetnie magát az állomásnál, amely bejegyzéshez szükséges a kerületi főállatorvos 3. számú melléklet szerinti igazolása,
+a)[^9] tevékenysége megkezdését megelőzően be kell jegyeztetnie magát az állomásnál, amely bejegyzéshez szükséges a járási főállatorvos 3. számú melléklet szerinti igazolása,
 
 b) a szállítmányokról nyilvántartást kell vezetnie,
 
 c) amennyiben ez az (1)–(5) bekezdés szerinti ellenőrzés végrehajtásához szükséges, az állomás felszólítására a másik tagállamból behozott termék érkezését be kell jelentenie,
 
-d) az állomás által megállapított időtartamig, de legalább egy évig meg kell őriznie a 3. § szerinti okiratot annak érdekében, hogy azt az ellenőrzést végző hatósági állatorvosnak, illetve a kerületi főállatorvosnak bemutathassák.
+d)[^10] az állomás által megállapított időtartamig, de legalább egy évig meg kell őriznie a 3. § szerinti okiratot annak érdekében, hogy azt az ellenőrzést végző hatósági állatorvosnak, illetve a járási főállatorvosnak bemutathassák.
 
 (7) A (6) bekezdés a) pontja szerinti előzetes bejegyzés alkalmával a (4) és (5) bekezdés szerinti címzettnek és az állomásnak szerződést kell kötnie, amelyben megállapítják a címzett által teljesítendő követelményeket. A hatósági állatorvos a szerződésben foglalt előírások betartását szúrópróbaszerűen ellenőrzi.
 
@@ -27,3 +27,6 @@ d) az állomás által megállapított időtartamig, de legalább egy évig meg 
 (9) Az e §-ban foglaltakkal kapcsolatos részletes szabályokat külön jogszabály állapítja meg.
 
 [^7]: Az 5. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 11. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 21. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (6) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 21. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (6) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 21. § b) pontja szerint módosított szöveg.
