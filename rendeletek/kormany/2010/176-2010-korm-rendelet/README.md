@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-176-20-
 | --- | --- | --- |
 | 2010-05-28 | 2010-176-20-22.1 | 176/2010. (V. 13.) Korm. rendelet |
 | 2011-01-01 | 2010-176-20-22.2 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2013-01-01 | 2010-176-20-22.3 | 351/2010. (XII. 30.) Korm. rendelet |
