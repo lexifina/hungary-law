@@ -1,3 +1,5 @@
+## 2. §[^2]
+
 3. § (1) Az OKV titkárát a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter az általa vezetett központi államigazgatási szerv állományába tartozó köztisztviselők közül nevezi ki.
 
 (2) Az OKV titkárának megbízatása megszűnik
@@ -15,3 +17,5 @@ d) halálával.
 (4) Ha az OKV titkárának megbízatása a (2) bekezdés a)–c) pontja alapján szűnik meg, ez a tény az OKV-ban betöltött tagságát nem érinti.
 
 (5) Az OKV titkára e megbízatására tekintettel tiszteletdíjra vagy más juttatásra nem jogosult.
+
+[^2]: A 2. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdés a) pontja hatályon kívül helyezte.

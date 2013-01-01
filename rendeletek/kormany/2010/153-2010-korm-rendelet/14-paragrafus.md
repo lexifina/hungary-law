@@ -1,6 +1,6 @@
-## 13. §[^10]
+## 13. §[^17]
 
-14. §[^11]
+14. §[^18]
 
-[^10]: A 13. § a 207/2010. (VI. 30.) Korm. rendelet 11. § a) pontja alapján nem lép hatályba.
-[^11]: A 14. § a (3) bekezdés alapján hatályát vesztette.
+[^17]: A 13. § a 207/2010. (VI. 30.) Korm. rendelet 11. § a) pontja alapján nem lép hatályba.
+[^18]: A 14. § a (3) bekezdés alapján hatályát vesztette.
