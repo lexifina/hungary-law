@@ -8,7 +8,7 @@ b) aki ellen elfogatóparancsot, nemzetközi elfogatóparancsot, illetve európa
 
 c) akinek őrizetbe vételét, előzetes letartóztatását rendelték el, vagy akinek ideiglenes kényszergyógykezelését, illetőleg elmeállapotának megfigyelését rendelték el;
 
-d) aki az őrizetbe vétel, az előzetes letartóztatás, ideiglenes kiadatási letartóztatás, kiadatási letartóztatás, ideiglenes átadási letartóztatás, átadási letartóztatás, a szabadságvesztés vagy az elzárás végrehajtása során megszökött, vagy a fogvatartás helyéről engedéllyel eltávozva oda nem tért vissza, a lakhelyelhagyási tilalom, a házi őrizet, valamint a távoltartás szabályait megszegte, illetőleg, aki az ideiglenes kényszergyógykezelés, az elmeállapotának megfigyelése, a kényszergyógykezelés vagy a javítóintézeti nevelés alól magát kivonta;
+d) aki az őrizetbe vétel, az előzetes letartóztatás, az ideiglenes kiadatási letartóztatás, a kiadatási letartóztatás, az ideiglenes átadási letartóztatás, az átadási letartóztatás, az ideiglenes végrehajtási letartóztatás, a szabadságvesztés vagy az elzárás végrehajtása során megszökött, vagy a fogvatartás helyéről engedéllyel eltávozva oda nem tért vissza, a lakhelyelhagyási tilalom, a házi őrizet, valamint a távoltartás szabályait megszegte, illetőleg, aki az ideiglenes kényszergyógykezelés, az elmeállapotának megfigyelése, a kényszergyógykezelés vagy a javítóintézeti nevelés alól magát kivonta;
 
 e) akinek előállítását külön törvényben meghatározott feltételek alapján elrendelik;
 

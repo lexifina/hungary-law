@@ -36,7 +36,9 @@ c) a közlekedésért felelős miniszterrel és az adópolitikáért felelős mi
 
 d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a határátlépés ellenőrzésének szabályait a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren,
 
-e) az államháztartásért felelős miniszter és az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait.
+e) az államháztartásért felelős miniszter és az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
+
+f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényekkel összefüggő rendőrségi eljárás és a rendezvények biztosításával kapcsolatos rendőrségi feladatok végrehajtásának részletes szabályait.
 
 (3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
 

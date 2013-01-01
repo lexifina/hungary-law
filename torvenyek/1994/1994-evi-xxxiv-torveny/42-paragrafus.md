@@ -10,7 +10,15 @@
 
 (5) A rendőrség a határátkelőhely őrzése, a határforgalom ellenőrzése és a határátkelőhely rendjének fenntartása céljából képfelvevőt helyezhet el és felvételt készíthet.
 
-(6) Az (1), (2) és (5) bekezdésben foglaltak alapján készített felvétel, illetőleg az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, körözött személy vagy tárgy azonosítása vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében használható fel.
+(5a) A rendőrség a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott őrzött szállás területén – a lakóhelyiségek, a tisztálkodás céljára szolgáló helyiségek és a WC-k kivételével – bűnmegelőzési, valamint az őrzésbiztonsági feltételek ellenőrzése céljából képfelvevőt helyezhet el és felvételt készíthet.
+
+(6) Az
+
+a) (1), (2) és (5) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, körözött személy vagy tárgy azonosítása vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+
+b) (5a) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+
+használható fel.
 
 (7) Ha a (6) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség,
 
@@ -18,10 +26,10 @@ a) az (1) bekezdés alapján rögzített felvételt a rögzítést követő harm
 
 b) a (2) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével,
 
-c) az (5) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével
+c) az (5) és (5a) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével
 
 törölni kell.
 
-(8) A szabálysértési vagy büntetőeljárás megindításához és lefolytatásához szükséges adatok és információk biztosítása céljából – ha ilyen cselekmény elkövetésére utaló adat vagy információ a (6) bekezdés szerinti időtartamon belül merül fel – az adatkezelő rendőri szerv a (2) és (5) bekezdés alapján rögzített adatok kezelésének határidejét legfeljebb harminc napig meghosszabbíthatja. Ha ezen időtartamon belül nem indul olyan szabálysértési vagy büntetőeljárás, amelyben a felvételek felhasználhatók, az adatokat haladéktalanul törölni kell.
+(8) A szabálysértési vagy büntetőeljárás megindításához és lefolytatásához szükséges adatok és információk biztosítása céljából – ha ilyen cselekmény elkövetésére utaló adat vagy információ a (7) bekezdés szerinti időtartamon belül merül fel – az adatkezelő rendőri szerv a (2) és (5) bekezdés alapján rögzített adatok kezelésének határidejét legfeljebb harminc napig meghosszabbíthatja. Ha ezen időtartamon belül nem indul olyan szabálysértési vagy büntetőeljárás, amelyben a felvételek felhasználhatók, az adatokat haladéktalanul törölni kell.
 
 (9) Ha a felvétel felhasználására a (6) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.

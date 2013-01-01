@@ -6,7 +6,7 @@
 
 (3) A segítségnyújtás csak halaszthatatlan szolgálati érdekből tagadható meg, közvetlen életveszély esetén csak akkor, ha a segítségnyújtás miatt több ember élete kerülne közvetlen veszélybe.
 
-(4) A rendőrt a jogainak érvényesítése végett bárki felkérheti más személy igazoltatására. Ha az igazoltatást kérő valószínűsíti, hogy az igazoltatáshoz jogos érdeke fűződik, és a személyazonosságát igazolja, a rendőr a kérést teljesíti. Az igazoltatott adatait a rendőrkapitányság adja ki az igazoltatást kérőnek, ha az adatokhoz fűződő jogosultságát hitelt érdemlően igazolja.
+(4) A rendőrt a jogainak érvényesítése végett bárki felkérheti más személy igazoltatására. Ha az igazoltatást kérő valószínűsíti, hogy az igazoltatáshoz jogos érdeke fűződik, és a személyazonosságát igazolja, a rendőr a kérést teljesíti. Az igazoltatott adatait – a 24/A. § (1) bekezdésében foglaltakat kivéve – a rendőrkapitányság adja ki az igazoltatást kérőnek, ha az adatokhoz fűződő jogosultságát hitelt érdemlően igazolja.
 
 (5) Ha az igazoltatást kérő az igazoltatást követő 8 napon belül az adatok kiadását nem kéri, vagy a jogosultságát nem igazolja, az igazoltatottnak a (4) bekezdés alapján felvett adatait meg kell semmisíteni.
 

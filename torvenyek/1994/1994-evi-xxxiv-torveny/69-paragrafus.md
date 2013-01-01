@@ -16,7 +16,7 @@ e) számítástechnikai eszköz vagy rendszer útján továbbított, vagy azon t
 
 (3) A rendőrség az (1) bekezdésben felsorolt titkos információgyűjtésre szolgáló eszközöket és módszereket (a továbbiakban: különleges eszközök) az ott meghatározottak szerint alkalmazhatja a bűncselekmény gyanúja miatt körözött személy felkutatására, továbbá
 
-a) a lelkiismereti és vallásszabadság megsértése (Btk. 174/A. §), a kitartottság (Btk. 206. §), a hivatali visszaélés (Btk. 225. §),
+a) a lelkiismereti és vallásszabadság megsértése (Btk. 174/A. §), a kitartottság (Btk. 206. §), a hivatali visszaélés (Btk. 225. §), a visszaélés új pszichoaktív anyaggal (Btk. 283/B. §),
 
 b) az (1) bekezdésben nem említett, üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
 

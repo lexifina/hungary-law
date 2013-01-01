@@ -4,6 +4,6 @@
 
 (3) Az általános rendőrségi feladatok ellátására létrehozott szerv személyi állománya hivatásos állományú rendőrökből, kormánytisztviselőkből, közalkalmazottakból, valamint a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból állhat.
 
-(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, az általános rendőrségi feladatok ellátására létrehozott szervtől a hivatásos szolgálati viszonyra vonatkozó jogszabály szerint berendelt rendőrökből, kormánytisztviselőkből, valamint közalkalmazottakból állhat.
+(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, az általános rendőrségi feladatok ellátására létrehozott szervtől a hivatásos szolgálati viszonyra vonatkozó jogszabály szerint vezényelt rendőrökből, kormánytisztviselőkből, valamint közalkalmazottakból állhat.
 
-(5) A terrorizmust elhárító szerv személyi állománya hivatásos állományú rendőrökből, az általános rendőrségi feladatok ellátására létrehozott szervtől a hivatásos szolgálati viszonyra vonatkozó jogszabály szerint berendelt rendőrökből és vezényelt hivatásos állományúakból, kormánytisztviselőkből, valamint közalkalmazottakból állhat.
+(5) A terrorizmust elhárító szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, kormánytisztviselőkből, valamint közalkalmazottakból állhat.

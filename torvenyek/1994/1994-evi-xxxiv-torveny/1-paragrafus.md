@@ -46,4 +46,6 @@ c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszerveze
 
 16. elvégzi a részére törvényben vagy kormányrendeletben megállapított, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat, valamint
 
-17. részt vesz az Egyesült Nemzetek Szervezete, az Európai Unió, az Európai Biztonsági és Együttműködési Szervezet, az Észak-atlanti Szerződés Szervezete keretében szervezett, vagy nemzetközi szerződés alapján a béketámogató és polgári válságkezelési feladatokban.
+17. részt vesz az Egyesült Nemzetek Szervezete, az Európai Unió, az Európai Biztonsági és Együttműködési Szervezet, az Észak-atlanti Szerződés Szervezete keretében szervezett, vagy nemzetközi szerződés alapján a béketámogató és polgári válságkezelési feladatokban,
+
+18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában.

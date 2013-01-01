@@ -6,9 +6,11 @@
 
 29. § (1) A rendőr a feladata ellátása során
 
-a) igazoltathatja azt, akinek a személyazonosságát a közrend, a közbiztonság védelme érdekében, bűnmegelőzési vagy bűnüldözési célból, a tartózkodása jogszerűségének megállapítása céljából, közlekedésrendészeti ellenőrzés során, továbbá az igazoltatott vagy más természetes, illetve jogi személy és egyéb szervezet jogainak védelme érdekében kell megállapítani, valamint
+a) igazoltathatja azt, akinek a személyazonosságát a közrend, a közbiztonság védelme érdekében, bűnmegelőzési vagy bűnüldözési célból, a tartózkodása jogszerűségének megállapítása céljából, közlekedésrendészeti ellenőrzés során, továbbá az igazoltatott vagy más természetes, illetve jogi személy és egyéb szervezet jogainak védelme érdekében kell megállapítani,
 
-b) az igazoltatott személyt – annak választása szerint – lakcímének, tartózkodási helyének a lakcímet igazoló hatósági igazolvánnyal vagy más alkalmas dokumentummal történő igazolására, vagy a lakcímre, tartózkodási helyre vonatkozó nyilatkozattételre kérheti fel.
+b) az igazoltatott személyt lakcímének, tartózkodási helyének – az igazoltatott választása szerint – a lakcímet igazoló hatósági igazolvánnyal vagy más alkalmas dokumentummal történő igazolására, vagy a lakcímre, tartózkodási helyre vonatkozó nyilatkozattételre kérheti fel, valamint
+
+c) amennyiben a 24/A. § (1) bekezdésében meghatározott személy felkérése alapján igazoltat, úgy az igazoltatott személyt a b) pontban megjelölt adatok igazolására, vagy ezen adatokra vonatkozó nyilatkozattételre kéri fel.
 
 (2) Az igazoltatott köteles a személyazonosító adatait hitelt érdemlően igazolni. A személyazonosságot – a személyazonosító igazolványon túl – minden olyan hatósági igazolvány igazolja, amely tartalmazza a személyazonosításhoz szükséges adatokat. Az igazoltatott kizárólag ezen okmányok egyikének bemutatására kötelezhető. A rendőr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
 

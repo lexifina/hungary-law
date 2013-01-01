@@ -20,7 +20,7 @@ a) a határterülettel érintett területi önkormányzatok és megyei jogú vá
 
 b) az illetékességi területén lévő települési önkormányzat képviselő-testületét a rendőrkapitány, a határrendészeti kirendeltség vezetője vagy kijelölt helyettese felkérésre tájékoztatja.
 
-(8) A rendőrfőkapitány a fővárosi és megyei kormányhivatal vezetőjét, a területi önkormányzat közgyűlésének elnökét (főpolgármestert), a területi katasztrófavédelmi szerv vezetőjét, az Alkotmányvédelmi Hivatal területi szervének vezetőjét; a rendőrkapitány vagy a határrendészeti kirendeltség vezetője a települési önkormányzat polgármesterét tájékoztatja
+(8) A rendőrfőkapitány a fővárosi és megyei kormányhivatal vezetőjét, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala vezetőjét, a területi önkormányzat közgyűlésének elnökét (főpolgármestert), a területi katasztrófavédelmi szerv vezetőjét, az Alkotmányvédelmi Hivatal területi szervének vezetőjét; a rendőrkapitány vagy a határrendészeti kirendeltség vezetője a települési önkormányzat polgármesterét tájékoztatja
 
 a) a lakosságot a szomszédos állam területéről fenyegető veszélyről;
 

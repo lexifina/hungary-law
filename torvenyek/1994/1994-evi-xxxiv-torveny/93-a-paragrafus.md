@@ -8,10 +8,12 @@
 
 (5) A Testület felhatalmazása alapján a Testület tagja a Testület nevében az (1)–(4) bekezdésben meghatározott vizsgálati cselekményeket elvégezheti.
 
-(6) A Testület a panaszt kilencven nap alatt vizsgálja meg. A Testület az állásfoglalását külső befolyástól mentesen alakítja ki. A Testület az állásfoglalását megküldi az országos rendőrfőkapitány, valamint a főigazgatók számára.
+(6) A Testület a panaszt kilencven nap alatt vizsgálja meg, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő. A Testület az állásfoglalását külső befolyástól mentesen alakítja ki. A Testület az állásfoglalását megküldi az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója és a terrorizmust elhárító szerv főigazgatója számára.
 
-(7) Az országos rendőrfőkapitány a panaszról az állásfoglalás kézhezvételét követő harminc napon belül közigazgatási hatósági eljárásban dönt. Ha az országos rendőrfőkapitány, valamint a főigazgatók határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.
+(7) Az országos rendőrfőkapitány a panaszról az állásfoglalás kézhezvételét követő harminc napon belül közigazgatási hatósági eljárásban dönt. Ha az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.
 
-(8) Az országos rendőrfőkapitány, valamint a főigazgatók határozatának meghozatalát követően a Testület az állásfoglalását – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos panaszában előzetesen tiltakozott.
+(8) Az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatának meghozatalát követően a Testület az állásfoglalását – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos panaszában előzetesen tiltakozott.
 
-(9) Az országos rendőrfőkapitány, valamint a főigazgatók határozata ellen a közigazgatási eljárásban fellebbezésnek helye nincs, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
+(9) Az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozata ellen a közigazgatási eljárásban fellebbezésnek helye nincs, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
+
+(10) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja a Testületet azokban az ügyekben, amelyekben a Testület állásfoglalást alakított ki.

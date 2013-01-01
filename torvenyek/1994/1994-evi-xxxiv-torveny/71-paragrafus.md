@@ -1,4 +1,4 @@
-71. § (1) A különleges eszköz alkalmazását az engedélyt kérő nyomozó hatóság székhelye szerint illetékes helyi bíróságnak a törvényszék elnöke által kijelölt bírája (a továbbiakban: bíró) engedélyezi.
+71. § (1) A különleges eszköz alkalmazását az engedélyt kérő nyomozó hatóság székhelye szerint illetékes járásbíróságnak a törvényszék elnöke által kijelölt bírája (a továbbiakban: bíró) engedélyezi.
 
 (2) A bíró a különleges eszköz engedélyezése iránti kérelem benyújtásától számított 72 órán belül indokolt végzéssel határoz, a kérelemnek helyt ad, vagy azt a törvényi feltételek hiánya miatt elutasítja.
 

@@ -2,9 +2,9 @@
 
 a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit a bűncselekmény elkövetőjének felderítéséig vagy – ennek hiányában – a bűncselekmény büntethetőségének elévüléséig;
 
-b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket és szagmintákat a c) pontban meghatározott ideig;
+b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket a c) pontban meghatározott ideig;
 
-c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, továbbá hang- és szagmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig;
+c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig;
 
 d) a rendőrségen fogvatartott, a házi őrizet, illetve a lakhelyelhagyási tilalom alá helyezett és azon személyek adatait, akikkel szemben távoltartást rendeltek el, valamint akiknek óvadék vagy biztosíték letétbe helyezését engedélyezték, a bűncselekmény büntethetőségének elévüléséig vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig;
 
@@ -38,6 +38,8 @@ ib) büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig,
 
 ic) elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, de legfeljebb húsz évig,
 
-j) a rendőrséggel titkosan együttműködő személyek, valamint a fedett nyomozók személyes adatait és az alkalmazás eredményét az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig.
+j) a rendőrséggel titkosan együttműködő személyek, valamint a fedett nyomozók személyes adatait és az alkalmazás eredményét az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig;
+
+k) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy szagmintáját, valamint az ismeretlen tettes által elkövetett bűncselekmény ügyében lefolytatott büntetőeljárás során rögzített helyszíni szagmaradványokat a rögzítésüktől számított három évig.
 
 (2) Az (1) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.
