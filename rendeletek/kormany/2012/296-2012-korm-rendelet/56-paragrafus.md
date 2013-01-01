@@ -1,5 +1,3 @@
-## 55. §[^67]
+## 55. § A hatvani Grassalkovich-kastély és parkja rekonstrukciója keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 252/2011. (XII. 1.) Korm. rendelet 1. mellékletének 5. pontjában a „Hatvani Körzeti Földhivatal” szövegrész helyébe az „illetékes járási földhivatal” szöveg lép.
 
 ## 56. A Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 311/2011. (XII. 23.) Korm. rendelet módosítása
-
-[^67]: Az 55. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

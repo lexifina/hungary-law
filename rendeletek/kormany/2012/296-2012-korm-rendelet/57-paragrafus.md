@@ -1,5 +1,3 @@
-## 56. §[^68]
+## 56. § A Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 311/2011. (XII. 23.) Korm. rendelet 1. mellékletének 9. pontjában és a 2. melléklet 12. a) pontjában a „Budapesti 1. számú Körzeti Földhivatal” szövegrész helyébe a „Budapesti 1. számú Földhivatal” szöveg lép.
 
 ## 57. A budapesti Istvánmező rehabilitációs programjával, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 364/2011. (XII. 30.) Korm. rendelet módosítása
-
-[^68]: Az 56. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

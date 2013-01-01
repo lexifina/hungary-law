@@ -23,3 +23,9 @@
 ## 65. Az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központról szóló
 
 ## 214/2012. (VII. 30.) Korm. rendelet módosítása
+
+## 65. § Az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központról szóló 214/2012. (VII. 30.) Korm. rendelet
+
+a) 7. § (3) bekezdés c) pontjában a „gyámhivatal” szövegrész helyébe a „járási (fővárosi kerületi) gyámhivatal (a továbbiakban: járási gyámhivatal)” szöveg,
+
+b) 11. § d) pontjában a „városi gyámhivatal” szövegrész helyébe a járási gyámhivatal” szöveg

@@ -1,5 +1,3 @@
-## 28. §[^37]
+## 28. § A budapesti 4-es metróvonal Kelenföldi pályaudvar–Bosnyák tér közötti szakasza megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 89/2007. (IV. 26.) Korm. rendelet 1. számú melléklet 4. sorában és a 2. számú melléklet 1–3. táblázatában a „Budapest Főváros Önkormányzatának főjegyzője” szövegrész helyébe az „illetékes fővárosi kerületi hivatal” szöveg lép.
 
 ## 29. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet módosítása
-
-[^37]: A 28. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

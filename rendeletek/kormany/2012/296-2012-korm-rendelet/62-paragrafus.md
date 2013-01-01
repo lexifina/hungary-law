@@ -1,5 +1,3 @@
-## 61. §[^73]
+## 61. § A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint az ezzel összefüggő egyes kormányrendeletek módosításáról szóló 126/2012. (VI. 26.) Korm. rendelet 1. melléklet 8. pontjában és a 2. melléklet 10. a) pontjában a „Budapesti 1. számú Körzeti Földhivatal” szövegrész helyébe a „Budapesti 1. számú Földhivatal” szöveg lép.
 
 ## 62. A debreceni Nagyerdei Labdarúgó Stadion rekonstrukciós programjához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes kormányrendeletek módosításáról szóló 166/2012. (VII. 19.) Korm. rendelet módosítása
-
-[^73]: A 61. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

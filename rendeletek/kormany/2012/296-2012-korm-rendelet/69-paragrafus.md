@@ -1,11 +1,14 @@
 ## 69. § Hatályát veszti
 
-a)[^80]
+a)[^22]
 
-b)–d)[^81]
+b) a tulajdonviszonyok rendezése érdekében, az állam által igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény végrehajtásáról szóló 104/1991. (VIII. 3.) Korm. rendelet 42. § (1) és (3) bekezdésében, 44. §-ában, 50. § (1) bekezdésében, 52. § (1) bekezdésében a „körzeti” szövegrészek,
 
-e)–g)[^82]
+c) a Közoktatási Fejlesztési Célelőirányzat működésének részletes szabályairól szóló 44/2006. (II. 28.) Korm. rendelet,
 
-[^80]: A 69. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^81]: A 69. § b)–d) pontja a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^82]: A 69. § e)–g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+d) az R2. 3. § (4) bekezdése és 1. melléklete,
+
+e)–g)[^23]
+
+[^22]: A 69. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 69. § e)–g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

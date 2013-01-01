@@ -1,4 +1,4 @@
-## 65. §[^76]
+## lép.
 
 ## 66. A járási (fővárosi kerületi) hivatalokról szóló 218/2012. (VIII. 13.) Korm. rendelet módosítása
 
@@ -6,7 +6,6 @@
 
 ## „(3) Amennyiben kormányrendelet vagy miniszteri rendelet eltérően nem rendelkezik, a járási szakigazgatási szerv illetékessége megegyezik a járási hivatal illetékességével.”
 
-(2)[^77]
+(2)[^20]
 
-[^76]: A 65. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^77]: A 66. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) beezdése alapján hatályát vesztette.
+[^20]: A 66. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
