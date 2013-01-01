@@ -1,0 +1,3 @@
+## 48. § A Szociális Családiház-építési Program keretében az Ócsa területén megvalósuló építési beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 156/2011. (VIII. 10.) Korm. rendelet (a továbbiakban: R36.) 1. melléklete a 32. melléklet szerint módosul.
+
+## 47. A magyar–szlovák összekötő földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 230/2011. (XI. 8.) Korm. rendelet módosítása

@@ -1,0 +1,3 @@
+## 57. § A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet (a továbbiakban: R45.) 1. és 2. melléklete a 39. melléklet szerint módosul.
+
+## 56. A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint az ezzel összefüggő egyes kormányrendeletek módosításáról szóló 126/2012. (VI. 26.) Korm. rendelet módosítása

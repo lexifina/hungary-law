@@ -1,3 +1,1 @@
-## 1–62.[^1]
-
-[^1]: Az 1–62. alcím (1–64. §) a 69. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 1. Az önkormányzatok tulajdonában lévő ingatlanvagyon nyilvántartási és adatszolgáltatási rendjéről szóló 147/1992. (XI. 6.) Korm. rendelet módosítása

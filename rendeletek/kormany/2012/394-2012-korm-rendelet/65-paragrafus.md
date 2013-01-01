@@ -1,4 +1,10 @@
-## 1–64. §
+## 64. § A Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központról szóló 310/2012. (XI. 6.) Korm. rendelet 3. alcíme a következő 10/A. §-sal egészül ki:
+
+## „10/A. § A Központ
+
+## a) a Kötv. 86. § (1) bekezdés a) pontja és 86. § (4) bekezdése szerinti elővásárlási jogot gyakorló szerv;
+
+## b) a Kötv. 87. §-ában meghatározott kisajátítást kérő szerv.”
 
 ## 63. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
 

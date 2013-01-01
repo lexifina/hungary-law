@@ -1,0 +1,3 @@
+## 40. § A magyar–horvát összekötő földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 173/2010. (V. 13.) Korm. rendelet (a továbbiakban: R30.) 1. és 2. melléklete a 26. melléklet szerint módosul.
+
+## 39. A Nabucco Gas Pipeline International GmbH. által megvalósítandó, a Nabucco gázvezeték magyarországi szakaszának kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 174/2010. (V. 13.) Korm. rendelet módosítása

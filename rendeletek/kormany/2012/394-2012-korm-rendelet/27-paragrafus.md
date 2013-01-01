@@ -1,0 +1,3 @@
+## 26. § A Kecskemét közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 192/2008. (VII. 30.) Korm. rendelet (a továbbiakban: R20.) 1. és 2. számú melléklete a 16. melléklet szerint módosul.
+
+## 25. Az M7-es autópálya, Sávoly község északi közigazgatási határa, a Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt területen megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 248/2008. (X. 14.) Korm. rendelet módosítása

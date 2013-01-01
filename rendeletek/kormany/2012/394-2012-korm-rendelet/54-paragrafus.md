@@ -1,0 +1,7 @@
+## 53. § A budapesti Istvánmező rehabilitációs programjával, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 364/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R41.) 1. és 2. melléklete a 36. melléklet szerint módosul.
+
+## 52. A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet módosítása
+
+54. § (1) A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet (a továbbiakban: R42.) 30. § (1) bekezdésében az „a Kulturális Örökségvédelmi Hivatalról és a kulturális örökségvédelmi szakigazgatási szervekről szóló Korm. rendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Kulturális Örökségvédelmi Hivatal által vezetett adatbázisban szereplő – az MgSzH részére átadott – ” szövegrész helyébe az „a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett adatbázisban szereplő – a NÉBIH részére átadott – ” szöveg lép.
+
+(2) Az R42. 30. § (1) bekezdésében a „Kulturális Örökségvédelmi Hivatalt” szövegrész helyébe a „fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát” szöveg lép.
