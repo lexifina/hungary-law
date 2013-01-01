@@ -14,7 +14,7 @@ b) egy összegben veheti fel. Felhalmozási időszakban lévő pénztártag eset
 
 (6) A végelszámolás kezdő időpontját követően kezdeményezett átlépések esetén az átlépés napja a befogadó pénztár befogadó nyilatkozatának napja, azonban a tagi követelések átutalása csak a végelszámolás lezárásával történik meg.
 
-(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levelében tájékoztatja a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 15 napos határidő tűzésével felszólítja a tagokat a (4) bekezdés szerinti nyilatkozat megtételére. Amennyiben a tag a kitűzött időpontig, illetve legkésőbb a végelszámolást lezáró közgyűlés időpontjáig nem nyilatkozik, akkor a követelését a pénztár székhelye szerint illetékes helyi bíróságon bírósági letétbe kell helyezni. Ebben az esetben a letétbe helyezés költségeit a tag követeléséből kell megelőlegezni.
+(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levelében tájékoztatja a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 15 napos határidő tűzésével felszólítja a tagokat a (4) bekezdés szerinti nyilatkozat megtételére. Amennyiben a tag a kitűzött időpontig, illetve legkésőbb a végelszámolást lezáró közgyűlés időpontjáig nem nyilatkozik, akkor a követelését a pénztár székhelye szerint illetékes járásbíróságon bírósági letétbe kell helyezni. Ebben az esetben a letétbe helyezés költségeit a tag követeléséből kell megelőlegezni.
 
 (8) A végelszámolást az arról való döntéstől számított 1 éven belül le kell folytatni. A Felügyelet a pénztár kérésére a határidőt egy alkalommal, legfeljebb 1 évvel meghosszabbíthatja.
 

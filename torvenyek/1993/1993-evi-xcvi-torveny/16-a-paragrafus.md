@@ -30,6 +30,6 @@ c) más, azonos típusú pénztárba átutaltatja.
 
 (10) Amennyiben a kedvezményezett a (9) bekezdés b) pontjában meghatározott választási lehetőséggel él, a várakozási idejébe be kell számítani az elhunyt pénztártag várakozási idejét is.
 
-(11) Amennyiben a pénztár írásbeli felhívására a kedvezményezett a felhívás igazolt kézhezvételétől számított 30 napon belül nem teszi meg a (9) bekezdés szerinti nyilatkozatot, akkor a pénztárnak úgy kell eljárnia, mintha a kedvezményezett a követelés egyösszegű felvétele mellett döntött volna, és a követelés összegét – az esetlegesen felmerülő költségek és követelések összegével csökkentve – a kedvezményezett javára, annak lakóhelye szerint illetékes helyi bíróságnál a negyedévet követő 50. napig bírói letétbe kell helyeznie.
+(11) Amennyiben a pénztár írásbeli felhívására a kedvezményezett a felhívás igazolt kézhezvételétől számított 30 napon belül nem teszi meg a (9) bekezdés szerinti nyilatkozatot, akkor a pénztárnak úgy kell eljárnia, mintha a kedvezményezett a követelés egyösszegű felvétele mellett döntött volna, és a követelés összegét – az esetlegesen felmerülő költségek és követelések összegével csökkentve – a kedvezményezett javára, annak lakóhelye szerint illetékes járásbíróságnál a negyedévet követő 50. napig bírói letétbe kell helyeznie.
 
 (12) A 14. § (3) bekezdésben szabályozott költséglevonás alkalmazható abban az esetben is, ha a kedvezményezett a (9) bekezdés b) pontja szerint a rá eső részt tagdíjfizetés nélkül a pénztárban hagyja.
