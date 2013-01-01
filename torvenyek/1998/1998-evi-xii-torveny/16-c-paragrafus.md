@@ -1,0 +1,5 @@
+16/C. § (1) Ha az érintett személy külföldi – a (2) és (3) bekezdésben foglaltak figyelembevételével – a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész az idegenrendészeti hatóságot értesíti a külföldi érintett személy külföldi állam által kiállított úti okmányának visszatartása érdekében.
+
+(2) Ha az érintett személy bevándorolt vagy letelepedett jogállású, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
+
+(3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.

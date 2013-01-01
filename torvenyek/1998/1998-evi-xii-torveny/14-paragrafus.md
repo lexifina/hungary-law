@@ -6,7 +6,7 @@ b) a bírák és az ügyészek;
 
 c) a Magyar Nemzeti Bank vezető munkatársai;
 
-d)
+d) a szomszédos államokkal fennálló vízügyi együttműködés keretében vízi munka elvégzése, vízkár vagy jégveszély elhárítása érdekében határvízen közlekedő vízügyi dolgozók.
 
 (2) Szolgálati útlevelet kaphat az (1) bekezdés hatálya alá tartozó állampolgárral hivatalos célból együtt utazó, közös háztartásban élő házastársa és eltartott gyermeke.
 

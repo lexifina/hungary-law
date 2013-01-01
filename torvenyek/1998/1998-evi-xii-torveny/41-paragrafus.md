@@ -18,7 +18,9 @@ d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcso
 
 e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét;
 
-f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+
+g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát.
 
 (3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
 

@@ -2,26 +2,26 @@
 
 ## Adatkezelés és adatszolgáltatás
 
-24. § Az útlevél hatóság eljárása során, valamint a központi adatkezelő szerv az e törvényben meghatározott feladatai ellátásához a következő adatokat kezelheti:
+24. § A központi adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
 
-a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja nevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetőleg lakcímét,
+a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét,
 
-b) az állampolgár arcképmását és saját kezű aláírását,
+b) az állampolgár arcképmását és saját kezű aláírását, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
 
 c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
 
-d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, és a szülői felügyeleti jog megszűnését, illetőleg szünetelését igazoló jogerős határozat adatait (a bíróság vagy hatóság megnevezését, ügyszámát, a határozat keltét, a szünetelés időtartamát, a megszüntetés kezdő időpontját),
+d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, és a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat adatait (a bíróság vagy hatóság megnevezését, ügyszámát, a határozat keltét, a szünetelés időtartamát, a megszüntetés kezdő időpontját),
 
 e) az állampolgár számára kiadott úti okmány típusát, számát, érvényességi idejét, az ideiglenes magánútlevél ellenőrző sorszámát, valamint az úti okmányra való jogosultság megszűnésének okát és időpontját,
 
-f) az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, találásának, cseréjének, visszaadásának, leadásának, elvételének adatait, továbbá a figyelmeztető jelzés elhelyezésével kapcsolatos adatokat.
+f) az úti okmány cseréjére, találására, visszaadására, leadására, elvételére, valamint a 20. § (1) bekezdése szerinti érvénytelenségére vonatkozó adatokat,
 
-g) az útlevél-hatósági eljárást lefolytató köztisztviselő egyedi azonosító kódját,
+g) a Schengeni Információs Rendszerben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos adatokat,
 
-h) a külföldre utazás korlátozására vonatkozó adatokat,
+h) az útlevélhatósági eljárást lefolytató köztisztviselő egyedi azonosító kódját,
 
-i) a külföldre utazás korlátozásának törlése esetén az ügyben eljáró útlevél hatóság megnevezését, az intézkedés időpontját, az értesítésre kötelezett, illetve a döntésre jogosult szerv megnevezését, iktatószámát, az értesítés, illetve a döntés időpontját,
+i) a külföldre utazás korlátozásának tényét és a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat,
 
-j)
+j) a külföldre utazás korlátozásának törlése esetén az ügyben eljáró útlevélhatóság megnevezését, a törlés időpontját, valamint a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat, továbbá
 
 k) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, az útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímeit.

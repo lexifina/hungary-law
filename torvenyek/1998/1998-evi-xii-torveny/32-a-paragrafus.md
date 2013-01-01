@@ -1,6 +1,6 @@
 32/A. § (1) A tároló elemnek az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatait
 
-a) az útlevélhatóság kizárólag a tároló elemet tartalmazó úti okmány kiadásáig jogosult kezelni, azokat az úti okmány kiadásakor haladéktalanul törölni kell,
+a) az útlevélhatóság – az elveszett, eltulajdonított vagy megsemmisült útlevelek pótlására történő útlevél-kiállítás, valamint a második magánútlevél kiállítása iránti kérelemhez történő felhasználás érdekében – a tároló elemet tartalmazó úti okmány érvényességi idejének lejártáig jogosult kezelni, ha ehhez a kérelmező az adatok rögzítésekor írásban hozzájárul, ezt követően az adatokat haladéktalanul törölni kell; hozzájárulás hiányában az útlevélhatóság a tároló elemet kizárólag a tároló elemet tartalmazó úti okmány kiadásáig jogosult kezelni és az adatokat az úti okmány kiadásakor haladéktalanul törölni kell,
 
 b) a Rendőrség határforgalom-ellenőrzést végző szerve kizárólag a személyes adatnak a tároló elemből történő olvasásával kezelheti, kizárólag a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet 4. cikk (3) bekezdésében meghatározott célból,
 
