@@ -1,0 +1,1 @@
+3. § Az adó alanya a biztosító. Adóalany az Európai Gazdasági Térség tagállamában székhellyel rendelkező vagy a Bit. szerinti harmadik országbeli biztosító magyarországi fióktelepe, továbbá a határon átnyúló biztosítási szolgáltatást nyújtó is a 2. § szerinti tevékenysége tekintetében.
