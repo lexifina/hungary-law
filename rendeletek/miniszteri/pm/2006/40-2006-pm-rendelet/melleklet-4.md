@@ -1,284 +1,152 @@
 ## Illetékek zárási összesítője
 
-| Sor- szám | Zárási összesítő | Öröklési illeték (gépjármű és egyenes ági mentes nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
+| Sor- szám | Zárási összesítő | A) Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | B) Ajándékozási illeték (gépjármű és egyenes ági mentes nélkül) | C) Gépjármű öröklési és ajándékozási illeték | D) Visszterhes vagyonátruházási illeték (gépjármű nélkül) | E) Visszterhes gépjármű- átruházási illeték | F) Bírósági eljárási illeték | G) Felügyeleti illeték | H) Közigazgatási hatósági eljárási illeték | Összesen |
 
 | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
 | 1. | Nyitó követelés tárgyév január 1-jén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2. | Nyitó túlfizetés tárgyév január 1-jén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 2. | Nyitó túlfizetés tárgyév január 1-jén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 3. | Nyitó függő bevétel tárgyév január 1-jén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 3. | Nyitó függő bevétel tárgyév január 1-jén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
 | 4. | Tárgyévben jogerőssé vált összes előírás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5. | Ebből: végleges előírás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. | Tárgyévben jogerőssé vált összes törlés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6. | illetékelőleg előírás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. | 5. sorból: elévülés címén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 7. | illetékkülönbözet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. | méltányosságból |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 8. | Tárgyévben jogerőssé vált összes törlés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. | behajthatatlanság címén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 9. | 8. sorból: elévülés címén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. | lakástulajdonok közvetett cseréje miatt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 10. | méltányosságból |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10. | kiskorú által igénybe vett kedvezmény miatt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11. | behajthatatlanság címén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11. | illetékbélyeg megtérítése, eljárási illeték visszatérítése, járási (fővárosi kerületi) hivatalban vagy a cégbíróságnál fizetendő eljárási illeték lerovására szolgáló számlákra teljesített összeg visszatérítése miatti jóváírás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 12. | lakástulajdonok közvetett cseréje miatt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12. | 5. sorból: tárgyévben jogerőssé vált törlésből fakadó összes túlfizetés | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 13. | kiskorú által igénybe vett kedvezmény miatt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 13. | Folyó évi helyesbített előírás* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 14. | illetékbélyeg megtérítése, eljárási illeték visszatérítése, okmányirodában vagy a cégbíróságnál fizetendő eljárási illeték lerovására szolgáló számlákra teljesített összeg visszatérítése miatti jóváírás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 14. | Tárgyévben illetékre elszámolt befizetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 15. | 8. sorból: tárgyévben jogerőssé vált törlésből fakadó összes túlfizetés | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 15. | Befizetésből képződött összes túlfizetés | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 16. | Folyó évi helyesbített előírás* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 16. | Tárgyévi összes függő bevétel | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 17. | Tárgyévben illetékre elszámolt befizetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 17. | Tárgyévi befizetés összesen (14+15+16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 18. | Befizetésből képződött összes túlfizetés | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 18. | Tárgyévet megelőzően képződött, ügyfélszámláján tárgyévben jóváírt függő bevétel | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 19. | Tárgyévi összes függő bevétel | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 19. | Ügyfél felé teljesített (kiutalt) visszatérítés, társhatóságnak utalás, más adónemre való átvezetés | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 20. | Tárgyévi befizetés összesen (17+18+19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20. | Követelés a tárgyidőszak végén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 21. | Tárgyévet megelőzően képződött, ügyfélszámláján tárgyévben jóváírt függő bevétel | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 21. | Ebből: hátralék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 22. | Ügyfél felé teljesített (kiutalt) visszatérítés, társhatóságnak utalás, más adónemre való átvezetés | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 22. | Túlfizetés a tárgyidőszak végén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 23. | Követelés a tárgyidőszak végén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 23. | Függő bevétel a tárgyidőszak végén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
 
-| 24. | Ebből: hátralék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 25. | Túlfizetés a tárgyidőszak végén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
-
-| 26. | Függő bevétel a tárgyidőszak végén | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
-
-| 27. | Tárgyidőszak végén nem jogerős követelés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 24. | Tárgyidőszak végén nem jogerős követelés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## * Tárgyévben jogerőssé vált követelés csökkentve az esedékességi sorrend szerint azt csökkentő tárgyévben jogerőssé vált törléssel.
 
-4. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^12]
+4. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^15]
 
 ## Folyó évi előírás alakulása
 
 1. Összes folyó évi előírás alakulása
 
-1.1 Öröklési illeték
+1.1. Öröklési illeték
 
-| Megnevezés | 1. Lakás (tanya, családi ház, sorház stb.) | 2. Garázs | 3. Telek | 4. Termő- föld | 5. Iroda | 6. Szálloda | 7. Kereske- delmi üzlet (étterem, bolt stb.) | 8. Ipari létesítmény (üzem, gyár, műhely, raktár stb.) | 9. Mezőgaz- dasági létesítmény | 10. Egyéb nem lakáscélú ingatlan | 11. Gép- jármű | 12. Érték- papír | 13. Egyéb ingó | 14. Összesen | 15. Összesen (halmo- zódás nélkül) |
+| Megnevezés | A) Lakás (tanya, családi ház, sorház stb.) | B) Garázs | C) Telek | D) Termőföld | E) Iroda | F) Szálloda | G) Keres- kedelmi üzlet (étterem, bolt stb.) | H) Ipari létesítmény (üzem, gyár, műhely, raktár stb.) | I) Mező- gazdasági létesítmény | J) Egyéb nem lakáscélú ingatlan | K) Gépjármű | L) Értékpapír | M) Egyéb ingó | N) Összesen | O) Összesen (halmozódás nélkül) |
 
-| Tulajdonszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Tulajdonszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
+| 4. Hagyatékátadó végzések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
+| 5. Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
+| 6. Örökösök száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
+| 7. Vagyoni értékű jogszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
+| 9. Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10. Hagyatékátadó végzések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
+| 11. Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Hagyatékátadó végzések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12. Örökösök száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1.2. Ajándékozási illeték
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Megnevezés | A) Lakás (tanya, családi ház, sorház stb.) | B) Garázs | C) Telek | D) Termőföld | E) Iroda | F) Szálloda | G) Keres- kedelmi üzlet (étterem, bolt stb.) | H) Ipari létesítmény (üzem, gyár, műhely, raktár stb.) | I) Mező- gazdasági létesítmény | J) Egyéb nem lakáscélú ingatlan | K) Gépjármű | L) Értékpapír | M) Egyéb ingó | N) Összesen | O) Összesen (halmozódás nélkül) |
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Tulajdonszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Örökösök száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. Ajándékozási szerződések, bejelentések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. Ajándékozottak száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. Vagyoni értékű jog szerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Vagyoni értékű jogszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10. Ajándékozási szerződések, bejelentések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11. Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12. Ajándékozottak száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1.3. Visszterhes vagyonátruházási illeték
 
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Megnevezés | A) Lakás (tanya, családi ház, sorház stb.) | B) Garázs | C) Telek | D) Termőföld | E) Iroda | F) Szálloda | G) Keres- kedelmi üzlet (étterem, bolt stb.) | H) Ipari létesítmény (üzem, gyár, műhely, raktár stb.) | I) Mező- gazdasági létesítmény | J) Egyéb nem lakáscélú ingatlan | K) Gépjármű | L) Belföldi ingatlan- vagyonnal rendelkező társaságban történő vagyoni betét szerzése | M) Értékpapír | N) Egyéb ingó | O) Összesen | P) Összesen (halmozódás nélkül) |
 
-| Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Tulajdonszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. Szerződések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Hagyatékátadó végzések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. Vagyonszerzők száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. Vagyoni értékű jogszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10. Szerződések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11. Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Örökösök száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12. Vagyonszerzők száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1.4. Eljárási illeték
 
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| minden más örökös szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-1.2 Ajándékozási illeték
-
-| Megnevezés | 1. Lakás (tanya, családi ház, sorház stb.) | 2. Garázs | 3. Telek | 4. Termő- föld | 5. Iroda | 6. Szálloda | 7. Kereske- delmi üzlet (étterem, bolt stb.) | 8. Ipari létesítmény (üzem, gyár, műhely, raktár stb.) | 9. Mezőgaz- dasági létesítmény | 10. Egyéb nem lakáscélú ingatlan | 11. Gép- jármű | 12. Érték- papír | 13. Egyéb ingó | 14. Összesen | 15. Összesen (halmo- zódás nélkül) |
-
-| Tulajdonszerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Ajándékozási szerződések, bejelentések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Ajándékozottak száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Vagyoni értékű jog szerzés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | _ |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Ajándékozási szerződések, bejelentések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Ajándékozottak száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-1.3 Visszterhes vagyonátruházási illeték
-
-| Megnevezés | 1. Lakás (tanya, családi ház, sorház stb.) | 2. Garázs | 3. Telek | 4. Termő- föld | 5. Iroda | 6. Szálloda | 7. Kereskedelmi üzlet (étterem, bolt stb.) | 8. Ipari létesítmény (üzem, gyár, műhely, raktár stb.) | 9. Mező- gaz- dasági létesítmény | 10. Egyéb nem lakáscélú ingatlan | 11. Gép- jármű | 12. Belföldi ingatlan- vagyonnal rendelkező társaságban történő vagyoni betét szerzése | 13. Érték- papír | 14. Egyéb ingó | 15. Összesen | 16. Összesen (halmo- zódás nélkül) |
-
-| Tulajdonszerzés |  |
-
-| Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  | – |
-
-| Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  | – |
-
-| Szerződések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  |  |
-
-| Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  | – |
-
-| Vagyonszerzők száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  |  |
-
-| Vagyoni értékű jogszerzés |  |
-
-| Illetékalap (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  |  |
-
-| Kiszabott illeték (Ft) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  | – |
-
-| Szerződések száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  |  |
-
-| Ingatlanok száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  | – |
-
-| Vagyonszerzők száma (db) |  |  |  |  |  |  |  |  |  |  |  |  |  | - |  |  |
-
-1.4 Eljárási illeték
-
-| Megnevezés | Eljárási illeték |  |
+| Megnevezés | Eljárási illeték |
 
 | Fizetésre kötelezettek száma (db) | Ügyek száma (db) | Illeték (Ft) |
 
@@ -306,254 +174,254 @@
 
 | 12. Összesen |  |  |  |
 
-2. Lakás szerzése és lakástulajdonok cseréje esetén fizetendő visszterhes vagyonátruházási illeték előírások alakulása
+2. Lakástulajdonok cseréje esetén fizetendő visszterhes vagyonátruházási illeték előírások alakulása
 
-| Illetékalap (Ft) | Lakástulajdon szerzése [Itv. 21. § (1)–(2) bekezdés, 22. §] | Lakástulajdonok cseréje [Itv. 21. § (3)–(4), (8) bekezdés] |
+| Illetékalap (Ft) | Lakástulajdonok cseréje [Itv. 21. § (2)–(5) bekezdés] |
 
-| Illetékalap (Ft) | Kiszabott illeték (Ft) | Ingatlanok száma (db) | Illetékalap (Ft) | Kiszabott illeték (Ft) | Ügyletek száma (db) |
+| Illetékalap (Ft) | Kiszabott illeték (Ft) | Ügyletek száma (db) |
 
-| 0–1 000 000 |  |  |  |  |  |  |
+| 1. 0–1 000 000 |  |  |  |
 
-| 1 000 001–2 000 000 |  |  |  |  |  |  |
+| 2. 1 000 001–2 000 000 |  |  |  |
 
-| 2 000 001–3 000 000 |  |  |  |  |  |  |
+| 3. 2 000 001–3 000 000 |  |  |  |
 
-| 3 000 001–4 000 000 |  |  |  |  |  |  |
+| 4. 3 000 001–4 000 000 |  |  |  |
 
-| 4 000 001–5 000 000 |  |  |  |  |  |  |
+| 5. 4 000 001–5 000 000 |  |  |  |
 
-| 5 000 001–6 000 000 |  |  |  |  |  |  |
+| 6. 5 000 001–6 000 000 |  |  |  |
 
-| 6 000 001–7 000 000 |  |  |  |  |  |  |
+| 7. 6 000 001–7 000 000 |  |  |  |
 
-| 7 000 001–8 000 000 |  |  |  |  |  |  |
+| 8. 7 000 001–8 000 000 |  |  |  |
 
-| 8 000 001–9 000 000 |  |  |  |  |  |  |
+| 9. 8 000 001–9 000 000 |  |  |  |
 
-| 9 000 001–10 000 000 |  |  |  |  |  |  |
+| 10. 9 000 001–10 000 000 |  |  |  |
 
-| 10 000 001–11 000 000 |  |  |  |  |  |  |
+| 11. 10 000 001–11 000 000 |  |  |  |
 
-| 11 000 001–12 000 000 |  |  |  |  |  |  |
+| 12. 11 000 001–12 000 000 |  |  |  |
 
-| 12 000 001–13 000 000 |  |  |  |  |  |  |
+| 13. 12 000 001–13 000 000 |  |  |  |
 
-| 13 000 001–14 000 000 |  |  |  |  |  |  |
+| 14. 13 000 001–14 000 000 |  |  |  |
 
-| 14 000 001–15 000 000 |  |  |  |  |  |  |
+| 15. 14 000 001–15 000 000 |  |  |  |
 
-| 15 000 001–16 000 000 |  |  |  |  |  |  |
+| 16. 15 000 001–16 000 000 |  |  |  |
 
-| 16 000 001–17 000 000 |  |  |  |  |  |  |
+| 17. 16 000 001–17 000 000 |  |  |  |
 
-| 17 000 001–18 000 000 |  |  |  |  |  |  |
+| 18. 17 000 001–18 000 000 |  |  |  |
 
-| 18 000 001–19 000 000 |  |  |  |  |  |  |
+| 19. 18 000 001–19 000 000 |  |  |  |
 
-| 19 000 001–20 000 000 |  |  |  |  |  |  |
+| 20. 19 000 001–20 000 000 |  |  |  |
 
-| 20 000 001–21 000 000 |  |  |  |  |  |  |
+| 21. 20 000 001–21 000 000 |  |  |  |
 
-| 21 000 001–22 000 000 |  |  |  |  |  |  |
+| 22. 21 000 001–22 000 000 |  |  |  |
 
-| 22 000 001–23 000 000 |  |  |  |  |  |  |
+| 23. 22 000 001–23 000 000 |  |  |  |
 
-| 23 000 001–24 000 000 |  |  |  |  |  |  |
+| 24. 23 000 001–24 000 000 |  |  |  |
 
-| 24 000 001–25 000 000 |  |  |  |  |  |  |
+| 25. 24 000 001–25 000 000 |  |  |  |
 
-| 25 000 001–26 000 000 |  |  |  |  |  |  |
+| 26. 25 000 001–26 000 000 |  |  |  |
 
-| 26 000 001–27 000 000 |  |  |  |  |  |  |
+| 27. 26 000 001–27 000 000 |  |  |  |
 
-| 27 000 001–28 000 000 |  |  |  |  |  |  |
+| 28. 27 000 001–28 000 000 |  |  |  |
 
-| 28 000 001–29 000 000 |  |  |  |  |  |  |
+| 29. 28 000 001–29 000 000 |  |  |  |
 
-| 29 000 001–30 000 000 |  |  |  |  |  |  |
+| 30. 29 000 001–30 000 000 |  |  |  |
 
-| 30 000 000 felett |  |  |  |  |  |  |
+| 31. 30 000 000 felett |  |  |  |
 
-| Összesen |  |  |  |  |  |  |
+| 32. Összesen |  |  |  |
 
 3. Ingatlanforgalmazási célú, ingatlanalap általi, valamint hitelintézeti ingatlanszerzések
 
-| Forgalmi érték sáv (Ft) | Ingatlanalap ingatlanszerzése (Itv. 23/A. §) | Ingatlanforgalmazási célú ingatlanszerzés (Itv. 23/A. §) | Hitelintézeti ingatlanszerzés (legfeljebb három éves időtartamra) (Itv. 23/B. §) |
+|  | A) Ingatlanalap ingatlanszerzése (Itv. 23/A. §) | B) Ingatlanforgalmazási célú ingatlanszerzés (Itv. 23/A. §) | C) Hitelintézeti ingatlanszerzés (legfeljebb három éves időtartamra) (Itv. 23/B. §) |
 
-| Lakás | Termőföld | Egyéb | Lakás | Termőföld | Egyéb | Lakás | Termőföld | Egyéb |
+|  | Lakás | Termőföld | Egyéb | Lakás | Termőföld | Egyéb | Lakás | Termőföld | Egyéb |
 
-| Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- lanok száma (db) |
+| Forgalmi érték sáv (Ft) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) | Ille- ték- alap (Ft) | Ki- sza- bott ille- ték (Ft) | In- gat- la- nok szá- ma (db) |
 
-| 0–1 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. | 0-1 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 000 001–2 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. | 1 000 001-2 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 000 001–3 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | 2 000 001-3 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3 000 001–4 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. | 3 000 001-4 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 4 000 001–5 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. | 4 000 001-5 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5 000 001–6 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. | 5 000 001-6 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6 000 001–7 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. | 6 000 001-7 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 7 000 001–8 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. | 7 000 001-8 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 8 000 001–9 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. | 8 000 001-9 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 9 000 001–10 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10. | 9 000 001-10 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 10 000 001–11 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11. | 10 000 001-11 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11 000 001–12 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12. | 11 000 001-12 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 12 000 001–13 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 13. | 12 000 001-13 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 13 000 001–14 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 14. | 13 000 001-14 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 14 000 001–15 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 15. | 14 000 001-15 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 15 000 001–16 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 16. | 15 000 001-16 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 16 000 001–17 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 17. | 16 000 001-17 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 17 000 001–18 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 18. | 17 000 001-18 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 18 000 001–19 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 19. | 18 000 001-19 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 19 000 001–20 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20. | 19 000 001-20 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 20 000 001–21 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 21. | 20 000 001-21 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 21 000 001–22 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 22. | 21 000 001-22 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 22 000 001–23 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 23. | 22 000 001-23 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 23 000 001–24 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 24. | 23 000 001-24 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 24 000 001–25 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25. | 24 000 001-25 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 25 000 001–26 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 26. | 25 000 001-26 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 26 000 001–27 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 27. | 26 000 001-27 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 27 000 001–28 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 28. | 27 000 001-28 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 28 000 001–29 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 29. | 28 000 001-29 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 29 000 001–30 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 30. | 29 000 001-30 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 30 000 000 felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 31. | 30 000 000 felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 32. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 4. Ingatlan és ingó öröklése
 
-| Illetékalap sáv (Ft) | Örökös által megszerzett tulajdonjog (az egyenes ági mentességet élvező örökösök kivételével) | Egy örökös által szerzett vagyon |
+|  | A) Örökös által megszerzett tulajdonjog [az egyenes ági rokon (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), valamint túlélő házastárs kivételével] | B) Egy örökös által szerzett vagyon |
 
-| Lakás | Termőföld | Egyéb ingatlan | Értékpapír | Egyéb ingó |
+| Illetékalap sáv | Lakás | Termőföld | Egyéb ingatlan | Értékpapír | Egyéb ingó |  |
 
-| Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Örökö- sök száma (db) |
+| (Ft) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Kisza- bott illeték (Ft) | Örökö- sök száma (db) | Illeték- alap (Ft) | Örökö- sök száma (db) |
 
-| 0–100 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. | 0-100 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 100 001–200 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. | 100 001-200 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 200 001–300 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | 200 001-300 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 300 001–400 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. | 300 001-400 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 400 001–500 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. | 400 001-500 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 500 001–600 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. | 500 001-600 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 600 001–700 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. | 600 001-700 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 700 001–800 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. | 700 001-800 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 800 001–900 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. | 800 001-900 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 900 001–1 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10. | 900 001-1 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 000 001–1 100 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11. | 1 000 001-1 100 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 100 001–1 200 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12. | 1 100 001-1 200 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 200 001–1 300 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 13. | 1 200 001-1 300 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 300 001–1 400 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 14. | 1 300 001-1 400 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 400 001–1 500 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 15. | 1 400 001-1 500 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 500 001–1 600 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 16. | 1 500 001-1 600 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 600 001–1 700 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 17. | 1 600 001-1 700 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 700 001–1 800 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 18. | 1 700 001-1 800 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 800 001–1 900 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 19. | 1 800 001-1 900 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 900 001–2 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20. | 1 900 001-2 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 000 001–3 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 21. | 2 000 001-3 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3 000 001–4 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 22. | 3 000 001-4 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 4 000 001–5 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 23. | 4 000 001-5 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5 000 001–6 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 24. | 5 000 001-6 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6 000 001–7 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25. | 6 000 001-7 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 7 000 001–8 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 26. | 7 000 001-8 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 8 000 001–9 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 27. | 8 000 001-9 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 9 000 001–10 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 28. | 9 000 001-10 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 10 000 001–11 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 29. | 10 000 001-11 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11 000 001–12 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 30. | 11 000 001-12 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 12 000 001–13 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 31. | 12 000 001-13 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 13 000 001–14 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 32. | 13 000 001-14 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 14 000 001–15 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 33. | 14 000 001-15 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 15 000 001–16 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 34. | 15 000 001-16 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 16 000 001–17 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 35. | 16 000 001-17 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 17 000 001–18 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 36. | 17 000 001-18 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 18 000 001–19 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 37. | 18 000 001-19 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 19 000 001–20 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 38. | 19 000 001-20 000000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 20 000 001–21 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 39. | 20 000 001-21 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 21 000 001–22 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40. | 21 000 001-22 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 22 000 001–23 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 41. | 22 000 001-23 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 23 000 001–24 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 42. | 23 000 001-24 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 24 000 001–25 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 43. | 24 000 001-25 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 25 000 001–26 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 44. | 25 000 001-26 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 26 000 001–27 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 45. | 26 000 001-27 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 27 000 001–28 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 46. | 27 000 001-28 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 28 000 001–29 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 47. | 28 000 001-29 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 29 000 001–30 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 48. | 29 000 001-30 000 000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 30 000 000 felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 49. | 30 000 000 felett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 50. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^12]: A 4. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (4) bekezdése, a 31/2009. (XII. 18.) PM rendelet 7. §-a és 11. § d) pontja, az 52/2011. (XII. 29.) NGM rendelet 8. § és 10. §-a szerint módosított szöveg.
+[^15]: A 4. számú melléklet a 46/2012. (XII. 27.) NGM rendelet 20. § (2) bekezdésével megállapított szöveg.

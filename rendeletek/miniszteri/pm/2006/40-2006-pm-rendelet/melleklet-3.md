@@ -1,3 +1,3 @@
-3. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^11]
+3. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^14]
 
-[^11]: A 3. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított, a 31/2009. (XII. 18.) PM rendelet 11. § d) pontja, az 52/2011. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^14]: A 3. számú melléklet a 46/2012. (XII. 27.) NGM rendelet 20. § (1) bekezdésével megállapított szöveg. [A 48/2012. (XII. 28.) NGM rendelet 11. § b) pontjával elrendelet módosítás, amely szerint a 3. számú melléklet táblázatának 14. pontjában az „okmányirodában” szövegrész helyébe a „járási (fővárosi kerületi) hivatalban” szöveg lép, nem vezethető át.]
