@@ -8,8 +8,11 @@ a) a hivatásos állomány tagja,
 
 b) az alapellátást végző orvos,
 
-c) az állományilletékes parancsnok vagy a szolgálati elöljáró.
+c)[^37] a munkáltatói jogkör gyakorlója vagy a szolgálati elöljáró.
 
-(3) A felülvizsgálat kezdeményezéséről a hivatásos állomány tagja haladéktalanul, de legkésőbb 8 munkanapon belül köteles jelentést tenni, az alapellátást végző orvos pedig tájékoztatást adni az állományilletékes parancsnoknak.
+(3)[^38] A felülvizsgálat kezdeményezéséről a hivatásos állomány tagja haladéktalanul, de legkésőbb 8 munkanapon belül köteles jelentést tenni, az alapellátást végző orvos pedig tájékoztatást adni a munkáltatói jogkör gyakorlójának.
 
 (4) A felülvizsgálat iránti kérelmet az Elsőfokú FÜV Bizottság elnökének kell megküldeni, aki intézkedik a FÜV eljárás lefolytatása iránt.
+
+[^37]: A 29. § (2) bekezdés c) pontja az 53/2012. (XII. 29.) NGM rendelet 8. § (9) bekezdése szerint módosított szöveg.
+[^38]: A 29. § (3) bekezdése az 53/2012. (XII. 29.) NGM rendelet 8. § (11) bekezdése szerint módosított szöveg.

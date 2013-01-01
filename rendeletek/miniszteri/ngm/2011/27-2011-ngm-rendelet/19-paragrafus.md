@@ -2,7 +2,7 @@
 
 19. § (1) A szolgálati viszony fennállása alatt, az alkalmassági követelményeknek való megfelelés rendszeres ellenőrzése érdekében, a hivatásos állomány minden tagjánál időszakos egészségi, pszichikai alkalmassági vizsgálatokat és fizikai állapotfelmérést kell végezni.
 
-(2)[^1] Az időszakos alkalmassági vizsgálat során a 12. § (1) bekezdésben meghatározottak figyelembevételével a kockázatértékelés eredményének megfelelő időközönként, de
+(2)[^32] Az időszakos alkalmassági vizsgálat során a 12. § (1) bekezdésben meghatározottak figyelembevételével a kockázatértékelés eredményének megfelelő időközönként, de
 
 a) az egészségügyi alkalmassági vizsgálatot legalább évente,
 
@@ -14,4 +14,4 @@ kell elvégezni.
 
 (4) Az időszakos alkalmassági vizsgálatot végző orvos a vizsgálat eredménye alapján a következő egészségi és pszichikai alkalmassági vizsgálatra a (2) bekezdésben előírtnál rövidebb időt is megállapíthat.
 
-[^1]: A 19. § (2) bekezdése az 53/2011. (XII. 29.) NGM rendelet 4. §-ával megállapított szöveg.
+[^32]: A 19. § (2) bekezdése az 53/2011. (XII. 29.) NGM rendelet 4. §-ával megállapított szöveg.

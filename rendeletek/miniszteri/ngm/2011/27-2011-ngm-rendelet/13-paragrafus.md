@@ -30,10 +30,12 @@ b) 16 pont felett „Megfelelő”.
 
 (6) Ha a hivatásos állomány tagja „Fizikai terhelhetősége jelenleg nem megfelelő, hat hónapon belül ismételt vizsgálata szükséges” minősítést kapott, az ismételt állapotfelmérésre a hat hónapon belül egy alkalommal kerülhet sor, melyet az előző felmérést követően legkorábban 30 naptári nap elteltével lehet végrehajtani. Amennyiben a hivatásos állományú tag az ismételt fizikai állapotfelmérés során „Nem megfelelő” értékelést kap, akkor „Fizikai állapota nem megfelelő” minősítést kell adni.
 
-(7) Ha a hivatásos állomány tagja „Fizikai állapota nem megfelelő” minősítést kapott, az ismételt fizikai állapotfelmérés során az alapellátást végző orvos bevonásával vizsgálni kell a kiváltó okokat, az érintett személy szolgálati beosztás, munkakör ellátására való alkalmasságát.
+(7)[^27] Ha a hivatásos állomány tagja „Fizikai állapota nem megfelelő” minősítést kapott, az ismételt fizikai állapotfelmérés során az alapellátást végző orvos bevonásával vizsgálni kell a kiváltó okokat, az érintett személy munkakör ellátására való alkalmasságát.
 
 (8) „A fizikai alkalmassági követelmények kondicionális eredmény pontérték táblázatát”, valamint „Az egyes feladatok végrehajtásának követelményeit és rendjét” a 2. melléklet tartalmazza.
 
 (9) A NAV speciális bevetési alegység tagjaira vonatkozó fizikai alkalmassági követelményeket a 2. melléklet tartalmazza.
 
 (10) A minősítést a 2. melléklet 3. függeléke szerinti nyomtatványra kell rávezetni.
+
+[^27]: A 13. § (7) bekezdése az 53/2012. (XII. 29.) NGM rendelet 9. § 1. pontja szerint módosított szöveg.

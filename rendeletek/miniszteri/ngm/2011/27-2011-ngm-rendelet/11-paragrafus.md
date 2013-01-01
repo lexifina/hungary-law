@@ -14,6 +14,8 @@
 
 (7) „Pszichológiai követelményeknek nem felelt meg” minősítést kell megállapítani, ha a vizsgált személy nem felel meg a hivatásos szolgálat ellátásával összefüggésben támasztott szellemi, érzékelési, személyiségbeli és pályamotivációs követelményeknek.
 
-(8) „A tervezett szolgálati beosztás, munkakör pszichológiai követelményeinek nem felel meg” minősítést kell megállapítani, ha a vizsgált személy nem felel meg a betöltendő szolgálati beosztás, munkakör ellátásával összefüggésben támasztott szellemi, érzékelési, személyiségbeli és pályamotivációs követelményeknek.
+(8)[^26] „A tervezett munkakör pszichológiai követelményeinek nem felel meg” minősítést kell megállapítani, ha a vizsgált személy nem felel meg a betöltendő munkakör ellátásával összefüggésben támasztott szellemi, érzékelési, személyiségbeli és pályamotivációs követelményeknek.
 
 (9) A minősítést a 12. melléklet 1. függeléke szerinti nyomtatványra kell rávezetni.
+
+[^26]: A 11. § (8) bekezdése az 53/2012. (XII. 29.) NGM rendelet 9. § 1. pontja szerint módosított szöveg.

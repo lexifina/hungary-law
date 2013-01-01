@@ -2,7 +2,7 @@
 
 (2) Az 1. mellékletben a betegségek és fogyatékosságok felsorolása a „Betegségek Nemzetközi Osztályozása” (BNO) kiadványban foglaltak alapján történik.
 
-(3) A Táblázat római számmal jelölt alkalmassági kategóriáiba a hivatásos állomány tagját szolgálati beosztásának, munkakörének megfelelően, az 1. melléklet 1. függelékében foglaltak szerint kell besorolni.
+(3)[^24] A Táblázat római számmal jelölt alkalmassági kategóriáiba a hivatásos állomány tagját munkakörének megfelelően, az 1. melléklet 1. függelékében foglaltak szerint kell besorolni.
 
 (4) A Táblázat rovatai és a kapcsolódó magyarázatok az egészségi alkalmassági fokozatokat nyomtatott nagybetűvel jelölik, a következők szerint:
 
@@ -18,4 +18,7 @@ c) „Egészségileg alkalmatlan” („AN”).
 
 (7) A NAV speciális bevetési egységének tagjaira vonatkozó egyéb egészségi követelményeket az 1. melléklet tartalmazza.
 
-(8) „A tervezett szolgálati beosztás, munkakör egészségi követelményeinek nem felel meg” minősítést kell megállapítani, ha a vizsgált személy nem felel meg a betöltendő szolgálati beosztás, munkakör ellátásával összefüggésben támasztott egészségi követelményeknek.
+(8)[^25] „A tervezett munkakör egészségi követelményeinek nem felel meg” minősítést kell megállapítani, ha a vizsgált személy nem felel meg a betöltendő munkakör ellátásával összefüggésben támasztott egészségi követelményeknek.
+
+[^24]: A 9. § (3) bekezdése az 53/2012. (XII. 29.) NGM rendelet 9. § 11. pontja szerint módosított szöveg.
+[^25]: A 9. § (8) bekezdése az 53/2012. (XII. 29.) NGM rendelet 9. § 1. pontja szerint módosított szöveg.

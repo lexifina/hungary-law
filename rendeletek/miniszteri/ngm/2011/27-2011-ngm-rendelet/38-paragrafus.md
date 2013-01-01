@@ -9,3 +9,7 @@
 (4) A FÜV táblát a bizottság tagjai aláírják és személyi orvosi bélyegzőjükkel hitelesítik. A FÜV határozatot kizárólag az elnök írja alá, és a FÜV Bizottság bélyegzőjével hitelesíti.
 
 (5) Alkalmatlanság megállapítása esetén a FÜV Bizottságnak a minősítés jogerőre emelkedéséig, továbbá a személyügyi eljárás kezdetéig a hivatásos állomány tagjának egészségügyi szabadságot kell engedélyeznie.
+
+(6)[^49] A minősítő határozattal rendelkező személyeknél, ha a FÜV Bizottság „Hivatásos szolgálatra alkalmatlan” döntést hoz, a határozat rendelkező részében nyilatkozik az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel való összefüggéséről.
+
+[^49]: A 38. § (6) bekezdését az 53/2012. (XII. 29.) NGM rendelet 5. § (5) bekezdése iktatta be.

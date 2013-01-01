@@ -1,6 +1,6 @@
 ## 52. § Hatályát veszti a Vám-és Pénzügyőrség hivatásos állományának egészségi, pszichikai és fizikai alkalmasságának vizsgálatáról szóló 20/2008. (VI. 19.) PM rendelet.
 
-1. melléklet a 27/2011. (VII. 26.) NGM rendelethez
+1. melléklet a 27/2011. (VII. 26.) NGM rendelethez[^58]
 
 Betegségek Táblázata és magyarázat az egészségi alkalmassági fokozat megállapításához
 
@@ -2200,34 +2200,4 @@ Fertőzéses izomgyulladások. Myositis ossificans. Inaktívitási izomatrophiá
 
 Az enyhe, konzervatív kezeléssel gyógyítható esetek a fokozott fizikai megterhelések alól megszabott időre felmentendők. A ritkán előforduló súlyos állapotok (myositis ossificans, recidiváló izomsérvek, nagyfokú mozgáskorlátozottsággal járó ízületi contractúrák stb.) „AN” minősítést igényelnek. Ht. állományba vételt megelőzően csak „AN” minősítés adható.
 
-| 168 | Csontvelő-, és csonthártyagyulladás és a csontok egyéb fertőzései | I. | II. | III. | IV. | S | K | BNO |
-
-| 1. | enyhe | E | E | E | E | E | E | M 86 |
-
-| 2. | kp. súlyos | AN | AN | AN | AN | AN | AN |
-
-| 3. | súlyos | AN | AN | AN | AN | AN | AN |
-
-Osteomyelitis akuta (fiatalkori haematogén eredetű is), osteomyelitis chronica. Brodie-tályog. Garré-féle osteomyelitis. A csontot is érintő gennyes ízületi gümőkór és egyéb specificus csontelváltozások (pl. syphilis stb.). Periostitisek. Gyermekbénulásból eredő osteopathia.
-
-A fertőző csontízületi betegségek minősítése a gyógyulás után, a maradvány panaszok-tünetek egyéni elbírálása alapján történik. A teljes gyógyulással járó gyerekkori esetek: „E”. A specificus elváltozások általában „AN” minősítést igényelnek.
-
-Kivételt képezhetnek a jó gyógyhajlamú, localisalt esetek (pl. spina ventosa).
-
-Az idültté vált, esetleg sipolyozó csontgyulladások, amelyek rtg. felvételeken észlelhető csontdestructiot okoztak, „AN” minősítést vonnak maguk után.
-
-| 169 | Osteochondrosisok, valamint a porc és a csont egyéb betegségei | I. | II. | III. | IV. | S | K | BNO |
-
-| 1. | enyhe | E | E | E | E | AN | E | M 91-M 99 M 81 |
-
-| 2. | kp. súlyos | AN | AN | AN | AN | AN | AN |
-
-| 3. | súlyos | AN | AN | AN | AN | AN | AN |
-
-Osteochondrosis spinae juvenilis (M. Scheuermann) a 165. szakasz szerint minősítendő. A medence és a csípő osteochondrosisa (M. Perthes), epiphyseolysis capitis femoris non traumatica. A felső és alsó végtagok juvenilis osteochondrosisai (pl. Schlatter-Osgood-féle kór), vertebra plana (Calvé), osteochondritis dissecans, pathologiás csonttörés, csontcysta, Titze-syndroma, álízület, asepticus csontelhalás, osteoporosis.
-
-A Titze-syndroma minősítése a 169.1. szerint történik. A felső és az alsó végtagok juvenilis osteochondrosisainak egy része (pl. M. Köhler II.) műtéttel gyógyítható.
-
-A súlyosabb formák (pl. Perthes-kór utáni jelentős mozgászavarral járó esetek, pathologiás törések stb.) „AN” minősítést igényelnek.
-
-Ht. állományba vételt megelőzően csak „AN” minősítés adható.
+[^58]: Az 1. melléklet az 53/2012. (XII. 29.) NGM rendelet 7. §-a szerint módosított szöveg.

@@ -22,4 +22,6 @@ i) nők esetében a nőgyógyászati és nőgyógyászati citológiai vizsgálat
 
 j) szükség esetén az egyéb, kiterjedtebb diagnosztikus és szakorvosi vizsgálatokra.
 
-(2) A döntés kialakításához szükség esetén egyéb kiegészítő vizsgálatok, a speciális szolgálati beosztások, munkakörök esetében célzott jellegű vizsgálatok is elvégezhetők.
+(2)[^23] A döntés kialakításához szükség esetén egyéb kiegészítő vizsgálatok, a speciális munkakörök esetében célzott jellegű vizsgálatok is elvégezhetők.
+
+[^23]: A 8. § (2) bekezdése az 53/2012. (XII. 29.) NGM rendelet 9. § 10. pontja szerint módosított szöveg.
