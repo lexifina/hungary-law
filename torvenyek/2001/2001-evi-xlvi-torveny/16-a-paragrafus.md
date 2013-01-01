@@ -1,17 +1,27 @@
-16/A. § A konzuli szolgálat a konzuli tisztviselőkről nyilvántartást vezet, amely tartalmazza a konzuli tisztviselő:
+16/A. § (1) A konzuli szolgálat a konzuli tisztviselőkről, valamint a diplomáciai vagy hivatásos konzuli képviseleteken igazgatási munkakörben konzuli feladatot ellátó személyekről nyilvántartást vezet.
 
-a) természetes személyazonosító adatait;
+(2) A konzuli tisztviselőkről vezetett nyilvántartás az alábbi adatokat tartalmazza:
 
-b) arcképmását;
+a) természetes személyazonosító adatok;
 
-c) aláírásmintáját;
+b) arcképmás;
 
-d) diplomáciai és konzuli rangját;
+c) aláírásminta;
 
-e) nyelvismeretét;
+d) diplomáciai és konzuli rang;
 
-f) végzettségét és a konzuli feladatok ellátása szempontjából lényeges képzettségeit, illetőleg ezek megszerzésének időpontját;
+e) nyelvismeret;
 
-g) konzuli feladat ellátására kapott kinevezését, megbízását, engedélyét, valamint a megbízás visszavonását, illetőleg az ezekkel összefüggésben kiállított dokumentumokat és adatokat;
+f) végzettség és a konzuli feladatok ellátása szempontjából lényeges képzettség, illetőleg ezek megszerzésének időpontja;
 
-h) konzuli jogosítványait, azok gyakorolhatóságának kezdő és befejező időpontját.
+g) konzuli feladat ellátására kapott kinevezés, megbízás, engedély, valamint a megbízás visszavonása, illetőleg az ezekkel összefüggésben kiállított dokumentumok és adatok;
+
+h) konzuli jogosítványok és egyéb felhatalmazások, azok gyakorolhatóságának kezdő és befejező időpontja.
+
+(3) A diplomáciai vagy hivatásos konzuli képviseleteken igazgatási munkakörben konzuli feladatot ellátó személyekről vezetett nyilvántartás az alábbi adatokat tartalmazza:
+
+a) természetes személyazonosító adatok;
+
+b) munkakörhöz tartozó konzuli feladatok;
+
+c) konzuli feladatok ellátásához szükséges jogosultságok, azok gyakorolhatóságának kezdő és befejező időpontja.

@@ -8,7 +8,7 @@
 
 a) az 5. § (2) bekezdés a) pontja szerinti úti okmányok kiállítása,
 
-b) konzuli kölcsön nyújtása,
+b) hazatérési kölcsön nyújtása,
 
 c) halottszállítási engedély kiállítása.
 
@@ -22,6 +22,6 @@ c) halottszállítási engedély kiállítása.
 
 (8) A konzuli tisztviselő a közigazgatási hatósági eljárásokban kizárólag a jogszabályoknak, valamint a vonatkozó nemzetközi jogi szabályoknak van alávetve, hatósági eljárása során és hatósági döntéseinek tartalmával összefüggésben – a feladat elvégzésére vagy mulasztás pótlására irányuló utasítás kivételével – nem utasítható.
 
-(9) Az Európai Unió polgárának érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
+(9) Az uniós polgár érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
 
 (10) Ha az eljárásban a fogadó állam hatóságának megkeresése vagy diplomáciai, illetve konzuli futárposta igénybevétele szükséges, a megkeresés teljesítésének időtartama vagy a posta továbbításához szükséges idő az eljárási határidőbe nem számít bele.

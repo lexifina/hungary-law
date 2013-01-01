@@ -14,7 +14,7 @@ f) személyazonosító okmányának okmányazonosító adatai,
 
 g) a védelem biztosításához szükséges egyéb adatok.
 
-(2) A konzuli szolgálat az érdekvédelem során birtokába került személyes adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató magyar hatóság vagy a magyar nemzetbiztonsági szolgálatok megkeresése esetén, valamint a (3) és (4) bekezdésben foglalt kivételekkel – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. E törvény 14. §-ában foglalt konzuli okiratokról és tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
+(2) A konzuli szolgálat az érdekvédelem során birtokába került személyes adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató magyar hatóság, a rendőrségről szóló törvényben meghatározott, a bajba jutott magyar állampolgárok mentésére, hazatérésük biztosítására, illetve az evakuálás végrehajtására irányuló feladatainak ellátásával összefüggésben a terrorizmust elhárító szerv vagy a magyar nemzetbiztonsági szolgálatok megkeresése, valamint a (3) és (4) bekezdésben foglaltak kivételével – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. A 14. §-ban foglalt konzuli tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
 
 (3) A közeli hozzátartozó érdeklődése esetén, amennyiben az érintett személy baleset, fogva tartás vagy más ok miatt nincs abban a helyzetben, hogy maga vegye fel a kapcsolatot közeli hozzátartozójával, illetve holléte ismeretlen, a konzuli szolgálat vélelmezi az érdekelt magyar állampolgár hozzájárulását az ügyről adott tájékoztatáshoz, feltéve, hogy a konzuli szolgálatnak nincs tudomása az érintett és közeli hozzátartozójának érdekei között fennálló nyilvánvaló ellentétről. Amint a konzuli szolgálatnak sikerül kapcsolatba lépnie az érintettel, felkéri arra, hogy nyilatkozzon: közeli hozzátartozójának adható-e a továbbiakban tájékoztatás.
 
@@ -22,7 +22,7 @@ g) a védelem biztosításához szükséges egyéb adatok.
 
 (5) A kérelemre indult eljárásban a konzuli védelem ellátására irányuló kérelem magába foglalja az annak biztosításához szükséges adatok kezeléséhez való hozzájárulást is az érdekérvényesítéshez szükséges körben. Erről a konzuli szolgálat a kérelmezőt kérelmének előterjesztésekor tájékoztatja.
 
-(6) Az Európai Unió polgára érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat az Európai Unió tagállama konzuli szolgálatának.
+(6) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat az Európai Unió tagállama konzuli szolgálatának.
 
 (7) Az adatszolgáltatásról nyilvántartást kell vezetni. A nyilvántartás tartalmazza:
 

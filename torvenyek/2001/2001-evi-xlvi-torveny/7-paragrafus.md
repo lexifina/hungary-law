@@ -8,4 +8,4 @@
 
 (4) Evakuálásra csak az érintett vagy törvényes képviselője egyetértésével kerülhet sor. Amennyiben a törvényes képviselő nyilatkozatának beszerzésével járó késedelem a magyar állampolgár életét, testi épségét veszélyezteti, a konzuli szolgálat az érintett magyar állampolgár nyilatkozatát is figyelembe véve, az eset összes körülményének mérlegelésével hoz döntést az evakuálásról.
 
-(5) A magyar állampolgárok az e § szerinti intézkedések végrehajtásának előmozdítása érdekében az erre a célra fenntartott honlap igénybevételével előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
+(5)

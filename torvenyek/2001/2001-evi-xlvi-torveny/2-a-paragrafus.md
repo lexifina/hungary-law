@@ -6,4 +6,4 @@
 
 (4) A konzuli szolgálat, érdekvédelmi feladatainak ellátása során, szükség esetén közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi segítséghez jusson.
 
-(5) A magyar állampolgárok, a konzuli védelem előmozdítása érdekében, az erre a célra fenntartott honlap igénybevételével előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
+(5) A magyar állampolgárok, a konzuli védelem előmozdítása érdekében, az erre a célra fenntartott honlapon keresztül vagy egyedi informatikai alkalmazás igénybevételével, illetve ezek hiányában postai úton előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
