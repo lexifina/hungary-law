@@ -1,10 +1,10 @@
-## 66/A. §[^96]
+## 66/A. §[^107]
 
-67. §[^97] (1)[^98] A Hszt. 2. § e) pontjában meghatározott vezetők és helyetteseik, a Nemzeti Adó- és Vámhivatal elnöke és elnökhelyettesei, a Terrorelhárítási Központ főigazgatója és főigazgató-helyettese, valamint a Nemzeti Védelmi Szolgálat főigazgatója és helyettesei (a továbbiakban együtt: vezető) vezetői juttatásokra jogosultak, e jogosultságuk a vezetői megbízásuk időtartamára áll fenn.
+67. §[^108] (1)[^109] A Hszt. 2. § e) pontjában meghatározott vezetők és helyetteseik, a Nemzeti Adó- és Vámhivatal elnöke és elnökhelyettesei, a Terrorelhárítási Központ főigazgatója és főigazgató-helyettese, a Nemzeti Védelmi Szolgálat főigazgatója és helyettesei, valamint az Országgyűlési Őrség parancsnoka és helyettese (a továbbiakban együtt: vezető) vezetői juttatásokra jogosultak, e jogosultságuk a vezetői megbízásuk időtartamára áll fenn.
 
 (2) A juttatások költségvetési fedezetét annak a szervezetnek a költségvetéséből kell biztosítani, amelyben a jogosult vezető a megbízatásából adódó feladatait teljesíti.
 
-(3)[^99] A vezető részére hivatali lakás használatát lehet biztosítani, ha – a vele közös háztartásban élő házastársa (élettársa, bejegyzett élettársa) lakásviszonyait is figyelembe véve – Budapesten vagy közvetlen vonzáskörzetében megfelelő lakással nem rendelkezik.
+(3)[^110] A vezető részére hivatali lakás használatát lehet biztosítani, ha – a vele közös háztartásban élő házastársa (élettársa, bejegyzett élettársa) lakásviszonyait is figyelembe véve – Budapesten vagy közvetlen vonzáskörzetében megfelelő lakással nem rendelkezik.
 
 (4) A hivatali lakással való ellátás keretében használt lakás a jogosult részére nem idegeníthető el, a lakásra vonatkozó tartási szerződéshez hozzájárulás nem adható, illetőleg a jogosult halála esetén a bérleti jogviszony nem folytatható.
 
@@ -18,34 +18,34 @@
 
 (9) A vezető hivatalos külföldre utazás és külföldről történő hazautazás esetén, illetőleg külföldi állami vezetők vagy a fogadóval azonos szintű vezető fogadása (kísérése) céljából jogosult a kormányváró-helyiségek használatára, továbbá jogosult diplomata útlevélre. Magáncélú utazás esetén a kormányváró használata, illetve a diplomata útlevél nem illeti meg.
 
-(10)[^100] A szervezetet felügyelő vagy irányító miniszter belső szabályzatban állapítja meg a felügyelete vagy irányítása alá tartozó szerv állományába tartozó vezető számára biztosított rádiótelefon- és internet-használati jogosultság részletes szabályait.
+(10)[^111] A szervezetet felügyelő vagy irányító miniszter belső szabályzatban állapítja meg a felügyelete vagy irányítása alá tartozó szerv állományába tartozó vezető számára biztosított rádiótelefon- és internet-használati jogosultság részletes szabályait.
 
-(11)[^101] A vezetőt a (11a)–(11e) bekezdés szerint személyes gépkocsihasználat illeti meg. A személyes gépkocsi-használat keretében biztosított személygépkocsi hivatalos és magáncélú utazásra egyaránt igénybe vehető. A személygépkocsi menetlevél nélkül, érvényes forgalmi engedéllyel vehet részt a közúti forgalomban.
+(11)[^112] A vezetőt a (11a)–(11e) bekezdés szerint személyes gépkocsihasználat illeti meg. A személyes gépkocsi-használat keretében biztosított személygépkocsi hivatalos és magáncélú utazásra egyaránt igénybe vehető. A személygépkocsi menetlevél nélkül, érvényes forgalmi engedéllyel vehet részt a közúti forgalomban.
 
-(11a)[^102] A személyes gépkocsihasználat keretében biztosított személygépkocsit az országos parancsnok, a Nemzeti Adó- és Vámhivatal elnöke, a Terrorelhárítási Központ főigazgatója, valamint a Nemzeti Védelmi Szolgálat főigazgatója gépjárművezető biztosításával korlátlan kilométerkeret felhasználásával veheti igénybe.
+(11a)[^113] A személyes gépkocsihasználat keretében biztosított személygépkocsit az országos parancsnok, a Nemzeti Adó- és Vámhivatal elnöke, a Terrorelhárítási Központ főigazgatója, a Nemzeti Védelmi Szolgálat főigazgatója, valamint az Országgyűlési Őrség parancsnoka gépjárművezető biztosításával korlátlan kilométerkeret felhasználásával veheti igénybe.
 
-(11b)[^103] A (11a) bekezdésben meghatározott vezetők helyettesei részére – a (11a) bekezdésben meghatározott vezetők javaslatára – a fegyveres szervet irányító miniszter személyes gépkocsihasználatot engedélyezhet, melynek során meghatározza a havi térítésmentes gépkocsi futásteljesítményt.
+(11b)[^114] A (11a) bekezdésben meghatározott vezetők helyettesei részére – a (11a) bekezdésben meghatározott vezetők javaslatára – a fegyveres szervet irányító miniszter személyes gépkocsihasználatot engedélyezhet, melynek során meghatározza a havi térítésmentes gépkocsi futásteljesítményt.
 
-(11c)[^104] A (11b) bekezdésben meghatározott igényjogosult a gépkocsi kilométer-számlálójának állását minden naptári hónap utolsó napján köteles az erre szolgáló nyomtatványon rögzíteni. A nyilvántartás szerinti havi futásteljesítmény azon része után, amely a miniszteri engedélyben meghatározott mértéket meghaladja, az igényjogosult köteles a gépkocsit üzemben tartó szerv részére az üzemanyagköltséget a fizetési kötelezettség tudomására jutásától számított 30 napon belül megtéríteni. Nem vonatkozik a megtérítési kötelezettség a térítésmentes futásteljesítmény elérését követően a tárgyhónap során megtett azon utakra, amelyek hivatalos jellegét a jogosult tételes menetlevéllel igazolja.
+(11c)[^115] A (11b) bekezdésben meghatározott igényjogosult a gépkocsi kilométer-számlálójának állását minden naptári hónap utolsó napján köteles az erre szolgáló nyomtatványon rögzíteni. A nyilvántartás szerinti havi futásteljesítmény azon része után, amely a miniszteri engedélyben meghatározott mértéket meghaladja, az igényjogosult köteles a gépkocsit üzemben tartó szerv részére az üzemanyagköltséget a fizetési kötelezettség tudomására jutásától számított 30 napon belül megtéríteni. Nem vonatkozik a megtérítési kötelezettség a térítésmentes futásteljesítmény elérését követően a tárgyhónap során megtett azon utakra, amelyek hivatalos jellegét a jogosult tételes menetlevéllel igazolja.
 
-(11d)[^105] A (11b) bekezdés szerinti helyettesek személyes gépkocsihasználatához – az egy épületen belül elhelyezett, azonos szervezeti egységhez tartozó igényjogosultak számával arányos mértékben – 1–3 igényjogosult esetén 1 fő, 4–6 igényjogosult esetén 2 fő gépkocsivezető biztosítható. Amennyiben a személyes gépkocsihasználatra jogosult érvényes vezetői engedéllyel nem rendelkezik, vagy egészségügyi állapota folytán, vagy más okból járművezetésre nem képes, számára állandó jelleggel gépkocsivezetőt kell biztosítani.
+(11d)[^116] A (11b) bekezdés szerinti helyettesek személyes gépkocsihasználatához – az egy épületen belül elhelyezett, azonos szervezeti egységhez tartozó igényjogosultak számával arányos mértékben – 1–3 igényjogosult esetén 1 fő, 4–6 igényjogosult esetén 2 fő gépkocsivezető biztosítható. Amennyiben a személyes gépkocsihasználatra jogosult érvényes vezetői engedéllyel nem rendelkezik, vagy egészségügyi állapota folytán, vagy más okból járművezetésre nem képes, számára állandó jelleggel gépkocsivezetőt kell biztosítani.
 
-(11e)[^106] Személyes gépkocsihasználat címén a (11a) bekezdésben meghatározott vezetőt legfeljebb felső középkategóriájú (8. kategória), a (11a) bekezdésben meghatározott vezetők helyetteseit legfeljebb felső középkategóriájú (7. kategória) személygépkocsi használata illeti meg. Amennyiben a rendelkezésre álló járműállomány nem teszi lehetővé ilyen kategóriájú gépkocsi biztosítását, ideiglenesen eltérő kategóriájú gépkocsi is kiadható. A személygépkocsi-kategóriákra a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet felhatalmazása alapján kiadott, az országosan kiemelt termékekre vonatkozó állami normatívarendszerről szóló 8002/2007. (XI. 21.) MeHVM tájékoztató az irányadó.
+(11e)[^117] Személyes gépkocsihasználat címén a (11a) bekezdésben meghatározott vezetőt legfeljebb felső középkategóriájú (8. kategória), a (11a) bekezdésben meghatározott vezetők helyetteseit legfeljebb felső középkategóriájú (7. kategória) személygépkocsi használata illeti meg. Amennyiben a rendelkezésre álló járműállomány nem teszi lehetővé ilyen kategóriájú gépkocsi biztosítását, ideiglenesen eltérő kategóriájú gépkocsi is kiadható. A személygépkocsi-kategóriákra a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet felhatalmazása alapján kiadott, az országosan kiemelt termékekre vonatkozó állami normatívarendszerről szóló 8002/2007. (XI. 21.) MeHVM tájékoztató az irányadó.
 
-(12)[^107] A vezető jogosult a Kormány központi üdülőjének használatára. Az üdülőt az igényjogosulttal együtt üdülő házastársa (élettársa, bejegyzett élettársa), gyermeke, gyermekének házastársa, továbbá szülője és unokája is igénybe veheti.
+(12)[^118] A vezető jogosult a Kormány központi üdülőjének használatára. Az üdülőt az igényjogosulttal együtt üdülő házastársa (élettársa, bejegyzett élettársa), gyermeke, gyermekének házastársa, továbbá szülője és unokája is igénybe veheti.
 
-(13)[^108] Az országos parancsnok és helyettese, valamint a Nemzeti Adó- és Vámhivatal elnöke és elnökhelyettese szolgálati igazolványának felmutatásával a közigazgatás valamennyi szervéhez, továbbá az államhatalmi szervekhez és a közintézményekhez beléphet. A rendvédelmi szerv országos parancsnoka és helyettese, valamint a Nemzeti Adó- és Vámhivatal elnöke és elnökhelyettese más rendvédelmi szerv vagy a Magyar Honvédség működésére szolgáló területére a feladatkörrel rendelkező miniszter által szabályozott módon léphet be.
+(13)[^119] Az országos parancsnok és helyettese, valamint a Nemzeti Adó- és Vámhivatal elnöke és elnökhelyettese szolgálati igazolványának felmutatásával a közigazgatás valamennyi szervéhez, továbbá az államhatalmi szervekhez és a közintézményekhez beléphet. A rendvédelmi szerv országos parancsnoka és helyettese, a Nemzeti Adó- és Vámhivatal elnöke és elnökhelyettese, valamint az Országgyűlési Őrség parancsnoka és helyettese más rendvédelmi szerv vagy a Magyar Honvédség működésére szolgáló területére a feladatkörrel rendelkező miniszter által szabályozott módon léphet be.
 
-[^96]: A 66/A. §-t a 115/2001. (VI. 29.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének f) pontja.
-[^97]: A 67. § a 390/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^98]: A 67. § (1) bekezdése a 223/2011. (X. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^99]: A 67. § (3) bekezdése a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^100]: A 67. § (10) bekezdése a 140/2008. (V. 16.) Korm. rendelet 6. §-a, a 376/2011. (XII. 31.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
-[^101]: A 67. § (11) bekezdése a 102/2012. (V. 18.) Korm. rendelet 3. § c) pontja és 4. §-a szerint módosított szöveg.
-[^102]: A 67. § (11a) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
-[^103]: A 67. § (11b) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
-[^104]: A 67. § (11c) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
-[^105]: A 67. § (11d) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
-[^106]: A 67. § (11e) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
-[^107]: A 67. § (12) bekezdése a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^108]: A 67. § (13) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 81. § (9) bekezdésével megállapított szöveg.
+[^107]: A 66/A. §-t a 115/2001. (VI. 29.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének f) pontja.
+[^108]: A 67. § a 390/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^109]: A 67. § (1) bekezdése a 223/2011. (X. 21.) Korm. rendelet 4. §-ával megállapított, a 275/2012. (IX. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^110]: A 67. § (3) bekezdése a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^111]: A 67. § (10) bekezdése a 140/2008. (V. 16.) Korm. rendelet 6. §-a, a 376/2011. (XII. 31.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
+[^112]: A 67. § (11) bekezdése a 102/2012. (V. 18.) Korm. rendelet 3. § c) pontja és 4. §-a szerint módosított szöveg.
+[^113]: A 67. § (11a) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 275/2012. (IX. 28.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^114]: A 67. § (11b) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
+[^115]: A 67. § (11c) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
+[^116]: A 67. § (11d) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
+[^117]: A 67. § (11e) bekezdését a 102/2012. (V. 18.) Korm. rendelet 1. §-a iktatta be.
+[^118]: A 67. § (12) bekezdése a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^119]: A 67. § (13) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 81. § (9) bekezdésével megállapított, a 275/2012. (IX. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.

@@ -1,5 +1,9 @@
-2. § (1) A Hszt. 43. §-ának (1) bekezdése szerinti megállapodás tartalmazza különösen: a vezénylés célját, helyét, kezdő időpontját és időtartamát, a betöltendő beosztást, az abból fakadó jogosultságokat és kötelezettségeket, valamint a vezényeltet megillető járandóságok viselésének és biztosításának módját.
+## 1. §[^3] A Hszt. 42. § (2) bekezdésében meghatározott más szervhez (a továbbiakban: más szerv) az vezényelhető, aki rendelkezik a vezénylés helyén betöltendő beosztáshoz, munkakörhöz (a továbbiakban együtt: beosztás) szükséges szakképesítéssel, szakképzettséggel, a beosztás ellátásához szükséges egyéb feltételekkel, vagy – a szövetséges fegyveres erőkhöz történő vezénylés kivételével – vállalja azok előírt határidőre történő megszerzését.
 
-(2)[^8] Tábornok, főtiszt, tiszt, valamint az 1. § (1) bekezdésének b) pontja szerinti vezénylés esetében a zászlós és tiszthelyettes vezénylésére a Hszt. 2. számú melléklete szerint a miniszter, zászlós és tiszthelyettes egyéb célú vezénylésére – a büntetés-végrehajtási szervek állományából gazdálkodó szervhez, továbbá a fegyveres szervhez nem tartozó egészségügyi intézményhez vezénylésre kerülők kivételével – az országos parancsnok [Hszt. 2. § e) pont] jogosult. Ez a jogkör a polgári nemzetbiztonsági szolgálatoknál a főigazgatót, a Nemzeti Adó- és Vámhivatalnál az elnököt illeti meg.
+2. § (1)[^4] A Hszt. 49/B. § (1) bekezdése szerinti megállapodás tartalmazza különösen: a vezénylés célját, helyét, kezdő időpontját és időtartamát, a betöltendő beosztást, az abból fakadó jogosultságokat és kötelezettségeket, valamint a vezényeltet megillető járandóságok viselésének és biztosításának módját.
 
-[^8]: A 2. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
+(2)[^5]
+
+[^3]: Az 1. § a 416/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdése a 416/2012. (XII. 29.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdését a 416/2012. (XII. 29.) Korm. rendelet 10. § (2) bekezdés a) pontja hatályon kívül helyezte.

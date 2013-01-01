@@ -1,5 +1,5 @@
 ## 35. § Búvárpótlékra jogosult, aki búvár beosztást tölt be, és búvárfeladatot teljesít. Víz alatti tűzszerész tevékenység esetén tűzszerészpótlék is jár.
 
-## Fokozottan veszélyes beosztás pótléka[^56]
+## Fokozottan veszélyes beosztás pótléka[^64]
 
-[^56]: A 36. §-a előtti alcím a 99/2003. (VII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^64]: A 36. §-a előtti alcím a 99/2003. (VII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.

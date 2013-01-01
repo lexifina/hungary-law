@@ -74,11 +74,11 @@
 
 | 36. | Helyi |  | fogalmazó | fogalmazó |  |
 
-| 37. | I. | Központi |  |  | szerződéses |  |
+| 37. |  |  |  |  |  |  |
 
-| 38. | Területi |  |  | szerződéses |  |
+| 38. |  |  |  |  |  |
 
-| 39. | Helyi |  |  | szerződéses |  |
+| 39. |  |  |  |  |  |
 
 | 40. | Pályakezdő |
 
@@ -114,13 +114,13 @@
 
 | 56. | Területi | kiképző | járőr, határrendész | gépjárművezető | felügyelő |
 
-| 57. | Helyi | járőr, határrendész | beosztott tűzoltó, gépjárművezető, ügyeletes |
+| 57. | Helyi | járőr, határrendész, határrendész | beosztott tűzoltó, gépjárművezető, ügyeletes |
 
-| 58. | I. | Központi | szerződéses |
+| 58. |  |  |  |
 
-| 59. | Területi | szerződéses |
+| 59. |  |  |
 
-| 60. | Helyi | szerződéses |
+| 60. |  |  |
 
 | 61. | Pályakezdő |
 
@@ -134,6 +134,50 @@
 
 ## NVSZ: Nemzeti Védelmi Szolgálat
 
-2/C. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^113]
+## Az Országgyűlési Őrségnél rendszeresített alapbeosztások beosztási kategóriába sorolása
 
-[^113]: A 2/C. számú mellékletet a 273/2010. (XII. 9.) Korm. rendelet 81. § (12) bekezdése iktatta be, hatályon kívül helyezte a 269/2011. (XII. 20.) Korm. rendelet 21. §-a.
+|  | A | B |
+
+| 1. | Beosztási kategória | Országgyűlési Őrségnél rendszeresített beosztások |
+
+| 2. | I. BESOROLÁSI OSZTÁLY |
+
+| 3. | VI. | osztályvezető-helyettes |
+
+| 4. | alosztályvezető |
+
+| 5. | kiemelt főreferens |
+
+| 6. | V. | kiemelt főelőadó |
+
+| 7. | kiemelt biztonsági főtiszt |
+
+| 8. | főmérnök |
+
+| 9. | IV. | biztonsági főtiszt |
+
+| 10. | mérnök |
+
+| 11. | rajparancsnok |
+
+| 12. | II. BESOROLÁSI OSZTÁLY |
+
+| 13. | IV. | csoportvezető |
+
+| 14. | szolgálatparancsnok |
+
+| 15. | biztonsági gépkocsivezető |
+
+| 16. | objektumőr |
+
+| 17. | technikus |
+
+| 18. | helyszínbiztosító |
+
+| 19. | lakásbiztosító |
+
+| 20. | beosztott tűzoltó |
+
+2/C. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^125]
+
+[^125]: A 2/C. számú mellékletet a 273/2010. (XII. 9.) Korm. rendelet 81. § (12) bekezdése iktatta be, hatályon kívül helyezte a 269/2011. (XII. 20.) Korm. rendelet 21. §-a.

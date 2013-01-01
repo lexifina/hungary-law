@@ -1,3 +1,3 @@
-## 66. §[^95]
+## 66. §[^106]
 
-[^95]: A 66. §-t a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^106]: A 66. §-t a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének f) pontja hatályon kívül helyezte.

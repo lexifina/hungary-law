@@ -180,25 +180,31 @@
 
 ## Terrorelhárítási Központ
 
-| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
+|  | A | B | C | D | E | F |
 
-| Állami iskolai végzettség | szakképesítés |
+| 1. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
 
-| TEK | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem vagy főiskola | szakirányú felsőfokú |
+| 2. | állami iskolai végzettség | szakképesítés |
 
-| főigazgató- helyettes |
+| 3. | TEK | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezetői illetményre jogosult | igazgató | ezredes |
+| 4. | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató- helyettes | tábornok |
 
-| hivatalvezető |
+| 5. | főosztály-vezetői illetményre jogosult | igazgató | ezredes |
 
-| főosztályvezető |
+| 6. | főosztály-vezetői illetményre jogosult | igazgató- helyettes | ezredes |
 
-| főosztályvezető- helyettesi illetményre jogosult | főosztályvezető- helyettes |
+| 7. | főosztály-vezetői illetményre jogosult | kiemelt főtanácsadó | ezredes |
 
-| osztályvezetői illetményre jogosult | osztályvezető | alezredes |
+| 8. | főosztály-vezetői illetményre jogosult | hivatalvezető | ezredes |
 
-| irodavezető |
+| 9. | főosztály-vezetői illetményre jogosult | főosztályvezető | ezredes |
+
+| 10. | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető- helyettes | ezredes |
+
+| 11. | osztályvezetői illetményre jogosult | osztályvezető | alezredes |
+
+| 12. |  | osztályvezetői illetményre jogosult | irodavezető | alezredes |  |  |
 
 ## Rövidítés:
 
@@ -312,72 +318,6 @@
 
 | Osztályvezető (bv. Kft.) |
 
-## Nemzeti Adó- és Vámhivatal
-
-| Szerv | Munkakör/Beosztás | Maximum rendfokozat | Képesítési követelmény |
-
-| felsőfokú állami iskolai végzettség |
-
-| Központi szerv | Elnök | tábornok | jogi vagy közgazdasági felsőfokú végzettség |
-
-| Elnökhelyettes | tábornok | szakirányú egyetem vagy főiskola |
-
-| Szakfőigazgató | tábornok |
-
-| Főigazgató | tábornok | szakirányú egyetem vagy főiskola |
-
-| Központi Hivatal főosztályvezető |
-
-| Főigazgató-helyettes | tábornok | szakirányú egyetem vagy főiskola |
-
-| Igazgató |
-
-| Bűnügyi Főigazgatóság főosztályvezető | tábornok | szakirányú egyetem vagy főiskola |
-
-| Központi Hivatali főosztályvezető-helyettes | ezredes | szakirányú egyetem vagy főiskola |
-
-| Bűnügyi Főigazgatóság főosztályvezető-helyettes |
-
-| Igazgató-helyettes | ezredes | szakirányú egyetem vagy főiskola |
-
-| Főosztályvezető | tábornok | szakirányú egyetem vagy főiskola |
-
-| Központi Hivatal osztályvezető | ezredes |
-
-| Főosztályvezető-helyettes | ezredes | szakirányú egyetem vagy főiskola |
-
-| NKE tanszékvezető | szakirányú egyetem vagy főiskola |
-
-| Osztályvezető | alezredes | szakirányú egyetem vagy főiskola |
-
-| NKE tanszékvezető-helyettes | szakirányú egyetem vagy főiskola |
-
-| Területi szerv | Főigazgató | tábornok | szakirányú egyetem vagy főiskola |
-
-| Főigazgató-helyettes | ezredes | szakirányú egyetem vagy főiskola |
-
-| Regionális bűnügyi igazgatóság igazgató |
-
-| Regionális bűnügyi igazgatóság igazgató-helyettes | ezredes | szakirányú egyetem vagy főiskola |
-
-| Főosztályvezető | ezredes | szakirányú egyetem vagy főiskola |
-
-| Főosztályvezető-helyettes | ezredes | szakirányú egyetem vagy főiskola |
-
-| Osztályvezető | alezredes | szakirányú egyetem vagy főiskola |
-
-| Helyi szerv | Igazgató | alezredes | szakirányú egyetem vagy főiskola |
-
-| Igazgató-helyettes | alezredes | szakirányú egyetem vagy főiskola |
-
-| Főosztályvezető | alezredes | szakirányú egyetem vagy főiskola |
-
-| Főosztályvezető-helyettes |
-
-| Áru- és Bűnjelkezelő Hivatal hivatalvezető | alezredes | szakirányú egyetem vagy főiskola |
-
-| Osztályvezető | alezredes |
-
 ## Polgári Nemzetbiztonsági Szolgálatok
 
 | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
@@ -392,10 +332,30 @@
 
 | Főosztályvezető | ezredes | egyetem vagy főiskola |
 
-| Főosztályvezető-helyettesi illetményre jogosult | Főosztályvezető-helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| Főosztályvezető- helyettesi illetményre jogosult | Főosztályvezető-helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
 | Osztályvezetői illetményre jogosult | Osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú_ |
 
-2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^112]
+## Országgyűlési Őrség
 
-[^112]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 223/2011. (X. 21.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 43/2012. (III. 20.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+| A | B | C | D | E | F | G |
+
+| 1. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
+
+| 2. | állami iskolai végzettség | szakképesítés |
+
+| 3. | Országgyűlési Őrség | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | parancsnok | tábornok | egyetem vagy főiskola | szakirányú felsőfokú |
+
+| 4. | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | parancsnok- helyettes | tábornok | egyetem vagy főiskola | szakirányú felsőfokú |
+
+| 4a. | főosztály-vezetői illetményre jogosult | igazgató | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+
+| 5. | főosztályvezetői illetményre jogosult | főosztályvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+
+| 6. | főosztályvezető-helyettesi illetményre jogosult | főosztályvezető- helyettes | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+
+| 7. | osztályvezetői illetményre jogosult | osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+
+2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^124]
+
+[^124]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 223/2011. (X. 21.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 43/2012. (III. 20.) Korm. rendelet 1. § (2) bekezdése, a 275/2012. (IX. 28.) Korm. rendelet 3. §-a, a 416/2012. (XII. 29.) Korm. rendelet 10. § (1) bekezdés k) pontja és (2) bekezdés f) pontja szerint módosított szöveg.

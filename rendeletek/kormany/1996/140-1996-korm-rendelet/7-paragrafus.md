@@ -1,17 +1,21 @@
-7. § (1)[^12] A Nemzeti Közszolgálati Egyetemre vezetőként, oktatóként, kettős jogállású és doktori képzésen résztvevő hallgatóként történő vezénylésre sikeres pályázat (felvétel) alapján kerül sor.
+7. §[^13] (1) A Nemzeti Közszolgálati Egyetemre kettős jogállású és doktori képzésen résztvevő hallgatóként történő vezénylésre sikeres pályázat, vagy felvételi vizsga alapján kerül sor.
 
-(2)[^13] Elnyert pályázat alapján a vezénylés a Nemzeti Közszolgálati Egyetemre
+(2) A Hszt. 49/G. § (3) bekezdése szerinti rendészeti felsőoktatási illetménykiegészítés mértékét, a Nemzeti Közszolgálati Egyetem Fenntartói Testület egyetértésével úgy kell megállapítani, hogy az azzal kiegészített – nyelvpótlék nélkül – számított illetmény
 
-a) vezetői beosztás és oktatói munkakör betöltésére a megbízás,
+a) rektor esetében legfeljebb az illetményalap huszonötszöröse,
 
-b) kettős jogállású és doktori képzésen résztvevő hallgató (hivatásos állomány tagjaként tanulmányokat folytató) esetén az oktatás
+b) rektor-helyettes és dékán esetében legfeljebb az illetménylap huszonnégyszerese,
 
-## időtartamára szól.
+c) dékán-helyettes esetében legfeljebb az illetményalap huszonkétszerese,
 
-(3) A vezénylés tartama alatt a kettős jogállású hallgatók hivatásos szolgálati viszonyára a Hszt., hallgatói jogviszonyára, valamint a velük kapcsolatos vezetői jogok gyakorlására a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény szabályai irányadók.
+d) kari tanszékvezető, intézetigazgató és egyetemi tanár esetében legfeljebb az illetményalap húszszorosa,
 
-(4)[^14] A nem Nemzeti Közszolgálati Egyetemre oktatóként vezényeltekre az 5–7. §-ok rendelkezései megfelelően irányadók.
+e) vezetői munkakört be nem töltő, tudományos fokozattal rendelkező esetében legfeljebb az illetményalap tizennyolcszorosa,
 
-[^12]: A 7. § (1) bekezdése a 363/2011. (XII. 30.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^13]: A 7. § (2) bekezdése a 363/2011. (XII. 30.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^14]: A 7. § (4) bekezdése a 363/2011. (XII. 30.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+f) egyéb vezetői munkakört betöltő esetében legfeljebb az illetményalap tizenhatszorosa
+
+## lehet.
+
+(3) A (2) bekezdésben nem említett munkakört ellátó vezényelt részére, a kimagasló szakmai tudás és tevékenység elismeréseként a Nemzeti Közszolgálati Egyetem Fenntartói Testület egyetértésével megállapított rendészeti felsőoktatási illetménykiegészítés nem haladhatja meg az illetményalap háromszorosát.
+
+[^13]: A 7. § a 416/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -22,6 +22,9 @@ c) a vezényelt a beosztásával járó kötelezettségeit nem teljesíti, illet
 
 (4) A vezénylést a küldő szerv parancsával kell megszüntetni. Egyebekben a 3. § (2) bekezdése szerint kell eljárni.
 
-(5)[^29]
+(5)[^29] A (4) bekezdéstől eltérően a Hszt. 49/D. § alapján történő vezénylés esetében a vezénylés megszüntetésére – a más szerv vagy a hivatásos állomány tagjának kezdeményezése alapján – a miniszter jogosult. A határozat miniszterhez történő felterjesztésére a küldő szerv vezetője intézkedik.
 
-[^29]: A 12. § (5) bekezdését a 333/2009. (XII. 29.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+(6)[^30] Az (5) bekezdéstől eltérően a Terrorelhárítási Központhoz, valamint a Nemzeti Védelmi Szolgálathoz a Hszt. 49/D. § alapján történő vezénylés esetében a vezénylés megszüntetéséről szóló határozat miniszterhez történő felterjesztésére a Terrorelhárítási Központ, vagy a Nemzeti Védelmi Szolgálat vezetője intézkedik.
+
+[^29]: A 12. § (5) bekezdését a 333/2009. (XII. 29.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte, újonnan a 416/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^30]: A 12. § (6) bekezdését a 416/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
