@@ -1,0 +1,9 @@
+# 149/2012. (XII. 28.) VM rendelet
+
+a járási földhivatalok illetékességi területeinek kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-149-20-2Y
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-01 | 2012-149-20-2Y.1 | 149/2012. (XII. 28.) VM rendelet |
