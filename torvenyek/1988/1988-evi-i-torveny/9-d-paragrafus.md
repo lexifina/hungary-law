@@ -1,10 +1,10 @@
 9/D. § (1) A járművekkel a közutakon, valamint az állami és helyi önkormányzatok tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken történő várakozás a közutak, valamint az állami és helyi önkormányzatok tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek közlekedési célú használatának minősül.
 
-(2) A helyi közutakon, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken járművel történő várakozás biztosítását célzó közszolgáltatást a helyi önkormányzat, vagy a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 9. § (5) bekezdése szerinti szolgáltató látja el.
+(2) A helyi közutakon, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken járművel történő várakozás biztosítását célzó közszolgáltatást a helyi önkormányzat, vagy a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 16/A. §-a szerinti szolgáltató látja el.
 
-(3) A járművek helyi közutakon, valamint helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken történő várakozása a helyi önkormányzat, vagy az Ötv. 9. § (5) bekezdésben meghatározott szolgáltató és a várakozási terület igénybevevője közötti polgári jogi jogviszony. A várakozási díj és a pótdíj megfizetéséért a jármű üzembentartója felel.
+(3) A járművek helyi közutakon, valamint helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken történő várakozása a helyi önkormányzat, vagy a Mötv. 16/A. §-ában meghatározott szolgáltató és a várakozási terület igénybevevője közötti polgári jogi jogviszony. A várakozási díj és a pótdíj megfizetéséért a jármű üzembentartója felel.
 
-(4) A helyi önkormányzat az Ötv. 9. § (5) bekezdésben meghatározott gazdasági társasággal a (2) bekezdés szerinti közszolgáltatás ellátására szerződést köthet. A szerződésnek tartalmaznia kell:
+(4) A helyi önkormányzat a Mötv. 16/A. §-ában meghatározott gazdasági társasággal a (2) bekezdés szerinti közszolgáltatás ellátására szerződést köthet. A szerződésnek tartalmaznia kell:
 
 a) a szolgáltató által ellátandó közfeladatot és egyéb tevékenységet,
 

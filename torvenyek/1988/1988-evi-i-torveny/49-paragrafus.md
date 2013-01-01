@@ -10,7 +10,7 @@ b) az Európai Parlament és a Tanács 715/2007/EK rendelete (2007. június 20.)
 
 a) az Európai Parlament és a Tanács 1999/62/EK irányelve (1999. június 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról, 2. cikk b) és c) pontja, 7. cikk (2) bekezdésének a) pontja, (3)–(4) és (9)–(10) bekezdése, 9. cikk (2) bekezdése;
 
-b) az Európai Parlament és a Tanács 2002/15/EK irányelve (2002. március 11.) a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel és az Mt.-vel és a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvénnyel együtt;
+b) az Európai Parlament és a Tanács 2002/15/EK irányelve (2002. március 11.) a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről, az Mt.-vel és a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvénnyel együtt;
 
 c) az Európai Parlament és a Tanács 2006/22/EK irányelve (2006. március 15.) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről és a 88/599/EGK tanácsi irányelv hatályon kívül helyezéséről, 2. cikkének (1) és (2) bekezdése;
 

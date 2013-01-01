@@ -10,8 +10,10 @@
 
 (5a) Ha a pótdíjfizetési felszólítás megküldésének időpontjában a közúti közlekedési nyilvántartás nem a tényleges üzemben tartó adatait tartalmazza, az (5) bekezdés szerinti határidő a tényleges üzemben tartó ismertté válásától számítandó.
 
-(6) Az útdíj szedésére jogosult – külön jogszabály szerinti versenyeztetési eljárásban kiválasztott – szervezetet a miniszter jogszabályban jelöli ki.
+(6)
 
-(7) A használati díj szedésére a díjköteles utak használatáért az autópályák autóutak és főutak használatának díjáról szóló miniszteri rendelet alapján a 33. § (1) bekezdés b) pont ba) alpontjában megjelölt közútkezelő vagy az általa megbízott szervezet is jogosult.
+(7)
 
-(8) A díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelők jogosultak.
+(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelők jogosultak.
+
+(9) Az útdíj tekintetében díjellenőrzésre a közlekedési hatóság és az ÁAK Zrt. jogosult.

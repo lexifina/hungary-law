@@ -150,7 +150,9 @@ b) a miniszter, hogy
 
 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 
-37. a közúti forgalom biztonságát veszélyeztető módon veszteglő gépjárművek elszállításának, tárolásának és értékesítésének szabályait
+37. a közúti forgalom biztonságát veszélyeztető módon veszteglő gépjárművek elszállításának, tárolásának és értékesítésének szabályait,
+
+38. a Magyarországon található európai elektronikus útdíjszedési szolgáltatással érintett EETS-területre, az EETS útdíjszedő szervezetekre, az ott alkalmazott technológiákra, és az útdíj megállapításával összefüggő adatokra vonatkozó nyilvántartás vezetésére jogosult szervezetet és a nyilvántartás vezetésére vonatkozó részletszabályokat.
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
@@ -168,9 +170,9 @@ g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
 3. a 33/A. § szerinti használati díj és útdíj, valamint ezek megfizetésének elmaradása esetén a pótdíj, illetve a pótdíj megfizetésének elmaradása esetén a többletpótdíj mértékét,
 
-4. a fizetés módját és feltételeit, valamint
+4. a fizetés módját és feltételeit,
 
-5.
+5. a 33/A. § szerinti időtartamot,
 
 h)
 
@@ -206,7 +208,7 @@ d) a díjköteles várakozás megengedett leghosszabb időtartamát,
 
 e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét, azzal, hogy a kedvezményes várakozásra jogosultak körének bővítésére a kerületi képviselő-testület jogosult.
 
-(5a)
+(5a) Felhatalmazást kap a fővárosi közgyűlés, hogy a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben állapítsa meg.
 
 (6) Az e törvényben meghatározott díjat, pótdíjat – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
 

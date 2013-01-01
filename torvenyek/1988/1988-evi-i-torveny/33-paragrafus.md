@@ -17,3 +17,11 @@ c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magá
 (4) A (2) bekezdés szerinti, a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyító felvételt kizárólag a külön jogszabályban meghatározott feltételeknek megfelelő eszközzel lehet készíteni.
 
 (5) Az országos közutak kezelőinek tevékenységét a miniszter által alapított költségvetési szerv hangolja össze, az útkezelői szolgáltatást finanszírozza és – az üzemeltetésre vonatkozó szerződésben meghatározott – szolgáltatási színvonal biztosítását ellenőrzi.
+
+(6) Az (1) bekezdés szerinti közútkezelő szervezetek kötelesek az elektronikus díjszedési, díjellenőrzési rendszer megvalósítása, és annak üzemeltetése során az egyes feladatok teljesítésére kijelölt szervezetekkel, az általuk bevont közreműködőkkel és az elektronikus módon történő díjszedési-, díjellenőrzési rendszer kivitelezőjével (a továbbiakban együtt: jogosult szervezetek) a rendszer felmérése, tervezése, kivitelezése és üzemeltetése során együttműködni, így különösen kötelesek:
+
+a) a jogosult szervezetek munkavégzését a kezelésükben lévő útszakaszokon lehetővé tenni, a munkavégzéshez szükséges hozzájárulásokat, illetve nyilatkozatokat 15 napon belül kiadni,
+
+b) a jogosult szervezetek tevékenységének ellátásához az általuk kezelt közúton a szükséges biztonsági és biztosítási feladatokat elvégezni,
+
+c) a jogosult szervezetek erre irányuló kérése esetén konzultációt folytatni és a kért felvilágosítást megadni.

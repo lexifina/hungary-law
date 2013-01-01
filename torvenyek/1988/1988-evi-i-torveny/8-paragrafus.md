@@ -1,24 +1,26 @@
 ## A közúti közlekedéssel összefüggő állami feladatok
 
-8. § (1) A közúti közlekedéssel összefüggő állami és önkormányzati feladatok:
+8. § (1) A közúti közlekedéssel összefüggő
 
-a) a közúti közlekedés tervezése, fejlesztése, szabályozása és ellenőrzése;
+a) állami és önkormányzati feladatok:
 
-b) a közúti közlekedés szervezeti és működési feltételeinek meghatározása;
+1. a közúti közlekedés tervezése, fejlesztése, szabályozása és ellenőrzése,
 
-c) a közúti közlekedés hatósági, igazgatási és nyilvántartási feladatainak ellátása;
+2. a közúti közlekedés szervezeti és működési feltételeinek meghatározása,
 
-d)
+3. a közúthálózat fejlesztése, fenntartása, üzemeltetése;
 
-e) a közúti közlekedés biztonságát szolgáló nevelés, felvilágosítás és propaganda;
+b) állami feladatok:
 
-f) a közúti közlekedési szakemberek és a közúti járművezetők vizsgáztatása;
+1. a közúti közlekedés hatósági, igazgatási és nyilvántartási feladatainak ellátása,
 
-g) a járművek műszaki vizsgálata;
+2. a járművek műszaki vizsgálata,
 
-h) a közúthálózat fejlesztése, fenntartása, üzemeltetése;
+3. a közúti közlekedési szakemberek és a közúti járművezetők vizsgáztatása,
 
-i) a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánúton, valamint a tereken, parkokban és egyéb közterületeken járművel történő várakozás biztosítása.
+4. a közúti közlekedés biztonságát szolgáló nevelés, felvilágosítás és propaganda;
+
+c) önkormányzati feladat a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánúton, valamint a tereken, parkokban és egyéb közterületeken járművel történő várakozás biztosítása.
 
 (1a) A közutak tervezése, fejlesztése során úgy kell eljárni, hogy a biztonságos közlekedési feltételek valamennyi, a közúton közlekedni jogosult számára biztosítottak legyenek.
 

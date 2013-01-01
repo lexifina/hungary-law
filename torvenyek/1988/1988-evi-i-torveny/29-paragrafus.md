@@ -1,6 +1,16 @@
 ## Út építése, kezelése, fenntartása, megszüntetése és elbontása
 
-29. § (1) Az országos közutak építtetője – a koncessziós szerződés keretében megvalósuló utak kivételével – a (11) bekezdésben foglaltak figyelembevételével, a Magyar Állam kizárólagos tulajdonában lévő, az országos közúthálózat fejlesztési és építtetői feladatainak ellátásáért felelős, részvénytársasági formában működő gazdasági társaság, a Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság (a továbbiakban: NIF Zrt.). Az út 33. § (1) bekezdésének b) pontja szerinti kezelője – a (11) bekezdésben foglaltak figyelembevételével – építtetőnek minősül a vele – az országos közutak kezelésének szabályozásáról szóló miniszteri rendelet alapján – megkötött szerződés szerinti felújítási, karbantartási, illetőleg fejlesztési feladatok tekintetében. Az építtető – a (11) bekezdésben foglaltak figyelembevételével, valamint a koncessziós szerződés keretében megvalósuló utak kivételével – a Magyar Állam javára és nevében jár el. Az országos közút fejlesztéséhez szükséges megvásárolt, illetve kisajátított földrészlet a Magyar Állam tulajdonába és e törvény erejénél fogva, ellenérték nélkül az építtető vagyonkezelésébe kerül, amelyet köteles az ingatlan-nyilvántartásba bejegyeztetni. Az építtető a vagyonkezelői jog bejegyzésére vonatkozó földhivatali határozatot annak kézhezvételétől számítottan haladéktalanul köteles a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) részére tájékoztatásul megküldeni. Ezen ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
+29. § (1) A koncessziós szerződés keretében megvalósuló utak kivételével az országos közutak építtetője – a (11) bekezdésben foglaltak figyelembevételével – az állam kizárólagos tulajdonában lévő, az országos közúthálózat fejlesztési és építtetői feladatainak ellátásáért felelős, részvénytársasági formában működő gazdasági társaság, a Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság (a továbbiakban: NIF Zrt.). Az út 33. § (1) bekezdés b) pontja szerinti kezelője – a (11) bekezdésben foglaltak figyelembevételével – építtetőnek minősül a vele jogszabály alapján megkötött szerződés szerinti felújítási, karbantartási, illetőleg fejlesztési feladatok tekintetében.
+
+(1a) Az építtető – a (11) bekezdésben foglaltak figyelembevételével, valamint a koncessziós szerződés keretében megvalósuló utak kivételével – az állam javára és nevében jár el.
+
+(1b) Az állam tulajdonába és ellenérték nélkül az építtető vagyonkezelésébe kerül
+
+a) az országos közút fejlesztéséhez szükséges megvásárolt vagy kisajátított földrészlet,
+
+b) – ha a NIF Zrt. vagy a közút 33. § (1) bekezdés b) pont ba) alpontja szerinti kezelője építtetői feladatai ellátása során a helyi közút építtetőjeként jár el – a helyi közút létesítésének céljára megvásárolt és kisajátított földrészlet.
+
+(1c) A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről az építtető gondoskodik. Az építtető a vagyonkezelői jog bejegyzésére vonatkozó földhivatali határozatot, annak kézhezvételét követően haladéktalanul megküldi a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) részére. Az (1b) és (1c) bekezdés szerinti ingatlan vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
 
 (2) Az építtető – a koncessziós szerződés keretében megvalósuló utak kivételével a (11) bekezdésben foglaltak figyelembevételével, a beruházás előkészítéseként teljes körűen elkészítteti a szükséges terveket, tanulmányokat. Az építtető ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, megelőző régészeti feltárást, közmű kiváltást) és fejlesztést, továbbá lefolytatja a közbeszerzési eljárásokat. Az építtető építési szerződéseket köt a megvalósításra, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, lebonyolítja a műszaki átadás-átvételt. Az építtetőre a gyorsforgalmi utak közérdekűségéről és fejlesztéséről szóló jogszabály rendelkezései is irányadóak.
 
@@ -19,6 +29,8 @@
 (3f) A (3d) bekezdés szerinti értéknövelő beruházásnak az építtető és a vagyonkezelő közötti elszámolására a (3e) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
 (4) A (3)–(3f) bekezdésben foglaltakat kell alkalmazni abban az esetben is, ha a (2) bekezdés szerinti építtetői feladatokat az út kezelője látja el, azzal, hogy a felhasznált forrásokkal és a létrehozott eszközökkel a magyar állam nevében eljáró, a forrásokat rendelkezésre bocsátó szervvel, a vele – külön jogszabály alapján – megkötött szerződés rendelkezései szerint számol el.
+
+(4a) A (3)–(3f) bekezdést kell alkalmazni abban az esetben is, ha a NIF Zrt. építtetői feladatokat helyi közút építése során lát el azzal, hogy a forgalomba helyezett vagy ideiglenesen forgalomba helyezett helyi közút és az egyes projektekkel kapcsolatban létrehozott vagy megszerzett egyéb eszközök, illetve ezeket magukban foglaló, önkormányzati tulajdonában álló egyes földterületek az ideiglenes vagy ennek hiányában a végleges forgalomba helyezés napján e törvény erejénél fogva – az építtető vagyonkezelői jogának egyidejű megszűnése mellett – a helyi önkormányzat vagyonkezelésébe kerül.
 
 (5) A (3) és a (3c) bekezdés szerinti vagyonátadás mentes az adó- – ide nem értve az általános forgalmi adót – és illetékfizetési kötelezettség alól. A 32. § (6) bekezdésében meghatározott szervezet a beruházások befejezését – azaz ideiglenes vagy végleges forgalomba helyezést – követően térítés nélkül veszi át az országos közúthoz tartozó értéknövelő beruházást vagy földrészletet.
 
@@ -41,3 +53,5 @@
 a) az eltűrhető forgalomnagyság határértéke nem teljesül, vagy
 
 b) a jogszabályban foglalt egyéb előírás (pl. előírt környezeti határérték) az útépítést követően nem teljesül.
+
+(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges megtett úttal arányos tarifarendszerű elektronikus útdíjszedési és díjellenőrzési létesítmények kiépítése során építtetőként az Állami Autópálya Kezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁAK Zrt.) jár el.
