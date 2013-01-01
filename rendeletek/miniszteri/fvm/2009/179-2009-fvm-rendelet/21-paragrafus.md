@@ -4,7 +4,7 @@
 
 a) a helyszínre haladéktalanul kiszállni,
 
-b)[^24] az érintett állatot, indokolt esetben a vele együtt tartottakat is – az MgSzH által kiadott útmutató figyelembevételével – klinikailag megvizsgálni,
+b)[^34] az érintett állatot, indokolt esetben a vele együtt tartottakat is – az MgSzH által kiadott útmutató figyelembevételével – klinikailag megvizsgálni,
 
 c) a vizsgálatról jegyzőkönyvet felvenni, amely tartalmazza:
 
@@ -20,9 +20,9 @@ ce) más országból történt behozatal esetén annak idejét és a származás
 
 a) elrendelni a TSE gyanús állat elkülönítését és hatósági megfigyelését, illetve kérődző állat esetén az állomány forgalmi korlátozását;
 
-b) a betegség gyanújáról haladéktalanul jelentést küldeni a kerületi főállatorvosnak.
+b)[^35] a betegség gyanújáról haladéktalanul jelentést küldeni a járási főállatorvosnak.
 
-(3) A hatósági állatorvos a kerületi főállatorvos rendelkezése szerint köteles
+(3)[^36] A hatósági állatorvos a járási főállatorvos rendelkezése szerint köteles
 
 a) intézkedni a TSE-re gyanús állat leöléséről,
 
@@ -48,20 +48,26 @@ b) egyéb esetekben
 
 ba) hatósági megfigyelés alá helyezi az idegrendszeri tünetet mutató állatot,
 
-bb) a kerületi főállatorvos felülvizsgálatát kéri az alternatív diagnózis megerősítéséhez.
+bb)[^37] a járási főállatorvos felülvizsgálatát kéri az alternatív diagnózis megerősítéséhez.
 
 (5) Az idegrendszeri tüneteket mutató, TSE gyanús állat elhullása esetén a hatósági állatorvos a kórelőzményi adatok, illetve az általa elvégzett kórbonctani vizsgálat alapján dönt a TSE gyanú megerősítéséről vagy kizárásáról.
 
-(6) A hatósági megfigyelésnél és forgalmi korlátozásnál alkalmazandó intézkedéseket a hatósági állatorvos addig nem függesztheti fel, amíg a kerületi főállatorvos ki nem zárja a TSE betegség gyanúját.
+(6)[^38] A hatósági megfigyelésnél és forgalmi korlátozásnál alkalmazandó intézkedéseket a hatósági állatorvos addig nem függesztheti fel, amíg a járási főállatorvos ki nem zárja a TSE betegség gyanúját.
 
 (7) A vágóhidat felügyelő állatorvos a vágóhídi élőállat vizsgálat során történő idegrendszeri tünetek megállapítása esetén
 
-a) haladéktalanul értesíti a kerületi főállatorvost;
+a)[^39] haladéktalanul értesíti a járási főállatorvost;
 
 b) az érintett állat levágását megtiltja;
 
 c) az idegrendszeri tünetet mutató állat vizsgálatáról az (1) bekezdés szerint jegyzőkönyvet vesz fel;
 
-d) alternatív diagnózis felmerülése esetén a kerületi főállatorvos felülvizsgálatát kéri.
+d)[^40] alternatív diagnózis felmerülése esetén a járási főállatorvos felülvizsgálatát kéri.
 
-[^24]: A 21. § (1) bekezdés b) pontja a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 21. § (1) bekezdés b) pontja a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^35]: A 21. § (2) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^36]: A 21. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^37]: A 21. § (4) bekezdés b) pont bb) alpontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^38]: A 21. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^39]: A 21. § (7) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^40]: A 21. § (7) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
