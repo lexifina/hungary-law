@@ -1,1 +1,0 @@
-## A bevételek elszámolásának rendje
