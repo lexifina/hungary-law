@@ -146,7 +146,7 @@ c) egy szennyvízelvezetési agglomeráció összes terhelése, ahol n a kapcsol
 
 |  | 1 |
 
-d) a tisztítótelep terhelése a szennyvízcsatornán vezetett szennyvízmennyiségből, továbbá a nem csatornázott területekről beszállított ,,települési folyékony hulladék'' együttes mennyiségéből számítandó:
+d)[^19] a tisztítótelep terhelése a szennyvízcsatornán vezetett szennyvízmennyiségből, továbbá a nem csatornázott területekről beszállított „nem közművel összegyűjtött háztartási szennyvíz” együttes mennyiségéből számítandó:
 
 | Mérési lehetőség esetén: LE (szvt) = | Σ BOI5 (g/nap) |
 
@@ -156,9 +156,9 @@ d) a tisztítótelep terhelése a szennyvízcsatornán vezetett szennyvízmennyi
 
 a) a rendszerek létesítési és üzemeltetési költségét mindenkor együttesen kell kezelni;
 
-b)[^19] a szennyvízelvezetési agglomeráció kiterjesztése akkor lehetséges, ha valamennyi települési szennyvízcsatornázási alrendszer az egy rendszerbe kapcsolással – igazoltan legalább 30%-os díjcsökkenést eredményez, mint az egyedi, vagy a települési szintű önálló megoldás változata.
+b)[^20] a szennyvízelvezetési agglomeráció kiterjesztése akkor lehetséges, ha valamennyi települési szennyvízcsatornázási alrendszer az egy rendszerbe kapcsolással – igazoltan legalább 30%-os díjcsökkenést eredményez, mint az egyedi, vagy a települési szintű önálló megoldás változata.
 
-c)[^20] csupán gazdasági oldalról vizsgálva az egyetlen központi tisztítótelep létesítése addig tekinthető gazdaságosnak, amíg a telep fajlagos megvalósítási és üzemeltetési költségének csökkentéséből származó megtakarítások nem haladják meg az ,,improduktív létesítmények'' (települési szennyvíz-csatornázási alrendszerek közötti nem kihasználható vezetékek és átemelők) költségét.
+c)[^21] csupán gazdasági oldalról vizsgálva az egyetlen központi tisztítótelep létesítése addig tekinthető gazdaságosnak, amíg a telep fajlagos megvalósítási és üzemeltetési költségének csökkentéséből származó megtakarítások nem haladják meg az ,,improduktív létesítmények'' (települési szennyvíz-csatornázási alrendszerek közötti nem kihasználható vezetékek és átemelők) költségét.
 
 Egy regionális rendszer és több önálló rendszer költségeinek összehasonlítására a következő összefüggés szolgál:
 
@@ -205,5 +205,6 @@ Rendkívül fontos gazdasági tényező a szennyvíztisztító (elhelyező) tele
 [^16]: A melléklet 1.3. pontjának második bekezdése a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
 [^17]: A melléklet 4.3. pontjának a) alpontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
 [^18]: A melléklet 4.5. pontja a 286/2010. (XII. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^19]: A melléklet 4.7. pont b) alpontja a 87/2009. (IV. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^20]: A melléklet 4.7. pontjának c) alpontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (4) bekezdésével megállapított szöveg.
+[^19]: A Melléklet 4.6. pont d) alpontja a 441/2012. (XII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^20]: A melléklet 4.7. pont b) alpontja a 87/2009. (IV. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: A melléklet 4.7. pontjának c) alpontja a 164/2004. (V. 21.) Korm. rendelet 2. §-ának (4) bekezdésével megállapított szöveg.

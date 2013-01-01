@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-26-20-2
 | 2009-04-18 | 2002-26-20-22.6 | 26/2002. (II. 27.) Korm. rendelet |
 | 2010-12-24 | 2002-26-20-22.7 | 286/2010. (XII. 16.) Korm. rendelet |
 | 2012-01-01 | 2002-26-20-22.8 | 31/2006. (II. 8.) Korm. rendelet |
+| 2013-01-01 | 2002-26-20-22.9 | 441/2012. (XII. 29.) Korm. rendelet |
