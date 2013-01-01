@@ -2,7 +2,7 @@
 
 |  | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Kecskemét Megyei Jogú Város belterületi 26500 helyrajzi számú ingatlan | Általános építésügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Kecskemét Megyei Jogú Város belterületi 26500 helyrajzi számú ingatlan | Általános építésügyi hatósági engedélyek | Szegedi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 2. | környezetvédelmi hatósági engedélyezések | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -12,11 +12,11 @@
 
 | 5. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6. | földvédelmi hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Körzeti Földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
+| 6. | földvédelmi hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal illetékes járási földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
-| 7. | ingatlan-nyilván- tartási hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Körzeti Földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
+| 7. | ingatlan-nyilván- tartási hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal illetékes járási földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
-| 8. | földmérési hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Körzeti Földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
+| 8. | földmérési hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal illetékes járási földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
 | 9. | erdővédelmi hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -26,7 +26,7 @@
 
 | 12. | talajvédelmi hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 13. | kulturális örökségvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Kecskeméti Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 14. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -36,7 +36,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. | építésügy | Csongrád Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | építésügy | Kecskeméti Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 2. | környezetvédelem, természetvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -66,13 +66,13 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 10. | földművelésügy |  |  |
 
-|  | a) termőföldvédelem | Kecskeméti Körzeti Földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
+|  | a) termőföldvédelem | illetékes járási földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
 |  | b) talajvédelem | Bács-Kiskun Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 |  | c) erdővédelem | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 11. | kulturális örökségvédelem | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 11. | régészet és műemlékvédelem | Kecskeméti Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 12. | egészségügy | Bács-Kiskun Megyei Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -82,4 +82,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | élelmiszer-biztonság | Bács-Kiskun Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^7]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 16. §-a, a 282/2011. (XII. 21.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^7]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 16. §-a, a 282/2011. (XII. 21.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 35. §-a, a 296/2012. (X. 17.) Korm. rendelet 37. §-a, a 394/2012. (XII. 20.) Korm. rendelet 26. §-a szerint módosított szöveg.
