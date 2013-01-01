@@ -1,4 +1,4 @@
-3. § (1) A földkiadó bizottság megválasztása céljából a szövetkezet székhelye szerint illetékes települési önkormányzat (a továbbiakban: önkormányzat) jegyzője e törvény hatálybalépését követő tizenöt napon belül összehívja a részarány-földtulajdonosok közgyűlését (részközgyűléseit). A közgyűlésen minden tulajdonost egy-egy szavazat illet meg.
+3. § (1) A földkiadó bizottság megválasztása céljából a szövetkezet székhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) e törvény hatálybalépését követő tizenöt napon belül összehívja a részarány-földtulajdonosok közgyűlését (részközgyűléseit). A közgyűlésen minden tulajdonost egy-egy szavazat illet meg.
 
 (2) A tulajdonosokat a közgyűlés összehívásáról a helyben szokásos módon, hirdetmény útján és lehetőleg írásban is értesítik. Nem helyben lakó tulajdonosokat országos, illetve megyei napilapban történő közzététel útján is értesíteni kell.
 

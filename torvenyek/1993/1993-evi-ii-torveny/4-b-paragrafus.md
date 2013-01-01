@@ -4,7 +4,7 @@ a) illetékességi területén a részarány-földtulajdonnak megfelelő föld k
 
 b) működésképtelensége miatt a 4/A. § (2) bekezdése szerinti közgyűlés a megszűnését határozattal megállapítja.
 
-(2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. Az önkormányzat jegyzője a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
+(2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. A járási hivatal a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
 
 (3) A földkiadó bizottság megszűnését megállapító határozat bírósági felülvizsgálatának helye nincs.
 
