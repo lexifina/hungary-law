@@ -30,9 +30,11 @@ d)[^39] a 8. számú melléklet szerinti, T-jelű, tartós használatra szánt, 
 
 e) a 2. § (4) bekezdés kd)–ke) alpontja szerinti nyilatkozatban foglaltakat;
 
-f) ápolási eszköz kölcsönzésbe történő befogadása esetén azt, hogy az adott eszköz kölcsönzési díjához – a maximális (6 hónapos) kölcsönzési időre – számított társadalombiztosítási támogatás ne érje el a referenciaeszköz közfinanszírozás alapjául elfogadott nettó árához számított társadalombiztosítási támogatás 70%-át, referenciaeszköz áránál alacsonyabb árú termék esetén a csoportra jellemző százalékos mértékkel számított támogatás 70%-át.
+f) ápolási eszköz kölcsönzésbe történő befogadása esetén azt, hogy az adott eszköz kölcsönzési díjához – a maximális (6 hónapos) kölcsönzési időre – számított társadalombiztosítási támogatás ne érje el a referenciaeszköz közfinanszírozás alapjául elfogadott nettó árához számított társadalombiztosítási támogatás 70%-át, referenciaeszköz áránál alacsonyabb árú termék esetén a csoportra jellemző százalékos mértékkel számított támogatás 70%-át;
 
-(3)[^40] A (2) bekezdésben foglaltakon túl az eszköz típusától függően figyelembe kell venni:
+g)[^40] az eszköz gyártója vagy forgalomba hozója által önként vállalt, az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló rendeletben foglaltaknál kedvezőbb jótállási feltételeket, amennyiben a kötelező és az önként vállalt jótállás ideje együttesen eléri az eszköz kihordási idejét.
+
+(3)[^41] A (2) bekezdésben foglaltakon túl az eszköz típusától függően figyelembe kell venni:
 
 a) az eszköz alkalmazásával összefüggő mérhető paramétereit,
 
@@ -42,13 +44,14 @@ c) a szolgáltató folyamatos működési rendjét,
 
 d) a tartós használatra szánt, valamint egyedi méretvétel alapján készített, továbbá kölcsönözhető eszköz esetén a szolgáltatás teljességét, különös tekintettel az állapotfelmérésre, a méretvételre, az egyéni adottságok és igények felmérésére, a próbára, a beállításokra és az átadásra.
 
-(4)[^41] A 8. számú melléklet szerinti tartós használatra szánt eszköz árához nyújtott támogatás összege – a külön jogszabály szerinti méltányosság kivételével – a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát nem haladhatja meg. A nem tartós használatra szánt eszköz esetében a hat hónap alatt támogatással rendelhető mennyiségű eszköz árához nyújtott támogatás összege nem haladhatja meg a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát.
+(4)[^42] A 8. számú melléklet szerinti tartós használatra szánt eszköz árához nyújtott támogatás összege – a külön jogszabály szerinti méltányosság kivételével – a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát nem haladhatja meg. A nem tartós használatra szánt eszköz esetében a hat hónap alatt támogatással rendelhető mennyiségű eszköz árához nyújtott támogatás összege nem haladhatja meg a határozathozatal idején hatályos, egy hónapra eső minimálbér 15%-ának 100-szorosát.
 
-(5)[^42] A kombinált kiszerelések csak akkor részesíthetők támogatásban, ha kizárólag azonos kihordási idejű eszközöket tartalmaznak.
+(5)[^43] A kombinált kiszerelések csak akkor részesíthetők támogatásban, ha kizárólag azonos kihordási idejű eszközöket tartalmaznak.
 
 [^37]: A 4. § (1) bekezdésének i) pontját a 8/2008. (III. 4.) EüM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2008. (XII. 31.) EüM rendelet 23. § (12) bekezdése.
 [^38]: A 4. § (2) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
 [^39]: A 4. § (2) bekezdésének d) pontja a 25/2009. (VIII. 3.) EüM rendelet 1. §-ával megállapított szöveg.
-[^40]: A 4. § (3) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
-[^41]: A 4. § (4) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
-[^42]: A 4. § (5) bekezdését a 20/2010. (XII. 28.) NEFMI rendelet 1. §-a iktatta be.
+[^40]: A 4. § (2) bekezdés g) pontját az 57/2012. (XII. 29.) EMMI rendelet 4. §-a iktatta be.
+[^41]: A 4. § (3) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^42]: A 4. § (4) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^43]: A 4. § (5) bekezdését a 20/2010. (XII. 28.) NEFMI rendelet 1. §-a iktatta be.
