@@ -16,7 +16,7 @@ ab) az e törvényben foglalt feltételeknek megfelelő egészségügyi szolgál
 
 ac) ellátásokat és egészségügyi szolgáltatásokat,
 
-b) a 30. §-ban meghatározott támogatás igénylési feltételeit, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait
+b) a 30. §-ban meghatározott támogatás igénylési feltételeit, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait, valamint az 1–3. mellékletben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb rendelkezéseket
 
 rendeletben meghatározza.
 

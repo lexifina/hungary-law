@@ -12,11 +12,11 @@ a) alapbére (garantált illetménye) és
 
 b) az őt jogszabály, kollektív szerződés, kinevezés vagy munkaszerződés alapján munkavégzés esetén folyamatosan megillető bér- vagy illetménypótlékok, munkavállalók esetében ide nem értve a prémiumot (a továbbiakban: rendszeres pótlék)
 
-együttes összegének mértékétől függően az 1. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
+együttes összegének mértékétől függően – nem rendszeres jövedelemnek minősülő bérelemként – az 1. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
 
-(3) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót a 3. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
+(3) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót – nem rendszeres jövedelemnek minősülő bérelemként – a 3. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
 
-(4) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót havi 31 435 Ft összegű visszamenőleges illetmény- vagy bérnövelés illeti meg.
+(4) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót – nem rendszeres jövedelemnek minősülő bérelemként – havi 31 435 Ft összegű visszamenőleges illetmény- vagy bérnövelés illeti meg.
 
 (5) A (2)–(4) bekezdés szerinti visszamenőleges illetmény- vagy bérnövelés végrehajtásánál
 
@@ -36,11 +36,13 @@ kell figyelembe venni.
 
 (10) A (2)–(4) bekezdés szerinti visszamenőleges illetmény- vagy bérnövelés összegét a 2012. júliusi bér (illetmény) kifizetésével egyidejűleg egy összegben kell az egészségügyi dolgozó, egészségügyben dolgozó részére kifizetni.
 
-(11) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (4) bekezdése szerinti orvos munkakörben foglalkoztatott egészségügyi dolgozót alapbére (garantált illetménye) és az őt megillető rendszeres pótlék vagy pótlékok együttes összegének mértékétől függően az 1. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
+(11) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (4) bekezdése szerinti orvos munkakörben foglalkoztatott egészségügyi dolgozót alapbére (garantált illetménye) és az őt megillető rendszeres pótlék vagy pótlékok együttes összegének mértékétől függően – rendszeres jövedelemnek minősülő bérelemként – a (20) bekezdésben foglaltakra is figyelemmel az 1. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
 
-(12) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót a 3. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
+(12) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót – rendszeres jövedelemnek minősülő bérelemként – a (19) bekezdésben foglaltakra is figyelemmel a 3. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
 
-(13) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót havi 31 435 Ft összegű folyamatos illetmény- vagy bérnövelés illeti meg.
+(12a) A Kormány által a 11/A. § (1), (2), (5) és (6) bekezdésében foglaltakra tekintettel kormányrendeletben megállapított ellátások, egészségügyi szolgáltatók vagy munkakörök módosítása esetén az illetmény- vagy bérnövelés és a 30. § szerinti támogatás igénybevételének feltételeit, valamint az irányadó határidőket vagy határnapokat a Kormány rendeletben állapítja meg.
+
+(13) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót – rendszeres jövedelemnek minősülő bérelemként – havi 31 435 Ft összegű folyamatos illetmény- vagy bérnövelés illeti meg.
 
 (14) A (11)–(13) bekezdés szerinti folyamatos illetmény- vagy bérnövelés
 
@@ -64,6 +66,10 @@ ba) ha munkaviszonya 2012. június 30-án, valamint 2012. július 1-jén is fenn
 
 bb) a 2012. június 30. után létesített munkaviszony esetén a munkáltatónál azonos munkakörben, azonos gyakorlati idővel 2012. június 30-án foglalkoztatott munkavállalók munkaszerződés szerinti személyi alapbére – több ilyen munkavállaló esetén alapbérük átlaga –, ilyen munkavállalók hiányában a Kjt. 2012. június 30-án hatályos szabályainak alapulvételével meghatározott besorolási osztályhoz és fokozathoz tartozó garantált illetménnyel azonos összeg.
 
-(17) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti visszamenőleges és folyamatos illetmény- vagy bérnövelést a 2011–2012. évi adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat 2012. évre megillető kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében nem kell figyelembe venni.
+(17) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti visszamenőleges és folyamatos illetmény- vagy bérnövelést a 2011–2012. évi és 2012–2013. évi adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat 2012. és 2013. évre megillető kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében nem kell figyelembe venni.
 
-(18) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti illetmény- vagy bérnövelés az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 460. §-a szerinti elvárt béremelésként az ott meghatározott adókedvezmény szempontjából nem vehető figyelembe.
+(18) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti illetmény- vagy bérnövelés az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 460. §-a szerinti elvárt béremelésként, részkedvezményalap részeként az ott meghatározott adókedvezmény szempontjából nem vehető figyelembe.
+
+(19) A 2012. június 30-án és 2012. július 1-jén is az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (5) bekezdése szerinti munkakörben álló foglalkoztatott a 11/A. § (5) bekezdése szerinti garantált illetményre vagy bérre a (12) bekezdésben meghatározott folyamatos illetmény- vagy bérnövelés útján jogosult. A 2012. június 30-át követően az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (5) bekezdése szerinti munkakört létesítő foglalkoztatott az egészségügyi ágazati előmeneteli szabályok alapján őt megillető illetmény- vagy bérnövelésre kizárólag a 11/A. § (5) bekezdése alapján jogosult.
+
+(20) A 2012. december 31-én és 2013. január 1-jén is az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (4) bekezdése szerinti orvos munkakörben álló foglalkozatott a 11/A. § (4) bekezdése szerinti garantált illetményre vagy bérre a (11) bekezdésben meghatározott folyamatos illetmény- vagy bérnövelés útján jogosult. A 2012. december 31-ét követően az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (4) bekezdése szerinti munkakört létesítő foglalkoztatott az egészségügyi ágazati előmeneteli szabályok alapján őt megillető illetmény- vagy bérnövelésre kizárólag a 11/A. § (4) bekezdése alapján jogosult.
