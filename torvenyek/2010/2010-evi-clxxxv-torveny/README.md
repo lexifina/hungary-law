@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2012-05-31 | 165/2011. (XII. 20.) AB határozat | 2010-185-00-00.13 |
 | 2012-06-19 | 2012. évi LXVI. törvény | 2010-185-00-00.14 |
 | 2012-07-03 | 2012. évi LXVI. törvény | 2010-185-00-00.15 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 2010-185-00-00.16 |

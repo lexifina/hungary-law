@@ -12,7 +12,7 @@ b) az eljárás egyéb résztvevőit, valamint az ügyfélnek és az eljárás e
 
 – e kötelezettség elmulasztása vagy nem megfelelő teljesítése esetében alkalmazható, a 156. § szerinti jogkövetkezményekre történő figyelmeztetés mellett – nyilatkozattételre, adatszolgáltatásra, illetve szóban vagy írásban adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására (e § alkalmazásában a továbbiakban együtt: adatszolgáltatás) kötelezheti.
 
-(4) A (3) bekezdés szerinti végzés ellen az eljárás egyéb résztvevője, akit adatszolgáltatásra köteleztek, a Fővárosi Törvényszékhez halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
+(4) A (3) bekezdés szerinti végzés ellen az eljárás egyéb résztvevője, akit adatszolgáltatásra köteleztek, a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
 
 (5) A (2) és (3) bekezdés alkalmazása keretében
 
@@ -22,7 +22,7 @@ b) a Hatóság nem kötelezheti a médiatartalom-szolgáltatót, valamint a vele
 
 (6) Az (5) bekezdés szerinti mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad. Az (5) bekezdés a) pontjában foglalt tilalom alól az ügyfél felmentést adhat.
 
-(7) A Hatóságnak az (5) bekezdésben foglalt mentességi okra hivatkozás ellenére adatszolgáltatásra vagy irat, eszköz, dokumentum átadására, felmutatására kötelező végzése ellen a kötelezett ügyfél vagy eljárást egyéb résztvevője a Fővárosi Törvényszékhez halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
+(7) A Hatóságnak az (5) bekezdésben foglalt mentességi okra hivatkozás ellenére adatszolgáltatásra vagy irat, eszköz, dokumentum átadására, felmutatására kötelező végzése ellen a kötelezett ügyfél vagy az eljárás egyéb résztvevője a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
 
 (8) A tanú meghallgatható az ügyfél üzleti titkáról akkor is, ha nem kapott felmentést az ügyféltől a titoktartás alól.
 

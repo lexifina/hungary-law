@@ -8,4 +8,4 @@
 
 (5) A Hivatal önálló jogorvoslattal támadható végzései ellen a nemperes eljárás iránti kérelmet a végzés közlésétől számított tizenöt napon belül kell benyújtani.
 
-(6) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+(6) A bírósági felülvizsgálati eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.

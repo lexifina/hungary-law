@@ -28,7 +28,7 @@ c) ha az alapító és a kiadó eltérő személy vagy vállalkozás, mindkettő
 
 a) a bejelentővel szemben összeférhetetlenségi ok áll fenn, vagy
 
-b) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít.
+b) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít, vagy ha a sajtótermék elnevezése a 41/A. § (1) bekezdésében meghatározott követelményeknek nem felel meg.
 
 (6) A sajtóterméket törölni kell a nyilvántartásból, ha
 

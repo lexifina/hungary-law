@@ -6,7 +6,7 @@
 
 (3)
 
-(4) Amennyiben a 62. § (5) bekezdés szerint a Fővárosi Ítélőtábla eljárását kezdeményezték, a hatósági szerződés a Fővárosi Ítélőtábla jogerős döntéséig nem köthető meg. A Fővárosi Ítélőtábla felülvizsgálati eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
+(4) Amennyiben a 62. § (5) bekezdés szerint a Fővárosi Közigazgatási és Munkaügyi Bíróság eljárását kezdeményezték, a hatósági szerződés a Fővárosi Közigazgatási és Munkaügyi Bíróság jogerős döntéséig nem köthető meg. A Fővárosi Közigazgatási és Munkaügyi Bíróság felülvizsgálati eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
 
 (5) A Médiatanács a 187. § szerint bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződést nem köti meg.
 
