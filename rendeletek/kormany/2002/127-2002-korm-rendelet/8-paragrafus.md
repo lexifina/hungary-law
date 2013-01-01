@@ -1,8 +1,8 @@
-## 7. §[^12]
+## 7. §[^13]
 
-8. § (1)–(3)[^13]
+8. § (1)–(3)[^14]
 
-(4)[^14] A szolgáltatás nyújtására irányuló megállapodás tartalmazza:
+(4)[^15] A szolgáltatás nyújtására irányuló megállapodás tartalmazza:
 
 a) az igényelt szolgáltatás pontos leírását;
 
@@ -24,6 +24,6 @@ b) az örökbe fogadni szándékozó személy bejelentési kötelezettségét ar
 
 c) örökbe fogadni szándékozó személyt terhelő költségek viselésének szabályait.
 
-[^12]: A 7. §-t a 360/2010. (XII. 30.) Korm. rendelet 37. § c) pontja hatályon kívül helyezte.
-[^13]: A 8. § (1)–(3) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 37. § d) pontja hatályon kívül helyezte.
-[^14]: A 8. § (4) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 38. § c) pontjával megállapított szöveg.
+[^13]: A 7. §-t a 360/2010. (XII. 30.) Korm. rendelet 37. § c) pontja hatályon kívül helyezte.
+[^14]: A 8. § (1)–(3) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 37. § d) pontja hatályon kívül helyezte.
+[^15]: A 8. § (4) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 38. § c) pontjával megállapított szöveg.

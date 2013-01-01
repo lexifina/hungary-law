@@ -8,9 +8,9 @@ c) szolgáltatása a gyermekek érdekeivel ellentétes, közérdeket sért;
 
 d) szolgáltatása felfüggesztésre került és a feltárt hiányosság megszüntetése, illetve a jogszerű működés helyreállítása hatvan napon belül nem történik meg;
 
-e)[^10] megsértette a Gyvt. 69/E. § (1) bekezdésében meghatározott rendelkezést.
+e)[^11] megsértette a Gyvt. 69/E. § (1) bekezdésében meghatározott rendelkezést.
 
-(2)[^11]
+(2)[^12]
 
-[^10]: A 6. § (1) bekezdés e) pontja a 360/2010. (XII. 30.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
-[^11]: A 6. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.
+[^11]: A 6. § (1) bekezdés e) pontja a 360/2010. (XII. 30.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.

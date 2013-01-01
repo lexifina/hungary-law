@@ -1,4 +1,4 @@
-1. §[^1] (1) Az örökbefogadást elősegítő közhasznú szervezet (a továbbiakban: közhasznú szervezet) a Gyvt. 69/A. § (2) bekezdés a) és b) pontjában foglalt tevékenységét az 1. melléklet szerint dokumentálja. Az adatok rögzítését a közhasznú szervezet adatvédelmi szabályzatában erre kijelölt személy végzi.
+1. §[^2] (1) Az örökbefogadást elősegítő közhasznú szervezet (a továbbiakban: közhasznú szervezet) a Gyvt. 69/A. § (2) bekezdés a) és b) pontjában foglalt tevékenységét az 1. melléklet szerint dokumentálja. Az adatok rögzítését a közhasznú szervezet adatvédelmi szabályzatában erre kijelölt személy végzi.
 
 (2) A közhasznú szervezet a Gyvt. 69/A. § (2) bekezdés c) pontjában foglalt tevékenysége keretében a vér szerinti szülő döntése alapján
 
@@ -10,4 +10,4 @@ b) előkészíti a vér szerinti szülőnek az örökbe fogadni szándékozó sz
 
 (4) A közhasznú szervezet által közvetített nyílt örökbefogadást a közhasznú szervezet a 3. melléklet szerint dokumentálja. Az adatok rögzítését a közhasznú szervezet adatvédelmi szabályzatában erre kijelölt személy végzi.
 
-[^1]: Az 1. § a 360/2010. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^2]: Az 1. § a 360/2010. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.

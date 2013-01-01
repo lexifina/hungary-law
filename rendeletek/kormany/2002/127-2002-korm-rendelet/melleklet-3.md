@@ -16,6 +16,6 @@
 
 | Családgondozás keretében végzett tanácsadást és segítségnyújtást végző személy és a nyílt örökbefogadást elősegítő tevékenységet végző személy képesítése | - felsőfokú szociális szakképzettség, - felsőfokú pedagógiai szakképzettség, - jogász, - pszichológus, - védőnő, - szakirányú továbbképzésben mentálhigiéniai szakon szerzett felsőfokú szakképzettség |
 
-3. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^26]
+3. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^27]
 
-[^26]: A 3. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^27]: A 3. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 29. §-a szerint módosított szöveg.

@@ -76,6 +76,6 @@
 
 ## Mi segített a gyermek nevelésének vállalásában:
 
-2. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^25]
+2. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^26]
 
-[^25]: A 2. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be.
+[^26]: A 2. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be.

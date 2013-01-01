@@ -36,7 +36,7 @@
 
 ## Az örökbe fogadó szülő nyilvántartásba vételének ideje:
 
-## A vér szerinti szülők gyermekük nyílt örökbefogadásához a gyámhivatal előtt tett hozzájárulásának időpontja:
+## A vér szerinti szülők gyermekük nyílt örökbefogadásához a járási (fővárosi kerületi) gyámhivatal előtt tett hozzájárulásának időpontja:
 
 ## A gyermek törvényes képviselője hozzájárulásának időpontja:
 
@@ -218,6 +218,6 @@
 
 ## ** A válasz önkéntes nyilatkozat alapján tölthető ki, a megfelelő részt kérjük aláhúzni, illetve kitölteni.
 
-4. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^27]
+4. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^28]
 
-[^27]: A 4. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be.
+[^28]: A 4. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be.

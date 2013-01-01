@@ -14,7 +14,7 @@
 
 ## 6. A kiadmányozási joggal rendelkező személy aláírása és a tanúsítványt kiállító szerv bélyegzőlenyomata:
 
-5. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^28]
+5. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^29]
 
 A közhasznú szervezet által az örökbe fogadandó gyermekről
 
@@ -50,7 +50,7 @@ Testvéreinek száma:
 
 2. A gyermek egészségi állapota, fejlődése:
 
-3. A vér szerinti szülők gyermekük nyílt örökbefogadásához a gyámhivatal előtt tett hozzájárulásának időpontja:
+3. A vér szerinti szülők gyermekük nyílt örökbefogadásához a járási (fővárosi kerületi) gyámhivatal előtt tett hozzájárulásának időpontja:
 
 A gyermek törvényes képviselője hozzájárulásának időpontja:
 
@@ -182,4 +182,4 @@ A nyilvántartásba vétel ideje (a megállapodás megkötésének ideje):
 
 ** Amennyiben a gyermek neme fiú vagy lány is lehet, kérjük, mindkettőt jelöljék be!
 
-[^28]: Az 5. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^29]: Az 5. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 21. § (3) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 29. §-a szerint módosított szöveg.
