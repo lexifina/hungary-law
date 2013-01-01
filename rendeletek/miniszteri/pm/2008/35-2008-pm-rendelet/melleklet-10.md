@@ -1,9 +1,3 @@
-## BEVALLÁS
+10. melléklet a 35/2008. (XII. 31.) PM rendelethez[^13]
 
-## a helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez
-
-## kapcsolódó talajterhelési díjhoz
-
-## 2011. évről
-
-10. melléklet a 35/2008. (XII. 31.) PM rendelethez
+[^13]: A 10. melléklet a 45/2012. (XII. 27.) NGM rendelet 3. § (9) bekezdésével megállapított szöveg.

@@ -56,4 +56,6 @@
 
 | ________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ____________________________________ az adózó vagy képviselője (meghatalmazottja) aláírása |
 
-7. melléklet a 35/2008. (XII. 31.) PM rendelethez
+7. melléklet a 35/2008. (XII. 31.) PM rendelethez[^10]
+
+[^10]: A 7. melléklet a 45/2012. (XII. 27.) NGM rendelet 3. § (6) bekezdésével megállapított szöveg.
