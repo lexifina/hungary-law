@@ -1,3 +1,0 @@
-## A jognyilatkozatok
-
-6. §

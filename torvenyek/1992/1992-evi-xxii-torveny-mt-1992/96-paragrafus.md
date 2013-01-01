@@ -1,3 +1,0 @@
-## Rendkívüli felmondás
-
-96. §

@@ -1,5 +1,0 @@
-## MÁSODIK RÉSZ
-
-## A MUNKAÜGYI KAPCSOLATOK
-
-14–15. §
