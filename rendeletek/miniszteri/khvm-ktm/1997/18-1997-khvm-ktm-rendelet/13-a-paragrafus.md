@@ -16,7 +16,7 @@ a) a repülőtér üzemben tartóját képviselő két vezető, akik közül az 
 
 b) a repülőtér üzemeltetését biztosító légiforgalmi szolgáltató szervezet egy kijelölt képviselője,
 
-c) a területileg illetékes környezetvédelmi hatóság és az Állami Népegészségügyi és Tisztiorvosi Szolgálat egy-egy képviselője,
+c)[^27] a területileg illetékes környezetvédelmi hatóság és a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének egy-egy képviselője,
 
 d) a légiközlekedési hatóság egy képviselője,
 
@@ -53,3 +53,4 @@ g) a főváros területére eső repülőtér esetén a Budapesti Agglomeráció
 (16) Új repülőtér létesítése esetén a zajvédelmi bizottságot úgy kell létrehozni, hogy a zajvédelmi bizottság már az engedélyezést megelőző időszakban véleményt nyilváníthasson az engedélyezésre előkészített tervekről.
 
 [^26]: A 13/A. §-t és az előtte lévő címet a 36/2004. (III. 31.) GKM–KvVM e. r. 11. §-a iktatta be.
+[^27]: A 13/A. § (3) bekezdés c) pontja a 76/2012. (XII. 22.) NFM rendelet 3. §-a szerint módosított szöveg.
