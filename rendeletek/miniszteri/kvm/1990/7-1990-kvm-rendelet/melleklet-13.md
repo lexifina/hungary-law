@@ -10,7 +10,7 @@
 
 ## Az aláhúzással jelölt helyrajzi számú ingatlanok az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló 14/2010. (V. 11.) KvVM rendelet alapján európai közösségi jelentőségű természetvédelmi rendeltetésű területek.
 
-13. számú melléklet a 7/1990. (IV. 23.) KVM rendelethez[^20]
+13. számú melléklet a 7/1990. (IV. 23.) KVM rendelethez[^21]
 
 ## A Pacsmagi-tavak Természetvédelmi Terület természetvédelmi kezelési terve
 
@@ -136,4 +136,4 @@ e) Gondoskodni kell a halastavak rendszeres kotrásáról.
 
 Az árokpartokat és a vízelvezető csatornák környékét kaszálással kell gyommentesíteni.
 
-[^20]: A 13. számú melléklet a 11/2012. (II. 21.) VM rendelet 3. §-ával megállapított szöveg.
+[^21]: A 13. számú melléklet a 11/2012. (II. 21.) VM rendelet 3. §-ával megállapított szöveg.
