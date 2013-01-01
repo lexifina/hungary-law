@@ -1,5 +1,0 @@
-3. § (1) Ha a létszámcsökkentéssel érintett foglalkoztatott esetében az igénylő a létszámcsökkentési döntését követően az Mt. 90. § (1) bekezdésében meghatározott felmondási védelemre tekintettel csak későbbi időpontban tudja a jogviszonyt megszüntetni, akkor az Mt. 90. § (1) bekezdése szerinti idő elteltét követően nyújthatja be e foglalkoztatott után a támogatási igényét.
-
-(2) Ha a létszámcsökkentéssel érintett foglalkoztatott a jogviszony megszűnése vagy az azzal kapcsolatos járandósága tekintetében munkaügyi bírósághoz fordult jogorvoslatért, akkor az igénylő az említett foglalkoztatott utáni fizetési kötelezettségének támogatására az igénylését akkor nyújthatja be, amikor a bíróság jogerősen megállapítja a munkáltató által hozott döntés jogszerűségét. Ebben az esetben az igénylés benyújtásának évében érvényes és hatályos jogszabály alapján történhet az igénylés.
-
-(3) Az (1) és (2) bekezdésben foglaltak igazolására szolgáló dokumentumokat az igénylő köteles az igényléséhez csatolni. Ebben az esetben a megerősítő döntés csatolása nem szükséges.
