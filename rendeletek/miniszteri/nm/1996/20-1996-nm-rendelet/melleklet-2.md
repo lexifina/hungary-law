@@ -1,105 +1,93 @@
-2. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^16]
+2. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^17]
 
 ## Az otthoni szakápolás és otthoni hospice ellátás működtetésének tárgyi feltételei
 
 1. Működtetés központja:
 
-a) irodahelyiség a legszükségesebb bútorokkal ellátva
+1.1. irodahelyiség a legszükségesebb bútorokkal ellátva,
 
-aa) kommunikációs lehetőség: telefon vagy személyhívó,
+1.1.1. kommunikációs lehetőség: telefon vagy személyhívó,
 
-ab) számítógép, nyomtatóval;
+1.1.2. számítógép, nyomtatóval,
 
-b) védőruha;
-
-c) közlekedési eszköz (ahol külön szükséges pl. kerékpár vagy motorkerékpár, esetleg autó, de nem kötelező jelleggel).
+1.2. védőruha.
 
 2. Az otthoni szakápolás, otthoni hospice ellátás során használt anyagok és eszközök
 
-Nővértáska
+2.1. Nővértáska tartozékai
 
-Vérnyomásmérő
+2.1.1. Vérnyomásmérő
 
-Phonendoscop
+2.1.2. Phonendoscop
 
-Garatlámpa (pupilla lámpa)
+2.1.3. Garatlámpa (pupilla lámpa)
 
-Steril egyszerhasználatos fecskendők különböző méretben
+2.1.4. Steril egyszerhasználatos fecskendők
 
-Steril tűk, szárnyas tűk, perifériás véna katéterek (branül) különböző méretben
+2.1.5. Streil tűk, szárnyas tűk, perifériás véna katéterek
 
-Steril infúziós szerelékek
+2.1.6. Bőr-, kéz-, nyálkahártya-, eszköz dezinficiensek
 
-Steril szondák
+2.1.7. Steril kötszerek
 
-Steril katéterek
+2.1.8. Steril ollók
 
-Steril katéter csúsztató
+2.1.9. Steril anatómiai csipesz
 
-Bőr-, kéz-, nyálkahártya-, eszköz-dezinficiens
+2.1.10. Stranguláló gumi
 
-Steril kötszerek
+2.1.11. Ragtapasz
 
-Steril kötszer ollók
+2.1.12. Vatta
 
-Steril anatómiai csipeszek
+2.1.13. Testhőmérő
 
-Steril horgas csipeszek
+2.1.14. Spatula
 
-Kocher
+2.1.15. Mérőszalag
 
-Stranguláló gumi
+2.1.16. Vesetál
 
-Ragtapasz
+2.1.17. Védőruha, védőkötény, védősapka, cipővédő
 
-Vatta
+2.1.18. Arcmaszk
 
-Lázmérő
+2.1.19. Steril és nem steril gumikesztyű, fólia kesztyű
 
-Spatulák
+2.1.20. Egyszer használatos kéztörlő
 
-Beöntő felszerelés
+2.1.21. Elsődleges veszélyes hulladék gyűjtő doboz
 
-Steril beöntő csövek
+2.2. A szolgáltatónak rendelkeznie kell a következő eszközökkel:
 
-Vesetál
+2.2.1. Steril infúziós szerelékek
 
-Védőruha, védőkötény
+2.2.2. Steril szondák
 
-Arcmaszkok
+2.2.3. Steril hólyag- és váladék leszívó katéterek
 
-Steril és nem steril gumikesztyűk, fólia kesztyűk
+2.2.4. Steril katéter csúsztató
 
-Egyszer használatos kéztörlő
+2.2.5. Steril beöntő felszerelés vagy beöntő felszerelés steril beöntő csővel
 
-Infúziós pumpa (csak hospice ellátásban és krónikus bélelégtelenségben szenvedők parenterális ellátása során)
+2.2.6. Infúziós pumpa (parenterális táplálás és hospice ellátás esetén)
 
-Egyéb:
+2.2.7. Vizeletvizsgálati tesztcsík
 
-Elsődleges veszélyes hulladék gyűjtő doboz
+2.2.8. Vércukorszintmérő tesztcsíkkal
 
-3. Ajánlott eszközök és felszerelések
+2.2.9. Hajmosó felszerelés
 
-Vizeletvizsgálati tesztcsík
+2.2.10. Elektroterápiás készülékek: hordozható ingeráram készülék, hordozható terápiás UH készülék és kombinált készülékek – amennyiben a szolgáltató gyógytorna, fizioterápia szolgáltatást nyújt
 
-Vércukorszintmérő
+2.2.11. Inhalátor
 
-Hajmosó felszerelés
+2.2.12. Hordozható váladékszívó
 
-Elektroterápiás készülékek: hordozható ingeráram készülék, hordozható terápiás UH készülék és kombinált készülékek
+2.2.13. A használt sterilizálandó eszközök szállítására, mechanikus tisztítására, fertőtlenítésére szolgáló eszközök, tárolók – amennyiben a szolgáltató alkalmaz sterilizálandó eszközöket
 
-Elektromos masszírozó készülék
+2.2.14. Logopédiai eszközök – logopédiai szolgáltatás nyújtása esetén az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározottak szerint
 
-Inhalátor
+2.2.15. Szögmérő és a gyógytornászok egyéb eszközei, amennyiben a szolgáltató gyógytorna, fizioterápia szolgáltatást nyújt
 
-Hordozható váladékszívó
-
-Logopédiai eszközök
-
-Célzott mozgást segítő eszközök
-
-Ápolást és mozgást segítő egyéb eszközök
-
-Szögmérő és a gyógytornászok egyéb eszközei
-
-[^16]: A 2. számú melléklet a 26/2009. (VIII. 5.) EüM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^17]: A 2. számú melléklet az 58/2012. (XII. 29.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.

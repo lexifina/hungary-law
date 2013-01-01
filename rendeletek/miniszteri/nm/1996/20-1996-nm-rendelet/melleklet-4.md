@@ -1,138 +1,100 @@
-## [Az arcképes igazolvány a következőket tartalmazza:
+|  |  | SZOLGÁLTATÓ: |  |
 
-## fénykép
+|  |  | NÉV: |  |
 
-## SZOLGÁLTATÓ:
+|  | fénykép |  |  |
 
-## NÉV:
+|  |  | Szakképesítés: |  |
 
-## szakképesítés:
+|  |  | Működési engedély száma: |  |
 
-## ÁNTSZ engedély sz.:
+|  |  | OEP szerződés száma: |  |
 
-## OEP szerződés száma:
+|  | Dátum ........................................... |  |
 
-## Dátum
+|  |  | ........................................ |  |
 
-## aláírás
+|  |  | aláírás |  |
 
-4. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^17]
+4. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^19]
 
-I. ÁPOLÁSI ANAMNÉZIS
+I/1.
 
-## A beteg neve/vagy azonosító száma:
+## ÁPOLÁSI ANAMNÉZIS
 
-## Gyógyszerérzékenység:
+| Beteg neve: TAJ: A beteg legközelebbi hozzátartozója:* ……………………………... telefonszáma: Háziorvos neve: ………………………………………………………… telefonszáma: |
 
-## Allergia:
+| GYÓGYSZERÉRZÉKENYSÉG: ……………………………………………………………………………………….. ALLERGIA: |
 
-## Kóros mértékű fogyasztás/szokások: dohányzás, alkohol, kávé, drog.
+| ALKAT FNO b530O** □ arányos □ túltáplált □ hiányos-csonkolt □ sovány |
 
-## Alkat: arányos, túltáplált, hiányos-csonkolt, sovány
+| RR: …………… HGMM PULZUS: …/PERC HŐMÉRSÉKLET: O C |
 
-## RR: ........... (Hgmm), Pulzus: ............/perc, hőmérséklet: ............ C fok
+| BŐR FNO b810□** □ ép □ kiütés □ decubitus □ seb □ oedema/lymphoe egyéb: . |
 
-## Bőr: ép, kiütés, dekubitus, seb, egyéb:
+| LÉGZÉS FNO b440o腧** □ normál □ tachypnoe □ bradypnoe □ apnoe □ cyanosis □ dyspnoe: □ nincs □ van □ nyugalmi ortopnoe KÖHÖGÉS: □ van □ nincs □ improduktív □ produktív köpet: □ Tracheostoma □ oxigén készülék használata |
 
-## Légzés: normál, tachypnoe, bradypnoe, apnoe, dyspnoe: nincs, van, nyugalmi ortopnoe,
-
-## köhögés: van, nincs, inproduktív, produktív, köpet: ..................
-
-## tracheostoma, oxigén készülék használata
-
-## Mozgásképesség:
-
-## helyzetváltoztatás: járóképes, segítséggel, járóképtelen, segédeszköz, egyesúlyzavar, fekvő
-
-## végtagok: fiziológiás mozgás, mozgáskorlátozott, paresis, plégia.
-
-## Érzékelés:
-
-## látás: normál, csökkent: ............................, vak
-
-## hallás: normál, csökkent, hallókészüléket használ, süket.
-
-## Táplálkozás:
-
-## étvágy: normális, fokozott, csökkent, nincs,
-
-## fogazat: saját, hiányos: részben, teljesen, protézis
-
-## étrend: normál, diéta: ................
-
-## nyelési, rágási nehézség: nincs, van ..............,
-
-## étkezés: önálló, segítéssel, csak etetéssel, szondatáplálás, parenterális táplálás
-
-## emésztés: fiziológiás, hányinger, hányás, puffadás, egyéb: ...............................
-
-## stoma: helye: ..............
-
-## Mentális állapot:
-
-## beszéd: jól érthető, nehezen érthető, beszédhiba, nem érthető, aphonia
-
-## beszéd megértés: jó, részleges, nem érti
-
-## tájékozódás: térben orientált : igen, nem, esetenként
-
-## időben orientált: igen, nem, esetenként
-
-## emlékezet: jó, gyengült, rossz
-
-## érzelmi állapot: nyugodt, közömbös, változó, zárkózott, nyugtalan, feszült, agresszív, elkeseredett, depressziós
-
-## intellektusa: végzettségének megfelelő, jó, hanyatló, leépült
-
-## Tisztálkodás: önálló, segítséggel, teljes ellátást igényel
-
-## Fájdalom: 0—nincs fájdalom, 1—kissé fáj, 2—mérsékelt fájdalom, 3—nagyon fáj, 4—elviselhetetlenül fáj (Keele-féle skála)
-
-## Emésztés: hányinger, hányás, hasmenés, székrekedés, puffadás, egyéb:.................
-
-## Kiválasztás:
-
-## vizelet: fiziológiás, katéter incontinens,
-
-## széklet: fiziológiás, incontinens, szorulás, hasmenés, anus prae
-
-## Alvás: fiziológiás, nehezen alszik el, alvásideje rövid, csak gyógyszerrel, egyéb:.....................
-
-## Kommunikáció: jól kommunikál, nehezen fejezi ki magát, nem tudja kifejezni magát
-
-## A beteg legközelebbi hozzátartozója:* . telefonszáma:
-
-## Háziorvos neve: telefonszáma:
-
-## _____________
+| MOZGÁS FNO b710⬜** helyzetváltoztatás: □ járóképes □ segítséggel □ járóképtelen □ segédeszköz □ egyensúlyzavar □ fekvő végtagok: □ fiziológiás mozgás □ mozgáskorlátozott □ paresis j, b kéz; j, b láb □ plégia j, b kéz; j, b láb □ orthostaticus hypotonia |
 
 ## * Szükség esetén a hozzátartozó beleegyezésével tölthető ki.
 
+| ÉRZÉKELÉS látás:FNO b210□** hallás: FNO b230⬜** látás □ normál csökkent:…………………… □ vak hallás □ normál □ csökkent □ siket |
+
+| TÁPLÁLKOZÁS FNO b510o腧** étvágy: □ kielégítő/normális □ fokozott □ csökkent □ nincs fogazat: □ saját □ hiányos: részben, teljesen, protézis szájüreg állapota:…………………………... étrend: □ normál diéta: nyelési, rágási nehézség: □ nincs □ van étkezés: □ önálló □ segítéssel □ csak etetéssel □ szondatáplálás □ parenterális táplálás emésztés: □ fiziológiás □ hányinger □ hányás □ puffadás egyéb: stoma: □ nincs □ van, helye: |
+
+## I/2.
+
+| MENTÁLIS ÁLLAPOT FNO b139□** beszéd: □ jól érthető □ nehezen érthető □ beszédhiba □ nem érthető □ aphonia beszéd megértés: □ jó □ részleges □ nem érti tájékozódás térben/időben: □ igen □ nem □ esetenként emlékezet: □ jó □ gyengült □ rossz érzelmi állapot: □ nyugodt □ közömbös □ változó □ zárkózott □ nyugtalan □ feszült □ agresszív □ elkeseredett □ befelé forduló □ elutasító tudatállapot: □ éber □ zavart □ aluszékony □ eszméletlen |
+
+| ALAPÁPOLÁSI IGÉNY mosakodás d510□** WC használat d530□** öltözködés d540□** étkezés d550□** □ önálló □ segítséggel □ teljes ellátást igényel |
+
+| FÁJDALOM FNO b280□** □ □ □ □ □ 0 – nincs fájdalom 1 – kissé fáj 2 – mérsékelt fájdalom 3 – nagyon fáj 4 – elviselhetetlenül fáj (Keele-féle skála) |
+
+| EMÉSZTÉS FNO b520o腧** □ hányinger □ hányás □ hasmenés □ székrekedés □ puffadás egyéb: |
+
+| KIVÁLASZTÁS/ÜRÍTÉS vizelet: FNO b620□** széklet: FNO b525□** vizelet: □ fiziológiás □katéter □incontinens széklet: □ fiziológiás □ incontinens □ szorulás □ hasmenés |
+
+| ALVÁS FNO b134□** o腧 fiziológiás □ nehezen alszik el □ alvásideje rövid □ csak gyógyszerrel egyéb: KOMMUNIKÁCIÓ FNO d310□** □ jól kommunikál □ nehezen fejezi ki magát □ nem tudja kifejezni magát |
+
+## ** FNO jelölésnél az üres négyzetbe: 0 – nincs probléma; 1 – enyhe probléma; 2 – mérsékelt probléma; 3 – súlyos probléma; 4 – teljes probléma
+
+| Dátum: |
+
+| ....................................................... |
+
 II. SZAKÁPOLÁS/HOSPICE ELLÁTÁS TERVEZÉSE ÉS KIVITELEZÉSE
+
+## (Kitöltése felvételkor és állapotváltozás esetén kötelező)
 
 | Terápiás rendelkezések* | gyógyszerek (neve, adagja, gyakorisága, a bejuttatás módja): |
 
-| kezelési utasítások: |
+|  | kezelési utasítások: |
 
 | Ápolási diagnózis és ápolási szükséglet |  |
 
 | Várható eredmények |  |
 
-| A tervezett ápolás megoszlása és gyakorisága | szakápolás: .............................................................................................................................................................. gyógytorna: .............................................................................................................................................................. elektroterápia: .............................................................................................................................................................. logopédia: .............................................................................................................................................................. |
+| A tervezett ápolás megoszlása és gyakorisága | szakápolás: .................................................................................................................................... |
 
-| Otthoni hospice ellátás esetén kitöltendő (a fentieken túl) | fájdalomcsillapítás: .............................................................................................................................................................. |
+|  | gyógytorna: ................................................................................................................................... |
 
-|  | mentálhigiénés gondozás, tanácsadás: .............................................................................................................................................................. |
+|  | elektroterápia: ................................................................................................................................... |
 
-|  | diétás gondozás, tanácsadás: .............................................................................................................................................................. |
+|  | logopédia: ................................................................................................................................... |
 
-|  | szociális tevékenységek szervezése: .............................................................................................................................................................. |
+| Otthoni hospice ellátás esetén kitöltendő (a fentieken túl) | fájdalomcsillapítás: ................................................................................................................................... |
 
-## Dátum:
+|  | mentálhigiénés gondozás, tanácsadás: ................................................................................................................................... |
 
-## ...........................................
+|  | diétás gondozás, tanácsadás: ................................................................................................................................... |
 
-## P. H.
+|  | szociális tevékenységek szervezése: ................................................................................................................................... |
+
+| Dátum: |  |
+
+| ....................................................... |  |
+
+| P. H. |
 
 | .................................. | .................................. |
 
@@ -140,125 +102,195 @@ II. SZAKÁPOLÁS/HOSPICE ELLÁTÁS TERVEZÉSE ÉS KIVITELEZÉSE
 
 ## ÁPOLÁSI LAP
 
-## Azonosítószám: ............................................ sorszáma: ......................
+| Azonosítószám: ............................................ | sorszáma: ...................... |  |
 
-## (vagy a beteg neve)
+| (vagy a beteg neve) |  |  |  |
 
-| Dátum | Elvégzett tevékenységek és gyógyszerelés | Észrevételek | Érkezés/távozás ideje | Szakápoló aláírása |
+| Dátum | Elvégzett tevékenységek és gyógyszerelés | A beteg aktuális állapota, mért paraméterek, észrevételek | Érkezés/távozás ideje | aláírás |
 
-III. SZAKÁPOLÁS/OTTHONI HOSPICE ELLÁTÁS ÉRTÉKELÉSE
+| ápoló | beteg/hoz- zátartozó |
 
-## (14 vizit /50 nap után)
+## SEBÁLLAPOT FELMÉRŐ LAP
 
-## A teljesített vizitek megoszlása:
+## Beteg neve:
 
-## Szakápolás
+## TAJ:
 
-## Gyógytorna
+## Decubitus lokalizáció:
 
-## Elektroterápia
+|  | 1. Tarkócsont 2. Lapocka 3. Processus spinosus (csigolya) 4. Könyök 5. Csípőtaréj 6. Keresztcsont 7. Ülőcsont 8. Achilles-ín 9. Sarok 10. Talp 11. Fül 12. Váll 13. Elülső sípcsonttüske 14. Tompor 15. Comb 16. Belső térd 17. Külső térd 18. Lábszár 19. Belboka 20. Külboka 21. A lábfej külső éle 22. A térd hátsó felszíne |
 
-## Logopédia
+## J: jobb oldal B: bal oldal M: mindkét oldal
 
-## Hospice
+| állapotváltozás dátumai | DECUBITUS RIZIKÓ FELMÉRÉS (Bővített Norton-skála) | Összes pontszám: |
 
-## A teljesített vizitek száma:
+| Kooperációs készség, motiváció | Élet- kor | Bőr állapota | Kísérő betegségek | Általános állapot | Mentális státusz | Aktivitás | Mobilitás | Inkontinen-cia |
 
-## Az ápolás során bekövetkezett változások, elért eredmények:
+| Jó (4) | 10 év alatt (4) | Ép, sértetlen (4) | Nincs (4) | Jó (4) | Éber (4) | Járóképes (4) | teljes (4) | nincs (4) |
 
-## önellátása teljessé vált, javult, változatlan, romlott, exitus
+| Kissé csökkent (3) | 11-30 év (3) | Száraz, hámló (3) | Könnyebb (3) | Kielégítő (3) | Fásult (3) | Járás segítséggel (3) | kissé akadályozott (3) | alkalom- szerű (3) |
 
-## Javult funkciók:
+| Részleges (2) | 31-60 év (2) | Nedves nyirkos (2) | Középsúlyos (2) | Rossz (2) | Zavart (2) | Kerekes szék szükséges (2) | nagyon akadályozott (2) | gyakori -vizelet (2) |
 
-## Állapotromlás oka:
+| Nincs (1) | 61 év felett (1) | Sérült, repedezett, allergiás (1) | Súlyos (1) | Nagyon rossz (1) | Kábult, öntudat- lan (1) | Ágyban fekvő (1) | immobil (1) | teljes vizelet - széklet (1) |
 
-## Kórházba kerülés oka, időpontja:
+| Orvosi diagnózis: |
 
-## Exitus oka, ideje:
+| Felvétel ideje: |
 
-## Ápolás befejezésének oka/ideje:
+| Decubitus kialakulásának helye: | Otthonában |
 
-## Ápolás folytatásának indoka:
+| Más intézményben |
 
-## További vizitigény:
+| Decubitus kialakulásának időpontja: |
 
-## Igazolom, hogy a fent nevezett és általam kezelt beteg számára az előírt otthonápolási szolgáltatások teljesítése megtörtént, végrehajtását rendszeresen ellenőriztem.
+| Dátum, aláírás |  |  |  |  |  |
 
-## Dátum: ...................................
+|  | 1 | 2 | 3 | 4 | 5 | 1 | 2 | 3 | 4 | 5 | 1 | 2 | 3 | 4 | 5 | 1 | 2 | 3 | 4 | 5 | 1 | 2 | 3 | 4 | 5 |
 
-## P. H.
+| Lokalizáció |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | ............................................................... |
+| Stádium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | az ápolásért felelős szolgálat |
+| Seb mérete (hossz x szélesség) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | vezetőjének aláírása |
+| Seb mélysége |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## Ellenőriztem, jóváhagyom:
+| Sebfelszín jellemzői: |
 
-## Dátum:...................................
+| Necrotikus (fekete) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## P. H.
+| Lepedékes (sárga) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | ............................................................... |
+| Sarjadzó (piros) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | az elrendelő orvos aláírása |
+| Hámosodó (rózsaszín) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Gombával fert. bűzös seb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Fertőzött seb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Váladék jellemzői: |
+
+| Serosus |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Haemo-serosus |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Purulens |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Szagtalan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Bűzös |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Váladék mennyisége: |
+
+| Nincs |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Minimális |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Közepes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Sok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Sebszél jellege: |
+
+| Aláterjedt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Üreges |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Oedemás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Ekzemás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Hyperaemiás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Ép |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Norton pontszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Mikrobiológiai vizsgálat: |  |
+
+| Mintavétel ideje: |  |
+
+| Mintavétel helye: |  |
+
+| Vizsgálat eredménye: |  |
+
+| Alkalmazott terápia: |  |
+
+## Kezelőorvos aláírása: ……………………………
 
 ## FIZIOTERÁPIAI DOKUMENTÁCIÓS LAP
 
-## A beteg neve: ................................................................................ nyilvántartási szám:
+| A beteg neve: ................................................................... nyilvántartási szám: ........................................ |
 
-## TAJ száma: ...................................................................................
+| TAJ száma: ...................................................................... |
 
-## Elrendelése:
+| Elrendelése: ..................................................................... |
 
-## Gyógytorna elrendelését indokoló diagnózis:
+| Gyógytorna elrendelését indokoló diagnózis: ........................................................................................... |
 
-## Elrendelt tevékenység:
+| Elrendelt tevékenység: .............................................................................................................................. |
 
-## vizit száma: ................................................................... gyakorisága:
+| vizit száma: ........................................................... gyakorisága: .............................................................. |
 
-## Elektroterápia elrendelését indokoló diagnózis:
+| Elektroterápia elrendelését indokoló diagnózis: ....................................................................................... |
 
-## Elrendelt tevékenység:
+| Elrendelt tevékenység: |
 
-## vizit száma: .................................................................. gyakorisága:
+| .................................................................................................................................................................... |
 
-## Kísérőbetegség/szövődmény diagnózisa (diagnózisai):
+| vizit száma: .......................................................... gyakorisága: ............................................................... |
 
-## Sebészeti beavatkozás dátuma:
+| Kísérőbetegség/szövődmény diagnózisa (diagnózisai): ............................................................................ |
 
-## diagnózisa:
+| Sebészeti beavatkozás dátuma: ................................................................................................................. |
 
-## Megengedett terhelés mértéke:
+| diagnózisa: ................................................................................................................................................. |
 
-## /nincs megkötés
+| Megengedett terhelés mértéke: .................................................................................................................. |
 
-## Fájdalom helye: ............................................................. jellege:
+| /nincs megkötés |
 
-## erősség: gyenge 1, közepes 2, erős 3.
+| Fájdalom helye: ..................................................... jellege: ...................................................................... |
 
-## Segédeszközök, protézisek:
+| erősség: gyenge 1, közepes 2, erős 3. |
 
-## Járási segédeszköz: nem szükséges/szükséges, fajtája
+| Segédeszközök, protézisek: |
 
-## Protézisek:
+| Járási segédeszköz: nem szükséges/szükséges, fajtája .............................................................................. |
 
-## külső protézis (protézisek):
+| Protézisek: |
 
-## belső protézisek:
+| külső protézis (protézisek): ....................................................................................................................... |
 
-## sínek:
+| belső protézisek: ........................................................................................................................................ |
 
-## egyéb:
+| sínek: ......................................................................................................................................................... |
 
-## Alkalmazandó fizioterápiás eljárások:
+| .................................................................................................................................................................... |
 
-## Dátum:...................................
+| egyéb: ........................................................................................................................................................ |
 
-## ...............................................................
+| Alkalmazandó fizioterápiás eljárások: |
 
-## elrendelő orvos
+| .................................................................................................................................................................... |
+
+| .................................................................................................................................................................... |
+
+| .................................................................................................................................................................... |
+
+| .................................................................................................................................................................... |
+
+| .................................................................................................................................................................... |
+
+| .................................................................................................................................................................... |
+
+| Dátum: ................................... |
+
+| ............................................................... |
+
+| elrendelő orvos |
 
 ## Ízületi mozgásvizsgálat
 
@@ -272,7 +304,9 @@ III. SZAKÁPOLÁS/OTTHONI HOSPICE ELLÁTÁS ÉRTÉKELÉSE
 
 | Érintett izom neve | 0 | 1 | 2 | 3 | 4 | 5 | Elért eredmény |
 
-## 0 = nincs működés, 1 = nonproduktív működés, 2 = gravitáció kikapcsolásával, 3 = gravitáció ellenében, 4 = ellenállással, 5 = teljes értékű működés
+## 0 = nincs működés, 1 = nonproduktív működés, 2 = gravitáció kikapcsolásával, 3 = gravitáció ellenében,
+
+## 4 = ellenállással, 5 = teljes értékű működés
 
 ## Rehabilitációs felmérés és értékelés
 
@@ -298,49 +332,37 @@ III. SZAKÁPOLÁS/OTTHONI HOSPICE ELLÁTÁS ÉRTÉKELÉSE
 
 ## Alsó végtag funkció: normális/kóros: sántítás, iránytartás, egyéb járáshiba:
 
+## .................................................................................................................................................................
+
 ## Felső végtag funkció: normális/kóros: fogáserősség, minőség, szenzibilitás:
+
+## .................................................................................................................................................................
 
 ## Egyéb funkcionális vizsgálathoz fűződő megjegyzések (izomtónus):
 
+## .................................................................................................................................................................
+
 ## Mozgásterápia célja:
+
+## .................................................................................................................................................................
 
 ## Gyógytornász/fizioterapeuta vizitlap
 
-## Beteg neve:
+## Beteg neve: .............................................................................................................................................
 
-## Azonosító száma: .................................................................... lapsorszám:
+## Azonosító száma: .......................................................... lapsorszám: ....................................................
 
-| Dátum | Időráfordítás | Végzett tevékenység leírása | Észrevételek | Ellátást végző aláírása |
+| Dátum | Időráfordítás | Végzett tevékenység leírása | Észrevételek | Aláírás |
 
-## Dátum:* ..........................................
+| szakdolgozó | beteg |
 
-## ...............................................................
+## Dátum:* ..........................................
+
+## ........................................................
 
 ## gyógytornász aláírása
 
-## ––––––––––––
-
-## * Folyamatos ellátás lezárásának dátuma.
-
-## Elért eredmények összefoglalása
-
-## Teljesített vizitek száma:
-
-## A beteg állapota záráskor:
-
-## További terápiás javaslatok:
-
-## önálló gyakorlás a tanult módon/gyakorlás hozzátartozóval,
-
-## További vizitigény:
-
-## Indokolás:
-
-## Dátum:
-
-| .................................................. | .................................................. |
-
-| gyógytornász | elrendelő orvos |
+| * Folyamatos ellátás lezárásának dátuma. |
 
 ## LOGOPÉDIAI DOKUMENTÁCIÓS LAP
 
@@ -348,13 +370,21 @@ III. SZAKÁPOLÁS/OTTHONI HOSPICE ELLÁTÁS ÉRTÉKELÉSE
 
 ## A beteg neve/azonosító száma:
 
+## ....................................................................................................................................................................
+
 ## Felvétel dátuma:
+
+## ....................................................................................................................................................................
 
 ## Logopédus neve:
 
-## telefonszáma:
+## ....................................................................................................................................................................
+
+## telefonszáma: .............................................................................................................................................
 
 ## Az agyi történés időpontja:
+
+## ....................................................................................................................................................................
 
 ## Vizsgálati dokumentumok
 
@@ -362,25 +392,25 @@ III. SZAKÁPOLÁS/OTTHONI HOSPICE ELLÁTÁS ÉRTÉKELÉSE
 
 ## A logopédiai vizsgálati dokumentumok:
 
-## anamnézis – Token-teszt – WAB-teszt – jelen állapot leírása – írásminta – rajzminta – hangfelvétel
+## anamnézis - Token-teszt - WAB-teszt - jelen állapot leírása - írásminta - rajzminta - hangfelvétel
 
 ## Az orvosi vizsgálatok dokumentációja:
 
-## zárójelentés – konzulens szakorvosi vélemények – neuropszichológus, pszichológus véleménye
+## zárójelentés - konzulens szakorvosi vélemények - neuropszichológus, pszichológus véleménye
 
 ## Kiegészítő vizsgálatok dokumentumai:
 
-## környezettanulmány – kontaktusteremtés – figyelmi állapot
+## környezettanulmány - kontaktusteremtés - figyelmi állapot
 
-## Érzékelés – észlelés: hallás – látás
+## Érzékelés - észlelés: hallás - látás
 
 ## Mozgásállapot:
 
-## nagymozgások: mozgás térben – egyensúlyérzék
+## nagymozgások: mozgás térben - egyensúlyérzék
 
-## finommozgások: kézmotorika – diszpraxia
+## finommozgások: kézmotorika - diszpraxia
 
-## Kísérő tünetek:
+## Kísérő tünetek: ..........................................................................................................................................
 
 ## Logopédiai diagnózis*
 
@@ -390,17 +420,17 @@ III. SZAKÁPOLÁS/OTTHONI HOSPICE ELLÁTÁS ÉRTÉKELÉSE
 
 ## Fluens: vezetéses afázia, Wernicke afázia, transzkortikális szenzoros afázia, anómikus afázia
 
-## ––––––––––––
-
-## * A megfelelő aláhúzandó.
+| * A megfelelő aláhúzandó. |
 
 ## Logopédiai munkanapló
 
-## Beteg neve: .................................................................................................. lapsorszám:
+## Beteg neve: ...................................................................................... lapsorszám: .....................................
 
-## Azonosító száma:
+## Azonosító száma: ......................................................................................................................................
 
-| Dátum | A foglalkozás anyaga | Megjegyzés | Időráfordítás | Logopédus aláírása |
+| Dátum | A foglalkozás anyaga | Megjegyzés | Időráfordítás | Aláírás |
+
+| logopédus | beteg |
 
 ## Dátum:* ...........................................
 
@@ -408,17 +438,21 @@ III. SZAKÁPOLÁS/OTTHONI HOSPICE ELLÁTÁS ÉRTÉKELÉSE
 
 ## logopédus aláírása
 
-## ––––––––––––
+| * A folyamatos ápolási eset lezárásának dátuma. |
 
-## * A folyamatos ápolási eset lezárásának dátuma.
+## Elért eredmények összefoglalása
 
-## Elért eredmények összefogalása
-
-## Teljesített vizitek száma:
+## Teljesített vizitek száma: ...........................................................................................................................
 
 ## Javult funkciók, utógondozás:
 
-## Dátum: ...........................................
+## ....................................................................................................................................................................
+
+## ....................................................................................................................................................................
+
+## ....................................................................................................................................................................
+
+## Dátum: ..........................................
 
 ## ...............................................................
 
@@ -428,4 +462,4 @@ IV. FÁJDALOM FELMÉRŐ LAP
 
 (csak otthoni hospice ellátás során)
 
-[^17]: A 4. számú melléklet a 26/2009. (VIII. 5.) EüM rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^19]: A 4. számú melléklet az 58/2012. (XII. 29.) EMMI rendelet 1. § (4) bekezdésével megállapított szöveg.

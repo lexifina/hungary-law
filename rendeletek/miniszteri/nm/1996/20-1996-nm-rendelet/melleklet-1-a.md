@@ -1,4 +1,4 @@
-1/A. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^15]
+1/A. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^16]
 
 ## Az otthoni hospice ellátás keretében ellátható feladatok
 
@@ -18,4 +18,4 @@
 
 8. Gyógyszerelés tervezése, ellenőrzése (megelőző, lépcsőzetes, kombinált fájdalomcsillapítás, orvosi tevékenység)
 
-[^15]: Az 1/A. számú mellékletet a 26/2009. (VIII. 5.) EüM rendelet 4. § (2) bekezdése iktatta be.
+[^16]: Az 1/A. számú mellékletet a 26/2009. (VIII. 5.) EüM rendelet 4. § (2) bekezdése iktatta be.
