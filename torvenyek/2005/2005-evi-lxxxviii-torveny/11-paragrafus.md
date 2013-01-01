@@ -24,6 +24,8 @@ a) egyesület, alapítvány, közalapítvány, egyházi jogi személy, gazdaság
 
 b) egyéni vállalkozó, az egyéni vállalkozói tevékenység bejelentéséről az egyéni vállalkozóról szóló törvényben meghatározott igazolást.
 
+(4b) Ha a szervezet adatairól szóló, a nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolásának (hatályos kivonat) benyújtására kötelezett civil szervezet a (3) bekezdés b) pont bb) alpontja vagy a (4) bekezdés a) pontja szerinti mellékletet a bejelentéshez nem csatolja, a hatályos kivonatot a miniszter saját hatáskörben szerzi be a bíróságtól.
+
 (5) Ha a fogadó szervezet egyházi jogi személy – annak alapszabályában jogi személynek nyilvánított, bírósági nyilvántartásba nem vett – szervezeti egysége, a kérelemhez mellékelni kell az egyházi jogi személy képviselőjének erre vonatkozó nyilatkozatát.
 
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.

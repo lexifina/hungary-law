@@ -1,6 +1,6 @@
 3. § (1) Fogadó szervezet lehet
 
-a) a helyi önkormányzat, a helyi önkormányzatok társulása és a települési önkormányzatok többcélú kistérségi társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
+a) a helyi önkormányzat, a helyi önkormányzatok társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
 
 b) a nemzetiségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
 
