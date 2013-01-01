@@ -26,9 +26,9 @@
 
 7. a Magyar Honvédség készenléti tevékenységet ellátó szervezetei és szervezeti egységei;
 
-8.[^42] a Katonai Nemzetbiztonsági Szolgálat;
+8.[^43] a Katonai Nemzetbiztonsági Szolgálat;
 
-9.[^43]
+9.[^44]
 
 10. a Honvédelmi Minisztérium Védelmi Hivatala;
 
@@ -52,9 +52,9 @@
 
 20. a Nemzeti Adó- és Vámhivatal;
 
-21.[^44] az Országos Vízügyi Főigazgatóságot, a vízügyi igazgatóságokat, valamint a nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
+21.[^45] az Országos Vízügyi Főigazgatóságot, a vízügyi igazgatóságokat, valamint a nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
 
-22.[^45] az Országos Vízügyi Főigazgatóság, a vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok;
+22.[^46] az Országos Vízügyi Főigazgatóság, a vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok;
 
 23. az Országos Mentőszolgálatot irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységeinek vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
 
@@ -72,7 +72,7 @@
 
 30. a fenti szervek körébe nem tartozó, a 17. § szerint a miniszter jóváhagyásával az EDR-hálózathoz külön megállapodás alapján kapcsolódó, jellemzően készenléti feladatokat ellátó szervezetek, amelyek a közigazgatási szervezetek szolgáltatását kiegészítő feladatokat, illetve közszolgáltatásokat látnak el, vagy kritikus fontosságú infrastruktúrát üzemeltetnek.
 
-[^42]: A 3. melléklet 8. pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés f) pontjával megállapított szöveg.
-[^43]: A 3. melléklet 9. pontját a 286/2012. (X. 11.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
-[^44]: A 3. melléklet 21. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^45]: A 3. melléklet 22. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^43]: A 3. melléklet 8. pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés f) pontjával megállapított szöveg.
+[^44]: A 3. melléklet 9. pontját a 286/2012. (X. 11.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^45]: A 3. melléklet 21. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^46]: A 3. melléklet 22. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
