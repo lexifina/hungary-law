@@ -16,10 +16,11 @@ c)[^13] a bányatóval érintett területtel kapcsolatos vízgazdálkodási, kul
 
 ## figyelemmel kell meghatározni.
 
-(5) A bányató üzemeltetésére vonatkozó jogerős határozat és ingatlan-nyilvántartási átvezetésre alkalmas változási vázrajz megküldésével a vízügyi hatóság megkeresi a bányató fekvése szerint illetékes körzeti földhivatalt, hogy a bányatavat – az ingatlan-nyilvántartásra vonatkozó külön jogszabályok szerint – a vízgazdálkodással összefüggő művelés alól kivett területként ,,bányató'' megnevezéssel jegyezze be az ingatlan-nyilvántartásba.
+(5)[^14] A bányató üzemeltetésére vonatkozó jogerős határozat és ingatlan-nyilvántartási átvezetésre alkalmas változási vázrajz megküldésével a vízügyi hatóság megkeresi a bányató fekvése szerint illetékes járási földhivatalt, hogy a bányatavat – az ingatlan-nyilvántartásra vonatkozó külön jogszabályok szerint – a vízgazdálkodással összefüggő művelés alól kivett területként ,,bányató'' megnevezéssel jegyezze be az ingatlan-nyilvántartásba.
 
 [^9]: A 3. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 205. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: Lásd a 18/1996. (VI. 13.) KHVM rendeletet.
 [^11]: 72/1996. (V. 22.) Korm. r. 15. §.
 [^12]: 72/1996. (V. 22.) Korm. r. 3. és 5. §.
 [^13]: A 3. § (4) bekezdésének c) pontja a 190/2001. (X. 18.) Korm. rendelet 3. §-ának h) pontja szerint módosított szöveg.
+[^14]: A 3. § (5) bekezdése a 296/2012. (X. 17.) Korm. rendelet 9. §-a szerint módosított szöveg.
