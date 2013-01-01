@@ -1,0 +1,9 @@
+29. § (1) Ha a hivatásos állomány tagjának a felmentésére a Hszt. 66/A. § (1) bekezdés a) pontjában meghatározott okból került sor, a felmentési idő megkezdésekor az Országgyűlési Őrség parancsnoka intézkedik a tartalékállományba helyezéséről. Erről az érintettet a felmentés közlésekor a tartalékállományba tartozás szabályainak ismertetésével írásban tájékoztatni kell. A tájékoztatásra és annak tudomásulvételére az állományparancs közlésére vonatkozó szabályokat kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti tájékoztatásnak ki kell terjednie arra is, hogy a törvényben meghatározott feltételek fennállása esetén a hivatásos állomány tagja a szolgálati viszony megszűnésekor kérheti a tartalékállományban tartását. A tájékoztatásnak tartalmaznia kell a tartalékállományban tartás esetén fennálló jogokat és kötelezettségeket is.
+
+(3) A személyügyi munkatárs a tartalékállományba helyezésről a hivatásos állomány érintett tagjára vonatkozóan kitöltött, önálló jogszabályban meghatározott adatokat tartalmazó adatlap és a jogviszony megszűnéséről szóló állományparancs alapján a jogszabályokban foglaltak szerint intézkedik az adatok nyilvántartásba vételéről és a tartalékállományt kezelő szervhez továbbításról.
+
+(4) Ha a hivatásos állomány tagja a felmentési ideje alatt a tartalékállomány keretében valamely költségvetési szervnél jogviszonyt létesít, a szolgálati viszony megszűnése időpontjának módosítására hivatalból intézkedni kell.
+
+(5) A Hszt. 66/A. § (2) bekezdésében meghatározott feltételek fennállása esetén az érintett a szolgálati viszony megszűnését megelőző 15 nappal az Országgyűlési Őrség parancsnokához benyújtott kérelmében kérheti a tartalékállományban tartását. Ebben az esetben a személyügyi munkatárs intézkedik az illetménykifizető hely felé a végkielégítés visszatartására.

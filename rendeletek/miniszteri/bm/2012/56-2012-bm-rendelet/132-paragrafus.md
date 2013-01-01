@@ -1,0 +1,1 @@
+## 131. § Működési körön belül eső károsodásnak kell tekinteni az úti balesettel kapcsolatban felmerült kárt is, ha az utazás az Országgyűlési Őrség saját szállítóeszközével vagy az általa igénybe vett szállítóeszközzel történt, valamint azt a kárt, amely a hivatásos állomány tagját szolgálati út alkalmával gyalogos közlekedés során érte.
