@@ -2,19 +2,19 @@
 
 6. § (1) A Hivatal foglalkoztatáspolitikai feladatkörében
 
-a) megállapítja a munkaügyi központok kötelező belső szakmai szabályzatainak elveit és főbb tartalmi követelményeit,
+a)[^3] megállapítja a munkaügyi központok és a kirendeltségek kötelező belső szakmai szabályzatainak elveit és főbb tartalmi követelményeit,
 
-b) meghatározza a munkaügyi központok szolgáltató tevékenységére vonatkozó szakmai követelményeket, valamint koordinálja a munkaügyi központok munkaerő-piaci szolgáltatásvásárlással, illetőleg a munkaerőpiaci szolgáltatást nyújtók részére adható támogatással kapcsolatos feladatait, továbbá ellátja az álláskeresők ellátásával, valamint a foglalkoztatást elősegítő támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
+b)[^4] meghatározza a munkaügyi központok és a kirendeltségek szolgáltató tevékenységére vonatkozó szakmai követelményeket, valamint koordinálja a munkaügyi központok munkaerő-piaci szolgáltatásvásárlással, illetőleg a munkaerő-piaci szolgáltatást nyújtók részére adható támogatással kapcsolatos feladatait, továbbá ellátja az álláskeresők ellátásával, valamint a foglalkoztatást elősegítő támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
 
 c) meghatározza és kidolgozza a hatósági és szolgáltató tevékenység ellátásához szükséges informatikai és számítógépes rendszereket, valamint működteti a Hivatal kezelésében lévő informatikai és számítógépes rendszereket, továbbá ennek körében fejleszti, teszteli, telepíti, módosítja a programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
 
-d) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével segíti a hatósági és szolgáltató tevékenységet,
+d)[^5] eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységét,
 
 e) fejleszti a munkaerőpiaci szolgáltatásokat,
 
-f) meghatározza a munkaügyi központok hatósági és szolgáltató tevékenységére vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez, melyekhez kapcsolódóan prognózisokat, elemzéseket, statisztikai összesítéseket, nyilvántartásokat készít,
+f)[^6] meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységére vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez, melyekhez kapcsolódóan prognózisokat, elemzéseket, statisztikai összesítéseket, nyilvántartásokat készít,
 
-g) javaslatot tesz a Hivatal és a munkaügyi központok informatikai rendszerének és ingatlanállományának fejlesztésére,
+g)[^7] javaslatot tesz a munkaügyi központok és a kirendeltségek informatikai rendszerének és ingatlanállományának fejlesztésére,
 
 h) ellátja a Nemzeti Foglalkoztatási Szolgálat munkatársainak humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
 
@@ -24,7 +24,7 @@ j) hatósági jogkört gyakorol, amelynek keretében
 
 ja) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről szóló nemzetközi szerződések végrehajtásával kapcsolatos feladatokat,
 
-jb) elbírálja a munkaügyi központok megyei (fővárosi) szervezete által hozott határozatok ellen benyújtott fellebbezéseket,
+jb)[^8] elbírálja a munkaügyi központok által hozott határozatok ellen benyújtott fellebbezéseket,
 
 k) adatokat gyűjt és elemez
 
@@ -68,9 +68,9 @@ r) ellátja a jogszabályok által meghatározott nyilvántartások vezetéséve
 
 s) munkaügyi kutatásokat kezdeményez és végez, valamint
 
-t) koordinálja a munkaügyi központok EU-támogatással megvalósuló tevékenységeit,
+t)[^9] koordinálja a munkaügyi központok és kirendeltségek EU-támogatással megvalósuló tevékenységeit,
 
-u)[^1] koordinálja a munkaügyi központok megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
+u)[^10] koordinálja a munkaügyi központok és kirendeltségek megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
 
 (2) A Hivatal a munkaügyi kapcsolatok feladatkörében
 
@@ -96,4 +96,11 @@ c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét ér
 
 d) egyéb szervezetekkel.
 
-[^1]: A 6. § (1) bekezdés u) pontja a 95/2012. (V. 15.) Korm. rendelet 45. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^3]: A 6. § (1) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
+[^4]: A 6. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
+[^5]: A 6. § (1) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (4) bekezdésével megállapított szöveg.
+[^6]: A 6. § (1) bekezdés f) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
+[^7]: A 6. § (1) bekezdés g) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
+[^8]: A 6. § (1) bekezdés j) pont jb) alpontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (6) bekezdésével megállapított szöveg.
+[^9]: A 6. § (1) bekezdés t) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
+[^10]: A 6. § (1) bekezdés u) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.

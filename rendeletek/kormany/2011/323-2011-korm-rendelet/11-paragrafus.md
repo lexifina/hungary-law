@@ -1,3 +1,5 @@
+## 10. §[^17]
+
 ## III. Fejezet
 
 ## A HIVATAL MUNKAVÉDELMI ÉS MUNKAÜGYI FELADATAI
@@ -25,3 +27,5 @@
 (10) A főigazgató-helyettes ellátja az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével kapcsolatosan külön jogszabály által hatáskörébe utalt feladatokat.
 
 (11) A munkavédelmi és munkaügyi igazgatóság külön jogszabály alapján ellátja az egyéni védőeszközök megfelelőségét tanúsító, ellenőrző szervezetek kijelölésével és bejelentésével kapcsolatosan hatáskörébe utalt feladatokat és működteti a Kijelölést Előkészítő Bizottságot.
+
+[^17]: A 10. §-t a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés k) pontja hatályon kívül helyezte.

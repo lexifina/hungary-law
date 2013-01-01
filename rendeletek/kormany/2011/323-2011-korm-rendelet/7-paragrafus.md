@@ -1,11 +1,9 @@
-7. § (1) A munkaügyi központ megyei (fővárosi) – az 1. mellékletben meghatározott székhelyen működő – szervezetből és kirendeltségekből áll.
+7. §[^11] (1) A munkaügyi központ az 1. mellékletben meghatározott székhelyen működik. A munkaügyi központ a kormányhivatal önálló feladat- és hatáskörrel rendelkező szervezeti egysége. A munkaügyi központ nevében a közigazgatási hatósági eljárásokban a munkaügyi központ igazgatója, vagy kiadmányozási jogkörrel rendelkező vezetője, ügyintézője jár el.
 
-(2) Az e rendelet szerinti munkaügyi központok megyei (fővárosi) szervezettel és kirendeltségekkel rendelkeznek. A megyei (fővárosi) munkaügyi központok irányítása alá tartozik az illetékességi területükön lévő valamennyi kirendeltség.
+(2) A munkaügyi központok szakmai irányítása alá tartozik az illetékességi területükön lévő valamennyi kirendeltség.
 
-(3)[^2] A munkaügyi központ élén igazgató áll. Az igazgató munkáját az igazgatóhelyettesek segítik.
+(3) A munkaügyi központ élén igazgató áll. Az igazgató munkáját az igazgatóhelyettesek segítik.
 
-(4) A kirendeltség a munkaügyi központ önálló feladat- és hatáskörrel rendelkező szervezeti egysége. A kirendeltség nevében a közigazgatási hatósági eljárásokban a kirendeltség vezetője vagy kiadmányozási jogkörrel rendelkező ügyintézője jár el.
+(4) A kirendeltség a járási hivatal önálló feladat- és hatáskörrel rendelkező szakigazgatási szerve. A kirendeltség élén kirendeltség-vezető áll. A kirendeltség nevében a közigazgatási hatósági eljárásokban a kirendeltség vezetője vagy kiadmányozási jogkörrel rendelkező ügyintézője jár el.
 
-(5) A munkaügyi központ vezetője vagy más kormánytisztviselője a kirendeltség vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét elsőfokú közigazgatási hatósági eljárásban nem utasíthatja.
-
-[^2]: A 7. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^11]: A 7. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (8) bekezdésével megállapított szöveg.
