@@ -1,1 +1,0 @@
-Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, az általános adófizetési kötelezettséget meghaladó közteherviselésre képes adózók különadó-kötelezettségéről a következő törvényt alkotja:

@@ -1,1 +1,0 @@
-9/A. § Az 5. §-nak a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló CLIII. törvénnyel megállapított szövegét már a 2010. adóévi adókötelezettség megállapítása során is alkalmazni kell.
