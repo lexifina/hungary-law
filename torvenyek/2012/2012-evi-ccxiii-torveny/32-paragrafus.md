@@ -1,0 +1,3 @@
+32. § Az Inytv. 37. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az Ehtv. szerint nyilvántartásba nem vett, az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró belső egyházi jogi személy bejegyzési kérelméhez csatolnia kell a felettes egyházi szerv nyilvántartásba vételéről szóló hatósági bizonyítványt, a felettes egyházi szerv képviseletére jogosult aláírási címpéldányát vagy az aláírási címpéldányának a hatósági bizonyítvány kiállítására jogosult által hitelesített másolatát, valamint a kérelmező belső egyházi jogi személyiségéről a felettes egyházi szerv által kiállított 30 napnál nem régebbi eredeti vagy közjegyző által hitelesített igazolást.”
