@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-95-00-00
 | 2012-03-08 | 2011. évi CXCII. törvény | 2001-95-00-00.41 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 2001-95-00-00.42 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2001-95-00-00.43 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 2001-95-00-00.44 |
