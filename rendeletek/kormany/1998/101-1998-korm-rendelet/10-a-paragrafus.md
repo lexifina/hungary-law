@@ -1,19 +1,19 @@
-## 9–10. §[^41]
+## 9–10. §[^44]
 
-## AZ EGYES ÚTI OKMÁNYOKRA VONATKOZÓ SZABÁLYOK[^42]
+## AZ EGYES ÚTI OKMÁNYOKRA VONATKOZÓ SZABÁLYOK[^45]
 
 ## Az ideiglenes úti okmány
 
-## (emergency travel document)[^43]
+## (emergency travel document)[^46]
 
-10/A. §[^44] (1)[^45] A magyar állampolgár az elveszett, eltulajdonított, megrongálódott, illetve személyazonosság megállapítására más módon alkalmatlanná vált útlevele vagy úti okmánya helyett ideiglenes úti okmányra jogosult, ha olyan ország területén tartózkodik, ahol nincs úti okmány kiállítására felhatalmazott konzuli tisztviselő.
+10/A. §[^47] (1)[^48] A magyar állampolgár az elveszett, eltulajdonított, megrongálódott, illetve személyazonosság megállapítására más módon alkalmatlanná vált útlevele vagy úti okmánya helyett ideiglenes úti okmányra jogosult, ha olyan ország területén tartózkodik, ahol nincs úti okmány kiállítására felhatalmazott konzuli tisztviselő.
 
 (2) Az ideiglenes úti okmány Magyarországra történő hazautazásra, a magyar állampolgár állandó lakóhelye szerinti országba történő visszautazásra vagy kivételesen más célállomásra történő egyszeri utazásra jogosít.
 
 (3) Más célállomásra történő egyszeri utazás céljából az ideiglenes úti okmány akkor kérelmezhető, ha ehhez a magyar állampolgárnak alapos érdeke fűződik.
 
-[^41]: A 9–10. §-t és az azokat megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^42]: A 10/A. §-t megelőző címet a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
-[^43]: A 10/A. §-t megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
-[^44]: A 10/A. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
-[^45]: A 10/A. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^44]: A 9–10. §-t és az azokat megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^45]: A 10/A. §-t megelőző címet a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
+[^46]: A 10/A. §-t megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
+[^47]: A 10/A. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A 10/A. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.

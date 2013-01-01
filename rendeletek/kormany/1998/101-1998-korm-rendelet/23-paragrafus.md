@@ -1,10 +1,10 @@
 ## A HATÁROZAT
 
-23. § (1)[^104] Ha a kérelmező a személyiadat- és lakcímnyilvántartás hatálya alá tartozik, akkor az úti okmányt a személyiadat- és lakcímnyilvántartásból átvett személyes adatokkal kell kiállítani.
+23. § (1)[^116] Ha a kérelmező a személyiadat- és lakcímnyilvántartás hatálya alá tartozik, akkor az úti okmányt a személyiadat- és lakcímnyilvántartásból átvett személyes adatokkal kell kiállítani.
 
-(2)[^105] Az úti okmányt – a (2a) bekezdésben meghatározott kivétellel – a kérelmező a kérelem benyújtásakor tett kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően
+(2)[^117] Az úti okmányt – a (2a) bekezdésben meghatározott kivétellel – a kérelmező a kérelem benyújtásakor tett kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően
 
-a) személyesen vagy törvényes képviselője útján a körzetközponti jegyzőnél,
+a)[^118] személyesen, törvényes képviselője vagy meghatalmazottja útján a járási hivatalnál,
 
 b) külföldön a konzuli tisztviselőnél vagy a konzuli tisztviselő által – a könyvelt küldeményként történő kézbesítésre vonatkozó szabályoknak megfelelően – postára adott úti okmányt postai úton,
 
@@ -14,17 +14,18 @@ d) belföldön – a könyvelt küldeményként történő kézbesítésre vonat
 
 veheti át.
 
-(2a)[^106] A sürgősségi, valamint az azonnali kiállítású úti okmányt a kérelmező személyesen vagy törvényes képviselője útján a Hivatalnál veheti át.
+(2a)[^119] A sürgősségi, valamint az azonnali kiállítású úti okmányt a kérelmező személyesen, törvényes képviselője vagy meghatalmazottja útján a Hivatalnál veheti át.
 
-(3)[^107] A kérelmező az okmány és a benne lévő tároló elem tartalmát a körzetközponti jegyzőnél, a konzuli tisztviselőnél vagy az eljáró útlevélhatóságnál személyesen ellenőrizheti.
+(3)[^120] A kérelmező az okmány és a benne lévő tároló elem tartalmát a járási hivatalnál, a konzuli tisztviselőnél vagy az eljáró útlevélhatóságnál személyesen ellenőrizheti.
 
-(4)–(5)[^108]
+(4)–(5)[^121]
 
-(6)[^109] A megjelölt kézbesítési címre postai úton megküldött és át nem vett útlevelet a kérelmező személyesen veheti át a kézbesítési cím szerint illetékes körzetközponti jegyzőnél. Az át nem vett útlevelet – az átvételre való felhívást követően – a körzetközponti jegyző az útlevél kiállításától számított egy év elteltével visszaküldi a Hivatalnak. A Hivatal az át nem vett útlevelet beérkezését követően megsemmisíti, és gondoskodik e ténynek a nyilvántartásban való feltüntetéséről.
+(6)[^122] A megjelölt kézbesítési címre postai úton megküldött és át nem vett útlevelet a kérelmező személyesen veheti át a kézbesítési cím szerint illetékes járási hivatalnál. Az át nem vett útlevelet – az átvételre való felhívást követően – a járási hivatal az útlevél kiállításától számított egy év elteltével visszaküldi a Hivatalnak. A Hivatal az át nem vett útlevelet beérkezését követően megsemmisíti, és gondoskodik e ténynek a nyilvántartásban való feltüntetéséről.
 
-[^104]: A 23. § (1) bekezdése a 98/2010. (IV. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^105]: A 23. § (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 98/2010. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2011. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^106]: A 23. § (2a) bekezdését a 360/2011. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
-[^107]: A 23. § (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 98/2010. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^108]: A 23. § (4)–(5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
-[^109]: A 23. § (6) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 13. §-ának (2) bekezdése iktatta be, szövege a 197/2006. (IX. 27.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^116]: A 23. § (1) bekezdése a 98/2010. (IV. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^117]: A 23. § (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 98/2010. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2011. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^118]: A 23. § (2) bekezdés a) pontja a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése c) és i) pontja szerint módosított szöveg.
+[^119]: A 23. § (2a) bekezdését a 360/2011. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése i) pontja szerint módosított szöveg.
+[^120]: A 23. § (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 98/2010. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése c) pontja szerint módosított szöveg.
+[^121]: A 23. § (4)–(5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^122]: A 23. § (6) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 13. §-ának (2) bekezdése iktatta be, szövege a 197/2006. (IX. 27.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése b) és c) pontja szerint módosított szöveg.
