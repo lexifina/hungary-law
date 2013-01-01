@@ -120,9 +120,7 @@
 
 ## 60. nem szőtt textília és termék gyártása (kivéve: ruházat)
 
-## 61. nem veszélyes hulladékok gyűjtése
-
-## 62. nem veszélyes hulladék kezelése, ártalmatlanítása
+## 61–62.[^32]
 
 ## 63. nem villamos háztartási készülék gyártása
 
@@ -167,3 +165,5 @@
 ## 83. villamos világítóeszköz gyártása
 
 2. melléklet a 358/2008. (XII. 31.) Korm. rendelethez
+
+[^32]: Az 1. melléklet 61–62. pontját a 441/2012. (XII. 29.) Korm. rendelet 13. § (4) bekezdése hatályon kívül helyezte.

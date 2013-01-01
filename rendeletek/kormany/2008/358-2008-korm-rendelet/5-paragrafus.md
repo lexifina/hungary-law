@@ -1,19 +1,19 @@
-## 4/A. §[^7]
+## 4/A. §[^10]
 
 5. § (1) A jegyző a telepengedély iránti kérelem beérkezését követően köteles meggyőződni arról, hogy a helyi építési szabályzat, szabályozási terv, meghatározott övezeti besorolás, illetőleg azok hiányában az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 18. § (2) bekezdése szerint a kérelemben feltüntetett telepen az adott tevékenység végezhető-e.
 
-(2)[^8] A telepengedélyezési eljárásban ügyfélnek minősül a teleppel közvetlenül szomszédos, a teleppel közös határvonalú, telekhatárú ingatlan tulajdonosa, társasház esetén a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetén az elnök.
+(2)[^11] A telepengedélyezési eljárásban ügyfélnek minősül a teleppel közvetlenül szomszédos, a teleppel közös határvonalú, telekhatárú ingatlan tulajdonosa, társasház esetén a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetén az elnök.
 
-(3)[^9] A jegyző köteles a telepen helyszíni szemlét tartani. A helyszíni szemle időpontjáról szóló értesítés tartalmazza a 4. melléklet I., II. és a III. 1. pontjában megjelölt adatokat és arra való figyelemfelhívást, hogy az értesített személyek távolmaradása a szemle megtartását nem akadályozza. Távolmaradás esetén a szemle időpontja előtt a jegyzőhöz írásban beadott észrevételeket a jegyző a szemlén ismerteti.
+(3)[^12] A jegyző köteles a telepen helyszíni szemlét tartani. A helyszíni szemle időpontjáról szóló értesítés tartalmazza a 4. melléklet I., II. és a III. 1. pontjában megjelölt adatokat és arra való figyelemfelhívást, hogy az értesített személyek távolmaradása a szemle megtartását nem akadályozza. Távolmaradás esetén a szemle időpontja előtt a jegyzőhöz írásban beadott észrevételeket a jegyző a szemlén ismerteti.
 
-(4)[^10] A teleppel közvetlenül szomszédos – közös határvonalú, telekhatárú – ingatlanokkal rendelkezni jogosultak adatait, valamint a 4. melléklet III. 2. és III. 3. pontjában foglaltak igazolásához szükséges tulajdoni lap másolatot a jegyző hivatalból, az ingatlanügyi hatóság megkeresése útján vagy a számítógépes ingatlan-nyilvántartási rendszer használatával szerzi be.
+(4)[^13] A teleppel közvetlenül szomszédos – közös határvonalú, telekhatárú – ingatlanokkal rendelkezni jogosultak adatait, valamint a 4. melléklet III. 2. és III. 3. pontjában foglaltak igazolásához szükséges tulajdoni lap másolatot a jegyző hivatalból, az ingatlanügyi hatóság megkeresése útján vagy a számítógépes ingatlan-nyilvántartási rendszer használatával szerzi be.
 
 (5) A szakhatóságok szakhatósági állásfoglalásukat a szemle megállapításairól felvett jegyzőkönyvbe mondhatják.
 
-(6)[^11] A helyszíni szemléről a jegyző jegyzőkönyvet készít, a jegyzőkönyv egy-egy példányát megküldi azoknak a személyeknek, akiket a szemle időpontjáról értesített.
+(6)[^14] A helyszíni szemléről a jegyző jegyzőkönyvet készít, a jegyzőkönyv egy-egy példányát megküldi azoknak a személyeknek, akiket a szemle időpontjáról értesített.
 
-[^7]: A 4/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 232. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § m) pontja.
-[^8]: Az 5. § (2) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^9]: Az 5. § (3) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^10]: Az 5. § (4) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 10. § (2) bekezdés b) pontja, továbbá a (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^11]: Az 5. § (6) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^10]: A 4/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 232. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § m) pontja.
+[^11]: Az 5. § (2) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^12]: Az 5. § (3) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^13]: Az 5. § (4) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 10. § (2) bekezdés b) pontja, továbbá a (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^14]: Az 5. § (6) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.

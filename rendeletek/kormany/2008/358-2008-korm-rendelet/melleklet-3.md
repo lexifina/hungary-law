@@ -132,4 +132,11 @@
 
 ## 66. villamos motor, áramfejlesztő gyártása
 
+## 67.[^33] nem veszélyes hulladék hasznosítása, ártalmatlanítása
+
+## 68.[^34] veszélyes hulladék hasznosítása, ártalmatlanítása
+
 3. melléklet a 358/2008. (XII. 31.) Korm. rendelethez
+
+[^33]: A 2. melléklet 67. pontját a 441/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^34]: A 2. melléklet 68. pontját a 441/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
