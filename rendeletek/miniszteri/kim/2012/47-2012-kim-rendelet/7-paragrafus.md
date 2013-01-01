@@ -1,0 +1,3 @@
+## 6. § A bírósági végrehajtás szervezetéről szóló 16/2001. (X. 26.) IM rendelet 73. §-a helyébe a következő rendelkezés lép:
+
+## „73. § A 2012. január 1. napján hatályba lépett, és az azt követő jogszabályváltozások miatt az e rendelet alapján kiállított igazolványokon feltüntetett adatok megváltozása nem érinti a bírósági igazolványokról szóló 15/1999. (XI. 10.) IM rendelet és a bírósági végrehajtás szervezetéről szóló 16/2001. (X. 26.) IM rendelet módosításáról szóló 47/2012. (XI. 28.) KIM rendelet hatályba lépését megelőzően kiállított igazolványok érvényességét; ezeket az igazolványokat ebből az okból nem kell bevonni és kicserélni.”
