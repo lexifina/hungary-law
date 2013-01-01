@@ -4,7 +4,7 @@
 
 ## Az elkövetők
 
-122. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, valamint a Rendőrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
+122. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, valamint a Rendőrség, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség hivatásos állományú tagja.
 
 (2) E törvény rendelkezéseit a katonákra a jelen fejezetben foglalt eltérésekkel kell alkalmazni.
 

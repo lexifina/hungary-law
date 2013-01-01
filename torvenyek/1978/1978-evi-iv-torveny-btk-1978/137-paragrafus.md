@@ -24,7 +24,7 @@ h) a közjegyző és a közjegyzőhelyettes;
 
 i) az önálló bírósági végrehajtó és az önálló bírósági végrehajtó-helyettes;
 
-j) alkotmánybíróságnál, bíróságnál ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársaság Elnökének Hivatalánál, az Országgyűlés Hivatalánál és az Alapvető Jogok Biztosának Hivatalánál szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik;
+j) az Alkotmánybíróságnál, bíróságnál, ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál és az Országgyűlési Őrségnél szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
 
 k)
 

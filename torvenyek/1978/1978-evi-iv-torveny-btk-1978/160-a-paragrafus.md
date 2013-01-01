@@ -23,3 +23,5 @@ c) az 1984. évi 2. törvényerejű rendelettel kihirdetett, a „Mértéktelen 
 d) az 1997. évi CIV. törvénnyel kihirdetett, a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény II. Cikkének 1. és 7. pontjában meghatározott vegyifegyvert vagy vegyi kényszerítő eszközt,
 
 e) az 1998. évi X. törvénnyel kihirdetett Gyalogsági aknák alkalmazásának, felhalmozásának, gyártásának és átadásának betiltásáról, illetőleg megsemmisítéséről szóló, Oslóban, 1997. szeptember 18-án elfogadott egyezmény 2. Cikkének 1. pontjában meghatározott gyalogsági aknát.
+
+f) a 2012. évi XI. törvénnyel kihirdetett, a Kazettás Lőszerekről szóló Egyezmény 2. Cikk 2. pontjában meghatározott kazettás lőszert, valamint 2. Cikk 13. pontjában meghatározott kisméretű ejtőlőszert.
