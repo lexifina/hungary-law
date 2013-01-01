@@ -10,7 +10,7 @@ c) a külön jogszabályban meghatározott egyéb kedvezményeknek
 
 az igénybevételére.
 
-(2) A települési önkormányzat jegyzője megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát, amennyiben a gyermeket gondozó családban az egy főre jutó havi jövedelem összege nem haladja meg
+(2) A gyámhatóság megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát, amennyiben a gyermeket gondozó családban az egy főre jutó havi jövedelem összege nem haladja meg
 
 a) az öregségi nyugdíj mindenkori legkisebb összegének (a továbbiakban: az öregségi nyugdíj legkisebb összege) a 140%-át,
 
@@ -52,6 +52,6 @@ b) együtt számítva az öregségi nyugdíj legkisebb összegének hetvenszeres
 
 meghaladja, azzal, hogy nem minősül vagyonnak az az ingatlan, amelyben a szülő vagy a tartásra köteles más törvényes képviselő életvitelszerűen lakik, az a vagyoni értékű jog, amely az általuk lakott ingatlanon áll fenn, továbbá a mozgáskorlátozottságra vagy tartós betegségre tekintettel fenntartott gépjármű.
 
-(8) A települési önkormányzat jegyzője a rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítására irányuló kérelmet elutasítja, ha a (4) bekezdésben megjelölt személyek együttesen vagy külön-külön a (7) bekezdésben meghatározott értékű vagyonnal rendelkeznek.
+(8) A gyámhatóság a rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítására irányuló kérelmet elutasítja, ha a (4) bekezdésben megjelölt személyek együttesen vagy külön-külön a (7) bekezdésben meghatározott értékű vagyonnal rendelkeznek.
 
 (9) Nem állapítható meg rendszeres gyermekvédelmi kedvezményre való jogosultság, illetőleg a megállapított jogosultságot meg kell szüntetni, ha a gyermek tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.

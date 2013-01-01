@@ -1,4 +1,4 @@
-81/C. § (1) A gyámhivatal nevelési felügyeletet elrendelő vagy azt felülvizsgáló határozata ellen fellebbezésnek helye nincs. A gyámhivatal a határozatát – annak közlésétől számított három napon belül – felülvizsgálat végett a bíróságnak megküldi.
+81/C. § (1) A gyámhatóság nevelési felügyeletet elrendelő vagy azt felülvizsgáló határozata ellen fellebbezésnek helye nincs. A gyámhatóság a határozatát – annak közlésétől számított három napon belül – felülvizsgálat végett a bíróságnak megküldi.
 
 (2) A bíróság nemperes eljárásban, a határozat megküldésétől számított tizenöt napon belül határoz a nevelési felügyelet fenntartásáról vagy megszüntetéséről.
 

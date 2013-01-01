@@ -8,7 +8,7 @@ a) folyamatosan figyelemmel kíséri a településen élő gyermekek szociális 
 
 b) meghallgatja a gyermek panaszát, és annak orvoslása érdekében megteszi a szükséges intézkedést,
 
-c) elkészíti a védelembe vett gyermek gondozási-nevelési tervét, illetve a települési önkormányzat jegyzőjének megkeresésére a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási tervet (a továbbiakban: pénzfelhasználási terv),
+c) elkészíti a védelembe vett gyermek gondozási-nevelési tervét, illetve a gyámhatóság megkeresésére a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási tervet (a továbbiakban: pénzfelhasználási terv),
 
 d) szervezi a – legalább három helyettes szülőt foglalkoztató – helyettes szülői hálózatot, illetve működtetheti azt, vagy önálló helyettes szülőket foglalkoztathat,
 

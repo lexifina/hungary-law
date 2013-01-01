@@ -4,7 +4,7 @@
 
 ## XIV. Fejezet
 
-## A helyi önkormányzat feladatai
+## A TELEPÜLÉSI ÖNKORMÁNYZAT ÉS AZ ÁLLAM FELADATAI
 
 ## A települési önkormányzat feladatai
 

@@ -22,7 +22,7 @@ i) ellátás: jogszabályban meghatározott pénzbeli, természetbeni, illetve s
 
 j) természetbeni ellátás: olyan támogatás, amellyel a gyermeket alapvető szükségleteinek kielégítésében az állam (önkormányzat) anyagi javak biztosításával, szolgáltatások kifizetésével és nyújtásával segíti,
 
-k) gyámhatóság: a települési önkormányzat jegyzője és a gyámhivatal,
+k) gyámhatóság: a fővárosi és megyei kormányhivatal szakigazgatási szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szakigazgatási szerve, valamint a települési önkormányzat jegyzője,
 
 l) gyámügy: a jogszabály által a gyámhatóság feladat- és hatáskörébe utalt ügyek köre,
 
@@ -38,13 +38,13 @@ q) fogyatékos gyermek, fiatal felnőtt:
 
 qa) a gyermekvédelmi pénzbeli és természetbeni ellátások tekintetében a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosító fogyatékosságban szenvedő gyermek, fiatal felnőtt,
 
-qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint a gyermekétkeztetés normatív kedvezménye tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 4. § 23. pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt,
+qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint a gyermekétkeztetés normatív kedvezménye tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 4. § 25. pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt,
 
 r) jövedelem: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. §-a (1) bekezdésének a) pontjában meghatározattak,
 
 s) fenntartó:
 
-sa) a központi költségvetési szerv, a megyei intézményeket fenntartó, Kormány által rendeletben kijelölt szerv (a továbbiakban: megyei fenntartó), a helyi önkormányzat, a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §–9. §-a, illetve 16. §-a szerinti intézményi társulás, a települési önkormányzatok többcélú kistérségi társulása, a nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
+sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása, a nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
 
 sb) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti nyilvántartásba vett egyház, illetve annak belső egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó), nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a civil szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság,
 

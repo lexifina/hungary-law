@@ -1,6 +1,6 @@
 ## Egyéb eljárási szabályok
 
-127. § (1) A települési önkormányzat jegyzője vagy a gyámhivatal – ha jogszabály másképp nem rendelkezik – a hatáskörébe tartozó ügyekben az eljárást hivatalból is megindíthatja.
+127. § (1) A gyámhatóság – ha jogszabály másképp nem rendelkezik – a hatáskörébe tartozó ügyekben az eljárást hivatalból is megindíthatja.
 
 (2) A gyámhatósági eljárásban a 128. § (2)–(3) bekezdése szerinti esetekben kizárt elektronikus úton a kapcsolattartás.
 

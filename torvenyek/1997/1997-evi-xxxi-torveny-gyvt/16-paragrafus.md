@@ -2,9 +2,9 @@
 
 a) a helyi önkormányzat képviselő-testülete,
 
-b) a települési önkormányzat jegyzője,
+b) a gyámhatóság
 
-c) a gyámhivatal
+c)
 
 gyakorolja.
 

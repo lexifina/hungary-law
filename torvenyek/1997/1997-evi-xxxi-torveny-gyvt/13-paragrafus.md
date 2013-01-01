@@ -2,7 +2,7 @@
 
 a) a gyermeke gondozójától, gyámjától, hivatásos gyámjától a gyermeke elhelyezéséről, neveléséről, fejlődéséről rendszeres tájékoztatást kapjon,
 
-b) a gyámhivataltól gyermeke gondozási helyének megváltoztatását kérje,
+b) a gyámhatóságtól gyermeke gondozási helyének megváltoztatását kérje,
 
 c) a gyermeke családba történő visszahelyezése érdekében a települési önkormányzattól – a nevelésbe vétel okának elhárításához, a körülmények rendezéséhez, a gyermeke családba való visszailleszkedéséhez – segítséget kapjon,
 

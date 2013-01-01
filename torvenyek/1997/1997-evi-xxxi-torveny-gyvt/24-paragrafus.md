@@ -8,7 +8,7 @@ b) a tárgyhónap 15-ét követően nyújtották be, a gyermektartásdíj megel�
 
 kell kifizetni.
 
-(3) A gyámhivatal hivatalból vagy a külön jogszabályban meghatározott szervek és személyek értesítése alapján a gyermektartásdíj folyósítását – legfeljebb hat hónapra – felfüggeszti, ha
+(3) A gyámhatóság hivatalból vagy a külön jogszabályban meghatározott szervek és személyek értesítése alapján a gyermektartásdíj folyósítását – legfeljebb hat hónapra – felfüggeszti, ha
 
 a) a kérelmezőnek a 22. § (1) bekezdésében meghatározott körülményeiben változás állt be,
 
@@ -18,15 +18,15 @@ c) a kötelezett a kérelmező részére legalább két egymást követő alkalo
 
 d) a gyermek ideiglenes hatályú elhelyezését rendelték el.
 
-(4) A gyámhivatal a felfüggesztést követő vizsgálat eredményeképpen, ha a felfüggesztés időtartama alatt a jogosult nem részesült a 22. § (6) bekezdés a) pontjában meghatározott mértékű gyermektartásdíjban – a felfüggesztés lejárta után – elrendeli a gyermektartásdíj további folyósítását és a felfüggesztés időtartamára esedékes megelőlegezett gyermektartásdíj utólagos, egy összegben történő kifizetését vagy a megelőlegezést megszünteti.
+(4) A gyámhatóság a felfüggesztést követő vizsgálat eredményeképpen, ha a felfüggesztés időtartama alatt a jogosult nem részesült a 22. § (6) bekezdés a) pontjában meghatározott mértékű gyermektartásdíjban – a felfüggesztés lejárta után – elrendeli a gyermektartásdíj további folyósítását és a felfüggesztés időtartamára esedékes megelőlegezett gyermektartásdíj utólagos, egy összegben történő kifizetését vagy a megelőlegezést megszünteti.
 
-(5) A gyámhivatal a gyermektartásdíj megelőlegezését megszünteti, ha
+(5) A gyámhatóság a gyermektartásdíj megelőlegezését megszünteti, ha
 
-a) a gyermek – a gyámhivatal, illetve a bíróság végrehajtható határozata alapján – a külön élő másik szülő vagy más személy gondozásába kerül,
+a) a gyermek – a gyámhatóság, illetve a bíróság végrehajtható határozata alapján – a külön élő másik szülő vagy más személy gondozásába kerül,
 
 b) a gyermek nagykorúvá vált, és nappali oktatás munkarendje szerint tanulmányokat nem folytat,
 
-c) a gyermeket a gyámhivatal átmeneti vagy tartós nevelésbe vette,
+c) a gyermeket a gyámhatóság átmeneti vagy tartós nevelésbe vette,
 
 d) a kötelezett meghalt.
 

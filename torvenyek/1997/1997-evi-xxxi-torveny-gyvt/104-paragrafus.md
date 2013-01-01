@@ -20,7 +20,7 @@ g) gyakorolja az intézmény vezetője tekintetében a munkáltatói jogokat,
 
 h) gondoskodik az érdekképviseleti fórum megalakításának feltételeiről,
 
-i) kikéri a gyámhivatal véleményét az intézmény működését érintő lényeges döntés meghozatala előtt, így különösen az intézmény fenntartását érintő változások, az intézmény átszervezésének, megszüntetésének, feladatkörének megváltoztatása esetén,
+i) kikéri a gyámhatóság véleményét az intézmény működését érintő lényeges döntés meghozatala előtt, így különösen az intézmény fenntartását érintő változások, az intézmény átszervezésének, megszüntetésének, feladatkörének megváltoztatása esetén,
 
 j) kivizsgálja a 36. § (2) bekezdése alapján hozzá érkező panaszokat és szükség esetén intézkedik a panaszt kiváltó okok megszüntetése iránt, és a megtett intézkedéséről tájékoztatja a működést engedélyező szervet,
 
@@ -32,7 +32,7 @@ l) működteti az utógondozói ellátást igénylő fiatal felnőttek lakhatás
 
 (3) A fenntartó a törvényesség biztosítása érdekében ellenőrzi a házirend, valamint más belső szabályzatok jogszerűségét. Az ellenőrzés eredményeképpen az állami és nem állami fenntartó felhívja az intézmény vezetőjét a jogszabálysértés orvoslására, illetve annak eredménytelensége esetén a jogsértő házirendet vagy más belső szabályzatot megsemmisíti.
 
-(4) Az állami és nem állami intézmény fenntartója a szakmai munka eredményességét különösen a Névjegyzékben szereplő szakértő által készített szakértői vélemény, a gyámhivatal szakmai ellenőrzése, illetve az intézmény által készített beszámoló alapján értékeli.
+(4) Az állami és nem állami intézmény fenntartója a szakmai munka eredményességét különösen a Névjegyzékben szereplő szakértő által készített szakértői vélemény, a gyámhatóság szakmai ellenőrzése, illetve az intézmény által készített beszámoló alapján értékeli.
 
 (5) Az állami és nem állami intézmény évenként egy alkalommal kötelezhető arra, hogy tevékenységéről átfogó, szakmai és pénzügyi beszámolót adjon.
 
@@ -44,4 +44,4 @@ b) gazdálkodásának és működésének törvényességéről.
 
 (7) A fenntartónak a (3) és (5) bekezdésben megfogalmazott jogköre nem sértheti az intézmény szakmai programjában meghatározott önállóságát.
 
-(8) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény fenntartója a gyámhivatal számára hozzáférhetővé teszi azokat az információkat, amelyek az intézmény működését érintő lényeges fenntartói döntés meghozatalához rendelkezésére állnak. A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény fenntartójának az intézmény működését érintő lényeges döntés meghozatala előtt úgy kell a gyámhivatal véleményét kikérnie, hogy a gyámhivatalnak – a szükséges információk hozzáférhetővé tételének napjától számítva – legalább tizenöt nap álljon rendelkezésre véleménye kialakításához.
+(8) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény fenntartója a gyámhatóság számára hozzáférhetővé teszi azokat az információkat, amelyek az intézmény működését érintő lényeges fenntartói döntés meghozatalához rendelkezésére állnak. A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény fenntartójának az intézmény működését érintő lényeges döntés meghozatala előtt úgy kell a gyámhatóság véleményét kikérnie, hogy a gyámhatóságnak – a szükséges információk hozzáférhetővé tételének napjától számítva – legalább tizenöt nap álljon rendelkezésre véleménye kialakításához.

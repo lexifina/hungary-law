@@ -4,7 +4,7 @@
 
 (3) A gyermek (2) bekezdésben meghatározott további átmeneti gondozásához minden esetben be kell szerezni a szülő vagy más törvényes képviselő beleegyező nyilatkozatát.
 
-(4) A gyámhivatalt értesíteni kell a szükséges hatósági intézkedések megtétele céljából, ha
+(4) A gyámhatóságot értesíteni kell a szükséges hatósági intézkedések megtétele céljából, ha
 
 a) a szülő vagy más törvényes képviselő a gyermekéről az ideiglenes gondozásról való értesítést követő három napon belül nem gondoskodik,
 

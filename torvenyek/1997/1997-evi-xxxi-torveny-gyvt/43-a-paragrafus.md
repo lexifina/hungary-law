@@ -8,7 +8,7 @@
 
 (4) A családi gyermekfelügyelet ellátása során – a saját, napközbeni ellátást máshol igénybe nem vevő gyermeket is beszámítva – legfeljebb három gyermek gondozható.
 
-(5) A családi gyermekfelügyelet keretében gondozott saját gyermek után normatív állami hozzájárulást nem lehet igénybe venni.
+(5) A családi gyermekfelügyelet keretében gondozott saját gyermek után központi költségvetésről szóló törvényben biztosított támogatást nem lehet igénybe venni.
 
 (6) Családi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (4) bekezdésében foglaltaknak.
 

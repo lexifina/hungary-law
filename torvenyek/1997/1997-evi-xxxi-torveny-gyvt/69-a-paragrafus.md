@@ -16,6 +16,6 @@ c) az örökbe fogadandó gyermek és az örökbe fogadni szándékozó személy
 
 d) az örökbe fogadni szándékozó személyről és az örökbe fogadandó gyermekről a 141/B. § szerint nyilvántartás vezetése,
 
-e) az örökbefogadás engedélyezését követően a vér szerinti szülőnek és az örökbe fogadó szülőnek történő segítségnyújtás, tanácsadás, valamint kérelemre az örökbe fogadott gyermek (személy) vér szerinti szülőjével való kapcsolatfelvételének elősegítése, ha a gyámhivatal vagy a bíróság a vér szerinti szülő természetes személyazonosító adatait közölte.
+e) az örökbefogadás engedélyezését követően a vér szerinti szülőnek és az örökbe fogadó szülőnek történő segítségnyújtás, tanácsadás, valamint kérelemre az örökbe fogadott gyermek (személy) vér szerinti szülőjével való kapcsolatfelvételének elősegítése, ha a gyámhatóság vagy a bíróság a vér szerinti szülő természetes személyazonosító adatait közölte.
 
 (3) A közhasznú szervezet az örökbe fogadó szülő, az örökbe fogadott gyermek vagy a vér szerinti szülő kérelmére számukra örökbefogadás utáni segítséget nyújtó szolgáltatásokat biztosíthat, elősegítheti az ellátásokhoz való hozzájutást.

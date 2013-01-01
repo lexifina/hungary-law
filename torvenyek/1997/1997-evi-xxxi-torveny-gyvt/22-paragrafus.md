@@ -12,7 +12,7 @@ feltéve, hogy a gyermeket gondozó családban az egy főre jutó havi átlagjö
 
 (2) Az egy főre jutó jövedelem megállapításánál a 131. § (2) bekezdését kell alkalmazni.
 
-(3) A gyámhivatal a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást, illetve a végrehajtás szünetelését kimondó foglalási jegyzőkönyv hat hónapnál régebbi nem lehet.
+(3) A gyámhatóság a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást, illetve a végrehajtás szünetelését kimondó foglalási jegyzőkönyv hat hónapnál régebbi nem lehet.
 
 (4) Az (1) bekezdésben meghatározott összeg számításánál a kérelem benyújtása időpontjában közös háztartásban élő közeli hozzátartozóként kell figyelembe venni a 19. § (4) bekezdésében meghatározott személyeket.
 

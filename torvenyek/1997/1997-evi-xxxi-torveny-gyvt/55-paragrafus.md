@@ -12,9 +12,9 @@ d) felkészíti a gyermeket az önálló életvezetésre, alapvető személyes �
 
 e)
 
-(2) A nevelőszülő a gyámhivatal kirendelése alapján ellátja a gyámi feladatokat.
+(2) A nevelőszülő a gyámhatóság kirendelése alapján ellátja a gyámi feladatokat.
 
-(3) A nevelőszülő a gyámhivatal határozata alapján biztosítja az általa nevelt gyermek kapcsolatát a kapcsolattartásra feljogosított szülőjével és közeli hozzátartozóival.
+(3) A nevelőszülő a gyámhatóság határozata alapján biztosítja az általa nevelt gyermek kapcsolatát a kapcsolattartásra feljogosított szülőjével és közeli hozzátartozóival.
 
 (4) A nevelőszülő az alapfeladatok ellátásán túl a működtető hozzájárulásával
 

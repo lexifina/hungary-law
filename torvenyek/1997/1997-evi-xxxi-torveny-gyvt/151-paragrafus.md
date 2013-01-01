@@ -16,9 +16,11 @@ g) a szociális nyári gyermekétkeztetés keretében
 
 nyújtott étkeztetésre.
 
-(2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a fenntartó az óvodában és az iskolában a gyermekek és a tanulók számára az óvodai nevelési napokon, illetve az iskolai tanítási napokon biztosítja a déli meleg főétkezést és két további étkezést. Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
+(2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a nem állami fenntartó az általa fenntartott nevelési-oktatási intézményben, a települési önkormányzat az általa fenntartott óvodában és a közigazgatási területén az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben, a fenntartó az egyéb állami fenntartású intézményben a gyermekek és a tanulók számára az óvodai nevelési napokon, illetve az iskolai tanítási napokon biztosítja a déli meleg főétkezést és két további étkezést. A főváros közigazgatási területén lévő tankerületekben az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – az étkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani az étkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik. Az étkeztetés biztosítására kötelezett önkormányzat e feladatának ellátásához a közigazgatási területén kívülről érkező gyermek, tanuló lakóhelye szerinti önkormányzattól hozzájárulást kérhet. Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
 
-(3) A gyermekétkeztetés intézményi térítési díjának alapja az élelmezés nyersanyagköltségének egy ellátottra jutó napi összege.
+(2a) Ha a (2) bekezdés szerinti gyermekétkeztetést a települési önkormányzat biztosítja, úgy az intézményi térítési díjat a települési önkormányzat állapítja meg.
+
+(3) A gyermekétkeztetés intézményi térítési díjának alapja az élelmezés nyersanyag költségének egy ellátottra jutó napi összege.
 
 (4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg. Ha a fenntartó kizárólag a bölcsődei ellátás keretében biztosított gyermekétkeztetésre állapít meg személyi térítési díjat, a személyi térítési díj meghatározásánál a 150. § (1)–(3) bekezdését nem kell alkalmazni.
 
@@ -50,7 +52,7 @@ kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: nor
 
 (8) A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett gyermek után nem vehető igénybe a normatív kedvezmény.
 
-(9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
+(9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
 
 (10) Az (5) bekezdés szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
 

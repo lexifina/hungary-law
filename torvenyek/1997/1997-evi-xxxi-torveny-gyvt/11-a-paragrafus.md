@@ -10,13 +10,13 @@ c) a 36. § (2) bekezdése szerinti esetben eljár a gyermek szülője vagy más
 
 d) eljár az érdekképviseleti fórum 35. § (4) bekezdése szerint tett megkeresése alapján,
 
-e) a gyámhivatal kirendelése alapján képviseli a gyermeket a nevelési felügyelettel kapcsolatos eljárásban,
+e) a gyámhatóság kirendelése alapján képviseli a gyermeket a nevelési felügyelettel kapcsolatos eljárásban,
 
 f) a 100/A. § (1) bekezdése szerinti jogsértések észlelése esetén javaslatot tehet
 
 fa) gyermekvédelmi igazgatási bírság kiszabására az arra a 100/A. § (1) bekezdése szerint jogosult szervnek,
 
-fb) a jogsértés jövőbeni előfordulásának megelőzése érdekében a jogsértéssel érintettek között, szükség szerint szakértők bevonásával, egyeztető megbeszélés tartására a gyámhivatalnak,
+fb) a jogsértés jövőbeni előfordulásának megelőzése érdekében a jogsértéssel érintettek között, szükség szerint szakértők bevonásával, egyeztető megbeszélés tartására a gyámhatóságnak,
 
 fc) a jogsértő személy továbbképzésére a fenntartónak, működtetőnek.
 

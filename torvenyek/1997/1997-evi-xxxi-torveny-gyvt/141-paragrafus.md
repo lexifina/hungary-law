@@ -12,6 +12,6 @@ e) az állami és nem állami fenntartó által működtetett intézményben, il
 
 (2) Az (1) bekezdés c) pontjában meghatározott nyilvántartásokról – a titkos örökbefogadás kivételével – a területi gyermekvédelmi szakszolgálat kérelemre tájékoztatja a szülőket, valamint az örökbefogadásra váró szülőket.
 
-(3) A területi gyermekvédelmi szakszolgálat negyedévente tájékoztatja a gyámhivatalt az (1) bekezdés a)–b) és d) pontjaiban meghatározott nyilvántartásokról és az abban bekövetkező változásokról.
+(3) A területi gyermekvédelmi szakszolgálat negyedévente tájékoztatja a gyámhatóságot az (1) bekezdés a)–b) és d) pontjaiban meghatározott nyilvántartásokról és az abban bekövetkező változásokról.
 
 (4) A területi gyermekvédelmi szakszolgálat folyamatosan továbbítja az (1) bekezdés c) pontjában meghatározott nyilvántartásokban szereplő adatokat és az azokban bekövetkező változásokat az országos örökbefogadási nyilvántartás számára.

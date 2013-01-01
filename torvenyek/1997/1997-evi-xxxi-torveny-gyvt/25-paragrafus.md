@@ -16,4 +16,4 @@ b) készpénzének, biztosításra vagy más célból lekötött betétjének, v
 
 (6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozójával együttműködik.
 
-(7) A gyámhivatal az otthonteremtési támogatás iránti kérelem megérkezését követő naptól számított tizenöt napon belül az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére a lakcím szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki. Az otthonteremtési támogatás céljának megvalósulásához az utógondozó a támogatással való elszámolásig segítséget nyújt.
+(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem megérkezését követő naptól számított tizenöt napon belül az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére a lakcím szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki. Az otthonteremtési támogatás céljának megvalósulásához az utógondozó a támogatással való elszámolásig segítséget nyújt.

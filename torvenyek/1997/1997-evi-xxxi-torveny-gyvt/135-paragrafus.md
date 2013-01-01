@@ -2,7 +2,7 @@
 
 a) a gyermekek védelmét biztosító hatósági feladat- és hatásköröket gyakorló szervek és személyek (16. §),
 
-b) a fővárosi főjegyző,
+b)
 
 c) a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás, intézmény fenntartója, vezetője,
 
@@ -68,7 +68,7 @@ adatainak a kezelésére.
 
 (3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését az (1) és (2) bekezdésben meghatározott adattartalmú – külön jogszabályban meghatározott – környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök pontos tartalmát a külön jogszabály szerinti gyermekvédelmi nyilvántartás rögzíti.
 
-(4) A gyermekjóléti szolgálat, és a települési önkormányzat jegyzője, illetve a gyámhivatal a 15. § (2)–(4) bekezdésben meghatározott ellátások nyújtása, illetve intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
+(4) A gyermekjóléti szolgálat, és a gyámhatóság a 15. § (2)–(4) bekezdésben meghatározott ellátások nyújtása, illetve intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
 
 a) a gyermek, illetve a fiatalkorú által elkövetett bűncselekményre,
 
@@ -78,7 +78,7 @@ c) a Polgári Törvénykönyv szerinti hozzátartozó, vagy a közös háztartá
 
 vonatkozó adatokat kezelhet.
 
-(5) A gyermekvédelmi gondoskodás biztosítása, a gyermek örökbefogadásának elősegítése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából a területi gyermekvédelmi szakszolgálat és a gyámhivatal kezeli
+(5) A gyermekvédelmi gondoskodás biztosítása, a gyermek örökbefogadásának elősegítése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából a területi gyermekvédelmi szakszolgálat és a gyámhatóság kezeli
 
 a) a családba fogadó személy személyazonosító adatait, valamint az egészségi állapotára és a vagyoni helyzetére vonatkozó adatokat,
 
@@ -92,7 +92,7 @@ e) az örökbe adható gyermek személyazonosító adatait és az egészségi á
 
 (6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(4) bekezdései szerinti célból egymásnak átadhatják.
 
-(7) A települési önkormányzat jegyzője, a gyámhivatal, a gyermekjóléti szolgálat vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a 135. § (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(4) bekezdésében meghatározott szolgáltatások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő szolgálat tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
+(7) Gyámhatóság, a gyermekjóléti szolgálat vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a 135. § (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(4) bekezdésében meghatározott szolgáltatások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő szolgálat tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 
 (8) Az országos örökbefogadási nyilvántartást vezető szerv a gyermek belföldön történő örökbefogadásának elősegítése, az átmeneti vagy tartós nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli
 

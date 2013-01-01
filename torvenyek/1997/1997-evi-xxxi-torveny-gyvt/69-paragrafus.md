@@ -10,6 +10,6 @@ d) a fiatalkorú szabadságvesztését vagy javítóintézeti nevelését tölti
 
 (2) A védelembe vétel – a (3) bekezdésben meghatározott kivétellel – a gyermek nagykorúvá válásával szűnik meg.
 
-(3) Ha a települési önkormányzat jegyzője a védelembe vételt a 68. § (2) bekezdés c) pontja alapján rendelte el, a védelembe vétel indokolt esetben a fiatalkorú kérelmére a büntetőeljárás befejezéséig, de legfeljebb huszadik évének betöltéséig tart.
+(3) Ha a gyámhatóság a védelembe vételt a 68. § (2) bekezdés c) pontja alapján rendelte el, a védelembe vétel indokolt esetben a fiatalkorú kérelmére a büntetőeljárás befejezéséig, de legfeljebb huszadik évének betöltéséig tart.
 
 (4)

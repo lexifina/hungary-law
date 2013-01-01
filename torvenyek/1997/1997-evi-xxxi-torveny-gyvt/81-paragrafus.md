@@ -8,7 +8,7 @@ c) a gyermeket örökbe fogadták,
 
 d) a gyermek nagykorúvá vált.
 
-(2) A gyámhivatal a Csjt. 92. §-ának (3) bekezdése alapján kapcsolattartásra feljogosított szülő kérelmére a tartós nevelésbe vételt megszünteti, ha
+(2) A gyámhatóság a Csjt. 92. §-ának (3) bekezdése alapján kapcsolattartásra feljogosított szülő kérelmére a tartós nevelésbe vételt megszünteti, ha
 
 a) a gyermek örökbefogadására nem került sor, és
 

@@ -1,6 +1,6 @@
 20. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítását a szülő vagy más törvényes képviselő, illetve a nagykorú jogosult a lakcíme szerint illetékes települési önkormányzat polgármesteri hivatalánál terjeszti elő.
 
-(2) A feltételek fennállása esetén a települési önkormányzat jegyzője 1 év időtartamra megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát.
+(2) A feltételek fennállása esetén a gyámhatóság 1 év időtartamra megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát.
 
 (3) Az egyéb jogosultsági feltételek fennállása esetén nagykorúvá válása után is jogosult a gyermek a rendszeres gyermekvédelmi kedvezményre, ha
 

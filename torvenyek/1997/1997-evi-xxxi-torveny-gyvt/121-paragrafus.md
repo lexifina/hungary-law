@@ -1,6 +1,6 @@
 121. § (1)
 
-(2) A helyi önkormányzat köteles előzetesen kikérni a gyámhivatal véleményét, ha
+(2) A települési önkormányzat köteles előzetesen kikérni a gyámhatóság véleményét, ha
 
 a) személyes gondoskodást nyújtó intézményt kíván megszüntetni, illetőleg annak ellátási területét vagy az ellátási kötelezettség terjedelmét változtatja meg,
 

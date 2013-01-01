@@ -2,7 +2,7 @@
 
 a) a helyi önkormányzat képviselő-testületének határozata,
 
-b) a települési önkormányzat jegyzőjének vagy a gyámhivatalnak a határozata,
+b) a gyámhatóságnak a határozata,
 
 c) a települési önkormányzat által fenntartott átmeneti gondozást nyújtó intézmény esetében az intézményvezető intézkedése,
 
@@ -56,6 +56,6 @@ b) soron kívüli elhelyezésre vonatkozó indokolt kérelem alapján,
 
 c) az 57. § (2) bekezdése szerinti esetben.
 
-(9) Ha az egyházi, nem állami fenntartó a helyi önkormányzattal vagy állami szervvel kötött ellátási szerződés hatálya alá tartozó esetben az ellátásra irányuló kérelmet elutasítja, a kérelmezőt, illetve törvényes képviselőjét írásban értesíti. Ha a kérelmező, illetve törvényes képviselője a döntést vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül az ellátási szerződést megkötő helyi önkormányzathoz vagy állami szervhez fordulhat. A helyi önkormányzat vagy állami szerv a kérelemről határozattal dönt.
+(9) Ha az egyházi, nem állami fenntartó a települési önkormányzattal vagy állami szervvel kötött ellátási szerződés hatálya alá tartozó esetben az ellátásra irányuló kérelmet elutasítja, a kérelmezőt, illetve törvényes képviselőjét írásban értesíti. Ha a kérelmező, illetve törvényes képviselője a döntést vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül az ellátási szerződést megkötő települési önkormányzathoz vagy állami szervhez fordulhat. A települési önkormányzat vagy állami szerv a kérelemről határozattal dönt.
 
-(10) Ha a helyi önkormányzattal vagy állami szervvel ellátási szerződést kötött egyházi, nem állami fenntartó az elhelyezést elrendelő döntés ellen fellebbezést nyújt be, a helyi önkormányzatot vagy állami szervet írásban értesíti.
+(10) Ha a települési önkormányzattal vagy állami szervvel ellátási szerződést kötött egyházi, nem állami fenntartó az elhelyezést elrendelő döntés ellen fellebbezést nyújt be, a települési önkormányzatot vagy állami szervet írásban értesíti.

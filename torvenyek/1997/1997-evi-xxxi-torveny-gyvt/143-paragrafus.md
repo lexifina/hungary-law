@@ -8,16 +8,16 @@
 
 (3) Az állam a helyi önkormányzatok feladatainak ellátásához
 
-a) az állandó lakos után járó differenciált szociális és gyermekjóléti normatív állami hozzájárulással (a továbbiakban: szociális és gyermekjóléti normatíva),
+a) az állandó lakos után járó differenciált szociális és gyermekjóléti központi költségvetésről szóló törvényben biztosított támogatással,
 
-b) a fenntartott intézményben ellátott gyermekek után járó normatív állami hozzájárulással,
+b) a fenntartott intézményben ellátott gyermekek után járó központi költségvetésről szóló törvényben biztosított támogatással,
 
-c) a települési önkormányzat jegyzője, illetve a gyámhivatal határozata alapján ideiglenes hatállyal elhelyezett, valamint átmeneti és tartós nevelésbe vett gyermek után, továbbá a korábban gondozás alatt álló fiatal felnőtt után járó normatív állami hozzájárulással,
+c)
 
 d) kötött felhasználású támogatásokkal
 
 járul hozzá.
 
-(4) A szociális és gyermekjóléti normatíva összege a települési önkormányzat területén élő lakosság szociális helyzete, valamint az állandó lakosú gyermek száma szerint eltérő. A differenciálás alapjául szolgáló mutatókat évente a költségvetési törvény rögzíti.
+(4) A (3) bekezdés a) pontja szerinti támogatás összege a települési önkormányzat területén élő lakosság szociális helyzete, valamint az állandó lakosú gyermek száma szerint eltérő. A differenciálás alapjául szolgáló mutatókat évente a költségvetési törvény rögzíti.
 
-(5) A normatív állami hozzájárulással történő támogatás szakmai céloknak megfelelő módját és mértékét a költségvetési törvény határozza meg.
+(5) A központi költségvetésről szóló törvényben biztosított támogatással történő támogatás szakmai céloknak megfelelő módját és mértékét a költségvetési törvény határozza meg.

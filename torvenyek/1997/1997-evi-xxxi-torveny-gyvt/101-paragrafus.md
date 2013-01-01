@@ -10,9 +10,9 @@ a) meghatározza a gyermekek védelmét biztosító feladatok szakmai, képesít
 
 b) létrehozza és fenntartja az országos szakmai intézeteket, kollégiumokat,
 
-c) ellátja a gyámhivatalok szakmai felügyeletével és irányításával kapcsolatos feladatokat,
+c) ellátja a gyámhatóságok szakmai felügyeletével és irányításával kapcsolatos feladatokat,
 
-d) kijelöli az országos és regionális módszertani feladatokat ellátó intézményeket,
+d)
 
 e) biztosítja a gyermekek védelmét szolgáló tudományos kutatások és nemzetközi kapcsolatok fejlesztési feltételeit,
 

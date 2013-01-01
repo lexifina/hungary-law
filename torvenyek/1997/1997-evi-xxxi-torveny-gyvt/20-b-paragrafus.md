@@ -6,11 +6,11 @@ a) a gyermek tartására köteles, és
 
 b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, időskorúak járadékában vagy olyan ellátásban részesül, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik.
 
-(2) A kiegészítő gyermekvédelmi támogatásra való jogosultságot a családbafogadó gyám lakcíme szerint illetékes települési önkormányzat jegyzője – határozatlan időre – állapítja meg.
+(2) A kiegészítő gyermekvédelmi támogatásra való jogosultságot a családbafogadó gyám lakcíme szerint illetékes gyámhatóság – határozatlan időre – állapítja meg.
 
 (3) A kiegészítő gyermekvédelmi támogatás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
 
-(4) A települési önkormányzat jegyzője annak a gyámul kirendelt hozzátartozónak, akinek kiegészítő gyermekvédelmi támogatásra való jogosultsága
+(4) A gyámhatóság annak a gyámul kirendelt hozzátartozónak, akinek kiegészítő gyermekvédelmi támogatásra való jogosultsága
 
 a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó kiegészítő gyermekvédelmi támogatás összege mellett –,
 
@@ -28,7 +28,7 @@ b) a tárgyhónap tizenötödikét követően nyújtották be, a támogatás öt
 
 kell kifizetni.
 
-(7) A kiegészítő gyermekvédelmi támogatásra való jogosultság feltételeit – az (1) bekezdésben meghatározottak alapulvételével – a települési önkormányzat jegyzője évente legalább egyszer felülvizsgálja. Ha a kiegészítő gyermekvédelmi támogatásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
+(7) A kiegészítő gyermekvédelmi támogatásra való jogosultság feltételeit – az (1) bekezdésben meghatározottak alapulvételével – a gyámhatóság évente legalább egyszer felülvizsgálja. Ha a kiegészítő gyermekvédelmi támogatásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
 
 a) a tárgyhónap tizenötödikéig következik be, a támogatás ötven százalékát,
 

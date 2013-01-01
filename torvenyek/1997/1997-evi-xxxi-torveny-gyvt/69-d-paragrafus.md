@@ -10,7 +10,7 @@ c) ha a vér szerinti szülő vagy várandós anya kiskorú vagy cselekvőképes
 
 d) az örökbe fogadandó gyermek gyámjával,
 
-e) az örökbefogadásra való alkalmasságot megállapító érvényes és hatályos gyámhivatali határozattal rendelkező örökbe fogadni szándékozó
+e) az örökbefogadásra való alkalmasságot megállapító érvényes és hatályos gyámhatósági határozattal rendelkező örökbe fogadni szándékozó
 
 ea) házaspárral együttesen vagy
 
@@ -24,4 +24,4 @@ a) annak megkötését követően az örökbefogadást kizáró ok fennállásá
 
 b) tudomására jut, hogy az örökbefogadás akár a felek, akár más közreműködő személyek számára haszonszerzéssel jár.
 
-(4) A szolgáltató a megállapodásnak a (3) bekezdés szerinti felmondásáról öt napon belül írásban értesíti az örökbefogadásra való alkalmasságot megállapító, valamint az örökbefogadás engedélyezésére illetékes gyámhivatalt.
+(4) A szolgáltató a megállapodásnak a (3) bekezdés szerinti felmondásáról öt napon belül írásban értesíti az örökbefogadásra való alkalmasságot megállapító, valamint az örökbefogadás engedélyezésére illetékes gyámhatóságot.

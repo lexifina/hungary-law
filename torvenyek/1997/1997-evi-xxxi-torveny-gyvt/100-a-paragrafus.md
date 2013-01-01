@@ -1,6 +1,6 @@
 ## A gyermekvédelmi igazgatási bírság
 
-100/A. § (1) A működést engedélyező szerv vagy a gyámhivatal ellenőrzési jogkörében jogsértésenként legfeljebb 200 ezer forint összegű gyermekvédelmi igazgatási bírságot szabhat ki
+100/A. § (1) A működést engedélyező szerv vagy a gyámhatóság ellenőrzési jogkörében jogsértésenként legfeljebb 200 ezer forint összegű gyermekvédelmi igazgatási bírságot szabhat ki
 
 a) a működtetővel, az intézményvezetővel, illetve a fenntartóval szemben, ha a működtető, a szolgáltató, az intézmény, illetve a fenntartó a gyermeknek az e törvényben biztosított jogait megsérti,
 
@@ -16,7 +16,7 @@ e) működésiengedély-köteles gyermekjóléti és gyermekvédelmi szolgáltat
 
 (3) A bírság – a jogsértés jellegétől, a jogsértők számától, illetve a felelősség mértékétől függően – több személlyel, illetve szervezettel szemben is kiszabható.
 
-(4) Ha a bírsággal sújtott személy vagy szervezet a működést engedélyező szerv vagy az ellenőrzési jogkörében eljáró gyámhivatal által megállapított határidőn belül nem intézkedik a jogellenesség megszüntetése érdekében, a bírság ismételten kiszabható.
+(4) Ha a bírsággal sújtott személy vagy szervezet a működést engedélyező szerv vagy az ellenőrzési jogkörében eljáró gyámhatóság által megállapított határidőn belül nem intézkedik a jogellenesség megszüntetése érdekében, a bírság ismételten kiszabható.
 
 (5) A bírság más jogkövetkezményekkel, illetve a feljelentési kötelezettség teljesítésével egyidejűleg is alkalmazható.
 

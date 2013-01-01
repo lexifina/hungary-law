@@ -20,17 +20,17 @@ d) az otthont nyújtó ellátás keretében – ideiglenes jelleggel – azon á
 
 (3) A gyermekotthon az (1) és (2) bekezdésben foglaltak érdekében
 
-a) gondoskodik az ideiglenes hatállyal elhelyezett, az átmeneti és tartós nevelésbe vett gyermek felvételéről, és erről tájékoztatja a gyámhivatalt, a gyermekjóléti szolgálatot és a területi gyermekvédelmi szakszolgálatot,
+a) gondoskodik az ideiglenes hatállyal elhelyezett, az átmeneti és tartós nevelésbe vett gyermek felvételéről, és erről tájékoztatja a gyámhatóságot, a gyermekjóléti szolgálatot és a területi gyermekvédelmi szakszolgálatot,
 
 b) gondoskodik az utógondozói ellátásban részesülő fiatal felnőtt, valamint az átmeneti gondozásban részesülő gyermekének felvételéről, és erről értesíti a területi gyermekvédelmi szakszolgálatot,
 
-c) biztosítja az otthont nyújtó ellátást, a gyámhivatal által jóváhagyott egyéni elhelyezési terv, valamint az általa elkészített egyéni gondozási-nevelési terv szerint,
+c) biztosítja az otthont nyújtó ellátást, a gyámhatóság által jóváhagyott egyéni elhelyezési terv, valamint az általa elkészített egyéni gondozási-nevelési terv szerint,
 
-d) biztosítja továbbá a gyámhivatal határozata alapján a gyámi feladatok ellátását és az otthont nyújtó ellátás rendszeres felülvizsgálatának előkészítését, és ennek megfelelően
+d) biztosítja továbbá a gyámhatóság határozata alapján a gyámi feladatok ellátását és az otthont nyújtó ellátás rendszeres felülvizsgálatának előkészítését, és ennek megfelelően
 
-da) elősegíti a gyermek és családja kapcsolattartását, a gyermek családjába történő visszatérését, ennek érdekében együttműködik a családdal, a gyermekjóléti szolgálattal, a területi gyermekvédelmi szakszolgálattal, valamint a gyámhivatallal,
+da) elősegíti a gyermek és családja kapcsolattartását, a gyermek családjába történő visszatérését, ennek érdekében együttműködik a családdal, a gyermekjóléti szolgálattal, a területi gyermekvédelmi szakszolgálattal, valamint a gyámhatósággal,
 
-db) rendszeresen tájékoztatja a gyámhivatalt a gyermek és a szülő kapcsolattartásáról a gyermek örökbefogadhatónak nyilvánítása érdekében,
+db) rendszeresen tájékoztatja a gyámhatóságot a gyermek és a szülő kapcsolattartásáról a gyermek örökbefogadhatónak nyilvánítása érdekében,
 
 dc) elősegíti a gyermek vallási vagy lelkiismereti meggyőződésének szabad megválasztását, kinyilvánítását, gyakorlását, hit- és vallásoktatásban való részvételét,
 

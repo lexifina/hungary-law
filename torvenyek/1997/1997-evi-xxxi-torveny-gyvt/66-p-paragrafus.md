@@ -1,6 +1,6 @@
 66/P. § (1) A helyettes szülő gondozási, nevelési feladatának ellátásáért a helyettes szülői jogviszony létrehozására irányuló megállapodásban meghatározott, a nevelőszülővel azonos mértékű díjazásra jogosult (a továbbiakban: helyettes szülői díj).
 
-(2) A helyettes szülői jogviszony fennállása alatt a helyettes szülő együttműködik a működtetővel, a települési önkormányzat jegyzőjével, a gyermekjóléti szolgálattal, a gyermek törvényes képviselőjével, továbbá a helyettes szülő tevékenységét ellenőrző gyámhivatallal.
+(2) A helyettes szülői jogviszony fennállása alatt a helyettes szülő együttműködik a működtetővel, a gyermek ügyében illetékes gyámhatósággal, a gyermekjóléti szolgálattal, a gyermek törvényes képviselőjével, továbbá a helyettes szülő tevékenységét ellenőrző gyámhatósággal.
 
 (3) A helyettes szülői díj megállapításánál és folyósításánál a 66/F. § (3) bekezdésében foglaltakra kell figyelemmel lenni.
 

@@ -4,9 +4,9 @@
 
 a) az elhelyezés – a szülő vagy más törvényes képviselő kérelmére vagy beleegyezésével – hat hónappal, szükség esetén a tanítási év végéig meghosszabbítható, vagy
 
-b) haladéktalanul értesíteni kell a gyámhivatalt, a szükséges intézkedések megtételére.
+b) haladéktalanul értesíteni kell a gyámhatóságot, a szükséges intézkedések megtételére.
 
-(4) A gyámhivatalt értesíteni kell a szükséges intézkedések megtétele érdekében az átmeneti gondozás időtartamának eltelte előtt is, ha
+(4) A gyámhatóságot értesíteni kell a szükséges intézkedések megtétele érdekében az átmeneti gondozás időtartamának eltelte előtt is, ha
 
 a) nyilvánvalóvá válik, hogy a gyermek családi környezetébe nem térhet vissza,
 

@@ -1,7 +1,3 @@
-## Az állam megyei szintű feladatai, valamint a fővárosi és megyei jogú városi önkormányzat feladatai
+## Az állam feladatai
 
-95. § (1) Az állam a megyei fenntartó útján, valamint a fővárosi és – a 94. § (2) bekezdésében meghatározott feladatain túl – a megyei jogú városi önkormányzat az e törvényben foglaltak szerint biztosítja az otthont nyújtó ellátást és az utógondozói ellátást. Az állam a megyei fenntartó útján és a fővárosi önkormányzat biztosítja a területi gyermekvédelmi szakszolgáltatást.
-
-(2) A megyei fenntartó, illetve a fővárosi önkormányzat által fenntartott otthont nyújtó, valamint utógondozói ellátást biztosító intézmények ellátási területe – a megyei jogú város területének kivételével – a megyére, illetve a fővárosra terjed ki.
-
-(3) A fővárosi önkormányzat és a fővárosi kerületi önkormányzat között létrejött megállapodás arról is rendelkezhet, hogy a fővárosi önkormányzat gondoskodik a gyermekek átmeneti gondozásának e törvényben meghatározott formájáról.
+95. § Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv az e törvényben foglaltak szerint biztosítja az otthont nyújtó ellátást, az utógondozói ellátást és a területi gyermekvédelmi szakszolgáltatást.

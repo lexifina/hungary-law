@@ -32,7 +32,7 @@ Az otthont nyújtó ellátás során a gyermekek helyzetét folyamatosan figyele
 
 (3) A speciális ellátás kiterjed a gyermek korához, állapotához és szükségleteihez igazodó oktatásra, szakképzésre, foglalkoztatásra, valamint ápolására, szocializációjára és reszocializációjára, továbbá habilitációs és rehabilitációs kezelésére is.
 
-(4) Az utógondozói ellátás keretében kell lakhatást és szükség szerint további ellátást biztosítani azon átmeneti vagy tartós nevelésből kikerült fiatal felnőttnek, akinek utógondozói ellátását a gyámhivatal elrendelte.
+(4) Az utógondozói ellátás keretében kell lakhatást és szükség szerint további ellátást biztosítani azon átmeneti vagy tartós nevelésből kikerült fiatal felnőttnek, akinek utógondozói ellátását a gyámhatóság elrendelte.
 
 (5)
 

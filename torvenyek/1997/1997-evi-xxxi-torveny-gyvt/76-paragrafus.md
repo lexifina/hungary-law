@@ -1,4 +1,4 @@
-76. § (1) A gyámhivatal az ideiglenes hatályú elhelyezést megszünteti, ha
+76. § (1) A gyámhatóság az ideiglenes hatályú elhelyezést megszünteti, ha
 
 a) megállapítja, hogy az ideiglenes hatályú elhelyezés feltételei nem álltak fenn, és a gyermek fejlődése korábbi környezetében – szükség esetén védelembe vétel mellett – biztosítható,
 
@@ -12,7 +12,7 @@ e) a gyermeket örökbe fogadják,
 
 f) a gyermeket tartós nevelésbe veszi.
 
-(2) A gyámhivatal az ideiglenes hatályú elhelyezés során a gyermek gondozási helyét megváltoztatja, ha megállapítja, hogy az ideiglenes hatályú elhelyezés feltételei fennállnak, azonban
+(2) A gyámhatóság az ideiglenes hatályú elhelyezés során a gyermek gondozási helyét megváltoztatja, ha megállapítja, hogy az ideiglenes hatályú elhelyezés feltételei fennállnak, azonban
 
 a) a gyermek nevelőszülőnél, gyermekotthonban történő elhelyezését követően válik ismertté, hogy van a gyermek nevelésére alkalmas és azt vállaló külön élő másik szülő, más hozzátartozó, illetve más személy, akinél a gyermek ideiglenes hatállyal elhelyezhető, vagy
 

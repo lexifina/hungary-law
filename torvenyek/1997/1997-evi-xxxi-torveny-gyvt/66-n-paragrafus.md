@@ -2,4 +2,4 @@
 
 (2) A működtető kártérítési felelősségére az Mt.-nek a munkáltató kártérítési felelősségére vonatkozó szabályai az irányadóak.
 
-(3) A hivatásos nevelőszülő és a működtető között a hivatásos nevelőszülői jogviszonyból származó jogokkal és kötelezettségekkel összefüggésben keletkezett jogvitában a munkaügyi bíróság jár el.
+(3) A hivatásos nevelőszülő és a működtető között a hivatásos nevelőszülői jogviszonyból származó jogokkal és kötelezettségekkel összefüggésben keletkezett jogvitában a közigazgatási és munkaügyi bíróság jár el.

@@ -16,11 +16,11 @@ c) a kapcsolattartási ügyekben.
 
 (6) A más szerv eljárásában történő képviseletre kirendelt ügygondnok, eseti gondnok munkadíját és költségeit – a (11) bekezdésben foglaltak kivételével – a kirendelést kérelmező szerv fizeti meg.
 
-(7) A gyámhivatal által kiszabott, illetve megállapított eljárási költség és a kapcsolattartás meghiúsítása folytán keletkezett igazolt költségek meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
+(7) A gyámhatóság által kiszabott, illetve megállapított eljárási költség és a kapcsolattartás meghiúsítása folytán keletkezett igazolt költségek meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
 
 (10)
 
-(11) Az eseti gondnok munkadíját és költségeit a gyámhivatal fizeti meg, ha az
+(11) Az eseti gondnok munkadíját és költségeit a gyámhatóság fizeti meg, ha az
 
 a) hagyatéki eljárásban vagy
 

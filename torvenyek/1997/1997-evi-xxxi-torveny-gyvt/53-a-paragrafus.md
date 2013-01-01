@@ -1,6 +1,6 @@
 ## Utógondozói ellátás
 
-53/A. § (1) A gyámhivatal által elrendelt utógondozói ellátás keretében a fiatal felnőtt számára
+53/A. § (1) A gyámhatóság által elrendelt utógondozói ellátás keretében a fiatal felnőtt számára
 
 a) szükség esetén a 45. § (1) bekezdése szerinti teljes körű ellátást, és
 

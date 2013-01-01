@@ -2,7 +2,7 @@
 
 42. § (1) A bölcsőde a családban nevelkedő 3 éven aluli gyermekek napközbeni ellátását, szakszerű gondozását és nevelését biztosító intézmény. Ha a gyermek a 3. évét betöltötte, de testi vagy szellemi fejlettségi szintje alapján még nem érett az óvodai nevelésre, a 4. évének betöltését követő augusztus 31-ig nevelhető és gondozható a bölcsődében.
 
-(2) A bölcsőde az (1) bekezdésben foglaltakon túl végezheti a fogyatékos gyermekek korai habilitációs és rehabilitációs célú nevelését és gondozását is. A bölcsődei ellátás keretében az Nktv. szerinti szakértői bizottság szakvéleménye alapján a fogyatékos gyermek legfeljebb hatéves koráig fejlődését biztosító korai fejlesztésben és gondozásban, vagy fejlesztő felkészítésben vehet részt.
+(2) A bölcsőde az (1) bekezdésben foglaltakon túl végezheti a fogyatékos gyermekek nevelését és gondozását is. A bölcsődei ellátásban az Nktv. 4. § 25. pontja szerinti gyermek legfeljebb hatéves koráig vehet részt.
 
 (3) A bölcsőde az alapellátáson túl szolgáltatásként speciális tanácsadással, időszakos gyermekfelügyelettel, gyermekhotel működtetésével, vagy más gyermeknevelést segítő szolgáltatásokkal segítheti a családokat.
 

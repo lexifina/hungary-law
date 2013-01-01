@@ -4,7 +4,9 @@ a) a 138. § (1) és (2) bekezdésében meghatározott adatokat,
 
 b) az ellátás igénybevételének és megszűnésének időpontját,
 
-c) a térítési vagy gondozási díj fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokat.
+c) a térítési díj fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokat.
+
+(1a) Az állami fenntartó nyilvántartást vezet a gondozásidíj-fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokról.
 
 (2) A Kormány által kijelölt szerv a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 

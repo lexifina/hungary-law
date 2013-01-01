@@ -1,4 +1,4 @@
-138. § (1) A jegyző az ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
+138. § (1) A gyámhatóság, illetve a 18. § (1) bekezdés b) pontja és (2) bekezdése szerinti ellátás esetében a jegyző az ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
 
 a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait és a gyermek társadalombiztosítási azonosító jelét,
 
@@ -8,9 +8,9 @@ c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vo
 
 d) az ellátással kapcsolatos döntéseket,
 
-e) a jogosultság és a térítési díj megállapításához szükséges jövedelmi adatokat.
+e) a jogosultság megállapításához szükséges jövedelmi adatokat.
 
-(2) A jegyző nyilvántartást vezet a hatósági intézkedéssel védelembe vett gyermekekről. A nyilvántartás tartalmazza
+(2) A gyámhatóság nyilvántartást vezet a hatósági intézkedéssel védelembe vett gyermekekről. A nyilvántartás tartalmazza
 
 a) az (1) bekezdés a) pontjában meghatározott adatokat,
 
@@ -20,6 +20,6 @@ c) a hatósági intézkedésre vonatkozó döntést, annak időpontját,
 
 d) a hatósági intézkedés felülvizsgálatának időpontját és eredményét.
 
-(3) A jegyző nyilvántartást vezet a szülő adatai nélkül anyakönyvezett gyermekekről az (1) bekezdés a) pontjában meghatározott adatok mellett a hatósági eljárásra vonatkozó döntésről.
+(3) A gyámhatóság nyilvántartást vezet a szülő adatai nélkül anyakönyvezett gyermekekről az (1) bekezdés a) pontjában meghatározott adatok mellett a hatósági eljárásra vonatkozó döntésről.
 
-(4) A települési önkormányzat jegyzője nyilvántartást vezet az általa engedélyezett gyermekjóléti szolgáltató tevékenységről és az ellenőrzéssel kapcsolatos döntésről.
+(4) A gyámhatóság nyilvántartást vezet az általa engedélyezett gyermekjóléti szolgáltató tevékenységről és az ellenőrzéssel kapcsolatos döntésről.

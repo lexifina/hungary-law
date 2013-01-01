@@ -24,4 +24,4 @@ b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkés�
 
 (10a) A kötelezett írásban vállalhatja a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben nem kell a 150. § (3) bekezdésében foglaltakat alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő ne kerüljön előnyösebb helyzetbe, mint ha a vállalást a kötelezett nem tenné meg.
 
-(11) A normatív állami hozzájárulásban nem részesülő fenntartó esetén – kivéve az állami fenntartású intézményeket – a 147. §-t, a 148. § (4) bekezdését és a 150. §-t nem kell alkalmazni.
+(11) A központi költségvetésről szóló törvényben biztosított támogatásban nem részesülő fenntartó esetén a 147. §-t, a 148. § (4) bekezdését és a 150. §-t nem kell alkalmazni.

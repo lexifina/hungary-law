@@ -18,4 +18,4 @@ d) az ellátás megszűnésének eseteit és módjait,
 
 e) a fizetendő térítési díjak mértékét, csökkentésének és elengedésének eseteit, módjait.
 
-(3) Ha önkormányzati társulás vagy többcélú kistérségi társulás gyermekjóléti, gyermekvédelmi ellátást nyújt, akkor a társulási megállapodásban erre kijelölt települési önkormányzat – a társulási megállapodásban meghatározottak szerint – a nyújtott ellátásokról, azok igénybevételéről és a fizetendő térítési díjakról rendeletet alkot.
+(3) Ha önkormányzati társulás gyermekjóléti, gyermekvédelmi ellátást nyújt, akkor a társulási megállapodásban erre kijelölt települési önkormányzat – a társulási megállapodásban meghatározottak szerint – a nyújtott ellátásokról, azok igénybevételéről és a fizetendő térítési díjakról rendeletet alkot.

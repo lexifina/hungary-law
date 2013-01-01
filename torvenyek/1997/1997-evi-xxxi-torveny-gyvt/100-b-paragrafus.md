@@ -1,4 +1,4 @@
-100/B. § A működést engedélyező szerv vagy a gyámhivatal ellenőrzési jogkörében a gyermekvédelmi igazgatási bírság kiszabása helyett vagy mellett
+100/B. § A működést engedélyező szerv vagy a gyámhatóság ellenőrzési jogkörében a gyermekvédelmi igazgatási bírság kiszabása helyett vagy mellett
 
 a) a gyermekjóléti, gyermekvédelmi szolgáltatás engedélyezésével, működtetésével kapcsolatos rendelkezések megsértése esetén a külön jogszabályban meghatározott jogkövetkezményeket alkalmazhatja,
 

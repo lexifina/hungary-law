@@ -2,7 +2,7 @@
 
 ## Családbafogadás
 
-70. § (1) A gyámhivatal
+70. § (1) A gyámhatóság
 
 a) a szülői felügyeletet gyakorló mindkét szülő kérelmére,
 
@@ -16,7 +16,7 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 
 (3) A családbafogadás a szülő tartási kötelezettségét nem érinti.
 
-(4) A gyámhivatal a kérelem benyújtásakor tájékoztatja a szülőt jognyilatkozatának következményeiről.
+(4) A gyámhatóság a kérelem benyújtásakor tájékoztatja a szülőt jognyilatkozatának következményeiről.
 
 (5) Az (1) bekezdés c) pontja szerinti esetben a családbafogadással egyidejűleg meg kell szüntetni a gyermek átmeneti nevelésbe vételét.
 

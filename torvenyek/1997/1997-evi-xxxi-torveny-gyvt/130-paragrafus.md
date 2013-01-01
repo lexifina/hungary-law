@@ -2,7 +2,7 @@
 
 (2) Az eljáró szerv az eljárásban felhasználhat más hatóság, illetőleg családvédelemmel foglalkozó más szerv vagy személy által készített környezettanulmányt is, feltéve, hogy annak elkészítése óta 6 hónap még nem telt el.
 
-(3) A gyámhivatal megkeresheti a települési önkormányzat jegyzőjét, hogy a kérelmezőnek az (1) bekezdésben megjelölt körülményeiről készítsen környezettanulmányt.
+(3) A gyámhatóság megkereshet más gyámhatóságot, hogy a kérelmezőnek az (1) bekezdésben megjelölt körülményeiről készítsen környezettanulmányt.
 
 (4) Az eljáró szerv a bíróság és az ügyészség megkeresésére környezettanulmányt készít.
 

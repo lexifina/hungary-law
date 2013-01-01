@@ -20,7 +20,7 @@ b) a külön jogszabályban meghatározott tanfolyamon eredménnyel részt vett,
 
 (8) A (7) bekezdésben meghatározott létszámon túl még két gyermek, ha fogyatékos gyermekről van szó, még egy gyermek gondozható a családi napköziben, feltéve, hogy az ellátást nyújtónak állandó segítője van.
 
-(9) A családi napköziben gondozott saját gyermek után normatív állami hozzájárulást nem lehet igénybe venni.
+(9) A családi napköziben gondozott saját gyermek után központi költségvetésről szóló törvényben biztosított támogatást nem lehet igénybe venni.
 
 (10) A családi napközi feladatait önálló szolgáltató vagy legalább három – telephelyként működő – családi napközit magába foglaló családi napközi hálózat biztosítja. Öt, vagy annál több családi napközi fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtók részére a folyamatos szakmai tanácsadást, valamint az ellátottak igényeihez rugalmasan igazodó szolgáltatások összehangolását.
 

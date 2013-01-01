@@ -8,7 +8,7 @@ b) az egyes ellátások igényléséhez felhasználható bizonyítékok körét,
 
 c) a térítési díjra vonatkozó részletes szabályokat,
 
-d) a gyámhivatal vagy gyámhivatalok kijelölését, szervezetét, a gyámhatóság részletes feladat- és hatáskörét, valamint eljárása részletes szabályait,
+d) a gyámhatóságok kijelölését, szervezetét, a gyámhatóság részletes feladat- és hatáskörét, valamint eljárása részletes szabályait,
 
 e) a gyermekvédelmi szakfelügyeleti feladatot ellátó személyek képesítési előírásait,
 
@@ -26,9 +26,9 @@ k) a gyermekvédelmi közvetítői eljárás részletes szabályait,
 
 l) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők szakmai ellenőrzésének részletes szabályait,
 
-m) a települési önkormányzat jegyzőjének hatáskörébe utalt pénzbeli és természetbeni ellátások igénylésének, megállapításának és folyósításának részletes szabályait,
+m) a gyámhatóság hatáskörébe utalt pénzbeli és természetbeni ellátások igénylésének, megállapításának és folyósításának részletes szabályait,
 
-n) a gyámhatóságként eljáró települési önkormányzat jegyzőjének illetékességére vonatkozó szabályokat,
+n) a gyámhatóság illetékességére vonatkozó szabályokat,
 
 o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
 
@@ -38,7 +38,7 @@ q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügy
 
 r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárásra, valamint az iskoláztatási támogatás folyósításának felfüggesztésére, a felfüggesztés megszüntetésére és az iskoláztatási támogatás szüneteltetése kezdeményezésére irányuló eljárásra, a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
 
-s) a nem állami és egyházi fenntartók által igénybe vehető normatív állami hozzájárulás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
+s) a nem állami és egyházi fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 
 t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
 
@@ -70,7 +70,7 @@ f) az e törvény szerinti gyermekvédelmi és szociálpolitikai szakértői sza
 
 g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirányú szakképzés során szerzett szakképzettség megszerzését tanúsító oklevelek elismerésére, továbbá az eljáró hatóságra, annak feladat- és hatáskörére vonatkozó részletes szabályokat,
 
-h) a módszertani intézmények kijelölésére és feladataira vonatkozó részletes szabályokat,
+h) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat,
 
 i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
 
@@ -82,6 +82,6 @@ l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit.
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
-(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani intézményeknek fizetendő szakértői díj mértékét.
+(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.
