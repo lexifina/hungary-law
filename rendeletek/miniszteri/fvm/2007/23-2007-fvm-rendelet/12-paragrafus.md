@@ -8,12 +8,12 @@
 
 (3) Többéves kötelezettségvállalás esetében az ügyfél kizárólag a vis maior esemény bekövetkezését követően mentesíthető a további időszakra fennálló kötelezettségek alól, és a vis maior esemény befejeződéséig jogszerűen igénybe vett támogatás visszafizetése alól mentesül.
 
-(4)[^75] A beruházási támogatások vonatkozásában, a vis maior esemény igazolásával egyidejűleg előterjesztett, arra irányuló kifejezett kérelem esetén az MVH az e rendeletben foglalt megvalósítási határidőt egy alkalommal legfeljebb egy évvel meghosszabbíthatja, amennyiben az ügyfél a beruházást az (5) bekezdésben foglaltak szerint megkezdte. A megvalósítási határidő meghosszabbítására irányuló kérelem a 25. § (2) bekezdésében foglaltak szerint meghatározott megvalósítási határidő lejártát követően nem terjeszthető elő.
+(4)[^78] A beruházási támogatások vonatkozásában, a vis maior esemény igazolásával egyidejűleg előterjesztett, arra irányuló kifejezett kérelem esetén az MVH az e rendeletben foglalt megvalósítási határidőt egy alkalommal legfeljebb egy évvel meghosszabbíthatja, amennyiben az ügyfél a beruházást az (5) bekezdésben foglaltak szerint megkezdte. A megvalósítási határidő meghosszabbítására irányuló kérelem a 25. § (2) bekezdésében foglaltak szerint meghatározott megvalósítási határidő lejártát követően nem terjeszthető elő.
 
-(5)[^76] A beruházás megkezdése, a 12. § alkalmazásában igazolt, amennyiben az ügyfél legalább egy, kifizetési kérelemnek helyt adó vagy részben helyt adó jogerős határozattal rendelkezik, amelyben nem csak egyéb elszámolható kiadást hagyott jóvá az MVH. Egyéb esetekben az ügyfélnek kell hitelt érdemlően bizonyítania a beruházás megkezdését.
+(5)[^79] A beruházás megkezdése, a 12. § alkalmazásában igazolt, amennyiben az ügyfél legalább egy, kifizetési kérelemnek helyt adó vagy részben helyt adó jogerős határozattal rendelkezik, amelyben nem csak egyéb elszámolható kiadást hagyott jóvá az MVH. Egyéb esetekben az ügyfélnek kell hitelt érdemlően bizonyítania a beruházás megkezdését.
 
-(6)[^77] Amennyiben a megvalósítási határidőt az ügy összes körülményét figyelembe véve az MVH döntésével meghosszabbítja, az ügyfél e rendelet szerint fennálló üzemeltetési kötelezettsége a meghosszabbítás időtartamával meghosszabbodik, és kifizetési kérelem ebben az esetben is csak a 17. § (3) bekezdése szerinti határidőig nyújtható be.
+(6)[^80] Amennyiben a megvalósítási határidőt az ügy összes körülményét figyelembe véve az MVH döntésével meghosszabbítja, az ügyfél e rendelet szerint fennálló üzemeltetési kötelezettsége a meghosszabbítás időtartamával meghosszabbodik, és kifizetési kérelem ebben az esetben is csak a 17. § (3) bekezdése szerinti határidőig nyújtható be.
 
-[^75]: A 12. § (4) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be.
-[^76]: A 12. § (5) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be.
-[^77]: A 12. § (6) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be.
+[^78]: A 12. § (4) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be.
+[^79]: A 12. § (5) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be.
+[^80]: A 12. § (6) bekezdését a 17/2011. (III. 4.) VM rendelet 2. §-a iktatta be.

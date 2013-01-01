@@ -1,4 +1,4 @@
-25/A. §[^141] (1) A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
+25/A. §[^148] (1) A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
 
 a) bírósági vagy közigazgatási határozattal igazoltan, az ügyfélnek fel nem róható okból a beruházás a kérelemben megjelölt helyen nem megvalósítható, vagy nem folytatható;
 
@@ -8,6 +8,10 @@ c) az eredeti támogatási kérelem alapján elért pontszám legalább a megval
 
 (2) A beruházás új helyére megállapítható támogatás összege és mértéke az új megvalósítási hely területi besorolásának a támogatási kérelem vagy a támogatási határozat módosítása iránti kérelemben foglaltaktól való eltérése folytán nem növekedhet.
 
-(3) Mentesül az ügyfél az (1) bekezdés a) pontjában nevesített feltétel alól, ha a beruházását saját tulajdonú új megvalósítási helyen kívánja megvalósítani. A megvalósítási hely módosítására vonatkozó, ezen okra alapozott kérelmet az ügyfél legkésőbb az első kifizetési kérelem benyújtásáig terjesztheti elő. A beruházás megvalósítását az ügyfél kizárólag a saját felelősségére kezdheti meg az MVH által hozott, a megvalósítási hely módosítása iránti kérelemnek helyt adó határozat kézhezvételét megelőzően.
+(3)[^149] Mentesül az ügyfél az (1) bekezdés a) pontjában nevesített feltétel alól, ha a beruházását az eredetileg megjelölt helyett más megvalósítási helyen kívánja megvalósítani, és erre vonatkozó kérelmét legkésőbb az első kifizetési kérelem benyújtására nyitva álló időszak lejártát megelőző hatvanadik napig előterjeszti. Megvalósítási hely módosítására irányuló kérelmet az ügyfél egy alkalommal terjeszthet elő. A beruházás megvalósítását az ügyfél kizárólag a saját felelősségére kezdheti meg az MVH által hozott, a megvalósítási hely módosítása iránti kérelemnek helyt adó határozat kézhezvételét megelőzően.
 
-[^141]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 18. §-ával megállapított szöveg.
+(4)[^150] Kifizetési kérelmet az ügyfél, amennyiben arra kötelezett, a 24. § (1) bekezdésében foglalt – vagy amennyiben egyéb jogszabály az első kifizetési kérelem benyújtásáról eltérően rendelkezik, úgy a külön jogszabályban meghatározott eltérő – rendelkezések sérelme nélkül köteles benyújtani.
+
+[^148]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 18. §-ával megállapított szöveg.
+[^149]: A 25/A. § (3) bekezdése a 137/2012. (XII. 22.) VM rendelet 7. §-ával megállapított szöveg.
+[^150]: A 25/A. § (4) bekezdését a 137/2012. (XII. 22.) VM rendelet 7. §-a iktatta be.

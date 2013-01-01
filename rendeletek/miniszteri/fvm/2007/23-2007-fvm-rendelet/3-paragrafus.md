@@ -64,31 +64,39 @@
 
 a) akinek részére a 28/A. § alapján e minőségéről az IH határozatot hoz;
 
-b) aki az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet alapján támogatási határozattal, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító határozattal rendelkezik;
+b)[^30] aki
 
-31.[^30] kedvezőtlen adottságú terület: az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokról, valamint egyes rendeletek módosításáról, illetve hatályon kívül helyezéséről szóló 1257/1999/EK tanácsi rendelet 19. cikke, valamint 20. cikke alapján az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások esetében a kedvezőtlen adottságú területek és az azokhoz kapcsolódó települések megállapításáról szóló 24/2007. (IV. 17.) FVM rendelet alapján meghatározott terület;
+ba) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet,
 
-32.[^31] hiteles másolat: az okirat kiállítója által vagy közjegyző által hitelesített másolat;
+bb) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet, vagy
 
-33.[^32] egyéb intézkedésnek minősül a R. 66. cikke szerint technikai segítségnyújtás intézkedés;
+bc) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2012. évben igényelhető támogatások részletes feltételeiről szóló 57/2012. (VI. 21.) VM rendelet
 
-34.[^33] művelet: az R. 2. cikk e) pontja szerinti fogalom;
+31.[^31] kedvezőtlen adottságú terület: az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokról, valamint egyes rendeletek módosításáról, illetve hatályon kívül helyezéséről szóló 1257/1999/EK tanácsi rendelet 19. cikke, valamint 20. cikke alapján az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások esetében a kedvezőtlen adottságú területek és az azokhoz kapcsolódó települések megállapításáról szóló 24/2007. (IV. 17.) FVM rendelet alapján meghatározott terület;
 
-35.[^34] támogatástartalom: a kedvezményezett számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
+32.[^32] hiteles másolat: az okirat kiállítója által vagy közjegyző által hitelesített másolat;
 
-36.[^35] kötelező képzés: a támogatás részletes feltételeit megállapító jogszabályban előírt képzés, amelyen az ügyfél az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló miniszteri rendeletben meghatározott módon köteles részt venni, amely az ügyfél számára akkor tekintendő megszervezettnek, ha annak helyszínéről és kezdési időpontjáról a képzéseket koordináló NAKVI-tól, vagy az általa megbízott Képző Szervezettől, a képzés kezdési időpontját legalább nyolc nappal megelőzően tértivevényes értesítést kapott;
+33.[^33] egyéb intézkedésnek minősül a R. 66. cikke szerint technikai segítségnyújtás intézkedés;
 
-37.[^36] pontozási szint: a támogatási kérelem azon egysége, amely a támogatás részletes feltételeit megállapító jogszabály alapján önállóan rangsorba állítható, és amelyhez külön pontszám és támogatási összeg tartozik;
+34.[^34] művelet: az R. 2. cikk e) pontja szerinti fogalom;
 
-38.[^37] felmérési napló: az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint;
+35.[^35] támogatástartalom: a kedvezményezett számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-39.[^38] műszaki tartalom: a támogatással érintett egység (építmény, eszköz, szolgáltatás) azon funkciója, használati módja, mérete, kapacitása, amely a támogatás nyújtásának céljával összefüggésben van, illetve a támogatás megítélésében szerepet játszott, amennyiben az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások részletes szabályait megállapító rendeletek eltérően nem rendelkeznek.
+36.[^36] kötelező képzés: a támogatás részletes feltételeit megállapító jogszabályban előírt képzés, amelyen az ügyfél az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló miniszteri rendeletben meghatározott módon köteles részt venni, amely az ügyfél számára akkor tekintendő megszervezettnek, ha annak helyszínéről és kezdési időpontjáról a képzéseket koordináló NAKVI-tól, vagy az általa megbízott Képző Szervezettől, a képzés kezdési időpontját legalább nyolc nappal megelőzően tértivevényes értesítést kapott;
 
-40.[^39] építési napló: az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint;
+37.[^37] pontozási szint: a támogatási kérelem azon egysége, amely a támogatás részletes feltételeit megállapító jogszabály alapján önállóan rangsorba állítható, és amelyhez külön pontszám és támogatási összeg tartozik;
 
-41.[^40] egyszerű helyettesítő beruházás: olyan beruházás megvalósítása, amely eredményeképpen a támogatással megvásárolt eszköz nem eredményezi az ügyfél tevékenységi volumenének, vagy árbevételének növekedését, illetve amely célja a támogatási kérelem benyújtásakor az ügyfél tulajdonában, használatában álló eszköz lecserélése, olyan eszközre, amely műszaki színvonalában, korszerűségében, vagy üzemeltetési költségeiben, vagy környezeti hatásaiban nem kedvezőbb a lecserélt eszköznél;
+38.[^38] felmérési napló: az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint;
 
-42.[^41] kapcsolt vállalkozás: az adózás rendjéről szóló törvény szerinti vállalkozás
+39.[^39] műszaki tartalom: a támogatással érintett egység (építmény, eszköz, szolgáltatás) azon funkciója, használati módja, mérete, kapacitása, amely a támogatás nyújtásának céljával összefüggésben van, illetve a támogatás megítélésében szerepet játszott, amennyiben az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások részletes szabályait megállapító rendeletek eltérően nem rendelkeznek.
+
+40.[^40] építési napló: az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint;
+
+41.[^41] egyszerű helyettesítő beruházás: olyan beruházás megvalósítása, amely eredményeképpen a támogatással megvásárolt eszköz nem eredményezi az ügyfél tevékenységi volumenének, vagy árbevételének növekedését, illetve amely célja a támogatási kérelem benyújtásakor az ügyfél tulajdonában, használatában álló eszköz lecserélése, olyan eszközre, amely műszaki színvonalában, korszerűségében, vagy üzemeltetési költségeiben, vagy környezeti hatásaiban nem kedvezőbb a lecserélt eszköznél;
+
+42.[^42] kapcsolt vállalkozás: az adózás rendjéről szóló törvény szerinti vállalkozás;
+
+43.[^43] elkülönített nyilvántartás: azon támogatott művelet megvalósítását eredményező eseményekről szóló külön nyilvántartás, illetve külön analitikus nyilvántartás eredeti bizonylatai, melyek a támogatási határozattal jóváhagyott művelethez kapcsolódóan az ügyfél vagyoni és jövedelmi helyzetére hatást gyakorolnak, azzal hogy könyvvezetési kötelezettség esetén az ügyfél kiadásait, valamint – ha a támogatás részletes feltételeit megállapító jogszabály ahhoz joghatást fűz – a bevételeit is tartalmazza, szabályzatban meghatározott helyen, bármikor ellenőrizhetően tárolt, őrzött módon, az üzemeltetési kötelezettség lejáratáig, de legalább a vonatkozó jogszabályokban előírt iratmegőrzési határidőig.
 
 [^11]: A 3. § 4. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § 5. pontja a 124/2011. (XII. 21.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -109,15 +117,17 @@ b) aki az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgaz
 [^27]: A 3. § 28. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^28]: A 3. § 29. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^29]: A 3. § 30. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 17/2011. (III. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^30]: A 3. § 31. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^31]: A 3. § 32. pontját a 127/2007. (X. 29.) FVM rendelet 1. § (2) bekezdése iktatta be.
-[^32]: A 3. § 33. pontját az 53/2008. (IV. 24.) FVM rendelet 3. § (5) bekezdése iktatta be.
-[^33]: A 3. § 34. pontját a 97/2008. (VII. 25.) FVM rendelet 2. § (5) bekezdése iktatta be.
-[^34]: A 3. § 35. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^35]: A 3. § 36. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 3. § (8) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 4. § b) pontja szerint módosított szöveg.
-[^36]: A 3. § 37. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^37]: A 3. § 38. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 3. § (9) bekezdésével megállapított szöveg.
-[^38]: A 3. § 39. pontját a 17/2011. (III. 4.) VM rendelet 1. § (2) bekezdése iktatta be.
-[^39]: A 3. § 40. pontját a 124/2011. (XII. 21.) VM rendelet 3. § (10) bekezdése iktatta be.
-[^40]: A 3. § 41. pontját a 124/2011. (XII. 21.) VM rendelet 3. § (10) bekezdése iktatta be.
-[^41]: A 3. § 42. pontját a 124/2011. (XII. 21.) VM rendelet 3. § (10) bekezdése iktatta be.
+[^30]: A 3. § 30. pont b) alpontja a 137/2012. (XII. 22.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^31]: A 3. § 31. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^32]: A 3. § 32. pontját a 127/2007. (X. 29.) FVM rendelet 1. § (2) bekezdése iktatta be.
+[^33]: A 3. § 33. pontját az 53/2008. (IV. 24.) FVM rendelet 3. § (5) bekezdése iktatta be.
+[^34]: A 3. § 34. pontját a 97/2008. (VII. 25.) FVM rendelet 2. § (5) bekezdése iktatta be.
+[^35]: A 3. § 35. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^36]: A 3. § 36. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 3. § (8) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 4. § b) pontja szerint módosított szöveg.
+[^37]: A 3. § 37. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^38]: A 3. § 38. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 3. § (9) bekezdésével megállapított szöveg.
+[^39]: A 3. § 39. pontját a 17/2011. (III. 4.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^40]: A 3. § 40. pontját a 124/2011. (XII. 21.) VM rendelet 3. § (10) bekezdése iktatta be.
+[^41]: A 3. § 41. pontját a 124/2011. (XII. 21.) VM rendelet 3. § (10) bekezdése iktatta be.
+[^42]: A 3. § 42. pontját a 124/2011. (XII. 21.) VM rendelet 3. § (10) bekezdése iktatta be.
+[^43]: A 3. § 43. pontját a 137/2012. (XII. 22.) VM rendelet 1. § (2) bekezdése iktatta be.

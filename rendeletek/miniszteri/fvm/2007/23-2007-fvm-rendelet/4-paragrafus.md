@@ -4,9 +4,9 @@
 
 ## A támogatás forrása, jellege
 
-4. § (1)[^42] A támogatás és egyéb intézkedés forrása:
+4. § (1)[^44] A támogatás és egyéb intézkedés forrása:
 
-a)[^43] a központi költségvetés Vidékfejlesztési Minisztérium (a továbbiakban: VM) fejezetében az ÚMVP-ben meghatározott célok támogatására előirányzott összeg, valamint
+a)[^45] a központi költségvetés Vidékfejlesztési Minisztérium (a továbbiakban: VM) fejezetében az ÚMVP-ben meghatározott célok támogatására előirányzott összeg, valamint
 
 b) az EMVA terhére a 2007. január 1. és 2013. december 31. közötti időszakra vonatkozó közösségi vidékfejlesztési támogatás tagállamonkénti és évenkénti összegének meghatározásáról szóló 2006/636/EK (2006. szeptember 12.) bizottsági határozat mellékletében Magyarország részére meghatározott kötelezettségvállalási előirányzatok.
 
@@ -14,5 +14,5 @@ b) az EMVA terhére a 2007. január 1. és 2013. december 31. közötti időszak
 
 (3) Ha a támogatás részletes feltételeit megállapító jogszabály másként nem rendelkezik, akkor a támogatás vissza nem térítendő jellegű.
 
-[^42]: A 4. § (1) bekezdése az 53/2008. (IV. 24.) FVM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^43]: A 4. § (1) bekezdés a) pontja a 124/2011. (XII. 21.) VM rendelet 4. §-ával megállapított szöveg.
+[^44]: A 4. § (1) bekezdése az 53/2008. (IV. 24.) FVM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^45]: A 4. § (1) bekezdés a) pontja a 124/2011. (XII. 21.) VM rendelet 4. §-ával megállapított szöveg.
