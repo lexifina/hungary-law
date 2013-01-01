@@ -6,7 +6,9 @@ b) a személyazonosság megállapítása érdekében
 
 ba) az ismeretlen, adatait közölni nem képes személynek,
 
-bb) az ismeretlen holttestnek, testrésznek.
+bb) az ismeretlen holttestnek, testrésznek,
+
+c) védelem alá helyezése érdekében annak a személynek, akinek a védelem alá helyezése saját maga vagy mások védelmének biztosítása miatt szükséges.
 
 (2) E törvény alkalmazásában, valamint a körözés elrendelése szempontjából eltűntnek kell tekinteni az ismeretlen helyen lévő személyt, ha
 

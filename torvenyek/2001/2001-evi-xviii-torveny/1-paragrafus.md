@@ -6,7 +6,17 @@
 
 (2) E törvény alkalmazásában
 
-a) körözés: az ismeretlen helyen lévő személy vagy tárgy felkutatása, illetve ismeretlen személy vagy holttest személyazonosságának megállapítása érdekében végzett intézkedések összessége;
+a) körözés:
+
+aa) a 12/A. § (2) bekezdésében meghatározott eltűnt személy felkutatására, védelem alá helyezésére, körözést elrendelő hatóság vagy szerv elé állítására,
+
+ab) az ismeretlen személy vagy holttest személyazonosságának megállapítására,
+
+ac) a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából keresett tárgyak felkutatására, valamint
+
+ad) az elveszett, eltulajdonított, érvénytelenített okmányok, hatósági jelzések felkutatására
+
+irányuló intézkedések,
 
 b) körözés elrendelés: személy vagy tárgy felkutatására, illetve személy vagy holttest személyazonosságának megállapítására irányuló határozat, illetőleg személy felkutatását, egyben elfogását és meghatározott hatóság elé állítását elrendelő határozat (elfogatóparancs) meghozatala;
 

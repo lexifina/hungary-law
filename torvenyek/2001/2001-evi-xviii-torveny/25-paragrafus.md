@@ -24,4 +24,6 @@ j) a menekültügyi és idegenrendészeti ügyekben eljáró szervek a személya
 
 k) a bíróság a holtnak nyilvánítással kapcsolatos feladatai ellátásához;
 
-l) a személyazonosításra alkalmas okmány, illetve a járműokmányok kiadására jogosult hatóság jogszabályban meghatározott feladatai ellátásához.
+l) a személyazonosításra alkalmas okmány, illetve a járműokmányok kiadására jogosult hatóság jogszabályban meghatározott feladatai ellátásához;
+
+m) az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához.

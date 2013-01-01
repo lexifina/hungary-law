@@ -24,13 +24,15 @@ h) a jogszabály által rendszeresített nyilvántartásokból a körözött sze
 
 i) a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 42. §-a alapján a rendőri intézkedéssel összefüggésben az intézkedéssel érintett személyről, a környezetről, illetőleg az intézkedés szempontjából lényeges körülményről, tárgyról készített képfelvételt, hangfelvételt, kép- és hangfelvételt, valamint az azokban szereplő adatokat felhasználhatja;
 
-j) a központi személyiadat- és lakcímnyilvántartásban, valamint a határforgalom ellenőrzését szolgáló nyilvántartási rendszerekben a cél megjelölésével – az érintett feltartóztatását vagy adatváltozás esetén értesítés adását előíró – jelzések elhelyezését rendelheti el;
+j) a határforgalom ellenőrzését szolgáló nyilvántartási rendszerekben a cél megjelölésével – az érintett feltartóztatását vagy adatváltozás esetén értesítés adását előíró – jelzések elhelyezését rendelheti el;
 
-k) a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény rendelkezései szerint a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése céljából adatot továbbíthat, illetve abból a körözési feladatok ellátása céljából a SIRENE Iroda útján adatot igényelhet;
+k) a Schengeni Információs Rendszerbe figyelmeztető jelzés elhelyezése céljából adatot továbbíthat, illetve abból a körözési feladatok ellátása céljából adatot igényelhet;
 
-l) a központi közlekedési nyilvántartásból, a személyiadat- és lakcímnyilvántartásból, az útiokmány-nyilvántartásból, az idegenrendészeti nyilvántartásból az elveszett, eltulajdonított, megsemmisült okmányokról a körözési feladatok ellátása céljából adatokat vehet át;
+l) a közúti közlekedési nyilvántartásokból, a személyiadat- és lakcímnyilvántartásból, az útiokmány-nyilvántartásból, az idegenrendészeti nyilvántartásból az elveszett, eltulajdonított, valamint a jogszabály szerint érvénytelenített okmányokról a körözési feladatok ellátása céljából adatokat vehet át;
 
-m) elektronikus hírközlési szolgáltatótól helymeghatározási adatot kérhet.
+m) elektronikus hírközlési szolgáltatótól helymeghatározási adatot kérhet; valamint
+
+n) a körözött személy és tárgy felkutatása érdekében rendszámfelismerő rendszert üzemeltethet.
 
 (2) A polgári bíróság határozata alapján folytatott körözés során az (1) bekezdés ab) alpontjában, valamint d) és e) pontjában meghatározott módon nem végezhető adatgyűjtés.
 
