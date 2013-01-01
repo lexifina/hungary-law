@@ -4,11 +4,13 @@
 
 a)
 
-b)–c)
+b) 17. § (5) bekezdésében „az okmányirodánál” szövegrész helyébe „a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal)” szöveg,
+
+c) 20. § (4) bekezdésében a „települési önkormányzat jegyzőjét” szövegrész helyébe „járási hivatalt” szöveg,
 
 d)–f)
 
-g)
+g) 3. melléklet G) pont 5. és 7. alpontban „Az okmányiroda” szövegrész helyébe „A járási hivatal” szöveg
 
 lép.
 

@@ -4,6 +4,6 @@
 
 a)
 
-b)
+b) 8. § (8) bekezdésének nyitó szövegében a „fővárosi és megyei kormányhivatal vezetőjét” szövegrész helyébe a „fővárosi és megyei kormányhivatal vezetőjét, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala vezetőjét” szöveg
 
 lép.

@@ -2,7 +2,7 @@
 
 40. § A választási eljárásról szóló 1997. évi C. törvény
 
-a)
+a) 17. § (1) bekezdés a) pontjában a „gyámhivatal” szövegrész helyébe a „gyámhatóság” szöveg,
 
 b)
 
