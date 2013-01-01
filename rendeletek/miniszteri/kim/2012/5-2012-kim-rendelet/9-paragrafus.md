@@ -14,6 +14,8 @@ a) az elszámolást alátámasztó bizonylatok eredeti példánya a kedvezménye
 
 b) az elszámolás az azokat megalapozó nyilatkozatokkal és bizonylatokkal összhangban áll,
 
-c) a támogatás kerete terhére beszerzett eszközök rendelkezésre állnak, és felhasználásuk, használatuk a támogatási szerződésnek megfelelően történik.
+c)[^32] a támogatás kerete terhére beszerzett eszközök rendelkezésre állnak, és felhasználásuk, használatuk a pályázati kiírásnak megfelelően történik.
 
 (4) Az ellenőrzést dokumentálni kell, rögzítve az elvégzett munkát és az ellenőrzés eredményét, továbbá az ellenőrzés alapján szükséges intézkedéseket.
+
+[^32]: A 9. § (3) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 24. § (8) bekezdése szerint módosított szöveg.

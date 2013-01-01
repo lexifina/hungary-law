@@ -1,4 +1,4 @@
-## 27. §[^2] A Civil tv. 64. §-a szerinti alapkezelő az Emberi Erőforrás Támogatáskezelő.
+## 27. §[^59] A Civil tv. 64. §-a szerinti alapkezelő az Emberi Erőforrás Támogatáskezelő.
 
 28. § (1) Az Alapkezelő feladata különösen:
 
@@ -6,7 +6,7 @@ a) az informatikai rendszer üzemeltetése, fejlesztése, adatainak folyamatos k
 
 b) a támogatási igények fogadása, érkeztetése, kezelése;
 
-c) a Tanács és a kollégiumok döntéseinek előkészítése és végrehajtása;
+c)[^60] a Tanács és a kollégiumok üléseinek, döntéseinek előkészítése, dokumentálása és végrehajtása;
 
 d) szerződéskötés a kedvezményezettekkel;
 
@@ -34,4 +34,5 @@ o) az Alap pályázati kiírásaival, testületek működésével kapcsolatos t�
 
 (2) Az Alapkezelő feladata, hogy folyamatosan biztosítsa az Alappal kapcsolatos nyilvántartások és a hivatalos honlap adatainak koherenciáját.
 
-[^2]: A 27. § a 28/2012. (IX. 18.) EMMI rendelet 5. §-a szerint módosított szöveg.
+[^59]: A 27. § a 28/2012. (IX. 18.) EMMI rendelet 5. §-a szerint módosított szöveg.
+[^60]: A 28. § (1) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 15. §-ával megállapított szöveg.

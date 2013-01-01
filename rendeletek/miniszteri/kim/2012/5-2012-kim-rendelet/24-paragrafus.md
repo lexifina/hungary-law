@@ -10,4 +10,6 @@ c) a Civil tv. 61. § (2) bekezdés b) pontja szerint a kollégiumokba tagot kij
 
 d) az Alap támogatási forrásainak kollégiumok és támogatási cél, valamint forma szerinti megosztását.
 
-(2) Az elektori gyűlések elnevezése, az elektor állítására jogosult civil szervezetek köre megegyezik a megfelelő kollégiumok elnevezésével és az általuk támogatható civil szervezetek körével.
+(2)[^55] Az elektori gyűlések elnevezése, az elektor állítására jogosult civil szervezetek köre megegyezik a megfelelő kollégiumok elnevezésével és az általuk támogatható civil szervezetek körével. Elektort állító civil szervezet az elektorállítás évének megfelelő költségvetési év forrásai tekintetében csak az elektori gyűlésnek megfelelő kollégiumokhoz nyújthat be támogatási igényt érvényesen.
+
+[^55]: A 24. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 12. §-ával megállapított szöveg.

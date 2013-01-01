@@ -4,7 +4,7 @@
 
 ## 20. A kollégiumi beszámoló tartalmi elemei
 
-31. § (1) A kollégium a Tanácsnak szóló Civil tv. 70. § (1) bekezdés szerinti beszámolót az alábbi szerkezetben és szempontok szerint készíti el:
+31. § (1)[^63] Az Alapkezelő az e § szerinti összefoglaló adatokat február 28-ig megküldi a kollégiumoknak és a Tanácsnak. A kollégium a Tanácsnak szóló Civil tv. 70. § (1) bekezdés szerinti beszámolót az alábbi szerkezetben és szempontok szerint készíti el:
 
 a) a kollégiumi ülések és az elektronikus szavazások száma, a testület működésének tapasztalatai, különös tekintettel a tárgyévre vonatkozó fejezeti kezelésű előirányzatok felhasználásról szóló jogszabályban foglalt határidők tartására, a tagok testületi üléseken, határozathozatalban való részvételi arányára;
 
@@ -55,3 +55,5 @@ b) a tárgyévi támogatási stratégia bemutatása, értékelése, tapasztalata
 c) a támogatott szervezetek által megküldött szakmai beszámolók alapján a megvalósított projektek – képzések, tanulmányok, előadások, publikációk – értékelése, a résztvevők száma, a megvalósítás hatékonysága a civil szervezetek fejlődése, szerepvállalásának segítése érdekében;
 
 d) az egyes szakmai célok jövőbeni fenntartásának, módosításának, elvetésének indokolása a tárgyévi tapasztalatok alapján.
+
+[^63]: A 31. § (1) bekezdés nyitó szövegrésze az 56/2012. (XII. 29.) EMMI rendelet 17. §-ával megállapított szöveg.

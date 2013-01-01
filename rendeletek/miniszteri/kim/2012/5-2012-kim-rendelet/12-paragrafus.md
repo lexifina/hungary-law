@@ -2,8 +2,16 @@
 
 12. § (1) A Civil tv. 56. § (1) a) és b) pontja szerinti működési támogatásra vonatkozó pályázati felhívást az Alapkezelő készíti elő e rendeletnek megfelelően, amelyet a kollégiumok hagynak jóvá.
 
-(2) Az Alap terhére az (1) bekezdés szerinti pályázati felhívást a kollégiumokra összevontan, egységes tartalommal és feltételekkel kell megjelentetni.
+(2)[^44] Az Alap terhére az (1) bekezdés szerinti pályázati kiírást a kollégiumokra összevontan, egységes tartalommal és feltételekkel kell megjelentetni. A pályázati kiírásnak elkülönítetten kell tartalmaznia a Civil tv. 59. § (2) bekezdés a) és b) pontja szerinti kedvezményezetti kör számára rendelkezésre álló forrás összegét.
 
-(3) A működési célú pályázati kiírás tartalmazza a Civil tv. 56. § (1) bekezdés a) pontja szerinti keret biztosítását. Ha a támogatási igényhez mellékelt, a támogatási igény benyújtását megelőző évre vonatkozó számviteli beszámoló alapján a civil szervezet adományban részesült, a civil szervezet jogosult az adományhoz kapcsolódóan működési támogatásra. Az adományhoz kapcsolódó támogatási igényt az érkezés sorrendjében bírálat nélkül ki kell elégíteni. Az ezzel kapcsolatos intézkedéseket az Alapkezelő saját hatáskörben végrehajtja.
+(3)[^45] A működési célú pályázati kiírás tartalmazhatja a Civil tv. 56. § (1) bekezdés a) pontja szerinti keret biztosítását. Ha a támogatási igényekhez mellékelt, a támogatási igény benyújtását megelőző évre vonatkozó számviteli beszámoló alapján a civil szervezet adományban részesült, a civil szervezet a támogatási igények beérkezési sorrendjében, az erre vonatkozó keret kimerüléséig jogosult az adományhoz kapcsolódóan, a Civil tv. szerinti mértékben működési támogatásra. A bírálat során nem hozható olyan döntés, amely a normatív kiegészítés összegénél alacsonyabb támogatást biztosít.
 
-(4) Civil szervezet működéséhez támogatás nem nyújtható, ha annak teljes (1) bekezdés szerinti összege nem éri el a kettőszáz-ötvenezer forintot.
+(4)[^46] Civil szervezet működéséhez támogatás akkor biztosítható, ha
+
+a) a Civil tv. 56. § (1) bekezdés a) pontja alapján nyújtható támogatás eléri a tízezer forintot, legfeljebb kettőszázötvenezer forint értékig;
+
+b) a működési támogatás meghaladja a kettőszázötvenezer forintot.
+
+[^44]: A 12. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^45]: A 12. § (3) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^46]: A 12. § (4) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 8. §-ával megállapított szöveg.

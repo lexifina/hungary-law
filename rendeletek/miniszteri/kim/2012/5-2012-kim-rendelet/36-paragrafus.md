@@ -2,6 +2,6 @@
 
 ## 25. Hatályon kívül helyező rendelkezések
 
-36. §[^4]
+36. §[^68]
 
-[^4]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

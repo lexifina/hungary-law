@@ -24,13 +24,13 @@ b) a pályázat tartalmi és formai követelményeit;
 
 c) a rendelkezésére álló forrás megnevezését és összegét;
 
-d) a támogatásból elszámolható költségek körét;
+d)[^36] a támogatásból elszámolható és a különösen el nem számolható költségek körét;
 
 e) az elnyerhető költségvetésből nyújtott támogatás mértékének alsó és felső határát;
 
-f) a támogatás formáját és a finanszírozás módját (visszatérítendő vagy vissza nem térítendő; előfinanszírozás, utófinanszírozás);
+f)[^37] a finanszírozás módját (visszatérítendő vagy vissza nem térítendő; előfinanszírozás, utófinanszírozás);
 
-g) a megkívánt saját forrás mértékét;
+g)[^38] a megkívánt önrész (saját és egyéb forrás) mértékét;
 
 h) a támogatási döntés elleni jogorvoslati lehetőséget, határidejét és benyújtásának módját;
 
@@ -40,10 +40,21 @@ j) a támogatás felhasználására és elszámolására vonatkozó feltételeke
 
 k) a támogató által szükségesnek tartott egyéb információkat.
 
-(4) A saját forrás arányának legkisebb mértéke a támogatási összeg tíz százaléka. A kollégium a pályázati kiírásban ennél magasabb mértéket is meghatározhat. A szükséges saját forrás biztosítása történhet természetben – különösen a közérdekű önkéntes munka – vagy készpénzben. E rendelet alkalmazásában saját forrásnak minősül minden az Alapból folyósított támogatáson kívüli forrás.
+(4)[^39] Az önrész arányának legkisebb mértéke a támogatási összeg tíz százaléka. A kollégium a pályázati kiírásban ennél magasabb mértéket is meghatározhat. A szükséges önrész biztosítása történhet természetben – különösen a közérdekű önkéntes munka – vagy készpénzben. E rendelet alkalmazásában önrésznek minősül minden, az Alapból folyósított támogatáson kívüli forrás, az önrész tartalmazza az egyéb forrás mellett az Ávr. 76. § (2) bekezdésében foglalt korlátozás figyelembe vételével megállapított saját forrást is.
 
-(5) A Civil tv. 56. § (1) bekezdés c)–j) pontjai szerinti támogatás nem lehet kisebb a civil szervezet által igényelt támogatási összeg háromnegyedénél. Ha a kollégium a támogatási igényt csak kisebb arányban tudná támogatni, a támogatási igényt részletes indokolás mellett el kell utasítani.
+(5)[^40] A Civil tv. 56. § (1) bekezdés c)–j) pontjai szerinti támogatás nem lehet kisebb a civil szervezet által igényelt támogatási összeg kétharmadánál. Ha a kollégium a támogatási igényt csak kisebb arányban tudná támogatni, a támogatási igényt részletes indokolás mellett el kell utasítani.
 
-(6) Az (5) bekezdés szerinti támogatási igény bírálata során figyelembe kell venni a 13. § (3) bekezdés szerinti támogatást.
+(6)[^41] Az (5) bekezdés, valamint a 12. § (1) bekezdése szerinti támogatási igény bírálata során figyelembe kell venni a 13. § (3) bekezdés szerinti támogatást.
 
-(7) Az Alapkezelő a 4. § (2) és (4) bekezdése szerinti támogatási döntés meghozatalát követően a Civil tv. 61. § (7) bekezdése szerinti döntéshozatalhoz kapcsolódó egyetértési jogköre tekintetében a Tanács elnökét nyilatkozat tételre kéri fel. A Tanács elnökének egyetértő nyilatkozat esetén tizenöt napon belül írásban tájékoztatja a támogatási igény benyújtóját a támogatási döntésről. Az értesítésben a támogatási szerződés megkötése érdekében az Alapkezelő felhívja a támogatást igénylő civil szervezetet a szerződéskötéshez szükséges dokumentumok megküldésére és megküldi a támogatási szerződés tervezetét.
+(7)[^42] A döntéshozó 4. § (2) és (4) bekezdése szerinti döntése adatait az internetes támogatáskezelő rendszerben rögzíti a 4. § (2) bekezdése szerinti hiteles dokumentum Alapkezelő részére történő megküldésével egyidejűleg.
+
+(8)[^43] Az Alapkezelő a 4. § (2) és (4) bekezdése szerinti támogatási döntés meghozatalát követően a Civil tv. 61. § (7) bekezdése szerinti döntéshozatalhoz kapcsolódó egyetértési jogköre tekintetében a Tanács elnökét öt napos jogvesztő határidő tűzésével nyilatkozat tételére kéri fel. A Tanács elnökének egyetértő nyilatkozata esetén az Alapkezelő tizenöt napon belül írásban tájékoztatja a támogatási igény benyújtóját a támogatási döntésről, vagy kibocsátja a támogatói okiratot. Az értesítésben a támogatási szerződés megkötése érdekében az Alapkezelő felhívja a támogatást igénylő civil szervezetet a szerződéskötéshez szükséges dokumentumok megküldésére és megküldi a támogatási szerződés tervezetét.
+
+[^36]: A 11. § (3) bekezdés d) pontja az 56/2012. (XII. 29.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^37]: A 11. § (3) bekezdés f) pontja az 56/2012. (XII. 29.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^38]: A 11. § (3) bekezdés g) pontja az 56/2012. (XII. 29.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^39]: A 11. § (4) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^40]: A 11. § (5) bekezdés első mondata az 56/2012. (XII. 29.) EMMI rendelet 24. § (12) bekezdése szerint módosított szöveg.
+[^41]: A 11. § (6) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^42]: A 11. § (7) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^43]: A 11. § (8) bekezdését az 56/2012. (XII. 29.) EMMI rendelet 7. § (7) bekezdése iktatta be.

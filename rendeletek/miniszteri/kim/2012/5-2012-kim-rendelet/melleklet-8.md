@@ -4,11 +4,13 @@
 
 | 1. Támogatási összeg: | Ft |
 
-| 2. Saját forrás: | Ft |
+| 2. Önrész: | Ft |
 
-| 3. Más támogatótól kapott támogatás: | Ft |
+| – Saját forrás: | Ft |
 
-| ÖSSZESEN (=1+2+3) | Ft |
+| – Egyéb forrás: | Ft |
+
+| ÖSSZESEN (=1+2) | Ft |
 
 ## Kiadások
 
@@ -26,7 +28,7 @@
 
 | A.5 PR, marketing költségek |  |  |  |
 
-| A.6 Humán-erőforrás fejlesztésének költségei |  |  |  |
+| A.6 Humánerőforrás fejlesztésének költségei |  |  |  |
 
 | A.7 Kommunikációs költségek |  |  |  |
 
@@ -48,7 +50,7 @@
 
 | B.3 Ösztöndíj |  |  |  |
 
-| B.4 Egyszerűsített foglalkoztatás költsége) |  |  |  |
+| B.4 Egyszerűsített foglalkoztatás költsége |  |  |  |
 
 | B.5 Foglalkoztatás vállalkozói szerződéssel |  |  |  |
 
@@ -62,7 +64,9 @@
 
 | T. TÉRÍTÉSMENTES HOZZÁJÁRULÁS (társadalmi munka, dologi feltételek és szolgáltatás biztosítása) |  |  |  |
 
-| ÖSSZESEN (=A + B + C)(A Bevételek táblázat összesen összegének meg kell egyeznie az itt szereplő végösszeggel.) |  |  |  |
+| ÖSSZESEN (=A + B + C) |  |  |  |
+
+| (A Bevételek táblázat összesen összegének meg kell egyeznie az itt szereplő végösszeggel.) |  |  |  |
 
 8. melléklet az 5/2012. (II. 16.) KIM rendelethez
 

@@ -6,7 +6,7 @@ a) adatfelelős: azon szerv vagy személy, amely az adat hivatalos honlapon tör
 
 b) Nemzeti Együttműködési Alap felhasználásáról szóló beszámoló: a Civil tv. 70. § (1) bekezdése (a továbbiakban: a Tanácsnak szólóbeszámoló) és (2) bekezdése (a továbbiakban: az Országgyűlés bizottságának szóló beszámoló) szerinti, e rendelet szempontjai alapján elkészített és a testület döntésével megerősített éves tevékenységről, tapasztalatokról szóló beszámoló;
 
-c) alapkezelő: a Nemzeti Együttműködési Alapot (a továbbiakban: Alap) kezelő – a Civil tv. 64. § – alapján e miniszteri rendeletében kijelölt – szerv;
+c)[^1] Alapkezelő: A Nemzeti Együttműködési Alapot (a továbbiakban: Alap) kezelő – a Civil tv. 64. §-a alapján e miniszteri rendeletben kijelölt – szerv;
 
 d) civil delegált: a Civil tv. 2. § 5. pontja szerinti személy;
 
@@ -40,4 +40,15 @@ r) támogatási igény: az államháztartásról szóló 2011. évi CXCV. törv�
 
 s) tanács: a Civil tv. 60. § (1) bekezdése szerinti testület;
 
-t) várólista: a pályázati úton nyújtott támogatás esetén az Ávr. 74. § (1) bekezdés c) pontja szerinti, szakmailag megfelelő pályázatokat tartalmazó, pontszám alapú rangsor.
+t) várólista: a pályázati úton nyújtott támogatás esetén az Ávr. 74. § (1) bekezdés c) pontja szerinti, szakmailag megfelelő pályázatokat tartalmazó, pontszám alapú rangsor;
+
+u)[^2] együttesen benyújtott támogatási igény: egy Magyarországon nyilvántartásba vett (főpályázó) és egy határon túli (társpályázó) civil szervezet által, a Civil tv. 56. § (4) bekezdése alapján benyújtott támogatási igény;
+
+v)[^3] működési támogatás: a Civil tv. 56. § (1) bekezdés a)–b) pontja szerinti támogatás;
+
+w)[^4] szakmai támogatás: a Civil tv. 56. § (1) bekezdés c)–j) pontja szerinti támogatás.
+
+[^1]: A 2. § c) pontja az 56/2012. (XII. 29.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § u) pontját az 56/2012. (XII. 29.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § v) pontját az 56/2012. (XII. 29.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § w) pontját az 56/2012. (XII. 29.) EMMI rendelet 1. § (2) bekezdése iktatta be.
