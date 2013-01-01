@@ -1,1 +1,0 @@
-## 7. § A 4. számú mellékletben meghatározott javallatok esetén a beteg járóbetegként veheti igénybe a gyógyhelyen történő rehabilitációs kezelést. A beutaláson ezt a tényt fel kell tüntetni. Amennyiben a szanatóriumi ellátást nyújtó intézményben szabad kapacitás áll rendelkezésre, e betegek részére — térítési díj ellenében — intézeti elhelyezés is nyújtható.
