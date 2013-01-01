@@ -2,20 +2,20 @@
 
 7. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 15/2001. (VII. 5.) BM rendelethez[^7]
+Melléklet a 15/2001. (VII. 5.) BM rendelethez[^8]
 
-| 1. Egyedi adatszolgáltatás – egy eljárásban kért, egy főre vagy egy úti okmányra vonatkozó adatokat tartalmazó adatszolgáltatás – díja: |
+| 1. Egyedi adatszolgáltatás – egy eljárásban kért, egy főre vagy egy úti okmányra vonatkozó adatokat tartalmazó adatszolgáltatás – díja: |
 
-| 1.1. Annak tényéről, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal | 2000 Ft/adattétel |
+| 1.1. Annak tényéről, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal | 2000 Ft/adattétel |
 
-| 1.2. Az úti okmány birtokosának családi és utónevéről (leánykori családi és utónevéről is) | 2000 Ft/adattétel |
+| 1.2. Az úti okmány birtokosának családi és utónevéről (leánykori családi és utónevéről is) | 2000 Ft/adattétel |
 
-| 1.3. Az úti okmány elvesztésének, ellopásának, megsemmisülésének, illetőleg megkerülésének tényéről | 2000 Ft/adattétel |
+| 1.3. Az úti okmány elvesztésének, ellopásának, megsemmisülésének, illetőleg megkerülésének tényéről | 2000 Ft/adattétel |
 
-| 2. Az egy eljárásban kért legalább 20 főre vagy úti okmányra vonatkozó adatot tartalmazó adatszolgáltatás díja az 1.1., 1.2., 1.3. pontok esetében | 730 Ft/adattétel |
+| 2. Az egy eljárásban kért legalább 20 főre vagy úti okmányra vonatkozó adatot tartalmazó adatszolgáltatás díja az 1.1., 1.2., 1.3. pontok esetében | 730 Ft/adattétel |
 
-| 3. Az érintett személy arcképmásáról vagy saját kezű aláírásáról szolgáltatott adat | 2750 Ft/adattétel |
+| 3. Az érintett személy arcképmásáról vagy saját kezű aláírásáról szolgáltatott adat | 2750 Ft/adattétel |
 
-| 4. Az úti okmányok nyilvántartásából korábbi úti okmány(ok) adatainak hivatalos igazolás formájában történő kiadása. | 2750 Ft/adattétel |
+| 4. Az úti okmányok nyilvántartásából a kérelmező saját adatáról hatósági bizonyítvány kiállítása. | 2750 Ft/adattétel |
 
-[^7]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. után indult eljárásokban kell alkalmazni.
+[^8]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 4. §-ával megállapított, a 82/2012. (XII. 28.) BM rendelet 4. §-a szerint módosított szöveg.
