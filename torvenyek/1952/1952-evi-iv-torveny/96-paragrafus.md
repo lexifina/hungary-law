@@ -2,7 +2,7 @@ Csjt. 96. § (1) Nevezett gyám nemlétében a gyámhatóság elsősorban a gy
 
 (2) Azt a személyt,
 
-a) akinél a gyámhivatal a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.],
+a) akinél a gyámhatóság a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.],
 
 b) akinél a bíróság a gyermeket elhelyezte [72/A. § (1) bek.],
 

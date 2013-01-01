@@ -8,7 +8,7 @@ b) aki a szülői felügyeletet megszüntető vagy a közügyektől eltiltó jog
 
 c) akit a szülői felügyelet gyakorlására jogosult szülő a gyámságból közokiratban vagy végrendeletben kizárt.
 
-d) akinek szülői felügyeleti joga azért szünetel, mert gyermekét a gyámhivatal átmeneti vagy tartós nevelésbe vette,
+d) akinek szülői felügyeleti joga azért szünetel, mert gyermekét a gyámhatóság átmeneti vagy tartós nevelésbe vette,
 
 e) akinek a gyermekét örökbefogadhatónak nyilvánították.
 

@@ -10,4 +10,4 @@ Csjt. 106. § (1) A gyámság megszűnik, ha a gyámság alatt álló meghal, 
 
 a) a gyámság megszűnésével,
 
-b) a gyám gyámhivatal általi felmentésével vagy elmozdításával,
+b) a gyám gyámhatóság általi felmentésével vagy elmozdításával,

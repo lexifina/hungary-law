@@ -1,4 +1,4 @@
-Csjt. 94. § (1) A gyámság alá tartozó kiskorú részére a gyámhivatal gyámot rendel.
+Csjt. 94. § (1) A gyámság alá tartozó kiskorú részére a gyámhatóság gyámot rendel.
 
 (2) A gyámhatóság a gyámrendelés iránt hivatalból intézkedik.
 

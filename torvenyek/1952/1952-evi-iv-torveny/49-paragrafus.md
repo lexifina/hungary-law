@@ -1,4 +1,4 @@
-Csjt. 49. § (1) A gyámhivatal – az örökbefogadás céljának megfelelően – a gyermek érdekében elsősorban a házasságban élő örökbefogadók által történő örökbefogadást engedélyezi.
+Csjt. 49. § (1) A gyámhatóság – az örökbefogadás céljának megfelelően – a gyermek érdekében elsősorban a házasságban élő örökbefogadók által történő örökbefogadást engedélyezi.
 
 (2) Az örökbefogadást az előző rendelkezésekben megszabott feltételek esetében sem lehet engedélyezni, ha az a kiskorú érdekeivel ellentétben áll, vagy a közérdeket egyébként sérti, illetve, ha akár a felek, akár az eljárásban egyéb módon közreműködő személyek vagy szervezetek részére haszonszerzéssel jár.
 
