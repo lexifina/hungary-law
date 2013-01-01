@@ -25,3 +25,7 @@ elszámolás szerinti folyósítással egyidejűleg történik.
 (6) A (4) bekezdés b) pontja szerinti felfüggesztés nem érinti a pénzügyi intézmény adatszolgáltatási hiánnyal nem érintett támogatásra vonatkozó elszámolási jogosultságát.
 
 (7) A miniszter a 2. melléklet szerinti elszámolásokat és a 17. § szerinti adatszolgáltatást – annak feldolgozását követően – elektronikus úton megküldi a kincstárnak.
+
+(8)[^11] A 15. és 16. § szerinti elszámolási és adatszolgáltatási kötelezettséget a pénzügyi intézmény helyett másik pénzügyi intézmény is teljesítheti. A megbízási szerződésnek ki kell terjednie a megbízott pénzügyi intézmény felelősségére.
+
+[^11]: A 19. § (8) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 47. §-a ikatta be.

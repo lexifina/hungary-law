@@ -1,5 +1,5 @@
-## 25. §[^3]
+## 25. §[^16]
 
 1. melléklet az 57/2012. (III. 30.) Korm. rendelethez
 
-[^3]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

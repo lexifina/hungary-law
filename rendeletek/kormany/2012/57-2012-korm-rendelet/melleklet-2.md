@@ -30,7 +30,7 @@
 
 |  | aláírás |
 
-2. melléklet az 57/2012. (III. 30.) Korm. rendelethez
+2. melléklet az 57/2012. (III. 30.) Korm. rendelethez[^17]
 
 Elszámolási adatlap
 
@@ -42,7 +42,7 @@ Elszámolási adatlap
 
 |  | Megnevezés | Tárgyhavi igényelt támogatási összeg (forintra kerekített összeg) |
 
-| 1. | Mentesített követelésrész államot terhelő részének megtérítése | 0 Ft |
+| 1. | Mentesített követelésrész megtérítése | 0 Ft |
 
 | 2. | Legmagasabb árfolyamot meghaladó törlesztési kötelezettség megtérítése | 0 Ft |
 
@@ -60,7 +60,7 @@ Elszámolási adatlap
 
 |  | Megnevezés | Összeg (millió forint) |
 
-| 1. | Mentesített követelésrész államot terhelő részének megtérítése | 0,00 |
+| 1. | Mentesített követelésrész megtérítése | 0,00 |
 
 | 2. | Legmagasabb árfolyamot meghaladó törlesztési kötelezettség megtérítése | 0,00 |
 
@@ -74,7 +74,7 @@ Elszámolási adatlap
 
 |  | Megnevezés | Összeg (forintra kerekített összeg) |
 
-| 1. | Mentesített követelésrész államot terhelő részének megtérítése | 0 Ft |
+| 1. | Mentesített követelésrész megtérítése | 0 Ft |
 
 | 2. | Legmagasabb árfolyamot meghaladó törlesztési kötelezettség megtérítése | 0 Ft |
 
@@ -91,3 +91,5 @@ Kijelentem, hogy jelen elszámolásban közölt adatok a valóságnak megfelelne
 | P. H. | aláírás |
 
 Az elszámolási adatlapot elektronikus úton a miniszter által vezetett minisztérium honlapján található fájlformátumban kell megküldeni.
+
+[^17]: A 2. melléklet a 379/2012. (XII. 19.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
