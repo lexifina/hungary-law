@@ -24,8 +24,10 @@
 
 10. fizető fél: az a természetes személy vagy szervezet, amely a csatlakozott szervezet felé teljesítendő fizetési kötelezettséget az EFER igénybevételével teljesíti,
 
-11. okmányiroda: a Központi Okmányiroda, valamint az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben kijelölt, körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője által a polgármesteri hivatal részeként működtetett szervezet, amely útján a körzetközponti jegyző ellátja a hatáskörébe utalt elsőfokú közigazgatási hatósági feladatait,
+11.[^4] okmányiroda: a Központi Okmányiroda, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) törzshivatalának okmányirodai feladatokat ellátó szervezeti egysége, amely útján a járási hivatal ellátja a hatáskörébe utalt elsőfokú közigazgatási hatósági feladatait,
 
 12. POS-terminál (point of sale): a pénztárba épített vagy különálló elektronikus berendezés, amely az elfogadóhelyen a bankkártyás fizetés lebonyolításának eszköze,
 
 13. POS Végfelhasználói Nyilatkozat: az elfogadóknak a POS Végfelhasználói Szerződés szempontjából legfontosabb adatait tartalmazó adatlap.
+
+[^4]: A 159. § 11. pontja a 174/2012. (VII. 26.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.
