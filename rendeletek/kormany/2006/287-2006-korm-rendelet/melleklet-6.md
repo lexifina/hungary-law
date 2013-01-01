@@ -80,9 +80,9 @@
 
 | 009 | Epekövesség miatti beavatkozás laparaszkópia | 55138 | Cholecystectomia laparoscopica + cysticus drain + cholangio. |
 
-| 010 | Katéteres epekőoldás | 59541 | Epekőoldás endoscopia során bevezetett katéteren át |
+| 010 |  |  |  |
 
-| 010 | Katéteres epekőoldás | 59542 | Epekőoldás percután bevezetett katéteren át |
+| 010 |  |  |  |
 
 | 011 | Hasfali, lágyék sérvműtét implantátum beültetésével | 55360 | Reconstructio parietis abdominis c. implant. |
 
@@ -420,6 +420,6 @@
 
 | 025 | A szív elektrofiziológiai vizsgálata, nagy és radiofrekvenciás ablációk | 86455 | A szív elektrofiziológiai vizsgálata |
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^45]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^47]
 
-[^45]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^47]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.

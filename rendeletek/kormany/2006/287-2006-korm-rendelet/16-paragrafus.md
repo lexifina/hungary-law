@@ -1,1 +1,3 @@
-## 15. § A Transzplantációs Bizottság döntése ellen a beteg, továbbá a kezelőorvos a Monitoring Testülethez fordulhat jogorvoslati kérelemmel.
+## 14–15. §[^40]
+
+[^40]: A 14–15. §-t a 447/2012. (XII. 29.) Korm. rendelet 47. §-a hatályon kívül helyezte.
