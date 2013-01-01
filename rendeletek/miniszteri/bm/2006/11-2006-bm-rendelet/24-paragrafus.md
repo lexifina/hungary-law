@@ -4,6 +4,6 @@
 
 (3) Az iratismertetésről jegyzőkönyvet kell felvenni, melyben meg kell jelölni az eljáró szervet, ügyszámot, az ügy tárgyát az eljárás alá vont megnevezésével, a jegyzőkönyv felvételének időpontját, helyszínét, a jelenlevők nevét és eljárásbeli jogállását, az ismertetésre felajánlott fegyelmi iratok terjedelmét (lapszámát), az eljárás alá vont és képviselője által tanulmányozott iratokat lapsorszám szerint megjelölve, az eljárás alá vont és képviselője nyilatkozatát, indítványát, a vizsgáló indokolt döntését az előterjesztett bizonyítási indítványról.
 
-(4)[^24] Ha az iratismertetésen előterjesztett bizonyítási indítványnak a vizsgáló helyt ad, a bizonyítás kiegészítését tíz munkanapon belül el kell végezni és ezt követően újabb iratismertetést kell tartani. További bizonyítás kiegészítésnek nincs helye.
+(4)[^26] Ha az iratismertetésen előterjesztett bizonyítási indítványnak a vizsgáló helyt ad, a bizonyítás kiegészítését tíz munkanapon belül el kell végezni és ezt követően újabb iratismertetést kell tartani. További bizonyítás kiegészítésnek nincs helye.
 
-[^24]: A 24. § (4) bekezdése az 54/2012. (X. 29.) BM rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^26]: A 24. § (4) bekezdése az 54/2012. (X. 29.) BM rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
