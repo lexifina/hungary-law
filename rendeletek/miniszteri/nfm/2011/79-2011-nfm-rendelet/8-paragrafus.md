@@ -14,12 +14,12 @@
 
 a) a beruházás során a számviteli törvény szerint aktiválható eszközértékre,
 
-b) az adott beruházásból származó éves árbevételre,
+b)[^6] az adott beruházással összefüggésben az egyes szállítási rendszerüzemeltetési díjakban elismerésre kerülő értékcsökkenés, üzemeltetési költség, tőkeköltség elemekre, amelyek közül az üzemeltetési költségben elismert veszteség mértéke nem lehet több 0,2%-nál,
 
-c) az érintett szállítói engedélyes által az adott beruházásnak megfelelő fajlagos közvetlen és közvetett költségének összegére, beleértve a veszteséget is, amely nem lehet több 0,2%-nál,
+c)[^7] a szállítási rendszerüzemeltetési díj megállapításakor figyelembe vett kapacitásra és a csatlakozás következtében lekötendő többlet kapacitásra.
 
-d) a beruházás élettartamára,
+d)–f)[^8]
 
-e) a beruházás élettartamára vetített megtérülés átlagos mértékére, amelyet a kockázatmentes hozam figyelembevételével a Hivatal határoz meg,
-
-f) az MNB honlapján nyilvánosságra hozott aktuális középtávú inflációs célkitűzésének a beruházás élettartamára vetített átlagos mértékére.
+[^6]: A 8. § (5) bekezdés b) pontja a 78/2012. (XII. 22.) NFM rendelet 38. §-ával megállapított szöveg.
+[^7]: A 8. § (5) bekezdés c) pontja a 78/2012. (XII. 22.) NFM rendelet 38. §-ával megállapított szöveg.
+[^8]: A 8. § d)–f) pontját a 78/2012. (XII. 22.) NFM rendelet 40. §-a hatályon kívül helyezte.
