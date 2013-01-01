@@ -1,5 +1,5 @@
-## 13. §[^13]
+## 13. §[^14]
 
 ## 14. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet módosítása
 
-[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
