@@ -1104,7 +1104,7 @@
 
 | 14.2. | Horgászvizsga díja | 3 500 |
 
-| 14.3.1 |  |  |
+| 14.3. | Állami halászjegy és horgászjegy díja | 2 000 |
 
 | 14.4. | Halászati őr vizsgáztatásának díja | 5 000 |
 
@@ -1119,8 +1119,6 @@
 | 14.9. | Elsőfokú hatósági döntés elleni fellebbezés alapdíja | 5 000 |
 
 | 14.9.1. | Minden további jogsértéssel érintett jogcím alapján megállapított bírság esetén | + 3 000 |
-
-## 1 Az 1. melléklet 14. pont 14.3. alpontja a 11. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
 
 | 15. | ERDÉSZETI HATÓSÁGI ELJÁRÁSOK DÍJTÉTELEI |  |
 

@@ -10,4 +10,6 @@
 
 3. egy postaküldemény (csomag, levélpostai küldemény): a csomagok darabszámától függetlenül az egy szállítólevéllel szállított csomagküldemény, illetve – a küldemények darabszámától függetlenül – az egy vámokmánnyal kezelt levélpostai küldemény;
 
-4. eljáró hatóság: a NÉBIH, a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, erdészeti igazgatósága, földművelésügyi igazgatósága, illetve a növény- és talajvédelmi igazgatósága, valamint a kerületi állategészségügyi és élelmiszer ellenőrző hivatal.
+4.[^1] eljáró hatóság: a NÉBIH, a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, erdészeti igazgatósága, földművelésügyi igazgatósága, illetve a növény- és talajvédelmi igazgatósága, valamint a járási állategészségügyi és élelmiszer-ellenőrző hivatal.
+
+[^1]: Az 1. § (2) bekezdés 4. pontja a 151/2012. (XII. 29.) VM rendelet 57. §-a szerint módosított szöveg.
