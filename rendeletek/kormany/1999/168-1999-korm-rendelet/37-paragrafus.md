@@ -1,3 +1,3 @@
-## 36. §[^101] A szabadságvesztés büntetését töltő, a kényszergyógykezelt, az ideiglenesen kényszergyógykezelt, valamint az előzetes letartóztatásban lévő polgár az állandó személyazonosító igazolványát a büntetés-végrehajtási intézetnek, illetve az előzetes letartóztatást foganatosító szervnek köteles átadni.
+## 36. §[^121] A szabadságvesztés büntetését töltő, a kényszergyógykezelt, az ideiglenesen kényszergyógykezelt, valamint az előzetes letartóztatásban lévő polgár az állandó személyazonosító igazolványát a büntetés-végrehajtási intézetnek, illetve az előzetes letartóztatást foganatosító szervnek köteles átadni.
 
-[^101]: A 36. § a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének h) pontja, a 117/2009. (VI. 4.) Korm. rendelet 13. § (2) bekezdése, a 417/2012. (XII. 29.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
+[^121]: A 36. § a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének h) pontja, a 117/2009. (VI. 4.) Korm. rendelet 13. § (2) bekezdése, a 417/2012. (XII. 29.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.

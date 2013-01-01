@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-168-20-
 | 2012-01-01 | 1999-168-20-22.19 | 9/2004. (I. 31.) Korm. rendelet |
 | 2012-05-20 | 1999-168-20-22.20 | 81/2012. (IV. 18.) Korm. rendelet |
 | 2012-12-31 | 1999-168-20-22.21 | 117/2009. (VI. 4.) Korm. rendelet |
+| 2013-01-01 | 1999-168-20-22.22 | 417/2012. (XII. 29.) Korm. rendelet |

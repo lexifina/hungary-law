@@ -1,4 +1,4 @@
-## 3. §[^5] A körzetközponti jegyző
+## 3. §[^5] A járási hivatal
 
 a) dönt a személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról, valamint a személyazonosító igazolvány visszavonásáról;
 
@@ -16,7 +16,7 @@ g)[^10] értesíti a személyazonosító igazolvány találásáról, elvesztés
 
 h)[^11] kezeli a személyazonosító igazolvány kiadásának megtagadásával, a személyazonosító igazolvány visszavonásával, valamint leadásával kapcsolatos alapiratokat, továbbá gondoskodik az Nytv. 9. §-ának (3) bekezdésében meghatározott iratok továbbításáról.
 
-[^5]: A 3. § bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 183. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 3. § nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 183. §-a, a 417/2012. (XII. 29.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § c) pontját a 117/2009. (VI. 4.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
 [^7]: A 3. § d) pontja a 145/2003. (IX. 9.) Korm. rendelet 3. §-ának (3) bekezdésével megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének c) pontja szerint módosított szöveg.
 [^8]: A 3. § e) pontja a 182/2009. (IX. 10.) Korm. rendelet 182. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
