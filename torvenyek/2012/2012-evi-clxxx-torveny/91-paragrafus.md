@@ -1,0 +1,1 @@
+91. § A tagállami hatóság azzal kapcsolatos megkeresésére, hogy a felügyeleti intézkedés fenntartása a továbbiakban is indokolt-e, a bíróság haladéktalanul tájékoztatja a tagállami hatóságot, és szükség esetén további határozatot hoz.

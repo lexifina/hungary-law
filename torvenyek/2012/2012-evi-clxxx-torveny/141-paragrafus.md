@@ -1,0 +1,5 @@
+141. § (1) Az alternatív szankciót kiszabó tagállami határozat végrehajtása során a magyar jog szabályai irányadók, ideértve a feltételes szabadság megszüntetésére, a próbára bocsátás megszüntetésére és büntetés kiszabására, a felfüggesztett szabadságvesztés végrehajtására, az előírt magatartási szabályok módosítására, a közérdekű munka átváltoztatására vonatkozó szabályokat. Az e bekezdésben foglalt határozatok meghozataláról a bíróság haladéktalanul értesíti a tagállami hatóságot.
+
+(2) A bíróság a magatartási szabály vagy az alternatív szankció megsértéséről a 11. számú mellékletben szereplő formanyomtatványon haladéktalanul értesíti a tagállami hatóságot.
+
+(3) A bíróság a tagállami hatóságot kérelemre haladéktalanul tájékoztatja az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló bűncselekmény kapcsán a magyar jog szerint kiszabható szabadságvesztés maximális mértékéről, valamint arról, hogy a tagállami határozatban előírt magatartási szabály vagy alternatív szankció megsértése esetén a magyar jog szerint milyen szankciók szabhatók ki.

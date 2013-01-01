@@ -1,0 +1,11 @@
+50. § (1) Ha a 49. § (2) bekezdése szerinti tájékoztatáskérés eredménytelen vagy előreláthatóan nem vezetne eredményre, a nyomozó hatóság vagy az ügyész a 3. számú melléklet szerinti formanyomtatványon előterjesztett tájékoztatás iránti kérelemmel fordulhat a tagállami illetékes bűnüldöző szervhez vagy igazságügyi hatósághoz. Ha a kérelmet a nyomozó hatóság terjeszti elő, erről a tényről és annak tartalmáról az ügyészt haladéktalanul értesíti.
+
+(2) A nyomozó hatóság vagy az ügyész a tájékoztatás iránti kérelem teljesítése végett a tagállami bűnüldöző szerv vagy igazságügyi hatóság számára tizennégy napos határidőt állapít meg.
+
+(3) Ha a tájékoztatás iránti kérelem az 1. számú mellékletben meghatározott bűncselekmények valamelyikére vonatkozik, a nyomozó hatóság vagy az ügyész a tájékoztatás iránti kérelem teljesítése végett
+
+a) hétnapos határidőt,
+
+b) sürgősségi megkeresés esetén nyolcórás határidőt
+
+állapíthat meg.

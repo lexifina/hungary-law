@@ -1,0 +1,1 @@
+122. § A 111. §-ban meghatározott feltételek fennállása esetén a miniszter kezdeményezheti a tagállamnál az elítélt szabadságvesztés büntetése vagy szabadságelvonással járó intézkedése végrehajtásának átvételét.

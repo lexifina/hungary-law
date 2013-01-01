@@ -1,0 +1,1 @@
+121. § A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat hatályon kívül helyezéséről vagy végrehajthatóságának megszűnéséről szóló értesítés alapján a Fővárosi Törvényszék haladéktalanul intézkedik a végrehajtás megszüntetése érdekében.

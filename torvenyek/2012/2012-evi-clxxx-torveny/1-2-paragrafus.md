@@ -1,5 +1,0 @@
-## ELSŐ RÉSZ
-
-## ÁLTALÁNOS RENDELKEZÉSEK
-
-### 1–2. §
