@@ -10,6 +10,9 @@ b) meghatalmazott képviselő: a megbízó által a klinikai vizsgálatra szánt
 
 c) vizsgálati alany: a klinikai vizsgálatban résztvevő olyan személy, akin a klinikai vizsgálatra szánt eszközt alkalmazzák, illetve aki a vizsgálatban kontrollszemélyként vesz részt;
 
-d) szakhatóság: az ETT TUKEB, melynek feladata a klinikai vizsgálat engedélyezése során a szakhatósági állásfoglalás kiadása a 32. § alapján a kutatási terv, a kutatás személyi és tárgyi feltételei, az alkalmazott módszerek és a résztvevők számára készült tájékoztató tekintetében.
+d)[^37] szakhatóság: az ETT TUKEB, amelynek feladata az engedélyezés során a szakhatósági állásfoglalás kiadása a 32. § alapján a kutatási terv, a kutatás személyi és tárgyi feltételei, az alkalmazott módszerek és a résztvevők számára készült tájékoztató, valamint a kutatás lezárását követően összeállított, az orvostechnikai eszközök klinikai vizsgálatáról szóló miniszteri rendeletben meghatározott tartalmú vizsgálati dokumentáció tekintetében.
 
-(2) Az (1) bekezdésben nem szabályozottak tekintetében e cím alkalmazásában az Eütv.-ben foglalt fogalommeghatározásokat és előírásokat kell figyelembe venni.
+(2)[^38] Az (1) bekezdésben nem szabályozottak tekintetében e cím alkalmazásában az Eütv.-ben, az orvostechnikai eszközökről szóló miniszteri rendeletben és az orvostechnikai eszközök klinikai vizsgálatáról szóló miniszteri rendeletben foglalt fogalom meghatározásokat és előírásokat kell figyelembe venni.
+
+[^37]: A 31. § (1) bekezdés d) pontja a 308/2012. (XI. 6.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^38]: A 31. § (2) bekezdése a 308/2012. (XI. 6.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

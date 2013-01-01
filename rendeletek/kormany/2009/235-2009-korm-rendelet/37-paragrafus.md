@@ -1,6 +1,6 @@
 ## A klinikai vizsgálat felfüggesztése és megszüntetése
 
-37. § (1) Amennyiben az ellenőrzés során megállapítást nyer, hogy
+37. § (1)[^45] Amennyiben megállapítást nyer, hogy
 
 a) a vizsgálat folytatása nem felel meg az engedélyben, a kutatási tervben, illetve az e címben és az orvostechnikai eszközökkel kapcsolatos klinikai vizsgálatokról szóló külön jogszabályban foglalt feltételeknek,
 
@@ -19,3 +19,5 @@ az engedélyező a vizsgálatot haladéktalanul felfüggeszti és megküldi az e
 (4) Ha a kérelmező kívánja a vizsgálatot annak befejezése előtt felfüggeszteni vagy megszüntetni, erről az indokok felsorolásával legkésőbb a felfüggesztéssel vagy megszüntetéssel egyidejűleg értesíti az engedélyezőt, a szakhatóságot és valamennyi érintett magyarországi vizsgálóhelyet. A kérelmező vizsgálatot megszüntető döntése alapján az engedélyező törli a vizsgálatot a nyilvántartásból. Az engedélyező a megszüntető határozatáról és annak indokairól haladéktalanul értesíti az EGT-megállapodásban részes, a vizsgálattal érintett államok illetékes hatóságait.
 
 (5) A vizsgáló a vizsgálatot köteles haladéktalanul felfüggeszteni és a vizsgálatvezetőt értesíteni, ha azt tapasztalja, hogy annak folytatása a vizsgálati alanyok életét vagy egészségét sérti vagy veszélyezteti. A vizsgálatvezető erről értesíti a kérelmezőt és az engedélyezőt annak érdekében, hogy szükség esetén az engedélyező az (1)–(3) bekezdésben foglaltak alapján járjon el.
+
+[^45]: A 37. § (1) bekezdés nyitó szövegrésze a 308/2012. (XI. 6.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.

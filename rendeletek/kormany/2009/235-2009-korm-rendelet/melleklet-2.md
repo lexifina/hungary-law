@@ -90,9 +90,7 @@
 
 ## A klinikai vizsgálatra vonatkozó adatok és dokumentumok
 
-## 15. Amennyiben van, az illetékes etikai bizottság előzetes szakhatósági állásfoglalása
-
-## Multicentrikus vizsgálat esetén – ha van – az EGT-megállapodásban részes érintett állam etikai bizottságának állásfoglalása
+## 15.[^54] Multicentrikus vizsgálat esetén – ha van – az EGT-megállapodásban részes érintett állam etikai bizottságának állásfoglalása
 
 ## 16. A klinikai vizsgálat terve, amely magában foglalja a következőket:
 
@@ -136,15 +134,17 @@
 
 ## t) a klinikai vizsgálatot végző egészségügyi szolgáltatónak a kártérítés fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződésének visszaigazolása,
 
-## u) a kutatás tárgyi és személyi feltételei.
+## u) a kutatás tárgyi és személyi feltételei,
+
+## v)[^55] a toborzási felhívás tervezett szövege és a toborzási módszer ismertetése.
 
 ## 17. III. kockázati osztályba tartozó eszköz és aktív implantátum klinikai vizsgálata esetén a minőségbiztosítási tanúsítvány
 
-## 18. Toborzási felhívás tervezett szövege és a toborzási módszer ismertetése, a beleegyező nyilatkozat tervezett szövege
+## 18.[^56]
 
 ## 19. Multicentrikus vizsgálat esetén – amennyiben van – az EGT-megállapodásban részes állam etikai bizottsága által a vizsgálatról már kiadott vélemény
 
-2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^29]
+2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^57]
 
 |  | A | B |
 
@@ -188,4 +188,7 @@
 
 | 19. | Zala megye | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
-[^29]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^54]: A melléklet 15. pontja a 308/2012. (XI. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^55]: A melléklet 16. pont v) alpontját a 308/2012. (XI. 6.) Korm. rendelet 11. §-a iktatta be.
+[^56]: A melléklet 18. pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^57]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.

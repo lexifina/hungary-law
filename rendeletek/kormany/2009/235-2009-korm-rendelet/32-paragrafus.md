@@ -1,6 +1,6 @@
 ## A klinikai vizsgálat engedélyezése
 
-32. § (1) A vizsgálatot az Egészségügyi Engedélyezési és Közigazgatási Hivatal (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi, és nyilvántartásba veszi.
+32. § (1)[^39] A vizsgálatot az EEKH (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi, és nyilvántartásba veszi.
 
 (2) Az engedély iránti kérelmet a megbízónak, illetve a meghatalmazott képviselőnek (e cím alkalmazásában a továbbiakban együtt: kérelmező) két példányban, a mellékletben megjelölt dokumentumok kíséretében kell az engedélyezőhöz benyújtania a vizsgálatok megkezdése előtt legalább 60 nappal.
 
@@ -13,3 +13,5 @@ b) a klinikai vizsgálatra szánt eszköz és a hozzá tartozó dokumentáció �
 c) a kérelmező által meghatározott teljesítőképesség igazolása és a várható mellékhatások felmérése a vizsgálati terv szerinti eljárás alkalmazásával a tudomány jelenlegi eredményeinek megfelelően, objektíven és reprodukálható módon történik-e,
 
 d) a kérelmező minden tőle elvárhatót megtett-e a váratlan események és balesetek elkerülésére.
+
+[^39]: A 32. § (1) bekezdése a 308/2012. (XI. 6.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
