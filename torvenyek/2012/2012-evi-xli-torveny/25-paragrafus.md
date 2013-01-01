@@ -24,7 +24,7 @@ h) a jegy- és bérletrendszerrel, valamint az ellenőrzéssel kapcsolatos szab�
 
 i) a vagyoni eszközök tulajdonviszonyait, a szolgáltató birtokába adott vagy más módon rendelkezésére bocsátott eszközök használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat,
 
-j) a személyszállítási közszolgáltatások díjait, a pótdíjak és a díjalkalmazási feltételeket, illetve ezek megsértése esetén érvényesíthető jogkövetkezményeket,
+j) a személyszállítási közszolgáltatások díjait, a pótdíjak és a díjalkalmazási feltételeket, valamint ezek megsértése esetén érvényesíthető jogkövetkezményeket,
 
 k) a közszolgáltatási tevékenységgel összefüggő szolgáltatói jogokat és kötelezettségeket, kiemelten a kizárólagos jogokra vonatkozó feltételeket,
 

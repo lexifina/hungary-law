@@ -1,8 +1,8 @@
 32. § (1) A közszolgáltatási szerződésben rögzítendő áralkalmazási elvek érvényesítésekor biztosítani kell, hogy:
 
-a) a felszámított díjak álljanak arányban a komfortfokozattal és a kiegészítő szolgáltatások által nyújtott többlet szolgáltatásokkal,
+a) a felszámított díjak arányban álljanak a komfortfokozattal, a kiegészítő szolgáltatások által nyújtott többlet-szolgáltatásokkal, vagy a szolgáltatás egyéb jellemzőivel;
 
-b) kizárólag magasabb komfortfokozat vagy kiegészítő szolgáltatás nyújtása esetén legyen felszámítható egyéb díj,
+b) egyéb díj alkalmazására magasabb komfortfokozat, kiegészítő szolgáltatás vagy a szolgáltatás egyéb jellemzői által indokolt esetben kerüljön sor;
 
 c) az egyes közlekedési módok tekintetében a díjak rendszere biztosítsa az egyéni közlekedéssel szembeni versenyképességet,
 
@@ -12,7 +12,7 @@ e) a helyi és az elővárosi személyszállítási közszolgáltatások esetén
 
 f) az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében az egyes szolgáltatók közötti átjárhatóság megvalósulhasson az utazási okmányok, valamint a bérletek kölcsönös elfogadása és a felek közötti tételes pénzügyi elszámolás révén,
 
-g)
+g) az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten díjövezeti, indulási és érkezési állomási – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén, valamint
 
 h)
 
@@ -24,4 +24,4 @@ h)
 
 (5) Ha a bevételek beszedését a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
 
-(6)
+(6) Az ellátásért felelős a főváros és elővárosa tekintetében a fővárosi személyszállítási közszolgáltatás és az elővárosi személyszállítási közszolgáltatások igénybevételére jogosító egységes jegy- és bérletrendszert működtet, a megyei jogú város tekintetében a helyi személyszállítási közszolgáltatások és az elővárosi személyszállítási közszolgáltatások igénybevételére vonatkozó egységes jegy- és bérletrendszert működtethet.

@@ -15,3 +15,5 @@
 (7) A 2012. évben a szociálpolitikai menetdíj-támogatás forrása a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet XLII. fejezet 31. címében, a 2. mellékletben és a 9. melléklet 1. pontjában meghatározott fogyasztói árkiegészítés.
 
 (8) A 19. § (4) bekezdésében meghatározott személyszállítási üzletszabályzatot a közforgalmú személyszállítási közszolgáltatást végző közlekedési szolgáltató e törvény rendelkezéseinek figyelembevételével 2013. március 1-jéig köteles módosítani.
+
+(9) A személyszállítási közszolgáltatási tevékenységet közszolgáltatási szerződés alapján nyújtó, az állam többségi befolyása alatt álló gazdasági társaságok (a továbbiakban: szolgáltató) regionális összevonása során – az érintett társaságok beolvadásáig, összeolvadásáig, de legfeljebb 2014. december 31-éig – nem minősül a 25. § (8) bekezdése szerinti alvállalkozónak az a gazdasági társaság, amelyben a szolgáltató – a nemzeti vagyonról szóló törvény szerinti – többségi befolyással rendelkezik.

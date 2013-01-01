@@ -2,7 +2,7 @@
 
 (2) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátásnak – az államháztartás teherbíró képességének keretein és az infrastrukturális adottságon belül – biztosítani kell:
 
-a) adott település és a gyakorlatban kialakult vonzásközpont közötti közvetlen eljutási lehetőséget,
+a) adott település és a a járásközpont vagy gyakorlatban kialakult vonzásközpont közötti közvetlen eljutási lehetőséget,
 
 b) adott település és annak megyeszékhelye közötti, legfeljebb egy átszállással történő elérési lehetőséget,
 

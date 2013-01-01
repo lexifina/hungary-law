@@ -16,7 +16,7 @@ d) az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendelet
 
 e) az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenység végzésére vonatkozó szabályokat,
 
-f) a közúti személyszállítási piacfelügyeleti eljárásra, valamint a piacfelügyeleti díjra, annak alkalmazására, számítására és megállapítására vonatkozó részletes szabályokat, továbbá a piacfelügyeleti bírság mértékére és alkalmazására vonatkozó szabályokat,
+f) az autóbuszos közúti személyszállítási tevékenységre, a közlekedésszervező tevékenységére vonatkozó piacfelügyeleti eljárásra, a piacfelügyeleti díj alkalmazására, számítására és megállapítására vonatkozó részletes szabályokat, továbbá a piacfelügyeleti bírság mértékére és alkalmazására vonatkozó szabályokat,
 
 g) a vasúti személyszállítási szolgáltatások területén a kötelező nem baleseti kárfedezet biztosításának részletes szabályait,
 
@@ -26,7 +26,9 @@ i) a vízi személyszállítási szolgáltatás feltételeire, a víziközleked�
 
 j) a törvény 5. § (1) bekezdés e) pontjában, a 7. § (2)–(4) bekezdésében, valamint a 32. § (1) bekezdésének e)– h) pontjában, a (4) és (6) bekezdésében, valamint a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, a központi adatbázisok és az azokhoz kapcsolódó központi szolgáltatások kialakításával, működtetésével, fejlesztésével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, továbbá a központi adatbázisok működtetésére és a központi koordinációs feladatok ellátását végző szervezet kijelölését, továbbá
 
-k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által alkalmazható bírság mértékére, valamint megfizetésére vonatkozó részletes szabályokat
+k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által alkalmazható bírság mértékére, valamint megfizetésére vonatkozó részletes szabályokat,
+
+k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
