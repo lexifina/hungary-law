@@ -15,3 +15,5 @@
 (7) Az igazságügyi szakértő, az ügyben eljáró hatóság és a szakértői kamara 8 napon belül köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak a névjegyzékben nyilvántartott adatokban bekövetkezett változást.
 
 (8) Az igazságügyi szakértői névjegyzéket vezető hatóság az e törvény 2. számú melléklete m) pontjának mf) alpontja szerint nyilvántartott igazságügyi szakértő adatait és a rá vonatkozó tényeket tárolja, feldolgozza, és érdekeltségének igazolása után, törvény által arra jogosított harmadik személy részére továbbítja. A névjegyzékből történő törlés időpontjától számított tíz év elteltével az igazságügyi szakértői névjegyzéket vezető hatóság gondoskodik az adatok törléséről.
+
+(9) Az igazságügyi szakértői névjegyzéket vezető hatóság az igazságügyi szakértő 2. számú melléklet 1. pont a)–d) alpontjaiban szereplő adatait a kirendelő hatóság megkeresésére, az igazságügyi szakértővel való kapcsolattartás újrafelvétele, az igazságügyi szakértő bírságolása vagy a bírság végrehajtása céljából átadja a kirendelő hatóságnak.

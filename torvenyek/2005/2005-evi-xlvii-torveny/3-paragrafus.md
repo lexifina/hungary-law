@@ -1,6 +1,6 @@
 ## Az igazságügyi szakértővé válás szabályai
 
-3. § (1) Az igazságügyi szakértői tevékenységet az igazságügyi szakértői névjegyzéket vezető hatóság – az igazságügyi szakértői névjegyzékbe (a továbbiakban: névjegyzék), meghatározott szakterületre történő felvétel útján – kérelemre annak a természetes személynek engedélyezi, aki a (3) bekezdés a)–d) pontjaiban meghatározott feltételeknek megfelel. Kérelem csak az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendeletében szereplő szakterületre nyújtható be.
+3. § (1) Az igazságügyi szakértői tevékenységet az igazságügyi szakértői névjegyzéket vezető hatóság – az igazságügyi szakértői névjegyzékbe (a továbbiakban: névjegyzék), meghatározott szakterületre történő felvétel útján – kérelemre annak a természetes személynek engedélyezi, aki a (3) bekezdés a)–e) pontjaiban meghatározott feltételeknek megfelel. Kérelem csak az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendeletében szereplő szakterületre nyújtható be.
 
 (2)
 
@@ -30,6 +30,6 @@ a) a képesítés megszerzése már feltételezi az igazságügyi szakértői te
 
 b) a kérelmező az adott szakterületen tudományos fokozattal vagy ágazati szakértői jogosultsággal rendelkezik vagy
 
-c) a – (7) bekezdés szerinti kérelmező kivételével – a kérelmező a kérelemben megjelölt szakterületen szakértőjelöltként a rendeletben megjelölt szakmai gyakorlati tapasztalattal rendelkezik.
+c) a – (8) bekezdés szerinti kérelmező kivételével – a kérelmező a kérelemben megjelölt szakterületen szakértőjelöltként a rendeletben megjelölt szakmai gyakorlati tapasztalattal rendelkezik.
 
 (8) Ha a kérelmező a szakterülethez előírt képesítés megszerzésétől számított legalább három évig igazságügyi szakértői intézményben szakértőjelöltként dolgozott, és tevékenységét alkalmazotti vagy más jogviszonyban legalább napi hatórás munkavégzés keretében végezte, a képesítés megszerzésétől számított három év elteltével kérheti felvételét a névjegyzékbe.

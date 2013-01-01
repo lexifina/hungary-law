@@ -6,7 +6,7 @@
 
 (3) A Testület szakértőként vélemény nyilvánítására eseti bizottságot hoz létre. A bizottság három, legfeljebb öt tagú, eljárása során független, munkájáért külön díjazásban részesül. A Testület és a bizottság eljárásának részletes szabályait külön jogszabály állapítja meg.
 
-(4) A Testület tagjai a miniszter vagy képviselője jelenlétében esküt tesznek. A szakértői eskü az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
+(4) A Testület tagjai a miniszter vagy képviselője jelenlétében esküt tesznek. A szakértői eskü az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak első mondatát követően a következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
 
 (4a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: igazságügyi szakértői testületi tag.
 

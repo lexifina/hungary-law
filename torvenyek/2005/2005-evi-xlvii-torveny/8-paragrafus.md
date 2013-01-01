@@ -32,7 +32,7 @@ j) büntetett előéletű, a bíróság jogerős ítéletével eltiltotta az iga
 
 (2) Ha a névjegyzékből történő törlésre az (1) bekezdés f) pontja vagy a h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított 5 éven belül, ha a törlésre az (1) bekezdés g) pontja vagy h) pontjának hb) és hc) alpontjai alapján kerül sor, a határozat jogerőre emelkedésétől számított 1 éven belül a névjegyzékbe nem vehető fel.
 
-(3)
+(3) Az igazságügyi szakértői névjegyzéket vezető hatóság az (1) bekezdés a) és b) pontja esetében az igazságügyi szakértőt az érintett szakterületről törli.
 
 (4) Az (1) bekezdés f) pontja szerinti törlési ok fennállását az igazságügyi szakértői névjegyzéket vezető hatóság a 19. § szerinti eljárásban állapítja meg.
 
