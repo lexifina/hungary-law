@@ -10,7 +10,7 @@
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
-a) a Nemzeti Éghajlatváltozási Programot;
+a) az Éghajlatváltozási Stratégia felülvizsgálatához szükséges nemzeti alkalmazkodási térinformatikai rendszer működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás rendjére, az adatok nemzeti alkalmazkodási térinformatikai rendszer keretében történő felhasználásának részletes szabályaira;
 
 b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
 
@@ -37,3 +37,9 @@ a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részl
 b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
 
 c) a kiotói egységek vagyonkezelésében közreműködő szervet [9. § (2) bekezdés].
+
+(7) Felhatalmazást kap a miniszter, hogy
+
+a) az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésével kiadott rendeletben állapítsa meg,
+
+b) az a) pontban meghatározott igazgatási szolgáltatási díj megfizetésének részletes szabályait rendeletben állapítsa meg.

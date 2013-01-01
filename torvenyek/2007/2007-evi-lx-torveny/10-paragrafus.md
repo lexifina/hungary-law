@@ -8,8 +8,8 @@ b) Magyarország mint fogadó ország területén megvalósuló együttes végre
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3)–(4) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával és az Éghajlatváltozási Programmal összhangban történő felhasználásáról a miniszter gondoskodik.
+(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával összhangban történő felhasználásáról a miniszter gondoskodik.
 
-(4a) A kibocsátási egységek és légiközlekedési kibocsátási egységek átruházásából származó bevételt az üvegházhatású gázok kibocsátásának csökkentését és az éghajlatváltozás hatásaihoz való alkalmazkodást célzó hazai és nemzetközi tevékenységek támogatására, a magyar klímapolitika hatékony megvalósítására, az üvegházhatású gáz nyelők általi eltávolításának növelésére kell fordítani.
+(4a)
 
 (5) A bevételek felhasználásáról a Kormány évente beszámol az Országgyűlésnek.

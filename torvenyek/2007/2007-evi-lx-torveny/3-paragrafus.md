@@ -1,17 +1,17 @@
-## A Nemzeti Éghajlatváltozási Stratégia és a Nemzeti Éghajlatváltozási Program
+## A Nemzeti Éghajlatváltozási Stratégia
 
-3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az éghajlatváltozás hazai hatásaihoz való alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
+3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, az azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az éghajlatváltozás hazai hatásaihoz való alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
 
-(2) Az Éghajlatváltozási Stratégiát első alkalommal a 2008–2025-ig tartó időszakra kell kidolgozni a nemzetközi kötelezettségvállalásoknak megfelelően. A Kormány az Éghajlatváltozási Stratégiát az annak elfogadását követő két év elteltével, azt követően öt évente felülvizsgálja. A felülvizsgálatról szóló előterjesztést az Országgyűlés részére kell benyújtani elfogadásra.
+(2) Az Éghajlatváltozási Stratégiát első alkalommal a 2008–2025-ig tartó időszakra kell kidolgozni a nemzetközi kötelezettségvállalásoknak megfelelően. A Kormány az Éghajlatváltozási Stratégiát ötévente felülvizsgálja. A felülvizsgálat előkészítéséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A felülvizsgált Éghajlatváltozási Stratégiát az Országgyűlés fogadja el. Az Éghajlatváltozási Stratégia különösen az alábbiakat tartalmazza:
 
-(3) A Kormány az Éghajlatváltozási Stratégia végrehajtására, a nemzetközi kötelezettségvállalásokra és az éghajlatváltozás hatásaihoz való alkalmazkodás igényeire tekintettel a kibocsátások csökkentésére, illetve korlátozására tett kötelezettségek meghatározása és teljesítése, tényleges és várható eredményeinek ellenőrzése érdekében Nemzeti Éghajlatváltozási Programot (a továbbiakban: Éghajlatváltozási Program) fogad el.
+a) az éghajlatváltozás várható magyarországi hatásainak, természeti és társadalmi-gazdasági következményeinek, valamint az ökoszisztémák és az ágazatok éghajlati sérülékenységének értékelését;
 
-(4) Az Éghajlatváltozási Program különösen az alábbiakat tartalmazza:
+b) az üvegházhatású gázok kibocsátáscsökkentésének céljait, prioritásait és cselekvési irányait tartalmazó hazai dekarbonizációs útitervet az alacsony karbontartalmú, versenyképes gazdaságra történő, 2050-ig tartó átmenetről, figyelembe véve az Európai Bizottság hasonló időtávú stratégiai dokumentumait;
 
-a) a Keretegyezményben, illetve a Jegyzőkönyvben az emberi eredetű üvegházhatású gázkibocsátás csökkentésére, illetve korlátozására, e gázok nyelőinek erősítésére irányuló, Magyarország által vállalt kötelezettségek teljesítésének fő intézkedéseit, ezek menetrendjét és fő finanszírozási forrásait;
+c) egy nemzeti alkalmazkodás stratégiai keretrendszert, különös tekintettel az éghajlatváltozással és a klímabiztonsággal összefüggő kockázatok megelőzésére és károk mérséklésére; a stratégiai keretrendszer támogatásául a nemzeti alkalmazkodási térinformatikai rendszer és az arra épülő területi és ágazati éghajlati sérülékenységvizsgálatok eredményei szolgálnak;
 
-b) az éghajlatváltozás hazai hatásaihoz való alkalmazkodás szükséges lépéseit, az ahhoz szükséges főbb intézkedéseket és azok finanszírozási forrásait;
+d) az éghajlatváltozás megelőzését, valamint az éghajlatváltozásra való felkészülést és alkalmazkodást szolgáló szemléletformálási tevékenységek célrendszerét.
 
-c) a hazai kibocsátások költséghatékony csökkentéséhez és az éghajlatváltozás hazai hatásaihoz kapcsolódó kutatási prioritásokat és a szükséges kutatások finanszírozási forrásait.
+(3) A miniszter az Éghajlatváltozási Stratégia elfogadását követően annak végrehajtásáról szükség szerint, de legalább háromévente beszámol a Kormánynak, valamint az Országgyűlés hatáskörrel rendelkező szakbizottságának.
 
-(5) Az Éghajlatváltozási Programot két éves időszakokra kell meghatározni, figyelembe véve a vonatkozó EU programokat, szakpolitikákat és előírásokat. A Kormány az Országgyűlés előtt évente beszámol a Program végrehajtásáról és a végrehajtás során szerzett tapasztalatokról.
+(4) A (2) bekezdés c) pontja szerinti nemzeti alkalmazkodási térinformatikai rendszer felállításáról és működtetéséről, a szükséges adatgyűjtésről, valamint a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséről az energiapolitikáért felelős miniszter gondoskodik.

@@ -1,6 +1,6 @@
 ## Alapfogalmak
 
-2. § E törvény alkalmazásában:
+2. § E törvény és a végrehajtására kiadott jogszabályok alkalmazásában:
 
 1. Keretegyezmény: az 1995. évi LXXXII. törvénnyel kihirdetett ENSZ Éghajlatváltozási Keretegyezmény;
 
@@ -24,7 +24,7 @@
 
 11. nemzetközi kibocsátás-kereskedelem: a kiotói egységek átruházása a Keretegyezménynek, illetve a Jegyzőkönyv alapján hozott határozatoknak megfelelően;
 
-12. kibocsátható mennyiség: az üvegházhatású gázok emberi tevékenységből származó, összesített kibocsátás mennyisége, szén-dioxid egyenértékben kifejezve egy meghatározott kötelezettségvállalási időszakra, a Jegyzőkönyv, illetve az üvegházhatást okozó gázok Közösségen belüli kibocsátásának nyomon követését szolgáló rendszerről és a Kiotói Jegyzőkönyv végrehajtásáról szóló 280/2004/EK európai parlamenti és tanácsi határozat (a továbbiakban: 280/2004/EK határozat) vonatkozó rendelkezéseinek megfelelően;
+12. kibocsátható mennyiség: az üvegházhatású gázok emberi tevékenységből származó, összesített kibocsátás mennyisége, szén-dioxid egyenértékben kifejezve egy meghatározott kötelezettségvállalási időszakra, a Jegyzőkönyv, illetve az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet (a továbbiakban: 601/2012/EU bizottsági rendelet) vonatkozó rendelkezéseinek megfelelően;
 
 13. kiotói egység: a kibocsátható mennyiségi egység (AAU), a kibocsátás-csökkentési egység (ERU), az igazolt kibocsátás-csökkentési egység (CER) és az eltávolítási egység (RMU);
 
@@ -38,10 +38,10 @@
 
 18. eltávolítási egység (RMU): az első kötelezettségvállalási időszakban (2008–2012) az üvegházhatású gázoknak a légkörből nyelő által történő eltávolítása esetében megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
 
-19. nemzeti forgalmi jegyzék: a kiotói egységek kiadásának, átruházásának, törlésének nyilvántartását, valamint az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (a továbbiakban: Üht.) 15. §-a szerinti forgalmi jegyzéket magába foglaló közhiteles és nyilvános jegyzék;
+19. nemzeti forgalmi jegyzék: az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti forgalmi jegyzéket magába foglaló közhiteles és nyilvános jegyzék;
 
 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
 
 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
 
-22. Kibocsátási jogosultság: a kiotói egység, az. Üht. 3. § szerinti kibocsátási egység és légiközlekedési kibocsátási egység.
+22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység.
