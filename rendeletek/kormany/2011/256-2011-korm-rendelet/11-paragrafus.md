@@ -22,14 +22,18 @@ j) az oltalmazott jogállást az azt tanúsító személyazonosító igazolvánn
 
 k) a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
 
-l) a házasságot, a bejegyzett élettársi kapcsolatot és a gyermek születését anyakönyvi kivonattal,
+l)[^17] a házasságot, a bejegyzett élettársi kapcsolatot és a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős bírósági ítélet bemutatásával, az örökbefogadást a gyámhatóság engedélyező határozatával, a gyámságot a gyámhatóság kirendelő határozatával,
 
 m) a lakás energetikai teljesítőképességét energetikai tanúsítvánnyal,
 
-n)[^2] a 3. § (1) bekezdés d) pont da) alpontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 3. § (1) bekezdés d) pont db) alpont második fordulatában foglaltakat nemleges együttes adóigazolással.
+n)[^18] a 3. § (1) bekezdés d) pont da) alpontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 3. § (1) bekezdés d) pont db) alpont második fordulatában foglaltakat nemleges együttes adóigazolással,
+
+o)[^19] a 2. § (7) bekezdésében foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával.
 
 (2) Házaspárok esetében, ha a házastársak egyike magyar állampolgár az (1) bekezdés c) és f)–k) pontjában, valamint az 5. § (1) bekezdés a) pontjában foglaltak igazolására nincs szükség.
 
 (3) Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott támogatáshoz, akkor a támogatott személy a folyósított összeget az igénybevétel napjától a Ptk. 301. § (1) bekezdése szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a Kincstárat és megküldi az ügy iratait.
 
-[^2]: A 11. § (1) bekezdés n) pontját a 71/2012. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
+[^17]: A 11. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^18]: A 11. § (1) bekezdés n) pontját a 71/2012. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
+[^19]: A 11. § (1) bekezdés o) pontját a 379/2012. (XII. 19.) Korm. rendelet 24. § (2) bekezdése iktatta be.

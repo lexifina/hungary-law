@@ -24,7 +24,7 @@ ce) a támogatással vásárolni kívánt lakás telekárat is tartalmazó véte
 
 cf) olyan 2009. július 1-jét követően kiállított számlával vagy megkötött szerződéssel igazoltan kifizetett összeggel, amelyet az igénylő az általa tervezett, de meg nem valósult lakásvásárlás céljából fizetett ki, ha az összeg az értékesítés céljára lakást építő gazdasági társaság bíróság által elrendelt felszámolásának teljes befejezését követően nem térült meg;
 
-d)[^1] az igénylő a lakásépítési támogatás iránti kérelem benyújtásának időpontjában
+d)[^6] az igénylő a lakásépítési támogatás iránti kérelem benyújtásának időpontjában
 
 da) 15 napnál nem régebbi okirattal igazolja, hogy saját maga – házastársak vagy élettársak esetén legalább az egyik fél – legalább 180 napja folyamatosan az egészségbiztosítás nyilvántartásában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-a szerinti biztosítottként szerepel – ideértve azt is, ha a legalább 180 nap folyamatos biztosításban legfeljebb 15 nap megszakítás van –, és
 
@@ -52,9 +52,15 @@ i) az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban
 
 ia) hozzájárul ahhoz, hogy saját és gyermekei 17. § (8) bekezdése szerinti adatait, valamint a támogatásra vonatkozó információkat a támogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a Magyar Államkincstár (a továbbiakban: Kincstár), vagy az állami adóhatóság részére,
 
-ib) hozzájárul ahhoz, hogy az állami adóhatóság a bizonylatok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a lakásépítési támogatás igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – a lakásban is – ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a Kincstár hatáskörébe tartozik, a Kincstárt hivatalból értesítse, és
+ib)[^7] hozzájárul ahhoz, hogy az állami adóhatóság és a hitelintézet a bizonylatok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a lakásépítési támogatás igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – a lakásban is – ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a Kincstár hatáskörébe tartozik, a Kincstárt hivatalból értesítse, és
 
-ic) tudomásul veszi, hogy a hitelintézet kizárólag olyan számlát fogad el, melynek kibocsátója – a 12. § (1) vagy (2) bekezdése szerinti időpontban – az állami adóhatóság nyilvántartásában működő adóalanyként szerepel;
+ic) tudomásul veszi, hogy a hitelintézet kizárólag olyan számlát fogad el, melynek kibocsátója – a 12. § (1) vagy (2) bekezdése szerinti időpontban – az állami adóhatóság nyilvántartásában működő adóalanyként szerepel,
+
+id)[^8] vállalja, hogy – lakás vásárlása esetén – a saját erőnek legfeljebb a telekárat is tartalmazó vételár 10%-ával csökkentett részét az eladó – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott – fizetési számlájára teljesíti,
+
+ie)[^9] vállalja, hogy a lakásépítési támogatással érintett lakás vagy lakóépület vonatkozásában a 14. § (1) bekezdése szerinti időszak lejártáig haszonélvezet alapítására nem kerül sor, és
+
+if)[^10] vállalja, hogy a lakásépítési támogatással érintett lakásban életvitelszerűen kíván tartózkodni;
 
 j) a támogatott személy a lakásépítési támogatás nyújtásáról szóló szerződésbe foglaltan kötelezettséget vállal arra vonatkozóan, hogy a lakásépítési támogatás folyósítását vagy építés esetén az utolsó részfolyósítást követően legalább a 14. § (1) bekezdése szerinti elidegenítési tilalom megszűnéséig terjedően a lakásban lakóhelyet létesít és a folyósítást vagy utolsó részfolyósítást követő egy éven belül bemutatja a hitelintézet számára a lakcímet igazoló hatósági igazolványt, hontalan támogatott személy esetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti ideiglenes tartózkodásra jogosító igazolást, mely igazolja, hogy a támogatással épített, vásárolt ingatlan mindazon személyek lakóhelye, hontalan esetében szálláshelye, akiknek együttköltözésére tekintettel a lakásépítési támogatás folyósítása történt.
 
@@ -72,4 +78,8 @@ a) ha az építkezés 2010. január 1-jét követően kiadott építési engedé
 
 b) az átruházó részére megállapított lakásépítési támogatást törölni kell, és a már folyósított támogatást az átruházó az igénybevétel napjától a Ptk. 232. § (3) bekezdése szerint számított kamataival együtt köteles visszafizetni.
 
-[^1]: A 3. § (1) bekezdés d) pontja a 71/2012. (IV. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (1) bekezdés d) pontja a 71/2012. (IV. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdés i) pont ib) alpontja a 379/2012. (XII. 19.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés i) pont id) alpontját a 379/2012. (XII. 19.) Korm. rendelet 20. §-a iktatta be.
+[^9]: A 3. § (1) bekezdés i) pont ie) alpontját a 379/2012. (XII. 19.) Korm. rendelet 20. §-a iktatta be.
+[^10]: A 3. § (1) bekezdés i) pont if) alpontját a 379/2012. (XII. 19.) Korm. rendelet 20. §-a iktatta be.

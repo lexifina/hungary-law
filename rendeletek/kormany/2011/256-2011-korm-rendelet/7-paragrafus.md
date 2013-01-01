@@ -1,10 +1,12 @@
-7. § (1) Amennyiben
+7. § (1)[^14] Amennyiben a fiatal házaspár
 
-a) a fiatal házaspár gyermekvállalását nem vagy csak részben teljesíti, úgy az igénybevett támogatás összegét csökkentve a gyermekvállalási határidő lejártának időpontjában meglévő gyermekek után járó lakásépítési támogatás összegével, vagy
+a) gyermekvállalását nem vagy csak részben teljesíti, úgy az igénybevett támogatás összegét csökkentve a gyermekvállalási határidő lejártának időpontjában meglévő gyermekek után járó lakásépítési támogatás összegével,
 
-b) a meglévő gyermekek száma a gyermekvállalási határidő lejártának időpontjában kettőnél kevesebb, akkor az igénybe vett lakásépítési támogatás teljes összegét
+b) meglévő gyermekeinek száma a gyermekvállalási határidő lejártának időpontjában kettőnél kevesebb, akkor az igénybe vett lakásépítési támogatás teljes összegét, vagy
 
-az igénybevétel napjától számított, a Ptk. 301. § (1) bekezdése szerinti késedelmi kamattal növelten – a gyermekvállalási határidő leteltét követő 60 napon belül – vissza kell fizetni.
+c) a (4) bekezdés szerinti kérelmét az (5) bekezdés szerinti határidőig nem nyújtotta be, a vállalt gyermekek után igénybevett lakásépítési támogatás összegét
+
+## az igénybevétel napjától számított, a Ptk. 301. § (1) bekezdése szerinti késedelmi kamattal növelten – az a) és b) pont esetén a gyermekvállalási, a c) pont esetén az (5) bekezdés szerinti határidő leteltét követő 60 napon belül – vissza kell fizetni.
 
 (2) A fiatal házaspár a gyermekvállalási határidő alatt bekövetkező házasságfelbontás tényét köteles a házasság érvénytelenségét megállapító vagy a házasságot felbontó bírósági ítélet jogerőre emelkedését követő 60 napon belül a jogerős ítélet bemutatásával a hitelintézetnek igazolni. Amennyiben a fiatal házaspár az okiratot 60 napon belül nem mutatja be, úgy köteles a hitelintézet írásbeli felszólítása kézhezvételétől számított 30 napon belül a lakásépítési támogatás összege után, a bírósági ítélet jogerőre emelkedését követő naptól számított, a Ptk. 301. § (1) bekezdése szerinti, Magyar Államot megillető késedelmi kamatot a hitelintézeten keresztül a Kincstár részére megfizetni.
 
@@ -25,3 +27,5 @@ c) a gyermek a terhesség 24. betöltött hetét követően halva születik,
 (6) Ha a támogatott személy az igazolást a (4) bekezdés a)–c) pontjában meghatározott esemény bekövetkeztétől számított 90 napon belül nem nyújtja be, úgy a hivatkozott események bejelentésétől számított 60 napon belül a lakásépítési támogatás összege után, a bejelentési kötelezettség esedékességének napjától számított, a Ptk. 301. § (1) bekezdése szerinti, Magyar Államot megillető késedelmi kamatot a hitelintézeten keresztül köteles a Kincstár részére megfizetni.
 
 (7) Amennyiben a támogatott személy az (1)–(3) és a (6) bekezdésben foglalt visszafizetési kötelezettségének a hitelintézeti felszólítás ellenére sem tesz eleget, akkor a hitelintézet a visszafizetési kötelezettség érvényesítése érdekében a Kincstárhoz fordul.
+
+[^14]: A 7. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 23. §-ával megállapított szöveg.

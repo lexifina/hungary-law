@@ -60,6 +60,14 @@ b) az a lakás, amelyet jogi személy, jogi személyiség nélküli társaság v
 
 ba) amelyet első ízben természetes személy részére értékesítenek, vagy
 
-bb) amelyet másodízben értékesítenek természetes személy részére, feltéve, hogy a második eladó hitelintézet vagy ingatlan-forgalmazással üzletszerűen foglalkozó jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó.
+bb) amelyet másodízben értékesítenek természetes személy részére, feltéve, hogy a második eladó hitelintézet vagy ingatlan-forgalmazással üzletszerűen foglalkozó jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó;
 
-(2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az országos településrendezési és az építési követelményekről szóló kormányrendeletben, valamint az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+9.[^1] hasznos alapterület: az országos településrendezési és az építési követelményekről szóló kormányrendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül a lakás fűthető helyiségei alapterületének összege;
+
+10.[^2] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
+
+(2)[^3] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az OTÉK-ban, valamint az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés 9. pontját a 379/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés 10. pontját a 379/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.

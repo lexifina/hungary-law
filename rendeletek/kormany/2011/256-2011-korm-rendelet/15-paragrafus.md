@@ -1,4 +1,4 @@
-15. § (1) Ha a támogatott személy a lakásigényét a lakás cseréjével, vagy a lakás értékesítését követően másik lakás építése vagy vásárlása útján elégíti ki, a lakásépítési támogatás visszafizetésével kapcsolatos kötelezettségét építési szándék esetében három, vásárlási szándék esetében 1 évig a tulajdonos kérelme alapján a Kincstár támogatott személy lakóhelye szerint illetékes területi szerve felfüggeszti, amennyiben a támogatott személy az igénybevett támogatás összegét a „10032000-01501315 Kincstár lakáscélú kedvezmények letéti számlára” befizette.
+15. § (1)[^22] Ha a támogatott személy a lakásigényét a lakás cseréjével, vagy a lakás értékesítését követően másik lakás építése vagy vásárlása útján elégíti ki, a lakásépítési támogatás visszafizetésével kapcsolatos kötelezettségét építési szándék esetében három, vásárlási szándék esetében 1 évig a tulajdonos – a 16. § (3) bekezdése szerinti bejelentés megtételét követő legfeljebb 60 napon belül benyújtott – kérelme alapján a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve – a (12) bekezdésben foglaltak kivételével – felfüggeszti, amennyiben a támogatott személy az igénybevett támogatás összegét a „10032000-01501315 Kincstár lakáscélú kedvezmények letéti számlára” befizette.
 
 (2) Az (1) bekezdés szerinti felfüggesztés időtartamát a lakásépítési támogatás összegének kincstári letéti számlára érkezésének napjától kell számítani.
 
@@ -8,7 +8,7 @@
 
 (5) A felfüggesztés időtartama alatt a támogatott személy kérelmére, amennyiben a másik lakás megszerzése még nem történt meg, a lakásépítési támogatás igénybevételével épített vagy vásárolt lakást a Kincstár tehermentesíti.
 
-(6) A másik lakás megszerzésének hitelt érdemlő igazolása esetén a felfüggesztés megszüntetéséről a Kincstár határozatban intézkedik és megállapítja a kincstári letéti számláról a támogatott személynek kifizethető összeget, intézkedik a terhek másik lakásra történő bejegyeztetése iránt. A Kincstár a felfüggesztés megszüntetését követően 15 napon belül átutalja a jogosultnak a Kincstár támogatott személy lakóhelye szerint illetékes területi szerve határozatában megállapított összeget a jogosult határozatban megjelölt bankszámlájára.
+(6)[^23] A másik lakás megszerzésének hitelt érdemlő igazolása esetén a felfüggesztés megszüntetéséről a Kincstár határozatban intézkedik és megállapítja a kincstári letéti számláról a támogatott személynek kifizethető összeget, intézkedik a terhek másik lakásra történő bejegyeztetése iránt. A Kincstár a felfüggesztés megszüntetését követően 15 napon belül átutalja a jogosultnak a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve határozatában megállapított összeget a jogosult határozatban megjelölt bankszámlájára.
 
 (7) Ha a támogatott személy a másik lakás megszerzését a felfüggesztés időtartama alatt nem igazolja, vagy kisebb értékű lakás megszerzését igazolja, úgy a kincstári letéti számlán elhelyezett összeg, illetve annak az eladási és a vételár különbözetével arányos része visszafizetett támogatásnak minősül, amelynek központi költségvetés javára történő átvezetéséről a Kincstár támogatott személy lakóhelye szerint illetékes területi szerve intézkedik.
 
@@ -26,8 +26,43 @@ b) a korábbi lakás elidegenítéséből származó teljes bevételt – csökk
 
 ## úgy a 14. § (2) bekezdése szerinti kötelezettség az eredeti határidő lejártáig terheli.
 
-(9) A (8) bekezdés a) pont aa) alpontja szerinti esetben a tulajdonjog megszerzését a Kincstár a számítógépes ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus dokumentumként szolgáltatott hiteles tulajdoni lap másolat lekérdezésével ellenőrzi.
+(9)[^24] A Kincstár a számítógépes ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus dokumentumként szolgáltatott tulajdoni lap másolat lekérdezésével ellenőrzi
 
-(10) A (9) bekezdés szerinti adatszolgáltatásért járó igazgatási szolgáltatási díjat a támogatott személy köteles a Kincstár részére megfizetni.
+a) a tulajdonjog megszerzését – a b) pontban foglaltak kivételével – a (8) bekezdés a) pontja és a (12)–(13) bekezdés szerinti esetekben,
 
-(11) A (8) bekezdés esetében a lakásépítési támogatást biztosító jelzálogjognak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a Kincstár támogatott személy lakóhelye szerint illetékes területi szerve intézkedik.
+b) a tulajdonjog megszerzésére irányuló kérelem benyújtását, ha az adásvételi szerződés szerinti utolsó vételárrész megfizetésére még nem került sor, és összege megegyezik az (1) bekezdés szerint letéti számlára helyezett támogatás összegével.
+
+(10)[^25]
+
+(11)[^26] A (8) bekezdés esetében a lakásépítési támogatást biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve intézkedik.
+
+(12)[^27] Ha a támogatott személy a lakásépítési támogatás igénybevételével épített, vásárolt lakásnak a 14. § (1) bekezdése szerinti időszakon belül történő elidegenítését követően, de legfeljebb a 16. § (3) bekezdése szerinti bejelentés megtételét követő 60 napon belül
+
+a) a lakásigényét a lakás cseréjével, vagy másik lakás építése vagy vásárlása útján elégíti ki és
+
+b) az újabb lakás megszerzését adásvételi szerződés, csereszerződés vagy használatbavételi engedély bemutatásával igazolja,
+
+– a 15. § (9) bekezdése szerinti ellenőrzést követően – a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve intézkedik a lakásépítési támogatás visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való közvetlen átjegyzése iránt.
+
+(13)[^28] Ha a támogatott személy a lakásépítési támogatás igénybevételével épített, vásárolt lakásnak a 14. § (1) bekezdése szerinti időszakon belül történő elidegenítését legfeljebb 1 naptári évvel megelőzően
+
+a) a lakásigényét másik lakás építése vagy vásárlása útján elégítette ki és
+
+b) az újabb lakás megszerzését adásvételi szerződés vagy használatbavételi engedély bemutatásával igazolja,
+
+– a 15. § (9) bekezdése szerinti ellenőrzést követően – a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve intézkedik a lakásépítési támogatás visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való közvetlen átjegyzése iránt.
+
+(14)[^29] A (13) bekezdés esetén a visszafizetési kötelezettség alá nem eső támogatási összegnek megfelelő jelzálogjog valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy
+
+a) az újabb lakás vételára vagy építési költsége az elidegenített lakás vételárát – a 16. § (7) bekezdésében foglaltak figyelembe vételével – meghaladja, vagy
+
+b) a támogatott személy a támogatás összegének – az eladási és a vételár vagy építési költség különbözetének a 16. § (7) bekezdése szerint csökkentett – arányos részét visszafizesse.
+
+[^22]: A 15. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § g)–h) pontja szerint módosított szöveg.
+[^23]: A 15. § (6) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § h) pontja szerint módosított szöveg.
+[^24]: A 15. § (9) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^25]: A 15. § (10) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^26]: A 15. § (11) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § h)–i) pontja szerint módosított szöveg.
+[^27]: A 15. § (12) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^28]: A 15. § (13) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^29]: A 15. § (14) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be.

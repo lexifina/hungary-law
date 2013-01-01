@@ -36,8 +36,13 @@ c) alacsony energiafogyasztású lakás esetén 1,3-as
 
 szorzószám alkalmazásával kell megállapítani.
 
-(3) A lakásépítési támogatás 8. § (1) bekezdése szerinti később született gyermek után igényelhető összege – az épített vagy vásárolt lakás hasznos alapterületétől függetlenül – gyermekenként 400 000 Ft.
+(3)[^11] A lakásépítési támogatás 8. § (1) bekezdése szerinti később született gyermek után igényelhető összege – az épített vagy vásárolt lakás hasznos alapterületétől és energetikai minősítési osztályától függetlenül – gyermekenként 400 000 Ft.
 
 (4) Az (1) bekezdésben meghatározott épített vagy vásárolt lakás hasznos alapterülete nem haladhatja meg a 160 m2-t.
 
 (5) Lakás építése esetén, ha a felépült lakás energetikai minősítési osztálya nem éri el a 3. § (1) bekezdés f) pont fa) alpontja szerinti nyilatkozatban vállalt energetikai minősítési osztályt, akkor a támogatott személy az energiatanúsítványban szereplő energetikai minősítési osztály szerinti lakásépítési támogatásra jogosult. Amennyiben a felépült lakás energiatanúsítványában szereplő energetikai minősítési osztály nem éri el a „B” (követelménynél jobb) vagy annál kedvezőbb energetikai minősítési osztályt, akkor a támogatott személy a már folyósított támogatást az igénybevétel napjától esedékes, a Ptk. 232. § (3) bekezdése szerint számított kamatokkal együtt – a használatbavételi engedély kiadásától számított 30 napon belül – köteles a hitelintézeten keresztül visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a Kincstárat és megküldi az ügy iratait.
+
+(6)[^12] A 2. § (1) bekezdés a) pontja esetén, ha a felépült lakás energetikai minősítési osztálya kedvezőbb a 3. § (1) bekezdés f) pont fa) alpontja szerinti nyilatkozatban vállalt energetikai minősítési osztálynál, akkor a támogatott személy az energiatanúsítványban szereplő energetikai minősítési osztály szerinti lakásépítési támogatásra jogosult. A hitelintézet a lakásépítési támogatás nyújtásáról szóló szerződést írásban módosítja, melynek tényéről a Kincstárnak elektronikus úton, havi rendszerességgel adatot szolgáltat.
+
+[^11]: A 4. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^12]: A 4. § (6) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 21. §-a iktatta be.
