@@ -108,6 +108,6 @@
 
 | 83501–84000 | 6 500 | 113001–115000 | 12 700 | 190001–190500 | 6 600 |  |
 
-4. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^18]
+4. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^19]
 
-[^18]: A 4. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^19]: A 4. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.

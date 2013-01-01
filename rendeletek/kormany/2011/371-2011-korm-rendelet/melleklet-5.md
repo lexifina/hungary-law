@@ -86,6 +86,6 @@
 
 | 136001–136500 | 4 900 | 157001–157500 | 10 300 | 195001–195500 | 5 200 | 216001–216500 | 200 |
 
-5. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^19]
+5. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^20]
 
-[^19]: Az 5. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^20]: Az 5. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.

@@ -8,7 +8,7 @@ b) az a) pontba nem tartozó helyi önkormányzati költségvetési szervek
 
 (2) A Belügyminisztérium utalványozása alapján a Magyar Államkincstár a helyi önkormányzatok részére a nettó finanszírozás keretében a 2012. január hónap után járó kompenzáció kifizetéséhez január 31-én előleget számol el. Az előleg elszámolására a 2012. december havi nettó finanszírozás keretében kerül sor.
 
-(3) A 2012. december hónap után járó kompenzáció a 2013. évi január havi nettó finanszírozás keretében kerül elszámolásra a 2013. évi költségvetés terhére.
+(3)[^13] A 2012. december hónap után járó kompenzáció elszámolása a 2013. évi költségvetés terhére történik.
 
 (4) Az Ávr. 139. § (1) bekezdése szerinti egészségügyi szolgáltatónak minősülő költségvetési szervek részére megállapított kompenzációt a helyi önkormányzat soron kívül továbbítja.
 
@@ -23,3 +23,4 @@ b) a kifizetés hónapjának 4-éig a kifizetett havi kompenzáció összegérő
 (7) A Magyar Államkincstár Igazgatósága a kifizetés hónapjának 5-éig a Belügyminisztérium részére a 7. melléklet szerint, az (1) bekezdés szerinti elszámoláshoz – a nettó finanszírozással egyidejűleg – a helyi önkormányzat részére a 8. melléklet szerint szolgáltat adatot.
 
 [^12]: A 6. § (1) bekezdés nyitó szövegrésze a 20/2012. (II. 22.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^13]: A 6. § (3) bekezdése a 408/2012. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.

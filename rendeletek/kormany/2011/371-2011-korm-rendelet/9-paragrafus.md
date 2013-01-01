@@ -16,7 +16,7 @@ f) változásbejelentés esetén a változás bekövetkezésének dátumát,
 
 g) a Nyilatkozó által tett záradékot az adatok valóságtartalmáról.
 
-(3)[^13] A 2. § (12) bekezdésben meghatározott esetben a Nyilatkozó nyilatkozatát az őt teljes munkaidős jogviszonyban foglalkoztató munkáltatónak köteles a (4) bekezdés szerinti határidőig leadni. Teljes munkaidős jogviszony hiányában a Nyilatkozó nyilatkozatát a (4) bekezdésben meghatározott határidőig annak a munkáltatónak köteles leadni, akinél jogviszonya a legkorábban keletkezett.
+(3)[^14] A 2. § (12) bekezdésben meghatározott esetben a Nyilatkozó nyilatkozatát az őt teljes munkaidős jogviszonyban foglalkoztató munkáltatónak köteles a (4) bekezdés szerinti határidőig leadni. Teljes munkaidős jogviszony hiányában a Nyilatkozó nyilatkozatát a (4) bekezdésben meghatározott határidőig annak a munkáltatónak köteles leadni, akinél jogviszonya a legkorábban keletkezett.
 
 (4) A Nyilatkozó a nyilatkozatot 2012. március 15-ig nyújtja be a munkáltatónak két példányban. Amennyiben a jogviszony év közben keletkezett, a jogviszony keletkezésével egyidejűleg köteles a Nyilatkozó benyújtani a nyilatkozatot. A munkáltató az egyik példányon igazolja az átvételt, a másik példányt intézkedésre megküldi az illetékes illetményszámfejtő helynek.
 
@@ -30,4 +30,4 @@ g) a Nyilatkozó által tett záradékot az adatok valóságtartalmáról.
 
 (9) A március 15-ig benyújtott nyilatkozatok esetén a január és február hónapok után járó kompenzáció is kifizetésre kerül.
 
-[^13]: A 9. § (3) bekezdése a 20/2012. (II. 22.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^14]: A 9. § (3) bekezdése a 20/2012. (II. 22.) Korm. rendelet 9. §-a szerint módosított szöveg.

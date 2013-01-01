@@ -172,6 +172,6 @@
 
 ## FONTOS, hogy ezt a Nyilatkozatot Ön a 2012. évi adó- és járulékváltozásoknak a költségvetési szerveknél, egyházak közcélú tevékenységet folytató intézményeinél foglalkoztatottak körében történő kompenzálásához adta. EZ A NYILATKOZAT NEM HELYETTESÍTI A CSALÁDI KEDVEZMÉNY ÉRVÉNYESÍTÉSÉRE SZOLGÁLÓ ADÓELŐLEG-NYILATKOZATOT!
 
-6. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^20]
+6. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^21]
 
-[^20]: A 6. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^21]: A 6. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.

@@ -158,6 +158,6 @@
 
 | 38501–39000 | 10 400 | 101501–103500 | 16 700 | 216001–216500 | 9 500 |
 
-2. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^16]
+2. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^17]
 
-[^16]: A 2. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

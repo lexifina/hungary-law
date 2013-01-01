@@ -120,6 +120,6 @@
 
 | 29201–29700 | 7 700 | 58901–59400 | 15 400 | 172201–174200 | 9 700 | 216001–216700 | 200 |
 
-3. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^17]
+3. melléklet a 371/2011. (XII. 31.) Korm. rendelethez[^18]
 
-[^17]: A 3. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^18]: A 3. melléklet a 20/2012. (II. 22.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
