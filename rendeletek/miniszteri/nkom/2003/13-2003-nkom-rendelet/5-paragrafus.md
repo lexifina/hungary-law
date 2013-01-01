@@ -4,8 +4,10 @@
 
 (3) A védetté nyilvánítást a lelőhelyen végzett folyamatos szántás indokolja, amely súlyosan veszélyezteti az itt található régészeti emlékeket.
 
-(4) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(4)[^5]
 
 (5) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (6) Az (1) bekezdésben megjelölt ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^5]: Az 5. § (4) bekezdését a 79/2012. (XII. 28.) BM rendelet 8. § e) pontja hatályon kívül helyezte.

@@ -6,8 +6,10 @@
 
 (4) A védetté nyilvánítással az 1980–1981 óta részlegesen fennálló régészeti védettség kerül kiterjesztésre, mivel az nem fedte le a régészeti lelőhely teljes ismert területét. A védetté nyilvánítást a lelőhelyen folytatott intenzív művelés indokolja, amely folyamatosan veszélyezteti a terület egyedülálló régészeti emlékeit.
 
-(5) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez. A védett terület beépítése és közművesítése tilos.
+(5)[^2]
 
 (6) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
 
 (7) Az (1) bekezdésben megjelölt ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^2]: A 2. § (5) bekezdését a 79/2012. (XII. 28.) BM rendelet 8. § b) pontja hatályon kívül helyezte.

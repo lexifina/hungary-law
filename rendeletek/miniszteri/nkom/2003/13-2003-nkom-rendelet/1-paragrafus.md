@@ -4,6 +4,8 @@
 
 (3) A védetté nyilvánítást a védett területen tervezett építkezések indokolják, amelyek súlyosan veszélyeztetik az épületmaradványokat és a régészeti objektumokat.
 
-(4) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(4)[^1]
 
 (5) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
+
+[^1]: Az 1. § (4) bekezdését a 79/2012. (XII. 28.) BM rendelet 8. § a) pontja hatályon kívül helyezte.

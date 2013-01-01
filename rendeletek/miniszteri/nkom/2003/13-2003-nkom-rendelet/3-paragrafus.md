@@ -4,8 +4,10 @@
 
 (3) A védetté nyilvánítást a területen folyamatosan végzett földmunka és a kivett művelési ágú, a belterület közvetlen szomszédságában fekvő ingatlanok esetleges beépítése általi veszélyeztetés indokolja.
 
-(4) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(4)[^3]
 
 (5) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet az I. kategóriába sorolom.
 
 (6) Az (1) bekezdésben megjelölt 0203/2, 0204/3, 0205/1, 0205/2, 0208/1, 2506/1, 2516/1 hrsz. alatt nyilvántartott ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^3]: A 3. § (4) bekezdését a 79/2012. (XII. 28.) BM rendelet 8. § c) pontja hatályon kívül helyezte.
