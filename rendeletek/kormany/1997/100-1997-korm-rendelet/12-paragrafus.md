@@ -20,7 +20,7 @@ c) a tanulói jogviszony megszűnését követően bármelyik, az adott vizsgat�
 
 a)[^64]
 
-b)[^65] május–júniusi vizsgaidőszak esetén február 15-ig,
+b)[^65] május–júniusi vizsgaidőszak esetén március 1-ig,
 
 c)[^66] október-novemberi vizsgaidőszak esetén szeptember 5-ig
 
@@ -36,25 +36,25 @@ c)[^66] október-novemberi vizsgaidőszak esetén szeptember 5-ig
 
 (11)[^71] Az összesítő jelentést
 
-a) május–júniusi vizsgaidőszak esetén március 1-jéig,
+a)[^72] május–júniusi vizsgaidőszak esetén március 8-ig,
 
 b) október–novemberi vizsgaidőszak esetén szeptember 10-ig
 
 ## a kétszintű érettségi vizsga adminisztrációs rendszerében elektronikusan meg kell küldeni a Hivatalnak, továbbá kinyomtatva, papír alapon tájékoztatás céljából a középiskola fenntartójának.
 
-(12)[^72] Az összesítő jelentés alapján
+(12)[^73] Az összesítő jelentés alapján
 
 a) a kormányhivatal, illetve a Hivatal – a szabályzatban foglaltak szerint – megbízza a vizsgabizottság elnökét, illetve, ha a vizsgatárgyból az érettségi vizsgát emelt szinten szervezik meg, a Hivatal előkészíti, a kormányhivatal megszervezi az emelt szintű érettségi vizsgát,
 
 b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetében elkészíti, és – a szabályzatban foglaltak szerint – megküldi a középszintű érettségihez az írásbeli vizsga feladatlapjait, valamint közzéteszi a feladatlapok javításához, értékeléséhez a javítási és értékelési útmutatót (a továbbiakban: útmutató).
 
-(13)[^73]
+(13)[^74]
 
-(14)[^74] Ha a jelentkező az adott vizsgatárgyból az érettségi vizsgát azért nem kezdheti meg, mert nem teljesítette a vizsgára bocsátás feltételeit, a jelentkezését törölni kell. A törlésről az igazgató határozatot hoz.
+(14)[^75] Ha a jelentkező az adott vizsgatárgyból az érettségi vizsgát azért nem kezdheti meg, mert nem teljesítette a vizsgára bocsátás feltételeit, a jelentkezését törölni kell. A törlésről az igazgató határozatot hoz.
 
-(15)[^75] A tanuló kérelmére a rendes érettségi vizsgáját előrehozott érettségi vizsgára kell változtatni, ha rendes érettségi vizsgára jelentkezett, azonban nem tudta befejezni a középiskola utolsó évfolyamán a tanulmányait.
+(15)[^76] A tanuló kérelmére a rendes érettségi vizsgáját előrehozott érettségi vizsgára kell változtatni, ha rendes érettségi vizsgára jelentkezett, azonban nem tudta befejezni a középiskola utolsó évfolyamán a tanulmányait.
 
-(16)[^76] Előrehozott érettségi vizsgára kizárólag a kormányhivatalnál jelentkezhet az is, aki a kérelem benyújtásának időpontjában külföldi vagy külföldi rendszerű középiskola utolsó évfolyamán folytatja tanulmányait. A vizsgára bocsátáskor nem kell vizsgálni az (1) bekezdésben meghatározott feltételek meglétét, azonban a sikeres érettségi vizsgáról kiállított tanúsítvány csak a középiskolai végzettséget tanúsító okirattal együtt alkalmazható.
+(16)[^77] Előrehozott érettségi vizsgára kizárólag a kormányhivatalnál jelentkezhet az is, aki a kérelem benyújtásának időpontjában külföldi vagy külföldi rendszerű középiskola utolsó évfolyamán folytatja tanulmányait. A vizsgára bocsátáskor nem kell vizsgálni az (1) bekezdésben meghatározott feltételek meglétét, azonban a sikeres érettségi vizsgáról kiállított tanúsítvány csak a középiskolai végzettséget tanúsító okirattal együtt alkalmazható.
 
 [^59]: A 12. § a 233/2004. (VIII. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^60]: A 12. § (1) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdés b) és h) pontja szerint módosított szöveg; második mondatát hatályon kívül helyezte a 253/2006. (XII. 7.) Korm. rendelet 26. § (5) bekezdése.
@@ -62,15 +62,16 @@ b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetéb
 [^62]: A 12. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
 [^63]: A 12. § (6) bekezdésének záró szövegrésze a 253/2006. (XII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 106/2012. (VI. 1.) Korm. rendelet 9. § f) és h) pontja szerint módosított szöveg.
 [^64]: A 12. § (6) bekezdésének a) pontját a 256/2005. (XII. 7.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
-[^65]: A 12. § (6) beekzdés b) pontja a 12/2012. (II. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^65]: A 12. § (6) bekezdés b) pontja a 423/2012. (XII. 29.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
 [^66]: A 12. § (6) bekezdésének c) pontja a 148/2005. (VII. 27.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^67]: A 12. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 40. § (5) bekezdésével megállapított, a 106/2012. (VI. 1.) Korm. rendelet 9. § i) pontja szerint módosított szöveg.
 [^68]: A 12. § új (8) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése iktatta be, egyidejűleg az eredeti (8)–(12) bekezdés számozását (9)–(13) bekezdésre változtatva. A 12. § (8) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^69]: A 12. § eredeti (8) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (9) bekezdésre változtatta, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 2. § (2) bekezdése és 12. § (3) bekezdésének l) pontja, a 351/2010. (XII. 30.) Korm. rendelet 41. § f) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § j) és k) pontja szerint módosított szöveg.
-[^70]: A 12. § eredeti (9) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (10) bekezdésre változtatta, szövege a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének h) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § f) és j) pontja szerint módosított szöveg.
+[^70]: A 12. § eredeti (9) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (10) bekezdésre változtatta, szövege a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének h) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § f) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
 [^71]: A 12. § eredeti (10) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (11) bekezdésre változtatta, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (3) bekezdésével megállapított, záró szövegrésze a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja és a 254/2009. (XI. 20.) Korm. rendelet 6. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^72]: A 12. § eredeti (11) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (12) bekezdésre változtatta, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (6) bekezdésével megállapított szöveg.
-[^73]: A 12. § eredeti (12) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (13) bekezdésre változtatta, a bekezdést hatályon kívül helyezte a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése.
-[^74]: A 12. § (14) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^75]: A 12. § (15) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be.
-[^76]: A 12. § (16) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 41. § g) pontja szerint módosított szöveg.
+[^72]: A 12. § (11) bekezdés a) pontja a 423/2012. (XII. 29.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
+[^73]: A 12. § eredeti (11) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (12) bekezdésre változtatta, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (6) bekezdésével megállapított szöveg.
+[^74]: A 12. § eredeti (12) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (13) bekezdésre változtatta, a bekezdést hatályon kívül helyezte a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése.
+[^75]: A 12. § (14) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^76]: A 12. § (15) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^77]: A 12. § (16) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 41. § g) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Az érettségi vizsga iratai és záradékai
 
-## I.[^362] Nyomtatványok
+## I.[^372] Nyomtatványok
 
 ## 1. Érettségi bizonyítvány*
 
@@ -10,11 +10,11 @@
 
 ## 4. Jelentkezés érettségi vizsgára
 
-## 5.[^363]
+## 5.[^373]
 
 ## 6. Jegyzőkönyv az írásbeli, szóbeli vizsgáról és a vizsgabizottság üléseiről, illetve a tantárgyi vizsgabizottság üléseiről
 
-## 7.[^364] Tanúsítvány az érettségi vizsgáról*
+## 7.[^374] Tanúsítvány az érettségi vizsgáról*
 
 ## 8. Jelentés a vizsgaeredményekről
 
@@ -28,7 +28,7 @@
 
 ## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához az Oktatási és Kulturális Minisztérium engedélye szükséges.
 
-## II*[^365]
+## II*[^375]
 
 ## Záradékok
 
@@ -64,9 +64,9 @@
 
 ## 16. A vizsgabizottság szükség szerint döntéseihez megfelelő további záradékot alakíthat ki.
 
-2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^366]
+2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^376]
 
-ELSŐ RÉSZ[^367]
+ELSŐ RÉSZ[^377]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
@@ -134,7 +134,7 @@ AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 |  | 21. Belügyi rendészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 22. Katonai alapismeretek | írásbeli | gyakorlati | - | - |
+|  | 22. Katonai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
 |  | 23. Utazás és turizmus | gyakorlati | szóbeli | - | - |
 
@@ -202,7 +202,7 @@ AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 |  | 6. Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^368]
+MÁSODIK RÉSZ[^378]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -2736,10 +2736,10 @@ EMELT SZINT
 
 HITTAN
 
-[^362]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
-[^363]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
-[^364]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^365]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^366]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^367]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 23. § (2) bekezdése alapján a rendelkezést a 2011/2012. tanév május-júniusi vizsgaidőszak vizsgáinak megszervezésekor kell alkalmazni.
-[^368]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a szerint módosított szöveg. E módosító rendelet 23. § (2) bekezdése alapján a rendelkezést a 2011/2012. tanév május-júniusi vizsgaidőszak vizsgáinak megszervezésekor kell alkalmazni.
+[^372]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
+[^373]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^374]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^375]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^376]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^377]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^378]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.

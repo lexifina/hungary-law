@@ -1,8 +1,8 @@
-34. § (1)[^197] A szóbeli vizsga – beleértve a tételhúzást is – reggel nyolc óra előtt nem kezdhető el, és legfeljebb tizennyolc óráig tarthat.
+34. § (1)[^206] A szóbeli vizsga – beleértve a tételhúzást is – reggel nyolc óra előtt nem kezdhető el, és legfeljebb tizennyolc óráig tarthat.
 
 (2) A vizsgázónak legalább harminc perccel korábban meg kell jelennie a vizsga helyszínén, mint amely időpontban az a vizsgacsoport megkezdi a vizsgát, amelybe beosztották.
 
-(3)[^198]
+(3)[^207]
 
-[^197]: A 34. § (1) bekezdése a 16/2000. (II. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^198]: A 34. § (3) bekezdését a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^206]: A 34. § (1) bekezdése a 16/2000. (II. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^207]: A 34. § (3) bekezdését a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
