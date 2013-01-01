@@ -1,6 +1,6 @@
 ## 5. Az egészséges ivóvízzel való ellátás ideiglenes módozatainak ellentételezése
 
-11. § (1) Az egészséges ivóvízzel való ellátás ideiglenes módozatai kiadásainak részbeni ellentételezésére igénybejelentést benyújtani – a (2) bekezdésben foglalt kivétellel – azok az önkormányzatok jogosultak, amelyeket a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi, illetve fővárosi kerületi intézete határozatban kötelezett arra, hogy a településen vagy településrészen az érintett fogyasztók részére az egészséges ivóvizet biztosítsák.
+11. § (1)[^2] Az egészséges ivóvízzel való ellátás ideiglenes módozatai kiadásainak részbeni ellentételezésére igénybejelentést benyújtani – a (2) bekezdésben foglalt kivétellel – azok az önkormányzatok jogosultak, amelyeket a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szerve vagy járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete határozatban kötelezett arra, hogy a településen vagy településrészen az érintett fogyasztók részére az egészséges ivóvizet biztosítsák.
 
 (2) Azok az önkormányzatok, melyek az Ivóvízminőség-javító Programban érintett településeket, településrészeket illetően 2011. évben ideiglenes vízellátási támogatásban nem részesültek, ezen települések, településrészek vonatkozásában nem jogosultak támogatásra az eseti vízszennyezéssel összefüggő igények kivételével.
 
@@ -10,4 +10,7 @@
 
 (5) Az önkormányzat az ellentételezést utólag, a szolgáltató által benyújtott és az önkormányzat által jóváhagyott számlák alapján – az Igazgatóság útján – a minisztertől 2012. június 21-ig és 2012. szeptember 30-ig igényelheti. A határidők elmulasztása jogvesztő.
 
-(6) Az igénybejelentést két eredeti papír alapú példányban, valamint elektronikus úton kell benyújtani az Igazgatósághoz. Az igénybejelentéshez az önkormányzat mellékeli a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szervének vagy kistérségi népegészségügyi, illetve fővárosi, kerületi intézetének jogerős határozatát és a számlák hitelesített másolati példányait, valamint a 4. melléklet szerinti számlaösszesítést tartalmazó kimutatást.
+(6)[^3] Az igénybejelentést két eredeti papír alapú példányban, valamint elektronikus úton kell benyújtani az Igazgatósághoz. Az igénybejelentéshez az önkormányzat mellékeli a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szervének vagy járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetének jogerős határozatát és a számlák hitelesített másolati példányait, valamint a 4. melléklet szerinti számlaösszesítést tartalmazó kimutatást.
+
+[^2]: A 11. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 53. § a) pontja szerint módosított szöveg.
+[^3]: A 11. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 53. § b) pontja szerint módosított szöveg.
