@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt nagyberuházásként lakóépületek és közintézmények, valamint sajátos építményfajták körébe tartozó (közlekedési, hírközlési, közmű- és energiaellátási) építmények | Az Ócsa település külterületén fekvő, az ingatlan-nyilvántartás szerint 0128, 0129/2, 0130, 0131, 0137, 0138, 0140, 0141, 0142, 0105/4, 0105/5, 0105/6, 0106, 0112, 0113/3, 0113/4, 0113/30, 0113/31, 0113/32, 0113/33, 0113/38, 0113/39, 0117/1, 0117/2, 0121/9, 0121/10, 0121/11, 0124/1, 0124/3, 0124/7, 0198/4 helyrajzi számú földrészletek, illetve ezen földrészletekből a telekalakítási eljárások jogerős befejezését követően kialakított földrészletek. | általános építésügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 2. | Kiemelt nagyberuházásként lakóépületek és közintézmények, valamint sajátos építményfajták körébe tartozó (közlekedési, hírközlési, közmű- és energiaellátási) építmények | Az Ócsa település külterületén fekvő, az ingatlan-nyilvántartás szerint 0128, 0129/2, 0130, 0131, 0137, 0138, 0140, 0141, 0142, 0105/4, 0105/5, 0105/6, 0106, 0112, 0113/3, 0113/4, 0113/30, 0113/31, 0113/32, 0113/33, 0113/38, 0113/39, 0117/1, 0117/2, 0121/9, 0121/10, 0121/11, 0124/1, 0124/3, 0124/7, 0198/4 helyrajzi számú földrészletek, illetve ezen földrészletekből a telekalakítási eljárások jogerős befejezését követően kialakított földrészletek. | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -16,7 +16,7 @@
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Dabasi Körzeti Földhivatal | Pest Megyei Kormányhivatal Földhivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | illetékes járási földhivatal | Pest Megyei Kormányhivatal Földhivatala |
 
 | 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -48,7 +48,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 5. | földművelésügy |
 
-| a) termőföldvédelem | Dabasi Körzeti Földhivatala | Pest Megyei Kormányhivatal Földhivatala |
+| a) termőföldvédelem | illetékes járási földhivatal | Pest Megyei Kormányhivatal Földhivatala |
 
 | b) talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -66,4 +66,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 ”
 
-[^8]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 63. §-a, a 166/2012. (VII. 19.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^8]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 63. §-a, a 166/2012. (VII. 19.) Korm. rendelet 7. § (3) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
