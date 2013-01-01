@@ -1,6 +1,6 @@
 ## Fejlesztési pályázat
 
-9. § (1)[^58] Az általános pályázat elbírálását követően ellátatlanul vagy részben ellátatlanul maradt területek ellátása, illetve kapacitásbővítés érdekében fejlesztési pályázat is kiírható. A fejlesztési pályázat keretében a működési támogatáson túl a Hivatal fejlesztési támogatást is nyújt.
+9. § (1)[^59] Az általános pályázat elbírálását követően ellátatlanul vagy részben ellátatlanul maradt területek ellátása, illetve kapacitásbővítés érdekében fejlesztési pályázat is kiírható. A fejlesztési pályázat keretében a működési támogatáson túl a Hivatal fejlesztési támogatást is nyújt.
 
 (2) A fejlesztési pályázat a 4. § (4) bekezdése szerinti nyílt pályázatként vagy meghívásos pályázatként írható ki.
 
@@ -8,7 +8,7 @@
 
 (4) A fejlesztési pályázatra egyebekben a 4–8. § szabályait kell megfelelően alkalmazni azzal, hogy a pályázati kiírásnak tartalmaznia kell a fejlesztési támogatás elnyerésének és felhasználásának feltételeit, a pályázaton elnyerhető fejlesztési támogatás legmagasabb összegét, továbbá a fejlesztési támogatással való elszámolás és az ellenőrzés szabályait.
 
-(5)[^59] A fejlesztési pályázaton nyertes fenntartóval a Hivatal a fejlesztési támogatásról támogatási szerződést köt. A támogatási szerződés megkötésére, módosítására és megszüntetésére, a fejlesztési támogatás folyósítására, az elszámolásra és az ellenőrzésre a miniszter felügyelete alá tartozó fejezeti kezelésű előirányzatok felhasználásáról szóló miniszteri rendeletben foglaltakat kell alkalmazni.
+(5)[^60] A fejlesztési pályázaton nyertes fenntartóval a Hivatal a fejlesztési támogatásról támogatási szerződést köt. A támogatási szerződés megkötésére, módosítására és megszüntetésére, a fejlesztési támogatás folyósítására, az elszámolásra és az ellenőrzésre a miniszter felügyelete alá tartozó fejezeti kezelésű előirányzatok felhasználásáról szóló miniszteri rendeletben foglaltakat kell alkalmazni.
 
-[^58]: A 9. § (1) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § l) pontja szerint módosított szöveg.
-[^59]: A 9. § (5) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^59]: A 9. § (1) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § l) pontja szerint módosított szöveg.
+[^60]: A 9. § (5) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
