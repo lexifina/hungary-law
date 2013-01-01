@@ -1,3 +1,0 @@
-77. § (1) A lakás-takarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltp.) – e törvény 80. §-ának (2) bekezdésével megállapított – 21. §-ának (2) bekezdése az e törvény – 74. §-ának (1) bekezdése szerinti – hatálybalépését követően kötött lakás-előtakarékossági szerződésekre kell alkalmazni.
-
-(2) Az Ltp. – e törvény 80. §-a (4) bekezdésével megállapított – 24. §-ának (5) bekezdését az e törvény – 74. §-ának (1) bekezdése szerinti – hatálybalépését megelőzően kötött lakás-előtakarékossági szerződésekre is alkalmazni kell az e törvény – 74. §-ának (1) bekezdése szerinti – hatálybalépésekor folyamatban lévő vagy ezt követően indított igényérvényesítések és megkeresések esetében.
