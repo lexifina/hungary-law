@@ -2,10 +2,10 @@
 
 ## VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
-44. §[^257] (1) Az e rendeletből eredő valamennyi polgári jogi jogviszonyban a Magyar Államot a Kincstár képviseli, a VIII. fejezet kivételével. A VIII. fejezettel kapcsolatos polgári jogviszonyban a Magyar Államot a miniszter képviseli.
+44. §[^279] (1) Az e rendeletből eredő valamennyi polgári jogi jogviszonyban a Magyar Államot a Kincstár képviseli, a VIII. fejezet kivételével. A VIII. fejezettel kapcsolatos polgári jogviszonyban a Magyar Államot a miniszter képviseli.
 
-(2)[^258] A Kincstár, valamint az önkormányzat jegyzőjének az e rendeletben szabályozott hatósági eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvényt[^259] kell alkalmazni. Nem minősül hatósági eljárásnak a 18. § (8) bekezdésében szabályozott ellenőrzés.
+(2)[^280] A Kincstár, valamint az önkormányzat jegyzőjének az e rendeletben szabályozott hatósági eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvényt[^281] kell alkalmazni. Nem minősül hatósági eljárásnak a 18. § (8) bekezdésében szabályozott ellenőrzés.
 
-[^257]: A 44. § a 391/2007. (XII. 23.) Korm. rendelet 28. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2008. január 1-jét követően benyújtott kérelmekre kell alkalmazni.
-[^258]: A 44. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 221. §-a szerint módosított szöveg.
-[^259]: Lásd a 2004: CXL. törvényt.
+[^279]: A 44. § a 391/2007. (XII. 23.) Korm. rendelet 28. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2008. január 1-jét követően benyújtott kérelmekre kell alkalmazni.
+[^280]: A 44. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 221. §-a szerint módosított szöveg.
+[^281]: Lásd a 2004: CXL. törvényt.

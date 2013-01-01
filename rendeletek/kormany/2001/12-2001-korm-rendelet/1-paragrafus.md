@@ -64,7 +64,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 12.[^16] komfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 2. melléklet 3. pontjában meghatározott lakás.
 
-13.[^17] munkaképesség-csökkenést, illetve egészségkárosodást szenvedett személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett.
+13.[^17] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket;
 
 14.[^18] mozgáskorlátozott személy: a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet [a továbbiakban: 141/2000. (VIII. 9.) Korm. rendelet] 1. § (5) bekezdésében meghatározott mozgásszervi fogyatékosnak vagy a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet [a továbbiakban: 102/2011. (VI. 29.) Korm. rendelet] 2. § a) pontjában meghatározott súlyos mozgáskorlátozott személynek minősülő személy;
 
@@ -92,7 +92,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 [^14]: Az 1. § (4) bekezdésének 10. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
 [^15]: Az 1. § (4) bekezdésének 11. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^16]: Az 1. § (4) bekezdésének 12. pontját a 155/2005. (VIII. 11.) Korm. rendelet 1. §-ának (1) bekezdése iktatta be, e módosító rendelet 5. §-ának (1) bekezdése alapján a rendelkezést a 2005. augusztus 16. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
-[^17]: Az 1. § (4) bekezdés 13. pontját a 125/2009. (VI. 15.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 12. § (2) bekezdése alapján a rendelkezést a 2009. július 1-jét megelőzően benyújtott támogatási kérelmekre, illetve folyósított támogatásokra is alkalmazni kell.
+[^17]: Az 1. § (4) bekezdés 13. pontját a 125/2009. (VI. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^18]: Az 1. § (4) bekezdés 14. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 102/2011. (VI. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^19]: Az 1. § (4) bekezdés 15. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^20]: Az 1. § (4) bekezdés 16. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 257/2011. (XII. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

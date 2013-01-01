@@ -30,15 +30,14 @@ c)[^27] a lakás több mint két éve öröklés vagy ajándékozás jogcímén 
 
 d)[^28]
 
-(5)[^29] A közvetlen támogatás igénybevételéhez a nem magyar állampolgár igénylő köteles:
+(5)[^29] A közvetlen támogatás igénybevételéhez – a menekült, az oltalmazott, valamint a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy kivételével – a nem magyar állampolgár igénylő köteles származási országának ingatlan-nyilvántartásért felelős szerve által kiállított – az ország egész közigazgatási területére, tagállamok esetén a tagállam, szövetségi államok esetén a szövetségi állam közigazgatási területére vonatkozó – hivatalos iratot és annak hiteles magyar nyelvű fordítását bemutatni a hitelintézetnek, amellyel igazolja, hogy saját magának, házastársának, élettársának, bejegyzett élettársának, gyermekének és az együttköltöző családtagjának származási országában lakástulajdona nincs.
 
-a) a származási országának ingatlan-nyilvántartásért felelős országos hatáskörű szerve által kiállított – az ország egész közigazgatási területére, tagállamok esetén a támogatott személy lakóhelye szerinti tagállam, szövetségi államok esetén a támogatott személy lakóhelye szerinti szövetségi állam közigazgatási területére vonatkozó – hivatalos iratot és annak hiteles magyar nyelvű fordítását bemutatni a hitelintézetnek, amellyel igazolja, hogy saját magának, házastársának, élettársának, bejegyzett élettársának, gyermekének és az együttköltöző családtag(ok)nak származási országában a (2)–(3) bekezdés szerinti lakástulajdona nincs, valamint
-
-b) büntetőjogi felelőssége mellett írásban nyilatkozni arról, hogy a közvetlen támogatással építeni, vásárolni vagy bővíteni kívánt lakásban életvitelszerűen kíván tartózkodni.
+(6)[^30] A közvetlen támogatás igénybevételéhez – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy kivételével – a nem magyar állampolgár igénylő köteles teljes bizonyító erejű magánokiratba foglaltan nyilatkozni arról, hogy a közvetlen támogatással építeni, vásárolni vagy bővíteni kívánt lakásban életvitelszerűen kíván tartózkodni.
 
 [^24]: A 2. § (1) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^25]: A 2. § (2) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni. A (2) bekezdés „ , vagy arról érvényesen írásban lemondott és a bérbeadó azt írásban elfogadta” szövegrészét az Alkotmánybíróság a 36/2009. (III. 27.) AB határozatával megsemmisítette 2009. március 27. napjával.
 [^26]: A 2. § (3) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^27]: A 2. § (4) bekezdésének c) pontja a 3/2005. (I. 12.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
 [^28]: A 2. § (4) bekezdésének d) pontját a 3/2005. (I. 12.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
-[^29]: A 2. § (5) bekezdése a 257/2011. (XII. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^29]: A 2. § (5) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^30]: A 2. § (6) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
