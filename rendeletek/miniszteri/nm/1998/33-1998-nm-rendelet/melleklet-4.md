@@ -160,6 +160,6 @@
 
 | 100 dBAeq zajexpozíció felett | évenként | halláspanasz esetén soron kívül |
 
-4. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^72]
+4. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^82]
 
-[^72]: A 4. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^82]: A 4. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.

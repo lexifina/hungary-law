@@ -120,6 +120,6 @@
 
 | A megfelelő négyzetbe X-et kell tenni! |  |
 
-16/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^79]
+16/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^90]
 
-[^79]: A 16/A. számú mellékletet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdése iktatta be, szövege a 3/2010. (VII. 30.) NGM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^90]: A 16/A. számú mellékletet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdése iktatta be, hatályon kívül helyezte a 41/2012. (XII. 20.) NGM rendelet 13. §-a.

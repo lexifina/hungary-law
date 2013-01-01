@@ -1,33 +1,27 @@
 ## Foglalkozás-egészségügyi szakellátó hely megnevezése:
 
-## ............................
+## Szakmai alkalmassági orvosi vélemény
 
-## Munkaköri/szakmai* orvosi alkalmassági vélemény
+## A vizsgálat eredménye alapján ............................................................................................................................................. ügyfél
 
-## A vizsgálat eredménye alapján ................ ügyfél
+## ................................................................................................ szakmában
 
-## .................. munkakörben/szakmában*
+| ALKALMAS | IDEIGLENESEN NEM ALKALMAS | NEM ALKALMAS |
 
-## ALKALMAS, IDEIGLENESEN NEM ALKALMAS, NEM ALKALMAS*
+## Nevezett szakmai alkalmasságát érintő korlátozás:
 
-## Nevezett munkaköri/szakmai* alkalmasságát érintő korlátozás:
+## Ideiglenesen nem alkalmas minősítés esetén a legközelebbi vizsgálat .... hét múlva
 
-## Ideiglenesen nem alkalmas minősítés esetén a legközelebbi vizsgálat ... hét múlva
-
-## Kelt: .......................
+## Kelt: ............................................................
 
 ## P. H.
 
-## ........................
+## .........................................................
 
 ## foglalkozás-egészségügyi
 
 ## szakellátó hely orvosa
 
-## _______
+15/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^88]
 
-## * A megfelelő szöveget alá kell húzni.
-
-15/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^77]
-
-[^77]: A 15/A. számú mellékletet a 80/2003. (XII. 23.) ESZCSM rendelet 8. §-a iktatta a szövegbe.
+[^88]: A 15/A. számú mellékletet a 80/2003. (XII. 23.) ESZCSM rendelet 8. §-a iktatta a szövegbe.

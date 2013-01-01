@@ -10,7 +10,7 @@ c) személyi higiénés alkalmassági vizsgálat: annak megállapítása, hogy a
 
 d) munkát végző személy: aki nem szervezett munkavégzés keretében járványügyi szempontból kiemelt munkaterületen tevékenységet folytat;
 
-e) szakképző intézmény: a szakképzésről szóló 1993. évi LXXVI. 2. §-a szerinti intézmény;
+e)[^1] szakképző intézmény: a szakképzésről szóló 2011. évi CLXXXVII. törvény 4. § (1) bekezdése szerinti intézmény;
 
 f) tanuló: minden szakmunkás-, szakközépiskolai, szakiskolai és speciális szakiskolai, illetve egyéb szakmai jellegű képzésben és átképzésben részesülő személy;
 
@@ -22,20 +22,23 @@ i) expozíció: a munkahelyen jelenlévő és a munkavállalót érő kóroki t�
 
 j) biológiai monitorozás: biológiai anyagból (vér, vizelet) a munkakörnyezetben előforduló anyagok vagy metabolitjaiknak, illetőleg hatásuknak rendszeres mennyiségi meghatározása és regisztrálása;
 
-k) munkaügyi központ: megyei (fővárosi) munkaügyi központ és kirendeltségei;
+k)[^2] munkaügyi központ: a fővárosi és megyei kormányhivatal munkaügyi feladatokat ellátó szakigazgatási szerve;
 
-l)[^1] foglalkoztathatóság szakvéleményezése: annak megállapítása, hogy a vizsgált személy megváltozott munkaképessége mennyiben befolyásolja a munkavégzését különböző foglalkozásokban, vagy az egyszerűsített foglalkoztatás körébe tartozó idénymunka és alkalmi munka esetében annak megállapítása, hogy a munkavállaló mely foglalkoztatási korlátozás mellett folytathat tevékenységet;
+l)[^3] foglalkoztathatóság szakvéleményezése: annak megállapítása, hogy az álláskereső vizsgált személy megváltozott munkaképessége mennyiben befolyásolja a munkavégzést különböző foglalkozásokban, vagy annak megállapítása, hogy az egyszerűsített foglalkoztatás körébe tartozó idénymunka és alkalmi munka, továbbá a közfoglalkoztatás esetében a munkavállaló mely foglalkoztatási korlátozás mellett folytathat tevékenységet;
 
-m) munkaviszony: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény hatálya alá tartozó munkavégzésre irányuló jogviszony;
+m)[^4] munkaviszony: a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó munkavégzésre irányuló jogviszony;
 
-n)[^2] idősödő: az egyénre irányadó nyugdíjkorhatárt betöltött személy;
+n)[^5] idősödő: az egyénre irányadó nyugdíjkorhatárt betöltött személy;
 
 o) sérülékeny csoportok: fiatalkorúak, továbbá terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, valamint idősödők;
 
 p) nemrégen szült nő: aki legfeljebb hat héttel korábban szült, de gyermekét nem neveli, számára anyatejet nem ad.
 
-q)[^3]
+q)[^6] munkaügyi kirendeltség: a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal munkaügyi kirendeltsége.
 
-[^1]: Az 1. § l) pontja a 8/2010. (III. 31.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § n)-q) pontját a 27/2000. (IX. 30.) EüM rendelet 1. §-a iktatta a szövegbe.
-[^3]: Az 1. § q) pontot a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte.
+[^1]: Az 1. § e) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § k) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
+[^3]: Az 1. § l) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
+[^4]: Az 1. § m) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
+[^5]: Az 1. § n)-q) pontját a 27/2000. (IX. 30.) EüM rendelet 1. §-a iktatta a szövegbe.
+[^6]: Az 1. § q) pontot a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte, újonnan a 41/2012. (XII. 20.) NGM rendelet 3. §-a iktatta be.
