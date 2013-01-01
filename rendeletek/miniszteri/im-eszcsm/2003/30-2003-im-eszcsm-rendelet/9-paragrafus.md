@@ -2,13 +2,13 @@
 
 (2) Az Egészségügyi Főosztály
 
-a) helyszíni vizsgálatokkal, bv. intézeti bejárásokkal, terv és műszaki tárgyalásokon történő részvétellel, az írott és elektronikus – egészségügyi tárgyú – dokumentumokba való betekintéssel, jelentések bekérésével ellenőrzi a 3–7. §-ban foglalt közegészségügyi követelmények, különösen a fogvatartásra vonatkozó sajátos normák és a Szolgálat ellenőrzéséről készült jegyzőkönyvben foglalt előírások betartását;
+a)[^7] helyszíni vizsgálatokkal, bv. intézeti bejárásokkal, terv és műszaki tárgyalásokon történő részvétellel, az írott és elektronikus – egészségügyi tárgyú – dokumentumokba való betekintéssel, jelentések bekérésével ellenőrzi a 3–7. §-ban foglalt közegészségügyi követelmények, különösen a fogvatartásra vonatkozó sajátos normák és a megyei népegészségügyi szakigazgatási szerv ellenőrzéséről készült jegyzőkönyvben foglalt előírások betartását;
 
 b) részt vesz a büntetés-végrehajtási szervezet szakmai ellenőrzéseiről szóló jogszabályok és intézkedések által elrendelt vizsgálatokban;
 
-c) a Szolgálat megállapításait is figyelembe véve, az ellenőrzések adatait is felhasználva, összesített országos értékelő jelentést készít a bv. szervek közegészségügyi helyzetéről;
+c)[^8] a megyei népegészségügyi szakigazgatási szerv megállapításait is figyelembe véve, az ellenőrzések adatait is felhasználva, összesített országos értékelő jelentést készít a bv. szervek közegészségügyi helyzetéről;
 
-d) a Szolgálat észrevételeire is figyelemmel részt vesz a bv. szervek fejlesztési, beruházási terveinek elkészítésében;
+d)[^9] a megyei népegészségügyi szakigazgatási szerv észrevételeire is figyelemmel részt vesz a bv. szervek fejlesztési, beruházási terveinek elkészítésében;
 
 e) rendszeresen tájékoztatja a büntetés-végrehajtás vezetését a közegészségügyi helyzetről;
 
@@ -18,16 +18,24 @@ g) szervezi és irányítja a 7. §-ban foglalt egészségfejlesztési feladatok
 
 (3) Az Egészségügyi Főosztály közegészségügyi feladatokat ellátó tagját a bv. szervekre vonatkozó közegészségügyi követelmények betartásának ellenőrzése során a következő jogosultságok illetik meg:
 
-a) ellenőrzés céljából a bv. szervek területére, bármely emberi tartózkodásra szolgáló helyre beléphet, és az (1) bekezdésében foglalt tevékenység során intézkedhet. A Szolgálat hatáskörébe tartozó esetben az észlelt hiányosságokról a Szolgálat illetékes intézetét értesíti;
+a)[^10] ellenőrzés céljából a bv. szervek területére, bármely emberi tartózkodásra szolgáló helyre beléphet, és az (1) bekezdésében foglalt tevékenység során intézkedhet. A megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó esetben az észlelt hiányosságokról a megyei népegészségügyi szakigazgatási szerv illetékes intézetét értesíti;
 
 b) az ellenőrzés megállapításait jegyzőkönyvben rögzíti, amely tartalmazza a hiányosságok megszüntetéséért felelős személy nyilatkozatát és az ellenőrzött bv. szerv vezetőjének aláírását. A jegyzőkönyv egy példányát a bv. szerv vezetőjének átadja;
 
-c) a közegészségügyi szabálytalanságok megszüntetéséig az üzem vagy üzemrész (intézmény, létesítmény stb.) működésének, az egészségre ártalmas és veszélyes termelésnek, tevékenységnek a korlátozását vagy felfüggesztését kezdeményezheti – a Szolgálat intézkedéséig – a bv. szerv vezetőjénél, ha a szabálytalanságok fennállása egészségkárosodást okozhat;
+c)[^11] a közegészségügyi szabálytalanságok megszüntetéséig az üzem vagy üzemrész (intézmény, létesítmény stb.) működésének, az egészségre ártalmas és veszélyes termelésnek, tevékenységnek a korlátozását vagy felfüggesztését kezdeményezheti – a megyei népegészségügyi szakigazgatási szerv intézkedéséig – a bv. szerv vezetőjénél, ha a szabálytalanságok fennállása egészségkárosodást okozhat;
 
-d) súlyos vagy tömeges egészségkárosodás megelőzése érdekében – a Szolgálat intézkedéséig – az egészségre ártalmas tárgyak és anyagok használatának megtiltását, szükség esetén azok megsemmisítését kezdeményezheti a bv. szerv vezetőjénél;
+d)[^12] súlyos vagy tömeges egészségkárosodás megelőzése érdekében – a megyei népegészségügyi szakigazgatási szerv intézkedéséig – az egészségre ártalmas tárgyak és anyagok használatának megtiltását, szükség esetén azok megsemmisítését kezdeményezheti a bv. szerv vezetőjénél;
 
 e) megteszi mindazokat az intézkedéseket, amelyeket a közegészségügyi ártalmak, a fertőző betegségek, illetőleg egészségromlás megelőzésére és leküzdésére jogszabály elrendel.
 
 (4) Az Egészségügyi Főosztály közegészségügyi feladatot ellátó tagja fegyelmi vétséget megvalósító magatartás, szabálysértés, illetve bűncselekmény észlelése esetén külön jogszabályban foglaltak szerint jár el.
 
-(5) Az Egészségügyi Főosztály a (3) bekezdés c) és d) pontjában meghatározott esetekben – az ellenőrzési jegyzőkönyv megküldésével – haladéktalanul kéri a Szolgálat intézkedését.
+(5)[^13] Az Egészségügyi Főosztály a (3) bekezdés c) és d) pontjában meghatározott esetekben – az ellenőrzési jegyzőkönyv megküldésével – haladéktalanul kéri a megyei népegészségügyi szakigazgatási szerv intézkedését.
+
+[^7]: A 9. § (2) bekezdés a) pontja a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 9. § (2) bekezdés c) pontja a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^9]: A 9. § (2) bekezdés d) pontja a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^10]: A 9. § (3) bekezdés a) pontja a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
+[^11]: A 9. § (3) bekezdés c) pontja a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 9. § (3) bekezdés d) pontja a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 9. § (5) bekezdése a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.

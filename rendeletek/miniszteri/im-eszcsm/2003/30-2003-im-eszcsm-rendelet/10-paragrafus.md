@@ -8,4 +8,6 @@ c) a fogvatartottak tisztálkodási lehetőségét, tisztasági szerekkel ellát
 
 d) a munkahelyek egészségre és testi épségre gyakorolt hatását.
 
-(2) A bv. intézet orvosa súlyos vagy tömeges egészségkárosodás megelőzése érdekében – a Szolgálat és az Egészségügyi Főosztály egyidejű tájékoztatása mellett – közvetlenül intézkedik.
+(2)[^14] A bv. intézet orvosa súlyos vagy tömeges egészségkárosodás megelőzése érdekében – a megyei népegészségügyi szakigazgatási szerv és az Egészségügyi Főosztály egyidejű tájékoztatása mellett – közvetlenül intézkedik.
+
+[^14]: A 10. § (2) bekezdése a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
