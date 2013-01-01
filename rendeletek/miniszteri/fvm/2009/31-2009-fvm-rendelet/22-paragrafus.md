@@ -6,11 +6,11 @@ b) a mezőgazdaság területén elfogadott egyes irányelveknek (állat- és nö
 
 c) a 64/432/EGK, a 90/539/EGK, a 92/35/EGK, a 92/119/EGK, a 93/53/EGK, a 95/70/EK, a 2000/75/EK, a 2001/89/EK, a 2002/60/EK tanácsi irányelvnek és a 2001/618/EK és a 2004/233/EK határozatnak a nemzeti referencialaboratóriumok és az állami intézetek jegyzékei tekintetében történő módosításáról szóló, 2007. november 7-i 2007/729/EK bizottsági határozatnak,
 
-d)[^43] 2012/5/EU európai parlamenti és tanácsi irányelvnek
+d)[^54] 2012/5/EU európai parlamenti és tanácsi irányelvnek
 
 ## való megfelelést szolgálja.
 
-(2)[^44] Ez a rendelet a betegségre fogékony fajokhoz tartozó egyes állatok szállításának ellenőrzése, megfigyelése, felügyelete és korlátozása tekintetében a 2000/75/EK tanácsi irányelv végrehajtási szabályairól szóló, 2007. október 26-i 1266/2007/EK bizottsági rendelet, valamint az azt módosító 1304/2008/EK, 1108/2008/EK rendelet, 456/2012/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(2)[^55] Ez a rendelet a betegségre fogékony fajokhoz tartozó egyes állatok szállításának ellenőrzése, megfigyelése, felügyelete és korlátozása tekintetében a 2000/75/EK tanácsi irányelv végrehajtási szabályairól szóló, 2007. október 26-i 1266/2007/EK bizottsági rendelet, valamint az azt módosító 1304/2008/EK, 1108/2008/EK rendelet, 456/2012/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^43]: A 22. § (1) bekezdés d) pontját a 117/2012. (XI. 21.) VM rendelet 7. § (1) bekezdése iktatta be.
-[^44]: A 22. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^54]: A 22. § (1) bekezdés d) pontját a 117/2012. (XI. 21.) VM rendelet 7. § (1) bekezdése iktatta be.
+[^55]: A 22. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.

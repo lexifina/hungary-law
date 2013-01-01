@@ -4,9 +4,9 @@
 
 (2) Az azonos korlátozás alá vont körzeten belüli, illetve körzeten át történő szállításhoz a hatósági állatorvosnak igazolnia kell a szállítási dokumentumokon az 1266/2007/EK rendelet által előírt feltételek teljesülését.
 
-(3)[^6] A NÉBIH a korlátozás alatt álló területeken – a járványügyi helyzet mérlegelése alapján – megtilthatja a fogékony állatfajok bevitelét állatvásár, állatpiac, állatkiállítás területére.
+(3)[^7] A NÉBIH a korlátozás alatt álló területeken – a járványügyi helyzet mérlegelése alapján – megtilthatja a fogékony állatfajok bevitelét állatvásár, állatpiac, állatkiállítás területére.
 
-(4)[^7] A megfigyelési körzetben a kéknyelv betegség ellen tilos élő attenuált vakcinát használni.
+(4)[^8] A megfigyelési körzetben a kéknyelv betegség ellen tilos élő attenuált vakcinát használni.
 
-[^6]: A 6. § (3) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
-[^7]: A 6. § (4) bekezdése a 117/2012. (XI. 21.) VM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 6. § (3) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
+[^8]: A 6. § (4) bekezdése a 117/2012. (XI. 21.) VM rendelet 2. §-ával megállapított szöveg.

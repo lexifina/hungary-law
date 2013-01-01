@@ -8,7 +8,7 @@ a) a helyszínre kiszállni;
 
 b) a betegség gyanújának megállapítása esetén megfigyelési zárlatot elrendelni, és intézkedni a betegség megállapítására irányuló mintavételről;
 
-c) a betegség gyanújáról haladéktalanul jelentést tenni a kerületi főállatorvosnak;
+c)[^10] a betegség gyanújáról haladéktalanul jelentést tenni a járási főállatorvosnak;
 
 d) ellenőrizni a megfigyelési zárlat 5. § (1) bekezdésben felsorolt szabályainak betartását;
 
@@ -34,9 +34,9 @@ g) a megfigyelés alá helyezett állatokat rendszeresen megvizsgálni;
 
 h) a hatósági megfigyelés időtartama alatt bekövetkezett elhullás esetén annak okát felderíteni, a betegség megállapításához szükséges vizsgálatokat elvégezni, és vizsgálati anyagot küldeni a Nemzeti Referencia Laboratóriumba (továbbiakban: NRL);
 
-i) elhullott állat hiányában a betegségre gyanús állat (több ilyen állat közül a betegségre legjellemzőbb tüneteket mutató állat) diagnosztikai célú leölésének elrendelésére a kerületi főállatorvosnak javaslatot tenni, illetve a leölés helyett vagy azon kívül a betegségre gyanús állatokból a készenléti tervben meghatározott vizsgálati mintát az NRL-be elküldeni.
+i)[^11] elhullott állat hiányában a betegségre gyanús állat (több ilyen állat közül a betegségre legjellemzőbb tüneteket mutató állat) diagnosztikai célú leölésének elrendelésére a járási főállatorvosnak javaslatot tenni, illetve a leölés helyett vagy azon kívül a betegségre gyanús állatokból a készenléti tervben meghatározott vizsgálati mintát az NRL-be elküldeni.
 
-(2) A megfigyelési zárlatnál alkalmazandó intézkedéseket a hatósági állatorvos addig nem függesztheti fel, amíg a kerületi főállatorvos ki nem zárja a kéknyelv betegség gyanúját.
+(2)[^12] A megfigyelési zárlatnál alkalmazandó intézkedéseket a hatósági állatorvos addig nem függesztheti fel, amíg a járási főállatorvos ki nem zárja a kéknyelv betegség gyanúját.
 
 (3) A kéknyelv betegség hatósági megállapítása esetén a hatósági állatorvos:
 
@@ -44,7 +44,7 @@ a) helyi zárlat alá helyezi az adott gazdaságot (illetve állattartó hely, v
 
 b) nyilvántartást készít a helyi zárlat alá helyezett állományról;
 
-c) gondoskodik az állatok leöléséről vagy elkülönített vágásáról a kerületi főállatorvos határozatának megfelelően;
+c)[^13] gondoskodik az állatok leöléséről vagy elkülönített vágásáról a járási főállatorvos határozatának megfelelően;
 
 d) elrendeli az állatok tetemének ártalmatlanítását;
 
@@ -68,6 +68,10 @@ f) az állati tetemek ártalmatlanítása.
 
 (5) A hatósági állatorvos intézkedik a korlátozás alá vont területről érkezett, karanténba helyezett állatokból a betegség megállapítására irányuló mintavételről és a minták NRL-be küldéséről.
 
-(6)[^9] A hatósági állatorvos az 1266/2007/EK rendelet II. melléklet 1. pontjában meghatározott kórokozó-átvivőtől védett létesítményekben, ugyanezen melléklet 2. pontjának megfelelően rendszeresen ellenőrzi a végrehajtott intézkedések eredményességét.
+(6)[^14] A hatósági állatorvos az 1266/2007/EK rendelet II. melléklet 1. pontjában meghatározott kórokozó-átvivőtől védett létesítményekben, ugyanezen melléklet 2. pontjának megfelelően rendszeresen ellenőrzi a végrehajtott intézkedések eredményességét.
 
-[^9]: A 9. § (6) bekezdését a 117/2012. (XI. 21.) VM rendelet 3. §-a iktatta be.
+[^10]: A 9. § (1) bekezdés c) pontja a 117/2012. (XI. 21.) VM rendelet 9. §-a szerint módosított szöveg.
+[^11]: A 9. § (1) bekezdés i) pontja a 117/2012. (XI. 21.) VM rendelet 9. §-a szerint módosított szöveg.
+[^12]: A 9. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 9. §-a szerint módosított szöveg.
+[^13]: A 9. § (3) bekezdés c) pontja a 117/2012. (XI. 21.) VM rendelet 9. §-a szerint módosított szöveg.
+[^14]: A 9. § (6) bekezdését a 117/2012. (XI. 21.) VM rendelet 3. §-a iktatta be.
