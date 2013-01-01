@@ -1,6 +1,6 @@
 2. § (1) E törvény hatálya kiterjed
 
-a) az előadó-művészeti szervezetekre,
+a) az előadó-művészeti szervezetekre és az előadó-művészeti szakmai érdek-képviseleti szervezetekre,
 
 b) az előadó-művészeti szervezetek fenntartóira,
 

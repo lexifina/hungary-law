@@ -1,11 +1,19 @@
-15. § (1) E törvény alapján kizárólag az Európai Bizottság N 357/2007. számú, a miniszter által vezetett minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
+15. § (1) E törvény alapján központi költségvetési támogatás kizárólag az Európai Bizottságnak a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetébe sorolt fejezeti kezelésű előirányzatból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott SA.34770 (2012/N-2) számú határozatával összhangban nyújtható.
 
-(2) E fejezet szerinti központi költségvetési támogatást a költségvetési szervként vagy a külön törvény szerint közhasznúvá minősített szervezetként működő előadó-művészeti szervezet támogatására a fenntartó, ennek hiányában az előadó-művészeti szervezet kaphat.
+(2) A központi költségvetés támogatást biztosít
 
-(3) A támogatás feltétele – a (4) bekezdésben foglalt kivétellel – az előadó-művészeti államigazgatási szerv által történő nyilvántartásba vétel.
+a) nemzeti előadó-művészeti szervezet és a kiemelt előadó-művészeti szervezet fenntartója,
+
+b) az a) pont szerinti szervezettel közszolgáltatási szerződést kötött önkormányzat, vagy
+
+c) ha az előadó-művészeti szervezetnek nincs fenntartója és nem rendelkezik közszolgáltatási szerződéssel, pályázati úton az előadó-művészeti szervezet
+
+részére.
+
+(3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – az előadó-művészeti államigazgatási szerv által történő nyilvántartásba vétel.
 
 (4) A 21. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
 
-(5) Az államháztartás bármely alrendszeréből származó támogatások együttesen nem haladhatják meg az elszámolható költségeket. Az elszámolható költségek körébe a miniszter által rendeletben meghatározott, az e törvény szerinti támogatási célok megvalósítása során felmerült, igazolt közvetlen és közvetett költségek tartoznak.
+(5) E Fejezet 2. Címét és 3. Címét az állami fenntartású előadó-művészeti szervezetekre nem lehet alkalmazni.
 
-(6) A központi költségvetési támogatásra vonatkozó adatok az előadó-művészeti államigazgatási szerv honlapján bárki számára hozzáférhetőek.
+(6)

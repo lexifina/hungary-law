@@ -1,4 +1,4 @@
-20. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zenekar, énekkar fenntartóját külön a zenekarra és külön az énekkarra
+20. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zenekar, énekkar esetén a 15. § (2) bekezdése szerinti jogosultat külön a zenekarra és külön az énekkarra
 
 a) a zenekar, énekkar létszáma,
 
@@ -18,9 +18,9 @@ alapján e szempontokra figyelemmel megállapított központi költségvetési t
 
 (2) Az (1) bekezdés szerinti zenekar, énekkar létszámának megállapításához a tárgyévet megelőző évben az előadó-művészeti szervezetnél teljes munkaidőben foglalkoztatott munkavállaló vehető figyelembe. Művészi munkakörben, részmunkaidőben foglalkoztatott munkavállalót a részmunkaidő arányában kell figyelembe venni.
 
-(3) Nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek nem minősülő zenekar, énekkar támogatása pályázati úton történik. A pályázatokról történő döntés megalapozásához a miniszter az érintett bizottság javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésre a szakmai kuratórium a zenekarokra és énekkarokra jogszabályban meghatározott minőségbiztosítási szempontrendszer szerinti értékelésen alapuló előterjesztése alapján az érintett bizottság tesz javaslatot. A javaslattól eltérő döntését a miniszter köteles megindokolni.
+(3) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek nem minősülő zenekar, énekkar szakmai programmegvalósításának és működésének támogatására a 19. §-t kell alkalmazni.
 
-(4) A (3) bekezdés szerinti zenekar, énekkar tárgyévi támogatási keretösszegének feléig a szakmai kuratórium javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
+(4)
 
 4. CÍM
 

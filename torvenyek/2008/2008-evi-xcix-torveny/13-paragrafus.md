@@ -23,3 +23,5 @@ i) a közszolgáltatási szerződés módosításának, felmondásának feltéte
 j) a közszolgáltatási szerződésben meghatározott kötelezettségek megszegése esetére vonatkozó jogkövetkezményeket (így különösen a kötbérfizetési kötelezettséget), valamint a közszolgáltatási szerződés teljesítésével kapcsolatos esetleges jogviták rendezésének módját és
 
 k) az előadó-művészeti közszolgáltatás megkezdésének időpontját és a szerződés időbeli hatályát.
+
+(3) Az állam és az önkormányzati fenntartású előadó-művészeti szervezet közötti közszolgáltatási szerződés megkötéséhez a fenntartó önkormányzat előzetes egyetértése szükséges. Az önkormányzat és az állami fenntartású előadó-művészeti szervezet közötti közszolgáltatási szerződés megkötéséhez az állami fenntartó előzetes egyetértése szükséges.

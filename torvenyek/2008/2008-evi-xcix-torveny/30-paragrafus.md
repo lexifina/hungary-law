@@ -18,4 +18,4 @@ c) húsz éves jogviszonya után tizenkét havi
 
 (6)
 
-(7) A Kjt. 40. § (1) bekezdésétől eltérően – a magasabb vezető és vezető munkakör, illetve beosztás kivételével – azokban az esetekben, ahol a Kjt. minősítési kötelezettséget ír elő a munkáltató számára, a művészi és egyéb művészeti munkakört betöltő közalkalmazottat nem kell minősíteni, ha Kossuth-díjjal, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díjjal vagy a kultúráért felelős miniszter által jogszabály alapján adományozható művészeti díjjal rendelkezik.
+(7) A Kjt. 40. § (1) bekezdésétől eltérően – a magasabb vezető és vezető munkakör, illetve beosztás kivételével – azokban az esetekben, ahol a Kjt. minősítési kötelezettséget ír elő a munkáltató számára, a művészi és egyéb művészeti munkakört betöltő közalkalmazottat nem kell minősíteni, ha Kossuth-díjjal, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díjjal vagy a miniszter által jogszabály alapján adományozható művészeti díjjal rendelkezik.

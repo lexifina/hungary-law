@@ -4,9 +4,9 @@ a) nemzeti előadó-művészeti szervezeteket megillető művészeti támogatás
 
 b) a kiemelt előadó-művészeti szervezetek
 
-ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartó vagy azokkal közszolgáltatási megállapodást kötő valamennyi önkormányzatra,
+ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartóra vagy azzal közszolgáltatási szerződést kötött önkormányzatra,
 
-bb) művészeti támogatásának összegét az egyes színházakra is
+bb) művészeti támogatásának összegét az egyes előadó-művészeti szervezetekre is
 
 lebontva határozza meg.
 
@@ -16,7 +16,7 @@ a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati 
 
 b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
 
-(3) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
+(3) A minisztérium költségvetési fejezetében kell biztosítani:
 
 a) az állam által fenntartott, nyilvántartásba vett és önkormányzattal kötött közszolgálati szerződéssel nem rendelkező színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
 

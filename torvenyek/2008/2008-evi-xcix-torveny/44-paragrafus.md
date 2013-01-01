@@ -36,7 +36,7 @@
 
 15. független színház: állami vagy önkormányzati fenntartó nélkül működő színház, balett- vagy táncegyüttes,
 
-16. hangverseny: zeneművek – ideértve az operaelőadáson történő zenekari és énekkari közreműködést is – személyes előadó-művészi teljesítménnyel, közönség jelenlétében történő nyilvános bemutatása, amelyben a közreműködő zenekar vagy énekkar az e törvényben az érintett szervezettípus tekintetében meghatározott létszámot eléri vagy meghaladja (amennyiben az előadott mű vagy művek jellege, illetve ifjúsági, iskolai hangverseny esetében a helyszín igazolt befogadóképessége indokolja, kivételes esetben a létszám legfeljebb 30 százalékkal kisebb lehet).
+16. hangverseny: klasszikus, kortárs komolyzenei zeneművek – ideértve az operát és a klasszikus operettet is –, továbbá jazz műfajú és népi eredetű zeneművek személyes előadó-művészi teljesítménnyel, közönség jelenlétében történő nyilvános bemutatása, amelyben a közreműködő zenekar vagy énekkar az e törvényben az érintett szervezettípus tekintetében meghatározott létszámot eléri vagy meghaladja,
 
 17. játszóhely: színházi előadás nyilvános bemutatására technikailag alkalmas, a vonatkozó jogszabály feltételeinek megfelelő épület, épületrész vagy szabadtéri színpad,
 
@@ -68,7 +68,7 @@
 
 31. szabadtéri színház: állandó – jellemzően természeti vagy építészeti örökséghez kötődő – játszóhellyel rendelkező, a nyári évadban (jellemzően május 1-jétől szeptember 30-ig) játszó színház,
 
-32. szimfonikus zenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek az előadásonkénti átlagos létszáma legalább 56 fő,
+32. szimfonikus zenekar: hangversenyeken zeneműveket játszó előadó-művészeti szervezet, amelynek az előadásonkénti létszáma legalább 56 fő, illetve amennyiben az előadott mű vagy művek jellege, vagy ifjúsági, iskolai hangverseny esetében a helyszín igazolt befogadóképessége indokolja, legalább a 18. és a 20. pontban meghatározott alsó létszám-határ,
 
 33. színház: prózai, zenés, táncos színpadi művek előadásával foglalkozó előadó-művészeti szervezet, ide értve a bábszínházat, befogadó színházat, produkciós színházat, független színházat, szabadtéri színházat, nemzetiségi színházat,
 

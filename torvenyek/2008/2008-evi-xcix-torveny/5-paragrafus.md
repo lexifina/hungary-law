@@ -8,11 +8,13 @@ a) a nyilvántartásba vett előadó-művészeti szervezetek által delegált 11
 
 b) a nyilvántartásba vett előadó-művészeti szakmai érdek-képviseleti szervezetek által delegált 3 fő,
 
-c) a megyei önkormányzatok által delegált 1 fő, a megyei jogú városi önkormányzatok által delegált 2 fő, a fővárosi önkormányzat által delegált 1 fő, az országos nemzetiségi önkormányzatok által delegált 1 fő,
+c) a Magyar Művészeti Akadémia által delegált 1 fő,
 
-d) az előadó-művészeti felsőoktatási intézmények által delegált 3 fő, valamint
+d) a megyei jogú városi önkormányzatok által delegált 2 fő, Budapest Főváros Önkormányzata által delegált 1 fő, az országos nemzetiségi önkormányzatok által delegált 1 fő,
 
-e) az országosan reprezentatív művészeti szakszervezetek által delegált 2 fő.
+e) az előadó-művészeti felsőoktatási intézmények által delegált 3 fő, valamint
+
+f) az országosan reprezentatív művészeti szakszervezetek által delegált 2 fő.
 
 (4) A NEÉT ülésein állandó meghívottként vesz részt a miniszter, továbbá tanácskozási joggal részt vehetnek a határon túli magyar előadó-művészeti szervezetek képviselői és az 5/A. § szerinti bizottságok 1-1 képviselője.
 

@@ -24,7 +24,7 @@ e) a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szab�
 
 f) a zenekar, énekkar tevékenysége folytatásának tárgyi feltételeit,
 
-g) a pályázati eljáráshoz kapcsolódó minőségbiztosítási szempontrendszert,
+g)
 
 h) az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből nyújtott támogatás – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben kiadott
 
