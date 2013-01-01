@@ -1,4 +1,4 @@
-4. § (1)[^11] Az ügyfél köteles
+4. § (1)[^12] Az ügyfél köteles
 
 a) a támogatási határozat jogerőre emelkedését vagy a szerződés megkötését követő év február 13. és március 12. közötti időszakában az általános gazdálkodási bázisadatokra, illetve a művelet megvalósításának végére a támogatással elérni kívánt eredmények adataira,
 
@@ -10,7 +10,7 @@ d) jogszabályban előírt fenntartási kötelezettség, illetve működtetési 
 
 ## vonatkozó adatszolgáltatási kötelezettségét teljesíteni.
 
-(2)–(3)[^12]
+(2)–(3)[^13]
 
-[^11]: A 4. § (1) bekezdése a 3/2012. (I. 31.) VM rendelet 5. §-ával megállapított szöveg.
-[^12]: A 4. § (2)–(3) bekezdését a 3/2012. (I. 31.) VM rendelet 7. §-a hatályon kívül helyezte.
+[^12]: A 4. § (1) bekezdése a 3/2012. (I. 31.) VM rendelet 5. §-ával megállapított szöveg.
+[^13]: A 4. § (2)–(3) bekezdését a 3/2012. (I. 31.) VM rendelet 7. §-a hatályon kívül helyezte.
