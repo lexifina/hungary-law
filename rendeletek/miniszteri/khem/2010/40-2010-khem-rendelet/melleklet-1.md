@@ -56,7 +56,7 @@
 
 5. Geotermikus energia földtana
 
-5.1. a geotermikusenergia-potenciál felmérése regionális, kistérségi, illetve helyi léptékben;
+5.1.[^1] a geotermikusenergia-potenciál felmérése regionális, járási, illetve helyi léptékben;
 
 5.2. a geotermikus energia kinyeréséhez kapcsolódó jelentések bírálata.
 
@@ -77,3 +77,5 @@ tájékoztató anyagok összeállítása egyes területek ásványinyersanyag-he
 6.6. bányászati hulladék-gazdálkodási tervek elkészítése;
 
 6.7. az ásványi nyersanyagok és lelőhelyek kutatásának, termelésének gazdaságosságával kapcsolatos elemző és értékelő tevékenység, az ásványi nyersanyagok számbavételi és műrevalósági kondícióinak megállapítása és bírálata.
+
+[^1]: Az 1. melléklet 5.1. pontja a 76/2012. (XII. 22.) NFM rendelet 19. §-a szerint módosított szöveg.
