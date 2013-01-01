@@ -4,8 +4,8 @@
 
 (2) Ha a kifizetett díjazás olyan összegű, hogy – a tartásdíj levonására vonatkozó szabályok alapján – még az alapösszeg levonása sem lehetséges, azt, illetőleg annak le nem vont részét a munkáltató hátralékként nyilvántartja és – amint erre lehetőség nyílik – a hátralékot folyamatosan levonja.
 
-(3)[^10]
+(3)[^12]
 
 (4) A munkáltató a jogosultat – kérelmére – köteles tájékoztatni a kötelezett munkabérének, valamint egyéb juttatásának összegéről.
 
-[^10]: A 17. §-ának (3) bekezdését a 29/1997. (XII. 12.) IM rendelet 6. §-ának (2) bekezdése hatályon kívül helyezte 1998. január 1. napjával.
+[^12]: A 17. §-ának (3) bekezdését a 29/1997. (XII. 12.) IM rendelet 6. §-ának (2) bekezdése hatályon kívül helyezte 1998. január 1. napjával.

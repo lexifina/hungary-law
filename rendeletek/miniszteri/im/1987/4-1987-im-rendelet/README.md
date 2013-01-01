@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1987-4-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1998-01-01 | 1987-4-20-06.2 | 4/1987. (VI. 14.) IM rendelet |
+| 2013-01-01 | 1987-4-20-06.3 | 50/2012. (XII. 4.) KIM rendelet |

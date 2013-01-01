@@ -2,7 +2,7 @@
 
 10. § (1) A tartásdíj megállapításához be kell szerezni mindkét szülő jövedelmi és vagyoni viszonyaira vonatkozó adatokat.
 
-(2)[^3] A tartásdíj alapja elsősorban a tartásra köteles személy részére
+(2)[^4] A tartásdíj alapja elsősorban a tartásra köteles személy részére
 
 a) a bérköltség (alapbér, bérpótlék, kiegészítő fizetés, prémium, jutalom, 13. és további havi fizetés stb.), illetőleg a rendszeres személyi juttatás (alapilletmény, illetménykiegészítés, illetménypótlék, egyéb kötelező pótlék, 13. havi illetmény stb.) címén juttatott összes járandóság, valamint
 
@@ -14,7 +14,7 @@ b) a személyi jellegű egyéb kifizetésként, illetőleg nem rendszeres szemé
 
 (5) Tartós külföldi szolgálatot teljesítő, külföldön magyar hatósági engedéllyel munkát vállaló, valamint ösztöndíjasként külföldön tartózkodó kötelezett esetében a tartásdíj alapja a kötelezett belföldi munkaviszonyára megállapított munkabér és juttatás, ennek hiányában a nem munkaviszonyból származó jövedelem. A (3) bekezdést ebben az esetben is megfelelően alkalmazni kell.
 
-(6)[^4] Nem képezi a tartásdíj alapját a költségtérítés, étkezési hozzájárulás, üdülési hozzájárulás, illetve a hasonló jellegű egyéb járandóság.
+(6)[^5] Nem képezi a tartásdíj alapját a költségtérítés, étkezési hozzájárulás, üdülési hozzájárulás, illetve a hasonló jellegű egyéb járandóság.
 
-[^3]: A 10. §-ának (2)–(4) bekezdése a 29/1997. (XII. 12.) IM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
-[^4]: A 10. §-ának (6) bekezdését a 29/1997. (XII. 12.) IM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
+[^4]: A 10. §-ának (2)–(4) bekezdése a 29/1997. (XII. 12.) IM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
+[^5]: A 10. §-ának (6) bekezdését a 29/1997. (XII. 12.) IM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
