@@ -10,9 +10,10 @@ ab) létesítménye vagy terméke, illetőleg tevékenysége vízszennyezést ok
 
 ac)[^3] a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló kormányrendelet szerinti csapadékvíz- és szennyvízelvezető műbe, valamint a szennyvíztisztító telep nélküli közüzemi szolgáltatást biztosító szennyvízelvezető, -gyűjtő rendszerbe (a továbbiakban együtt: közcsatornába) szennyvizet bocsát,
 
-ad) zárt gyűjtőben gyűjtött szennyvizet – kivéve a kizárólag háztartási szennyvíz eredetű települési folyékony hulladékot – közcsatornába, továbbá közös üzemi szennyvíz-, illetve csapadékvíz hálózatba szennyvizet bocsát;
+ad)[^4] zárt gyűjtőben gyűjtött szennyvizet – kivéve a kizárólag háztartási eredetű nem közművel összegyűjtött szennyvizet – közcsatornába, továbbá közös üzemi szennyvíz-, illetve csapadékvíz hálózatba szennyvizet bocsát;
 
 b) a felszíni vizekre, a csapadékvíz, szennyvíz elvezetését, tisztítását szolgáló víziközművekre, a nem közüzemű közös üzemi (ipari) csatornára, szennyvíztisztítóra, azok terhelésére és szennyezésére.
 
 [^2]: Az 1. § a 230/2010. (VIII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § a) pont ac) alpontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^4]: A 2. § a) pont ad) alpontja a 441/2012. (XII. 29.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

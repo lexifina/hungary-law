@@ -1,6 +1,6 @@
-## Monitoring[^129]
+## Monitoring[^132]
 
-39/E. §[^130] (1) A kármentesítés tényfeltárás és beavatkozás szakaszaiban folytatott tevékenység környezetre gyakorolt hatását, eredményességét, továbbá a környezetkárosodás csökkenését, illetve megszűnését folyamatosan, illetőleg az egyes szakaszokat követő időszakokban a környezeti állapot változását a kötelezett monitoring keretében ellenőrzi.
+39/E. §[^133] (1) A kármentesítés tényfeltárás és beavatkozás szakaszaiban folytatott tevékenység környezetre gyakorolt hatását, eredményességét, továbbá a környezetkárosodás csökkenését, illetve megszűnését folyamatosan, illetőleg az egyes szakaszokat követő időszakokban a környezeti állapot változását a kötelezett monitoring keretében ellenőrzi.
 
 (2) A monitoring magában foglalja az (1) bekezdés szerinti ellenőrzés
 
@@ -46,5 +46,5 @@ c) a monitoring befejezéséről;
 
 d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy további kármentesítési munkára nincs szükség.
 
-[^129]: A 39/E. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^130]: A 39/E. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^132]: A 39/E. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^133]: A 39/E. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-220-20-
 | 2011-01-01 | 2004-220-20-22.14 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2012-01-01 | 2004-220-20-22.15 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2012-07-28 | 2004-220-20-22.16 | 312/2005. (XII. 25.) Korm. rendelet |
+| 2013-01-01 | 2004-220-20-22.17 | 441/2012. (XII. 29.) Korm. rendelet |
