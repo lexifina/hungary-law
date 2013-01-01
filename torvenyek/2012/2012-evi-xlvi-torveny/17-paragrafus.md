@@ -1,3 +1,7 @@
 ## 14. Felmérési, térképezési vagy területszámítási hiba kijavítása
 
-17. §
+17. § (1) Felmérési, térképezési vagy területszámítási hiba megállapítása esetén az ingatlanügyi hatóság az állami ingatlan-nyilvántartási térképi adatbázist, hivatalból bármikor kijavíthatja.
+
+(2) Az (1) bekezdés szerinti hiba kijavítása nem érinti és nem változtatja meg a fennálló természetbeni határvonalat és a birtoklási viszonyokat.
+
+(3) Az (1) bekezdés szerinti hiba kijavítására irányuló eljárásban nincs szükség az eljárásba bevont ingatlanok jogosultjainak hozzájáruló nyilatkozatára.
