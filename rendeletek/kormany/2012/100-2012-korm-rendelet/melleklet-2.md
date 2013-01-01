@@ -4,9 +4,9 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | A budapesti Kossuth Lajos tér rekonstrukciója, mélygarázs, látogatóközpont és Parlamenti Múzeum építése, valamint a tér és a kapcsolódó területek felszíni rendezése, ezzel összefüggésben a kapcsolódó területeken egyes épületek rekonstrukciói. | Budapest V. kerület belterület 24893 hrsz., 24894 hrsz., 24897/1 hrsz. ingatlanok. A beruházást érintő egyéb ingatlanok: A Budapest V. kerület belterület 24989/2 hrsz. (Balassi Bálint utca), 24965/2 hrsz. (Falk Miksa utca), 24914 hrsz. (Szalay utca) 24892 hrsz. (Alkotmány utca), 24708 hrsz. (Garibaldi utca), 24666 hrsz. (Akadémia utca) és 24834/1 hrsz. (a Vértanúk tere) ingatlanok. Budapest V. kerület belterület 24696, 24697, 24710/4, 24897/2, 24956/2, 24957, 24986, 24987, 24988, 25007, 25122/4, 25122/6 és 24989/2 hrsz. ingatlanok. Az 1. § (2) bekezdése szerinti tevékenységekkel érintett ingatlanok. | általános építésügyi hatósági engedélyezési eljárások, beleértve a műemléki védelem alatt álló építményeket is, fakivágási engedélyek, a kapcsolódó területek felszíni rendezése | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2. | A budapesti Kossuth Lajos tér rekonstrukciója, mélygarázs, látogatóközpont és Parlamenti Múzeum építése, valamint a tér és a kapcsolódó területek felszíni rendezése, ezzel összefüggésben a kapcsolódó területeken egyes épületek rekonstrukciói. | Budapest V. kerület belterület 24893 hrsz., 24894 hrsz., 24897/1 hrsz. ingatlanok. A beruházást érintő egyéb ingatlanok: A Budapest V. kerület belterület 24989/2 hrsz. (Balassi Bálint utca), 24965/2 hrsz. (Falk Miksa utca), 24914 hrsz. (Szalay utca) 24892 hrsz. (Alkotmány utca), 24708 hrsz. (Garibaldi utca), 24666 hrsz. (Akadémia utca) és 24834/1 hrsz. (a Vértanúk tere) ingatlanok. Budapest V. kerület belterület 24696, 24697, 24710/4, 24897/2, 24956/2, 24957, 24986, 24987, 24988, 25007, 25122/4, 25122/6 és 24989/2 hrsz. ingatlanok. Az 1. § (2) bekezdése szerinti tevékenységekkel érintett ingatlanok. | általános építésügyi hatósági engedélyezési eljárások, beleértve a műemléki védelem alatt álló építményeket is, fakivágási engedélyek, a kapcsolódó területek felszíni rendezése | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | kulturális örökségvédelmi hatósági engedélyek | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 3. | örökségvédelmi hatósági engedélyek és régészeti feltárásokkal kapcsolatos engedélyek | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 4. | környezetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -18,7 +18,7 @@
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 9. | földmérési, ingatlan- nyilvántartási hatósági eljárások, telekalakítási eljárások | Budapesti 2. számú Körzeti Földhivatal | Budapest Főváros Kormány- hivatalának Földhivatala |
+| 9. | földmérési, ingatlan- nyilvántartási hatósági eljárások, telekalakítási eljárások | Budapesti 2. számú Földhivatal | Budapest Főváros Kormány- hivatalának Földhivatala |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -34,7 +34,7 @@
 
 | 16. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^8]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -42,9 +42,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 3. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 4. | környezetvédelem, természetvédelem és vízügyi | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -67,3 +67,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 13. | bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^8]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 57. §-aszerint módosított szöveg.
