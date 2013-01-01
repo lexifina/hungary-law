@@ -14,21 +14,21 @@
 
 5. hazai társfinanszírozás: a TEN-T pályázatokhoz nyújtott hazai forrás, amely központi költségvetési támogatásból, saját erőből vagy mindkettőből áll;
 
-6. kedvezményezett: TEN-T támogatásban részesülő projektet végrehajtó és a projektből fakadó előnyöket élvező jogi személy, jogi személyiség nélküli gazdasági társaság, egyéb gazdálkodó szervezet, költségvetési szerv. Amennyiben a Gazdasági és Közlekedési Minisztérium (a továbbiakban: GKM) a kedvezményezett, az adott projekt tárgyköre szerint illetékes szervezeti egysége (főosztálya) látja el a kedvezményezett feladatait;
+6.[^1] kedvezményezett: TEN-T támogatásban részesülő projektet végrehajtó és a projektből fakadó előnyöket élvező jogi személy, jogi személyiség nélküli gazdasági társaság, egyéb gazdálkodó szervezet, költségvetési szerv; ha a közlekedésért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) a kedvezményezett, az adott projekt tárgyköre szerint illetékes szervezeti egysége (főosztálya) látja el a kedvezményezett feladatait;
 
-7. közös érdekű projekt: a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló, 1996. július 23-i 1692/96/EK európai parlamenti és tanácsi határozat 7. cikkében foglalt követelményeknek megfelelő projekt;
+7.[^2] közös érdekű projekt: a 661/2010/EU európai parlamenti és tanácsi határozat 7. cikkében meghatározott követelményeknek megfelelő projekt;
 
-8. központi költségvetési támogatás: a GKM fejezeti költségvetésében biztosított központi költségvetési támogatás;
+8.[^3] központi költségvetési támogatás: a minisztérium költségvetési fejezetében biztosított központi költségvetési támogatás;
 
-9. lebonyolítási rend: a GKM két szervezeti egysége mint végrehajtó hatóság és kedvezményezett között – a projektek megvalósítására vonatkozó – e jogszabály alapján az együttműködés rendjét és a feladatköröket meghatározó feladatmegosztás;
+9.[^4] lebonyolítási rend: a minisztérium mint végrehajtó hatóság és kedvezményezett között – a projektek megvalósítására vonatkozó – e jogszabály alapján az együttműködés rendjét és a feladatköröket meghatározó feladatmegosztás;
 
 10. „négy szem elve”: minden végrehajtási és pénzügyi tranzakció engedélyezését megelőzően az adott feladatot ellátó személy munkáját egy másik személy teljeskörűen felülvizsgálja, beleértve az ellenőrzési listák és a kitöltési útmutatók alkalmazását is;
 
 11. saját erő: a kedvezményezett által a projekt végrehajtásához nyújtott pénzügyi hozzájárulás;
 
-12.[^1] szabálytalanság: a TEN-T projektek végrehajtására nyújtott támogatás felhasználása során a vonatkozó nemzetközi szerződésekben, valamint a hatályos közösségi és hazai jogszabályokban foglalt előírások, illetve a támogatási határozatban, a szerződésekben vállalt kötelezettségek megsértése, amelyek eredményeképpen az Európai Közösségek vagy Magyarország pénzügyi érdekei sérülhetnek;
+12.[^5] szabálytalanság: a TEN-T projektek végrehajtására nyújtott támogatás felhasználása során a vonatkozó nemzetközi szerződésekben, valamint a hatályos közösségi és hazai jogszabályokban foglalt előírások, illetve a támogatási határozatban, a szerződésekben vállalt kötelezettségek megsértése, amelyek eredményeképpen az Európai Közösségek vagy Magyarország pénzügyi érdekei sérülhetnek;
 
-13. szakmai felelős: a TEN-T támogatásban részesülő kedvezményezettnek államigazgatási szakterületi felügyeletét ellátó szervezet. Amennyiben a GKM a kedvezményezett, a két feladatkör egybeesik;
+13.[^6] szakmai felelős: a TEN-T támogatásban részesülő kedvezményezettnek államigazgatási szakterületi felügyeletét ellátó szervezet; ha a minisztérium a kedvezményezett, a két feladatkör egybeesik;
 
 14. szerződés: a támogatási határozat és a támogatási szerződés értelmében a kedvezményezettnek – minden fejlesztési feladatra vonatkozóan – a beszállítóval kötött szerződése;
 
@@ -42,8 +42,18 @@
 
 19. TEN-T támogatás: a transzeurópai közlekedési hálózatok terén a közös érdekű projektekre, valamint a közös érdekű projektek összefüggő csoportjaira, továbbá azoknak műszakilag és pénzügyileg független projektrészeire (a továbbiakban: projekt) nyújtandó támogatás;
 
-20. TEN-T előírások: az Európai Parlament és a Tanács 1692/96/EK határozata (1996. július 23.) a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról, és annak módosításai (a tengeri kikötők, belvízi kikötők és a kombinált árufuvarozási terminálok, valamint a III. Melléklet 8. projektje tekintetében az 1692/96/EK határozat módosításáról szóló, 2001. május 22-i 1346/2001/EK európai parlamenti és tanácsi határozat; a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány; a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló 1692/96/EK határozat módosításáról szóló, 2004. április 29-i 884/2004/EK európai parlamenti és tanácsi határozat);
+20.[^7] TEN-T előírás: a 661/2010/EU európai parlamenti és tanácsi határozat;
 
-21. végrehajtó hatóság: a GKM felelős szervezeti egysége.
+21.[^8]
 
-[^1]: A 2. § 12. pontja a 304/2011. (XII. 23.) Korm. rendelet 21. §-a szerint módosított szöveg.
+22.[^9] európai koordinátor: a 661/2010/EU európai parlamenti és tanácsi határozat 19. cikke alapján az Európai Bizottság által a tagállamokkal egyetértésben és az Európai Parlamenttel folytatott konzultációt követően kinevezett személy.
+
+[^1]: A 2. § 6. pontja a 325/2012. (XI. 16.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 7. pontja a 325/2012. (XI. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 8. pontja a 325/2012. (XI. 16.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 9. pontja a 325/2012. (XI. 16.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § 12. pontja a 304/2011. (XII. 23.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^6]: A 2. § 13. pontja a 325/2012. (XI. 16.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^7]: A 2. § 20. pontja a 325/2012. (XI. 16.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § 21. pontját a 325/2012. (XI. 16.) Korm. rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 2. § 22. pontját a 325/2012. (XI. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.

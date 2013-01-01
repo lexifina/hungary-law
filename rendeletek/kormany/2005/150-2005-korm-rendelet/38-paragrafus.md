@@ -1,6 +1,6 @@
 ## 37. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba; rendelkezéseit a folyamatban lévő projektekre is alkalmazni kell.
 
-38. § Ez a rendelet az Európai Parlament és a Tanács 1655/1999/EK, 788/2004/EK és a 807/2004/EK rendeleteivel módosított, a közösségi pénzügyi támogatás a transzeurópai hálózatok területén történő nyújtásának általános szabályairól szóló 1995. szeptember 18-i 2236/95/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+38. §[^29] Ez a rendelet a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
 Melléklet a 150/2005. (VII. 29.) Korm. rendelethez
 
@@ -61,3 +61,5 @@ fa) a szabálytalanságok és szerződésszegések lehetséges eseteit,
 fb) a szabálytalanságok és szerződésszegések kezelését,
 
 fc) a szabálytalanságok és szerződésszegések jogkövetkezményeit.
+
+[^29]: A 38. § a 325/2012. (XI. 16.) Korm. rendelet 5. §-ával megállapított szöveg.

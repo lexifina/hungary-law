@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-150-20-
 | 2011-01-01 | 2005-150-20-22.2 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2012-01-01 | 2005-150-20-22.3 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2012-11-17 | 2005-150-20-22.4 | 325/2012. (XI. 16.) Korm. rendelet |
+| 2013-01-01 | 2005-150-20-22.5 | 325/2012. (XI. 16.) Korm. rendelet |
