@@ -1,15 +1,15 @@
-## 19. §[^7]
+## 19. §[^6]
 
-20. § (1)[^8]
+20. § (1)[^7]
 
-(2)[^9]
+(2)[^8]
 
-(3)[^10]
+(3)[^9]
 
-(4)[^11]
+(4)[^10]
 
-[^7]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 20. § (2) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.
-[^10]: A 20. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 20. § (4) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.
+[^6]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 20. § (2) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.
+[^9]: A 20. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 20. § (4) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-128-20-
 | --- | --- | --- |
 | 2012-12-15 | 2012-128-20-2Y.1 | 128/2012. (XII. 14.) VM rendelet |
 | 2012-12-16 | 2012-128-20-2Y.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2012-128-20-2Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
