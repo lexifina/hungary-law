@@ -1,11 +1,9 @@
-73. § (1) A bűnügyi nyilvántartó szerv az adattovábbítási kérelemben megjelölt adatokat hatósági bizonyítványban igazolja. A hatósági bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
+73. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítását megtagadja, ha a 71. § (3) bekezdés a)–e) pontjában meghatározott tények a bűnügyi nyilvántartási rendszer adatai alapján nem igazolhatóak.
 
-(2) Ha a bűnügyi nyilvántartó szerv az adattovábbítási kérelemnek a 71. § (1) bekezdés a) pontja szerint ad helyt, a hatósági bizonyítványt az adattovábbítás címzettjének, annak másolatát a kérelmezőnek kézbesíti.
+(2) Ha a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban a bűnügyi nyilvántartási rendszerben kezelt adatokra tekintettel megállapítja, hogy az adatok az érdemi döntés meghozatalához szükséges információkat nem vagy nem teljes körűen, illetve ellentmondásosan tartalmazzák, a tényállás tisztázása érdekében az ügyintézési határidőt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
 
-(3) Ha a bűnügyi nyilvántartó szerv a 71. § (1) bekezdés b) pontjában meghatározott adattovábbítási kérelemnek ad helyt, a hatósági bizonyítvány tartalmazza az arra való utalást is, hogy a hatósági bizonyítvány kiadása a bűnügyi nyilvántartásokban kezelt adatok igazolásának külföldön történő felhasználása céljára szolgál.
+(3) Ha a bűnügyi nyilvántartó szerv a (2) bekezdés alapján meghosszabbított ügyintézési határidő alatt a megalapozott döntéshozatalhoz szükséges információkat hatáskörében megszerezni nem tudja, az eljárását legfeljebb hat hónapra felfüggeszti és az erről szóló döntésében a kérelmezőt a rendelkezésére álló adatok közlésére hívja fel.
 
-(4) A bűnügyi nyilvántartó szerv az adattovábbítási eljárást megszünteti, ha az adatokat a kérelmező 71. § (3) bekezdésében meghatározott korlátozó nyilatkozata miatt nem továbbítja. Az eljárást megszüntető végzésben a kérelmezőt tájékoztatni kell a nyilvántartásban kezelt adatairól és azokról az adatváltozásokról is, amelyeket a bűnügyi nyilvántartó szerv az érintett adatainak bűnügyi nyilvántartási rendszerbe történő felvétele időpontjától kezdve átvezetett.
+(4) A kérelmező a (3) bekezdésben meghatározott esetben az adatközlési kötelezettségét kizárólag eredeti, hiteles irat formájában teljesítheti, ezen adatok tekintetében nyilatkozatot nem tehet, nyilatkozata a döntéshozatal során nem vehető figyelembe.
 
-(5) Az (1)–(4) bekezdés szerinti iratot a közigazgatási hatósági eljárás és szolgáltatás általános szabályai szerinti elektronikus úton való kapcsolattartás során kell továbbítani annak a címzettnek és kérelmezőnek, akinél az elektronikus úton való továbbítás feltételei fennállnak.
-
-(6) Az elektronikus úton továbbított hatósági bizonyítványon a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata informatikai eszközzel rögzíthető, ha az aláírás és a bélyegzőlenyomat hitelességét a hatáskör gyakorlója egyedi döntésével hitelesnek ismerte el.
+(5) Ha a kérelmező a (3) bekezdés szerinti felhívásnak az eljárás felfüggesztésének időtartama alatt nem tesz eleget, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást megszünteti.

@@ -2,7 +2,7 @@
 
 a) a kapcsolati kódot;
 
-b) az elrendelt kényszerintézkedést, annak időtartamát;
+b) az elrendelt kényszerintézkedést, annak időtartamát, megszűnése tényét;
 
 c) az elrendelő határozat szerinti bűncselekmény
 

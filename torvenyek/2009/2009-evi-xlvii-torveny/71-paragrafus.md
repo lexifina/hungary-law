@@ -1,17 +1,23 @@
-## Kérelemre történő adattovábbítás a kérelmező saját adatairól
+## A hatósági erkölcsi bizonyítvány
 
-71. § (1) A bűnügyi nyilvántartó szerv adattovábbítási kérelemre a kérelmező saját adatai igazolása céljából a bűnügyi nyilvántartásokban tárolt adatokat
+71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
 
-a) az adattovábbítási kérelemben megjelölt címzett részére vagy
+(2) Ha törvény lehetővé teszi, hogy a kérelmező valamely eljárásban az eljáró szerv adatigénylését kezdeményezve igazoljon valamely, a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, törvényben meghatározott tényt, az eljáró szerv adatigénylésére a bűnügyi nyilvántartó szerv hatósági erkölcsi bizonyítványt állít ki.
 
-b) az adattovábbítást kérelmező részére külföldi felhasználás céljából
+(3) A hatósági erkölcsi bizonyítványban igazolható tény, hogy a kérelmező
 
-továbbítja.
+a) a kérelemben megjelölt törvényben meghatározott feltételeknek megfelel,
 
-(2) Az adattovábbítási kérelmet ügyfélkapun keresztül elektronikus úton, az erre a célra rendszeresített űrlapon is be lehet nyújtani. Kérelmenként egy címzettet lehet megjelölni.
+b) büntetlen előéletű,
 
-(3) A kérelmező az adattovábbítási kérelemben kikötheti, hogy a bűnügyi nyilvántartó szerv az adatait a címzettnek csak akkor továbbítsa, ha
+c) nem áll közügyektől eltiltás hatálya alatt,
 
-a) a bűntettesek nyilvántartásában nyilvántartottként nem szerepel, valamint – ha a kérelem erre is kiterjed, az abban foglaltak szerint – nem áll közügyektől, meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt, vagy
+d) nem áll foglalkozástól eltiltás hatálya alatt, vagy
 
-b) nem áll büntetőeljárás hatálya alatt.
+e) mely foglalkozástól eltiltás hatálya alatt áll.
+
+(4) A (3) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, a (3) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
+
+(5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
+
+(6) A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.

@@ -6,4 +6,4 @@ a) nyilvántartásba veszi a bűncselekmény elkövetése miatt jogerősen elít
 
 b) törli a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásából.
 
-(3) Az elítélt személy DNS-profilját a szakértői nyilvántartó szerv határozza meg.
+(3) Az elítélt személy DNS-profilját a szakértői nyilvántartó szerv határozza meg, amelynek során a Kormány által kijelölt szerv közreműködését veheti igénybe.

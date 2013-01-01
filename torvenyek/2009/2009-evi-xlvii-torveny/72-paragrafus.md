@@ -1,17 +1,17 @@
-72. § (1) Az adattovábbítási kérelemnek tartalmaznia kell a saját adatai igazolása céljából adattovábbítást kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait, az adattovábbítás címzettjének pontos megnevezését és címét, továbbá – ha az a kérelmező rendelkezésére áll – a címzett elektronikus címét.
+72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon vagy ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton kell benyújtani.
 
-(2) Az adattovábbítási kérelemnek tartalmaznia kell azt, hogy a kérelmező a következők közül mely tény igazolására kéri a bűnügyi nyilvántartási rendszerben tárolt adatainak továbbítását:
+(2) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelemnek tartalmaznia kell
 
-a) a bűntettesek nyilvántartásában nem szerepel, valamint – ha a kérelem erre is kiterjed – nem áll közügyektől, meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt,
+a) a kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait,
 
-b) a bűntettesek nyilvántartásában nem szerepel, valamint – ha a kérelem erre is kiterjed – a közügyektől, meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt áll,
+b) a kérelmező belföldi kézbesítési címét,
 
-c) büntetett előéletű, és – ha a kérelem erre is kiterjed – nem áll közügyektől, valamely meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt,
+c) ha a kérelmező a hatósági erkölcsi bizonyítvány továbbítását meghatározott címzett részére kéri, az adattovábbítás címzettjének belföldi kézbesítési címét,
 
-d) büntetett előéletű, és – ha a kérelem erre is kiterjed – közügyektől, meghatározott foglalkozástól vagy járművezetéstől eltiltás hatálya alatt áll, vagy
+d) a 71. § (3) bekezdés a)–e) pontjában meghatározott azon tényt, amelynek igazolását a kérelmező hatósági erkölcsi bizonyítványban kéri,
 
-e) büntetőeljárás hatálya alatt áll vagy büntetőeljárás hatálya alatt nem áll.
+e) ha a kérelmező a 71. § (3) bekezdés a) pontjában meghatározott tény igazolását kéri, az igazolandó feltételeket meghatározó törvényi rendelkezés megjelölését,
 
-(3) Ha a kérelmező a bűnügyi nyilvántartási rendszerben kezelt, a (2) bekezdésben meghatározott adatokon kívüli, egyéb nyilvántartott adatai továbbítását kéri, kérelmében ezen adatok mellett azt a törvényi rendelkezést is meg kell jelölnie, amely alapján az adattovábbítás címzettje minden egyes igényelt adat tekintetében jogosult az adat kezelésére. Ennek hiányában az adattovábbítási eljárást meg kell szüntetni.
+f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papír alapon nyújtja be, a kérelmező saját kezű aláírását, valamint
 
-(4) A bűnügyi nyilvántartási rendszerből a kérelmező kérelmére történő adattovábbítási eljárásért igazgatási szolgáltatási díjat kell fizetni.
+g) az igazgatási szolgáltatási díj megfizetésének igazolását.

@@ -10,7 +10,9 @@ c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési,
 
 d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
 
-e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából.
+e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
+
+f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
@@ -78,7 +80,9 @@ ib) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezd�
 
 ic) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-j) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok.
+j) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok,
+
+k) határellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
 (3) A választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -134,10 +138,16 @@ a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) be
 
 b) a 11. § (1) bekezdés b) pontjában vagy a 16. § (1) bekezdés b) pontjában meghatározott adatok alapján azon tény igazolását kérni, hogy az elítélt ujj- és tenyérnyomatát vagy DNS-profilját az elítélés alapjául szolgáló büntetőeljárás során nyilvántartásba vették.
 
-(9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
-
-a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában meghatározott adatok,
-
-b) a 28. § b) és c) pontjában meghatározott adatok.
+(9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
 (10) A szakértői nyilvántartó szerv az e törvényben meghatározott találati adattovábbítás teljesítése, valamint szakvélemény elkészítése céljából közvetlen hozzáféréssel jogosult a 4. § (2) bekezdés a) pontjában foglalt adatokat átvenni.
+
+(11) Az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+
+a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+
+b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok,
+
+c) a 23. § c), f) és g) pontjában meghatározott adatok,
+
+d) a 28. § b) és c) pontjában meghatározott adatok.

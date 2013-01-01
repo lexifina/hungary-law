@@ -8,7 +8,7 @@
 
 a) a bűnügyi nyilvántartó szervet,
 
-b) a szakértői nyilvántartó szervet.
+b) a szakértői nyilvántartó szervet, valamint a büntetőeljárás alá vont és az elítélt személy DNS-profiljának meghatározásában közreműködő szervet.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
@@ -26,10 +26,4 @@ a) a bűnügyi nyilvántartásokban kezelt adatok igazolására kiállított hat
 
 b) a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjét.
 
-(4) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-a) a bűnügyi nyilvántartásokból a kérelmező saját adatairól történő adattovábbítási eljárásért,
-
-b) a hatósági erkölcsi bizonyítvány kiállítása iránti kérelem teljesítésére irányuló eljárásért
-
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének szabályait rendeletben állapítsa meg.
+(4) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének szabályait rendeletben állapítsa meg.
