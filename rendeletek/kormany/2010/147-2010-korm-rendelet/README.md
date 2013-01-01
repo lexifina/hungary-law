@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-147-20-
 | 2012-10-23 | 2010-147-20-22.8 | 290/2012. (X. 15.) Korm. rendelet |
 | 2012-12-20 | 2010-147-20-22.9 | 400/2012. (XII. 20.) Korm. rendelet |
 | 2012-12-21 | 2010-147-20-22.10 | 348/2012. (XII. 11.) Korm. rendelet |
+| 2013-01-01 | 2010-147-20-22.11 | 441/2012. (XII. 29.) Korm. rendelet |

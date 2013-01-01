@@ -18,11 +18,11 @@
 
 8. egyedi szennyvízkezelő berendezés: olyan vízilétesítmény, amely a települési szennyvizek nem közműves, biológiai tisztítását energiabevitel segítségével végzi,
 
-9. egyedi zárt szennyvíztároló: olyan egy vagy több, zártan és vízzáróan kialakított tartályból, illetve medencéből álló közműpótló műtárgy, amely a szennyvizek ártalommentes gyűjtésére és a szennyvízből keletkező települési folyékony hulladék időszakos tárolására szolgál,
+9.[^1] egyedi zárt szennyvíztároló: olyan egy vagy több, zártan és vízzáróan kialakított tartályból, illetve medencéből álló közműpótló műtárgy, amely a szennyvizek ártalommentes gyűjtésére és a szennyvízből keletkező nem közművel összegyűjtött háztartási szennyvíz időszakos tárolására szolgál,
 
 10. egyesített rendszerű szennyvízhálózat: a szennyvizet és csapadékvizet azonos rendszerben összegyűjtő és a szennyvíztisztító telepre vezető szennyvízhálózat,
 
-10a.[^1] egynyári öntözés: egy öntözési idényben, közvetlenül felszíni vízből, ideiglenes szivattyúállással, maximum 120 mm/ha (1200 m3/ha) öntözővíz kijuttatása, legfeljebb 100 ha nagyságú területre,
+10a.[^2] egynyári öntözés: egy öntözési idényben, közvetlenül felszíni vízből, ideiglenes szivattyúállással, maximum 120 mm/ha (1200 m3/ha) öntözővíz kijuttatása, legfeljebb 100 ha nagyságú területre,
 
 11. felszín alatti víz energetikai célú kitermelése: felszín alatti vízkészlet vízilétesítménnyel történő igénybevétele fűtés, hűtés vagy elektromos energia hasznosítás céljából, annak hőmérsékletétől függetlenül,
 
@@ -46,7 +46,7 @@
 
 21. mederelfajulás: folyó, vízfolyás mederalakító munkája következtében kialakult káros mederáthelyeződés,
 
-22.[^2] mikroöntözés: olyan öntözés, melynek során a víz közvetlenül a talaj vagy termesztő közeg felszínére, illetve a talajba vagy termesztő közegbe jut a párolgási veszteségek lehető legkisebb szinten való tartása érdekében,
+22.[^3] mikroöntözés: olyan öntözés, melynek során a víz közvetlenül a talaj vagy termesztő közeg felszínére, illetve a talajba vagy termesztő közegbe jut a párolgási veszteségek lehető legkisebb szinten való tartása érdekében,
 
 23. nyersvízvezeték: az ivóvízellátás céljára kitermelt, az elosztóhálózatba táplálást megelőzően kezelést igénylő vizet szállító vezeték,
 
@@ -84,5 +84,6 @@
 
 40. vízvédelmi terület: a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendeletben meghatározott védőterület, védősáv, valamint a nagyvízi meder.
 
-[^1]: A 2. § 10a. pontját a 290/2012. (X. 15.) Korm. rendelet 2. §-a iktatta be.
-[^2]: A 2. § 22. pontja a 348/2012. (XII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § 9. pontja a 441/2012. (XII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 10a. pontját a 290/2012. (X. 15.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 2. § 22. pontja a 348/2012. (XII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
