@@ -22,7 +22,7 @@
 
 | 1.4. | Település lakosságszáma: |
 
-| Körjegyzőség lakosságszáma: |
+| Közös önkormányzati hivatal lakosságszáma: |
 
 | 1.5. | Választópolgárok száma a 2. § (2) bekezdése szerint: |  |  |
 
@@ -118,7 +118,7 @@
 
 ## 1 példányt a Miniszter
 
-12. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^12]
+12. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^22]
 
 A választásokra biztosított pénzügyi fedezet kiemelt előirányzatonkénti elszámolása
 
@@ -140,4 +140,4 @@ A választásokra biztosított pénzügyi fedezet kiemelt előirányzatonkénti 
 
 | HVI-k támogatása | Támogatásértékű működési kiadás helyi önkormány- zatoknak és költségvetési szerveinek | Továbbadási (lebonyolítási) célú működési bevétel központi költségvetési szervtől | Központi költségvetési szervtől kapott továbbadási (lebonyolítási) célú működési kiadás | Támogatásértékű működési bevétel központi költségvetési szervtől | Tényleges felhasználásnak megfelelően |
 
-[^12]: A 12. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b) pontja szerint módosított szöveg.
+[^22]: A 12. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b) pontja szerint módosított szöveg.

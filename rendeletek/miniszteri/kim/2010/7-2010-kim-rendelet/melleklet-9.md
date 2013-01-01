@@ -12,7 +12,7 @@
 
 | 1.1. | Szerv megnevezése: |
 
-| 1.2. | Körjegyzőség esetén székhely település megnevezése: |  |
+| 1.2. | Közös önkormányzati hivatal esetén székhely település megnevezése: |  |
 
 | hozzá kapcsolódó települések száma: |
 
@@ -22,7 +22,7 @@
 
 | 1.4. | Település lakosságszáma: |
 
-| 1.5. | Körjegyzőség lakosságszáma: |
+| 1.5. | Közös önkormányzati hivatal lakosságszáma: |
 
 | 1.6. | Választópolgárok száma: |
 
@@ -114,6 +114,6 @@
 
 ## Kapja:  1 példányt a fővárosi és megyei kormányhivatal főigazgatója
 
-9. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^11]
+9. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^19]
 
-[^11]: A 9. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b) és f) pontja szerint módosított szöveg.
+[^19]: A 9. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b), f) és m) pontja szerint módosított szöveg.

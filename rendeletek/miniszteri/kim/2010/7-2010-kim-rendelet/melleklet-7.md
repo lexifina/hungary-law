@@ -12,7 +12,7 @@
 
 | 1.1. | Szerv megnevezése: |  |  |
 
-| 1.2. | Körjegyzőség esetén székhely település megnevezése: |  |  |
+| 1.2. | Közös önkormányzati hivatal esetén székhely település megnevezése: |  |  |
 
 |  | hozzá kapcsolódó települések száma: |  |
 
@@ -22,7 +22,7 @@
 
 | 1.4. | Település lakosságszáma: |  |
 
-| 1.5. | Körjegyzőség lakosságszáma: |  |
+| 1.5. | Közös önkormányzati hivatal lakosságszáma: |  |
 
 | 1.6. | Választópolgárok száma: |  |
 
@@ -116,4 +116,6 @@
 
 ## 1 példányt a KEKKH elnöke, időközi választás esetén az OVI vezetője
 
-7. melléklet a 7/2010. (VII. 21.) KIM rendelethez
+7. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^17]
+
+[^17]: A 7. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § m) pontja szerint módosított szöveg.

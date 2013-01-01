@@ -22,7 +22,7 @@
 
 | 1.4. | Település lakosságszáma: |
 
-| 1.5. | Körjegyzőség lakosságszáma: |
+| 1.5. | Közös önkormányzati hivatal lakosságszáma: |
 
 | 1.6. | Választópolgárok száma a 2. § (2) bekezdése szerint: |  |  |
 
@@ -116,6 +116,6 @@
 
 ## 1 példányt a KEKKH elnöke
 
-8. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^10]
+8. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^18]
 
-[^10]: A 8. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b) és f) pontja szerint módosított szöveg.
+[^18]: A 8. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b), f) és m) pontja szerint módosított szöveg.
