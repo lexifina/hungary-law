@@ -12,7 +12,9 @@ e) elő- és visszavásárlási, valamint vételi jog,
 
 f) tartási és életjáradéki jog,
 
-g) jelzálogjog (önálló zálogjog) és végrehajtási jog.
+g) jelzálogjog (önálló zálogjog) és végrehajtási jog,
+
+h)[^9] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
 
 (2) A tulajdoni lap III. része tartalmazza továbbá az ingatlanhoz vagy a bejegyzett jogokhoz, illetve annak jogosultjaihoz kapcsolódó következő tényeket:
 
@@ -58,7 +60,11 @@ g) jelzálogjog (önálló zálogjog) és végrehajtási jog.
 
 21. földminősítési mintatér megjelölése,
 
-22. olyan egyéb jog vagy tény, amelynek bejegyzését vagy feljegyzését törvény elrendeli.
+22.[^10] ügyészi felhívás és ügyészi fellépés ténye,
+
+23.[^11] helyi védelem ténye,
+
+24.[^12] olyan egyéb tény, amelynek feljegyzését törvény elrendeli.
 
 (3) A tulajdoni lap III. része tartalmazza továbbá az ingatlan III. részen szereplő adataihoz, vagy a III. részen bejegyzett jogokhoz, feljegyzett tényekhez, illetve azok jogosultjaihoz kapcsolódó következő adatokat.
 
@@ -78,8 +84,15 @@ g) törölt bejegyzésre való utalás,
 
 h) kiegészítő szöveges bejegyzés.
 
+(3a)[^13] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő földhivatal 4/A. § (6) bekezdése szerinti rövidített nevének megjelölését.
+
 (4) A tulajdoni lap természetes személy jogosult esetén tartalmazza a személyi azonosítót, a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet esetén annak statisztikai számjelét.
 
 (5) A tulajdoni lap tartalmazza továbbá a széljegyet.
 
 [^8]: A 4. § a 48/2010. (IV. 27.) FVM rendelet 5. §-ával megállapított szöveg.
+[^9]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^10]: A 4. § (2) bekezdés 22. pontja a 148/2012. (XII. 28.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 4. § (2) bekezdés 23. pontját a 148/2012. (XII. 28.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^12]: A 4. § (2) bekezdés 24. pontját a 148/2012. (XII. 28.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^13]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be.

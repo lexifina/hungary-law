@@ -1,3 +1,3 @@
-## 113/C. §[^195] A közigazgatási szervek kivételével a jogi személyeknek és jogi személyiség nélküli szervezeteknek a kérelemhez csatolniuk kell a keletkezésüket tanúsító, illetőleg konstituáló bejegyzési határozat eredeti vagy közjegyző által hitelesített példányát, vagy a regisztráló hatóság (cégbíróság, megyei bíróság) által vezetett közhiteles nyilvántartás tartalmáról kiállított hiteles másolatot, vagy a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározottak szerint kiállított közjegyzői tanúsítványt, amely 30 napnál nem lehet régebbi.
+## 113/E. §[^232] Felszámoló szervezet számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételére vonatkozó kérelméhez mellékelni kell a felszámolók névjegyzékének vezetésére kijelölt hatóság 30 napnál nem régebben kiállított igazolását arról, hogy a szervezet szerepel a felszámolók névjegyzékében.
 
-[^195]: A 113/C. §-t a 117/2005. (XII. 19.) FVM rendelet 42. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) és (5) bekezdését.
+[^232]: A 113/E. §-t a 148/2012. (XII. 28.) VM rendelet 17. §-a iktatta be.

@@ -1,6 +1,6 @@
-4/A. §[^9] (1) Az 1–4. §-ban foglaltakon kívül a tulajdonilap-másolat az alábbiakat tartalmazza:
+4/A. §[^14] (1) Az 1–4. §-ban foglaltakon kívül a tulajdonilap-másolat az alábbiakat tartalmazza:
 
-a) az ingatlan fekvése szerint illetékes földhivatal neve és címe,
+a)[^15] az ingatlan fekvése szerint illetékes földhivatal rövidített neve és címe,
 
 b) aktuális oldalszám, és az oldalak száma,
 
@@ -38,4 +38,18 @@ szerepel.
 
 (5) A tulajdonilap-másolat a jogosult természetes személy természetes személyazonosító adatai közül kizárólag családi és utónevét, születési családi és utónevét, születési évét, és anyja születési családi és utónevét tartalmazza.
 
-[^9]: A 4/A. §-t a 48/2010. (IV. 27.) FVM rendelet 6. §-a iktatta be.
+(6)[^16] A fővárosi és megyei kormányhivatal járási hivatalának járási földhivatala megnevezés helyett az (1) bekezdés a) pontja szerinti rövidített névként
+
+a) a földhivatal székhelyének megjelölésével a járási földhivatal,
+
+b) a budapesti székhelyű földhivatal esetében
+
+ba) Budapesti 1. Számú Földhivatal,
+
+bb) Budapesti 2. Számú Földhivatal,
+
+bc) Budakörnyéki Járási Földhivatal
+
+[^14]: A 4/A. §-t a 48/2010. (IV. 27.) FVM rendelet 6. §-a iktatta be.
+[^15]: A 4/A. § (1) bekezdés a) pontja a 148/2012. (XII. 28.) VM rendelet 24. § a) pontja szerint módosított szöveg.
+[^16]: A 4/A. § (6) bekezdését a 148/2012. (XII. 28.) VM rendelet 2. §-a iktatta be.

@@ -40,8 +40,12 @@
 
 ## 2.6. a fizetendő igazgatási szolgáltatási díj mértékének megjelölése;
 
-## 2.7. a kérelmező, vagy képviselő aláírása.
+## 2.7.[^275] a bejelentett állandó lakcím átvezetésére vonatkozó nyilatkozat;
 
-2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^229]
+## 2.8.[^276] a kérelmező, vagy képviselő aláírása.
 
-[^229]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.
+2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^277]
+
+[^275]: Az 1. számú melléklet 2.7. pontja a 148/2012. (XII. 28.) VM rendelet 20. §-ával megállapított szöveg.
+[^276]: Az 1. számú melléklet 2.8. pontját a 148/2012. (XII. 28.) VM rendelet 20. §-a iktatta be.
+[^277]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.

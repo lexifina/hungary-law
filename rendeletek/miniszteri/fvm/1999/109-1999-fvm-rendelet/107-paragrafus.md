@@ -1,3 +1,3 @@
-## 106. §[^183] A körzeti földhivatal a fellebbezést iratjegyzékkel terjeszti fel a megyei földhivatalhoz.
+## 106. §[^214] A járási földhivatal a fellebbezést iratjegyzékkel terjeszti fel a megyei földhivatalhoz.
 
-[^183]: A 106. § a 48/2010. (IV. 27.) FVM rendelet 79. §-ával megállapított szöveg.
+[^214]: A 106. § a 48/2010. (IV. 27.) FVM rendelet 79. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.

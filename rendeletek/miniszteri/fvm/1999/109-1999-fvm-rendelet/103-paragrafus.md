@@ -1,3 +1,3 @@
-## 102. §[^180] A fellebbezés visszavonása esetén a megyei földhivatal eljárást megszüntető végzése alapján a körzeti földhivatal törli a fellebbezés benyújtásának tényére vonatkozó feljegyzést.
+## 102. §[^211] A fellebbezés visszavonása esetén a megyei földhivatal eljárást megszüntető végzése alapján a járási földhivatal törli a fellebbezés benyújtásának tényére vonatkozó feljegyzést.
 
-[^180]: A 102. § a 48/2010. (IV. 27.) FVM rendelet 78. §-ával megállapított szöveg.
+[^211]: A 102. § a 48/2010. (IV. 27.) FVM rendelet 78. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 107. §[^184]
+## 107. §[^215]
 
-[^184]: A 107. §-t a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése hatályon kívül helyezte.
+[^215]: A 107. §-t a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 43.[^84] Nádas
+## 43.[^103] Nádas
 
-[^84]: A 43. alcím a 48/2010. (IV. 27.) FVM rendelet 50. §-ával megállapított szöveg.
+[^103]: A 43. alcím a 48/2010. (IV. 27.) FVM rendelet 50. §-ával megállapított szöveg.

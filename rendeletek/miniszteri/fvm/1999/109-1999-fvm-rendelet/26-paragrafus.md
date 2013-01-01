@@ -1,3 +1,3 @@
-## 21.[^48] Fellebbezés
+## 21.[^62] Fellebbezés, ügyészi felhívás
 
-[^48]: A 21. alcím a 48/2010. (IV. 27.) FVM rendelet 28. §-ával megállapított szöveg.
+[^62]: A 21. alcím címe a 148/2012. (XII. 28.) VM rendelet 24. § f) pontjával megállapított szöveg.

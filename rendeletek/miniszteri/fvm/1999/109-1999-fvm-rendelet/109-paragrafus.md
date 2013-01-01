@@ -1,11 +1,12 @@
-## 108. §[^185] A tv. 59. §-ában meghatározott esetekben a körzeti földhivatal a bírósági jogorvoslati kérelmet az ügyre vonatkozó iratokkal, és iratjegyzékkel továbbítja a megyei földhivatalhoz a beérkezéstől számított öt napon belül.
+## 108. §[^216] A tv. 59. §-ában meghatározott esetekben a járási földhivatal a bírósági jogorvoslati kérelmet az ügyre vonatkozó iratokkal, és iratjegyzékkel továbbítja a megyei földhivatalhoz a beérkezéstől számított öt napon belül.
 
-109. § (1)[^186] A körzeti földhivatal a jogerős bírósági határozat alapján szükséges bejegyzéssel, vagy feljegyzéssel egyidejűleg törli a bírósági jogorvoslati kérelem benyújtásának tényére vonatkozó feljegyzést és erről az érdekelteket értesíti.
+109. §[^217] (1)[^218] A járási földhivatal a jogerős bírósági határozat alapján szükséges bejegyzéssel, vagy feljegyzéssel egyidejűleg törli a bírósági jogorvoslati kérelem benyújtásának tényére vonatkozó feljegyzést és erről az érdekelteket értesíti.
 
-(2)[^187] Ha a bíróság elutasítja a jogorvoslati kérelmet, a körzeti földhivatal törli a jogorvoslati kérelem benyújtásának tényére vonatkozó feljegyzést.
+(2)[^219] Ha a bíróság elutasítja a jogorvoslati kérelmet, a járási földhivatal törli a jogorvoslati kérelem benyújtásának tényére vonatkozó feljegyzést.
 
-(3) Ha a bíróság új eljárást rendelt el, a körzeti földhivatal az új eljárás eredményének megfelelő bejegyzéssel egyidejűleg törli a jogorvoslati kérelem benyújtásának tényére vonatkozó feljegyzést, valamint a megtámadott bejegyzést (feljegyzést), továbbá az ezen alapuló későbbi bejegyzéseket (feljegyzéseket).
+(3) Ha a bíróság új eljárást rendelt el, a járási földhivatal az új eljárás eredményének megfelelő bejegyzéssel egyidejűleg törli a jogorvoslati kérelem benyújtásának tényére vonatkozó feljegyzést, valamint a megtámadott bejegyzést (feljegyzést), továbbá az ezen alapuló későbbi bejegyzéseket (feljegyzéseket).
 
-[^185]: A 108. § a 48/2010. (IV. 27.) FVM rendelet 95. § és 97. §-a szerint módosított szöveg.
-[^186]: A 109. § (1) bekezdése a 48/2010. (IV. 27.) FVM rendelet 80. §-ával megállapított szöveg.
-[^187]: A 109. § (2) bekezdése a 48/2010. (IV. 27.) FVM rendelet 95. § és 97. §-a szerint módosított szöveg.
+[^216]: A 108. § a 48/2010. (IV. 27.) FVM rendelet 95. § és 97. §-a, a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.
+[^217]: A 109. § a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.
+[^218]: A 109. § (1) bekezdése a 48/2010. (IV. 27.) FVM rendelet 80. §-ával megállapított szöveg.
+[^219]: A 109. § (2) bekezdése a 48/2010. (IV. 27.) FVM rendelet 95. § és 97. §-a szerint módosított szöveg.

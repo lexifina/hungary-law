@@ -1,12 +1,26 @@
-## 76. § Ha nem magyar nyelven kiállított okirathoz a magyar nyelvű fordítást is csatolni kell, akkor ez a kötelezettség a kérelemre és az okirat mellékleteire is kiterjed.
+## 56.[^178] Több járási földhivatalt érintő beadvány benyújtása
 
-## 56.[^152] Több körzeti földhivatalt érintő beadvány benyújtása
+77. §[^179] (1) Ha a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 7. § (4) és (5) bekezdése szerinti kérelmet eredeti okiratokkal együtt ugyanazon a napon több járási földhivatalhoz is benyújtották, a döntés meghozatalára, valamint az ezzel kapcsolatos intézkedések megtételére az a járási földhivatal jogosult, amelynek illetékességi területén
 
-77. §[^153] (1) Ha a csereszerződés alapján több körzeti földhivatalnál nyilvántartott ingatlanra kérik a tulajdonjog bejegyzését, az a körzeti földhivatal, amelyhez az okiratot benyújtották (a továbbiakban: megkereső körzeti földhivatal), ha nála a bejegyzésnek nincs akadálya, az eljárást felfüggeszti, és – az okirat megküldésével – megkeresi a többi körzeti földhivatalt (a továbbiakban: megkeresett körzeti földhivatal). Ha a megkeresett körzeti földhivatalnál sincs akadálya a bejegyzésnek, a tulajdonjogot bejegyzi és a fellebbezési határidő eredménytelen leteltét, illetve a fellebbezési jogról lemondó nyilatkozat beérkezését követően határozatának két példányával visszaküldi az okiratot a megkereső körzeti földhivatalnak, amely ekkor jegyzi be a változást. A megkereső körzeti földhivatal az illeték kiszabáshoz szükséges iratokat az okiratban első helyen megjelölt ingatlan fekvése szerint illetékes állami adóhatóságnak továbbítja.
+a) az eljárás több ingatlant érint, ennek hiányában
 
-(2) Ha a megkereső körzeti földhivatal elutasítja a kérelmet, erről a fellebbezési határidő eredménytelen leteltét, illetve a fellebbezési jogról lemondó nyilatkozat beérkezését követően döntése megküldésével értesíti a megkeresett körzeti földhivatalt, amely az eljárást megszünteti.
+b) a bejegyzés alapjául szolgáló okiratban első helyen megjelölt ingatlan fekszik.
 
-(3) Ha a megkeresett körzeti földhivatalnál van akadálya a bejegyzésnek, és ez a körzeti földhivatal utasítja el a kérelmet, erről a fellebbezési határidő eredménytelen leteltét, illetve a fellebbezési jogról lemondó nyilatkozat beérkezését követően döntése megküldésével értesíti a megkereső körzeti földhivatalt, amely az eljárást megszünteti.
+(2) A R. 7. § (4) és (5) bekezdése szerinti kérelem, megkeresés széljegyzését, a döntés foganatosítását, továbbá – a döntés meghozatalára jogosult járási földhivatal megkeresése alapján – a fellebbezés, bírósági jogorvoslati kérelem, felülvizsgálati kérelem, eljárás felfüggesztése, valamint az ügyészi felhívás és az azon alapuló ügyészi fellépés tényének feljegyzését és törlését az ingatlan fekvése szerint illetékes járási földhivatal végzi.
 
-[^152]: Az 56. alcím a 48/2010. (IV. 27.) FVM rendelet 69. §-ával megállapított szöveg.
-[^153]: A 77. § a 48/2010. (IV. 27.) FVM rendelet 69. §-ával bekezdésével megállapított szöveg.
+(3) A (2) bekezdésben részletezett intézkedést a járási földhivatal – jogszabály eltérő rendelkezése hiányában – 5 napon belül foganatosítja, és annak megtörténtéről a döntés meghozatalára jogosult járási földhivatalt egyidejűleg elektronikus úton is értesíti.
+
+(4) A döntés kézbesítéséről – a foganatosításról történt tudomásszerzést követően – a döntés meghozatalára jogosult járási földhivatal haladéktalanul gondoskodik.
+
+(5) A döntés meghozatalára jogosult járási földhivatal a fellebbezés, a bírósági jogorvoslati kérelem, felülvizsgálati kérelem, valamint az ügyészi felhívásra és az azon alapuló ügyészi fellépésre irányuló megkeresés másolatának megküldésével haladéktalanul megkeresi az eljárással érintett többi járási földhivatalt a fellebbezés, a bírósági jogorvoslati kérelem, a felülvizsgálati kérelem, valamint az ügyészi felhívás és az azon alapuló ügyészi fellépés tényének az érintett ingatlan tulajdoni lapjára történő feljegyzése végett.
+
+(6) A bejegyzésben fel kell tüntetni a döntést hozó járási földhivatal nevét és döntésének számát.
+
+(7) Az eljárás lefolytatása szempontjából lényeges intézkedésekről (például az eljárás akadályát képező megelőző széljegy elintézése) az eljárással érintett járási földhivatalok haladéktalanul elektronikus úton is értesítik egymást.
+
+(8) A döntés meghozatalára jogosult járási földhivatal döntése ellen – ideértve a (2) bekezdés szerinti intézkedéseket is – benyújtott fellebbezést elbíráló megyei földhivatal döntését, jogorvoslat esetén a bírósági jogerős döntését, továbbá a felülvizsgálati eljárásban született döntést valamennyi az ügyben érintett földhivatallal közvetlenül közli.
+
+(9) A (8) bekezdésben meghatározott döntésekkel kapcsolatos foganatosító intézkedésekre a (2) és (3) bekezdésben, azok közlésére pedig a (4) bekezdésben foglaltak megfelelően irányadók.
+
+[^178]: Az 56. alcím a 48/2010. (IV. 27.) FVM rendelet 69. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.
+[^179]: A 77. § a 148/2012. (XII. 28.) VM rendelet 12. §-ával megállapított szöveg.

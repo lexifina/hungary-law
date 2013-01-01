@@ -1,6 +1,6 @@
-## 126/A. §[^223] E rendelet 39/A. § (2) bekezdésének és 64. § (3) bekezdésének alkalmazásában az erdészeti hatóság által az Országos Erdőállomány Adatárból kiállított szemle és teljes másolat jogerős határozatnak minősül.
+## 126/C. §[^269] A 4/A. § (6) bekezdése szerinti rövidített megnevezést kell használni a tv. 49. § (3) bekezdésében meghatározott egyszerűsített határozatra is.
 
-## 127. §[^224] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
+## 127. §[^270] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
 
 1. 3. §-ával módosított 2. §-t,
 
@@ -136,8 +136,8 @@
 
 44. w) 120. § (1) bekezdését,
 
-44. x) 121. §-át az Mr. hatálybalépését[^225] követően indult ügyekben kell alkalmazni.
+44. x) 121. §-át az Mr. hatálybalépését[^271] követően indult ügyekben kell alkalmazni.
 
-[^223]: A 126/A. §-t a 85/2012. (VIII. 6.) VM rendelet 12. §-a iktatta be.
-[^224]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
-[^225]: A hatálybalépés időpontja: 2010. május 12.
+[^269]: A 126/C. §-t a 148/2012. (XII. 28.) VM rendelet 18. §-a iktatta be.
+[^270]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
+[^271]: A hatálybalépés időpontja: 2010. május 12.

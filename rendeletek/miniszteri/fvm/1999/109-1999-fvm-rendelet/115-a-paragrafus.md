@@ -1,3 +1,3 @@
-## 115. §[^197] A hozzáférési jogosultság felfüggesztéséről vagy visszavonásáról szóló határozatot a rendszer üzemeltetőjének is meg kell küldeni.
+## 115. §[^234] A hozzáférési jogosultság felfüggesztéséről vagy visszavonásáról szóló határozatot az ingatlan-nyilvántartásért felelős miniszternek is meg kell küldeni.
 
-[^197]: A 115. § a 117/2005. (XII. 19.) FVM rendelet 43. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^234]: A 115. § a 117/2005. (XII. 19.) FVM rendelet 43. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 24. § n) pontja szerint módosított szöveg.

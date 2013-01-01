@@ -1,4 +1,4 @@
-## 6.[^21] Haszonélvezeti jog
+## 6.[^32] Haszonélvezeti jog
 
 10. § (1) Haszonélvezeti jogot egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára, vagy az ingatlan természetben meghatározott vagy területnagyságban kifejezett részére lehet bejegyezni.
 
@@ -6,4 +6,4 @@
 
 (3) Haszonélvezeti jogot több jogosult javára egyidejűleg is be lehet jegyezni, fel kell azonban tüntetni, hogy a haszonélvezeti jog a jogosultakat közösen vagy egymást követő sorrendben illeti-e meg.
 
-[^21]: A 6. alcím a 48/2010. (IV. 27.) FVM rendelet 12. §-ával megállapított szöveg.
+[^32]: A 6. alcím a 48/2010. (IV. 27.) FVM rendelet 12. §-ával megállapított szöveg.
