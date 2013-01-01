@@ -30,7 +30,7 @@ a) a költségvetési szerv,
 
 b)[^117] az egyház és intézménye,
 
-c) a helyi önkormányzat, a kisebbségi önkormányzat, a többcélú kistérségi társulás, az önkormányzatok egyéb társulása, ha a támogatás teljes egészében önként vállalt helyi közügy megoldását vagy önkormányzati kötelező feladat ellátását szolgálja, továbbá nem kötelesek biztosítékot szolgáltatni, ha a fejlesztés tárgya vagy a fejlesztés eredményeként létrejövő vagyontárgy önkormányzati törzsvagyon, vagy törzsvagyonná válik,
+c)[^118] a helyi önkormányzat, a kisebbségi önkormányzat, , az önkormányzatok egyéb társulása, ha a támogatás teljes egészében önként vállalt helyi közügy megoldását vagy önkormányzati kötelező feladat ellátását szolgálja, továbbá nem kötelesek biztosítékot szolgáltatni, ha a fejlesztés tárgya vagy a fejlesztés eredményeként létrejövő vagyontárgy önkormányzati törzsvagyon, vagy törzsvagyonná válik,
 
 d) a vízgazdálkodási társulat, ha a támogatást teljes egészében az általa üzemeltetett önkormányzati vagy állami tulajdonú vizek és vízi létesítmények fejlesztésére használja fel,
 
@@ -40,13 +40,13 @@ f) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiak
 
 g) bármely kedvezményezett, ha a projektre megítélt támogatás összege nem haladja meg a húszmillió forintot, vagy ha a projektet több kedvezményezett valósítja meg, és a ráeső megítélt támogatás összege nem haladja meg a húszmillió forintot,
 
-h)–i)[^118]
+h)–i)[^119]
 
 j) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifizetését a projekt megvalósítását követően, egy összegben kérelmezi
 
 k) társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében.
 
-(9)[^119] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
+(9)[^120] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
 a) nem beruházási célú, vagy
 
@@ -55,5 +55,6 @@ b) kutatás-fejlesztésre vagy innovációra irányul.
 [^115]: A 33. § (1) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^116]: A 33. § (3) bekezdése a 25/2012. (II. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^117]: A 33. § (8) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 12. pontja szerint módosított szöveg.
-[^118]: A 33. § (8) bekezdés h)–i) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte.
-[^119]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^118]: A 33. § (8) bekezdés c) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^119]: A 33. § (8) bekezdés h)–i) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte.
+[^120]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
