@@ -12,7 +12,7 @@
 
 ## ………………………… úr, (nő)
 
-## Jegyző
+## Járási hivatal
 
 ## …………………………
 
@@ -70,9 +70,9 @@
 
 ## (rehabilitációs szakigazgatási szerv vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)
 
-4. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez
+4. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^47]
 
-…………………… ÖNKORMÁNYZAT JEGYZŐJÉNEK
+…………………… JÁRÁSI HIVATALNAK
 
 ## Családi és utóneve: ............................
 
@@ -99,3 +99,5 @@ Figyelem:
 Minden újonnan hadigondozásba vett személy esetén kitöltendő!
 
 * A nem kívánt szövegrész törlendő!
+
+[^47]: Az R. 4. számú melléklete a 174/2012. (VII. 26.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.

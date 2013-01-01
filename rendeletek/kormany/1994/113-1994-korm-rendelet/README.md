@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-113-20-
 | 2009-10-01 | 1994-113-20-22.10 | 113/1994. (VIII. 31.) Korm. rendelet |
 | 2011-01-01 | 1994-113-20-22.11 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2012-07-01 | 1994-113-20-22.12 | 95/2012. (V. 15.) Korm. rendelet |
+| 2013-01-01 | 1994-113-20-22.13 | 182/2009. (IX. 10.) Korm. rendelet |

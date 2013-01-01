@@ -1,4 +1,4 @@
-## …………………… ÖNKORMÁNYZAT JEGYZŐJÉNEK
+## …………………… JÁRÁSI HIVATALNAK
 
 ## Igénybejelentés
 
@@ -36,13 +36,13 @@
 
 ## * A megfelelő szövegrész aláhúzandó!
 
-6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^44]
+6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^49]
 
 Igazolvány száma: nyomdai szám
 
 1—100 000-ig
 
-………………………… ÖNKORMÁNYZAT JEGYZŐJE
+………………………… JÁRÁSI HIVATAL
 
 HADIGONDOZOTTI IGAZOLVÁNY
 
@@ -76,7 +76,7 @@ P. H.
 
 …………………………
 
-jegyző
+járási hivatal
 
 -------
 
@@ -106,4 +106,4 @@ Figyelmeztetés:
 
 3. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.
 
-[^44]: Az R. 6. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^49]: Az R. 6. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 4. § e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) és (6) bekezdése szerint módosított szöveg.
