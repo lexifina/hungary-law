@@ -1,22 +1,17 @@
-32/B. §[^62] (1) A Kormány a felügyelőség települési hulladéknak
+32/B. §[^65] (1) A Kormány a környezetvédelmi hatóság nem veszélyes hulladéknak
 
-a) a begyűjtése,
+a) a Ht. 13. § (2) bekezdésében, és 14. § (1) bekezdésében meghatározott kereskedelme, közvetítése, szállítása,
 
-b) – az országba való behozatal, az országból történő kivitel és az ország területén való átszállítás kivételével – az üzletszerű szállítása,
+b) a hasznosítása,
 
-c) – a települési hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 213/2001. (XI. 14.) Korm. rendelet 17. § (2) bekezdése szerinti hulladék fizikai előkezelése kivételével – az előkezelése,
+c) az ártalmatlanítása
 
-d) a tárolása,
+engedélyezése iránti első, és másodfokú eljárásában, az 5. számú melléklet szerinti feltételek esetén és szakkérdésben, az 5. számú mellékletben meghatározott hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság – hat hónapig felhasználható – előzetes szakhatósági állásfoglalást ad ki.
 
-e) a hasznosítása,
+(2) A (1) bekezdés szerinti eljárásban hozott határozatot az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal közölni kell.
 
-f) az ártalmatlanítása
+(3) A Kormány az OKTVF (1) bekezdésben foglaltak szerinti, első fokú eljárásában szakhatóságként az 5. számú melléklet szerint a másodfokú eljárásban közreműködő szakhatóságokat jelöli ki.
 
-## engedélyezése iránti első és másodfokú eljárásában, az 5. számú melléklet szerinti feltételek esetén és szakkérdésben, az 5. számú mellékletben meghatározott hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki.
+(4) A Kormány a felügyelőségnek állati hulladék hivatalbóli besorolására irányuló eljárásában, – annak elbírálása kérdésében, hogy az állati hulladék rendelkezik-e a Ht. 1. számú melléklete szerinti H9 veszélyességi jellemzővel – első fokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt szakhatóságként jelöli ki.
 
-(2) A (1) bekezdés szerinti eljárásban hozott határozatot az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal közölni kell.
-
-(3)[^63] A Kormány a felügyelőségnek a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet 4. § (2) bekezdése szerinti állati hulladék besorolására irányuló eljárásában, – annak elbírálása kérdésében, hogy az állati hulladék rendelkezik-e a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 2. számú melléklete szerinti H9 veszélyességi jellemzővel – első fokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt szakhatóságként jelöli ki.
-
-[^62]: A 32/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^63]: A 32/B. § (3) bekezdése a 145/2009. (VII. 10.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 170. § (5) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^65]: A 32/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 441/2012. (XII. 29.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
