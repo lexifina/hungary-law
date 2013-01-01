@@ -1,4 +1,4 @@
-## 8. §[^20]
+## 8. §[^19]
 
 ## 9. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 3. § (6) és (8) bekezdése 2013. január 1-jén lép hatályba.
 
-[^20]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
