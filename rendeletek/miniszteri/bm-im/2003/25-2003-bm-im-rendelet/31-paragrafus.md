@@ -6,6 +6,6 @@
 
 31. § (1) Ez a rendelet 2003. július 1-jén lép hatályba, és rendelkezéseit a folyamatban lévő bűnügyekben is alkalmazni kell.
 
-(2)[^58]
+(2)[^60]
 
-[^58]: A 31. § (2) bekezdését a 37/2004. (VI. 29.) BM rendelet 4. §-ának (1) bekezdése hatályon kívül helyezte.
+[^60]: A 31. § (2) bekezdését a 37/2004. (VI. 29.) BM rendelet 4. §-ának (1) bekezdése hatályon kívül helyezte.
