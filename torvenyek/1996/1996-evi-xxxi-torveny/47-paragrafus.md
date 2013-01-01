@@ -10,7 +10,7 @@ d) a létesítményi tűzoltóságra vonatkozó részletes szabályokat;
 
 e) az önkormányzati tűzoltóság létesítésének, működésének feltételeit, feladatát;
 
-f) a tűzvédelmi bírság, valamint e törvény 44. §-a alapján fizetendő hozzájárulás befizetési és elszámolási rendjét, valamint felhasználásának és ellenőrzésének módját;
+f) a tűzvédelmi bírság, befizetési és elszámolási rendjét,;
 
 g) a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szervet, a piacfelügyeleti bírság mértékét, továbbá a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági eljárás és a piacfelügyeleti bírság részletes szabályait;
 
