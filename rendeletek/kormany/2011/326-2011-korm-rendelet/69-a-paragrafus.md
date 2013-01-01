@@ -1,4 +1,4 @@
-69/A. §[^8] (1) Az SP betűjelű ideiglenes rendszámtábla kiadásának, használatának a közlekedési igazgatási hatóság által történő engedélyezési feltételei:
+69/A. §[^13] (1) Az SP betűjelű ideiglenes rendszámtábla kiadásának, használatának a közlekedési igazgatási hatóság által történő engedélyezési feltételei:
 
 a) a jármű jogszerű birtoklásának okirattal történő igazolása,
 
@@ -18,4 +18,4 @@ d) a kötelező gépjármű-felelősségbiztosítás meglétének igazolása.
 
 (6) Az SP betűjelű ideiglenes rendszámtábla elvesztését, eltűnését, megrongálódását a tulajdonos (üzemben tartó) köteles haladéktalanul a közlekedési igazgatási hatóságnál bejelenteni.
 
-[^8]: A 69/A. §-t a 228/2012. (VIII. 23.) Korm. rendelet 7. § (5) bekezdése iktatta be.
+[^13]: A 69/A. §-t a 228/2012. (VIII. 23.) Korm. rendelet 7. § (5) bekezdése iktatta be.

@@ -40,6 +40,6 @@
 
 ## – állati erővel vont jármű
 
-5. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^24]
+5. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^30]
 
-[^24]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (17) bekezdése szerint módosított szöveg.
+[^30]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (17) bekezdése szerint módosított szöveg.

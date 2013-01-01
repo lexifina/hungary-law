@@ -40,7 +40,7 @@ d) a 32. § c) pontja esetén az ellenőrző hatóság intézkedéséről szól�
 
 (8) A (3) bekezdés b) pontja esetén a vezetői engedélyt a határidő letelte előtt vissza kell adnia vádemelést megelőzően az ügyben eljáró ügyészség, a vádemelést követően az ügyben eljáró bíróság értesítése alapján. A közlekedési igazgatási hatóság a vezetői engedély visszaadásának és a vezetési jogosultság szünetelésének megszűnését a nyilvántartásba bejegyzi, és ezekről az értesítést küldő hatóságot tájékoztatja.
 
-(9)[^1] A közlekedési igazgatási hatóság a vezetői engedély visszavonásáról, bevonásáról és a vezetési jogosultság szüneteléséről határozatot hoz, amelyben kötelezi az ügyfelet a vezetői engedély leadására, ha annak elvételére a 32. §-ban foglaltak ellenére a helyszínen nem került sor vagy a helyszíni elvétel kizárt. A határozat meghozatalával egyidejűleg a vezetői engedély visszavonásának, bevonásának és a vezetési jogosultság szünetelésének tényét a közlekedési igazgatási hatóság nyilvántartásba veszi.
+(9)[^4] A közlekedési igazgatási hatóság a vezetői engedély visszavonásáról, bevonásáról és a vezetési jogosultság szüneteléséről határozatot hoz, amelyben kötelezi az ügyfelet a vezetői engedély leadására, ha annak elvételére a 32. §-ban foglaltak ellenére a helyszínen nem került sor vagy a helyszíni elvétel kizárt. A határozat meghozatalával egyidejűleg a vezetői engedély visszavonásának, bevonásának és a vezetési jogosultság szünetelésének tényét a közlekedési igazgatási hatóság nyilvántartásba veszi.
 
 (10) A helyszínen vagy az eljáró hatóság által elvett vezetői engedélyt csak a közlekedési igazgatási hatóság adhatja vissza.
 
@@ -48,4 +48,4 @@ d) a 32. § c) pontja esetén az ellenőrző hatóság intézkedéséről szól�
 
 (12) Ha a vezetői engedély, vagy az abba tett bejegyzés hamis, hamisított, vagy valótlan tényt, jogosultságot tartalmaz, a nyomozó hatóság lefoglalást megszüntető, vagy a büntetőeljárást lezáró határozata alapján a közlekedési igazgatási hatóság a vezetői engedély visszavonásával egyidejűleg intézkedik az engedély-nyilvántartásban szereplő valótlan adatok javítására, törlésére vagy az okmány érvénytelenítését követő selejtezésre.
 
-[^1]: A 36. § (9) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 36. § (9) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

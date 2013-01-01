@@ -8,7 +8,7 @@
 
 (4) A vezetői engedély „F” kategóriájában bejegyzett, a mezőgazdasági vontató vezetésére vonatkozó jogosultságot a megfelelő nemzeti kategória kiadásával kell biztosítani.
 
-(4a)[^20] Az 1991. évet követően szerzett „M” kategóriában érvényes vezetői jogosultságot igazoló vezetői engedélyt (járművezetői igazolványt) a közlekedési igazgatási hatóság 2013. január 19-ét követően kérelemre „AM” kategóriára érvényes vezetői engedélyre cseréli.
+(4a)[^26] Az 1991. évet követően szerzett „M” kategóriában érvényes vezetői jogosultságot igazoló vezetői engedélyt (járművezetői igazolványt) a közlekedési igazgatási hatóság 2013. január 19-ét követően kérelemre „AM” kategóriára érvényes vezetői engedélyre cseréli.
 
 (5) 1984. január 1-je és 1992. december 31-e között a fegyveres erők illetékes szerve által kiadott „C” és/vagy „E” kategóriára érvényesített vezetői engedély továbbra is jogosít a Magyar Honvédség üzemeltetésébe tartozó jármű vezetésére, ha a járművezető a „B” kategóriában érvényesített vezetői engedéllyel is rendelkezik.
 
@@ -24,4 +24,4 @@
 
 (11) A 3. melléklet I. pontjában meghatározott életkori feltételeket 2013. január 18-át követően a 2013. január 18-áig teljes körű vizsgát tettek vonatkozásában továbbra is alkalmazni kell.
 
-[^20]: A 120. § (4a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (15) bekezdése iktatta be.
+[^26]: A 120. § (4a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (15) bekezdése iktatta be.

@@ -1,3 +1,5 @@
+## 1/A. §[^2] A megye területére kiterjedő illetékességgel a „P”, és a „Z” betűjelű ideiglenes, valamint a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járműre a szabványtól eltérő alapszínű (sárga) rendszámtábla kiadásával, továbbá az ilyen jellegű járművek üzemeltetési jellegével, annak változásával, üzembentartói és tulajdonjogának változásával kapcsolatos feladatok ellátása a megyeszékhelyen működő járási hivatal hatáskörébe tartozik.
+
 2. § (1) E rendelet alkalmazásában:
 
 1. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes más állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
@@ -23,3 +25,5 @@
 9. vezetői engedély honosítása: egy harmadik ország hatósága által kiadott vezetői engedély helyett e rendelet szabályai szerinti magyar vezetői engedély kiadására irányuló eljárás.
 
 (2) Amennyiben e rendelet viszonosságról rendelkezik, akkor a viszonosság fennállása tekintetében a közlekedésért felelős miniszter és a külpolitikáért felelős miniszter nyilatkozata az irányadó.
+
+[^2]: Az 1/A. §-t a 418/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.

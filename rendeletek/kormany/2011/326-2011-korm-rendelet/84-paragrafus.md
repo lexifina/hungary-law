@@ -1,4 +1,4 @@
-84. § (1) A törzskönyvet a kérelmező a kérelem benyújtásakor tett, az okmányirodai átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően az okmányirodában személyesen vagy postai úton veheti át.
+84. § (1)[^19] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
 
 (2) Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően a Hivatalnak megsemmisítés céljából megküldi.
 
@@ -27,3 +27,5 @@ b) a „haszonélvezeti joggal terhelt” bejegyzés, ha a járműre haszonélve
 c) a „közös tulajdon” bejegyzés, ha a jármű tulajdonjoga több személyt is megillet;
 
 d) az „előzetes eredetiségvizsgálat hiánya” bejegyzés, ha a jármű forgalomba helyezése, illetve tulajdonjogában bekövetkezett változás nyilvántartásba vételére az előzetes eredetiségvizsgálat elvégzése nélkül kerül sor.
+
+[^19]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

@@ -36,6 +36,6 @@
 
 ## A mellékletben szereplő közúti járművek fogalmára a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet rendelkezései vonatkoznak.
 
-2. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^23]
+2. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^29]
 
-[^23]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (21) bekezdése szerint módosított szöveg.
+[^29]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (21) bekezdése szerint módosított szöveg.
