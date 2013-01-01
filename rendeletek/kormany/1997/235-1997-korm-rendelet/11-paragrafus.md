@@ -1,1 +1,3 @@
-## 10. § Illetékességváltozás esetén az érintett gyermekre, illetve gondnokság alatt álló személyre vonatkozó nyilvántartást az ügy irataival együtt az illetékessé vált gyámhatósághoz kell áttenni.
+## 10. §[^10] Illetékességváltozás esetén az érintett gyermekre, illetve gondnokság alatt álló személyre vonatkozó nyilvántartást az ügy irataival együtt az illetékessé vált gyámhivatalhoz kell áttenni.
+
+[^10]: A 10. § a 174/2012. (VII. 26.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

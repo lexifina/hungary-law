@@ -4,8 +4,6 @@
 
 ## [Gyvt. 138. § (3) bek.]
 
-## (A jegyző tölti ki, részben a gyámhivatal értesítése alapján.)
-
 | A nyilvántartásba vétel időpontja: |  |
 
 | 1. | A gyermek személyi adatai: |  |
@@ -124,7 +122,7 @@
 
 ## [Gyvt. 138. § (2) bek.]
 
-## (Jegyző tölti ki.)
+## (Gyámhivatal tölti ki.)
 
 | A nyilvántartásba vétel időpontja: |  |
 
@@ -184,7 +182,7 @@
 
 | 4. | Határozat: |  |
 
-|  | Határozatot hozó jegyző megnevezése: |  |
+|  | Határozatot hozó gyámhivatal megnevezése: |  |
 
 |  | Száma: |  |
 
@@ -1362,7 +1360,7 @@
 
 | 3. | Határozat: |  |
 
-|  | Határozatot hozó gyámhatóság megnevezése: |  |
+|  | Határozatot hozó gyámhivatal megnevezése: |  |
 
 |  | Száma: |  |
 
@@ -2510,7 +2508,7 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^13]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^14]
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -2736,7 +2734,7 @@ a) önkéntes jelentkezés esetén, amennyiben a feltárt probléma előrelátha
 
 b) jelzőrendszerből érkező értesítés esetén,
 
-2. egyszerű környezettanulmány, védelembe vételre vonatkozó javaslattétel, illetve véleménynyilvánítás akkor, ha a gyámhatóság felkérését nem előzte meg gyermekjóléti szolgáltatás.
+2. egyszerű környezettanulmány, védelembe vételre vonatkozó javaslattétel, illetve véleménynyilvánítás akkor, ha a gyámhivatal felkérését nem előzte meg gyermekjóléti szolgáltatás.
 
 A családgondozó az adatlap „Következtetések, további tennivalók” részében indokolja az eset lezárását vagy folytatását, illetve megteszi javaslatát a hatóságnak.
 
@@ -2746,7 +2744,7 @@ Amennyiben a gyermek veszélyeztetett, az eset ezen a lapon nem zárható le, ha
 
 Az adatlap kitöltője: a gyermekjóléti szolgálat.
 
-A kitöltés kezdete: a család jelentkezése, a jelzés, illetve a gyámhatósági felkérés beérkezése.
+A kitöltés kezdete: a család jelentkezése, a jelzés, illetve a gyámhivatali felkérés beérkezése.
 
 Az adatlap továbbítása: a Törzslappal együtt, amennyiben a hatóság számára környezettanulmányként, javaslattételként készült.
 
@@ -2810,7 +2808,7 @@ Az adatlap funkciója:
 
 2. a családgondozáshoz szükséges feltárás segítése, dokumentálása,
 
-3. a gyámhatóság, a területi gyermekvédelmi szakszolgálat és a gondozóhely tájékoztatása abban az esetben, ha a gyermek nevelésbe vételét javasolják, illetve, ha otthont nyújtó ellátásba kerül.
+3. a gyámhivatal, a területi gyermekvédelmi szakszolgálat és a gondozóhely tájékoztatása abban az esetben, ha a gyermek nevelésbe vételét javasolják, illetve, ha otthont nyújtó ellátásba kerül.
 
 Az adatlap kitöltője: a gyermekjóléti szolgálat
 
@@ -3158,9 +3156,7 @@ A kitöltés ideje: a védelembe vételi határozat jogerőre emelkedését köv
 
 Az adatlap továbbítása:
 
-1. védelembe vétel során a határozatot hozó jegyzőnek,
-
-2. a gyámhivatal az eljáró illetékes jegyzőtől szerzi be az esetre vonatkozó iratanyagot.
+1. védelembe vétel során a határozatot hozó gyámhivatalnak,
 
 VIII. számú adatlap
 
@@ -3258,9 +3254,9 @@ Az adatlap kitöltője: a gyermekjóléti szolgálat.
 
 A kitöltés ideje: a felülvizsgálatot megelőző 15 nap.
 
-Az adatlap továbbítása: a védelembe vételt elrendelő jegyzőnek, 10 nappal a kitűzött felülvizsgálat időpontja előtt.
+Az adatlap továbbítása: a védelembe vételt elrendelő gyámhivatalnak, 10 nappal a kitűzött felülvizsgálat időpontja előtt.
 
-Nevelésbe vételi javaslat esetén a javaslattevő jegyző vagy gyermekjóléti szolgálat megküldi a gyámhivatalnak.
+Nevelésbe vételi javaslat esetén a javaslattevő gyermekjóléti szolgálat megküldi a gyámhivatalnak.
 
 IX. számú adatlap
 
@@ -3530,11 +3526,11 @@ XI. számú adatlap
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
-| f) Etnikai, nyelvi szempontok:9 |
+| f) Etnikai, nyelvi szempontok:15 |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: | Igény: |
 
-9A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+15A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -3542,7 +3538,7 @@ XI. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-| g) Vallás – pl.: vallási ünnepek, szokások:10 |
+| g) Vallás – pl.: vallási ünnepek, szokások:16 |
 
 | Igény: | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -3564,7 +3560,7 @@ XI. számú adatlap
 
 | Célok, megállapodások: |
 
-10 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+16 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | j) A szülő/törvényes képviselő és a gyermek kapcsolatának jellemzése: |
 
@@ -3694,7 +3690,7 @@ XII. számú adatlap
 
 | Milyen feladatokat ad a gyermek esetleges munkába állásának elősegítése? | Milyen segítséget nyújt az intézmény a szülőnek a feladatok ellátásához? |
 
-| Etnikai, nyelvi, kulturális szempontok11 |
+| Etnikai, nyelvi, kulturális szempontok17 |
 
 | Amennyiben etnikai hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok megnevezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3704,9 +3700,9 @@ XII. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-11 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+17 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások12 |
+| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások18 |
 
 | Amennyiben vallási hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok részletezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3732,7 +3728,7 @@ XII. számú adatlap
 
 | Igényel-e az intézménytől segítséget a kapcsolattartás biztosítása? |
 
-12 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+18 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | 3. Van-e hatályban a gyermekre vonatkozó/gyermekkel kapcsolatos gyermekvédelmi hatósági intézkedés, illetve büntetőeljárás? Ha igen, ismertesse! |
 
@@ -3864,13 +3860,13 @@ A kitöltés ideje:
 
 1. az átmeneti gondozás befejezésekor,
 
-2. a gyámhatóság felkérésére bármikor a gondozás folyamán.
+2. a gyámhivatal felkérésére bármikor a gondozás folyamán.
 
 Az adatlap továbbítása:
 
 1. a gyermekjóléti szolgálatnak a gondozás befejezését követő 15 napon belül,
 
-2. a gyámhatóság részére a megkeresés szerint, vagy az azt követő 15 napon belül.
+2. a gyámhivatal részére a megkeresés szerint, vagy az azt követő 15 napon belül.
 
 XV. számú adatlap
 
@@ -3926,7 +3922,7 @@ XV. számú adatlap
 
 |  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  | e) Nemzetiségi, etnikai hovatartozás, anyanyelv ápolása13 |
+|  | e) Nemzetiségi, etnikai hovatartozás, anyanyelv ápolása19 |
 
 |  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
@@ -3936,7 +3932,7 @@ XV. számú adatlap
 
 |  |  | szülő, más törvényes képviselő aláírása |
 
-|  | f) Vallás: a szülő(k) és a gyermek igénylik-e a gyermek vallásos nevelését?14 |
+|  | f) Vallás: a szülő(k) és a gyermek igénylik-e a gyermek vallásos nevelését?20 |
 
 |  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
@@ -4048,9 +4044,9 @@ XV. számú adatlap
 
 |  | oktatás |  |  |  |
 
-|  | nemzeti, etnikai, anyanyelvi hovatartozás15 |  |  |  |
+|  | nemzeti, etnikai, anyanyelvi hovatartozás21 |  |  |  |
 
-|  | vallás16 |  |  |  |
+|  | vallás22 |  |  |  |
 
 |  | kultúra, sport |  |  |  |
 
@@ -4078,13 +4074,13 @@ XV. számú adatlap
 
 | Egyéb meghívott gondozási helyek képviseletében |  |  |
 
-13 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+19 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-14 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+20 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-15 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján feladatot határoztak meg e tárgykörben.
+21 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján feladatot határoztak meg e tárgykörben.
 
-16 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján feladatot határoztak meg e tárgykörben.
+22 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján feladatot határoztak meg e tárgykörben.
 
 | II. Egyéni elhelyezési terv átmeneti nevelésbe vétel esetén |
 
@@ -4508,9 +4504,9 @@ XVII. számú adatlap
 
 | 8. Ismeri és figyelembe veszi-e a gyám a szülők és a gyermek gondozásával, ellátásával, életpályájának megtervezésével kapcsolatos véleményét? Ha konfliktusok adódnak e téren, hogyan rendezik azokat? |
 
-| 9. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti lehetőséget saját etnikai identitása megismeréséhez, annak ápolásához?17 Amennyiben a tervek készítésekor sem ő, sem a szülője nem jelzett ilyen igényt, ismerik-e a jelenlegi véleményét a kérdésről, és segítik-e őt a véleménye kialakításában? |
+| 9. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti lehetőséget saját etnikai identitása megismeréséhez, annak ápolásához?23 Amennyiben a tervek készítésekor sem ő, sem a szülője nem jelzett ilyen igényt, ismerik-e a jelenlegi véleményét a kérdésről, és segítik-e őt a véleménye kialakításában? |
 
-| 10. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti vallásgyakorlás lehetőségét?18 |
+| 10. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti vallásgyakorlás lehetőségét?24 |
 
 | Amennyiben a tervek készítése során sem a gyermek, sem a szülője nem jelzett ilyen igényt, biztosítják-e számára a lehetőséget a vallások megismeréséhez, a szabad vallásválasztáshoz és -gyakorláshoz? Ismerik-e az ilyen irányú igényeit? |
 
@@ -4576,9 +4572,9 @@ XVII. számú adatlap
 
 |  | Dátum: |  | aláírás: |
 
-17 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
+23 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
 
-18 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
+24 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
 
 | A Helyzetértékelési adatlapot látták: |
 
@@ -4694,11 +4690,11 @@ XVIII. számú adatlap
 
 | 5. Mennyiben vett részt a gyermek életpályájának megtervezésében illetve kijelölésében? Egyeztetett-e a gyermekkel, a szülővel, a gondozó intézménnyel/személlyel, egyéb intézményekkel? |
 
-| 6. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti lehetőséget saját etnikai identitása megismeréséhez, annak ápolásához?19 |
+| 6. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti lehetőséget saját etnikai identitása megismeréséhez, annak ápolásához?25 |
 
 | Amennyiben a tervek készítésekor sem ő, sem a szülője nem jelzett ilyen igényt, ismerik-e a jelenlegi véleményét a kérdésről, és segítik-e őt a véleménye kialakításában? |
 
-| 7. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti vallásgyakorlás lehetőségét? 20 |
+| 7. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti vallásgyakorlás lehetőségét? 26 |
 
 | Amennyiben a tervek készítése során sem a gyermek, sem a szülője nem jelzett ilyen igényt, biztosítják-e számára a lehetőséget a vallások megismeréséhez, a szabad vallásválasztáshoz és -gyakorláshoz? Ismerik-e az ilyen irányú igényeit? |
 
@@ -4728,9 +4724,9 @@ XVIII. számú adatlap
 
 | Aláírás, dátum: |
 
-19 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
+25 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
 
-20 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
+26 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
 
 Útmutató a kitöltéshez:
 
@@ -4850,7 +4846,7 @@ XIX. számú adatlap
 
 | Feladat: | Határidő: | Felelős: |
 
-| c) Etnikai, nyelvi, kulturális szempontok21 |
+| c) Etnikai, nyelvi, kulturális szempontok27 |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: |
 
@@ -4864,7 +4860,7 @@ XIX. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-| d) Vallás – pl. vallási ünnepek, szokások22 |
+| d) Vallás – pl. vallási ünnepek, szokások28 |
 
 | Igény: |
 
@@ -4902,9 +4898,9 @@ XIX. számú adatlap
 
 | Feladat: | Határidő: | Felelős: |
 
-21 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+27 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-22A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+28A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Sorolja fel azokat a szabadidős, társadalmi, illetve hobbitevékenységeket, amelyeket korábban végzett, de a jelenlegi helyen nem folytathat a gyermek és indokolja meg, miért nem! |
 
@@ -5310,4 +5306,4 @@ XXII. számú adatlap
 
 | 10. Következő felülvizsgálat időpontja: |
 
-[^13]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 21. § (4) bekezdése alapján a rendelkezést 2007. április 1-jétől a folyamatban lévő ügyekben is alkalmazni kell.
+[^14]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja szerint módosított szöveg.

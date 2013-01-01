@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-235-20-
 | 2009-09-01 | 1997-235-20-22.7 | 235/1997. (XII. 17.) Korm. rendelet |
 | 2011-01-01 | 1997-235-20-22.8 | 360/2010. (XII. 30.) Korm. rendelet |
 | 2012-03-03 | 1997-235-20-22.9 | 251/2006. (XII. 6.) Korm. rendelet |
+| 2013-01-01 | 1997-235-20-22.10 | 251/2006. (XII. 6.) Korm. rendelet |
