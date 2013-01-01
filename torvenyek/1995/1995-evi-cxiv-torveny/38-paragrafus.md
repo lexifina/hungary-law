@@ -26,4 +26,6 @@ a) a kérelmet már az etikai tanács kijelölése nélkül el kellett volna uta
 
 b) a sérelmezett cselekmény a 26. § (1) bekezdése alapján nem minősül etikai vétségnek,
 
-c) a panaszolt szakértő kamarai tagsága megszűnt.
+c) a cselekmény elévülése miatt az eljárás megindítását meg kellett volna tagadni,
+
+d) a panaszolt szakértő kamarai tagsága megszűnt.

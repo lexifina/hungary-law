@@ -14,11 +14,9 @@ d) a kezdeményezést a 33. § (1) bekezdés a) vagy b) pontja alapján el kelle
 
 (3) A cselekmény elévült, ha
 
-a) a cselekménynek a kezdeményező tudomására jutásától számítva hat hónap vagy
+a) a kezdeményező a cselekménynek a tudomására jutásától számított hat hónap alatt az etikai eljárást nem kezdeményezte vagy
 
-b) a cselekmény elkövetése óta két év
-
-eltelt a kezdeményezés előterjesztése nélkül.
+b) a cselekmény befejezése óta két év eltelt.
 
 (4) Ha a panaszolt szakértő a szakvélemény elkészítése során vagy a szakvélemény elkészítését követően, ahhoz kapcsolódóan több részcselekményt végez, az elévülési idő kezdőidőpontja az utolsó részcselekmény elvégzésének időpontja.
 
