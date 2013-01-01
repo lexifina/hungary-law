@@ -12,11 +12,11 @@ c)[^3] bejegyzett szaktanácsadó: az agrár-szaktanácsadói tevékenység enge
 
 d) erdőgazdálkodó üzemi területe: az az erdőterület, amelyen az erdészeti hatóság az adott személyt erdőgazdálkodóként tartja nyilván;
 
-e)[^4] kertészeti termelő: az a mezőgazdasági termelő, aki kertészeti szakmai szervezeti tagsággal rendelkezik, és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 1. számú melléklete szerinti D14A – D17, D34, E, G01A – G05, G07, I02 SFH kódok közül az 5. § (2) bekezdés c) pontjában meghatározott évben legalább eggyel rendelkezik;
+e)[^4] kertészeti termelő: az a mezőgazdasági termelő, aki az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 21. § (2) bekezdése szerinti hatályos közleményben közzétett SFH listában szereplő D14A–D17, D34, E, G01A–G01C, G04A–G04D, G05, G07, I02 SFH kódok közül az 5. § (2) bekezdés c) pontjában meghatározott évben legalább eggyel rendelkezik, és e rendelet alapján kertészeti termelőként igényel támogatást;
 
 f) szolgáltatási végpont: a TSzK olyan szervezeti egysége, amely a szaktanácsadók bevonásával önállóan, vagy másik szervezeti egységével közösen biztosítja a támogatásra jogosult igényeinek megfelelő szolgáltatást, de sem szerződéskötési, sem számlakibocsátó jogosultsággal nem rendelkezik;
 
-g)[^5] mezőgazdasági termelő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, aki/amely a Vhr. 1. számú melléklete szerinti SFH kódok közül legalább eggyel rendelkezik;
+g)[^5] mezőgazdasági termelő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, aki/amely a Vhr. 21. § (2) bekezdése szerinti hatályos közleményben közzétett SFH listában szereplő SFH kódok közül az 5. § (2) bekezdés a) pontjában meghatározott évben legalább eggyel rendelkezik;
 
 h)[^6]
 
@@ -27,8 +27,8 @@ i)[^7] de minimis támogatás: a Szerződés 87. és 88. cikkének a de minimis 
 [^1]: A 2. § (1) bekezdés a) pontja a 168/2009. (XII. 15.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^2]: A 2. § (1) bekezdés b) pontja a 168/2009. (XII. 15.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^3]: A 2. § (1) bekezdés c) pontja a 168/2009. (XII. 15.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^4]: A 2. § (1) bekezdés e) pontja a 91/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdés g) pontját a 154/2008. (XI. 26.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést csak a 2008. november 27. napját követően kötött szerződések tekintetében lehet alkalmazni.
+[^4]: A 2. § (1) bekezdés e) pontja a 112/2012. (XI. 7.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés g) pontját a 154/2008. (XI. 26.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 112/2012. (XI. 7.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés h) pontját a 168/2009. (XII. 15.) FVM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 91/2011. (X. 3.) VM rendelet 12. § a) pontja.
 [^7]: A 2. § (1) bekezdés i) pontját a 91/2011. (X. 3.) VM rendelet 1. § (2) bekezdése iktatta be.
 [^8]: A 2. § (2) bekezdését a 90/2007. (VIII. 23.) FVM rendelet 9. § (2) bekezdése hatályon kívül helyezte, újonnan a 96/2008. (VII. 25.) FVM rendelet 1. § (3) bekezdése iktatta be.

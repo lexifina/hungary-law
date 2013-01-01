@@ -1,47 +1,32 @@
-## A támogatási kérelem benyújtása
+## Az egyesített támogatási-kifizetési kérelem benyújtása[^22]
 
-6. § (1)[^21] Az ügyfél a szolgáltatási szerződés alapján készített támogatási kérelmét a TSzK integrált rendszerén keresztül nyújthatja be. A TSzK a vele szolgáltatási szerződést kötött ügyfelek támogatási kérelmeit 2010. évtől kezdődően évente az adott évben hatályba lépő szerződésekre vonatkozóan
+6. §[^23] (1) Egyesített támogatási-kifizetési kérelem benyújtására azon ügyfél jogosult, akinek – a TSzK-val kötött 5. § (1) bekezdés szerinti – szolgáltatói szerződése teljesült, és a szolgáltatás díját a TSzK részére kifizette. Egyesített támogatási-kifizetési kérelmet az ügyfél a (2) bekezdés szerinti utolsó egyesített támogatási-kifizetési kérelem benyújtási időszak végéig nyújthat be. E határidőnek jogvesztő hatálya van.
 
-a) január 1-jétől 31-ig,
+(2) Az ügyfél az egyesített támogatási-kifizetési kérelmét ügyfélkapun keresztül elektronikus űrlapon nyújthatja be a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) a 2013. évben
 
-b) május 1-jétől 31-ig,
+a) április 1-jétől május 31-ig, valamint
 
-c) szeptember 8-tól október 8-ig
+b) november 1-jétől december 31-ig.
 
-## gyűjti be.
+(3) Az ügyfélnek minden naptári évben legfeljebb egy egyesített támogatási-kifizetési kérelme támogatható.
 
-(2) A TSzK a vele szolgáltatási szerződést kötött ügyfelek támogatási kérelmeit összesítve nyújtja be a TSzK székhelye szerint területileg illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltséghez.
+(4) Az egyesített támogatási-kifizetési kérelem adatainak meg kell egyeznie az alapjául szolgáló, a TSzK elektronikus rendszerében rögzített és az alapján létrejött szolgáltatási szerződés adataival. A TSzK elektronikus rendszerében rögzített adatokat a NAKVI az egyesített támogatási-kifizetési kérelem benyújtására nyitva álló időszak első napját megelőző 30. napig átadja az MVH részére. A NAKVI köteles a honlapján közzétenni, hogy az adatátadási kötelezettségének az MVH felé mikor tett eleget.
 
-(3)[^22] A támogatási kérelem benyújtási időpontjának a TSzK által összesített támogatási kérelem MVH kirendeltség részére történő benyújtásának időpontja tekintendő.
+(5) Az egyesített támogatási-kifizetési kérelemhez csatolni kell az igénybe vett szaktanácsadási szolgáltatás teljesítését igazoló, az ügyféllel szerződéses kapcsolatban álló TSzK által kiállított, az ügyfél által pénzügyileg rendezett bizonylatok ügyfél példányának (a továbbiakban: teljesítési bizonylat), a pénzügyi teljesítést igazoló bizonylatoknak, valamint az aláírt szaktanácsadási napló kivonatának lapolvasóval készített elektronikus másolatát. A TSzK felelős a szaktanácsadási naplónak a TSzK integrált rendszerében való elektronikus vezetéséért, amelyben a szaktanácsadási szolgáltatás teljesítésének minden eseménye feltüntetésre kerül napló bejegyzések formájában. A napló kivonatot a napló bejegyzések alapján az elektronikus rendszer generálja. A kinyomtatott szaktanácsadási napló kivonat teljesítés igazolásként szolgál, amelyet az ügyfél és a szaktanácsadó aláírásával lát el. A napló kivonat kötelező tartalma: a szerződés száma, a TSzK, a szaktanácsadó, valamint az ügyfél neve, regisztrációs száma, a szolgáltatás helye, időpontja, időtartama, módja, a szolgáltatás – 1. számú mellékletben meghatározott – kódszáma. A TSzK köteles a napló kivonatot öt évig megőrizni, és ellenőrzés esetén bemutatni. A TSzK a napló kivonat másodpéldányát az ügyfél rendelkezésére bocsátja.
 
-(4)[^23] A támogatási kérelem adatainak meg kell egyeznie a TSzK-val kötött szolgáltatási szerződés vonatkozó adataival. Az ügyfél támogatási kérelmének a TSzK által ellenjegyzett másodpéldányát és a szerződés másodpéldányát a TSzK az ügyfél rendelkezésére bocsátja. A TSzK folyamatosan vezetett naplóban köteles nyilvántartani a szerződések megkötését és az ügyfelek támogatási kérelmeit a dátumok feltüntetésével.
+(6) A teljesítési bizonylaton legkésőbb az egyesített támogatási-kifizetési kérelem benyújtásának napján fel kell tüntetni
 
-(5) Kertészeti termelő esetén a támogatási kérelemhez mellékelni kell a kertészeti szakmai szervezeti tagságot és jogosultságot igazoló dokumentumot.
+a) az igénybe vett szolgáltatás 1. számú mellékletben feltüntetett azonosító kódját, az elszámolt tétel Szolgáltatások Jegyzéke szerinti számát, vámtarifaszámát vagy kombinált nómenklatúra kódját,
 
-(6)[^24] A TSzK az összesített támogatási kérelmeket az (1) bekezdésben megjelölt határidő lejártát követő 15 napon belül benyújtja az MVH részére. A TSzK az összesített támogatási kérelmek MVH részére történő benyújtásáért teljes körű anyagi felelősséggel tartozik.
+b) az ügyfél regisztrációs számát, a szaktanácsadási szerződés számát, valamint a „Támogatás elszámolására benyújtásra került” bejegyzést.
 
-(7)[^25] A TSzK kvótájának mennyiségét a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) tartja nyilván, a TSzK-k által elektronikusan megküldött adatok alapján.
+Ha a teljesítési bizonylat nem felel meg ezeknek az előírásoknak, akkor a teljesítési bizonylat az elszámoláshoz nem fogadható el.
 
-(8)[^26] A szerződésben foglalt szolgáltatásokat a TSzK a szolgáltatási szerződés hatálybalépésének időpontjától megkezdheti, és legkésőbb a szerződés lejártáig köteles teljesíteni.
+(7) Kifizetés alapját csak a (6) bekezdésben foglaltaknak megfelelő számviteli bizonylaton szereplő kiadás képezheti. Amennyiben a bizonylat a (6) bekezdés b) pontjában foglaltaknak való meg nem felelés miatt került elutasításra, amelyre vonatkozóan hiánypótlásnak helye nincs, úgy az elutasított bizonylat más kifizetési kérelemhez kapcsolódóan ismételten nem nyújtható be.
 
-(9)–(10)[^27]
+(8) Elszámolható költségnek az ügyféllel szerződéses kapcsolatban álló TSzK által kiállított, az ügyfél által pénzügyileg rendezett számlával, a pénzügyi teljesítését igazoló bizonylattal és a szaktanácsadási napló kivonattal alátámasztott – az 1. számú mellékletben meghatározott – szaktanácsadási szolgáltatás díja minősül.
 
-(11)[^28] Ha a szolgáltatási szerződés módosításra kerül, akkor a TSzK köteles a módosított szerződés másolatát az MVH-hoz a kifizetési kérelemhez csatolva benyújtani.
+(9) Az erdőgazdálkodó ügyfél az egyesített támogatási-kifizetési kérelmében köteles nyilatkozni a kérelem benyújtását megelőző kettő pénzügyi évben és az egyesített támogatási-kifizetési kérelem benyújtásának pénzügyi évében kapott valamennyi, az általános „de minimis” rendelet hatálya alá tartozó csekély összegű támogatás összegéről.
 
-(12)[^29] Az erdőgazdálkodó ügyfél a támogatási kérelmében köteles nyilatkozni a kérelem benyújtását megelőző kettő pénzügyi évben és a támogatási kérelem benyújtásának pénzügyi évében kapott valamennyi, az általános „de minimis” rendelet hatálya alá tartozó csekély összegű támogatás összegéről.
-
-(13)[^30] A Vhr. 6. § (5) bekezdésében foglaltaktól eltérően – mezőgazdasági őstermelő ügyfél esetében – a támogatási kérelméhez nem kell mellékelni az őstermelői igazolvány hiteles másolatát.
-
-(14)[^31] Egyéni vállalkozó ügyfél esetében a Vhr. 15. § (2) bekezdésében foglaltakat nem kell alkalmazni.
-
-[^21]: A 6. § (1) bekezdése a 14/2010. (IX. 3.) VM rendelet 1. §-ával megállapított szöveg.
-[^22]: A 6. § (3) bekezdése a 90/2007. (VIII. 23.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^23]: A 6. § (4) bekezdése a 96/2008. (VII. 25.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^24]: A 6. § (6) bekezdése a 168/2009. (XII. 15.) FVM rendelet 3. § (1) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (15) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^25]: A 6. § (7) bekezdése a 91/2011. (X. 3.) VM rendelet 4. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 5. § a) pontja szerint módosított szöveg.
-[^26]: A 6. § (8) bekezdését a 103/2007. (IX. 21.) FVM rendelet 3. §-a iktatta be, szövege a 96/2008. (VII. 25.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^27]: A 6. § (9)–(10) bekezdését a 151/2007. (XII. 18.) FVM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 91/2011. (X. 3.) VM rendelet 12. § c) pontja.
-[^28]: A 6. § (11) bekezdését a 96/2008. (VII. 25.) FVM rendelet 4. § (4) bekezdése iktatta be, szövege a 168/2009. (XII. 15.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^29]: A 6. § (12) bekezdését a 91/2011. (X. 3.) VM rendelet 4. § (2) bekezdése iktatta be.
-[^30]: A 6. § (13) bekezdését a 154/2008. (XI. 26.) FVM rendelet 3. §-a iktatta be, szövege a 168/2009. (XII. 15.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^31]: A 6. § (14) bekezdését a 154/2008. (XI. 26.) FVM rendelet 3. §-a iktatta be, szövege a 23/2010. (III. 16.) FVM rendelet 17. §-ával megállapított szöveg.
+[^22]: A 6. §-t megelőző alcím a 112/2012. (XI. 7.) VM rendelet 3. §-ával megállapított szöveg.
+[^23]: A 6. § a 112/2012. (XI. 7.) VM rendelet 4. §-ával megállapított szöveg.
