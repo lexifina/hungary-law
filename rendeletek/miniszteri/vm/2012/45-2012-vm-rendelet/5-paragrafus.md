@@ -10,4 +10,6 @@
 
 (5) Az 1069/2009/EK európai parlamenti és tanácsi rendelet 13. cikk f) pontjában leírt állati eredetű melléktermékek akkor tekinthetőek fertőző betegségek szempontjából kockázatmentesnek, ha járványügyi intézkedés hatálya alatt nem álló helyről származnak.
 
-(6) Ha a (4) és (5) bekezdésben említett esetekben kétség merül fel az állati eredetű melléktermék kockázatmentessége szempontjából, akkor a kockázatmentességről a melléktermék keletkezési helye szerint illetékes kerületi állategészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: kerületi hivatal) dönt.
+(6)[^1] Ha a (4) és (5) bekezdésben említett esetekben kétség merül fel az állati eredetű melléktermék kockázatmentessége szempontjából, akkor a kockázatmentességről a melléktermék keletkezési helye szerint illetékes járási állategészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: járási állategészségügyi hivatal) dönt.
+
+[^1]: Az 5. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § a) pontja szerint módosított szöveg.

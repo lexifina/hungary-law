@@ -38,6 +38,6 @@
 
 | ................................................................ cégszerű aláírás |
 
-6. melléklet a 45/2012. (V. 8.) VM rendelethez[^5]
+6. melléklet a 45/2012. (V. 8.) VM rendelethez[^26]
 
-[^5]: A 6. mellékletet a 36. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 6. mellékletet a 36. § (2) bekezdése hatályon kívül helyezte.

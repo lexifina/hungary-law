@@ -4,4 +4,6 @@
 
 (2) Az (1) bekezdés szerinti eltérést kizárólag azok a létesítmények alkalmazhatják, amelyekben az 1069/2009/EK parlamenti és tanácsi rendelet 10. cikk f) pontjában meghatározott állati eredetű melléktermékektől eltérő állati eredetű melléktermék nem keletkezik, továbbá ahol ezen állati eredetű melléktermékek tömege nem haladja meg hetente a 20 kg-ot.
 
-(3) Az eltérés alkalmazásának szándékát az üzemeltetőnek nyilvántartásba vétel céljából írásban be kell jelentenie a létesítmény helye szerint illetékes kerületi hivatalnak. Az eltérés alkalmazását csak a nyilvántartásba vételt követően lehet megkezdeni.
+(3)[^20] Az eltérés alkalmazásának szándékát az üzemeltetőnek nyilvántartásba vétel céljából írásban be kell jelentenie a létesítmény helye szerint illetékes járási állategészségügyi hivatalnak. Az eltérés alkalmazását csak a nyilvántartásba vételt követően lehet megkezdeni.
+
+[^20]: A 29. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
