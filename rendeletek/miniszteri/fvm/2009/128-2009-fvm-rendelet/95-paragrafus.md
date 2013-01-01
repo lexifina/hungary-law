@@ -1,6 +1,6 @@
-## Az MgSzH kerületi hivatalának feladatai
+## Az MgSzH járási állategészségügyi hivatalának feladatai[^75]
 
-95. § (1) Az MgSzH kerületi hivatala hatósági ellenőrzés keretében ellátja
+95. § (1)[^76] Az MgSzH járási állategészségügyi hivatala hatósági ellenőrzés keretében ellátja
 
 a) az állatgyógyászati készítmények harmadik országból történő behozatalának ellenőrzését,
 
@@ -10,13 +10,13 @@ c) a forgalmazás feltételei betartásának és az állatgyógyászati készít
 
 d) a piacfelügyeleti tevékenység keretében az állatgyógyászati készítményt harmadik országból behozó (a továbbiakban: importáló) nagykereskedőnél, egyéb nagykereskedőnél, kiskereskedőnél és felhasználónál, különösen takarmánykeverő üzemben és állattartó telepen történő ellenőrzését.
 
-(2) Az ellenőrzés során az MgSzH kerületi hivatalának képviselője jogosult:
+(2)[^77] Az ellenőrzés során az MgSzH járási állategészségügyi hivatalának képviselője jogosult:
 
 a) belépni a forgalmazás, illetve felhasználás valamennyi érintett területére,
 
 b) az a) pontban felsorolt helyeken fényképfelvételt készíteni,
 
-c) betekinteni valamennyi, a forgalmazással, illetve felhasználással kapcsolatos nyilvántartásba, amelyben szereplő dokumentumokról az ellenőrzött köteles az MgSzH kerületi hivatalának képviselője felszólítására másolatot adni,
+c)[^78] betekinteni valamennyi, a forgalmazással, illetve felhasználással kapcsolatos nyilvántartásba, amelyben szereplő dokumentumokról az ellenőrzött köteles az MgSzH járási állategészségügyi hivatalának képviselője felszólítására másolatot adni,
 
 d) bármely termékből, annak alapanyagából ellenőrzés céljára térítésmentesen mintát venni, illetve vetetni, azzal, hogy mintavétel esetén az ellenőrzött ellenmintára tarthat igényt, amelyet az eljárás befejezéséig vizsgálatra alkalmas állapotban meg kell őriznie,
 
@@ -39,3 +39,8 @@ e) a 62. § (3) bekezdésében meghatározott esetek kivételével a magyar nyel
 f) a lejárati időre,
 
 g) a tárolási körülményekre.
+
+[^75]: A 95. §-t megelőző alcím a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^76]: A 95. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^77]: A 95. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^78]: A 95. § (2) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.

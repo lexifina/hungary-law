@@ -1,4 +1,4 @@
-114/S. § (1) Az MgSzH kerületi hivatalának – az MgSzH területi szerve útján történő – javaslatára az MgSzH Központ az egyéb gyógyhatású készítményt a nyilvántartásból törli, forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
+114/S. § (1)[^102] Az MgSzH járási állategészségügyi hivatalának – az MgSzH területi szerve útján történő – javaslatára az MgSzH Központ az egyéb gyógyhatású készítményt a nyilvántartásból törli, forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
 
 a) megállapításra kerül, hogy a szabálytalanság súlyosan veszélyezteti a közegészségügy, a fogyasztók, az állategészségügy vagy a környezet érdekeit,
 
@@ -13,3 +13,5 @@ e) a készítmény olyan hatóanyagot tartalmaz, amelynek felhasználását jogs
 f) megállapításra kerül, hogy a kérelmező hamis vagy megtévesztő adatokat szolgáltatott.
 
 (2) A forgalmazási tilalom vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén az MgSzH Központja a meglévő készlet ártalmatlanítására, raktározására, forgalmazására, illetve felhasználására határidőt vagy határnapot állapít meg.
+
+[^102]: A 114/S. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.

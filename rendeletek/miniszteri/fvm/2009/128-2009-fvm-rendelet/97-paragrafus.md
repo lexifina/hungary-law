@@ -1,4 +1,4 @@
-97. § (1) Az MgSzH Központ, illetve az MgSzH kerületi hivatala
+97. § (1)[^85] Az MgSzH Központ, illetve az MgSzH járási állategészségügyi hivatala
 
 a) egy éven belüli második nem súlyos kötelezettségszegés esetén a forgalmazást 30 napig terjedő időtartamra, teljes körűen felfüggesztheti,
 
@@ -21,3 +21,5 @@ ac) veszélyes maradékanyagot eredményezhet élelmiszer-termelő állatban,
 b) három nem súlyos kötelezettségszegés egyidejű elkövetése.
 
 (3) Az engedély visszavonása után leghamarabb 90 nap elteltével kérhető új engedély.
+
+[^85]: A 97. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.

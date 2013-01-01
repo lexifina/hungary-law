@@ -1,6 +1,6 @@
 29. § (1) A forgalomba hozatali engedély – az (5) bekezdésben foglalt esetek kivételével – 5 éves időtartamra szól.
 
-(2)[^33] A forgalomba hozatali engedélyt az 5 éves jogosultsági időtartam lejártát követően az előny-kockázat viszony újraértékelésére alapozva meg lehet újítani. Ebből a célból a forgalomba hozatali engedély jogosultjának legalább 6 hónappal a jogosultsági idő lejárta előtt – a 12. §-ban foglaltakkal azonos módon – be kell nyújtania az MgSzH Központhoz a minőségre, ártalmatlanságra és hatékonyságra vonatkozó, egységes szerkezetbe foglalt dokumentáció jegyzékét, beleértve a forgalomba hozatali engedély megadása utáni valamennyi módosítást. Az MgSzH Központ bármikor felkérheti a kérelmezőt, hogy a felsorolt dokumentumokat nyújtsa be.
+(2)[^35] A forgalomba hozatali engedélyt az 5 éves jogosultsági időtartam lejártát követően az előny-kockázat viszony újraértékelésére alapozva meg lehet újítani. Ebből a célból a forgalomba hozatali engedély jogosultjának legalább 6 hónappal a jogosultsági idő lejárta előtt – a 12. §-ban foglaltakkal azonos módon – be kell nyújtania az MgSzH Központhoz a minőségre, ártalmatlanságra és hatékonyságra vonatkozó, egységes szerkezetbe foglalt dokumentáció jegyzékét, beleértve a forgalomba hozatali engedély megadása utáni valamennyi módosítást. Az MgSzH Központ bármikor felkérheti a kérelmezőt, hogy a felsorolt dokumentumokat nyújtsa be.
 
 (3) Az állatgyógyászati készítmény forgalomba hozatali engedélyének megújításáról szóló határozatot 210 napon belül kell meghozni.
 
@@ -20,4 +20,4 @@ a) a megújítási kérelem benyújtásának elmulasztása esetén a jogosultsá
 
 b) a megújítási kérelem elutasítása esetén az elutasítás jogerőre emelkedését követő 90 napon belül.
 
-[^33]: A 29. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 12. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^35]: A 29. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 12. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.

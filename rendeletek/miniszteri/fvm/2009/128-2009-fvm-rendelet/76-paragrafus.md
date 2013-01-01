@@ -26,4 +26,6 @@ c) a kezelt állatok faját, számát és azonosító adatait,
 
 d) az állat tulajdonosának adatait.
 
-(6) Az e § szerinti nyilvántartásokat, illetve vényeket az MgSzH kerületi hivatala ellenőrzi. A nyilvántartást vezető, illetve a vényt megőrző köteles az ellenőrzést lehetővé tenni.
+(6)[^59] Az e § szerinti nyilvántartásokat, illetve vényeket az MgSzH járási állategészségügyi hivatala ellenőrzi. A nyilvántartást vezető, illetve a vényt megőrző köteles az ellenőrzést lehetővé tenni.
+
+[^59]: A 76. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.

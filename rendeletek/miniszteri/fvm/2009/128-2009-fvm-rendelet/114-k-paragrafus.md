@@ -2,7 +2,7 @@
 
 ## Az állategészségügyi biocid termékek hatósági ellenőrzése
 
-114/K. § (1) Az MgSzH kerületi hivatala ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
+114/K. § (1)[^95] Az MgSzH járási állategészségügyi hivatala ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
 
 (2) A hatósági ellenőrzés a forgalmazás és a felhasználás során kiterjed:
 
@@ -24,7 +24,7 @@ h) a felhasználás megfelelőségére,
 
 i) jogszabálysértés gyanúja esetén mintavételre és az összetétel vizsgálatára.
 
-(3) Az MgSzH kerületi hivatala a hatósági ellenőrzés eredményétől függően
+(3)[^96] Az MgSzH járási állategészségügyi hivatala a hatósági ellenőrzés eredményétől függően
 
 a) elrendeli a kifogásolt tétel zár alá vételét, a tétel forgalmazásának felfüggesztését, a tétel forgalomból való kivonását, illetve felügyelet mellett való ártalmatlanítását,
 
@@ -32,7 +32,7 @@ b) javaslatot tesz – az MgSzH területi szerve útján – az MgSzH Központna
 
 c) lefoglalja azt a készítményt, amely nincs az e rendeletben foglaltak szerint engedélyezve.
 
-(4) Az MgSzH kerületi hivatalának – az MgSzH területi szerve útján tett – javaslatára az MgSzH Központ a készítmény forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
+(4)[^97] Az MgSzH járási állategészségügyi hivatalának – az MgSzH területi szerve útján tett – javaslatára az MgSzH Központ a készítmény forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
 
 a) megállapításra kerül, hogy a szabálytalanság súlyosan veszélyezteti a közegészségügy, a fogyasztók, az állategészségügy vagy a környezet érdekeit,
 
@@ -52,10 +52,16 @@ f) a hatóság megállapítja, hogy a kérelmező hamis vagy megtévesztő adato
 
 (7) A lejárt, illetve bármely ok miatt használhatatlanná vált készítményt a forgalmazó, illetve a felhasználó köteles saját költségén ártalmatlaníttatni.
 
-(8) Az MgSzH Központ, illetve az MgSzH kerületi hivatala a reklámozásra vonatkozó előírások
+(8)[^98] Az MgSzH Központ, illetve az MgSzH járási állategészségügyi hivatala a reklámozásra vonatkozó előírások
 
 a) első megszegése esetén figyelmezteti az érintettet,
 
 b) 2 éven belüli minden további megszegése esetén kezdeményezheti a tevékenység megtiltását.
 
-(9) Az állategészségügyi biocid termékek engedélyezésével és ellenőrzésével összefüggő határozatokat az MgSzH Központ közli az OTH-val, az MgSzH kerületi hivatala pedig a székhelye szerint illetékes ÁNTSz regionális intézetével.
+(9)[^99] Az állategészségügyi biocid termékek engedélyezésével és ellenőrzésével összefüggő határozatokat az MgSzH Központ közli az OTH-val, az MgSzH járási állategészségügyi hivatala pedig a székhelye szerint illetékes ÁNTSz regionális intézetével.
+
+[^95]: A 114/K. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^96]: A 114/K. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^97]: A 114/K. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^98]: A 114/K. § (8) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^99]: A 114/K. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 (2) A nagykereskedő közvetlen felhasználás céljára kiszolgálhat
 
-a)[^49] külön jogszabály szerinti nagy létszámú állattartó telepet, továbbá takarmánykeverő üzemet. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított, a 9. számú mellékletben található minta szerinti vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
+a)[^52] külön jogszabály szerinti nagy létszámú állattartó telepet, továbbá takarmánykeverő üzemet. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított, a 9. számú mellékletben található minta szerinti vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
 b) állatorvost, állatorvosi rendelőt, -szakrendelőt (rendelőintézet), állatkórházat és állatklinikát. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályos engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
 
@@ -10,4 +10,4 @@ b) állatorvost, állatorvosi rendelőt, -szakrendelőt (rendelőintézet), áll
 
 (4) Amennyiben a nagykereskedelmi tevékenység szüneteltetésének ideje az egy év időtartamot eléri, azt a nagykereskedő köteles jelenteni az MgSzH Központnak.
 
-[^49]: A 68. § (2) bekezdés a) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^52]: A 68. § (2) bekezdés a) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.

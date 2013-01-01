@@ -1,6 +1,6 @@
 ## 114. § Az MgSzH Központ együttműködik az Európai Gyógyszer Ügynökséggel és a többi tagállam illetékes hatóságaival a mellékhatás-figyelő rendszerek folyamatos fejlesztésében, hogy azok – tekintet nélkül az engedélyezés módjára – képesek legyenek valamennyi gyógyszer esetében a közegészségügy védelmének magas szintjét elérni, hogy ezzel az Európai Közösségben rendelkezésre álló erőforrások maximálisan hasznosíthatók legyenek.
 
-## VIII/A. RÉSZ[^74]
+## VIII/A. RÉSZ[^93]
 
 ## ÁLLATEGÉSZSÉGÜGYI BIOCID TERMÉKEK
 
@@ -22,4 +22,4 @@
 
 (7) Ha az ideiglenes engedély alapján forgalomba hozott biocid termék hatóanyaga a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabályban a hatóanyag közösségi jegyzékbe történő felvételének kezdeményezésére meghatározott követelményeknek nem felel meg, az MgSzH Központ az ideiglenes engedélyt haladéktalanul visszavonja.
 
-[^74]: A VIII/A. részt (114/A–K. §-t) a 33/2010. (IV. 7.) FVM rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^93]: A VIII/A. részt (114/A–K. §-t) a 33/2010. (IV. 7.) FVM rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.

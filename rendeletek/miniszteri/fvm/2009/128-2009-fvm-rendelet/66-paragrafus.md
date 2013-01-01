@@ -6,7 +6,7 @@
 
 66. § (1) Állatgyógyászati készítményekkel, illetve azok hatóanyagával nagykereskedelmi tevékenységet folytatni csak azt követően lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban az MgSzH Központ szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárul.
 
-(2)[^48] Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza. Azok a nagykereskedők, akiknek a tevékenysége kizárólag közvetítő kereskedelemre korlátozódik,
+(2)[^51] Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza. Azok a nagykereskedők, akiknek a tevékenysége kizárólag közvetítő kereskedelemre korlátozódik,
 
 a) mentesülnek a Helyes Nagykereskedelmi Gyakorlat által támasztott különleges követelmények teljesítése alól,
 
@@ -44,4 +44,4 @@ j) a minőségi kifogások és a feltételezett mellékhatások bejelentéseinek
 
 (7) A szakhatósági állásfoglalásban foglaltaktól az engedély módosítását követően lehet eltérni.
 
-[^48]: A 66. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^51]: A 66. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
