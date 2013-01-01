@@ -24,9 +24,13 @@ j) értékpapír-kibocsátónak, ideértve a külföldi értékpapír-kibocsát�
 
 k) a Magyar Állam számára;
 
-l) a Magyar Állam vagyonát kezelő szervezetek számára és
+l) az állam vagyonát kezelő szervezetek számára;
 
-m) az MNB számára
+m) az MNB számára;
+
+n) az Országos Betétbiztosítási Alap számára és
+
+o) a Befektető-védelmi Alap számára
 
 nyújthat.
 
