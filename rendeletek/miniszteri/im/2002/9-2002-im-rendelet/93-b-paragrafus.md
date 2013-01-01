@@ -1,6 +1,6 @@
 ## Az előzetes fogva tartással, házi őrizettel kitöltöttnek vett vagy felfüggesztett szabadságvesztés vagy más büntetés mellett, vagy önállóan kiszabott foglalkozástól eltiltás és járművezetéstől eltiltás
 
-93/B. §[^200] (1) A bíróság az értesítőlapot egy példányban állítja ki, és azt I–II. jelzéssel látja el, ha a foglalkozástól eltiltást vagy járművezetéstől eltiltást
+93/B. §[^211] (1) A bíróság az értesítőlapot egy példányban állítja ki, és azt I–II. jelzéssel látja el, ha a foglalkozástól eltiltást vagy járművezetéstől eltiltást
 
 a) olyan szabadságvesztés mellett alkalmazta, amelyet az előzetes fogva tartással, illetve házi őrizettel teljes egészében kitöltöttnek vett, és az elítélt az ítélet jogerőre emelkedésekor szabadlábon van,
 
@@ -12,6 +12,7 @@ d) önálló büntetésként alkalmazta.
 
 (2) A bíróság a foglalkozástól eltiltásról kiállított értesítőlapot megküldi az elítélt lakóhelye, ennek hiányában tartózkodási helye szerint illetékes rendőrkapitányságnak.
 
-(3) A bíróság a járművezetéstől eltiltásról kiállított értesítőlapot megküldi az elítélt lakóhelye, ennek hiányában tartózkodási helye szerint illetékes körzetközponti feladatokat ellátó települési önkormányzat jegyzőjének.
+(3)[^212] A bíróság a járművezetéstől eltiltásról kiállított értesítőlapot megküldi az elítélt lakóhelye, ennek hiányában tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának.
 
-[^200]: A 93/B. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
+[^211]: A 93/B. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
+[^212]: A 93/B. § (3) bekezdése az 50/2012. (XII. 4.) KIM rendelet 13. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-13. § (1) A kezelőiroda a bv. csoporttól visszaküldött gyűjtőjegyzéket egyezteti a gyűjtőjegyzéknek a helyi bíróságon visszatartott példányával.
+13. § (1)[^51] A kezelőiroda a bv. csoporttól visszaküldött gyűjtőjegyzéket egyezteti a gyűjtőjegyzéknek a járásbíróságon visszatartott példányával.
 
 (2) Ha a gyűjtőjegyzék egyeztetésekor a kezelőiroda vezetője azt állapítja meg, hogy a bv. csoport valamelyik elítélt szabadságvesztését nem írta elő, ennek okáról a bv. csoporttól felvilágosítást kér.
 
@@ -9,3 +9,5 @@
 (5) A kezelőiroda az (1)–(4) bekezdésben foglaltak teljesítése után a gyűjtőjegyzéknek a bv. csoporttól visszaküldött példányát csatolja a kezelőirodán visszatartott példányhoz, és a gyűjtőjegyzékeket sorszám szerint rendezve megőrzi. Az év végén a gyűjtőjegyzékeket az utolsó lajstromszám alatt a büntető lajstromba bevezeti, és azokat irattárba helyezi.
 
 (6) Ha a határozat-kiadmány megküldésére pótlólag [12. § (3) bek.] került sor, a kezelőiroda a határozat-kiadmányt a bv. csoport által közölt előírási tételszámra hivatkozással küldi meg.
+
+[^51]: A 13. § (1) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § e) pontja szerint módosított szöveg.

@@ -1,16 +1,8 @@
-## Intézkedés a külföldre utazási tilalom biztosítására[^295]
+## Intézkedés a külföldre utazási tilalom biztosítására[^307]
 
-149. §[^296] (1) Ha a terhelt úti okmányát a Be. 146. §-ának (2) bekezdése alapján vissza kell vonni, azt a bíróság – határozatával együtt – a végrehajtás érdekében
+149. §[^308] (1) Ha a terhelt úti okmányát a külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 16. § (2) bekezdése alapján a bíróság veszi el, akkor a bíróság az úti okmányt az Utv. 16. § (5) bekezdésében meghatározott, az úti okmány visszatartását végrehajtó szervnek küldi meg.
 
-a)[^297] magyar állampolgár esetén a KEKKH-nak,
+(2) Ha bevándorolt, letelepedett jogállású, hontalan, menekültként, oltalmazottként vagy menedékesként elismert terhelt magyar hatóság által kiállított úti okmányát kell visszavonni, azt a bíróság a végrehajtás érdekében az idegenrendészeti hatóságnak vagy a menekültügyi hatóságnak küldi meg.
 
-b)[^298] bevándorolt, letelepedési engedéllyel rendelkező, menekült és menedékes esetén a Bevándorlási és Állampolgársági Hivatalnak
-
-## küldi meg.
-
-(2) Ha a terheltnek a külföldi hatóság által kiállított úti okmányát kell visszavonni [Be. 146. § (3) bek.], az úti okmányt, illetőleg a bíróság határozatát a terhelt lakóhelye vagy tartózkodási helye, ennek hiányában a bíróság székhelye szerint illetékes területi idegenrendészeti hatóságnak kell megküldeni a visszatartás elrendelése érdekében.
-
-[^295]: A 149. § alcíme a 11/2006. (VII. 25.) IRM rendelet 29. §-ával megállapított szöveg.
-[^296]: A 149. § a 11/2006. (VII. 25.) IRM rendelet 29. §-ával megállapított szöveg
-[^297]: A 149. § (1) bekezdésének a) pontja a 8/2007. (III. 6.) IRM rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^298]: A 149. § (1) bekezdésének b) pontja a 8/2007. (III. 6.) IRM rendelet 1. § (6) bekezdésének a) pontja szerint módosított szöveg.
+[^307]: A 149. § alcíme a 11/2006. (VII. 25.) IRM rendelet 29. §-ával megállapított szöveg.
+[^308]: A 149. § a 60/2012. (XII. 28.) KIM rendelet 2. §-ával megállapított szöveg.

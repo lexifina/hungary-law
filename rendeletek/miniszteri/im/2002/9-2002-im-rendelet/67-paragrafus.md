@@ -1,5 +1,5 @@
-## 65–66. §[^126]
+## 65–66. §[^136]
 
 ## A közérdekű munka végrehajtásának félbeszakítása
 
-[^126]: A 65–66. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^136]: A 65–66. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.

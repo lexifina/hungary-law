@@ -6,6 +6,8 @@
 
 (4) A gyűjtőjegyzékkel megküldött, illetőleg átadott egységes értesítőlapok érkezését követően a BGH ellenőrzi, hogy a gyűjtőjegyzék tételszámai folytatólag követik-e az előző sorszámú gyűjtőjegyzék utolsó tételszámát, valamint azt, hogy az értesítőlap adatai a gyűjtőjegyzékben feltüntetett adatokkal megegyeznek-e.
 
-(5) A BGH az egységes értesítőlap alapján az államot illető követeléseket előírja, és az előírás tételszámát az egységes értesítőlapon feljegyzi. Az előírás megtörténtét az előírási tételszámoknak a gyűjtőjegyzéken való feltüntetésével igazolja, és a gyűjtőjegyzék egyik példányát a helyi bíróságnak visszaküldi, illetőleg a kezelőirodának visszaadja.
+(5)[^161] A BGH az egységes értesítőlap alapján az államot illető követeléseket előírja, és az előírás tételszámát az egységes értesítőlapon feljegyzi. Az előírás megtörténtét az előírási tételszámoknak a gyűjtőjegyzéken való feltüntetésével igazolja, és a gyűjtőjegyzék egyik példányát a járásbíróságnak visszaküldi, illetőleg a kezelőirodának visszaadja.
 
 (6) A bíróság kezelőirodája a BGH-tól visszaküldött gyűjtőjegyzék alapján a szabadságvesztés esetére rendszeresített gyűjtőjegyzékkel kapcsolatos rendelkezések megfelelő alkalmazásával jár el.
+
+[^161]: A 75. § (5) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § n) pontja szerint módosított szöveg.

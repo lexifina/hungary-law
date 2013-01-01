@@ -1,6 +1,6 @@
 ## Kiutasítás végrehajtása összbüntetésbe foglalás esetén
 
-93/O. §[^214] (1) Olyan szabadságvesztések összbüntetésbe foglalása esetén, amelyek mellett azonos tartamú kiutasításokat szabtak ki, a bíróság az összbüntetésről kiállított értesítőlapon megjelöli, hogy a kiutasítások közül melyiket kell végrehajtani.
+93/O. §[^226] (1) Olyan szabadságvesztések összbüntetésbe foglalása esetén, amelyek mellett azonos tartamú kiutasításokat szabtak ki, a bíróság az összbüntetésről kiállított értesítőlapon megjelöli, hogy a kiutasítások közül melyiket kell végrehajtani.
 
 (2) Összbüntetésbe foglalás esetén a kiutasításról újabb értesítőlapot nem kell kiállítani.
 
@@ -10,4 +10,4 @@
 
 (5) A bv. előadó az összbüntetésről kiállított értesítőlappal együtt a végrehajtásra kerülő kiutasításra vonatkozó II. jelzésű értesítőlapot a bv. intézetnek, a végre nem hajtandó kiutasításra vonatkozó II. jelzésű értesítőlapot a területi idegenrendészeti hatóságnak küldi meg.
 
-[^214]: A 93/O. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
+[^226]: A 93/O. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
