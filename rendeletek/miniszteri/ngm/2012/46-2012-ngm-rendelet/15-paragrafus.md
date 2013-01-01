@@ -1,0 +1,1 @@
+## „1.11. Magyar Nemzeti Bank, Magyar Rádió Nonprofit Zrt., Magyar Televízió Nonprofit Zrt., Duna Televízió Nonprofit Zrt., Magyar Távirati Iroda Nonprofit Zrt., Médiaszolgáltatás-támogató és Vagyonkezelő Alap, Nemzeti Eszközkezelő Zrt.”

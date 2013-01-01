@@ -1,0 +1,3 @@
+## 9. § A bírósági eljárási illeték utólagos elszámolással történő megfizetése iránt kezdeményezett eljárásért fizetendő igazgatási szolgáltatási díjról szóló 51/2004. (XII. 29.) PM rendelet (a továbbiakban R2.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A díjat a Nemzeti Adó- és Vámhivatal kérelmező gazdálkodó szervezet székhelye szerint illetékes regionális adó főigazgatósága gazdálkodási számlája javára kell megfizetni, és az erről szóló igazolást csatolni kell az eljárást megindító kérelemhez. Az átutalási megbízás közlemény rovatába az igazgatási szolgáltatási díj megjegyzést, valamint a kérelmező adószámát fel kell tüntetni. Az igazgatóságok gazdálkodási számlaszámainak részletes felsorolását az 1. melléklet tartalmazza.”
