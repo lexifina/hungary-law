@@ -1,4 +1,4 @@
-3. § (1) A kerületi főállatorvos az üzemeket EBL mentesítés szempontjából nyilvántartásba veszi és az érintett szarvasmarha-állományokat minősíti; ehhez a mellékletben szereplő igazolást állítja ki. A minősítés lehet
+3. § (1)[^2] A járási főállatorvos az üzemeket EBL mentesítés szempontjából nyilvántartásba veszi és az érintett szarvasmarha-állományokat minősíti; ehhez a mellékletben szereplő igazolást állítja ki. A minősítés lehet
 
 a) EBL-lel fertőzött,
 
@@ -37,3 +37,5 @@ bb) a régió minden huszonnégy hónaposnál idősebb szarvasmarháját huszonn
 bc) a régióban az állományok szúrópróbaszerűen kiválasztott legalább tíz százalékában, minden huszonnégy hónaposnál időseb szarvasmarhát huszonnégy hónapon belül két alkalommal – nem kevesebb, mint négy és nem több, mint tizenkét hónap időközzel – legalább kétszer megvizsgáltak, és a vizsgálatok negatív eredményre vezettek; vagy
 
 c) egy másik, legalább 99%-os biztonsággal működő módszerrel megállapították, hogy az állományoknak csak kevesebb mint 0,2%-a fertőzött.
+
+[^2]: A 3. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 8. § b) pontja szerint módosított szöveg.

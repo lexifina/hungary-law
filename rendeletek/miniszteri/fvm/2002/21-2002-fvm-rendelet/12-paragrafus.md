@@ -12,11 +12,11 @@ b) a Tanács 77/391/EGK irányelve a szarvasmarha brucellózis, tuberculosis és
 
 c) a Tanács 98/46/EGK irányelve a szarvasmarhafélék és a sertések Közösségen belüli kereskedelmét érintő állategészségügyi kérdésekről szóló 64/432/EGK irányelv A, B (I. fejezete) és F mellékletének módosításáról.
 
-Melléklet a 21/2002. (III. 20.) FVM rendelethez
+Melléklet a 21/2002. (III. 20.) FVM rendelethez[^5]
 
-............................. Állategészségügyi
+.............................
 
-és Élelmiszerellenőrző Állomás kerületi főállatorvos
+……… Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatala
 
 Cím: .....................
 
@@ -37,3 +37,5 @@ Kelt: .........................
 .....................
 
 kerületi főállatorvos
+
+[^5]: A melléklet a 151/2012. (XII. 29.) VM rendelet 8. § c) pontja szerint módosított szöveg.
