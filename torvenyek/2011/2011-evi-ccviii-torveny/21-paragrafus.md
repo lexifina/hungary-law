@@ -22,7 +22,7 @@ a) a kódképzés alapját nem képezik olyan szervezetet vagy természetes szem
 
 b) a kódképzés konkrét, egyedi módszere tartalmaz egyedi, véletlenszerűen megállapított elemet.
 
-(10) Az (5) és (6) bekezdés szerinti információszolgáltatás során az információt szolgáltató szervezet az információszolgáltatás előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a kistérségnél pontosabban ne legyen megállapítható.
+(10) Az (5) és (6) bekezdés szerinti információszolgáltatás során az információt szolgáltató szervezet az információszolgáltatás előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a járási szintnél pontosabban ne legyen megállapítható.
 
 (11) Az MNB köteles az információk (5) és (6) bekezdés szerinti létrehozásával összefüggésben közvetlenül felmerülő, indokolt költségeket – részletes költségkimutatás alapján – az információt szolgáltató szervezeteknek az információszolgáltatást követően megtéríteni.
 

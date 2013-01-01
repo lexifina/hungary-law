@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-208-00-00
 | 2012-01-02 | 2010. évi CXXX. törvény | 2011-208-00-00.2 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2011-208-00-00.3 |
 | 2012-07-14 | 2012. évi XCIX. törvény | 2011-208-00-00.4 |
+| 2013-01-01 | 2012. évi XCIX. törvény | 2011-208-00-00.5 |
