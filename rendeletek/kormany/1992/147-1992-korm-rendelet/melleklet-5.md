@@ -508,7 +508,7 @@
 
 ## Területi műemléki védelem
 
-## Területi műemléki védelem alatt áll az az ingatlan, amely a vonatkozó jogszabályok szerint történeti tájként, műemléki jelentőségű területként, vagy műemléki környezetként védett, és amelyet a Kulturális Örökségvédelmi Hivatal ekként tart nyilván.
+## Területi műemléki védelem alatt áll az az ingatlan, amely a vonatkozó jogszabályok szerint történeti tájként, műemléki jelentőségű területként, vagy műemléki környezetként védett, és amelyet a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala ekként tart nyilván.
 
 ## Tetőtér-beépítés (padlástér-beépítés)
 
