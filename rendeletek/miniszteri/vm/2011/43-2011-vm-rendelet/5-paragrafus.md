@@ -12,7 +12,7 @@ e) a d) pont szerinti nyilvántartást, megküldeni minden év március 20. napj
 
 f) üzemeltetni legalább egy, a 12. és 13. § szerinti vadbegyűjtő helyet.
 
-(2)[^1] A vadászatra jogosult köteles a tevékenységéből fakadó élelmiszerbiztonsági kockázatok kezelése érdekében Helyes Higiéniai Gyakorlatot bevezetni és működtetni, amely tartalmazza
+(2)[^3] A vadászatra jogosult köteles a tevékenységéből fakadó élelmiszerbiztonsági kockázatok kezelése érdekében Helyes Higiéniai Gyakorlatot bevezetni és működtetni, amely tartalmazza
 
 a) a vadászatra jogosult által az elsődleges termelés szintjén folytatott tevékenységének részletes leírását,
 
@@ -24,4 +24,4 @@ d) az elsődleges termelő tevékenység szintjén felmerülő kockázatok megel
 
 (3) A vadászatra jogosult az 1. § (1) bekezdés b) pontja szerinti tevékenység során, amennyiben az elejtett vadat az Európai Unió másik tagállamában engedélyezett az elejtett vad felvásárlásával és továbbértékesítésével foglalkozó élelmiszeripari vállalkozásnak, vagy vadfeldolgozó üzemnek értékesíti, köteles a szállítás előtt a vadkísérő jegyekről, továbbá az apróvad gyűjtőigazolásokról, valamint a szállítmány minden egyéb kereskedelmi dokumentumáról másolatot készíteni és azt az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak, az elejtett vad rendeltetési helyének megadásával megküldeni a szállítást követő 24 órán belül. A vadkísérő jegy, továbbá az apróvad gyűjtőigazolás eredeti példánya az elejtett vadat a rendeltetési helyig végig kell, hogy kísérje.
 
-[^1]: Az 5. § (2) bekezdése a 15. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.
+[^3]: Az 5. § (2) bekezdése a 15. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.
