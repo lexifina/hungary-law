@@ -1,6 +1,6 @@
 19. § (1) A központi támogatást az önkormányzatnak vissza kell fizetnie az állami költségvetésbe, ha a támogatás igénybevételével keletkezett vagyont – kivéve a víziközmű-beruházások üzemeltetői vagyonrészét – a beruházás időtartama alatt, vagy az azt követő tíz éven belül nem helyi önkormányzat részére elidegeníti – ide nem értve a (2) bekezdésben foglaltakat –, megterheli, illetve az igénybejelentésben megjelölt beruházási céltól eltérően hasznosítja, kivéve, ha az igénybejelentésben megjelölt beruházási cél eredeti funkciója az önkormányzati feladatellátás ésszerűsítése miatt megszűnik, vagy megszűnt, de a létesítmény más, a támogatás címzettje számára előírt kötelező feladat ellátását szolgálja.
 
-(1a) Mentesül az (1) bekezdésben meghatározott tízéves elidegenítési tilalom alól a helyi önkormányzat, amennyiben a támogatás igénybevételével keletkezett vagyon átadására a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény, valamint a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény alapján került sor.
+(1a) Mentesül az (1) bekezdésben meghatározott tízéves elidegenítési tilalom alól a helyi önkormányzat, amennyiben a támogatás igénybevételével keletkezett vagyon állam részére történő átadására törvény alapján, az önkormányzati feladatok állam általi átvételéhez kapcsolódó vagyonátszállással került sor.
 
 (2) Amennyiben az önkormányzat az igénybejelentést megelőző tíz évben értékesítette a kötelező feladat ellátását szolgáló vagyonát, úgy ugyanazon feladattal összefüggésben e törvény szerinti támogatásban csak akkor részesülhet, amennyiben az elidegenítést műszaki vagy szakmai okok tették szükségessé, és az elidegenítésből befolyt vételárat, vagy annak megfelelő összeget az önkormányzat saját forrásként biztosítja az ugyanazon kötelező önkormányzati feladat ellátására létesítendő beruházás során.
 
@@ -8,6 +8,6 @@
 
 (4)
 
-(5) A központi támogatással létrejövő beruházást kizárólagos önkormányzati – vízgazdálkodási beruházások esetében állami vagy önkormányzati – tulajdonban lévő teher-, per- és igénymentes ingatlanon lehet megvalósítani. Kivéve a csapadékvíz-elvezető és szennyvízcsatorna-hálózat építését.
+(5)
 
-(6) Az 1992. év előtt támogatásban részesült fejlesztések esetében az (1) bekezdés szerinti beruházási céltól eltérő hasznosítást kérelmezni kell. Az igénybejelentésben megjelölt beruházási cél megszűnése esetén a létesítmény más kötelező feladatra irányuló hasznosíthatósága érdekében a támogatás címzettje 2010. június 30-ig kérelmet nyújthat be a helyi önkormányzatokért felelős miniszterhez. A helyi önkormányzatokért felelős miniszter a kérelmekről egyedi mérlegelés alapján dönt.
+(6)

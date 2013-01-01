@@ -2,33 +2,7 @@
 
 ## A szociális feladatokat ellátó nem állami fenntartók címzett támogatása
 
-21/F. § (1) A szociális feladatokat ellátó egyházi jogi személyek, egyesületek, alapítványok, közalapítványok, országos nemzetiségi önkormányzatok (a továbbiakban: nem állami fenntartó) címzett támogatást igényelhetnek a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 57. § (2) bekezdésében megjelölt szociális szakellátási célt szolgáló és 250 millió forint feletti beruházási összköltségű beruházások megvalósítására.
-
-(2) A nem állami fenntartó címzett támogatást csak akkor igényelhet, ha maga vagy egyházi fenntartó esetén az erre feljogosított szerve az állammal vagy a Kormánnyal megállapodást kötött szociális feladatok átvállalására, illetve, ha a beruházással érintett intézmény működtetésére a feladat ellátására kötelezett helyi önkormányzattal érvényes ellátási szerződéssel rendelkezik. A címzett támogatás
-
-a) mértéke legfeljebb a beruházási összköltségnek a nem állami fenntartó saját forrásából nem fedezett része,
-
-b) a támogatási igény benyújtása előtt meg nem kezdett beruházáshoz igényelhető,
-
-c) csak a településrendezési tervekkel összhangban lévő beruházáshoz igényelhető, valamint
-
-d) a címzett támogatással megvalósítandó beruházást a beruházó kizárólagos tulajdonában vagy/és önkormányzati, állami tulajdonban lévő teher-, per- és igénymentes ingatlanon lehet megvalósítani, továbbá
-
-e) a nem állami fenntartó címzett támogatásra akkor jogosult, ha az igénylés szabályszerűségének és a támogatás rendeltetésszerű felhasználásának a szociál- és nyugdíjpolitikáért felelős miniszter, továbbá a külön jogszabály alapján költségvetési támogatások felhasználásának ellenőrzésére hivatott szervek részéről történő ellenőrzéséhez hozzájárul.
-
-(3) A nem állami fenntartó a helyi önkormányzatok címzett és céltámogatására vonatkozó külön jogszabályokban előírt feltételeknek megfelelően és határidőben beruházási koncepciót nyújt be a szociál- és nyugdíjpolitikáért felelős miniszterhez.
-
-(4) A szociál- és nyugdíjpolitikáért felelős miniszter véleményezi a nem állami fenntartó beruházási koncepcióját, majd a helyi önkormányzatok beruházási koncepciójával egyidejűleg – a külön jogszabályban meghatározott határidőben – szakmai véleménnyel ellátott, az önkormányzati és nem állami fenntartókra vonatkozóan külön-külön rangsorolt javaslatot küld a kormányzati területfejlesztési feladatokért felelős szervnek.
-
-(5) A Kormány a területfejlesztésért felelős miniszter előterjesztése alapján a külön jogszabályban meghatározott határidőben – a helyi önkormányzatok címzett támogatásával egyidejűleg – állást foglal a címzett támogatásra javasolt és nem javasolt nem állami fenntartó által megvalósítandó szociális beruházásokról.
-
-(6) A nem állami fenntartó által a törvény 3. § (1) bekezdésében előírt határidőben benyújtott, a külön jogszabályban meghatározott feltételeknek megfelelő igénybejelentések javasolhatók címzett támogatásra. A határidő elmulasztása az adott évi igény tekintetében jogvesztő.
-
-(7) A nem állami fenntartó által benyújtott címzett támogatási igénybejelentést a törvényjavaslatnak az Országgyűléshez történő benyújtása előtt – a rendelkezésre álló előirányzat mértékétől függően, valamint a szakmai követelményeknek megfelelően – a szociál- és nyugdíjpolitikáért felelős miniszter kezdeményezésére a nem állami fenntartó módosítja.
-
-(8) A nem állami fenntartó szociális beruházásának címzett támogatásáról – a helyi önkormányzatok címzett támogatásával egyidejűleg – az Országgyűlés dönt.
-
-(9) A nem állami fenntartók által megvalósítandó szociális beruházások címzett támogatásának fedezetét az Országgyűlés az éves költségvetési törvényben határozza meg.
+21/F. § (1)–(9)
 
 (10) A nem állami fenntartónak jóváhagyott címzett támogatás folyósítása, felhasználása és elszámolása az alábbiak szerint történik:
 

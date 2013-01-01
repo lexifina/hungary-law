@@ -1,4 +1,4 @@
-11. § (1) A központi támogatás a támogatási igény benyújtása előtt meg nem kezdett beruházáshoz igényelhető.
+11. § (1)
 
 (2) A központi támogatás a jogosultság kihirdetését követően teljesítendő kifizetésekhez vehető igénybe. Kivéve a 17. § (4) bekezdésében meghatározott kifizetéseket.
 
