@@ -1,6 +1,6 @@
 ## A gyermekgondozási segély iránti kérelem adattartalma
 
-## I.[^175] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+## I.[^179] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
 ## – a jogosultság jogcíme;
 
@@ -56,7 +56,7 @@
 
 ## – nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról.
 
-## III.[^176] A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## III.[^180] A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
 ## – a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
 
@@ -74,8 +74,8 @@
 
 ## – a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^177]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^181]
 
-[^175]: A 2. számú melléklet I. pontja a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^176]: A 2. számú melléklet III. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^177]: A 3. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^179]: A 2. számú melléklet I. pontja a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^180]: A 2. számú melléklet III. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^181]: A 3. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

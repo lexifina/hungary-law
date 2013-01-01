@@ -1,16 +1,18 @@
-4/B. §[^23] (1) A Cst.
+4/B. §[^25] (1)[^26] A Cst.
 
-a) 22. §-ának, 43. §-a (5)–(6) bekezdésének és 45. §-a (1) bekezdésének alkalmazásában a kincstár vezetője a Magyar Államkincstár elnöke,
+a) 4. § g) és h) pontja, 6. § (2) bekezdése, 8. § (1) bekezdés a) pontja, 8. § (3) bekezdés f) pontja, 11. § (1) bekezdés j) pontja, 12. § (1) bekezdés b) pontja, 15. § (1) és (3) bekezdése, valamint 37. § (5) és (9) bekezdése alkalmazásában a gyámhatóság a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) gyámhivatala (a továbbiakban: gyámhivatal),
 
-b)[^24] 34. §-a (3) bekezdésének, 36/A. §-a (1) bekezdésének és 49. §-a (1) bekezdésének alkalmazásában a kincstár a Magyar Államkincstár Központ (a továbbiakban: Központ),
+b) 22. §-a, 43. § (5) és (6) bekezdése, valamint 45. § (1) bekezdése alkalmazásában a kincstár vezetője a Magyar Államkincstár elnöke,
 
-c)[^25] 15. § (3) bekezdése, 35. § (1) bekezdés a) pontja, 36/A. §-a (2) bekezdése, 37. §-a (5), (7) és (9) bekezdése, valamint 49. § (2) bekezdése alkalmazásában a kincstár a Magyar Államkincstárnak a kérelmező, illetve a jogosult lakó- vagy tartózkodási helye szerint illetékes területi szerve (a továbbiakban: Igazgatóság)
+c)[^27] 15. § (3) bekezdése, 35. § (1) bekezdés a) pontja, 36/A. §-a (2) bekezdése, 37. §-a (5), (7) és (9) bekezdése, valamint 49. § (2) bekezdése alkalmazásában a kincstár a Magyar Államkincstárnak a kérelmező, illetve a jogosult lakó- vagy tartózkodási helye szerint illetékes területi szerve (a továbbiakban: Igazgatóság),
 
-d)[^26] 43. §-a (4) bekezdésének alkalmazásában a kincstár a Magyar Államkincstárnak a határozatot hozó, illetőleg a fizetési meghagyást kibocsátó területi szerve,
+d) 15. § (3) bekezdése, 35. § (1) bekezdés a) pontja, 36/A. § (2) bekezdése, 37. § (5), (7) és (9) bekezdése, valamint 49. § (2) bekezdése alkalmazásában a kincstár a Magyar Államkincstárnak a kérelmező, illetve a jogosult lakó- vagy tartózkodási helye szerint illetékes területi szerve (a továbbiakban: Igazgatóság),
 
-e)[^27] 48. §-a (1)–(3) bekezdésének alkalmazásában az egészségbiztosítási szerv az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP),
+e) 43. § (4) bekezdése alkalmazásában a kincstár a Magyar Államkincstárnak a határozatot hozó, illetőleg a fizetési meghagyást kibocsátó területi szerve,
 
-f) 48. §-a (2)–(3) bekezdésének alkalmazásában a kincstár a Központ, illetve az Igazgatóság.
+f) 48. § (1)–(3) bekezdése alkalmazásában az egészségbiztosítási szerv az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP),
+
+g) 48. § (2) és (3) bekezdése alkalmazásában a kincstár a Központ, illetve az Igazgatóság.
 
 (2)[^28] A családtámogatási ellátás iránti kérelmet elbíráló szerv
 
@@ -58,11 +60,9 @@ a)[^39] családi pótlék iránti kérelem esetén az 5. § (3)–(4) bekezdés�
 
 b)[^40] gyermekgondozási segély iránti kérelem esetén a 19. § (4)–(5) bekezdését
 
-[^23]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^24]: A 4/B. § (1) bekezdésének b) pontja a 176/2009. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^25]: A 4/B. § (1) bekezdés c) pontja a 236/2012. (VIII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^26]: A 4/B. § (1) bekezdés d) pontja a 359/2010. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^27]: A 4/B. § (1) bekezdésének e) pontja a 176/2009. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 359/2010. (XII. 30.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^25]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A 4/B. § (1) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^27]: A 4/B. § (1) bekezdés c) pontja a 236/2012. (VIII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^28]: A 4/B. § (2) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^29]: A 4/B. § (2) bekezdés b) pont bb) alpontja a 359/2010. (XII. 30.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^30]: A 4/B. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

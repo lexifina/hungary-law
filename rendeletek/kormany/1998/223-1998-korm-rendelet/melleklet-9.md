@@ -12,7 +12,7 @@
 
 ## életvitelszerű tartózkodási helye.
 
-9. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^187]
+9. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^191]
 
 A tanulói jogviszony fennállásáról szóló igazolás adattartalma
 
@@ -60,4 +60,4 @@ TAJ száma;
 
 – a kérelmező aláíróhelye.
 
-[^187]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^191]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

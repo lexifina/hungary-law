@@ -1,6 +1,6 @@
 ## 3. § A Cst. 39. §-a alapján – írásban – be kell jelenteni
 
-a)[^15] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
+a)[^17] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
 
 aa) a gyermeknek az ellátásra jogosult háztartásából történő kikerülését,
 
@@ -22,7 +22,7 @@ ai) az Európai Unió tagállamában vagy az Európai Gazdasági Térségről sz
 
 aj) az ellátásra jogosult Cst. 45. § (2) bekezdés c) pontja szerinti adatában bekövetkezett változást, továbbá – ha az adatváltozás házasságkötésre, új bejegyzett élettársi vagy élettársi kapcsolat létesítésére tekintettel következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. § (2) bekezdés a) és e) pontjában meghatározott adatát;
 
-b)[^16] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
+b)[^18] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
 
 ba) a gyermek tartós betegségére, illetve súlyos fogyatékosságára okot adó körülmény megszűnését,
 
@@ -58,5 +58,5 @@ ca) a gyermek szüleinek a gyermek nevelésében történő akadályoztatásána
 
 cb) a gyermek – méltányossági gyermekgondozási segély megállapítására okot adó – betegségének megszűnését.
 
-[^15]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^16]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

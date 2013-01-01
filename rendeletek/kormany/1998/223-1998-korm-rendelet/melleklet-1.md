@@ -1,3 +1,3 @@
-1. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^173]
+1. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^177]
 
-[^173]: Az 1. számú melléklet a 332/2011. (XII. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^177]: Az 1. számú melléklet a 332/2011. (XII. 29.) Korm. rendelet 5. § d) pontja, a 236/2012. (VIII. 30.) Korm. rendelet 19. § i), j) és k) pontja szerint módosított szöveg.

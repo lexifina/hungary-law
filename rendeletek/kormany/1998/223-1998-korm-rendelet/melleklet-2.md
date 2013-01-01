@@ -16,7 +16,7 @@
 
 ## 1.2.5 lakcíme
 
-## 1.2.6 TAJ száma
+## 1.2.6 Társadalombiztosítási Azonosító Jele
 
 ## 1.2.7 állampolgársága;
 
@@ -26,9 +26,9 @@
 
 ## 1.3.2 lakcíme
 
-## 1.3.3 TAJ száma;
+## 1.3.3 Társadalombiztosítási Azonosító Jele;
 
-## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által az EU (EGT) valamelyik tagállamában folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
+## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
 
 ## 1.5 a családi pótlék megállapításának kérelmezett kezdő időpontja;
 
@@ -48,7 +48,7 @@
 
 ## 2.1.4 az anyja neve
 
-## 2.1.5 a TAJ száma
+## 2.1.5 a Társadalombiztosítási Azonosító Jele
 
 ## 2.1.6 a háztartásba kerülés időpontja
 
@@ -66,7 +66,7 @@
 
 ## 2.3.4 anyja neve
 
-## 2.3.5 TAJ száma
+## 2.3.5 Társadalombiztosítási Azonosító Jele
 
 ## 2.3.6 a beszámítás jogcíme
 
@@ -80,7 +80,7 @@
 
 ## 3.4 nyilatkozat arról, hogy a családi pótlék összegének megállapításánál figyelembe veendő valamely gyermek rendelkezik-e rendszeres jövedelemmel, és ha igen, a rendszeres jövedelemmel rendelkező gyermek(ek) neve;
 
-## 3.5 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban, gyámhatósági nyilvántartásban vagy a jegyzői szociális nyilvántartásban szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
+## 3.5 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban, gyámhatósági nyilvántartásban, illetve a jegyző vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által vezetett szociális nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
 
 ## 3.6 együttes nyilatkozat arról, hogy a szülők jogerős bírósági döntés – ide értve az egyezséget – alapján egyenlő időszakokban felváltva gondozzák a 2.1. alpont szerinti gyermek(ek)et
 
@@ -88,6 +88,6 @@
 
 ## 3.8 a kérelmező vagy a törvényes képviselő aláíróhelye
 
-2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^174]
+2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^178]
 
-[^174]: A 2. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^178]: A 2. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
