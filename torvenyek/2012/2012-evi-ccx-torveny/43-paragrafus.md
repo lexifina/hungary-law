@@ -1,3 +1,5 @@
 ## 11. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-43. §
+43. § A földgázellátásról szóló 2008. évi XL. törvény 63. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az egyetemes szolgáltató az ügyfélszolgálatok fenntartása tekintetében – az (1)–(2) bekezdésben és a 63/A. § (1) bekezdésében foglaltakon felül – köteles a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben felsorolt járásonként legalább egy ügyfélszolgálatot működtetni. Azon járásokban, ahol az egyetemes szolgáltatás keretében ellátott felhasználók száma nem haladja meg a 15 ezret, az egyetemes szolgáltató jogosult több, egymással szomszédos járásra kiterjedő összevont ügyfélszolgálatot működtetni. A főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok minimális számát a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet, az ügyfélszolgálatok elhelyezésére, típusára és működtetésére vonatkozó részletes szabályokat a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet és az üzletszabályzat tartalmazza.”
