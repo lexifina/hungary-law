@@ -1,3 +1,6 @@
-1. § (1) Azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be, valamint a munkakör betöltéséhez szükséges képzettségi (végzettségi) feltételeket az 1. melléklet tartalmazza.
+1. § (1)[^2] Azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be, az 1. melléklet tartalmazza.
 
-(2) A NAV elnöke egyedi engedélyt adhat az 1. mellékletben nem szereplő munkakör pénzügyőr által történő betöltésére, amennyiben az a szakmai feladatellátás folyamatosságának biztosítása érdekében szükséges.
+(2)[^3]
+
+[^2]: Az 1. § (1) bekezdése az 53/2012. (XII. 29.) NGM rendelet 12. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdését az 53/2012. (XII. 29.) NGM rendelet 12. § 2. pontja hatályon kívül helyezte.

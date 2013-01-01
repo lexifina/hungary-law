@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-53-20-2
 | --- | --- | --- |
 | 2012-01-01 | 2011-53-20-2X.1 | 53/2011. (XII. 29.) NGM rendelet |
 | 2012-01-02 | 2011-53-20-2X.2 | 2010: CXXX. törvény |
+| 2013-01-01 | 2011-53-20-2X.3 | 53/2012. (XII. 29.) NGM rendelet |
