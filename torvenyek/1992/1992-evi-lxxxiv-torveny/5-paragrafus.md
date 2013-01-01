@@ -14,7 +14,7 @@ kiadásainak fedezetére szolgál.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék), ideértve az álláskeresési támogatás után fizetett egészségbiztosítási járulékot is;
+a) a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 
 b) a biztosított által fizetett egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 
@@ -36,7 +36,7 @@ d) az egészségügyi hozzájárulás;
 
 e) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 
-f) a központi költségvetésből származó hozzájárulások, térítések, ideértve a terhesség-megszakítással kapcsolatos költségvetési térítések, rokkantsági, rehabilitációs ellátások fedezetére átvett pénzeszköz és egyéb, törvényben előírt költségvetési támogatás összegét;
+f) a költségvetésből származó hozzájárulások, térítések, ideértve az Egészségbiztosítási Alapot megillető munkahelyvédelmi akciótervvel összefüggő hozzájárulás, a rokkantsági, rehabilitációs ellátások fedezetére átvett pénzeszköz és egyéb, törvényben előírt költségvetési támogatás összegét;
 
 g) az egészségbiztosítási tevékenységgel kapcsolatos egyéb bevételek, ideértve
 
@@ -56,6 +56,6 @@ i) az Egészségbiztosítási Alaphoz tartozó állami vagyon értékesítéséb
 
 j) a 10. § (1) bekezdésében meghatározott működési bevételek;
 
-k) rokkantsági, rehabilitációs ellátások fedezetére az Ny. Alaptól átvett pénzeszköz.
+k)
 
 (4)

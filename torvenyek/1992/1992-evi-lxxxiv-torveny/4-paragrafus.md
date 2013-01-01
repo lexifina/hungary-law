@@ -6,7 +6,7 @@
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék, ideértve az álláskeresési támogatás és az ápolási díj után fizetett nyugdíjbiztosítási járulékot;
+a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék;
 
 b)
 
@@ -32,17 +32,17 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 4. a korkedvezmény biztosítási járulék,
 
-5. a gyermekgondozási díjban részesülők utáni nyugdíjbiztosítási járulék címen átvett pénzeszközt,
+5.
 
 6.
 
-7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 23. § (1) bekezdés d) pontjában, a 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
+7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
 
 d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 
 e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 91. §-a szerinti mulasztási bírság;
 
-f) a központi költségvetési hozzájárulások, ideértve az adórendszer átalakításával összefüggő pénzeszköz átvételt;
+f) a költségvetési hozzájárulások, ideértve a Nyugdíjbiztosítási Alapot megillető munkahelyvédelmi akciótervvel összefüggő hozzájárulás és az adórendszer átalakításával összefüggő pénzeszköz átvétel összegét;
 
 g) a nyugdíjbiztosítási tevékenységgel kapcsolatos, a Nyugdíjbiztosítási Alapból fizetett – jogalap nélkül felvett, vagy más ok miatt – visszatérült, bevételként elszámolt összeg és az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a nyugdíjbiztosítási visszautalás során a Nyugdíjbiztosítási Alapot megillető összeg,
 
@@ -56,6 +56,6 @@ k)
 
 l) törvény alapján a Nyugdíjbiztosítási Alap részére átadandó egyéb pénzeszköz.
 
-(4) A Nyugdíjbiztosítási Alap a rokkantsági, rehabilitációs ellátások fedezetére az Egészségbiztosítási Alapnak, a korhatár alatti ellátások fedezetére a Nemzeti Család- és Szociálpolitikai Alapnak a központi költségvetésről szóló törvényben meghatározott összegű pénzeszközt ad át.
+(4)
 
 (5) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény és a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerint megállapított hozzátartozói nyugellátások fedezetét a központi költségvetés megtéríti a Nyugdíjbiztosítási Alapnak.
