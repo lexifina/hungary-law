@@ -4,7 +4,7 @@ a) a hivatali, üzleti utazáshoz kapcsolódó étkezés vagy más szolgáltatá
 
 b) a kifizető tevékenységének ellátása érdekében biztosított helyi és távolsági távbeszélő-szolgáltatás, mobiltelefon-szolgáltatás, továbbá az Internet-protokollt alkalmazó beszédcélú adatátvitel–szolgáltatás (az előbbi szolgáltatások együtt: telefonszolgáltatás) magáncélú használata címén meghatározott adóköteles jövedelem;
 
-c) több magánszemély, mint biztosított javára kötött biztosítási szerződés alapján fizetett adóköteles biztosítási díj, ha a biztosítási szerződés nem egyénileg, hanem kizárólag a munkakör, a beosztás, a munkaviszonyban eltöltött idő, az életkor vagy más közös ismérv alapján határozza meg a biztosítottak körét.
+c) a kifizető által magánszemély javára kötött személybiztosítási szerződés alapján kifizető által fizetett adóköteles biztosítási díj.
 
 (1a) Egyes meghatározott juttatásnak minősül:
 
@@ -16,7 +16,7 @@ ab) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakk
 
 ac) az előbbiek és/vagy közeli hozzátartozóik
 
-részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos értékben meghatározott keret terhére valamennyi, az előzőekben említett, juttatásban részesülő magánszemély számára ugyanazon termék vagy szolgáltatáskörből azonos feltételekkel választható), feltéve, hogy a termék megszerzése (választása), illetve a szolgáltatás igénybevétele (választása) bármelyikük számára ténylegesen is elérhető;
+részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás (kivéve a fogyasztásra kész étel vásárlására jogosító utalvány) révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos értékben meghatározott keret terhére valamennyi, az előzőekben említett, juttatásban részesülő magánszemély számára ugyanazon termék vagy szolgáltatáskörből azonos feltételekkel választható), feltéve, hogy a termék megszerzése (választása), illetve a szolgáltatás igénybevétele (választása) bármelyikük számára ténylegesen is elérhető;
 
 b) a munkáltató által valamennyi munkavállaló (e rendelkezés alkalmazásában ideértve a munkáltatóhoz a Munka Törvénykönyvéről szóló törvény előírásai szerint kirendelt munkavállalót is) által megismerhető belső szabályzat (pl. kollektív szerződés, szervezeti és működési szabályzat, közszolgálati szabályzat stb.) alapján
 
@@ -26,7 +26,7 @@ bb) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakk
 
 bc) az előbbiek és/vagy közeli hozzátartozóik
 
-részére, azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos módszerrel meghatározott keret terhére választható), feltéve, hogy a juttatásra jogosultak körét a belső szabályzat nem egyénileg, hanem a munkakör, a beosztás, a munkaviszonyban eltöltött idő, az életkor vagy más – munkaköri feladattal kapcsolatos teljesítménytől nem függő – közös ismérv alapján határozza meg;
+részére, azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás (kivéve a fogyasztásra kész étel vásárlására jogosító utalvány) révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos módszerrel meghatározott keret terhére választható), feltéve, hogy a juttatásra jogosultak körét a belső szabályzat nem egyénileg, hanem a munkakör, a beosztás, a munkaviszonyban eltöltött idő, az életkor vagy más – munkaköri feladattal kapcsolatos teljesítménytől nem függő – közös ismérv alapján határozza meg;
 
 (2) Egyes meghatározott juttatásnak minősül az adóévben reprezentáció és üzleti ajándékok juttatása alapján meghatározott jövedelem azzal, hogy a jövedelem meghatározásánál figyelmen kívül kell hagyni az e törvény előírásai szerint adómentes juttatásokat.
 
@@ -54,7 +54,7 @@ d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető üzletpolitikai 
 
 azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
 
-(4) Egyes meghatározott juttatásnak minősül az a juttatás, amely megfelel e törvény külön rendelkezése [71. §] szerint meghatározott béren kívüli juttatás feltételeinek, de az ott meghatározott értékhatárt meghaladja. Egyes meghatározott juttatásnak minősül továbbá a munkáltató által a munkavállalónak, valamint a munkavállalóra tekintettel más magánszemélynek az adóévben biztosított béren kívüli juttatások együttes értékének az évi 500 ezer forintot, illetve az 500 ezer forintnak – a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló a jogviszonyban töltött napokkal – arányos összegét (éves keretösszeg) meghaladó része.
+(4) Egyes meghatározott juttatásnak minősül az a juttatás, amely megfelel a 71. §-ban meghatározott béren kívüli juttatás feltételeinek, de az ott meghatározott értékhatárt meghaladja. Egyes meghatározott juttatásnak minősül továbbá a munkáltató által a munkavállalónak, valamint a munkavállalóra tekintettel más magánszemélynek az adóévben biztosított béren kívüli juttatások együttes értékének az évi 500 ezer forintot, illetve az 500 ezer forintnak – a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló a jogviszonyban töltött napokkal – arányos összegét (éves keretösszeg) meghaladó része. Az éves keretösszeg 500 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
 
 (5) E § alkalmazásában
 

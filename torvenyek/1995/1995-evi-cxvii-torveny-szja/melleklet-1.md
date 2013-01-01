@@ -26,6 +26,8 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.9. a szociális gondozói díj évi 180 ezer forintot meg nem haladó része.
 
+1.10. a menedékjogról szóló törvény végrehajtásról szóló kormányrendeletben felsorolt támogatások: az étkezési hozzájárulás, a higiénés hozzájárulás, a szabad felhasználású költőpénz, az oktatási, nevelési költségek megtérítése, a beiskolázási támogatás, a letelepedéshez nyújtott egyszeri támogatás, a rendszeres létfenntartási támogatás, lakhatási támogatás, lakáscélú támogatás.
+
 2. A lakáshoz kapcsolódóan adómentes:
 
 2.1. a lakáscélú támogatás, ha az
@@ -80,13 +82,13 @@ kap.
 
 3.2.6. oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra ösztöndíj címén, vagy a szociálisan rászoruló részére szociális segély, valamint szociális ösztöndíj címén, illetve – alkalmanként 500 forintot meg nem haladó összegben – a diák- és szabadidősport résztvevőjének
 
-3.2.6.1. a Wekerle Sándor Alapkezelő (e pont alkalmazásában továbbiakban: Alapkezelő) közvetlenül vagy az Alapkezelő irányításáért felelős miniszter által kijelölt költségvetési szerv, alapítvány, közalapítvány, az állam tulajdonában álló nonprofit gazdasági társaság útján közvetve, vagy
+3.2.6.1. a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által kijelölt költségvetési szerv, alapítvány, közalapítvány, az állam tulajdonában álló nonprofit gazdasági társaság útján közvetve, vagy
 
 3.2.6.2. a Kormány döntése alapján az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvényben foglalt eljárás szerint megszűnő alapítvány, közalapítvány feladatát átvevő közhasznú nonprofit gazdasági társaság az átvett feladatkörében
 
 nyújt.
 
-3.3. a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke, pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
+3.3. a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
 
 3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
 
@@ -122,9 +124,9 @@ vállalkozási tevékenységet nem folytató alapítványtól, közalapítványt
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
-4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom;
+4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom, továbbá a kizárólag magánszemélyek által létrehozott, gazdasági tevékenységet nem folytató alapítvány által a tudományos kutatás, fejlesztés, utánpótlás-nevelés területén nemzetközi szinten is kimagasló eredményt elért személyek részére adott díj és az ahhoz kapcsolódó pénzjutalom (ideértve különösen a Bolyai János Alkotói Díjat);
 
-4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint a büntetés-végrehajtást, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az egyházak központi szerve által adományozott emléktárgy (dísztőr, gyűrű stb.) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
+4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint a büntetés-végrehajtásért, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, az Országgyűlés elnöke és az egyházak központi szerve által adományozott emléktárgy (dísztőr, gyűrű stb.) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
 
 4.7. a) kormányrendeletben szabályozott feltételek alapján két- és többoldalú nemzetközi oktatási együttműködési megállapodás keretében az oktatásért felelős miniszter által a Magyar Ösztöndíj Bizottság vagy a Magyar Ösztöndíj Bizottság Irodája javaslatára adományozott ösztöndíj, egyéb juttatás,
 
@@ -138,7 +140,9 @@ részére folyósított juttatás, nyújtott kedvezmény,
 
 c) a két- és többoldalú nemzetközi megállapodások alapján, valamint európai uniós és hazai költségvetési forrásból finanszírozott nemzetközi oktatási, képzési, kutatásfejlesztési és kulturális mobilitási programok keretében belföldi és külföldi magánszemélyek részére folyósított ösztöndíj, egyéb juttatás, nyújtott kedvezmény,
 
-d) a határon túli magyarok részére felajánlott képzési és kutatási lehetőségek keretében ösztöndíjban részesülő külföldi oktatók, kutatók részére folyósított juttatás, nyújtott kedvezmény
+d) a határon túli magyarok részére felajánlott képzési és kutatási lehetőségek keretében ösztöndíjban részesülő külföldi oktatók, kutatók részére folyósított juttatás, nyújtott kedvezmény,
+
+e) az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan juttatás, amelyet az Európai Unió finanszíroz, melynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
 
 bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének;
 
@@ -186,6 +190,16 @@ b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből 
 
 4.24. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetekről szóló 2006. évi X. törvény 56. § (1) bekezdése szerint termék termelésével vagy feldolgozásával teljesített személyes közreműködés ellenértékeként a tagi jogállásra tekintettel élelmiszer, a szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát. Az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni.
 
+4.25. a munkáltató által a munkavállalók számára biztosított olyan szolgáltatás (ide értve berendezés, eszköz használatát is), amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy
+
+a) a támogatás felhasználása megfelel a pályázat, programterv szerinti feltételeknek,
+
+b) a munkáltató a szolgáltatást bármely, vagy – ha a pályázat a jogosultak körét meghatározza – bármely jogosult munkavállalója számára hozzáférhetővé teszi,
+
+c) a szolgáltatás igénybevétele nem minősül a tevékenység ellenértékének,
+
+azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
@@ -194,7 +208,7 @@ b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből 
 
 a) mint károsult, segélyként, támogatásként elemi kár (ideértve a martinsalak felhasználása miatt a lakást, lakóépületet ért kárt is), katasztrófa (pl. környezeti vészhelyzet) esetén – különösen lakás helyreállítása, újjáépítése céljából – jogszabályban meghatározott feltételek szerint, vagy közadakozásból, vagy a munkáltatójától,
 
-b) tartásdíjként jogszabályban meghatározott kötelezettség alapján,
+b) tartásdíjként jogszabályban meghatározott kötelezettség alapján, ideértve a jogszabályban meghatározott kötelezettség alapján megállapított tartásdíj helyett fizetett összeget is,
 
 c) kártalanításként (ideértve a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
 
@@ -204,7 +218,7 @@ e) mint sértett, jóvátételként közvetítői eljárás keretében a bűncse
 
 6.2. az 1988. január 1. napját megelőzően megállapított baleseti és kártérítési járadék (ideértve annak egyösszegű megváltását is), kivéve, ha annak összegét utóbb a bruttósított átlagkereset alapulvételével megemelték;
 
-6.3. a kockázati (halál esetére szóló) életbiztosítás, a visszavásárlási értékkel nem rendelkező baleset- és betegségbiztosítás díja, valamint a kizárólag a díjat fizető kártérítési felelősségi körébe tartozó kockázat elhárítására kötött biztosítás díja;
+6.3. a kockázati biztosítás más személy, jogi személyiséggel nem rendelkező szervezet által – az ugyanazon díjat fizető személy által ugyanazon biztosítottra tekintettel havonta, a minimálbér 30 százalékát meg nem haladóan – fizetett díja (csoportos biztosítás esetében a fizetett díj egy biztosítottra jutó része), kivéve az olyan kockázati biztosítás más személy által fizetett díját, amelyre a biztosító a szerződéses feltételekben meghatározott jogcímen (így különösen kármentesség jogcímen) az adott biztosítási időszak(ok)ra esedékes díj 30 százalékát meghaladó engedményt (díjvisszatérítést, más vagyoni értéket) nyújt; nem kell alkalmazni a kivételként meghatározott rendelkezést, ha az engedményre a díjat fizető más személy jogosult azzal, hogy ha utóbb a biztosítási szerződés úgy módosul, hogy az engedményre magánszemély válik jogosulttá, akkor a korábban más személy által fizetett kockázati biztosítás díjának egésze adóköteles biztosítási díjnak minősül a szerződés módosításának időpontjában;
 
 6.4. az az összeg, amelyet
 
@@ -216,63 +230,47 @@ b) a foglalkoztatói nyugdíjszolgáltató intézmény a magánszemélyt megille
 
 a) az önkéntes kölcsönös nyugdíjpénztár
 
-aa) nyugdíjszolgáltatás (kiegészítő nyugdíj) címén
-
-vagy
+aa) nyugdíjszolgáltatás (kiegészítő nyugdíj) címén vagy
 
 ab) a kedvezményezett részére,
 
 b) a foglalkoztatói nyugdíjszolgáltató intézmény
 
-ba) nyugdíjszolgáltatás címén
-
-vagy
+ba) nyugdíjszolgáltatás címén vagy
 
 bb) a kedvezményezett részére,
 
-c) a magánszemélynek a nyugdíj-előtakarékossági számlájáról a számlavezető, külön törvény szerint nyugdíjszolgáltatásnak minősülő kifizetés címén,
+c) a magánszemélynek a nyugdíj-előtakarékossági számlájáról a számlavezető, a nyugdíj-előtakarékossági számlákról szóló törvény szerint nyugdíjszolgáltatásnak minősülő kifizetés címén,
 
 d) az önkéntes kölcsönös biztosítópénztár (ide nem értve az önkéntes kölcsönös nyugdíjpénztárat) törvényben meghatározott kiegészítő egészségbiztosítási szolgáltatás, illetve törvényben meghatározott kiegészítő önsegélyező szolgáltatás címén,
 
-fizet (juttat), az aa) és a ba) pont szerinti esetben feltéve, hogy a szolgáltatásra jogosult
+fizet (juttat), nyugdíjszolgáltatás esetén feltéve, hogy a szolgáltatásra jogosult
 
-1. tagsági jogviszonya (átlépés esetén a korábbi tagsági jogviszonya) a teljesítés évét megelőző harmadik adóévben, vagy azt megelőzően keletkezett, vagy a járadék folyósításának első három évében a járadék éves összege az előző évi összeg 15 százalékánál nagyobb mértékben nem csökken,
+1. tagsági jogviszonya (átlépés esetén a korábbi tagsági jogviszonya) a teljesítés évét megelőző tizedik adóévben, vagy azt megelőzően keletkezett, illetve nyugdíj-előtakarékossági számláját a teljesítés évét megelőző tizedik adóévben, vagy azt megelőzően nyitotta meg, vagy
 
-vagy
+2. jogosultsága rokkanttá nyilvánítása alapján keletkezett;
 
-2. jogosultsága rokkanttá nyilvánítása, egészségkárosodása, megváltozott munkaképessége alapján keletkezett;
+6.6. a 6.8. alpontban meghatározott biztosító szolgáltatása, kivéve
 
-6.6. a 6.8. alpontban meghatározott biztosító
+a) a jövedelmet helyettesítő felelősségbiztosítás alapján fizetett jövedelmet pótló kártérítést,
 
-a) szolgáltatása, kivéve:
+b) a baleset- és betegségbiztosítás alapján nyújtott jövedelmet pótló szolgáltatást (figyelemmel a 6.7. alpont c) pontjának rendelkezésére), feltéve, hogy a biztosítási díj vagy annak egy része a díjfizetés időpontjában adómentes bevételnek minősült azzal, hogy a biztosító adóköteles szolgáltatása utáni adókötelezettséget az elmaradt jövedelemre irányadó rendelkezések szerint kell meghatározni,
 
-– a jövedelmet helyettesítő felelősségbiztosítás alapján fizetett jövedelmet pótló kártérítést,
+c) a személybiztosítás alapján nyújtott olyan szolgáltatást, amely nem minősül halál esetére szóló biztosítási, nyugdíjbiztosítási, járadékbiztosítási, balesetbiztosítási vagy betegségbiztosítási szolgáltatásnak,
 
-– a baleset- és betegségbiztosítás alapján nyújtott jövedelmet pótló szolgáltatást, feltéve, hogy a biztosítási díj a díjfizetés időpontjában adómentes bevételnek minősült,
+d) az olyan biztosítási szerződés alapján nyújtott szolgáltatást, amelynek díját vagy díjának egy részét magánszemély költségként elszámolta.
 
-– az élet- és nyugdíjbiztosítási szerződés alapján nyújtott, a b)–c) pontban nem említett szolgáltatást,
+6.7. a 6.1. és a 6.6. pont b) alpontjának rendelkezésétől függetlenül
 
-– az olyan biztosítási szerződés alapján nyújtott szolgáltatást, amelynek díját vagy díjának egy részét magánszemély költségként elszámolta,
+a) az olyan kártérítés, amelyet a károsult költségeinek fedezetére fizetnek ki, ideértve, ha azok a költségek a jövedelem megszerzése érdekében merültek fel,
 
-b) haláleseti, baleseti, betegségbiztosítási szolgáltatása,
+b) a költségtérítést és a jövedelmet helyettesítő kártérítést is tartalmazó járadék, vagy annak egyösszegű megváltása esetén a költségtérítő rész,
 
-c) nyugdíjbiztosítási szerződés alapján a szerződéskötés harmadik fordulónapját követően nyújtott nyugdíj-szolgáltatása,
-
-címén megillető bevétel;
-
-6.7. a 6.1. és a 6.6. pontokban foglalt rendelkezések alkalmazásában nem minősül jövedelmet pótló kártérítésnek, jövedelmet helyettesítő felelősségbiztosítási kártérítésnek, baleset- és betegségbiztosítás alapján járó jövedelmet pótló szolgáltatásnak:
-
-a) a jogszabályban meghatározott kötelezettség alapján megállapított tartásdíj helyett fizetett összeg,
-
-b) az olyan kártérítés, amelyet a károsult költségeinek fedezetére fizetnek ki, még akkor sem, ha azok a költségek éppen a jövedelem megszerzése érdekében merültek fel,
-
-c) a költségtérítést és a jövedelmet helyettesítő kártérítést is tartalmazó járadék (vagy annak egyösszegű megváltása) esetén a költségtérítő rész,
-
-d) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szolgáltatás összegéből a Központi Statisztikai Hivatal által a biztosítói teljesítés évét megelőző második évről közzétett nemzetgazdasági éves bruttó átlagkereset 50 százalékának a jövedelem-kiesés időszakával arányos összegét meg nem haladó rész;
+c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szolgáltatás összegéből (ideértve a szerződéses feltételek szerint az eltelt napok száma alapján járó napi térítésként vagy az eltelt napok száma alapján meghatározott biztosítási összeget is) a jövedelem-kiesés időszakára napi 15 ezer forintot meg nem haladó rész;
 
 6.8. a 6.6. pont alkalmazásában biztosító a biztosítóintézetekről és a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
-6.9.
+6.9. a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás – szerződőként vagy a biztosítóhoz bejelentett díjfizetőként fizetett – rendszeres díja azzal, hogy rendszeres díjnak minősül az a díj, amelyet a biztosítási szerződés alapján legalább évente egy alkalommal kell fizetni, és amelynek összege nem haladja meg a biztosítási szerződés alapján az előző évi kötelezően fizetendő díjak együttes összegének a Központi Statisztikai Hivatal által közzétett, a díjnövelés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét.
 
 7. Egyéb indokkal adómentes:
 
@@ -288,7 +286,7 @@ d) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 
 7.6. a házassági vagyonközösség megszüntetése következtében ingónak, ingatlannak, jognak vagy értékpapírnak a házastárs által történő megváltásából származó jövedelem;
 
-7.7. a donornak fizetett díj, költségtérítés (költségátalány), a szerv-, szövetadományozással kapcsolatos jövedelemkiesés megtérítése, az egészségügyi intézmény által nyújtott donorétkeztetés (ideértve az étkezési utalvány formájában biztosított donorétkeztetést is) és a gyógyszernek emberen való kipróbálása, illetve a gyógyszerré nyilvánítási eljárás során azon magánszemély részére fizetett díj, akin a gyógyszert (a szert) kipróbálták; e rendelkezés alkalmazásában donor az, aki saját vért, anyatejet, bőrt, szervet, sejtet ad, vagy enged át;
+7.7. a donornak juttatott vagyoni érték, költségtérítés (költségátalány), a szerv-, szövetadományozással kapcsolatos jövedelemkiesés megtérítése, az egészségügyi intézmény által nyújtott donorétkeztetés (ideértve az étkezési utalvány formájában biztosított donorétkeztetést is) és a gyógyszernek emberen való kipróbálása, illetve a gyógyszerré nyilvánítási eljárás során azon magánszemély részére juttatott vagyoni érték, akin a gyógyszert (a szert) kipróbálták; e rendelkezés alkalmazásában donor az, aki saját vért, anyatejet, bőrt, szervet, sejtet ad, vagy enged át;
 
 7.8. a magánszemély számára államháztartási forrásból, pályázat útján biztosított ingyenes vagy kedvezményes számítógép- és internethasználat (ideértve különösen az egyszeri, a havi, a forgalmi díj átvállalását, a modem biztosítását, valamint az internethasználathoz szükséges számítógép beszerzésére jogosító – évi 50 ezer forintot meg nem haladó összegű – utalvány biztosítását);
 
@@ -320,13 +318,13 @@ b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelme
 
 7.18. jogszabály alapján hitelintézetnél elhelyezett gyámhatósági betét kamata, a gyámhatóság döntése, kötelezése alapján befektetési szolgáltatónál elhelyezett értékpapír kamatjövedelemnek minősülő hozama;
 
-7.19. a szociálisan rászorult magánszemély hiteladósok lakhatásának biztosítása érdekében
+7.19. a szociálisan rászorult magánszemély hiteladós vagy – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezett lakhatásának biztosítása érdekében
 
-a) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben törvény rendelkezése alapján elengedett, megszűnt kötelezettség, valamint az előbbi ügyletben keletkezett, a magánszemélyt megillető, ingatlan értékesítéséből származó jövedelem;
+a) a Magyar Állam által a hiteladós vagy – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezett lakása megvásárlásával összefüggésben törvény rendelkezése alapján elengedett, megszűnt kötelezettség, valamint az előbbi ügyletben keletkezett, a magánszemélyt megillető, ingatlan értékesítéséből származó jövedelem;
 
-b) az a) pontban említett hiteladósnak (illetve vele közös háztartásban élő hozzátartozójának) lakás bérletéhez helyi önkormányzat vagy a Nemzeti Eszközkezelő Zrt. által megállapított kedvezményes bérleti díj formájában juttatott bevétel;
+b) az a) pontban említett hiteladósnak vagy zálogkötelezettnek (illetve vele közös háztartásban élő hozzátartozójának) lakás bérletéhez helyi önkormányzat vagy a Nemzeti Eszközkezelő Zrt. által megállapított kedvezményes bérleti díj formájában juttatott bevétel;
 
-c) az a) pontban említett hiteladósnak – mint volt tulajdonosnak – törvény alapján a lakás visszavásárlására biztosított vételi opciós jog formájában juttatott bevétel;
+c) az a) pontban említett hiteladósnak vagy zálogkötelezettnek – mint volt tulajdonosnak – törvény alapján a lakás visszavásárlására biztosított vételi opciós jog formájában juttatott bevétel;
 
 d) a c) pontban említett opciós jog érvényesítésekor a magánszemély által megszerzett jövedelem;
 
@@ -334,11 +332,19 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 
 7.21. a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés feltéve, hogy
 
-a) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét vagy
+a) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének négyszeresét,
 
-b) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le;
+b) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le vagy
+
+c) a követelést a hitelintézet hagyatéki hitelezőként engedi el
+
+azzal, hogy az a)–b) pont szerinti rendelkezés nem alkalmazható, ha az elengedés nem független felek között történik;
 
 7.22. az az összeg, amelyet az otthonteremtési kamattámogatásról szóló kormányrendelet szerint a hátralékos adós magánszemély javára a hitelintézet elenged, feltéve, hogy a magánszemély a késedelmes jelzáloghitellel terhelt átruházott ingatlanának a vonatkozó adásvételi szerződés szerinti vételárát teljes egészében hátraléka törlesztésére fordítja.
+
+7.23. a Magyar Honvédség hivatásos és szerződéses állományú tagjai részére járó egyenruházati ellátmány terhére, az egyenruházati ellátmány éves összegének legfeljebb 15 százalékáig terjedő összegben adott pénzbeli juttatás;
+
+7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -424,15 +430,13 @@ c) az a)–b) pontokban említett rendezvényeken a gyermekek, tanulók felügye
 
 8.26. a büntetés-végrehajtási intézetekből szabaduló magánszemély részére kiadott, évszaknak megfelelő öltözet;
 
-8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint természetbeni ellátás formájában nyújtott rendkívüli gyermekvédelmi támogatás;
+8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint természetbeni ellátás formájában nyújtott rendkívüli gyermekvédelmi támogatás, továbbá a rendszeres gyermekvédelmi kedvezményre jogosult gyermeknek, fiatal felnőttnek a települési önkormányzat jegyzője által fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható, az Erzsébet-programról szóló törvény szerinti Erzsébet-utalvány formájában nyújtott természetbeni támogatás;
 
 8.28. az ingyenesen vagy kedvezményesen
 
-a) a sportesemény-szervező tevékenységet folytató szervezet által e tevékenységi körében juttatott (ide nem értve, ha azt más személy megrendelésére teljesíti),
+a) a sportesemény-szervező tevékenységet folytató szervezet által e tevékenységi körében juttatott (ide nem értve, ha azt más személy megrendelésére teljesíti) sporteseményre szóló belépőjegy, bérlet;
 
-b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ezer forint értékben juttatott,
-
-sporteseményre szóló belépőjegy, bérlet;
+b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ezer forint értékben juttatott, sporteseményre vagy kulturális szolgáltatás igénybevételére – muzeális intézmény és művészeti létesítmény (kiállítóhely) kiállítására, színház-, tánc-, cirkusz- vagy zeneművészeti előadásra, közművelődési tevékenységet folytató szervezet által nyújtott kulturális szolgáltatás igénybevételére – szóló belépőjegy, bérlet, továbbá könyvtári beiratkozási díj, ide nem értve a Széchenyi Pihenő Kártya szabadidő alszámlájára utalt munkáltatói támogatást;
 
 8.29. a munkáltató, volt munkáltató által a csoportos létszámleépítés miatt elbocsátott, vagy elbocsátandó munkavállalók részére nyújtott olyan szolgáltatás, mellyel a munkáltató a munkavállaló újra-elhelyezkedését támogatja, azzal, hogy e rendelkezés alkalmazásában a munkavállaló újra-elhelyezkedését támogató szolgáltatásnak minősül a pszichológiai tanácsadás, az át-, illetve továbbképzés, a munkajogi tanácsadás;
 
@@ -541,3 +545,5 @@ A jövedelem megállapítására értelemszerűen e törvénynek az ingatlan, va
 9.5.3. Ha a magánszemély a 9.5.2. pontban említett nyilatkozata megtétele mellett megszerzett termőföldre vonatkozóan a nyilatkozatban foglaltakat nem teljesíti, bármely feltétel hiányának beálltával termőföld átruházásából származó jövedelemnek kell tekinteni a termőföld megszerzésének alapjául szolgáló szerződésben meghatározott ellenértéket.
 
 9.5.4.
+
+9.6. A kifizető az adózás rendjéről szóló törvény 31. § (2) bekezdése szerinti rendben, magánszemélyenkénti elkülönítésben adatot szolgáltat az állami adóhatóság részére a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás díjaként adómentesen fizetett összegről, a biztosító nevéről és székhelyéről.

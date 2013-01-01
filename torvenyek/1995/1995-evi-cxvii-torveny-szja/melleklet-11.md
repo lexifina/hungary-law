@@ -42,15 +42,15 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 4. a 16. életévét betöltött segítő családtag részére kifizetett – de legfeljebb a mindenkori minimálbért meg nem haladó – összeg és annak közterhei, feltéve, hogy a segítő családtag legalább heti 40 órában közreműködik (főállású segítő családtag) vagy, ha a közreműködés ideje ennél kevesebb, akkor ezzel arányos rész, azzal, hogy egyebekben a főállású segítő családtag kizárólag a 3. pont vonatkozásában alkalmazottnak minősül;
 
-5. az olyan biztosítás díja, amelynek biztosítottja az alkalmazott, továbbá az egyéni vállalkozó által az alkalmazott javára az önkéntes kölcsönös biztosító pénztárba történő munkáltatói hozzájárulás és annak közterhei;
+5. az olyan biztosítás díja, amelynek biztosítottja az alkalmazott (adóköteles biztosítási díj esetében feltéve, hogy a biztosítói szolgáltatás kedvezményezettje nem az egyéni vállalkozó), továbbá az egyéni vállalkozó által az alkalmazott javára az önkéntes kölcsönös biztosító pénztárba történő munkáltatói hozzájárulás és annak közterhei;
 
-6. a nem megállapodás alapján befizetett saját társadalombiztosítási járulék, egészségügyi szolgáltatási járulék;
+6. a nem megállapodás alapján befizetett saját szociális hozzájárulási adó, egészségügyi szolgáltatási járulék;
 
 7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
 8. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 
-9. a bevétel, illetve az ehhez szükséges feltételek biztosítása érdekében kifizetett vagyon-, felelősség-, kockázati élet-, balesetbiztosítás díja, az életbiztosításnál, feltéve, hogy az egyéni vállalkozó e címen nem vett igénybe adókedvezményt;
+9. a bevétel, illetve az ehhez szükséges feltételek biztosítása érdekében kifizetett vagyon-, felelősség-, kockázati biztosítás díja;
 
 10. a vállalkozási tevékenységgel kapcsolatban felvett pénzintézeti hitelre (kölcsönre) kifizetett kamat, kivéve azt a kamatot, amely a tárgyi eszköz beszerzési árának részét képezi;
 
@@ -681,3 +681,11 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 10. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a saját maga javára fizetett összeg, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján a saját maga javára fizetett magánnyugdíjpénztári tagdíj és annak kiegészítése;
 
 11. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján fizetett egészségbiztosítási járulék;
+
+12. az értékcsökkenési leírás alapjába beszámító, a tárgyi eszköz, a nem anyagi javak üzembe helyezéséig felmerült kiadás, valamint a felújítási költséget képező kiadások, ha azokkal az egyéni vállalkozó az értékcsökkenési leírás alapját növeli;
+
+13. a vissza nem térítendő munkáltatói támogatás, ide nem értve a magánszemélynek segély címén juttatott összeget;
+
+14. a magánszemély bevétele (jövedelme) után külföldön megfizetett, a személyi jövedelemadónak megfelelő adó.
+
+15. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a vállalkozó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.

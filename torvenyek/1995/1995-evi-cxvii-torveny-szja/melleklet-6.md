@@ -1,6 +1,6 @@
 6. számú melléklet az 1995. évi CXVII. törvényhez
 
-I. Mezőgazdasági őstermelői tevékenységnek minősül a saját gazdaságban történő növénytermelés, ültetvénytelepítés, állattenyésztés, termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik, a saját gazdaságban egyes mezőgazdasági termékek jogszabályba nem ütköző gyűjtése, a saját tulajdonú földterületen végzett erdőgazdálkodás, mindezekre nézve akkor, ha az előállított termék vagy a tevékenység az e melléklet II. pontjában felsoroltak valamelyikébe beletartozik.
+I. Mezőgazdasági őstermelői tevékenységnek minősül a saját gazdaságban történő növénytermelés, ültetvénytelepítés, állattenyésztés, termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik, a saját gazdaságban egyes mezőgazdasági termékek jogszabályba nem ütköző gyűjtése, a saját tulajdonú földterületen végzett erdőgazdálkodás, mindezekre nézve akkor, ha az előállított termék vagy a tevékenység az e melléklet II. pontjában felsoroltak valamelyikébe beletartozik, ideértve a saját gazdaságban termelt gyümölcs felhasználásával bérfőzés keretében történő párlatkészítést is.
 
 a) A mezőgazdasági termékek gyűjtése esetén saját gazdaság alatt a terület felett rendelkezési jogot gyakorlónak legalább a szóbeli hozzájárulását és a gyűjtést folytató magánszemélynek a gyűjtés eredményének felhasználása feletti rendelkezési jogosultságát kell érteni.
 
@@ -108,9 +108,9 @@ szójabab, földimogyoró, lenmag, repce, napraforgó, ricinus, mustármag, sáf
 
 18. Feldolgozott (véglegesen tartósított vagy konzervált, illetve közvetlenül fogyasztható) zöldség, gyümölcs és dió 2001–2009
 
-19. Szőlőbor 220429-ből
+19. Szőlőbor 220421-ből, kivéve a 22042199
 
-kivéve a 22042999
+220429-ből, kivéve a 22042999
 
 20. Szőlőmust 2204 30
 

@@ -4,7 +4,7 @@
 
 ## Kamatjövedelem
 
-65. § (1) Kamatjövedelemnek minősülnek – figyelemmel az (5) bekezdés rendelkezéseire is – a következők:
+65. § (1) Kamatjövedelemnek minősülnek – figyelemmel a (3)–(3b) és az (5)–(6a) bekezdés rendelkezéseire is – a következők:
 
 a) bármely hitelintézeti betét (takarékbetét), fizetési számla követelés-egyenlege esetében a magánszemély és a pénzforgalmi szolgáltató között fennálló szerződés (ideértve az üzletszabályzatot, kamatfeltételeket is) alapján jóváírt és/vagy tőkésített kamat összegéből a szokásos piaci értéket meg nem haladó rész;
 
@@ -16,17 +16,7 @@ bb) a beváltáskor, a visszaváltáskor, valamint az átruházáskor [ide nem �
 
 c) az a)–b) pont rendelkezéseitől eltérően, ha az a)–b) pont szerint megállapított kamatjövedelem olyan vagyoni érték (pl. a nyereménybetétre kisorsolt tárgynyeremény, az értékpapír), amelyből az adó levonása nem lehetséges, adó alapja a vagyoni érték szokásos piaci értékének (a nyereményalapnak) 1,19-szerese;
 
-d) a magánszemély
-
-da) biztosítási szerződéshez fűződő maradékjogból,
-
-db) életbiztosítási szerződés alapján, nyugdíjbiztosítási szerződés alapján a biztosító szolgáltatása címén megszerzett – egyébként nem adómentes – bevételének az a része, amely meghaladja
-
-1. a magánszemély vagy javára más magánszemély által fizetett díj(ak) – kivéve, ha azt a magánszemély, vagy a más magánszemély költségként elszámolta –,
-
-2. az adóköteles (adózott) biztosítási díj(ak)
-
-összegéből a kivont díjtartaléknak (ideértve e törvény alkalmazásában a befektetési egységekhez kötött életbiztosítások biztosítástechnikai tartalékát is) a kivonás előtti díjtartalékhoz viszonyított arányos részét azzal, hogy nem alkalmazható e rendelkezés azon bevételre, amelyre jogosító biztosítási szerződés díját vagy díjának egy részét a magánszemély költségként elszámolta, valamint azon bevételre, amelyre jogosító életbiztosítási szerződés más – nem magánszemély – által fizetett díja vagy díjának egy része adómentesnek minősült, és a magánszemély – a szerződés átalakításával lehetővé vált díjtartalék-kivonásig – a díj, mint egyéb jövedelem után az adót nem fizette meg, továbbá azzal, hogy a díjtartalék ismétlődő kivonása esetén az ismételt arányosítást a befizetett díjaknak a korábbi díjtartalék-kivonásoknál már figyelembe vett, arányosított díjakkal csökkentett részére kell elvégezni;
+d) a biztosítói teljesítésből – kivéve, ha a biztosító teljesítése az 1. számú melléklet 6. pont 6.6. alpontja szerint adómentes vagy e törvény más rendelkezése alapján minősül adóköteles jövedelemnek – a befizetett díjat meghaladó összeg azzal, hogy nem minősül befizetett díjnak a kockázati biztosítás díja;
 
 e) a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény alapján átalakult szövetkezet, illetőleg az ilyen szövetkezet csoportos kiválása útján létrejött szövetkezet, valamint az 1993. december 31-éig az 1992. évi I. törvény hatálya alatt megalakult szövetkezet, továbbá az előzőekben felsorolt szövetkezetek közül a szövetkezetekről szóló 2006. évi X. törvény 106. §-a alapján az alapszabálya módosításával tovább működő szövetkezet tagja által a szövetkezetének nyújtott tagi kölcsön kamatának (ideértve a szövetkezeti célrészjegy után a szövetkezet által fizetett kamatot is) azon része, amely a felszámítás időszakában érvényes jegybanki alapkamatot legfeljebb 5 százalékponttal haladja meg, feltéve, hogy a szövetkezet tagjainak a jogszabályban előírt célokon kívül és mértékeket meghaladóan hitelt nem nyújt, a tagjainak hitelfelvételéhez pénzintézetnél fedezetet nem képez, kezességet nem vállal, pénzt elszámolásra – a szokásos üzletvitelhez (pl. anyagbeszerzés, üzemanyag-elszámolás) szükséges mértéken felül – nem ad, azzal, hogy az ebben a pontban foglaltakat az itt felsorolt szövetkezetekből átalakulás, részleges átalakulás útján létrejött jogutód korlátolt felelősségű társaságok magánszemély tagjai által szövetkezeti tagként nyújtott kölcsönre is alkalmazni kell;
 
@@ -44,7 +34,7 @@ ab) feltéve, hogy a magánszemély a kamatjövedelmet és a levont adót az aa)
 
 b) nem kifizetőtől származik – a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg,
 
-a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szóló törvény rendelkezéseit – különös tekintettel a külföldi személyek egyes jövedelmei adózásának különös szabályaira is – figyelembe véve, azzal az eltéréssel, hogy a kifizető az aa) pontban említett igazolás tartalmáról adatot szolgáltat az adóhatóság részére.
+a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szóló törvény rendelkezéseit – különös tekintettel a külföldi személyek egyes jövedelmei adózásának különös szabályaira is – figyelembe véve, azzal az eltéréssel, hogy a kifizető az aa) pontban említett igazolás tartalmáról az adóévet követő év január 31-éig adatot szolgáltat az adóhatóság részére.
 
 (3) Nem kell figyelembe venni
 
@@ -52,19 +42,25 @@ a) jövedelemként
 
 aa) azt – a nyereményalapot meg nem haladó – összeget, amelyet a kifizető a nyereménybetét-számlán jóváírt nyeremény megváltásaként a magánszemélynek jóváír, kifizet;
 
-ab) azt a bevételt, amellyel összefüggésben az adózás rendjéről szóló törvény 7. számú melléklete adatszolgáltatási kötelezettséget ír elő;
+ab) azt a bevételt, amellyel összefüggésben az adózás rendjéről szóló törvény kamatjövedelemre vonatkozó adatszolgáltatási kötelezettséget ír elő;
 
-ac) az olyan, egyébként az (1) bekezdés d) pontja szerint kamatjövedelemnek minősülő bevételrész 50 százalékát, amelynek megszerzése a biztosítási szerződés megkötésének ötödik – ha a szerződés a megszerzéskor nem szűnik meg, a negyedik – fordulónapját követően történt;
+ac) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejötte évét követő 5. év elteltével vagy az után következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejötte évét követő 10. év elteltével vagy az után következik be;
 
-ad) az olyan, egyébként az (1) bekezdés d) pontja szerint kamatjövedelemnek minősülő bevételrész 100 százalékát, amelynek megszerzése a biztosítási szerződés megkötésének tizedik – ha a szerződés a megszerzéskor nem szűnik meg, a hatodik – fordulónapját követően történt
-
-azzal, hogy a biztosítási szerződés megszűnését nem eredményező esetben akkor alkalmazható az ac) pont rendelkezése, ha a díjtartalék-kivonás a kivonást megelőző négy évnél régebben fizetett díj és az arra arányosan számított hozam terhére, továbbá az ad) pont rendelkezése, ha a díjtartalék-kivonás a kivonást megelőző hat évnél régebben fizetett díj és az arra arányosan számított hozam terhére történt;
+ad) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejötte évét követő 3. év elteltével vagy az után, de az 5. év elteltét megelőzően következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejötte évét követő 6. év elteltével vagy az után, de a 10. év elteltét megelőzően következik be;
 
 b) kamatjövedelemként
 
 ba) a tevékenységét nem szüneteltető egyéni vállalkozó ilyenként bejelentett pénzforgalmi bankszámláján jóváírt és/vagy tőkésített, egyébként az (1) bekezdés a) pontjában említett, egyéni vállalkozói bevételként elszámolt kamatot;
 
 bb) az (1) bekezdés szerinti jövedelmet, ha e törvény külön rendelkezései szerint tartós befektetésből származó jövedelmet kell megállapítani.
+
+(3a) A (3) bekezdés a) pont ac) és ad) alpontja alkalmazásában nem minősül sem egyszeri díjas biztosításnak, sem rendszeres díjas biztosításnak a biztosítás, ha
+
+a) a biztosítási szerződésre a biztosítás teljes tartama alatt a szerződés szerint elvárt díjon felül díjfizetés (ideértve különösen az eseti, a rendkívüli, a soron kívüli díjat) történt, kivéve, ha a szerződés szerint elvárt díjon felüli díjfizetést a hozzá tartozó biztosítástechnikai tartalékkal vagy díjtartalékkal együtt elkülönítetten tartja nyilván a biztosító; az így elkülönített összegeket – az elvárt díjon felüli díjfizetés időpontját tekintve a szerződés létrejötte időpontjának – az adókötelezettség megállapításakor úgy kell tekinteni, mint önálló biztosítási szerződés szerinti díjat, biztosítástechnikai tartalékot, díjtartalékot,
+
+b) a rendszeres díjak növelésének (indexálás) mértéke meghaladja a Központi Statisztikai Hivatal által közzétett, a díjnövelés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét.
+
+(3b) A (3a) bekezdés szerinti, sem egyszeri díjas biztosításnak, sem rendszeres díjas biztosításnak nem minősülő biztosításra és az erre a biztosításra történő díjfizetésre a biztosítás teljes tartama alatt – kivéve, ha az utolsó elvárt díjon felüli díjfizetés időpontjától a (3) bekezdés a) pont ac) és ad) alpontjában meghatározott idő már eltelt – nem alkalmazhatók a (3) bekezdés szerinti jövedelemcsökkentő rendelkezések.
 
 (4) A kamatjövedelem megszerzésének időpontja:
 
@@ -83,6 +79,8 @@ b) a befektetési szolgáltató az a) pont szerinti nyilatkozat alapján az ügy
 c) a magánszemély a befektetési szolgáltató által a kamatjövedelemre vonatkozó rendelkezések szerint levont adót adóelőlegként veszi figyelembe.
 
 (6) Az (1) bekezdés ba) alpontjában említett bevételből – ha az az értékpapír megszerzését követően elsőként megszerzett kamat és/vagy hozam – levonható az értékpapír megszerzésére fordított kiadás részeként az értékpapír vételárában az értékpapír szerzéséig megfizetett, az értékpapír feltételei szerint meghatározott, kiszámított felhalmozódott kamat és/vagy hozam azzal, hogy az így levont összeg az (1) bekezdés bb) alpontjában említett esetben az értékpapír átruházásakor, beváltásakor, visszaváltásakor az értékpapír megszerzésére fordított értékként nem vehető figyelembe. A kollektív befektetési értékpapír esetében beváltásnak minősül a befektetési alap átalakulása/beolvadása révén a jogutód alap befektetési jegyére (jegyeire) történő átváltás is, amely esetben az utóbbi(ak) megszerzésre fordított értékének – ha az magasabb a jogelőd alap befektetési jegye megszerzésére fordított értéknél – az átváltásnál figyelembe vett értéket kell tekinteni azzal, hogy az ilyen beváltáskor megállapított adót a későbbiekben az (1) bekezdés bb) pontjának rendelkezése szerint a beváltást követően keletkező kamatjövedelem adójához hozzáadva, azzal együtt, vagy az említett szerzési értéknek a rendelkezés alkalmazásával a bevételt meghaladó részére az adó (2) bekezdés szerinti mértékével számított összeggel csökkentve kell megfizetni.
+
+(6a) Az (1) bekezdés d) pontjának alkalmazása során kockázati biztosítási díjnak kell tekinteni a számviteli jogszabályok szerint elkülönítve kimutatott kockázati biztosítási díjat, vagy – ha a kockázati biztosítás díja nem elkülönített – rendszeres díjfizetésű biztosítási szerződés esetében a díj 10 százalékát, egyszeri díjas biztosítás esetében a díj 1 százalékát. Ha a biztosítói teljesítéssel a biztosítási szerződés nem szűnik meg, a befizetett díjak és az azt csökkenteni rendelt tételek olyan arányban vehetők figyelembe, mint ahogyan a biztosítói teljesítés összege aránylik a biztosítási szerződés – a biztosítói teljesítés időpontjában történő – megszűnése esetén járó biztosítói teljesítés összegéhez. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket, valamint a befizetett díjat csökkentő tételként már figyelembe vett kockázati biztosítási díjat figyelmen kívül kell hagyni a kamatjövedelem biztosítói teljesítés időpontjában történő további megállapítása során.
 
 (7) Az értékpapír-átruházás, -beváltás, -visszaváltás, valamint a kamat és/vagy hozamfizetés, -jóváírás, -tőkésítés nyilvántartási rendszerét úgy kell kialakítani és működtetni, hogy abból az (6) bekezdés rendelkezésének végrehajtásához szükséges minden adat – a dematerializált értékpapír kifizetők közötti áthelyezése esetében kötelezően közlendő adatként – rendelkezésre álljon.
 

@@ -4,7 +4,7 @@
 
 a) az átalányadózás megkezdését közvetlenül megelőző adóévben az egyéni vállalkozói bevétele a 15 millió forintot nem haladta meg, és
 
-b) nem áll munkaviszonyban, és
+b)
 
 c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió forintot.
 

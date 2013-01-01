@@ -24,7 +24,7 @@ nyújt be az adóhatósághoz.
 
 (3) Az (1)–(2) bekezdésben foglaltakat nem kell alkalmazni, ha a magánszemély az adóévben egyáltalán nem szerzett bevételt, vagy kizárólag olyan bevételt szerzett, amelyet nem kell bevallania. Nem kell bevallani azt a bevételt,
 
-a) amelyet a jövedelem kiszámításánál nem kell figyelembe venni, kivéve, ha azt be kell számítani a magánszemély összes jövedelmébe az adóévben [3. § 75. pont];
+a) amelyet a jövedelem kiszámításánál nem kell figyelembe venni, kivéve a 7. § (1) bekezdés m) pontja szerinti jövedelmet akkor, ha a magánszemély más okból is köteles a személyi jövedelemadó-bevallási kötelezettség teljesítésére;
 
 b) amely ingó vagyontárgy átruházásából származik, és az éves összege nem haladja meg a 600 ezer forintot, vagy az abból megállapított összes jövedelem nem haladja meg a 200 ezer forintot;
 

@@ -48,7 +48,7 @@ kb) a magánnyugdíjpénztár a kedvezményezett részére nem nyugdíjszolgált
 
 l) a pedagógus szakvizsgára történő felkészülésben vagy továbbképzésben való részvételi díjának és költségének (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja) munkáltató által történő megtérítését, kifizetését, amennyiben annak forrása a központi költségvetés által biztosított hozzájárulás, valamint a pedagógusnak szakkönyv vásárlására jogszabály alapján adott összeg;
 
-m) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól Magyarországon mentesített azon jövedelmet, amelyet egyébként az összevont adólapba kellene beszámítani;
+m) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól Magyarországon mentesített azon jövedelmet, amelyet egyébként az összevont adólapba kellene beszámítani azzal, hogy ezt az összeget az adóbevallásban, a munkáltatói adómegállapításban tájékoztató adatként szerepeltetni kell;
 
 n) a jogszabály alapján, nyilvánosan meghirdetett pályázat útján költségvetési, önkormányzati forrásból
 
@@ -76,11 +76,13 @@ v) a jogszabály vagy nemzetközi szerződés rendelkezése alapján a cél szer
 
 w) a kifizető által kedvezményesen juttatott termék, szolgáltatás szokásos piaci értékéből a magánszemély által meg nem fizetett azon részt, amely nem haladja meg a termék szolgáltatás független féltől történő megszerzésekor a kifizető által elért (elérhető) árengedmény összegét;
 
-x) azt az összeget, amelyet a belföldi jogszabályok szerint bejegyzésre nem kötelezett külföldi munkáltató képviseletét ellátó, a belföldi jogszabályok hatálya alá tartozó magánszemély a jogok és kötelezettségek tekintetében a külföldi munkáltatót (foglalkoztatót) terhelő fizetési kötelezettségek (járulék, hozzájárulás) megelőlegezése, megtérítése címén kap;
+x) azt az összeget, amelyet a belföldi jogszabályok szerint bejegyzésre nem kötelezett külföldi munkáltató képviseletét ellátó, a belföldi jogszabályok hatálya alá tartozó magánszemély a jogok és kötelezettségek tekintetében a külföldi munkáltatót (foglalkoztatót) terhelő fizetési kötelezettségek (járulék, adó) megelőlegezése, megtérítése címén kap;
 
 y) a közérdekű önkéntes tevékenységről szóló törvény alapján az önkéntesnek nyújtott, ellenszolgáltatásnak nem minősülő juttatást;
 
 z) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény (a továbbiakban: Tbj.) 5. §-ának (1)–(2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonyra tekintettel a magánszemélynek a Tbj. szerint nem a foglalkoztatójától származó vagyoni értékkel összefüggésben – a foglalkoztató és a magánszemély egybehangzó nyilatkozata alapján – a foglalkoztató által átvállalt (ide értve az utólagos megtérítést is) százalékos mértékű egészségügyi hozzájárulás összegét, amennyiben a magánszemély nyilatkozik arról, hogy a kötelezettség teljesítéséhez szükséges valamennyi adatot a foglalkoztató rendelkezésére bocsátja.
+
+(1a) A 3. § 89. pontjától eltérően nem szerez bevételt a díjfizetés időpontjában a biztosított magánszemély, ha a biztosító teljesítésére – korlátozások nélkül – a díjat fizető személy jogosult.
 
 (2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy, vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely a Büntető Törvénykönyvben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel.
 

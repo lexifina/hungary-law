@@ -2,7 +2,7 @@
 
 (2) A 62/A. § rendelkezését a hatálybalépést követően megszerzett jövedelemre, illetve a hatálybalépést követően értékesített (átruházott) vagy más módon a könyvekből kivezetett (kivont) részesedés adókötelezettségére kell alkalmazni.
 
-(3) 2012. december 31-ig az Erzsébet-utalvány melegkonyhás vendéglátóhelyeken étkezési szolgáltatás vásárlásra is felhasználható.
+(3)
 
 (4) A 70. §-nak az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított (2) bekezdése rendelkezését a naptári évtől eltérő üzleti év esetén a 2012. évben induló üzleti év első napjától kell alkalmazni.
 

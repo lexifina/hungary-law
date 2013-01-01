@@ -24,7 +24,13 @@ fd) az értékelési különbözetet,
 
 g) a törvény eltérő rendelkezésének hiányában a társas vállalkozás tagja által az e jogviszonyára tekintettel megszerzett vagyoni érték, azzal, hogy a bevételnek nem része a megszerzése érdekében a magánszemély által viselt, szabályszerűen igazolt kiadás.
 
-(2)
+(2) Ha a biztosítás más személy, jogi személyiséggel nem rendelkező szervezet (kivéve az egyéni vállalkozónak nem minősülő magánszemélyt) által fizetett díja részben vagy egészben a magánszemély adómentes bevétele volt, egyéb jövedelem a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás
+
+a) alapján a biztosító nem haláleseti teljesítéséből a magánszemélynek juttatott vagyoni értékből a biztosított által megfizetett biztosítási díjak és az adóköteles biztosítási díjak együttes összegét meghaladó része;
+
+b) visszavásárlási értékéből a biztosított által megfizetett biztosítási díjak és az adóköteles biztosítási díjak együttes összegét meghaladó rész a biztosítási szerződés módosításának időpontjában az eredeti biztosított magánszemélynél, ha a biztosítási szerződésben meghatározott biztosított személyében változás következik be, illetve ha a szerződésmódosítás következtében a biztosítás már nem minősül kockázati biztosításnak nem minősülő határozatlan idejű, kizárólag halál esetre szóló életbiztosításnak
+
+azzal, hogy az ily módon megállapított egyéb jövedelemmel összefüggésben a biztosító a kifizetőre irányadó rendelkezések szerint jár el, továbbá az egyéb jövedelmet adóköteles biztosítási díjként lehet figyelembe venni a biztosító további teljesítése adókötelezettségének megállapításakor.
 
 (3)–(4)
 
@@ -98,15 +104,15 @@ b) a jövedelem megállapításának e bekezdésben foglalt szabálya szempontj�
 
 (16) Ha az ingatlan fekvése szerinti állammal Magyarországnak nincs hatályos egyezménye a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén, akkor az ingatlan vagy a vagyoni értékű jog átruházásának (59. §) ellenértékéből az a rész, amely meghaladja az ingatlan, illetve a vagyoni értékű jog megszerzésére fordított összeget [62. § (2)–(3) bek.], egyéb jövedelemnek minősül.
 
-(17) A nyugdíj-előtakarékossági számlákról szóló törvény szerint nyugdíjszolgáltatásnak nem minősülő kifizetés (juttatás), átutalás, átvezetés (a továbbiakban együtt: nem-nyugdíj szolgáltatás) esetén egyéb jövedelem (kivéve, ha külön rendelkezés szerint nem kell megállapítani) a nyugdíj-előtakarékossági számlán lévő, e szolgáltatás értékének levonása nélkül, szokásos piaci értéken számított követelés (a továbbiakban: számított követelés) azon része, amely meghaladja a számlatulajdonos által (nyilvántartott adózott követelésállomány esetén annak nyilvántartásba vételét követően) teljesített befizetések, osztalékból származó jövedelemként jóváírt, nyugdíj-előtakarékossági nyilatkozat alapján átutalt összegek, valamint a már nyilvántartott adózott követelésállomány együttes összegét, azzal, hogy
+(17) A nyugdíj-előtakarékossági számláról adómentes nyugdíjszolgáltatásnak nem minősülő kifizetés (juttatás), átutalás, átvezetés (a továbbiakban együtt: adóköteles kifizetés) esetén egyéb jövedelem (kivéve, ha külön rendelkezés szerint nem kell megállapítani) a nyugdíj-előtakarékossági számlán lévő, e szolgáltatás értékének levonása nélkül, szokásos piaci értéken számított követelés (a továbbiakban: számított követelés) azon része, amely meghaladja a számlatulajdonos által (nyilvántartott adózott követelésállomány esetén annak nyilvántartásba vételét követően) teljesített befizetések, osztalékból származó jövedelemként jóváírt, nyugdíj-előtakarékossági nyilatkozat alapján átutalt összegek, valamint a már nyilvántartott adózott követelésállomány együttes összegét, azzal, hogy
 
-a) e jövedelem szerzési időpontjának azt az időpontot kell tekinteni, amikor a számlatulajdonos nem-nyugdíj szolgáltatásról rendelkezik;
+a) e jövedelem szerzési időpontjának azt az időpontot kell tekinteni, amikor a számlatulajdonos adóköteles kifizetésről rendelkezik;
 
 b) e jövedelem után adóelőleget nem kell fizetni, az adót a számlatulajdonos magánszemély az önadózásra vonatkozó rendelkezések szerint állapítja meg, vallja be és fizeti meg;
 
 c) e jövedelem megszerzéséről a nyugdíj-előtakarékossági számla vezetője az adózás rendjéről szóló törvény rendelkezései szerint a magánszemélynek igazolást ad;
 
-d) adózott követelésállomány alatt a számított követelésből a nem-nyugdíj szolgáltatással csökkentett értékrészt kell érteni, amelyet a számlavezetőnek a továbbiakban ekként kell nyilvántartania és minden újabb nem-nyugdíj szolgáltatás alkalmával újra meg kell állapítania.
+d) adózott követelésállomány alatt a számított követelésből az adóköteles kifizetéssel csökkentett értékrészt kell érteni, amelyet a számlavezetőnek a továbbiakban ekként kell nyilvántartania és minden újabb adóköteles kifizetés alkalmával újra meg kell állapítania.
 
 (18)
 

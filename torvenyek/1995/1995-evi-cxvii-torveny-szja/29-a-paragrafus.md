@@ -1,6 +1,6 @@
 ## Családi kedvezmény
 
-29/A. § (1) A családi kedvezményt érvényesítő magánszemély az összevont adóalapját [29. § (1) bekezdés] a családi kedvezménnyel csökkenti.
+29/A. § (1) A családi kedvezményt érvényesítő magánszemély az összevont adóalapját [29. §] a családi kedvezménnyel csökkenti.
 
 (2) A családi kedvezmény – az eltartottak lélekszámától függően – kedvezményezett eltartottanként és jogosultsági hónaponként
 

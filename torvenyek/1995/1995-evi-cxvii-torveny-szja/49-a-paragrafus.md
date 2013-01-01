@@ -34,7 +34,9 @@ ab) értékcsökkenési leírásként a tulajdonba adásig még el nem számolt,
 
 minősül;
 
-b) a megszűnés adóévéről szóló adóbevallásában a magánszemélynek az egyéni vállalkozói jogállás megszűnését követően a megszűnés adóévéről szóló adóbevallás benyújtásáig az egyéni cég tulajdonába nem adott követelésre tekintettel befolyt ellenértéket (bevételt) a megszűnés adóévében megszerzett vállalkozói bevételként kell figyelembe vennie.
+b) a megszűnés adóévéről szóló adóbevallásában a magánszemélynek az egyéni vállalkozói jogállás megszűnését követően a megszűnés adóévéről szóló adóbevallás benyújtásáig az egyéni cég tulajdonába nem adott követelésre tekintettel befolyt ellenértéket (bevételt) a megszűnés adóévében megszerzett vállalkozói bevételként kell figyelembe vennie;
+
+c) a volt egyéni vállalkozói tevékenységgel összefüggésben felmerült kiadásoknak az egyéni cég által történő megtérítése a volt egyéni vállalkozó számára nem keletkeztet bevételt, ha ezen kiadások közvetlenül szolgálják az egyéni cég tevékenységét (ideértve különösen a szállítói követelések megtérítését).
 
 (5) A magánszemély az adóévről szóló adóbevallásában
 

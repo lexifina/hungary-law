@@ -26,6 +26,8 @@ g) az a)–f) pontban nem említett esetben az a nap, amelytől kezdődően a ma
 
 (3) Ha a magánszemély az őt megillető bevétel tárgyát képező vagyoni értékre vonatkozó rendelkezési jogát az (1)–(2) bekezdésben meghatározott időpontot megelőzően gyakorolta, akkor a bevétel megszerzésének időpontja – az (1)–(2) bekezdésben foglaltaktól függetlenül – a rendelkezési jog gyakorlásának napja, ha azonban a bevétel tárgyát képező vagyoni érték miatti kiadást a magánszemély a juttatónak megelőlegezi, és/vagy a kiadást igazoló bizonylattal elszámolni köteles, az előzőektől eltérően az elszámolás napja.
 
+(3a) Ha a biztosítási szerződés a 7. § (1a) bekezdése szerinti esetben utóbb olyan módon módosul, hogy a biztosító teljesítésére a biztosított vagy más magánszemély (nem a díjat fizető személy) válik jogosulttá (e törvény alkalmazásában ideértve azt az esetet is, ha a biztosított a szerződő helyébe lép), a biztosítás szerződésmódosítás időpontjáig megfizetett díja a szerződés módosításának időpontjában – tekintettel az 1. számú melléklet rendelkezéseire is – egy összegben minősül adóköteles biztosítási díjnak a biztosított magánszemélynél, azzal, hogy nem kell alkalmazni ezt a szabályt, ha a magánszemély a más személy által korábban megfizetett díjat a díjat fizető személynek megtéríti.
+
 (4) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó vállalkozói kivétjének megszerzési időpontja az e címen elszámolt költség elszámolásának napja.
 
 (5) Ha az adóhatóság be nem vallott adóköteles jövedelmet tár fel, ennek összegét a jövedelem megszerzése évének jövedelméhez kell hozzászámítani.

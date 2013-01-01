@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2012-11-17 | 2012. évi CLXI. törvény | 1995-117-00-00.107 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 1995-117-00-00.108 |
 | 2012-12-28 | 2012. évi CCXIII. törvény | 1995-117-00-00.109 |
+| 2013-01-01 | 2012. évi CLXXVIII. törvény | 1995-117-00-00.110 |

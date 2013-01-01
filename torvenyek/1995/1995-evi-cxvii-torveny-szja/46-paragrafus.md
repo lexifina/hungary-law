@@ -26,7 +26,7 @@ a) az őstermelői tevékenységből származó bevételből, ha a magánszemél
 
 b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, adóalap-kiegészítést, valamint az érvényesített adójóváírást és az érvényesített adókedvezményt, továbbá az adóévi összesített igazoláson a 11/A. § (5) bekezdésében említett esetben a rendelkezésben előírt tájékoztatást is megadja.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, valamint az érvényesített adókedvezményt, továbbá az adóévi összesített igazoláson a 11/A. § (3) bekezdésében meghatározott esetben a rendelkezésben előírt tájékoztatást is megadja.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 

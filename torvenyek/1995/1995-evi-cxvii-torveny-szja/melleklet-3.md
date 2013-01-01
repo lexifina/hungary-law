@@ -32,7 +32,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 7. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 
-8. a mezőgazdasági őstermelő által a bevétel, illetve az ehhez szükséges feltételek biztosítása érdekében kifizetett vagyon-, felelősség-, kockázati élet-, balesetbiztosítás díja, az életbiztosításnál feltéve, hogy a mezőgazdasági őstermelő e címen nem vett igénybe adókedvezményt;
+8. a mezőgazdasági őstermelő által a bevétel, illetve az ehhez szükséges feltételek biztosítása érdekében kifizetett vagyon-, felelősség-, kockázati biztosítás díja;
 
 9. a mezőgazdasági őstermelő által a tevékenységével kapcsolatban felvett pénzintézeti hitelre (kölcsönre) kifizetett kamat;
 

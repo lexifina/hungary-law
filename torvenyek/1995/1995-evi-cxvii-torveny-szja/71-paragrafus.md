@@ -6,9 +6,9 @@ a) személyére és közeli hozzátartozói személyére tekintettel a munkálta
 
 b) a munkavállaló választása szerint
 
-ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató munkavállalóit ellátó, a munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
+ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
 
-bb) fogyasztásra kész étel vásárlására jogosító Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 5 ezer forintot meg nem haladó rész;
+bb) Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 8 ezer forintot meg nem haladó rész;
 
 c) az adóévben Széchenyi Pihenő Kártya
 
@@ -32,9 +32,9 @@ a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje ala
 
 b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (vagy annak jogutódja) – a nyugdíjban részesülő magánszemélynek választása szerint
 
-ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató munkavállalóit ellátó, a munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
+ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
 
-bb) fogyasztásra kész étel vásárlására jogosító Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 5 ezer forintot meg nem haladó rész;
+bb) Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 8 ezer forintot meg nem haladó rész;
 
 c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
@@ -68,6 +68,6 @@ e) a Magyar Tudományos Akadémia által fenntartott üdülőkben nyújtott szol
 
 f) a Széchenyi Pihenő Kártya az arra jogosult intézmény által kibocsátott olyan fizetési eszköz, amellyel a munkavállalónak a munkáltató által utalt támogatás terhére – az arra felhatalmazott és a rendszerbe bevont szolgáltatóknál – szolgáltatások vásárolhatók;
 
-g) iskolakezdési támogatásnak minősül az juttatás, amelyet a munkáltató a közoktatásban (vagy bármely EGT-államban ennek megfelelő oktatásban) részt vevő gyermekre, tanulóra tekintettel a tanév első napját megelőző és követő 60 napon belül tankönyv, taneszköz, ruházat (ideértve a munkáltató nevére szóló, az előzőekben felsorolt javak beszerzéséről szóló számla ellenértékének az említett időszakban történő megtérítését is) vagy kizárólag az említett javak vásárlására jogosító utalvány formájában juttat, feltéve, hogy a juttatásban részesülő magánszemély a juttató olyan munkavállalója, aki az említett gyermeknek, tanulónak a családok támogatásáról szóló törvény, vagy bármely EGT-állam hasonló jogszabálya alapján családi pótlék juttatásra, vagy hasonló ellátásra jogosult szülője, gyámja (ide nem értve a gyermekvédelmi gyámot), vagy e szülőnek, gyámnak (ide nem értve a gyermekvédelmi gyámot) vele közös háztartásban élő házastársa;
+g) iskolakezdési támogatásnak minősül az a juttatás, amelyet a munkáltató a közoktatásban (vagy bármely EGT-államban ennek megfelelő oktatásban) részt vevő gyermekre, tanulóra tekintettel a tanév első napját megelőző 60. naptól a kibocsátás évének utolsó napjáig tankönyv, taneszköz, ruházat vásárlására jogosító – papír alapon vagy elektronikus formában kibocsátott –utalvány formájában juttat, feltéve, hogy a juttatásban részesülő magánszemély a juttató olyan munkavállalója, aki az említett gyermeknek, tanulónak a családok támogatásáról szóló törvény vagy bármely EGT-állam hasonló jogszabálya alapján családi pótlék juttatásra vagy hasonló ellátásra jogosult szülője, gyámja (ide nem értve a gyermekvédelmi gyámot) vagy e szülőnek, gyámnak (ide nem értve a gyermekvédelmi gyámot) vele közös háztartásban élő házastársa, és a juttatásra való jogosultság feltételeinek fennállásáról a munkáltatónak nyilatkozatot tesz;
 
 h) iskolarendszerű a képzés, ha az abban részesülő a képző intézménnyel tanulói vagy hallgatói jogviszonyban áll.

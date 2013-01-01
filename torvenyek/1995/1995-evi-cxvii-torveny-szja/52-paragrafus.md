@@ -1,6 +1,6 @@
 52. § (1) Az átalányadózás szabályai addig alkalmazhatók, amíg az adóévben
 
-a) az egyéni vállalkozó egyéni vállalkozói bevétele a 15 millió forintot, az 50. § (4) bekezdésében említett egyéni vállalkozó esetében a 100 millió forintot nem haladja meg és az egyéni vállalkozó munkaviszonyt nem létesít,
+a) az egyéni vállalkozó egyéni vállalkozói bevétele a 15 millió forintot, az 50. § (4) bekezdésében említett egyéni vállalkozó esetében a 100 millió forintot nem haladja meg,
 
 b)
 

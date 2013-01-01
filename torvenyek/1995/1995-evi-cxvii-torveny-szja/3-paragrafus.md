@@ -34,13 +34,13 @@ b) hajó, légi jármű vagy közúti szállító jármű nemzetközi forgalomba
 
 c) ingatlan birtoklásából, használatából és hasznainak szedéséből, valamint az ingatlan feletti rendelkezési jog gyakorlásából (így különösen az ingatlan átruházásából, bérbeadásából vagy haszonbérbe adásából) származó jövedelem esetében – az a) alpontban foglaltaktól függetlenül – az ingatlan fekvése szerinti állam;
 
-d) nem önálló tevékenységből származó jövedelem esetében a tevékenység-végzés szokásos helyének (az állandó munkavégzés helyének) fekvése szerinti állam; változó munkavégzési helyen végzett tevékenység esetében,
+d) nem önálló tevékenységből származó jövedelem esetében a tevékenységvégzés szokásos helyének fekvése szerinti állam; ha a tevékenység végzésének szokásos helye nem határozható meg (ideértve különösen a több címmel vagy nagyobb földrajzi egység megnevezésével beazonosítható helyen végzett tevékenység esetét),
 
-da) ha a magánszemély a munkáltató (a munkaadó) belföldi székhelyével, vagy belföldi telephelyével (állandó bázisával), fióktelepével, kereskedelmi képviseletével áll a jövedelemszerzés alapjául szolgáló jogviszonyban, akkor belföld;
+da) ha a magánszemély a munkáltató (a munkaadó) belföldi székhelyével vagy belföldi telephelyével (állandó bázisával), fióktelepével, kereskedelmi képviseletével áll a jövedelemszerzés alapjául szolgáló jogviszonyban, akkor belföld;
 
-db) a da) pontban nem említett esetben a belföldön végzett tevékenységére arányosan számított jövedelem tekintetében belföld;
+db) a da) alpontban nem tartozó esetben a belföldön végzett tevékenységére arányosan számított jövedelem tekintetében belföld;
 
-dc) a db) pont rendelkezésétől eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
+dc) a db) alponttól eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
 
 e) közszolgálati, közalkalmazotti, bírósági, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, valamint a fegyveres szervek hivatásos állományú tagjának szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti jogviszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
 
@@ -150,7 +150,7 @@ c) vetőmagbértermelés, bérnevelés, bérhizlalás, kihelyezett állattartás
 
 21. Bér:
 
-a) a munkaviszonyból, közfoglalkoztatási jogviszonyból származó jövedelem (kivéve a munkáltató által fizetett adóköteles biztosítási díjat, valamint a munkaviszony megszüntetésére tekintettel kapott végkielégítést);
+a) a munkaviszonyból, közfoglalkoztatási jogviszonyból származó jövedelem (kivéve a munkaviszony megszüntetésére tekintettel kapott végkielégítést);
 
 b) az adóköteles társadalombiztosítási ellátás;
 
@@ -226,7 +226,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 36. Szociálisan rászoruló: az a magánszemély, akinek (eltartottainak) létfenntartása oly mértékben veszélyeztetett, hogy azt – vagyoni viszonyára is tekintettel – csak külső segítséggel képes biztosítani.
 
-37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
+37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az Országgyűlési Őrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
 
 38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 
@@ -260,7 +260,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 49. Magánnyugdíjpénztár: a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény hatálya alá tartozó szervezet.
 
-50. Adóköteles biztosítási díj: a magánszemély, mint biztosított vagy kedvezményezett javára kötött biztosítási szerződés alapján más személy által fizetett díj (ide nem értve a magánnyugdíjpénztár által biztosítóintézettől történő járadékvásárlás ellenértékét, valamint a biztosítás 1. számú melléklet szerint adómentes díját) annál a magánszemélynél, akire tekintettel a díjat fizetik.
+50.
 
 51. Termőföld: a termőföldről szóló 1994. évi LV. törvény 3. § a), f) pontjaiban meghatározott földterület.
 
@@ -312,25 +312,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 74. Lakótelek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek, ha arra a településszerkezeti terv, a helyi építési szabályzat szerint lakás építhető, valamint az ingatlan-nyilvántartásban a lakással együtt nyilvántartott földrészlet, továbbá az a földrészlet, amelyet lakáshoz tartozó földhasználati jog terhel.
 
-75. A magánszemély összes jövedelme az adóévben: a magánszemély összevont adóalapja [29. § (1) bekezdés] és külön adózó valamennyi – bevallási kötelezettséggel járó – jövedelme, a következőket is figyelembe véve:
-
-a) be kell számítani
-
-aa) a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozónál a vállalkozói osztalékalapot is,
-
-ab) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól Magyarországon mentesített azon jövedelmet, amelyet az összevont adólapba nem kell beszámítani,
-
-ac) az egyszerűsített közteherviselési hozzájárulás alapjául figyelembe vett bevételt,
-
-ad) azt a bevételt, amelyet külön törvény előírása alapján kell beszámítani;
-
-b) nem kell beszámítani
-
-ba) az ingatlan átruházásából, vagyoni értékű jog visszterhes alapításából, átruházásából (végleges átengedéséből), megszüntetéséből, ilyen jogról való végleges lemondásból származó, az összevont adóalapba nem tartozó jövedelmet,
-
-bb) a munkaviszony jogellenes megszüntetésére tekintettel bírósági ítélet alapján fizetett összeget,
-
-bc) az osztalékelőleget azzal, hogy az osztalékelőleg osztalékká váló része a beszámoló elfogadásának évében része a magánszemély összes jövedelmének.
+75.
 
 76. Nyugdíj-előtakarékossági számla: a nyugdíj-előtakarékossági számlákról szóló törvényben meghatározott számlavezető által vezetett, az említett törvény szerinti számlák együttese, feltéve, hogy a magánszemély nyilatkozata alapján a számlavezető a nyugdíj-előtakarékossági számlákon, továbbá a velük kapcsolatos, e törvény rendelkezéseinek alkalmazásához előírt bizonylatokon „NYESZ-R” megkülönböztető jelzést alkalmaz.
 
@@ -338,7 +320,7 @@ bc) az osztalékelőleget azzal, hogy az osztalékelőleg osztalékká váló r�
 
 78. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
-79. Befektetési szolgáltató: a befektetési vállalkozás, az árutőzsdei szolgáltató, a befektetési szolgáltatási tevékenységet folytató hitelintézet, ideértve az előzőek által folytatott tevékenységnek megfelelő tevékenységet külföldi jog alapján jogszerűen folytató személyt is.
+79. Befektetési szolgáltató: a befektetési vállalkozás, az árutőzsdei szolgáltató, a befektetési szolgáltatási tevékenységet folytató befektetési alapkezelő és hitelintézet, ideértve az előzőek által folytatott tevékenységnek megfelelő tevékenységet külföldi jog alapján jogszerűen folytató személyt is.
 
 80. Foglalkoztatói nyugdíjszolgáltató intézmény: a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltató intézmény.
 
@@ -354,6 +336,26 @@ bc) az osztalékelőleget azzal, hogy az osztalékelőleg osztalékká váló r�
 
 86.
 
-87. Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány által papír alapon vagy elektronikus formában kibocsátott, fogyasztásra kész étel vásárlására jogosító utalvány.
+87. Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány által papír alapon vagy elektronikus formában kibocsátott, fogyasztásra kész étel és melegkonyhás vendéglátóhelyeken étkezési szolgáltatás vásárlására felhasználható utalvány.
 
 88. Iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel tanulói vagy hallgatói jogviszonyban.
+
+89. Adóköteles biztosítási díj: magánszemély biztosítottra kötött biztosítási szerződés alapján más személy által fizetett díj (ide nem értve a magánnyugdíjpénztár által biztosítóintézettől történő járadékvásárlás ellenértékét és a biztosítás 1. számú melléklet szerint adómentes díját) a biztosított magánszemélynél.
+
+90. Személybiztosítás: az élet-, a baleset- és a betegségbiztosítás.
+
+91. Kockázati biztosítás: az olyan személybiztosítás, amelynek nincs lejárati szolgáltatása és visszavásárlási értéke, azzal, hogy kockázati biztosításnak minősül a kockázati biztosítási elemeket is magában foglaló biztosítások esetében az igazoltan elkülönített kockázati biztosítási rész is.
+
+92. Életbiztosítás: az olyan személybiztosítás, amely alapján a biztosító a természetes személy halála, meghatározott életkor vagy időpont elérése vagy más esemény bekövetkezése esetére a szerződésben meghatározott biztosítási összeg kifizetésére, járadék élethosszig tartó vagy meghatározott időszakra történő folyósítására vállal kötelezettséget.
+
+93. Nyugdíjbiztosítás: az olyan életbiztosítás, ahol a biztosítói teljesítést a biztosított halála, vagy a társadalombiztosítási nyugellátásról szóló jogszabály szerinti nyugdíjszolgáltatásra való jogosultság megszerzése, vagy az egészségi állapot legalább 40%-os mértéket elérő károsodása váltja ki, illetve ha a biztosító elérési szolgáltatása a szerződés létrejöttekor érvényes öregségi nyugdíjkorhatár biztosított általi betöltésekor válik esedékessé, feltéve, hogy a szerződés létrejöttétől a biztosító biztosítási eseményre tekintettel történő teljesítéséig (kivéve a biztosított halálát, a rokkantsági, a rehabilitációs ellátásra való jogosultság bekövetkezését, valamint ha a biztosító teljesítése nem csökkenő összegű járadékszolgáltatás és a járadékszolgáltatást a folyósítás megkezdésétől számított 10. év végéig vagy a biztosított haláláig nyújtják) legalább 10 év eltelik.
+
+94. Betegségbiztosítás (vagy egészségbiztosítás): az olyan személybiztosítás, amely alapján a biztosító a biztosított megbetegedése esetén a szerződésben meghatározott szolgáltatások teljesítésére vállal kötelezettséget, azzal, hogy betegségbiztosítás esetében a biztosító szolgáltatása kiterjedhet a szerződésben meghatározott, biztosítási eseménnyel kapcsolatban álló egészségügyi szolgáltatások miatt felmerült költségek egészségügyi szolgáltató számára történő megtérítésére is.
+
+95. Balesetbiztosítás: az olyan személybiztosítás, amely alapján a biztosító a biztosított baleset miatt bekövetkező halála, egészségkárosodása vagy rokkantsága esetére a szerződésben meghatározott biztosítási összeg vagy járadék fizetésére, valamint a szerződésben meghatározott egyéb szolgáltatásra vállal kötelezettséget.
+
+96. Járadékbiztosítás: az olyan életbiztosítás – ideértve az azonnal induló, nem csökkenő összegű járadékbiztosítást is –, ahol a járadékszolgáltatást legalább a folyósítás megkezdésétől számított 10. év végéig, vagy a biztosított haláláig nyújtják, feltéve, hogy a járadék nem csökkenő összegű és legalább évente vagy annál gyakoribb kifizetéssel valósul meg.
+
+97. Nem csökkenő összegű járadékszolgáltatás: a biztosító olyan szolgáltatása, amikor a biztosító rendszeres teljesítései közül a mindenkori utolsó teljesítés – pénzben vagy más egységben kifejezett – összege nagyobb vagy egyenlő a mindenkori utolsó teljesítést közvetlenül megelőző biztosítói teljesítés összegénél, ideértve azt az esetet is, amikor a biztosítói teljesítés összege igazolhatóan kizárólag a biztosítói teljesítés gyakoriságának és/vagy a folyósítás tartamának módosulása miatt változik.
+
+98. Biztosító teljesítése: a biztosító által a biztosítási jogviszonyra tekintettel bármilyen jogcímen kifizetett összeg, juttatott vagyoni érték, tekintettel az 1. számú melléklet rendelkezéseire is.
