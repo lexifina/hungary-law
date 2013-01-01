@@ -7,11 +7,3 @@ a) az államháztartás egyensúlyát javító különadóról és járadékról
 b) az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény 7. § 3. pontjában „ , a biztosító” szövegrész,
 
 c) a tűz elleni védekezésről a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 44. §-a.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
