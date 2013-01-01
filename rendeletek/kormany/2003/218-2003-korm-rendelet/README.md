@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-218-20-
 | 2011-12-30 | 2003-218-20-22.7 | 331/2011. (XII. 29.) Korm. rendelet |
 | 2012-03-31 | 2003-218-20-22.8 | 102/2011. (VI. 29.) Korm. rendelet |
 | 2012-07-01 | 2003-218-20-22.9 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2013-01-01 | 2003-218-20-22.10 | 182/2009. (IX. 10.) Korm. rendelet |

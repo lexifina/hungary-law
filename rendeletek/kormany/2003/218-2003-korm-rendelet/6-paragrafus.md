@@ -1,5 +1,6 @@
-6. § (1) Az igazolvány kiadása, meghosszabbítása, cseréje vagy pótlása iránti kérelmet a körzetközponti jegyző az igazolvány kiadásával teljesíti. Az igazolványt a 3. számú mellékletnek megfelelően kell kiállítani.
+6. § (1)[^16] Az igazolvány kiadása, meghosszabbítása, cseréje vagy pótlása iránti kérelmet a járási hivatal az igazolvány kiadásával teljesíti. Az igazolványt a 3. számú mellékletnek megfelelően kell kiállítani.
 
-(2)[^15] Az igazolványt – az ügyfél választása szerint – postai úton kell továbbítani, vagy azt a körzetközponti jegyzőnél kell átvenni. Az át nem vett igazolványt – az átvételre való felhívást követően – a körzetközponti jegyző a kiállítástól számított egy év elteltével megsemmisíti, és gondoskodik e ténynek a nyilvántartásban való feltüntetéséről.
+(2)[^17] Az igazolványt – az ügyfél választása szerint – postai úton kell továbbítani, vagy azt a járási hivatalnál kell átvenni. Az át nem vett igazolványt – az átvételre való felhívást követően – a járási hivatal a kiállítástól számított egy év elteltével megsemmisíti, és gondoskodik e ténynek a nyilvántartásban való feltüntetéséről.
 
-[^15]: A 6. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 6. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 6. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (5) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 35. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
