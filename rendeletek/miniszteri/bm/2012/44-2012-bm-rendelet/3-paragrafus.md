@@ -28,4 +28,6 @@ bk) az Országos Vízügyi Főigazgatóság: a saját állománya vonatkozásáb
 
 bl) a vízügyi igazgatóságok a saját állományuk vonatkozásában,
 
-bm) a belügyi szervekhez berendelt, kirendelt és vezényelt dolgozók, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar állománya vonatkozásában a munkáltatói jogkör gyakorlója szerinti, a ba)–bl) alpontokban felsorolt szervek.
+bm)[^1] a belügyi szervekhez kirendelt és vezényelt dolgozók, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar állománya vonatkozásában a munkáltatói jogkör gyakorlója szerinti, a ba)–bl) alpontokban felsorolt szervek.
+
+[^1]: A 3. § b) pont bm) alpontja a 81/2012. (XII. 28.) BM rendelet 33. § a) pontja szerint módosított szöveg.

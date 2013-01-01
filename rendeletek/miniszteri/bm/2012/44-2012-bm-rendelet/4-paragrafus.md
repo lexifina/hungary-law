@@ -1,4 +1,4 @@
-4. § (1) E rendelet alapján a legalább 2 éves szolgálati jogviszonnyal rendelkező, határozatlan időre kinevezett, továbbá a szerződéses hivatásos állományú dolgozó részére a belügyi szerv – a lakás célú számla vezetésével megbízott pénzintézet útján – lakás célú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) nyújthat:
+4. § (1)[^2] E rendelet alapján a legalább 2 éves szolgálati jogviszonnyal rendelkező, határozatlan időre kinevezett hivatásos állományú dolgozó részére a belügyi szerv – a lakás célú számla vezetésével megbízott pénzintézet útján – lakás célú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) nyújthat:
 
 a) a dolgozó tulajdonába kerülő lakás építéséhez,
 
@@ -37,3 +37,5 @@ j) vállalja, hogy a munkáltatói kölcsönnel érintett ingatlanra biztosítá
 (4) A lakáskorszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20%-áig.
 
 (5) E rendelet alkalmazásában saját lakáshelyzetét az rendezi, akinek a vásárolni, építeni, cserélni, bővíteni, korszerűsíteni tervezett lakás legalább 50%-os arányban haszonélvezeti jogtól mentes tulajdonába kerül vagy tulajdonában áll.
+
+[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 33. § b) pontja szerint módosított szöveg.
