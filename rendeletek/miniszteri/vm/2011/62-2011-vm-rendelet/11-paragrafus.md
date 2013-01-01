@@ -1,4 +1,4 @@
-## 10. §[^1]
+## 10. §[^2]
 
 11. § (1) Az alapanyag, a hőkezelést igénylő félkész termék, valamint a késztermék csak külön hűtőtérben tárolható.
 
@@ -18,4 +18,4 @@ e) nyers tej.
 
 (4) A fagyasztott, teljes felületükön becsomagolt alapanyagok, félkész termékek és késztermékek közös mélyhűtő-térben is tárolhatók.
 
-[^1]: A 10. § a 23. § (3) bekezdése alapján 2013. augusztus 1-jén lép hatályba.
+[^2]: A 10. § a 23. § (3) bekezdése alapján 2013. augusztus 1-jén lép hatályba.

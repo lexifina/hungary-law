@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben meghatározott esetben a felelős személy köteles haladéktalanul értesíteni:
 
-a) munkaidőben a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának kerületi hivatalát,
+a)[^1] munkaidőben járási állategészségügyi és élelmiszer-ellenőrző hivatalt,
 
 b) munkaidőn kívül a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának készenléti ügyeletét.
+
+[^1]: A 4. § (2) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 50. §-a szerint módosított szöveg.
