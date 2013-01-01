@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdésben megjelölt területen, a régészeti védelem célja az itt található szarmata halomsírok és a különleges földmunkával készült sánc régészeti értékeinek megőrzése, kutathatóságuk biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^8]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
+
+[^8]: A 8. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 1. § h) pontja hatályon kívül helyezte.

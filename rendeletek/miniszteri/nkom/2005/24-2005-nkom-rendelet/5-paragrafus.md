@@ -2,8 +2,10 @@
 
 (2) Az (1) bekezdésben megjelölt területen a védelem célja az itt található késő bronzkori sánc és település maradványainak megőrzése, kutathatóságuk biztosítása.
 
-(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+(3)[^5]
 
 (4) Az örökségvédelmi bírság megállapításának szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
 
 (5) Az (1) bekezdésben szereplő 0257/10, 0257/13, 0261/1, 0268/1, 0272, 0274, 0278/1 és 0287/1 helyrajzi számú ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^5]: Az 5. § (3) bekezdését a 79/2012. (XII. 28.) BM rendelet 1. § e) pontja hatályon kívül helyezte.
