@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya kiterjed a hivatásos katasztrófavédelmi szervek hivatásos és szerződéses állományú, tűzoltói és polgári védelmi állományviszonyban szolgálatot teljesítő tagjaira, (a továbbiakban együtt: katasztrófavédelmi hivatásos állományú), valamint a polgári védelmi szervezetek állományának szolgálati tevékenységére.
+## 1. §[^1] E rendelet hatálya kiterjed a hivatásos katasztrófavédelmi szervek hivatásos állományú, tűzoltói és polgári védelmi állományviszonyban szolgálatot teljesítő tagjaira, (a továbbiakban együtt: katasztrófavédelmi hivatásos állományú), valamint a polgári védelmi szervezetek állományának szolgálati tevékenységére.
 
 ## 2. Értelmező rendelkezések
 
@@ -37,3 +37,5 @@ o) szolgálati okmány: a készenléti beosztás ellátásával kapcsolatos okm�
 p) szolgálati út: a szolgálati ügyek intézésének azon módja, mely során az utasítások, szolgálati ügyiratok a szolgálati elöljárótól az alárendelthez vagy a jelentések, kérelmek és panaszok az alárendelttől az alá-fölérendeltségi viszonynak megfelelő egymásra épülő rendben az intézkedésre jogosult elöljáróhoz jutnak,
 
 r) ügyeleti szolgálat: a tűz- és káresetek, egyéb rendkívüli események jelzésének fogadására és a szükséges intézkedések megtételére, az együttműködő szervekkel való állandó kapcsolattartás biztosítására, az intézkedésre jogosult és köteles szervek, személyek értesítésére, a vezetők tájékoztatására létrehozott – váltásos szolgálati időrendben – megszakítás nélkül folyamatosan működő híradó-ügyeletesi, ügyeletesi, főügyeletesi szolgálat.
+
+[^1]: Az 1. § a 81/2012. (XII. 28.) BM rendelet 20. §-a szerint módosított szöveg.
