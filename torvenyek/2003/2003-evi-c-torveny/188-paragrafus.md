@@ -32,7 +32,7 @@
 
 11. Egyetemes elektronikus hírközlési szolgáltatás: az e törvényben meghatározott azon elektronikus hírközlési szolgáltatások, amelyek meghatározott minőségben, Magyarország területén bárhol, minden felhasználó számára megfizethető ár ellenében igénybe vehetők.
 
-12. Elektronikus hírközlési építmény: elektronikus hírközlési nyomvonalas és nyomvonal jellegű létesítmények és egyéb műtárgyak; az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat.
+12. Elektronikus hírközlési építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket;
 
 13. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
 
@@ -168,7 +168,7 @@ c) rádióinterfész: a rádióhullámoknak a rádióberendezések közötti át
 
 60/a. Jelenlét- ellenőrző szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó meghatározott állapotára vonatkozó adatok igénybevételével nyújtanak.
 
-61. Kapcsolódó eszközök: elektronikus hírközlő hálózat üzemeltetéséhez, illetve elektronikus hírközlési szolgáltatás nyújtásához kötődő, ahhoz igénybe vehető, illetve arra alkalmas kapcsolódó szolgáltatások, fizikai eszközök és egyéb létesítmények vagy elemek, ideértve többek között az épületek vagy az épületek kábelbevezetését, az épületek kábelezését, az antennákat, a tornyokat és egyéb tartószerkezeteket, az alépítményeket, a kábelcsatornákat, a tartóoszlopokat, az ellenőrzőaknákat és a szekrényeket.
+61. Kapcsolódó eszközök: elektronikus hírközlőhálózat üzemeltetéséhez, elektronikus hírközlési szolgáltatás nyújtásához kötődő, ahhoz igénybe vehető, arra alkalmas kapcsolódó szolgáltatások, fizikai eszközök és egyéb létesítmények vagy elemek, ideértve többek között az elektronikus hírközlési építményeket, az épületek vagy az épületek kábelbevezetését, az épületek kábelezését, az antennákat, a tornyokat és egyéb tartószerkezeteket, az alépítményeket, a kábelcsatornákat, a tartóoszlopokat, az ellenőrzőaknákat és a szekrényeket.
 
 61/a. Kapcsolódó szolgáltatások: azok az elektronikus hírközlő hálózathoz, illetve elektronikus hírközlési szolgáltatáshoz kapcsolódó szolgáltatások, amelyek lehetővé teszik, illetve támogatják az adott hálózat vagy szolgáltatás útján történő szolgáltatásnyújtást, vagy erre alkalmasak, beleértve a számfordítást, és az azzal egyenértékű funkcióval rendelkező rendszereket, a feltételes hozzáférésű rendszereket és az elektronikus műsortájékoztatókat, valamint egyéb szolgáltatásokat, mint például az azonosítás szolgáltatást, a helymeghatározási és a jelenlét-ellenőrző szolgáltatást.
 
@@ -186,7 +186,7 @@ c) rádióinterfész: a rádióhullámoknak a rádióberendezések közötti át
 
 66. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök, így többek között az információs rendszerek közös használata. A helymegosztás a közös eszközhasználat különös formája.
 
-67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérését.
+67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése vagy az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződéses jogviszonyban álló harmadik elektronikus hírközlési szolgáltatóval kötött megállapodása alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérést.
 
 68. Közvetítőválasztás: az elektronikus hírközlési szolgáltató előfizetőjének az a lehetősége, hogy a hívott előfizető vagy szolgáltatás eléréséhez megválassza a közvetítő szolgáltatót, amely az előfizetői hozzáférést nyújtó szolgáltatóval összekapcsoláson keresztül nyilvánosan elérhető telefonszolgáltatást nyújt.
 
@@ -241,6 +241,8 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 88. Nyilvános telefonállomás: a nagyközönség rendelkezésére álló távbeszélő végberendezés, amelynek használatára vonatkozóan a fizetőeszköz lehet pénzérme, hitelkártya, illetve előrefizetett kártya, beleértve a hívókódokkal használatos kártyákat.
 
 88/a. Önálló gazdasági egység: olyan önálló szervezeti egység egy elektronikus hírközlési szolgáltató társaság társasági adóról és osztalékadóról szóló törvény és a számvitelről szóló törvény szerinti olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez.
+
+88/b. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlési hálózat vezetékes összeköttetései és ezek burkoló, tartó, védő, jelző műtárgyai képeznek.
 
 89. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják. Az összekapcsolás a hozzáférés sajátos fajtája, amely nyilvános elektronikus hírközlő hálózatok tulajdon- vagy használati jogával rendelkező szolgáltatók között jön létre.
 
