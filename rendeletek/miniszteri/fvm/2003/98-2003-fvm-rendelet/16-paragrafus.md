@@ -1,6 +1,6 @@
 ## Tervek az afrikai sertéspestisnek egy vaddisznóállományban történő felszámolására
 
-16. §[^9] (1) Az FVM – a 15. §-ban meghatározott intézkedések sérelme nélkül – az afrikai sertéspestis vaddisznókban történt első előfordulásának megállapítását követő 90 napon belül írásos tervezetet nyújt be a Bizottságnak, a fertőzöttnek nyilvánított területen a betegség felszámolására és a területen található gazdaságok sertésállományainak megvédésére. A Bizottság a tervet megvizsgálja és megállapítja, hogy annak alapján a kívánt cél elérhető-e, és a tervet jóváhagyja. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
+16. §[^30] (1) Az FVM – a 15. §-ban meghatározott intézkedések sérelme nélkül – az afrikai sertéspestis vaddisznókban történt első előfordulásának megállapítását követő 90 napon belül írásos tervezetet nyújt be a Bizottságnak, a fertőzöttnek nyilvánított területen a betegség felszámolására és a területen található gazdaságok sertésállományainak megvédésére. A Bizottság a tervet megvizsgálja és megállapítja, hogy annak alapján a kívánt cél elérhető-e, és a tervet jóváhagyja. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
 
 (2) Az (1) bekezdés szerinti terv jóváhagyása után az abban foglalt intézkedések felváltják a 15. §-ban meghatározott bevezető intézkedéseket.
 
@@ -54,4 +54,4 @@ m) a betegség monitorozására szolgáló intézkedésekről, amelyek akkor lé
 
 (5) Az adott fertőzött területen lévő járványügyi helyzetről és a betegségfelszámolási terv eredményeiről az FVM hathavonta tájékoztatja a Bizottságot.
 
-[^9]: A 16. § a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^30]: A 16. § a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.

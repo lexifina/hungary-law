@@ -6,7 +6,7 @@
 
 a) a bejelentés időpontja (dátuma);
 
-b)[^14] Magyarország;
+b)[^35] Magyarország;
 
 c) a betegség megnevezését;
 
@@ -66,4 +66,4 @@ gc) a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsg�
 
 Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
 
-[^14]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
+[^35]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.

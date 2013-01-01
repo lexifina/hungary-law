@@ -12,6 +12,6 @@ bb) további monitoring ellenőrző vizsgálatok elvégzéséről és felszámol
 
 c) azon területeken, ahol a vektorok jelenlétét megállapítják, de felszámolásuk bármilyen okból nem lehetséges a gazdaságban hatéves időtartamra a sertés tartásának tiltásáról, valamint más háziállatok tartására vonatkozó tiltás lehetséges bevezetéséről.
 
-(2)[^10] Az (1) bekezdésben foglaltak végrehajtásáról az FVM tájékoztatja a Bizottságot.
+(2)[^31] Az (1) bekezdésben foglaltak végrehajtásáról az FVM tájékoztatja a Bizottságot.
 
-[^10]: A 17. § (2) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^31]: A 17. § (2) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.

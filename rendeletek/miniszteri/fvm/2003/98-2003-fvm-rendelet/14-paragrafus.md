@@ -1,8 +1,8 @@
 ## A vágóhídon vagy szállítóeszközön lévő sertéseken észlelt afrikai sertéspestis esetén hozandó intézkedések
 
-14. § (1) Ha az afrikai sertéspestis gyanúja vágóhídon vagy szállítás közben kerül megállapításra, a kerületi főállatorvos haladéktalanul megkezdi a betegség megállapítása vagy kizárása érdekében a járványügyi vizsgálatot a diagnosztikai kézikönyvben foglalt eljárás alapján.
+14. § (1)[^25] Ha az afrikai sertéspestis gyanúja vágóhídon vagy szállítás közben kerül megállapításra, a járási főállatorvos haladéktalanul megkezdi a betegség megállapítása vagy kizárása érdekében a járványügyi vizsgálatot a diagnosztikai kézikönyvben foglalt eljárás alapján.
 
-(2) Ha az afrikai sertéspestis előfordulását valamely vágóhídon vagy szállítóeszközön észlelik, a kerületi főállatorvos elrendeli:
+(2)[^26] Ha az afrikai sertéspestis előfordulását valamely vágóhídon vagy szállítóeszközön észlelik, a járási főállatorvos elrendeli:
 
 a) a vágóhídon vagy a szállítóeszközön lévő valamennyi sertés azonnali leölését;
 
@@ -21,3 +21,6 @@ g) a fertőzött sertések vagy hulláik származási helyére – a járványü
 h) hogy a 12. § szerint elvégzett takarítási, fertőtlenítési, és ha szükséges, rovarirtási műveletek befejezését követő legalább 24 óráig nem telepíthetnek vissza vágásra vagy elszállításra szánt állatot.
 
 (3) A vágóhíd a 12. § szerint elvégzett takarítási és fertőtlenítési műveletek befejezését követő legalább 24 óráig nem fogadhat levágásra szánt állatot.
+
+[^25]: A 14. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
+[^26]: A 14. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.

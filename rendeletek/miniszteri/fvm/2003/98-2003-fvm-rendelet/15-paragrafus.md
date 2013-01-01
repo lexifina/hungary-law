@@ -14,7 +14,7 @@ ac) kidolgozza a betegség felszámolásának tervét,
 
 ad) ellenőrzéseket végez, hogy igazolja az afrikai sertéspestisnek a fertőzött területen történő megszüntetésére hozott intézkedések hatékonyságát;
 
-b) a kijelölt fertőzött területen a kerületi főállatorvos útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és elrendeli:
+b)[^27] a kijelölt fertőzött területen a járási főállatorvos útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és elrendeli:
 
 ba) valamennyi gazdaságban a sertések korcsoportok szerinti nyilvántartásba vételét,
 
@@ -22,7 +22,7 @@ bb) a gazdaságban lévő összes sertésnek a szállásán vagy más olyan hely
 
 bc) azon intézkedéseket, amely biztosítja, hogy vaddisznók nem férhetnek hozzá olyan anyagokhoz, amelyekkel a gazdaságban lévő sertések később érintkezhetnek,
 
-bd) azon intézkedéseket, hogy a gazdaságba nem léphet be, vagy azt nem hagyhatja el sertés, kivéve, ha a járványügyi helyzetre tekintettel a kerületi főállatorvos engedélyezi,
+bd)[^28] azon intézkedéseket, hogy a gazdaságba nem léphet be, vagy azt nem hagyhatja el sertés, kivéve, ha a járványügyi helyzetre tekintettel a járási főállatorvos engedélyezi,
 
 be) a sertéstartó épületek, illetve a gazdaság ki- és bejáratánál megfelelő fertőtlenítési és ha szükséges rovarirtó eszköz elhelyezését,
 
@@ -38,10 +38,12 @@ c) gondoskodik arról, hogy az összes, a kijelölt fertőzött területen kilő
 
 d) intézkedik, hogy az afrikai sertéspestis vírusának izolátumát a vírus genotípusának meghatározása céljából vessék alá a diagnosztikai kézikönyvben előírt laboratóriumi eljárásnak.
 
-(3)[^8] A (2) bekezdés ac) pontjában előírt, a betegség felszámolására kidolgozott tervet az FVM benyújtja a Bizottságnak.
+(3)[^29] A (2) bekezdés ac) pontjában előírt, a betegség felszámolására kidolgozott tervet az FVM benyújtja a Bizottságnak.
 
 (4) A nyilvántartás adatait a tulajdonosnak naprakészen kell vezetnie, azt a hatósági állatorvos kérésére be kell mutatni, aki az adatokat minden szemle alkalmával ellenőrzi. Azokban a gazdaságokban, ahol szabadon tartják a sertéseket, az első számlálást becslés alapján is el lehet végezni.
 
 (5) Ha az afrikai sertéspestis olyan területen lépett fel vaddisznókban, amely egy másik ország területéhez közel esik, az érintett országok illetékes hatóságaival együtt kell működni a betegség felszámolására irányuló intézkedések meghozatalában.
 
-[^8]: A 15. § (3) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^27]: A 15. § (2) bekezdés b) pontja nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
+[^28]: A 15. § (2) bekezdés b) pont bd) alpontja a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
+[^29]: A 15. § (3) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.

@@ -1,10 +1,10 @@
-10. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+10. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^40]
 
 ## HATÁROZAT
 
-| .................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás | Ikt.sz.: |
+| .................................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala | Ikt.sz.: |
 
-| Kerületi Főállatorvosa | Tárgy: védőkörzet elrendelése |
+|  | Tárgy: védőkörzet elrendelése |
 
 | ................................................................................... | Előadó: |
 
@@ -44,7 +44,7 @@ A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
 INDOKOLÁS
 
-A település (településrész) területén a kerületi főállatorvos afrikai sertéspestis fertőzöttséget állapított meg. A betegség továbbterjedésének megakadályozása érdekében az állategészségügyről szóló 1995. évi XCI. törvény 6. § (4) bekezdésének g) pontja, valamint a 98/2003. (VIII. 22.) FVM rendelet ..... §-a alapján a rendelkező részben foglaltak szerint határoztam.
+A település (településrész) területén a járási főállatorvos afrikai sertéspestis fertőzöttséget állapított meg. A betegség továbbterjedésének megakadályozása érdekében az állategészségügyről szóló 1995. évi XCI. törvény 6. § (4) bekezdésének g) pontja, valamint a 98/2003. (VIII. 22.) FVM rendelet ..... §-a alapján a rendelkező részben foglaltak szerint határoztam.
 
 A jogorvoslati lehetőséget az 1957. évi IV. törvény 62. §-a alapján biztosítottam.
 
@@ -60,7 +60,7 @@ A határozatot kapják:
 
 1. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
 
-2. Valamennyi kerületi főállatorvos
+2. Valamennyi járási főállatorvos
 
 3. Védőkörzetben dolgozó valamennyi állatorvos
 
@@ -73,3 +73,5 @@ A határozatot kapják:
 7. Szomszédos megyék állategészségügyi és élelmiszer-ellenőrző állomásai
 
 8. Irattár
+
+[^40]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.

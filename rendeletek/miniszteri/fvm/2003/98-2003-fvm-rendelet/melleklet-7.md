@@ -24,13 +24,13 @@
 
 ## hc) kommunikációs technikai gyakorlaton annak érdekében, hogy képes legyen megszervezni – egy feltételezett kitörés esetén – az információs láncot a hatóságok és állatorvosok felé.
 
-7. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+7. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^37]
 
 ## HATÁROZAT
 
-| .................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás | Ikt.sz.: |
+| .................................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala | Ikt.sz.: |
 
-| Kerületi Főállatorvosa | Tárgy: hatósági megfigyelés elrendelése |
+|  | Tárgy: hatósági megfigyelés elrendelése |
 
 | ................................................................................... | Előadó: |
 
@@ -88,7 +88,7 @@ Dátum: ...............................................................
 
 |  | ................................................................. |
 
-|  | kerületi főállatorvos |
+|  | járási főállatorvos |
 
 A határozatot kapják:
 
@@ -103,3 +103,5 @@ A határozatot kapják:
 5. Településen dolgozó magánállatorvos(ok)
 
 6. Irattár
+
+[^37]: A 7. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.

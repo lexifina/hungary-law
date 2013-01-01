@@ -1,6 +1,6 @@
 ## Afrikai sertéspestis megállapítása esetén hozandó intézkedések
 
-5. § (1) Ha az afrikai sertéspestis fertőzöttség gyanúját a laboratóriumi vizsgálatok megerősítik, a kerületi főállatorvos a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
+5. § (1)[^8] Ha az afrikai sertéspestis fertőzöttség gyanúját a laboratóriumi vizsgálatok megerősítik, a járási főállatorvos a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
 
 a) valamennyi, a gazdaságban található sertést késedelem nélkül, hatósági állatorvos felügyelete mellett le kell ölni oly módon, hogy az afrikai sertéspestis vírusának a leölés során történő terjedési kockázata kizárható legyen;
 
@@ -30,6 +30,7 @@ m) a betegség megállapításáról a települési (fővárosban a fővárosi k
 
 (2) Amennyiben a betegség kitörését laboratóriumban, állatkertben, vadasparkban vagy olyan bekerített területen állapítják meg, ahol tudományos, illetve ritka fajták védelmére szolgáló céllal tartanak sertéseket, az FVM az (1) bekezdés a) és g) pontjában foglaltaktól eltérően rendelkezhet, a járványvédelem alapvető érdekeinek figyelembevételével.
 
-(3)[^3] A (2) bekezdés szerinti döntésről az FVM haladéktalanul tájékoztatja a Bizottságot.
+(3)[^9] A (2) bekezdés szerinti döntésről az FVM haladéktalanul tájékoztatja a Bizottságot.
 
-[^3]: Az 5. § (3) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^8]: Az 5. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (3) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.

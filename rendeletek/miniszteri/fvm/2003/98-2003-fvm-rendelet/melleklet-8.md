@@ -1,10 +1,10 @@
-8. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+8. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^38]
 
 ## HATÁROZAT
 
-| .................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás | Ikt.sz.: |
+| .................................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala | Ikt.sz.: |
 
-| Kerületi Főállatorvosa | Tárgy: helyi zárlat elrendelése |
+|  | Tárgy: helyi zárlat elrendelése |
 
 | ................................................................................... | Előadó: |
 
@@ -70,7 +70,7 @@ Dátum: ...............................................................
 
 |  | ................................................................ |
 
-|  | kerületi főállatorvos |
+|  | járási főállatorvos |
 
 A határozatot kapják:
 
@@ -87,3 +87,5 @@ A határozatot kapják:
 6. Magánállatorvos(ok)
 
 7. Irattár
+
+[^38]: A 8. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.

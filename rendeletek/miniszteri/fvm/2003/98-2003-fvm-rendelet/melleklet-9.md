@@ -1,10 +1,10 @@
-9. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+9. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^39]
 
 ## HATÁROZAT
 
-| .................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás | Ikt.sz.: |
+| .................................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala | Ikt.sz.: |
 
-| Kerületi Főállatorvosa | Tárgy: községi zárlat elrendelése |
+|  | Tárgy: községi zárlat elrendelése |
 
 | ................................................................................... | Előadó: |
 
@@ -70,7 +70,7 @@ Dátum: ...............................................................
 
 |  | ..................................................................... |
 
-|  | kerületi főállatorvos |
+|  | járási főállatorvos |
 
 A határozatot kapják:
 
@@ -84,7 +84,7 @@ A határozatot kapják:
 
 5. Szomszédos települési önkormányzatok jegyzője
 
-6. Valamennyi kerületi főállatorvos
+6. Valamennyi járási főállatorvos
 
 7. Sertéstenyésztő szervezetek
 
@@ -93,3 +93,5 @@ A határozatot kapják:
 9. Vágóhidak
 
 10. Irattár
+
+[^39]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.

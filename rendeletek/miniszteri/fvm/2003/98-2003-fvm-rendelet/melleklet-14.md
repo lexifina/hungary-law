@@ -1,10 +1,10 @@
-14. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+14. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^43]
 
 ## HATÁROZAT
 
-| .................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás | Ikt.sz.: |
+| .................................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala | Ikt.sz.: |
 
-| Kerületi Főállatorvosa | Tárgy: hatósági megfigyelés feloldása |
+|  | Tárgy: hatósági megfigyelés feloldása |
 
 | ................................................................................... | Előadó: |
 
@@ -30,7 +30,7 @@ Dátum: ...............................................................
 
 |  | ................................................................. |
 
-|  | kerületi főállatorvos |
+|  | járási főállatorvos |
 
 A határozatot kapják:
 
@@ -45,3 +45,5 @@ A határozatot kapják:
 5. Településen dolgozó magánállatorvos(ok)
 
 6. Irattár
+
+[^43]: A 14. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.

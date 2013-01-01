@@ -1,10 +1,10 @@
-11. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
+11. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^41]
 
 ## HATÁROZAT
 
-| .................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás | Ikt.sz.: |
+| .................................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala | Ikt.sz.: |
 
-| Kerületi Főállatorvosa | Tárgy: leölési határozat |
+|  | Tárgy: leölési határozat |
 
 | ................................................................................... | Előadó: |
 
@@ -54,7 +54,7 @@ Dátum: ...............................................................
 
 |  | ................................................................. |
 
-|  | kerületi főállatorvos |
+|  | járási főállatorvos |
 
 A határozatot kapják:
 
@@ -69,3 +69,5 @@ A határozatot kapják:
 5. ATEV Rt. ...................... Gyára szerint illetékes Állomás
 
 6. Irattár
+
+[^41]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.

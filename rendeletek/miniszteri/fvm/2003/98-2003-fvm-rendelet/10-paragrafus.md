@@ -1,6 +1,6 @@
 ## Intézkedések a községi zárlat területén
 
-10. § (1) A kerületi főállatorvosnak a községi zárlat területén a következő intézkedések végrehajtásáról kell gondoskodni:
+10. § (1)[^16] A járási főállatorvosnak a községi zárlat területén a következő intézkedések végrehajtásáról kell gondoskodni:
 
 a) a sertéstartók bejelentése alapján – haladéktalanul – minden gazdaságot és azok sertésállományát nyilvántartásba kell vennie, továbbá ezeket a gazdaságokat a községi zárlat létrehozását követő hét napon belül a hatósági állatorvosnak fel kell keresnie a sertések klinikai vizsgálata, valamint az azonosító jelölésének ellenőrzése céljából;
 
@@ -34,7 +34,7 @@ b) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertés
 
 c) a községi zárlaton belül más tartási helyre.
 
-(3)[^6] A (2) bekezdésben meghatározott döntésről az FVM tájékoztatja a Bizottságot.
+(3)[^17] A (2) bekezdésben meghatározott döntésről az FVM tájékoztatja a Bizottságot.
 
 (4) A kerületi főállatorvos engedélyezheti a nem fertőzött sertések elszállítását az érintett gazdaságból levágás vagy leölés céljából a következő feltételekkel:
 
@@ -80,4 +80,5 @@ A vizsgálatokat addig nem szabad elvégezni, amíg a fertőzött gazdaságban a
 
 (9) Az (1) bekezdés g) pontjában, valamint a (2) és (8) bekezdésben előírt 40 és 45 napos időszakok 30 napra csökkenthetők, ha intenzív mintavételi és vizsgálati programot alkalmazva lehetővé válik az afrikai sertéspestis kizárása a kérdéses telepen.
 
-[^6]: A 10. § (3) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^16]: A 10. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
+[^17]: A 10. § (3) bekezdése a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba. [A 10. § (3) bekezdésének a 151/2012. (XII. 29.) VM rendelet 20. § b) pontjával elrendelt módosítása, amely szerint a „kerületi„ szövegrész helyébe a „járási” szöveg lép, nem vezethető át.]
