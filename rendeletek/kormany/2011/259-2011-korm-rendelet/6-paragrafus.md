@@ -1,9 +1,13 @@
 6. § (1) A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a központi szervet jelöli ki
 
-a) a Ttv. 12. § (1) bekezdés a)–d) pontjában meghatározott tevékenységek, valamint a Ttv. 46/A. §-a szerinti tűzvédelmi szakértői tevékenység tekintetében,
+a)[^22] a Ttv. 46/A. §-a szerinti tűzvédelmi szakértői tevékenység tekintetében,
 
-b) a pirotechnikai termékekhez, tűzoltó készülékekhez, beépített tűzjelző- és oltó berendezésekhez, beépített hő- és füstelvezető rendszerekhez kötődő tűzvédelmi szakvizsgáztatással összefüggő oktatásszervezői és tűzvédelmi szakvizsgáztatási tevékenységgel kapcsolatban,
+b)[^23]
 
 c) a területi szerv tekintetében a tűzvédelmi szakvizsgával összefüggő oktatásszervezői tevékenységgel kapcsolatban.
 
-(2) A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a területi szervet jelöli ki – az (1) bekezdésben foglaltak kivételével – a tűzvédelmi szakvizsgáztatással összefüggő oktatásszervezői és tűzvédelmi szakvizsgáztatási tevékenységek tekintetében.
+(2)[^24] A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a területi szervet jelöli ki – az (1) bekezdés c) pontjában meghatározott kivétellel – a Ttv. 12. § (1) bekezdés a)–f) pontjában meghatározott tevékenységek tekintetében.
+
+[^22]: A 6. § (1) bekezdés a) pontja a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^23]: A 6. § (1) bekezdés b) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^24]: A 6. § (2) bekezdése a 368/2012. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg.

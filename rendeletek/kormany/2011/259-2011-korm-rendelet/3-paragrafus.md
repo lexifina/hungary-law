@@ -6,9 +6,9 @@
 
 a) a kormányrendeletben meghatározott, nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban,
 
-b) a polgári repülőtereket érintő közigazgatási hatósági eljárásokban,
+b)[^18] a polgári repülőtereket, a metró és földalatti vasúti létesítményeket, valamint az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményeit érintő közigazgatási hatósági eljárásokban,
 
-c)[^8] az alábbi építmények építésügyi hatósági eljárásaiban az első végleges használatbavételig:
+c)[^19] az alábbi építmények építésügyi hatósági eljárásaiban az első végleges használatbavételig:
 
 ca) magas építmények,
 
@@ -22,10 +22,10 @@ ce) az 50 MW és annál nagyobb teljesítményű erőművek,
 
 cf) a fekvőbeteg ellátásra, továbbá mozgásukban korlátozattak elhelyezésére szolgáló középmagas építmények, amennyiben az elhelyezés 13,65 méter felett történik,
 
-cg) a metró és földalatti vasúti létesítmények,
-
-ch) az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményei.
+cg)–ch)[^20]
 
 (3) A Kormány első fokú tűzvédelmi szakhatóságként a polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában a központi szervet jelöli ki.
 
-[^8]: A 3. § (2) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 17. § (5) bekezdésével megállapított szöveg.
+[^18]: A 3. § (2) bekezdés b) pontja a 368/2012. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 3. § (2) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 17. § (5) bekezdésével megállapított szöveg.
+[^20]: A 3. § (2) bekezdés c) pont cg)–ch) alpontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés d) pontja hatályon kívül helyezte.

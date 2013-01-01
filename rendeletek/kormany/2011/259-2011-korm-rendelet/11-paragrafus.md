@@ -1,7 +1,12 @@
-## 10. § Élet- és balesetbiztosítást kell kötni az önkormányzati és a létesítményi tűzoltóságok készenléti jellegű szolgálatot, illetve a tűzoltás irányítását ellátó tagjaira, a tűzoltó szakiskolában az önkormányzati és a létesítményi tűzoltóságok képzésen részt vevő hallgatóira, a szaktevékenységet vállaló önkéntes tűzoltó egyesületek tűzoltásban, műszaki mentésben részt vevő tagjaira.
+## 10. §[^31] Csoportos élet- és balesetbiztosítás köthető a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és alárendelt szervei hivatásos állományú tagjaira.
 
-## 11. § E fejezet alkalmazásában tűzoltás irányítását ellátónak kell tekinteni
+## 11. §[^32] Csoportos élet- és balesetbiztosítást kell kötni
 
-a) az önkormányzati tűzoltóság tagjai közül: a tűzoltóparancsnokot, a parancsnokhelyettest, egységparancsnokot;
+a) az önkormányzati tűzoltóságok, az önkéntes tűzoltó egyesületek, valamint
 
-b) a létesítményi tűzoltóság tagjai közül: a tűzoltóparancsnokot és helyettesét.
+b) a létesítményi tűzoltóságok
+
+tűzoltásban, műszaki mentésben részt vevő tagjaira.
+
+[^31]: A 10. § a 368/2012. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^32]: A 11. § a 368/2012. (XII. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

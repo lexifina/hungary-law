@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-259-20-
 | 2012-01-01 | 2011-259-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-01-02 | 2011-259-20-22.4 | 2010: CXXX. törvény |
 | 2012-04-15 | 2011-259-20-22.5 | 74/2012. (IV. 13.) Korm. rendelet |
+| 2013-01-01 | 2011-259-20-22.6 | 368/2012. (XII. 17.) Korm. rendelet |

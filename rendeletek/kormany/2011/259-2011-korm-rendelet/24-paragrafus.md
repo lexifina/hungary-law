@@ -1,5 +1,5 @@
 ## 9. Hatályát vesztő rendelkezések
 
-24. §[^18]
+24. §[^42]
 
-[^18]: A 24–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 24–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
