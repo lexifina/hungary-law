@@ -2,7 +2,7 @@
 
 12. § (1) A határozat bírói felülvizsgálatára a közigazgatási nemperes eljárásokra vonatkozó általános szabályokat az alábbi eltérésekkel kell alkalmazni.
 
-(2) A határozat bírósági felülvizsgálatát a határozat kézbesítésétől számított három napon belül lehet kérni. A kérelem elbírálására a bántalmazott életvitelszerű tartózkodási helye szerinti helyi bíróság jogosult.
+(2) A határozat bírósági felülvizsgálatát a határozat kézbesítésétől számított három napon belül lehet kérni. A kérelem elbírálására a bántalmazott életvitelszerű tartózkodási helye szerinti járásbíróság jogosult.
 
 (3) A kérelem benyújtásának a távoltartó határozat végrehajtására nincs halasztó hatálya, azonban a bíróság a határozat végrehajtását felfüggesztheti.
 

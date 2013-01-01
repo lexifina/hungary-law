@@ -4,7 +4,7 @@
 
 (2) A megelőző távoltartás elrendelésére irányuló nemperes eljárásra a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni kell.
 
-(3) Az eljárásra a bántalmazott életvitelszerű tartózkodási helye szerinti helyi bíróság illetékes.
+(3) Az eljárásra a bántalmazott életvitelszerű tartózkodási helye szerinti járásbíróság illetékes.
 
 (4) A Pp. kizárásra irányuló szabályait azzal kell alkalmazni, hogy nem járhat el bíróként és ügyészként az ideiglenes megelőző távoltartás során eljáró rendőr, valamint annak Pp. szerinti hozzátartozója sem.
 
