@@ -16,7 +16,7 @@ d) a Fővárosi Önkormányzat és a megyei jogú város esetében a 100 millió
 
 (3) Az önkormányzat 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladja meg az önkormányzat adott évi saját bevételeinek 50%-át.
 
-(4)
+(4) Az önkormányzat működési célra csak likvid hitelt vehet fel.
 
 (5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
 

@@ -1,1 +1,1 @@
-### 50. §
+50. § Az önkormányzat 2013. január 1. és március 31. között – a 10. § (2) bekezdés a), b) és c) pontja szerinti ügyletek, valamint a 10. § (10) bekezdése szerinti adósságmegújító hitel kivételével – nem köthet adósságot keletkeztető ügyletet.

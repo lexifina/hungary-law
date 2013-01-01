@@ -10,6 +10,6 @@
 
 (5) A 2012. évben a 9. § (2) bekezdés a) pontját és a 10. § (8) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a hozzájárulás feltétele, hogy az adósságot keletkeztető ügylet a (4) bekezdésben foglalt feltétel teljesítését ne veszélyeztesse.
 
-(6) A 4. § (2) bekezdésének hatálybalépéséig a központi költségvetésről szóló törvényjavaslatban a költségvetési egyenleget a bruttó hazai termék arányában csak úgy lehet meghatározni, hogy az 2013-2015 években nem lehet kisebb, mint a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló 1997. július 7-i 1466/97/EK tanácsi rendelet 7. cikke alapján a Kormány által 2011 áprilisában közzétett konvergencia programban meghatározott költségvetési egyenleg.
+(6) A 4. § (2) bekezdésének hatálybalépéséig a központi költségvetésről szóló törvényt úgy kell megalkotni, hogy annak alapján az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-i 479/2009/EK tanácsi rendelet szerint számított hiány-mutató értéke nem lehet nagyobb, mint a bruttó hazai termék 3%-a.
 
 (7) E törvény rendelkezéseit a 2012. január 1-jét követően kihirdetett jogszabályok esetében kell alkalmazni.
