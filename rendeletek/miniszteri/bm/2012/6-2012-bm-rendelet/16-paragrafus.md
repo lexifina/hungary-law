@@ -1,1 +1,3 @@
-## 15. § Hatályát veszti az önkormányzatok és jogi személyiségű társulásaik európai uniós fejlesztési pályázatai saját forrás kiegészítése 2011. évi támogatásának rendjéről szóló 15/2011. (IV. 22.) BM rendelet (a továbbiakban: R.).
+## 15. §[^8]
+
+[^8]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
