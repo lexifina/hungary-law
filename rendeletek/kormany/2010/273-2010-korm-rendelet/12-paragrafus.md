@@ -6,7 +6,7 @@ a) lefolytatja a közösségi jogi aktusban felhatalmazott szervezet megkeresés
 
 b) a dömpingellenes vám visszatérítésére vonatkozó kérelmeket fogadja és az Európai Bizottsághoz továbbítja,
 
-c) jogosult az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 19/2001. (V. 21.) KöViM–PM együttes rendelet 3. § (2) bekezdés b) pontjában említett biztosítási szerződés elfogadására,
+c)[^28] jogosult az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 19/2001. (V. 25.) KöViM–PM együttes rendelet (a továbbiakban: TIR rendelet) 3. § (2) bekezdés b) pontjában említett biztosítási szerződés elfogadására,
 
 d) ellátja az Európai Mezőgazdasági Garanciaalap (EMGA) finanszírozási rendszerébe tartozó ügyletek tagállamok által végzett vizsgálatáról szóló 485/2008/EK rendelet 11. cikkében meghatározott feladatokat (Különleges Szolgálat),
 
@@ -14,9 +14,13 @@ e) végzi az Európai Bizottsággal, valamint a tagállamok, illetve harmadik or
 
 f) végzi – amennyiben jogszabály ettől eltérően nem rendelkezik – a vámigazgatási ügyekben az Európai Bizottsággal, valamint a tagállamok, illetve harmadik országok vámhatóságaival történő kapcsolattartást,
 
-g)[^10] ellátja, koordinálja és felügyeli a NAV-ot érintő piacfelügyeleti ellenőrzéssel kapcsolatos jogszabályban foglalt feladatokat, valamint együttműködik a piacfelügyeleti hatóságokkal.
+g)[^29] ellátja, koordinálja és felügyeli a NAV-ot érintő piacfelügyeleti ellenőrzéssel kapcsolatos jogszabályban foglalt feladatokat, valamint együttműködik a piacfelügyeleti hatóságokkal.
 
-h)[^11] végzi a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény szerinti, a Magyar Szénhidrogén Készletező Szövetség tagjai által benyújtott nyilatkozatok záradékolását.
+h)[^30] végzi a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény szerinti, a Magyar Szénhidrogén Készletező Szövetség tagjai által benyújtott nyilatkozatok záradékolását,
 
-[^10]: A 12. § g) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
-[^11]: A 12. § h) pontját a 269/2011. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+i)[^31] ellátja a Hivatalos Zár Bizottság irányításával és működtetésével kapcsolatos feladatokat.
+
+[^28]: A 12. § c) pontja a 366/2012. (XII. 17.) Korm. rendelet 30. § (6) bekezdése szerint módosított szöveg.
+[^29]: A 12. § g) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
+[^30]: A 12. § h) pontját a 269/2011. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^31]: A 12. § i) pontját a 366/2012. (XII. 17.) Korm. rendelet 9. §-a iktatta be.

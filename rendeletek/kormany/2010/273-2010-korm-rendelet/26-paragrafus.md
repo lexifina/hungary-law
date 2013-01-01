@@ -1,5 +1,6 @@
-26. § (1) A büntetőeljárás, illetve szabálysértési eljárás megállapítása szerint jogellenesen forgalomba került áruk után a vám és nem közösségi adók, díjak és egyéb költségek kiszabását és beszedését a határozatot vagy az ítéletet hozó bíróság vagy hatóság székhelye szerinti főigazgatóság székhelyén működő vám- és pénzügyőri igazgatóság, Budapesten és Pest megyében az Észak-budapesti Vám- és Pénzügyőri Igazgatóság, illetve azon, jogszabályban meghatározott kiemelt adózók tekintetében, akiknek székhelye a Közép- magyarországi Regionális Vám- és Pénzügyőri Főigazgatóság illetékességi területén található, a KAVIG végzi.
+26. § (1)[^57]
 
-(2)[^23] A preferenciális származó helyzet igazolására feljogosító elfogadott exportőri, az engedélyes mérlegelői tevékenység, valamint a könyvelés szerinti elkülönítés engedélyezését azon, jogszabályban meghatározott kiemelt adózók tekintetében, akiknek székhelye a Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatóság illetékességi területén található, a KAVIG végzi.
+(2)[^58] A preferenciális származó helyzet igazolására feljogosító elfogadott exportőri, az engedélyes mérlegelői tevékenység, valamint a könyvelés szerinti elkülönítés engedélyezését azon, jogszabályban meghatározott kiemelt adózók tekintetében, akiknek székhelye Budapest, illetve Pest megye közigazgatási területén található, a KAVIG végzi.
 
-[^23]: A 26. § (2) bekezdése a 269/2011. (XII. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^57]: A 26. § (1) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.
+[^58]: A 26. § (2) bekezdése a 269/2011. (XII. 20.) Korm. rendelet 8. §-ával megállapított, a 366/2012. (XII. 17.) Korm. rendelet 30. § (11) bekezdése szerint módosított szöveg.

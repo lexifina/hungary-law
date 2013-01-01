@@ -2,7 +2,7 @@
 
 a) az elektromos vezetéken szállított energia tekintetében valamennyi vámeljárás lefolytatása,
 
-b) a biztonsági papírra vonatkozó jogszabályban előírt engedély meglétének ellenőrzése és a szabad forgalomba helyezése,
+b)[^59] a biztonsági papírok szabad forgalomba bocsátása és az ahhoz kapcsolódó szállítási engedélyek ellenőrzése,
 
 c) a Vtv. 54. § (1) bekezdésében meghatározott halasztott vámfizetés engedélyezése,
 
@@ -14,30 +14,36 @@ f) a kezességvállalás engedélyezése,
 
 g) a vámszabadterület és vámszabadraktár engedélyezésével, valamint a vámszabadterületen történő építkezésre vonatkozó előzetes jóváhagyás megadásával összefüggő feladatok ellátása,
 
-h) a vámmentes vámkezelésre jogosító általános engedély kiadása,
+h)[^60] a vámmentes vámkezelésre jogosultak köréről szóló NGM rendelet szerinti engedélyek kiadása,
 
 i) az Áfa törvényben meghatározott, a termékimporthoz kapcsolódó adófizetési kötelezettség önadózás útján történő teljesítésének engedélyezése,
 
 j) az áruk ideiglenes behozataláról, Isztambulban, 1990. június 26-án kelt Egyezmény és mellékletei kihirdetéséről szóló 2005. évi CLXVIII. törvény szerinti ATA igazolványokkal kapcsolatos jogsértésekkel vagy szabálytalanságokkal kapcsolatos eljárások lefolytatása, továbbá a tagállamokkal történő koordinációs feladatok ellátása,
 
-k)[^24] csomagküldő kereskedő nyilvántartásba vétele, és a csomagküldő kereskedő adóügyi képviselőjének nyilvántartásba vétele, valamint a csomagküldő kereskedőnek a Jöt. 32. § (2) bekezdésében foglaltak alapján a más tagállamba szállított jövedéki termék után megfizetett adó visszaigénylésével kapcsolatos vámhatósági feladatok ellátása,
+k)[^61] a csomagküldő kereskedő adóügyi képviselőjének nyilvántartásba vétele,
 
-l) a nem természetes személy részére behozott fémjelzésköteles nemesfémtárgyak, valamint a drágakövek szabad forgalomba bocsátás vámeljárás – ideértve az átmeneti megőrzés engedélyezését is – és kiviteli eljárás lefolytatása,
+l)[^62] a nem természetes személy részére behozott nemesfémtárgyak – a kizárólag tudományos, egészségügyi, oktatási vagy ipari célt szolgáló nemesfémtárgyak kivételével –, valamint a drágakövek szabad forgalomba bocsátás vámeljárás – ideértve az átmeneti megőrzés engedélyezését is – és kiviteli eljárás lefolytatása,
 
-m) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 19/2001. (V. 21.) KöViM–PM együttes rendelet 3. § (4) bekezdése szerinti feladatok ellátása,
+m)[^63] a TIR rendelet 3. § (4) bekezdése szerinti feladatok ellátása,
 
-n)[^25] a légiforgalom kivételével a Magyarország területén működő harmadik országok diplomáciai és konzuli képviseletei, a nemzetközi szervezetek, továbbá ezek személyzetének tagjai és családtagjai használatára érkező, illetve általuk külföldi rendeltetéssel feladott áruk vámeljárás alá vonása, amennyiben egyértelműen megállapítható, hogy a címzett, illetve a feladó az említett személyi körbe tartozik,
+n)[^64] a légiforgalom kivételével a Magyarország területén működő diplomáciai és konzuli képviseletek, a nemzetközi szervezetek, továbbá ezek személyzetének tagjai és családtagjai használatára érkező, illetve általuk külföldi rendeltetéssel feladott áruk vámeljárás alá vonása, amennyiben egyértelműen megállapítható, hogy a címzett, illetve a feladó az említett személyi körbe tartozik,
 
-o) az adójegyekkel, zárjegyekkel kapcsolatos első fokú feladatok ellátása az adójegy és a zárjegy felhasználásának helyszíni ellenőrzése és elszámolása kivételével,
+o)[^65] az adójegyekkel, zárjegyekkel kapcsolatos első fokú feladatok ellátása az adójegy és a zárjegy felhasználásának helyszíni ellenőrzése és elszámolása, valamint az azt követő hatósági eljárás kivételével kivételével,
 
-p) a Vtv. szerinti központosított utólagos ellenőrzés, valamint az Art. szerinti központosított ellenőrzés lefolytatása,
+p)[^66] a Vtv. 1. § (3) bekezdés 3. pontjában meghatározott – megbízható vámadós jogálláshoz kapcsolódó – feltételek fennállásának megállapítása és ellenőrzése, ha a kérelmező székhelye, telephelye, számviteli nyilvántartásának helye, lakóhelye, tartózkodási helye nem Magyarországon van,
 
-q)[^26] az egyes szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló 371/2004. (XII. 26.) Korm. rendelet 2–3. §-ában meghatározott feladatok ellátása,
+q)[^67]
 
 r) az államháztartási bevételi számlára előírás nélküli téves befizetés magyarországi székhellyel nem rendelkezők részére kérelemre történő visszautalással kapcsolatos feladatok ellátása,
 
 s) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 5. § (1) bekezdés c) pontjában foglalt forgalmi érték meghatározása.
 
-[^24]: A 27. § k) pontja a 269/2011. (XII. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^25]: A 27. § n) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg.
-[^26]: A 27. § q) pontja a 269/2011. (XII. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^59]: A 27. § b) pontja a 366/2012. (XII. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^60]: A 27. § h) pontja a 366/2012. (XII. 17.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^61]: A 27. § k) pontja a 366/2012. (XII. 17.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^62]: A 27. § l) pontja a 366/2012. (XII. 17.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^63]: A 27. § m) pontja a 366/2012. (XII. 17.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^64]: A 27. § n) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 5. pontja, a 366/2012. (XII. 17.) Korm. rendelet 30. § (12) bekezdése szerint módosított szöveg.
+[^65]: A 27. § o) pontja a 366/2012. (XII. 17.) Korm. rendelet 30. § (12) bekezdése szerint módosított szöveg.
+[^66]: A 27. § p) pontja a 366/2012. (XII. 17.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^67]: A 27. § q) pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 11. pontja hatályon kívül helyezte.

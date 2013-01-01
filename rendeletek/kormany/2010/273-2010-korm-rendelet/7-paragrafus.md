@@ -1,9 +1,11 @@
-7. § (1) A regionális vám- és pénzügyőri főigazgatóság – a (2) bekezdés szerinti eltéréssel – felettes szerve az illetékességi területén működő megyei vám- és pénzügyőri igazgatóságoknak.
+7. § (1)[^16] A regionális vám- és pénzügyőri főigazgatóság felettes szerve az illetékességi területén működő megyei (fővárosi) vám- és pénzügyőri igazgatóságoknak.
 
-(2) A Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatóság felettes szerve a Dél-budapesti Vám- és Pénzügyőri Igazgatóságnak, az Észak-budapesti Vám- és Pénzügyőri Igazgatóságnak, a Kelet-budapesti Vám- és Pénzügyőri Igazgatóságnak, a Pest megyei Vám- és Pénzügyőri Igazgatóságnak és a KAVIG-nak.
+(2)[^17]
 
 (3) A Repülőtéri Főigazgatóság felettes szerve az 1. számú Repülőtéri Igazgatóságnak, valamint a 2. számú Repülőtéri Igazgatóságnak.
 
-(4)[^6] A Bevetési Főigazgatóság felettes szerve az Őrzésvédelmi és Támogató Igazgatóságnak.
+(4)[^18] A Bevetési Főigazgatóság felettes szerve az Őrzésvédelmi és Támogató Igazgatóságnak.
 
-[^6]: A 7. § (4) bekezdése a 269/2011. (XII. 20.) Korm. rendelet 19. § 6. pontja szerint módosított szöveg.
+[^16]: A 7. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (3) bekezdése és a 31. § 3. pontja szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 4. pontja hatályon kívül helyezte.
+[^18]: A 7. § (4) bekezdése a 269/2011. (XII. 20.) Korm. rendelet 19. § 6. pontja szerint módosított szöveg.

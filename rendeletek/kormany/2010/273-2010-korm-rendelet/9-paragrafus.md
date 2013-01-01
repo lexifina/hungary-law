@@ -1,4 +1,4 @@
-## 8. §[^7] A Bűnügyi Főigazgatóság felettes szerve a regionális bűnügyi igazgatóságoknak, valamint az Áru- és Bűnjelkezelő Hivatalnak.
+## 8/A. §[^21] Törvény vagy kormányrendelet eltérő rendelkezése hiányában a felettes szerv jogosult a jogorvoslati kérelmek elbírálására.
 
 ## II. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## Az adóztatási szervek általános hatásköri szabályai
 
-9. § (1) A középfokú adóztatási szervek lefolytatják a NAV elnöke által elrendelt felülellenőrzéseket. A Központi Hivatal folytatja le
+9. § (1)[^22] A középfokú adóztatási szerv, illetve a KAVFIG az állami adóhatóság hatáskörébe tartozó ügyekben folytatja le a NAV elnöke által elrendelt felülellenőrzéseket. A Központi Hivatal folytatja le
 
 a) az adópolitikáért felelős miniszter és az Állami Számvevőszék elnöke által elrendelt felülellenőrzéseket,
 
@@ -16,4 +16,5 @@ c) azokat a felülellenőrzéseket, amelyeknél a felülellenőrzés lefolytatá
 
 (2) A Központi Hivatal által lefolytatott felülellenőrzés eredményeként hozott határozat elleni fellebbezési eljárás során nem járhat el az, aki a felülellenőrzés lefolytatásában, illetve a határozat meghozatalában részt vett.
 
-[^7]: A 8. § a 269/2011. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: A 8/A. §-t a 366/2012. (XII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^22]: A 9. § (1) bekezdés nyitó szövegrésze a 366/2012. (XII. 17.) Korm. rendelet 6. §-ával megállapított szöveg.

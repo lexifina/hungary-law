@@ -1,3 +1,5 @@
 6. § (1) A regionális adó főigazgatóság felettes szerve az illetékességi területén működő megyei (fővárosi) adóigazgatóságoknak.
 
-(2) A KAFIG felettes szerve a KÜIG-nek, valamint a KAIG-nak.
+(2)[^15]
+
+[^15]: A 6. § (2) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 2. pontja hatályon kívül helyezte.

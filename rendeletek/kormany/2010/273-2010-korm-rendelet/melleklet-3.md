@@ -1,6 +1,6 @@
 ## A) A Nemzeti Adó- és Vámhivatal középfokú adóztatási szervei, székhelyük és illetékességi területük
 
-## 1.[^74] A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Adó Főigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
+## 1.[^177]
 
 ## 2. A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Adó Főigazgatósága, székhelye Budapest, illetékességi területe Budapest és Pest megye közigazgatási területe.
 
@@ -18,9 +18,9 @@
 
 ## B) A Nemzeti Adó- és Vámhivatal alsó fokú adóztatási szervei, székhelyük és illetékességi területük
 
-## 1.[^75] A Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
+## 1.[^178] A Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága, székhelye Budapest, illetékességi területe az országos hatáskörrel végzett feladatai tekintetében Magyarország területe, a hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe.
 
-## 2.[^76] A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek Adóigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
+## 2.[^179]
 
 ## A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Adó Főigazgatósága területén:
 
@@ -82,6 +82,6 @@
 
 3. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez
 
-[^74]: A 2. számú melléklet A) rész 1. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.
-[^75]: A 2. számú melléklet B) rész 1. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.
-[^76]: A 2. számú melléklet B) rész 2. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.
+[^177]: A 2. számú melléklet A) rész 1. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 25. pontja hatályon kívül helyezte.
+[^178]: A 2. számú melléklet B) rész 1. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^179]: A 2. számú melléklet B) rész 2. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 25. pontja hatályon kívül helyezte.
