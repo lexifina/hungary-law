@@ -10,7 +10,7 @@ b) a nem állami fenntartású – ide nem értve az egyházi fenntartót – h�
 
 (3) Az adott évre még rendelkezésre álló kapacitást a Hivatal minden hónap 5. napjáig közzéteszi a honlapján. A befogadásra a szakhatósági eljárások megindulásának sorrendjében a kapacitás erejéig van lehetőség. A működést engedélyező szerv – amennyiben a kérelemhez előzetes szakhatósági hozzájárulást nem csatoltak – a kérelmek benyújtásának sorrendjében keresi meg a szakhatóságot.
 
-(4)[^10]
+(4)[^11]
 
 (5) A Hivatal által a befogadás során kiadott szakhatósági állásfoglalás a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza a befogadott
 
@@ -18,4 +18,4 @@ a) szolgáltató, intézmény, hálózat megnevezését és ellátási terület�
 
 b) ellátotti számot, illetve férőhelyszámot.
 
-[^10]: A 21. § (4) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 50. §-a hatályon kívül helyezte.
+[^11]: A 21. § (4) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 50. §-a hatályon kívül helyezte.
