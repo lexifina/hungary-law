@@ -144,6 +144,6 @@
 
 ## A női állomány csak női ruházattal számolhat el. A II. pontban meghatározott ruházati termékeket gyűjtőfogalmakként kell értelmezni.
 
-12. melléklet a 71/2011. (XII. 31.) BM rendelethez[^36]
+12. melléklet a 71/2011. (XII. 31.) BM rendelethez[^45]
 
-[^36]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -230,6 +230,6 @@
 
 ## 6. A hivatásos állomány a 10M rendészeti gyakorló nadrág, a 10M rendészeti gyakorló zubbony és 10M rendészeti gyakorló dzseki helyett, annak könnyített (polifoam betét nélküli) változatát is viselheti.
 
-5. melléklet a 71/2011. (XII. 31.) BM rendelethez[^32]
+5. melléklet a 71/2011. (XII. 31.) BM rendelethez[^41]
 
-[^32]: Az 5. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § c) pontjával megállapított szöveg.
+[^41]: Az 5. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § c) pontjával megállapított szöveg.

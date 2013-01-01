@@ -1,4 +1,4 @@
-## 51. § A ruházati termékek és felszerelési cikkek viselési változatairól a középfokú szakirányító szervek vezetője, továbbá a berendelt állomány tekintetében – ott, ahol az egyenruházat viselését a fogadó szerv vezetője előírta – a fogadó szerv vezetője e rendelet kiadását követő 90 napon belül intézkedik.
+## 51. §[^34] A ruházati termékek és felszerelési cikkek viselési változatairól a középfokú szakirányító szervek vezetője, továbbá a más szervhez vezényelt állomány tekintetében – ott, ahol az egyenruházat viselését a fogadó szerv vezetője előírta – a fogadó szerv vezetője e rendelet kiadását követő 90 napon belül intézkedik.
 
 ## 31. Az egyenruházati termékek viselésének különös szabályai
 
@@ -17,3 +17,5 @@ c) három csillag esetén két csillagot a váll-lap és paroli alsó szélétő
 (4) A köztársasági elnök, a Kormány, a rendészetért felelős miniszter, továbbá a jogszabályban feljogosított más szerv által alapított kitüntetéseket (az egyes kitüntetések viselésére kiadott szabályozókban meghatározottaknak megfelelően) eredeti formában a társasági zubbonyon, női társasági kosztümkabáton a bal zsebtakaró alatt elhelyezve kell viselni.
 
 (5) A hivatásos állomány felsőfokú iskolai végzettséget tanúsító jelvényt a társasági zubbonyon, női társasági kosztümkabáton a jobb zsebtakaró alatt elhelyezve visel.
+
+[^34]: Az 51. § a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés f) pontja szerint módosított szöveg.
