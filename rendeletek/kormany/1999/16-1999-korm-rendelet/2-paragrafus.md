@@ -4,6 +4,6 @@ a) közhatalmi jogosítványai alkalmazásának, illetőleg kötelezettségei te
 
 b) jogszabályban meghatározott feladatainak pártatlan és befolyásmentes ellátását veszélyezteti;
 
-c)[^3] engedélyezési, illetőleg ellenőrzési hatáskörébe tartozik, az 1. § e) pontjában foglalt szolgáltatás kivételével.
+c)[^4] engedélyezési, illetőleg ellenőrzési hatáskörébe tartozik, az 1. § e) pontjában foglalt szolgáltatás kivételével.
 
-[^3]: A 2. § c) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 2. § c) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
