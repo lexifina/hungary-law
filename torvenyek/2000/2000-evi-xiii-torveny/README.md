@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-13-00-00
 | --- | --- | --- |
 | 2009-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2000-13-00-00.5 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2000-13-00-00.6 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 2000-13-00-00.7 |
