@@ -6,4 +6,6 @@ b) védjegyeztetett tanúsítási jellel való rendelkezés esetén a tanúsít�
 
 c) a kijelölés szerinti tevékenység végzésére vonatkozó érvényes, biztosítási eseményenként legalább ötmillió forint értékhatárig fedezetet biztosító felelősségbiztosítási szerződéssel, amely biztosítja a kérelmező tevékenységével akár szerződéses jogviszonyban, akár azon kívül okozott kár megtérítését,
 
-d) a tanúsítási tevékenység végzéséhez szükséges megfelelő szakmai képzettséggel és gyakorlati felkészültséggel, figyelembe véve a kérelmező által igénybe venni kívánt közreműködők szakmai képzettségét és gyakorlati felkészültségét is. A tanúsítási tevékenységért felelős vezetőnek a kérelmezővel munkaviszonyban kell állnia.
+d)[^1] a tanúsítási tevékenység végzéséhez szükséges megfelelő szakmai képzettséggel és gyakorlati felkészültséggel, figyelembe véve a kérelmező által igénybe venni kívánt közreműködők szakmai képzettségét és gyakorlati felkészültségét is. A tanúsítási tevékenységért felelős vezetőnek a kérelmezővel munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban kell állnia.
+
+[^1]: A 6. § d) pontja a 76/2012. (XII. 22.) NFM rendelet 13. § a) pontja szerint módosított szöveg.

@@ -20,7 +20,7 @@
 
 ## b) Cégjegyzék, illetve a hatósági, bírósági nyilvántartás adatai
 
-## A cégjegyzéket vezető cégbíróság, bíróság, illetve hatóság (körzetközponti jegyző) neve:
+## A cégjegyzéket vezető cégbíróság, bíróság, illetve hatóság [fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala] neve:
 
 ## A cégbejegyzés, bírósági vagy hatósági bejegyzés időpontja, az egyéni vállalkozói igazolvány kiadásának napja, illetve ezek hiányában a létrehozó okirat kelte:
 
@@ -176,6 +176,6 @@
 
 ## cégszerű aláírás
 
-2. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^4]
+2. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^6]
 
-[^4]: A 2. melléklet a 91/2011. (XII. 30.) NFM rendelet 45. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 91/2011. (XII. 30.) NFM rendelet 45. §-a szerint módosított szöveg.
