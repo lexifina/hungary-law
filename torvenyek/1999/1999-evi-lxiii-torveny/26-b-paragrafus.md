@@ -1,1 +1,1 @@
-26/B. § A felügyelő kényszerítő eszközt csak a törvényben meghatározott feltételek fennállása esetén, az arányosság elvének figyelemben tartásával alkalmazhat úgy, hogy az nem okozhat aránytalan sérelmet az intézkedés alá vontnak. Nincs helye kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört, és az intézkedés eredményessége e nélkül is biztosítható.
+26/B. §
