@@ -1,4 +1,4 @@
-## 1.1.[^19] A 2. § (3) bekezdése szerinti díjak
+## 1.1.[^21] A 3. § (1) bekezdése szerinti térítési díjak
 
 ## 1.1.1. A munkáltató által eltérő megállapodás hiányában fizetendő díjak:
 
@@ -10,17 +10,17 @@
 
 ## ,,A'' foglalkozás-egészségügyi osztály esetében 10 000 Ft/fő/év.
 
-## 1.1.2. A munkaügyi központ, valamint a szakképző intézmény által – eltérő megállapodás hiányában – fizetendő díjak: A munkaügyi központ, valamint a szakképző intézmény[^20] által beutalt személy
+## 1.1.2. A munkaügyi központ, valamint a szakképző intézmény által – eltérő megállapodás hiányában – fizetendő díjak: A munkaügyi központ, valamint a szakképző intézmény[^22] által beutalt személy
 
-## 1. munkaköri alkalmassági vizsgálata a közhasznú munka előkészítése érdekében 1800 Ft/fő/eset;
+## 1.[^23]
 
 ## 2. szakmai alkalmassági vizsgálata beiskolázás előkészítése érdekében 2500 Ft/fő/eset;
 
 ## 3. szakmai alkalmassági vizsgálata munkaközvetítés előkészítése érdekében 2800 Ft/fő/eset;
 
-## 4.[^21]
+## 4.[^24]
 
-## 1.1.3.[^22] A települési önkormányzat által a rendelkezésre állási támogatásra jogosultak közcélú foglalkoztatása esetén a beutalt személy munkaköri alkalmassági vizsgálatának díja – eltérő megállapodás hiányában – 1900 Ft/fő/eset.
+## 1.1.3.[^25]
 
 ## 1.2. Munkahigiénés vizsgálatok
 
@@ -58,7 +58,7 @@
 
 ## d) fizikai megterhelés-igénybevétel vizsgálata.
 
-## 1.2.2.[^23] Biológiai expozíciós mutatók vizsgálata a külön jogszabályban meghatározott expozíciós mutatók alapján:
+## 1.2.2.[^26] Biológiai expozíciós mutatók vizsgálata a külön jogszabályban meghatározott expozíciós mutatók alapján:
 
 | Vegyi anyag | Biológiai expozíciós mutató |
 
@@ -120,8 +120,9 @@
 
 2. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
 
-[^19]: Az 1. számú melléklet 1.1. pontja a 9/1999. ( I. 27.) Korm. rendelet mellékletével megállapított szöveg.
-[^20]: A Magyar Közlöny 1999. évi 23. számában közzétett helyesbítésnek megfelelő szöveg.
-[^21]: Az 1. melléklet 1.1.2 pont 4. alpontját a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
-[^22]: Az 1. számú melléklet 1.1.3. pontját a 64/2000. (V. 9.) Korm. rendelet 6.§-a iktatta be, szövege a 75/2009. (IV. 8.) Korm. rendelet 8. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^23]: Az 1. számú melléklet 1.2.2. pontjának bevezető szövegrésze a 70/2007. (IV. 14.) Korm. rendelet 7. § (3) bekezdésének c) pontjával megállapított szöveg.
+[^21]: Az 1. számú melléklet 1.1. pontja a 9/1999. ( I. 27.) Korm. rendelet mellékletével, az 1.1. pont címe a 350/2012. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: A Magyar Közlöny 1999. évi 23. számában közzétett helyesbítésnek megfelelő szöveg.
+[^23]: Az 1. melléklet 1.1.2. pont 1. alpontját a 350/2012. (XII. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^24]: Az 1. melléklet 1.1.2 pont 4. alpontját a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
+[^25]: Az 1. számú melléklet 1.1.3. pontját a 64/2000. (V. 9.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 350/2012. (XII. 12.) Korm. rendelet 4. § c) pontja.
+[^26]: Az 1. számú melléklet 1.2.2. pontjának bevezető szövegrésze a 70/2007. (IV. 14.) Korm. rendelet 7. § (3) bekezdésének c) pontjával megállapított szöveg.

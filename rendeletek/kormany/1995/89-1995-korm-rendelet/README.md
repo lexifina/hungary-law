@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-89-20-2
 | 2010-04-01 | 1995-89-20-22.8 | 70/2007. (IV. 14.) Korm. rendelet |
 | 2011-01-01 | 1995-89-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-10-01 | 1995-89-20-22.10 | 64/2000. (V. 9.) Korm. rendelet |
+| 2013-01-01 | 1995-89-20-22.11 | 350/2012. (XII. 12.) Korm. rendelet |
