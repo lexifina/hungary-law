@@ -32,4 +32,4 @@ f)
 
 (7) A belső ellenőr feletti munkáltatói jogokat közvetlenül az ügyvezető gyakorolja.
 
-(8) Azon hitelintézetek esetében, amelyek nyilvánosan működő részvénytársaságok, a társaság alapszabálya úgy is rendelkezhet, hogy audit bizottság létrehozása nem kötelező, feltéve, hogy a felügyelő bizottság összetételére, tagjainak összeférhetetlenségére, valamint hatáskörére vonatkozó rendelkezések megfelelnek a Gt. szerinti audit bizottságra előírt törvényi rendelkezéseknek.
+(8)
