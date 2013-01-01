@@ -6,9 +6,9 @@
 
 (4)[^16] Az MVH a támogatási kérelemnek a 3. §-ban, illetve a 4. §-ban meghatározott támogatás iránti részét szétválasztva, külön eljárásban bírálja el.
 
-(5)[^17] A kérelem alapjául szolgáló termékértékesítésnek, illetve beruházásnak a kérelemmel érintett időszakban kell teljesülni. Az ügyfélnek a termékértékesítés és beruházás pénzügyi rendezését, birtokba kerülését, illetve üzembe helyezését igazoló dokumentumokat legkésőbb a (3) bekezdésben biztosított ügyintézési határidő letelte előtt egy hónappal kell az MVH részére benyújtania. Az igazoló dokumentumok benyújtására nyitva álló határidő jogvesztő.
+(5)[^17] Az ügyfélnek beruházás pénzügyi rendezését, használatba vételét, üzembe helyezését, illetve tulajdonba kerülését igazoló dokumentumokat legkésőbb a (3) bekezdésben biztosított ügyintézési határidő letelte előtt egy hónappal kell az MVH részére benyújtania, azzal, hogy a pénzügyi rendezésnek eddig az időpontig kell megtörténnie, valamint a fenti dokumentumok megszerzéséhez szükséges legelső hatósági eljárás megindítását az (1) bekezdés szerinti támogatási kérelem benyújtását megelőzően kérelmezni kell. Az igazoló dokumentumok benyújtására nyitva álló határidő jogvesztő.
 
 [^14]: A 9. § (1) bekezdése a 12/2011. (II. 18.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^15]: A 9. § (2) bekezdése a 98/2012. (IX. 21.) VM rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^16]: A 9. § (4) bekezdését a 12/2011. (II. 18.) VM rendelet 5. § (2) bekezdése iktatta be.
-[^17]: A 9. § (5) bekezdését a 28/2012. (III. 24.) VM rendelet 6. § (2) bekezdése iktatta be.
+[^17]: A 9. § (5) bekezdését a 28/2012. (III. 24.) VM rendelet 6. § (2) bekezdése iktatta be, szövege a 150/2012. (XII. 28.) VM rendelet 26. §-ával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 27. § (2) bekezdését.

@@ -1,6 +1,6 @@
 7. §[^8] (1)[^9] Azon tag termését, amely korábban más termelői csoportnak volt tagja, kizárólag abban az esetben lehet figyelembe venni a 3. és 4. § szerinti támogatások szempontjából, ha a támogatási kérelmet benyújtó zöldség-gyümölcs termelői csoport igazolni tudja, hogy az adott tag adott termését öt évet nem meghaladóan vették figyelembe az értékesített termék értékének a tanácsi rendelet 103a cikk szerinti támogatás igénybevétele érdekében történő meghatározása során.
 
-(2)[^10] A 4. § szerinti támogatás alapjául szolgáló, a bizottsági rendelet 39. cikk c) pontjában meghatározott beruházásoknak a termelői csoport tagjai által az előzetes elismerés tárgyát képező termékek szempontjából vett hasznossági arányának figyelembevétele – a bizottsági rendelet 46. cikkének megfelelő alkalmazása érdekében – a 4. §-ban meghatározott támogatás alapjának az elfogadott elismerési tervben, adott időszakra tervezett összes árumennyiség és a zöldség-gyümölcs termelői csoport által ténylegesen értékesített termék összes mennyisége közötti különbségnek a tervezett mennyiséghez viszonyított arányával való csökkentésével történik, amennyiben a zöldség-gyümölcs termelői csoport által értékesített, tagjai által termelt termék összes mennyisége nem éri el a tervezett összes mennyiségnek legalább nyolcvan százalékát. Az áru mennyiségébe az elháríthatatlan külső ok (vis maior) miatt kiesett, jogszabály alapján a termelői csoport tagja részére igazolt árumennyiséget be kell számítani. Féléves végrehajtási időszak esetén a támogatás igénybevételének feltétele, hogy a végrehajtás alapjául szolgáló elfogadott elismerési tervben a tervezett áru mennyiségét is magába foglaló termelési adatok féléves időszakokra megbontva szerepeljenek.
+(2)[^10]
 
 (3)[^11] A bizottsági rendelet 39. cikk c) pontjában említett beruházásokat a zöldség-gyümölcs termelői csoport a zöldség-gyümölcs termelői csoport tagjai által az előzetes elismerés tárgyát képező termékek szempontjából vett hasznosságának sérelme nélkül a tanácsi rendelet 125e. cikk (1) bekezdésében meghatározott átmeneti időszak utolsó évének kivételével a zöldség-gyümölcs termelői csoport érdekében hasznosíthatja.
 
@@ -10,7 +10,7 @@
 
 [^8]: A 7. § a 12/2011. (II. 18.) VM rendelet 4. §-ával megállapított szöveg.
 [^9]: A 7. § (1) bekezdése a 98/2012. (IX. 21.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^10]: A 7. § (2) bekezdése a 98/2012. (IX. 21.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^10]: A 7. § (2) bekezdését a 150/2012. (XII. 28.) VM rendelet 29. § b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 27. § (2) bekezdését.
 [^11]: A 7. § (3) bekezdését a 28/2012. (III. 24.) VM rendelet 5. §-a iktatta be.
 [^12]: A 7. § (4) bekezdését a 28/2012. (III. 24.) VM rendelet 5. §-a iktatta be.
 [^13]: A 7. § (5) bekezdését a 98/2012. (IX. 21.) VM rendelet 2. § (5) bekezdése iktatta be.
