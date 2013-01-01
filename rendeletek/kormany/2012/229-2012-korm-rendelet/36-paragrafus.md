@@ -2,7 +2,7 @@
 
 36. § (1) Az állami szerv, az állami intézményfenntartó központ, az állami felsőoktatási intézmény, az önkormányzat és az önkormányzati társulás által fenntartott köznevelési intézményekben tandíj megfizetése mellett igénybe vehető szolgáltatások:
 
-a)[^4] alapfokú művészetoktatásban a heti hat tanórát meghaladó tanórai foglalkozás, a tanulmányi követelmények nem teljesítése miatt az évfolyam második vagy további alkalommal történő megismétlése, továbbá minden tanórai foglalkozás annak, aki nem tanköteles, feltéve, hogy nem áll tanulói jogviszonyban a nappali rendszerű vagy nappali oktatás munkarendje szerinti oktatásban, valamint annak, aki a huszonkettedik életévét betöltötte,
+a)[^3] alapfokú művészetoktatásban a heti hat tanórát meghaladó tanórai foglalkozás, a tanulmányi követelmények nem teljesítése miatt az évfolyam második vagy további alkalommal történő megismétlése, továbbá minden tanórai foglalkozás annak, aki nem tanköteles, feltéve, hogy nem áll tanulói jogviszonyban a nappali rendszerű vagy nappali oktatás munkarendje szerinti oktatásban, valamint annak, aki a huszonkettedik életévét betöltötte,
 
 b) a nevelési-oktatási intézményben a pedagógiai programhoz nem kapcsolódó nevelés és oktatás, valamint az ezzel összefüggő más szolgáltatás,
 
@@ -12,9 +12,9 @@ d) a tanulói jogviszony keretében a második vagy további szakképesítésre 
 
 (2) A tandíj mértéke – a kötelező feladatellátásban részt nem vevő, a külföldi nevelési-oktatási intézmény és a nemzetközi iskola kivételével – tanévenként nem haladhatja meg a tanévkezdéskor a szakmai feladatra számított folyó kiadások egy tanulóra jutó hányadát. A tandíj a tanulmányi eredménytől függően vagy a tanuló szociális helyzete alapján csökkenthető.
 
-(3)[^5] Az (1) bekezdés d) pontja szerinti esetben az egy tanulóra jutó tandíj mértékét a nevelési-oktatási intézmény vezetője a (2) bekezdésre és a 35. § (6) bekezdésére figyelemmel állapítja meg.
+(3)[^4] Az (1) bekezdés d) pontja szerinti esetben az egy tanulóra jutó tandíj mértékét a nevelési-oktatási intézmény vezetője a (2) bekezdésre és a 35. § (6) bekezdésére figyelemmel állapítja meg.
 
 (4) A fenntartó határozhatja meg azokat a szabályokat, amelyek alapján a nevelési-oktatási intézmény vezetője dönt az e rendeletben meghatározottakon kívüli további térítésmentes ellátásról, a térítési díj és a tandíj összegéről, a tanulmányi eredmények alapján járó és a szociális helyzet alapján adható kedvezményekről és a befizetés módjáról.
 
-[^4]: A 36. § (1) bekezdés a) pontja a 315/2012. (XI. 13.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^5]: A 36. § (3) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^3]: A 36. § (1) bekezdés a) pontja a 315/2012. (XI. 13.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^4]: A 36. § (3) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
