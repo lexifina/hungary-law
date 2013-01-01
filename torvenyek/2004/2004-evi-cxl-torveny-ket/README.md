@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-140-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 2004-140-00-00.32 |
 | 2012-11-15 | 38/2012. (XI. 14.) AB határozat | 2004-140-00-00.33 |
 | 2012-12-28 | 2012. évi CCX. törvény | 2004-140-00-00.34 |
+| 2013-01-01 | 2012. évi XCIII. törvény | 2004-140-00-00.35 |

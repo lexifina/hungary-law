@@ -16,7 +16,7 @@ az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldö
 
 a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és megyei kormányhivatal,
 
-b) hatásköri összeütközés esetén a Fővárosi Ítélőtábla.
+b) hatásköri összeütközés esetén a Fővárosi Közigazgatási és Munkaügyi Bíróság.
 
 (4) Az egyeztetést kezdeményező hatóság kérelmére a (3) bekezdés a) pontjában foglalt esetben tizenöt napon belül kell kijelölni az eljáró hatóságot.
 

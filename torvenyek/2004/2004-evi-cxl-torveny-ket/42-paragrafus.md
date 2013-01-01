@@ -8,6 +8,6 @@
 
 (4) Az ügy elintézésében nem vehet részt az a hatóság, amelynek jogát vagy jogos érdekét az ügy közvetlenül érinti. A hatóság nem válik kizárttá amiatt, mert a határozatban megállapított fizetési kötelezettség teljesítése az általa megjelölt számlára történik.
 
-(5) A jegyző mint hatóság nem vehet részt annak a hatósági ügynek az elintézésében, amelyben az őt foglalkoztató önkormányzat, a foglalkoztató önkormányzat társulása vagy az egyéb munkáltatói jogokat gyakorló polgármester ellenérdekű ügyfél, illetve a határozattal az önkormányzat, a társulás vagy a polgármester jogosulttá vagy kötelezetté válhat, vagy az eljárás tárgyával összefüggő kötelezettséget vállal.
+(5) A jegyző mint hatóság nem vehet részt annak a hatósági ügynek az elintézésében, amelyben az illetékességi területének az önkormányzata, az önkormányzat szerve vagy a polgármester ellenérdekű ügyfél, illetve a határozattal az illetékességi területének az önkormányzata, az önkormányzat szerve vagy a polgármester jogosulttá vagy kötelezetté válhat, vagy az eljárás tárgyával összefüggő kötelezettséget vállal.
 
 (6) Az ügy elintézésében nem vehet részt az a hatóság, amelyik hatóság vezetőjével szemben kizárási ok merül fel.

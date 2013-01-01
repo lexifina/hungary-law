@@ -12,11 +12,11 @@ b) a tevékenység gyakorlásához szükséges nyilvántartásba vétel és a ny
 
 a) államigazgatási szerv,
 
-b) helyi önkormányzat képviselő-testülete, ideértve a megyei önkormányzat közgyűlését is, valamint a 19. § (2) bekezdése szerint átruházott hatáskörben annak szervei és társulása,
+b) helyi önkormányzati képviselő-testület, ideértve a megyei önkormányzat közgyűlését is, valamint átruházott hatáskörben annak a 19. § (2) bekezdése szerinti szervei,
 
-c) a polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester),
+c) polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester),
 
-d) főjegyző, jegyző, körjegyző, a képviselő-testület hivatalának ügyintézője, a hatósági igazgatási társulás,
+d) főjegyző, jegyző (a továbbiakban együtt: jegyző),
 
 e) törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb szervezet, köztestület vagy személy.
 
