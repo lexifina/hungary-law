@@ -4,7 +4,7 @@
 
 Melléklet a 9/2003. (V. 6.) IM–BM–PM
 
-együttes rendelethez[^16]
+együttes rendelethez[^17]
 
 NYILATKOZAT SZEMÉLYI ADATOKRÓL
 
@@ -84,7 +84,7 @@ I. A kérelmező, ha egyedülélő (a háztartásban egyedül élő személy) az
 
 II. A kérelmező vagy az eltartására köteles hozzátartozója és a vele közös háztartásban élő házastársa, illetve élettársa a szokásos életszükségleti és berendezési tárgyakon, a megélhetéséhez szükséges termelő- és munkaeszközön kívül, és azon az ingatlanon, amelyben lakik, egyéb vagyontárggyal ne rendelkezzen.
 
-2.[^17] Személyes költségmentesség iránti kérelmet a terhelt és a védő a vádemelést megelőzően az eljáró nyomozó hatóságnál; a vádemelést követően a bíróságnál nyújthatja be, legkésőbb a vádirat közlésétől számított tizenöt napon belül. A határidő elmulasztása miatt a kérelmező igazolással élhet. Ezt követően csak abban az esetben terjeszthető elő a kérelem, ha az eljárást távollévő terhelttel szemben folytatták le, a tárgyalásra szóló idézés kézhezvételétől számított tizenöt napon belül, továbbá, ha az engedélyezés feltételei utóbb következtek be, az ettől számított tizenöt napon belül.
+2.[^18] Személyes költségmentesség iránti kérelmet a terhelt és a védő a vádemelést megelőzően az eljáró nyomozó hatóságnál; a vádemelést követően a bíróságnál nyújthatja be, legkésőbb a vádirat közlésétől számított tizenöt napon belül. A határidő elmulasztása miatt a kérelmező igazolással élhet. Ezt követően csak abban az esetben terjeszthető elő a kérelem, ha az eljárást távollévő terhelttel szemben folytatták le, a tárgyalásra szóló idézés kézhezvételétől számított tizenöt napon belül, továbbá, ha az engedélyezés feltételei utóbb következtek be, az ettől számított tizenöt napon belül.
 
 3. A személyes költségmentesség iránti kérelemhez csatolni kell a kitöltött nyomtatványt, kivéve, ha a kérelmező kiskorú és átmeneti vagy tartós gondozásba vették; illetőleg ha a kérelmező vagy az eltartására köteles hozzátartozója időskorúak járadékában, illetve rendszeres szociális segélyben részesül; illetőleg ha a kérelmező hajléktalan.
 
@@ -114,5 +114,5 @@ II. A kérelmező vagy az eltartására köteles hozzátartozója és a vele kö
 
 12. Az illetékekről szóló 1990. évi XCIII. törvény 33. §-a (2) bekezdésének 22. pontja alapján a költségmentesség engedélyezésére irányuló eljárás, valamint a költségmentesség feltételei fennállásának igazolására kiállított irat tárgyánál fogva illetékmentes.
 
-[^16]: A melléklet a 15/2006. (VIII. 14.) IRM–PM együttes rendelet 4. §-ával megállapított szöveg. E módosító rendelet 5. §-a alapján 2006. szeptember 30-ig alkalmazható a 2006. augusztus 22. napja előtti szabályozás szerinti nyomtatvány is.
-[^17]: A melléklet 2. pontjának eredeti második mondatát az 57/2007. (XII. 22.) IRM–PM együttes rendelet 2. §-ának k) pontja hatályon kívül helyezte. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a pártfogó ügyvédi képviselet biztosítására irányuló kérelmet 2008. január 1. napját követően terjesztették elő.
+[^17]: A melléklet a 15/2006. (VIII. 14.) IRM–PM együttes rendelet 4. §-ával megállapított szöveg. E módosító rendelet 5. §-a alapján 2006. szeptember 30-ig alkalmazható a 2006. augusztus 22. napja előtti szabályozás szerinti nyomtatvány is.
+[^18]: A melléklet 2. pontjának eredeti második mondatát az 57/2007. (XII. 22.) IRM–PM együttes rendelet 2. §-ának k) pontja hatályon kívül helyezte. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a pártfogó ügyvédi képviselet biztosítására irányuló kérelmet 2008. január 1. napját követően terjesztették elő.
