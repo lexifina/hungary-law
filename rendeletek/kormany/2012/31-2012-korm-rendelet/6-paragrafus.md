@@ -4,9 +4,9 @@
 
 (2) A fegyelmi tanács elnöke a munkáltatói jogkör gyakorlója.
 
-(3)[^3] A fegyelmi tanács elnöke a vizsgálóbiztos előterjesztésétől számított három munkanapon belül írásban kijelöli a tanács tagjait, akik a fegyelmi eljárás alá vonttal legalább azonos besorolású, illetve vezetői munkakört betöltő kormánytisztviselők lehetnek. Vezetői munkakört betöltő kormánytisztviselő esetén az államigazgatási szervnek a fegyelmi eljárás alá vonttal legalább azonos szintű vezetői munkakört betöltő kormányzati szolgálati jogviszonyban álló foglalkoztatottjai közül kell kijelölni a fegyelmi tanács tagjait.
+(3)[^4] A fegyelmi tanács elnöke a vizsgálóbiztos előterjesztésétől számított három munkanapon belül írásban kijelöli a tanács tagjait, akik a fegyelmi eljárás alá vonttal legalább azonos besorolású, illetve vezetői munkakört betöltő kormánytisztviselők lehetnek. Vezetői munkakört betöltő kormánytisztviselő esetén az államigazgatási szervnek a fegyelmi eljárás alá vonttal legalább azonos szintű vezetői munkakört betöltő kormányzati szolgálati jogviszonyban álló foglalkoztatottjai közül kell kijelölni a fegyelmi tanács tagjait.
 
-(4)[^4] Ha az államigazgatási szervnél nincs a (3) bekezdésben foglaltaknak megfelelő kormánytisztviselő, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a (3) bekezdésben foglalt feltételeknek megfelelő kormányzati szolgálati jogviszonyban álló foglalkoztatottját jelölheti ki fegyelmi tanácstagnak.
+(4)[^5] Ha az államigazgatási szervnél nincs a (3) bekezdésben foglaltaknak megfelelő kormánytisztviselő, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a (3) bekezdésben foglalt feltételeknek megfelelő kormányzati szolgálati jogviszonyban álló foglalkoztatottját jelölheti ki fegyelmi tanácstagnak.
 
 (5) A fegyelmi tanács eljárásában és döntéshozatalában elnökként, tagként, illetve jegyzőkönyvvezetőként nem vehet részt:
 
@@ -22,5 +22,5 @@ d) akitől egyébként az ügy elfogulatlan elbírálása nem várható el.
 
 (7) Testület által kinevezett kormánytisztviselő fegyelmi ügyében a testület gyakorolja a fegyelmi tanács jogkörét vagy – választása szerint – e rendelet szabályaira figyelemmel a testület tagjaiból háromtagú fegyelmi tanácsot alakít. Ez utóbbi esetben a testület a fegyelmi tanács határozatát nem változtathatja meg.
 
-[^3]: A 6. § (3) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 9. §-át.
-[^4]: A 6. § (4) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 9. §-át.
+[^4]: A 6. § (3) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 9. §-át.
+[^5]: A 6. § (4) bekezdése a 143/2012. (VII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 9. §-át.

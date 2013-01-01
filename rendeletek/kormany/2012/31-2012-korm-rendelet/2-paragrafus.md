@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-ában meghatározott közigazgatási szervekre és az ott foglalkoztatott kormányzati szolgálati jogviszonyban állókra, valamint a közszolgálati jogviszonyban állókra terjed ki.
+## 1. §[^1] A rendelet hatálya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-ában meghatározott közigazgatási szervekre – ide nem értve a Nemzeti Adó- és Vámhivatalt – és az ott foglalkoztatott kormányzati szolgálati jogviszonyban állókra, valamint a közszolgálati jogviszonyban állókra terjed ki.
 
 ## II. Fejezet
 
@@ -45,3 +45,5 @@ Ha a felfüggesztés indoka megszűnik, a vizsgálóbiztos javaslatára a munká
 (7) A fegyelmi tanács elnöke a fegyelmi eljárást az akadályoztatás okának megszűnéséig felfüggesztheti, ha a kormánytisztviselő tartós akadályoztatása miatt önhibáján kívül nem tud részt venni a tárgyaláson. Ha a felfüggesztés indoka megszűnik, a fegyelmi tanács elnöke haladéktalanul elrendeli az eljárás folytatását.
 
 (8) Ha a kormánytisztviselő elháríthatatlan ok miatt tartósan nem tud munkavégzésre rendelkezésre állni, illetve munkavégzési kötelezettségét teljesíteni, az ok megszűnéséig nem lehet a kormánytisztviselőt a Kttv. 157. § szerint állásából felfüggeszteni.
+
+[^1]: Az 1. § a 366/2012. (XII. 17.) Korm. rendelet 45. §-ával megállapított szöveg.
