@@ -38,7 +38,7 @@
 
 | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. építésügy | illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| 1. építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 2. közlekedés |  |  |
 
@@ -70,11 +70,11 @@
 
 | 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. kulturális örökségvédelem | Fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -82,7 +82,7 @@
 
 | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. építésügy | illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| 1. építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 2. közlekedés |  |  |
 
@@ -114,14 +114,14 @@
 
 | 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| 9. régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 10. egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 3.
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 240. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 11. § (2) bekezdése, a 158/2011. (VIII. 11.) Korm. rendelet 22. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés d) pontja, a 23/2012. (II. 29.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 240. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 11. § (2) bekezdése, a 158/2011. (VIII. 11.) Korm. rendelet 22. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés d) pontja, a 23/2012. (II. 29.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 32. §-a szerint módosított szöveg.
