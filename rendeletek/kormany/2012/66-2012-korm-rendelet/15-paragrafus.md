@@ -1,4 +1,4 @@
-15. § (1)[^9] Az EEKH a kérelemnek helyt adó határozatát eseti export engedély és eseti import engedély esetén öt példányban állítja ki, amelyből egy példányt irattároz. Az EEKH a mélynyomású bélyegzőlenyomattal ellátott, magyar és angol nyelvű engedélyt
+15. § (1)[^11] Az EEKH a kérelemnek helyt adó határozatát eseti export engedély és eseti import engedély esetén öt példányban állítja ki, amelyből egy példányt irattároz. Az EEKH a mélynyomású bélyegzőlenyomattal ellátott, magyar és angol nyelvű engedélyt
 
 a) kábítószer és pszichotróp anyag, valamint új pszichoaktív anyag eseti exportjának engedélyezése esetén zöld,
 
@@ -6,7 +6,7 @@ b) kábítószer és pszichotróp anyag, valamint új pszichoaktív anyag eseti 
 
 nyomtatványon állítja ki.
 
-(2)[^10] Az engedély kiadásáról az EEKH a vámszervet értesíti.
+(2)[^12] Az engedély kiadásáról az EEKH a vámszervet értesíti.
 
 (3) A küldeményt kizárólag az exportengedélyen szereplő szervhez lehet irányítani.
 
@@ -14,5 +14,5 @@ nyomtatványon állítja ki.
 
 (5) Az e rendelet alapján kiadott engedéllyel szállított anyagok árunyilatkozatain és fuvarokmányain szembetűnő módon az EEKH engedélyszámát, vagy kábítószer esetén K betűjelzést, pszichotróp anyag esetén P, új pszichoaktív anyag esetén ÚP betűjelzést fel kell tüntetni.
 
-[^9]: A 15. § (1) bekezdés nyitó szövegrésze a 137/2012. (VI. 29.) Korm. rendelet 91. § c) pontja szerint módosított szöveg.
-[^10]: A 15. § (2) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 85. §-ával megállapított szöveg.
+[^11]: A 15. § (1) bekezdés nyitó szövegrésze a 137/2012. (VI. 29.) Korm. rendelet 91. § c) pontja szerint módosított szöveg.
+[^12]: A 15. § (2) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 85. §-ával megállapított szöveg.

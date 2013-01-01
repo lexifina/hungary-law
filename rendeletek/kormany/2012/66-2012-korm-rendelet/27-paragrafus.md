@@ -16,10 +16,18 @@ a) a kérdéses anyag kiválthat-e függőségi állapotot és a központi idegr
 
 b) okkal feltételezhető-e, hogy az anyag közegészségügyi és szociális problémát jelentő olyan visszaélésre ad vagy adhat lehetőséget, amely indokolja annak a GyT. Mellékletébe történő felvételét.
 
-(7) Az OAC a kockázatértékelés eredményére figyelemmel kezdeményezi a miniszternél az anyagnak a GyT. Mellékletébe történő felvételét, vagy javasolja az anyagnak az 1. melléklet C) jegyzékéről történő törlését.
+(7)[^18] Az OAC a kockázatértékelés eredményére figyelemmel kezdeményezi a miniszternél
+
+a) a kockázatértékelés idejének egy évvel történő meghosszabbítását, vagy
+
+b) az anyagnak a GyT. Mellékletébe történő felvételét, vagy
+
+c) az anyagnak az 1. melléklet C) jegyzékéről történő törlését.
 
 (8) Amennyiben valamely, az 1. melléklet C) jegyzékén szereplő vegyületcsoporthoz tartozó anyag a GyT. Mellékletébe vagy az 1. melléklet más jegyzékére felvételre kerül, a C) jegyzéken a vegyületcsoport mellett ezen anyag kivételként kerül feltüntetésre.
 
 (9) Az OAC az értékeléshez bekéri a GYEMSZI és az egészségügyi szakmai kollégium véleményét, valamint a Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ (a továbbiakban: Nemzeti Drog Fókuszpont), továbbá a szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló kormányrendelet szerint szakvélemény adására kizárólagosan kijelölt szervek és a rendőrség birtokában lévő, az adott szer kóros élvezetére utaló információkat és a KKB állásfoglalását.
 
 (10) Nem alkalmazható a Gytv. 15/C. § (2) bekezdése szerinti kockázatértékelési kötelezettség az 1. melléklet C) jegyzékére felkerült vegyületcsoportok vonatkozásában. A vegyületcsoport mindaddig a C) jegyzéken marad, amíg van olyan, a vegyületcsoporthoz tartozó anyag, amely esetében fennállnak a (4) bekezdésben foglalt feltételek, vagy nem szerepel valamennyi anyag valamely más jegyzéken.
+
+[^18]: A 27. § (7) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.

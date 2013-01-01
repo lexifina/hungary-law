@@ -2,11 +2,11 @@
 
 13. § (1) Kábítószer vagy pszichotróp anyag, valamint új pszichoaktív anyag szállítmányt, küldeményt az ország területére behozni, kivinni, beléptetni, kiléptetni, vámeljárás alá vonni kizárólag hatályos eseti export, vagy eseti import engedély alapján lehet a 14. §-ban foglaltak kivételével. Transzfer esetén az EEKH kivitelkor eseti export, behozatalkor eseti import engedélyt ad ki. Az engedély csak egy szállításra és legfeljebb az abban feltüntetett mennyiségre vonatkozik. Az eseti export vagy eseti import engedély kizárólag egyféle hatóanyagra vonatkozhat, kivéve az analitikai célú, kis mennyiségű standardok és minták engedélyezését. A standardok és minták hatóanyagaira vonatkozó adatokat a kérelemhez külön jegyzéken kell mellékelni. Az állatgyógyászati készítmények behozatalakor az EEKH engedélye nem mentesít az állatgyógyászati termékekről szóló rendeletben előírt behozatali engedély megszerzése alól.
 
-(2)[^6] Eseti export vagy import engedély kizárólag az export vagy import tevékenységre feljogosító tevékenységi engedéllyel, vagy nem klinikai vizsgálat végzésére jogosító eseti kutatási engedéllyel rendelkező szervezetnek, valamint a 3. § (4) bekezdése szerinti, a díszítő mák és kannabisz növény exportját, importját, transzferét végző gazdálkodó szervezetnek adható ki.
+(2)[^8] Eseti export vagy import engedély kizárólag az export vagy import tevékenységre feljogosító tevékenységi engedéllyel vagy nem klinikai vizsgálat végzésére jogosító eseti kutatási engedéllyel rendelkező szervezetnek, valamint a 3. § (4) bekezdése szerinti, a díszítő mák, kannabisz növény és új pszichoaktív anyag exportját, importját, transzferét végző gazdálkodó szervezetnek adható ki.
 
-(3)[^7] Ha az import tárgya kábítószert vagy pszichotróp anyagot tartalmazó olyan gyógyszer, amely nem rendelkezik Magyarországon forgalomba hozatali engedéllyel, az eseti import engedély kiadásának feltétele a GYEMSZI által kiadott nyilatkozat vagy engedély, illetve állatgyógyászati készítmények esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBiH) által kiadott engedély beszerzése.
+(3)[^9] Ha az import tárgya kábítószert vagy pszichotróp anyagot tartalmazó olyan gyógyszer, amely nem rendelkezik Magyarországon forgalomba hozatali engedéllyel, az eseti import engedély kiadásának feltétele a GYEMSZI által kiadott nyilatkozat vagy engedély, illetve állatgyógyászati készítmények esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBiH) által kiadott engedély beszerzése.
 
-(4)[^8] Az eseti engedély iránti kérelem tartalmazza a 7. és 8. melléklet szerinti adatokat, valamint a szállító és szállítmányozó adatait. Az import kérelemhez mellékelni kell a külföldi partnertől származó címigazolást, továbbá export, illetve kiviteli irányú transzfer esetén a külföldi hatóság import engedélyének eredeti példányát.
+(4)[^10] Az eseti engedély iránti kérelem tartalmazza a 7. és 8. melléklet szerinti adatokat, valamint a szállító és szállítmányozó adatait. Az import kérelemhez mellékelni kell a külföldi partnertől származó címigazolást, továbbá export, illetve kiviteli irányú transzfer esetén a külföldi hatóság import engedélyének eredeti példányát.
 
 (5) A kiadott eseti export, importengedélyt a hatályvesztést követő tizenöt napon belül vissza kell juttatni a kiadó hatóságnak.
 
@@ -30,6 +30,6 @@ a) a tevékenység folytatása során az e rendeletben foglaltakat, vagy a tevé
 
 b) a tevékenységi engedélyt a hatóság visszavonta vagy felfüggesztette.
 
-[^6]: A 13. § (2) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
-[^7]: A 13. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 91. § b) pontja szerint módosított szöveg.
-[^8]: A 13. § (4) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
+[^8]: A 13. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
+[^9]: A 13. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 91. § b) pontja szerint módosított szöveg.
+[^10]: A 13. § (4) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
