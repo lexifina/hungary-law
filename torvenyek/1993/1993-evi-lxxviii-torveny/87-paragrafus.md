@@ -24,7 +24,9 @@ j) a lakás és helyiség albérletbe adásához való hozzájárulás feltétel
 
 k) a lakás és helyiség lakbérének mértékét és a lakbér megállapításának feltételeit;
 
-l) a lakás és helyiség (ideértve a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit.
+l) a lakás és helyiség (ideértve a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit;
+
+m) a lakás és helyiség – ideértve a bérlőkijelölési joggal érintett helyiség – elidegenítésének szabályait.
 
 (2) Az (1) bekezdés a), g), h) és m) pontjában foglaltakat a fennálló bérlőkiválasztási jog esetén megfelelően alkalmazni kell.
 
