@@ -18,4 +18,4 @@ g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhe
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági engedélyezési ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
 
-(2) A kiemelt jelentőségű ügyekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.), az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló külön jogszabály és az ügyfajtára vonatkozó különös hatósági eljárási szabályok rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2) A kiemelt jelentőségű ügyekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló jogszabály és az ügyfajtára vonatkozó különös hatósági eljárási szabályok rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.

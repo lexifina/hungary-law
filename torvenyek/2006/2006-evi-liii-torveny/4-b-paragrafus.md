@@ -1,5 +1,1 @@
-4/B. § (1) Az összevont eljárás építési engedélyezési szakasza az építési engedély elvi keretengedélynek megfelelően pontosított tartalmú mellékletek – elvi keretengedély hatályán belül történő – benyújtásával kezdődik. Az építési engedélyezési szakaszban az elvi keretengedélyben foglaltak az építésügyi hatóságot, a szakhatóságot és a közműszolgáltatót – azokban a kérdésekben, amelyekről kifejezetten rendelkezett, az elvi keretengedélyezési szakaszban nyilatkozott, vagy állásfoglalást adott ki – akkor is kötik, ha az elvi keretengedély megadását követően az elvi keretengedély lényeges tartalmát érintő jogszabályok megváltoztak. Az építésügyi hatóság, a szakhatóság és a közműszolgáltató az elvi keretengedélytől csak akkor térhet el, ha az elvi keretengedélyben foglalt valamely rendelkezés, nyilatkozat, állásfoglalás kialakításakor az elvi keretengedélyezési szakasz során figyelembe vett ténymegállapítás tekintetében az építési engedélyezési szakaszban megállapítást nyer, hogy az tévedésen, megtévesztésen alapult.
-
-(2) Az összevont eljárásért az építésügyi hatóságot, és szakhatóság közreműködése esetén a szakhatóságot külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díj illeti meg.
-
-(3)
+4/B. §

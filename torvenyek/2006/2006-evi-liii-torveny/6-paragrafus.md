@@ -2,8 +2,4 @@
 
 (2)
 
-(3) Az építésügyi hatóság akkor állapítja meg a hozzá benyújtott, illetve a szakhatósághoz korábban benyújtott kérelem tartalmának azonosságát, ha
-
-a) az építésügyi hatósági engedélyezési eljárás megindítása előtt beszerzett, a kérelem tárgyára vonatkozó, hat hónapnál nem régebbi szakhatósági állásfoglalás rendelkezésére áll, és
-
-b) az építésügyi hatósági eljárások szabályait meghatározó jogszabályokban a szakhatósági állásfoglalás megadására előírt feltételek teljesülését megállapította.
+(3)
