@@ -1,4 +1,4 @@
-2. § (1) Az építésügyi hatóság számára a kérelmező vagy bejelentő (a továbbiakban együtt: építtető)
+2. § (1)[^4] Az építésügyi hatóság számára az építtető
 
 a) a szakhatóságként való eljárásért
 
@@ -8,10 +8,9 @@ ab) a repülőtér területén lévő, a repülőtér létesítésének, fejlesz
 
 ac) telekalakítási eljárásban szakhatóságként való eljárásért érintett telkenként 5000 forint,
 
-b) az építési és használatbavételi bejelentés esetében 10 000 forint,
-
-c) a bontási bejelentés esetében 5000 forint
-
-igazgatási szolgáltatási díjat (a továbbiakban: díj) fizet.
+b)–c)[^5]
 
 (2) A jogorvoslati eljárás díja az (1) bekezdésben meghatározott díjjal megegyező mértékű.
+
+[^4]: A 2. § (1) bekezdés nyitó szövegrésze a 71/2012. (XII. 14.) BM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés b)–c) pontját a 71/2012. (XII. 14.) BM rendelet 10. § (3) bekezdés a) pontja hatályon kívül helyezte.
