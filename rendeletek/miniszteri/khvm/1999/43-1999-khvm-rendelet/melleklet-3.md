@@ -6,7 +6,7 @@
 
 ## aa) állattartó telepi vízhasználat: üzemi körülmények között végzett állattartás vízigényének kielégítése,
 
-## ab)[^13] ivóvízhasználat: annál a tevékenységnél jelentkező vízhasználat, ahol a közegészségügyi előírások alapján a területileg illetékes ÁNTSZ a technológiai vízhasznosítás több mint 50%-ára vonatkozóan kötelezően előírja az ivóvízminőség használatát, ideértve a gyógyvíznek minősülő ásványvizek palackozását is,
+## ab)[^13] ivóvízhasználat: annál a tevékenységnél jelentkező vízhasználat, ahol a közegészségügyi előírások alapján a fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi) népegészségügyi intézete a technológiai vízhasznosítás több mint 50%-ára vonatkozóan kötelezően előírja az ivóvízminőség használatát, ideértve a gyógyvíznek minősülő ásványvizek palackozását is,
 
 ## ac) egyéb vízhasználat: minden más, gazdálkodási tevékenységgel összefüggő vízhasználat,
 
@@ -64,5 +64,5 @@
 
 | Környezetvédelmi és Vízügyi Minisztérium | KvVM Kövice Budapest | 10032000-01220263-53000004 |
 
-[^13]: A 2. számú melléklet a) pont ab) alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 80. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^13]: A 2. számú melléklet a) pont ab) alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 80. pontja, a 151/2012. (XII. 29.) VM rendelet 65. §-a szerint módosított szöveg.
 [^14]: A 3. számú mellékletet a 33/2006. (VII. 26.) KvVM rendelet 2. §-a iktatta be.
