@@ -30,7 +30,7 @@ b) a szociális intézmény a feltételnek 2009. december 31-én egyébként meg
 
 (13) A (12) bekezdésben nem említett esetben a nem állami fenntartású tartós bentlakásos intézmény elhelyezésére szolgáló ingatlan a fenntartó kizárólagos tulajdonában vagy haszonélvezeti jogában kell hogy legyen, vagy a fenntartónak az intézményt helyi önkormányzattal, illetve társulással kötött ellátási szerződés keretében kell működtetnie, ha ezt a 2009. december 31-én hatályos szabályok számára előírták, vagy a szociális intézmény a feltételnek 2009. december 31-én egyébként megfelelt.
 
-(14)[^70]
+(14)[^98]
 
 (15) Ha a szociális szolgáltató, intézmény székhelye, telephelye nem felel meg a 6. § (4) bekezdésében foglaltaknak, és a fenntartó a (14) bekezdés szerinti kérelmet határidőben nem nyújtja be, a működést engedélyező szerv a működési engedélyt a határidő lejártát követő huszonkét munkanapon belül hivatalból visszavonja. Ha az ellátottak számára nyitva álló egyéb helyiség nem az ellátási területen van, és a fenntartó a (14) bekezdés szerinti kérelmet határidőben nem nyújtja be, valamint a működési engedély visszavonására e bekezdés szerint nincs szükség, a működést engedélyező szerv a határidő lejártát követő huszonkét munkanapon belül az ellátási területen kívül található, ellátottak számára nyitva álló egyéb helyiséget a működési engedélyből hivatalból törli.
 
@@ -38,9 +38,9 @@ b) a szociális intézmény a feltételnek 2009. december 31-én egyébként meg
 
 (17) Ha az egyes szociális tárgyú kormányrendeletek módosításáról szóló 174/2009. (VIII. 29.) Korm. rendelet – 2009. december 31-én hatályos – 35. § (8) bekezdése alapján az ellenőrzést nem folytatták le, azt 2010. február 28-áig le kell folytatni, és a működési engedélyt e rendelet szabályainak megfelelően módosítani kell. Ha házi segítségnyújtás esetén a 2009. szeptember 1-jén ellátott személyek száma magasabb, mint amelyet a biztosított feltételek lehetővé tesznek, a fenntartó kérelmére legfeljebb a 2009. szeptember 1-jén ellátott személyek számával megegyező ellátotti létszámra 2010. december 31-éig hatályos, vagy – ha a szociális szolgáltatónak, intézménynek a házi segítségnyújtásra már az ellenőrzéskor 2010. december 31-ét követően hatályát vesztő ideiglenes működési engedélye van – az abban meghatározott időpontig hatályos ideiglenes működési engedélyt kell kiadni.
 
-(18)[^71] A (15)–(17) bekezdés alapján a működési engedély visszavonására, illetve hivatalból történő módosítására a 15. § szerinti feladat- és hatáskörében eljáró Hivatal is jogosult.
+(18)[^99] A (15)–(17) bekezdés alapján a működési engedély visszavonására, illetve hivatalból történő módosítására a 15. § szerinti feladat- és hatáskörében eljáró Hivatal is jogosult.
 
 (19) A működést engedélyező szerv a fenntartó kérelmére az Szt. 92/C. § – 2010. január 1-jét megelőzően hatályos – (2) és (4) bekezdése alapján elkülönített pénzösszeg szabad felhasználását engedélyezi.
 
-[^70]: A 22. § (14) bekezdés második mondatát a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^71]: A 22. § (18) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § g) pontja szerint módosított szöveg.
+[^98]: A 22. § (14) bekezdés második mondatát a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^99]: A 22. § (18) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § g) pontja szerint módosított szöveg.

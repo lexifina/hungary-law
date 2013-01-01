@@ -2,15 +2,15 @@
 
 ## 1. A fenntartóval és a szociális szolgáltatóval, intézménnyel kapcsolatos iratok:
 
-## 1.1. ha a fenntartó a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás vagy települési önkormányzatok többcélú kistérségi társulása, csatolni kell a társulási szerződés másolatát;
+## 1.1.[^110] ha a fenntartó a helyi önkormányzatok társulása, csatolni kell a társulási szerződés másolatát;
 
 ## 1.2. ha a fenntartó egyéni vállalkozó, be kell mutatni az egyéni vállalkozói igazolványt vagy az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, a fenntartó hatályos adatait tartalmazó igazolást (igazolásokat), vagy csatolni kell a fenntartónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, három hónapnál nem régebbi hatósági bizonyítványt;
 
 ## 1.3. ha a fenntartó cég, csatolni kell a fenntartó három hónapnál nem régebbi cégkivonatát;
 
-## 1.4.[^79] ha a fenntartó egyesület, alapítvány vagy közalapítvány, csatolni kell a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonatot;
+## 1.4.[^111] ha a fenntartó egyesület, alapítvány vagy közalapítvány, csatolni kell a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonatot;
 
-## 1.5.[^80] egyházi fenntartó esetén
+## 1.5.[^112] egyházi fenntartó esetén
 
 ## 1.5.1. csatolni kell a fenntartó nyilvántartásba vett adatait igazoló hatósági bizonyítványt, vagy
 
@@ -20,7 +20,7 @@
 
 ## 1.7. egyházi és nem állami fenntartó esetén csatolni kell annak egy hónapnál nem régebbi közokirati igazolását, hogy a fenntartó köztartozásmentes adózónak minősül;
 
-## 1.8.[^81] ha a szociális szolgáltató, intézmény költségvetési szerv, csatolni kell az alapító okirat másolatát és a törzskönyvi nyilvántartásba történt bejegyzésről szóló határozat és annak mellékletének másolatát.
+## 1.8.[^113] ha a szociális szolgáltató, intézmény költségvetési szerv, csatolni kell az alapító okirat másolatát és a törzskönyvi nyilvántartásba történt bejegyzésről szóló határozat és annak mellékletének másolatát.
 
 ## 2. A szociális szolgáltatással kapcsolatos iratok:
 
@@ -44,13 +44,15 @@
 
 ## 2.4.3. csatolni kell a biztosító igazolását arról, hogy a szociális szolgáltatáshoz használni kívánt gépjárműre kötelező gépjármű-felelősségbiztosítási és casco biztosítási szerződéssel rendelkeznek;
 
-## 2.5. csatolni kell a szociális szolgáltató, intézmény és a külső férőhelyek elhelyezésére szolgáló ingatlan tulajdoni lapjának másolatát, továbbá – ha az a használati jogcímet nem igazolja – a használati jogcímet bizonyító egyéb okirat másolatát;
+## 2.5.[^114] csatolni kell a szociális szolgáltató, intézmény, és a külső férőhelyek elhelyezésére szolgáló, valamint a lakhatási szolgáltatást biztosító ingatlan tulajdoni lapjának másolatát, továbbá – ha az a használati jogcímet nem igazolja – a használati jogcímet bizonyító egyéb okirat másolatát;
 
 ## 2.6. ha az egyházi, nem állami fenntartó a szociális szolgáltató, intézmény által nyújtandó szociális szolgáltatásra ellátási szerződést kötött, csatolni kell az ellátási szerződés másolatát;
 
 ## 2.7. ha a fenntartó beszerezte, csatolni kell az előzetes szakhatósági hozzájárulást, illetve ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki, a használatbavételi engedély, illetve a fennmaradási engedély másolatát.
 
-## 2.8.[^82] ha a fenntartó befogadást kér, és a Hivatal előzetes szakhatósági hozzájárulását nem csatolja, a nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszáma esetében csatolni kell az Szt. 58/A. § (2b)–(2c) bekezdése szerinti nyilatkozatot, illetve azon szolgáltató, ellátotti szám, férőhelyszám esetében, amellyel az ellátásra köteles helyi önkormányzat, megyei fenntartó feladatellátási kötelezettségének tesz eleget, illetve amelyre nézve a fenntartó európai uniós vagy hazai fejlesztési támogatásban részesül, a jegyző vagy a megyei fenntartó vezetője feladatellátást igazoló nyilatkozatát, illetve a pályázat elnyerését igazoló dokumentumot.
+## 2.8.[^115] ha a fenntartó befogadást kér, és a Hivatal előzetes szakhatósági hozzájárulását nem csatolja, a nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszáma esetében csatolni kell az Szt. 58/A. § (2b)–(2c) bekezdése szerinti nyilatkozatot, illetve azon szolgáltató, ellátotti szám, férőhelyszám esetében, amellyel az ellátásra köteles helyi önkormányzat, megyei kirendeltség feladatellátási kötelezettségének tesz eleget, illetve amelyre nézve a fenntartó európai uniós vagy hazai fejlesztési támogatásban részesül, a jegyző vagy a megyei kirendeltség igazgatója feladatellátást igazoló nyilatkozatát, illetve a pályázat elnyerését igazoló dokumentumot.
+
+## 2.9.[^116] ha támogatott lakhatás esetén az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat az Szt. 75. § (3) bekezdése alapján biztosítják, csatolni kell az erről szóló megállapodást.
 
 ## 3. Az időszakos férőhelybővítés esetén csatolandó iratok:
 
@@ -64,7 +66,7 @@
 
 ## 3.5. csatolni kell a 2.7. pont szerinti iratokat, ha az időszakos férőhelyeket nem a szociális intézmény épületében alakítják ki, vagy a működési engedély módosítása esetén a szakhatóságok bevonása a 7. § (5) bekezdése alapján szükséges.
 
-## 4.[^83]
+## 4.[^117]
 
 ## Kiegészítő szabályok:
 
@@ -74,8 +76,11 @@
 
 3. számú melléklet a 321/2009. (XII. 29.) Korm. rendelethez
 
-[^79]: A 2. számú melléklet 1.4. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^80]: A 2. számú melléklet 1.5. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^81]: A 2. számú melléklet 1.8. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^82]: A 2. számú melléklet 2. pont 2.8. alpontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^83]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^110]: A 2. számú melléklet 1. pont 1.1. alpontja a 349/2012. (XII. 12.) Korm. rendelet 60. § d) pontja szerint módosított szöveg.
+[^111]: A 2. számú melléklet 1.4. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^112]: A 2. számú melléklet 1.5. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^113]: A 2. számú melléklet 1.8. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^114]: A 2. számú melléklet 2.5. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdésével megállapított szöveg.
+[^115]: A 2. számú melléklet 2. pont 2.8. alpontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be, szövege a 349/2012. (XII. 12.) Korm. rendelet 59. § l) pontja szerint módosított szöveg.
+[^116]: A 2. számú melléklet 2.9. pontját a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése iktatta be.
+[^117]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
