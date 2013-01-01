@@ -38,7 +38,7 @@ s) a települési önkormányzatok és hivatalaik,
 
 t) az országos önkormányzati szövetségek,
 
-u) a társadalmi szervezetek országos, regionális, megyei és kistérségi szinten külön jogszabály[^24] alapján létrehozott egyeztető fóruma regisztrált tagjai.
+u)[^24] a társadalmi szervezetek országos, regionális, megyei szinten létrehozott egyeztető fóruma regisztrált tagjai.
 
 (3) A (2) bekezdés i) és j) pontjában meghatározott szervezetek szervezeti egységenként egy hozzáférést igényelhetnek.
 
@@ -60,7 +60,7 @@ u) a társadalmi szervezetek országos, regionális, megyei és kistérségi szi
 [^21]: A 8. § (2) bekezdés j) pontja a 300/2011. (XII. 22.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg. [A 324/2011. (XII. 28.) Korm. rendelet 11. § a) pontjával elrendelet módosítás, amely szerint a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép, nem vezethető át.]
 [^22]: A 8. § (2) bekezdés l) pontja a 67/2012. (IV. 5.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^23]: A 8. § (2) bekezdés o)–r) pontját a 67/2012. (IV. 5.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
-[^24]: A megyei (fővárosi) közigazgatási hivataloknak a kistérségi fejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával és a térségi fejlesztési tanács átalakulásával kapcsolatos feladatairól, a megalakulással és átalakulással kapcsolatos eljárás rendjéről, továbbá az egyeztető fórumok létrejöttének és működésének szabályairól szóló 258/2004. (IX. 16.) Korm. rendelet.
+[^24]: A 8. § (2) bekezdés u) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^25]: A 8. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^26]: A 8. § (6) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^27]: A 8. § (8) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.

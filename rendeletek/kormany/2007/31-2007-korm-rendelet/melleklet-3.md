@@ -4,7 +4,7 @@
 
 | 1. | Adatkezelő szervezet | Adatgyűjtés megnevezése | Az 1. számú melléklet témaköre | Adatátadás gyakorisága | Vonatkoztatási egység | Átadási határnap |
 
-| 2. | NFSZ | Munkaügyi központok kirendeltségei | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 2. | NFSZ | Fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának munkaügyi kirendeltségei | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 3. | ÁNTSZ | Az alapellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -40,7 +40,7 @@
 
 | 21. | NMH | Munkanélküliség adatok | 1.1.4. | negyedévente | település | frissítést követő 30. nap |
 
-| 22. | NMH | Kistérségi foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | kistérség | frissítést követő 30. nap |
+| 22. | NMH | Járási foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | járás | frissítést követő 30. nap |
 
 | 23. | VM | Nitrát-érzékenységi térkép | 4.5. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -72,7 +72,7 @@
 
 | 37. | KKK | Kerékpárút országos törzshálózati adatok | 3.1.1. | évente vagy frissítést követően | ország | frissítést követő 90. nap |
 
-| 38. | KÖH | Műemlékek és régészeti lelőhelyek településenként számszerűsített kimutatása | 4.10.1. és 4.10.4. | frissítést követően | település | frissítést követő 90. nap |
+| 38. | régészeti örökség és a műemléki érték védelméért felelős miniszter | Műemlékek és régészeti lelőhelyek településenként számszerűsített kimutatása | 4.10.1. és 4.10.4. | frissítést követően | település | frissítést követő 90. nap |
 
 | 39. | KSH | Területi számjelrendszer | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -88,9 +88,9 @@
 
 | 46. | KSH | Vállalati K+F tevékenység | 1.1.6. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
-| 47. | KSH | High-tech, medium-high-tech, valamint tudás-intenzív üzleti szolgáltatást végző működő vállalkozások adatai | 1.1.5. és 1.1.6. | évente vagy frissítést követően | kistérség | frissítést követő 90. nap |
+| 47. | KSH | High-tech, medium-high-tech, valamint tudás-intenzív üzleti szolgáltatást végző működő vállalkozások adatai | 1.1.5. és 1.1.6. | évente vagy frissítést követően | járás | frissítést követő 90. nap |
 
-| 48. | KSH | Működő ipari vállalkozások száma létszám kategória szerint | 1.1.4. és 1.1.5. | évente vagy frissítést követően | kistérség | frissítést követő 90. nap |
+| 48. | KSH | Működő ipari vállalkozások száma létszám kategória szerint | 1.1.4. és 1.1.5. | évente vagy frissítést követően | járás | frissítést követő 90. nap |
 
 | 49. | KSH | Ipari alkalmazottak létszám-kategória szerinti adatai | 1.1.4. és 1.1.5. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
@@ -172,7 +172,7 @@
 
 | 88. | NFM | Egységes Monitoring Információs Rendszer (EMIR), INTERREG Monitoring és Információs Rendszer (IMIR) | 5.2. | havonta | projekt | frissítést követő 15. nap |
 
-| 89. | NMHH | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | kistérség | frissítést követő 90. nap |
+| 89. | NMHH | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | járás | frissítést követő 90. nap |
 
 | 90. | NKH | Új, megszűnt, illetve korszerűsítés miatt átépített vasúti pályaszakaszok hossza, a vasútvonal megnevezése, az átépítés helye a vonalon szelvénytől szelvényig | 3.1.2. | frissítést követően | ország, vasútvonal, vonalszakasz | frissítést követő 90. nap |
 
@@ -280,7 +280,7 @@
 
 | 17. | Központi Statisztikai Hivatal | KSH |
 
-| 18. | Kulturális Örökségvédelmi Hivatal | KÖH |
+| 18. |  |  |
 
 | 19. | Magyar Államkincstár | Kincstár |
 

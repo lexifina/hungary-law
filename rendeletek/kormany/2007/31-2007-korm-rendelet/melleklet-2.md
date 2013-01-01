@@ -1,6 +1,6 @@
 ## A TeIR adatok témakörei összefüggésben a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló kormányrendeletben meghatározott téradattémákkal
 
-## 0M11607_0
+## 2K29554N_0
 
 |  | A | B | C |
 
@@ -144,13 +144,13 @@
 
 | 70. |  | 4.10. Épített környezet |  |  |
 
-| 71. |  | 4.10.1. Műemlékek védelme | kultúráért felelős miniszter |
+| 71. |  | 4.10.1. Műemlékek védelme | régészeti örökség és a műemléki érték védelméért felelős miniszter |
 
 | 72. |  | 4.10.2. Helyi építészeti értékek védelme | építésügyért felelős miniszter |
 
 | 73. |  | 4.10.3. Közparkok, közkertek védelme | településfejlesztésért és településrendezésért felelős miniszter |
 
-| 74. |  | 4.10.4. Kulturális örökség védelme | kultúráért felelős miniszter |
+| 74. |  | 4.10.4. Kulturális örökség védelme | régészeti örökség és a műemléki érték védelméért felelős miniszter |
 
 | 75. |  | 4.11. Tájvédelem, egyedi tájértékek katasztere | természetvédelemért felelős miniszter |
 
@@ -178,4 +178,4 @@
 
 2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^36]
 
-[^36]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 341/2010. (XII. 28.) Korm. rendelet 14. §-a, a 351/2010. (XII. 30.) Korm. rendelet 174. §-a, a 300/2011. (XII. 22.) Korm. rendelet 18. § (2)–(3) bekezdése és 30. § g) pontja, a 324/2011. (XII. 28.) Korm. rendelet 11. § b)–c) pontja, a 23/2012. (II. 29.) Korm. rendelet 22. §-a, a 67/2012. (IV. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 296/2012. (X. 17.) Korm. rendelet 27. § d)–f) pontja szerint módosított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 174. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. melléklet 03. pontjában az „OMMF” szövegrésze helyébe a „Kormányhivatal” szöveg lép, nem vezethető át.]
+[^36]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 341/2010. (XII. 28.) Korm. rendelet 14. §-a, a 351/2010. (XII. 30.) Korm. rendelet 174. §-a, a 300/2011. (XII. 22.) Korm. rendelet 18. § (2)–(3) bekezdése és 30. § g) pontja, a 324/2011. (XII. 28.) Korm. rendelet 11. § b)–c) pontja, a 23/2012. (II. 29.) Korm. rendelet 22. §-a, a 67/2012. (IV. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 296/2012. (X. 17.) Korm. rendelet 27. § d)–f) és a)–c) pontja, a 394/2012. (XII. 20.) Korm. rendelet 19. §-a szerint módosított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 174. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. melléklet 03. pontjában az „OMMF” szövegrésze helyébe a „Kormányhivatal” szöveg lép, nem vezethető át.]
