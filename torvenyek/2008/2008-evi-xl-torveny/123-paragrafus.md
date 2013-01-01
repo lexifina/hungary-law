@@ -2,7 +2,7 @@
 
 (2) Bármely földgázipari vállalkozásban a szavazatok 25%-át, 50%-át vagy 75%-át meghaladó szavazati jog vagy befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulása is szükséges.
 
-(2a) Nem kell a Hivatal előzetes hozzájárulása a (2) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyást szerző el nem éri a következő Hivatali hozzájáruláshoz kötött mértéket. Az (1) bekezdésben meghatározott bejelentési kötelezettség alól a befolyást szerző nem mentesül. Az (1)–(2) bekezdésekben meghatározottak vonatkoznak az e törvény hatálya alá tartozó engedélyesek és a VET. hatálya alá tartozó engedélyesek közötti befolyásszerzésre is.
+(2a) A földgáz biztonsági készletezést végző földgáztároló engedélyesben történő szavazati jog vagy befolyásszerzés kivételével nem kell a Hivatal előzetes hozzájárulása a (2) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyást szerző el nem éri a következő Hivatali hozzájáruláshoz kötött mértéket. Az (1) bekezdésben meghatározott bejelentési kötelezettség alól a befolyást szerző nem mentesül. Az (1)–(2) bekezdésekben meghatározottak vonatkoznak az e törvény hatálya alá tartozó engedélyesek és a VET. hatálya alá tartozó engedélyesek közötti befolyásszerzésre is.
 
 (3) A (2) bekezdés szerinti befolyásszerzés nem igényli a Hivatal hozzájárulását
 

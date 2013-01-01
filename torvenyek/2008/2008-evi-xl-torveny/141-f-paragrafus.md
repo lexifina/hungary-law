@@ -1,0 +1,1 @@
+141/F. § A volt közüzemi nagykereskedő az egyetemes szolgáltatók ellátására beszerzett földgázt tartalmazó új földgáz kereskedelmi szerződését, valamint a Mód. 2. tv. hatálybalépésekor hatályban lévő, egyetemes szolgáltatók ellátására beszerzett földgázt tartalmazó kereskedelmi szerződések módosítását köteles az aláírást követő 3 munkanapon belül megküldeni a Hivatal részére.

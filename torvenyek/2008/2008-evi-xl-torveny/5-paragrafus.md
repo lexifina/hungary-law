@@ -14,6 +14,6 @@ f) kapcsolattartás harmadik felekkel, a Hivatallal és az Európai Unió más t
 
 g) a szállítási rendszerüzemeltető által nyújtott szolgáltatásokkal kapcsolatos valamennyi díj beszedése,
 
-h) a regionális piacok kialakítása, illetve a liberalizációs folyamat megkönnyítése érdekében közös vállalkozások, illetve szervezett földgázpiac létrehozása,
+h) a regionális piacok kialakítása, illetve a liberalizációs folyamat megkönnyítése érdekében közös vállalkozások létrehozása, valamint a szervezett földgázpiac kialakításának elősegítése,
 
 i) a napi üzemvitelhez szükséges valamennyi vállalati szolgáltatás, így különösen a napi üzemvitelhez szükséges jogi, könyvvezetési és informatikai szolgáltatások biztosítása.

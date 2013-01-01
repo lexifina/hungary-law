@@ -1,1 +1,1 @@
-75. § A kapacitáslekötést követően rendelkezésre álló szabad kapacitás közzétételének és lekötésének szabályait, továbbá kapacitáshiány esetén az igény-kielégítés rendjét külön jogszabály határozza meg.
+75. § A kapacitáslekötést követően rendelkezésre álló szabad kapacitás közzétételének és lekötésének szabályait, továbbá kapacitáshiány esetén az igény-kielégítés rendjét a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet és az Üzemi és Kereskedelmi Szabályzat határozza meg.

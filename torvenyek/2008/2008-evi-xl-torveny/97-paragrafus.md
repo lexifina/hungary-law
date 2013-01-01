@@ -14,10 +14,4 @@ b) II. fokozata állapítható meg az (1) bekezdés a) és b) pontja szerinti es
 
 (3) A földgázellátási válsághelyzet fennállásáról és fokozatáról – a Hivatalnak a fokozatba sorolásra vonatkozó javaslatot is tartalmazó kezdeményezésére –, valamint a válsághelyzet megszűnéséről a miniszter – határozatban dönt.
 
-(4) A minisztert a (3) bekezdés szerinti, továbbá a földgázellátási válsághelyzet fennállása alatt teendő intézkedésekre vonatkozó döntésének előkészítése során tanácskozási jogkörrel bizottság (a továbbiakban: Bizottság) segíti.
-
-(5) A Bizottság feladata
-
-a) a földgázellátási helyzet értékelése és
-
-b) a földgázellátási válsághelyzet fennállása esetén teendő intézkedésekre vonatkozó javaslat kialakítása.
+(4)–(5)

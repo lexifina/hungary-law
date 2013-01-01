@@ -22,6 +22,8 @@
 
 9.
 
+9a. Egyensúlyozó platform: az együttműködő földgázrendszer napi egyensúlyozását és a gáznap végi egyensúlytalanságok elszámolását segítő speciális, interneten keresztül elérhető elektronikus felület, amelyen a rendszerüzemeltetők és rendszerhasználók napi egyensúlyozási feladataik ellátásához szükséges kapacitás és földgáz adásvételi ügyleteket köthetnek.
+
 10. Együttműködő földgázrendszer: az összekapcsolt szállítóvezeték, a szállítóvezetékhez közvetlenül kapcsolódó elosztóvezeték, a földgáztároló, valamint a részleges szigetüzem.
 
 11. Ellátás biztonsági szint: a földgázellátásnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott felkészülési feltételei, amelyek mértékéig a felhasználók földgázellátása rendkívüli intézkedések nélkül még biztosítható.

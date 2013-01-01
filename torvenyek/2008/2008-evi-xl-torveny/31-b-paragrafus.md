@@ -4,7 +4,7 @@ a) a felmondás visszaigazolásáról a felhasználási hely egyedi azonosító 
 
 b) a felmondás benyújtásakor nem teljesített szerződéses feltételekről.
 
-(2) Az (1) bekezdés b) pontja szerinti esetben a felhasználó felmondása a megjelölt szerződési feltételek teljesülésével hatályosul.
+(2) Az (1) bekezdés b) pontja szerinti esetben a földgázkereskedő a feltételek teljesítése érdekében határidőt biztosít. A felhasználó felmondása a megjelölt szerződési feltételek teljesülésével hatályosul.
 
 (3) Ha a felhasználó önállóan jár el, köteles az (1) bekezdés a) pontja szerinti értesítést a kézhezvételt követően az új földgázkereskedőnek megfelelő időben eljuttatni a földgázkereskedő (4) bekezdés szerinti kötelezettsége teljesítése érdekében.
 

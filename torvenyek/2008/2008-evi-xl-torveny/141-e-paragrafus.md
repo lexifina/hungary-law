@@ -1,0 +1,1 @@
+141/E. § Ha az egyetemes szolgáltató a 141–141/B. §-ok hatályán kívül eső szerződésben foglalt földgázmennyiséggel látja el a felhasználókat, az árelőkészítés során a Hivatal e szerződést a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló miniszteri rendelet szerinti földgáz aktuális árán veszi figyelembe.

@@ -18,11 +18,11 @@ d) a felhasználót ellátó földgázkereskedő a földgázelosztónál – a f
 
 e) a felhasználó a fogyasztásmérő berendezést szándékosan vagy gondatlanul megrongálja, a fogyasztásmérő berendezésen, vagy annak ki- és belépő pontján, a kerülővezeték elzáróján, vagy a csatlakozóvezeték egyéb pontjain elhelyezett zárópecsétet (plombát) eltávolítja, illetve ezek sérülését, hiányát a földgázelosztónak vagy a földgázkereskedőnek nem jelenti be,
 
-f) a felhasználó nem rendelkezik érvényes kapacitáslekötési szerződéssel, valamint érvényes földgáz-kereskedelmi szerződéssel.
+f) a felhasználó nem rendelkezik érvényes földgáz-kereskedelmi szerződéssel, továbbá ha a saját magát ellátó felhasználó nem rendelkezik érvényes kapacitáslekötési szerződéssel.
 
 (2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig függeszthető fel, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást a megszűnés tényéről való tudomásszerzéstől számított 2 munkanapon – lakossági fogyasztó esetében 24 órán – belül biztosítani kell.
 
-(3) A földgázelosztó a felhasználási helyre való bejutás érdekében az illetékes jegyzőhöz fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
+(3) A földgázelosztó a felhasználási helyre való bejutás érdekében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
 
 a) a fogyasztásmérő berendezés leolvasását, ellenőrzését, cseréjét,
 
@@ -30,7 +30,7 @@ b) szerződésszegés vagy szerződés nélküli vételezés esetén a földgáz
 
 c) a felhasználói berendezés ellenőrzését.
 
-(4) A jegyző határozatában
+(4) A járási hivatal határozatában
 
 a) a fogyasztásmérő berendezés leolvasásának, ellenőrzésének, cseréjének,
 

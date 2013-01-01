@@ -4,7 +4,7 @@
 
 114. § (1) Az e törvény szerinti engedélyköteles tevékenységek a következők:
 
-a)
+a) korlátozott földgáz-kereskedelem,
 
 b) a szállítási rendszerüzemeltetés,
 

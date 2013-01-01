@@ -1,3 +1,1 @@
-140/B. § (1) A Hivatal a rendszerhasználati és a csatlakozási díjakat, valamint alkalmazásuk feltételeit első alkalommal 2012. január 1-jei hatállyal állapítja meg.
-
-(2) A Hivatal az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 105. § (6) bekezdés szerinti költség felülvizsgálatot első alkalommal 2012. december 31-ig folytatja le.
+140/B. § A Hivatal az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvénnyel (a továbbiakban: Mód. 2. törvény) megállapított 104/A. § (1) bekezdése szerinti költség-felülvizsgálatot 2013. december 31-ig folytatja le.

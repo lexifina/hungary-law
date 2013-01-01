@@ -1,21 +1,7 @@
-143. § (1) A szállítási rendszerirányító erre a célra kijelölt szervezeti egysége 2010. július 1-jétől napi földgáz és kapacitás kereskedelmi piacot hoz létre és működtet. A napi földgáz és kapacitáskereskedelmi piac az együttműködő földgázrendszer napi egyensúlyozását segítő speciális kereskedelmi eszköz.
+143. § (1) A szállítási rendszerirányító 2013. január 15-ig köteles az egyensúlyozó platform szabályzatát jóváhagyásra benyújtani a Hivatalhoz.
 
-(1a) A napi földgáz- és kapacitás kereskedelmi piac kizárólag akkor szűnik meg, ha a 46–49. §-ok szerinti szervezett földgázpiac ellátja annak e törvény szerinti feladatait.
+(2) Az egyensúlyozó platform (1) bekezdés szerint benyújtott szabályzatának jóváhagyására irányuló eljárásban az ügyintézési határidő 30 nap.
 
-(2) A napi földgáz és kapacitás kereskedelmi piacon az ügyletek pénzügyi elszámolását külön törvényben meghatározott, a szállítási rendszerirányító által kiírt pályázaton nyertes elszámolóház végzi.
+(3) A napi földgáz és kapacitáskereskedelmi piac az egyensúlyozó platform szabályzatának jóváhagyását követő napon megszűnik.
 
-(3) A napi földgáz és kapacitás kereskedelmi piac az együttműködő földgázrendszer napi egyensúlyának megteremtéséhez szükséges földgáz és kapacitás beszerzése érdekében létrehozott, az adásvételek lebonyolítását folyamatosan, elektronikus felületen biztosító kereskedési rendszer, amelyhez a földgázkereskedők, a saját jogon eljáró felhasználók, a földgáztermelők, és a rendszerüzemeltetők jogosultak hozzáférni.
-
-(4) A szállítási rendszerirányító olyan adatforgalmi és informatikai rendszerrel kell rendelkeznie, amely – a szervezett földgázpiac létrehozásáig – biztosítja a napi földgáz és kapacitás kereskedelmi piac internet alapú működtetését. Az adatforgalmi és informatikai rendszert az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint úgy kell kialakítani, hogy adatcserére alkalmas legyen a rendszerüzemeltetők informatikai rendszereivel. A napi földgáz és kapacitás kereskedelmi piacot működtető szállítási rendszerirányító köteles az üzleti titoknak minősülő információk bizalmas kezelését biztosítani. A működés feltételeit, valamint az adás-vételi ügyletben résztvevők jogait és kötelezettségeit külön jogszabály, illetve az Üzemi és Kereskedelmi Szabályzat tartalmazza. A napi földgáz és kapacitás kereskedelmi piaci tevékenységnek a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie, és elő kell segítenie a hatékony piaci kereskedelmet.
-
-(5) A szállítási rendszerüzemeltető a szervezett földgázpiac létrehozásáig a napi egyensúlyozási feladatait – a 9. § szerinti – a rendszerhasználók által a nominálás során rendelkezésére bocsátott források és a saját rendelkezésében lévő, külön jogszabályban meghatározott egyensúlyozó eszközök mellett, a napi földgáz és kapacitás kereskedelmi piacról a rendszerhasználók részére allokáltan átvett gázmennyiségek felhasználásával végzi.
-
-(6) A szállítási rendszerüzemeltető és a rendszerhasználók a hidraulikai és a kereskedelmi egyensúly biztosításához a szervezett földgázpiac létrehozásáig – a 91. § (3) bekezdés szerinti saját rendelkezésű egyensúlyozó eszközök mellett – a napi földgáz és kapacitás kereskedelmi piacról beszerzett földgázmennyiségeket vehetnek igénybe.
-
-(7) A napi földgáz és kapacitás kereskedelemi piachoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerirányítóval, az ügyletek pénzügyi elszámolására az elszámolóházzal szerződést köt. A piaci szereplők közötti adás-vétel az elszámolóház közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján szabványosított ügyletek formájában történik. A napi földgáz és kapacitás kereskedelmi piac működtetésének díját a szállítási rendszerüzemeltetési díj tartalmazza.
-
-(8)
-
-(9) A szállítási rendszerirányító köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a napi földgáz- és kapacitáskereskedelmi piac informatikai, működési feltételeit és szabályzatát.
-
-(10) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerirányító javaslatot tesz a Hivatalnak a napi földgáz és kapacitás kereskedelmi, valamint a szervezett piacon történő kereskedés felfüggesztésére.
+(4) A napi földgáz és kapacitáskereskedelmi piacon 2013. január 1-jén tagsággal rendelkezők a napi földgáz és kapacitáskereskedelmi piac megszűnését követő 45 napig jogosultak a szervezett földgázpiacon ügyleteket kötni.

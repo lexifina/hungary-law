@@ -28,7 +28,7 @@ c) a határidő eredménytelen eltelte után más engedélyest jelölhet ki a jo
 
 (3) A Hivatal az (1)–(2) bekezdésekben felsorolt intézkedéseket egyidejűleg is alkalmazhatja. A (2) bekezdés c) pontja szerinti kijelölés esetén a Hivatal dönt az engedélyes tevékenység felfüggesztéséről, vagy az engedély teljes vagy részleges visszavonásáról. A bírság ismételten kiszabható. A kiszabható bírság legmagasabb összegét külön jogszabály határozza meg.
 
-(3a) A Hivatal a folyamatos ellátás biztosítása érdekében a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott eljárás keretében más engedélyest is kijelölhet a tevékenység folytatására, ha az engedélyben foglalt tevékenységet nem a jogszabályi előírásoknak megfelelően folytatják, és ez közvetlenül veszélyezteti a biztonságos földgázellátást, illetve közvetlenül a földgázrendszer jelentős zavarát idézheti elő.
+(3a) A Hivatal kormányrendeletben meghatározott eljárás keretében más engedélyest is kijelölhet a tevékenység folytatására, ha az engedélyben foglalt tevékenységet nem a jogszabályi előírásoknak megfelelően folytatják, és ez közvetlenül veszélyezteti a folyamatos és biztonságos földgázellátást, illetve közvetlenül a földgázrendszer jelentős zavarát idézheti elő.
 
 (3b) A Hivatal más engedélyes kijelölése esetén az engedélyest kötelezheti arra, hogy a folyamatos és biztonságos földgázellátás érdekében a rendszerhasználókkal történő kapcsolattartás, a szerződéses feltételek teljesítéséhez szükséges nyilvántartásokat, adatokat a kijelölt engedélyesnek adja át.
 
