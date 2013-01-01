@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-59-20-0
 | --- | --- | --- |
 | 2009-03-01 | 1999-59-20-0B.3 | 59/1999. (XI. 26.) EüM rendelet |
 | 2012-06-11 | 1999-59-20-0B.4 | 51/2012. (VI. 8.) VM rendelet |
+| 2013-01-01 | 1999-59-20-0B.5 | 151/2012. (XII. 29.) VM rendelet |
