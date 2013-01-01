@@ -1,4 +1,6 @@
-72. § (1) A hatósági nyilvántartás nyilvános, és közhitelesen tanúsítja a benne szereplő kulturális örökség elemeinek védettségét. A kulturális örökség védelme érdekében a hatóság a nyilvántartás egyes adataihoz való hozzáférést miniszteri rendelet alapján korlátozhatja.
+72. § (1) A 71. § (1) és (2) bekezdése szerinti nyilvántartás nyilvános, és közhitelesen tanúsítja a benne szereplő kulturális örökség elemeinek védettségét. A kulturális örökség védelme érdekében a nyilvántartást vezető szerv a nyilvántartás egyes adataihoz való hozzáférést – az (1a) bekezdésben meghatározott kivételekkel – miniszteri rendelet alapján korlátozhatja.
+
+(1a) A 71. § (1) bekezdés a) és c)–d) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható.
 
 (2) A nyilvántartás a kulturális örökség elemeinek azonosításához szükséges adatokat és tényeket tartalmazza.
 

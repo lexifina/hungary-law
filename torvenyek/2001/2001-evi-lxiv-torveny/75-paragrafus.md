@@ -8,11 +8,11 @@
 
 a) ha a hatóság kulturális javak védetté nyilvánításában jár el, három hónap;
 
-b) az előzetes nyilatkozat, előzetes szakhatósági állásfoglalás, valamint ha a hatóság műemlékhez kapcsolódó örökségvédelmi hatósági jogkörében jár el, két hónap;
+b) az előzetes nyilatkozat, valamint ha a hatóság műemlékhez kapcsolódó örökségvédelmi hatósági jogkörében jár el, két hónap;
 
 c)
 
-d) a 30. § (5) bekezdésében meghatározott esetben a bejelentést követő naptól számított negyvenöt nap;
+d)
 
 e)
 

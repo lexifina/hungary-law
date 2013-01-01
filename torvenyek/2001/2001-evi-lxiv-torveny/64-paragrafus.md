@@ -10,4 +10,4 @@ d) vita esetén dönt arról, hogy valamely tárgy vagy jelenség a kulturális 
 
 e) a természetvédelmi őrszolgálat közreműködésével gondoskodik a régészeti örökség védelmével kapcsolatos feladatokról;
 
-f) ellátja a miniszter által – eseti vagy állandó jelleggel – meghatározott egyéb feladatokat.
+f) ellátja a miniszter vagy a kulturális javak esetében a kultúráért felelős miniszter által – eseti vagy állandó jelleggel – meghatározott egyéb feladatokat.

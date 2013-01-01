@@ -1,3 +1,3 @@
 ## Kisajátítás örökségvédelmi érdekből
 
-87. § Kulturális örökségvédelmi célok érdekében történő kisajátítási eljárás során a kulturális örökségvédelmi hatóság a kisajátítást kérő.
+87. § Örökségvédelmi célok érdekében történő kisajátítási eljárás során kormányrendeletben meghatározott szerv a kisajátítást kérő.

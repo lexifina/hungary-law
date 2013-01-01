@@ -4,4 +4,4 @@
 
 (2) A műemlékek helyreállítása és használata során törekedni kell a történetileg összetartozó ingatlanokat, ingatlanrészeket egyesítő megoldásokra, továbbá a korábban – az eredeti műemléki érték csorbításával – eltávolított, fellelhető és azonosítható alkotórészek, tartozékok és berendezési tárgyak visszahelyezésére.
 
-(3) A műemléki környezet területén minden változtatást, beavatkozást a műemlék városképi, illetőleg tájképi megjelenésének és értékei érvényesülésének kell alárendelni.
+(3) A műemléki környezet területén minden változtatást, beavatkozást a műemlék településképi, illetőleg tájképi megjelenésének és értékei érvényesülésének kell alárendelni.

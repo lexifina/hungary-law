@@ -6,10 +6,4 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-7/A. § A régészeti örökség védelme kiterjed:
-
-a) a régészeti örökség felkutatására, értékelésére, számbavételére, nyilvántartására;
-
-b) a kiemelten vagy fokozottan védendő területek meghatározására, védetté nyilvánítására;
-
-c) a régészeti örökség megőrzésére.
+7/A. § A régészeti örökség védelme kiterjed a régészeti örökség felkutatására, értékelésére, számbavételére, nyilvántartására, megőrzésére, a régészeti lelőhelyek védetté nyilvánítására.

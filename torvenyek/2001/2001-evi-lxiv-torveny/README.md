@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2012-05-05 | 2012. évi XL. törvény | 2001-64-00-00.22 |
 | 2012-06-30 | 2012. évi LXXXIV. törvény | 2001-64-00-00.23 |
 | 2012-07-01 | 2012. évi LXI. törvény | 2001-64-00-00.24 |
+| 2013-01-01 | 2012. évi CXCI. törvény | 2001-64-00-00.25 |

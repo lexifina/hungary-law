@@ -1,6 +1,6 @@
 ## A védettség létrejötte
 
-32. § A műemléki értékeket a miniszter a hatóság előterjesztése alapján rendeletben nyilvánítja védetté. A rendeletnek tartalmaznia kell:
+32. § A műemléki értékeket a miniszter rendeletben nyilvánítja védetté. A rendeletnek tartalmaznia kell:
 
 a) a védetté nyilvánítás tényét,
 

@@ -1,6 +1,6 @@
 63. § (1) A műemléken végzett építési tevékenységek esetén az építésügyi hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
 
-(2) A hatóság jogszabályban meghatározott esetekben az (1) bekezdésben említett engedélyezési eljárásokban szakhatóságként jár el.
+(2)
 
 (3) A hatóság engedélyezi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
 

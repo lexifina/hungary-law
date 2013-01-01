@@ -1,1 +1,1 @@
-40/A. § A műemlékvédelem sajátos tárgyai körében védelem alatt álló valamennyi ingatlan esetében biztosítani kell az építészeti, városépítészeti, valamint egyéb környezeti, természeti értékek fenntartható használatát és a hagyományos tájhasználat megőrzését.
+40/A. § A műemlékvédelem sajátos tárgyai körében védelem alatt álló valamennyi ingatlan esetében biztosítani kell az építészeti, településképi, valamint egyéb környezeti, természeti értékek fenntartható használatát és a hagyományos tájhasználat megőrzését.
