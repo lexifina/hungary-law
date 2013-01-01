@@ -4,6 +4,8 @@
 
 9. § (1) Az egészségvédelmi bírságot az ÁNTSZ-OTH 10032000-00281519-00000000 számú, a Magyar Államkincstárnál vezetett számlájára kell befizetni.
 
-(2) A megyei és a fővárosi kormányhivatal népegészségügyi szakigazgatási szerve és kistérségi népegészségügyi intézete az általa az adott hónapban az Nvt. alapján kiszabott egészségvédelmi bírság összegéről nyilvántartást vezet. A nyilvántartás személyazonosításra alkalmatlan, összesített adattartalmáról, valamint a tárgyhónapban bekövetkezett változásairól a fővárosi és a megyei kormányhivatal népegészségügyi szakigazgatási szerve a tárgyhónapot követő hónap 20. napjáig elektronikus úton tájékoztatja az ÁNTSZ-OTH-t.
+(2)[^2] A megyei és a fővárosi kormányhivatal népegészségügyi szakigazgatási szerve és járási (fővárosi kerületi) népegészségügyi intézet az általa az adott hónapban az Nvt. alapján kiszabott egészségvédelmi bírság összegéről nyilvántartást vezet. A nyilvántartás személyazonosításra alkalmatlan, összesített adattartalmáról, valamint a tárgyhónapban bekövetkezett változásairól a fővárosi és a megyei kormányhivatal népegészségügyi szakigazgatási szerve a tárgyhónapot követő hónap 20. napjáig elektronikus úton tájékoztatja az ÁNTSZ-OTH-t.
 
 (3) A befolyt egészségvédelmi bírság összegéről az ÁNTSZ-OTH nyilvántartást vezet. A nyilvántartás személyazonosításra alkalmatlan, összesített adattartalmáról, valamint a tárgynegyedévben bekövetkezett változásairól az ÁNTSZ-OTH a tárgynegyedévet követő hónap 20. napjáig tájékoztatja a fővárosi és a megyei kormányhivatal népegészségügyi szakigazgatási szervét.
+
+[^2]: A 9. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 88. §-a szerint módosított szöveg.
