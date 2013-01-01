@@ -44,7 +44,7 @@
 
 ## – mintavétel mélysége.
 
-19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^196]
+19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^198]
 
 Levélanalízis során betartandó követelmények
 
@@ -86,6 +86,4 @@ Mintavételi eszközök:
 
 – földhasználó neve, regisztrációs száma, postacíme, elektronikus levélcíme (amennyiben rendelkezik)
 
-– célprogram megnevezése
-
-[^196]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.
+[^198]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.

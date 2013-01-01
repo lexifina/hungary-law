@@ -4,15 +4,15 @@
 
 (2) Az MVH a kifizetési kérelem adatait a MePAR rendelet szerinti adatbázis adataival összeveti, és túligénylés esetén az érintett földhasználókat a túligénylés tisztázására szólítja fel.
 
-(3)[^86] Adott területre vonatkozóan ugyanazon kérelmező jogosult az egységes kérelemről szóló rendelet szerinti egységes kérelem keretén belül igényelhető területalapú, így az agrár-környezetgazdálkodási, a kedvezőtlen adottságú területek, valamint a Natura 2000 támogatások igénybevételére. Az MVH a kifizetési kérelem adatait a fenti területalapú támogatások adatbázisával összeveti, és ha ugyanazon terület vonatkozásában a kérelmezők személye nem azonos, úgy a támogatásra jogosultat egyszeri alkalommal a jogszerű földhasználat tisztázására szólítja fel.
+(3)[^87] Adott területre vonatkozóan ugyanazon kérelmező jogosult az egységes kérelemről szóló rendelet szerinti egységes kérelem keretén belül igényelhető területalapú, így az agrár-környezetgazdálkodási, a kedvezőtlen adottságú területek, valamint a Natura 2000 támogatások igénybevételére. Az MVH a kifizetési kérelem adatait a fenti területalapú támogatások adatbázisával összeveti, és ha ugyanazon terület vonatkozásában a kérelmezők személye nem azonos, úgy a támogatásra jogosultat egyszeri alkalommal a jogszerű földhasználat tisztázására szólítja fel.
 
-(4)[^87] A 3. § (1) bekezdés b) pont bd) alpontjának 1. pontja szerinti környezetvédelmi célú gyeptelepítés támogatás kifizetésének feltétele, hogy a támogatásra jogosult az adott földterületre:
+(4)[^88] A 3. § (1) bekezdés b) pont bd) alpontjának 1. pontja szerinti környezetvédelmi célú gyeptelepítés támogatás kifizetésének feltétele, hogy a támogatásra jogosult az adott földterületre:
 
 a) a 46/2009. (IV. 16.) FVM rendelet szerinti agrár-erdészeti intézkedés vonatkozásában helyt adó vagy részben helyt adó határozattal rendelkezzen, vagy
 
 b) a gyeptelepítést a 33/2008. (III. 27.) FVM rendelet 10. §-ában foglaltaknak megfelelően hajtsa végre.
 
-(5)[^88] A 3. § (1) bekezdés b) pont bd) alpontjának 2. pontja szerinti természetvédelmi célú gyeptelepítés támogatás kifizetésének feltétele, hogy a támogatásra jogosult a gyeptelepítést a 33/2008. (III. 27.) FVM rendelet 11. §-ában foglaltaknak megfelelően hajtsa végre.
+(5)[^89] A 3. § (1) bekezdés b) pont bd) alpontjának 2. pontja szerinti természetvédelmi célú gyeptelepítés támogatás kifizetésének feltétele, hogy a támogatásra jogosult a gyeptelepítést a 33/2008. (III. 27.) FVM rendelet 11. §-ában foglaltaknak megfelelően hajtsa végre.
 
 (6) Amennyiben a támogatásra jogosult a (4)–(5) bekezdés szerinti gyeptelepítést nem valósítja meg a 33/2008. (III. 27.) FVM rendeletben vagy a 46/2009. (IV. 16.) FVM rendeletben meghatározott határidőn belül, illetve az adott intézkedésre vonatkozóan nem nyújt be kifizetési kérelmet, úgy a 3. § (1) bekezdés b) pont bd) alpontjának 1., illetve 2. pontja szerinti támogatás igénybevételére vonatkozó támogatási jogosultsága megszűnik.
 
@@ -20,6 +20,6 @@ b) a gyeptelepítést a 33/2008. (III. 27.) FVM rendelet 10. §-ában foglaltakn
 
 (8) A (7) bekezdésben foglalt esetben az MVH helyszíni ellenőrzés keretében vizsgálhatja a kötelezettségek betartását.
 
-[^86]: A 44. § (3) bekezdése a 31/2010. (III. 30.) FVM rendelet 17. §-ával megállapított szöveg.
-[^87]: A 44. § (4) bekezdése a 35/2010. (XI. 30.) VM rendelet 10. §-ával megállapított szöveg.
-[^88]: A 44. § (5) bekezdése a 35/2010. (XI. 30.) VM rendelet 10. §-ával megállapított szöveg.
+[^87]: A 44. § (3) bekezdése a 31/2010. (III. 30.) FVM rendelet 17. §-ával megállapított szöveg.
+[^88]: A 44. § (4) bekezdése a 35/2010. (XI. 30.) VM rendelet 10. §-ával megállapított szöveg.
+[^89]: A 44. § (5) bekezdése a 35/2010. (XI. 30.) VM rendelet 10. §-ával megállapított szöveg.
