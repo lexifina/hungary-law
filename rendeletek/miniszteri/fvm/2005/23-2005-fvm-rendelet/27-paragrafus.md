@@ -1,6 +1,6 @@
 ## További intézkedések és eseti felmentések
 
-27. § (1) Az állomással történő egyeztetést követően a kerületi főállatorvos a 26. §-ban foglalt tilalmakat kiterjesztheti
+27. § (1)[^27] Az állomással történő egyeztetést követően a járási főállatorvos a 26. §-ban foglalt tilalmakat kiterjesztheti
 
 a) a nem fogékony állatok községi zárlaton belüli, és a gazdaságok közötti mozgására és szállítására;
 
@@ -27,3 +27,5 @@ c) az állatok mesterséges megtermékenyítését, ha a spermát a gazdaság sz
 d) a lófélék mozgását és szállítását, a 8. mellékletben felsorolt feltételek szerint;
 
 e) anyagok, eszközök és egyéb tárgyak beszállítását a fogékony állatokat tartó gazdaságokba.
+
+[^27]: A 27. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.

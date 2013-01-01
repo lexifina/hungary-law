@@ -2,7 +2,7 @@
 
 53. § (1) Sürgősségi vakcinázás rendelhető el, ha
 
-a) a betegséget a kerületi főállatorvos megállapította, és fennáll annak veszélye, hogy a járvány továbbterjed;
+a)[^35] a betegséget a járási főállatorvos megállapította, és fennáll annak veszélye, hogy a járvány továbbterjed;
 
 b) a kitörés a szomszédos tagállamokat azok földrajzi helyzete miatt, vagy a meteorológiai viszonyok következtében veszélyezteti;
 
@@ -17,3 +17,5 @@ d) Magyarországot olyan szomszédos harmadik ország veszélyezteti, ahol járv
 (4) Ha a bizottságot a minisztérium előzetesen írásban értesítette az 54. § szerinti feltételek teljesüléséről, a minisztérium önállóan is határozhat a sürgősségi vakcinázás bevezetéséről.
 
 (5) Az (1) bekezdés a) és b) pontja szerinti feltételek esetén a sürgősségi vakcinázást a bizottság is kezdeményezheti.
+
+[^35]: A 53. § (1) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Védővakcinázás
 
-55. § (1) A védővakcinázás, a kerületi főállatorvos által kijelölt területen lévő gazdaságokban végzett olyan sürgősségi vakcinázás, amelynek a célja, hogy megvédje a fogékony állatokat a vírus légi úton vagy ragályfogó tárgyak útján való terjedése miatt bekövetkező fertőződéstől.
+55. § (1)[^36] A védővakcinázás, a járási főállatorvos által kijelölt területen lévő gazdaságokban végzett olyan sürgősségi vakcinázás, amelynek a célja, hogy megvédje a fogékony állatokat a vírus légi úton vagy ragályfogó tárgyak útján való terjedése miatt bekövetkező fertőződéstől.
 
 (2) A védővakcinázás során a vakcinázási övezet kijelölését a regionalizáció e rendelet szerinti meghatározásának megfelelően, és – ha szükséges – a szomszédos tagállamokkal együttműködve kell végrehajtani.
 
@@ -15,3 +15,5 @@ a) tilos a vakcinázás;
 b) az illetékes állomás a betegséggel kapcsolatban fokozott megfigyelést folytat;
 
 c) a fogékony állatok forgalmát az állategészségügyi hatóság a készenléti tervben foglaltak szerint ellenőrzi.
+
+[^36]: A 55. § (1) bekezdés a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.

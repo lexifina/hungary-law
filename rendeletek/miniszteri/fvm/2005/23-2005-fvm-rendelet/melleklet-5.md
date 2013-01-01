@@ -10,7 +10,7 @@
 
 1.2.1. az állatok olyan területről származnak, amely nem áll ragadós száj- és körömfájás miatti korlátozás alatt;
 
-1.2.2. az 1.3. pontban meghatározott megfigyelési időszak elteltét követően szarvasmarhafélék vagy sertések esetében klinikai vizsgálattal, egyéb fogékony fajok esetében laboratóriumi vizsgálatok eredménye alapján a kerületi főállatorvosnak meg kell győződnie arról, hogy a betelepítendő állatokban a ragadós száj- és körömfájás vírusa nincs jelen;
+1.2.2.[^43] az 1.3. pontban meghatározott megfigyelési időszak elteltét követően szarvasmarhafélék vagy sertések esetében klinikai vizsgálattal, egyéb fogékony fajok esetében laboratóriumi vizsgálatok eredménye alapján a járási főállatorvosnak meg kell győződnie arról, hogy a betelepítendő állatokban a ragadós száj- és körömfájás vírusa nincs jelen;
 
 1.2.3. az újratelepítésre szánt állatok 1.2.2. pont szerint elfogadható immunválaszának biztosítása érdekében az állatok:
 
@@ -53,3 +53,5 @@ viszont az újratelepített, ragadós száj- és körömfájásra fogékony áll
 3.2.1. amennyiben az újratelepített állatok között a vakcinázott egyedek aránya meghaladja a 75%-ot, legkorábban 28 nappal az utolsó fogékony állat beszállítását követően a vakcinázott állatokból szúrópróbaszerűen vérmintákat kell venni a vírus nem strukturális fehérjéivel szemben termelődött ellenanyagok kimutatásán alapuló szerológiai vizsgálat céljából. A vizsgálandó minták számát a 4. melléklet 2.2. pontja szerinti statisztikai paraméterek alkalmazásával kell meghatározni. A nem vakcinázott állatokra az e melléklet 1. pontja szerinti rendelkezések érvényesek;
 
 3.2.2. amennyiben a vakcinázott állatok aránya 75% alatti, a nem vakcinázott egyedek őrállatoknak tekintendők és az 1. pont rendelkezéseit kell alkalmazni.
+
+[^43]: Az 5. melléklet 1.2. pontja 1.2.2. alpontja a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.

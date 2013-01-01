@@ -10,9 +10,9 @@
 
 ## a) sterilizálás legalább F0 3 érték mellett;
 
-## b) UHT[^2] kezelés;
+## b) UHT[^44] kezelés;
 
-## c) két alkalommal végzett HTST[^3] kezelés, amennyiben a tej kémhatása pH 7,0 vagy annál magasabb;
+## c) két alkalommal végzett HTST[^45] kezelés, amennyiben a tej kémhatása pH 7,0 vagy annál magasabb;
 
 ## d) HTST kezelés, amennyiben a tej kémhatása pH 7,0 vagy az alatti;
 
@@ -86,11 +86,11 @@ Abban az esetben, ha az állomás a forgalom teljes szüneteltetését alkalmazz
 
 2.2.2. A lófélék községi zárlaton és védőkörzeten belüli forgalmára a következő feltételek vonatkoznak:
 
-2.2.2.1. a községi zárlatban található, fogékony állatokat nem tartó gazdaságokban tartott lófélék használatát megfelelő tisztítási és fertőtlenítési intézkedések megtartása mellett a kerületi főállatorvos engedélyezheti. A védőkörzetben lévő telepeken tartott lovak használatára a fenti korlátozás nem vonatkozik;
+2.2.2.1.[^46] a községi zárlatban található, fogékony állatokat nem tartó gazdaságokban tartott lófélék használatát megfelelő tisztítási és fertőtlenítési intézkedések megtartása mellett a járási főállatorvos engedélyezheti. A védőkörzetben lévő telepeken tartott lovak használatára a fenti korlátozás nem vonatkozik;
 
 2.2.2.2. a lófélék korlátozás nélkül szállíthatók erre a célra alkalmas lószállító járművel olyan gazdaságokba, amelyekben fogékony állatokat nem tartanak;
 
-2.2.2.3. a kerületi főállatorvos esetileg engedélyezheti lófélék szállítását a célra alkalmas és nyilvántartott lószállító járművel fogékony állatokat nem tartó gazdaságból ugyanabban a községi zárlatban található másik olyan gazdaságba, ahol fogékony állatokat tartanak. Ebben az esetben a szállítóeszközt az állatok berakodása előtt és a rendeltetési gazdaság elhagyását megelőzően meg kell tisztítani és fertőtleníteni kell;
+2.2.2.3.[^47] a járási főállatorvos esetileg engedélyezheti lófélék szállítását a célra alkalmas és nyilvántartott lószállító járművel fogékony állatokat nem tartó gazdaságból ugyanabban a községi zárlatban található másik olyan gazdaságba, ahol fogékony állatokat tartanak. Ebben az esetben a szállítóeszközt az állatok berakodása előtt és a rendeltetési gazdaság elhagyását megelőzően meg kell tisztítani és fertőtleníteni kell;
 
 2.2.2.4. a lófélék forgalmát az állomás engedélyezheti közutakon, olyan gazdasághoz tartozó legelőkön, amelyekben nem tartanak fogékony állatokat, valamint lovaspályákon.
 
@@ -104,5 +104,7 @@ Abban az esetben, ha az állomás a forgalom teljes szüneteltetését alkalmazz
 
 2.2.4.3. a szállítóeszközöket és a látogatók lábbelijét érkezéskor és a telep elhagyását megelőzően tisztítani és fertőtleníteni kell.
 
-[^2]: UHT = ultrapasztőrözés; 132 °C-on legalább egy másodpercig végzett hőkezelés.
-[^3]: HTST = magas hőmérsékleten végzett, gyors pasztőrözés; 72 °C-on legalább 15 másodperces hőntartással végzett hőkezelés vagy ezzel egyenértékű pasztőrözési eljárás, melynek hatására a kezelt tejen végzett foszfatáz-próba negatív.
+[^44]: UHT = ultrapasztőrözés; 132 °C-on legalább egy másodpercig végzett hőkezelés.
+[^45]: HTST = magas hőmérsékleten végzett, gyors pasztőrözés; 72 °C-on legalább 15 másodperces hőntartással végzett hőkezelés vagy ezzel egyenértékű pasztőrözési eljárás, melynek hatására a kezelt tejen végzett foszfatáz-próba negatív.
+[^46]: A 8. melléklet 2.2. pontja 2.2.2.1. alpontja a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
+[^47]: A 8. melléklet 2.2. pontja 2.2.2.3. alpontja a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
