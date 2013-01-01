@@ -2,7 +2,7 @@
 
 28/A. § A Magyar Közlöny a 26. § (1) bekezdésében foglaltak mellett tartalmazza
 
-a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét törvény vagy az Alkotmánybíróság elrendelte,
+a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét törvény vagy az Alkotmánybíróság elrendelte, valamint az Alkotmánybíróság teljes ülési állásfoglalásait,
 
 b) a jogegységi határozatokat, valamint a Kúria azon határozatait, amelyeknek a Magyar Közlönyben való közzétételét törvény felhatalmazása alapján a Kúria elrendelte,
 

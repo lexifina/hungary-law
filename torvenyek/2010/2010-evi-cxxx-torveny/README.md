@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-130-00-00
 | 2012-04-20 | 2012. évi XXXVI. törvény | 2010-130-00-00.6 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2010-130-00-00.7 |
 | 2012-08-01 | 2012. évi CXIV. törvény | 2010-130-00-00.8 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 2010-130-00-00.9 |

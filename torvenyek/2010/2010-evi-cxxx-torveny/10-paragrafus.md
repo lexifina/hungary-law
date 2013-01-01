@@ -4,7 +4,7 @@ a) ha a hatályon kívül helyezendő jogszabályt vagy jogszabályi rendelkezé
 
 b) ha a módosítandó jogszabályi rendelkezést tételesen megjelölő, annak helyébe lépését kimondó jogszabályi rendelkezés módosítja,
 
-c) a 12. § (2) bekezdésében meghatározottak szerint, vagy
+c) a 12. § (2) és (3) bekezdésében meghatározottak szerint, vagy
 
 d) ha azt az Alkotmánybíróság vagy a bíróság megsemmisíti.
 
