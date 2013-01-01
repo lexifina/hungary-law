@@ -48,6 +48,6 @@
 
 | ........................................................ a fővárosi főjegyző aláírása | ........................................................ a főpolgármester aláírása |
 
-10. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^44]
+10. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^52]
 
-[^44]: A 10. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege 331/2011. (XII. 29.) Korm. rendelet 4. § i) pontjával megállapított szöveg.
+[^52]: A 10. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege 331/2011. (XII. 29.) Korm. rendelet 4. § i) pontjával megállapított szöveg.

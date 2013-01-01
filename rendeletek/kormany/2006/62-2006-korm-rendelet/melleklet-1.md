@@ -1,3 +1,3 @@
-1. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^34]
+1. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^42]
 
-[^34]: Az 1. számú melléklet a 331/2011. (XII. 29.) Korm. rendelet 4. § a) pontjával megállapított szöveg.
+[^42]: Az 1. számú mellékletet a 352/2012. (XII. 13.) Korm. rendelet 2. § (8) bekezdés c) pontja hatályon kívül helyezte.

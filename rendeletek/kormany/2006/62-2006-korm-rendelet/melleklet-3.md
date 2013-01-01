@@ -56,6 +56,6 @@
 
 | ........................................................ a jegyző aláírása | ........................................................ a polgármester aláírása |
 
-3. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^36]
+3. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^44]
 
-[^36]: A 3. számú melléklet a 331/2011. (XII. 29.) Korm. rendelet 4. § c) pontjával megállapított szöveg.
+[^44]: A 3. számú melléklet a 331/2011. (XII. 29.) Korm. rendelet 4. § c) pontjával megállapított szöveg.

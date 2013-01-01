@@ -62,6 +62,6 @@
 
 |  | a jegyző aláírása | a polgármester aláírása |
 
-4. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^37]
+4. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^45]
 
-[^37]: A 4. számú melléklet a 331/2011. (XII. 29.) Korm. rendelet 4. § d) pontjával megállapított szöveg.
+[^45]: A 4. számú mellékletet a 352/2012. (XII. 13.) Korm. rendelet 2. § (8) bekezdés c) pontja hatályon kívül helyezte.
