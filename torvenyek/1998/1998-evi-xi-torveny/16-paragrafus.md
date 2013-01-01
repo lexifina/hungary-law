@@ -2,9 +2,9 @@
 
 16. § (1) Az ügyvéd a kamarai felvételét követő két hónapon belül a kamara elnöke előtt esküt tesz.
 
-(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint, ügyfelem érdekében eljárva teljesítem.”
+(2) Az eskü szövege a következő: „Én (az eskütevő neve) esküszöm, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek, jogszabályait megtartom. Ügyvédi hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint, ügyfelem érdekében eljárva teljesítem és az ennek során tudomásomra jutott titkot megőrzöm. (Az eskütevő meggyőződése szerint.) Isten engem úgy segéljen!”
 
-(2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során az esküt tevő személyétől függően: ügyvéd, ügyvédjelölt.
+(2a)
 
 (3) Az ügyvéd a tevékenységét az eskü letétele után kezdheti meg.
 
