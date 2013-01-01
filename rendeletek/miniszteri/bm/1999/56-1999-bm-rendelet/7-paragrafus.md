@@ -1,6 +1,6 @@
 ## Adatigénylés
 
-7. § (1) Egyedi adatszolgáltatás iránti kérelem a Nyilvántartóhoz, illetve az okmányirodai körzetközponti feladatokat ellátó települési önkormányzat jegyzőjéhez (a továbbiakban: jegyző) nyújtható be.
+7. § (1)[^7] Egyedi adatszolgáltatás iránti kérelem a Nyilvántartóhoz, illetve a járási hivatalhoz nyújtható be.
 
 (2) A csoportképző ismérvek szerint, illetve az okmánytárból kért adatszolgáltatás iránti kérelmet a Nyilvántartóhoz lehet benyújtani.
 
@@ -11,3 +11,5 @@
 (5) A kérelmet személyesen, illetve meghatalmazott képviselő útján vagy postai úton írásban lehet benyújtani, illetve az adatszolgáltatás közvetlen hozzáféréssel is igényelhető.
 
 (6) A kérelemnek tartalmaznia kell a rendelet 1. számú melléklete szerinti adatokat.
+
+[^7]: A 7. § (1) bekezdése a 76/2012. (XII. 22.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.

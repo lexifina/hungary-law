@@ -1,8 +1,8 @@
-## 5. §[^4]
+## 5. §[^5]
 
 ## Okmánytár tartalma
 
-6. §[^5] (1) Az okmánytár tartalmazza:
+6. §[^6] (1) Az okmánytár tartalmazza:
 
 a) a vezetésre jogosító engedélyek kiállítására, érvényesítésére, cseréjére, pótlására, valamint a vezetési jogosultság szünetelésére,
 
@@ -18,5 +18,5 @@ d) az adatszolgáltatás korlátozására, tiltására, illetőleg az azt vissza
 
 (3) Az okmánytár az eljárás során keletkező egyéb iratokat a nyilvántartásba vételtől számított egy évig őrzi meg, ezt követően az iratkezelési szabályoknak megfelelően selejtezi.
 
-[^4]: Az 5. §-t a 41/2009. (IX. 15.) IRM rendelet 54. § a) pontja hatályon kívül helyezte. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
-[^5]: A 6. § a 44/2000. (XII. 28.) BM rendelet 4. §-ával megállapított szöveg.
+[^5]: Az 5. §-t a 41/2009. (IX. 15.) IRM rendelet 54. § a) pontja hatályon kívül helyezte. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
+[^6]: A 6. § a 44/2000. (XII. 28.) BM rendelet 4. §-ával megállapított szöveg.
