@@ -2,7 +2,7 @@
 
 17. § (1) A választójog megállapítása céljából az a)–c) pontban megjelölt szervek a személyiadat- és lakcímnyilvántartás hatálya alá tartozó, választójoggal nem rendelkező nagykorú polgárok (2) bekezdés szerinti adataiban bekövetkezett változásokat folyamatosan közlik a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervvel, az alábbiak szerint:
 
-a) a gondnoksági ügyben eljáró gyámhivatal a belátási képességének korlátozottsága miatt a választójogból kizárt személyekről,
+a) a gondnoksági ügyben eljáró gyámhatóság a belátási képességének korlátozottsága miatt a választójogból kizárt személyekről,
 
 b) a Büntetés-végrehajtás Országos Parancsnoksága a bűntetteseket nyilvántartó szerv útján a közügyektől eltiltó jogerős ítélet hatálya alatt álló személyekről,
 

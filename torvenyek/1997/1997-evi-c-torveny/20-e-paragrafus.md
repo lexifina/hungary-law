@@ -8,7 +8,7 @@
 
 (4) Ha a helyi választási iroda vezetője a kifogásnak helyt ad, a névjegyzéket, illetőleg a külképviseleti névjegyzéket módosítja.
 
-(5) Ha a helyi választási iroda vezetője a kifogásnak nem ad helyt, a kifogást legkésőbb a beérkezését követő napon megküldi a helyi bíróságnak, Budapesten a Pesti Központi Kerületi Bíróságnak. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el. A bíróság a kifogásról a beérkezését követő 2 napon belül dönt.
+(5) Ha a helyi választási iroda vezetője a kifogásnak nem ad helyt, a kifogást legkésőbb a beérkezését követő napon megküldi a járásbíróságnak, Budapesten a Pesti Központi Kerületi Bíróságnak. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el. A bíróság a kifogásról a beérkezését követő 2 napon belül dönt.
 
 (6) Ha a bíróság a kifogást alaposnak tartja, elrendeli a névjegyzék, illetőleg a külképviseleti névjegyzék módosítását, ellenkező esetben a kifogást elutasítja.
 
