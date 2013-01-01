@@ -6,4 +6,4 @@
 
 a) a gazdasági és anyagi szolgáltatásra törvényben meghatározottak szerint kötelezett ingatlan, szolgáltatás, technikai eszköz tulajdonosa, birtokosa, az azzal rendelkezni jogosult,
 
-b) a jegyző az illetékességi területén lévő ingatlanokra és szolgáltatásokra vonatkozóan a gazdasági és anyagi szolgáltatásra kötelezett adatszolgáltatása alapján.
+b) a járási hivatal vezetője az illetékességi területén lévő ingatlanokra és szolgáltatásokra vonatkozóan a gazdasági és anyagi szolgáltatásra kötelezett adatszolgáltatása alapján.
