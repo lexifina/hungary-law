@@ -2,8 +2,8 @@
 
 (2) A BATrTMód. hatálybalépése előtt elfogadott településrendezési eszközöket
 
-a) a főváros esetében a BATrTMód. hatálybalépését követő egy éven belül, a fővárosi kerületek esetében további két éven belül,
+a) a főváros esetében 2014. június 30-ig,
 
-b) az e törvény hatálya alá tartozó, az a) pontba nem tartozó települések esetében a BATrTMód. hatálybalépését követő három éven belül
+b) a fővárosi kerületek és az e törvény hatálya alá tartozó települések esetében 2015. december 31-ig
 
 összhangba kell hozni e törvénnyel.
