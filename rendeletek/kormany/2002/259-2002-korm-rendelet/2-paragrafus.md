@@ -42,7 +42,7 @@ g)[^8] szolgáltató: a szolgáltató tevékenységet olyan formában végző sz
 
 h)[^9] területi iroda: önálló gyermekjóléti szolgáltató, gyermekjóléti szolgálat, gyermekjóléti központ és területi gyermekvédelmi szakszolgálat esetén a szolgáltató (intézmény) székhelyétől, telephelyétől különböző helyen található, a szolgáltató (intézmény) használatában álló és a szolgáltató tevékenység végzésére használt helyiség;
 
-i)[^10] ellátási kötelezettséget teljesítő állami fenntartó: a központi költségvetési szerv, a megyei intézményfenntartó központ (a továbbiakban: megyei fenntartó), a helyi önkormányzat, illetve a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8–9. §-a, illetve 16. §-a szerinti intézményi társulás és a települési önkormányzatok többcélú kistérségi társulása az általa fenntartott szolgáltató (intézmény, hálózat) által végzett olyan szolgáltató tevékenység tekintetében, amelyet a helyi önkormányzat, illetve a társulás valamelyik tagja a Gyvt. alapján biztosítani köteles;
+i)[^10] ellátási kötelezettséget teljesítő állami fenntartó: a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság), valamint a helyi önkormányzat, illetve azok társulása az általa fenntartott szolgáltató (intézmény, hálózat) által végzett olyan szolgáltató tevékenység tekintetében, amelyet az állam vagy a helyi önkormányzat, illetve a társulás valamelyik tagja a Gyvt. alapján biztosítani köteles;
 
 j)[^11] működtető: az a személy vagy szervezet, amely a fenntartó által biztosított működési feltételek között a helyettes szülői hálózatot, a nevelőszülői hálózatot, illetve a külső férőhelyen biztosított utógondozói ellátást szervezi.
 
@@ -55,5 +55,5 @@ j)[^11] működtető: az a személy vagy szervezet, amely a fenntartó által bi
 [^7]: A 2. § f) pontja a 376/2004. (XII. 28.) Korm. rendelet 25. § (2) bekezdés b) pontjának ba) alpontja szerint módosított szöveg.
 [^8]: A 2. § g) pontját a 127/2004. (IV. 29.) Korm. rendelet II. Részének 4. §-a iktatta be, szövege a 38/2010. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^9]: A 2. § h) pontját a 127/2004. (IV. 29.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés b) pontja, újonnan a 320/2009. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^10]: A 2. § i) pontját a 320/2009. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 258/2011. (XII. 7.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § i) pontját a 320/2009. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 349/2012. (XII. 12.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^11]: A 2. § j) pontját a 38/2010. (II. 26.) Korm. rendelet 6. §-a iktatta be.
