@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-76-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1999-76-00-00.17 |
 | 2012-01-01 | 2011. évi CLXXIII. törvény | 1999-76-00-00.18 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1999-76-00-00.19 |
+| 2013-01-01 | 2012. évi CXCVI. törvény | 1999-76-00-00.20 |
