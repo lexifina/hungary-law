@@ -20,7 +20,7 @@ e) országos jelentőségű közlekedési és hírközlési név: a vasúti köz
 
 f)[^1] országnév: az ország Alaptörvényben meghatározott neve (Magyarország);
 
-g) igazgatásiterület-név: az ország közigazgatási, illetve statisztikai, tervezési és területfejlesztési célokra kialakított területi egységeinek (megye, régió, kistérség stb.) neve;
+g)[^2] igazgatásiterület-név: az ország közigazgatási, illetve statisztikai, tervezési és területfejlesztési célokra kialakított területi egységeinek (megye, régió, járás, kistérség stb.) neve;
 
 h) helységnév: a község, nagyközség, város, megyei jogú város, főváros utótagot tartalmazó vagy utótag nélküli rövid neve, a fővárosi kerületek teljes, a főváros nevét is tartalmazó, illetve rövid, csak a római számot és a kerület utótagot tartalmazó neve;
 
@@ -30,15 +30,17 @@ j) közterületnév: a bel- és külterületi közutak és terek rendszerint út
 
 k) helyi jelentőségű közlekedési név: a helyi és helyközi tömegközlekedéssel kapcsolatos létesítmények (megállóhely stb.) és a 10 m-nél kisebb nyílású hidak neve.
 
-(4) Kisebbségi nyelvű hivatalos földrajzi név: a helységeknek és az országban található földfelszíni részleteknek az ott élő nemzeti kisebbség vagy etnikum által használt történelmileg kialakult földrajzi neve (pl. Lórév =
+(4)[^3] Nemzetiségi nyelvű hivatalos földrajzi név: a helységeknek és az országban található földfelszíni részleteknek az ott élő nemzetiség által használt történelmileg kialakult földrajzi neve
 
-Szentpéterfa = Petrovo Selo, Óbánya = Altglashütte, Alcsevica, Gropcsica).
+(pl. Lórév = Ловра, Szentpéterfa = Petrovo Selo, Óbánya = Altglashütte, Alcsevica, Gropcsica).
 
 (5) Külföldi földrajzi név magyar megfelelője: az ország határán kívül található földfelszíni részleteknek a külföldi hivatalos nyelvtől eltérő magyar nyelvű földrajzi neve (pl. Republik Österreich = Osztrák Köztársaság, Andalucía = Andalúzia, Oradea = Nagyvárad, Venezia = Velence, Rocky Mountains = Sziklás-hegység), továbbá a más írásrendszerből történt átírás esetén a használt rendszertől eltérő magyaros átírású név
 
 (pl. Одеса/Odesza = Odessza, Shanghai = Sanghaj).
 
-(6)[^2] Földrajzi megjelölés: a földfelszín mesterséges részleteinek azonosítására szolgáló, kisebb vagy nagyobb közösségek által használt, intézményeket (pl. Madách Színház), intézményszerű mesterséges létesítményeket (pl. Erdészeti arborétum) jelölő tulajdonnév vagy tulajdonnévnek nem tekinthető megjelölés (pl. főapátság).
+(6)[^4] Földrajzi megjelölés: a földfelszín mesterséges részleteinek azonosítására szolgáló, kisebb vagy nagyobb közösségek által használt, intézményeket (pl. Madách Színház), intézményszerű mesterséges létesítményeket (pl. Erdészeti arborétum) jelölő tulajdonnév vagy tulajdonnévnek nem tekinthető megjelölés (pl. főapátság).
 
 [^1]: A 2. § (3) bekezdés f) pontja a 322/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (6) bekezdése a 36/2011. (III. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^2]: A 2. § (3) bekezdés g) pontja a 430/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (4) bekezdése a 430/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (6) bekezdése a 36/2011. (III. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
