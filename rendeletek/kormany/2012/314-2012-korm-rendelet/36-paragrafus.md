@@ -1,5 +1,13 @@
-## 32–35. §[^24]
+## 35. § Abban az esetben, ha az összevont telepítési eljárással egyidejűleg a településrendezési eszköz módosítása is szükséges, az eljárásba bevont szakhatóságok véleménye kiváltja a településrendezési eszköz egyeztetési eljárásában való részvételüket, azonban az egyes tervek, illetve programok környezeti vizsgálatáról szóló kormányrendelet előírásait figyelembe kell venni.
 
 ## 25. A teljes eljárás
 
-[^24]: A 32–35. § a 44. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 36. § A teljes eljárás
+
+a) előzetes tájékoztatási,
+
+b) véleményezési,
+
+c) végső szakmai véleményezési,
+
+d) elfogadási és hatálybaléptetési

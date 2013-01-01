@@ -1,5 +1,11 @@
-## 28. §[^20]
-
 ## 21. A partnerségi egyeztetés
 
-[^20]: A 28. § a 44. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 29. § Az önkormányzat – a teljes körű nyilvánosság biztosításával, az e fejezetben meghatározott határidők figyelembevételével – a tervezés előtt dönt a partnerségi egyeztetés szabályairól, amelynek során meghatározza:
+
+a) az egyeztetésben résztvevők (a továbbiakban: partnerek) tájékoztatásának módját és eszközeit,
+
+b) a javaslatok, vélemények dokumentálásának, nyilvántartásának módját,
+
+c) az el nem fogadott javaslatok, vélemények indokolásának módját, a dokumentálásuk, nyilvántartásuk rendjét,
+
+d) az elfogadott koncepció, stratégia és településrendezési eszközök nyilvánosságát biztosító intézkedéseket.
