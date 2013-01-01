@@ -16,7 +16,7 @@
 
 | 7. csecsemő- és gyermekgyógyászat | általános orvos és csecsemő- és gyermekgyógyászat szakvizsga |
 
-| 8. egészségbiztosítás | általános orvos és egészségbiztosítás szakvizsga és a) a szakorvos, szakfogorvos, szakgyógyszerész és klinikai szakpszichológus szakképesítés megszerzéséről szóló miniszteri rendelet szerinti klinikai szakképesítés vagy b) foglalkozás-orvostan (üzemorvostan) szakvizsga |
+| 8. egészségbiztosítás | általános orvos és egészségbiztosítás szakvizsga, valamint a rehabilitációs orvosszakértői névjegyzékről szóló rendelet szerinti rehabilitációs orvosszakértői tevékenység végzéséhez szükséges szakképesítés |
 
 | 9. foglalkozás-orvostan | általános orvos és foglalkozás-orvostan (üzemorvostan) szakvizsga |
 

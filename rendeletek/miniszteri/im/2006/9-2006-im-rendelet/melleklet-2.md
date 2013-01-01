@@ -18,4 +18,4 @@
 
 2. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^108]
 
-[^108]: A 2. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (1) bekezdése, az 50/2009. (IX. 28.) IRM rendelet 16. § (1) bekezdése, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^108]: A 2. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (1) bekezdése, az 50/2009. (IX. 28.) IRM rendelet 16. § (1) bekezdése, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés a) pontja, az 57/2012. (XII. 28.) KIM rendelet 17. §-a szerint módosított szöveg.
