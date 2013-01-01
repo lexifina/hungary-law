@@ -12,4 +12,4 @@ c) több vizsgarész esetén – a vizsgaszabályzat 41. §-ának (2) bekezdése
 
 [^2]: Az 1. § (1) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdés nyitó szövegrésze a 36/2012. (XI. 14.) EMMI rendelet 2. § d) pontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 2. § d) pontja szerint módosított szöveg.
