@@ -366,8 +366,6 @@ m) síkosság mentesítő anyagokat beszerezni.
 
 A téli tisztántartási feladatok végzéséről és az utak állapotáról a közút kezelőjének folyamatos tájékoztatást kell adnia az ÚTINFORM, illetve a Közlekedési Főügyelet részére.
 
-Tájékoztatni kell továbbá évente legalább egy alkalommal a biztosított szolgáltatásokról a kistérség székhelye szerinti önkormányzatot.
-
 4.15. A közutak síkosság elleni védekezési rendszerbe történő besorolása
 
 A közutakon a síkosság ellen az út hálózati jelentőségétől, forgalmától és egyéb körülményektől függően kell védekezni. A védekezést a Szerződésben meghatározott szolgáltatási kategóriák szerint kell megszervezni.
@@ -1100,7 +1098,7 @@ II.2. Szolgáltatási kategóriánként változó – a Szerződésben esetenké
 [^46]: A melléklet 4.6. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
 [^47]: A melléklet 4.8. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
 [^48]: A melléklet 4.12. pontja a 73/2012. (XII. 20.) NFM rendelet 4. §-a szerint módosított szöveg.
-[^49]: A melléklet 4.14. pontja a 73/2012. (XII. 20.) NFM rendelet 4. §-ával megállapított szöveg.
+[^49]: A melléklet 4.14. pontja a 73/2012. (XII. 20.) NFM rendelet 4. §-ával megállapított, a 76/2012. (XII. 22.) NFM rendelet 4. §-a szerint módosított szöveg.
 [^50]: A melléklet 4.15.1. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
 [^51]: A melléklet 4.15.2. pontja a 42/2004. (IV. 9.) GKM rendelet 5. §-ával megállapított szöveg.
 [^52]: A melléklet 4.16. pontja a 42/2004. (IV. 9.) GKM rendelet 5. §-ával megállapított szöveg.
@@ -1114,5 +1112,5 @@ II.2. Szolgáltatási kategóriánként változó – a Szerződésben esetenké
 [^60]: A melléklet 5.4.6. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
 [^61]: Az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről szóló 20/1984. (XII. 21.) KM rendelet, az útburkolati jelek tervezési és létesítési előírásairól szóló 11/2001. (III. 13.) KöViM rendelet.
 [^62]: A melléklet 6. pontját a 73/2012. (XII. 20.) NFM rendelet 4. §-a iktatta be.
-[^63]: A melléklet függeléke I. 1. pontját a 73/2012. (XII. 201.) NFM rendelet 6. § e) pontja hatályon kívül helyezte.
+[^63]: A melléklet függeléke I. 1. pontját a 73/2012. (XII. 20.) NFM rendelet 6. § e) pontja hatályon kívül helyezte.
 [^64]: A függelék II. pontja a 73/2012. (XII. 20.) NFM rendelet 4. §-ával megállapított szöveg.
