@@ -26,19 +26,17 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - termőföld mennyiségi védelem | Tolna Megyei Kormányhivatal illetékes körzeti földhivatala | Tolna Megyei Kormányhivatal Földhivatala |
+| - termőföld mennyiségi védelem | Tolna Megyei Kormányhivatal illetékes járási hivatalának járási földhivatala | Tolna Megyei Kormányhivatal Földhivatala |
 
 | közlekedés | Baranya Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| kulturális örökségvédelem | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | Szekszárdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | földtani közeg, ásványi nyersanyag védelme | Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | lakosság életének védelme | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| településrendezési előírásokkal való összhang | illetékes építésügyi hatóság | Tolna Megyei Kormányhivatal |
-
-| területrendezési tervekkel való összhang | illetékes állami főépítész | területrendezésért felelős miniszter |
+| településrendezési előírásokkal való összhang | az építési tevékenység helye szerinti települési önkormányzat jegyzője | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 2. Radioaktív hulladéktároló létesítési és üzemeltetési engedély:
 
@@ -46,7 +44,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | környezetvédelem | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
 
-| építésügy | Tolna Megyei Kormányhivatal | építésügyért felelős miniszter |
+| építésügy | Szekszárdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonság Igazgatóság [OAH NBI] | Országos Atomenergia Hivatal főigazgatója |
 
@@ -80,4 +78,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a, a 23/2012. (II. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a, a 23/2012. (II. 29.) Korm. rendelet 16. §-a, a 296/2012. (X. 17.) Korm. rendelet 21. §-a, a 394/2012. (XII. 20.) Korm. rendelet 13. §-a szerint módosított szöveg.
