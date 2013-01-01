@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2012-02-28 | 1993-9-20-3D.81 | 29/2010. (XII. 30.) NEFMI rendelet |
 | 2012-03-01 | 1993-9-20-3D.82 | 70/2011. (XII. 23.) NEFMI rendelet |
 | 2012-07-01 | 1993-9-20-3D.83 | 7/2012. (VI. 29.) EMMI rendelet |
+| 2013-01-01 | 1993-9-20-3D.84 | 62/2007. (XII. 29.) EüM rendelet |

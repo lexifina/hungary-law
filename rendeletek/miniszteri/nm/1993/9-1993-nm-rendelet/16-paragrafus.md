@@ -1,3 +1,3 @@
-## 15. §[^74]
+## 15. §[^74] Járóbeteg-szakellátás keretében 2013. január 1-jétől a gyártástól számított 12 évnél idősebb berendezéssel végzett CT, MRI vizsgálat csak akkor számolható el, ha az a 2012. december 31-én hatályos szabályok szerint elszámolható volt.
 
-[^74]: A 15. §-t a 71/2011. (XII. 23.) NEFMI rendelet 4. §-a iktatta be, hatályon kívül helyezte a 9/2012. (II. 28.) NEFMI rendelet 10. § b) pontja.
+[^74]: A 15. §-t újonnan az 55/2012. (XII. 28.) EMMI rendelet 1. §-a iktatta be.

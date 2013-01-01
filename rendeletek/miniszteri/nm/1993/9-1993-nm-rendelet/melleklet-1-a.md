@@ -46,7 +46,7 @@
 
 | 16. | 01346 | Implantálható tartós ér- és epiduralis katéter |
 
-| 17. | 01050 | Cochlearis implantátum |
+| 17. | 01050 | Közép- és belsőfül hallásjavító implantátum és processzor |
 
 | 18. | 01349 | Mamma protézis |
 
@@ -80,7 +80,7 @@
 
 | 26. | 01503 | Műanyag keratoprotézis |
 
-| 27. | 01191 | Agytörzsi hallásjavító implantátum |
+| 27. |  |  |
 
 | 28. | 01504 | Intraaortikus ballonpumpa |
 
@@ -138,6 +138,12 @@
 
 |  | 01519 | Antiglaucoma fascia lata implantatum |
 
+| 46. | 0117A | Sűrűfonatú öntáguló intracranialis stent |
+
+| 47.** | 01600 | Beültethető szívmonitor |
+
+| 48.*** | 01700 | Caphosol szájöblítő |
+
 | * | Elszámolásra jogosult intézetek |
 
 | 0140 | Semmelweis Egyetem Budapest |
@@ -147,6 +153,54 @@
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| ** | Elszámolásra jogosult intézetek |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0162 | Gottsegen György Országos Kardiológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 13B2 | Cegléd, Toldy Ferenc Kórház Kft. |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház - Rendelőintézet, Szolnok |
+
+| 1968 | Állami Szívkórház, Balatonfüred |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
+
+| *** | Elszámolásra jogosult intézetek |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
 
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^78]
 
