@@ -8,7 +8,7 @@ c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési elj
 
 d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 
-e) az útlevélhatóság az útlevél-ügyintézéshez;
+e)
 
 f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
 
@@ -32,4 +32,6 @@ o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, 
 
 p) a gondnokoltak nyilvántartásában szereplő természetes személyek adatainak egyeztetése céljából az Országos Bírósági Hivatal elnöke,
 
-q) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.
+q) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben,
+
+r) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével a hallgatói hitelrendszert működtető szervezet a hallgatói hitel folyósításával, visszafizetésével és a célzott kamattámogatás igényléséhez szükséges igazolások kiadásával összefüggő feladatai ellátásához.

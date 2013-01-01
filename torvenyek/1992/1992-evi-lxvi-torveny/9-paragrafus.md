@@ -32,7 +32,9 @@ m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy sze
 
 n) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat;
 
-o) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
+o) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat;
+
+p) ellátja a Schengeni Információs Rendszerben elhelyezendő vagy elhelyezett figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat.
 
 (3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 

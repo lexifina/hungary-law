@@ -9,3 +9,5 @@
 (3) Az eljáró hatóság a 14 éven aluli kiskorú törvényes képviselőjének (2) bekezdésben meghatározott adatait kizárólag a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásáig jogosult kezelni, azokat a hatósági igazolvány kiadásakor haladéktalanul törölni kell.
 
 (4) A személyi azonosítót igazoló hatósági igazolványt úgy kell kiállítani, hogy abból az érintett polgár személyi azonosítója és lakcím adata egyidejűleg ne váljon megismerhetővé.
+
+(5) A polgár személyi azonosítójának megváltozásáról a központi szerv az anyakönyvbe történő bejegyzés céljából értesíti a polgár születési helye szerinti anyakönyvvezetőt, külföldön történt születése esetén az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szervet.

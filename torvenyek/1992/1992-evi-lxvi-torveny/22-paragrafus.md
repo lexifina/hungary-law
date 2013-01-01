@@ -14,4 +14,6 @@ f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az
 
 g) az anyakönyvvezető;
 
-h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a konzuli érdekvédelmi feladatok ellátásához.
+h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a konzuli érdekvédelmi feladatok ellátásához;
+
+i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője az útlevél-ügyintézéshez.

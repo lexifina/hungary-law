@@ -2,6 +2,6 @@
 
 (2) A Központi Okmánytárban a 9. § (3) bekezdésében meghatározott adatokat, illetőleg okiratokat az (1) bekezdés szerinti időpont lejártától számított negyven évig kell megőrizni.
 
-(3) A nyilvántartás történeti állományából, valamint a Központi Okmánytárból – a 9. § (4) bekezdésében tett kivétellel – e törvény általános szabályai szerint teljesíthető adatszolgáltatás.
+(3) A nyilvántartás történeti állományából, valamint a Központi Okmánytárból – a 9. § (4) bekezdésében tett kivétellel, illetve a 9. § (2) bekezdés p) pontjában meghatározott adatok kivételével – e törvény általános szabályai szerint teljesíthető adatszolgáltatás.
 
 (4) A történeti állományban, továbbá a Központi Okmánytárban tárolt adatokat, okiratokat az e törvényben meghatározott megőrzési idő lejárta után egy éven belül meg kell semmisíteni, illetőleg törölni kell.

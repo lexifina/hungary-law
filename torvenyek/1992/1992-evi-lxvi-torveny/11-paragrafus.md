@@ -28,7 +28,9 @@ k) családi állapotát, házasságkötése vagy bejegyzett élettársi kapcsola
 
 l) arcképmását és – ha a 14. életévét betöltötte – aláírását, ha személyazonosító igazolványra jogosult;
 
-m) személyazonosító igazolványának, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját.
+m) személyazonosító igazolványának, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját;
+
+n) személyazonosító igazolványa kiadásának, érvényességének, cseréjének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, visszaadásának, leadásának, elvételének adatait.
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) pontja szerinti adatait, aláírását, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 

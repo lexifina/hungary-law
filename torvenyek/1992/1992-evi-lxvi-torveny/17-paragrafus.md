@@ -12,7 +12,7 @@ b) természetes személyazonosító adatok és lakcímadatok, állampolgárság,
 
 c) a b) pontban felsorolt adatok és a személyazonosító jel;
 
-d) a nyilvántartásba felvett adatok teljes köre.
+d) a 9. § (2) bekezdés p) pontja kivételével a nyilvántartásba felvett adatok teljes köre.
 
 (3) A nyilvántartás szervei a 11. § (1) és (4) bekezdésében meghatározott adatokat — a 2. § (5) bekezdésében foglalt feltételekkel — statisztikai célra felhasználhatják és azokat nyilvánosságra hozhatják.
 
@@ -20,6 +20,6 @@ d) a nyilvántartásba felvett adatok teljes köre.
 
 (5)
 
-(6) A központi szerv a 29. § (3) bekezdésében meghatározott adatokról és a lakcímről törvény, illetőleg az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a személyazonosító igazolvány adatainak, valamint az érintett lakcímének ellenőrzése, az érintett személy azonosítása céljából adatot szolgáltathat. Az érintett arcképmását és saját kezű aláírását a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
+(6) A központi szerv a 29. § (3) bekezdésében meghatározott adatokról és a lakcímről, valamint a 11. § (1) bekezdés n) pontjában meghatározott adatokról törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a személyazonosító igazolvány adatainak, valamint az érintett lakcímének ellenőrzése, az érintett személy azonosítása céljából adatot szolgáltathat. Az érintett arcképmását és saját kezű aláírását a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
 
 (7) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosító igazolvány adattartalmának és érvényességének a személyazonosítás során történő ellenőrzése céljából a személyazonosító igazolvány nyilvántartásból – közvetlen adathozzáféréssel – adatokat vehet át. Az átvett adatokat a személyazonosítást követően az adatkérőnek haladéktalanul törölnie kell.
