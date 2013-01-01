@@ -84,7 +84,7 @@
 
 | 26. | Nemzeti Erőforrás Minisztérium | Bírságbevételek miatti követelések és kötelezettségek. |
 
-| 27. | Kulturális Örökségvédelmi Hivatal | Bírságbevételekkel kapcsolatos követelések és kötelezettségek. |
+| 27. | műemléki érték és a régészeti örökség védelmével kapcsolatosan az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala, a kulturális javak védelmével kapcsolatban a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | Bírságbevételekkel kapcsolatos követelések és kötelezettségek. |
 
 | 28. | Oktatási Hivatal | Bírságbevételekkel kapcsolatos követelések és kötelezettségek |
 

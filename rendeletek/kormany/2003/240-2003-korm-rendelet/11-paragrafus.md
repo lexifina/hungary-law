@@ -8,8 +8,8 @@
 
 (5) A 9. számú mellékletnek megfelelő formában kell bemutatni a letétek állományának alakulását.
 
-(6)[^10] A 10. számú mellékletnek megfelelő formában kell bemutatni az eszközök értékvesztésének alakulását.
+(6)[^11] A 10. számú mellékletnek megfelelő formában kell bemutatni az eszközök értékvesztésének alakulását.
 
 (7) A 11. számú melléklet szerint kell bemutatni a kötelezettségvállalások alakulását.
 
-[^10]: A 11. § (6) bekezdése a 369/2011. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^11]: A 11. § (6) bekezdése a 369/2011. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.

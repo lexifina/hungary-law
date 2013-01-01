@@ -182,6 +182,6 @@
 
 | KÖTELEZETTSÉGEK ÖSSZESEN: (18+52) | 53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-7. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^33]
+7. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^34]
 
-[^33]: A 7. számú melléklet a 369/2011. (XII. 31.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^34]: A 7. számú melléklet a 369/2011. (XII. 31.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.

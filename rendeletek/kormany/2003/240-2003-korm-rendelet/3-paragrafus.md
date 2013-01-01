@@ -2,7 +2,7 @@
 
 ## 3. § A kincstári éves beszámoló részei:
 
-a)[^3] a központi alrendszer mérlege,
+a)[^4] a központi alrendszer mérlege,
 
 b) a finanszírozási mérleg,
 
@@ -10,4 +10,4 @@ c) a nemzetgazdasági elszámolások könyvviteli mérlege,
 
 d) a kiegészítő melléklet.
 
-[^3]: A 3. § a) pontja a 350/2010. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^4]: A 3. § a) pontja a 350/2010. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-240-20-
 | 2011-01-01 | 2003-240-20-22.9 | 350/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 2003-240-20-22.10 | 369/2011. (XII. 31.) Korm. rendelet |
 | 2012-08-16 | 2003-240-20-22.11 | 178/2012. (VII. 26.) Korm. rendelet |
+| 2013-01-01 | 2003-240-20-22.12 | 4/2013. (I. 11.) Korm. rendelet |
