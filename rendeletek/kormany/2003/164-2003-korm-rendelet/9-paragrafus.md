@@ -1,6 +1,0 @@
-9. § (1) A rendszeres adatszolgáltatásra nem kötelezett hulladéktermelő a környezetvédelemért felelős miniszter által elrendelt, statisztikai kiválasztási módszerekkel történő adatfelméréskor eseti adatszolgáltatásra köteles, amelyet a részére megküldött adatlapok kitöltésével és visszaküldésével teljesít.
-
-(2)[^15] A hulladék termelőjének nem kell adatot szolgáltatnia azon hulladékról, amelyet szerződés alapján közszolgáltatónak, illetve külön jogszabály[^16] alapján bejegyzett, a hulladék visszavételére kötelezettnek, vagy azzal szerződésben álló átvevőnek ad át.
-
-[^15]: A 9. § (2) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^16]: 94/2002. (V. 5.) Korm. rendelet a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól, 264/2004. (IX. 23.) Korm. rendelet az elektromos és elektronikai berendezések hulladékainak visszavételéről, 267/2004. (IX. 23.) Korm. rendelet a hulladékká vált gépjárművekről, 109/2005. (VI. 23.) Korm. rendelet az elemek és az akkumulátorok hulladékainak visszavételéről, 20/2005. (VI. 10.) EüM rendelet a humán gyógyszerek és csomagolásuk hulladékainak kezeléséről, 103/2003. (IX. 11.) FVM rendelet a növényvédő szerrel szennyezett csomagolóeszköz-hulladékok kezeléséről.
