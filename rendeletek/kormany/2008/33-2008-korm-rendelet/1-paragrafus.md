@@ -12,7 +12,7 @@ d) a területfejlesztésért felelős miniszter hatáskörébe tartozó szabály
 
 e) a területfejlesztésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-f) a településrendezésért és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi mérnöki kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, tervellenőri, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+f)[^2] a településrendezésért és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi mérnöki kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
 g) a településrendezésért és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, építésügyi igazgatási szakértői tevékenység, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
@@ -81,3 +81,4 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 (6) Az elismerésért felelős hatóság rendszeresen tájékoztatja az Etv. IV. fejezetének hatálya alá tartozó döntéseiről a szakmai és vizsgakövetelmények meghatározásáért felelős minisztert.
 
 [^1]: Az 1. § a 282/2011. (XII. 21.) Korm. rendelet – 324/2011. (XII. 28.) Korm. rendelet 35. § (2)–(3) bekezdése szerint módosított – 26. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés f) pontja a 314/2012. (XI. 8.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.

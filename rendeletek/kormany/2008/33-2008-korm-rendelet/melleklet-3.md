@@ -18,7 +18,7 @@
 
 | 8. | Felelős műszaki vezetői tevékenység, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | 2. § (6) bekezdés a) pontja szerint | 2. § (6) bekezdés a) pontja szerint |
 
-| 9. | Tervellenőri tevékenység, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | 2. § (6) bekezdés a) pontja szerint | 2. § (6) bekezdés a) pontja szerint |
+| 9. |  |  |  |
 
 | 10. | Építésügyi igazgatási szakértői tevékenység, az Etv. IX. fejezetének hatálya alátartozó szabályozott szakmák kivételével | 2. § (6) bekezdés b) pontja szerint | 2. § (6) bekezdés b) pontja szerint |
 
@@ -30,6 +30,6 @@
 
 | 13. | Ebek viselkedésének megítélésében jártas szakértő | Nemzeti Élelmiszerlánc-biztonsági Hivatal | Vidékfejlesztési miniszter |
 
-3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^14]
+3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^16]
 
-[^14]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 205. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § k) pontja.
+[^16]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 205. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § k) pontja.

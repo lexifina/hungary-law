@@ -1,4 +1,4 @@
-3. §[^6] (1) A szolgáltatásnyújtó bejelentésének tartalmaznia kell
+3. §[^8] (1) A szolgáltatásnyújtó bejelentésének tartalmaznia kell
 
 a) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (1) és (3) bekezdésében meghatározott adatokat,
 
@@ -20,4 +20,4 @@ d) az Etv. 38. § (2) bekezdése alá tartozó esetben annak az okiratnak a hite
 
 (3) Az eljáró hatóság internetes honlapján közzéteszi azoknak a nyelveknek a felsorolását, amelyek esetében a (2) bekezdés rendelkezéseitől eltérően nem hiteles fordítást is elfogad.
 
-[^6]: A 3. §-t a 6. § (3) bekezdése hatályon kívül helyezte, újonnan a 214/2009. (IX. 30.) Korm. rendelet 2. §-a iktatta be. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 3. §-t a 6. § (3) bekezdése hatályon kívül helyezte, újonnan a 214/2009. (IX. 30.) Korm. rendelet 2. §-a iktatta be. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
