@@ -38,7 +38,7 @@
 
 3. számú melléklet a 17/1993. (VII. 1.) KHVM rendelethez[^30]
 
-## Gépjárműjavítás Biztonsági Szabályzata
+Gépjárműjavítás Biztonsági Szabályzata
 
 1. ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -1014,7 +1014,7 @@ A fenntartási tevékenység végzése a különleges anyagokat szállító gép
 
 A tisztítás, fertőtlenítés történhet:
 
-– az ÁNTSZ megyei intézetében,
+–[^76] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervénél,
 
 – tisztítás, fertőtlenítés végzésére engedéllyel rendelkező vállalkozóval,
 
@@ -1136,7 +1136,7 @@ Halottszállító gépjárművön karbantartási, javítási tevékenység fert�
 
 9.3.10. Élő állatokat szállító gépjárművek javítása
 
-Élő állatokat szállított gépjármű a külön jogszabályban[^76] meghatározott igazoltan tisztított, fertőtlenített állapotban javítható.
+Élő állatokat szállított gépjármű a külön jogszabályban[^77] meghatározott igazoltan tisztított, fertőtlenített állapotban javítható.
 
 9.4. Fertőtlenítési tevékenység
 
@@ -1172,9 +1172,9 @@ Azon különleges felépítményű gépjárművek esetében, amelyek állandó j
 
 10.5. Gépjárműemelők
 
-– Az emelők üzembe helyezéséhez kapcsolódó vizsgálatokat a külön jogszabályban[^77] meghatározottak szerint kell végezni.
+– Az emelők üzembe helyezéséhez kapcsolódó vizsgálatokat a külön jogszabályban[^78] meghatározottak szerint kell végezni.
 
-– Az időszakos felülvizsgálatok rendszerességét és tartalmát a külön jogszabály és szabvány[^78] előírásai szerint kell megállapítani.
+– Az időszakos felülvizsgálatok rendszerességét és tartalmát a külön jogszabály és szabvány[^79] előírásai szerint kell megállapítani.
 
 – Az emelők felújítása, áthelyezése vagy szerkezeti változtatása esetén az ismételt üzembe helyezés előtt szakirányú emelőgép szakértővel üzembe helyezési vizsgálatot kell végeztetni.
 
@@ -1184,7 +1184,7 @@ Azon különleges felépítményű gépjárművek esetében, amelyek állandó j
 
 A gépjárműfenntartás területén alkalmazásra kerülő, nem kifejezetten a gépjárművek emelésére készített egyéb emelő berendezések időszakos felülvizsgálatát a rájuk vonatkozó előírások szerint kell végezni és dokumentálni.
 
-10.7. Azoknál a diagnosztikai berendezéseknél, amelyek kalibrálási rendszeressége elő van írva[^79], a kalibrálás időpontjában a biztonságos működést is ellenőrizni kell.
+10.7. Azoknál a diagnosztikai berendezéseknél, amelyek kalibrálási rendszeressége elő van írva[^80], a kalibrálás időpontjában a biztonságos működést is ellenőrizni kell.
 
 10.8. A veszélyek megelőzésére vagy elhárítására szolgáló berendezések (pl. biztonsági világítás, szellőzéstechnikai berendezések, biztonsági vezérlések) állapotát, megfelelő működését évente legalább egyszer ellenőrizni kell. Az ellenőrzés megállapításait dokumentálni kell.
 
@@ -1324,7 +1324,8 @@ A Szabályzathoz kapcsolódó jogszabályok
 [^73]: 1/1990. (IX. 29.) KHVM rendelet.
 [^74]: MSZ–09–57.0033.
 [^75]: 6/1996. (II. 21.) IKM rendelet.
-[^76]: 41/1997. (V. 28.) FM rendelet.
-[^77]: 47/1999. (VIII. 4.) GM rendelet.
-[^78]: 47/1999. (VIII. 4.) GM rendelet, MSZ–07–4446.
-[^79]: 1/1990. (IX. 29.) KHVM rendelet.
+[^76]: A 3. számú melléklet 9. pont 9.3. pont 9.3.1. alpont negyedik franciabekezdése a 76/2012. (XII. 22.) NFM rendelet 2. §-ával megállapított szöveg.
+[^77]: 41/1997. (V. 28.) FM rendelet.
+[^78]: 47/1999. (VIII. 4.) GM rendelet.
+[^79]: 47/1999. (VIII. 4.) GM rendelet, MSZ–07–4446.
+[^80]: 1/1990. (IX. 29.) KHVM rendelet.
