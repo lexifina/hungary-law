@@ -54,7 +54,7 @@ c) az eljárást megszünteti, ha az a) és b) pontok szerinti határozat meghoz
 
 (15) A határozat rendelkező részből és indokolásból áll.
 
-(16) A rendelkező résznek világosan tartalmaznia kell a Döntőbizottság döntését. A rendelkező részben kell tájékoztatást adni arról is, hogy a Döntőbizottság határozata ellen az abban érintettek harminc napon belül keresettel fordulhatnak a munkaügyi bírósághoz.
+(16)[^1] A rendelkező résznek világosan tartalmaznia kell a Döntőbizottság döntését. A rendelkező részben kell tájékoztatást adni arról is, hogy a Döntőbizottság határozata ellen az abban érintettek harminc napon belül keresettel fordulhatnak a közigazgatási és munkaügyi bírósághoz.
 
 (17) Az indokolásnak a következőket kell tartalmaznia különösen:
 
@@ -65,3 +65,5 @@ b) az eljárás eredményét és mindazokat a körülményeket, tényeket, amely
 c) az alkalmazásra kerülő jogszabályokat.
 
 (18) A Döntőbizottság határozatát a titkárságvezető küldi meg a panaszos és a munkáltató részére.
+
+[^1]: A 9. § (16) bekezdése a 403/2012. (XII. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
