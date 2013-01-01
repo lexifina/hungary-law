@@ -10,4 +10,6 @@ a) a végső fogyasztókat, vagy
 
 b) a végső fogyasztókat friss hússal közvetlenül ellátó, helyi kiskereskedelmi egységeket.
 
-(4) Azon állatfajok, állományok, illetve hasznosítási irányok vonatkozásában, melyekre nézve e rendelet nem tartalmaz előírásokat, de a 2160/2003/EK rendelet I. mellékletében szerepelnek, a szalmonellózis elleni védekezést (a továbbiakban: védekezés) az élelmiszeripari vállalkozó, gazdaság, illetve keltető (a továbbiakban: vállalkozó) önkéntesen kezdeményezheti a telephelye szerint illetékes kerületi hivatalnál járványügyi intézkedési terv benyújtásával.
+(4)[^1] Azon állatfajok, állományok, illetve hasznosítási irányok vonatkozásában, melyekre nézve e rendelet nem tartalmaz előírásokat, de a 2160/2003/EK rendelet I. mellékletében szerepelnek, a szalmonellózis elleni védekezést (a továbbiakban: védekezés) az élelmiszeripari vállalkozó, gazdaság, illetve keltető (a továbbiakban: vállalkozó) önkéntesen kezdeményezheti a telephelye szerint illetékes járási állategészségügyi és élelmiszer-ellenőrző hivatalnál (a továbbiakban: járási állategészségügyi hivatal) járványügyi intézkedési terv benyújtásával.
+
+[^1]: Az 1. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § a) pontja szerint módosított szöveg.

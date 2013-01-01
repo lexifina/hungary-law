@@ -24,7 +24,7 @@ b) a hatósági minták vizsgálatán túl elvégezhetik a vállalkozói minták
 
 c) elvégzik a 11. § (3) bekezdése szerinti vizsgálatokat, majd az izolált törzset szerotipizálás céljából az NRL-be küldik,
 
-d) e rendelet szerint, illetve megkeresésre adatot szolgáltatnak az MgSzH Központ, az MgSzH területi szerve, illetve a kerületi hivatal részére.
+d)[^6] e rendelet szerint, illetve megkeresésre adatot szolgáltatnak az MgSzH Központ, az MgSzH területi szerve, illetve a járási állategészségügyi hivatal részére.
 
 (4) Az MgSzH Központ által engedélyezett magánlaboratóriumok
 
@@ -32,10 +32,15 @@ a) elvégzik a vállalkozói minták bakteriológiai vizsgálatát a 2160/2003/E
 
 b) közül a 3. § (2) bekezdés f) pontja alapján kijelöltek elvégzik a hatósági minták bakteriológiai vizsgálatát a 2160/2003/EK rendelet 12. cikkében foglaltak szerint, illetve elvégzik a 11. § (3) bekezdése szerinti vizsgálatokat, majd az izolált törzset szerotipizálás céljából az NRL-be küldik,
 
-c) az elvégzett vizsgálatok eredményeiről negyedévente összesítést küldenek az MgSzH területi szervének, illetve megkeresésre adatot szolgáltatnak az MgSzH Központ, az MgSzH területi szerve, illetve a kerületi hivatal részére.
+c)[^7] az elvégzett vizsgálatok eredményeiről negyedévente összesítést küldenek az MgSzH területi szervének, illetve megkeresésre adatot szolgáltatnak az MgSzH Központ, az MgSzH területi szerve, illetve a járási állategészségügyi hivatal részére.
 
-(5) A minták vizsgálatának eredményéről a vizsgáló laboratórium értesíti a vállalkozót, a mintavevő állatorvost, a kerületi hivatalt, illetve pozitív eredmény esetén az MgSzH területi szervét is.
+(5)[^8] A minták vizsgálatának eredményéről a vizsgáló laboratórium értesíti a vállalkozót, a mintavevő állatorvost, a járási állategészségügyi hivatalt, illetve pozitív eredmény esetén az MgSzH területi szervét is.
 
 (6) A vizsgáló laboratóriumok kötelesek az általuk elvégzett vizsgálatokról naprakész nyilvántartást vezetni és valamennyi erre vonatkozó dokumentumot 3 évig megőrizni.
 
-(7) A vizsgáló laboratórium köteles jelezni az MgSzH területi szervének és a kerületi hivatalnak, ha a vizsgált minták a normális bélflórát sem tartalmazzák. Ebben az esetben az érintett állatállományra vagy légtérre vonatkozóan a kerületi hivatal mindaddig megtiltja az állatok, a keltetőtojás és az árutojás ki-, illetve beszállítását (a továbbiakban: forgalmi korlátozás), amíg a vállalkozónál vett minta legalább a normális bélflórát nem tartalmazza. Amennyiben a steril minta hatósági minta volt, a forgalmi korlátozás csak azután oldható fel, ha a vállalkozó a hatóság költségeit megtérítette. Az ismétlő minta vizsgálatát – az antimikrobiális gátló hatásra irányuló vizsgálattal együtt – az NRL végzi el, a mintavétel és a vizsgálatok költségei a vállalkozót terhelik. A steril minta vizsgálata alapján mentességről szóló hatósági bizonyítvány nem adható ki.
+(7)[^9] A vizsgáló laboratórium köteles jelezni az MgSzH területi szervének és a járási állategészségügyi hivatalnak, ha a vizsgált minták a normális bélflórát sem tartalmazzák. Ebben az esetben az érintett állatállományra vagy légtérre vonatkozóan a járási állategészségügyi hivatal mindaddig megtiltja az állatok, a keltetőtojás és az árutojás ki-, illetve beszállítását (a továbbiakban: forgalmi korlátozás), amíg a vállalkozónál vett minta legalább a normális bélflórát nem tartalmazza. Amennyiben a steril minta hatósági minta volt, a forgalmi korlátozás csak azután oldható fel, ha a vállalkozó a hatóság költségeit megtérítette. Az ismétlő minta vizsgálatát – az antimikrobiális gátló hatásra irányuló vizsgálattal együtt – az NRL végzi el, a mintavétel és a vizsgálatok költségei a vállalkozót terhelik. A steril minta vizsgálata alapján mentességről szóló hatósági bizonyítvány nem adható ki.
+
+[^6]: A 4. § (3) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (4) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.

@@ -18,7 +18,7 @@ f) az engedélyezett és akkreditációval rendelkező laboratóriumok közül k
 
 (3) A Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: MgSzH területi szerve)
 
-a) ellenőrzi és felügyeli a kerületi hivatalok nemzeti ellenőrzési programok végrehajtásával kapcsolatos tevékenységét,
+a)[^2] ellenőrzi és felügyeli a járási állategészségügyi hivatalok nemzeti ellenőrzési programok végrehajtásával kapcsolatos tevékenységét,
 
 b) ellenőrzi az engedélyezett magánlaboratóriumok nemzeti ellenőrzési programok végrehajtásával kapcsolatos vizsgálati tevékenységét,
 
@@ -36,7 +36,7 @@ h) a szakmai szervezetekkel egyeztetve részt vesz a vállalkozók képzésében
 
 i) a védekezés helyzetéről félévente jelentést küld az MgSzH Központnak, illetve kérésre adatot szolgáltat.
 
-(4) A kerületi hivatal
+(4)[^3] A járási állategészségügyi hivatal
 
 a) nyilvántartásba veszi az érintett vállalkozókat, és a betelepíthető légtereket a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló külön jogszabály alapján kiadott tenyészetkódon belül arab számmal megjelöli,
 
@@ -56,7 +56,7 @@ h) Salmonella Enteritidis, illetve Salmonella Typhimurium fertőzöttség eseté
 
 i) adatot szolgáltat az MgSzH területi szerve részére.
 
-(5) A kerületi hivatal által kijelölt hatósági vagy jogosult állatorvos
+(5)[^4] A járási állategészségügyi hivatal által kijelölt hatósági vagy jogosult állatorvos
 
 a) a (2) bekezdés c) és d) pontja szerinti vizsgálatokhoz és a nemzeti ellenőrzési programok szerinti hivatalból indított eljárás során mintát vesz (a továbbiakban: hatósági minta) a 2. számú melléklet alapján,
 
@@ -68,4 +68,9 @@ a) ellenjegyzi a vállalkozó által elkészített járványügyi intézkedési 
 
 b) a vállalkozó kezdeményezésére mintát vesz (a továbbiakban: vállalkozói minta) az 1. számú melléklet alapján,
 
-c) az MgSzH Központ, az MgSzH területi szerve, illetve a kerületi hivatal megkeresése alapján adatot szolgáltat.
+c)[^5] az MgSzH Központ, az MgSzH területi szerve, illetve a járási állategészségügyi hivatal megkeresése alapján adatot szolgáltat.
+
+[^2]: A 3. § (3) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (5) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (6) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.

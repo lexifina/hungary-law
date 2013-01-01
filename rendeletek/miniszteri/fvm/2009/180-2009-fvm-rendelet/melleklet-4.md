@@ -1,10 +1,10 @@
-4. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez
+4. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez[^33]
 
 | Mentességről szóló hatósági bizonyítvány mintája |
 
-| .......................................................................... Megyei MgSzH Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága |
+| ........................................................................…………………….. Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatala |
 
-| ............................................... Kerületi Hivatal | Iktatási szám: |
+|  | Iktatási szám: |
 
 | Cím: |
 
@@ -27,3 +27,5 @@
 | Laboratóriumi vizsgálatok |
 
 | iktatószáma és dátuma: |
+
+[^33]: A 4. számú melléklet a 151/2012. (XII. 29.) VM rendelet 41. § c) pontja szerint módosított szöveg.

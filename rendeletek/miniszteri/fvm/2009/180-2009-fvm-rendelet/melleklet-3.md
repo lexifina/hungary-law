@@ -6,15 +6,15 @@
 
 | Házityúk tenyészállományok | A termelési ciklusban, az 1003/2005/EK rendelet mellékletének 2.1.2.2. pontja szerint | Az 1003/2005/EK rendelet mellékletének 2.2.2.2. pontjában foglaltak szerint | Az 1003/2005/EK rendelet mellékletének 3. pontjában foglaltak szerint |
 
-| Tenyészpulyka-állományok | Az 584/2008/EK rendelet melléklete 1. pontjának b) (iii) alpontja szerint a kerületi hivatal évente határozza meg2 |
+| Tenyészpulyka-állományok | Az 584/2008/EK rendelet melléklete 1. pontjának b) (iii) alpontja szerint a járási állategészségügyi hivatal évente határozza meg2 |
 
 | Házityúk tojóállományok | Az 1168/2006/EK rendelet mellékletének 2.1. pontja szerint | Az 1168/2006/EK rendelet mellékletének 2.2. pontjában foglaltak szerint | Az 1168/2006/EK rendelet mellékletének 3. pontja szerint |
 
-| Házityúk brojlerállományok | A 646/2007/EK rendelet melléklete 1. b) pontja alapján a kerületi hivatal évente határozza meg2 | A 646/2007/EK rendelet melléklete 2. pontjában foglaltak szerint | A 646/2007/EK rendelet mellékletének 3. pontjában foglaltak szerint |
+| Házityúk brojlerállományok | A 646/2007/EK rendelet melléklete 1. b) pontja alapján a járási állategészségügyi hivatal évente határozza meg2 | A 646/2007/EK rendelet melléklete 2. pontjában foglaltak szerint | A 646/2007/EK rendelet mellékletének 3. pontjában foglaltak szerint |
 
-| Hízópulyka-állományok | Az 584/2008/EK rendelet melléklete 1. pontjának b) (iii) alpontja szerint a kerületi hivatal évente határozza meg2 | Az 584/2008/EK rendelet melléklete 2.2.2. pontjában foglaltak szerint | Az 584/2008/EK rendelet mellékletének 3. pontjában foglaltak szerint |
+| Hízópulyka-állományok | Az 584/2008/EK rendelet melléklete 1. pontjának b) (iii) alpontja szerint a járási állategészségügyi hivatal évente határozza meg2 | Az 584/2008/EK rendelet melléklete 2.2.2. pontjában foglaltak szerint | Az 584/2008/EK rendelet mellékletének 3. pontjában foglaltak szerint |
 
-## 2 A kerületi hivatal a tervezett mintavételekről tájékoztatja a vállalkozót.
+## 2 A járási állategészségügyi hivatal a tervezett mintavételekről tájékoztatja a vállalkozót.
 
 3. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez
 
