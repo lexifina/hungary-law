@@ -1,3 +1,3 @@
-## 63. §[^24]
+## 63. §[^12]
 
-[^24]: A 63. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^12]: A 63. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.

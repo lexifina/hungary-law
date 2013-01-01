@@ -1,3 +1,3 @@
-## 77–78. §[^37]
+## 78. § Az Épkiv. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^37]: A 77–78. § a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## „(3) Az egyes különálló tervlapokon szerepeltetni kell az adott tervrajz pontos megnevezését és méretarányát, önálló ábránként.”

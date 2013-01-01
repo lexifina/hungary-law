@@ -1,12 +1,15 @@
-## 70. §[^27]
+## „(8) Az építőipari kivitelezési munka jellegének megfelelő szakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet olyan építőipari kivitelezési tevékenységet, melynek teljesítéséhez nem vesz igénybe további alvállalkozót.”
 
-71. § (1)[^28]
+71. § (1) Az Épkiv. 16. § (3) bekezdés j) pontja helyébe a következő rendelkezés lép:
 
-(2)[^29]
+(Az építtető helyszíni képviselőjeként – ha a felek további feladatokról nem állapodtak meg – az építési műszaki ellenőr feladata:)
 
-(3)[^30]
+## „j) a beépített építési termékek teljesítmény nyilatkozatai meglétének ellenőrzése,”
 
-[^27]: A 70. § a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^28]: A 71. § (1) bekezdése a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^29]: A 71. § (2) bekezdése a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
-[^30]: A 71. § (3) bekezdése a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+(2)[^14]
+
+(3) Az Épkiv. 16. § (3) bekezdése a következő s) ponttal egészül ki:
+
+(Az építtető helyszíni képviselőjeként – ha a felek további feladatokról nem állapodtak meg – az építési műszaki ellenőr feladata:)
+
+[^14]: A 71. § (2) bekezdése a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
