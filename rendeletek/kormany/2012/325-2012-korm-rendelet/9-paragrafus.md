@@ -1,3 +1,1 @@
-9. §[^4]
-
-[^4]: A 9. § a 8. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+9. § Ez a rendelet a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
