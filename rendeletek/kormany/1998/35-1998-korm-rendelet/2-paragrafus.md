@@ -8,11 +8,11 @@
 
 (5)[^7]
 
-(6)[^8] A tudományos fokozata alapján az Országos Közigazgatási Vizsgabizottság elnöksége által a szakvizsga alól részlegesen mentesített vizsgázónak csak a mentesítéssel nem érintett vizsgatárgyból kell írásbeli és szóbeli szakvizsgát tennie. A vizsga értékelése során a mentesítéssel érintett vizsgatárgyat ,,kiváló eredménnyel'' teljesítettnek kell tekinteni.
+(6)[^8] A tudományos fokozata alapján a Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) által a szakvizsga alól részlegesen mentesített vizsgázónak csak a mentesítéssel nem érintett vizsgatárgyból kell írásbeli és szóbeli szakvizsgát tennie. A vizsga értékelése során a mentesítéssel érintett vizsgatárgyat ,,kiváló eredménnyel'' teljesítettnek kell tekinteni.
 
 [^3]: A 2. § (1) bekezdése a 235/2001. (XII. 10.) Korm. rendelet 2. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdése a 235/2001. (XII. 10.) Korm. rendelet 2. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 2. § (3) bekezdése a 235/2001. (XII. 10.) Korm. rendelet 2. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 2. § (4) bekezdése a 49/2002. (III. 26.) Korm. rendelet 2. §-ával megállapított, a 252/2008. (X. 14.) Korm. rendelet 5. § (5) bekezdése szerint módosított szöveg.
 [^7]: A 2. § (5) bekezdését a 235/2001. (XII. 10.) Korm. rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
-[^8]: A 2. § (6) bekezdését a 107/2001. (VI. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 2. § (6) bekezdését a 107/2001. (VI. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés c) pontja, a 415/2012. (XII. 29.) Korm. rendelet 5. § (5) bekezdés a) pontja szerint módosított szöveg.
