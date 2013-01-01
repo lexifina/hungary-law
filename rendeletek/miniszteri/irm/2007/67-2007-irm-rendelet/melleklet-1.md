@@ -4854,7 +4854,7 @@
 
 15.6.4. Balatonföldvár
 
-15.6.5. Balatonöszöd
+15.6.5. Balatonőszöd
 
 15.6.6. Balatonszabadi
 
@@ -4862,85 +4862,85 @@
 
 15.6.8. Balatonszemes
 
-15.6.9. Bábonymegyer
+15.6.9. Balatonvilágos
 
-15.6.10. Bálványos
+15.6.10. Bábonymegyer
 
-15.6.11. Bedegkér
+15.6.11. Bálványos
 
-15.6.12. Bonnya
+15.6.12. Bedegkér
 
-15.6.13. Fiad
+15.6.13. Bonnya
 
-15.6.14. Kapoly
+15.6.14. Fiad
 
-15.6.15. Kánya
+15.6.15. Kapoly
 
-15.6.16. Kára
+15.6.16. Kánya
 
-15.6.17. Kereki
+15.6.17. Kára
 
-15.6.18. Kisbárapáti
+15.6.18. Kereki
 
-15.6.19. Kötcse
+15.6.19. Kisbárapáti
 
-15.6.20. Kőröshegy
+15.6.20. Kötcse
 
-15.6.21. Lulla
+15.6.21. Kőröshegy
 
-15.6.22. Miklósi
+15.6.22. Lulla
 
-15.6.23. Nagyberény
+15.6.23. Miklósi
 
-15.6.24. Nagycsepely
+15.6.24. Nagyberény
 
-15.6.25. Nágocs
+15.6.25. Nagycsepely
 
-15.6.26. Nyim
+15.6.26. Nágocs
 
-15.6.27. Pusztaszemes
+15.6.27. Nyim
 
-15.6.28. Ságvár
+15.6.28. Pusztaszemes
 
-15.6.29. Sérsekszőlős
+15.6.29. Ságvár
 
-15.6.30. Siófok
+15.6.30. Sérsekszőlős
 
-15.6.31. Siójut
+15.6.31. Siófok
 
-15.6.32. Som
+15.6.32. Siójut
 
-15.6.33. Somogyacsa
+15.6.33. Som
 
-15.6.34. Somogydöröcske
+15.6.34. Somogyacsa
 
-15.6.35. Somogyegres
+15.6.35. Somogydöröcske
 
-15.6.36. Somogymeggyes
+15.6.36. Somogyegres
 
-15.6.37. Szántód
+15.6.37. Somogymeggyes
 
-15.6.38. Szorosad
+15.6.38. Szántód
 
-15.6.39. Szólád
+15.6.39. Szorosad
 
-15.6.40. Tab
+15.6.40. Szólád
 
-15.6.41. Teleki
+15.6.41. Tab
 
-15.6.42. Tengőd
+15.6.42. Teleki
 
-15.6.43. Torvaj
+15.6.43. Tengőd
 
-15.6.44. Törökkoppány
+15.6.44. Torvaj
 
-15.6.45. Zala
+15.6.45. Törökkoppány
 
-15.6.46. Zamárdi
+15.6.46. Zala
 
-15.6.47. Zics
+15.6.47. Zamárdi
 
-15.7. Balatoni Vízirendészeti Rendőrkapitányság, Siófok
+15.6.48. Zics
 
 16. SZABOLCS-SZATMÁR-BEREG MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -6514,23 +6514,21 @@
 
 19.2.4. Balatonkenese
 
-19.2.5. Balatonvilágos
+19.2.5. Csajág
 
-19.2.6. Csajág
+19.2.6. Felsőörs
 
-19.2.7. Felsőörs
+19.2.7. Királyszentistván
 
-19.2.8. Királyszentistván
+19.2.8. Küngös
 
-19.2.9. Küngös
+19.2.9. Litér
 
-19.2.10. Litér
+19.2.10. Lovas
 
-19.2.11. Lovas
+19.2.11. Papkeszi
 
-19.2.12. Papkeszi
-
-19.2.13. Vilonya
+19.2.12. Vilonya
 
 19.3. Balatonfüredi Rendőrkapitányság
 
@@ -7418,4 +7416,4 @@
 
 21.1.4. Ferihegy–2/B terminál légi határátkelőhely
 
-[^7]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a szerint módosított szöveg.
