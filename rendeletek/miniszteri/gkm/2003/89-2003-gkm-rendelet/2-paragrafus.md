@@ -72,7 +72,7 @@ i) egyéb anyagok robbanása;
 
 j) az előbbiekben nem említett, a bányafelügyelet tűzvédelmi hatósági felügyelete alá tartozó létesítményben vagy tevékenység során keletkezett tűz;
 
-k)[^2] a bányászati hulladékok kezeléséről szóló miniszteri rendelet szerinti súlyos baleset.
+k)[^3] a bányászati hulladékok kezeléséről szóló miniszteri rendelet szerinti súlyos baleset.
 
 1.3. A súlyosnak minősülő munkabaleseteket (a továbbiakban: súlyos baleset) a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 3. pontja határozza meg.
 
@@ -82,7 +82,7 @@ k)[^2] a bányászati hulladékok kezeléséről szóló miniszteri rendelet sze
 
 2.2. Ha a súlyos baleset a súlyos üzemzavar során keletkezett, azt a súlyos üzemzavarral együtt kell bejelenteni és kivizsgálni.
 
-2.3.[^3] A bejelentést azonnal meg kell tenni a területileg illetékes bányakapitányságnak (a továbbiakban: bányakapitányság), a Magyar Bányászati és Földtani Hivatalnak (a továbbiakban: MBFH) és a területileg illetékes városi, megyei rendőr-főkapitányságnak, valamint, ha a súlyos üzemzavart vízbetörés okozta, vagy az üzemzavar környezetszennyezést, környezetkárosodást okozott, illetve a környezetkárosodás védett természeti területen vagy annak közelében történt, akkor a működési terület szerinti vízügyi igazgatóságnak és nemzeti park igazgatóságnak, valamint a területileg illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek. A szóban tett bejelentést legkésőbb a következő munkanapon az addig megismert tények és körülmények közlésével, írásban meg kell erősíteni.
+2.3.[^4] A bejelentést azonnal meg kell tenni a területileg illetékes bányakapitányságnak (a továbbiakban: bányakapitányság), a Magyar Bányászati és Földtani Hivatalnak (a továbbiakban: MBFH) és a területileg illetékes városi, megyei rendőr-főkapitányságnak, valamint, ha a súlyos üzemzavart vízbetörés okozta, vagy az üzemzavar környezetszennyezést, környezetkárosodást okozott, illetve a környezetkárosodás védett természeti területen vagy annak közelében történt, akkor a működési terület szerinti vízügyi igazgatóságnak és nemzeti park igazgatóságnak, valamint a területileg illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek. A szóban tett bejelentést legkésőbb a következő munkanapon az addig megismert tények és körülmények közlésével, írásban meg kell erősíteni.
 
 2.4. A bejelentésnek tartalmaznia kell:
 
@@ -108,7 +108,7 @@ b) minden olyan intézkedést megtenni, amely a további veszélyeztetést és a
 
 2.9. A bányafelügyelet hivatalból vizsgálhatja a felügyelete alatt álló tevékenység során bekövetkezett azt az egyéb üzemzavart, balesetet, amely az 1.2. pont szerint nem minősül súlyosnak.
 
-2.10.[^4] Az MBFH elnöke vagy a bányakapitány a vizsgálatra bizottságot alakíthat, melynek munkáját a vizsgálat vezetésére kijelölt dolgozó irányítja. A bizottság által végzett vizsgálatra a bányakapitánysági vizsgálatra előírt szabályokat kell alkalmazni.
+2.10.[^5] Az MBFH elnöke vagy a bányakapitány a vizsgálatra bizottságot alakíthat, melynek munkáját a vizsgálat vezetésére kijelölt dolgozó irányítja. A bizottság által végzett vizsgálatra a bányakapitánysági vizsgálatra előírt szabályokat kell alkalmazni.
 
 2.11. A bányafelügyelet vizsgálata nem érinti a gazdálkodó szervezetnek a baleset vizsgálatára más jogszabályban előírt kötelezettségét.
 
@@ -118,7 +118,7 @@ a) minden esetben a gazdálkodó szervezetet, a megyei rendőr-főkapitányságo
 
 b) vízbetörés, valamint a környezetszennyezést vagy környezetkárosodást okozó üzemzavar esetén a területileg illetékes környezetvédelmi felügyelőséget és vízügyi igazgatóságot, – védett természeti területen vagy annak közelében – a területileg illetékes nemzeti park igazgatóságot,
 
-c)[^5] amennyiben a súlyos üzemzavar vagy a súlyos baleset kapcsán mérgezés, illetve egészségkárosodás következik be, az Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) illetékes regionális intézetét, valamint a területileg illetékes fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szervének munkavédelmi felügyelőségét,
+c)[^6] amennyiben a súlyos üzemzavar vagy a súlyos baleset kapcsán mérgezés, illetve egészségkárosodás következik be, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét, valamint a területileg illetékes fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szervének munkavédelmi felügyelőségét,
 
 d) a gazdálkodó szervezet útján a szakmunkástanulót vagy más munkáltató dolgozóját ért súlyos baleset esetén a szakmunkástanuló-intézet igazgatóját, illetőleg a munkáltató vezetőjét.
 
@@ -132,23 +132,23 @@ d) a gazdálkodó szervezet útján a szakmunkástanulót vagy más munkáltató
 
 a) helyszíni szemlét tart,
 
-b)[^6]
+b)[^7]
 
 c) üzemi kísérletet végez(tet)het,
 
-d)[^7]
+d)[^8]
 
 e) gép, berendezés, műszer és egyéb anyag meghatározott ideig történő megőrzését, illetve laboratóriumi vizsgálatát rendelheti el,
 
-f)[^8]
+f)[^9]
 
 g) megtilthatja, korlátozhatja, engedélyhez kötheti a tevékenység folytatását.
 
-2.17.[^9]
+2.17.[^10]
 
 3. A vizsgálat lezárása
 
-3.1.[^10] A vizsgálatot lezáró határozatban meg kell állapítani
+3.1.[^11] A vizsgálatot lezáró határozatban meg kell állapítani
 
 a) a súlyos üzemzavar, súlyos baleset okát (okait),
 
@@ -166,13 +166,13 @@ b) szabálysértés esetén a hatáskörébe tartozó szabálysértési eljárá
 
 c) munkavédelmi, illetve bányászati bírságot szabhat ki, továbbá egyéb intézkedést tehet.
 
-3.4.[^11] A vizsgálatot lezáró határozatot közölni kell:
+3.4.[^12] A vizsgálatot lezáró határozatot közölni kell:
 
 a) a 2.12. pont szerint értesítettekkel, és
 
 b) súlyos baleset esetén a sérülttel, halála esetén közvetlen hozzátartozójával [Ptk. 685. § b) pont].
 
-3.5.[^12] A megyei rendőr-főkapitányságnak a határozattal együtt a vizsgálati iratok másolatait is meg kell küldeni.
+3.5.[^13] A megyei rendőr-főkapitányságnak a határozattal együtt a vizsgálati iratok másolatait is meg kell küldeni.
 
 3.6. Ha a vizsgálat lezárását követően olyan új tények, bizonyítékok merülnek fel, amelyek a súlyos üzemzavar, súlyos baleset okának alapvetően új megítélését eredményezheti, a bányakapitányság az esetet újból vizsgálhatja. A súlyos üzemzavar, súlyos baleset bekövetkezését követő három év elteltével a bányakapitányság vizsgálat elvégzésére nem kötelezhető.
 
@@ -180,7 +180,7 @@ b) súlyos baleset esetén a sérülttel, halála esetén közvetlen hozzátarto
 
 4.1. Ha a súlyos üzemzavar balesetet vagy közvetlen veszélyeztetést nem okozott, továbbá, ha súlyos üzemzavar tervszerű üzemi tevékenység következménye, a bányakapitányság a vizsgálatot a helyszíni szemle és a gazdálkodó szervezet által végzett vizsgálatról készített jelentés alapján további eljárás nélkül lezárhatja, amennyiben a vizsgálat az üzemzavar okát feltárta és hasonló esetek elkerülésére bányakapitánysági intézkedés nem szükséges.
 
-4.2.[^13] A 4.1. pont szerinti vizsgálatot 15 napon belül be kell fejezni. Az eljárás befejezéséről hozott végzését a bányafelügyelet a 3.4. pont a) alpontjában felsoroltakkal közli.
+4.2.[^14] A 4.1. pont szerinti vizsgálatot 15 napon belül be kell fejezni. Az eljárás befejezéséről hozott végzését a bányafelügyelet a 3.4. pont a) alpontjában felsoroltakkal közli.
 
 4.3. Ha a létesítmény tűzvédelmi hatósági felügyelete nem tartozik a bányafelügyelet hatáskörébe, a bányakapitányság a keletkezett tűz vizsgálatában a tűzvédelmi hatóság felkérése szerint vesz részt, önálló vizsgálatot nem végez. Ebben az esetben is köteles a helyszínt megtekinteni, és ha az eset kapcsán bányafelügyeleti intézkedés nem szükséges, az eljárást a 4.1. pont szerint lezárhatja.
 
@@ -188,15 +188,15 @@ b) súlyos baleset esetén a sérülttel, halála esetén közvetlen hozzátarto
 
 A gazdálkodó szervezet köteles gondoskodni a vizsgálattal kapcsolatban felmerült szállítási, tárolási, őrzési feladatok teljesítéséről.
 
-[^2]: A melléklet 1.2. pont k) alpontját a 11/2011. (IV. 7.) NFM rendelet 13. §-a iktatta be.
-[^3]: A melléklet 2.3. pontja a 83/2011. (XII. 29.) NFM rendelet 6. §-a szerint módosított szöveg.
-[^4]: A melléklet 2. pontjának 2.10. alpontja a 86/2006. (XII. 26.) GKM rendelet 22. §-a szerint módosított szöveg.
-[^5]: A melléklet 2.12. pont c) alpontja a 18/2007. (V. 10.) SZMM rendelet 4. §-ával megállapított, a 19/2012. (IV. 26.) NFM rendelet 2. §-a szerint módosított szöveg.
-[^6]: A melléklet 2.16. pont b) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A melléklet 2.16. pont d) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A melléklet 2.16. pont f) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^9]: A melléklet 2.17. pontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: A melléklet 3.1. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: A melléklet 3.4. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: A melléklet 3.5. pont második mondatát a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^13]: A melléklet 4.2. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (2) bekezdésével megállapított, a 28/2010. (XII. 22.) NFM rendelet 2. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^3]: A melléklet 1.2. pont k) alpontját a 11/2011. (IV. 7.) NFM rendelet 13. §-a iktatta be.
+[^4]: A melléklet 2.3. pontja a 83/2011. (XII. 29.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^5]: A melléklet 2. pontjának 2.10. alpontja a 86/2006. (XII. 26.) GKM rendelet 22. §-a szerint módosított szöveg.
+[^6]: A melléklet 2.12. pont c) alpontja a 18/2007. (V. 10.) SZMM rendelet 4. §-ával megállapított, a 19/2012. (IV. 26.) NFM rendelet 2. §-a, a 76/2012. (XII. 22.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^7]: A melléklet 2.16. pont b) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A melléklet 2.16. pont d) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A melléklet 2.16. pont f) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A melléklet 2.17. pontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A melléklet 3.1. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A melléklet 3.4. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A melléklet 3.5. pont második mondatát a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A melléklet 4.2. pontja a 46/2009. (IX. 22.) KHEM rendelet 1. § (2) bekezdésével megállapított, a 28/2010. (XII. 22.) NFM rendelet 2. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
