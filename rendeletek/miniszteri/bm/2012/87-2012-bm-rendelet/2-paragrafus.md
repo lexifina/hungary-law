@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+## 1. § A Rendőrség szervei illetékességi területének megállapításáról szóló 67/2007. (XII. 28.) IRM rendelet 1. melléklete az 1. melléklet szerint módosul.
