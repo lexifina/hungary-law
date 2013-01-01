@@ -16,4 +16,7 @@ c) az állat védőoltását, egyéb előírt kezelését vagy bármely, az áll
 
 (5)[^6] Az útlevél kizárólag az állategészségügyi követelményeknek való megfelelés igazolására, járványügyi nyomonkövetésre, valamint az állat egyedi azonosítására szolgál. Az útlevél nem használható fel az állat fajtatiszta származásának, illetve tulajdonjogának igazolására.
 
+(6)[^7] Eb útlevelének kiállításakor a megbízott állatorvos az állat fajtájának megjelölésére szolgáló sort kizárólag abban az esetben töltheti ki, amennyiben az eb tulajdonosa az eb fajtatiszta származását az elismert tenyésztő szervezet által kibocsátott származási igazolással igazolja. E sor kitöltésekor az ebnek a származási igazolásán szereplő törzskönyvi azonosítóját is fel kell tüntetni.
+
 [^6]: Az 5. § (5) bekezdését a 145/2011. (XII. 23.) VM rendelet 1. §-a iktatta be.
+[^7]: Az 5. § (6) bekezdését a 127/2012. (XII. 12.) VM rendelet 3. §-a iktatta be.
