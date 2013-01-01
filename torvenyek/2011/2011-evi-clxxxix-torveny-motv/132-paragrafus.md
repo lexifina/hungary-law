@@ -10,7 +10,7 @@ b) kezdeményezheti a képviselő-testület összehívását, valamint e törvé
 
 c) kezdeményezheti a Kormánynál, hogy indítványozza az Alkotmánybíróságnál az önkormányzati rendelet Alaptörvénnyel való összhangjának felülvizsgálatát;
 
-d) kezdeményezheti a törvényszéknél az önkormányzat határozatának felülvizsgálatát;
+d) kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzat határozatának felülvizsgálatát;
 
 e) kezdeményezheti a határozathozatali, feladat ellátási kötelezettségét nem teljesítő helyi önkormányzattal szemben bírósági eljárás megindítását, a határozathozatal pótlásának elrendelését;
 

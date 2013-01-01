@@ -2,4 +2,4 @@
 
 ## A megbízatás keletkezése és megszűnése
 
-28–31. §
+### 28–31. §

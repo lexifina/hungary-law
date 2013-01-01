@@ -1,3 +1,3 @@
 ## Összeférhetetlenségi eljárás
 
-37. §
+### 37. §

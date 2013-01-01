@@ -1,0 +1,1 @@
+4. § A helyi közügyek alapvetően a lakosság közszolgáltatásokkal való ellátásához, valamint a helyi önkormányzás és a lakossággal való együttműködés szervezeti, személyi és anyagi feltételeinek megteremtéséhez kapcsolódnak.

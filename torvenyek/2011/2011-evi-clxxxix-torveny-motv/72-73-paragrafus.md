@@ -1,3 +1,3 @@
 ## Összeférhetetlenség
 
-72–73. §
+### 72–73. §

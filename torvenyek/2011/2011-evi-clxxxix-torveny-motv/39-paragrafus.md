@@ -1,3 +1,3 @@
 ## Vagyonnyilatkozat-tételi eljárás
 
-39. §
+### 39. §

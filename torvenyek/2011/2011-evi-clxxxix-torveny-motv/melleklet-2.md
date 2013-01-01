@@ -1,12 +1,12 @@
+## „Én, (eskütevő neve) becsületemre és lelkiismeretemre fogadom, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek; jogszabályait megtartom és másokkal is megtartatom; (a tisztség megnevezése) tisztségemből eredő feladataimat a (megye vagy település vagy kerület) fejlődésének előmozdítása érdekében lelkiismeretesen teljesítem, tisztségemet a magyar nemzet javára gyakorlom.
+
+## (Az eskütevő meggyőződése szerint)
+
+## Isten engem úgy segéljen!”
+
 2. melléklet a 2011. évi CLXXXIX. törvényhez
 
-Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat helyi önkormányzati képviselő
-
-(polgármester, alpolgármester), valamint a vele közös háztartásban élő házas- vagy élettársa
-
-és gyermeke számára
-
-A nyilatkozatot adó személye
+## Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat helyi önkormányzati képviselő (polgármester, alpolgármester), valamint a vele közös háztartásban élő házas- vagy élettársa és gyermeke számára A nyilatkozatot adó személye
 
 1. A nyilatkozatot adó:
 
@@ -28,7 +28,9 @@ VAGYONI NYILATKOZAT
 
 I. Ingatlanok
 
-1. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+1.
+
+a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
@@ -44,7 +46,9 @@ g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
 h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-2. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+2.
+
+a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
@@ -60,7 +64,9 @@ g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
 h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-3. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+3.
+
+a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
@@ -76,7 +82,9 @@ g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
 h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-4. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+4.
+
+a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
@@ -224,7 +232,7 @@ megnevezés:
 
 III. Tartozások
 
-Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a pénzintézettel vagy magánszemélyekkel szemben esetlegesen fennálló tartozásait
+## Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a pénzintézettel vagy magánszemélyekkel szemben esetlegesen fennálló tartozásait
 
 1. Köztartozás (adó, vám, illeték, tb-járulék stb.): ......................................................................... forint
 
@@ -234,23 +242,23 @@ Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a pénz
 
 IV. Egyéb közlendők
 
-...........................................................................................................................................................................
+## ...........................................................................................................................................................................
 
-...........................................................................................................................................................................
+## ...........................................................................................................................................................................
 
-...........................................................................................................................................................................
+## ...........................................................................................................................................................................
 
-...........................................................................................................................................................................
+## ...........................................................................................................................................................................
 
-...........................................................................................................................................................................
+## ...........................................................................................................................................................................
 
-...........................................................................................................................................................................
+## ...........................................................................................................................................................................
 
-B) RÉSZ
+## B) RÉSZ
 
-JÖVEDELEMNYILATKOZAT
+## JÖVEDELEMNYILATKOZAT
 
-(a képviselői tiszteletdíjon kívüli adóköteles jövedelmek)
+## (a képviselői tiszteletdíjon kívüli adóköteles jövedelmek)
 
 1. Foglalkozása:
 

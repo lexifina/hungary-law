@@ -4,4 +4,6 @@
 
 (2)
 
-(3)–(4)
+(3) A megyei közgyűlés elnöke – pályázat alapján határozatlan időre – nevezi ki a jegyzőt, a jegyző javaslatára az aljegyzőt.
+
+(4) A megyei önkormányzatra a helyi önkormányzatokra vonatkozó rendelkezéseket az (1)–(3) bekezdésben meghatározott eltérésekkel kell alkalmazni.

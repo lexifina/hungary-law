@@ -1,0 +1,1 @@
+15. § A helyi önkormányzat feladat- és hatásköreinek ellátása során – törvényben meghatározott módon és mértékben – biztosítja a közfoglalkoztatási jogviszonyban lévő személy feladatellátásba történő bevonását.

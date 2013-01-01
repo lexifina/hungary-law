@@ -1,0 +1,3 @@
+123. § (1) Az adósságrendezésbe nem vonható be a helyi önkormányzat használatába, vagyonkezelésébe adott, nem az önkormányzat tulajdonát képező vagyon, továbbá hazai vagy uniós forrásból nyújtott fejlesztési támogatásból származó bevételek.
+
+(2) Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig terjedő időtartamban, a miniszter egyedi döntése alapján, egyedi beruházási kiadások teljesíthetők, különös tekintettel európai uniós támogatással megvalósuló beruházásokra és derogációs kötelezettség teljesítésére. A reorganizációs tervben a miniszter egyedi döntése alapján engedélyezett beruházások szerepelhetnek.

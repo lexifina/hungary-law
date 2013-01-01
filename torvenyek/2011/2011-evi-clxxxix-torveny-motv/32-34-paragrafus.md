@@ -1,3 +1,3 @@
 ## Jogok és kötelezettségek
 
-32–34. §
+### 32–34. §

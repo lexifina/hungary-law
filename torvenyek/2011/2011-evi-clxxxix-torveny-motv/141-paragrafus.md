@@ -6,7 +6,7 @@ a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn b
 
 b) ha a polgármester, a jegyző határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
 
-c) ha a törvényszék megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
+c) ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
 
 d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást.
 
@@ -26,4 +26,4 @@ c) az előző bírságok számát és mértékét.
 
 (6) A kormányhivatal bírságot megállapító döntésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény előírásait megfelelően kell alkalmazni.
 
-(7) A törvényszék a kormányhivatal döntését megváltoztathatja, a kormányhivatal új eljárás lefolytatására nem kötelezhető.
+(7) A közigazgatási és munkaügyi bíróság a kormányhivatal döntését megváltoztathatja, a kormányhivatal új eljárás lefolytatására nem kötelezhető.

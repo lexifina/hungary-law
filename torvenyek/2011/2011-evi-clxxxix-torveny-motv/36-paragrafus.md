@@ -1,3 +1,3 @@
 ## Összeférhetetlenség
 
-36. §
+### 36. §
