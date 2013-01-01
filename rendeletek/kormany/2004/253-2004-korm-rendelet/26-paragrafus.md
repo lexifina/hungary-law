@@ -14,7 +14,7 @@ d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételei
 
 (4) E rendelet eltérő rendelkezése hiányában a sportlőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsgát a sportlövő versenybírák esetében a Versenybírói Igazolvány, a sportlövő edzők esetében az Edzői Oklevél helyettesíti.
 
-(5)[^65] E rendelet eltérő rendelkezése hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
+(5)[^65] E rendelet eltérő rendelkezése hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
 
 (6) Az Európai Unió más tagállamában lakóhellyel rendelkező személy részére lőfegyver tartása akkor engedélyezhető, ha a lakóhely szerinti tagállam illetékes hatósága ezzel előzetesen egyetértett.
 
@@ -24,5 +24,5 @@ d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételei
 [^62]: A 26. § (1) bekezdés a) pontját a 21/2010. (II. 9.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^63]: A 26. § (1) bekezdés b) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés e) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 8. pontja szerint módosított szöveg.
 [^64]: A 26. § (1) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^65]: A 26. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^65]: A 26. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 11. §-ával megállapított, a 416/2012. (XII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^66]: A 26. § (7) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 10. pontja szerint módosított szöveg.
