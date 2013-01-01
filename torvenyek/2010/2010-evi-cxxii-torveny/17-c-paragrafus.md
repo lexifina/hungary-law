@@ -1,15 +1,11 @@
-17/C. § (1) A Hszt. 46. § (2) bekezdés alkalmazásában a NAV hivatásos állománya tekintetében szolgálati viszony módosításának minősül az ott meghatározottakon túl:
+17/C. § (1) Amennyiben a pénzügyőr egészségi, pszichikai vagy fizikai állapota alapján munkaköre ellátására alkalmatlanná vált, a munkáltató köteles a pénzügyőr részére az állapotának, képzettségének, végzettségének megfelelő másik, elsősorban hivatásos munkakört, betölthető hivatásos munkakör hiányában nem hivatásos munkakört felajánlani. Amennyiben a munkáltatónál nincs megfelelő betöltetlen munkakör, úgy számára – a szerv vezetőjének hozzájárulásával – a NAV más szervénél is felajánlható az állapotának, képzettségének, végzettségének megfelelő másik munkakör. A pénzügyőrt a Hszt. 56. § (2) bekezdés a) pontja alapján akkor lehet felmenteni egészségi, pszichikai vagy fizikai alkalmatlanság esetén, ha
 
-a) a más munkakörbe helyezés, valamint
+a) az állapotának megfelelő betöltetlen munkakör a munkáltatónál, illetve a NAV más szervénél nincs, és rendelkezési állományba sem helyezhető,
 
-b) azonos, vagy a pénzügyőr képzettségének és végzettségének megfelelő más munkakör ellátására történő belső áthelyezés.
+b) a felajánlott másik, állapotának megfelelő munkakört a pénzügyőr nem fogadta el, vagy
 
-(2) A szolgálat érdekében az (1) bekezdés a)–b) pontjai szerinti szolgálati viszony módosításra a pénzügyőr beleegyezése nélkül is sor kerülhet. A jogviszony-módosítás a pénzügyőrre nézve – különösen korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat.
+c) megváltozott munkaképességű személyek ellátására jogosultságot szerzett.
 
-(2a) A vezető munkakört betöltő pénzügyőrre a (2) bekezdés nem alkalmazható.
+(2) A pénzügyőr a részére felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított 5 munkanapon belül köteles írásban nyilatkozni. A nyilatkozat elmulasztását úgy kell tekintetni, mintha a felajánlott munkakört elutasította volna.
 
-(3) Amennyiben a pénzügyőr szolgálati viszonyának módosítására a (2) bekezdés alapján került sor, a jogviszony-módosítástól számított öt éven belül – a létszámcsökkentés és az átszervezés indokát kivéve – a (2) bekezdés alkalmazásának nincs helye.
-
-(4) Amennyiben a pénzügyőr minősítése alapján a vele szemben a munkaköre alapján támasztott követelményeknek nem felel meg (szakmai alkalmatlanság), jogviszonyának az (1) bekezdés szerinti módosításához nem szükséges a beleegyezése.
-
-(5) A szolgálati viszony a pénzügyőr beleegyezése nélkül is módosítható a NAV-on belüli átszervezés esetén, a jogviszony, a munkakör, a feladatkör és az illetmény változatlanul hagyása, továbbá a szolgálatteljesítési hely kizárólag a település területén belüli megváltoztatása mellett.
+(3) Amennyiben a pénzügyőr a részére felajánlott nem hivatásos munkakört elfogadja, hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá alakul.

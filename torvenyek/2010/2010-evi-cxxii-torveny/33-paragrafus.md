@@ -1,55 +1,9 @@
-## A pihenőidő
+33. § (1) Ha a kormánytisztviselő, a pénzügyőr, az ügykezelő saját elhatározása alapján képzésben vesz részt és ez érinti a munkaidejét, köteles ezt engedélyeztetni a munkáltatójával. A munkáltató engedélye alapján az érintett a (2)–(4) bekezdésben foglaltak szerint mentesül a tanulmányok folytatásához szükséges időre a munkavégzési kötelezettsége alól, amelynek időtartamára illetményre nem jogosult. Ebben az esetben a tanulmányi célú mentesítés időtartama illetmény nélküli távollétnek minősül. A munkáltató és az érintett megállapodása alapján a tanulmányok folytatását azzal a feltétellel is engedélyezheti a munkáltató, hogy az érintett a tanulmányi célú mentesítés időtartamát köteles ledolgozni. Ebben az esetben a tanulmányi célú mentesítés időtartamára az érintett illetményre jogosult.
 
-33. § (1) A kormánytisztviselőt, pénzügyőrt, illetve kormányzati ügykezelőt évi 25 munkanap alapszabadság illeti meg.
+(2) A mentesítés mértékét a munkáltató az oktatási intézmény által kibocsátott, a kötelező iskolai foglalkozás és szakmai gyakorlat időtartamáról szóló igazolásnak megfelelően állapítja meg.
 
-(2) A NAV személyi állományának az alapszabadságon felül besorolásától függően pótszabadság jár.
+(3) A (2) bekezdésben foglaltakon túl a munkáltató vizsgánként – ha egy vizsganapon az érintettnek több vizsgatárgyból kell vizsgáznia, vizsgatárgyanként – a vizsga napját is beszámítva négy munkanapra köteles az érintettet mentesíteni a munkavégzési kötelezettsége alól. Vizsgának az oktatási intézmény által meghatározott számonkérés minősül.
 
-(3) A szakirányú felsőfokú iskolai végzettségű kormánytisztviselő, illetve pénzügyőr esetében a pótszabadság mértéke évente:
+(4) A diplomamunka (szak- és évfolyamdolgozat) elkészítéséhez a munkáltató tíz munkanapra köteles az érintettet mentesíteni a munkavégzési kötelezettsége alól.
 
-a) fogalmazó besorolásnál 3 munkanap
-
-b) tanácsos besorolásnál 5 munkanap
-
-c) vezető-tanácsos besorolásnál 7 munkanap
-
-d) főtanácsos besorolásnál 9 munkanap
-
-e) vezető-főtanácsos besorolásnál 11 munkanap
-
-(4) Középfokú iskolai végzettségű/szakképzettségű kormánytisztviselő, illetve pénzügyőr esetében a pótszabadság mértéke évente:
-
-a) előadó besorolásnál 5 munkanap
-
-b) főelőadó besorolásnál 8 munkanap
-
-c) főmunkatárs besorolásnál 10 munkanap
-
-(5) Ügykezelő esetében a pótszabadság mértéke évente:
-
-a) 2–10 éves jogviszony esetén 2 munkanap
-
-b) 11–20 éves jogviszonytól 3 munkanap
-
-c) 21–30 éves jogviszonytól 4 munkanap
-
-d) 30 éves jogviszony felett 5 munkanap
-
-(6) Munkaviszonyban állók esetében a pótszabadság mértéke évente:
-
-a) 2–10 éves munkaviszony esetén 1 munkanap
-
-b) 11–20 éves jogviszonytól 3 munkanap
-
-c) 21–30 éves jogviszonytól 4 munkanap
-
-d) 30 éves jogviszony felett 5 munkanap
-
-(7) Vezetők esetében a pótszabadság mértéke évente:
-
-a) igazgatóhelyettes, osztályvezető 12 munkanap
-
-b) főigazgató-helyettes, igazgató, főosztályvezető-helyettes 13 munkanap
-
-c) főigazgató, szakfőigazgató, főosztályvezető 14 munkanap
-
-d) elnök, elnökhelyettes 15 munkanap
+(5) A munkáltató az érintettet – kérésének megfelelően, a tanulmányi év folyamán – köteles a (3)–(4) bekezdés szerint mentesíteni munkavégzési kötelezettsége alól.

@@ -10,6 +10,6 @@ d) a rendészetért felelős miniszterrel egyetértésben a NAV-nál alkalmazás
 
 e) a rendészetért felelős miniszterrel egyetértésben az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályait,
 
-f) a NAV fontos és bizalmas, illetve az adathozzáférési szempontból védett munkakörei, beosztásai tekintetében a kormánytisztviselői jogviszony létesítéséhez szükséges, pszichikai alkalmassághoz kötött munkaköröket, beosztásokat és a pszichikai alkalmassági vizsgálat szabályait,
+f) a NAV fontos és bizalmas, illetve az adathozzáférési szempontból védett munkakörei, beosztásai tekintetében kormánytisztviselőként kormányzati szolgálati jogviszony létesítéséhez szükséges, pszichikai alkalmassághoz kötött munkaköröket és a pszichikai alkalmassági vizsgálat szabályait,
 
 g) a NAV bűnmegelőzési, bűnüldözési, valamint szabálysértési tevékenységével összefüggésben keletkezett adatok kezelésére jogosult szerveit és az adatok kezelésének technikai szabályait.

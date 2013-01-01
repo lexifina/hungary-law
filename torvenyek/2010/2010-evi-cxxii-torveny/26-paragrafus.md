@@ -2,4 +2,6 @@
 
 (2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. Visszavonást követően a kormánytisztviselőt, pénzügyőrt az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint kell besorolni és illetményét megállapítani.
 
+(2a) A személyi illetményben részesülők illetményét évente – január 31-ig – felül kell vizsgálni.
+
 (3) A személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.

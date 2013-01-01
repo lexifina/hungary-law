@@ -1,19 +1,11 @@
-## Összeférhetetlenség
+34. § (1) A fegyelmi tanács a tanács kijelölésétől számított 10 napon belül tárgyalást tart. A tárgyalásról – beleértve a 34/A. § (1) bekezdés szerinti zárt ülést is – jegyzőkönyvet kell vezetni.
 
-34. § (1) A kormánytisztviselő és a pénzügyőr a NAV adott központi, középfokú, illetve alsó fokú szervénél
+(2) A fegyelmi tanács tárgyalását úgy kell kitűzni, hogy arról az eljárás alá vont, illetve képviselője az értesítést és a 33/Y. § (6) bekezdés szerinti iratokat a tárgyalás előtt legalább 3 munkanappal korábban megkapja.
 
-a) nem tölthet be olyan munkakört, amelyben a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozójával, illetve hozzátartozójával az adott szerven belül irányítási (felügyeleti), szolgálati elöljárói-alárendelti viszonyba, ellenőrzési vagy elszámolási kapcsolatba kerülne;
+(3) A tárgyaláson a NAV-ot az ügy vizsgálóbiztosa képviseli. Az eljárás alá vont jogi képviselőt is igénybe vehet, illetve kérelmére a NAV-nál működő munkavállalói érdek-képviseleti szerv, illetve az MKK, MRK képviselőjének a részvételét, illetve képviseleti jogának gyakorlását lehetővé kell tenni. A képviselő személyére vonatkozó korlátozás tekintetében a 33/S. § (3) bekezdést alkalmazni kell.
 
-b) nem láthat el olyan feladatot, amelynek révén olyan gazdálkodó szervezettel kerül elszámolási viszonyba, amelyben a Ptk. szerinti közeli hozzátartozójának, illetve hozzátartozójának a Ptk. szerinti többségi befolyása van, vagy a közeli hozzátartozó az elszámolási viszonyra befolyással bíró tisztséget (munkakört) lát el.
+(4) Ha az eljárás alá vont vagy képviselője a tárgyaláson nem jelenik meg, tárgyalást tartani és az ügyet érdemben elbírálni csak akkor lehet, ha az eljárás alá vont személyt vagy képviselőjét szabályszerűen értesítették. Az eljárás akkor is lefolytatható, ha az eljárás alá vont vagy képviselője előzetesen bejelentette, hogy a tárgyaláson nem kíván részt venni.
 
-(2) A kormánytisztviselő és a pénzügyőr
+(5) A fegyelmi tanács a tényállás tisztázása céljából tanúkat hallgathat meg, iratokat szerezhet be, szakértőt vehet igénybe, szemlét tarthat, egyéb bizonyítást folytathat. Az eljárási cselekményekről készült iratokat az eljárás alá vont személlyel és képviselőjével közölni kell.
 
-a) nem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, amely hivatalához, illetve a hivatásos szolgálathoz méltatlan, vagy amely a kormánytisztviselő, illetve a pénzügyőr pártatlan, befolyástól mentes tevékenységét, illetve a NAV tekintélyét veszélyeztetné;
-
-b) gazdasági társaságban – munkavégzésre irányuló egyéb jogviszonynak nem minősülő – személyes közreműködési kötelezettséggel járó tagsági viszonyt nem létesíthet.
-
-(3) A kormánytisztviselő pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve a helyi önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat, a pénzügyőr tekintetében a Hszt. 18. § (2) bekezdés az irányadó.
-
-(4) A kormánytisztviselő és a pénzügyőr nem lehet – törvényben meghatározott egyéb megbízatásokon túl – helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely a NAV őt alkalmazó szerve illetékességi területén működik.
-
-(5) A pénzügyőr a Hszt. 59. § (1) bekezdés c) pontjában meghatározott tisztséget nem tölthet be.
+(6) Amennyiben az ügy a tárgyaláson nem volt tisztázható, újabb tárgyalást/tárgyalásokat kell tartani.

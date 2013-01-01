@@ -18,7 +18,7 @@ b) végzi az adó-, vám- és pénzforgalmi adatoknak, az ellenőrzések megáll
 
 c) feldolgozza az államháztartás működéséhez szükséges és rendelkezésre álló adatokat és az adópolitikáért felelős miniszternek átadja,
 
-d) Központi Hivatala, illetve az informatikai feladatokat ellátó intézete összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással, valamint a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó hatósági felügyeleti tevékenységgel kapcsolatos igazgatási eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
+d) Központi Hivatala, illetve az informatikai feladatokat ellátó intézete összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással, valamint a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó hatósági felügyeleti tevékenységgel kapcsolatos eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
 
 e) adóztatási szerve, illetve vámszerve előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
 
@@ -54,13 +54,13 @@ d) ellátja az állami garancia (kezesség) kiutalásával, visszakövetelésév
 
 e) lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését, megküldi az adópolitikáért felelős miniszternek a szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott jogerős határozatok másolatát, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít az adópolitikáért felelős miniszternek,
 
-f) ellátja magán-nyugdíjpénztári tagdíj bevallásával, beszedésével, nyilvántartásával, ellenőrzésével, végrehajtásával, visszatérítésével, átutalásával, továbbá a magán-nyugdíjpénztárak részére történő adatátadással kapcsolatos, jogszabályban az állami adó- és vámhatóság feladataként meghatározott feladatokat,
+f)
 
 g) ellátja a munkáltatók és kifizetők által foglalkoztatott biztosítottak adatainak nyilvántartásával, továbbá az adatoknak az egészségbiztosítás biztosítotti nyilvántartása és a munkaügyi hatóság részére történő átadásával kapcsolatos, jogszabályban az állami adó- és vámhatóság feladataként meghatározott feladatokat,
 
 h) az államháztartásról szóló törvény végrehajtására kiadott jogszabályokban meghatározottak szerint ellátja a befolyt illetékbevételnek a központi költségvetést, illetve a fővárosi, megyei, megyei jogú városi önkormányzatokat megillető hányadának megállapításával kapcsolatos feladatokat, továbbá jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, az adópolitikáért felelős miniszter részére teljesítendő adatszolgáltatást,
 
-i) ellátja a csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a vagyonrendezési és adósságrendezési eljárásban a NAV hatáskörébe tartozó követelések tekintetében a hitelezői feladatokat, és jogszabályban meghatározott esetben és módon egyéb hitelezők képviseletét; a végrehajtási eljárásban ellátja a végrehajtás foganatosítójaként a törvény által meghatározott feladatokat.
+i) ellátja a csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a kényszertörlési eljárásban, a vagyonrendezési és adósságrendezési eljárásban a NAV hatáskörébe tartozó követelések tekintetében a hitelezői feladatokat, és jogszabályban meghatározott esetben és módon egyéb hitelezők képviseletét; a végrehajtási eljárásban ellátja a végrehajtás foganatosítójaként a törvény által meghatározott feladatokat.
 
 (5) A NAV vámigazgatási jogkörében végzi
 
@@ -70,7 +70,7 @@ b) a vámhatáron át lebonyolódó áru- és utasforgalom vámellenőrzését, 
 
 c) közvetlenül vagy közvetve – meghatározott körben – az áruk azonosságának (adózási szempontból történő besorolásának és egyéb jogszabály által meghatározott követelményeknek) a vizsgálatát, illetve a vizsgálat megtörténtének ellenőrzését,
 
-d) a vámokmányok adatainak vám- és statisztikai célú ellenőrzését, javíttatását, nyilvántartását, összesítését, feldolgozását és átadását,
+d) a vámokmányok, illetve a vámeljárások adatainak vám- és statisztikai célú ellenőrzését, javíttatását, nyilvántartását, összesítését, feldolgozását és átadását,
 
 e) a vám-, az adó- és egyéb jogszabályokban meghatározott adóztatási, ellenőrzési és utólagos ellenőrzési feladatokat,
 
@@ -84,7 +84,7 @@ b) a jövedéki jogszabályokban meghatározott jövedéki ügyekkel
 
 kapcsolatos feladatokat.
 
-(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését és nyomozását, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos, hatáskörébe utalt feladatok ellátását.
+(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését és nyomozását, valamint nem nyomozóhatósági jogkörében eljárva ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 

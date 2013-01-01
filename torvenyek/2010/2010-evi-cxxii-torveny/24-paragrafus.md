@@ -10,4 +10,4 @@
 
 (6) A NAV bűnügyi főigazgatóságánál – a középfokú és alsó fokú szervek kivételével – a főosztályvezető-helyettes vezetői pótléka az alapilletmény 35%-a.
 
-(7) A NAV Kormány által rendeletben megjelölt országos illetékességű középfokú és alsó fokú adóztatási szerveinél a vezetői pótlék mértéke a 6. számú mellékletnek a központi szervekre vonatkozó irányadó mértékével azonos.
+(7) A NAV középfokú adó- és vámszervénél a vezetői pótlék mértéke a 6. számú mellékletnek a központi szervekre irányadó mértékével azonos, a NAV középfokú adó- és vámszervének felügyelete alatt működő alsó fokú adóztatási szervnél és alsó fokú vámszervnél a vezetői pótlék mértéke a 6. számú mellékletnek a középfokú szervekre irányadó mértékével azonos.

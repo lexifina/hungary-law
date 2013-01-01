@@ -1,5 +1,19 @@
-34/D. § (1) A kormánytisztviselő, illetve a pénzügyőr köteles a munkáltatói jogkör gyakorlójának haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merült fel, illetve ha kormánytisztviselői jogviszonyának, szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe került. A munkáltatói jogkör gyakorlója írásban köteles felszólítani a kormánytisztviselőt, illetve a pénzügyőrt az összeférhetetlenség megszüntetésére. Amennyiben a kormánytisztviselő, illetve a pénzügyőr az összeférhetetlenséget a felszólítás kézbesítésétől számított 30 napon belül nem szüntette meg, kormánytisztviselői jogviszonya, szolgálati jogviszonya megszűnik.
+## A fegyelmi büntetés végrehajtása
 
-(2) Ha a kormánytisztviselő, illetve a pénzügyőr az összeférhetetlenségi okot 30 napon belül megszüntette, azt írásban köteles a munkáltatói jogkör gyakorlójának bejelenteni.
+34/D. § (1) A fegyelmi határozat jogerős, ha
 
-(3) Ha a 34. § (1) bekezdés a) pont szerinti összeférhetetlenség a kormánytisztviselői jogviszony, szolgálati jogviszony fennállása alatt keletkezik, akkor az érintettek megegyezése hiányában a munkáltatói jogkör gyakorlója dönti el, hogy melyik kormánytisztviselőnek, illetve pénzügyőrnek szűnik meg a kormánytisztviselői jogviszonya, szolgálati jogviszonya.
+a) azt keresettel nem támadták meg, a kereset előterjesztésére nyitva álló határidő lejártát követő napon,
+
+b) a keresetet visszavonták, a visszavonás napjával, vagy ha a per szünetelés folytán szűnt meg, a per megszűnésének napjával,
+
+c) a bíróság a keresetlevelet idézés kibocsátása nélkül jogerősen elutasította, vagy a pert jogerősen megszüntette, vagy jogerős ítéletet hozott, a bíróság határozatának a jogerőre emelkedése napjával.
+
+A jogerős határozatot – a (2)–(5) bekezdés szerinti eltérésekkel – a jogerőre emelkedésről való, NAV általi tudomásszerzést követő 15 napon belül végre kell hajtani.
+
+(2) A fegyelmi határozat a jogerőre emelkedéséig – a (4)–(5) bekezdés kivételével – nem végrehajtható. Ha azonban a kormánytisztviselő, a pénzügyőr, az ügykezelő a határozat jogerőre emelkedése előtt a kormányzati szolgálati jogviszonyát, hivatásos szolgálati jogviszonyát megszünteti, a határozat azonnal végrehajthatóvá válik.
+
+(3) Ha a kormányzati szolgálati jogviszony, hivatásos szolgálati jogviszony a 33/G. § (3) bekezdés b)–h) pontjában, illetve 33/G. § (4) vagy (5) bekezdésben meghatározott jogerősen kiszabott fegyelmi büntetés végrehajtása előtt vagy annak végrehajtása közben megszűnik, a büntetést vagy annak hátralévő időtartamát államigazgatási szervnél, illetve fegyveres szervnél kell végrehajtani, feltéve, hogy a kormánytisztviselő, a pénzügyőr, az ügykezelő a büntetés végrehajthatóságától számított 3 éven belül ismételten kormányzati szolgálati jogviszonyt, illetve hivatásos szolgálati jogviszonyt létesít.
+
+(4) A hivatalvesztés, a hivatásos szolgálati jogviszony megszüntetése, illetve a lefokozás fegyelmi büntetést a fegyelmi határozatnak az eljárás alá vont személlyel, illetve ha képviselővel járt el, a képviselővel való szabályszerű közlést követő 15 napon belül végre kell hajtani.
+
+(5) A 33/N. § (3) bekezdés szerinti megtérítési kötelezettség, illetve a 33/U. § (5) bekezdés szerinti, a visszatartott összeg kifizetésére vonatkozó kötelezettség szempontjából a fegyelmi határozatot az eljárás alá vont személlyel, illetve ha képviselővel járt el, a képviselővel való szabályszerű közlés napjával kell jogerősnek tekinteni.

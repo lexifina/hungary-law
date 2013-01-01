@@ -71,39 +71,3 @@ Minősítési lap
 ## n) lőkészség (kivéve ha a pénzügyőr a feladatait csak kivételes esetben, vagy egyáltalán nem végzi hivatali helyiségen kívül).
 
 ## Vezető esetében továbbá (amennyiben több kormánytisztviselőt, pénzügyőrt, ügykezelőt illetve munkavállalót irányít):
-
-## o) a vezetett szervezet/szervezeti egység munkájának színvonala, hatékonysága,
-
-## p) a munka (a szolgálat) szervezettsége.
-
-## 8. A minősítő által lényegesnek tartott egyéb szempontok:
-
-## 9. A minősített alkalmasságának megítélése (a 7–8. pontban megjelölt szempontok alapján és a 6. pont figyelembevételével):
-
-## 1. Kiválóan megfelelt,
-
-## 2. Megfelelt,
-
-## 3. Kevésbé felelt meg,
-
-## 4. Nem felelt meg.
-
-## 10. A minősítés indokolása:
-
-## A minősítést a minősítettel ismertettem.
-
-## A minősítő neve, aláírása:
-
-## Munkaköre:
-
-## A minősítés tartalmát megismertem.
-
-## Észrevételeim:
-
-## Dátum, és a minősített aláírása:
-
-## Az érdekképviseleti szerv észrevételei:
-
-## Dátum, és az érdekképviseleti szerv tisztségviselőjének neve, aláírása:
-
-## Tisztsége:

@@ -8,13 +8,15 @@
 
 a) kormánytisztviselőkből,
 
-b) szolgálati viszonyban álló, hivatásos állományú tagokból (a továbbiakban: pénzügyőr),
+b) hivatásos szolgálati jogviszonyban álló, hivatásos állományú tagokból (a továbbiakban: pénzügyőr),
 
 c) kormányzati ügykezelőkből (a továbbiakban: ügykezelő) és
 
 d) munkavállalókból
 
 áll.
+
+(1a) Az (1) bekezdés a)–d) pontjaiba tartozó személyek a továbbiakban együtt foglalkoztatottak.
 
 (2) A NAV személyi állományába tartozó
 

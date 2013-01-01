@@ -18,7 +18,7 @@ g) ha a bűncselekmény megelőzésére, felderítésére, az elkövető elfogá
 
 h) hírközlési rendszerekből és egyéb adattároló eszközökből információt gyűjthetnek.
 
-(2) Az (1) bekezdésben foglaltak teljesítésére a NAV a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a NAV kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, kormánytisztviselői jogviszony, illetve munkajogviszony létesítését.
+(2) Az (1) bekezdésben foglaltak teljesítésére a NAV a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a NAV kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, kormányzati szolgálati jogviszony, közszolgálati jogviszony, illetve munkaviszony létesítését.
 
 (3) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – a (2) bekezdés szerinti jogviszony létesítését kezdeményezheti a (2) bekezdés hatálya alá tartozó szervezeteknél.
 

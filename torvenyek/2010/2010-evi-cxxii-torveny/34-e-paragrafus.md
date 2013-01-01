@@ -1,39 +1,9 @@
-## Értelmező rendelkezések
+## Eljárás a kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal össze nem függő bűncselekmény esetén
 
-34/E. § (1) E fejezet, valamint a NAV személyi állományának jogviszonyát szabályozó más jogszabályok alkalmazásában:
+34/E. § (1) Amennyiben a kormánytisztviselővel, a pénzügyőrrel, az ügykezelővel szemben a kormányzati szolgálati jogviszonyból, hivatásos szolgálati jogviszonyból eredő kötelezettségeivel össze nem függő bűncselekmény miatt büntetőeljárás indul, a munkáltatói jogkör gyakorlója – fegyelmi eljárás megindítása nélkül – az érintettet az állásából az eljárás befejezéséig felfüggesztheti. A munkáltatói jogkör gyakorlója a felfüggesztésről határozatban rendelkezik. Az érintett a határozat felülvizsgálata iránt közvetlenül bírósághoz fordulhat.
 
-a) állományilletékes parancsnok: az elnök, az informatikai feladatokat ellátó intézet, a humánerőforrás-fejlesztési feladatokat ellátó intézet, a bűnügyi főigazgatóság, a középfokú vámszervek főigazgatója, és a regionális bűnügyi igazgatóság, valamint az alsó fokú vámszervek igazgatója;
+(2) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani. A visszatartott illetményt a visszatartás időpontjától számított, a Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a büntetőeljárás jogerősen felmentéssel, illetve a büntetőeljárás bármely szakaszában megszüntetéssel zárul. A kifizetést a jogerős felmentést, illetve a büntetőeljárás jogerős megszüntetését tartalmazó irat NAV általi tudomásszerzését követő 15 napon belül kell teljesíteni.
 
-b) áthelyezés: a (2) bekezdés b) pontja szerinti külső áthelyezés;
+(3) Az (1) bekezdés szerinti felfüggesztésnek akkor van helye, ha az a bűncselekmény, amely miatt az érintett ellen a büntetőeljárás indult, a NAV tekintélyét, működésébe vetett közbizalmat súlyosan veszélyezteti, vagy a büntetőeljárás miatt az érintettnek a munkahelytől való távoltartása indokolt.
 
-c) munkáltatói jogkört gyakorló elöljáró: a munkáltatói jogkört gyakorló vezető;
-
-d) pályakezdő: az a kormánytisztviselő, pénzügyőr, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzését követően egy éven belül első foglalkoztatási jogviszonyként kormánytisztviselői, hivatásos szolgálati jogviszonyt létesít;
-
-e) pénzügyi nyomozó:
-
-ea) az a pénzügyőr, aki a NAV bűnmegelőzési, bűnüldözési, bűnfelderítési és nyomozati feladatait látja el,
-
-eb) a NAV állományában lévő azon személy, aki az ea) pont szerinti feladatokat kormánytisztviselői jogviszonyban látja el.
-
-(2) E törvény alkalmazásában:
-
-a) belső áthelyezés: a NAV szervei közötti áthelyezés;
-
-b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a közigazgatási szervek közötti áthelyezés, a hivatásos állományúak tekintetében a NAV elnöke és az érintett miniszter megállapodása alapján a NAV és más fegyveres szerv között történő áthelyezés, továbbá közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés.
-
-(3) Az országos parancsnok részére biztosított jogköröket a NAV tekintetében a NAV elnöke gyakorolja.
-
-(4) Ahol a Hszt.
-
-a) országos parancsnokságot említ, azon a NAV tekintetében a NAV Központi Hivatalát;
-
-b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, a középfokú szerveket és az alsó fokú szerveket;
-
-c) beosztási illetményt említ, azon az e törvény szerinti alapilletményt,
-
-d) alapilletményt említ, azon e törvény szerinti alapilletmény és rendfokozati illetmény együttes összegét
-
-kell érteni.
-
-(5) A 31. § (2)–(3) bekezdés alkalmazásában kormánytisztviselői jogviszonyban töltött idő alatt a Kttv. 150. § (3) bekezdése alapján, illetve hivatásos szolgálati jogviszonyban töltött idő alatt a Hszt. szolgálati idő számítására vonatkozó rendelkezései alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
+(4) Amennyiben az érintett a bűncselekmény elkövetését a büntetőeljárás során beismerte vagy tetten érték, és megfelelő bizonyítékok állnak rendelkezésre, a kormánytisztviselő, az ügykezelő Kttv. 64. § (1) bekezdés szerinti méltatlanná válását, a pénzügyőr Hszt. 56. § (2) bekezdés b) pont ba) alpontja szerinti hivatásos szolgálatra alkalmatlanná válását a büntetőeljárás jogerős befejezése előtt is meg lehet állapítani.

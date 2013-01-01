@@ -1,0 +1,5 @@
+34/T. § (1) A munkáltató – kormánytisztviselő, ügykezelő kirendelése, kormányzati érdekből történő kirendelése, határozott idejű áthelyezése az a munkáltató, akinél a kár bekövetkezett – a károkozásról való tudomásszerzéstől számított 15 napon belül köteles a károsultat felhívni kárigénye előterjesztésére. A munkáltató a kárigény bejelentésére 15 napon belül – indokai közlése mellett – írásban nyilatkozik. Munkáltatók egyetemleges felelőssége esetén, ha a károsult a kárigényét nem ahhoz a munkáltatóhoz terjeszti elő, akinél a kár bekövetkezett, a kárigényre 30 napon belül kell nyilatkozni.
+
+(2) Pénzügyőr vezénylése esetén a vezénylés időtartama alatt bekövetkezett kár esetében az (1) bekezdés szerinti felhívást és nyilatkozatot az a szerv teszi meg, illetve a kárigényt ahhoz a szervhez kell benyújtani, amelynél a kár keletkezett.
+
+(3) Munkáltatók egyetemleges felelőssége esetén a munkáltatók haladéktalanul tájékoztatják egymást a károkozásról, annak mértékéről, körülményeiről és a kártérítési igénnyel kapcsolatos álláspontjukról.

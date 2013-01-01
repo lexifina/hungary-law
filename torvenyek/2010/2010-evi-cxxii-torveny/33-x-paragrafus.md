@@ -1,0 +1,7 @@
+33/X. § (1) Az eljárás alá vont, a tanú, a szakértő meghallgatásáról, továbbá a szemléről jegyzőkönyvet kell felvenni, valamint jegyzőkönyvet kell felvenni, ha az eljárás alá vont valamely eljárási cselekményen nem jelenik meg.
+
+(2) A vizsgálat időtartama alatt a fegyelmi jogkör gyakorlója a fegyelmi eljárás tárgyát képező eredeti kötelezettségszegés mellett – az eredeti kötelezettségszegéssel összefüggő – egyéb kötelezettségszegésre is kiterjesztheti a fegyelmi eljárást. A kötelezettségszegést írásban kell közölni az eljárás alá vont személlyel. Ebben az esetben az (1) és a (3)–(4) bekezdés, valamint a 33/V. § (2) bekezdés, a 33/V. § (3) és (6)–(7) bekezdés, a 33/W. § és a 33/Y. § (6) bekezdés megfelelően alkalmazandó.
+
+(3) A vizsgálat során az eljárás alá vont személlyel közölni kell a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait. Módot kell részére adni, hogy védekezését előterjeszthesse, a megállapításokra és a bizonyítékokra, illetve az eljárással összefüggésben észrevételt tehessen, illetve bizonyítási indítvánnyal élhessen. Lehetővé kell tenni, hogy a fegyelmi eljárás során az eljárás alá vont és képviselője a fegyelmi ügy irataiba [beleértve a 33/V. § (7) bekezdés szerinti közös meghallgatás teljes jegyzőkönyvét is] betekinthessen, azokról másolatot kérhessen.
+
+(4) Nem akadálya a fegyelmi eljárás lefolytatásának, ha az eljárás alá vont – a szabályszerűen közölt értesítés ellenére – nem jelenik meg a (3) bekezdés, illetve a 33/V. § (3) és (6)–(7) bekezdés szerinti eljárási cselekményen.

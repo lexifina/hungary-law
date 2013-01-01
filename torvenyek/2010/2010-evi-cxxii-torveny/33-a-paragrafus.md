@@ -1,21 +1,25 @@
-## Teljesítményértékelés, minősítés
+## Tanulmányi szerződés
 
-33/A. § (1) A kormánytisztviselő és a pénzügyőr munkateljesítményét a munkáltatói jogkör gyakorlója mérlegelési jogkörében eljárva évente egyszer, a tárgyév végéig írásban értékeli (teljesítményértékelés).
+33/A. § (1) A tanulmányi szerződésben a munkáltató vállalja, hogy a tanulmányok alatt támogatást nyújt, a kormánytisztviselő, a pénzügyőr, az ügykezelő pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül kormányzati szolgálati jogviszonyát, illetve hivatásos szolgálati jogviszonyát lemondással nem szünteti meg. A tanulmányi szerződést írásba kell foglalni.
 
-(2) A kormánytisztviselőt és a pénzügyőrt – a reá irányadó öregségi nyugdíjkorhatárt megelőző öt év kivételével – legalább ötévente, valamint minden magasabb besorolási fokozatba sorolása előtt a szakmai teljesítmények, az azt befolyásoló ismeretek, képességek, személyiségjegyek értékelése alapján – „kiválóan megfelelt”, „megfelelt”, „kevésbé felelt meg”, illetve „nem felelt meg” fokozatba – minősíteni kell, továbbá a kormánytisztviselőt, illetve a pénzügyőrt írásbeli kérelmére akkor is minősíteni kell, ha az utolsó minősítése óta két év már eltelt és az érintett már legalább egy éve a minősítő irányítása alatt dolgozott. A minősítés kötelező elemeit a 11. számú melléklet tartalmazza, de a minősítő az adott munkakörhöz kapcsolódó követelményekhez igazodó további szempontokat is értékelhet a minősítés során.
+(2) Nem köthető tanulmányi szerződés
 
-(3) A minősítés során figyelembe kell venni a legutolsó minősítés óta készült teljesítményértékeléseket, azok együttes eredményétől eltérni csak indokolt esetben lehet. Minősíteni az első teljesítményértékeléstől számított egy évet követően lehet, kivéve, ha a minősítésre magasabb besorolási fokozatba sorolás miatt, illetve a (4) bekezdésben előírtak miatt van szükség.
+a) jogszabály vagy a foglalkoztatási szabályzat alapján járó kedvezmények biztosítására, továbbá,
 
-(4) A kormánytisztviselőt és a pénzügyőrt soron kívül minősíteni kell, ha teljesítményértékelése alapján az állapítható meg, hogy feladatait nem, vagy nagyon csekély mértékben, illetve nagyon alacsony színvonalon teljesítette.
+b) ha a tanulmányok elvégzésére a munkáltató kötelezte a kormánytisztviselőt, a pénzügyőrt, az ügykezelőt.
 
-(5) A minősítés – az érintett közvetlen vezetőjének javaslata alapján – a munkáltatói jogkör gyakorlójának a feladata.
+(3) A tanulmányi szerződésben meg kell határozni a munkáltatót terhelő támogatás formáját és mértékét, a tanulmányok befejezése után a munkáltatónál kötelezően kormányzati szolgálati jogviszonyban, illetve hivatásos szolgálati jogviszonyban eltöltendő idő tartamát, továbbá a támogatásban részesülőnek a munkáltatót terhelő támogatás pénzben kiszámított összegére vonatkozó (7) és (10) bekezdés szerinti megtérítési kötelezettségét.
 
-(6) A minősítésben csak kellően alátámasztott, tényeken alapuló megállapítások szerepelhetnek. A minősített alkalmasságának megítélését írásban indokolni kell.
+(4) A munkáltatónál jogviszonyban töltendő idő tartamába – a tanulmányi szerződés ellenkező kikötése hiányában – nem számít be az az időtartam, amelyre az érintettet szabadság nem illeti meg.
 
-(7) A kormánytisztviselő és a pénzügyőr kérésére lehetővé kell tenni, hogy az adott szervnél működő érdekképviseleti szerv tisztségviselője a minősítésben foglalt megállapításokra a minősítési lapon észrevételeit rögzíthesse.
+(5) A munkáltató személyében bekövetkező változás esetén a tanulmányi szerződésből származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
 
-(8) A minősítettel a minősítést ismertetni kell, aki arra írásban észrevételt tehet. A megismerés és a minősítés egy példánya átvételének tényét a kormánytisztviselő, illetve a pénzügyőr a minősítésen aláírásával igazolja.
+(6) Amennyiben a munkáltató a támogatást nem biztosítja, vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő, a pénzügyőr, az ügykezelő mentesül a szerződésből folyó kötelezettségei alól, és a szerződésszegésből eredő esetleges kárát érvényesítheti.
 
-(9) A minősítés alapján szakértői, illetve vezetői utánpótlás adatbázisba helyezhető a kormánytisztviselő.
+(7) Amennyiben a támogatásban részesülő a tanulmányi szerződésbe foglalt tanulmányi kötelezettségeit nem teljesíti, nem lép a szerződés szerinti időpontban a munkáltatónál munkába, illetve a meghatározott időtartamot nem tölti le vagy egyéb lényeges szerződésszegést követ el, a munkáltató követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését.
 
-(10) A teljesítményértékelés, minősítés hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítése iránt a kormánytisztviselő, illetve a pénzügyőr bírósághoz fordulhat.
+(8) Amennyiben a támogatásban részesülő a szerződésben kikötött időtartamnak csak egy részét nem tölti le, megtérítési kötelezettsége ezzel arányos.
+
+(9) A tanulmányi szerződést mindkét fél felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a tanulmányi szerződésből eredő kötelezettség teljesítését lehetetlenné tenné, vagy annak teljesítése aránytalan sérelemmel járna.
+
+(10) A kormánytisztviselő, a pénzügyőr, az ügykezelő lemondása esetén a munkáltató az általa nyújtott támogatást visszakövetelheti. A munkáltató a támogatást arányosan követelheti vissza, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő a szerződésben kikötött tartamnak csak egy részét tölti le. A támogatás nem követelhető vissza, amennyiben a támogatásban részesülő jogviszonyát a munkáltató felmentéssel megszünteti.
