@@ -6,7 +6,7 @@
 
 ## a) név,
 
-## b) születési idő,
+## b) születési hely, idő,
 
 ## c) lakcím és levelezési cím,
 
@@ -34,7 +34,7 @@
 
 ## 8. Kizárólag az adatnyilvántartó lapon a kiállító aláírásával és a kiállítás dátumával ellátva az igazolvány hatályának meghosszabbításával, pótlásával, változásaival kapcsolatos adatok, valamint a kiadott értékesítési betétlapok sorszámának megjelölése.
 
-## 9. Az ügyfél saját gazdaságára és a termelésre vonatkozó adatok
+## 9. Az ügyfél, illetve közös igazolvány esetén az érintett családtagok saját gazdaságára és a termelésre vonatkozó adatok
 
 ## 9.1. az ügyfél által használt földre vonatkozó alábbi, földterületenként megadott adatok:
 
@@ -44,9 +44,7 @@
 
 ## c) a használt föld területe hektárban meghatározva,
 
-## d) a használt föld aranykorona-értéke,
-
-## e) a használt föld művelési ága;
+## d) a használt föld művelési ága;
 
 ## 9.2. az állattartásra alkalmas épületekre vonatkozó alábbi, épületenként megadott adatok:
 
@@ -66,8 +64,12 @@
 
 ## 9.5. a 9.4. ponthoz kapcsolódóan az arra vonatkozó nyilatkozatokat, hogy az ügyfélnek az erdei melléktermék gyűjtésére írásbeli engedélye van, illetve hogy más őstermelővel közös eszközök működtetésében folyamatosan részt vesz.
 
-## 10. Kizárólag az őstermelői igazolvány kiállítása iránti kérelmen az ügyfél aláírása és a kérelem dátuma.
+## 10. Egyéb, az őstermelés mellett folytatott tevékenység megnevezése (ÖVTJ-kód).
 
-2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^44]
+## 11. Nyilatkozat az adatok változatlanságáról és az értékesítési betétlapok átvételéről.
 
-[^44]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+## 12. Kizárólag az őstermelői igazolvány kiállítása iránti kérelmen az ügyfél aláírása és a kérelem dátuma.
+
+2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^45]
+
+[^45]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
