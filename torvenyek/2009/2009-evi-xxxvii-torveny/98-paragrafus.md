@@ -6,15 +6,19 @@ a) az erdő fennmaradását, fejlődését veszélyeztető állapotról, esemén
 
 b) az erdőben jogszerűen végzett munkák szakmai irányítását elvégezni.
 
-(2) Az erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult:
+(1a) Az erdészeti szakszemélyzet az e törvényben meghatározott tevékenység folytatására, valamint az intézkedésére való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja.
 
-a) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért személyt cselekményének abbahagyására felszólítani, ellene eljárást kezdeményezni;
+(1b) Az erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
 
-b) a járművet, amelyikről alaposan feltételezhető, hogy azon jogellenesen szerzett fa-, szaporítóanyag, illetve egyéb erdei termék van – a tervezett intézkedése okának és céljának közlése mellett – feltartóztatni, átvizsgálni;
+(2) Az erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult
 
-c) az a)–b) pont szerinti intézkedéssel érintett személyt személyazonosságának igazolására felhívni, vagy személyazonosságának megállapítása érdekében – ha az érintett személy magát önként és hitelt érdemlően nem igazolja – igazoltatásra jogosult hatósági személyt felkérni;
+a) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért személlyel szemben,
 
-d) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személytől a jogellenesen szerzett faanyagot és szaporítóanyagot, illetve egyéb erdei terméket, valamint az elkövetéshez (veszélyeztetéshez) használt eszközt elvenni.
+b) olyan jármű vezetőjével szemben, amelyről alaposan feltételezhető, hogy azon jogellenesen szerzett fa-, szaporítóanyag, illetve egyéb erdei termék van,
+
+c) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személlyel szemben a jogellenesen szerzett faanyag és szaporítóanyag, valamint egyéb erdei termék, valamint az elkövetéshez (veszélyeztetéshez) használt eszköz biztosítása érdekében
+
+az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
 (3) A (2) bekezdés d) pontja alapján elvett faanyagot és szaporítóanyagot, illetve egyéb erdei terméket és az elkövetéshez (veszélyeztetéshez) használt eszközt az erdészeti szakszemélyzet köteles haladéktalanul átadni az erdészeti hatóságnak vagy a rendőrségnek.
 
