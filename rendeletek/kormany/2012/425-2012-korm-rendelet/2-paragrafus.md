@@ -1,0 +1,1 @@
+## „(3) A Tny. 22/A. §-a szerinti növelés megállapítására irányuló eljárásban, ha a kérelmező magyarországi lakóhellyel nem rendelkezik, a Nyugdíjfolyósító Igazgatóság, egyéb esetben a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság jár el első fokon.”
