@@ -26,7 +26,7 @@ a) nem tesz eleget a 7. § (6) bekezdésében foglalt nyilvántartási köteleze
 
 b) szándékosan forgalmaz ismert, az adott fajta tenyésztési programjában kizárásként nevesített genetikai rendellenességet hordozó apaállattól származó spermát.
 
-(10)[^19] A spermatároló központokat a területileg illetékes kerületi hivatalnak kockázati tényezők figyelembevételével rendszeresen, legalább évente kétszer ellenőriznie kell, amelynek során állandó jelleggel ellenőrzi az engedélyezés és működtetés állategészségügyi feltételeit. Az ellenőrzés legalább egyike a tenyésztési hatósággal együtt történik. Az ellenőrzés az engedélyesre és üzemeltetőre egyetemlegesen kiterjed.
+(10)[^19] A spermatároló központokat a területileg illetékes megyei kormányhivatal járási hivatala járási állat-egészségügyi és élelmiszer-ellenőrző hivatalnak kockázati tényezők figyelembevételével rendszeresen, legalább évente kétszer ellenőriznie kell, amelynek során állandó jelleggel ellenőrzi az engedélyezés és működtetés állategészségügyi feltételeit. Az ellenőrzés legalább egyike a tenyésztési hatósággal együtt történik. Az ellenőrzés az engedélyesre és üzemeltetőre egyetemlegesen kiterjed.
 
 [^18]: A 10. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (7) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^19]: A 10. § (10) bekezdését a 28/2010. (XI. 9.) VM rendelet 5. § (8) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^19]: A 10. § (10) bekezdését a 28/2010. (XI. 9.) VM rendelet 5. § (8) bekezdése iktatta be, szövege a 151/2012. (XII. 29.) VM rendelet 33. §-a szerint módosított szöveg.
