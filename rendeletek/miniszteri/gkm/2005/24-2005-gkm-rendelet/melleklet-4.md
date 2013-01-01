@@ -1,4 +1,4 @@
-4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^177]
+4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^178]
 
 ## A 2003. év november 30-ig oktatásba bevont járművekre vonatkozó előírások
 
@@ -36,7 +36,7 @@ f) két darab pót-visszapillantó tükör, amely a vezető melletti ülésből 
 
 „B” kategória a mozgáskorlátozottak képzéséhez:
 
-a) bármely – a mozgáskorlátozott egészségi állapotának megfelelő – személygépkocsi, illetőleg a külön jogszabályban[^178] meghatározott szakértői bizottság egyedi műszaki előírásainak megfelelően átalakított személygépkocsi,
+a) bármely – a mozgáskorlátozott egészségi állapotának megfelelő – személygépkocsi, illetőleg a külön jogszabályban[^179] meghatározott szakértői bizottság egyedi műszaki előírásainak megfelelően átalakított személygépkocsi,
 
 b) a járművezető melletti ülésből működtethető, az üzemi fékberendezésre ható pótfék pedállal. A pótfék hatásosságának el kell érnie az üzemi fék hatásosságának legalább 90%-át,
 
@@ -158,12 +158,12 @@ d) az oktató, illetőleg a vizsgabiztos részére két darab póttükör,
 
 e) oktatói (vizsgabiztosi) pótfék, illetőleg az oktató (vizsgabiztos) által kezelhető üzemi fék.
 
-2.[^179] Egyéb követelmények
+2.[^180] Egyéb követelmények
 
 Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivéve – fel kell szerelni kék alapszínű, 20 cm magasságú, 3 cm vonalvastagságú – elölről és hátulról egyaránt – jól látható, nyomtatott fehér „T” betűt ábrázoló, 25x25 cm oldalélű táblával, valamint jól láthatóan fel kell tüntetni az „Autósiskola” feliratot. A „B” kategória esetében ezen jelzéseket a jármű hossztengelyére merőlegesen felszerelt tetőtáblán kell elhelyezni. A tetőtáblán lévő „T” betűt oktatáson kívül le kell takarni.
 
 Az „M”, „A korl.” és „A” kategóriás, továbbá az „A1” alkategóriás gyakorlati képzés főoktatási szakaszában, valamint a forgalmi gyakorlati vizsgán a kísérő személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
-[^177]: A 4. melléklet e rendelet – 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát veszti 2013. október 1. napján.
-[^178]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet.
-[^179]: A 4. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (4) bekezdésével megállapított szöveg.
+[^178]: A 4. melléklet e rendelet – 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát veszti 2013. október 1. napján.
+[^179]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet.
+[^180]: A 4. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (4) bekezdésével megállapított szöveg.

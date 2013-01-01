@@ -1,4 +1,4 @@
-17. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^318]
+17. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^319]
 
 ## A vizsgabiztosok képzésére, továbbképzésére vonatkozó rendelkezések
 
@@ -86,4 +86,4 @@ e) a szükséges gyakorlati járművezetői képesség megőrzése, illetve tov�
 
 2.3. A képzést és továbbképzést követő vizsgakövetelményeket a közlekedési hatóságnak az 1.2 és 2.1 pontok figyelembevételével kell meghatároznia.
 
-[^318]: A 17. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (15) bekezdése iktatta be.
+[^319]: A 17. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (15) bekezdése iktatta be.

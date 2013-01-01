@@ -1,8 +1,8 @@
 ## Az Európai Unió jogának való megfelelés
 
-## 42. §[^141] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 42. §[^142] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a)[^142] a Tanács 91/439/EGK irányelve (1991. július 29.) a vezetői engedélyekről, valamint az azt módosító 2000/56/EK bizottsági irányelv és 2008/65/EK bizottsági irányelv a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelettel együtt;
+a)[^143] a Tanács 91/439/EGK irányelve (1991. július 29.) a vezetői engedélyekről, valamint az azt módosító 2000/56/EK bizottsági irányelv és 2008/65/EK bizottsági irányelv a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelettel együtt;
 
 b) az Európai Parlament és a Tanács 2003/59/EK irányelve (2003. július 15.) egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről, valamint a 3820/85/EGK tanácsi rendelet és a 61/439/EGK, illetve a 76/914/EGK tanácsi irányelv módosításáról, a 2. cikke, 5. cikkének (2) és (3) bekezdése, valamint 10. cikkének (2) és (3) bekezdése kivételével;
 
@@ -10,11 +10,11 @@ c) a Tanács 2004/66/EK irányelve (2004. április 26.) az 1999/45/EK, a 2002/83
 
 d) a Tanács 2006/103/EK irányelve (2006. november 20.) a közlekedéspolitika területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról, Melléklet A. rész 6. pont;
 
-e)[^143] az Európai Parlament és a Tanács 2006/126/EK irányelve (2006. december 20.) a vezetői engedélyekről, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló, többször módosított 35/2000. (XI. 30.) BM rendelettel és a közúti járművezetők egészségi alkalmasságának megállapításáról szóló, többször módosított 13/1992. (VI. 26.) NM rendelettel együtt.
+e)[^144] az Európai Parlament és a Tanács 2006/126/EK irányelve (2006. december 20.) a vezetői engedélyekről, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló, többször módosított 35/2000. (XI. 30.) BM rendelettel és a közúti járművezetők egészségi alkalmasságának megállapításáról szóló, többször módosított 13/1992. (VI. 26.) NM rendelettel együtt.
 
-f)[^144] az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról.
+f)[^145] az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról.
 
-[^141]: A 42. § a 38/2007. (III. 28.) GKM rendelet 5. §-ával megállapított szöveg.
-[^142]: A 42. § a) pontja a 18/2009. (IV. 14.) KHEM rendelet 3. §-ával megállapított szöveg.
-[^143]: A 42. § e) pontját az 58/2011. (XI. 24.) NFM rendelet 38. §-a iktatta be.
-[^144]: A 42. § f) pontját az 58/2011. (XI. 24.) NFM rendelet 38. §-a iktatta be.
+[^142]: A 42. § a 38/2007. (III. 28.) GKM rendelet 5. §-ával megállapított szöveg.
+[^143]: A 42. § a) pontja a 18/2009. (IV. 14.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^144]: A 42. § e) pontját az 58/2011. (XI. 24.) NFM rendelet 38. §-a iktatta be.
+[^145]: A 42. § f) pontját az 58/2011. (XI. 24.) NFM rendelet 38. §-a iktatta be.

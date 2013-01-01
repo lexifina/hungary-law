@@ -2,7 +2,7 @@
 
 ## 1. A vizsgáztatás okmányai
 
-## 1.1.[^202] A jelentkezési lap
+## 1.1.[^203] A jelentkezési lap
 
 ## A jelentkezési lap a közlekedési hatóság által meghatározott tartalmú és szerkesztésű nyomtatvány, amelynek elkészítéséről a közlekedési felügyelőség gondoskodik.
 
@@ -18,25 +18,25 @@
 
 ## A képző szervnek hiánypótlásra vissza kell adni azt a jelentkezési lapot, amelyik a vizsgára jelentéskor a fenti előírásoknak nem felel meg.
 
-## 1.2.[^203]
+## 1.2.[^204]
 
-## 1.3.[^204] A vezetési karton
+## 1.3.[^205] A vezetési karton
 
 ## A képző szerv a bizonylati album szerinti – a tanuló és a gyakorlati képzést végző képző szerv adataival kitöltött – vezetési kartont az első vizsgára jelentéssel leadja a közlekedési hatóságnak. A közlekedési hatóság rávezeti a vizsgázó iktatószámát és hitelesíti.
 
 ## Elveszett vezetési karton helyett kiállított vezetési kartont a közlekedési hatóság hitelesíti. A hitelesítéskor a hitelesítő rovatba a „Pótlás” szót kell bejegyezni.
 
-## 1.4.[^205] A vizsgajegyzőkönyv
+## 1.4.[^206] A vizsgajegyzőkönyv
 
 ## A közlekedési hatóság a vizsgára jelentések, illetőleg jelentkezések alapján a bizonylati album szerinti vizsgajegyzőkönyvet állít össze. A vizsgajegyzőkönyv készítésekor észlelt hiányosság – jogszabály alapján vizsgára bocsátást kizáró ok – esetén az érintett vizsgázó a vizsgajegyzőkönyvre nem vehető fel.
 
-## 2.[^206] A közlekedési hatóság ügyfélszolgálati tevékenysége
+## 2.[^207] A közlekedési hatóság ügyfélszolgálati tevékenysége
 
-## 2.1.[^207] Az ügyfelek tájékoztatása
+## 2.1.[^208] Az ügyfelek tájékoztatása
 
 ## A közlekedési hatóság valamennyi közúti járművezetői vizsgáztatást intéző ügyfélfogadó helyiségében biztosítani kell annak lehetőségét, hogy az állampolgárok megbízható, pontos tájékoztatást kapjanak a közúti járművezető képzés és vizsgáztatás mindazon ügymeneti részleteiről, amelyek közvetlenül érintik őket.
 
-## 2.2.[^208] A tájékoztatás tartalma
+## 2.2.[^209] A tájékoztatás tartalma
 
 ## Az ügyfeleket kérésükre tájékoztatni kell:
 
@@ -74,19 +74,19 @@
 
 ## A sikertelen vizsgát követő újabb vizsga (a továbbiakban: pótvizsga) igényt az alapvizsgára jelentés szabályai szerint kell bejelenteni a jelentkezési lap átadására-átvételére vonatkozó előírások kivételével.
 
-## 3.1.[^209] Az elméleti alapvizsgaigény bejelentése
+## 3.1.[^210] Az elméleti alapvizsgaigény bejelentése
 
 ## A képző szerv az elméleti vizsgaigényét a Bizonylati album szerinti nyomtatványon jelenti be a közlekedési hatóságnak. A képző szerv a vizsgaigény jelentéssel együtt átadja a megfelelően kitöltött, a szükséges igazolásokkal (tanfolyam elvégzése, felmentés, egészségi alkalmassági vélemény stb.) ellátott és felszerelt jelentkezési lapot. A vizsga helyét és időpontját a közlekedési hatóság jelöli ki, amelyet a vizsgajelentés másolati példányán, a vizsgázók személyi anyagának ellenőrzését követően igazol vissza. A vizsgára jelentéssel a képző szerv kötelezettséget vállal arra, hogy a tanuló elméleti képzése a vizsgáig hiánytalanul megtörténik, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
 ## 3.2. A gyakorlati vizsgaigény jelentése
 
-## 3.2.1.[^210] A biztonsági ellenőrzés üzemeltetési alapvizsgaigény jelentése
+## 3.2.1.[^211] A biztonsági ellenőrzés üzemeltetési alapvizsgaigény jelentése
 
 ## A képző szerv a biztonsági ellenőrzés üzemeltetési vizsgaigényét a Bizonylati album szerinti nyomtatványon jelenti a regionális igazgatóságnak.
 
 ## A vizsga helyét és időpontját a közlekedési hatóság jelöli ki, amelyet a vizsgajelentés másolati példányán igazol vissza. A vizsgára jelentéssel a képző szerv kötelezettséget vállal arra, hogy a tanuló képzése az adott tárgyból a vizsgáig hiánytalanul megtörténik, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
-## 3.2.2.[^211] A járműkezelési és a rutin alapvizsgaigény jelentése
+## 3.2.2.[^212] A járműkezelési és a rutin alapvizsgaigény jelentése
 
 ## A járműkezelési vagy a rutin vizsgaigényét a képző szerv a Bizonylati album szerinti nyomtatványon jelenti a regionális igazgatóságnak.
 
@@ -94,7 +94,7 @@
 
 ## Az első járműkezelési vagy rutin vizsgára jelentéssel a képző szerv, illetőleg a szakoktató egyben kötelezettséget vállal arra, hogy a vizsgázó részére a vizsga napjáig biztosítja a kötelezően előírt órák levezetését – kivéve a tanfolyammentes vizsga esetét –, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
-## 3.2.3.[^212] A forgalmi alapvizsgaigény jelentése
+## 3.2.3.[^213] A forgalmi alapvizsgaigény jelentése
 
 ## A forgalmi vizsgaigényt a képző szerv a Bizonylati album szerinti nyomtatványon jelenti a regionális igazgatóságnak.
 
@@ -102,17 +102,17 @@
 
 ## Az első forgalmi vizsgára jelentéssel a képző szerv kötelezettséget vállal arra, hogy a vizsgázó részére a vizsga napjáig biztosítja a kötelezően előírt és feladatonként meghatározott órák levezetését – kivéve a tanfolyammentes vizsga esetét –, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
-## 3.3.[^213] Vizsgára jelentés egyes tanfolyam-, illetve vizsgamentességi esetekben
+## 3.3.[^214] Vizsgára jelentés egyes tanfolyam-, illetve vizsgamentességi esetekben
 
 ## Azoknál a vizsgáknál, ahol nincs előírva elméleti és/vagy gyakorlati tanfolyami, illetve vizsgakötelezettség, a szükséges igazolásokkal ellátott és felszerelt jelentkezési lapot (felmentés, egészségi alkalmassági vélemény stb.) a vizsgázó első vizsgára jelentésekor (jelentkezésekor) kell átadni.
 
 ## A vizsgázó személyes jelentkezése esetén a vizsgára bocsátás feltételeit a közlekedési hatóság azonnal ellenőrzi, és ha ezek hiánytalanul megvannak, a vizsga helyét és időpontját meghatározza, és erről a vizsgázót azonnal, írásban tájékoztatja. Hiányosság esetén a közlekedési hatóság a vizsgázót hiánypótlásra szólítja fel.
 
-## 3.4.[^214] A vizsgázó értesítése
+## 3.4.[^215] A vizsgázó értesítése
 
 ## A vizsga helyéről és időpontjáról a vizsgázókat a vizsgaigényt bejelentő értesíti. Az értesítésnek tartalmaznia kell, hogy a vizsgára a meglévő vezetői engedélyt, továbbá a vezetői engedélyben nem szereplő kategória megszerzését tanúsító vizsgaigazolást a vizsgázónak magával kell vinnie, és a személyazonosságát igazolnia kell.
 
-## 3.5.[^215] A vizsgára bocsátás feltételeinek ellenőrzése
+## 3.5.[^216] A vizsgára bocsátás feltételeinek ellenőrzése
 
 ## A közlekedési hatóság a jelentkezési lapok átvételét követően a csatolt mellékletek és a vizsgázó nyilatkozata alapján ellenőrzi, hogy a vizsgázók megfelelnek-e a vizsgára bocsátás feltételeinek.
 
@@ -122,13 +122,13 @@
 
 ## Ha a közlekedési hatóság a vizsgázó vizsgára bocsátását kizáró, hitelt érdemlő adat birtokába jut (közlekedésbiztonsági feltételek megváltozása, PÁV alkalmatlanság, utánképzési kötelezettség stb.), a vizsgázót – a feltételek igazolt teljesítéséig – további vizsgára nem bocsáthatja. Ebben az esetben a vizsgázót írásban értesíteni kell.
 
-## 4.[^216] A vizsgák szervezése
+## 4.[^217] A vizsgák szervezése
 
 ## A vizsgákat a közlekedési hatóság szervezi.
 
 ## A képző szerv (illetve képző szervek közösen) és a közlekedési hatóság megállapodhatnak abban, hogy a vizsgákat mindig a hét azonos napján (napjain) rendezik. Ekkor a képző szerv (illetve képző szervek közösen) kötelezettséget vállal arra, hogy a lekötött vizsganapokon a megegyezésben rögzített vizsgázó létszámot biztosítja, a közlekedési hatóság pedig vállalja, hogy a vizsgát az előzetesen megállapított helyen és időben lebonyolítja.
 
-## 4.1.[^217] A vizsgafeltételek biztosítása
+## 4.1.[^218] A vizsgafeltételek biztosítása
 
 ## A közlekedési hatóságnak az elméleti és a gyakorlati vizsgák lebonyolításához szükséges vizsgatermet, vizsgapályát és az ezekhez szükséges kiszolgáló helyiségeket (vizsgabiztosi szoba, a vizsgázók és a szakoktatók részére várakozó helyiség, WC és kézmosási lehetőség) minden megyében (fővárosban) biztosítania kell.
 
@@ -140,7 +140,7 @@
 
 ## Vizsgát az a vizsgázó tehet, aki a vizsgajegyzőkönyvön szerepel, a kiírás szerinti időpontban a vizsga helyszínén vizsgára alkalmas állapotban megjelent, a személyazonosságát hitelt érdemlően igazolni tudja. A már hitelesített (lezárt) vizsgajegyzőkönyvre további vizsgázó nem vehető fel.
 
-## 5.2.[^218] Vizsgatárgyak és a gyakorlati vizsgatárgyak vizsgaideje (percben)
+## 5.2.[^219] Vizsgatárgyak és a gyakorlati vizsgatárgyak vizsgaideje (percben)
 
 | Kategória | Elméleti vizsgatárgyak | Gyakorlati vizsgatárgyak vizsgaideje | Megjegyzés |
 
@@ -226,7 +226,7 @@
 
 | 3) A forgalmi vizsga idejébe nem számít bele a kérelmező fogadása, a jármű közúti közlekedésbiztonsággal összefüggő műszaki ellenőrzése, valamint a gyakorlati vizsga eredményének kihirdetése. |
 
-## 5.3.[^219] Érkezés a vizsgahelyre
+## 5.3.[^220] Érkezés a vizsgahelyre
 
 ## A vizsgázónak a vizsga helyszínén a számára kiírt időpontban pontosan meg kell jelennie. Az elméleti vizsgák esetén a vizsgabiztos tájékoztatásának megkezdése után érkező vizsgázó a vizsgán nem vehet részt.
 
@@ -234,13 +234,13 @@
 
 ## A vizsgázó a vizsgabiztosra a vizsgakiírástól számított legfeljebb 10 percet köteles várni. Ennél több késés esetén a vizsgázó kérheti a vizsga új időpontban megtartását. Ebben az esetben a vizsgázó vizsgadíj befizetése nélkül tehet újabb vizsgát.
 
-## 5.4.[^220] A vizsgán meg nem jelenés
+## 5.4.[^221] A vizsgán meg nem jelenés
 
 ## A vizsgára kiírt időpontban meg nem jelenő, vagy az engedélyezettnél többet késő vizsgázó újabb vizsgadíj befizetése nélkül csak az esetben tehet újabb vizsgát, ha távolmaradását
 
 ## – legkésőbb a vizsgát megelőző 5. napon a közlekedési hatóságnak személyesen vagy írásban bejelenti,
 
-## 5.5.[^221] A személyazonosság megállapítása
+## 5.5.[^222] A személyazonosság megállapítása
 
 ## A vizsgabiztos a vizsgajegyzőkönyv és a személyazonosító igazolvány (személyi igazolvány) adatai alapján egyezteti és ellenőrzi a vizsgázó személyazonosságát Személyazonosító igazolvány hiányában el kell fogadni a diákigazolványt (14. életév betöltéséig), útlevelet, vagy a kártyaformátumú vezetői engedélyt. Szembenéző fényképet (arcképet) nem tartalmazó, vagy lejárt érvényességű igazolvány a személyazonosság igazolására nem használható.
 
@@ -264,11 +264,11 @@
 
 ## 6. Az elméleti vizsgáztatás szabályai
 
-## 6.1.[^222] Az elméleti vizsga
+## 6.1.[^223] Az elméleti vizsga
 
 ## Az elméleti vizsgát egy fő vizsgabiztos bonyolítja le.
 
-## 6.1.1.[^223] Az elméleti vizsgáztatás főbb adatai
+## 6.1.1.[^224] Az elméleti vizsgáztatás főbb adatai
 
 | Kategória | Tantárgy | Kérdések | Megfelelés pontszáma (pont) | Megengedett hibapontok száma (pont) | Tiszta vizsgaidő összesen (pont) |
 
@@ -312,11 +312,11 @@
 
 | K | K | 25 | 25 | 20 | 5 | 25 |
 
-## 6.1.2.[^224] A vizsgaterem átvétele
+## 6.1.2.[^225] A vizsgaterem átvétele
 
 ## A vizsgabiztos a vizsga megkezdése előtt megvizsgálja, hogy a helyiség és az eszközök a vizsga időpontjában a vizsga szabályszerű lebonyolítására alkalmasak-e. A vizsgázók ülésrendjét a helyiség adottságainak megfelelően kell meghatározni.
 
-## 6.1.3.[^225] A vizsgázók beszólítása, ültetési rendje, tájékoztatása,
+## 6.1.3.[^226] A vizsgázók beszólítása, ültetési rendje, tájékoztatása,
 
 ## A vizsga a vizsgázók beszólításával kezdődik.
 
@@ -348,7 +348,7 @@
 
 ## – számítógépes vizsgán a vizsga utáni teendőket.
 
-## 6.1.4.[^226] A vizsga rendjének felügyelete
+## 6.1.4.[^227] A vizsga rendjének felügyelete
 
 ## A vizsga ideje alatt a vizsgateremben a vizsgázókon kívül csak a vezényelt vizsgabiztos, a vizsgabiztos jelölt és az ellenőrzéssel, illetve szakfelügyelettel megbízott személy tartózkodhatnak. A vizsga rendjének megtartására a vizsgabiztos felügyel.
 
@@ -356,17 +356,17 @@
 
 ## A vizsgabiztos a rendelkezésre álló időt figyelembe véve válaszol a vizsgázó által feltett, vizsga értékelésével kapcsolatos kérdésekre.
 
-## 6.1.6.[^227] A vizsgajegyzőkönyv aláíratása
+## 6.1.6.[^228] A vizsgajegyzőkönyv aláíratása
 
 ## A vizsgabiztos szólítja a vizsgázókat, akik a vizsgán való megjelenésüket aláírásukkal igazolják a vizsgajegyzőkönyvön. A vizsgázók adatait a vizsgabiztosnak egyeztetnie kell.
 
 ## A vizsga a vizsgajegyzőkönyv utolsó vizsgázó által történő aláírásával fejeződik be.
 
-## 6.1.7.[^228] A vizsga utáni tájékoztatás
+## 6.1.7.[^229] A vizsga utáni tájékoztatás
 
 ## A vizsgázókat a vizsgabiztos – amennyiben ez a vizsga előtt nem történt meg – tájékoztatja a további tennivalóikról, a sikertelen eredménnyel vizsgázottakat a pótvizsgára jelentkezés módjáról, a közlekedési hatóság ügyfélfogadási idejéről, a pótvizsga várható időpontjáról és helyéről, a pótvizsgára befizetendő összegről és a befizetés módjáról.
 
-## 6.2.[^229] A szóbeli vizsga
+## 6.2.[^230] A szóbeli vizsga
 
 ## Szóbeli vizsgát kell tenni a „Trolibusz” kategóriás vizsgán minden elméleti vizsgatárgyból.
 
@@ -386,7 +386,7 @@
 
 ## 7. A gyakorlati vizsgáztatás szabályai
 
-## 7.1.[^230] Általános előírások
+## 7.1.[^231] Általános előírások
 
 ## A vizsgázónak a gyakorlati vizsgákon igazolnia kell a személyazonosságát, át kell adnia a vizsgabiztosnak a meglévő vezetői engedélyét és a vezetői engedélybe be nem jegyzett kategória megszerzését tanúsító vizsgaigazolást.
 
@@ -418,7 +418,7 @@
 
 ## 7.2. A járműkezelési vizsga
 
-## 7.2.1.[^231] Általános előírások
+## 7.2.1.[^232] Általános előírások
 
 ## A vizsgát egy fő vizsgabiztos vezeti le. A vizsgára a közlekedési hatóság vezényelhet vizsgarendezőt is.
 
@@ -426,7 +426,7 @@
 
 ## 7.2.2. A járműkezelési vizsga tárgyi feltételei
 
-## 7.2.2.1.[^232] A vizsgapálya
+## 7.2.2.1.[^233] A vizsgapálya
 
 ## Járműkezelési vizsga csak olyan vizsgapályán tartható, amelyet a közlekedési hatóság előzetesen arra alkalmasnak nyilvánított.
 
@@ -448,7 +448,7 @@
 
 ## Az „M”, „AM”, „A korl.”, „A2” és „A” kategóriás és az „A1”, alkategóriás járművek vizsgafeladatainak kijelöléséhez olyan műanyag forgalomterelő kúpokat kell használni, amelyek a vizsgázónak és a járműveknek sérülést nem okozhatnak, könnyen hordozhatóak, jól láthatóak és a jármű méreteinek megfelelnek. Az egyes feladatok helyét legfeljebb 45 cm magas és 30 cm talpszélességű kúpokkal kell kijelölni, illetve határolni, a kúpok helyét maradandóan meg kell jelölni. A kúpok egymástól való távolságát a kúpok közepétől kell mérni. A megállás helyét jelző vonalat sárga színűre kell felfesteni. A fékezés kezdetét jelző vonalat sárga színűre kell festeni és kúppal kell jelölni.
 
-## 7.2.3.[^233] A járműkezelési vizsga szervezése
+## 7.2.3.[^234] A járműkezelési vizsga szervezése
 
 ## A járműkezelési vizsga önálló vizsgaként szervezhető.
 
@@ -456,19 +456,19 @@
 
 ## 7.2.4. A járműkezelési vizsga menete, a résztvevők feladata
 
-## 7.2.4.1.[^234] A járműkezelési vizsga menete
+## 7.2.4.1.[^235] A járműkezelési vizsga menete
 
 ## Az első járműkezelési vizsga kezdetén a vizsgabiztos átveszi az aláírt, ezen melléklet 7.5.6.1. pontjában található minta szerinti „Nyilatkozatot”. A járműkezelési vizsgán a vizsgázónak – a feladatok végrehajtására megadott idő alatt – biztonsági ellenőrzési feladatokat, technikai kezelési és manőverezési feladatokat kell végrehajtania – rendkívüli esetet kivéve azon a járművön – amelyiken az alapoktatás történt. A járműkezelési vizsga a biztonsági ellenőrzési feladatok teljesítésével kezdődik. A járműkezelési vizsga az utolsóként végrehajtott manőverezési feladattal ér véget, kivéve, ha a vizsgázó sikertelenséget okozó hibát követett el. A járműkezelési vizsga eredményét a vizsgabiztos a vizsga végén ismerteti. A helyi adottságok figyelembevételével az értékelés történhet az utolsóként végrehajtott feladat után a helyszínen vagy a vizsga kiindulási helyére történő visszaállást követően.
 
 ## Az „M”, „AM” „A korl.”, „A2” és „A” kategóriás és az „A1” alkategóriás járműkezelési vizsgán, amennyiben a járművön a helyszínen javítható műszaki hiba mutatkozik és „csere” jármű nincs, a szakoktató a hibát kijavíthatja, ha ez 20 percnél több időt nem vesz igénybe. Amennyiben a hiba a fentiek szerint nem javítható, a vizsgát eredmény nélkül fel kell függeszteni. A rendkívüli eseményről jegyzőkönyvet kell felvenni. A vizsga kezdetén átvett „Nyilatkozatot” a közlekedési hatóság csatolja a vizsgázó személyi anyagához.”
 
-## 7.2.4.2.[^235] A vizsgázó feladata
+## 7.2.4.2.[^236] A vizsgázó feladata
 
 ## Az előre megjelölt vizsgafeladatokat tartalmazó minősítő lapok közül kihúz egyet. Elvégzi a jármű biztonsági berendezéseinek elindulás előtti ellenőrzését és egy, a minősítő lapon megjelölt másik feladatot. Az ellenőrzési feladatok végrehajtása közben meg kell állapítania az egyes biztonsági berendezések megfelelőségét, illetve hibáját. A biztonsági ellenőrzési feladatok elvégzése után a szakoktató útmutatása szerint megkezdi a technikai kezelési és manőverezési feladatok végrehajtását.
 
 ## A vizsgán való megjelenését, valamint a minősítő lap átvételét a vizsgajegyzőkönyvön az aláírásával igazolja.
 
-## 7.2.4.3.[^236] A szakoktató feladata
+## 7.2.4.3.[^237] A szakoktató feladata
 
 ## Részt vesz a vizsgán. A biztonsági ellenőrzési feladatok végrehajtása alatt a jármű mellett helyezkedik el. Figyelemmel kíséri a vizsgázó tevékenységét, különös tekintettel a munkavédelmi előírások betartására (a jármű vízszintes talajon állása stb.). A vizsgázó által működtetett irányjelző, féklámpa működésének ellenőrzésében közreműködhet.
 
@@ -476,7 +476,7 @@
 
 ## A vizsga során nem tanúsíthat a vizsga eredményének befolyásolására irányuló magatartást. A feladat meghatározás nem vonatkozhat, nem is utalhat a végrehajtás módjára.
 
-## 7.2.4.4.[^237] A vizsgabiztos feladata
+## 7.2.4.4.[^238] A vizsgabiztos feladata
 
 ## A vizsga megkezdése előtt ellenőrzi a vizsgáztatás feltételeit és a vezetési kartont. Röviden ismerteti a vizsga menetét. Az előzetesen – egy biztonsági ellenőrzési, valamint egy manőverezési vizsgafeladat számának bekarikázásával – megjelölt vizsgafeladatokat tartalmazó minősítő lapok közül a vizsgázóval kihúzat egyet, és a számára kijelölt feladatot ismerteti.
 
@@ -504,7 +504,7 @@
 
 ## jártassággal,
 
-## ab)[^238] a feladatokat nem hajtja végre,
+## ab)[^239] a feladatokat nem hajtja végre,
 
 ## ac) figyelmetlenségből vagy hozzá nem értésből kárt okozna,
 
@@ -528,7 +528,7 @@
 
 ## 7.3. A biztonsági ellenőrzés és üzemeltetési vizsga
 
-## 7.3.1.[^239] A biztonsági ellenőrzés és üzemeltetési vizsga tárgyi feltételei
+## 7.3.1.[^240] A biztonsági ellenőrzés és üzemeltetési vizsga tárgyi feltételei
 
 ## Biztonsági ellenőrzés és üzemeltetési vizsga csak olyan helyiségben tartható, amelyet a közlekedési hatóság előzetesen arra alkalmasnak nyilvánított, a minősítési szempontok és egyéb helyszíni adottságok figyelembevételével.
 
@@ -628,7 +628,7 @@
 
 ## – 1 db asztal, 1 db szék
 
-## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^240],
+## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^241],
 
 ## – 1 db működtethető félpótkocsi-támasztóláb (csak „C+E”-nél) (lehet a félpótkocsin is),
 
@@ -646,7 +646,7 @@
 
 ## – 1 db asztal, 1 db szék,
 
-## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^241],
+## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^242],
 
 ## – 1 db, a járműszerelvényhez tartozó pótkerék,
 
@@ -700,7 +700,7 @@
 
 ## 7.3.3. A biztonsági ellenőrzés üzemeltetési vizsga résztvevőinek feladata
 
-## 7.3.3.1.[^242] A vizsgázó feladata
+## 7.3.3.1.[^243] A vizsgázó feladata
 
 ## A vizsgatételekből egyet kihúz. A felkészülést követően a vizsgatételen szereplő feladatokat önállóan hajtja végre.
 
@@ -746,7 +746,7 @@
 
 ## 7.4.2. A rutin vizsga tárgyi feltételei
 
-## 7.4.2.1.[^243] A vizsgapálya
+## 7.4.2.1.[^244] A vizsgapálya
 
 ## Rutin vizsga csak olyan vizsgapályán tartható, amelyet a közlekedési hatóság előzetesen arra alkalmasnak nyilvánított.
 
@@ -776,7 +776,7 @@
 
 ## – oktatójármű-igazolás megszerzésére kötelezett járműnek érvényes oktatójármű-igazolással.
 
-## Különös figyelmet kell fordítani a külön jogszabályban[^244] szereplő műszaki előírásokra, a biztonsági öv felszerelésére, valamint a tűzoltó készülék „készenlétben tartására” vonatkozóan.
+## Különös figyelmet kell fordítani a külön jogszabályban[^245] szereplő műszaki előírásokra, a biztonsági öv felszerelésére, valamint a tűzoltó készülék „készenlétben tartására” vonatkozóan.
 
 ## „C1” alkategóriás és „C” kategóriás rutin vizsgákon a vezetőfülke hátsó ablakán a hátralátást meg kell akadályozni (pl. letakarással).
 
@@ -788,7 +788,7 @@
 
 ## 7.4.4. A rutin vizsga résztvevőinek feladata
 
-## 7.4.4.1.[^245] A vizsgázó feladata
+## 7.4.4.1.[^246] A vizsgázó feladata
 
 ## Az előre megjelölt vizsgafeladatokat tartalmazó rutin minősítő lapok közül egyet kihúz. A vizsga során a minősítő lapon szereplő kötelező és a megjelölt feladatokat a szakoktató utasításainak figyelembevételével önállóan hajtja végre.
 
@@ -804,7 +804,7 @@
 
 ## Ellátja az egyes feladatoknál a kijelölt biztosító személy feladatát. A vizsga során nem tanúsíthat a vizsga eredményének befolyásolására irányuló magatartást. Az utasításai nem vonatkozhatnak, nem is utalhatnak a végrehajtás módjára.
 
-## 7.4.4.3.[^246] A vizsgabiztos feladata
+## 7.4.4.3.[^247] A vizsgabiztos feladata
 
 ## Egyezteti és ellenőrzi a vizsgajegyzőkönyvet, a vezetői engedélyt (vizsgaigazolást) és a vizsgázó személyazonosságát. A vezetési kartonon ellenőrzi a kötelezően előírt órák, gyakorlatok teljesítésének igazolását.
 
@@ -838,11 +838,11 @@
 
 ## 7.5. A forgalmi vizsga
 
-## 7.5.1.[^247] Általános előírások
+## 7.5.1.[^248] Általános előírások
 
 ## Forgalmi vizsga a közlekedési hatóság által kijelölt vizsgaútvonalon tartható. A kijelölt vizsgaútvonalak jegyzékét a közlekedési hatóság az NKH honlapján teszi közzé.
 
-## 7.5.1.1.[^248] A forgalmi vizsgaútvonal követelményei:
+## 7.5.1.1.[^249] A forgalmi vizsgaútvonal követelményei:
 
 ## Közúti járművezetői vizsgaútvonalak az „Akorl”, „A.”, „B”, „C”, „D” kategóriás az „A1”, A2, „C1”, „D1” alkategóriás, továbbá a „B+E”, „C+E”, „C1+E”, „D+E” és „D1+E” kombinált kategóriás forgalmi vizsgák lebonyolításához csak olyan útvonal minősíthető, amely a forgalmi vizsga kiindulási helyét is figyelembe véve megfelel az alábbi követelményeknek:
 
@@ -876,7 +876,7 @@
 
 ## A „Trolibusz” kategória speciális adottságai miatt az útvonal meghatározását a közlekedési hatóság egyedileg végzi.
 
-## 7.5.2.[^249] A forgalmi vizsgák útvonala és tárgyi feltételei
+## 7.5.2.[^250] A forgalmi vizsgák útvonala és tárgyi feltételei
 
 ## A vizsga útvonalát a 7. mellékletben előírt szempontok alapján és a vizsgázó fokozatos terhelését is figyelembe véve, az érintendő csomópontok megjelölésével kell meghatározni.
 
@@ -884,7 +884,7 @@
 
 ## – vizsgázónként legalább 4 féle lehetőséget kell meghatározni.
 
-## 7.5.2.1.[^250] Az „M” kategóriás forgalmi vizsga útvonala
+## 7.5.2.1.[^251] Az „M” kategóriás forgalmi vizsga útvonala
 
 ## A vizsga útvonalat úgy kell meghatározni, hogy a vizsgázó a segédmotoros kerékpárral lakott területen belül
 
@@ -928,7 +928,7 @@
 
 ## = álljon meg meghatározott helyen az úttest szélén, azzal párhuzamosan, majd induljon el.
 
-## 7.5.2.3.[^251] A „Trolibusz” kategóriás forgalmi vizsga útvonala
+## 7.5.2.3.[^252] A „Trolibusz” kategóriás forgalmi vizsga útvonala
 
 ## A forgalmi vizsgát a közlekedési hatóság által kijelölt útvonalon kell megtartani.
 
@@ -968,7 +968,7 @@
 
 ## – WC, kézmosási lehetőség.
 
-## 7.5.4.[^252] A vizsgán résztvevő jármű
+## 7.5.4.[^253] A vizsgán résztvevő jármű
 
 ## A vizsgáztatásra kiállított járműnek meg kell felelnie:
 
@@ -998,11 +998,11 @@
 
 ## A mozgáskorlátozott személy öltözékét a jármű kialakításától, műszaki és orvosi előírásoktól függően kell figyelembe venni.
 
-## 7.5.6.[^253] A forgalmi vizsga szervezése
+## 7.5.6.[^254] A forgalmi vizsga szervezése
 
 ## A forgalmi vizsgát önálló vizsgaként kell szervezni. Amennyiben az indulási, érkezési hely a biztonsági ellenőrzés üzemeltetési vizsga lebonyolítására is alkalmas, a vizsgázók forgalmi és a biztonsági ellenőrzés üzemeltetési vizsgája egy napra is szervezhető.
 
-## 7.5.6.1.[^254] Az „M”, „AM”, „A korl.”, „A2” és „A” kategóriás, továbbá az „A1” alkategóriás vizsgánál eltérő előírások:
+## 7.5.6.1.[^255] Az „M”, „AM”, „A korl.”, „A2” és „A” kategóriás, továbbá az „A1” alkategóriás vizsgánál eltérő előírások:
 
 ## a) Az adó-vevő készüléket és a tanulómellényt a képző szervnek kell biztosítania.
 
@@ -1062,7 +1062,7 @@
 
 ## 7.5.7. A forgalmi vizsga résztvevői és feladataik
 
-## 7.5.7.1.[^255] A vizsgázó feladata
+## 7.5.7.1.[^256] A vizsgázó feladata
 
 ## A vizsgázó – az „M”, „A korl.” és „A” kategóriás, továbbá az „A1”, „A2” alkategóriás vizsgázók kivételével – a vizsgabiztos által rendelkezésére bocsátott alábbi nyilatkozatot a vizsgabiztos jelenlétében aláírja. A nyilatkozat aláírásának hiányában a forgalmi vizsga nem kezdhető meg.
 
@@ -1094,7 +1094,7 @@
 
 ## A vizsgázó a vizsgán való megjelenését, valamint az eredménytől függően a minősítő lap átvételét a vizsgajegyzőkönyvön az aláírásával igazolja.
 
-## 7.5.7.2.[^256] A szakoktató feladata, magatartása
+## 7.5.7.2.[^257] A szakoktató feladata, magatartása
 
 ## A vizsgázó mellett úgy foglal helyet, hogy – az üzemi fékberendezésre ható – pótféket működtetni tudja, és a jármű irányításába szükség esetén beavatkozhasson.
 
@@ -1132,7 +1132,7 @@
 
 ## A szakoktató feladata a balesetveszély elhárítása, szükség esetén közbeavatkozással (kormányzással, fékezéssel stb.).
 
-## 7.5.7.3.[^257] A vizsgabiztos feladata
+## 7.5.7.3.[^258] A vizsgabiztos feladata
 
 ## A vizsgabiztos a vizsga megkezdése előtt ellenőrzi a vizsgáztatás feltételeit.
 
@@ -1176,7 +1176,7 @@
 
 ## 8.1.1. Végrehajtás
 
-## A vizsgázót a vizsgabiztos előzetesen tájékoztatja a vizsga menetéről. Elindulás előtt a vizsgázó a KRESZ szerinti kötelező ellenőrzést végezze el,[^258] ezt követően a biztonsági övet csatolja be „C1”, „D1” alkategóriák, a „C”, „D” kategóriák, valamint a „C1+E”, „D1+E”, „C+E”, „D+E” kombinált kategóriák esetében végezze el a térképolvasási feladatot, töltse ki a menetíró készüléknek megfelelő adatrögzítő lapot, és helyezze a menetíró készülékbe.
+## A vizsgázót a vizsgabiztos előzetesen tájékoztatja a vizsga menetéről. Elindulás előtt a vizsgázó a KRESZ szerinti kötelező ellenőrzést végezze el,[^259] ezt követően a biztonsági övet csatolja be „C1”, „D1” alkategóriák, a „C”, „D” kategóriák, valamint a „C1+E”, „D1+E”, „C+E”, „D+E” kombinált kategóriák esetében végezze el a térképolvasási feladatot, töltse ki a menetíró készüléknek megfelelő adatrögzítő lapot, és helyezze a menetíró készülékbe.
 
 ## A járdaszegély (úttest széle) mellől, vagy forgalmi ok miatti megállás után határozottan, biztosan, egyenletesen, a kezelő-berendezéseket, szükség esetén a világítást, a jelzéseket használva, körültekintően induljon el. Indulás előtt a külső visszapillantó tükörből vagy más módon győződjön meg a jármű mögötti és melletti forgalomról. Mindig az oktató által megjelölt irányba haladjon. Iránymutatás hiányában kövesse az út vonalvezetését, illetve tegyen eleget a közúti jelzések kötelezéseinek.
 
@@ -1276,7 +1276,7 @@
 
 ## – a „C1”, „D1” alkategóriák, a „C”, „D” kategóriák, valamint a „C1+E”, „D1+E”, „C+E”, „D+E” kombinált kategóriák esetében a menetíró készüléket nem tudja kezelni, vagy az adatrögzítő lapot nem tudja értelmezni.
 
-## 8.2.[^259] Az „M”, „AM”, „A korl.”, „A2”, „A” kategória és az „A1” alkategória forgalmi vizsgafeladatai és értékelése
+## 8.2.[^260] Az „M”, „AM”, „A korl.”, „A2”, „A” kategória és az „A1” alkategória forgalmi vizsgafeladatai és értékelése
 
 ## 8.2.1. Végrehajtás
 
@@ -1446,7 +1446,7 @@
 
 ## A vizsgabiztos a vizsga során a vizsgaútvonalon a műveletek, manőverek elvégzésekor a vizsgázó teljesítményének megfelelően értékeli a feladat végrehajtását. Az egyes hibákat hibavonallal kell jelölni. A hibavonalat a manőver alatti és az útvonalhoz kapcsolódó rovatokba kell bejegyezni, ugyanakkor a hibára utaló szövegmezőben a vonatkozó hibát jelezni kell.
 
-## 9.[^260]
+## 9.[^261]
 
 9. melléklet a 24/2005. (IV. 21.) GKM rendelethez
 
@@ -1468,7 +1468,7 @@
 
 Az 1–7. pontban foglaltakat értelemszerűen az igazolás kiadásának alapjául szolgáló eljáráshoz kapcsolódóan kell kitölteni.
 
-8.[^261] A vizsgaigazolást kiállító közlekedési hatóság megnevezése és az adatok azonosítására szolgáló számjel.
+8.[^262] A vizsgaigazolást kiállító közlekedési hatóság megnevezése és az adatok azonosítására szolgáló számjel.
 
 9. Vizsgázó:
 
@@ -1484,76 +1484,76 @@ e) születési idő,
 
 f) állampolgárság,
 
-10. Az adott kategóriában tett vizsga megnevezése a külön jogszabályban[^262] meghatározott betűjellel jelölve a kategóriát, továbbá a vizsga időpontja.
+10. Az adott kategóriában tett vizsga megnevezése a külön jogszabályban[^263] meghatározott betűjellel jelölve a kategóriát, továbbá a vizsga időpontja.
 
 11. A vezethető jármű műszaki kialakítására vonatkozó korlátozás megnevezése.
 
 12. A PÁV IV. korlátozás.
 
-13.[^263] Dátum és a kiállító közlekedési hatóság bélyegzőlenyomata és aláírása.
+13.[^264] Dátum és a kiállító közlekedési hatóság bélyegzőlenyomata és aláírása.
 
-14.[^264] Az igazoláson az alábbi záradékot kell feltüntetni:
+14.[^265] Az igazoláson az alábbi záradékot kell feltüntetni:
 
-[^202]: A 8. melléklet 1. pont 1.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^203]: A 8. melléklet 1. pont 1.2. alpontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
-[^204]: A 8. melléklet 1. pont 1.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^205]: A 8. melléklet 1. pont 1.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^206]: A 8. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^207]: A 8. melléklet 2. pont 2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^208]: A 8. melléklet 2. pont 2.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^209]: A 8. melléklet 3. pont 3.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^210]: A 8. melléklet 3. pont 3.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^211]: A 8. melléklet 3. pont 3.2.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^212]: A 8. melléklet 3. pont 3.2.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^213]: A 8. melléklet 3. pont 3.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^214]: A 8. melléklet 3. pont 3.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^215]: A 8. melléklet 3. pont 3.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^216]: A 8. melléklet 4. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^217]: A 8. melléklet 4. pont 4.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^218]: A 8. melléklet 5. pont 5.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^219]: A 8. melléklet 5. pont 5.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^220]: A 8. melléklet 5. pont 5.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^221]: A 8. melléklet 5. pont 5.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^222]: A 8. melléklet 6. pont 6.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^223]: A 8. melléklet 6. pont 6.1.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^224]: A 8. melléklet 6. pont 6.1.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^225]: A 8. melléklet 6. pont 6.1.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^226]: A 8. melléklet 6. pont 6.1.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^227]: A 8. melléklet 6. pont 6.1.6. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^228]: A 8. melléklet 6. pont 6.1.7. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^229]: A 8. számú melléklet 6. pont 6.2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^230]: A 8. melléklet 7. pont 7.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^231]: A 8. melléklet 7. pont 7.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^232]: A 8. melléklet 7. pont 7.2.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^233]: A 8. melléklet 7. pont 7.2.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^234]: A 8. melléklet 7. pont 7.2.4.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^235]: A 8. melléklet 7. pont 7.2.4.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^236]: A 8. melléklet 7. pont 7.2.4.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^237]: A 8. melléklet 7. pont 7.2.4.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^238]: A 8. melléklet 7. pont 7.2.5. alpont ab) alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^239]: A 8. melléklet 7. pont 7.3.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^240]: Amennyiben a kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
-[^241]: Amennyiben a „D+E” kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
-[^242]: A 8. melléklet 7. pont 7.3.3.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^243]: A 8. melléklet 7. pont 7.4.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^244]: A közúti járművek forgalomba helyezésének és tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
-[^245]: A 8. melléklet 7. pont 7.4.4.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^246]: A 8. melléklet 7. pont 7.4.4.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^247]: A 8. melléklet 7. pont 7.5.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^248]: A 8. melléklet 7. pont 7.5.1.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^249]: A 8. melléklet 7. pont 7.5.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^250]: A 8. melléklet 7. pont 7.5.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^251]: A 8. melléklet 7. pont 7.5.2.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^252]: A 8. melléklet 7. pont 7.5.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^253]: A 8. melléklet 7. pont 7.5.6. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^254]: A 8. melléklet 7. pont 7.5.6.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^255]: A 8. melléklet 7. pont 7.5.7.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^256]: A 8. melléklet 7. pont 7.5.7.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^257]: A 8. melléklet 7. pont 7.5.7.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^258]: A féket a jármű megmozdításával és megállításával is ellenőrizze!
-[^259]: A 8. melléklet 8. pont 8.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^260]: A 8. mellékelet 9. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
-[^261]: A 9. melléklet 8. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^262]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 1. számú melléklete.
-[^263]: A 9. melléklet 13. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^264]: A 9. számú melléklet 14. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § t) pontja, az 58/2011. (XI. 24.) NFM rendelet 42. § (2) bekezdése szerint módosított szöveg.
+[^203]: A 8. melléklet 1. pont 1.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^204]: A 8. melléklet 1. pont 1.2. alpontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^205]: A 8. melléklet 1. pont 1.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^206]: A 8. melléklet 1. pont 1.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^207]: A 8. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^208]: A 8. melléklet 2. pont 2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^209]: A 8. melléklet 2. pont 2.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^210]: A 8. melléklet 3. pont 3.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^211]: A 8. melléklet 3. pont 3.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^212]: A 8. melléklet 3. pont 3.2.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^213]: A 8. melléklet 3. pont 3.2.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^214]: A 8. melléklet 3. pont 3.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^215]: A 8. melléklet 3. pont 3.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^216]: A 8. melléklet 3. pont 3.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^217]: A 8. melléklet 4. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^218]: A 8. melléklet 4. pont 4.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^219]: A 8. melléklet 5. pont 5.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^220]: A 8. melléklet 5. pont 5.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^221]: A 8. melléklet 5. pont 5.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^222]: A 8. melléklet 5. pont 5.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^223]: A 8. melléklet 6. pont 6.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^224]: A 8. melléklet 6. pont 6.1.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^225]: A 8. melléklet 6. pont 6.1.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^226]: A 8. melléklet 6. pont 6.1.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^227]: A 8. melléklet 6. pont 6.1.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^228]: A 8. melléklet 6. pont 6.1.6. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^229]: A 8. melléklet 6. pont 6.1.7. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^230]: A 8. számú melléklet 6. pont 6.2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^231]: A 8. melléklet 7. pont 7.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^232]: A 8. melléklet 7. pont 7.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^233]: A 8. melléklet 7. pont 7.2.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^234]: A 8. melléklet 7. pont 7.2.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^235]: A 8. melléklet 7. pont 7.2.4.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^236]: A 8. melléklet 7. pont 7.2.4.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^237]: A 8. melléklet 7. pont 7.2.4.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^238]: A 8. melléklet 7. pont 7.2.4.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^239]: A 8. melléklet 7. pont 7.2.5. alpont ab) alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^240]: A 8. melléklet 7. pont 7.3.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^241]: Amennyiben a kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
+[^242]: Amennyiben a „D+E” kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
+[^243]: A 8. melléklet 7. pont 7.3.3.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^244]: A 8. melléklet 7. pont 7.4.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^245]: A közúti járművek forgalomba helyezésének és tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
+[^246]: A 8. melléklet 7. pont 7.4.4.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^247]: A 8. melléklet 7. pont 7.4.4.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^248]: A 8. melléklet 7. pont 7.5.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^249]: A 8. melléklet 7. pont 7.5.1.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^250]: A 8. melléklet 7. pont 7.5.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^251]: A 8. melléklet 7. pont 7.5.2.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^252]: A 8. melléklet 7. pont 7.5.2.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^253]: A 8. melléklet 7. pont 7.5.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^254]: A 8. melléklet 7. pont 7.5.6. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^255]: A 8. melléklet 7. pont 7.5.6.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^256]: A 8. melléklet 7. pont 7.5.7.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^257]: A 8. melléklet 7. pont 7.5.7.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^258]: A 8. melléklet 7. pont 7.5.7.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^259]: A féket a jármű megmozdításával és megállításával is ellenőrizze!
+[^260]: A 8. melléklet 8. pont 8.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^261]: A 8. mellékelet 9. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
+[^262]: A 9. melléklet 8. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^263]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 1. számú melléklete.
+[^264]: A 9. melléklet 13. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^265]: A 9. számú melléklet 14. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § t) pontja, az 58/2011. (XI. 24.) NFM rendelet 42. § (2) bekezdése szerint módosított szöveg.
