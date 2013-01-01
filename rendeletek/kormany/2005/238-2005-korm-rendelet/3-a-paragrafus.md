@@ -1,7 +1,7 @@
-## 3/A. §[^17] Az építésfelügyeleti hatóság bírságot megállapító határozata – a katonai építésfelügyeleti hatóság által hozott határozat kivételével – tartalmazza
+## 3/A. §[^25] Az építésfelügyeleti hatóság bírságot megállapító határozata – a katonai építésfelügyeleti hatóság által hozott határozat kivételével – tartalmazza
 
-a) az elektronikus építésügyi bírság-nyilvántartó program által generált egyedi bírság-azonosító kódot és
+a) az e-bírság elektronikus alkalmazás által generált egyedi bírság-azonosító kódot,
 
-b) figyelmeztetést arról, hogy az egyedi bírság-azonosító kódot az építésfelügyeleti hatóság által rendelkezésre bocsátott készpénzátutalási megbízáson vagy a banki átutalási megbízáson fel kell tüntetni.
+b) a figyelmeztetést arról, hogy az egyedi bírság-azonosító kódot az építésfelügyeleti hatóság által rendelkezésre bocsátott készpénz-átutalási megbízáson vagy a banki átutalási megbízáson fel kell tüntetni.
 
-[^17]: A 3/A. §-t a 177/2010. (V. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^25]: A 3/A. §-t a 177/2010. (V. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
