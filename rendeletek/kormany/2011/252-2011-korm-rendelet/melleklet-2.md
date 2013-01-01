@@ -4,15 +4,15 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | a hatvani Grassalkovich-kastély főépületének és parkjának rekonstrukciója | Hatvan, belterület 2713/4 hrsz.; 2713/6 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 2. | a hatvani Grassalkovich-kastély főépületének és parkjának rekonstrukciója | Hatvan, belterület 2713/4 hrsz.; 2713/6 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 4. | vízjogi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 5. | ingatlan-nyilvántartási hatósági eljárások | Hatvani Körzeti Földhivatal | Heves Megyei Kormányhivatal Földhivatala |
+| 5. | ingatlan-nyilvántartási hatósági eljárások | Illetékes járási földhivatal | Heves Megyei Kormányhivatal Földhivatala |
 
-| 6. | kulturális örökségvédelmi hatósági engedélyek | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 6. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
@@ -24,7 +24,7 @@
 
 | 11. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 252/2011. (XII. 1.) Korm. rendelethez
+2. melléklet a 252/2011. (XII. 1.) Korm. rendelethez[^2]
 
 A beruházással összefüggő kiemelt jelentőségű üggyé minősített hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -32,14 +32,16 @@ A beruházással összefüggő kiemelt jelentőségű üggyé minősített ható
 
 | 1. | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 2. | építésügy | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | tűzvédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | 4. | katasztrófavédelem | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | kulturális örökségvédelem | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 5. | régészet és műemlékvédelem | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 6. | egészségügy | Heves Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
 | 7. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+
+[^2]: A 2. melléket a 394/2012. (XII. 20.) Korm. rendelet 50. §-a szerint módosított szöveg.
