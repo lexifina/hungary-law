@@ -14,7 +14,7 @@
 
 ## b) önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
 
-## 5. a kiskorú tag (részvényes) képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
+## 5. a kiskorú tag (részvényes) képviseletére vonatkozó gyámhatósági határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
 
 ## 6. ha a vezető tisztségviselők megválasztásához hatósági engedély szükséges ez az okirat;
 
@@ -44,7 +44,7 @@
 
 ## ab) az üzletrész bírósági határozattal, árveréssel történő megszerzése esetén az erre vonatkozó okirat,
 
-## ac) a gyámhivatal jóváhagyó nyilatkozata a kiskorú tag (részvényes) üzletrészének átruházásához,
+## ac) a gyámhatóság jóváhagyó nyilatkozata a kiskorú tag (részvényes) üzletrészének átruházásához,
 
 ## ad) az elővásárlási jog gyakorlásával kapcsolatos nyilatkozatok,
 

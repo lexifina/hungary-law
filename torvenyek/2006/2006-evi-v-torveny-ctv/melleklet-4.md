@@ -38,7 +38,7 @@
 
 ## 10. ha a nem pénzbeli hozzájárulás szolgáltatásához hatóság, illetve harmadik személy hozzájárulása (engedélye) szükséges, ez az okirat;
 
-## 11. a kiskorú tag képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
+## 11. a kiskorú tag képviseletére vonatkozó gyámhatósági határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
 
 ## 12.
 

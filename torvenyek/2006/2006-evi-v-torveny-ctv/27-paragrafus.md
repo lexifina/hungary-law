@@ -102,7 +102,7 @@ b) az ellenőrző bizottsági tagok nevét és lakóhelyét;
 
 (11) Végrehajtói iroda esetében
 
-a) a tagok nevét (cégét), lakóhelyét (székhelyét), az önálló bírósági végrehajtó tag esetében nevét, szolgálati helyét (annak a helyi bíróságnak a megnevezését, amely mellé kinevezték), hivatali helyiségének címét, az illetékességi területe kiterjesztésének tényét és terjedelmét,
+a) a tagok nevét (cégét), lakóhelyét (székhelyét), az önálló bírósági végrehajtó tag esetében nevét, szolgálati helyét (annak a járásbíróságnak a megnevezését, amely mellé kinevezték), hivatali helyiségének címét, az illetékességi területe kiterjesztésének tényét és terjedelmét,
 
 b) az önálló bírósági végrehajtó tag (tagok) szavazati jogának terjedelmét;
 

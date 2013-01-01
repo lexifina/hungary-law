@@ -7,3 +7,9 @@
 (4) A cégnévnek (rövidített névnek) az ország területén bejegyzett más cég elnevezésétől, illetve a 6. § (3) bekezdése szerint lefoglalt elnevezéstől – a cégforma különbözőségén túlmenően is – egyértelműen különböznie kell, és nem kelthet olyan látszatot, ami – különösen a cég tevékenységi körét és a választott cégformát illetően – megtévesztő.
 
 (5) A cégnévnek – a (4) bekezdésen túlmenően – egyértelműen különböznie kell a közhatalmi és közigazgatási szervek hivatalos és a köznyelvben használt elnevezésétől.
+
+(6) A cég elnevezésében nem szerepelhet
+
+a) olyan személy neve, aki a XX. századi önkényuralmi politikai rendszerek megalapozásában, kiépítésében vagy fenntartásában vezető szerepet töltött be, vagy
+
+b) olyan kifejezés vagy olyan szervezet neve, amely a XX. századi önkényuralmi politikai rendszerrel közvetlenül összefüggésbe hozható.

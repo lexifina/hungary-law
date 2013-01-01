@@ -184,7 +184,7 @@
 
 ## d) nyilatkozat arról, hogy a munkavállalói érdekképviseletet a végelszámolás megindításáról az ügyvezetés tájékoztatta,
 
-## e) a nyugdíj-biztosítási igazgatási szerv igazolása a cég biztosítottjai adatainak átadásáról,
+## e) a nyugdíj-biztosítási igazgatási szerv és az állami adóhatóság igazolása a cég biztosítottjai adatainak átadásáról,
 
 ## f)
 

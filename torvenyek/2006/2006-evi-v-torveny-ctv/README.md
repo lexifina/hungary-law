@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 2006-5-00-00.38 |
 | 2012-08-01 | 2012. évi CXVII. törvény | 2006-5-00-00.39 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 2006-5-00-00.40 |
+| 2013-01-01 | 2012. évi CLXVII. törvény | 2006-5-00-00.41 |
