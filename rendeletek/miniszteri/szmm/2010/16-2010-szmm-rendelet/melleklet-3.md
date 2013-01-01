@@ -1,16 +1,16 @@
 ## KÉRELEM csoportos keretengedély iránt
 
-## Csoportos keretengedély iránti kérelem nyújtható be, ha a foglalkoztató általharmadik országban honos vállalkozással kötött magánjogi szerződés teljesítése érdekében több harmadik országbeli állampolgár foglalkoztatása szükséges.
+## Csoportos keretengedély iránti kérelem nyújtható be, ha a foglalkoztató által harmadik országban honos vállalkozással kötött magánjogi szerződés teljesítése érdekében több harmadik országbeli állampolgár foglalkoztatása szükséges.
 
 ## A kérelem benyújtásának helye:
 
-## –  az általános szabályok szerint a kérelmet a harmadik országbeli állampolgár foglalkoztatásának helye szerinti munkaügyi központnál kell benyújtani.
+## Az általános szabályok szerint a kérelmet a harmadik országbeli állampolgár foglalkoztatásának helye szerinti munkaügyi központnál kell benyújtani.
 
 ## Kivételek:
 
-## –  a foglalkoztatás megkezdésének helye szerinti munkaügyi központnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
+## – a foglalkoztatás megkezdésének helye szerinti munkaügyi központnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
 
-## –  a foglalkoztató székhelye szerinti munkaügyi központnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
+## – a foglalkoztató székhelye szerinti munkaügyi központnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
 
 ## 1.1. A kérelmező foglalkoztató adatai:
 
@@ -18,17 +18,19 @@
 
 ## 1.1.2. Címe:
 
-## 1.1.2. Adóazonosító száma:
+## 1.1.3. Adóazonosító száma/adóazonosító jele:
 
-## 1.1.4. TB folyószámlaszáma:
+## 1.1.4. TEÁOR kódja:
 
-## 1.1.5. TEÁOR száma:
+## 1.1.5. Képviseletre jogosult neve:
 
-## 1.1.6. Képviseletre jogosult neve:
-
-## 1.1.7. Ügyintéző neve:
+## 1.1.6. Ügyintéző neve:
 
 ## Telefonszáma:
+
+## Fax:
+
+## Elektronikus levelezési címe (e-mail):
 
 ## 1.2. A harmadik országban honos vállalkozás adatai:
 
@@ -36,7 +38,7 @@
 
 ## 1.2.2. Cégformája:
 
-## 1.2.2. Székhelye:
+## 1.2.3. Székhelye:
 
 ## 1.2.4. Képviseletre jogosult neve:
 
@@ -46,13 +48,15 @@
 
 ## 2.2. FEOR-kódja:
 
-## 2.2. A tevékenység ellátásához szükséges szakképzettség:
+## 2.3. A tevékenység ellátásához szükséges szakképzettség(ek):
 
 ## 2.4. Az ellátandó tevékenység részletes leírása:
 
 ## 2.5. A foglalkoztatás helye(i):
 
 ## 2.6. Heti munkaidő:
+
+## Teljes/részmunkaidő: ......................................................... óra.
 
 ## 2.7. Harmadik országbeli állampolgárok állampolgársága:
 
@@ -62,7 +66,7 @@
 
 ## 4. A foglalkoztatás időtartama:
 
-## 4.1. Ha a magánjogi szerződést a keretengedély iránti kérelem benyújtását megelőzően nem kötötték meg, a foglalkoz- tatás várható időtartama:
+## 4.1. Ha a magánjogi szerződést a keretengedély iránti kérelem benyújtását megelőzően nem kötötték meg, a foglalkoztatás várható időtartama:
 
 ## 4.2. Ha a magánjogi szerződést a keretengedély benyújtásáig megkötötték, az abban foglaltak szerint a foglalkoztatás tényleges időtartama (a magánjogi szerződésben rögzítettek szerint):
 
@@ -70,47 +74,47 @@
 
 ## 5.1. Kijelentem, hogy a kérelem benyújtását megelőző egy évben munkaügyi bírságot vagy munkavédelmi bírságot velem szemben jogerősen:
 
-## –  nem szabtak ki
+## – nem szabtak ki
 
-## –  kiszabtak:
+## – kiszabtak:
 
-## mikor, mely felügyelőség:
+## 5.2. Kijelentem, hogy a kérelem benyújtását megelőző egy éven belül harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt pénzfizetésre
 
-## 5.2. Kijelentem, hogy a kérelem benyújtását megelőző három éven belül harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt pénzfizetésre
+## – köteleztek
 
-## –  köteleztek
+## a befizetésnek ................................ napján eleget tettem/nem tettem eleget
 
-## a befizetésnek ................................ napján eleget tettem,
+## – nem köteleztek.
 
-## –  nem köteleztek.
+## 5.3. Kijelentem, hogy a foglalkoztatónál, a kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységet is érintően sztrájk:
 
-## 5.2. Kijelentem, hogy a foglalkoztatónál, a kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységet is érintően sztrájk:
+## – nincs folyamatban
 
-## –  nincs folyamatban
-
-## –  folyamatban van.
+## – folyamatban van.
 
 ## 5.4. Kijelentem, hogy a kérelem benyújtását megelőző évben a Munka Törvénykönyvében, a közalkalmazottak jogállásáról szóló törvényben meghatározott csoportos létszámcsökkentést:
 
-## –  nem hajtottam végre
+## – nem hajtottam végre
 
-## –  végrehajtottam:
+## – végrehajtottam:
 
 ## 5.5. Kijelentem, hogy a kérelmezett munkakörre vonatkozóan érvényes (folyamatos) munkaerőigénnyel:
 
-## –  rendelkezem
+## – rendelkezem, a kérelmet megelőzően nyújtottam be
 
-## mikortól:
+## mikor:
 
 ## melyik kirendeltségen:
 
-## –  nem rendelkezem.
+## – nem rendelkezem
+
+## – kérelemmel együtt nyújtom be.
 
 ## 5.6. Kijelentem, hogy a magánjogi szerződést kötő harmadik országban honos vállalkozás személyes joga és a harmadik országbeli állampolgár személyes joga azonos:
 
 ## 5.7. Kijelentem, hogy a külföldi munkáltatóval kötött magánjogi szerződés – amely alapján a harmadik országbeli állampolgár foglalkoztatása történik – a Ptk. rendelkezései alapján típusa szerint:
 
-## –  vállalkozási szerződés
+## – vállalkozási szerződés
 
 ## a Magyar Kereskedelmi Engedélyezési Hivatal vállalkozási import engedélyének száma:
 
@@ -118,22 +122,20 @@
 
 ## az engedély iránti kérelmet ......................... napján benyújtottam.
 
-## –  nem vállalkozási szerződés.
+## – nem vállalkozási szerződés.
 
 ## 6. A kérelemhez kötelezően csatolandó melléklet:
 
-## –  ha a magánjogi szerződést a kérelem benyújtása előtt megkötötték, a megkötött magánjogi szerződés hiteles másolata (valamint annak hiteles magyar fordítása).
+## – ha a magánjogi szerződést a kérelem benyújtása előtt megkötötték, a megkötött magánjogi szerződés hiteles másolata (valamint annak hiteles magyar fordítása).
 
-## 7. A kérelemhez kiegészítésként csatolható mellékletek (a foglalkoztató működési jogosultságát megalapozó iratok):
+## 7. A munkaügyi központ – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
-## –  társasági szerződés, alapító okirat hiteles másolata,
+## Dátum: ........................................................
 
-## –  cégbejegyzés, bírósági végzés, vállalkozói igazolvány vagy a vállalkozói tevékenység megkezdéséről tett bejelen- tés alapján kiadott igazolás hiteles másolata, valamint a harmadik országban honos vállalkozásra vonatkozó okiratok, továbbá
-
-## Dátum: .........................................................
-
-## ...............................................
+## ..............................................
 
 ## cégszerű aláírás
 
-3. melléklet a 16/2010. (V. 13.) SZMM rendelethez
+3. melléklet a 16/2010. (V. 13.) SZMM rendelethez[^71]
+
+[^71]: A 3. melléklet a 35/2012. (XII. 14.) NGM rendelet 3. § (27) bekezdésével megállapított szöveg.

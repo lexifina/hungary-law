@@ -1,10 +1,18 @@
 ## KÉRELEM
 
-## előzetes csoportos keretengedély alapján kiadandó egyéni munkavállalási engedély iránt
+## szezonális munkavállalási engedély iránt
 
-## A kérelem benyújtásának helye: annál a munkaügyi központnál kell előterjeszteni, amely azelőzetes csoportos keretengedélyt kiadta.
+## A kérelem benyújtásának helye:
 
-## 1. A kérelmező foglalkoztató adatai:
+## Az általános szabályok szerint a kérelmet a harmadik országbeli állampolgár foglalkoztatásának helye szerinti munkaügyi központnál kell benyújtani.
+
+## Kivételek:
+
+## – a foglalkoztatás megkezdésének helye szerinti munkaügyi központnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
+
+## – a foglalkoztató székhelye szerinti munkaügyi központnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
+
+## 1. A kérelmező foglalkoztató (munkaerő-kölcsönző) adatai:
 
 ## 1.1. Neve:
 
@@ -12,39 +20,59 @@
 
 ## 1.3. Adóazonosító száma:
 
-## 1.4. TB folyószámlaszáma:
+## 1.4. TEÁOR kód:
 
-## 1.5. TEÁOR száma:
+## 1.5. Képviseletre jogosult neve:
 
-## 1.6. Képviseletre jogosult neve:
-
-## 1.7. Ügyintéző neve:
+## 1.6. Ügyintéző neve:
 
 ## Telefonszáma:
+
+## Fax:
+
+## Elektronikus levelezési címe (e-mail):
 
 ## 2. A foglalkoztatni kívánt harmadik országbeli állampolgár adatai:
 
 ## 2.1. Neve:
 
-## 2.2. Anyja neve:
+## Családi neve:
 
-## 2.3. Szül. helye:
+## Utóneve:
 
-## Dátuma:
+## 2.2. Születéskori neve:
 
-## 2.4. Családi állapota:
+## Születéskori családi neve:
 
-## 2.5. Állampolgársága:
+## Születéskori utóneve:
 
-## 2.6. Iskolai végzettsége:
+## 2.3. Anyja (születéskori) neve:
 
-## Szakképzettsége(i):
+## Családi neve:
+
+## Utóneve:
+
+## 2.4. Születési helye:
+
+## 2.5. Születési ideje:
+
+## 2.6. Neme: □ férfi □ nő
+
+## 2.7. Állampolgársága:
+
+## 2.8. Útlevélszáma:
+
+## 2.9. A tevékenység ellátásához szükséges iskolai végzettsége:
+
+## Szakképzettsége(i), képzettsége(i), ismerete(i):
+
+## 2.10. Magyarországi tartózkodási helye (ha van):
 
 ## 3. A harmadik országbeli állampolgár által ellátandó tevékenység, betöltendő munkakör:
 
 ## 3.1. Megnevezése:
 
-## 3.2. FEOR–kódja:
+## 3.2. FEOR-kódja:
 
 ## 3.3. A tevékenység ellátásához szükséges szakképzettség:
 
@@ -54,54 +82,70 @@
 
 ## 3.6. Heti munkaidő:
 
-## 3.7. A foglalkoztatás várható kezdetének és befejezésének dátuma: ............................-tól .........................-ig.
+## Teljes/részmunkaidő ..................... óra.
 
-## 3.8. Várható személyi alapbér, illetmény, díjazás, ellenérték összege:
+## 3.7. A foglalkoztatás várható kezdetének (kezdeteinek) és befejezésének (befejezéseinek) dátumai:
 
-## 4. A harmadik országbeli állampolgár foglalkoztatásának indoklása, afoglalkoztatás egyéb feltételei:
+## ....................................-tól ..............................-ig
 
-## 5. A harmadik országbeli állampolgár dolgozott-e korábban Magyarországon?
+## ....................................-tól ..............................-ig
+
+## ....................................-tól ..............................-ig
+
+## 3.8. Várható (bruttó) alapbér, illetmény, díjazás, ellenérték összege:
+
+## 4. A harmadik országbeli állampolgár foglalkoztatásának indokolása, a foglalkoztatás egyéb feltételei:
+
+## 4.1. A foglalkoztatás munkaerő-kölcsönzés keretében történik-e?
 
 ## Igen Nem
 
-## Ha igen:
+## 5. A harmadik országbeli állampolgár dolgozott-e korábban mezőgazdasági szezonális munkavállalási engedély alapján Magyarországon?
 
-## 5.1. Előző magyarországi foglalkoztatója:
+## Igen Nem
 
-## 5.1.1. neve:
+## Előző munkavállalási engedélyt kiadó munkaügyi központ megnevezése:
 
-## 5.1.2. címe:
+## 6. A kérelmező foglalkoztató nyilatkozatai:
 
-## 5.2. Az előző magyarországi foglalkoztatás során:
+## 6.1. Kijelentem, hogy a kérelem benyújtását megelőző egy évben munkaügyi bírságot vagy munkavédelmi bírságot velem szemben jogerősen:
 
-## 5.2.1. A harmadik országbeli állampolgár által ellátott tevékenység (munkakör):
+## – nem szabtak ki
 
-## 5.2.2. A foglalkoztatás helye:
+## – kiszabtak:
 
-## 5.3. Előző munkavállalási engedélye:
+## 6.2. Kijelentem, hogy a kérelem benyújtását megelőző egy éven belül harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt pénzfizetésre:
 
-## 5.3.1. száma:
+## – köteleztek:
 
-## 5.3.2. érvényességi ideje: ................................-tól ..................................-ig.
+## a befizetésnek ..................................... napján eleget tettem.
 
-## 6. Az előzetes csoportos keretengedély száma:
+## – nem köteleztek.
 
-## 6.1. Ha az előzetes csoportos keretengedély a már megkötött magánjogi szerződés alapján került kiadásra, a keret- engedély érvényességi időtartama: ........................-tól ....................-ig.
+## 6.3. Kijelentem, hogy a kérelmezett munkakörre vonatkozóan érvényes (folyamatos) munkaerőigénnyel:
 
-## 6.2. Ha az előzetes csoportos keretengedély kiadását követően kötötték meg a magánjogi szerződést, akkor a magánjogi szerződésben rögzített foglalkoztatás időtartama: ....................-tól ....................-ig.
+## – rendelkezem, a kérelmet megelőzően nyújtottam be
 
-## 7. A kérelemhez kötelezően csatolandó mellékletek:
+## mikor:
 
-## 7.1. A harmadik országbeli állampolgár szakképzettségéről szóló okirat hiteles másolata, valamint hiteles magyar fordítása.
+## melyik kirendeltségen:
 
-## 7.2. A harmadik országbeli állampolgár munkaköri egészségügyi alkalmasságáról szóló orvosi igazolás (ha külföldről származik az igazolás ennek hiteles másolata, valamint hiteles magyar fordítása).
+## – nem rendelkezem
 
-## 7.3. Ha a magánjogi szerződést az előzetes csoportos keretengedély benyújtásáig nem kötötték meg, akkor jelen kérelemhez csatolni kell a magánjogi szerződés hiteles másolatát (valamint annak hiteles magyar fordítását).
+## – a kérelemmel egyidejűleg nyújtom be
 
-## Dátum: ..........................................................
+## 7. A kérelemhez csatolandó mellékletek:
 
-## ...................................................
+## 7.1. Munkaerőigény benyújtása, amennyiben korábban nem nyújtotta be a foglalkoztatás tervezett helye szerinti kirendeltségen.
 
-## cégszerű aláírás
+## 8. A munkaügyi központ – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
-4. melléklet a 16/2010. (V. 13.) SZMM rendelethez
+## Dátum: ........................................................
+
+## ...............................................................................
+
+## foglalkoztató cégszerű aláírása
+
+4. melléklet a 16/2010. (V. 13.) SZMM rendelethez[^72]
+
+[^72]: A 4. melléklet a 35/2012. (XII. 14.) NGM rendelet 3. § (28) bekezdésével megállapított szöveg.

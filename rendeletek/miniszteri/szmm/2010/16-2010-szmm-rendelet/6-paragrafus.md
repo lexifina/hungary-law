@@ -1,4 +1,4 @@
-6. § (1)[^13] A munkavállalási engedély iránti kérelmet el kell utasítani, ha
+6. § (1)[^22] A munkavállalási engedély iránti kérelmet el kell utasítani, ha
 
 a) nem állnak fenn a 4. § (1) bekezdés a)–c) pontjában meghatározott feltételek,
 
@@ -16,7 +16,7 @@ g) a szolgáltatás kizárólagos tárgya a külföldi munkáltatóval kötött 
 
 h) a harmadik országbeli állampolgár állandó lakóhelye szerinti ország illetékes hatósága a magyar állampolgárok adott országban történő munkavállalásának engedélyezését más országok állampolgáraira irányadó általános feltételekhez képest indokolatlanul nehezebb feltételhez köti (viszonosság),
 
-i) a foglalkoztató a harmadik országbeli állampolgár által ellátandó tevékenységért az erre a tevékenységre vonatkozó országos átlagos személyi alapbérnél lényegesen alacsonyabb személyi alapbért – ideértve illetményt, díjazást – jelölt meg.
+i)[^23]
 
 (2) Az (1) bekezdés d) pontjának alkalmazása szempontjából a foglalkoztató érdekkörében keletkezett oknak különösen azt kell tekinteni, ha a foglalkoztató
 
@@ -24,11 +24,14 @@ a) a munkaerőigényében a munkakör betöltésére vagy a tevékenység ellát
 
 b) a feltételeknek megfelelő kiközvetíthető munkaerő foglalkoztatásától elzárkózott, vagy
 
-c) a kérelem benyújtását megelőzően érvényes munkaerőigénnyel rendelkezett, de közvetítést nem kért.
+c)[^24] érvényes munkaerőigénnyel rendelkezett, de abban közvetítést nem kért, vagy a munkaerőigény érvényességi idejét 15 napnál rövidebb időtartamban határozta meg.
 
-(3)[^14] Az (1) bekezdés h) pontjában meghatározott körülmény fennállásáról a munkaügyi központokat a nemzetgazdasági miniszter tájékoztatja.
+(3)[^25] Az (1) bekezdés h) pontjában meghatározott körülmény fennállásáról a munkaügyi központokat a nemzetgazdasági miniszter tájékoztatja.
 
-(4) Az (1) bekezdés i) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt személyi alapbér – ideértve illetmény, díjazás – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
+(4)[^26]
 
-[^13]: A 6. § (1) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés d) pontja szerint módosított szöveg.
-[^14]: A 6. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 72. § (1) bekezdése szerint módosított szöveg.
+[^22]: A 6. § (1) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés d) pontja szerint módosított szöveg.
+[^23]: A 6. § (1) bekezdés i) pontját a 35/2012. (XII. 14.) NGM rendelet 3. § (30) bekezdés a) pontja hatályon kívül helyezte.
+[^24]: A 6. § (2) bekezdés c) pontja a 35/2012. (XII. 14.) NGM rendelet 3. § (8) bekezdésével megállapított szöveg.
+[^25]: A 6. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 72. § (1) bekezdése szerint módosított szöveg.
+[^26]: A 6. § (4) bekezdését a 35/2012. (XII. 14.) NGM rendelet 3. § (30) bekezdés b) pontja hatályon kívül helyezte.

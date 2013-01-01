@@ -10,4 +10,6 @@ b) a magyar filmgyártó vállalkozással koprodukciós filmalkotás gyártásá
 
 (4) Az (1) bekezdésben meghatározott keretengedély iránti kérelemhez csatolni kell a magánjogi szerződést, továbbá a Kulturális Örökségvédelmi Hivatal igazolását arról, hogy az Mktv. 2. §-ának 23. pontjában megjelölt, megrendelésre készülő filmalkotás, vagy az Mktv. 2. § 24. pontjában megjelölt, nem megrendelésre készülő filmalkotás nyilvántartásba vétele iránti kérelmet a magyar filmgyártó vállalkozás a Kulturális Örökségvédelmi Hivatalhoz benyújtotta.
 
-(5) Az (1) bekezdésben meghatározott keretengedély a magánjogi szerződés teljesítésének időtartamára adható. A keretengedély iránti kérelemre és annak elbírálására a 4. § (1) bekezdés a)–b) pontjában, a 6. § (1) bekezdés a) pontjában, d) pontjában, valamint i) pontjában foglaltakat nem kell alkalmazni.
+(5)[^50] Az (1) bekezdésben meghatározott keretengedély a magánjogi szerződés teljesítésének időtartamára adható. A keretengedély iránti kérelemre és annak elbírálására a 4. § (1) bekezdés a)–b) pontjában, a 6. § (1) bekezdés a) pontjában, d) pontjában foglaltakat nem kell alkalmazni.
+
+[^50]: A 14. § (5) bekezdése a 35/2012. (XII. 14.) NGM rendelet 3. § (30) bekezdés e) pontja szerint módosított szöveg.
