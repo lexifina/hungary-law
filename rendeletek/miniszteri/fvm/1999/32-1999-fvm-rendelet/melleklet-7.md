@@ -1,4 +1,4 @@
-7. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^94]
+7. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^95]
 
 ## A hústermelés céljából tartott csirkék tartásának minimális követelményei
 
@@ -90,7 +90,7 @@ b) a csirkék ivartalanítására, amennyiben állatorvos vagy állatorvos irán
 
 3.1. A gazdaságban vagy a gazdaság óljában az állománysűrűség teljes nevelési ciklusra vonatkozó legmagasabb értéke legfeljebb 39 kg/m2-ig emelhető, amennyiben az állattartó megfelel a 3.2., 3.3., 3.4. pontokban meghatározott követelményeknek.
 
-3.2. Az állattartó az állomány ólban való elhelyezését megelőzően legalább 15 nappal tájékoztatja a kerületi hivatalt az állománysűrűséggel kapcsolatos változtatási szándékáról, az állománysűrűség kívánt értékét pontosan megjelölve. Ha a kerületi hivatal kéri, az értesítést olyan dokumentumnak kell kísérnie, amely összefoglalja a 3.3. pont szerint szükséges dokumentáció tartalmát képező információkat.
+3.2.[^96] Az állattartó az állomány ólban való elhelyezését megelőzően legalább 15 nappal tájékoztatja a járási állategészségügyi hivatalt az állománysűrűséggel kapcsolatos változtatási szándékáról, az állománysűrűség kívánt értékét pontosan megjelölve. Ha a járási állategészségügyi hivatal kéri, az értesítést olyan dokumentumnak kell kísérnie, amely összefoglalja a 3.3. pont szerint szükséges dokumentáció tartalmát képező információkat.
 
 3.3. Az állattartónak a termelési rendszert részletesen leíró, folyamatosan rendelkezésre álló dokumentációcsomagot kell tartania az ólban.
 
@@ -106,7 +106,7 @@ d) riasztóberendezések és tartalék berendezések az állatok egészségéhez
 
 e) a padozat típusa és az általában használt alom.
 
-3.3.2. A dokumentációt naprakészen kell tartani, különösen a szellőzőrendszer és a riasztóberendezés műszaki ellenőrzése tekintetében. Az ólban, berendezéseiben vagy az alkalmazott eljárásokban bekövetkező bármilyen változást, amely hatással lehet az állatok jólétére, az állattartónak késedelem nélkül közölnie kell a kerületi hivatallal.
+3.3.2.[^97] A dokumentációt naprakészen kell tartani, különösen a szellőzőrendszer és a riasztóberendezés műszaki ellenőrzése tekintetében. Az ólban, berendezéseiben vagy az alkalmazott eljárásokban bekövetkező bármilyen változást, amely hatással lehet az állatok jólétére, az állattartónak késedelem nélkül közölnie kell a járási állategészségügyi hivatallal.
 
 3.4. Az állattartó biztosítja, hogy a gazdaság minden egyes ólja fel legyen szerelve olyan szellőző-, és szükség esetén fűtő- és hűtőrendszerrel, amelyet úgy terveztek meg, alakítottak ki és működtetnek, hogy
 
@@ -124,18 +124,24 @@ b) az állattartó által végzett ellenőrzés az MgSzH Központ által össze�
 
 c) az adott ólban az utolsó legalább hét egymást követő, ellenőrzött állományban az elhullási arány százalékos értéke nem haladta meg az alábbi értéket: az állomány napokban megadott várható vágási életkorának és 0,06-nak a szorzata +1.
 
-3.6. Amennyiben az utóbbi két évben a kerületi hivatal nem végzett ellenőrzést a gazdaságban, a 3.5. pont a) alpontjában írt követelménynek való megfeleléshez hatósági ellenőrzést kell végezni.
+3.6.[^98] Amennyiben az utóbbi két évben a járási állategészségügyi hivatal nem végzett ellenőrzést a gazdaságban, a 3.5. pont a) alpontjában írt követelménynek való megfeleléshez hatósági ellenőrzést kell végezni.
 
-3.7. A kerületi hivatal határozhat úgy, hogy a 3.5. pont c) alpontjától eltekintve is 42 kg/m2-ig növelhető az állománysűrűség, amennyiben az állattartó kielégítő szakmai magyarázattal szolgált a magasabb összesített napi elhullási arány rendkívüli jellegét illetően, vagy ha bizonyította, hogy az okok a saját tevékenységi és felelősségi körén kívül esnek.
+3.7.[^99] A járási állategészségügyi hivatal határozhat úgy, hogy a 3.5. pont c) alpontjától eltekintve is 42 kg/m2-ig növelhető az állománysűrűség, amennyiben az állattartó kielégítő szakmai magyarázattal szolgált a magasabb összesített napi elhullási arány rendkívüli jellegét illetően, vagy ha bizonyította, hogy az okok a saját tevékenységi és felelősségi körén kívül esnek.
 
 4. Hatósági ellenőrzés és nyomon követés a vágóhídon
 
 4.1. A 33 kg/m2-t meghaladó állománysűrűség esetében az állományt kísérő dokumentációnak tartalmaznia kell a napi elhullási arányt, valamint az állattartó által kiszámított összesített napi elhullási arányt, és a tartott hibrid vagy fajta megnevezését.
 
-4.2. A 4.1. pontban meghatározott adatokat, valamint az elhullottan érkezett brojlercsirkék számát – a gazdaság és az ól feltüntetésével – nyilvántartásba kell venni, a kerületi hivatal felügyelete mellett. Az adatok, valamint az összesített napi elhullási arány megbízhatóságát – a levágott brojlercsirkék számának, valamint a vágóhídra elhullottan érkezett brojlercsirkék számának figyelembevételével – a kerületi hivatalnak kell ellenőriznie.
+4.2.[^100] A 4.1. pontban meghatározott adatokat, valamint az elhullottan érkezett brojlercsirkék számát – a gazdaság és az ól feltüntetésével – nyilvántartásba kell venni, a járási állategészségügyi hivatal felügyelete mellett. Az adatok, valamint az összesített napi elhullási arány megbízhatóságát – a levágott brojlercsirkék számának, valamint a vágóhídra elhullottan érkezett brojlercsirkék számának figyelembevételével – a járási állategészségügyi hivatalnak kell ellenőriznie.
 
-4.3. A kerületi hivatalnak az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különleges szabályok megállapításáról szóló, 2004. április 29-i 854/2004/EK európai parlamenti és tanácsi rendelet alapján végzett ellenőrzések keretében értékelnie kell a levágást követő vizsgálat eredményeit az olyan egyéb körülmények meghatározása érdekében, amelyek hatással lehetnek az állatjólétre (pl. dermatitisz, élősködők, szisztémás betegségek aránya).
+4.3.[^101] A járási állategészségügyi hivatalnak az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különleges szabályok megállapításáról szóló, 2004. április 29-i 854/2004/EK európai parlamenti és tanácsi rendelet alapján végzett ellenőrzések keretében értékelnie kell a levágást követő vizsgálat eredményeit az olyan egyéb körülmények meghatározása érdekében, amelyek hatással lehetnek az állatjólétre (pl. dermatitisz, élősködők, szisztémás betegségek aránya).
 
 4.4. Amennyiben a 4.1. és 4.2. pontokban szereplő elhullási arány vagy a 4.3. pontban szereplő levágást követő vizsgálat eredményei és a nem kielégítő vagy nem előírásszerű állatjóléti körülmények között egyértelmű összefüggés van, az állattartónak a kerületi hivatal iránymutatása szerint megfelelő intézkedéseket kell hoznia a nem kielégítő állatjóléti körülmények felszámolása érdekében.
 
-[^94]: A 7. számú mellékletet a 20/2002. (III. 14.) FVM rendelet 16. § (3) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rendelet 10. § (6) bekezdésével megállapított szöveg.
+[^95]: A 7. számú mellékletet a 20/2002. (III. 14.) FVM rendelet 16. § (3) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rendelet 10. § (6) bekezdésével megállapított szöveg.
+[^96]: A 7. számú melléklet 3. pont 3.2. alpontja a 151/2012. (XII. 29.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^97]: A 7. számú melléklet 3. pont 3.3.2. alpontja a 151/2012. (XII. 29.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^98]: A 7. számú melléklet 3. pont 3.6. alpontja a 151/2012. (XII. 29.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^99]: A 7. számú melléklet 3. pont 3.7. alpontja a 151/2012. (XII. 29.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^100]: A 7. számú melléklet 4. pont 4.2. alpontja a 151/2012. (XII. 29.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^101]: A 7. számú melléklet 4. pont 4.3. alpontja a 151/2012. (XII. 29.) VM rendelet 3. § b) pontja szerint módosított szöveg.

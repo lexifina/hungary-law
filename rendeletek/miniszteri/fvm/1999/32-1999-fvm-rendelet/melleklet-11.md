@@ -1,4 +1,4 @@
-11. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^104]
+11. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^111]
 
 Bizonyítvány a hatósági állatvédelmi képzésen való vizsgatételről
 
@@ -18,4 +18,4 @@ Bizonyítvány a hatósági állatvédelmi képzésen való vizsgatételről
 
 | 3.4. Név és aláírás | 3.5. Bélyegző |
 
-[^104]: A 11. számú mellékletet a 31/2010. (XI. 18.) VM rendelet 10. § (3) bekezdése iktatta be.
+[^111]: A 11. számú mellékletet a 31/2010. (XI. 18.) VM rendelet 10. § (3) bekezdése iktatta be.
