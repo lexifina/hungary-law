@@ -1,4 +1,4 @@
-70. § (1) A tanuló és a gyakorlati képzést folytató szervezet kártérítési felelősségére tanulószerződés esetén – a (2) bekezdés kivételével – a Munka Törvénykönyve kártérítési felelősségi szabályait kell alkalmazni.
+70. § (1) A tanuló és a gyakorlati képzést folytató szervezet kártérítési felelősségére tanulószerződés esetén – a (2) bekezdés kivételével – a munka törvénykönyvéről szóló törvény kártérítési felelősségi szabályait kell alkalmazni.
 
 (2) A tanuló a gyakorlati képzést folytató szervezetnek gondatlanságból okozott kár értékének ötven százalékát köteles megtéríteni azzal, hogy a kártérítés mértéke nem haladhatja meg a tanuló pénzbeli juttatásának egyhavi összegét.
 

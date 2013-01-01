@@ -6,8 +6,8 @@
 
 (4) A tanulót a 67. § (1) bekezdése alapján megillető betegszabadság időtartamára tanulói pénzbeli juttatásának hetven százaléka illeti meg.
 
-(5) A tanulói pénzbeli juttatást utólag, a Munka Törvénykönyve szabályai figyelembevételével kell kifizetni a tanuló részére.
+(5) A tanulói pénzbeli juttatást utólag, a munka törvénykönyvéről szóló törvény szabályai figyelembevételével kell kifizetni a tanuló részére.
 
-(6) A tanuló részére járó tanulói pénzbeli juttatásból levonásnak csak jogszabály, végrehajtható határozat vagy a tanuló hozzájárulása alapján van helye. A levonásra a Munka Törvénykönyvének a munkabérből történő levonásra vonatkozó szabályait kell alkalmazni.
+(6) A tanuló részére járó tanulói pénzbeli juttatásból levonásnak csak jogszabály, végrehajtható határozat vagy a tanuló hozzájárulása alapján van helye. A levonásra a munka törvénykönyvéről szóló törvénynek a munkabérből történő levonásra vonatkozó szabályait kell alkalmazni.
 
-(7) Jogalap nélküli kifizetés esetén a tanulói pénzbeli juttatást a tanulótól a Munka Törvénykönyvében szabályozott módon lehet visszakövetelni.
+(7) Jogalap nélküli kifizetés esetén a tanulói pénzbeli juttatást a tanulótól a munka törvénykönyvéről szóló törvényben szabályozott módon lehet visszakövetelni.

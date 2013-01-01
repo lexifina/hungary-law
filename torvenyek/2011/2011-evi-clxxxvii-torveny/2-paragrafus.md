@@ -36,7 +36,7 @@
 
 16. iskolai rendszerű szakképzés: a köznevelés keretében a nemzeti köznevelésről szóló törvényben és az e törvényben meghatározott, szakképző iskolában folyó szakképzés, résztvevői a szakképző iskolával tanulói jogviszonyban állnak;
 
-17. iskolai tanműhely: olyan szakképző iskolai gyakorlati képzőhely, amely a szakképesítés jellegétől függően lehet műhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem stb;
+17. iskolai tanműhely: olyan szakképző iskolai feladatellátási helyen lévő gyakorlati képzőhely, amely a szakképesítés jellegétől függően lehet műhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem stb;
 
 18.
 
@@ -46,9 +46,9 @@
 
 21. komplex szakmai vizsga: az iskolai rendszerű szakképzésben részt vevő tanuló és az iskolarendszeren kívüli szakképzésben részt vevő felnőtt szakmai elméleti és gyakorlati tudásának, képességeinek, készségeinek, ismereteinek mérése, amely az OKJ-ban meghatározott szakképesítés megszerzéséhez szükséges, a szakképesítéshez tartozó feladatprofil szerinti tevékenységek ellátásához meghatározott ismeretek elsajátítását tanúsító, jogszabályban meghatározott bizonyítvány kiadására irányuló eljárás;
 
-22.
+22. költségvetési hozzájárulás: a központi költségvetésből a nem állami köznevelési intézmények működéséhez nyújtott, a nemzeti köznevelésről szóló törvényben meghatározott támogatás;
 
-23.
+23. költségvetési támogatás: a szakképző iskolai feladatok ellátására a központi költségvetés terhére nyújtott és önkormányzati forrásból nyújtható – a költségvetési hozzájárulást is tartalmazó – támogatások összessége;
 
 24. második és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már meglévő, államilag elismert szakképesítés birtokában szerzik meg. Második és további szakképesítés költségvetési támogatása szempontjából figyelmen kívül kell hagyni azt az OKJ-ban szereplő, államilag elismert szakképesítést, amelyet iskolarendszeren kívüli szakképzésben szereztek. Nem számít második szakképesítésnek a meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben – szakmai és vizsgakövetelményben meghatározott körben – szerezhető szakképesítés;
 
@@ -76,13 +76,13 @@
 
 36. szakiskolai végzettség: szakiskolában szerzett középfokú iskolai végzettség, amely egyúttal az OKJ-ban meghatározottak szerint államilag elismert szakiskolai szakmai végzettséget is tanúsít;
 
-37. szakképzési kerettanterv: a szakmai és vizsgakövetelmény alapján kidolgozott, a szakképesítés követelményei átadásának tartalmát és menetét leíró egységes, kötelezően alkalmazandó dokumentum, amelyet a szakiskolai képzésben szakképesítésenként, a szakközépiskolákban ágazatonként a szakképzésért és felnőttképzésért felelős miniszter rendeletben ad ki az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben;
+37. szakképzési kerettanterv: a szakmai és vizsgakövetelmény alapján kidolgozott, a szakképesítés követelményei átadásának tartalmát és menetét leíró egységes, kötelezően alkalmazandó dokumentum, amelyet a szakiskolai képzésben szakképesítésenként, a szakközépiskolákban ágazatonként és szakképesítésenként a szakképzésért és felnőttképzésért felelős miniszter rendeletben ad ki az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben;
 
 38. szakmai ellenőrzés: a törvényességi és hatósági ellenőrzés mellett a szakképzés ágazati irányításának olyan eszköze, amelynek keretében a hatályos követelmények érvényesülésének szakmai vizsgálata, a kapott eredmények értékelése, az információknak a döntéshozók számára történő visszacsatolása történik meg;
 
 39. szakmai előképzettség: a szakképesítés megkezdésének feltételéül szolgáló, a szakképesítés megszerzéséhez szükséges, korábban megszerzett szakképesítés, megnevezését a szakképesítés szakmai és vizsgakövetelménye tartalmazza;
 
-40. szakmai érettségi végzettség: a nemzeti köznevelésről szóló törvényben meghatározott kötelező közismereti érettségi vizsgatárgyakból és a szakközépiskola ágazata szerinti kötelező szakmai vizsgatárgyból álló érettségi vizsgával megszerezhető végzettség, amely az OKJ-ról szóló kormányrendeletben meghatározottak szerint munkakör betöltésére képesít. Az ágazat szerinti kötelező szakmai vizsgatárgy teljesítése a nemzeti köznevelésről szóló törvény szerinti magasabb követelmények szerint teljesített érettségi vizsgatárgynak minősül;
+40. szakmai érettségi végzettség: a nemzeti köznevelésről szóló törvényben meghatározott kötelező közismereti érettségi vizsgatárgyakból és a szakközépiskola ágazata szerinti kötelező szakmai vizsgatárgyból álló érettségi vizsgával megszerezhető végzettség, amely az OKJ-ról szóló kormányrendeletben meghatározottak szerint munkakör betöltésére képesít. Az ágazat szerinti kötelező szakmai vizsgatárgy teljesítése magasabb követelmények szerint teljesített érettségi vizsgatárgynak minősül;
 
 41. szakmai és vizsgakövetelmény: a szakképesítésért felelős miniszter által rendeletben kiadott központi képzési dokumentum, amely meghatározza az adott szakképesítés komplex szakmai vizsgájára történő felkészülés szakmai követelményeit, feltételeit és azokat a követelményeket, amelyeket a komplex szakmai vizsga során szükséges teljesíteni;
 
@@ -101,3 +101,5 @@
 48. vizsgáztatási díj: a vizsgabizottság tagjait megillető díjazás;
 
 49. WorldSkills és EuroSkills: nemzetközi szakképzési versenyek, amelyeket 1954 óta szervez a WorldSkills International nemzetközi nonprofit szervezet, tagjai az adott ország szakképzésért felelős szervezetei. Mindkét verseny megrendezésére felváltva, páros és páratlan években kétévente kerül sor a tagországok legjobb ifjú szakmunkásai részvételével.
+
+50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől teljesen elkülönített, a nyilvántartást vezető szerv által kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhelyvezetői felügyelettel működő, legalább nyolc tanuló képzésre alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben.

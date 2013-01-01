@@ -16,7 +16,7 @@ e) a komplex szakmai vizsga szervezésére kijelölt, irányítása alá tartoz�
 
 a) javaslatot tesz az állam által elismert szakképesítésre,
 
-b) meghatározza a képzés időtartamát, a szakképesítés szakmai tantárgyait, tananyagegységeit, szakmai követelménymoduljait és az ehhez tartozó modultérképet,
+b) meghatározza a képzés időtartamát, a szakképesítés tananyagegységeit, szakmai követelménymoduljait és az ehhez tartozó modultérképet,
 
 c) elkészítteti és a szakképzésért és felnőttképzésért felelős miniszter részére megküldi az ágazatába tartozó szakképesítések modultérképét,
 

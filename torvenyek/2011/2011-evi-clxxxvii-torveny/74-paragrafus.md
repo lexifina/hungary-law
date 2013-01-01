@@ -28,6 +28,8 @@ g) vezeti az országos szakképzési névjegyzéket.
 
 (5) A nyilvántartás alapján az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre az állami szakképzési és felnőttképzési szerv.
 
+(5a) Az iskolarendszeren kívüli szakképzésben szerzett szakképesítésről az (5) bekezdés alapján készült bizonyítványmásodlat kiállítására alkalmazni kell a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendelet bizonyítványmásodlatra vonatkozó rendelkezéseit.
+
 (6) A jogutód nélkül megszűnt szakmai vizsgaszervező esetében az állami szakképzési és felnőttképzési szerv kérelemre kiállítja az Europass bizonyítvány-kiegészítőt.
 
 (7) Az állami szakképzési és felnőttképzési szerv által elkészített szakmai vizsgatételeknek az általa működtetett vizsgaközpontok részére történő eljuttatásával kapcsolatos feladatokat a megyei, fővárosi kormányhivatal látja el az állami szakképzési és felnőttképzési szerv feladat- és hatásköréről szóló kormányrendeletben meghatározottak szerint.

@@ -14,7 +14,7 @@ c) az állami felnőttképzési intézmény, valamint
 
 d) a felnőttképzésről szóló törvényben meghatározott, iskolarendszeren kívüli szakmai képzést folytató intézmény.
 
-(2) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározottak szerint – térségi integrált szakképző központ keretében működik.
+(2) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározott esetekben – térségi integrált szakképző központ keretében működik.
 
 (3) A szakképző iskola létesítésére, fenntartására és működésére – e törvény rendelkezéseinek figyelembevételével – a nemzeti köznevelésről szóló törvény, az állami felnőttképzési intézmény létesítésére, fenntartására és működésére a felnőttképzésről szóló törvény, a térségi integrált szakképző központ létesítésére, fenntartására és működésére e törvény rendelkezéseit kell alkalmazni.
 

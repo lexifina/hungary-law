@@ -28,12 +28,12 @@ b) a szakképesítés megszerzéséhez szükséges képzés képzés-szervezési
 
 c) a szakképesítések szakmacsoportját és szakközépiskolai ágazat szerinti besorolását,
 
-d) annak a megjelölését, hogy a szakképesítés a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
+d) annak a megjelölését, hogy a szakképesítés az esti, a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
 
 e) a szakképesítés szakmai és vizsgakövetelményei meghatározására a Kormány által rendeletben kijelölt miniszter megnevezését (a továbbiakban: szakképesítésért felelős miniszter). Szakképesítésért felelős miniszternek szakképesítésenként egy miniszter nevezhető meg.
 
-(4) A szakképesítésért felelősként a Központi Statisztikai Hivatal elnöke és a Közbeszerzések Tanácsának elnöke is megjelölhető, amennyiben a szakképesítés szakmai és vizsgakövetelményének kidolgozása az ő feladatkörébe tartozik.
+(4) A szakképesítésért felelősként a Központi Statisztikai Hivatal elnöke és a Közbeszerzési Hatóság elnöke is megjelölhető, amennyiben a szakképesítés szakmai és vizsgakövetelményének kidolgozása az ő feladatkörébe tartozik.
 
 (5) A Központi Statisztikai Hivatal elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Központi Statisztikai Hivatal elnöke véleményének kikérésével a Központi Statisztikai Hivatal felügyeletét ellátó miniszter gyakorolja.
 
-(6) A Közbeszerzések Tanácsának elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzések Tanácsának elnöke véleményének kikérésével az állami vagyon felügyeletéért felelős miniszter gyakorolja.
+(6) A Közbeszerzési Hatóság elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzési Hatóság elnöke véleményének kikérésével az állami vagyon felügyeletéért felelős miniszter gyakorolja.

@@ -10,9 +10,9 @@ c) a szakmai elméleti képzést nyújtó szakképző iskola adatait (nevét, sz
 
 d) az OKJ-val azonos módon a szakképesítés megnevezését és a képzési időt,
 
-e) a gyakorlati képzés helyét, a tanuló gyakorlati képzéséért felelős személyt,
+e) a gyakorlati képzés helyét, a tanuló gyakorlati képzéséért felelős személy nevét, és – szakiskolai tanuló esetén – azt, hogy a gyakorlati képzés helye kizárólag gyakorlati képzési célt szolgál-e,
 
-f) a tanulót e törvény alapján megillető pénzbeli juttatás összegét,
+f) a tanulót e törvény alapján megillető pénzbeli juttatás összegét, és – figyelemmel a 63. § (7) bekezdésében foglaltakra – azt a fizetési számlaszámot, amelyre a pénzbeli juttatás átutalásra vagy befizetésre kerül,
 
 g) az f) pontban meghatározott tanulói juttatás emelésének, csökkentésének a gyakorlati képzést szervező szervezetnél képzésben részt vevő valamennyi tanulóra érvényes egységes feltételeit és szempontrendszerét, továbbá
 
@@ -29,3 +29,5 @@ b) a szakmai gyakorlati ismereteket a képességeinek megfelelően elsajátítja
 c) a biztonsági, egészségügyi és munkavédelmi előírásokat megtartja,
 
 d) nem tanúsít olyan magatartást, amellyel a gyakorlati képzést szervező szervezet jogos gazdasági vagy egyéb érdekeit veszélyeztetné.
+
+(4) A tanulószerződésre az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyvnek a megbízási szerződésre vonatkozó rendelkezéseit kell alkalmazni.

@@ -16,4 +16,4 @@ f) a gyakorlati képzést folytató szervezet feladatait és kötelességeit a s
 
 g) a tanulókat e törvény szerint megillető juttatásokat, a felelősségbiztosítás költségeit,
 
-h) azt, hogy a gyakorlati képzési idő egyes szakaszaiban hol és milyen formában (tanműhely, csoportos gyakorlati képzési hely, egyedi munkahely) valósul meg a gyakorlati képzés, továbbá ki gondoskodik a tanulók felügyeletéről.
+h) azt, hogy a gyakorlati képzési idő egyes szakaszaiban hol valósul meg a gyakorlati képzés, és – szakiskolai tanuló esetén – azt, hogy a gyakorlati képzés helye kizárólag gyakorlati képzési célt szolgál-e, továbbá ki gondoskodik a tanulók felügyeletéről.

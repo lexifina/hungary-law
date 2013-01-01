@@ -8,9 +8,9 @@
 
 ## 6. A komplex szakmai vizsga
 
-9. § (1) Az OKJ-ban meghatározott szakképesítés megszerzésére irányuló komplex szakmai vizsgára történő felkészítés a szakképző iskola szakképzési évfolyamain és az iskolarendszeren kívüli szakképzésben folyik.
+9. § (1) Az OKJ-ban meghatározott szakképesítés megszerzésére irányuló komplex szakmai vizsgára történő felkészítés a szakképző iskola évfolyamain és az iskolarendszeren kívüli szakképzésben folyik.
 
-(2) A komplex szakmai vizsga a szakmai elméleti és gyakorlati képzés során átadott és megtanult, a szakmai és vizsgakövetelményben előírt szakmai követelményeknek a szakképzési kerettanterv szerinti elsajátítását egységes eljárás keretében méri.
+(2) A komplex szakmai vizsga a szakmai elméleti és gyakorlati képzés során átadott és megtanult, a szakmai és vizsgakövetelményben előírt szakmai követelményeknek az – iskolai rendszerű szakképzésben a szakképzési kerettanterv szerinti, az iskolarendszeren kívüli szakképzésben a képzési program szerinti – elsajátítását egységes eljárás keretében méri.
 
 (3) A komplex szakmai vizsgát a szakmai és vizsgakövetelmény alapján és a szakmai vizsgaszabályzat rendelkezései szerint kell megtartani.
 
@@ -20,7 +20,7 @@
 
 (6) A komplex szakmai vizsga állami vizsga, amely Magyarország területén szervezhető. A komplex szakmai vizsgát vizsgabizottság előtt kell letenni. A komplex szakmai vizsga vizsgabizottsága Magyarország címerét tartalmazó körbélyegzőt használ.
 
-(7) A szakmai vizsgabizottság a vizsgázó komplex szakmai vizsgán nyújtott teljesítménye alapján részszakképesítést igazoló bizonyítványt állíthat ki, ha a vizsgázó csak a komplex szakmai vizsga követelményeinek egy részét teljesítette, és a vizsgázó által teljesített követelmények megfelelnek valamely részszakképesítés vagy részszakképesítések követelményeinek.
+(7) A szakmai vizsgabizottság a javítóvizsgán a tanulónak a javítóvizsgán nyújtott teljesítménye alapján részszakképesítést igazoló bizonyítványt állíthat ki, ha a tanuló a komplex szakmai vizsgán eredménytelen vizsgát tett vagy csak a komplex szakmai vizsga követelményeinek egy részét teljesítette, és a vizsgázó által teljesített követelmények megfelelnek valamely részszakképesítés vagy részszakképesítések követelményeinek.
 
 (8) A komplex szakmai vizsgán csak olyan bizonyítvány és nyomtatvány használható, amelyet a szakképzésért és felnőttképzésért felelős miniszter hagy jóvá. A bizonyítvány és a nyomtatvány előállításához és forgalmazásához a szakképzésért és felnőttképzésért felelős miniszter engedélye szükséges.
 

@@ -8,7 +8,7 @@
 
 (4) Vizsgaelnöki megbízást csak az állami szakképzési és felnőttképzési szerv által vezetett országos szakképzési névjegyék részét képező vizsgaelnöki névjegyzéken (a továbbiakban: vizsgaelnöki névjegyzék) szereplő vizsgaelnök kaphat.
 
-(5) A szakmai vizsgabizottsági tagságra vonatkozó megbízás az országos szakképzési névjegyzék részét képező vizsgabizottsági névjegyzéken (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személynek adható.
+(5) A szakmai vizsgabizottsági tagságra vonatkozó megbízás – a képzést folytató intézmény által javasolt, a képzésben részt vett oktató vizsgabizottsági tag kivételével – az országos szakképzési névjegyzék részét képező vizsgabizottsági névjegyzéken (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személynek adható.
 
 (6) A szakmai vizsgabizottság munkáját szakértők segíthetik.
 

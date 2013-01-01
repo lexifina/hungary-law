@@ -12,7 +12,7 @@ a) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartása ta
 
 b) a gyakorlati képzést folytató szervezetek szakképzési tevékenysége ellenőrzésének és a komplex szakmai vizsga ellenőrzésének részletes szabályait,
 
-c) a gyakorlati képzést folytató szervezetek szakképzési tevékenysége ellenőrzésével összefüggő tevékenység ellenőrzése során kiszabható bírság mértékét.
+c) a gyakorlati képzést folytató szervezetek szakképzési tevékenysége ellenőrzése során kiszabható bírság mértékét.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 

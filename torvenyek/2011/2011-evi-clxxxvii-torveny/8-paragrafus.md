@@ -8,7 +8,7 @@
 
 (4) A szakképzési kerettanterv tartalmazza a szakmai követelménymodulok alapján a szakmai tantárgyak rendszerét és témaköreinek tartalmát, annak meghatározását, hogy az adott szakmai tantárgy a szakmai elméleti képzés vagy a szakmai gyakorlati képzés része, a tantárgyi követelmények évfolyamonkénti megoszlását, a követelmények teljesítéséhez rendelkezésre álló időkeretet, a szakmai elméleti és gyakorlati képzés tagolását és arányait. A szakképzési kerettanterv tartalmazza, hogy az adott szakmai tantárgy mely szakmai követelménymodulnak felel meg.
 
-(5) Az adott szakképző iskola típusára és évfolyamára – a nemzeti köznevelésről szóló törvényben – a nappali rendszerű oktatásra meghatározott tanulói éves kötelező szakmai elméleti és gyakorlati óraszám legalább kilencven százalékának tartalmát a szakképzési kerettanterv állapítja meg. A szabadon hagyott időkeret szakmai tartalmát a szakképző iskola szakmai programja határozza meg.
+(5) Az adott szakképző iskola típusára és évfolyamára – a nemzeti köznevelésről szóló törvényben – a nappali rendszerű oktatásra meghatározott tanulói éves kötelező összes óraszám szakmai elméleti és gyakorlati képzésre rendelkezésre álló részének legalább kilencven százalékának tartalmát a szakképzési kerettanterv állapítja meg. A szabadon hagyott időkeret szakmai tartalmát a szakképző iskola szakmai programja határozza meg.
 
 (6) Az alapfokú iskolai hiányosságok pótlását célzó Köznevelési Hídprogramban a felzárkóztató képzést, valamint a 3. § (2) bekezdés a) pontja szerinti szakmai képzést külön egységes kerettanterv határozza meg.
 

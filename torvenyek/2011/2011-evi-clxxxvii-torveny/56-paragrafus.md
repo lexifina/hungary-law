@@ -14,7 +14,7 @@ c) a gyakorlati képzést szervező szakképző iskola csak részben rendelkezik
 
 d) a tanuló gyakorlati képzésére költségvetési szervnél kerül sor.
 
-(2) Az együttműködési megállapodást írásba kell foglalni. Az együttműködési megállapodásra a Polgári Törvénykönyvnek a megbízási szerződésre vonatkozó rendelkezéseit kell alkalmazni. Az együttműködési megállapodás a területileg illetékes gazdasági kamara ellenjegyzésével válik érvényessé, az ellenjegyzésre a 47. § (2) bekezdésében foglaltakat kell alkalmazni.
+(2) Az együttműködési megállapodást írásba kell foglalni. Az együttműködési megállapodásra a Polgári Törvénykönyvnek a megbízási szerződésre vonatkozó rendelkezéseit kell alkalmazni. Az együttműködési megállapodás és annak módosítása a területileg illetékes gazdasági kamara ellenjegyzésével válik érvényessé, az ellenjegyzésre a 47. § (2) és (3) bekezdésében foglaltakat kell alkalmazni. Az együttműködési megállapodás megküldésére a 46. § (2) bekezdésében foglaltakat kell alkalmazni.
 
 (3) Együttműködési megállapodás a fenntartóra vonatkozóan többletkötelezettséget csak a fenntartó előzetes jóváhagyásával állapíthat meg.
 
@@ -23,3 +23,5 @@ d) a tanuló gyakorlati képzésére költségvetési szervnél kerül sor.
 (5) Ha a tanuló gyakorlati képzése részben vagy egészben együttműködési megállapodás alapján folyik, a gyakorlati képzés szervezője a szakképző iskola.
 
 (6) A szakképző iskola az együttműködési megállapodás megkötését megelőzően és azt követően folyamatosan ellenőrzi a gyakorlati képzés személyi és tárgyi feltételei meglétét a gyakorlati képzés feltételeivel részben vagy egészben rendelkező gyakorlati képzést folytató szervezetnél, valamint gondoskodik arról, hogy a tanuló gyakorlati képzése a szakképzési kerettantervnek megfelelően folyjon.
+
+(7) Az együttműködési megállapodás alapján folyó gyakorlati képzésen ténylegesen részt vevő tanuló nevét és oktatási azonosítóját tartalmazó függelék az együttműködési megállapodás részét képezi. A függelék valamennyi példányát az együttműködési megállapodást kötő szakképző iskola legkésőbb a gyakorlati képzés megkezdését megelőző tizenötödik napig küldi meg a nyilvántartást vezető szervnek.

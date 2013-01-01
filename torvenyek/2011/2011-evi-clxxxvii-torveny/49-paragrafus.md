@@ -12,9 +12,9 @@ d) a gyakorlati képzést szervező szervezetnek a gyakorlati képzésben való 
 
 e) közös megegyezéssel történő megszüntetés esetén a közös megegyezésben megjelölt napon,
 
-f) rendes felmondás esetén a felmondás közlésétől számított tizenötödik napon,
+f) felmondás esetén a felmondás közlésétől számított tizenötödik napon,
 
-g) rendkívüli felmondás esetén a felmondás közlésének napján,
+g) azonnali hatályú felmondás esetén a felmondás közlésének napján,
 
 h) a tanuló halála napján.
 
