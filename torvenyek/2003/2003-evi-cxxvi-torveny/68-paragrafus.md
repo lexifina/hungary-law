@@ -8,7 +8,7 @@ b) az engedélyes a vámjogszabályban előírt kötelezettségeit ismételten v
 
 (3) A vámügynöki tevékenység szempontjából az engedélyben előírt kötelezettségek súlyos megszegésének minősül különösen, ha
 
-a) tevékenysége és/vagy mulasztása eredményeként kintlévőség keletkezik,
+a) tevékenysége illetve mulasztása eredményeként tartozás keletkezik,
 
 b) a tevékenysége gyakorlásához szükséges nyilvántartási kötelezettségét nem teljesíti,
 

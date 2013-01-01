@@ -8,7 +8,7 @@ a) az adott év kiemelt vizsgálati céljait,
 
 b) az ellenőrizni tervezett főbb tevékenységi köröket.
 
-(4) Az Európai Unió saját bevételeit, illetve a központi költségvetés bevételi érdekeit különösen veszélyeztető jogsértések felderítése, illetve a jogszerű állapot helyreállítása érdekében a Kormány által központosított utólagos ellenőrzésre kijelölt szerv a Nemzeti Adó- és Vámhivatal vezetőjének saját hatáskörében vagy más adóhatóság, hatóság megkeresésére kiadott utasítása alapján Magyarország területén az (5) bekezdésben meghatározott okból ellenőrzést végezhet, kezdeményezhet, megkezdett ellenőrzéseket magához vonhat (központosított utólagos ellenőrzés).
+(4) Az Európai Unió saját bevételeit, illetve a központi költségvetés bevételi érdekeit különösen veszélyeztető jogsértések felderítése, illetve a jogszerű állapot helyreállítása érdekében a NAV alsó fokú vámszerve a Nemzeti Adó- és Vámhivatal vezetőjének saját hatáskörében vagy más adóhatóság, hatóság megkeresésére kiadott utasítása alapján Magyarország területén az (5) bekezdésben meghatározott okból ellenőrzést végezhet, kezdeményezhet, megkezdett ellenőrzéseket magához vonhat (központosított utólagos ellenőrzés).
 
 (5) A (4) bekezdés szerinti központosított utólagos ellenőrzés elrendelésére abban az esetben kerülhet sor, ha a rendelkezésre álló adatok, tények, körülmények valószínűsítik, hogy a vámtartozás és a nem közösségi adók és díjak megfizetésére vonatkozó kötelezettségeket
 
