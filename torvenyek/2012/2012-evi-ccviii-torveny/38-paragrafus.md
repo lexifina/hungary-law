@@ -1,1 +1,1 @@
-38. § Nem lép hatályba az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 21. § (4) bekezdése.
+38. §
