@@ -34,7 +34,7 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 5. A sajátos építményfajták szerinti miniszterek építésüggyel kapcsolatos feladatai
 
-6. A műemlékvédelemért felelős miniszter építésüggyel kapcsolatos feladatai
+6.[^15]
 
 7. Az önkormányzatok építésüggyel kapcsolatos feladatai
 
@@ -46,13 +46,13 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 7.4. a kerületi önkormányzatok építésüggyel kapcsolatos feladatai
 
-7.5. a körjegyzőség építésüggyel kapcsolatos feladatai
+7.5.[^16]
 
-7.6. az önkormányzati társulás építésüggyel kapcsolatos feladatai
+7.6.[^17]
 
-7.8. kistérségi körzet-központ építésüggyel kapcsolatos feladatai
+7.8.[^18]
 
-8.[^15] A Kormány általános hatáskörű területi államigazgatási szerve építésüggyel kapcsolatos feladatai
+8.[^19] A fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalának építésüggyel kapcsolatos feladatai
 
 9. Az építésügyi igazgatás anyagi jogi követelményrendszere
 
@@ -162,7 +162,7 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 14.5. fennmaradási engedélyezés
 
-14.6.[^16]
+14.6.[^20]
 
 14.7. telekalakítás engedélyezése
 
@@ -252,7 +252,7 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 20.7. kivitelezési tervek tervezője, szakági tervezője
 
-20.8. tervellenőr
+20.8.[^21]
 
 20.9. munkavédelmi és egészségvédelmi koordinátor
 
@@ -264,7 +264,7 @@ I. A vizsgázó ismerje az alább felsorolt témakörökre vonatkozó alapvető 
 
 20.13. építésügyi igazgatási szakértő
 
-20.14.[^17]
+20.14.[^22]
 
 20.15. hatósági közvetítő
 
@@ -336,6 +336,11 @@ II. Vizsgarészek: szóbeli és írásbeli
 
 Az írásbeli vizsga keretében gyakorlati vizsgát is kell tenni, amely az 1–28. pontok alatt felsorolt témakörökből építésügyi hatósági határozatnak jogtár felhasználásával történő szerkesztéséből áll (pl. konkrét engedélyezési dokumentáció vagy ellenőrzési jegyzőkönyv alapján).
 
-[^15]: A 2. melléklet I. pont 8. alpontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^16]: A 2. melléklet I. pont 14.6. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.
-[^17]: A 2. melléklet I. pont 20.14. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.
+[^15]: A 2. melléklet I pont 6. pontját a 322/2012. (XI. 16.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^16]: A 2. melléklet I pont 7.5. alpontját a 322/2012. (XI. 16.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^17]: A 2. melléklet I pont 7.6. alpontját a 322/2012. (XI. 16.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^18]: A 2. melléklet I pont 7.8. alpontját a 322/2012. (XI. 16.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^19]: A 2. melléklet I. pont 8. alpontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 4. pontja, a 322/2012. (XI. 16.) Korm. rendelet 44. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^20]: A 2. melléklet I. pont 14.6. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.
+[^21]: A 2. melléklet I. pont 20.8. alpontját a 322/2012. (XI. 16.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte.
+[^22]: A 2. melléklet I. pont 20.14. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (10) bekezdése hatályon kívül helyezte.

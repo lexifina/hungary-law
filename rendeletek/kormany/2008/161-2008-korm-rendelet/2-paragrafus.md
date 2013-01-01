@@ -6,9 +6,9 @@
 
 (2) Az építésügyi vizsgát – a külön jogszabály szerinti felnőttképzési nyilvántartásba vételt követően –
 
-a)[^3] az elsőfokú építésügyi hatósági feladatot ellátó köztisztviselő részére a Kormány általános hatáskörű területi államigazgatási szerve,
+a)[^3] az elsőfokú építésügyi és építésfelügyeleti hatósági feladatot ellátó köztisztviselő részére a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala,
 
-b)[^4] a másodfokú építésügyi hatósági feladatot ellátó köztisztviselő, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő részére az építésügyért felelős miniszter (a továbbiakban: miniszter),
+b)[^4] a másodfokú építésügyi és építésfelügyeleti hatósági feladatot ellátó köztisztviselő részére az építésügyért felelős miniszter (a továbbiakban: miniszter),
 
 c)[^5] az a) és b) pontba nem tartozó, külön jogszabályban építésügyi vizsgára kötelezett személyek részére a miniszter
 
@@ -31,8 +31,8 @@ b) gondoskodik a vizsgáztatást végző személyek díjának meghatározásár�
 (8)[^8] A (2) bekezdés c) pont szerinti személy az éves vizsgaterv szerint – a miniszter által vezetett minisztérium honlapján – meghirdetett építésügyi vizsgára jelentkezhet.
 
 [^2]: A 2. § (1) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § (2) bekezdés a) pontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^4]: A 2. § (2) bekezdés b) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés a) pontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 4. pontja, a 322/2012. (XI. 16.) Korm. rendelet 44. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdés b) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés b) pontja, a 322/2012. (XI. 16.) Korm. rendelet 44. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés c) pontját a 311/2009. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
 [^6]: A 2. § (5) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^7]: A 2. § (7) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 10. §-ával megállapított szöveg.
