@@ -1,0 +1,3 @@
+2. § A Konztv. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a hazatérés elősegítésének más módjára nincs lehetőség, és a késedelem súlyos érdeksérelmet okoz, a konzuli tisztviselő – az ügyféllel kötött hatósági szerződés alapján – hazatérési kölcsönt nyújt, amely adók módjára behajtandó köztartozásnak minősül. A miniszter rendeletében meghatározott összeghatár felett a hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A hatósági szerződésben rendelkezni kell a visszafizetés esedékességéről. Az uniós polgárnak nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.”
