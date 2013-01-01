@@ -1,14 +1,17 @@
-## 9. §[^6] A szolgálati igazolvány mintáját a 2. számú melléklet tartalmazza.
+## 9. §[^3] A felügyelői jelvény és a szolgálati igazolvány leírását a 2. számú melléklet tartalmazza.
 
-10. §[^7] (1) A szolgálati igazolvány sorszámmal ellátott biztonsági okirat, ezért szigorú elszámolási rend alá tartozik.
+10. §[^4] (1) A szolgálati igazolvány sorszámmal ellátott biztonsági okirat, ezért szigorú elszámolási rend alá tartozik.
 
-(2) A Kftv. 13. § (3) bekezdésében meghatározott esetben a szolgálati igazolvány visszavonásáról rendelkező határozat kézhezvételét követően a felügyelői jelvényt a munkáltató haladéktalanul bevonja.
+(2)[^5] A munkáltató haladéktalanul kezdeményezi a rendőrségnél a szolgálati igazolvány bevonását, ha tudomására jut a felügyelő alkalmazását kizáró bármely körülmény.
 
-(3) A visszavont szolgálati igazolványt és a visszavont felügyelői jelvényt a munkáltató az Igazságügyi és Rendészeti Minisztériumnak (a továbbiakban: IRM) küldi meg selejtezés céljából. A visszavont szolgálati igazolványt és a visszavont felügyelői jelvényt az IRM selejtezi.
+(3)[^6] A visszavont szolgálati igazolványt és a visszavont felügyelői jelvényt a munkáltató a rendőrségnek küldi meg selejtezés céljából. A visszavont szolgálati igazolványt és a visszavont felügyelői jelvényt a rendőrség selejtezi.
 
-(4) A szolgálati igazolvány, illetve a felügyelői jelvény elvesztését, megrongálódását, megsemmisülését a szolgálati igazolvány, illetve a felügyelői jelvény birtokosa – a tudomására jutást követően haladéktalanul – köteles jelenteni a munkáltatónak. A munkáltató a jelentést követően azonnal intézkedik – az IRM megkeresése útján – az elveszett szolgálati igazolvány, illetve felügyelői jelvény érvénytelenítésére. Az IRM az érvénytelenítésről az elveszett szolgálati igazolvány, illetve felügyelői jelvény sorszámának közzététele útján gondoskodik.
+(4)[^7] A szolgálati igazolvány, illetve a felügyelői jelvény elvesztését, megrongálódását, megsemmisülését a szolgálati igazolvány, illetve a felügyelői jelvény birtokosa – a tudomására jutást követően haladéktalanul – köteles jelenteni a munkáltatónak. A munkáltató a jelentést követően azonnal intézkedik – a rendőrség megkeresése útján – az elveszett szolgálati igazolvány, illetve felügyelői jelvény érvénytelenítésére. Az IRM az érvénytelenítésről az elveszett szolgálati igazolvány, illetve felügyelői jelvény sorszámának közzététele útján gondoskodik.
 
 (5) Az elvesztés, megrongálódás, megsemmisülés miatt szükségessé váló új szolgálati igazolvány és felügyelői jelvény készítési költségei az abban elmarasztalt személyt terhelik. Ha a szolgálati igazolvány és a felügyelői jelvény birtokosa vétlen, a költségeket a munkáltató viseli.
 
-[^6]: A 9. § a 4/2010. (II. 23.) IRM rendelet 11. §-ával megállapított szöveg.
-[^7]: A 10. § a 4/2010. (II. 23.) IRM rendelet 11. §-ával megállapított szöveg.
+[^3]: A 9. § a 81/2012. (XII. 28.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^4]: A 10. § a 4/2010. (II. 23.) IRM rendelet 11. §-ával megállapított szöveg.
+[^5]: A 10. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^6]: A 10. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 10. § (1) bekezdés a) és b) pontja szerint módosított szöveg. [E módosító rendelet 10. § (1) bekezdés c) pontjával elrendelt módosítás, amely szerint a (3) bekezdésben az „Az IRM” szövegrész helyébe az „A rendőrség” szöveg lép, nem vezethető át.]
+[^7]: A 10. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.

@@ -1,1 +1,0 @@
-## 4. § Próbaidő alatt csökkentett alapellátási egyenruházati norma is alkalmazható. A próbaidőre vonatkozó eltérő egyenruha-ellátási szabályokat a munkáltató szabályzatban állapítja meg. A normacsökkentés nem vonatkozhat az országosan egységes, évszaknak megfelelő felsőruházatra.
