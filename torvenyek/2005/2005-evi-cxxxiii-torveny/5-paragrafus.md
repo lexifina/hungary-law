@@ -10,10 +10,10 @@ b) a kérelmező – ha e törvény kivételt nem tesz – rendelkezik az által
 
 (3) Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a kérelmező is igazolhatja a kérelem benyújtásakor. Ha az adatokat a kérelmező a kérelem benyújtásakor nem igazolja, a rendőrség az igazolvány kiadása iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
 
-(4) Vállalkozás keretében személy- és vagyonvédelmi tevékenységet nem gyakorolhat az
+(4) Személy- és vagyonvédelmi tevékenység végzésére működési engedély nem adható annak
 
-a) az egyéni vállalkozó, aki, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa, vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
+a) az egyéni vállalkozónak, aki, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
 
-b) az egyéni vállalkozó, akivel, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
+b) az egyéni vállalkozónak, akivel, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
 
-c) a jogi személyiséggel rendelkező gazdasági társaság, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
+c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
