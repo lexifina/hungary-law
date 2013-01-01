@@ -32,7 +32,7 @@ g) közreműködik a nyugdíjbiztosítással kapcsolatos nemzetközi szerződés
 
 h) gondoskodik a nyugdíjbiztosítással kapcsolatos központi és helyi tájékoztatásról, és az igényérvényesítést segítő szolgáltatások fejlesztéséről,
 
-i)[^16] ellátja a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 14. § (1) bekezdése szerinti juttatás folyósításával kapcsolatos feladatokat, figyelemmel ugyanezen törvény 22. §-ában, 24. § (1) bekezdésében, 25. § (1) bekezdésében, valamint 26. § (1) bekezdésében foglaltakra is.
+i)[^16] ellátja a köztársasági elnök jogállásáról és javadalmazásáról 2011. évi CX. törvény 18. § (1) bekezdése, valamint a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 2012. január 1-je előtt hatályos 14. § (1) bekezdése, 22. §-a, 24. § (1) bekezdése, 25. § (1) bekezdése és 26. § (1) bekezdése szerinti juttatás folyósításával kapcsolatos feladatokat.
 
 [^8]: A 3/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 496. §-a iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 21. §-a, a 95/2012. (V. 15.) Korm. rendelet 37. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
 [^9]: A 4. § (1) bekezdés nyitó szövegrésze a 152/2011. (VIII. 10.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
@@ -42,4 +42,4 @@ i)[^16] ellátja a köztársasági elnök, a miniszterelnök, az Országgyűlés
 [^13]: A 4. § (1) bekezdés e) pontja a 318/2010. (XII. 27.) Korm. rendelet 5. §-a, a 152/2011. (VIII. 10.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^14]: A 4. § (1) bekezdés f) pontját a 164/2009. (VIII. 14.) Korm. rendelet 11. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 11. § (5)–(6) bekezdését.
 [^15]: A 4. § (2) bekezdés e) pontja a 21/2011. (III. 2.) Korm. rendelet 15. §-ával megállapított szöveg, e módosító rendelet 14. § (2) bekezdése alapján a 2011. március 3-án folyamatban lévő ügyekben is alkalmazni kell. A jogutódlás tekintetében lásd e módosító rendelet 14. § (1) bekezdését.
-[^16]: A 4. § (2) bekezdés i) pontját a 332/2008. (XII. 30.) Korm. rendelet 15. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 164/2009. (VIII. 14.) Korm. rendelet 9. §-a iktatta be.
+[^16]: A 4. § (2) bekezdés i) pontját a 332/2008. (XII. 30.) Korm. rendelet 15. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 164/2009. (VIII. 14.) Korm. rendelet 9. §-a iktatta be, szövege a 425/2012. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
