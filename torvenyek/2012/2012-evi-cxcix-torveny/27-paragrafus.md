@@ -2,6 +2,6 @@
 
 a)–b)
 
-c)
+c) a 3. melléklet szerinti 3. melléklettel
 
 egészül ki.
