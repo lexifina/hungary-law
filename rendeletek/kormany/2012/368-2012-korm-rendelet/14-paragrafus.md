@@ -1,0 +1,1 @@
+## „2. A kárfelmérő adatlap egy példánya a település polgármesteri hivatalánál, közös önkormányzati hivatalt működtető települések esetében a közös önkormányzati hivatalban marad, egy példányt a polgármester megküld a katasztrófavédelmi igazgatóságnak, egy példányát a károsult veszi át.”
