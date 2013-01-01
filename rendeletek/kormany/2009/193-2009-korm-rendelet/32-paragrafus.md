@@ -1,5 +1,0 @@
-32. § (1) Az összevont eljárás építési engedélyezési szakasza az építési engedély elvi keretengedélynek megfelelő tartalmú mellékletek – az elvi keretengedély hatályán belül történő – benyújtásával kezdődik. Az építési engedélyezési szakaszban az elvi keretengedélyben foglaltak az építésügyi hatóságot és a szakhatóságot – azokban a kérdésekben, amelyekről kifejezetten rendelkezett, illetve amelyekről az elvi keretengedélyezési szakaszban nyilatkozott – akkor is kötik, ha az elvi keretengedély megadását követően az elvi keretengedély lényeges tartalmát érintő jogszabályok, illetve a kötelező hatósági előírások megváltoztak.
-
-(2)[^48] Az összevont eljárásban hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb harminc napon belül el kell bírálni.
-
-[^48]: A 32. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
