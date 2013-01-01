@@ -1,11 +1,9 @@
 ## 33. § Hatályát veszti
 
-a)[^77]
+a) az okmányirodák működésének személyi és technikai feltételeiről szóló 58/1999. (XII. 30.) BM rendelet 1. § (1) bekezdésében a „ , illetve az okmányiroda illetékességi területén ellátandó lakosságszámhoz” szövegrész,
 
-b)–c)[^78]
+b)–c)[^37]
 
-d)[^79]
+d) a TszámR. 2. § (3) bekezdés bt) alpontja.
 
-[^77]: A 33. § a) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^78]: A 33. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^79]: A 33. § d) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^37]: A 33. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

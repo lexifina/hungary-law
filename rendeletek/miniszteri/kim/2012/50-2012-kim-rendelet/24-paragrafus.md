@@ -4,9 +4,10 @@
 
 ## 24. § A választási eljárásról szóló 1997. évi C. törvénynek az Európai Parlament tagjainak választásán történő végrehajtásáról szóló 6/2009. (II. 25.) ÖM rendelet
 
-a)–b)[^57]
+a) 4. § (3) bekezdésében az „Az okmányirodával rendelkező település” szövegrész helyébe az „A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának székhelye szerinti település” szöveg,
 
-c)–d)[^58]
+b) 6. §-ában a „Körjegyzőséghez tartozó” szövegrész helyébe a „Közös önkormányzati hivatalhoz tartozó” szöveg,
 
-[^57]: A 24. § a)–b) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^58]: A 24. § c)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+c)–d)[^29]
+
+[^29]: A 24. § c)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
