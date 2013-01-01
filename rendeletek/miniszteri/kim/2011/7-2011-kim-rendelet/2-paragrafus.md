@@ -1,4 +1,4 @@
-## 1. §[^1] A helyi bírósági álláshelyre, továbbá a törvényszéki, ítélőtáblai és kúriai álláshelyre (a továbbiakban együtt: magasabb bírói álláshely) benyújtott pályázatok elbírálása során e rendelet szabályait kell alkalmazni.
+## 1. §[^1] A járásbírósági álláshelyre, továbbá a törvényszéki, ítélőtáblai és kúriai álláshelyre (a továbbiakban együtt: magasabb bírói álláshely) benyújtott pályázatok elbírálása során e rendelet szabályait kell alkalmazni.
 
 2. § (1) A pályázati felhívásnak tartalmaznia kell
 
@@ -18,5 +18,5 @@ e) azt, hogy a pályázattal érintett álláshelyre beérkezett pályázatok me
 
 (4) A pályázó – ha érvényes pályaalkalmassági vizsgálati eredménnyel nem rendelkezik – a pályaalkalmassági vizsgálat kezdeményezését a kérelem másolatának és a kérelem ajánlott vagy tértivevény különszolgáltatással való feladását tanúsító okiratnak a csatolásával vagy a kezdeményezést tartalmazó okirat érkeztető bélyegzővel ellátott példányának mellékelésével igazolja.
 
-[^1]: Az 1. § a 40/2011. (XII. 30.) KIM rendelet 37. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 40/2011. (XII. 30.) KIM rendelet 37. § a) pontja, az 57/2012. (XII. 28.) KIM rendelet 20. §-a szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 37. § b) pontja szerint módosított szöveg.
