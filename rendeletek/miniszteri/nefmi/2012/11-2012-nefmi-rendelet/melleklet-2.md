@@ -1410,7 +1410,7 @@
 
 | 79971 | Kemoterápia, N7 protokoll szerint 18 év alatt (01. fázis) |
 
-2. melléklet a 11/2012. (II. 28.) NEFMI rendelethez
+2. melléklet a 11/2012. (II. 28.) NEFMI rendelethez[^3]
 
 A daganatellenes terápiák protokolljai
 
@@ -6031,3 +6031,5 @@ Fázisok leírása:
 | Protokollok közti szünet | : | 16 [nap] |
 
 | Fázisok száma | : | 1 |
+
+[^3]: A 3. § (13) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 17. §-a szerint módosított szöveg.

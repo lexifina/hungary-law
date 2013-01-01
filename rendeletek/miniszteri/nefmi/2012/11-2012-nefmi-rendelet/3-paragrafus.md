@@ -24,12 +24,16 @@
 
 (12) Amennyiben a beteg a gyógyszert, a Kr.-ben rögzítetteknek megfelelő módon, az onkológiai centrum felügyelete mellett az otthonában kapja meg, akkor ezt a tényt az adatlapon 'B' kóddal a Beavatkozás jellege (J) rovatban fel kell tüntetni, annak kezdő dátumával egyidejűleg. Ez esetben az Adatlap „27. Beavatkozások” részében az „Intézet/osztály azonosítója” mezőben az első négy karakter az ellátásért felelős intézet kódja, a többi karakter nulla.
 
-(13) A „Beavatkozás minősítése az ellátásban elfoglalt helye szerint (M)” mező kitöltése onkológiai daganatellenes kezelések esetén kötelező az alábbiaknak megfelelően:
+(13)[^1] A „Beavatkozás minősítése az ellátásban elfoglalt helye szerint (M)” mező kitöltése onkológiai daganatellenes kezelések esetén kötelező az alábbiaknak megfelelően:
 
-a) 1. adjuváns beavatkozás,
+a) 0. neoadjuváns beavatkozás,
 
-b) 2. első vonalbeli kezelés,
+b) 1. adjuváns beavatkozás,
 
-c) 3. másod vonalbeli kezelés,
+c) 2. első vonalbeli kezelés,
 
-d) 4. harmad vonalbeli kezelés.
+d) 3. másod vonalbeli kezelés,
+
+e) 4. harmad, illetve többed vonalbeli kezelés.
+
+[^1]: A 3. § (13) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 16. §-a szerint módosított szöveg.
