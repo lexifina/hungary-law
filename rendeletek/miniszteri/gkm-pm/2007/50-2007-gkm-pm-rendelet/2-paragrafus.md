@@ -4,7 +4,7 @@
 
 a) vasúti pályahálózat működtetése,
 
-b)[^1] vasúti személyszállítás, ezen belül vasúti személyszállítási közszolgáltatás közszolgáltatási szerződésenként,
+b)[^2] vasúti személyszállítás, ezen belül vasúti személyszállítási közszolgáltatás közszolgáltatási szerződésenként,
 
 c) vasúti árufuvarozás,
 
@@ -22,4 +22,4 @@ d) vontatás.
 
 (7) A számviteli elkülönítésre kötelezett vasúti társaság a központi irányítás költségeit az egyes tevékenységek között a 7. §-ban meghatározott számviteli elkülönítési szabályzatában előírt módszer szerint osztja fel.
 
-[^1]: A 2. § (1) bekezdés b) pontja a 16/2009. (IV. 8.) KHEM–PM együttes rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezés 2009. december 31-én lépett hatályba azzal, hogy a rendelkezést először a 2010. évre vonatkozó éves beszámoló készítésére kell alkalmazni.
+[^2]: A 2. § (1) bekezdés b) pontja a 16/2009. (IV. 8.) KHEM–PM együttes rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezés 2009. december 31-én lépett hatályba azzal, hogy a rendelkezést először a 2010. évre vonatkozó éves beszámoló készítésére kell alkalmazni.
