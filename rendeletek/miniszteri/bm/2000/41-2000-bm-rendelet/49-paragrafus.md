@@ -2,7 +2,7 @@
 
 ## A belügyi rendelkezésű lakás megvásárlásához történő hozzájárulás megadásának feltételei
 
-49. §[^49] (1) A belügyi szerv bérlőkijelölési vagy a fennálló bérlőkiválasztási jogával érintett önkormányzati vagy más szerv, szervezet, személy tulajdonában álló lakás elidegenítéséhez a helyi lakásügyi szerv hozzájárulhat, ha a lakás bérlője legalább ötéves belügyi szolgálati jogviszonnyal rendelkezik, vagy a bérlő a lakásban legalább öt éve életvitelszerűen lakik.
+49. §[^51] (1) A belügyi szerv bérlőkijelölési vagy a fennálló bérlőkiválasztási jogával érintett önkormányzati vagy más szerv, szervezet, személy tulajdonában álló lakás elidegenítéséhez a helyi lakásügyi szerv hozzájárulhat, ha a lakás bérlője legalább ötéves belügyi szolgálati jogviszonnyal rendelkezik, vagy a bérlő a lakásban legalább öt éve életvitelszerűen lakik.
 
 (2) A helyi lakásügyi szerv köteles megtagadni a hozzájárulását, ha
 
@@ -24,4 +24,4 @@ b) a hozzájárulás megadása lakásgazdálkodási érdeket sért.
 
 (9) A belügyminiszter (4), (5), (8) bekezdésekben foglalt egyedi döntéséhez, a helyi lakásügyi szerv részletes indoklással ellátott javaslatát a szolgálati út betartásával a központi lakásügyi szerv vezetőjéhez terjeszti fel.
 
-[^49]: A 49. § a 30/2005. (VI. 27.) BM rendelet 10. §-ával megállapított szöveg, e módosító rendelet 12. §-a alapján rendelkezéseit a 2005. július 5. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^51]: A 49. § a 30/2005. (VI. 27.) BM rendelet 10. §-ával megállapított szöveg, e módosító rendelet 12. §-a alapján rendelkezéseit a 2005. július 5. napján folyamatban lévő ügyekben is alkalmazni kell.

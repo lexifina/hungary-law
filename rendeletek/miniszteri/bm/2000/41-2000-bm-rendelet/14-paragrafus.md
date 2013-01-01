@@ -8,10 +8,10 @@ c) a helyiség használatra alkalmassá tételéhez szükséges feltételeket, �
 
 d) a bérbeadás időtartamát;
 
-e)[^23] a helyiségbér éves mértékének alsó határát, amely nem lehet kevesebb a helyiség üres állapotban történő értékesítése szerinti forgalmi érték 5%-ánál;
+e)[^25] a helyiségbér éves mértékének alsó határát, amely nem lehet kevesebb a helyiség üres állapotban történő értékesítése szerinti forgalmi érték 5%-ánál;
 
 f) a pályázati ajánlat benyújtásának módját, helyét és határidejét, továbbá a tárgyalás megtartásának helyét és időpontját.
 
 (2) A pályázati hirdetményt a helyben szokásos módon legalább 15 napig kifüggesztve közszemlére kell tenni, illetőleg sajtó útján kell közzétenni.
 
-[^23]: A 14. § (1) bekezdésének e) pontja a 30/2005. (VI. 27.) BM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 12. §-a alapján rendelkezéseit a 2005. július 5. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^25]: A 14. § (1) bekezdésének e) pontja a 30/2005. (VI. 27.) BM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 12. §-a alapján rendelkezéseit a 2005. július 5. napján folyamatban lévő ügyekben is alkalmazni kell.

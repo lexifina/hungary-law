@@ -1,6 +1,6 @@
 3. számú melléklet a 41/2000. (XII. 12.) BM rendelethez
 
-I.[^52]
+I.[^54]
 
 A havi lakbér mértéke és a lakbér megállapításának feltételei
 
@@ -30,7 +30,7 @@ a) 50%-kal növelni kell, ha a lakás olyan egy-két lakásos lakóépületben v
 
 b) 30%-kal növelni kell, ha a lakás településen belüli fekvése alapján a használati értékét növelő területen van (pl. belváros, zöldövezet, kertváros, idegenforgalmi centrum);
 
-c)[^53] 30%-kal növelni kell, ha a lakás alapterülete egy főre számítva meghaladja a 30 m2-t.
+c)[^55] 30%-kal növelni kell, ha a lakás alapterülete egy főre számítva meghaladja a 30 m2-t.
 
 3. A havi lakbér mértékét
 
@@ -80,5 +80,5 @@ h) szemétszállítás,
 
 i) egyéb külön meghatározott szolgáltatás.
 
-[^52]: A 3. számú melléklet I/1. pontja a 10/2003. (III. 21.) BM rendelet 15. §-a szerint megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^53]: A 3. számú melléklet I/2. pontjának c) alpontja a 10/2003. (III. 21.) BM rendelet 16. §-ával megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^54]: A 3. számú melléklet I/1. pontja a 10/2003. (III. 21.) BM rendelet 15. §-a szerint megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^55]: A 3. számú melléklet I/2. pontjának c) alpontja a 10/2003. (III. 21.) BM rendelet 16. §-ával megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

@@ -36,7 +36,7 @@ g) lemondás, kivéve, ha arra a közalkalmazott esetében rendkívüli lemondá
 
 (4) A (2) bekezdésben említett személy esetében – írásbeli kérelmére – az általa használt lakás is bérbe adható, ha a bérbeadás nem sért lakásgazdálkodási érdekeket.
 
-(5)[^50] A belügyi rendelkezésű lakásra határozatlan időre szóló, illetőleg szolgálati jogviszony fennállásáig tartó bérleti szerződés közös megegyezéssel – a bérlőkijelölési, illetőleg a fennálló bérlőkiválasztási jog esetén az e jogot gyakorló helyi lakásügyi szerv előzetes írásbeli hozzájárulásával – másik lakás bérbeadása nélkül történő megszüntetése esetén az illetékes helyi lakásügyi szerv a bérlő részére pénzbeli térítést fizet. A pénzbeli térítés mértéke legfeljebb a lakás üres, beköltözhető forgalmi értékének:
+(5)[^52] A belügyi rendelkezésű lakásra határozatlan időre szóló, illetőleg szolgálati jogviszony fennállásáig tartó bérleti szerződés közös megegyezéssel – a bérlőkijelölési, illetőleg a fennálló bérlőkiválasztási jog esetén az e jogot gyakorló helyi lakásügyi szerv előzetes írásbeli hozzájárulásával – másik lakás bérbeadása nélkül történő megszüntetése esetén az illetékes helyi lakásügyi szerv a bérlő részére pénzbeli térítést fizet. A pénzbeli térítés mértéke legfeljebb a lakás üres, beköltözhető forgalmi értékének:
 
 a) a határozatlan időtartamú lakásbérleti szerződés megszüntetése esetén a 30%-a, ha a lakás forgalmi értéke meghaladja a 25 000 000 Ft-ot, akkor a 20%-a, amennyiben a bérlő a belügyi szervtől munkáltatói támogatást is igénybe vesz, a térítés mértéke 15%;
 
@@ -54,4 +54,4 @@ b) a szolgálati jogviszony fennállásáig tartó lakásbérleti szerződés me
 
 (11) Méltányossági jogkörben 1999. május 28-át követően engedélyezett lakásbérleti szerződés megszűnésekor a felróhatóság szempontjából a (3) bekezdés rendelkezéseit kell alkalmazni.
 
-[^50]: Az 51. § (5) bekezdése a 10/2003. (III. 21.) BM rendelet 14. §-ával megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^52]: Az 51. § (5) bekezdése a 10/2003. (III. 21.) BM rendelet 14. §-ával megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

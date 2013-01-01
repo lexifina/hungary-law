@@ -4,17 +4,17 @@
 
 4. § (1) A bérleti szerződés az e rendeletben foglalt kivételekkel
 
-a)[^8] a dolgozó munka-, illetőleg szolgálati helye szerinti döntésre jogosult vezető által meghatározott beosztás, megbízatás fennállásának időtartamáig; vagy
+a)[^10] a dolgozó munka-, illetőleg szolgálati helye szerinti döntésre jogosult vezető által meghatározott beosztás, megbízatás fennállásának időtartamáig; vagy
 
-b)[^9] meghatározott időtartamra, legfeljebb azonban 60 hónapra
+b)[^11] meghatározott időtartamra, legfeljebb azonban 60 hónapra
 
 ## köthető.
 
-(2)[^10] A belügyminiszter az (1) bekezdés b) pontjában megállapított időtartamtól, egy alkalommal, legfeljebb további 36 hónapos eltérést engedélyezhet, ha azt kivételes szolgálati érdek, illetőleg rendkívüli egyéni körülmények indokolják.
+(2)[^12] A belügyminiszter az (1) bekezdés b) pontjában megállapított időtartamtól, egy alkalommal, legfeljebb további 36 hónapos eltérést engedélyezhet, ha azt kivételes szolgálati érdek, illetőleg rendkívüli egyéni körülmények indokolják.
 
 (3) Az értesítésnek és a bérleti szerződésnek tartalmaznia kell, hogy a bérleti jogviszony megszűnése után a bérlő tarthat-e igényt elhelyezésre.
 
-(4)[^11] A bérleti szerződésnek tartalmaznia kell:
+(4)[^13] A bérleti szerződésnek tartalmaznia kell:
 
 a) a lakbér összegét;
 
@@ -34,7 +34,7 @@ b) az önkormányzati tulajdonú lakásra az illetékes önkormányzat bérbead�
 
 (6) Az 1. § (2) bekezdésének c) pontjában meghatározott lakásokra a bérleti szerződést a külön megállapodás szerinti szerv vagy személy köti meg.
 
-[^8]: A 4. § (1) bekezdésének a) pontja a 10/2003. (III. 21.) BM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^9]: A 4. § (1) bekezdésének b) pontja a 11/2002. (IV. 19.) BM rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^10]: A 4. § (2) bekezdése a 30/2005. (VI. 27.) BM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 12. §-a alapján rendelkezéseit a 2005. július 5. napján folyamatban lévő ügyekben is alkalmazni kell.
-[^11]: A 4. § (4) bekezdése a 28/2006. (V. 22.) BM rendelet 5. §-ával megállapított szöveg.
+[^10]: A 4. § (1) bekezdésének a) pontja a 10/2003. (III. 21.) BM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 17. §-ának (4) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^11]: A 4. § (1) bekezdésének b) pontja a 11/2002. (IV. 19.) BM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^12]: A 4. § (2) bekezdése a 30/2005. (VI. 27.) BM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 12. §-a alapján rendelkezéseit a 2005. július 5. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^13]: A 4. § (4) bekezdése a 28/2006. (V. 22.) BM rendelet 5. §-ával megállapított szöveg.

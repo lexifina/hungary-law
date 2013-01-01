@@ -2,7 +2,7 @@
 
 ## A RENDELET HATÁLYA
 
-1. § (1)[^1] A rendelet hatálya kiterjed a Belügyminisztérium, a Belügyminisztérium hivatali tevékenységét segítő szervezetek, a belügyminiszter irányítása alá tartozó önálló belügyi és kormányzati szervek (a továbbiakban együtt: belügyi szervek) rendelkezése alatt álló lakásokra, nem lakás céljára szolgáló, bérbeadás útján hasznosított helyiségekre.
+1. § (1)[^2] A rendelet hatálya kiterjed a Belügyminisztérium, a Belügyminisztérium hivatali tevékenységét segítő szervezetek, a belügyminiszter irányítása alá tartozó önálló belügyi és kormányzati szervek (a továbbiakban együtt: belügyi szervek) rendelkezése alatt álló lakásokra, nem lakás céljára szolgáló, bérbeadás útján hasznosított helyiségekre.
 
 (2) Belügyi rendelkezésű
 
@@ -14,4 +14,4 @@ c) más szerv, szervezet vagy személy tulajdonában álló lakás és nem laká
 
 d) az önkormányzat tulajdonát képező, a rendőrség körzeti megbízottjának elhelyezésére szolgáló lakás.
 
-[^1]: Az 1. § (1) bekezdése a 11/2002. (IV. 19.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 11/2002. (IV. 19.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.

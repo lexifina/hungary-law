@@ -104,6 +104,6 @@
 
 ## vezető
 
-2. számú melléklet a 41/2000. (XII. 12.) BM rendelethez[^51]
+2. számú melléklet a 41/2000. (XII. 12.) BM rendelethez[^53]
 
-[^51]: A 2. számú mellékletet a 10/2003. (III. 21.) BM rendelet 17. §-ának (3) bekezdése hatályon kívül helyezte.
+[^53]: A 2. számú mellékletet a 10/2003. (III. 21.) BM rendelet 17. §-ának (3) bekezdése hatályon kívül helyezte.
