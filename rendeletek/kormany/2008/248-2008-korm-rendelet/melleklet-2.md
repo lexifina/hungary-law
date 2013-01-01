@@ -4,7 +4,7 @@
 
 |  | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa által lehatárolt terület Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | általános építésügyi hatósági engedélyek | Somogy Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa által lehatárolt terület Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | általános építésügyi hatósági engedélyek | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 2. | környezetvédelmi hatósági engedélyezések | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -14,11 +14,11 @@
 
 | 5. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6. | földvédelmi hatósági eljárások | Marcali Körzeti Földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+| 6. | földvédelmi hatósági eljárások | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
 
-| 7. | ingatlan-nyilvántartási hatósági eljárások | Marcali Körzeti Földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+| 7. | ingatlan-nyilvántartási hatósági eljárások | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
 
-| 8. | földmérési hatósági eljárások | Marcali Körzeti Földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+| 8. | földmérési hatósági eljárások | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
 
 | 9. | erdővédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
@@ -28,7 +28,7 @@
 
 | 12. | talajvédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 13. | kulturális örökségvédelmi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 14. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -38,7 +38,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. | építésügy | Somogy Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | építésügy | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 2. | környezetvédelem, természetvédelem és vízügy | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -70,13 +70,13 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 10. | földművelésügy |  |  |
 
-|  | a) termőföldvédelem | Marcali Körzeti Földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+|  | a) termőföldvédelem | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
 
 |  | b) talajvédelem | Somogy Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 |  | c) erdővédelem | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 11. | kulturális örökségvédelem | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 11. | régészet és műemlékvédelem | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 12. | egészségügy | Somogy Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -86,4 +86,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a, a 296/2012. (X. 17.) Korm. rendelet 38. §-a, a 394/2012. (XII. 20.) Korm. rendelet 27. §-a szerint módosított szöveg.
