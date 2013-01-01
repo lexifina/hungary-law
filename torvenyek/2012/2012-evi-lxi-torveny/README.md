@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-61-00-00
 | 2012-07-02 | 2010. évi CXXX. törvény | 2012-61-00-00.5 |
 | 2012-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-61-00-00.6 |
 | 2012-10-02 | 2010. évi CXXX. törvény | 2012-61-00-00.7 |
+| 2013-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-61-00-00.8 |
