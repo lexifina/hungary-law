@@ -2,13 +2,13 @@
 
 208. § (1) A fiatalkorú befogadásáról – a 29. § (1) bekezdésben meghatározottakon kívül – hetvenkét órán belül értesíteni kell
 
-a) a lakóhely szerint illetékes gyámhatóságot[^198];
+a)[^200] a lakóhely szerint illetékes gyámhivatalt;
 
 b) a törvényes képviselőt, a gyámság esetén a gyámot;
 
-c)[^199] átmeneti vagy tartós nevelésbe vett fiatalkorú esetén az illetékes területi gyermekvédelmi szakszolgálatot.
+c)[^201] átmeneti vagy tartós nevelésbe vett fiatalkorú esetén az illetékes területi gyermekvédelmi szakszolgálatot.
 
 (2) Az (1) bekezdésben meghatározott szerveket és személyeket a fiatalkorú szabadulásáról is értesíteni kell.
 
-[^198]: A 149/1997.(IX. 10.) Korm. rendelet 173. §-a értelmében, ahol jogszabály gyámhatóságot említ, azon jegyzőt vagy gyámhivatalt kell érteni.
-[^199]: A 208. § (1) bekezdésének c) pontja a 18/2002. (XI. 30.) IM rendelet 56. §-ával megállapított szöveg.
+[^200]: A 208. § (1) bekezdés a) pontja az 50/2012. (XII. 4.) KIM rendelet 7. § d) pontja szerint módosított szöveg.
+[^201]: A 208. § (1) bekezdésének c) pontja a 18/2002. (XI. 30.) IM rendelet 56. §-ával megállapított szöveg.

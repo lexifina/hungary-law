@@ -10,10 +10,10 @@ b) megállapította az elítélt korlátozott beszámítási képességét.
 
 (3) Ha az elítélt az intézetbe magával hozza felügyelet nélkül maradó kiskorú gyermekét, a gyermek- és ifjúságvédelmi intézménybe történő elhelyezésről az intézet haladéktalanul gondoskodik.
 
-(4) Ha az elítélt a befogadásakor bejelenti, hogy kiskorú gyermeke felügyelet nélkül maradt, az intézet hivatali időben az illetékes gyámhatóságot[^22], hivatali időn kívül az illetékes rendőri szervet haladéktalanul értesíti.
+(4)[^22] Ha az elítélt a befogadásakor bejelenti, hogy kiskorú gyermeke felügyelet nélkül maradt, az intézet hivatali időben az illetékes járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: gyámhivatal), hivatali időn kívül az illetékes rendőri szervet haladéktalanul értesíti.
 
 (5) Ha az elítélt lakása vagy más vagyontárgya őrizetlenül maradt, az intézet erről az illetékes önkormányzat jegyzőjét, illetve az elítélt által meghatározott személyt értesíti.
 
 [^20]: A 18. § (1) bekezdése a 30/2010. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.
 [^21]: A 18. § (2) bekezdés a) pontját a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^22]: A 149/1997.(IX. 10.) Korm. rendelet 173. §-a értelmében, ahol jogszabály gyámhatóságot említ, azon jegyzőt vagy gyámhivatalt kell érteni.
+[^22]: A 18. § (4) bekezdése az 50/2012. (XII. 4.) KIM rendelet 7. § a) pontja szerint módosított szöveg.

@@ -18,10 +18,10 @@ d) gondnokság alá helyezett elítélt esetében a gondnokot.
 
 (4)[^34] Ha a bíróság a büntetőeljárás során óvadék elfogadásáról határozott, az intézet a befogadásról tíz napon belül az óvadék elfogadása tárgyában jogerős határozatot hozó bíróságot is értesíti, amennyiben az nem azonos az (1) bekezdés c) pontja szerinti bírósággal.
 
-(5)[^35] A Magyar Honvédség és a rendvédelmi szervek volt hivatásos (szerződéses) állományú tagjának szolgálati igazolványát a kiállító szervnek, az elítélt útlevelét pedig a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának kell megküldeni.
+(5)[^35] A Magyar Honvédség és a rendvédelmi szervek volt hivatásos (szerződéses) állományú tagjának szolgálati igazolványát a kiállító szervnek kell megküldeni.
 
 [^31]: A 29. § (1) bekezdésének b) pontja a 32/2007. (VI. 18.) IRM rendelet 2. §-ával megállapított szöveg.
 [^32]: A 29. § (2) bekezdését a 10/2006. (VII. 25.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
 [^33]: A 29. § új (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 3. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva.
 [^34]: A 29. § (4) bekezdését a 24/2003. (VII. 1.) IM rendelet 3. §-a iktatta a szövegbe.
-[^35]: A 29. § eredeti (3) bekezdésének számozását a 24/2003. (VII. 1.) IM rendelet 3. §-a (5) bekezdésre változtatta, szövege a 7/2005. (III. 24.) IM rendelet 6. §-ával megállapított, a 32/2007. (VI. 18.) IRM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^35]: A 29. § eredeti (3) bekezdésének számozását a 24/2003. (VII. 1.) IM rendelet 3. §-a (5) bekezdésre változtatta, szövege a 60/2012. (XII. 28.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
