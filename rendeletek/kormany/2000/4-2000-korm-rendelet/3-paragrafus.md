@@ -1,6 +1,6 @@
 3. § (1) Állami vagy önkormányzati természetvédelmi őr az lehet, aki
 
-a)[^4] cselekvőképes,
+a)[^4] az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvényben (a továbbiakban: Törvény) meghatározott alkalmazási feltételeknek megfelel,
 
 b)[^5] legalább középfokú iskolai végzettséggel és megfelelő szakirányú közép- vagy felsőfokú képesítéssel rendelkezik,
 
@@ -16,7 +16,7 @@ d) sikeres természetvédelmi őri vizsgát tett.
 
 (5)[^7] A természetvédelmi vagy ahhoz közvetlenül kapcsolódó tudományterületen szerzett tudományos fokozattal rendelkező személyt a felsőfokú végzettséggel és szakképesítéssel rendelkezőkre vonatkozó szabályok szerint kell besorolni.
 
-[^4]: A 3. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdés 7. pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 3. § (1) bekezdés a) pontja a 319/2012. (XI. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdésének b) pontja a 238/2000. (XII. 23.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított és a 247/2009. (XI. 10.) Korm. rendelet 39. § f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 3. § (4) bekezdését a 238/2000. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 247/2009. (XI. 10.) Korm. rendelet 31. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 3. § (5) bekezdését a 238/2000. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.

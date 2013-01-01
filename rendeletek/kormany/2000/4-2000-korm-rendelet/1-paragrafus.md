@@ -10,7 +10,7 @@ c) a települési önkormányzat (a továbbiakban: önkormányzat) természetvé
 
 (2) A rendelet hatálya alá tartozó személy a Tvt.-ből, illetve más jogszabályból adódó feladat- és hatáskörét a Tvt. céljainak megvalósítása érdekében határozottan, a törvényesség betartásával és az emberi jogok tiszteletben tartásával köteles ellátni, illetve gyakorolni.
 
-(3)[^2] Az Őrszolgálat felügyeletét és irányítását a természetvédelemért felelős miniszter (a továbbiakban: miniszter) – a külön jogszabályokban meghatározottak szerint – hivatali szervezete (a továbbiakban: Minisztérium) és az igazgatóságok egyszemélyi felelős vezetője (a továbbiakban: igazgató) útján látja el.
+(3)[^2] Az Őrszolgálat felügyeletét és irányítását – jogszabályban meghatározott körben, az abban foglalt előírások szerint – a természetvédelemért felelős miniszter (a továbbiakban: miniszter) hivatali szervezete (a továbbiakban: Minisztérium) és az igazgatóságok egyszemélyi felelős vezetője (a továbbiakban: igazgató) útján látja el.
 
 (4) Az önkormányzati természetvédelmi őrszolgálat és az önkormányzati természetvédelmi őrök felügyeletét a miniszter a Minisztérium és az igazgatóságok útján gyakorolja. Ennek során:
 
@@ -27,4 +27,4 @@ a) az önkormányzat által létrehozott természetvédelmi őrszolgálatról, i
 b) közvetlenül ellenőrzi az önkormányzati természetvédelmi őrszolgálat, illetőleg az önkormányzati természetvédelmi őrök feladatainak ellátását, működését.
 
 [^1]: Az 1. § (1) bekezdésének b) pontját a 340/2004. (XII. 22.) Korm. rendelet 30. §-ának (2) bekezdése hatályon kívül helyezte.
-[^2]: Az 1. § (3) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (4) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: Az 1. § (3) bekezdése a 319/2012. (XI. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
