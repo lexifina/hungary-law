@@ -28,7 +28,7 @@
 
 12. Elméleti tanóra: a képzésnek a megszerezni kívánt képesítéshez, kompetenciához szükséges elméleti tudás megszerzését biztosító, 45 percet elérő időtartamú egysége.
 
-13. Belső képzésnek minősül a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett képzés, illetve a külön jogszabályok alapján végzett köztisztviselői továbbképzés. A belső képzés szempontjából munkavállaló az Flt. 58. §-a (5) bekezdésének b) pontjában meghatározott személy.
+13. Belső képzésnek minősül a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett képzés. A belső képzés szempontjából munkavállaló az Flt. 58. §-a (5) bekezdésének b) pontjában meghatározott személy.
 
 14. Nem formális tanulásnak minősül a munkahely, a társadalmi és egyéb szervezetek által szervezett olyan rendszerezett oktatás-tanulás, amely oktatási, képzési intézményeken kívül az egyén igényei és kezdeményezése alapján valósul meg, és amely közvetlenül nem kapcsolódik képesítés megszerzését tanúsító okirat megszerzéséhez.
 
@@ -43,3 +43,7 @@
 19. Szakmai képzés: olyan képzés, amely valamely foglalkozás, munkatevékenység végzéséhez szükséges kompetencia megszerzésére, fejlesztésére irányul.
 
 20. Felnőttképzési tevékenység megkezdése: a 3. § (2) bekezdésében meghatározott tevékenység tényleges megkezdése vagy a felnőttképzési tevékenységnek a felnőttképzési intézmény általi meghirdetése.
+
+21. támogatott képzés: olyan képzés, amely részben vagy egészben a 21. § (2) bekezdésében megjelölt források terhére valósul meg.
+
+22. támogató szerv: a 21. § (2) bekezdésében megjelölt források felett rendelkezni jogosult szervezet, amellyel a támogatott a pénzeszközök képzési célú felhasználására támogatási szerződést köt.
