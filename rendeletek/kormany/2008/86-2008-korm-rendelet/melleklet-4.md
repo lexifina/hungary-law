@@ -62,7 +62,7 @@
 
 ## Költségmegtakarítás összege éves szinten: Ebben az oszlopban a bérjellegű megtakarításokat kell kimutatni, ugyanúgy mint a 2. számú melléklet 5. oszlopában. Annak utolsó, összesen sorával kell megegyeznie.
 
-4. számú melléklet a 86/2008. (IV. 15.) Korm. rendelethez
+4. számú melléklet a 86/2008. (IV. 15.) Korm. rendelethez[^4]
 
 ## Kimutatás a 2008. évi létszámcsökkentéshez kapcsolódó támogatás elszámolásáról
 
@@ -102,8 +102,10 @@ Ez a melléklet a 2008. évi létszámcsökkentéshez kapcsolódó támogatás e
 
 4. számú oszlop: A munkavállalótól levont, illetve a munkáltatót terhelő és az APEH-nak ténylegesen átutalt adók és járulékok összegét kell feltüntetni.
 
-5. számú oszlop: Amennyiben valamilyen oknál fogva a létszámcsökkentés mégsem valósult meg (pl. munkaügyi bíróság előtt folyamatban lévő eljárás), az erre jutó támogatási összeget vissza kell utalni a költségvetésbe. A visszautalt összeget ebben az oszlopban kell szerepeltetni. A kifizetett nettó összeg, az átutalt adók és járulékok és a folyósított támogatásból visszautalt összeg összesenjének meg kell egyeznie a 2. számú melléklet 4. oszlopának összesenjével.
+5. számú oszlop: Amennyiben valamilyen oknál fogva a létszámcsökkentés mégsem valósult meg (pl. közigazgatási és munkaügyi bíróság előtt folyamatban lévő eljárás), az erre jutó támogatási összeget vissza kell utalni a költségvetésbe. A visszautalt összeget ebben az oszlopban kell szerepeltetni. A kifizetett nettó összeg, az átutalt adók és járulékok és a folyósított támogatásból visszautalt összeg összesenjének meg kell egyeznie a 2. számú melléklet 4. oszlopának összesenjével.
 
-6. számú oszlop: Az utolsó oszlopban az igénybejelentéstől való eltérés rövid indoklását kell leírni [pl. munkaügyi bíróság előtt folyamatban lévő eljárás, felmondási (felmentési) tilalom].
+6. számú oszlop: Az utolsó oszlopban az igénybejelentéstől való eltérés rövid indoklását kell leírni [pl. közigazgatási és munkaügyi bíróság előtt folyamatban lévő eljárás, felmondási (felmentési) tilalom].
 
 Minden mellékletet aláírással és dátummal kell ellátni!
+
+[^4]: A 4. számú melléklet a 403/2012. (XII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

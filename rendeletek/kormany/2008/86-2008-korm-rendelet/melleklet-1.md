@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-1. számú melléklet a 86/2008. (IV. 15.) Korm. rendelethez[^2]
+1. számú melléklet a 86/2008. (IV. 15.) Korm. rendelethez[^3]
 
 ## Adatszolgáltatás a 2008. évi létszámcsökkentéshez kapcsolódó támogatás igényléshez
 
@@ -166,4 +166,4 @@ Munkaadókat terhelő járulékok: az előbbiekben felsorolt minden – járulé
 
 22. sor: Ezen a soron az igényelt támogatás összegét kell meghatározni oly módon, hogy az előbbi sorban szereplő két összeget összehasonlítjuk, melyek közül az alacsonyabb képezi a támogatás megállapításának alapját. Ezzel teljesül az a követelmény, amelyet a Kvtv. 4. § (1) bekezdésének f) pontja határoz meg, miszerint a költségvetési hozzájárulás mértéke nem haladhatja meg azt a mértéket, amely a szervezetet a munkaviszony-megszüntetésre tekintettel akkor terhelné, ha arra a Kjt. alkalmazásával kerülne sor.
 
-[^2]: Az 1. számú melléklet a 356/2008. (XII. 31.) Korm. rendelet 24. § (4) bekezdésének a) pontja szerint módosított szöveg.
+[^3]: Az 1. számú melléklet a 356/2008. (XII. 31.) Korm. rendelet 24. § (4) bekezdésének a) pontja szerint módosított szöveg.
