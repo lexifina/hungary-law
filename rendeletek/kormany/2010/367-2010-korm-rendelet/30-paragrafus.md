@@ -1,4 +1,4 @@
-## 29. §[^36] A Bizottság a Nemzeti Foglalkoztatási Alap képzési alaprészéből átcsoportosított rész terhére nyújtott támogatásokról – ezen belül a támogatás formája, mértéke, célja, támogatottak köre bemutatásával – az államháztartásért felelős miniszter számára az adott tárgyév vonatkozásában – a tárgyévet követő év március 31-éig – beszámolót nyújt be.
+## 29. §[^36]
 
 ## 10. Az Alap pénzügyi működése
 
@@ -14,6 +14,6 @@
 
 (6)[^38] Az Alap pénzforgalmának bonyolítása az (1) bekezdésben meghatározott felhasználási keretszámlán történik, amely felett a rendelkezési jogosultságot az Alapkezelő vezérigazgatója gyakorolja.
 
-[^36]: A 29. § a 324/2011. (XII. 28.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^36]: A 29. §-t a 384/2012. (XII. 19.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^37]: A 30. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^38]: A 30. § (6) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés h) pontja szerint módosított szöveg.
