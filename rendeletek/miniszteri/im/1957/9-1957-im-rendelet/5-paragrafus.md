@@ -1,8 +1,10 @@
-## 4. §[^5] E rendelet 2-7. §-ának hatálya alá tartozó ügyekben a belföldi hitelezőt tárgyi költségmentesség nem illeti meg, kérheti azonban, hogy őt a helyi bíróság személyes költségmentességben részesítse.[^6] Ha a helyi bíróság a belföldi hitelező részére nem engedélyezett teljes személyes költségmentességet, felhívja őt arra, hogy az előrelátható fordítási költséget, illetőleg – részleges költségmentessége folytán – annak általa fedezendő részét helyezze bírósági letétbe.
+## 4. §[^10] E rendelet 2-7. §-ának hatálya alá tartozó ügyekben a belföldi hitelezőt tárgyi költségmentesség nem illeti meg, kérheti azonban, hogy őt a járásbíróság személyes költségmentességben részesítse.[^11] Ha a járásbíróság a belföldi hitelező részére nem engedélyezett teljes személyes költségmentességet, felhívja őt arra, hogy az előrelátható fordítási költséget, illetőleg – részleges költségmentessége folytán – annak általa fedezendő részét helyezze bírósági letétbe.
 
-5. § (1) Ha a külföldi bíróság a belföldi hitelező javára a tartásdíjat megítélte, és a külföldi adós nem teljesít, a belföldi hitelező a végrehajtás elrendelése céljából a külföldi bírósághoz intézendő kérelmét bármely helyi bíróságnál előterjesztheti.
+5. § (1)[^12] Ha a külföldi bíróság a belföldi hitelező javára a tartásdíjat megítélte, és a külföldi adós nem teljesít, a belföldi hitelező a végrehajtás elrendelése céljából a külföldi bírósághoz intézendő kérelmét bármely járásbíróságnál előterjesztheti.
 
-(2) A kérelmet a helyi bíróság jegyzőkönyvbe foglalja, amelyhez csatolni kell a külföldi bíróság ítéletét.
+(2)[^13] A kérelmet a járásbíróság jegyzőkönyvbe foglalja, amelyhez csatolni kell a külföldi bíróság ítéletét.
 
-[^5]: A 4. § a 7/1961. (XII. 23.) IM rendelet 1. §-ával megállapított szöveg.
-[^6]: Lásd a 6/1986. (VI. 26.) IM rendeletet.
+[^10]: A 4. § a 7/1961. (XII. 23.) IM rendelet 1. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 1. § c) pontja szerint módosított szöveg.
+[^11]: Lásd a 6/1986. (VI. 26.) IM rendeletet.
+[^12]: Az 5. § (1) bekezdése az 57/2012. (XII. 28.) KIM rendelet 1. § d) pontja szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdése az 57/2012. (XII. 28.) KIM rendelet 1. § d) pontja szerint módosított szöveg.
