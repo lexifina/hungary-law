@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-1-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2003-1-20-06.6 | 1/2003. (III. 7.) IM rendelet |
+| 2013-01-01 | 2003-1-20-06.7 | 8/2007. (III. 6.) IRM rendelet |
