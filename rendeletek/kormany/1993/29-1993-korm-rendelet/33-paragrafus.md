@@ -1,4 +1,4 @@
-## 33. §[^88]
+## 33. §[^89]
 
 (1) E rendeletnek a szociális szolgáltatási tárgyú kormányrendeleteknek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel összefüggő módosításáról szól 357/2010. (XII. 30.) Korm. rendelettel megállapított, illetve módosított
 
@@ -8,4 +8,4 @@ b) 16. §-át és 28. § (1)–(3) bekezdését a 2010. december 31-ét követő
 
 (2) A 2010. december 31-éig kiadott jegyzői jövedelemigazolások alapján megállapított személyi térítési díj a személyi térítési díj soron következő felülvizsgálatáig alkalmazható.
 
-[^88]: A 33. §-t a 357/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^89]: A 33. §-t a 357/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be.

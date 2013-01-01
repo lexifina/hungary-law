@@ -1,4 +1,4 @@
-## 3. §[^11]
+## 3. §[^12]
 
 (1) Az intézményi térítési díjat és a személyi térítési díjat
 
@@ -28,4 +28,4 @@ a hónapok naptári napjainak számától függetlenül.
 
 (4) A intézményi térítési díjat és a személyi térítési díjat az 1 és 2 forintos címletű érmék bevonása következtében szükséges kerekítés szabályairól szóló 2008. évi III. törvény 2. §-ának megfelelő módon kerekítve kell meghatározni.
 
-[^11]: A 3. § a 357/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 3. § a 357/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
