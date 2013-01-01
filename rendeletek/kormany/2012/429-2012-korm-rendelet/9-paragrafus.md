@@ -1,0 +1,1 @@
+## „(2a) A földhasználati lap másolat nem tartalmazza a magánszemély földhasználó esetében a személyi azonosítót, állampolgárságot, és a születési hónapot, napot, a gazdálkodó szervezet földhasználó esetében a statisztikai azonosítót”.
