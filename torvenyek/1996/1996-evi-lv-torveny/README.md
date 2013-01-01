@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-55-00-00
 | 2010-03-12 | 2010. évi IX. törvény | 1996-55-00-00.27 |
 | 2011-01-01 | 2010. évi CLII. törvény | 1996-55-00-00.28 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 1996-55-00-00.29 |
+| 2013-01-01 | 2012. évi CXX. törvény | 1996-55-00-00.30 |
