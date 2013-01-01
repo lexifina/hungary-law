@@ -3,11 +3,3 @@
 ## 43. Hatályon kívül helyező rendelkezés
 
 108. § Hatályát veszti a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
