@@ -6,7 +6,7 @@
 
 ## Az általános szabályok alkalmazása
 
-387. § (1) Az I–XIV. Fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a helyi bíróság hatáskörébe tartozó, a 24. és 25. § rendelkezései szerint számítva az egymillió forintot meg nem haladó, kizárólag pénz fizetésére irányuló követelések érvényesítésére indított perekben – a 349. § (4) bekezdésében meghatározott pereket ide nem értve –, amelyekben az eljárás fizetési meghagyással szemben előterjesztett ellentmondás folytán alakult perré, vagy amelyek egyébként a 315. § (2) bekezdése alapján fizetési meghagyásos eljárást követnek (kisértékű perek).
+387. § (1) Az I–XIV. Fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a járásbíróság hatáskörébe tartozó, a 24. és 25. § rendelkezései szerint számítva az egymillió forintot meg nem haladó, kizárólag pénz fizetésére irányuló követelések érvényesítésére indított perekben – a 349. § (4) bekezdésében meghatározott pereket ide nem értve –, amelyekben az eljárás fizetési meghagyással szemben előterjesztett ellentmondás folytán alakult perré, vagy amelyek egyébként a 315. § (2) bekezdése alapján fizetési meghagyásos eljárást követnek (kisértékű perek).
 
 (2) A kisértékű perek szabályainak alkalmazhatósága tekintetében a per tárgyának a fizetési meghagyás iránti kérelem beadásakor fennálló értéke irányadó.
 

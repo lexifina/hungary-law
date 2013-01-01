@@ -1,4 +1,4 @@
-208. § (1) Az előzetes bizonyítást a per bíróságánál kell kérni. Ha a per még nem indult meg, az előzetes bizonyítást a kérelmező lakóhelye szerint illetékes helyi bíróságnál vagy annál a helyi bíróságnál lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le.
+208. § (1) Az előzetes bizonyítást a per bíróságánál kell kérni. Ha a per még nem indult meg, az előzetes bizonyítást a kérelmező lakóhelye szerint illetékes járásbíróságnál vagy annál a járásbíróságnál lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le.
 
 (2) A kérelemben meg kell jelölni:
 

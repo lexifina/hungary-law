@@ -4,6 +4,6 @@
 
 ## Hatáskör
 
-22. § (1) A helyi bíróság hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a törvényszék hatáskörébe.
+22. § (1) A járásbíróság hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a törvényszék hatáskörébe.
 
-(2) A munkaügyi bíróság hatáskörébe tartoznak a 349. §-ban meghatározott munkaügyi perek.
+(2) A közigazgatási és munkaügyi bíróság hatáskörébe tartoznak a közigazgatási perek (XX. fejezet), valamint a munkaviszonyból és munkaviszony jellegű jogviszonyból származó perek (XXIII. fejezet).

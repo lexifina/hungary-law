@@ -10,21 +10,15 @@
 
 (5) Ha az első fokon eljárt közigazgatási szerv illetékességi területe több megyére terjed ki (megye alatt értve a fővárost is), de a felperesnek nincsen belföldi lakóhelye, tartózkodási helye, illetve székhelye, és az illetékes bíróság a (3) és (4) bekezdés alapján sem állapítható meg, a perben az első fokon eljárt közigazgatási szerv székhelye szerint illetékes bíróság jár el.
 
-(6) A Magyarország területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Törvényszék kizárólagosan illetékes.
+(6) A Magyarország területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
-(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(13) bekezdésben foglalt kivétellel – a perre a Fővárosi Törvényszék kizárólagosan illetékes.
+(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(13) bekezdésben foglalt kivétellel – a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (8) Ha ugyanazon közigazgatási határozat felülvizsgálata iránt több bíróság előtt indítanak pert, az az illetékes bíróság jár el, amelyhez a keresetlevelet elsőként továbbították. A közigazgatási szerv az utóbb továbbított keresetlevélre a 330. § (2) bekezdése szerint megtett nyilatkozatában felhívja a bíróság figyelmét arra, hogy korábban az adott határozat ellen másik keresetlevelet nyújtottak be, és azt az abban megjelölt másik illetékes bírósághoz továbbították. Az a bíróság, amelynek a közigazgatási szerv utóbb továbbított keresetlevelet, a 129. § szerint jár el.
 
-(9) Azokban a közigazgatási perekben, amelyekben törvény alapján az ítélet ellen fellebbezésnek van helye, a törvényszék által első fokon hozott határozatok tekintetében – ha törvény a fellebbezést megengedi – a másodfokú eljárásra a Fővárosi Ítélőtábla kizárólagosan illetékes.
+(9)
 
-(10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot
-
-a) ha az összeütközés a területén levő törvényszékek között merült fel, továbbá ha a területén levő törvényszék kizárása esetén a területén levő másik törvényszék kijelölhető, az ítélőtábla,
-
-b) az a) pont alá nem tartozó esetekben a Kúria
-
-jelöli ki.
+(10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot a Kúria jelöli ki.
 
 (11) E fejezet alkalmazásában:
 
@@ -74,4 +68,4 @@ r) a közbeszerzésekről szóló törvény, ha a közbeszerzési eljárásban a
 
 s) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény.
 
-(13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti a törvényszék – a Fővárosi Ítélőtábla esetében a Fővárosi Törvényszék – jár el. Ha a felperesnek nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti a törvényszék – a Fővárosi Ítélőtábla esetében a Fővárosi Törvényszék – jár el.
+(13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti a közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el. Ha a felperesnek nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti a közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el.

@@ -20,6 +20,6 @@ d) nemzetközi kereskedelemben olyan formában, amely megfelel az olyan keresked
 
 a) a törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék és a Budapest Környéki Törvényszék;
 
-b) a helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság
+b) a járásbíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság
 
 illetékességét.

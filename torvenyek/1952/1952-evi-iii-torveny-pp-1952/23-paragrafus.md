@@ -32,7 +32,7 @@ g) a személyhez fűződő jogok megsértése miatt keletkezett polgári jogi ig
 
 h) az értékpapírból származó jogviszonnyal kapcsolatos perek;
 
-i) a közigazgatási perek (XX. fejezet), a 349. § (5) bekezdésében meghatározott perek kivételével;
+i)
 
 j) a sajtóhelyreigazítási perek (XXI. fejezet);
 

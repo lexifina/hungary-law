@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2012-12-15 | 2012. évi CLXXXIX. törvény | 1952-3-00-00.103 |
 | 2012-12-23 | 2012. évi CCVIII. törvény | 1952-3-00-00.104 |
 | 2012-12-31 | 2012. évi CCXI. törvény | 1952-3-00-00.105 |
+| 2013-01-01 | 2012. évi CCXI. törvény | 1952-3-00-00.106 |

@@ -1,1 +1,1 @@
-373. § A végrehajtási igényperre kizárólag az a helyi bíróság illetékes, amelynek területén a foglalás történt.
+373. § A végrehajtási igényperre kizárólag az a járásbíróság illetékes, amelynek területén a foglalás történt.
