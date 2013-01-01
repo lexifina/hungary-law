@@ -1,4 +1,10 @@
-38/B. § (1) Az a természetes személy vagy gazdálkodó szervezet, aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek valamelyikét Magyarország területén végzi, köteles a 38. § (2) bekezdés c) pontja szerinti adatait, a ténylegesen végzett élelmiszerlánc-felügyelet alá tartozó tevékenységét (tevékenységeit), továbbá a tevékenység végzésének helyét (helyeit) az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik a 2. § (3) bekezdése szerinti tevékenységekre.
+38/B. § (1) Az a
+
+a) természetes személy vagy gazdálkodó szervezet,
+
+b) mezőgazdasági őstermelő és a családi gazdálkodó,
+
+aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek valamelyikét Magyarország területén végzi, köteles a 38. § (2) bekezdés c) pontja szerinti adatait, a ténylegesen végzett élelmiszerlánc-felügyelet alá tartozó tevékenységét (tevékenységeit), továbbá a tevékenység végzésének helyét (helyeit) az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik a 2. § (3) bekezdése szerinti tevékenységekre.
 
 (2) Az élelmiszerlánc-felügyeleti szerv az ügyfél bejelentése alapján veszi nyilvántartásba az (1) bekezdés szerinti adatokat, és egyidejűleg FELIR azonosító számot (a továbbiakban: FELIR azonosító) állapít meg a nyilvántartásba vétel igazolására. Amennyiben a FELIR azonosítóval rendelkező ügyfél a továbbiakban nem végez a 47/B. § (2) bekezdése szerinti tevékenységet, akkor a FELIR azonosító egyidejű visszavonásával a nyilvántartásból törölni kell. A nyilvántartásból törölt élelmiszerlánc szereplő adatait az élelmiszerlánc-felügyeleti szerv élelmiszerlánc-biztonsági célból 10 évig köteles megőrizni.
 
