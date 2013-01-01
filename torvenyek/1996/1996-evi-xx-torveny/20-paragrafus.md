@@ -16,7 +16,7 @@ d) a nyomozó hatóság, az ügyész által jóváhagyott megkeresés alapján, 
 
 e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
-f) az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott – körzetközponti feladatokat ellátó – települési (fővárosi kerületi) önkormányzat jegyzője az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
+f) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
 
 g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, a családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, a hozzájárulások, támogatások, ellátások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 
