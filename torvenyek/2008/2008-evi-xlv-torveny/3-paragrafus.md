@@ -12,7 +12,7 @@ a) a területi kamara vagy az országos kamara elnökének döntése szerint a k
 
 b) a kizárási okot nem a közjegyző jelentette be, és a kizárásához a közjegyző nem járult hozzá,
 
-a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett közjegyző székhelye szerint illetékes helyi bíróság nemperes eljárásban határoz.
+a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett közjegyző székhelye szerint illetékes járásbíróság nemperes eljárásban határoz.
 
 (5) A (4) bekezdés a) pontja szerinti esetben a területi vagy az országos kamara elnöke a döntését – a kizárási ügyben keletkezett iratokkal együtt – megküldi a kizárásról való döntés végett a bíróságnak.
 
