@@ -20,7 +20,17 @@ g) telekalakítási engedély.
 
 (3)[^10] A katonai építésügyi hatóság – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
+(4)[^11] Az elsőfokú katonai építésügyi hatóság hatósági bizonyítványt ad ki
+
+a) az ügyfél kérelmére a honvédelmi és katonai célú ingatlan használatával kapcsolatos tény, állapot vagy egyéb adat igazolására;
+
+b) a Nemzeti Földalapkezelő Szervezet, vagy az ingatlanügyi hatóság kérelmére, az ingatlan-nyilvántartásban honvédelmi célra feleslegessé nyilvánított területként nyilvántartott földrészlet környezetvédelmi, vegyvédelmi, illetve tűzszerészeti mentesítése elvégzésének szükségessége, vagy megtörténte vonatkozásában.
+
+(5)[^12] A (4) bekezdés b) pontja szerinti hatósági bizonyítványt a kérelem előterjesztésétől számított harminc napon belül kell kiadni.
+
 [^7]: Az 5. § a 362/2008. (XII. 31.) Korm. rendelet 36. §-ának – 21/2009. (II. 4.) Korm. rendelet 1. §-ával megállapított – (3) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^8]: A 6. § (1) bekezdésének e) pontját a 182/2009. (IX. 10.) Korm. rendelet 269. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^9]: A 6. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 269. §-a hatályon kívül helyezte, újonnan a 82/2011. (V. 18.) Korm. rendelet 8. §-a iktatta be.
 [^10]: A 6. § (3) bekezdését a 82/2011. (V. 18.) Korm. rendelet 8. §-a iktatta be, szövege a 290/2011. (XII. 22.) Korm. rendelet 92. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 6. § (4) bekezdését a 406/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 6. § (5) bekezdését a 406/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
