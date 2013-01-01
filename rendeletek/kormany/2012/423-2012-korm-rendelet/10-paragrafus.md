@@ -1,0 +1,9 @@
+10. § (1) A jelentkező egy felvételi eljárásban – függetlenül a korábban megszerzett végzettségeitől, szakképzettségeitől és szakképesítéseitől – az Nftv. 39. § (4) bekezdés szerint legfeljebb öt meghirdetésre – felsőoktatási intézménybe, karra, szakra, szakképzésre, képzési helyre és munkarendre – jelentkezhet, amelyeken belül megjelölhető több finanszírozási forma.
+
+(2) Amennyiben a jelentkező az (1) bekezdésben meghatározott lehetőséggel élni kíván, a felvételi jelentkezési kérelem benyújtásakor fel kell tüntetnie, hogy
+
+a) mely felsőoktatási intézményekbe, karokra, illetőleg szakokra, szakképzésekre – ha van, mely önálló szakképzettség megszerzését lehetővé tevő szakirányra, mely képzési helyre, illetve képzési nyelvre –, mely képzési formára, teljes idejű (nappali munkarend szerinti), részidős (esti, levelező munkarend szerinti) képzésre vagy távoktatásra, továbbá milyen finanszírozási formára jelentkezik, és
+
+b) milyen sorrendben kéri felvételi jelentkezéseinek elbírálását.
+
+(3) A jelentkező az általa meghatározott jelentkezési sorrendet a felvételi eljárás során a besorolási döntés időpontját megelőző 14. napig terjedő határidőn belül – postai úton vagy elektronikus úton – egy alkalommal módosíthatja. Az intézményi felvételi vizsgák lebonyolításának biztosítása miatt a mesterképzésekre is jelentkezők sorrendmódosítást a besorolási döntés időpontját megelőző 30. napig terjedő határidőn belül kérhetnek.
