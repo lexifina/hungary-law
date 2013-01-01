@@ -1,0 +1,1 @@
+25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a hegybíró által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet.

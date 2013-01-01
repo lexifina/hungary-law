@@ -1,0 +1,1 @@
+48. § A hegyközségi tanács a borvidék területén működő hegyközségek számára fenntartási hozzájárulás megállapításáról dönthet. A fizetendő fenntartási hozzájárulás megállapításáról és annak mértékéről évente a hegyközségi tanács határoz. A fenntartási hozzájárulás felhasználásának célját az alapszabályban kell meghatározni.

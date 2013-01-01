@@ -1,0 +1,3 @@
+20. § (1) Származási bizonyítványt minden hegyközségi tag, térítésmentesen kap, ha eleget tett a hegyközségi járulék megfizetésére vonatkozó, illetve az adatszolgáltatási kötelezettségének.
+
+(2) A szőlő termőhelyi kataszterében nyilvántartott szomszédos termőföldre elővásárlási, valamint elő-haszonbérleti jog illeti meg a hegyközségi tagot, ha ezen jogának érvényesítését megelőző 24 hónapban folyamatos hegyközségi tagsággal rendelkezett. Szomszédos termőföldnek minősül a közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos szőlő termőhelyi kataszterében nyilvántartott termőföld.

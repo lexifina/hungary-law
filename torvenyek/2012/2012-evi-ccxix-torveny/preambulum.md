@@ -1,0 +1,1 @@
+Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a bortermelés színvonalának emelése, termékei piacképességének javítása, valamint a korszerű származás- és minőségvédelem fejlesztése érdekében a következő törvényt alkotja:

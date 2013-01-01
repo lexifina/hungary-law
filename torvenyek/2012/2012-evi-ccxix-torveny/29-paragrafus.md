@@ -1,0 +1,1 @@
+29. § A Hegyközségek Nemzeti Tanácsa ülésén tanácskozási joggal részt vesznek a miniszter vagy képviselője, a borászati hatóság, az országos szőlészeti-borászati oktatási, kutatási intézmények, valamint szakmai érdek-képviseleti szervezetek képviselői.

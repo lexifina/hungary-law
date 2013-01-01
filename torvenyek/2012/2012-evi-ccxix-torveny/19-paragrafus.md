@@ -1,0 +1,19 @@
+## 15. A hegyközségi tag jogai és kötelezettségei
+
+19. § (1) A tag joga – a (2) bekezdésben foglalt kivétellel –, hogy
+
+a) tanácskozási és szavazati joggal részt vegyen a közgyűlésen vagy részközgyűlésen;
+
+b) tisztséget viseljen a hegyközségben;
+
+c) a hegyközség belső szabályzatában foglaltak szerint igénybe vegye a hegyközség által nyújtott szolgáltatásokat.
+
+(2) A 15. § (3) bekezdése szerinti önkéntes tag joga, hogy
+
+a) tanácskozási joggal részt vegyen a közgyűlésen vagy részközgyűlésen;
+
+b) a hegyközség belső szabályzatában foglaltak szerint igénybe vegye a hegyközség által nyújtott szolgáltatásokat.
+
+(3) Az (1) bekezdés a) pontjában meghatározott tagsági viszonyból eredő jogait természetes személy csak személyesen, jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság a képviseletére jogosult útján gyakorolhatja.
+
+(4) Aki több hegyközségnek is tagja, tisztséget csak egy hegyközségben viselhet.
