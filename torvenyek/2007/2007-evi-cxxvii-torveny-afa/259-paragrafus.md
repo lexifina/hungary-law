@@ -6,15 +6,19 @@ a) a 95. § szerinti adómentesség esetében megfelel a termék vámjogi szabad
 
 b) az adóraktározási eljárás során kiraktározandó/kiraktározott termék esetében megfelel a termék szokásos piaci árának figyelembevételével megállapított fizetendő adónak;
 
+1/A. adattartalom sértetlensége: a számlának a törvényben előírt adattartalmát nem változtatták meg.
+
 2. állandó telephely: a székhelyen kívül a gazdasági tevékenység helyhez kötött folytatására huzamosabb időtartamra létesített vagy arra szánt földrajzilag körülhatárolt hely, amelyen a gazdasági tevékenység – székhelyhez képesti – önálló folytatásához szükséges egyéb feltételek is ténylegesen rendelkezésre állnak, ideértve az adóalany kereskedelmi képviseletét is, de csak annyiban, amennyiben a 37. § (1) bekezdésének alkalmazásában az adóalany kereskedelmi képviselete a legközvetlenebbül érintett, kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
 
 3. áruminta: a képviselt terméknek kisebb és jellemző része vagy mennyisége, amelyet kizárólag a képviselt termék bemutatásának céljára adnak, és amely fizikai állapotánál, vagyoni értékénél fogva más cél elérésére nem is alkalmas;
 
 4. bérbeadás, -vétel: a bérleti szerződésen alapuló jogviszony mellett minden olyan egyéb jogviszony is, amelynek tartama alatt a jogosult az ellenérték egészét vagy túlnyomó részét a termék időleges használatáért téríti vagy téríteni köteles a kötelezettnek;
 
-5. elektronikus úton kibocsátott számla: a termék beszerzője, szolgáltatás igénybevevője részére az adatok vagy – digitális tömörítés felhasználásával – adatállományok elektronikus úton történő továbbítása, személyes rendelkezésre bocsátása telefonvezetékes, rádiós, optikai vagy egyéb elektromágneses rendszeren keresztül, elektronikus adatfeldolgozás céljára;
+5. elektronikus számla: az e törvényben előírt adatokat tartalmazó számla, amelyet elektronikus formában bocsátottak ki és fogadtak be.
 
 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést;
+
+6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
 
 7. építési telek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek és építési terület, amely egyúttal nem minősül beépített ingatlannak;
 
@@ -83,6 +87,8 @@ a) szárazföldi közlekedési eszköz esetében azt a gépjárművet jelenti, a
 b) víziközlekedési eszköz esetében azt a járművet jelenti, amelynek hosszúsága meghaladja a 7,5 métert – kivéve: a nyílt tengeri forgalomban használt olyan járművet, amelyet kereskedelmi személyszállításra, egyéb kereskedelmi, ipari és halászati tevékenységre, valamint tengeri mentésre vagy segítségnyújtásra használnak, továbbá a partmenti halászati tevékenységre használt járművet is –, feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 3 hónap telt el, vagy az általa hajózott órákból legfeljebb 100 órát hajózott;
 
 c) légiközlekedési eszköz esetében azt a járművet jelenti, amelynek teljes felszállási tömege meghaladja az 1550 kilogrammot – kivéve: azt a járművet, amelyet kizárólag vagy túlnyomó részben nemzetközi légikereskedelmi forgalomban részt vevő vállalkozás használ – feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 3 hónap telt el, vagy az általa repült órákból legfeljebb 40 órát repült;
+
+25/A. üzletág: a vállalkozásnak olyan működő egysége, amely szervezeti szempontból függetlenül, a hozzá tartozó vagyonnal alkalmas az önálló gazdasági tevékenység tartós folytatására;
 
 26. vevői készlet:
 

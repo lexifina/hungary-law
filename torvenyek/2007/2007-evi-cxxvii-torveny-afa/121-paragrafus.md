@@ -1,6 +1,6 @@
 121. § Az előzetesen felszámított adó levonásának joga megilleti az adóalanyt akkor is, ha a terméket, szolgáltatást
 
-a) olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye külföld, de amelyet, ha belföldön teljesítene, adóköteles lenne;
+a) olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye külföld, de amelyet, ha belföldön teljesítene, adólevonásra jogosító termékértékesítésének, szolgáltatásnyújtásának minősülne;
 
 b) a 89. és 92. §, a 93. § (2) bekezdése, valamint a 98–117. §-ok szerint adómentes termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja;
 

@@ -46,4 +46,4 @@ d) a termékértékesítés – adóval együtt számított – összellenérté
 
 e) a terméket a Közösség területéről kiléptető hatóság záradékának és bélyegzőjének helye annak igazolására, hogy a termék a Közösség területét elhagyta.
 
-(11) Az adó-visszaigénylő lap rovatait legalább 4 nyelven (magyar, angol, német és orosz) kell feltüntetni, és azokat magyar nyelven kell kitölteni.
+(11) Az adó-visszaigénylő lap rovatait legalább magyar, angol, német, francia és orosz nyelveken kell feltüntetni, és azokat magyar, angol, német vagy francia nyelven kell kitölteni.

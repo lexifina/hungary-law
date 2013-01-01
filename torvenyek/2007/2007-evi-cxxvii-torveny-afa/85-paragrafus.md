@@ -18,7 +18,7 @@ e) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékérté
 
 f) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet szociális ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 
-g) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet gyermek- és ifjúságvédelem keretében közszolgáltató – ilyen minőségében – teljesít;
+g) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet gyermek- és ifjúságvédelem keretében közszolgáltató – ilyen minőségében – teljesít;
 
 h) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet bölcsődei ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 

@@ -10,7 +10,19 @@ a) az adó-visszatéríttetési jog gyakorlásához fűződő, a közhasznú tev
 
 b) a Közösség más tagállamában [244. § (2) bekezdésének a) pontja] és az elismert harmadik államban [244. § (2) bekezdésének b) pontja] letelepedett adóalanyra, valamint a 200. § (3) bekezdésében említett nem adóalany jogi személyre vonatkozó adó-visszatéríttetési kérelem kötelező adattartalmát, formátumát és kitöltésének módját, továbbá az elismert harmadik államban letelepedett adóalanyt és a 200. § (3) bekezdésében említett nem adóalany jogi személyt terhelő igazolási kötelezettségeket;
 
-c) a számla és a nyugta kiállításának módjára, ideértve a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megállapítását is, valamint a számla és a nyugta adóigazgatási azonosítására vonatkozó szabályokat.
+c) a számla és a nyugta kiállításának módjára vonatkozó szabályokat, ideértve a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megállapítását is,
+
+d) a számla és a nyugta adóigazgatási azonosítására vonatkozó szabályokat,
+
+e) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgéppel rögzített adatok állami adóhatóság felé történő adatszolgáltatásának és az állami adóhatóság által a pénztárgépek működése felett gyakorolt felügyeletnek a szabályait, a közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alóli egyedi mentesítés szabályait,
+
+f) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgép, taxaméter forgalmazása engedélyezésének szabályait – ide értve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+
+g) a pénztárgép, taxaméter szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat,
+
+h) a pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat,
+
+i) a számlázási funkcióval rendelkező programokkal szembeni követelményeket és a számlázási funkcióval rendelkező programok értékesítésére és használatára vonatkozó adatszolgáltatási kötelezettségre vonatkozó szabályokat.
 
 (2) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – a külpolitikáért és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 107. § szerinti adómentességhez, illetőleg adó-visszatéríttetési jog gyakorlásához fűződő igazolási kötelezettséget, az adó-visszatéríttetési kérelem kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait.
 

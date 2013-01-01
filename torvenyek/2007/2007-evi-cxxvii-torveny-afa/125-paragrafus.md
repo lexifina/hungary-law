@@ -10,7 +10,9 @@ c) a 124. § (1) bekezdésének d)–h) pontjaiban említett esetekben a termék
 
 d) a 124. § (2) bekezdésében felsorolt esetekben a szolgáltatást igazoltan a 15. § szerinti szolgáltatásnyújtás teljesítése érdekében veszik igénybe;
 
-e) a 124. § (3) bekezdésében felsorolt esetekben a szolgáltatás igénybevétele fejében járó ellenérték legalább 30 százalékára igazoltan teljesül, hogy az a 15. § szerinti szolgáltatásnyújtás adóalapjába épül be.
+e) a 124. § (3) bekezdésében felsorolt esetekben a szolgáltatás igénybevétele fejében járó ellenérték legalább 30 százalékára igazoltan teljesül, hogy az a 15. § szerinti szolgáltatásnyújtás adóalapjába épül be;
+
+f) a 124. § (4) bekezdésében felsorolt esetben a szolgáltatás igénybevétele fejében járó ellenérték legalább 50 százalékára igazoltan teljesül, hogy az a 15. § szerinti szolgáltatásnyújtás adóalapjába épül be.
 
 (2) A 124. §-tól eltérően az előzetesen felszámított adó levonható abban az esetben is, ha az adóalany a terméket, szolgáltatást vállalkozásán belül
 
@@ -18,7 +20,7 @@ a) a 124. § (1) bekezdésének d) pontjában említett esetben igazoltan egész
 
 b) a 124. § (1) bekezdésének d)–g) pontjaiban említett esetekben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja;
 
-c) a 124. § (1) bekezdésének c) pontjában és (2) bekezdésének a) és b) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként a b) pontban említett szolgáltatásnyújtás adóalapjába épül be;
+c) a 124. § (1) bekezdésének c) pontjában és (4) bekezdésében említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként a b) pontban említett szolgáltatásnyújtás adóalapjába épül be;
 
 d) a 124. § (1) bekezdésének h) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja, feltéve, hogy a 88. § szerinti választási jogával úgy élt, hogy a bérbeadást adókötelessé tette;
 

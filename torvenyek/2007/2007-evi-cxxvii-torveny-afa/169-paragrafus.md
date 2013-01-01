@@ -8,32 +8,38 @@ b) a számla sorszáma, amely a számlát kétséget kizáróan azonosítja;
 
 c) a termék értékesítőjének, szolgáltatás nyújtójának adószáma, amely alatt a termék értékesítését, szolgáltatás nyújtását teljesítette;
 
-d) a termék beszerzőjének, szolgáltatás igénybevevőjének adószáma, amely alatt, mint adófizetésre kötelezettnek a termék értékesítését, szolgáltatás nyújtását teljesítették, vagy amely alatt a 89. §-ban meghatározott termékértékesítést részére teljesítették;
+d) a termék beszerzőjének, szolgáltatás igénybevevőjének
+
+da) adószáma, amely alatt mint adófizetésre kötelezettnek a termék értékesítését, szolgáltatás nyújtását teljesítették, vagy
+
+db) adószáma, amely alatt a 89. §-ban meghatározott termékértékesítést részére teljesítették, vagy
+
+dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegye, amely alatt, mint belföldön nyilvántartásba vett adóalany részére a termékértékesítést, szolgáltatásnyújtást teljesítették, feltéve, hogy a terméket beszerző, szolgáltatást igénybevevő adóalanyra a k) pont szerinti áthárított adó a 2 000 000 forintot eléri vagy meghaladja és a termék értékesítője, szolgáltatás nyújtója gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön;
 
 e) a termék értékesítőjének, szolgáltatás nyújtójának, valamint a termék beszerzőjének, szolgáltatás igénybevevőjének neve és címe;
 
-f) az értékesített termék megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott vtsz., továbbá mennyisége, illetőleg a nyújtott szolgáltatás megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott SZJ, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
+f) az értékesített termék megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott vtsz., továbbá mennyisége vagy a nyújtott szolgáltatás megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott SZJ, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
 
-g) a 163. § (1) bekezdésének a) és b) pontjában említett időpont, ha az eltér a számla kibocsátásának keltétől;
+g) a 163. § (1) bekezdés a) és b) pontjában említett időpont, ha az eltér a számla kibocsátásának keltétől;
 
-h) az adó alapja, továbbá az értékesített termék adó nélküli egységára, illetőleg a nyújtott szolgáltatás adó nélküli egységára, ha az természetes mértékegységben kifejezhető, valamint az alkalmazott árengedmény, feltéve, hogy azt az egységár nem tartalmazza;
+h) a „pénzforgalmi elszámolás” kifejezés, a XIII/A. fejezetben meghatározott különös szabályok szerinti adózás alkalmazása esetében;
 
-i) az alkalmazott adó mértéke;
+i) az adó alapja, továbbá az értékesített termék adó nélküli egységára vagy a nyújtott szolgáltatás adó nélküli egységára, ha az természetes mértékegységben kifejezhető, valamint az alkalmazott árengedmény, feltéve, hogy azt az egységár nem tartalmazza;
 
-j) az áthárított adó, kivéve, ha annak feltüntetését e törvény kizárja;
+j) az alkalmazott adó mértéke;
 
-k) adómentesség esetében, valamint abban az esetben, ha adófizetésre a termék beszerzője, szolgáltatás igénybevevője kötelezett, jogszabályi hivatkozás vagy bármely más, de egyértelmű utalás arra, hogy a termék értékesítése, szolgáltatás nyújtása
+k) az áthárított adó, kivéve, ha annak feltüntetését e törvény kizárja;
 
-ka) mentes az adó alól, vagy
+l) az „önszámlázás” kifejezés, ha a számlát a terméket beszerző vagy a szolgáltatást igénybevevő állítja ki;
 
-kb) után a termék beszerzője, szolgáltatás igénybevevője az adófizetésre kötelezett;
+m) adómentesség esetében jogszabályi vagy a Héa-irányelv vonatkozó rendelkezéseire történő hivatkozás vagy bármely más, de egyértelmű utalás arra, hogy a termék értékesítése, szolgáltatás nyújtása mentes az adó alól;
 
-l) új közlekedési eszköz 89. §-ban meghatározott értékesítése esetében az új közlekedési eszközre vonatkozó, a 259. § 25. pontjában meghatározott adatok;
+n) a „fordított adózás” kifejezés, ha adófizetésre a termék beszerzője, szolgáltatás igénybevevője kötelezett;
 
-m) utazásszervezési szolgáltatás nyújtása esetében jogszabályi hivatkozás vagy bármely más, de egyértelmű utalás arra, hogy a XV. fejezetben meghatározott különös szabályokat alkalmazták;
+o) új közlekedési eszköz 89. §-ban meghatározott értékesítése esetében az új közlekedési eszközre vonatkozó, a 259. § 25. pontjában meghatározott adatok;
 
-n) használt ingóság, műalkotás, gyűjteménydarab vagy régiség értékesítése esetében jogszabályi hivatkozás vagy bármely más, de egyértelmű utalás arra, hogy a XVI. fejezet 2. vagy 3. alfejezetében meghatározott különös szabályokat alkalmazták;
+p) a „különbözet szerinti szabályozás – utazási irodák” kifejezés, a XV. fejezetben meghatározott különös szabályok szerinti utazásszervezési szolgáltatás nyújtása esetében;
 
-o) pénzügyi képviselő alkalmazása esetében a pénzügyi képviselő neve, címe és adószáma;
+q) a „különbözet szerinti szabályozás – használt cikkek” vagy a „különbözet szerinti szabályozás – műalkotások”, vagy a „különbözet szerinti szabályozás – gyűjteménydarabok és régisek” kifejezések közül a megfelelő kifejezés, a XVI. fejezetben meghatározott különös szabályok szerinti használt ingóság, műalkotás, gyűjteménydarab vagy régiség értékesítése esetében;
 
-p) pénzforgalmi elszámolás esetén jogszabályi hivatkozás vagy bármely más egyértelmű utalás arra, hogy a XIII/A. Fejezetben meghatározott különös szabályokat alkalmazták.
+r) pénzügyi képviselő alkalmazása esetében a pénzügyi képviselő neve, címe és adószáma.

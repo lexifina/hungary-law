@@ -8,7 +8,7 @@ c) a 224. § (1) bekezdésében említett esetben a választása évét követő
 
 nem térhet el.
 
-(2) Ha a viszonteladó a határnap lejártáig az állami adóhatóságnak másként nem nyilatkozik, választása
+(2) Ha a viszonteladó a határnap lejártáig az állami adóhatóságnak másként nem nyilatkozik, választása a határnapot követően az (1) bekezdésben említett megfelelő időtartammal meghosszabbodik.
 
 a) az (1) bekezdés a) és b) pontjában említett esetben a határnapot követően az ott meghatározott időtartammal meghosszabbodik;
 

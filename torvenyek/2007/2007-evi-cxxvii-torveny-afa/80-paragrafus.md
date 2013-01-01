@@ -20,4 +20,4 @@ b) a Magyar Nemzeti Bank (a továbbiakban: MNB) hivatalosan közzé tesz, felté
 
 (4) Az a kötelezett, aki (amely) élt a (2) bekezdés b) pontjában említett választási jogával, attól a választása évét követő naptári év végéig nem térhet el.
 
-(5) Abban az esetben, ha az adott külföldi pénznemnek nincs – a (2) bekezdés a) pontja szerint – jegyzése, a forintra történő átszámításhoz a külföldi pénznem valamely egységének euróban kifejezett értékét kell alapul venni, amelyet az MNB az (1) bekezdésben meghatározott időpontot megelőző naptári negyedévre vonatkozóan tesz közzé.
+(5) Abban az esetben, ha az adott külföldi pénznemnek nincs – a (2) bekezdés a) pontja szerint – jegyzése, a forintra történő átszámításhoz a külföldi pénznem valamely egységének euróban kifejezett értékét kell alapul venni, amelyet az MNB vagy az Európai Központi Bank (a továbbiakban: EKB) az (1) bekezdésben meghatározott időpontot megelőző naptári negyedévre vonatkozóan tesz közzé.

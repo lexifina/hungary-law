@@ -16,9 +16,9 @@ b) termék beszerzéséhez – ide nem értve a termék 10. § a) pontja szerint
 
 c) számla érvénytelenítése vagy módosítása esetén az alábbiak szerint kell eljárni:
 
-ca) olyan számla érvénytelenítése, vagy ellenérték visszatérítéssel járó módosítása esetén, amelyen a 169. § p) pontja szerint a pénzforgalmi elszámolásra utalás szerepelt, az áthárított adó csökkenését a terméket értékesítő, szolgáltatást nyújtó adóalany fizetendő adót csökkentő tételként, a terméket beszerző, szolgáltatást igénybevevő adóalany fizetendő adót növelő tételként abban az adómegállapítási időszakban veszi figyelembe, amelyben a kötelezett a jogosultnak az ellenértéket visszatéríti,
+ca) olyan számla érvénytelenítése, vagy ellenérték visszatérítéssel járó módosítása esetén, amelyen a 169. § h) pontja szerint a pénzforgalmi elszámolásra utalás szerepelt, az áthárított adó csökkenését a terméket értékesítő, szolgáltatást nyújtó adóalany fizetendő adót csökkentő tételként, a terméket beszerző, szolgáltatást igénybevevő adóalany fizetendő adót növelő tételként abban az adómegállapítási időszakban veszi figyelembe, amelyben a kötelezett a jogosultnak az ellenértéket visszatéríti,
 
-cb) ellenérték fizetési kötelezettséget keletkeztető számlamódosítás esetén, – feltéve, hogy a 169. § p) pontja szerinti pénzforgalmi elszámolásra utalás szerepelt azon a számlán, amelynek adattartalmát az okirat módosítja – a terméket értékesítő, szolgáltatást nyújtó adóalany a módosításból eredően keletkező fizetendő adót az a) pont szerint állapítja meg, a terméket beszerző, szolgáltatást igénybevevő adóalany adólevonási joga is ekkor keletkezik,
+cb) ellenérték fizetési kötelezettséget keletkeztető számlamódosítás esetén, – feltéve, hogy a 169. § h) pontja szerinti pénzforgalmi elszámolásra utalás szerepelt azon a számlán, amelynek adattartalmát az okirat módosítja – a terméket értékesítő, szolgáltatást nyújtó adóalany a módosításból eredően keletkező fizetendő adót az a) pont szerint állapítja meg, a terméket beszerző, szolgáltatást igénybevevő adóalany adólevonási joga is ekkor keletkezik,
 
 cc) a pénzforgalmi elszámolást választó adóalany, az általa befogadott számlának a pénzforgalmi elszámolás időszakában történő érvénytelenítése vagy módosítása esetén a ca) és cb) alpontokban foglaltakat mint a termék beszerzője, szolgáltatás igénybevevője értelemszerűen alkalmazza.
 
@@ -32,7 +32,7 @@ ab) a levonási jog a megfizetett részlet erejéig gyakorolható;
 
 b) az ellenérték jóváírásának, kézhezvételének, megfizetésének kell tekinteni azt is, ha az abból származó követelése vagy kötelezettsége engedményezés, elengedés, tartozásátvállalás miatt vagy más módon szűnik meg.
 
-(4) A (2) bekezdés a) pontja nem alkalmazható arra a termékértékesítésre, szolgáltatásnyújtásra, amely teljesítését tanúsító számlán az adóalany a 169. § p) pontja szerinti hivatkozást, utalást nem tüntette fel.
+(4) A (2) bekezdés a) pontja nem alkalmazható arra a termékértékesítésre, szolgáltatásnyújtásra, amely teljesítését tanúsító számlán az adóalany a 169. § h) pontja szerinti hivatkozást, utalást nem tüntette fel.
 
 (5) A pénzforgalmi elszámolást választó adóalanynak, ha a teljesítés és a fizetendő adó – (2) bekezdés a) pontja szerinti – megállapítása között
 

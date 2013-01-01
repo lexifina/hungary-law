@@ -6,11 +6,11 @@ a) a 200. § (1) bekezdésének a) pontjában említett adóalany részére tör
 
 b) az a) pont alá nem tartozó más személy, szervezet részére történik, számlakibocsátási kötelezettségének úgy tesz eleget, hogy
 
-ba) a 169. § h) pontjában megjelölt adat helyett a kompenzációs felár alapját,
+ba) a 169. § i) pontjában megjelölt adat helyett a kompenzációs felár alapját,
 
-bb) a 169. § i) pontjában megjelölt adat helyett az alkalmazott kompenzációs felár mértékét [201. § (2) bekezdése],
+bb) a 169. § j) pontjában megjelölt adat helyett az alkalmazott kompenzációs felár mértékét [201. § (2) bekezdése],
 
-bc) a 169. § j) pontjában megjelölt adat helyett az áthárított kompenzációs felárat
+bc) a 169. § k) pontjában megjelölt adat helyett az áthárított kompenzációs felárat
 
 tünteti fel.
 

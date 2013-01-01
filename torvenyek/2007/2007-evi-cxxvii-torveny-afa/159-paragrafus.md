@@ -1,7 +1,3 @@
-## X. Fejezet
-
-## SZÁMLÁZÁS
-
 ## Számlakibocsátási kötelezettség
 
 159. § (1) Az adóalany köteles – ha e törvény másként nem rendelkezik – a 2. § a) pontja szerinti termékértékesítéséről, szolgáltatásnyújtásáról a termék beszerzője, szolgáltatás igénybevevője részére, ha az az adóalanytól eltérő más személy vagy szervezet, számla kibocsátásáról gondoskodni.
@@ -21,3 +17,5 @@ c) belföldön kívül, a Közösség területén teljesít termékértékesít�
 d) belföldön kívül harmadik államban teljesít termékértékesítést, szolgáltatásnyújtást, feltéve, hogy az adott ügylet teljesítésével legközvetlenebbül érintett gazdasági célú letelepedési helye belföldön van, gazdasági célú letelepedési hely hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön.
 
 (3) A (2) bekezdés a) és b) pontjában említett esetben a számla annak a termék értékesítésének, szolgáltatás nyújtásának az adatait tartalmazza, amelynek teljesítése fejében járó ellenértékébe az előleg beszámítható.
+
+(4) A számlakibocsátási kötelezettség nem vonatkozik a (2) bekezdés a) és b) pontjában említett esetre, feltéve, hogy az előleget a 89. § szerint adómentes termékértékesítéshez nyújtják.

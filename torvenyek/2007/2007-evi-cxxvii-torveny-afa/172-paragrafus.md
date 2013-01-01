@@ -1,1 +1,1 @@
-172. § A számlán az áthárított adót [169. § j) pontja] – a 80. § szerint meghatározott árfolyam alkalmazásával – forintban kifejezve abban az esetben is fel kell tüntetni, ha az egyéb adatok külföldi pénznemben kifejezettek.
+172. § A számlán az áthárított adót [169. § k) pontja] – a 80. § szerint meghatározott árfolyam alkalmazásával – forintban kifejezve abban az esetben is fel kell tüntetni, ha az egyéb adatok külföldi pénznemben kifejezettek.

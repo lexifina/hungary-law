@@ -1,6 +1,6 @@
 232. § (1) A nyilvános árverés szervezője ilyen minőségében kizárólag olyan számla kibocsátásáról gondoskodhat, amelyben
 
-a) a 169. § h) pontjában megjelölt adatok helyett a 231. § (1) bekezdése a) pontjában meghatározott adatok – egymástól elkülönítetten – szerepelnek;
+a) a 169. § i) pontjában megjelölt adatok helyett a 231. § (1) bekezdése a) pontjában meghatározott adatok – egymástól elkülönítetten – szerepelnek;
 
 b) áthárított adó, illetőleg a 83. §-ban meghatározott százalékérték nem szerepel.
 

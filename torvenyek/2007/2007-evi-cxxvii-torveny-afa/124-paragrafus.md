@@ -28,7 +28,7 @@ k) az italt terhelő előzetesen felszámított adó.
 
 a)
 
-b) a személygépkocsi üzemeltetéséhez, fenntartásához szükséges szolgáltatást,
+b)
 
 c) a lakóingatlan építéséhez, felújításához szükséges szolgáltatást,
 
@@ -53,3 +53,5 @@ b) a mobiltelefon-szolgáltatást (SZJ 64.20.13),
 c) az internetprotokollt alkalmazó, beszédcélú adatátviteli szolgáltatást (SZJ 64.20.16-ból)
 
 terhelő előzetesen felszámított adó összegének 30 százaléka.
+
+(4) A 120. és 121. §-tól függetlenül szintén nem vonható le a személygépkocsi üzemeltetéséhez, fenntartásához szükséges szolgáltatást terhelő előzetesen felszámított adó összegének 50 százaléka.

@@ -12,7 +12,7 @@ d) a gáz Közösség területén levő földgázrendszeren vagy bármely más, 
 
 e) a termék értékesítése a 89., 98–104. és 107–109. §-ok szerint történik;
 
-f) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, az (1) bekezdésben említett adóalany – mint a szolgáltatás igénybevevője – termékén munkát végeznek, majd annak befejezését követően a terméket – az (1) bekezdésben említett adóalany nevére szóló rendeltetéssel – belföldre továbbítják;
+f) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, az (1) bekezdésben említett adóalany – mint a szolgáltatás igénybevevője – termékén szakértői értékelést vagy munkát végeznek, majd annak befejezését követően a terméket – az (1) bekezdésben említett adóalany nevére szóló rendeltetéssel – belföldre továbbítják;
 
 g) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, az (1) bekezdésben említett adóalany a terméket szolgáltatás nyújtása érdekében ideiglenesen használja;
 

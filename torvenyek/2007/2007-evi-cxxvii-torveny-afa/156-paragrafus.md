@@ -1,4 +1,4 @@
-156. § (1) A 155. § (1) bekezdésétől eltérően az adót önadózással állapítja meg az az adófizetésre kötelezett, akinek (amelynek) részére azt – kérelmére – a vámhatóság engedélyezi.
+156. § (1) A 155. § (1) bekezdésétől eltérően – ide nem értve azokat az eseteket, amikor a vámtartozás a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet (a továbbiakban: Vámkódex) 201. cikkében meghatározottaktól eltérően keletkezik – az adót önadózással állapítja meg az az adófizetésre kötelezett, akinek (amelynek) azt kérelmére a vámhatóság engedélyezi.
 
 (2) Az (1) bekezdésben említett engedély megszerzéséhez a következő feltételek teljesülése szükséges:
 
@@ -10,7 +10,7 @@ ba) az ugyanezen időszakban a 2. § a) pontja szerinti összes termékértékes
 
 bb) a 20 milliárd forintot; vagy
 
-c) a kérelmező a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet (a továbbiakban: Vámkódex) végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK bizottsági rendelet (a továbbiakban: Vámvégrehajtási-rendelet) 14a. cikke (1) bekezdésének a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkezik; vagy
+c) a kérelmező a Vámkódex végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK bizottsági rendelet (a továbbiakban: Vámvégrehajtási-rendelet) 14a. cikke (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkezik; vagy
 
 d) a kérelmező a Vámkódex 76. cikke (1) bekezdésének c) pontja szerinti egyszerűsített eljárásra vonatkozó, szabad forgalomba bocsátáshoz kiadott engedéllyel rendelkezik.
 

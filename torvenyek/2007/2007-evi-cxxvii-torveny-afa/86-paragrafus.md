@@ -32,7 +32,7 @@ l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása.
 
 (2) Az (1) bekezdés l) pontja nem alkalmazható:
 
-a) a kereskedelmi szálláshely-szolgáltatás nyújtásának biztosítását szolgáló bérbeadásra;
+a) az olyan bérbeadásra, amely tartalma alapján kereskedelmi szálláshely-szolgáltatás nyújtásának minősül;
 
 b) a közlekedési eszköz elhelyezésének, parkolásának biztosítását szolgáló bérbeadásra;
 

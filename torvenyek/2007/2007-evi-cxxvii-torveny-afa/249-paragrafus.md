@@ -4,6 +4,6 @@
 
 (3) Az elismert harmadik államban letelepedett adóalany az adó-visszatéríttetési kérelmet közvetlenül az állami adóhatósághoz nyújtja be.
 
-(4) Az adó-visszatéríttetési kérelemben közölt információkat, illetőleg az azzal egyidejűleg vagy később megteendő egyéb írásos információkat és nyilatkozatokat magyar, illetőleg angol nyelven lehet megadni.
+(4) Az adó-visszatérítettési kérelemben közölt információkat és az azzal egyidejűleg vagy később megteendő egyéb írásos információkat és nyilatkozatokat magyar, angol, német vagy francia nyelven lehet megadni.
 
 (5) A Közösség más tagállamában, illetőleg az elismert harmadik államban letelepedett adóalanyra vonatkozó adó-visszatéríttetési kérelem kötelező adattartalmát, formátumát és kitöltésének módját külön jogszabály állapítja meg.
