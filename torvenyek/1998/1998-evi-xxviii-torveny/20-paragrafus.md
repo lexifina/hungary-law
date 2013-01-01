@@ -1,4 +1,4 @@
-## A veszélyes állat tartása és szaporítása
+## A veszélyes állatfajok egyedeinek tartása
 
 20. § (1)
 

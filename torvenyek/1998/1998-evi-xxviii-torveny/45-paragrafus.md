@@ -10,4 +10,4 @@ b) vadon élő, nem vadászható állat esetében az egyed a szabadon élésre v
 
 az állatvédelmi hatóság köteles az állat életének fájdalom nélküli kioltásáról gondoskodni. Az állat életének kioltásával kapcsolatban felmerült igazolt költségeket a települési, fővárosban a kerületi önkormányzat köteles megtéríteni. Vadászható állatfaj esetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló, védett állatfaj esetében a természet védelméről szóló törvény szabályait kell alkalmazni.
 
-(2) Állat életének a kioltását az állat tulajdonosa, illetve a természetvédelmi hatóság kezdeményezheti.
+(2)

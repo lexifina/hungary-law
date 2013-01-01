@@ -1,1 +1,7 @@
-33. § Az állatkísérlet végzésére feljogosított és nyilvántartott intézményben munkahelyi állatkísérleti bizottságot (a továbbiakban: MÁB) kell létrehozni, és működtetni. A MÁB tagjait az intézmény vezetője nevezi ki. A MÁB ügyrendjét maga állapítja meg.
+33. § (1) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok, illetve a kérelemben foglalt és jóváhagyott feltételek vagy az engedélyben előírtak meg nem tartása esetén a kísérlet végzését az észlelt hiányosság megszüntetéséig felfüggesztheti, illetve a kísérletre vonatkozó engedélyt visszavonhatja.
+
+(2) Az állatvédelmi hatóság a kísérleti állatok tartásának körülményeiről szóló jogszabályok megsértése, illetve a tartási, tenyésztési engedélyben előírtak meg nem tartása esetén kötelezi az állattartót az észlelt hiányosságok kijavítására, illetve a jogsértés súlyától, a jogsértő állapot időtartamától, ismétlődésétől, és különösen az állatnak okozott sérelem jellegétől függően visszavonhatja a tartási engedélyt, és kötelezi az állattartót az állatállomány megfelelő elhelyezésére. Az elhelyezés eredménytelensége esetén az állat életét megengedett módon ki lehet oltani.
+
+(3) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok, illetve a kérelemben foglalt és jóváhagyott feltételek vagy az engedélyben előírtak két éven belül történő ismételt megsértése esetén a kísérletre vonatkozó engedély visszavonásával egyidejűleg a kísérletet folytató személyt, illetve felhasználó létesítményt – az elkövetett szabályszegés mértékére figyelemmel – a további kísérletek végzésétől határozott időre, de legalább hat hónapra és legfeljebb három évre eltilthatja.
+
+(4) Az (1)–(3) bekezdés szerinti jogkövetkezmény nem járhat hátrányos következményekkel az állatok jólétére nézve.

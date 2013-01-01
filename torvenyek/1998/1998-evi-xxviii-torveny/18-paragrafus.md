@@ -1,1 +1,1 @@
-18. § A kábításnak olyan érzéketlenségi állapotot kell előidéznie, amely addig tart, amíg a levágást követően az állat ki nem vérzik.
+18. § A kábítást úgy kell elvégezni, hogy annak hatása fennmaradjon, amíg a levágást követően az állat ki nem vérzik.

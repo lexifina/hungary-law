@@ -1,5 +1,5 @@
-27. § (1) Az állatkísérlet során felhasznált állatok számát a feltétlenül szükséges mértékre kell csökkenteni. Azt a vizsgálati módszert kell választani, amely előreláthatóan a legkisebb fájdalom okozásával, illetőleg legkisebb élettani, idegi vagy viselkedésbeli károsodás mellett végezhető el.
+27. § (1) Amennyiben lehetséges, az állatkísérlet helyett élő állatok felhasználását nem igénylő, tudományosan elfogadott módszert vagy vizsgálati stratégiát kell alkalmazni.
 
-(2) Az állatkísérletről és az állatot ért beavatkozásról részletes jegyzőkönyvet kell felvenni.
+(2) Az állatkísérlet során felhasznált állatok számát a lehető legnagyobb – a kísérlet eredményességét még nem veszélyeztető – mértékben csökkenteni kell.
 
-(3) Minden kísérletet úgy kell megtervezni, hogy elkerülhető legyen a szükségtelen fájdalom, szenvedés, tartós nélkülözés, illetve maradandó károsodás okozása.
+(3) A tenyésztés, szaporítás, elhelyezés és gondozás, valamint a kísérlet során alkalmazott módszerek tökéletesítésére kell törekedni az állati fájdalom, szenvedés, kín vagy maradandó egészségkárosodás elkerülése vagy a lehető legkisebb mértékűre csökkentése érdekében.

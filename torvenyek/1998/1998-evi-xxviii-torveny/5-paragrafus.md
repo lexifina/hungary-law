@@ -6,6 +6,6 @@
 
 (4) Az állandóan zárt körülmények között tartott állat számára az állattartó köteles az állat szükségleteihez igazodó, megfelelő mozgásteret biztosítani.
 
-(5) A gazdasági haszon céljából tartott állat tartása során előnyben kell részesíteni az állatkímélő technológiákat.
+(5) A gazdasági haszon céljából tartott állat tartása, szállítása és életének kioltása során előnyben kell részesíteni az állatkímélő technológiákat.
 
 (6) A kedvtelésből tartott állat ürülékét az állattartó a közterületről köteles eltávolítani.

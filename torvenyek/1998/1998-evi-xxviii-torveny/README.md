@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-28-00-00
 | 2012-04-14 | 2012. évi XVIII. törvény | 1998-28-00-00.19 |
 | 2012-09-01 | 2012. évi CXXVII. törvény | 1998-28-00-00.20 |
 | 2012-12-28 | 2012. évi CCXIII. törvény | 1998-28-00-00.21 |
+| 2013-01-01 | 2012. évi CCXIII. törvény | 1998-28-00-00.22 |

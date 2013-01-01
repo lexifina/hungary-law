@@ -1,7 +1,11 @@
-28. § (1) Minden állatkísérletet általános vagy helyi érzéstelenítés mellett kell végezni, kivéve, ha ez – arra tekintettel, hogy a kísérlet nem jár fájdalommal, illetőleg szenvedéssel – nem szükséges, illetve az érzéstelenítés a kísérleti állat számára nagyobb megterheléssel járna, mint maga a kísérlet, vagy a kísérlet eredményét értékelhetetlenné tenné.
+28. § (1) Az állatot feltételezhetően érő fájdalom, szenvedés, kín vagy maradandó egészségkárosodás mértéke alapján – e törvény végrehajtására kiadott rendeletben meghatározott módon – minden kísérletet esetileg, e törvény végrehajtására kiadott rendeletben meghatározott kritériumok alapján a következő kategóriák valamelyikébe kell besorolni:
 
-(2) Ha az érzéstelenítés nem lehetséges, akkor fájdalomcsillapítást, vagy egyéb megfelelő módszert kell alkalmazni annak biztosítása érdekében, hogy az állatnak a lehető legkevesebb fájdalmat, szenvedést, tartós nélkülözést vagy károsodást okozzák, valamint egyetlen esetben se legyen az állat jelentős fájdalomnak, szenvedésnek vagy tartós nélkülözésnek kitéve.
+a) érzéstelenítéses-túlaltatásos,
 
-(3) Ha a kábítás után az állat fájdalomérzete visszatér – és a kísérlet célja ezt nem zárja ki – újabb fájdalomcsillapítást kell alkalmazni, vagy ha ez nem lehetséges, az állat életét azonnal, megengedett módon ki kell oltani.
+b) enyhe,
 
-(4) Az állaton végzett ismételt kísérletnek szintén meg kell felelnie az e törvényben foglaltaknak. Az (1)–(3) bekezdés szerinti módszerek alkalmazása nélkül végzett, tartós vagy súlyos szenvedéssel járó kísérlet ugyanazon az állaton ismételten nem végezhető.
+c) mérsékelt,
+
+d) súlyos.
+
+(2) Olyan kísérlet, amely súlyos, várhatóan hosszú ideig tartó és semmilyen módon nem enyhíthető fájdalommal, szenvedéssel vagy kínnal jár, – e törvény végrehajtására kiadott rendeletben meghatározott esetek kivételével – nem végezhető.

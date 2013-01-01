@@ -1,9 +1,17 @@
-31. § (1) Kísérleti célra állatot tenyészteni (szaporítani), tartani az állatvédelmi hatóság engedélyével szabad. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
+31. § (1) Kísérleti célra állatot tenyészteni, szaporítani, beszállítani, tartani az állatvédelmi hatóság engedélyével szabad. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
 
-(2) Kísérlet céljára – külön engedély hiányában – kizárólag e célra tenyésztett állatot szabad felhasználni. Háziasított állatfaj kóbor egyedét kísérlet céljára felhasználni nem szabad.
+(2) Az állatvédelmi hatóság a kísérleti állatot tenyésztőt, beszállítót, tartót és a tenyésztő, tartó létesítményt is nyilvántartásba veszi.
 
-(3) Az állatvédelmi hatóság annak engedélyezi az (1) bekezdés szerinti tevékenység folytatását, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek. Az állatvédelmi hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
+(3) Az engedélyben és a nyilvántartásban meg kell jelölni
 
-(4) Az állatvédelmi hatóság az (1) bekezdés szerinti tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag az (1) bekezdés szerinti tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+a) a törvényben és e törvény végrehajtására kiadott rendeletben foglaltak betartásáért felelős személy,
 
-(5) Az (1) bekezdésben megjelölt szerv a kísérleti állatot tenyésztőt és a tenyésztő létesítményt is nyilvántartásba veszi. A nyilvántartásban meg kell jelölni azt a létesítménynél alkalmazott felelős személyt, aki a telephelyen alkalmas a kísérleti állatállomány megfelelő ellátására. A nyilvántartás a tenyésztő, a forgalmazó és a létesítménynél alkalmazott felelős személy személyes adatai közül a nevet és a levelezési címet tartalmazhatja.
+b) a létesítményben található állatok jólétének és gondozásának felügyeletéért felelős személy,
+
+c) az állatok jólétével és kezelésével kapcsolatban tanácsadói feladatokat ellátó, a laborállat-gyógyászatban jártas állatorvos vagy megfelelően képzett szakértő,
+
+d) a munkahelyi állatjóléti bizottság elnökének
+
+személyes adatai közül a nevét, levelezési címét és az elektronikus levélcímét.
+
+(4) Aki kísérleti állatot tenyészt, szaporít, beszállít vagy felhasznál, köteles nyilvántartást vezetni azon személyek nevéről és címéről, akiktől az állatokat beszerezte és akiknek az állatokat továbbadta. A nyilvántartásban szereplő adatokat öt évig meg kell őrizni.

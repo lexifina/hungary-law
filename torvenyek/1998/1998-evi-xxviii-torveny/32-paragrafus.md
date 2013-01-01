@@ -1,19 +1,25 @@
-## Az állatkísérletek engedélyezése
+## Az állatkísérlet engedélyezése
 
-32. § (1) Az állatkísérlet iránti kérelemben meg kell jelölni azokat a tudományosan megalapozott indokokat, amelyek az állatkísérletet szükségessé teszik.
+32. § (1) Az állatkísérlet engedélyezése iránti kérelmet az állatvédelmi hatóságnak kell elektronikus úton benyújtani.
 
-(2) Az engedélyt határozott időre lehet kiadni.
+(2) Az állatvédelmi hatóság az állatkísérlet végzését határozott időre engedélyezi.
 
-(3) Az élelmiszerlánc-felügyeleti szerv végzi:
+(3) Az állatvédelmi hatóság nyilvántartást vezet a kísérlet végrehajtásáért felelős személyek nevéről, levelezési címéről és elektronikus levélcíméről.
 
-a) az állatkísérlet engedélyezését,
+(4) Az engedélyezés során – a kérelmező által benyújtott dokumentáció, továbbá e törvény végrehajtására kiadott rendelet szerinti szakértői testület véleménye alapján – különösen figyelembe kell venni:
 
-b) az állatkísérlet végzésére jogosultak nyilvántartását.
+a) az állatkísérlet elvégzésének indokoltságát és tudományos megalapozottságát, figyelemmel az állatkísérlet helyett élő állatok felhasználását nem igénylő módszerek alkalmazásának követelményére,
 
-(4) Állatkísérlet engedélyezése iránti kérelem elbírálása során a szakértői testület munkájában nem vehet részt az,
+b) az alkalmazott korszerű módszertan indokoltságát és tudományos megalapozottságát az állatlétszám, a fájdalom, szenvedés, kín és maradandó károsodás lehető legkisebb mértékűre csökkentésének érvényesülése szempontjából,
 
-a) akinek a kérelmére indult az eljárás;
+c) az állatoknak szenvedés, fájdalom vagy kín formájában okozott ártalmat indokolttá teszi-e a várt eredmény – az etikai megfontolásokat is figyelembe véve –, és végeredményben az emberek, állatok és a környezet javát szolgálhatja-e, valamint
 
-b) akinek a kísérlet engedélyezéséhez érdeke fűződik;
+d) a kísérlet személyi és tárgyi feltételeinek rendelkezésre állását.
+
+(5) Állatkísérlet engedélyezése iránti kérelem elbírálása során a szakértői testület munkájában nem vehet részt az,
+
+a) akinek a kérelmére indult az eljárás,
+
+b) akinek a kísérlet engedélyezéséhez érdeke fűződik, vagy
 
 c) aki az a) és b) pontban szereplő személlyel olyan viszonyban áll, amely a testületben való feladata ellátásához szükséges elfogulatlanságát veszélyezteti.
