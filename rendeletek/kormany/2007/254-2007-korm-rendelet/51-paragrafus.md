@@ -16,7 +16,7 @@ f) megvizsgálja, hogy nem áll-e fenn valamely a tulajdonjog átruházását, v
 
 (3)[^84]
 
-(4)[^85] Jogszabállyal, vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, továbbá védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan ingyenes átruházásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges.
+(4)[^85] Jogszabállyal, vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem ingyenes átruházásához a kultúráért felelős miniszter védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan ingyenes átruházásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges.
 
 (5)[^86] Amennyiben a kért ingatlan tulajdonjoga valamely jogszabályi feltétel hiánya miatt – ideértve a (2)–(3) bekezdésben foglaltakat is – nem ruházható át, az MNV Zrt. erről az igénylőt legkésőbb a kezdeményezés megérkezését követő hatvan napon belül értesíti.
 
@@ -30,7 +30,7 @@ f) megvizsgálja, hogy nem áll-e fenn valamely a tulajdonjog átruházását, v
 
 [^83]: Az 51. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^84]: Az 51. § (3) bekezdését a 385/2012. (XII. 19.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^85]: Az 51. § (4) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^85]: Az 51. § (4) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
 [^86]: Az 51. § (5) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
 [^87]: Az 51. § (7) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
 [^88]: Az 51. § (8) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg.
