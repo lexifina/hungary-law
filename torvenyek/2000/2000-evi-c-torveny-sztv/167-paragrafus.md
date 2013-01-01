@@ -26,7 +26,7 @@ j) továbbá minden olyan adat, amelyet jogszabály előír.
 
 (4)
 
-(5) Számviteli bizonylatként alkalmazható az elektronikus aláírásról szóló törvény szerinti legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel ellátott elektronikus dokumentum, irat, ha megfelel e törvény előírásainak. Az elektronikus dokumentumok, iratok bizonylatként történő alkalmazásának feltételeit, hitelességének, megbízhatóságának követelményeit más jogszabály is meghatározhatja.
+(5) Számviteli bizonylatként alkalmazható az elektronikus dokumentum, irat, ha megfelel e törvény előírásainak. Az elektronikus dokumentumok, iratok bizonylatként történő alkalmazásának feltételeit, hitelességének, megbízhatóságának követelményeit más jogszabály is meghatározhatja.
 
 (6) Ha a könyvviteli nyilvántartás mint számviteli bizonylat technikai, optikai eljárás eredménye, biztosítani kell:
 

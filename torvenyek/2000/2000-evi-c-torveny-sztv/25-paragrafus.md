@@ -10,7 +10,15 @@
 
 (6) Az immateriális javak között vagyoni értékű jogként azokat a megszerzett jogokat kell kimutatni, amelyek nem kapcsolódnak ingatlanhoz. Ilyenek különösen: a bérleti jog, a használati jog, a vagyonkezelői jog, a szellemi termékek felhasználási joga, a licencek, továbbá a koncessziós jog, a játékjog, valamint az ingatlanhoz nem kapcsolódó egyéb jogok.
 
-(7) Szellemi termékek közé sorolandók: a találmány, az iparjogvédelemben részesülő javak közül a szabadalom és az ipari minta, a szerzői jogvédelemben részesülő szoftver termékek, az egyéb szellemi alkotások, a jogvédelemben nem részesülő, de titkossága révén monopolizált javak közül a know-how és gyártási eljárás, a védjegy, függetlenül attól, hogy azt vásárolták vagy a vállalkozó állította elő, illetve használatba vették-e azokat vagy sem.
+(7) Szellemi termékek közé sorolandók:
+
+a) az iparjogvédelemben részesülő alkotások (különösen: szabadalom, használati minta, formatervezési minta, know-how, védjegy, földrajzi árujelző, kereskedelmi név),
+
+b) a szerzői jogvédelemben részesülő szerzői művek és szomszédos jogok (különösen: szoftvertermékek, műszaki tervek),
+
+c) a jogvédelemben nem részesülő, de titkosságuk révén monopolizált szellemi javak,
+
+függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (8) Üzleti vagy cégértékként kell kimutatni cégvásárlás esetén a jövőbeni gazdasági haszon reményében teljesített – a 3. § (5) bekezdés 1. pontjában meghatározott – többletkifizetés összegét.
 

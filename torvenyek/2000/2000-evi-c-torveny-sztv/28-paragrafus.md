@@ -14,6 +14,8 @@ a) használatba vételükig azokat az anyagi eszközöket (szerszám, műszer, b
 
 b) a növendék-, a hízó- és az egyéb állatokat, amelyek a termelés (a tartás) költségei eredményeként növekednek, gyarapszik tömegük (súlyuk), függetlenül attól, hogy a vállalkozási tevékenységet mennyi ideig szolgálják,
 
-c) azokat az eszközöket, amelyeket a befektetett eszközök közül – a 23. § (5) bekezdése szerint – átsoroltak.
+c) azokat az eszközöket, amelyeket a befektetett eszközök közül – a 23. § (5) bekezdése szerint – átsoroltak,
+
+d) a használatba vétel időpontjától áruként azokat az értékesítési céllal beszerzett, előállított eszközöket, amelyeket a vállalkozó az értékesítésig (az állományból történő kivonásig) átmenetileg használatba vett.
 
 (4) A készletekre adott előlegként az anyag-, az áruszállítónak, a közvetített szolgáltatást nyújtónak, importbeszerzésnél az importálást végző vállalkozónak ilyen címen átutalt (megfizetett, kiegyenlített) – a levonható előzetesen felszámított általános forgalmi adót nem tartalmazó – összeget kell kimutatni.

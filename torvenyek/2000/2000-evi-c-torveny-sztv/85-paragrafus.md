@@ -48,7 +48,7 @@ m) a behajthatatlannak minősített vásárolt követelés leírt összegét, to
 
 n) a vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – veszteségjellegű – különbözetet;
 
-o) a szerződésben meghatározott fizetési határidőn (esedékességen) belül történt pénzügyi rendezés esetén adott – legfeljebb a késedelmi kamattal arányos, nem számlázott – engedmény összegét;
+o) a szerződésben meghatározott fizetési határidőn (esedékességen) belül történt pénzügyi rendezés esetén adott – a szerződésben meghatározott, a pénzügyileg rendezendő ellenérték 3%-át meg nem haladó, nem számlázott – engedmény összegét;
 
 p) közös tevékenység, közös üzemeltetés esetén a közös költségeknek (ráfordításoknak) a közös tevékenységben, a közös üzemeltetésben részt vevők által – a tárgyévvel kapcsolatosan – megtérített, megtérítendő összegét, illetve a közös tevékenységből, közös üzemeltetésből származó nyereség – tárgyévvel kapcsolatosan – átadott (fizetendő) összegét;
 

@@ -2,9 +2,9 @@
 
 178. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:
 
-a) az államháztartás szervezetei beszámoló készítését, könyvvezetési kötelezettségét, a beszámolás és a könyvvezetés során érvényesítendő sajátos fogalmi meghatározásokat, figyelemmel az államháztartási törvényben foglaltakra;
+a) az államháztartás szervezetei beszámoló készítését, könyvvezetési kötelezettségét, a beszámolás és a könyvvezetés során érvényesítendő sajátos fogalmi meghatározásokat, figyelemmel az államháztartásról szóló törvényben foglaltakra;
 
-b) a Magyar Nemzeti Bank, a hitelintézetek, a pénzügyi vállalkozások, a befektetési vállalkozások, a biztosító intézetek (ideértve a viszontbiztosítókat is), a tőzsde, az elszámolóházi tevékenységet végző szervezet, a befektetési alapok, az egyéb alapok, a foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítésének és könyvvezetésének sajátosságait a Magyar Nemzeti Bank előzetes véleményének kikérésével;
+b) a Magyar Nemzeti Bank, a hitelintézetek, a pénzügyi vállalkozások, a befektetési vállalkozások, a biztosítók (ideértve a viszontbiztosítókat is), a tőzsde, az elszámolóházi tevékenységet végző szervezet, a befektetési alapok, az egyéb alapok, a foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítésének és könyvvezetésének sajátosságait a Magyar Nemzeti Bank előzetes véleményének kikérésével;
 
 c) a 3. § (1) bekezdésének 4. pontja szerinti – a b) pont alá nem tartozó – egyéb szervezetek beszámoló készítésének és könyvvezetésének sajátosságait;
 
@@ -14,7 +14,9 @@ e) a nemzeti számviteli standardok készítésének, kidolgozásának feltétel
 
 f) a végelszámolás számviteli feladatait;
 
-g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait.
+g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait;
+
+h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben szabályozza a mérlegképes könyvelői képesítés szakmai és vizsgakövetelményeit.
 

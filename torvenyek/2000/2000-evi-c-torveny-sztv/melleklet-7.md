@@ -33,3 +33,21 @@ I. Szokásos tevékenységből származó pénzeszköz-változás
 12. Fizetett, fizetendő adó (nyereség után) –
 
 13. Fizetett, fizetendő osztalék, részesedés –
+
+II. Befektetési tevékenységből származó pénzeszköz-változás
+
+(Befektetési cash flow, 14–16. sorok)
+
+14. Befektetett eszközök beszerzése –
+
+15. Befektetett eszközök eladása +
+
+16. Kapott osztalék, részesedés +
+
+III. Pénzügyi műveletekből származó pénzeszköz-változás
+
+(Finanszírozási cash flow, 17–27. sorok)
+
+17. Részvénykibocsátás, tőkebevonás bevétele +
+
+18. Kötvény, hitelviszonyt megtestesítő értékpapír kibocsátásának bevétele +

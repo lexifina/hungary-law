@@ -34,7 +34,7 @@ c) a beruházáshoz, a vagyoni értékű joghoz közvetlenül kapcsolódó – d
 
 d) a beruházás tervezés, a beruházás előkészítés, a beruházás lebonyolítás, az új technológia elsajátítás (a betanítás) díjai, közvetlen költségei;
 
-e) földgáz, villamos energia, ivóvíz beszerzése esetén a földgáz egyetemes szolgáltató, a villamosenergia egyetemes szolgáltató, az ivóvíz-szolgáltató által a földgáz, a villamos energia, az ivóvíz végfelhasználónak (fogyasztónak) történő értékesítésről kiállított számlában szereplő, külön jogszabály szerint kötelezően felszámított díjak, tételek.
+e) földgáz, villamos energia, ivóvíz beszerzése esetén a földgáz egyetemes szolgáltató, a földgázkereskedő, a villamosenergia egyetemes szolgáltató, a villamosenergia-kereskedő, az ivóvíz-szolgáltató által a földgáz, a villamos energia, az ivóvíz végfelhasználónak (fogyasztónak) történő értékesítésről kiállított számlában szereplő, külön jogszabály szerint kötelezően felszámított díjak, tételek.
 
 (5) Építési telek (földterület) és rajta lévő épület, építmény egyidejű beszerzése esetén, amennyiben az épületet, az építményt rendeltetésszerűen nem veszik használatba (az épület, építmény rendeltetésszerűen nem hasznosítható), akkor az épület, építmény beszerzési, bontási költségeit, továbbá a vásárolt teleknek építkezésre alkalmassá tétele érdekében végzett munkák költségeit, ráfordításait a telek (a földterület) értékét növelő beszerzési költségként kell elszámolni a telek (a földterület) bontás utáni (az üres telek) piaci értékének megfelelő összegig, az ezt meghaladó költségeket, ráfordításokat a megvalósuló beruházás (az épület, azépítmény) bekerülési (beszerzési) értékeként kell figyelembe venni.
 

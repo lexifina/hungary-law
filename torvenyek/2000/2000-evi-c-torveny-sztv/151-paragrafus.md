@@ -28,11 +28,13 @@ af) regisztrálási szakterületét;
 
 b) részére az a) pont szerinti kérelem alapján a könyvviteli szolgáltatás végzésére jogosító engedélyt meg kell adni, és egyidejűleg őket a (3) bekezdés szerinti nyilvántartásba fel kell venni, ha
 
-ba) legalább mérlegképes könyvelői szakképesítéssel rendelkeznek,
+ba) mérlegképes könyvelői vagy okleveles könyvvizsgálói szakképesítéssel rendelkeznek,
 
-bb) a ba) pont szerinti szakképesítés megszerzését követően legalább 3 éves számviteli, pénzügyi, ellenőrzési gyakorlatot igazolnak,
+bb) a ba) alpont szerinti szakképesítés megszerzését követően, az a) pont szerinti kérelem benyújtását megelőzően legalább 3 éves, dokumentumokkal alátámasztott számviteli, pénzügyi, vagy ellenőrzési gyakorlattal rendelkeznek,
 
-bc) büntetlen előéletűek, és nem állnak a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+bc) büntetlen előéletűek, és nem állnak a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, valamint
+
+bd) igazolják, hogy az a) pont szerinti kérelem benyújtását megelőző 12 hónapban – a kérelemben megjelölt szakterületre előírt – a 152. § (1) bekezdés szerinti továbbképzési kötelezettséget megfelelően teljesítették.
 
 (6) A könyvviteli szolgáltatás végzésére jogosító engedély visszavonásával egyidejűleg a nyilvántartásból törölni kell azt a természetes személyt,
 
@@ -50,9 +52,9 @@ f) akit jogerős bírói ítélet a cselekvőképességet korlátozó vagy kizá
 
 g) aki elhalálozott.
 
-(7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti:
+(7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:
 
-a) az engedély visszavonását követő 2 év után, ha arra a (6) bekezdés a) pontja miatt,
+a) az engedély visszavonását követően, ha arra a (6) bekezdés a) pontja miatt,
 
 b) a büntetett előélethez fűződő hátrányos jogkövetkezmények alóli mentesülést követően, ha az engedély visszavonására a (6) bekezdés b) pontja miatt,
 
@@ -60,11 +62,19 @@ c) a könyvviteli szolgáltatás körébe tartozó tevékenység vonatkozásába
 
 d) az engedély visszavonását követő 3 év után, ha arra a (6) bekezdés d) pontja miatt,
 
-e) az engedély visszavonását követő 2 év után, ha arra a (6) bekezdés e) pontja miatt,
+e) az engedély visszavonását követően, ha arra a (6) bekezdés e) pontja miatt,
 
 f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt
 
 került sor.
+
+(7a) Ha a könyvviteli szolgáltatást végzők nyilvántartása az engedéllyel rendelkező vonatkozásában egynél több regisztrálási szakterületet tartalmaz, a szakterületek közül törölni kell azt,
+
+a) amelyiket a nyilvántartásban szereplő kér,
+
+b) amelyre vonatkozóan a nyilvántartásban szereplő személy a 151. § (4) bekezdés szerinti kormányrendeletnek az adott szakterületre vonatkozó továbbképzési kötelezettségét nem teljesítette,
+
+feltéve, hogy a törlést követően is legalább egy regisztrálási szakterületet tartalmaz a nyilvántartás az engedéllyel rendelkezőre vonatkozóan.
 
 (8) A könyvviteli szolgáltatást végzők nyilvántartása tartalmazza az engedéllyel rendelkezők
 
