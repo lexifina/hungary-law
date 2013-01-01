@@ -4,13 +4,13 @@ a) a munka törvénykönyvéről szóló 2012. I. törvény (a továbbiakban: Mt
 
 b) az Mt. 21. § (4) bekezdésében, 34. §-ában és 51. § (3) bekezdésében foglalt rendelkezések megsértése miatt, a Met. 6. § (1) bekezdés a), b), e), i) és j) pontjában, 6/A. § (1) bekezdésében és 7. § (1) bekezdésében meghatározott jogkövetkezmény,
 
-c) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 105. § (3) bekezdésében, az Mt. 60. § (1) bekezdésében, 113. §-ában és 114. §-ában foglalt, a nőkre, a fiatal, valamint a megváltozott munkaképességű munkavállalókra vonatkozó előírások megsértése miatt a Met. 6. § (1) bekezdés a), b), e) és j) pontjában és 7. § (1) bekezdésében meghatározott jogkövetkezmény,
+c)[^1]
 
-d)[^1]
+d) az Mt. 53. § (3) bekezdésében, 60. § (1) bekezdésében, 113. §-ában és 114. §-ában foglalt, a nőkre, a fiatal, valamint a megváltozott munkaképességű munkavállalókra vonatkozó előírások megsértése miatt a Met. 6. § (1) bekezdés a), b), e) és j) pontjában és 7. § (1) bekezdésében meghatározott jogkövetkezmény,
 
-e) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 130–139. §-ában, az Mt. 86–114. §-ában, 132–135. §-ában meghatározott szabályok megsértése miatt a Met. 6. § (1) bekezdés a), b), e) és j) pontjában, valamint 7. § (1) bekezdésében meghatározott jogkövetkezmény,
+e)[^2]
 
-f)[^2]
+f) az Mt. 86–135. §-ában meghatározott szabályok megsértése miatt a Met. 6. § (1) bekezdés a), b), e) és j) pontjában, valamint 7. § (1) bekezdésében meghatározott jogkövetkezmény,
 
 g) az Mt. 136–147. §-ában és 154–165. §-ában, az Efo. 4. §-ában, valamint a kötelező legkisebb munkabérről (minimálbér) és a garantált bérminimumról szóló Korm. rendeletben foglaltak és a kollektív szerződés munkabérre vonatkozó rendelkezéseinek megsértése miatt a Met. 6. § (1) bekezdés b), e) és j) pontjában, 6/A. § (1) bekezdésében és 7. § (1) bekezdésében meghatározott jogkövetkezmény,
 
@@ -22,5 +22,5 @@ j) a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséh
 
 alkalmazása esetén van helye.
 
-[^1]: Az 1. § d) pontja a 2. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^2]: Az 1. § f) pontja a 2. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^1]: Az 1. § c) pontját hatályon kívül helyezte a 2. § (3) bekezdése.
+[^2]: Az 1. § e) pontját hatályon kívül helyezte a 2. § (3) bekezdése.
