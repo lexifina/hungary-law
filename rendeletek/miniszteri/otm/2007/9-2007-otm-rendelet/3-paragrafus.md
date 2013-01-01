@@ -1,10 +1,10 @@
-## 2. §[^2] Az egyes területek, valamint a különböző felületminőségek biológiai aktivitásértékét az adott terület hektárban mért területnagyságának és az 1. melléklet szerinti értékmutatójának a szorzata adja.
+## 2. §[^3] Az egyes területfelhasználási egységek és a különböző felületminőségek biológiai aktivitásértékét az adott terület hektárban mért területnagyságának és az 1. melléklet szerinti értékmutatójának a szorzata adja.
 
-## 3. §[^3] A terület eredeti (változtatás előtti) biológiai aktivitásértékét
+## 3. §[^4] A terület eredeti (változtatás előtti) biológiai aktivitásértékét – az 5. §-ban foglalt kivétellel – az 1. mellékletben megadott értékmutatók alkalmazásával kell kiszámítani:
 
-a) hatályos településrendezési eszközök hiányában beépített területen a kialakult állapot, egyéb területen az ingatlan-nyilvántartás szerinti művelési ágak,
+a) hatályos településrendezési eszközök hiányában a beépített területen a kialakult állapotnak, az egyéb területen az ingatlan-nyilvántartásba bejegyzett művelési ág szerinti területfelhasználásnak,
 
-b) hatályos településrendezési eszközök esetében a területfelhasználási egységek és az építési övezeti, valamint az övezeti besorolásból adódó építési használat szerinti
+b) hatályos településrendezési eszközök esetében a területfelhasználási egység besorolásának
 
-[^2]: A 2. § a 18/2010. (V. 13.) NFGM rendelet 5. §-a szerint módosított szöveg.
-[^3]: A 3. § záró szövegrésze a 18/2010. (V. 13.) NFGM rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 2. § a 18/2010. (V. 13.) NFGM rendelet 5. §-a, a 66/2012. (XII. 13.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § a 66/2012. (XII. 13.) BM rendelet 1. §-ával megállapított szöveg.
