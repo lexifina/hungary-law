@@ -1,4 +1,4 @@
-1. melléklet az 5/2010. (VII. 16.) KIM rendelethez[^3]
+1. melléklet az 5/2010. (VII. 16.) KIM rendelethez[^6]
 
 A helyi önkormányzati képviselők és polgármesterek, valamint a kisebbségi önkormányzatok tagjainak választásán használandó nyomtatványok
 
@@ -508,4 +508,4 @@ Melléklet 7. minta
 
 | L |  | ÖNKORMÁNYZATI VÁLASZTÁS |  | 4/… |
 
-[^3]: Az 1. melléklet a 8/2010. (VIII. 18.) KIM rendelet 2. §-a, az 50/2012. (XII. 4.) KIM rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^6]: Az 1. melléklet a 8/2010. (VIII. 18.) KIM rendelet 2. §-a, az 50/2012. (XII. 4.) KIM rendelet 27. § (3) bekezdése szerint módosított szöveg.
