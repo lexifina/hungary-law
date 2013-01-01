@@ -1,3 +1,3 @@
-2. számú melléklet a 99/2002. (XI. 5.) FVM rendelethez[^109]
+2. számú melléklet a 99/2002. (XI. 5.) FVM rendelethez[^110]
 
-[^109]: A 2. számú melléklet a 4/2009. (I. 16.) FVM rendelet 29. §-ával megállapított szöveg.
+[^110]: A 2. számú melléklet a 4/2009. (I. 16.) FVM rendelet 29. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-## 42–43. §[^106]
+## 42–43. §[^107]
 
-[^106]: A 42–43. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 296. pontja hatályon kívül helyezte.
+[^107]: A 42–43. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 296. pontja hatályon kívül helyezte.

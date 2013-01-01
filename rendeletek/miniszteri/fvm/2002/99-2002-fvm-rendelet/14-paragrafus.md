@@ -1,4 +1,4 @@
-## 14. §[^43] A tenyésztési hatóság részletes feladat- és hatásköre az ENAR működtetésével kapcsolatban:
+## 14. §[^44] A tenyésztési hatóság részletes feladat- és hatásköre az ENAR működtetésével kapcsolatban:
 
 a) ellátja az információk biztonságos központi tárolásával, az országos adatbázis működtetésével és fejlesztésével összefüggő valamennyi feladatot az adatvédelmi előírások betartásával;
 
@@ -8,7 +8,7 @@ c) gondoskodik arról, hogy az arra jogosult felhasználóknak az adatbázis hit
 
 d) eljárást kezdeményez az illetékes hatóságnál, ha észleli, hogy e rendelet előírásaitól eltérnek;
 
-e)[^44] az állategészségügyi hatóság egyetértésével elkészíti az Útmutatót.
+e)[^45] az állategészségügyi hatóság egyetértésével elkészíti az Útmutatót.
 
-[^43]: A 14. § bevezető szövegrésze a 119/2007. (X. 18.) FVM rendelet 15. § (9) bekezdése szerint módosított szöveg.
-[^44]: A 14. § e) pontja a 119/2007. (X. 18.) FVM rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^44]: A 14. § bevezető szövegrésze a 119/2007. (X. 18.) FVM rendelet 15. § (9) bekezdése szerint módosított szöveg.
+[^45]: A 14. § e) pontja a 119/2007. (X. 18.) FVM rendelet 15. § (5) bekezdésével megállapított szöveg.

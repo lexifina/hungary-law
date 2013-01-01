@@ -4,7 +4,7 @@
 
 ## 17. § A vágóhíd üzembentartója feladatai és kötelességei:
 
-a)[^47] biztosítja [a b)–c) pontokban foglaltak kivételével], hogy rendes vágásra ne kerüljön az a szarvasmarha, amelyiknek hiányzik vagy azonosításra alkalmatlan a füljelzője, továbbá ha nem kíséri belföldi marhalevél-igazolólap és állategészségügyi bizonyítvány;
+a)[^48] biztosítja [a b)–c) pontokban foglaltak kivételével], hogy rendes vágásra ne kerüljön az a szarvasmarha, amelyiknek hiányzik vagy azonosításra alkalmatlan a füljelzője, továbbá ha nem kíséri belföldi marhalevél-igazolólap és állategészségügyi bizonyítvány;
 
 b) elvégzi az állategészségügyi előírások figyelembevételével az azonnali vágás céljából behozott állat levágását, feltéve hogy ez hetvenkét órán belül végrehajtható;
 
@@ -12,9 +12,9 @@ c) elvégzi az eljáró állatorvos által állategészségügyi igazolással el
 
 d) nyilvántartást vezet a vágóhídon levágott állatokról, ami tartalmazza az ENAR-számot és a vágás időpontját;
 
-e)[^48] az ellenőrző szelvény nélküli igazolólapokra rávezeti a vágóhíd tenyészetkódját, a vágás rendes/nem rendes megjelölését, valamint az állat vágóhídra érkezésének időpontját, kivéve, ha az elektronikus jelentési rendszeren keresztül küldi be ezen adatokat, az igazolólapokat pedig 7 napon belül megküldi a tenyésztési hatóságnak;
+e)[^49] az ellenőrző szelvény nélküli igazolólapokra rávezeti a vágóhíd tenyészetkódját, a vágás rendes/nem rendes megjelölését, valamint az állat vágóhídra érkezésének időpontját, kivéve, ha az elektronikus jelentési rendszeren keresztül küldi be ezen adatokat, az igazolólapokat pedig 7 napon belül megküldi a tenyésztési hatóságnak;
 
 f) gondoskodik a levágott szarvasmarha füljelzőinek megsemmisítéséről.
 
-[^47]: A 17. § a) pontja a 87/2012. (VIII. 27.) VM rendelet 17. § (4) bekezdése szerint módosított szöveg.
-[^48]: A 17. § e) pontja a 4/2009. (I. 16.) FVM rendelet 20. §-ával megállapított szöveg.
+[^48]: A 17. § a) pontja a 87/2012. (VIII. 27.) VM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^49]: A 17. § e) pontja a 4/2009. (I. 16.) FVM rendelet 20. §-ával megállapított szöveg.
