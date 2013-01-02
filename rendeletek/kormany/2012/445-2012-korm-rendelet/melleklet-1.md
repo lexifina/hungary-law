@@ -1,3 +1,5 @@
+## 31. §[^1]
+
 1. melléklet a 445/2012. (XII. 29.) Korm. rendelethez
 
 ## Az elem és az akkumulátor jelölése
@@ -21,3 +23,5 @@ vegyjelet az 5. pontban foglalt módon kell feltüntetni.
 5. A vegyjel mérete az e melléklet szerinti ábra méretének legalább egynegyede, amelyet az ábra alatt kell elhelyezni.
 
 6. A hordozható akkumulátoron, a gépjárműelemen, valamint a gépjármű-akkumulátoron annak kapacitását fel kell tüntetni.
+
+[^1]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
