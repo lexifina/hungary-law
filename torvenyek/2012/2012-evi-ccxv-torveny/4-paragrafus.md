@@ -1,3 +1,0 @@
-4. § Az Fktv. 12. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az akkreditációs eljárás alapfeltétele, hogy a felnőttképzést folytató intézmény legalább egy, általa már megvalósított akkreditált képzési programmal rendelkezzen, továbbá hogy a képzés mellett felnőttképzési tevékenységhez kapcsolódó szolgáltatást is nyújtson. Nem kaphat intézményakkreditációt az a felnőttképzést folytató intézmény, amelynek vezető tisztségviselője az intézményakkreditációs kérelem benyújtását megelőző két éven belül olyan felnőttképzési tevékenységet folytató intézmény vezető tisztségviselője volt, amelynek akkreditációját a FAT jogerős határozatával visszavonta.”
