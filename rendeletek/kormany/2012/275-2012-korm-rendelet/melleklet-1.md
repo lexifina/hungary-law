@@ -1,3 +1,3 @@
-1. melléklet a 275/2012. (IX. 28.) Korm. rendelethez[^3]
+1–2. melléklet a 275/2012. (IX. 28.) Korm. rendelethez[^6]
 
-[^3]: Az 1. melléklet a 416/2012. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^6]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
