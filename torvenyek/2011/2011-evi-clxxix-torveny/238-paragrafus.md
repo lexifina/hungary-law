@@ -2,7 +2,7 @@
 
 a)
 
-b) a 159. § (12) bekezdése, a 160. § (8) bekezdése, a 164. § (1) bekezdése, a 165. § (5)–(11) bekezdése, a 168. §-a és a 182. § (1) bekezdése 2013. január 1-jén,
+b)
 
 c) a 160. § (4) bekezdése, a 161. §-a, a 162. § (2) bekezdése és a 163. §-a 2013. szeptember 1-jén,
 
