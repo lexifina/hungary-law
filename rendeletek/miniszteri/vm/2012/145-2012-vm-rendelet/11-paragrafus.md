@@ -1,1 +1,3 @@
-11. § Hatályát veszti a hulladékolajok kezelésének részletes szabályairól szóló 4/2001. (II. 23.) KöM rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
