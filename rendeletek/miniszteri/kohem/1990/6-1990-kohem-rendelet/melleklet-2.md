@@ -86,7 +86,7 @@
 
 | 59 | 00 | Pótalkatrész kipufogó berendezés | + | – |  |
 
-| A/2. | 70/220 | 2006/69 – | 83 | 05 | Légszennyezés | + | + | K(5) |
+| A/2. |  |  |  |  |  |  |  |  |
 
 | A/2a. | 715/2007 692/2008 582/2011 | 459/2012 | 83 | 06 | Légszennyezés (Euro 5 és 6) könnyű haszongépjárművek / információhoz való hozzáférés | + | + | K(5 |
 
@@ -108,7 +108,7 @@
 
 | A/10. | 72/245 | 2009/19 | 10 | 02 | Elektromágneses összeférhetőség | + | + | – |
 
-| A/11. | 72/306 | 2005/21 | 24 | 03 | Dízelmotorok kipufogógázai | + | + | K |
+| A/11. |  |  |  |  |  |  |  |  |
 
 | A/12. | 74/60 | 2000/4 | 21 | 01 | Belső felszerelés kialakítása | + | – | – |
 
@@ -186,7 +186,7 @@
 
 | 25 | 04 | Fejtámasz | + | – | – |
 
-| A/39. | 80/1268 715/2007 692/2008 | 2004/3 | 101 | 00 | CO2-kibocsátás és tüzelőanyag-fogyasztás | + | + | K |
+| A/39. |  |  |  |  |  |  |  |  |
 
 | A/40. | 80/1269 | 1999/99 595/2009 | 85 | 00 | Motorteljesítmény mérés | + | – | – |
 
@@ -404,7 +404,7 @@
 
 | C/18. | – | – | 80/720 | 2010/62 | Traktorok vezetőüléseinek megközelítése, ajtók, ablakok | – | – |
 
-| C/19. | - | - | 86/297 | 2012/24 | Traktorokhoz alkalmazott leágazó meghajtások | – | – |
+| C/19. | - | - | 86/297 | 2012/24 | Traktorokhoz alkalmazott leágazó meghajtások | - | - |
 
 | C/20. | – | – | 86/298 | 2010/22 | Traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
 
