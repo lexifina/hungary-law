@@ -1,3 +1,0 @@
-## 5. § Az R1. a következő 25. §-sal egészül ki:
-
-## „25. § E rendeletnek a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá tartozó személyek diákkedvezményeiről szóló 319/2001. (XII. 29.) Korm. rendelet és a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény pedagógusokat és oktatókat érintő rendelkezéseinek végrehajtásáról szóló 206/2003. (XII. 10.) Korm. rendelet módosításáról szóló 294/2012. (X. 16.) Korm. rendelet (a továbbiakban: R.) 1. és 2. §-ával, 3. § (2) bekezdésével, valamint 4–6. §-ával megállapított rendelkezéseit – az R. hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
