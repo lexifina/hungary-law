@@ -1,3 +1,0 @@
-## „(6) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő büntetlen előéletű és nem állhat a közügyektől eltiltás hatálya alatt. A kérelmező köteles hatósági bizonyítvánnyal igazolni, hogy a meghatalmazott képviselőként megnevezett személy e feltételeknek megfelel, vagy csatolni e személy hozzájáruló nyilatkozatát arra vonatkozóan, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.”
-
-84. § Az Éhvt. 7. §-a helyébe a következő rendelkezés lép:

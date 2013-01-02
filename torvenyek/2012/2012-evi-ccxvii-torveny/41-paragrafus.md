@@ -6,6 +6,6 @@
 
 (4) Ha a bejegyzett egyéni hitelesítők, hitelesítő szervezetek és az európai közösségi hitelesítők a hatóságnál 2013. január 15. és 2013. április 30-a között adatmódosítást jelentenek be, a hatóság az adatok változásáról soron kívül tájékoztatja a Testületet.
 
-(5) Hatályát veszti az Üht. 6–8. §-a, 10/A–10/D. §-a, 13. §-a, 15–16. §-a, 18–19. §-a és 2. számú melléklete.
+(5)
 
 (6)
