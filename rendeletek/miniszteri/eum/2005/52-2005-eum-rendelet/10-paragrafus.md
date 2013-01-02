@@ -16,6 +16,6 @@ e) a gyógyszer hagyományos használatára vonatkozó adatok elegendőek, így 
 
 (2) Vitaminok vagy ásványi anyagok jelenléte a növényi gyógyszerben nem akadálya az (1) bekezdés szerinti forgalomba hozatali engedély kiadásának, amennyiben a biztonságosság kielégítően bizonyított, és a jelen lévő vitaminok és ásványi anyagok hatása a kérelemben megjelölt javallat tekintetében alárendelt a növényi hatóanyagok hatásához képest.
 
-(3)[^31] Ha a GYEMSZI úgy ítéli meg, hogy a hagyományos növényi gyógyszer megfelel az 5. § vagy a 9. § engedélyezésre vonatkozó feltételeknek, azok szerint kell a forgalomba hozatalát engedélyezni.
+(3)[^34] Ha a GYEMSZI úgy ítéli meg, hogy a hagyományos növényi gyógyszer megfelel az 5. § vagy a 9. § engedélyezésre vonatkozó feltételeknek, azok szerint kell a forgalomba hozatalát engedélyezni.
 
-[^31]: A 10. § (3) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^34]: A 10. § (3) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti kérelemnek az – 1. számú mellékletben foglaltak alapján – tartalmaznia kell:
 
-a)[^13] a kérelmező számlázási és levelezési címét;
+a)[^16] a kérelmező számlázási és levelezési címét;
 
 b) a gyógyszer nevét;
 
@@ -30,7 +30,7 @@ kb) a farmakológiai, toxikológiai és más preklinikai vizsgálatokat,
 
 kc) klinikai vizsgálatokat;
 
-l)[^14] a farmakovigilanciával kapcsolatban:
+l)[^17] a farmakovigilanciával kapcsolatban:
 
 la) a farmakovigilancia-rendszerének összefoglalását, amely az alábbi elemeket tartalmazza:
 
@@ -54,26 +54,26 @@ o) a készítmény és a hatóanyag(ok) minősége értékeléséhez szükséges
 
 p) a tervezett csomagolás mintadarabját vagy annak (színes csomagolás esetén színes) grafikáját;
 
-q)[^15]
+q)[^18] írásos nyilatkozatot arról, hogy a gyógyszer gyártója az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről miniszteri rendeletben foglaltakkal összhangban elvégzett ellenőrzések során meggyőződött arról, hogy a hatóanyag gyártója eleget tett a helyes gyártási gyakorlatra vonatkozó elveknek és iránymutatásoknak, valamint az ellenőrzés napjára való utalást, és annak kifejezett rögzítését, hogy az ellenőrzés eredménye megerősíti, hogy a gyártás megfelel a helyes gyártási gyakorlatra vonatkozó elveknek és iránymutatásoknak;
 
 r) a 15. § (2) bekezdése szerinti dokumentumot;
 
-s)[^16] Magyarországon kívül kiadott forgalomba hozatali engedélyt, az időszakos gyógyszerbiztonsági jelentésekben és a feltételezett mellékhatásokra vonatkozó jelentésekben szereplő, rendelkezésre álló biztonsági adatok összefoglalását, valamint azon EGT-tagállamok jegyzékét, ahol a 2001/83/EK irányelvnek megfelelően benyújtott engedély iránti kérelem elbírálás alatt áll;
+s)[^19] Magyarországon kívül kiadott forgalomba hozatali engedélyt, az időszakos gyógyszerbiztonsági jelentésekben és a feltételezett mellékhatásokra vonatkozó jelentésekben szereplő, rendelkezésre álló biztonsági adatok összefoglalását, valamint azon EGT-tagállamok jegyzékét, ahol a 2001/83/EK irányelvnek megfelelően benyújtott engedély iránti kérelem elbírálás alatt áll;
 
-t)[^17] a kérelmező által a más EGT-tagállamban javasolt, illetve más EGT-tagállam illetékes hatósága által jóváhagyott alkalmazási előírás összefoglalását és a betegtájékoztatót.
+t)[^20] a kérelmező által a más EGT-tagállamban javasolt, illetve más EGT-tagállam illetékes hatósága által jóváhagyott alkalmazási előírás összefoglalását és a betegtájékoztatót.
 
-u)[^18] a más országban hozott elutasító döntés részleteit és az elutasítás indokait.
+u)[^21] a más országban hozott elutasító döntés részleteit és az elutasítás indokait.
 
 (3) A k) pont szerinti gyógyszerészeti, preklinikai és klinikai vizsgálatok eredményeivel kapcsolatos dokumentumokhoz és információkhoz az 1. számú melléklettel összhangban részletes szakértői összefoglalót kell csatolni. A szakértői összefoglalókat megfelelő szakmai képzettséggel rendelkező szakértőnek kell összeállítani. Az összefoglalóhoz csatolni kell a szakértő rövid szakmai önéletrajzát is. A szakértőnek meg kell indokolnia a tudományos irodalom felhasználását az 1. számú melléklettel összhangban.
 
-(4)[^19] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
+(4)[^22] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
 
 (5) A (2) bekezdés b) pontja szerinti gyógyszernév nem lehet azonos más, már forgalomba hozatalra engedélyezett készítmény nevével, és nem hasonlíthat más, már forgalomba hozatalra engedélyezett készítmény nevéhez oly mértékben, hogy azzal összetéveszthető legyen.
 
-[^13]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^14]: Az 5. § (2) bekezdés l) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^15]: Az 5. § (2) bekezdés q) pontját a 15/2012. (VIII. 22.) EMMI rendelet 44. § b) pontja hatályon kívül helyezte.
-[^16]: Az 5. § (2) bekezdés s) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (2) bekezdés t) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (2) bekezdés u) pontját a 15/2012. (VIII. 22.) EMMI rendelet 34. § (3) bekezdése iktatta be.
-[^19]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^16]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (2) bekezdés l) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (2) bekezdés q) pontját a 15/2012. (VIII. 22.) EMMI rendelet 44. § b) pontja hatályon kívül helyezte, újonnan az 53/2012. (XII. 28.) EMMI rendelet 21. §-a iktatta be.
+[^19]: Az 5. § (2) bekezdés s) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (2) bekezdés t) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^21]: Az 5. § (2) bekezdés u) pontját a 15/2012. (VIII. 22.) EMMI rendelet 34. § (3) bekezdése iktatta be.
+[^22]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.

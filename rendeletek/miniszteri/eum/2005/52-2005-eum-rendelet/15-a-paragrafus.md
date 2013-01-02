@@ -1,4 +1,4 @@
-15/A. §[^53] (1) A gyógyszer forgalomba hozatali engedélyét egy vagy több, az alábbiakban felsorolt feltételhez kötötten is meg lehet adni:
+15/A. §[^56] (1) A gyógyszer forgalomba hozatali engedélyét egy vagy több, az alábbiakban felsorolt feltételhez kötötten is meg lehet adni:
 
 a) a kockázatkezelési rendszerben szereplő meghatározott intézkedések végrehajtása a gyógyszer biztonságos alkalmazása érdekében;
 
@@ -12,4 +12,4 @@ e) engedélyezés utáni hatásossági vizsgálat lefolytatása abban az esetben
 
 (2) A GYEMSZI a forgalomba hozatali engedélyben szükség esetén meghatározza a feltételek teljesítésére vonatkozó határidőket.
 
-[^53]: A 15/A. §-t a 15/2012. (VIII. 22.) EMMI rendelet 36. §-a iktatta be.
+[^56]: A 15/A. §-t a 15/2012. (VIII. 22.) EMMI rendelet 36. §-a iktatta be.
