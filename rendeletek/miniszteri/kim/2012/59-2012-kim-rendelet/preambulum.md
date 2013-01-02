@@ -1,1 +1,0 @@
-A statisztikáról szóló 1993. évi XLVI. törvény 26. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, a kormányhivatalokat felügyelő miniszterek kijelöléséről szóló 5/2010. (XII. 23.) ME rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
