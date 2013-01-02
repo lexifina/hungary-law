@@ -12,4 +12,4 @@
 
 (6) Ha a bíró a szolgálati viszonya megszűnéséig több napot volt szabadságon, mint amennyi a bíróságnál töltött időre megilletné, a különbözet idejére kifizetett illetményt, illetve e törvény alapján időarányosan járó juttatások megfelelő részét köteles visszafizetni. A túlfizetés nem követelhető vissza, ha a szolgálati viszony a bíró halála, nyugdíjazása alapján szűnt meg.
 
-(7) A munkáltatói jogkör gyakorlója a bíró kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az 1 évet nem haladhatja meg.
+(7) A munkáltatói jogkör gyakorlója a bíró kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az 1 évet nem haladhatja meg. Különös méltánylást érdemlő esetben az OBH elnöke 1 évet meghaladó időtartamban is engedélyezhet fizetés nélküli szabadságot.
