@@ -1,1 +1,0 @@
-## „p) a Vtv. 1. § (3) bekezdés 3. pontjában meghatározott – megbízható vámadós jogálláshoz kapcsolódó – feltételek fennállásának megállapítása és ellenőrzése, ha a kérelmező székhelye, telephelye, számviteli nyilvántartásának helye, lakóhelye, tartózkodási helye nem Magyarországon van,”

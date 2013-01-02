@@ -1,3 +1,0 @@
-## 23. § A NAV Korm. rendelet 46. §-a a következő (8) bekezdéssel egészül ki:
-
-## „(8) Jogszabályi rendelkezés szerint kiállított bírósági értesítés alapján az eljárási illeték megfizetésére az a megyei (fővárosi) adóigazgatóság hívja fel az adóst, amelynek illetékességi területén az adós lakóhelye, székhelye van. Amennyiben a bírósági értesítés alapján az illeték megfizetésére több adós egyetemlegesen kötelezett, úgy az illeték megfizetésére az a megyei (fővárosi) adóigazgatóság hívja fel az egyetemlegesen kötelezett adóstársakat, amelynek illetékességi területén annak az adósnak a lakóhelye, székhelye van, akinek a nevére kiállított bírósági értesítést az adóhatóság elsőként nyilvántartásba vette.”
