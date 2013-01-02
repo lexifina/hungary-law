@@ -2,7 +2,7 @@
 
 47. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) jelölje ki az előadó-művészeti államigazgatási szervet,
+a) jelölje ki az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezetet,
 
 b) meghatározza az egyes művészi és művészeti munkaköröket, valamint a betöltésükhöz szükséges képesítési és egyéb feltételek részletes szabályait,
 

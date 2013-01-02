@@ -24,7 +24,7 @@ b) az állammal kötött közszolgáltatási szerződéssel rendelkező, nem ön
 
 c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
 
-d) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.
+d) a kijelölt szerv működéséhez szükséges előirányzatot.
 
 ## V. Fejezet
 

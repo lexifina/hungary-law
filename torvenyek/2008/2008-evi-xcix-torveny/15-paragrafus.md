@@ -10,7 +10,7 @@ c) ha az előadó-művészeti szervezetnek nincs fenntartója és nem rendelkezi
 
 részére.
 
-(3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – az előadó-művészeti államigazgatási szerv által történő nyilvántartásba vétel.
+(3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – a kijelölt szerv által történő nyilvántartásba vétel.
 
 (4) A 21. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
 

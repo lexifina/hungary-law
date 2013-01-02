@@ -1,4 +1,4 @@
-6. § (1) Az előadó-művészeti államigazgatási szerv ellátja az előadó-művészeti szervezetek működésével összefüggő következő közigazgatási hatósági és szolgáltatási feladatokat:
+6. § (1) Az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat kormányrendeletben kijelölt szerv (a továbbiakban: kijelölt szerv) látja el. Ennek keretében:
 
 a) az állam által fenntartott és az e törvény szerint támogatást igénylő előadó-művészeti szervezetekről, valamint az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről, azok jogszabályban meghatározott adatairól hatósági nyilvántartást vezet,
 
@@ -14,7 +14,7 @@ f) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jog
 
 (2)
 
-(3) Az előadó-művészeti államigazgatási szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(3) A kijelölt szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 ## III. Fejezet
 

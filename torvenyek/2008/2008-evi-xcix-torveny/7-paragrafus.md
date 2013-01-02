@@ -1,4 +1,4 @@
-7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről az előadó-művészeti államigazgatási szerv nyilvántartást vezet.
+7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről a kijelölt szerv nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -18,4 +18,4 @@ c) az előadó-művészeti szakmai érdek-képviseleti szervezetek esetében a m
 
 (3) Jogszabály az e törvényben meghatározott célok teljesüléséhez szükséges egyéb – a személyes adat körébe nem tartozó – adat nyilvántartásba vételét is előírhatja.
 
-(4) A nyilvántartásban szereplő adatok nyilvánosak, és az előadó-művészeti államigazgatási szerv honlapján hozzáférhetők.
+(4) A nyilvántartásban szereplő adatok nyilvánosak, és a kijelölt szerv honlapján hozzáférhetők.

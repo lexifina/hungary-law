@@ -36,4 +36,4 @@ e)
 
 3. CÍM
 
-Az előadó-művészeti államigazgatási szerv
+Az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezet

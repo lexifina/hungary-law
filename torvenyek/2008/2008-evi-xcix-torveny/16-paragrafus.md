@@ -6,7 +6,7 @@
 
 (4) A fenntartói megállapodásban költségnemenként fel kell tüntetni a feladatteljesítéshez rendelt forrást [3. § (6) bekezdés], több forrás esetén azok egymáshoz viszonyított arányát.
 
-(5) A fenntartó köteles az általa megkötött fenntartói megállapodásokat az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.
+(5) A fenntartó köteles az általa megkötött fenntartói megállapodásokat a kijelölt szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani a kijelölt szerv részére.
 
 2. CÍM
 
