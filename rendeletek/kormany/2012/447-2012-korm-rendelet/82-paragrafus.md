@@ -1,6 +1,4 @@
-## 81. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók 2012. évi illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 138/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A munkáltató által igényelhető működési célú, támogatásértékű bevételként nyújtható támogatás (a továbbiakban: támogatás) mértéke megegyezik az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó foglalkoztatottját az Eütev. 29. §-a alapján megillető visszamenőleges és folyamatos illetmény- vagy bérnövelés – kifizetőt terhelő közterhekkel együttesen értendő – mértékével, illetve – az Eütev. 29. § (19) és (20) bekezdésének alkalmazása körében, 2012. június 30-át, illetve 2012. december 31-ét követően létesített foglalkoztatási jogviszony esetén – az Eütev. 1. mellékletében vagy 3. mellékletében foglalt mértékkel.”
+## 81. §[^36]
 
 ## 12. Záró rendelkezések
 
@@ -13,3 +11,5 @@
 (4) A 71. § és a 74. § 2014. március 1-jén lép hatályba.
 
 (5) Ez a rendelet 2014. március 2-án hatályát veszti.
+
+[^36]: A 81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

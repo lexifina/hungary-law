@@ -1,3 +1,5 @@
-## „(3) A Kormány jóváhagyásra jogosult szervként a GYEMSZI-t jelöli ki az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 2. § (3a) bekezdése szerinti feladat ellátására.”
+## 63–64. §[^25]
 
 ## 11. Egyéb, az egészségüggyel összefüggő kormányrendeletek módosítása
+
+[^25]: A 63–64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
