@@ -10,7 +10,7 @@
 
 (9)[^7] A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet 2. § a) pont aa) alpontjában és b) pontjában meghatározott szerveknek 2011. május 1. napja előtt nyújtott informatikai és telekommunikációs szolgáltatások, az ezzel összefüggésben kötött, 2011. május 1-jén hatályban lévő polgári jogi szerződések, továbbá az átvett feladatokat a munkakörük szerint ellátó foglalkoztatottak továbbfoglalkoztatása tekintetében a Nemzeti Infokommunikációs Szolgáltató Zrt. a Központi Szolgáltatási Főigazgatóság jogutódja.
 
-(10)[^8] A Központi Szolgáltatási Főigazgatóság által a (9) bekezdés szerinti szolgáltatások nyújtásához használt állami tulajdonú eszközöket az MNV Zrt. – a Főigazgatóság vagyonkezelői jogának megszüntetését követően – nem pénzbeli hozzájárulásként a Nemzeti Infokommunikációs Szolgáltató Zrt. tulajdonába adja. A tulajdonba adás megtörténtéig az eszközök használatára a Főigazgatóság és a Nemzeti Infokommunikációs Szolgáltató Zrt. szerződést köt.
+(10)[^8] A Közbeszerzési és Ellátási Főigazgatóság által a (9) bekezdés szerinti szolgáltatások nyújtásához használt állami tulajdonú eszközöket az MNV Zrt. – a Főigazgatóság vagyonkezelői jogának megszüntetését követően – a Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság használatába adja.
 
 (11) A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet 2. § h)–j) pontjában meghatározott feladatokkal összefüggésben kötött, 2011. május 1-jén hatályban lévő polgári jogi szerződések tekintetében, továbbá e feladatokat a munkakörük szerint ellátó foglalkoztatottak továbbfoglalkoztatása tekintetében a Központi Szolgáltatási Főigazgatóság jogutódja a Közgyűjteményi Ellátó Szervezet.
 
@@ -246,5 +246,5 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 [^5]: A 4. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^6]: A 4. § (5)–(8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: A 4. § (9) bekezdése a 300/2012. (X. 26.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^8]: A 4. § (10) bekezdése a 300/2012. (X. 26.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (10) bekezdése a 402/2012. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^9]: A 4. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
