@@ -8,22 +8,25 @@ b) az EGT tagállamon kívülről származó gyógyszer gyártási tételének f
 
 c) gyógyszer-nagykereskedelmi engedéllyel.
 
-(2)[^17] Az emberi felhasználásra kerülő gyógyszerek EGT tagállamokon kívülről történő behozatala esetén – a saját felhasználás céljából történő behozatal, illetve az egészségügyért felelős miniszter rendeletében meghatározott esetek kivételével – a szabad forgalomba bocsátáskor a vámhatóság meggyőződik arról, hogy az importőr rendelkezik az egészségügyért felelős miniszter rendeletében meghatározott gyógyszergyártási engedéllyel.
+(1a)[^17] Az (1) bekezdés alkalmazása során, ha a gyógyszert a nagykereskedő egy másik nagykereskedőtől szerzi be, akkor saját maga meggyőződik arról, hogy a beszállító nagykereskedő követi-e a helyes forgalmazási gyakorlat elveit és iránymutatásait. Ennek keretében meggyőződik arról is, hogy a beszállító nagykereskedő rendelkezik-e nagykereskedelmi engedéllyel. Ha a gyógyszert a nagykereskedő a gyártótól vagy importőrtől szerzi be, akkor meggyőződik arról, hogy a gyártó vagy importőr rendelkezik-e gyártási engedéllyel. Ha a gyógyszer beszerzése közvetítés útján történik, a nagykereskedőnek ellenőriznie kell, hogy az érintett közvetítő teljesíti-e az e rendeletben foglalt követelményeket.
 
-(3)[^18] Igény esetén – az esetleges ellenőrzések miatti késedelem elkerülése érdekében – a GYEMSZI az EGT tagállamba irányuló és onnan származó gyógyszerek gyártási tételei kivitelekor és behozatalakor is kiadja a (2) bekezdés szerinti hatósági bizonyítványokat.
+(2)[^18] Az emberi felhasználásra kerülő gyógyszerek EGT tagállamokon kívülről történő behozatala esetén – a saját felhasználás céljából történő behozatal, illetve az egészségügyért felelős miniszter rendeletében meghatározott esetek kivételével – a szabad forgalomba bocsátáskor a vámhatóság meggyőződik arról, hogy az importőr rendelkezik az egészségügyért felelős miniszter rendeletében meghatározott gyógyszergyártási engedéllyel.
 
-(3a)[^19] Az emberi felhasználásra kerülő gyógyszerek EGT tagállamokon kívüli országba irányuló kivitele esetén – a saját felhasználás céljából történő kivitel, illetve az egészségügyért felelős miniszter rendeletében meghatározott esetek kivételével – a kiviteli ellenőrzéskor a vámhatóság meggyőződik arról, hogy az exportőr rendelkezik az egészségügyért felelős miniszter rendeletében meghatározott gyógyszer-nagykereskedelmi vagy gyógyszergyártási engedéllyel.
+(3)[^19] Igény esetén – az esetleges ellenőrzések miatti késedelem elkerülése érdekében – a GYEMSZI az EGT tagállamba irányuló és onnan származó gyógyszerek gyártási tételei kivitelekor és behozatalakor is kiadja a (2) bekezdés szerinti hatósági bizonyítványokat.
 
-(4)[^20] A nagykereskedelmi engedély jogosultja (a továbbiakban: nagykereskedő) közvetlenül a lakosság részére csak orvosi oxigént és a folyamatos ambuláns peritoniális dialízishez alkalmazott dializáló oldatokat (ún. CAPD oldatokat) szolgáltathat ki.
+(3a)[^20] Az emberi felhasználásra kerülő gyógyszerek EGT tagállamokon kívüli országba irányuló kivitele esetén – a saját felhasználás céljából történő kivitel, illetve az egészségügyért felelős miniszter rendeletében meghatározott esetek kivételével – a kiviteli ellenőrzéskor a vámhatóság meggyőződik arról, hogy az exportőr rendelkezik az egészségügyért felelős miniszter rendeletében meghatározott gyógyszer-nagykereskedelmi vagy gyógyszergyártási engedéllyel.
 
-(5)[^21] Nagykereskedő gyógyszertártól csak az igazoltan általa kiszállított gyógyszert veheti vissza.
+(4)[^21] A nagykereskedelmi engedély jogosultja (a továbbiakban: nagykereskedő) közvetlenül a lakosság részére csak orvosi oxigént és a folyamatos ambuláns peritoniális dialízishez alkalmazott dializáló oldatokat (ún. CAPD oldatokat) szolgáltathat ki.
 
-(6)[^22] Ha a gyógyszertárat működtető gazdasági társaság ellen felszámolási vagy csődeljárás indul, – a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek betartása mellett – a nagykereskedő a gyógyszer gyártására vagy gyógyszer nagykereskedelmi forgalmazására jogosító engedéllyel rendelkező által kiszállított gyógyszert visszaveheti.
+(5)[^22] Nagykereskedő gyógyszertártól csak az igazoltan általa kiszállított gyógyszert veheti vissza.
+
+(6)[^23] Ha a gyógyszertárat működtető gazdasági társaság ellen felszámolási vagy csődeljárás indul, – a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek betartása mellett – a nagykereskedő a gyógyszer gyártására vagy gyógyszer nagykereskedelmi forgalmazására jogosító engedéllyel rendelkező által kiszállított gyógyszert visszaveheti.
 
 [^16]: A 3. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^17]: A 3. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^18]: A 3. § (3) bekezdése a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) és c) pontja szerint módosított szöveg.
-[^19]: A 3. § (3a) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (2) bekezdése iktatta be.
-[^20]: A 3. § (4) bekezdése a 10/2009. (IV. 10.) EüM rendelet 2. §-ával megállapított szöveg.
-[^21]: A 3. § (5) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (3) bekezdése iktatta be.
-[^22]: A 3. § (6) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (3) bekezdése iktatta be.
+[^17]: A 3. § (1a) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
+[^18]: A 3. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^19]: A 3. § (3) bekezdése a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) és c) pontja szerint módosított szöveg.
+[^20]: A 3. § (3a) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (2) bekezdése iktatta be.
+[^21]: A 3. § (4) bekezdése a 10/2009. (IV. 10.) EüM rendelet 2. §-ával megállapított szöveg.
+[^22]: A 3. § (5) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (3) bekezdése iktatta be.
+[^23]: A 3. § (6) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (3) bekezdése iktatta be.

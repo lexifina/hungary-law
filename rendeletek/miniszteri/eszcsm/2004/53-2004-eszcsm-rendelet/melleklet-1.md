@@ -1,12 +1,12 @@
-## való megfelelést szolgálja.
+## való megfelelést szolgálja,
 
 1. számú melléklet az 53/2004. (VI. 2.) ESZCSM rendelethez
 
 ## A gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenység során forgalmazható gyógyszerek
 
-## Ha jogszabály eltérően nem rendelkezik, az alábbi gyógyszerekkel nagykereskedelmi tevékenységet folytatni a GYEMSZI e tevékenységre jogosító engedélye birtokában lehet.[^59]
+## Ha jogszabály eltérően nem rendelkezik, az alábbi gyógyszerekkel nagykereskedelmi tevékenységet folytatni a GYEMSZI e tevékenységre jogosító engedélye birtokában lehet.[^70]
 
-1.[^60] Forgalomba hozatalra engedélyezett
+1.[^71] Forgalomba hozatalra engedélyezett
 
 a) allopátiás
 
@@ -16,7 +16,7 @@ c) radiofarmakon
 
 gyógyszerek.
 
-2.[^61] A Magyar, illetve az Európai Gyógyszerkönyvben szereplő, vagy a GYEMSZI által gyógyszerkészítésre engedélyezett
+2.[^72] A Magyar, illetve az Európai Gyógyszerkönyvben szereplő, vagy a GYEMSZI által gyógyszerkészítésre engedélyezett
 
 a) gyógyszeranyagok,
 
@@ -24,9 +24,9 @@ b) növényi és állati drogok.
 
 3. Orvosi gázok.
 
-4.[^62] Folyamatos ambuláns peritoniális dialízishez alkalmazott dializáló oldatok (ún. CAPD oldatok).
+4.[^73] Folyamatos ambuláns peritoniális dialízishez alkalmazott dializáló oldatok (ún. CAPD oldatok).
 
-[^59]: Az 1. számú melléklet nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^60]: Az 1. számú melléklet 1. pontjának bevezető szövegrésze a 10/2009. (IV. 10.) EüM rendelet 11. § (2) bekezdése, záró szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^61]: Az 1. számú melléklet 2. pontja a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^62]: Az 1. számú melléklet 4. pontja a 10/2009. (IV. 10.) EüM rendelet 9. §-ával megállapított szöveg.
+[^70]: Az 1. számú melléklet nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^71]: Az 1. számú melléklet 1. pontjának bevezető szövegrésze a 10/2009. (IV. 10.) EüM rendelet 11. § (2) bekezdése, záró szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^72]: Az 1. számú melléklet 2. pontja a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^73]: Az 1. számú melléklet 4. pontja a 10/2009. (IV. 10.) EüM rendelet 9. §-ával megállapított szöveg.

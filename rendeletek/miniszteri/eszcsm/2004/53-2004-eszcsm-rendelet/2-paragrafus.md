@@ -18,7 +18,7 @@ d)[^5] minőségi bizonylat: a felelős személy aláírásával, bélyegzőjén
 
 e)[^6] helyes gyártási gyakorlat (GMP): a gyógyszergyártás során irányadó, az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló 44/2005. (X. 19.) EüM rendelet 2. § (2) bekezdésében meghatározott nemzetközi szabályrendszer;
 
-f)[^7] párhuzamos import (parallel import): a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszernek, vagy annak az e rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása az EGT olyan tagállamából, ahol a gyógyszer szintén rendelkezik forgalomba hozatali engedéllyel;
+f)[^7]
 
 g)[^8]
 
@@ -40,7 +40,7 @@ n)[^15] párhuzamos importtevékenység: gyógyszer-nagykereskedelmi engedéllye
 [^4]: A 2. § (2) bekezdés a) pontja a 10/2012. (VII. 19.) EMM rendelet 12. §-ával megállapított szöveg.
 [^5]: A 2. § (2) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított, a 10/2012. (VII. 19.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § (2) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés f) pontját az 53/2012. (XII. 28.) EMMI rendelet 10. § a) pontja hatályon kívül helyezte.
 [^8]: A 2. § (2) bekezdés g) pontját a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^9]: A 2. § (2) bekezdés h) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^10]: A 2. § (2) bekezdés i) pontját a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte.
