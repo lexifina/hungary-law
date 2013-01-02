@@ -1,3 +1,0 @@
-## 23. § Az ingatlanok forgalmi értékadatainak szolgáltatási rendjéről és az adatszolgáltatás igazgatási szolgáltatási díjáról szóló 33/2007. (XII. 23.) PM rendelet (a továbbiakban: R4.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az állami adóhatóság az ingatlan forgalmi értékének megállapításához szükséges, a visszterhes vagyonátruházási illeték kiszabása során felvett adatokat tartalmazó nyilvántartásából kérelemre, az 1. számú mellékletben megállapított igazgatási szolgáltatási díj ellenében, a 10. §-ban meghatározott adatszolgáltatás kivételével az ingatlantulajdonos személyazonosságának megállapítására alkalmatlan módon, az e rendeletben meghatározott tartalommal adatszolgáltatást teljesít.”
