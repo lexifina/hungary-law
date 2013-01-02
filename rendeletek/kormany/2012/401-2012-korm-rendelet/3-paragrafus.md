@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet 2013. január 1-jén lép hatályba.
 
-3. § Hatályát veszti a szakértői nyilvántartó szerv kijelöléséről szóló 131/2009. (VI. 19.) Korm. rendelet.
+3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
