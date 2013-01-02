@@ -6,6 +6,6 @@
 
 (3) A 26. § (3) bekezdése, valamint a 43. § (2) bekezdése 2013. július 1-jén lép hatályba.
 
-(4)[^6]
+(4)[^26]
 
-[^6]: A 44. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 44. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
