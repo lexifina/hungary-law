@@ -4706,7 +4706,7 @@
 
 ## Tarany
 
-## 14.7.[^15] Siófoki Járási Hivatal
+## 14.7.[^16] Siófoki Járási Hivatal
 
 ## Székhely: Siófok
 
@@ -6056,7 +6056,7 @@
 
 ## Városlőd
 
-## 18.2.[^16] Balatonalmádi Járási Hivatal
+## 18.2.[^17] Balatonalmádi Járási Hivatal
 
 ## Székhely: Balatonalmádi
 
@@ -7044,7 +7044,7 @@
 
 ## Zalavég
 
-2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^17]
+2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^18]
 
 Megállapodás a járási (fővárosi kerületi) hivatalok kialakításához
 
@@ -7414,6 +7414,6 @@ Telefonközpont kapacitás
 
 | Telephely címe | Telefon szolgáltatás típusa | Szolgáltatás azonosítója a partner részéről | Saját telefonközpont | Ha saját telefonközpont, annak a típusa | Kiosztott telefonmellékek száma | További működési mód |
 
-[^15]: Az 1. melléklet 14.7. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^16]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^17]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 66. § (2) bekezdése szerint módosított szöveg.
+[^16]: Az 1. melléklet 14.7. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 1. melléklet 18.2. pontja a 391/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^18]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 66. § (2) bekezdése szerint módosított szöveg.

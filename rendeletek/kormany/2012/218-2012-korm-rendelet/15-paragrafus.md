@@ -4,4 +4,6 @@
 
 (3) E rendelet 7. §-a 2013. október 1-jén lép hatályba.
 
-(4) E rendelet 10. §-a és 12. §-a 2013. január 1-jén hatályát veszti.
+(4)[^15]
+
+[^15]: A 15. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
