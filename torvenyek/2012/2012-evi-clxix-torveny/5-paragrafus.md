@@ -1,3 +1,0 @@
-5. § A Konztv. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, a külföldön kiállított közokirat, illetőleg a külföldi bíróság, közigazgatási szerv, közjegyző vagy közhitelességgel felruházott más személy által hitelesített magánokirat magyarországi felhasználása céljából a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látja el a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát, feltéve, hogy ezen hatóság aláírás- és bélyegzőmintájával rendelkezik. A hivatásos konzuli tisztviselő által diplomáciai felülhitelesítéssel ellátott okirat felhasználható az Európai Unió azon tagállamában is, amely Magyarországgal erre vonatkozó megállapodást köt.”

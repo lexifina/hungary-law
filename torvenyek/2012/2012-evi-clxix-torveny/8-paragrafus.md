@@ -1,1 +1,0 @@
-8. § A Konztv. 5. § (4) és (5) bekezdésében, valamint a 19. § (3) bekezdés b) pontjában a „konzuli kölcsön” szövegrész helyébe a „hazatérési kölcsön”, az 5. § (6) bekezdésében a „konzuli kölcsönre” szövegrész helyébe a „hazatérési kölcsönre” szöveg lép.
