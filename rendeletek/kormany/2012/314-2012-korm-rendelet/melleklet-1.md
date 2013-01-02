@@ -1,4 +1,4 @@
-## lép.
+## 58–63. §[^3]
 
 1. melléklet a 314/2012. (XI. 8.) Korm. rendelethez
 
@@ -275,3 +275,5 @@ A település problémáinak és értékeinek összefoglalója térképi formáb
 3.3.2. szegregált vagy szegregációval veszélyeztetett területek lehatárolása, térképi ábrázolása és helyzetelemzése (potenciális akcióterületek)
 
 3.3.3. egyéb szempontból beavatkozást igénylő területek lehatárolása, térképi ábrázolása és helyzetelemzése (potenciális akcióterületek)
+
+[^3]: Az 58–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
