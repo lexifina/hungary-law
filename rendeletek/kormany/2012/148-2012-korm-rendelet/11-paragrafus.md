@@ -28,7 +28,7 @@ e) ügyfélszolgálati készségfejlesztés.
 
 (4)[^27] A jelentkezők munkába illesztő képzésként a kormányablaknál végzett ügyintézői tevékenység ellátásához szükséges informatikai ismeretek megszerzésére irányuló képzésen vesznek részt. A munkába illesztő képzés elvégzése nem feltétele az (1) bekezdés szerinti képesítés megszerzésének, de a munkakör betöltéséhez szükséges feltétel.
 
-(5) A középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselőnek – a (6) és a (7) bekezdésekben foglalt kivétellel – a kormányablak ügyintézői álláshely betöltését követő legfeljebb öt éven belül felsőfokú igazgatásszervező szakképzettséget kell szereznie.
+(5)[^28] A középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselőnek – a (6) és a (7) bekezdésekben foglalt kivétellel – a kormányablak ügyintézői álláshely betöltését követő legfeljebb hat éven belül felsőfokú igazgatásszervező szakképzettség megszerzésére irányuló hallgatói jogviszonyt kell létesítenie, és a felsőfokú igazgatásszervezői szakképzettséget e hallgatói jogviszony keretében meg kell szereznie.
 
 (6) Annak a középfokú iskolai végzettséggel rendelkező közszolgálati tisztviselőnek, aki a jelentkezési felhívásban meghatározott jelentkezési határidőig betöltötte az ötvenedik életévét, nem kell az (5) bekezdés szerinti szakképzettséget megszereznie.
 
@@ -36,3 +36,4 @@ e) ügyfélszolgálati készségfejlesztés.
 
 [^26]: A 11. § (1) bekezdés a) pontja a 296/2012. (X. 17.) Korm. rendelet 59. § (3) bekezdés f) pontja szerint módosított szöveg.
 [^27]: A 11. § (4) bekezdése a 296/2012. (X. 17.) Korm. rendelet 59. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^28]: A 11. § (5) bekezdése a 402/2012. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.
