@@ -6,6 +6,6 @@
 
 (3) A 49. §-sal módosított Étv. 41. § (1) és (2) bekezdése, a 63. § és a 68. § 2013. július 1-jén lép hatályba.
 
-(4) Az Ngtv. e törvény 71. §-ával megállapított 6/C. § (2) bekezdése 2013. január 1-jén hatályát veszti.
+(4)
 
 (5) E törvény 2013. július 2-án hatályát veszti.

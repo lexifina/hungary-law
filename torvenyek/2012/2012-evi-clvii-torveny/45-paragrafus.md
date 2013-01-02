@@ -1,5 +1,0 @@
-45. § Az Étv. 38/D. §-a helyébe a következő rendelkezés lép:
-
-„38/D. § (1) Jogi személy vagy jogi személyiséggel nem rendelkező szervezet akkor végezhet a 16. §, a 32. §, a 33/A. § és a 38/A–38/C. § szerinti tevékenységet, ha tagja vagy alkalmazottja rendelkezik településtervezési, településrendezési szakértői, építészeti-műszaki tervezői, építésügyi műszaki szakértői, beruházáslebonyolítói, építésügyi igazgatási szakértői, felelős műszaki vezetői, építési műszaki ellenőri vagy energetikai tanúsítói jogosultsággal, és ezt a tevékenységet a jogosultsággal rendelkező személy végzi.
-
-(2) az (1) bekezdésben meghatározott szervezetnek az ott meghatározott tevékenysége folytatásához kormányrendelet felelősségbiztosítást, referenciát vagy a teljesítésre való alkalmasságát igazoló vállalkozásminősítést írhat elő.”

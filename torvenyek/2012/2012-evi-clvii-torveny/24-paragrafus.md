@@ -1,3 +1,0 @@
-24. § Az Étv. 4. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében a Kormány rendeletben megállapíthatja a beépítés szabályait.”
