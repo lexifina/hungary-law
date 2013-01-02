@@ -1,5 +1,3 @@
-## 49. § Hatályát veszti
+49. §[^20]
 
-a) a 100/1997. (VI. 13.) Korm. rendelet 61/B. §-a,
-
-b) a felsőoktatási intézmények felvételi eljárásairól szóló 237/2006. (XI. 27.) Korm. rendelet.
+[^20]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
