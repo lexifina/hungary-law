@@ -1,1 +1,0 @@
-## 4. § Az R2. Melléklete 4. pontjában a „korábbi úti okmány(ok) adatainak hivatalos igazolás formájában történő kiadása” szövegrész helyébe az „a kérelmező saját adatáról hatósági bizonyítvány kiállítása” szöveg lép.
