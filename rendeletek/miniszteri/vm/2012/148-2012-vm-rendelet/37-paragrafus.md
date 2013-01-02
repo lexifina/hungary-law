@@ -1,5 +1,7 @@
-## 36. § Hatályát veszti a birtokhasznosítási bizottság létrehozatalának és működésének rendjéről szóló 108/2002. (XII. 13.) FVM rendelet.
+## 36. §[^5]
 
 37. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2013. január 1-jén lép hatályba.
 
 (2) A 16. § 2013. február 1-jén lép hatályba.
+
+[^5]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

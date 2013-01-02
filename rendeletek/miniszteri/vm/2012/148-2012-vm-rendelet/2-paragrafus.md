@@ -1,1 +1,0 @@
-## „(3a) Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő földhivatal 4/A. § (6) bekezdése szerinti rövidített nevének megjelölését.”
