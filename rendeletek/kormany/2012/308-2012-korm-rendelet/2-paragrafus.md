@@ -1,3 +1,0 @@
-## 1. § Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet (a továbbiakban: R1.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. § 7. pontja szerinti klinikai vizsgálat engedélyezésére a 2. cím, az orvostechnikai eszközökkel kapcsolatos klinikai vizsgálatokra a 3. cím rendelkezései irányadóak.”
