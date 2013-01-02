@@ -1,3 +1,0 @@
-## 9. § A Khvr. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A 12. § (1)–(3) bekezdésében meghatározott esetekben a tevékenység előzetes vizsgálati eljárása vagy az előzetes konzultáció során, ha a tevékenységgel kapcsolatban országhatáron átterjedő jelentős környezeti hatás bekövetkezése – különösen az egyezmény III. függelékében szereplő ismérvek alapján – feltételezhető, a felügyelőség tájékoztatja erről a Minisztériumot és a környezethasználót. A felügyelőség egyidejűleg – határidő tűzésével – felhívja a környezethasználót a kérelem és mellékletei további egy nyomtatott és egy elektronikus példányban történő benyújtására.”
