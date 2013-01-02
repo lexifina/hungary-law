@@ -1,1 +1,0 @@
-## „(4) Ha pótfüzet kiadása válik szükségessé, azt a diplomáciai és konzuli képviselet, illetve a fővárosi és megyei kormányhivatal közreműködésével kell kiadni. A kérelmező választása szerint a diplomáciai és konzuli képviselet, illetve a fővárosi és megyei kormányhivatal a pótfüzetet postai úton is megküldheti.”
