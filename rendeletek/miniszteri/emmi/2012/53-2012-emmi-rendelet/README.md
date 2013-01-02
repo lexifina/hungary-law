@@ -1,0 +1,9 @@
+# 53/2012. (XII. 28.) EMMI rendelet
+
+egyes gyógyszerészeti tárgyú miniszteri rendeleteknek a 2011/62/EU irányelv átültetése érdekében történő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-53-20-5H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-02 | 2012-53-20-5H.1 | 53/2012. (XII. 28.) EMMI rendelet |
