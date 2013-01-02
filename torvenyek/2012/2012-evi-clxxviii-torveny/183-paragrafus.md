@@ -1,3 +1,0 @@
-183. § Az Itv. 20. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Nem tárgya a visszterhes vagyonátruházási illetéknek a haszonélvezet fennmaradása, illetve a használati jog megszerzése, ha az ingatlant az átruházását megelőzően már fennállott és az ingatlan-nyilvántartásba bejegyzett haszonélvezettel, használattal terhelten idegenítik el, vagy az elidegenítés az átruházó haszonélvezetének vagy a használat jogának fenntartásával történik. A tulajdonszerző ilyenkor az (1) bekezdés szerint csökkentett forgalmi érték után fizeti a visszterhes vagyonátruházási illetéket. Ezt a szabályt kell alkalmazni akkor is, ha az ingatlan tulajdonjogát annak haszonélvezője, használója szerzi meg.”

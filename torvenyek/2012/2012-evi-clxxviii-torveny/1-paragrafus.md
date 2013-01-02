@@ -4,14 +4,4 @@
 
 ## 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 1/A. §-a helyébe a következő rendelkezés lép:
-
-„1/A. § (1) Ha a Magyarországon – a kettős adóztatás elkerüléséről szóló egyezmények rendelkezéseit is figyelembe véve – belföldi adóügyi illetőségű magánszemély az adóévben másik államban is adóköteles jövedelmet szerez, az e törvény által biztosított adóalap-kedvezményt, adókedvezményt, adó feletti rendelkezési jogosultságot (e § alkalmazásában a továbbiakban: kedvezmény) csak annyiban érvényesíthet, ha azonos vagy hasonló kedvezmény ugyanarra az időszakra azon másik államban, amelyben a (4) bekezdésben meghatározott jövedelme szintén adóztatható, nem illeti meg.
-
-(2) Az e törvény szerinti korlátozott adókötelezettség alá eső jövedelmet nem terheli magasabb összegű adó annál, mint amelynek fizetésére a magánszemély akkor lenne köteles, ha ő, házastársa és gyermeke(i) belföldi adóügyi illetőségű magánszemélynek minősülnének azzal az eltéréssel, hogy a – a kettős adóztatás elkerüléséről szóló egyezmények rendelkezéseit is figyelembe véve – külföldi adóügyi illetőségű magánszemély kedvezményt abban az esetben érvényesíthet, ha azt törvény vagy nemzetközi szerződés lehetővé teszi.
-
-(3) A kettős adóztatás elkerüléséről szóló egyezmények rendelkezéseinek figyelembevételével külföldi adóügyi illetőségűnek minősülő magánszemély kedvezményt abban az esetben érvényesíthet, ha a (4) bekezdésben meghatározott jogcímen megszerzett, e törvény szerinti adókötelezettség alá eső összes jövedelme eléri az adóévben megszerzett összes jövedelmének – ideértve a Magyarországon nem adóztatható jövedelmet is – 75 százalékát, feltéve, hogy az említett magánszemély azonos vagy hasonló kedvezményre azon másik államban, amelyben az adóévben megszerzett (3) bekezdés szerinti jövedelme szintén adóztatható, ugyanazon időszakra nem jogosult.
-
-(4) Az (1)–(3) bekezdésben hivatkozott jövedelem a nem önálló tevékenységből származó jövedelem és az önálló tevékenységből származó jövedelem (ideértve különösen a vállalkozói jövedelmet és a vállalkozói osztalékalapot vagy az átalányadó alapját), valamint a nyugdíj és más hasonló, a korábbi foglalkoztatásra tekintettel megszerzett jövedelem.
-
-(5) Az (1) és (3) bekezdésben meghatározott esetben a kifizető a magánszemély nyilatkozata alapján alkalmazhatja a kedvezményre vonatkozó szabályokat, ideértve különösen az adó, adóelőleg megállapítását. Az (1) és (3) bekezdésben meghatározott esetben a magánszemély kedvezményre való jogosultságának hatósági eljárás során történő igazolására a másik államban érvényesített kedvezményt is tartalmazó, az említett állam joga szerint az adókötelezettség megállapítására szolgáló okirat (így különösen bevallás, határozat) szolgál.”
+1–6. §

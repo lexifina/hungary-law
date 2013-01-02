@@ -1,3 +1,0 @@
-14. § Az Szja tv. 49/B. § (23) bekezdése helyébe a következő rendelkezés lép:
-
-„(23) A (8) bekezdés alkalmazásában jövedelem-(nyereség-)minimum az eladásra beszerzett áruk és az eladott közvetített szolgáltatás értékét nem tartalmazó vállalkozói bevétel 2 százaléka. E § alkalmazásában közvetített szolgáltatás: az egyéni vállalkozó által saját nevében vásárolt és a harmadik személy megrendelővel kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített, továbbszámlázott szolgáltatás, ha ezt az egyéni vállalkozó nyilvántartásai megfelelően alátámasztják.”

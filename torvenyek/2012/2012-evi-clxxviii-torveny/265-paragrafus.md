@@ -1,5 +1,0 @@
-265. § Az Art. 55/B. § helyébe a következő rendelkezés lép:
-
-„55/B. § (1) Az önkormányzati adóhatóság helyi adó és gépjárműadó vonatkozásában a százezer – magánszemélyek esetében az ötvenezer – forintot elérő, 90 napon keresztül folyamatosan fennálló adótartozással rendelkező adózó nevét (elnevezését), lakóhelyét, székhelyét, telephelyét, adóazonosító számát és az adótartozás összegét a helyben szokásos módon közzéteheti.
-
-(2) Az (1) bekezdés alkalmazásában nem tekinthető fennálló adótartozásnak az adótartozás azon része, amely jogerős adóhatósági határozaton alapul, feltéve, hogy a határozat bírósági felülvizsgálatának megindítására nyitva álló határidő még nem telt el, vagy az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen még nem zárult le. Ebben az esetben az adóhatósági határozaton alapuló adótartozás a bírósági felülvizsgálat megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a bírósági eljárás jogerős lezárását követő naptól, az adóhatósági határozat hatályában fenntartott része vonatkozásában tekinthető fennállónak.”

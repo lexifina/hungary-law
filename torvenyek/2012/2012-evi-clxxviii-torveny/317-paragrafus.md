@@ -1,3 +1,0 @@
-317. § Az Szt. 87. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Amennyiben a tárgyévi adózott eredmény nem nyújt fedezetet a jóváhagyott osztalékra, részesedésre, kamatozó részvény utáni kamatra és a szabad eredménytartalék erre igénybe vehető, akkor a szabad eredménytartalékból igénybe vett összeget is be kell állítani az eredménykimutatásba. Ilyen esetben – ha a tárgyévi adózott eredmény negatív – az eredménykimutatásban eredménytartalék igénybevétele osztalékra, részesedésre címen a szabad eredménytartalékból igénybe vett összeget kell kimutatni, míg a mérleg szerinti eredmény a negatív tárgyévi adózott eredménnyel azonos összegű lesz.”

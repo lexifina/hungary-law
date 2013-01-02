@@ -1,3 +1,0 @@
-282. § Az Art. 141. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter kérelemre vagy hivatalból felügyeleti intézkedést tesz, ha az ügyben eljárt adóhatóság határozata, önálló fellebbezéssel megtámadható végzése (intézkedése) jogszabálysértő, vagy a határozat, az önálló fellebbezéssel megtámadható végzés meghozatalára (intézkedésre) jogszabálysértő módon nem került sor. Az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter kérelemre abban az esetben jár el, ha a NAV elnöke felettes szervként az ügyben már döntést hozott.”

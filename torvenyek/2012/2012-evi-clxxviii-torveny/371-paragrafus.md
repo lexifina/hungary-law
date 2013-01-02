@@ -1,3 +1,0 @@
-371. § Az Eat. a következő 467/A. §-sal egészül ki:
-
-„467/A. § E törvény – egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított – 455. § (2) bekezdés h) pontja és 466. § 7. pont m) alpontja visszamenőlegesen 2012. január 1-jétől alkalmazható.”
