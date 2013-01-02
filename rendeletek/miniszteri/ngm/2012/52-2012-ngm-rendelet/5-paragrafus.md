@@ -1,1 +1,0 @@
-## „(9) Ha az adójegy kiadásának – a Jöt.-ben és e rendeletben előírt – feltételei hiányoznak, vagy az adójegy-felhasználónak az állami adó- és vámhatóság felé meg nem fizetett végrehajtható adótartozása van – nem értve ide, ha arra részletfizetést vagy fizetési halasztást engedélyeztek –, a KAVIG a kiadás elutasításáról dönt.”
