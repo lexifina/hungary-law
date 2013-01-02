@@ -1,3 +1,0 @@
-## 37. § A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet 11. melléklet 13. pont f) alpontjában a „kulturális örökségvédelmi irodája” szövegrész helyébe a „építésügyi és örökségvédelmi hivatala” szöveg lép.
-
-## 36. A DUNA-ETANOL Zrt. Bioetanol-Biogáz-Kiserőmű projekt Dunaalmás község közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 60/2010. (III. 18.) Korm. rendelet módosítása

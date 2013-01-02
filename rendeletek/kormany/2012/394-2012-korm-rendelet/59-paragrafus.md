@@ -1,3 +1,0 @@
-## 58. § A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint az ezzel összefüggő egyes kormányrendeletek módosításáról szóló 126/2012. (VI. 26.) Korm. rendelet (a továbbiakban: R46.) 1. és 2. melléklete a 40. melléklet szerint módosul.
-
-## 57. A debreceni Nagyerdei Labdarúgó Stadion rekonstrukciós programjához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes kormányrendeletek módosításáról szóló 166/2012. (VII. 19.) Korm. rendelet módosítása

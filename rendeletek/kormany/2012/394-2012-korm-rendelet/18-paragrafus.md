@@ -1,5 +1,0 @@
-## 16. A környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendelet módosítása
-
-18. § (1) A környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R13.) 32/E. § (3) bekezdés c) pontjában az „a kulturális örökségvédelmi szakigazgatási szervet” szövegrész helyébe az „az illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatalát” szöveg, a „Kulturális Örökségvédelmi Hivatalt” szövegrész helyébe a „ha az eljárás régészeti lelőhelyen, vagy régészeti védőövezet területén megvalósuló tevékenység engedélyezésére irányul, Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalát, ha az eljárás műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő tevékenység engedélyezésére irányul, az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát” szöveg lép.
-
-(2) Az R13. 4. számú melléklete a 10. melléklet szerint módosul.

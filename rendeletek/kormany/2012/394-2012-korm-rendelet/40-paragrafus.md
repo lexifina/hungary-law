@@ -1,3 +1,0 @@
-## 39. § Az EM-Bioetanol Kft. Bioetanol-Biogáz-Kiserőmű projekt Kaba város közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 61/2010. (III. 18.) Korm. rendelet (a továbbiakban: R29.) 1. és 2. melléklete a 25. melléklet szerint módosul.
-
-## 38. A magyar–horvát összekötő földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 173/2010. (V. 13.) Korm. rendelet módosítása

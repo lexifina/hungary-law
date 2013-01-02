@@ -1,1 +1,0 @@
-## 53. Az Erkel Színház előadás tartására alkalmas állapotra történő felújításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 27/2012. (III. 6.) Korm. rendelet módosítása

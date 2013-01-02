@@ -1,3 +1,0 @@
-## 59. § A debreceni Nagyerdei Labdarúgó Stadion rekonstrukciós programjához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes kormányrendeletek módosításáról szóló 166/2012. (VII. 19.) Korm. rendelet (a továbbiakban: R47.) 1. és 2. melléklete a 41. melléklet szerint módosul.
-
-## 58. Az új ferencvárosi labdarúgó stadion megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 173/2012. (VII. 26.) Korm. rendelet módosítása
