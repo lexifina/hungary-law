@@ -1,8 +1,4 @@
-## 6. § A közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 1. § (2) bekezdése a következő f) ponttal egészül ki:
-
-## (Nem terjed ki a rendelet hatálya)
-
-## „f) a Nemzeti Adó- és Vámhivatalnál foglalkoztatott kormánytisztviselőkre.”
+## 6. §[^1]
 
 1. melléklet a 396/2012. (XII. 20.) Korm. rendelethez
 
@@ -377,3 +373,5 @@ XVI. Egyéb munkakörcsoport
 | 10. | 9. szóvivő | I. | kommunikációs | felsőoktatásban szerzett jogi, gazdaságtudományi, igazgatásszervező, informatikai, biomérnöki, környezetmérnöki, vegyészmérnöki, élelmiszermérnöki, környezetgazdálkodási agrármérnöki, bűnügyi igazgatási, rendészeti igazgatási szakképzettség; felsőoktatásban szerzett szakképzettség valamint könyvelés és adózás szakterületen szerzett legalább emeltszintű szakképesítés |
 
 | 11. | 10. tanácsadó | I. | tanácsadói | felsőoktatásban szerzett jogi, gazdaságtudományi, igazgatásszervező, informatikai, biomérnöki, környezetmérnöki, vegyészmérnöki, élelmiszermérnöki, környezetgazdálkodási agrármérnöki, bűnügyi igazgatási, rendészeti igazgatási szakképzettség; felsőoktatásban szerzett szakképzettség valamint könyvelés és adózás szakterületen szerzett legalább emeltszintű szakképesítés |
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.
