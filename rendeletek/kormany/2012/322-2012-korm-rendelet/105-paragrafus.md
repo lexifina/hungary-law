@@ -1,3 +1,5 @@
-## 104. § A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet 1. § (1) bekezdés a) pontjában az „az építésügyi hatósági eljárásokról, valamint a telekalakítási és építészeti-műszaki dokumentációk tartalmáról szóló miniszteri rendelet” szövegrész helyébe az „az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendelet” szöveg, az „elvi létesítési és elvi építési” szövegrész helyébe az „elvi létesítési” szöveg lép.
+## 104. §[^61]
 
 ## 15. A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet módosítása
+
+[^61]: A 104. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

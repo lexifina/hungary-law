@@ -1,7 +1,5 @@
+## 31. §[^15]
+
 ## 5. A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosítása
 
-## 32. § A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet
-
-a) 8/B. § (2) bekezdésének nyitó szövegrészében a „szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények fennmaradásának engedélyezésére, megszüntetésére és fejlesztésére irányuló eljárásban” szövegrész helyébe az „ , valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények építési engedélyezésére, használatbavételi engedélyezésére, fennmaradási engedélyezésére és bontására irányuló hatósági eljárásban” szöveg,
-
-b) 8/B. § (2) bekezdés i) pontjában a „szabályairól szóló kormányrendelet” szövegrész helyébe a „ ,valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet”, a „fővárosi és megyei kormányhivatalt, a másodfokú eljárásban az építésügyért felelős minisztert” szövegrész helyébe a „az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdésében meghatározott első fokú kiemelt építésügyi hatóságot, a másodfokú eljárásban az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (5) bekezdésében meghatározott hatóságot” szöveg
+[^15]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,0 @@
-## 105. § A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet (a továbbiakban: MKER.) 14. §-a helyébe a következő rendelkezés lép:
-
-## „14. § A Hivatal termékinformációs kapcsolattartó pontként – az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló külön jogszabályban meghatározottak szerint – ellátja a 764/2008/EK parlamenti és tanácsi rendeletben, továbbá a 305/2011/EU parlamenti és tanácsi rendeletben meghatározott feladatokat.”

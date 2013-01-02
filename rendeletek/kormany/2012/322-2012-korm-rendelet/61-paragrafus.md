@@ -1,3 +1,3 @@
-## 60. §[^11]
+## 60. §[^36]
 
-[^11]: A 60. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^36]: A 60. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.

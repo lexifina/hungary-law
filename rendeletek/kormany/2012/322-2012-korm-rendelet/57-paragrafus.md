@@ -1,15 +1,6 @@
-57. § (1) Az Épkiv. 3. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+57. § (1)–(2)[^32]
 
-(Az építési szerződés tartalmazza)
+(3)[^33]
 
-## „f) annak rögzítését, hogy az építtető vagy a megrendelő vállalkozó kivitelező, alvállalkozó igénybevételéhez nem járul hozzá,”
-
-(2) Az Épkiv. 3. § (2) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-(Az építési szerződés tartalmazza)
-
-## „k) fővállalkozói szerződés esetén a teljesítésigazolás kiadására jogosult építési műszaki ellenőr, alvállalkozói szerződés esetén a teljesítésigazolás kiadására jogosult felelős műszaki vezető megnevezését,”
-
-(3)[^9]
-
-[^9]: Az 57. § (3) bekezdése a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^32]: Az 57. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: Az 57. § (3) bekezdése a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.

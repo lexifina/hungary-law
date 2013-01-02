@@ -1,3 +1,3 @@
-## 34–35. §[^5]
+## 34–35. §[^18]
 
-[^5]: A 34–35. § a 394/2012. (XII. 20.) Korm. rendelet 66. § (4) bekezdés c) pontja alapján nem lép hatályba.
+[^18]: A 34–35. § a 394/2012. (XII. 20.) Korm. rendelet 66. § (4) bekezdés c) pontja alapján nem lép hatályba.
