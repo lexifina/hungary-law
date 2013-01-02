@@ -6,6 +6,7 @@
 
 (3)[^1]
 
-(4) Hatályát veszti az igazságügyi és rendészeti miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló szakmai vizsga szervezésére feljogosított intézményekről szóló 26/2008. (XI. 20.) IRM rendelet.
+(4)[^2]
 
 [^1]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
