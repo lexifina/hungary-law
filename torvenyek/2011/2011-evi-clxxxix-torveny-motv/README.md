@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2012-12-08 | 2012. évi CXC. törvény | 2011-189-00-00.8 |
 | 2012-12-28 | 2012. évi CCIX. törvény | 2011-189-00-00.9 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2011-189-00-00.10 |
+| 2013-01-02 | 2010. évi CXXX. törvény | 2011-189-00-00.11 |
