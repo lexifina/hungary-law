@@ -4,7 +4,8 @@
 
 6. § (1)–(10)[^3]
 
-(11) A 41/2010. (II. 26.) Korm. rendelet 17/B. §-a a következő (10)–(12) bekezdésekkel egészül ki:
+(11)[^4]
 
 [^2]: A 3–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 6. § (1)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
