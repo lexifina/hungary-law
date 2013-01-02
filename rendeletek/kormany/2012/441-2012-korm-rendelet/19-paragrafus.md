@@ -1,5 +1,5 @@
-## „93/B. § (1) A miniszter a hulladékgazdálkodási közszolgáltatási díj megállapításáért való felelőssége körében előkészíti a díjmegállapításról szóló jogszabályokat.
-
-## (2) A miniszter a hulladékgazdálkodási közszolgáltatási díj megállapításáért való felelőssége körében részt vesz a hulladékgazdálkodás közszolgáltatás területén a települési önkormányzatok és a fogyasztók érdekvédelmi szerveivel való szakmai kapcsolattartásban.”
+## 18. §[^19]
 
 ## 19. A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet módosítása
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
