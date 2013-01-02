@@ -1,1 +1,0 @@
-## „(2a) Ha egyedi határozat a (2) bekezdés a) pontja szerinti előirányzatok vagy a (2) bekezdés b) pontja szerinti forrásokkal biztosított kiadási előirányzatok terhére történő előirányzat-átcsoportosításról rendelkezik, azt a Kincstár által vezetett fizetési számlák közötti (2) bekezdés szerinti átutalással kell végrehajtani.”

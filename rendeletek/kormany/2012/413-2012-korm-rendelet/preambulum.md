@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 1., 2., 4., 6., 8., 11., 15., 16., 17., 18., 23., 24., és 36. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

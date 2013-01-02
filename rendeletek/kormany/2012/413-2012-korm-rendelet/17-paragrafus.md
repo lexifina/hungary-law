@@ -1,1 +1,0 @@
-## „(9a) Az (5a) bekezdés szerinti költségvetési támogatások esetén előleg kifizetésére kizárólag több részletben kerülhet sor, ha a kedvezményezett az előző részlet felhasználását igazolta vagy a 84. § (4a) bekezdése szerint visszafizette.”
