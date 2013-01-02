@@ -1,5 +1,5 @@
-## 1. § A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatáskörének megállapításával kapcsolatos földművelésügyi ágazati jogszabályok módosításáról szóló 19/1992. (I. 28.) Korm. rendelet (a továbbiakban: R1.) 1. §-a a következő (2) bekezdéssel egészül ki, az 1. § szövegének számozása egyidejűleg 1. § (1) bekezdésre változik:
-
-## „(2) A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala látja el a méregjelzésű vagy tűz- és robbanásveszélyes növényvédőszer elvesztésére, elcserélésére, eltulajdonítására, növényvédőszernek élelmiszerbe, takarmányba keveredésére, ivóvízbe, állóvízbe vagy vízfolyásba jutására vonatkozó bejelentésnek az Éltv. 26. § (2) bekezdése szerinti növény- és talajvédelmi szolgálat részére való továbbításával kapcsolatos – külön jogszabályban meghatározott – feladatokat.”
+## 1. §[^2]
 
 ## 2. A közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról a közoktatási intézményekben szóló 138/1992. (X. 8.) Korm. rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

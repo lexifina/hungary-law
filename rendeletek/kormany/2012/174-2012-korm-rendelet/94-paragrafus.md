@@ -6,6 +6,6 @@
 
 (4) E rendelet 2013. február 2-án hatályát veszti.
 
-Melléklet a 174/2012. (VII. 26.) Korm. rendelethez[^57]
+Melléklet a 174/2012. (VII. 26.) Korm. rendelethez[^143]
 
-[^57]: A melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^143]: A melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

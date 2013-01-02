@@ -1,3 +1,5 @@
-## 80. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 1. melléklet h) pontjában az „okmányirodák” szövegrész helyébe a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai” szöveg lép.
+## 80. §[^127]
 
 ## 81. A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet módosítása
+
+[^127]: A 80. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
