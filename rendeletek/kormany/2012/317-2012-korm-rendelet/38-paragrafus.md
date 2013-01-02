@@ -1,3 +1,0 @@
-## 37. § A szociális szolgáltatók és intézmények működésének engedélyezéséről és ellenőrzéséről szóló 321/2009. (XII. 29.) Korm. rendelet 6. §-a a következő (7a) bekezdéssel egészül ki:
-
-## „(7a) Támogatott lakhatás esetén az (5) és (6) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a lakhatási szolgáltatást biztosító különböző ingatlanokra a működési engedély hatályát a működési engedélyben külön meg kell határozni. Ha a lakhatási szolgáltatást biztosító ugyanazon ingatlanra a működési engedély több különböző hatállyal is kiadható, a (7) bekezdésben foglaltakat kell alkalmazni.”
