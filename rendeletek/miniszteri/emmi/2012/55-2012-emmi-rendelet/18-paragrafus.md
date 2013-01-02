@@ -1,5 +1,3 @@
-## 17. § Az R5. 2. melléklete a 23. melléklet szerint módosul.
-
 ## 6. Záró rendelkezések
 
 18. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2013. január 1-jén lép hatályba.

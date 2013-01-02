@@ -1,7 +1,3 @@
-## 9. § Hatályát veszti az R2.
+9. §[^10]
 
-a) 2. § (4) bekezdése,
-
-b) 4. §-a,
-
-c) 7. § (2) bekezdése.
+[^10]: Az 5–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

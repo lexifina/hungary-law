@@ -1,1 +1,3 @@
-## 14. § Az R4. 2. § l) pont le) alpontjában az „a 20. §-ban” szövegrész helyébe az „a 16. §-ban, a 20. §-ban” szöveg lép.
+15. §[^17]
+
+[^17]: A 11–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
