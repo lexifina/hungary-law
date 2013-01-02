@@ -1,5 +1,0 @@
-## 44. § A távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendelet (a továbbiakban: R9.) 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § (1) A külön kezelt intézmény a távhőszolgáltatásért távhőszolgáltató vagy az ellátási területen a korábbi távhőszolgáltató helyett működő új távhőszolgáltató részére a távhőszolgáltató által 2011. március 31-én alkalmazott, általános forgalmi adót nem tartalmazó díjnál 4,2 százalékkal magasabb mértékű – legmagasabb hatósági árnak minősülő – szolgáltatási díjat köteles fizetni.
-
-## (2) A lakossági felhasználó és a díjfizető a távhőszolgáltatásért a távhőszolgáltató vagy az ellátási területen a korábbi távhőszolgáltató helyett működő új távhőszolgáltató részére a távhőszolgáltató által 2012. november 1. napján alkalmazott szolgáltatási díjnál 10 százalékkal alacsonyabb összegű, legmagasabb hatósági árnak minősülő szolgáltatási díjat köteles fizetni.”

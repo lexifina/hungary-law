@@ -1,5 +1,0 @@
-## 8. § Az R2. 12/B. § (1) bekezdése helyébe a következő rendelkezés lép és a § a következő (1a) bekezdéssel egészül ki:
-
-## „(1) A szolgáltató az elszámolási időszakon belül azonos mennyiségről kiállított részszámlák esetében a napok vagy a számlázási hónapok számának arányában (az üzletszabályzatnak megfelelően), egyéb számlákban a fogyasztási jelleggörbe alkalmazásával érvényesíti az I., illetve II. árkategória szerinti díjszabásokat.
-
-## (1a) A 3. § (1) bekezdés a) és b) pontja szerinti felhasználók számára, az adott felhasználási helyre, és az adott naptári évre I. árkategória szerint elszámolt mennyiség csak akkor lehet kevesebb – a 12/A. § (3) bekezdése, illetve a 16/A. § (4) bekezdése szerint – az I. árkategóriában maximálisan vételezhető éves mennyiségnél, ha a felhasználó adott felhasználási helyre és adott naptári évre elszámolt teljes fogyasztása is kevesebb annál. A 12/A. § (5) bekezdése szerinti esetekben a töredék naptári évre elszámolt mennyiség esetében a jelleggörbe szerint arra az időszakra jutó maximálisan vételezhető mennyiség az irányadó.”

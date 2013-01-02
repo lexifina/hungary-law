@@ -1,3 +1,0 @@
-## 27. § Az R6. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Amennyiben az egyetemes szolgáltató az adott negyedévben a Hivatalnak bejelentett, a (10) bekezdésben foglalt földgáz forrásait átvette és – a Hivatal felé igazolt módon – az egyetemes szolgáltatásban vételezők ellátása érdekében vásárol többlet földgáz mennyiséget a volt közüzemi nagykereskedőtől, akkor annak az ára a hatósági árral egyezik meg. Ebben az esetben is azonban kizárólag a nem földgáztárolóból származó, a volt közüzemi nagykereskedő által a nem hazai termelésből beszerzett földgázforrásból igényelhető földgáz.”

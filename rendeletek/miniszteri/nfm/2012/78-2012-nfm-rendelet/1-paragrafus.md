@@ -1,1 +1,0 @@
-## 1. A földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedelmi engedélyesnél felmerült bevételi hiány megtérítésének részletes szabályairól szóló 27/2009. (VI. 25.) KHEM rendelet módosítása

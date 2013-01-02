@@ -1,3 +1,0 @@
-## 26. § Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet (a továbbiakban: R6.) a következő 3/C. §-sal egészül ki:
-
-## „3/C. § A 2. melléklet 2. pontjában szereplő, a volt közüzemi nagykereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége az egyetemes szolgáltatók által a volt közüzemi nagykereskedőtől betárolni kért és számukra rendelkezésre álló földgázmennyiség alapján kerül meghatározásra.”
