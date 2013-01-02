@@ -1,16 +1,4 @@
-## „9/A. § (1) A tűzvédelmi hatóság, amennyiben a helyszíni ellenőrzés eredményeként megállapítja, hogy az ingatlan használója a Ksktv. 7. § (2) bekezdés a) pontja szerinti felszólításban foglalt kötelezettségét nem teljesítette, jogosult megtenni mindazon intézkedéseket, amelyek az élet- és vagyonbiztonság közvetlen veszélyeztetésének elhárításához szükségesek, így különösen a közvetlen veszélyeztetést okozó tüzelő berendezés üzemeltetését megszüntetni, a berendezés és tartozékait lezárni, leplombálni.
-
-## (2) Amennyiben a Ksktv. 7. § (2) bekezdés a) pontja szerinti felszólításban foglalt kötelezettségnek az ingatlan tulajdonosa nem tesz eleget, vele szemben a tűzvédelmi hatóság – az (1) bekezdésben meghatározott intézkedések megtétele mellett – tűzvédelmi bírságot szab ki.
-
-## (3) A tűzvédelmi hatóság helyszíni vizsgálatánál a közszolgáltató köteles képviseletéről gondoskodni.
-
-## (4) A Ksktv.-ben meghatározott közszolgáltatói tevékenységre vonatkozó szabályok megszegése esetén a területi szerv, a Ksktv. 9. § (3) bekezdés d) pontjában meghatározott kötelezettségek megszegése esetén a helyi szerv jogosult a bírság kiszabására.
-
-## 9/B. § (1) A Ksktv. 12. § (3) bekezdésében meghatározott esetekben a tűzvédelmi hatóság felügyeleti jogkörében eljárva a vitás ügyet kivizsgálja. Ha a tűzvédelmi hatóság a kérelemnek helyt ad, írásban, határidő tűzésével felhívja a közszolgáltatót a szakmai nyilatkozat kiadására vagy módosítására.
-
-## (2) Ha a közszolgáltató az (1) bekezdésben meghatározott kötelezettségének a tűzvédelmi hatóság által megadott határidőn belül nem vagy nem a felhívásban meghatározottaknak megfelelően tesz eleget, terhére a tűzvédelmi hatóság tűzvédelmi bírságot szab ki.
-
-## (3) A közszolgáltatóval szemben tűzvédelmi bírságot kiszabó határozatot a tűzvédelmi hatóság az ellátásért felelős önkormányzatnak másolatban megküldi.”
+## 5. §[^1]
 
 1. melléklet a 347/2012. (XII. 11.) Korm. rendelethez
 
@@ -181,3 +169,5 @@ Megjegyzés:
 |  | 4.6. | Helyszíni szaktanácsadás | 1,00/db |
 
 |  | 4.7. | A 4.6. pont alatti tevékenységet további, a 3.5. pont szerinti kiszállási díj terheli |
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
