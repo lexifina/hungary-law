@@ -1,1 +1,3 @@
-## „(4) A (3) bekezdés szerinti továbbképzés teljesítése során a könyvviteli szolgáltatást végzőknek 12 kreditpontot az államháztartási szakterületre minősített speciális továbbképzéseken kell megszerezniük.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
