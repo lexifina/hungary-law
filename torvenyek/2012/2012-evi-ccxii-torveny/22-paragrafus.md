@@ -1,3 +1,0 @@
-22. § Az Ebtv. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egészségügyi szolgáltató a finanszírozás keretében kapott összeget más pénzeszközeitől elkülönítetten kezeli. Az egészségügyi szolgáltató azon számlájának megterheléséhez, amelyre a finanszírozás keretében kapott összeg utalásra került, az e törvény végrehajtásáról szóló rendeletben meghatározott esetben szükséges az egészségügyi szolgáltató fenntartójának és – ha a megterhelést nem az egészségügyi szolgáltató kezdeményezte – az egészségügyi szolgáltatónak az előzetes jóváhagyása. A finanszírozás keretében járó összegnek legfeljebb 10 százaléka engedményezhető.”

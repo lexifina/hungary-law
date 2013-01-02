@@ -1,1 +1,0 @@
-59. § Az Nvt. 8/A. § (2) bekezdésében a „közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.)” szövegrész helyébe a „Ket.” szöveg lép.
