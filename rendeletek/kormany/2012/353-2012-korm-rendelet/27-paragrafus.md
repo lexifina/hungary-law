@@ -1,3 +1,3 @@
-## 26. §[^1]
+## 26. § A mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló 341/2007. (XII. 15.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: A 26. § a 24. § (2) bekezdése alapján 2013. január 2-án lép hatályba.
+## „(1) A jövedékiadó-visszatérítés feltétele, hogy a mezőgazdasági termelő a gázolaj vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről saját nevére szóló, a bevallás benyújtását megelőző öt éven belül kiállított számlával rendelkezzen. A mezőgazdasági termelő e feltétel teljesüléséről, valamint a megművelt termőföldterület, erdő felújítási kötelezettséggel érintett erdő, halastóterület nettó vízfelülete nagyságáról, és ezen területek használatáról az erre a célra a vámhatóság által rendszeresített adóbevallási nyomtatványon nyilatkozik. A gépi bérmunka-szolgáltatás igénybevétele esetén a bérmunkát végző által kibocsátott számlán elkülönítetten kell szerepelnie a tényleges üzemanyag-felhasználás mennyiségének és összegének.”
