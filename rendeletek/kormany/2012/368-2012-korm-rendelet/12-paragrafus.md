@@ -1,3 +1,3 @@
-## 11. § Az R. 14. §-a helyébe a következő rendelkezés lép:
+## 8–11. §[^5]
 
-## „14. § A létesítményi tűzoltók esetében a biztosítási díj forrását a fenntartó köteles biztosítani. A szerződést a létesítményi tűzoltóság fenntartója köti meg.”
+[^5]: A 8–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

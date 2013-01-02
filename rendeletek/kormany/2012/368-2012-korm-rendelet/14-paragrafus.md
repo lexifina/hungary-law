@@ -1,1 +1,3 @@
-## „2. A kárfelmérő adatlap egy példánya a település polgármesteri hivatalánál, közös önkormányzati hivatalt működtető települések esetében a közös önkormányzati hivatalban marad, egy példányt a polgármester megküld a katasztrófavédelmi igazgatóságnak, egy példányát a károsult veszi át.”
+## 13. §[^7]
+
+[^7]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

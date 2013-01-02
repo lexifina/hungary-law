@@ -1,5 +1,3 @@
-## 2. § Az R. 3. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## [A Kormány első fokú tűzvédelmi szakhatóságként a területi szervet jelöli ki]
-
-## „b) a polgári repülőtereket, a metró és földalatti vasúti létesítményeket, valamint az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményeit érintő közigazgatási hatósági eljárásokban,”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
