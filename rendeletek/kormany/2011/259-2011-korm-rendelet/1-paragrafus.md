@@ -30,7 +30,7 @@ h)[^3] lefolytatja a tűzoltó készülékek karbantartása és felülvizsgálat
 
 i)[^4] eljár a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése, kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata, továbbá a tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok távfelügyelete tevékenységgel összefüggő közigazgatási hatósági eljárásokban,
 
-j)[^5] eljár a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény (a továbbiakban: Ksktv.) 12. § (2) bekezdés b) és e) pontjában meghatározott hatósági felügyeleti eljárásokban,
+j)[^5] eljár a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény (a továbbiakban: Ksktv.) 12. § (2) bekezdés b), e) és f) pontjában meghatározott hatósági felügyeleti eljárásokban,
 
 k)[^6] azt a munkavállalót, aki a munkakörével kapcsolatos tűzvédelmi előírásokat, vagy a tűzjelzésre vagy tűzoltásra szolgáló eszközök, felszerelések használatát nem ismeri, a szükséges ismeretek megszerzéséig az ott folytatott tevékenységtől eltiltja,
 
@@ -92,7 +92,7 @@ k)[^16]
 [^2]: Az 1. § (1) bekezdés f) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés h) pontját a 74/2012. (IV. 13.) Korm. rendelet 17. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés i) pontját a 74/2012. (IV. 13.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^5]: Az 1. § (1) bekezdés j) pontját a 347/2012. (XII. 11.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (1) bekezdés j) pontját a 347/2012. (XII. 11.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 368/2012. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés k) pontját a 368/2012. (XII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^7]: Az 1. § (1) bekezdés l) pontját a 368/2012. (XII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^8]: Az 1. § (2) bekezdés a)–b) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés a) pontja hatályon kívül helyezte.

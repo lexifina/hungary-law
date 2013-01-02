@@ -2,6 +2,6 @@
 
 ## 8. Módosuló rendelkezések
 
-17. §[^35]
+17. §[^38]
 
-[^35]: A 17–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 17–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

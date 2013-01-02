@@ -1,3 +1,3 @@
-## 13. §[^33] A biztosítási díj forrását a 10. § és 11. § a) pontjában foglaltak esetében a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium biztosítja. A szerződést a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium köti meg.
+## 13. §[^36] A biztosítási díj forrását a 10. § és 11. § a) pontjában foglaltak esetében a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium biztosítja. A szerződést a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium köti meg.
 
-[^33]: A 13. § a 368/2012. (XII. 17.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^36]: A 13. § a 368/2012. (XII. 17.) Korm. rendelet 10. §-ával megállapított szöveg.
