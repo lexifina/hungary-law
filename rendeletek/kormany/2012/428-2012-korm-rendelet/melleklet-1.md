@@ -1,4 +1,4 @@
-## 17. § Hatályát veszíti a nemzetiségi célú előirányzatokból nyújtott támogatások feltételrendszeréről és elszámolásának rendjéről szóló 28/2012. (III. 6.) Korm. rendelet.
+## 17. §[^2]
 
 1. melléklet a 428/2012. (XII. 29.) Korm. rendelethez
 
@@ -23,3 +23,5 @@ A feladatalapú költségvetési támogatás elbírálásának szempontrendszere
 | Maximális pontszám: 20 pont |
 
 | ELÉRHETŐ ÖSSZES PONTSZÁM: 100 pont |
+
+[^2]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
