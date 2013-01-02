@@ -4,7 +4,7 @@
 
 | 1. | Egysínű függővasúti dízelmozdony-vezető | 30 | 10 | 20 | 3 |
 
-3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^38]
+3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^39]
 
 A vasúti közlekedés biztonságával összefüggő képzések, a képzésben való részvétel feltételei, az alapképzés témakörei, a hatósági vizsgák vizsgatevékenységei, témakörei, a vizsgáztatás feltételei, a képzéssel betölthető munkakörök
 
@@ -278,4 +278,4 @@ e) Vonal- és állomásismereti modul
 
 | 1. | Országos pályahálózatra érvényes általános szakmai ismeretek | – A vizsga időpontjáig betöltött 20. életév – Középiskolai végzettség – A magyar nyelv ismerete | A vasúti közlekedés biztonságával összefüggő témakörök:1. Általános műszaki, elektrotechnikai ismeretek 2. Vasútüzemi technológiák (forgalomszabályozás, forgalombiztonság, munkamódszer) és közlekedésbiztonsági alapismeretek 3. Vasúti pályákra vonatkozó ismeretek 4. Vasúti fékberendezések, féktechnikai alapismeretek 5. Általános vontatójármű ismeretek 6. Általános üzemeltetési ismeretek 7. Vontatott jármű ismeretek Kiegészítő témakörök– Általános munkabiztonsági ismeretek – Elsősegélynyújtás – Tűzvédelmi alapismeretek – Környezetvédelmi alapismeretek – Jogi alapismeretek | Írásbeli, szóbeli1. Általános műszaki, elektrotechnikai ismeretek 2. Vasútüzemi technológiák (forgalomszabályozás, forgalombiztonság, munkamódszer) és közlekedésbiztonsági alapismeretek 3. Vasúti pályákra vonatkozó ismeretek 4. Vasúti fékberendezések, féktechnikai alapismeretek 5. Általános vontatójármű ismeretek 6. Általános üzemeltetési ismeretek 7. Vontatott jármű ismeretek | Vizsgabizottság: – 1 fő vizsgabiztos (a vizsga elnöke) – 1 fő vizsgabiztos (műszaki) – 1 fő vizsgabiztos (forgalmi) | 200 | 40 |
 
-[^38]: A 3. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^39]: A 3. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (3) bekezdése szerint módosított szöveg.
