@@ -1,1 +1,0 @@
-## „(11) A felújítási alap felhasználásának minősül az (5) bekezdés szerinti felújítási munkákon túlmenően a kérelem benyújtását megelőzően felújítási célra felvett kölcsön igazoltan tőke és kamat fizetésére fordított összege, valamint a műszaki ellenőrzésre, a felújításhoz kapcsolódóan elvégzett műszaki vizsgálatokra, a tervdokumentációkra fordított, számlával igazolt összeg.”
