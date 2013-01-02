@@ -1,3 +1,0 @@
-143. § A Kjtv. 5. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hitelintézetek járadéka és a pénzügyi szervezetek különadója üzleti évre (adóévre) fizetett (fizetendő) összege az üzleti év adózás előtti eredményét, a hitelintézetek különadója üzleti évre (adóévre) fizetett (fizetendő) összege az üzleti év adózott eredményét terheli. Az adóévre (az üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetet pénzügyi szervezetek különadója címén az adóévre terhelő, a 4/A. § (7) bekezdésében foglaltak figyelmen kívül hagyásával kiszámított összegből az a rész, amelyet nem számolt el az adóév (az üzleti év) adózás előtti eredményének terhére.”

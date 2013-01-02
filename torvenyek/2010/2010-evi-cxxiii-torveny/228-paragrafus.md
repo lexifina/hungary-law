@@ -1,3 +1,0 @@
-228. § A Gt. a következő 336/A. §-sal egészül ki:
-
-„336/A. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 208. §-a (1) bekezdésének e) pontját, 208. §-a (2) bekezdésének h) pontját a 2011. január 1-jét követően elfogadott alapszabályok esetében kell figyelembe venni.”

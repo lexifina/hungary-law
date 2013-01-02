@@ -1,1 +1,0 @@
-197. § Hatályát veszti az Szt. 60. § (6) bekezdésében a „– a (4) bekezdés szerinti értékeléstől eltérő értékelésből adódó különbözetnek a kiegészítő mellékletben történő bemutatása mellett –„ szövegrész, az Szt. 93. § (1) bekezdésének b) pontjában az „a létesítő okiratban megjelölt” szövegrész, valamint az Szt. 116. § (6) bekezdésében a „ , hiteles fordításban,” szövegrész.

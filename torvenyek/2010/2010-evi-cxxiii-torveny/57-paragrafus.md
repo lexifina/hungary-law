@@ -1,3 +1,0 @@
-57. § Az Áfa tv. 95. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat megtétele során az importálónak meg kell adnia közösségi adószámát, valamint megfelelő okirat (így különösen: szerződés, egyéb kereskedelmi okmány) bemutatásával valószínűsítenie kell az (1) bekezdés a) pontjában meghatározott feltétel teljesülését úgy, hogy abból kitűnjön a Közösség valamely más tagállamában adófizetésre kötelezettként nyilvántartásba vett beszerző neve, címe és az az adószáma, amely alatt e beszerzése után adót kell fizetnie e tagállam joga szerint.”

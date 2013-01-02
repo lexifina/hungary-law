@@ -1,3 +1,0 @@
-134. § Az Itv. 80. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha az 5. § (1) bekezdése szerinti szervezet (alapítvány) közigazgatási hatósági vagy bírósági eljárás kezdeményezésekor, illetve gépjármű, pótkocsi szerzése esetén az illetékmentesség igénybevételére jogosult lett volna, a megfizetett illetéket az adózó kérelmére – az adóvisszatérítés szabályai szerint – az állami adóhatóság visszatéríti. Az eljárási illeték visszatérítése iránti kérelmet az állami adóhatósághoz címezve az eljáró közigazgatási hatóságnál vagy bíróságnál kell benyújtani, mely az eljárási illeték megfizetésének tényét igazolva a kérelmet továbbítja az állami adóhatósághoz.”
