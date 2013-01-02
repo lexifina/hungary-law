@@ -1,3 +1,0 @@
-## 21. § A rendészeti alapvizsgáról és a rendészeti szakvizsgáról, a Rendészeti Alap- és Szakvizsga Bizottságról, valamint a rendészeti alapvizsga vizsgabiztosi és a rendészeti szakvizsga vizsgabizottsági névjegyzékről szóló 274/2012. (IX. 28.) Korm. rendelet 2. § b) pontjában a „más szervhez történő berendelés esetén a berendelés helye szerinti szerv vezetője, más szervhez” szövegrész helyébe az „– a Hszt. 49/D. §-a kivételével – más szervhez” szöveg lép.
-
-## 9. Az Országgyűlési Őrséggel összefüggésben egyes kormányrendeletek, valamint az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet módosításáról szóló 275/2012. (IX. 28.) Korm. rendelet módosítása

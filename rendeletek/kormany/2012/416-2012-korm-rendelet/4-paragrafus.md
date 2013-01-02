@@ -1,3 +1,0 @@
-## 3. § Az R1. 3. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) A (2) bekezdéstől eltérően a Terrorelhárítási Központhoz, valamint a Nemzeti Védelmi Szolgálathoz a Hszt. 49/D. § alapján történő vezénylés esetében a vezénylésről szóló határozatot – a küldő szerv egyetértésével – a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat készíti elő és terjeszti fel a miniszterhez. A vezényléshez történő hozzájárulás céljából a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat vezetője a vezénylésre irányuló szándékról a küldő szerv vezetőjét a vezénylés kezdete előtt legalább 30 nappal tájékoztatja.”
