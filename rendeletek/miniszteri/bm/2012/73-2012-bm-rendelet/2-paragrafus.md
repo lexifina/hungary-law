@@ -1,1 +1,0 @@
-## „9. tűzvédelmi technika: a hivatásos katasztrófavédelmi szerv és az önkormányzati tűzoltóság jogszabályban előírt tűzvédelmi és műszaki mentési alapfeladatainak ellátásához szükséges tűzoltó-technikai termék.”
