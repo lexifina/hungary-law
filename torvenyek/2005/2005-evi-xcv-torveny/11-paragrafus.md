@@ -8,4 +8,4 @@
 
 (4) Az engedély kiadásáról és módosításáról a hatóság a kérelem beérkezését követő naptól számított kilencven napon belül dönt. A nagykereskedelmi engedély visszavonásig érvényes.
 
-(5)
+(5) Abban az esetben, ha a gyógyszert nagykereskedelmi tevékenység keretében harmadik országba szállítják, a nagykereskedőnek gondoskodnia kell arról, hogy a gyógyszereket kizárólag az érintett harmadik országban nagykereskedelmi forgalmazás vagy lakossági ellátás céljára gyógyszerátvételre engedéllyel rendelkező vagy arra jogosult személyeknek adják át.

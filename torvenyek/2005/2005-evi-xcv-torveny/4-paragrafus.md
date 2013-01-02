@@ -10,7 +10,7 @@
 
 (5) A gyógyszerészeti államigazgatási szerv helyszíni szemlét tart, melynek keretében megvizsgálja, hogy a kérelmező rendelkezik-e a gyógyszergyártáshoz szükséges – külön jogszabályban meghatározott – személyi és tárgyi feltételekkel, valamint megfelelő dokumentációs és minőségbiztosítási rendszerrel.
 
-(6) A gyógyszerészeti államigazgatási szerv a kérelemről kilencven napon belül dönt. Az engedély másolatát a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
+(6) A gyógyszerészeti államigazgatási szerv a kérelemről kilencven napon belül dönt.
 
 (6a)
 

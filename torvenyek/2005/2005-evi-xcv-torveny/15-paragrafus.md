@@ -1,4 +1,4 @@
-## Kábítószerként és pszichotróp anyagként minősített gyógyszerekre vonatkozó külön rendelkezések
+## Kábítószerek és pszichotróp anyagok, valamint kábítószerként és pszichotróp anyagként minősített gyógyszerekre és új pszichoaktív anyagokra vonatkozó külön rendelkezések
 
 15. § (1) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély vagy nyilvántartásba vételt követően kiadott hatósági bizonyítvány birtokában folytathatók. Az egészségügyi államigazgatási szerv e rendelkezés szerinti eljárásában hozott döntése ellen fellebbezésnek helye nincs.
 

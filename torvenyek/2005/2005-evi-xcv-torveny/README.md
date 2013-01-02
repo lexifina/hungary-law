@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-95-00-00
 | 2012-07-21 | 2011. évi CLXXVI. törvény | 2005-95-00-00.17 |
 | 2012-07-22 | 2012. évi LXXIX. törvény | 2005-95-00-00.18 |
 | 2013-01-01 | 2012. évi CCXII. törvény | 2005-95-00-00.19 |
+| 2013-01-02 | 2012. évi CCXII. törvény | 2005-95-00-00.20 |
