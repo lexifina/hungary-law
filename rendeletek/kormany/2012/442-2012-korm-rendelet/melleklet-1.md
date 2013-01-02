@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló 94/2002. (V. 5.) Korm. rendelet.
+## 18. §[^1]
 
 1. melléklet a 442/2012. (XII. 29.) Korm. rendelethez
 
@@ -9,3 +9,5 @@
 2. Csomagolásnak kell tekinteni az értékesítés helyén történő megtöltésre tervezett és szánt árucikkeket, továbbá az értékesítés helyén eladott, megtöltött vagy az értékesítés helyén történő megtöltésre tervezett és szánt egyszer használatos (eldobható) árucikkeket, ha azok csomagolási funkciót látnak el.
 
 3. A csomagolásba beépülő egyes alkotóelemeket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelyikbe azokat beépítették. Egy termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemeket csomagolásnak kell tekinteni, kivéve, ha azok a termék szerves részét képezik, és minden alkotóelemet együttes fogyasztásra vagy értékesítésre szánták.
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
