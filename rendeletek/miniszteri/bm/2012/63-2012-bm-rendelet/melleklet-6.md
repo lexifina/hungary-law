@@ -48,6 +48,6 @@
 
 ## aláírás
 
-6. melléklet a 63/2012. (XII. 11.) BM rendelethez[^2]
+6. melléklet a 63/2012. (XII. 11.) BM rendelethez[^3]
 
-[^2]: A 6. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^3]: A 6. melléklet a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.

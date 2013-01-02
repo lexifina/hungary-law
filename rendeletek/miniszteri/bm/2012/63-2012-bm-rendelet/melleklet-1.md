@@ -1,3 +1,5 @@
-## 13. § Hatályát veszti a kötelező kéményseprő-ipari közszolgáltatásról szóló 27/1996. (X. 30.) BM rendelet.
+## 13. §[^2]
 
 1. melléklet a 63/2012. (XII. 11.) BM rendelethez
+
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
