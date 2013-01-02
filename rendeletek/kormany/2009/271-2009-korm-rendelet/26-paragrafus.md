@@ -1,4 +1,4 @@
-## „(1) Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására késéssel történő érkezése esetén a vasúti társaság köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.”
+## 25. §[^9]
 
 ## Átmeneti rendelkezések
 
@@ -6,5 +6,6 @@
 
 (2)[^11]
 
+[^9]: A 25. §-t a 24. § (4) bekezdés d) pontja hatályon kívül helyezte.
 [^10]: A 26. § (1) bekezdését a 24. § (4) bekezdés b) pontja hatályon kívül helyezte.
 [^11]: A 26. § (2) bekezdését a 24. § (4) bekezdés c) pontja hatályon kívül helyezte.

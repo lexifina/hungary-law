@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-271-20-
 | 2010-12-03 | 2009-271-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-01 | 2009-271-20-22.5 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2013-01-01 | 2009-271-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-01-02 | 2009-271-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
