@@ -1,3 +1,0 @@
-## „(6) Amennyiben az intézkedés részletes feltételeit meghatározó jogszabály úgy rendelkezik, hogy a támogatási jogosultság ellenőrzése során az üzemméret számításához meghatározott időszak (év) adatait szükséges alapul venni, akkor a (2) és (3) bekezdéstől eltérően az üzemméret számításához az SFH az intézkedés részletes feltételeit meghatározó jogszabályban meghatározott időszak (év) január 1-jén hatályos értékeivel kell számolni, továbbá az SFH értékek alapján megállapított forintösszeget az EKB által közzétett az intézkedés részletes feltételeit meghatározó jogszabályban meghatározott időszak (év) január 1-jén érvényes, hivatalos középárfolyamon kell átszámítani euróra.
-
-## (7) Egy EUME SFH alapon számított értéke 1200 euró.”

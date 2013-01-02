@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-137-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-01-01 | 2012-137-20-2Y.1 | 137/2012. (XII. 22.) VM rendelet |
+| 2013-01-02 | 2012-137-20-2Y.2 | 2010: CXXX. törvény |

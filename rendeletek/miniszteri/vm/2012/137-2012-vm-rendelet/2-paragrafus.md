@@ -1,1 +1,3 @@
-## „43. elkülönített nyilvántartás: azon támogatott művelet megvalósítását eredményező eseményekről szóló külön nyilvántartás, illetve külön analitikus nyilvántartás eredeti bizonylatai, melyek a támogatási határozattal jóváhagyott művelethez kapcsolódóan az ügyfél vagyoni és jövedelmi helyzetére hatást gyakorolnak, azzal hogy könyvvezetési kötelezettség esetén az ügyfél kiadásait, valamint – ha a támogatás részletes feltételeit megállapító jogszabály ahhoz joghatást fűz – a bevételeit is tartalmazza, szabályzatban meghatározott helyen, bármikor ellenőrizhetően tárolt, őrzött módon, az üzemeltetési kötelezettség lejáratáig, de legalább a vonatkozó jogszabályokban előírt iratmegőrzési határidőig.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
