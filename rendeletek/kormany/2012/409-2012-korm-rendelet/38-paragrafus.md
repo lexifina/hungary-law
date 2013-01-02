@@ -1,8 +1,4 @@
-## 37. § A rendőrség ellenérték fejében végezhető szolgáltató tevékenységétől szóló 16/1999. (II. 5.) Korm. rendelet 1. §-a a következő új g) ponttal egészül ki:
-
-## (A rendőrség – mint közhatalmi jogosítványokkal és kötelezettségekkel felruházott fegyveres rendvédelmi szerv – jogszabályban meghatározott feladatai kivételével – az államháztartásról szóló 1992. évi XXXVIII. törvény 96. §-ában foglaltakra figyelemmel – kizárólag az alábbi szolgáltatások nyújtására, írásban szerződhet:)
-
-## „g) a sportrendezvénnyel közvetlenül össze nem függő esetekben a nemzetközi sportági szakszövetség vezetőinek, illetve a külföldi válogatott sportolók és csapatok kísérése, az útvonal biztosítása.”
+## 37. §[^17]
 
 ## 7. Záró rendelkezések
 
@@ -33,3 +29,5 @@ e) a 14–15. §,
 f) a 17–18. §, valamint
 
 g) a 20–37. §.
+
+[^17]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

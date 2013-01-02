@@ -1,3 +1,3 @@
-## 18. § A Harmvhr. 97/A. §-a a következő (6) bekezdéssel egészül ki:
+## 17–18. §[^12]
 
-## „(6) Az e § szerinti szakhatóság eljárásának időtartama az ügyintézési határidőbe beleszámít.”
+[^12]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

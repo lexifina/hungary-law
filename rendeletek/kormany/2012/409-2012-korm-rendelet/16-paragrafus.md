@@ -1,3 +1,3 @@
-## 15. § A Harmvhr. 55. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 14–15. §[^10]
 
-## „(3) A fellebbezést a Hivatal huszonegy napon belül bírálja el.”
+[^10]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

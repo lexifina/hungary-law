@@ -1,1 +1,0 @@
-## „(6) A hajón teljesítendő szolgálat a gazdálkodó szervezet hajózási engedély kivonatának vagy cégkivonatának bemutatásával igazolható. A gazdálkodó szervezet cégkivonatát az útlevélhatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.”
