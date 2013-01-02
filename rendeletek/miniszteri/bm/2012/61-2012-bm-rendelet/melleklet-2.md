@@ -6650,60 +6650,6 @@
 
 | 132. | Zebecke | III. |
 
-2. melléklet a 61/2012. (XII. 11.) BM rendelethez
+2. melléklet a 61/2012. (XII. 11.) BM rendelethez[^4]
 
-„1. melléklet a 62/2011. (XII. 29.) BM rendelethez
-
-NYILATKOZAT
-
-polgári védelmi szervezetbe történő jelentkezéshez
-
-Alulírott: …………………..……… [név] születési név:………………….……………. anyja neve:…………………….. születési hely: …………… idő: …….. …………………………….............................................[lakcím] alatti lakos kijelentem, hogy a ……………………. települési/területi polgári védelmi szervezet ……………………………………………. egységének tagja kívánok lenni.
-
-1.) A polgári védelmi szolgálat ellátását
-
-a.) határozatlan időre vállalom
-
-b.) határozott időre, …. év, …….. hónap, ….. napig vállalom
-
-2.) A polgári védelmi szolgálatot
-
-a.) infokommunikációs beosztásban, b.) lakosságvédelmi beosztásban,
-
-c.) egészségügyi beosztásban, d.) logisztikai beosztásban,
-
-e.) műszaki beosztásban, f.) egyéb:……………beosztásban
-
-kívánom teljesíteni.
-
-3.) Katasztrófaveszély és veszélyhelyzet idején történő alkalmazásomnak egyéb feltétele
-
-a.) nincs,
-
-b.) van:…………….……………………………………………………………
-
-4.) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvényben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendeletben, valamint a katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendeletben meghatározott jogaimat és kötelességeimet ismerem és elfogadom.
-
-Kelt:……………..………….év………….. hó…. nap
-
-……………………………
-
-aláírás
-
-A nyilatkozatot hitelesítette:
-
-Kelt:……………..………….év………….. hó…. nap
-
-……………………………
-
-név, beosztás, aláírás
-
-Az 1-3. pontban az önkéntes döntésének megfelelő válasz aláhúzandó.
-
-A 2/f. pontban a 2/a-e. pontokban felsoroltaktól eltérő beosztást kell rögzíteni.
-
-A 3/b. pont választása esetén a feltételeket röviden, egyértelműen kell meghatározni.
-
-A nyilatkozatot a katasztrófavédelmi szerv vagy a polgármester képviselője hitelesíti.
-
-”
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

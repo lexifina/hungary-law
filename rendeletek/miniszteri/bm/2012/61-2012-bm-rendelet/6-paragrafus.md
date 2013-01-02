@@ -1,5 +1,8 @@
-## 5. § Az R. a 2. melléklet szerinti 1. melléklettel egészül ki.
+## 2–5. §[^1]
 
 6. § (1) Ez a rendelet 2013. január 1-jén lép hatályba.
 
-(2) Hatályát veszti a települések polgári védelmi besorolásáról szóló 18/1996. (VII. 25.) BM rendelet.
+(2)[^2]
+
+[^1]: A 2–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
