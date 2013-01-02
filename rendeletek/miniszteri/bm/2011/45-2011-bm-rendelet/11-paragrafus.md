@@ -4,7 +4,7 @@
 
 (3) Az 1. melléklet 4., 12. vagy 13. foglalkozási ága, munkaköre, 2012. január 1. és 2012. május 1. között érvényes tűzvédelmi szakvizsga bizonyítvány nélkül végezhető.
 
-(4)[^13] A 2012. január 1. előtt érvényes tűzvédelmi szakvizsga bizonyítványok a következő megváltozott foglalkozási ágak, munkakörök szerinti tűzvédelmi szakvizsga bizonyítványoknak felelnek meg:
+(4)[^18] A 2012. január 1. előtt érvényes tűzvédelmi szakvizsga bizonyítványok a következő megváltozott foglalkozási ágak, munkakörök szerinti tűzvédelmi szakvizsga bizonyítványoknak felelnek meg:
 
 a) a propán-bután gáz lefejtését, töltését, kiszolgálását végzők, továbbá azon propán-bután gáz üzemű targoncák kezelői, akik a targonca üzemanyag palackjának (tartályának) cseréjét is végzik foglalkozási ág az 1. melléklet 3. pont szerinti foglalkozási ágnak,
 
@@ -18,4 +18,10 @@ e) a beépített tűzjelző berendezéseket tervezők, valamint a kivitelezésé
 
 f) a beépített tűzoltó berendezéseket tervezők, valamint a kivitelezésért felelős, műszaki vezetők az 1. melléklet 11. pont szerinti foglalkozási ágnak.
 
-[^13]: A 11. § (4) bekezdése a 24/2012. (V. 8.) BM rendelet 12. §-ával megállapított szöveg.
+(5)[^19] Az 1. melléklet 14. pontja szerinti foglalkozási ág, munkakör, továbbá a tűzgátló tömítések beépítése, felülvizsgálata, karbantartása, javítása 2013. május 1-jéig érvényes tűzvédelmi szakvizsga bizonyítvány nélkül végezhető.
+
+(6)[^20] A 2012. december 1. előtt érvényes a beépített hő- és füstelvezető rendszerek telepítését, javítását, karbantartását végzők foglalkozási ágra vonatkozó tűzvédelmi szakvizsga bizonyítvány az 1. melléklet 13. pontjában meghatározott foglalkozási ág szerinti tűzvédelmi szakvizsga bizonyítványnak felel meg.
+
+[^18]: A 11. § (4) bekezdése a 24/2012. (V. 8.) BM rendelet 12. §-ával megállapított szöveg.
+[^19]: A 11. § (5) bekezdését a 67/2012. (XII. 14.) BM rendelet 14. § (8) bekezdése iktatta be.
+[^20]: A 11. § (6) bekezdését a 67/2012. (XII. 14.) BM rendelet 14. § (9) bekezdése iktatta be.

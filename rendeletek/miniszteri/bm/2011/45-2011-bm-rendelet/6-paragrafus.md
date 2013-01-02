@@ -10,10 +10,13 @@ bb) legalább három hónap tűzoltó-készülék gyártónál eltöltött gyako
 
 bc) legalább két év a tűzoltókészülék karbantartó műhely felügyeletével kapcsolatos hivatali beosztásban eltöltött gyakorlattal,
 
-c)[^7] az 1. melléklet 10–11. pontjaiban meghatározott foglalkozási ág (munkakör) esetében műszaki képzési területen szerzett mérnök szakképzettséggel és legalább egy év tervezési tevékenységet végző szolgáltató által igazolt gyakorlattal, tervellenőrzési gyakorlattal, vagy tűzvédelmi hatósági területen a foglalkozási ághoz kapcsolódó gyakorlattal,
+c)[^9] az 1. melléklet 10–11. pontjaiban meghatározott foglalkozási ág (munkakör) esetében műszaki képzési területen szerzett mérnök szakképzettséggel és legalább egy év tervezési tevékenységet végző szolgáltató által igazolt gyakorlattal, tervellenőrzési gyakorlattal, vagy tűzvédelmi hatósági területen a foglalkozási ághoz kapcsolódó gyakorlattal,
 
 d) az 1. melléklet 4., 12. vagy 13. pontjaiban meghatározott foglalkozási ág (munkakör) esetében legalább az Országos Képzési Jegyzékben szereplő műszaki vagy építőipari vagy tűzvédelmi eszköz- és rendszerszerelő, karbantartó szakképesítéssel vagy érettségivel
 
+e)[^10] az 1. melléklet 14. pontjában meghatározott foglalkozási ág (munkakör) esetében legalább az Országos Képzési Jegyzékben szereplő erősáramú berendezések időszakos felülvizsgálója vagy műszaki mérnöki végzettséggel
+
 rendelkezik.
 
-[^7]: A 6. § c) pontja a 24/2012. (V. 8.) BM rendelet 9. § (7) bekezdésével megállapított szöveg.
+[^9]: A 6. § c) pontja a 24/2012. (V. 8.) BM rendelet 9. § (7) bekezdésével megállapított szöveg.
+[^10]: A 6. § e) pontját a 67/2012. (XII. 14.) BM rendelet 14. § (4) bekezdése iktatta be.

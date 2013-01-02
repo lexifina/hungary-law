@@ -1,4 +1,4 @@
-## 12. §[^14]
+## 12. §[^21]
 
 1. melléklet a 45/2011. (XII. 7.) BM rendelethez
 
@@ -10,7 +10,7 @@
 
 3. Éghető gáz lefejtését, töltését, kiszolgálását, továbbá autógáz kiszolgálását végzők.
 
-4. Tűzgátló nyílászáró-szerkezetek beépítését, javítását, karbantartását végzők.
+4.[^22] Tűzgátló, füstgátló nyílászáró-szerkezetek, tűzgátló tömítések beépítését, felülvizsgálatát, karbantartását, javítását végzők.
 
 5. Tűzoltó-vízforrások felülvizsgálatát végzők.
 
@@ -28,6 +28,11 @@
 
 12. Tűzállóságot növelő bevonati rendszerek alkalmazását, karbantartását végzők.
 
-13. Beépített hő- és füstelvezető rendszerek telepítését, javítását, karbantartását végzők.
+13.[^23] Beépített hő- és füstelvezető rendszerek telepítését, felülvizsgálatát, karbantartását, javítását végzők.
 
-[^14]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+14.[^24] Erősáramú berendezések időszakos felülvizsgálatát végzők.
+
+[^21]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: Az 1. melléklet 4. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (10) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 13. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (11) bekezdésével megállapított szöveg.
+[^24]: Az 1. melléklet 14. pontját a 67/2012. (XII. 14.) BM rendelet 14. § (12) bekezdése iktatta be.
