@@ -2,6 +2,7 @@
 
 13. § (1)–(2)[^1]
 
-(3) Hatályát veszti az R1. és az R2.
+(3)[^2]
 
 [^1]: A 13. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 13. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
