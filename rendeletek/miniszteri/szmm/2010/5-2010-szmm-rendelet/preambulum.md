@@ -1,1 +1,0 @@
-A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (4) bekezdés a) pont ac)–ad) alpontjában foglalt felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
