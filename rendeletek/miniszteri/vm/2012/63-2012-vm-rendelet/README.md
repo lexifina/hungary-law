@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-63-20-2
 | 2012-08-01 | 2012-63-20-2Y.1 | 63/2012. (VII. 2.) VM rendelet |
 | 2012-08-02 | 2012-63-20-2Y.2 | 2010: CXXX. törvény |
 | 2013-01-01 | 2012-63-20-2Y.3 | 151/2012. (XII. 29.) VM rendelet |
+| 2013-01-02 | 2012-63-20-2Y.4 | 2010: CXXX. törvény |
