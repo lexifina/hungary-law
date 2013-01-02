@@ -20,6 +20,6 @@
 
 | Egyéb nem postai szolgáltatások összesen |  |  |  |  |
 
-6. melléklet a 69/2012. (XII. 19.) NFM rendelethez[^2]
+6. melléklet a 69/2012. (XII. 19.) NFM rendelethez[^3]
 
-[^2]: A 6. melléklet a 10. § (2) bekezdése alapján a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 21–23. §-ának hatálybalépésekor lép hatályba.
+[^3]: A 6. melléklet a 10. § (2) bekezdése alapján a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 21–23. §-ának hatálybalépésekor lép hatályba.
