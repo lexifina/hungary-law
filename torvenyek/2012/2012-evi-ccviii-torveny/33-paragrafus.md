@@ -2,96 +2,80 @@
 
 33. § (1)–(2)
 
-(3) Az Áht. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai esetén az (1) bekezdés szerinti feladatokat a törvényben kijelölt kezelő szerv látja el.”
-
-(4) Az Áht. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A jegyző által előkészített költségvetési rendelet-tervezetet a polgármester a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.”
-
-(5) Az Áht. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a költségvetési rendeletet a képviselő-testület a költségvetési évben legkésőbb március 15-ig nem fogadta el, az átmeneti gazdálkodásról rendeletet alkot, amelyben felhatalmazást ad, hogy a helyi önkormányzat és költségvetési szervei a bevételeiket folytatólagosan beszedhessék, kiadásaikat teljesítsék.”
+(3)–(5)
 
 (6)
 
-(7) Az Áht. 33. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A fejezetet irányító szerv – a 32. § b)–g) pontja szerinti előirányzatok kivételével – a fejezeti kezelésű előirányzatok terhére a fejezeten belül átcsoportosítást hajthat végre, ha
-
-a) a fejezeti kezelésű előirányzat előirányzatain megtakarítás keletkezik, vagy az átcsoportosítás a közfeladatok változásával kapcsolatban szükséges, vagy
-
-b) a fejezeti általános tartalék fejezeten belüli átcsoportosítása előre nem valószínűsíthető és nem tervezhető költségvetési kiadás teljesítéséhez szükséges.”
-
-(8) Az Áht. 33. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A (4) bekezdés szerinti előirányzat-átcsoportosítás – a (4) bekezdés b) pontja szerinti és az olyan előirányzat-átcsoportosítás kivételével, amely az európai uniós források felhasználásával kapcsolatos költségvetési kiadásokkal érintett fejezeti kezelésű előirányzatok javára történik – a Kormány irányítása alá tartozó fejezet esetében az államháztartásért felelős miniszter előzetes engedélyével történhet.”
+(7)–(8)
 
 (9)
 
-(10) Az Áht. 36. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére – a 32. § a) pontja szerinti előirányzatok kivételével – több évre, vagy a költségvetési éven túli évre szóló kötelezettség nem vállalható.”
-
-(11) Az Áht. 38. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bevételi előirányzatok javára bevételt elszámolni és a kiadási előirányzatok terhére kifizetést elrendelni – a Kormány rendeletében meghatározott kivételekkel – utalványozás alapján lehet. A kiadási előirányzatok terhére történő utalványozásra – a Kormány rendeletében meghatározott kivételekkel – a teljesítés igazolását, és az annak alapján végrehajtott érvényesítést követően kerülhet sor.”
-
-(12) Az Áht. 38. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés rendelkezéseit a 72. § (2) bekezdése szerinti elszámolásokra és a 73. § szerinti bevételek elszámolására és kiadások teljesítésére is alkalmazni kell.”
+(10)–(12)
 
 (13)
 
-(14) Az Áht. 49. alcímének címe helyébe a következő rendelkezés lép:
+(14)
 
-„49. Finanszírozási bevételek és kiadások”
+(15) Az Áht. 59. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-(15)–(17)
+„(2) A kincstár a helyi önkormányzat, a helyi nemzetiségi önkormányzat által a 14. § (3) bekezdése szerinti fejezet terhére igénybe vett költségvetési támogatások felhasználását a rendelkezésére álló adatok alapján, illetve helyszíni ellenőrzés során a költségvetési év utolsó napjáig ellenőrzi.”
 
-(18) Az Áht. 79. §-a a következő (4b) bekezdéssel egészül ki:
+(16) Az Áht. 59. §-a a következő (3) bekezdéssel egészül ki:
 
-„(4b) A Kincstár a 72. § (2) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.”
+„(3) Ha a kincstár a költségvetési támogatások felhasználását megalapozatlannak tartja, a Ket. 94. § (1) bekezdése szerinti végzésben kötelezi a helyi önkormányzatot, a helyi nemzetiségi önkormányzatot a költségvetési támogatásról vagy annak egy részéről való lemondásra. A végzésben foglaltak önkéntes teljesítésének elmaradása esetén az 58. § (3) bekezdését kell alkalmazni azzal, hogy a végrehajthatóvá nyilvánított határozat alapján a kincstár jogosult a költségvetési támogatás visszavonására, módosítására.”
+
+(17) Az Áht. 72. és 73. §-a helyébe a következő rendelkezések lépnek:
+
+„72. § (1) Az államháztartás alrendszereiben a költségvetési hiány finanszírozása, a költségvetési többlet felhasználása a finanszírozási bevételeken és kiadásokon keresztül valósul meg.
+
+(2) Nem lehet költségvetési vagy finanszírozási bevételként és kiadásként elszámolni a pénzeszközök olyan változásának hatását, amelyek előlegként nem jelentik azok végleges felhasználását, átmenetileg nem számolhatók el az azonosításhoz szükséges feltételek hiánya miatt, továbbá a pénzeszközök közötti pénzforgalom, a letéti és más idegen pénzeszközök kezelésével, az államháztartáson belüli támogatások, vagy a bevételek beszedésének, kiadások teljesítésének lebonyolításával kapcsolatosak.
+
+(3) A finanszírozási bevételeket és kiadásokat pénzforgalmi szemléletben kell számba venni. A pénzforgalomban megvalósuló tételek mellett a Kormány rendeletében meghatározott pénzforgalommal nem járó kiegészítő tételeket is el kell számolni.
+
+73. § (1) Finanszírozási bevételek és kiadások
+
+a) az államháztartás mindkét alrendszerében:
+
+aa) a befektetési vagy forgatási célú hitelviszonyt megtestesítő értékpapír kibocsátása, értékesítése, vásárlása, beváltása a vételárban, eladási árban elismert kamat kivételével,
+
+ab) a hosszú és rövid lejáratú hitel, kölcsön – ide értve a Stabilitási tv. 3. § (1) bekezdés e) pontja szerinti ügyleteket is – felvétele és tőkeösszegének törlesztése,
+
+ac) a szabad pénzeszközök betétként való elhelyezése és visszavonása,
+
+ad) finanszírozási bevételként a költségvetési maradvány, vállalkozási maradvány,
+
+ae) a költségvetési szerv, fejezeti kezelésű előirányzat kiadási és bevételi előirányzatainak különbségeként az államháztartás központi alrendszerében központi támogatásként, az államháztartás önkormányzati alrendszerében irányító szervi támogatásként folyósított támogatás kiutalása és fizetési számlán történő jóváírása,
+
+af) a pénzügyi lízing lízingbevevői félként a lízingszerződésben kikötött tőkerész törlesztésére teljesített kiadások,
+
+b) kizárólag az államháztartás központi alrendszerében:
+
+ba) az ÁKK Zrt. által állampapírokkal végzett repóügyletek,
+
+bb) a Magyar Nemzeti Bankról szóló törvény alapján a Magyar Nemzeti Bank és a központi költségvetés közötti elszámolásokból a Magyar Nemzeti Bank deviza-árfolyamváltozásból származó eredményének (ideértve az eredménytartalékot is) és az értékpapírok értékesítéséből származó realizált eredményének tulajdonítható rész, előjelre való tekintet nélkül,
+
+bc) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján vállalt árfolyam-garanciából eredő, a Magyar Fejlesztési Bank és az állam közötti elszámolások előjelre való tekintet nélkül,
+
+bd) az állam nevében a többségi állami tulajdonú gazdasági társaságnak nyújtott tulajdonosi kölcsön és annak visszatérülése, ha a kölcsön visszafizetése a kötelezett pénzügyi helyzetére vonatkozó információk – különösen a pénzügyi, számviteli kimutatások és előrejelzések – alapján a közfeladatok ellátásáért fizetendő összegen felüli központi költségvetési többlettámogatás biztosítása nélkül kellően megalapozott,
+
+be) az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei, és
+
+bf) a 78. § (4) bekezdése szerinti megelőlegezések és azok visszatérítése.
+
+(2) Az (1) bekezdés a) pont aa) alpontja szerinti, devizában meghatározott ügyleteket a kibocsátásakor, értékesítésekor, vásárlásakor, beváltásakor, felvételekor, törlesztésekor érvényesített devizaárfolyammal – az árfolyamfedezeti műveletek figyelembevétele mellett – meghatározott forintértékét kell finanszírozási bevételként, kiadásként elszámolni.”
+
+(18)
 
 (19)
 
-(20) Az Áht. 90. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Kormány
-
-a) 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozata
-
-b) kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználására vonatkozó egyedi határozata, és
-
-c) a központi költségvetésről szóló törvényben az előirányzatok átcsoportosításával, módosításával összefüggésben biztosított jogkörében hozott egyedi határozata
-
-az adott költségvetési évre vonatkozó központi költségvetésről szóló törvény hatályvesztésének időpontjával végrehajtottnak tekintendő, és az ezt követő nappal visszavontnak minősül.”
+(20)
 
 (21)
 
-(22) Az Áht. 69. alcíme a következő 106/A. §-sal egészül ki:
-
-„106/A. § (1) A kincstár a központosított illetményszámfejtés keretében jogosult a munkabér, az illetmény, a tiszteletdíj, a költségtérítés és egyéb pénzbeli juttatás számfejtése, kifizetése és annak ellenőrzése céljából az érintett
-
-a) természetes személyazonosító adatainak, állampolgárságának, nemének, lakcímének, társadalombiztosítási azonosító jelének, adóazonosító jelének, fizetési számlaszámának,
-
-b) eltartott gyermeke természetes személyazonosító adatainak, lakcímének és társadalombiztosítási azonosító jelének,
-
-c) iskolai és egyéb végzettségére vonatkozó adatának,
-
-d) foglalkoztatásával összefüggésben a munkahely megnevezésének, a jogviszony jellegének, a beosztásának, a besorolásának, a munkakörének, a jogviszonya kezdete és befejezése időpontjának, a jogviszony megszűnése módjának
-
-kezelésére.
-
-(2) A kincstár az (1) bekezdés szerinti személyes adatokat az érintett jogviszonya befejezését követő öt évig, vagy – ha az későbbi – a jogviszonyra vonatkozóan benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
-
-(3) Ha a központi költségvetésről szóló törvény alapján a szociális, gyermekjóléti és gyermekvédelmi közfeladatot ellátó intézmény nem állami fenntartója részére olyan támogatás nyújtására kerül sor, amelynek alapján munkabér, illetmény, tiszteletdíj, költségtérítés vagy egyéb pénzbeli juttatás kifizetése történik, annak kifizetése és ellenőrzése céljából a kincstár jogosult annak az érintettnek az (1) bekezdésében meghatározott adatait a (2) bekezdésben meghatározott időtartamban kezelni, akire tekintettel a nem állami intézmény fenntartójának a költségvetési támogatás kifizetésre kerül.”
+(22)
 
 (23)–(25)
 
-(26) Az Áht. 111. §-a a következő (16a) bekezdéssel egészül ki:
-
-„(16a) A többcélú kistérségi társulás megszűnése esetén a társulási megállapodásban megjelölt önkormányzat (a továbbiakban: kijelölt önkormányzat) felel a tárgyévben, illetve a tárgyévet megelőző években a központi költségvetésből származó támogatásokkal való elszámolásért. Eltérő megállapodás hiányában a kijelölt önkormányzat a többcélú kistérségi társulás korábbi székhelye szerinti települési önkormányzat. A társulási tanács elnöke a megszüntetésről hozott döntést követően haladéktalanul tájékoztatja a kincstárat a kijelölt önkormányzatról.”
+(26)
 
 (27)–(29)

@@ -2,8 +2,8 @@
 
 a)
 
-b) 81. § (1) bekezdésében az „és a kölcsönökre” szöveg.
+b)
 
-(2) Hatályát veszti az Áht. 74. §-a és 84. § (2) bekezdése.
+(2)
 
 (3)
