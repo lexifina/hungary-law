@@ -2,7 +2,7 @@
 
 3. § (1) Ez a rendelet 2013. január 1-jén lép hatályba.
 
-(2) Hatályát veszti az önkormányzati hivatalok egységes irattári tervének kiadásáról szóló 29/2009. (X. 30.) ÖM rendelet.
+(2)[^1]
 
 Melléklet a 78/2012. (XII. 28.) BM rendelethez
 
@@ -1473,3 +1473,5 @@ X.3. Fegyveres biztonsági őrség
 | X301 | Fegyveres biztonsági őrség létrehozása, működtetése, megszüntetése | 15 | - |
 
 | X302 | Rendészeti ügyek | 2 | - |
+
+[^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
