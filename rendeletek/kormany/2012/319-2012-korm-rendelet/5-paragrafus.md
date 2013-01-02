@@ -1,3 +1,5 @@
-## „g) elbírálja a fegyveres biztonsági őr, a természetvédelmi őr, az önkormányzati természetvédelmi őr, a mezőőr, a hegyőr, a halászati őr, a hivatásos vadász, az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet, az erdővédelmi szolgálat tagja, továbbá a közterület-felügyelő intézkedése, annak elmulasztása, valamint kényszerítő eszköz alkalmazása miatt benyújtott panaszt,”
+## 4. §[^4]
 
 ## 5. A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosítása
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
