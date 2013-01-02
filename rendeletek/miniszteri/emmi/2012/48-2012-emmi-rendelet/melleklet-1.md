@@ -1,4 +1,4 @@
-## 33. § Hatályát veszti a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló 10/1994. (V. 13.) MKM rendelet.
+## 33. §[^1]
 
 1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez
 
@@ -71,3 +71,5 @@ III.
 1. A II. részben meghatározott létszám az egyes feladatok között átcsoportosítható.
 
 2. A mellékletben foglaltaktól az intézmény javára el lehet térni.
+
+[^1]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
