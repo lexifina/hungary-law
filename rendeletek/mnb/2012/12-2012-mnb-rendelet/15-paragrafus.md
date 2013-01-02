@@ -1,1 +1,0 @@
-## „(3a) A fizető fél pénzforgalmi szolgáltatója a hatósági átutalási megbízás és az átutalási végzés átvételét követően soron kívül megkezdi a fizetési megbízásban megjelölt fizető fél és a pénzforgalmi jelzőszám összetartozásának ellenőrzését.”
