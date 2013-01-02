@@ -1,4 +1,4 @@
-## 31. §[^7]
+## 31. §[^9]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 6–9. §, a 11–31. § és a 2. melléklet 2013. január 31-én lép hatályba.
 
-[^7]: A 31. § a 32. § (2) bekezdése alapján 2013. január 31-én lép hatályba.
+[^9]: A 31. § a 32. § (2) bekezdése alapján 2013. január 31-én lép hatályba.
