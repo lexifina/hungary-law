@@ -1,1 +1,0 @@
-## „17. számlatulajdonos: az 1193/2011/EU bizottsági rendelet alapján létrehozott üzemeltetői számla, légijármű üzemben tartói számla, közönséges ügyfélszámla, kereskedési számla, hitelesítői számla tulajdonosa;”
