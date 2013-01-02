@@ -1,4 +1,4 @@
-## 5–11. §[^3]
+## 5–11. §[^5]
 
 12. § (1) E rendelet – a (2)–(3) bekezdésben foglalt kivétellel – a kihirdetést követő 8. napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) E rendelet 5–11. §-a 2012. április 1-jén lép hatályba azzal, hogy az 5–11. §-sal megállapított vizsgakövetelményeket a 2011/2012. tanév május–júniusi vizsgaidőszak vizsgáinak megszervezésekor kell először alkalmazni.
 
-[^3]: Az 5–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
