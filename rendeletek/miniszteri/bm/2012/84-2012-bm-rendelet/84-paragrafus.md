@@ -1,7 +1,5 @@
 ## 83. § Ez a rendelet 2013. január 1. napján lép hatályba.
 
-## 84. § A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet
+84–85. §[^1]
 
-a) 3. § (1) bekezdés c) pontjában az „a rendőrség” szövegrész helyébe az „a rendőrség és az Országgyűlési Őrség”,
-
-b) 6. § (3) bekezdésében az „a rendőrség” szövegrész helyébe az „a rendőrség és az Országgyűlési Őrség”
+[^1]: A 84–85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
