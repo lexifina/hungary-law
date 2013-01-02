@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti a belföldi fenntartott postai szolgáltatások legmagasabb hatósági díjairól szóló 85/2006. (XII. 15.) GKM rendelet.
+## 5. §[^1]
 
 1. melléklet a 67/2012. (XII. 15.) NFM rendelethez
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
