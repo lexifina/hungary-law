@@ -1,4 +1,4 @@
-## 63. § Az új ferencvárosi labdarúgó stadion megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 173/2012. (VII. 26.) Korm. rendelet 1. melléklet D:8 mezőjében és a 2. melléklet B:10 mezőjében a „Budapesti 1. számú Körzeti Földhivatal” szövegrész helyébe a „Budapesti 1. számú Földhivatal” szöveg lép.
+## 63. §[^76]
 
 ## 64. A járási (fővárosi kerületi) hivatalok kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 174/2012. (VII. 26.) Korm. rendelet módosítása
 
@@ -21,3 +21,5 @@
 ## „17. 88. § (1) bekezdés második mondatában, 90. § (2) bekezdésében, 91/D. § (5) bekezdésében a „jegyzővel” szövegrész helyébe a „gyámhivatallal” szöveg,”
 
 (4) A járási (fővárosi kerületi) hivatalok kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 174/2012. (VII. 26.) Korm. rendelet 42. § (6) bekezdése a következő szöveggel lép hatályba:
+
+[^76]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

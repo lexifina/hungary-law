@@ -1,3 +1,5 @@
-## 39. § A Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági közreműködések megszüntetéséről és módosításáról szóló 362/2008. (XII. 31.) Korm. rendelet 1. melléklet 7. pont második b) sorában a „Fővárosi Főjegyző” szövegrész helyébe az „illetékes fővárosi kerületi hivatal” szöveg lép.
+## 39. §[^49]
 
 ## 40. A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet módosítása
+
+[^49]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
