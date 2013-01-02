@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés g) pontjában kapott felhatalmazás alapján a következőket rendeli el:
