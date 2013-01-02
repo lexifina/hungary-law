@@ -4,11 +4,11 @@
 
 139. § (1)–(3)[^169]
 
-(4)[^170] Hatályát veszti az államtitkot vagy szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 143/2004. (IV. 29.) Korm. rendelet 2. számú melléklet 3.2. pontja nyitó szövegrészében a „vám- és pénzügyőrségi” szövegrész.
+(4)[^170]
 
 (5)–(6)[^171]
 
 [^168]: A 72–138. §-t a 140. § (1) bekezdése hatályon kívül helyezte.
 [^169]: A 139. § (1)–(3) bekezdését a 140. § (1) bekezdése hatályon kívül helyezte.
-[^170]: A 139. § (4) bekezdését a 140. § (2) bekezdése hatályon kívül helyezte 2013. január 2. napjával.
+[^170]: A 139. § (4) bekezdését a 140. § (2) bekezdése hatályon kívül helyezte.
 [^171]: A 139. § (1)–(3) bekezdését a 140. § (1) bekezdése hatályon kívül helyezte.
