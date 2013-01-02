@@ -1,7 +1,0 @@
-## 2–6. §[^2]
-
-## II. Fejezet
-
-## A SZÁMVITELI TÖRVÉNY SZERINTI EGYES EGYÉB SZERVEZETEK BESZÁMOLÓKÉSZÍTÉSI ÉS KÖNYVVEZETÉSI KÖTELEZETTSÉGÉNEK SAJÁTOSSÁGAIRÓL SZÓLÓ 224/2000. (XII. 19.) KORM. RENDELET MÓDOSÍTÁSA
-
-[^2]: A 2–6. §-t a 15. § (2) bekezdése hatályon kívül helyezte.
