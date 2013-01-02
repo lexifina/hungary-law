@@ -12,4 +12,6 @@
 
 (5) A felsőoktatásról szóló 1993. évi LXXX. törvény és a felsőoktatásról szóló 2005. évi CXXXIX. törvény szabályainak megfelelően elnyert habilitált doktori cím egyenértékű jelen rendelet szabályai szerint elnyert habilitált doktori címmel.
 
-(6) Hatályát veszti a doktori iskola létesítésének eljárási rendjéről és a doktori fokozat megszerzésének feltételeiről szóló 33/2007. (III. 7.) Korm. rendelet, valamint a felsőoktatásról szóló 2005. évi CXXXIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 79/2006. (IV. 5.) Korm. rendelet 26. §-t megelőző alcíme és 26–27. §-a.
+(6)[^1]
+
+[^1]: A 26. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
