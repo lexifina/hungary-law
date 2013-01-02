@@ -1,1 +1,0 @@
-## „(1a) Ahol e rendelet adatlapra utal, ott a Tft. 25/B. § (2) bekezdése szerinti bejelentési adatlapot, valamint a Tft. 25/B. § (4a) bekezdésében meghatározott esetben benyújtott változás-bejelentési adatlapot is érteni kell.”
