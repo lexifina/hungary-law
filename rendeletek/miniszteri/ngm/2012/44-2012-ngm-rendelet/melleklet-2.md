@@ -7352,6 +7352,6 @@
 
 ## Zalavég
 
-2. melléklet a 44/2012. (XII. 22.) NGM rendelethez[^2]
+2. melléklet a 44/2012. (XII. 22.) NGM rendelethez[^3]
 
-[^2]: A 2. melléklet a 2. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^3]: A 2. melléklet a 2. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
