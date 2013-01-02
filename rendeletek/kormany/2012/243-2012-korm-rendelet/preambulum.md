@@ -1,1 +1,0 @@
-A Kormány a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 35. § (2) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
