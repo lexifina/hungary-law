@@ -1,3 +1,3 @@
-## 64. §[^19]
+## 64. §[^30]
 
-[^19]: A 64. § a 72. § (4) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^30]: A 64. § a 72. § (4) bekezdése alapján 2013. április 1-jén lép hatályba.

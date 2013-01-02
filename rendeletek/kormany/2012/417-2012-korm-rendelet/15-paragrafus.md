@@ -1,1 +1,0 @@
-## „(2) A nyilvántartást helyi szinten kezelő szerv megváltozásáról, az új szervezeti rend szerint illetékes jegyző – a járási hivatal útján – a vonatkozó határozat jogerőre emelkedését követő nyolc napon belül értesíti a központi szervet.”

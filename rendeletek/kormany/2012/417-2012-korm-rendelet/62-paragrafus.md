@@ -1,3 +1,3 @@
-## 61. §[^16]
+## 61. §[^27]
 
-[^16]: A 61. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
+[^27]: A 61. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.

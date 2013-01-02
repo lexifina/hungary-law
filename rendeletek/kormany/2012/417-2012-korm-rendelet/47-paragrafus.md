@@ -1,3 +1,3 @@
-## 46. § A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 46. §[^23]
 
-## „(1) A személyazonosító igazolvánnyal összefüggő hatósági ügyben első fokon a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), illetve a személyiadat- és lakcímnyilvántartást kezelő központi szerv (a továbbiakban: központi szerv) jár el.”
+[^23]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

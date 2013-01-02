@@ -1,5 +1,5 @@
-## 69. §[^24]
+## 69. §[^35]
 
 ## 9. A bírósági szervezet átalakításával összefüggésben egyes kormányrendeletek módosításáról szóló 314/2011. (XII. 23.) Korm. rendelet deregulációja
 
-[^24]: A 69. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
+[^35]: A 69. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.

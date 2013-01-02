@@ -1,3 +1,3 @@
-## 47–58. §[^14]
+## 47–58. §[^24]
 
-[^14]: A 47–58. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
+[^24]: A 47–58. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
