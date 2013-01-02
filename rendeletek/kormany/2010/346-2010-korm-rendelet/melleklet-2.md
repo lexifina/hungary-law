@@ -14,7 +14,7 @@
 
 ## g) családi anyakönyvi rendszerben a rendszerhez csatlakozó végpontok közötti adatátviteli hálózat, az azonos telephelyen belüli (helyi) adatátviteli hálózatok kivételével (a továbbiakban: helyi hálózatok kivételével);
 
-## h)[^41] fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai közötti összeköttetést biztosító adatátviteli hálózat, a helyi hálózatok kivételével;
+## h)[^43] fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai közötti összeköttetést biztosító adatátviteli hálózat, a helyi hálózatok kivételével;
 
 ## i) Educatio Kht. által a felsőoktatási intézmények számára egymás elérhetősége végett biztosított adatátviteli hálózat;
 
@@ -32,7 +32,7 @@
 
 ## p) a Monitoring és Lakossági Riasztó Rendszer (MoLaRi) végpontjai közötti adatátviteli hálózat.
 
-2. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^42]
+2. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^44]
 
-[^41]: Az 1. melléklet h) pontja a 174/2012. (VII. 26.) Korm. rendelet 80. §-a szerint módosított szöveg.
-[^42]: A 2. melléklet a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^43]: Az 1. melléklet h) pontja a 174/2012. (VII. 26.) Korm. rendelet 80. §-a szerint módosított szöveg.
+[^44]: A 2. melléklet a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés e) pontja szerint módosított szöveg.

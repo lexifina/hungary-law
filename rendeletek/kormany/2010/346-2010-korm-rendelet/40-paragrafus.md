@@ -1,6 +1,6 @@
-40. § (1)[^39]
+40. § (1)[^41]
 
-(2)[^40]
+(2)[^42]
 
-[^39]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
-[^40]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^41]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^42]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

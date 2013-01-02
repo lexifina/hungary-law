@@ -1,3 +1,3 @@
-34–39. §[^38]
+34–39. §[^40]
 
-[^38]: A 34–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
+[^40]: A 34–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.

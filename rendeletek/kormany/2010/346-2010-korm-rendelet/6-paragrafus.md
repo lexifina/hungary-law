@@ -1,4 +1,4 @@
-6. § (1)[^3] A kormányzati célú hírközlési szolgáltató kizárólagos jog alapján látja el az alábbi feladatokat:
+6. § (1)[^5] A kormányzati célú hírközlési szolgáltató kizárólagos jog alapján látja el az alábbi feladatokat:
 
 a) a kormányzati célú hálózat tervezését, a kormányzati célú hálózat előkészítését, létesítését, bővítését, fejlesztését, valamint fenntartására, működtetésére és üzemeltetésére irányuló szolgáltatások ellátását (a továbbiakban együtt: működtetés);
 
@@ -26,7 +26,7 @@ k) a minősített adat elektronikus biztonságának, valamint a rejtjeltevékeny
 
 a) megköti a kormányzati célú hálózatok működtetéséhez szükséges szerződéseket;
 
-b)[^4] különleges jogrend idején a nem miniszteri hatáskörbe tartozó ügyekben koordinálja a felhasználók együttműködését, az elektronikus hírközlés veszélyhelyzeti és különleges jogrendre történő felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint;
+b)[^6] különleges jogrend idején a nem miniszteri hatáskörbe tartozó ügyekben koordinálja a felhasználók együttműködését, az elektronikus hírközlés veszélyhelyzeti és különleges jogrendre történő felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint;
 
 c) kapcsolatot tart a védelmi igazgatás szervezetével;
 
@@ -34,11 +34,11 @@ d) ellátja a VPN központi menedzser szervezet feladatait, amelynek részeként
 
 e) ellátja a VPN erőforrás-gazdálkodási feladatokat, megvizsgálja és elbírálja a felhasználók VPN-einek erőforrásigényeit, és meghozza az ezzel kapcsolatos döntéseket.
 
-(3)[^5] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a kormányzati célú hírközlési szolgáltatásnak helyt adó infrastruktúra létesítője, tulajdonosa nem állami vagy nem állami tulajdonú szervezet.
+(3)[^7] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a kormányzati célú hírközlési szolgáltatásnak helyt adó infrastruktúra létesítője, tulajdonosa nem állami vagy nem állami tulajdonú szervezet.
 
-(4)[^6] Az e §-ban foglaltak nem érintik az elkülönült hírközlési tevékenység végzésére jogosult e rendeletben foglalt jogosultságait.
+(4)[^8] Az e §-ban foglaltak nem érintik az elkülönült hírközlési tevékenység végzésére jogosult e rendeletben foglalt jogosultságait.
 
-[^3]: A 6. § (1) bekezdése a 300/2012. (X. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 6. § (2) bekezdés b) pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés a) és b) pontja szerint módosított szöveg.
-[^5]: A 6. § (3) bekezdését a 300/2012. (X. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^6]: A 6. § (4) bekezdését a 300/2012. (X. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 6. § (1) bekezdése a 300/2012. (X. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 6. § (2) bekezdés b) pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés a) és b) pontja szerint módosított szöveg.
+[^7]: A 6. § (3) bekezdését a 300/2012. (X. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 6. § (4) bekezdését a 300/2012. (X. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
