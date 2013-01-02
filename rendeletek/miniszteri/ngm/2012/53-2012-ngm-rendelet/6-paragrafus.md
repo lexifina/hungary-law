@@ -1,1 +1,0 @@
-## „(6) A minősítő határozattal rendelkező személyeknél, ha a FÜV Bizottság „Hivatásos szolgálatra alkalmatlan” döntést hoz, a határozat rendelkező részében nyilatkozik az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel való összefüggéséről.”
