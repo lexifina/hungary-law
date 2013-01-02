@@ -22,6 +22,6 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-6. melléklet az 50/2011. (XII. 20.) BM rendelethez[^29]
+6. melléklet az 50/2011. (XII. 20.) BM rendelethez[^33]
 
-[^29]: A 6. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (5) bekezdésével megállapított szöveg.
+[^33]: A 6. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (5) bekezdésével megállapított szöveg.

@@ -14,9 +14,9 @@ b)[^2] a tűzvédelmi szakvizsgával összefüggő oktatásszervezés és a tűz
 
 c) a tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok távfelügyelete tevékenység vonatkozásában a tűz- és hibaátjelzést fogadó központ típusát és címét,
 
-d) a tűzvédelmi szakvizsgával összefüggő oktatásszervezés és a tűzvédelmi szakvizsgáztatás esetén a foglalkozási ág konkrét megnevezését.
+d)[^3]
 
-(5)[^3] A tűzvédelmi hatóság által közzétett nyilvántartás a Szolgtv.-ben meghatározott adatokon túl tartalmazza:
+(5)[^4] A tűzvédelmi hatóság által közzétett nyilvántartás a Szolgtv.-ben meghatározott adatokon túl tartalmazza:
 
 a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét,
 
@@ -28,4 +28,5 @@ d) a (4) bekezdés a)–b) és d) pontjaiban foglalt adatokat.
 
 [^1]: Az 1. § (4) bekezdés a) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (4) bekezdés b) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdés d) pontját a 67/2012. (XII. 14.) BM rendelet 15. § (5) bekezdése hatályon kívül helyezte.
+[^4]: Az 1. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.

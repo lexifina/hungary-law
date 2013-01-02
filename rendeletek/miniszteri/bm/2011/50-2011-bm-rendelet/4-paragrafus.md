@@ -1,4 +1,4 @@
-4. §[^11] (1) Egy tűzoltó készülék karbantartó műhelyre csak egy sorozatszámú OTSZ szerinti OKF azonosító jel adható.
+4. §[^12] (1) Egy tűzoltó készülék karbantartó műhelyre csak egy sorozatszámú OTSZ szerinti OKF azonosító jel adható.
 
 (2) Amennyiben a bejelentés egy már nyilvántartásba vett műhely címére vonatkozik, nem adható ki új OKF azonosító jel.
 
@@ -8,7 +8,7 @@
 
 a) a továbbadás dátumát,
 
-b) a felülvizsgáló nevét, nyilvántartási számát, és
+b)[^13] a felülvizsgáló nevét, vagy a karbantartó személy nevét és tűzvédelmi szakvizsga bizonyítványának számát, és
 
 c) a továbbadott OKF azonosító jelek sorozatszámát.
 
@@ -26,4 +26,5 @@ d) amennyiben a karbantartó szervezet, az általa a karbantartó személyek vag
 
 e) a tűzoltó készülék karbantartásra vonatkozó jogszabályban, műszaki követelményben, gyártói javítási technológiában meghatározott előírások megsértése esetén.
 
-[^11]: A 4. § a 24/2012. (V. 8.) BM rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^12]: A 4. § a 24/2012. (V. 8.) BM rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^13]: A 4. § (4) bekezdés b) pontja a 67/2012. (XII. 14.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
