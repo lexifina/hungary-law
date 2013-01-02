@@ -1,1 +1,0 @@
-## „(5) A szakmai programot a Főigazgatóság a kirendeléstől számított harminc napon belül – az általa fenntartott szolgáltatók, intézmények kivételével – szakértőként véleményezi. A működést engedélyező szerv a határidőt – a Főigazgatóságnak a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.”

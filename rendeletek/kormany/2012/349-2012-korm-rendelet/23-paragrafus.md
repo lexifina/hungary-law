@@ -1,7 +1,3 @@
-## 22. § A Kjtr. 7. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
+## 21–22. §[^6]
 
-## (Ha a munkáltató a munkahelyen történő munkavégzésére hosszabb időtartamot nem rendel el, a teljes napi munkaidőből legalább 6 órát kell a munkahelyen eltöltenie annak a közalkalmazottnak, akit teljes munkaidejében)
-
-## „e) bölcsődében a sajátos nevelési igényű gyermekek nevelését, gondozását végző speciális csoportban kisgyermeknevelő munkakörben”
-
-## (foglalkoztatják.)
+[^6]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
