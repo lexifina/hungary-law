@@ -1,3 +1,0 @@
-11. § A Bgat. 15. §-a a következő (1) bekezdéssel egészül ki:
-
-„(1) E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény és a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2012. évi CXCVII. törvénnyel (a továbbiakban: 2012. évi CXCVII. törvény) megállapított rendelkezéseit a 2012. évi CXCVII. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló kölcsönvevő és iskolaszövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló kölcsönbeadó, illetve iskolaszövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2012. évi CXCVII. törvény hatálybalépésekor még nem került sor.”
