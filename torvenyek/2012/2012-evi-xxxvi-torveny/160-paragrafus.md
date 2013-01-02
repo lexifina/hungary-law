@@ -14,7 +14,7 @@ h)
 
 a)–b)
 
-c) a Magyar Köztársaság 2004. évi költségvetéséről és az államháztartás hároméves kereteiről szóló 2003. évi CXVI. törvény 15. § (7) bekezdése.
+c)
 
 (3)
 
