@@ -1,1 +1,0 @@
-## „22. európai koordinátor: a 661/2010/EU európai parlamenti és tanácsi határozat 19. cikke alapján az Európai Bizottság által a tagállamokkal egyetértésben és az Európai Parlamenttel folytatott konzultációt követően kinevezett személy.”

@@ -1,3 +1,0 @@
-## 4. § Az R. „Ellenőrzési megállapítások és nyilvántartás” alcíme a következő 28/A. §-sal egészül ki:
-
-## „28/A. § A végrehajtó hatóság a 661/2010/EU európai parlamenti és tanácsi határozat III. mellékletében meghatározott kiemelt fontosságú projektek vagy annak egy szakasza befejezése után öt évvel elvégzi a projekt társadalmi-gazdasági és környezeti hatásának vizsgálatát, beleértve a kereskedelemre, valamint az áruk és személyek tagállamok közötti szabad mozgására, a területi kohézióra és a fenntartható fejlődésre gyakorolt hatásokat is. A miniszter a vizsgálat eredményeiről tájékoztatja az Európai Bizottságot.”
