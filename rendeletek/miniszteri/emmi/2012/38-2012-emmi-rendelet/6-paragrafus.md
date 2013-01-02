@@ -6,6 +6,7 @@
 
 (4)[^1]
 
-(5) Hatályát veszti a megváltozott munkaképességű személyek foglalkoztatásához nyújtható költségvetési támogatás megállapításának részletes szabályairól szóló 15/2005. (IX. 2.) FMM rendelet.
+(5)[^2]
 
 [^1]: A 6. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
