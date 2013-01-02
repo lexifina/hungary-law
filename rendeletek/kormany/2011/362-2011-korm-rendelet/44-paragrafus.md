@@ -1,1 +1,3 @@
-## „c) az intézmény képviseletére jogosult személy a 25. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.”
+## 43. §[^13]
+
+[^13]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
