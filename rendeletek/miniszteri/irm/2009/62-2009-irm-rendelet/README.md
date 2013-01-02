@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-62-20-1
 | 2011-07-02 | 2009-62-20-1U.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-07-03 | 2009-62-20-1U.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-01-01 | 2009-62-20-1U.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-01-02 | 2009-62-20-1U.8 | Nemzeti Jogszabálytár (egységes szerkezet) |

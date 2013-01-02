@@ -8,6 +8,7 @@
 
 (3)–(4)[^12]
 
-(5) A (3) és (4) bekezdések 2013. január 1-jén hatályukat vesztik. E bekezdés 2013. január 2-án veszti hatályát.
+(5)[^13]
 
 [^12]: Az 58. § (3)–(4) bekezdését ugyanezen § (5) bekezdése hatályon kívül helyezte.
+[^13]: Az 58. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
