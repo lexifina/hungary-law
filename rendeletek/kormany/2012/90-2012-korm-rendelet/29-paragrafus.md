@@ -1,1 +1,0 @@
-## „(11) Ha az adottságok szükségessé teszik, a (2) bekezdés szerinti gépjármű-várakozóhelyek (parkolók) a telekhatártól mért, legfeljebb 500 m-en belüli más telken parkolóban, parkolóházban vagy a közterületek közlekedésre szánt területe egy részének, illetve a közforgalom céljára átadott magánút egy részének felhasználásával kialakíthatók.”
