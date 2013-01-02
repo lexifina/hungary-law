@@ -1,1 +1,0 @@
-## 24. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet 5. § (5) bekezdés b) pontjában a „körzeti” szövegrész helyébe a „járási” szöveg lép.

@@ -1,1 +1,0 @@
-## 43. § Az erdőterv rendelet előkészítésének, és a körzeti erdőterv készítésének szabályairól szóló 11/2010. (II. 4.) FVM rendelet 3. § (4) bekezdésének j) pontjában az „az Állami Népegészségügyi és Tisztiorvosi Szolgálatot” szövegrész helyébe az „a fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi) népegészségügyi intézetét” szöveg lép.
