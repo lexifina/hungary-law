@@ -1,3 +1,3 @@
-## 22. §[^12]
+## 22. §[^13]
 
-[^12]: A 22. § a 33. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
+[^13]: A 22. § a 33. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.

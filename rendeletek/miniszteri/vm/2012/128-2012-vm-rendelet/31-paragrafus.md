@@ -1,13 +1,12 @@
-## 23–30. §[^13]
+## 23–30. §[^14]
 
-31. § (1)–(5)[^14]
+31. § (1)–(5)[^15]
 
-(6) Az R. 10. számú melléklete helyébe a 6. melléklet lép.
+(6)–(7)[^16]
 
-(7) Az R. 11. számú melléklete helyébe a 7. melléklet lép.
+(8)–(9)[^17]
 
-(8)–(9)[^15]
-
-[^13]: A 23–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 31. § (1)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 31. § (8)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 23–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 31. § (1)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 31. § (6)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 31. § (8)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
