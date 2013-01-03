@@ -1,3 +1,0 @@
-## 16. § A 44/2005. EüM rendelet 5. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) A (3) bekezdés szerinti gyártásellenőrzés elvégzésétől számított 90 napon belül a GYEMSZI az ellenőrzött egység részére tanúsítványt állít ki arról, hogy az ellenőrzött egység helyes gyártási gyakorlatot alkalmaz, amennyiben az ellenőrzés eredménye azt mutatja, hogy az érintett betartja a helyes gyártási gyakorlat alapelveit és iránymutatásait. Ha a GYEMSZI az ellenőrzéseket az Európai Gyógyszerkönyv monográfiáival kapcsolatos tanúsítási eljárás részeként végzi el, erről is tanúsítványt állít ki. A tanúsítványokat a GYEMSZI rögzíti az Ügynökség által működtetett uniós adatbázisban.”

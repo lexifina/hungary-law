@@ -1,1 +1,0 @@
-## „9. orvosi gáz: normál légköri nyomás és hőmérsékleti viszonyok között légnemű halmazállapotú gyógyszerhatóanyagot és – amennyiben szükséges – segédanyagot tartalmazó készítmény a megfelelő, biztonságos (nyomásálló) tároló- és adagolószerkezettel együtt;”

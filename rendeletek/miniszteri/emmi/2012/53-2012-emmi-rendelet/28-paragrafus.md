@@ -1,4 +1,4 @@
-## 25–27. §[^3]
+## 25–27. §[^10]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 14. § (2)–(3) bekezdése 2013. július 2-án lép hatályba.
 
-[^3]: A 25–27. § a 28. § (2) bekezdése alapján 2013. március 1-jén lép hatályba.
+[^10]: A 25–27. § a 28. § (2) bekezdése alapján 2013. március 1-jén lép hatályba.
