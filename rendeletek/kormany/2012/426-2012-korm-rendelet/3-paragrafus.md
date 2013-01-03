@@ -1,0 +1,1 @@
+## „(5) A járadékot a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell. Az (1) bekezdésben meghatározott korlát összege a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelkedik.”
