@@ -1,0 +1,3 @@
+## 2. § Az Ákr. 22. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) E rendeletnek az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló, 110/2006. (V. 5.) Korm. rendelet módosításáról szóló 339/2012. (XII. 4.) Korm. rendelettel (a továbbiakban: Ákr.2) megállapított 20/B. §-át az Ákr.2 hatálybalépéséig már megkötött gyűjtőszámlahitelkeret-szerződések vonatkozásában is alkalmazni kell azzal, hogy a pénzügyi intézmény a kezességvállalási díj első részletét az államháztartásért felelős miniszter felé történő igénybejelentéstől számított 8 munkanapon belül köteles megfizetni.”
