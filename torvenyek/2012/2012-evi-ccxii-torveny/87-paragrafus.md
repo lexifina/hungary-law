@@ -1,3 +1,1 @@
-87. § A Gytv. a következő 32/B. §-sal egészül ki:
-
-„32/B. § A hatóanyagok azon Magyarországon székhellyel vagy telephellyel rendelkező importőrei, gyártói és forgalmazói, valamint azon gyógyszerközvetítők, akik tevékenységüket 2013. január 2-át megelőzően is folytatták az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 22. § (2) bekezdés, vagy 23.§ (1) bekezdés szerinti bejelentést 2013. március 2-áig kell megtenniük.”
+87. §
