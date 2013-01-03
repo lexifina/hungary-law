@@ -1,4 +1,4 @@
-## 18. §[^1]
+## 18. §[^12]
 
 1. melléklet a 63/2011. (XI. 29.) NEFMI rendelethez
 
@@ -684,4 +684,4 @@
 
 17.10. Szemtréning eljárások
 
-[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

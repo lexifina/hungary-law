@@ -14,9 +14,9 @@ cb) iskolarendszerű egészségügyi szakképzést folytató intézmények – a
 
 ## végzik.
 
-(3) A továbbképzés szervezési jog megszerzésére irányuló kérelmet az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: ESZTT) Egészségügyi Szakképzési és Továbbképzési Bizottsága (a továbbiakban: Bizottság) részére évente két alkalommal, minden év március 31-ig és október 30-ig lehet benyújtani.
+(3)[^1] A továbbképzés szervezési jog megszerzésére irányuló kérelmet az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: ESZTT) részére évente egy alkalommal, minden év október 30-ig lehet benyújtani.
 
-(4) A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről a Bizottság javaslatára a miniszter évente két alkalommal, május 31-ig és december 31-ig dönt.
+(4)[^2] A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről az ESZTT javaslatára a miniszter évente két alkalommal, május 31-ig és december 31-ig dönt.
 
 (5) A továbbképzés szervezési jog megszerzésére irányuló kérelemnek tartalmaznia kell:
 
@@ -47,3 +47,6 @@ cc) a felsőfokú egészségügyi szakképzettséget, és
 d) a kérelmező egységes szerkezetbe foglalt hatályos létesítő okiratát a felsőoktatásról szóló törvény 1. számú mellékletében nevesített felsőoktatási intézmény kivételével.
 
 (7) A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmények névsorát a miniszter a minisztérium honlapján és a GYEMSZI a honlapján közzéteszi.
+
+[^1]: A 4. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 23. §-ával megállapított szöveg.
+[^2]: A 4. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 25. § a) pontja szerint módosított szöveg.
