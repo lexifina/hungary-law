@@ -1,16 +1,16 @@
-## 16. §[^2]
+## 16. §[^22]
 
 1. melléklet a 64/2011. (XI. 29.) NEFMI rendelethez
 
 ## Folyamatos továbbképzés alapján megszerezhető legmagasabb pontértékek (továbbképzési pontok)
 
-1. Elméleti továbbképzési tanfolyamok
+1.[^23] Elméleti továbbképzési tanfolyamok
 
 1.1. Kötelező szintentartó továbbképzésen vagy a 4. § (1) bekezdés a) pontja szerinti minősített elméleti tanfolyamon való részvétel óránként 2 pont.
 
 1.2. Kötelező szintentartó továbbképzésen vagy a 4. § (1) bekezdés a) pontja szerinti minősített elméleti tanfolyamon előadóként való részvétel óránként 4 pont.
 
-1.3. Más szakterület számára kötelezőnek meghirdetett, a résztvevőnek szabadon választható tanfolyamnak minősülő továbbképzésen való részvétel óránként 1 pont, írásbeli vizsgával történő befejezés esetén 2 pont. Sikertelen tudásszint felmérő teszt esetén a tanfolyam részvételi pontszáma a 4. § (1) bekezdés a) pontja szerinti továbbképzésen szerzett pontként ismerendő el.
+1.3. Más szakterület számára kötelezőnek meghirdetett, a résztvevőnek szabadon választható tanfolyamnak minősülő továbbképzésen való részvétel óránként 2 pont.
 
 A legmagasabb adható pontérték – a rendezvény időtartamától függetlenül – 50 pont.
 
@@ -88,4 +88,5 @@ Az egyéni továbbképzés célja az adott szakterületen belül új szakmai ism
 
 A legmagasabb adható pontérték szakképesítésenként évente 30 pont.
 
-[^2]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 1. melléklet 1. pontja a 2/2013. (I. 2.) EMMI rendelet 33. §-ával megállapított szöveg.

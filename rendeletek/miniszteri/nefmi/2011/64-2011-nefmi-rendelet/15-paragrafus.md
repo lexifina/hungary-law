@@ -16,6 +16,8 @@ ac) a szabadon választható továbbképzés pontértéke e rendelet szerinti sz
 
 b) a klinikai szakpszichológusok kivételével az 1. § (1) bekezdés b) pontja szerinti továbbképzésre kötelezettek számára meghirdetett továbbképzési tanfolyamok pontértéke e rendelet szerinti kötelező továbbképzésként.
 
-(4) A klinikai szakpszichológusok kivételével az 1. § (1) bekezdés b) pontjában foglalt azon továbbképzésre kötelezetteknek, akiknek a folyamatban lévő továbbképzési időszakukból e rendelet hatálybalépésekor 3 év vagy annál kevesebb idő van hátra, a továbbképzési kötelezettség teljesítéséhez a továbbképzési időszak alatt az e rendeletben foglaltak szerint 100 pont teljesítését kell igazolniuk.
+(4)[^21] Azon klinikai biokémikus, klinikai mikrobiológus és klinikai sugárfizikus szakképesítéssel rendelkező továbbképzésre kötelezetteknek, akiknek a folyamatban lévő továbbképzési időszakukból e rendelet hatálybalépésekor 3 év vagy annál kevesebb idő van hátra, a továbbképzési kötelezettség teljesítéséhez a továbbképzési időszak alatt az e rendeletben foglaltak szerint 100 pont teljesítését kell igazolniuk.
 
 (5) A kötelező szintentartó tanfolyamok az orvosok, fogorvosok, gyógyszerészek és klinikai szakpszichológusok folyamatos továbbképzéséről szóló 52/2003. (VIII. 22.) ESZCSM rendelet e rendelet hatálybalépését megelőző napon hatályos 3. § (1) bekezdése szerint meghatározott tematika alapján 2012. június 30-ig szervezhetőek.
+
+[^21]: A 15. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 32. § e) pontja szerint módosított szöveg.
