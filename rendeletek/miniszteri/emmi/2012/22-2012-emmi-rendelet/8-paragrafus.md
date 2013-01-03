@@ -4,6 +4,8 @@
 
 (3) Valamennyi szakorvosi alap szakképesítés esetén a szakvizsgára bocsátás feltétele a szakvizsga előkészítő tanfolyamon történő részvétel.
 
-(4) Az egyes szakorvosi alap- és ráépített szakképesítések során a szakvizsgára bocsátás feltételeként elvégzendő beavatkozásokat, műtéteket, vizsgálatokat (a továbbiakban együtt: beavatkozás) és ezek számát az egészségügyi szakmai kollégium és az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: ESZTT) javaslatára a miniszter hagyja jóvá és a minisztérium honlapján teszi közzé.
+(4)[^2] Az egyes szakorvosi alap- és ráépített szakképesítések során a szakvizsgára bocsátás feltételeként elvégzendő beavatkozásokat, műtéteket, vizsgálatokat (a továbbiakban együtt: beavatkozás) és ezek számát az egészségügyi szakmai kollégium és az Egészségügyi Szakképzési és Továbbképzési Tanács javaslatára a miniszter hagyja jóvá és a minisztérium honlapján teszi közzé.
 
 (5) Az e rendelet mellékleteiben az egyes képzésekre, képzési elemekre meghatározott időtartamok az adott képzés, képzési elem teljesítésével ténylegesen eltöltendő minimális időt foglalják magukba, a képzés során egyes területen hosszabb idő is eltölthető, valamint a képzési idők a szabadság időtartamát nem foglalják magukba.
+
+[^2]: A 8. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 38. §-a szerint módosított szöveg.

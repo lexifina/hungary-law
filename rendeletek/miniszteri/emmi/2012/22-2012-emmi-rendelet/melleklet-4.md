@@ -252,7 +252,7 @@
 
 ## a) 2 hó ultrahang gyakorlat
 
-## b) 4 hó vezérelt biopsiás gyakorlat
+## b) 3 hó képalkotó vezérelt biopsiás gyakorlat
 
 ## c) 2 hó klinikai ambuláns gyakorlat
 
@@ -410,19 +410,35 @@
 
 ## 1.1. Képzés belépési feltétele: csecsemő- és gyermekgyógyászat szakvizsga
 
-## 1.2. Képzési idő: 102 hó: 60 hó alapképzés + 42 hó ráépített képzés
+## 1.2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
 
 ## 1.3. Képzési program:
 
-## a) 30 hó gyermek-neurológiai speciális képzési modul, amennyiben a gyermekgyógyászati képzés során 12 hó gyermek-neurológiai vagy gyermek-rehabilitációs gyakorlat igazolható, annak beszámításával a képzési modul 18 hó alatt teljesíthető
+## a) 6 hó felnőtt neurológiai osztályos gyakorlat
 
-## b) 6 hó felnőtt neurológiai osztályos gyakorlat
+## b) 18 hó gyermek-neurológiai osztályos gyakorlat, ebben:
 
-## c) 6 hó gyermek-rehabilitációs, neuro-rehabilitációs, benne: ½ nap/hét gyermek- és ifjúságpszichiátriai modul
+## ba) 1 hó idegsebészeti gyakorlat
+
+## bb) 1 hó fejlődésneurológiai gyakorlat
+
+## bc) 1 hó csecsemő- és gyermek rehabilitációs gyakorlat: 1 hét Pető Intézetben, 1 hét Korai Fejlesztő Központban, 2 hét gyermek rehabilitációs osztályon
+
+## bd) 1 hó epilepszia műtét előtti kivizsgálás gyakorlat
+
+## be) 1 hó EEG laboratóriumi gyakorlat
+
+## bf) 2 hét egyéb elektrofiziológiai gyakorlat (EMG, ENG, kiváltott válaszok, polysomnographia)
+
+## bg) 2 hét neuroradiológiai gyakorlat
+
+## bh) 1 hét gyermekpszichiátriai gyakorlat
+
+## bi) 1 hét genetikai rendelésen való részvétel
 
 ## 1.4. Szakvizsgára bocsátás egyéb feltételei
 
-## -
+## –
 
 ## 2. GYERMEK-NEUROLÓGIA II.
 
@@ -432,39 +448,35 @@
 
 ## 2.3. Képzési program:
 
-## a) 18 hó gyermekideggyógyászati osztályokon, ebben:
+## a) 18 hó gyermekneurológiai osztályos gyakorlat, ebben:
 
-## aa) 1 hét EEG laboratórium
+## aa) 1 hó EEG laboratóriumi gyakorlat
 
-## ab) 1 hó idegsebészet
+## ab) 1 hó idegsebészeti gyakorlat
 
-## ac) 2 hó csecsemő- és gyermekrehabilitáció, ezen belül: 1 hó fejlődésneurológia
+## ac) 1 hó csecsemő- és gyermekrehabilitációs gyakorlat: 1 hét Pető Intézetben, 1 hét Korai Fejlesztő Központban, 2 hét gyermek rehabilitációs osztályon
 
-## ad) 3 hét gyermekrehabilitációs osztály
+## ad) 1 hó epilepszia műtét előtti kivizsgálás
 
-## ae) 1 hó epilepszia műtét előtti kivizsgálás
+## ae) 1 hó fejlődésneurológiai gyakorlat
 
-## af) 1 hét (vagy 5 alkalom) genetikai rendelés
+## af) 2 hét egyéb elektrofiziológiai gyakorlat (EMG, ENG, kiváltott válaszok, polysomnographia)
 
-## ag) 2 hét gyermek- és ifjúságpszicihátriai osztály és járóbeteg rendelés
+## ag) 2 hét neuroradiológiai gyakorlat
 
-## b) 6 hó gyermekgyógyászati osztályon:
+## ah) 1 hét gyermekpszichiátriai gyakorlat
 
-## ba) 1 hó neonatológia PIC-ben
+## ai) 1 hét genetikai rendelésen való részvétel
 
-## bb) 1 hó gyermekintenzív osztály
+## b) 6 hó gyermekgyógyászati osztályon, benne:
 
-## bc) 2 hét haematológia
+## ba) 1 hó perinatális intenzív centrum
 
-## bd) 1 hó gyermek fertőző osztály
-
-## be) 2 hét általános csecsemőosztály
-
-## bf) 2 hó általános gyermek belosztály
+## bb) 1 hó intenzív osztályos gyakorlat
 
 ## 2.4. Szakvizsgára bocsátás egyéb feltételei
 
-## -
+## –
 
 ## 13. GYERMEK-NŐGYÓGYÁSZAT
 
@@ -1004,17 +1016,15 @@
 
 ## e) 1 hó paraplegia-osztályos gyakorlat
 
-## f) 18 hó mozgásszervi rehabilitációs osztályos gyakorlat
+## f) 19 hó mozgásszervi rehabilitációs osztályos gyakorlat, benne:
 
-## g) 1 hó tanfolyamok:
+## fa) rehabilitációs alapismeretek I–II. (2 hét)
 
-## ga) rehabilitációs alapismeretek I-II. (2 hét)
+## fb) fizikoterápia I–II. (2 hét)
 
-## gb) fizikoterápia I-II. (2 hét)
+## fc) ortetika, protetika (1 hét)
 
-## gc) ortetika, protetika (1 hét)
-
-## gd) humánkineziológia (2 nap)
+## fd) humánkineziológia (2 nap)
 
 ## 1.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1034,15 +1044,13 @@
 
 ## c) 1 hó gyermek-rehabilitációs gyakorlat
 
-## d) 20 hó kardiológiai rehabilitációs osztályos gyakorlat
+## d) 21 hó kardiológiai rehabilitációs osztályos gyakorlat, benne:
 
-## e) 1 hó tanfolyamok:
+## da) rehabilitációs alapismeretek I-II. (2 hét)
 
-## ea) rehabilitációs alapismeretek I-II. (2 hét)
+## db) izikoterápia I-II. (2 hét)
 
-## eb) fizikoterápia I-II. (2 hét)
-
-## ec) kardiológiai rehabilitációs szakmaspecifikus tanfolyam (1 hét)
+## dc) kardiológiai rehabilitációs szakmaspecifikus tanfolyam (1 hét)
 
 ## 2.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1062,15 +1070,13 @@
 
 ## c) 1 hó pulmonológiai rehabilitációs gyakorlat
 
-## d) 20 hó gyermek-rehabilitációs osztályos gyakorlat
+## d) 21 hó gyermek-rehabilitációs osztályos gyakorlat, benne:
 
-## e) 1 hó tanfolyamok:
+## da) rehabilitációs alapismeretek I–II. (2 hét)
 
-## ea) rehabilitációs alapismeretek I-II. (2 hét)
+## db) fizikoterápia I-II. (2 hét)
 
-## eb) fizikoterápia I-II. (2 hét)
-
-## ec) gyermek-rehabilitációs szakmaspecifikus tanfolyam (1 hét)
+## dc) gyermek-rehabilitációs szakmaspecifikus tanfolyam (1 hét)
 
 ## 3.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1096,15 +1102,13 @@
 
 ## c) 1 hó pulmonológiai rehabilitációs gyakorlat
 
-## d) 20 hó pszichiátriai vagy gyermek- és ifjúságpszichiátriai rehabilitációs osztályos gyakorlat
+## d) 21 hó pszichiátriai vagy gyermek- és ifjúságpszichiátriai rehabilitációs osztályos gyakorlat, benne:
 
-## e) 1 hó tanfolyamok:
+## da) rehabilitációs alapismeretek I–II. (2 hét)
 
-## ea) rehabilitációs alapismeretek I-II. (2 hét)
+## db) fizikoterápia I-II. (2 hét)
 
-## eb) fizikoterápia I-II. (2 hét)
-
-## ec) pszichiátriai rehabilitációs szakmaspecifikus tanfolyam (1 hét)
+## dc) pszichiátriai rehabilitációs szakmaspecifikus tanfolyam (1 hét)
 
 ## 4.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1124,15 +1128,13 @@
 
 ## c) 1 hó gyermek-rehabilitációs gyakorlat
 
-## d) 20 hó pulmonológiai rehabilitációs osztályos gyakorlat
+## d) 21 hó pulmonológiai rehabilitációs osztályos gyakorlat, benne:
 
-## e) 1 hó tanfolyamok:
+## da) rehabilitációs alapismeretek I–II. (2 hét)
 
-## ea) rehabilitációs alapismeretek I-II. (2 hét)
+## db) fizikoterápia I–II. (2 hét)
 
-## eb) fizikoterápia I-II. (2 hét)
-
-## ec) tüdőgyógyászati rehabilitációs szakmaspecifikus tanfolyam (1 hét)
+## dc) tüdőgyógyászati rehabilitációs szakmaspecifikus tanfolyam (1 hét)
 
 ## 5.4. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1164,7 +1166,7 @@
 
 ## 2. PSZICHOTERÁPIA II.
 
-## 2.1. Képzés belépési feltétele: szakvizsga bármely klinikai alap szakképesítésből
+## 2.1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésből
 
 ## 2.2. Képzési idő: 82-114 hó: 46-78 hó alapképzés + 36 hó ráépített képzés
 

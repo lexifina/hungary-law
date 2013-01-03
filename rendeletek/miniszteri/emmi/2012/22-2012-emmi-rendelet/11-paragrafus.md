@@ -1,4 +1,4 @@
-## 10. § Az 1. mellékletben meghatározott szakképesítések megszerzése az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló miniszteri rendelet előírásai szerint történik. A szakképesítést az ESZTT Nemzeti Vizsgabizottsága által kiállított bizonyítvány tanúsítja. A bizonyítványban a szakképesítést az 1. mellékletben meghatározott megnevezéssel megegyezően kell feltüntetni.
+## 10. §[^3] Az 1. mellékletben meghatározott szakképesítések megszerzése az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló miniszteri rendelet előírásai szerint történik. A szakképesítést a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egysége által működtetett Nemzeti Vizsgabizottság által kiállított bizonyítvány tanúsítja. A bizonyítványban a szakképesítést az 1. mellékletben meghatározott megnevezéssel megegyezően kell feltüntetni.
 
 11. § (1) A szakképzési idő igazolásához szükséges feltételeket a jelölt – a (2) bekezdésben foglalt kivétellel – abban az esetben teljesíti, ha a szakképzési idő teljes időtartamában
 
@@ -19,3 +19,5 @@ c) újabb alap, vagy ráépített szakképesítés teljesítésének ideje alatt
 ## az egyetem döntése alapján részmunkaidőben is teljesíthetők.
 
 (4) Egy jelölt a szakképzésben egyidejűleg egy, a (2) bekezdés szerinti esetben – a (3) bekezdés a) és b) pontja kivételével – legfeljebb két szakma vonatkozásában vehet részt.
+
+[^3]: A 10. § a 2/2013. (I. 2.) EMMI rendelet 37. §-a szerint módosított szöveg.

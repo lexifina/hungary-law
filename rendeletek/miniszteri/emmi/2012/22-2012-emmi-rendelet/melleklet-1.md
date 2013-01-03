@@ -1,6 +1,6 @@
 ## 17. § Ez a rendelet a szakmai képesítések elismeréséről szóló 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 25. cikkének, 28. cikkének, 35. cikkének és V. melléklete 5.1.2., 5.1.3., 5.1.4. és 5.3.3. pontjának való megfelelést szolgálja.
 
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^5]
 
 1. Szakorvosi alap szakképesítések
 
@@ -134,7 +134,7 @@
 
 | 16. | 11. Gyermek hemato-onkológia | csecsemő- és gyermekgyógyászat | (60) +36 hó |
 
-| 17. | 12. Gyermek-neurológia | csecsemő- és gyermekgyógyászat | (60) +42 hó |
+| 17. | 12. Gyermek-neurológia | csecsemő- és gyermekgyógyászat | (60) +24 hó |
 
 | 18. | neurológia | (60) +24 hó |
 
@@ -224,11 +224,11 @@
 
 | 5. | 1.4. Gyógyszertári minőségbiztosítás | 36 hó | 12 hó | 24 hó |
 
-| 6. | 1.5. Fitoterápia | 36 hó | 12 hó | 24 hó |
+| 6. | 1.5. Fitoterápia | 48 hó | 12 hó | 24 hó |
 
 | 7. | 1.6. Gyógyszerügyi szakigazgatás | 36 hó | 12 hó | 24 hó |
 
-| 8. | 1.7. Farmakológia, farmakoterápia | 36 hó | 12 hó | 24 hó |
+| 8. | 1.7. Farmakológia, farmakoterápia | 36 hó | 24 hó | 24 hó |
 
 | 9. | 2. Kórházi-klinikai szak-gyógyszerészet | 2.1. Kórházi-klinikai szakgyógyszerészet | 36 hó | 12 hó | 24 hó |
 
@@ -321,3 +321,5 @@
 | 6. | 2. Ráépített szakképesítések |
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
+
+[^5]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése szerint módosított szöveg.

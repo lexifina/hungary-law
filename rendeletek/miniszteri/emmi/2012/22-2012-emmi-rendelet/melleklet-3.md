@@ -174,7 +174,7 @@
 
 ## g) 2 hó dermatopatológia
 
-## h) 9 hó általános bőrgyógyászati járóbeteg rendelés
+## h) 8 hó általános bőrgyógyászati járóbeteg rendelés
 
 ## i) 4 hó bőrgyógyászati allergo-immunológia
 
@@ -2190,4 +2190,6 @@
 
 ## Szakvizsga-felkészítő program sikeres teljesítése (évente 5x3 nap elméleti és gyakorlati képzés a teljes urológiai tananyagot felölelően, forgó rendszerben).
 
-3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
+3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^7]
+
+[^7]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése szerint módosított szöveg.

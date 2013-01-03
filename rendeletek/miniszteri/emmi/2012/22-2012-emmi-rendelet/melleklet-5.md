@@ -88,7 +88,7 @@
 
 ## Meghatározott számú és típusú beavatkozás teljesítése.
 
-5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
+5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^8]
 
 ## Gyógyszerészi alap-szakképzési programok
 
@@ -398,7 +398,7 @@ i) szervezési, vezetési ismeretek, gazdasági vállalkozási ismeretek, pszich
 
 1.7. Farmakológia, farmakoterápia
 
-1.7.1. Képzési idő: 36 hónap
+1.7.1. Képzési idő: 48 hónap
 
 1.7.2. Képzési program:
 
@@ -1109,3 +1109,5 @@ j) kötelező tanfolyamok, elemei: nukleáris medicina, sugárvédelem, sugárte
 3.10.3. Szakvizsgára bocsátás egyéb feltételei
 
 Részvétel szakvizsga előkészítő tanfolyamon.
+
+[^8]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése szerint módosított szöveg.
