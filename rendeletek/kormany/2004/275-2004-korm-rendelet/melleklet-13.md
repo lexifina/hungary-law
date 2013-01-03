@@ -266,6 +266,8 @@
 
 | HUBN20069 | Kesznyéteni Sajó-öböl |
 
+| HUBN21094 | Bujáki Hényeli-erdő és Alsó-rét |
+
 | Duna-Dráva Nemzeti Park Igazgatóság |
 
 | HUDD20001 | Tenkes |
@@ -458,6 +460,8 @@
 
 | HUDI20055 | Veresegyházi-medence |
 
+| HUDI21056 | Jászkarajenői puszták |
+
 | HUDI30001 | Vértes |
 
 | Fertő-Hanság Nemzeti Park Igazgatóság |
@@ -474,7 +478,7 @@
 
 | HUFH20008 | Pannonhalmi-dombság |
 
-| HUFH20009 | Gönyüi-homokvidék |
+| HUFH20009 | Gönyűi-homokvidék |
 
 | HUFH20010 | Répce mente |
 
@@ -682,6 +686,14 @@
 
 | HUHN20161 | Sámsoni úti bellegelő |
 
+| HUHN21162 | Jászalsószentgyörgyi erdő |
+
+| HUHN21163 | Biri Nagy-rét |
+
+| HUHN21164 | Liget-legelő |
+
+| HUHN21165 | Penészleki gyepek |
+
 | Körös-Maros Nemzeti Park Igazgatóság |
 
 | HUKM20001 | Hódmezővásárhely környéki és csanádi-háti puszták |
@@ -832,6 +844,6 @@
 
 | HUON20018 | Őrség |
 
-13. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^73]
+13. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^77]
 
-[^73]: A 13. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 4. §-a és 6. § (3) bekezdése szerint módosított szöveg.
+[^77]: A 13. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 4. §-a és 6. § (3) bekezdése szerint módosított szöveg.

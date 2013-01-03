@@ -734,7 +734,7 @@
 
 | Tortella rigen | nincs magyar neve |
 
-## 3. B) számú melléklet[^62]
+## 3. B) számú melléklet[^63]
 
 ## Kiemelt közösségi jelentőségű növényfajok
 
@@ -1148,7 +1148,7 @@
 
 ## Marsupella profunda nincs magyar neve
 
-4. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^63]
+4. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^64]
 
-[^62]: A 3. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^63]: A 4. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^63]: A 3. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^64]: A 4. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

@@ -4,6 +4,12 @@
 
 | Aggteleki Nemzeti Park Igazgatóság |
 
+| HUAN21007 | Bózsva-patak |
+
+| HUAN21008 | Mádi Bomboly-bánya |
+
+| HUAN21009 | Mádi Kakas-hegy |
+
 | HUBN20079 | Révleányvári erdők |
 
 | Balaton-felvidéki Nemzeti Park Igazgatóság |
@@ -37,6 +43,8 @@
 | HUBN20044 | Recski Hegyes-hegy |
 
 | HUBN20062 | Középső-Ipoly-völgy |
+
+| HUBN21095 | Nagylóci Kő-hegy |
 
 | Duna-Dráva Nemzeti Park Igazgatóság |
 
@@ -144,6 +152,6 @@
 
 | HUON20020 | Gyöngyös-patak és kőszegi Alsó-rét |
 
-12. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^72]
+12. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^76]
 
-[^72]: A 12. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^76]: A 12. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 6. § (2) bekezdés d) pontja, a 375/2012. (XII. 19.) Korm. rendelet 4. §-a szerint módosított szöveg.

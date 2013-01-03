@@ -1,4 +1,4 @@
-15. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^75]
+15. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^79]
 
 A Natura 2000 területet érintő hatások megállapításának szempontjai
 
@@ -74,4 +74,4 @@ C) A területek koherenciája
 
 A tevékenységgel érintett terület más Natura 2000 területekkel alkotott ökológiai hálózatának koherenciájában betöltött szerepének értékelése, a terület kijelölésének alapjául szolgáló fajokra, élőhelytípusokra irányuló hatásoknak az A) és B) pontban felsorolt szempontok szerinti figyelembevételével.
 
-[^75]: A 15. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^79]: A 15. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be.

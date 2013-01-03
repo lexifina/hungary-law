@@ -204,6 +204,6 @@
 
 3. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez
 
-3. A) számú melléklet[^61]
+3. A) számú melléklet[^62]
 
-[^61]: A 3. A) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 23/2010. (II. 11.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^62]: A 3. A) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 23/2010. (II. 11.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-275-20-
 | 2010-02-26 | 2004-275-20-22.9 | 266/2008. (XI. 6.) Korm. rendelet |
 | 2010-04-01 | 2004-275-20-22.10 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2011-07-13 | 2004-275-20-22.11 | 266/2008. (XI. 6.) Korm. rendelet |
+| 2013-01-03 | 2004-275-20-22.12 | 266/2008. (XI. 6.) Korm. rendelet |
