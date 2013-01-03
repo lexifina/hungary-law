@@ -12,7 +12,7 @@ c) az egészségügy területén működő egyesület
 
 (2) Az (1) bekezdés szerinti kezdeményezést az Egészségügyi Szakképzési és Továbbképzési Tanácshoz (a továbbiakban: ESZTT) kell benyújtani.
 
-(3) A kezdeményezésnek – az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 116/D. § (4) bekezdés b) pontja figyelembevételével – tartalmaznia kell:
+(3)[^2] A kezdeményezésnek tartalmaznia kell:
 
 a) a licenc képzés célját annak indoklásával, hogy miért szükséges az adott licenc képzés bevezetése,
 
@@ -36,4 +36,7 @@ i) a szakmai kollégium illetékes tagozatainak egyetértő nyilatkozatát.
 
 (5) A licenc képzés bevezetésére tett javaslatokról az ESZTT kezdeményezésére az egészségügyért felelős miniszter (a továbbiakban: miniszter) dönt.
 
-(6) Nem fogadható el licencként olyan javaslat, amely nem felel meg a 2. § (2) bekezdésében vagy az Eütv. 116/D. § (1)–(4) bekezdésében meghatározott feltételeknek.
+(6)[^3] Nem fogadható el licencként olyan javaslat, amely nem felel meg a 2. § (2) bekezdésében meghatározott feltételeknek.
+
+[^2]: A 3. § (3) bekezdés nyitó szövegrésze a 2/2013. (I. 2.) EMMI rendelet 43. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (6) bekezdése a 2/2013. (I. 2.) EMMI rendelet 43. § b) pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-8. § (1) A Nemzeti Vizsgabizottság (a továbbiakban: NVB) elnöke a szakorvost – a 7. § (1) bekezdésében foglaltak teljesülése esetén – vizsgára bocsátja, ezzel egyidejűleg kijelöli a licenc vizsga időpontját és helyét, amelyről a szakorvost legkésőbb a licenc vizsga időpontját 15 nappal megelőzően értesíti.
+8. § (1)[^7] A Hivatal a szakorvost a licenc vizsga időpontjáról és helyéről a licenc vizsgát megelőzően legalább tizenöt nappal értesti.
 
-(2) Ha az NVB elnöke azt állapítja meg, hogy a szakorvos a feltételek nem teljesítése miatt nem bocsátható vizsgára, az elutasításról határozatot hoz, aminek felülvizsgálatát a szakorvos a határozat kézhezvételétől számított öt napon belül kérheti az ESZTT elnökénél. Az ESZTT elnöke a kérelmet nyolc napon belül bírálja el, és döntéséről értesíti a jelöltet.
+(2)[^8]
 
-(3) A licenc vizsga 3 tagú vizsgabizottság előtt zajlik. A vizsgabizottság elnökét és tagjait az NVB elnöke kéri fel az NVB-nél vezetett névjegyzékből.
+(3)[^9] A licenc vizsga háromtagú vizsgabizottság előtt zajlik. A licenc vizsgabizottság tagjainak és közülük az elnöknek az (5) bekezdésben meghatározott vizsgáztatók közül történő felkéréséről a Hivatal gondoskodik.
 
-(4) Ha a felkért vizsgáztató a felkérésnek nem tud eleget tenni, köteles erről az NVB elnökét haladéktalanul értesíteni. Ebben az esetben az NVB elnöke gondoskodik új tag felkéréséről. Ha erre az idő rövidsége miatt nem kerülhet sor, akkor az NVB elnöke új vizsgaidőpontot jelöl ki.
+(4)[^10] Ha a felkért vizsgáztató a felkérésnek nem tud eleget tenni, köteles erről a Hivatalt haladéktalanul értesíteni. Ebben az esetben a Hivatal gondoskodik új tag felkéréséről. Ha erre az idő rövidsége miatt nem kerülhet sor, akkor az NVB elnöke új vizsgaidőpontot jelöl ki.
 
 (5) Vizsgáztató
 
@@ -24,4 +24,10 @@ b) a jelölt hozzátartozója, vagy
 
 c) akitől a jelölt teljesítményének tárgyilagos megítélése egyéb okból nem várható el.
 
-(8) A (7) bekezdés szerinti összeférhetetlenség fennállásáról a jelölt vagy a vizsgabizottság érintett tagjának kérelmére az NVB elnöke dönt. Ha az NVB elnöke megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (4) bekezdés szerinti módon gondoskodik.
+(8)[^11] A (7) bekezdés szerinti összeférhetetlenség fennállásáról a jelölt vagy a vizsgabizottság érintett tagjának kérelmére a GYEMSZI illetékes főigazgató-helyettese dönt. Ha a GYEMSZI illetékes főigazgató-helyettese megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (4) bekezdés szerinti módon gondoskodik.
+
+[^7]: A 8. § (1) bekezdése a 2/2013. (I. 2.) EMMI rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^8]: A 8. § (2) bekezdését a 2/2013. (I. 2.) EMMI rendelet 43. § c) pontja hatályon kívül helyezte.
+[^9]: A 8. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^10]: A 8. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
+[^11]: A 8. § (8) bekezdése a 2/2013. (I. 2.) EMMI rendelet 42. § d) pontja szerint módosított szöveg.
