@@ -4,4 +4,4 @@
 
 (2)
 
-(3) A 12–28. alcím és a 30–42. alcím 2012. január 2-án hatályát veszti. A 29. alcím és a 43. alcím 2013. január 2-án hatályát veszti.
+(3)
