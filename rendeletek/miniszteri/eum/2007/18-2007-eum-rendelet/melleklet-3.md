@@ -1,12 +1,12 @@
 ## A működési nyilvántartási lap adattartalma
 
-## I. Személyi adatok:
+## I.[^56] Személyi adatok:
 
-## 1. az egészségügyről szóló törvény (Eütv.) alapján a működési nyilvántartás részét képező személyes adatok
+## 1. az Eütv. alapján a működési nyilvántartás részét képező személyes adatok
 
-## 1a.[^49] egészségügyi tevékenység során használt név
+## 1a. az egészségügyi tevékenység során használt név
 
-## 2. levelezési cím
+## 2. lakóhely és levelezési cím
 
 ## 3. telefonszám
 
@@ -32,17 +32,19 @@
 
 ## 2. előző működési nyilvántartási szám (ha van ilyen)
 
-## 3. tudományos fokozat
+## 3.[^57] tudományos fokozat:
 
-## – nyilvántartási száma
+## 3.1. megnevezése
 
-## – kiállítás helye és ideje
+## 3.2. nyilvántartási száma
 
-## – kiállító intézmény megnevezése
+## 3.3. kiállítás helye és ideje
 
-## 4. nyelvismeret
+## 3.4. kiállító intézmény megnevezése
 
-## – nyelv megnevezése, nyelvismeret foka
+## 4.[^58] nyelvismeret
+
+## – nyelv megnevezése, nyelvismeret típusa, fajtája, szintje
 
 ## – bizonyítvány száma
 
@@ -52,17 +54,23 @@
 
 ## – a külön jogszabályban meghatározott esetben az igazolt magyar nyelvismeret alapján végezhető tevékenységi kör megjelölése
 
-## 5. munkahely
+## 5.[^59] munkavégzéssel kapcsolatos adatok:
 
-## – megnevezése
+## 5.1. a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helyének megnevezése
 
-## – címe
+## 5.2. a munkahely címe
 
-## – beosztás
+## 5.3. a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez
 
-## – a munkavégzésre irányuló jogviszony jellege [az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 7. § (2) bekezdése]
+## 5.4. a munkavégzésre irányuló jogviszony jellege, időtartama
 
-## 6.[^50] az Eütv. szerinti továbbképzési kötelezettség teljesítésének ténye, vagy a továbbképzési kötelezettség alóli mentesülés ténye
+## 5.5. a szolgáltató ellátási szintje (alapellátás, járóbeteg-ellátás, fekvőbeteg-ellátás)
+
+## 5.6. alkalmazott egészségügyi dolgozó esetén az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, a heti munkaidő
+
+## 5.7. külföldi munkavégzés esetén a munkavégzés helye, időtartama
+
+## 6.[^60] az Eütv. szerinti továbbképzési kötelezettség teljesítésének ténye, vagy a továbbképzési kötelezettség alóli mentesülés ténye
 
 ## 7. korlátozott alkalmasság
 
@@ -76,7 +84,7 @@
 
 ## 10. az Eütv. szerinti eljárás keretében kiszabott jogerős büntetés ténye és a büntetést kiszabó határozat jogerőre emelkedésének napja
 
-## 11.[^51] Licenc vizsgák
+## 11.[^61] Licenc vizsgák
 
 ## – Licenc vizsga neve
 
@@ -112,7 +120,7 @@
 
 ## c) a kiállító intézmény megnevezése
 
-## VIII.[^52] Az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély
+## VIII.[^62] Az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély
 
 ## – szakterület megnevezése
 
@@ -140,180 +148,191 @@
 
 ## XI. Megjegyzés
 
-3. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^53]
+3. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^63]
 
 A kérelem adattartalma
 
-Az I., II., III., XIII., XV. és XVI. pontban foglaltak kivételével a nyilvántartás megújítására, meghosszabbítására vagy az újrafelvételre irányuló eljárásban csak azokat az adatokat kell kötelezően feltüntetni, amelyek a működési nyilvántartásba történő felvétel, vagy a működési nyilvántartásban történt legutolsó változásbejegyzés óta módosultak.
+Az 1., 2., 3., 4., 14., 15. és 16. pontban foglaltak kivételével a nyilvántartás megújítására, meghosszabbítására vagy az újrafelvételre irányuló eljárásban csak azokat az adatokat kell kötelezően feltüntetni, amelyek a működési nyilvántartásba történő felvétel vagy a működési nyilvántartásban történt legutolsó változásbejegyzés óta módosultak.
 
-A VIII. pontban foglaltakat csak a megújításra és az újrafelvételre vonatkozó kérelem esetén kell feltüntetni.
+A 9. pontban foglaltakat csak a megújításra és az újrafelvételre vonatkozó kérelem esetén kell feltüntetni.
 
-A XI. pontban foglaltakat csak a nyilvántartás meghosszabbítására vonatkozó kérelem esetén kell feltüntetni.
+A 12. pontban foglaltakat csak a nyilvántartás meghosszabbítására vonatkozó kérelem esetén kell feltüntetni.
 
-A XIV. pont szerinti kérelmet a Hivatal csak akkor tudja figyelembe venni, ha a kérelmező közalkalmazotti jogviszony, munkaviszony, közszolgálati jogviszony vagy szolgálati jogviszony keretében végez egészségügyi tevékenységet.
+A 17. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelvételi kérelem esetén kell feltüntetni.
 
-A XVII. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelvételi kérelem esetén kell feltüntetni.
+1. Kifejezett kérelem arra vonatkozóan, hogy a Hivatal a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
 
-I. Kifejezett kérelem arra vonatkozóan, hogy a Hivatal a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
+1.1. a kérelmezőt működési nyilvántartásba vegye
 
-1. a kérelmezőt működési nyilvántartásba vegye,
+1.2. a kérelmező működési nyilvántartását újítsa meg
 
-2. a kérelmező működési nyilvántartását újítsa meg,
+1.3. a kérelmező működési nyilvántartását hosszabbítsa meg
 
-3. a kérelmező működési nyilvántartását hosszabbítsa meg, vagy
+1.4. a kérelmezőt a működési nyilvántartásból való törlést követően újra nyilvántartásba vegye
 
-4. a kérelmezőt a működési nyilvántartásból való törlést követően újra nyilvántartásba vegye
+1.5. a kérelmezőt a működési nyilvántartásból törölje
 
-II. Személyes adatok
+1.6. a kérelmező működési nyilvántartási igazolványát pótolja
 
-1. név
+1.7. az adatváltozást átvezesse
 
-1a. egészségügyi tevékenység során használt név
+1.8. a felügyelet melletti tevékenységgyakorlást rögzítse
 
-2. születési név
+2. Személyes adatok
 
-3. születési hely, idő
+2.1. név
 
-4. anyja születési neve
+2.2. az egészségügyi tevékenység során használt név
 
-5. állampolgárság
+2.3. születési név
 
-6. lakóhely
+2.4. nem
 
-7. tartózkodási hely (amennyiben eltér)
+2.5. születési hely, idő
 
-8. levelezési cím (amennyiben eltér)
+2.6. anyja születési neve
 
-9. telefonszám
+2.7. állampolgárság
 
-10. e-mail cím
+2.8. lakóhely
 
-III. A szakképesítésre vonatkozó adatok (több szakképesítés esetén mindegyik)
+2.9. tartózkodási hely (amennyiben eltér)
 
-1. a szakképesítés megnevezése
+2.10. levelezési cím (amennyiben eltér)
 
-2. oklevél, bizonyítvány száma, kelte, kiállító intézmény, képzés nyelve
+2.11. telefonszám
 
-3. elismerés, honosítás esetén az elismerő, honosító okirat száma, kelte, elismerő/honosító hatóság
+2.12. e-mail cím
 
-4. annak a szakképesítésnek a megnevezése, amelyre a kérelmező a nyilvántartás megújítását kéri
+3. A szakképesítésre vonatkozó adatok (több szakképesítés esetén mindegyik)
 
-IV. Nyelvismeretre vonatkozó adatok (idegen nyelvenként a nyelvismeret legmagasabb szintjét tanúsító nyelvismeretet igazoló dokumentum alapján)
+3.1. a szakképesítés megnevezése
 
-1. az idegen nyelv megjelölése
+3.2. oklevél, bizonyítvány száma, kelte, kiállító intézmény, képzés nyelve
 
-2. a nyelvvizsga
+3.3. elismerés, honosítás esetén az elismerő, honosító okirat száma, kelte, elismerő/honosító hatóság
 
-a) fajtája (általános nyelvi, szaknyelvi)
+3.4. annak a szakképesítésnek a megnevezése, amelyre a kérelmező a nyilvántartás megújítását kéri
 
-b) típusa (szóbeli, írásbeli, komplex)
+4. Licenc vizsgára vonatkozó adatok
 
-c) fokozata (alap-, közép- és felsőfok)
+4.1. Licenc vizsga neve
 
-V. Tudományos fokozat
+4.2. Licenc tanúsítvány száma
 
-1. típusa
+4.3. Licenc tanúsítvány (és – ha van – a licenc megújítását tanúsító igazolás) kelte
 
-2. tudományterület megnevezése
+4.4. A jogosultsági időszak lejárta
 
-3. megszerzésének helye, ideje
+5. Nyelvismeretre vonatkozó adatok (idegen nyelvenként a nyelvismeret legmagasabb szintjét tanúsító nyelvismeretet igazoló dokumentum alapján)
 
-4. az okirat sorszáma, kelte, a kiállító szerv neve
+5.1. az idegen nyelv megjelölése
 
-VI. Az egészségügyi tevékenység végzésére való alkalmasság/korlátozott alkalmasság
+5.2. a nyelvvizsga
 
-VII. A kérelmező munkahelye, munkavégzés helyének adatai
+5.2.1. fajtája (általános nyelvi, szaknyelvi)
 
-1. megnevezése
+5.2.2. típusa (szóbeli, írásbeli, komplex)
 
-2. címe
+5.2.3. szintje (alap-, közép-, felsőfok)
 
-3. szakterület megnevezése, amely területen ténylegesen munkát végez
+6. Tudományos fokozat
 
-4. a munkavégzésre irányuló jogviszony jellege [Eütev. 7. § (2) bekezdése]
+6.1. megnevezése
 
-5. hatósági engedély alapján történő egészségügyi tevékenységvégzés esetén az engedélyt kiállító szerv megnevezése
+6.2. tudományterület megnevezése
 
-VIII. Elméleti továbbképzés teljesítése, vagy az elméleti továbbképzés alóli mentesülés indoka
+6.3. megszerzésének helye, ideje
 
-IX. A kérelmező erre vonatkozó kérelme esetén feltüntetendő adatok
+6.4. az okirat sorszáma, kelte, a kiállító szerv neve
 
-1. az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély ténye
+7. Az egészségügyi tevékenység végzésére való alkalmasság/korlátozott alkalmasság
 
-2. szakterület megnevezése
+8. A kérelmező munkahelye, munkavégzés helyének adatai
 
-3. érvényességi ideje
+8.1. megnevezése
 
-4. kiállítás kelte
+8.2. címe
 
-X. Felügyeleti tevékenységgel kapcsolatos adatok
+8.3. szakterület megnevezése, amely területen ténylegesen munkát végez
 
-1. a kérelmező felügyeleti tevékenységet ellát-e
+8.4. a munkavégzésre irányuló jogviszony jellege [az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 7. § (2) bekezdése]
 
-2. felügyelet melletti tevékenységgyakorlás kezdete (a szakma megnevezésével)
+8.5. hatósági engedély alapján történő egészségügyi tevékenységvégzés esetén az engedélyt kiállító szerv megnevezése
 
-3. felügyelet melletti tevékenységgyakorlás időtartama (a szakma megnevezésével)
+9. Elméleti továbbképzés teljesítése, vagy az elméleti továbbképzés alóli mentesülés indoka
 
-4. a felügyeletet ellátó személy neve, működési nyilvántartási száma
+10. A kérelmező erre vonatkozó kérelme esetén feltüntetendő adatok
 
-5. az egészségügyi dolgozó működési nyilvántartását az Eütv. 113. § (5) bekezdése alapján érintő, vagy egészségügyi tevékenységvégzési jogosultságát érintő, külföldi hatóságnál keletkezett egyéb adat [az Eütv. 110. § (16) bekezdés b) pontja szerinti adat]
+10.1. az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély ténye
 
-6. külföldi munkavégzés helye, időtartama
+10.2. szakterület megnevezése
 
-XI. A meghosszabbítás iránti kérelem kiegészítő adatai
+10.3. érvényességi ideje
+
+10.4. kiállítás kelte
+
+11. Felügyeleti tevékenységgel kapcsolatos adatok
+
+11.1. a kérelmező felügyeleti tevékenységet ellát-e
+
+11.2. felügyelet melletti tevékenységgyakorlás kezdete (a szakma megnevezésével)
+
+11.3. felügyelet melletti tevékenységgyakorlás időtartama (a szakma megnevezésével)
+
+11.4. a felügyeletet ellátó személy neve, működési nyilvántartási száma
+
+11.5. az egészségügyi dolgozó működési nyilvántartását az Eütv. 113. § (5) bekezdése alapján érintő, vagy egészségügyi tevékenységvégzési jogosultságát érintő, külföldi hatóságnál keletkezett egyéb adat [az Eütv. 110. § (16) bekezdés b) pontja szerinti adat]
+
+11.6. külföldi munkavégzés helye, időtartama
+
+12. A meghosszabbítás iránti kérelem kiegészítő adatai
 
 Az egészségügyi tevékenység szüneteltetésének
 
-1. oka
+12.1. oka
 
-2. kezdő, befejező dátuma
+12.2. kezdő, befejező dátuma
 
-XII. Kiegészítő gyakorlati továbbképzés kezdete, vége
+13. Kiegészítő gyakorlati továbbképzés kezdete, vége
 
-XIII. A kérelmező nyilatkozata arról, hogy Magyarországon kívül egészségügyi tevékenységet
+14. A kérelmező nyilatkozata arról, hogy Magyarországon kívül egészségügyi tevékenységet
 
-1. végzett vagy jelenleg is végez, és a tevékenység végzésének helye szerinti állam(ok) [az állam(ok) megnevezése] jogszabályai alapján a kérelmező nem áll egészségügyi tevékenység gyakorlását kizáró, illetve korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt,
+14.1. végzett vagy jelenleg is végez, és a tevékenység végzésének helye szerinti állam(ok) [az állam(ok) megnevezése] jogszabályai alapján a kérelmező nem áll egészségügyi tevékenység gyakorlását kizáró, illetve korlátozó intézkedés, büntetés, illetve büntetőjogi intézkedés hatálya alatt,
 
-2. nem végzett és jelenleg sem végez.
+14.2. nem végzett és jelenleg sem végez.
 
-XIV. Kifejezett kérelem arra vonatkozóan, hogy a Hivatal a 8. § (2) bekezdésében foglaltak szerint a szakmai gyakorlat igazolását a munkáltatótól beszerezze.
+15. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
 
-XV. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
+16. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak a Hivatal általi ellenőrzéséhez.
 
-XVI. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak a Hivatal általi ellenőrzéséhez.
+17. A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy a Hivatal az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
 
-XVII. A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy a Hivatal az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
+18. Kifejezett kérelem a Hivatalnak az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
 
-XVIII. Kifejezett kérelem a Hivatalnak az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
+19. A kérelemhez az alábbi dokumentumokat kell csatolni:
 
-XIX. A kérelemhez az alábbi dokumentumokat kell csatolni:
+19.1. Újrafelvételi kérelemhez: az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány (ha a kérelmező nem él a 17. pont szerinti kérelemmel).
 
-1. Megújítási kérelemhez:
+19.2. Meghosszabbítási kérelemhez:
 
-a) szakmai gyakorlat igazolása [csak a 8. § (4) bekezdése szerinti esetben, illetve akkor, ha a kérelmező a 8. § (2) bekezdése alapján az igazolás beszerzését nem kéri].
+19.2.1. a meghosszabbítás alapjául szolgáló dokumentumok (például: a közfeladatot ellátó személy munkáltatójának a munkavégzés helyére, időtartamára vonatkozó igazolása),
 
-2. Újrafelvételi kérelemhez:
+19.2.2. a 8/A. § (1) bekezdésében meghatározottak igazolására szolgáló dokumentumok.
 
-a) szakmai gyakorlat igazolása [csak a 8. § (4) bekezdése szerinti esetben, illetve akkor, ha a kérelmező a 8. § (2) bekezdése alapján az igazolás beszerzését nem kéri],
+19.3. Nyilvántartásba vételi kérelemhez:
 
-b) az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány [ha a kérelmező nem él a XVIII. pont szerinti kérelemmel].
+19.3.1. nyelvismeretet igazoló dokumentum (ha van ilyen),
 
-3. Meghosszabbítási kérelemhez:
+19.3.2. tudományos fokozat megszerzését igazoló dokumentum (ha van ilyen),
 
-a) a meghosszabbítás alapjául szolgáló dokumentumok (például: a közfeladatot ellátó személy munkáltatójának a munkavégzés helyére, időtartamára vonatkozó igazolása),
+19.3.3. az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány (ha a kérelmező nem él a 18. pont szerinti kérelemmel).
 
-b) a 8/A. § (1) bekezdésében meghatározottak igazolására szolgáló dokumentumokat.
-
-4. Nyilvántartásba vételi kérelemhez:
-
-a) nyelvismeretet igazoló dokumentum (ha van ilyen),
-
-b) tudományos fokozat megszerzését igazoló dokumentum (ha van ilyen),
-
-c) az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány [ha a kérelmező nem élt a XVIII. pont szerinti kérelemmel].
-
-[^49]: A 2. számú melléklet I. pont 1a. alpontját az 57/2011. (IX. 29.) NEFMI rendelet 14. § (1) bekezdése iktatta be.
-[^50]: A 2. számú melléklet III. pont 6. alpontja az 57/2011. (IX. 29.) NEFMI rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^51]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte, újonnan a 23/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be.
-[^52]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
-[^53]: Az eredeti 3. számú melléklet megjelölését 3. mellékletre változtatta az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése. A 3. számú melléklet a 11/2009. (IV. 10.) EüM rendelet 6. §-ával megállapított, az 50/2009. (XII. 30.) EüM rendelet 5. §-a, az 57/2011. (IX. 29.) NEFMI rendelet 14. § (3)–(5) és 15. § d) pontja szerint módosított szöveg.
+[^56]: A 2. melléklet I. pontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^57]: A 2. melléklet III. pont 3. alpontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^58]: A 2. melléklet III. pont 4. alpontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^59]: A 2. melléklet III. pont 5. alpontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^60]: A 2. számú melléklet III. pont 6. alpontja az 57/2011. (IX. 29.) NEFMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^61]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte, újonnan a 23/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be.
+[^62]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
+[^63]: Az eredeti 3. számú melléklet megjelölését 3. mellékletre változtatta az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése. A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.

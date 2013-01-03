@@ -14,7 +14,7 @@ e) az a) és b) pont szerinti személyekről az Eütv. 110–112. §-a szerinti 
 
 f) az Eütv. 113. § (4) bekezdése szerinti közfeladatot ellátó személyek munkáltatójára,
 
-g) az Egészségügyi Szakképzési és Továbbképzési Tanácsra (a továbbiakban: ESZTT),
+g)[^3]
 
 h) az egészségügyi szakmai továbbképzést végző szervezetekre és intézményekre,
 
@@ -34,3 +34,4 @@ o) az Országos Egészségbiztosítási Pénztárra
 
 [^1]: Az 1. §-t megelőző alcím az 51/2008. (XII. 31.) EüM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § az 57/2011. (IX. 29.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^3]: Az 1. § g) pontját a 2/2013. (I. 2.) EMMI rendelet 9. § a) pontja hatályon kívül helyezte.

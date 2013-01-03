@@ -1,3 +1,3 @@
-1. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^47]
+1. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^53]
 
-[^47]: Az eredeti 1. számú melléklet megjelölését 1. mellékletre változtatta, és szövegét megállapította az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése.
+[^53]: Az eredeti 1. számú melléklet megjelölését 1. mellékletre változtatta, és szövegét megállapította az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése.

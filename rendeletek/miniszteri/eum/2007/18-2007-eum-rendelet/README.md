@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | 2011-01-01 | 2007-18-20-0B.8 | 50/2009. (XII. 30.) EüM rendelet |
 | 2011-10-04 | 2007-18-20-0B.9 | 57/2011. (IX. 29.) NEFMI rendelet |
 | 2012-10-14 | 2007-18-20-0B.10 | 51/2008. (XII. 31.) EüM rendelet |
+| 2013-01-03 | 2007-18-20-0B.11 | 2/2013. (I. 2.) EMMI rendelet |
