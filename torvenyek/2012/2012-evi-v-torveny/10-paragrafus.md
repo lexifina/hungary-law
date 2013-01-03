@@ -1,1 +1,1 @@
-10. § A Kttv. hatálybalépésével köztisztviselők, közszolgálati ügykezelők esetében a Ktv. 31. §-a szerinti főosztályvezetői, főosztályvezető-helyettesi és osztályvezetői megbízás e törvény erejénél fogva határozatlan idejű főosztályvezetői, főosztályvezető-helyettesi és osztályvezetői munkakörré alakul át. Az érintetteket e tényről a törvény hatálybalépését követő harminc napon belül a munkáltatónak tájékoztatnia kell.
+10. §
