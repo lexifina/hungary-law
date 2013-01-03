@@ -1,0 +1,181 @@
+## „3. melléklet a 18/2007. (IV. 17.) EüM rendelethez
+
+## A kérelem adattartalma
+
+## Az 1., 2., 3., 4., 14., 15. és 16. pontban foglaltak kivételével a nyilvántartás megújítására, meghosszabbítására vagy az újrafelvételre irányuló eljárásban csak azokat az adatokat kell kötelezően feltüntetni, amelyek a működési nyilvántartásba történő felvétel vagy a működési nyilvántartásban történt legutolsó változásbejegyzés óta módosultak.
+
+## A 9. pontban foglaltakat csak a megújításra és az újrafelvételre vonatkozó kérelem esetén kell feltüntetni.
+
+## A 12. pontban foglaltakat csak a nyilvántartás meghosszabbítására vonatkozó kérelem esetén kell feltüntetni.
+
+## A 17. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelvételi kérelem esetén kell feltüntetni.
+
+## 1. Kifejezett kérelem arra vonatkozóan, hogy a Hivatal a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
+
+## 1.1. a kérelmezőt működési nyilvántartásba vegye
+
+## 1.2. a kérelmező működési nyilvántartását újítsa meg
+
+## 1.3. a kérelmező működési nyilvántartását hosszabbítsa meg
+
+## 1.4. a kérelmezőt a működési nyilvántartásból való törlést követően újra nyilvántartásba vegye
+
+## 1.5. a kérelmezőt a működési nyilvántartásból törölje
+
+## 1.6. a kérelmező működési nyilvántartási igazolványát pótolja
+
+## 1.7. az adatváltozást átvezesse
+
+## 1.8. a felügyelet melletti tevékenységgyakorlást rögzítse
+
+## 2. Személyes adatok
+
+## 2.1. név
+
+## 2.2. az egészségügyi tevékenység során használt név
+
+## 2.3. születési név
+
+## 2.4. nem
+
+## 2.5. születési hely, idő
+
+## 2.6. anyja születési neve
+
+## 2.7. állampolgárság
+
+## 2.8. lakóhely
+
+## 2.9. tartózkodási hely (amennyiben eltér)
+
+## 2.10. levelezési cím (amennyiben eltér)
+
+## 2.11. telefonszám
+
+## 2.12. e-mail cím
+
+## 3. A szakképesítésre vonatkozó adatok (több szakképesítés esetén mindegyik)
+
+## 3.1. a szakképesítés megnevezése
+
+## 3.2. oklevél, bizonyítvány száma, kelte, kiállító intézmény, képzés nyelve
+
+## 3.3. elismerés, honosítás esetén az elismerő, honosító okirat száma, kelte, elismerő/honosító hatóság
+
+## 3.4. annak a szakképesítésnek a megnevezése, amelyre a kérelmező a nyilvántartás megújítását kéri
+
+## 4. Licenc vizsgára vonatkozó adatok
+
+## 4.1. Licenc vizsga neve
+
+## 4.2. Licenc tanúsítvány száma
+
+## 4.3. Licenc tanúsítvány (és – ha van – a licenc megújítását tanúsító igazolás) kelte
+
+## 4.4. A jogosultsági időszak lejárta
+
+## 5. Nyelvismeretre vonatkozó adatok (idegen nyelvenként a nyelvismeret legmagasabb szintjét tanúsító nyelvismeretet igazoló dokumentum alapján)
+
+## 5.1. az idegen nyelv megjelölése
+
+## 5.2. a nyelvvizsga
+
+## 5.2.1. fajtája (általános nyelvi, szaknyelvi)
+
+## 5.2.2. típusa (szóbeli, írásbeli, komplex)
+
+## 5.2.3. szintje (alap-, közép-, felsőfok)
+
+## 6. Tudományos fokozat
+
+## 6.1. megnevezése
+
+## 6.2. tudományterület megnevezése
+
+## 6.3. megszerzésének helye, ideje
+
+## 6.4. az okirat sorszáma, kelte, a kiállító szerv neve
+
+## 7. Az egészségügyi tevékenység végzésére való alkalmasság/korlátozott alkalmasság
+
+## 8. A kérelmező munkahelye, munkavégzés helyének adatai
+
+## 8.1. megnevezése
+
+## 8.2. címe
+
+## 8.3. szakterület megnevezése, amely területen ténylegesen munkát végez
+
+## 8.4. a munkavégzésre irányuló jogviszony jellege [az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 7. § (2) bekezdése]
+
+## 8.5. hatósági engedély alapján történő egészségügyi tevékenységvégzés esetén az engedélyt kiállító szerv megnevezése
+
+## 9. Elméleti továbbképzés teljesítése, vagy az elméleti továbbképzés alóli mentesülés indoka
+
+## 10. A kérelmező erre vonatkozó kérelme esetén feltüntetendő adatok
+
+## 10.1. az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély ténye
+
+## 10.2. szakterület megnevezése
+
+## 10.3. érvényességi ideje
+
+## 10.4. kiállítás kelte
+
+## 11. Felügyeleti tevékenységgel kapcsolatos adatok
+
+## 11.1. a kérelmező felügyeleti tevékenységet ellát-e
+
+## 11.2. felügyelet melletti tevékenységgyakorlás kezdete (a szakma megnevezésével)
+
+## 11.3. felügyelet melletti tevékenységgyakorlás időtartama (a szakma megnevezésével)
+
+## 11.4. a felügyeletet ellátó személy neve, működési nyilvántartási száma
+
+## 11.5. az egészségügyi dolgozó működési nyilvántartását az Eütv. 113. § (5) bekezdése alapján érintő, vagy egészségügyi tevékenységvégzési jogosultságát érintő, külföldi hatóságnál keletkezett egyéb adat [az Eütv. 110. § (16) bekezdés b) pontja szerinti adat]
+
+## 11.6. külföldi munkavégzés helye, időtartama
+
+## 12. A meghosszabbítás iránti kérelem kiegészítő adatai
+
+## Az egészségügyi tevékenység szüneteltetésének
+
+## 12.1. oka
+
+## 12.2. kezdő, befejező dátuma
+
+## 13. Kiegészítő gyakorlati továbbképzés kezdete, vége
+
+## 14. A kérelmező nyilatkozata arról, hogy Magyarországon kívül egészségügyi tevékenységet
+
+## 14.1. végzett vagy jelenleg is végez, és a tevékenység végzésének helye szerinti állam(ok) [az állam(ok) megnevezése] jogszabályai alapján a kérelmező nem áll egészségügyi tevékenység gyakorlását kizáró, illetve korlátozó intézkedés, büntetés, illetve büntetőjogi intézkedés hatálya alatt,
+
+## 14.2. nem végzett és jelenleg sem végez.
+
+## 15. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
+
+## 16. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak a Hivatal általi ellenőrzéséhez.
+
+## 17. A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy a Hivatal az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
+
+## 18. Kifejezett kérelem a Hivatalnak az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
+
+## 19. A kérelemhez az alábbi dokumentumokat kell csatolni:
+
+## 19.1. Újrafelvételi kérelemhez: az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány (ha a kérelmező nem él a 17. pont szerinti kérelemmel).
+
+## 19.2. Meghosszabbítási kérelemhez:
+
+## 19.2.1. a meghosszabbítás alapjául szolgáló dokumentumok (például: a közfeladatot ellátó személy munkáltatójának a munkavégzés helyére, időtartamára vonatkozó igazolása),
+
+## 19.2.2. a 8/A. § (1) bekezdésében meghatározottak igazolására szolgáló dokumentumok.
+
+## 19.3. Nyilvántartásba vételi kérelemhez:
+
+## 19.3.1. nyelvismeretet igazoló dokumentum (ha van ilyen),
+
+## 19.3.2. tudományos fokozat megszerzését igazoló dokumentum (ha van ilyen),
+
+## 19.3.3. az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány (ha a kérelmező nem él a 18. pont szerinti kérelemmel).”
+
+4. melléklet a 2/2013. (I. 2.) EMMI rendelethez

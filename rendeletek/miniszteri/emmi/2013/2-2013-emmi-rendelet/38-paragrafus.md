@@ -1,0 +1,1 @@
+## 37. § Az R.6. 10. §-ában az „az ESZTT Nemzeti Vizsgabizottsága” szövegrész helyébe az „a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egysége által működtetett Nemzeti Vizsgabizottság” szöveg lép.

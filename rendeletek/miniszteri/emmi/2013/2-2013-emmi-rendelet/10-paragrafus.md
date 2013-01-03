@@ -1,0 +1,1 @@
+## 3. Az egészségügyi tevékenység végzéséhez szükséges oklevelek elismeréséről, továbbá az oklevelek külföldi elismertetéséhez szükséges hatósági bizonyítványok kiadásának egyes eljárási szabályairól szóló 30/2008. (VII. 25.) EüM rendelet módosítása

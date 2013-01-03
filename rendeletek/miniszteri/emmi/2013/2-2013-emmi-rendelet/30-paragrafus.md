@@ -1,0 +1,3 @@
+## 29. § Az R.5. 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A programra és a pontértékére a Szakmai Kollégium illetékes tagozata, valamint az ESZTT február 15-ig, illetve szeptember 30-ig tehet javaslatot. A pontértékekről az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) elnöke dönt a Szakmai Kollégium, a felsőoktatási intézmény és az ESZTT javaslata alapján az 1. mellékletben foglaltak szerint adható pontértékek figyelembevételével. Az EEKH elnöke a jóváhagyott továbbképzési pontértékeket március 1-jéig, valamint október 15-ig elektronikus úton, a felsőoktatási intézmények, a továbbképzés szervezője, valamint a továbbképzésre kötelezettek számára hozzáférhetővé teszi.”

@@ -1,0 +1,1 @@
+## „(5) Ha a (2) bekezdés alapján a GYEMSZI illetékes főigazgató-helyettese azt állapítja meg, hogy a szakvizsga bizottság jogsértően járt el, intézkedik a jelölt részére újabb szakvizsga megszervezése iránt. Ilyen esetben a megismételt vizsga díját nem kell megfizetni.”
