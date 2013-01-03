@@ -4,16 +4,32 @@
 
 7. § (1) A szakképzés gyakorlati programjának lebonyolítása minősítési eljárás során szakképző hellyé minősített egészségügyi szolgáltatónál (a továbbiakban: szakképző hely) történik.
 
-(2)[^12] Az egészségügyi szolgáltatók szakképző hellyé minősítéséről a miniszter dönt. A régiójukba tartozó szakképző hellyé minősített egészségügyi szolgáltatók listáját a felsőoktatási intézmények honlapjukon folyamatosan hozzáférhetővé teszik.
+(2)[^12] Az egészségügyi szolgáltatók szakképző hellyé minősítéséről (a továbbiakban: akkreditáció) az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) elnöke dönt.
 
-(3) A minősítési eljárás lefolytatása az egészségügyi szolgáltató kérelmére indul. A kérelmet a miniszterhez kell benyújtani. A kérelemhez csatolni kell az egészségügyi szolgáltató önértékelését, és a felsőfokú szakirányú szakképzési és továbbképzési tevékenységére vonatkozó adatokat.
+(3)[^13] Az akkreditáció feltételeit a 3. melléklet tartalmazza.
 
-(4)[^13] A szakképző hellyé minősítés 4 évre szól. A szakképző hellyé minősítés feltételeit a 3. melléklet tartalmazza. A 3. melléklet szerinti személyi és tárgyi feltételekben bekövetkezett változásról a szakképző hely a minisztert tizenöt napon belül értesíti.
+(4)[^14] Az akkreditációs eljárás lefolytatását az egészségügyi szolgáltató kezdeményezi annál a felsőoktatási intézménynél, amelyiknek a régiójába tartozik. Az akkreditáció iránti kérelmet –a felsőoktatási intézmény mint egészségügyi szolgáltató, valamint a felsőoktatási intézmény régiójába tartozó szolgáltatók esetében egyaránt – a felsőoktatási intézmény nyújtja be az EEKH-hoz.
 
-(5)[^14] A miniszter a (4) bekezdés szerinti értesítés kézhezvételétől számított harminc napon belül dönt a szakképző hellyé minősítés további fenntartásáról vagy megszüntetéséről.
+(5)[^15] A kérelemhez csatolni kell:
 
-(6) A felsőoktatási intézmény a Kr. 13. § (1) bekezdése szerinti kötelezettsége keretében közzéteszi az adott állás vonatkozásában a szakképző hellyé minősítés 3. melléklet szerinti formáját.
+a) az egészségügyi szolgáltató önértékelését,
 
-[^12]: A 7. § (2) bekezdése a 20/2011. (V. 10.) NEFMI rendelet 8. §-ával megállapított szöveg.
-[^13]: A 7. § (4) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (7) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^14]: A 7. § (5) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (7) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
+b) az egészségügyi szolgáltató felsőfokú szakirányú szakképzési és továbbképzési tevékenységére vonatkozó adatokat,
+
+c) a 3. melléklet szerinti személyi és tárgyi feltételek meglétét igazoló adatokat és
+
+d) a felsőoktatási intézmény támogató nyilatkozatát a szolgáltató teljes vagy részbeni akkreditálására.
+
+(6)[^16] Az akkreditációs eljárásban az EEKH az Egészségügyi Szakképzési és Továbbképzési Tanácsot (a továbbiakban: ESZTT) szakértőként veszi igénybe.
+
+(7)[^17] Az akkreditáció 4 évre szól. Az EEKH az akkreditált egészségügyi szolgáltatók listáját az akkreditáció típusának megjelölésével a honlapján folyamatosan hozzáférhetővé teszi.
+
+(8)[^18] A 3. melléklet szerinti személyi és tárgyi feltételekben bekövetkezett változásról a szakképző hely az EEKH-t tizenöt napon belül értesíti. Az EEKH az értesítés kézhezvételétől számított harminc napon belül dönt az akkreditáció további fenntartásáról vagy megszüntetéséről.
+
+[^12]: A 7. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^13]: A 7. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^14]: A 7. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^15]: A 7. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^16]: A 7. § (6) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^17]: A 7. § (7) bekezdését a 2/2013. (I. 2.) EMMI rendelet 12. § (2) bekezdése iktatta be.
+[^18]: A 7. § (8) bekezdését a 2/2013. (I. 2.) EMMI rendelet 12. § (2) bekezdése iktatta be.

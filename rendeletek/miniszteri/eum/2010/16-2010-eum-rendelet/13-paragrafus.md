@@ -1,17 +1,25 @@
-## V. Fejezet
+## 12/A. §[^27] A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egysége által működtetett Nemzeti Vizsgabizottság (a továbbiakban: Hivatal) minden év február 15-éig és augusztus 15-éig a GYEMSZI honlapján közzéteszi a következő félévre vonatkozó vizsganaptárt.
 
-## AZ EGÉSZSÉGÜGYI FELSŐFOKÚ SZAKIRÁNYÚ SZAKKÉPZÉST LEZÁRÓ SZAKVIZSGA
+13. § (1)[^28] A szakvizsgáztatással kapcsolatos szervezési és adminisztratív feladatokat a Hivatal végzi.
 
-## 8. A szakvizsgára történő jelentkezés
+(2)[^29] A jelölt szakvizsgára a Hivatalnál jelentkezik. A jelentkezéshez mellékelni kell
 
-13. § (1) A jelölt szakvizsgára az ESZTT Hivatalánál (a továbbiakban: Hivatal) jelentkezik. A jelentkezéshez mellékelni kell
-
-a) a felsőoktatási intézmény szakvizsgára bocsátási javaslatát, és
+a) a 12. § (2) bekezdése szerinti igazolást, valamint
 
 b) a 21. § (1) bekezdésében meghatározott vizsgadíj befizetéséről szóló igazolást.
 
-(2) Az NVB elnöke a jelöltet szakvizsgára bocsátja, ezzel egyidejűleg kijelöli a szakvizsga időpontját és helyét, amelyről a jelöltet legkésőbb a vizsga időpontját 15 nappal megelőzően értesíti.
+(3)[^30] A Hivatal gondoskodik az e rendeletben meghatározottak szerint
 
-(3)[^20] Ha az NVB elnöke azt állapítja meg, hogy a jelölt a feltételek nem teljesítése miatt nem bocsátható szakvizsgára, az elutasításról határozatot hoz, aminek felülvizsgálatát a jelölt a határozat kézhezvételétől számított öt napon belül kérheti az ESZTT elnökénél. Az ESZTT elnöke a kérelmet nyolc napon belül bírálja el, és döntéséről értesíti a jelöltet.
+a) a szakvizsga időpontjának és helyének kijelöléséről,
 
-[^20]: A 13. § (3) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (7) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
+b) a szakvizsga bizottság tagjainak felkéréséről és
+
+c) a sikeres vizsgát követően a szakvizsga bizonyítványok kiállításáról.
+
+(4)[^31] A Hivatal a jelöltet a szakvizsga időpontjáról és helyéről a vizsgát megelőzően legalább tizenöt nappal értesíti.
+
+[^27]: A 12/A. §-t a 2/2013. (I. 2.) EMMI rendelet 14. §-a iktatta be.
+[^28]: A 13. § (1) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^29]: A 13. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^30]: A 13. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^31]: A 13. § (4) bekezdését a 2/2013. (I. 2.) EMMI rendelet 15. § (2) bekezdése iktatta be.
