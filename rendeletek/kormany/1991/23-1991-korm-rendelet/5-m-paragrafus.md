@@ -1,4 +1,4 @@
-5/M. §[^35] (1) A járadékra való jogosultság megszűnik, illetve azt meg kell szüntetni, ha a járadékra jogosult
+5/M. §[^39] (1) A járadékra való jogosultság megszűnik, illetve azt meg kell szüntetni, ha a járadékra jogosult
 
 a) meghalt,
 
@@ -20,4 +20,4 @@ h) neki felróható okból nem működik együtt a rendszeres és rendkívüli f
 
 (3) A járadékot az (1) bekezdés b)–d), valamint g) és h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjától kell megszüntetni.
 
-[^35]: Az 5/M. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
+[^39]: Az 5/M. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
