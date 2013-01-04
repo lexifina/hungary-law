@@ -1,1 +1,0 @@
-## 5. § A Kr. 2. § f) pontjában, 14. § (2) bekezdés b) pontjában, valamint 9. számú melléklet II. pontjában a „vadon élő növény- és állatvilág” szövegrész helyébe a „vadon élő állatok és növények” szöveg lép.
