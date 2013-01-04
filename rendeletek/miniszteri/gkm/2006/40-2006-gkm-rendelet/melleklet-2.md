@@ -24,17 +24,17 @@
 
 ## g) eljárások és alakiságok kidolgozása a vasútbiztonsági információk dokumentálására, valamint eljárások a döntő fontosságú vasútbiztonsági információk összeállítására;
 
-## h)[^29] az illetékes hatóságokkal egyeztetett módon a balesetek és a váratlan vasúti események haladéktalan bejelentésére, valamint vizsgálatának végrehajtására létrehozott, folyamatos ügyeletet és készenlétet ellátó biztonsági szervezet, továbbá a balesetek és váratlan vasúti események kivizsgálása és elemezése alapján a szükséges megelőző intézkedések meghozatalát biztosító rendszer kialakítása;
+## h)[^35] az illetékes hatóságokkal egyeztetett módon a balesetek és a váratlan vasúti események haladéktalan bejelentésére, valamint vizsgálatának végrehajtására létrehozott, folyamatos ügyeletet és készenlétet ellátó biztonsági szervezet, továbbá a balesetek és váratlan vasúti események kivizsgálása és elemezése alapján a szükséges megelőző intézkedések meghozatalát biztosító rendszer kialakítása;
 
 ## i) a balesetek és váratlan vasúti események következményeinek elhárításához szükséges riasztási, bevetési és mindezzel összefüggő tájékoztatási intézkedések rendszere;
 
 ## j) a biztonságirányítási rendszer belső ellenőrzési rendszere;
 
-## k)[^30] az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
+## k)[^36] az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
 
-## l)[^31] a vasúti járművezetők ellenőrzésére hivatott rendszer, vagy a vasúti járművezetőnek a munkakör betöltésére vonatkozó feltételeknek való meg nem felelésére utaló körülmény felmerülése esetén megteendő intézkedések meghatározása.
+## l)[^37] a vasúti járművezetők ellenőrzésére hivatott rendszer, vagy a vasúti járművezetőnek a munkakör betöltésére vonatkozó feltételeknek való meg nem felelésére utaló körülmény felmerülése esetén megteendő intézkedések meghatározása.
 
-2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^32]
+2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^38]
 
 Közös biztonsági mutatók
 
@@ -362,7 +362,7 @@ Ezek a vasúti átjárók a következő osztályokba sorolhatók:
 
 9.8.4. „Vágánykilométer”: a 2004/49/EK irányelv 2. cikke hatálya alá tartozó tagállami vasúthálózaton mért hossz kilométer mértékegységben. Többvágányú vonal esetében mindegyik vágányt figyelembe kell venni.
 
-[^29]: Az 1. melléklet 2. pont h) alpontja az 56/2012. (IX. 18.) NFM rendelet 3. § h) pontja szerint módosított szöveg.
-[^30]: Az 1. melléklet 2. pont k) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
-[^31]: Az 1. melléklet 2. pont l) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
-[^32]: A 2. melléklet a 23/2010. (XII. 20.) NFM rendelet 4. §-ával megállapított szöveg.
+[^35]: Az 1. melléklet 2. pont h) alpontja az 56/2012. (IX. 18.) NFM rendelet 3. § h) pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet 2. pont k) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^37]: Az 1. melléklet 2. pont l) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^38]: A 2. melléklet a 23/2010. (XII. 20.) NFM rendelet 4. §-ával megállapított szöveg.
