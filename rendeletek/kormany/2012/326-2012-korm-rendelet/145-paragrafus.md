@@ -1,5 +1,3 @@
-## 143–144. §
-
 ## 50. A vállalkozások számára a közösségi környezetvédelmi szabványok túlteljesítését, illetve közösségi szabványok hiányában a környezetvédelem szintjének emelését lehetővé tevő beruházási támogatás
 
 145. § (1) A támogatott beruházásnak meg kell felelnie a következő feltételek egyikének:

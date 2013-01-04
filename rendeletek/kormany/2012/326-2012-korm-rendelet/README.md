@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-326-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-11-19 | 2012-326-20-22.1 | 326/2012. (XI. 16.) Korm. rendelet |
+| 2013-01-04 | 2012-326-20-22.2 | 1/2013. (I. 16.) NFM határozat |
