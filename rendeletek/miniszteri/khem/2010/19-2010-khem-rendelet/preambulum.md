@@ -1,1 +1,0 @@
-A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. §-a (2) bekezdésének 20. pontjában kapott felhatalmazás alapján, a közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet 1. §-a (1) bekezdésének a) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
