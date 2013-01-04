@@ -1,1 +1,0 @@
-## 1. § Az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló 14/2010. (V. 11.) KvVM rendelet (a továbbiakban: KvVM rendelet) 3. melléklete helyébe az 1. melléklet lép.
