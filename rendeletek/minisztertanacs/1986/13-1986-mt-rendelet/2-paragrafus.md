@@ -1,1 +1,0 @@
-## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőházának Szövetségi Végrehajtó Tanácsa között, a dunai határforgalomnak Mohácson és Bezdánban való ellenőrzéséről szóló, Pécsett, az 1983. évi április hó 28. napján aláírt egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
