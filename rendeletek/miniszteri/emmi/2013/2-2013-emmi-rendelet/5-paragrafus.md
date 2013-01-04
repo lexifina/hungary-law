@@ -1,1 +1,0 @@
-## „(4) A továbbképzési kötelezettség teljesítése és igazolása vonatkozásában az egészségügyi szakképesítéssel rendelkező személyek továbbképzésére vonatkozó miniszteri rendeletekben foglaltak szerint kell eljárni.”
