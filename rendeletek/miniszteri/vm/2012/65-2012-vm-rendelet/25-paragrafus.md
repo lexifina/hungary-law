@@ -1,10 +1,18 @@
 ## 8. Mintavételi eljárás, mintavételi jegyzőkönyv, ellenminta
 
-25. § (1)[^11] A járási állategészségügyi hivatal, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a NÉBIH (a továbbiakban: eljáró hatóság) képviselője az ellenőrzés, felülvizsgálat, illetve helyszíni szemle során a 152/2009/EK bizottsági rendeletben foglalt mintavételi szabályok szerint
+25. § (1)[^12] A járási állategészségügyi hivatal, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a NÉBIH (a továbbiakban: eljáró hatóság) képviselője az ellenőrzés, felülvizsgálat, illetve helyszíni szemle során
 
-a) mikrobiológiai vizsgálat céljára a 44/2003. (IV. 26.) FVM rendelet 11. számú mellékletében foglalt mintavételi szabályok szerint,
+a) a 178/2002/EK európai parlamenti és tanácsi rendelet 53. cikkének (1) bekezdése alapján elfogadott intézkedésben meghatározott mintavételi szabályok szerint,
 
-b) géntechnológiával módosított szervezet vagy GM takarmány jelenlétére, illetve mennyiségi meghatározására irányuló vizsgálat esetén a géntechnológiával módosított szervezetek és a géntechnológiával módosított szervezetekből előállított anyagok, vagy ezen termékekből történő mintavételre és kimutatásra vonatkozó technikai iránymutatásról szóló, 2004. október 4-i 2004/787/EK bizottsági ajánlásban leírt módon, vagy azzal egyenértékű és az ott leírtak szerint jóváhagyott módszerrel
+b) a 152/2009/EK bizottsági rendeletben foglalt mintavételi szabályok szerint,
+
+c) mikrobiológiai vizsgálat céljára a 44/2003. (IV. 26.) FVM rendelet 11. számú mellékletében foglalt mintavételi szabályok szerint vagy
+
+d) géntechnológiával módosított szervezet vagy GM takarmány jelenlétére, illetve mennyiségi meghatározására irányuló vizsgálat esetén
+
+da) a b) pontban foglaltak szerint vagy
+
+db) a 619/2011/EU bizottsági rendelet vonatkozó előírásai szerint
 
 térítésmentesen mintát vehet.
 
@@ -56,4 +64,4 @@ o) a minta azonosító száma.
 
 (6) Az eljáró hatóság képviselője által vett takarmányminták – ideértve jogorvoslati eljárás során az ellenminta – vizsgálatait a NÉBIH által hatósági takarmányvizsgálatra kijelölt laboratóriumok végzik.
 
-[^11]: A 25. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 58. § b) pontja szerint módosított szöveg.
+[^12]: A 25. § (1) bekezdése a a 143/2012. (XII. 27.) VM rendelet 3. §-ával megállapított szöveg.

@@ -12,7 +12,7 @@
 
 (7) Állatra, illetve emberre nézve kórokozó mikroorganizmussal fertőzött takarmánynak az adott kórokozóra fogékony állatfajjal való feletetése tilos.
 
-(8) Az EU-ban nem engedélyezett GM takarmány nem hozható forgalomba és takarmányozási célra nem használható fel, kivéve a 619/2011/EU bizottsági rendelet 6. cikkében foglalt esetet.
+(8)[^11] Az EU-ban nem engedélyezett GM takarmány nem hozható forgalomba és takarmányozási célra nem használható fel, kivéve a 619/2011/EU bizottsági rendelet 6. cikk (2) bekezdésében foglalt esetet.
 
 (9) A takarmányt állatok etetésére tilos felhasználni, ha
 
@@ -23,3 +23,5 @@ b) a takarmány a megengedettnél nagyobb mértékben nemkívánatos anyagot tar
 c) a takarmány mikrobiológiai, illetve radiológiai szennyezettsége határértéken felüli,
 
 d) a takarmány egymással összeférhetetlen állatgyógyászati készítményeket, illetve takarmány-adalékanyagokat tartalmaz.
+
+[^11]: A 15. § (8) bekezdése a 143/2012. (XII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
