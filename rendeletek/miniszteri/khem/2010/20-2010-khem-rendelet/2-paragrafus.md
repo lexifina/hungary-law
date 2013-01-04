@@ -1,1 +1,0 @@
-## 1. § A rendelet 1. melléklete a hagyományos és a nagysebességű vasúti rendszer egészén vagy részén közlekedő vasúti személyszállító járművekre vonatkozó, a mozgáskorlátozott személyek közlekedéshez való jogának biztosítása érdekében előírt követelményeket határozza meg.
