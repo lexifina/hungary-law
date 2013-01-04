@@ -1,0 +1,3 @@
+## 3. § A nagysebességű transzeurópai vasúti rendszer infrastruktúra alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírásokról szóló 78/2011. (XII. 22.) NFM rendelet (a továbbiakban: R2.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § A nagysebességű transzeurópai vasúti rendszer infrastruktúra alrendszerére vonatkozó részletes műszaki és üzemeltetési szabályokra, valamint az alrendszer hitelesítési és engedélyezési eljárása során alkalmazandó eljárások követelményeire vonatkozó rendelkezéseket a 2012/464/EU bizottsági határozattal módosított, a nagy sebességű transzeurópai vasúti rendszer infrastruktúra-alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírásokról szóló, 2007. december 20-i 2008/217/EK bizottsági határozat tartalmazza.”
