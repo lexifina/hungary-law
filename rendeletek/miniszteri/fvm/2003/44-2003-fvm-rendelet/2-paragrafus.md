@@ -26,7 +26,7 @@
 
 17. a Bizottság 98/68/EK irányelve (1998. szeptember 10.) a 95/53/EK tanácsi irányelv 9. cikkének (1) bekezdésében említett szabványdokumentum és a harmadik országokból származó takarmányoknak a Közösség területén történő bevezetése során alkalmazott ellenőrzések egyes szabályainak megállapításáról,
 
-18.[^19] az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU rendelete,
+18.[^19] az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU, 277/2012/EU, 744/2012/EU rendelete,
 
 19. a Bizottság 2004/116/EK irányelve (2004. december 23.) a 82/471/EGK tanácsi irányelvnek a Candida guilliermondii felvétele tekintetében történő módosításáról,
 
@@ -113,7 +113,7 @@
 [^16]: A 2. § (1) bekezdés 11–12. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^17]: A 2. § (1) bekezdés 13. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (1) bekezdésévell megállapított szöveg.
 [^18]: A 2. § (1) bekezdés 15. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^19]: A 2. § (1) bekezdés 18. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (2) bekezdésévell megállapított szöveg.
+[^19]: A 2. § (1) bekezdés 18. pontja a 143/2012. (XII. 27.) VM rendelet 1. §-ával megállapított szöveg.
 [^20]: A 2. § (1) bekezdés 23. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^21]: A 2. § (2) bekezdés 32. pontja a 2/2010. (VI. 30.) VM rendelet 5. § (2) bekezdése alapján 2010. szeptember 1-jén lépett hatályba.
 [^22]: A 2. § (2) bekezdés 33. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (3) bekezdésévell megállapított szöveg.
