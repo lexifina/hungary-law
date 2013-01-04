@@ -1,1 +1,0 @@
-## 1. § A rendelet 1. melléklete a hagyományos vasúti rendszer üzemeltetési és forgalomirányítási alrendszerére vonatkozó részletes műszaki és üzemeltetési szabályokat, illetve az alrendszer vizsgálati eljárása során alkalmazandó eljárások követelményeit határozza meg.
