@@ -1,0 +1,1 @@
+## 12. § Az 1–10. § szerint az átjárhatósági műszaki előírásokat tartalmazó EU határozatokat a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény és a vasúti rendszer kölcsönös átjárhatóságáról szóló 30/2010. (XII. 23.) NFM rendelet rendelkezéseivel együtt kell alkalmazni.
