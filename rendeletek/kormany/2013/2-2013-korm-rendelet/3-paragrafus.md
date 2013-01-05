@@ -1,0 +1,1 @@
+## 2. § A Beruházás hivatalos közbeszerzési tanácsadója, beruházás lebonyolítója és építési műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
