@@ -1,0 +1,1 @@
+## „(7) A hites bányamérői tevékenységvégzéshez szükséges szakmai minősítő vizsga alapján kiadott engedély 5 évig hatályos. Az engedély hatálya ismételten letett sikeres szakmai minősítő vizsga esetén további 5 évre meghosszabbítható. A szakmai vizsga megújítása hiányában az engedély hatályát veszti, és a hites bányamérőt az MBFH törli a nyilvántartásból.”

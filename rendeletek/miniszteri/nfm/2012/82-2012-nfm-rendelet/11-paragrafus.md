@@ -1,0 +1,1 @@
+## „(5) A bányaművelési térképet legalább havonta frissíteni kell az alkalmazott számítástechnikai program saját formátumában, rendszer-független rajzcsere-fájlban és képi, nem módosítható formátumban, valamint el kell menteni és papír alapú, nyomtatott formátumban a bányaüzemben kell tartani.”

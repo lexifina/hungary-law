@@ -1,0 +1,1 @@
+## „(5) A bányatérképet és térképmellékleteit lehetőség szerint egy térképlapon kell kinyomtatni. Ha a kinyomtatott bányatérkép több lapon készül, akkor az összetartozást valamennyi lapon egyértelműen meg kell jelölni vagy áttekintő térképet kell készíteni. A hites bányamérőnek minden térképet hitelesítenie kell.”
