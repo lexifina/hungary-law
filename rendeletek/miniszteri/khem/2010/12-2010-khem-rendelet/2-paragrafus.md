@@ -10,7 +10,7 @@ ac) egyetemi szintű alapképzési szakon szerzett bánya- és geotechnikai, erd
 
 szakképzettséggel rendelkezik,
 
-b) szakmai gyakorlattal az rendelkezik, aki a szakképzettség megszerzését követően bányaüzemnél vagy bányamérési tevékenységet végző egyéb gazdálkodó szervezetnél legalább négy év bányamérési gyakorlatot szerzett, és ezen belül legalább két évig bányamérési feladatokat önállóan irányított.
+b)[^2] szakmai gyakorlattal az rendelkezik, aki a szakképzettség megszerzését követően bányaüzemnél vagy bányamérési tevékenységet végző egyéb gazdálkodó szervezetnél legalább négy év bányamérési gyakorlatot szerzett.
 
 (2) Aki az (1) bekezdés a) pontjában meghatározott szakirányú felsőfokú iskolai végzettsége mellett ingatlanrendező földmérői minősítéssel is rendelkezik, az (1) bekezdés b) pontjától eltérően csak két év bányamérési gyakorlatot kell igazolnia.
 
@@ -37,3 +37,5 @@ c) a munkáltató vagy foglalkoztató megnevezését, címét és cégszerű al�
 (7) Amennyiben a gyakorlati idő megszerzése nem munkaviszonyban történt, akkor az (5) bekezdés szerinti igazolásként a 2. § (1) bekezdés b) pontjában foglalt tevékenységek végzésére vonatkozó megállapodást kell benyújtani.
 
 (8) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a szakmai gyakorlati idő igazolására a munkáltatóval vagy foglalkoztatóval kötött olyan megállapodás is alkalmas, amely hitelt érdemlően tanúsítja az adott bányászati szakterületen szerzett gyakorlati időt, és amely tartalmazza a (6) bekezdés a) pont aa) alpontjában meghatározott természetes személyazonosító adatokat.
+
+[^2]: A 2. § (1) bekezdés b) pontja a 82/2012. (XII. 28.) NFM rendelet 25. §-a szerint módosított szöveg.

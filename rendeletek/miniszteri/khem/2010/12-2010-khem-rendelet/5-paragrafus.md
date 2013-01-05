@@ -10,7 +10,9 @@ c) cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezték,
 
 d) meghalt,
 
-e) azt kérelmezi.
+e) azt kérelmezi,
+
+f)[^8] a hites bányamérő az engedély 5 éves hatályát nem hosszabbította meg az ismételten letett sikeres szakmai minősítő vizsgával.
 
 (3) A hites bányamérőt az MBFH írásban figyelmezteti, ha a bányatérképekre és feladata ellátására vonatkozó külön jogszabályokban meghatározott követelményeket megsértette.
 
@@ -21,3 +23,5 @@ a) aki a (3) bekezdésben foglalt előírásokat úgy sértette meg, hogy ezzel 
 b) aki a (3) bekezdés szerinti jogkövetkezmény alkalmazását követő két éven belül a (3) bekezdésben meghatározott követelményeket ismételten megszegte.
 
 (5) Az ismételt nyilvántartásba vétel iránti kérelmet a (4) bekezdés a) pontja alapján történő törlést követő három év, a (4) bekezdés b) pontja szerinti törlést követő egy év elteltével lehet benyújtani. A kérelemhez a 3. § (3) bekezdés b)–c) pontjában meghatározott dokumentumokat kell mellékelni. A kérelmezőnek az ismételt nyilvántartásba vételhez szakmai minősítő vizsgát kell tennie.
+
+[^8]: Az 5. § (2) bekezdés f) pontját a 82/2012. (XII. 28.) NFM rendelet 22. §-a iktatta be.
