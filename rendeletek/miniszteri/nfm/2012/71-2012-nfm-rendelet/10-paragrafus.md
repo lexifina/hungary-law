@@ -1,3 +1,0 @@
-## 9. § A nagysebességű transzeurópai vasúti rendszer energiaellátás alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírásokról szóló 82/2011. (XII. 23.) NFM rendelet (a továbbiakban: R5.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A nagysebességű transzeurópai vasúti rendszer energiaellátás alrendszerére vonatkozó részletes műszaki szabályokra, továbbá az alrendszer vizsgálati eljárása során alkalmazandó eljárások követelményeire vonatkozó rendelkezéseket a 2012/464/EU bizottsági határozattal módosított, a nagysebességű transzeurópai vasúti rendszer energiaellátás alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírásokról szóló, 2008. március 6-i 2008/284/EK bizottsági határozat tartalmazza.”

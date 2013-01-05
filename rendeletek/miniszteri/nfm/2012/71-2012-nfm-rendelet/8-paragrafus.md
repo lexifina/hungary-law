@@ -1,3 +1,0 @@
-## 7. § A nagysebességű transzeurópai vasúti rendszer járművek alrendszerére vonatkozó átjárhatósági műszaki előírásokról szóló 81/2011. (XII. 23.) NFM rendelet (a továbbiakban: R4.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A nagysebességű transzeurópai vasúti rendszer járművek alrendszerére vonatkozó részletes műszaki és üzemeltetési szabályokra, valamint az alrendszer hitelesítési és engedélyezési eljárása során alkalmazandó eljárások követelményeire vonatkozó rendelkezéseket a 2012/464/EU bizottsági határozattal módosított, a nagysebességű transzeurópai vasúti rendszer járművek alrendszerére vonatkozó átjárhatósági műszaki előírásokról szóló, 2008. február 21-i 2008/232/EK bizottsági határozat tartalmazza.”
