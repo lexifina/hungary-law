@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Moldovai Köztársaság Kormánya között a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között 2010. február 23-án, Chisinauban aláírt Gazdasági Együttműködési Megállapodás módosításáról szóló jegyzőkönyv (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
