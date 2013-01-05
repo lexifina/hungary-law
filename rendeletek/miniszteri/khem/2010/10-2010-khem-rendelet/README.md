@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-10-20-2
 | --- | --- | --- |
 | 2010-03-28 | 2010-10-20-2M.1 | 10/2010. (II. 26.) KHEM rendelet |
 | 2010-03-29 | 2010-10-20-2M.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-01-05 | 2010-10-20-2M.3 | 82/2012. (XII. 28.) NFM rendelet |

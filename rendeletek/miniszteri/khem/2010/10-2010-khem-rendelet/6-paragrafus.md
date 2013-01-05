@@ -1,6 +1,6 @@
-6. § (1) Minden kinyomtatott vagy másolt bányatérképen fel kell tüntetni
+6. § (1)[^9] Minden bányatérképen fel kell tüntetni
 
-a) a bányatérkép e rendelet szerinti megnevezését,
+a) a bányatérkép megnevezését,
 
 b) a bányavállalkozó nevét, székhelyét,
 
@@ -8,24 +8,24 @@ c) a kutatási terület megnevezését, ha a bányatérképen feltüntetett bán
 
 d) a bányatelek védnevét, a létesítmény vagy terület nevét,
 
-e) a bányatérkép vetületi rendszerét, magassági alapszintjét, a felhasznált vízszintes és magassági alappontok azonosító számát és magasságát,
+e) a bányatérkép vetületi rendszerét, magassági alapszintjét, a felhasznált vízszintes és magassági alappontok azonosító számát és magasságát vagy a felhasznált műholdas korrekciós szolgáltatás megnevezését,
 
-f) a koordináta-hálózatot értékeivel, az északi irányt, a méretarányt, a nem EOV vetületű térképeken az EOV keretjeleket koordináta értékükkel,
+f) a koordináta-hálózatot értékeivel, a méretarányt, az EOV rendszer keretjeleit koordináta értékükkel,
 
 g) a közigazgatási határokat a települések nevének feltüntetésével,
 
-h) a bányatérkép készítésének és utolsó kiegészítésének időpontját,
+h) a bányatérkép készítésének idejét, forrásait és módját, valamint utolsó kiegészítésének időpontját,
 
 i) a nyilvántartási sorszámot,
 
 j) a bánya veszélyességi minősítését a minősítési fokozattal együtt,
 
-k) a jelkulcsok magyarázatát a 4. § (4) bekezdésében meghatározott eset kivételével,
+k) telepenként vagy telep-szeletenként készített bányatérkép esetében a telepek vagy telep-szeletek megnevezését,
 
-l) telepenként vagy telep-szeletenként készített bányatérkép esetén a telepek vagy telep-szeletek megnevezését,
+l) a bányatérkép helyességéért felelős hites bányamérő nevét, nyilvántartási sorszámát,
 
-m) a bányatérkép helyességéért felelős hites bányamérő nevét, nyilvántartási sorszámát, eredeti aláírását és
-
-n) a bányavállalkozó eredeti, cégszerű aláírását.
+m) nyomtatott formátum esetében a hites bányamérő eredeti aláírását, valamint a bányavállalkozó eredeti cégszerű aláírását.
 
 (2) A mélyműveléses és külfejtéses bánya bányaművelési és tervtérképein haladéktalanul fel kell tüntetni a biztonsági, védő- és határpilléreket, az azokat megállapító bányafelügyeleti határozatok megjelölésével.
+
+[^9]: A 6. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 5. §-ával megállapított szöveg.

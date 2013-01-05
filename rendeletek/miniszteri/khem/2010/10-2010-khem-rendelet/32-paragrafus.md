@@ -1,29 +1,9 @@
 ## 31. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-32. §[^1]
+32. §[^36] (1) A bányatérképek méretarányára és tartalmára vonatkozó Bányabiztonsági Szabályzatról szóló 10/2010. (II. 26.) KHEM rendelet és a hites bányamérőről szóló 12/2010. (III. 4.) KHEM rendelet módosításáról szóló 82/2012. (XII. 28.) NFM rendelet (a továbbiakban: Mód. R.) 3. §-ával megállapított 4. § (1) bekezdése szerinti EOV rendszernek megfelelő átdolgozását az olyan bányatérképeknek, amelyek az EOV rendszer koordináta-hálózatától eltérő, helyi vagy más rendszerben készültek, és még használatban vannak, soron kívül, de legkésőbb – a (2) bekezdésben meghatározott kivétellel – 2014. december 31-ig el kell végezni.
 
-Melléklet a 10/2010. (II. 26.) KHEM rendelethez
+(2) Ha a bányavállalkozó az (1) bekezdés szerinti kötelezettség teljesítése határidejének meghosszabbítása iránt a bányafelügyelet részére 2014. május 31-ig kérelmet nyújt be, a bányafelügyelet köteles az (1) bekezdés szerinti kötelezettség teljesítésének határidejét 2015. december 31-ig meghosszabbítani.
 
-Bányászati térképezés egyes jelkulcsaihoz kapcsolódó szabványok
+(3) A Mód. R. 3. §-ával megállapított 4. § (3) bekezdése szerinti követelményt legkésőbb 2014. január 1. napjától kell alkalmazni.
 
-MSZ 413:1977 Bányászati térképdokumentáció. Általános előírások
-
-MSZ–09 10.0134–1:1969 Bányászati térképezés. Általános szerkesztési szabályok
-
-MSZ–09 10.0134–2:1971 Bányászati térképezés. Bányatérképek egyezményes jelei
-
-MSZ–09 10.0134–2:1971 Bányászati térképezés. Bányatérségek egyezményes jelei
-
-MSZ–09 10.0134–3:1971 Bányászati térképezés. Alappontok, határvonalak, külszíni tereptárgyak, vezetékek, létesítmények és földtani képződmények egyezményes jelei
-
-MSZ–09 10.0134–4:1990 Bányászati térképezés. Szénhidrogén mélyfúrások, termelő kutak egyezményes jelei
-
-MSZ–09 10.0134–5:1990 Bányászati térképezés. Geofizikai létesítmények, mérések egyezményes jelei
-
-MSZ–09 10.0134–6:1990 Bányászati térképezés. Régi szén- és uránbányáknál alkalmazható térképjelek
-
-MSZ–09 10.0134–7:1990 Bányászati térképezés. Régi bauxitbányáknál alkalmazható térképjelek
-
-OKGT 1976-ban kiadott Gázipari térképjelkulcsa
-
-[^1]: A 32. § ugyanezen § alapján hatályát vesztette.
+[^36]: A 32. § ugyanezen § alapján hatályát vesztette, újonnan a 82/2012. (XII. 28.) NFM rendelet 15. §-a iktatta be.
