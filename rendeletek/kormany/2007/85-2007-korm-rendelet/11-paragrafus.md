@@ -6,9 +6,8 @@
 
 (2)[^34]
 
-(3)[^35] A közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet módosításáról szóló 44/2012. (III. 20.) Korm. rendelet hatálybalépését[^36] megelőzően a helyi közlekedésben a korábbi kedvezményezetti jogcímeken vásárolt kedvezményes bérletek érvényességi idejük lejártáig kedvezményes utazás igénybevételére felhasználhatóak.
+(3)[^35]
 
 [^33]: A 11. §-t megelőző cím a 44/2012. (III. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^34]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 113. pontja hatályon kívül helyezte, újonnan a 44/2012. (III. 20.) Korm. rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte ez utóbbi módosító rendelet 6. § (1) bekezdése.
-[^35]: A 11. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 113. pontja hatályon kívül helyezte, újonnan a 44/2012. (III. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^36]: A hatálybalépés időpontja 2012. március 21.
+[^35]: A 11. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 113. pontja hatályon kívül helyezte, újonnan a 44/2012. (III. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte ez utóbbi módosító rendelet 6. § (2) bekezdése.
