@@ -18,10 +18,11 @@ g) a büntetés-végrehajtási szervezet,
 
 h) a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szerve,
 
-i) a zártcélú rendészeti hálózatot működtető szervezet,
+i)[^1] a zártcélú rendészeti hálózat, a K-600/KTIR Hírközlési és Informatikai Rendszer és az egységes digitális rádiótávközlő rendszer vonatkozásában a kormányzati célú hírközlési szolgáltató
 
-j) a K-600/KTIR Hírközlési és Informatikai Rendszert működtető szervezet,
-
-k) az egységes digitális rádiótávközlő rendszer szolgáltatását a kormányzati célú hírközlési szolgáltató részére nyújtó szervezet,
+j)–k)[^2]
 
 (a továbbiakban együtt: felhasználók).
+
+[^1]: A 2. § i) pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (20) bekezdésével megállapított szöveg.
+[^2]: A 2. § j)–k) pontját az 1/2013. (I. 7.) NMHH rendelet 11. § (23) bekezdése hatályon kívül helyezte.
