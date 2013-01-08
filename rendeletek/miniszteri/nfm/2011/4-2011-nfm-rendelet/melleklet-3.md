@@ -30,6 +30,6 @@
 
 | 6. | H | 13,19 | 13,58 | 13,24 | 12,80 |
 
-3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^7]
+3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^8]
 
-[^7]: A 3. melléklet a 78/2012. (XII. 22.) NFM rendelet 42. §-ával megállapított szöveg.
+[^8]: A 3. melléklet a 78/2012. (XII. 22.) NFM rendelet 42. §-ával megállapított szöveg.
