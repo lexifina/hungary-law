@@ -12,4 +12,6 @@
 
 (6) A (2) bekezdés alapján nyilvántartásba vett rádióberendezés – az egységes digitális rádiótávközlő rendszer rádiótávközlő végberendezései kivételével – csak felhasználó részére forgalmazható.
 
-(7) A harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek körét, a nem polgári célú frekvenciagazdálkodás egyes hatósági eljárásairól és a nem polgári célú frekvenciasávok felhasználási szabályairól szóló 29/2005. (VII. 27.) HM rendelet állapítja meg.
+(7)[^2] A harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek körét, a nem polgári célra használható frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendelet állapítja meg.
+
+[^2]: A 3. § (7) bekezdése az 1/2013. (I. 7.) NMHH rendelet 11. § (2) bekezdésével megállapított szöveg.
