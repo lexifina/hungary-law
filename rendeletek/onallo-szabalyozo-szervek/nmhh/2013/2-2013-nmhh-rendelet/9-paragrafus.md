@@ -1,0 +1,5 @@
+## 5. Versenyeztetési eljárás vagy átruházás során szerzett frekvenciahasználati jogosultsággal kapcsolatos rendelkezések
+
+9. § (1) A 7. mellékletben szereplő frekvenciasávok frekvenciahasználati jogosultsága, illetve joga a polgári frekvenciagazdálkodó hatóság jóváhagyása és e jogszabályban rögzített feltételek teljesítése esetén átruházható. Amennyiben sávfelhasználási szabály másként nem rendelkezik, a versenyeztetési eljárás során kiírt és elnyert frekvenciablokkok, illetve felhasználói blokkok frekvenciahasználati jogosultsága, illetve joga mind területileg, mind frekvenciában csak egészben ruházható át.
+
+(2) A 7. mellékletben szereplő frekvenciasávok frekvenciahasználati jogosultsága, illetve joga akkor ruházható át, ha a frekvenciahasználati jogosultságot, illetve jogot szerző fél teljesíti a frekvenciahasználati jogosultság eredeti szerzésének valamennyi, vonatkozó frekvenciahasználati jogosultságot megállapító határozatban, frekvenciakijelölésben, rádió-engedélyben rögzített feltételét.
