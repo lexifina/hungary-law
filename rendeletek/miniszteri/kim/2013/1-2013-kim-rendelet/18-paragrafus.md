@@ -1,0 +1,1 @@
+## 17. § A honvédtiszti alap- és mesterképzésben részt vevő külföldi hallgató hallgatói jogviszonya a beiratkozás napjával kezdődik és az oklevél (illetve bizonyítvány) átadásának vagy a tanulmányai végleges megszakításának napjával szűnik meg.

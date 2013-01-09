@@ -1,0 +1,1 @@
+## 3. § A Nemzeti Közszolgálati Egyetem (a továbbiakban: Egyetem) az 1. és 2. § szerinti beiskolázási terveket közös javaslatba foglalja. A javaslatban a tervezett létszámot képzési áganként és a finanszírozás módja szerinti bontásban kell megjeleníteni. A javaslatot az Egyetem minden év augusztus 31-ig megküldi a felügyeletet gyakorló miniszterek számára.
