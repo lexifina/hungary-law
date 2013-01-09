@@ -1,1 +1,0 @@
-A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 7. § (1) és (2) bekezdésében kapott felhatalmazás alapján, a pénzügyek területén végzett szakmai tevékenység elismerésének szabályait — az érdekeltekkel egyetértésben — az alábbiak szerint állapítom meg:
