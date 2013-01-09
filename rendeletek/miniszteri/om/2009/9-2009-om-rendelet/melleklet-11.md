@@ -1,3 +1,3 @@
-11. melléklet a 9/2009. (II. 27.) ÖM rendelethez[^35]
+11. melléklet a 9/2009. (II. 27.) ÖM rendelethez[^40]
 
-[^35]: A 11. mellékletet a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^40]: A 11. mellékletet a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.

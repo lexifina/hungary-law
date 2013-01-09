@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-9-20-2L
 | 2012-08-10 | 2009-9-20-2L.5 | 37/2012. (VIII. 2.) BM rendelet |
 | 2012-12-05 | 2009-9-20-2L.6 | 50/2012. (XII. 4.) KIM rendelet |
 | 2013-01-01 | 2009-9-20-2L.7 | 49/2012. (XII. 15.) EMMI rendelet |
+| 2013-01-09 | 2009-9-20-2L.8 | 1/2013. (I. 8.) NGM rendelet |
