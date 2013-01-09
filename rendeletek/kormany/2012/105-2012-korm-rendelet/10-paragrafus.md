@@ -1,3 +1,3 @@
-## 9. §[^14]
+## 9. § Az R1. 8. §-a a következő (3) bekezdéssel egészül ki:
 
-[^14]: A 9. § a 28. § (2) bekezdése alapján 2013. január 9-én lép hatályba.
+## „(3) Középületek energetikai jellemzőinek tanúsításakor harmonizált európai uniós tanúsítási rendszer is alkalmazható. Az így kiállított tanúsítvány 1. melléklet szerinti összefoglaló lapján fel kell tüntetni, hogy a tanúsítvány mely rendszer alapján készült.”
