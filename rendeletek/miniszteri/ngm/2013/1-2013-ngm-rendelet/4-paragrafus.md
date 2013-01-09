@@ -1,0 +1,3 @@
+4. § (1) A Magyar Gazdaságért Díjjal érem, továbbá oklevél és jutalom jár, amelyet a minisztérium biztosít a költségvetéséből.
+
+(2) A Magyar Gazdaságért Díjjal járó pénzjutalom összege a mindenkori kormánytisztviselői illetményalap 10-szerese. Az érem ezüstből készül, átmérője 42,5 mm, vastagsága 3 mm. Előlapján gróf Széchenyi István mellképe, alatta aláírása, felette a „Gróf Széchenyi István” felirat, mellette két oldalon tölgy- és babérág látható. Hátoldalán a Lánchíd, alatta a Széchenyi család címere és jelmondata, valamint a Hitel című műből származó idézet helyezkedik el, amelyet „A NEMZETGAZDASÁGI MINISZTER” felirat és babérkoszorú vesz körül.

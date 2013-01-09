@@ -1,0 +1,1 @@
+## 9. § Az elismerést ugyanaz a személy vagy szervezet 5 éven belül csak egyszer kaphatja meg, újabb díj vagy elismerés adományozására csak olyan teljesítmény alapján lehet javaslatot tenni, amelyet a javasolt személy vagy szervezet a korábban adományozott díj elnyerését követően ért el.
