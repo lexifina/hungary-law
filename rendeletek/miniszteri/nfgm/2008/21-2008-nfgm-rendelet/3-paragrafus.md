@@ -1,16 +1,10 @@
 3. § (1) A díjak adományozására bárki tehet javaslatot.
 
-(2) A 2. § (1) bekezdésében meghatározott díj adományozására vonatkozó javaslatokat a Magyar Gazdaságért-Díj Bizottság rangsorolja. A Magyar Gazdaságért-Díj Bizottság elnöke a minisztérium gazdaságért felelős szakállamtitkára; tagjai a miniszter, illetve a szakmai főosztályok 1-1 képviselője, valamint a Gazdasági Egyeztető Fórum által jelölt szakmai gazdasági érdekképviseleti szervet képviselő 2 személy.
-
-(3) A 2. § (2) bekezdésében meghatározott díj adományozására vonatkozó javaslatokat a Eötvös Loránd-Díj Bizottság rangsorolja. A Eötvös Loránd-Díj Bizottság elnöke a minisztérium iparért, a szabványosításért, a mérésügyért és a minőségügyért, a műszaki biztonsági és piacfelügyeletért felelős szakállamtitkára; tagjai a miniszter, illetve a szakmai főosztályok 1-1 képviselője, valamint a Magyar Kereskedelmi Engedélyezési Hivatalt és a Magyar Szabványügyi Testületet képviselő 1-1 személy.
-
-(4) A 2. § (3) bekezdésében meghatározott díj adományozására vonatkozó javaslatokat a Klauzál Gábor-Díj Bizottság rangsorolja. A Klauzál Gábor-Díj Bizottság elnöke a minisztérium kereskedelemért felelős szakállamtitkára; tagjai a miniszter, illetve a szakmai főosztályok 1-1 képviselője, valamint a Magyar Kereskedelmi Engedélyezési Hivatalt és az Országos Kereskedelmi Szövetséget képviselő 1-1 személy.
-
-(5) A (2)–(4) bekezdésben foglalt egyes Bizottságokba jelölt személyek mandátuma 1 évre szól.
+(2)–(5)[^4]
 
 (6) A 2. § (4) bekezdésében meghatározott díj adományozására vonatkozó javaslatokat a Pro Régió-Díj Bizottság rangsorolja. A Pro Régió-Díj Bizottság elnöke: a minisztérium területfejlesztésért és területrendezésért felelős szakállamtitkára; tagjai az elnök által a területfejlesztés és területrendezés elismert szaktekintélyei közül felkért további 4–10 személy.
 
-(7)[^2]
+(7)[^5]
 
 (8) A 2. § (6) bekezdésében meghatározott elismerésre vonatkozó javaslatokat a Kitüntetési Bizottság rangsorolja.
 
@@ -22,4 +16,5 @@
 
 (12) Az elismerés adományozásához szükséges a megadományozott előzetes hozzájárulása a 2. mellékletben meghatározott személyes adatainak a 6. § (3) bekezdésében meghatározott kezeléséhez, valamint az elismeréssel összefüggő, a 6. § (4) bekezdése szerinti személyes adatai közzétételéhez.
 
-[^2]: A 3. § (7) bekezdését a 37/2012. (VIII. 2.) BM rendelet 61. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § (2)–(5) bekezdését az 1/2013. (I. 8.) NGM rendelet 13. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^5]: A 3. § (7) bekezdését a 37/2012. (VIII. 2.) BM rendelet 61. § a) pontja hatályon kívül helyezte.

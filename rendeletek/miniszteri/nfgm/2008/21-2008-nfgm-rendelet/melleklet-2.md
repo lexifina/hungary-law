@@ -1,20 +1,10 @@
-## 1. Magyar Gazdaságért-Díj
-
-## A plakett bronzból készül, átmérője 110 mm. Előlapja jobb oldalán Minervát ábrázoló kép, bal oldalán a díj elnevezése látható. Hátoldalán „A NEMZETI FEJLESZTÉSI ÉS GAZDASÁGI MINISZTER” felirat helyezkedik el, felette egy körben a Magyar Köztársaság egymást keresztező tölgy- és babérággal övezett címere, alatta a díjazott nevének és az adományozás évszámának gravírozására alkalmas sík felület található.
-
-## 2. Eötvös Loránd-Díj
-
-## A plakett bronzból készül, átmérője 110 mm. Előlapja jobb oldalán a névadó mellképe, bal oldalán a díj elnevezése látható. Hátoldalán „A NEMZETI FEJLESZTÉSI ÉS GAZDASÁGI MINISZTER” felirat helyezkedik el, felette egy körben a Magyar Köztársaság egymást keresztező tölgy- és babérággal övezett címere, alatta a díjazott nevének és az adományozás évszámának gravírozására alkalmas sík felület található.
-
-## 3. Klauzál Gábor-Díj
-
-## A plakett bronzból készül, átmérője 110 mm. Előlapja bal oldalán a névadó mellképe, jobb oldalán a díj elnevezése látható. Hátoldalán „A NEMZETI FEJLESZTÉSI ÉS GAZDASÁGI MINISZTER” felirat helyezkedik el, felette egy körben a Magyar Köztársaság egymást keresztező tölgy- és babérággal övezett címere, alatta a díjazott nevének és az adományozás évszámának gravírozására alkalmas sík felület található.
+## 1–3.[^11]
 
 ## 4. Pro Régió-Díj
 
 ## A plakett bronz öntvény, erős plasztikájú, kör alakú, 125 mm átmérőjű. Az egyik oldalán egy kis település található a tájban a fölé repülő angyallal, a másik oldalán a Kárpát-medence karéjából kiemelt Magyarország cizellált domborzati látványképe található a Pro Régió felirattal.
 
-## 5–9.[^7]
+## 5–9.[^12]
 
 ## 10. Miniszteri Elismerés
 
@@ -62,4 +52,5 @@ Javaslattevő munkahelye:
 
 Javaslattevő aláírása:
 
-[^7]: Az 1. melléklet 5–9. pontját a 37/2012. (VIII. 2.) BM rendelet 61. § a) pontja hatályon kívül helyezte.
+[^11]: Az 1. melléklet 1–3. pontját az 1/2013. (I. 8.) NGM rendelet 13. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet 5–9. pontját a 37/2012. (VIII. 2.) BM rendelet 61. § a) pontja hatályon kívül helyezte.
