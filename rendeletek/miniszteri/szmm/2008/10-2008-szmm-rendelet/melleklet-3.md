@@ -46,7 +46,7 @@
 
 ## ……………………………………
 
-3. számú melléklet a 10/2008. (VI. 28.) SZMM rendelethez[^23]
+3. számú melléklet a 10/2008. (VI. 28.) SZMM rendelethez[^25]
 
 Miniszteri Dicséret a Kimagasló Gyakorlati Oktatásért elismerés adományozására vonatkozó javaslat a 10/2008. (VI. 28.) SZMM rendelet alapján
 
@@ -108,4 +108,4 @@ Javaslattevő tisztsége
 
 ..............................................................................................
 
-[^23]: A 3. számú mellékletet a 26/2009. (XI. 26.) SZMM rendelet 8. § (2) bekezdése iktatta be, e módosító rendelet 8. § (1) bekezdése alapján Miniszteri Dicséret a Kimagasló Gyakorlati Oktatásért elismerés 2010. január 1-jétől adományozható.
+[^25]: A 3. számú mellékletet a 26/2009. (XI. 26.) SZMM rendelet 8. § (2) bekezdése iktatta be, e módosító rendelet 8. § (1) bekezdése alapján Miniszteri Dicséret a Kimagasló Gyakorlati Oktatásért elismerés 2010. január 1-jétől adományozható.
