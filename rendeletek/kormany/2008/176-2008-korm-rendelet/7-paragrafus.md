@@ -1,9 +1,23 @@
 ## Energia-megtakarításra irányuló javaslat
 
-7. § (1) Ha az épület energetikai minőségi osztálya nem éri el az 1. melléklet szerinti „C” kategóriát, akkor a tanúsítást megrendelő döntése szerint a tanúsítvány azonnal megvalósítható, energia-megtakarításra irányuló üzemviteli intézkedéseket, illetve hosszabb távon megvalósítható energiahatékonyságot növelő, felújítási, korszerűsítési munkákhoz kapcsolódó javaslatot (a továbbiakban: javaslat) is tartalmaz.
+7. §[^28] (1) A 6. § (4) bekezdésében meghatározott javaslatban fel kell tüntetni
 
-(2) A javaslat célja a tulajdonos tájékoztatása az energiahatékonyság növelésének lehetőségeiről. A javaslatban foglaltak megvalósítása nem része a tanúsítványban foglalt tények igazolásának.
+a) a határoló szerkezetek jelentős felújításával vagy az épületgépészeti rendszerek korszerűsítésével járó műszakilag megvalósítható intézkedéseket,
 
-(3) A javaslat kitérhet arra, hogy a javasolt megoldások egyenkénti vagy együttes megvalósítása esetén hogyan változik az adott épület fajlagos primer energiaigénye, illetve ez alapján az épület milyen energetikai minőségi osztályba kerülhet.
+b) a határoló szerkezetek vagy az épületgépészeti rendszerek kisebb felújításával járó műszakilag megvalósítható intézkedéseket, és
 
-(4) A javaslatnak az épület rendeltetését, műszaki állapotát figyelembe vevő költséghatékony megoldásra kell irányulnia, és figyelemmel kell lennie a reális megvalósíthatóságra is.
+c) az épület energiahatékonyságára vonatkozó minimumkövetelményeket.
+
+(2) A tanúsítvány tartalmazhat további információt a megújuló energia felhasználás mennyiségére, az ajánlások megvalósításának lehetséges lépéseire vonatkozóan, továbbá tájékoztatást a támogatási és finanszírozási programokról.
+
+(3) A tulajdonos kérésére az adott épület gazdasági élettartama alatti költséghatékonysági számítás is készíthető
+
+a) az MSZ EN 15459 szabványban leírt vagy azzal egyenértékű módszerrel, vagy
+
+b) az Európai Bizottság 244/2012/EU felhatalmazáson alapuló rendeletében meghatározott módszertan szerint.
+
+(4) A (3) bekezdés b) pontja szerinti számításban a legalacsonyabb költséget az energiához kapcsolódó befektetési költségek, a karbantartási és üzemeltetési költségek (ezen belül az energiaköltségek és -megtakarítások, az épület fajtája és adott esetben az előállított energiából származó bevételek), valamint az ártalmatlanítási költségek figyelembevételével kell meghatározni.
+
+(5) Amennyiben a tanúsítvány javaslata nem tartalmaz költséghatékonysági számítást, a tanúsítványban fel kell tüntetni, hol kaphat a tulajdonos, illetve a bérlő további információt a felújítások gazdaságosságára és megvalósítására.
+
+[^28]: A 7. § a 105/2012. (V. 30.) Korm. rnedelet 8. §-ával megállapított szöveg.

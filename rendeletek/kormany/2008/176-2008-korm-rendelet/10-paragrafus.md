@@ -1,5 +1,3 @@
-## feltéve, ha a tevékenység ellátásához az (1) bekezdésében előírt feltételeknek megfelelő tanúsítót foglalkoztat, vagy megbíz.
-
 ## A tanúsítás költségei
 
 10. § (1) A tanúsító tevékenysége elvégzéséért díjra jogosult, amelyet a tanúsítás elkészítésére fordított idő alapján úgy kell megállapítani, hogy a tanúsítás díja megkezdett óránként legfeljebb 5500 forint. Ezen igényt – díjjegyzékkel – a szerződéskötéskor és a tanúsítás elkészítésekor, átadásakor érvényesíteni kell.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-176-20-
 | 2012-03-29 | 2008-176-20-22.5 | 49/2012. (III. 28.) Korm. rendelet |
 | 2012-06-01 | 2008-176-20-22.6 | 105/2012. (V. 30.) Korm. rendelet |
 | 2013-01-01 | 2008-176-20-22.7 | 322/2012. (XI. 16.) Korm. rendelet |
+| 2013-01-09 | 2008-176-20-22.8 | 105/2012. (V. 30.) Korm. rendelet |

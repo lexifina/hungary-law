@@ -32,9 +32,10 @@ ba) ellenérték fejében történő tulajdon-átruházása, vagy
 
 bb)[^4] bérbeadása;
 
-c) 1000 m2-nél nagyobb hasznos alapterületű hatósági rendeltetésű, állami tulajdonú közhasználatú épület
+c)[^5] 500 m2-nél nagyobb hasznos alapterületű hatósági rendeltetésű, állami tulajdonú közhasználatú épület
 
 [^1]: Az 1. § (2) bekezdés g) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdésének bevezető szövegrésze a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdés b) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdés b) pont bb) alpontja a 105/2012. (V. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés c) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
