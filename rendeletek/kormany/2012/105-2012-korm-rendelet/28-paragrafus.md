@@ -1,4 +1,4 @@
-## 27. §[^30]
+## 27. §[^40]
 
 ## 8. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Ez a rendelet 2015. július 10-én hatályát veszti.
 
-[^30]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
