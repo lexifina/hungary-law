@@ -1,3 +1,5 @@
+## 13. §[^1]
+
 1. melléklet az 1/2013. (I. 8.) NGM rendelethez
 
 Javaslat elismerés/díj adományozására
@@ -37,3 +39,5 @@ Javaslattevő neve:
 Javaslattevő munkahelye:
 
 Javaslattevő aláírása:
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
