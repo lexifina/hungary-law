@@ -1,4 +1,4 @@
-## 7. §[^5]
+## 7. §[^7]
 
 8. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglaltak kivételével – a kihirdetését követő 15. napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 7. § 2013. július 9-én lép hatályba.
 
-[^5]: A 7. § a 8. § (3) bekezdése alapján 2013. július 9-én lép hatályba.
+[^7]: A 7. § a 8. § (3) bekezdése alapján 2013. július 9-én lép hatályba.
