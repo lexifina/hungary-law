@@ -1,4 +1,4 @@
-176. §[^179] (1) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 413/2012. (XII. 29.) Korm. rendelet hatálybalépése nem érinti az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdése alapján kiadott mentesítések hatályát. Az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdés a) pontja szerinti mentesítés hatálya megszűnik, ha a gazdasági vezető tanulmányait nem fejezi be és a tanulmányok megszűnésének időpontjában nem felel meg a 12. § rendelkezéseinek.
+176. §[^180] (1) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 413/2012. (XII. 29.) Korm. rendelet hatálybalépése nem érinti az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdése alapján kiadott mentesítések hatályát. Az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdés a) pontja szerinti mentesítés hatálya megszűnik, ha a gazdasági vezető tanulmányait nem fejezi be és a tanulmányok megszűnésének időpontjában nem felel meg a 12. § rendelkezéseinek.
 
 (2) E rendelet 2012. december 31-én hatályos rendelkezéseit a 2013. június 30-áig működő többcélú kistérségi társulásokra alkalmazni kell.
 
@@ -12,4 +12,8 @@
 
 (7) A 2013. évben a 128. (2) bekezdés b) pontjától eltérően az egészségügyről szóló 1997. évi CLIV. törvény 150. § (4) bekezdése alapján előirányzat-átcsoportosítással rendelkezésre bocsátott, a költségvetési szerv költségvetése terhére megelőlegezett kiadások fedezetét biztosító támogatás összegét az előirányzatot átcsoportosító nyilatkozata alapján a havi előirányzat-felhasználási keret megállapításakor egy összegben kell figyelembe venni.
 
-[^179]: Az Ávr. 176. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 413/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be.
+176. §[^181] E rendeletnek az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 3/2013. (I. 10.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépése[^182] idején folyamatban lévő ügyekben is alkalmazni kell.
+
+[^180]: Az Ávr. 176. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 413/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be.
+[^181]: Az újabb 176. §-t a 3/2013. (I. 10.) Korm. rendelet 2. §-a iktatta be.
+[^182]: A hatálybalépés időpontja 2013. január 11.

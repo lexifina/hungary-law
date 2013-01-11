@@ -1,3 +1,3 @@
-177. §[^180]
+177. §[^183]
 
-[^180]: Az Ávr. 177. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^183]: Az Ávr. 177. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
