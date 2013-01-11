@@ -6,7 +6,7 @@
 
 | Állatkategória | Testtömeg | Trágyatípus |
 
-| Kövér hígtrágya(1) | Közepes hígtrágya(2) | Sovány hígtrágya(3) | Almos trágya(4) |
+| Kövér hígtrágya(1) | Közepes hígtrágya(2) | Sovány hígtrágya(3) | Istálló- trágya (4) |
 
 | Koca + szaporulata | 200 kg és max. 9 kg | 76 | 152 | 228 | 98 | Koca és szaporulata (10 db szopósmalac) |
 
@@ -36,7 +36,7 @@
 
 | Állatkategória | Testtömeg | Trágyatípus |
 
-| Almos trágya(1) | Hígtrágya |
+| Istállótrágya(1) | Hígtrágya |
 
 | Borjú (0–6 hónap) | 40–130 kg | 55 | – | Egyedi, illetve csoportos borjúbokszokban |
 
@@ -76,7 +76,7 @@
 
 | Állatkategória | Testtömeg | Trágyatípus |
 
-| Almos trágya | Hígtrágya |
+| Istállótrágya | Hígtrágya |
 
 | 1000 tojótyúk | ~ 2,2 kg/állat | – | 805(1) | Ketreces tartás, csak ürülék (21% SZA) |
 
@@ -106,25 +106,23 @@
 
 ## (2) A táblázatban szereplő adatokat az életkor és testtömeg figyelembevételével korrigálni szükséges.
 
-## D) A trágyatároló szükséges térfogatának kiszámításához
+## D) A trágyatároló szükséges térfogatának kiszámításához:
 
-## A trágyatároló szükséges térfogatának kiszámításához az A)–C) pontok szerint kilogrammban megadott trágyatermelési értékeket a tényleges térfogattömeg alapján m3-re kell átszámítani.
+## 1. A trágyatároló szükséges térfogatának kiszámításához az A)–C) pontok szerint kilogrammban megadott trágyatermelési értékeket a tényleges térfogattömeg alapján m3-re kell átszámítani.
 
-## Amennyiben a termelt trágyáról saját mérési eredmény nem áll rendelkezésre az átszámításhoz az alábbi irányszámokat lehet alkalmazni:
+## 2. Amennyiben a termelt trágyáról saját mérési eredmény nem áll rendelkezésre az átszámításhoz az alábbi irányszámokat lehet alkalmazni:
 
-| Megnevezés | Érték [kg/m3] |
+|  |  | A | B |
 
-| Hígtrágya <10% SZA tartalom alatt | 1000 |
+|  |  | Megnevezés | Érték [kg/m3] |
 
-| „Kövér” hígtrágya (kevésalmos szarvasmarha tartásból) | 950 |
+|  | 1. | Hígtrágya <10% SZA tartalom alatt | 1000 |
 
-| Friss almos trágya (laza rakatban) | 450 |
+|  | 2. | Hígtrágya > 10 % SZA tartalom felett | 950 |
 
-| Friss almos trágya (kitároláskor) | 650 |
+|  | 3. | Istállótrágya | 550 |
 
-| Mély-, illetve növekvő almos trágya kitároláskor | 750–800 |
-
-| Érett istállótrágya (pl. öntözött trágyakazalból) | 850 |
+|  | 4. | Mélyalom | 800 |
 
 ## 5.2. Alapkövetelmény a trágyatárolók minimális műszaki paramétereihez
 
@@ -172,7 +170,7 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^11]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^18]
 
 ADATLAP
 
@@ -670,4 +668,4 @@ Amennyiben egy állattartó telepen keletkezett trágya nem abban a gazdaságban
 
 A táblázat első két oszlopában kérjük jelezni, hogy trágyaátadásról vagy más gazdálkodótól történő trágyaátvételről van szó. Meg kell adni továbbá az átadott/átvett szervestrágya mennyiségét hígtrágya esetén m3-ben, istállótrágya esetén tonnában. A szervestrágya típusa rovatban a 3.2. pontban megadott táblázat kódjait kérjük, használják.
 
-[^11]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^18]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.

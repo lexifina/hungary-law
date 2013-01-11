@@ -2,9 +2,7 @@
 
 ## meghatározásához
 
-## A) A szántóföldön termesztett növények terméssel felvett N-, P-, K
-
-## Me.: kg/t
+## A) A szántóföldön termesztett növények főtermésének és a hozzá tartozó melléktermés N-, P-, K tartalma kg/t
 
 | Növény | N | P2O5 | K2O |
 
@@ -178,11 +176,9 @@
 
 | Gesztenye | 1,4 | 0,21 | 0,8 |
 
-## C) A zöldségnövények fajlagos NPK-tartalma az átlagos termésszintre vonatkozóan
+## C) A zöldségnövények főtermésének és a hozzá tartozó melléktermés N-, P-, K tartalma kg/t
 
-| Növényfaj | Fajlagos NPK-tartalom, kg/t |
-
-| N | P2O5 | K2O |
+| Növényfaj | N | P2O5 | K2O |
 
 | 1. Fejes saláta | 4.0 | 1.8 | 5.0 |
 
@@ -276,6 +272,6 @@
 
 | 37. Zöldborsó | 16.0 | 5.6 | 15.2 |
 
-5. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^10]
+5. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^17]
 
-[^10]: Az 5. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (1) bekezdésével megállapított, a 87/2012. (VIII. 27.) VM rendelet 22. §-a szerint módosított szöveg.
+[^17]: Az 5. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (1) bekezdésével megállapított, a 87/2012. (VIII. 27.) VM rendelet 22. §-a, a 147/2012. (XII. 27.) VM rendelet 7. §-a szerint módosított szöveg.
