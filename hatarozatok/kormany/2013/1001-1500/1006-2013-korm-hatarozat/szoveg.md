@@ -28,4 +28,6 @@ d) közreműködik a mozgóképszakmát érintő kormány-előterjesztések elő
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti a nemzeti filmipar megújításáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1008/2011. (I. 17.) Korm. határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése aalpján hatályát vesztette.
