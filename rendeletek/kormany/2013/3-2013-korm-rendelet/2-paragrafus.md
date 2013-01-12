@@ -1,3 +1,0 @@
-## 1. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 77. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 57. § (1b) bekezdésében foglalt szállítói finanszírozás alkalmazása esetén a közbeszerzési eljárás során kiválasztott szállító a közbeszerzési eljárás alapján megkötött szerződés elszámolható összegének 10%-a erejéig mentesül a biztosítéknyújtás kötelezettsége alól.”
