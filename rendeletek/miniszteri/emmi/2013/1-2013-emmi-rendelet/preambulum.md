@@ -1,0 +1,1 @@
+A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. § (2) bekezdésének a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § i) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
