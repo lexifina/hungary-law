@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^2]
+## Az Európai Unió jogának való megfelelés[^3]
 
-## 6. §[^3] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 6. §[^4] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv (2005. szeptember 7.) II. és III. melléklete,
 
@@ -8,13 +8,15 @@ b) a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlame
 
 c) a személyek szabad mozgása területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozása tekintetében történő kiigazításáról szóló 2006/100/EK tanácsi irányelv (2006. november 20.) 1. cikke és melléklete,
 
-d)[^4] a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 279/2009/EK bizottsági rendelet (2009. április 6.),
+d)[^5] a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 279/2009/EK bizottsági rendelet (2009. április 6.),
 
-e)[^5] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló 213/2011/EU bizottsági rendelet (2011. március 3.),
+e)[^6] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló 213/2011/EU bizottsági rendelet (2011. március 3.),
 
-f)[^6] az egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló megállapodás 14. cikkével létrehozott EU-Svájc Vegyes Bizottság 2/2011 határozata a szakmai képesítések kölcsönös elismeréséről szóló III. melléklet kicseréléséről (2011. szeptember 30.), (2011/702/EU).
+f)[^7] az egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló megállapodás 14. cikkével létrehozott EU-Svájc Vegyes Bizottság 2/2011 határozata a szakmai képesítések kölcsönös elismeréséről szóló III. melléklet kicseréléséről (2011. szeptember 30.), (2011/702/EU),
 
-Melléklet a 35/2007. (XI. 13.) OKM rendelethez[^7]
+g)[^8] a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 623/2012/EU rendelet (2012. július 11.).
+
+Melléklet a 35/2007. (XI. 13.) OKM rendelethez[^9]
 
 I. Szabályozott szakma gyakorlására jogosító képzések
 
@@ -978,11 +980,33 @@ a képzés nyolcéves általános iskolai képzést, valamint ötéves, gépjár
 
 Az órákban meghatározott időtartamot és a diagnosztikai technikusok részére előírt átfogó képzés keretében tartott szakképzés általános tartalmát a 2002. november 28-i infrastrukturális miniszteri rendelet a diagnosztikai technikusokra vonatkozó részletes követelményekről külön szabályozza (HL 208/2002. szám, 1769. pont);
 
-– forgalmi szolgálattevő (dyżurny ruchu);
+– forgalmi szolgálattevő (dyżurny ruchu)
 
-(i) a képzés egy legalább nyolcéves általános iskolai képzést, valamint egy legalább négyéves, vasútforgalmi középiskolai szakképzést foglal magába, továbbá egy negyvenöt napos forgalmi szolgálattevő képzést, melynek befejezésekor minősítő vizsgát kell tenni, vagy
+a képzés a következőket foglalja magában:
 
-(ii) a képzés legalább nyolcéves általános iskolai képzést, valamint legalább ötéves, a vasúti közlekedésre specializálódott középiskolai szakképzést foglal magába, továbbá egy hatvanhárom napos forgalmi szolgálattevő képzést, melynek befejezésekor minősítő vizsgát kell tenni.
+(i) egy nyolcéves általános iskolai képzést és egy négyéves, vasútforgalmi középiskolai szakképzést, valamint egy negyvenöt napos forgalmi szolgálattevő képzést, továbbá a minősítő vizsga sikeres letételét; vagy
+
+(ii) egy nyolcéves általános iskolai képzést és egy ötéves, vasútforgalmi középiskolai szakképzést, valamint egy hatvanhárom napos forgalmi szolgálattevő képzést, továbbá a minősítő vizsga sikeres letételét; vagy
+
+(iii) egy nyolcéves általános iskolai képzést és egy ötéves, vasútforgalmi középiskolai szakképzést, valamint egy huszonkilenc napos forgalmi szolgálattevő képzést, egy ötnapos, felügyelet alatt végzett próbaidős szakmai gyakorlatot, továbbá a minősítő vizsga sikeres letételét; vagy
+
+(iv) egy hatéves általános iskolai és egy hároméves alsó középfokú képzést, valamint egy hároméves, vasútforgalmi középiskolai szakképzést, továbbá egy huszonkilenc napos forgalmi szolgálattevő képzést, egy ötnapos, felügyelet alatt végzett próbaidős szakmai gyakorlatot, valamint a minősítő vizsga sikeres letételét.
+
+– vonatmenedzser (kierownik pociągu),
+
+a képzés a következőket foglalja magában:
+
+(i) egy nyolcéves általános iskolai képzést és egy ötéves, vasútforgalmi középiskolai szakképzést, valamint egy huszonkét napos vonatmenedzser képzést, egy háromnapos, felügyelet alatt végzett próbaidős szakmai gyakorlatot, valamint a minősítő vizsga sikeres letételét; vagy
+
+(ii) egy hatéves általános iskolai és egy hároméves alsó középfokú képzést, valamint egy hároméves, vasútforgalmi középiskolai szakképzést, továbbá egy huszonkét napos vonatmenedzser képzést, egy háromnapos, felügyelet alatt végzett próbaidős szakmai gyakorlatot, valamint a minősítő vizsga sikeres letételét,
+
+– belvízi hajózási mérnök (mechanik statkowy żeglugi śródlądowej),
+
+a képzés a következőket foglalja magában:
+
+(i) egy nyolcéves általános iskolai képzést és egy ötéves, belvízi hajózási mérnök szakirányú középiskolai szakképzést, továbbá egy huszonnégy hónapos szakmai gyakorlatot, mely egy legalább tizennyolc hónapos, belvízi hajókon, a gépi propulziós berendezések és kiegészítő rendszerek kezelésével töltött gyakorlatból és adott esetben egy hat hónapos, hajógyárban vagy hajójavító műhelyben töltött, a belsőégésű motorok javítását magában foglaló gyakorlatból áll, valamint a minősítő vizsga sikeres letételét; vagy
+
+(ii) egy nyolcéves általános iskolai képzést és egy hároméves alsó középfokú képzést, valamint egy négyéves, belvízi hajózási mérnök szakirányú középiskolai szakképzést, továbbá egy huszonnégy hónapos szakmai gyakorlatot, mely egy legalább tizennyolc hónapos, belvízi hajókon, a gépi propulziós berendezések és kiegészítő rendszerek kezelésével töltött gyakorlatból, és adott esetben egy hat hónapos, hajógyárban vagy hajójavító műhelyben töltött, a belsőégésű motorok javítását magában foglaló gyakorlatból áll, valamint a minősítő vizsga sikeres letételét.
 
 Svájcban:
 
@@ -1084,9 +1108,10 @@ E képzések teljes hossza legalább tizenhárom év, öt év szakképzést fogl
 
 E képzések teljes hossza legalább tizenhárom év: kilenc év kötelező oktatást foglalnak magukban, amelyet legalább három év szakképzés követ szakosított iskolában vagy legalább három év képzés vállalatnál és párhuzamosan szakképző iskolában (Berufsschule), amelyek mindegyikét záróvizsga követi, és legalább egyéves képzés elvégzése egészíti ki mesteriskolában (Meisterschule), mesterosztályban (Meisterklasse), ipari mesteriskolában (Werkmeisterschule) vagy építőműves iskolában (Bauhandwerkerschule). Az esetek többségében a képzési idő legalább tizenöt év, beleértve a szakmai gyakorlat idejét, amely vagy megelőzi a képzést ezekben az intézményekben, vagy részidős képzéssel együtt zajlik (legalább 960 órában).
 
-[^2]: A 6. §-t megelőző alcím a 14/2008. (IV. 10.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 6. § a 14/2008. (IV. 10.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 6. § d) pontját a 26/2009. (VI. 30.) OKM rendelet 1. §-a iktatta be.
-[^5]: A 6. § e) pontját az 50/2011. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A 6. § f) pontját a 24/2012. (IV. 18.) NEFMI rendelet 3. §-a iktatta be.
-[^7]: A melléklet a 14/2008. (IV. 10.) OKM rendelet 1. § (2) bekezdésével megállapított, a 26/2009. (VI. 30.) OKM rendelet 2. §-a, az 50/2011. (VIII. 18.) Korm. rendelet 2. §-a, a 24/2012. (IV. 18.) NEFMI rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 6. §-t megelőző alcím a 14/2008. (IV. 10.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 6. § a 14/2008. (IV. 10.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 6. § d) pontját a 26/2009. (VI. 30.) OKM rendelet 1. §-a iktatta be.
+[^6]: A 6. § e) pontját az 50/2011. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 6. § f) pontját a 24/2012. (IV. 18.) NEFMI rendelet 3. §-a iktatta be.
+[^8]: A 6. § g) pontját az 1/2013. (I. 2.) EMMI rendelet 1. §-a iktatta be. E módosító rendelet 4. §-a alapján a 2013. január 17-én folyamatban lévő ügyekre is alkalmazni kell.
+[^9]: A melléklet a 14/2008. (IV. 10.) OKM rendelet 1. § (2) bekezdésével megállapított, a 26/2009. (VI. 30.) OKM rendelet 2. §-a, az 50/2011. (VIII. 18.) Korm. rendelet 2. §-a, a 24/2012. (IV. 18.) NEFMI rendelet 4. §-a, az 1/2013. (I. 2.) EMMI rendelet 2–3. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 4. §-a alapján a 2013. január 17-én folyamatban lévő ügyekre is alkalmazni kell.
