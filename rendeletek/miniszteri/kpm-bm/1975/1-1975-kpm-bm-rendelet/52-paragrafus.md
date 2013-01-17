@@ -1,6 +1,6 @@
 ## Veszélyes anyagot szállító járművek
 
-52. §[^326] (1) Veszélyes anyagot szállító járműveknek menet közben – egymás mögött – legalább 50 méter távolságot kell tartani.
+52. §[^328] (1) Veszélyes anyagot szállító járműveknek menet közben – egymás mögött – legalább 50 méter távolságot kell tartani.
 
 (2) Veszélyes anyagot szállító járművel tilos megállni:
 
@@ -18,7 +18,7 @@ b) lakott területen belül.
 
 (5) Ha jogszabály szigorúbb feltételeket nem állapít meg, a nem lezárt rakterű veszélyes anyagot szállító járművet, valamint a veszélyes anyaggal töltött tartányt szállító járművet őrizetlenül hagyni tilos.
 
-(6)[^327]
+(6)[^329]
 
-[^326]: Az 52. § a 104/1997. (VI. 18.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^327]: Az 52. § (6) bekezdését az 58/2007. (III. 31.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^328]: Az 52. § a 104/1997. (VI. 18.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^329]: Az 52. § (6) bekezdését az 58/2007. (III. 31.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
