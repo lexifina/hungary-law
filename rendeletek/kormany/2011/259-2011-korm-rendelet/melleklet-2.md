@@ -30,11 +30,9 @@
 
 | 15. | A létesítményi, továbbá az önkormányzati tűzoltóságra vonatkozó jogszabályban vagy hatósági határozatban rögzített, a létszámra, illetve képzésre vonatkozó előírások megszegése | 100 000/a kötelező legkisebb létszámból hiányzó vagy kiképzetlen személy |  |
 
-| 16. | Tűzoltókészülék készenlétben tartásának, karbantartásának, hiánya (a veszélyes árut szállító járművek kivételével): |  |
+| 16. | a) Tűzoltókészülék készenlétben tartásának hiánya (a veszélyes árut szállító járművek kivételével) | 50 000/készülék |
 
-|  | – készenlétben tartás hiánya | 50 000/készülék |
-
-|  | – karbantartás hiánya | 30 000/készülék |
+|  | b) Tűzolókészülék karbantartásának hiánya (a veszélyes árut szállító járművek kivételével) | 30 000/készülék |
 
 | 17. | Jogszabály vagy hatóság által előírt beépített tűzjelző vagy tűzoltó berendezés készenlétben tartásának, karbantartásának, felülvizsgálatának hiánya, működésének akadályozása, ha a védett tér |  |  |
 
@@ -92,6 +90,8 @@
 
 | 41. | A pirotechnikai termékek előállítására, forgalmazására, tárolására, szállítására, felhasználására, megsemmisítésére, birtoklására vonatkozó tűzvédelemmel összefüggő előírások megszegése | 100 000 | 1 000 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^48]
+| 42. | A termőföld védelméről szóló törvényben előírt hasznosítási, vagy mellékhasznosítási kötelezettség elmulasztásával a tűzesetek megelőzéséről nem gondoskodik | 60 000 | 200 000 |
 
-[^48]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^49]
+
+[^49]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
