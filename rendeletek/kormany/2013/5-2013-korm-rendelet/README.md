@@ -1,0 +1,9 @@
+# 5/2013. (I. 16.) Korm. rendelet
+
+a közúti közlekedési igazgatási eljárásokkal összefüggő egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-5-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-01-17 | 2013-5-20-22.1 | 5/2013. (I. 16.) Korm. rendelet |
