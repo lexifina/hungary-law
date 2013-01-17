@@ -2,7 +2,7 @@
 
 a) a jármű tulajdonosa vagy üzemben tartója a gépjárműadó fizetési kötelezettségének nem tett eleget, és a jármű forgalomból történő kivonását az adóhatóság kérte,
 
-b) bíróság, közjegyző, külföldi hatóság vagy jogszabály által feljogosított más hatóság jogerős határozatában a jármű lefoglalását, elkobzását, vagy a (4) bekezdésben foglaltak kivételével a zár alá vételét elrendelte, továbbá, ha a járművet a bírósági végrehajtás során a bírósági végrehajtó, vagy a közigazgatási végrehajtás során az adóhatóság, a társadalombiztosítási szerv részéről eljáró személy lefoglalta,
+b)[^37] bíróság, közjegyző, külföldi hatóság vagy jogszabály által feljogosított más hatóság jogerős határozatában a jármű lefoglalását, elkobzását vagy a (2) bekezdésben foglaltak kivételével a zár alá vételét elrendelte, továbbá, ha a járművet a bírósági végrehajtás során a bírósági végrehajtó, vagy a közigazgatási végrehajtás során az adóhatóság, a társadalombiztosítási szerv részéről eljáró személy lefoglalta,
 
 c) a járművek üzletszerű bérbeadásával foglalkozó vállalkozó a külön jogszabályban meghatározott nyilvántartási kötelezettségének nem tesz eleget,
 
@@ -21,3 +21,5 @@ i) a közlekedési hatóság a járművet a forgalomban való részvételre vég
 j) a jármű üzemben tartója a jogerősen kiszabott közigazgatási bírság megfizetési kötelezettségének nem tett eleget és a jármű forgalomból történő kivonását az eljáró hatóság kezdeményezte.
 
 (2) Ha az arra feljogosított hatóság a jármű lefoglalását a forgalomból történő kivonás mellőzésével, vagy büntetőeljárásban a bíróság a jármű zár alá vételét rendelte el, annak tényét – az elidegenítési és terhelési tilalom egyidejű bejegyzésével – a nyilvántartásban haladéktalanul rögzíteni kell. A jármű forgalomból történő kivonása esetén a közlekedési igazgatási hatóság határozata tartalmazza az elidegenítési és terhelési tilalom nyilvántartási bejegyzésének megtörténtét.
+
+[^37]: A 101. § (1) bekezdés b) pontja az 5/2013. (I. 16.) Korm. rendelet 19. §-ával megállapított szöveg.

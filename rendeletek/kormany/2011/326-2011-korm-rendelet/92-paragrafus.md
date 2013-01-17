@@ -1,6 +1,4 @@
-## 91. § Ideiglenes forgalmi engedélyt kell kiadni a Z és a CD betűjelű ideiglenes rendszámtáblákhoz harmincnapos érvényességi idővel.
-
-92. § (1)[^20] Ideiglenes forgalomban tartási engedélyt kell kiadni az E, az M, a P és az SP ideiglenes rendszámtáblához, valamint a forgalomba helyezett, vagy forgalomból kivont, de érvényes műszaki vizsgával nem rendelkező jármű esetében.
+92. § (1)[^33] Ideiglenes forgalomban tartási engedélyt kell kiadni az E, az M, és a P ideiglenes rendszámtáblához, valamint a forgalomba helyezett, vagy forgalomból kivont, de érvényes műszaki vizsgával nem rendelkező jármű esetében.
 
 (2) Az importált, közúton behozott, közúti közlekedésben részt vevő jármű ideiglenes forgalomban tartását az A típusú ideiglenes forgalomban tartási engedély és az E betűjelű ideiglenes rendszámtábla kiadásával egyidejűleg harmincnapos érvényességi idővel a NAV vámszerve engedélyezi, melyet a B típusú ideiglenes forgalomban tartási engedély kiadásával a közlekedési igazgatási hatóság a közlekedési hatóság által kiállított Műszaki Adatlap, továbbá a kötelező gépjármű-felelősségbiztosítás fedezetéről szóló igazolás bemutatása esetén egy alkalommal a műszaki alkalmasság érvényességi idejéig, de legfeljebb öt hónappal meghosszabbíthat.
 
@@ -22,6 +20,7 @@ c) a rendszámtábla utángyártása esetén harminc napra.
 
 (8) A forgalomba helyezés előtti vizsgálat elvégzésére kitűzött időpontra szóló, a közlekedési hatóság által kiadott értesítés az adott napon a lakcímről, telephelyről a vizsgálat helyére, és onnan a lakcímre (telephelyre) való közlekedésre jogosít.
 
-(9) Az SP betűjelű ideiglenes rendszámtáblához kiadott B típusú ideiglenes forgalomban tartási engedély érvényességi ideje a Műszaki adatlapon megállapított műszaki érvényességi idővel megegyezik. Az ideiglenes forgalomban tartási engedély érvényességi ideje – új rendszámtábla kiadása nélkül – cserével hosszabbítható meg a rendszámtábla használatára való jogosultság fennállásának igazolásával egyidejűleg.
+(9)[^34]
 
-[^20]: A 92. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (21) bekezdése szerint módosított szöveg.
+[^33]: A 92. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (21) bekezdése, az 5/2013. (I. 16.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^34]: A 92. § (9) bekezdését az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés e) pontja hatályon kívül helyezte.

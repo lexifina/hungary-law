@@ -254,7 +254,7 @@
 
 ## Az engedély második oldalán a következők szerepelnek:
 
-## 9. [Érvényességi kategóriák (a nemzeti kategóriák másképpen nyomtatandók, mint a harmonizált kategóriák)]; Európai uniós minta (kifejezés magyar nyelven, valamint a „vezetői engedély” kifejezés az Európai Unió többi nyelvén, az engedély háttereként rózsaszínnel nyomtatva)
+## 9. [Érvényességi kategóriák (a nemzeti kategóriák másképpen nyomtatandók, mint a harmonizált kategóriák)]; Európai Uniós Vezetői Engedély (kifejezés magyar nyelven, valamint a „vezetői engedély” kifejezés az Európai Közösség többi nyelvén, az engedély háttereként rózsaszínnel nyomtatva)
 
 ## 10. az adott kategóriára vonatkozó engedély első kiadásának időpontja (ezt az időpontot az új engedélyen is meg kell ismételni későbbi pótlás vagy csere esetén); az időpontra vonatkozóan valamennyi rovatban két számjegyet kell feltüntetni az alábbi sorrendben: nap.hónap.év
 

@@ -16,10 +16,12 @@ b) nem állapítható meg a vezetési jogosultság tartalma, vagy az nem felelte
 
 (5) Ha a külföldi vezetői engedélyt kiállító hatóság a vezetési jogosultságot korlátozta, vagy a jogosultság gyakorlását feltételhez kötötte, a közlekedési igazgatási hatóság az okmány hiteles fordítását a 17. § (1) bekezdésében és (2) bekezdés a) és c) pontjában felsorolt feltételeknek való megfelelés esetén is kérheti.
 
-(6) Kétség esetén a magyar vezetői engedély kiadására irányuló eljárásban a vezetői engedély kiadására jogosult közúti közlekedési nyilvántartási szerv (a továbbiakban: Hivatal) ellenőrzi a külföldi vezetői engedély adatainak egyezőségét.
+(6)[^9] Kétség esetén a magyar vezetői engedély kiadására irányuló eljárásban a vezetői engedély kiadására jogosult Hivatal ellenőrzi a külföldi vezetői engedély adatainak egyezőségét.
 
 (7) A harmadik ország által kiállított vezetői engedély honosítása során az engedély-nyilvántartásba és a kiadásra kerülő magyar vezetői engedélybe be kell jegyezni a vezetői engedély honosításának tényét, valamint a kérelmező által benyújtott vezetői engedélyt kiadó államot. A nyilvántartásba és a kiadásra kerülő vezetői engedélybe a bejegyzés a 8. melléklet 70. kódjának, valamint a kiadó állam – az országok és igazgatási egységeik nevének kódjaira vonatkozó MSZ EN ISO 3166-1 nemzeti szabványban meghatározott – háromjegyű betűkódjának (a továbbiakban: országkód) alkalmazásával történik.
 
 (8) A honosított vezetői engedély cseréjére vagy pótlására irányuló eljárás során kiadásra kerülő vezetői engedélybe is be kell jegyezni a (7) bekezdés szerinti kódokat.
 
 (9) Ha egy másik EGT-állam által kiadott – a 8. mellékletben meghatározott 70. kódot és a kiadó harmadik állam országkódját tartalmazó – vezetői engedély jogosultja szokásos tartózkodási helyét Magyarországra helyezi át, a vezetői engedély kiadására irányuló eljárásban az e rendeletben meghatározott, eredeti vezetői engedélyt kiadó harmadik ország tekintetében alkalmazandó szabályokat kell alkalmazni, és a (7) bekezdés szerint kell eljárni.
+
+[^9]: A 18. § (6) bekezdése az 5/2013. (I. 16.) Korm. rendelet 22. § a) pontja szerint módsított szöveg.

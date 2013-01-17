@@ -4,6 +4,6 @@
 
 (3) Külföldi rendszámtáblával ellátott, Magyarországra harmadik országból importált gépjármű a határátlépést követően külföldi rendszámtáblával nem közlekedhet.
 
-(4)[^7] A közúti közlekedésről szóló törvényben meghatározott belföldi üzemben tartónak a tulajdonába kerülő, külföldön nyilvántartásba vett jármű behozatalától számított legfeljebb 30 napon belül kell kezdeményeznie a jármű származás-ellenőrzési nyilvántartásba vételét és magyarországi forgalomba helyezését. Ezen időszakon belül az EGT más tagállamában a jármű külföldre történő kiviteléhez kiadott érvényes rendszámot a közúti közlekedésről szóló 1988. évi I. törvény 25/B. §-ában meghatározott, a közlekedési igazgatási hatóság által kiadott magyar hatósági jelzésnek kell tekintetni.
+(4)[^17] A közúti közlekedésről szóló törvényben meghatározott belföldi üzemben tartónak a tulajdonába kerülő, külföldön nyilvántartásba vett jármű behozatalától számított legfeljebb 30 napon belül kell kezdeményeznie a jármű származás-ellenőrzési nyilvántartásba vételét és magyarországi forgalomba helyezését. Ezen időszakon belül az EGT más tagállamában a jármű külföldre történő kiviteléhez kiadott érvényes rendszámot a közúti közlekedésről szóló 1988. évi I. törvény 25/B. §-ában meghatározott, a közlekedési igazgatási hatóság által kiadott magyar hatósági jelzésnek kell tekintetni.
 
-[^7]: A 47. § (4) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^17]: A 47. § (4) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

@@ -10,7 +10,7 @@
 
 (6) Amennyiben a kérelmező magyar állampolgár érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, vagy adataiban időközben változás következett be, az eljárás csak az ideiglenes személyazonosító igazolvány kiállítását követően folytatható le.
 
-(7)[^3] A vezetői engedély kiadására irányuló eljárásban a kérelmező jogosultságát és személyazonosságát ellenőrizni kell. Ennek során a kérelem adatait egyeztetni kell a személyazonosító igazolvány vagy személyazonosságot igazoló más érvényes okmány adattartalmával, vagy a bemutatott okiratokban szereplő adatokkal. A közlekedési igazgatási hatóság az egyeztetést a személyiadat- és lakcímnyilvántartásban tárolt adatokkal – a központi szerv közreműködésével – is elvégzi.
+(7)[^12] A vezetői engedély kiadására irányuló eljárásban a kérelmező jogosultságát és személyazonosságát ellenőrizni kell. Ennek során a kérelem adatait egyeztetni kell a személyazonosító igazolvány vagy személyazonosságot igazoló más érvényes okmány adattartalmával, vagy a bemutatott okiratokban szereplő adatokkal. A közlekedési igazgatási hatóság az egyeztetést a személyiadat- és lakcímnyilvántartásban tárolt adatokkal – a központi szerv közreműködésével – is elvégzi.
 
 (8) Ha a kérelmező bevándorolt, letelepedett vagy menekült jogállású személy, a kérelemhez be kell mutatnia az érvényes személyazonosító igazolványát.
 
@@ -22,4 +22,4 @@
 
 (12) A közlekedési igazgatási hatóság a személyi azonosítót a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó személyek esetében az azt igazoló és az ügyfél által bemutatott okmány alapján ellenőrzi.
 
-[^3]: A 24. § (7) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^12]: A 24. § (7) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
