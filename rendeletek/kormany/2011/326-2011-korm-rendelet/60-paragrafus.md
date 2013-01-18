@@ -22,6 +22,8 @@ fb) amennyiben a jármű műszaki kialakítása azt indokolja, kérelemre az A t
 
 g)[^20]
 
+különleges rendszámtáblát ad ki.
+
 (3) A DT és a CK betűjelű rendszámtábla a jármű forgalomból történő kivonása után a jogosult más járművére is felszerelhető. Amennyiben ez a rendszámtábla típusának változásával is együtt jár, kettő darab rendszámtábla legyártása is engedélyezhető.
 
 (4) Az OT betűjelű különleges rendszámtáblát a Muzeális Minősítő Bizottság igazolása, továbbá a muzeális jellegű járműhöz a közlekedési hatóság által kiadott „Műszaki Adatlap” alapján a Hivatal adja ki.
