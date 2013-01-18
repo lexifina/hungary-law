@@ -1,3 +1,0 @@
-## 9. § Az R3. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Azonos fajtájú járművezetésre jogosító okmányból az engedély jogosítottja egyidejűleg csak egy érvényes okmánnyal rendelkezhet. A közlekedési igazgatási hatóság megtagadja a vezetői engedély kiállítását vagy a már kiadott vezetői engedélyt visszavonja, ha megállapítja, hogy a kérelmező már rendelkezik vagy a kérelem beadásakor már rendelkezett más hatóság által kiadott vezetői engedéllyel. Az EGT-állam hatósága által kiadott vezetői engedély egyenértékűségét a vezetőiengedély-kategóriák közötti egyenértékűségről szóló, 2008. augusztus 25-i 2008/766/EK bizottsági határozat alapján kell meghatározni.”

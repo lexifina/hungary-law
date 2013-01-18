@@ -1,3 +1,3 @@
-## 14. §[^11]
+## 14. §[^16]
 
-[^11]: A 14. § a 24. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^16]: A 14. § a 24. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
