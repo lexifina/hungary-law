@@ -40,7 +40,11 @@ s)[^20] prezerváció: vegyi anyagok, módosított környezeti feltételek vagy 
 
 t)[^21] karantén: az eltávolított szövetek vagy sejtek fizikailag vagy egyéb módon elkülönített állapota az elfogadásukra vagy elutasításukra vonatkozó döntés meghozataláig;
 
-u)[^22] emberi felhasználásért felelős szervezet: olyan egészségügyi szolgáltató, vagy fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató szervezeti egysége, amely emberi szöveteket és sejteket átültetés céljára használ fel.
+u)[^22] emberi felhasználásért felelős szervezet: olyan egészségügyi szolgáltató, vagy fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató szervezeti egysége, amely emberi szöveteket és sejteket átültetés céljára használ fel;
+
+v)[^23] ivarsejtek: az asszisztált reprodukció céljára történő felhasználásra szánt valamennyi szövet és sejt;
+
+w)[^24] partnerek közötti adományozás: ivarsejtek olyan férfi és nő közötti adományozása, akik megfelelnek az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló 30/1998. (VI. 24.) NM rendeletben foglalt előírásoknak.
 
 [^4]: Az 1/A. §-t a 35/2006. (IX. 7.) EüM rendelet 2. §-a iktatta be.
 [^5]: Az 1/A. § b) pontja a 12/2012. (VIII. 6.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
@@ -61,3 +65,5 @@ u)[^22] emberi felhasználásért felelős szervezet: olyan egészségügyi szol
 [^20]: Az 1/A. § s) pontját a 12/2012. (VIII. 6.) EMMI rendelet 1. § (3) bekezdése iktatta be.
 [^21]: Az 1/A. § t) pontját a 12/2012. (VIII. 6.) EMMI rendelet 1. § (3) bekezdése iktatta be.
 [^22]: Az 1/A. § u) pontját a 12/2012. (VIII. 6.) EMMI rendelet 1. § (3) bekezdése iktatta be.
+[^23]: Az 1/A. § v) pontját a 6/2013. (I. 18.) EMMI rendelet 8. §-a iktatta be.
+[^24]: Az 1/A. § w) pontját a 6/2013. (I. 18.) EMMI rendelet 8. §-a iktatta be.

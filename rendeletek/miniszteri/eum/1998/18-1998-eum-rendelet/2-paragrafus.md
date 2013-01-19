@@ -1,4 +1,4 @@
-## 1/B. §[^23] A szervátültetéssel összefüggésben illetékes hatóságként az e rendeletben és a szervátültetésre, mint egészségügyi szolgáltatásra vonatkozó jogszabályokban foglaltak végrehajtásáért az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH), az Országos Vérellátó Szolgálat (a továbbiakban: OVSZ) és a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) a felelős.
+## 1/C. §[^26] Az emberi szövetek, sejtek adományozása, gyűjtése, vizsgálata, feldolgozása, tárolása és elosztása során – amennyiben jogszabály másként nem rendelkezik – biztosítani kell, hogy a donor és a recipiens ne ismerjék meg egymás személyét.
 
 ## Szerv, szövet eltávolítása élő személyből
 
@@ -22,4 +22,4 @@ c) akire a szerv, szövet eltávolításában vagy beültetésében közvetlenü
 
 (7) Az etikai bizottság a recipiens egészségi állapota által indokolt időn belül, de lehetőleg a kérelem kézhezvételét követő 15 munkanapon belül ülést tart.
 
-[^23]: Az 1/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 2. §-a iktatta be.
+[^26]: Az 1/C. §-t a 6/2013. (I. 18.) EMMI rendelet 9. §-a iktatta be.

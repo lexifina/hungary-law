@@ -1,4 +1,4 @@
-## 16/G. §[^59] Az OTH az egészségügyi szolgáltatók nyilvántartására vonatkozó jogszabályban foglaltak szerint nyilvántartást vezet a transzplantációs központokról.
+## 16/G. §[^63] Az OTH az egészségügyi szolgáltatók nyilvántartására vonatkozó jogszabályban foglaltak szerint nyilvántartást vezet a transzplantációs központokról.
 
 ## Kórszövettani vizsgálat
 
@@ -12,4 +12,4 @@ c) köröm,
 
 d) élettani szülés esetén a placenta.
 
-[^59]: A 16/G. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^63]: A 16/G. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
