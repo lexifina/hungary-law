@@ -16,7 +16,7 @@ g)[^76] aki a vizsgabiztosi képzésre jelentkezés feltételeit teljesíti.
 
 (2) A nyilvántartásba vett vizsgabiztos részére a közlekedési hatóság vizsgabiztosi igazolványt ad ki.
 
-(3)[^77]
+(3)[^77] A vizsgabiztosoknak a vizsgabiztosi tevékenység folytatásához – a szükséges ismeret és képesség megőrzése, frissítése, új szakmai alkalmassági tényezők elsajátítása és a további vizsgáztatás tisztességes és egységes követelményeinek megfelelősége érdekében – évente összesen legalább kétnapos, – a szükséges gyakorlati járművezetői képesség megőrzése, illetve továbbfejlesztése érdekében – öt évente legalább ötnapos továbbképzésen kell részt venniük és ezt követően sikeres vizsgát kell tenniük. Az elméleti vizsgát a közúti járművezetők számítógépes elméleti vizsgájánál alkalmazott és elvárt körülmények betartásának megfelelően kell teljesíteni.
 
 (4)[^78] A vizsgabiztosok továbbképzését a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézmény végzi. Amennyiben a vizsgakötelezettségét a vizsgabiztos sikeresen teljesítette, a közlekedési hatóság újabb érvényességi idejű vizsgabiztosi igazolványt ad ki.
 
@@ -26,6 +26,6 @@ g)[^76] aki a vizsgabiztosi képzésre jelentkezés feltételeit teljesíti.
 [^74]: A 27. § (1) bekezdés nyitó szövegrésze az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
 [^75]: A 27. § (1) bekezdés c) pontja az 58/2011. (XI. 24.) NFM rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^76]: A 27. § (1) bekezdés g) pontját az 58/2011. (XI. 24.) NFM rendelet 25. § (2) bekezdése iktatta be.
-[^77]: [A 27. § (3) bekezdésének az 58/2011. (XI. 24.) NFM rendelet 25. § (3) bekezdésével megállapított, a 41. § (3) bekezdése alapján 2013. január 19-től hatályos szövege: „(3) A vizsgabiztosoknak a vizsgabiztosi tevékenység folytatásához – a szükséges ismeret és képesség megőrzése, frissítése, új szakmai alkalmassági tényezők elsajátítása és a további vizsgáztatás tisztességes és egységes követelményeinek megfelelősége érdekében – évente összesen legalább kétnapos, – a szükséges gyakorlati járművezetői képesség megőrzése, illetve továbbfejlesztése érdekében – öt évente legalább ötnapos továbbképzésen kell részt venniük és ezt követően sikeres vizsgát kell tenniük. Az elméleti vizsgát a közúti járművezetők számítógépes elméleti vizsgájánál alkalmazott és elvárt körülmények betartásának megfelelően kell teljesíteni.”.]
+[^77]: A 27. § (3) bekezdése az 58/2011. (XI. 24.) NFM rendelet 25. § (3) bekezdésével megállapított szöveg.
 [^78]: A 27. § (4) bekezdése az 58/2011: (XI. 24.) NFM rendelet 25. § (3) bekezdésével megállapított szöveg.
 [^79]: A 27. § (5) bekezdését az 58/2011: (XI. 24.) NFM rendelet 25. § (3) bekezdése iktatta be.
