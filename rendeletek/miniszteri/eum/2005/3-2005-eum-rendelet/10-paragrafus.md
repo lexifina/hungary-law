@@ -1,13 +1,13 @@
-10. §[^35] (1)[^36] A bejelentő intézmény értesíti az OTH-t, valamint az OVSZ főigazgatóját a vérrel és vérkomponensek gyűjtésével, vizsgálatával, előállításával, tárolásával és kiadásával kapcsolatos bármely súlyos káros eseményről, amely befolyásolhatja a vér és vérkomponensek minőségét és biztonságát, valamint bármely súlyos szövődményről, amelyet a transzfúzió során vagy azt követően észleltek, és amely a vér vagy vérkomponensek minőségére, illetve biztonságára vezethető vissza.
+10. §[^36] (1)[^37] A bejelentő intézmény értesíti az OTH-t, valamint az OVSZ főigazgatóját a vérrel és vérkomponensek gyűjtésével, vizsgálatával, előállításával, tárolásával és kiadásával kapcsolatos bármely súlyos káros eseményről, amely befolyásolhatja a vér és vérkomponensek minőségét és biztonságát, valamint bármely súlyos szövődményről, amelyet a transzfúzió során vagy azt követően észleltek, és amely a vér vagy vérkomponensek minőségére, illetve biztonságára vezethető vissza.
 
 (2) Az (1) bekezdés szerinti bejelentés során a 2. számú melléklet III. és IV. pontjában foglaltakat kell alkalmazni.
 
-(3)[^37] Az (1) bekezdés szerinti bejelentéseket követően az OTH megteszi a szükséges intézkedéseket.
+(3)[^38] Az (1) bekezdés szerinti bejelentéseket követően az OTH megteszi a szükséges intézkedéseket.
 
 (4) Az OVSZ főigazgatója intézkedik az (1) bekezdés szerinti vér és vérkomponensek teljes körű és igazolható visszahívásáról.
 
 (5) Az OVSZ a tárgyévet követő év június 30-ig éves jelentést nyújt be az Európai Unió Bizottságának a 2. számú melléklet III/D) és IV/C) pontja szerinti formanyomtatványokon.
 
-[^35]: A 10. § a 2/2007. (I. 24.) EüM rendelet 4. §-ával megállapított szöveg.
-[^36]: A 10. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.
-[^37]: A 10. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (5) bekezdése szerint módosított szöveg.
+[^36]: A 10. § a 2/2007. (I. 24.) EüM rendelet 4. §-ával megállapított szöveg.
+[^37]: A 10. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.
+[^38]: A 10. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (5) bekezdése szerint módosított szöveg.

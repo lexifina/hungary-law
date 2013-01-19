@@ -128,7 +128,9 @@
 
 63.[^19] minősítés: a validálás részeként annak tanúsítása, hogy a teljes személyzet, az intézmények, berendezések vagy anyagok megfelelően működnek, és az elvárt eredményt teljesítik;
 
-64.[^20] számítógépes rendszer: a jelentéshez, automatikus ellenőrzéshez vagy dokumentációhoz használatos rendszer, beleértve az adatbevitelt, az elektronikus adatfeldolgozást, adathordozón történő tárolást és az információk kibocsátását.
+64.[^20] számítógépes rendszer: a jelentéshez, automatikus ellenőrzéshez vagy dokumentációhoz használatos rendszer, beleértve az adatbevitelt, az elektronikus adatfeldolgozást, adathordozón történő tárolást és az információk kibocsátását;
+
+65.[^21] speciálisan képzett egészségügyi dolgozó: a vérellátó azon egészségügyi dolgozója, aki rendelkezik igazolással az OVSZ-nek az egészséges véradók vizsgálatánál felmerülő szempontok ismereteinek elsajátításáról szóló képzésén való részvételről.
 
 [^1]: A 2. § 45. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
 [^2]: A 2. § 46. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
@@ -150,3 +152,4 @@
 [^18]: A 2. § 62. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
 [^19]: A 2. § 63. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
 [^20]: A 2. § 64. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^21]: A 2. § 65. pontját a 6/2013. (I. 18.) EMMI rendelet 14. §-a iktatta be.

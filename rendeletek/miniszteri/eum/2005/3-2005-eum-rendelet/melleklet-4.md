@@ -34,7 +34,7 @@
 
 ## A donor által valamennyi véradás alkalmával szolgáltatandó adatok köre
 
-## 1.[^53] A donor személyazonossága
+## 1.[^57] A donor személyazonossága
 
 ## A donor családi és utóneve, asszonyoknál leánykori név, a születési hely és idő, az anya leánykori családi és utóneve, a lakóhely (ennek hiányában a tartózkodási hely), magyar állampolgárok esetében a társadalombiztosítási azonosító jel, nem magyar állampolgárok esetében az ezzel egyenértékű, egészségbiztosítási jogviszonyt igazoló irat.
 
@@ -58,7 +58,7 @@
 
 ## f) kijelenti, hogy az általa megadott valamennyi információ legjobb tudomása szerint megfelel a valóságnak.
 
-4. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^54]
+4. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^58]
 
 A teljes vér és vérkomponensek donorainak alkalmassági kritériumai
 
@@ -214,5 +214,5 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 | Aktív bakteriális fertőzés |  |
 
-[^53]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^54]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
+[^57]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^58]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
