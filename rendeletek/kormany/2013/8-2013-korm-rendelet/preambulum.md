@@ -1,0 +1,1 @@
+A Kormány a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés a), b), h), pontjában, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 53. § a) és i) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
