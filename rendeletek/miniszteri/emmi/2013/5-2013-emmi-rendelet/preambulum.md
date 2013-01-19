@@ -1,0 +1,1 @@
+A szakképzésről szóló 2011. évi CLXXXVII. törvény 90. § e) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § i)–l) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
