@@ -1,4 +1,4 @@
-## 6. §[^10]
+## 6. §[^13]
 
 ## A közúti járművezető az 5. § (1)–(4) bekezdésében meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatnak köteles magát alávetni, ha
 
@@ -10,4 +10,4 @@ c) látásélességében szemüveggel nem javítható rosszabbodás, vagy hallá
 
 d) súlyos hipoglikémia fordult elő.
 
-[^10]: A 6. § a 19/2010. (XII. 23.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^13]: A 6. § a 19/2010. (XII. 23.) NEFMI rendelet 2. §-ával megállapított szöveg.

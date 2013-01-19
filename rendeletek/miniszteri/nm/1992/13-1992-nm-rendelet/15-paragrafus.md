@@ -8,6 +8,6 @@
 
 (2) A felülvéleményezési kérelem benyújtására az érintett személy, illetve a 7. § (1) bekezdésének b)—e) pontjaiban meghatározottak jogosultak.
 
-(3)[^26] Az első fokú soron kívüli egészségi alkalmassági vizsgálat megállapításainak felülvéleményezését az eljáró hatóság és a közlekedési igazgatási hatóság is kérheti.
+(3)[^31] Az első fokú soron kívüli egészségi alkalmassági vizsgálat megállapításainak felülvéleményezését az eljáró hatóság és a közlekedési igazgatási hatóság is kérheti.
 
-[^26]: A 15. § (3) bekezdése a 19/2010. (XII. 23.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^31]: A 15. § (3) bekezdése a 19/2010. (XII. 23.) NEFMI rendelet 4. §-ával megállapított szöveg.

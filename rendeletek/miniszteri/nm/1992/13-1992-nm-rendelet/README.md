@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-13-20-3
 | 2010-12-31 | 1992-13-20-3D.5 | 19/2010. (XII. 23.) NEFMI rendelet |
 | 2011-01-01 | 1992-13-20-3D.6 | 16/2008. (IV. 24.) EüM rendelet |
 | 2012-09-19 | 1992-13-20-3D.7 | 16/2008. (IV. 24.) EüM rendelet |
+| 2013-01-19 | 1992-13-20-3D.8 | 6/2013. (I. 18.) EMMI rendelet |
