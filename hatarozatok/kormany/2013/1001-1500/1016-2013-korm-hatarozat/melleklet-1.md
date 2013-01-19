@@ -60,6 +60,8 @@
 
 ## Határidő: folyamatos
 
-## 9. visszavonja a Társadalmi Megújulás Operatív Program 1. prioritásának 2011–2013. évekre szóló akcióterv 1. prioritásának a megállapításáról, valamint egyes konstrukciók keretösszegének a módosításáról szóló 1527/2012. (XI. 28.) Korm. határozatot.
+## 9.[^1]
 
 1. melléklet az 1016/2013. (I. 18.) Korm. határozathoz
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
