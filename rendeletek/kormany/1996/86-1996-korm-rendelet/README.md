@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-86-20-2
 | 2012-08-16 | 1996-86-20-22.28 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-12-14 | 1996-86-20-22.29 | 359/2012. (XII. 13.) Korm. rendelet |
 | 2013-01-01 | 1996-86-20-22.30 | 145/2011. (VII. 27.) Korm. rendelet |
+| 2013-01-19 | 1996-86-20-22.31 | 145/2011. (VII. 27.) Korm. rendelet |
