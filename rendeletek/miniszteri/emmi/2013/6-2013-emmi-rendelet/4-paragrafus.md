@@ -1,1 +1,0 @@
-## „(4) Az (1) bekezdésben foglalt esetekben a szakértői bizottság határozatában megállapítja a közúti járművezetés műszaki feltételeit a szükséges, a KR. 8. mellékletében található korlátozások és feltételek, valamint a hozzájuk tartozó kódok és alkódok megjelölésével.”
