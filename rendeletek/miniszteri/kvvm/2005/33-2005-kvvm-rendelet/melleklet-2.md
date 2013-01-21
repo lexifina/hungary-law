@@ -8,41 +8,53 @@
 
 | (fő) | alszám |
 
-| 1. |  | Hulladékhasznosítást, illetve töltést koordináló szervezet engedélyezése [a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 11. § (2) bekezdés] országos tevékenység esetén: | 600 000 |
+| 1. |  | Közvetítő szervezet engedélyezése | 600 000 |
 
-| 2. |  | A szolgáltatási tevékenység bejelentése az alábbi jogszabályokban meghatározott esetekben: | 75 000 |
+| 2. |  | Bejelentés az alábbi jogszabályokban meghatározott esetekben: | 75 000 |
 
-|  |  | – a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló 94/2002. (V. 5.) Korm. rendelet 9. § (1) bekezdés |  |
+|  | 1. | – az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet |  |
 
-|  |  | – az elektromos és elektronikai berendezések hulladékainak visszavételéről szóló 264/2004. (IX. 23.) Korm. rendelet 11. § (1) bekezdés |  |
+|  | 2. | – a hulladékká vált gépjárművekről szóló kormányrendelet |  |
 
-|  |  | – a hulladékká vált gépjárművekről szóló 267/2004. (IX. 23.) Korm. rendelet 9/A. § |  |
+|  | 3. | – az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet |  |
 
-|  |  | – az elemek és akkumulátorok hulladékainak visszavételéről szóló 181/2008. (VII. 8.) Korm. rendelet 8/B. § |  |
+|  | 4. | – a betétdíj alkalmazásának szabályairól szóló kormányrendelet |  |
 
-|  |  | – a betétdíj alkalmazásának szabályairól szóló 209/2005. (X. 5.) Korm. rendelet 6/B. § |  |
+|  | 5. | Újrahasználható csomagolószerek nyilvántartásba vétele | 80 000 |
 
-| 3. |  | Hulladék begyűjtésének engedélyezése [Hgt. 15. § (3) bekezdés] | 72 000 |
+| 3. |  | Hulladékközvetítő, hulladékkereskedő bejelentéshez kötött tevékenységének nyilvántartásba vételi eljárása | 50 000 |
 
-| 4. |  | Hulladékszállítás engedélyezése a 9. pont kivételével [Hgt. 16. § (3) bekezdés] | 96 000 |
+| 4. |  |  |  |
 
-| 5. |  | Hulladék előkezelésének engedélyezése [Hgt. 14. § (2) bekezdés] | 120 000 |
+|  | 1. | Hulladékkereskedelmi, -közvetítői vagy szállítási tevékenység engedélyezése | 120 000 |
 
-| 6. |  | Hulladéktárolás engedélyezése [Hgt. 14. § (2) bekezdés] | 144 000 |
+|  | 2. | Hulladékkereskedelmi, -közvetítői és szállítási tevékenységből két tevékenység együttes engedélyezése | 140 000 |
 
-| 7. |  | Hulladékhasznosítás engedélyezése [Hgt. 18. § (4) bekezdés] | 318 000 |
+|  | 3. | Hulladékkereskedelmi, -közvetítői és szállítási tevékenység együttes engedélyezése | 160 000 |
 
-| 8. |  | Hulladék-ártalmatlanítás engedélyezése [Hgt. 19. § (2) bekezdés] | 318 000 |
+|  | 4. | Hulladékkereskedelmi, -közvetítői vagy szállítási tevékenység, valamint előkezelés engedélyezése | 160 000 |
 
-| 9. |  | Hulladék behozatalának, kivitelének, az ország területén való átszállításának engedélyezése [Hgt. 17. §] | 128 000 |
+| 5. |  | Hulladék előkezelésének engedélyezése, ha a hasznosítási és ártalmatlanítási műveletek közül előkészítő műveletet engedélyeznek | 120 000 |
 
-| 10. |  | Egyedi hulladékgazdálkodási terv jóváhagyása [Hgt. 37. §, a hulladékgazdálkodási tervek részletes tartalmi követelményeiről szóló 126/2003. (VIII. 15.) Korm. rendelet 12. § (3)–(5) bekezdés] | 25 000 |
+| 6. |  | Hulladéktárolás engedélyezése | 144 000 |
 
-| 11. |  | Hulladéklerakó rekultivációjának és utógondozásának engedélyezése [a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló 20/2006. (IV. 5.) KvVM rendelet 15. § (1) bekezdés] | 100 000 |
+| 7. |  | Hulladékhasznosítás engedélyezése | 470 000 |
 
-| 12. |  | Veszélyes hulladék kezelésével kapcsolatos tevékenység engedélyezése [Hgt. 32. § (6) bekezdés, a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet 25. §] | A 3–11. pontban megállapított díjtétel 150%-a |
+| 8. |  | Hulladékártalmatlanítás engedélyezése | 500 000 |
 
-| 13. |  | A 98/2001. (VI.15.) Korm. rendelet 4/A. § (1) bekezdése és 21. § (1) bekezdése szerinti veszélyes hulladék minősítési, illetve technológia minősítési eljárás [98/2001. (VI. 15.) Korm. rendelet 4/A. § (1) bekezdés és 21. § (1) bekezdés] | 300 000 |
+| 9. |  | Hulladék behozatalának, kivitelének, az ország területén való átszállításának engedélyezése | 190 000 |
+
+| 10. |  | Hulladéklerakó rekultivációjának és utógondozásának engedélyezése | 200 000 |
+
+| 11. |  | Veszélyes hulladékkal kapcsolatos tevékenység engedélyezése, bejelentése | A 3–10. pontban megállapított díjtétel 150%-a |
+
+| 12. |  | A veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott hulladék-, vagy technológia-minősítési eljárás | 500 000 |
+
+| 13. |  |  |  |
+
+|  | 1. | Közszolgáltatás engedélyezése | 120 000 |
+
+|  | 2. | Közszolgáltatói hulladékgazdálkodási terv jóváhagyása | 40 000 |
 
 | 14. |  | Helyhez kötött légszennyező pontforrás létesítése, meglévő bővítése, rekonstrukciója, felújítása, korszerűsítése, alkalmazott technológia váltásának, működése megkezdésének, illetve megszüntetésének engedélyezési eljárása a levegő védelméről szóló jogszabály alapján | 32 000/pontforrás |
 
@@ -220,35 +232,15 @@
 
 | 31. |  | A mosó- és tisztítószerekről szóló 648/2004/EK rendelet 4. cikk (2) bekezdése alapján a gyártói eltérés kérelmezése [a mosó- és tisztítószerek hatóanyagai biológiai bonthatóságának ellenőrzéséről és az információszolgáltatás rendjéről szóló 270/2005. (XII. 25.) Korm. rendelet 5. §] | 600 000 |
 
-| 32. |  | Termékdíj-fizetési kötelezettség alóli mentesség engedélyezése [a környezetvédelmi termék-díjmentesség, a termékdíj visszaigénylésének és átvállalásának, valamint a használt gumiabroncs behozatalának feltételeiről szóló 53/2003. (IV. 11.) Korm. rendelet 2. §] | 144 000 |
+| 32. |  | A nem közművel összegyűjtött háztartási szennyvíz begyűjtésének engedélyezése | 80 000 |
 
-| 33. |  | A használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos termékdíj-visszaigénylés [53/2003. (IV. 11.) Korm. rendelet 8. § (4) bekezdés] – egy negyedévre jutó hasznosított (saját hasznosítású vagy hasznosításra átadott) hulladékolaj mennyisége kilogrammban |  |
+| 33. |  |  |  |
 
-|  | 1. | 5000-ig | 10 600 |
+|  | 1. | Melléktermék felhasználhatóságára vonatkozó dokumentáció elbírálása | 200 000 |
 
-|  | 2. | 5001–25 000-ig | 53 000 |
+|  | 2. | Hulladékgazdálkodási létesítmény működési szabályzat jóváhagyása | 40 000 |
 
-|  | 3. | 25 001–50 000-ig | 106 000 |
-
-|  | 4. | 50 001–75 000-ig | 159 000 |
-
-|  | 5. | 75 001–100 000-ig | 212 000 |
-
-|  | 6. | 100 001–150 000-ig | 318 000 |
-
-|  | 7. | 150 001–200 000-ig | 424 000 |
-
-|  | 8. | 200 001–300 000-ig | 636 000 |
-
-|  | 9. | 300 001–400 000-ig | 848 000 |
-
-|  | 10. | 400 001–500 000-ig | 1 600 000 |
-
-|  | 11. | 500 001–1 000 000-ig | 2 120 000 |
-
-|  | 12. | 1 000 001–2 000 000-ig | 4 240 000 |
-
-|  | 13. | 2 000 001 felett | 5 300 000 |
+|  | 3. | Hulladékgazdálkodási engedély egységes szerkezetbe foglalása | 30 000 |
 
 | 34. |  | Szennyező anyagok elhelyezésének engedélyezése [a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet] | 30 000 |
 
@@ -902,7 +894,7 @@
 
 | 15.4.2. | Kizárólag környezeti hatások jelentőségének vizsgálata | 133 000 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^22]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^25]
 
 A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
 
@@ -932,4 +924,4 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 
 | 12. | Vidékfejlesztési Minisztérium | 10032000-01494549 |
 
-[^22]: A 2. melléklet a 20/2007. (VI. 8.) KvVM rendelet 2. §-ának b) pontjával megállapított, a 149/2011. (XII. 31.) VM rendelet 3. §-a szerint módosított szöveg.
+[^25]: A 2. melléklet a 20/2007. (VI. 8.) KvVM rendelet 2. §-ának b) pontjával megállapított, a 149/2011. (XII. 31.) VM rendelet 3. §-a szerint módosított szöveg.

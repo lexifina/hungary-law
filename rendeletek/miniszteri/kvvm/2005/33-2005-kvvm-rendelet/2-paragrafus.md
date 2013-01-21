@@ -2,7 +2,7 @@
 
 2. §[^2] (1) Igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni az 1. melléklet I-V. pontjában meghatározott eljárásokért.
 
-(2) A használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos termékdíj-visszaigénylés esetében a kérelem előterjesztésekor a kérelemben megjelölt hasznosított (saját hasznosítású vagy hasznosításra átadott) hulladékolaj-mennyiség után kell a díjat megfizetni. Amennyiben az eljáró hatóság vizsgálatát követően elfogadott és határozatban megállapított hasznosított mennyiség több, mint a kérelemben megjelölt, az eljáró hatóság a befizetett és a befizetendő díj különbségét kiszabás alapján állapítja meg. Ez esetben az eljáró hatóság a határozat meghozatalával egyidejűleg fizetési meghagyást (határozatot) bocsát ki.
+(2)[^3]
 
 (3) Az (1) bekezdésben meghatározott eljárásokért fizetendő díj mértékét az 1. melléklet I-V. pontja határozza meg. A díjat – ha az 1. melléklet I-V. pontjából más nem következik – eljárásonként kell megfizetni.
 
@@ -16,7 +16,7 @@
 
 (8) A vízbázis védőterületét kijelölő határozattal érintett ingatlan tulajdonosa, használója által a jogorvoslati eljárásért fizetendő díj ingatlanonként 5000 Ft.
 
-(9)[^3] A nemzeti park igazgatóságoknak a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben biztosított díjfizetési mentessége az 1. melléklet I. táblázat
+(9)[^4] A nemzeti park igazgatóságoknak a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben biztosított díjfizetési mentessége az 1. melléklet I. táblázat
 
 a) 36. pontja,
 
@@ -30,7 +30,7 @@ e) az a)–d) pontokhoz kapcsolódóan 51. és 52. pontja
 
 alá tartozó tevékenységekre terjed ki.
 
-(10)[^4] A vízügyi igazgatóságoknak, valamint az Országos Vízügyi Főigazgatóságnak a vízgazdálkodásról szóló 1995. évi LVII. törvényben biztosított díjfizetési mentessége az 1. melléklet I. táblázat
+(10)[^5] A vízügyi igazgatóságoknak, valamint az Országos Vízügyi Főigazgatóságnak a vízgazdálkodásról szóló 1995. évi LVII. törvényben biztosított díjfizetési mentessége az 1. melléklet I. táblázat
 
 a) 24. pont 1. és 9. alpontja,
 
@@ -50,5 +50,6 @@ alá tartozó tevékenységekre terjed ki.
 
 [^1]: Az 1. § a 4/2010. (II. 25.) KvVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
 [^2]: Az 2. § a 4/2010. (II. 25.) KvVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
-[^3]: A 2. § (9) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.
-[^4]: A 2. § (10) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.
+[^3]: A 2. § (2) bekezdését a 136/2012. (XII. 21.) VM rendelet 3. §-a hatályon kívül helyezte.
+[^4]: A 2. § (9) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.
+[^5]: A 2. § (10) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.
