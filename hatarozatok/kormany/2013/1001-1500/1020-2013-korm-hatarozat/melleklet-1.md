@@ -1,0 +1,97 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében, a Brüsszelben, Magyarország Európai Unió mellett működő Állandó Képviseletén két új tudományos és technológiai szakdiplomata álláshely létesítéséhez, a 2013. évben szükséges fedezet biztosításának céljából 86,388 millió forint 1. melléklet szerinti átcsoportosítását rendeli el a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet, 2. Nemzeti Innovációs Hivatal cím terhére, a Kvtv. 1. melléklet XVIII. Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára.
+
+## Felelős: nemzetgazdasági miniszter
+
+## külügyminiszter
+
+## Határidő: azonnal
+
+1. melléklet az 1020/2013. (I. 21.) Korm. határozathoz
+
+XV. Nemzetgazdasági Minisztérium
+
+XVII. Külügyminisztérium
+
+| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2013. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |  |  |  |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | K I A D Á S O K | A módosítás jogcíme |  | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  | Módosítás | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (+/-) | hatása |
+
+|  | XV. |  |  |  |  |  |  | Nemzetgazdasági Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
+
+| 251912 |  | 2 |  |  |  |  |  |  | Nemzeti Innovációs Hivatal |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | -48 614 | -4 420 |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  | -13 126 | -1 193 |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -24 648 | -2 996 |  |
+
+|  | XVIII. |  |  |  |  |  |  | Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |
+
+| 4118 |  | 2 |  |  |  |  |  |  | Külképviseletek igazgatása |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 48 614 | 4 420 |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  | 13 126 | 1 193 |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 24 648 | 2 996 |  |
+
+| Az előirányzatmódosítás érvényessége: tartós jellegű |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |  |  |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | BEVÉTELEK | A módosítás jogcíme |  | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  | Módosítás | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (+/-) | hatása |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  | XV. |  |  |  |  |  |  | Nemzetgazdasági Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
+
+| 251912 |  | 2 |  |  |  |  |  |  | Nemzeti Innovációs Hivatal |  |  |  |  |  |  |  |  | -86 388 | -8 609 |  |
+
+|  | XVIII. |  |  |  |  |  |  | Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |
+
+| 4118 |  | 1 |  |  |  |  |  |  | Külképviseletek igazgatása |  |  |  |  |  |  |  |  | 86 388 | 8 609 |  |
+
+| Az előirányzatmódosítás érvényessége: tartós jellegű |  |  |  |  |  |  |  |  |  |  |  |
+
+| Foglalkoztatottak létszáma: 2 fő |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: | Összesen | I.n.év | II. n.év | III.n.év |  |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb : azonnal | 86 388 | 86 388 |  |  |  |
+
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
