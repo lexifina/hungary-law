@@ -1,29 +1,23 @@
-2/A. §[^7] (1) Az országkép-építés stratégiai irányai meghatározásának elősegítése, valamint a Balassi Intézet szakmai tevékenysége hatékonyságának növelése érdekében, Szakmai Tanácsadó Testület (a továbbiakban: Testület) működik közre.
+2/A. §[^10] (1) Az országkép-építés stratégiai irányai meghatározásának elősegítése, valamint a Balassi Intézet szakmai tevékenysége hatékonyságának növelése érdekében Miniszteri Tanácsadó Testület (a továbbiakban: Testület) működik.
 
-(2) A Testület tagjai
+(2) A Testület tagjai:
 
-a) a miniszter által delegált négy,
+a) a miniszter,
 
-b) a nemzeti erőforrás miniszter által delegált kettő,
+b) az emberi erőforrások minisztere,
 
-c) a külügyminiszter által delegált egy,
+c) a külügyminiszter.
 
-d) a nemzetgazdasági miniszter által delegált egy,
+(3) A Testület elnöke a miniszter.
 
-e) a nemzeti fejlesztési miniszter által delegált egy,
+(4) A Testület minden év június 30. napjáig tájékoztatót készít a Kormány részére a Balassi Intézet által elkészített tárgyévi tevékenységről szóló beszámolóról, valamint véleményezi a Balassi Intézet tárgyévet követő évre vonatkozó alaptevékenységébe tartozó feladatai körében tervezett intézkedéseket.
 
-f) a vidékfejlesztési miniszter által delegált egy, valamint
+(5) A Testület tagjai nem részesülnek testületi tevékenységükért külön díjazásban.
 
-g) a honvédelmi miniszter által delegált egy
+(6) A Testület ülésére a Testület elnöke a testületi tagokon kívül szakértőként más személyt is meghívhat.
 
-képviselő.
+(7) A Testület ügyrendjét saját maga állapítja meg.
 
-(3) A Testület vezetőjét a miniszter nevezi ki a miniszter által delegált képviselők közül.
+(8) A Testület tevékenységével összefüggő titkársági feladatok ellátásáért a Balassi Intézet főigazgatója felelős.
 
-(4) A Testület ügyrendjét saját maga határozza meg, amelyet a miniszter hagy jóvá.
-
-(5) A Testület minden év június 30. napjáig tájékoztatót készít a Kormány részére a Balassi Intézet által elkészített tárgyévi tevékenységről szóló beszámolóról, valamint véleményezi a Balassi Intézet tárgyévet követő évre vonatkozó alaptevékenységébe tartozó feladatai körében tervezett intézkedésekeit.
-
-(6) A Testület a tevékenységéről negyedévente beszámol a miniszternek, a nemzeti erőforrás miniszternek, valamint a külügyminiszternek.
-
-[^7]: A 2/A. §-t a 216/2010. (VII. 9.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 2/A. §-t a 216/2010. (VII. 9.) Korm. rendelet 3. §-a iktatta be, szövege a 11/2013. (I. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
