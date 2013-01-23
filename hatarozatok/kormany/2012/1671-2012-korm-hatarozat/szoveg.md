@@ -1,16 +1,16 @@
 A Kormány
 
-1. a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 41. § (2) bekezdése alapján a 2013-ban a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatásban az államilag támogatott új belépő létszámot az alábbiak szerint határozza meg:
+1.[^2] a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 41. § (2) bekezdése alapján a 2013-ban a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatásban az államilag támogatott új belépő létszámot az alábbiak szerint határozza meg:
 
 | Képzési szint, képzési ág | Támogatásban* részesülők létszáma | Önköltség fizetési kötelezettséggel felvehető létszám |
 
 | fő |
 
-| a) | alapképzésre felvehető hallgatók létszáma | 1470 | 515 |
+| a) | alapképzésre felvehető hallgatók létszáma | 1470 | 725 |
 
 | ebből |
 
-| közigazgatási felsőoktatásban | 650 | 320 |
+| közigazgatási felsőoktatásban | 650 | 530 |
 
 | rendészeti felsőoktatásban | 645 | 120 |
 
@@ -18,11 +18,11 @@ A Kormány
 
 | nemzetbiztonsági felsőoktatásban | 25 | – |
 
-| b) | mesterképzésre felvehető hallgatók létszáma | 490 | 245 |
+| b) | mesterképzésre felvehető hallgatók létszáma | 490 | 370 |
 
 | ebből |
 
-| közigazgatási felsőoktatásban | 200 | 190 |
+| közigazgatási felsőoktatásban | 200 | 315 |
 
 | rendészeti felsőoktatásban | 80 | – |
 
@@ -43,3 +43,5 @@ Határidő: azonnal
 Felelős: az államháztartásért felelős miniszter
 
 Határidő: 2013. március 1.
+
+[^2]: Az 1. pont az 1023/2013. (I. 23.) Korm. határozattal megállapított szöveg.
