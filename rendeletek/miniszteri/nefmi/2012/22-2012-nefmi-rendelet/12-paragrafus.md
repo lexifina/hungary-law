@@ -17,3 +17,7 @@ e) helyi önkormányzat, nemzetiségi önkormányzat, jogi személyiségű társ
 (4) Ha a kedvezményezett az Stv.-ben meghatározott olyan köztestület, amelynek létezését a sportigazgatási szerv tartja nyilván, a 11. § (1) bekezdés a) és b) pontjában meghatározott dokumentumokat nem kell benyújtani.
 
 (5) Ha a kedvezményezett a miniszter irányítása alá tartozó központi költségvetési szerv, az Ávr. 72. § (2) bekezdés b) pontja szerinti nyilatkozatot nem kell benyújtania.
+
+(6)[^2] A Kormány hatáskörében végrehajtott, nem a központi költségvetés fejezetei közötti megállapodás alapján lebonyolított tárgyévi, a sportcélú előirányzatok javára történt előirányzat-átcsoportosítás esetében az átcsoportosítással biztosított előirányzat terhére történő támogatásnyújtáskor a miniszter a támogatási szerződést a 11. § (1) bekezdés k)–n) pontja szerinti dokumentumok hiányában is megkötheti. A támogatás folyósításának – a 15. §-ban meghatározottak mellett – feltétele, hogy a kedvezményezett a 11. § (1) bekezdés k)–n) pontja szerinti dokumentumokat a szerződéskötést követő tizenöt napon belül benyújtsa. Ennek hiányában a támogatás folyósítására nem kerül sor.
+
+[^2]: A 12. § (6) bekezdését a 7/2013. (I. 23.) EMMI rendelet 2. §-a iktatta be.
