@@ -6,7 +6,7 @@ a) a sportesemény hazai megrendezésének eredményességi, kvalifikációs, sp
 
 b) a sporteseményen részt vevő országok, sportolók, nézők várható száma,
 
-c)[^3] a sportesemény közvetítésének a Magyarország kedvező nemzetközi megítélésére gyakorolt hatása,
+c)[^4] a sportesemény közvetítésének a Magyarország kedvező nemzetközi megítélésére gyakorolt hatása,
 
 d) a sporteseménnyel összefüggő sportinfrastruktúra-fejlesztés, akadálymentesítés, a beruházás sportágfejlesztési és sportpolitikai, valamint gazdaságösztönző hatása,
 
@@ -20,4 +20,4 @@ h) a sporteseménynek a sportág további fejlődésére gyakorolt, várható ha
 
 i) a fogyatékos személyek társadalmi integrációjára gyakorolt hatása.
 
-[^3]: A 24. § (2) bekezdés c) pontja a 22/2012. (IV. 11.) NEFMI rendelet 68. §-a szerint módosított szöveg.
+[^4]: A 24. § (2) bekezdés c) pontja a 22/2012. (IV. 11.) NEFMI rendelet 68. §-a szerint módosított szöveg.

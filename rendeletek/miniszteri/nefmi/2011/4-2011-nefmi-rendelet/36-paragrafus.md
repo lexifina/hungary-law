@@ -26,7 +26,7 @@ b) a társadalombiztosítási jogviszony fennállásának igazolására alkalmas
 
 c) annak igazolását, hogy bankszámlával rendelkezik, továbbá
 
-d)[^11] a tartózkodási engedélye másolatát – amelyből megállapítható, hogy legalább a munkaszerződés, munkavégzésére irányuló egyéb szerződés időtartamával megegyező időtartamban a Magyarország területén jogszerűen tartózkodik –
+d)[^12] a tartózkodási engedélye másolatát – amelyből megállapítható, hogy legalább a munkaszerződés, munkavégzésére irányuló egyéb szerződés időtartamával megegyező időtartamban a Magyarország területén jogszerűen tartózkodik –
 
 csatolja.
 
@@ -42,4 +42,4 @@ b) ha az edző (5) bekezdés a) pontban meghatározott versenyzőt felkészítő
 
 c) ha az edzővel vagy a versenyzővel szemben jogerős doppingbüntetésként eltiltás kerül kiszabásra.
 
-[^11]: A 36. § (6) bekezdés d) pontja a 22/2012. (IV. 11.) NEFMI rendelet 68. §-a szerint módosított szöveg.
+[^12]: A 36. § (6) bekezdés d) pontja a 22/2012. (IV. 11.) NEFMI rendelet 68. §-a szerint módosított szöveg.

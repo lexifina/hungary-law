@@ -10,4 +10,6 @@
 
 (3) A (2) bekezdés szerinti pályázati eljárást az MLSZ a BMSK Zrt. útján bonyolítja le.
 
-(4) Az (1) bekezdésben meghatározott előirányzat terhére nyújtott támogatás elszámolási határideje legkésőbb 2012. november 30-a lehet.
+(4)[^19] Az (1) bekezdésben meghatározott előirányzat terhére nyújtott támogatás elszámolási határideje 2013. március 31.
+
+[^19]: A 47. § (4) bekezdése a 7/2013. (I. 23.) EMMI rendelet 1. §-ával megállapított szöveg.

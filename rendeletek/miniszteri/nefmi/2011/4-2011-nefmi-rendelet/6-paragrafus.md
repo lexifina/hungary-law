@@ -1,4 +1,4 @@
-## 5. §[^2] A versenyzők és a felkészülésüket segítő sportszakemberek közvetlen központi költségvetési támogatásként Gerevich Aladár-sportösztöndíjat, Nemzet Sportolója címmel járó életjáradékot, olimpiai járadékot, valamint egyszeri eredményességi támogatást kaphatnak, amelyeket a MOB közvetlenül folyósít az arra jogosultak részére.
+## 5. §[^3] A versenyzők és a felkészülésüket segítő sportszakemberek közvetlen központi költségvetési támogatásként Gerevich Aladár-sportösztöndíjat, Nemzet Sportolója címmel járó életjáradékot, olimpiai járadékot, valamint egyszeri eredményességi támogatást kaphatnak, amelyeket a MOB közvetlenül folyósít az arra jogosultak részére.
 
 6. § (1) A támogató az előirányzatok terhére nyújtandó támogatást – az államháztartásról szóló törvényben, az államháztartás működési rendjéről szóló kormányrendeletben, valamint a XX. Nemzeti Erőforrás Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2011. évi felhasználásának szabályairól szóló NEFMI rendeletben (a továbbiakban: NEFMI rendelet) foglaltaknak megfelelően – a kedvezményezettel kötött támogatási szerződés alapján bocsátja rendelkezésre.
 
@@ -34,4 +34,4 @@ a) a támogatóval korábban kötött szerződéseiben foglalt lejárt esedékes
 
 b) a miniszterrel, az olimpiai központok működtetését és fejlesztését végző szervezettel és az állami utánpótlás-nevelési programok koordinálását és felügyeletét végző központi költségvetési szervvel, a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.-vel (a továbbiakban: BMSK Zrt.), valamint a sportról szóló törvény szerinti sportközalapítvánnyal szemben 90 napnál régebbi, esedékessé vált és meg nem fizetett tartozása nem áll fenn.
 
-[^2]: Az 5. § a 40/2011. (VII. 5.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 5. § a 40/2011. (VII. 5.) NEFMI rendelet 2. §-ával megállapított szöveg.

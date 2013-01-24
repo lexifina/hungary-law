@@ -62,6 +62,6 @@ bf) egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállí
 
 (7) A 33. § (1) bekezdés g) pontjában meghatározott támogatás felhasználása során az alábbi költségek számolhatók el: az edzőtáboroztatással közvetlenül összefüggő szállás és étkezés költsége, a létesítménybérlet (az igazolt használat alapján), valamint az edzőmérkőzés rendezésével (ideértve az edzőmérkőzés biztonságos megrendezésével összefüggő, a mentéssel, a biztonság biztosításával) kapcsolatos költségek, az olimpiai központ sportorvosi szakrendelőjében rendelkezésre álló gyógyszerek költségei.
 
-(8)[^8] A 33. § (1) bekezdés i) pontjában meghatározott támogatás felhasználása során a 2012. évi londoni nyári olimpián és paralimpián való részvétellel összefüggésben előzetesen felmerülő dologi kiadások számolhatók el.
+(8)[^9] A 33. § (1) bekezdés i) pontjában meghatározott támogatás felhasználása során a 2012. évi londoni nyári olimpián és paralimpián való részvétellel összefüggésben előzetesen felmerülő dologi kiadások számolhatók el.
 
-[^8]: A 34. § (8) bekezdését a 76/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.
+[^9]: A 34. § (8) bekezdését a 76/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.

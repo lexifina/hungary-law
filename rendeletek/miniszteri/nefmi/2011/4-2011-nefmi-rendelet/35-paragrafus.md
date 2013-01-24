@@ -8,7 +8,7 @@ c) idős sportolók szociális támogatása és Ezüstgerely-pályázat támogat
 
 d) Gerevich Aladár-sportösztöndíj rendszer működtetése,
 
-e)[^9] egyszeri eredményességi támogatás az (5) bekezdésben meghatározott eredmények után.
+e)[^10] egyszeri eredményességi támogatás az (5) bekezdésben meghatározott eredmények után.
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott célok támogatásának részletes szabályait a Nemzet Sportolója címről szóló és az olimpiai járadékról szóló kormányrendeletek tartalmazzák.
 
@@ -16,7 +16,7 @@ e)[^9] egyszeri eredményességi támogatás az (5) bekezdésben meghatározott 
 
 (4) Az (1) bekezdés d) pontjában meghatározott célok az olimpiai, paralimpiai, speciális világjáték-válogatott kerettag sportolók, továbbá a felkészítésükben közreműködő sportszakemberek részére a Gerevich Aladár-sportösztöndíj juttatását tartalmazzák.
 
-(5)[^10] Egyszeri eredményességi támogatásban részesülnek:
+(5)[^11] Egyszeri eredményességi támogatásban részesülnek:
 
 a) a Tajpeiben (Tajvan), 2009. szeptember 5–15. között rendezett XXI. Nyári Siketlimpián;
 
@@ -28,5 +28,5 @@ d) az Estorilban (Portugália), 2010. június 3–13. között rendezett Siketek
 
 érmes és pontszerző helyezést elért siket sportolók, a felkészítésükben közreműködött sportszakemberek. A támogatás legfeljebb öt százaléka a támogatás kifizetésével összefüggésben felmerült közreműködői költségek támogatására fordítható.
 
-[^9]: A 35. § (1) bekezdés e) pontját a 40/2011. (VII. 5.) NEFMI rendelet 3. § (1) bekezdése iktatta be.
-[^10]: A 35. § (5) bekezdését a 40/2011. (VII. 5.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 35. § (1) bekezdés e) pontját a 40/2011. (VII. 5.) NEFMI rendelet 3. § (1) bekezdése iktatta be.
+[^11]: A 35. § (5) bekezdését a 40/2011. (VII. 5.) NEFMI rendelet 3. § (2) bekezdése iktatta be.

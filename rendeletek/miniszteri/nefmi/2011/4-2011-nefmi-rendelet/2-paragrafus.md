@@ -4,7 +4,7 @@
 
 2. § (1) Az előirányzatokról nyújtott támogatások tekintetében – a sportról szóló 2004. évi I. törvény 38. § (4) bekezdés b) pontjában meghatározottakra is figyelemmel – a támogatások felhasználásáról való döntésre jogosult személy a (2) bekezdésben meghatározott kivétellel a sportpolitikáért felelős miniszter (a továbbiakban: miniszter).
 
-(2)[^1] „Az olimpiai mozgalommal összefüggő, valamint egyéb, a sport stratégiai fejlesztését szolgáló feladatok támogatására” és a „Sport társadalmi, civil és non-profit szervezetek” jogcím-csoport „Felkészítést végző sportszakemberek támogatása” jogcímhez tartozó előirányzatból nyújtott támogatások tekintetében – figyelemmel a 35. §-ban foglaltakra – a támogatások felhasználásáról való döntésre jogosult személy a Magyar Olimpiai Bizottság elnöke (a továbbiakban: MOB elnöke).
+(2)[^2] „Az olimpiai mozgalommal összefüggő, valamint egyéb, a sport stratégiai fejlesztését szolgáló feladatok támogatására” és a „Sport társadalmi, civil és non-profit szervezetek” jogcím-csoport „Felkészítést végző sportszakemberek támogatása” jogcímhez tartozó előirányzatból nyújtott támogatások tekintetében – figyelemmel a 35. §-ban foglaltakra – a támogatások felhasználásáról való döntésre jogosult személy a Magyar Olimpiai Bizottság elnöke (a továbbiakban: MOB elnöke).
 
 (3) A kedvezményezett részére – ha e rendelet vagy az államháztartás működéséről szóló jogszabályok eltérően nem rendelkeznek – vissza nem térítendő támogatás nyújtható támogatási kérelem alapján, pályázat útján, az e rendeletben meghatározott szervezetek javaslatára, valamint jogszabályban normatív módon megállapított mértékben.
 
@@ -26,4 +26,4 @@
 
 (12) A rendeletben nem szabályozott kérdésekben – az egyes előirányzatok felhasználása során – a XX. Nemzeti Erőforrás Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2011. évi felhasználásának szabályairól szóló NEFMI rendeletben foglaltakat kell alkalmazni.
 
-[^1]: A 2. § (2) bekezdése a 40/2011. (VII. 5.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 40/2011. (VII. 5.) NEFMI rendelet 1. §-ával megállapított szöveg.
