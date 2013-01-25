@@ -14,13 +14,13 @@ c) új jogosítás esetén valamely más jogosítással – ha a jogosításhoz 
 
 (3) A 15. § (2)–(4) bekezdésében meghatározott szakszolgálati kiterjesztést új jogosítás, új jogosítás-kiterjesztés vagy új munkahelyi kiterjesztés esetén az az engedélyes kaphat, aki rendelkezik légiforgalmi irányító szakszolgálati engedéllyel, és
 
-a)[^20] munkahelyi gyakorlati oktató kiterjesztés esetén legalább 2 éves munkahelyi gyakorlati oktató kiterjesztéssel,
+a)[^22] munkahelyi gyakorlati oktató kiterjesztés esetén legalább 2 éves munkahelyi gyakorlati oktató kiterjesztéssel,
 
 b) szaktudás értékelő kiterjesztés esetén szaktudás értékelő kiterjesztéssel,
 
-c)[^21] munkahelyi vizsgáztató kiterjesztés esetén munkahelyi vizsgáztató kiterjesztéssel.
+c)[^23] munkahelyi vizsgáztató kiterjesztés esetén munkahelyi vizsgáztató kiterjesztéssel.
 
 (4) A (3) bekezdésben meghatározott esetre vonatkozó képzési követelményeket az 1. melléklet tartalmazza.
 
-[^20]: A 16. § (3) bekezdés a) pontja a 62/2012. (XI. 26.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
-[^21]: A 16. § (3) bekezdés c) pontja a 62/2012. (XI. 26.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
+[^22]: A 16. § (3) bekezdés a) pontja a 62/2012. (XI. 26.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
+[^23]: A 16. § (3) bekezdés c) pontja a 62/2012. (XI. 26.) NFM rendelet 10. § c) pontja szerint módosított szöveg.

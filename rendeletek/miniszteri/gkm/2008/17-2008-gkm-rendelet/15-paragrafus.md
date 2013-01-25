@@ -1,18 +1,12 @@
-## 14. §[^18]
+## 14. §[^19]
 
-15. § (1)[^19]
+15. § (1)[^20]
 
-(2) Munkahelyi gyakorlati oktató kiterjesztést – a 16. § (3) bekezdésében meghatározott eltéréssel – az a kérelmező kaphat, aki
+(2)[^21] Munkahelyi gyakorlati oktatói kiterjesztést – a 16. § (3) bekezdésében meghatározott eltéréssel – az a kérelmező kaphat, aki teljesíti a 805/2011/EU bizottsági rendelet 14. cikk (2) bekezdésében meghatározott feltételeket és a kérelmezett kiterjesztésnek megfelelő
 
-a) rendelkezik légiforgalmi irányító szakszolgálati engedéllyel, és a kiterjesztési kérelemnek megfelelő
+a) legalább 3 éves jogosítással rendelkezik és
 
-aa) legalább 3 éves jogosítással,
-
-ab) amennyiben a jogosításhoz kapcsolódhat, jogosítás-kiterjesztéssel, továbbá munkahelyi kiterjesztéssel, valamint
-
-ac) munkahelyen, a kérelmet közvetlenül megelőző legalább hat hónapban, vagy repülőtéri irányítás látással jogosítás, repülőtéri irányítás műszeres jogosítás és toronyirányítás kiterjesztés esetén a kérelmet közvetlenül megelőző legalább három hónapban légiforgalmi irányító szolgálati tevékenységet látott el, és
-
-b) az EUROCONTROL (Európai Szervezet a Légiközlekedés Biztonságáért) által szervezett vagy a légiközlekedési hatóság által jóváhagyott légiforgalmi irányító munkahelyi gyakorlati oktatói tanfolyamot sikeresen elvégezte.
+b) munkahelyen, a kérelmet közvetlenül megelőző legalább egy évben legalább a munkahelyi szaktudás-értékelő rendszerben meghatározott óraszámban légiforgalmi irányító szolgálati tevékenységet látott el.
 
 (3) Szaktudás értékelő kiterjesztést – a 16. § (3) bekezdésében meghatározott eltéréssel – az a kérelmező kaphat, aki
 
@@ -38,5 +32,6 @@ ac) munkahelyen, a kérelmet közvetlenül megelőző legalább hat hónapban, v
 
 b) az EUROCONTROL által szervezett vagy a légiközlekedési hatóság által jóváhagyott légiforgalmi irányító munkahelyi vizsgáztatói tanfolyamot sikeresen elvégezte.
 
-[^18]: A 14. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
-[^19]: A 15. § (1) bekezdését a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^19]: A 14. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^20]: A 15. § (1) bekezdését a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^21]: A 15. § (2) bekezdése a 62/2012. (XI. 26.) NFM rendelet 3. §-ával megállapított szöveg.

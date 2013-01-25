@@ -208,6 +208,6 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum |
 
-3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^71]
+3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^78]
 
-[^71]: A 3. melléklet a 62/2012. (XI. 26.) NFM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^78]: A 3. melléklet a 62/2012. (XI. 26.) NFM rendelet 11. § (3) bekezdésével megállapított szöveg.

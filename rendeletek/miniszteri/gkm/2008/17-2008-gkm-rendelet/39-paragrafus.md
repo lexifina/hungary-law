@@ -20,6 +20,6 @@ d) a szaktudás értékelésen második alkalommal is nem megfelelt értékelés
 
 a) az engedélyes a kérelemben valótlan adatokat jelölt meg,
 
-b)[^29]
+b)[^32]
 
-[^29]: A 39. § (4) bekezdés b) pontját a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^32]: A 39. § (4) bekezdés b) pontját a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
