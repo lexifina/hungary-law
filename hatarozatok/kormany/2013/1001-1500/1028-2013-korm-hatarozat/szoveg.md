@@ -1,1 +1,0 @@
-A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat átcsoportosításáról szóló 1670/2012. (XII. 21.) Korm. határozatban a „2013. február 15.” szövegrész helyébe a „2013. február 28.” szöveg lép.
