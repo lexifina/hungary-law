@@ -1,4 +1,4 @@
-103. §[^99] (1) A társulás által ellátott feladatokhoz kapcsolódó, a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatást az intézmény székhelye szerinti vagy a társulási megállapodásban meghatározott helyi önkormányzat, helyi nemzetiségi önkormányzat igényelheti. A támogatással való elszámolás az igénylésre jogosult feladata.
+103. §[^100] (1) A társulás által ellátott feladatokhoz kapcsolódó, a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatást az intézmény székhelye szerinti vagy a társulási megállapodásban meghatározott helyi önkormányzat, helyi nemzetiségi önkormányzat igényelheti. A támogatással való elszámolás az igénylésre jogosult feladata.
 
 (2) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatások igénylése, évközi módosítása papír alapon és elektronikus úton történik a következők szerint:
 
@@ -8,4 +8,4 @@ b) az a) pontban nem nevesített költségvetési támogatások és az egyes jö
 
 kell használni.
 
-[^99]: Az Ávr. 103. § a 413/2012. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^100]: Az Ávr. 103. § a 413/2012. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.

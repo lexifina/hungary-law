@@ -1,6 +1,6 @@
-## [Az Áht. 79. § (4b) bekezdéséhez][^126]
+## [Az Áht. 79. § (4b) bekezdéséhez][^127]
 
-123/A. §[^127] (1) A letéti számlán lévő pénzeszközökkel pénzügyi műveletek a letevő rendelkezése szerint végezhetők.
+123/A. §[^128] (1) A letéti számlán lévő pénzeszközökkel pénzügyi műveletek a letevő rendelkezése szerint végezhetők.
 
 (2) A letéti számlán lebonyolított letéti pénzforgalomról olyan nyilvántartást kell vezetni, amely legalább tartalmazza
 
@@ -26,5 +26,5 @@ engedélyezi.
 
 (6) A (3) bekezdés a) pontja szerinti letéti számla kizárólag a Kincstárban vezethető.
 
-[^126]: Az Ávr. 123/A. § előtti alcím címet a 413/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
-[^127]: Az Ávr. 123/A. §-át a 413/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^127]: Az Ávr. 123/A. § előtti alcím címet a 413/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^128]: Az Ávr. 123/A. §-át a 413/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be.

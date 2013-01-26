@@ -2,7 +2,7 @@
 
 145. § (1) Jogszabály eltérő rendelkezése hiányában a helyi önkormányzat a (3)–(5) bekezdés szerinti fizetési számlákat, alszámlákat az Áht. 84. § (1) bekezdése alapján választott számlavezetőnél vezethet.
 
-(2)[^153] A hitellel rendelkező, kötvényt kibocsátó helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatással, valamint a költségvetési támogatásokkal kapcsolatos pénzforgalmát a fizetési számlájához kapcsolódó alszámlán köteles elkülöníteni. A helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – az alszámláról a hitelen, kötvényen alapuló fizetési kötelezettségeit nem teljesítheti.
+(2)[^154] A hitellel rendelkező, kötvényt kibocsátó helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatással, valamint a költségvetési támogatásokkal kapcsolatos pénzforgalmát a fizetési számlájához kapcsolódó alszámlán köteles elkülöníteni. A helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – az alszámláról a hitelen, kötvényen alapuló fizetési kötelezettségeit nem teljesítheti.
 
 (3) A helyi önkormányzat a (2) bekezdésben foglaltakon túl a fizetési számlájához kapcsolódóan a következő alszámlákkal rendelkezhet:
 
@@ -12,7 +12,7 @@ b) háziorvosi szolgálat ellátásának kimutatására szolgáló alszámla,
 
 c) fogorvosi szolgálat ellátásának kimutatására szolgáló alszámla,
 
-d)[^154] a központi költségvetésből folyósított támogatások jogszabályban meghatározott esetben történő elkülönítésére szolgáló alszámla,
+d)[^155] a központi költségvetésből folyósított támogatások jogszabályban meghatározott esetben történő elkülönítésére szolgáló alszámla,
 
 e) fedezetbiztosításra történő elkülönítésre szolgáló alszámla,
 
@@ -64,5 +64,5 @@ e) az adózó kérelmére a (3) bekezdés g) és h) pontja szerint nyitott alsz�
 
 (9) A (4) bekezdés d) pontja szerinti fizetési számláról a helyi önkormányzatot megillető bevétel hó végén rendelkezésre álló összegét a tárgyhónapot követő hónap 10-éig kell a helyi önkormányzat fizetési számlájára átutalni. A nem a helyi önkormányzatot megillető bevételt szükség szerint, de legkésőbb a hó végén rendelkezésre álló összeget a tárgyhót követő hónap 10-éig kell a behajtást kérő szerv fizetési számlájára átutalni.
 
-[^153]: Az Ávr. 145. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított és a 413/2012. (XII. 29.) Korm. rendelet 39. § 35. pontja szerint módosított szöveg.
-[^154]: Az Ávr. 145. § (3) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 23. pontja szerint módosított szöveg.
+[^154]: Az Ávr. 145. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított és a 413/2012. (XII. 29.) Korm. rendelet 39. § 35. pontja szerint módosított szöveg.
+[^155]: Az Ávr. 145. § (3) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 23. pontja szerint módosított szöveg.

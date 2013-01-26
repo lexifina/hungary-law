@@ -6,7 +6,7 @@ b) kidolgozza az azonos célú előirányzatok összehangolt felhasználásának
 
 (2) Az azonos célú előirányzat kezelő szerve a központi költségvetésről szóló törvény elfogadását követően és a támogatási konstrukció megjelentetését megelőzően köteles megküldeni a Kincstár részére
 
-a)[^88] az azonos célú előirányzatok célrendszerének, rendeltetésének meghatározására, költségvetési támogatásként való felhasználásának összegére, mértékére, a kedvezményezetteknek biztosítható költségvetési támogatás arányára vonatkozó javaslatot,
+a)[^89] az azonos célú előirányzatok célrendszerének, rendeltetésének meghatározására, költségvetési támogatásként való felhasználásának összegére, mértékére, a kedvezményezetteknek biztosítható költségvetési támogatás arányára vonatkozó javaslatot,
 
 b) a támogatási konstrukciók tervezetének teljes körű dokumentációját, és
 
@@ -30,4 +30,4 @@ c) a 37/2011. Korm. rendelet által előírt esetekben a nemzeti fejlesztési mi
 
 (11) Ha a Kincstár észleli, vagy a költségvetési támogatás folyósításának folyamatában valamely közreműködő tudomására jut, hogy a folyósított költségvetési támogatások halmozódásának tényleges szintje meghaladja az érintett támogatói okiratokban, támogatási szerződésekben meghatározott mértéket, haladéktalanul értesíti a költségvetési támogatást biztosító azonos célú előirányzatok kezelő szerveit. A költségvetési támogatások halmozódásáról a Kincstár a monitoring rendszer adatai alapján a döntés-előkészítés keretében adatot szolgáltat.
 
-[^88]: Az Ávr. 92. § (2) bekezdés a) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 26. pontja szerint módosított szöveg.
+[^89]: Az Ávr. 92. § (2) bekezdés a) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 26. pontja szerint módosított szöveg.

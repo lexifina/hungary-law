@@ -6,7 +6,7 @@ b) a költségvetési támogatás összegét, a támogatási intenzitást, az el
 
 c) a költségvetési támogatás időtartamát, felhasználásának határidejét,
 
-d)[^73] a költségvetési támogatás rendelkezésre bocsátásának módját, feltételeit, ütemezését, a 78. § (4) és (5) bekezdése és (5a) bekezdése szerinti esetben az egyes finanszírozási időszakokat, (9) és (9a) bekezdése szerinti esetben az egyes előlegek kifizetésének tervezett időpontjait a kedvezményezett által benyújtott és a támogató által elfogadott költségterv alapján,
+d)[^74] a költségvetési támogatás rendelkezésre bocsátásának módját, feltételeit, ütemezését, a 78. § (4) és (5) bekezdése és (5a) bekezdése szerinti esetben az egyes finanszírozási időszakokat, (9) és (9a) bekezdése szerinti esetben az egyes előlegek kifizetésének tervezett időpontjait a kedvezményezett által benyújtott és a támogató által elfogadott költségterv alapján,
 
 e) visszatérítendő költségvetési támogatás esetén a visszafizetés módját – egy összegben vagy részletekben –, és határidejét,
 
@@ -26,4 +26,4 @@ k) a 82. § szerinti elállási, felmondási, visszavonási okokat.
 
 (3) A támogatói okiratban, támogatási szerződésben – az európai uniós forrásból finanszírozott eszközbeszerzések kivételével – szerepeltetni kell, hogy a kedvezményezett a támogatott tevékenység megvalósítása során a költségvetésből nyújtott támogatás és – ha előírásra került – a saját forrás terhére a százezer forint értékhatárt meghaladó értékű, áru beszerzésére vagy szolgáltatás megrendelésére irányuló szerződést kizárólag írásban köthet. E bekezdés alkalmazásában írásban kötött szerződésnek minősül az elküldött és visszaigazolt megrendelés is. Az írásbeli alak megsértése a szerződés érvényességét nem érinti, azonban az annak teljesítése érdekében történt kifizetése a támogatott tevékenység költségei között nem vehetők figyelembe.
 
-[^73]: Az Ávr. 73. § (1) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^74]: Az Ávr. 73. § (1) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

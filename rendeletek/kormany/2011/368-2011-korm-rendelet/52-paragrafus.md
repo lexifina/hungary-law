@@ -20,10 +20,13 @@ c)[^50] a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térsé
 
 (6) A helyi önkormányzat kiadási előirányzatai terhére a polgármester vagy az általa írásban felhatalmazott személy vállalhat kötelezettséget.
 
+(6a)[^51] Ha a helyi önkormányzatnál nincs a (6) bekezdés alapján kötelezettségvállalásra jogosult személy, a képviselő-testület a polgármester és az általa kijelölt személy átmeneti vagy tartós akadályoztatása idejére egyedi határozatában az önkormányzati hivatal alkalmazásában álló személyt jelölhet ki a helyi önkormányzat kiadási előirányzatai terhére vonatkozó kötelezettségvállalás gyakorlására.
+
 (7) A nemzetiségi önkormányzat kiadási előirányzatai terhére a nemzetiségi önkormányzat elnöke vagy az általa írásban felhatalmazott nemzetiségi önkormányzati képviselő jogosult kötelezettségvállalásra.
 
-(8)[^51] A társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban felhatalmazott tagja vállalhat kötelezettséget.
+(8)[^52] A társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban felhatalmazott tagja vállalhat kötelezettséget.
 
 [^49]: Az Ávr. 52. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 13. pontja szerint módosított szöveg.
 [^50]: Az Ávr. 52. § (1) bekezdés c) pontja a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^51]: Az Ávr. 52. § (8) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^51]: Az Ávr. 52. § (6a) bekezdését a 14/2013. (I. 25.) Korm. rendelet 1. §-a iktatta be.
+[^52]: Az Ávr. 52. § (8) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 8. pontja szerint módosított szöveg.

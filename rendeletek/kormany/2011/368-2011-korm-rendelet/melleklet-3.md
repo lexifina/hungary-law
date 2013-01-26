@@ -46,6 +46,6 @@
 
 ## x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni.
 
-3. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^189]
+3. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^190]
 
-[^189]: Az Ávr. 3. melléklet a 413/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^190]: Az Ávr. 3. melléklet a 413/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.

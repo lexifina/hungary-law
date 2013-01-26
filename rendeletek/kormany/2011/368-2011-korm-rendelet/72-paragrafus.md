@@ -24,7 +24,7 @@ a) saját forrás – jogszabály, pályázati kiírás vagy a támogató által
 
 aa) igazolást a saját forrás rendelkezésre állásáról, az igazolás az ab) és ac) alpontban foglalt igény kivételével történhet a számlavezető igazolásával, hitelszerződéssel, tagi kölcsönszerződéssel, magánkölcsönre vonatkozó szerződéssel, pénztári kiadási bizonylattal, engedményezési okirattal, tőkeemelésre vonatkozó igazolással, zárt végű pénzügy lízingre vonatkozó szerződéssel, értékpapír banki igazolás másolatával, illetve jogszabály vagy a pályázati kiírás által előírt egyéb okirattal,
 
-ab)[^69] helyi önkormányzat, társulás esetén a képviselő-testületi, társulási tanácsi határozatot, vagy a képviselő-testület költségvetési rendeletbe, határozatba foglalt – a tartalék feletti rendelkezési jogot átruházó – felhatalmazása alapján a polgármester, társulási tanács elnöke nyilatkozatát a saját forrás biztosításáról,
+ab)[^70] helyi önkormányzat, társulás esetén a képviselő-testületi, társulási tanácsi határozatot, vagy a képviselő-testület költségvetési rendeletbe, határozatba foglalt – a tartalék feletti rendelkezési jogot átruházó – felhatalmazása alapján a polgármester, társulási tanács elnöke nyilatkozatát a saját forrás biztosításáról,
 
 ac) költségvetési szerv esetén az irányító szerv vezetőjének nyilatkozatát a saját forrás biztosításáról, vagy
 
@@ -32,11 +32,11 @@ ad) a részben vagy egészben európai uniós forrásból finanszírozott támog
 
 b) pályázati úton biztosított költségvetési támogatás esetén a pályázati díj – ha az meghatározásra került – megfizetéséről szóló igazoló szelvény vagy számlakivonat másolatát,
 
-c)[^70] jogszabály vagy a támogató által a támogatási igények előterjesztésére meghatározott – pályázati vagy egyéb – adatlapot kitöltve, illetve az abban előírt adatokat,
+c)[^71] jogszabály vagy a támogató által a támogatási igények előterjesztésére meghatározott – pályázati vagy egyéb – adatlapot kitöltve, illetve az abban előírt adatokat,
 
-d)[^71] a 78. § (4) és (5) bekezdése és (5a) bekezdése szerinti esetben az egyes finanszírozási időszakokat, (9) és (9a) bekezdése szerinti esetben az egyes előlegek kifizetésének tervezett időpontjait tartalmazó költségtervet,
+d)[^72] a 78. § (4) és (5) bekezdése és (5a) bekezdése szerinti esetben az egyes finanszírozási időszakokat, (9) és (9a) bekezdése szerinti esetben az egyes előlegek kifizetésének tervezett időpontjait tartalmazó költségtervet,
 
-e)[^72] jogszabály, a pályázati kiírás vagy a támogató által előírt egyéb dokumentumokat.
+e)[^73] jogszabály, a pályázati kiírás vagy a támogató által előírt egyéb dokumentumokat.
 
 (4) A (2) és (3) bekezdés alapján benyújtott dokumentumok kiállításának dátuma – a (3) bekezdés d) pontjában foglaltak kivételével – nem lehet a támogatási igény benyújtásának napjától számított harminc napnál régebbi.
 
@@ -48,7 +48,7 @@ e)[^72] jogszabály, a pályázati kiírás vagy a támogató által előírt eg
 
 (8) A (3) bekezdés d) pontja szerinti esetben a pályázati kiírás vagy a támogató nem írhatja elő tulajdoni lap másolatának a támogatási igényhez történő csatolását. Szükség esetén a támogatási igény elbírálásához elektronikus tulajdoni lap másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a támogatási igény benyújtójának kell viselnie.
 
-[^69]: Az Ávr. 72. § (3) bekezdés a) pont ab) alpontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a, a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 9. pontja szerint módosított szöveg.
-[^70]: Az Ávr. 72. § (3) bekezdés c) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 21. pontja szerint módosított szöveg.
-[^71]: Az Ávr. 72. § (3) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^72]: Az Ávr. 72. § (3) bekezdés e) pontját a 413/2012. (XII. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^70]: Az Ávr. 72. § (3) bekezdés a) pont ab) alpontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a, a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 9. pontja szerint módosított szöveg.
+[^71]: Az Ávr. 72. § (3) bekezdés c) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 21. pontja szerint módosított szöveg.
+[^72]: Az Ávr. 72. § (3) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^73]: Az Ávr. 72. § (3) bekezdés e) pontját a 413/2012. (XII. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
