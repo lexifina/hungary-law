@@ -2,6 +2,6 @@
 
 ## Hatályon kívül helyező rendelkezések
 
-6. §[^11]
+6. §[^16]
 
-[^11]: A 6. § ugyanezen § alapján hatályát vesztette.
+[^16]: A 6. § ugyanezen § alapján hatályát vesztette.
