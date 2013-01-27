@@ -1,0 +1,1 @@
+A számvitelről szóló 2000. évi C. törvény 178. § (5) bekezdésében kapott felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § e) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
