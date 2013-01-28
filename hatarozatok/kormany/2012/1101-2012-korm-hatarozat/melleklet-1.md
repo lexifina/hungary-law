@@ -42,11 +42,11 @@
 
 ## Határidő: 2012. április 10.
 
-## 8. felhívja a nemzetgazdasági minisztert, hogy az Államadósság Kezelő Központ Zrt. útján vizsgálja meg, hogy milyen, a Magyar Államkincstárnál elérhető folyamatos, állampapírba történő befektetési lehetőség teremthető meg, és erről számoljon be a Kormány részére;
+## 8.[^2] felhívja a nemzetgazdasági minisztert, hogy készítsen elő olyan törvényjavaslatot, amely lehetővé teszi a Magyar Államkincstár számára a betétgyűjtést;
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: 2012. április 10.
+## Határidő: azonnal
 
 ## 9. felhívja a nemzetgazdasági minisztert, hogy a Magyar Államkincstár útján haladéktalanul intézkedjen új budapesti Állampénztári Iroda kirendeltségek kialakításáról, első ütemben Budapest XI., Bartók Béla út 120–122., második ütemben Budapest II., Csalogány u. 9–11., harmadik ütemben Budapest V., Hold u. 4.;
 
@@ -261,3 +261,4 @@ Költségvetési év: 2012.
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 [^1]: A 1646/2012. (XII. 19.) Korm. határozat 3. pontja alapján a Kormány az átcsoportosított előirányzattal kapcsolatos elszámolásra és a fel nem használt részre vonatkozó visszafizetési kötelezettség teljesítésére 2013. június 30-i határnapot állapít meg.
+[^2]: A 8. pont az 1029/2013. (I. 28.) Korm. határozattal megállapított szöveg.
