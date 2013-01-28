@@ -1,0 +1,5 @@
+Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 14. § (6) bekezdés a) és b) pontjában és (7) bekezdésében, továbbá az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 39. § (2) bekezdés a) és b) pontjában,
+
+a 8. § tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. § (4) bekezdésében
+
+kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § f) pontjában meghatározott feladatkörömben eljárva – az 1. § és az 1. melléklet tekintetében az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőt rendelem el:
