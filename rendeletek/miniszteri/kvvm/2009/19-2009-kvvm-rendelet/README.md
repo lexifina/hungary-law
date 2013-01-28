@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-0
 | --- | --- | --- |
 | 2010-01-01 | 2009-19-20-0N.1 | 19/2009. (XII. 22.) KvVM rendelet |
 | 2011-01-15 | 2009-19-20-0N.2 | 5/2011. (I. 14.) VM rendelet |
+| 2013-01-28 | 2009-19-20-0N.3 | 80/2012. (XII. 28.) NFM rendelet |

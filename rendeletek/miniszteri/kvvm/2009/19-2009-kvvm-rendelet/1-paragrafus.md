@@ -14,10 +14,11 @@ f) a környezeti hatásvizsgálati és az egységes környezethasználati enged�
 
 g) a környezetvédelmi, természetvédelmi és vízügyi felügyelőség eljárásában a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló 27/2006. (II. 7.) Korm. rendelet 11. § (2) bekezdésének a) pontja;
 
-h) az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény végrehajtásának egyes szabályairól szóló 213/2006. (X. 27.) Korm. rendelet 19. § (1)–(2) bekezdése és (5)–(6) bekezdése;
+h)[^2] az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 20. § (1)–(2) bekezdése és (5)–(6) bekezdése;
 
 i) a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 14. § (2) bekezdés a) pontja, 17. § (1) bekezdése, 18. §-a és 26. § (1) bekezdésének a)–e) pontja;
 
 j) a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet 23. § (2) bekezdése.
 
 [^1]: Az 1. § c) pontja az 5/2011. (I. 14.) VM rendelet 7. §-ával megállapított szöveg.
+[^2]: Az 1. § h) pontja a 80/2012. (XII. 28.) NFM rendelet 8. §-ával megállapított szöveg.
