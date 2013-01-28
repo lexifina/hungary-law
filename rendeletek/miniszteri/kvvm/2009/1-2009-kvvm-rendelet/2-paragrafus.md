@@ -18,7 +18,7 @@ f) hitelesítési kockázat: annak kockázata, hogy a hitelesítő nem megfelel�
 
 g) hitelesítő szakértő: az együttes végrehajtási projekt Vhr. 11. § (1) bekezdése szerinti Tervdokumentumának (a továbbiakban: Tervdokumentum) vagy a Vhr. 13. § (1) bekezdése szerinti éves jelentésének (a továbbiakban: éves jelentés) a hitelesítésével kapcsolatban a hitelesítő részéről eljáró, a hitelesítővel munkaviszonyban vagy hitelesítési tevékenység végzésére irányuló egyéb jogviszonyban álló személy;
 
-h) lényeges tévedés: a Tervdokumentumban vagy az éves jelentésben szereplő adatokra hatással lévő olyan egyedi vagy halmozott hibák, hiányosságok és félreértelmezések, amelyek a hitelesítő szakmai ítélete szerint befolyásolhatják az Országos Környezetvédelmi, Vízügyi és Természetvédelmi Főfelügyelőségnek (a továbbiakban: Főfelügyelőség) az együttes végrehajtási projekttel kapcsolatos döntéseit, így különösen, ha azok a lényegességi szintet elérő vagy azt meghaladó mértékben torzítják a Tervdokumentumban vagy az éves jelentésben szereplő adatokat;
+h)[^1] lényeges tévedés: a Tervdokumentumban vagy az éves jelentésben szereplő adatokra hatással lévő olyan egyedi vagy halmozott hibák, hiányosságok és félreértelmezések, amelyek a hitelesítő szakmai ítélete szerint befolyásolhatják az Országos Környezetvédelmi, Vízügyi és Természetvédelmi Főfelügyelőségnek (a továbbiakban: Főfelügyelőség) vagy az energiapolitikáért felelős miniszternek az együttes végrehajtási projekttel kapcsolatos döntéseit, így különösen, ha azok a lényegességi szintet elérő vagy azt meghaladó mértékben torzítják a Tervdokumentumban vagy az éves jelentésben szereplő adatokat;
 
 i) lényegességi szint: a Tervdokumentumban meghatározott kibocsátási alapszint 5%-a, illetve a Tervdokumentumban meghatározott kibocsátás-csökkentés mennyiségének (tonna CO2 eq./év) vagy az éves jelentés szerint a tárgyidőszakban elért kibocsátás-csökkenés mennyiségének (tonna CO2 eq./év) 2%-a;
 
@@ -27,3 +27,5 @@ j) más államban feljogosított hitelesítő: az együttes végrehajtásban ré
 k) szállító: a Vhr. 2. § 16. pontja szerinti Szállító (a továbbiakban: Szállító); ha a felek megállapodása szerint a hitelesítéssel kapcsolatban a Vhr. 2. § 4. pontja szerinti Átvevő (a továbbiakban: Átvevő) jár el, vagy az Átvevő is eljár, akkor e rendeletben a Szállító alatt az Átvevőt is érteni kell;
 
 l) tévedés: a Tervdokumentumban vagy az éves jelentésben szereplő adatokra hatással lévő egyedi vagy halmozott hibák, hiányosságok és félreértelmezések.
+
+[^1]: A 2. § h) pontja a 80/2012. (XII. 28.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.

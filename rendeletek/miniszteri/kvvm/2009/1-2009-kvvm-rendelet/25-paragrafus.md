@@ -12,8 +12,10 @@ e) a hitelesítő gazdasági társaságban és a hitelesítési tevékenységév
 
 f) a hitelesítő és a hitelesítési tevékenységével érintett Szállító vagy Átvevő között a hitelesítési tevékenység függetlenségének befolyásolására alkalmas egyéb jogviszony áll fenn.
 
-(2) A hitelesítő, illetve a hitelesítő szakértő és a nemzetközi kibocsátás-kereskedelemmel vagy kibocsátásiegység-kereskedelemmel kapcsolatos szolgáltatást végző gazdálkodó szervezet között összeférhetetlen üzleti kapcsolatnak minősül, ha
+(2)[^4] A hitelesítő, illetve a hitelesítő szakértő és az Éhvt. vagy az Ügkr.tv. hatálya alá eső kibocsátás-kereskedelemmel kapcsolatos szolgáltatást végző gazdálkodó szervezet között összeférhetetlen üzleti kapcsolatnak minősül, ha
 
-a) a hitelesítő vagy a hitelesítő szakértő részesedéssel rendelkezik bármely más hitelesítő gazdasági társaságban vagy egyéb gazdálkodó szervezetben, illetve nemzetközi kibocsátás-kereskedelemmel vagy kibocsátásiegység-kereskedelemmel kapcsolatos szolgáltató tevékenységet végző más gazdálkodó szervezetben;
+a) a hitelesítő vagy a hitelesítő szakértő részesedéssel rendelkezik bármely más hitelesítő gazdasági társaságban vagy egyéb gazdálkodó szervezetben, illetve az Éhvt. vagy az Ügkr.tv. hatálya alá eső kibocsátás-kereskedelemmel kapcsolatos szolgáltató tevékenységet végző más gazdálkodó szervezetben;
 
-b) a hitelesítő vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy hitelesítő szakértője más hitelesítő, illetve nemzetközi kibocsátás-kereskedelemmel vagy kibocsátásiegység-kereskedelemmel kapcsolatos szolgáltató tevékenységet végző gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója.
+b) a hitelesítő vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy hitelesítő szakértője más hitelesítő, illetve az Éhvt. vagy az Ügkr.tv. hatálya alá eső kibocsátás-kereskedelemmel kapcsolatos szolgáltató tevékenységet végző gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója.
+
+[^4]: A 25. § (2) bekezdése a 80/2012. (XII. 28.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
