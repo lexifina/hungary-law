@@ -1,8 +1,4 @@
-## „(2) A hitelesítő, illetve a hitelesítő szakértő és az Éhvt. vagy az Ügkr.tv. hatálya alá eső kibocsátás-kereskedelemmel kapcsolatos szolgáltatást végző gazdálkodó szervezet között összeférhetetlen üzleti kapcsolatnak minősül, ha
-
-## a) a hitelesítő vagy a hitelesítő szakértő részesedéssel rendelkezik bármely más hitelesítő gazdasági társaságban vagy egyéb gazdálkodó szervezetben, illetve az Éhvt. vagy az Ügkr.tv. hatálya alá eső kibocsátás-kereskedelemmel kapcsolatos szolgáltató tevékenységet végző más gazdálkodó szervezetben;
-
-## b) a hitelesítő vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy hitelesítő szakértője más hitelesítő, illetve az Éhvt. vagy az Ügkr.tv. hatálya alá eső kibocsátás-kereskedelemmel kapcsolatos szolgáltató tevékenységet végző gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója.”
+## 8–9. §[^3]
 
 1. melléklet a 80/2012. (XII. 28.) NFM rendelethez
 
@@ -29,3 +25,5 @@ Az üvegházhatású gázok kibocsátásával kapcsolatos egyes tevékenységek 
 | 9. |  | 1.6. | Az 1.3. pontban foglalt engedélyek módosítása esetén | 57 000 |
 
 | 10. | 2. |  | Légi jármű üzembentartó esetében nyomon követési terv jóváhagyása (tervenként) | 211 000 |
+
+[^3]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
