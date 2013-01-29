@@ -1,4 +1,4 @@
-## 4–10. §[^3]
+## 4–10. §[^2]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–3. § és az 1–2. melléklet az e rendelet kihirdetését követő 31. napon lép hatályba.
 
-[^3]: A 4–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
