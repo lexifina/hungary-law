@@ -29,4 +29,4 @@ c) a „közös tulajdon” bejegyzés, ha a jármű tulajdonjoga több személy
 d) az „előzetes eredetiségvizsgálat hiánya” bejegyzés, ha a jármű forgalomba helyezése, illetve tulajdonjogában bekövetkezett változás nyilvántartásba vételére az előzetes eredetiségvizsgálat elvégzése nélkül kerül sor.
 
 [^30]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^31]: A 84. § (5) bekezdés d) pontja az 5/2013. (I. 16.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^31]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
