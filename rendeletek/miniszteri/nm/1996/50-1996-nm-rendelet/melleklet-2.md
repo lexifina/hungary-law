@@ -44,7 +44,7 @@
 
 | II.10. | Eseti használatba vételi engedély kiállítása | 60 600 Ft |
 
-| II.11. | Orvostechnikai eszköz klinikai vizsgálatának engedélyezése, az engedély módosítása | 374 000 Ft (ebből a szakhatósági eljárás díja: 320 000 Ft) |
+| II.11. | Orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv lényeges módosítása | 500 000 Ft (ebből a szakhatósági eljárás díja: 320 000 Ft) |
 
 | III. | Európai Egészségbiztosítási Kártya, illetve TAJ-számot igazoló okmány kiadással kapcsolatos igazgatási szolgáltatás |  |
 
