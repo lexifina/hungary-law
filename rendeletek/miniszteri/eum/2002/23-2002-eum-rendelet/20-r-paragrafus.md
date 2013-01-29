@@ -18,13 +18,13 @@ aa) a 235/2009. (X. 20.) Korm. rendelet 17. § (1) bekezdés b) pont ba) alpontj
 
 ab) a 235/2009. (X. 20.) Korm. rendelet 17. § (1) bekezdés b) pont bb) alpontja szerinti vizsgálatnál engedélyezés esetén 200 000 forint, módosítás esetén 80 000 forint;
 
-b)[^66] az orvostechnikai eszközök beavatkozással nem járó vizsgálata esetében 294 000 Ft;
+b)[^66] a 235/2009. (X. 20.) Korm. rendelet szerinti orvostechnikai eszközök beavatkozással nem járó vizsgálatának engedélyezése és a vizsgálati terv lényeges módosítása engedélyezése esetében 370 000 Ft;
 
 c)[^67] az a)–b) pontba nem tartozó esetekben 294 000 Ft.
 
 (4) A díjat a kérelmező a kérelem benyújtásakor köteles a 3. számú mellékletben feltüntetett számlára postai befizetéssel vagy átutalással, vagy a bankszámla-tulajdonos intézet házipénztárába befizetni.
 
-(5)[^68] A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pontjában foglalt díj 46%-a a GYEMSZI, 54%-a az ETT TUKEB bevétele. A módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg.
+(5)[^68] A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pontjában foglalt díj 46%-a a GYEMSZI, 54%-a az ETT TUKEB bevétele. A (3) bekezdés b) pontjában foglalt engedélyezésért és a vizsgálati terv lényeges módosítása engedélyezéséért befizetett díj 80%-a az ETT TUKEB, 20%-a az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) bevétele. A (3) bekezdés a) pontjában említett módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg. A (3) bekezdés b) pontjában említett egyéb módosítás díja az EEKH-t illeti.
 
 (6) A jogorvoslati eljárásban fizetett díjat a kérelmező részére vissza kell téríteni, ha a felülvizsgált határozat vagy intézkedés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
 
@@ -61,9 +61,9 @@ d) 86. §-ában foglaltakat az elévülés
 [^63]: A 20/R. § (1) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 25. § d) pontja szerint módosított szöveg.
 [^64]: A 20/R. § (2) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^65]: A 20/R. § (3) bekezdés a) pontja a 15/2012. (VIII. 22.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^66]: A 20/R. § (3) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított, az 52/2012. (XII. 27.) EMMI rendelet 4. § f) pontja szerint módosított szöveg.
+[^66]: A 20/R. § (3) bekezdés b) pontja az 57/2012. (XII. 29.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^67]: A 20/R. § (3) bekezdés c) pontja a 34/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^68]: A 20/R. § (5) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^68]: A 20/R. § (5) bekezdése az 57/2012. (XII. 29.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^69]: A 20/R. § (8) bekezdés záró szövegrésze a 15/2012. (VIII. 22.) EMMI rendelet 25. § e) pontja szerint módosított szöveg.
 [^70]: A 20/R. § (8) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^71]: A 20/R. § (10) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 25. § f) pontja szerint módosított szöveg.

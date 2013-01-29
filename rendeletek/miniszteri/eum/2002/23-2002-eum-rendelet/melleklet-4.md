@@ -2,7 +2,7 @@
 
 | Illetékessége | A szerv megnevezése | Számlaszám |
 
-| 1. Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Egészségügyi Tudományos Tanács, az Egészségügyi Tudományos Tanács Bizottságai és Elnöksége | Egészségügyi Stratégiai Kutatóintézet 10032000-01491728 |
+| 1. A 12. és 13. sor figyelembe vétele mellett az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Egészségügyi Tudományos Tanács, az Egészségügyi Tudományos Tanács Bizottságai és Elnöksége | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet 10032000-01490576- 00000000 |
 
 | 2. Semmelweis Egyetem és intézményei, Pest megyei és az egészségügyért felelős miniszter által vezetett minisztériumnak a főváros területén lévő közvetlen felügyelete alatt álló egészségügyi intézmények | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-00282819 |
 
@@ -25,6 +25,8 @@
 | 11. Győr-Moson-Sopron, Komárom-Esztergom és Fejér megyében lévő egészségügyi intézmények | Győr-Moson-Sopron Megyei Önkormányzat Petz Aladár Kórháza, Győr, Regionális Tudományos és Kutatásetikai Bizottsága | 10200249-33018597 |
 
 | 12. Gyógyszerrel végzett beavatkozással nem járó vizsgálatok az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (GYEMSZI) | 10032000-01490576- 00000000 |
+
+| 13. Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 10032000- 00285788- 00000000 |
 
 4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^82]
 
