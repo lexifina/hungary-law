@@ -1,0 +1,286 @@
+# A Kormány 18/2013. (I. 30.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 15. szám, 2013. január 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b3d59c72cdcd3bfc083fc879ac64d67101aca765/dokumentumok/7f2de95bc68028c87c367573def263648eead8da/letoltes)
+
+---
+
+A Kormány 18/2013. (I. 30.) Korm. rendelete
+a polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló
+191/2002. (IX. 4.) Korm. rendelet és a bányafelügyelet hatáskörébe tartozó egyes sajátos
+építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló
+53/2012. (III. 28.) Korm. rendelet módosításáról
+A Kormány a bányászatrólszóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 11. pontjában,valamint a Rendőrségről szóló 1994. évi
+XXXIV. törvény 100. § (1) bekezdés d) pontjában,
+a 11. § tekintetében a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 23. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. § (1) A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 191/2002. (IX. 4.) Korm. rendelet
+(a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendelet hatálya a polgári felhasználású robbanóanyagokra, a polgári robbantási tevékenységekre, a polgári
+felhasználású robbanóanyag forgalmazására, a hatósági engedélyezés feltételeire‚ a robbanóanyag-szektorban
+működő vállalkozásokra és mindezek hatósági felügyeletére terjed ki.”
+(2) Az R. 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(E rendelet hatálya nem terjed ki)
+„b) a polgári célú pirotechnikai tevékenységekről szóló rendelet szerinti pirotechnikai termékekre,”
+
+2. § Az R. a következő 1/A. §-sal egészül ki:
+„1/A. § A polgári robbantási tevékenység hatósági engedélyezésére irányuló eljárásban ügyfélnek minősül
+a hatásterületen lévő ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba
+bejegyezték. Hatásterületnek a bányászatról szóló törvény felhatalmazása alapján kiadott Általános Robbantási
+Biztonsági Szabályzat szerint meghatározott robbantási biztonsági távolságok burkológörbéjével lehatárolt terület
+minősül.”
+3. § Az R. 3. §-a és 4. §-a helyébe a következő rendelkezés lép, és az R. a következő 5. §-sal egészül ki:
+„3. § (1) A robbanóanyag gyártására, megszerzésére, felhasználására, megsemmisítésére, valamint a polgári
+robbanóanyag forgalmazására vonatkozó engedély iránti kérelmet a 3. számú melléklet szerinti tartalommal kell
+benyújtani.
+(2) A robbanóanyag
+a) gyártási,
+b) forgalmazási,
+c) felhasználási vagy
+d) megsemmisítési
+engedély robbanóanyag megszerzésére is feljogosít. A robbanóanyag tárolásának engedélyezéséről
+a bányafelügyelet a robbanóanyag-raktár használatbavételi engedélyezési eljárása során dönt.
+(3) Nincs szükség robbanóanyag megszerzési engedélyre a (6) bekezdés szerinti esetben. A robbanóanyag
+megszerzéséhez elegendő az ár-, illetve belvízvédekezés, továbbá helyi vízkár-elhárítás, III. fokú- vagy „Rendkívüli”
+készültség idején, illetve a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény
+(a továbbiakban:Kattv.) szerintikatasztrófaveszélyvagykatasztrófaesetébenintézkedésrejogosultszervnyilatkozata.
+(4) A robbanóanyag gyártási és a forgalmazási engedély visszavonásig hatályos. A robbanóanyag felhasználási és
+megsemmisítésiengedély hatályaavonatkozóbányászatitevékenységvégzésérejogosítóbányafelügyeletiengedély
+vagy az általános építésügyi hatóság által kiadott építésügyi hatósági engedély hatályával egyezik meg.
+(5) A bányafelügyelet a polgári robbantási tevékenységre vagy polgári felhasználású robbanóanyag forgalmazására
+jogosító engedélyben rendelkezik azokról a feltételekről, amelyek ahhoz szükségesek, hogy a polgári robbantási
+tevékenység és a robbanóanyag-forgalmazásmásokéletét, testi épségét, egészségét, vagyonát, valamint a természeti
+és az épített környezetet ne veszélyeztesse.
+(6) Ha a robbantási munkát
+a) a Kattv. szerinti katasztrófaveszély vagy katasztrófa esetében, vagy
+b) ár-, illetve belvízvédekezés, továbbá helyi vízkár-elhárítási célból, III. fokú- vagy „Rendkívüli” készültség idején
+a Kattv. szerinti, a katasztrófavédelemben részt vevő szerv rendeli el, a robbantási munka robbanóanyag felhasználási
+engedély nélkül is végezhető.
+(7) A (6) bekezdés szerinti esetben a robbantási munkát a helyszínen robbantásvezetőnek kell irányítania. Ha
+a robbantási munkát a (6) bekezdés b) pontja szerinti esetben az Országos Műszaki Irányító Törzs rendeli el,
+a robbantási munkát csak víz alatti és jég robbantási munkák végzésére jogosult robbantásvezető irányíthatja.
+(8) A robbantási munkát a (7) bekezdés szerinti robbantásvezető a robbantási munka kezdete előtt legalább két
+órával
+a) a (6) bekezdés a) pontja szerinti esetben a bányafelügyeletnek,
+b) a (6) bekezdés b) pontja szerinti esetben a bányafelügyeletnek és a hivatásos katasztrófavédelmi szerv területi
+szervének
+köteles bejelenteni. A (7) bekezdés szerinti robbantásvezető a robbanóanyag-felhasználást követően az elvégzett
+robbantási munkát haladéktalanul köteles a bányafelügyeletnek, a rendőrségnek és a környezetvédelmi
+felügyelőségnek jelenteni.
+(9) A (8) bekezdés szerinti jelentésnek tartalmaznia kell
+a) a robbantási munka pontos helyét, célját,
+b) a felhasznált robbanóanyag megnevezését és mennyiségét,
+c) – bányafelügyeletnek küldendő jelentés esetében – a robbantásvezető nevét, értesítési címét, a robbantásvezetői
+engedély vagy igazolvány számát is.
+4. § (1) A robbanóanyag szállítását és belföldi átadását a rendőrség engedélyezi. Az engedélyt – a 3. számú
+mellékletben foglaltak szerint benyújtott kérelem alapján – szállítás esetében az Országos Rendőr-főkapitányság
+(a továbbiakban: ORFK), belföldi átadás esetében a kérelmező tevékenysége (telephelye) szerint illetékes megyei
+
+(fővárosi) rendőr-főkapitányság adja ki. Szállítás esetében az engedély egy példányát az ORFK a BM Országos
+Katasztrófavédelmi Főigazgatóságnak, illetve belföldi átadás esetében a megyei (fővárosi) rendőr-főkapitányság
+a kérelmező tevékenysége szerint illetékes megyei (fővárosi) katasztrófavédelmi igazgatóságnak haladéktalanul
+megküldi.
+(2) A robbanóanyag birtokosa a robbanóanyagot csak polgári robbantási tevékenységre és
+robbanóanyag-forgalmazásra jogosultnak adhatja át.
+(3) Robbanóanyag gyártására, vizsgálatára jogosult szervezetek gyártási, kutatási, ellenőrzési vagy megsemmisítési
+célból történő robbanóanyag felhasználást, megsemmisítést az e tevékenységek végzésére engedélyezett
+létesítmény területén bányafelügyeleti engedély nélkül akkor végezhetnek, ha
+a) a robbantás repesz- vagy káros léglökés hatása nem terjed túl a létesítmény területén, és
+b) a robbantás szeizmikus biztonsági távolságán belül lévő idegen, védendő létesítmények tulajdonosainak,
+kezelőinek hozzájárulását megszerezték.
+(4) Az 1. § (2) bekezdés a) pontjában meghatározott szervek belső szabályozása alapján kialakított, engedélyezett
+és védett raktárában a robbanóanyag-szektorban működő vállalkozás bértárolási szerződés alapján is tárolhat
+robbanóanyagot.
+5. § (1) A robbanóanyag-felhasználás tervezett időpontját – a (2) bekezdésben foglaltakra figyelemmel –
+a bányafelügyeletnek, a felhasználás helye szerint illetékes megyei rendőr-főkapitányságnak és környezetvédelmi
+felügyelőségnek, továbbá épület- vagy építmény robbantása esetén a hivatásos katasztrófavédelmi szerv területi
+szervének a 6. számú melléklet szerinti adattartalommal a robbantás előtt legalább 72 órával korábban be kell
+jelenteni. A bejelentéshez a hivatásos katasztrófavédelmi szerv a honlapján formanyomtatványt tesz közzé.
+(2) Nem kell bejelenteni a mélyműveléses bányában tervezett robbanóanyag-felhasználást az (1) bekezdésben
+meghatározott szerveknek, továbbá a külszíni művelésű bányában tervezett robbanóanyag-felhasználást a megyei
+rendőr-főkapitányságnak.
+(3) Ha a robbantásra a bejelentett időpontban nem kerül sor, de azt követően 72 órán belül tervezik azt elvégezni,
+atervezett újrobbantásidőpontjáthaladéktalanulbekelljelenteniaz(1) bekezdésbenmeghatározotthatóságoknak.
+(4) A robbantásvezető az egyedi robbantási munka elvégzését követő 3 napon belül köteles a robbantási munkára
+vonatkozó jelentését a bányafelügyeletnek megküldeni, melynek tartalmaznia kell:
+a) a robbantási munka helyét, célját,
+b) a felhasznált robbanóanyag megnevezését és mennyiségét,
+c) a robbantásvezető nevét, lakcímét, a robbantásvezetői engedély vagy igazolvány számát.”
+4. § Az R. 9. §-a a következő (1) bekezdéssel egészül ki:
+„(1) A polgári robbantási tevékenységnek és a robbanóanyag forgalmazásának ellenőrzése során lefoglalt
+robbanóanyag őrzéséről a lefoglalás helye szerint illetékes rendőrkapitányság köteles intézkedni.”
+5. § Az R. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A rendőrség a tárolt robbanóanyag megsemmisítéséről haladéktalanul gondoskodik, ha a robbanóanyag
+állapota megköveteli, illetve a jogosult annak elszállításáról, értékesítéséről vagy megsemmisítéséről a rendőrségi
+tárolás, zárolás megkezdését követő egy éven belül nem gondoskodott.”
+6. § Az R. 23/B. § (5) és (6) bekezdése helyébe a következő rendelkezés lép:
+„(5) A szállítási engedély a fogadó állam hatósága által kiállított engedély hatályáig, de legfeljebb a kiállítását követő
+3 hónapig hatályos.
+(6) A szállítás, illetve a részszállítások lebonyolításáról az engedéllyel rendelkező öt napon belül köteles értesíteni az
+engedélyt kiállító hatóságot. A szállítás elmaradása esetén az értesítést az engedély hatályának lejártát követő öt
+napon belül kell megtenni.”
+7. § Az R. a következő 23/D. §-sal egészül ki:
+„23/D. § A 23/A–23/C. §-ban foglaltakat alkalmazni kell azokban az esetekben is, amikor
+a) a robbanóanyagot Magyarország területén állítják elő, és azt más Európai Gazdasági Térségbe nem tartozó állam
+érintése nélkül külföldre juttatják, vagy
+b) Magyarországterületére az Európai GazdaságiTérségen kívülről,továbbszállításicél nélkül,másEurópai Gazdasági
+Térségbe nem tartozó állam érintése nélkül behozzák.”
+
+8. § Az R. 27. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Ez a rendelet a belsőpiaciszolgáltatásokrólszóló,2006. december 12-i 2006/123/EK európai parlamentiés tanácsi
+irányelvnek való megfelelést szolgálja.”
+9. § (1) Az R. az 1. melléklet szerinti 3. számú melléklettel egészül ki.
+(2) Az R. a 2. melléklet szerinti 6. számú melléklettel egészül ki.
+10. § Hatályát veszti
+a) az R. 1. §-át megelőző „A rendelet hatálya” alcím cím, és
+b) az R. 10. §-a és 11. §-a.
+11. § A bányafelügyelet hatáskörébe tartozó egyes sajátos építményekre vonatkozó építésügyi hatósági eljárások
+szabályairól szóló 53/2012. (III. 28.) Korm. rendelet 23. §-a a következő h) ponttal egészül ki:
+[A használatbavételi engedélynek a 10. § b) és c) pontjában előírtakon túl tartalmaznia kell:]
+„h) robbanóanyag-raktár esetében a robbanóanyag-tárolás feltételeit.”
+12. § (1) Ez a rendelet 2013. február 1-jén lép hatályba.
+(2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 18/2013. (I. 30.) Korm. rendelethez
+„3. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez
+ENGEDÉLYKÉRELMEK TARTALMI KÖVETELMÉNYEI
+1. Robbanóanyag gyártási engedélykérelem
+1.1. A kérelemnek tartalmaznia kell:
+a) a robbanóanyag előállítását végző vállalkozás megnevezését, székhelyét, telephelyét, fióktelepét;
+b) a gyártás helyét (település, utca, házszám vagy helyrajzi szám);
+c) a felelős személy természetes személyazonosító adatait és lakcímét;
+d) a készletezésreszolgálórobbanóanyag-raktárhelyét, a tárolásiengedélyes megnevezésétés a tárolási
+engedély számát.
+1.2. A kérelemhez mellékelni kell:
+a) a jogerős és végrehajtható egységes környezethasználati engedély másolatát;
+b) gyártási tevékenységhez szükséges épületek jogerős és végrehajtható használatbavételi engedélye
+másolatát;
+c) veszélyes tevékenység megkezdéséhez előírt hivatásos katasztrófavédelmi szerv jogerős és
+végrehajtható engedélyének másolatát;
+d) szükség szerint a telepengedély másolatát;
+e) bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást;
+f) a robbanóanyag gyártásra szolgáló létesítmények, berendezések és eszközök, valamint a gyártási
+technológia, illetve a gyártás személyi feltételei biztosítottságának igazolását, a munkavédelemről
+szóló törvény szerinti, a munkavédelmi üzembe helyezés feltételéül szolgáló munkavédelmi
+szempontú előzetes vizsgálat eredményét;
+g) a jogerős működési engedély másolatát.
+1.3. A helyszíni keveréssel előállítható, kizárólag saját felhasználási célú robbanóanyag gyártási
+engedélykérelemhez nem kell mellékelni az 1.1. pont d) alpontjában, valamint az 1.2. pont a) és b) alpontjában
+előírtakat.
+
+2. Robbanóanyag forgalmazási engedélykérelem
+2.1. A kérelemnek tartalmaznia kell
+a) a forgalmazó megnevezését, székhelyét, magyarországi telephelyét, fióktelepét;
+b) a felelős személy természetes személyazonosító adatait és lakcímét;
+c) a készletezésreszolgálórobbanóanyag-raktárhelyét, a tárolásiengedélyes megnevezésétés a tárolási
+engedély számát.
+2.2. A kérelemhez mellékelni kell
+a) bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást; és
+b) a jogerős működési engedély másolatát.
+3. Robbanóanyag megszerzési engedélykérelem
+3.1. A kérelemnek tartalmaznia kell:
+a) a kérelmező nevét, székhelyét;
+b) a felelős személy természetes személyazonosító adatait és lakcímét;
+c) a megszerezni tervezett robbanóanyag kereskedelmi megnevezését és mennyiségét;
+d) a megszerzés célját, illetve annak igazolását, bizonyítását, hogy a robbanóanyag megszerzése
+a kérelmező tevékenységének elvégzéséhez szükséges és
+e) a tárolás helyének, illetve módjának meghatározását vagy az azonnali felhasználásra vonatkozó
+nyilatkozatot.
+3.2. A kérelemhez mellékelni kell bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást.
+4. Robbanóanyag felhasználási, valamint megsemmisítési engedélykérelem
+4.1. A kérelemnek tartalmaznia kell:
+a) a kérelmező nevét, székhelyét;
+b) a felelős személy természetes személyazonosító adatait és lakcímét;
+c) a kérelmező nyilatkozatát az engedély alapját képező bányafelügyeleti engedélyről és számáról;
+d) a robbantás célját, időpontját, időtartamát, helyének megjelölését, a felhasználásra tervezett
+robbanóanyag megnevezését és mennyiségét, földalatti bánya esetében a gázkitörés-, a sújtólég- és
+szénporrobbanás-veszélyességi besorolást;
+e) a robbantástervezőjéneknevét, lakcímétés engedélyénekszámát,valaminta robbantásvezetőnevét,
+lakcímét és engedélyének számát, ha a felelős személy nem azonos a robbantásvezetővel;
+f) a robbantás tervezőjének nyilatkozatát arról, hogy a tervezett robbantás Általános Robbantási
+Biztonsági Szabályzat szerinti repeszhatása, a rezgésre érzékeny létesítményeken várható rezgések
+szeizmikus hatása nem veszélyezteti az életet, testi épséget, egészséget, illetve vagyonbiztonságot;
+g) a rezgésre érzékeny létesítmények felsorolását; és
+h) a robbantás során szükséges biztonsági intézkedéseket, a védendő létesítmények és azok megóvását
+szolgáló intézkedések, védőeszközök, védőberendezések leírását.
+4.2. A kérelemhez mellékelni kell:
+a) a robbantás műszaki leírását;
+b) a földalatti bányában, valamint a geofizikai mérések esetében végzett robbantás kivételével, olyan
+méretarányú térképet három, természetvédelmi hatóság érintettsége esetén négy példányban,
+amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, valamint az ezen belül
+lévő valamennyi építmény, védendő létesítmény, valamint ezek védőterülete, védőövezete,
+biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon fel vannak
+tüntetve;
+c) a robbantandó építmény vagy tárgy tulajdonosának, kezelőjének robbantásra vonatkozó
+megrendelését, ha az nem a robbantás végzője;
+d) nyomvonalas, illetve vízi létesítmény, repülőtér vagy műemlék védőtávolságán belüli, valamint
+hajóúton vagy honvédelmi szempontból jelentős, illetve védett természeti területen végzett
+robbantás esetében az érintett kezelő, védett természeti terület esetében az illetékes Nemzeti Park
+Igazgatóság hozzájárulását; és
+e) épület robbantásos bontása esetén az építésügyi hatóság jogerős és végrehajtható bontási
+engedélyének másolatát, amely tartalmazza, hogy az épület bontása robbantásos technológiával is
+elvégezhető.
+
+4.3. A kőolaj-, és földgáz-bányászat, illetve víz kitermelése céljából fúrólyukban tervezett robbantás esetében, ha
+a robbantás biztonsági távolságán belül nem található építmény vagy más védendő létesítmény, nem kell
+a 4.2. pont b) alpontja szerinti térképet mellékelni.
+5. Robbanóanyag szállítási engedélykérelem
+5.1. A kérelemnek tartalmaznia kell:
+a) az 5. számú melléklet szerinti okmány adatait;
+b) a robbanóanyag szállításában közreműködő személyek személyazonosító adatait, állampolgárságát,
+lakóhelyét;
+c) Magyarország területén a szállításért felelős személy személyazonosító adatait és elérhetőségét
+(telefon, e-mail);
+d) a magyarországi szállítási útvonal leírását.
+5.2. A kérelemhez mellékelni kell:
+a) az ADR 1.10 fejezetében meghatározott Közbiztonsági Tervet;
+b) a fogadó állam és a kilépés helye szerinti szomszédos állam hatósága engedélyének másolatát;
+c) az eljárásért fizetendő eljárási illeték befizetésnek bizonylatát.
+6. Robbanóanyag belföldi átadási engedélykérelem
+6.1. A kérelemnek tartalmaznia kell:
+a) a kérelmet benyújtó megnevezését, székhelyét, cégjegyzékszámát;
+b) a robbanóanyag feladójának nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail cím);
+c) a robbanóanyag címzettjének nevét, székhelyét, elérhetőségét (telefonszám, faxszám, e-mail cím);
+d) a robbanóanyag szállításában közreműködő vállalkozás nevét, székhelyét, elérhetőségét
+(telefonszám, faxszám, e-mail-cím);
+e) a robbanóanyag szállításában közreműködő természetes személy személyazonosító adatait,
+elérhetőségét (telefonszám, faxszám, e-mail cím);
+f) Magyarország területén a szállításért felelős természetes személy személyazonosító adatait és
+elérhetőségét (telefonszám, faxszám, e-mail cím);
+g) a szállítandó robbanóanyag kereskedelmi megnevezését, típusszámát, mennyiségét (nettó
+kilogramm, darab vagy méter) és UN számát;
+h) a gyártó megnevezését és székhelyét;
+i) a magyarországi szállítási útvonal leírását.
+6.2. A kérelemhez mellékelni kell:
+a) az ADR 1.10 fejezetében meghatározott Közbiztonsági Tervet;
+b) az eljárásért fizetendő eljárási illeték befizetésének bizonylatát;
+c) a robbanóanyag átadójának arra vonatkozó igazolását, hogy jogosult polgári robbantási tevékenység
+végzésére vagy polgári robbanóanyag forgalmazására.”
+2. melléklet a 18/2013. (I. 30.) Korm. rendelethez
+„6. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez
+Robbantási tevékenység bejelentéséhez szükséges adatok
+1. A bejelentést tevő
+1.1. neve,
+1.2. címe,
+1.3. telephelye,
+1.4. elérhetősége.
+2. A robbantással érintett építmény
+2.1. elnevezése,
+2.2. helye,
+2.3. közművei kiszakaszolásának megoldásai.
+3. A robbantás biztonsági távolságán belül lévő lakóterület kiterjedése.
+
+4. A robbantás során szükséges biztonsági intézkedések, a védendő létesítmények és azok megóvását szolgáló
+intézkedések leírása.
+5. A robbantás biztonsága érdekében lezárt útszakaszok ismertetése.
+6. A robbantás ideje: év/hónap/nap, óra:perc.
+7. A robbantásért felelős személy
+7.1. neve,
+7.2. születési helye és ideje,
+7.3. anyja neve,
+7.4. állandó lakóhelye,
+7.5. telefonszáma.
+8. Nyilatkozat arról, hogy a bejelentő büntetőjogi felelőssége tudatában kijelenti, hogy a bejelentésben lévő adatok
+a valóságnak megfelelnek.”
