@@ -16,17 +16,20 @@ c) gyógyszer-nagykereskedelmi engedéllyel.
 
 (3a)[^20] Az emberi felhasználásra kerülő gyógyszerek EGT tagállamokon kívüli országba irányuló kivitele esetén – a saját felhasználás céljából történő kivitel, illetve az egészségügyért felelős miniszter rendeletében meghatározott esetek kivételével – a kiviteli ellenőrzéskor a vámhatóság meggyőződik arról, hogy az exportőr rendelkezik az egészségügyért felelős miniszter rendeletében meghatározott gyógyszer-nagykereskedelmi vagy gyógyszergyártási engedéllyel.
 
-(4)[^21] A nagykereskedelmi engedély jogosultja (a továbbiakban: nagykereskedő) közvetlenül a lakosság részére csak orvosi oxigént és a folyamatos ambuláns peritoniális dialízishez alkalmazott dializáló oldatokat (ún. CAPD oldatokat) szolgáltathat ki.
+(4)[^21] A nagykereskedelmi engedély jogosultja közvetlenül a lakosság részére csak orvosi oxigént és a folyamatos ambuláns peritoneális dialízishez alkalmazott dializáló oldatokat (ún. CAPD oldatokat) szolgáltathat ki, mely során alkalmaznia kell a gyógyszer kiadására vonatkozó szabályokat. A nagykereskedő egészségügyi szolgáltatónak, gyógyszertárnak és a gyógyszertáron kívüli forgalmazónak csak nagykereskedelmi felszabadításon átesett gyógyszert szállíthat ki.
 
 (5)[^22] Nagykereskedő gyógyszertártól csak az igazoltan általa kiszállított gyógyszert veheti vissza.
 
 (6)[^23] Ha a gyógyszertárat működtető gazdasági társaság ellen felszámolási vagy csődeljárás indul, – a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek betartása mellett – a nagykereskedő a gyógyszer gyártására vagy gyógyszer nagykereskedelmi forgalmazására jogosító engedéllyel rendelkező által kiszállított gyógyszert visszaveheti.
 
+(7)[^24] A nagykereskedő a nagykereskedelmi tevékenységét a helyes forgalmazási gyakorlatnak megfelelően köteles végezni.
+
 [^16]: A 3. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^17]: A 3. § (1a) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
+[^17]: A 3. § bekezdését az 53/2012. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
 [^18]: A 3. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^19]: A 3. § (3) bekezdése a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) és c) pontja szerint módosított szöveg.
 [^20]: A 3. § (3a) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (2) bekezdése iktatta be.
-[^21]: A 3. § (4) bekezdése a 10/2009. (IV. 10.) EüM rendelet 2. §-ával megállapított szöveg.
+[^21]: A 3. § (4) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^22]: A 3. § (5) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (3) bekezdése iktatta be.
 [^23]: A 3. § (6) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (3) bekezdése iktatta be.
+[^24]: A 3. § (7) bekezdését az 52/2012. (XII. 27.) EMMI rendelet 14. § (2) bekezdése iktatta be.

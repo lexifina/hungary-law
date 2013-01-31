@@ -1,6 +1,6 @@
-8. §[^35] (1)[^36] A nagykereskedelmi tevékenységen belül a gyógyszerminősítés (ideértve a beérkezett gyógyszerek felszabadítását is), továbbá a tárolás és a forgalomból való kivonás a felelős személy felügyelete mellett történik.
+8. §[^38] (1)[^39] A nagykereskedelmi tevékenységen belül a gyógyszerminősítés (ideértve a beérkezett gyógyszerek felszabadítását is), továbbá a tárolás és a forgalomból való kivonás a felelős személy felügyelete mellett történik.
 
-(2)[^37] A felelős személy
+(2)[^40] A felelős személy
 
 a) jelen van minden gyógyszerszállítmány érkezésekor;
 
@@ -16,6 +16,6 @@ c) felügyeli a gyógyszeranyagok tájékoztató vizsgálatát;
 
 d) felelős a GyT. 17. §-a szerinti, a nagykereskedőre vonatkozó kötelezettség teljesítéséért.
 
-[^35]: A 8. § a 41/2011. (VII. 5.) NEFMI rendelet 10. §-ával megállapított szöveg.
-[^36]: A 8. § (1) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^37]: A 8. § (2) bekezdés nyitó szövegrésze a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^38]: A 8. § a 41/2011. (VII. 5.) NEFMI rendelet 10. §-ával megállapított szöveg.
+[^39]: A 8. § (1) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^40]: A 8. § (2) bekezdés nyitó szövegrésze a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.

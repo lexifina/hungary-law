@@ -2,7 +2,7 @@
 
 (2) E rendelet alkalmazásában
 
-a)[^4] felszabadítás: a beérkezett gyógyszer nagykereskedelmi felszabadítása, azaz az a tevékenység, amely során a gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott felszabadítási – gyógyszeranyag esetén minőségi – bizonylat alapján a gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedély jogosultjának (a továbbiakban: nagykereskedő) minőségbiztosításért felelős személye (a továbbiakban: felelős személy) értékelte és megállapította, hogy a termék
+a)[^4] felszabadítás: a beérkezett gyógyszer nagykereskedelmi felszabadítása, azaz az a tevékenység, amely során a raktárba beérkezett gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott felszabadítási – gyógyszeranyag esetén minőségi – bizonylat és a szállítási lánc megfelelőségét igazoló dokumentumok alapján a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által kiadott gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedély jogosultjának (a továbbiakban: nagykereskedő) minőségbiztosításért felelős személye (a továbbiakban: felelős személy) értékelte és megállapította, hogy a termék
 
 aa) az előírt minőségnek és az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet értelmében vagy
 
@@ -37,7 +37,7 @@ m)[^14] helyes nagykereskedelmi gyakorlat (GDP): a nagykereskedelmi tevékenysé
 n)[^15] párhuzamos importtevékenység: gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által, adott gyógyszer behozatala céljából kiadott párhuzamos import engedély birtokában végzett tevékenység.
 
 [^3]: A 2. § (1) bekezdése a 10/2009. (IV. 10.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2) bekezdés a) pontja a 10/2012. (VII. 19.) EMM rendelet 12. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdés a) pontja az 52/2012. (XII. 27.) EMMI rendelet 13. §-ával megállapított szöveg.
 [^5]: A 2. § (2) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított, a 10/2012. (VII. 19.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdés f) pontját az 53/2012. (XII. 28.) EMMI rendelet 10. § a) pontja hatályon kívül helyezte.
