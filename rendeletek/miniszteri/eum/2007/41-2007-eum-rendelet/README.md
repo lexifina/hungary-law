@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-41-20-0
 | 2011-08-26 | 2007-41-20-0B.9 | 48/2011. (VII. 27.) NEFMI rendelet |
 | 2011-12-28 | 2007-41-20-0B.10 | 56/2009. (XII. 30.) EüM rendelet |
 | 2012-01-04 | 2007-41-20-0B.11 | 2/2012. (I. 3.) NEFMI rendelet |
+| 2013-01-31 | 2007-41-20-0B.12 | 52/2012. (XII. 27.) EMMI rendelet |

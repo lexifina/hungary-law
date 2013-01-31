@@ -1,6 +1,6 @@
-15. §[^38] (1) A készenléti és ügyeleti hely és idő meghatározásakor az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 7. § (3) bekezdése szerinti folyamatos betegellátás biztosításán túl az orvosi ügyelet helyét, idejét és a közforgalmú gyógyszertár, a 23. § (2) bekezdés ac) alpontja szerinti alapfeladatot ellátó intézeti gyógyszertár, valamint a közforgalmú gyógyszertárhoz kapcsolódó fiókgyógyszertár elérhetőségét kell figyelembe venni.
+15. §[^40] (1)[^41] A készenléti és ügyeleti hely és idő meghatározásakor az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 7. § (3) bekezdése szerinti folyamatos betegellátás biztosításán túl az orvosi ügyelet helyét, idejét és a közforgalmú gyógyszertár, a 23. § (2) bekezdés b) pont bf) alpontja szerinti alapfeladatot ellátó intézeti gyógyszertár, valamint a közforgalmú gyógyszertárhoz kapcsolódó fiókgyógyszertár elérhetőségét kell figyelembe venni.
 
-(2) Készenléti és ügyeleti idő teljesítésére valamennyi működési engedéllyel rendelkező közforgalmú gyógyszertár és a 23. § (2) bekezdés ac) alpontja szerinti alapfeladatot ellátó intézeti gyógyszertár kötelezhető.
+(2)[^42] Készenléti és ügyeleti idő teljesítésére valamennyi működési engedéllyel rendelkező közforgalmú gyógyszertár és a 23. § (2) bekezdés b) pont bf) alpontja szerinti alapfeladatot ellátó intézeti gyógyszertár kötelezhető.
 
 (3) Ha azt a járványügyi helyzet indokolja, az ÁNTSz a fiókgyógyszertár részére is elrendelheti készenléti vagy ügyeleti idő teljesítését.
 
@@ -10,4 +10,6 @@
 
 (6) Az ügyeletre/készenlétre kijelölt gyógyszertár ügyeleti/készenléti ideje a működési engedélyében megállapított nyitva tartási idejének végén kezdődik. Ettől eltérő későbbi időpontot az ÁNTSZ a településen működő más gyógyszertárak nyitva tartási idejére figyelemmel megállapíthat.
 
-[^38]: A 15. § az 56/2009. (XII. 30.) EüM rendelet 9. §-ával megállapított szöveg.
+[^40]: A 15. § az 56/2009. (XII. 30.) EüM rendelet 9. §-ával megállapított szöveg.
+[^41]: A 15. § (1) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § b) pontja szerint módosított szöveg.
+[^42]: A 15. § (2) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § b) pontja szerint módosított szöveg.

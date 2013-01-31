@@ -1,6 +1,6 @@
-## A gyógyszertár működtetéséhez szükséges személyi feltételek[^35]
+## A gyógyszertár működtetéséhez szükséges személyi feltételek[^36]
 
-13/A. §[^36] (1) A közforgalmú gyógyszertár működtetője
+13/A. §[^37] (1) A közforgalmú gyógyszertár működtetője
 
 a) heti 40 órát meg nem haladó nyitva tartás esetén legalább 1 gyógyszerészből,
 
@@ -26,5 +26,5 @@ e) heti 67 órát meghaladó nyitva tartás esetén legalább 4 gyógyszerészb�
 
 (7) Egy gyógyszerész legfeljebb 2 gyógyszerkiadó szakasszisztens és további 1 asszisztens szakmai felügyeletét láthatja el.
 
-[^35]: A 13/A. §-t megelőző alcímet a 48/2011. (VII. 27.) NEFMI rendelet 1. §-a iktatta be.
-[^36]: A 13/A. §-t a 48/2011. (VII. 27.) NEFMI rendelet 1. §-a iktatta be.
+[^36]: A 13/A. §-t megelőző alcímet a 48/2011. (VII. 27.) NEFMI rendelet 1. §-a iktatta be.
+[^37]: A 13/A. §-t a 48/2011. (VII. 27.) NEFMI rendelet 1. §-a iktatta be.

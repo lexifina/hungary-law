@@ -8,8 +8,8 @@ c) a Szabványos Állatorvosi Vényminták (FoNoVet) gyűjteménye hivatalos gy�
 
 d) az Egészségügyi Közlönynek;
 
-e)[^39] a GYEMSZI közleményeknek, valamint
+e)[^43] a GYEMSZI közleményeknek, valamint
 
 f) a hivatalos gyógyszer-alkalmazási előírásoknak
 
-[^39]: A 16. § e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 29. § b) pontja szerint módosított szöveg.
+[^43]: A 16. § e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 29. § b) pontja szerint módosított szöveg.
