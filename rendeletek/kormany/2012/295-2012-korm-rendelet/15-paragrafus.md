@@ -1,9 +1,8 @@
-## 14. §[^2]
+## 14. §[^3]
 
-15. § (1)[^3]
+15. § (1)[^4]
 
-(2)[^4]
+(2) Hatályát veszti az 5. § (1) bekezdés i) és j) pontja.
 
-[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 15. § (1) bekezdése a 12. § (3) bekezdése alapján 2013. április 30-án lép hatályba.
-[^4]: A 15. § (2) bekezdése a 12. § (4) bekezdése alapján 2013. január 31-én lép hatályba.
+[^3]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 15. § (1) bekezdése a 12. § (3) bekezdése alapján 2013. április 30-án lép hatályba.

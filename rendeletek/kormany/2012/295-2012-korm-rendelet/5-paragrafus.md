@@ -18,10 +18,10 @@ g) az alkalmazott hitelesítési eljárások, valamint a hitelesítési tevéken
 
 h) a vezető tisztségviselők, a munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszonyban foglalkoztatott EU ETS hitelesítő szakértők, EU ETS vezető hitelesítő szakértők 30 napnál nem régebbi hatósági erkölcsi bizonyítványát,
 
-i) a kérelmező 30 napnál nem régebbi cégkivonatát,
-
-j) közjegyzői aláírás-hitelesítéssel ellátott címpéldányt vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintát, illetve annak hiteles másolatát.
+i)–j)[^1]
 
 (2) Az akkreditálás iránti kérelemben meg kell határozni, hogy a hitelesítő szervezet mely szakterület vagy szakterületek tekintetében kíván hitelesítési tevékenységet végezni. A szakterületek felsorolását az 1. melléklet tartalmazza.
 
 (3) Amennyiben a hitelesítő szervezet több szakterület vonatkozásában kíván hitelesítési tevékenységet végezni, az akkreditálás során be kell mutatnia, hogy minden gyakorolni kívánt szakterület vonatkozásában legalább két EU ETS hitelesítő szakértővel munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban áll.
+
+[^1]: Az 5. § (1) bekezdés i)–j) pontját a 15. § (2) bekezdése hatályon kívül helyezte.

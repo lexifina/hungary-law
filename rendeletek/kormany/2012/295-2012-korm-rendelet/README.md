@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-295-20-
 | --- | --- | --- |
 | 2012-10-19 | 2012-295-20-22.1 | 295/2012. (X. 16.) Korm. rendelet |
 | 2012-10-20 | 2012-295-20-22.2 | 2010: CXXX. törvény |
+| 2013-01-31 | 2012-295-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
