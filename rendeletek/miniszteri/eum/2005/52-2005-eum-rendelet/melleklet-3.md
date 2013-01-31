@@ -1,3 +1,3 @@
-3. számú melléklet az 52/2005. (XI. 18.) EüM rendelethez[^174]
+3. számú melléklet az 52/2005. (XI. 18.) EüM rendelethez[^175]
 
-[^174]: A 3. számú melléklet a 27/2008. (VII. 14.) EüM rendelet 2. § (6) bekezdése szerint módosított szöveg.
+[^175]: A 3. számú melléklet a 27/2008. (VII. 14.) EüM rendelet 2. § (6) bekezdése szerint módosított szöveg.
