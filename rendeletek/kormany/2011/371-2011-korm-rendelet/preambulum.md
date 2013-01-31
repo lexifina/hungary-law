@@ -1,1 +1,0 @@
-A Kormány a Magyarország 2012. évi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 4. § (6) bekezdésében, és a 78. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 35. cikk (3) bekezdésében megállapított feladatkörében eljárva a következő rendeletet alkotja:
