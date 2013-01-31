@@ -1,4 +1,4 @@
-14. §[^84] (1) A gyógyszer befogadásának egyéb feltételei:
+14. §[^95] (1) A gyógyszer befogadásának egyéb feltételei:
 
 a) új csomagolás az előző csomagolással azonos termelői áron vagy import beszerzési áron (a továbbiakban együtt: termelői ár) és azonos támogatási mértékkel fogadható be;
 
@@ -18,16 +18,23 @@ ga) fogyasztói ára nem haladja meg az azonos forgalomba hozatali engedély jog
 
 gb) amennyiben nincs azonos forgalomba hozatali engedély jogosult által forgalmazott, az adott monokomponenst tartalmazó készítmény, fogyasztói ára nem haladja meg a monokomponenseket tartalmazó, a kombinációs készítmény hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű, legalacsonyabb napi terápiás költségű már támogatott formájának fogyasztói áron számolt egységnyi hatóanyagárának a monokomponens kombinációban lévő hatóanyagmennyiségére számított összegét;
 
-h) az orális kombinációs készítmények támogatása nem haladhatja meg a termék hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű monokomponensek támogatásának a monokomponens kombinációban lévő hatóanyagmennyiségére számított összegét, amennyiben mindegyik monokomponens támogatott;
+h)[^96] több hatóanyagot is tartalmazó inhalációs gyógyszerformájú készítmény a támogatásba akkor fogadható be egyszerűsített eljárással, ha a kombinációs készítmény valamennyi monokomponense azonos indikációban támogatott, valamint fogyasztói ára nem haladja meg az azonos hatóanyagú monokomponenseket tartalmazó, a kombinációs készítmény hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű, azonos indikációban már támogatott forma fogyasztói áron számolt egységnyi hatóanyagárának a monokomponens kombinációban lévő hatóanyagmennyiségére számított összegét;
 
-i) a g) pont szerinti befogadások esetén az OEP a határozatában megjelöli a közfinanszírozás alapjául elfogadott ár és a támogatási összeg számítása során figyelembe veendő készítményeket és fix csoportokat;
+i)[^97] az orális és inhalációs kombinációs készítmények támogatása nem haladhatja meg a termék hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű, terápiásan megfelelő mennyiségű, azonos indikációval rendelkező monokomponensek támogatásának a monokomponens kombinációban lévő hatóanyagmennyiségére számított összegét, amennyiben mindegyik monokomponens támogatott;
 
-j) amennyiben az e) és f) pont alapján az első generikum a már elsőként a támogatási rendszerbe vont azonos hatóanyagú gyógyszer termelői áránál legalább 60%-kal alacsonyabb áron került befogadásra, úgy az ez után a támogatási rendszerbe kerülő további gyógyszerek az első generikumnál alacsonyabb áron kerülhetnek be a támogatási rendszerbe.
+j)[^98] a g) és h) pont szerinti befogadások esetén az OEP a határozatában megjelöli a közfinanszírozás alapjául elfogadott ár és a támogatási összeg számítása során figyelembe veendő készítményeket és fix csoportokat;
+
+k)[^99] amennyiben az e) és f) pont alapján az első generikum a már elsőként a támogatási rendszerbe vont azonos hatóanyagú gyógyszer termelői áránál legalább 60%-kal alacsonyabb áron került befogadásra, úgy az ezután a támogatási rendszerbe kerülő további gyógyszerek az első generikumnál alacsonyabb áron kerülhetnek be a támogatási rendszerbe.
 
 (2) Gyógyszer támogatásának egyéb feltételei:
 
-a) az orális kombinációs készítmények támogatása nem haladhatja meg a termék hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű monokomponensek támogatásának a monokomponens kombinációban lévő hatóanyagmennyiségére számított összegét, amennyiben mindegyik monokomponens támogatott;
+a)[^100] az orális és inhalációs kombinációs készítmények támogatása nem haladhatja meg a termék hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű, terápiásan megfelelő mennyiségű, azonos indikációval rendelkező monokomponensek támogatásának a monokomponens kombinációban lévő hatóanyagmennyiségére számított összegét, amennyiben mindegyik monokomponens támogatott, azzal hogy az inhalációs kombinációs készítmény esetén a kombinációs készítmény és a monokomponensek támogatási összege közötti különbséget a forgalombahozatali engedély jogosultja támogatás-volumen szerződés keretében is megtérítheti;
 
 b) az OEP határozatában megjelöli a támogatási összeg számítása során figyelembe vett készítményeket és fix csoportokat.
 
-[^84]: A 14. § a 47/2011. (VII. 27.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^95]: A 14. § a 47/2011. (VII. 27.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^96]: A 14. § (1) bekezdés h) pontja a 10/2013. (I. 31.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^97]: A 14. § (1) bekezdés i) pontja a 10/2013. (I. 31.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^98]: A 14. § (1) bekezdés j) pontja a 10/2013. (I. 31.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^99]: A 14. § (1) bekezdés k) pontját a 10/2013. (I. 31.) EMMI rendelet 9. § (2) bekezdése iktatta be.
+[^100]: A 14. § (2) bekezdés a) pontja a 10/2013. (I. 31.) EMMI rendelet 9. § (3) bekezdésével megállapított szöveg.

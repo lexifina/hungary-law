@@ -4,7 +4,7 @@
 
 4. §[^30] (1) A gyógyszerek társadalombiztosítási támogatásba történő befogadása során a Gyftv. 26. §-ának (1) bekezdése szerinti támogatási összegek számítása az 1. számú melléklet táblázatában feltüntetett maximálisan adható százalékos mértékeket alapul véve történik. Az E. Alapból támogatott gyógyszerek a (2)–(8) bekezdések szerinti támogatási kategóriákba sorolhatók be.
 
-(2) 100%-os támogatási kategóriába sorolható be az a gyógyszer, amelyet az OEP a Gyftv. 28. § (1) bekezdésének d) pontja szerinti támogatási módszerrel finanszíroz (különkeretes gyógyszer), és amely
+(2)[^31] 100%-os támogatási kategóriába sorolható be az a gyógyszer, amelyet az OEP a Gyftv. 28. § (1) bekezdésének d) pontja szerinti támogatási módszerrel finanszíroz, és amely
 
 a) kizárólag indikációhoz kötötten súlyos, általában folyamatos vagy élethossziglan tartó kezelést igénylő krónikus betegségek és rendellenességek legeredményesebb és leghatékonyabb kezelésére, illetve megelőzésére (a továbbiakban együtt: kezelés) szolgál, amely betegségek, illetve rendellenességek:
 
@@ -40,7 +40,7 @@ b) Eü 70 százalékos támogatási kategóriába sorolható be az a gyógyszer,
 
 c) Eü 50 százalékos támogatási kategóriába sorolható be az a gyógyszer, amely közepesen súlyos, krónikus betegségek és rendellenességek, illetve heveny betegségek hatékony kezelésére szolgál a 3. számú mellékletben meghatározott indikációban.
 
-(5)[^31] Átlagon felüli (normatív 80%) támogatási kategóriába sorolható be az a gyógyszer, amely népegészségügyi szempontból kiemelkedően fontos súlyos, krónikus betegségek és rendellenességek leghatékonyabb kezelésére szolgál, amely betegségek, illetve rendellenességek reverzíbilis – de kezelés nélkül irreverzíbilis – folyamatot indítanak el, melynek következményei élethosszig tartanak, és a várható élettartamot, az életminőséget közepesen és kedvezőtlenül befolyásolják.
+(5)[^32] Átlagon felüli (normatív 80%) támogatási kategóriába sorolható be az a gyógyszer, amely népegészségügyi szempontból kiemelkedően fontos súlyos, krónikus betegségek és rendellenességek leghatékonyabb kezelésére szolgál, amely betegségek, illetve rendellenességek reverzíbilis – de kezelés nélkül irreverzíbilis – folyamatot indítanak el, melynek következményei élethosszig tartanak, és a várható élettartamot, az életminőséget közepesen és kedvezőtlenül befolyásolják.
 
 (6) Átlagos támogatási kategóriába (normatív 55%) sorolható be az a gyógyszer, amely
 
@@ -67,4 +67,5 @@ a) a kizárólag az egészségügyi szolgáltatók számára rendelhető, illetv
 b) azon gyógyszerek, melyeket – ez irányú kérelemre – az OEP támogatási érték nélkül fogad be.
 
 [^30]: A 4. § az 53/2006. (XII. 28.) EüM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 19. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^31]: A 4. § (5) bekezdése a 6/2009. (III. 20.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. március 21. napját követően indult eljárásokban kell alkalmazni.
+[^31]: A 4. § (2) bekezdés nyitó szövegrésze a 10/2013. (I. 31.) EMMI rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A 4. § (5) bekezdése a 6/2009. (III. 20.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. március 21. napját követően indult eljárásokban kell alkalmazni.

@@ -1,4 +1,4 @@
-22. §[^108] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
+22. §[^125] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
 
 a) már támogatott hatóanyagot tartalmazó gyógyszerrel egyenértékű készítmény:
 
@@ -12,7 +12,7 @@ ad) új generikumára, márkanevű készítményére,
 
 b) tápszer vagy forgalomba hozatalra engedélyezett, a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására,
 
-c)[^109] a 14. § (1) bekezdés g) pontja szerinti kombinációra,
+c)[^126] a 14. § (1) bekezdés g) és h) pontja szerinti kombinációra,
 
 d) már támogatott – a Tfr. 2. § (2) bekezdés 14. pontja szerinti – biológiai gyógyszer valamely hatóanyagával azonos vagy hasonló hatóanyagot tartalmazó, a Tfr. 2. § (2) bekezdés 15. pontja szerinti generikumnak nem minősülő hasonló biológiai gyógyszerre
 
@@ -38,5 +38,5 @@ h) jelentős terápiás előnnyel rendelkező készítményre, magasabb áron t�
 
 érkezett.
 
-[^108]: A 22. § a 30/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^109]: A 22. § (1) bekezdés c) pontja a 47/2011. (VII. 27.) NEFMI rendelet 13. § k) pontja szerint módosított szöveg.
+[^125]: A 22. § a 30/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^126]: A 22. § (1) bekezdés c) pontja a 47/2011. (VII. 27.) NEFMI rendelet 13. § k) pontja, a 10/2013. (I. 31.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.

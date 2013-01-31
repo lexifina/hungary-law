@@ -1,4 +1,6 @@
-20. §[^92] (1)[^93] Az OEP-hez
+## 19/A. §[^108] Amennyiben a tételes elszámolásba besorolásra váró hatóanyagot tartalmazó gyógyszerek támogatásba történő befogadása vagy a tételes elszámolásba már besorolt hatóanyagot tartalmazó gyógyszerek támogatási feltételeinek módosítása jogszabály módosítását igényli, az OEP az érintett gyógyszerekkel kapcsolatos javaslatát minden naptári negyedév első munkanapjáig megküldi az egészségbiztosításért felelős miniszternek. Az OEP javaslatának figyelembevételével, a javaslat megérkezését követő 30 napon belül az egészségbiztosításért felelős miniszter által kijelölt 2 fő, az államháztartásért felelős miniszter által kijelölt 1 fő, az OEP főigazgatója által kijelölt 2 fő, valamint a GYEMSZI főigazgatója által kijelölt 2 fő szakértőből álló bizottság javaslatot tesz az egészségbiztosításért felelős miniszter számára az érintett gyógyszerek támogatásával kapcsolatos feltételekre.
+
+20. §[^109] (1)[^110] Az OEP-hez
 
 a) a gyógyszer forgalomba hozatali engedélyének jogosultja a gyógyszerek árához nyújtható támogatás megállapítása és a támogatás mértékének módosítása iránti kérelmét a 6/a. számú mellékletben,
 
@@ -10,7 +12,7 @@ d) a tápszer forgalmazója – az Országos Élelmezés- és Táplálkozástudo
 
 meghatározott formanyomtatványon vagy elektronikus űrlapon nyújtja be.
 
-(2)[^94] Nem elektronikus kapcsolattartás keretében benyújtott kérelem esetén a mellékletekben meghatározott adatokat CD-n kell benyújtani.
+(2)[^111] Nem elektronikus kapcsolattartás keretében benyújtott kérelem esetén a mellékletekben meghatározott adatokat CD-n kell benyújtani.
 
 (3) Az (1) bekezdés szerinti kérelemhez másolatban csatolni kell:
 
@@ -26,9 +28,10 @@ e) amennyiben nem a forgalomba hozatali engedély jogosultja nyújtja be a kére
 
 f) az igazgatási-szolgáltatási díj befizetéséről, illetve átutalásáról szóló igazolást.
 
-(4)[^95] Ha az ügyfél a (3) bekezdés a) és b) pontja szerinti dokumentumokat nem csatolja, az OEP a kérelem elbírálása érdekében adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
+(4)[^112] Ha az ügyfél a (3) bekezdés a) és b) pontja szerinti dokumentumokat nem csatolja, az OEP a kérelem elbírálása érdekében adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
 
-[^92]: A 20. § a 10/2004. (XII. 15.) EüM rendelet 14. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
-[^93]: A 20. § (1) bekezdése a 45/2009. (XII. 18.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^94]: A 20. § (2) bekezdése a 45/2009. (XII. 18.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^95]: A 20. § (4) bekezdése a 45/2009. (XII. 18.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^108]: A 19/A. §-t a 10/2013. (I. 31.) EMMI rendelet 10. §-a iktatta be.
+[^109]: A 20. § a 10/2004. (XII. 15.) EüM rendelet 14. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
+[^110]: A 20. § (1) bekezdése a 45/2009. (XII. 18.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^111]: A 20. § (2) bekezdése a 45/2009. (XII. 18.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^112]: A 20. § (4) bekezdése a 45/2009. (XII. 18.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.

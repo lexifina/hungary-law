@@ -1,6 +1,6 @@
-10/E. §[^76] (1) Az első, a Tfr. 7. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egyidőben az OEP kialakítja a biológiai gyógyszerek csoportját.
+10/E. §[^82] (1) Az első, a Tfr. 7. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egyidőben az OEP kialakítja a biológiai gyógyszerek csoportját.
 
-(2) Az OEP az OGYTT véleményét figyelembe véve a honlapján folyamatosan közzéteszi az egyes biológiai gyógyszerek szakmai szempontok alapján meghatározott csoportjait, jelöli a csoport egyes készítményei esetében a preferált biológiai gyógyszereket, valamint a (12)–(13) bekezdés alapján meghatározott kötelező minimális rendelési arányt.
+(2)[^83] Az OEP az OGYTT véleményét figyelembe véve a honlapján folyamatosan közzéteszi az egyes biológiai gyógyszerek szakmai szempontok alapján meghatározott csoportjait, jelöli a csoport egyes készítményei esetében a preferált biológiai gyógyszereket, valamint a (12)–(14) bekezdés alapján meghatározott kötelező minimális rendelési arányt.
 
 (3) Azonos csoportba kerülnek azok a gyógyszerek, amelyek a finanszírozott indikációs körben orvosszakmai szempontok alapján egyaránt választhatóak a korábban kezelésben nem részesülő beteg részére. A csoportképzés során meghatározásra kerül gyógyszerenként az adott gyógyszer támogatásának alapjául szolgáló terápiás egység, és annak mértéke, hogy az adott gyógyszer hány napra elegendő terápiás egységet tartalmaz. Ezek alapján kerül meghatározásra a készítmény közfinanszírozás alapjául elfogadott bruttó fogyasztói árából számított napi terápiás költség. Ennek során figyelembe kell venni a gyógyszer alkalmazási előírását és a DDD-t.
 
@@ -28,4 +28,8 @@ a) a preferált biológiai gyógyszer első alkalommal történő meghatározás
 
 b) a preferált biológiai gyógyszer első alkalommal történő meghatározását követő második évben és azt követően minden év július 1-je és az azt követő év július 1. napja közötti időszakban legalább 70%.
 
-[^76]: A 10/E. §-t a 2/2012. (I. 3.) NEFMI rendelet iktatta be.
+(14)[^84] A (12)–(13) bekezdésben foglaltaktól eltérően a növekedési hormonok esetén az első hasonló biológiai gyógyszer befogadását követően az adott csoportba tartozó minden további hasonló biológiai gyógyszer együttes, a rendelésére jogosult orvosokra vonatkozó biológiai gyógyszerekre meghatározott terápiás egységben számolt kötelező minimális rendelési aránya a befogadást követően legalább 10%.
+
+[^82]: A 10/E. §-t a 2/2012. (I. 3.) NEFMI rendelet iktatta be.
+[^83]: A 10/E. § (2) bekezdése a 10/2013. (I. 31.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.
+[^84]: A 10/E. § (14) bekezdését a 10/2013. (I. 31.) EMMI rendelet 6. §-a iktatta be.
