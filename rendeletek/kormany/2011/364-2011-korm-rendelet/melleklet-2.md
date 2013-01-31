@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011–2020) | Budapest XIV. kerület 32826 helyrajzi számú terület, illetve ezen területből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011–2020) | az 1. § (1) bekezdés a) és b) pontja szerinti terület, illetve ezem területekből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -28,7 +28,7 @@
 
 | 13. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^4]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^5]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -62,4 +62,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 14. | Régészeti és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^5]: A 2. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 53. §-a szerint módosított szöveg.
