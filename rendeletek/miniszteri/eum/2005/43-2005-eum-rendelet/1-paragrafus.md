@@ -24,7 +24,7 @@ j)–k)[^4]
 
 l)[^5] külföld: a Magyarország államhatárán kívüli terület;
 
-m)[^6] megrendelőlap: a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló egészségügyi miniszteri rendelet szerinti nyomtatvány;
+m)[^6] megrendelőlap: a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló egészségügyi miniszteri rendelet szerinti, kizárólag intézeti gyógyszertárakban alkalmazható nyomtatvány;
 
 n) visszavétel: ellenőrzött szer visszaszolgáltatása a gyógyszertárba;
 
@@ -35,5 +35,5 @@ o)[^7]
 [^3]: Az 1. § g) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § j)–k) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
 [^5]: Az 1. § l) pontja a 41/2011. (VII. 5.) NEFMI rendelet 24. § a) pontja szerint módosított szöveg.
-[^6]: Az 1. § m) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. § m) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (3) bekezdésével megállapított, az 52/2012. (XII. 27.) EMMI rendelet 22. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § o) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.

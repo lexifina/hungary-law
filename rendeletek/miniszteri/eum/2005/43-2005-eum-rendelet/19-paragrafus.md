@@ -2,6 +2,6 @@
 
 (2) Ha az elbocsátott beteg kezeléséhez az ellenőrzött szer folyamatosan szükséges, számára az orvos a gyógyszert az 5. § szerint rendeli. Ez a rendelés a 6. § (3) bekezdés szerinti első alkalomnak minősül és a beteg zárójelentésén a rendelés tényét fel kell tüntetni.
 
-(3)[^49]
+(3)[^51]
 
-[^49]: A 19. § (3) bekezdését a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
+[^51]: A 19. § (3) bekezdését a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.

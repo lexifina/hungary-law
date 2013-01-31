@@ -10,6 +10,6 @@ ab) a b) pont szerinti, a beteg általi gyógyszertár választás hiányában, 
 
 b) értesíti a beteg választása szerinti, ennek hiányában pedig a legközelebbi közforgalmú gyógyszertárat és ezzel egyidejűleg lebélyegezve és aláírva átküldi a háziorvos által kiállított értesítő másolati példányát;
 
-c)[^30] a zárvatartás várható időtartamáról és az ellenőrzött szer kiadási helyének átmeneti változásáról értesíti a fővárosi, megyei tisztifőgyógyszerészt (a továbbiakban: megyei tisztifőgyógyszerész).
+c)[^32] a zárvatartás várható időtartamáról és az ellenőrzött szer kiadási helyének átmeneti változásáról értesíti a fővárosi, megyei tisztifőgyógyszerészt (a továbbiakban: megyei tisztifőgyógyszerész).
 
-[^30]: A 8. § (2) bekezdésének c) pontja a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése, a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A 8. § (2) bekezdésének c) pontja a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése, a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés a) pontja szerint módosított szöveg.

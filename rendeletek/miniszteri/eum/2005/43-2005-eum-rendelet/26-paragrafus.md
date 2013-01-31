@@ -1,6 +1,6 @@
-## 25. §[^51] A gyógyszertár, illetve az egészségügyi intézmény vezetője, ellenőrzött szerrel történő visszaélés gyanúja esetén az illetékes kábítószer rendészetnél bejelentést tesz, egyidejűleg értesíti a területileg illetékes megyei tisztifőgyógyszerészt is. A megyei tisztifőgyógyszerész a bejelentést haladéktalanul kivizsgálja, és megteszi a szükséges intézkedéseket.
+## 25. §[^53] A gyógyszertár, illetve az egészségügyi intézmény vezetője, ellenőrzött szerrel történő visszaélés gyanúja esetén az illetékes kábítószer rendészetnél bejelentést tesz, egyidejűleg értesíti a területileg illetékes megyei tisztifőgyógyszerészt is. A megyei tisztifőgyógyszerész a bejelentést haladéktalanul kivizsgálja, és megteszi a szükséges intézkedéseket.
 
-26. § (1)[^52] A GYEMSZI
+26. § (1)[^54] A GYEMSZI
 
 a) a forgalomba hozatalra engedélyezett kábítószert és pszichotrop anyagot tartalmazó gyógyszerek teljes körének (2) bekezdés szerinti adatait legalább évente egy alkalommal, valamint az
 
@@ -16,12 +16,12 @@ b) hatóanyagának nemzetközi nevét;
 
 c) egy adagolási egységében lévő hatóanyag mennyiségét;
 
-d)[^53]
+d)[^55]
 
 e) az R.1. számú melléklete szerinti besorolását;
 
 f) bevitelét megtiltó országok megjelölését.
 
-[^51]: A 25. § a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés g) és h) pontja szerint módosított szöveg.
-[^52]: A 26. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 9. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 24. § i) pontja szerint módosított szöveg.
-[^53]: A 26. § (2) bekezdésének d) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
+[^53]: A 25. § a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés g) és h) pontja szerint módosított szöveg.
+[^54]: A 26. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 9. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 24. § i) pontja szerint módosított szöveg.
+[^55]: A 26. § (2) bekezdésének d) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
