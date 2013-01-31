@@ -1,0 +1,1 @@
+A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (3) bekezdés b) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
