@@ -1,5 +1,3 @@
-## 24–26. §[^7]
+## 26. § Az 52/2005. EüM rendelet 36. § (1) bekezdésében a „döntést a Gytv. 17–18. §-ában foglaltak mellett” szövegrész helyébe a „döntés rendelkező részét” szöveg lép.
 
 ## 6. A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet módosítása
-
-[^7]: A 24–26. § a 32. § (2) bekezdése alapján 2013. január 31-én lép hatályba.

@@ -1,3 +1,3 @@
-## 6–9. §[^2]
+## 9. § A 44/2004. ESZCSM rendelet 18. §-a a következő (4) bekezdéssel egészül ki:
 
-[^2]: A 6–9. § a 32. § (2) bekezdése alapján 2013. január 31-én lép hatályba.
+## „(4) Gyógyszer csak a felhasználhatósági időtartamán belül adható ki, úgy, hogy a kiadás napjától számítva az előírt adagolás figyelembevételével a teljes kiadott gyógyszermennyiség felhasználhatósága biztosított legyen a lejárati időn belül.”
