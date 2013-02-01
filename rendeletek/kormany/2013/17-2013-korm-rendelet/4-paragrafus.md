@@ -1,0 +1,1 @@
+## „(4b) Amennyiben a Kedvezményezett a tárgyalás eredményeként a Központi Ellátó Szerv ajánlatát elfogadja, az ellátási megállapodást tárgyév március 20-áig kötelesek megkötni. A tárgyalás eredménytelensége esetén a Központi Ellátó Szerv kiadja az 1. § (4) bekezdése szerinti nyilatkozatot.”
