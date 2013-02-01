@@ -1,6 +1,6 @@
 ## 7. A kifizetési kérelem benyújtása
 
-14. § (1) A kifizetési kérelmet az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül lehet benyújtani az MVH-hoz.
+14. § (1)[^8]
 
 (2) Az utolsó kifizetési kérelemhez mellékelni kell
 
@@ -12,4 +12,7 @@ c) a 2. § (1) bekezdés d) pont db) alpontjában meghatározott fejlesztések e
 
 d) a 8. § (2) bekezdés f) pontjában meghatározott szervezeti tagság igazolását.
 
-(3) A kifizetési kérelemhez benyújtandó dokumentumokat elektronikus űrlapon, szkennelés útján előállított formában kell mellékelni a kifizetési kérelemhez.
+(3)[^9]
+
+[^8]: A 14. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
+[^9]: A 14. § (3) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
