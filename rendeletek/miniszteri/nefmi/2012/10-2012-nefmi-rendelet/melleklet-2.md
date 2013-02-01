@@ -7502,4 +7502,6 @@ C1014 A gégefedő mellső felszínének rosszindulatú daganata IV. stádium
 
 C1023 A szájgarat oldalsó falának rosszindulatú daganata III. stádium
 
-[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése szerint módosított szöveg.
+C1024 A szájgarat oldalsó falának rosszindulatú daganata IV. stádium
+
+[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
