@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-151-00-00
 | 2012-12-22 | 2010. évi CXXX. törvény | 2012-151-00-00.8 |
 | 2013-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-151-00-00.9 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-151-00-00.10 |
+| 2013-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-151-00-00.11 |
