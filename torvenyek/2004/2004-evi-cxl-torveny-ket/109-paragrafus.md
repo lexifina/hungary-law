@@ -6,6 +6,8 @@ a) a 100. § (2) bekezdésében meghatározott esetekben, vagy
 
 b) ha a hatósági eljárásban a fellebbezésre jogosultak valamelyike a fellebbezési jogát kimerítette.
 
+(1a) A végzés bírósági felülvizsgálata kezdeményezhető, ha e törvény alapján a végzés ellen önálló fellebbezésnek van helye, és törvény az ügyben az elsőfokú határozattal szemben kizárja a fellebbezést, valamint a határozat bírósági felülvizsgálatát teszi lehetővé.
+
 (2) Bírósági felülvizsgálat kezdeményezése esetén az első fokú döntést hozó hatóság erről az ügy iratainak felterjesztésével, illetve a bíróságra történő továbbításával egyidejűleg értesíti azokat, akiknek jogát vagy jogos érdekét a felülvizsgálat érinti. Ha a kezdeményező a döntés végrehajtásának felfüggesztését is kéri, akkor erről a hatóság a végrehajtást foganatosító szervet is értesíti, kivéve, ha a másodfokú döntést a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
 
 (3) Ha a közigazgatási ügyekben eljáró bíróság az ügy érdemében határozott, a hatóságnál ugyanabban az ügyben azonos tényállás mellett – a közigazgatási ügyekben eljáró bíróság által elrendelt új eljárás kivételével – nincs helye új eljárásnak.

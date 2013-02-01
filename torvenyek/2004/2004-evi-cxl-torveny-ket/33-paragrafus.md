@@ -36,6 +36,6 @@ k) a hatósági megkeresés vagy a döntés postára adásának napjától annak
 
 (7) Az eljáró hatóság vezetője – ha azt jogszabály nem zárja ki – az ügyintézési határidőt annak letelte előtt kivételesen indokolt esetben egy alkalommal, legfeljebb harminc, a (2) bekezdésben meghatározott esetekben legfeljebb tizenöt nappal meghosszabbíthatja. A végzésben a határidő-hosszabbítás indokait kifejezetten meg kell jelölni.
 
-(8) A szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap. Indokolt esetben a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt egy alkalommal tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti.
+(8) A szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap. Kivételesen indokolt esetben – amennyiben azt jogszabály nem zárja ki – a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt annak letelte előtt egy alkalommal legfeljebb tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti. A szakhatóságnak az ügyintézési határidő meghosszabbításáról szóló végzésében a határidő-hosszabbítás indokait kifejezetten meg kell jelölnie.
 
 (9) A (7) és (8) bekezdésben meghatározott határidőnél rövidebb határidőt bármely jogszabály, hosszabbat pedig törvény vagy kormányrendelet állapíthat meg.

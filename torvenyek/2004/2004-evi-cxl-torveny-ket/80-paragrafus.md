@@ -20,7 +20,7 @@ d) az ügyfél nevét és utolsó ismert lakcímét, illetőleg székhelyét, to
 
 e) azt a figyelemfelhívást, hogy a hatóság az ügyben döntést hozott, de annak kézbesítése meghiúsult, ezért az ügyfél vagy meghatalmazottja a döntést a hatóságnál átveheti.
 
-(3) Hirdetményi úton történő közlésnek van helye a hatásterületen élő és a 15. § (5) bekezdésében meghatározott szervezetek esetén, ideértve, ha az ügyfelek körét vagy a hatásterület határait nem lehet pontosan megállapítani, továbbá abban az esetben, ha a 28/D. § alapján törvény vagy kormányrendelet hirdetményi úton való kapcsolattartást ír elő. Ilyen esetben a hirdetmény tartalmazza:
+(3) Hirdetményi úton történő közlésnek van helye a hatásterületen élő ügyfelek és a 15. § (5) bekezdésében meghatározott szervezetek esetén, ideértve, ha az ügyfelek körét vagy a hatásterület határait nem lehet pontosan megállapítani, továbbá abban az esetben, ha a 28/D. § alapján törvény vagy kormányrendelet hirdetményi úton való kapcsolattartást ír elő. Ilyen esetben a hirdetmény tartalmazza:
 
 a) a kifüggesztés napját,
 

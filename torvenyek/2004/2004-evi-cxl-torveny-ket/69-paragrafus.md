@@ -10,6 +10,8 @@ d) az egyéb védett adatot tartalmazó iratba, ha azt az érintett adat védelm
 
 (2) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A hatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában.
 
+(2a) A hatóság a cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél védelme érdekében erre irányuló kérelem nélkül is dönthet az iratbetekintési jog korlátozásáról.
+
 (3) Az iratbetekintési jog biztosítása érdekében a hatóság megismerhetetlenné teszi azokat a személyes és védett adatokat, valamint a (2) bekezdés szerinti adatokat, amelyek megismerésére az iratbetekintésre jogosult személy egyébként nem jogosult.
 
 (4) A hatóság a 68. § szerinti személy kérelmére – annak vizsgálata mellett, hogy az (1)–(3) bekezdés szerinti okok a kérelem elbírálásakor fennállnak-e – az iratbetekintést biztosítja, vagy végzésben dönt az iratbetekintési kérelem elutasításáról. A végzés ellen az iratbetekintést kérő személy önálló fellebbezéssel élhet.

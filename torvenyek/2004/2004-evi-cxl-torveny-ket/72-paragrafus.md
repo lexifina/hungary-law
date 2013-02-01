@@ -30,7 +30,7 @@ eb) az ügyfél által felajánlott, de mellőzött bizonyítást és a mellőz�
 
 ec) a mérlegelési, méltányossági jogkörben hozott határozat esetén a mérlegelésben, a méltányossági jogkör gyakorlásában szerepet játszó szempontokat és tényeket,
 
-ed) a szakhatósági állásfoglalás indokolását,
+ed) a szakhatósági állásfoglalás indokolását, valamint a szakhatósági megkeresés mellőzésének okát,
 
 ee) az ügyintézési határidő túllépése esetén az ügyintézési határidő leteltének napját, valamint az arról szóló tájékoztatást, hogy az ügyintézési határidőt mely, az ügyfélnek vagy az eljárás egyéb résztvevőjének felróható okból nem tartotta be, vagy hogy a 33/A. § alkalmazásának van helye,
 

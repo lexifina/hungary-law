@@ -2,7 +2,7 @@
 
 44. § (1) Törvény vagy kormányrendelet az ügyben érdemi döntésre jogosult hatóság számára előírhatja, hogy az ott meghatározott szakkérdésben más hatóság (a továbbiakban: szakhatóság) kötelező állásfoglalását kell beszereznie. A szakhatóság olyan szakkérdésben ad ki állásfoglalást, amelynek megítélése hatósági ügyként a hatáskörébe tartozik, ennek hiányában törvény vagy kormányrendelet annak vizsgálatát szakhatósági ügyként a hatáskörébe utalja.
 
-(1a) Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mérlegelheti a szakhatóság megkeresését és maga dönthet a szakkérdésben. Ilyen esetben az adott szakkérdésre vonatkozó szakhatósági eljárásért illeték és díj nem kérhető.
+(1a) Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mérlegeli a szakhatóság megkeresését és maga dönt a szakkérdésben. Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mellőzi a szakhatóság megkeresését. Ha a hatóság maga dönt a szakkérdésben, ehhez szakértőt nem rendelhet ki, és az adott szakkérdésre vonatkozó szakhatósági eljárásért illeték és díj nem kérhető. Ha mérlegelés esetén a hatóság úgy dönt, hogy megkeresi a szakhatóságot, a szakhatóság állásfoglalása kötelező a hatóságra nézve.
 
 (2) Törvény vagy kormányrendelet meghatározott szakkérdésben tudományos vagy szakmai testületet, illetve szakértői szervet jelölhet ki szakhatóságként.
 

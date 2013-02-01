@@ -90,10 +90,12 @@ kb) a szabályozott elektronikus ügyintézési szolgáltatást más hatóság �
 
 kc) a hatóságnak nem minősülő olyan személy, aki a szabályozott elektronikus ügyintézési szolgáltatást ügyfelek vagy hatóságok számára ingyenesen vagy ellenérték fejében elérhetővé teszi,
 
-l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, valamint a magántitok,
+l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, a fizetési titok, valamint a magántitok,
 
 m) ügyintézési rendelkezés: az ügyfélnek az elektronikus ügyintézéssel kapcsolatos, jogszabályban meghatározott tartalmú, a jogszabályban rendszeresített űrlap szerinti formában tett és a jogszabályban kijelölt szerv (a továbbiakban: nyilvántartó szerv) által nyilvántartásba vett rendelkezése,
 
 n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását,
 
-o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
+o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató,
+
+p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy.

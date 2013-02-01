@@ -4,9 +4,13 @@
 
 (2) Ha a tényállás tisztázása azt szükségessé teszi, a hatóság az ügyfelet a kérelmére indult eljárásban nyilatkozattételre hívhatja fel. Ha az ügyfél a kérelmére indult eljárásban a hatóság felhívására nem nyilatkozik, a hatóság a rendelkezésre álló adatok alapján dönt, vagy a 31. § (2) bekezdése alapján megszünteti az eljárást.
 
-(2a) Ha az ügyfél cselekvőképtelen, személyes nyilatkozattételre csak akkor hívható fel, ha a nyilatkozatától várható bizonyíték más módon nem pótolható. A meghallgatásnak megfelelő légkörben, a cselekvőképtelen személy számára érthető módon kell megtörténnie, indokolt esetben a cselekvőképtelen személy lakóhelyén. A nyilatkozat megtételére cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél esetén csak a törvényes képviselő jelenlétében kerülhet sor, írásbeli nyilatkozat esetén a törvényes képviselő a nyilatkozatot aláírja.
+(2a) Ha az ügyfél cselekvőképtelen, személyes nyilatkozattételre csak akkor hívható fel, ha a nyilatkozatától várható bizonyíték más módon nem pótolható és ehhez a törvényes képviselője hozzájárul. A cselekvőképtelen személyt indokolt esetben a lakcímén kell meghallgatni.
 
-(2b) Ha az ügyfél és törvényes képviselője között érdekellentét van, a törvényes képviselőnek a (2a) bekezdésben meghatározott jogait a gyámhatóság gyakorolja. Ha az ügyfél a törvényes képviselőjével szemben terjeszt elő kérelmet, az érdekellentét fennállását meg kell állapítani. A gyámhatóság a cselekvőképtelen személyt törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen személy érdekében áll.
+(2b) Ha jogszabály másként nem rendelkezik, az, aki korlátozottan cselekvőképes vagy szellemi, valamint egyéb állapota miatt korlátozottan képes megítélni a nyilatkozattétel jelentőségét, nyilatkozattételre csak akkor hívható fel, ha nyilatkozatot kíván tenni és a törvényes képviselője ehhez hozzájárul.
+
+(2c) A nyilatkozat megtételére cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél esetén csak a törvényes képviselő jelenlétében kerülhet sor. Írásbeli nyilatkozat esetén a törvényes képviselő a nyilatkozatot aláírja.
+
+(2d) Ha az ügyfél és törvényes képviselője között érdekellentét van, a törvényes képviselőnek a (2a)–(2c) bekezdésben meghatározott jogait a gyámhatóság gyakorolja. Ha az ügyfél a törvényes képviselőjével szemben terjeszt elő kérelmet, az érdekellentét fennállását meg kell állapítani. A gyámhatóság a cselekvőképtelen vagy korlátozottan cselekvőképes személyt törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen vagy korlátozottan cselekvőképes személy érdekében áll.
 
 (3) Törvény vagy kormányrendelet kötelezővé teheti, hogy a hivatalból folytatott eljárásban az ügyfél, a kérelemre indult eljárásban az ellenérdekű ügyfél a hatóság erre irányuló felhívására közölje az érdemi döntéshez szükséges adatokat, és jogkövetkezményeket állapíthat meg az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetére.
 

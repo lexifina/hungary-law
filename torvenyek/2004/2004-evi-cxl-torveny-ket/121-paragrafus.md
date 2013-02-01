@@ -6,7 +6,7 @@ a) a magyar hatóság joghatósága az Európai Unió általános hatályú, kö
 
 b) az ügy nem tartozik az eljáró hatóság hatáskörébe vagy illetékességébe, kivéve, ha a hatóság a 22. § (3) bekezdése szerint járt el,
 
-c) a határozatot a szakhatóság megkeresése nélkül vagy a szakhatóság jogszabályon alapuló állásfoglalásának figyelmen kívül hagyásával hozták meg,
+c) a határozatot a szakhatóság kötelező megkeresése nélkül vagy a szakhatóság állásfoglalásának figyelmen kívül hagyásával hozták meg,
 
 d) a közigazgatási döntés tartalmát bűncselekmény befolyásolta, feltéve hogy a bűncselekmény elkövetését jogerős ítélet megállapította vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
 

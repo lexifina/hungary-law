@@ -6,6 +6,8 @@ b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelen
 
 c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
 
+(1a) Az (1) bekezdés c) pontja szerinti esetben a hatáskörrel rendelkező illetékes hatóság a jegyzőkönyvben, illetve közös jegyzőkönyvben foglaltakat bizonyítékként használhatja fel, és azok alapján közvetlenül eljárhat.
+
 (2) Nem alkalmazható az (1) bekezdés a) pontja, ha
 
 a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás lefolytatásával orvosolható,
@@ -23,6 +25,8 @@ f) a 13. § (2) bekezdés b) pontja hatálya alá tartozó jogszabályi rendelke
 g) az adatszolgáltatási vagy bejelentési kötelezettséget előíró jogszabályi rendelkezés megsértését a 13. § (2) bekezdés d) vagy e) pontja szerinti eljárásban állapítják meg, vagy
 
 h) az ügyfél a közhiteles hatósági nyilvántartásba való, jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
+
+(2a) A (2) bekezdéstől eltérően, ha a hatósági ellenőrzés az ügyfél kérelmére indult, az (1) bekezdés a) pontja a (2) bekezdés a), valamint e)–h) pontjában foglalt esetben is alkalmazható.
 
 (3) A hatóság az (1) és (2) bekezdésben foglaltak ellenőrzése céljából nyilvántartást vezet, amely tartalmazza
 

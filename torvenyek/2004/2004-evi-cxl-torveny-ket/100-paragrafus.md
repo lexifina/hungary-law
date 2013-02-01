@@ -1,6 +1,6 @@
 100. § (1) Nincs helye fellebbezésnek
 
-a) ha az ügyben törvény azt kizárja,
+a) a döntés ellen, ha az ügyben törvény azt kizárja,
 
 b) az ügyfelek részéről az egyezségüket jóváhagyó határozat ellen,
 
@@ -12,6 +12,8 @@ e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az els
 
 f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen,
 
-g) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen.
+g) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen,
 
-(2) Az (1) bekezdés a), c)–g) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.
+h) a 98. § (1a) bekezdése alapján benyújtott fellebbezés érdemi vizsgálat nélküli elutasítása esetén.
+
+(2) Az (1) bekezdés a), c)–h) pontjában meghatározott esetben az elsőfokú döntés bírósági felülvizsgálatának van helye.

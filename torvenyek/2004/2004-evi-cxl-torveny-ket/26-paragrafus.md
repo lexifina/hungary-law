@@ -20,7 +20,7 @@ a) az (1) bekezdés a) és b) pontjában szabályozott esetben tizenöt napon be
 
 b) az (1) bekezdés c) pontjában szabályozott esetben nyolc napon belül,
 
-c) ha az tanú meghallgatására, szemle lefolytatására irányul – az a) és b) ponttól eltérően – harminc napon belül,
+c)
 
 d) ha a megkeresésben kért adat elektronikusan rögzített nyilvántartásban áll rendelkezésre, és a hatóságok közötti elektronikus kapcsolattartás nem kizárt, öt napon belül
 

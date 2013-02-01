@@ -1,10 +1,10 @@
-38/A. § (1) Törvény vagy kormányrendelet rendelkezése esetén valamely jog gyakorlásához szükséges kérelmek a törvényben vagy kormányrendeletben kijelölt hatóságnál (a továbbiakban: közreműködő hatóság) együttesen nyújthatóak be, amely tíz napon belül továbbítja a kérelmeket a döntés meghozatalára hatáskörrel és illetékességgel rendelkező hatóságokhoz.
+38/A. § (1) Törvény vagy kormányrendelet rendelkezése esetén az ott megjelölt hatóságnál (a továbbiakban: közreműködő hatóság) is benyújtható a kérelem vagy együttesen valamely jog gyakorlásához szükséges több kérelem. A kormányablak e rendelkezés alkalmazásában közreműködő hatóságnak minősül.
 
-(2) Az ügyintézési határidő a kérelmeknek a hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon kezdődik.
+(2) A közreműködő hatóság a kérelmet, illetve kérelmeket öt napon belül továbbítja a döntés meghozatalára hatáskörrel és illetékességgel rendelkező hatósághoz. Jogszabály a kérelem, illetve a kérelmek továbbítására rövidebb határidőt is meghatározhat. A konzuli tisztviselő eljárásában a kérelmet haladéktalanul, de legkésőbb az első diplomáciai futárpostával kell továbbítani. Az ügyintézési határidő a kérelemnek, illetve kérelmeknek a hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon kezdődik.
 
 (3) Ha törvény vagy kormányrendelet eltérően nem rendelkezik,
 
-a) az ügyfél az illetéket és a díjat a közreműködő hatóságnál köteles megfizetni,
+a) az ügyfél az illetéket és a díjat a közreműködő hatóságnál is megfizetheti,
 
 b) a közreműködő hatóság a kérelmet a 37. § (2) bekezdésének megfelelően megvizsgálja, és az ügyfelet hiánypótlásra szólítja fel, ez azonban a hatáskörrel és illetékességgel rendelkező hatóság hiánypótlásra való felhívási jogát nem érinti,
 

@@ -4,6 +4,8 @@
 
 98. § (1) Az ügyfél az elsőfokú határozat ellen fellebbezhet. A fellebbezési jog nincs meghatározott jogcímhez kötve, fellebbezni bármely okból lehet, amelyre tekintettel az érintett a döntést sérelmesnek tartja.
 
+(1a) Törvény a fellebbezés benyújtásához indokolási kötelezettséget írhat elő. Törvény azt is előírhatja, hogy fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet.
+
 (2) Végzés csak a határozat, ennek hiányában az eljárást megszüntető végzés elleni fellebbezésben támadható meg, kivéve a (3) és (4) bekezdésben szabályozott eseteket. Törvény az önálló fellebbezést egyéb esetekben is lehetővé teheti.
 
 (3) Önálló fellebbezésnek van helye
