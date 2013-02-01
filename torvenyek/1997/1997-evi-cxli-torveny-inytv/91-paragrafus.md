@@ -19,3 +19,5 @@
 (9) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosításáról szóló 2005. évi CXXII. törvény erejénél fogva a tartós földhasználók tulajdonába került ingatlanok tulajdonjogát a tartós földhasználó kérelmére kell az ingatlan-nyilvántartásba bejegyezni.
 
 (10) Az e törvénynek az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvénnyel megállapított 37. § (3) és (5) bekezdését az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvény hatálybalépésének időpontjában folyamatban lévő ügyekben is alkalmazni kell.
+
+(11) E törvénynek az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvénnyel megállapított 37. § (3a)–(3c) és (5) bekezdését a 2013. február 1-jén és az azt követően benyújtott bejegyzési kérelmekre kell alkalmazni.
