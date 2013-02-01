@@ -188,6 +188,6 @@
 
 | (fő)jegyző |  | polgármester |
 
-4. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^22]
+4. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^23]
 
-[^22]: A 4. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^23]: A 4. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.

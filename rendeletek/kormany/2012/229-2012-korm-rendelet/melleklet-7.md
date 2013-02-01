@@ -16,7 +16,7 @@
 
 |  | (fő)jegyző |  | polgármester |
 
-7. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^25]
+7. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^26]
 
 |  | Ebr azonosító: |  |  |  |  |  |  |  |
 
@@ -42,4 +42,4 @@
 
 |  |  | (fő)jegyző |  |  | polgármester |  |
 
-[^25]: A 7. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
+[^26]: A 7. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.

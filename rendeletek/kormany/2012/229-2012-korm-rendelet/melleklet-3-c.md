@@ -188,6 +188,6 @@
 
 | (fő)jegyző |  | polgármester |
 
-3/c. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^21]
+3/c. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^22]
 
-[^21]: A 3/c. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^22]: A 3/c. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
