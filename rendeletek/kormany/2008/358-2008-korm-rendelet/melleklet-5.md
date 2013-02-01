@@ -8,7 +8,7 @@
 
 ## 1.2. székhelye:
 
-## 1.3.[^36] cégjegyzékszáma, illetve vállalkozói nyilvántartási száma:
+## 1.3.[^38] cégjegyzékszáma, illetve vállalkozói nyilvántartási száma:
 
 ## II. Telep adatai
 
@@ -38,7 +38,7 @@
 
 ## 4. Telep üzemeltetésének időtartama, műszakonként a napi munkavégzés idejének megjelölésével:
 
-## 5.[^37] Környezetvédelmi tervfejezet
+## 5.[^39] Környezetvédelmi tervfejezet
 
 ## III. Csatolt okiratok:
 
@@ -52,5 +52,5 @@
 
 5. melléklet a 358/2008. (XII. 31.) Korm. rendelethez
 
-[^36]: A 4. melléklet I. pont 1.3. alpontja a 211/2009. (IX. 29.) Korm. rendelet 10. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^37]: A 4. melléklet II. pont 5. alpontját a 441/2012. (XII. 29.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^38]: A 4. melléklet I. pont 1.3. alpontja a 211/2009. (IX. 29.) Korm. rendelet 10. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^39]: A 4. melléklet II. pont 5. alpontját a 441/2012. (XII. 29.) Korm. rendelet 13. § (3) bekezdése iktatta be.

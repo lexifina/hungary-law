@@ -92,7 +92,7 @@
 
 ## 22. textil, szőrme mosása, tisztítása
 
-6. melléklet a 358/2008. (XII. 31.) Korm. rendelethez[^38]
+6. melléklet a 358/2008. (XII. 31.) Korm. rendelethez[^40]
 
 A 358/2008. (XII. 31.) Korm. rendelet alapján a telepekről vezetett nyilvántartás
 
@@ -102,4 +102,4 @@ A 358/2008. (XII. 31.) Korm. rendelet alapján a telepekről vezetett nyilvánta
 
 * 1. engedély kiadása; 2. tevékenység bejelentése 3. adat módosítása; 4. tevékenység változása; 5 engedély visszavonása; 6. telep megszűnése.
 
-[^38]: A 6. melléklet lábjegyzete a 211/2009. (IX. 29.) Korm. rendelet 10. § (3) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^40]: A 6. melléklet lábjegyzete a 211/2009. (IX. 29.) Korm. rendelet 10. § (3) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.

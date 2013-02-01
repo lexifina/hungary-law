@@ -10,9 +10,9 @@ b) a tevékenység gyakorlását felfüggesztő, korlátozó, illetve a telep id
 
 ## a jegyző az ipari tevékenység folytatását megtiltja, illetve a telepengedélyt visszavonja, és a tevékenységet, illetve a telepet törli a nyilvántartásból.
 
-(4)[^26] A jegyző a telepengedély visszavonásáról, illetve a tevékenység megtiltásáról szóló határozatát közli az ipari tevékenység folytatójával és a 4. §-ban, valamint a 8. § (1) bekezdés a)–b) pontjában megjelölt hatóságokkal.
+(4)[^28] A jegyző a telepengedély visszavonásáról, illetve a tevékenység megtiltásáról szóló határozatát közli az ipari tevékenység folytatójával és a 4. §-ban, valamint a 8. § (1) bekezdés a)–b) pontjában megjelölt hatóságokkal.
 
-(5)[^27] A (3) bekezdés a) pontja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény hatálya alá tartozó bejelentésköteles ipari tevékenység tekintetében nem alkalmazható.
+(5)[^29] A (3) bekezdés a) pontja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény hatálya alá tartozó bejelentésköteles ipari tevékenység tekintetében nem alkalmazható.
 
-[^26]: A 10. § (4) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 6. §-ával megállapított és a 414/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^27]: A 10. § (5) bekezdését a 211/2009. (IX. 29.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^28]: A 10. § (4) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 6. §-ával megállapított és a 414/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^29]: A 10. § (5) bekezdését a 211/2009. (IX. 29.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
