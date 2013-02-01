@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 52. cikk b) pontja iii) alpontjának és 57. cikk b) pontjának végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. számú melléklet a 138/2008. (X. 18.) FVM rendelethez[^43]
+1. számú melléklet a 138/2008. (X. 18.) FVM rendelethez[^42]
 
 Értékelési szempontok
 
@@ -4538,4 +4538,4 @@
 
 1.23 Észak-Borsodi LEADER Unió Helyi Közösség Egyesület területén alkalmazandó pontozás
 
-[^43]: Az 1. számú melléklet a 159/2009. (XI. 19.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^42]: Az 1. számú melléklet a 159/2009. (XI. 19.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
