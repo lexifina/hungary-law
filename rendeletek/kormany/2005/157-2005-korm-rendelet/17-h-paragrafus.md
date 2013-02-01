@@ -1,4 +1,4 @@
-17/H. §[^29] (1) Ha a tulajdonosi közösség költségmegosztók alkalmazásáról dönt, akkor gondoskodnia kell a költségmegosztók felszereléséről, működtetéséről, karbantartásáról, időszakos ellenőrzéséről, adatainak leolvasásáról, kiértékeléséről és a fűtési díjmegosztási arányok, valamint a melegvíz-díjmegosztási arányok kiszámításáról, továbbá viseli az ezekkel kapcsolatos költségeket.
+17/H. §[^32] (1) Ha a tulajdonosi közösség költségmegosztók alkalmazásáról dönt, akkor gondoskodnia kell a költségmegosztók felszereléséről, működtetéséről, karbantartásáról, időszakos ellenőrzéséről, adatainak leolvasásáról, kiértékeléséről és a fűtési díjmegosztási arányok, valamint a melegvíz-díjmegosztási arányok kiszámításáról, továbbá viseli az ezekkel kapcsolatos költségeket.
 
 (2) A tulajdonosi közösség az (1) bekezdésben foglalt feladatok ellátására vonatkozó kötelezettségét megbízott útján is teljesítheti.
 
@@ -32,4 +32,4 @@ j) az alkalmazott korrekciós tényezőket.
 
 (7) A díjmegosztási arányok utólagosan csak számítási hiba esetén, a tulajdonosi közösség képviselőjének a távhőszolgáltatóhoz írásban történt bejelentésére módosíthatók. A díjmegosztási arányok utólagos módosításáról szóló bejelentésről, a díjmegosztási arányok utólagos módosításáról, a módosítás okáról, tartalmáról és hatásairól a tulajdonosi közösség képviselője tájékoztatja a díjfizetőket.
 
-[^29]: A Vhr. 17/H. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A Vhr. 17/H. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
