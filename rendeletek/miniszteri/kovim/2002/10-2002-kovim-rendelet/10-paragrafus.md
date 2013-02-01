@@ -4,7 +4,7 @@
 
 (2) A tevékenységi engedély iránti kérelemnek a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl tartalmaznia kell az alábbiakat:
 
-a) a kérelmező központi ügyintézésének helye, telefonszáma,
+a)[^19] a kérelmező központi ügyintézésének helye, telefonszáma, cégjegyzékben nyilvántartott kérelmező esetében továbbá cégneve, székhelye, cégjegyzékszáma,
 
 b) a tervezett gazdasági célú légiközlekedési tevékenység leírása,
 
@@ -12,7 +12,7 @@ c) a vezető és a szakmai irányító szakmai gyakorlata.
 
 (3) A kérelemhez – a (4) bekezdésben foglaltak figyelembevételével – a következőket kell csatolni:
 
-a) a vállalkozói igazolvány vagy a cégkivonat és a társasági szerződés hiteles másolata,
+a)[^20] a tevékenység végzésének jogszerűségét bizonyító okirat (pl. alapító okirat) hiteles másolata, és – a 11. §-ban foglaltak kivételével – az aláírásra jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldánya,
 
 b) a kérelmező arra vonatkozó nyilatkozata, hogy az Lt. 23/B. § (3) bekezdés b)–f) pontjában foglaltak alapján személyes megbízhatósága nincs kizárva,
 
@@ -22,7 +22,10 @@ d) a biztosítási kötelezettségre vonatkozóan az 1008/2008/EK európai parla
 
 e) a (2) bekezdés c) pontjában foglaltak tekintetében az érintett személyeknek a személyes adatok kezelésére vonatkozó hozzájáruló nyilatkozata.
 
-(4) Ha a kérelmező a kérelemhez az adó-, vám- és járulékfizetési kötelezettség tekintetében a 3 hónapnál nem régebbi hatósági igazolásokat, a vállalkozói igazolványát vagy a cégkivonatát nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a nyilvántartást vezető szervet.
+(4)[^21] Ha a kérelmező a kérelemhez az adó-, vám- és járulékfizetési kötelezettség tekintetében a 3 hónapnál nem régebbi hatósági igazolásokat nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a nyilvántartást vezető szervet.
 
 [^17]: A 10. § a 14/2010. (III. 4.) KHEM rendelet 4. §-ával megállapított szöveg.
 [^18]: A 10. § (1) bekezdése a 28/2010. (XII. 22.) NFM rendelet 2. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^19]: A 10. § (2) bekezdés a) pontja a 3/2013. (I. 29.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^20]: A 10. § (3) bekezdés a) pontja a 3/2013. (I. 29.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^21]: A 10. § (4) bekezdése a 3/2013. (I. 29.) NFM rendelet 3. § (4) bekezdése szerint módosított szöveg.

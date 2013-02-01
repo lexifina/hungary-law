@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-10-20-9
 | 2010-03-19 | 2002-10-20-93.5 | 14/2010. (III. 4.) KHEM rendelet |
 | 2011-01-01 | 2002-10-20-93.6 | 28/2010. (XII. 22.) NFM rendelet |
 | 2012-01-01 | 2002-10-20-93.7 | 14/2010. (III. 4.) KHEM rendelet |
+| 2013-02-01 | 2002-10-20-93.8 | 3/2013. (I. 29.) NFM rendelet |
