@@ -1,8 +1,4 @@
-## 1. elfogadja az 1. melléklet szerint a GOP-1.1.1/B konstrukció kódú, az „ELI lézer kutatóközpont megvalósítása (ELI-ALPS) nagyprojekt 1. fázis” című, projektjavaslat kiemelt projektként történő akciótervi nevesítését a Gazdaságfejlesztési Operatív Program 2011–2013. közötti időszakra szóló akciótervének 1. prioritásában nettó 46,998 Mrd Ft forráskerettel,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. felhívja a nemzeti fejlesztési minisztert, hogy az 1. pontban meghatározott kiemelt projektre figyelemmel a Gazdaságfejlesztési Operatív Program 2011–2013. közötti időszakra szóló akciótervének egységes szerkezetű módosítására vonatkozó javaslatát terjessze a Nemzeti Fejlesztési Kormánybizottság elé,
 
@@ -36,11 +32,7 @@
 
 ## Határidő: a Jaspers által kiadott minőségbiztosítási vélemény kézhezvételéig folyamatosan
 
-## e) felhívja a nemzeti fejlesztési minisztert, hogy a 2014–2020. közötti uniós költségvetési időszakra vonatkozó tervezés keretében biztosítsa az ELI-ALPS nagyprojekt megvalósításának 2. fázisához szükséges nettó 14,3 Mrd Ft forrást,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2012. december 31.
+## e)[^2]
 
 ## f) felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy a központi költségvetésről szóló törvényekben az ELI-ALPS nagyprojekt előrehaladásával összhangban biztosítsa az ELI ALPS projektet megvalósító ELI-HU Nonprofit Kft. nemzetközi és hazai feladatellátásához szükséges, a 2. mellékletben meghatározott összegű működési forrást,
 
@@ -50,8 +42,10 @@
 
 ## Határidő: 2012. december 31.
 
-## 4.[^1]
+## 4.[^3]
 
 1. melléklet az 1461/2012. (X. 26.) Korm. határozathoz
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pontot a 1037/2013. (II. 1.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 3. pont e) alpontját a 1037/2013. (II. 1.) Korm. határozat 3. pontja visszavonta.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
