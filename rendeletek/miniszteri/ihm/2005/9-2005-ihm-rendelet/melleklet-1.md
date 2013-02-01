@@ -1,6 +1,6 @@
-## 15. §[^4]
+## 15. §[^6]
 
-1. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^5]
+1. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^7]
 
-[^4]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 15. §-ának 12. pontja hatályon kívül helyezte.
-[^5]: Az 1. melléklet a 76/2012. (XII. 22.) NFM rendelet 13. § b) pontja szerint módosított szöveg.
+[^6]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 15. §-ának 12. pontja hatályon kívül helyezte.
+[^7]: Az 1. melléklet a 3/2013. (I. 29.) NFM rendelet 6. § (3)–(4) bekezdése szerint módosított szöveg.

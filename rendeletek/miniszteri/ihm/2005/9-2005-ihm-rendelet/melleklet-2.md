@@ -20,13 +20,7 @@
 
 ## b) Cégjegyzék, illetve a hatósági, bírósági nyilvántartás adatai
 
-## A cégjegyzéket vezető cégbíróság, bíróság, illetve hatóság [fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala] neve:
-
-## A cégbejegyzés, bírósági vagy hatósági bejegyzés időpontja, az egyéni vállalkozói igazolvány kiadásának napja, illetve ezek hiányában a létrehozó okirat kelte:
-
 ## A kérelmező cégjegyzékszáma, illetve nyilvántartási száma:
-
-## Cégforma (rt., kft. stb.), illetve szervezeti forma, egyéni vállalkozói minőség jelölése:
 
 ## Állományi létszám:
 
@@ -72,7 +66,7 @@
 
 ## 4. Mellékletként csatolva a kérelmező azon dokumentumai, amelyek a kijelölés iránti kérelem megalapozottságát igazolják:
 
-## a) A létesítő okirat vagy egyéni vállalkozói igazolvány hiteles másolata, illetve a cégkivonat eredeti vagy hiteles másolati példánya, amely a kérelem benyújtásakor három hónapnál nem régebbi;
+## a) A létesítő okirat hiteles másolata;
 
 ## b) A kérelmező minőségügyi kézikönyve vagy ennek a kijelölés szakterületéhez kapcsolódó része;
 
@@ -176,6 +170,6 @@
 
 ## cégszerű aláírás
 
-2. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^6]
+2. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^8]
 
-[^6]: A 2. melléklet a 91/2011. (XII. 30.) NFM rendelet 45. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 91/2011. (XII. 30.) NFM rendelet 45. §-a szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A kérelemhez csatolni kell az R. 5. §-ának (1) bekezdése által megjelölt mellékleteket, továbbá
 
-a) cégjegyzékben nyilvántartott kérelmező esetén három hónapnál nem régebbi cégkivonatot (eredeti vagy hiteles másolatban), valamint a létesítő okirat hiteles másolatát, egyéni cégnek nem minősülő egyéni vállalkozó esetén az egyéni vállalkozói igazolvány hiteles másolatát, egyéb szervezetek esetén a hatósági vagy bírósági nyilvántartásba vételt igazoló közokiratot, illetve a létesítő okirat hiteles másolatát;
+a)[^1] a tevékenység végzésének jogszerűségét bizonyító okirat (pl. alapító okirat) hiteles másolatát, és – az (5) bekezdésben foglaltak kivételével – az aláírásra jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldányát,
 
 b) a tanúsítási tevékenységre vonatkozó eljárási szabályzatokat;
 
@@ -19,3 +19,8 @@ f) a kérelmező által működtetett minőségirányítási rendszer megfelelő
 (3) A kérelmező az 5–6. §-okban, valamint a 10. §-ban, továbbá az R. 4. § és 7. §-ában foglalt követelmények szerinti megfelelőségének vizsgálatát a kijelölő által megbízott szakértőkből álló csoport (a továbbiakban: auditáló csoport) vagy szakértő végzi, amely (aki) a vizsgálatról minősítő jegyzőkönyvet bocsát ki. Amennyiben a kérelmező a fenti követelmények egészének vagy azok egy részének történő megfelelést a NAT által kibocsátott jegyzőkönyvvel igazolja, akkor az adott követelmény tekintetében a minősítő jegyzőkönyvön a NAT által kibocsátott jegyzőkönyvet kell érteni.
 
 (4) Az auditáló csoport tevékenységében nem vehet részt olyan személy, akire nézve a 3. § (6) és (7) bekezdésében foglalt körülmények valamelyike fennáll, vagy a bizottság tagja.
+
+(5)[^2] Ha a kérelmező cégjegyzékben nyilvántartott cég, a kijelölő a cégkivonatot, valamint – ha a kérelmező a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza – az iratot, a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+[^1]: A 4. § (2) bekezdés a) pontja a 3/2013. (I. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (5) bekezdését a 3/2013. (I. 29.) NFM rendelet 6. § (2) bekezdése iktatta be.
