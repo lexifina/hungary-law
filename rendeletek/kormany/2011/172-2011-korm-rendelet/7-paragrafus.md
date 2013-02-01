@@ -1,3 +1,0 @@
-## 6. § A felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) 28. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Azt a hallgatót, aki külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik, vagy a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított EU kék kártyával rendelkező harmadik országbeli állampolgár, a fizetendő díjak és a kapott támogatások tekintetében azonos jogok illetik meg, illetve azonos kötelezettségek terhelik, mint a felsőoktatásban részt vevő magyar állampolgárságú hallgatót.”

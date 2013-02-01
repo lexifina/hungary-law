@@ -1,1 +1,0 @@
-## 5. § Az R. 2. számú mellékletének MÁSODIK RÉSZ cím AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI alcímet követő KATONAI ALAPISMERETEK ÉRETTSÉGI VIZSGATÁRGY ÁLTALÁNOS KÖVETELMÉNYEI pont helyébe e rendelet melléklete lép.
