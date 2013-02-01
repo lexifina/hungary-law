@@ -1,4 +1,4 @@
-157/B. §[^453] (1) A földgázelosztó az üzletszabályzat részét képező elosztóhálózat-használati szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a GET. 139. § (4) bekezdésében meghatározott elosztóhálózat-használati szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
+157/B. §[^454] (1) A földgázelosztó az üzletszabályzat részét képező elosztóhálózat-használati szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a GET. 139. § (4) bekezdésében meghatározott elosztóhálózat-használati szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
 
 a) azt, hogy az írásbeli elosztóhálózat-használati szerződéssel nem rendelkező felhasználókkal 2016. július 1-jéig írásbeli elosztóhálózat-használati szerződést kell kötni,
 
@@ -22,4 +22,4 @@ szerződés kötésére ajánlatot tenni.
 
 (5) A (4) bekezdés szerinti esetben a földgázelosztó az üzletszabályzatában szereplő szerződésmintának megfelelő szerződéstervezet általa aláírt két példányát az üzletszabályzatában meghatározott módon megküldi az írásba foglalt szerződéssel nem rendelkező felhasználónak. A szerződéstervezethez az (1) bekezdés a)–d) pontját tartalmazó tájékoztatást, valamint előzetesen bérmentesített válaszborítékot kell mellékelni.
 
-[^453]: A Vhr. 157/B. §-t a 378/2011. (XII. 31.) Korm. rendelet 76. §-a iktatta be.
+[^454]: A Vhr. 157/B. §-t a 378/2011. (XII. 31.) Korm. rendelet 76. §-a iktatta be.
