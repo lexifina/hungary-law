@@ -4,7 +4,7 @@
 
 (2) Amennyiben a támogatott képzésben részt vevő fogyatékkal élő felnőtt a képzést nem fejezi be vagy a képzés befejezését követő 6 hónapon belül a képzésben részt vevők – a támogatási megállapodásban rögzített, illetőleg a képzésből kimaradók létszámával csökkentett létszámot figyelembe véve – legalább 90%-a sikeres vizsgát nem tesz, a felnőttképzési intézményt – az érintett létszám arányában folyósított támogatási összegre vonatkozóan – visszafizetési kötelezettség terheli.
 
-(3)[^15] A felnőttképzési intézmény mentesül a (2) bekezdésben meghatározott visszafizetési kötelezettség alól, amennyiben – a visszafizetés alapjául szolgáló ok felmerülését követően haladéktalanul, vagy legkésőbb a Minisztérium visszafizetési felszólításának kézhezvételétől számított nyolc napon belül – igazolást nyújt be a Minisztérium felé arra vonatkozóan, hogy
+(3)[^17] A felnőttképzési intézmény mentesül a (2) bekezdésben meghatározott visszafizetési kötelezettség alól, amennyiben – a visszafizetés alapjául szolgáló ok felmerülését követően haladéktalanul, vagy legkésőbb a Minisztérium visszafizetési felszólításának kézhezvételétől számított nyolc napon belül – igazolást nyújt be a Minisztérium felé arra vonatkozóan, hogy
 
 a) a képzésben részt vevő önhibáján kívüli okból nem fejezte be a képzést, illetve nem tett vizsgát, vagy
 
@@ -20,4 +20,4 @@ c) a normatív támogatás ellenőrzése szempontjából szükséges, az Fktv. m
 
 A visszafizetési kötelezettség attól az időponttól kezdődően terheli a felnőttképzési intézményt, amikortól az igénylés jogszerűségének ellenőrzését nem lehetett elvégezni.
 
-[^15]: A 10. § (3) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (90) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^17]: A 10. § (3) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (90) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

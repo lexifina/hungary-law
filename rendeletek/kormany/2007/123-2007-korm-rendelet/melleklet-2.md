@@ -76,6 +76,6 @@
 
 |  | cégszerű aláírás |
 
-2. számú melléklet a 123/2007. (V. 31.) Korm. rendelethez[^17]
+2. számú melléklet a 123/2007. (V. 31.) Korm. rendelethez[^19]
 
-[^17]: A 2. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^19]: A 2. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 46. §-a szerint módosított szöveg.
