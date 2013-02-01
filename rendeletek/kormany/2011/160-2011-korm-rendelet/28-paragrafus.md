@@ -1,4 +1,4 @@
-28. § (1)[^14] Ez a rendelet
+28. § (1)[^15] Ez a rendelet
 
 a) az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet,
 
@@ -16,7 +16,7 @@ e) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról 
 
 a) a fegyverkereskedelem ellenőrzéséről szóló, 2003. június 23-i 2003/468/KKBP tanácsi együttes fellépésnek,
 
-b)[^15] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2012. március 22-i 2012/10/EU bizottsági irányelvnek,
+b)[^16] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2012. március 22-i 2012/10/EU bizottsági irányelvnek,
 
 c) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspontnak,
 
@@ -30,5 +30,5 @@ g) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 való megfelelést szolgálja.
 
-[^14]: A 28. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^15]: A 28. § (2) bekezdés b) pontja a 209/2012. (VII. 27.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^15]: A 28. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^16]: A 28. § (2) bekezdés b) pontja a 209/2012. (VII. 27.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

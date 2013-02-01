@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-160-20-
 | 2012-07-04 | 2011-160-20-22.2 | 144/2012. (VII. 3.) Korm. rendelet |
 | 2012-08-27 | 2011-160-20-22.3 | 209/2012. (VII. 27.) Korm. rendelet |
 | 2012-10-12 | 2011-160-20-22.4 | 286/2012. (X. 11.) Korm. rendelet |
+| 2013-02-01 | 2011-160-20-22.5 | 355/2012. (XII. 13.) Korm. rendelet |

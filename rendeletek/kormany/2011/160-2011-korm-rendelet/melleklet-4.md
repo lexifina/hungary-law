@@ -28,7 +28,7 @@
 
 ## 2. az eseti tevékenységi engedélykérelem kivételével a vállalkozás Belső Megfelelési Programját,
 
-## 3. a vállalkozás vezetőjének, 3 hónapnál nem régebben kiállított közjegyzői aláírás-hitelesítéssel ellátott címpéldányát; vagy az ügyvéd által 3 hónapnál nem régebben kiállított, cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját,
+## 3.[^18] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát,
 
 ## 4. amennyiben az ügyben nem a vállalkozás képviseletére jogosult jár el, az eljáró ügyintéző meghatalmazását,
 
@@ -37,3 +37,5 @@
 ## 6. határon átnyúló szolgáltatás esetében a szolgáltató hitelt érdemlő igazolását, hogy az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban vállalkozásként bejegyezték, tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
 
 4. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez
+
+[^18]: A 3. melléklet II. 3. pontja a 355/2012. (XII. 13.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg.
