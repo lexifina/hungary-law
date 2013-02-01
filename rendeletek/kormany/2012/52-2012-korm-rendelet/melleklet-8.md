@@ -1,4 +1,4 @@
-8. melléklet az 52/2012. (III. 28.) Korm. rendelethez
+8. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^4]
 
 A 3. § (3) bekezdése szerinti vállalkozási importengedély iránti kérelem űrlapja és mellékletei
 
@@ -70,6 +70,8 @@ Munkahelyek felsorolása
 
 A vállalkozási import engedély iránti kérelem kötelező mellékletei:
 
-a) első alkalommal a kérelmező képviseletére vagy jegyzésre jogosult személy közjegyző által hitelesített aláírási címpéldánya, vagy ügyvéd által ellenjegyzett aláírás-mintája, illetve az ezekkel egyenértékű, aláírás-mintaként szolgáló más közhiteles okmány,
+a) – az 5. § (4) bekezdése kivitelével – első alkalommal a kérelmező képviseletére vagy jegyzésre jogosult személy közjegyző által hitelesített aláírási címpéldánya, vagy ügyvéd által ellenjegyzett aláírás-mintája, illetve az ezekkel egyenértékű, aláírás-mintaként szolgáló más közhiteles okmány,
 
 b) a vállalkozási szerződés és a teljesítési szerződés egy eredeti és egy másolati példánya.
+
+[^4]: A 8. melléklet a 355/2012. (XII. 13.) Korm. rendelet 47. §-a szerint módosított szöveg.

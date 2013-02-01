@@ -7,3 +7,7 @@
 (2) A benyújtott kérelmekben, valamint az azokhoz csatolt okmányokban foglalt valamennyi adat valódiságáért az ügyfél felel.
 
 (3) Az e rendelet hatálya alá tartozó ügyletekkel kapcsolatos okmányokat az ügyfélnek az adott ügylet lebonyolítási évének utolsó napjától számított öt évig kell megőriznie és hatósági ellenőrzés céljából hozzáférhetővé tennie.
+
+(4)[^1] Ha az ügyfél cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az MKEH az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+[^1]: Az 5. § (4) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 46. § (1) bekezdése iktatta be.
