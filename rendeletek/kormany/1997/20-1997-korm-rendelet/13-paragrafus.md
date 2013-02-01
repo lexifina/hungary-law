@@ -38,7 +38,7 @@ megküldi az Igazgatóságnak. Az igénylési határidő elmulasztása jogveszt�
 
 (9) Az új fenntartó, amely első alkalommal nyújt be normatív hozzájárulás és támogatás iránti igényt, az igénylési laphoz köteles csatolni:
 
-a)[^26] közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírásmintáját, adószámát, valamennyi bankszámlaszerződésének hiteles másolatát,
+a)[^26] közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát – a (9a) bekezdés kivételével –, adószámát, valamennyi bankszámlaszerződésének hiteles másolatát,
 
 b)[^27] az intézmény nyilvántartásba vételéről rendelkező jogerős határozatot, a jogerős működési engedélyét, alapító okiratát, fizetési számlájának számát, adószámát,
 
@@ -46,7 +46,9 @@ c)[^28] az e bekezdés szerinti valamennyi fizetési számlára vonatkozó felha
 
 d) nyilatkozatát arról, hogy sem neki, sem az intézménynek harminc napon túli köztartozása nincs.
 
-(10)[^29] A (9) bekezdésben felsorolt okiratok másolatát közjegyző vagy – az eredeti okiratok alapján – az Igazgatóság hitelesíti. Ha a fenntartó több fizetési számlával rendelkezik, meg kell jelölnie azt a fizetési számlát, amelyre a normatív hozzájárulás és támogatás folyósítását kéri. Az OM azonosítót az Igazgatóság ellenőrzi, az igénylésekkel összefüggő új és módosított adatokat a KIR-ből átveszi. Ha a fenntartó a KIR-ben tárolt okiratokat nem küldi meg, azt az Igazgatóság a KIR adatkezelőjétől megkéri.
+(9a)[^29] Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az Igazgatóság az iratot elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(10)[^30] A (9) bekezdésben felsorolt okiratok másolatát közjegyző vagy – az eredeti okiratok alapján – az Igazgatóság hitelesíti. Ha a fenntartó több fizetési számlával rendelkezik, meg kell jelölnie azt a fizetési számlát, amelyre a normatív hozzájárulás és támogatás folyósítását kéri. Az OM azonosítót az Igazgatóság ellenőrzi, az igénylésekkel összefüggő új és módosított adatokat a KIR-ből átveszi. Ha a fenntartó a KIR-ben tárolt okiratokat nem küldi meg, azt az Igazgatóság a KIR adatkezelőjétől megkéri.
 
 (11) Ha a fenntartó új intézményt, új feladatellátási helyet létesít, új alaptevékenységgel bővíti az intézmény feladatát, az igénylési laphoz csatolnia kell a (9) bekezdésben meghatározott okiratok közül azokat, amelyeket a változás érintett. Új intézmény, új feladatellátási hely, új alaptevékenység az az intézmény, az a feladatellátási hely, az az alaptevékenység, amelyre vonatkozóan a fenntartó első alkalommal nyújt be igénylést normatív hozzájárulásra és támogatásra.
 
@@ -55,7 +57,8 @@ d) nyilatkozatát arról, hogy sem neki, sem az intézménynek harminc napon tú
 [^23]: A 12/I. §-t a 229/2007. (VIII. 31.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés d) pontja.
 [^24]: A 13. §-t megelőző alcím a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^25]: A 13. § a 213/2011. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^26]: A 13. § (9) bekezdés a) pontja a 229/2012. (VIII. 28.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
+[^26]: A 13. § (9) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^27]: A 13. § (9) bekezdés b) pontja a 229/2012. (VIII. 28.) Korm. rendelet 54. § b) pontja szerint módosított szöveg.
 [^28]: A 13. § (9) bekezdés c) pontja a 229/2012. (VIII. 28.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
-[^29]: A 13. § (10) bekezdése a 229/2012. (VIII. 28.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^29]: A 13. § (9a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^30]: A 13. § (10) bekezdése a 229/2012. (VIII. 28.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.

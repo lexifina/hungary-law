@@ -1,6 +1,6 @@
-## A közoktatási feladatot ellátó intézményt fenntartó országos kisebbségi önkormányzat kiegészítő támogatása igénylésének, elszámolásának és ellenőrzésének rendje[^78]
+## A közoktatási feladatot ellátó intézményt fenntartó országos kisebbségi önkormányzat kiegészítő támogatása igénylésének, elszámolásának és ellenőrzésének rendje[^80]
 
-17/G. §[^79] (1) Az intézményt fenntartó országos nemzetiségi önkormányzat számára a központi költségvetésről szóló törvényben meghatározott kiegészítő támogatás megállapítását az országos nemzetiségi önkormányzati intézményfenntartó részére megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján a Budapesti és Pest Megyei Igazgatóság országos illetékességgel végzi.
+17/G. §[^81] (1) Az intézményt fenntartó országos nemzetiségi önkormányzat számára a központi költségvetésről szóló törvényben meghatározott kiegészítő támogatás megállapítását az országos nemzetiségi önkormányzati intézményfenntartó részére megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján a Budapesti és Pest Megyei Igazgatóság országos illetékességgel végzi.
 
 (2) A Budapesti és Pest Megyei Igazgatóság az országos nemzetiségi önkormányzatok székhelye szerinti Igazgatóságok adatszolgáltatása alapján figyelembe vehető gyermek-, tanulólétszám alapján az októberi igénylés alapján szeptember–december hónapokra határozatban – feladatonkénti bontásban – állapítja meg az országos nemzetiségi önkormányzati intézményfenntartó (1) bekezdés szerinti jogosultságát.
 
@@ -12,5 +12,5 @@
 
 (6) Az elszámolás és az ellenőrzés során a normatív hozzájárulás és támogatás elszámolására és ellenőrzésére vonatkozó szabályokat kell alkalmazni.
 
-[^78]: A 17/G. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
-[^79]: A 17/G. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be, szövege a 229/2012. (VIII. 28.) Korm. rendelet 53. § (7) bekezdésével megállapított szöveg.
+[^80]: A 17/G. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^81]: A 17/G. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be, szövege a 229/2012. (VIII. 28.) Korm. rendelet 53. § (7) bekezdésével megállapított szöveg.
