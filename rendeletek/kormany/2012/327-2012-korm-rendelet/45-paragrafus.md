@@ -1,3 +1,1 @@
-## 44. §[^5]
-
-[^5]: A 44. § a 43. § (3) bekezdése alapján 2013. február 1-jén lép hatályba.
+## „d) cégjegyzékben nyilvántartott cég esetén a képviselőjének közjegyző által hitelesített aláírási címpéldányát, vagy eredeti vagy a bank által hitelesített banki aláírás-bejelentő kartonját, azzal, hogy ha a cég a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg;”

@@ -10,7 +10,7 @@ c) be kell mutatni a rehabilitációs célú munkavégzés körülményeit.
 
 (3) A kérelemhez csatolni kell
 
-a) a gazdasági társaságokról szóló törvény hatálya alá tartozó kérelmező esetén a cégbíróság által kibocsátott, 30 napnál nem régebbi cégkivonat másolatát;
+a)[^1] cégjegyzékben nyilvántartott cég esetén a cég nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatot. A cégkivonatot a Hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg;
 
 b) egyéb kérelmező esetén
 
@@ -20,11 +20,7 @@ bb) egyéni vállalkozó esetén a vállalkozói igazolvány másolatát, illetv
 
 c) a munkáltató képviseletére jogosult személy aláírási címpéldányának vagy a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 9. § (3) bekezdésének megfelelően készített, ügyvéd által ellenjegyzett aláírás-minta másolatát;
 
-d) az akkreditálni kívánt telephely
-
-da) használatának jogcímét tanúsító okirat másolatát,
-
-db) működéséhez szükséges engedélyek másolatát;
+d)[^2] cégjegyzékben nyilvántartott cég esetén a képviselőjének közjegyző által hitelesített aláírási címpéldányát, vagy eredeti vagy a bank által hitelesített banki aláírás-bejelentő kartonját, azzal, hogy ha a cég a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg;
 
 e) a munkáltató tevékenységének, továbbá a rehabilitációs foglalkoztatás lehetőségeinek ismertetését, valamint az erre vonatkozó terveket;
 
@@ -73,3 +69,6 @@ mc) telephelyenként a létesített munkakörök megnevezése,
 md) telephelyenként annak megjelölése, hogy a munkáltató az egyes munkakörök tekintetében hány álláshellyel rendelkezik.
 
 (4) Ha a kérelmező a (3) bekezdés a) pontjában, b) pont bb) alpontjában és f) pontjában foglalt adatokat nem igazolja, a Hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz, az adatokról nyilvántartást vezető bírósághoz, illetve a köztartozás tekintetében megvizsgálja a köztartozásmentes adózói adatbázist.
+
+[^1]: Az 5. § (3) bekezdés a) pontja a 44. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 5. § (3) bekezdés d) pontja a 44. § (2) bekezdésével megállapított szöveg.
