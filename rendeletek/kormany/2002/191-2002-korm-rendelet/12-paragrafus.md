@@ -1,3 +1,3 @@
-## 11. §[^38] A polgári robbantási tevékenység során talált robbanóanyagot haladéktalanul be kell jelenteni a bányafelügyeletnek, egyéb tevékenység során talált robbanóanyagot a rendőrségnek.
+## 10–11. §[^34]
 
-[^38]: A 11. § a 101/2004. (IV. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^34]: A 10–11. §-t a 18/2013. (I. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
