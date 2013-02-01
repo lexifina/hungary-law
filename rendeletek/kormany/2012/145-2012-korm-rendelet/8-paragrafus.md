@@ -4,7 +4,7 @@ a) a földtani kutatási engedély átruházására vonatkozó, közokiratba vag
 
 b) az átvevő közokiratba vagy ügyvéd, jogtanácsos által ellenjegyzett magánokiratba foglalt nyilatkozatát a kutatási engedélyben foglalt tevékenységgel összefüggésben az átadót terhelő kötelezettségek átvállalásáról,
 
-c) az átvevő egy hónapnál nem régebbi cégkivonatát,
+c)[^2]
 
 d) az átvevő ajánlatát a kutatási biztosítékra, amely nem lehet kevesebb az átadó által nyújtott biztosítéknál,
 
@@ -20,4 +20,7 @@ i) a kérelem benyújtását megelőző három évre vonatkozó, az átvevő sza
 
 j) az átvevő fizetőképességét igazoló pénzintézeti igazolást.
 
-(2) Ha az átvevő a kérelemhez nem mellékeli az (1) bekezdés c) pontja szerinti cégkivonatot, a bányafelügyelet az ügy elbírálásához szükséges adatok szolgáltatása iránt megkeresi a cégnyilvántartást vezető szervet.
+(2)[^3] Ha az átvevő cégjegyzékben nyilvántartott cég a cég cégkivonatát a bányafelügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+[^2]: A 8. § (1) bekezdés c) pontját a 355/2012. (XII. 13.) Korm. rendelet 50. §-a hatályon kívül helyezte.
+[^3]: A 8. § (2) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
