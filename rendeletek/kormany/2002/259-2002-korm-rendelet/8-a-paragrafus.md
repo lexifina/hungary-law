@@ -1,18 +1,18 @@
-## Bejelentési kötelezettség[^117]
+## Bejelentési kötelezettség[^119]
 
-8/A. §[^118] (1) A fenntartó köteles az első fokú működést engedélyező szervnek a változást követő tizenöt napon belül bejelenteni, ha
+8/A. §[^120] (1) A fenntartó köteles az első fokú működést engedélyező szervnek a változást követő tizenöt napon belül bejelenteni, ha
 
-a)[^119] bölcsőde, hetes bölcsőde, családi napközi, családi gyermekfelügyelet, alternatív napközbeni ellátás, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén
+a)[^121] bölcsőde, hetes bölcsőde, családi napközi, családi gyermekfelügyelet, alternatív napközbeni ellátás, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén
 
 aa) az ellátásba a szolgáltató (intézmény) elhelyezésére korábban nem szolgáló épületet (épületrészt) vont be, vagy az ellátásból korábban erre a célra szolgáló épületet (épületrészt) vont ki,
 
-ab)[^120]
+ab)[^122]
 
 b) az engedélyezés alapjául szolgáló egyéb lényeges körülményben bekövetkező változást, így különösen, ha a szolgáltató (intézmény, hálózat, telephely) vezetője megváltozik, vagy a szakmai program, illetve ellátási szerződés lényeges eleme megváltozik,
 
 feltéve, hogy a változások a működési engedély módosítását nem teszik szükségessé.
 
-(2)[^121]
+(2)[^123]
 
 (3) Az (1) bekezdés b) pontja szerinti bejelentési kötelezettség nem teljesítése esetén gyermekvédelmi igazgatási bírság (a továbbiakban: bírság) nem szabható ki.
 
@@ -36,11 +36,11 @@ c) a jogutód nélküli megszűnése iránt eljárás indult, és ha az eljárá
 
 (7) Az (5)–(6) bekezdés alapján teljesített bejelentéshez mellékelni kell a bejelentésben foglaltakat alátámasztó okirat másolatát. Ha a bejelentésre kötelezett az (5) bekezdés a)–b) pontja vagy a (6) bekezdés, illetve bírósági nyilvántartásba vett fenntartó esetén a (5) bekezdés c) pontja alapján teljesített bejelentésben foglaltakat nem igazolja, és az adat az egyéni vállalkozók nyilvántartásában, illetve bírósági nyilvántartásban rendelkezésre áll, a bejelentésben foglaltakat a működést engedélyező szerv a nyilvántartásból ellenőrzi.
 
-(8)[^122] A működést engedélyező szerv a (4)–(6) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, megyei kirendeltséget, az igazgatóságot és a gyermekjogi képviselőt.
+(8)[^124] A működést engedélyező szerv a (4)–(6) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, megyei kirendeltséget, az igazgatóságot és a gyermekjogi képviselőt.
 
-[^117]: A 8/A. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^118]: A 8/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^119]: A 8/A. § (1) bekezdés a) pontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^120]: A 8/A. § (1) bekezdés a) pont ab) alpontját a 317/2012. (XI. 13.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^121]: A 8/A. § (2) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^122]: A 8/A. § (8) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 1. pontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (8) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
+[^119]: A 8/A. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^120]: A 8/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^121]: A 8/A. § (1) bekezdés a) pontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^122]: A 8/A. § (1) bekezdés a) pont ab) alpontját a 317/2012. (XI. 13.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^123]: A 8/A. § (2) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^124]: A 8/A. § (8) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 1. pontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (8) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.

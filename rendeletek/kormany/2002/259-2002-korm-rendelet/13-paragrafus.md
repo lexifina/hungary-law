@@ -1,6 +1,6 @@
 ## A szolgáltatás igénybevételéről szóló megállapodás
 
-13. § (1)[^139] Ha a szolgáltatás igénybevétele nem hatósági határozat alapján történik, a gyermek törvényes képviselője és a szolgáltató (intézmény, működtető) vezetője – az ellátás kezdetétől számított 15 napon belül – megállapodást köt, amely tartalmazza különösen
+13. § (1)[^141] Ha a szolgáltatás igénybevétele nem hatósági határozat alapján történik, a gyermek törvényes képviselője és a szolgáltató (intézmény, működtető) vezetője – az ellátás kezdetétől számított 15 napon belül – megállapodást köt, amely tartalmazza különösen
 
 a) az ellátás kezdetének időpontját,
 
@@ -10,7 +10,7 @@ c) az intézmény által nyújtott szolgáltatásokat,
 
 d) a térítési díj fizetésére kötelezett személy nevét, lakcímét,
 
-e)[^140] a személyi térítési díj összegét,
+e)[^142] a személyi térítési díj összegét,
 
 f) az ellátás megszűnésére vonatkozó szabályokat.
 
@@ -18,20 +18,20 @@ f) az ellátás megszűnésére vonatkozó szabályokat.
 
 a) a gyermekkel együtt ellátásban részesülő személy gyermekgondozással kapcsolatos feladatait, a gondozás módját, mértékét,
 
-b)[^141] a szülő nyilatkozatát arról, hogy a gyermekjóléti szolgáltatást nyújtó szolgáltatóval, illetve intézménnyel együttműködik.
+b)[^143] a szülő nyilatkozatát arról, hogy a gyermekjóléti szolgáltatást nyújtó szolgáltatóval, illetve intézménnyel együttműködik.
 
-(3)[^142] Gyámhatósági határozattal elrendelt utógondozói ellátás esetén az utógondozói ellátásra jogosult fiatal felnőtt és a szolgáltató (intézmény, működtető) vezetője – az ellátás kezdetétől számított tizenöt napon belül – megállapodást köt, amely tartalmazza különösen
+(3)[^144] Gyámhatósági határozattal elrendelt utógondozói ellátás esetén az utógondozói ellátásra jogosult fiatal felnőtt és a szolgáltató (intézmény, működtető) vezetője – az ellátás kezdetétől számított tizenöt napon belül – megállapodást köt, amely tartalmazza különösen
 
 a) az ellátás kezdetének időpontját,
 
 b) az intézmény által nyújtott szolgáltatásokat,
 
-c)[^143] a személyi térítési díj összegét,
+c)[^145] a személyi térítési díj összegét,
 
 d) az ellátás megszűnésére vonatkozó szabályokat.
 
-[^139]: A 13. § (1) bekezdés bevezető szövegrésze a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bg) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^140]: A 13. § (1) bekezdésének e) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának bg) alpontja szerint módosított szöveg. E módosító rendelet 31. § (1) bekezdése alapján a rendelkezést a jogerősen le nem zárt ügyekben is alkalmazni kell.
-[^141]: A 13. § (2) bekezdésének b) pontja a 376/2004. (XII. 28.) Korm. rendelet 25. § (2) bekezdés b) pontjának bg) alpontja szerint módosított szöveg.
-[^142]: A 13. § (3) bekezdés nyitó szövegrésze a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bg) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 30. § g) pontja szerint módosított szöveg.
-[^143]: A 13. § (3) bekezdésének c) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának bg) alpontja szerint módosított szöveg. E módosító rendelet 31. § (1) bekezdése alapján a rendelkezést a jogerősen le nem zárt ügyekben is alkalmazni kell.
+[^141]: A 13. § (1) bekezdés bevezető szövegrésze a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bg) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^142]: A 13. § (1) bekezdésének e) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának bg) alpontja szerint módosított szöveg. E módosító rendelet 31. § (1) bekezdése alapján a rendelkezést a jogerősen le nem zárt ügyekben is alkalmazni kell.
+[^143]: A 13. § (2) bekezdésének b) pontja a 376/2004. (XII. 28.) Korm. rendelet 25. § (2) bekezdés b) pontjának bg) alpontja szerint módosított szöveg.
+[^144]: A 13. § (3) bekezdés nyitó szövegrésze a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bg) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 30. § g) pontja szerint módosított szöveg.
+[^145]: A 13. § (3) bekezdésének c) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának bg) alpontja szerint módosított szöveg. E módosító rendelet 31. § (1) bekezdése alapján a rendelkezést a jogerősen le nem zárt ügyekben is alkalmazni kell.
