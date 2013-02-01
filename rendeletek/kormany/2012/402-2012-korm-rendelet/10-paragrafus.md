@@ -1,5 +1,5 @@
-## 9. §[^11]
+## 9. §[^6]
 
 ## 10. A területrendezési hatósági eljárásokról szóló 76/2009. (IV. 8.) Korm. rendelet módosítása
 
-[^11]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

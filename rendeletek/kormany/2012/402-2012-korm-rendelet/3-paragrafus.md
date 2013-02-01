@@ -2,9 +2,10 @@
 
 ## 40/2002. (III. 21.) Korm. rendelet módosítása
 
-3. § (1)[^4]
+3. § (1) A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet 4. §-a a következő (1a) bekezdéssel egészül ki:
 
-(2)[^5]
+## „(1a) Az (1) bekezdésben foglalt esetekben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság hat hónapig felhasználható előzetes szakhatósági állásfoglalást ad ki.”
 
-[^4]: A 3. § (1) bekezdése a 22. § (2) bekezdése alapján 2013. február 1-jén lép hatályba.
-[^5]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2)[^3]
+
+[^3]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
