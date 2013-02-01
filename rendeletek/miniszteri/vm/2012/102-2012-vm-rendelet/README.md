@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-102-20-
 | 2012-10-14 | 2012-102-20-2Y.2 | 105/2012. (X. 11.) VM rendelet |
 | 2012-11-10 | 2012-102-20-2Y.3 | 113/2012. (XI. 9.) VM rendelet |
 | 2012-11-29 | 2012-102-20-2Y.4 | 113/2012. (XI. 9.) VM rendelet |
+| 2013-02-01 | 2012-102-20-2Y.5 | 137/2012. (XII. 22.) VM rendelet |
