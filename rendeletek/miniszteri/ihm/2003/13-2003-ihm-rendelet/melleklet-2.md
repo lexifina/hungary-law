@@ -18,19 +18,9 @@
 
 ## E-mail:
 
-## b) A cégbejegyzés/nyilvántartás adatai
+## Nyilvántartási száma, illetve cégjegyzékszáma:
 
-## Cégbíróság/nyilvántartó:
-
-## A cégbejegyzés/nyilvántartás kelte vagy a cégbejegyzés/nyilvántartás iránti kérelem benyújtásának kelte: .
-
-## .............................................................. száma:
-
-## Szervezeti forma (rt., kft. stb.):
-
-## Alkalmazotti létszám:
-
-## (Külföldi szervezet esetében szükséges a külföldi szervezet nyilvántartásának igazolása és annak magyar nyelvű hiteles fordítása, illetve annak hiteles fordításban történt igazolása, hogy a céget a hazai jog szerinti kereskedelmi nyilvántartásba vették.)
+## b) Alkalmazotti létszám:
 
 ## c) A szervezet vezetője
 
@@ -278,7 +268,7 @@
 
 ## Kötelezően csatolandó mellékletek:
 
-## 1. Három hónapnál nem régebbi cégkivonat vagy ezzel egyenértékű okmány.
+## 1.
 
 ## 2. Alapító okirat vagy ezzel egyenértékű okmány.
 
@@ -304,7 +294,7 @@
 
 ## 4. Akkreditálási okirat(ok) másolatai.
 
-2. számú melléklet a 13/2003. (X. 3.) IHM rendelethez[^15]
+2. számú melléklet a 13/2003. (X. 3.) IHM rendelethez[^16]
 
 KIJELÖLÉSI OKIRAT
 
@@ -342,4 +332,4 @@ Budapest, 200.... év ............................... hó ....... nap.
 
 |  | informatikai és hírközlési miniszter |
 
-[^15]: A 2. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 35. § b) pontja szerint módosított szöveg.
+[^16]: A 2. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 35. § b) pontja szerint módosított szöveg.
