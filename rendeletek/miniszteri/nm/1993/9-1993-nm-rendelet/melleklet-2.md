@@ -1,144 +1,268 @@
-## Tételes elszámolás alá eső hatóanyagok jegyzéke és kódja
+## Tételes elszámolás alá eső hatóanyagok jegyzéke és kódja, indikációs területek és a felírásra jogosultak köre
 
-| OENO | Kompetencia | Gyógyszer hatóanyagának neve | Finanszírozott indikációs kör |
+## 1/a1.
 
-| 06010 | A 4. számú melléklet szerint | trastuzumab | Fokozott HER2-expressziót vagy HER2 génamplifikációt mutató metasztatikus és korai emlőkarcinóma. |
+## TÁMOGATOTT INDIKÁCIÓK:
 
-| 06011 | A 4. számú melléklet szerint | pemetrexed | Lokálisan előrehaladott vagy metasztatikus adenocarcinoma és nagysejtes carcinoma típusú, nem kissejtes tüdőrák elsővonalbeli kezelése ciszplatin kombinációban. Lokálisan előrehaladott vagy metasztatikus nem laphámsejtes, nem kissejtes tüdőrák másodvonalbeli kezelése monoterápiában. Nem rezekálható malignus pleuralis mesothelioma elsővonalbeli kezelése ciszplatin kombinációban. |
+## Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI > 300) kezelésére – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján:
 
-| 06030 | 1. | agalsidase beta | Fabry-betegség (α-galaktozidaz A hiány) |
+## a) amennyiben az alkalmazott hagyományos (szteroid indukciós, majd 3 hónapos fenntartó immunszuppresszív) terápia ellenére a betegség aktivitása nem csökken,
 
-| 06032 | 1. | agalsidase alfa | Fabry-betegség (α-galaktozidaz A hiány) |
+## b) amennyiben megfelelő (legalább 2 mg/ttkg vagy a legmagasabb tolerált) dózisú azathioprin mellett is kialakult szisztémás szteroid függőség (3 hónapon túl szisztémásan 10 mg/nap dózisnál nagyobb prednisolon ekvivalens dózis),
 
-| 06036 | A 4. számú melléklet szerint | bevacizumab | Metasztatikus colorectalis carcinoma első és másodvonalbeli kezelése fluoropirimidin-alapú kemoterápiával kombinációban. HER2-negatív metasztatikus emlőkarcinóma elsővonalbeli kezelése paclitaxel kombinációban. Inoperábilis előrehaladott, metasztatikus vagy kiújuló tüdő adenocarcinoma elsővonalbeli kezelése platina-alapú kemoterápiával kombinációban. |
+## c) szteroid rezisztencia (négy héten át alkalmazott 0,75 mg/ttkg prednisolon ekvivalens szteroid dózisra nem reagáló) esetekben,
 
-| 06038 | 2. | nelarabin | T-sejtes akut lymphoblastos leukaemia (T-ALL) és T-sejtes lymphoblastos lymphoma (T-LBL) kezelésére, amikor a beteg legalább két, előzőleg alkalmazott kemoterápiás kezeléssorozatra sem reagált, vagy a kezelések után relapszus következett be. |
+## d) amennyiben a hagyományos gyógykezelés toxicitása miatt nem alkalmazható a teljes indukciós kezelés időtartamáig.
 
-| 06050 | 8. | cetrolizumab | Rheumatoid arthritis (több mint 4 ACR kritérium legalább 3 hónapja) kezelésére, amennyiben 3 hónapig alkalmazott kombinációs DMARD kezelés ellenére (beleértve a metotrexátot, vagy hatástalanság, intolerancia esetén a leflunomid alkalmazást is) a betegség aktivitása 5,1 DAS28 felett van 3 hónapig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2) a remisszió fennállásáig (készítményváltás lehetséges mellékhatás vagy hatásvesztés esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
+## Ezeket követően megfelelő válaszkészség esetén (CDAI minimum 70 pontos csökkenése) a kezelés folytatható mellékhatás, hatásvesztés vagy progresszió megjelenéséig, azonban a kezelőorvosnak mérlegelnie kell a kezelés felfüggesztését legalább 6 hónapja tartó stabil remisszió esetén. Amennyiben a kezelés felfüggesztésre kerül, panaszmentes időszakot követő relapszus esetében a kezelés ismétlése megkísérelhető. Folyamatos kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni a kezelés további folytatásának elbírálása érdekében. Mellékhatás vagy hatásvesztés esetén készítményváltás lehetséges.
 
-| 06051 | 8. 10. 11. | etanercept | Rheumatoid arthritis (több mint 4 ACR kritérium legalább 3 hónapja) kezelésére, amennyiben 3 hónapig alkalmazott kombinációs DMARD kezelés ellenére (beleértve a metotrexátot, vagy hatástalanság, intolerancia esetén a leflunomid alkalmazást is) a betegség aktivitása 5,1 DAS28 felett van 3 hónapig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2) a remisszió fennállásáig (készítményváltás lehetséges mellékhatás vagy hatásvesztés esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Juvenilis idiopáthiás arthritis poliartikuláris típusainak kezelésére, a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (Giannini javulási kritérium mértéke 30%-nál magasabb) az aktivitás rendszeres kontrollja mellett a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Spondylitis ankylopoeticában, amennyiben radiológiailag legalább 2-es stádiumú bilateralis, vagy 3-as, 4-es stádiumú unilateralis sacroileitis, és legalább 3 hónapja háti fájdalom, frontális és szagittális síkban beszűkült gerinc-, illetve beszűkült légzőmozgás igazolt, és a BASDAI aktivitási index >40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökkent, három hónapig, ezt követően megfelelő válaszkészség esetén (BASDAI index minimum relatív 50%-os csökkenése esetén) a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Aktív, súlyos arthritis psoriaticában szenvedő beteg részére, amennyiben axiális érintettség esetén a BASDAI aktivitási index (0-100) átlaga több mint 40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökken, vagy perifériás érintettség esetén (aktivitási index 5,1 DAS28 érték felett) legalább 3 hónapig tartó DMARD terápia hatására (metotrexát, szulfaszalazin, ciklosporin, leflunomid) a betegség aktivitása igazoltan nem csökken vagy súlyos bőrérintettség esetén (PASI nagyobb, mint 15) reumatológus és bőrgyógyász szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (BASDAI index minimum relatív 50%-os csökkenése, vagy DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2; vagy a PASI index minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (készítményváltás lehetséges mellékhatás esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Súlyos tünetekkel (PASI ≥15 vagy BSA ≥10 vagy DLQI ≥10) járó plakkos psoriasisban szenvedő beteg részére, standard szisztémás kezeléssel (acitrein, cyclosporin, metotrexát, fototerápia [szűk spektrumú UVB vagy PUVA]) szembeni dokumentált intolerancia vagy kontraindikáció esetén, illetve amennyiben legalább 3 hónapig tartó standard szisztémás kezelés ellenére a PASI (amennyiben a PASI nem meghatározható, a BSA) vagy a DLQI csökkenés mértéke nem éri el az 50%-ot, bőrgyógyász, illetve súlyos arthritis psoriatica egyidejű fennállása esetén bőrgyógyász és reumatológus szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (PASI minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (mellékhatás vagy hatástalanság esetén készítményváltás lehetséges) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
-| 06052 | 8. 9. 10. 11. | adalimumab | Rheumatoid arthritis (több mint 4 ACR kritérium legalább 3 hónapja) kezelésére, amennyiben 3 hónapig alkalmazott kombinációs DMARD kezelés ellenére (beleértve a metotrexátot, vagy hatástalanság, intolerancia esetén a leflunomid alkalmazást is) a betegség aktivitása 5,1 DAS28 felett van 3 hónapig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2) a remisszió fennállásáig (készítményváltás lehetséges mellékhatás vagy hatásvesztés esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Juvenilis idiopáthiás arthritis poliartikuláris típusainak kezelésére a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (Giannini javulási kritérium mértéke 30%-nál magasabb) az aktivitás rendszeres kontrollja mellett a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, amennyiben az alkalmazott hagyományos (szteroid indukciós, majd 3 hónapos fenntartó immunszuppresszív) terápia ellenére a betegség aktivitása nem csökken – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, amennyiben megfelelő (legalább 2 mg/ttkg, vagy a legmagasabb tolerált) dózisú azathioprin mellett is kialakult szisztémás szteroid függőség (3 hónapon túl szisztémásan 10 mg/nap dózisnál nagyobb prednisolon ekvivalens dózis) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, szteroid rezisztencia (négy héten át alkalmazott 0,75 mg/ttkg prednisolon ekvivalens szteroid dózisra nem reagáló) esetekben – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, amennyiben a hagyományos gyógykezelés toxicitása miatt nem alkalmazható a teljes indukciós kezelés időtartamáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Ezeket követően megfelelő válaszkészség esetén (CDAI minimum 70 pontos csökkenése) a kezelés kezdetétől számított legfeljebb egy éven át (mellékhatás, hatásvesztés vagy progresszió esetén a készítményváltás, illetve panaszmentes időszakot követő relapszus esetében a kezelés ismétlése megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori (18 éves kor felett) komplex perianális (tályogot drenáló vagy magas trans-sphincterikus vagy többnyílású vagy rectovaginális komponensű vagy rektális gyulladással járó) vagy enterocutan fisztulával járó Crohn-betegség kezelésére, amennyiben legalább három hónapig alkalmazott hagyományos gyógykezelés (antibiotikum és immunszupresszió és tályogot drenáló komplex fisztula esetében drenázs) ellenére a sipolyok aktivitása nem csökken, vagy a hagyományos gyógykezelés toxicitása miatt nem alkalmazható a teljes indukciós kezelés időtartamáig, ezt követően a megfelelő válaszkészség elérése esetében (PDAI legalább 3 pontos csökkenése) a kezelés kezdetétől számított egy évig (mellékhatás, hatásvesztés vagy progresszió esetében a készítményváltás lehetséges), ezt követően a teljes remissziót elérő betegekben, évente ismételt vizsgálómódszerekkel igazolt hatékonyság megtartásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Spondylitis ankylopoeticában, amennyiben radiológiailag legalább 2-es stádiumú bilateralis, vagy 3-as, 4-es stádiumú unilateralis sacroileitis, és legalább 3 hónapja háti fájdalom, frontális és szagittális síkban beszűkült gerinc-, illetve beszűkült légzőmozgás igazolt, és a BASDAI aktivitási index >40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökkent három hónapig, ezt követően megfelelő válaszkészség esetén (BASDAI index minimum relatív 50%-os csökkenése esetén) a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Aktív, súlyos arthritis psoriaticában szenvedő beteg részére, amennyiben axiális érintettség esetén a BASDAI aktivitási index (0-100) átlaga több mint 40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökken, vagy perifériás érintettség esetén (aktivitási index 5,1 DAS28 érték felett) legalább 3 hónapig tartó DMARD terápia hatására (metotrexát, szulfaszalazin, ciklosporin, leflunomid) a betegség aktivitása igazoltan nem csökken vagy súlyos bőrérintettség esetén (PASI nagyobb, mint 15) reumatológus és bőrgyógyász szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (BASDAI index minimum relatív 50%-os csökkenése, vagy DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2; vagy a PASI index minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (készítményváltás lehetséges mellékhatás esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Súlyos tünetekkel (PASI ≥15 vagy BSA ≥10 vagy DLQI ≥10) járó plakkos psoriasisban szenvedő beteg részére, standard szisztémás kezeléssel (acitrein, cyclosporin, metotrexát, fototerápia [szűk spektrumú UVB vagy PUVA]) szembeni dokumentált intolerancia vagy kontraindikáció esetén, illetve amennyiben legalább 3 hónapig tartó standard szisztémás kezelés ellenére a PASI (amennyiben a PASI nem meghatározható, a BSA) vagy a DLQI csökkenés mértéke nem éri el az 50%-ot, bőrgyógyász, illetve súlyos arthritis psoriatica egyidejű fennállása esetén bőrgyógyász és reumatológus szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (PASI minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (mellékhatás vagy hatástalanság esetén készítményváltás lehetséges) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
+## 06052 adalimumab
 
-| 06053 | 8. 9. 10. 11. | infliximab | Rheumatoid arthritis (több mint 4 ACR kritérium legalább 3 hónapja) kezelésére, amennyiben 3 hónapig alkalmazott kombinációs DMARD kezelés ellenére (beleértve a metotrexátot, vagy hatástalanság, intolerancia esetén a leflunomid alkalmazást is) a betegség aktivitása 5,1 DAS28 felett van 3 hónapig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2) a remisszió fennállásáig (készítményváltás lehetséges mellékhatás vagy hatásvesztés esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, amennyiben az alkalmazott hagyományos (szteroid indukciós, majd 3 hónapos fenntartó immunszuppresszív) terápia ellenére a betegség aktivitása nem csökken – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, amennyiben megfelelő (legalább 2 mg/ttkg, vagy a legmagasabb tolerált) dózisú azathioprin mellett is kialakult szisztémás szteroid függőség (3 hónapon túl szisztémásan 10 mg/nap dózisnál nagyobb prednisolon ekvivalens dózis) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, szteroid rezisztencia (négy héten át alkalmazott 0,75 mg/ttkg prednisolon ekvivalens szteroid dózisra nem reagáló) esetekben – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos luminaris Crohn-betegség (18 éves kor felett és CDAI>300) kezelésére, amennyiben a hagyományos gyógykezelés toxicitása miatt nem alkalmazható a teljes indukciós kezelés időtartamáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Ezeket követően megfelelő válaszkészség esetén (CDAI minimum 70 pontos csökkenése) a kezelés kezdetétől számított legfeljebb egy éven át (mellékhatás, hatásvesztés vagy progresszió esetén a készítményváltás, illetve panaszmentes időszakot követő relapszus esetében a kezelés ismétlése megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori (18 éves kor felett) komplex perianális (tályogot drenáló vagy magas trans-sphincterikus vagy többnyílású vagy rectovaginális komponensű vagy rektális gyulladással járó) vagy enterocutan fisztulával járó Crohn-betegség kezelésére, amennyiben legalább három hónapig alkalmazott hagyományos gyógykezelés (antibiotikum és immunszupresszió és tályogot drenáló komplex fisztula esetében drenázs) ellenére a sipolyok aktivitása nem csökken, vagy a hagyományos gyógykezelés toxicitása miatt nem alkalmazható a teljes indukciós kezelés időtartamáig, ezt követően a megfelelő válaszkészség elérése esetében (PDAI legalább 3 pontos csökkenése) a kezelés kezdetétől számított egy évig (mellékhatás, hatásvesztés vagy progresszió esetében a készítményváltás lehetséges), ezt követően a teljes remissziót elérő betegekben, évente ismételt vizsgálómódszerekkel igazolt hatékonyság megtartásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Gyermekkori súlyos, aktív luminális Crohn-betegség (6-17 éves korig) kezelésére (PCDAI>30), – amennyiben legalább három hónapig alkalmazott hagyományos gyógykezelés (szteroid és immunszuppresszív terápia együttes alkalmazás) ellenére a betegség aktivitása igazoltan nem csökken, vagy a hagyományos gyógykezelés dokumentált toxicitás miatt nem alkalmazható – három hónapig, ezt követően megfelelő válaszkészség esetén (PCDAI 50%-os csökkenése) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Súlyos aktív fisztulázó gyermekkori Crohn-betegségben (6-17 éves korig) – amennyiben az életminőséget nagymértékben rontó fisztula/fisztulák a hagyományos gyógykezelés (antibiotikum és immunszuppresszív terápia) ellenére nem javulnak – három hónapig, ezt követően megfelelő válaszkészség esetén (fisztula záródás, illetve fisztulák számának csökkenése esetén) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Felnőttkori súlyos (18 éves kor felett, Mayo score ≥9) colitis ulcerosa kezelésére, amennyiben a betegség akut lefolyású és 5 napon át alkalmazott teljes dózisú vénás szteroid kezelés mellett colectomia szükségessége fenyeget, vagy adekvát immunszupresszió mellett (legalább 2 mg/ttkg vagy a legnagyobb tolerálható dózisú azathioprin) igazolt szisztémás szteroidfüggőség (3 hónapon túl szisztémásan ≥10 mg/nap prednisolon ekvivalens dózis) esetén a szteroid adagjának csökkenésekor relapszus (endoszkópos Mayo subscore ≥2) igazolható, vagy 3 hónapon át tartó adekvát hagyományos (szteroid indukciós, majd 3 hónapos fenntartó immunszuppresszív) kezelésre nem reagáló súlyos betegségformában (Mayo score>9 és endoszkópos Mayo subscore ≥2), három hónapig (fulmináns esetben egy alkalommal) ezt követően kizárólag megfelelő válaszkészség esetén (Mayo score minimum 3 pontos csökkenése) a kezelés kezdetétől számítva legfeljebb egy évig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Spondylitis ankylopoeticában, amennyiben radiológiailag legalább 2-es stádiumú bilateralis, vagy 3-as, 4-es stádiumú unilateralis sacroileitis, és legalább 3 hónapja háti fájdalom, frontális és szagittális síkban beszűkült gerinc-, illetve beszűkült légzőmozgás igazolt, és a BASDAI aktivitási index >40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökkent három hónapig, ezt követően megfelelő válaszkészség esetén (BASDAI index minimum relatív 50%-os csökkenése esetén) a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Aktív, súlyos arthritis psoriaticában szenvedő beteg részére, amennyiben axiális érintettség esetén a BASDAI aktivitási index (0-100) átlaga több mint 40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökken, vagy perifériás érintettség esetén (aktivitási index 5,1 DAS28 érték felett) legalább 3 hónapig tartó DMARD terápia hatására (metotrexát, szulfaszalazin, ciklosporin, leflunomid) a betegség aktivitása igazoltan nem csökken vagy súlyos bőrérintettség esetén (PASI nagyobb, mint 15) reumatológus és bőrgyógyász szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (BASDAI index minimum relatív 50%-os csökkenése, vagy DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2; vagy a PASI index minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (készítményváltás lehetséges mellékhatás esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Súlyos tünetekkel (PASI ≥15 vagy BSA ≥10 vagy DLQI ≥10) járó plakkos psoriasisban szenvedő beteg részére, standard szisztémás kezeléssel (acitrein, cyclosporin, metotrexát, fototerápia [szűk spektrumú UVB vagy PUVA]) szembeni dokumentált intolerancia vagy kontraindikáció esetén, illetve amennyiben legalább 3 hónapig tartó standard szisztémás kezelés ellenére a PASI (amennyiben a PASI nem meghatározható, a BSA) vagy a DLQI csökkenés mértéke nem éri el az 50%-ot, bőrgyógyász, illetve súlyos arthritis psoriatica egyidejű fennállása esetén bőrgyógyász és reumatológus szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (PASI minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (mellékhatás vagy hatástalanság esetén készítményváltás lehetséges) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
+## 06053 infliximab
 
-| 06054 | 8. | tocilizumab | Rheumatoid arthritis (több mint 4 ACR kritérium legalább 3 hónapja) kezelésére, amennyiben 3 hónapig alkalmazott kombinációs DMARD kezelés ellenére (beleértve a metotrexátot, vagy hatástalanság, intolerancia esetén a leflunomid alkalmazást is) a betegség aktivitása 5,1 DAS28 felett van 3 hónapig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2) a remisszió fennállásáig (készítményváltás lehetséges mellékhatás vagy hatásvesztés esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
-
-| 06055 | 8. 11. | golimumab | Rheumatoid arthritis (több mint 4 ACR kritérium legalább 3 hónapja) kezelésére, amennyiben 3 hónapig alkalmazott kombinációs DMARD kezelés ellenére (beleértve a metotrexátot, vagy hatástalanság, intolerancia esetén a leflunomid alkalmazást is) a betegség aktivitása 5,1 DAS28 felett van 3 hónapig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2) a remisszió fennállásáig (készítményváltás lehetséges mellékhatás vagy hatásvesztés esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Spondylitis ankylopoeticában, amennyiben radiológiailag legalább 2-es stádiumú bilateralis, vagy 3-as, 4-es stádiumú unilateralis sacroileitis, és legalább 3 hónapja háti fájdalom, frontális és szagittális síkban beszűkült gerinc-, illetve beszűkült légzőmozgás igazolt, és a BASDAI aktivitási index >40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökkent három hónapig, ezt követően megfelelő válaszkészség esetén (BASDAI index minimum relatív 50%-os csökkenése esetén) a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Aktív, súlyos arthritis psoriaticában szenvedő beteg részére, amennyiben axiális érintettség esetén a BASDAI aktivitási index (0-100) átlaga több mint 40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökken, vagy perifériás érintettség esetén (aktivitási index 5,1 DAS28 érték felett) legalább 3 hónapig tartó DMARD terápia hatására (metotrexát, szulfaszalazin, ciklosporin, leflunomid) a betegség aktivitása igazoltan nem csökken vagy súlyos bőrérintettség esetén (PASI nagyobb, mint 15) reumatológus és bőrgyógyász szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (BASDAI index minimum relatív 50%-os csökkenése, vagy DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2; vagy a PASI index minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (készítményváltás lehetséges mellékhatás esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
-
-| 06056 | 10. | ustekinumab | Súlyos tünetekkel (PASI ≥15 vagy BSA ≥10 vagy DLQI ≥10) járó plakkos psoriasisban szenvedő beteg részére, standard szisztémás kezeléssel (acitrein, cyclosporin, metotrexát, fototerápia [szűk spektrumú UVB vagy PUVA]) szembeni dokumentált intolerancia vagy kontraindikáció esetén, illetve amennyiben legalább 3 hónapig tartó standard szisztémás kezelés ellenére a PASI (amennyiben a PASI nem meghatározható, a BSA) vagy a DLQI csökkenés mértéke nem éri el az 50%-ot, bőrgyógyász, illetve súlyos arthritis psoriatica egyidejű fennállása esetén bőrgyógyász és reumatológus szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (PASI minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (mellékhatás vagy hatástalanság esetén készítményváltás lehetséges) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
-
-| 06057 | 8. | abatacept | Juvenilis idiopáthiás arthritis poliartikuláris típusainak kezelésére a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Megfelelő válaszkészség esetén (Giannini javulási kritérium mértéke 30%-nál magasabb) az aktivitás rendszeres kontrollja mellett a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. |
-
-| 06058 | 5. 7. 8* | rituximab | Súlyos rheumatoid arthritis kezelésére, amennyiben előzetes, legalább három hónapig tartó TNF-alfa gátló terápia ellenére a betegség aktivitása megfelelően nem csökken (aktivitási index csökkenés kevesebb, mint 1,2) a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. B-sejtes krónikus lymphoid leukemia, korai (RAI 0-II) stádiumában, amennyiben az aktivitási jelek közül legalább egy jelen van: B-tünet, 6 hónapon belül megkettőződő lymphocytaszám, progresszív splenomegalia (a bal bordaívet 6 cm-rel meghaladó lép/progresszív lymphadenomegalia /legnagyobb nyirokcsomó átmérője> 10 cm), csontvelőelégtelenség. B-sejtes krónikus lymphoid leukemia, előrehaladott (RAI III-IV) stádiumában lévő betegek részére, akiknek creatinin clearance-e normális (>70 ml/min) és az ECOG skálán 0-2 értékkel rendelkeznek, első vonalbeli R-FC kombinációs terápia részeként, összesen 6 cikluson keresztül. Kemoterápiával kombinálva javasolt relapszusos/refrakter krónikus lymphocytás leukemiában szenvedő betegek kezelésére, összesen 6 cikluson keresztül. III-IV. stádiumú folliculáris lymphoma indukciós vagy fenntartó kezelése. CD20 pozitív, diffúz, nagy B-sejtes non-Hodgkin lymphoma kezelése. |
-
-| 06059 | 6. | ibritumomab tiuxetan | Rituximabbal kezelt visszaeső vagy terápiarezisztens CD20+ follicularis B-sejtes non-Hodgkin lymphoma. |
-
-| 06065 | 7. | alemtuzumab | B-sejtes krónikus lymphoid leukemia (CLL) kezelése, ha az alkiláló szerre, majd fludarabin tartalmú kezelésre refrakter. B-sejtes krónikus lymphoid leukemia (CLL) kezelése, ha fludarabin kezelés utáni relapsusban a remisszió 6 hónapnál rövidebb ideig állt fenn. |
-
-| 06060 | 12. | bortezomib | Aktív, előrehaladott myeloma multiplexben, ha a beteg korábban legalább egy gyógyszeres kezelésen átesett, és már részesült csontvelő transzplantációban, vagy transzplantációra alkalmatlan, a betegség relapszusa vagy progressziója esetén – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll szerint. Aktív, előrehaladott myeloma multiplexben, korábban nem kezelt, csontvelőtranszplantációra és nagy dózisú kemoterápiás kezelésre alkalmatlan betegek részére kombinációs terápia részeként – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll szerint. |
-
-| 06041 | A 4. számú melléklet szerint | verteporfin | Időskori exsudativ (nedves típusú) macula degeneratio (AMD) kezelésére. |
-
-| 06040 | A 4. számú melléklet szerint | ranibizumab | Időskori neovaszkuláris (nedves típusú) macula degeneratio (AMD) kezelésére. |
-
-| 06042 | A 4. számú melléklet szerint | alteplase | Akut agyi embolisatio (stroke) thrombolytikus kezelésére. |
-
-| Haemodynamikai zavarokat okozó masszív tüdőembolia thrombolytikus kezelésére. |
-
-| Akut ST elevációval járó myocardiális infarctus kezelésére, amennyiben invazív haemodynamikai beavatkozásra nincs lehetőség, vagy terápiás időablakon belül nem elérhető. |
-
-| 06014 | 4. | cetuximab | Irinotecan alapú kemoterápiával vagy FOLFOX kombinálva metasztatikus colorectalis carcinoma kezelésére EGFR pozitivitás és KRAS vad típus esetén. |
-
-| Metasztatikus colorectalis carcinoma monoterápiában történő kezelésére, EGFR pozitivitás és KRAS vad típus fennállása esetén, amennyiben oxaliplatin vagy irinotecan kezelés eredménytelen vagy kontraindikált. |
-
-| Lokálisan előrehaladott fejnyak carcinoma kezelésére radiációval kombinálva. |
-
-| Metasztatikus/rekurráló fejnyak carcinoma kezelésére platina alapú kemoterápiával kombinálva (a készítmény alkalmazása a docetaxel-tartalmú citosztatikus és carboplatin-tartalmú radiokemoterápia alkalmazhatatlansága esetén indokolt). |
-
-| 06013 | 3. | gefitinib | Olyan lokálisan előrehaladott vagy metasztatikus, nem-kissejtes tüdőkarcinómában (non-small cell lung cancer, NSCLC) szenvedő felnőtt betegek kezelése, akiknél fennáll az EGFR-TK (epidermális növekedési faktor receptor-tirozinkináz) aktiváló mutáció. |
-
-| 06061 | 4. | lapatinib | HER2 génamplifikációt mutató emlőcarcinoma kezelésére, amennyiben antraciklin és trastuzumab kezelés után progresszió lép fel. |
-
-| 1. | Elszámolásra jogosult intézetek |
-
-| 0140 | Semmelweis Egyetem, Budapest |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ |
-
-| 0506 | Almási Balogh Pál Kórház Egészségügyi és Szolgáltató Nonprofit Kft., Ózd |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
-
-| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
-
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 2. | Elszámolásra jogosult intézetek |
-
-| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
-
-| 3. | Elszámolásra jogosult intézetek |
-
-| 0140 | Semmelweis Egyetem Budapest (Pulmonológia Klinika) |
-
-| 01A6 | Magyar Honvédség Honvédkórház |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
-
-| 0606 | Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
-
-| 1306 | Pest Megyei Tüdőgyógyintézet, Törökbálint |
-
-| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 0118 | Uzsoki Utcai Kórház, Budapest |
-
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
-
-| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
-
-| 0154 | Országos Onkológiai Intézet, Budapest |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 4. | Elszámolásra jogosult intézetek |
-
-| 0101 | Szent Imre Kórház, Budapest |
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
 | 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
 
-| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
-
-| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
-
 | 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
-
-| 0118 | Uzsoki Utcai Kórház, Budapest |
 
 | 0122 | Heim Pál Gyermekkórház, Budapest |
 
 | 0140 | Semmelweis Egyetem, Budapest |
 
-| 0154 | Országos Onkológiai Intézet, Budapest |
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
 
-| 01A6 | Magyar Honvédség Honvédkórház |
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 1/a2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Felnőttkori (18 éves kor felett) komplex perianális (tályogot drenáló vagy magas trans-sphincterikus vagy többnyílású vagy rectovaginális komponensű vagy rektális gyulladással járó) vagy enterocutan fisztulával járó Crohn-betegség kezelésére, amennyiben legalább három hónapig alkalmazott hagyományos gyógykezelés (antibiotikum és immunszupresszió és tályogot drenáló komplex fisztula esetében drenázs) ellenére a sipolyok aktivitása nem csökken, vagy a hagyományos gyógykezelés toxicitása miatt nem alkalmazható a teljes indukciós kezelés időtartamáig, ezt követően a megfelelő válaszkészség eléréseesetében (PDAI legalább 3 pontos csökkenése) a kezelés kezdetétől számított egy évig (mellékhatás, hatásvesztés vagy progresszió esetében a készítményváltás lehetséges), ezt követően a teljes remissziót elérő betegekben, évente ismételt vizsgálómódszerekkel igazolt hatékonyság megtartásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06052 adalimumab
+
+## 06053 infliximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 1/b1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Gyermekkori súlyos, aktív luminális Crohn-betegség (6 éves kortól betöltött 18 éves korig) kezelésére (PCDAI>30), – amennyiben legalább három hónapig alkalmazott hagyományos gyógykezelés (szteroid és immunszuppresszív terápia együttes alkalmazása) ellenére a betegség aktivitása igazoltan nem csökken, vagy a hagyományos gyógykezelés dokumentált toxicitás miatt nem alkalmazható – három hónapig, ezt követően megfelelő válaszkészség esetén (PCDAI 50%-os csökkenése) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06053 infliximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 1/b2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Súlyos aktív fisztulázó gyermekkori Crohn-betegségben (6 éves kortól betöltött 18 éves korig) – amennyiben az életminőséget nagymértékben rontó fisztula/fisztulák a hagyományos gyógykezelés (antibiotikum és immunszuppresszív terápia) ellenére nem javulnak – három hónapig, ezt követően megfelelő válaszkészség esetén (fisztula záródás, illetve fisztulák számának csökkenése esetén) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokollalapján.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06053 infliximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 2/a.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Felnőttkori súlyos (18 éves kor felett, Mayo score ≥ 9) colitis ulcerosa kezelésére, amennyiben a betegség akut lefolyású és 5 napon át alkalmazott teljes dózisú vénás szteroid kezelés mellett colectomia szükségessége fenyeget, vagy adekvát immunszupresszió mellett (legalább 2 mg/ttkg vagy a legnagyobb tolerálható dózisú azathioprin) igazolt szisztémás szteroidfüggőség (3 hónapon túl szisztémásan ≥ 10 mg/nap prednisolon ekvivalens dózis) esetén a szteroid adagjának csökkenésekor relapszus (endoszkópos Mayo subscore ≥ 2) igazolható, vagy 3 hónapon át tartó adekvát hagyományos (szteroid indukciós,majd 3 hónapos fenntartó immunszuppresszív) kezelésre nem reagáló súlyos betegségformában (Mayo score > 9 és endoszkópos Mayo subscore ≥ 2), három hónapig (fulmináns esetben egy alkalommal), ezt követően kizárólag megfelelő válaszkészség esetén (Mayo score minimum 3 pontos csökkenése) a kezelés kezdetétől számítva legfeljebb egy évig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06053 infliximab
+
+## 06052 adalimumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Spondylitis ankylopoeticában, amennyiben radiológiailag legalább 2-es stádiumú bilateralis, vagy 3-as, 4-es stádiumú unilateralis sacroileitis, és legalább 3 hónapja háti fájdalom, frontális és sagittális síkban beszűkült gerinc-, illetve beszűkült légzőmozgás igazolt, és a BASDAI aktivitási index > 40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökkent, három hónapig, ezt követően megfelelő válaszkészség esetén (BASDAI index minimum relatív 50%-os csökkenése esetén) a remissziófennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06051 etanercept
+
+## 06052 adalimumab
+
+## 06053 infliximab
+
+## 06055 golimumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0153 | Országos Reumatológiai és Fizioterápiás Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
 
 | 0242 | Pécsi Tudományegyetem Klinikai Központ |
 
@@ -148,7 +272,1223 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
 
-| 0601 | Dr. Bugyi István Kórház, Szentes |
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Gyula Kórház-Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1102 | Vaszary Kolos Kórház, Esztergom |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+
+| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
+
+| 9521 | MÁV Kórház és Rendelőintézet, Szolnok |
+
+## 4.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Aktív, súlyos arthritis psoriaticában szenvedő beteg részére, amennyiben axiális érintettség esetén a BASDAI aktivitási index (0-100) átlaga több, mint 40, és kettő vagy több különböző nem szteroid gyulladásgátló maximális vagy tolerálható dózisban történő alkalmazása ellenére a betegség aktivitása igazoltan nem csökken, vagy perifériás érintettség esetén (aktivitási index 5,1 DAS28 érték felett) legalább 3 hónapig tartó DMARD terápia hatására (metotrexát, szulfaszalazin, ciklosporin, leflunomid) a betegség aktivitása igazoltan nem csökken vagy súlyos bőrérintettség esetén (PASI nagyobb, mint15) reumatológus és bőrgyógyász szakorvos dokumentált közös döntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (BASDAI index minimum relatív 50%-os csökkenése, vagy DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2; vagy a PASI index minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (készítményváltás lehetséges mellékhatás esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06051 etanercept
+
+## 06052 adalimumab
+
+## 06053 infliximab
+
+## 06055 golimumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0153 | Országos Reumatológiai és Fizioterápiás Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Gyula Kórház-Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1102 | Vaszary Kolos Kórház, Esztergom |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+
+| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
+
+| 9521 | MÁV Kórház és Rendelőintézet, Szolnok |
+
+## 5.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Súlyos tünetekkel (PASI ≥ 15 vagy BSA ≥ 10 vagy DLQI ≥ 10) járó plakkos psoriasisban szenvedő beteg részére, standard szisztémás kezeléssel (acitrein, cyclosporin, metotrexát, fototerápia [szűk spektrumú UVB vagy PUVA]) szembeni dokumentált intolerancia vagy kontraindikáció esetén, illetve amennyiben legalább 3 hónapig tartó standard szisztémás kezelés ellenére a PASI (amennyiben a PASI nem meghatározható, a BSA) vagy a DLQI csökkenés mértéke nem éri el az 50%-ot, bőrgyógyász, illetve súlyos arthritis psoriatica egyidejű fennállása esetén bőrgyógyász és reumatológus szakorvos dokumentált közösdöntését követően három hónapig, ezt követően kizárólag megfelelő válaszkészség (PASI minimum relatív 50%-os csökkenése) esetén a remisszió fennállásáig (mellékhatás vagy hatástalanság esetén készítményváltás lehetséges) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06051 etanercept
+
+## 06052 adalimumab
+
+## 06053 infliximab
+
+## 06056 ustekinumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+## 6/a1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Rheumatoid arthritis (több, mint 4 ACR kritérium legalább 3 hónapja) kezelésére, amennyiben 3 hónapig alkalmazott kombinációs DMARD kezelés ellenére (beleértve a metotrexátot, vagy hatástalanság, intolerancia esetén a leflunomid alkalmazást is) a betegség aktivitása 5,1 DAS28 felett van 3 hónapig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján.
+
+## Megfelelő válaszkészség esetén (DAS28 aktivitási index csökkenése 3 hónap kezelést követően minimum 0,6 és 6 hónap kezelést követően minimum 1,2) a remisszió fennállásáig (készítményváltás lehetséges mellékhatás vagy hatásvesztés esetén) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06050 cetrolizumab
+
+## 06051 etanercept
+
+## 06052 adalimumab
+
+## 06053 infliximab
+
+## 06054 tocilizumab
+
+## 06055 golimumab
+
+## 06057 abatacept
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0153 | Országos Reumatológiai és Fizioterápiás Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1102 | Vaszary Kolos Kórház, Esztergom |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+
+| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
+
+| 9521 | MÁV Kórház és Rendelőintézet, Szolnok |
+
+## 6/a2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Súlyos rheumatoid arthritis kezelésére, amennyiben előzetes, legalább három hónapig tartó TNF-alfa gátló terápia ellenére a betegség aktivitása megfelelően nem csökken (aktivitási index csökkenés kevesebb, mint 1,2), a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06058 rituximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0153 | Országos Reumatológiai és Fizioterápiás Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1102 | Vaszary Kolos Kórház, Esztergom |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+
+| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
+
+| 9521 | MÁV Kórház és Rendelőintézet, Szolnok |
+
+## 6/b.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Juvenilis idiopáthiás arthritis kezelésére, a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján.
+
+## Megfelelő válaszkészség esetén (Giannini javulási kritérium mértéke 30%-nál magasabb) az aktivitás rendszeres kontrollja mellett a remisszió fennállásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06051 etanercept
+
+## 06052 adalimumab
+
+## 06054 tocilizumab
+
+## 06057 abatacept
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0153 | Országos Reumatológiai és Fizioterápiás Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1102 | Vaszary Kolos Kórház, Esztergom |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+
+| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
+
+| 9521 | MÁV Kórház és Rendelőintézet, Szolnok |
+
+## 7/a1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Aktív, előrehaladott myeloma multiplexben, korábban nem kezelt, csontvelőtranszplantációra és nagy dózisú kemoterápiás kezelésre alkalmatlan betegek részére kombinációs terápia részeként, a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06060 bortezomib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 7/a2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Aktív, előrehaladott myeloma multiplexben, ha a beteg korábban legalább egy gyógyszeres kezelésen átesett, és már részesült csontvelő transzplantációban, vagy transzplantációra alkalmatlan, a betegség relapszusa vagy progressziója esetén a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06060 bortezomib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 7/b1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## B-sejtes krónikus lymphoid leukemia korai (RAI 0-II) stádiumában, amennyiben az aktivitási jelek közül legalább egy jelen van: B-tünet, 6 hónapon belül megkettőződő lymphocytaszám, progresszív splenomegalia (a bal bordaívet 6 cm-rel meghaladó lép/progresszív lymphadenomegalia /legnagyobb nyirokcsomó átmérője > 10 cm), csontvelőelégtelenség, valamint előrehaladott stádiumú (RAI III-IV) betegek részére, akik az ECOG skálán 0-2 értékkel rendelkeznek, első vonalbeli R- kombinációs kemoterápia részeként, összesen 6 cikluson keresztül.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06058 rituximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 7/b2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## III-IV. stádiumú folliculáris lymphoma indukciós és fenntartó kezelése, első vonalban és relapszus esetén, valamint CD20 pozitív, diffúz, nagy B-sejtes non-Hodgkin lymphoma kezelése.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06058 rituximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktatókórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 7/b3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Kemoterápiával kombinálva javasolt relapszusos/refrakter krónikus lymphocytás leukemiában szenvedő betegek kezelésére, összesen 6 cikluson keresztül.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06058 rituximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 7/b4.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Rituximabbal kezelt visszaeső vagy terápiarezisztens CD20+ folliculáris B-sejtes non-Hodgkin lymphoma kezelésére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06059 ibritumomab tiuxetan
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+## 7/b5.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## T-sejtes akut lymphoblastos leukaemia (T-ALL) és T-sejtes lymphoblastos lymphoma (T-LBL) kezelésére, amikor a beteg legalább két, előzőleg alkalmazott kemoterápiás kezeléssorozatra sem reagált, vagy a kezelések után relapszus következett be.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06038 nelarabin
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+## 7/b6.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Akut lymphoblastos leukaemiában (ALL) szenvedő, legalább kettő terápiás protokollal történt kezelés után relapszusba vagy refrakter stádiumba került gyermekek, és azon fiatal felnőtt betegek kezelésére, akiknél az első diagnózis 21 éves kor alatt megtörtént, ha semmilyen más terápiás lehetőség nincs, amely tartós választ eredményezhetne.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06047 klofarabine
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+## 7/b7.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lymphomás, myeloma multiplexes felnőtt betegek részére a haemopoeticus őssejteknek a perifériás vérbe történő mobilizációjának elősegítésére a levétel és az azt követő autológ transzplantáció céljából abban az esetben, ha a betegek nehezen vagy rosszul mobilizálnak (kemoterápia+G-CSF mobilizálás esetén azoknál a betegeknél, akiknél 10 G/l fölé emelkedett fvs szám ellenére a perifériás CD34+ sejtszáma az 5-20/ul tartományban marad vagy G-CSF mobilizálás esetén azoknál a betegeknél, akiknél a mobilizálás 5.napján a perifériás vér CD34+sejtszáma még mindig az 5-20/ul tartományban van) G-CSF-ralegyütt alkalmazva.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06067 plerixafor
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+## 8/a1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott vagy metasztatikus adenocarcinoma és nagysejtes carcinoma típusú, nem kissejtes tüdőrák elsővonalbeli kezelése platina-alapú kombinációban.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06011 pemetrexed
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház-Rendelőintézet, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ Kórház, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Békés Megyei Pándy Kálmán Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0508 | Edelény Városi Kórház-Rendelőintézet |
+
+| 0606 | Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
+
+| 1101 | Megyei Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1306 | Pest Megyei Tüdőgyógyintézet, Törökbálint |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+
+| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+
+| 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/a2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott vagy metasztatikus nem laphámsejtes, nem kissejtes tüdőrák másodvonalbeli kezelése monoterápiában.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06011 pemetrexed
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház-Rendelőintézet, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ Kórház, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Békés Megyei Pándy Kálmán Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0508 | Edelény Városi Kórház-Rendelőintézet |
+
+| 0606 | Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
+
+| 1101 | Megyei Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1306 | Pest Megyei Tüdőgyógyintézet, Törökbálint |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+
+| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+
+| 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/a3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Inoperábilis előrehaladott, metasztatikus vagy kiújuló tüdő adenocarcinoma elsővonalbeli kezelése platina-alapú kemoterápiával kombinációban, majd azt követően monoterápiában a progresszióig.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06036 bevacizumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház-Rendelőintézet, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ Kórház, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Békés Megyei Pándy Kálmán Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0508 | Edelény Városi Kórház-Rendelőintézet |
+
+| 0606 | Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
+
+| 1101 | Megyei Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1306 | Pest Megyei Tüdőgyógyintézet, Törökbálint |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+
+| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+
+| 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/a4.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott vagy metasztatikus, nem-kissejtes tüdő adenocarcinómában szenvedő felnőtt betegek kezelésére, akiknél fennáll EGFR-TK (epidermális növekedési faktor receptor tirozinkináz) aktiváló mutáció.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06013 gefitinib
+
+## 06046 erlotinib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház-Rendelőintézet, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ Kórház, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Békés Megyei Pándy Kálmán Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0508 | Edelény Városi Kórház-Rendelőintézet |
+
+| 0606 | Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
+
+| 1101 | Megyei Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1306 | Pest Megyei Tüdőgyógyintézet, Törökbálint |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+
+| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+
+| 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/a5.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott vagy metasztatikus, nem-kissejtes tüdőkarcinómában szenvedő felnőtt betegek másod- és többedvonalbeli kezelésére, akiknél legalább egyféle kemoterápiás kezelés ellenére a WHO-kritériumok szerint értékelt progresszió jelentkezik, és az EGFR-TK (epidermális növekedési faktor receptor tirozinkináz) aktiváló mutációja vagy a K-RAS mutációjának hiánya (vad típus) igazolt, legfeljebb a WHO-kritériumok szerinti további progresszióig.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06046 erlotinib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház-Rendelőintézet, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ Kórház, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Békés Megyei Pándy Kálmán Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0508 | Edelény Városi Kórház-Rendelőintézet |
+
+| 0606 | Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
+
+| 1101 | Megyei Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1306 | Pest Megyei Tüdőgyógyintézet, Törökbálint |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+
+| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+
+| 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/b.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Nem rezekálható malignus pleuralis mesothelioma elsővonalbeli kezelése platina-alapú kombinációban.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06011 pemetrexed
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház-Rendelőintézet, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ Kórház, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház-Rendelőintézet, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Békés Megyei Pándy Kálmán Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0508 | Edelény Városi Kórház-Rendelőintézet |
+
+| 0606 | Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
+
+| 1101 | Megyei Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1306 | Pest Megyei Tüdőgyógyintézet, Törökbálint |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+
+| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+
+| 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/c1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## IHC HER2 +++, illetve FISH pozitív emlőkarcinóma kezelésére. Lokalisan előrehaladott távoli áttétet nem adó emlőkarcinóma primer szisztémás kezelésének időtartama egy év, ami 3 hetes kezelési protokollnak megfelelően 17 kezelést, míg heti protokoll alkalmazása esetén 52 kezelést jelent.
+
+## Adjuváns terápia esetében egy év az alkalmazás időtartama, ami 3 hetes kezelési protokollok esetén szintén 17 kezelést, míg heti protokollok esetén 52 kezelést jelent. Adjuváns kezelést követően nem adható a trastuzumab metasztatikus rák kezelésében, kivéve, ha a metasztázisból vett biopsziás minta is IHC HER2+++, illetve FISH pozitív.
+
+## HER2+++, illetve FISH pozitív metasztatikus emlőkarcinoma esetén progresszióig folytatható a kezelés, illetve amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel lehet függeszteni. Abban az esetben, ha a beteg a kezelés felfüggesztését követően újra progrediál, trastuzumab első választandó terápiaként ismét alkalmazható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06010 trastuzumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -178,316 +1518,1222 @@
 
 | 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Non-profit Zrt, Veszprém |
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
-| 5. | Elszámolásra jogosult intézetek; non-Hodgkin lymphoma |
+## 8/c2.
 
-| 01A6 | Magyar Honvédség Honvédkórház |
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Triple negatív (ösztrogén, progeszteron, HER2) metasztatikus vagy lokálisan előrehaladott, inoperábilis emlőkarcinóma elsővonalbeli kezelésére paclitaxel kombinációban progresszióig.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06036 bevacizumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
 
 | 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
 
-| 0122 | Heim Pál Gyermekkórház, Budapest |
-
-| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
-
-| 0154 | Országos Onkológiai Intézet, Budapest |
-
-| 0140 | Semmelweis Egyetem I-II-III. sz. Belgyógyászati Klinika, I-II. sz. Gyermekgyógyászati Klinika |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum Gyermekklinika Onkohaematológia Osztály, II. sz. Belgyógyászati Klinika Haematológiai Tanszék |
-
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
-
-| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
-
-| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
-
-| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
-
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktatókórház Nonprofit Kft. |
-
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ Gyermekgyógyászati Klinika Onkológiai Osztály, I. sz. Belgyógyászati Klinika |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Gyermekgyógyászati Klinika Onkológiai Osztály, II. sz. Belgyógyászati Klinika és Kardiológiai Központ |
-
-| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
-
-| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
-
-| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 1101 | Szent Borbála Kórház, Tatabánya |
-
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
-
-| 2001 | Zala Megyei Kórház, Zalaegerszeg |
-
-| 6. | Elszámolásra jogosult intézetek; non-Hodgkin lymphoma |
-
-| 0154 | Országos Onkológiai Intézet, Budapest |
-
-| 0140 | Semmelweis Egyetem I. sz. Belgyógyászati Klinika |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum Belgyógyászati Intézet |
-
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ I. sz. Belgyógyászati Klinika Haematológia |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ II. sz. Belgyógyászati Klinika |
-
-| 7. | Elszámolásra jogosult intézetek; lymphoid leukemia |
-
-| 01A6 | Magyar Honvédség Honvédkórház |
-
-| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
-
-| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
-
-| 0122 | Heim Pál Gyermekkórház, Budapest |
-
-| 0154 | Országos Onkológiai Intézet, Budapest |
-
-| 0140 | Semmelweis Egyetem I-II-III. sz. Belgyógyászati Klinika, I-II. sz. Gyermekgyógyászati Klinika |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum Belgyógyászati Intézet, Gyermekklinika Onkohaematológiai Osztály, II. sz. Belgyógyászati Klinika Haemotológiai Tanszék |
-
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
-
-| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
-
-| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
-
-| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
-
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ Gyermekgyógyászati Klinika Onkológiai Osztály, I. sz. Belgyógyászati Klinika |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Gyermekgyógyászati Klinika Onkológiai Osztály, II. sz. Belgyógyászati Klinika és Kardiológiai Központ |
-
-| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
-
-| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
-
-| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 1101 | Szent Borbála Kórház, Tatabánya |
-
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
-
-| 2001 | Zala Megyei Kórház, Zalaegerszeg |
-
-| 8. 8* | Elszámolásra jogosult intézetek; rheumatoid arthritis *súlyos rheumatoid arthritis, juvenilis idiopathias arthritis |
-
-| 01A6 | Magyar Honvédség Honvédkórház |
-
-| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
-
-| 0153 | Országos Reumatológiai és Fizioterápiás Intézet, Budapest |
-
-| 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum Reumatológiai és Immunológiai Tanszék |
-
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
-
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
-
-| 1102 | Vaszary Kolos Kórház, Esztergom |
-
-| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
-
-| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
-
-| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
-
-| 0512 | Szent Ferenc Rehabilitációs Kórház, Miskolc |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
-
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ, Reumatológiai Osztály |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Reumatológiai Osztály |
-
-| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
-
-| 9521 | MÁV Kórház és Rendelőintézet, Szolnok |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
-
-| 9. | Elszámolásra jogosult intézetek; Crohn-betegség; colitis ulcerosa |
-
-| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
-
-| 0140 | Semmelweis Egyetem I. és II. sz. Belgyógyászati Klinika, I. és II. sz. Gyermekgyógyászati Klinika |
-
-| 01A6 | Magyar Honvédség Honvédkórház |
-
-| 0122 | Heim Pál Gyermekkórház, Budapest |
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
 
 | 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
 
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum Belgyógyászati Klinika, Gyermekklinika |
-
-| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
-
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház Gyermek-egészségügyi Központ |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ, I. sz. Belgyógyászati Klinika, Gyermekgyógyászati Klinika |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ I. sz. Belgyógyászati Klinika, Gyermekgyógyászati Klinika |
-
-| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
-
-| 2001 | Zala Megyei Kórház, Zalaegerszeg |
-
-| 10. | Elszámolásra jogosult intézetek; Plakkos psoriasis |
-
-| 0140 | Semmelweis Egyetem Bőr-, Nemikórtani és Dermatoonkológiai Klinika |
-
-| 0122 | Heim Pál Gyermekkórház, Budapest |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum, Bőrgyógyászati Klinika |
-
-| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
-
-| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ Bőr-, Nemikórtani és Onkodermatológiai Klinika |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Bőrgyógyászati és Allergológiai Klinika |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 11. | Elszámolásra jogosult intézetek; spondylitis ankylopoetica, súlyos arthritis psoriatica |
-
-| 01A6 | Magyar Honvédség Honvédkórház |
-
-| 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
-
-| 0153 | Országos Reumatológiai és Fizioterápiás Intézet, Budapest |
-
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum Reumatológiai és Immunológiai Tanszék |
-
-| 0901 | Kenézy Gyula Kórház-Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
-
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
-
-| 1102 | Vaszary Kolos Kórház, Esztergom |
-
-| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
-
-| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
-
-| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
-
-| 0512 | Szent Ferenc Rehabilitációs Kórház, Miskolc |
-
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
-
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
-
-| 0242 | Pécsi Tudományegyetem Klinikai Központ, Reumatológiai Osztály |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Reumatológiai Osztály |
-
-| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
-
-| 9521 | MÁV Kórház és Rendelőintézet, Szolnok |
-
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
-
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
-
-| 12. | Elszámolásra jogosult intézetek; myeloma multiplex |
-
-| 01A6 | Magyar Honvédség Honvédkórház |
-
-| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
-
-| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
-
 | 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
 
 | 0154 | Országos Onkológiai Intézet, Budapest |
 
-| 0140 | Semmelweis Egyetem I-II-III. sz. Belgyógyászati Klinika |
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
 
-| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum Belgyógyászati Intézet |
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
-
-| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
-
-| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
 
 | 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
 
-| 0242 | Pécsi Tudományegyetem Klinikai Központ I. sz. Belgyógyászati Klinika |
-
-| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ II. sz. Belgyógyászati Klinika és Kardiológiai Központ |
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
 
-| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1101 | Szent Borbála Kórház, Tatabánya |
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
 
 | 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
-2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^79]
+## 8/c3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## HER2 génamplifikációt mutató metasztatikus emlőcarcinoma kezelésére, amennyiben antraciklin, taxán és metasztatikus kezelésben alkalmazott trastuzumab kezelés után progresszió lép fel. A kezelés progresszióig folytatható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06061 lapatinib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/d1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott fej-nyak carcinoma kezelésére radioterápiával kombinálva, a készítmény alkalmazása a docetaxel-tartalmú kemoterápia és cisplatin-tartalmú radio-kemoterápia alkalmazhatatlansága esetén indokolt.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06014 cetuximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/d2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Metasztatikus/rekurráló fej-nyak carcinoma kezelésére platina alapú kemoterápiával kombinálva alkalmazható, amennyiben megelőző kemoterápiára nem került sor – míg a megelőző cetuximabbal kombinált radio-kemoterápia kizáró ok.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06014 cetuximab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/e2.1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinomaelsővonalbeli kezelésére, FOLFOX vagy FOLFIRI kemoterápiával kombinálva, azon egyszervi, illetve – a megfelelőkompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntésealapján – kétszervi parenchimás érintettséggel rendelkező betegeknél, akik a kezeléssel potenciálisan operábilissáválhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. Azelsővonalbeli kezelés az operálhatóság eléréséig vagy progresszióig folytatható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06014 cetuximab
+
+## Cetuximab nem alkalmazható:
+
+## a) ECOG ≥ 2 vagy Karnofsky < 70
+
+## b) Pangásos szívelégtelenség (NYHA > 2)
+
+## c) Súlyos légzési elégtelenség
+
+## d) 18 év alatt
+
+## e) Terhesség
+
+## f) Akinél a K-RAS mutáns, vagy nem vizsgálták
+
+## g) Aktív gyulladásos folyamat
+
+## h) Fenyegető bélelzáródás
+
+## i) Hatóanyag iránti érzékenység
+
+## j) Keratitis, keratitis ulcerosa, súlyos szemszárazság a kórelőzményben
+
+## k) Nem megfelelő hematológiai paraméterek
+
+## ka) Hemoglobin < 9 gr/dl
+
+## kb) Fehérvérsejt < 3000/mm3
+
+## kc) Abszolút szegmentszám < 1500/mm3
+
+## kd) Thrombocyta < 100 000/mm3
+
+## l) Nem megfelelő vese és máj paraméterek
+
+## la) Se kreatinin több, mint a normál felső határ másfélszerese
+
+## lb) Transzamináz több, mint a normál felső határ ötszöröse
+
+## lc) Bilirubin több, mint a normál felső határ másfélszerese
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/e2.2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinoma első vonalbeli kombinációs kezelésére azon egyszervi, illetve – a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján – kétszervi parenchimás érintettséggel rendelkező betegeknél alkalmazható, akik a kezeléssel potenciálisan operábilissá válhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. Az első vonalbeli kezelés az operálhatóság eléréséig vagy progresszióig folytatható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06071 panitumumab
+
+## Panitumab nem alkalmazható:
+
+## a) ECOG ≥ 2 vagy Karnofsky < 70
+
+## b) Pangásos szívelégtelenség (NYHA > 2)
+
+## c) Súlyos légzési elégtelenség, interstitialis pneumonitis vagy tüdőfibrózis a kórelőzményben
+
+## d) 18 év alatt
+
+## e) Terhesség, szoptatás
+
+## f) Akinél a K-RAS mutáns, vagy nem vizsgálták
+
+## g) Aktív gyulladásos folyamat
+
+## h) Fenyegető bélelzáródás
+
+## i) Hatóanyag iránti érzékenység
+
+## j) Nem megfelelő hematológiai paraméterek
+
+## ja) Hemoglobin < 9 gr/dl
+
+## jb) Fehérvérsejt < 3000/mm3
+
+## jc) Abszolút szegmentszám < 1500/mm3
+
+## jd) Thrombocyta < 100 000/mm3
+
+## k) Nem megfelelő vese és máj paraméterek
+
+## ka) Se kreatinin több, mint a normál felső határ másfélszerese
+
+## kb) Transzamináz több, mint a normál felső határ ötszöröse
+
+## kc) Bilirubin több, mint a normál felső határ másfélszerese
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/e2.3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis metasztatikus colorectalis carcinoma elsővonalbeli kombinációs kezelésére az egyszervi, illetve – a megfelelő kompetenciájú azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján – kétszervi parenchimás érintettség esetén azon betegeknél alkalmazható, akik a kezeléssel potenciálisan operábilissá válhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. Az első vonalbeli kezelés az operálhatóság eléréséig vagy progresszióig folytatható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06036 bevacizumab
+
+## Bevacizumab nem alkalmazható:
+
+## a) ECOG ≥ 2 vagy Karnofsky < 70
+
+## b) Kontrollálatlan magas vérnyomás
+
+## c) Pangásos szívelégtelenség (NYHA > 2)
+
+## d) Súlyos, nem gyógyuló seb, fekély vagy csonttörés
+
+## e) Nagyobb műtéti beavatkozás a terápia megkezdése előtt 28 nappal
+
+## f) Kuratív célú sugárkezelés a terápia megkezdése előtt 14 nappal
+
+## g) Palliatív célú csontbesugárzás a terápia előtt 14 nappal
+
+## h) Anticoaguláns kezelés
+
+## i) Veleszületett vagy szerzett véralvadási zavar
+
+## j) Thromboembolia a kórelőzményben
+
+## k) Súlyos, aktív intraabdominalis gyulladásos folyamat
+
+## l) Aktív gyulladásos folyamat
+
+## m) Fenyegető bélelzáródás
+
+## n) Súlyos vérköpés (> 2,5 ml/nap)
+
+## o) 18 év alatt
+
+## p) Terhesség, szoptatás
+
+## q) Hatóanyag iránti érzékenység
+
+## r) Nem megfelelő hematológiai paraméterek
+
+## ra) Hemoglobin < 9 gr/dl
+
+## rb) Fehérvérsejt < 3000/mm3
+
+## rc) Abszolút szegmentszám < 1500/mm3
+
+## rd) Thrombocyta < 100 000/mm3
+
+## s) Nem megfelelő vese és májparaméterek
+
+## sa) Se kreatinin több, mint a normál felső határ másfélszerese
+
+## sb) Transzamináz több, mint a normál felső határ ötszöröse
+
+## sc) Bilirubin több, mint a normál felső határ másfélszerese
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/e3.1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinomaelső, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükségesspecialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 3 ciklust követően képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosokvéleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés progresszióig folytatható. Amennyiben a kezeléshatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezeléstfel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, cetuximabismét alkalmazható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06014 cetuximab
+
+## Cetuximab nem alkalmazható:
+
+## a) ECOG ≥ 2 vagy Karnofsky <70
+
+## b) Pangásos szívelégtelenség (NYHA > 2)
+
+## c) Súlyos légzési elégtelenség
+
+## d) 18 év alatt
+
+## e) Terhesség
+
+## f) Akinél a K-RAS mutáns, vagy nem vizsgálták
+
+## g) Aktív gyulladásos folyamat
+
+## h) Fenyegető bélelzáródás
+
+## i) Hatóanyag iránti érzékenység
+
+## j) Keratitis, keratitis ulcerosa, súlyos szemszárazság a kórelőzményben
+
+## k) Nem megfelelő hematológiai paraméterek
+
+## ka) Hemoglobin < 9 gr/dl
+
+## kb) Fehérvérsejt < 3000/mm3
+
+## kc) Abszolút szegmentszám < 1500/mm3
+
+## kd) Thrombocyta < 100 000/mm3
+
+## l) Nem megfelelő vese és májparaméterek
+
+## la) Se kreatinin több, mint a normál felső határ másfélszerese
+
+## lb) Transzamináz több, mint a normál felső határ ötszöröse
+
+## lc) Bilirubin több, mint a normál felső határ másfélszerese
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/e3.2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinoma első, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 3 ciklust követően képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés progresszióig folytatható, illetve amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, panitumumab ismét alkalmazható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 0607 panitumumab
+
+## Panitumab nem alkalmazható:
+
+## a) ECOG ≥ 2 vagy Karnofsky < 70
+
+## b) Pangásos szívelégtelenség (NYHA > 2)
+
+## c) Súlyos légzési elégtelenség, interstitialis pneumonitis vagy tüdőfibrózis a kórelőzményben
+
+## d) 18 év alatt
+
+## e) Terhesség, szoptatás
+
+## f) Akinél a K-RAS mutáns, vagy nem vizsgálták
+
+## g) Aktív gyulladásos folyamat
+
+## h) Fenyegető bélelzáródás
+
+## i) Hatóanyag iránti érzékenység
+
+## j) Nem megfelelő hematológiai paraméterek
+
+## ja) Hemoglobin < 9 gr/dl
+
+## jb) Fehérvérsejt < 3000/mm3
+
+## jc) Abszolút szegmentszám < 1500/mm3
+
+## jd) Thrombocyta < 100 000/mm3
+
+## k) Nem megfelelő vese és májparaméterek
+
+## ka) Se kreatinin több, mint a normál felső határ másfélszerese
+
+## kb) Transzamináz több, mint a normál felső határ ötszöröse
+
+## kc) Bilirubin több, mint a normál felső határ másfélszerese
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/e3.3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis metasztatikus colorectalis carcinoma első, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 3 ciklust követően képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés a betegség progressziójáig folytatható. Amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, bevacizumab ismételten alkalmazható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06036 bevacizumab
+
+## Bevacizumab nem alkalmazható:
+
+## a) ECOG ≥ 2 vagy Karnofsky < 70
+
+## b) Kontrollálatlan magas vérnyomás
+
+## c) Pangásos szívelégtelenség (NYHA > 2)
+
+## d) Súlyos, nem gyógyuló seb, fekély vagy csonttörés
+
+## e) Nagyobb műtéti beavatkozás a terápia megkezdése előtt 28 nappal
+
+## f) Kuratív célú sugárkezelés a terápia megkezdése előtt 14 nappal
+
+## g) Palliatív célú csontbesugárzás a terápia előtt 14 nappal
+
+## h) Anticoaguláns kezelés
+
+## i) Veleszületett vagy szerzett véralvadási zavar
+
+## j) Thromboembolia a kórelőzményben
+
+## k) Súlyos, aktív intraabdominalis gyulladásos folyamat
+
+## l) Aktív gyulladásos folyamat
+
+## m) Fenyegető bélelzáródás
+
+## n) Súlyos vérköpés (> 2,5 ml/nap)
+
+## o) 18 év alatt
+
+## p) Terhesség, szoptatás
+
+## q) Hatóanyag iránti érzékenység
+
+## r) Nem megfelelő hematológiaiparaméterek
+
+## ra) Hemoglobin < 9 gr/dl
+
+## rb) Fehérvérsejt < 3000/mm3
+
+## rc) Abszolút szegmentszám < 1500/mm3
+
+## rd) Thrombocyta < 100 000/mm3
+
+## s) Nem megfelelő vese és máj paraméterek
+
+## sa) Se kreatinin több, mint a normál felső határ másfélszerese
+
+## sb) Transzamináz több, mint a normál felső határ ötszöröse
+
+## sc) Bilirubin több, mint a normál felső határ másfélszerese
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 8/f.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## A trastuzumab kezelést CX protokollal kombinálva, azon IHC HER2 +++, illetve FISH pozitív metasztatikus gyomor carcinomás betegek elsővonalbeli kezelésére, akik korábban kemoterápiás kezelésben nem részesültek, és akiknél sem peritonealis érintettség, sem ascites nem áll fenn. A kezelés progresszióig folytatható.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06010 trastuzumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0101 | Szent Imre Kórház, Budapest |
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0112 | Bajcsy-Zsilinszky Kórház, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0118 | Uzsoki Utcai Kórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+| 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 9/a.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Akut agyi embolisatio (stroke) thrombolytikus kezelésére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06042 alteplase
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 4. számú melléklet szerint
+
+## 9/b.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Haemodynamikai zavarokat okozó masszív tüdőembolia thrombolytikus kezelésére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06042 alteplase
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 4. számú melléklet szerint
+
+## 9/c.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Akut ST elevációval járó myocardiális infarctus kezelésére, amennyiben invazív haemodynamikai beavatkozásra nincs lehetőség, vagy terápiás időablakon belül nem elérhető.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06014 alteplase
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 4. számú melléklet szerint
+
+## 10.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Időskori neovaszkuláris (nedves típusú) macula degeneratio (AMD) kezelésére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06040 ranibizumab
+
+## 06041 verteporfin
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 4. számú melléklet szerint
+
+## 11.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Fabry-betegség (α-galaktozidáz A hiány).
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06030 agalsidase beta
+
+## 06032 agalsidase alfa
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+## 12.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Passzív immunizálás RSV (respiratory syncytial vírus) ellen járvány kezdetén és alatt a 32. gesztációs héten vagy korábban született csecsemőknek, akik 6 hónapos kornál fiatalabbak a prevenciós kezelés megkezdése előtt; 2 éves kor alatt olyan gyermekek esetében, akik az utóbbi hat hónapon belül bronchopulmonális dysplasia miatt kezelést igényeltek; 2 éves kor alatt, nem korrigált, kongenitális szívelégtelenségben szenvedő gyermekek részére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06043 palivizumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0106 | Szent János Kórház és Észak-budai Egyesített Kórházak, Budapest |
+
+| 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0162 | Gottsegen György Országos Kardiológiai Intézet |
+
+| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ, Pécs |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 0401 | Pándy Kálmán Megyei Kórház, Gyula |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0701 | Fejér Megyei Szent György Kórház, Székesfehérvár |
+
+| 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
+
+| 0802 | Sopron Megyei Jogú Város Erzsébet Kórház és Oktató Kórház |
+
+| 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
+
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+
+| 1101 | Szent Borbála Kórház, Tatabánya |
+
+| 1201 | Szent Lázár Megyei Kórház, Salgótarján |
+
+| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+
+| 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 13.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Primer immunhiányos állapotok immunglobulin szubsztitúciós kezelése.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06044 humán normál immunglobulin
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+| 0109 | Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
+
+| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+
+| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+
+2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^84]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^79]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^84]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
