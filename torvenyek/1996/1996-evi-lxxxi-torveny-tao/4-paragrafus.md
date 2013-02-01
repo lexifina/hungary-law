@@ -228,7 +228,7 @@ h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fiókte
 
 37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett szervezet.
 
-38. az előadó-művészeti államigazgatási szerv által kiadott támogatási igazolás: olyan okirat, amelyet az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet támogatója részére állít ki, és amely tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét. Az előadó-művészeti államigazgatási szerv által egy előadó-művészeti szervezethez kapcsolódó, egy évben kiadott, kedvezményre jogosító támogatási igazolások összértéke nem haladhatja meg az előadó-művészeti szervezet tárgyévi jegybevétele 80%-ának megfelelő összeget.
+38. az előadó-művészeti államigazgatási szerv által kiadott támogatási igazolás: az előadó-művészeti államigazgatási szerv által az előadó-művészeti szervezet támogatója részére kiadott, a támogatást nyújtó adózó megnevezését, székhelyét, adószámát és a kedvezményre jogosító támogatás összegét tartalmazó okirat, amely tekintetében az egy előadó-művészeti szervezethez kapcsolódó, tárgyévre vonatkozóan kiadott kedvezményre jogosító támogatási igazolások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
 
 39. előadó-művészeti szervezet jegybevétele: e törvény alkalmazásában az a TESZOR 90.01. Előadóművészet, a TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenységből a bábszínházi előadás általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétele.
 
