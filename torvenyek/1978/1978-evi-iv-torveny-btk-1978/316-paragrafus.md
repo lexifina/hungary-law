@@ -16,7 +16,7 @@ c) üzletszerűen,
 
 d) dolog elleni erőszakkal – ideértve azt is, ha a dolog eltulajdonításának megakadályozására szolgáló eszközt állagsérelem okozása nélkül eltávolítják, vagy a dolog eltulajdonításának megakadályozására alkalmatlanná teszik –,
 
-e)
+e) egy vagy több közokirat, magánokirat vagy készpénz-helyettesítő fizetési eszköz egyidejű elvételével
 
 f) helyiségbe vagy ehhez tartozó bekerített helyre megtévesztéssel vagy a jogosult (használó) tudta és beleegyezése nélkül bemenve,
 
@@ -38,7 +38,7 @@ a) a lopást nagyobb értékre,
 
 b) a kisebb értékre elkövetett lopást
 
-1. a (2) bekezdés a)–d) pontjában meghatározott módon,
+1. a (2) bekezdés a)–e) pontjában meghatározott módon,
 
 2. kulturális javak körébe tartozó tárgyra,
 
@@ -54,13 +54,15 @@ követik el.
 
 a) a lopást jelentős értékre,
 
-b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–d) pontjában meghatározott módon követik el.
+b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
+
+követik el.
 
 (6) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
 
 a) a lopást különösen nagy értékre,
 
-b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–d) pontjában meghatározott módon,
+b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
 
 c)
 
@@ -70,7 +72,7 @@ követik el.
 
 a) a lopást különösen jelentős értékre,
 
-b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–d) pontjában meghatározott módon,
+b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
 
 c)
 

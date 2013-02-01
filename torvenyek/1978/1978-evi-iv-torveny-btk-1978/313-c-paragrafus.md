@@ -52,9 +52,9 @@ meghatározott módon követik el.
 
 (7) Aki
 
-a) olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, mástól, ennek beleegyezése nélkül, jogtalanul megszerez,
+a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, mástól, ennek beleegyezése nélkül, jogtalanul elvesz vagy megszerez,
 
-b) hamis vagy meghamisított, illetve az a) pontban meghatározott módon megszerzett készpénz-helyettesítő fizetési eszközt átad, megszerez, az országba behoz, onnan kivisz, az ország területén átvisz,
+b) hamis vagy meghamisított, illetve az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt átad, megszerez, az országba behoz, onnan kivisz, az ország területén átvisz,
 
 vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
