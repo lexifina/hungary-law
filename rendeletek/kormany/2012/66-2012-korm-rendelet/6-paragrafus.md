@@ -16,7 +16,7 @@ e) a kijelölni kívánt kábítószer-felelős és helyettese nevét.
 
 (2) A tevékenységi engedély iránti kérelemhez mellékelni kell:
 
-a) a gazdálkodó szervezet képviseletére jogosult személy, és a kábítószer-felelős, valamint helyettese aláírási címpéldányát,
+a)[^6] a (2a) bekezdés kivételével a gazdálkodó szervezet képviseletére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, és a kábítószer-felelősnek, valamint helyettesének a gazdálkodó szervezet képviseletére jogosult személy által igazolt aláírás-mintáját,
 
 b) a kijelölni kívánt kábítószer-felelős és helyettese végzettségét igazoló oklevél hitelesített másolatát,
 
@@ -28,6 +28,8 @@ e) a d) pontban megjelölt tervrajzokhoz mellékletként annak leírását, hogy
 
 f) az 1. melléklet szerinti anyag- és a személyforgalom útjának leírását az érintett helyiségek, raktárak között.
 
+(2a)[^7] Ha a gazdálkodó szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az EEKH az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
 (3) Kábítószer-felelősnek és helyettesének csak orvosi, állatorvosi, gyógyszerészi, vegyész- vagy biológus-mérnöki, vegyészi, biológusi, vagy kémia, biológia szakos tanári, valamint a kábítószerek és pszichotróp anyagok előállítására alkalmas növények termesztése, és a velük kapcsolatos kutatási és oktatási tevékenység esetén agrármérnöki vagy kertészmérnöki szakképzettséggel rendelkező személy jelölhető ki.
 
 (4) Kábítószer-felelősnek és kábítószer-felelős helyettesének gyártással foglalkozó gazdálkodó szervezetnél főállásban alkalmazott, egyéb esetekben a gazdálkodó szervezetnél főállásban vagy szerződéssel alkalmazott személyt lehet kijelölni.
@@ -35,3 +37,6 @@ f) az 1. melléklet szerinti anyag- és a személyforgalom útjának leírását
 (5) Az engedély megadására kijelölt kábítószer-felelős és helyettese felel a kábítószerekkel és pszichotróp anyagokkal folytatott tevékenység e rendeletnek való megfeleléséért, az anyagok eltérítésének megakadályozása érdekében megteendő intézkedésekért, a 18. § (1) bekezdésében meghatározott nyilvántartások naprakész és pontos vezetéséért, valamint az adatszolgáltatásért és a kezelési szabályok betartásáért, továbbá, ha az 1. melléklet szerinti anyaggal kapcsolatban bármilyen rendellenességet tapasztal, a hatáskörrel és illetékességgel rendelkező hatóságok haladéktalan (távközlési eszközön történő) értesítéséért.
 
 (6) A kábítószer-felelős és helyettese köteles évente legalább egy alkalommal az engedélyező és ellenőrző hatóságok által rendezett, a kábítószerekre és pszichotróp anyagokra vonatkozó továbbképzésen részt venni.
+
+[^6]: A 6. § (2) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^7]: A 6. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 48. § (2) bekezdése iktatta be.
