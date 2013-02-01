@@ -1,4 +1,4 @@
-2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^35]
+2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^36]
 
 A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
@@ -56,4 +56,4 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 13. | Honvédelmi és katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintő esetben. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
 
-[^35]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^36]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a szerint módosított szöveg.

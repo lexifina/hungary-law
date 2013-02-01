@@ -4,6 +4,6 @@
 
 (2) E rendelet előírásait a hatálybalépést követően indult eljárásokban kell alkalmazni.
 
-(3)[^30]
+(3)[^31]
 
-[^30]: A 6. § (3) bekezdését a 249/2009. (XI. 13.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^31]: A 6. § (3) bekezdését a 249/2009. (XI. 13.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
