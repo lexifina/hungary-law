@@ -12,9 +12,11 @@
 
 | Sor- szám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Termék- típus | Különös rendelkezések(2) |
 
-| 1.74 | szén-dioxid | szén-dioxid EK-szám: 204-696-9 CAS-szám: 124-38-9 | 990 ml/l | 2009. november 1. | 2011. október 31. | 2019. október 31. | 14 | Kizárólag használatkész, zárszerkezettel ellátott gáztartályban való felhasználásra. |
+| 1.87 | szén-dioxid | szén-dioxid EK-szám: 204-696-9 CAS-szám: 124-38-9 | 990 ml/l | 2009. november 1. | 2011. október 31. | 2019. október 31. | 14 | Kizárólag használatkész, zárszerkezettel ellátott gáztartályban való felhasználásra. |
 
-## 74 A táblázat 1. pontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (4) bekezdése alapján 2009. november 1-jén lépett hatályba.
+| 2. | (Z,E)-tetradeka- 9,12-dienil-acetát | (9Z,12E)-tetradeka- 9,12-dién-1-il- acetát EK-szám: n. a. CAS-szám: 30507-70-1 | 977 g/kg | 2013. február 1. | 2015. január 31. | 2023. január 31. | 19 | A nyilvántartásba vétel a következő feltételeknek megfelelően történik: 1. Csak a 2 mg (Z,E)-tetradeka-9,12-dienil-acetátot tartalmazó, beltéri használatra szánt csapdákra vonatkozóan. 2. A (Z,E)-tetradeka-9,12-dienil-acetátot tartalmazó biocid termékek címkéjén fel kell tüntetni, hogy az említett termékek kizárólag beltérben használhatók, valamint nem használhatók olyan terekben, ahol kicsomagolt élelmiszer vagy takarmány található. |
+
+## 87 A táblázat 1. pontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (4) bekezdése alapján 2009. november 1-jén lépett hatályba.
 
 ## 1/b) számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
@@ -1206,7 +1208,7 @@
 
 együttes rendelethez[^91]
 
-[^85]: Az 1/a) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának b) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. november 1-jén.
+[^85]: Az 1/a) számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának b) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. november 1-jén. Az 1/a) számú melléklet a 31/2011. (VI. 16.) NEFMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^86]: A jelmagyarázat a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (4) bekezdése alapján 2009. november 1-jén lépett hatályba.
 [^87]: A jegyzéken szereplő alapanyagok feltüntetésére az alapanyagok közösségi jegyzékbe történő felvételét követően kerül sor.
 [^88]: A 2/b) számú melléklet IX. pontjának második franciabekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdésének a) pontjával megállapított szöveg.
