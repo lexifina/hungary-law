@@ -1,4 +1,4 @@
-2. melléklet a 60/2011. (XI. 25.) NFM rendelethez[^3]
+2. melléklet a 60/2011. (XI. 25.) NFM rendelethez[^6]
 
 A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke
 
@@ -16,4 +16,4 @@ A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mér
 
 | 5. | A nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról szóló 75/2005. (IX. 29.) GKM–KvVM együttes rendelet | 1 000 000 |
 
-[^3]: A 2. melléklet a 45/2012. (VIII. 2.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 45/2012. (VIII. 2.) NFM rendelet 10. §-a szerint módosított szöveg.

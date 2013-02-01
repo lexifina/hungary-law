@@ -8,7 +8,7 @@
 
 a) a szervezet nevét, címét (székhelye), telefonszámát, telefaxszámát, e-mail címét és honlapcímét,
 
-b) a cégbejegyzés adatait: a bejegyző cégbíróság nevét, a cégbejegyzés keltét és számát, a szervezeti formát (Zrt., Kft. stb.) és az állományi létszámot.
+b)[^5] a szervezet állományi létszámát és nyilvántartási számát, illetve cégjegyzékszámát.
 
 2. A kérelemben a kérelmező nyilatkozik, hogy milyen megfelelőségértékelési tevékenységre kéri a kijelölést: vizsgálat, ellenőrzés vagy tanúsítás, illetve ezek kombinációja.
 
@@ -73,3 +73,5 @@ c) van-e eljárása a szervezet által kiadott tanúsítványok és tanúsítás
 11. A kérelmező a kérelemben felsorolja, hogy a kijelölés iránti kérelem tárgyát képező tevékenységét az elmúlt öt évben mely szervek, szervezetek értékelték, és csatolja az erről készült dokumentumokat, a kérelmező felsorolja az értékelők neveit és címeit, az értékelt tevékenység fajtáit, az értékelés tárgyát és az okiratok számát, valamint az értékelés időpontját és érvényességét.
 
 12. A kérelem alján a kijelölést kérelmező szervezet törvényes képviselője nyilatkozik arról, hogy az 1–12. pontokban közölt válaszok és adatok a valóságnak megfelelnek, majd a kérelmet a kérelem alján dátummal és aláírásával ellátja.
+
+[^5]: Az 1. melléklet 1. pont b) alpontja a 3/2013. (I. 29.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.

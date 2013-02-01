@@ -14,7 +14,7 @@ d) a tevékenységhez tartozó műszaki előírások azonosítóinak listáját.
 
 (3) A kérelmező az Msztv. 6. § (3) bekezdés b) pontja szerinti esetben az R. 12. § (2) bekezdésében, valamint a (2) bekezdésben meghatározottakon túl a kérelemhez csatolja:
 
-a) a 30 napnál nem régebbi cégkivonatot,
+a)[^2]
 
 b) a nemzetközi tanúsítási rendszerekben kapott elismeréseket, ha vannak ilyenek,
 
@@ -40,4 +40,9 @@ l) a szakmai vezető esetében a 2. § (1) bekezdés szerinti igazoló dokumentu
 
 m) a 2. § (7) bekezdése szerinti jelentés mintát.
 
+(3a)[^3] A kijelölő hatóság a kérelem elbírálásához elektronikus úton, közvetlen lekérdezéssel beszerzi a kérelmező szervezet 30 napnál nem régebbi cégkivonatát.
+
 (4) A kérelemben nyilatkozni kell arról, hogy a kérelmezett megfelelőségértékelési tevékenység harmonizációs uniós jogi aktus hatálya alá tartozik-e vagy sem, valamint arról, hogy rendelkezik-e teljes körű vagy részleges akkreditálással.
+
+[^2]: A 3. § (3) bekezdés a) pontját a 3/2013. (I. 29.) NFM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 3. § (3a) bekezdését a 3/2013. (I. 29.) NFM rendelet 7. § (1) bekezdése iktatta be.
