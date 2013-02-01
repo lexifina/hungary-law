@@ -22,6 +22,6 @@
 
 ## – műszaki leírást, mely megadja a berendezés főbb műszaki adatait, megengedett óránkénti indításainak, illetve hidraulikus ciklusainak számát, névleges és indítási áramfelvételét és a berendezésből származó elvezetendő hőteljesítményt.
 
-7. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^57]
+7. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^60]
 
-[^57]: A 7. számú mellékletet a 246/2002. (XI. 28.) Korm. rendelet 7. §-ának (2) bekezdése iktatta a szövegbe.
+[^60]: A 7. számú mellékletet a 246/2002. (XI. 28.) Korm. rendelet 7. §-ának (2) bekezdése iktatta a szövegbe.

@@ -4,7 +4,7 @@
 
 (2) A központi nyilvántartásnak tartalmaznia kell a felvonó, illetőleg a mozgólépcső
 
-a)[^38] ÉMI azonosító számát és a felszerelés helyét, a 3. § (2) bekezdésében meghatározott főbb műszaki adatokat, továbbá a beszállóhelyek számát, a felújítás időpontját és a gyártó, illetve forgalmazó megnevezését,
+a)[^40] ÉMI azonosító számát és a felszerelés helyét, a 3. § (2) bekezdésében meghatározott főbb műszaki adatokat, továbbá a beszállóhelyek számát, a felújítás időpontját és a gyártó, illetve forgalmazó megnevezését,
 
 b) tulajdonosának és – ha nem azonos – az üzemeltetőjének a nevét és címét,
 
@@ -22,7 +22,7 @@ h) az építésügyi hatóság által tett intézkedéseket.
 
 (3) A központi nyilvántartáshoz szükséges adatszolgáltatás nem teljesítése esetén – annak pótlása érdekében – az ÉMI az illetékes építésügyi hatóságnál eljárást kezdeményez.
 
-(4)[^39] Adatszolgáltatásra kötelezett a vizsgálatot követő 30 napon belül, hatósági intézkedést igénylő esetben 15 napon belül:
+(4)[^41] Adatszolgáltatásra kötelezett a vizsgálatot követő 30 napon belül, hatósági intézkedést igénylő esetben 15 napon belül:
 
 a) a kijelölt szervezet, a felvonóval, illetőleg mozgólépcsővel kapcsolatos, a 9. § (2) bekezdés a) pontjában meghatározott adatok tekintetében,
 
@@ -32,5 +32,5 @@ c) az üzemeltető a 9. § (2) bekezdés b), c), e), g), h) pontjában foglalt a
 
 (5) Az első fokú építésügyi hatóságok a működési területükön lévő felvonókkal és mozgólépcsőkkel kapcsolatos hatósági intézkedéseket az építésügyi műszaki nyilvántartásról szóló külön jogszabályok rendelkezései szerint tartják nyilván, évenként emelkedő sorszámmal.
 
-[^38]: A 9. § (2) bekezdésének a) pontja a 173/1999. (XII. 6.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg.
-[^39]: A 9. § (4) bekezdése a 173/1999. (XII. 6.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg.
+[^40]: A 9. § (2) bekezdésének a) pontja a 173/1999. (XII. 6.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg.
+[^41]: A 9. § (4) bekezdése a 173/1999. (XII. 6.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg.

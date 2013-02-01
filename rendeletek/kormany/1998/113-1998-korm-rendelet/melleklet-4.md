@@ -38,7 +38,7 @@
 
 ## miniszter
 
-4. a) számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^54]
+4. a) számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^57]
 
 ## Építésügyi Minőségellenőrző
 
@@ -138,4 +138,4 @@
 
 4. b) számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez
 
-[^54]: A 4. a) számú melléklet a 61/2008. (III. 27.) Korm. rendelet 22. § (8) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
+[^57]: A 4. a) számú melléklet a 61/2008. (III. 27.) Korm. rendelet 22. § (8) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.

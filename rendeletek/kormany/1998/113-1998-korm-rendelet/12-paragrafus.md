@@ -8,6 +8,6 @@ b) az üzemeltetés, karbantartás, használat ellenőrzésével kapcsolatos –
 
 ## alkalmazni kell.
 
-(2)[^42]
+(2)[^44]
 
-[^42]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1274. pontja hatályon kívül helyezte.
+[^44]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1274. pontja hatályon kívül helyezte.

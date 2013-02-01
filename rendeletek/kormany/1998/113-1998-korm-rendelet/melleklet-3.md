@@ -8,13 +8,13 @@
 
 ## A díj megfizetésére a kijelölt szervezetek és ellenőrök kötelezettek az ÉMI felhívására.
 
-## 2.[^51] A központi nyilvántartás vezetéséért felvonónként, illetőleg mozgólépcsőnként az alábbiak szerint kell az adatszolgáltatásra kötelezetteknek a díjat megfizetniük:
+## 2.[^53] A központi nyilvántartás vezetéséért felvonónként, illetőleg mozgólépcsőnként az alábbiak szerint kell az adatszolgáltatásra kötelezetteknek a díjat megfizetniük:
 
 ## Egy berendezés nyilvántartásának éves díja: 2200 Ft, melyet a kijelölt szervezet éves első vizsgálatának elvégzése után kell megfizetni. A díj tartalmazza a berendezés egyszeri nyilvántartásba vételének költségét is. A kijelölt szervezet a díjat az üzemeltetőre egy összegben, az első műszaki biztonságtechnikai felülvizsgálat díjában átháríthatja.
 
 ## 3. Az 1–2. pontokban felsorolt díjakon felül általános forgalmi adót kell fizetni. A kijelölt szervezethez beérkezett nyilvántartási díjakat az első műszaki biztonságtechnikai felülvizsgálatot követő hónap 15. napjáig az ÉMI részére át kell utalni.
 
-3. a) számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^52]
+3. a) számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^54]
 
 ## Önkormányzati és Területfejlesztési Minisztérium
 
@@ -158,7 +158,7 @@
 
 ## Mellékletek:
 
-## 1. Cégkivonat hiteles másolata
+## 1.[^55]
 
 ## 2. Alapító okirat vagy ezzel egyenértékű okmány hiteles másolata
 
@@ -170,8 +170,9 @@
 
 ## 6. Egyéb, a kijelölési kérelmet megalapozó dokumentum(ok)
 
-3. b) számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^53]
+3. b) számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^56]
 
-[^51]: A 2. számú melléklet 2. pontja a 121/2004. (IV. 29.) Korm. rendelet 28. §-ának (1) bekezdésével megállapított szöveg.
-[^52]: A 3. a) számú melléklet a 246/2002. (XI. 28.) Korm. rendelet 8. §-a, a 61/2008. (III. 27.) Korm. rendelet 23. § (4) bekezdésének c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
-[^53]: A 3. b) számú melléklet a 246/2002. (XI. 28.) Korm. rendelet 8. §-a, a 61/2008. (III. 27.) Korm. rendelet 23. § (4) bekezdésének c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
+[^53]: A 2. számú melléklet 2. pontja a 121/2004. (IV. 29.) Korm. rendelet 28. §-ának (1) bekezdésével megállapított szöveg.
+[^54]: A 3. a) számú melléklet a 246/2002. (XI. 28.) Korm. rendelet 8. §-a, a 61/2008. (III. 27.) Korm. rendelet 23. § (4) bekezdésének c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
+[^55]: A 3. a) számú melléklet „Mellékletek” 1. pontját a 355/2012. (XII. 13.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^56]: A 3. b) számú melléklet a 246/2002. (XI. 28.) Korm. rendelet 8. §-a, a 61/2008. (III. 27.) Korm. rendelet 23. § (4) bekezdésének c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
