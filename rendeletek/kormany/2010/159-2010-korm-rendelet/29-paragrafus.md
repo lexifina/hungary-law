@@ -22,6 +22,6 @@ d) a bejelentés tárgyával összefüggésben korábban keletkezett hatósági 
 
 (2) A bejelentéshez – a 4. § (2) bekezdés b)–c) pontjában foglaltakon túlmenően, a bejelentés tartalmától függően – mellékelni kell a műszaki tervdokumentációt 5 példányban.
 
-(3)[^18] A bejelentést a tevékenység tervezett megkezdését megelőzően tizenöt nappal kell megtenni. A tevékenység akkor kezdhető meg, ha a légiközlekedési hatóság a tevékenység megkezdését annak tervezett időpontjáig nem tiltotta meg.
+(3)[^20] A bejelentést a tevékenység tervezett megkezdését megelőzően tizenöt nappal kell megtenni. A tevékenység akkor kezdhető meg, ha a légiközlekedési hatóság a tevékenység megkezdését annak tervezett időpontjáig nem tiltotta meg.
 
-[^18]: A 29. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (145) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^20]: A 29. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (145) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

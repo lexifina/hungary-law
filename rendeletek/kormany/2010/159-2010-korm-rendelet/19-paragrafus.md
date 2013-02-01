@@ -14,6 +14,6 @@ d) az 1. mellékletben felsorolt általános építmények esetében az építé
 
 (3) A légiközlekedési hatóság a létesítési engedélyt a zajgátló védőövezetet kijelölő jogerős határozat hiányában is megadja, ha a kérelmező tudomásul veszi azt, hogy a repülőtér üzemben tartási engedélye megadásának feltétele a zajgátló védőövezetet kijelölő jogerős és végrehajtható határozat megléte.
 
-(4)[^16] Ha a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló jogszabály szerint a zajgátló védőövezet nem haladja meg a repülőtér területét, a légiközlekedési hatóság a zajgátló védőövezet kijelöléséről a létesítési engedélyben rendelkezik.
+(4)[^18] Ha a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló jogszabály szerint a zajgátló védőövezet nem haladja meg a repülőtér területét, a légiközlekedési hatóság a zajgátló védőövezet kijelöléséről a létesítési engedélyben rendelkezik.
 
-[^16]: A 19. § (4) bekezdését a 309/2010. (XII. 23.) 4. §-a iktatta be.
+[^18]: A 19. § (4) bekezdését a 309/2010. (XII. 23.) 4. §-a iktatta be.

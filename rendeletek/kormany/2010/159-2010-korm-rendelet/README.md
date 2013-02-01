@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-159-20-
 | 2012-04-27 | 2010-159-20-22.9 | 88/2012. (IV. 26.) Korm. rendelet |
 | 2012-07-01 | 2010-159-20-22.10 | 309/2010. (XII. 23.) Korm. rendelet |
 | 2013-01-01 | 2010-159-20-22.11 | 322/2012. (XI. 16.) Korm. rendelet |
+| 2013-02-01 | 2010-159-20-22.12 | 355/2012. (XII. 13.) Korm. rendelet |
