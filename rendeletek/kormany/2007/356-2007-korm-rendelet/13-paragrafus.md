@@ -1,4 +1,4 @@
-13. §[^24] (1) A földhasználó a földhasználati lap I. részében meghatározott adatainak a megváltozását – a Tft. 25/B. § (4a) bekezdésében meghatározott határidőn belül – köteles a változás-bejelentési adatlap benyújtásával bejelenteni a földhivatalnak.
+13. §[^25] (1) A földhasználó a földhasználati lap I. részében meghatározott adatainak a megváltozását – a Tft. 25/B. § (4a) bekezdésében meghatározott határidőn belül – köteles a változás-bejelentési adatlap benyújtásával bejelenteni a földhivatalnak.
 
 (2) Az (1) bekezdés szerinti bejelentési kötelezettség kiterjed a cég végelszámolása, csődeljárása, felszámolása és kényszertörlése esetén a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerint a cég nevében kötelezően használandó toldat miatt a cég megnevezésében bekövetkezett változás bejelentésére is.
 
@@ -10,4 +10,4 @@
 
 (6) A földhivatal a változások átvezetését a földhasználati lapnak a változással érintett adatokat tartalmazó részleges másolata megküldésével közli a földhasználóval és a használatba adóval.
 
-[^24]: A 13. § a 429/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^25]: A 13. § a 429/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

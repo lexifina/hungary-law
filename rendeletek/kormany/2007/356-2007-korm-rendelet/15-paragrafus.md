@@ -1,4 +1,4 @@
-## 14/A. §[^26] A földhivatal az alhaszonbérleti szerződés alapján a haszonbérlő földhasználati lapján hivatalból törli annak a földterületnek a használatát, amelyre az alhaszonbérleti szerződés szerint más földhasználó alhaszonbérlet címén a földhasználatát bejelentette.
+## 14/A. §[^27] A földhivatal az alhaszonbérleti szerződés alapján a haszonbérlő földhasználati lapján hivatalból törli annak a földterületnek a használatát, amelyre az alhaszonbérleti szerződés szerint más földhasználó alhaszonbérlet címén a földhasználatát bejelentette.
 
 15. § (1) A földhasználati lapot törölni kell, ha az azon nyilvántartott valamennyi használat megszűnt.
 
@@ -6,4 +6,4 @@
 
 (3) Ha a földhivatal ellenőrzése során vagy bejelentés alapján észleli, hogy a földhasználati lap törlés tévesen történt, a földhasználati lapot helyre kell állítani.”
 
-[^26]: A 14/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 599. § (13) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 14/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 599. § (13) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
