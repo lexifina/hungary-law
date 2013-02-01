@@ -1,6 +1,6 @@
-## 37. §[^66] A megszűnő szervek az állami adóhatóság (2011. január 1-jétől a Nemzeti Adó- és Vámhivatal) felé teljesítendő bejelentési, változásbejelentési, bevallási és adatszolgáltatási kötelezettségüket a megszűnésre vonatkozó általános szabályok szerint teljesítik.
+## 37. §[^67] A megszűnő szervek az állami adóhatóság (2011. január 1-jétől a Nemzeti Adó- és Vámhivatal) felé teljesítendő bejelentési, változásbejelentési, bevallási és adatszolgáltatási kötelezettségüket a megszűnésre vonatkozó általános szabályok szerint teljesítik.
 
-38. §[^67] (1) A kormányhivatalok megalakulását követően a főigazgató, illetve az igazgató kinevezéséig, de legkésőbb 2011. február 28-ig a jogelőd fővárosi és megyei közigazgatási hivatal hivatalvezetője a főigazgatói feladatokat, a főtitkára az igazgatói feladatokat látja el.
+38. §[^68] (1) A kormányhivatalok megalakulását követően a főigazgató, illetve az igazgató kinevezéséig, de legkésőbb 2011. február 28-ig a jogelőd fővárosi és megyei közigazgatási hivatal hivatalvezetője a főigazgatói feladatokat, a főtitkára az igazgatói feladatokat látja el.
 
 (2) Az (1) bekezdésben meghatározott időtartam alatt a hivatalvezető, illetve a főtitkár a korábbi illetményének megfelelő összegű illetményre és juttatásokra jogosult.
 
@@ -74,5 +74,5 @@ látja el.
 
 (5) A kormányhivatalok megalakulását követően a gazdasági vezető kinevezéséig, de legkésőbb 2011. február 28-ig a jogelőd fővárosi és megyei közigazgatási hivatal gazdasági vezetője látja el a gazdasági vezetői feladatokat.
 
-[^66]: A 37. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
-[^67]: A 38. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^67]: A 37. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^68]: A 38. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
