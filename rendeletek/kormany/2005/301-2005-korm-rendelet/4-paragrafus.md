@@ -40,17 +40,17 @@ f)[^12] az épületek, helyiségek és a haditechnikai termékek tároló helyé
 
 (3)[^13] A kérelemhez csatolni kell a következő, 60 napnál nem régebbi okiratokat:
 
-a)[^14] a cégkivonatot vagy a hatósági nyilvántartásba vétel igazolását,
+a)[^14] a hatósági nyilvántartásba vétel igazolását,
 
 b)[^15] a számlavezető pénzforgalmi szolgáltató által kiadott, a számlaforgalommal kapcsolatos pénzforgalmi szolgáltatói információt,
 
-c) gazdasági társaság, szövetkezet vagy külföldi székhelyű vállalkozás magyarországi fióktelepe esetén a kérelmező képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját.
+c)[^16] cégjegyzékben nyilvántartott cég esetén – 4. § (5) bekezdésben foglalt kivétellel – a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát.
 
-(4)[^16] Ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, a (3) bekezdés szerinti kérelemhez 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül.
+(4)[^17] Ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, a (3) bekezdés szerinti kérelemhez 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül.
 
-(5)[^17] Ha a kérelmező a (3) bekezdés a) vagy c) pontjában meghatározott adatokat nem igazolja, a Hivatal az engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(5)[^18] Ha a kérelmező a (3) bekezdés a) pontjában meghatározott adatot nem igazolja, a Hivatal az engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a nyilvántartást vezető hatósághoz. Ha a kérelmező cégjegyzékben nyilvántartott cég, a Hivatal a cégkivonatot, valamint – ha a kérelmező a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza – az iratot, a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(6)[^18] A kérelem benyújtásával egyidejűleg a kérelmezőnek nyilatkoznia kell arról, hogy
+(6)[^19] A kérelem benyújtásával egyidejűleg a kérelmezőnek nyilatkoznia kell arról, hogy
 
 a) a gyártáshoz vagy a szolgáltatások nyújtásához szükséges személyi, szakmai és tárgyi feltételekkel, valamint a titokvédelmi és biztonsági előírások betartásának feltételeivel rendelkezik,
 
@@ -70,8 +70,9 @@ d) a külön jogszabályban előírt termékekről nyilvántartást vezet, illet
 [^11]: A 4. § (2) bekezdés d) pontja a 182/2009. (IX. 10.) Korm. rendelet 440. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^12]: A 4. § (2) bekezdés f) pontja a 292/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^13]: A 4. § (3) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg. E módosító rendelet 41. § (4) bekezdése alapján, ahol kormányrendelet vagy miniszteri rendelet aláírási címpéldány benyújtását írja elő, e kötelezettség ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta benyújtásával is teljesíthető.
-[^14]: A 4. § (3) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 440. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 4. § (3) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 440. §-a, a 355/2012. (XII. 13.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^15]: A 4. § (3) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 34. §-a szerint módosított szöveg.
-[^16]: A 4. § új (4) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
-[^17]: A 4. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 19. § (2) bekezdése. A 4. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 439. § (2) bekezdésével megállapított, a 292/2011. (XII. 22.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^18]: A 4. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 439. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 4. § (3) bekezdés c) pontja a 355/2012. (XII. 13.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. § új (4) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
+[^18]: A 4. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 19. § (2) bekezdése. A 4. § (5) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 439. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

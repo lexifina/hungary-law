@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-301-20-
 | 2012-01-01 | 2005-301-20-22.9 | 292/2011. (XII. 22.) Korm. rendelet |
 | 2012-02-01 | 2005-301-20-22.10 | 292/2011. (XII. 22.) Korm. rendelet |
 | 2012-10-12 | 2005-301-20-22.11 | 292/2011. (XII. 22.) Korm. rendelet |
+| 2013-02-01 | 2005-301-20-22.12 | 182/2009. (IX. 10.) Korm. rendelet |
