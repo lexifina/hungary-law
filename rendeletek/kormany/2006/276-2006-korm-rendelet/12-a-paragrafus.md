@@ -20,11 +20,13 @@ a) a „V”, az „SP” és a „CD” betűjelű ideiglenes, továbbá az „
 
 b) az egyénileg kiválasztott rendszámtábla megválasztásának és az egyedileg előállított rendszámtábla legyártatásának engedélyezésével, valamint
 
-c) a külföldi vezetői engedély honosításával
+c) a külföldi vezetői engedély honosításával,
+
+d)[^18] az elektronikus úton indított közlekedési igazgatási ügyekkel
 
 kapcsolatos feladatokat.
 
-(4)[^18] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
+(4)[^19] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
 
 a) a „P”, és a „Z” betűjelű ideiglenes, valamint
 
@@ -32,4 +34,5 @@ b) a külön jogszabályban meghatározott közúti közlekedési szolgáltatás
 
 [^16]: A 12/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.
 [^17]: A 12/A. § (3) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^18]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 12/A. § (3) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^19]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.

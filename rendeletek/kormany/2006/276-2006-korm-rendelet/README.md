@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-276-20-
 | 2012-12-31 | 2006-276-20-22.27 | 176/2007. (VII. 1.) Korm. rendelet |
 | 2013-01-01 | 2006-276-20-22.28 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2013-01-17 | 2006-276-20-22.29 | 5/2013. (I. 16.) Korm. rendelet |
+| 2013-02-01 | 2006-276-20-22.30 | 5/2013. (I. 16.) Korm. rendelet |
