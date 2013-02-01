@@ -1,12 +1,12 @@
-## 45. §[^127] E rendelet eltérő rendelkezése hiányában lőfegyver, lőszer, színházi fegyver kivitelére, behozatalára, átszállítására engedélyt az kaphat, aki (amely) annak gyártására javítására, forgalmazására vagy tartására jogosító engedéllyel rendelkezik.
+## 45. §[^128] E rendelet eltérő rendelkezése hiányában lőfegyver, lőszer, színházi fegyver kivitelére, behozatalára, átszállítására engedélyt az kaphat, aki (amely) annak gyártására javítására, forgalmazására vagy tartására jogosító engedéllyel rendelkezik.
 
-46. § (1)[^128] Külföldi állam belső joga szerint védetté nyilvánított személy vagy nemzetközi szervezet tisztségviselője, illetve védelmét ellátó biztonsági személyzet tagja lőfegyverének és lőszerének behozatalát, kivitelét, az ország területén való átszállítását – a külpolitikáért felelős miniszter véleményének kikérésével – az Országos Rendőr-főkapitányság engedélyezi.
+46. § (1)[^129] Külföldi állam belső joga szerint védetté nyilvánított személy vagy nemzetközi szervezet tisztségviselője, illetve védelmét ellátó biztonsági személyzet tagja lőfegyverének és lőszerének behozatalát, kivitelét, az ország területén való átszállítását – a külpolitikáért felelős miniszter véleményének kikérésével – az Országos Rendőr-főkapitányság engedélyezi.
 
-(2)[^129] Az (1) bekezdés szerinti engedély meglétét igazoló hatósági igazolványt a 15. számú melléklet szerint kell kiállítani. Az engedély kiadása, illetve az ennek meglétét igazoló hatósági igazolvány kiállítása viszonosság esetén díjmentes.
+(2)[^130] Az (1) bekezdés szerinti engedély meglétét igazoló hatósági igazolványt a 15. számú melléklet szerint kell kiállítani. Az engedély kiadása, illetve az ennek meglétét igazoló hatósági igazolvány kiállítása viszonosság esetén díjmentes.
 
-(3)[^130] A (2) bekezdés szerinti lőfegyver (lőszer) kísérő igazolvány hatályossága alatt a lőfegyver, lőszer tartására és viselésére és kivitelére is jogosít.
+(3)[^131] A (2) bekezdés szerinti lőfegyver (lőszer) kísérő igazolvány hatályossága alatt a lőfegyver, lőszer tartására és viselésére és kivitelére is jogosít.
 
-[^127]: A 45. § a 39/2012. (III. 12.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^128]: A 46. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^129]: A 46. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 22. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^130]: A 46. § (3) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^128]: A 45. § a 39/2012. (III. 12.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^129]: A 46. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^130]: A 46. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 22. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^131]: A 46. § (3) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,4 +1,4 @@
-## 18. §[^45] Lőfegyver hatástalanítását a jogszabályban kijelölt szervezet végezheti. A lőfegyver hatástalanításának szabályait a 21. számú melléklet határozza meg.
+## 18. §[^46] Lőfegyver hatástalanítását a jogszabályban kijelölt szervezet végezheti. A lőfegyver hatástalanításának szabályait a 21. számú melléklet határozza meg.
 
 ## 19. § A lőfegyver-kiállítás iránti kérelemnek tartalmaznia kell
 
@@ -10,4 +10,4 @@ c) a biztonsági berendezések és a kiállítás őrzésvédelmének leírásá
 
 d) a kiállítandó lőfegyverek azonosító adatait.
 
-[^45]: A 18. § a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^46]: A 18. § a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 3. pontja szerint módosított szöveg.
