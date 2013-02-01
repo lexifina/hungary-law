@@ -1,3 +1,3 @@
-## A közfoglalkoztatásra irányuló munkaerő-kölcsönzésre vonatkozó sajátos szabályok[^40]
+## A közfoglalkoztatásra irányuló munkaerő-kölcsönzésre vonatkozó sajátos szabályok[^42]
 
-[^40]: A 17/A. §-t megelőző alcímet a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^42]: A 17/A. §-t megelőző alcímet a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
