@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2013-01-18 | 2011-326-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-01-19 | 2011-326-20-22.10 | 2010: CXXX. törvény |
 | 2013-01-29 | 2011-326-20-22.11 | 15/2013. (I. 28.) Korm. rendelet |
+| 2013-02-01 | 2011-326-20-22.12 | 5/2013. (I. 16.) Korm. rendelet |

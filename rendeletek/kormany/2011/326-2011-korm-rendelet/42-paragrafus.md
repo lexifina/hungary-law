@@ -18,6 +18,8 @@ d) a jármű műszaki alkalmasságát a közlekedési hatóság megállapította
 
 e) a jármű üzemben tartója Magyarország területén rendelkezik lakóhellyel vagy székhellyel (telephellyel).
 
+(2a)[^15] Ha a kérelem elbírálásához szükséges és az érintett gazdasági társaság a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a gazdasági társaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
 (3) A (2) bekezdésben foglaltak igazolása mellett, a járművek forgalomba helyezésének további feltételei:
 
 a) a harmadik országból belföldi üzemeltetés céljából behozott használt jármű származás-ellenőrzése, illetve a jármű jogi helyzetének tisztázása megtörtént, előzetes eredetiségvizsgálatát elvégezték, valamint a járműhöz kiadott állandó vagy ideiglenes forgalmi engedélyt vagy annak a kiállító hatóság által hitelesített másolatát és annak hiteles fordítását az ügyfél a kérelméhez csatolta;
@@ -61,3 +63,5 @@ c) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság ál
 (12) A Hivatal a más EGT-állam nyilvántartó hatóságát a külföldi forgalmi engedély bevonásáról a jármű magyarországi forgalomba helyezésétől számított két hónapon belül értesíti, ezt követően az állam nyilvántartó hatóságának kérésére, illetve viszonosság esetén a külföldi okmányokat, hatósági jelzéseket az azt kiadó hatósághoz továbbítja, egyéb esetekben a jogszabályban meghatározott őrzési időt követően megsemmisíti.
 
 (13) A jármű forgalomba helyezése iránti, vagy a már forgalomba helyezett járművel kapcsolatos eljárások során a közlekedési igazgatási hatóság az ügyfél kérelmének megfelelő adattartalmú elektronikus kérelmet állít elő.
+
+[^15]: A 42. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 44. § (1) bekezdése iktatta be.

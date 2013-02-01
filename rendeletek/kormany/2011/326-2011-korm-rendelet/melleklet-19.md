@@ -20,13 +20,11 @@ c) az E betűjelű ideiglenes rendszámtábla, az ideiglenes forgalomban tartás
 
 d) személyes megjelenés esetén az ügyfél, képviseleti eljárás esetén a meghatalmazott személyazonosságát igazoló okmányt, illetve képviseleti eljárás esetén meghatalmazást, valamint
 
-e) jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság esetében
+e)[^68] jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság esetében
 
-ea) 3 hónapnál nem régebbi cégbírósági bejegyzést vagy – ha az ügyfél nem kívánja, hogy azt a hatóság szerezze be – a Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat által közokirat vagy elektronikus közokirat formájában kiadott cégkivonatot vagy ezek közjegyző vagy ügyvéd által hitelesített másolatát,
+ea) közjegyzői aláírás-hitelesítéssel ellátott címpéldányt, avagy ennek közjegyző által hitelesített másolatát,
 
-eb) közjegyzői aláírás-hitelesítéssel ellátott címpéldányt vagy ügyvéd által ellenjegyzett aláírásmintát, avagy ezek közjegyző által hitelesített másolatát,
-
-ec) a cég ügyintézőjének eljárási jogosultságát igazoló okiratot.
+eb) a cég ügyintézőjének eljárási jogosultságát igazoló okiratot.
 
 [A d) és e) pontban foglaltak a továbbiakban együtt: ügyfél-azonosító okmány].
 
@@ -393,3 +391,5 @@ b) a személyi azonosítót és a lakcímet igazoló hatósági igazolványt,
 c) külföldi esetén a szokásos tartózkodási hely országát igazoló okmányt,
 
 d) az új, kezdő vezetői engedély kiadása, új kategória megszerzése, illetve külföldi hatóság által kiállított vezetői engedély honosítása esetén az e rendeletben meghatározott tanfolyammentes gyakorlati, illetve elméleti vizsgakötelezettség teljesítésének igazolására a sikeres vizsga tényét tanúsító, a közlekedési hatóság által kiállított vizsgalapot, illetve vizsgaigazolást.
+
+[^68]: A 19. melléklet I. rész 2. pont e) alpontja a 355/2012. (XII. 13.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.

@@ -30,10 +30,10 @@ c) annak jogalapja a közös tulajdon megszüntetése, amennyiben a jármű vala
 
 d) a jármű nyilvántartott üzemben tartója változatlan marad, feltéve, ha a lízingszerződés teljesülésével a jármű tulajdonjogát megszerzi,
 
-e)[^19] annak jogalapja állami vagy önkormányzati szerv, vagy önkormányzat kezelésében lévő jármű más állami vagy önkormányzati szerv, vagy önkormányzat részére történő átadása,
+e)[^22] annak jogalapja állami vagy önkormányzati szerv, vagy önkormányzat kezelésében lévő jármű más állami vagy önkormányzati szerv, vagy önkormányzat részére történő átadása,
 
 f) annak jogalapja a használt jármű cégjegyzék vagy vállalkozói igazolvány alapján az adásvétel időpontjában fő tevékenysége szerint gépjármű-kereskedelemre jogosult szervezet vagy vállalkozó tulajdonába kerülése, kivéve a rendeltetésszerű használat céljából történő tulajdonszerzést.
 
 (8) A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
-[^19]: Az 52. § (7) bekezdés e) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^22]: Az 52. § (7) bekezdés e) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.

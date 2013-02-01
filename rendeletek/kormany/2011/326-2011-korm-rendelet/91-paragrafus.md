@@ -1,4 +1,4 @@
-91. §[^32] (1) Ideiglenes forgalmi engedélyt kell kiadni a Z, a CD és az SP betűjelű ideiglenes rendszámtáblához.
+91. §[^35] (1) Ideiglenes forgalmi engedélyt kell kiadni a Z, a CD és az SP betűjelű ideiglenes rendszámtáblához.
 
 (2) Az ideiglenes forgalmi engedély érvényességi ideje
 
@@ -8,4 +8,4 @@ b) az SP betűjelű ideiglenes rendszámtábla esetében a Műszaki Adatlapon me
 
 (3) Az SP betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedély érvényességi ideje – új rendszámtábla kiadása nélkül – cserével hosszabbítható meg a versenyjármű ismételten elvégzett vizsgálatakor kiadott Műszaki Adatlap alapján.
 
-[^32]: A 91. § az 5/2013. (I. 16.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^35]: A 91. § az 5/2013. (I. 16.) Korm. rendelet 17. §-ával megállapított szöveg.
