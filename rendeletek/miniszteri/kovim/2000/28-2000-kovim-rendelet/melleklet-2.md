@@ -414,6 +414,6 @@
 
 ## – baleset és havaria esetén teendő intézkedések.
 
-2. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^37]
+2. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^39]
 
-[^37]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának f)–g) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+[^39]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának f)–g) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.

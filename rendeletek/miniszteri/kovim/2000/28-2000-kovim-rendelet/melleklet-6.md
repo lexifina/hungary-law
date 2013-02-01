@@ -18,7 +18,7 @@
 
 | 1. Az engedély másolata vagy annak hiányát megállapító jegyzőkönyv. 2. Olyan jegyzőkönyv vagy okmánymásolat, amely tartalmazza a következő adatokat: – minden esetben: az úszólétesítmény nyilvántartási száma, – árufuvarozás esetén a berakóhely, a tervezett kirakóhely, az úszólétesítmény lobogója, a rakomány mennyisége és fajtája, – utasszállítás esetén a beszállítás helye, a kiszállítás tervezett helye, az utasok létszáma, az utasok nyilatkozata arról, hogy fizető utasként tartózkodnak az úszólétesítményen (ha ez más mellékelhető dokumentummal nem igazolható), – az úszólétesítmény üzembentartójának neve és lakóhelye (székhelye, telephelye). 3. Az úszólétesítmény vezetőjének neve és lakóhelye, útlevélszáma (magyar állampolgárságú személynél a személyi igazolvány száma is megfelelő). |
 
-6. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^41]
+6. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^43]
 
 Értesítés jogosulatlan utasszállításról, árufuvarozásról vagy úszólétesítmény jogosulatlan továbbításáról a határvámhivatal részéről
 
@@ -50,4 +50,4 @@
 
 | 1. Olyan jegyzőkönyv vagy okmánymásolat, amely tartalmazza a következő adatokat: – minden esetben: a vízijármű nyilvántartási száma, – magyar hajózási vállalkozó által bérelt német/holland lobogójú vagy német/holland vállalkozó által bérelt magyar lobogójú vízijármű esetén a bérlő neve és lakóhelye (székhelye, telephelye), – árufuvarozás esetén a berakóhely, a tervezett kirakóhely, a vízijármű lobogója, a rakomány mennyisége és fajtája, – utasszállítás esetén a beszállítás helye, a kiszállítás tervezett helye, az utasok létszáma, az utasok nyilatkozata arról, hogy fizető utasként tartózkodnak a vízijárművön (ha ez más mellékelhető dokumentummal nem igazolható), – a vízijármű üzembentartójának neve és lakóhelye (székhelye, telephelye) 2. A vízijármű vezetőjének neve és lakóhelye, útlevélszáma (magyar állampolgárságú személynél a személyi igazolvány száma is megfelelő). |
 
-[^41]: A 6. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.
+[^43]: A 6. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.

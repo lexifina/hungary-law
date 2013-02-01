@@ -34,6 +34,6 @@
 
 | NEMZETI KÖZLEKEDÉSI HATÓSÁG KÖZÉP-MAGYARORSZÁGI REGIONÁLIS IGAZGATÓSÁGA National Transport Authority, Central Hungarian Regional Directorate Nationale Behörde für Verkehrswesen, Mittelungarische Regionale Verwaltung |
 
-5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^40]
+5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^42]
 
-[^40]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.
+[^42]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.

@@ -24,6 +24,6 @@
 
 |  | M A G Y A R O R S Z Á G H U N G A R I A N R E P U B L I C |  |
 
-3. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^38]
+3. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^40]
 
-[^38]: A 3. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának h) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+[^40]: A 3. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának h) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
