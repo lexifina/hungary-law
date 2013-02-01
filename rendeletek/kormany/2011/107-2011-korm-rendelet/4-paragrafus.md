@@ -6,7 +6,7 @@
 
 (2) A kérelemhez a támogatás igénybevételére jogosult szervezet részéről csatolni kell
 
-a) 30 napnál nem régebbi igazolást a támogatási igazolás kiállítására jogosult szervezetet nyilvántartó szervezettől (bíróság, cégbíróság) a szervezet nyilvántartásban szereplő adatairól, közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányt vagy ügyvéd által ellenjegyzett aláírás mintát,
+a)[^16] – (2a) bekezdés kivételével – 30 napnál nem régebbi igazolást a támogatási igazolás kiállítására jogosult szervezetet nyilvántartó szervezettől (bíróság) a szervezet nyilvántartásban szereplő adatairól, közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányt,
 
 b) igazolást arról, hogy a támogatás igénybevételére jogosult szervezet az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint – a bejelentés időpontjában – köztartozásmentes adózónak minősül, és
 
@@ -14,7 +14,7 @@ ba) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
 bb) szerepel a köztartozásmentes adózói adatbázisban,
 
-c)[^16] a támogatással megvalósítani tervezett sportfejlesztési programjának bemutatását, célját, megnevezését, tervezett megvalósításának helyét, részletes megvalósítási tervét, amennyiben költségként elszámolandó, akkor általános forgalmi adót is tartalmazó összköltségének tervét, a megvalósítás és a finanszírozás időbeli ütemezését, valamint az építési beruházást is tartalmazó program esetén az annak helyszínéül szolgáló ingatlan helyrajzi számát és 3 hónapnál nem régebbi tulajdonilap-másolatának földhivatal által kiadott eredeti példányát vagy másolatát (a továbbiakban: szakmai és költségterv),
+c)[^17] a támogatással megvalósítani tervezett sportfejlesztési programjának bemutatását, célját, megnevezését, tervezett megvalósításának helyét, részletes megvalósítási tervét, amennyiben költségként elszámolandó, akkor általános forgalmi adót is tartalmazó összköltségének tervét, a megvalósítás és a finanszírozás időbeli ütemezését, valamint az építési beruházást is tartalmazó program esetén az annak helyszínéül szolgáló ingatlan helyrajzi számát és 3 hónapnál nem régebbi tulajdonilap-másolatának földhivatal által kiadott eredeti példányát vagy másolatát (a továbbiakban: szakmai és költségterv),
 
 d) amennyiben a támogatás építési beruházásra irányul, úgy az elvi építési engedélyt az ingatlan tulajdonosának hitelesített hozzájáruló nyilatkozatával vagy a jogerős építési engedélyt vagy a hatáskörrel és illetékességgel rendelkező hatóság igazolását arról, hogy a bejelentésben megjelölt beruházási tevékenység nem építésiengedély-köteles,
 
@@ -26,15 +26,17 @@ fa) a támogatás igénybevételére jogosult szervezet vállalja, hogy a Tao. t
 
 fb) a támogatás igénybevételére jogosult szervezet vállalja, hogy a Tao. tv. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a Magyar Állam javára az ingatlan-nyilvántartásba történő bejegyeztetéshez szükséges közokirat vagy ügyvéd által ellenjegyzett magánokirat kiállításának költségét az ellenőrzést végző szervezet részére megfizeti.
 
+(2a)[^18] Ha a támogatás igénybevételére jogosult szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a jóváhagyást végző szervezet az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
 (3) A jóváhagyást végző szervezet a kérelem benyújtását követő két hónapon belül megvizsgálja, hogy a támogatás igénybevételére jogosult szervezet
 
 a) megfelel-e a Tao. tv. 22/C. § (5) bekezdésében meghatározott feltételeknek,
 
 b) a (2) bekezdésben meghatározott dokumentumokat, nyilatkozatokat hiánytalanul csatolta-e a bejelentéshez,
 
-c)[^17] által benyújtott sportfejlesztési program – több támogatási időszakra szóló sportfejlesztési program esetén annak támogatási időszakokra lebontott változata – összhangban van-e az Stv.-ben foglaltak szerint a sportág – kormány által kialakított hosszú távú sportstratégiával és fejlesztési programmal összhangban készített – stratégiai fejlesztési koncepciójával, utánpótlás-nevelés fejlesztése céljából kiállítandó támogatási igazolás esetén a sportág utánpótlás-fejlesztési koncepciójával.
+c)[^19] által benyújtott sportfejlesztési program – több támogatási időszakra szóló sportfejlesztési program esetén annak támogatási időszakokra lebontott változata – összhangban van-e az Stv.-ben foglaltak szerint a sportág – kormány által kialakított hosszú távú sportstratégiával és fejlesztési programmal összhangban készített – stratégiai fejlesztési koncepciójával, utánpótlás-nevelés fejlesztése céljából kiállítandó támogatási igazolás esetén a sportág utánpótlás-fejlesztési koncepciójával.
 
-(4)[^18] Amennyiben a támogatás igénybevételére jogosult szervezet a (2) bekezdés szerinti feltételeknek nem felel meg, az ott meghatározott dokumentumokat, nyilatkozatokat hiánytalanul nem csatolta, vagy a sportfejlesztési program nincs összhangban a sportág stratégiai fejlesztési koncepciójával – utánpótlás-nevelés fejlesztése céljából kiállítandó támogatási igazolás esetén a sportág utánpótlás-fejlesztési koncepciójával –, úgy a jóváhagyást végző szervezet a kérelem beérkezésétől számított 30 napon belül a támogatás igénybevételére jogosult szervezetet 15 napos határidő tűzése mellett hiánypótlásra szólítja fel.
+(4)[^20] Amennyiben a támogatás igénybevételére jogosult szervezet a (2) bekezdés szerinti feltételeknek nem felel meg, az ott meghatározott dokumentumokat, nyilatkozatokat hiánytalanul nem csatolta, vagy a sportfejlesztési program nincs összhangban a sportág stratégiai fejlesztési koncepciójával – utánpótlás-nevelés fejlesztése céljából kiállítandó támogatási igazolás esetén a sportág utánpótlás-fejlesztési koncepciójával –, úgy a jóváhagyást végző szervezet a kérelem beérkezésétől számított 30 napon belül a támogatás igénybevételére jogosult szervezetet 15 napos határidő tűzése mellett hiánypótlásra szólítja fel.
 
 (5) Amennyiben a jóváhagyást végző szervezet az (1) bekezdés szerinti kérelem vizsgálatának eredményeként megállapítja, hogy a támogatás igénybevételére jogosult szervezet minden feltételnek megfelel, úgy a sportfejlesztési programot – a (7)–(9) bekezdésben foglaltakra is figyelemmel – jóváhagyja, az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel.
 
@@ -42,9 +44,9 @@ c)[^17] által benyújtott sportfejlesztési program – több támogatási idő
 
 (7) A jóváhagyást végző szervezet a jóváhagyás során arra figyelemmel dönt a tervezett támogatás egyes jogcímeinek elfogadásáról, hogy az egyes jogcímeken igénybe vehető támogatás nem lehet nagyobb, mint az egyes jogcímek esetén a sportfejlesztési programban feltüntetett összegek Tao. tv. 22/C. § (4) bekezdésében meghatározott legnagyobb mértéke.
 
-(8)[^19] A jóváhagyást végző szervezet a Tao. tv. 22/C. § (6) bekezdés e) pontja szerinti értékhatárt elérő vagy meghaladó, sportcélú ingatlanra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot – a (9) és (10) bekezdésekben meghatározottakra tekintettel – abban az esetben hagyja jóvá, ha a támogatott szervezet kötelezettséget vállal arra, hogy a sport célú ingatlanfejlesztésre kiírásra kerülő nyílt pályázat során
+(8)[^21] A jóváhagyást végző szervezet a Tao. tv. 22/C. § (6) bekezdés e) pontja szerinti értékhatárt elérő vagy meghaladó, sportcélú ingatlanra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot – a (9) és (10) bekezdésekben meghatározottakra tekintettel – abban az esetben hagyja jóvá, ha a támogatott szervezet kötelezettséget vállal arra, hogy a sport célú ingatlanfejlesztésre kiírásra kerülő nyílt pályázat során
 
-a)[^20] legalább három, a tárgyi eszköz beruházásra, felújításra vonatkozó sportlétesítmény-fejlesztés vagy építőipari kivitelezés területén legalább két éve működő személytől kér be egyidejűleg, írásbeli (e-mailben, faxon vagy postai úton tett) ajánlatot;
+a)[^22] legalább három, a tárgyi eszköz beruházásra, felújításra vonatkozó sportlétesítmény-fejlesztés vagy építőipari kivitelezés területén legalább két éve működő személytől kér be egyidejűleg, írásbeli (e-mailben, faxon vagy postai úton tett) ajánlatot;
 
 b) az ajánlati felhívásban a sportcélú ingatlan-fejlesztéshez szükséges ajánlattételre vonatkozó részletes adatokat ad meg, amelyek alapján szakmailag és pénzügyileg megalapozott ajánlat nyújtható be;
 
@@ -54,7 +56,7 @@ d) azzal a pályázóval köt szerződést a sportcélú ingatlanfejlesztés meg
 
 e) kellő gondot fordít az átláthatóság – ideértve a pályázati eljárás minden elemének dokumentálását, különösen az árajánlatok bekérését és azok értékelését – és az ajánlattevőkkel való egyenlő elbánás elvére.
 
-(9)[^21] A jóváhagyást végző szervezet a Tao. tv. 22/C. § (9) bekezdése szerinti értékhatárt elérő vagy meghaladó, sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot – a (8) és (10) bekezdésekben meghatározottakra tekintettel – abban az esetben hagyja jóvá, ha a sportfejlesztési program az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi- gazdasági hatásait illetően nagyobb területi szintű szerveződésben) a látvány-csapatsportok szakmai felkészülési és versenyzési igényeit kiszolgáló
+(9)[^23] A jóváhagyást végző szervezet a Tao. tv. 22/C. § (9) bekezdése szerinti értékhatárt elérő vagy meghaladó, sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot – a (8) és (10) bekezdésekben meghatározottakra tekintettel – abban az esetben hagyja jóvá, ha a sportfejlesztési program az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi- gazdasági hatásait illetően nagyobb területi szintű szerveződésben) a látvány-csapatsportok szakmai felkészülési és versenyzési igényeit kiszolgáló
 
 a) új sportcélú ingatlan-fejlesztésre – ideértve a meglévő sportcélú ingatlanok által nem biztosított sportszolgáltatások vagy a nézők kiszolgálását ellátó új sportcélú ingatlan-fejlesztést is, ha a hiányzó szolgáltatások a b) pont szerinti sportcélú ingatlan-fejlesztési célok keretében nem biztosíthatók –,
 
@@ -68,7 +70,7 @@ bc) építészeti, műszaki akadálymentesítésére
 
 ## irányul.
 
-(10)[^22] A jóváhagyást végző szervezet a (8)–(9) bekezdés szerinti jóváhagyás során nem támogathat olyan sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot, amelynek megvalósulása az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) már meglévő, méretében és funkciójában azonos, sportcélú ingatlanok piaci versenyhelyzetét hátrányosan befolyásolná. Nem kell alkalmazni ezt a rendelkezést, ha a támogatás igénybevételére jogosult szervezet igazolja, hogy az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) meglévő sportcélú ingatlan kapacitások a fejlesztési program sikeres megvalósításához minőségben vagy mennyiségben nem elegendők.
+(10)[^24] A jóváhagyást végző szervezet a (8)–(9) bekezdés szerinti jóváhagyás során nem támogathat olyan sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot, amelynek megvalósulása az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) már meglévő, méretében és funkciójában azonos, sportcélú ingatlanok piaci versenyhelyzetét hátrányosan befolyásolná. Nem kell alkalmazni ezt a rendelkezést, ha a támogatás igénybevételére jogosult szervezet igazolja, hogy az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) meglévő sportcélú ingatlan kapacitások a fejlesztési program sikeres megvalósításához minőségben vagy mennyiségben nem elegendők.
 
 (11) A támogatás igénybevételére jogosult szervezet honlapján köteles közzétenni a jóváhagyást végző szervezet által jóváhagyott sportfejlesztési programját, valamint annak költségtervét, illetve a támogatás (7) bekezdésben meghatározott összegét.
 
@@ -76,10 +78,12 @@ bc) építészeti, műszaki akadálymentesítésére
 
 [^14]: A 3. § a 268/2011. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^15]: A 4. § (1) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^16]: A 4. § (2) bekezdés c) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § (3) bekezdés c) pontja 268/2011. (XII. 16.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
-[^18]: A 4. § (4) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^19]: A 4. § (8) bekezdés nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^20]: A 4. § (8) bekezdés a) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^21]: A 4. § (9) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^22]: A 4. § (10) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^16]: A 4. § (2) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (2) bekezdés c) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^19]: A 4. § (3) bekezdés c) pontja 268/2011. (XII. 16.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^20]: A 4. § (4) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^21]: A 4. § (8) bekezdés nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^22]: A 4. § (8) bekezdés a) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^23]: A 4. § (9) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^24]: A 4. § (10) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
