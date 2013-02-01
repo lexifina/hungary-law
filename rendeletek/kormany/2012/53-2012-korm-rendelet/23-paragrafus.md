@@ -12,4 +12,8 @@ e) a biztonságos használatot nem veszélyeztető kisebb hibák és hiányossá
 
 f) ha a sajátos építmény megépítése révén az ingatlan-nyilvántartási térképi adatbázis tartalmában változást eredményez, figyelmeztetést arra, hogy a használatbavételi engedély közlését követően az építtető köteles – az ingatlan-nyilvántartási átvezetés céljából – a megvalósult állapotról változási vázrajzot és mellékleteit az ingatlanügyi hatósághoz benyújtani, és
 
-g) szállítóvezeték esetében a szolgalom alapításának határidejét.
+g) szállítóvezeték esetében a szolgalom alapításának határidejét,
+
+h)[^1] robbanóanyag-raktár esetében a robbanóanyag-tárolás feltételeit.
+
+[^1]: A 23. § h) pontját a 18/2013. (I. 30.) Korm. rendelet 11. §-a iktatta be.
