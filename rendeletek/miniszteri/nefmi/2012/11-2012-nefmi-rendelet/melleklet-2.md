@@ -544,6 +544,10 @@
 
 | 72961 | Kemoterápia, RapidCOJEC "C" blokk protokoll szerint 18 év alatt (01. fázis) |
 
+| 72981 | Kemoterápia, CDDP + 5FU + HER 3 heti telítő ciklus protokoll szerint (01. fázis) |
+
+| 72991 | Kemoterápia, CDDP + 5FU + HER 3 heti fenntartó ciklus protokoll szerint (01. fázis) |
+
 | 73011 | Kemoterápia, BIP protokoll szerint (01. fázis) |
 
 | 73021 | Kemoterápia, CBP+IFO protokoll szerint (01. fázis) |
@@ -934,8 +938,6 @@
 
 | 74501 | Kemoterápia, panitumumab protokoll szerint (01. fázis) |
 
-| 74561 | Kemoterápia, IRE-monoterápia protokoll szerint (01. fázis) |
-
 | 74581 | Kemoterápia, VNB+CBP protokoll szerint (01. fázis) |
 
 | 74582 | Kemoterápia, VNB+CBP protokoll szerint (02. fázis) |
@@ -1022,6 +1024,8 @@
 
 | 74892 | Kemoterápia, CETUX+FOLFOX-6 (fenntartó) protokoll szerint (02. fázis) |
 
+| 74971 | Kemoterápia, HER kiegészítő monoterápia protokoll szerint (01. fázis) |
+
 | 75141 | Kemoterápia, bevacizumab+capecitabine protokoll szerint (01. fázis) |
 
 | 75151 | Kemoterápia, bevacizumab+FOLFOX4 protokoll szerint (01. fázis) |
@@ -1105,6 +1109,10 @@
 | 75831 | Kemoterápia, ECF/B protokoll szerint (01. fázis) |
 
 | 75861 | Kemoterápia, irinothecan 3 hetenkénti protokoll szerint (01. fázis) |
+
+| 75991 | Kemoterápia, Kemoterápia, CX + HER 3 heti telítő ciklus protokoll szerint (01. fázis) |
+
+| 76001 | Kemoterápia, CX + HER 3 heti fenntartó ciklus protokoll szerint (01. fázis) |
 
 | 77011 | Kemoterápia, CAP I.+dexrazoxane protokoll szerint (01. fázis) |
 
@@ -1410,7 +1418,7 @@
 
 | 79971 | Kemoterápia, N7 protokoll szerint 18 év alatt (01. fázis) |
 
-2. melléklet a 11/2012. (II. 28.) NEFMI rendelethez[^3]
+2. melléklet a 11/2012. (II. 28.) NEFMI rendelethez[^4]
 
 A daganatellenes terápiák protokolljai
 
@@ -6032,4 +6040,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^3]: A 3. § (13) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 17. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
