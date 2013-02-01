@@ -34,7 +34,9 @@ j) a külföldi ítélet érvényének elismerése esetén ennek tényét;
 
 k) a mentesítés, a nyilvántartásba felvétel időpontját, valamint a nyilvántartásból való törlés várható időpontját, továbbá
 
-l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját.
+l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
+
+m) a szakrendszeri azonosító kódot.
 
 (2) A büntetés-végrehajtási adatok közül a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza
 

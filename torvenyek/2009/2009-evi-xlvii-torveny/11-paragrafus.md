@@ -34,7 +34,9 @@ j) a törvényi mentesítés várható időpontját;
 
 k) a külföldi ítélet érvényének elismerése esetén ennek tényét; továbbá
 
-l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját.
+l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
+
+m) a szakrendszeri azonosító kódot.
 
 (2) A büntetés-végrehajtási adatok közül a bűntettesek nyilvántartása tartalmazza
 

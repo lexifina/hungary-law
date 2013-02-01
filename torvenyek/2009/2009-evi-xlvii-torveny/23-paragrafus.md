@@ -22,4 +22,6 @@ h) a büntetőügy iktatószámát;
 
 i) a büntetőügyek egyesítésének, elkülönítésének tényét, továbbá
 
-j) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését.
+j) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
+
+k) a szakrendszeri azonosító kódot.
