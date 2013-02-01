@@ -2,6 +2,8 @@
 
 ## 7. Kifizetési kérelem
 
-9. § (1) A kifizetési kérelmet a Vhr. 16/B. § (1) bekezdés a) pontjában meghatározott időszakban lehet az ügyfél lakóhelye vagy székhelye szerint illetékes MVH kirendeltségre benyújtani.
+9. § (1)[^2]
 
 (2) Az utolsó kifizetési kérelemhez mellékelni kell az állategészségügyi hatóság igazolását a baromfi telep irányelvnek való megfeleléséről.
+
+[^2]: A 9. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés l) pontja hatályon kívül helyezte.
