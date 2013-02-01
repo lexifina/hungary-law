@@ -24,7 +24,7 @@
 
 | 9. | a) Az erdőterületen megvalósuló vagy a megvalósítás során erdőterületre, az erdő talajára, vízháztartására vagy mikroklímájára hatást gyakorló módon megvalósuló létesítmény esetében, elvi építési, használatbavételi és bontási engedélyezési eljárás kivételével. b) Ha az eljárás termőföld igénybevételével megvalósuló létesítmény esetén, elvi építési, használatbavételi és bontási engedélyezési eljárás kivételével. c) Állattartó létesítmények és technológiák esetén a bontási eljárás kivételével. | a) Annak az erdőről és az erdő védelméről szóló törvény szerinti elbírálása, hogy az építmény vagy tevékenység az erdőterületre, az erdő talajára, vízháztartására vagy mikroklímájára gyakorolt hatása alapján engedélyezhető-e, és ha igen, milyen feltételekkel. b) Termőföld minőségi védelme. c) Az állategészségügyi előírások érvényesítése. | a) megyei kormányhivatal erdészeti igazgatósága b) megyei kormányhivatal növény- és talajvédelmi igazgatósága c) megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-2. számú melléklet a 40/2002. (III. 21.) Korm. rendelethez[^23]
+2. számú melléklet a 40/2002. (III. 21.) Korm. rendelethez[^24]
 
 ## Az építésügyi hatósági engedély iránti kérelem adattartalma
 
@@ -50,4 +50,4 @@
 
 11. Keltezés, az építtető cégszerű aláírása.
 
-[^23]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 268. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 268. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
