@@ -1,5 +1,3 @@
-## 4. § A felsőoktatási szakképzések képzési és kimeneti követelményeiről szóló 39/2012. (XI. 21.) EMMI rendelet 2. melléklet VIII. fejezete helyébe a következő rendelkezés lép:
+## 4. §[^1]
 
-## „VIII. MŰSZAKI KÉPZÉSI TERÜLET
-
-## Felsőoktatási szakképzés a szakjegyzékben nem szerepel.”
+[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

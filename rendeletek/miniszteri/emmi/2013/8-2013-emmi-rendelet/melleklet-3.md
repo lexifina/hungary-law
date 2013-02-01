@@ -4297,3 +4297,7 @@ a 2. mellékletben meghatározott tudás, ismeret, képesség;
 A tanulói személyiség fejlesztése, az egyéni bánásmód érvényesítése terén
 
 – Tudja, hogy a matematika milyen szerepet játszik a tanulók személyiségfejlődésében. Ismeri a matematikában megjelenő fogalmak kialakulásának életkori sajátosságait. Ismeri a matematika tanítása során fejlesztendő kompetenciákat. Fejlett fogalmi gondolkodással és absztrakciós képességgel rendelkezik, amely képessé teszi őt az oktatás során a matematikai fogalmak precíz kialakítására (a tanulók életkori sajátosságaihoz, absztrakciós képességeihez és tudásszintjéhez igazodva).
+
+– Tanítványait racionális gondolkodásra, érvelésre neveli.
+
+– Képes a matematika speciális összefüggéseivel, fogalmaival kapcsolatos megértési nehézségek kezelésére. Képes arra, hogy a tanulók tanítására, képességeik fejlesztésére megválasztott módszereket a tanuló adottságainak és előzetes ismereteinek megfelelően válassza meg.
