@@ -6,7 +6,7 @@
 
 a) 1.2. pontja szerinti iratot nem csatolta, illetve mutatta be, vagy az nem tartalmazza az egyéni vállalkozó fenntartónak az egyéni vállalkozók nyilvános nyilvántartásában feltüntetett valamennyi hatályos adatát, az adatokat a működést engedélyező szerv az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi,
 
-b)[^22] 1.3., illetve 1.4. pontja szerinti iratot nem csatolta, a működést engedélyező szerv a bíróság nyilvántartásából szerzi be, illetve ellenőrzi a nem állami fenntartó nyilvántartásba vett adatait,
+b)[^22] 1.4. pontja szerinti iratot nem csatolta, a működést engedélyező szerv a bíróság nyilvántartásából szerzi be, illetve ellenőrzi a nem állami fenntartó nyilvántartásba vett adatait,
 
 c) 1.6. pontja szerinti iratot nem csatolta, illetve mutatta be, az adószámot a működést engedélyező szerv az adózók nyilvántartásából ellenőrzi,
 
@@ -24,29 +24,31 @@ i)[^25] 2.7. pontja szerinti iratot – ideértve azt az esetet is, ha a fenntar
 
 j)[^26] 1.5.1., illetve 1.5.2. pontja szerinti hatósági bizonyítványt nem csatolta, a működést engedélyező szerv az egyházak nyilvántartásából szerzi be, illetve ellenőrzi az egyház, belső egyházi jogi személy nyilvántartásba vett adatait.
 
-(3)[^27] A Kormány a működési engedély kiadására irányuló eljárásban
+(2a)[^27] Ha a fenntartó cégjegyzékben nyilvántartott cég, a működést engedélyező szerv a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-a)[^28] étkeztetés, nappali ellátás keretében melegétkeztetés nyújtása és melegétkeztetést nyújtó lakóotthon esetén, továbbá más bentlakásos intézményi ellátás esetén – az élelmiszer-higiénia és élelmiszer-biztonság jogszabályi követelményeinek való megfelelés kérdésében – első fokú eljárásban a megyei kormányhivatal járási hivatalának járási állat-egészségügyi és élelmiszer-ellenőrző hivatalát hivatalát, másodfokú eljárásban a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságát,
+(3)[^28] A Kormány a működési engedély kiadására irányuló eljárásban
 
-b)[^29] nappali ellátás és bentlakásos intézményi ellátás esetén – az intézményre vonatkozó közegészségügyi, az ivóvíz-minőségi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások érvényesítésével, valamint a bentlakásos intézmény külön jogszabály szerinti kötelező szolgáltatásai körébe tartozó egészségügyi ellátáshoz szükséges személyi és tárgyi feltételek meglétével kapcsolatos szakkérdésben – első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: járási népegészségügyi intézet), a másodfokú eljárásban a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szervét,
+a)[^29] étkeztetés, nappali ellátás keretében melegétkeztetés nyújtása és melegétkeztetést nyújtó lakóotthon esetén, továbbá más bentlakásos intézményi ellátás esetén – az élelmiszer-higiénia és élelmiszer-biztonság jogszabályi követelményeinek való megfelelés kérdésében – első fokú eljárásban a megyei kormányhivatal járási hivatalának járási állat-egészségügyi és élelmiszer-ellenőrző hivatalát hivatalát, másodfokú eljárásban a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságát,
+
+b)[^30] nappali ellátás és bentlakásos intézményi ellátás esetén – az intézményre vonatkozó közegészségügyi, az ivóvíz-minőségi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások érvényesítésével, valamint a bentlakásos intézmény külön jogszabály szerinti kötelező szolgáltatásai körébe tartozó egészségügyi ellátáshoz szükséges személyi és tárgyi feltételek meglétével kapcsolatos szakkérdésben – első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: járási népegészségügyi intézet), a másodfokú eljárásban a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szervét,
 
 c) nappali ellátás és bentlakásos intézményi ellátás esetén – az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében – első fokú eljárásban a szociális intézmény székhelye, telephelye szerint illetékes, első fokon eljáró tűzvédelmi szakhatóságot, másodfokú eljárásban a másodfokon eljáró tűzvédelmi szakhatóságot,
 
-d)[^30] nappali ellátás és bentlakásos intézményi ellátás esetén, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az intézményre vonatkozó építéshatósági követelmények érvényesítése szakkérdésében – első fokú eljárásban a szociális intézmény székhelye, telephelye szerint illetékes építésügyi hatóságot, másodfokú eljárásban a fővárosi és megyei kormányhivatalt,
+d)[^31] nappali ellátás és bentlakásos intézményi ellátás esetén, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az intézményre vonatkozó építéshatósági követelmények érvényesítése szakkérdésében – első fokú eljárásban a szociális intézmény székhelye, telephelye szerint illetékes építésügyi hatóságot, másodfokú eljárásban a fővárosi és megyei kormányhivatalt,
 
-e)[^31]
+e)[^32]
 
-f)[^32] abban az esetben, ha a fenntartó a szolgáltatót, intézményt, ellátotti számot, férőhelyszámot normatív állami hozzájárulással kívánja működtetni, az Szt. 58/A. § (2) és (2a) bekezdése szerinti, szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás (a továbbiakban: befogadás) kérdésében az első fokú eljárásban a Hivatalt, másodfokú eljárásban a minisztert
+f)[^33] abban az esetben, ha a fenntartó a szolgáltatót, intézményt, ellátotti számot, férőhelyszámot normatív állami hozzájárulással kívánja működtetni, az Szt. 58/A. § (2) és (2a) bekezdése szerinti, szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás (a továbbiakban: befogadás) kérdésében az első fokú eljárásban a Hivatalt, másodfokú eljárásban a minisztert
 
 ## szakhatóságként jelöli ki. A szakhatóságok ügyintézési határideje harminc nap. Külső férőhelyek engedélyezése során szakhatósági állásfoglalást nem kell beszerezni.
 
-(3a)[^33] A (3) bekezdésben foglaltaktól eltérően támogatott lakhatás esetén
+(3a)[^34] A (3) bekezdésben foglaltaktól eltérően támogatott lakhatás esetén
 
 a) a (3) bekezdés a) pontja szerinti szakhatóság olyan ingatlan esetén jár el, amelyben a meleg étkeztetést a támogatott lakhatást nyújtó intézmény maga biztosítja,
 
 b) a (3) bekezdés b)–d) pontja szerinti szakhatóság az Szt. 75. § (2) bekezdés c) pontja szerinti lakhatási szolgáltatást biztosító ingatlan esetén, valamint olyan ingatlan esetén jár el, amelyben az Szt. 75. § (1) bekezdés d) pontja szerinti szolgáltatásokat a támogatott lakhatást nyújtó intézmény maga biztosítja.
 
-(3b)[^34] A működést engedélyező szerv mérlegelésén múlik, hogy megkeresi-e a (3) bekezdés c) és d) pontja szerinti szakhatóságot, ha
+(3b)[^35] A működést engedélyező szerv mérlegelésén múlik, hogy megkeresi-e a (3) bekezdés c) és d) pontja szerinti szakhatóságot, ha
 
 a) a kérelmet olyan ingatlanban működő szociális intézmény engedélyezése iránt nyújtották be, amelyben korábban szociális intézmény működött,
 
@@ -56,22 +58,23 @@ c) a korábbi szociális intézmény működési engedélyét nem e szakhatósá
 
 (4) A szakhatóság a fenntartó kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a működési engedélyezési eljárásban akkor használható fel, ha a fenntartó a működési engedély iránti kérelmét az előzetes szakhatósági állásfoglalás kiadását követő hat hónapon belül benyújtja.
 
-(5)[^35] A szakmai programot a Főigazgatóság a kirendeléstől számított harminc napon belül – az általa fenntartott szolgáltatók, intézmények kivételével – szakértőként véleményezi. A működést engedélyező szerv a határidőt – a Főigazgatóságnak a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
+(5)[^36] A szakmai programot a Főigazgatóság a kirendeléstől számított harminc napon belül – az általa fenntartott szolgáltatók, intézmények kivételével – szakértőként véleményezi. A működést engedélyező szerv a határidőt – a Főigazgatóságnak a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
 
-(6)[^36] A működést engedélyező szerv ellátást nyújtó székhely engedélyezése esetén a székhelyen, telephely engedélyezése esetén a telephelyen, a támogatott lakhatást biztosító ingatlanban, a külső férőhelyek elhelyezésére szolgáló lakásban (lakrészben), az ellátottak számára nyitva álló egyéb helyiségben, jelzőrendszeres házi segítségnyújtás esetén a szakmai központban és szükség esetén a diszpécserközpontban, valamint a támogató szolgáltatáshoz használni kívánt gépjármű vizsgálata céljából helyszíni szemlét tart.
+(6)[^37] A működést engedélyező szerv ellátást nyújtó székhely engedélyezése esetén a székhelyen, telephely engedélyezése esetén a telephelyen, a támogatott lakhatást biztosító ingatlanban, a külső férőhelyek elhelyezésére szolgáló lakásban (lakrészben), az ellátottak számára nyitva álló egyéb helyiségben, jelzőrendszeres házi segítségnyújtás esetén a szakmai központban és szükség esetén a diszpécserközpontban, valamint a támogató szolgáltatáshoz használni kívánt gépjármű vizsgálata céljából helyszíni szemlét tart.
 
-[^22]: Az 5. § (2) bekezdés b) pontja a 317/2012. (XI. 13.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (2) bekezdés b) pontja a 317/2012. (XI. 13.) Korm. rendelet 36. § (1) bekezdésével megállapított, a 355/2012. (XII. 13.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
 [^23]: Az 5. § (2) bekezdés e) pontja a 317/2012. (XI. 13.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
 [^24]: Az 5. § (2) bekezdés h) pontja a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^25]: Az 5. § (2) bekezdés i) pontja a 330/2011. (XII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^26]: Az 5. § (2) bekezdése j) pontját a 317/2012. (XI. 13.) Korm. rendelet 36. § (3) bekezdése iktatta be.
-[^27]: Az 5. § (3) bekezdés záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^28]: Az 5. § (3) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés c) pontja, a 174/2012. (VII. 26.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
-[^29]: Az 5. § (3) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés d) pontja, a 174/2012. (VII. 26.) Korm. rendelet 68. § b) pontja, a 441/2012. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^30]: Az 5. § (3) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 68. § c) pontja szerint módosított szöveg.
-[^31]: Az 5. § (3) bekezdés e) pontját a 349/2012. (XII. 12.) Korm. rendelet 60. § a) pontja hatályon kívül helyezte.
-[^32]: Az 5. § (3) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^33]: Az 5. § (3a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 36. § (4) bekezdése iktatta be.
-[^34]: Az 5. § (3b) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 54. § (1) bekezdése iktatta be.
-[^35]: Az 5. § (5) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 54. § (2) bekezdésével megállapított szöveg.
-[^36]: Az 5. § (6) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^27]: Az 5. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 37. § (1) bekezdése iktatta be.
+[^28]: Az 5. § (3) bekezdés záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^29]: Az 5. § (3) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés c) pontja, a 174/2012. (VII. 26.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
+[^30]: Az 5. § (3) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés d) pontja, a 174/2012. (VII. 26.) Korm. rendelet 68. § b) pontja, a 441/2012. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^31]: Az 5. § (3) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 68. § c) pontja szerint módosított szöveg.
+[^32]: Az 5. § (3) bekezdés e) pontját a 349/2012. (XII. 12.) Korm. rendelet 60. § a) pontja hatályon kívül helyezte.
+[^33]: Az 5. § (3) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^34]: Az 5. § (3a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 36. § (4) bekezdése iktatta be.
+[^35]: Az 5. § (3b) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 54. § (1) bekezdése iktatta be.
+[^36]: Az 5. § (5) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 54. § (2) bekezdésével megállapított szöveg.
+[^37]: Az 5. § (6) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés b) pontja szerint módosított szöveg.
