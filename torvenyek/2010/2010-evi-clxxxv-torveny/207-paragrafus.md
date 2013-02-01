@@ -1,7 +1,3 @@
-## IV. Fejezet
-
-## ÁTMENETI RENDELKEZÉSEK
-
 ## A műsorszolgáltatási szerződésekre vonatkozó átmeneti szabályok
 
 207. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) szerinti analóg, földfelszíni terjesztésű műsorszolgáltatási jogosultság és az e törvény szerinti állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság – a 48. § (4) bekezdésben meghatározott eljárás és a 203. § 32. pontja szerinti közszolgálati médiaszolgáltatók médiaszolgáltatásai kivételével – kizárólag a Médiatanács által kötött hatósági szerződés alapján gyakorolható.

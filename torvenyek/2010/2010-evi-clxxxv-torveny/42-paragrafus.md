@@ -14,7 +14,7 @@ ad) vezető tisztségviselőjének, képviselőjének, illetve a Hatósággal va
 
 ae) cégjegyzékszámát, illetve nyilvántartási számát,
 
-b) a bejelentő hatályos létesítő okiratát, továbbá közjegyző által hitelesített aláírási címpéldányt, vagy ügyvéd által ellenjegyzett aláírásmintát, amennyiben a bejelentő nem természetes személy,
+b) a bejelentő hatályos létesítő okiratát és képviselőjének – a (2a) bekezdés kivételével – közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, ha a bejelentő nem természetes személy,
 
 c) a tervezett médiaszolgáltatás alapvető adatait:
 
@@ -55,6 +55,8 @@ e) az arra vonatkozó adatokat, hogy a bejelentőnek, illetve a bejelentő váll
 f) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
 (2) A bejelentőnek nyilatkoznia kell, hogy nyilvántartásba vétel esetén vele kapcsolatban a törvény szerinti kizáró ok nem keletkezik.
+
+(2a) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (3) Lineáris médiaszolgáltatás csak a nyilvántartásba vételt követően kezdhető meg. A lineáris médiaszolgáltatás nyilvántartásba vételéről a Hivatal negyvenöt napon belül hatósági határozatot hoz, amelyben meghatározza a médiaszolgáltató által az egyes lineáris médiaszolgáltatások után fizetendő médiaszolgáltatási díj mértékét.
 
