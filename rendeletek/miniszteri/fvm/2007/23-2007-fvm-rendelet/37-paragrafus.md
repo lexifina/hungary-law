@@ -10,6 +10,6 @@ b) a Bizottság 1974/2006/EK rendelete (2006. december 15.) az Európai Mezőgaz
 
 c) a Bizottság 1975/2006/EK rendelete (2006. december 7.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról;
 
-d)[^250] A Bizottság 65/2011/EU rendelete (2011. január 27.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról.
+d)[^248] A Bizottság 65/2011/EU rendelete (2011. január 27.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról.
 
-[^250]: A 37. § d) pontját a 137/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.
+[^248]: A 37. § d) pontját a 137/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## Közbeszerzés
 
-33. § (1)[^215] Amennyiben az ügyfél az adott tevékenység vonatkozásában közbeszerzésre kötelezett – a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján –, vagy a Kbt.-t önként alkalmazza, az eljárást megindító felhívás, illetve hirdetmény „az aktába rendelt hivatkozási szám” rovatában hivatkozási számként fel kell tüntetni az ügyfél Tv. 28. §-a szerinti regisztrációs számát. Az ügyfél köteles továbbá:
+33. § (1)[^213] Amennyiben az ügyfél az adott tevékenység vonatkozásában közbeszerzésre kötelezett – a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján –, vagy a Kbt.-t önként alkalmazza, az eljárást megindító felhívás, illetve hirdetmény „az aktába rendelt hivatkozási szám” rovatában hivatkozási számként fel kell tüntetni az ügyfél Tv. 28. §-a szerinti regisztrációs számát. Az ügyfél köteles továbbá:
 
 a) az eljárást megindító, illetve módosító felhívást, illetve hirdetményt az annak megküldését, illetve megjelenését bizonyító dokumentumokkal,
 
@@ -12,7 +12,7 @@ d) a szerződés teljesítéséről szóló hirdetményt,
 
 ## annak megjelenését – eljárást indító hirdetmény közvetlen megküldése esetében a megküldést – követő öt napon belül az MVH részére benyújtani.
 
-(2)[^216] Az ügyfél köteles továbbá:
+(2)[^214] Az ügyfél köteles továbbá:
 
 a) MVH által rendszeresített formanyomtatványon a közbeszerzéssel érintett tételek részletezését, és
 
@@ -20,9 +20,9 @@ b) az eljárás – fentiek alapján még be nem nyújtott – összes érdemi d
 
 ## ahhoz az első kifizetési kérelemhez csatolni, amely a közbeszerzéssel érintett műveleti tevékenység elszámolására vonatkozik.
 
-(3)[^217]
+(3)[^215]
 
-(4)[^218] Ha a közbeszerzési eljárás megindítását az ügyfél igazolta, a művelet megvalósításának határideje és a 24. § (1) bekezdése szerinti 9 hónapos időtartam, valamint a 24. § (2) bekezdés szerinti határidő a 2009. december 15. napját követően benyújtott támogatási kérelmek esetén egységesen 6 hónappal, az azt megelőzően benyújtott támogatási kérelmek tekintetében
+(4)[^216] Ha a közbeszerzési eljárás megindítását az ügyfél igazolta, a művelet megvalósításának határideje és a 24. § (1) bekezdése szerinti 9 hónapos időtartam, valamint a 24. § (2) bekezdés szerinti határidő a 2009. december 15. napját követően benyújtott támogatási kérelmek esetén egységesen 6 hónappal, az azt megelőzően benyújtott támogatási kérelmek tekintetében
 
 a) gépbeszerzés esetén 6 hónappal,
 
@@ -32,13 +32,13 @@ b) építési beruházás esetén 12 hónappal meghosszabbodik.
 
 (6) Az (5) bekezdés alapján az MVH a kérelem elbírálását felfüggeszti. Az MVH a kérelem elbírálását a Közbeszerzési Döntőbizottság érdemi határozatának vagy a közbeszerzési ügy befejezését eredményező végzésének a Kbt. 343. § (1) bekezdésében előírt kézbesítését követően folytatja.
 
-(7)[^219] Amennyiben az ügyfél a 24. § (1) bekezdése alapján köteles beadni az első kifizetési kérelmet, akkor a (4) bekezdésben foglaltak kizárólag abban az esetben alkalmazhatóak, ha az ügyfél az (1) bekezdés szerinti igazolást legkésőbb az első kifizetési kérelem benyújtásával egyidejűleg nyújtja be.
+(7)[^217] Amennyiben az ügyfél a 24. § (1) bekezdése alapján köteles beadni az első kifizetési kérelmet, akkor a (4) bekezdésben foglaltak kizárólag abban az esetben alkalmazhatóak, ha az ügyfél az (1) bekezdés szerinti igazolást legkésőbb az első kifizetési kérelem benyújtásával egyidejűleg nyújtja be.
 
-(8)[^220] Amennyiben az ügyfél az adott tevékenység vonatkozásában a Kbt. alapján közbeszerzésre nem kötelezett, úgy a 33. § (4) bekezdésében foglalt rendelkezések nem alkalmazhatóak.
+(8)[^218] Amennyiben az ügyfél az adott tevékenység vonatkozásában a Kbt. alapján közbeszerzésre nem kötelezett, úgy a 33. § (4) bekezdésében foglalt rendelkezések nem alkalmazhatóak.
 
-[^215]: A 33. § (1) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. A 33. § (1) bekezdés záró szövegrésze az 1/2011. (I. 11.) VM rendelet 1. § (12) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^216]: A 33. § (2) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^217]: A 33. § (3) bekezdését az 51/2009. (IV. 16.) FVM rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^218]: A 33. § (4) bekezdése a 41/2010. (XII. 20.) VM rendelet 4. §-ával megállapított, az 57/2011. (VI. 20.) VM rendelet 6. §-szerint módosított szöveg.
-[^219]: A 33. § (7) bekezdését a 17/2011. (III. 4.) VM rendelet 7. §-a iktatta be.
-[^220]: A 33. § (8) bekezdését a 124/2011. (XII. 21.) VM rendelet 28. §-a iktatta be.
+[^213]: A 33. § (1) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. A 33. § (1) bekezdés záró szövegrésze az 1/2011. (I. 11.) VM rendelet 1. § (12) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^214]: A 33. § (2) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^215]: A 33. § (3) bekezdését az 51/2009. (IV. 16.) FVM rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^216]: A 33. § (4) bekezdése a 41/2010. (XII. 20.) VM rendelet 4. §-ával megállapított, az 57/2011. (VI. 20.) VM rendelet 6. §-szerint módosított szöveg.
+[^217]: A 33. § (7) bekezdését a 17/2011. (III. 4.) VM rendelet 7. §-a iktatta be.
+[^218]: A 33. § (8) bekezdését a 124/2011. (XII. 21.) VM rendelet 28. §-a iktatta be.
