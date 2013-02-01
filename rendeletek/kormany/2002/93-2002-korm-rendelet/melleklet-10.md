@@ -1,4 +1,4 @@
-10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^117]
+10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^118]
 
 ADATLAP
 
@@ -68,6 +68,6 @@ d) „Kijelentem, hogy az akkreditált szervezet Rendelet alapján nyilvántarto
 
 5. Cégszerű aláírás
 
-[^117]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^118]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be.
 [^1.]: Kreditpont-minősítési eljárás esetén kell megadni.
 [^2”]: Egyszerűsített kreditpont-minősítési eljárás során kell megadni.

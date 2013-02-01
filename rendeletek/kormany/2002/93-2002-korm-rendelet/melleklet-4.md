@@ -12,6 +12,6 @@
 
 |  | Fénykép helye |  |
 
-4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^102]
+4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^103]
 
-[^102]: A 4. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^103]: A 4. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.

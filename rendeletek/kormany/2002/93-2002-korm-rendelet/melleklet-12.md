@@ -22,7 +22,7 @@
 
 ## 11 Csak az új nyilvántartásba vételi kérelemhez szükséges továbbképzési kötelezettség teljesítése (első nyilvántartásba vétel vagy törlést követő nyilvántartásba vétel) esetén kell kitölteni.
 
-12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^119]
+12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^120]
 
 ADATLAP
 
@@ -64,4 +64,4 @@ b) Kijelentem, hogy minden továbbképzési év tekintetében a nyilvántartásb
 
 5. Cégszerű aláírás
 
-[^119]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be.
+[^120]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be.

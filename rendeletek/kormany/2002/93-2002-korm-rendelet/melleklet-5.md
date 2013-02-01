@@ -2,7 +2,7 @@
 
 ## a szakmai továbbképzés szervezésére
 
-## és lebonyolítására jelentkező szervezetek (a továbbiakban: szervezet) akkreditáció iránti kérelméhez, valamint az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelméhez[^103]
+## és lebonyolítására jelentkező szervezetek (a továbbiakban: szervezet) akkreditáció iránti kérelméhez, valamint az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelméhez[^104]
 
 ## Az adatlap kötelező tartalmi elemei a következők:
 
@@ -24,7 +24,7 @@
 
 ## h) a szervezet által vállalt továbbképzés szervezése (szakok megnevezése, azon belül csoportok száma),
 
-## i) a szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírása[^104],
+## i) a szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírása[^105],
 
 ## j) a szervezet elmúlt 3 éves szakmai (ezen belül külön kiemelve a pénzügyi-számviteli oktatási) tevékenységének rövid bemutatása,
 
@@ -54,17 +54,17 @@
 
 ## „Kijelentem, hogy a fenti adatváltozás az akkreditáció feltételeit nem érinti.”
 
-## 4. Dátum[^105]
+## 4. Dátum[^106]
 
-## 5. Bélyegző[^106]
+## 5. Bélyegző[^107]
 
-## 6. Cégszerű aláírás[^107]
+## 6. Cégszerű aláírás[^108]
 
-5. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^108]
+5. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^109]
 
 ## ADATLAP
 
-könyvviteli szolgáltatást végzők továbbképzésének indításáról[^109]
+könyvviteli szolgáltatást végzők továbbképzésének indításáról[^110]
 
 Az adatlap kötelező tartalmi elemei a következők:
 
@@ -104,19 +104,19 @@ m) Szakterület megnevezése
 
 – egyéb szervezeti (nonprofit)
 
-2. Dátum[^110]
+2. Dátum[^111]
 
-3. Bélyegző[^111]
+3. Bélyegző[^112]
 
-4. Cégszerű aláírás[^112]
+4. Cégszerű aláírás[^113]
 
-[^103]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
-[^104]: Minőségirányítási tanúsítvánnyal rendelkező szervezet esetén annak másolatát szükséges mellékelni a kérelemhez.
-[^105]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^104]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
+[^105]: Minőségirányítási tanúsítvánnyal rendelkező szervezet esetén annak másolatát szükséges mellékelni a kérelemhez.
 [^106]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
 [^107]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^108]: Az 5. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^109]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
-[^110]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^108]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^109]: Az 5. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^110]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
 [^111]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
 [^112]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^113]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.

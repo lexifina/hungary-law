@@ -46,6 +46,6 @@
 
 ## ** Budapesti Közgazdaságtudományi és Államigazgatási Egyetem.
 
-3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^101]
+3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^102]
 
-[^101]: A 3. számú melléklet a 357/2012. (XII. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^102]: A 3. számú melléklet a 357/2012. (XII. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
