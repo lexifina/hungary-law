@@ -1,6 +1,6 @@
 ## XXV. Fejezet
 
-## A VÁMSZABÁLYSÉRTÉSEK
+## A PÉNZÜGYI ÉS KERESKEDELMI SZABÁLYSÉRTÉSEK
 
 ## 163. Vámszabálysértés
 

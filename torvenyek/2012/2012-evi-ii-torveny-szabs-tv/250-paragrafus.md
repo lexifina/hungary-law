@@ -34,4 +34,4 @@ i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogos
 
 részletes szabályait rendeletben szabályozza.
 
-(3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a vámszabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.

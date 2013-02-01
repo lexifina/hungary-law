@@ -4,7 +4,7 @@
 
 a) rossz minőségű terméket jó minőségű termékként előállít, értékesít, használatba ad, illetve forgalomba hoz, vagy ezek iránt intézkedik,
 
-b) a termék minőségének megállapítására vonatkozó szabályokat megszegi és ezzel lehetővé teszi, hogy a terméket a valóságosnál jobb minőségűként értékesítsék, adjanak használatba, illetve hozzanak forgalomba, feltéve, hogy a termék értéke a százezer forintot nem haladja meg,
+b)
 
 szabálysértést követ el.
 
