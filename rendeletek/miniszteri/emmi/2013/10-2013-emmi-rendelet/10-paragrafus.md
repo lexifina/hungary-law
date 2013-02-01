@@ -1,1 +1,3 @@
-## „a) az orális és inhalációs kombinációs készítmények támogatása nem haladhatja meg a termék hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű, terápiásan megfelelő mennyiségű, azonos indikációval rendelkező monokomponensek támogatásának a monokomponens kombinációban lévő hatóanyagmennyiségére számított összegét, amennyiben mindegyik monokomponens támogatott, azzal hogy az inhalációs kombinációs készítmény esetén a kombinációs készítmény és a monokomponensek támogatási összege közötti különbséget a forgalombahozatali engedély jogosultja támogatás-volumen szerződés keretében is megtérítheti;”
+10. §[^10]
+
+[^10]: Az 1–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

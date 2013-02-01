@@ -1,12 +1,9 @@
-14. § (1) Hatályát veszti a 32/2004. ESZCSM rendelet
+14. § (1)[^17]
 
-a) 4. § (2) bekezdésében a „(különkeretes gyógyszer)” szövegrész,
+(2)[^18]
 
-b) 8. § (6) bekezdés e) pontjában a „támogatási jogcímenként” szövegrész.
+(3)[^19]
 
-(2)[^3]
-
-(3)[^4]
-
-[^3]: A 14. § (2) bekezdése a 15. § (3) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^4]: A 14. § (3) bekezdése a 15. § (4) bekezdése alapján 2013. május 1-jén lép hatályba.
+[^17]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § (2) bekezdése a 15. § (3) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^19]: A 14. § (3) bekezdése a 15. § (4) bekezdése alapján 2013. május 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 7. § A 32/2004. ESZCSM rendelet a következő 10/F. §-sal egészül ki:
+8. §[^8]
 
-## „10/F. § Amennyiben egy preferált készítménnyel kapcsolatosan átmeneti termékhiányt jelentenek be, vagy a preferált készítménnyel történő folyamatos ellátás nem biztosított, vagy a gyógyszerészeti hatóság részéről minőségi kifogással kapcsolatos forgalomból való kivonás történik, az adott gyógyszer esetében a következő fixesítési eljárás során preferált státusz nem biztosítható.”
+[^8]: Az 1–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(7) Fix támogatási csoportba vonható gyógyszer esetében a már benyújtott, de a fixesítési eljárás kezdetéig el nem bírált támogatási kérelemmel rendelkező készítményt az OEP a fixesítési eljárásba bevonja, és befogadása esetén ára vagy az árváltoztatásra nyitva álló határidőben érvényes árajánlata szerint a megfelelő fix csoportba (csoportokba) besorolja.”
+5. §[^5]
+
+[^5]: Az 1–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
