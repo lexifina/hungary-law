@@ -1,6 +1,6 @@
 ## 14. A kifizetési kérelem benyújtása
 
-22. § (1)[^17] A kifizetési kérelmet a Vhr. 16/B. § szerinti időszakokban elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun vagy postai úton keresztül az MVH regionális kirendeltségéhez kell benyújtani. Az elektronikus űrlapkitöltő szolgáltatás használata esetén a kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
+22. § (1)[^17]
 
 (2) Egy ügyfél
 
@@ -14,4 +14,4 @@ kifizetési kérelem benyújtására jogosult.
 
 (4) Természetes személy ügyfél esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát.
 
-[^17]: A 22. § (1) bekezdése a 35/2012. (IV. 13.) VM rendelet 12. §-ával megállapított szöveg.
+[^17]: A 22. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés k) pontja hatályon kívül helyezte.
