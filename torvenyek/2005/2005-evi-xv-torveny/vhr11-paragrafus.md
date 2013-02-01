@@ -8,7 +8,9 @@ a) a kérelem első benyújtása esetén a 6. mellékletében szereplő adatokat
 
 b) a kérelem első benyújtását követő években a 6. melléklet 2. c) és d) alpontjában szereplő dokumentumokat.
 
-(3) Ha a kérelmező a 6. melléklet 2. a) vagy b) alpontjában szereplő adatokat nem igazolja, a miniszter adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+(3) Ha a kérelmező a 6. melléklet 2. b) alpontjában szereplő adatokat nem igazolja, a miniszter adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+
+(3a) Ha a kérelmező cégjegyzékben nyilvántartott cég, a cégkivonatot a környezetvédelmi hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (4) A (2) bekezdés b) pontjában foglaltak esetén a kérelmezőnek nyilatkoznia kell, hogy a korábbi új belépő eljárás alapjául szolgáló körülményekhez képest – ide nem értve a termelési, tüzelőanyag-felhasználási és kibocsátási mennyiségeket – történt-e változás. Ha változás következett be, vagy a környezethasználat feltételeit megállapító engedély vagy a kibocsátási engedély módosításra vagy visszavonásra került, meg kell adni a változással érintett adatokat, és az arra vonatkozó dokumentumokat mellékelni kell.
 

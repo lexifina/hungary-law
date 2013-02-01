@@ -66,7 +66,7 @@ Csatolandó dokumentumok
 
 A. pontban felsorolt adatokkal kapcsolatosan:
 
-1. Közjegyzői aláírás-hitelesítéssel ellátott címpéldány vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta, 30 napnál nem régebbi cégkivonat
+1. A 12. § (12) bekezdésben foglaltak kivételével közjegyzői aláírás-hitelesítéssel ellátott címpéldány
 
 2. A környezetvédelmi engedély másolata
 

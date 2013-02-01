@@ -22,7 +22,7 @@ e) a tárgyévben felhasznált anyagok és tüzelőanyagok, továbbá ezeknek a 
 
 2. A kérelemhez csatolandó dokumentumok
 
-a) 30 napnál nem régebbi cégkivonat;
+a)
 
 b) a kibocsátási engedély másolata, az egységes környezethasználati engedély másolata (ha van);
 

@@ -22,4 +22,6 @@ b) ha az engedély kiadásához szükséges valamely feltétel nem áll fenn, a 
 
 (9)
 
-(10) Ha a kérelmező a kibocsátási engedély iránti kérelmében a 2. melléklet F. 1. vagy 2. pontjában meghatározott adatokat nem igazolja, a környezetvédelmi hatóság adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+(10) Ha a kérelmező a kibocsátási engedély iránti kérelmében a 2. melléklet F. 2. pontjában meghatározott adatokat nem igazolja, a környezetvédelmi hatóság adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+
+(11) Ha a kérelmező cégjegyzékben nyilvántartott cég, a környezetvédelmi hatóság a cég a cégkivonatát, valamint ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.

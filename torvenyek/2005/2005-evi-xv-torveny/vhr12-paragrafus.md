@@ -22,13 +22,13 @@ b) szerepel a köztartozásmentes adózói adatbázisban.
 
 (6) A megállapodás jóváhagyására irányuló kérelmet a közös teljesítéssel érintett időszak első évét megelőző szeptember 1-jéig kell a környezetvédelmi hatóság részére két példányban benyújtani. A kérelmet a részt vevő üzemeltetők felhatalmazása alapján a kijelölt teljesítési megbízott nyújtja be.
 
-(7) A kérelemben meg kell jelölni a közös teljesítésben részt vevő létesítményeket és azok üzemeltetőit, a teljesítési megbízottat, valamint a közös teljesítés tartamát. A kérelemhez – a (11) bekezdésben foglalt eltéréssel – csatolni kell az alábbiakat:
+(7) A kérelemben meg kell jelölni a közös teljesítésben részt vevő létesítményeket és azok üzemeltetőit, a teljesítési megbízottat, valamint a közös teljesítés tartamát. A kérelemhez – a (11) és (12) bekezdésben foglalt eltéréssel – csatolni kell az alábbiakat:
 
 a) a közös teljesítésére vonatkozó megállapodást;
 
-b) a teljesítési megbízottra vonatkozó három hónapnál nem régebbi cégkivonatot, továbbá a cégbíróságon iktatott, de még el nem bírált változásbejegyzési kérelem hiteles másolatát, egyéni vállalkozó esetén annak az igazolását, hogy szerepel az egyéni vállalkozói nyilvántartásban; külföldi székhellyel rendelkező teljesítési megbízott esetén a regisztrációt megfelelően igazoló dokumentum másolatát;
+b) ha a teljesítési megbízott cég, és változásbejegyzési eljárás folyamatban van, a még el nem bírált változásbejegyzési kérelem hiteles másolatát, egyéni vállalkozó esetén annak az igazolását, hogy szerepel az egyéni vállalkozói nyilvántartásban; külföldi székhellyel rendelkező teljesítési megbízott esetén a regisztrációt megfelelően igazoló dokumentum másolatát;
 
-c) a cég képviseletére vagy jegyzésére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját, illetve annak hiteles másolatát;
+c) – a (12) bekezdés kivételével – a cég képviseletére vagy jegyzésére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, illetve annak hiteles másolatát;
 
 d)
 
@@ -38,6 +38,6 @@ d)
 
 (10) A közös teljesítésre irányuló jóváhagyott megállapodásokról a környezetvédelmi hatóság nyilvántartást vezet.
 
-(11) Ha a kérelmező a Magyarországon bejegyzett teljesítési megbízottra vonatkozó cégkivonatot nem csatolja, a környezetvédelmi hatóság az adatok szolgáltatása iránt megkeresi az adatokról nyilvántartást vezető bíróságot.
+(11) Ha a teljesítési megbízott cégjegyzékben nyilvántartott cég, a cégkivonatot a környezetvédelmi hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(12)
+(12) Ha a teljesítési megbízott képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a környezetvédelmi hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
