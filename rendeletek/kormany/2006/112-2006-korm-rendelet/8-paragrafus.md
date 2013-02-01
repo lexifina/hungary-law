@@ -1,10 +1,10 @@
-## 7/B. §[^59]
+## 7/B. §[^62]
 
 ## II. RÉSZ
 
 ## A SZOCIÁLIS FOGLALKOZTATÁSI TÁMOGATÁS
 
-8. §[^60] (1) A szociális foglalkoztatási támogatás az e rendelet szerinti általános pályázat, meghívásos pályázat, valamint fejlesztési pályázat útján nyújtható.
+8. §[^63] (1) A szociális foglalkoztatási támogatás az e rendelet szerinti általános pályázat, meghívásos pályázat, valamint fejlesztési pályázat útján nyújtható.
 
 (2) Az egy feladategységre jutó támogatás összege – a (3) bekezdésben foglalt kivétellel – minden fenntartó esetében megegyezik.
 
@@ -26,5 +26,5 @@ ad) akit az ac) pont szerinti szakvéleményben javasolt munkarehabilitáció he
 
 b) a fejlesztő-felkészítő foglalkoztatás keretében foglalkoztatott személy munkaszerződésének megszüntetéséből fakadó munkáltatói kötelezettségek teljesítésére.
 
-[^59]: A 7/B. §-t a 279/2009. (XII. 9.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 357/2010. (XII. 30.) Korm. rendelet 17. § (1) bekezdése.
-[^60]: A 8. § a 279/2009. (XII. 9.) Korm. rendelet 5. §-ával megállapított szöveg, e módosító rendelet 31. § (6) bekezése alapján a 2009. évre megállapított szociális foglalkoztatási támogatás tekintetében a 112/2006. (V. 12.) Korm. rendelet 2009. december 12-ét megelőző napon hatályos rendelkezéseit kell alkalmazni.
+[^62]: A 7/B. §-t a 279/2009. (XII. 9.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 357/2010. (XII. 30.) Korm. rendelet 17. § (1) bekezdése.
+[^63]: A 8. § a 279/2009. (XII. 9.) Korm. rendelet 5. §-ával megállapított szöveg, e módosító rendelet 31. § (6) bekezése alapján a 2009. évre megállapított szociális foglalkoztatási támogatás tekintetében a 112/2006. (V. 12.) Korm. rendelet 2009. december 12-ét megelőző napon hatályos rendelkezéseit kell alkalmazni.

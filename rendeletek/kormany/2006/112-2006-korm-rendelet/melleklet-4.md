@@ -1,3 +1,3 @@
-4. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^152]
+4. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^158]
 
-[^152]: A 4. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.
+[^158]: A 4. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.
