@@ -111,3 +111,5 @@ b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határ
 39. mederhasználati jog: a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetőjét a vízilétesítmény által igénybe vett terület mértékéig megillető használati jog;
 
 40. mederhasználati vízilétesítmény: a nemzeti vagyonba tartozó vizek medrében elhelyezett kikötői lekötőmű, móló – az úszó móló kivételével –, sólyapálya, partvédő művek, hullámtörő, energiatörő.
+
+41. mezőgazdasági vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység.

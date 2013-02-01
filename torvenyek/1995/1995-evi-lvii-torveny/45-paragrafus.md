@@ -62,7 +62,9 @@ w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által 
 
 x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok;
 
-y) a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzési feltételeinek, az e tevékenységre jogosító bejelentés és a nyilvántartás tartalmi elemeire, a tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek, a közszolgáltatási bírság mértékének és megállapítása módjának, a közszolgáltatási szerződés tartalmának, valamint a közszolgáltatási díj megállapításának, a nyilvántartási és adatszolgáltatási kötelezettségnek
+y) a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzési feltételeinek, az e tevékenységre jogosító bejelentés és a nyilvántartás tartalmi elemeire, a tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek, a közszolgáltatási bírság mértékének és megállapítása módjának, a közszolgáltatási szerződés tartalmának, valamint a közszolgáltatási díj megállapításának, a nyilvántartási és adatszolgáltatási kötelezettségnek;
+
+y) a mezőgazdasági vízszolgáltatási díj megállapítása részletes szabályainak
 
 rendeletben történő megállapítására.
 
@@ -76,7 +78,7 @@ c) a vízgazdálkodás országos és területi rendjének;
 
 d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
 
-e) a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszterrel egyetértésben a mezőgazdasági vízszolgáltató művek üzemeltetésének
+e) a mezőgazdasági vízszolgáltató művek üzemeltetésének
 
 f) a vízimunkáknak, a vízilétesítményeknek és vízhasználatoknak (a vízikönyvnek), a vízkészletek nyilvántartásának;
 
