@@ -1,6 +1,6 @@
 ## 16. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 54. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet a 47/2012. (V. 11.) VM rendelethez[^2]
+1. melléklet a 47/2012. (V. 11.) VM rendelethez[^3]
 
 1. 3-as Kézfogás non-profit Kft.
 
@@ -3414,4 +3414,8 @@ III. Pénzügyi szempontok
 
 26. Felső-Szabolcsi Vidékfejlesztési Közhasznú Egyesület
 
-[^2]: Az 1. melléklet az 52/2012. (VI. 8.) VM rendelet 19. § (1), (2) és (4) bekezdése szerint módosított szöveg.
+Értékelő táblázat
+
+I. Szakmai szempontok
+
+[^3]: Az 1. melléklet az 52/2012. (VI. 8.) VM rendelet 19. § (1), (2) és (4) bekezdése szerint módosított szöveg.
