@@ -8,7 +8,7 @@ c) a cég székhelyét, valamint ha a cég székhelye nem azonos a központi üg
 
 d) a létesítő okirat keltét,
 
-e) a cég létesítő okiratban meghatározott tevékenységi köreit, azok statisztikai nómenklatúra szerinti besorolása nélkül,
+e) a cég főtevékenységét, valamint további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével,
 
 f) a cég jegyzett tőkéjét,
 
@@ -31,6 +31,8 @@ l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel 
 (4) Szövetkezet, európai szövetkezet, európai gazdasági egyesülés, külföldi vállalkozás magyarországi fióktelepe és külföldiek magyarországi kereskedelmi képviselete esetében a jegyzett tőke (illetve a jegyzett tőkeként bejegyzett összeg) változását – a változások számától függetlenül – évente legalább egy alkalommal kötelező a cégbíróságnak bejegyzés és közzététel végett bejelenteni.
 
 (4a) A bejegyzési kérelem benyújtásakor a cég köteles megjelölni főtevékenységét és további tevékenységi köreit azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével. A cégbíróság a cég bejegyzésekor elektronikus úton értesíti az állami adóhatóságot a cég főtevékenységéről és további tevékenységi köreiről.
+
+(4b) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég főtevékenységének és további tevékenységi köreinek változásait, a mindenkor hatályos TEÁOR nómenklatúra szerinti megjelöléssel. Az adat bejegyzése és közzététele automatikusan történik meg.
 
 (5) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 

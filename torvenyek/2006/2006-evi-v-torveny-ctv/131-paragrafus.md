@@ -1,3 +1,1 @@
-131. § (1) Amennyiben a cég az állami adóhatósághoz főtevékenységének, illetve tevékenységi köreinek változását jelentette be, a cégbíróság az állami adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég főtevékenységét és további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével. Az adat bejegyzése és közzététele automatikusan történik meg.
-
-(2) Amennyiben a Módtv. 109. § (4) bekezdésének hatálybalépését követően a cég főtevékenységének vagy további tevékenységi köreinek módosítására 2012. december 31-ig nem került sor, az állami adóhatóság 2013. január 31-ig a nyilvántartásában szereplő adatok alapján elektronikus úton közli, és a cégbíróság hivatalból jegyzi be a cég főtevékenységét és további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével.
+### 131. §

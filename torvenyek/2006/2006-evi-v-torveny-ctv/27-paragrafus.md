@@ -72,7 +72,7 @@ c) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a G
 
 a) a cégtulajdonos nevét, lakóhelyét, születési idejét és anyja születési nevét,
 
-b) az egyéni cég tagjának korlátolt vagy korlátlan felelősségét, korlátolt felelősség esetén a pótbefizetés összegét;
+b)
 
 c) azt a tényt, ha az egyéni cég tagja vagy vezető tisztségviselője az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 20. § (7) bekezdésében foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét.
 
