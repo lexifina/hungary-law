@@ -6,6 +6,6 @@
 
 (3) Ha az ügyfél a támogatási kérelemben vállalt hátrányos helyzetű (nő, 25 év alatti pályakezdő fiatal, fogyatékkal élő, 40 évnél idősebb, 2 vagy több 10 éven aluli gyermeket nevelő, 10 éven aluli gyereket nevelő egyedülálló) munkavállalói létszámnál kevesebbet foglalkoztat az üzemeltetési kötelezettség időtartama alatt, köteles hiányzó, hátrányos helyzetű foglalkoztatottanként egyszer, az igénybe vett támogatás 2%-át, de legalább 350 000 forintot a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni.
 
-(4)[^50] Ha az 1. számú melléklet szerinti nyilatkozattal alátámasztott pontozási szempontok ellenőrzése során kiderül, hogy az ügyfél nem valós adatot szolgáltatott, akkor a kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül és az ügyfél támogatási jogosultsága az érintett támogatáshoz kapcsolódóan megszűnik.
+(4)[^49] Ha az 1. számú melléklet szerinti nyilatkozattal alátámasztott pontozási szempontok ellenőrzése során kiderül, hogy az ügyfél nem valós adatot szolgáltatott, akkor a kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül és az ügyfél támogatási jogosultsága az érintett támogatáshoz kapcsolódóan megszűnik.
 
-[^50]: A 9. § (4) bekezdése a 13/2010. (VIII. 30.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^49]: A 9. § (4) bekezdése a 13/2010. (VIII. 30.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.
