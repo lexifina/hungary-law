@@ -74,21 +74,7 @@
 
 ## Határidő: 2014. március 31.
 
-## 2. A Semmelweis Tervben meghatározott egészségügyi struktúra-átalakítással járó feladatokról, a kiemelt feladatok végrehajtásához szükséges intézkedésekről szóló 1208/2011. (VI. 28.) Korm. határozat (a továbbiakban: H.) 1.8. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány az egészségügyi ellátórendszer működőképességének fenntarthatósága, a lakosság egészségi állapotának javítása érdekében:)
-
-## „1.8. egyetért azzal, hogy a főváros és a vonzáskörzete egészségügyi ellátásának tervezett átalakításához szükséges fedezet biztosítása érdekében a költségvetési lehetőségek függvényében a korábban egészségügyi célt szolgáló, valamint a tervezett átalakítások során felszabaduló egészségügyi ingatlanok hasznosításából, esetleges értékesítéséből származó bevétel – az állami vagyongazdálkodásra vonatkozó jogszabályok keretei között – kizárólagosan egészségügyi beruházási célú forrásként felhasználható legyen, melynek törvényi feltételeit az emberi erőforrások minisztere, a nemzetgazdasági miniszter és a nemzeti fejlesztési miniszter együttes egyetértésével kell megteremteni, kivéve, ha az ingatlanok hasznosítása egyéb közcélt (pl. oktatási, kulturális, sport stb.) szolgál;
-
-## Felelős: emberi erőforrások minisztere
-
-## nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: folyamatosan”
-
-## 3. A H. 1.1–1.7. és 1.9–1.13. pontjaiban a „nemzeti erőforrás miniszter” szövegrész helyébe az „emberi erőforrások minisztere” szöveg, 1.9. pont a) alpontjában az „a Nemzeti Erőforrás Minisztérium” szövegrész helyébe az „az Emberi Erőforrás Minisztériuma” szöveg lép.
+## 2–3.[^1]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -161,3 +147,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
