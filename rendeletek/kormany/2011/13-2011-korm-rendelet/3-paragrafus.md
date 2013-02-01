@@ -6,13 +6,13 @@
 
 a) a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 17. § (1) bekezdésében meghatározott vámazonosító számát (a továbbiakban: EORI szám);
 
-b) a személyét hitelesen azonosító iratot: cégkivonatot, alapító okiratot vagy személyazonosító igazolványt vagy ezen iratok valamelyikének hiteles másolatát;
+b)[^11] a személyét hitelesen azonosító iratot: alapító okiratot vagy személyazonosító igazolványt vagy ezen iratok valamelyikének hiteles másolatát;
 
-c) a részéről kötelezettségvállalásra jogosult személy aláírásának hitelességét tanúsító iratot: közjegyzői aláírás-hitelesítéssel ellátott címpéldány vagy ügyvéd által cégbejegyzési, változásbejegyzési eljárásban való közreműködés során ellenjegyzett aláírás-minta, személyazonosító igazolvány másolatát, és
+c)[^12] – a (4a) bekezdés kivételével – a részéről kötelezettségvállalásra jogosult személy aláírásának hitelességét tanúsító iratot: közjegyzői aláírás-hitelesítéssel ellátott címpéldány, személyazonosító igazolvány másolatát, és
 
 d) az adóazonosító számát.
 
-(3)[^11] Az 1. § (1) bekezdés a)–b) és e) pontja szerinti tevékenységekhez, az Európai Unión belüli transzfert kivéve, a 3. § (2) bekezdésében foglaltakon túl a nyilvántartásba vételi kérelemhez a kérelmezőnek be kell nyújtania
+(3)[^13] Az 1. § (1) bekezdés a)–b) és e) pontja szerinti tevékenységekhez, az Európai Unión belüli transzfert kivéve, a 3. § (2) bekezdésében foglaltakon túl a nyilvántartásba vételi kérelemhez a kérelmezőnek be kell nyújtania
 
 a) nem természetes személy esetében a vállalkozás irányításában részt vevő exportellenőrzésért felelős vezető kijelöléséről szóló és a Hivatallal való kapcsolattartásra felhatalmazott személy képviseleti jogosultságát igazoló iratot, és
 
@@ -26,4 +26,9 @@ b) szabályozza a 428/2009/EK tanácsi rendelet, valamint e rendelet előírása
 
 c) intézkedési tervben rendelkezik az esetleges jogsértés következményeinek felszámolásáról.
 
-[^11]: A 3. § (3) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+(4a)[^14] Ha a kérelmező cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+[^11]: A 3. § (2) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (2) bekezdés c) pontja a 355/2012. (XII. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (3) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^14]: A 3. § (4a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 40. § (2) bekezdése iktatta be.

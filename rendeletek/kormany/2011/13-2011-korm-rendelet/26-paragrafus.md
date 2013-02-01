@@ -1,4 +1,4 @@
-## IV. Fejezet[^33]
+## IV. Fejezet[^36]
 
 ## A NEMZETKÖZI SZANKCIÓBAN ELRENDELT KÜLKERESKEDELMI KORLÁTOZÁS ALÁ ESŐ TERMÉK KIVITELÉNEK ELLENŐRZÉSE
 
@@ -14,4 +14,4 @@ b) fennáll a 15. § (1) bekezdésében foglalt bármely feltétel.
 
 (4) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kivitelével kapcsolatos engedélyezési eljárásra az egyedi exportengedélyre vonatkozó szabályok irányadók.
 
-[^33]: A IV. Fejezet (26. §) a 209/2012. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^36]: A IV. Fejezet (26. §) a 209/2012. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.

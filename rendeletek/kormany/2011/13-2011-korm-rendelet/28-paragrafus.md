@@ -4,11 +4,11 @@ a) az engedélyezési eljárás során a hatóság megtévesztésére alkalmas v
 
 b) az adatszolgáltatási, a bejelentési, az együttműködési, a nyilatkozattételi és nyilvántartási kötelezettségeit nem teljesíti;
 
-c)[^34] Magyarországnak a nemzetközi non-proliferációs kötelezettségei teljesítését, valamint nemzetbiztonsági érdekeit sérti vagy veszélyezteti, vagy
+c)[^37] Magyarországnak a nemzetközi non-proliferációs kötelezettségei teljesítését, valamint nemzetbiztonsági érdekeit sérti vagy veszélyezteti, vagy
 
 d) a Hivatal által jóváhagyott Belső Ellenőrzési Programot a jogszabályban meghatározott feltételektől eltérően működteti,
 
-e)[^35] nemzetközi szankcióban elrendelt külkereskedelmi korlátozásból eredő kötelezettségét gondatlanul megszegi.
+e)[^38] nemzetközi szankcióban elrendelt külkereskedelmi korlátozásból eredő kötelezettségét gondatlanul megszegi.
 
 (2) A Hivatal ötszázezer forinttól ötmillió forintig terjedő bírsággal sújtja azt, aki
 
@@ -16,12 +16,12 @@ a) az e rendeletben meghatározott kettős felhasználású termékek külkeresk
 
 b) a Vegyi fegyver Tilalmi Egyezmény 1. Mellékletének hatálya alá tartozó vegyi anyagok külkereskedelmi forgalmát – ideértve annak transzferjét – nem az engedélyben foglaltak szerint végzi.
 
-(3)[^36] Ötmillió forinttól tízmillió forintig terjedő bírságolással sújtható, aki az engedélyben foglaltakkal ellentétes külkereskedelmi tevékenységet folytat és ezzel Magyarország kül- és biztonságpolitikai érdekét sérti.
+(3)[^39] Ötmillió forinttól tízmillió forintig terjedő bírságolással sújtható, aki az engedélyben foglaltakkal ellentétes külkereskedelmi tevékenységet folytat és ezzel Magyarország kül- és biztonságpolitikai érdekét sérti.
 
 (4) Az (1)–(3) bekezdés szerinti bírságot a kirovó határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára való utalással kell teljesíteni.
 
 (5) Az (1)–(3) bekezdés szerinti bírság megfizetése készpénz-átutalási megbízással vagy átutalással történhet.
 
-[^34]: A 28. § (1) bekezdés c) pontja a 209/2012. (VII. 27.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
-[^35]: A 28. § (1) bekezdés e) pontját a 209/2012. (VII. 27.) Korm. rendelet 11. §-a iktatta be.
-[^36]: A 28. § (3) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^37]: A 28. § (1) bekezdés c) pontja a 209/2012. (VII. 27.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^38]: A 28. § (1) bekezdés e) pontját a 209/2012. (VII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^39]: A 28. § (3) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
