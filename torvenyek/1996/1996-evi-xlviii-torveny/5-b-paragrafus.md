@@ -20,9 +20,9 @@ i) nyilatkozatot a fióktelep telefon- és faxszámáról, valamint e-mail cím�
 
 (2) A kérelmező a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedélyt akkor kaphat, ha
 
-a) igazolja a külföldi vállalkozás fióktelepének a magyar cégbíróság általi cégnyilvántartásba történő bejegyzését,
+a) a külföldi vállalkozás fióktelepének a magyar cégbíróság általi cégnyilvántartásba történő bejegyzése megtörtént,
 
-b) igazolja a fióktelep cégjegyzékszámát, adószámát,
+b) nyilatkozatban igazolja a fióktelep cégjegyzékszámát, adószámát,
 
 c) rendelkezik a közraktár tárolási, raktározási tevékenységéhez használt saját raktára működéséhez szükséges telepengedéllyel vagy bejelentéskötelezettség alá tartozó tevékenység esetében a nyilvántartásba vétel igazolásával,
 
@@ -40,7 +40,7 @@ fc) nem áll a gazdálkodó szervezetben vagy gazdasági társaságban vezető t
 
 fd) nem áll az fb) alpontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt.
 
-(3) Ha a kérelmező a (2) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(3) Ha a kérelmező a (2) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A (2) bekezdés a) és b) pont igazolása érdekében a felügyelet a külföldi vállalkozás fióktelepének cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (4) A fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg a fióktelep vezetője hatósági bizonyítvánnyal igazolja azt a tényt, hogy megfelel az 5/B. § (2) bekezdés f) pontjában meghatározott feltételnek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 

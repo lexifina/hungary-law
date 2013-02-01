@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-48-00-00
 | 2011-10-11 | 2011. évi CXXII. törvény | 1996-48-00-00.21 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1996-48-00-00.22 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 1996-48-00-00.23 |
+| 2013-02-01 | 2012. évi CCVIII. törvény | 1996-48-00-00.24 |

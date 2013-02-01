@@ -30,10 +30,10 @@ c) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – f�
 
 (7) Ha a kérelmező gazdasági társaság, a közraktárban történő minősített befolyás szerzéséhez szükséges előzetes engedélyt akkor kaphat, ha
 
-a) igazolja a cégjogi adatait, cégjegyzékszámát, adószámát és
+a) nyilatkozatban igazolja cégjegyzékszámát, adószámát és
 
 b) jogerősen megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
 
-(8) Ha a kérelmező a (7) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (7) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
 
 (9) A felügyelet a minősített befolyás megszerzését eredményező megállapodáshoz szükséges előzetes engedély iránti kérelmet a beérkezését követő naptól számított tizenöt napon belül elbírálja. A felügyelet a kérelmet elutasíthatja, ha a befolyást megszerezni kívánó fél tevékenysége vagy a közraktárra gyakorolt befolyása a biztonságos működést, illetve a kötelezettségek teljesítését veszélyeztetné. A minősített befolyásra, valamint a közvetett tulajdonra vonatkozóan a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény fogalmai irányadóak.

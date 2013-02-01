@@ -16,7 +16,7 @@ e) zálogkölcsönnyújtás esetén a kölcsönnyújtással kapcsolatos szabály
 
 f) a használni kívánt közraktári jegy, letéti könyv (letéti szelvény) nyomtatványainak mintáját;
 
-g) a közraktárban tulajdoni részesedéssel rendelkező személyek azonosító, illetve cégjogi adatait, az azokat igazoló okiratokat, ideértve az állampolgárságra, devizajogi státuszra vonatkozó tájékoztatást;
+g) a közraktárban tulajdoni részesedéssel rendelkező személyek azonosító adatait (ideértve az állampolgárságra, devizajogi státuszra vonatkozó tájékoztatást is), valamint az azokat igazoló okiratokat, illetve ha ezen személy a cégjegyzékben nyilvántartott cég, akkor a cég nevét és cégjegyzékszámát;
 
 h) a közraktár vezetőinek szakmai képesítésére, állampolgárságára és alkalmazására vonatkozó okiratokat;
 
@@ -30,7 +30,7 @@ l) zálogkölcsön-nyújtás esetén a külön törvényben meghatározott közp
 
 (3) A kérelmező a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges közraktári engedélyt kaphat, ha
 
-a) igazolja a részvénytársaság létesítésével kapcsolatos adatokat, a cég raktározás és tárolás besorolású főtevékenységét, záloghitelnyújtás esetén az egyéb hitelnyújtás-besorolást,
+a) részvénytársaság létesítésével kapcsolatos adatok alapján a cég raktározás és tárolás besorolású főtevékenységet, záloghitelnyújtás esetén egyéb hitelnyújtás besorolású tevékenységet folytat,
 
 b) a részvénytársaság ellen nem indult csőd- vagy felszámolási eljárás,
 
@@ -50,7 +50,7 @@ ed) nem áll az eb) alpontban meghatározott bűncselekmény miatt büntetőelj�
 
 (4) A 2. § (5) bekezdés alapján a közraktári engedély csak akkor adható meg, ha a közraktár részére a tulajdonjogot az ingatlan-nyilvántartásba jogerősen bejegyezték.
 
-(5) Ha a kérelmező a (3) bekezdés a)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés a)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(5) Ha a kérelmező a (3) bekezdés b)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (6) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg az igazgatóság tagja hatósági bizonyítvánnyal igazolja azt a tényt, hogy megfelel az 5. § (3) bekezdés e) pontjában meghatározott feltételnek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a (7) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
