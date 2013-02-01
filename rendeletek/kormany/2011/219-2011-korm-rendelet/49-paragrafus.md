@@ -1,5 +1,5 @@
 ## 25. Módosító rendelkezések
 
-49. §[^52]
+49. §[^54]
 
-[^52]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

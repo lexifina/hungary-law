@@ -16,11 +16,15 @@ a)[^8] a biztonsági jelentést vagy a biztonsági elemzést, valamint azok véd
 
 b) az ügyben eljáró meghatalmazott személy részére szóló meghatalmazást,
 
-c) a képviseleti jogosultság igazolására alkalmas iratot, és
+c)[^9] – a (3a) bekezdés kivételével – a képviseleti jogosultság igazolására alkalmas iratot, és
 
 d) az igazgatási szolgáltatási díj megfizetését hitelt érdemlően bizonyító iratot.
 
-(4)[^9] Ha az üzemeltető a (3) bekezdésben meghatározott védendő adatot nem tartalmazó dokumentációt nem nyújt be, akkor csatolja a nyilatkozatát arról, hogy a beküldött dokumentáció nem tartalmaz védendő adatot.
+(3a)[^10] Ha az üzemeltető cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(4)[^11] Ha az üzemeltető a (3) bekezdésben meghatározott védendő adatot nem tartalmazó dokumentációt nem nyújt be, akkor csatolja a nyilatkozatát arról, hogy a beküldött dokumentáció nem tartalmaz védendő adatot.
 
 [^8]: A 10. § (3) bekezdés a) pontja a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^9]: A 10. § (4) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^9]: A 10. § (3) bekezdés c) pontja a 355/2012. (XII. 13.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^10]: A 10. § (3a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^11]: A 10. § (4) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (4) bekezdése iktatta be.
