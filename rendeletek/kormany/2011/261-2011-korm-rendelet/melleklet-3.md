@@ -2,7 +2,7 @@
 
 ## A közúti közlekedési szolgáltatást végző vállalkozás szakmai irányítójának képzésére és vizsgáztatására vonatkozó követelmények
 
-1.[^31] A közúti árufuvarozó-vállalkozó szakmai alkalmasságot igazoló bizonyítvány, valamint a továbbképzési igazolás megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie. A továbbképzési szaktanfolyam tantárgyai megegyeznek az alaptanfolyam tantárgyaival, azzal a különbséggel, hogy az ott meghatározott óraszámok tantárgyanként a felével csökkenthetők.
+1.[^33] A közúti árufuvarozó-vállalkozó szakmai alkalmasságot igazoló bizonyítvány, valamint a továbbképzési igazolás megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie. A továbbképzési szaktanfolyam tantárgyai megegyeznek az alaptanfolyam tantárgyaival, azzal a különbséggel, hogy az ott meghatározott óraszámok tantárgyanként a felével csökkenthetők.
 
 A szaktanfolyam tantárgyai és óraszámai:
 
@@ -78,7 +78,7 @@ A közúti árufuvarozó-vállalkozó szaktanfolyami vizsgákon a vizsgáztatás
 
 – közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
 
-2.[^32] Az autóbuszos személyszállító-vállalkozó szakmai alkalmasságot igazoló bizonyítvány, valamint a továbbképzési igazolás megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie. A továbbképzési szaktanfolyam tantárgyai megegyeznek az alaptanfolyam tantárgyaival, azzal a különbséggel, hogy az ott meghatározott óraszámok tantárgyanként a felével csökkenthetők.
+2.[^34] Az autóbuszos személyszállító-vállalkozó szakmai alkalmasságot igazoló bizonyítvány, valamint a továbbképzési igazolás megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie. A továbbképzési szaktanfolyam tantárgyai megegyeznek az alaptanfolyam tantárgyaival, azzal a különbséggel, hogy az ott meghatározott óraszámok tantárgyanként a felével csökkenthetők.
 
 A szaktanfolyam tantárgyai és óraszámai:
 
@@ -148,5 +148,5 @@ Az autóbuszos személyszállító-vállalkozó szaktanfolyami vizsgákon a vizs
 
 – közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
 
-[^31]: A 3. melléklet 1. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (14) bekezdése szerint módosított szöveg.
-[^32]: A 3. melléklet 2. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (14) bekezdése szerint módosított szöveg.
+[^33]: A 3. melléklet 1. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (14) bekezdése szerint módosított szöveg.
+[^34]: A 3. melléklet 2. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (14) bekezdése szerint módosított szöveg.

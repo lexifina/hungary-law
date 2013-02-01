@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-261-20-
 | 2012-08-24 | 2011-261-20-22.4 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2012-10-22 | 2011-261-20-22.5 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2012-12-04 | 2011-261-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-02-01 | 2011-261-20-22.7 | 355/2012. (XII. 13.) Korm. rendelet |
