@@ -1,0 +1,1 @@
+11/G. § Az ellenszolgáltatás fejében létrejött földhasználati szerződés esetében az ellenszolgáltatás a 11/D. § (3) bekezdésében meghatározott tulajdonostársakat is megilleti a tulajdoni hányaduk arányában. Ez esetben a használónak az ellenszolgáltatás megfelelő értékét készpénzben bírósági teljesítési letétbe kell helyeznie.

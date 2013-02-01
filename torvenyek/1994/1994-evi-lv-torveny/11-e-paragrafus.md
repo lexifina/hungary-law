@@ -1,0 +1,3 @@
+11/E. § (1) A felhívás tartalmától eltérő tartalmú elfogadó nyilatkozatokat az ajánlattevő megvizsgálja, és ha a használtba vételi szándéka továbbra is fennáll, az elfogadó nyilatkozatok tartalmától függően módosított felhívást köteles közölni. A módosított felhívás új felhívásnak minősül, amelynek közlésére és elfogadására a 11/D. §-ban foglaltakat kell alkalmazni.
+
+(2) Az (1) bekezdésben foglaltakat kell alkalmazni akkor is, ha a tulajdonostárs a felhívásra a megadott határidőn belül úgy nyilatkozik, hogy a használati megosztás alapján a tulajdoni hányadának megfelelő, vagy attól eltérő területet maga kívánja használni.
