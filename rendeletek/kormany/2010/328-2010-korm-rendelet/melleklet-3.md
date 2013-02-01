@@ -340,7 +340,7 @@
 
 ## 21. Verpeléti
 
-3. melléklet a 328/2010. (XII. 27.) Korm. rendelethez[^62]
+3. melléklet a 328/2010. (XII. 27.) Korm. rendelethez[^63]
 
 A járási állategészségügyi és élelmiszer-ellenőrző hivatalok illetékességi területe
 
@@ -972,4 +972,4 @@ Letenyei Járás
 
 Zalaegerszegi Járás
 
-[^62]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^63]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 48. §-ával megállapított szöveg.

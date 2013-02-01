@@ -62,9 +62,11 @@ r) lovas sportverseny rendezésének engedélyezésére irányuló eljárásban,
 
 (3) A (2) bekezdés l) pontja szerinti eljárásban a szakhatóság öt napon, a (2) bekezdés m) pontja szerinti eljárásban nyolc napon belül köteles állásfoglalását megadni.
 
+(3a)[^57] Amennyiben az erdőterv megállapítása védett természeti területen az Evt. alapján készített körzeti erdőtervben foglaltak szerint, az adott erdőre vonatkozóan abban rögzített erdőgazdálkodási jogok és kötelezettségek módosítása nélkül, hivatalból történik, és az adott erdőgazdálkodási jogok és kötelezettségekhez kapcsolódóan a védett természeti területek természetvédelmi kezeléséért felelős szerv az Evt. 41. § (9) bekezdése szerinti bejelentéssel nem élt, akkor az eljárást lefolytató hatóság mellőzheti a kijelölt szakhatóság megkeresését.
+
 (4) A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló első fokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
-(5)[^57] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
+(5)[^58] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló eljárásban,
 
@@ -108,4 +110,5 @@ ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes k
 
 [^55]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 43. §-a szerint módosított szöveg.
 [^56]: A 32. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^57]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg.
+[^57]: A 32. § (3a) bekezdését a 402/2012. (XII. 28.) Korm. rendelet 17. §-a iktatta be.
+[^58]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg.
