@@ -1,3 +1,0 @@
-## 17. § Az 53/2004. ESZCSM rendelet 9. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A nagykereskedő a raktárból kiszállított termékről felszabadítási, illetve minőségi bizonylatot köteles biztosítani a megrendelő részére. Szállításkor mellékelni kell egy olyan dokumentumot is, amely tartalmazza a kiszállítás időpontját, a gyógyszer nevét és gyógyszerformáját, gyártási számát, lejárati idejét, a kiszállított mennyiséget, továbbá a nagykereskedő nevét és címét. A kiszállított gyógyszer gyűjtőcsomagolását oly módon kell ellátni a nagykereskedő cégjelzésével, hogy a gyógyszer származási helye azonosítható maradjon.”

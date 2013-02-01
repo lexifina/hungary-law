@@ -1,3 +1,0 @@
-## 27. § A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet (a továbbiakban: 41/2007. EüM rendelet) „A KÖZFORGALMÚ, FIÓK- ÉS KÉZIGYÓGYSZERTÁR MŰKÖDÉSÉHEZ SZÜKSÉGES KÖVETELMÉNYEK” címe a „Közforgalmú gyógyszertár” alcímet megelőzően a következő 2/A. §-sal egészül ki:
-
-## „2/A. § Az egyének egészségük iránti felelősségének erősítése és az egészséges életvitelhez szükséges tudás és készségek elsajátítása érdekében a gyógyszertár közreműködik a részben vagy egészben állami pénzügyi forrásból biztosított népegészségügyi tevékenységek megvalósításában.”
