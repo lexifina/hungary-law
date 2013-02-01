@@ -1,0 +1,1 @@
+## „2.1. – az 5. § (4) bekezdés kivételével – a kérelmező képviseletére vagy jegyzésére jogosult személy eredeti közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy közjegyző által hitelesített másolata, illetve az ezekkel egyenértékű, aláírás-mintaként szolgáló más közhiteles okmány;”

@@ -1,0 +1,3 @@
+## „a) a képviselője aláírási címpéldányát, kivéve, ha a központi képzőhely nem állami fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, mert ebben az esetben az Igazgatóság az iratot elektronikus úton, közvetlen lekérdezéssel szerzi meg,”
+
+## 3. A felvonók és a mozgólépcsők építésügyi hatósági engedélyezéséről, üzemeltetéséről, ellenőrzéséről és az ellenőrökről szóló 113/1998. (VI. 10.) Korm. rendelet módosítása
