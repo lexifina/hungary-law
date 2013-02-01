@@ -6,11 +6,16 @@
 
 2. § (1)[^2]
 
-(2)[^3]
+(2) Az R1. 12/A. § (3) bekezdése a következő d) ponttal egészül ki:
 
-(3)[^4]
+(A KEKKH kizárólagos illetékességi körében ellátja:)
+
+## „d) az elektronikus úton indított közlekedési igazgatási ügyekkel”
+
+## (kapcsolatos feladatokat.)
+
+(3)[^3]
 
 [^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 2. § (2) bekezdése a 24. § (2) bekezdése alapján 2013. február 1-jén lép hatályba.
-[^4]: A 2. § (3) bekezdés a 24. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^3]: A 2. § (3) bekezdés a 24. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.

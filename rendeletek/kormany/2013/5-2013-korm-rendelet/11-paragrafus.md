@@ -1,3 +1,3 @@
-## 8–10. §[^8]
+## 8–10. §[^6]
 
-[^8]: A 8–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

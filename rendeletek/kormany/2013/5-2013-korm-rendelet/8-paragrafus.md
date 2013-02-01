@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. §[^5]
 
-[^7]: A 7. § a 24. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^5]: A 7. § a 24. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
