@@ -20,10 +20,10 @@ szakhatóságként jelöli ki.
 
 (2) A szálláshely-üzemeltetési engedélyeztetési eljárásban – az egyéb szálláshely engedélyezése kivételével – külön vizsgálat nélkül ügyfélnek minősül a szálláshely, valamint a szálláshellyel közvetlenül szomszédos, a szálláshellyel közös határvonalú, telekhatárú ingatlan tulajdonosa, használója, kezelője, társasház esetén a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetén az elnök.
 
-(3)[^8]
+(3)[^8] A szálláshely engedélyezése iránti eljárásban az ügyintézési határidőbe a szakhatóság ügyintézési határideje beszámít.
 
 [^4]: A 7. § (1) bekezdés a) pont nyitó szövegrésze a 441/2012. (XII. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^5]: A 7. § (1) bekezdés a) pont aa) alpontja a 351/2010. (XII. 30.) Korm. rendelet 261. §-a, a 174/2012. (VII. 26.) Korm. rendelet 64. § a) pontja szerint módosított szöveg.
 [^6]: A 7. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 64. § b) pontja szerint módosított szöveg.
 [^7]: A 7. § (1) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 64. § c) pontja szerint módosított szöveg.
-[^8]: A 7. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 262. § (1) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja.
+[^8]: A 7. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 262. § (1) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja, újonnan a 402/2012. (XII. 28.) Korm. rendelet 13. §-a iktatta be.
