@@ -1,6 +1,6 @@
 58. § Hatályát veszti
 
-a)
+a) a Ket. 26. § (5) bekezdés c) pontja,
 
 b)
 
