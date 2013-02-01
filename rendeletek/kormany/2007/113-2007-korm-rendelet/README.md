@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-113-20-
 | 2011-08-25 | 2007-113-20-22.14 | 395/2007. (XII. 27.) Korm. rendelet |
 | 2012-01-01 | 2007-113-20-22.15 | 276/2011. (XII. 20.) Korm. rendelet |
 | 2013-01-01 | 2007-113-20-22.16 | 403/2012. (XII. 28.) Korm. rendelet |
+| 2013-02-01 | 2007-113-20-22.17 | 355/2012. (XII. 13.) Korm. rendelet |

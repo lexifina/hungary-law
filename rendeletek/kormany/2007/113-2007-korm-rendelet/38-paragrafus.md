@@ -8,9 +8,9 @@
 
 (3) A regionális igazgatóság az állandó tartózkodási kártya kiállítására irányuló eljárása során ellenőrzi a tartózkodás jogszerűségét, tartamát és folyamatosságát.
 
-(4)[^64] A harmadik ország állampolgárságával rendelkező családtag részére kiadott állandó tartózkodási kártyát a lakóhely szerint illetékes regionális igazgatóság tízévente a feltételek vizsgálata nélkül megújítja.
+(4)[^66] A harmadik ország állampolgárságával rendelkező családtag részére kiadott állandó tartózkodási kártyát a lakóhely szerint illetékes regionális igazgatóság tízévente a feltételek vizsgálata nélkül megújítja.
 
-(5)[^65] Az EGT-állampolgár részére kiadott állandó tartózkodási kártya – érvényes úti okmánnyal vagy személyi igazolvánnyal – határozatlan ideig érvényes.
+(5)[^67] Az EGT-állampolgár részére kiadott állandó tartózkodási kártya – érvényes úti okmánnyal vagy személyi igazolvánnyal – határozatlan ideig érvényes.
 
-[^64]: A 38. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^65]: A 38. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^66]: A 38. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^67]: A 38. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
