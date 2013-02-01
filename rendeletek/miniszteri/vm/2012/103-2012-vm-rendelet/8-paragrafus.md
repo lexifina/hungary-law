@@ -1,6 +1,6 @@
 ## 7. A kifizetési kérelem benyújtása
 
-8. § (1) A kifizetési kérelmet az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül lehet benyújtani az MVH-hoz.
+8. § (1)[^4]
 
 (2) A kifizetési kérelemnek a következőket kell tartalmaznia:
 
@@ -21,3 +21,5 @@ g) a megvalósult fejlesztésre vonatkozó adatok, valamint
 h) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudomásulvételéről.
 
 (3) A 4. célterület esetében az utolsó kifizetési kérelem benyújtásának feltétele, hogy az önkormányzat kihirdesse az építészeti örökség helyi védelmének szakmai szabályairól szóló 66/1999. (VIII. 13.) FVM rendelet szerinti önkormányzati rendeletet.
+
+[^4]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés q) pontja hatályon kívül helyezte.
