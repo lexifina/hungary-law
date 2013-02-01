@@ -16,7 +16,7 @@ e) a légijárművek típusát, lajstromjelét, amelyre a kérelmező az üzembe
 
 (3) A kérelemhez csatolni kell:
 
-a) a cégkivonatot vagy a vállalkozói igazolványt, illetve a nem gazdasági társaságként működő személyeknél a tevékenység végzésének jogszerűségét bizonyító okirat hiteles másolati példányát,
+a)[^2] a nem gazdasági társaságként működő személyeknél a tevékenység végzésének jogszerűségét bizonyító okirat hiteles másolati példányát, és – a (4) bekezdésben foglaltak kivételével – az aláírásra jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldányát,
 
 b) ha az üzemben tartó nem a légijármű tulajdonosa, a tulajdonos hozzájárulását az üzemben tartáshoz, valamint az üzemben tartás jogcímét,
 
@@ -29,3 +29,8 @@ e) a karbantartási szerződést, amennyiben az üzemben tartó a karbantartást
 f) a minőségbiztosítási kézikönyvet, ha az üzemben tartás légiszállítás céljából történik,
 
 g) a légijármű érvényes felelősségbiztosításáról kiadott igazolást.
+
+(4)[^3] Ha a kérelmező cégjegyzékben nyilvántartott cég, a légiközlekedési hatóság a cégkivonatot, valamint – ha a kérelmező a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza – az iratot, a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+[^2]: A 4. § (3) bekezdés a) pontja a 3/2013. (I. 29.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (4) bekezdését a 3/2013. (I. 29.) NFM rendelet 4. § (2) bekezdése iktatta be.

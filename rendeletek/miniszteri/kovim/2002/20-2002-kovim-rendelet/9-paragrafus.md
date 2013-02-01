@@ -12,7 +12,7 @@ d) gondoskodni a légijármű gyártója által meghatározott üzemeltetési fe
 
 e) gondoskodni a légijármű gyártója által előírt karbantartások végrehajtásáról,
 
-f) gondoskodni azokról az eszközökről, amelyek biztosítják a légijármű biztonságos földi kiszolgálását,[^3]
+f) gondoskodni azokról az eszközökről, amelyek biztosítják a légijármű biztonságos földi kiszolgálását,[^5]
 
 g) gondoskodni a szakszemélyzet képzettségének szinten tartásáról,
 
@@ -22,4 +22,4 @@ i) fenntartani olyan kiszolgáló létesítményeket a bázishelyén, amelyek me
 
 j) minden légijárműhöz – a hatóság által kiadott – Fedélzeti Műszaki Naplót vezetni, és azt a légijármű fedélzetén tartani. A Fedélzeti Műszaki Naplónak tartalmaznia kell a szerelő műszaki jellegű észrevételeit és a légijármű vezető által – a repülés során észlelt – összes információt, valamint a 3. §-ban meghatározott üzemben tartási engedélyt.
 
-[^3]: 7/2002. (I. 28.) KöViM rendelet a földi kiszolgálás feltételeiről és engedélyezésének rendjéről.
+[^5]: 7/2002. (I. 28.) KöViM rendelet a földi kiszolgálás feltételeiről és engedélyezésének rendjéről.

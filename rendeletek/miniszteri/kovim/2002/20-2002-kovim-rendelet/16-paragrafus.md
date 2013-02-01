@@ -3518,7 +3518,7 @@ a) Az üzembentartó csak abban az esetben üzemeltethet légcsavaros gázturbin
 
 Ezen követelmények a) (1) és (2) pontok nem vonatkoznak azokra a repülőgépekre, amelyek maximális jóváhagyott felszálló tömege 5700 kg, vagy ennél kevesebb, s a maximális engedélyezett utasülés szám 9-nél több, valamint az üzembehelyezése önálló Légialkalmassági Bizonyítvánnyal történt egy JAA tagállamban, vagy bármely egyéb országban 1972. április 1. előtt és 1995. április 1-jén már lajstromjellel rendelkezett egy JAA tagállamban.
 
-JAR-OPS 1.665[^8] – Földfelszín megközelítésére figyelmeztető rendszer
+JAR-OPS 1.665[^10] – Földfelszín megközelítésére figyelmeztető rendszer
 
 a) Az 5700 kg-nál nagyobb jóváhagyott maximális felszálló tömegű, vagy 9-nél több engedélyezett utasüléssel rendelkező, gázturbinás hajtóművel felszerelt repülőgépeknek rendelkezniük kell a földfelszín megközelítésére figyelmeztető rendszerrel.
 
@@ -4094,7 +4094,7 @@ a) Az üzembentartó csak abban az esetben üzemeltetheti azokat az utasszállí
 
 b) 1998. április 1. után az üzembentartó csak abban az esetben üzemeltetheti éjszaka azokat az utasszállító repülőgépeket, amelyekben az utasülések maximális engedélyezett száma 9, vagy ennél kevesebb, ha biztosítottak a fedélzet általános megvilágításának forrásai, ezáltal segítve a repülőgép kiürítését. Ezen rendszer magában foglalhatja a mennyezeti lámpákat, illetve a megvilágítás forrásaként a repülőgépben már kiépített egyéb egységeket, amelyek üzemképesek maradnak (világítanak) a repülőgép akkumulátorának kikapcsolását követően is.
 
-JAR-OPS 1.820[^9] – Automatikus vészhelyzeti rádiójeladó (lásd IEM OPS 1.820)
+JAR-OPS 1.820[^11] – Automatikus vészhelyzeti rádiójeladó (lásd IEM OPS 1.820)
 
 a) Az olyan repülőgépnek, melyet egyedi Légialkalmassági Bizonyítvánnyal 2002. január 1-jén vagy ezen dátumot követően helyeztek üzembe, rendelkeznie kell egy automatikus Vészhelyzeti rádiójeladóval (ELT), amely alkalmas sugárzásra 121,5 MHz-en és 406– 406,1 MHz frekvenciasávon.
 
@@ -5078,15 +5078,5 @@ b) A fenti a) pont szempontjából egy repülőgép típus változatait különb
 
 (1) Vészkijárat működtetése,
 
-(2) A biztonsági berendezések elhelyezése és típusai,
-
-(3) Vészhelyzet eljárások.
-
-JAR-OPS 1.1035 – Oktatási okmányok (lásd IEM OPS 1.1035)
-
-a) Az üzembentartónak gondoskodnia kell a következőkről:
-
-(1) Biztosítsa a JAR-OPS 1.1005, 1.1010. 1.1015, 1.1020 és 1.1025 pontokban előírt oktatások és ellenőrzések okmányainak fenntartását;
-
-[^8]: A melléklet I. Része K) Fejezetének 1.665 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének a) pontjával megállapított szöveg.
-[^9]: A melléklet I. Része K) Fejezetének 1.820 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének b) pontjával megállapított szöveg.
+[^10]: A melléklet I. Része K) Fejezetének 1.665 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének a) pontjával megállapított szöveg.
+[^11]: A melléklet I. Része K) Fejezetének 1.820 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének b) pontjával megállapított szöveg.
