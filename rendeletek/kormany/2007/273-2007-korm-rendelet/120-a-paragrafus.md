@@ -1,4 +1,4 @@
-120/A. §[^307] (1) Az elosztó az üzletszabályzat részét képező hálózathasználati szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a VET 176. § (3) bekezdésében meghatározott hálózathasználati szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
+120/A. §[^310] (1) Az elosztó az üzletszabályzat részét képező hálózathasználati szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a VET 176. § (3) bekezdésében meghatározott hálózathasználati szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
 
 a) azt, hogy az írásbeli hálózathasználati szerződéssel nem rendelkező felhasználókkal 2014. december 31-ig írásbeli hálózathasználati szerződést kell kötni,
 
@@ -26,4 +26,4 @@ szerződés kötésére ajánlatot tenni.
 
 (7) Az elosztó biztosítja, hogy az írásbeli hálózathasználati szerződéssel rendelkező felhasználók aránya a felhasználók összlétszámához képest 2012. december 31-ig eléri a 40%-ot, 2013. december 31-ig a 80%-ot.
 
-[^307]: A Vhr. 120/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 28. §-a iktatta be.
+[^310]: A Vhr. 120/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 28. §-a iktatta be.

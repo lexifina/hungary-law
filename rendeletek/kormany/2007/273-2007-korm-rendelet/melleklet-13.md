@@ -1,4 +1,4 @@
-13. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^349]
+13. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^353]
 
 Magánvezeték létesítése, bővítése és megszüntetése iránti engedély kérelemhez benyújtandó dokumentumok
 
@@ -28,4 +28,4 @@ II. Magánvezeték bővítése iránti engedélykérelemhez az I. pont szerinti 
 
 III. Magánvezeték megszüntetése iránti engedélykérelemhez az e rendelet 76. § (2) bekezdésében foglaltak teljesülését igazoló dokumentumok kell benyújtani.
 
-[^349]: A Vhr. 13. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.
+[^353]: A Vhr. 13. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.
