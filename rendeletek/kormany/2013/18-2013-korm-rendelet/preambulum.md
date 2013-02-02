@@ -1,5 +1,0 @@
-A Kormány a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 11. pontjában, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés d) pontjában,
-
-a 11. § tekintetében a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 23. pontjában
-
-kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
