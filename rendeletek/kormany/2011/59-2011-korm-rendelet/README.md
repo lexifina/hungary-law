@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-59-20-2
 | 2012-04-28 | 2011-59-20-22.4 | 92/2012. (IV. 27.) Korm. rendelet |
 | 2012-07-01 | 2011-59-20-22.5 | 137/2012. (VI. 29.) Korm. rendelet |
 | 2013-01-01 | 2011-59-20-22.6 | 447/2012. (XII. 29.) Korm. rendelet |
+| 2013-02-02 | 2011-59-20-22.7 | 22/2013. (II. 1.) Korm. rendelet |
