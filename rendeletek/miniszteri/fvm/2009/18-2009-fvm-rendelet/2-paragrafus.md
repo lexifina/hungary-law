@@ -10,7 +10,10 @@
 
 5. KR dokumentum: az adatszolgáltatás adatait és beadásának idejét tartalmazó elektronikus dokumentum, amelyet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) az ügyfélkapu értesítési tárhelyén keresztül küld meg az adatszolgáltatást teljesítő személy számára;
 
-6.[^3] technikai közreműködő: a megyei Kormányhivatal mezőgazdasági szakigazgatási szervének munkatársa, megyei kormányhivatal járási hivatala járási állat-egészségügyi és élelmiszer-ellenőrző hivatal falugazdász munkatársa, a Magyar Agrárkamara agrárkamarai tanácsadója vagy a Területi Szaktanácsadási Központokkal munkavégzésre irányuló jogviszonyban álló, a szaktanácsadói tevékenység engedélyezéséről szóló 90/2009. (VII. 24.) FVM rendelet szerinti engedéllyel rendelkező szaktanácsadó, vagy a LEADER HACS-csal, valamint ÚMVP Képző Szervezettel munkavégzésre irányuló jogviszonyban álló, az ügyfelek részére az adatszolgáltatási kötelezettség teljesítése kapcsán kizárólag technikai segítséget nyújtó személy.
+6.[^3] technikai közreműködő: a megyei Kormányhivatal mezőgazdasági szakigazgatási szervének munkatársa, megyei kormányhivatal járási hivatala járási állat-egészségügyi és élelmiszer-ellenőrző hivatal falugazdász munkatársa, a Magyar Agrárkamara agrárkamarai tanácsadója vagy a Területi Szaktanácsadási Központokkal munkavégzésre irányuló jogviszonyban álló, a szaktanácsadói tevékenység engedélyezéséről szóló 90/2009. (VII. 24.) FVM rendelet szerinti engedéllyel rendelkező szaktanácsadó, vagy a LEADER HACS-csal, valamint ÚMVP Képző Szervezettel munkavégzésre irányuló jogviszonyban álló, az ügyfelek részére az adatszolgáltatási kötelezettség teljesítése kapcsán kizárólag technikai segítséget nyújtó személy;
+
+7.[^4] ügyfél: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó támogatások tekintetében támogatási szerződéssel vagy jogerős támogatási határozattal rendelkező személy vagy szervezet.
 
 [^2]: A 2. § a 3/2012. (I. 31.) VM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § 6. ponja a 151/2012. (XII. 29.) VM rendelet 31. §-a szerint módosított szöveg.
+[^4]: A 2. § 7. pontját a 2/2013. (II. 1.) VM rendelet 1. §-a iktatta be.

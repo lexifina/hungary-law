@@ -1,4 +1,4 @@
-3/A. §[^11] (1) Az adatszolgáltatás elektronikus úton történő teljesítésekor a technikai közreműködő kizárólag az ügyfél helyett és nevében járhat el. A technikai közreműködő igénybevételét az erre rendszeresített nyomtatványon az MVH-nak be kell jelenteni. A bejelentésről szóló nyomtatványt az adatszolgáltatás teljesítésével egyidejűleg kell – elektronikusan, valamint postai úton, vagy személyesen – az MVH-nak benyújtani, valamint papíralapon, az ügyfél és a technikai közreműködő által aláírt formában is meg kell őrizni. Bejelentés hiányában a technikai közreműködő eljárása érvénytelen.
+3/A. §[^15] (1) Az adatszolgáltatás elektronikus úton történő teljesítésekor a technikai közreműködő kizárólag az ügyfél helyett és nevében járhat el. A technikai közreműködő igénybevételét az erre rendszeresített nyomtatványon az MVH-nak be kell jelenteni. A bejelentésről szóló nyomtatványt az adatszolgáltatás teljesítésével egyidejűleg kell – elektronikusan, valamint postai úton, vagy személyesen – az MVH-nak benyújtani, valamint papíralapon, az ügyfél és a technikai közreműködő által aláírt formában is meg kell őrizni. Bejelentés hiányában a technikai közreműködő eljárása érvénytelen.
 
 (2) A technikai közreműködő útján történő adatszolgáltatás tényét dokumentálni kell. A dokumentálás módja, a benyújtott és az elektronikus felületen KR dokumentumként elérhető adatszolgáltatás két példányban történő kinyomtatása és a kinyomtatott dokumentumok adatokat lezáró utolsó oldalának az ügyfél és a technikai közreműködő általi aláírása, valamint a többi oldal mindkét fél általi szignálása. Az ügyfél egy általa aláírt nyilatkozatban is elismerheti, hogy a feltöltött KR dokumentum adattartalmát ismeri és azzal egyetért. A kinyomtatott dokumentum vagy nyilatkozat egy példányát a technikai közreműködést ellátó szervezet, másik példányát az ügyfél köteles megőrizni és azt az MVH felhívására a technikai közreműködést ellátó szervezet vagy az ügyfél köteles bemutatni.
 
@@ -6,4 +6,4 @@
 
 (4) Az (1) bekezdésben foglaltak alapján a technikai közreműködők részére a korábbi években adott meghatalmazásokat az MVH egységesen, lejárt meghatalmazásként kezeli.
 
-[^11]: A 3/A. §-t a 3/2012. (I. 31.) VM rendelet 4. §-a iktatta be.
+[^15]: A 3/A. §-t a 3/2012. (I. 31.) VM rendelet 4. §-a iktatta be.
