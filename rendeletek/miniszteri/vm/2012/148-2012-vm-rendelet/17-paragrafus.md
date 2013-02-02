@@ -1,5 +1,0 @@
-## 16. § Az Inyvhr. 113/C. §-a helyébe a következő rendelkezés lép:
-
-## „113/C. § (1) A közigazgatási szervek kivételével a jogi személyeknek és jogi személyiség nélküli szervezeteknek a kérelemhez csatolniuk kell a keletkezésüket tanúsító, illetőleg konstituáló bejegyzési határozat eredeti vagy közjegyző által hitelesített példányát, vagy a regisztráló hatóság (cégbíróság, törvényszék) által vezetett közhiteles nyilvántartás tartalmáról kiállított hiteles másolatot, vagy a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározottak szerint kiállított közjegyzői tanúsítványt, amely 30 napnál nem lehet régebbi.
-
-## (2) Ha a kérelmező a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a FÖMI – az (1) bekezdésben foglaltaktól eltérően – a képviselet igazolására szolgáló iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.”
