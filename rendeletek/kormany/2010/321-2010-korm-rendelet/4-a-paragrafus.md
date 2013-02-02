@@ -1,0 +1,9 @@
+4/A. §[^9] (1) A veszélyes folyadékok vagy olvadékok tárolótartályainak és tároló létesítményeinek műszaki biztonsági követelményeiről és hatósági felügyeletéről szóló rendeletben a tárolótartályok és berendezéseik gyártására, helyszíni technológiai szerelésére, javítására, átalakítására, tisztítására, időszakos ellenőrző vizsgálatára (tömörségének ellenőrzésére) való alkalmasság követelményeinek teljesítését a műszaki biztonsági hatóság által kijelölt tanúsító szervezetek igazolják.
+
+(2) A kijelölést kérelmező szervezet kijelölés iránti kérelmét a műszaki biztonsági hatósághoz nyújtja be. A kérelmezővel szemben támasztott, a tevékenységhez kapcsolódó személyi, szakmai és tárgyi feltételeket a 2. melléklet tartalmazza.
+
+(3) A kijelölésről a műszaki biztonsági hatóság engedélyt ad ki, amely a megadásának napjától számított három évig hatályos. A műszaki biztonsági hatóság évente legalább egy alkalommal ellenőrzi, hogy a tanúsító szervezet teljesíti-e az e rendeletben foglalt követelményeket, és amennyiben nem felel meg ezeknek a követelményeknek a Ket. 94. §-a szerinti eljárás eredménytelen lefolytatását követően a műszaki biztonsági hatóság az engedélyt visszavonja és törli a tanúsító szervezetet a (4) bekezdés szerinti nyilvántartásból.
+
+(4) A műszaki biztonsági hatóság a tanúsító szervezetet nyilvántartásba veszi. A műszaki biztonsági hatóság a nyilvántartásba vett tanúsító szervezetek jegyzékét a műszaki biztonsági hatóság elektronikus tájékoztató oldalán félévenként közzéteszi. A műszaki biztonsági hatóság a tanúsító szervezet megnevezésén, székhelyének címén, a kijelölési okirat számán, valamint a nyilvántartásba vételének időpontján és időbeli hatályán kívül csak olyan adatokat tehet közzé, amelyek közzétételéhez a szervezet előzetesen hozzájárult.
+
+[^9]: A 4/A. §-t a 7/2013. (I. 18.) Korm. rendelet 6. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.

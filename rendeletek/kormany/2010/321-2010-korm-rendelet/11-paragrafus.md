@@ -1,29 +1,29 @@
-## 11. § Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+## 11. §[^19] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
 
-a) az e rendelet hatálya alá tartozó műszaki biztonsági hatósági tevékenység ellátásához szükséges képesítési követelményeket,
+a) a nyomástartó berendezésre, nyomástartó létesítményre,
 
-b) a rendkívüli események bejelentésének és vizsgálatának részletes szabályait,
+b) a szállítható nyomástartó berendezésre,
 
-c) a Hivatal műszaki biztonsági hatósági felügyelete alá tartozó
+c) az a) és b) pontban említett nyomástartó berendezés töltésére szolgáló berendezésre, valamint az egyedi sűrített földgáztöltő berendezésre,
 
-ca) nyomástartó berendezések, rendszerek,
+d) az éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú gáztárolók és üzemi berendezésre,
 
-cb) szállítható nyomástartó berendezések, beleértve azokat a berendezéseket is, amelyeknek megfelelőség újraértékelése nem történt meg,
+e) a gázüzemű közúti jármű, munkagép és nem közúti gép üzemanyag-ellátó berendezéseire,
 
-cc) a ca)–cb) pontban említett nyomástartó berendezések töltésére szolgáló berendezések,
+f) a veszélyes áruk szállítására használt nem nyomástartó tartályra, tartányra, csomagolóeszközre, kivéve az ezek szállítására vonatkozó szállítóeszközre,
 
-cd) a veszélyes folyadékok és olvadékok – nyomástartó berendezésnek nem minősülő – tárolótartályai és tárolólétesítményei, valamint azok működéséhez szükséges technológiai, biztonsági berendezések, csővezetékek, szerelvények, tartozékok, beleértve az üzemi üzemanyagtöltő állomások,
+g) a veszélyes folyadékok és olvadékok – nyomástartó berendezésnek nem minősülő – tárolótartályaira és tároló létesítményeire, valamint azok működéséhez szükséges technológiai, biztonsági berendezésre, csővezetékre, szerelvényre, tartozékra,
 
-ce) a gázüzemű közúti járművek, munkagépek és nem közúti gépek üzemanyag-ellátó berendezései, és az egyedi sűrített földgáztöltő berendezések,
+h) ipari, mezőgazdasági vagy szolgáltatási célú hőfejlesztő-hőhasznosítóra, gáz- és olajfogyasztó technológiára, létesítményre,
 
-cf) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, csomagolóeszközök, kivéve az ezek szállítására szolgáló szállítóeszközök,
+i) az a), d), g) és h) pont alá nem tartozó, ipari, mezőgazdasági vagy szolgáltatási célú, megújuló energiaforrást átalakítóra, biogázt, biodízelt előállító vagy tároló berendezésre, létesítmény létesítésének, üzembe helyezésének és üzemeltetésének műszaki biztonsági követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági hatósági engedélyek kiadásának rendjére valamint az üzemeltetéshez kapcsolódó tevékenységekre jogosító engedélyek kiadásának rendjére, a műszaki biztonsági dokumentáció tartalmára, az engedélyesekről vezetett nyilvántartás vezetésére vonatkozó szabályokra, továbbá az engedélyesekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
 
-cg) gázpalackból turista gázpalackba átfejtő berendezések
+j) a hegesztett szerkezet helyszíni gyártásánál, szerelésénél, átalakításánál, javításánál ömlesztőhegesztést végzők nyilvántartásba vételének feltételeire és a tevékenység folytatásának részletes szabályaira, a nyilvántartásba vétel rendjére, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, és a nyilvántartás vezetésére, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
 
-üzemeltetőire vonatkozó kötelezettségeket, a hatósági engedélyek megszerzésének módját, valamint a hatósági ellenőrzések tartalmát, időszakát,
+k) a tartályok, tároló létesítmények és berendezéseik gyártására és a tartályokhoz kapcsolódó helyszíni technológiai szerelésére, a tartályok javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos vizsgálatát végző gazdálkodó szervezetek nyilvántartásba vételének feltételeire és a tevékenység folytatásának részletes szabályaira, a nyilvántartásba vétel rendjére, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, és a nyilvántartás vezetésére, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
 
-d) hegesztett szerkezet szerelésénél, átalakításánál, javításánál az ömlesztőhegesztés és az ezzel összefüggő egyéb engedélyköteles tevékenységek körét, az e tevékenységekre jogosító engedély feltételeit és a tevékenység folytatásának részletes szabályait, az engedély kiadásának rendjét, valamint az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+l) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékére, valamint a díjak fizetésére
 
-e) kazánok és a hozzá tartozó berendezések, továbbá a hatósági felügyelet alá tartozó egyéb nyomástartó berendezések vegyi kezelésére jogosító engedély feltételeit és a tevékenység folytatásának részletes szabályait, az engedély kiadásának rendjét, valamint az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket
+vonatkozó részletes szabályokat rendeletben szabályozza.
 
-rendeletben szabályozza.
+[^19]: A 11. § a 7/2013. (I. 18.) Korm. rendelet 6. § (18) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
