@@ -1,25 +1,19 @@
-30/B. §[^244] (1) A bányafelügyelet piacfelügyeleti hatósági feladatainak ellátása érdekében
+30/B. §[^246] (1)[^247] A bányafelügyelet piacfelügyeleti hatósági feladatainak ellátása érdekében tájékoztatást kérhet a gyártótól.
 
-a) tájékoztatást kérhet a gyártótól,
+(2)[^248] Ha a bányafelügyelet piacfelügyeleti hatósági eljárása során megállapítja, hogy a termék a biztonságossági követelményeknek nem felel meg, a termékek piacfelügyeletéről szóló törvényben meghatározottakon kívül jogosult a termék műszaki-biztonsági szempontból történő használhatatlanná tételét vagy megsemmisítését elrendelni.
 
-b)–c)[^245]
+(3)[^249] Ha a bányafelügyelet megállapítja, hogy a terméken a CE megfelelőségi jelölést nem, vagy megalapozatlanul tüntették fel, a jogsértés megszüntetése érdekében döntésében felszólítja az üzemeltetőt, a gyártót, a forgalmazót, illetve a gyártó magyarországi székhelyű meghatalmazott képviselőjét (a továbbiakban együtt: gazdasági szereplő), hogy a hiányosságokat az előírásoknak megfelelően orvosolja. Ha a gyártó nem a hatóság határozatának megfelelően jár el, vagy a termék az előírásoknak nem felel meg, a bányafelügyelet korlátozhatja, vagy megtilthatja a termék forgalomba hozatalát, létesítését, üzembe helyezését és használatát. Súlyos veszély esetén elrendelheti a terméknek a forgalomból történő kivonását.
 
-(2) Ha a bányafelügyelet piacfelügyeleti hatósági eljárása során megállapítja, hogy a termék a biztonságossági követelményeknek nem felel meg, jogosult:
+(4)[^250] Az e § és a 30/A. § szerinti fogalmakat a termékek piacfelügyeletéről szóló törvény szerint kell értelmezni.
 
-a) széles körű tájékoztatást elrendelni úgy, hogy a termék használatából vagy üzemeltetéséből származó veszélyről az érintettek időben és megfelelő módon – szükség esetén a tömegtájékoztatás eszközeinek igénybevételével – értesüljenek,
+(5)[^251]
 
-b) a termék használhatatlanná tételét vagy megsemmisítését elrendelni.
+(6)[^252]
 
-(3) Ha a bányafelügyelet piacfelügyeleti hatósági eljárása során megállapítja, hogy a termék állapota, elhelyezése nem felel meg az engedélyekben vagy a külön jogszabályokban foglalt követelményeknek, a termék használatát megtiltja.
-
-(4)[^246] Ha a bányafelügyelet megállapítja, hogy a terméken a megfelelőségi jelölést nem, vagy megalapozatlanul tüntették fel, a jogsértés megszüntetése érdekében felszólítja az üzemeltetőt, a gyártót, a forgalmazót, illetőleg a gyártó magyarországi meghatalmazottját (a továbbiakban együtt: gyártó), hogy a hiányosságokat az előírásoknak megfelelően orvosolja. Ha a gyártó nem a hatóság határozatának megfelelően jár el, vagy a termék az előírásoknak nem felel meg, a bányafelügyelet korlátozhatja, vagy megtilthatja a termék forgalomba hozatalát, létesítését, üzembe helyezését és használatát. Közvetlen és súlyos veszély esetén elrendelheti a terméknek a forgalomból történő kivonását.
-
-(5)[^247] A bányafelügyelet piacfelügyeleti hatáskörében bírsággal sújthatja a Bt. 44. §-a (1) bekezdése szerinti tevékenységet folytató természetes vagy jogi személyt, valamint ezek jogi személyiség nélküli társaságát, aki (amely) tevékenysége során a termék, berendezés, rendszer műszaki-biztonsági megfelelőségére vonatkozó külön jogszabályban, valamint hatósági határozatban foglaltaktól jogosulatlanul eltér, így különösen, ha engedély nélkül vagy az engedélyben foglaltaktól eltérően használ engedélyhez kötött vagy nem tanúsított gépet, berendezést, munkaeszközt.
-
-(6)[^248] Az (5) bekezdés szerinti bírság összegének felső határa 10 000 000 Ft. A bírságot az azt megállapító jogerős és végrehajtható határozatban előírt határidőn belül az MBFH-nak a Magyar Államkincstárnál vezetett számlájára kell befizetni.
-
-[^244]: A Vhr. 30/B. §-át a 282/2003. (XII. 29.) Korm. rendelet 22. §-a iktatta a szövegbe.
-[^245]: A Vhr. 30/B. § (1) bekezdésének b)–c) pontját a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^246]: A Vhr. 30/B. §-ának (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^247]: A Vhr. 30/B. §-ának (5) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^248]: A Vhr. 30/B. § (6) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 146/2012. (VII. 5.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^246]: A Vhr. 30/B. §-át a 282/2003. (XII. 29.) Korm. rendelet 22. §-a iktatta a szövegbe.
+[^247]: A Vhr. 30/B. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^248]: A Vhr. 30/B. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^249]: A Vhr. 30/B. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^250]: A Vhr. 30/B. § (4) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^251]: A Vhr. 30/B. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^252]: A Vhr. 30/B. § (6) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
