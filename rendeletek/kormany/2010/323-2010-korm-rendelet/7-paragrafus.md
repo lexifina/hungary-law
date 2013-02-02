@@ -20,7 +20,7 @@ d) a gazdálkodás részletes rendjének meghatározása.
 
 (6)[^18] Az OTH ellátja az alapító okiratában, illetve jogszabályokban számára meghatározott feladatokat
 
-a) a közegészségügy (környezet- és település-egészségügy – ideértve a gyógyfürdőügyet is –, élelmezés-egészségügy, táplálkozás-egészségügy, sugáregészségügy, kémiai biztonság, gyermek- és ifjúságügy) területén,
+a)[^19] a közegészségügy (környezet- és település-egészségügy – ideértve a gyógyfürdőügyet is –, élelmezés- egészségügy, táplálkozás-egészségügy, sugáregészségügy, kozmetikai termékek egészségügyi megfelelősége, kémiai biztonság, gyermek-és ifjúságügy) területén,
 
 b) a járványügy (fertőzőjárvány-ügy) területén,
 
@@ -28,8 +28,9 @@ c) az egészségfejlesztés (egészségvédelem, egészségnevelés és egészs�
 
 d) az egészségügyi, gyógyszerügyi igazgatás és koordináció területén.
 
-(7)[^19] Az OTH jár el a megyei népegészségügyi szakigazgatási szerv vagy a járási népegészségügyi intézet hatáskörébe tartozó azon, az egészségügyi igazgatás körébe tartozó ügyekben, amelyekben minősített adat kerül felhasználásra.
+(7)[^20] Az OTH jár el a megyei népegészségügyi szakigazgatási szerv vagy a járási népegészségügyi intézet hatáskörébe tartozó azon, az egészségügyi igazgatás körébe tartozó ügyekben, amelyekben minősített adat kerül felhasználásra.
 
 [^17]: A 7. § (4) bekezdését az 59/2011. (IV. 12.) Korm. rendelet 22. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 61. §-a iktatta be.
 [^18]: A 7. § (6) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
-[^19]: A 7. § (7) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 59. §-a iktatta be.
+[^19]: A 7. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^20]: A 7. § (7) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 59. §-a iktatta be.

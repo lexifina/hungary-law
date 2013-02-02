@@ -12,13 +12,13 @@ b) 140/E. § (5) bekezdésének b) pontja szerinti feladatok ellátása során e
 
 (4) Egészségügyi államigazgatási szervként a Kormány az Eüak.
 
-a)[^69] 15. § (1)–(2) és (7) bekezdésének alkalmazásában az érintett lakóhelye, tartózkodási helye, illetve munkahelye szerint illetékes járási népegészségügyi intézetet,
+a)[^71] 15. § (1)–(2) és (7) bekezdésének alkalmazásában az érintett lakóhelye, tartózkodási helye, illetve munkahelye szerint illetékes járási népegészségügyi intézetet,
 
-b)[^70]
+b)[^72]
 
 ## jelöli ki.
 
-(5)[^71] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási népegészségügyi intézetet jelöli ki a Kbtv.
+(5)[^73] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási népegészségügyi intézetet jelöli ki a Kbtv.
 
 a) 29. § (1) bekezdésének,
 
@@ -32,6 +32,6 @@ b) 32. § (1) bekezdés a) pontjának
 
 (8) A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter külön jogszabály szerint, a Szolgálat és a megyei népegészségügyi szakigazgatási szerv útján látja el.
 
-[^69]: A 22. § (4) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^70]: A 22. § (4) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 62. §-a hatályon kívül helyezte.
-[^71]: A 22. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^71]: A 22. § (4) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^72]: A 22. § (4) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 62. §-a hatályon kívül helyezte.
+[^73]: A 22. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés e) pontja szerint módosított szöveg.

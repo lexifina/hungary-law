@@ -8,23 +8,23 @@
 
 ## 1.3. a Csongrád Megyei Népegészségügyi Szakigazgatási Szerv Bács-Kiskun, Békés és Csongrád megyére,
 
-## 1.4.[^94] a Tolna Megyei Népegészségügyi Szakigazgatási Szerv Baranya, Somogy és Tolna megyére, továbbá az Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat (a továbbiakban: ERMAH) környezeti sugár-egészségügyi laboratóriumai feladatokat Fejér megyére,
+## 1.4.[^96] a Tolna Megyei Népegészségügyi Szakigazgatási Szerv Baranya, Somogy és Tolna megyére, továbbá az Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat (a továbbiakban: ERMAH) környezeti sugár-egészségügyi laboratóriumai feladatokat Fejér megyére,
 
-## 1.5.[^95] a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv – kivéve az ERMAH vonatkozásában a külön jogszabályban meghatározott feladatokat – Fejér, Komárom-Esztergom és Veszprém megyére,
+## 1.5.[^97] a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv – kivéve az ERMAH vonatkozásában a külön jogszabályban meghatározott feladatokat – Fejér, Komárom-Esztergom és Veszprém megyére,
 
-## 1.6.[^96] a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugár-egészségügyi laboratóriumai feladatokat Komárom-Esztergom és Veszprém megyére
+## 1.6.[^98] a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugár-egészségügyi laboratóriumai feladatokat Komárom-Esztergom és Veszprém megyére
 
 ## kiterjedő illetékességgel látja el.
 
-## 2–8.[^97]
+## 2–8.[^99]
 
-## 9.[^98]
+## 9.[^100]
 
-3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^99]
+3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^101]
 
-[^94]: A 2. melléklet 1.4. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
-[^95]: A 2. melléklet 1.5. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
-[^96]: A 2. melléklet 1.6. pontja a 13/2012. (II. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^97]: A 2. melléklet 2–8. pontját a 137/2012. (VI. 29.) Korm. rendelet 68. §-a hatályon kívül helyezte.
-[^98]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be, hatályon kívül helyezte a 63/2012. (IV. 2.) Korm. rendelet m) pontja.
-[^99]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^96]: A 2. melléklet 1.4. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
+[^97]: A 2. melléklet 1.5. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
+[^98]: A 2. melléklet 1.6. pontja a 13/2012. (II. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^99]: A 2. melléklet 2–8. pontját a 137/2012. (VI. 29.) Korm. rendelet 68. §-a hatályon kívül helyezte.
+[^100]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be, hatályon kívül helyezte a 63/2012. (IV. 2.) Korm. rendelet m) pontja.
+[^101]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 47. §-ával megállapított, a 22/2013. (II. 1.) Korm. rendelet 5. §-a szerint módosított szöveg.

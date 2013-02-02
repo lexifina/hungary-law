@@ -2,13 +2,13 @@
 
 10. § (1) A megyei népegészségügyi szakigazgatási szerv
 
-a)[^26] ellátja az illetékességi területén működő járási népegészségügyi intézetek szakmai tevékenységének irányítását, koordinálását,
+a)[^27] ellátja az illetékességi területén működő járási népegészségügyi intézetek szakmai tevékenységének irányítását, koordinálását,
 
 b) jogszabályban meghatározott ügyekben első fokú hatósági jogkört gyakorol,
 
 c) ellátja a fővárosi és megyei kormányhivatal alapító okiratában, illetve jogszabályokban számára meghatározott feladatokat
 
-ca)[^27] a közegészségügy (környezet- és település-egészségügy, élelmezés-egészségügy, táplálkozás-egészségügy, sugáregészségügy, kémiai biztonság, gyermek- és ifjúságügy) területén, mely feladatok ellátásához vizsgálólaboratóriumot üzemeltethet,
+ca)[^28] a közegészségügy (környezet- és település-egészségügy, élelmezés-egészségügy, táplálkozás-egészségügy, sugáregészségügy, kozmetikai termékek egészségügyi megfelelősége, kémiai biztonság, gyermek-és ifjúságügy) területén, mely feladatok ellátásához vizsgálólaboratóriumot üzemeltethet,
 
 cb) a járványügy (fertőzőjárvány-ügy) területén, mely feladatok ellátásához vizsgálólaboratóriumot üzemeltethet,
 
@@ -20,8 +20,8 @@ d) ellátja a jogszabályban a feladatkörébe utalt szakfelügyeleti feladatoka
 
 (2) A megyei népegészségügyi szakigazgatási szerv részt vesz a lakosság egészségének megőrzését célzó népegészségügyi programok kidolgozásában, irányítja, szervezi és koordinálja a programok végrehajtását.
 
-(3)[^28] A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
+(3)[^29] A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
 
-[^26]: A 10. § (1) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^27]: A 10. § (1) bekezdés c) pont ca) alpontja a 73/2011. (IV. 29.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^28]: A 10. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^27]: A 10. § (1) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^28]: A 10. § (1) bekezdés c) pont ca) alpontja a 7/2013. (I. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^29]: A 10. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
