@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-225-20-
 | 2012-09-08 | 2007-225-20-22.12 | 214/2008. (VIII. 29.) Korm. rendelet |
 | 2012-11-03 | 2007-225-20-22.13 | 306/2012. (X. 29.) Korm. rendelet |
 | 2012-12-18 | 2007-225-20-22.14 | 306/2012. (X. 29.) Korm. rendelet |
+| 2013-02-02 | 2007-225-20-22.15 | 7/2013. (I. 18.) Korm. rendelet |
