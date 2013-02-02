@@ -1,3 +1,1 @@
-## 12. §[^6]
-
-[^6]: A 12. § a 15. § (2) bekezdése alapján 2013. február 2-án lép hatályba.
+## 12. § A Fönyr. 6. § (3) és (4) bekezdésében a „jogi személy vagy jogi személyiség nélküli szervezet” szövegrész helyébe a „gazdálkodó szervezet” szöveg lép.
