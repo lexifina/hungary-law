@@ -18,13 +18,13 @@ g)[^7] javaslatot tesz a munkaügyi központok és a kirendeltségek informatika
 
 h) ellátja a Nemzeti Foglalkoztatási Szolgálat munkatársainak humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
 
-i) ellátja a munkaügyi központok hatósági ellenőrzési feladatainak szakmai felügyeletét,
+i)[^8] ellátja a munkaügyi központok hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az NFA működtetéséért felelős területi egységek szakmai és pénzügyszakmai tevékenységének ellenőrzését,
 
 j) hatósági jogkört gyakorol, amelynek keretében
 
 ja) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről szóló nemzetközi szerződések végrehajtásával kapcsolatos feladatokat,
 
-jb)[^8] elbírálja a munkaügyi központok által hozott határozatok ellen benyújtott fellebbezéseket,
+jb)[^9] elbírálja a munkaügyi központok által hozott határozatok ellen benyújtott fellebbezéseket,
 
 k) adatokat gyűjt és elemez
 
@@ -68,9 +68,9 @@ r) ellátja a jogszabályok által meghatározott nyilvántartások vezetéséve
 
 s) munkaügyi kutatásokat kezdeményez és végez, valamint
 
-t)[^9] koordinálja a munkaügyi központok és kirendeltségek EU-támogatással megvalósuló tevékenységeit,
+t)[^10] koordinálja a munkaügyi központok és kirendeltségek EU-támogatással megvalósuló tevékenységeit,
 
-u)[^10] koordinálja a munkaügyi központok és kirendeltségek megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
+u)[^11] koordinálja a munkaügyi központok és kirendeltségek megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
 
 (2) A Hivatal a munkaügyi kapcsolatok feladatkörében
 
@@ -101,6 +101,7 @@ d) egyéb szervezetekkel.
 [^5]: A 6. § (1) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (4) bekezdésével megállapított szöveg.
 [^6]: A 6. § (1) bekezdés f) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
 [^7]: A 6. § (1) bekezdés g) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
-[^8]: A 6. § (1) bekezdés j) pont jb) alpontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (6) bekezdésével megállapított szöveg.
-[^9]: A 6. § (1) bekezdés t) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
-[^10]: A 6. § (1) bekezdés u) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
+[^8]: A 6. § (1) bekezdés i) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § (1) bekezdés j) pont jb) alpontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (6) bekezdésével megállapított szöveg.
+[^10]: A 6. § (1) bekezdés t) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
+[^11]: A 6. § (1) bekezdés u) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.

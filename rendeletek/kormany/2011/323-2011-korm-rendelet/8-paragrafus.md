@@ -1,4 +1,4 @@
-8. §[^12] (1) A munkaügyi központ
+8. §[^13] (1) A munkaügyi központ
 
 a) szakmailag irányítja és szakmailag ellenőrzi a kirendeltségek tevékenységét, ennek keretében közreműködik a munkatársak szakmai képzésében, valamint szakmai ajánlások készítésével segíti a hatósági és szolgáltató tevékenységet,
 
@@ -28,6 +28,8 @@ m) elkészíti a munkaügyi központ és a kirendeltség belső szakmai szabály
 
 n) illetékességi területén ellátja a munkaerő-piaci ellenőrzéssel kapcsolatos feladatokat.
 
+(1a)[^14] A munkaügyi központ fővárosi szervezete nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket.
+
 (2) A hatósági szerződések megkötése, módosítása és megszüntetése, továbbá a költségvetésből nyújtott támogatás biztosítékául szolgáló zálogjog, bankgarancia, óvadék tekintetében a munkaügyi központ vezetője szerződéskötési képességgel rendelkezik.
 
 (3) A munkaügyi központ a közfoglalkoztatási feladatok ellátása során:
@@ -56,8 +58,10 @@ f) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
 
 (6) A munkaügyi központ a szolgáltatási feladatok ellátásának keretében
 
-a) gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét,
+a)[^15] gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét, munkaerő-piaci szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
 
 b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem a kirendeltség lát el.
 
-[^12]: A 8. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (9) bekezdésével megállapított szöveg.
+[^13]: A 8. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (9) bekezdésével megállapított szöveg.
+[^14]: A 8. § (1a) bekezdését a 7/2013. (I. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 8. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
