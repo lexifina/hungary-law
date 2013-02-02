@@ -22,7 +22,7 @@ c)[^17]
 
 ## a rendeletben foglalt előírások betartásáért a berendezés forgalombahozója vagy üzembehelyezője felel.
 
-(5)[^18] Az e rendeletben foglalt követelmények betartását a fogyasztóvédelmi hatóság és a Magyar Kereskedelmi Engedélyezési Hivatal kereskedelmi és piacfelügyeleti hatósága (a továbbiakban együtt: felügyelőség) ellenőrzi.
+(5)[^18] Az e rendeletben foglalt követelmények betartását a fogyasztóvédelmi hatóság és a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti és műszaki felügyeleti hatósága (a továbbiakban együtt: felügyelőség) ellenőrzi.
 
 (6)[^19] A megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló rendelet szerinti kijelölő hatóságként a Kormány a Magyar Kereskedelmi Engedélyezési Hivatalt jelöli ki.
 
@@ -35,5 +35,5 @@ c)[^17]
 [^15]: A 3. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 125/2006. (V. 19.) Korm. rendelet 3. § (1) bekezdése.
 [^16]: A 3. § (4) bekezdésének b) pontja a 125/2006. (V. 19.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^17]: A 3. § (4) bekezdésének c) pontját a 125/2006. (V. 19.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
-[^18]: A 3. § (5) bekezdését a 125/2006. (V. 19.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 234. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^18]: A 3. § (5) bekezdését a 125/2006. (V. 19.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 234. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 82. §-a, a 7/2013. (I. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^19]: A 3. § (6) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
