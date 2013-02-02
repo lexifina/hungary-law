@@ -30,13 +30,13 @@
 
 | Antimon | 5,0 | μg/l |  |
 
-| Arzén | 10 | μg/l | 2. megjegyzés |
+| Arzén | 10 | μg/l |  |
 
 | Benzol | 1,0 | μg/l |  |
 
 | Benz(a)pirén | 0,010 | μg/l |  |
 
-| Bór | 1,0 | mg/l | 3. megjegyzés |
+| Bór | 1,0 | mg/l |  |
 
 | Bromát | 10 | μg/l | 4. megjegyzés |
 
@@ -52,7 +52,7 @@
 
 | Epiklórhidrin | 0,10 | μg/l | 1. megjegyzés |
 
-| Fluorid | 1,5 | mg/l | 3. megjegyzés |
+| Fluorid | 1,5 | mg/l |  |
 
 | Ólom | 10 | μg/l | 5. megjegyzés |
 
@@ -62,7 +62,7 @@
 
 | Nitrát | 50 | mg/l | 6. megjegyzés |
 
-| Nitrit | 0,50 | mg/l | 3., 6. és 7. megjegyzés |
+| Nitrit | 0,50 | mg/l | 6. és 7. megjegyzés |
 
 | Peszticidek | 0,10 | μg/l | 8. és 9. megjegyzés |
 
@@ -88,11 +88,11 @@
 
 ## 1. A határérték a vízben várható maradék monomer koncentrációra vonatkozik, amely az adott, vízzel érintkező polimerből származó, maximális kioldódásból számolható. A vinil-kloridot a szolgáltatott vízben is mérni kell abban az esetben, ha 1,2-diklór-etilén (> 10 μg/l) van a vízben.
 
-## 2. Hatálybalépés a 10. § (3)–(5) bekezdésében foglaltak szerint. A 6. számú melléklet A) és B) részében felsorolt településeken a határérték betartásának biztosításáig az 1. számú melléklet F) részében foglalt ideiglenes határértéket kell alkalmazni.
+## 2.
 
-## 3. A 6. számú melléklet A) részében felsorolt településeken a határérték betartásának biztosításáig az 1. számú melléklet F) részében foglalt ideiglenes határértéket kell alkalmazni.
+## 3.
 
-## 4. Törekedni kell minél kisebb érték elérésére anélkül, hogy a fertőtlenítés biztonsága csökkenne. Csak ott kell mérni, ahol a vizet ózonnal kezelik. Hatálybalépés a 10. § (6) bekezdése szerint.
+## 4. Törekedni kell minél kisebb érték elérésére anélkül, hogy a fertőtlenítés biztonsága csökkenne. Csak ott kell mérni, ahol a vizet ózonnal kezelik.
 
 ## 5. A határérték a megfelelő mintavételi módszerrel – 1 L (egy liter) kifolyatás nélkül vett vízminta egy részének felhasználásával – a fogyasztói csapnál vett vízmintára vonatkozik és jellemző kell hogy legyen a fogyasztó szervezetébe jutó heti átlagos mennyiségre. Ahol kivitelezhető, az 5. § (6) bekezdésével összhangban megállapított egységes mintavételi és vizsgálati módszereket kell alkalmazni. Az illetékes népegészségügyi szakigazgatási szerv köteles figyelembe venni, hogy az előfordulási csúcsértékek okozhatnak káros egészségügyi hatást.
 

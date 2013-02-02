@@ -4,13 +4,9 @@
 
 (2)–(3)[^56]
 
-(4)[^57] A 6. számú mellékletben felsorolt településeken az arzén, bór, fluorid és nitrit 1. számú melléklet B) részében meghatározott határértékeit, valamint az ammónium 1. számú melléklet C) részében meghatározott határértékeit kell alkalmazni.
+(4)–(6)[^57]
 
-(5) A (3)–(4) bekezdésben foglaltak nem vonatkoznak az arzén 1. számú melléklet B) részében megjelölt határértékére, amennyiben a vizet élelmiszer előállítására használják fel.
-
-(6) A 4. § (1) bekezdésének a), b) és d) pontja szerinti víz esetében a bromát 1. számú melléklet B) részében meghatározott határértéke 2008. december 25-én lép hatályba.
-
-(7)[^58] A (4), (6) és (11) bekezdés szerinti vízminőségi jellemző alkalmazási kötelezettségének beálltáig az 1. számú melléklet F) részében foglalt ideiglenes határértéket kell alkalmazni.
+(7)[^58] A (11) bekezdés szerinti vízminőségi jellemző hatálybalépéséig az 1. számú melléklet F) részében foglalt ideiglenes határértéket kell alkalmazni.
 
 (8)[^59]
 
@@ -28,11 +24,11 @@
 
 (15)[^65] A 9. § (3) bekezdése alapján készített összefoglaló alapulvételével az Egészségügyi Minisztérium 3 évente jelentést küld az Európai Bizottságnak (a továbbiakban: Bizottság) az emberi fogyasztásra szánt ivóvíz minőségéről. Minden jelentésben szerepelnie kell legalább minden, az átlag napi 1000 m3-t meghaladó hozamú vagy 5000 főnél többet ellátó ivóvízellátó rendszernek. A jelentésnek három naptári évre kell kiterjednie, és a jelentési időszak végét követő naptári év végéig az OTH-nak kell közzétenni. A jelentést a közzétételtől számított két hónapon belül meg kell küldeni a Bizottságnak.
 
-(16)[^66] Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban összeegyeztethető szabályozást tartalmaz a Tanácsnak az emberi fogyasztásra szolgáló víz minőségéről szóló 98/83/EK irányelve rendelkezéseivel.
+(16)[^66] Ez a rendelet az emberi fogyasztásra szánt víz minőségéről szóló 1998. november 3-i 98/83/EK tanácsi irányelvnek való megfelelést szolgálja.
 
 [^56]: A 10. § (2)–(3) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
-[^57]: A 10. § (4) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg.
-[^58]: A 10. § (7) bekezdése a 288/2012. (X. 11.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^57]: A 10. § (4)–(6) bekezdését a 22/2013. (II. 1.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^58]: A 10. § (7) bekezdése a 22/2013. (II. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^59]: A 10. § (8) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
 [^60]: A 10. § (10) bekezdése a 47/2005. (III. 11.) Korm. rendelet 4. §-ával megállapított szöveg; azon ivóvizek tekintetében, amelyekre nem vonatkoznak ezek a technikai előírások lásd e módosító rendelet 7. §-át. A 10. § (10) bekezdése a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése szerint módosított szöveg.
 [^61]: A 10. § (11) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be.
@@ -40,4 +36,4 @@
 [^63]: A 10. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (4) bekezdése iktatta be.
 [^64]: A 10. § új (14) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be, egyidejűleg az eredeti (14) bekezdés számozását (16) bekezdésre változtatta.
 [^65]: A 10. § (15) bekezdését a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be. E módosító rendelet 9. § (12) bekezdése alapján a 10. § (15) bekezdésében szereplő jelentést 2009. április 1-jét követően első alkalommal a 2008–2010. időszakra vonatkozóan kell elkészíteni.
-[^66]: A 10. § eredeti (14) bekezdésének számozását a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése (16) bekezdésre változtatta.
+[^66]: A 10. § eredeti (14) bekezdésének számozását a 65/2009. (III. 31.) Korm. rendelet 7. § (5) bekezdése (16) bekezdésre változtatta, szövege a 22/2013. (II. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

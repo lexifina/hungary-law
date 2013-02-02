@@ -162,9 +162,5 @@
 
 6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^72]
 
-A szolgáltatott ivóvíz vonatkozásában nyilvántartott
-
-minőségi kifogással érintett települések listája
-
 [^71]: Az 5. számú melléklet 1.8 pontja a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése szerint módosított szöveg.
-[^72]: A 6. számú melléklet a 65/2009. (III. 31.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^72]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
