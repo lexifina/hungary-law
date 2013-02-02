@@ -18,9 +18,9 @@
 
 8. a 15. § (1) bekezdés m) pontjában az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló, 2005. december 20-i 2173/2005/EK tanácsi rendelet I. fejezet 2. cikk 8. pontjának, valamint az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló 2173/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes rendelkezések megállapításáról szóló, 2008. október 17-i 1024/2008/EK bizottsági rendelet I. fejezet 2. cikk 4. pontjának,
 
-9.[^26] a 14. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének,
+9.[^45] a 14. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének,
 
-10.[^27] a 15. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 29. cikk (1) bekezdésének, 39. cikkének
+10.[^46] a 15. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 29. cikk (1) bekezdésének, 39. cikkének
 
-[^26]: A 25. § 9. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.
-[^27]: A 25. § 10. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.
+[^45]: A 25. § 9. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.
+[^46]: A 25. § 10. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.

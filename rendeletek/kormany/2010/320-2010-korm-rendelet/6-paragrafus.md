@@ -8,14 +8,15 @@ a) eljár az áruk, szolgáltatások és anyagi értéket képviselő jogok orsz
 
 b) eljár a kettős felhasználású termékek export-, transzfer-, brókerügyleti és tranzitengedélyeivel kapcsolatos ügyekben, ellenőrzi e termékek Európai Unión kívüli harmadik országból Magyarországra történő behozatalát és kiadja a Nemzetközi Importigazolást, lefolytatja a nemzetközi kötelezettségekkel kapcsolatos konzultációkat, ellátja a nemzetközi egyezmények hazai végrehajtásából adódó feladatokat, továbbá eljár a nemzetközi kereskedelmi szankciókban elrendelt nem kettős felhasználású termékek exportengedélyezésével kapcsolatos ügyekben,
 
-c)[^2] eljár a haditechnikai eszközök és szolgáltatások kivitelével, behozatalával, transzferjével és tranzitjával összefüggő kereskedelmi tevékenységgel kapcsolatos közigazgatási hatósági ügyekben, valamint elvégzi a vállalkozások tanúsítását a nemzetközileg vállalt kötelezettségek betartásával, valamint a polgári lőfegyverek és lőszerek kiviteli, behozatali forgalmának és egyes közbiztonságra különösen veszélyes eszközök behozatali forgalmának engedélyezésével és ellenőrzésével kapcsolatos közigazgatási hatósági ügyekben.
+c)[^5] eljár a haditechnikai eszközök és szolgáltatások kivitelével, behozatalával, transzferjével és tranzitjával összefüggő kereskedelmi tevékenységgel kapcsolatos közigazgatási hatósági ügyekben, valamint elvégzi a vállalkozások tanúsítását a nemzetközileg vállalt kötelezettségek betartásával, valamint a polgári lőfegyverek és lőszerek kiviteli, behozatali forgalmának és egyes közbiztonságra különösen veszélyes eszközök behozatali forgalmának engedélyezésével és ellenőrzésével kapcsolatos közigazgatási hatósági ügyekben.
 
 (3) A Hivatal hadiipari gyártás- és szolgáltatásfelügyeleti hatóságként eljár a haditechnikai termékek gyártásának és szolgáltatás nyújtásának engedélyezésével és ellenőrzésével kapcsolatos közigazgatási hatósági ügyekben.
 
 (4) A (2) bekezdés b) és c) pontja, valamint a (3) bekezdés szerinti feladatok vonatkozásában országos illetékességgel első fokon a Hivatal haditechnikai és exportellenőrzési hatósága, másodfokon a Hivatal központi szerve jár el.
 
-(5) A (2) bekezdés a) pontja szerinti feladatok vonatkozásában országos illetékességgel első fokon a Hivatal kereskedelmi és piacfelügyeleti hatósága, másodfokon – amennyiben jogszabály másként nem rendelkezik – a Hivatal központi szerve jár el.
+(5)[^6] A (2) bekezdés a) pontja szerinti feladatok vonatkozásában országos illetékességgel első fokon a Hivatal kereskedelmi hatósága, másodfokon – amennyiben jogszabály másként nem rendelkezik – a Hivatal központi szerve jár el.
 
 (6) A Kormány a (2) és (3) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatalt jelöli ki.
 
-[^2]: A 6. § (2) bekezdés c) pontja a 160/2011. (VIII. 18.) Korm. rendelet 29. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (2) és (3) bekezdését.
+[^5]: A 6. § (2) bekezdés c) pontja a 160/2011. (VIII. 18.) Korm. rendelet 29. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (2) és (3) bekezdését.
+[^6]: A 6. § (5) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.

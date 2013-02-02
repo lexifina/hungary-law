@@ -2,48 +2,35 @@
 
 8. § (1) A Kormány – a (3) bekezdésben meghatározott körben – piacfelügyeleti hatóságként a Hivatalt jelöli ki.
 
-(2) Piacfelügyeleti eljárásban első fokon országos illetékességgel a Hivatal kereskedelmi és piacfelügyeleti hatósága, másodfokon a Hivatal központi szerve jár el.
+(2)[^10] Piacfelügyeleti eljárásban első fokon országos illetékességgel a Hivatal piacfelügyeleti és műszaki felügyeleti hatósága, másodfokon a Hivatal központi szerve jár el.
 
-(3) A piacfelügyeleti eljárás a külön jogszabály szerinti gazdasági célfelhasználásra szánt
+(3)[^11] A piacfelügyeleti eljárás a külön jogszabály szerinti egyes gazdasági célfelhasználásra szánt
 
-a) egyes nyomástartó berendezések és rendszerek biztonsági követelményeinek és megfelelőség tanúsításának,
+a) nyomástartó berendezések és rendszerek biztonsági követelményeinek és megfelelőség tanúsításának,
 
-b) szállítható nyomástartó berendezések biztonsági követelményeinek és megfelelőség tanúsításának,
+b) egyes szállítható nyomástartó berendezések biztonsági követelményeinek és megfelelőség tanúsításának,
 
-c) egyes gázfogyasztó készülékek, valamint folyékony üzemanyaggal működő melegvíz-kazánok tekintetében
+c) gázfogyasztó készülékek kialakításának és megfelelőség tanúsításának,
 
-ca) az egyes gázfogyasztó készülékek kialakításának és megfelelőség tanúsításának,
+d) villamossági termékek biztonsági követelményeinek és az azoknak való megfelelőség értékelésének,
 
-cb) a folyékony vagy gáznemű tüzelőanyaggal működő új melegvíz-kazánok hatásfok követelményeinek,
+e) gépek biztonsági követelményeinek és megfelelősége tanúsításának,
 
-d) egyes villamossági termékek tekintetében
+f) egyes potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek vizsgálatának és tanúsításának,
 
-da) a biztonsági követelményeinek és az azoknak való megfelelőség értékelésének,
+g) egyes az energiával kapcsolatos termékek
 
-db) az elektromágneses összeférhetőségének,
+ga) környezetbarát tervezési követelményeinek,
 
-dc) a tömszelence nélküli önálló keringetőszivattyúkra, illetve termékekbe beépített tömszelence nélküli keringetőszivattyúkra vonatkozó környezetbarát tervezési követelményeknek,
+gb) energia- és egyéb erőforrás-fogyasztásának címkézéssel és előírt termékismertetővel történő megadásának,
 
-dd) az elektromos motorok környezetbarát tervezésére vonatkozó követelményeknek,
+h) egyes kültéri berendezések zajkibocsátási követelményeinek és megfelelőségük tanúsításának,
 
-de) a beépített előtét nélküli fénycsövek, nagy intenzitású kisülőlámpák és az ilyen lámpák működtetésére alkalmas előtétek és lámpatestek környezetbarát tervezési követelményeinek,
-
-df) az egyszerű set-top boxokra vonatkozó környezetbarát tervezési követelményeknek,
-
-dg) az elektromos és elektronikus irodai berendezések készenléti és kikapcsolt üzemmódban fellépő elektromosáram-fogyasztására vonatkozó környezetbarát tervezési követelményeknek,
-
-dh) a külső tápegységek üresjáratú üzemmódban fellépő elektromosáram-fogyasztására és aktív üzemmódban mért átlagos hatékonyságára vonatkozó környezetbarát tervezési követelményeknek,
-
-di) a televízió-készülékekre vonatkozó környezetbarát tervezési követelmények,
-
-e) egyes gépek
-
-ea) biztonsági követelményeinek és megfelelősége tanúsításának,
-
-eb) kültéri berendezések zajkibocsátási követelményeinek és megfelelőségük tanúsításának,
-
-f) egyes potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek vizsgálatának és tanúsításának
+i) a kötelező hitelesítés körébe tartozó egyes mérőeszközök méréstechnikai követelményeinek és megfelelőség tanúsításának
 
 ## ellenőrzésére terjed ki.
 
 (4) A piacfelügyeleti eljárás a kötelező hitelesítés körébe tartozó egyes mérőeszközök forgalmazási követelményeknek való megfelelősége ellenőrzésére terjed ki.
+
+[^10]: A 8. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (13) bekezdése szerint módosított szöveg.
+[^11]: A 8. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

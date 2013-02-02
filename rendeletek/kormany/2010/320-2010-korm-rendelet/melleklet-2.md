@@ -86,4 +86,6 @@
 
 ## hitelesítésével kapcsolatos eljárások.
 
-2. melléklet a 320/2010. (XII. 27.) Korm. rendelethez
+2. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^48]
+
+[^48]: A 2. melléklet a 7/2013. (I. 18.) Korm. rendelet 5. § (14) bekezdésével megállapított szöveg.
