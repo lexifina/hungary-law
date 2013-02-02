@@ -1,5 +1,6 @@
-4. § (1)[^11]
+4. § (1)[^9]
 
-(2) A jogerősen kiszabott és be nem fizetett bírságot adók módjára kell behajtani.
+(2)[^10]
 
-[^11]: A 4. § (1) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 159. §-a hatályon kívül helyezte.
+[^9]: A 4. § (1) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 159. §-a hatályon kívül helyezte.
+[^10]: A 4. § (2) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
