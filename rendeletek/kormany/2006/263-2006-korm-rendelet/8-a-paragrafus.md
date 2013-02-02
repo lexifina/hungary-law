@@ -24,7 +24,7 @@ b) – a radioaktív anyag szállítása biztonsági feltételeinek, valamint an
 
 ## szakhatóságként jelöli ki.
 
-(5)[^138] A Kormány az ADR „B” Melléklet 9. rész 9.1 fejezete szerinti jármű-jóváhagyási eljárásban – a járműre szerelt felépítmény műszaki biztonsági szempontú megfelelőségének a megállapítása kérdésében – elsőfokú eljárásban a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságát, másodfokú eljárásban a Magyar Kereskedelmi Engedélyezési Hivatalt szakhatóságként jelöli ki.
+(5)[^138] A Kormány a 2011. évi LXXIX. törvénnyel kihirdetett, a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „B” Mellékletének 9. rész 9.1 fejezet szerinti jármű-jóváhagyási eljárásban – a járműre szerelt felépítmény műszaki biztonsági szempontú megfelelőségének a megállapítása kérdésében – a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságát szakhatóságként jelöli ki. A közlekedési hatóság mérlegelheti a szakhatóság megkeresését és maga dönthet a fenti szakkérdésben, amennyiben a Π jelöléssel ellátott tartányok esetében bejelentett szervezet által kiállított megfelelőségi tanúsítvány, a robbanóanyag szállító, előállító járművek esetében vizsgáló szervezet által kiállított jegyzőkönyv (értékelő lap), az egyéb tartányok esetében a műszaki biztonsági hatóság által kiadott gyártási típusjóváhagyás rendelkezésre áll.
 
 [^131]: A 8/A. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
 [^132]: A 8/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
@@ -33,4 +33,4 @@ b) – a radioaktív anyag szállítása biztonsági feltételeinek, valamint an
 [^135]: A 8/A. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^136]: A 8/A. § (2a) bekezdését a 82/2011. (V. 18.) Korm. rendelet 26. §-a iktatta be.
 [^137]: A 8/A. § (4) bekezdés a) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^138]: A 8/A. § (5) bekezdése a 323/2012. (XI. 16.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^138]: A 8/A. § (5) bekezdése a 7/2013. (I. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
