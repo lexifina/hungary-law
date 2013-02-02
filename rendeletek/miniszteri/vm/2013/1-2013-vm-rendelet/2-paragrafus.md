@@ -1,0 +1,3 @@
+## 1. § Az országos pálinka- és törkölypálinka-versenyről, valamint az érzékszervi bírálók képzéséről szóló 33/2010. (XI. 25.) VM rendelet (a továbbiakban: R.) 5. §-a helyébe a következő rendelkezés lép:
+
+## „5. § A verseny lebonyolítására irányuló pályázati felhívást a tárgyévet megelőző év április 30-ig hirdeti meg a PNT Titkársága. A verseny lebonyolítására irányuló pályázatot e rendelet alapján a tárgyévet megelőző év május 1. és július 31. között kell a PNT Titkárságra – két aláírt példányban, valamint elektronikus formában is – benyújtani. A benyújtás időpontja a PNT Titkársága által igazolt átvételi időpont. Postai úton történt kézbesítés esetén a benyújtás időpontja az ajánlott levélként történő postára adás dátuma.”
