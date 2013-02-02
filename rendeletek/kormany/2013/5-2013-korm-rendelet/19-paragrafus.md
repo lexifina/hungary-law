@@ -1,1 +1,3 @@
-## „(6) A jármű tulajdonosa vagy üzemben tartója a (2) bekezdés szerinti határidő lejárta előtt kérelmezheti a jármű ismételt forgalomba helyezését, amennyiben a jármű forgalomban tartásához szükséges, jogszabályban előírt feltételek fennállnak. Amennyiben az eljárásban megállapítást nyer, hogy a jármű ismételt forgalomban tartásához szükséges feltételek fennállnak, a közlekedési igazgatási hatóság a járműnyilvántartásba tett bejegyzés hatályát megszünteti, és erről a kérelmezőt értesíti. A jármű a megszüntetés nyilvántartásba való bejegyzésének napjától vehet részt a közúti forgalomban.”
+## 18. §[^19]
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
