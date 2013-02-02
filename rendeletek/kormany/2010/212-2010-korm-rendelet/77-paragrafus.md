@@ -34,9 +34,10 @@ p) együttműködik az érintett miniszterekkel a falusi és agroturizmussal kap
 
 q) irányítja a Magyar Kereskedelmi Engedélyezési Hivatalt és a Nemzeti Fogyasztóvédelmi Hatóságot,
 
-r) működteti a Fogyasztóvédelmi Tanácsot, a Piacfelügyeleti Tanácsot, a Regionális Idegenforgalmi Bizottságokat és a Nemzeti Turisztikai Bizottságot.
+r)[^302] működteti a Fogyasztóvédelmi Tanácsot, a Piacfelügyeleti Munkacsoportot, a Regionális Idegenforgalmi Bizottságokat és a Nemzeti Turisztikai Bizottságot.
 
 [^298]: A 77. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^299]: A 77. § b) pontja a 94/2012. (V. 11.) Korm. rendelet j) pontja szerint módosított szöveg.
 [^300]: A 77. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^301]: A 77. § i) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § p) pontja szerint módosított szöveg.
+[^302]: A 77. § r) pontja a 7/2013. (I. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
