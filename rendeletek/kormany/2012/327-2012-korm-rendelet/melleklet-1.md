@@ -1,4 +1,4 @@
-## 56–58. §[^10]
+## 56–58. §[^11]
 
 1. melléklet a 327/2012. (XI. 16.) Korm. rendelethez
 
@@ -62,4 +62,4 @@ d) Az a)–c) pontban meg nem jelölt, de ugyanazon szakterületeken az e mellé
 
 Megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatónál eltöltött, rehabilitációs tanácsadó esetén három év, rehabilitációs mentor esetén egy év szakmai gyakorlat.
 
-[^10]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
