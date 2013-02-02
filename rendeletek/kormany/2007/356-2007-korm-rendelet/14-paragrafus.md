@@ -1,4 +1,4 @@
-14. §[^26] (1) A termőföld használatának nyilvántartásból való törlésére
+14. §[^27] (1) A termőföld használatának nyilvántartásból való törlésére
 
 a) hivatalból, vagy
 
@@ -12,4 +12,4 @@ kerülhet sor.
 
 (4) Ha a használat felmondással vagy a felek közös megegyezésével szűnik meg, a földhasználó, vagy a használatba adó által benyújtott törlés-bejelentési adatlaphoz az írásbeli felmondást és annak elfogadásáról szóló nyilatkozatot vagy a közös megegyezést tartalmazó okiratot is mellékelni kell. A felmondást elfogadó nyilatkozat hiányában a törlés-bejelentési adatlaphoz mellékelni kell azt a jogerős bírói ítéletet, amely bizonyítja, hogy a szerződéses jogviszony jogszerűen került felmondásra, vagy a felmondás a szerződéses jogviszonyt megszüntette.
 
-[^26]: A 14. § a 429/2012. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^27]: A 14. § a 429/2012. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.

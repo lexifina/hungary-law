@@ -92,6 +92,6 @@
 
 ## 8. Az ügyintéző aláírása.
 
-4. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^56]
+4. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^57]
 
-[^56]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^57]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
