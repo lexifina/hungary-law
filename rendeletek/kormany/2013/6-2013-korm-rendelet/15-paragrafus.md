@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti az áruk és a szolgáltatások biztonságosságáról és az ezzel kapcsolatos piacfelügyeleti eljárásról szóló 79/1998. (IV. 29.) Korm. rendelet.
+## 14. §[^1]
 
 ## 13. Az Európai Unió jogának való megfelelés
 
@@ -13,3 +13,5 @@ b) a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 9
 c) az építési termékek fogalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 305/2011/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
