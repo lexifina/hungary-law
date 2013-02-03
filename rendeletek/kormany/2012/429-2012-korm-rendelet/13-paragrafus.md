@@ -1,1 +1,3 @@
-## 12. § A Fönyr. 6. § (3) és (4) bekezdésében a „jogi személy vagy jogi személyiség nélküli szervezet” szövegrész helyébe a „gazdálkodó szervezet” szöveg lép.
+## 12. §[^7]
+
+[^7]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

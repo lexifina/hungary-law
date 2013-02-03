@@ -1,3 +1,3 @@
-## 9–10. §[^4]
+## 9–10. §[^5]
 
-[^4]: A 9–10. § a 15. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^5]: A 9–10. § a 228/2013. (VI. 25.) Korm. rendelet 7. § (4) bekezdése alapján nem lép hatályba.
