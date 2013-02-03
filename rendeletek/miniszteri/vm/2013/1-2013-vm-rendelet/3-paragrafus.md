@@ -1,3 +1,0 @@
-## 2. § Az R. 6. §-a helyébe a következő rendelkezés lép:
-
-## „6. § A beérkezett pályázatokat, a pályázati határidő lezárultát követően a PNT 60 napon belül, az e rendeletben foglalt szakmai szempontok figyelembevételével rangsorolja és választja ki a nyertes pályázatot, amelyről írásban tájékoztatja a vidékfejlesztési minisztert (a továbbiakban: miniszter) és a pályázókat, valamint döntését közzéteszi saját honlapján is. Eredménytelen pályáztatás esetén a PNT – a miniszter egyidejű tájékoztatása mellett – a döntésétől számított 30 napon belül új pályázatot hirdet meg, amelynek benyújtási határideje a meghirdetéstől számított 30 nap.”
