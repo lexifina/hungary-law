@@ -1,0 +1,1 @@
+## „4/A. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 4/2013. (II. 4.) VM rendelettel [a továbbiakban: 4/2013. (II. 4.) VM rendelet] megállapított 2. § (4a) bekezdését a 4/2013. (II. 4.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

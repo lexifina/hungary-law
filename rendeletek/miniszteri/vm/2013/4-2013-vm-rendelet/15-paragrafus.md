@@ -1,0 +1,1 @@
+## 14. § A 139/2008. (X. 22.) FVM rendelet 2. § b) és c) pontjában, 3. § (1) bekezdés bevezető szövegében és a) pontjában, 4. § (5) bekezdésében, valamint 7. § (3) bekezdés a) pontjában az „1. számú mellékletben” szövegrész helyébe az „1. és 6. számú mellékletben” szöveg lép.

@@ -1,0 +1,3 @@
+## 21. § A zöldség-gyümölcs termelői csoportok támogatásáról szóló 24/2010. (III. 19.) FVM rendelet 13. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) E rendeletnek a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló 150/2012. (XII. 28.) VM rendelettel [a továbbiakban: 150/2012. (XII. 28.) VM rendelet] megállapított 9. § (5) bekezdését a 150/2012. (XII. 28.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell, a 150/2012. (XII. 28.) VM rendelettel hatályon kívül helyezett 7. § (2) bekezdését a 150/2012. (XII. 28.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban nem kell alkalmazni.”
