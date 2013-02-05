@@ -12,6 +12,8 @@
 
 (6)[^30] E rendeletnek az egyes, a zöldség-gyümölcs termelői csoportok és termelői szervezetek szabályozásáról és azok támogatásáról szóló miniszteri rendeletek módosításáról szóló 98/2012. (IX. 21.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 7. § (2) bekezdését a módosító rendelet hatálybalépésekor[^31] folyamatban lévő ügyekben is alkalmazni kell.
 
+(7)[^32] E rendeletnek a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló 150/2012. (XII. 28.) VM rendelettel [a továbbiakban: 150/2012. (XII. 28.) VM rendelet] megállapított 9. § (5) bekezdését a 150/2012. (XII. 28.) VM rendelet hatálybalépésekor[^33] folyamatban lévő eljárásokban is alkalmazni kell, a 150/2012. (XII. 28.) VM rendelettel hatályon kívül helyezett 7. § (2) bekezdését a 150/2012. (XII. 28.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban nem kell alkalmazni.
+
 [^20]: A 13. §-t a 12/2011. (II. 18.) VM rendelet 11. §-a iktatta be.
 [^21]: A hatálybalépés napja: 2011. február 19.
 [^22]: A hatálybalépés napja: 2011. február 19.
@@ -24,3 +26,5 @@
 [^29]: A hatálybalépés napja 2012. szeptember 29.
 [^30]: A 13. § (6) bekezdését a 98/2012. (IX. 21.) VM rendelet 2. § (7) bekezdése iktatta be.
 [^31]: A hatálybalépés napja 2012. szeptember 29.
+[^32]: A 13. § (7) bekezdését a 4/2013. (II. 4.) VM rendelet 21. §-a iktatta be.
+[^33]: A hatálybalépés időpontja 2013. január 1.

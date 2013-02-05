@@ -1,4 +1,4 @@
-1. melléklet a 24/2010. (III. 19.) FVM rendelethez[^32]
+1. melléklet a 24/2010. (III. 19.) FVM rendelethez[^34]
 
 ## A támogatási kérelem adattartalma és a csatolandó dokumentumok
 
@@ -38,4 +38,4 @@
 
 6.3. Az elszámolni kívánt beruházási számlák másolati példánya.
 
-[^32]: Az 1. melléklet a 12/2011. (II. 18.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 1. melléklet a 12/2011. (II. 18.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
