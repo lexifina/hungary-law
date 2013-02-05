@@ -28,6 +28,8 @@ a) az ügyfél gazdaságának üzemmérete a támogatási határozat jogerőre e
 
 b) az ügyfél az üzleti tervhez kapcsolódó kommunikációs tervben vállalt feladatok ütemezésének megfelelő teljesítését adott évre vonatkozóan elmulasztja, az ügyfél köteles a kifizetett támogatási összeg 2%-át visszafizetni.
 
+(9)[^33] A (6) bekezdésben foglaltaktól eltérően az ügyfél számára a támogatási összeg fennmaradó 10%-a kifizethető, ha az ügyfél gazdaságának üzemmérete a támogatási határozat kézhezvételétől számított ötödik év első kifizetési időszakában benyújtott és a 8. § (2) bekezdése szerinti összegre vonatkozó kifizetési kérelem alapján legfeljebb 10%-kal maradt el az üzleti tervben a 4. évre vállalt EUME mérettől, de nem csökkent a 3. § (2) bekezdés szerinti, a támogatási összeg alapját képező üzemméret-kategória alá.
+
 [^25]: A 9. § (1) bekezdése a 123/2011. (XII. 21.) VM rendelet 3. §-ával megállapított szöveg.
 [^26]: A 9. § (2) bekezdése a 138/2007. (XI. 17.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^27]: A 9. § (2) bekezdés a) pontja a 105/2008. (VIII. 14.) FVM rendelet 3. §-ával megállapított szöveg.
@@ -36,3 +38,4 @@ b) az ügyfél az üzleti tervhez kapcsolódó kommunikációs tervben vállalt 
 [^30]: A 9. § (6) bekezdését a 138/2007. (XI. 17.) FVM rendelet 6. § (2) bekezdése iktatta be.
 [^31]: A 9. § (7) bekezdését a 95/2009. (VII. 30.) FVM rendelet 4. § (3) bekezdése iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2007. december 3. és 2008. február 7. között benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^32]: A 9. § (8) bekezdését a 95/2009. (VII. 30.) FVM rendelet 4. § (3) bekezdése iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2007. december 3. és 2008. február 7. között benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^33]: A 9. § (9) bekezdését a 4/2013. (II. 4.) VM rendelet 18. §-a iktatta be.

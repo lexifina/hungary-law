@@ -1,6 +1,6 @@
-## 12. §[^33] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet módosításáról szóló 123/2011. (XII. 21.) VM rendelettel (a továbbiakban: 123/2011. (XII. 21.) VM rendelet megállapított 4. § (6)–(8) bekezdését, 8. § (2) bekezdését, 9. § (1) bekezdését és a 2. számú mellékletét a 123/2011. (XII. 21.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+## 13. §[^35] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 4/2013. (II. 4.) VM rendelet által megállapított 9. § (9) bekezdését a 2013. január 1-jétől benyújtott kifizetési kérelmekre kell alkalmazni.
 
-## Melléklet a 67/2007. (VII. 26.) FVM rendelethez[^34]
+## Melléklet a 67/2007. (VII. 26.) FVM rendelethez[^36]
 
 ## Értékelési szempontok
 
@@ -60,7 +60,7 @@
 
 | A vállalkozás társadalmi felelősségvállalása | (+) 5 |
 
-2. számú melléklet a 67/2007. (VII. 26.) FVM rendelethez[^35]
+2. számú melléklet a 67/2007. (VII. 26.) FVM rendelethez[^37]
 
 Közreműködő bevonására vonatkozó magánokirat adattartalma
 
@@ -72,6 +72,6 @@ Közreműködő bevonására vonatkozó magánokirat adattartalma
 
 4. a közreműködő bevonásának időtartama.
 
-[^33]: A 12. §-t a 123/2011. (XII. 21.) VM rendelet 4. §-ával megállapított szöveg.
-[^34]: A melléklet a 105/2008. (VIII. 14.) FVM rendelet 4. §-a szerint módosított szöveg.
-[^35]: A 2. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 5. §-a iktatta be.
+[^35]: A 13. §-t a 4/2013. (II. 4.) VM rendelet 19. §-a iktatta be.
+[^36]: A melléklet a 105/2008. (VIII. 14.) FVM rendelet 4. §-a szerint módosított szöveg.
+[^37]: A 2. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 5. §-a iktatta be.
