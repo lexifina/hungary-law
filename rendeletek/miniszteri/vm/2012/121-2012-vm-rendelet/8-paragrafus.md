@@ -1,6 +1,6 @@
 ## 4. A támogatási kérelem benyújtása
 
-8. § (1) A támogatási kérelmet 2012. december 17. és 2013. január 31. között lehet benyújtani az átadó gazdálkodó vagy a (2) bekezdés szerint választott képviselő lakóhelye szerint illetékes MVH megyei kirendeltségre, az MVH honlapján közleményben közzétett nyomtatványon.
+8. § (1)[^1] A támogatási kérelmet 2012. december 17. és 2013. február 15. között lehet benyújtani az átadó gazdálkodó vagy a (2) bekezdés szerint választott képviselő lakóhelye szerint illetékes MVH megyei kirendeltségre, az MVH honlapján közleményben közzétett nyomtatványon.
 
 (2) Egy támogatási kérelmet kell benyújtani akkor is, ha a gazdaságot több gazdálkodó adja át, vagy a támogatást az átadó gazdálkodó munkavállalója is kérelmezi. Ilyen esetekben a támogatási kérelmet a kérelmezők egymás közül választott képviselő útján nyújthatják be.
 
@@ -29,3 +29,5 @@ a) a 2. melléklet szerinti, az értékelési szempontokat alátámasztó okirat
 b) a 3. melléklet szerinti, a támogatási kérelemhez szükséges igazolásokat, okiratokat;
 
 c) a (2) bekezdés szerinti esetben a támogatás összegének felosztására vonatkozó rendelkezést tartalmazó megállapodást.
+
+[^1]: A 8. § (1) bekezdése a 4/2013. (II. 4.) VM rendelet 22. §-a szerint módosított szöveg.
