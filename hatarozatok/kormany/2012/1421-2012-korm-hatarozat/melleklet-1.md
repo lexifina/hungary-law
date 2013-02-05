@@ -6,7 +6,7 @@
 
 ## 4.[^1]
 
-1. melléklet az 1421/2012. (X. 4.) Korm. határozathoz
+1. melléklet az 1421/2012. (X. 4.) Korm. határozathoz[^2]
 
 |  | A | B | C | D | E | F | G |
 
@@ -24,7 +24,7 @@
 
 | 7 | 2.2.14. | A közigazgatási idegen szaknyelvi fejlesztési rendszer létrehozása | Állam- reform Operatív Program | 2009–2010. | NKE | 0,33 | A projekt keretében három nyelven (=angol, német és francia) elkészül egy olyan közigazgatási szaknyelvi e-learning alapú oktatócsomag, amely alkalmas a résztvevők KER B1-C2 (közép és felsőfok) közötti nyelvtudásának fejlesztésére, a nyelvi szintekhez illeszkedő közigazgatási szaknyelvi tartalom elsajátítására. |
 
-| 8 | 1.2.11. | Területfejlesztési, területi tervezési és szakmai koordinációs rendszer kialakítása | Állam- reform Operatív Program | 2011–2013. | Széchenyi Program- iroda | 1,27 | A konstrukció célja: a) a megyék területfejlesztési tevékenyégének kialakítása, kapacitásaik, képességeik megerősítése, b) a területi tervezés folyamatának, módszerének, szabályozásának újragondolása, c) a területi tervezés központi koordinációs rendszerének kialakítása, a területi és ágazati tervezés közti koordinációs rendszer megteremtése, d) a tervezést támogató egységes és a tervezésben résztevők számára elérhető információs rendszer kialakítása e) a területi tervezés partnerségi hálózatának megteremtése. Mindezzel együtt a megyék képessé váljanak arra, hogy elkészíthessék: f) megyei helyzetelemzésüket, g) a hosszú távú céljaikat tartalmazó megyei területfejlesztési koncepciójukat, h) az ezek megvalósítását célzó programdokumentumot, mely tartalmazná a legfontosabb projektötleteket is. |
+| 8 |  |  |  |  |  |  |  |
 
 | 9 | 2.2.17. | Új közszolgálati életpálya | Állam- reform Operatív Program | 2011–2013. | KIH | 1,00 | Az új életpálya révén csökkenhet a fluktuáció, valamint nőhet a közszolgálati pálya iránti érdeklődés és erősödik a különböző életpályák közötti átjárhatóság és kapcsolat. |
 
@@ -33,3 +33,4 @@
 | 11 | 2.2.20. | Kormányablakok munkatársainak képzése | Állam- reform Operatív Program | 2011–2013. | NKE | 1,60 | Kormányablakok munkatársainak képzése elnevezésű kiemelt projekt az országos szinten felálló kormányablaki hálózat munkatársai számára nyújt egységes színvonalú, az ügyfélszolgálati tevékenység ellátásához szükséges ismereteket és kompetenciákat átadó képzést. A projekt Kormányablakok kialakításának első szakaszában lebonyolított hasonló célú képzések tapasztalati költségadatain nyugszik. |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1046/2013. (II. 5.) Korm. határozat 4. pontja szerint módosított szöveg.
