@@ -1,10 +1,10 @@
-2/A. §[^11] (1) Az MVH az erdőgazdálkodó által elvégzett, támogatásban részesült tevékenységet a helyszínen, az év bármely szakában ellenőrizheti.
+2/A. §[^12] (1) Az MVH az erdőgazdálkodó által elvégzett, támogatásban részesült tevékenységet a helyszínen, az év bármely szakában ellenőrizheti.
 
-(2)[^12]
+(2)[^13]
 
-(3)[^13] Az MVH az (1) bekezdésben foglaltak teljesítését az erdészeti hatóság közreműködésével látja el.
+(3)[^14] Az MVH az (1) bekezdésben foglaltak teljesítését az erdészeti hatóság közreműködésével látja el.
 
-(4)[^14] Amennyiben az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 50. §-a alapján az erdőt törli az Országos Erdőállomány Adattárból, arról az MVH-t 15 napon belül tájékoztatja.
+(4)[^15] Amennyiben az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 50. §-a alapján az erdőt törli az Országos Erdőállomány Adattárból, arról az MVH-t 15 napon belül tájékoztatja.
 
 (5) Vis maior bejelentést az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet (a továbbiakban: vis maior rendelet) alapján az erdőterület fekvése szerint illetékes erdészeti hatósághoz kell benyújtani.
 
@@ -16,7 +16,7 @@
 
 (9) Az MVH a támogatási döntésről szóló határozat másolati példányát, egyidejűleg megküldi az erdőrészlet elhelyezkedése szerint illetékes erdészeti hatóság részére is.
 
-[^11]: A 2/A. §-t a 103/2008. (VIII. 8.) FVM rendelet 2. §-a iktatta be.
-[^12]: A 2/A. § (2) bekezdését a 40/2010. (XII. 17.) VM rendelet 13. §-a hatályon kívül helyezte.
-[^13]: A 2/A. § (3) bekezdése a 40/2010. (XII. 17.) VM rendelet 12. §-ával megállapított szöveg.
-[^14]: A 2/A. § (4) bekezdése a 11/2010. (VIII. 30.) VM rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^12]: A 2/A. §-t a 103/2008. (VIII. 8.) FVM rendelet 2. §-a iktatta be.
+[^13]: A 2/A. § (2) bekezdését a 40/2010. (XII. 17.) VM rendelet 13. §-a hatályon kívül helyezte.
+[^14]: A 2/A. § (3) bekezdése a 40/2010. (XII. 17.) VM rendelet 12. §-ával megállapított szöveg.
+[^15]: A 2/A. § (4) bekezdése a 11/2010. (VIII. 30.) VM rendelet 13. § (4) bekezdésével megállapított szöveg.
