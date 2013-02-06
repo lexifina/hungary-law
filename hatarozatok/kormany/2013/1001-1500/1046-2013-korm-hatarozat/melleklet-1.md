@@ -18,6 +18,8 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja az Államreform Operatív Program akcióterveiben szereplő egyes kiemelt projektek nevesítéséről szóló 1421/2012. (X. 4.) Korm. határozat 1. mellékletében foglalt táblázat 8. sorát.
+## 4.[^2]
 
 1. melléklet az 1046/2013. (II. 5.) Korm. határozathoz
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
