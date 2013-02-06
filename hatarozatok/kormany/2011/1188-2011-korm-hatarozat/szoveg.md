@@ -12,17 +12,19 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: önkormányzattal megkötött megállapodást követően azonnal
 
-3. felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen a 2. pont szerint megszerzett ingatlan és vagyonelemek tulajdoni hányadnak az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés a) pontja alapján az Emlékpont Központot működtető önkormányzatnak történő vagyonkezelésbe adása iránt;
+3.[^1] felhívja a nemzeti fejlesztési minisztert, hogy az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés a) pontja alapján intézkedjen a 2. pont szerint megszerzett ingatlan és vagyonelemek tulajdoni hányadának a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (13) bekezdés szerinti ingyenes vagyonkezelésbe vagy használatba adása iránt az Emlékpont Központot működtető önkormányzat részére;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: megszerzést követően azonnal
-
-4. felhívja a nemzeti erőforrás minisztert, hogy a közös üzemeltetés keretében biztosítson 25 millió forint összegű támogatási hozzájárulást az Emlékpont Központnak helyt adó ingatlan 2011. évi működési költségeire.
-
-Felelős: nemzeti erőforrás miniszter
-
 Határidő: azonnal
+
+4.[^2] felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy hozzák meg a szükséges intézkedéseket annak érdekében, hogy a közös üzemeltetés keretében évi 25 millió forint összegű támogatási hozzájárulás az Emlékpont Központnak helyt adó ingatlan működési költségeire 2030. évig biztosításra kerüljön.
+
+Felelős: emberi erőforrások minisztere
+
+nemzetgazdasági miniszter
+
+Határidő: a központi költségvetés tervezése során 2030-ig folyamatosan
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -111,3 +113,6 @@ Millió forintban, egy tizedessel
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni. |
+
+[^1]: A 3. pont az 1045/2013. (II. 5.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1045/2013. (II. 5.) Korm. határozat 4. pontjával megállapított szöveg.
