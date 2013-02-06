@@ -1,0 +1,7 @@
+## 13. § Az állam a tehetséggondozás fórumaként működő tudományos diákkörben végzett kiváló teljesítményt az Országos Tudományos Diákköri Konferencián (a továbbiakban: OTDK) kiosztott minősített helyezésekkel ismeri el. Az elismerés feltételeit az Országos Tudományos Diákköri Tanács (a továbbiakban: OTDT) határozza meg.
+
+14. § (1) A tudományos diákkör széles kört érintő, a hazai, illetve határon túli felsőoktatási intézményekben, azok karain, intézeteiben, tanszékein, műhelyeiben és az ezen szervezetekkel együttműködő kutatóintézetekben működő önképzőköri forma. A diákköri tevékenység alapja az oktatók és hallgatók közötti együttműködés, műhelymunka, szakmai kapcsolat, a minőségi értelmiségi képzés fontos területe.
+
+(2) A tudományos diákkör célja a kötelező tananyaggal kapcsolatos tudományos és művészeti ismeretek elmélyítése, bővítése, a tudományos igényű önképzés, a képzési követelményeket, a tantervi kötelezettséget meghaladó tudás elsajátítása, az alkotókészség kifejlesztése, a diáktudományos tevékenység feltételeinek biztosítása, a hallgatók bevonása a tudományos kutatásba, továbbá a diákköri munka során elért egyéni eredmények szakmai nyilvánosságának és megítélésének biztosítása, hasznosításának elősegítése.
+
+(3) A tudományos diákkörökben a hallgatók kutatómunkát folytatnak, amelynek eredményeit pályamunkában (pályaműben) összegzik. Az így létrehozott alkotásokat a felsőoktatási intézményekben, azok karain, intézményközi, országos és nemzetközi tudományos diákköri konferenciákon mutatják be.

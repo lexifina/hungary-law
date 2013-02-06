@@ -1,0 +1,1 @@
+## 17. § Az OTDT döntéseinek és operatív feladatainak végrehajtását az OTDT Titkársága bonyolítja le. Az OTDT Titkárságának működési feltételeit a miniszter biztosítja, vezetője az OTDT által választott titkár.
