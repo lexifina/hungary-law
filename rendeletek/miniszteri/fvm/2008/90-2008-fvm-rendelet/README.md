@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-90-20-8
 | --- | --- | --- |
 | 2009-10-16 | 2008-90-20-82.4 | 90/2008. (VII. 18.) FVM rendelet |
 | 2012-10-23 | 2008-90-20-82.5 | 109/2012. (X. 15.) VM rendelet |
+| 2013-02-06 | 2008-90-20-82.6 | 3/2013. (II. 1.) VM rendelet |

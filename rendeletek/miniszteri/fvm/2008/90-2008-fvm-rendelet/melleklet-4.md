@@ -110,6 +110,38 @@
 
 ## Az öntözővíz minőségét a 2. melléklet 2.6. pont 2–4. táblázatokban foglaltak szerint kell meghatározni.
 
+## 3.4.[^37] Szőlőtelepítést megalapozó egyszerűsített talajvédelmi terv
+
+## Ha jogszabály másként nem rendelkezik, 1500 m2-nél kisebb szőlő ültetvény telepítése esetén a következő szakmai tartalommal rendelkező talajvédelmi terv készítése szükséges.
+
+## A talaj tápanyag-ellátottságának és a telepítési kockázatának megállapításához 1-1 db átlagmintát kell venni a talaj 0–30 és 30–60 cm-es rétegeiből.
+
+## A talajminták laboratóriumi vizsgálata:
+
+## – a talaj tápanyag-tartalom vizsgálata: (pH(KCl), humusztartalom, KA, vízoldható összes só, CaCO3%, NO3+ NO2–N, P2O5, K2O, Na, Mg, SO4, Mn, Zn, Cu),
+
+## – szakmailag indokolt esetben: fenolftalein lúgosság, leiszapolható rész, kicserélődési savanyúság (y2),
+
+## – gyökérnemes szőlő esetében filoxérával szembeni immunitás vizsgálat (1 db 1 m-ig feltárt fúrt szelvény alapján).
+
+## Tartalmi követelmények:
+
+## A tervnek tartalmaznia kell
+
+## – a lejtőviszonyok és lejtőkategóriák megállapítását,
+
+## – a javasolt erózióvédelmi beavatkozásokat,
+
+## – a javaslat a forgatás maximális mélységére,
+
+## – 30 Magyar mészfok felett a mésztűrő alanyhasználat előírását,
+
+## – a környezetkimélő alaptrágyázásra vonatkozó javaslatot,
+
+## – gyökérnemes szőlő esetében a filoxérával szembeni immunitás megállapítását,
+
+## – a telepítés kockázatának mértékét a talajadottságok alapján (telepítési kockázatot jelentő talajtani paraméterek határértékeit az 1. táblázat tartalmazza).
+
 ## Függelék
 
 ## a 90/2008. (VII. 18.) FVM rendelet 2. és 3. mellékletéhez
@@ -376,7 +408,7 @@ Mintavételre alkalmas időpont még:
 
 A talajmintavétel eszközei: mintavétel végezhető kézi (fúrók, rétegfúrók) vagy gépi mintavevő eszközökkel. Az átlagmintát ajánlatos kb. 1 kg talaj befogadására alkalmas vízhatlan tasakban gyűjteni, melynek mérete lehetővé teszi, hogy saját anyagával kerüljön lezárásra. A mintákat mintaazonosító jeggyel kell ellátni, mely tartalmazza a gazdálkodó nevét, a vizsgálat célját, a mintavétel helyét, a tábla jelét, a minta azonosító jelét és a mintavétel mélységét.
 
-3.[^37] A humuszos talajréteg mentését megalapozó talajvédelmi terv elkészítéséhez szükséges talajmintavétel szabályai a következők:
+3.[^38] A humuszos talajréteg mentését megalapozó talajvédelmi terv elkészítéséhez szükséges talajmintavétel szabályai a következők:
 
 A humuszvagyon felmérését a más célú hasznosításra tervezett teljes termőföld területen el kell végezni. A humuszos talajréteg mélységének meghatározása fúrással történik. A fúrások helyét alapvetően előtanulmányok alapján, a terület talajtani adottságainak ismeretében kell kijelölni. Egy fúrással legfeljebb 5 ha jellemezhető, de heterogén terület esetén szükség lehet ennél sűrűbb feltárásra az eltérő talajfoltokon. Amennyiben a más célú hasznosításra tervezett termőföld terület 5 ha-nál kisebb, azt is csak homogén talajborítás esetén lehet egy fúrással jellemezni, egyébként talajfoltonként kell a fúrást elvégezni. A fúrásszelvényeket úgy kell elhelyezni, hogy a későbbiekben a humuszgazdálkodási tervrész elkészítéséhez megfelelő mennyiségű információ álljon rendelkezésre, mind a talaj humuszos rétegére, mind a humusztartalomra vonatkozóan.
 
@@ -388,4 +420,5 @@ Vonalas létesítmények esetén homogén talajadottságú területen legalább 
 [^34]: 50/2001. (IV. 3.) Korm. rendelet.
 [^35]: 27/2006. (II. 7.) Korm. rendelet.
 [^36]: A 3. melléklet 3.3. pontját a 109/2012. (X. 15.) VM rendelet 3. §-a iktatta be.
-[^37]: A 4. melléklet 3. pontját a 130/2009. (X. 8.) FVM rendelet 5. § (5) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
+[^37]: A 3. melléklet 3. pont 3.4. alpontját a 3/2013. (II. 1.) VM rendelet 3. § b) pontja iktatta be.
+[^38]: A 4. melléklet 3. pontját a 130/2009. (X. 8.) FVM rendelet 5. § (5) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.

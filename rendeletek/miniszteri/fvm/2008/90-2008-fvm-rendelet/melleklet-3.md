@@ -248,11 +248,11 @@
 
 ## 2.3. Ültetvénytelepítést megalapozó talajvédelmi terv
 
-## Ha jogszabály másként nem rendelkezik, 1500 m2-nél nagyobb szőlő- és gyümölcs, valamint 500 m2-nél nagyobb bogyós gyümölcsű ültetvény telepítése esetén a következő szakmai tartalommal rendelkező talajvédelmi terv készítése szükséges.
+## Ha jogszabály másként nem rendelkezik, 1500 m2-nél nagyobb szőlő- és gyümölcs, valamint 500 m2-nél nagyobb bogyós gyümölcsű ültetvény telepítése esetén talajvédelmi terv készítése szükséges, melynek a következő szakmai tartalommal kell rendelkeznie.
 
 ## Helyszíni talajmintavétel szabályai:
 
-## Talajfoltonként, de legalább 5 hektáros területegységenként 1 db 150 cm-es talajszelvény feltárása, genetikai szintenként vagy rétegenként mintavétel, talajvíz viszonyok megállapítása.
+## Talajfoltonként, de legalább 5 hektáros területegységenként 1 db 150 cm-es ásott talajszelvény feltárása, genetikai szintenként vagy rétegenként mintavétel, talajvíz viszonyok megállapítása.
 
 ## A talaj tápanyag-ellátottságának megállapításához 5 hektáronként, de parcellánként legalább 1 db átlagmintát kell venni szőlő- és gyümölcs-ültetvényeknél a 0–30 és 30–60 cm-es rétegből, bogyósoknál a 0–20 és 20– 40 cm-es talajrétegből.
 
@@ -294,19 +294,25 @@
 
 ## A tervnek tartalmaznia kell
 
-## – az adott kultúra telepítésre való alkalmasságát (az egyes állókultúrák telepítését kizáró talajtani paraméterek határértékeit az 1. táblázat tartalmazza),
+## – a lejtőviszonyok és lejtőkategóriák megállapítását,
 
-## – javaslatot a talajvédelmi beavatkozásokra és az alaptrágyázás mértékére, lehetőségeire, (szükség esetén javaslatot a talajjavítás elvégzésére),
+## – a javasolt erózióvédelmi beavatkozásokat,
 
-## – mélyforgatás maximális mélységét.
+## – a környezetkímélő alaptrágyázás mértékére, lehetőségeire, vonatkozó javaslatot,
+
+## – a mélyforgatás maximális mélységét,
+
+## – 30 Magyar mészfok felett a mésztűrő alanyhasználat előírását,
+
+## – gyökérnemes szőlő esetében a filoxérával szembeni immunitás megállapítását,
+
+## – az adott kultúra telepítési kockázatának mértékét a talajadottságok alapján (az egyes állókultúrák telepítési kockázatát jelentő talajtani paraméterek határértékeit az 1. táblázat tartalmazza),
 
 ## Mellékletként csatolni kell:
 
-## – alkalmas méretarányú térképvázlatot a telepítésre alkalmas területek lehatárolásával,
+## – alkalmas méretarányú térképvázlatot a telepítésre alkalmas területek lehatárolásával.
 
-## – a 2.1 pontban meghatározottak alapján indokolt esetben talajjavítási tervet.
-
-## Az állókultúrák telepítését kizáró talajtani paraméterek határértékei
+## Az állókultúrák telepítési kockázatot jelentő talajtani paraméterek határértékei
 
 ## 1 . táblázat
 
@@ -358,9 +364,9 @@
 
 | Szamóca | <50 | <70 | <80 | 100 | <10 >60 | <5,0 >8,0 | >0,15 | >0,05 | >15 | <0,5 |
 
-| Szőlő (oltvány) | <100 | <130 | <150 | <180 | <8 >80 | <5,5 >8, 8 | >0,15 | >0,06 | >30 X | <0,5 |
+| Szőlő (oltvány) | <100 | <130 | <150 | <180 | <8 >80 | <5,5 >8, 8 | >0,15 | >0,06** | >30 X | <0,5 |
 
-| Szőlő (saját gyökerű)* | <100 | <130 | <150 | <180 | <8 >80 | <5,5 >8, 8 | >0,15 | >0,06 | _ | <0,5 |
+| Szőlő (saját gyökerű)* | <100 | <130 | <150 | <180 | <8 >80 | <5,5 >8, 8 | >0,15 | >0,06** | _ | <0,5 |
 
 | Homoktövis | <80 | <100 | <120 | <140 | <8 >60 | <5,5 >8,8 | >0,15 | >0,04 | >20 | <0,5 |
 
@@ -371,6 +377,8 @@
 | Bodza | < 100 | < 120 | < 150 | < 160 | < 10 > 80 | < 5,0 > 8,7 | > 0,15 | > 0, 05 | > 30 | < 0,5 |
 
 ## * Ha az immunitási értékszám a forgatási mélység átlagában vagy ez alatt a minimális termőréteg vastagságon (1m) belül bármely szintben vagy rétegben kisebb, mint 75, saját gyökerű szőlő nem telepíthető.
+
+## „** Ha a talaj fiziológiás mésztartalma meghaladja a 20%-ot, a szódalúgosság kockázatos értéke 0,08%-ra növekszik.
 
 ## X Fiziológiás mész (Magyar mészfok)
 
@@ -562,7 +570,7 @@
 
 ## 2.6. Öntözési talajvédelmi terv
 
-## A terv készítése indokolt a külön jogszabály[^16] szerinti házi vízigényt meghaladó vízhasználat esetén.
+## A terv készítése indokolt a külön jogszabály[^18] szerinti házi vízigényt meghaladó vízhasználat esetén.
 
 ## Helyszíni talajmintavétel szabályai:
 
@@ -858,15 +866,15 @@
 
 ## Minden egyéb esetben 100 m védőtávolság figyelembevétele indokolt.
 
-## Hígtrágya felszín alatti vízbázisok területén, illetve a vízbázisok hidrogeológiai védőterületén külön jogszabály[^17] rendelkezései szerint használható fel. NATURA 2000 gyepterületen hígtrágya a külön jogszabály rendelkezése szerint nem juttatható ki.
+## Hígtrágya felszín alatti vízbázisok területén, illetve a vízbázisok hidrogeológiai védőterületén külön jogszabály[^19] rendelkezései szerint használható fel. NATURA 2000 gyepterületen hígtrágya a külön jogszabály rendelkezése szerint nem juttatható ki.
 
-## Legelő öntözése másik állattartó telepről származó hígtrágyával állategészségügyi okokból nem engedélyezett, kivéve, ha azt a külön jogszabályban[^18] foglaltak lehetővé teszik.
+## Legelő öntözése másik állattartó telepről származó hígtrágyával állategészségügyi okokból nem engedélyezett, kivéve, ha azt a külön jogszabályban[^20] foglaltak lehetővé teszik.
 
-## A terv elkészítésénél a felszíni, illetve a felszín alatti vizek nitrátszennyezéssel szembeni védelme érdekében a külön jogszabályokban[^19] meghatározottakat is figyelembe kell venni.
+## A terv elkészítésénél a felszíni, illetve a felszín alatti vizek nitrátszennyezéssel szembeni védelme érdekében a külön jogszabályokban[^21] meghatározottakat is figyelembe kell venni.
 
 ## A hígtrágya használatát korlátozó egyéb tényezők:
 
-## – a külön jogszabályban[^20] feltüntetett nitrátérzékeny területeken kívül a kijuttatott N mennyisége – talaj nitrogénszolgáltató képességét figyelembe véve – legfeljebb 200 kg/ha/év lehet.
+## – a külön jogszabályban[^22] feltüntetett nitrátérzékeny területeken kívül a kijuttatott N mennyisége – talaj nitrogénszolgáltató képességét figyelembe véve – legfeljebb 200 kg/ha/év lehet.
 
 ## – hígtrágyával kijuttatott kálium hatóanyag mennyisége nem lehet több, mint 250 kg/ha/év, a foszfor hatóanyag mennyisége pedig 150 kg/ha/év,
 
@@ -876,23 +884,27 @@
 
 ## = gyümölcsfák, szőlő csak felületi módszerrel öntözhető és betakarítás előtt 45 nappal az öntözést be kell fejezni,
 
-## = szántóföldi növények, rét, legelő öntözését a betakarítás – valamint a külön jogszabály[^21] szerint a legeltetés kezdete – előtt 30 nappal be kell fejezni,
+## = szántóföldi növények, rét, legelő öntözését a betakarítás – valamint a külön jogszabály[^23] szerint a legeltetés kezdete – előtt 30 nappal be kell fejezni,
 
 ## = fásított területek várakozási idő korlát nélkül öntözhetők.
 
 ## Helyszíni mintavétel szabályai:
 
-## Talajszelvényt kell feltárni eltérő talajfoltonként, de legalább 10 hektáronként. A talajszelvény genetikai szintjeiből vagy rétegeiből mintát kell venni. Az eltérő fizikai, vízgazdálkodási tulajdonságokkal rendelkező talajfoltokon kijelölt úgynevezett „jellemző talajszelvényből” (legfeljebb 50 hektáronként, de legalább 1 szelvényből) bolygatatlan talajmintát kell gyűjteni.
+## A hígtrágya mezőgazdasági területen történő felhasználását megalapozó talajvédelmi tervhez a helyszíni mintavétel pontjait úgy kell kiválasztani, hogy azok jellemezzék a területet talajtanilag, de feltárják a veszélyeztetett így különösen a mélyebb fekvésű, összefolyással veszélyeztetett, telep közeli talajfoltokat.
 
-## 5 méteren belül elérhető talajvízszint esetén talajvíz mintát kell venni. Tápanyag vizsgálathoz 5 ha-onként átlagmintavétel szükséges a 0–30 cm-es talajrétegből (injektálás esetén 30–60 cm-ből is).
+## Táblánként, de legalább 25 hektáronként 0–30, 30–60, 60–90 cm mélységből rétegenként 1-1 talajmintát kell venni. Az eltérő talajtani paraméterekkel rendelkező foltokból, de legalább 50 ha-onként a jellemző ásott talajszelvényből 0–30, 30–60, 60–90 cm mélységből 1-1 talajmintát kell venni. 50 ha-nál kisebb területre készülő talajvédelmi terv esetén legalább egy jellemző szelvény feltárása szükséges.
+
+## 50 ha-onként nitrátérzékeny területen 5 méteren, nem nitrátérzékeny területen 2 méteren belül elérhető talajvízszint esetén talajvíz mintát kell venni. 50 ha-nál kisebb területre készülő talajvédelmi terv esetén legalább egy talajvíz minta vétele szükséges.
+
+## Tápanyag vizsgálathoz 5 ha-onként átlagmintavétel szükséges a 0–30 cm-es talajrétegből.
 
 ## A felhasználásra kerülő hígtrágya laboratóriumi vizsgálatához reprezentatív átlagmintát kell venni.
 
 ## Laboratóriumi vizsgálatok:
 
-## a) talajminták laboratóriumi vizsgálata
+## a) talajminták laboratóriumi vizsgálata
 
-## aa) az összes talajmintából minden esetben vizsgálandó paraméterek:
+## aa) 25 ha-onkénti rétegmintákból minden esetben vizsgálandó paraméterek:
 
 ## – kémhatás pH(H2O),
 
@@ -906,21 +918,19 @@
 
 ## – vízben oldható összes sótartalom %,
 
-## – bővített tápanyag-vizsgálat az átlag mintákból,
+## ab) a jellemző szelvényekből vizsgálandó paraméterek:
 
-## ab) jellemző szelvényekből vizsgálandó paraméterek:
-
-## – részletes mechanikai összetétel,
-
-## – térfogattömeg,
-
-## – pF sor (méréssel vagy számítással) indokolt esetben,
+## – mechanikai összetétel és térfogattömeg vizsgálat,
 
 ## – 1:5 vizes talajkivonatból sóösszetétel (0,15% vízben oldható sótartalom felett),
 
-## – báziscsere,
+## – báziscsere vizsgálat,
 
-## ac) szakmailag indokolt esetben vizsgálandó paraméterek:
+## ac) az átlagmintákból elvégzendő vizsgálatok
+
+## – tápanyag-vizsgálat (pH, humusztartalom, KA, vízoldható összes só, CaCO3 vagy hidrolitosaciditás, – NO3 + NO2 nitrogén, K2O, P2O5, Na, Mg, SO42-, Cu, Zn, Mn),
+
+## ad) szakmailag indokolt esetben vizsgálandó paraméterek:
 
 ## – kritikus talajvízszint meghatározása,
 
@@ -928,7 +938,7 @@
 
 ## – sóforgalmi számítások,
 
-## ad) számítással meghatározott paraméterek:
+## ae) számítással meghatározott paraméterek:
 
 ## – összporozitás,
 
@@ -940,37 +950,37 @@
 
 ## – víz-levegő arány,
 
-## – vízháztartási mérleg;
+## – pF sor.
 
-## b) hígtrágya laboratóriumi vizsgálata:
+## b) hígtrágya laboratóriumi vizsgálata:
 
 ## – össznitrogén, nitrát, ammónium, K2O, P2O5, sótartalom, szárazanyag, szervesanyag.
+
+## c) talajvíz laboratóriumi vizsgálata:
+
+## – általános vízkémiai vizsgálat (pH, összes oldott anyag, vezetőképesség Cl-, CO32-, HCO3-, SO42-, NO3-, PO43, NH4+, K, Ca, Mg, Na, Na%, Mg%, fenolftalein lúgosság, szóda egyenérték).
 
 ## Tartalmi követelmények:
 
 ## A tervnek tartalmazni kell
 
-## – az állattartó telepre vonatkozó információk felsorolását: állatfaj, állatlétszám, tartástechnológia, keletkező hígtrágya mennyisége (m3/év), tározótér nagysága (m3), tervezett tárolási idő (nap),
+## – az állattartó telepre vonatkozó információk felsorolását: telep azonosító adatai, név, cím, regisztrációs szám, a keletkező hígtrágya mennyisége m3/év, valamint a hígtrágyára vonatkozó egyéb információk,
 
-## – a külön rendelet[^22] szerinti területi érzékenység megjelölését,
+## – a külön rendelet szerinti területi érzékenység megjelölését,
 
-## – a hígtrágya vizsgálati eredmények értékelését,
+## – a hígtrágya és a talajvizsgálati eredmények értékelését,
 
-## – a hígtrágya öntözés feltételeinek meghatározását, különös tekintettel a várakozási időkre, védőtávolságokra,
+## – a hígtrágya kijuttatás feltételeinek meghatározását, különös tekintettel a várakozási időkre, védőtávolságokra,
 
 ## – a felhasználható hígtrágya mennyiségét, amelyet a talaj vízgazdálkodási tulajdonságai, a tápanyagtartalma, továbbá a termeszteni kívánt vagy termesztett növény víz- és tápanyag- (elsősorban nitrogén) igénye, valamint a hígtrágya beltartalmi tulajdonságai alapján kell meghatározni,
 
-## – javaslatot az állattartótelepen keletkező és tárolható hígtrágya függvényében a területigényre,
-
-## – nitrátérzékeny területen a dózisszámítások és a trágyakijuttatás esetében a külön jogszabályban[^23] meghatározottakat kell érvényesíteni,
+## – nitrátérzékeny területen a dózisszámítások és a trágyakijuttatás esetében a külön jogszabályban meghatározottakat kell érvényesíteni,
 
 ## – javaslatot a szükséges tápanyag kiegészítésre,
 
 ## – javaslatot egyéb beavatkozásokra (kémiai talajjavítás, mélylazítás stb.).
 
 ## Mellékletként csatolni kell:
-
-## – 1:10 000 méretarányú talajtérképet,
 
 ## – hígtrágya felhasználás lehetőségére vonatkozó kartogramot a felhasználható hígtrágya mennyiségek szerinti lehatárolással.
 
@@ -1252,14 +1262,12 @@
 
 3. melléklet a 90/2008. (VII. 18.) FVM rendelethez
 
-[^16]: 72/1996. (V.22.) Korm. rendelet
-[^17]: 123/1997. (VII. 18.) Korm. rendelet
-[^18]: 41/1997. (V. 28.) FM rendelet
-[^19]: 27/2006. (II. 7.) Korm. rendelet, 59/2008. (IV. 29.) FVM rendelet
-[^20]: 27/2006. (II. 7.) Korm. rendelet, illetve 43/2007. (VI. 1.) FVM rendelet
-[^21]: 41/1997. (V. 28.) FM rendelet
+[^18]: 72/1996. (V.22.) Korm. rendelet
+[^19]: 123/1997. (VII. 18.) Korm. rendelet
+[^20]: 41/1997. (V. 28.) FM rendelet
+[^21]: 27/2006. (II. 7.) Korm. rendelet, 59/2008. (IV. 29.) FVM rendelet
 [^22]: 27/2006. (II. 7.) Korm. rendelet, illetve 43/2007. (VI. 1.) FVM rendelet
-[^23]: 59/2008. (IV. 29.) FVM rendelet
+[^23]: 41/1997. (V. 28.) FM rendelet
 [^24]: 50/2001. (IV. 3.) Korm. rendelet
 [^25]: 50/2001. (IV. 3.) Korm. rendelet
 [^26]: 27/2006. (II. 7.) Korm. rendelet
