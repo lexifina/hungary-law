@@ -20,10 +20,12 @@ kiszállított tejtermékekre vonatkozóan, időszakonként egy alkalommal, szem
 
 (4) A támogatási kérelemhez csatolni kell az adott időszakra vonatkozó, a támogatott termékek beszerzését igazoló számlák másolati példányait és azok összesítőjét, amely összesítőnek minden számla vonatkozásában tartalmaznia kell a számlákon szereplő leszállított termékmennyiséget termékkategóriánkénti és korcsoportonkénti (óvodás, általános iskolai tanuló, gyógypedagógiai tanterv alapján tanuló, integráltan nevelt általános iskola, szakiskola, középfokú iskola tanuló) bontásban.
 
-(5) Amennyiben az óvoda-, és iskolatej programban a fenntartó nevében megbízott jár el, úgy a meghatalmazásról szóló dokumentumot a szállítói szerződéssel együtt – az (1) bekezdésben meghatározott határidők szerint – kell a szállítónak megküldenie az MVH részére.
+(5)[^2] Amennyiben a szállító az előfinanszírozó, úgy az intézmény fenntartójának jóváhagyásról szóló dokumentumot a szállítói szerződéssel együtt – az (1) bekezdésben meghatározott határidők szerint – kell a szállítónak megküldenie az MVH részére.
 
 (6) Amennyiben a tej-, és tejtermékek kiszállítása a 6. § (3) bekezdésben meghatározott feltételrendszer szerint valósul meg, úgy a támogatási kérelemhez csatolni kell a gazdálkodó szervezet és a fenntartó közös nyilatkozatát arról, hogy teljesülnek a 6. § (3) bekezdésben, valamint a 6. § (5) bekezdésben foglalt feltételek.
 
 (7) Az MVH a hiánytalan és jogszerű támogatási kérelmekről a beérkezést követő negyvenöt napon belül döntést hoz, és haladéktalanul elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
 
 (8) Az MVH a hiányosan beküldött támogatási kérelmek tekintetében tizenöt napos határidő tűzésével hiánypótlásra szólítja fel a kérelmezőt.
+
+[^2]: A 8. § (5) bekezdése a 6/2013. (II. 5.) VM rendelet 15. § (2) bekezdésével megállapított szöveg.
