@@ -1,0 +1,1 @@
+## 4. § A szőlőtermelési potenciálról szóló 86/2009. (VII. 17.) FVM rendelet 4. § (4) bekezdés g) pontjában a „talajvédelmi terv másolatát” szövegrész helyébe a „talajvédelmi terv jóváhagyásáról szóló határozat másolatát” szöveg lép.
