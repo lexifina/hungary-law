@@ -72,6 +72,8 @@ bb) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdas
 
 bc) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2012. évben igényelhető támogatások részletes feltételeiről szóló 57/2012. (VI. 21.) VM rendelet
 
+alapján támogatási határozattal, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító határozattal rendelkezik;
+
 31.[^31] kedvezőtlen adottságú terület: az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokról, valamint egyes rendeletek módosításáról, illetve hatályon kívül helyezéséről szóló 1257/1999/EK tanácsi rendelet 19. cikke, valamint 20. cikke alapján az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások esetében a kedvezőtlen adottságú területek és az azokhoz kapcsolódó települések megállapításáról szóló 24/2007. (IV. 17.) FVM rendelet alapján meghatározott terület;
 
 32.[^32] hiteles másolat: az okirat kiállítója által vagy közjegyző által hitelesített másolat;
@@ -117,7 +119,7 @@ bc) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdas
 [^27]: A 3. § 28. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^28]: A 3. § 29. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^29]: A 3. § 30. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 17/2011. (III. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^30]: A 3. § 30. pont b) alpontja a 137/2012. (XII. 22.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^30]: A 3. § 30. pont b) alpontja a 6/2013. (II. 5.) VM rendelet 13. §-ával megállapított szöveg.
 [^31]: A 3. § 31. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^32]: A 3. § 32. pontját a 127/2007. (X. 29.) FVM rendelet 1. § (2) bekezdése iktatta be.
 [^33]: A 3. § 33. pontját az 53/2008. (IV. 24.) FVM rendelet 3. § (5) bekezdése iktatta be.
