@@ -1,6 +1,6 @@
-## 8/A. §[^27] A szőlőültetvények kivágásához nyújtott támogatás feltételeiről szóló 100/2008. (VIII. 6.) FVM rendelet alapján az MVH által kiadott, támogatásra jogosító kivágási engedély jelen rendelet szerinti kivágási engedélynek minősül, ha a kérelmező valamely okból mégsem részesült támogatásban. Az ilyen engedély alapján történő kivágás befejezését követően az MgSzH helyszíni ellenőrzéséről készült jegyzőkönyve alapján az MVH PKI az újratelepítési jogot nyilvántartásba veszi.
+## 8/A. §[^28] A szőlőültetvények kivágásához nyújtott támogatás feltételeiről szóló 100/2008. (VIII. 6.) FVM rendelet alapján az MVH által kiadott, támogatásra jogosító kivágási engedély jelen rendelet szerinti kivágási engedélynek minősül, ha a kérelmező valamely okból mégsem részesült támogatásban. Az ilyen engedély alapján történő kivágás befejezését követően az MgSzH helyszíni ellenőrzéséről készült jegyzőkönyve alapján az MVH PKI az újratelepítési jogot nyilvántartásba veszi.
 
-9. §[^28] (1) Az újratelepítési jog átruházása esetén az átadó és az átvevő közösen kötelesek kérelmezni az átruházni kívánt újratelepítési jog átvezetését a nyilvántartásban.
+9. §[^29] (1) Az újratelepítési jog átruházása esetén az átadó és az átvevő közösen kötelesek kérelmezni az átruházni kívánt újratelepítési jog átvezetését a nyilvántartásban.
 
 (2) A közös kérelmet az erre a célra rendszeresített, az MVH közleményében közzétett nyomtatványon kell benyújtani, melynek tartalmaznia kell az átadó birtokában lévő, átruházni kívánt újratelepítési jogra vonatkozó alábbi adatokat:
 
@@ -10,7 +10,7 @@ b) kivágási engedély száma,
 
 c) kivágás ideje.
 
-(3)[^29] Az újratelepítési jog átruházásának ténye csak akkor jegyezhető be a nyilvántartásba, ha az átadó és az átvevő is eleget tett az eljárási törvény 28. § (1) bekezdésében előírt regisztrációs kötelezettségének.
+(3)[^30] Az újratelepítési jog átruházásának ténye csak akkor jegyezhető be a nyilvántartásba, ha az átadó és az átvevő is eleget tett az eljárási törvény 28. § (1) bekezdésében előírt regisztrációs kötelezettségének.
 
 (4) A kérelemhez csatolni kell:
 
@@ -20,6 +20,6 @@ b) az átvevő 1. számú melléklet szerinti nyilatkozatát a jog felhasználá
 
 (5) A kérelemről az MVH PKI dönt.
 
-[^27]: A 8/A. §-t a 30/2010. (XI. 18.) VM rendelet 4. §-a iktatta be.
-[^28]: A 9. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
-[^29]: A 9. § (3) bekezdése a 63/2010. (V. 11.) FVM rendelet 13. §-a szerint módosított szöveg.
+[^28]: A 8/A. §-t a 30/2010. (XI. 18.) VM rendelet 4. §-a iktatta be.
+[^29]: A 9. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
+[^30]: A 9. § (3) bekezdése a 63/2010. (V. 11.) FVM rendelet 13. §-a szerint módosított szöveg.

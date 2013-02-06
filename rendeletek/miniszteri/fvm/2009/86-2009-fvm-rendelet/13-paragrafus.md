@@ -1,6 +1,6 @@
 ## a telepítési jogtartalékból a telepítési jogot részére az MVH térítésmentesen nyújtja.
 
-13. §[^37] (1) Az újratelepítési jog vásárlási kérelmet az MVH által rendszeresített és honlapján közzétett nyomtatványon kell benyújtani.
+13. §[^38] (1) Az újratelepítési jog vásárlási kérelmet az MVH által rendszeresített és honlapján közzétett nyomtatványon kell benyújtani.
 
 (2) Az MVH PKI az újratelepítési jog vásárlási kérelmeket beérkezésük sorrendjében bírálja el.
 
@@ -12,9 +12,9 @@
 
 (6) Amennyiben a kérelemben a kérelmező olyan újratelepítési jogot jelöl meg, amilyen borszőlő termőhelyi kataszteri pontszámú és osztályú jog a jogtartalékban nem áll rendelkezésre, úgy az MVH PKI nyilatkozattételre szólítja fel a kérelmezőt a borszőlő termőhelyi kataszteri pontszám vagy osztály módosítására, vagy a vásárlástól történő elállásra.
 
-(7)[^38] Az újratelepítési jog vásárlási kérelem alapján hozott döntésében az MVH PKI tíz napos teljesítési határidő tűzésével felszólítja a kérelmezőt az újratelepítési jog ellenértékének a 12. § (1) bekezdésben meghatározott közleményben közzétett bankszámlára történő megfizetésére. Az ellenérték megfizetését követően az MVH PKI a kérelmező részére az újratelepítési jogot a nyilvántartásába bejegyzi, ezzel egyidejűleg a telepítési engedélyt megadja.
+(7)[^39] Az újratelepítési jog vásárlási kérelem alapján hozott döntésében az MVH PKI tíz napos teljesítési határidő tűzésével felszólítja a kérelmezőt az újratelepítési jog ellenértékének a 12. § (1) bekezdésben meghatározott közleményben közzétett bankszámlára történő megfizetésére. Az ellenérték megfizetését követően az MVH PKI a kérelmező részére az újratelepítési jogot a nyilvántartásába bejegyzi, ezzel egyidejűleg a telepítési engedélyt megadja.
 
 (8) Amennyiben a kérelmező fizetési kötelezettségének határidőben nem tesz eleget, úgy az MVH PKI az újratelepítési jog vásárlása iránti kérelmet elutasítja.
 
-[^37]: A 13. § a 63/2010. (V. 11.) FVM rendelet 7. §-ával megállapított szöveg.
-[^38]: A 13. § (7) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (35) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^38]: A 13. § a 63/2010. (V. 11.) FVM rendelet 7. §-ával megállapított szöveg.
+[^39]: A 13. § (7) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (35) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
