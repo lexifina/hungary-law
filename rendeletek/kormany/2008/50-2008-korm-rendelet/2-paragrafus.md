@@ -24,6 +24,6 @@ d) nemzetközi megállapodás vagy jogszabály alapján a magyar állampolgárs�
 
 e) az, aki államilag támogatott helyen további (párhuzamos) hallgatói jogviszonyt létesített – feltéve, hogy az adott képzési szinten korábban végbizonyítványt nem szerzett.
 
-(3)[^2] E rendelet alkalmazásában – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 46. § (3) bekezdésben meghatározott mérték figyelembevételével – ugyancsak a felsőoktatási intézmények államilag támogatott hallgatóinak tekintendő a magyar állami ösztöndíjas illetve a magyar állami részösztöndíjas hallgató.
+(3)[^3] E rendelet alkalmazásában – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 46. § (3) bekezdésben meghatározott mérték figyelembevételével – ugyancsak a felsőoktatási intézmények államilag támogatott hallgatóinak tekintendő a magyar állami ösztöndíjas illetve a magyar állami részösztöndíjas hallgató.
 
-[^2]: A 2. § (3) bekezdését a 3/2012. (I. 23.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § (3) bekezdését a 3/2012. (I. 23.) Korm. rendelet 1. §-a iktatta be.

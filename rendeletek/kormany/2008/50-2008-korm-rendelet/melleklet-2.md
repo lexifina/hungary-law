@@ -48,7 +48,7 @@
 
 | fogyatékossággal élő hallgatók után járó kiegészítő támogatás normatívája | 120 |
 
-2. melléklet az 50/2008. (III. 14.) Korm. rendelethez[^12]
+2. melléklet az 50/2008. (III. 14.) Korm. rendelethez[^13]
 
 Az egyes képzési területek iránymutató képzési költségkeretei (E Ft/fő/év)
 
@@ -174,4 +174,4 @@ Az egyes képzési területek iránymutató képzési költségkeretei (E Ft/fő
 
 | 37 |  | gyógyszerész |  | – | 1500 | 1600 |
 
-[^12]: A 2. mellékletet a 3/2012. (I. 23.) Korm. rendelet 7. §-a iktatta be.
+[^13]: A 2. mellékletet a 3/2012. (I. 23.) Korm. rendelet 7. §-a iktatta be.

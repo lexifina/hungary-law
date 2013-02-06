@@ -8,6 +8,6 @@ c) a külön megállapodás alapján magán, illetve alapítványi felsőoktatá
 
 ## (a továbbiakban együtt: felsőoktatási intézmények) terjed ki.
 
-(2)[^1] E rendelet hatálya – a közigazgatási, rendészeti, katonai vagy nemzetbiztonsági felsőoktatás körébe nem tartozó képzések kivételével – nem terjed ki a Nemzeti Közszolgálati Egyetemre.
+(2)[^2] E rendelet hatálya – a közigazgatási, rendészeti, katonai vagy nemzetbiztonsági felsőoktatás körébe nem tartozó képzések kivételével – nem terjed ki a Nemzeti Közszolgálati Egyetemre.
 
-[^1]: Az 1. § (2) bekezdése a 363/2011. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 363/2011. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
