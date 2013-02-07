@@ -1,13 +1,8 @@
-## 4. § A szénipari szerkezetátalakítási támogatás igénylése, megállapítása, valamint kifizetése során a szénipar részére nyújtott állami támogatásról szóló, 2002. július 23-i 1407/2002/EK tanácsi rendelet (a továbbiakban: Rendelet) és a B(2005)1782. sz. bizottsági határozat rendelkezései irányadók. A Rendelet 9. cikkében foglalt adatszolgáltatási és jelentéstételi kötelezettségeket a Hivatal teljesíti.
+## 4. §[^7]
 
-5. § (1) A Hivatal évente becslést készít a következő évben várható
+5. §[^8] (1) A Hivatal a tárgyévet megelőző év július 31. napjáig javaslatot tesz a miniszternek a szénipari szerkezetátalakítási támogatás mértékére.
 
-a) a bányavállalkozó által kitermelt szén, illetve az annak felhasználásával előállított villamos energia és hőenergia indokolt ráfordításáról,
+(2) Az (1) bekezdés szerinti javaslat előkészítése céljából a bányavállalkozó a tárgyévet megelőző év június 30. napjáig a bányabezárással összefüggő tárgyévi várható költségeiről tájékoztatja a Hivatalt.
 
-b) a villamosenergia-piacon és a szervezett villamosenergia-piacon kialakuló áraknak egyes időszakra és egyes villamosenergia-termékekre vonatkozó áraiból számított átlagárról (a megelőző időszak adatainak és nemzetközileg elfogadott energetikai szervezet, vagy működő európai energia tőzsde nyilvános előrejelzési adatainak felhasználásával),
-
-c) szénipari szerkezetátalakítási támogatás mértékéről.
-
-(2) Az (1) bekezdésben meghatározott becslések elkészítéséhez a bányavállalkozó a Hivatal részére adatszolgáltatást nyújt.
-
-(3) A Hivatal az (1)–(2) bekezdések alapján elkészített becslésekre figyelemmel tesz javaslatot a külön törvény által meghatározandó, a szénipari szerkezetátalakítási támogatás finanszírozására szolgáló pénzeszköz mértékére a miniszternek az elszámolás tárgyát képező naptári évet (a továbbiakban: tárgyév) megelőző év július 31. napjáig.
+[^7]: A 4. §-t a 211/2011. (X. 12.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^8]: Az 5. § a 211/2011. (X. 12.) Korm. rendelet 2. §-ával megállapított szöveg.

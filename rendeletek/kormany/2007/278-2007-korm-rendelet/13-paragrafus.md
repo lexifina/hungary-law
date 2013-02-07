@@ -1,19 +1,40 @@
-## 13. § E rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+13. §[^25] (1) E rendelet 10/A. §-a a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat 7. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-a) a Tanács 1407/2002/EK rendelete (2002. július 23.) a szénipar részére nyújtott állami támogatásról;
+(2) E rendelet a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat hatálya alá tartozó támogatást tartalmaz.
 
-b) a Bizottság B(2005)1782. sz. határozata.
+Melléklet a 278/2007. (X. 20.) Korm. rendelethez[^26]
 
-Melléklet a 278/2007. (X. 20.) Korm. rendelethez
+1. Az üzembezárási támogatás tárgyévenként megállapítható maximális összege
 
-A kifizetett szénipari szerkezetátalakítási támogatás összege
+|  |  | A | B |
 
-| Kifizetés éve | A kifizetés maximum összege (Ft) |
+|  | 1. | Tárgyév | Az üzembezárási támogatás maximális összege (forint) |
 
-| 2008. | 8 506 800 000 |
+|  | 2. | 2011. | 6 462 992 991 |
 
-| 2009. | 7 475 799 996 |
+|  | 3. | 2012. | 6 493 176 924 |
 
-| 2010. | 6 960 300 000 |
+|  | 4. | 2013. | 4 847 244 743 |
 
-| Összes kifizetés 2008–2010. | 22 942 899 996 |
+|  | 5. | 2014. | 4 847 244 743 |
+
+|  | 6. | 2015. | 0 |
+
+|  | 7. | 2016. | 0 |
+
+|  | 8. | 2017. | 0 |
+
+|  | 9. | 2018. | 0 |
+
+|  | 10. | 2011–2018. összesen | 22 650 659 401 |
+
+2. A rendkívüli támogatás maximális összege
+
+|  |  | A | B |
+
+|  | 1. | Tárgyév | A rendkívüli támogatás maximális összege (forint) |
+
+|  | 2. | 2011–2018. összesen | 19 596 755 605 |
+
+[^25]: A 13. § a 211/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^26]: A melléklet a 13/2013. (I. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
