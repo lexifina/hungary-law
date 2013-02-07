@@ -2,8 +2,11 @@
 
 8. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2) Az 1–6. § és az 1. melléklet a Módosító Korm. rendelet hatálybalépéséhez szükséges európai bizottsági jóváhagyó határozat meghozatalát követő 15. napon lép hatályba.
+(2) Az 1–6. § és az 1. melléklet a Módosító Korm. rendelet hatálybalépéséhez szükséges európai bizottsági jóváhagyó határozat meghozatalát követő 15. napon lép hatályba.[^2]
 
 (3) Ez a rendelet a Módosító Korm. rendelet hatálybalépéséhez szükséges európai bizottsági jóváhagyó határozat meghozatalát követő 16. napon hatályát veszti.
 
-(4) A (2) és (3) bekezdés szerinti európai bizottsági határozat meghozatalának naptári napját – annak ismertté válását követően haladéktalanul – az energiapolitikáért felelős miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
+(4) A (2) és (3) bekezdés szerinti európai bizottsági határozat meghozatalának naptári napját – annak ismertté válását követően haladéktalanul – az energiapolitikáért felelős miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.[^3]
+
+[^2]: A 3/2013. (II. 4.) NFM határozat alapján a hatálybalépés napja: 2013. február 7.
+[^3]: Lásd a 3/2013. (II. 4.) NFM rendeletet.
