@@ -6,6 +6,6 @@
 
 (4) E rendelet 5. számú melléklete tartalmazza a szakmai ismeretek típusaihoz és szakmai készségek szintjeihez tartozó meghatározásokat.
 
-(5)[^1] Az e rendelettel megállapított szakmai és vizsgakövetelmények szerinti szakképesítések esetében a szakmai bizonyítvány kiegészítőlapokat e rendelet 6. számú melléklete szerint kell kibocsátani.
+(5)[^2] Az e rendelettel megállapított szakmai és vizsgakövetelmények szerinti szakképesítések esetében a szakmai bizonyítvány kiegészítőlapokat e rendelet 6. számú melléklete szerint kell kibocsátani.
 
-[^1]: Az 1. § (5) bekezdését az 1/2010. (II. 5.) SZMM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (5) bekezdését az 1/2010. (II. 5.) SZMM rendelet 1. §-a iktatta be.

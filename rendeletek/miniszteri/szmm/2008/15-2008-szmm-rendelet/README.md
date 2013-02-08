@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-15-20-1
 | 2012-01-01 | 2008-15-20-1X.10 | 19/2009. (IX. 25.) SZMM rendelet |
 | 2012-06-15 | 2008-15-20-1X.11 | 19/2009. (IX. 25.) SZMM rendelet |
 | 2012-09-01 | 2008-15-20-1X.12 | 18/2009. (IX. 10.) SZMM rendelet |
+| 2013-02-08 | 2008-15-20-1X.13 | 37/2013. (V. 28.) EMMI rendelet |

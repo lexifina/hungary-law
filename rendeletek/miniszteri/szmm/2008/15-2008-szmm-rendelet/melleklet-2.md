@@ -790,7 +790,7 @@
 
 | 206. |  |  |  |  |  |  |  |  |  |
 
-2. számú melléklet a 15/2008. (VIII. 13.) SZMM rendelethez[^4]
+2. számú melléklet a 15/2008. (VIII. 13.) SZMM rendelethez[^5]
 
 CSECSEMŐ- ÉS GYERMEKNEVELŐ- GONDOZÓ
 
@@ -4112,4 +4112,4 @@ VI.
 
 ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
-[^4]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése és 3. § (2) bekezdése, a 61/2011. (XI. 3.) NEFMI rendelet 1. §-a, a 78/2011. (XII. 30.) NEFMI rendelet 13. §-a, a 4/2012. (VI. 12.) EMMI rendelet 1. §-a, a 27/2012. (VIII. 27.) NGM rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 3. § (2)–(4) bekezdését.
+[^5]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése és 3. § (2) bekezdése, a 61/2011. (XI. 3.) NEFMI rendelet 1. §-a, a 78/2011. (XII. 30.) NEFMI rendelet 13. §-a, a 4/2012. (VI. 12.) EMMI rendelet 1. §-a, a 27/2012. (VIII. 27.) NGM rendelet 3. § (5) bekezdés b) pontja, a 11/2013. (II. 7.) EMMI rendelet 50. §-a szerint módosított szöveg.
