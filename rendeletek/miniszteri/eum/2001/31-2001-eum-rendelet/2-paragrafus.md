@@ -26,7 +26,7 @@ l) radiológiai eljárás: olyan, az 1. § (1) bekezdésében meghatározott eg�
 
 m) radiológiai szűrővizsgálat: radiológiai berendezéseket felhasználó szűrővizsgálat korai diagnosztikai céllal;
 
-n)[^1] sugáregészségügyi hatóság: az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: OTH), illetőleg területileg illetékes Sugáregészségügyi Decentruma.
+n)[^1] sugáregészségügyi hatóság: az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: OTH), illetőleg a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének Sugáregészségügyi Decentruma.
 
 o) sugárterhelés: a radiológiai eljárás keretében az 1. §-ban meghatározott személyt érő besugárzás;
 
@@ -42,7 +42,7 @@ t)[^4] gyakorlati vonatkozások: a 10. § (2) bekezdés és a 11. § vonatkozás
 
 u)[^5] radiológiai létesítmény: radiológiai berendezést tartalmazó létesítmény.
 
-[^1]: A 2. § n) pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (7) bekezdésének a) pontjával megállapított szöveg.
+[^1]: A 2. § n) pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (7) bekezdésének a) pontjával megállapított, a 11/2013. (II. 7.) EMMI rendelet 14. §-a szerint módosított szöveg.
 [^2]: A 2. § r) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
 [^3]: A 2. § s) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
 [^4]: A 2. § t) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
