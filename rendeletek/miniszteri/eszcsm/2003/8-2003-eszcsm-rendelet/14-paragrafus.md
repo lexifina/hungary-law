@@ -1,6 +1,6 @@
 ## Ellenőrzés
 
-14. § (1)[^27] Az egészségügyi szolgáltató működési engedélyének kiadására illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének kistérségi vagy fővárosi kerületi intézete vagy az Országos Tisztifőorvosi Hivatal (a továbbiakban együtt: egészségügyi államigazgatási szerv) a működési engedélyezési eljárás, valamint az egészségügyi szolgáltató rendszeres ellenőrzése során a rendelkezésre álló dokumentumok, jegyzőkönyvek megvizsgálásával ellenőrzi, hogy a szolgáltató eleget tesz-e az egyes eszközök rendeltetésszerű és biztonságos működtetésére vonatkozó követelményeknek, valamint azt, hogy van-e balesetfelelős kijelölve.
+14. § (1)[^27] Az egészségügyi szolgáltató működési engedélyének kiadására illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete vagy az Országos Tisztifőorvosi Hivatal (a továbbiakban együtt: egészségügyi államigazgatási szerv) a működési engedélyezési eljárás, valamint az egészségügyi szolgáltató rendszeres ellenőrzése során a rendelkezésre álló dokumentumok, jegyzőkönyvek megvizsgálásával ellenőrzi, hogy a szolgáltató eleget tesz-e az egyes eszközök rendeltetésszerű és biztonságos működtetésére vonatkozó követelményeknek, valamint azt, hogy van-e balesetfelelős kijelölve.
 
 (2)[^28] Amennyiben az egészségügyi államigazgatási szerv megállapítja, hogy a szolgáltató az e rendeletben foglalt kötelezettségének nem tett eleget, a szolgáltatót határidő megjelölése mellett felhívja az eszköz dokumentációjának megfelelő pótlására, működőképességének helyreállítására. Ha a szolgáltató a felhívásban foglalt kötelezettségének nem tesz eleget, az egészségügyi államigazgatási szerv határozattal rendelkezik az eszköz használatának felfüggesztéséről, illetve – szükség esetén – kezdeményezi a Hivatalnál az eszköz használatból történő kivonását.
 
@@ -8,7 +8,7 @@
 
 (4)[^30] Az egészségügyi államigazgatási szerv ellenőrzést végző munkatársai az eszközre, illetve a felhasználó eszközzel kapcsolatos tevékenységre vonatkozó iratokba betekinthetnek, az adatokat megismerhetik.
 
-[^27]: A 14. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^27]: A 14. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 6. §-ával megállapított, a 11/2013. (II. 7.) EMMI rendelet 20. §-a szerint módosított szöveg.
 [^28]: A 14. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 31. § b) pont bb) alpontja szerint módosított szöveg.
 [^29]: A 14. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 31. § b) pont bb) alpontja szerint módosított szöveg.
 [^30]: A 14. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 31. § b) pont bb) alpontja szerint módosított szöveg.
