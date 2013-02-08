@@ -8,9 +8,10 @@ b)[^25] az 5. számú melléklet 1. Főcsoport 1., 2., 3., valamint a 8. számú
 
 (3)[^27] Az (1) bekezdés b) pontja szerinti eljárásban külön jogszabály szerinti feladatkörében közreműködik az OKI, az OÉTI, az OKBI, a NÉBIH és az OKTVF.
 
-(4) Az OTH 10. és 11. § szerinti, biocid hatóanyag közösségi jegyzékbe történő felvételére irányuló eljárásában koordináló szervként az OKBI jár el. Az eljárásban külön jogszabály szerinti feladatkörében közreműködik az OÉTI, az OKI, az OEK és az MgSzH.
+(4)[^28] Az OTH 10. és 11. § szerinti, biocid hatóanyag közösségi jegyzékbe történő felvételére irányuló eljárásában koordináló szervként az OKBI jár el. Az eljárásban külön jogszabály szerinti feladatkörében közreműködik az OÉTI, az OKI, az OEK és a NÉBIH.
 
 [^24]: A 8/A. §-t a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 3. §-a iktatta be.
 [^25]: A 8/A. § (1) bekezdés b) pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 5. §-ával megállapított szöveg.
 [^26]: A 8/A. § (2) bekezdése a 21/2012. (IX. 4.) EMMI rendelet 1. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^27]: A 8/A. § (3) bekezdése a 21/2012. (IX. 4.) EMMI rendelet 1. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 8/A. § (4) bekezdése a 11/2013. (II. 7.) EMMI rendelet 22. § a) pontja szerint módosított szöveg.

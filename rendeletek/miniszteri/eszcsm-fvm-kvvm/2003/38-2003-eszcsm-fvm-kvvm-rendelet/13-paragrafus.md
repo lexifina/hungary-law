@@ -4,7 +4,7 @@
 
 13. § (1) A 12. § rendelkezésére figyelemmel, a 3. és 5. §-oknak megfelelően már engedélyezett, illetve regisztrált biocid termék esetében az OTH hozzájárulhat, hogy bármely későbbi, engedély, illetve regisztráció iránti kérelmet benyújtó kérelmező hivatkozzon a kérelmet első ízben benyújtó által átadott adatokra, amennyiben a későbbi kérelmező bizonyítani tudja, hogy az engedélyezni, illetve regisztrálni kért biocid termék hasonló a korábban engedélyezett, illetve regisztrált termékhez, és hatóanyagai a korábban engedélyezett, regisztrált termékével azonosak, beleértve a tisztasági fokot és a szennyezések jellegét is.
 
-(2)[^38] A biocid termékek engedélyezését, illetve regisztrációját kérelmező, ha a kérelmét Magyarországon kívánja benyújtani, gerinces állatokon történő kísérletek megkezdése előtt felvilágosítást kér az OTH-tól
+(2)[^39] A biocid termékek engedélyezését, illetve regisztrációját kérelmező, ha a kérelmét Magyarországon kívánja benyújtani, gerinces állatokon történő kísérletek megkezdése előtt felvilágosítást kér az OTH-tól
 
 a) abban a kérdésben, hogy a kérelme szerinti biocid termék hasonló-e valamely már engedélyezett vagy regisztrált biocid termékhez, illetve
 
@@ -20,4 +20,4 @@ b) az adatok átadására jogosult korábbi kérelmező nevéről és címéről
 
 (7) Az OTH, illetve az illetékes koordináló intézet a rendelkezésére álló, és a 19. § (1) bekezdése alapján bizalmas adatkezelés alá nem tartozó adatokról a kérelmezőt – a 12. § keretei között – hivatalból tájékoztatja.
 
-[^38]: A 13. § (2) bekezdés nyitó szövegrésze a 15/2012. (III. 12.) NEFMI rendelet 10. §-a szerint módosított szöveg.
+[^39]: A 13. § (2) bekezdés nyitó szövegrésze a 15/2012. (III. 12.) NEFMI rendelet 10. §-a szerint módosított szöveg.

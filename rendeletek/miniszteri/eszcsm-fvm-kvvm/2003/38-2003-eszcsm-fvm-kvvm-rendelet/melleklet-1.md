@@ -1,6 +1,6 @@
 1. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^84]
+együttes rendelethez[^85]
 
 ## A biocid termékekben felhasználható hatóanyagok jegyzéke
 
@@ -184,4 +184,4 @@ Jelmagyarázat:
 
 | 42. | Nonánsav, pelargonsav | IUPAC-név: Nonánsav EK-szám: 203-931-2 CAS-szám: 112-05-0 | 896 g/kg | 2013. február 1. | 2015. január 31. | 2023. január 31. | 19 | A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – amennyiben ez az adott termék esetében releváns – el kell végezni az uniós szintű kockázatértékelés által reprezentatív módon nem vizsgált környezeti elemeket és népességcsoportokat érintő felhasználási vagy expozíciós körülmények, valamint kockázatok értékelését. |
 
-[^84]: Az 1. számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának a) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. január 1-jén. Az 1. számú melléklet a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 1. §-a, a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § a) pontja, a 9/2011. (III. 21.) NEFMI rendelet 2. §-a, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^85]: Az 1. számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának a) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. január 1-jén. Az 1. számú melléklet a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 1. §-a, a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § a) pontja, a 9/2011. (III. 21.) NEFMI rendelet 2. §-a, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (1) bekezdése szerint módosított szöveg.

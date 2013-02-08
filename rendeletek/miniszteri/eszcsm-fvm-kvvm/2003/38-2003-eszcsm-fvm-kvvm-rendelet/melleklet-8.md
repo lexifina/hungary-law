@@ -64,6 +64,6 @@
 
 8. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^93]
+együttes rendelethez[^94]
 
-[^93]: A 8. számú melléklet e rendelet 32. §-ának (2) bekezdése alapján 2003. július 27. napján lép hatályba.
+[^94]: A 8. számú melléklet e rendelet 32. §-ának (2) bekezdése alapján 2003. július 27. napján lép hatályba.
