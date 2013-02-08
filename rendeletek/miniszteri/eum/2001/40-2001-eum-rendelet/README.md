@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-40-20-0
 | 2012-01-11 | 2001-40-20-0B.41 | 33/2011. (VI. 21.) NEFMI rendelet |
 | 2012-09-05 | 2001-40-20-0B.42 | 33/2011. (VI. 21.) NEFMI rendelet |
 | 2012-11-17 | 2001-40-20-0B.43 | 37/2012. (XI. 16.) EMMI rendelet |
+| 2013-02-08 | 2001-40-20-0B.44 | 27/2007. (VI. 11.) EüM rendelet |

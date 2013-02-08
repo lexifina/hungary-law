@@ -1,4 +1,4 @@
-3. §[^15] (1)[^16] A gyártási tevékenységet a gyártó, illetve meghatalmazott képviselője jelenti be a fővárosi és megyei kormányhivatalnak a gyártás helye szerint illetékes kistérségi (fővárosi kerületi) népegészségügyi intézetéhez (a továbbiakban: kistérségi népegészségügyi intézet).
+3. §[^15] (1)[^16] A gyártási tevékenységet a gyártó, illetve meghatalmazott képviselője jelenti be a fővárosi és megyei kormányhivatalnak a gyártás helye szerint illetékes járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetéhez (a továbbiakban: járási népegészségügyi intézet).
 
 (2) A gyártási tevékenység bejelentése kötelező minden újonnan létesített, bővített, felújított kozmetikai terméket előállító üzem működésének megkezdését megelőzően legalább 30 nappal.
 
@@ -15,5 +15,5 @@ d) a termékinformációs dokumentáció tárolási helyét.
 (4)[^17]
 
 [^15]: A 3. § az 5/2004. (II. 10.) ESZCSM rendelet 3. §-ával megállapított szöveg.
-[^16]: A 3. § (1) bekezdése a 27/2007. (VI. 11.) EüM rendelet 5. § (4) bekezdésének a) pontja, a 10/2011. (III. 30.) NEFMI rendelet 21. § a) pontja szerint módosított szöveg.
+[^16]: A 3. § (1) bekezdése a 27/2007. (VI. 11.) EüM rendelet 5. § (4) bekezdésének a) pontja, a 10/2011. (III. 30.) NEFMI rendelet 21. § a) pontja, a 11/2013. (II. 7.) EMMI rendelet 15. § a) pontja szerint módosított szöveg.
 [^17]: A 3. § (4) bekezdését a 14/2010. (IV. 7.) EüM rendelet 8. § a) pontja hatályon kívül helyezte.
