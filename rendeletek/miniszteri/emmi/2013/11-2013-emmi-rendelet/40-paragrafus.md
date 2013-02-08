@@ -1,0 +1,5 @@
+## II. Fejezet
+
+## Egyes szociális tárgyú miniszteri rendeletek módosítása
+
+## 39. A javítóintézetek rendtartásáról szóló 30/1997. (X. 11.) NM rendelet módosítása
