@@ -204,6 +204,6 @@
 
 |  | módszertani szaktanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális igazgatásszervező, szociális menedzser oklevéllel rendelkező: jogász, igazgatásszervező, szociológus, közgazdász szociálpolitikai szakon |
 
-3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^390]
+3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^411]
 
-[^390]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.
+[^411]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.

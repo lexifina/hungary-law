@@ -1,6 +1,6 @@
-104. § (1)[^248] A nevelőszülő – ha rendelkezik a kora miatt különleges ellátást igénylő gyermek elhelyezésének, ellátásának feltételeivel és, ha erre kijelölték – a védőnő, a házi gyermekorvos vagy a kórházi gyermekorvos javaslatára átmeneti gondozásra befogadja a 3 éven aluli, egészségügyi okok miatt ellátást igénylő gyermeket. Az ellátás megkezdésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
+104. § (1)[^269] A nevelőszülő – ha rendelkezik a kora miatt különleges ellátást igénylő gyermek elhelyezésének, ellátásának feltételeivel és, ha erre kijelölték – a védőnő, a házi gyermekorvos vagy a kórházi gyermekorvos javaslatára átmeneti gondozásra befogadja a 3 éven aluli, egészségügyi okok miatt ellátást igénylő gyermeket. Az ellátás megkezdésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
 
-(2)[^249] Az (1) bekezdésben meghatározott gyermek számára a nevelőszülő az átmeneti gondozást elrendelő határozat, vagy az intézményvezető döntése alapján teljes körű különleges ellátást nyújt.
+(2)[^270] Az (1) bekezdésben meghatározott gyermek számára a nevelőszülő az átmeneti gondozást elrendelő határozat, vagy az intézményvezető döntése alapján teljes körű különleges ellátást nyújt.
 
 (3) A gyermek befogadásáról a nevelőszülői hálózat működtetője értesíti
 
@@ -10,5 +10,5 @@ b) a szülő lakóhelye szerinti gyermekjóléti szolgálatot, valamint
 
 c) a védőnőt.
 
-[^248]: A 104. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 17. pontja szerint módosított szöveg.
-[^249]: A 104. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 17. pontja szerint módosított szöveg.
+[^269]: A 104. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 17. pontja szerint módosított szöveg.
+[^270]: A 104. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 17. pontja szerint módosított szöveg.

@@ -6,11 +6,11 @@
 
 a) a gyámhivatalt,
 
-b)[^274] a szakszolgálatot az 5. számú melléklet szerinti adatlapon,
+b)[^295] a szakszolgálatot az 5. számú melléklet szerinti adatlapon,
 
 c) a szülő lakóhelye szerinti gyermekjóléti szolgálatot,
 
-d)[^275] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
+d)[^296] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
 
-[^274]: A 120. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 69. §-ával megállapított szöveg.
-[^275]: A 120. § (2) bekezdésének d) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 69. §-ával megállapított szöveg.
+[^295]: A 120. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 69. §-ával megállapított szöveg.
+[^296]: A 120. § (2) bekezdésének d) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 69. §-ával megállapított szöveg.

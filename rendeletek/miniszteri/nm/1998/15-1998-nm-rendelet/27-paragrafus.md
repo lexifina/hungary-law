@@ -1,8 +1,8 @@
-## 26. §[^87]
+## 26. §[^107]
 
 ## A gyermekjóléti szolgáltatás biztosításának módja
 
-27. § (1)[^88] A gyermekjóléti szolgáltatás megszervezhető különösen
+27. § (1)[^108] A gyermekjóléti szolgáltatás megszervezhető különösen
 
 a) önálló gyermekjóléti szolgálat vagy központ működtetésével,
 
@@ -10,18 +10,18 @@ b) közös igazgatású, többcélú intézményben önálló szakmai és szerve
 
 c) önálló családgondozó alkalmazásával.
 
-(2)[^89] Az (1) bekezdésben meghatározott szolgáltatási formák mindegyike társulás keretében is megszervezhető.
+(2)[^109] Az (1) bekezdésben meghatározott szolgáltatási formák mindegyike társulás keretében is megszervezhető.
 
-(3)[^90] Ha az (1) bekezdés a) és b) pontjában meghatározott szolgálat több telephellyel működik,
+(3)[^110] Ha az (1) bekezdés a) és b) pontjában meghatározott szolgálat több telephellyel működik,
 
 a) ki kell jelölni az egyes szolgálatok működési területét, és arról a lakosságot tájékoztatni kell,
 
 b) meg kell határozni az egyes intézmények közötti feladatmegosztás és együttműködés szabályait.
 
-(4)[^91] Az a települési önkormányzat is szervezhet gyermekjóléti központot vagy speciális feladatokat részben ellátó gyermekjóléti szolgálatot, melynek területén 40 000-nél kevesebb állandó lakos él.
+(4)[^111] Az a települési önkormányzat is szervezhet gyermekjóléti központot vagy speciális feladatokat részben ellátó gyermekjóléti szolgálatot, melynek területén 40 000-nél kevesebb állandó lakos él.
 
-[^87]: A 26. §-t és az azt megelőző alcímet a 28/2010. (XII. 30.) NEFMI rendelet 24. § c) pontja hatályon kívül helyezte.
-[^88]: A 27. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^89]: A 27. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
-[^90]: A 27. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése.
-[^91]: A 27. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése, szövege a 23. § (3) bekezdésével megállapított szöveg.
+[^107]: A 26. §-t és az azt megelőző alcímet a 28/2010. (XII. 30.) NEFMI rendelet 24. § c) pontja hatályon kívül helyezte.
+[^108]: A 27. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^109]: A 27. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
+[^110]: A 27. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése.
+[^111]: A 27. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése, szövege a 23. § (3) bekezdésével megállapított szöveg.

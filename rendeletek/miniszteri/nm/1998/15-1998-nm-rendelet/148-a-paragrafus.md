@@ -1,4 +1,4 @@
-148/A. §[^359] (1) A gyermek hazai, vagy ha ez nem lehetséges, külföldi örökbefogadásának elősegítése érdekében a gyermeket és az örökbe fogadni szándékozó személyt nyilvántartó szakszolgálat, az országos örökbefogadási nyilvántartást vezető szerv és a nemzetközi örökbefogadási ügyekben eljáró központi hatóság (a továbbiakban: központi hatóság) egymással folyamatosan együttműködik.
+148/A. §[^380] (1) A gyermek hazai, vagy ha ez nem lehetséges, külföldi örökbefogadásának elősegítése érdekében a gyermeket és az örökbe fogadni szándékozó személyt nyilvántartó szakszolgálat, az országos örökbefogadási nyilvántartást vezető szerv és a nemzetközi örökbefogadási ügyekben eljáró központi hatóság (a továbbiakban: központi hatóság) egymással folyamatosan együttműködik.
 
 (2) Ha az országos örökbefogadási nyilvántartást vezető szerv arról értesítette a gyermeket és az örökbe fogadni szándékozó személyt nyilvántartó szakszolgálatot, hogy az országos örökbefogadási nyilvántartásban szerepel olyan örökbe fogadni szándékozó személy, aki várhatóan megfelelő szülő-gyermek kapcsolatot tud kialakítani a gyermekkel, akkor
 
@@ -22,4 +22,4 @@ f) az örökbe fogadni szándékozó személyt nyilvántartó szakszolgálat a g
 
 (6) A személyes kapcsolatfelvétel és a kötelező gondozási idő eredménytelensége esetén a szakszolgálat az okok megjelölésével haladéktalanul tájékoztatja a központi hatóságot.
 
-[^359]: A 148/A. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be.
+[^380]: A 148/A. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be.

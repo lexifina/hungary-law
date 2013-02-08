@@ -1,8 +1,8 @@
-## A családi pótlék felhasználása[^285]
+## A családi pótlék felhasználása[^306]
 
-125/B. §[^286] (1) A gyermekotthon vezetője gondoskodik a gyermekotthonban elhelyezett gyermek családi pótlékának a Gyvt. 53. §-a (7) bekezdése szerinti, személyre szóló felhasználásáról.
+125/B. §[^307] (1) A gyermekotthon vezetője gondoskodik a gyermekotthonban elhelyezett gyermek családi pótlékának a Gyvt. 53. §-a (7) bekezdése szerinti, személyre szóló felhasználásáról.
 
-(2)[^287] A gyermekotthon vezetője vagy a közös igazgatású intézmény vezetője kezdeményezi a fenntartónál vagy a gyermekotthon gazdálkodásáért felelős szervnél, hogy intézkedjen azon letéti számla megnyitásának engedélyezése felől, amelyre a családi pótlékot folyósító szerv a családi pótlék összegét a gyermek ellátásának kiegészítésére folyósítja (a továbbiakban: családi pótlék letéti számla).
+(2)[^308] A gyermekotthon vezetője vagy a közös igazgatású intézmény vezetője kezdeményezi a fenntartónál vagy a gyermekotthon gazdálkodásáért felelős szervnél, hogy intézkedjen azon letéti számla megnyitásának engedélyezése felől, amelyre a családi pótlékot folyósító szerv a családi pótlék összegét a gyermek ellátásának kiegészítésére folyósítja (a továbbiakban: családi pótlék letéti számla).
 
 (3) A (2) bekezdés szerinti engedély megadását követően az önállóan működő és gazdálkodó gyermekotthon vezetője, a közös igazgatású intézmény vezetője vagy a gyermekotthon gazdálkodásáért felelős szerv vezetője megnyitja a családi pótlék letéti számlát.
 
@@ -10,21 +10,21 @@
 
 a) a közös igazgatású intézmény vezetője vagy a gyermekotthon gazdálkodásáért felelős szerv vezetője a gyermekotthon vezetőjével, ha a közös igazgatású intézmény vezetője vagy a gyermekotthon gazdálkodásáért felelős szerv vezetője nyitotta a letéti számlát,
 
-b)[^288]
+b)[^309]
 
-c)[^289]
+c)[^310]
 
 (5) A gyermekotthon vezetője vagy a közös igazgatású intézmény vezetője – az intézmény szervezeti és működési szabályzata mellékleteként – szabályzatot készít a családi pótlék személyre szóló felhasználása során követendő eljárásról (a továbbiakban: szabályzat). Közös igazgatású intézmény esetén a szabályzatot a gyermekotthon vezetőjének bevonásával kell elkészíteni, és külön kell rendelkezni az egyes gyermekotthoni egységekre vonatkozó szabályokról.
 
 (6) A gyermekotthon vezetője
 
-a)[^290] a gyermek véleményének figyelembevételével gondoskodik a családi pótlék személyre szóló felhasználásáról, amelynek során lehetőség van legfeljebb az éves gyámi számadási időszakon belül többhavi családi pótlék összegyűjtésére és együttes felhasználására, illetve – az e) pontban szereplő beszámoló elkészítésével egyidejűleg – a fel nem használt összeg gyámhatósági fenntartásos betétben történő elhelyezésére,
+a)[^311] a gyermek véleményének figyelembevételével gondoskodik a családi pótlék személyre szóló felhasználásáról, amelynek során lehetőség van legfeljebb az éves gyámi számadási időszakon belül többhavi családi pótlék összegyűjtésére és együttes felhasználására, illetve – az e) pontban szereplő beszámoló elkészítésével egyidejűleg – a fel nem használt összeg gyámhatósági fenntartásos betétben történő elhelyezésére,
 
 b) a 7. számú melléklet szerinti kimutatást vezet a családi pótlék személyre szóló felhasználásáról, amelyet évente, a családi pótlék személyre szóló felhasználásáról készített beszámoló befejezésével egyidejűleg zár le,
 
-c)[^291] a helyszíni ellenőrzések során – a (7) bekezdésben meghatározott kivételekkel –bizonylattal, ideértve a csoportos számlát is, igazolja a családi pótlék felhasználását,
+c)[^312] a helyszíni ellenőrzések során – a (7) bekezdésben meghatározott kivételekkel –bizonylattal, ideértve a csoportos számlát is, igazolja a családi pótlék felhasználását,
 
-d)[^292] gondoskodik a letéti számlán a gyermek tekintetében összegyűlt családi pótléknak
+d)[^313] gondoskodik a letéti számlán a gyermek tekintetében összegyűlt családi pótléknak
 
 da) a gyermek gondozási helyének megváltozása esetén az új gondozási helyként kijelölt gyermekotthon, illetve bentlakásos szociális intézmény családi pótlék letéti számlájára utalásáról vagy a nevelőszülőnek történő kifizetéséről,
 
@@ -38,9 +38,9 @@ ea) amennyiben ő a gyermek gyámja, a gyámhivatalnak, vagy
 
 eb) amennyiben nem ő a gyermek gyámja, a gyámnak, a hivatásos gyámnak vagy a vagyonkezelő eseti gondnoknak.
 
-(6a)[^293] A 7. számú melléklet szerinti kimutatáshoz és a (6) bekezdés e) pontja szerinti beszámolóhoz nem kell csatolni a (6) bekezdés c) pontja szerinti bizonylatokat.
+(6a)[^314] A 7. számú melléklet szerinti kimutatáshoz és a (6) bekezdés e) pontja szerinti beszámolóhoz nem kell csatolni a (6) bekezdés c) pontja szerinti bizonylatokat.
 
-(7)[^294] A gyermekotthon vezetőjének nem kell bizonylattal igazolnia
+(7)[^315] A gyermekotthon vezetőjének nem kell bizonylattal igazolnia
 
 a) a családi pótléknak a – 3. számú melléklet szerint nyilvántartott – zsebpénz kifizetésére felhasznált részét,
 
@@ -52,13 +52,13 @@ c) a családi pótléknak a gyámhatósági fenntartásos betétbe befizetett r�
 
 (9) A gyámi, gondozói tanácsadó és a gyermekotthon fenntartója ellenőrizheti a családi pótlék személyre szóló felhasználását.
 
-[^285]: A 125/B. §-t megelőző alcmíet a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be.
-[^286]: A 125/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be; alkalmazására lásd e módosító rendelet 19. § (3)–(5) bekezdését.
-[^287]: A 125/B. § (2) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 13. § e) pontja szerint módosított szöveg.
-[^288]: A 125/B. § (4) bekezdés b) pontját a 77/2011. (XII. 30.) NEFMI rendelet 14. § b) pontja hatályon kívül helyezte.
-[^289]: A 125/B. § (4) bekezdés c) pontját a 77/2011. (XII. 30.) NEFMI rendelet 14. § b) pontja hatályon kívül helyezte.
-[^290]: A 125/B. § (6) bekezdés a) pontja a 77/2011. (XII. 30.) NEFMI rendelet 11. §. (1) bekezdésével megállapított szöveg.
-[^291]: A 125/B. § (6) bekezdés c) pontja a 77/2011. (XII. 30.) NEFMI rendelet 11. §. (2) bekezdésével megállapított szöveg.
-[^292]: A 125/B. § (6) bekezdés d) pontja a 28/2010. (XII. 30.) NEFMI rendelet 16. §-ával megállapított szöveg.
-[^293]: A 125/B. § (6a) bekezdését a 77/2011.(XII. 30.) NEFMI rendelet 11. § (3) bekezdése iktatta be.
-[^294]: A 125/B. § (7) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 11. § (4) bekezdése iktatta be.
+[^306]: A 125/B. §-t megelőző alcmíet a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be.
+[^307]: A 125/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be; alkalmazására lásd e módosító rendelet 19. § (3)–(5) bekezdését.
+[^308]: A 125/B. § (2) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 13. § e) pontja szerint módosított szöveg.
+[^309]: A 125/B. § (4) bekezdés b) pontját a 77/2011. (XII. 30.) NEFMI rendelet 14. § b) pontja hatályon kívül helyezte.
+[^310]: A 125/B. § (4) bekezdés c) pontját a 77/2011. (XII. 30.) NEFMI rendelet 14. § b) pontja hatályon kívül helyezte.
+[^311]: A 125/B. § (6) bekezdés a) pontja a 77/2011. (XII. 30.) NEFMI rendelet 11. §. (1) bekezdésével megállapított szöveg.
+[^312]: A 125/B. § (6) bekezdés c) pontja a 77/2011. (XII. 30.) NEFMI rendelet 11. §. (2) bekezdésével megállapított szöveg.
+[^313]: A 125/B. § (6) bekezdés d) pontja a 28/2010. (XII. 30.) NEFMI rendelet 16. §-ával megállapított szöveg.
+[^314]: A 125/B. § (6a) bekezdését a 77/2011.(XII. 30.) NEFMI rendelet 11. § (3) bekezdése iktatta be.
+[^315]: A 125/B. § (7) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 11. § (4) bekezdése iktatta be.

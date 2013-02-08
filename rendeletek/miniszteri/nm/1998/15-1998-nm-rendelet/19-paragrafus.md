@@ -2,13 +2,9 @@
 
 ## alkalmazására
 
-19. § (1) A gyermekjóléti szolgálat a gyermekvédelmi gondoskodás körébe tartozó hatósági intézkedések közül javaslatot tehet
+19. § (1)[^74] A gyermekjóléti szolgálat a gyermekvédelmi gondoskodás körébe tartozó hatósági intézkedések közül javaslatot tehet a gyámhivatalnak a gyermek védelembe vételére, ideiglenes hatályú elhelyezésére vagy nevelésbe vételére.
 
-a) a jegyzőnek a gyermek védelembe vételére, illetve ideiglenes hatályú elhelyezésére,
-
-b) a városi gyámhivatalnak a gyermek ideiglenes hatályú elhelyezésére vagy nevelésbe vételére.
-
-(2)[^66] Az (1) bekezdés szerinti javaslatban a gyermekjóléti szolgálat a gyermekvédelmi nyilvántartás megfelelő adatlapján ismerteti a gyermek helyzetét, különösen
+(2)[^75] Az (1) bekezdés szerinti javaslatban a gyermekjóléti szolgálat a gyermekvédelmi nyilvántartás megfelelő adatlapján ismerteti a gyermek helyzetét, különösen
 
 a) a veszélyeztető körülményeket, azoknak a gyermekre gyakorolt hatását,
 
@@ -22,4 +18,5 @@ e) a gyermeknek és a szülőnek (törvényes képviselőnek) a javaslattétel e
 
 (3) A gyermeket fenyegető közvetlen és súlyos veszély esetén a szolgálat csak a veszély tényét és jellegét nevezi meg, és a többi adat feltárásának mellőzésével tesz javaslatot a hatóság intézkedésére. A hiányzó adatokat a hatóság felhívásától függően szerzi be.
 
-[^66]: A 19. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 16. §-ával megállapított szöveg.
+[^74]: A 19. § (1) bekezdése a 11/2013. (II. 7.) EMMI rendelet 43. §-ával megállapított szöveg.
+[^75]: A 19. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 16. §-ával megállapított szöveg.
