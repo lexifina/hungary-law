@@ -8,6 +8,7 @@
 
 (3) A tanácsadást követően a szakértő az örökbe fogadni szándékozó szülő alkalmasságára vonatkozó megállapításait megküldi az örökbe fogadni szándékozó szülő lakóhelye szerint illetékes területi gyermekvédelmi szakszolgálatnak.
 
-(4) Ha a szakértő az örökbe fogadni szándékozó szülő által történő örökbefogadást nem javasolja, az örökbe fogadni szándékozó szülő kérelmére a gyámhivatal által kirendelt igazságügyi szakértő megismétli a tanácsadást.
+(4)[^3] Ha a szakértő az örökbe fogadni szándékozó szülő által történő örökbefogadást nem javasolja, az örökbe fogadni szándékozó szülő kérelmére a járási (fővárosi kerületi) gyámhivatal által kirendelt igazságügyi szakértő megismétli a tanácsadást.
 
 [^2]: A 13. (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 27. §-a szerint módosíott szöveg.
+[^3]: A 13. § (4) bekezdése a 11/2013. (II. 7.) EMMI rendelet 48. §-a szerint módosított szöveg.
