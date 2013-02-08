@@ -10,47 +10,47 @@
 
 | 3. | Johan Béla Országos Epidemiológiai Központ | OEK | 1097 Budapest, Gyáli út 2–6. |
 
-| 4. | Országos Egészségfejlesztési Központ |  | 1062 Budapest, Andrássy út 82. |
+| 4. |  |  |  |
 
-| 5. | Állami Népegészségügyi és Tisztiorvosi Szolgálat Fővárosi Intézete |  | 1939 Budapest, Váci út 174. |
+| 5. |  |  |  |
 
-| 6. | ÁNTSZ Bács-Kiskun Megyei Intézete |  | 6000 Kecskemét, Balaton u. 19. |
+| 6. |  |  |  |
 
-| 7. | ÁNTSZ Baranya Megyei Intézete |  | 7601 Pécs, Szabadság u. 7. |
+| 7. |  |  |  |
 
-| 8. | ÁNTSZ Békés Megyei Intézete |  | 5600 Békéscsaba, Gyulai út 61. |
+| 8. |  |  |  |
 
-| 9. | ÁNTSZ Borsod-Abaúj-Zemplén Megyei Intézete |  | 3501 Miskolc, Meggyesalja u. 12. |
+| 9. |  |  |  |
 
-| 10. | ÁNTSZ Csongrád Megyei Intézete |  | 6726 Szeged, Derkovics fasor 7–11. |
+| 10. |  |  |  |
 
-| 11. | ÁNTSZ Fejér Megyei Intézete |  | 8000 Székesfehérvár, Mátyás király krt. 13. |
+| 11. |  |  |  |
 
-| 12. | ÁNTSZ Győr-Moson-Sopron Megyei Intézete |  | 9024 Győr, Jósika u. 16. |
+| 12. |  |  |  |
 
-| 13. | ÁNTSZ Hajdú-Bihar Megyei Intézete |  | 4028 Debrecen, Rózsahegyi u. 4. |
+| 13. |  |  |  |
 
-| 14. | ÁNTSZ Heves Megyei Intézete |  | 3301 Eger, Klapka Gy. u. 11. |
+| 14. |  |  |  |
 
-| 15. | ÁNTSZ Jász-Nagykun-Szolnok Megyei Intézete |  | 5001 Szolnok, Ady Endre út 35. |
+| 15. |  |  |  |
 
-| 16. | ÁNTSZ Komárom-Esztergom Megyei Intézete |  | 2800 Tatabánya, Erdész út 5–7. |
+| 16. |  |  |  |
 
-| 17. | ÁNTSZ Nógrád Megyei Intézete |  | 3101 Salgótarján, Bem út 7–9. |
+| 17. |  |  |  |
 
-| 18. | ÁNTSZ Pest Megyei Intézete |  | 1300 Budapest, Váradi S. u. 15. |
+| 18. |  |  |  |
 
-| 19. | ÁNTSZ Somogy Megyei Intézete |  | 7400 Kaposvár, Fodor J. tér 1. |
+| 19. |  |  |  |
 
-| 20. | ÁNTSZ Szabolcs-Szatmár-Bereg Megyei Intézete |  | 4400 Nyíregyháza, Árok út 41. |
+| 20. |  |  |  |
 
-| 21. | ÁNTSZ Tolna Megyei Intézete |  | 7100 Szekszárd, Dr. Szentgáli Gy. u. 2. |
+| 21. |  |  |  |
 
-| 22. | ÁNTSZ Vas Megyei Intézete |  | 9701 Szombathely, Sugár u. 9. |
+| 22. |  |  |  |
 
-| 23. | ÁNTSZ Veszprém Megyei Intézete |  | 8201 Veszprém, József Attila u. 36. |
+| 23. |  |  |  |
 
-| 24. | ÁNTSZ Zala Megyei Intézete |  | 8901 Zalaegerszeg, Göcseji út 24. |
+| 24. |  |  |  |
 
 | 25. | Állami Szanatórium Sopron |  | 9401 Sopron, Várisi u. 2. |
 
