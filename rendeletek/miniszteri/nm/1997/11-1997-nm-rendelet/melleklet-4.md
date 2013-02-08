@@ -12,7 +12,7 @@
 
 ## A várószobának közforgalmú helyről megközelíthetőnek kell lennie. A rendelőhelyiségben biztosítani kell a megfelelő fűtést, világítást, valamint a hideg-meleg folyóvizes kézmosási lehetőséget.
 
-## A rendelő felszereltségéről egyedileg, a konkrét tevékenység ismeretében a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézete dönt.
+## A rendelő felszereltségéről egyedileg, a konkrét tevékenység ismeretében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete dönt.
 
 4. számú melléklet a 11/1997. (V. 28.) NM rendelethez
 
