@@ -2940,7 +2940,7 @@ Minimum ágyszám: 15
 
 | Aneszteziológiai osztály |  | EL |
 
-Lásd. ULTRHANG DIAGNOSZTIKA főcsoport 5305 szakmakód alatt
+Megjegyzés:
 
 Személyi feltételhez: Belgyógyász, gasztroenterológus szakorvos (legalább 3 éves szakorvosi gyakorlat évi igazolt 200 vizsgálat), asszisztens.
 
@@ -3964,7 +3964,7 @@ A fentieken kívül olyan specialitásokat, szubdiszciplinákat képes biztosít
 
 Csecsemő- és gyermekgyógyászat nappali ellátás minimumfeltételei
 
-Összevont csecsemő- és gyermekosztályokon speciális ellátásként végezhető szubspecialitások
+Feladatai:
 
 Gyermek-nefrológia
 
