@@ -14,7 +14,7 @@
 
 | 1205/04 | Tüdőbeteg- gondozók éves jelentése | V | évenkénti | valamennyi tüdőbeteg- gondozó intézet | megyei szakfelügyelő főorvos 3 példányban | a tárgyévet követő február 15. |
 
-| fővárosi és megyei kormány- hivatal kistérségi (fővárosi kerületi) népegészségügyi intézete 1 példányban |
+| fővárosi és megyei kormány- hivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete 1 példányban |
 
 | regionális szakfelügyelő főorvos | Országos Korányi TBC és Pulmonológiai Intézet (eredetiben és összesítve) | a tárgyévet követő március 1. |
 
@@ -58,9 +58,9 @@
 
 | Gottsegen György Országos Kardiológiai Intézet | minisztérium, Országos Szakfelügyeleti Módszertani Központ, Központi Statisztikai Hivatal | március 31. |
 
-| 1617/04 | Jelentés onkológiai tevékenységről | V | évenkénti | valamennyi onkológiai feladatok ellátása céljából szervezett járóbeteg-szakrendelés és fekvőbeteg osztály, részleg | fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézete, megyei szakfelügyelő főorvos, Országos Onkológiai Intézet | a tárgyévet követő január 20. |
+| 1617/04 | Jelentés onkológiai tevékenységről | V | évenkénti | valamennyi onkológiai feladatok ellátása céljából szervezett járóbeteg-szakrendelés és fekvőbeteg osztály, részleg | fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete, megyei szakfelügyelő főorvos, Országos Onkológiai Intézet | a tárgyévet követő január 20. |
 
-| fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézete | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | január 31. |
+| fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | január 31. |
 
 | Országos Onkológiai Intézet | minisztérium, Országos Szakfelügyeleti Módszertani Központ, Központi Statisztikai Hivatal | a tárgyévet követő április 15. |
 
@@ -72,7 +72,7 @@
 
 | Országos Szakfelügyeleti Módszertani Központ | minisztérium, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
 
-| 3026/2/09 | Szakfelügyelő főorvosok éves klinikai audit beszámolója | M | évenkénti | valamennyi városi szakfelügyelő főorvos | megyei szakfelügyelő főorvos és kistérségi/kerületi tiszti főorvos | a tárgyévet követő február 28. |
+| 3026/2/09 | Szakfelügyelő főorvosok éves klinikai audit beszámolója | M | évenkénti | valamennyi városi szakfelügyelő főorvos | megyei szakfelügyelő főorvos és járási, illetve fővárosi kerületi tiszti főorvos | a tárgyévet követő február 28. |
 
 | megyei szakfelügyelő főorvos | országos szakfelügyelő főorvos és megyei tiszti főorvos | március 31. |
 
