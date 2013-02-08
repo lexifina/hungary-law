@@ -1,10 +1,10 @@
-7. §[^19] (1) A forgalmazónak a működési engedélyét a szaküzletben és a kölcsönző központban kell tartania.
+7. §[^20] (1) A forgalmazónak a működési engedélyét a szaküzletben és a kölcsönző központban kell tartania.
 
 (2) A fogyasztó vagy meghatalmazottja a szaküzletben és a kölcsönző központban szóban vagy írásban panaszt tehet. A panaszt haladéktalanul meg kell vizsgálni.
 
-(3)[^20] A fogyasztó írásbeli panaszát két példányban – a fővárosi és megyei kormányhivatalnak az üzlet helye szerint illetékes kistérségi (fővárosi kerületi) népegészségügyi intézete (a továbbiakban: kistérségi népegészségügyi intézet) által hitelesített, számozott oldalú – vásárlók könyvében teheti meg. A vásárlók könyvét a forgalmazó köteles a szaküzletben és a kölcsönző központban jól látható és hozzáférhető helyen elhelyezni.
+(3)[^21] A fogyasztó írásbeli panaszát két példányban – az üzlet helye szerint illetékes járási népegészségügyi intézete által hitelesített, számozott oldalú – vásárlók könyvében teheti meg. A vásárlók könyvét a forgalmazó köteles a szaküzletben és a kölcsönző központban jól látható és hozzáférhető helyen elhelyezni.
 
-(4)[^21] A szaküzletben és a kölcsönző központban a fogyasztót jól láthatóan és olvashatóan tájékoztatni kell arról, hogy panaszával a Nemzeti Fogyasztóvédelmi Hatóságon és a szaküzlet, a kölcsönző központ, illetve a gyártó műhely helye szerint illetékes fogyasztóvédelmi felügyelőségeken (a továbbiakban: felügyelőség), valamint a szaküzlet, a kölcsönző központ, illetve a gyártó műhely helye szerint illetékes kistérségi népegészségügyi intézeten kívül a területi gazdasági kamarák mellett működő békéltető testülethez is fordulhat. A tájékoztatón fel kell tüntetni e szervezetek címét és telefonszámát. A fenti információkat nagybetűs, kontrasztos írásmóddal is hozzáférhetővé kell tenni.
+(4)[^22] A szaküzletben és a kölcsönző központban a fogyasztót jól láthatóan és olvashatóan tájékoztatni kell arról, hogy panaszával a Nemzeti Fogyasztóvédelmi Hatóságon és a szaküzlet, a kölcsönző központ, illetve a gyártó műhely helye szerint illetékes fogyasztóvédelmi felügyelőségeken (a továbbiakban: felügyelőség), valamint a szaküzlet, a kölcsönző központ, illetve a gyártó műhely helye szerint illetékes járási népegészségügyi intézeten kívül a területi gazdasági kamarák mellett működő békéltető testülethez is fordulhat. A tájékoztatón fel kell tüntetni e szervezetek címét és telefonszámát. A fenti információkat nagybetűs, kontrasztos írásmóddal is hozzáférhetővé kell tenni.
 
 (5) A (4) bekezdés szerint közzétett információról a vakok és gyengénlátók részére szóbeli tájékoztatást kell adni.
 
@@ -12,6 +12,6 @@
 
 (7) A szaküzlet és a kölcsönző központ működésének ellenőrzésére a külön jogszabályban foglaltak az irányadóak.
 
-[^19]: A 7. § a 8/2008. (III. 4.) EüM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
-[^20]: A 7. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 49. § (1) bekezdésével megállapított szöveg.
-[^21]: A 7. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^20]: A 7. § a 8/2008. (III. 4.) EüM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
+[^21]: A 7. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 49. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.
+[^22]: A 7. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 49. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 29. § c) pontja szerint módosított szöveg.
