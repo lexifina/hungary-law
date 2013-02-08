@@ -1,3 +1,3 @@
-## Az alapszolgáltatások igénybevételére vonatkozó szabályok[^32]
+## Az alapszolgáltatások igénybevételére vonatkozó szabályok[^33]
 
-[^32]: A 18. §-t megelőző alcím a 10/2006. (XII. 27.) SZMM rendelet 8. §-ával megállapított szöveg.
+[^33]: A 18. §-t megelőző alcím a 10/2006. (XII. 27.) SZMM rendelet 8. §-ával megállapított szöveg.

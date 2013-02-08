@@ -40,7 +40,7 @@
 
 ## * nem kötelező kitölteni
 
-4. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^57]
+4. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^58]
 
 ## Egyszerűsített előgondozási adatlap
 
@@ -68,4 +68,4 @@ e) magatartás, kommunikációs készség:
 
 Az előgondozást végző személy neve, aláírása:
 
-[^57]: A 4. számú melléklet a 10/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^58]: A 4. számú melléklet a 10/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdésével megállapított szöveg.

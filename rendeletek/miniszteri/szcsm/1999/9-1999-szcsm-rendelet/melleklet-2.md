@@ -290,7 +290,7 @@
 
 ## A vagyonnyilatkozatban feltüntetett pénzvagyonról a kérelemhez mellékelni kell a bankszámlakivonat, a betétkönyv, illetve a takarékbetét-szerződés másolatát.
 
-2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^55]
+2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^56]
 
 ## ELŐGONDOZÁSI ADATLAP I.
 
@@ -376,7 +376,7 @@ b) települési önkormányzattal:
 
 c) háziorvossal, kezelőorvossal:
 
-d) gyámhivatallal:
+d) járási (fővárosi kerületi) gyámhivatallal:
 
 e) törvényes képviselővel, hozzátartozóval:
 
@@ -400,4 +400,4 @@ ____________________
 
 * nem kötelező kitölteni
 
-[^55]: Az 2. számú melléklet a 27/2010. (XII. 30.) NEFMI rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^56]: A 2. számú melléklet a 27/2010. (XII. 30.) NEFMI rendelet 10. § (2) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 46. §-a szerint módosított szöveg.

@@ -8,7 +8,7 @@ b) az igénybe vevő lakóhelye szerint illetékes szociális hatáskört gyakor
 
 c) az igénybe vevő háziorvosával, kezelőorvosával az egészségi állapotra, illetve a korábbi gyógykezelésre vonatkozó adatok megismerése céljából,
 
-d) a lakóhely szerint illetékes gyámhivatallal a cselekvőképességre vonatkozó adatok megismerése végett,
+d)[^22] a lakóhely szerint illetékes járási (fővárosi kerületi) gyámhivatallal a cselekvőképességre vonatkozó adatok megismerése végett,
 
 e) az ellátást igénybe vevő törvényes képviselőjével, illetve legközelebbi hozzátartozóival.
 
@@ -16,3 +16,4 @@ e) az ellátást igénybe vevő törvényes képviselőjével, illetve legközel
 
 [^20]: A 8. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének c) pontja hatályon kívül helyezte.
 [^21]: A 9. § (1) bekezdésének bevezető szövege a 37/2007. (XII. 22.) SZMM rendelet 16. §-ával megállapított, a 8/2010. (IX. 3.) NEFMI rendelet 4. §-a szerint módosított szöveg.
+[^22]: A 9. § (1) bekezdés d) pontja a 11/2013. (II. 7.) EMMI rendelet 46. §-a szerint módosított szöveg.
