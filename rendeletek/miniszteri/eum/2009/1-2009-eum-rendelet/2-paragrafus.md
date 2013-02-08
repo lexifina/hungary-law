@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya kiterjed az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalánál és országos intézeteinél, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerveinél és kistérségi, fővárosi kerületi népegészségügyi intézeteinél (a továbbiakban együtt: intézet) e rendelet 1. melléklete szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
+## 1. §[^1] E rendelet hatálya kiterjed az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalánál és országos intézeteinél, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerveinél és járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézeteinél (a továbbiakban együtt: intézet) e rendelet 1. melléklete szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
 
 2. § (1) A díjfizetésre kötelezett az igazgatási szolgáltatásokért az 1. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat (a továbbiakban: díj) köteles megfizetni.
 
@@ -40,7 +40,7 @@ b) az 1. melléklet XII. 3. pontja szerinti díjból az orvostudományi kutatás
 
 (12)[^6] Az 1. melléklet I.3. pontja szerinti eljárások jogorvoslati díját az Egészségügyi Engedélyezési és Közigazgatási Hivatal 10032000-00285788-00000000 számú számlájára kell befizetni.
 
-[^1]: Az 1. § a 10/2011. (III. 30.) NEFMI rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a 10/2011. (III. 30.) NEFMI rendelet 64. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 31. §-a szerint módosított szöveg.
 [^2]: A 2. § (7) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^3]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
 [^4]: A 2. § (10) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
