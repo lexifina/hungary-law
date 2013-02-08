@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^178]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^188]
 
 | Acut flaccid paralysis |
 
@@ -208,7 +208,7 @@
 
 | 2. Teendők a beteggel |
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Az értesülést követően sürgősséggel is jelentendő a megbetegedés helye szerint illetékes kistérségi népegészségügyi intézetnek és az ÁNTSZ-OEK-nek, ügyeleti időben a népegészségügyi szakigazgatási szerv ügyeletének és az ÁNTSZ-OEK ügyeletének. Járványügyi értesítést kell küldeni a területileg illetékes hatósági állatorvosnak is. |
+| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Az értesülést követően sürgősséggel is jelentendő a megbetegedés helye szerint illetékes járási népegészségügyi intézetnek és az ÁNTSZ-OEK-nek, ügyeleti időben a népegészségügyi szakigazgatási szerv ügyeletének és az ÁNTSZ-OEK ügyeletének. Járványügyi értesítést kell küldeni a területileg illetékes hatósági állatorvosnak is. |
 
 |  | 2.1.1. Esetek osztályozása |
 
@@ -282,7 +282,7 @@
 
 | 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt 20 ml alvadásgátló nélküli vért kell venni, és – előzetes telefonos értesítéssel egy időben – haladéktalanul az ÁNTSZ-OEK Bakteriológiai osztályára kell küldeni. Csecsemő-botulizmus gyanúja esetén székletmintát kell beküldeni. A házilag készített gyanús élelmiszerből a kistérségi népegészségügyi intézet munkatársa vesz mintát, és azt a területileg illetékes megyei élelmiszer-mikrobiológiai laboratóriumba küldi. |
+|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt 20 ml alvadásgátló nélküli vért kell venni, és – előzetes telefonos értesítéssel egy időben – haladéktalanul az ÁNTSZ-OEK Bakteriológiai osztályára kell küldeni. Csecsemő-botulizmus gyanúja esetén székletmintát kell beküldeni. A házilag készített gyanús élelmiszerből a járási népegészségügyi intézet munkatársa vesz mintát, és azt a területileg illetékes megyei élelmiszer-mikrobiológiai laboratóriumba küldi. |
 
 |  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
 
@@ -752,7 +752,7 @@
 
 | 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A kontakt személyek és az azonos ételt fogyasztók szűrővizsgálatát el kell végezni. |
 
-| 3.3. Járványügyi megfigyelés: | A beteggel közvetlenül érintkezett személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 2.2. pontban megjelölt közösségekbe/intézménybe járnak, illetve munkakört/tevékenységet folytatnak, a közösség/intézmény látogatásától, illetve munkakörüktől/tevékenységüktől el kell tiltani. A közösség/intézmény látogatását, illetve munkakörüket/tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő 4. napja után egy alkalommal vett székletminta bakteriológiai vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni. A fenti közösségek/intézmények látogatását, illetve munkakörüket/tevékenységüket csak akkor folytathatják, ha a székletbakteriológiai vizsgálat eredménye negatívvá válik. Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0–6 éves korig) 7 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek és dolgozó székletvizsgálatát. A baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad. Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát, a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell és a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor a shigellosisban szenvedő beteggel utoljára érintkezett. Erről a kistérségi népegészségügyi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni. |
+| 3.3. Járványügyi megfigyelés: | A beteggel közvetlenül érintkezett személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 2.2. pontban megjelölt közösségekbe/intézménybe járnak, illetve munkakört/tevékenységet folytatnak, a közösség/intézmény látogatásától, illetve munkakörüktől/tevékenységüktől el kell tiltani. A közösség/intézmény látogatását, illetve munkakörüket/tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő 4. napja után egy alkalommal vett székletminta bakteriológiai vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni. A fenti közösségek/intézmények látogatását, illetve munkakörüket/tevékenységüket csak akkor folytathatják, ha a székletbakteriológiai vizsgálat eredménye negatívvá válik. Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0–6 éves korig) 7 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek és dolgozó székletvizsgálatát. A baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad. Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát, a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell és a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor a shigellosisban szenvedő beteggel utoljára érintkezett. Erről a járási népegészségügyi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni. |
 
 | 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
 
@@ -2384,4 +2384,4 @@
 
 | 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
 
-[^178]: Az 1. melléklet a 21/2012. (IV. 4.) NEFMI rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^188]: Az 1. melléklet a 21/2012. (IV. 4.) NEFMI rendelet 24. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.

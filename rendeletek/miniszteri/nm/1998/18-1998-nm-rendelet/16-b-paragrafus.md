@@ -1,4 +1,4 @@
-16/B. §[^91] (1) A mikrobiológiai referencia laboratórium személyi és tárgyi feltételei alapján alkalmas a referencia tevékenység körébe tartozó, speciális mikrobiológiai diagnosztikai, tipizáló és minőségellenőrzési tevékenységek elvégzésére nemzetközileg elfogadott módszerekkel. Alapvető feladatai:
+16/B. §[^95] (1) A mikrobiológiai referencia laboratórium személyi és tárgyi feltételei alapján alkalmas a referencia tevékenység körébe tartozó, speciális mikrobiológiai diagnosztikai, tipizáló és minőségellenőrzési tevékenységek elvégzésére nemzetközileg elfogadott módszerekkel. Alapvető feladatai:
 
 a) referencia tevékenység a diagnosztika területén (kórokozó kimutatása, laboratóriumi eredmények megerősítése);
 
@@ -34,4 +34,4 @@ c) részt vesz a nemzeti surveillance rendszerekben és járványok kivizsgálá
 
 d) a feladat elvégzéséhez szükséges megfelelő kapacitással rendelkezik.
 
-[^91]: A 16/B. §-t a 21/2012. (IV. 4.) NEFMI rendelet 11. §-a iktatta be.
+[^95]: A 16/B. §-t a 21/2012. (IV. 4.) NEFMI rendelet 11. §-a iktatta be.

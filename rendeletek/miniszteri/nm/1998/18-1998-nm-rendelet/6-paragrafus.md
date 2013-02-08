@@ -6,7 +6,7 @@ a) a lakosság egészét vagy több megye lakosságát érinti, az országos tis
 
 b)[^30] a megye lakosságának egészét vagy a megyén belül több település lakosságát érinti, akkor az országos tisztifőorvos által szakmailag jóváhagyott kockázatértékelés alapján a megyei tisztifőorvos,
 
-c)[^31] egy település lakosságát érinti, akkor az országos tisztifőorvos által szakmailag jóváhagyott kockázatértékelés alapján a kistérségi tisztifőorvos
+c)[^31] egy település lakosságát érinti, akkor az országos tisztifőorvos által szakmailag jóváhagyott kockázatértékelés alapján a járási tisztifőorvos
 
 ## rendeli el.
 
@@ -61,7 +61,7 @@ b) védőoltást végző egészségügyi dolgozó számára a kézmosási, illet
 c) veszélyes hulladék kezeléséhez szükséges tárgyi feltétel.
 
 [^30]: A 6. § (1) bekezdés b) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^31]: A 6. § (1) bekezdés b) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^31]: A 6. § (1) bekezdés c) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
 [^32]: A 6. § (2) bekezdés nyitó szövegrésze a 21/2012. (IV. 4.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^33]: A 6. § (2) bekezdés k) pontját az 5/2009. (III. 20.) EüM rendelet 2. § (1) bekezdése iktatta be.
 [^34]: A 6. § (4) bekezdés a) pontja az 5/2009. (III. 20.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
