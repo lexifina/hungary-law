@@ -10,7 +10,7 @@
 
 a) a mérgezettek orvosi elsősegélynyújtását és egészségügyi ellátását végzők részére a betegellátáshoz szükséges mértékben;
 
-b)[^41] az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala vagy országos intézete, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve és kistérségi (fővárosi kerületi) népegészségügyi intézete részére;
+b)[^41] az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala vagy országos intézete, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve és járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete részére;
 
 c)[^42] a munkavédelmi hatóság részére munkabalesetek, fokozott expozíciós esetek, foglalkozási megbetegedések megelőzéséhez;
 
@@ -48,7 +48,7 @@ i)[^43] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^38]: A 8. § (1) bekezdése a 25/2010. (V. 12.) EüM rendelet 1. § (7) bekezdésével megállapított szöveg.
 [^39]: A 8. § (2) bekezdése a 25/2010. (V. 12.) EüM rendelet 2. § m) pontja szerint módosított szöveg.
 [^40]: A 8. § (3) bekezdés nyitó szövegrésze a 25/2010. (V. 12.) EüM rendelet 2. § n) pontja szerint módosított szöveg.
-[^41]: A 8. § (3) bekezdés b) pontja a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^41]: A 8. § (3) bekezdés b) pontja a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés a) pontja, a 11/2013. (II. 7.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
 [^42]: A 8. § (3) bekezdésének c) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^43]: A 8. § (3) bekezdésének i) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^44]: A 8. § (4) bekezdése a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének f) pontja, az 1/2009. (I. 30.) EüM rendelet 3. § (4) bekezdése szerint módosított szöveg.

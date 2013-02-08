@@ -1,4 +1,4 @@
-## Veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenység és abban bekövetkezett változás kistérségi népegészségügyi intézethez történő elektronikus bejelentése
+## Veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenység és abban bekövetkezett változás járási népegészségügyi intézethez történő elektronikus bejelentése
 
 ## 1. Tevékenységet végző (cég)
 

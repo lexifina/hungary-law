@@ -1,4 +1,4 @@
-## 11. §[^53] A gyártók, az importálók, a munkáltaltók, illetőleg a tevékenységet végzők felelősségi körébe tartozó, e rendelet szerinti kötelezettségek betartását a fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézete ellenőrzi.
+## 11. §[^53] A gyártók, az importálók, a munkáltaltók, illetőleg a tevékenységet végzők felelősségi körébe tartozó, e rendelet szerinti kötelezettségek betartását a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete ellenőrzi.
 
 12. § (1) Ez a rendelet 2001. január 1. napján lép hatályba, egyidejűleg a veszélyes anyagokkal és veszélyes készítményekkel kapcsolatos eljárásról szóló 233/1996. (XII. 26.) Korm. rendelet végrehajtásáról szóló 4/1997. (II. 21.) NM rendelet és a módosításáról rendelkező 31/1997. (X. 17.) NM rendelet a hatályát a veszti.
 
@@ -24,7 +24,7 @@ c) a Bizottság 440/2008/EK rendelete (2008. május 30.) a vegyi anyagok regiszt
 
 d)[^60] az Európai Parlament és a Tanács 1272/2008/EK rendelete (2008. december 16.) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról.
 
-[^53]: A 11. § a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^53]: A 11. § a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés c) pontja, a 11/2013. (II. 7.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
 [^54]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 171. pontja hatályon kívül helyezte.
 [^55]: A 12. § (4) bekezdésének felvezető szövege az 1/2005. (I. 7.) EüM rendlet 5. §-ának (1) bekezdésével megállapított szöveg.
 [^56]: A 12. § (4) bekezdésének a) pontja a 38/2008. (X. 3.) EüM rendelet 5. § (1) bekezdésével megállapított szöveg.
