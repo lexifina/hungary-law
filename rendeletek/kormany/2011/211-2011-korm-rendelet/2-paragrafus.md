@@ -1,1 +1,0 @@
-## „(4) Az üzembezárási támogatás mértéke a melléklet 1. pontjában foglalt táblázat szerinti, az elszámolás tárgyát képező naptári évre (a továbbiakban: tárgyév) vonatkozó összeget, és a rendkívüli támogatás 2011–2018. tárgyévekre megállapított mértéke a melléklet 2. pontjában foglalt táblázat szerinti összeget nem haladhatja meg.”
