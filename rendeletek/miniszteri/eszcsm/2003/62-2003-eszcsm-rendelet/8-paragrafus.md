@@ -1,4 +1,4 @@
-8. § (1)[^13] Az élelmiszer eredetű megbetegedést vagy annak gyanúját a kistérségi népegészségügyi intézet – telefonon, elektronikus úton vagy faxon – a gyors vészjelző rendszer keretében haladéktalanul jelenteni köteles a megyei népegészségügyi szakigazgatási szervnek, ha
+8. § (1)[^13] Az élelmiszer eredetű megbetegedést vagy annak gyanúját a járási népegészségügyi intézet – telefonon, elektronikus úton vagy faxon – a gyors vészjelző rendszer keretében haladéktalanul jelenteni köteles a megyei népegészségügyi szakigazgatási szervnek, ha
 
 a) harminc vagy több személy megbetegedéséről,
 
@@ -42,7 +42,7 @@ d) a megtett intézkedéseket.
 
 (8)[^19] Az (1) bekezdés szerinti esemény vizsgálat lezárásakor a megyei népegészségügyi szakigazgatási szerv tesz összefoglaló jelentést az OTH és az OÉTI részére.
 
-[^13]: A 8. § (1) bekezdés nyitó szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont ea) alpontja szerint módosított szöveg.
+[^13]: A 8. § (1) bekezdés nyitó szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont ea) alpontja, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
 [^14]: A 8. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont eb) alpontja szerint módosított szöveg.
 [^15]: A 8. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont eb) alpontja szerint módosított szöveg.
 [^16]: A 8. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont ec) alpontja szerint módosított szöveg.

@@ -50,4 +50,4 @@
 
 3. számú melléklet a 62/2003. (X. 27.) ESZCSM rendelethez[^24]
 
-[^24]: A 3. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának ba) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 3. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának ba) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.

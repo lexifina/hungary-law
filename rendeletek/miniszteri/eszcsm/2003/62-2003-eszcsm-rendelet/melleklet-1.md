@@ -2,13 +2,13 @@
 
 Élelmiszerfertőzés, élelmiszermérgezés bejelentő lap
 
-## Az élelmiszerfertőzésről, élelmiszermérgezésről vagy annak gyanújáról az észlelő orvos haladéktalanul – távbeszélőn vagy személyesen – bejelentést köteles tenni azon fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetének (munkaszüneti napon azon megyei népegészségügyi szakigazgatási szervnek), amelynek illetékességi területén működik. A bejelentést e lap kitöltésével írásban is meg kell tennie. A bejelentő lapot két példányban kell kiállítani, a másolat a bejelentőnél marad.
+## Az élelmiszerfertőzésről, élelmiszermérgezésről vagy annak gyanújáról az észlelő orvos haladéktalanul – távbeszélőn vagy személyesen – bejelentést köteles tenni azon fővárosi és megyei kormányhivatal járási népegészségügyi intézetének (munkaszüneti napon azon megyei népegészségügyi szakigazgatási szervnek), amelynek illetékességi területén működik. A bejelentést e lap kitöltésével írásban is meg kell tennie. A bejelentő lapot két példányban kell kiállítani, a másolat a bejelentőnél marad.
 
 ## Fővárosi és Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv
 
 ## …………………………………………………….
 
-## Kistérségi népegészségügyi intézet – megyei népegészségügyi szakigazgatási szerv
+## Járási népegészségügyi intézet – megyei népegészségügyi szakigazgatási szerv
 
 ## részére
 
@@ -58,4 +58,4 @@ __________
 
 ** A bejelentéskor ismert legkorábbi időpont, amikor valamely tünet egy betegnél észlelésre került.
 
-[^22]: Az 1. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának bc)–be) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése szerint módosított szöveg.
+[^22]: Az 1. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának bc)–be) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.

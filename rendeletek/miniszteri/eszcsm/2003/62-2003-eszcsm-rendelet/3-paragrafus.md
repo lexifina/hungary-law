@@ -6,7 +6,7 @@ b) a munkahely, intézmény, alkalmi közösség (tábor, kirándulócsoport stb
 
 c) az élelmiszer-előállító, vendéglátó vagy élelmiszerkereskedelmi tevékenységet végző jogi személy, természetes személy és a jogi személyiséggel nem rendelkező szervezet – beleértve az élelmiszer importőrt is – (a továbbiakban együtt: előállító, illetőleg forgalmazó), ha tudomására jut, hogy az általa előállított, illetőleg forgalomba hozott élelmiszert fogyasztók körében ilyen merül fel.
 
-(2)[^1] A bejelentést az élelmiszer eredetű megbetegedés vagy annak gyanúja észlelését követően haladéktalanul – telefonon, faxon vagy személyesen – a megbetegedés, illetve annak gyanúja észlelésének helye szerint illetékes fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézetéhez (a továbbiakban: kistérségi népegészségügyi intézet) kell megtenni. Munkaidőn kívül a bejelentést a megbetegedés, illetve annak gyanúja észlelésének helye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervéhez (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) kell megtenni.
+(2)[^1] A bejelentést az élelmiszer eredetű megbetegedés vagy annak gyanúja észlelését követően haladéktalanul – telefonon, faxon vagy személyesen – a megbetegedés, illetve annak gyanúja észlelésének helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetéhez (a továbbiakban: járási népegészségügyi intézet) kell megtenni. Munkaidőn kívül a bejelentést a megbetegedés, illetve annak gyanúja észlelésének helye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervéhez (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) kell megtenni.
 
 (3) A bejelentésben közölni kell
 
@@ -38,4 +38,4 @@ e) súlyos lefolyású vagy halálos kimenetelű élelmiszer eredetű megbeteged
 
 (6) Az orvos köteles a betegtől – lehetőleg az antibakteriális, illetve antitoxinos kezelés megkezdése előtt – a laboratóriumi vizsgálatok céljára a 2. számú melléklet figyelembevételével vizsgálati anyagot venni, és azt a legrövidebb időn belül eljuttatni laboratóriumi vizsgálatra.
 
-[^1]: A 3. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^1]: A 3. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés a) pontja, a 11/2013. (II. 7.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
