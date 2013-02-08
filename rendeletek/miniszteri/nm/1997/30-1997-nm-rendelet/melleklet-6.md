@@ -54,7 +54,7 @@
 
 ## --------------------
 
-6. számú melléklet a 30/1997. (X. 11.) NM rendelethez[^28]
+6. számú melléklet a 30/1997. (X. 11.) NM rendelethez[^43]
 
 Kimutatás
 
@@ -80,4 +80,4 @@ Felhasználás
 
 ** Az egyenlegnek legkésőbb a gyermek családi pótléka személyre szóló felhasználásáról készített beszámoló időpontjában nullának kell lennie.
 
-[^28]: A 6. számú mellékletet a 77/2011. (XII. 30.) NEFMI rendelet 16. §-a iktatta be.
+[^43]: A 6. számú mellékletet a 77/2011. (XII. 30.) NEFMI rendelet 16. §-a iktatta be.

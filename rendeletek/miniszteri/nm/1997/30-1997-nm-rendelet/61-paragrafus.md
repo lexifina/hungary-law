@@ -6,6 +6,6 @@ b) a fiatalkorú lakó- vagy tartózkodási helye szerint illetékes rendőrkapi
 
 c) az ügyészt, a vádirat benyújtásáig.
 
-(2)[^22] A fiatalkorú személyazonosító igazolványát a fogvatartási hely megváltoztatásáig, illetve szabadulásáig az intézetben kell őrizni.
+(2)[^37] A fiatalkorú személyazonosító igazolványát a fogvatartási hely megváltoztatásáig, illetve szabadulásáig az intézetben kell őrizni.
 
-[^22]: A 61. § (2) bekezdése a 4/2002. (IX. 4.) ESZCSM rendelet 4. §-ával megállapított szöveg.
+[^37]: A 61. § (2) bekezdése a 4/2002. (IX. 4.) ESZCSM rendelet 4. §-ával megállapított szöveg.
