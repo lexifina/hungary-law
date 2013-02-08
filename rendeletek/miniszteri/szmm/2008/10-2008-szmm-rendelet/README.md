@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-10-20-1
 | 2009-12-04 | 2008-10-20-1X.3 | 10/2008. (VI. 28.) SZMM rendelet |
 | 2013-01-01 | 2008-10-20-1X.4 | 49/2012. (XII. 15.) EMMI rendelet |
 | 2013-01-09 | 2008-10-20-1X.5 | 1/2013. (I. 8.) NGM rendelet |
+| 2013-02-08 | 2008-10-20-1X.6 | 26/2009. (XI. 26.) SZMM rendelet |
