@@ -1,4 +1,4 @@
-## 5. §[^10]
+## 5. §[^12]
 
 ## 6. § A 3. § (1) bekezdés a) pontja alapján kijelölt kórház vezetője
 
@@ -10,4 +10,4 @@ c) meghatározza a kórház és a szükséggyógyintézet közötti kapcsolattar
 
 d) gondoskodik az egészségügyi fogyóanyagok pótlásáról.
 
-[^10]: Az 5. §-t a 42/2012. (XI. 28.) EMMI rendelet 3. § d) pontja hatályon kívül helyezte.
+[^12]: Az 5. §-t a 42/2012. (XI. 28.) EMMI rendelet 3. § d) pontja hatályon kívül helyezte.

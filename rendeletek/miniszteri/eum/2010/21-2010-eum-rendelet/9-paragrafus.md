@@ -1,6 +1,6 @@
 ## 5. Vegyes rendelkezések
 
-9. § (1)[^17] Kijárási tilalom bevezetése esetén a megyei tisztifőorvos kezdeményezi az egészségügyi feladatok ellátásához szükséges személyek mentesítését a rendelkezés hatálya alól.
+9. § (1)[^19] Kijárási tilalom bevezetése esetén a megyei tisztifőorvos kezdeményezi az egészségügyi feladatok ellátásához szükséges személyek mentesítését a rendelkezés hatálya alól.
 
 (2) Az országos tisztifőgyógyszerész a honvédelmi feladatok végrehajtásának időszakában
 
@@ -8,7 +8,7 @@ a) folyamatosan figyelemmel kíséri a gyógyszerellátás alakulását, megtesz
 
 b) szükség esetén javaslatot tesz a miniszter részére a gyógyszerek vénynélküli kiszolgálásának átmeneti korlátozására vonatkozóan.
 
-(3)[^18] Kitelepítés bevezetése esetén a fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézetének tisztifőorvosa az illetékességi területén közegészségügyi- járványügyi szempontból ellenőrzi a közösségi befogadó helyeket, továbbá megszervezi az áttelepülő lakosság egészségügyi ellátását.
+(3)[^20] Kitelepítés bevezetése esetén a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének tisztifőorvosa az illetékességi területén közegészségügyi- járványügyi szempontból ellenőrzi a közösségi befogadó helyeket, továbbá megszervezi az áttelepülő lakosság egészségügyi ellátását.
 
-[^17]: A 9. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 70. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^18]: A 9. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 70. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^19]: A 9. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 70. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 9. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 70. § (3) bekezdés e) pontja, a 11/2013. (II. 7.) EMMI rendelet 37. § b) pontja szerint módosított szöveg.
