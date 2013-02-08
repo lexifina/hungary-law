@@ -6,13 +6,13 @@
 
 a) veszélyeztető magatartást tanúsít,
 
-b)–c)[^195]
+b)–c)[^198]
 
 d) orvosi ellátást és állandó ápolást igényel.
 
-(3)[^196] Az (1) és (2) bekezdésben foglaltakon túl az a gyermek sem gondozható fogyatékosok nappali intézményében, aki gyógypedagógiai nevelésre, oktatásra alkalmas és felvétele, elhelyezése a korának, állapotának megfelelő nevelési, oktatási intézményben biztosítható. Nem vonatkozik ez a tilalom a tanköteles és a tanítási év során nevelési, oktatási intézményi ellátásban részesülő fogyatékos gyermek tanítási szünet idején történő ellátására.
+(3)[^199] Az (1) és (2) bekezdésben foglaltakon túl az a gyermek sem gondozható fogyatékosok nappali intézményében, aki gyógypedagógiai nevelésre, oktatásra alkalmas és felvétele, elhelyezése a korának, állapotának megfelelő nevelési, oktatási intézményben biztosítható. Nem vonatkozik ez a tilalom a tanköteles és a tanítási év során nevelési, oktatási intézményi ellátásban részesülő fogyatékos gyermek tanítási szünet idején történő ellátására.
 
 (4) Fogyatékos személyek intézményébe az ellátottakat csak próbaidővel lehet felvenni. A próbaidő tartama három hónapnál hosszabb nem lehet.
 
-[^195]: A 81. § (2) bekezdésének b)–c) pontját a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének q) pontja hatályon kívül helyezte.
-[^196]: A 81. § (3) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^198]: A 81. § (2) bekezdésének b)–c) pontját a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének q) pontja hatályon kívül helyezte.
+[^199]: A 81. § (3) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Korlátozó intézkedés elrendelése
 
-101/A. §[^213] (1) A pszichiátriai betegek, szenvedélybetegek és fogyatékos személyek bentlakásos intézményében ha az ellátott személy veszélyeztető vagy közvetlen veszélyeztető magatartást tanúsít, az egészségügyről szóló 1997. évi CLIV. törvény vonatkozó rendelkezéseit kell értelemszerűen alkalmazni.
+101/A. §[^216] (1) A pszichiátriai betegek, szenvedélybetegek és fogyatékos személyek bentlakásos intézményében ha az ellátott személy veszélyeztető vagy közvetlen veszélyeztető magatartást tanúsít, az egészségügyről szóló 1997. évi CLIV. törvény vonatkozó rendelkezéseit kell értelemszerűen alkalmazni.
 
 (2) A korlátozó intézkedés alkalmazásáról a szolgáltatást nyújtó részletes eljárásrendet alakít ki a házirendben, amelynek tartalmaznia kell
 
@@ -38,4 +38,4 @@ b) a korlátozó intézkedés feloldásáról.
 
 (8) A korlátozó intézkedés feloldásáról történő tájékoztatással egyidejűleg az adatlap másolatát át kell adni, illetve meg kell küldeni az ellátottnak, valamint törvényes képviselőjének.
 
-[^213]: A 101/A. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 23. §-a iktatta a szövegbe.
+[^216]: A 101/A. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 23. §-a iktatta a szövegbe.

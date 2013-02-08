@@ -492,6 +492,6 @@
 
 ## 11. Súlyos vagy halmozottan fogyatékos személynek minősül a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvényben ekként meghatározott személy.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^253]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^257]
 
-[^253]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a szerint módosított szöveg.
+[^257]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a szerint módosított szöveg.
