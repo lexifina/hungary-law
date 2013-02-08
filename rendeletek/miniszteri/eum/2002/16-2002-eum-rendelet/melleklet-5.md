@@ -1,6 +1,6 @@
-| A kistérségi (fővárosi kerületi) népegészségügyi intézet jelentése a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részére |
+| A járási (fővárosi kerületi) népegészségügyi intézet jelentése a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részére |
 
-| A kistérségi (fővárosi kerületi) népegészségügyi intézet neve: .............................................................................................. |
+| A járási (fővárosi kerületi) népegészségügyi intézet neve: .............................................................................................. |
 
 | A jelentés vonatkozási éve: ...................................................................................................................................................... |
 
