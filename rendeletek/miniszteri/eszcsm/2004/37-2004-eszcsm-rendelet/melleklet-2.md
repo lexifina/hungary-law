@@ -1,4 +1,4 @@
-2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^18]
+2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^19]
 
 ## Étrend-kiegészítők gyártásához felhasználható vitamin és ásványi anyag vegyületek
 
@@ -462,4 +462,4 @@
 
 3.6. (6) Gél formájában.
 
-[^18]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a szerint módosított szöveg.
+[^19]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a szerint módosított szöveg.
