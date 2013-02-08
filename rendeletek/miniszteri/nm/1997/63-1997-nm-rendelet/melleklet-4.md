@@ -72,7 +72,7 @@
 
 ## * A megfelelő szöveg aláhúzandó.
 
-## A kistérségi népegészségügyi intézet példánya.
+## A járási népegészségügyi intézet példánya.
 
 ## (,,Fertőző beteg jelentés'' című díjelőleges postai boríték használata kötelező.)
 
@@ -216,6 +216,6 @@
 
 ## Ugyancsak telefonon vagy faxon, is jelenteni kell a megyei népegészségügyi szakigazgatási szervnek az emberről emberre terjedő fertőző betegségek halmozott előfordulását. Telefonon vagy faxon jelentendő bármilyen fertőző betegség (függetlenül attól, hogy a felsorolt bejelentendő fertőző betegség közé tartozik vagy nem), amennyiben szokatlanul súlyos formában, vagy a megszokottnál lényegesen nagyobb számban, járványosan fordul elő
 
-4. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^35]
+4. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^36]
 
-[^35]: A 4. számú melléklet a 36/2000. (XII. 8.) EüM rendelet 7. §-ával megállapított, a 10/2011. (III. 30.) NEFMI rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 4. számú melléklet a 36/2000. (XII. 8.) EüM rendelet 7. §-ával megállapított, a 10/2011. (III. 30.) NEFMI rendelet 6. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.

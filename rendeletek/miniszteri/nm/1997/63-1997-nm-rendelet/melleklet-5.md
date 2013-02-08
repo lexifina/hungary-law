@@ -58,14 +58,14 @@
 
 ## KITÖLTÉSI ÚTMUTATÓ
 
-## Ha a fertőző beteg bejelentőlap nem a megbetegedés helye szerint illetékes háziorvostól érkezett, abban az esetben erről a ,,Járványügyi értesítés fertőző betegről'' elnevezésű nyomtatványon haladéktalanul értesíteni kell a megbetegedés helye szerint illetékes kistérségi népegészségügyi intézetet. Az értesítést telefonon (faxon) is ki kell egészíteni, ha a beteggel vagy környezetével kapcsolatban késedelmet nem tűrő intézkedések megtételére van szükség.
+## Ha a fertőző beteg bejelentőlap nem a megbetegedés helye szerint illetékes háziorvostól érkezett, abban az esetben erről a ,,Járványügyi értesítés fertőző betegről'' elnevezésű nyomtatványon haladéktalanul értesíteni kell a megbetegedés helye szerint illetékes járási népegészségügyi intézetet. Az értesítést telefonon (faxon) is ki kell egészíteni, ha a beteggel vagy környezetével kapcsolatban késedelmet nem tűrő intézkedések megtételére van szükség.
 
-## A megyei népegészségügyi szakigazgatási szerv epidemiológusa küldi a pozitív diagnosztikus laborvizsgálati eredményeket a megbetegedés helye szerint illetékes kistérségi népegészségügyi intézetnek a szükséges intézkedések megtétele céljából.
+## A megyei népegészségügyi szakigazgatási szerv epidemiológusa küldi a pozitív diagnosztikus laborvizsgálati eredményeket a megbetegedés helye szerint illetékes járási népegészségügyi intézetnek a szükséges intézkedések megtétele céljából.
 
 ## Ha a bejelentés alapját állatról emberre terjedő fertőző betegség (anthrax, brucellosis, echinococcosis, leptospirosis, lyssa, illetőleg lyssa fertőzésre gyanús sérülés, malleus, ornithosis, Q-láz, taeniasis, trichinellosis, tularemia) képezte, a járványügyi értesítés megküldésével, sürgős esetben ezenkívül közvetlenül (szóban, telefonon, faxon) is értesíti a területileg illetékes állatorvost.
 
 ## (,,Fertőző beteg jelentés'' című díjelőleges postai boríték használata kötelező.)
 
-5. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^36]
+5. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^37]
 
-[^36]: Az 5. számú melléklet a 34/2006. (VIII. 23.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^37]: Az 5. számú melléklet a 34/2006. (VIII. 23.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
