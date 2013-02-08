@@ -10,7 +10,7 @@
 
 ## 4. Testtömeg csökkentés céljára szolgáló csökkentett energiatartalmú élelmiszerek
 
-## 5.[^19] Gluténérzékenyeknek szánt élelmiszerek
+## 5.[^21] Gluténérzékenyeknek szánt élelmiszerek
 
 ## B. Termék-specifikus előírással jelenleg nem szabályozott különleges élelmiszerek
 
@@ -28,13 +28,13 @@
 
 ## d) az a) és c) pontban közölt előírások a fruktózra nem vonatkoznak.
 
-## 3.[^20] Egyéb, az előzőekben fel nem sorolt különleges táplálkozási célú élelmiszerek.
+## 3.[^22] Egyéb, az előzőekben fel nem sorolt különleges táplálkozási célú élelmiszerek.
 
-## II.[^21]
+## II.[^23]
 
-2–3. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^22]
+2–3. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^24]
 
-[^19]: Az 1. számú melléklet I.A. részének 5. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (1) bekezdése iktatta be.
-[^20]: Az 1. számú melléklet I. B. rész 3. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (2) bekezdése iktatta be.
-[^21]: Az 1. számú melléklet II. részét a 41/2009. (XI. 23.) EüM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^22]: A 2–3. számú mellékletet az 53/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^21]: Az 1. számú melléklet I.A. részének 5. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (1) bekezdése iktatta be.
+[^22]: Az 1. számú melléklet I. B. rész 3. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (2) bekezdése iktatta be.
+[^23]: Az 1. számú melléklet II. részét a 41/2009. (XI. 23.) EüM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^24]: A 2–3. számú mellékletet az 53/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
