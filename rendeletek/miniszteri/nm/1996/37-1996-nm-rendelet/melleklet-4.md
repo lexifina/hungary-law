@@ -84,7 +84,7 @@ A fürdővíz vizsgálatok gyakorisága
 
 | A: idényben (június 1–augusztus 31.) kéthetente és idény előtt, illetve idény után egy-egy alkalommal. Amennyiben az előző szezon során a coliform-szám, E. coli- (vagy fekál coliform-) szám és fekális Enterococcus szám legalább a minták 80%-ában megfelelő volt, és minden minta legalább tűrhető minősítést kapott ezen paraméterek tekintetében, a vizsgálati gyakoriság a felére csökkenthető. Ha az aktuális szezonban vett minták alapján az előbb felsorolt paraméterek romlanak, a vizsgálatokat az eredeti gyakoriságnak megfelelően kell folytatni. |
 
-| B: rendkívüli szennyezettség, üzemzavar, járványveszély esetén vagy a kistérségi népegészségügyi intézet utasítására. |
+| B: rendkívüli szennyezettség, üzemzavar, járványveszély esetén vagy a járási népegészségügyi intézet utasítására. |
 
 | C: ha az utolsó két vizsgálat során bármelyik bakteriológiai paraméter kifogásolt volt. |
 
@@ -92,13 +92,13 @@ A fürdővíz vizsgálatok gyakorisága
 
 | E: szükség szerint, illetve szennyezés gyanúja esetén. |
 
-| F: általában D szerint, eutróf, illetve eutrofizációra hajlamos állóvizekben viszont legalább havonta egyszer. A kistérségi népegészségügyi intézet ennél nagyobb vizsgálati gyakoriságot is elrendelhet. |
+| F: általában D szerint, eutróf, illetve eutrofizációra hajlamos állóvizekben viszont legalább havonta egyszer. A járási népegészségügyi intézet ennél nagyobb vizsgálati gyakoriságot is elrendelhet. |
 
-| x adagolás esetén |
+| x adagolás esetén |
 
-| xx klórozás esetén |
+| xx klórozás esetén |
 
 | Csak idényben működő fürdőknél a havonta+ azt jelenti, hogy az idény elején és azt követően még kétszer, a kéthavonta++ azt, hogy összesen kétszer végzendő. |
 
 [^43]: A 3. számú melléklet Általános rendelkezések 5. pontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^44]: A 4. számú melléklet a Magyar Közlöny 1996. évi 111. számában megjelent helyesbítésnek megfelelő és a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bj) pontja, a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^44]: A 4. számú melléklet a Magyar Közlöny 1996. évi 111. számában megjelent helyesbítésnek megfelelő és a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bj) pontja, a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
