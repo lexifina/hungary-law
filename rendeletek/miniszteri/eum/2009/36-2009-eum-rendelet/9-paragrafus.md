@@ -6,9 +6,9 @@
 
 (2) A 3. § (3) bekezdése és a 6. § (2) bekezdés o) pontja 2011. január 1-jén lép hatályba.
 
-(3)[^6]
+(3)[^8]
 
-(4)[^7]
+(4)[^9]
 
-[^6]: A 9. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
-[^7]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^8]: A 9. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
+[^9]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
