@@ -20,7 +20,7 @@
 
 ## i) a 20. § (2) bekezdés szerint forgalomba hozott élelmiszerek esetében a jelölés teljes szövege.
 
-2. melléklet a 62/2011. (VI. 30.) VM rendelethez[^8]
+2. melléklet a 62/2011. (VI. 30.) VM rendelethez[^12]
 
 ## Fagylalt előállításra, az adagolva forgalmazott fagylaltra és az adagolva forgalmazott jégkrémre vonatkozó szabályok
 
@@ -38,4 +38,4 @@
 
 7. Mozgóárusításnál az árusító kocsin a fagylalt előállítójának és árusítójának nevét és címét jól olvashatóan fel kell tüntetni. Az árusításhoz szükséges hatósági dokumentumokat a helyszínen kell tartani.
 
-[^8]: A 2. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^12]: A 2. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
