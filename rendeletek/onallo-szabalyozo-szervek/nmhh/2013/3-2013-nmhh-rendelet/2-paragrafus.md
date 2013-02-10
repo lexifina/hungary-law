@@ -1,0 +1,3 @@
+2. § (1) Az elektronikus hírközlésért felelős miniszter, a postaügyért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a honvédelemért felelős miniszter és a Nemzeti Média- és Hírközlési Hatóság elnöke – az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló kormányrendeletben meghatározottakra is figyelemmel – a védelmi felkészülés és a végrehajtás időszakában felmerülő egyedi védelmi feladatok végrehajtásában együttműködnek.
+
+(2) A védelmi felkészülési feladatok végrehajtásáért minden esetben a kötelezettségvállalásra jogosult személy felelős.
