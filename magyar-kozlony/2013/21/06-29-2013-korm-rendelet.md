@@ -1,0 +1,980 @@
+# A Kormány 29/2013. (II. 12.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 21. szám, 2013. február 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/29b1aef64726948edcde84750d86f12a65e196f2/dokumentumok/00c2b209b3a5c5116ff92609d04ad4386063a9a1/letoltes)
+
+---
+
+A Kormány 29/2013. (II. 12.) Korm. rendelete
+a szennyvíz-elvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek
+kiemelt jelentőségű üggyé nyilvánításáról
+A Kormánya nemzetgazdaságiszempontbólkiemeltjelentőségűberuházásokmegvalósításánakgyorsításárólés egyszerűsítéséről
+szóló 2006. évi LIII. törvény 12. § (5) bekezdés a) és b) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános
+szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. Cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az 1. mellékletben felsorolt
+projektekhez kapcsolódó, a 2. mellékletben nevesített közigazgatási hatósági ügyeket.
+(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyben eljáró
+a) első fokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint
+elsőfokú hatóságként jár el,
+b) első fokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály
+szerint elsőfokú szakhatóságként jár el.
+(3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyben eljáró
+a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint
+másodfokú hatóságként jár el,
+b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály
+szerint másodfokú szakhatóságként jár el.
+2. § Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben
+a) a döntést 30 napon belül meg kell hozni, a szakhatóságok tekintetében a szakhatósági állásfoglalás
+kibocsátásának határideje 10 nap,
+b) hozott döntés fellebbezésre tekintet nélkül végrehajtható,
+c) a döntések kézbesítése – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi
+úton történik. A döntés kézbesítésének napja a hirdetmény kifüggesztését követő ötödik nap.
+3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+4. § E rendelet rendelkezéseit a 2. § a) pont kivételével a folyamatban lévő ügyekben is alkalmazni kell.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 29/2013. (II. 12.) Korm. rendelethez
+A kiemelt jelentőségű ügyek alapját képező szennyvíz-elvezetési és -tisztítási beruházások
+1. Támogatói döntéssel rendelkező projektek
+A B C D
+1.
+Pályázó neve
+A projektben érintett települések
+KEOP azonosító*
+2. Projekt helye – helység
+További megvalósítási
+helyszínek
+3. TISZALÚC NAGYKÖZSÉG ÖNKORMÁNYZATA Tiszalúc – KEOP-1.2.0/09-11-
+2011-0001
+4. SIKLÓS VÁROS ÖNKORMÁNYZATA Siklós – KEOP-1.2.0/09-11-
+2011-0002
+5. TUZSÉR-KOMORÓ VÍZIKÖZMŰ BERUHÁZÁSI
+TÁRSULÁS
+Komoró Tuzsér KEOP-1.2.0/09-11-
+2011-0003
+6. TOLNA, FADD, FÁCÁNKERT, BOGYISZLÓ,
+DUNASZENTGYÖRGY, GERJEN TELEPÜLÉSEK
+„SZENNYVÍZTISZTÍTÓ-TELEP FEJLESZTÉSE”
+TÁRGYÚ PÁLYÁZAT MEGVELÓSÍTÁSÁRA
+LÉTREHOZOTT ÖNKORMÁNYZATI TÁRSULÁSA
+Tolna – KEOP-1.2.0/09-11-
+2011-0004
+7. GÖDÖLLŐ VÁROS ÖNKORMÁNYZATA Gödöllő – KEOP-1.2.0/09-11-
+2011-0005
+8. TISZAFÖLDVÁR VÁROS ÖNKORMÁNYZATA Tiszaföldvár – KEOP-1.2.0/09-11-
+2011-0007
+9. MEZŐKÖVESD VÁROS ÖNKORMÁNYZATA Mezőkövesd – KEOP-1.2.0/09-11-
+2011-0008
+10. GÖNYŰ ÉS NAGYSZENTJÁNOS TELEPÜLÉSEK
+SZENNYVÍZ-CSATORNÁZÁSA
+ÖNKORMÁNYZATI TÁRSULÁS
+Gönyű – KEOP-1.2.0/09-11-
+2011-0009
+11. KUNSZENTMIKLÓS VÁROS ÖNKORMÁNYZAT
+POLGÁRMESTERI HIVATALA
+Kunszentmiklós – KEOP-1.2.0/09-11-
+2011-0010
+12. MAGYAR NEMZETI VAGYONKEZELŐ
+ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG
+Kővágóörs – KEOP-1.2.0/09-11-
+2011-0011
+13. KISKUNLACHÁZA NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Kiskunlacháza – KEOP-1.2.0/09-11-
+2011-0012
+14. PAKS VÁROS ÖNKORMÁNYZATA Paks – KEOP-1.2.0/09-11-
+2011-0013
+15. SZIGETSZENTMIKLÓS VÁROS
+ÖNKORMÁNYZATÁNAK POLGÁRMESTERI
+HIVATALA
+Szigetszentmiklós – KEOP-1.2.0/09-11-
+2011-0014
+16. ISASZEG VÁROS ÖNKORMÁNYZATA Isaszeg – KEOP-1.2.0/09-11-
+2011-0015
+17. ALSÓ-SZABOLCSI VIZIKÖZMŰ BERUHÁZÁSI
+TÁRSULÁS
+Nyírtelek Tiszadob, Tiszaeszlár,
+Tiszalök
+KEOP-1.2.0/09-11-
+2011-0016
+18. KISLÁNG KÖZSÉG ÖNKORMÁNYZATA Kisláng – KEOP-1.2.0/09-11-
+2011-0017
+19. PÜSPÖKLADÁNY VÁROS ÖNKORMÁNYZATA Püspökladány – KEOP-1.2.0/09-11-
+2011-0018
+20. MARCALI VÁROS ÖNKORMÁNYZATA Marcali Marcali (Horvátkút) KEOP-1.2.0/09-11-
+2011-0019
+21. NAGYDOROG NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Nagydorog – KEOP-1.2.0/09-11-
+2011-0020
+22. BÁCSALMÁS VÁROSI ÖNKORMÁNYZAT Bácsalmás – KEOP-1.2.0/09-11-
+2011-0021
+23. KÖRÖSLADÁNY VÁROS ÖNKORMÁNYZATA Körösladány – KEOP-1.2.0/09-11-
+2011-0022
+
+24. SÓSKÚT KÖZSÉG ÖNKORMÁNYZATA
+POLGÁRMESTERI HIVATALA
+Sóskút – KEOP-1.2.0/09-11-
+2011-0024
+25. BUDAKESZI VÁROS ÖNKORMÁNYZATA Budakeszi – KEOP-1.2.0/09-11-
+2011-0025
+26. USZÓD-DUNASZENTBENEDEK-GÉDERLAK
+KÖZSÉGEK ÉS KALOCSA VÁROS SZENNYVÍZ
+KÖZMŰ ÖNKORMÁNYZATI TÁRSULÁS
+Uszód Dunaszentbenedek,
+Géderlak, Kalocsa
+KEOP-1.2.0/09-11-
+2011-0026
+27. SZIRÁK ÉS TÉRSÉGE SZENNYVÍZCSATORNA
+BERUHÁZÁSI ÉS ÜZEMELTETÉSI
+ÖNKROMÁNYZATI TÁRSULÁS
+Szirák Egyházasdengeleg,
+Héhalom, Kisbágyon,
+Palotás
+KEOP-1.2.0/09-11-
+2011-0027
+28. PÉCEL VÁROS ÖNKORMÁNYZAT
+POLGÁRMESTERI HIVATALA
+Pécel – KEOP-1.2.0/09-11-
+2011-0028
+29. TOMPA VÁROS ÖNKORMÁNYZATA Tompa – KEOP-1.2.0/09-11-
+2011-0029
+30. KÖRMEND VÁROS ÖNKORMÁNYZATA Körmend – KEOP-1.2.0/09-11-
+2011-0030
+31. TÁPIÓSZŐLŐS KÖZSÉG ÖNKORMÁNYZATA Tápiószőlős – KEOP-1.2.0/09-11-
+2011-0031
+32. CEGLÉD VÁROS ÖNKORMÁNYZATA Cegléd – KEOP-1.2.0/09-11-
+2011-0032
+33. KADARKÚT VÁROS ÖNKORMÁNYZAT Kadarkút Hencse KEOP-1.2.0/09-11-
+2011-0033
+34. BŐSÁRKÁNY-CSORNA- FARÁD
+SZENNYVÍZKEZELÉSI TÁRSULÁSA
+Bősárkány Csorna KEOP-1.2.0/09-11-
+2011-0034
+35. NÁDUDVAR VÁROS ÖNKORMÁNYZATA Nádudvar – KEOP-1.2.0/09-11-
+2011-0035
+36. PILISVÖRÖSVÁR VÁROS ÖNKORMÁNYZATA Pilisvörösvár – KEOP-1.2.0/09-11-
+2011-0036
+37. GARA-HERCEGSZÁNTÓ-NAGYBARACSKA
+SZENNYVÍZ ÖNKORMÁNYZATI
+TERÜLETFEJLESZTÉSI TÁRSULÁS
+Nagybaracska Gara, Hercegszántó KEOP-1.2.0/09-11-
+2011-0037
+38. NAGYATÁDI REGIONÁLIS
+SZENNYVÍZTÁRSULÁS
+Nagyatád Bakháza, Görgeteg,
+Háromfa, Kutas,
+Lábod, Ötvöskónyi,
+Rinyaszentkirály,
+Tarany
+KEOP-1.2.0/09-11-
+2011-0038
+39. MÉLYKÚT VÁROS ÖNKORMÁNYZAT Mélykút – KEOP-1.2.0/09-11-
+2011-0039
+40. TÚRKEVE VÁROS ÖNKORMÁNYZATA Túrkeve – KEOP-1.2.0/09-11-
+2011-0040
+41. DÉL-NYÍRSÉGI VÍZIKÖZMŰ BERUHÁZÁSI
+TÁRSULÁS
+Nyírbátor Encsencs, Nyírbéltek,
+Nyírgyulaj,
+Nyírvasvári, Piricse
+KEOP-1.2.0/09-11-
+2011-0041
+42. KISKŐRÖS VÁROS ÖNKORMÁNYZATA Kiskőrös – KEOP-1.2.0/09-11-
+2011-0042
+43. TISZATENYŐ-KENGYEL KÖZÖS
+SZENNYVÍZKEZELŐ TÁRSULÁS
+Tiszatenyő Kengyel KEOP-1.2.0/09-11-
+2011-0043
+44. ÚJFEHÉRTÓ-BÖKÖNY VIZIKÖZMŰ
+BERUHÁZÁSI TÁRSULÁS
+Újfehértó Bököny KEOP-1.2.0/09-11-
+2011-0044
+45. HOSSZÚPÁLYI ÉS KÖRNYÉKE VIZIKÖZMŰ
+BERUHÁZÁSI ÖNKORMÁNYZATI TÁRSULÁS
+Hosszúpályi – KEOP-1.2.0/09-11-
+2011-0045
+46. HODÁSZ NAGYKÖZSÉG ÖNKORMÁNYZATA Hodász – KEOP-1.2.0/09-11-
+2011-0046
+47. BAKS KÖZSÉGI ÖNKORMÁNYZAT Baks – KEOP-1.2.0/09-11-
+2011-0047
+48. FELSŐ-SZABOLCSI VIZIKÖZMŰ BERUHÁZÁSI
+TÁRSULÁS
+Ajak Anarcs, Dombrád,
+Gyulaháza, Nyírkarász
+KEOP-1.2.0/09-11-
+2011-0048
+
+49. MINDSZENT VÁROSI ÖNKORMÁNYZAT Mindszent – KEOP-1.2.0/09-11-
+2011-0049
+50. VÁMOSPÉRCS ÉS NYÍRMÁRTONFALVA
+SZENNYVÍZ-BERUHÁZÁSI ÖNKORMÁNYZATI
+TÁRSULÁS
+Vámospércs – KEOP-1.2.0/09-11-
+2011-0050
+51. MEZŐLADÁNY-TORNYOSPÁLCA-ÚJKENÉZ
+VÍZIKÖZMŰ BERUHÁZÁSI TÁRSULÁS
+Mezőladány Tornyospálca, Újkenéz KEOP-1.2.0/09-11-
+2011-0051
+52. FEGYVERNEK NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Fegyvernek – KEOP-1.2.0/09-11-
+2011-0052
+53. TÖK KÖZSÉG ÖNKORMÁNYZATA Tök – KEOP-1.2.0/09-11-
+2011-0054
+54. GYOMAENDRŐD VÁROS ÖNKORMÁNYZATA Gyomaendrőd – KEOP-1.2.0/09-11-
+2011-0055
+55. NAGYBARCAI SZENNYVÍZELVEZETÉSI
+AGGLOMERÁCIÓS ÖNKORMÁNYZATI
+TÁRSULÁS
+Bánhorváti Nagybarca KEOP-1.2.0/09-11-
+2012-0001
+56. DÁNSZENTMIKLÓS-NYÁREGYHÁZA
+SZENNYVÍZKÖZMŰ ÉS CSATORNÁZÁSI
+TÁRSULÁS
+Dánszentmiklós Nyáregyháza KEOP-1.2.0/09-11-
+2012-0004
+57. OKÁNY KÖZSÉG ÖNKORMÁNYZATA Okány – KEOP-1.2.0/09-11-
+2012-0005
+58. SZÉCSÉNYI SZENNYVÍZ-AGGLOMERÁCIÓS
+ÖNKORMÁNYZATI TÁRSULÁS
+Szécsény – KEOP-1.2.0/09-11-
+2012-0007
+59. BUCSA KÖZSÉG ÖNKORMÁNYZATA Bucsa – KEOP-1.2.0/09-11-
+2012-0009
+60. IGAL VÁROS ÖNKORMÁNYZATA Igal – KEOP-1.2.0/09-11-
+2012-0017
+61. DUDAR KÖRNYÉKI SZENNYVÍZCSATORNA-
+ÉS SZENNYVÍZTISZTÍTÓMŰ FEJLESZTÉSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Dudar – KEOP-1.2.0/09-11-
+2012-0018
+62. HATVAN ÉS TÉRSÉGE
+SZENNYVÍZ-BERUHÁZÁSI TÁRSULÁS
+Hatvan Apc, Ecséd, Szűcsi KEOP-1.2.0/2F/09-
+2009-0003
+63. VÉSZTŐ VÁROSI ÖNKORMÁNYZAT Vésztő – KEOP-1.2.0/2F/09-
+2009-0006
+64. GALGA-MENTI VÍZIKÖZMŰ BERUHÁZÁST
+LEBONYOLÍTÓ ÉS MŰKÖDTETŐ
+(ÜZEMELTETŐ) TÁRSULÁS
+Galgamácsa Váckisújfalu, Vácegres,
+Kisnémedi,
+Püspökszilágy, Aszód,
+Domony, Bag, Iklad,
+Hévízgyörk, Acsa,
+Csővár, Galgagyörk,
+Püspökhatvan
+KEOP-1.2.0/2F/09-
+2009-0007
+65. SÁRVÁR ÉS RÁBAPATY KÖRNYEZETÉÉRT
+ÖNKORMÁNYZATI TÁRSULÁS
+Sárvár Rábapaty KEOP-1.2.0/2F/09-
+2009-0008
+66. ÉSZAKDUNÁNTÚLI VÍZMŰ ZÁRTKÖRŰEN
+MŰKÖDŐ RÉSZVÉNYTÁRSASÁG
+Tatabánya – KEOP-1.2.0/2F/09-
+2009-0010
+67. ROMHÁNY KÖZSÉG ÖNKORMÁNYZATA Romhány – KEOP-1.2.0/2F/09-
+2009-0011
+68. HAJDÚBÖSZÖRMÉNY VÁROS
+ÖNKORMÁNYZATA
+Hajdúböszörmény – KEOP-1.2.0/2F/09-
+2009-0012
+69. NAGYKŐRÖS VÁROS ÖNKORMÁNYZATA Nagykőrös – KEOP-1.2.0/2F/09-
+2009-0015
+70. KISVÁRDA VÁROS ÖNKORMÁNYZATA Kisvárda – KEOP-1.2.0/2F/09-
+2009-0016
+71. ÖNKORMÁNYZATI TÁRSULÁS VERESEGYHÁZ
+ÉS KÖRNYÉKE CSATORNAHÁLÓZAT ÉS
+SZENNYVÍZTISZTÍTÓTELEP FEJLESZTÉSÉRE
+Veresegyház Erdőkertes, Szada KEOP-1.2.0/2F/09-
+2009-0023
+72. GÖNC VÁROS ÖNKORMÁNYZATA Gönc – KEOP-1.2.0/2F/09-
+2009-0026
+
+73. RÓZSASZENTMÁRTON KÖZSÉG
+ÖNKORMÁNYZATA
+Rózsaszentmárton – KEOP-1.2.0/2F/09-
+2009-0027
+74. NAGYHEGYES KÖZSÉG ÖNKORMÁNYZATA Nagyhegyes – KEOP-1.2.0/2F/09-
+2009-0028
+75. HIDASNÉMETI KÖZSÉGI ÖNKORMÁNYZAT Hidasnémeti Tornyosnémeti,
+Hernádszurdok
+KEOP-1.2.0/2F/09-
+2009-0029
+76. CSENGER VÁROS ÖNKORMÁNYZATA Csenger Csenger KEOP-1.2.0/2F/09-
+2010-0002
+77. LAJOSKOMÁROM-DÉG ÖNKORMÁNYZATI
+TÁRSULÁS TULAJDONKÖZÖSSÉGE
+Lajoskomárom Dég KEOP-1.2.0/2F/09-
+2010-0004
+78. NYÍRMEGGYES-NYÍRCSAHOLY
+ÖNKORMÁNYZATOK TÁRSULÁSA
+SZENNYVÍZCSATORNA-HÁLÓZAT KIÉPÍTÉSÉRE
+Nyírmeggyes Nyírcsaholy KEOP-1.2.0/2F/09-
+2010-0008
+79. „VÁCSZENTLÁSZLÓ AGGLOMERÁCIÓ –
+VALKÓ, VÁCSZENTLÁSZLÓ, ZSÁMBOK
+SZENNYVÍZ ELVEZETÉSE ÉS TISZTÍTÁSA” –
+CSATORNA BERUHÁZÁSI ÉS ÜZEMELTETÉSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Vácszentlászló Valkó, Zsámbok KEOP-1.2.0/2F/09-
+2010-0009
+80. SAJÓECSEG KÖZSÉGI ÖNKORMÁNYZAT Sajóecseg Sajókeresztúr KEOP-1.2.0/2F/09-
+2010-0010
+81. KUNÁGOTA-ALMÁSKAMARÁS-NAGYKAMARÁS
+SZENNYVÍZBERUHÁZÓ TÁRSULÁS
+Kunágota Almáskamarás,
+Nagykamarás
+KEOP-1.2.0/2F/09-
+2010-0011
+82. DÁVOD KÖZSÉG ÖNKORMÁNYZATA Dávod – KEOP-1.2.0/2F/09-
+2010-0013
+83. FÜZESGYARMAT VÁROS ÖNKORMÁNYZATA Füzesgyarmat – KEOP-1.2.0/2F/09-
+2010-0014
+84. KABA-TETÉTLEN-BÁRÁND KÖZÖS
+SZENNYVÍZELVEZETÉSI ÉS TISZTÍTÓ
+RENDSZER ÖNKORMÁNYZATI TÁRSULÁS
+Kaba Tetétlen, Báránd KEOP-1.2.0/2F/09-
+2010-0015
+85. DRÉGELYPALÁNK ÉS HONT KÖZSÉGEK
+SZENNYVÍZCSATORNA ÉPÍTÉSI- ÉS
+SZENNYVÍZELVEZETÉSI ÖNKORMÁNYZATI
+TÁRSULÁSA
+Drégelypalánk Hont KEOP-1.2.0/2F/09-
+2010-0016
+86. DOMBÓVÁR TÉRSÉGI SZENNYVÍZKEZELÉSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Dombóvár Attala, Kapospula,
+Kaposszekcső
+KEOP-1.2.0/2F/09-
+2010-0018
+87. KONDOROS NAGYKÖZSÉG ÖNKORMÁNYZATA Kondoros – KEOP-1.2.0/2F/09-
+2010-0021
+88. VEREB KÖZSÉG ÖNKORMÁNYZATA Vereb Pázmánd KEOP-1.2.0/2F/09-
+2010-0026
+89. MEZŐTÚR VÁROS ÖNKORMÁNYZATA Mezőtúr – KEOP-1.2.0/2F/09-
+2010-0028
+90. JÁNOSHALMA VÁROS ÖNKORMÁNYZATA Jánoshalma – KEOP-1.2.0/2F/09-
+2010-0029
+91. SZEGVÁR NAGYKÖZSÉG ÖNKORMÁNYZATA Szegvár – KEOP-1.2.0/2F/09-
+2010-0030
+92. KÁLI SZENNYVÍZELVEZETÉSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Kompolt Aldebrő, Feldebrő,
+Kál, Kápolna, Tófalu
+KEOP-1.2.0/2F/09-
+2010-0031
+93. VASVÁR VÁROS ÖNKORMÁNYZATA Vasvár – KEOP-1.2.0/2F/09-
+2010-0033
+94. ÉSZAKDUNÁNTÚLI VÍZMŰ ZÁRTKÖRŰEN
+MŰKÖDŐ RÉSZVÉNYTÁRSASÁG
+Szomód Tata KEOP-1.2.0/2F/09-
+2010-0034
+95. SZÁZHALOMBATTA VÁROS
+ÖNKORMÁNYZATA
+Százhalombatta – KEOP-1.2.0/2F/09-
+2010-0036
+96. ÖNKORMÁNYZATI TÁRSULÁS VASPÖR ÉS
+TÉRSÉGE SZENNYVÍZELVEZETÉSÉNEK
+MEGOLDÁSÁRA
+Vaspör Hagyárosbörönd,
+Ozmánbük
+KEOP-1.2.0/2F/09-
+2010-0037
+97. ÚRKÚT KÖZSÉG ÖNKORMÁNYZATA Úrkút Ajka KEOP-1.2.0/2F/09-
+2010-0039
+
+98. MEZŐFALVA ÉS TÉRSÉGE
+SZENNYVÍZBERUHÁZÓ ÖNKORMÁNYZATI
+TÁRSULÁS
+Mezőfalva Baracs, Kisapostag,
+Nagyvenyim
+KEOP-1.2.0/2F/09-
+2010-0042
+99. BAKONYSÁRKÁNY KÖZSÉG
+ÖNKORMÁNYZATA
+Bakonysárkány Vérteskethely, Kisbér KEOP-1.2.0/2F/09-
+2010-0044
+100. TÁRKÁNY KÖZSÉG ÖNKORMÁNYZATA Tárkány Csép, Ete KEOP-1.2.0/2F/09-
+2010-0047
+101. BÁRSONYOS KÖZSÉG ÖNKORMÁNYZATA Bársonyos Kerékteleki,
+Bakonyszombathely
+KEOP-1.2.0/2F/09-
+2010-0048
+102. RÉDE KÖZSÉG ÖNKORMÁNYZATA Réde Bakonybánk KEOP-1.2.0/2F/09-
+2010-0049
+103. MAGYARBÁNHEGYES KÖZSÉG
+ÖNKORMÁNYZATA
+Magyarbánhegyes – KEOP-1.2.0/2F/09-
+2010-0050
+104. BALÁSTYA KÖZSÉGI ÖNKORMÁNYZAT Balástya – KEOP-1.2.0/2F/09-
+2010-0052
+105. ÖCSÖD NAGYKÖZSÉG ÖNKORMÁNYZATA Öcsöd – KEOP-1.2.0/2F/09-
+2010-0053
+106. SÁNDORFALVA-SZATYMAZ SZENNYVÍZ-,
+CSATORNA BERUHÁZÓ TÁRSULÁS
+Sándorfalva Szatymaz KEOP-1.2.0/2F/09-
+2010-0055
+107. GÁDOROS NAGYKÖZSÉG ÖNKORMÁNYZATA Gádoros – KEOP-1.2.0/2F/09-
+2010-0056
+108. KISKUNHALAS VÁROS ÖNKORMÁNYZATA Kiskunhalas – KEOP-1.2.0/2F/09-
+2010-0057
+109. NAGYKÁLLÓ VÁROS ÖNKORMÁNYZATA Nagykálló – KEOP-1.2.0/2F/09-
+2010-0058
+110. PILISSZÁNTÓ KÖZSÉG ÖNKORMÁNYZATA Pilisszántó – KEOP-1.2.0/2F/09-
+2010-0059
+111. ÓZD VÁROS ÖNKORMÁNYZATA Ózd – KEOP-1.2.0/2F/09-
+2010-0060
+112. SZEKSZÁRD MEGYEI JOGÚ VÁROS
+ÖNKORMÁNYZATA
+Szekszárd – KEOP-1.2.0/2F/09-
+2010-0062
+113. KISKUNFÉLEGYHÁZA VÁROS
+ÖNKORMÁNYZATA
+Kiskunfélegyháza – KEOP-1.2.0/2F/09-
+2010-0063
+114. KELET-NYÍRSÉGI VIZIKÖZMŰ BERUHÁZÁSI
+TÁRSULÁS
+Apagy Baktalórántháza,
+Napkor, Nyírtét,
+Ófehértó, Magy,
+Nyíribrony,
+Ramocsaháza
+KEOP-1.2.0/2F/09-
+2010-0064
+115. TISZAKÉCSKE VÁROS ÖNKORMÁNYZATA Tiszakécske – KEOP-1.2.0/2F/09-
+2010-0065
+116. ECSEDI-LÁP VIZIKÖZMŰ BERUHÁZÁSI
+TÁRSULÁS
+Nagyecsed Fábiánháza, Mérk,
+Vállaj, Tiborszállás
+KEOP-1.2.0/2F/09-
+2010-0067
+117. KELEBIA KÖZSÉG ÖNKORMÁNYZAT Kelebia – KEOP-1.2.0/2F/09-
+2010-0068
+118. TISZAALPÁR NAGYKÖZSÉGI ÖNKORMÁNYZAT Tiszaalpár (Alpár) – KEOP-1.2.0/2F/09-
+2010-0069
+119. OROSHÁZA VÁROS ÖNKORMÁNYZATA Orosháza – KEOP-1.2.0/2F/09-
+2010-0070
+120. KECEL VÁROS ÖNKORMÁNYZATA Kecel – KEOP-1.2.0/2F/09-
+2010-0071
+121. CSANÁDPALOTA VÁROS ÖNKORMÁNYZATA Csanádpalota – KEOP-1.2.0/2F/09-
+2010-0072
+122. MOSONMAGYARÓVÁRI SZENNYVÍZTISZTÍTÁSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Mosonmagyaróvár – KEOP-1.2.0/2F/09-
+2010-0073
+123. KAPOSSZERDAHELY, SÁNTOS ÉS
+SZENTBALÁZS SZENNYVÍZCSATORNA ÉPÍTŐ
+ÖNKORMÁNYZATI TÁRSULÁS
+Kaposszerdahely Sántos, Szentbalázs KEOP-1.2.0/2F/09-
+2010-0074
+
+124. TÖKÖL ÉS TÉRSÉGE SZENNYVÍZTISZTÍTÓ
+ÖNKORMÁNYZATI TÁRSULÁS
+Tököl Halásztelek,
+Szigethalom
+KEOP-1.2.0/2F/09-
+2010-0075
+125. ABÁDSZALÓK-KUNHEGYES KÖZÖS
+SZENNYVÍZKEZELŐ TÁRSULÁS
+Abádszalók Kunhegyes KEOP-1.2.0/2F/09-
+2010-0076
+126. LAJOSMIZSE VÁROS ÖNKORMÁNYZATA Lajosmizse – KEOP-1.2.0/2F/09-
+2010-0077
+127. BAJA ÉS KÖRNYÉKE VÍZIKÖZMŰ BERUHÁZÁSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Baja Sükösd, Érsekcsanád,
+Vaskút
+KEOP-1.2.0/2F/09-
+2010-0078
+128. FÁBIÁNSEBESTYÉN KÖZSÉG
+ÖNKORMÁNYZATA
+Fábiánsebestyén – KEOP-1.2.0/2F/09-
+2010-0079
+129. DERECSKE VÁROS ÖNKORMÁNYZATA Derecske – KEOP-1.2.0/2F/09-
+2010-0080
+130. SZABADSZÁLLÁS VÁROS ÖNKORMÁNYZATA Szabadszállás – KEOP-1.2.0/2F/09-
+2010-0081
+131. GYŐRSZEMERE ÉS TÉNYŐ TELEPÜLÉSEK
+SZENNYVÍZELVEZETÉSÉRE, A TÉTI
+SZENNYVÍZTISZTÍTÓ TELEP BŐVÍTÉSÉRE,
+KORSZERŰSÍTÉSÉRE LÉTREJÖVŐ
+ÖNKORMÁNYZATI TÁRSULÁS
+Győrszemere Tényő, Tét, Gyömöre KEOP-1.2.0/2F/09-
+2010-0082
+132. FORRÁS-4 SZENNYVÍZ-KÖZMŰ
+ÖNKORMÁNYZATI TÁRSULÁS
+Forráskút Bordány, Üllés,
+Zsombó
+KEOP-1.2.0/2F/09-
+2010-0083
+133. SÜMEGI REGIONÁLIS SZENNYVÍZTÁRSULÁS Sümeg Dabronc, Gógánfa,
+Hetyefő, Ukk,
+Zalaerdőd,
+Zalagyömörő
+KEOP-1.2.0/2F/09-
+2010-0084
+134. MÓRAHALOM- ZÁKÁNYSZÉK
+SZENNYVÍZELVEZETÉSI ÉS
+SZENNYVÍZTISZTÍTÁSI TÁRSULÁS
+Mórahalom Zákányszék KEOP-1.2.0/2F/09-
+2010-0085
+135. TÓTKOMLÓS VÁROS ÖNKORMÁNYZAT Tótkomlós – KEOP-1.2.0/2F/09-
+2010-0087
+136. MAGYAR NEMZETI VAGYONKEZELŐ
+ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG
+Keszthely – KEOP-1.2.0/2F/09-
+2010-0089
+137. ERDŐTELEK KÖZSÉG ÖNKORMÁNYZATA Erdőtelek – KEOP-1.2.0/2F/09-
+2010-0091
+138. TAKTAKÖZI ÖNKORMÁNYZATI
+SZENNYVÍZELVEZETÉSI ÉS
+SZENNYVÍZTISZTÍTÁSI TÁRSULÁS
+Taktaharkány Taktaszada KEOP-1.2.0/2F/09-
+2010-0093
+139. CSURGÓ REGIONÁLIS SZENNYVÍZTÁRSULÁS Csurgó Szenta, Porrog,
+Porrogszentkirály
+KEOP-1.2.0/2F/09-
+2011-0001
+140. NYÁRLŐRINC KÖZSÉG ÖNKORMÁNYZATA Nyárlőrinc – KEOP-1.2.0/2F/09-
+2011-0002
+141. KUNSZENTMÁRTON VÁROS
+ÖNKORMÁNYZATA
+Kunszentmárton – KEOP-1.2.0/2F/09-
+2011-0003
+142. NAGYSZÉNÁS NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Nagyszénás – KEOP-1.2.0/2F/09-
+2011-0004
+143. ÖNKORMÁNYZATI TÁRSULÁS MAKÓ VÁROS
+ÉS TÉRSÉGE SZENNYVÍZCSATORNÁZÁSÁNAK
+ÉS SZENNYVÍZTISZTÍTÁSÁNAK
+MEGVALÓSÍTÁSÁRA
+Makó Apátfalva, Földeák,
+Kiszombor,
+Magyarcsanád,
+Maroslele
+KEOP-1.2.0/2F-
+2008-0001
+144. BÉKÉSCSABA MEGYEI JOGÚ VÁROS
+ÖNKORMÁNYZATA
+Békéscsaba – KEOP-1.2.0/2F-
+2008-0003
+145. NAGYKANIZSAI REGIONÁLIS
+SZENNYVÍZTÁRSULÁS
+Nagykanizsa – KEOP-1.2.0/2F-
+2008-0004
+146. NYÍREGYHÁZA MEGYEI JOGÚ VÁROS
+ÖNKORMÁNYZATA
+Nyíregyháza – KEOP-1.2.0/2F-
+2008-0005
+
+147. SZÉKESFEHÉRVÁR VÁROS ÉS TÉRSÉGE (PÁTKA,
+PÁKOZD, SEREGÉLYES)
+SZENNYVÍZCSATORNA-HÁLÓZAT BŐVÍTÉSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Székesfehérvár Pákozd, Pátka,
+Seregélyes
+KEOP-1.2.0/2F-
+2008-0006
+148. DOMOSZLÓ KÖZSÉG ÖNKORMÁNYZATA Domoszló – KEOP-1.2.0/B/10-
+2010-0001
+149. NAGYMÁGOCS NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Nagymágocs – KEOP-1.2.0/B/10-
+2010-0003
+150. ÓPUSZTASZER KÖZSÉG ÖNKORMÁNYZATA Ópusztaszer – KEOP-1.2.0/B/10-
+2010-0004
+151. ENYING VÁROS ÖNKORMÁNYZATA Enying – KEOP-1.2.0/B/10-
+2010-0006
+152. VÁROSFÖLD KÖZSÉG ÖNKORMÁNYZATA Városföld – KEOP-1.2.0/B/10-
+2010-0017
+153. KÉTEGYHÁZA NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Kétegyháza – KEOP-1.2.0/B/10-
+2010-0018
+154. PILISCSABA NAGYKÖZSÉG ÖNKORMÁNYZATA Piliscsaba – KEOP-1.2.0/B/10-
+2010-0020
+155. IKVA MENTI SZENNYVÍZTISZTÍTÓ LÉTESÍTŐ
+ÖNKORMÁNYZATI TÁRSULÁS
+Nagylózs Nagycenk, Pinnye,
+Pereszteg,
+Sopronkövesd
+KEOP-1.2.0/B/10-
+2010-0021
+156. BRNK TÁRSULÁS Bogád Romonya, Nagykozár,
+Kozármisleny
+KEOP-1.2.0/B/10-
+2010-0024
+157. ÁDÁND KÖZSÉG ÖNKORMÁNYZATA Ádánd – KEOP-1.2.0/B/10-
+2010-0025
+158. KUNFEHÉRTÓ KÖZSÉG ÖNKORMÁNYZAT Kunfehértó – KEOP-1.2.0/B/10-
+2010-0026
+159. SARKAD VÁROS ÖNKORMÁNYZATA Sarkad – KEOP-1.2.0/B/10-
+2010-0027
+160. BÉKÉSSÁMSON KÖZSÉG ÖNKORMÁNYZATA Békéssámson – KEOP-1.2.0/B/10-
+2010-0028
+161. KARÁCSOND KÖZSÉG ÖNKORMÁNYZATA Karácsond – KEOP-1.2.0/B/10-
+2010-0029
+162. ERCSI VÁROS ÖNKORMÁNYZATA Ercsi – KEOP-1.2.0/B/10-
+2010-0030
+163. TISZASZENTMÁRTON-ZSURK VIZIKÖZMŰ
+BERUHÁZÁSI TÁRSULÁS
+Tiszaszentmárton Zsurk, Záhony KEOP-1.2.0/B/10-
+2010-0031
+164. POCSAJ-ESZTÁR VÍZIKÖZMŰ BERUHÁZÁSI
+TÁRSULÁS
+Pocsaj Esztár KEOP-1.2.0/B/10-
+2010-0033
+165. IREGSZEMCSE KÖZSÉG ÖNKORMÁNYZATA Iregszemcse – KEOP-1.2.0/B/10-
+2010-0034
+166. TAB VÁROS ÖNKORMÁNYZATA Tab – KEOP-1.2.0/B/10-
+2010-0035
+167. SZARVAS VÁROS ÖNKORMÁNYZATA Szarvas – KEOP-1.2.0/B/10-
+2010-0036
+168. SZIHALOM KÖZSÉG ÖNKORMÁNYZATA Szihalom – KEOP-1.2.0/B/10-
+2010-0037
+169. BÉKÉS VÁROS ÖNKORMÁNYZATA Békés – KEOP-1.2.0/B/10-
+2010-0040
+170. HAJDÚSZOVÁT KÖZSÉG ÖNKORMÁNYZATA Hajdúszovát – KEOP-1.2.0/B/10-
+2010-0041
+171. TISZAPÜSPÖKI – SZAJOL – SZOLNOK
+VÍZIKÖZMŰ BERUHÁZÁSI TÁRSULÁS
+Tiszapüspöki Szajol, Szolnok KEOP-1.2.0/B/10-
+2010-0042
+172. CECE NAGYKÖZSÉG ÖNKORMÁNYZATA Cece – KEOP-1.2.0/B/10-
+2010-0043
+173. KISSZÁLLÁS KÖZSÉG ÖNKORMÁNYZATA Kisszállás – KEOP-1.2.0/B/10-
+2010-0044
+
+174. JÁNOSHIDA KÖZSÉG ÖNKORMÁNYZATA Jánoshida – KEOP-1.2.0/B/10-
+2010-0045
+175. BUGAC NAGYKÖZSÉGI ÖNKORMÁNYZAT Bugac – KEOP-1.2.0/B/10-
+2010-0046
+176. SIMONTORNYA VÁROS ÖNKORMÁNYZATA Simontornya – KEOP-1.2.0/B/10-
+2010-0047
+177. ALSÓNÉMEDI NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Alsónémedi – KEOP-1.2.0/B/10-
+2010-0051
+178. HUNYADFALVAI REGIONÁLIS
+SZENNYVÍZTISZTÍTÓ ÖNKORMÁNYZATI
+TÁRSULÁS
+Hunyadfalva Nagykörű, Tiszasüly,
+Kőtelek
+KEOP-1.2.0/B/10-
+2010-0052
+179. SAJÓKAZA KÖZSÉG ÖNKORMÁNYZATA Sajókaza – KEOP-1.2.0/B/10-
+2010-0054
+180. KEMECSE VÁROS ÖNKORMÁNYZATA Kemecse – KEOP-1.2.0/B/10-
+2010-0055
+181. PUTNOK VÁROS ÖNKORMÁNYZATA Putnok – KEOP-1.2.0/B/10-
+2010-0058
+182. ZOMBA KÖZSÉG ÖNKORMÁNYZATA Zomba – KEOP-1.2.0/B/10-
+2010-0060
+183. DUNAKANYARI CSATORNÁZÁSI TÁRSULÁS Szentendre Szigetmonostor,
+Pócsmegyer,
+Tahitótfalu, Leányfalu
+KEOP-1.2.0/B/10-
+2010-0061
+184. MISKOLC MEGYEI JOGÚ VÁROS
+ÖNKORMÁNYZATA
+Miskolc – KEOP-1.2.0/B/10-
+2010-0062
+185. ÉCS KÖZSÉG ÖNKORMÁNYZATA Écs Győrasszonyfa,
+Győrság, Nyalka, Nyúl,
+Pannonhalma,
+Pázmándfalu, Pér,
+Ravazd, Táp,
+Tarjánpuszta
+KEOP-1.2.0/B/10-
+2010-0063
+186. KÖRÖMI AGGLOMERÁCIÓ
+SZENNYVÍZTISZTÍTÓ FEJLESZTÉSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Hernádkak Onga, Ónod, Berzék,
+Gesztely, Sajóhidvég,
+Sajólád, Sajópetri,
+Köröm
+KEOP-1.2.0/B/10-
+2010-0064
+187. DOBOZ NAGYKÖZSÉG ÖNKORMÁNYZATA Doboz – KEOP-1.2.0/B/10-
+2010-0065
+188. KAPOSMÉRŐ KÖZSÉG ÖNKORMÁNYZATA Kaposmérő – KEOP-1.2.0/B/10-
+2010-0066
+189. PÁLHÁZA VÁROS ÖNKORMÁNYZATA Füzérradvány - KEOP-1.2.0/B/10-
+2010-0067
+190. NYÍRBOGÁT-KISLÉTA SZENNYVÍZKÖZMŰ
+ÖNKORMÁNYZATI TÁRSULÁS
+Nyírbogát Kisléta KEOP-1.2.0/B/10-
+2010-0068
+191. SEGESD KÖZSÉG ÖNKORMÁNYZATA Segesd – KEOP-1.2.0/B/10-
+2010-0069
+192. JÁSZBERÉNY-JÁSZJÁKÓHALMA
+SZENNYVÍZKÖZMŰ ÖNKORMÁNYZATI
+TÁRSULÁS
+Jászberény Jászjákóhalma KEOP-1.2.0/B/10-
+2010-0070
+193. TISZAROFF ÉS TISZAGYENDA
+SZENNYVÍZHÁLÓZATÁNAK BŐVÍTÉSE
+Tiszaroff Tiszagyenda KEOP-1.2.0/B/10-
+2010-0071
+194. TAMÁSI VÁROS ÖNKORMÁNYZATA Tamási – KEOP-1.2.0/B/10-
+2010-0077
+195. EMŐDI AGGLOMERÁCIÓ SZENNYVÍZTISZTÍTÓ
+FEJLESZTÉSI ÖNKORMÁNYZÍTI TÁRSULÁS
+Emőd Bükkaranyos, Harsány,
+Kisgyőr
+KEOP-1.2.0/B/10-
+2010-0078
+196. DOMASZÉK-RÖSZKE SZENNYVÍZTISZTÍTÓ
+FEJLESZTÉSI TÁRSULÁS
+Röszke Domaszék KEOP-1.2.0/B/10-
+2010-0079
+197. JAKABSZÁLLÁS KÖZSÉG ÖNKORMÁNYZATA Jakabszállás – KEOP-1.2.0/B/10-
+2010-0080
+
+198. SZIKSZÓ VÁROS ÖNKORMÁNYZATA Szikszó – KEOP-1.2.0/B/10-
+2010-0081
+199. SOLYMÁR NAGYKÖZSÉG ÖNKORMÁNYZAT Solymár – KEOP-1.2.0/B/10-
+2011-0001
+200. TÁPIÓMENTI TERÜLETFEJLESZTÉSI TÁRSULÁS Nagykáta Bénye, Farmos,
+Jászfelsőszentgyörgy,
+Káva, Kóka, Mende,
+Pánd, Sülysáp,
+Szentlőrinckáta,
+Szentmártonkáta,
+Tápióbicske,
+Tápiógyörgye,
+Tápióság,
+Tápiószecső,
+Tápiószele,
+Tápiószentmárton,
+Tóalmás, Újszilvás, Úri
+KEOP-1.2.0/2F/09-
+2009-0021
+201. ÉRD ÉS TÉRSÉGE SZENNYVÍZELVEZETÉSI-
+ÉS SZENNYVÍZTISZTÍTÁSI ÖNKORMÁNYZATI
+TÁRSULÁS
+Érd Diósd, Tárnok KEOP-1.2.0/2F-
+2009-0001
+202. KULCS KÖZSÉG ÖNKORMÁNYZATA Kulcs – KEOP-7.1.0/11-
+2011-0011
+203. PÁTY KÖZSÉG ÖNKORMÁNYZATA Páty – KEOP-7.1.0/11-
+2012-0058
+204. PINCEHELY NAGYKÖZSÉG ÖNKORMÁNYZATA Pincehely Tolnanémedi KEOP-7.1.0/11-
+2012-0054
+205. CELLDÖMÖLK VÁROS ÖNKORMÁNYZATA Celldömölk (Izsákfa) – KEOP-7.1.0/11-
+2012-0052
+206. DUDAR KÖRNYÉKI SZENNYVÍZCSATORNA- ÉS
+SZENNYVÍZTISZTÍTÓMŰ FEJLESZTÉSI
+ÖNKORMÁNYZATI TÁRSULÁS
+Dudar Bakonynána,
+Bakonyoszlop,
+Bakonyszentkirály,
+Csesznek,
+Nagyesztegár,
+Olaszfalu
+KEOP-7.1.0/11-
+2011-0017
+207. CEGLÉDBERCEL KÖZSÉG ÖNKORMÁNYZATA Ceglédbercel – KEOP-7.1.0/11-
+2012-0026
+208. MEZŐHEGYES VÁROS ÖNKORMÁNYZATA Mezőhegyes – KEOP-7.1.0/11-
+2012-0032
+209. TISZASZENTIMRE KÖZSÉGI ÖNKORMÁNYZAT Tiszaszentimre – KEOP-7.1.0/11-
+2012-0004
+210. TAPOLCA VÁROS ÖNKORMÁNYZATA Tapolca – KEOP-7.1.0/11-
+2012-0055
+211. CIBAKHÁZA NAGYKÖZSÉGI ÖNKORMÁNYZAT Cibakháza – KEOP-7.1.0/11-
+2012-0056
+212. KOMLÓ VÁROS ÖNKORMÁNYZAT Komló – KEOP-7.1.0/11-
+2011-0014
+213. JÁSZFÉNYSZARU SZENNYVÍZELVEZETÉSI
+AGGLOMERÁCIÓS TÁRSULÁS
+Jászfényszaru Pusztamonostor KEOP-7.1.0/11-
+2012-0034
+214. ARANYOSAPÁTI KÖZSÉG ÖNKORMÁNYZATA Aranyosapáti – KEOP-7.1.0/11-
+2012-0039
+215. IZSÁK VÁROS ÖNKORMÁNYZATA Izsák – KEOP-7.1.0/11-
+2011-0039
+216. DUNAPATAJ NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Dunapataj – KEOP-7.1.0/11-
+2012-0059
+217. OKÁNY KÖZSÉGI ÖNKORMÁNYZAT Okány – KEOP-7.1.0/11-
+2011-0005
+218. NAGYRÁBÉ NAGYKÖZSÉG ÖNKORMÁNYZATA Nagyrábé – KEOP-7.1.0/11-
+2012-0027
+
+219. BUGYI NAGYKÖZSÉG ÖNKORMÁNYZATA Bugyi – KEOP-7.1.0/11-
+2012-0053
+220. TISZADADA KÖZSÉG ÖNKORMÁNYZATA Tiszadada – KEOP-7.1.0/11-
+2011-0013
+221. ELŐSZÁLLÁS NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Előszállás – KEOP-7.1.0/11-
+2011-0001
+222. SZAMOSSZEG KÖZSÉG ÖNKORMÁNYZATA Szamosszeg – KEOP-7.1.0/11-
+2012-0044
+223. PUSZTASZABOLCS VÁROS ÖNKORMÁNYZAT Pusztaszabolcs – KEOP-7.1.0/11-
+2012-0046
+224. BALKÁNY VÁROS ÖNKORMÁNYZATA Balkány – KEOP-7.1.0/11-
+2012-0043
+225. MIKEPÉRCS KÖZSÉGI ÖNKORMÁNYZAT Mikepércs – KEOP-7.1.0/11-
+2011-0022
+226. VERPELÉT NAGYKÖZSÉGI ÖNKORMÁNYZAT Verpelét – KEOP-7.1.0/11-
+2012-0015
+227. BUJÁK KÖZSÉG ÖNKORMÁNYZATA Buják – KEOP-7.1.0/11-
+2011-0024
+228. BUCSA KÖZSÉG ÖNKORMÁNYZATA Bucsa – KEOP-7.1.0/11-
+2011-0004
+229. KENDERES VÁROSI ÖNKORMÁNYZAT Kenderes – KEOP-7.1.0/11-
+2012-0031
+230. SZENTES VÁROS ÖNKORMÁNYZATA Szentes – KEOP-7.1.0/11-
+2011-0009
+231. NAGYKOVÁCSI NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Nagykovácsi – KEOP-7.1.0/11-
+2012-0045
+232. PÉTERVÁSÁRA, ERDŐKÖVESD, VÁRASZÓ,
+ISTENMEZEJE, BÜKKSZENTERZSÉBET,
+TARNALELESZ SZENTDOMONKOS
+SZENNYVÍZCSATORNA-HÁLÓZAT ÉS
+SZENNYVÍZTISZTÍTÓ BERUHÁZÓ
+ÖNKORMÁNYZATI TÁRSULÁS
+Pétervására – KEOP-7.1.0/11-
+2012-0041
+233. MEZŐTÁRKÁNY KÖZSÉG ÖNKORMÁNYZATA Mezőtárkány Egerfarmos KEOP-7.1.0/11-
+2012-0022
+234. SZEDRES-MEDINA KÖZSÉGEK
+SZENNYVÍZTELEP ÉS CSATORNAHÁLÓZAT
+REKONSTRUKCIÓS ÖNKORMÁNYZATI
+TÁRSULÁSA
+Szedres – KEOP-7.1.0/11-
+2011-0036
+235. CSONGRÁD VÁROS ÖNKORMÁNYZATA Csongrád – KEOP-7.1.0/11-
+2011-0008
+236. ÉSZAKDUNÁNTÚLI VÍZMŰ ZÁRTKÖRŰEN
+MŰKÖDŐ RÉSZVÉNYTÁRSASÁG
+Dunaalmás Almásfüzitő,
+Neszmély
+KEOP-7.1.0/11-
+2012-0049
+237. ADONY VÁROS ÖNKORMÁNYZATA Adony – KEOP-7.1.0/11-
+2012-0050
+238. KUNMADARAS NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Kunmadaras – KEOP-7.1.0/11-
+2012-0037
+239. MARTONVÁSÁR VÁROS ÖNKORMÁNYZATA Martonvásár Gyúró, Ráckeresztúr,
+Tordas
+KEOP-7.1.0/11-
+2012-0018
+240. BÁCSBOKOD NAGYKÖZSÉG
+ÖNKORMÁNYZATA
+Bácsbokod – KEOP-7.1.0/11-
+2012-0047
+241. MÉHKERÉK KÖZSÉG ÖNKORMÁNYZATA Méhkerék – KEOP-7.1.0/11-
+2012-0035
+242. FÖLDES NAGYKÖZSÉG ÖNKORMÁNYZATA Földes – KEOP-7.1.0/11-
+2011-0114
+243. CSANYTELEK KÖZSÉG ÖNKORMÁNYZATA Csanytelek – KEOP-7.1.0/11-
+2011-0027
+244. ŐCSÉNY-DECS ÖNKORMÁNYZATI
+SZENNYVÍZTÁRSULÁS
+Őcsény – KEOP-7.1.0/11-
+2012-0033
+
+245. EGYEK NAGYKÖZSÉG ÖNKORMÁNYZATA Egyek – KEOP-7.1.0/11-
+2011-0028
+246. BORSODNÁDASD VÁROS ÖNKORMÁNYZATA Borsodnádasd – KEOP-7.1.0/11-
+2011-0010
+247. MADARAS KÖZSÉG ÖNKORMÁNYZATA Madaras Katymár KEOP-7.1.0/11-
+2012-0048
+248. BAGAMÉR NAGYKÖZSÉG ÖNKORMÁNYZATA Bagamér – KEOP-7.1.0/11-
+2012-0038
+249. ARLÓ NAGYKÖZSÉG ÖNKORMÁNYZATA Arló – KEOP-7.1.0/11-
+2012-0062
+250. KONYÁR KÖZSÉG ÖNKORMÁNYZATA Konyár – KEOP-7.1.0/11-
+2011-0023
+251. SOLT VÁROS ÖNKORMÁNYZAT Solt – KEOP-7.1.0/11-
+2012-0029
+252. JÁSZDÓZSA KÖZSÉGI ÖNKORMÁNYZAT Jászdózsa – KEOP-7.1.0/11-
+2011-0012
+253. ABONY VÁROS ÖNKORMÁNYZATA Abony – KEOP-7.1.0/11-
+2011-0006
+254. BIHARNAGYBAJOM-SÁRRÉTUDVARI
+VÍZIKÖZMŰ BERUHÁZÁSI TÁRSULÁS
+Biharnagybajom – KEOP-7.1.0/11-
+2011-0033
+* A KEOP azonosítók közlése tájékoztató jellegű, azok a projektek könnyebb beazonosíthatóságát szolgálják. Az előkészítési fázisban levő projektek a megvalósítás
+szakaszában új KEOP azonosítóval rendelkeznek majd.
+2. Értékelés alatt álló projektek
+A B
+1. Pályázó neve KEOP azonosító*
+2. BUDAPEST-BUDAÖRS SZENNYVÍZELVEZETÉSI BERUHÁZÓ ÖNKORMÁNYZATI
+TÁRSULÁS
+KEOP-1.2.0/09-11-2011-0056
+3. DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ
+ÖNKORMÁNYZATI TÁRSULÁS (SOMOGYTÚR AGGLOMERÁCIÓ)
+KEOP-1.2.0/09-11-2012-0012
+4. DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ
+ÖNKORMÁNYZATI TÁRSULÁS (KARÁD AGGLOMERÁCIÓ)
+KEOP-1.2.0/09-11-2012-0013
+5. DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ
+ÖNKORMÁNYZATI TÁRSULÁS (SIÓFOK AGGLOMERÁCIÓ)
+KEOP-1.2.0/09-11-2012-0014
+6. DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ
+ÖNKORMÁNYZATI TÁRSULÁS (KÉTHELY AGGLOMERÁCIÓ)
+KEOP-1.2.0/09-11-2012-0015
+7. DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ
+ÖNKORMÁNYZATI TÁRSULÁS (BALATONLELLE AGGLOMERÁCIÓ)
+KEOP-1.2.0/09-11-2012-0016
+8. KISTELEK VÁROS ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0011
+9. ELEK VÁROS ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0020
+10. GÁVAVENCSELLŐ NAGYKÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0022
+11. ÚJHARTYÁN KÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0023
+12. KONYÁR KÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0024
+13. GYÖMRŐ VÁROS ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0027
+14. MEDGYESEGYHÁZA VÁROS ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0021
+15. CSONGRÁD VÁROS ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0019
+16. BUJÁK KÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0025
+17. JÁNKMAJTIS-CSEGÖLD VIZIKÖZMŰ BERUHÁZÁSI TÁRSULÁS KEOP-1.2.0/09-11-2012-0027
+18. FÜLÖP KÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0029
+19. SZÉKKUTAS KÖZSÉGI ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0028
+20. KAZINCBARCIKA VÁROS ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0030
+21. KEHIDAKUSTÁNY KÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2012-0031
+22. ELŐSZÁLLÁS NAGYKÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2013-0001
+23. CSERKESZŐLŐ KÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2013-0002
+
+24. BIHARNAGYBAJOM -SÁRRÉTUDVARI VÍZIKÖZMŰ BERUHÁZÁSI TÁRSULÁS KEOP-1.2.0/09-11-2013-0003
+25. SZENTES VÁROS ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2013-0004
+26. CSANYTELEK KÖZSÉG ÖNKORMÁNYZATA KEOP-1.2.0/09-11-2013-0005
+2. melléklet a 29/2013. (II. 12.) Korm. rendelethez
+Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági
+eljárások:
+1. vízügyi hatósági eljárások (vízjogi engedélyezések, védőidom, védőterület és védősáv kijelölése, vízi szolgalom
+alapítása),
+2. környezetvédelmi hatósági eljárások,
+3. természetvédelmi hatósági eljárások,
+4. területrendezési hatósági eljárások,
+5. általános építésügyi hatósági eljárások,
+6. örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos hatósági eljárások,
+7. útügyi hatósági eljárások,
+8. a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról
+szóló 320/2010. (XII. 27.) Korm. rendelet szerinti építésügyi hatósági engedélyezési eljárások,
+9. hírközlési hatósági eljárások,
+10. telekalakításra irányuló hatósági eljárások,
+11. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+12. földmérési hatósági eljárások,
+13. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
+14. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+15. erdővédelmi hatósági eljárások,
+16. tűzvédelmi hatósági eljárások,
+17. műszaki biztonsági engedélyezési eljárások,
+18. közegészségügyi hatósági eljárások,
+továbbá a felsorolt ügyfajtákban kiadott hatósági döntések esetleges módosítására irányuló hatósági eljárások.
