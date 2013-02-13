@@ -58,4 +58,6 @@ Fontos társadalmi okból kivételes szabályozást igénylő testületek
 
 | Bizottság a káreljárás lefolytatására | szakpolitikai ok | HM |
 
-[^8]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be.
+| Cigányügyi Egyeztető Tanács | fontos társadalmi ok | EMMI |
+
+[^8]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be, szövege az 1048/2013. (II. 12.) Korm. határozat 11. pontja szerint módosított szöveg.
