@@ -1,0 +1,3 @@
+## 3. § Az R. 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha az 1. §-ban meghatározott kötelezettség teljesítése veszélybe kerül – különösen, ha a vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll – a miniszter a helyi önkormányzattal folytatott egyeztetést követően a fejlesztéspolitikáért felelős miniszterrel és az érintett miniszterrel előterjesztést készít a Kormány részére a beruházásnak a Kormány saját hatáskörében történő megvalósításáról. A fejlesztéspolitikáért felelős miniszter önállóan – előzetes egyeztetések nélkül is –, kezdeményezheti a szennyvízberuházásoknak a Kormány saját hatáskörében történő megvalósítását.”
