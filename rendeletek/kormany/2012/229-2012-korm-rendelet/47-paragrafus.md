@@ -1,7 +1,7 @@
-47. § (1)[^14] Az illetékes kormányhivatal 2013. augusztus 31-éig a Hivatal által meghatározott módon továbbítja a 7. § (3) és (4) bekezdése és a 13. § (1) bekezdése szerinti okiratokat, a bejelentés és a változás-bejelentés okát, valamint a 4. § (1) bekezdése szerinti adatok közül a változással érintett adatokat.
+47. § (1)[^15] Az illetékes kormányhivatal 2013. augusztus 31-éig a Hivatal által meghatározott módon továbbítja a 7. § (3) és (4) bekezdése és a 13. § (1) bekezdése szerinti okiratokat, a bejelentés és a változás-bejelentés okát, valamint a 4. § (1) bekezdése szerinti adatok közül a változással érintett adatokat.
 
 (2) Az illetékes kormányhivatal és a jegyző a 25. § (2) bekezdése szerinti kötelezettségét első alkalommal 2012. szeptember 5–15. között teljesíti.
 
 (3) Az illetékes kormányhivatal és a fővárosban a főjegyző 2012. december 31-éig ellátja a 8. alcímben meghatározott feladatokat és a II. Fejezetben meghatározottak szerint működteti a pedagógusok helyettesítésére létrehozott helyettesítési rendszert. Az illetékes kormányhivatal és a főjegyző 2012. december 15-éig átadja az állami intézményfenntartó központnak a helyettesítési rendszerben nyilvántartott adatokat és okiratokat, továbbá a hatáskör megváltozásáról értesíti a helyettesítő pedagógusokat, egyidejűleg a záró jelentést készít a helyettesítés rendszer működtetéséről, amelyet legkésőbb 2013. január 5-éig megküld a miniszter részére.
 
-[^14]: A 47. § (1) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^15]: A 47. § (1) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
