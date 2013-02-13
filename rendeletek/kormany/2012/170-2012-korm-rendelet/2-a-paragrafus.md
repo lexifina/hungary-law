@@ -1,6 +1,4 @@
-## 2. § A helyi önkormányzatokért felelős miniszter (a továbbiakban: miniszter) figyelemmel kíséri az 1. §-ban meghatározott kötelezettségvállalások teljesítéséhez kapcsolódó beruházások megvalósítását. A miniszter tevékenysége tapasztalatairól évente jelentést készít a Kormány számára.
-
-2/A. §[^1] (1) Az érintett helyi önkormányzat a beruházás megvalósítása során haladéktalanul köteles a minisztert tájékoztatni az ok megjelölésével, amennyiben
+2/A. §[^3] (1) Az érintett helyi önkormányzat a beruházás megvalósítása során haladéktalanul köteles a minisztert tájékoztatni az ok megjelölésével, amennyiben
 
 a) a beruházás megvalósításához szükséges közbeszerzési eljárás lefolytatása akadályba ütközik, vagy a beruházás megvalósításának ütemezéséhez képest késik,
 
@@ -22,4 +20,4 @@ c) a beruházás megvalósítása a műszaki tartalom időközben bekövetkezett
 
 (8) A miniszter az (1)–(5) bekezdésben meghatározott adatokat az eredeti formában, elektronikus módon vagy papír alapon tartja nyilván. A beruházással kapcsolatos adatokat a beruházás befejezését követő 1 éven belül köteles a nyilvántartásból törölni.
 
-[^1]: A 2/A. §-t a 362/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2/A. §-t a 362/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
