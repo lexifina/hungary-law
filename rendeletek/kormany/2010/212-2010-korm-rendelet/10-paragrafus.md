@@ -48,9 +48,11 @@ d) ellátja a külföldre irányuló kormányzati kommunikációval kapcsolatos 
 
 e)[^44] gondoskodik a Nemzeti Fejlesztési Kormánybizottság működésével kapcsolatos döntés-előkészítési, ügyviteli és titkársági feladatok ellátásáról,
 
-f)[^45] szakmailag felügyeli a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság tevékenységét.
+f)[^45] szakmailag felügyeli a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság tevékenységét,
 
-(3)[^46] A Miniszterelnökséget vezető államtitkár
+g)[^46] irányítja a Magyar Nemzeti Digitális Archívum és Filmintézetet.
+
+(3)[^47] A Miniszterelnökséget vezető államtitkár
 
 a) gondoskodik a polgári hírszerzési tevékenység irányításával összefüggő jogszabályok és közjogi szervezetszabályozó eszközök előkészítéséről,
 
@@ -69,4 +71,5 @@ d) a miniszterelnök felkérése alapján megválaszolja a polgári hírszerzés
 [^43]: A 10. § (2) bekezdését a 118/2012. (VI. 26.) Korm. rendelet 4. §-a iktatta be.
 [^44]: A 10. § (2) bekezdés e) pontját a 162/2012. (VII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^45]: A 10. § (2) bekezdés f) pontját a 293/2012. (X. 16.) Korm. rendelet 1. §-a iktatta be.
-[^46]: A 10. § (3) bekezdését a 162/2012. (VII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^46]: A 10. § (2) bekezdés g) pontját a 25/2013. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^47]: A 10. § (3) bekezdését a 162/2012. (VII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.

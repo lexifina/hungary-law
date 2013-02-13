@@ -1,4 +1,4 @@
-29. §[^99] (1) A miniszter felelős az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogram összehangolásáért, amelynek keretében
+29. §[^100] (1) A miniszter felelős az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogram összehangolásáért, amelynek keretében
 
 a) koordinálja az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogram ifjúságra közvetlenül vonatkozó kormányzati kezdeményezéseket és döntéseket a feladat- és hatáskörrel rendelkező miniszterekkel együttműködve,
 
@@ -8,7 +8,7 @@ c) közreműködik az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogra
 
 d) irányítja a Mobilitás Országos Ifjúsági Igazgatóságot.
 
-(2)[^100] A miniszter az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogram összehangolásáért való felelőssége körébe tartozó tevékenységének koordinációjához, valamint az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a Zánka-Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe.
+(2)[^101] A miniszter az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogram összehangolásáért való felelőssége körébe tartozó tevékenységének koordinációjához, valamint az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a Zánka-Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe.
 
-[^99]: A 29. §-t a 94/2012. (V. 11.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte, újonnan a 282/2012. (X. 4.) Korm. rendelet 1. §-a iktatta be.
-[^100]: A 29. § (2) bekezdése a 305/2012. (X. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^100]: A 29. §-t a 94/2012. (V. 11.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte, újonnan a 282/2012. (X. 4.) Korm. rendelet 1. §-a iktatta be.
+[^101]: A 29. § (2) bekezdése a 305/2012. (X. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

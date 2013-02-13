@@ -1,4 +1,4 @@
-## 71/F. §[^258] A miniszter a nemzetiségpolitikáért való felelőssége körében
+## 71/F. §[^259] A miniszter a nemzetiségpolitikáért való felelőssége körében
 
 a) összehangolja a nemzetiség- és nemzetpolitikai stratégiai szempontokat,
 
@@ -20,4 +20,4 @@ i) működteti a nemzetiségi nevelési, oktatási feladatokhoz nyújtott támog
 
 j) kezdeményezi a Kormánynál az Alaptörvénnyel ellentétesen működő nemzetiségi önkormányzat feloszlatására vonatkozó határozati javaslat Országgyűlés részére történő benyújtását.
 
-[^258]: A 71/F. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
+[^259]: A 71/F. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
