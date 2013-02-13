@@ -1,0 +1,1 @@
+A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés q) pontjában és az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 33. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
