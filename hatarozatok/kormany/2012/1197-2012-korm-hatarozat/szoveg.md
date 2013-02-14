@@ -6,8 +6,6 @@ Felelős: külügyminiszter
 
 Határidő: e határozat közzétételét követő egy héten belül
 
-2. a közigazgatási és igazságügyi minisztert, hogy az érintett miniszterek bevonásával biztosítsa a szükséges koordinációs intézkedéseket a világkiállításon történő részvétel szakmai előkészítése érdekében.
+2.[^2]
 
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: folyamatos
+[^2]: A 2. pontot az 1055/2013. (II. 13.) Korm. határozat 7. pontja visszavonta.
