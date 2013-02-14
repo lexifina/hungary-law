@@ -8,7 +8,7 @@
 
 | 4. | Honvédelmi Minisztérium | 511 |
 
-| 5. | Külügyminisztérium | 632 |
+| 5. | Külügyminisztérium | 642 |
 
 | 6. | Nemzetgazdasági Minisztérium | 793 |
 
@@ -18,7 +18,7 @@
 
 | 9. | Vidékfejlesztési Minisztérium | 598 |
 
-| 10. | ÖSSZESEN: | 5583 |
+| 10. | ÖSSZESEN: | 5593 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -142,7 +142,7 @@
 
 | 57. | Országos Meteorológiai Szolgálat | 228 |
 
-| 58. | Nemzeti Földalapkezelő Szervezet | 145 |
+| 58. | Nemzeti Földalapkezelő Szervezet | 225 |
 
 | Honvédelmi Minisztérium |
 
@@ -174,7 +174,7 @@
 
 | 70. | Magyar Kereskedelmi Engedélyezési Hivatal | 287 |
 
-| 71. | Nemzeti Innovációs Hivatal | 106 |
+| 71. | Nemzeti Innovációs Hivatal | 98 |
 
 | 72. | Nemzeti Fogyasztóvédelmi Hatóság | 155 |
 
@@ -202,7 +202,7 @@
 
 | Külügyminisztérium |
 
-| 83. | Külképviseletek igazgatása | 1197 |
+| 83. | Külképviseletek igazgatása | 1200 |
 
 | Emberi Erőforrások Minisztériuma |
 
@@ -232,6 +232,6 @@
 
 | 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 93. | ÖSSZESEN: | 70 934 |
+| 93. | ÖSSZESEN: | 71 009 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
