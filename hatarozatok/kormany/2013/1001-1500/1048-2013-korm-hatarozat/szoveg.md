@@ -32,10 +32,8 @@ d) a Miniszterelnökséget vezető államtitkár.
 
 10. A Tanács működésével kapcsolatos ügyviteli és titkársági feladatokat az Emberi Erőforrások Minisztériuma látja el.
 
-11. A jogszabállyal vagy közjogi szervezetszabályozó eszközzel létrehozott testületek felülvizsgálatáról szóló 1158/2011. (V. 23.) Korm. határozat 3. mellékletében szereplő táblázat a következő sorral egészül ki:
-
-| Testület neve | A kivétel oka | Felelős miniszter |
-
-| Cigányügyi Egyeztető Tanács | fontos társadalmi ok | EMMI |
+11.[^1]
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
