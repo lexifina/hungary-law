@@ -1,0 +1,217 @@
+# A Kormány 41/2013. (II. 14.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 23. szám, 2013. február 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e05e2a246dc55db32ef45c6bfd999fef853f9a5e/dokumentumok/1f15c9647eff6a6408d5be826445dee7fd51db34/letoltes)
+
+---
+
+A Kormány 41/2013. (II. 14.) Korm. rendelete
+a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó
+nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló
+292/2008. (XII. 10.) Korm. rendelet módosításáról
+A Kormány a Washingtonban, 1973. március 3. napján elfogadott, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi
+kereskedelméről szóló egyezmény kihirdetéséről szóló 2003. évi XXXII. törvény 3. § (2) bekezdésében, valamint a természet
+védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 2. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk
+(1) bekezdésében megállapított feladatkörében eljárva a következőket rendeli el:
+1. § A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai
+közösségijogiaktusokvégrehajtásánakegyesszabályairólszóló292/2008.(XII. 10.) Korm.rendelet(a továbbiakban:R.)
+4. § (1)–(3) bekezdéseinek a helyébe a következő rendelkezések lépnek:
+„(1) Akinek a tanácsi rendelet A. mellékletében szereplő gerinces állatfaj példánya, valamint a tanácsi rendelet
+B. mellékletében szereplő emlős-, madár- és szárazfölditeknős-faj élő példánya (a továbbiakban együtt:
+bejelentésköteles példány) van a birtokában, köteles annak megszerzését, tartását, az ország területére történő
+behozatalát és az ország területéről történő kivitelét, elidegenítését, elhullását, megsemmisülését, tartási helyének
+megváltoztatását, megjelölését, újrajelölését, valamint szaporulatát bejelenteni. A bejelentést
+a) solymászmadár esetén a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőséghez,
+b) egyéb fokozottan védett állatfaj esetén a Főfelügyelőséghez, vagy
+c) az a) és b) pont alá nem eső faj esetén a tartás helye szerint illetékes felügyelőséghez
+kell megtenni.
+(2) Az (1) bekezdésben meghatározott bejelentési kötelezettség nem vonatkozik az 1. számú mellékletben felsorolt
+fajok példányaira, valamint azon vadászati trófeákra, amelyek jogszerű eredetét a tanácsi rendeletben szereplő
+engedélyekkel, illetve bizonylatokkal tudják igazolni.
+(3) A bejelentést – jogszabály eltérő rendelkezése hiányában – a megszerzéstől, az ország területére történő
+behozataltól, az ország területéről történő kiviteltől, az elidegenítéstől, az elhullástól, a megsemmisüléstől,
+a szaporulat létrejöttétől, illetve a tartási hely megváltoztatásától, a megjelöléstől, újrajelöléstől számított 30 napon
+belül kell megtenni. Állatkertek esetében az állatkert és az állatotthon létesítésének, működésének és fenntartásának
+részletes szabályairól szóló miniszteri rendelet szerint minden év március 1-jéig elkészített és benyújtott éves jelentés
+megfelel az e rendelet szerinti bejelentésnek, ha az valamennyi bejelentésköteles egyed esetében tartalmazza azokat
+az adatokat, amelyek a származási igazoláson, az eredetigazoláson, illetve a tenyésztői bizonylaton feltüntetésre
+kerülnek.”
+2. § Az R. 5. §-a következő (4) bekezdéssel egészül ki:
+„(4) A bejelentésköteles, 10 cm páncélhosszt meg nem haladó méretű teknősök a 865/2006/EK bizottsági rendelet
+64–67. cikkeiben meghatározott egyedi jelöléstől eltérően a felügyelőség által készített fotódokumentációval is
+jelölhetők.A fotózás helyét és idejét a felügyelőség határozza meg az ügyféllel történt egyeztetést követően. A jelölést
+legalább hat hónaponként meg kell ismételni.”
+3. § (1) Az R. 10. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) A példány elhullása, megsemmisülése esetén a származási igazolást, a tenyésztői bizonylatot, az eredetigazolást,
+tanácsi rendeletben szereplő import és export engedélyt, illetve re-export bizonylatot, az EU-bizonylatot
+a bejelentésköteles példány tartásának helye szerint illetékes felügyelőség részére 30 napon belül meg kell küldeni,
+amely azt bevonja, vagy EU bizonylat esetében bevonás céljábóltovábbítja a kiállító hatóságnak, külföldi hatóság által
+kiállított EU bizonylat esetében az igazgatási hatóságnak.”
+(2) Az R. 10. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A származási igazolással, tenyésztői bizonylattal, eredetigazolással vagy EU bizonylattal rendelkező példány
+esetében a tanácsi rendelet szerinti export engedély vagy re-export bizonyítvány iránti kérelemhez mellékelni kell
+az eredeti származási igazolást, a tenyésztői bizonylatot, az eredetigazolást vagy az EU bizonylatot, amelyet
+az igazgatási hatóság bevon.”
+
+4. § Az R. 11. §-a helyébe a következő rendelkezés lép:
+„11. § (1) A kérelmezőnek az engedély iránti kérelemben nyilatkoznia kell arról, hogy vele szemben a természet
+védelméről szóló 1996. évi LIII. törvény 78/B. § (2) és (3) bekezdésében meghatározott kizáró ok fennáll-e.
+(2) A tanácsi rendelet 4. cikke szerinti import-, az 5. cikke szerinti exportengedély és re-export bizonylat iránti kérelmet
+el kell utasítani, ha a kérelmezett tevékenység állategészségügyi kockázattal jár.”
+5. § Az R. 14. §-a helyébe a következő rendelkezés lép:
+„14. § (1) Főemlősök élő egyedei – a közönséges makákó (Macaca fascicularis), a rhesusmajom (Macaca mulatta) és
+a közönséges selyemmajom (Callithrix jacchus) állatkísérletekről szóló kormányrendeletben meghatározott
+intézményben tartott egyedei kivételével – kizárólag az állatkert és az állatotthon létesítésének, működésének és
+fenntartásánakrészletesszabályairólszólóminiszterirendeletbenfoglalttartásifeltételekteljesítéseeseténtarthatók.
+(2) Emberszabású majmok (gorillák – Gorilla spp., orángutánok – Pongo spp., csimpánzok – Pan spp. és gibbonok –
+Hylobatidae spp.) élő egyedei kizárólag az állatkert és az állatotthon létesítésének, működésének és fenntartásának
+részletes szabályairól szóló miniszteri rendelet szerint működő állatkertben tarthatók.
+(3) Nem emberszabású főemlősök élő egyedei – a 2013. március 1-jét megelőzően bejelentett egyedek, valamint
+az állatkísérletekről szóló kormányrendeletben előírtaknak megfelelően működő intézményekben tartott egyedek
+kivételével – kizárólag az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes
+szabályairól szóló miniszteri rendelet szerint működő állatkertben tarthatók.”
+6. § Az R. 17. § (1)–(3) bekezdései helyébe a következő rendelkezések lépnek:
+„(1) A tanácsi rendelet hatálya alá tartozó tokfaj kaviárjának feldolgozásával, csomagolásával,illetve átcsomagolásával
+foglalkozó üzem által a 865/2006/EK bizottsági rendelet 66. cikkének (7) bekezdése szerinti engedély iránti kérelmet
+a 9. számú mellékletben meghatározott adattartalommal kell benyújtani.
+(2) A kaviártároló edény jelölésére szolgáló, a 865/2006/EK bizottsági rendelet 66. cikk (6) bekezdésében
+meghatározott címkén (a továbbiakban: címke), ha a csomagolt kaviár Magyarország területéről származik,
+a következő adatokat kell feltüntetni:
+a) azon faj 7. számú melléklet szerint kódja, amelynek ikrájából a kaviárt készítették,
+b) a csomagolt kaviár eredetének kódja a 865/2006/EK bizottsági rendelet IX. melléklete szerint,
+c) a származási ország kétbetűs ISO kódja,
+d) a kaviár kinyerésének éve,
+e) a csomagoló üzem egyedi azonosító kódja, és
+f) a csomagoló üzem által a tételek nyomon követésére használt azonosító.
+(3) A címkén, amennyiben az átcsomagolt kaviár nem Magyarország területéről származik, a következő adatokat kell
+feltüntetni:
+a) azon faj 7. számú melléklet szerinti kódja, amelynek ikrájából a kaviárt készítették,
+b) az átcsomagolt kaviár eredetének kódja a 865/2006/EK bizottsági rendelet IX. melléklete szerint,
+c) a származási ország kétbetűs ISO kódja,
+d) az átcsomagolás éve,
+e) az átcsomagoló üzem telephelye szerinti ország kétbetűs ISO kódja, ha ez különbözik a származási országtól és
+az átcsomagoló üzem egyedi azonosító kódja, és
+f) az üzem által a tételek nyomon követésére használt azonosító.”
+7. § (1) Az R. 20. § (1) és (2) bekezdése helyébe az alábbi rendelkezések lépnek:
+„(1) Amennyiben a tanácsi rendelet A–D. mellékletében meghatározott faj példányának tartása, szállítása,
+kereskedelme a szükséges engedély, illetve bizonylat hiányában történik, illetve a példány szállítására jogszabályi
+vagy hatósági előírás megszegésével kerül sor, a 3. § (3) bekezdése szerinti hatóság – a 4. § (1) bekezdése szerinti
+hatóság kivételével – a példányt a helyszíni intézkedés során, jegyzőkönyv felvétele mellett visszatartja és megteszi
+a külön jogszabályok szerinti intézkedéseket, amelyről 48 órán belül értesíti a 4. § (1) bekezdés szerinti hatóságot,
+valamint az igazgatási hatóságot. A visszatartott élő példány elhelyezése iránt az igazgatási hatóság véleményének
+kikérésével a 4. § (1) bekezdés szerinti hatóság intézkedik.
+(2) A 4. § (1) bekezdésében meghatározott hatóság – az általa végzett ellenőrzés vagy más hatóság által
+az (1) bekezdés szerint foganatosított visszatartás nyomán – lefoglalja azt a példányt, amelynek jogszerű importját,
+
+exportját, re-exportját vagy tartásának jogszerűségét annak birtokosa az ellenőrzés során nem igazolja, és határidő
+kitűzésével felhívja az ügyfelet a példány eredetét igazoló iratok bemutatására.”
+(2) Az R. 20. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) Egyszerű megítélésű ügy esetén, ha a példány eredetét igazoló iratok hiánya, a példány tartásának
+jogellenessége a (2) bekezdés szerinti felhívás hiányában is kétséget kizáró módon megállapítható, a hatóság
+a lefoglalásról való döntéshozatalt mellőzheti, és a példány elkobzásáról dönthet.”
+(3) Az R. 20. §-a a következő (6)–(8) bekezdésekkel egészül ki:
+„(6) Tilos a lefoglalt, elkobzott példányok szaporítása – ideértve a véletlen szaporulat létrejöttét is –, kivéve, ha
+a lefoglalást, elkobzást kimondó döntés a szaporítást kifejezetten lehetővé teszi.
+(7) Ha az elkobzást kimondó határozat lehetővé teszi a példány szaporításba vonását, a védetté vagy fokozottan
+védetté nyilvánított fajok esetében a szaporulat is állami tulajdonban marad. Egyéb fajok esetében az elkobzást
+kimondó határozat rendelkezhet arról, hogy az elkobzott példány szaporulatának tulajdonjoga az annak ellátását
+végző mentőközpontot illeti meg.
+(8) Ha közigazgatási hatóság az e rendelet hatálya alá tartozó példány lefoglalásról, elkobzásáról dönt, a lefoglalásról,
+elkobzásról rendelkező határozatát az igazgatási hatósággal közli. A közlési kötelezettség akkor is fennáll, ha
+a lefoglalásra, az elkobzásra nem e rendelet alapján került sor.”
+8. § Az R. 22. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) A 4. § (1) bekezdés szerinti hatóság, ha a példány (1) bekezdésben meghatározott mentőközpontban való
+a) elhelyezésére – a tartáshoz szükséges férőhely vagy más feltétel hiányában – nincs lehetőség,
+b) elhelyezése aránytalanul magas költséggel járna, vagy
+c) elhelyezését állatjóléti szempontok nem indokolják,
+az igazgatási hatóság véleményének kikérését követően dönthet a lefoglalt vagy elkobzott példánynak
+az (1) bekezdésben szereplő mentőközpontoktól eltérő, általa kijelölt mentőközpontban történő elhelyezéséről.”
+9. § Az R. 24. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) A 2013. március 1-jét megelőzően lefoglalt, elkobzott példányok esetében a felügyelőség, illetve a Főfelügyelőség
+a mentőközpont kérelmére külön határozatban engedélyezheti a szaporításba vonást.”
+10. § Az R.
+a) 3. § (3) bekezdésében a „vám- és pénzügyőrség” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal”,
+b) 3. § (4) bekezdésében az „igazolásokról” szövegrész helyébe az „igazolásokról, valamint az EU bizonylatokról”,
+c) 9. § (1) bekezdésében a „tartása” szövegrész helyébe a „tartása, kivitele”,
+d) 20.§ (4) bekezdésébenaz„Azigazgatásihatóság”szövegrészhelyébeaz„A4.§ (1) bekezdésszerintihatóság”,
+e) 21. § (2) bekezdésében az „az igazgatási hatóság” szövegrész helyébe az „a 4. § (1) bekezdés szerinti hatóság”,
+f) 2. számú mellékletében az „Az eredeti CITES-engedélyengedély száma / CITES permit No.” szövegrész helyébe
+az „Az eredeti CITES-engedély száma, származási ország, kiállítás dátuma / CITES permit No, country of origin,
+date of issue.”,
+g) 3. számú mellékletbena „Környezetvédelmiés Vízügyi Minisztérium” szövegrészhelyébea „Közép-Duna-völgyi
+Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség”,
+h) 4. számú mellékletében a „Név” szövegrész helyébe a „Tenyésztő neve, telefonszáma, e-mail címe”, a „Faj”
+szövegrész helyébe a „Faj neve (magyar és latin)”, a „Szülőállatok egyedi azonosító száma(i)” szövegrész
+helyébe a „Mindkét szülőállat egyedi azonosító száma, nyilvántartási száma, eredetkódja”
+szöveg lép.
+11. § (1) Az R. 6. számú melléklete helyébe az 1. melléklet lép.
+(2) Az R. a 2. melléklet szerinti 9. számú melléklettel egészül ki.
+12. § (1) Hatályát veszíti az R. 7. § (2) bekezdése, 18. § (3) bekezdése, valamint 24. § (3) bekezdése.
+(2) Hatályát veszíti az R. 1. számú mellékletében az „Arborophila charltonii Örvös hegyifogoly, Arborophila orientalis
+Fehérarcú hegyifogoly” szövegrész.
+
+13. § (1) Ez a rendelet 2013. március 1-jén lép hatályba.
+(2) Ez a rendelet
+a) a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló,
+1996. december 9-i 338/97/EK tanácsi rendelet 16. és 20. cikke,
+b) a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló
+338/97/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. május
+4-i 865/2006/EK bizottsági rendelet 66. cikk (6) és (7) bekezdése
+végrehajtásához szükséges rendelkezéseket állapít meg.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 41/2013. (II. 14.) Korm. rendelethez
+„6. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez
+A tanácsi rendelet 12. cikk 1. pontjával összhangban kijelölt határátkelőhelyek listája
+Importra kijelölt határátkelőhelyek = (1)
+(Re-)exportra kijelölt határátkelőhelyek = (2)
+Élő állatok Állati részek, származékok Élő növények
+Növényi részek/
+származékok
+Budapest Liszt Ferenc
+Nemzetközi
+Repülőtér
+1, 2 1, 2 1, 2 1, 2
+MVCSV (posta) 1, 2 1, 2
+Záhony (közút) 1, 2 1, 2 1, 2 1, 2
+Eperjeske (vasút) 2 1, 2 1, 2 1, 2
+Röszke (közút) 1, 2 1, 2 1, 2 1, 2
+Kelebia (vasút) 2 1, 2 1, 2 1, 2
+Mohács (hajó) 1, 2 1, 2
+Udvar (közút) 2 2
+Gyékényes (vasút) 2 1, 2 1, 2 1, 2
+Letenye (közút) 2 1, 2 1, 2 1, 2
+Az élő állatok esetében a határátkelők import esetén csak az alábbi fajok vonatkozásában használhatók:
+Röszke: Kedvtelésből tartott, nem patás állatok.
+Záhony: Kedvtelésből tartott, nem patás állatok, és valamint páratlanujjú patás.
+Budapest Liszt Ferenc Nemzetközi Repülőtér: Valamennyi állat.”
+
+2. melléklet a 41/2013. (II. 14.) Korm. rendelethez
+„9. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez
+A kaviár feldolgozása, csomagolása, illetve átcsomagolása iránti kérelem tartalma
+Feldolgozás* Csomagolás Átcsomagolás
+ENGEDÉLYKÉRELEM
+[A négyzetben jelölje be a kérelmezett tevékenység(ek) tárgyát!]
+Kérelmezőre vonatkozó adatok
+1. Kérelmező neve (cég neve):
+2. Kérelmező képviselője:
+3. Címe (lakóhely/székhely):
+4. Amennyiben már nyilvántartásba van véve, az üzem egyedi azonosító kódja:
+A kérelmezett tevékenységre vonatkozó információk
+5. A tevékenység részletes leírása:
+6. A tevékenység végzésének helye:
+7. A tevékenység tervezett ideje:
+A kérelem tárgyát képező tevékenységre vonatkozó adatok
+8. Az évente várhatóan csomagolt, átcsomagolt és/vagy forgalomba hozott kaviár mennyisége:
+9. A várhatóan csomagolt, átcsomagolt és forgalomba hozott kaviárt adó tokhalfajok:
+10. A kaviár tervezett beszerzési forrása (amennyiben nem saját üzemében történik a tokhalak tenyésztése, a kaviár
+feldolgozása és/vagy a kaviártartalmú termékek előállítása, illetve csomagolása, a szerződött üzem neve és címe):
+Mellékelt dokumentumok
+– címke terv
+– a 13/2011. (V. 9.) KöM rendelet hatálya alá tartozó fajok példányaival végzett tevékenység esetén a tartási/
+hasznosítási engedély másolata
+– más üzemmel történő együttműködés esetén a szerződés másolata
+* Feldolgozó üzemnek minősülnek a kaviárt előállító akvakultúrák is.
+Dátum:
+Aláírás:”
+
+V. A Kormány tagjainak rendeletei
