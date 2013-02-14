@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-93-20-2
 | --- | --- | --- |
 | 2012-05-18 | 2012-93-20-22.1 | 93/2012. (V. 10.) Korm. rendelet |
 | 2012-05-19 | 2012-93-20-22.2 | 2010: CXXX. törvény |
+| 2013-02-14 | 2012-93-20-22.3 | 32/2013. (II. 13.) Korm. rendelet |

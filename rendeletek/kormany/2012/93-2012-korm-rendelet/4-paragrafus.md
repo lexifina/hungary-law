@@ -12,7 +12,9 @@ ac) a közúti jelzés, berendezés tartószerkezetének, magasságkorlátozó k
 
 ad) az út műtárgyai közül az áteresz építése,
 
-ae) az úttartozékok közül a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb építmények, berendezések – kivéve a pihenőhely – építése, továbbá a hóvédő erdősáv, fasor, cserjesáv telepítése;
+ae) az úttartozékok közül a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb építmények, berendezések – kivéve a pihenőhely – építése, továbbá a hóvédő erdősáv, fasor, cserjesáv telepítése,
+
+af)[^1] az elektronikus útdíjszedési és díjellenőrzési létesítmények építése, átépítése, üzemeltetése és karbantartása;
 
 b) külterületen:
 
@@ -31,3 +33,5 @@ ca) a meglévő út burkolatának további forgalmi sáv – beleértve a külö
 cb) a meglévő csomópontnak további forgalmi sáv – beleértve a többlet- és különleges forgalmi sávot is – létesítésével nem járó átépítése, forgalomirányító lámpával való ellátása; kivéve a körforgalmú csomóponttá történő átépítést.
 
 (2) A közlekedési hatósági engedély mellőzése a munkavégzéssel kapcsolatos egyéb engedélyek beszerzésének szükségességét nem érinti, és nem mentesít a munkavégzés szabályszerűségéért való felelősség alól.
+
+[^1]: A 4. § (1) bekezdés a) pont af) alpontját a 32/2013. (II. 13.) Korm. rendelet 1. §-a iktatta be.
