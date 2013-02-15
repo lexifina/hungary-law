@@ -1,27 +1,29 @@
-## Az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótléka előirányzat 90%-ának felosztási aránya*
+## Az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótléka előirányzat 10%-ának felosztási aránya
 
 |  | Egyház neve | Támogatási arány |
 
-| 1. | Magyar Katolikus Egyház | 72,6190% |
+| 1. | Gyulafehérvári Római Katolikus Érsekség | 14,2% |
 
-| 2. | Magyarországi Református Egyház | 20,2477% |
+| 2. | Nagyváradi Római Katolikus Püspökség | 5% |
 
-| 3. | Magyarországi Evangélikus Egyház | 3,4311% |
+| 3. | Szatmárnémeti Római Katolikus Püspökség | 4,7% |
 
-| 4. | Magyarországi Zsidó Hitközségek Szövetsége | 2,6830% |
+| 4. | Erdélyi Református Egyházkerület | 14,2% |
 
-| 5. | Budai Szerb Ortodox Egyházmegye | 0,1078% |
+| 5. | Királyhágómelléki Református Egyházkerület | 9,3% |
 
-| 6. | Konstantinápolyi Egyetemes Patriarchátus – Magyarországi Ortodox Exarchátus | 0,0288% |
+| 6. | Erdélyi Unitárius Egyház | 4,7% |
 
-| 7. | Magyarországi Román Ortodox Egyház | 0,1509% |
+| 7. | Romániai Evangélikus-Lutheránus Egyház | 1,3% |
 
-| 8. | Magyar Unitárius Egyház Magyarországi Egyházkerülete (Magyarországi Unitárius Egyház) | 0,0288% |
+| 8. | Nagybecskereki Római Katolikus Püspökség | 12,9% |
 
-| 9. | Magyarországi Baptista Egyház | 0,3809% |
+| 9. | Szerbiai Református Keresztyén Egyház | 7,3% |
 
-| 10. | Magyar Pünkösdi Egyház | 0,3220% |
+| 10. | Munkácsi Római Katolikus Egyházmegye | 9,9% |
 
-## * A Kormány által az egyházakkal kötött 2001-es és 2002-es, az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótlékára vonatkozó megállapodások alapján került meghatározásra.
+| 11. | Munkácsi Görög Katolikus Egyházmegye | 3,3% |
+
+| 12. | Kárpátaljai Református Egyházkerület | 13,2% |
 
 5/a. melléklet a 142/2012. (VII. 3.) Korm. rendelethez
