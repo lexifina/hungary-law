@@ -34,4 +34,6 @@ Határidő: folyamatosan
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7. A Kormány visszavonja a 2015. évi Milánói Világkiállításon történő magyar részvételről szóló 1197/2012. (VI. 18.) Korm. határozat 2. pontját.
+7.[^2]
+
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
