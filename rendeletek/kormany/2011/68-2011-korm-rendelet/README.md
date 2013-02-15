@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-68-20-2
 | --- | --- | --- |
 | 2011-04-29 | 2011-68-20-22.1 | 68/2011. (IV. 28.) Korm. rendelet |
 | 2011-04-30 | 2011-68-20-22.2 | 2010: CXXX. törvény |
+| 2013-02-15 | 2011-68-20-22.3 | 36/2013. (II. 14.) Korm. rendelet |
