@@ -1,0 +1,3 @@
+12. § (1) A Kvtv. 2. melléklet IV. fejezet 1. pont e) alpontja alapján további együttesen összesen 135,3 millió forint támogatást (ezen alcím alkalmazásában a továbbiakban: támogatás) igényelhetnek azok a települési önkormányzatok, amelyek 2013. január 1-jét megelőzően is múzeumot tartottak fenn és erre a feladatra 2013. évben legalább 1 millió forint támogatást biztosítanak saját költségvetésükből.
+
+(2) A támogatás csak olyan múzeum fenntartásához igényelhető, amely 2011. évre vonatkozóan teljesítette az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendeletben meghatározott statisztikai adatszolgáltatási (a továbbiakban: statisztikai adatszolgáltatás) kötelezettséget.
