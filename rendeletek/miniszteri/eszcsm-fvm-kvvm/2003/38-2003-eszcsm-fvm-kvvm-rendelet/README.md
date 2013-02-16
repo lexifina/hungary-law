@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-38-20-0
 | 2012-11-01 | 2003-38-20-0M.24 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-02-01 | 2003-38-20-0M.25 | 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet |
 | 2013-02-08 | 2003-38-20-0M.26 | 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet |
+| 2013-02-16 | 2003-38-20-0M.27 | 14/2013. (II. 15.) EMMI rendelet |
