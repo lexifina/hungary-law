@@ -28,19 +28,19 @@ i)[^43] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 
 (4)[^44] A (3) bekezdés szerinti információadás 24 órás, folyamatos, továbbá ingyenesen hívható telefonszámon is igénybe vehető szolgáltatás keretében működik. Az információadás a (3) bekezdés a)–h) pontjaiban meghatározott esetekben díjtalan, az i) pont szerinti szakvéleményért díjat kell fizetni.
 
-(5)[^45] Az emberi mérgezési esetet – ideértve a veszélyes anyag vagy veszélyes keverék hatására orvosi ellátás nélkül halált eredményező heveny mérgezési eseteket is – elektronikus úton az OTH Szakrendszeri Információs Rendszer által biztosított módon be kell jelenteni az ETTSZ-nek, valamint papír alapon az egészségügyi szolgáltató érintett telephelye szerint illetékes kormányhivatal megyei népegészségügyi szakigazgatási szervének, függetlenül attól, hogy a mérgezés szándékos vagy gondatlan magatartás, illetve fel nem róható baleset eredményeként következett be.
+(5)[^45] Az emberi mérgezési esetet – ideértve a veszélyes anyag vagy veszélyes keverék hatására orvosi ellátás nélkül halált eredményező heveny mérgezési eseteket is – elektronikus úton az OTH Szakrendszeri Információs Rendszer által biztosított módon be kell jelenteni az ETTSZ-nek, függetlenül attól, hogy a mérgezés szándékos vagy gondatlan magatartás, illetve fel nem róható baleset eredményeként következett be.
 
 (6)[^46] A bejelentést az esetet lezáró orvos, illetve egészségügyi intézmény teszi meg a mérgezett személy intézményből történő elbocsátását, illetve esetleges elhalálozását követő egy héten belül.
 
 (7)[^47] A 12. számú melléklet szerinti tartalmú mérgezési eset bejelentő lapot az első ellátást végző orvos – ha a (2) bekezdés alapján nem ő a bejelentő – a további ellátásra szoruló beteg esetén kitöltve, a beteggel együtt továbbküldi a végleges kórismét megállapító orvoshoz, illetve egészségügyi intézményhez, aki (amely) az adatlap adatait felhasználja a bejelentés megtételéhez.
 
-(8) A bejelentőlapot az azt lezáró orvos, illetőleg egészségügyi intézmény – a mérgezett személy intézményből történő elbocsátását, illetőleg esetleges elhalálozását követő egy héten belül – megküldi az ETTSZ-nek.
+(8)[^48]
 
-(8a)[^48] A mérgezett kezelését ellátó intézmény – az (5) bekezdés szerinti bejelentések adattartalmával – az általa megtett mérgezési eset-bejelentéseket nyilvántartja.
+(8a)[^49] A mérgezett kezelését ellátó intézmény – az (5) bekezdés szerinti bejelentések adattartalmával – az általa megtett mérgezési eset-bejelentéseket nyilvántartja.
 
 (9) A mérgezési esetekről az ETTSZ az Egészségügyi Minisztérium beszámolási rendjének megfelelő összesítő jelentést készít.
 
-(10)[^49] A mérgezési esetbejelentések teljesítésének ellenőrzése a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének a feladata.
+(10)[^50] A mérgezési esetbejelentések teljesítésének ellenőrzése a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének a feladata.
 
 (11) A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyi miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
 
@@ -52,8 +52,9 @@ i)[^43] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^42]: A 8. § (3) bekezdésének c) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^43]: A 8. § (3) bekezdésének i) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^44]: A 8. § (4) bekezdése a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének f) pontja, az 1/2009. (I. 30.) EüM rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^45]: A 8. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^45]: A 8. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított, a 14/2013. (II. 15.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^46]: A 8. § (6) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított szöveg.
 [^47]: A 8. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^48]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
-[^49]: A 8. § (10) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^48]: A 8. § (8) bekezdését a 14/2013. (II. 15.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
+[^49]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
+[^50]: A 8. § (10) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.

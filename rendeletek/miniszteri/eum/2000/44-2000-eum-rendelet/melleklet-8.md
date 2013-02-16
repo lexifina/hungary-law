@@ -1,4 +1,4 @@
-8. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^144]
+8. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^145]
 
 ## A veszélyes anyagok magyarországi jegyzéke egyes tételeinek adattartalma
 
@@ -14,4 +14,4 @@
 
 6. Az 1272/2008/EK európai parlamenti és tanácsi rendelet szerinti óvintézkedésre utaló P mondat (mondatok) száma (számai)
 
-[^144]: A 8. számú melléklet a 25/2010. (V. 12.) EüM rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^145]: A 8. számú melléklet a 25/2010. (V. 12.) EüM rendelet 1. § (10) bekezdésével megállapított szöveg.
