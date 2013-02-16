@@ -1,1 +1,3 @@
-## 7. § E rendelet 1. számú mellékletében felsorolt veszélyes állatok köréből a pit bull terrier és keverékei, valamint a veszélyesnek nyilvánított eb tartására az állam- és közbiztonságról szóló 1974. évi 17. törvényerejű rendelet, valamint a veszélyes és veszélyesnek minősített eb tartásáról és a tartás engedélyezésének szabályairól szóló 35/1997. (II. 26.) Korm. rendelet rendelkezései vonatkoznak.
+## 7. §[^7]
+
+[^7]: A 7. §-t a 7/2013. (II. 13.) VM rendelet 1. § (3) bekezdése hatályon kívül helyezte.

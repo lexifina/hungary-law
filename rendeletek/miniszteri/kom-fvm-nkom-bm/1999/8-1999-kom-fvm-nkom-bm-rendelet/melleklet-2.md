@@ -42,8 +42,6 @@
 
 ## Farkas (Canis lupus)
 
-## Pit bull terrier, valamint annak valamennyi egyede és keveréke, melyet veszélyes ebnek minősítettek
-
 ## Ursidae Medvefélék
 
 ## Valamennyi faj (Ursidae spp.)
@@ -65,6 +63,8 @@
 ## Jaguár (Panthera onca)
 
 ## Leopárd (Panthera pardus)
+
+## Puma (Puma concolor)
 
 ## Hópárduc (Uncia uncia)
 
@@ -134,10 +134,6 @@
 
 ## Valamennyi faj (Casuaridae spp.)
 
-## Dromaiidae Emufélék
-
-## Emu (Dromaius novaehollandiae)
-
 ## Falconiformes – Sólyomalkatúak
 
 ## Cathartidae Újvilági keselyűk
@@ -202,8 +198,6 @@
 
 ## Boidae Óriáskígyók
 
-## Boa (Boa constrictor)
-
 ## Anakonda (Eunectes murinus)
 
 ## Tigrispiton (Python molurus)
@@ -211,8 +205,6 @@
 ## Kockáspiton (Python reticulatus)
 
 ## Sziklapiton (Python sebae)
-
-## Ametiszt kígyó (Liasis amethistinus)
 
 ## Colubridae Siklófélék
 

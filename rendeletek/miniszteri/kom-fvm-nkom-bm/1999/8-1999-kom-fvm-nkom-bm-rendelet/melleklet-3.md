@@ -24,11 +24,11 @@
 
 3. számú melléklet a 8/1999. (VIII. 13.) KöM–FVM–NKÖM–BM
 
-együttes rendelethez
+együttes rendelethez[^9]
 
 A veszélyes állatokra vonatkozó tartási feltételek
 
-és biztonsági előírások[^5]
+és biztonsági előírások[^10]
 
 Gerinctelenek
 
@@ -125,12 +125,6 @@ A kifutót határoló anyag magassága, ha rács: 1 × a testhossz, ha üveg vag
 | Kazuár |  |  |
 
 |  | (2 egyed) | 250 m2 | 6 m2/egyed |
-
-| Emu |  |  |
-
-|  | (2 egyed) | 200 m2 | 4 m2/egyed |
-
-|  | további egyed | +100 m2 |  |
 
 | Kerítésmagasság: 2 m |  |  |
 
@@ -364,4 +358,5 @@ Kifutóhatároló 2 m magas masszív anyagból. Lehetséges száraz- vagy vizes�
 
 |  | további egyed | +60 m2 | fajoknál |
 
-[^5]: A megadott méretek a minimális feltételeket jelölik.
+[^9]: A 3. számú melléklet a 7/2013. (II. 13.) VM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A megadott méretek a minimális feltételeket jelölik.
