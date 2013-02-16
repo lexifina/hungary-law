@@ -1,0 +1,5 @@
+4. § (1) Ez a rendelet – a (2) és a (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1. § (3) bekezdése és az 1. melléklet 2. pontja 2014. február 1-jén lép hatályba.
+
+(3) Az 1. § (4) bekezdése és az 1. melléklet 3–5. pontja 2014. május 1-jén lép hatályba.
