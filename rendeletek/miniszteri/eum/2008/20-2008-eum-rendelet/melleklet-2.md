@@ -1,4 +1,4 @@
-2. melléklet a 20/2008. (V. 14.) EüM rendelethez[^8]
+2. melléklet a 20/2008. (V. 14.) EüM rendelethez[^12]
 
 ## Az előállító utasításai szerint elkészített anyatej-kiegészítő tápszerek alapvető összetétele
 
@@ -234,4 +234,4 @@ A következő nukleotidokat lehet hozzáadni:
 
 (1) A nukleotidok együttes koncentrációja nem haladja meg az 1,2 mg/100 kJ-t (5 mg/100 kcal-t).
 
-[^8]: A 2. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) szerint módosított szöveg.
+[^12]: A 2. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) szerint módosított szöveg.

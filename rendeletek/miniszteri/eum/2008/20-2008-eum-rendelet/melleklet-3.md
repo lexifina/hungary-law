@@ -1,4 +1,4 @@
-3. melléklet a 20/2008. (V. 14.) EüM rendelethez[^9]
+3. melléklet a 20/2008. (V. 14.) EüM rendelethez[^13]
 
 ## Tápanyagok
 
@@ -114,4 +114,4 @@ Kolin-bitartarát
 
 Inozit
 
-[^9]: A 3. melléklet a 41/2009. (XI. 23.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 3. melléklet a 41/2009. (XI. 23.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.

@@ -10,8 +10,8 @@ b) az anyatej-helyettesítő és anyatej-kiegészítő tápszer további alkalma
 
 (3) Az OTH a vizsgálat eredményének ismeretében, külön jogszabályban meghatározott feladatkörében eljárva megteszi a szükséges intézkedéseket és erről a forgalmazásban részt vevőket, illetve a bejelentőt közvetlenül értesíti.
 
-(4)[^2]
+(4)[^4]
 
 (5) Az e rendeletben nem szabályozott kérdésekben az R. I. előírásait kell alkalmazni.
 
-[^2]: A 16. § (4) bekezdését a 41/2009. (XI. 23.) EüM rendelet 7. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 16. § (4) bekezdését a 41/2009. (XI. 23.) EüM rendelet 7. § (3) bekezdés a) pontja hatályon kívül helyezte.
