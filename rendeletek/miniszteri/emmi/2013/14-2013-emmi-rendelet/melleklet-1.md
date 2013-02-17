@@ -1,14 +1,11 @@
 1. melléklet a 14/2013. (II. 15.) EMMI rendelethez
 
-1. Az R1. 1. számú mellékletében foglalt táblázat a következő 55. sorral egészül ki:
+1.[^5]
 
-| [Sorszám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Terméktípus | Különös rendelkezések(2)] |
+2.[^6]
 
-| 55. | DDA-karbonát | Az N,N-didecil-N,N- dimetil- ammónium-karbonát és az N,N-didecil-N,N-dimetil- ammónium-bikarbonát reakcióelegye EK-szám: 451-900-9 CAS-szám: 894406-76-9 | Száraz tömeg: 740 g/kg | 2013. február 1. | Tárgytalan | 2023. január 31. | 8 | Az uniós szintű kockázatértékelés nem vizsgált minden lehetséges felhasználási módot: egyes felhasználásokra, például a nem foglalkozásszerű felhasználók általi használatra nem terjedt ki. A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – amennyiben ez az adott termék esetében releváns – el kell végezni azon felhasználási vagy expozíciós körülmények, valamint a környezeti elemeket és népességcsoportokat érintő azon kockázatok értékelését, amelyek nem szerepeltek reprezentatív módon az uniós szintű kockázatértékelésben. Az engedély a következő feltételekkel adható ki: 1. Az ipari felhasználók vonatkozásában biztonságos munkafolyamatokat kell meghatározni, és a termékeket megfelelő egyéni védőeszközökkel kell használni, kivéve, ha a termék engedélyezése iránti kérelemben bizonyítható, hogy a kockázatok más módon is elfogadható szintre csökkenthetők. 2. Az engedélyezett termékek címkéin és – ha van – biztonsági adatlapjain fel kell tüntetni, hogy az ipari felhasználásnak zárt helyen vagy folyadékot át nem eresztő, szilárd aljzatú, gáttal védett helyen kell történnie, továbbá a frissen kezelt faanyagot a kezelést követően fedett helyen vagy folyadékot át nem eresztő, szilárd aljzatú helyen – illetve mindkét feltételnek megfelelő helyen – kell tárolni a talajba vagy vízbe történő közvetlen kibocsátás elkerülése érdekében, valamint hogy a termék felhasználása során kiszivárgott minden szerfelesleget újrafelhasználás vagy ártalmatlanítás céljából össze kell gyűjteni. 3. A termékek nem engedélyezhetők édesvízzel érintkező, illetve víz közeli vagy víz feletti, kültéri építményekhez felhasznált faanyagok kezelésére, illetve az időjárási viszonyoknak állandóan kitett vagy nedvességnek gyakran kitett faanyagok merítéssel történő kezelésére, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék – szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével – megfelel az 5. § és a 6. számú melléklet követelményeinek. |
+3–5.[^7]
 
-2.[^3]
-
-3–5.[^4]
-
-[^3]: Az 1. melléklet 2. pontja a 4. § (2) bekezdése alapján 2014. február 1-jén lép hatályba.
-[^4]: Az 1. melléklet 3–5. pontja a 4. § (3) bekezdése alapján 2014. május 1-jén lép hatályba.
+[^5]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet 2. pontja a 4. § (2) bekezdése alapján 2014. február 1-jén lép hatályba.
+[^7]: Az 1. melléklet 3–5. pontja a 4. § (3) bekezdése alapján 2014. május 1-jén lép hatályba.
