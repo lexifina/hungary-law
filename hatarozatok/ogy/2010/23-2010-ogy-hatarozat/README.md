@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2012-11-12 | 2010-23-30-41.49 | 79/2012. (XI. 16.) OGY határozat |
 | 2012-12-17 | 2010-23-30-41.50 | 95/2012. (XII. 18.) OGY határozat |
 | 2013-02-11 | 2010-23-30-41.51 | 1/2013. (II. 14.) OGY határozat |
+| 2013-02-18 | 2010-23-30-41.52 | 5/2013. (II. 20.) OGY határozat |
