@@ -1,1 +1,0 @@
-## 1. § Ez a rendelet határozza meg a villamos energia és a földgáz egyetemes szolgáltató által az egyetemes szolgáltatásra jogosult felhasználók részére kibocsátott számla számlaképére vonatkozó minimális követelményeket.
