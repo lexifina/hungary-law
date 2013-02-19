@@ -8,7 +8,7 @@ A 2012. évi támogatások számítása során alkalmazandó maximális fajlagos
 
 | 2. Rizs – termeléstől elválasztott támogatás | 307,60 EUR/történelmi bázisjogosultság |
 
-| 3. Dohány (Burley) – termeléstől elválasztott támogatás | 3142,13 EUR/történelmi bázisjogosultság |
+| 3. Dohány (Burley) – termeléstől elválasztott támogatás | 2143,13 EUR/történelmi bázisjogosultság |
 
 | 4. Dohány (Virginia) – termeléstől elválasztott támogatás | 2754,43 EUR/történelmi bázisjogosultság |
 
@@ -26,4 +26,4 @@ A 2012. évi támogatások számítása során alkalmazandó maximális fajlagos
 
 | 11. Tej – termeléstől elválasztott támogatás | 28,17 EUR/1000 történelmi bázisjogosultság |
 
-[^3]: Az 1. mellékletet a 139/2012. (XII. 22.) VM rendelet 22. § (2) bekezdése iktatta be.
+[^3]: Az 1. mellékletet a 139/2012. (XII. 22.) VM rendelet 22. § (2) bekezdése iktatta be, szövege a 8/2013. (II. 18.) VM rendelet 16. §-a szerint módosított szöveg.
