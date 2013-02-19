@@ -7,3 +7,7 @@
 (3) A (2) bekezdés szerinti határozatnak tartalmaznia kell az ügyfelet megillető kérődző szerkezetátalakítási támogatási jogosultságok darabszámát, valamint azok egységértékét.
 
 (4) A támogatási jogosultság az azt megállapító határozat jogerőre emelkedésével kerül az ügyfél tulajdonába.
+
+(5)[^26] Az MVH a kérődző szerkezetátalakítási támogatási jogosultságok darabszámát, valamint azok egységértékét két tizedesjegy pontossággal tartja nyilván.
+
+[^26]: A 8. § (5) bekezdését a 8/2013. (II. 18.) VM rendelet 10. §-a iktatta be.

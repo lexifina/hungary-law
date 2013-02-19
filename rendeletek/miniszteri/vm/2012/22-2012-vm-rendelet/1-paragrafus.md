@@ -10,7 +10,7 @@
 
 4. Árbevétel: az elismert tevékenységekből származó, hazai és uniós forrásból származó támogatások nélküli bevétel;
 
-5.[^1] Beruházás: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény (a továbbiakban: Törvény) szerinti olyan, az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített, támogatás nélkül értendő ráfordítások összessége, amely az elismert tevékenységet szolgálja, és amelynek megvalósulása az ügyfél saját nevére szóló érvényes számlával, teljesítési igazolással, használatbavételi engedéllyel, adásvételi szerződéssel, a mindenkori hatályos vonatkozó, a haszonállatok nyilvántartásának szabályait meghatározó rendeletnek megfelelő nyilvántartással vagy egyéb közokirattal teljes körűen igazolható;
+5.[^1] Beruházás: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény (a továbbiakban: Törvény) szerinti olyan, az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített, támogatás nélkül értendő ráfordítások összessége – bele nem számítva a saját munkavégzést – amely az elismert tevékenységet szolgálja, és amelynek megvalósulása az ügyfél saját nevére szóló érvényes számlával, teljesítési igazolással, használatbavételi engedéllyel, adásvételi szerződéssel, a mindenkori hatályos vonatkozó, a haszonállatok nyilvántartásának szabályait meghatározó rendeletnek megfelelő nyilvántartással, teljes bizonyító erejű magánokirattal, vagy egyéb közokirattal teljes körűen igazolható és szerepel a tárgyi eszköz nyilvántartásban;
 
 6. Beruházási részteljesítés: a beruházás olyan részegysége, amelynek megvalósulása önállóan is elszámolható és az ügyfél saját nevére szóló érvényes számlával, teljesítési igazolással, használatbavételi engedéllyel, adásvételi szerződéssel, a mindenkori hatályos vonatkozó, a haszonállatok nyilvántartásának szabályait meghatározó rendeletnek megfelelő nyilvántartással vagy egyéb közokirattal teljes körűen igazolható;
 
@@ -44,6 +44,12 @@
 
 21. Tárgyév: az a támogatási időszakon belüli naptári év, amikor a termelő különleges támogatás iránti kérelmet nyújt be.
 
-[^1]: Az 1. § 5. pontja a 48/2012. (V. 16.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+22.[^4] Felújítás: a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 8. pontja szerinti fogalom;
+
+23.[^5] Elkülönített nyilvántartás: azon támogatási feltétel megvalósítását eredményező eseményekről szóló külön nyilvántartás, illetve külön analitikus nyilvántartás eredeti bizonylatai, amelyek e rendeletben meghatározott feltétel teljesítéséhez az ügyfél vagyoni és jövedelmi helyzetére hatást gyakorolnak, azzal, hogy könyvvezetési kötelezettség esetén az ügyfél kiadásait, valamint a bevételeit is tartalmazza, szabályzatban meghatározott helyen, bármikor ellenőrizhetően tárolt, őrzött módon, legalább a vonatkozó jogszabályokban előírt iratmegőrzési határidőig.
+
+[^1]: Az 1. § 5. pontja a 8/2013. (II. 18.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 16. pontja a 48/2012. (V. 16.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 18. pontja a 48/2012. (V. 16.) VM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 22. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^5]: Az 1. § 23. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
