@@ -1,4 +1,4 @@
-## 11–12. §[^7]
+## 11–12. §[^8]
 
 13. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 10. § (3) és (4) bekezdése 2013. július 1-jén lép hatályba.
 
-[^7]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
