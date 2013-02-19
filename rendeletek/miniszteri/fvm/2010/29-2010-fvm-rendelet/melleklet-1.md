@@ -1,6 +1,7 @@
-## 21. §[^35] E rendeletnek az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2012. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 29/2012. (III. 24.) VM rendelettel megállapított 16. § (1) és (2) bekezdését a 2012. március 1-jétől benyújtott átírási kérelmekre is alkalmazni kell.
+## 22. §[^42] E rendeletnek az egyes különleges támogatások szabályozásáról szóló miniszteri rendeletek módosításáról szóló 8/2013. (II. 18.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 4. § (4a)–(6) bekezdését, 4. § (9) bekezdését, valamint 7/A. §-át a módosító rendelet hatálybalépésekor[^43] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 29/2010. (III. 30.) FVM rendelethez[^36]
+1. melléklet a 29/2010. (III. 30.) FVM rendelethez[^44]
 
-[^35]: A 21. §-t a 29/2012. (III. 24.) VM rendelet 23. § (2) bekezdése iktatta be.
-[^36]: Az 1. melléklet a 34/2010. (IV. 9.) FVM rendelet 20. § (2) bekezdése szerint módosított szöveg.
+[^42]: A 22. §-t a 8/2013. (II. 18.) VM rendelet 4. §-a iktatta be.
+[^43]: A hatálybalépés napja: 2013. február 19.
+[^44]: Az 1. melléklet a 34/2010. (IV. 9.) FVM rendelet 20. § (2) bekezdése szerint módosított szöveg.

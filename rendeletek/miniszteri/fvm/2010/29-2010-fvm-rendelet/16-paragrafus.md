@@ -1,10 +1,10 @@
-16. §[^26] (1)[^27] A zöldség-, illetve gyümölcs szerkezetátalakítási támogatási jogosultság
+16. §[^32] (1)[^33] A zöldség-, illetve gyümölcs szerkezetátalakítási támogatási jogosultság
 
 a) részben, vagy egészben kizárólag a szerkezetátalakítási programba bejelentkezett zöldség-, gyümölcstermelőre, vagy
 
 b) gazdaságátadási támogatást igénybe vevő termelő által bármely, a gazdaságot átvevő személyre ruházható át.
 
-(2)[^28] A Virginia, illetve a Burley dohány szerkezetátalakítási támogatási jogosultság
+(2)[^34] A Virginia, illetve a Burley dohány szerkezetátalakítási támogatási jogosultság
 
 a) részben, vagy egészben kizárólag a szerkezetátalakítási programba bejelentkezett Virginia, Burley dohánytermelőre, vagy
 
@@ -38,6 +38,6 @@ d) azt a személyt, akire vagy amelyre gazdaságátadási támogatást igénybev
 
 (12) A (10) és (11) bekezdésében foglaltak alól kivételt képez, ha az átruházást követően öröklés vagy jogutódlás útján, vagy gazdaságátadási támogatási igénybe vevő termelőtől átruházás útján kerül a termelő a tulajdonába a szerkezetátalakítási támogatási jogosultság.
 
-[^26]: A 16. § a 4/2012. (II. 7.) VM rendelet 11. §-ával megállapított szöveg.
-[^27]: A 16. § (1) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^28]: A 16. § (2) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^32]: A 16. § a 4/2012. (II. 7.) VM rendelet 11. §-ával megállapított szöveg.
+[^33]: A 16. § (1) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^34]: A 16. § (2) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.

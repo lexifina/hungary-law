@@ -1,4 +1,4 @@
-## 8. §[^15] Az egységes területalapú támogatás (SAPS) igénybevételét szolgáló 2010. évi egységes kérelem, a programba újonnan belépő zöldség-, gyümölcstermelők esetében a 2012. évi egységes kérelem benyújtása, valamint a 3. § (1) és (2) bekezdése szerinti nyilatkozat egyben az 1122/2009/EK bizottsági rendelet 2. cikk (14) pontja, valamint a rendeletben foglaltak szerinti különleges támogatás igénybevételére való jogosultság megállapítására, valamint e jogosultság alapján történő kifizetésre vonatkozó kérelemnek minősül.
+## 8. §[^20] Az egységes területalapú támogatás (SAPS) igénybevételét szolgáló 2010. évi egységes kérelem, a programba újonnan belépő zöldség-, gyümölcstermelők esetében a 2012. évi egységes kérelem benyújtása, valamint a 3. § (1) és (2) bekezdése szerinti nyilatkozat egyben az 1122/2009/EK bizottsági rendelet 2. cikk (14) pontja, valamint a rendeletben foglaltak szerinti különleges támogatás igénybevételére való jogosultság megállapítására, valamint e jogosultság alapján történő kifizetésre vonatkozó kérelemnek minősül.
 
 9. § (1) A szerkezetátalakítási programban résztvevő termelőt a jogosult településen 2010. évi egységes terület alapú (SAPS) támogatási kérelme alapján megállapított területe után, legfeljebb a vonatkozó referencia terület hektárszámával megegyező számú támogatási jogosultság illeti meg.
 
@@ -6,20 +6,20 @@
 
 (3) A termelőt megillető zöldség, gyümölcs, Virginia, valamint Burley dohány szerkezetátalakítási támogatási jogosultságot az MVH a termelő által 2010-ben benyújtott egységes kérelem, valamint a 3. § (1) bekezdésben foglalt nyilatkozata alapján külön-külön állapítja meg.
 
-(3a)[^16] A programba újonnan belépő zöldség-, gyümölcstermelőket megillető zöldség, gyümölcs szerkezetátalakítási támogatási jogosultságot az MVH a termelő által 2012-ben benyújtott egységes kérelem, valamint a 3. § (2) bekezdésben foglalt nyilatkozata alapján külön-külön állapítja meg.
+(3a)[^21] A programba újonnan belépő zöldség-, gyümölcstermelőket megillető zöldség, gyümölcs szerkezetátalakítási támogatási jogosultságot az MVH a termelő által 2012-ben benyújtott egységes kérelem, valamint a 3. § (2) bekezdésben foglalt nyilatkozata alapján külön-külön állapítja meg.
 
 (4) Amennyiben a Virginia, valamint Burley dohánytermelő a dohánytermeléshez kötött nemzeti támogatási jogosultságát 2009. május 15-ét követően másra átruházta, vagy ilyen támogatási jogosultságot megszerzett, és amelyet a nyilvántartásban történő átvezetés érdekében a történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet előírásai szerint az MVH-nak bejelentésre került, a termelőt megillető Virginia, valamint Burley dohány szerkezetátalakítási támogatási jogosultságok darabszámát az érintett résszel korrigált mértékre is figyelemmel kell megállapítani.
 
-(5)[^17] A (3), valamint (3a) bekezdés szerinti határozatnak tartalmaznia kell a termelőt megillető támogatási jogosultságok darabszámát, valamint a referenciaterület megállapításánál figyelembe vett település nevét.
+(5)[^22] A (3), valamint (3a) bekezdés szerinti határozatnak tartalmaznia kell a termelőt megillető támogatási jogosultságok darabszámát, valamint a referenciaterület megállapításánál figyelembe vett település nevét.
 
 (6) A támogatási jogosultság az azt megállapító határozat jogerőre emelkedésével kerül a termelő tulajdonába.
 
-(7)[^18] A (4) bekezdés szerint átruházott dohánytermeléshez kötött nemzeti támogatási jogosultság alapján megállapításra kerülő szerkezetátalakítási támogatási jogosultság esetében az (5) bekezdés szerinti településnek a termelő azon más dohány szerkezetátalakítási támogatási jogosultsága megállapításánál figyelembe vett referenciaterülete vagy területei szerinti települést vagy településeket kell tekinteni, amely vagy amelyek közigazgatási területén 2010-ben egységes területalapú támogatást vett igénybe, és ezen területekkel más szerkezetátalakítási támogatási jogosultságokat nem aktivál. Több ilyen település esetén az MVH a (3), valamint (3a) bekezdés szerinti határozatban azt a települést vagy településeket állapítja meg, ahol a termelőnek sorrendben a legnagyobb referencia területe(i) található(k). Ilyen település hiányában az (5) bekezdés szerinti településnek a dohánytermeléshez kötött nemzeti támogatási jogosultság alapján 2009-ben igénybe vett termeléshez kötött támogatás megállapításánál figyelembe vett terület szerint települést kell tekinteni.
+(7)[^23] A (4) bekezdés szerint átruházott dohánytermeléshez kötött nemzeti támogatási jogosultság alapján megállapításra kerülő szerkezetátalakítási támogatási jogosultság esetében az (5) bekezdés szerinti településnek a termelő azon más dohány szerkezetátalakítási támogatási jogosultsága megállapításánál figyelembe vett referenciaterülete vagy területei szerinti települést vagy településeket kell tekinteni, amely vagy amelyek közigazgatási területén 2010-ben egységes területalapú támogatást vett igénybe, és ezen területekkel más szerkezetátalakítási támogatási jogosultságokat nem aktivál. Több ilyen település esetén az MVH a (3), valamint (3a) bekezdés szerinti határozatban azt a települést vagy településeket állapítja meg, ahol a termelőnek sorrendben a legnagyobb referencia területe(i) található(k). Ilyen település hiányában az (5) bekezdés szerinti településnek a dohánytermeléshez kötött nemzeti támogatási jogosultság alapján 2009-ben igénybe vett termeléshez kötött támogatás megállapításánál figyelembe vett terület szerint települést kell tekinteni.
 
-(8)[^19] A (4) bekezdést nem kell alkalmazni, amennyiben az a személy, akire vagy amelyre a dohánytermeléshez kötött nemzeti támogatási jogosultságot átruházták, ezen rendelet vonatkozásában nem minősül dohánytermelőnek.
+(8)[^24] A (4) bekezdést nem kell alkalmazni, amennyiben az a személy, akire vagy amelyre a dohánytermeléshez kötött nemzeti támogatási jogosultságot átruházták, ezen rendelet vonatkozásában nem minősül dohánytermelőnek.
 
-[^15]: A 8. § a 4/2012. (II. 7.) VM rendelet 5. §-ával megállapított szöveg.
-[^16]: A 9. § (3a) bekezdését a 4/2012. (II. 7.) VM rendelet 6. §-a iktatta be.
-[^17]: A 9. § (5) bekezdése az 59/2012. (VI. 28.) VM rendelet 3. §-ával megállapított szöveg.
-[^18]: A 9. § (7) bekezdését az 55/2010. (V. 6.) FVM rendelet 3. §-a iktatta be, szövege a 4/2012. (II. 7.) VM rendelet 13. § (2) bekezdése szerint módosított szöveg.
-[^19]: A 9. § (8) bekezdését az 55/2010. (V. 6.) FVM rendelet 3. §-a iktatta be.
+[^20]: A 8. § a 4/2012. (II. 7.) VM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 9. § (3a) bekezdését a 4/2012. (II. 7.) VM rendelet 6. §-a iktatta be.
+[^22]: A 9. § (5) bekezdése az 59/2012. (VI. 28.) VM rendelet 3. §-ával megállapított szöveg.
+[^23]: A 9. § (7) bekezdését az 55/2010. (V. 6.) FVM rendelet 3. §-a iktatta be, szövege a 4/2012. (II. 7.) VM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 9. § (8) bekezdését az 55/2010. (V. 6.) FVM rendelet 3. §-a iktatta be.
