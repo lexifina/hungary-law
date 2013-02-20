@@ -1,1 +1,0 @@
-## „(2) Az ügyfél által vállalt foglalkoztatási kötelezettség részleges teljesítése, valamint beruházási, felújítási kötelezettség részleges teljesítése esetén az (1) bekezdésben foglalt összegek a nem teljesítés arányában veendők figyelembe valamennyi, ezen rendelet által szabályozott jogosultság esetében.”
