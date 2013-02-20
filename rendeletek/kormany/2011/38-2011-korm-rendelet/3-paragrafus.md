@@ -6,15 +6,11 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 |  | A nyilvántartás megnevezése | Adatfeldolgozó | Az adatfeldolgozó által végzett adatfeldolgozás köre | Az adatfeldolgozó igénybevételének jellege |
 
-| 1. | Foglalkoztatási és Szociális Adatbázis | Kopint-Datorg Zrt. | elektronikus adatfeldolgozás | kötelező |
-
-| államigazgatási szerv | nem elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+| 1. | Foglalkoztatási és Szociális Adatbázis | Nemzeti Infokommunikációs Szolgáltató Zrt. | elektronikus adatfeldolgozás | kötelező |
 
 | 2. | Egységes szociális nyilvántartás | államigazgatási szerv | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
-| 3. | Az Áht. 124. § (2) bekezdés l) pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben meghatározott nyilvántartások, ide nem értve a Magyar Államkincstár által működtetett kincstári monitoring rendszert | Kopint-Datorg Zrt. | elektronikus adatfeldolgozás | kötelező |
-
-| államigazgatási szerv | nem elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+| 3. | Az Áht. 124. § (2) bekezdés l) pontjában foglalt | Nemzeti Infokommunikációs Szolgáltató Zrt. | elektronikus adatfeldolgozás | kötelező |
 
 | 4. | A polgárok személyi adatainak és lakcímének nyilvántartása | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
@@ -40,9 +36,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 13. | A Magyar igazolvány és a Magyar hozzátartozói igazolvány tulajdonosainak nyilvántartása | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
-| 14. | Kulturális örökségvédelmi nyilvántartás | Kopint-Datorg Zrt. | elektronikus adatfeldolgozás | kötelező |
-
-|  |  | államigazgatási szerv | nem elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+| 14. | Kulturális örökségvédelmi nyilvántartás | Nemzeti Infokommunikációs Szolgáltató Zrt. | elektronikus adatfeldolgozás | kötelező |
 
 | 15. | A Nemzeti Adó- és Vámhivatal által kezelt adóhatósági és vámhatósági adatok nyilvántartása | Pillér Pénzügyi és Számítástechnikai Kft. | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
@@ -62,4 +56,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 23. | Bűnügyi nyilvántartási rendszer | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
-[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24. §-a szerint módosított szöveg.
