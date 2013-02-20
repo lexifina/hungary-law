@@ -2,7 +2,7 @@
 
 3. § (1)[^12] Az 5. § (1) bekezdésében foglalt kivétellel az energetikai tanúsítványt (a továbbiakban: tanúsítvány) alátámasztó számítást az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet (a továbbiakban: Rend.) alapján kell elkészíteni.
 
-(2)[^13] Új épület építése esetén a tanúsítvány elkészíttetéséről az építtető gondoskodik a használatbavételi engedély kiadását követő 90 napon belül.
+(2)[^13] Új épület építése esetén a tanúsítvány elkészíttetéséről az építtető gondoskodik a használatbavételi engedély kiadását, vagy a használatbavétel tudomásulvételét követő 90 napon belül.
 
 (2a)[^14] Az épület vagy önálló rendeltetési egység értékesítésre vagy bérbeadásra való kínálásakor a reklámban fel kell tüntetni az épület vagy önálló rendeltetési egység energetikai minőség szerinti besorolását, amennyiben a tanúsítvány rendelkezésre áll.
 
@@ -37,7 +37,7 @@ esetében.
 (6) A kifüggesztett tanúsítvány mellett feltüntethető az előírt vagy ajánlott belső hőmérséklet és a tényleges belső hőmérséklet értéke, illetve további energetikai adatok, így különösen a megújuló energia felhasználása.
 
 [^12]: A 3. § (1) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^13]: A 3. § (2) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (2) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 46/2013. (II. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^14]: A 3. § (2a) bekezdését a 105/2012. (V. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^15]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^16]: A 3. § (4) bekezdés c) pontját a 105/2012. (V. 30.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.

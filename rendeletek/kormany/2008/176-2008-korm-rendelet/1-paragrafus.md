@@ -38,4 +38,4 @@ c)[^5] 500 m2-nél nagyobb hasznos alapterületű hatósági rendeltetésű, ál
 [^2]: Az 1. § (3) bekezdésének bevezető szövegrésze a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdés b) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdés b) pont bb) alpontja a 105/2012. (V. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (3) bekezdés c) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés c) pontja a 105/2012. (V. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg. [E módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint 2015. július 9. napjával az „ 500 m2, vagy ennél nagyobb” szövegrész helyébe a „250 m2, vagy ennél nagyobb” szöveg lép, nem vezethető át.]
