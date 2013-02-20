@@ -1,0 +1,1 @@
+## 22. § A közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverek megfelelőségét tanúsító szervezetek kijelölésének részletes szabályairól szóló 16/2006. (IV. 6.) BM rendelet alapján kijelölt bizottság elnökének és tagjainak kijelölése 2013. december 31-ig érvényes, azzal, hogy feladataikat e rendeletben foglalt szabályok szerint látják el.
