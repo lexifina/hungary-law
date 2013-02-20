@@ -1,0 +1,1 @@
+## 3. § Az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 3. § (2) bekezdésében a „használatbavételi engedély kiadását” szövegrész helyébe a „használatbavételi engedély kiadását, vagy a használatbavétel tudomásulvételét” szöveg lép.

@@ -1,0 +1,1 @@
+## 5. § A kéményseprő-ipari közszolgáltatásról szóló törvény végrehajtásáról szóló 347/2012. (XII. 11.) Korm. rendelet 1. § (1) bekezdésében az „építésügyi hatóságot, ” szövegrész helyébe az „építésfelügyeleti hatóságot, ” szöveg lép.
