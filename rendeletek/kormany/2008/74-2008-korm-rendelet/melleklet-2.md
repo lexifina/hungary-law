@@ -4,7 +4,7 @@
 
 | 1 | Sor- szám | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2 | 1. | Zsolnay Kulturális Negyed | Műemléki védelem alatt álló: | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 2 | 1. | Zsolnay Kulturális Negyed | Műemléki védelem alatt álló: | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 40504/1 hrsz., |  |  |  |
 
@@ -34,7 +34,7 @@
 
 | 9 |  |  | Zsolnay Pirogránit Üzem: 40504/6 hrsz. |  |  |  |
 
-| 10 | 2. | „Nagy Kiállítótér” projekt (a meg- változott projekt- tartalommal) | „Nagy kiállítótér új épületének területe” 18341 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 10 | 2. | „Nagy Kiállítótér” projekt (a meg- változott projekt- tartalommal) | „Nagy kiállítótér új épületének területe” 18341 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 11 |  |  | Martyn Ferenc Múzeum telke és a felette lévő park: 18342 hrsz., 18343 hrsz. |  |  |  |
 
@@ -58,11 +58,11 @@
 
 | 21 |  |  | Káptalan utca: 18344 hrsz. |  |  |  |
 
-| 22 |  |  | Aranyos Szent János kút: 18338 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 22 |  |  | Aranyos Szent János kút: 18338 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 23 |  |  | Eszperantó park: 17655 hrsz., 17654 hrsz. |  |  |  |
 
-| 24 | 3. | Pécsi Konferencia- és Koncert Központ | Közterületek (közpark, sétány): | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 24 | 3. | Pécsi Konferencia- és Koncert Központ | Közterületek (közpark, sétány): | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 40670 hrsz., |  |  |  |
 
@@ -150,7 +150,7 @@
 
 |  |  |  | 40681 hrsz. |  |  |  |
 
-| 26 | 4. | Közterek és parkok megújítása | Uránvárosi park rekonstrukciók: | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 26 | 4. | Közterek és parkok megújítása | Uránvárosi park rekonstrukciók: | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | Gyalog-kerékpárút, |  |  |  |
 
@@ -186,7 +186,7 @@
 
 | 28 |  |  | Út: 532 hrsz. |  |  |  |
 
-| 29 |  |  | Tettye-Havihegy városrész (parkrekonstrukció): | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 29 |  |  | Tettye-Havihegy városrész (parkrekonstrukció): | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | Tettye tér: |  |  |  |
 
@@ -216,7 +216,7 @@
 
 |  |  |  | 16235 hrsz. |  |  |  |
 
-| 30 |  |  | Nyári Színház megújítás (Szathmáry püspöki palota rom műemlék): 16208 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 30 |  |  | Nyári Színház megújítás (Szathmáry püspöki palota rom műemlék): 16208 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 31 |  |  | Magaslati út (rekonstrukció): 16212 hrsz. | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -236,7 +236,7 @@
 
 |  |  |  | 39309 hrsz. |  |  |  |
 
-| 33 |  |  | Havihegyi panoráma sétány, kilátópont, parképítés: 39315 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 33 |  |  | Havihegyi panoráma sétány, kilátópont, parképítés: 39315 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 393221 hrsz. 39322/2 hrsz. 39317 hrsz. |  |  |  |
 
@@ -260,7 +260,7 @@
 
 |  |  |  | 16244 hrsz. 16245 hrsz. |  |  |  |
 
-| 34 |  |  | Szabadtéri zarándokhely (oltár), a Havihegyi kápolna környezetének megújítása: 39316 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 34 |  |  | Szabadtéri zarándokhely (oltár), a Havihegyi kápolna környezetének megújítása: 39316 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 35 |  |  | Tettye utca (útrekonstrukció): 16899 hrsz. 16166 hrsz. 16210 hrsz. 16898 hrsz. | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -276,11 +276,11 @@
 
 | 41 |  |  | Barátúr utca (útrekonstrukció): 16187 hrsz. | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 42 |  |  | Ágoston tér (rekonstrukció, EKF kiállítótér, | Építésügyi Hatósági Engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 42 |  |  | Ágoston tér (rekonstrukció, EKF kiállítótér, | Építésügyi Hatósági Engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | Bányatörténeti emlékpark, épületfelújítás): 16717, 16718, 16719, 16723, 16444/1, 16652 hrsz., 16666, 17232,17240 hrsz.-ek |  |  |  |
 
-| 43 |  |  | Ágoston téri romok bemutatása: 16720/2,16720/1 hrsz.-ek | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 43 |  |  | Ágoston téri romok bemutatása: 16720/2,16720/1 hrsz.-ek | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 44 |  |  | Vince utca (út rekonstrukció): 16961,16919 hrsz.-ek | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -288,7 +288,7 @@
 
 | 46 |  |  | Kálvária utca (út rekonstrukció): 17104 hrsz. | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 47 |  |  | Pécs város központjának megújítása (Széchenyi tér és környéke): - Széchenyi tér felszín rekonstrukció 18479, 18480, 18481, 18482, 18483 hrsz.-ek | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 47 |  |  | Pécs város központjának megújítása (Széchenyi tér és környéke): - Széchenyi tér felszín rekonstrukció 18479, 18480, 18481, 18482, 18483 hrsz.-ek | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | - Irgalmasok utcája - térfelszín megújítás 17453 hrsz. |  |  |  |
 
@@ -312,9 +312,9 @@
 
 |  |  |  | - Fürdő utca 17460 hrsz. - Rákóczi út 16609/1 hrsz. |  |  |  |
 
-| 49 |  |  | Középkori egyetem: 18306, 18295, 18292/3, 18303 hrsz.-ek. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| 49 |  |  | Középkori egyetem: 18306, 18295, 18292/3, 18303 hrsz.-ek. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 50 |  |  | Belváros nyugati kapuja: Rákóczi út 18556 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 50 |  |  | Belváros nyugati kapuja: Rákóczi út 18556 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | Kórház tér 4126/1, 4126/2, 4358, 4374, 3492, 18686/1 hrsz.-ek |  |  |  |
 
@@ -324,9 +324,9 @@
 
 | 51 |  |  | Pécs-Indóház tér és környéke rendezése: Közutak: útfelületek, buszvégállomás 18777,18778,18788, 18795/2,18869/2, 18867,18911/4, 18912,18913/5, 18913/6,19158/1, 19158/2,18911/3, 18911/1,18902, 18933/2 hrsz.-ek. | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 52 |  |  | Közparkok 18913/8,18866/2, 18903/1,18903/2, 18905 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 52 |  |  | Közparkok 18913/8,18866/2, 18903/1,18903/2, 18905 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 53 |  |  | MÁV terület (térfelszín rendezés) 19157/13 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 53 |  |  | MÁV terület (térfelszín rendezés) 19157/13 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 54 |  |  | Pécs-EKF városrész közterületeinek megújítása Közutak: útfelületek | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -362,15 +362,15 @@
 
 |  |  |  | 40483 hrsz-ek |  |  |  |
 
-| 55 |  |  | Közparkok: 40570/19, 9122, 40513/2, 43513/1, 35001, 40164/12 hrsz.-ek | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 55 |  |  | Közparkok: 40570/19, 9122, 40513/2, 43513/1, 35001, 40164/12 hrsz.-ek | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 56 |  |  | Centrum parkoló Közutak: útfelületek 18933/1, 18872/6 hrsz. | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 57 |  |  | Közparkok, parkolók 18872/8, 13878, 18883/1 hrsz. | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 57 |  |  | Közparkok, parkolók 18872/8, 13878, 18883/1 hrsz. | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 58 |  |  | Kálvária domb: 17095, 18057, 17108, 18045/3, 13054/1, 18051/1, 13051/2, 18022, 17991 hrsz.-ek | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 58 |  |  | Kálvária domb: 17095, 18057, 17108, 18045/3, 13054/1, 18051/1, 13051/2, 18022, 17991 hrsz.-ek | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 59 |  |  | Pécs-Megyer városrész központi területének és kapcsolódó közterületeinek rendezése | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 59 |  |  | Pécs-Megyer városrész központi területének és kapcsolódó közterületeinek rendezése | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 23912/165 |  |  |  |
 
@@ -390,11 +390,11 @@
 
 |  |  |  | 23912/279 hrsz.-ek |  |  |  |
 
-| 60 |  |  | Diana tér, Krisztina tér és környéke: 20822, 20831, 20840/3, 23840/6, 20947, 20980, 20984/1 hrsz.-ek | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 60 |  |  | Diana tér, Krisztina tér és környéke: 20822, 20831, 20840/3, 23840/6, 20947, 20980, 20984/1 hrsz.-ek | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 61 |  |  | Napliget: 23913/65, 23913/66, 23938/2, 23941/4, 23942/81 hrsz.-ek | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 61 |  |  | Napliget: 23913/65, 23913/66, 23938/2, 23941/4, 23942/81 hrsz.-ek | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 62 |  |  | Pécs-Kelet központi területeinek megújítása: | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 62 |  |  | Pécs-Kelet központi területeinek megújítása: | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 35982/3, 35982/7, |  |  |  |
 
@@ -414,7 +414,7 @@
 
 |  |  |  | 36267/22 hrsz.-ek |  |  |  |
 
-| 63 |  |  | Névtelen utcai Sport Agóra környezet: | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 63 |  |  | Névtelen utcai Sport Agóra környezet: | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 35522, 35523, 35544, |  |  |  |
 
@@ -452,7 +452,7 @@
 
 |  |  |  | 37903 hrsz.-ek |  |  |  |
 
-| 64 |  |  | Rókus-sétány és környéke: | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 64 |  |  | Rókus-sétány és környéke: | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 3220/27, 3220/31, |  |  |  |
 
@@ -466,7 +466,7 @@
 
 |  |  |  | 4830 hrsz.-ek |  |  |  |
 
-| 65 |  |  | Köztársaság tér és környéke: 3879, 3880, 4112, 18717 hrsz.-ek | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 65 |  |  | Köztársaság tér és környéke: 3879, 3880, 4112, 18717 hrsz.-ek | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 66 |  |  | Mecseki parkerdő: | Erdővédelmi hatósági engedélyek | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | erdőgazdálkodásért felelős miniszter |
 
@@ -634,7 +634,7 @@
 
 |  |  |  | 52776/062 hrsz.-ek |  |  |  |
 
-| 67 |  |  | EKF beruházásokhoz kapcsolódó homlokzatfelújítások: | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 67 |  |  | EKF beruházásokhoz kapcsolódó homlokzatfelújítások: | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 16608, 17198, 17274, |  |  |  |
 
@@ -654,7 +654,7 @@
 
 |  |  |  | 18577, 19134 hrsz.- ek |  |  |  |
 
-| 68 | 5. | Dél- Dunántúli Regionális Könyvtár és Tudás- központ | PTE műtárgyak bontása, Könyvtár és Tudásközpont létesítése, parképítés, felszíni parkoló, feltáró út: | Építésügyi hatósági engedélyek | Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 68 | 5. | Dél- Dunántúli Regionális Könyvtár és Tudás- központ | PTE műtárgyak bontása, Könyvtár és Tudásközpont létesítése, parképítés, felszíni parkoló, feltáró út: | Építésügyi hatósági engedélyek | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 |  |  |  | 40712 |  |  |  |
 
@@ -770,8 +770,6 @@
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
-
 | Egészségügy | fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
 | Hírközlés | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
@@ -784,7 +782,7 @@
 
 | Környezetvédelem, természetvédelem és vízügy | illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Közlekedés |  |  |
 
@@ -814,7 +812,7 @@
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala, régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -826,7 +824,7 @@
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
+| Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | Közlekedés |  |  |
 
@@ -856,7 +854,7 @@
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala, régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -864,4 +862,4 @@
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 206. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 206. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 31. §-a, a 46/2013. (II. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
