@@ -1,3 +1,3 @@
-## 5. §[^14] Ha az Országgyűlés által elfogadott új címzett támogatásokról szóló kihirdetett törvény adatai eltérnek a törvényjavaslatétól, akkor az önkormányzat – a helyi önkormányzatokért felelős miniszter megkeresését követően – módosítja a címzett támogatás igénybejelentésének dokumentumait. A módosított adatlapokat az önkormányzat 8 munkanapon belül megküldi az Igazgatóságnak. Az Igazgatóság a megküldött adatlapok alapján a módosításokat átvezeti a rögzített igénybejelentés adatain.
+## 5. §[^7]
 
-[^14]: Az 5. § a 29/2007. (II. 28.) Korm. rendelet 6. § (2) bekezdése, a 36/2010. (II. 26.) Korm. rendelet 17. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^7]: Az 5. §-t a 45/2013. (II. 19.) Korm. rendelet 1. § (2) bekezdés e) pontja hatályon kívül helyezte.

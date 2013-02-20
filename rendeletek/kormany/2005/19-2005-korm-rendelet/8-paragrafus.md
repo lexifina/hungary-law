@@ -1,3 +1,3 @@
-## 7. §[^17] Az önkormányzat a Cct. 8. számú mellékletében felsorolt célok esetében megvalósíthatósági tanulmányt készíttet, kamarai tagsággal rendelkező, illetve hatályos névjegyzékben szereplő, tervező szakértővel vagy ilyen személyt alkalmazó szervezettel. A megvalósíthatósági tanulmányt az építési engedélyezési terveket megelőzően – a működő kórházak és szakrendelők gép-műszer beszerzéseinél, ha a telepítéshez építési engedély szükséges – kell elkészíteni és négy példányban benyújtani az igénybejelentés mellékleteként. A megvalósíthatósági tanulmányt a 3. mellékletben meghatározott követelményeknek megfelelően kell elkészíteni.
+## 7. §[^10]
 
-[^17]: A 7. § a 67/2012. (IV. 5.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^10]: A 7. §-t a 45/2013. (II. 19.) Korm. rendelet 1. § (2) bekezdés g) pontja hatályon kívül helyezte.

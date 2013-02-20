@@ -1,3 +1,3 @@
-## 15. §[^33] Ha az önkormányzat a támogatási szerződéskötés előtt lemond a céltámogatásról, a következő évi feltételeknek megfelelően új igényt nyújthat be.
+## 15. §[^21]
 
-[^33]: A 15. § a 36/2010. (II. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^21]: A 15. §-t a 45/2013. (II. 19.) Korm. rendelet 1. § (2) bekezdés n) pontja hatályon kívül helyezte.

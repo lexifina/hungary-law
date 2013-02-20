@@ -1,5 +1,5 @@
-## 6/A. §[^16] Az 1–5. §, valamint a 13. § (1) bekezdésében foglaltakat a címzett támogatás vonatkozásában a tárgyévben nem kell alkalmazni, amennyiben az Országgyűlés – a Cct. 3. § (1) bekezdésében foglaltak alapján a tárgyévet megelőzően – döntött arról, hogy nem indítható új címzett támogatással beruházás.
+## 6/A. §[^9]
 
 ## Céltámogatások
 
-[^16]: A 6/A. §-t a 29/2007. (II. 28.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 6/A. §-t a 29/2007. (II. 28.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 45/2013. (II. 19.) Korm. rendelet 1. § (2) bekezdés f) pontja.

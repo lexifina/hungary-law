@@ -1,3 +1,3 @@
-1. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^63]
+1. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^53]
 
-[^63]: Az 1. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^53]: Az 1. mellékletet a 45/2013. (II. 19.) Korm. rendelet 1. § (2) bekezdés r) pontja hatályon kívül helyezte.
