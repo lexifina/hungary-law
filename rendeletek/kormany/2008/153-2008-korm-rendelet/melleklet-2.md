@@ -6,19 +6,19 @@
 
 | 1 | Sor- szám | Építmény | Azonosító | Szükséges engedély | Első fokú engedélyező hatóság | Másodfokú engedélyező hatóság |
 
-| 2 | 1. | A 2A és 2B terminál közötti összekötő épület építése | Budapest, XVIII. kerület 156755 hrsz., Vecsés 072/50 hrsz., Vecsés 072/3 hrsz. | építésügyi hatósági engedély | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 2 | 1. | A 2A és 2B terminál közötti összekötő épület építése | Budapest, XVIII. kerület 156755 hrsz., Vecsés 072/50 hrsz., Vecsés 072/3 hrsz. | építésügyi hatósági engedély | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 4 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 5 | 2. | 2A terminálból kiinduló 1 új pillér építése | Budapest, XVIII. ker. 156755 hrsz. | építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 5 | 2. | 2A terminálból kiinduló 1 új pillér építése | Budapest, XVIII. ker. 156755 hrsz. | építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 6 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 7 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 8 | 3. | 2B terminálból kiinduló 1 új pillér építése | Budapest, XVIII. ker. 156755 hrsz. | építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| 8 | 3. | 2B terminálból kiinduló 1 új pillér építése | Budapest, XVIII. ker. 156755 hrsz. | építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 9 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -80,7 +80,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | Fővárosi Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -118,7 +118,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Egészségügy | Fővárosi Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| Építésügy | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 3. Vízjogi engedélyezési eljárás
 
@@ -156,7 +156,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | Fővárosi Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Egészségügy | Fővárosi Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -178,15 +178,15 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - erdővédelem - talajvédelem | -Pest Megyei Kormányhivatal Erdészeti Igazgatósága; -Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága; | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Kulturális örökségvédelem | Fővárosi Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
+| Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Földtani közeg, ásványi nyersanyag védelme | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | Lakosság életének védelme | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Építési előírásokkal való összhang | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| Építési előírásokkal való összhang | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| Településrendezési előírásokkal való összhang | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
+| Településrendezési előírásokkal való összhang | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Területrendezési tervekkel való összhang | az illetékes állami főépítész | területrendezésért felelős miniszter |
 
@@ -200,4 +200,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a, a 23/2012. (II. 29.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a, a 23/2012. (II. 29.) Korm. rendelet 34. §-a, a 46/2013. (II. 19.) Korm. rendelet 2. §-a szerint módosított szöveg.
