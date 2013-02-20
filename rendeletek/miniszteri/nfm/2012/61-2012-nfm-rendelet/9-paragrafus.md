@@ -1,0 +1,9 @@
+9. § (1) A műszaki felügyeleti személy felügyelt területén felelős a biztonsági előírások megtartásáért. A biztonsági követelmények teljesítéséről rendszeres ellenőrzéssel köteles meggyőződni. E rendeletben előírt rendszeres ellenőrzések gyakoriságát növelni kell, ha a biztonsági követelmények csak gyakoribb vagy folyamatos ellenőrzéssel biztosíthatók.
+
+(2) A műszaki felügyeleti személy intézkedni köteles az ellenőrzés során tapasztalt vagy a tudomására jutott mulasztás, a biztonsági követelményeknek nem megfelelő állapot vagy más okból keletkezett veszély megszüntetésére és a biztonságos munkavégzés feltételeinek teljesítésére. Jogkörét meghaladó intézkedés szükségessége esetén – a (3) bekezdésben meghatározott esetek kivételével – azt késedelem nélkül egyeztetni köteles a 8. § (2) bekezdésében meghatározott személlyel.
+
+(3) Közvetlen veszély vagy fenyegető súlyos károsodás veszélye esetén a felügyeleti személy jogkörére és a felügyelt területére tekintet nélkül köteles intézkedni. A tett intézkedésről a 8. § (2) bekezdésében meghatározott személyt, valamint az érintett felügyeleti személyeket késedelem nélkül tájékoztatni köteles.
+
+(4) A munkahelyek felügyeletét ellátó személyek kötelesek munkahelyi ellenőrzési naplót vezetni, amelyben rögzíteni kell az ellenőrzés tényét, idejét és a biztonságellenes állapot megszüntetésére tett intézkedést. Az azonnal végre nem hajtható utasítás végrehajtásának megtörténtéről visszaellenőrzéssel meg kell győződni, melynek tényét a munkahelyi naplóban rögzíteni kell.
+
+(5) A gázkitörés-veszély, a porveszély, a sújtólégveszély, a szénporrobbanás-veszély, a tűzveszély, a vízveszély és a szilikózis-veszély (a továbbiakban: fő bányaveszélyek) megelőzésére előírt szakfeladatok végrehajtására a feladat ellátásához szükséges szakképzettséggel és gyakorlattal rendelkező különleges műszaki felügyeleti személyt kell kijelölni.
