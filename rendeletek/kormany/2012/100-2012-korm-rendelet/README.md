@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-100-20-
 | 2012-06-27 | 2012-100-20-22.2 | 127/2012. (VI. 26.) Korm. rendelet |
 | 2012-07-01 | 2012-100-20-22.3 | 127/2012. (VI. 26.) Korm. rendelet |
 | 2013-01-01 | 2012-100-20-22.4 | 127/2012. (VI. 26.) Korm. rendelet |
+| 2013-02-20 | 2012-100-20-22.5 | 127/2012. (VI. 26.) Korm. rendelet |
