@@ -2,13 +2,13 @@
 
 ## és a kötelező értesítés esetei
 
-1. § (1) A közszolgáltató
+1. § (1)[^1] A közszolgáltató
 
 a) nem megfelelő tömörségű égéstermék-elvezető, vagy
 
 b) az égéstermék-elvezető nem megfelelő állékonysága
 
-miatti veszély esetében soron kívül értesíti az elsőfokú építésügyi hatóságot, valamint gázfogyasztó készülék esetében a földgázelosztót.
+## miatti veszély esetében soron kívül értesíti az elsőfokú építésfelügyeleti hatóságot, valamint gázfogyasztó készülék esetében a földgázelosztót.
 
 (2) A közszolgáltató
 
@@ -25,3 +25,5 @@ e) olyan égéstermék-elvezető használata, amelynél a jogszabály szerinti m
 f) nem megfelelően rögzített összekötő elem vagy
 
 g) nem zárható tisztítónyílás
+
+[^1]: Az 1. § (1) bekezdés záró szövegrésze a 46/2013. (II. 19.) Korm. rendelet 5. §-a szerint módosított szöveg.
