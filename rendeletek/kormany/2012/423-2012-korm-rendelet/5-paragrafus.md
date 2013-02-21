@@ -36,6 +36,8 @@ m) a képzésen belül az intézmények által indítani tervezett specializáci
 
 (5) A Tájékoztató tartalmazza az elektronikus jelentkezés benyújtásával kapcsolatos adatokat, valamint a papír alapú jelentkezés biztosításához a Hivatal azon postai címét, ahova a felvételi jelentkezési kérelmet be kell küldeni.
 
-(6) Az (1) bekezdés szerinti hallgató kapacitás összlétszáma nem haladhatja meg a működési engedélyben szereplő maximális hallgatói létszámnak az intézménnyel – a szeptemberben induló képzések esetén legkésőbb szeptemberig, a februárban induló képzések esetében legkésőbb februárig – hallgatói jogviszonyban álló személyek várható számával csökkentett számával.
+(6)[^2] Az (1) bekezdés szerinti hallgatói kapacitás összlétszáma nem haladhatja meg a működési engedélyben szereplő maximális hallgatói létszámnak az intézménnyel – a szeptemberben induló képzések esetén legkésőbb szeptemberig, a februárban induló képzések esetében legkésőbb februárig – hallgatói jogviszonyban álló személyek várható számával csökkentett számát.
 
 (7) A fizetési kötelezettségeket és a lehetséges juttatásokat Magyarország törvényes fizetőeszközében kell közölni.
+
+[^2]: Az 5. § (6) bekezdése a 47/2013. (II. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

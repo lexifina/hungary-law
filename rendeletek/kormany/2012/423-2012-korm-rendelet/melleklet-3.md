@@ -1,4 +1,4 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^33]
 
 A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű érettségi vizsgák jegyzéke szakonként, képzési területenként
 
@@ -32,7 +32,7 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 7. | romológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, beás nyelv, magyar nyelv és irodalom, történelem, francia nyelv, latin nyelv, lovári nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv. |
 
-|  | 8. | szlavisztika (önálló szakképzettséget eredményező szakirányok: orosz, bolgár, cseh, lengyel, horvát/ nemzetiségi, szerb/ nemzetiségi, szlovák/ nemzetiségi, szlovén/ nemzetiségi, ukrán/ nemzetiségi) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, horvát nyelv, horvát nyelv és irodalom, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, szerb nyelv, szerb nyelv és irodalom, szlovák nyelv, szlovák nyelv és irodalom, szlovén nemzetiségi nyelv, román nyelv, román nyelv és irodalom, bolgár nemzetiségi nyelv, bolgár nyelv, ukrán nemzetiségi nyelv, ukrán nyelv, lengyel nemzetiségi nyelv, lengyel nyelv. |
+|  | 8. | szlavisztika (önálló szakképzettséget eredményező szakirányok: orosz, bolgár, cseh, lengyel, horvát/ nemzetiségi, szerb/ nemzetiségi, szlovák/ nemzetiségi, szlovén/ nemzetiségi, ukrán/ nemzetiségi) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, horvát nyelv, horvát nyelv és irodalom, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, szerb nyelv, szerb nyelv és irodalom, szlovák nyelv, szlovák nyelv és irodalom, szlovén nemzetiségi nyelv, román nyelv, román nyelv és irodalom, bolgár nyelv, ukrán nyelv, lengyel nyelv. |
 
 |  | 9. | ókori nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: klasszika filológia, asszíriológia, egyiptológia) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv. |
 
@@ -111,3 +111,5 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 |  | 8. | szociológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
 |  | 9. | társadalmi tanulmányok |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+
+[^33]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a szerint módosított szöveg.

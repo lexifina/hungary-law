@@ -24,10 +24,12 @@ f) a felsőoktatási intézmény a felvételről vagy az elutasításról a jele
 
 (4) A felsőoktatási intézmény szabályzatában a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzések esetében az (1) bekezdésben foglaltaktól eltérő határidőt is megállapíthat.
 
-(5) A felvételi jelentkezési kérelem határidőig történő benyújtása alatt kell érteni azt az esetet is, amikor a jelentkező a 9. § (2) bekezdés ab) alpontja szerinti módon történő jelentkezés során az adatokat az (1) bekezdésben meghatározott határidőig rögzíti és 8 napon belül beérkezik a kinyomtatott, aláírt hitelesítési nyomtatvány.
+(5)[^5] A felvételi jelentkezési kérelem határidőig történő benyújtása alatt kell érteni azt az esetet is, amikor a jelentkező a 9. § (2) bekezdés aa) alpontja szerinti módon történő jelentkezés során az adatokat az (1) bekezdésben meghatározott határidőig rögzíti és 8 napon belül postára adja a kinyomtatott, aláírt hitelesítési nyomtatványt.
 
 (6) A keresztféléves felvételi eljárásban állami ösztöndíjas alapképzésre, osztatlan képzésre és felsőoktatási szakképzésre jelentkezést meghirdetni nem lehet.
 
 (7) A magyar felsőoktatási intézmények a határon túli kihelyezett képzéseiket a (3) bekezdésben szabályozott eljárás során hirdetik meg. Ennek során állami ösztöndíjas képzést is hirdethetnek. A felvettekről legkésőbb október 1-jéig értesítik a Hivatalt.
 
 (8) A felsőoktatási felvételi eljárásokban igazolási kérelem előterjesztésének helye nincs.
+
+[^5]: A 8. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

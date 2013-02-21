@@ -1,3 +1,3 @@
-49. §[^20]
+49. §[^31]
 
-[^20]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

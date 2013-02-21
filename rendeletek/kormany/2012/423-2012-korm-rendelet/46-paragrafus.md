@@ -1,3 +1,3 @@
-46. §[^13]
+46. §[^24]
 
-[^13]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

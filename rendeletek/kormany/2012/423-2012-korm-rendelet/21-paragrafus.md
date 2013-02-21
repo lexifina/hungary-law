@@ -48,7 +48,7 @@ h) az Ifjúsági Tudományos Innovációs Tehetségkutató Versenyen elért lega
 
 i) egyéb, a g) pont alá nem tartozó tantárgyból Országos Középiskolai Tanulmányi Versenyen elért eredményért, ha olyan tárgyból érte el, amelynek elfogadásáról az érintett intézmények előzetesen megegyeztek, az 1–10 helyezés esetén 20 többletpontra;
 
-j) az 1993 után szerzett, az Országos Képzési Jegyzékben szereplő emelt szintű vagy felsőfokú (54-es vagy 55-ös szakmaszámú) szakképesítésért szakiránynak megfelelő továbbtanulás esetén 24 többletpontra;
+j)[^13] az 1993 után szerzett, az Országos Képzési Jegyzékben szereplő emelt szintű vagy felsőfokú (54-es vagy 55-ös szakmaszámú) szakképesítésért a 4. melléklet szerinti szakiránynak megfelelő továbbtanulás esetén 24 többletpontra;
 
 k) a szakképzésről szóló 2011. évi CLXXXVII. törvény 73. § (2) bekezdés h) pontja szerint a szakképesítésért felelős miniszter által szervezett országos szakmai tanulmányi versenyen elért helyezése alapján a szakmai vizsga egésze (minden része) alól felmentést kapott jelentkező szakiránynak megfelelő továbbtanulás esetén 30 többletpontra
 
@@ -58,4 +58,7 @@ jogosult.
 
 (3) Az (1) bekezdés ga) alpontja alkalmazása során a döntőbe jutott, de azon részt nem vevő jelentkezőt – a verseny szervezőjének igazolása alapján – a döntőben elvileg elérhető utolsó helyezést elérőnek kell tekinteni.
 
-(4) Az (1) bekezdés alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező.
+(4)[^14] Az (1) bekezdés alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező. Az (1) bekezdés a)–e) pontjaiban meghatározott jogcímek közül csak a pontszámítás szempontjából legkedvezőbb jogcím után kaphat többletpontot a jelentkező.
+
+[^13]: A 21. § (1) bekezdés j) pontja a 47/2013. (II. 20.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^14]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.

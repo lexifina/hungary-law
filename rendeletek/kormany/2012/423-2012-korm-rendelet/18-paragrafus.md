@@ -8,7 +8,7 @@ c) gyakorlati vizsga,
 
 d) a nem magyar állampolgárok számára magyar nyelvi alkalmassági vizsga,
 
-e)[^6]
+e)[^12]
 
 szervezhető.
 
@@ -16,4 +16,4 @@ szervezhető.
 
 (3) A művészet és művészetközvetítés képzési területre történő jelentkezés esetében a 14–17. §-ban meghatározottakat azzal az eltéréssel kell alkalmazni, hogy a felsőoktatási intézmény szabályzatában rendelkezhet úgy, hogy az e képzési terület szakjaira jelentkezők esetében a felvételi összpontszámot kizárólag a gyakorlati vizsga alapján kell megállapítani. Ebben az esetben a felvételi összpontszámot a gyakorlati vizsga pontszámának – amelynek maximális értéke 200 pont – megkettőzésével, többletpontok hozzáadása nélkül kell meghatározni.
 
-[^6]: A 18. § (1) bekezdés e) pontja a 45. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^12]: A 18. § (1) bekezdés e) pontja a – 47/2013. (II. 20.) Korm. rendelet 8. §-ával megállapított – 45. § (5) bekezdése alapján 2015. január 1-jén lép hatályba.

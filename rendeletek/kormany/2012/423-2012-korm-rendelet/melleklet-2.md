@@ -100,7 +100,7 @@ k) gazdasági ismeretek
 
 l) latin nyelv;
 
-3. a választható szakmai előkészítő vizsgatárgyak
+3.[^32] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 a) egészségügyi alapismeretek
 
@@ -125,3 +125,5 @@ j) mezőgazdasági alapismeretek
 k) oktatási alapismeretek
 
 l) vendéglátás-idegenforgalom alapismeretek.
+
+[^32]: A 2. melléklet 3. pont nyitó szövegrésze a 47/2013. (II. 20.) Korm. rendelet 9. § d) pontjával megállapított szöveg.

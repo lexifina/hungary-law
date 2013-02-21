@@ -6,6 +6,6 @@
 
 (4) A Tájékoztató nem tartalmazza a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzésekre vonatkozó információkat. A felsőoktatási intézmény ezeket az információkat honlapján közzéteszi, egyebekben a közzétételről a felsőoktatási intézmény a szabályzatában meghatározottak szerint gondoskodik, és a képzésekről a Hivatalt tájékoztatja.
 
-(5) A Tájékoztató a besorolási döntés időpontjáról a 26. §[^3] (1) bekezdése alapján hozott döntéshez igazodva tartalmazza a jelentkezők számára e rendeletben előírt egyes határidőket.
+(5) A Tájékoztató a besorolási döntés időpontjáról a 26. §[^4] (1) bekezdése alapján hozott döntéshez igazodva tartalmazza a jelentkezők számára e rendeletben előírt egyes határidőket.
 
-[^3]: A Magyar Közlöny 2013. évi 3. számában közzétett helyesbítésnek megfelelő szöveg.
+[^4]: A Magyar Közlöny 2013. évi 3. számában közzétett helyesbítésnek megfelelő szöveg.
