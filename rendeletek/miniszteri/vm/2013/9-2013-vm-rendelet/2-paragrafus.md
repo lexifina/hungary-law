@@ -1,0 +1,1 @@
+## 1. § Az Országos Természetvédelmi Hivatal elnökének 12/1977. OTvH határozatával védetté nyilvánított, valamint a Nagybereki Fehér-víz természetvédelmi terület védettségének fenntartásáról szóló 111/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Nagybereki Fehér-víz természetvédelmi terület természetvédelmi kezelési tervét az 1. melléklet szerint állapítom meg.
