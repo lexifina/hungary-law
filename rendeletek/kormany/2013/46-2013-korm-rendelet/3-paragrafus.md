@@ -1,1 +1,0 @@
-## 2. § A Budapest Ferihegy Nemzetközi Repülőtér rövid távú fejlesztése projekthez tartozó egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 153/2008. (VI. 6.) Korm. rendelet (a továbbiakban: R2.) 1. és 2. melléklete a 2. melléklet szerint módosul.
