@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. június 30.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. október 31.[^2]
 
 1. melléklet az 1410/2012. (IX. 28.) Korm. határozathoz
 
@@ -81,3 +81,5 @@ Millió forintban, egy tizedessel
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat az 1078/2013. (II. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
