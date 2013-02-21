@@ -1,0 +1,3 @@
+## 21. § A háztartási légkondicionáló berendezések energiafelhasználásának ismérveiről való tájékoztatásról szóló 88/2003. (XII. 16.) GKM rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A rendelet hatálya a 2013. január 1-je előtt forgalomba hozott – a (2) bekezdésben foglalt kivételekkel – a 230 V-os 50 Hz-es hálózati feszültségről működtetett háztartási légkondicionáló berendezések forgalomba hozatalára terjed ki, abban az esetben is, ha az nem háztartási célra történik.”

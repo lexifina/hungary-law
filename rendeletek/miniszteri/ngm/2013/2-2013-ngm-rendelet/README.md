@@ -1,0 +1,9 @@
+# 2/2013. (I. 22.) NGM rendelet
+
+a villamosművek, valamint a termelői, magán- és közvetlen vezetékek biztonsági övezetéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-02-21 | 2013-2-20-2X.1 | 2/2013. (I. 22.) NGM rendelet |
