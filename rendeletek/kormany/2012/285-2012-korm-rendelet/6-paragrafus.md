@@ -1,4 +1,4 @@
-6. § (1) Az önerő-támogatás iránti kérelmek előterjesztését követően az NFÜ az általa működtetett EMIR-rendszeren keresztül hozzáférést biztosít az államháztartásért felelős miniszter, helyi önkormányzatok vagy társulásaik által benyújtott kérelmekre vonatkozó döntés esetében pedig a helyi önkormányzatokért felelős miniszter részére (a továbbiakban együtt: érintett miniszter). Az érintett miniszter véleményezési jogkört gyakorol a jelen rendelet szerinti eljárásban. Az érintett miniszter a kérelem és mellékletei EMIR-rendszerbe történő feltöltését követően 5 napon belül elektronikusan, az EMIR-rendszerbe feltöltött vélemény útján tájékoztatja az NFÜ-t. Amennyiben 5 napon belül az érintett minisztertől nem érkezik vélemény, azt úgy kell tekinteni, hogy az érintett miniszter a kérelmet támogatja. Hiánypótlás esetén az érintett miniszter számára nyitva álló határidő kezdetének a kérelem és mellékletei hiánytalan feltöltésének napját kell tekinteni.
+6. § (1)[^13] Az önerő-támogatás iránti kérelmek előterjesztését követően az NFÜ az általa működtetett EMIR-en keresztül hozzáférést biztosít az államháztartásért felelős miniszter részére. Az államháztartásért felelős miniszter véleményezési jogkört gyakorol a jelen rendelet szerinti eljárásban. Az államháztartásért felelős miniszter a kérelem és mellékletei EMIR-be történő feltöltését követően 5 napon belül elektronikusan, az EMIR-be feltöltött, önerő-támogatási kérelmenként egyedileg megfogalmazott véleményében tájékoztatja az NFÜ-t. Ha 5 napon belül az államháztartásért felelős miniszter nem ad vélemény, azt úgy kell tekinteni, hogy a kérelmet támogatja.
 
 (2) Nem részesülhet önerő-támogatásban a kérelmező, ha
 
@@ -6,7 +6,7 @@ a) nem a Rendelet hatálya alá tartozó támogatással megvalósuló projekthez
 
 b) nem a lehetséges kérelmezői körbe tartozik,
 
-c) nem azonos a projekt kedvezményezettjével,
+c)[^14] nem azonos a projekt kedvezményezettjével, vagy a nevében eljáró projektgazdával,
 
 d) a támogatásra vonatkozó, önerő finanszírozását meghatározó előírások ezt nem teszik lehetővé,
 
@@ -16,8 +16,14 @@ f) a hiánypótlási kötelezettségének határidőben nem tesz eleget,
 
 g) az igényelt önerő-támogatás összege meghaladja a támogatási szerződésben rögzített önerő összegét,
 
-h) adósságrendezési eljárás illetve csőd-, felszámolási-, illetve végelszámolási eljárás hatálya alatt áll,
+h)[^15] csőd-, felszámolási-, illetve végelszámolási eljárás hatálya alatt áll,
 
-i) fennálló köztartozása van,
+i)[^16] az államháztartásról szóló 2011. évi CXCV. törvény 50. § (3) bekezdése szerinti köztartozása van,
 
-j) a projektre vonatkozóan nem rendelkezik megkötött támogatási szerződéssel,
+j)[^17] a projektre vonatkozóan nem rendelkezik hatályos támogatási szerződéssel.
+
+[^13]: A 6. § (1) bekezdése a 42/2013. (II. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^14]: A 6. § (2) bekezdés c) pontja a 42/2013. (II. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 6. § (2) bekezdés h) pontja a 42/2013. (II. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^16]: A 6. § (2) bekezdés i) pontja a 42/2013. (II. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^17]: A 6. § (2) bekezdés j) pontja a 42/2013. (II. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

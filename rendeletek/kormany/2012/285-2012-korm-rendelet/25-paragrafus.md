@@ -1,6 +1,6 @@
 25. § (1) Az NFÜ gondoskodik a kifogás EMIR-rendszerbe történő feltöltéséről és egyben a kifogást és az abban foglaltakkal kapcsolatos írásbeli szakmai álláspontját az annak alátámasztására szolgáló dokumentációval együtt a kifogás beérkezésétől számított 10 napon belül megküldi a döntéshozó részére.
 
-(2) A kifogást a (4) bekezdés a) pontjában foglalt esetet kivéve a Nemzeti Fejlesztési Kormánybizottság (a továbbiakban: NFK) bírálja el. Az NFK a kifogás elbírálása során nincs kötve a kifogásban előterjesztettekhez.
+(2)[^49] A kifogást a (3) bekezdésben és a (4) bekezdés a) pontjában foglalt eseteket kivéve a Nemzeti Fejlesztési Kormánybizottság (a továbbiakban: NFK) bírálja el. Az NFK a kifogás elbírálása során nincs kötve a kifogásban előterjesztettekhez.
 
 (3) A kifogást a döntéshozó érdemi vizsgálat nélkül elutasítja, ha
 
@@ -29,3 +29,5 @@ b) a kifogást indokolt döntésével elutasítja.
 (7) A döntéshozó, illetve a 25. § (5) bekezdésének alkalmazása esetén az NFK a kifogás tárgyában hozott döntésről az indokok megjelölésével írásban értesíti a kérelmezőt és az NFÜ-t. Az NFÜ gondoskodik a kifogás tárgyában született döntés EMIR-rendszerbe történő feltöltéséről. Támogatási döntés meghozatala esetén az NFÜ megteszi a kötelezettségvállaláshoz szükséges intézkedéseket.
 
 (8) A kifogás tárgyában hozott döntés ellen további jogorvoslat előterjesztésének nincs helye.
+
+[^49]: A 25. § (2) bekezdése a 42/2013. (II. 18.) Korm. rendelet 12. §-ával megállapított szöveg.

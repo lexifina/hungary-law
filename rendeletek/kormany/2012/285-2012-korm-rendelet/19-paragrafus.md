@@ -1,3 +1,5 @@
-19. § (1) Ha a kedvezményezett az önerő-támogatás visszafizetési kötelezettségét nem teljesíti vagy az önerő-támogatást a jóváhagyott céltól eltérően használja fel, a kedvezményezett vezetője ellen az NFÜ kezdeményezi a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 310. § (1) bekezdés c) pontja szerinti felelősségre vonást.
+19. §[^41] (1) Az NFÜ az önerő-támogatással összefüggő bűncselekmény gyanújának észlelése esetén büntetőeljárást kezdeményez.
 
-(2) A támogatási okiratban foglaltak nem vagy nem megfelelő teljesítése esetén a 18. § és a 19. § (1) bekezdésének rendelkezései az irányadók.
+(2) A támogatói okiratban foglaltak nem vagy nem megfelelő teljesítése esetén a 18. §-t és az (1) bekezdést kell alkalmazni.
+
+[^41]: A 19. § a 42/2013. (II. 18.) Korm. rendelet 9. §-ával megállapított szöveg.

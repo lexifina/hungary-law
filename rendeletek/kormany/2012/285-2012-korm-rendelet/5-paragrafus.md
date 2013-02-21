@@ -1,6 +1,6 @@
-5. § (1) Az önerő-támogatás odaítélése kérelemre, egyedi döntéssel történik. A döntés alapján vissza nem térítendő önerő-támogatás esetében önerő-támogatási okirat, visszatérítendő önerő-támogatás esetén támogatási szerződés megkötésére kerül sor. A visszatérítendő valamint vissza nem térítendő támogatási formát is tartalmazó önerő-támogatási döntés alapján önerő-támogatási szerződés kerül megkötésre. A kérelmet a (2) bekezdésben foglalt informatikai rendszeren keresztül kell benyújtani.
+5. § (1)[^7] Az önerő-támogatás odaítélése kérelemre, egyedi döntéssel történik. A döntés alapján vissza nem térítendő önerő-támogatás esetében önerő-támogatói okirat, visszatérítendő önerő-támogatás esetén támogatási szerződés megkötésére kerül sor. A visszatérítendő és vissza nem térítendő támogatási formát is tartalmazó önerő-támogatási döntés alapján önerő-támogatási szerződés kerül megkötésre.
 
-(2) Az önerő-támogatási kérelem és mellékletei az NFÜ honlapján keresztül elérhető EMIR-rendszerbe tölthető fel. Az EMIR-rendszer működéséről az NFÜ honlapján felhasználói útmutatót tesz közzé.
+(2)[^8] Az önerő-támogatási kérelem és mellékletei az NFÜ honlapján keresztül elérhető EMIR-en keresztül nyújtható be. Az EMIR működéséről az NFÜ a honlapján felhasználói útmutatót tesz közzé.
 
 (3) A kérelem tartalmazza különösen
 
@@ -18,10 +18,17 @@ f) a kérelmező nyilatkozatát a kérelem előterjesztésének indoklásáról 
 
 g) a rendelet V. Fejezete szerinti állami támogatási szabályoknak való megfelelésre vonatkozó nyilatkozatot,
 
-h) a kérelmező nyilatkozatát arról, hogy nem áll adósságrendezési eljárás hatálya alatt,
+h)[^9] a kérelmező nyilatkozatát arról, hogy a köztartozásmentes adózói adatbázisban szerepel vagy az adóhatóság által kibocsátott köztartozás mentességre vonatkozó hatósági bizonyítványt,
 
-i) a kérelmező nyilatkozatát arról, hogy a köztartozás-mentes adózók nyilvántartásában szerepel vagy az adóhatóság által kibocsátott köztartozás mentességre vonatkozó hatósági bizonyítványt,
+i)[^10] tájékoztatást a benyújtandó elszámolások ütemezett összegéről.
 
-j) tájékoztatást a döntést követő 30 napon belül benyújtandó elszámolások összegéről.
+j)[^11]
 
-(4) Az önerő-támogatási kérelem (3) bekezdésben foglalt bármely elemének hiányossága esetén az NFÜ a kérelem benyújtásától számított nyolc napon belül egyszer, az EMIR-rendszeren keresztül hiánypótlásra hívhatja fel a kérelmezőt. A hiánypótlási határidő a hiánypótlási felhívás közlésétől számított 8 nap.
+(4)[^12] Az önerő-támogatási kérelem (3) bekezdésben foglalt bármely elemének hiányossága esetén az NFÜ a kérelem benyújtásától számított nyolc napon belül, az EMIR-en keresztül hiánypótlásra hívja fel a kérelmezőt. A hiánypótlási határidő legfeljebb a hiánypótlási felhívás közlésétől számított 8 nap.
+
+[^7]: Az 5. § (1) bekezdése a 42/2013. (II. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (2) bekezdése a 42/2013. (II. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (3) bekezdés h) pontja a 42/2013. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (3) bekezdés i) pontja a 42/2013. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (3) bekezdés j) pontját a 42/2013. (II. 18.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^12]: Az 5. § (4) bekezdése a 42/2013. (II. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

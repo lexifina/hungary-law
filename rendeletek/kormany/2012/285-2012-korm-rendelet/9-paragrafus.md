@@ -1,4 +1,4 @@
-## 8. § A támogatási döntést az NFÜ haladéktalanul feltölti az EMIR-rendszerbe és arról – a kézbesítési szabályok figyelembe vételével – írásban tájékoztatja a kérelmezőt.
+## 8. §[^28] A támogatási döntést az NFÜ haladéktalanul feltölti az EMIR-be és arról az EMIR-en keresztül elektronikusan tájékoztatja a kérelmezőt. Az NFÜ a döntésről annak kézhezvételét követően haladéktalanul tájékoztatja a miniszterelnökséget vezető államtitkárt, az államháztartásért felelős minisztert és a helyi önkormányzatokért felelős minisztert.
 
 ## 4. A visszatérítendő önerő-támogatások speciális szabályai
 
@@ -29,3 +29,5 @@ c) a visszafizetés ütemezését és a visszafizetés (6) bekezdésben foglalt 
 (6) Az önerő-támogatás biztosítéka a kedvezményezett valamennyi fizetési számlájára vonatkozó, a pénzforgalmi szolgáltatónak címzett, beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata. A beszedési megbízás tekintetében a jogszabály alapján beszedési megbízással megterhelhető pénzforgalmi számlák vehetők figyelembe.
 
 (7) A szerződéskötéshez szükséges valamennyi feltétel teljesülése esetén az önerő-támogatási szerződést – ideértve a vissza nem térítendő és visszatérítendő önerő-támogatást is tartalmazó döntés alapján megkötött szerződést is – az NFÜ ellenjegyzi és köti meg, a döntés közlésétől számított legfeljebb tizenöt napon belül.
+
+[^28]: A 8. § a 42/2013. (II. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
