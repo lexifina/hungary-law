@@ -1,0 +1,5 @@
+## 11. § Az R. 22. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A támogatás mértéke az önerő-támogatással együtt sem haladhatja meg a közszolgáltatási kötelezettségek teljesítéséhez szükséges nettó költséget, beleértve az ésszerű nyereséget. Az önerő-támogatás mértékét az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (a továbbiakban: Határozat) 5. cikke szerint kell megállapítani.
+
+## (4) Ha a kedvezményezett az önerő-támogatással együtt a Határozat 5. cikkének megfelelően meghatározott összeget meghaladó támogatásban részesül, köteles a túlkompenzációt visszafizetni. Ha a túlkompenzáció összege nem haladja meg az átlagos éves ellentételezés összegének 10%-át, a túlkompenzáció átvihető a következő időszakra, és levonható az arra az időszakra fizetendő támogatás összegéből.”
