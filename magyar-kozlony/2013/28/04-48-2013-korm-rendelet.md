@@ -1,0 +1,170 @@
+# A Kormány 48/2013. (II. 21.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 28. szám, 2013. február 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2bcb87cd730281ecc33f4b0cc7c783faae36177c/dokumentumok/ba453c2eb70059155cd82528bbfc6243d1dd1567/letoltes)
+
+---
+
+A Kormány 48/2013. (II. 21.) Korm. rendelete
+a központi költségvetési szervek szociális hozzájárulási adó kedvezmények igénybevételéből eredő
+kiadási megtakarításai befizetésének rendjéről
+A Kormány a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 77. § (1) bekezdés c) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A Magyarország2013. éviközpontiköltségvetésérőlszóló2012. éviCCIV. törvény10. § (7) bekezdéseszerintibefizetési
+kötelezettséget a központi költségvetési szerv havi szinten összesítve, ezer forintra kerekítve, a kincstár
+„Munkahelyvédelmi akciótervvel összefüggő befizetések központi költségvetési szervek” megnevezésű,
+10032000-01034224-00000000 számú számlájára teljesíti.
+2. § (1) A központi költségvetési szervnek az ugyanazzal a természetes személlyel fennálló, adófizetési kötelezettséget
+eredményező jogviszonyára tekintettel több adókedvezmény érvényesítése esetén a befizetési kötelezettséget
+a tárgyhóban az egyes adótörvények és azzalösszefüggő egyéb törvények módosításárólszóló2011. évi CLVI. törvény
+461. §-a, 462/B. §-a, 462/C. §-a és 462/D. §-a alapján érvényesített adókedvezményhez kapcsolódóan kell teljesíteni.
+(2) Nem jelent kiadási megtakarítást, ha a központi költségvetési szervet az általa foglalkoztatott személy után fizetendő
+közterhek megfizetését követően a megfizetett összeg tekintetében más költségvetési szerv felé elszámolási
+kötelezettség terheli.
+3. § Ha a központi költségvetési szerv befizetési kötelezettségét tévesen állapította meg, azt a következő hónap vagy
+hónapok befizetése során önrevízióval korrigálja.
+4. § (1) A központi költségvetési szerv az érvényesített adókedvezményből eredő megtakarítások befizetéséről
+az 1. mellékletben meghatározott tartalmú adatlapot a 2013. január 1-jétől 2013. június 30-áig terjedő időszak utáni
+befizetések esetében 2013. július 22-éig, a 2013. július 1-jétől 2013. november 30-áig terjedő időszak utáni befizetések
+esetében 2013. december 22-éig küldi meg a fejezetet irányító szervnek.
+(2) A fejezetet irányító szerv az általa irányított költségvetési fejezetbe sorolt központi költségvetési szervek által
+benyújtott adatszolgáltatást – az (1) bekezdésben meghatározott határidőt követő 10. munkanapig – a 2. melléklet
+szerinti adatlapon összesítve megküldi az államháztartásért felelős miniszter részére.
+5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 48/2013. (II. 21.) Korm. rendelethez
+
+Költségvetési szerv
+megnevezése:
+Költségvetési szerv
+ÁHTT azonosítója:
+Kitöltŋ neve,
+telefonszáma:
+(fŋben és ezer forintban)
+létszáma
+(fŋ)
+havi személyi juttatása
+(bruttó)
+szociális hozzájárulási
+adó (alapesetben: 27%)
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+1 2 3 4 5 6 7 8 9 10 11 12 13
+14=6+8+10+12
+(14=3)
+15=7+9+11+13
+1. december ** 0 0
+2. január 0 0
+3. február 0 0
+4. március 0 0
+5. április 0 0
+6. május 0 0
+7. június 0 0
+8. július 0 0
+9. augusztus 0 0
+10. szeptember 0 0
+11. október 0 0
+12. november 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+P. H. aláírás
+Az Eat. 461. §, 462/B. §, 462/C. §, 462/D. § szerint érvényesített
+adókedvezményben érintett foglalkoztatottak
+Az Eat.
+Sorszáma Hónap *
+Dátum:
+INTÉZMÉNYI ADATSZOLGÁLTATÁS
+a szociális hozzájárulási adó megtakarítás befizetésérŋl
+461. §, 462/B. §, 462/C. §, 462/D. § szerint
+érvényesített adókedvezmény (= Összes
+megtakarítás = Befizetés)
+Összesen
+461. §-a szerint érvényesített adókedvezmény 462/B. §-a szerint érvényesített adókedvezmény 462/C. §-a szerint érvényesített adókedvezmény
+*Az adatszolgáltatás határnapja: a megelŋzŋ év december hótól tárgyév június hónapig terjedŋ idŋszak utáni befizetések esetében július 22-e (ekkor az 1-7. sorokat, valamint az összesítŋ sort kell kitölteni), míg a tárgyév július-november
+hónapok utáni befizetésekrŋl december 22-e (ekkor az 8-12. sorokat, valamint az összesítŋ sort kell kitölteni).
+** 2013-ban ezt nem kell kitölteni!
+462/D. §-a szerint érvényesített adókedvezmény
+
+2. melléklet a 48/2013. (II. 21.) Korm. rendelethez
+
+Fejezet száma,
+megnevezése:
+Kitöltŋ neve,
+telefonszáma:
+Hónap megnevezése:
+(fŋben és ezer forintban)
+létszáma
+(fŋ)
+havi személyi juttatása
+(bruttó)
+szociális hozzájárulási
+adó (alapesetben: 27%)
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+érintett
+foglalkoztatottak
+létszáma
+összege
+1 2 3 4 5 6 7 8 9 10 11 12 13
+14=6+8+10+12
+(14=3)
+15=7+9+11+13
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+P. H. aláírás
+461. §, 462/B. §, 462/C. §, 462/D. § szerint
+érvényesített adókedvezmény (= Összes
+megtakarítás = Befizetés)
+Összesen
+Dátum:
+A megelŋzŋ év december hótól tárgyév június hónapig terjedŋ idŋszak utáni befizetések havi szinten összesített adatainak megküldési határideje a július 22-ei határnapot követŋ 10. munkanap, míg a tárgyév július-november hónapok
+utáni befizetések havi szinten összesített adatainak megküldési határideje a december 22-ei határnapot követŋ 10. munkanap.
+FEJEZETI ADATSZOLGÁLTATÁS
+a szociális hozzájárulási adó megtakarítás befizetésérŋl
+Cím/alcím
+száma
+Cím/alcím
+megnevezése
+Az Eat. 461. §, 462/B. §, 462/C. §, 462/D. § szerint érvényesített
+adókedvezményben érintett foglalkoztatottak
+Az Eat.
+461. §-a szerint érvényesített adókedvezmény 462/B. §-a szerint érvényesített adókedvezmény 462/C. §-a szerint érvényesített adókedvezmény 462/D. §-a szerint érvényesített adókedvezmény

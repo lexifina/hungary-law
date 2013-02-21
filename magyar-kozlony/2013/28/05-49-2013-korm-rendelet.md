@@ -1,0 +1,93 @@
+# A Kormány 49/2013. (II. 21.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 28. szám, 2013. február 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2bcb87cd730281ecc33f4b0cc7c783faae36177c/dokumentumok/ba453c2eb70059155cd82528bbfc6243d1dd1567/letoltes)
+
+---
+
+A Kormány 49/2013. (II. 21.) Korm. rendelete
+a Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek rábízott állami vagyonnal
+kapcsolatos éves beszámoló készítési és könyvvezetési kötelezettségéről szóló 347/2010. (XII. 28.)
+Korm. rendelet, és a Nemzeti Földalapba tartozó rábízott földvagyonnal kapcsolatos éves
+beszámoló-készítési és könyvvezetési kötelezettségről szóló 34/2011. (III. 17.) Korm. rendelet
+módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 27. és 33. pontjában,
+az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés a) pontjában,
+a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés a) és c) pontjában,
+a 2. alcím tekintetében a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdés d) pontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek rábízott állami vagyonnal
+kapcsolatos éves beszámoló készítési és könyvvezetési kötelezettségéről szóló
+347/2010. (XII. 28.) Korm. rendelet módosítása
+1. § A Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek rábízott állami vagyonnal kapcsolatos éves
+beszámoló készítési és könyvvezetési kötelezettségéről szóló 347/2010. (XII. 28.) Korm. rendelet (a továbbiakban:
+1. rendelet) 3. § (4)–(7) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) A tulajdonosi joggyakorló szervezet az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.)
+Korm. rendelet (a továbbiakban: Ávr.) 170. § (1) bekezdése alapján időközi mérlegjelentést készít a rábízott vagyonra
+vonatkozóan az 1. melléklet szerinti mérleg tagolásának megfelelő bontásban. Az egyes mérlegsorok állományát és
+annak változását a következő összetevők szerint köteles bemutatni:
+a) állomány az év elején,
+b) állományváltozás a pénzforgalmi tranzakciók miatt,
+c) állományváltozás a nem pénzforgalmi tranzakciók miatt,
+d) egyéb volumenváltozás,
+e) értékelés,
+f) állomány a tárgyidőszak végén.
+(5) A (4) bekezdésben foglalt időközi mérlegjelentést a tárgynegyedévet követő 45. napig, a negyedik negyedévre
+vonatkozóan gyorsjelentésként a tárgynegyedévet követő 60. napig, az éves jelentést az éves beszámoló
+benyújtásának, illetve a költségvetési zárszámadás munkálatainak határidejével megegyezően kell elektronikus
+formában az irányító szervnek benyújtani.
+(6) A tulajdonosi joggyakorló szervezet az Ávr. 170. § (6) bekezdése szerinti részesedések és a részesedések utáni
+osztalékok alakulásáról készített jelentést az éves beszámolóval egyidejűleg köteles elkészíteni és megküldeni
+az irányító szervnek.
+(7) A tulajdonosi joggyakorló szervezet az Ávr. 170. § (8) bekezdése szerinti közteher-bevételek adósainak alakulásáról
+szóló adatszolgáltatás alól mentesül.”
+2. § Az 1. rendelet a következő 7/A. §-al egészül ki:
+„7/A. § (1) Az Nvtv. 1. § (2) bekezdésében meghatározott nemzeti vagyonnak az állam és önkormányzat közötti,
+továbbá az állami vagyon tulajdonosi joggyakorlójának változása miatt szükségessé vált átadása-átvétele során
+az átvevőnél az eszközök bekerülési értéke az átadó nyilvántartási értékével egyezik meg.
+(2) Amennyiben a nemzeti vagyon körében történő vagyonátadás során törvény jelöli ki a vagyonkezelőt, akkor
+a vagyon átadása és átvétele és a nyilvántartásokban való kezelése a vagyont átadó és a törvény által kijelölt
+vagyonkezelő között az (1) bekezdésnek megfelelően közvetlenül történik meg.”
+3. § Az 1. rendelet
+a) 1. §-ában a „3. § (1) bekezdésében” szövegrész helyébe a „3. § (1) és (2) bekezdésében” szöveg,
+b) 2. § (1) bekezdésében az „a Vtv. 4. §-a” szövegrész helyébe az „a nemzeti vagyonról szóló 2011. évi CXCVI. törvény
+(a továbbiakban: Nvtv.) 3. § (1) bekezdés 5. és 18. pontja” szöveg,
+
+c) 2. § (4) bekezdésében a „megegyező formában pénzügyi beszámolót készít” szövegrész helyébe a „megegyező
+formában, kiegészítve azt a finanszírozási bevételek és kiadások tételeivel, pénzügyi beszámolót készít” szöveg,
+d) 9. § (1) bekezdésében az „éves mérlegjelentés is” szövegrész helyébe az „éves mérlegjelentés és a 3. §
+(6) bekezdése alapján készített részesedések és a részesedések utáni osztalékok alakulásáról készített jelentés is”
+szöveg
+lép.
+4. § Hatályát veszti az 1. rendelet 3. § (8) bekezdése.
+2. A Nemzeti Földalapba tartozó rábízott földvagyonnal kapcsolatos éves beszámoló-készítési és
+könyvvezetési kötelezettségről szóló 34/2011. (III. 17.) Korm. rendelet módosítása
+5. § A Nemzeti Földalapba tartozó rábízott földvagyonnal kapcsolatos éves beszámoló-készítési és könyvvezetési
+kötelezettségről szóló 34/2011. (III. 17.) Korm. rendelet (a továbbiakban: 2. rendelet) 2. § (4)–(7) bekezdése helyébe
+a következő rendelkezések lépnek:
+„(4) Az NFA az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+(a továbbiakban: Ávr.) 170. § (1) bekezdése alapján időközi mérlegjelentést készít a rábízott vagyonra vonatkozóan
+az 1. melléklet szerinti mérleg tagolásának megfelelő bontásban. Az egyes mérlegsorok állományát és annak
+változását a következő összetevők szerint köteles bemutatni:
+a) állomány az év elején,
+b) állományváltozás a pénzforgalmi tranzakciók miatt,
+c) állományváltozás a nem pénzforgalmi tranzakciók miatt,
+d) egyéb volumenváltozás,
+e) értékelés,
+f) állomány a tárgyidőszak végén.
+(5) A (4) bekezdésben foglalt időközi mérlegjelentést a tárgynegyedévet követő 45. napig, a negyedik negyedévre
+vonatkozóan gyorsjelentésként a tárgynegyedévet követő 60. napig, az éves mérlegjelentést az éves beszámoló
+benyújtásának határidejével megegyezően kell elektronikus formában az irányító szervnek benyújtani.
+(6) Az NFA az Ávr. 170. § (8) bekezdése szerinti közteher-bevételek adósainak alakulásáról szóló adatszolgáltatás alól
+mentesül.
+(7) Az NFA a zárszámadási törvényjavaslat előkészítéséhez a kincstárnál vezetett pénzforgalmi számlák bevételeiről és
+kiadásairól jogcímenként adatokat szolgáltat az agrárpolitikáért felelős miniszternek és az államháztartásért felelős
+miniszternek.”
+6. § Hatályát veszti a 2. rendelet 2. § (8) bekezdése.
+3. Záró rendelkezések
+7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+
+VI. Az Alkotmánybíróság határozatai,
+teljes ülési állásfoglalásai és végzései
