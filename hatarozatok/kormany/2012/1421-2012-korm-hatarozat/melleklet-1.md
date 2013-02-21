@@ -4,9 +4,9 @@
 
 ## 3. hozzájárul ahhoz, hogy a Nemzeti Fejlesztési Ügynökség Közigazgatási Reform Programok Irányító Hatósága a 2. pont szerinti kiemelt projektek támogatási szerződéseit megkösse, illetve módosításuk iránti intézkedéseket megtegye,
 
-## 4.[^1]
+## 4.[^2]
 
-1. melléklet az 1421/2012. (X. 4.) Korm. határozathoz[^2]
+1. melléklet az 1421/2012. (X. 4.) Korm. határozathoz[^3]
 
 |  | A | B | C | D | E | F | G |
 
@@ -26,11 +26,11 @@
 
 | 8 |  |  |  |  |  |  |  |
 
-| 9 | 2.2.17. | Új közszolgálati életpálya | Állam- reform Operatív Program | 2011–2013. | KIH | 1,00 | Az új életpálya révén csökkenhet a fluktuáció, valamint nőhet a közszolgálati pálya iránti érdeklődés és erősödik a különböző életpályák közötti átjárhatóság és kapcsolat. |
+| 9 |  |  |  |  |  |  |  |
 
-| 10 | 2.2.19. | Elektronikus képzési és távoktatási anyagok készítése | Állam- reform Operatív Program | 2011–2013. | NKE | 0,70 | A konstrukció keretében elektronikus képzési anyagok készülnek a közigazgatási szerveknél dolgozók kompetenciáinak fejlesztése céljából. Emellett távoktatási rendszer és öntanulási módszer kidolgozásához és bevezetéséhez szükséges képzések és kompetencia-fejlesztés is megtörténik. |
+| 10 |  |  |  |  |  |  |  |
 
-| 11 | 2.2.20. | Kormányablakok munkatársainak képzése | Állam- reform Operatív Program | 2011–2013. | NKE | 1,60 | Kormányablakok munkatársainak képzése elnevezésű kiemelt projekt az országos szinten felálló kormányablaki hálózat munkatársai számára nyújt egységes színvonalú, az ügyfélszolgálati tevékenység ellátásához szükséges ismereteket és kompetenciákat átadó képzést. A projekt Kormányablakok kialakításának első szakaszában lebonyolított hasonló célú képzések tapasztalati költségadatain nyugszik. |
+| 11 |  |  |  |  |  |  |  |
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1046/2013. (II. 5.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1046/2013. (II. 5.) Korm. határozat 4. pontja szerint módosított szöveg. Az 1. mellékletnek az ÁROP 2011–2013. évi akciótervének projektjeire vonatkozó részeit a Kormány az 1071/2013. (II. 21.) Korm. határozat 4. pont b) alpontjával visszavonta.
