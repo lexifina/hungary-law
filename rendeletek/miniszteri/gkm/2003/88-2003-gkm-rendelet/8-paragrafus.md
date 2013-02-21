@@ -2,6 +2,6 @@
 
 8. § (1) Tilos a háztartási légkondicionáló berendezéseken olyan, az energiafelhasználásra vonatkozó címkét, jelzést, szimbólumot vagy feliratot elhelyezni, amely az e rendeletben foglaltaknak nem felel meg, és alkalmas a fogyasztók megtévesztésére.
 
-(2)[^2] A környezetbarát, környezetkímélő megkülönböztető jelzést a környezetbarát, környezetkímélő megkülönböztető jelzés használatának feltételrendszeréről szóló külön jogszabályban meghatározott feltételek teljesítése esetén lehet a háztartási légkondicionáló berendezésen elhelyezni a közösségi öko-címke mellett.
+(2)[^3] A környezetbarát, környezetkímélő megkülönböztető jelzést a környezetbarát, környezetkímélő megkülönböztető jelzés használatának feltételrendszeréről szóló külön jogszabályban meghatározott feltételek teljesítése esetén lehet a háztartási légkondicionáló berendezésen elhelyezni a közösségi öko-címke mellett.
 
-[^2]: E rendelet 11. §-ának (2) bekezdése alapján a 8. § (2) bekezdése a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^3]: E rendelet 11. §-ának (2) bekezdése alapján a 8. § (2) bekezdése a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
