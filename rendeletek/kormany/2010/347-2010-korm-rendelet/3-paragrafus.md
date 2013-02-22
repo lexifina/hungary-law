@@ -4,7 +4,7 @@
 
 (3) Az éves beszámolóval egyidejűleg üzleti jelentést is kell készíteni.
 
-(4) A tulajdonosi joggyakorló szervezet az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 206. §-ában, illetve 17. számú mellékletében előírt időközi mérlegjelentést a rábízott állami vagyonra vonatkozóan e rendelet 1. számú melléklete szerinti mérleg tagolásának megfelelő bontásban az egyes mérlegsorok állományát és annak változását a következő összetevők szerint köteles bemutatni:
+(4)[^5] A tulajdonosi joggyakorló szervezet az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 170. § (1) bekezdése alapján időközi mérlegjelentést készít a rábízott vagyonra vonatkozóan az 1. melléklet szerinti mérleg tagolásának megfelelő bontásban. Az egyes mérlegsorok állományát és annak változását a következő összetevők szerint köteles bemutatni:
 
 a) állomány az év elején,
 
@@ -18,10 +18,16 @@ e) értékelés,
 
 f) állomány a tárgyidőszak végén.
 
-(5) Az egyes összetevők meghatározására az Ámr. 19/A. számú mellékletében található kitöltési utasításban foglaltakat kell alkalmazni.
+(5)[^6] A (4) bekezdésben foglalt időközi mérlegjelentést a tárgynegyedévet követő 45. napig, a negyedik negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő 60. napig, az éves jelentést az éves beszámoló benyújtásának, illetve a költségvetési zárszámadás munkálatainak határidejével megegyezően kell elektronikus formában az irányító szervnek benyújtani.
 
-(6) A (4) bekezdésben foglalt időközi mérlegjelentést a tárgynegyedévet követő hónap 45. napjáig, a negyedik negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő hatvan napon belül, az éves jelentést az éves beszámoló benyújtásának, illetve a költségvetési zárszámadás munkálatainak határidejével megegyezően kell elektronikus formában az államháztartásért felelős miniszternek benyújtani.
+(6)[^7] A tulajdonosi joggyakorló szervezet az Ávr. 170. § (6) bekezdése szerinti részesedések és a részesedések utáni osztalékok alakulásáról készített jelentést az éves beszámolóval egyidejűleg köteles elkészíteni és megküldeni az irányító szervnek.
 
-(7) A tulajdonosi joggyakorló szervezet az időközi mérlegjelentés részét képező az Ámr. 18. számú melléklete szerinti részesedések és a részesedések utáni osztalékok alakulásáról készített jelentést az éves beszámolóval egyidejűleg köteles elkészíteni és megküldeni az államháztartásért felelős miniszternek.
+(7)[^8] A tulajdonosi joggyakorló szervezet az Ávr. 170. § (8) bekezdése szerinti közteher-bevételek adósainak alakulásáról szóló adatszolgáltatás alól mentesül.
 
-(8) A tulajdonosi joggyakorló szervezet az időközi mérlegjelentés részét képező az Ámr. 19. számú melléklete szerinti adatszolgáltatás alól mentesül.
+(8)[^9]
+
+[^5]: A 3. § (4) bekezdése a 49/2013. (II. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3. § (5) bekezdése a 49/2013. (II. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (6) bekezdése a 49/2013. (II. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 3. § (7) bekezdése a 49/2013. (II. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 3. § (8) bekezdését a 49/2013. (II. 21.) Korm. rendelet 4. §-a hatályon kívül helyezte.
