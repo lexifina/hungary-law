@@ -1,0 +1,103 @@
+## 1. A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 7. §-a, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 8. §-a, valamint a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1150/2012. (V. 15.) Korm. határozat rendelkezései alapján a KKB 2013. évi munkatervét az 1. mellékletben foglaltak szerint elfogadja.
+
+## 2. A KKB felhívja az adminisztrációs szerv vezetőjét, hogy az Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
+
+## 3. Ez a határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg hatályát veszti a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2012. évi munkatervének elfogadásáról szóló 2/2012. (VIII. 7.) KKB határozat.
+
+1. melléklet az 1/2013. (II. 22.) KKB határozathoz
+
+## A KATASZTRÓFAVÉDELMI KOORDINÁCIÓS TÁRCAKÖZI BIZOTTSÁG
+
+## 2013. ÉVI MUNKATERVE
+
+## A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény, továbbá a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1150/2012. (V. 15.) Korm. határozat alapján a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) a 2013. évi, a katasztrófák megelőzésével és az azokra történő hatékony felkészüléssel összefüggő feladatait az alábbiak szerint határozza meg:
+
+## 1. Az Országos Nukleárisbaleset-elhárítási Rendszer 2013. évi képzési és gyakorlatozási tervének (1. függelék) jelen Munkatervvel történő elfogadása.
+
+## Felelős: BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója
+
+## Országos Atomenergiai Hivatal főigazgatója
+
+## egészségügyért felelős KKB tag
+
+## Határidő: 2012. december 15.
+
+## 2. ONER-3-2013 Nemzeti nukleárisbaleset-elhárítási gyakorlat elgondolásának (2. függelék) jelen Munkatervvel történő elfogadása.
+
+## Felelős: BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója
+
+## Országos Atomenergia Hivatal főigazgatója
+
+## egészségügyért felelős KKB tag
+
+## Határidő: 2012. december 15.
+
+## 3. Az Országos Nukleárisbaleset-elhárítási Rendszer 2014. évi képzési és gyakorlatozási tervének elkészítése.
+
+## Felelős: BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója
+
+## Országos Atomenergia Hivatal főigazgatója
+
+## egészségügyért felelős KKB tag
+
+## Határidő: 2013. november 30.
+
+## 4. A megyei, fővárosi védelmi bizottságok elnökeinek éves katasztrófavédelmi továbbképzése.
+
+## Felelős: BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója
+
+## HM Védelmi Hivatal főigazgatója
+
+## Határidő: 2013. december 1.
+
+## 5. A KKB 2013. évi rendes üléseinek megtartása.
+
+## Felelős: KKB elnöke
+
+## Határidő: 2013. április 8.; november 14.
+
+## 6. A folyamatos működési rendre történő áttérés begyakorlása érdekében a KKB Nemzeti Veszélyhelyzet-kezelési Központ elméleti és gyakorlati felkészítésének megtartása, amennyiben tárgyidőszakban veszélyhelyzet kihirdetésére nem kerül sor.
+
+## Felelős: KKB NVK vezetője
+
+## Határidő: 2013. november 14.
+
+## 7. Kiterjedt katasztrófák esetére a Kormány folyamatos működését biztosító feltételek vizsgálata.
+
+## Felelős: Országos Rendőr-főkapitányság
+
+## BM Országos Katasztrófavédelmi Főigazgatóság
+
+## HM Védelmi Hivatal
+
+## Határidő: 2013. november 14.
+
+## 8. Az Európai Regionális Fejlesztési Alap (ERFA) 2014–2020 és a Kohéziós Alap egyedi kockázatok kezelésére, a katasztrófákkal szembeni ellenálló képesség biztosítására és katasztrófavédelmi rendszerek kifejlesztésére irányuló beruházásainak elősegítése érdekében az éghajlatváltozáshoz való alkalmazkodás és kockázatmegelőzés előmozdítása.
+
+## a) Kockázatmegelőzés és kockázatkezelés terén az éghajlatváltozáshoz való alkalmazkodást figyelembe vevő nemzeti, regionális kockázatfelmérés biztosítása katasztrófavédelem céljából.
+
+## b) Nemzeti vagy regionális kockázatfelmérés alkalmazása, beleértve a kockázatfelmérés céljára használt eljárás, módszertan, módszerek és nem különleges adatok, valamint a beruházások rangsorolására szolgáló kockázatalapú kritériumok leírását.
+
+## c) Egy- vagy többféle kockázatra vonatkozó forgatókönyv leírása az éghajlatváltozáshoz való alkalmazkodás nemzeti stratégiáinak figyelembe vételével.
+
+## Felelős: BM Országos Katasztrófavédelmi Főigazgatóság
+
+## környezetvédelemért felelős KKB tag
+
+## iparügyekért felelős KKB tag
+
+## Határidő: 8. b) 2013. június 30.
+
+## 8. a) és c) 2013. október 31.
+
+1. függelék a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2013. évi munkatervéhez
+
+## AZ ORSZÁGOS NUKLEÁRISBALESET-ELHÁRÍTÁSI RENDSZER
+
+## 2013. ÉVI KÉPZÉSI ÉS GYAKORLATOZÁSI TERVE[^*]
+
+2. függelék a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2013. évi munkatervéhez
+
+ONER-3-2013 NEMZETI NUKLEÁRISBALESET-ELHÁRÍTÁSI GYAKORLAT ELGONDOLÁSA*
+
+[^*]: A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2013. évi munkaterének 1. és 2. függeléke a BM Országos Katasztrófavédelmi Főigazgatóság honlapján érhető el, a következő útvonalon: http://www.katasztrofavedelem.hu/index2.php?pageid=vedelemig_kkb_index
