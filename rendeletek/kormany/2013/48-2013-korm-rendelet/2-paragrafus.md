@@ -1,0 +1,5 @@
+## 1. § A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 10. § (7) bekezdése szerinti befizetési kötelezettséget a központi költségvetési szerv havi szinten összesítve, ezer forintra kerekítve, a kincstár „Munkahelyvédelmi akciótervvel összefüggő befizetések központi költségvetési szervek” megnevezésű, 10032000-01034224-00000000 számú számlájára teljesíti.
+
+2. § (1) A központi költségvetési szervnek az ugyanazzal a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel több adókedvezmény érvényesítése esetén a befizetési kötelezettséget a tárgyhóban az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 461. §-a, 462/B. §-a, 462/C. §-a és 462/D. §-a alapján érvényesített adókedvezményhez kapcsolódóan kell teljesíteni.
+
+(2) Nem jelent kiadási megtakarítást, ha a központi költségvetési szervet az általa foglalkoztatott személy után fizetendő közterhek megfizetését követően a megfizetett összeg tekintetében más költségvetési szerv felé elszámolási kötelezettség terheli.
