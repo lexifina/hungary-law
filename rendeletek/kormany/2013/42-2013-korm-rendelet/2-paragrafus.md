@@ -1,1 +1,0 @@
-## „6. közszféra szervezet: a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdés a)–f) pontja alapján ajánlatkérőnek minősülő szervezet, valamint a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyház és belső egyházi jogi személy,”
