@@ -14,7 +14,27 @@
 
 7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját, vagy más nevében jár el, illetve más természetes, vagy jogi személyt, vagy jogi személyiség nélküli szervezetet képvisel;
 
-8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült, önálló üzlethelyiség, amelyben kizárólag dohánytermék, dohányterméket kiegészítő termék, továbbá a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény különös rendelkezései I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék, vagy jogszabály által meghatározott termék forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;
+8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült, önálló üzlethelyiség, amelyben kizárólag
+
+a) dohánytermék,
+
+b) dohányterméket kiegészítő termék,
+
+c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény Különös Rendelkezések rész I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék,
+
+d) a kereskedelemről szóló 2005. évi CLXIV. törvényben meghatározott szeszes ital,
+
+e) a népegészségügyi termékadóról szóló 2011. évi CIII. törvényben meghatározott energiaital,
+
+f) kávé [csomagolt kávé (ideértve az azonnal oldódó kávékivonatot is), vagy helyben is fogyasztható kávéital],
+
+g) ásványvíz és üdítőital,
+
+h) újság, napilap, folyóirat, periodikus kiadvány,
+
+i) jogszabály által meghatározott más termék
+
+forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;
 
 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 
