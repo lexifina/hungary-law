@@ -8,7 +8,7 @@
 
 ## Határidő: 2013. december 20.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1410/2012. (IX. 28.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2013. október 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1078/2013. (II. 21.) Korm. határozathoz
 
@@ -101,3 +101,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
