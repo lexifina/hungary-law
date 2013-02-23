@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1138-30
 | --- | --- | --- |
 | 2012-05-03 | 2012-1138-30-22.1 | 1138/2012. (V. 3.) Korm. határozat |
 | 2012-09-15 | 2012-1138-30-22.2 | 1361/2012. (IX. 14.) Korm. határozat |
+| 2013-02-23 | 2012-1138-30-22.3 | 1079/2013. (II. 22.) Korm. határozat |

@@ -40,21 +40,19 @@ Határidő: azonnal
 
 ab)[^3]
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy haladéktalanul gondoskodjon
+b)[^4]
 
-ba) a megtett úttal arányos elektronikus díjszedési rendszer megvalósításához szükséges szerződés előkészítéséről és a kormányzati felügyelet ellátásához szükséges auditor kiválasztásáról,
+c)[^5] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen
 
-bb) a megtett úttal arányos elektronikus díjszedési rendszer beszerzésének versenyeztetési eljáráshoz szükséges részletes díjpolitikai adatszolgáltatásról, valamint a díjszedéshez és díjellenőrzéshez szükséges szolgáltatási szintek meghatározásáról;
+ca) az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítésének előkészítése érdekében a Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaságnak (a továbbiakban: NISZ Zrt.) integrátorként való kijelöléséről,
+
+cb) a NISZ Zrt.-nek az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszerhez szükséges eszközök és a kapcsolódó szolgáltatások beszerzésével (a továbbiakban: ED-beszerzés) összefüggő feladatainak – így elsősorban a megtett úttal arányos elektronikus díjszedési rendszer összeállítása, a minőségbiztosítás, a megrendelőt támogató műszaki mérnöki funkció ellátása és egyéb, az ED-beszerzéshez kapcsolódó feladatok – meghatározásáról,
+
+cc) annak érdekében, hogy a NISZ Zrt. együttműködési megállapodást kössön az Állami Autópálya Kezelő Zrt.-vel az ED-beszerzéshez kapcsolódó feladatok ellátása tárgyában;
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
-
-c) felhívja a nemzeti fejlesztési minisztert, hogy készítse elő az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer társasági keretek között megvalósítandó szervezeti-finanszírozási modelljének megalkotásához, továbbá az ellenőrzés feladatainak szabályozásához szükséges koncepciókat és jogszabály-tervezeteket; valamint intézkedjen az elektronikus díjszedéshez és ellenőrzéshez kapcsolódó intézmények kijelöléséről;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2012. június 30.
 
 d) felhívja a nemzeti fejlesztési minisztert, hogy az elektronikus díjszedési rendszer szervezeti-finanszírozási modellje, illetve a szabályozási koncepciója és a jogszabály-tervezetek alapján megoldási elgondolásokat az Európai Unió közszolgáltatás ellentételezése formájában nyújtott állami támogatásról szóló keretszabálya vonatkozásában az előzetes egyeztetéseket folytassa le;
 
@@ -62,7 +60,11 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2012. június 30.
 
-e)[^4] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítéséhez szükséges eszközöknek az éles üzem indulásától számított egy évig tartó bevezetés támogatással és ezt követően a szerződés megszűnéséig tartó infrastruktúra-támogatással együttesen történő beszerzésével kapcsolatos közbeszerzési eljárásnak a Magyar Állam javára eljárva történő, az Állami Autópálya Kezelő Zrt. mint ajánlatkérő általi megindításáról és ez alapján a közbeszerzési eljárás keretében a szerződés megkötéséről;
+e)[^6] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen az ED-beszerzéssel összefüggő minősített beszerzési eljárásnak a Magyar Állam javára eljárva történő, az Állami Autópálya Kezelő Zrt. mint ajánlatkérő általi megindításáról, azzal, hogy az ajánlatkérő dokumentációnak tartalmaznia kell, hogy a minősített beszerzési eljárás nyertese az eszközök szolgáltatásán felül köteles
+
+ea) 2013. július 1-jétől 2014. június 30-ig tartó időszakban bevezetés-támogatást (így szakértői tanácsadási és támogatási szolgáltatásokat, amelyek biztosítják a jelenlegi használati díjas funkciónak a megtett úttal arányos elektronikus díjszedési rendszerbe történő integrációját és a megtett úttal arányos elektronikus díjszedési rendszert alkalmassá teszik arra, hogy az Állami Autópálya Kezelő Zrt. általi üzemeltetés mellett is a megtett úttal arányos elektronikus díjszedési rendszer 2013. július 1-jétől kezdve folyamatosan képes legyen az előírt szolgáltatási szintek szerinti működésre) nyújtani, továbbá
+
+eb) az általa szolgáltatandó programok, szoftverek, műszaki-technológiai megoldások, adatok korlátlan felhasználását, módosítását lehetővé tévő forráskódokat, szellemi tulajdonhoz fűződő jogokat és egyéb jogosultságokat a Magyar Állam részére teljes körűen átadni;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -82,17 +84,13 @@ nemzetgazdasági miniszter
 
 Határidő: 2012. június 30.
 
-h)[^5] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen annak érdekében, hogy az e) pont szerinti közbeszerzés keretében beszerzésre kerülő eszközök a Magyar Állam tulajdonába, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdésében foglaltak alapján az Állami Autópálya Kezelő Zrt. tulajdonosi joggyakorlásába kerüljenek legalább a közbeszerzési eljárás eredményeként megkötésre kerülő szerződés időbeli hatályának időtartamára;
+h)[^7] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen annak érdekében, hogy az e) pont szerinti minősített beszerzési eljárás keretében beszerzendő eszközök a Magyar Állam tulajdonába kerüljenek, azzal, hogy azok tekintetében – legalább a beszerzési eljárás eredményeként megkötendő szerződés időbeli hatályának időtartamára – az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdésében foglaltak alapján az Állami Autópálya Kezelő Zrt. gyakorolja a Magyar Állam tulajdonosi jogait;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: azonnal (a Magyar Államot megillető tulajdonosi jogok és kötelezettségek gyakorlójának kijelölésére vonatkozó rendelet kiadására)
+Határidő: azonnal
 
-i)[^6] felhívja a nemzeti fejlesztési minisztert, hogy a megtett úttal arányos díjszedési rendszer megvalósítása során gondoskodjon az európai uniós forrásokból történő finanszírozásba történő utólagos bevonás lehetőségéről.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: folyamatosan
+i)[^8]
 
 4. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a nemzetgazdasági miniszterrel együtt tegyen javaslatot a közúti infrastruktúra finanszírozásának átfogó programjára.
 
@@ -105,6 +103,8 @@ Határidő: folyamatosan
 [^1]: Az 1. pont e) alpontja az 1361/2012. (IX. 14.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont j) alpontját az 1361/2012. (IX. 14.) Korm. határozat 11. pontja visszavonta.
 [^3]: A 3. pont a) alpont ab) alpontját az 1361/2012. (IX. 14.) Korm. határozat 11. pontja visszavonta.
-[^4]: A 3. pont e) alpontja az 1361/2012. (IX. 14.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
-[^5]: A 3. pont h) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont b) alpontja iktatta be.
-[^6]: A 3. pont i) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont c) alpontja iktatta be.
+[^4]: A 3. pont b) pontját visszavonta az 1079/2013. (II. 22.) Korm. határozat 5. pontja.
+[^5]: A 3. pont c) alpontja az 1079/2013. (II. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: A 3. pont e) alpontja az 1079/2013. (II. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^7]: A 3. pont h) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont b) alpontja iktatta be, szövege az 1079/2013. (II. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^8]: A 3. pont i) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont c) alpontja iktatta be, visszavonta az 1079/2013. (II. 22.) Korm. határozat 5. pontja.
