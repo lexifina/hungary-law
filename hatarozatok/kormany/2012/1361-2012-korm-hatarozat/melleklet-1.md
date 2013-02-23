@@ -12,41 +12,37 @@
 
 ## Határidő: azonnal
 
-## 5. A Kormány egyetért azzal, hogy a 2013. évi központi költségvetési törvény külön jogcímen fedezetet biztosítson az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítéséhez szükséges eszközöknek az éles üzem indulásától számított egy évig tartó bevezetés támogatással és ezt követően a szerződés megszűnéséig tartó infrastruktúra-támogatással együttesen történő beszerzésére irányuló közbeszerzési eljárás eredményeként megkötésre kerülő szerződés teljesítéséhez.
+## 5.[^2] A Kormány egyetért azzal, hogy az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítéséhez szükséges eszközök és kapcsolódó szolgáltatások bevezetés-támogatással történő beszerzésére irányuló minősített beszerzési eljárás eredményeként megkötendő szerződés teljesítéséhez a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 8. Elektronikus útdíjrendszer kiépítése jogcímcsoportban elkülönített források kerüljenek felhasználásra.
 
-## 6. A Kormány felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy
+## 6.[^3] A Kormány felhívja a nemzetgazdasági minisztert, hogy a 2013. évet követő évek központi költségvetésének tervezése során gondoskodjon a 9. pontban meghatározott szolgáltatási szerződés fedezetének biztosításáról.
 
-## a) a 2013. évi központi költségvetési törvény keretében gondoskodjanak az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítéséhez szükséges eszközöknek az éles üzem indulásától számított egy évig tartó bevezetés támogatással és ezt követően a szerződés megszűnéséig tartó infrastruktúra-támogatással együttesen történő beszerzésére irányuló közbeszerzési eljárás eredményeként megkötésre kerülő szerződés teljesítéséhez szükséges forrás biztosításáról,
-
-## b) a 2013. évi központi költségvetési törvény keretében és az azt követő évek központi költségvetésének tervezése során gondoskodjanak a 9. pontban meghatározott szolgáltatási szerződés fedezetének biztosításáról.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
+## Felelős: nemzetgazdasági miniszter
 
 ## Határidő: folyamatosan
 
-## 7. A Kormány felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy az Állami Autópálya Kezelő Zrt. (a továbbiakban: ÁAK Zrt.) megkapja a szükséges felhatalmazást, hogy
+## 7.[^4] A Kormány felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság működésének finanszírozásáról.
 
-## a) a megtett úttal arányos díjszedési rendszer tervezésére és kiépítésére, valamint a megtett úttal arányos díjszedési rendszer éles üzemi indulásától számított, 1 évig tartó bevezetés támogatói tevékenységére 42 milliárd forint összeghatárig az 5. pontban megjelölt forrás terhére,
+## Felelős: nemzetgazdasági miniszter
 
-## b) a bevezetés támogatói tevékenység egy éves időtartamának lejártától számított, a szerződés megszűnéséig tartó infrastruktúra-támogatásra legfeljebb évi 1,5 milliárd forint összeghatárig a központi költségvetés terhére
-
-## a 2. pontban foglaltak szerint szerződéseket kössön és teljesítsen.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: az eredményes közbeszerzési eljárás lefolytatását követően azonnal
+## Határidő: folyamatosan
 
 ## 8. A Kormány egyetért azzal, hogy a megtett úttal arányos díjszedési rendszer bevétele a központi költségvetés bevételét képezze, amely az Európai Parlament és a Tanács 1999/62/EK, többször módosított irányelve („Eurovignetta irányelv”) szerint kerül felhasználásra.
 
-## 9. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az ÁAK Zrt. és a Magyar Állam nevében eljáró szervezet által a díjszedési, díjellenőrzési feladatokra kötendő 10 évre szóló szolgáltatási szerződés előkészítéséről és nemzetgazdasági miniszterrel egyetértésben történő jóváhagyásáról.
+## 9.[^5] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Állami Autópálya Kezelő Zrt. és a Magyar Állam nevében eljáró szervezet által a díjszedési, díjellenőrzési feladatokra kötendő 10 évre szóló szolgáltatási szerződés előkészítéséről és nemzetgazdasági miniszterrel egyetértésben történő jóváhagyásáról.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: 2012. október 12.
 
-## 10–11.[^2]
+## 9/A.[^6] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a közigazgatási és igazságügyi miniszterrel együttműködve dolgozza ki a technológia-semleges, a megtett úttal arányos elektronikus díjszedési rendszer 2013. július 1-jei bevezetéséhez szükséges jogszabályok és jogszabály-módosítási javaslatok tervezetét.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## közigazgatási és igazságügyi miniszter
+
+## Határidő: 2013. május 15.
+
+## 10–11.[^7]
 
 ## 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -67,4 +63,9 @@
 | főutak | 53,23 |
 
 [^1]: Az 1–2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 10–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont az 1079/2013. (II. 22.) Korm. határozat 6. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1079/2013. (II. 22.) Korm. határozat 7. pontjával megállapított szöveg.
+[^4]: A 7. pont az 1079/2013. (II. 22.) Korm. határozat 8. pontjával megállapított szöveg.
+[^5]: A 9. pont az 1079/2013. (II. 22.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^6]: A 9/A. pontot az 1079/2013. (II. 22.) Korm. határozat 9. pontja iktatta be.
+[^7]: A 10–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
