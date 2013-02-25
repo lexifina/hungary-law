@@ -1,0 +1,363 @@
+# A Kormány 1080/2013. (II. 25.) Korm. határozata
+
+Magyar Közlöny 2013. évi 30. szám, 2013. február 25. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1ae94b154846526651179f02404b1abb6e92d4ff/dokumentumok/f5bcf0bd1132de74b74c32e488b969eb45767d55/letoltes)
+
+---
+
+A Kormány 1080/2013. (II. 25.) Korm. határozata
+Magyarországnak a Nyílt Kormányzati Együttműködés (Open Government Partnership) elnevezésű
+nemzetközi kezdeményezés keretében teendő vállalásairól szóló akcióterv jóváhagyásáról
+1. A Kormány egyetért azzal, hogy Magyarország az 1. melléklet szerinti akciótervben foglalt intézkedések teljesítését
+vállalja a Nyílt Kormányzati Együttműködés (Open Government Partnership) elnevezésű nemzetközi kezdeményezés
+keretében.
+2. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy az 1. melléklet szerinti akciótervet
+Magyarországnak a Nyílt Kormányzati Együttműködés keretében tett vállalásaiként küldje meg a Nyílt Kormányzati
+Együttműködés Irányító Bizottságának.
+Felelős: közigazgatási és igazságügyi miniszter
+Határidő: azonnal
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet az 1080/2013. (II. 25.) Korm. határozathoz
+Akcióterv
+Magyarországnak a Nyílt Kormányzati Együttműködés (Open Government Partnership) elnevezésű
+nemzetközi kezdeményezés keretében teendő vállalásairól
+I. A nyílt kormányzás fontossága Magyarország számára
+Magyarország 2011. április 25-én kihirdetett és 2012. január 1-jén hatályba lépett Alaptörvénye kimondja, hogy:
+– Magyarország független, demokratikus jogállam. [B cikk (1) bekezdés]
+– A közhatalom forrása a nép. [B cikk (3) bekezdés]
+– Magyarországa kiegyensúlyozott,átláthatóés fenntartható költségvetésigazdálkodáselvét érvényesíti.[N cikk
+(1) bekezdés]
+– Mindenkinek joga van személyes adatai védelméhez, valamint a közérdekű adatok megismeréséhez és
+terjesztéséhez. [VI. cikk (2) bekezdés]
+– Az állam – a működésének hatékonysága, a közszolgáltatások színvonalának emelése, a közügyek jobb
+átláthatósága és az esélyegyenlőség előmozdítása érdekében – törekszik az új műszaki megoldásoknak és
+a tudomány eredményeinek az alkalmazására. [XXVI. cikk]
+– A központi költségvetésről és az annak végrehajtásáról szóló törvényjavaslatoknak azonos szerkezetben,
+átlátható módon és ésszerű részletezettséggel kell tartalmazniuk az állami kiadásokat és bevételeket. [36. cikk
+(2) bekezdés]
+– A Kormány a központi költségvetést törvényesen és célszerűen, a közpénzek eredményes kezelésével és
+az átláthatóság biztosításával köteles végrehajtani. [37. cikk (1) bekezdés]
+– Nemzeti vagyon átruházására vagy hasznosítására vonatkozó szerződés csak olyan szervezettel köthető,
+amelynek tulajdonosi szerkezete, felépítése, valamint az átruházott vagy hasznosításra átengedett nemzeti
+vagyon kezelésére vonatkozó tevékenysége átlátható. [38. cikk (4) bekezdés]
+– A központi költségvetésből csak olyan szervezet részére nyújtható támogatás, vagy teljesíthető szerződés
+alapján kifizetés, amelynek tulajdonosi szerkezete, felépítése, valamint a támogatás felhasználására irányuló
+tevékenysége átlátható. [39. cikk (1) bekezdés]
+
+– A közpénzekkel gazdálkodó minden szervezet köteles a nyilvánosság előtt elszámolni a közpénzekre
+vonatkozó gazdálkodásával. A közpénzeket és a nemzeti vagyont az átláthatóság és a közélet tisztaságának
+elve szerint kell kezelni. A közpénzekre és a nemzeti vagyonra vonatkozó adatok közérdekű adatok. [39. cikk
+(2) bekezdés]
+Alaptörvényének fenti rendelkezései Magyarországnak a nyílt kormányzás iránti elkötelezettségét mutatják.
+II. Magyarország eredményei a nyílt kormányzásban
+Magyarországon a korrupció elleni fellépés a kilencvenes évek végéig elsősorban büntetőjogi megközelítésen alapult
+és bűnüldözési eszközökkel történt.
+Ebben az ezredfordulótól kezdődően történt lényeges, szemléleti változás. Magyarországnak az Európai Unióhoz
+történő csatlakozását megelőző, 1998-ban indult csatlakozási tárgyalásokhoz kapcsolódóanekkor születtek meg azok
+a stratégiai döntések, amelyek meghatározták a következő évtized korrupció megelőzési intézkedéseit. Ezek döntően
+jogalkotási intézkedések voltak, amelyek a korrupció megelőzésének és az állami működés átláthatóságának
+szabályozási kereteit alakították ki. Számos jogszabályi változás lépett hatályba, amelyek új jogintézményeket
+hoztak létre vagy szabályozottabbá tették ezek működését. Ilyen jogszabály-módosításként említhető
+a vagyonnyilatkozat-tételi kötelezettség kiterjesztése a közszolgálatban álló döntéshozókra és az országgyűlési
+képviselőkre, a közérdekű, valamint a közérdekből nyilvános adatok bárki számára hozzáférhető, internetes
+közzétételére vonatkozó szabályozások, valamint a közérdekű bejelentésekre vonatkozó legfontosabb szabályokat
+tartalmazó törvényi rendelkezések. Ekkor indult az interneten a közszféra adatait rendszerezetten tartalmazó
+http://kozadat.hu honlap is.
+A korrupció megelőzését szolgáló jogszabályi keretek kialakítása jelentős vívmány volt, azonban a korrupció
+visszaszorításaérdekében önmagában nem bizonyult elegendőnek. Magyarország korrupciómegelőzésierőfeszítései
+terén a következő szemléletbeli fordulat 2010-től történt, amely a kizárólag büntetőjogi, illetve a csak a jogszabályi és
+intézményi keretekre koncentráló megközelítések korlátait meghaladva, az állami szervek integritásának erősítésével
+a Jó Állam kialakítását helyezi a középpontba. Az integritás szemléletében kiegyensúlyozottan kapcsolódnak össze
+a kockázatelemzés, a szabályozási, valamint a szabályok betartását és végrehajtását biztosító ellenőrzési, képzési,
+tájékoztatási, etikai és szervezetfejlesztési elemek, továbbá a szabályok megszegésének széles és differenciált
+eszközrendszerrel, végső soron büntetőjogi eszközökkel történő hatékony szankcionálása.
+A 2000-es évek folyamán a hivatalban lévő kormányok a korrupció témájában általában sikertelenül próbáltak
+párbeszédet folytatni a társadalommal, illetve szűkebb értelemben vett civil szférával. Az újabb és újabb kísérletek
+általában folytatás és tartós eredmény nélkül maradtak. A korrupció megelőzésével és az állam átláthatóságával
+kapcsolatos társadalmi párbeszéd élővé tétele még nem teljesített kihívásként maradt a 2010-es évekre.
+A 2010-ben hivatalba lépett Kormány első lépései között egységes kormányzati honlap kialakításáról
+(www.kormany.hu) döntött, amely valamennyi minisztérium közérdekű adatait tartalmazza, lehetőséget nyújt
+az előkészítés alatt álló jogszabály-tervezetek megismerésére és véleményezésére, továbbá tájékoztatást nyújt
+a legfontosabb kormányzati intézkedésekről. A rendvédelmi szervek belső bűnmegelőző, bűnfelderítő
+tevékenységének erősítésére jött létre a Nemzeti Védelmi Szolgálat, amely végzi a megbízhatósági vizsgálat és
+a kifogástalan életvitel ellenőrzését. Az új Büntető Törvénykönyv elfogadása szigorította és a nemzetközi
+követelményekhez igazította a korrupcióval kapcsolatos bűncselekmények büntetőjogi minősítését.
+Az Állami Számvevőszék által 2009-ben elkezdett, a korrupciós kockázatok mérését és az integritás alapú szervezeti
+kultúra elterjesztését célzó Integritás Projekt eredményeire alapozva a Kormány 2012-ben átfogó közigazgatási
+korrupciómegelőzésiprogramot fogadott el, egyben ennek végrehajtására– európai uniós forrásból– 2,35 millió euró
+összköltségvetéssel kiemelt projekt indításáról határozott. A projekt eddigi eredményeként a korrupció
+megelőzésével kapcsolatos ismeretek a Nemzeti alaptanterv részévé váltak, a Nemzeti Közszolgálati Egyetem képzési
+kínálata posztgraduális integritás tanácsadó képzéssel bővült, a korrupciós kockázatok mérése beépült a stratégiai
+tervezési folyamatba és a kormányzati döntés-előkészítésbe.Elkészült az közszféra etikai kódexeire vonatkozó javaslat
+és megkezdődött az új, egységes bejelentővédelmi szabályozás előkészítése.
+Magyarország a projekt keretében csatlakozott a Nyílt Kormányzati Együttműködés kezdeményezéshez és a civil
+szervezetekkel való egyeztetést követően, azok javaslatai alapján állította össze akciótervét. Az akcióterv előkészítése
+egyben jó alkalmat kínált a korrupciómegelőzéssel foglalkozó civil szervezetekkel való magas szintű találkozók
+rendszeresítésére, a kormányzati szakpolitika folyamatos társadalmi kontrolljára, végrehajtásának nyomon
+követésére.
+
+III. Magyarország vállalásai a nyílt kormányzás továbbfejlesztésében
+Magyarország nyílt kormányzással kapcsolatos vállalásai – összhangban a Nyílt Kormányzati Együttműködés Elvi
+Nyilatkozatával – elsősorban a közigazgatási szervek integritásának növeléséhez kapcsolódnak, de részben érintik
+a közszolgáltatások javításának és a közösségi erőforrások hatékonyabb felhasználásának területét is.
+Magyarország vállalásainak sajátossága, hogy nem különálló intézkedésként jelennek meg, hanem szerves egészet
+alkotnak korrupció megelőzési kormányhatározattal. E megoldás előnye, hogy a nyílt kormányzattal összefüggő
+vállalások egy kidolgozott programkeretbe beágyazottan, megfelelő anyagi és személyi feltételek biztosítása mellett
+hajthatóak végre.
+1) Költségvetési adatok nyilvánosságának javítása
+Magyarország vállalja, hogy az állampolgárok közpénzügyekről való jobb tájékoztatása érdekében számszerű
+és grafikus módon is bemutatja a központi költségvetés és módosításai tervezetének, valamint a végrehajtott
+költségvetésnek az adatait, az Egyesült Nemzetek Szervezete által kidolgozott COFOG (Classification of the
+Functions of Government) rendszer 2. szintjének megfelelő bontásban.
+Határidő: 2013. június 30.
+2) Közbeszerzési adatok kereshetőségének javítása
+Magyarország vállalja, hogy a közbeszerzési adatok nyilvánosságának biztosítása érdekében gondoskodik
+arról, hogy a közbeszerzési hirdetmények és más közbeszerzési közlemények (közbeszerzésekkel kapcsolatos,
+jogszabályi előírás alapján hivatalos közbeszerzési lapban, vagy közbeszerzési központi állami honlapon
+kötelezően közzéteendő adatok) úgy kerüljenek közzétételre, hogy minden beszerző szervhez egyedi,
+– a jogutódlás esetét kivéve – állandó azonosítószám, valamint minden konkrét közbeszerzési eljáráshoz is,
+az adott eljárás során állandó egyedi azonosítószám kerül hozzárendelésre. Ennek eredményeképpen
+valamennyi közzétett közbeszerzési dokumentum könnyen kereshetővé és lekérdezhetővé válik az érintett
+szerv és az adott konkrét eljárás egyedi azonosítószáma alapján.
+Határidő: 2013. szeptember 30.
+3) A köztulajdon hasznosítására és a közpénzek felhasználásával kötött szerződések nyilvánosságának erősítése
+Magyarország vállalja, hogy a közvagyon hasznosítására és a közpénzek felhasználására kötött szerződések
+nyilvánosságának biztosítása érdekében – szükség esetén jogszabály-módosítással – biztosítja, hogy:
+a) a szabályszerűségi ellenőrzésekre jogosult kormánytól független és kormányzati állami szervek
+ellenőrzései mindig kiterjednek a közzétételi kötelezettségek teljesítésére is;
+Határidő: 2013. június 30.
+b) a korrupciós kockázatok szempontjából áttekinti a közbeszerzési törvény, valamint a nemzeti és
+közösségi költségvetési pénzügyi támogatások szabályrendszere alkalmazásának tapasztalatait,
+különös tekintettel az elektronikus információszabadsággal kapcsolatos jogszabályi rendelkezések
+betartására, különös figyelmet fordítva a nyilvánosság lehetséges további növelésének formájára és
+tartalmára;
+Határidő: 2013. június 30.
+c) önkormányzati vagyonhasznosítási és beszerzési ügyben nyílt ülést kell tartani, kivéve a pályázati
+eljárások értékelésének megállapítására összehívott üléseket, ha a pályázati ajánlattevő vagy
+a pályázó kizárta ajánlata egy részének nyilvánosságra hozatalát, mivel az olyan üzleti titkot képez,
+amely saját tevékenységével összefügg, és nem vonatkozik a megkötendő szerződés lényeges
+elemeire, vagy ha az az önkormányzat tulajdonában álló gazdasági társaság üzleti titkát sértené;
+d) az önkormányzati testületi nyilvános előterjesztéseket a meghívó kiküldését követően, a meghívóval
+együtt kötelező közzétenni az önkormányzat honlapján.
+Határidő: 2013. június 30.
+4) Integritásirányítási rendszer a közszférában
+a) Magyarország vállalja, hogy biztosítja a közszféra szervezeteinek és az állami tulajdonban álló
+gazdasági társaságoknak a részvételét az Állami Számvevőszék Integritás Felmérésében.
+Határidő: 2013. május 31.
+b) Magyarország vállalja, hogy integritásirányítási rendszert vezet be a központi közigazgatásban.
+Határidő: 2013. december 31.
+c) Magyarország vállalja, hogy megteremti a bejelentők védelmének intézményrendszerét.
+Határidő: 2013. június 30.
+
+d) Magyarország vállalja, hogy meghatározza az állami szervek érdekérvényesítőkkel való
+kapcsolattartására vonatkozó szabályokat.
+Határidő: 2013. június 30.
+e) Magyarország vállalja, hogy biztosítja a Kormány által megtárgyalandó előterjesztések, valamint
+a miniszteri rendeletek tervezetei korrupciós kockázatainak – az előzetes hatásvizsgálat keretében
+történő – döntést megelőző elemzését.
+Határidő: folyamatos
+f) Magyarország vállalja, hogy a kormányzattól független hivatásrendi köztestületek által elfogadott
+Hivatásetikai Kódexeket készít a kormánytisztviselői és a rendvédelmi állomány számára.
+Határidő: 2013. július 31.
+5) A korrupció megelőzéssel és integritással kapcsolatos ismeretek elterjesztése
+a) Magyarország vállalja, hogy integritás, korrupciómegelőzés és etika témájú képzéseket biztosít
+az állami szervek tisztviselői számára.
+Határidő: folyamatos
+b) Magyarország vállalja, hogy az állami szervek képzési rendszerein belül a közérdekű adatok önálló,
+proaktív közzétételében is egyértelmű támpontot nyújtó, információszabadsággal kapcsolatos
+képzési elemeket biztosít az államigazgatási, az önkormányzati és az igazságszolgáltatási
+munkatársak számára.
+Határidő: 2013. december 31., majd folyamatos
+c) Magyarország vállalja, hogy hiteles, átlátható, költséghatékony, állampolgárok és a civil szervezetek
+bevonására építő, célcsoportonként differenciált tájékoztató kampányt indít a társadalom tagjai
+korrupciós jelenségekkel, és az azokkal szemben alkalmazható magatartásformákkal és
+ellenlépésekkel kapcsolatos ismereteinek és tudatosságának növelése érdekében.
+Határidő: 2013. február 22., majd folyamatos
+d) Magyarország vállalja, hogy gondoskodik a korrupciós jelenségekkel, és az azokkal szemben
+alkalmazható magatartásformákkal és ellenlépésekkel kapcsolatos értékeknek és ismereteinek
+az iskolai oktatásban és nevelésben való megjelenítéséről, ideértve az e tárgyú iskolai tankönyvek
+tartalmának felülvizsgálatát és antikorrupciós ismeretekkel való kiegészítését.
+Határidő: 2013. szeptember 1., majd folyamatos
+Függelék
+Magyarországnakanyíltkormányzásban2010. május29.,ajelenlegiKormányhivatalbalépéseóta elérteredményei
+– Egységes kormányzati honlap kialakítása
+A 2010-ben megválasztott Kormány hivatalba lépését követően haladéktalanul megkezdte az egységes, új
+kormányzatihonlapindításánakelőkészítését.A www.kormany.huvalamennyiminisztériumközérdekűadatait
+tartalmazza, lehetőséget nyújt az előkészítés alatt álló jogszabály-tervezetek megismerésére és
+véleményezésére, továbbá tájékoztatást nyújt a legfontosabb kormányzati intézkedésekről.
+– A KözigazgatásKorrupció-megelőzésiProgramjaésahozzákapcsolódókormányzatiintézkedésekkidolgozása
+A Kormány – a Közigazgatási és Igazságügyi Minisztérium (KIM) előterjesztésében és a civil szervezetekkel való
+egyeztetést követően – az 1104/2012. (IV. 6.) kormányhatározattal (a továbbiakban: korrupció megelőzési
+kormányhatározat) az elmúlt időszak legátfogóbb korrupciómegelőzési programját fogadta el
+2012 márciusában. A Program elemzi a magyarországi korrupciós helyzetet, majd ehhez kapcsolódóan
+mintegy 20 területen intézkedéseket ír elő az illetékes miniszterek számára. A program lényeges újdonsága,
+hogy – a büntetőjogi intézkedések fontosságának hangsúlyozása mellett – a fő hangsúlyt a korrupció
+megelőzésére, a szervezetek korrupcióval szembeni ellenálló képességének erősítésére helyezi.
+– Integritás Projekt (Állami Számvevőszék)
+A magyar Állami Számvevőszék által európai uniós források felhasználásával indított Integritás Projektjének
+(http://integritas.asz.hu) fő célja, hogy feltérképezze a közszféra korrupciós kockázatait és hozzájáruljon az
+integritás alapú közigazgatási kultúra erősítéséhez. A projekt fő eleme a kockázati térkép, amelynek alapja
+
+a költségvetési szervek önkéntes, kérdőíven alapuló adatszolgáltatása. Ebből az ÁSZ által kidolgozott kockázati
+módszertan alapján 3 kockázati érték kerül kiszámításra. A költségvetési szervekre vonatkozó adatokat
+az interneten bárki számára hozzáférhető Korrupciós Kockázati Térkép jeleníti meg, de a projekt honlapján
+szervezetekre és kérdésekre lebontott, feldolgozott adatsorok is elérhetőek. Az integritás szemlélet
+közigazgatáson belüli terjesztése érdekében a projekthez kapcsolódóan 2011-ben összesen 221 fő
+kiscsoportos tréning keretében történő képzésére került sor. Az Integritás Projekt európai jó példaként
+hatékonyan egyesíti magában az innovatív, az állampolgári részvételt erősítő informatikai alkalmazások,
+valamintaz átláthatóan,felelősségteljesenműködő közigazgatásjellemzőit.Az így létrehozottkockázatitérkép
+objektíven képes mérni a költségvetési szervek korrupciós kockázatait, közérthetőbbé teszi a költségvetési
+szervek működését, hozzájárul az ellenőrzési módszertanok fejlesztéséhez, valamint az állampolgárok és
+tisztviselők korrupcióval kapcsolatos szemléletének megváltoztatásához.
+– Korrupciómegelőzési témájú kiemelt projekt indítása
+A kormányhatározatban foglalt feladatok, valamint az OGP Akcióterv végrehajtása anyagi hátterének
+biztosítása érdekében a Kormány elfogadta az 1136/2012. (V. 2.) kormányhatározatot, amelynek mellékletében
+az 1.1.21. pont alatt – 480 millió forintos meghirdethető kerettel – kiemelt projektként nevesítette a korrupció
+megelőzésénektémáját. A projektetelőkészítőKIM javaslatáraa projektcéljairaa Kormányaz 1346/2012. (IX. 7.)
+kormányhatározatban a keret jelentős, 680 millió forintra történő emeléséről döntött. [Az 1136/2012. (V. 2.)
+kormányhatározat ezt követően, mint már felesleges, hatályon kívül helyezésre került.] A KIM júliusban
+megkezdte az ÁROP-1.1.21. „Korrupció megelőzése és a közigazgatás-fejlesztés áttekintése” c. kiemelt
+projektre vonatkozó javaslat előkészítését, amelybe konzorciumi partnerként a Nemzeti Közszolgálati Egyetem
+is bevonásra került. A projektjavaslatot a KIM mint projektgazda 2012. szeptember 28-án benyújtotta, majd
+a hiánypótlást teljes körűen megválaszolta. A közreműködő szervezet 2012. december 1-jén megküldte
+a támogatási szerződés tervezetét a KIM részére, amelynek aláírása december 14-én megtörtént. Az Európában
+az egyik legnagyobb korrupciómegelőzési témájú kiemelt projekt elindításával és támogatásával a Kormány
+biztosította azokat az anyagi forrásokat és szervezeti kereteket, amelyek – a költségvetés helyzetére való
+tekintet nélkül is – lehetővé teszik a kormányhatározatban foglalt célok megvalósítását.
+– Együttműködés a civil szervezetekkel
+A korrupcióval kapcsolatos kormányzati szakpolitika alakításában a KIM folyamatosan konzultál a civil
+szervezetek képviselőivel. Ez a folyamat a Korrupció-megelőzési Program előkészítése során vette kezdetét és
+új lendületet kapott az OGP Akcióterv előkészítésével. Összhangban a Nyílt Kormányzati Együttműködés
+követelményeivel,aKIM közigazgatásiállamtitkáránakvezetésével,civilszervezetekrészvételévelmagasszintű
+egyeztetések kezdődtek 2012. december 15-én, majd 2013. január 18-án és február 15-én újabb találkozókra
+került sor, amelyeket havi rendszerességgel fognak követni a továbbiak.
+– Oktatási együttműködés a Nemzeti Közszolgálati Egyetemmel
+Az ÁROP-1.1.21-es projekt végrehajtásába a KIM konzorciumi partnerként bevonta a Nemzeti Közszolgálati
+Egyetemet. Ennek eredményeként új, modern tananyagok fejlesztésével és képzések indításával lehetővé válik
+az egyetem képzési struktúrájának megújítása. 2013 szeptemberétől a korrupciómegelőzéssel és
+az integritással kapcsolatos ismeretek beépülnek a közszolgálati graduális képzés tantárgyai közé. A KIM-mel
+folytatott előkészítő munka eredményeként 2013 februárjától új, integritás tanácsadó szakirányú
+továbbképzés indul mintegy 50 fő részvételével, amelyet 2013 szeptemberében újabb 50 fő képzése követ.
+A Magyarországon újszerű szakirányú továbbképzésen résztvevőkkel lényegesen nőhet az integritással és
+korrupciómegelőzéssel foglalkozó szakemberek száma. Ezzel lehetővé válik, hogy e szakemberek
+a minisztériumokban, kormányhivatalokban tevékenykedve tovább erősítsék az antikorrupciós intézkedések
+hatékonyságát.
+– Zöld könyv az etikai kódexekben célszerűen szabályozandó területekről
+A KIM – a rendelkezésre álló szakmai anyagok és nemzetközi ajánlások alapján – előkészítette az etikai
+kódexekről szóló zöld könyv tervezetét. Ezzel az állami szervek munkatársaiból álló szakértői munkacsoportok
+tagjai egyetértettek. Az anyag a Magyar Kormánytisztviselői Kar Előkészítő Bizottsága Titkárságával is
+egyeztetésre került. A zöld könyv jóváhagyását követően alapul szolgálhat a hivatásrendi köztestületek etikai
+kódexeinek elkészítéséhez. A közszolgálati tisztviselőkkel szemben támasztott etikai követelmények ezáltal
+közel két évtized után ténylegesen is alkalmazható kódexekben öltenek testet.
+
+– A bejelentővédelem jogi szabályozása korrekciójára vonatkozó előterjesztés
+A KIM szakértői a jogi helyzet áttekintése után megvizsgálták a hatályos szabályozás felülvizsgálatára
+vonatkozó lehetőségeket, ennek során jelentős mértékben támaszkodtak a Transparency International
+Magyarország által készített háttéranyagokra, így a „Koncepció a közérdekű bejelentések (whistleblowing)
+törvényi szabályozásához” című koncepcióra. A KIM álláspontja szerint a közérdekű bejelentések rendszerének
+a következő alapelvek mentén kell kiépülnie: általános jelleg, rosszhiszemű bejelentések visszaszorítása,
+anonimitás biztosítása, átjárhatóság a bejelentők védelmét szolgáló egyes jogintézmények között,
+elektronikus alkalmazások biztosítása, adatbiztonság és szubszidiaritás. A tárca álláspontja szerint a közérdekű
+bejelentők védelmének központi szintjét nem új hivatal létrehozásával kell biztosítani, hanem olyan szervhez
+kell telepíteni, amely jogállásánál és hatáskörénél fogva képes ellátni ezt a feladatot. Ennek érdekében a szóba
+jöhető szervekkel a minisztérium egyeztetéseket folytatott. A szakmai konszenzus kialakításának elősegítése
+érdekében a KIM 2012. október 31-én az OECD szakértőinek bevonásával szemináriumot tartott,
+államigazgatási szervek munkatársai számára, „A bejelentő-védelem megerősítése” címmel.
+– A Kormány által megtárgyalandó előterjesztések, valamint a miniszteri rendeletek tervezeteinek korrupciós
+kockázatainak vizsgálatára vonatkozó előzetes hatásvizsgálat kiegészítése
+A KIM által elkészített, a hatásvizsgálati sablon kiegészítésére vonatkozó javaslatot a civil szakértői
+munkacsoport 2012. augusztus 2-i ülésén megtárgyalta, azt kisebb módosítási javaslatokkal jóváhagyta.
+Ez alapján a sablon átdolgozása megtörtént, a kiegészítések a felülvizsgált sablonba való beépítése, tesztelése
+folyamatban van, az új, korrupciós kockázati elemekkel kiegészített sablon hatályba lépése, illetve alkalmazása
+2013. első negyedévében várható.
+– Állami szerveknek a korrupció visszaszorításában való együttműködést szabályozó együttműködési
+megállapodásai
+A KIM a Korrupció-megelőzési Program végrehajtásába a 2012 májusától működő koordinációs és szakértői
+munkacsoportok keretében valamennyi érintett szervet – ideértve a civil szervezeteket is – bevonta. Bár
+a jelenlegi tapasztalatok azt mutatják, hogy a korrupció visszaszorításában való együttműködés formális
+keretek, együttműködést szabályozó megállapodások megkötése nélkül is jól működik, néhány területen
+az együttműködés formalizálása is szükségessé vált. Példaként említhető az Állami Számvevőszék és a Nemzeti
+Közszolgálati Egyetem között 2012. június 28-án aláírt együttműködési megállapodás, amelyben az ÁSZ
+többek között biztosítja az Integritás Projekt keretében kidolgozott tananyagok használatát az egyetemnek,
+valamint a KIM és az NKE között kötött konzorciumi megállapodás.
+– Integritás-felelős intézményének, valamint az erre támaszkodó integritásirányítási rendszernek az állami
+szerveknél történő bevezetése
+Az integritás felelős jogintézményének, valamint az integritásirányítási rendszer bevezetésének előkészítése
+folyamatban van. A KIM felügyelet alá tartozó KIH, valamint az NFÜ – összehangoltan az ÁROP-1.2.18.
+„Szervezetfejlesztési program” kiemelt projekttel – egységes kísérleti (pilot) projektet kíván indítani
+az integritásirányítási rendszer elemeinek kidolgozására, illetve megvalósítására. A KIM Szervezeti és Működési
+Szabályzatban – a közigazgatási szervek körében első ízben – nevesítésre került a hivatali szervezet vezetője,
+vagyis a KIM közigazgatási államtitkára közvetlen alárendeltségében tevékenykedő integritás tanácsadó.
+– A közigazgatás központi integritás és antikorrupciós képzései
+A Nemzeti Közszolgálati Egyetem bevonása a korrupciómegelőzési projektbe azt szolgálja, hogy a tervezett
+képzések minél inkább szervesen illeszkedjenek a közszolgálati képzési és továbbképzési struktúrába. Bár
+atovábbképzésirendszerjelenlegátalakításalattáll,azNKE vezetésénekszándékaegyezikaKIM törekvéseivel.
+A korrupciómegelőzési projekt forrásokat biztosít az NKE részére graduális és posztgraduális
+korrupciómegelőzési témájú tananyagok kidolgozására, valamint oktatásszervezési feladatok ellátására.
+2013 februárjától – az integritásirányítási rendszer bevezetésének támogatására – integritás tanácsadó
+2 féléves szakirányú továbbképzési szak indul, félévente induló évfolyamokkal, évfolyamonként körülbelül
+50 fő részvételével. A KIM szakértői elkészítették a tananyag struktúrájára vonatkozó javaslatukat, az alapján
+az NKE kidolgozta a képzési követelményeket, amelyet az illetékes hivatal jóváhagyott.
+A központi közigazgatás antikorrupciós képzéseinek első lépéseként – ide nem értve az OECD-vel közösen
+szervezett szakmai szemináriumokat – a Magyar Közigazgatási Ösztöndíj Programban részt vevő valamennyi
+ösztöndíjas (összesen 150 fő) 2012 augusztusától részt vesz a „Korrupció megelőzése integritásmenedzsment
+eszközökkel” című, az Állami Számvevőszék által kifejlesztett on-line képzésen. A hallgatók tutorálását a KIM
+szakértője látja el.
+
+– Az új Büntető Törvénykönyv
+Az új Büntető Törvénykönyv hatálybalépéséhez igazodva a KIM elvégezte a jogi személlyel szemben
+alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény felülvizsgálatát. Ennek során
+– figyelembe véve az Európa Tanács Pénzmosás Elleni Bizottsága (MONEYVAL), valamint az OECD Vesztegetés
+Elleni Munkacsoportjának ajánlásait is – lényegesen bővíteni kívánjuk a törvény tárgyi hatályát, kiterjesztve azt
+azokra az esetekre is, amikor a bűncselekményt a jogi személy felhasználásával követték el. A jogalkotó ezen
+kívül lényegesen kitágítja azon esetek körét, amikor a jogi személlyel szemben intézkedés alkalmazásának
+akkor is helye lehet, ha a bűncselekményt elkövető természetes személy büntetőjogi felelőssége nem
+állapíthatómeg, bár az hogy bűncselekménytörtént, egyértelmű. A módosítás hatálybalépésétkövetően tehát
+bizonyos esetekben akkor is lehetőség lesz a törvény alkalmazására, amikor a természetes személy elkövetők
+büntetőjogi felelőssége nem állapítható meg (pl. az elkövető kiléte a nyomozásban nem volt megállapítható,
+az elkövető a halála, kóros elme-állapota, tevékeny megbánása, illetve kényszer vagy fenyegetés miatt nem
+büntethető, az eljárás felfüggesztése ismeretlen elkövető vagy ismeretlen helyen tartózkodó elkövető miatt).
+Azokra az esetekre vonatkozóan, amikor a jogi személlyel szemben intézkedés alkalmazásának lehet helye, de
+az ügyész vagy a nyomozó hatóság a természetes személlyel szemben folytatott nyomozást felfüggesztette
+vagy megszüntette, a tervezet új eljárási szabályokat határoz meg.
+– Integritás és korrupció megelőzés a Nemzeti Alaptantervben
+A korrupció elleni fellépés hatékonyságának hosszú távú megalapozásához elengedhetetlenül szükséges
+a korrupciós jelenségekkel, és az azokkal szemben alkalmazható magatartásformákkal és ellenlépésekkel
+kapcsolatos értékeknek és ismereteinek a Nemzeti Alaptantervben való megjelenítése. A Nemzeti Alaptanterv
+kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) kormányrendelet alapján – a KIM
+javaslatainak megfelelően – a 9–12. évfolyamos etika oktatás fontos elemévé vált a „Közösségi és társadalmi
+korrupció problémája”. E nevelési célokat tovább részletezik az 5–8. évfolyamos, valamint a 9–12. évfolyamos
+kerettantervek. Az új Nemzeti Alaptanterv 2013. szeptember 1-jei hatálybalépésével így biztosítható, hogy
+e kiemelt jelentőségű társadalmi problémával iskolai tanulmányai során valamennyi általános- és középiskolás
+találkozzon.
+– A Nemzeti Védelmi szolgálat felállítása
+A Nemzeti Védelmi Szolgálat (NVSZ) 2011. január 1-jével kezdte meg működését. A belső bűnmegelőzési és
+bűnfelderítési tevékenységet végző egységes szervezet létrehozását a rendvédelmi szervekkel szemben
+fennálló szakmai igények, a belső korrupció hatékony megelőzése, felderítése indokolta. Az NVSZ kiemelt
+feladatát képezi a korrupció csökkentése, a szervezet bűnözői körök rendvédelmi szerveken belüli
+térnyerésének megakadályozása, a magas szintű felderítő munka folytatása, illetve a hivatásuk miatt veszélybe
+került munkatársak és családtagjaik számára a megfelelő védelem megszervezése. Az NVSZ működésének jogi
+alapját az egyes rendészeti tárgyú és azokkal összefüggő törvények módosításáról szóló törvény teremtette
+meg. E törvény – többek között – módosította a rendőrségi törvényt, a hivatásos állomány szolgálati törvényét,
+az ügyészségi törvényt, a közalkalmazottak jogállásáról, a köztisztviselők jogállásáról szóló törvényt, bevezetve
+a magyar közigazgatásban a megbízhatósági vizsgálat és a kifogástalan életvitel ellenőrzés jogintézményét.
+E feladatokkal olyan védelmi eszközök kerülnek alkalmazásra, amelyet a jogelődnél alkalmazott klasszikus
+bűnfelderítő tevékenységen túlmutatnak.
+– A közadatok újrahasznosítása
+A közadatokújrahasznosításárólszóló2012. évi LXIII. törvényt a jelenlegnyilvántartott közadatokrendszerének
+átláthatóvá és a piac számára is hozzáférhetővététele érdekében fogadta el az Országgyűlés. A törvény célja az,
+hogy az állampolgárok szélesebb köre hozzáférjen ezekhez az adatnyilvántartásokhoz, továbbá megteremtsék
+annak lehetőségét, hogy a piaci felhasználás számára értékesíthetőek legyenek ezek a nyilvántartások. Ahhoz,
+hogy a jogi környezet, valamint a jogszabályok alapján vezetett állami nyilvántartások alkalmasak legyenek
+az ott tárolt adatok másodlagos célú felhasználására, szükség van a jelenleg használt állami nyilvántartások
+feltérképezésére és javaslat kialakítására az adatvagyon későbbi hasznosíthatóságának módjára. Ennek
+érdekében a Közigazgatási és Igazságügyi Minisztérium az Államreform Operatív Program keretében 80 millió
+forintnyi költségvetéssel elindította az ÁROP-1.2.17-2012-2012-0001 számú, az „Adatok, információk
+szolgáltatásával kapcsolatos jogszabályok felülvizsgálata” című projektet, amely 2013. augusztus 31-ig fog
+megvalósulni.
+
+– A szakpolitika tervezés rendszerének megújítása
+Magyarország a kormányzati stratégiai irányításról szóló 38/2012. (III. 12.) kormányrendelettel új kormányzati
+stratégiai irányítási rendszert vezetett be, amely a stratégiák és programok kidolgozásán túl nagy hangsúlyt
+fektet az elfogadott tervdokumentumokban foglaltak összehangolására, végrehajtására, nyomon követésére,
+valamint a tervdokumentumok nyilvánosságára.
