@@ -34,7 +34,7 @@ Hegedűs Lorántné (Jobbik)
 
 Z. Kárpát Dániel (Jobbik)[^4]
 
-Szilágyi Péter (LMP)
+Szilágyi Péter (független)[^5]
 
 2. E határozat elfogadásakor lép hatályba.
 
@@ -44,3 +44,4 @@ Szilágyi Péter (LMP)
 [^2]: Az 5/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Tiba István 2011. február 22-étől az Országgyűlés jegyzője.
 [^3]: Az 5/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Stágel Bence 2011. február 22-étől az Országgyűlés jegyzője.
 [^4]: A 82/2012. (XI. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 8/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
