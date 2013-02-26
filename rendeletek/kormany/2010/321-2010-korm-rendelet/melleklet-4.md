@@ -60,7 +60,7 @@ A veszélyes folyadékok és olvadékok tárolótartályainak és tároló léte
 
 | b) a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: |
 
-| az illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
+| fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
 | c) a Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: |
 
@@ -86,5 +86,5 @@ A nyomástartó berendezések létesítési, használatbavételi, átalakítási
 
 | 2. | Veszélyes töltetű nyomástartó berendezés létesítése, használatbavétele, átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | 1. Minden esetben annak elbírálása kérdésében, hogy a tervezett nyomástartó berendezés a levegőtisztaság- védelmi előírásoknak és határértékeknek, levegővédelmi szempontból az elérhető legjobb technika, valamint a felszíni vizek, a felszín alatti vizek és ivóvízbázisok védelme követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. 2. Barlang védőövezetében létesítendő nyomástartó berendezés esetében, annak elbírálása kérdésében, hogy a tervezett nyomástartó berendezés a barlang védelmére vonatkozó jogszabályi követelményeknek a kérelem szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^23]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
+[^23]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át. Szövege az 51/2013. (II. 25.) Korm. rendelet 21. §-a szerint módosított szöveg.
 [^24]: Az 5. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (24) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
