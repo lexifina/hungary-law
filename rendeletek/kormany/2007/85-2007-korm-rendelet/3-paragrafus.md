@@ -30,7 +30,7 @@ e) a szociális igazgatásról és a szociális ellátásokról szóló 1993. é
 
 f) az e) pont szerinti bentlakó gondozott látogatója a lakóhelye (tartózkodási helye) és az ellátást nyújtó, illetve a bentlakásos intézmény székhelye (telephelye) között;
 
-g)[^13] a 18. életéve betöltéséig az az álláskereső, aki a Munkaerőpiaci Alapból vagy Európai Uniós forrásból támogatott képzésben vesz részt, a munkaügyi központ igazolása alapján, a képzésben részt vevő lakóhelye (tartózkodási helye) és a képzés helye közötti utazásra;
+g)[^13] a 18. életéve betöltéséig az az álláskereső, aki a Nemzeti Foglalkoztatási Alapból vagy Európai Uniós forrásból támogatott képzésben vesz részt, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási munkaügyi kirendeltségének (a továbbiakban: kirendeltség) igazolása alapján, a képzésben részt vevő lakóhelye (tartózkodási helye) és a képzés helye közötti utazásra;
 
 h)[^14] az a szabad mozgás és tartózkodás jogával rendelkező személy, aki olyan alap-, közép-, illetve felsőfokú oktatási intézmény nappali oktatás munkarendje vagy esti oktatás munkarendje szerint folyó oktatásban részt vevő tanulója, illetve hallgatója, amely az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban működik, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
@@ -50,5 +50,5 @@ b) a tanév I. félévére érvényesített diákigazolványnál a tárgyév má
 [^10]: A 3. § (1) bekezdése b) pontjának bb) alpontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének s) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés b) pont bd) alpontját a 98/2009. (IV. 24.) Korm. rendelet 16. § (3) bekezdésének b) pontja iktatta be, szövege a 362/2011. (XII. 30.) Korm. rendelet 45. § (2) bekezdése szerint módosított szöveg.
 [^12]: A 3. § (1) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének s) pontja szerint módosított szöveg.
-[^13]: A 3. § (1) bekezdés g) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 3. § (1) bekezdés g) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a, az 51/2013. (II. 25.) Korm. rendelet 12. § a) és b) pontja szerint módosított szöveg.
 [^14]: A 3. § (1) bekezdésének h) pontját a 115/2007. (V. 24.) Korm. rendelet 30. § (3) bekezdése iktatta be.
