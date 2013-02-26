@@ -118,13 +118,13 @@ meghatározott hatósági feladatok ellátása
 
 a) a fővárosi kerületi önkormányzatok tulajdonában lévő közutak és azok műtárgyai építésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével kapcsolatban
 
-aa)[^24] első fokon a fővárosi kormányhivatal fővárosi kerületi hivatala,
+aa)[^24] első fokon a fővárosi kormányhivatal V. kerületi hivatala,
 
 ab) másodfokon a Fővárosi Közlekedési Felügyelőség,
 
 b) járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése, valamint ezek nem közlekedési célú igénybevételével kapcsolatban (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
 
-ba)[^25] első fokon az illetékes járási (fővárosi kerületi) hivatal, összeférhetetlenség esetén az illetékes megyei (fővárosi) közlekedési felügyelőség által kérelemre kijelölt járási (fővárosi kerületi) hivatal,
+ba)[^25] első fokon az illetékes járási hivatal, a fővárosban a fővárosi kormányhivatal V. kerületi hivatala, összeférhetetlenség esetén az illetékes megyei (fővárosi) közlekedési felügyelőség által kérelemre kijelölt járási (fővárosi kerületi) hivatal,
 
 bb) másodfokon az illetékes megyei (fővárosi) közlekedési felügyelőség
 
@@ -253,8 +253,8 @@ b) a közúti járműre előírt tömeg- és mérethatárok betartásának ellen
 [^21]: A 4. § (3) bekezdés 18. pontja a 261/2011. (XII. 7.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
 [^22]: A 4. § (3a) bekezdését a 212/2012. (VII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^23]: A 4. § (3b) bekezdését a 212/2012. (VII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^24]: A 4. § (4) bekezdés a) pont aa) alpontja a 296/2012. (X. 17.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^25]: A 4. § (4) bekezdés b) pont ba) alpontja a 296/2012. (X. 17.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^24]: A 4. § (4) bekezdés a) pont aa) alpontja az 51/2013. (II. 25.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^25]: A 4. § (4) bekezdés b) pont ba) alpontja a 296/2012. (X. 17.) Korm. rendelet 22. § c) pontja, az 51/2013. (II. 25.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^26]: A 4. § (5) bekezdése a 175/2011. (VIII. 31.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
 [^27]: A 4. § (5) bekezdés 1. pontja a 323/2012. (XI. 16.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^28]: A 4. § (5) bekezdés 8. pontja a 323/2012. (XI. 16.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
