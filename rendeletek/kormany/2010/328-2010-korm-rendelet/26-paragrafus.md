@@ -1,4 +1,4 @@
-## 26. §[^50] A járási állat-egészségügyi hivatal a falugazdász-hálózat útján:
+## 26. §[^53] A járási állat-egészségügyi hivatal a falugazdász-hálózat útján:
 
 a) folyamatos tájékoztatást ad a gazdálkodók részére a mezőgazdaságot érintő kormányzati döntésekről, valamint az egyes agrártámogatási lehetőségekről,
 
@@ -14,7 +14,7 @@ f) folyamatosan figyelemmel kíséri a mezőgazdasági termelők által igénybe
 
 g) részt vesz a térségfejlesztési, vízgazdálkodási és környezetvédelmi feladatok ellátásában,
 
-h)[^51] információ adásával, a szükséges nyomtatványok biztosításával segíti az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény mezőgazdasági idénymunkára, valamint növénytermesztési idénymunkára vonatkozó rendelkezéseinek mezőgazdasági termelőnek minősülő munkáltatók által történő gyakorlati alkalmazását,
+h)[^54] információ adásával, a szükséges nyomtatványok biztosításával segíti az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény mezőgazdasági idénymunkára, valamint növénytermesztési idénymunkára vonatkozó rendelkezéseinek mezőgazdasági termelőnek minősülő munkáltatók által történő gyakorlati alkalmazását,
 
 i) ellátja a termésbecsléssel, állapotminősítéssel, valamint az ezekhez kapcsolódó nyilvántartások vezetésével összefüggő feladatokat,
 
@@ -24,8 +24,8 @@ k) közreműködik a mezőgazdaságban felhasznált gázolaj-jövedékiadó viss
 
 l) közreműködik a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzési és elszámolási munkáiban.
 
-m)[^52]
+m)[^55]
 
-[^50]: A 26. § nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 79. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^51]: A 26. § h) pontja a 24/2012. (II. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^52]: A 26. § m) pontját a 24/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^53]: A 26. § nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 79. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^54]: A 26. § h) pontja a 24/2012. (II. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^55]: A 26. § m) pontját a 24/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.

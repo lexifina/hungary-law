@@ -1,3 +1,3 @@
-## 22. §[^46]
+## 22. §[^49]
 
-[^46]: A 22. §-t a 111/2011. (VII. 4.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
+[^49]: A 22. §-t a 111/2011. (VII. 4.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.

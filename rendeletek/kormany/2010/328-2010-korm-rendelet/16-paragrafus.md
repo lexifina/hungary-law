@@ -1,8 +1,8 @@
-16. § (1)[^35] A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: vetőmagtörvény) 18. §-ának (4) bekezdésében, 20. §-ának (1) bekezdésében, 23. §-a (1) bekezdésének h) pontjában említett szaporítóanyagok vonatkozásában – a prebázis és bázis kategóriájú szőlő- és gyümölcs, valamint a szuperelit és elit fokozatú erdészeti és fás szárú energetikai szaporítóanyagok, továbbá a szuper elit szaporítási fokú vetőmag kivételével –, 23. §-a (1) bekezdésének k)–l) pontjában, 23. §-ának (3) bekezdésében, 26. §-ának (2) bekezdésében a c) pont vonatkozásában, 27. §-ában, valamint 28. §-ának (1) és (3) bekezdésében foglaltak tekintetében a Kormány növénytermesztési hatóságként a megyei kormányhivatal növény- és talajvédelmi igazgatóságát jelöli ki.
+16. § (1)[^37] A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: vetőmagtörvény) 18. §-ának (4) bekezdésében, 20. §-ának (1) bekezdésében, 23. §-a (1) bekezdésének h) pontjában említett szaporítóanyagok vonatkozásában – a prebázis és bázis kategóriájú szőlő- és gyümölcs, valamint a szuperelit és elit fokozatú erdészeti és fás szárú energetikai szaporítóanyagok, továbbá a szuper elit szaporítási fokú vetőmag kivételével –, 23. §-a (1) bekezdésének k)–l) pontjában, 23. §-ának (3) bekezdésében, 26. §-ának (2) bekezdésében a c) pont vonatkozásában, 27. §-ában, valamint 28. §-ának (1) és (3) bekezdésében foglaltak tekintetében a Kormány növénytermesztési hatóságként a megyei kormányhivatal növény- és talajvédelmi igazgatóságát jelöli ki.
 
 (2) A Kormány a vetőmagtörvényben szabályozott a szőlő-, gyümölcs-, dísznövény-, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyagok előállítása és forgalomba hozatala, szolgáltatási tevékenységek tekintetében a Szolgtv. szerinti szolgáltatás felügyeletét ellátó hatóságként a megyei kormányhivatal növény- és talajvédelmi igazgatóságát jelöli ki.
 
-(3)[^36] A megyei kormányhivatal növény- és talajvédelmi igazgatósága növénytermesztési hatósági hatáskörébe tartozó, vetőmagokat érintő feladatokat
+(3)[^38] A megyei kormányhivatal növény- és talajvédelmi igazgatósága növénytermesztési hatósági hatáskörébe tartozó, vetőmagokat érintő feladatokat
 
 a) a Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Baranya, Somogy és Tolna megyére,
 
@@ -20,7 +20,7 @@ g) a Vas Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Vas �
 
 kiterjedő illetékességgel látja el.
 
-(4)[^37] A megyei kormányhivatal növény- és talajvédelmi igazgatósága növénytermesztési hatósági hatáskörébe tartozó, kertészeti szaporítóanyagokat érintő feladatokat
+(4)[^39] A megyei kormányhivatal növény- és talajvédelmi igazgatósága növénytermesztési hatósági hatáskörébe tartozó, kertészeti szaporítóanyagokat érintő feladatokat
 
 a) a Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Baranya, Somogy és Tolna megyére,
 
@@ -34,7 +34,7 @@ e) a Vas Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Győr
 
 ## kiterjedő illetékességgel látja el.
 
-(5)[^38] A megyei kormányhivatal növény- és talajvédelmi igazgatósága növénytermesztési hatósági hatáskörébe tartozó, erdészeti szaporítóanyagokat érintő feladatokat
+(5)[^40] A megyei kormányhivatal növény- és talajvédelmi igazgatósága növénytermesztési hatósági hatáskörébe tartozó, erdészeti szaporítóanyagokat érintő feladatokat
 
 a) a Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Bács-Kiskun, Baranya, Csongrád, Somogy és Tolna megyére,
 
@@ -46,10 +46,10 @@ d) a Győr-Moson-Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazg
 
 kiterjedő illetékességgel látja el.
 
-(6)[^39] A vetőmagvak és vegetatív szaporítóanyagok géntechnológiai eredetének vizsgálatában, hatósági ellenőrzésében, az ezzel kapcsolatban hozott hatósági döntés végrehajtásában a NÉBIH irányítása mellett a megyei kormányhivatal növény- és talajvédelmi igazgatósága közreműködik.
+(6)[^41] A vetőmagvak és vegetatív szaporítóanyagok géntechnológiai eredetének vizsgálatában, hatósági ellenőrzésében, az ezzel kapcsolatban hozott hatósági döntés végrehajtásában a NÉBIH irányítása mellett a megyei kormányhivatal növény- és talajvédelmi igazgatósága közreműködik.
 
-[^35]: A 16. § (1) bekezdése a 24/2012. (II. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^36]: A 16. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^37]: A 16. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, szövege a 24/2012. (II. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^38]: A 16. § (5) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, szövege a 24/2012. (II. 29.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^39]: A 16. § (6) bekezdését a 24/2012. (II. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^37]: A 16. § (1) bekezdése a 24/2012. (II. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^38]: A 16. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^39]: A 16. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, szövege a 24/2012. (II. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^40]: A 16. § (5) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, szövege a 24/2012. (II. 29.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^41]: A 16. § (6) bekezdését a 24/2012. (II. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be.
