@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 94. ülésszakán elfogadott 2006. évi Tengerészeti Munkaügyi Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
