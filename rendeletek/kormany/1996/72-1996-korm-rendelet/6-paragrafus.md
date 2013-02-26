@@ -16,7 +16,7 @@
 
 (5) A szolgalom alapítására irányuló eljárásban meg kell határozni és a határozatban – az ingatlan-nyilvántartási adatokra is figyelemmel – rögzíteni kell, különösen:
 
-a)[^53] a vízilétesítmény elhelyezésével és üzemeltetésével összefüggő használati korlátozások tartalmát, ideértve az ingatlannak a korlátozással érintett részét a körzeti földhivatal által érvényes záradékkal ellátott változási vázrajzra történő utalással;
+a)[^53] a vízilétesítmény elhelyezésével és üzemeltetésével összefüggő használati korlátozások tartalmát, ideértve az ingatlannak a korlátozással érintett részét a járási földhivatal által érvényes záradékkal ellátott változási vázrajzra történő utalással;
 
 b) a jogosultat (vízjogi engedélyest) és az ingatlan tulajdonosát érintő, a létesítéssel és a használattal összefüggő egyéb jogokat és kötelezettségeket.
 
@@ -28,6 +28,6 @@ b) a jogosultat (vízjogi engedélyest) és az ingatlan tulajdonosát érintő, 
 
 [^51]: Az 5/D. §-t a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^52]: A 6. § (2a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^53]: A 6. § (5) bekezdés a) pontja a 242/2012. (VIII. 31.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^53]: A 6. § (5) bekezdés a) pontja a 242/2012. (VIII. 31.) Korm. rendelet 1. § (5) bekezdésével megállapított, az 51/2013. (II. 25.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
 [^54]: A 6. § (7) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
 [^55]: A 6. § (8) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
