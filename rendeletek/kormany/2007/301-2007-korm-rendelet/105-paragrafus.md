@@ -1,4 +1,4 @@
-## 104. §[^149] A menedékeskénti elismerés visszavonására irányuló eljárásban e rendelet VI. Fejezetének rendelkezéseit megfelelően alkalmazni kell.
+## 104. §[^150] A menedékeskénti elismerés visszavonására irányuló eljárásban e rendelet VI. Fejezetének rendelkezéseit megfelelően alkalmazni kell.
 
 ## Menedékes átadása
 
@@ -10,4 +10,4 @@
 
 (4) Ha a megkeresett állam a menedékes ideiglenes védelemben részesítését nem vállalja, a menekültügyi hatóság erről a menedékest értesíti, egyidejűleg tájékoztatja a Tv. 20. § (2) bekezdésében foglaltakról.
 
-[^149]: A 104. § a 290/2010. (XII. 21.) Korm. rendelet 122. §-ával megállapított szöveg.
+[^150]: A 104. § a 290/2010. (XII. 21.) Korm. rendelet 122. §-ával megállapított szöveg.

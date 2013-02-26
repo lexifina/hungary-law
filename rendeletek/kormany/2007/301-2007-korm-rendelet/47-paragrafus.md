@@ -26,9 +26,9 @@ b) a kérelmező menekült, és oltalmazott, valamint a vele egyazon háztartás
 
 c) a lakás mérete, állapota és felszereltsége.
 
-(8)[^73] A támogatást a (3) bekezdés a) pontja esetében a menekültügyi hatóság, a (3) bekezdés b) pontja esetében a járási hivatal folyósítja. A járási hivatal a támogatás összegét a 13. §-ban foglaltak szerint igényelheti vissza a menekültügyi hatóságtól.
+(8)[^73] A támogatást a (3) bekezdés a) pontja esetében a menekültügyi hatóság, a (3) bekezdés b) pontja esetében a kormányhivatal folyósítja. A kormányhivatal a támogatás összegét a 13. §-ban foglaltak szerint igényelheti vissza a menekültügyi hatóságtól.
 
 (9) Ha a menekültügyi hatóság a támogatás iránti kérelemnek helyt ad, a menekült, illetve az oltalmazott köteles a támogatás folyósításától számított tizenöt napon belül a befogadó állomás területét véglegesen elhagyni.
 
 [^72]: A 47. § a 290/2010. (XII. 21.) Korm. rendelet 103. §-ával megállapított szöveg.
-[^73]: A 47. § (8) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^73]: A 47. § (8) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

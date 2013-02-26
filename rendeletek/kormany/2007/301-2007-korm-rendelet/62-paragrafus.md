@@ -4,11 +4,11 @@
 
 ## Az elismerés iránti kérelem benyújtása
 
-62. § (1)[^108] Az írásban benyújtott kérelmet az elismerését kérőnek saját kezűleg alá kell írnia.
+62. § (1)[^109] Az írásban benyújtott kérelmet az elismerését kérőnek saját kezűleg alá kell írnia.
 
 (2) Ha a Tv. vagy e rendelet írásbeliséget követel meg, és az elismerését kérő írásképtelen, az elismerését kérő nyilatkozatát és az írásképtelenség tényét jegyzőkönyvbe kell foglalni.
 
-(3)[^109]
+(3)[^110]
 
 (4) A szóbeli kérelemről készült jegyzőkönyvben rögzíteni kell:
 
@@ -18,7 +18,7 @@ b) az elismerését kérő rendelkezésére álló, a személyazonosságát igaz
 
 c) az elismerés iránti kérelmet.
 
-(5)[^110] Az elismerését kérőnek elismerés iránti kérelméhez mellékelnie kell a Tv. 41. § (1) bekezdés a) pontjában meghatározott iratokat, valamint át kell adnia a Tv. 41. § (1) bekezdés b) pontjában meghatározott okmányait.
+(5)[^111] Az elismerését kérőnek elismerés iránti kérelméhez mellékelnie kell a Tv. 41. § (1) bekezdés a) pontjában meghatározott iratokat, valamint át kell adnia a Tv. 41. § (1) bekezdés b) pontjában meghatározott okmányait.
 
 (6) Családtagok közös kérelmezése esetén a jegyzőkönyvnek a (4) bekezdésben meghatározott adatokat minden családtagra vonatkozóan tartalmaznia kell.
 
@@ -26,9 +26,9 @@ c) az elismerés iránti kérelmet.
 
 (8) A menekültügyi hatóság a fogva tartott külföldi számára a kérelem benyújtásának lehetőségét a fogva tartás helyén biztosítja.
 
-(9)[^111] A menekültügyi hatóság ügygondnok kirendelése iránt a járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: járási gyámhivatal) keresi meg.
+(9)[^112] A menekültügyi hatóság ügygondnok kirendelése iránt a járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: járási gyámhivatal) keresi meg.
 
-[^108]: A 62. § (1) bekezdés első mondatát a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^109]: A 62. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^110]: A 62. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 110. §-ával megállapított szöveg.
-[^111]: A 62. § (9) bekezdése a 296/2012. (X. 17.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^109]: A 62. § (1) bekezdés első mondatát a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^110]: A 62. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^111]: A 62. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 110. §-ával megállapított szöveg.
+[^112]: A 62. § (9) bekezdése a 296/2012. (X. 17.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.

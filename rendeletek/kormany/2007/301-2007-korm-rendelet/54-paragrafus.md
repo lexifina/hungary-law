@@ -20,9 +20,9 @@ c) az igénylő háztartásában nevelt legalább három kiskorú gyermek eseté
 
 (7) A támogatást úgy kell megállapítani, hogy annak összege a bérleti, albérleti díj vagy szállásköltség 100%-át nem haladhatja meg.
 
-(8)[^90] A támogatás összegét a járási hivatal havonta folyósítja és igényli vissza a menekültügyi hatóságtól.
+(8)[^90] A támogatás összegét a kormányhivatal havonta folyósítja és igényli vissza a menekültügyi hatóságtól.
 
 [^87]: Az 54. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
 [^88]: Az 54. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
 [^89]: Az 54. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 50. § e) pontja szerint módosított szöveg.
-[^90]: Az 54. § (8) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^90]: Az 54. § (8) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.

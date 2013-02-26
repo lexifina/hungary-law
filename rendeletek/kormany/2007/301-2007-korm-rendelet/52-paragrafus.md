@@ -44,7 +44,7 @@ c) a terhességi gyermekágyi segélyre, gyermekgondozási díjra, illetőleg gy
 
 d)[^83]
 
-(7)[^84] A rendszeres létfenntartási támogatást a menekült, illetve az oltalmazott kérelmére a menekültügyi hatóság állapítja meg, és azt a járási hivatal havonta – a hónap 15. napjáig – folyósítja, majd visszaigényli a menekültügyi hatóságtól.
+(7)[^84] A rendszeres létfenntartási támogatást a menekült, illetve az oltalmazott kérelmére a menekültügyi hatóság állapítja meg, és azt a kormányhivatal havonta – a hónap 15. napjáig – folyósítja, majd visszaigényli a menekültügyi hatóságtól. Az utógondozói ellátásban részesülő menekült, illetve oltalmazott részére megállapított támogatásról szóló döntésről a menekültügyi hatóság tájékoztatja az utógondozói ellátást nyújtó intézményt.
 
 (8)[^85] A rendszeres létfenntartási támogatás havi legalacsonyabb összege az öregségi nyugdíj mindenkori legkisebb összegének huszonöt százaléka, legmagasabb összege az öregségi nyugdíj mindenkori legkisebb összege.
 
@@ -61,6 +61,6 @@ b) a kérelmező személyes körülményei, különösen életkora, egészségi 
 [^81]: Az 52. § (5) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
 [^82]: Az 52. § (6) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (4) bekezdésével megállapított szöveg.
 [^83]: Az 52. § (6) bekezdés d) pontját a 81/2012. (IV. 18.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.
-[^84]: Az 52. § (7) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^84]: Az 52. § (7) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
 [^85]: Az 52. § (8) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 106. § (5) bekezdésével megállapított szöveg.
 [^86]: Az 52. § (9) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 106. § (6) bekezdése iktatta be.

@@ -24,29 +24,32 @@ a) a támogatás összegére, a visszafizetés időtartamára és megkezdése id
 
 b) a különös méltánylást érdemlő körülményeket.
 
-(4)[^97] A lakáscélú támogatás megítéléséről a menekültügyi hatóság dönt. A menekültügyi hatóság a kérelem elbírálása során megvizsgálja a menekült, illetve oltalmazott vagyoni, jövedelmi viszonyait, egyéni életkörülményeit. Ennek keretében a menekültügyi hatóság vizsgálja, hogy a háztartás tényleges havi bevétele fedezi-e a tényleges havi kiadások kamatmentes kölcsön tervezett havi törlesztő részletével megnövelt összegét úgy, hogy a kiadások teljesítését követően a tényleges bevétel legalább 30%-ának lekötetlenül kell maradnia.
-
-A menekültügyi hatóság a megállapított kamatmentes kölcsön összegét a járási hivatalnak átutalja.
+(4)[^97] A lakáscélú támogatás megítéléséről a menekültügyi hatóság dönt. A menekültügyi hatóság a kérelem elbírálása során megvizsgálja a menekült, illetve oltalmazott vagyoni, jövedelmi viszonyait, egyéni életkörülményeit. Ennek keretében a menekültügyi hatóság vizsgálja, hogy a háztartás tényleges havi bevétele fedezi-e a tényleges havi kiadások kamatmentes kölcsön tervezett havi törlesztő részletével megnövelt összegét úgy, hogy a kiadások teljesítését követően a tényleges bevétel legalább 30%-ának lekötetlenül kell maradnia. A menekültügyi hatóság a megállapított kamatmentes kölcsön összegét a kormányhivatalnak átutalja. Az utógondozói ellátásban részesülő menekült, illetve oltalmazott részére megállapított támogatásról szóló döntésről a menekültügyi hatóság tájékoztatja az utógondozói ellátást nyújtó intézményt.
 
 (5)[^98] A menekültügyi hatóság döntése alapján a járási hivatal
 
 a) a támogatásra szerződést köt a menekülttel, illetve az oltalmazottal,
 
-b) gondoskodik a támogatás menekült, illetve oltalmazott részére történő folyósításáról,
+b) intézkedik az ingatlanra jelzálogjog, valamint elidegenítési és terhelési tilalom menekültügyi hatóság javára történő bejegyeztetése iránt,
 
-c) intézkedik az ingatlanra jelzálogjog, valamint elidegenítési és terhelési tilalom menekültügyi hatóság javára történő bejegyeztetése iránt,
+c) a kölcsönösszeg maradéktalan visszafizetése esetén a menekültügyi hatóság engedélye alapján intézkedik az ingatlanra bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom törléséről, a megtett intézkedésekről a menekültügyi hatóságot tájékoztatja, valamint
 
-d) havonta tájékoztatja a menekültügyi hatóságot a törlesztésről, a beérkezett törlesztő részletet haladéktalanul átutalja a menekültügyi hatóságnak,
+d) a törlesztésnek a járási hivatal írásbeli felszólítása ellenére történő elmulasztása esetén intézkedik a lejárt követelés bírósági úton történő érvényesítése iránt.
 
-e) a kölcsönösszeg maradéktalan visszafizetése esetén a menekültügyi hatóság engedélye alapján intézkedik az ingatlanra bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom törléséről, a megtett intézkedésekről a menekültügyi hatóságot tájékoztatja, valamint
+(6)[^99] A menekültügyi hatóság döntése alapján a kormányhivatal
 
-f) a törlesztésnek a járási hivatal írásbeli felszólítása ellenére történő elmulasztása esetén intézkedik a lejárt követelés bírósági úton történő érvényesítése iránt, a végrehajtási eljárás során befolyt összeget haladéktalanul átutalja a menekültügyi hatóságnak.
+a) gondoskodik a támogatás menekült, illetve oltalmazott részére történő folyósításáról,
 
-(6)[^99] Ha a menekült, illetve az oltalmazott a támogatás odaítéléséről szóló értesítés kézhezvételétől számított hat hónapon belül a támogatás összegét nem veszi át, azt a járási hivatal visszautalja a menekültügyi hatóságnak.
+b) havonta tájékoztatja a menekültügyi hatóságot a törlesztésről, a beérkezett törlesztő részletet haladéktalanul átutalja a menekültügyi hatóságnak,
+
+c) a lejárt követelés bírósági úton történő érvényesítése esetén a végrehajtási eljárás során befolyt összeget haladéktalanul átutalja a menekültügyi hatóságnak.
+
+(7)[^100] Ha a menekült, illetve az oltalmazott a támogatás odaítéléséről szóló értesítés kézhezvételétől számított hat hónapon belül a támogatás összegét nem veszi át, azt a kormányhivatal visszautalja a menekültügyi hatóságnak.
 
 [^94]: Az 58. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 50. § f) pontja szerint módosított szöveg.
 [^95]: Az 58. § (2) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
 [^96]: Az 58. § (3) bekezdés nyitó szövegrésze a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
-[^97]: Az 58. § (4) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
-[^98]: Az 58. § (5) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
-[^99]: Az 58. § (6) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^97]: Az 58. § (4) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^98]: Az 58. § (5) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^99]: Az 58. § (6) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^100]: Az 58. § (7) bekezdését az 51/2013. (II. 25.) Korm. rendelet 15. § (6) bekezdése iktatta be.
