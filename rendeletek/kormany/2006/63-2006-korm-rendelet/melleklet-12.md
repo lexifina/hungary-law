@@ -1,4 +1,4 @@
-## Neve:
+## Megnevezése vagy neve:
 
 ## Székhelye:
 
@@ -10,9 +10,9 @@
 
 ## P. H.
 
-## …...........……
+## ................................................
 
-## a jegyző aláírása
+## aláírás
 
 ## Figyelem! A szakhatósági megkereséséhez zárt borítékban csatolni kell a háziorvosi igazolást.
 
