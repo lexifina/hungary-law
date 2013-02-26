@@ -1,6 +1,6 @@
 ## 2. A járási hivatal szakigazgatási szervei
 
-2. § (1)[^2] Amennyiben kormányrendelet eltérően nem rendelkezik, a járási hivatal szervezeti egységeként működő ágazati szakigazgatási szervek (a továbbiakban: járási szakigazgatási szerv):
+2. § (1)[^3] Amennyiben kormányrendelet eltérően nem rendelkezik, a járási hivatal szervezeti egységeként működő ágazati szakigazgatási szervek (a továbbiakban: járási szakigazgatási szerv):
 
 a) a járási gyámhivatal a gyermekvédelmi és gyámügyi feladatok ellátására,
 
@@ -18,7 +18,7 @@ g) a járási nép-egészségügyi intézet a nép-egészségügyi feladatok ell
 
 (2) Kormányrendelet más államigazgatási szervet is a járási hivatal szakigazgatási szerveként határozhat meg.
 
-(3)[^3] Amennyiben kormányrendelet vagy miniszteri rendelet eltérően nem rendelkezik, a járási szakigazgatási szerv illetékessége megegyezik a járási hivatal illetékességével.
+(3)[^4] Amennyiben kormányrendelet vagy miniszteri rendelet eltérően nem rendelkezik, a járási szakigazgatási szerv illetékessége megegyezik a járási hivatal illetékességével.
 
-[^2]: A 2. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^3]: A 2. § (3) bekezdése a 296/2012. (X. 17.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdése a 296/2012. (X. 17.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
