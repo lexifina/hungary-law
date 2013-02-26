@@ -14,7 +14,7 @@
 
 |  | Ha az építmény szélső pontjainak vetületétől számított 50 méteren belül a fővárosi önkormányzat tulajdonában lévő közút található, és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. |  | Budapest Főváros Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
 
-|  | Ha az építmény szélső pontjainak vetületétől számított 50 méteren belül a fővárosi kerületi önkormányzatok tulajdonában lévő közút található, és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. |  | Illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatal Közlekedési Felügyelőség |
+|  | Ha az építmény szélső pontjainak vetületétől számított 50 méteren belül a fővárosi kerületi önkormányzatok tulajdonában lévő közút található, és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. |  | fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatal Közlekedési Felügyelőség |
 
 | 3. | Repülőterek 5 kilométeres körzetében sajátos építmény építése, használatba vétele, átalakítása esetén, ha a kérelmező a repülőtér-üzemeltetői hozzájárulás megtagadását sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a tevékenység a polgári légiközlekedés biztonsága követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
@@ -68,4 +68,4 @@
 
 – kéményseprő-ipari szolgáltató szerv.
 
-[^63]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^63]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a, az 51/2013. (II. 25.) Korm. rendelet 16. §-a szerint módosított szöveg.
