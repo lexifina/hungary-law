@@ -1,0 +1,3 @@
+## 1. § A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet (a továbbiakban: Mmr.) 1. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A Kormány a megváltozott munkaképességű személyek pénzbeli ellátásainak megtérítésére, valamint a jogosulatlanul felvett ellátás visszafizetésére kötelező jogerős határozatokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatok ellátására a nyugdíjbiztosítási igazgatóságot jelöli ki. A nyugdíjbiztosítási igazgatóság az e bekezdés szerinti feladat ellátása során a társadalombiztosítási nyugellátásokra vonatkozó jogszabályok rendelkezései szerint jár el.”
