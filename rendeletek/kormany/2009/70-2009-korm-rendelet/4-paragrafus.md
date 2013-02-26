@@ -2,24 +2,29 @@
 
 ## a részmunkaidős foglalkoztatás támogatása
 
-4. § (1) A munkaügyi központ felhívás alapján támogatást nyújthat a munkaadó kérelmére, ha a munkaadó a vele teljes munkaidőben munkaviszonyban álló munkavállalót az 1. § i) pontjában meghatározott részmunkaidőben foglalkoztatja a munkavállalói létszám csökkentésének megelőzése érdekében.
+4. § (1)[^11] A kirendeltség felhívás alapján támogatást nyújthat a munkaadó kérelmére, ha a munkaadó a vele teljes munkaidőben munkaviszonyban álló munkavállalót az 1. § i) pontjában meghatározott részmunkaidőben foglalkoztatja a munkavállalói létszám csökkentésének megelőzése érdekében.
 
 (2) A munkaadó a támogatás igénybevétele mellett vállalja, hogy
 
-a) megtartja a kérelem munkaügyi központhoz történő benyújtását megelőző hónapban meglévő átlagos statisztikai állományi létszámát, és
+a)[^12] megtartja a kérelem kirendeltséghez történő benyújtását megelőző hónapban meglévő átlagos statisztikai állományi létszámát, és
 
 b) a munkavállalót legalább a támogatási időtartamával megegyező további időtartamig továbbfoglalkoztatja, és
 
 c) a támogatás adókkal és járulékokkal csökkentett részét a munkavállaló részére – a részmunkaidős foglalkoztatásra járó munkabérén felül – munkabérként kifizeti.
 
-(3)[^8] A támogatás mértéke a munkavállalónak a kieső munkaidejére járó alapbérének 80 százalékáig, valamint a szociális hozzájárulási adóig terjedhet. A támogatás összege nem haladhatja meg a kérelem benyújtásakor hatályos kötelező legkisebb munkabér másfélszeresét.
+(3)[^13] A támogatás mértéke a munkavállalónak a kieső munkaidejére járó alapbérének 80 százalékáig, valamint a szociális hozzájárulási adóig terjedhet. A támogatás összege nem haladhatja meg a kérelem benyújtásakor hatályos kötelező legkisebb munkabér másfélszeresét.
 
 (4) A támogatás legfeljebb 365 napra nyújtható.
 
-(5) A munkaügyi központ a támogatást a részmunkaidőben történő foglalkoztatást vállaló munkáltató részére havonta utólag téríti meg.
+(5)[^14] A kirendeltség a támogatást a részmunkaidőben történő foglalkoztatást vállaló munkáltató részére havonta utólag téríti meg.
 
-(6) A munkaügyi központ köteles a támogatásra vonatkozó felhívást legalább egy napilapban közzétenni, és ezzel egyidejűleg a felhívást a honlapján is megjelentetni.
+(6)[^15] A kirendeltség köteles a támogatásra vonatkozó felhívást legalább egy napilapban közzétenni, és ezzel egyidejűleg a felhívást a honlapján is megjelentetni.
 
-(7) A munkaügyi központ a felhívásban meghatározza azokat a szempontokat, amelyek alapján megállapítható, hogy a munkaadónál a részmunkaidős foglalkoztatásra történő áttérés a munkavállalói létszám csökkentésének megelőzését szolgálja.
+(7)[^16] A kirendeltség a felhívásban meghatározza azokat a szempontokat, amelyek alapján megállapítható, hogy a munkaadónál a részmunkaidős foglalkoztatásra történő áttérés a munkavállalói létszám csökkentésének megelőzését szolgálja.
 
-[^8]: A 4. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdés a) pontja az 51/2013. (II. 25.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^13]: A 4. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^14]: A 4. § (5) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^15]: A 4. § (6) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^16]: A 4. § (7) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-70-20-2
 | 2012-07-01 | 2009-70-20-22.4 | 135/2012. (VI. 28.) Korm. rendelet |
 | 2012-10-01 | 2009-70-20-22.5 | 272/2012. (IX. 28.) Korm. rendelet |
 | 2013-01-01 | 2009-70-20-22.6 | 416/2012. (XII. 29.) Korm. rendelet |
+| 2013-02-26 | 2009-70-20-22.7 | 51/2013. (II. 25.) Korm. rendelet |
