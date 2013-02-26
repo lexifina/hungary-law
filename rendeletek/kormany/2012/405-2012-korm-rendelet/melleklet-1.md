@@ -1,4 +1,4 @@
-## 32–33. §[^1]
+## 32–33. §[^2]
 
 1. melléklet a 405/2012. (XII. 28.) Korm. rendelethez
 
@@ -46,4 +46,4 @@ B) Földhivatali adminisztrációs költségek egyezség esetén
 
 | 8 | Összes földhivatali költség | 59 000 |
 
-[^1]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
