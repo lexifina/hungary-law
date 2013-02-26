@@ -108,6 +108,6 @@
 
 |  | a rendszeres kedvezményt igénylő vagy törvényes képviselőjének aláírása |
 
-4. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^801]
+4. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^803]
 
-[^801]: A 4. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^803]: A 4. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.

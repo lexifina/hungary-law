@@ -1,6 +1,6 @@
-2. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^797]
+2. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^799]
 
-## Tartalmi követelmények a szociális és gyámhivatalok számára a bűnmegelőzési jelentés elkészítéséhez[^798]
+## Tartalmi követelmények a szociális és gyámhivatalok számára a bűnmegelőzési jelentés elkészítéséhez[^800]
 
 1. A megye sajátosságainak, adottságainak áttekintése, demográfiai mutatói, különös tekintettel a 0–18 éves korosztály adataira.
 
@@ -12,7 +12,7 @@
 
 – családon belüli erőszak.
 
-3.[^799] A szociális és gyámhivatal éves bűnmegelőzési tevékenységének átfogó bemutatása:
+3.[^801] A szociális és gyámhivatal éves bűnmegelőzési tevékenységének átfogó bemutatása:
 
 – a gyermekjóléti szolgálatok alapellátás keretében és a védelembe vétellel történő családgondozásának tapasztalatai a bűncselekményekkel érintett kiskorúak esetében, illetve a gyermekjóléti szolgálat által tett egyéb intézkedések,
 
@@ -28,6 +28,6 @@
 
 6. Jövőre vonatkozó célok és feladatok meghatározása.
 
-[^797]: A 2. számú melléklet a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg.
-[^798]: A 2. számú melléklet címe a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése b) pontjának bi) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 36. pontja szerint módosított szöveg.
-[^799]: A 2. számú melléklet 3. pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 37. pontja szerint módosított szöveg.
+[^799]: A 2. számú melléklet a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^800]: A 2. számú melléklet címe a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése b) pontjának bi) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 36. pontja szerint módosított szöveg.
+[^801]: A 2. számú melléklet 3. pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 37. pontja szerint módosított szöveg.

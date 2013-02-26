@@ -4,9 +4,13 @@
 
 (2) A városi gyámhivatal székhelye szerint illetékes jegyző által a 2012. december 10-éig a 9. számú melléklet szerinti adatlapon megigényelt otthonteremtési támogatás kifizetéséről a jegyző gondoskodik és a felhasználásról e rendelet 2012. december 31-én hatályos 9. számú melléklete szerint adatlapon 2013. január 31-g elszámol.
 
-(3) A járási (fővárosi kerületi) hivatalok által megállapítandó szociális és gyermekvédelmi pénzbeli ellátásokkal összefüggő egyes jogszabályok módosításáról szóló 352/2012. (XII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított 73. § (2) bekezdés szerinti folyósító szerv a 73. § (6) bekezdése szerinti tájékoztatást első alkalommal a 2013. január, február, március hónapokra tekintettel folyósított gyermektartásdíj megelőlegezések vonatkozásában teljesíti, 2013. április 30-ai határidővel. A 2013. január 5-éig folyósított gyermektartásdíj megelőlegezések tekintetében a tájékoztatást a városi gyámhivatal székhelye szerinti jegyző teljesíti 2013. január 31-ig.
+(3)[^795] A 2013. január 5-éig folyósított gyermektartásdíj megelőlegezések tekintetében a 73. § (6) bekezdés szerinti tájékoztatást 2013. január 31-ig a városi gyámhivatal székhelye szerinti jegyző teljesíti, melyről 2013. február 28-ig értesíti a 73. § (2) bekezdés szerinti folyósító szervet.
+
+(3a)[^796] A folyósító szerv a 73. § (6) bekezdése szerinti tájékoztatást első alkalommal a 2013. január, február, március hónapokra tekintettel teljesíti – beszámítva a városi gyámhivatal székhelye szerinti jegyző (3) bekezdés szerinti adatszolgáltatása szerinti összeget is –, 2013. április 30-ai határidővel.
 
 (4) A járási gyámhivatal által átvételre kerülő ügyben 2012. december 31-éig hozott döntés alapján a városi gyámhivatal székhelye szerinti jegyzőhöz a Gyvt. 133. §-a, illetve a 75. § alapján otthonteremtési támogatás, illetve gyermektartásdíj megelőlegezése tekintetében visszafizetett, megtérített, behajtott összeget a jegyző köteles a központi költségvetésnek visszafizetni, egyidejűleg ennek megtörténtéről a területileg illetékes fővárosi és megyei kormányhivatalt tájékoztatni.
 
 [^793]: A 177. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1323. pontja hatályon kívül helyezte, újonnan a 349/2012. (XII. 12.) Korm. rendelet 18. §-a iktatta be.
 [^794]: A 178. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1323. pontja hatályon kívül helyezte, újonnan a 352/2012. (XII. 13.) Korm. rendelet 1. § (9) bekezdése iktatta be.
+[^795]: A 178. § (3) bekezdése az 51/2013. (II. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^796]: A 178. § (3a) bekezdését az 51/2013. (II. 25.) Korm. rendelet 4. §-a iktatta be.
