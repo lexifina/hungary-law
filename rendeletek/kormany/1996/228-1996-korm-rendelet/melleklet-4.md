@@ -1,6 +1,6 @@
 ## Az értékesítési betétlap tartalmi elemei
 
-## 1.[^47] Az igazolvány és az értékesítési betétlap sorszáma, az értékesítési betétlap érvényesítő szelvénye.
+## 1.[^48] Az igazolvány és az értékesítési betétlap sorszáma, az értékesítési betétlap érvényesítő szelvénye.
 
 ## 2. A kiállító aláírása és a hatóság pecsétje.
 
@@ -24,7 +24,7 @@
 
 ## 8. Az 5–7. pontok szerinti tárgyévi összes bevétel.
 
-4. számú melléklet a 228/1996. (XII. 26.) Korm. rendelethez[^48]
+4. számú melléklet a 228/1996. (XII. 26.) Korm. rendelethez[^49]
 
-[^47]: A 3. számú melléklet 1. pontja a 234/2012. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^48]: A 4. számú mellékletet újonnan a 326/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 34. §-a.
+[^48]: A 3. számú melléklet 1. pontja a 234/2012. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^49]: A 4. számú mellékletet újonnan a 326/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 34. §-a.
