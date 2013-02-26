@@ -10,7 +10,7 @@
 
 | 4. | Felszíni rendezési munkák | A Fővárosi Önkormányzat tulajdonában lévő felszíni létesítmények, így különösen utak, járdák, forgalomtechnika, zöldterületek, villamosvágányok, aluljárók építési munkái | Közúthatósági engedélyek | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-|  |  | A főváros kerületi önkormányzatai tulajdonában lévő utak, járdák | Közúthatósági engedélyek | Illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége |
+|  |  | A főváros kerületi önkormányzatai tulajdonában lévő utak, járdák | Közúthatósági engedélyek | fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége |
 
 2. számú melléklet a 89/2007. (IV. 26.) Korm. rendelethez[^2]
 
@@ -32,7 +32,7 @@
 
 | Polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
+| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
 | Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -62,7 +62,7 @@
 
 | Polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
+| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
 | Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -96,7 +96,7 @@
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
-| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
+| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
 | Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -130,4 +130,4 @@
 
 | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a, a 23/2012. (II. 29.) Korm. rendelet 24. §-a, a 296/2012. (X. 17.) Korm. rendelet 28. §-a, a 394/2012. (XII. 20.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a, a 23/2012. (II. 29.) Korm. rendelet 24. §-a, a 296/2012. (X. 17.) Korm. rendelet 28. §-a, a 394/2012. (XII. 20.) Korm. rendelet 20. §-a, az 51/2013. (II. 25.) Korm. rendelet 13. §-a szerint módosított szöveg.
