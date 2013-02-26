@@ -58,7 +58,7 @@
 
 |  | 28. | 2.3. a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: |
 
-|  | 29. | illetékes fővárosi kerületi hivatal | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
+|  | 29. | fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
 |  | 30. | 2.4.a fővárosi önkormányzat tulajdonában lévő helyi közutak esetén: |
 
