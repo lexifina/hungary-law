@@ -1,4 +1,4 @@
-13. §[^33] (1) A fővárosi, megyei államigazgatási kollégium (a továbbiakban: kollégium) létrehozásáról, működéséről, ügyrendjének előkészítéséről a kormánymegbízott gondoskodik.
+13. §[^34] (1) A fővárosi, megyei államigazgatási kollégium (a továbbiakban: kollégium) létrehozásáról, működéséről, ügyrendjének előkészítéséről a kormánymegbízott gondoskodik.
 
 (2) A kollégium testületként működik, működésének részletes szabályait az ügyrend tartalmazza. A kollégium ügyrendjét a kormánymegbízott terjeszti elő és a kollégium állapítja meg.
 
@@ -6,4 +6,4 @@
 
 (4) A kormánymegbízott szükség szerint meghívja a kollégium ülésére a koordinációs és ellenőrzési jogkörébe nem tartozó közigazgatási szervek vezetőit. Az államigazgatási feladatot ellátó más szervezet meghívott vezetője a kollégium ülésén tanácskozási joggal vehet részt.
 
-[^33]: A 13. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^34]: A 13. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

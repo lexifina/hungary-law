@@ -12,9 +12,9 @@
 
 (6) A szakmai irányító szerv vezetője gondoskodik a szakmai irányítása alá tartozó szakigazgatási szervek által végzett ellenőrzések összehangolásáról.
 
-(7)[^16] A fővárosi és megyei kormányhivataloknál alkalmazott biztonsági okmányok egységessége érdekében a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet szerinti kibocsátói feladatokat a szakigazgatási szervek tekintetében a szakmai irányító szervei látják el és viselik az ezzel kapcsolatosan felmerülő költségeket. A biztonsági okmányokon a fővárosi és megyei kormányhivatal, valamint a szakigazgatási szerv nevét fel kell tüntetni.
+(7)[^16] A kizárólag a fővárosi és megyei kormányhivataloknál alkalmazott és a szakmai munkával összefüggő, a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. melléklet III. pontja szerinti biztonsági okmányok egységessége érdekében kibocsátói feladatokat a szakigazgatási szervek és az azok szakmai irányítása alá tartozó járási (fővárosi kerületi) szakigazgatási szervek tekintetében a szakigazgatási szervek szakmai irányító szervei látják el és viselik az ezzel kapcsolatosan felmerülő költségeket. A biztonsági okmányokon a fővárosi és megyei kormányhivatal, a járási (fővárosi kerületi) hivatal, valamint a szakigazgatási szerv, vagy a járási (fővárosi kerületi) szakigazgatási szerv nevét fel kell tüntetni.
 
 [^13]: A 6. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
 [^14]: A 6. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^15]: A 6. § (5a) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^16]: A 6. § (7) bekezdését a 87/2012. (IV. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^16]: A 6. § (7) bekezdését a 87/2012. (IV. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege az 51/2013. (II. 25.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.

@@ -10,7 +10,7 @@ a) a központi államigazgatási szervek területi szervei számára a Kormány,
 
 b) a nemzetgazdasági szempontból kiemelt beruházások megvalósítását segítő államigazgatási feladatok végrehajtásának helyzetét,
 
-c) a fővárosi és megyei kormányhivatal törvényességi ellenőrzési és törvényességi felügyeleti tevékenységének tapasztalatait,
+c)[^28] a fővárosi és megyei kormányhivatal törvényességi felügyeleti tevékenységének tapasztalatait,
 
 d) a fővárosi és megyei kormányhivatal, valamint a járási hivatal hatósági tevékenységét, valamint a jegyző és a polgármester államigazgatási tevékenységére vonatkozó tapasztalatait,
 
@@ -18,7 +18,7 @@ e) a fővárosi és megyei kormányhivatal, valamint a járási hivatal egyéb t
 
 f) a (2) bekezdésben meghatározott államigazgatási szervek működésének, tevékenységének tapasztalatait,
 
-g)[^28] a szakigazgatási szervek tevékenységét, különös tekintettel az összevont ellenőrzésekről szóló éves ellenőrzési tervben foglaltak teljesítésének tapasztalatait,
+g)[^29] a szakigazgatási szervek tevékenységét, különös tekintettel az összevont ellenőrzésekről szóló éves ellenőrzési tervben foglaltak teljesítésének tapasztalatait,
 
 h) egyéb, a Kormány által meghatározott szempontokat, valamint
 
@@ -27,4 +27,5 @@ i) a d)–e) pontban meghatározott szerveknél a közérdekű kérelmekkel, pan
 [^25]: A 10. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
 [^26]: A 10. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 75. § (2) bekezdésével megállapított szöveg.
 [^27]: A 10. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 75. § (3) bekezdésével megállapított szöveg.
-[^28]: A 10. § (4) bekezdés g) pontja a 231/2012. (VIII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^28]: A 10. § (4) bekezdés c) pontja az 51/2013. (II. 25.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^29]: A 10. § (4) bekezdés g) pontja a 231/2012. (VIII. 28.) Korm. rendelet 3. §-ával megállapított szöveg. [Az 51/2013. (II. 25.) Korm. rendelet 19. § (2) bekezdésével elrendelt módosítás, amely szerint „a megyei szakigazgatási szervek” szövegrész helyébe az „a fővárosi és megyei szakigazgatási szervek” szöveg lép, nem vezethető át.]

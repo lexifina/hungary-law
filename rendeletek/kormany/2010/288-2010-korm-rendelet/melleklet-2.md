@@ -366,7 +366,7 @@
 
 ## 13.2. Az ellenőrzött szerv vezetője felel az ellenőrzött szervnél a megállapítások és javaslatok alapján – szükség esetén – végrehajtandó intézkedések megvalósulásáért.
 
-2. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^72]
+2. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^73]
 
 A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében a 22–23. §-ban meghatározott ügykörök
 
@@ -374,7 +374,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.1. a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (9) bekezdése szerinti kártalanítás,
 
-1.2.[^73]
+1.2.[^74]
 
 1.3. az állampolgárság megszerzésére irányuló nyilatkozat és kérelem, továbbá az állampolgárságról lemondó nyilatkozat, valamint az állampolgársági bizonyítvány kiadása iránti kérelem,
 
@@ -384,7 +384,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.6. a nyugdíjbiztosítási adatszolgáltatási kötelezettségek teljesítéséről szóló igazolások kiadása iránt a felszámoló/végelszámoló által benyújtott kérelmek átvétele, továbbítása,
 
-1.7.[^74] a nyugdíjfolyósításhoz és a megváltozott munkaképességű személyek ellátása folyósításához kapcsolódó bejelentési kötelezettségek teljesítése, továbbá nyomtatvány kiadása, átvétele,
+1.7.[^75] a nyugdíjfolyósításhoz és a megváltozott munkaképességű személyek ellátása folyósításához kapcsolódó bejelentési kötelezettségek teljesítése, továbbá nyomtatvány kiadása, átvétele,
 
 1.8. TAJ kártya igénylés befogadása,
 
@@ -448,7 +448,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.38. építőipari kivitelezési tevékenység megkezdésének és az adatok változásának bejelentése, előzetes bejelentés, utólagos bejelentés, bejelentő lapok, és mellékleteik átvétele és továbbítása.
 
-1.39.[^75] teljes hatályú apai elismerő nyilatkozat és az apai elismerő nyilatkozat teljes hatályához szükséges hozzájárulás.
+1.39.[^76] teljes hatályú apai elismerő nyilatkozat és az apai elismerő nyilatkozat teljes hatályához szükséges hozzájárulás.
 
 2. A kormányablak tájékoztatást nyújt az ügyfélnek az eljárás menetéről, valamint az eljárással kapcsolatos ügyféli jogokról és kötelezettségekről a következő ügyekben:
 
@@ -466,7 +466,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 2.7. Magyarországon élő magyar állampolgár, hontalan, illetőleg a menekültként elismert személy külföldön történő házasságkötéséhez, bejegyzett élettársi kapcsolat létesítéséhez szükséges tanúsítvány kiadása,
 
-2.8.[^76] a megváltozott munkaképességű személyek ellátásainak igénylése.
+2.8.[^77] a megváltozott munkaképességű személyek ellátásainak igénylése.
 
 3.
 
@@ -484,15 +484,15 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 
 3.3. A kormányablak betekintési lehetőséget biztosít az Országos Cégnyilvántartási és Céginformációs Rendszer cégadatbázisába.
 
-4.[^77]
+4.[^78]
 
 4.1. A kormányablak az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendelet szerinti építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi kérelmet és az ezekhez az eljárásokhoz kapcsolódó egyéb kérelmet, nyilatkozatot, igazolást papír alapon vagy elektronikus adathordozón átveszi. Az iratról elektronikus másolatot készít, azt továbbítja és feltölti az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe.
 
 4.2. A kormányablak iratbetekintési és iratmásolati szolgáltatási lehetőséget biztosít az ügyfél azonosítását követően az egyedi ügy irataiba, amelyben az ezt kérelmező ügyféli jogállással rendelkezik és amely iratra iratbetekintési joga van.
 
-[^72]: A 2. melléklet a 212/2011. (X. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^73]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
-[^74]: A 2. melléklet 1. pont 1.7. alpontja a 95/2012. (V. 15.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
-[^75]: A 2. melléklet 1. pont 1. 39. alpontját a 133/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^76]: A 2. melléklet 2. pont 2.8. alpontját a 95/2012. (V. 15.) Korm. rendelet 42. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
-[^77]: A 2. melléklet 4. pontját a 414/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^73]: A 2. melléklet a 212/2011. (X. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^74]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
+[^75]: A 2. melléklet 1. pont 1.7. alpontja a 95/2012. (V. 15.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^76]: A 2. melléklet 1. pont 1. 39. alpontját a 133/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^77]: A 2. melléklet 2. pont 2.8. alpontját a 95/2012. (V. 15.) Korm. rendelet 42. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
+[^78]: A 2. melléklet 4. pontját a 414/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
