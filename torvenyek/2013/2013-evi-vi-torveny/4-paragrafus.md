@@ -1,0 +1,1 @@
+4. § A Tft.-nek az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvény 12. § (1) bekezdésével megállapított 25/C. § (3) bekezdés b) pontja az „a) pontjában és c) pont ca) alpontjában” szövegrész helyett az „a) pontjában és c) pont cb) alpontjában” szöveggel lép hatályba.

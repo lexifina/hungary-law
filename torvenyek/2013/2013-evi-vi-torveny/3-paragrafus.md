@@ -1,0 +1,3 @@
+3. § A Tft. 25/B. § (1b) bekezdése helyébe a következő rendelkezés lép:
+
+„(1b) Az (1) bekezdésben foglalt adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezései szerint kell kezelni. Az (1) bekezdés b) pont bc) és bd) alpontjában, valamint a c) pont cc) és cd) alpontjában foglalt adatok a 25/C. § (3) bekezdésében meghatározott földhasználati lap másolaton, valamint a 25/C. § (3b) bekezdésében meghatározott földhasználati összesítőn, továbbá a földhasználati nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.”
