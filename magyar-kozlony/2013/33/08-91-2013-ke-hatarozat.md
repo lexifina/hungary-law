@@ -1,0 +1,19 @@
+# A köztársasági elnök 91/2013. (II. 27.) KE határozata
+
+Magyar Közlöny 2013. évi 33. szám, 2013. február 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3f1f0b9f8e52a0032466dec3af7d74dc8f88274b/dokumentumok/ba9aa7b2362b95cd7c7da1583d0524166b32f7f2/letoltes)
+
+---
+
+A köztársasági elnök 91/2013. (II. 27.) KE határozata
+államtitkári felmentésről
+Az Alaptörvény 9. cikk (4) bekezdés j) pontja és a központi államigazgatási szervekről, valamint a Kormány tagjai és
+az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 55. §-a alapján – a miniszterelnök javaslatára – L. Simon
+Lászlót,azEmberiErőforrásokMinisztériumaállamtitkárátemegbízatásaalól2013. február27-eihatállyalfelmentem.
+Budapest, 2013. február 22.
+Áder János s. k.,
+köztársasági elnök
+Ellenjegyzem:
+Budapest, 2013. február 22.
+Orbán Viktor s. k.,
+miniszterelnök
+KEH ügyszám: IV-2/01054/2013.
