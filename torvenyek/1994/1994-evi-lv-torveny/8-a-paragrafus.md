@@ -12,7 +12,9 @@ c) a mezőgazdasági igazgatási szerv által kiadott hatósági bizonyítványt
 
 (3) A mezőgazdasági igazgatási szervnek az igazolását környezettanulmány alapján kell kiállítania. A környezettanulmány során a mezőgazdasági igazgatási szerv a mezőgazdasági tevékenység folytatását vizsgálja.
 
-(4) A (2) bekezdésben meghatározott igazolás, illetve hatósági bizonyítvány 60 napnál nem lehetnek régebbi és kizárólag a hatósági bizonyítvány kiadása iránti kérelemben megjelölt ingatlanok tulajdonszerzése vonatkozásában kerülhet felhasználásra.
+(4) A (2) bekezdésben meghatározott igazolás, illetve hatósági bizonyítvány 60 napnál nem lehet régebbi.
+
+(4a) A (2) bekezdés c) pontja szerinti hatósági bizonyítványban – a kiadása iránti kérelemben foglaltak alapján – település és helyrajzi szám szerint meg kell jelölni, hogy az mely ingatlanok tulajdonjogának megszerzése vonatkozásában kerülhet felhasználásra az ingatlan-nyilvántartási eljárásban.
 
 (5) A tagállami állampolgárnak teljes bizonyító erejű magánokiratba, vagy közokiratba foglalt nyilatkozatot kell tennie a következőkről:
 

@@ -1,4 +1,4 @@
-25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldekről, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek használatáról – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – a közhiteles ingatlan-nyilvántartás adataira épülő, de attól elkülönülő, önálló nyilvántartást vezet. A földhasználati nyilvántartás tartalmazza
+25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldek, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – (ezen alcímben a továbbiakban együtt: termőföld) használatáról a közhiteles ingatlan-nyilvántartás adataira épülő, de attól elkülönülő, önálló nyilvántartást vezet. A földhasználati nyilvántartás tartalmazza
 
 a) a földrészlet ingatlan-nyilvántartási adatait;
 
@@ -12,7 +12,7 @@ bc) állampolgárságát,
 
 bd) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó magánszemélyek esetében a személyi azonosítóját,
 
-be) a családi gazdálkodó megjelölését és a családi gazdaság nyilvántartási számát, feltéve, hogy családi gazdálkodónak minősül;
+be)
 
 c) a földrészlet (alrészlet) vagy földrészletek gazdálkodó szervezet földhasználójának
 
@@ -28,11 +28,11 @@ d) a használat jogcímét;
 
 e) határozott időre kötött földhasználati szerződés esetén a használat időtartamát; és
 
-f) a be) alpontban meghatározott esetben annak megjelölését, hogy mely földrészlet (alrészlet) tartozik a családi gazdasághoz.
+f)
 
 (1a) A számítógépes földhasználati nyilvántartási rendszer kezelése, működtetése – függetlenül annak tényleges elhelyezésétől – a földmérési és térinformatikai államigazgatási szerv feladatkörébe tartozik.
 
-(1b) Az (1) bekezdésben foglalt adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezései szerint kell kezelni, és az, valamint az állampolgársági adat a 25/C. § (3) bekezdésében meghatározott földhasználati lap másolaton, valamint a 25/C. § (3b) bekezdésében meghatározott földhasználati összesítőn, továbbá a földhasználati nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.
+(1b) Az (1) bekezdésben foglalt adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezései szerint kell kezelni. Az (1) bekezdés b) pont bc) és bd) alpontjában, valamint a c) pont cc) és cd) alpontjában foglalt adatok a 25/C. § (3) bekezdésében meghatározott földhasználati lap másolaton, valamint a 25/C. § (3b) bekezdésében meghatározott földhasználati összesítőn, továbbá a földhasználati nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.
 
 (1c) A földhasználó az (1) bekezdés b), illetve c) pontjában meghatározott adatait a használat, valamint a használatban bekövetkezett változások bejelentésekor – ideértve a használat megszűnésének bejelentését is – köteles az ingatlanügyi hatósággal közölni.
 
@@ -42,11 +42,11 @@ f) a be) alpontban meghatározott esetben annak megjelölését, hogy mely föld
 
 (2) Aki termőföldet használ, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) – bejelenteni. Ha a használó nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetve a haszonélvezőnek is alá kell írnia.
 
-(3) Ha a földhasználat olyan szerződés alapján keletkezett, amelynek érvényességéhez jogszabály alapján kötelező írásba foglalás szükséges, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bejelentési adatlapot a használatba adónak nem kell aláírnia, de a bejelentési adatlaphoz a szerződés – osztatlan közös tulajdonban álló földrészlet használata esetén az egységes okiratba foglalt szerződés – eredeti példányát vagy annak közjegyző által hitelesített másolatát mellékelni kell.
+(3) Ha a földhasználat olyan szerződés alapján keletkezett, amelynek érvényességéhez jogszabály alapján kötelező írásba foglalás szükséges, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bejelentési adatlapot a használatba adónak nem kell aláírnia, de a bejelentési adatlaphoz a szerződés – osztatlan közös tulajdonban álló földrészlet használata esetén az egységes okiratba foglalt használati megállapodás, illetve szerződés – eredeti példányát vagy annak közjegyző által hitelesített másolatát mellékelni kell.
 
 (4) A földhasználó a bejelentéssel egyidejűleg köteles nyilatkozni arról, hogy termőföld használata a törvényben meghatározott korlátozásokat nem sérti.
 
-(4a) A földhasználó az (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – változásokat 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e bekezdésben megjelölt rendeletben meghatározott formanyomtatványon.
+(4a) A földhasználó az (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – a változásokat (ideértve a használat megszűnését is) 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e bekezdésben megjelölt rendeletben meghatározott formanyomtatványon.
 
 (5) A bejelentést elmulasztó földhasználót az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.
 

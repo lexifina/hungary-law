@@ -8,4 +8,4 @@ a) írásbeli közlésnek minősül a postai úton, elektronikus úton, telefaxo
 
 b) a termőföldön fennálló haszonélvezeti jog esetében a tulajdonostárs alatt a haszonélvezőt is érteni kell;
 
-c) a használat alatt a haszonbérletet, a felesbérletet, a részesművelést, a szívességi földhasználatot, a haszonkölcsönt, az alhaszonkölcsönt (Ptk. 583–584. §), valamint a 12/A. §-ban foglalt, a termelési integráció megvalósítása érdekében létesített alhaszonbérletet kell érteni.
+c) a használat alatt a haszonbérletet, a felesbérletet, a részesművelést, a szívességi földhasználatot, a haszonkölcsönt, az alhaszonkölcsönt (Ptk. 583–584. §), valamint a 12/A. §-ban foglalt, a termelési integráció megvalósítása érdekében létesített alhaszonbérletet, továbbá a tulajdonjogon, a haszonélvezeti jogon és a vagyonkezelői jogon alapuló használatot kell érteni.
