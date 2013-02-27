@@ -1,1 +1,0 @@
-A Kormány a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (1) bekezdés a) és c) pontjában, valamint 28. § (2) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
