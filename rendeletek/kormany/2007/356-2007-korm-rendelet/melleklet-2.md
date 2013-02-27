@@ -4,7 +4,7 @@
 
 ## 1. A földhasználó adatai:
 
-## 1.1.[^44] a magánszemély kérelmező
+## 1.1.[^53] a magánszemély kérelmező
 
 ## a) természetes személyazonosító adatai,
 
@@ -14,9 +14,9 @@
 
 ## d) lakcíme,
 
-## e) családi gazdaságának nyilvántartási száma (ha a bejelentő családi gazdálkodó);
+## e)[^54]
 
-## 1.2.[^45] a gazdálkodó szervezet kérelmező
+## 1.2.[^55] a gazdálkodó szervezet kérelmező
 
 ## a) megnevezése,
 
@@ -34,7 +34,7 @@
 
 ## a) a település neve,
 
-## b)[^46] a földrészlet fekvése, helyrajzi száma,
+## b)[^56] a földrészlet fekvése, helyrajzi száma,
 
 ## c) a használat jogcíme,
 
@@ -52,7 +52,7 @@
 
 ## j) ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, a használt alrészletek jelei, művelési ágai, minőségi osztályai, valamint a használattal érintett terület nagysága (ha, m2) és aranykorona-értéke (AK).
 
-## 3.[^47] A használatba adó adatai (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon, alapul):
+## 3.[^57] A használatba adó adatai (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon, alapul):
 
 ## a) a magánszemély használatba adó természetes személyazonosító adatai és lakcíme;
 
@@ -66,11 +66,11 @@
 
 ## c) szívességi földhasználat jogcímén bejelentett földhasználat esetén arról, hogy a földhasználó a használatba adó közeli hozzátartozója;
 
-## d)[^48] arról, hogy családi gazdálkodónak minősül;
+## d)[^58]
 
-## e)[^49] cég esetén arra vonatkozóan, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
+## e)[^59] cég esetén arra vonatkozóan, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
 
-## 5.[^50] A használatba adó aláírása és az aláírás dátuma (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon alapul).
+## 5.[^60] A használatba adó aláírása és az aláírás dátuma (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon alapul).
 
 ## 6. A földhasználó magánszemélynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
 
@@ -84,7 +84,7 @@
 
 ## 4. Benyújtott pótlapok száma.
 
-## 5.[^51] Mellékelt okiratok, szerződések száma.
+## 5.[^61] Mellékelt okiratok, szerződések száma.
 
 ## 6. Annak megjelölése, hogy befizetésre került-e az igazgatási szolgáltatási díj.
 
@@ -92,14 +92,15 @@
 
 ## 8. Az ügyintéző aláírása.
 
-2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^52]
+2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^62]
 
-[^44]: Az 1. számú melléklet I. 1. pont 1.1. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^45]: Az 1. számú melléklet I. 1. pont 1.2. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^46]: Az 1. számú melléklet I. 2. pont b) alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^47]: Az 1. számú melléklet I. 3. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^48]: Az 1. számú melléklet I. 4. pont d) alpontját a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^49]: Az 1. számú melléklet I. 4. pont e) alpontját a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^50]: Az 1. számú melléklet I. 5. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^51]: Az 1. számú melléklet II. 5. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^52]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: Az 1. számú melléklet I. 1. pont 1.1. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^54]: Az 1. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^55]: Az 1. számú melléklet I. 1. pont 1.2. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^56]: Az 1. számú melléklet I. 2. pont b) alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. számú melléklet I. 3. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 1. számú melléklet I. pont 4. alpont d) pontját a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdése iktatta be, hatályon kívül helyezte az 54/2013. (II. 26.) Korm. rendelet 8. § d) pontja.
+[^59]: Az 1. számú melléklet I. 4. pont e) alpontját a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^60]: Az 1. számú melléklet I. 5. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^61]: Az 1. számú melléklet II. 5. pontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^62]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

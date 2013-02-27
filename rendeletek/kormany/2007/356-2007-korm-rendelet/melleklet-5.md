@@ -14,7 +14,7 @@
 
 ## d) lakcíme,
 
-## e) családi gazdaságának nyilvántartási száma (ha a bejelentő családi gazdálkodó);
+## e)[^70]
 
 ## 1.2. a gazdálkodó szervezet kérelmező
 
@@ -68,7 +68,7 @@
 
 ## 8. Az ügyintéző aláírása.
 
-5. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^58]
+5. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^71]
 
 Azonosító adatközlési adatlap tartalma
 
@@ -84,27 +84,21 @@ c) állampolgársága,
 
 d) lakcíme,
 
-e) családi gazdaságának nyilvántartási száma (ha a bejelentő családi gazdálkodó);
+e)[^72]
 
-1.2. a gazdálkodó szervezet kérelmező
+1.2.[^73] a gazdálkodó szervezet kérelmező
 
 a) megnevezése,
 
 b) statisztikai azonosítója (törzsszám),
 
-c) cég esetében a cégjegyzékszám,
+c) székhelye (telephelye),
 
-d) székhelye (telephelye),
+d) képviseletében eljáró személy családi és utóneve, lakcíme,
 
-e) képviseletében eljáró személy családi és utóneve, lakcíme,
+e) bélyegzőlenyomata.
 
-f) bélyegzőlenyomata.
-
-2. A földhasználati nyilvántartásba 2012. december 31-ig bejegyzett földhasználó által használt és a földhasználati nyilvántartásba bejegyzett földterületekre vonatkozó adatok földrészletenkénti bontásban:
-
-a) a település neve,
-
-b) a földrészlet fekvése, helyrajzi száma.
+2.[^74] A földhasználati nyilvántartásba 2012. december 31-ig bejegyzett földhasználó által használt és a földhasználati nyilvántartásba bejegyzett földterület fekvése szerinti település neve.
 
 3. A földhasználó nyilatkozata arról, hogy adatai a valóságnak megfelelnek.
 
@@ -124,4 +118,8 @@ II. Az azonosító adatközlési adatlapon a földhivatal által feltüntetendő
 
 6. Az ügyintéző aláírása.
 
-[^58]: Az 5. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^70]: A 4. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.
+[^71]: Az 5. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^72]: Az 5. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § h) pontja hatályon kívül helyezte.
+[^73]: Az 5. számú melléklet I. pont 1.2. alpontja az 54/2013. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^74]: Az 5. számú melléklet I. pont 2. alpontja az 54/2013. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.

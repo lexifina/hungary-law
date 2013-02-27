@@ -14,7 +14,7 @@
 
 ## d) lakcíme,
 
-## e) családi gazdaságának nyilvántartási száma (ha a bejelentő családi gazdálkodó);
+## e)[^67]
 
 ## 1.2. a gazdálkodó szervezet kérelmező
 
@@ -66,7 +66,7 @@
 
 ## c) szívességi földhasználat jogcímén bejelentett földhasználat esetén arról, hogy a földhasználó a használatba adó közeli hozzátartozója;
 
-## d) arról, hogy családi gazdálkodónak minősül,
+## d)[^68]
 
 ## e) cég esetén arra vonatkozóan, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
 
@@ -92,6 +92,8 @@
 
 ## 8. Az ügyintéző aláírása.
 
-4. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^57]
+4. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^69]
 
-[^57]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^67]: A 3. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^68]: A 3. számú melléklet I. pont 4. alpont d) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
+[^69]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
