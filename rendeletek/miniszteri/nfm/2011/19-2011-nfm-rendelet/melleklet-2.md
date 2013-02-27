@@ -2,7 +2,7 @@
 
 | 1. | Vasútszakmai oktató (vasúti műszaki-, vasúti forgalmi oktató) | A képző szervezet, illetve vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
 
-2. melléklet a 19/2011. (V. 10.) NFM rendelethez[^38]
+2. melléklet a 19/2011. (V. 10.) NFM rendelethez[^80]
 
 ## Időszakos oktatásra, illetve időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje
 
@@ -50,7 +50,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 18. | MERÁFI irányító | 30 | 26 | 4 | 3 |
 
-| 19. | Forgalmi szolgálattevő | 30 | 26 | 4 | 3 |
+| 19. | Forgalmi szolgálattevő (Gyermekvasúti forgalmi állomásfőnök) | 30 | 26 | 4 | 3 |
 
 | 20. | Külső forgalmi szolgálattevő | 30 | 26 | 4 | 3 |
 
@@ -78,7 +78,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 32. | Vezető váltókezelő | 15 | 13 | 2 | 6 |
 
-| 33. | Váltókezelő | 15 | 13 | 2 | 6 |
+| 33. | Váltókezelő (Gyermekvasúti vezető váltókezelő) | 15 | 13 | 2 | 6 |
 
 | 34. | Vágányfék-kezelő | 15 | 13 | 2 | 6 |
 
@@ -91,6 +91,10 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 | 38. | Útsorompókezelő | 15 | 13 | 2 | 6 |
 
 | 39. | Jelzőőr | 15 | 13 | 2 | 6 |
+
+| 39/A. | Gyermekvasúti vonatvezető | 15 | 13 | 2 | 6 |
+
+| 39/B . | Gyermekvasúti vezető jegyvizsgáló | 15 | 13 | 2 | 6 |
 
 | Távközlő, erősáramú és biztosítóberendezések fenntartásával összefüggő munkakörök |
 
@@ -842,10 +846,6 @@ II. Elővárosi és helyi vasúti pályahálózat
 
 | 32. | Fordítókorong-kezelő | 4 | 2 | 2 | 12 |
 
-| Sorszám | Munkakör | Éves oktatási idő (óra) | Oktatási idő megoszlása (év/óra) | Gyakoriság (hónap) |
-
-| Járműismeret, műszaki- és egyéb ismeretek | Infrastruktúra ismeret |
-
 | Vasúti járművezető munkakörök, feladatkörök |
 
 | 33. | Fogaskerekű vasúti járművezető | 30 | 10 | 20 | 3 |
@@ -888,4 +888,4 @@ II. Elővárosi és helyi vasúti pályahálózat
 
 III. Egysínű függővasúti pálya
 
-[^38]: A 2. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^80]: A 2. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (2) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (2) bekezdése szerint módosított szöveg.

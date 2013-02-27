@@ -1,6 +1,6 @@
 ## 15. A képzésben részt vevő alapvizsgára bocsátásának feltételei
 
-18. § (1) A képzésben részt vevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgaközpontnak vizsgára bejelentette.
+18. § (1)[^37] A képzésben részt vevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgaközpontnak vizsgára bejelentette és a vizsga díját megfizette..
 
 (2) A képzőszervezet akkor jelenti be a képzésben részt vevőt vizsgára, ha a képzésben részt vevő:
 
@@ -19,3 +19,5 @@ b) egy évnél régebben sikeres vizsgát tett, és az időszakos oktatásokon i
 (5) Az alapvizsga alól mentesítés nem adható.
 
 (6) A képzésben részt vevő indokolt esetben az alapvizsga halasztását kérheti. A halasztás iránti kérelmet a vizsgaközpont akkor fogadja el, ha a képzésben részt vevő rajta kívülálló okból kéri a halasztást. Az engedélyezett halasztás időtartama az egy évet nem haladhatja meg.
+
+[^37]: A 18. § (1) bekezdése az 5/2013. (II. 12.) NFM rendelet 22. § f) pontja szerint módosított szöveg.

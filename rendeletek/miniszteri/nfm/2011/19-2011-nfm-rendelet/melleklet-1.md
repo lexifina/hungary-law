@@ -1,4 +1,4 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^37]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^79]
 
 ## A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
@@ -44,7 +44,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 18. | Mellékvonali rádiós forgalomirányító (a továbbiakban: MERÁFI irányító) |
 
-| 19. | Forgalmi szolgálattevő (főrendelkező, rendelkező, jelenlétes forgalmi szolgálattevő) | Vonatközlekedés, továbbá a tolatás irányítása állomáson és kijelölt szolgálati helyen. |
+| 19. | Forgalmi szolgálattevő (főrendelkező, rendelkező, jelenlétes forgalmi szolgálattevő, Gyermekvasúti állomásfőnök) | Vonatközlekedés, továbbá a tolatás irányítása állomáson és kijelölt szolgálati helyen. |
 
 | 20. | Külső forgalmi szolgálattevő |
 
@@ -72,7 +72,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 32. | Vezető váltókezelő | A helyszíni, vagy központi állítású, valamint gurítódombi berendezéshez tartozó váltók állítása, ellenőrzése, őrzése, továbbá a helyi viszonyoktól függően esetleg gondozása, egyes helyeken a helyhez kötött jelzők kezelése, szükség esetén sorompókezelés és a vonatok mozdonyvezetőinek indításra történő felhatalmazása megbízással. |
 
-| 33. | Váltókezelő |
+| 33. | Váltókezelő (Gyermekvasúti vezető váltókezelő) |
 
 | 34. | Vágányfék-kezelő | Gépesített gurítódomb vágányfékjeinek kezelése a gurításra kerülő egységeknél. |
 
@@ -85,6 +85,10 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 | 38. | Útsorompókezelő | Az útátjáró biztosítására szolgáló berendezések kezelése, meghatározott esetekben az útátjáró fedezése. |
 
 | 39. | Jelzőőr |
+
+| 39/A. | Gyermekvasúti vonatvezető | A Gyermekvasúton közlekedő vonatok közlekedése során forgalmi tevékenység végzése. A vonatnál szolgálatot teljesítő vonatkísérők forgalmi szempontból rendelkezésre jogosult vezetője, szükség esetén tolatást vezet. A fékpróbát megtartja. Figyelő szolgálatot lát el, végzi az induló vonatok mozdonyvezetőinek indításra történő felhatalmazását. |
+
+| 39/B. | Gyermekvasúti vezető jegyvizsgáló | A Gyermekvasúton közlekedő vonatok közlekedése során – a kereskedelmi tevékenység végzésén kívül – szükség esetén fékezési, figyelési és fedezési feladatokat is ellát. |
 
 | Távközlő, erősáramú és biztosítóberendezések fenntartásával összefüggő munkakörök |
 
@@ -852,4 +856,4 @@ III. Egysínű függővasúti pálya
 
 IV. Valamennyi pályahálózat
 
-[^37]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^79]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése szerint módosított szöveg.

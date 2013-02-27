@@ -22,6 +22,12 @@
 
 10.[^3] gyakorlati képzés: az elméleti képzés mellett vagy azt követő képzés, amely az elméleti ismeretek gyakorlati bemutatását, megértését és alkalmazását segíti elő üzemi vagy kísérleti szimulációs körülmények között.
 
+11.[^4] országos vasúti pályahálózaton vonatokat közlekedtető vasúti járművezető: az a vasúti járművezető, aki normál vagy széles nyomtávú országos, térségi vasúti pályahálózaton közlekedik;
+
+12.[^5] pályahálózat lényeges jellemzői: a nyomvonal, a jelző- és biztosítóberendezések, az energiaellátás, a vasúti távközlő berendezések, szolgálati helyek, valamint a vágánykapcsolatok.
+
 [^1]: A 2. § 3. pontja a 10/2012. (II. 15.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 9. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
 [^3]: A 2. § 10. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § 11. pontját az 5/2013. (II. 12.) NFM rendelet 1. §-a iktatta be.
+[^5]: A 2. § 12. pontját az 5/2013. (II. 12.) NFM rendelet 1. §-a iktatta be.
