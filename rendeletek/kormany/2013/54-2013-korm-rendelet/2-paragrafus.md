@@ -1,0 +1,3 @@
+## 1. § A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet (a továbbiakban: Fönyr.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) E rendelet alkalmazásában földhasználó: az érvényes földhasználati jogcím, illetve tulajdonjog – ide értve a tulajdonostársak közötti, a termőföldről szóló 1994. évi LV. törvény (a továbbiakban: Tft.) 11/C. § (1) bekezdése szerinti használati megállapodást, illetve a Tft. 11/C. § (9) bekezdése szerinti tulajdonostárs vagy tulajdonostársak döntését –, haszonélvezeti jog, vagyonkezelői jog alapján termőföldet használó, és a Tft. előírása alapján földhasználati bejelentésre kötelezett magánszemély, illetőleg gazdálkodó szervezet.”
