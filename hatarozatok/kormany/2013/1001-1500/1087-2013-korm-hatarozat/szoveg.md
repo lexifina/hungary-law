@@ -1,0 +1,1 @@
+A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 7. § m) pontja alapján, a helyi és regionális érdekek Európai Unióban történő képviselete érdekében a Régiók Bizottsága Nemzeti Delegáció póttagjának Törő Gábort, a Fejér Megyei Közgyűlés elnökét jelöli.
