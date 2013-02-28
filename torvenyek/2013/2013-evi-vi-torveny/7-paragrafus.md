@@ -1,5 +1,0 @@
-7. § A Tft. 91. §-a a következő (8) és (9) bekezdéssel egészül ki:
-
-„(8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. április 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
-
-(9) Azon földhasználók részére, akik a Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírtaknak megfelelően a földhasználatukat 2013. január 1-jétől a termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi VI. törvény (a továbbiakban: Módtv. 2.) hatálybalépéséig az ingatlanügyi hatóságnak bejelentették, a földhasználati nyilvántartási eljárásért megfizetett igazgatási szolgáltatási díjat a fővárosi és megyei kormányhivatal a Módtv. 2. hatálybalépésétől számított 90 napon belül köteles visszatéríteni, kivéve ha ezen határidőn belül a díj jogszabály alapján már visszafizetésre került.”

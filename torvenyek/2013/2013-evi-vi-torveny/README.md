@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-6-00-00
 | --- | --- | --- |
 | 2013-02-27 | 2013. évi VI. törvény | 2013-6-00-00.0 (közlönyállapot) |
 | 2013-02-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-6-00-00.1 |
+| 2013-02-28 | 2010. évi CXXX. törvény | 2013-6-00-00.2 |
