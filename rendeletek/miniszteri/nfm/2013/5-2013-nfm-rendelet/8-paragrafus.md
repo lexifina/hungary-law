@@ -1,1 +1,0 @@
-## „(4a) Ha egy új képzési program teljes egészében tartalmazza a pályahálózatra vagy vasúti járműre vonatkozó korábbi képzési programot, akkor a vizsgaközpont felmentést adhat az új képzési program tantárgyainak oktatásán való részvétel alól annak a munkavállalónak, aki érvényes vizsgával rendelkezik a korábbi képzési program ismeretanyagából.”

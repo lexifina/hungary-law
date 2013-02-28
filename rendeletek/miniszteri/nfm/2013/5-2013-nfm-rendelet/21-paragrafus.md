@@ -1,1 +1,0 @@
-## „(12) A 3. melléklet alkalmazása szempontjából a műszaki és forgalmi elméleti vasútszakmai oktatók elméleti vasútszakmai oktatónak, a műszaki és forgalmi gyakorlati vasútszakmai oktatók gyakorlati vasútszakmai oktatónak minősülnek.”
