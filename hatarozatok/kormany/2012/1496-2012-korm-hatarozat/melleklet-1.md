@@ -42,13 +42,13 @@
 
 ## Határidő: azonnal
 
-## 5. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Szociális és Gyermekvédelmi Főigazgatóság létrehozása érdekében 150,0 millió forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 25. Szociális és Gyermekvédelmi Főigazgatóság cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
+## 5.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Szociális és Gyermekvédelmi Főigazgatóság létrehozása érdekében 150,0 millió forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 25. Szociális és Gyermekvédelmi Főigazgatóság cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
 
 ## Felelős: nemzetgazdasági miniszter
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. február 15.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. június 30.
 
 ## 6. mentesíti a Szociális és Gyermekvédelmi Főigazgatóságot a 2012. és 2013. évi költségvetési hiánycél biztosításához szükséges további intézkedésekről szóló 1036/2012. (II. 21.) Korm. határozat 6. pontjában foglaltak alól a 4. pont szerinti előirányzat tekintetében.
 
@@ -171,3 +171,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: Az 5. pont az 1088/2013. (II. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
