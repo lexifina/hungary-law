@@ -1,0 +1,9 @@
+# 57/2013. (II. 27.) Korm. rendelet
+
+a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-57-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-02-28 | 2013-57-20-22.1 | 57/2013. (II. 27.) Korm. rendelet |

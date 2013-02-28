@@ -1,0 +1,1 @@
+## 12. § A telepek engedélyezésével, bejelentésével és a nyilvántartásban feltüntetett adatok módosításával kapcsolatos eljárásokért a kérelmező, illetve a bejelentő igazgatási szolgáltatási díjat köteles fizetni.
