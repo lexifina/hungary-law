@@ -1,0 +1,1 @@
+## „(3) A miniszter a Közigazgatási és Igazságügyi Hivatal útján – amely e tevékenységéhez a Zánka-Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe – irányítja a Mobilitás Országos Ifjúsági Igazgatóságot.”
