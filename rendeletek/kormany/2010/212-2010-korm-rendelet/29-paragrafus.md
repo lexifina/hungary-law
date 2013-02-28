@@ -8,7 +8,10 @@ c) közreműködik az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogra
 
 d) irányítja a Mobilitás Országos Ifjúsági Igazgatóságot.
 
-(2)[^101] A miniszter az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogram összehangolásáért való felelőssége körébe tartozó tevékenységének koordinációjához, valamint az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a Zánka-Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe.
+(2)[^101] A miniszter az Új Nemzedék Jövőjéért Ifjúságpolitikai keretprogram összehangolásáért való felelőssége körébe tartozó, az (1) bekezdés a)–c) pontjaiban rögzített tevékenységének koordinációjához, valamint az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a Zánka-Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe.
+
+(3)[^102] A miniszter a Közigazgatási és Igazságügyi Hivatal útján – amely e tevékenységéhez a Zánka-Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe – irányítja a Mobilitás Országos Ifjúsági Igazgatóságot.
 
 [^100]: A 29. §-t a 94/2012. (V. 11.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte, újonnan a 282/2012. (X. 4.) Korm. rendelet 1. §-a iktatta be.
-[^101]: A 29. § (2) bekezdése a 305/2012. (X. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^101]: A 29. § (2) bekezdése az 56/2013. (II. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^102]: A 29. § (3) bekezdését az 56/2013. (II. 27.) Korm. rendelet 2. § (3) bekezdése iktatta be.
