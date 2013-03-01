@@ -1,0 +1,3 @@
+16. § (1) Amennyiben a minősítésre benyújtott dokumentáció eltér a minősített továbbképzési programokkal szemben támasztott követelményrendszertől, vagy a képzésmódszertani és minőségirányítási eljárások szabályaitól, akkor a továbbképzési programminősítésre benyújtott továbbképzési programot nem megfelelőre kell minősíteni.
+
+(2) A nem megfelelőnek minősített program kérelmezőjét az OKTF az általa felkért szakértő állásfoglalása alapján a továbbképzési program átdolgozására kérheti fel. A továbbképzési program átdolgozását követően a továbbképzési program ismételten benyújtható a minősítésre. A továbbképzési program ismételt benyújtása során a kérelmezőt díjfizetési kötelezettség nem terheli.

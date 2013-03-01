@@ -1,0 +1,5 @@
+22. § (1) Amennyiben a helyszíni ellenőrzés során a minőségügyi ellenőr megállapítja, hogy a továbbképzési program eltér a programjegyzékre felvett továbbképzési program által meghatározott követelményrendszertől, vagy a képzésmódszertani és minőségirányítási eljárások szabályaitól, akkor a helyszíni ellenőrzés nem megfelelőséget állapít meg.
+
+(2) A nem megfelelőségről az OKTF tájékoztatja a továbbképzési program minősítésének kezdeményezőjét és a Kollégiumot. A Kollégium jogosult az OKTF javaslatára a nem megfelelő továbbképzési program minősítésének felfüggesztésére. A továbbképzési program felfüggesztése esetén a 17. § (3)–(5) bekezdései megfelelően irányadók.
+
+(3) A helyszíni ellenőrzésekről készített éves összefoglaló jelentését az OKTF a tárgyévet követő év január 20-áig készíti el és a Kollégiumnak megküldi. A Kollégium az összefoglaló jelentés ellenőrzését és véleményezését követően, egyetértését vagy annak hiányát jelezve, a jelentést jóváhagyás céljából nyolc munkanapon belül felterjeszti a miniszternek.
