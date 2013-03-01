@@ -1,5 +1,0 @@
-23. § (1) A megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzdő gyermek óvodai nevelése, a tanuló iskolai nevelése és oktatása kezdetén a nevelési tanácsadó a helyszínen az érintett pedagógussal egyezteti a szakértői véleményben foglaltak végrehajtását, a tanuló felkészítését szolgáló egyéni fejlesztési terv elkészítését és végrehajtását.
-
-(2) A megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzdő gyermek óvodai nevelését, a tanuló iskolai nevelését és oktatását a nevelési tanácsadó a nevelési évben, illetve a tanítási évben legalább egy alkalommal, az óvodai foglalkozáson, illetve a tanítási órán megfigyeli. A nevelési, illetve a tanítási év végén – a gyermek, tanuló fejlesztésében részt vevő pedagógusok bevonásával – a nevelési tanácsadó összegezi a gyermek, tanuló fejlődését, és megküldi a szakértői és rehabilitációs bizottságnak.
-
-(3) A nevelési tanácsadó eljárására a 10. § (1)–(3) bekezdését, a (4) bekezdés a) pontját, a 11. § (1)–(2) bekezdését, a 12. §-t, a 14. § (3) és (5) bekezdését, valamint a 19. § (1)–(2) és (5) bekezdését megfelelően alkalmazni kell.
