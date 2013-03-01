@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-128-20-
 | 2012-12-16 | 2012-128-20-2Y.2 | 2010: CXXX. törvény |
 | 2013-01-01 | 2012-128-20-2Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-01-02 | 2012-128-20-2Y.4 | 2010: CXXX. törvény |
+| 2013-03-01 | 2012-128-20-2Y.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
