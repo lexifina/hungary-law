@@ -1,0 +1,3 @@
+19. § (1) Az agrárpolitikáért és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium a fogyasztók tájékoztatása érdekében a 12. melléklet szerinti listát internetes honlapján évente közzéteszi, továbbá a beérkezett adatokról tájékoztatást ad az egészségügyért felelős miniszter által vezetett minisztérium, az iparügyekért felelős miniszter által vezetett minisztérium, valamint a fogyasztóvédelemért felelős miniszter által vezetett minisztérium számára.
+
+(2) Az agrárpolitikáért és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium az (1) bekezdésben meghatározott adatokat évente megküldi az Európai Bizottságnak.
