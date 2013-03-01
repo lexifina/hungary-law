@@ -2,13 +2,13 @@
 
 13. § (1) Az állampolgárság megszerzésére irányuló nyilatkozatot és kérelmet, továbbá az állampolgárságról lemondó nyilatkozatot, valamint az állampolgársági bizonyítvány kiadása iránti kérelmet (a továbbiakban együtt: állampolgársági kérelem)
 
-a) a települési – fővárosban a kerületi – önkormányzat polgármesteri hivatala anyakönyvvezetőjéhez,
+a) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal),
 
-b) az integrált ügyfélszolgálati irodához
+b) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodájához (a továbbiakban: integrált ügyfélszolgálati iroda),
 
 c) a magyar konzuli tisztviselőhöz, illetve
 
-d) a Kormány által kijelölt, az állampolgársági ügyekben eljáró szervhez
+d) az állampolgársági ügyekben eljáró szervhez
 
 lehet benyújtani.
 
@@ -16,4 +16,4 @@ lehet benyújtani.
 
 (3) Más személy állampolgárságának igazolására irányuló bizonyítvány iránti kérelmet benyújthat az, aki erre vonatkozó jogos érdekét igazolja.
 
-(4) Az állampolgársági kérelmet az anyakönyvvezető, az integrált ügyfélszolgálati iroda vezetője öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles felterjeszteni a miniszterhez.
+(4) Az állampolgársági kérelmet a járási hivatal vezetője, az integrált ügyfélszolgálati iroda vezetője öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles megküldeni az állampolgársági ügyekben eljáró szervnek.

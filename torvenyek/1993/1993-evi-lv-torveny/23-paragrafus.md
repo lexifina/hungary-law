@@ -6,4 +6,4 @@ b) akit menekültként elismertek, valamint
 
 c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarországon gyakorolja, és bejelentési kötelezettségének eleget tett.
 
-(2) E törvény alkalmazása szempontjából külföldön lakik az a személy, akinek Magyarországon nincs bejelentett lakóhelye vagy tartózkodási helye.
+(2)

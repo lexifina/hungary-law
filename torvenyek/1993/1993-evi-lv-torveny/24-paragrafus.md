@@ -2,14 +2,16 @@
 
 (2)–(3)
 
-(4) Felhatalmazást kap a Kormány, hogy megállapítsa:
+(4) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa
 
-a) a miniszter e törvényben meghatározott feladatainak részletes szabályait és kijelölje az e törvény 5/A. § (2)–(3) bekezdésében, 8. § (3) bekezdésében, 14. § (4) és (6) bekezdésében, 16. § (1) és (3) bekezdésében, 17. § (1) és (4) bekezdésében, (6) bekezdésében, (8) bekezdésében az előterjesztést kivéve, a 19. § (2) és (3) bekezdésében, 20. §-ában, továbbá a 20/A. § (3) bekezdésében meghatározott feladatokat a miniszter nevében ellátó állampolgársági ügyekben eljáró szervet,
+a) az állampolgársági ügyekben eljáró szervet,
 
-b) az eskü vagy fogadalom letételével kapcsolatos feladatokat;
+b) az eskü vagy a fogadalom letételével kapcsolatos feladatokat,
 
-c) a járási hivatalnak, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
+c) az állampolgársági kérelem átvételére jogosult szervnek az állampolgársági kérelmek átvételével, az okiratok továbbításával kapcsolatos feladatait, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatokat,
 
-d) az eljárásban használandó formanyomtatványokat;
+d) az e törvény szerinti eljárásokban használandó formanyomtatványokat, az állampolgársági kérelemhez csatolandó okiratok körét,
 
-e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a fővárosi és megyei kormányhivatalnak a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
+e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét, továbbá a vizsga szervezésére jogosult szervet és annak a vizsgával kapcsolatos feladatait,
+
+f) a névmódosítási kérelemhez a névmódosítási kérelemben foglaltak alátámasztására szolgáló okiratok körét.

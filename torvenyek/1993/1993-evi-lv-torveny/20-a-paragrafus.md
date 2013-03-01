@@ -18,9 +18,9 @@ b) – elvált családi állapot esetén – volt házastársa az (1) bekezdés 
 
 c) – özvegy családi állapot esetén – volt házastársa az (1) bekezdés a) pontja szerinti nevet viselte vagy kérhette volna az (1) bekezdés a) pontja szerinti név viselését.
 
-(2) A névmódosítási kérelmet okirattal vagy szakvéleménnyel kell alátámasztani.
+(2) A névmódosítási kérelmet – ha kormányrendelet eltérően nem rendelkezik – okirattal vagy szakvéleménnyel kell alátámasztani.
 
-(3) A névmódosítást a miniszter engedélyezi. Ha a miniszter a névmódosítást engedélyezi, akkor döntése a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
+(3) A névmódosítást a miniszter vagy az állampolgársági ügyekben eljáró szerv engedélyezi. Ha a miniszter vagy az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi, akkor döntése a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
 
 (4) A névmódosítást anyakönyvezni kell.
 

@@ -26,6 +26,18 @@ d) magyar hatóság menekültként elismerte.
 
 (3) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén – kérelmére – kedvezményesen honosítható az a nem magyar állampolgár, akinek felmenője magyar állampolgár volt vagy valószínűsíti magyarországi származását, és magyar nyelvtudását igazolja.
 
+(3a) Kérelmére kedvezményesen honosítható az a nem magyar állampolgár, aki
+
+a) legalább
+
+aa) tíz éve érvényes házasságban él olyan személlyel, aki az állampolgársági kérelem benyújtásának időpontjában magyar állampolgár, vagy
+
+ab) öt éve érvényes házasságban él olyan személlyel, aki az állampolgársági kérelem benyújtásának időpontjában magyar állampolgár, és közös gyermekük született,
+
+b) az (1) bekezdés b) és d) pontjában meghatározott feltételeknek megfelel, és
+
+c) magyar nyelvtudását igazolja.
+
 (4) Kedvezményesen honosítható az a nem magyar állampolgár, akinek a kérelem benyújtását megelőzően legalább öt éven át folyamatosan Magyarországon volt a lakóhelye, és az (1) bekezdés b)–e) pontjaiban meghatározott feltételek fennállnak, ha
 
 a) az ország területén született;
@@ -38,6 +50,6 @@ c) hontalan.
 
 (6) A magyar állampolgár által örökbefogadott kiskorú gyermek lakóhelyétől függetlenül honosítható.
 
-(7) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén a köztársasági elnök – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) javaslata alapján – felmentést adhat a honosítás további feltételei alól, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
+(7) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén a köztársasági elnök – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) előterjesztésére – felmentést adhat a honosítás további feltételei alól, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
 
 (8) A magyar nyelvtudás igazolásától el lehet tekinteni cselekvőképtelen vagy korlátozottan cselekvőképes személyek esetében.
