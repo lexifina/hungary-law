@@ -1,0 +1,3 @@
+## 48. § A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A személyazonosító igazolvány első alkalommal történő kiadását a letelepedett a letelepedett jogállást igazoló okmányának, a menekült és az oltalmazott a menekültként vagy oltalmazottként való elismerést igazoló okiratának az átvételekor az idegenrendészeti hatóságnál, illetve a menekültügyi hatóságnál köteles kérni. Az idegenrendészeti hatóság, illetve a menekültügyi hatóság közreműködő hatóságként jár el, és a kérelmet a 23. § (1) bekezdésében meghatározott ellenőrzést követően haladéktalanul megküldi a kérelmező lakóhelye szerint illetékes járási hivatalnak.”

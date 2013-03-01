@@ -1,0 +1,1 @@
+## „(5) A külföldön élő magyar állampolgár a konzuli tisztviselőnél, a központi szervnél vagy a tartózkodási helye szerint illetékes járási hivatalnál is bejelentheti a nyilvántartott adatai változását, megteheti vagy visszavonhatja a korlátozó nyilatkozatát.”

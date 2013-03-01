@@ -1,3 +1,3 @@
-## 32. §[^15]
+## 32. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet 35. §-a a következő (5) bekezdéssel egészül ki:
 
-[^15]: A 32. § a 72. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
+## „(5) A címjogosult és a postafiók bérlője a bejelentett értesítési cím törlését kérheti a nyilvántartásból, ha a cím (címhely vagy postafiók) értesítési címként történő nyilvántartását nem kívánja biztosítani.”
