@@ -12,7 +12,7 @@
 
 ## Határidő: 2014. június 30.
 
-## 2. A Szociális és Gyermekvédelmi Főigazgatóság létrehozásáról és egyes szociális, gyermekvédelmi intézmények átvételéről szóló 1496/2012. (XI. 13.) Korm. határozat 5. pontjában a „2013. február 15.” szövegrész helyébe a „2013. június 30.” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1088/2013. (II. 28.) Korm. határozathoz
 
@@ -105,3 +105,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
