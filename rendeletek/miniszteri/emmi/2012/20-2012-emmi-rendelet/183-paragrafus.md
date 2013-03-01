@@ -1,4 +1,4 @@
-## 180–182. §[^19]
+## 182. § A Hídprogram megszervezése az adott megyében, főváros esetén kerületben legalább nyolc tanuló igénye esetén a Központ megyeközponti tankerületének a feladata. Amennyiben a Híd I. vagy Híd II. programban a jelentkezők vagy a program megismétlésére – az évfolyam megismétlésére vonatkozó szabályok szerint – kötelezettek létszáma nem éri el a nyolc főt, a kormányhivatal gondoskodik a tankötelezettség teljesítéséről.
 
 ## XX. Fejezet
 
@@ -41,5 +41,3 @@ e) a köznevelésben a tanulók tehetséggondozása érdekében a művészeti te
 f) az alapító okirata szerint nevelési-oktatási tevékenység végzésre jogosult, továbbá nevelési-oktatási intézményt fenntartó, Magyarországon bejegyzett belföldi székhelyű jogi személy
 
 hirdethet meg.
-
-[^19]: A 180–182. § a 192. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
