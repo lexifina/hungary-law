@@ -1,3 +1,5 @@
 ## 16. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-82. §
+82. § (1) A menedékjogról szóló 2007. évi LXXX. törvény 87. § (1) bekezdés h) pontjában a „hatóság” szövegrész helyébe a „szerv és az állampolgársági ügyekért felelős miniszter” szöveg lép.
+
+(2) A menedékjogról szóló 2007. évi LXXX. törvény 87. § (2) bekezdésében az „– az érintett természetes személyazonosító adatainak, családi állapotának és amennyiben házas vagy bejegyzett élettárs, a házasságkötése vagy a bejegyzett élettársi kapcsolata létesítési helyének, valamint kijelölt szálláshelye címének közlésével a nyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából –” szövegrész helyébe az „– a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével –” szöveg lép.

@@ -1,0 +1,1 @@
+23. § Az illetékekről szóló 1990. évi XCIII. törvény Melléklet „IX. Egyes okmányok kiadásával kapcsolatos eljárások illetéke” Fejezet, „II. Személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával kapcsolatos eljárás illetéke” cím 2. pont b) alpontjában a „70.” szövegrész helyébe a „65.” szöveg lép.

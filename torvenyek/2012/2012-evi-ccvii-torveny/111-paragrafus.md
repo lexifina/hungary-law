@@ -1,3 +1,3 @@
 ## 21. Az egyes honvédelmi kötelezettségek teljesítéséről, az azokkal kapcsolatos katonai igazgatási feladatokról, a hadköteles nyilvántartás vezetése, a gazdasági és anyagi szolgáltatások biztosítása érdekében teljesítendő adatszolgáltatásokról és a honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelésről szóló 2011. évi CLXXVII. törvény módosítása
 
-111. §
+111. § Az egyes honvédelmi kötelezettségek teljesítéséről, az azokkal kapcsolatos katonai igazgatási feladatokról, a hadköteles nyilvántartás vezetése, a gazdasági és anyagi szolgáltatások biztosítása érdekében teljesítendő adatszolgáltatásokról és a honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelésről szóló 2011. évi CLXXVII. törvény 10. § (6) bekezdésében, 11. § (5) bekezdésében, 14. § (1) bekezdés c) pontjában és 16. § a) pontjában az „ügyekért felelős miniszter” szövegrész helyébe az „ügyekben eljáró szerv” szöveg lép.
