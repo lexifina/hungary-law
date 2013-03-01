@@ -10,7 +10,9 @@
 
 (4) A polgár lakcím adata: bejelentett lakóhelyének, illetve tartózkodási helyének címe (a továbbiakban együtt: lakcím).
 
-(5)
+(5) A polgár értesítési címe: az a cím (címhely, postafiók vagy postai szolgáltató hely), amelyet kapcsolattartásra szolgáló elérhetősége céljából a lakcímén kívül a polgár bejelentett.
+
+(5a) Szállásadó: az a személy, aki jogosult egy természetes személynek valamely lakás vagy lakás céljára szolgáló egyéb helyiség használatát biztosítani.
 
 (6) A személyazonosító jel: a nyilvántartás hatálya alá tartozó polgárok egyedi azonosítására szolgáló, matematikai módszerrel, e törvény mellékletében leírt módon képzett kódjel.
 
@@ -22,10 +24,18 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 
 (8) A személyazonosító igazolvány: olyan hatósági igazolvány, amely a polgár személyazonosságát és az e törvényben meghatározott adatait közhitelűen igazolja.
 
-(9) A nyilvántartás alapiratai: azok az iratok, amelyek alapján a polgár személyi és lakcím adatait és azokban bekövetkezett változásokat a nyilvántartásba felvették.
+(9) A nyilvántartás alapiratai: azok az iratok, amelyek alapján a polgár személyi, lakcím és értesítési cím adatait és azokban bekövetkezett változásokat a nyilvántartásba felvették.
 
 (10) Archív adatok: azok az adatok, amelyek a polgár adatainak változása miatt már nem részei az aktuális és a történeti adatállománynak, továbbá azok a korábbi alapiratok, amelyek a nyilvántartás alapját képezték.
 
 (11) Személyi azonosító: a nyilvántartás hatálya alá tartozó polgárt törvényben meghatározott adatkezelés során egyértelműen azonosító, különleges adatra nem utaló – külön törvényben meghatározott módon képzett – számjegysor.
 
 (12) Okmányazonosító: a személyi azonosítót és a lakcímet igazoló hatósági igazolvány nyomtatványnak, illetőleg a személyazonosító igazolvány nyomtatványának azonosítására alkalmazott jel.
+
+(13) A polgár aláírása: születési vagy házassági családi és utónevének az általa használt és elismert írásképe.
+
+(14) A polgár anyja neve: a polgár anyja születési családi és utóneve.
+
+(15) Címjogosult: az a személy, aki az értesítési címként megadott címhely tekintetében az (5a) bekezdés értelmében szállásadónak minősül.
+
+(16) Értesítési cím bejelentése: az értesítési cím nyilvántartásba vételének első alkalommal történő igénylése, a bejelentett értesítési cím megújítása, megváltoztatásának vagy törlésének kérése.

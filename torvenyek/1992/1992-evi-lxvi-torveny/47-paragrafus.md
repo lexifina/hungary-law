@@ -1,6 +1,6 @@
 47. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben állapítsa meg
 
-a) a személyi adat- és lakcímnyilvántartási, lakcímmegállapítási és lakcímbejelentési eljárásnak, a nyilvántartás vezetésének és az adatszolgáltatásnak részletes, valamint a személyi igazolvány kiadásának és nyilvántartásának szabályait;
+a) a személyi adat- és lakcímnyilvántartási, lakcímmegállapítási és lakcím-bejelentési eljárásnak, az értesítési cím bejelentési eljárásnak, a nyilvántartás vezetésének és az adatszolgáltatásnak részletes, valamint a személyazonosító igazolvány kiadásának és nyilvántartásának szabályait;
 
 b)
 
@@ -16,7 +16,7 @@ a) a nyilvántartás üzemeltetésével és működésével, továbbá a személ
 
 b) a nyilvántartási eljárás során használandó iratmintákat;
 
-c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért, továbbá a lakcímbejelentésről történő értesítésért fizetendő igazgatási szolgáltatási díj összegét;
+c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, az értesítési cím bejelentéséért, továbbá a lakcímbejelentésről és az értesítési cím bejelentésről történő értesítésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 
 d) az adatvédelmi felelős [30. § (2) bekezdés] feladatát és hatáskörét,
 

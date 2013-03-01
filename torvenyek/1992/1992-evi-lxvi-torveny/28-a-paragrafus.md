@@ -1,6 +1,6 @@
 ## Címnyilvántartás
 
-28/A. § (1) A központi szerv a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezeli a települési önkormányzat jegyzője által megállapított és a központi szervnek továbbított települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (a továbbiakban: címnyilvántartás).
+28/A. § (1) A nyilvántartás szervei a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezelik a települési önkormányzatok jegyzői által megállapított és nyilvántartásba vett települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (továbbiakban: címnyilvántartás).
 
 (2) A címnyilvántartás tartalmazza
 
@@ -18,13 +18,13 @@ f) az ingatlan helyrajzi számát;
 
 g) az ingatlan jellegét, technikai azonosítóját;
 
-h) a tulajdonos vagy haszonélvező szállásadó nyilatkozatát a lakcímbejelentéshez történő hozzájárulásának módjáról;
+h) a szállásadó nyilatkozatát a lakcímbejelentéshez történő hozzájárulásának módjáról;
 
-i) a tulajdonos vagy haszonélvező szállásadó nyilatkozattételének időpontját;
+i) a szállásadó nyilatkozattételének időpontját;
 
-j) a nyilatkozatot tevő tulajdonos vagy haszonélvező szállásadó személyi azonosítóját, ennek hiányában négy természetes személyazonosító adatát, továbbá értesítési címét;
+j) a nyilatkozatot tevő szállásadó személyi azonosítóját, ennek hiányában négy természetes személyazonosító adatát, továbbá értesítési címét;
 
-k) a nyilatkozatot tevő nem természetes személy tulajdonos szállásadó nevét, székhelyét;
+k) a nyilatkozatot tevő nem természetes személy szállásadó nevét, székhelyét;
 
 l) közös vagy osztatlan közös tulajdonú ingatlan esetén e tény feltüntetését;
 
@@ -34,8 +34,12 @@ n) a szállásadó nyilatkozatát arról, hogy a lakcímbejelentésről a lakcí
 
 (3) A címnyilvántartás a (2) bekezdés h) pontja szerinti szállásadói nyilatkozatot annak visszavonásáig vagy hivatalbóli törléséig tartalmazza.
 
-(4) A tulajdonos vagy haszonélvező szállásadó hozzájáruló nyilatkozatának bejegyzésekor, valamint a címre történő lakcímbejelentéskor minden esetben vizsgálni kell, hogy a címre vonatkozóan nyilatkozatot tevő szállásadó nyilatkozattételi jogosultsága fennáll-e.
+(4) A szállásadó hozzájáruló nyilatkozatának bejegyzésekor, valamint a címre történő lakcímbejelentéskor minden esetben vizsgálni kell, hogy a címre vonatkozóan nyilatkozatot tevő szállásadó nyilatkozattételi jogosultsága fennáll-e.
 
 (5) A nyilatkozattételi jogosultság fennállásának hiányában a nyilatkozat nyilvántartásba vételét el kell utasítani, illetve a nyilatkozatot a címnyilvántartásból hivatalból törölni kell.
 
-(6) A járási hivatal a tulajdonos vagy haszonélvező szállásadó nyilatkozattételi jogosultságának fennállását az ingatlan-nyilvántartásba történő betekintéssel ellenőrzi.
+(6) A járási hivatal a szállásadó nyilatkozattételi jogosultságának fennállását az ingatlan-nyilvántartásba történő betekintéssel ellenőrzi.
+
+(7) A jegyző állapítja meg az illetékességi területén lévő települési címeket.
+
+(8) A címmegállapítást a jegyző a közterület elnevezéséről, valamint a települések szétválásáról és egyesüléséről, továbbá a területátcsatolásról hozott helyi önkormányzati képviselő-testületi határozat és a telekalakítási eljárás lefolytatására hatáskörrel rendelkező ingatlanügyi hatóság vagy építésügyi hatóság ezen eljárásában hozott határozata alapján végzi.

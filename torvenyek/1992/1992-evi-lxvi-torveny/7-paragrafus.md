@@ -4,7 +4,7 @@ a) gondoskodik a járás (fővárosi kerület) területén lakcímmel rendelkez�
 
 b) végzi a polgár személyi azonosítóval történő ellátásával, annak módosításával, illetőleg visszavonásával kapcsolatos feladatokat;
 
-c) ellátja a lakcímbejelentés tudomásulvételével összefüggő hatósági feladatokat;
+c) ellátja a lakcímbejelentés és az értesítési cím bejelentése tudomásulvételével összefüggő, jogszabályban meghatározott hatósági feladatokat;
 
 d) a törvényben meghatározott feltételek fennállása esetén adatszolgáltatást teljesít a nyilvántartásból;
 

@@ -6,13 +6,15 @@
 
 (2) A nyilvántartásból adatok az alábbi csoportosítás szerint szolgáltathatók:
 
-a) név és lakcím adatok (felvilágosítás a lakcímről);
+a) név, lakcím és értesítési cím adatok (felvilágosítás a lakcímről és az értesítési címről);
 
-b) természetes személyazonosító adatok és lakcímadatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje;
+b) természetes személyazonosító adatok és lakcímadatok, értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje;
 
 c) a b) pontban felsorolt adatok és a személyazonosító jel;
 
-d) a 9. § (2) bekezdés p) pontja kivételével a nyilvántartásba felvett adatok teljes köre.
+d) a 9. § (2) bekezdés p) pontja kivételével a nyilvántartásba felvett adatok teljes köre;
+
+e) természetes személyazonosító adatok és állampolgárság.
 
 (3) A nyilvántartás szervei a 11. § (1) és (4) bekezdésében meghatározott adatokat — a 2. § (5) bekezdésében foglalt feltételekkel — statisztikai célra felhasználhatják és azokat nyilvánosságra hozhatják.
 

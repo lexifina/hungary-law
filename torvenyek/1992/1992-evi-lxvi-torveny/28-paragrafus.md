@@ -1,3 +1,3 @@
-28. § (1) Magyarország területét a külföldi letelepedés szándékával elhagyó magyar vagy – a nyilvántartás hatálya alá tartozó – külföldi állampolgár, vagy hontalan személy lakcím ügyében a lakóhely szerint illetékes járási hivatal jár el.
+28. § (1) A külföldi letelepedési nyilatkozattal összefüggő lakcím ügyben az a járási hivatal jár el, amelynél az eljárást az ügyfél megindítja, a konzuli tisztviselőnél megindított eljárásban az érintett polgár lakó- vagy tartózkodási helye szerint illetékes járási hivatal jár el.
 
-(2) Az (1) bekezdés esetén a magyar állampolgár – külföldi letelepedési szándékának bejelentésével egyidejűleg – a járási hivatalnak nyilatkozik arról, kívánja-e, hogy a nyilvántartás továbbra is tartalmazza adatait.
+(2) A külföldi letelepedési nyilatkozatot előterjesztő magyar állampolgár – külföldi letelepedési szándékának bejelentésével egyidejűleg – a járási hivatalnak nyilatkozik külföldi lakóhelyének címéről.

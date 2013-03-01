@@ -4,6 +4,6 @@
 
 (3) Adatszolgáltatás helyett a kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartás illetékes szerve az általa megjelölt személyt, személyi kört keresse meg és
 
-a) kérje írásos hozzájárulását ahhoz, hogy név- és lakcímadataikat a kérelmező rendelkezésére bocsáthassa, vagy
+a) kérje írásos hozzájárulását ahhoz, hogy név, lakcím és értesítési cím adatait a kérelmező rendelkezésére bocsáthassa, vagy
 
 b) arról értesítse, hogy a kérelmezőt közvetlenül keresse meg, ha vele a kapcsolatot fel kívánja venni.

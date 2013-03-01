@@ -6,26 +6,42 @@ a) Magyarország területén élő magyar állampolgárok, a bevándorolt és a 
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat Magyarország területén gyakorolják,
 
-c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
+c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) és (3a) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
 
 d) – e törvényben meghatározott esetekben – a külföldön élő magyar állampolgárok.
 
-(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgár adatai az állampolgársági ügyekben eljáró szerv értesítése alapján hivatalból szerepelnek a nyilvántartásban.
+(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) és (3a) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgár adatai az állampolgársági ügyekben eljáró szerv értesítése alapján hivatalból szerepelnek a nyilvántartásban.
 
 (2a) A külföldön élő magyar állampolgár adatai a nyilvántartásban akkor szerepelnek, ha
 
-a) Magyarország területén kívül élő állampolgár kéri adatai nyilvántartásba való felvételét,
+a) Magyarország területén kívül élő magyar állampolgár kéri adatai nyilvántartásba való felvételét,
 
-b) Magyarország területét külföldi letelepedés szándékával elhagyó magyar állampolgár kéri meglévő adatai további kezelését, vagy
+b) a magyar állampolgár bejelenti külföldi letelepedésre vonatkozó szándékát,
 
-c) az (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot szerez.
+c) az (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot szerez,
 
-(2b) A külföldön élő magyar állampolgárok adatait kérelmükre – az archív adatok kivételével – a nyilvántartásból törölni kell.
+d) a Magyarország területén kívül élő polgár a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a alapján nyilatkozattal magyar állampolgárságot szerez,
+
+e) a Magyarország területén kívül élő magyar állampolgár kérelmére a magyar állampolgárságról szóló 1993. évi LV. törvény alapján az állampolgársági ügyekben eljáró szerv a magyar állampolgársága fennállását igazolja, vagy
+
+f) a Magyarország területén kívül élő magyar állampolgár külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezést végző hatóság anyakönyvezi.
+
+(2b)
+
+(2c) Az állampolgársági ügyekben eljáró szerv értesítése alapján – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba
+
+a) a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a alapján magyar állampolgárságot nyilatkozattal szerzett polgár adatai, és
+
+b) azon magyar állampolgár adatai, akinek a kérelmére az állampolgársági ügyekben eljáró szerv a magyar állampolgárságról szóló 1993. évi LV. törvény alapján a magyar állampolgárság fennállását igazolja.
+
+(2d) A hazai anyakönyvezést végző hatóság értesítése alapján – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba a Magyarország területén kívül született, házasságot kötött vagy bejegyzett élettársi kapcsolatot létesített magyar állampolgár adatai, ha a külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezést végző hatóság anyakönyvezte.
 
 (3) E törvény hatálya kiterjed:
 
-a) a személyiadat- és lakcímnyilvántartási, az adatkezelési és a lakcímbejelentési eljárásra, továbbá
+a) a személyiadat- és lakcímnyilvántartási, az adatkezelési és a lakcímbejelentési eljárásra,
 
-b) a külföldön élő magyar állampolgárok, valamint a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra, továbbá
+b) a külföldön élő magyar állampolgárok, valamint a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra,
 
-c) a személyazonosítás célját szolgáló és jogosultságot igazoló egyéb okmányok kiadásával összefüggő eljárásra.
+c) a személyazonosítás célját szolgáló és jogosultságot igazoló egyéb okmányok kiadásával összefüggő eljárásra,
+
+d) az értesítési cím bejelentési eljárásra.
