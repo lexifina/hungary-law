@@ -1,3 +1,3 @@
-## 20. §[^57] A menekült, az oltalmazott jogállású személy kérelméhez csatolni kell egy darab fényképet. A fénykép hátoldalára a menekültügyi hatóság feltünteti a menekültkénti vagy az oltalmazottkénti elismerésről szóló hatósági határozat számát, továbbá a fényképnek a menekültként, az oltalmazottként elismert személlyel való azonosságát bélyegzőlenyomattal és aláírással igazolja.
+## 20. §[^61] Ha a közreműködő idegenrendészeti hatóság, illetve a közreműködő menekültügyi hatóság eljárásában a 17. § (1) bekezdése szerint a kérelmező arcképmás-felvétele nem készíthető el, a kérelmező által csatolt fénykép hátoldalára közreműködő hatóság feltünteti a kérelmező letelepedett jogállást igazoló okmányának, illetve a menekültkénti vagy az oltalmazottkénti elismerésről szóló hatósági határozatának számát, továbbá a fényképnek a letelepedett, illetve a menekültként vagy oltalmazottként elismert személlyel való azonosságát bélyegzőlenyomattal és aláírással igazolja.
 
-[^57]: A 20. § a 26/2011. (III. 10.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^61]: A 20. § a 417/2012. (XII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.

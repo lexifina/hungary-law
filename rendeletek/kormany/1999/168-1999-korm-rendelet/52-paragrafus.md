@@ -1,4 +1,4 @@
-## 51. §[^139] E kormányrendeletnek az egyszerűsített honosítási eljárással összefüggő egyes kormányrendeletek módosításáról szóló 26/2011. (III. 10.) Korm. rendelettel (a továbbiakban: 1. módosító kormányrendelet) megállapított rendelkezései az 1. módosító kormányrendelet hatálybalépése[^140] előtt kiadott okmányok érvényességét nem érinti.
+## 51. §[^148] E kormányrendeletnek az egyszerűsített honosítási eljárással összefüggő egyes kormányrendeletek módosításáról szóló 26/2011. (III. 10.) Korm. rendelettel (a továbbiakban: 1. módosító kormányrendelet) megállapított rendelkezései az 1. módosító kormányrendelet hatálybalépése[^149] előtt kiadott okmányok érvényességét nem érinti.
 
-[^139]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1210. pontja hatályon kívül helyezte, újonnan a 26/2011. (III. 10.) Korm. rendelet 21. §-a iktatta be.
-[^140]: A hatálybalépés napja: 2011. március 11.
+[^148]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1210. pontja hatályon kívül helyezte, újonnan a 26/2011. (III. 10.) Korm. rendelet 21. §-a iktatta be.
+[^149]: A hatálybalépés napja: 2011. március 11.

@@ -1,11 +1,11 @@
 ## Az eljárás részletes szabályai
 
-14. § (1)[^37] Az állandó személyazonosító igazolvány kiadására irányuló eljárás a 28/A. §-ban meghatározott kivétellel kérelemre indul.
+14. § (1)[^42] Az állandó személyazonosító igazolvány kiadására irányuló eljárás a 28/A. §-ban meghatározott kivétellel kérelemre indul.
 
-(2)[^38] A személyazonosító igazolvány kiadását Magyarországon született újszülött magyar állampolgár részére első ízben a születést anyakönyvező anyakönyvvezetőnél a törvényes képviselő kérheti, a letelepedett a jogállás megszerzését, a menekült és az oltalmazott az elismerést követően a járási hivatalban köteles kérni.
+(2)[^43] A személyazonosító igazolvány első alkalommal történő kiadását a letelepedett a letelepedett jogállást igazoló okmányának, a menekült és az oltalmazott a menekültként vagy oltalmazottként való elismerést igazoló okiratának az átvételekor az idegenrendészeti hatóságnál, illetve a menekültügyi hatóságnál köteles kérni. Az idegenrendészeti hatóság, illetve a menekültügyi hatóság közreműködő hatóságként jár el, és a kérelmet a 23. § (1) bekezdésében meghatározott ellenőrzést követően haladéktalanul megküldi a kérelmező lakóhelye szerint illetékes járási hivatalnak.
 
-(3)[^39] Az állandó személyazonosító igazolvány kiadását a korábbi igazolvány érvényességi idejének lejártát megelőző, legfeljebb 60 napon belül lehet kérni.
+(3)[^44]
 
-[^37]: A 14. § (1) bekezdése a 223/2005. (X. 13.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
-[^38]: A 14. § (2) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 81/2012. (IV. 18.) Korm. rendelet 31. §-a, a 417/2012. (XII. 29.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
-[^39]: A 14. § (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^42]: A 14. § (1) bekezdése a 223/2005. (X. 13.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
+[^43]: A 14. § (2) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^44]: A 14. § (3) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 63. § a) pontja hatályon kívül helyezte.
