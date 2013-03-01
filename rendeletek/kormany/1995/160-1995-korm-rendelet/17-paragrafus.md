@@ -1,6 +1,6 @@
 ## A víziközmű-társulat megszűnésére vonatkozó külön rendelkezések
 
-17. § (1) Ha a víziközmű-társulat az alapszabályban meghatározott közcélú feladatait végrehajtotta, és a létrehozott közművet – szolgáltatásra alkalmas állapotban – a külön törvény szerinti tulajdonos önkormányzat részére átadta, az e rendeletben meghatározott elszámolási eljárást kell lefolytatnia.
+17. § (1)[^9] Ha a víziközmű-társulat az alapszabályban meghatározott közcélú feladatait végrehajtotta, és a létrehozott közművet – szolgáltatásra alkalmas állapotban – a külön törvény szerinti tulajdonos állam vagy települési önkormányzat részére átadta, az e rendeletben meghatározott elszámolási eljárást kell lefolytatnia.
 
 (2) Az elszámolási eljárás megindításáról a közmű átadástól számított 30 napon belül a taggyűlés határoz, és tagjai közül háromtagú elszámoló bizottságot választ.
 
@@ -16,11 +16,11 @@ a) a törvényességi felügyeletét ellátó cégbíróságnak;
 
 b) az általa létrehozott közmű helye szerint illetékes települési önkormányzatnak;
 
-c)[^9] a számláját vezető pénzforgalmi szolgáltatójának;
+c)[^10] a számláját vezető pénzforgalmi szolgáltatójának;
 
 d) a székhelye szerint illetékes adó- és vámhatóságnak, illetékhivatalnak, valamint társadalombiztosítási igazgatási szerveknek;
 
-e)[^10] a b) pont szerint illetékes vízügyi igazgatóságnak[^11].
+e)[^11] a b) pont szerint illetékes vízügyi igazgatóságnak[^12].
 
 (7) Az elszámolási eljárás megindításáról értesíteni kell továbbá a társulat hitelezőit. Az értesítésnek tartalmaznia kell
 
@@ -32,6 +32,7 @@ c) az elszámoló bizottság tagjainak nevét és címét;
 
 d) a hitelezőknek szóló felhívást, hogy követeléseiket – az érdekeltségi hozzájárulással kapcsolatos bankhitel kivételével – a közzétételtől számított 30 napon belül az elszámoló bizottságnak jelentsék be.
 
-[^9]: A 17. § (6) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^10]: [A 17. § (6) bekezdés e) pontjának a 300/2011. (XII. 22.) Korm. rendelet 27. § c) pontjával elrendelt módosítása, amely szerint a „KÖVIZIG-nek” szövegrész helyébe a „vízügyi igazgatóságnak” szöveg lép, nem vezethető át.]
-[^11]: A 269/2003. (XII. 24.) Korm. rendelet 3. §-ának (2) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIZIG-et kell érteni.
+[^9]: A 17. § (1) bekezdése az 58/2013. (II. 27.) Korm. rendelet 100. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 95. § (3) bekezdését.
+[^10]: A 17. § (6) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: [A 17. § (6) bekezdés e) pontjának a 300/2011. (XII. 22.) Korm. rendelet 27. § c) pontjával elrendelt módosítása, amely szerint a „KÖVIZIG-nek” szövegrész helyébe a „vízügyi igazgatóságnak” szöveg lép, nem vezethető át.]
+[^12]: A 269/2003. (XII. 24.) Korm. rendelet 3. §-ának (2) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIZIG-et kell érteni.
