@@ -1,0 +1,1 @@
+## 2. § Az R1. 1. mellékletében foglalt táblázat C:2 mezőjében az „általános építésügyi hatósági engedélyezési eljárások” szövegrész helyébe az „általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével)” szöveg lép.
