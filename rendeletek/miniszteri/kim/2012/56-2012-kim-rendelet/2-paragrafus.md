@@ -1,0 +1,1 @@
+## 1. § Az értesítési címnek a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba történő bejelentéséért, a bejelentett értesítési cím megváltoztatásáért, megújításáért és törléséért 300 Ft igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
