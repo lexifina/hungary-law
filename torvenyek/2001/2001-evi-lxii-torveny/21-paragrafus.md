@@ -56,7 +56,7 @@ a) a központi idegenrendészeti nyilvántartásból a kiutasításról, illető
 
 b) a személyiadat- és lakcímnyilvántartásból;
 
-c) az állampolgársági ügyben eljáró szervtől a magyar állampolgárság tekintetében;
+c) az állampolgársági ügyekben eljáró szervtől a magyar állampolgárság tekintetében;
 
 d) a központi menekültügyi nyilvántartásból a menekültkénti vagy menedékeskénti elismerésről.
 
