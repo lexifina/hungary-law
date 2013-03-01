@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-110-00-00
 | --- | --- | --- |
 | 2012-07-17 | 2012. évi CX. törvény | 2012-110-00-00.0 (közlönyállapot) |
 | 2012-07-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-110-00-00.1 |
+| 2013-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-110-00-00.2 |
