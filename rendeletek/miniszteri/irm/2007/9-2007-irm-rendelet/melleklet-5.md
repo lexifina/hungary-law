@@ -1,35 +1,29 @@
-## Sorszám:
+## 1. Sorszám:
 
 ## Magyarország címere
 
 ## BIZONYÍTVÁNY
 
-## Név:
+## 2. Név:
 
-## Születési név:
+## 3. Születési név:
 
-## Születési helye, ideje:
+## 4. Születési helye, ideje:
 
-## Anyja születési neve:
+## 5. Anyja születési neve:
 
-## ............... Kormányhivatalban működő vizsgabizottság előtt az anyakönyvi szakvizsgáról szóló 9/2007.
-
-## (III. 6.) IRM rendelet alapján ............ minősítéssel
+## 6. ............................................... Kormányhivatalban működő vizsgabizottság előtt az anyakönyvi szakvizsgáról szóló 9/2007. (III. 6.) IRM rendelet alapján ........................ minősítéssel
 
 ## ANYAKÖNYVI SZAKVIZSGÁT
 
 ## tett.
 
-## Kelt: ..................., ............... év .................. hónap ..... nap
+## Kelt: ..................................., ........ év .................................. hónap ..... nap
 
 ## P. H.
 
-## ............................................
+|  | .......................................................... vizsgabizottság elnöke |  |
 
-## vizsgabizottság elnöke
-
-| ............................................ | .................................................. |
-
-| vizsgabizottság tagja | vizsgabizottság tagja |
+| ....................................................... vizsgabizottság tagja |  | ......................................................... vizsgabizottság tagja |
 
 5. melléklet a 9/2007. (III. 6.) IRM rendelethez

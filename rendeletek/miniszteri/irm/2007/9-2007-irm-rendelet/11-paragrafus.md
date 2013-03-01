@@ -1,6 +1,6 @@
 11. § (1) A szakvizsga díja a felkészítő tanfolyam díja és a vizsgadíj együttes összege.
 
-(2)[^5] A szakvizsga díja a felkészítő tanfolyam, valamint a vizsga szervezésével és lebonyolításával kapcsolatos költségek bruttó összegének a jelöltre jutó része, amely nem haladhatja meg a mindenkori közszolgálati tisztviselői illetményalap háromszorosát. A vizsgadíj jelöltenként a mindenkori közszolgálati tisztviselői illetményalap 15%-a.
+(2)[^6] A szakvizsga díja a felkészítő tanfolyam, valamint a vizsga szervezésével és lebonyolításával kapcsolatos költségek bruttó összegének a jelöltre jutó része, amely nem haladhatja meg a mindenkori közszolgálati tisztviselői illetményalap háromszorosát. A vizsgadíj jelöltenként a mindenkori közszolgálati tisztviselői illetményalap 15%-a.
 
 (3) Az ismétlő vizsga díját a szakvizsga díján felül kell megfizetni, mértéke a vizsgadíjjal megegyezik.
 
@@ -8,4 +8,4 @@
 
 (5) A vizsgabizottság elnökét jelöltenként a vizsgadíj, valamint az ismétlő vizsga díjának 40%-a, tagjait 25-25%-a, a jegyzőkönyvvezetőt 10%-a illeti meg.
 
-[^5]: A 11. § (2) bekezdése az 54/2012. (XII. 28.) KIM rendelet 21. § b) pontja szerint módosított szöveg.
+[^6]: A 11. § (2) bekezdése az 54/2012. (XII. 28.) KIM rendelet 21. § b) pontja szerint módosított szöveg.

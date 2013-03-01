@@ -4,17 +4,17 @@
 
 ## A vizsga írásbeli részében a jelölt
 
-## a) – a születés (ezen belül családi jogállás rendezése),
+## a) a születés (ezen belül családi jogállás rendezése) anyakönyvezésével,
 
-## – a házasságkötés,
+## b) a házasságkötés anyakönyvezésével,
 
-## – a bejegyzett élettársi kapcsolat,
+## c) a bejegyzett élettársi kapcsolat anyakönyvezésével,
 
-## – a haláleset anyakönyvezésével,
+## d) a haláleset anyakönyvezésével,
 
-## b) a különböző típusú anyakönyvi okiratok kiállításával és
+## e) a különböző típusú anyakönyvi okiratok kiállításával és
 
-## c) az anyakönyvezést követő adatszolgáltatással kapcsolatos
+## f) az anyakönyvezést követő adatszolgáltatással kapcsolatos
 
 ## gyakorlati feladatokat old meg.
 
@@ -28,15 +28,15 @@
 
 ## 4. Betűrendes névmutató vezetésének szabályai
 
-## 5. Az anyakönyvvezető megbízása, feladatai, helyettesítése, kizárása
+## 5. Az anyakönyvvezető megbízása, feladatai, helyettesítése, kizárása, összeférhetetlenségi szabályok
 
 ## 6. Az anyakönyvezés helye, ideje, az anyakönyvezés elhalasztása, az anyakönyvvezető hivatali felszerelése
 
-## 7. Az alap- és utólagos bejegyzés, bejegyzésminták, az alapbejegyzést követő feladatok
+## 7. Az alap- és utólagos bejegyzés, bejegyzés minták, az alapbejegyzést követő feladatok
 
-## 8. Helységnevek, a családi állapot anyakönyvezésének szabályai
+## 8. Helységnevek, a családi állapot igazolásának és anyakönyvezésének szabályai
 
-## 9. Okirat és személyes nyilatkozat az anyakönyvi eljárásokban, külföldi okiratok elfogadhatósága
+## 9. Okirat és személyes nyilatkozat az anyakönyvi eljárásokban, külföldi okiratok elfogadhatósága (hiteles fordítások, Apostille és diplomáciai felülhitelesítés)
 
 ## 10. A felettes szerv feladatai az anyakönyvi igazgatás területén
 
@@ -46,7 +46,7 @@
 
 ## 13. Jogképesség, cselekvőképesség, törvényes képviselet, gyámság, gondnokság
 
-## 14. Születés bejelentése és anyakönyvezése (apaság vélelme, apa adatai nélkül anyakönyvezett születések nyilvántartása, képzelt apa megállapítása)
+## 14. Születés bejelentése és anyakönyvezése (az intézeten kívüli születés bejelentése, apaság vélelme, apa adatai nélkül anyakönyvezett születések nyilvántartása, képzelt apa megállapítása, emberi reprodukciós eljárások)
 
 ## 15. Teljes hatályú apai elismerő nyilatkozat
 
@@ -54,15 +54,15 @@
 
 ## 17. Ismeretlen szülőktől származó gyermek anyakönyvezése
 
-## 18. Örökbefogadás (örökbefogadás tényének feljegyzése és a vér szerinti örökbefogadás), az örökbefogadás megszűnése
+## 18. Örökbefogadás (örökbefogadás tényének feljegyzése és a vér szerinti örökbefogadás), az örökbefogadás megszűnése, a származás megismeréséhez való jog
 
 ## 19. Házasságkötést megelőző eljárás, elhárítható és el nem hárítható házassági akadályok, a házasság érvénytelensége és nemlétezése
 
-## 20. Külföldiek házasságkötése Magyarországon
+## 20. Külföldiek házasságkötése Magyarországon, a házassági tanúsítvány
 
-## 21. Magyar állampolgár házasságkötése külföldön, a házassági tanúsítvány
+## 21. Magyar állampolgár házasságkötése külföldön
 
-## 22. A házasság megkötése és anyakönyvezése
+## 22. A házasság megkötése és anyakönyvezése (házasságkötő termen kívül és munkaidőn túl megkötött házasság)
 
 ## 23. Házasságkötés közeli halállal fenyegető állapot esetén
 
@@ -88,13 +88,13 @@
 
 ## 34. Utólagos és újbóli anyakönyvezés
 
-## 35. Hazai anyakönyvezés
+## 35. Hazai anyakönyvezés (története, a kérelem átvétele, felterjesztése, csatolandó mellékletek, hatásköri szabályok)
 
-## 36. Névviselés, névváltoztatás (születési és házassági név, miniszteri névváltoztatás, házassági névviselési forma módosítása, nemzetiségi névviselés)
+## 36. Névviselés, névváltoztatás (anyakönyvezhető utónevek, születési és házassági név, miniszteri névváltoztatás, házassági névviselési forma módosítása, nemzetiségi névviselés, a nem- és az ezzel összefüggő utónévváltozás)
 
-## 37. Anyakönyvi okiratok típusai, a kiállításra vonatkozó szabályok, külföldi okiratokra vonatkozó szabályok, anyakönyvi okiratok beszerzése külföldről
+## 37. Anyakönyvi okiratok típusai, a kiállításra vonatkozó szabályok, anyakönyvi okiratok beszerzése külföldről
 
-## 38.[^8] Az anyakönyvi adatszolgáltatások (gyámhatóság, levéltár, más anyakönyvvezető, járási (fővárosi kerületi) hivatal, idegenrendészeti és menekültügyi hatóság, külképviseletek)
+## 38. Az anyakönyvi adatszolgáltatások (gyámhatóság, levéltár, más anyakönyvvezető, járási (fővárosi kerületi) hivatal, idegenrendészeti hatóság és menekültügyi hatóság, külképviseletek)
 
 ## 39. Statisztikai adatszolgáltatás
 
@@ -102,7 +102,7 @@
 
 ## 41. Külföldiek anyakönyvezésére vonatkozó speciális szabályok
 
-## 42. A nemzetközi magánjogi szabályok alkalmazása az anyakönyvi igazgatásban
+## 42. A nemzetközi magánjogi szabályok alkalmazása az anyakönyvi igazgatásban (a nemzetközi magánjog fogalma, személyes jog fogalma, a többes állampolgárokra, a menekültekre és hontalanokra vonatkozó rendelkezések, a külföldi elemet tartalmazó házasságkötésekre vonatkozó szabályok, a külföldön történt örökbefogadások magyarországi elismerésére vonatkozó szabályok, egyéb, magyar állampolgárokat érintő külföldi határozatok elismerésére vonatkozó szabályok)
 
 ## 43. A magyar állampolgárság keletkezése, megszerzése
 
@@ -112,18 +112,16 @@
 
 ## 46. Az állampolgársági eljárásban részt vevő szervek és feladataik
 
-## 47. Az anyakönyvvezető feladatai az állampolgársági kérelmekkel kapcsolatosan
+## 47. Az anyakönyvvezető állampolgársági esküvel/fogadalommal kapcsolatos feladatai, az állampolgársági ügyekkel kapcsolatos adatszolgáltatások
 
-## 48. Névmódosítási kérelem a honosítási eljárásban
+## 48. Névmódosítási kérelem a honosítási eljárásban (családi név, utónév, házassági név, anyja születési neve)
 
-## 49. A polgárok személyi adatainak és lakcímének nyilvántartásával kapcsolatos anyakönyvvezetői feladatok
+## 49. A polgárok személyi adatainak és lakcímének nyilvántartása (a nyilvántartás személyi hatálya, adatforrások, az anyakönyvvezető feladatai a nyilvántartás vezetésével kapcsolatosan)
 
 ## 50. Személyes adatok védelme, közérdekű adatok nyilvánossága, anyakönyvi iratok megtekintése
 
-## 51. Az Anyakönyvi Szolgáltató Rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok stb.)
+## 51. Az Anyakönyvi Szolgáltató Rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, biankó okiratok megrendelése, levelező és fórum használata)
 
 ## 52. Illeték- és díjfizetési szabályok az anyakönyvi és házasságkötési eljárásokban
 
 3. melléklet a 9/2007. (III. 6.) IRM rendelethez
-
-[^8]: A 2. melléklet 38. pontja az 54/2012. (XII. 28.) KIM rendelet 21. § d) pontja szerint módosított szöveg.
