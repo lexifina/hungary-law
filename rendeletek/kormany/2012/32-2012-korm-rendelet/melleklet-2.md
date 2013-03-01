@@ -28,7 +28,7 @@
 
 | 13. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^3]
+2. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^6]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -62,4 +62,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 14. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^3]: A 2. melléklet a 70/2012. (IV. 11.) Korm. rendelet 2. §-a, a 394/2012. (XII. 20.) Korm. rendelet 56. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 70/2012. (IV. 11.) Korm. rendelet 2. §-a, a 394/2012. (XII. 20.) Korm. rendelet 56. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 1/A. §[^1] Az 1. § (1) bekezdésében meghatározott beruházás hivatalos közbeszerzési tanácsadója, beruházáslebonyolítója és építési műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
+## 1/B. §[^2] Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-[^1]: Az 1/A. §-t a 70/2012. (IV. 11.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1/B. §-t a 61/2013. (II. 28.) Korm. rendelet 3. §-a iktatta be.
