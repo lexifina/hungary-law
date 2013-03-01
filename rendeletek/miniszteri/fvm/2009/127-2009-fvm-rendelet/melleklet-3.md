@@ -240,6 +240,6 @@
 
 ## Hegyközségi tag / Adatszolgáltató aláírása
 
-3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^139]
+3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^142]
 
-[^139]: A 3. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^142]: A 3. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (3) bekezdésével megállapított szöveg.

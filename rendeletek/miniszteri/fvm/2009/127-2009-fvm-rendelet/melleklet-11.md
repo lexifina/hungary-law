@@ -198,6 +198,6 @@
 
 |  |  |  |  |  | P.H. | Hegybíró aláírása” |
 
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^147]
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^150]
 
-[^147]: A 11. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (7) bekezdésével megállapított szöveg.
+[^150]: A 11. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (7) bekezdésével megállapított szöveg.

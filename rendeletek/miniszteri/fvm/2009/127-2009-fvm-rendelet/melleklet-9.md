@@ -54,6 +54,6 @@
 
 |  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^145]
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^148]
 
-[^145]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^148]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított szöveg.

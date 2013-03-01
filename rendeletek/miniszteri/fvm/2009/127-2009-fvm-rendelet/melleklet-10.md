@@ -70,6 +70,6 @@
 
 ## A hegybíró aláírása
 
-10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^146]
+10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^149]
 
-[^146]: A 10. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^149]: A 10. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (6) bekezdésével megállapított szöveg.

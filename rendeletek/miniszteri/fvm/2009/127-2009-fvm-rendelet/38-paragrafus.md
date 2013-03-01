@@ -1,13 +1,15 @@
 ## A forgalomba hozatali engedély igénylése
 
-## 38. § A borászati hatóság részére benyújtott forgalomba hozatali engedély iránti kérelem mellé a forgalomba hozónak csatolnia kell:
+38. §[^75] (1) A forgalomba hozatali engedélyt a NÉBIH honlapján szerkeszthető formában közzétett kérelem benyújtásával kell kérelmezni.
+
+(2) Az (1) bekezdésben meghatározott kérelem mellé a forgalomba hozónak csatolnia kell:
 
 a) a bor származási bizonyítványát,
 
-b)[^75] a 31. § (4) bekezdésének b) pontjában meghatározott mintákat vagy a 37. §-ban előírt analitikai vizsgálatokról szóló jegyzőkönyvet, és
+b) a 31. § (4) bekezdésének b) pontjában meghatározott mintákat vagy a 37. §-ban előírt analitikai vizsgálatokról szóló jegyzőkönyvet, és
 
-c) OEM- vagy OFJ-bor esetén a HBB titkára által kiadott, a bor érzékszervi vizsgálaton való részvételét tanúsító jegyzőkönyvet. Amennyiben ez a „nem felelt meg” minősítést tartalmazza, úgy az OBB elnöke által kiadott jegyzőkönyvet is mellékelni kell,
+c) OEM- vagy OFJ-borászati termék esetén a HBB titkára által kiadott, a borászati termék érzékszervi vizsgálaton való részvételét tanúsító határozat eredeti példányát. Amennyiben ez a „nem felelt meg” minősítést tartalmazza, úgy az OBB elnöke által kiadott jegyzőkönyvet is csatolni kell
 
-d) FN-bor esetén a 31. § (5) bekezdésének a) pontjában meghatározott mintákat.
+(3) A borászati hatóság a forgalomba hozatali engedély iránti kérelemhez kapcsolódó minták leadásakor közli a forgalomba hozóval a forgalomba hozatali engedély négy karakterből álló azonosítóját.
 
-[^75]: A 38. § b) pontja a 64/2010. (V. 12.) FVM rendelet 10. §-ával megállapított szöveg.
+[^75]: A 38. § a 128/2012. (XII. 14.) VM rendelet 17. §-ával megállapított szöveg.

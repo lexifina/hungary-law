@@ -62,6 +62,6 @@
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^141]
+5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^144]
 
-[^141]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^144]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.

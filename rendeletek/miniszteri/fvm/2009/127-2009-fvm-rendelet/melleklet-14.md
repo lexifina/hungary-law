@@ -34,6 +34,6 @@
 
 ## (HBB titkárának aláírása)
 
-14. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^150]
+14. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^153]
 
-[^150]: A 14. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 128/2012. (XII. 14.) VM rendelet 30. § (8) és (11) bekezdése szerint módosított szöveg.
+[^153]: A 14. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 128/2012. (XII. 14.) VM rendelet 30. § (8) és (11) bekezdése szerint módosított szöveg.
