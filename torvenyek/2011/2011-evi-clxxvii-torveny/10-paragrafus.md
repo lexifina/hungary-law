@@ -22,7 +22,7 @@ d) a hadköteles nyilvántartásban lévőkről adataik megváltozását követ�
 
 (5) A rehabilitációs szakértői szerv az (1) bekezdés szerinti személy legalább 36%-ot elérő munkaképesség-csökkenéséről, valamint a legalább 29%-ot elérő egészségkárosodásáról minden év január 31. napjáig szolgáltat adatot.
 
-(6) Az állampolgársági ügyekért felelős miniszter az állampolgárságról való lemondásról minden év január 31. napjáig szolgáltat adatot.
+(6) Az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról minden év január 31. napjáig szolgáltat adatot.
 
 (7) A Honvédség központi személyügyi szerve, valamint a rendvédelmi szervek a hivatásos, szerződéses, vagy önkéntes tartalékos állományba felvettekről, valamint szolgálati viszonyuk megszűnéséről a hadkötelezettség fennállása idején a rájuk vonatkozó behívhatósági korhatárig minden hónap 5. napjáig szolgáltat adatot.
 

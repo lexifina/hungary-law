@@ -4,7 +4,7 @@ a) a személyiadat- és lakcímnyilvántartás központi szerve, a 10. § (2) be
 
 b) a rendvédelmi szerv az állományában hivatásos szolgálatot teljesítők 10. § (4) bekezdésben meghatározott adatairól,
 
-c) az állampolgársági ügyekért felelős miniszter a 10. § (6) bekezdésében meghatározott adatokról,
+c) az állampolgársági ügyekért ügyekben eljáró szerv a 10. § (6) bekezdésében meghatározott adatokról,
 
 d) a Honvédség központi személyügyi szerve, valamint a rendvédelmi szerv a 11. § (7) bekezdése szerinti adatokról,
 

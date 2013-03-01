@@ -6,4 +6,4 @@
 
 (4) A személyiadat- és lakcímnyilvántartás központi szerve a hadköteles nyilvántartásban nyilvántartott adatok pontosításához adatot szolgáltat az (1) bekezdés szerinti személy elhalálozásáról minden hónap 5. napjáig.
 
-(5) Az állampolgársági ügyekért felelős miniszter az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
+(5) Az állampolgársági ügyekért ügyekben eljáró szerv az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
