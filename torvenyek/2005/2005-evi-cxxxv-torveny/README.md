@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-135-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2005-135-00-00.10 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 2005-135-00-00.11 |
 | 2013-01-01 | 2012. évi CLXXXI. törvény | 2005-135-00-00.12 |
+| 2013-03-01 | 2012. évi CCVII. törvény | 2005-135-00-00.13 |

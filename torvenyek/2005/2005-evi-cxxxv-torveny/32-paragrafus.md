@@ -20,7 +20,7 @@ g) azt, hogy az áldozat ellen a 8. § h) pontjában meghatározott bűncselekm�
 
 a) a jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő kérelmező kivételével a jövedelemre vonatkozó igazolást,
 
-b) a testi épség, egészség súlyos károsodását igazoló szakértői véleményt vagy orvosi dokumentumokat, vagy a halotti anyakönyvi kivonatot.
+b) a testi épség, egészség súlyos károsodását igazoló szakértői véleményt vagy orvosi dokumentumokat.
 
 (3) Egyösszegű kárenyhítés iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a kár mértékét igazoló iratokat (pl. számla, nyugta vagy más bizonylat) is.
 
