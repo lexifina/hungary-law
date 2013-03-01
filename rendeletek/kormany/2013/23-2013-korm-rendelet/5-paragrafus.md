@@ -1,0 +1,1 @@
+## „(11) „Tudományos és Technológiai Park” címre pályázhat az az „Ipari Park” címmel rendelkező szervezet vagy az (1) bekezdésben meghatározott Pályázó, amelynek fennálló együttműködési vagy kutatási szerződése van egyetemmel, főiskolával vagy akadémiai intézettel és a park területére betelepült vállalkozások közül legalább három együttműködik K+F+I tevékenység végzésében.”
