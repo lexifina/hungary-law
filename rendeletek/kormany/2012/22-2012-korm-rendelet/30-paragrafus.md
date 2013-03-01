@@ -1,6 +1,6 @@
 ## 11. Az erdészeti hatósági eljárásokban közreműködő szakhatóságok
 
-30. § (1)[^11] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett adatbázisban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
+30. § (1)[^12] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett adatbázisban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló másodfokú eljárásban,
 
@@ -104,4 +104,4 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó másodfok�
 
 g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
 
-[^11]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^12]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a szerint módosított szöveg.

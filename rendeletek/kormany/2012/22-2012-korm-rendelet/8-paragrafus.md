@@ -36,9 +36,10 @@ db) az eszközök NÉBIH, valamint a megyei kormányhivatalok mezőgazdasági sz
 
 (13) A NÉBIH ellátja a növényvédő szerek forgalomba hozataláról valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló az Európai Parlament és a Tanács 1107/2009/EK rendelet 75. cikk (1) bekezdés szerinti hatáskörrel rendelkező hatósági, és (2) bekezdés szerinti nemzeti koordináló hatósági feladatokat.
 
-(14) Az évente befolyt felügyeleti díjnak az Éltv. 47/B. § (10) bekezdése szerint fejlesztésre fordítandó 10%-a a NÉBIH bevétele. A felügyeleti díj bevétel fennmaradó összegének 40%-a a NÉBIH bevétele, 60%-át a Nemzeti Államigazgatási Központ részére tovább kell utalni.
+(14)[^7] Az évente befolyt felügyeleti díjnak az Éltv. 47/B. § (10) bekezdése szerint fejlesztésre fordítandó 10%-a a NÉBIH bevétele. A felügyeleti díj bevétel fennmaradó összegének 40%-a a NÉBIH bevétele, 60%-át a Közigazgatási és Igazságügyi Hivatal részére tovább kell utalni.
 
 (15) Az Éltv. 47/B. § (11) bekezdése szerinti beszámoló elkészítése érdekében a fővárosi és megyei kormányhivatal mezőgazdasági szakigazgatási szerve beszámolót készít, amelyet a tárgyévet követő év március 15-éig köteles a NÉBIH-nek megküldeni.
 
 [^5]: A 8. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 90. § a) pontja szerint módosított szöveg.
 [^6]: A 8. § (8) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
+[^7]: A 8. § (14) bekezdése az 56/2013. (II. 27.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
