@@ -12,7 +12,7 @@
 
 (7)[^8] Az Ebtv. 23. §-ának e) pontja alkalmazásában akkor minősül a beutalási rendtől eltérőnek az ellátás igénybevétele, ha arra nem a beutalón megnevezett egészségügyi szolgáltatónál kerül sor.
 
-(8)[^9] A kötelező egészségbiztosítás ellátásai keretébe nem tartozó és a 2. számú mellékletben nem szereplő egészségügyi szolgáltatások térítési díját az egészségügyi szolgáltató az 1. § rendelkezéseinek figyelembevételével állapítja meg azzal, hogy a biztosított járványügyi érdekből nem kötelező jelleggel történő immunizálásáért magasabb összegű térítési díj nem állapítható meg annál, mint amit a biztosítottnak a védőoltás oltóanyagáért egyébként térítési díjként meg kell fizetnie.
+(8)[^9] A kötelező egészségbiztosítás ellátásai keretébe nem tartozó és a 2. számú mellékletben nem szereplő egészségügyi szolgáltatások térítési díját az egészségügyi szolgáltató az 1. § rendelkezéseinek figyelembevételével állapítja meg, azzal, hogy a pneumococcus és az influenza megbetegedés elleni immunizálásért nem kérhető térítési díj.
 
 (9)[^10] A 2. számú melléklet 13. pontjának alkalmazásában az egyes egészségügyi osztályok alatt a polgári légi közlekedési szakszolgálati engedélyek egészségügyi feltételeiről szóló miniszteri rendelet 11. §-ának (1) bekezdésében meghatározott egészségügyi osztályokat kell érteni.
 
@@ -24,6 +24,6 @@
 [^6]: A 2. § (5) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdés d) pontja hatályon kívül helyezte.
 [^7]: A 2. § új (4) bekezdését a 16/2007. (II. 13.) Korm. rendelet 9. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. A (4) bekezdés számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (6) bekezdésre változtatta.
 [^8]: A 2. § új (5) bekezdését a 41/2007. (III. 13.) Korm. rendelet 18. §-a iktatta be, egyidejűleg az eredeti (5) bekezdésének számozását (6) bekezdésre változtatta. Az (5) bekezdés számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (7) bekezdésre változtatta.
-[^9]: A 2. § (6) – eredeti (3) – bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (8) bekezdésre változtatta. A (8) bekezdés a 235/2008. (IX. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § (6) – eredeti (3) – bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (8) bekezdésre változtatta. A 2. § (8) bekezdése a 35/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^10]: A 2. § (9) bekezdését a 173/2007. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (13) bekezdése szerint módosított szöveg.
 [^11]: A 2. § (10) bekezdését a 235/2008. (IX. 23.) Korm. rendelet 2. §-a iktatta be.
