@@ -1,1 +1,0 @@
-A fogyasztóvédelemről szóló 1997. évi CLV. törvény 56/A. §-ának (2) bekezdésében kapott felhatalmazás alapján az ifjúsági, családügyi, szociális és esélyegyenlőségi miniszterrel, a gazdasági és közlekedési miniszterrel, valamint az egészségügyi miniszterrel egyetértésben a következőket rendelem el:
