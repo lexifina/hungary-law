@@ -4,7 +4,7 @@ a) a polgárok személyiadat- és lakcímnyilvántartásából,
 
 b) az anyakönyvi nyilvántartásokból,
 
-c) az állampolgársági eljárásra jogosult hatóságtól,
+c) az állampolgársági ügyekben eljáró szervtől,
 
 d) a központi idegenrendészeti nyilvántartásból,
 
