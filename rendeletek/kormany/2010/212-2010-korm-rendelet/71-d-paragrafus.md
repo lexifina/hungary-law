@@ -1,4 +1,4 @@
-## 71/D. §[^258] A miniszter az egyházakkal való kapcsolattartás koordinációjáért való felelőssége körében
+## 71/D. §[^259] A miniszter az egyházakkal való kapcsolattartás koordinációjáért való felelőssége körében
 
 a) összehangolja a Kormány egyházi kapcsolattartással összefüggő feladatait, irányítja az ezzel összefüggő stratégiai kérdések végrehajtását,
 
@@ -34,4 +34,4 @@ p) koordinálja az Új Széchenyi Terv egyházakkal összefüggő projektjeit,
 
 q) ellátja a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvényben az egyházakkal és az egyházak nyilvántartásával kapcsolatban a hatáskörébe tartozó feladatokat.
 
-[^258]: A 71/D. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
+[^259]: A 71/D. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
