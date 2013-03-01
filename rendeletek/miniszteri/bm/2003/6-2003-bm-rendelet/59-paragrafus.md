@@ -2,7 +2,7 @@
 
 ## Az alapbejegyzést követő feladatok
 
-59. § (1)[^125] Az anyakönyvvezető a születés, a házasságkötés, a bejegyzett élettársi kapcsolat és a haláleset anyakönyvezése után
+59. § (1)[^135] Az anyakönyvvezető a születés, a házasságkötés, a bejegyzett élettársi kapcsolat és a haláleset anyakönyvezése után
 
 a) kiadja az illetékmentes anyakönyvi kivonatot;
 
@@ -18,7 +18,7 @@ a) bejegyzi az általa vezetett születési anyakönyv ,,Utólagos bejegyzések'
 
 b) bejegyzi az általa vezetett házassági anyakönyv ,,Utólagos bejegyzések'' rovatába a házasság megszűnését;
 
-c)[^126] bejegyzi az általa vezetett bejegyzett élettársi kapcsolatok anyakönyvének „Utólagos bejegyzések” rovatába a bejegyzett élettársi kapcsolat megszűnését.
+c)[^136] bejegyzi az általa vezetett bejegyzett élettársi kapcsolatok anyakönyvének „Utólagos bejegyzések” rovatába a bejegyzett élettársi kapcsolat megszűnését.
 
-[^125]: Az 59. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 29. pontja szerint módosított szöveg.
-[^126]: Az 59. § (3) bekezdés c) pontját a 14/2009. (VI. 3.) IRM rendelet 27. §-a iktatta be.
+[^135]: Az 59. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 29. pontja szerint módosított szöveg.
+[^136]: Az 59. § (3) bekezdés c) pontját a 14/2009. (VI. 3.) IRM rendelet 27. §-a iktatta be.

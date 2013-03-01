@@ -1,4 +1,4 @@
-67/B. §[^145] (1) Az anyakönyvvezető az egyik fél halálát a bejegyzett élettársi kapcsolatok anyakönyvének „Utólagos bejegyzések” rovatába jegyzi be, ha a bejegyzett élettársi kapcsolat e fél halálával szűnt meg.
+67/B. §[^155] (1) Az anyakönyvvezető az egyik fél halálát a bejegyzett élettársi kapcsolatok anyakönyvének „Utólagos bejegyzések” rovatába jegyzi be, ha a bejegyzett élettársi kapcsolat e fél halálával szűnt meg.
 
 (2) A magyar állampolgár fél külföldön történt halálesetének utólagos bejegyzése a hazai anyakönyvezést végző anyakönyvvezető értesítése alapján történik.
 
@@ -16,4 +16,4 @@ d) a halálesetet nyilvántartó anyakönyvvezető megnevezését, ha a bejegyze
 
 (5) A felek halálát, valamint születési nevük megváltozását nem kell bejegyezni az anyakönyvbe, ha a bejegyzett élettársi kapcsolat már korábban megszűnt.
 
-[^145]: A 67/B. §-t a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.
+[^155]: A 67/B. §-t a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.

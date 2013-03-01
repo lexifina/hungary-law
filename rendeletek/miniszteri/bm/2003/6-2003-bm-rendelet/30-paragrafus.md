@@ -1,6 +1,6 @@
 ## A külföldi helységnév anyakönyvezése
 
-30. §[^62] (1) Ha a külföldi helység az anyakönyvi esemény időpontjában Magyarország területéhez tartozott, akkor a település nevét a hivatalos magyar elnevezéssel kell anyakönyvezni.
+30. §[^64] (1) Ha a külföldi helység az anyakönyvi esemény időpontjában Magyarország területéhez tartozott, akkor a település nevét a hivatalos magyar elnevezéssel kell anyakönyvezni.
 
 (2) Ha a külföldi helység az anyakönyvi esemény időpontjában nem Magyarország területéhez tartozott, de a külföldi helységnek volt hivatalos magyar elnevezése, akkor a település nevét a hivatalos magyar elnevezéssel, valamint zárójelek között az adott országban hivatalos elnevezéssel kell anyakönyvezni.
 
@@ -14,4 +14,7 @@
 
 (7) Ha a külföldi anyakönyvi okirat nem tartalmazza az anyakönyvi esemény pontos helye szerinti település nevét, és az más módon sem állapítható meg, akkor az anyakönyvi esemény pontos helyét az ügyfél személyes nyilatkozata alapján kell anyakönyvezni.
 
-[^62]: A 30. § a 10/2011. (III. 10.) KIM rendelet 1. §-ával megállapított szöveg.
+(8)[^65] Akinek az anyakönyvi bejegyzése az (1)–(7) bekezdésben meghatározott szabályoktól eltérően tartalmazza a külföldi település nevét, kérheti annak kijavítását.
+
+[^64]: A 30. § a 10/2011. (III. 10.) KIM rendelet 1. §-ával megállapított szöveg.
+[^65]: A 30. § (8) bekezdését az 54/2012. (XII. 28.) KIM rendelet 2. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## A családi állapot anyakönyvezése
 
-32. § (1)[^64] Az anyakönyvvezető a családi állapotot az anyakönyvbe a következők szerint jegyezheti be:
+32. § (1)[^67] Az anyakönyvvezető a családi állapotot az anyakönyvbe a következők szerint jegyezheti be:
 
 a) a házassági anyakönyvbe: nőtlen, hajadon, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt vagy bejegyzett élettársi kapcsolata megszűnt;
 
@@ -10,10 +10,10 @@ c) a halotti anyakönyvbe: nőtlen, hajadon, nős, férjes, bejegyzett élettár
 
 (2) Ha az elhalt személy tizennyolcadik életévét nem töltötte be, családi állapotának megjelölése a halotti anyakönyvben csak akkor szükséges, ha korábban házasságban élt.
 
-(3)[^65] A tévesen holtnak nyilvánított személy családi állapotát, ha volt házastársa vagy bejegyzett élettársa a holtnak nyilvánítás hatálya alatt ismét házasságot kötött vagy bejegyzett élettársi kapcsolatot létesített – a korábbi házasságra vagy bejegyzett élettársi kapcsolatra utalóan – „házassága megszűnt”, illetve „bejegyzett élettársi kapcsolata megszűnt” szavakkal jegyzi be az anyakönyvvezető.
+(3)[^68] A tévesen holtnak nyilvánított személy családi állapotát, ha volt házastársa vagy bejegyzett élettársa a holtnak nyilvánítás hatálya alatt ismét házasságot kötött vagy bejegyzett élettársi kapcsolatot létesített – a korábbi házasságra vagy bejegyzett élettársi kapcsolatra utalóan – „házassága megszűnt”, illetve „bejegyzett élettársi kapcsolata megszűnt” szavakkal jegyzi be az anyakönyvvezető.
 
-(4)[^66] Az érvénytelen házasságot vagy bejegyzett élettársi kapcsolatot megelőző állapot szerint jegyzi be az anyakönyvvezető a házasságkötéskor, a bejegyzett élettársi kapcsolat létesítésekor és a haláleset anyakönyvezésekor annak a személynek a családi állapotát, akinek korábbi házasságát vagy bejegyzett élettársi kapcsolatát a bíróság érvénytelennek nyilvánította.
+(4)[^69] Az érvénytelen házasságot vagy bejegyzett élettársi kapcsolatot megelőző állapot szerint jegyzi be az anyakönyvvezető a házasságkötéskor, a bejegyzett élettársi kapcsolat létesítésekor és a haláleset anyakönyvezésekor annak a személynek a családi állapotát, akinek korábbi házasságát vagy bejegyzett élettársi kapcsolatát a bíróság érvénytelennek nyilvánította.
 
-[^64]: A 32. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 13. §-ával megállapított szöveg.
-[^65]: A 32. § (3) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 16–18. pontja szerint módosított szöveg.
-[^66]: A 32. § (4) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 19. pontja szerint módosított szöveg.
+[^67]: A 32. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 13. §-ával megállapított szöveg.
+[^68]: A 32. § (3) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 16–18. pontja szerint módosított szöveg.
+[^69]: A 32. § (4) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 19. pontja szerint módosított szöveg.

@@ -8,9 +8,13 @@
 
 (3) Ha az anyakönyvvezetővel közölt időpontban az anyakönyvi bejegyzés nem található, a kutatást a megadott időpont évére, valamint az azt megelőző és követő két-két évre is ki kell terjeszteni. Ha ez sem vezet eredményre – annak közlésével, hogy a kutatás mely évekre terjedt ki – az érdekeltet az eredménytelenségéről értesíteni kell.
 
-(4)[^184] Az anyakönyvi másolaton és értesítésen fel kell tüntetni:
+(3a)[^196] Ha az anyakönyvi okirat kiállítása iránti kérelem alapján nem állapítható meg, hogy az igazolni kért anyakönyvi esemény a főváros mely kerületében történt, illetve hogy az igazolni kért anyakönyvi esemény bekövetkezésének helye az anyakönyvi esemény bekövetkezésekor mely fővárosi kerülethez tartozott, az anyakönyvvezető, a hivatásos konzuli tisztviselő vagy a kérelmező az anyakönyvi okirat kiállítása iránti kérelmet továbbítja a központi anyakönyvi szervnek.
 
-a)[^185] a község, város vagy megyei jogú város és a megye nevét, illetve a főváros nevét a fővárosi kerület számával, a hazai anyakönyvből kiállított anyakönyvi okiratok esetén a hazai anyakönyvezést végző hatóság nevét;
+(3b)[^197] A kérelem (3a) bekezdés szerinti továbbítása esetén a (3) bekezdés szerinti kutatást a központi anyakönyvi szerv folytatja le. Ha a kutatás eredményeképpen megállapítható, hogy mely anyakönyvvezető illetékes az anyakönyvi okirat kiállítására, az anyakönyvi okirat kiállítása iránti kérelmet továbbítja az anyakönyvi okirat kiállítására illetékes anyakönyvvezetőnek. Ha a kutatás nem vezet eredményre, az anyakönyvi okirat kiállítása iránti kérelmet a központi anyakönyvi szerv visszaküldi az anyakönyvi okirat kiállítása iránti kérelmet továbbító anyakönyvezetőnek, aki értesíti az érdekeltet a kutatás eredménytelenségéről.
+
+(4)[^198] Az anyakönyvi másolaton és értesítésen fel kell tüntetni:
+
+a)[^199] a község, város vagy megyei jogú város és a megye nevét, illetve a főváros nevét a fővárosi kerület számával, a hazai anyakönyvből kiállított anyakönyvi okiratok esetén a hazai anyakönyvezést végző hatóság nevét;
 
 b) az okirat kiállításának helyét, idejét;
 
@@ -20,8 +24,10 @@ d) a kiállító anyakönyvvezető nevét és aláírását;
 
 e) az anyakönyvi bejegyzés folyószámát és évszámát, az anyakönyv megkülönböztető betűjelét.
 
-(5)[^186] Az anyakönyvi okiraton az anyakönyvi bejegyzés számát a kötet betűjelzésével törve kell feltüntetni, ha egyidejűleg több anyakönyvet vezetnek.
+(5)[^200] Az anyakönyvi okiraton az anyakönyvi bejegyzés számát a kötet betűjelzésével törve kell feltüntetni, ha egyidejűleg több anyakönyvet vezetnek.
 
-[^184]: A 83. § (4) bekezdése a 2/2006. (I. 13.) BM rendelet 18. §-ával megállapított szöveg.
-[^185]: A 83. § (4) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 19. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
-[^186]: A 83. § (5) bekezdése a 14/2009. (VI. 3.) IRM rendelet 37. §-ával megállapított szöveg.
+[^196]: A 83. § (3a) bekezdését az 54/2012. (XII. 28.) KIM rendelet 12. §-a iktatta be.
+[^197]: A 83. § (3b) bekezdését az 54/2012. (XII. 28.) KIM rendelet 12. §-a iktatta be.
+[^198]: A 83. § (4) bekezdése a 2/2006. (I. 13.) BM rendelet 18. §-ával megállapított szöveg.
+[^199]: A 83. § (4) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 19. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^200]: A 83. § (5) bekezdése a 14/2009. (VI. 3.) IRM rendelet 37. §-ával megállapított szöveg.

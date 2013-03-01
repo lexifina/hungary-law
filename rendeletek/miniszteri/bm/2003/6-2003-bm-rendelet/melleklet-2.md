@@ -1,305 +1,313 @@
-## A születés, a házasság, a bejegyzett élettársi kapcsolat létesítésére irányuló szándék és a haláleset bejelentéséről készült Jegyzőkönyv adattartalma
-
 ## a) Jegyzőkönyv a születés bejelentéséről:
 
-## – anyakönyvi azonosító,
+## 1. Anyakönyvi azonosító.
 
-## – kihelyezett anyakönyv jelzése,
+## 2. Kihelyezett anyakönyv jelzése.
 
-## – az anyakönyvi bejegyzés folyószáma.
+## 3. Az anyakönyvi bejegyzés folyószáma.
 
-## A gyermek:
+## 4. A gyermek:
 
-## – születési helye,
+## 4.1. születési helye,
 
-## – születési ideje (év, hó, nap, óra, perc),
+## 4.2. születési ideje (év, hó, nap, óra, perc),
 
-## – neme (fiú, lány),
+## 4.3. neme (fiú, lány),
 
-## – állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: ..... ),
+## 4.4. állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: ..... ),
 
-## – születési családi és utóneve,
+## 4.5. születési családi és utóneve,
 
-## – személyi azonosítója,
+## 4.6. személyi azonosítója,
 
-## – származási helye.
+## 4.7. származási helye.
 
-## Az apa:
+## 5. Az apa:
 
-## – születési családi és utóneve,
+## 5.1. születési családi és utóneve,
 
-## – házassági neve,
+## 5.2. házassági neve,
 
-## – születési helye,
+## 5.3. születési helye,
 
-## – személyi azonosítója, annak hiányában születési idő (év, hó, nap),
+## 5.4. személyi azonosítója, annak hiányában születési idő (év, hó, nap),
 
-## – lakóhelye,
+## 5.5. lakóhelye,
 
-## – állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: ... ).
+## 5.6. állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: ... ).
 
-## Az anya:
+## 6. Az anya:
 
-## – születési családi és utóneve,
+## 6.1. születési családi és utóneve,
 
-## – házassági neve,
+## 6.2. házassági neve,
 
-## – születési helye,
+## 6.3. születési helye,
 
-## – személyi azonosítója, annak hiányában születési idő (év, hó, nap),
+## 6.4. személyi azonosítója, annak hiányában születési idő (év, hó, nap),
 
-## – lakóhelye,
+## 6.5. lakóhelye,
 
-## – állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: ..... ),
+## 6.6. állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: .....),
 
-## – személyazonosságot igazoló okirata (típusa, kiállító hatóság megnevezése, okmányazonosítója, érvényességi ideje),
+## 6.7. személyazonosságot igazoló okirata (típusa, kiállító hatóság megnevezése, okmányazonosítója, érvényességi ideje),
 
-## – családi állapota,
+## 6.8. családi állapota,
 
-## – a szülők házasságkötésének helye, ideje (év, hó, nap),
+## 6.9. a szülők házasságkötésének helye, ideje (év, hó, nap),
 
-## – az élettársi kapcsolat nyilvántartásba vételének helye és ideje (év, hó, nap),
+## 6.10. az élettársi kapcsolat nyilvántartásba vételének helye és ideje (év, hó, nap),
 
-## – ha az anya özvegy, a férj halálesetének helye, ideje (év, hó, nap), folyószáma,
+## 6.11. ha az anya özvegy, a férj halálesetének helye, ideje (év, hó, nap), folyószáma,
 
-## – ha az anya elvált, a jogerős ítélet vagy végzés száma, kelte, a bíróság vagy közjegyző megnevezése,
+## 6.12. ha az anya elvált, a jogerős ítélet vagy végzés száma, kelte, a bíróság vagy közjegyző megnevezése,
 
-## – egyes vagy ikerszülés (egyes, kettős, hármas, négyes, ötös, hatos), ha ikerszülés, a gyermek hányadikként született (első, második, harmadik, negyedik, ötödik, hatodik),
+## 6.13. egyes vagy ikerszülés (egyes, kettős, hármas, négyes, ötös, hatos), ha ikerszülés, a gyermek hányadikként született (első, második, harmadik, negyedik, ötödik, hatodik),
 
-## – megjegyzés (ebben a rovatban kell szerepeltetni azt a tényt, hogy az apa vagy az anya menekült státussal rendelkezik, valamint azt a tényt, hogy a szülők az Élettársi Nyilatkozatok Nyilvántartása által igazolt élettársi kapcsolatban élnek és a bejegyzés idejét),
+## 6.14. megjegyzés (ebben a rovatban kell szerepeltetni azt a tényt, hogy az apa vagy az anya menekült státussal rendelkezik.
 
-## – az anyakönyvvezető aláírása,
+## 7. Az anyakönyvvezető aláírása.
 
-## – a(z) anya (szülők) aláírása,
+## 8. A(z) anya (szülők) aláírása,.
 
-## – a kiállítás kelte.
+## 9. A kiállítás kelte (év, hó, nap).
 
-## b)[^244] Jegyzőkönyv a házasság bejelentéséről:
+## b) Jegyzőkönyv a házasság bejelentéséről:
 
-## – anyakönyvi azonosító,
+## 1. Anyakönyvi azonosító.
 
-## – kihelyezett anyakönyv jelzése,
+## 2. Kihelyezett anyakönyv jelzése.
 
-## – az anyakönyvi bejegyzés folyószáma,
+## 3. A házasságkötés helye.
 
-## – a házasságkötés helye,
+## 4. A házasságkötés ideje (év, hó, nap, óra, perc).
 
-## – a házasságkötés ideje (év, hó, nap, óra, perc).
+## 5. A házastársak adatai (férj, feleség):
 
-## A házastársak adatai (férj, feleség):
+## 5.1. előző házassági neve,
 
-## – előző házassági neve,
+## 5.2. születési családi és utóneve,
 
-## – születési családi és utóneve,
+## 5.3. házassági neve,
 
-## – házassági neve,
+## 5.4. születési helye,
 
-## – születési helye,
+## 5.5. személyi azonosító, annak hiányában születési idő (év, hó, nap),
 
-## – személyi azonosító, annak hiányában születési idő (év, hó, nap),
+## 5.6. előző családi állapota (nőtlen, hajadon, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt, bejegyzett élettársi kapcsolata megszűnt),
 
-## – előző családi állapota (nőtlen, hajadon, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt, bejegyzett élettársi kapcsolata megszűnt),
+## 5.7. lakóhelye (pontos cím),
 
-## – lakóhelye (pontos cím),
+## 5.8. apja születési családi és utóneve,
 
-## – apja születési családi és utóneve,
+## 5.9. anyja születési családi és utóneve,
 
-## – anyja születési családi és utóneve,
+## 5.10. állampolgársága,
 
-## – állampolgársága,
+## 5.11. előző állampolgársága(i),
 
-## – előző állampolgársága(i),
+## 5.12. előző lakóhelye(i) (ország).
 
-## – előző lakóhelye(i) (ország).
+## 6. A bemutatott okiratok:
 
-## A bemutatott okiratok:
+## 6.1. személyazonosság igazolására szolgáló okmány típusa (személyazonosító igazolvány, útlevél, vezetői engedély, egyéb), okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje,
 
-## – személyazonosság igazolására szolgáló okmány típusa (személyazonosító igazolvány, útlevél, vezetői engedély, egyéb), okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje,
+## 6.2. születési anyakönyvi kivonat (a kiállító hatóság megnevezése, folyószám),
 
-## – születési anyakönyvi kivonat (a kiállító hatóság megnevezése, folyószám),
+## 6.3. személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
 
-## – személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
+## 6.4. családi állapot igazolása (az okirat és a kiállító hatóság megnevezése),
 
-## – családi állapot igazolása (az okirat és a kiállító hatóság megnevezése),
+## 6.5. házassági engedély, felmentés, tanúsítvány száma, a kiállító hatóság megnevezése, érvényességi ideje,
 
-## – házassági engedély, felmentés, tanúsítvány száma, a kiállító hatóság megnevezése, érvényességi ideje,
+## 6.6. állampolgárságot igazoló okirat, okmány típusa, száma, a kiállító hatóság megnevezése, érvényességi ideje,
 
-## – állampolgárságot igazoló okirat, okmány típusa, száma, a kiállító hatóság megnevezése, érvényességi ideje,
+## 6.7. megjegyzés (a menyasszony vagy a vőlegény menekült státusa, termen kívüli házasságkötés, az egyik fél közeli halállal fenyegető állapota stb.).
 
-## – megjegyzés (a menyasszony vagy a vőlegény menekült státusa, termen kívüli házasságkötés, az egyik fél közeli halállal fenyegető állapota stb.),
+## 7. A kiállítás kelte (év, hó, nap).
 
-## – készült (év, hó, nap).
+## 8. A házassági akadályok elhallgatásának következményeire való figyelmeztetés után a menyasszony és a vőlegény bejelenti, hogy egymással házasságot kívánnak kötni, és legjobb tudomásuk szerint házasságkötésüknek törvényi akadálya nincs.
 
-## A házassági akadályok elhallgatásának következményeire való figyelmeztetés után a menyasszony és a vőlegény bejelenti, hogy egymással házasságot kívánnak kötni, és legjobb tudomásuk szerint házasságkötésüknek törvényi akadálya nincs.
+## 8.1. A menyasszony és a vőlegény bejelenti, hogy a születendő közös gyermekeik családi neve ...................................... lesz.
 
-## 1. A menyasszony és a vőlegény bejelenti, hogy a születendő közös gyermekeik családi neve ................ ........ lesz.
+## 8.2. A vőlegény kijelenti, hogy a menyasszony rendezetlen családi jogállású gyermekéről nem tud.
 
-## 2. A vőlegény kijelenti, hogy a menyasszony rendezetlen családi jogállású gyermekéről nem tud.
+## 8.3. A vőlegény kijelenti, hogy a menyasszonynak ................................-n ........ év ................................ hó ....... napján született ......................................... utónevű gyermekét a magáénak elismeri.
 
-## 3. A vőlegény kijelenti, hogy a menyasszonynak .......................-n ........ év ................... hó
+## 8.4. A vőlegény kijelenti, hogy a menyasszonynak ................................-n ........ év ................................ hó ........ napján született ........................................ utónevű gyermekét a magáénak nem ismeri el.
 
-## ....... napján született .......................... utónevű gyermekét a magáénak elismeri.
+## 9. A házasság hivatali helyiségen kívüli megkötése iránti kérelem és a nyilatkozatok.
 
-## 4. A vőlegény kijelenti, hogy a menyasszonynak ................................-n ........ év ................................ hó
+## 10. 30 napos várakozási idő alóli felmentés iránti kérelem és indokolása.
 
-## ........ napján született ........................ utónevű gyermekét a magáénak nem ismeri el.
+## 11. Tanúsítvány alóli felmentés és indokolása.
 
-## – Anyakönyvvezető aláírása,
+## 12. Anyakönyvvezető aláírása.
 
-## – a menyasszony aláírása,
+## 13. A menyasszony aláírása.
 
-## – a vőlegény aláírása,
+## 14. A vőlegény aláírása.
 
-## – a tolmács aláírása.
+## 15. A tolmács aláírása.
 
-## A házasságkötésnél közreműködő anyakönyvvezető családi és utóneve.
+## 16. A házasságkötésnél közreműködő anyakönyvvezető családi és utóneve.
 
-## A tanúk és a tolmács családi és utóneve, lakcíme, a bemutatott személyazonosságot igazoló okirat típusa, , okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje:
+## 17. A tanúk és a tolmács családi és utóneve, lakcíme, a bemutatott személyazonosságot igazoló okirat típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje:
 
-## – 1. tanú,
+## 17.1. 1. tanú,
 
-## – 2. tanú,
+## 17.2. 2. tanú,
 
-## – tolmács,
+## 17.3. tolmács.
 
-## – megjegyzések (itt kell szerepeltetni azt a tényt, ha a házasságot valamely nemzetiségi nyelven kötik).
+## 18. Megjegyzések (itt kell szerepeltetni azt a tényt, ha a házasságot valamely nemzetiségi nyelven kötik).
 
-## c)[^245] Jegyzőkönyv bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről:
+## c) Jegyzőkönyv bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről:
 
-## – anyakönyvi azonosító,
+## 1. Anyakönyvi azonosító.
 
-## – kihelyezett anyakönyv jelzése,
+## 2. Kihelyezett anyakönyv jelzése.
 
-## – az anyakönyvi bejegyzés folyószáma,
+## 3. Az anyakönyvi bejegyzés folyószáma.
 
-## – a bejegyzés helye,
+## 4. A bejegyzés helye.
 
-## – a bejegyzett élettársi kapcsolat létrejöttének ideje (év, hó, nap, óra, perc).
+## 5. A bejegyzett élettársi kapcsolat létrejöttének ideje (év, hó, nap, óra, perc).
 
-## A bejegyzett élettársak adatai:
+## 6. A bejegyzett élettársak adatai:
 
-## – házassági neve,
+## 6.1. házassági neve,
 
-## – születési családi és utóneve,
+## 6.2. születési családi és utóneve,
 
-## – születési helye,
+## 6.3. születési helye,
 
-## – neme,
+## 6.4. neme,
 
-## – személyi azonosító, annak hiányában születési idő (év, hó, nap),
+## 6.5. személyi azonosító, annak hiányában születési idő (év, hó, nap),
 
-## – előző családi állapota (nőtlen, hajadon, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt, bejegyzett élettársi kapcsolata megszűnt),
+## 6.6. előző családi állapota (nőtlen, hajadon, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt, bejegyzett élettársi kapcsolata megszűnt),
 
-## – lakóhelye (pontos cím),
+## 6.7. lakóhelye (pontos cím),
 
-## – apja születési családi és utóneve,
+## 6.8. apja születési családi és utóneve,
 
-## – anyja születési családi és utóneve,
+## 6.9. anyja születési családi és utóneve,
 
-## – állampolgársága,
+## 6.10. állampolgársága,
 
-## – előző állampolgársága(i),
+## 6.11. előző állampolgársága(i),
 
-## – előző lakóhelye(i) (ország).
+## 6.12. előző lakóhelye(i) (ország).
 
-## A bemutatott okiratok:
+## 7. A bemutatott okiratok:
 
-## – személyazonosság igazolására szolgáló okmány típusa (személyazonosító igazolvány, útlevél, vezetői engedély, egyéb), okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje,
+## 7.1. személyazonosság igazolására szolgáló okmány típusa (személyazonosító igazolvány, útlevél, vezetői engedély, egyéb), okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje,
 
-## – születési anyakönyvi kivonat (a kiállító hatóság megnevezése, folyószám),
+## 7.2. születési anyakönyvi kivonat (a kiállító hatóság megnevezése, folyószám),
 
-## – személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
+## 7.3. személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
 
-## – családi állapot igazolása (az okirat és a kiállító hatóság megnevezése),
+## 7.4. családi állapot igazolása (az okirat és a kiállító hatóság megnevezése),
 
-## – engedély, felmentés, tanúsítvány száma, a kiállító hatóság megnevezése, érvényességi ideje,
+## 7.5. engedély, felmentés, tanúsítvány száma, a kiállító hatóság megnevezése, érvényességi ideje,
 
-## – állampolgárságot igazoló okirat, okmány típusa, száma, a kiállító hatóság megnevezése, érvényességi ideje,
+## 7.6. állampolgárságot igazoló okirat, okmány típusa, száma, a kiállító hatóság megnevezése, érvényességi ideje,
 
-## – megjegyzés (a felek menekült státusa, a bejegyzett élettársi kapcsolat hivatalos helyiségen kívüli létesítése, az egyik fél közeli halállal fenyegető állapota stb.),
+## 7.7. megjegyzés (a felek menekült státusa, a bejegyzett élettársi kapcsolat hivatalos helyiségen kívüli létesítése, az egyik fél közeli halállal fenyegető állapota stb.).
 
-## – készült (év, hó, nap).
+## 8. A kiállítás kelte (év, hó, nap).
 
-## A bejegyzett élettársi kapcsolat létrejötte akadályai elhallgatásának következményeire való figyelmeztetés után a felek bejelentik, hogy egymással bejegyzett élettársi kapcsolatot kívánnak létesíteni, és legjobb tudomásuk szerint ennek törvényi akadálya nincs.
+## 9. A bejegyzett élettársi kapcsolat létrejötte akadályai elhallgatásának következményeire való figyelmeztetés után a felek bejelentik, hogy egymással bejegyzett élettársi kapcsolatot kívánnak létesíteni, és legjobb tudomásuk szerint ennek törvényi akadálya nincs.
 
-## – anyakönyvvezető aláírása,
+## 10. A bejegyzett élettársi kapcsolat hivatalos helyiségen kívüli létesítése iránti kérelem és a nyilatkozatok.
 
-## – a felek aláírása,
+## 11. Tanúsítvány alóli felmentés és indokolása.
 
-## – a tolmács aláírása.
+## 12. Anyakönyvvezető aláírása.
 
-## A bejegyzett élettársi kapcsolat létesítésénél közreműködő anyakönyvvezető családi és utóneve.
+## 13. A felek aláírása.
 
-## A tanúk és a tolmács családi és utóneve, lakcíme, a bemutatott személyazonosságot igazoló okirat típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje:
+## 14. A tolmács aláírása.
 
-## – 1. tanú,
+## 15. A bejegyzett élettársi kapcsolat létesítésénél közreműködő anyakönyvvezető családi és utóneve.
 
-## – 2. tanú,
+## 16. A tanúk és a tolmács családi és utóneve, lakcíme, a bemutatott személyazonosságot igazoló okirat típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje:
 
-## – tolmács,
+## 16.1. 1. tanú,
 
-## – megjegyzések (itt kell szerepeltetni azt a tényt, ha a bejegyzett élettársi kapcsolatot valamely nemzetiségi nyelven létesítik).
+## 16.2. 2. tanú,
+
+## 16.3. tolmács.
+
+## 17. Megjegyzések (itt kell szerepeltetni azt a tényt, ha a bejegyzett élettársi kapcsolatot valamely nemzetiségi nyelven létesítik).
 
 ## d) Jegyzőkönyv a haláleset bejelentéséről:
 
-## – anyakönyvi azonosító,
+## 1. Anyakönyvi azonosító.
 
-## – kihelyezett anyakönyv jelzése,
+## 2. Kihelyezett anyakönyv jelzése.
 
-## – az anyakönyvi bejegyzés folyószáma,
+## 3. Az anyakönyvi bejegyzés folyószáma.
 
-## – a haláleset helye,
+## 4. A haláleset helye.
 
-## – a haláleset időpontja (év, hó, nap, óra, perc).
+## 5. A haláleset időpontja (év, hó, nap, óra, perc).
 
-## Az elhalt:
+## 6. Az elhalt hozzátartozójának nyilatkozata szerint az elhalt eltemetésének, az urna elhelyezésének helye.
 
-## – neme (fiú, férfi, lány, nő),
+## 7. Az elhalt:
 
-## – családi állapota (nőtlen, hajadon, nős, férjes, bejegyzett élettárs, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt, bejegyzett élettársi kapcsolata megszűnt),
+## 7.1. neme (fiú, férfi, lány, nő),
 
-## – születési családi és utóneve, házassági neve,
+## 7.2. családi állapota (nőtlen, hajadon, nős, férjes, bejegyzett élettárs, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs, házassága megszűnt, bejegyzett élettársi kapcsolata megszűnt),
 
-## – születési helye,
+## 7.3. születési családi és utóneve, házassági neve,
 
-## – személyi azonosítója, annak hiányában születési idő (év, hó, nap),
+## 7.4. születési helye,
 
-## – lakóhelye,
+## 7.5. személyi azonosítója, annak hiányában születési idő (év, hó, nap),
 
-## – apjának születési családi és utóneve,
+## 7.6. lakóhelye,
 
-## – anyjának születési családi és utóneve,
+## 7.7. apjának születési családi és utóneve,
 
-## – életben levő házastárs vagy bejegyzett élettárs születési családi és utóneve, házassági neve,
+## 7.8. anyjának születési családi és utóneve,
 
-## – személyi azonosítója, annak hiányában születési idő (év, hó, nap),
+## 7.9. életben levő házastárs vagy bejegyzett élettárs születési családi és utóneve, házassági neve,
 
-## – ha házas vagy bejegyzett élettárs volt, utolsó házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének helye, ideje (év, hó, nap),
+## 7.10. személyi azonosítója, annak hiányában születési idő (év, hó, nap),
 
-## – az elhalt állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: ..... ),
+## 7.11. ha házas vagy bejegyzett élettárs volt, utolsó házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének helye, ideje (év, hó, nap),
 
-## – az állampolgárságot igazoló okirat (típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje),
+## 7.12. az elhalt állampolgársága (magyar, hontalan, ismeretlen, külföldi, mégpedig: ..... ),
 
-## – az elhalt személyazonosságát igazoló okirat (típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje),
+## 7.13. az állampolgárságot igazoló okirat (típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje),
 
-## – az elhalt személyi azonosítóját és lakcímét igazoló hatósági igazolvány száma,
+## 7.14. az elhalt személyazonosságát igazoló okirat (típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje),
 
-## – megjegyzés (amennyiben az elhalt menekült státussal rendelkezett, e tényt itt kell szerepeltetni),
+## 7.15. az elhalt személyi azonosítóját és lakcímét igazoló hatósági igazolvány száma.
 
-## – a kiállítás kelte (év, hó, nap),
+## 8. Megjegyzés (ha az elhalt menekült státussal rendelkezett, e tényt itt kell szerepeltetni).
 
-## – bejelentő családi és utóneve, hozzátartozói minősége,
+## 9. A kiállítás kelte (év, hó, nap).
 
-## – bejelentő lakcíme, személyazonosságát igazoló okirata (típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje),
+## 10. A bejelentő
 
-## – nyilatkozat („Kijelentem, hogy a jegyzőkönyvbe bejegyzett adatok a valóságnak megfelelnek.”),
+## 10.1. családi és utóneve,
 
-## – az anyakönyvvezető aláírása,
+## 10.2. hozzátartozói minősége,
 
-## – az értesítést kiállította.
+## 10.3. lakcíme,
 
-2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^246]
+## 10.4. személyazonosságát igazoló okirata (típusa, okmányazonosítója, a kiállító hatóság megnevezése, érvényességi ideje),
 
-[^244]: Az 1. számú melléklet b) pontja a 41/2011. (XII. 30.) KIM rendelet 30. § j) bekezdése szerint módosított szöveg.
-[^245]: Az 1. számú melléklet c) pontja a 41/2011. (XII. 30.) KIM rendelet 30. § j) bekezdése szerint módosított szöveg.
-[^246]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.
+## 10.5. nyilatkozata („Kijelentem, hogy a jegyzőkönyvbe bejegyzett adatok a valóságnak megfelelnek.”).
+
+## 11. Az anyakönyvvezető aláírása.
+
+## 12. Az értesítést kiállította.
+
+2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^258]
+
+[^258]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.

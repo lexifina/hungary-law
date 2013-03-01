@@ -130,6 +130,8 @@
 
 ## [Ha az anyakönyvi esemény időpontjában Kolozsvár Magyarország területéhez tartozott.]
 
+## Nyugat-Berlin (1949-1990. október 2. között)
+
 ## Beograd (Jugoszlávia)
 
 ## Wien 4. (Ausztria)
@@ -270,7 +272,9 @@
 
 ## a) Születési családi név:
 
-## A gyermek (az apa és a gyermek) születési családi neve: Kiss (IRM/1552/2007.) 2007. április 1. X.Y. aktő.
+## A gyermek (az apa és a gyermek) születési családi neve: Kiss (IRM/1552/2007.) 2007. április 1. X. Y. aktő.
+
+## A gyermek (az apa és a gyermek) születési családi neve: Németh (KIM/1268/2011.) 2011. május 12. X. Y. aktő.
 
 ## b) Születési családi és utónév:
 
@@ -288,7 +292,7 @@
 
 ## a) Születési családi név:
 
-## A férj születési családi neve: Nagy, házassági neve: Nagy Béla. (IRM/l536/2007.) 2007. február 1. X.Y. aktő.
+## A férj születési családi neve: Nagy, házassági neve: Nagy Béla. A gyermekek születési családi neve: Nagy (KIM/l536/2012.) 2012. június 16. X. Y. aktő.
 
 ## [A házasságban a feleség születési nevét viseli.]
 
@@ -302,7 +306,7 @@
 
 ## d) Születési családi név (külföldi állampolgárságú férj esetén):
 
-## A férj születési családi neve 2009. január 31-től Smidt. A feleség házassági neve: Smidt. (Dél-dunántúli Reg. Állig. Hiv. 1–1660/3/2009.) 2009. április 10. X.Y. aktő.
+## A férj születési családi neve 2011. január 31-től: Smidt. A feleség házassági neve: Smidt. (Hajdú-Bihar Megyei Kormányhivatal. IX.B.005/00759-15/2011.) 2011. április 11. X. Y. aktő.
 
 ## [A házassági anyakönyvi kivonat születési (és házassági) név rovatába a megváltozott születési (és házassági) családi és utónevet kell bejegyezni.]
 
@@ -518,7 +522,7 @@
 
 ## d) A képzelt apa adatait az apaság megállapítása miatt (Ceglédi Városi Bíróság P.321/2002. sz.) törlöm. A születést 555/2002. fsz.a. újból anyakönyveztem. A gyermek születési családi neve: Kelemen. 2002. december 30. X.Y. aktő.
 
-## A képzelt apa adatait és a gyermek születési családi nevét az anya utólagos házasságkötése miatt (Paksi aktő. 65/2002. fsz.) törlöm. A születést 951/2002. fsz.a. újból anyakönyveztem. A gyermek születési családi neve: Papp. 2002. december 30. X.Y. aktő.
+## A képzelt apa adatait és a gyermek születési családi nevét az anya utólagos házasságkötése miatt (paksi aktő. 65/2002. fsz.) törlöm. A születést 951/2002. fsz.a. újból anyakönyveztem. A gyermek születési családi neve: Papp. 2002. december 30. X.Y. aktő.
 
 ## A képzelt szülők adatait és a gyermek születési családi nevét a vér szerinti szülők megállapítása miatt (Szeghalmi Városi Bíróság P.852/2002. sz.) törlöm. A születést 33/2002. fsz.a. újból anyakönyveztem. A gyermek születési családi neve: Tóth. 2002. december 30. X.Y. aktő.
 
@@ -622,19 +626,13 @@
 
 ## c) Sabau Éva bejegyzett élettárs születési családi neve: Szabó (BÁH 106-Á-4566/2009.) 2009. február 28. X.Y. aktő.
 
-## 36. Az anyakönyvi bejegyzés időpontjának feltüntetése a házassági anyakönyv, valamint a bejegyzett élettársi kapcsolatok anyakönyvének „Megjegyzések” rovatába, amennyiben a házasságkötés anyakönyvezésére vagy az élettársi kapcsolat bejegyzésére a házasságkötést, illetve az élettársi kapcsolat létrejöttét követően kerül sor:
+## 36. Az anyakönyvi bejegyzés időpontjának feltüntetése a házassági anyakönyv, valamint a bejegyzett élettársi kapcsolatok anyakönyvének „Megjegyzések” rovatába, amennyiben a házasságkötés anyakönyvezésére vagy az élettársi kapcsolat bejegyzésére a házasságkötést, illetve a bejegyzett élettársi kapcsolat létrejöttét követően kerül sor:
 
 ## A bejegyzés ideje: 2009. december 1.
 
-## 37. A gyermek, valamint a bejegyzett élettárs neme és ezzel összefüggésben utóneve megváltozásának feljegyzése az anyakönyv „Utólagos bejegyzések” rovatába:
+## 37. A gyermek neme és ezzel összefüggésben utóneve megváltozásának feljegyzése a születési anyakönyv „Utólagos bejegyzések” rovatába:
 
-## a) A születési anyakönyvbe:
-
-## A gyermek neme fiúra, utóneve Áron névre változott. Személyi azonosítója: 1-000000-0000 (EüM 2125-1/2008-0003EGP) 2009. május 30. X.Y. aktő.
-
-## b) A bejegyzett élettársi kapcsolatok anyakönyvébe:
-
-## Kiss Éva bejegyzett élettárs neme férfira, utóneve Áron névre változott. Személyi azonosítója: 1-000000-0000 (EüM 2125-1/2008-0003EGP) 2009. június 15. X.Y. aktő.
+## A gyermek neme fiúra, utóneve Áron névre változott. Személyi azonosítója: 1-000000-0000 (EMMI 2125-1/2012-0003EGP) 2012. augusztus 30. X. Y. aktő.
 
 ## 38. A bejegyzés törlése újbóli anyakönyvezés nélkül:
 
@@ -682,6 +680,12 @@
 
 ## Kijavítás: A gyermek családi neve: Lopez y Sanchez, utóneve: Carmen. (Közép-magyarországi Reg. Állig. Hiv. 31-907/2009.) 2009. december 16. X.Y. aktő.
 
-5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^250]
+## 43. A gyermek, a feleség és/vagy a férj korábbi személyes joga alapján bejegyzett nevének javítása:
 
-[^250]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.
+## a) Kijavítás: a gyermek születési családi neve: Kovács-Nagy. 2013. január 3. X. Y. aktő.
+
+## b) Kijavítás: a feleség házassági neve: Kovács-Nagy Ilona. 2013. január 3. X. Y. aktő.
+
+5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^262]
+
+[^262]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.

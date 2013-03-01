@@ -1,99 +1,105 @@
-## Rövidítések az anyakönyvezésnél
+| 1. | Megjelölés | Rövidítés |
 
-## alatt = a.
+| 2. | alatt | = a. |
 
-## anyakönyv = akv.
+| 3. | anyakönyv | = akv. |
 
-## anyakönyvi = akvi.
+| 4. | anyakönyvi | = akvi. |
 
-## anyakönyvvezető = aktő.
+| 5. | anyakönyvvezető | = aktő. |
 
-## bejegyzett élettársi kapcsolat = bét.
+| 6. | bejegyzett élettársi kapcsolat | = bét. |
 
-## Bevándorlási és Állampolgársági Hivatal = BÁH
+| 7. | Belügyminisztérium | = BM |
 
-## Budapesti Rendőr-főkapitányság = BRFK
+| 8. | Bevándorlási és Állampolgársági Hivatal | = BÁH |
 
-## Budai Központi Kerületi Bíróság = BKKB
+| 9. | Budapesti Rendőr-főkapitányság | = BRFK |
 
-## bíróság, -i = bír.
+| 10. | Budai Központi Kerületi Bíróság | = BKKB |
 
-## bizonyítvány = biz.
+| 11. | bíróság, -i | = bír. |
 
-## Budapest = Bp.
+| 12. | bizonyítvány | = biz. |
 
-## doktor = dr.
+| 13. | Budapest | = Bp. |
 
-## Egészségügyi Minisztérium = EüM
+| 14. | Egészségügyi Minisztérium | = EüM |
 
-## engedély = eng.
+| 15. | Emberi Erőforrások Minisztériuma | = EMMI |
 
-## felmentés = felm.
+| 16. | engedély | = eng. |
 
-## folyószám, -ú = fsz.
+| 17. | felmentés | = felm. |
 
-## folyószám alatt = fsz.a.
+| 18. | folyószám, -ú | = fsz. |
 
-## Fővárosi Főpolgármesteri Hivatal = Főv. Főpolg. Hiv.
+| 19. | folyószám alatt | = fsz.a. |
 
-## főváros, -i = főv.
+| 20. | Fővárosi Főpolgármesteri Hivatal | = Főv. Főpolg. Hiv. |
 
-## gyámhatóság = gyámhat.
+| 21. | főváros, -i | = főv. |
 
-## gyámhivatal = gyámhiv.
+| 22. | gyámhatóság | = gyámhat. |
 
-## halotti = hal.
+| 23. | gyámhivatal | = gyámhiv. |
 
-## határozat = hat.
+| 24. | halotti | = hal. |
 
-## házassági = ház.
+| 25. | határozat | = hat. |
 
-## helyettes = h.
+| 26. | házassági | = ház. |
 
-## hivatal, -i = hiv.
+| 27. | helyettes | = h. |
 
-## igazgatási = ig.
+| 28. | hivatal, -i | = hiv. |
 
-## Igazságügyi és Rendészeti Minisztérium = IRM
+| 29. | igazgatási | = ig. |
 
-## jegyzőkönyv = jkv.
+| 30. | Igazságügyi és Rendészeti Minisztérium | = IRM |
 
-## kerület, -i = ker.
+| 31. | jegyzőkönyv | = jkv. |
 
-## Kormány = Korm.
+| 32. | kerület, -i | = ker. |
 
-## Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala = KEK KH
+| 33. | Kormány | = Korm. |
 
-## központi = közp.
+| 34. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | = KEK KH |
 
-## megyei = m.
+| 35. | Közigazgatási és Igazságügyi Minisztérium | = KIM |
 
-## minisztérium, -i = min.
+| 36. | központi | = közp. |
 
-## osztály = oszt.
+| 37. | megyei | = m. |
 
-## országos = orsz.
+| 38. | minisztérium, -i | = min. |
 
-## Országos Rendőr-főkapitányság = ORFK
+| 39. | Nemzeti Erőforrás Minisztérium | = NEFMI |
 
-## Pesti Központi Kerületi Bíróság = PKKB
+| 40. | osztály | = oszt. |
 
-## polgármesteri hivatal = polg.hiv.
+| 41. | országos | = orsz. |
 
-## ...-i Regionális Államigazgatási Hivatal ... Megyei Kirendeltsége = ...-i Reg. Állig. Hiv. ... Megyei Kir.
+| 42. | Országos Rendőr-főkapitányság | = ORFK |
 
-## rendőrkapitányság = r.kap.
+| 43. | Pesti Központi Kerületi Bíróság | = PKKB |
 
-## szám alatt = sz.a.
+| 44. | polgármesteri hivatal | = polg.hiv. |
 
-## számú = sz.
+| 45. | fővárosi és megyei kormányhivatal | = Főv. megy. Korm. hiv. |
 
-## szociális = szoc.
+| 46. | rendőrkapitányság | = r.kap. |
 
-## születési = szül.
+| 47. | szám alatt | = sz.a. |
 
-## város, -i = vár.
+| 48. | számú | = sz. |
 
-3/A. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^248]
+| 49. | szociális | = szoc. |
 
-[^248]: A 3/A. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.
+| 50. | születési | = szül. |
+
+| 51. | város, -i | = vár. |
+
+3/A. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^260]
+
+[^260]: A 3/A. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.

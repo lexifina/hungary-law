@@ -1,12 +1,12 @@
-89/B. §[^213] (1)[^214] Az anyakönyvvezetők, a fővárosi és megyei kormányhivatal, a Központi Hivatal, az állampolgársági ügyekben eljáró szerv, valamint a központi anyakönyvi szerv az anyakönyvi okirat kiállítására irányuló belföldi jogsegély iránti megkereséseket az ASZA-rendszeren keresztül juttatják el egymásnak.
+89/B. §[^227] (1)[^228] Az anyakönyvvezetők, a fővárosi és megyei kormányhivatal, az állampolgársági ügyekben eljáró szerv, valamint a központi anyakönyvi szerv az anyakönyvi okirat kiállítására irányuló belföldi jogsegély iránti megkereséseket, valamint a magyar állampolgárságról szóló 1993. évi LV. törvény 12. §-a szerinti megkereséseket az ASZA-rendszeren keresztül juttatják el egymásnak.
 
-(2)[^215] A jogsegély iránti megkeresés alapján kiállított anyakönyvi okiratot postai úton kell a megkereső szerv részére megküldeni. A jogsegélykérelemre adott nemleges választ az ASZA-rendszeren keresztül kell továbbítani.
+(2)[^229] A jogsegély iránti megkeresés alapján kiállított anyakönyvi kivonatot postai úton kell a megkereső szerv részére megküldeni. Az értesítést, a másolatot és a megkeresésre adott nemleges választ az ASZA-rendszeren keresztül kell továbbítani.
 
 (3) Az (1) és (2) bekezdésben szereplő elektronikus okirat – amennyiben tartalmazza a küldő szerv megjelölését, a kiadmányozásra jogosult nevét és a kiadmányozás időpontját – közokiratnak minősül, azt papír alapon nem kell megküldeni a megkeresett szervnek. Az okiratot a címzettnek – az iratok között történő elhelyezés céljából – ki kell nyomtatnia. A kinyomtatott példányt el kell látni a fogadó szerv körbélyegzőjével, és az ügyintéző aláírásával igazolni kell az irat hitelességét.
 
-(4)[^216] Az (1) bekezdésben felsorolt szervek kötelesek naponta legalább egyszer az ASZA-rendszer levelező alrendszerét megnyitni.
+(4)[^230] Az (1) bekezdésben felsorolt szervek kötelesek naponta legalább egyszer az ASZA-rendszer levelező alrendszerét megnyitni.
 
-[^213]: A 89/B. §-t a 10/2007. (III. 6.) IRM rendelet 21. §-a iktatta be, e módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
-[^214]: A 89/B. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja, az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
-[^215]: A 89/B. § (2) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
-[^216]: A 89/B. § (4) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
+[^227]: A 89/B. §-t a 10/2007. (III. 6.) IRM rendelet 21. §-a iktatta be, e módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^228]: A 89/B. § (1) bekezdése az 54/2012. (XII. 28.) KIM rendelet 13. §-ával megállapított szöveg.
+[^229]: A 89/B. § (2) bekezdése az 54/2012. (XII. 28.) KIM rendelet 13. §-ával megállapított szöveg.
+[^230]: A 89/B. § (4) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 63. § (1) Ha a házastársaknak a házassági anyakönyvbe bejegyzett születési családi vagy utóneve, házassági neve, személyi azonosítója megváltozik, a házassági anyakönyv ,,Utólagos bejegyzések'' rovatába jegyzi be az új adatokat az anyakönyvvezető. A bejegyzést az anyakönyvvezető az alábbi okiratok alapján teljesíti:
 
-a)[^137] a központi anyakönyvi szerv névváltozási értesítése;
+a)[^147] a központi anyakönyvi szerv névváltozási értesítése;
 
 b) a bíróság jogerős határozata;
 
@@ -16,4 +16,4 @@ g) a születést nyilvántartó anyakönyvvezető értesítése a rendelet 60. �
 
 (2) A születést nyilvántartó anyakönyvvezető értesítése alapján kell bejegyezni a születési anyakönyvbe bejegyzett és a házassági anyakönyvben is szereplő téves adatok kijavítását.
 
-[^137]: A 63. § (1) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 25. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^147]: A 63. § (1) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 25. § (2) bekezdésének a) pontja szerint módosított szöveg.
