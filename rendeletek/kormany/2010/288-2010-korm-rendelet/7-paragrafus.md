@@ -10,8 +10,8 @@
 
 (5) A szakigazgatási szervekre is kiterjedő ellenőrzést a közigazgatás-szervezésért felelős miniszter a szakmai irányító szerv vezetője közreműködésével látja el.
 
-(6)[^21] A közigazgatás-szervezésért felelős miniszter a Nemzeti Államigazgatási Központ közreműködésével gondoskodik a fővárosi és megyei kormányhivatal feletti ellenőrzések összehangolásáról.
+(6)[^21] A közigazgatás-szervezésért felelős miniszter a Közigazgatási és Igazságügyi Hivatal közreműködésével gondoskodik a fővárosi és megyei kormányhivatal feletti ellenőrzések összehangolásáról.
 
 [^19]: A 7. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
 [^20]: A 7. § (3) bekezdése a 231/2012. (VIII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^21]: A 7. § (6) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^21]: A 7. § (6) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 40. § (1) bekezdésével megállapított, az 56/2013. (II. 27.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.

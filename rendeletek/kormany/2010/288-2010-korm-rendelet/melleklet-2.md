@@ -464,9 +464,19 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 2.6. a bemutatott külföldi okiratok elfogadhatóságának elbírálása, amennyiben nem magyar állampolgár kíván Magyarországon házasságot kötni, vagy bejegyzett élettársi kapcsolatot létesíteni,
 
-2.7. Magyarországon élő magyar állampolgár, hontalan, illetőleg a menekültként elismert személy külföldön történő házasságkötéséhez, bejegyzett élettársi kapcsolat létesítéséhez szükséges tanúsítvány kiadása,
+2.7.[^77] a megváltozott munkaképességű személyek ellátásainak igénylése,
 
-2.8.[^77] a megváltozott munkaképességű személyek ellátásainak igénylése.
+2.8.[^78] nem magyar állampolgár házasságkötése és bejegyzett élettársi kapcsolatának létesítése,
+
+2.9.[^79] házasságkötés és bejegyzett élettársi kapcsolat létesítése,
+
+2.10.[^80] a házassági névviselési forma módosítása,
+
+2.11.[^81] születés anyakönyvezése,
+
+2.12.[^82] hatósági bizonyítvány kiállítása az anyakönyvből,
+
+2.13.[^83] haláleset anyakönyvezése.
 
 3.
 
@@ -484,7 +494,7 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 
 3.3. A kormányablak betekintési lehetőséget biztosít az Országos Cégnyilvántartási és Céginformációs Rendszer cégadatbázisába.
 
-4.[^78]
+4.[^84]
 
 4.1. A kormányablak az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendelet szerinti építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi kérelmet és az ezekhez az eljárásokhoz kapcsolódó egyéb kérelmet, nyilatkozatot, igazolást papír alapon vagy elektronikus adathordozón átveszi. Az iratról elektronikus másolatot készít, azt továbbítja és feltölti az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe.
 
@@ -494,5 +504,11 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 [^74]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
 [^75]: A 2. melléklet 1. pont 1.7. alpontja a 95/2012. (V. 15.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
 [^76]: A 2. melléklet 1. pont 1. 39. alpontját a 133/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^77]: A 2. melléklet 2. pont 2.8. alpontját a 95/2012. (V. 15.) Korm. rendelet 42. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
-[^78]: A 2. melléklet 4. pontját a 414/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^77]: A 2. melléklet 2. pont 2.7. alpontja a 417/2012. (XII. 29.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
+[^78]: A 2. melléklet 2. pont 2.8. alpontját a 95/2012. (V. 15.) Korm. rendelet 42. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
+[^79]: A 2. melléklet 2. pont 2.9. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^80]: A 2. melléklet 2. pont 2.10. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^81]: A 2. melléklet 2. pont 2.11. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^82]: A 2. melléklet 2. pont 2.12. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^83]: A 2. melléklet 2. pont 2.13. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^84]: A 2. melléklet 4. pontját a 414/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
