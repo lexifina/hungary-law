@@ -1,0 +1,1 @@
+## 21. § Amennyiben az engedélyt a Hivatal módosítja, a módosításról szóló döntés egységes szerkezetben – a változatlan fennállásra történő utalással – tartalmazza a 20. § (1) és (3) bekezdés szerinti, módosítással nem érintett tartalmi elemeket is.

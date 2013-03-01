@@ -1,0 +1,3 @@
+74. § (1) A víziközmű-szolgáltató a felfüggesztés vagy korlátozás időszaka alatti fogyasztásából eredő fizetési kötelezettségéről a felfüggesztés vagy korlátozás időszakát követő 10 napon belül tájékoztatja az érintett egészségügyi, illetve gyermekintézményt.
+
+(2) Az (1) bekezdés szerinti fizetési kötelezettséget egyenlő részletekben, minden hónap utolsó napjáig, legkésőbb a felfüggesztés vagy korlátozás időszakot követő december 31-éig kell teljesíteni. A víziközmű-szolgáltató az egészségügyi, valamint gyermekintézménnyel ettől eltérően is megállapodhat, azonban a kivétel biztosítását nem teheti függővé e megállapodás megkötésétől.

@@ -1,0 +1,3 @@
+99. § (1) A Hivatal a Vksztv. 32. § (1) bekezdése szerinti körülményként értékeli azt, ha a víziközmű-szolgáltató 2011. december 31. napját megelőző nap óta az adott víziközmű-rendszerre nézve üzemeltetési szerződés nélkül végez víziközmű-szolgáltatási tevékenységet.
+
+(2) Az (1) bekezdés szerinti esetben a Hivatal közérdekű üzemeltetőként jelölheti ki a víziközmű-szolgáltatót, amennyiben a víziközmű-szolgáltató üzemeltetési tevékenységének fennállása miatt az ellátásért felelős 2011. december 31. napja előtt nem tiltakozott, a tevékenység megszüntetésére nem hívta fel, továbbá az üzemeltetési tevékenységgel összefüggésben más közérdekű üzemeltető kijelölésére okot adó körülmény nem áll fenn.

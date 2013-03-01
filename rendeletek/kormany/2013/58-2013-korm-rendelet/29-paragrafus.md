@@ -1,0 +1,1 @@
+## 28. § A víziközmű-szolgáltató a Hivatal részére a felek által aláírt üzemeltetési szerződést a Vksztv. 22. § (1) bekezdésében meghatározott módon és határidőn belül nyújthatja be. A Hivatal a döntéssel együtt a szerződés másolatának záradékolt példányát megküldi a víziközmű-szolgáltató részére.
