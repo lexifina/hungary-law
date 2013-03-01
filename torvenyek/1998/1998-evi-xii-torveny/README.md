@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 1998-12-00-00.23 |
 | 2012-12-15 | 2012. évi CLXXXI. törvény | 1998-12-00-00.24 |
 | 2013-01-01 | 2012. évi CLXXXI. törvény | 1998-12-00-00.25 |
+| 2013-03-01 | 2012. évi CCVII. törvény | 1998-12-00-00.26 |
