@@ -1,32 +1,13 @@
-## 9. § A Hivatal módszertani és tudásközpontként önálló elemzési, hatásvizsgálati, módszertan-fejlesztési tevékenységet végez.
-
-## 6. A Közigazgatási és Igazságügyi Hivatal személyügyi igazgatási feladatai
+## 6. [^4] A Közigazgatási és Igazságügyi Hivatal egyéb feladatai
 
 ## 10. § A Hivatal
 
-a) ellátja az integrált humánerőforrás-gazdálkodást támogató humáninformatikai rendszerre (KSzSzR) vonatkozó rendeletben meghatározott feladatait, az egységes toborzási adatbázis és a tartalékállomány egységes nyilvántartását biztosító tartinfó rendszerrel összefüggésben a vonatkozó jogszabályokban meghatározott feladatait,
+a) módszertani és tudásközpontként önálló elemzési, hatásvizsgálati, módszertan-fejlesztési tevékenységeket lát el,
 
-b) bevezeti és működteti a központi humánkontrolling rendszert,
+b) részt vesz az államigazgatási feladat- és hatáskörök feladatkataszterének elkészítésében,
 
-c) biztosítja a vonatkozó jogszabályban meghatározott pályázati és kiválasztási eljárásokkal összefüggő szolgáltatásokat,
+c) részt vesz a fővárosi és megyei kormányhivatalok feladatkörét, szervezetét és működését érintő projektek előkészítésében, végrehajtásában, adminisztrációjában,
 
-d) fejleszti és működteti a közigazgatási szervek munkaerő-utánpótlási igényei alapján a gyakornoki és utánpótlásprogramokat,
+d) szervezi a fővárosi és megyei kormányhivatalok, valamint a kormányablakok fejlesztését, a kormányablakok elhelyezésével összefüggően javaslatokat és intézkedéseket dolgoz ki.
 
-e)[^2]
-
-f)[^3]
-
-g)[^4]
-
-h)[^5] a Nemzeti Közszolgálati Egyetem közreműködésével működteti a kompetencia és munkaköralapú közszolgálati továbbképzés tervezési, beiskolázási és módszertani feladatait,
-
-i) javaslatot tesz a munkakör alapú rendszerre (MAR) és támogatja annak működtetését,
-
-j) javaslatot tesz az objektív teljesítménymenedzsment és teljesítményértékelési rendszerre és támogatja annak működtetését,
-
-k) javaslatot tesz a közszolgálati életpályát támogató belső karrier- és tehetségmenedzsmentre, és módszertani támogatást nyújt a közigazgatási szervek számára.
-
-[^2]: A 10. § e) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
-[^3]: A 10. § f) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
-[^4]: A 10. § g) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
-[^5]: A 10. § h) pontja a 273/2012. (IX. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^4]: A 6. alcím (10. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

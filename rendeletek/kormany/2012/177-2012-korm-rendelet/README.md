@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-177-20-
 | 2012-10-01 | 2012-177-20-22.5 | 273/2012. (IX. 28.) Korm. rendelet |
 | 2012-10-30 | 2012-177-20-22.6 | 305/2012. (X. 29.) Korm. rendelet |
 | 2013-02-28 | 2012-177-20-22.7 | 56/2013. (II. 27.) Korm. rendelet |
+| 2013-03-01 | 2012-177-20-22.8 | 56/2013. (II. 27.) Korm. rendelet |
