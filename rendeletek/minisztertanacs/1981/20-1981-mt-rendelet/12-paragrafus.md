@@ -1,1 +1,0 @@
-## 11. § Ha az üzemben tartó az autóbuszt vagy személygépkocsit a szerződésben meghatározott időben – vagy legkésőbb az azt követő 30 percen belül – nem állítja ki, a megrendelő kártérítésként követelheti a más járműért kifizetett díjtöbbletet, továbbá a szerződésszegés folytán keletkezett kárát.
