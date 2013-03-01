@@ -24,6 +24,6 @@ j) földgáz egyetemes szolgáltató: az az engedélyes, aki az egyetemes szolg�
 
 k) földgázkereskedő: az az engedélyes, aki a földgáz üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlására és értékesítésére a Hivataltól engedélyt kapott;
 
-l) földgáztároló engedélyes: az az engedélyes, aki a földgáztárolására a Hivataltól engedélyt kapott;
+l) biztonsági földgáztároló engedélyes: az a gazdasági társaság, amely a 4. § (1) bekezdésben meghatározott tárolót üzemelteti és az e törvény szerinti biztonsági földgáz készlet tárolására a Hivataltól engedélyt kapott;
 
 m) földgáz biztonsági készlet: elsősorban a lakossági fogyasztók földgázellátási biztonságának megőrzése érdekében az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott földgáz mennyiség.

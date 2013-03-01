@@ -10,6 +10,6 @@ A földgáztárolók szabad kapacitásának földgáz biztonsági készletezésr
 
 (3) A hozzáférésre jogosultak az ÜKSZ által megszabott határidőig az előző évben biztonsági készlet céljára lekötött kapacitáshoz is hozzáférhetnek. A bejelentett kapacitás lekötési igény esetén, annak mértékéig – amennyiben a biztonsági készlet más tárolóba nem helyezhető el – a készlet értékesítésre kerülhet. A biztonsági készlet e részét a Szövetség szabadon értékesítheti.
 
-(4) A földgáz tárolói engedélyes köteles a földgáz biztonsági készletezési célra rendelkezésre álló szabad kapacitásra a Szövetséggel szerződést kötni.
+(4) A biztonsági földgáztároló engedélyes köteles a földgáz biztonsági készletezési célra rendelkezésre álló szabad kapacitásra a Szövetséggel szerződést kötni.
 
 (5) Az 5. §-ban foglalt a készlet felhasználására vonatkozó szabályokat a (2) bekezdés szerinti tüzelési célra felhasználható kőolajtermékek vonatkozásában is alkalmazni kell.
