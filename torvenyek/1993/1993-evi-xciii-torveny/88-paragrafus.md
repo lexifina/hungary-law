@@ -4,7 +4,7 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a munkavédelmi hatóságot vagy hatóságokat, illetőleg az e törvény 86. §-ának (2) bekezdésében említett Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok, a rendvédelmi szervek, valamint az önkormányzati tűzoltóságok tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
+a) a munkavédelmi hatóságot vagy hatóságokat, illetőleg az e törvény 86. §-ának (2) bekezdésében említett Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok, a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóságok tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
 
 b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
@@ -97,6 +97,8 @@ e) az adópolitikáért felelős miniszterrel egyetértésben, rendeletben hatá
 részletes szabályait.
 
 (5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkahelyi kémiai biztonság részletes szabályait.
+
+(5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (6) Ez a törvény a következő közösségi jogi aktusoknak való megfelelést szolgálja:
 

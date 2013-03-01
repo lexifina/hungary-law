@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-93-00-00
 | 2012-03-01 | 2012. évi V. törvény | 1993-93-00-00.29 |
 | 2012-04-15 | 2012. évi II. törvény | 1993-93-00-00.30 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1993-93-00-00.31 |
+| 2013-03-01 | 2012. évi CCXIV. törvény | 1993-93-00-00.32 |
