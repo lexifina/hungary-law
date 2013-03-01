@@ -117,3 +117,7 @@ történik a kiállítása;
 38. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás.
 
 38. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás.
+
+39. a személyiadat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
+
+40. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi.

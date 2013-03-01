@@ -142,7 +142,7 @@ II. Személyazonosító igazolvány, valamint a személyi azonosítót és lakc�
 
 a) a 14. életévét be nem töltött polgár személyazonosító igazolványa iránti kérelme, kivéve az elveszett, megsemmisült, megrongálódott okmány cseréje esetén,
 
-b) a 70. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
+b) a 65. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
 
 3.
 
@@ -182,7 +182,7 @@ X. Anyakönyvi és névváltoztatási eljárás
 
 3. Az anyakönyvi ügyekért felelős miniszter által megváltoztatott név ismételt megváltoztatására irányuló kérelem illetéke 50 000 forint.
 
-4. A magyar állampolgár vagy Magyarországon élő hontalan személy, vagy a magyar menekültügyi hatóság által menekültként elismert személy külföldön történő házasságkötéséhez annak tanúsításáért, hogy házasságkötésének a magyar jog szerint nincs akadálya, 5000 forint illetéket kell fizetni.
+4.
 
 5. Nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges olyan igazolás alóli felmentésért, amely tanúsítja, hogy a házasságkötésnek a személyes joga szerint nincs akadálya, 5000 forint illetéket kell fizetni.
 
