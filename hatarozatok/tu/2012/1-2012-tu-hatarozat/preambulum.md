@@ -1,1 +1,0 @@
-Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 50. § (1) bekezdésében, 56. § (1) és (4) bekezdésében, 57. § (6) bekezdésében, 59. §-ában és 70. §-ában foglalt felhatalmazás alapján az Alkotmánybíróság eljárásának részletes szabályait az alábbiakban állapítja meg.
