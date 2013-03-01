@@ -1,0 +1,3 @@
+14. § (1) Annak az utasnak, aki a menetjegy váltását elmulasztotta, vagy aki az ellenőrzés vagy a leszállás alkalmával érvényes utazási igazolványát nem mutatja fel, továbbá aki utazási igazolványt jogtalanul használ, illetve kedvezményt jogtalanul vesz igénybe, a teljes utazási viszonylatára érvényes menetdíjat és pótdíjat meg kell fizetnie. Ha az utas felszállási helye vagy célállomása nem állapítható meg, a járat kiindulási helyétől a célállomásig, illetve a felszállási helytől az járat teljes útvonalára érvényes menetdíjat és pótdíjat kell megfizetnie.
+
+(2) Aki érvényesített utazási igazolvánnyal nem rendelkezik, annak az utazási igazolvány utólagos megvásárlásával és kezelésével egyidejűleg pótdíjat kell fizetnie.
