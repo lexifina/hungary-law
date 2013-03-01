@@ -1,70 +1,59 @@
-## Adatszolgáltatást kérő lap
+## Adatszolgáltatást kérő lap adattartalma
 
-## I.
+## 1. A kérelmező:
 
-## A kérelmező neve:
+## 1.1. neve
 
-## Címe:
+## 1.2. címe
 
-## Képviselőjének neve:
+## 1.3. képviselőjének neve
 
-## A kérelmező vagy képviselője személyi azonosítója:
+## 2. A kérelmező személyi azonosítója
 
-## II.[^201]
+## 3. A kért adatkör meghatározása:
 
-## A kért adatkör meghatározása:
+## 3.1. név
 
-## – név
+## 3.2. születési név
 
-## – születési név
+## 3.3. lakóhely
 
-## – lakóhely
+## 3.4. tartózkodási hely
 
-## – tartózkodási hely
+## 3.5. értesítési cím
 
-## – születési idő
+## 3.6. születési idő
 
-## – születési hely
+## 3.7. születési hely
 
-## – anyja neve
+## 3.8. anyja neve
 
-## – személyi azonosító
+## 3.9. személyi azonosító
 
-## – egyéb
+## 3.10. egyéb
 
-## III.
+## 4. Az adatszolgáltatás terjedelme:
 
-## Az adatszolgáltatás terjedelme: azon polgárok körének meghatározása, akikről a II. pontban meghatározott adatkörbe tartozó adatokat kéri (csoportismérv meghatározása):
+## 4.1. azon polgárok körének meghatározása, akikről a 3. pontban meghatározott adatkörbe tartozó adatokat kéri (csoportismérv meghatározása)
 
-## IV.
+## 5. Az adatfelhasználás célja
 
-## Az adatfelhasználás célja:
+## 6. Az adatkérés jogalapja és igazolása
 
-## V.
+## 7. Az adatszolgáltatás formája:
 
-## Az adatkérés jogalapja és igazolása:
+## 7.1. on-line
 
-## VI.
+## 7.2. mágneses adathordozó
 
-## Az adatszolgáltatás formája:
+## 7.3. papír
 
-## – on-line
+## 8. Az adatszolgáltatás kért határideje, rendszeressége
 
-## – mágneses adathordozó
+## 9. A kérelem benyújtásának időpontja
 
-## – papír
+## 10. A kérelmező aláírása
 
-## VII.
+3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^228]
 
-## Az adatszolgáltatás kért határideje, rendszeressége:
-
-## Dátum: ....................
-
-## ..................
-
-## aláírás
-
-3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^202]
-
-[^201]: Az R. 2. számú mellékletének II. pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
-[^202]: A 3. számú melléklet a 13/1999. (II. 1.) Korm. rendelet 35. §-ával és 3. számú mellékletével megállapított, valamint a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^228]: Az R. 3. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés b) pontjával megállapított szöveg.

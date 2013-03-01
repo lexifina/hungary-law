@@ -1,21 +1,24 @@
-32. §[^153] (1)[^154] A lakcímbejelentést – a 29. § (3) és a 30. § (2) bekezdésében meghatározott kivétellel – a 3. számú mellékletben előírt adattartalmú bejelentőlapon kell teljesíteni. A bejelentőlapot a lakcímbejelentés teljesítésére kötelezettnek és az e rendeletben meghatározott esetekben a szállásadónak is saját kezűleg alá kell írnia.''
+32. §[^176] (1)[^177] A lakcímbejelentést – a 29. § (3) bekezdésében, a 30. § (2) bekezdésében, valamint az Nytv. 26. § (2a) és (2b) bekezdésében, valamint jogszabályban meghatározott kivétellel – a 3. számú mellékletben előírt adattartalmú bejelentőlapon kell teljesíteni. A bejelentőlapot a lakcímbejelentés teljesítésére kötelezettnek és az e rendeletben meghatározott esetekben – az Nytv. 27/A. § (1) bekezdés b) pontjában és (3) bekezdésében foglalt kivétellel – a szállásadónak is saját kezűleg alá kell írnia.
 
-(2)[^155] A bejelentőlapon szereplő személyi adatokat a személyazonosító igazolvány, ennek hiányában a személyazonosság igazolására alkalmas más érvényes okmány adattartalmával egyezően kell kiállítani. Ilyen okmány hiányában az adatok igazolására szolgál
+(1a)[^178] Az értesítési címet a 6. számú mellékletben előírt adattartalmú, az értesítési címét bejelentő polgár által saját kezűleg aláírt bejelentőlapon vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás útján kell bejelenteni.
+
+(2)[^179] Az (1) és (1a) bekezdés szerinti bejelentőlapon szereplő személyi adatokat a személyazonosító igazolvány, ennek hiányában a személyazonosság igazolására alkalmas más érvényes okmány adattartalmával egyezően kell kiállítani. Ilyen okmány hiányában az adatok igazolására szolgál
 
 a) bevándorolt esetében a jogerős bevándorlási engedély,
 
-b)[^156] a letelepedett jogállású polgár esetében az érvényes letelepedett jogállást igazoló okmánya,
+b)[^180] a letelepedett jogállású polgár esetében az érvényes letelepedett jogállást igazoló okmánya,
 
-c)[^157] a szabad mozgás és tartózkodás jogával rendelkező személy esetében érvényes úti okmánya,
+c)[^181] a szabad mozgás és tartózkodás jogával rendelkező személy esetében érvényes úti okmánya,
 
-d)[^158] menekült esetében a menekültkénti, az oltalmazott esetében az oltalmazottkénti elismerésről rendelkező jogerős határozat.
+d)[^182] menekült esetében a menekültkénti, az oltalmazott esetében az oltalmazottkénti elismerésről rendelkező jogerős határozat.
 
-(3)[^159] A bejelentkezés teljesítésekor a polgár a személyazonosító igazolványát vagy – amennyiben személyazonosító igazolvánnyal nem rendelkezik – más, személyazonosításra alkalmas hatósági igazolványát köteles bemutatni és a személyi azonosítóról és a lakcímről szóló hatósági igazolványát leadni.
+(3)[^183] A bejelentkezés teljesítésekor a polgár a személyazonosító igazolványát vagy – amennyiben személyazonosító igazolvánnyal nem rendelkezik – más, személyazonosításra alkalmas hatósági igazolványát köteles bemutatni és a személyi azonosítóról és a lakcímről szóló hatósági igazolványát leadni.
 
-[^153]: Az R. 32. § -a a 13/1999. ( II.1.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^154]: Az R. 32. §-ának (1) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^155]: Az R. 32. §-ának (2) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^156]: Az R. 32. § (2) bekezdésének b) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^157]: Az R. 32. § (2) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^158]: Az R. 32. § (2) bekezdés d) pontja a 26/2011. (III. 10.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^159]: Az R. 32. §-ának (3) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^176]: Az R. 32. § -a a 13/1999. ( II.1.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^177]: Az R. 32. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^178]: Az R. 32. § (1a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^179]: Az R. 32. §-ának (2) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 417/2012. (XII. 29.) Korm. rendelet 41. § i) pontja szerint módosított szöveg.
+[^180]: Az R. 32. § (2) bekezdésének b) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^181]: Az R. 32. § (2) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^182]: Az R. 32. § (2) bekezdés d) pontja a 26/2011. (III. 10.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^183]: Az R. 32. §-ának (3) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 57. §-ával megállapított szöveg.

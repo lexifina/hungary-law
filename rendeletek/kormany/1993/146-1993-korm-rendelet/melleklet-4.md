@@ -1,87 +1,51 @@
-## Bejelentőlap
+## A lakcímbejelentő lap adattartalma
 
-## lakóhelyváltozásról
+## 1. A bejelentő
 
-## Adattartalma:
+## 1.1. családi és utóneve,
 
-## – családi és utónév,
+## 1.2. születési családi és utóneve,
 
-## – születési családi és utónév,
+## 1.3. anyja neve,
 
-## – születési hely, idő,
+## 1.4. születési helye és ideje,
 
-## – anyja születési családi és utóneve,
+## 1.5. állampolgársága,
 
-## – állampolgárság,
+## 1.6. személyi azonosítója,
 
-## – személyi azonosító,
+## 1.7. nyilvántartásba bejegyzett és újonnan létesítendő lakcíme,
 
-## – a kitöltés indoka: lakóhely létesítése, lakóhely változása, lakóhely megszűnése, lakóhely érvénytelenítése, külföldi letelepedés
+## 1.8. aláírása.
 
-## – eddigi lakóhely,
+## 2. A bejelentés következő jogcímei:
 
-## – új lakóhely,
+## 2.1. lakóhely
 
-## – bejelentés dátuma,
+## 2.1.1. létesítése,
 
-## – szállásadó aláírása,
+## 2.1.2. megváltoztatása,
 
-## – bejelentő aláírása,
+## 2.2. tartózkodási hely
 
-## – az ügyintéző által a fenti adatokból kódolt adattartalom,
+## 2.2.1. létesítése,
 
-## – ügyintéző aláírása.
+## 2.2.2. megváltoztatása,
 
-## Bejelentőlap
+## 2.2.3. megszüntetése,
 
-## tartózkodási hely változásról, ideiglenes külföldi tartózkodásról
+## 2.2.4. megújítása.
 
-## Adattartalma:
+## 3. A szállásadó neve, aláírása, szállásadói minősége, lakcíme, az Nytv. 27/A. § (1) bekezdés b) pontjában és (3) bekezdésében foglalt kivétellel.
 
-## – családi és utónév,
+## 4. A bejelentés dátuma.
 
-## – születési családi és utónév,
+## 5. Az ügyintéző aláírása.
 
-## – születési hely, idő,
+## 6. A feldolgozáshoz szükséges technikai jellegű adatok.
 
-## – anyja születési családi és utóneve,
-
-## – állampolgárság,
-
-## – személyi azonosító,
-
-## – a kitöltés indoka: tartózkodási hely létesítése, változása, megszűnése, megújítása, érvénytelenítése; ideiglenes külföldön tartózkodás bejelentése, visszatérés ideiglenes külföldön tartózkodásból;
-
-## – eddigi tartózkodási hely,
-
-## – új tartózkodási hely,
-
-## – bejelentés dátuma,
-
-## – szállásadó aláírása,
-
-## – bejelentő aláírása,
-
-## – az ügyintéző által a fenti adatokból kódolt adattartalom,
-
-## – ügyintéző aláírása.
-
-4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^203]
+4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^229]
 
 Kérelem a törvényes képviselő adatainak feltüntetése iránt
 
-A 14 éven aluli kiskorú adatai:
-
-– családi és utónév,
-
-– születési hely, idő,
-
-– anyja születési családi és utóneve.
-
-A törvényes képviselők adatai:
-
-– családi és utónév,
-
-– telefonszám.
-
-[^203]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^229]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.
