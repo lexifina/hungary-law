@@ -272,7 +272,7 @@
 
 1. Országgyűlési Őrség parancsnoka és helyettesei,
 
-2.[^61] az igazgató, a főosztályvezető,
+2.[^54] az igazgató, a főosztályvezető,
 
 3. a főosztályvezető-helyettes,
 
@@ -280,4 +280,4 @@
 
 5. az állományilletékes parancsnok által meghatározott egyéb beosztások, ahol az idegen nyelv használata a szolgálat ellátásához nélkülözhetetlen.
 
-[^61]: A 3. melléklet 2. pontja a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés r) pontjával megállapított szöveg.
+[^54]: A 3. melléklet 2. pontja a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés r) pontjával megállapított szöveg.

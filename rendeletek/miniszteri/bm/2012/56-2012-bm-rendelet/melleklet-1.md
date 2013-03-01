@@ -1,6 +1,6 @@
 ## szöveg lép.
 
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^60]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^53]
 
 ## Az Országgyűlési Őrségnél rendszeresített hivatásos szolgálati beosztások, az azokhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
 
@@ -86,4 +86,4 @@ A rendészeti alapvizsga valamennyi, a II. besorolási osztályba tartozó beosz
 
 2. RSZVI: rendészeti szakvizsga
 
-[^60]: Az 1. melléklet a 81/2012. (XII. 28.) BM rendelet 42. §-a szerint módosított szöveg.
+[^53]: Az 1. melléklet a 81/2012. (XII. 28.) BM rendelet 42. §-a szerint módosított szöveg.

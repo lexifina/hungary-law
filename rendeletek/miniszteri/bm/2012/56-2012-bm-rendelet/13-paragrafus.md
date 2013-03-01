@@ -8,7 +8,7 @@ b) az illetmény nélküli szabadság kezdetét, várható időtartamát, valami
 
 c) az illetmény nélküli szabadság tartamának társadalombiztosítási szempontból történő beszámíthatóságát.
 
-(3) A munkáltatói intézkedéshez csatolni kell az érintett nyilatkozatát a jogfenntartó társadalombiztosítási járulék fizletésére vonatkozóan.
+(3) A munkáltatói intézkedéshez csatolni kell az érintett nyilatkozatát a jogfenntartó társadalombiztosítási járulék fizetésére vonatkozóan.
 
 (4)[^10] A hivatásos állománynak a Hszt. 52/A. §-a alapján az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programokban szakértőként részt vevő tagját a szolgálati feladatok ellátása alól a Hszt. 70. § (1) bekezdés h) pontja alapján mentesíteni kell arra az időtartamra, amíg a szakértői tevékenységet ellátja. A szakértői tevékenység ellátásának időtartamára a hivatásos állomány tagja nem jogosult a Hszt. 254. §-ában meghatározott pótlékokra.
 
