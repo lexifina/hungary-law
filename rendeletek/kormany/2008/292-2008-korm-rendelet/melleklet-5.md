@@ -1,12 +1,12 @@
 ## Tenyésztési napló
 
-| Név: | Tartási hely: |
+| Tenyésztő neve, telefonszáma, e-mail címe: | Tartási hely: |
 
-| Faj | Az egyedi azonosító száma | Bekerülés dátuma | Kikerülés dátuma és oka (pl. elhullás, eladás) |
+| Faj neve (magyar és latin) | Az egyedi azonosító száma | Bekerülés dátuma | Kikerülés dátuma és oka (pl. elhullás, eladás) |
 
 | Faj: |
 
-| Szülőállatok egyedi azonosító száma(i): |
+| Mindkét szülőállat egyedi azonosító száma, nyilvántartási száma, eredetkódja: |
 
 | Tojásrakó állatok esetében a tojásrakás(ok) időpontja(i): |
 

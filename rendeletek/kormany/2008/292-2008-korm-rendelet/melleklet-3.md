@@ -4,7 +4,7 @@
 
 ## Verification of origin (for specimen originating from outside of Hungary)
 
-| Tudományos és magyar fajnév / Scientific and common name of species | Az eredeti CITES-engedély engedély száma / CITES permit No. |
+| Tudományos és magyar fajnév / Scientific and common name of species | Az eredeti CITES-engedély száma, származási ország, kiállítás dátuma / CITES permit No, country of origin, date of issue. |
 
 |  | biztonsági száma / security stamp No. |
 
@@ -26,4 +26,6 @@
 
 ## A DOKUMENTUM ÉRVÉNYESSÉGÉRE VONATKOZÓ SPECIÁLIS FELTÉTELEK / SPECIAL CONDITIONS FOR THE VALIDITY OF THE DOCUMENT:
 
-3. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez
+3. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^51]
+
+[^51]: A 3. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.

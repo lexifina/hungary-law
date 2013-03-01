@@ -6,11 +6,11 @@
 
 (2)[^3] A környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) és az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) nyilvántartást vezet a 4. § szerinti bejelentésekről, továbbá a felügyelőség kiállítja a 6. és 7. § szerinti bizonylatokat és igazolásokat, valamint a görögteknős, a mórteknős és a szegélyes teknős esetében a tanácsi rendelet 8. cikk (3) bekezdése vagy 9. cikk (2) bekezdése szerinti bizonylatokat (a tanácsi rendelet 8. cikk (3) bekezdése vagy 9. cikk (2) bekezdése szerinti bizonylat a továbbiakban együtt: EU-bizonylat).
 
-(3)[^4] Az igazgatási hatóság, a Főfelügyelőség, a felügyelőség, az állat- és növény-egészségügyi hatóság, az élelmiszer-biztonsági hatóság, a rendőrség, valamint a vám- és pénzügyőrség az Egyezmény, a tanácsi rendelet, a 865/2006/EK bizottsági rendelet és az e rendelet végrehajtása érdekében hatósági ellenőrzést végez.
+(3)[^4] Az igazgatási hatóság, a Főfelügyelőség, a felügyelőség, az állat- és növény-egészségügyi hatóság, az élelmiszer-biztonsági hatóság, a rendőrség, valamint a Nemzeti Adó- és Vámhivatal az Egyezmény, a tanácsi rendelet, a 865/2006/EK bizottsági rendelet és az e rendelet végrehajtása érdekében hatósági ellenőrzést végez.
 
-(4)[^5] A Közép-Dunavölgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség ellátja a 4. § szerinti bejelentésekről, a 6. és 7. § szerinti bizonylatokról és igazolásokról szóló nyilvántartások központi koordinációját, valamint kiállítja a 6. § (4) bekezdés szerinti eredetigazolást.
+(4)[^5] A Közép-Dunavölgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség ellátja a 4. § szerinti bejelentésekről, a 6. és 7. § szerinti bizonylatokról és igazolásokról, valamint az EU bizonylatokról szóló nyilvántartások központi koordinációját, valamint kiállítja a 6. § (4) bekezdés szerinti eredetigazolást.
 
 [^2]: A 3. § (1) bekezdése a 217/2011. (X. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^3]: A 3. § (2) bekezdése a 84/2010. (III. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^4]: A 3. § (3) bekezdése a 217/2011. (X. 19.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^5]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 650. §-a hatályon kívül helyezte, újonnan a 84/2010. (III. 25.) Korm. rendelet 17. §-a iktatta be.
+[^4]: A 3. § (3) bekezdése a 217/2011. (X. 19.) Korm. rendelet 8. § a) pontja, a 41/2013. (II. 14.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 650. §-a hatályon kívül helyezte, újonnan a 84/2010. (III. 25.) Korm. rendelet 17. §-a iktatta be, szövege a 41/2013. (II. 14.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
