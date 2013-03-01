@@ -22,7 +22,13 @@ c) többletpontként legfeljebb 10 pont
 
 adható.
 
-(4)[^6]
+(4) A tanulmányi pontszám a következő részpontszámok összege:
+
+a) a szigorlati tantárgyak érdemjegyei átlagának hatszorosa,
+
+b) az adott szakhoz kapcsolódó öt szakmaspecifikus tantárgy 1,2-del súlyozott érdemjegyeinek összege és
+
+c) az egyetemi záróvizsga 2,0-del súlyozott érdemjegye.
 
 (5) Az egyes szakképzési szakokhoz tartozó szakmaspecifikus tantárgyak körét a miniszter tájékoztatóban teszi közzé.
 
@@ -30,4 +36,3 @@ adható.
 
 [^4]: A 4. § (1) bekezdése a 20/2011. (V. 10.) NEFMI rendelet 15. § b) pontja szerint módosított szöveg.
 [^5]: A 4. § (2) bekezdés b) pontja a 20/2011. (V. 10.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
-[^6]: A 4. § (4) bekezdése a 22. § (2) bekezdése alapján 2013. március 1-jén lép hatályba.
