@@ -14,7 +14,7 @@ f) az idegenrendészeti eljárásban közreműködő szakhatóságok,
 
 g) a vámhatóság,
 
-h) az állampolgársági ügyekben eljáró hatóság,
+h) az állampolgársági ügyekben eljáró szerv és az állampolgársági ügyekért felelős miniszter,
 
 i) a személyi adat- és lakcímnyilvántartással kapcsolatos ügyekben eljáró hatóság,
 
