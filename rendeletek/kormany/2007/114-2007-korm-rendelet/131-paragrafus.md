@@ -1,6 +1,6 @@
 ## A közösségi szállás
 
-131. § (1)[^252] Közösségi szállás az idegenrendészeti eljárás alatt álló külföldiek elhelyezésére szolgáló, a Hivatal által fenntartott szálláshely.
+131. § (1)[^253] Közösségi szállás az idegenrendészeti eljárás alatt álló külföldiek elhelyezésére szolgáló, a Hivatal által fenntartott szálláshely.
 
 (2) Közösségi szállás olyan épületben létesíthető, ahol
 
@@ -14,4 +14,4 @@ d) orvosi vizsgálat céljára szolgáló helyiség és egészségügyi elkülö
 
 e) higiénés célra, az engedélyezett férőhelyek számának figyelembevételével kialakított számú, nemenként elkülönített, hideg-meleg folyóvízzel ellátott mosdó és zuhanyozó, valamint WC helyiségek állnak rendelkezésre, és a harmadik országbeli állampolgárok által tartózkodás céljára szolgáló valamennyi helyiség esetén természetes szellőzés és természetes fény biztosítható.
 
-[^252]: A 131. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^253]: A 131. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.

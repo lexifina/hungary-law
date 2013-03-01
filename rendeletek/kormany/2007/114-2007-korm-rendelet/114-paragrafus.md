@@ -2,11 +2,11 @@
 
 ## és tartózkodási tilalom elrendelése
 
-114. §[^209] (1) Idegenrendészeti kiutasítás elrendelésére – a (2) bekezdésben meghatározott kivétellel – a regionális igazgatóság jogosult.
+114. §[^210] (1) Idegenrendészeti kiutasítás elrendelésére – a (2) bekezdésben meghatározott kivétellel – a regionális igazgatóság jogosult.
 
-(2)[^210] A Tv. 43. § (2) bekezdés a) pontja alapján a Rendőrség jogosult idegenrendészeti kiutasítás elrendelésére, feltéve, hogy Magyarország államhatárának jogellenes átlépését vagy ennek kísérletét a Schengeni határ-ellenőrzési kódex 2. cikk 9. pontjában meghatározott határellenőrzési tevékenysége kapcsán, a határterületen észlelte, és a harmadik országbeli állampolgár kiutasításának végrehajtására visszafogadási egyezmény alapján kerülhet sor.
+(2)[^211] A Tv. 43. § (2) bekezdés a) pontja alapján a Rendőrség jogosult idegenrendészeti kiutasítás elrendelésére, feltéve, hogy Magyarország államhatárának jogellenes átlépését vagy ennek kísérletét a Schengeni határ-ellenőrzési kódex 2. cikk 9. pontjában meghatározott határellenőrzési tevékenysége kapcsán, a határterületen észlelte, és a harmadik országbeli állampolgár kiutasításának végrehajtására visszafogadási egyezmény alapján kerülhet sor.
 
-(3)[^211] Önálló beutazási és tartózkodási tilalom elrendelésére
+(3)[^212] Önálló beutazási és tartózkodási tilalom elrendelésére
 
 a) a Tv. 43. § (1) bekezdés a)–b) pontja alapján a Hivatal,
 
@@ -42,6 +42,6 @@ b) a Tv. 43. § (2) bekezdés e) pontja alapján kizárólag az egészségügyi 
 
 (7) Amennyiben a külpolitikáért felelős miniszter a vízumeljárás alapján a vízumkérelmezőre vonatkozóan a Tv. 43. § (1) bekezdés c) pontjában foglaltak fennállását valószínűsíti, erről haladéktalanul értesíti a veszélyeztetett érdek védelméért felelős rendvédelmi szervet.
 
-[^209]: A 114. § a 290/2010. (XII. 21.) Korm. rendelet 60. §-ával megállapított szöveg.
-[^210]: A 114. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^211]: A 114. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^210]: A 114. § a 290/2010. (XII. 21.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^211]: A 114. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^212]: A 114. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 23. §-ával megállapított szöveg.

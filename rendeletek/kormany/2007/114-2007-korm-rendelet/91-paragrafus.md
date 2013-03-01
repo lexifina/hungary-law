@@ -14,8 +14,9 @@
 
 (5)[^164] A lakóhely megváltozása nem jár a tartózkodási okmány cseréjével. A lakóhelyváltozás bejelentését a (4) bekezdés szerinti eljárásban a járási hivatal által kiadott, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány igazolja, ezért ezt a hatósági igazolványt a tartózkodási okmánnyal együtt kell őrizni és az arra feljogosított hatóságnak betekintésre át kell adni.
 
-(6) A letelepedett harmadik országbeli állampolgár a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadására irányuló eljárásban az első lakóhelyét a regionális igazgatóság által kiadott, az idegenrendészeti hatóság által nyilvántartott személyes adatokat és a tartózkodási okmány okmányazonosító adatait is tartalmazó hatósági bizonyítvánnyal igazolja. A lakóhelyváltozás bejelentését a továbbiakban a személyi azonosítóról és a lakcímről szóló hatósági igazolvány igazolja.
+(6)[^165]
 
 [^162]: A 91. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 548. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^163]: A 91. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
 [^164]: A 91. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^165]: A 91. § (6) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 66. §-a hatályon kívül helyezte.
