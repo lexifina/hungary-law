@@ -10,7 +10,16 @@
 
 (5)[^47] Az a gyógyszertár, amely internetes gyógyszerkereskedelmet végez, honlapjának címét e tevékenység megkezdésekor közli a gyógyszertárak szakmai felügyeletét ellátó egészségügyi államigazgatási szervvel.
 
+(6)[^48] Az Országos Tisztifőorvosi Hivatal honlapján közzéteszi az alábbiakat:
+
+a) tájékoztatás az internetes gyógyszerkereskedelemmel kapcsolatos magyar és uniós jogszabályi rendelkezésekről, beleértve azt a tájékoztatást is, hogy a gyógyszerek besorolása és szállításuk feltételei tekintetében a tagállamok között eltérések lehetnek,
+
+b) internetes gyógyszerforgalmazásra jogosult magyarországi gyógyszertárak és honlapjaik jegyzéke,
+
+c) tájékoztatás az elektronikus kereskedelmi szolgáltatások keretében a lakosság számára jogellenesen szállított gyógyszerekkel kapcsolatos kockázatokról.
+
 [^44]: A 17. § (1) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
 [^45]: A 17. § (2) bekezdése az 56/2009. (XII. 30.) EüM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^46]: A 17. § (4) bekezdését az 56/2009. (XII. 30.) EüM rendelet 10. § (2) bekezdése iktatta be. E módosító rendelet 24. § (3) bekezdése alapján a 2010. január 29. napján már működő gyógyszertárak és a honlapot működtető gyógyszertárak a 17. § (4) bekezdése szerinti bejelentési kötelezettségüket a 2010. január 29. napját követő 15 napon belül teljesítik.
 [^47]: A 17. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 10. § (2) bekezdése iktatta be. E módosító rendelet 24. § (3) bekezdése alapján a 2010. január 29. napján már működő gyógyszertárak és a honlapot működtető gyógyszertárak a 17. § (5) bekezdése szerinti bejelentési kötelezettségüket a 2010. január 29. napját követő 15 napon belül teljesítik.
+[^48]: A 17. § (6) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 25. §-a iktatta be.

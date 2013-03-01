@@ -33,3 +33,11 @@ e) a házhoz szállított gyógyszer átadásának időpontját.
 (3) Gyógyszerek házhoz szállítása során a Gyftv. 55. § (5) bekezdésében foglaltak irányadóak.
 
 (4) A házhoz szállítás a gyógyszer sértetlen, forgalomba hozatali engedélyében jóváhagyott csomagolásában történik. Ha a készítmény bontható, az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 21. §-ában foglalt szakmai szabályok szerinti csomagolásban történik a házhoz szállítás.
+
+(5)[^62] Az internetes gyógyszerkereskedelmet végző gyógyszertárak honlapjukon feltüntetik az alábbi adatokat:
+
+a) az egészségügyi államigazgatási szerv megnevezése,
+
+b) hiperhivatkozás a 17. § (6) bekezdés b) pontja szerinti jegyzékre.
+
+[^62]: A 19. § (5) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 26. §-a iktatta be.
