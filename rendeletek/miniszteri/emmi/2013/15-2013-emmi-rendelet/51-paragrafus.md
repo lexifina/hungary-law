@@ -1,0 +1,1 @@
+## 50. § Az e rendelet hatálybalépésekor már megkötött – pedagógiai szakszolgálati feladat ellátására vonatkozó – közoktatási megállapodások és köznevelési szerződések, joghatásukat tekintve az e rendeletben szabályozott köznevelési szerződésekkel egyenértékűek.

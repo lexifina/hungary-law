@@ -1,0 +1,1 @@
+## 49. § A tanulási képességet vizsgáló szakértői és rehabilitációs bizottságok, az országos szakértői és rehabilitációs bizottságok, és a nevelési tanácsadók, e rendelet hatálybalépése előtt kibocsátott szakértői véleményei és szakvéleményei joghatásukat tekintve az e rendelet szabályai szerint hozott szakértői véleményekkel egyenértékűek.
