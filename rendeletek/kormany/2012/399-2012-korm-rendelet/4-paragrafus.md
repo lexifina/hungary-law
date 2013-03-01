@@ -1,0 +1,3 @@
+4. § (1) Az 1. § (6) bekezdésben foglalt feltételek szerint kiadott engedély esetében az engedélyes által készített, minősített adatot tartalmazó távérzékelési adatot, amennyiben az az engedélyesnek nem adható át, a honvédelem térképészeti támogatásáért felelős szervnél kell tárolni, vagy meg kell semmisíteni.
+
+(2) A távérzékelt adatok tulajdonosa, amennyiben rendelkezik a minősített adat szintjének megfelelő, a minősített adat védelméről szóló törvényben előírt feltételekkel, és a minősített adatot tartalmazó távérzékelt adat a távérzékelés eredeti felhasználási céljának megvalósulásához elengedhetetlenül szükséges, a honvédelem térképészeti támogatásáért felelős szervhez benyújtott kérelmére a (1) bekezdésben foglalt rendelkezés alól mentesíthető.
