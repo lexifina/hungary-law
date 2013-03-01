@@ -1,4 +1,4 @@
-## 20. §[^20]
+## 20. §[^19]
 
 ## 21. A műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar
 
@@ -6,4 +6,4 @@
 
 ## 321/2010. (XII. 27.) Korm. rendelet módosítása
 
-[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
