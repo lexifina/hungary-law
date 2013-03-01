@@ -1,40 +1,67 @@
 ## A honosítási és visszahonosítási kérelem
 
-## 3. §[^6]
+## 3. §[^9]
 
-(1)[^7] Az állampolgársági ügyekben eljáró szerv a kérelemben feltüntetett adatokat a következő nyilvántartásokban ellenőrzi:
+(1)[^10] Az állampolgársági ügyekben eljáró szerv a kérelemben feltüntetett adatokat a következő nyilvántartásokban ellenőrzi:
 
-a) a magyarországi lakcímet, valamint a tartózkodás időtartamát és jogcímét a személyiadat- és lakcímnyilvántartásban, valamint a központi idegenrendészeti nyilvántartásban vagy a menekültügyi nyilvántartásban;
+a)[^11] a magyarországi lakcímet, valamint a tartózkodás időtartamát és jogcímét a személyiadat- és lakcímnyilvántartásban, valamint az idegenrendészeti nyilvántartásban vagy a menekültügyi nyilvántartásban;
 
-b)[^8] a magyarországi büntetlen előéletet és azt a tényt, hogy a kérelmező Magyarországon nem áll büntetőeljárás hatálya alatt, a bűnügyi nyilvántartásban.
+b)[^12] a magyarországi büntetlen előéletet és azt a tényt, hogy a kérelmező Magyarországon nem áll büntetőeljárás hatálya alatt, a bűnügyi nyilvántartásban.
 
-(2)[^9] A kérelmező köteles nyilatkozni arról, hogy büntetlen előéletű és nem folyik ellene büntető eljárás, valamint arról, hogy az elmúlt öt évben elmarasztalta-e valamely bíróság szándékos bűncselekmény miatt. A külföldön élő kérelmezőnek az állampolgársági ügyekben eljáró szerv felhívására csatolnia kell a külföldi lakóhelye szerint illetékes hatóság büntetlenséget tanúsító igazolását.
+(2)[^13] A kérelmező köteles nyilatkozni arról, hogy büntetlen előéletű és nem folyik ellene büntető eljárás, valamint arról, hogy az elmúlt öt évben elmarasztalta-e valamely bíróság szándékos bűncselekmény miatt. A külföldön élő kérelmezőnek az állampolgársági ügyekben eljáró szerv felhívására csatolnia kell a külföldi lakóhelye szerint illetékes hatóság büntetlenséget tanúsító igazolását.
 
-(3)[^10] Az állampolgársági ügyekben eljáró szerv hiánypótlási felhívására köteles a kérelmező igazolni a lakhatásának és megélhetésének feltételeit.
+(3)[^14] A kérelmező – az Ápt. 4. § (3), (3a), (6) és (7) bekezdésére alapozott honosítást vagy a visszahonosítást kérelmező kivételével – köteles igazolni a lakhatásának és megélhetésének feltételeit.
 
-(4)[^11] Az Ápt. 4. §-a (2) bekezdésének c) pontjára, valamint (6) bekezdésére alapozott honosítási kérelemhez mellékelni kell a magyar gyámhatóság jogerős határozatát, az Ápt. 4. §-ának (3) bekezdésére alapozott honosítási kérelemhez és a visszahonosítási kérelemhez az állampolgársági ügyekben eljáró szerv hiánypótlási felhívására a kérelmező, illetve felmenői egykori magyar állampolgárságát igazoló vagy valószínűsítő okiratokat.
+(4)[^15] Az Ápt. 4. § (3) bekezdésére alapozott honosítási kérelemhez és a visszahonosítási kérelemhez mellékelni kell a kérelmező, illetve felmenői egykori magyar állampolgárságát igazoló vagy valószínűsítő okiratokat.
 
-(5) Az Ápt. 4. §-a (2) bekezdésének a), b) és c) pontjaira alapozott honosítási kérelem előterjesztésekor igazolni kell a házastárs, a kiskorú gyermek, illetve az örökbefogadó magyar állampolgárságát, vagy közölni kell az állampolgárság megállapításához szükséges adatokat.
+(5)[^16] Az Ápt. 4. § (2) bekezdés a), b) és c) pontjára alapozott honosítási kérelem előterjesztésekor közölni kell a házastárs, a kiskorú gyermek, illetve az örökbefogadó magyar állampolgársága megállapításához szükséges adatokat. Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor közölni kell a házastárs magyar állampolgársága megállapításához szükséges adatokat.
 
-(6)[^12] Az Ápt. 4. § (1)–(2) és (4) bekezdésére alapozott honosítási kérelemhez mellékelni kell az alkotmányos alapismeretekből tett sikeres vizsgáról szóló igazolást, vagy az Ápt. 4/A. §-ának (2) bekezdésében meghatározott ok fennállásának igazolására
+(5a)[^17] Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor a kérelmező és a házastársa köteles nyilatkozni arról, hogy az Ápt. 4. § (3a) bekezdés a) pont aa) alpontjában meghatározott esetben legalább tíz éve, az Ápt. 4. § (3a) bekezdés a) pont ab) alpontjában meghatározott esetben legalább öt éve érvényes házasságban élnek.
+
+(5b)[^18] Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor a kérelmezőnek az Ápt. 4. § (3a) bekezdés a) pont ab) alpontjában meghatározott feltételnek való megfelelését a közös gyermek születési anyakönyvi kivonatával kell igazolni.
+
+(6)[^19] Az Ápt. 4. § (1)–(2) és (4) bekezdésére alapozott honosítási kérelemhez mellékelni kell az alkotmányos alapismeretekből tett sikeres vizsgáról szóló igazolást, vagy az Ápt. 4/A. §-ának (2) bekezdésében meghatározott ok fennállásának igazolására
 
 a) a cselekvőképtelen, illetőleg a korlátozottan cselekvőképes személy gondnokság alá helyezését elrendelő határozatot;
 
-b)[^13] a nevelési-oktatási vagy felsőoktatási intézményben szerzett végzettséget tanúsító bizonyítványt, oklevelet vagy az intézmény által kiadott igazolást.
+b)[^20] a nevelési-oktatási vagy felsőoktatási intézményben szerzett végzettséget tanúsító bizonyítványt, oklevelet vagy az intézmény által kiadott igazolást.
 
 c) a betegség jellege szerint illetékes egészségügyi szolgáltató igazolását az egészségi állapotról.
 
-(7)[^14] A honosítási és visszahonosítási kérelemhez a magyarországi lakóhellyel rendelkező nagykorú kérelmezőnek magyar nyelven, saját kézzel írt önéletrajzot és két darab arcfényképet, kiskorú gyermeknek két darab arcfényképet kell csatolnia, továbbá mellékelnie kell a személyazonosító igazolvány kiadásához szükséges, külön jogszabályban meghatározott adatlapot.
+(6a)[^21] Nem kell mellékelni a (6) bekezdés szerinti igazolást, ha a kérelmező nyilatkozik arról, hogy kérte a fővárosi kormányhivatalt, hogy az alkotmányos alapismeretekből tett sikeres vizsgáról az állampolgársági ügyekben eljáró szervet értesítse.
 
-(8)[^15] A honosítási és a visszahonosítási kérelemhez a külföldön élő nagykorú kérelmezőnek magyar nyelven, saját kézzel írt önéletrajzot és egy darab arcfényképet, a 14. életévét betöltött kérelmezőnek egy darab arcfényképet kell csatolnia.
+(6b)[^22] Az Ápt. 4/A. § (2) bekezdése b) pontjának alkalmazása során magyar tannyelvűnek kell tekinteni a részben magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményt is, ha a kérelmező magyar nyelvi tagozatú osztályban szerzett végzettséget.
 
-[^6]: A 3. § a 103/2001. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: A 3. § (1) bekezdése a 128/2003. (VIII. 19.) Korm. rendelet 2. §-ával megállapított, felvezető szövege a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének a) pontja szerint módosított szöveg. A 3. § (1) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^8]: A 3. § (1) bekezdés b) pontja a 224/2010. (VIII. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^9]: A 3. § (2) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^10]: A 3. § (3) bekezdése a 119/2005. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^11]: A 3. § (4) bekezdése a 119/2005. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^12]: A 3. § (6) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^13]: A 3. § (6) bekezdésének b) pontja a 116/2007. (V. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^14]: A 3. § (7) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^15]: A 3. § (8) bekezdését a 224/2010. (VIII. 4.) Korm. rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+(7)[^23] A honosítási és visszahonosítási kérelemhez a magyarországi lakóhellyel rendelkező kérelmezőnek két darab arcfényképet kell csatolnia.
+
+(8)[^24] A honosítási és a visszahonosítási kérelemhez a külföldön élő, tizennegyedik életévét betöltött kérelmezőnek egy darab arcfényképet kell csatolnia.
+
+(9)[^25] A nagykorú kérelmező a honosítási és a visszahonosítási kérelemhez – az 1. § szerinti formanyomtatványon – saját kézzel írt önéletrajzot csatol.
+
+(10)[^26] A honosítási és a visszahonosítási kérelemhez mellékelni kell a magyarországi lakóhellyel rendelkező kérelmezőnek a személyazonosító igazolvány kiadásához szükséges adatlapot.
+
+(11)[^27] Nem kell csatolni a honosítási vagy visszahonosítási kérelemhez az Ápt.-ben vagy az e kormányrendeletben meghatározott okiratot, ha a kérelmező úgy nyilatkozik, hogy
+
+a) azt korábbi, az idegenrendészeti hatóság által lefolytatott eljárásban már csatolta, és kéri az állampolgársági ügyekben eljáró szervtől, hogy az okiratot szerezze be, vagy
+
+b) azt a hozzátartozója már csatolta a saját honosítási vagy visszahonosítási eljárásában, és kéri az állampolgársági ügyekben eljáró szervtől, hogy az okiratot szerezze be.
+
+[^9]: A 3. § a 103/2001. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdése a 128/2003. (VIII. 19.) Korm. rendelet 2. §-ával megállapított, felvezető szövege a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének a) pontja szerint módosított szöveg. A 3. § (1) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^11]: A 3. § (1) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés b) pontja a 224/2010. (VIII. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^13]: A 3. § (2) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^14]: A 3. § (3) bekezdése a 119/2005. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 417/2012. (XII. 29.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^15]: A 3. § (4) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3. § (5) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^17]: A 3. § (5a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^18]: A 3. § (5b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 3. § (6) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^20]: A 3. § (6) bekezdésének b) pontja a 116/2007. (V. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^21]: A 3. § (6a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^22]: A 3. § (6b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^23]: A 3. § (7) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^24]: A 3. § (8) bekezdését a 224/2010. (VIII. 4.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^25]: A 3. § (9) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^26]: A 3. § (10) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^27]: A 3. § (11) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.

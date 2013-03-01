@@ -1,3 +1,3 @@
-## A magyar állampolgárság visszavonása[^33]
+## A magyar állampolgárság visszavonása[^45]
 
-[^33]: Az alcímet a 103/2001. (VI. 21.) Korm. rendelet 7. §-a iktatta a szövegbe.
+[^45]: Az alcímet a 103/2001. (VI. 21.) Korm. rendelet 7. §-a iktatta a szövegbe.

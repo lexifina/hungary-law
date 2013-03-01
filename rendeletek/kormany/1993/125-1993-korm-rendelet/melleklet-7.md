@@ -14,41 +14,169 @@
 
 ## A kérelmező személyi adatai:
 
-| 1. Házassági neve: Születési családi neve: Születési utóneve(i): Előző (születési) családi neve: Előző utóneve(i): Születési helye: (ország) .............…................ (város, község) ..... (kerület) Születési ideje: .......…………... év hó ......………….. nap Állampolgársága(i): Jelenlegi állampolgárságát mikor és milyen jogcímen szerezte: |
+## 1. Házassági neve: ........................................................................................................................
+
+## Születési családi neve: .............................................................................................................
+
+## Születési utóneve(i): ................................................................................................................
+
+## Előző (születési) családi neve: ..................................................................................................
+
+## Előző utóneve(i): ......................................................................................................................
+
+## Születési helye: ........................... (ország) ................................ (város, község) ..... (kerület)
+
+## Születési ideje: .......... év ........................ hó ........ nap
+
+## Állampolgársága(i): .................................................................................................................
+
+## Jelenlegi állampolgárságát mikor és milyen jogcímen szerezte: .............................................
 
 ## A kérelmező felmenőire vonatkozó adatok:
 
-| 2. Apja neve: Apja születési helye: .............................. ideje: Apja állampolgársága a kérelmező születésekor: Apja volt-e magyar állampolgár: Ha igen, mikortól meddig: |
+## 2. Apja neve: ................................................................................................................................
 
-| 3. Anyja születési családi és utóneve: Anyja születési helye: ........................... ideje: Anyja állampolgársága a kérelmező születésekor: Anyja szerzett-e, és ha igen, mikor és milyen jogcímen külföldi állampolgárságot: Anyai nagyapja neve: születési helye: ............................. ideje: Anyai nagyanyja születési neve: születési helye: ............................ ideje: Anyai nagyszülei házasságkötésének helye és ideje: |
+## Apja születési helye: ................................................ ideje: .....................................................
 
-| 4. Szülei házasságkötésének helye: ............…..... (ország) ..........…......... (város, község) ...……………... (kerület) ideje: ............................................ |
+## Apja állampolgársága a kérelmező születésekor: ....................................................................
+
+## Apja volt-e magyar állampolgár: .............................................................................................
+
+## Ha igen, mikortól meddig: .......................................................................................................
+
+## Apai nagyapja neve: ................................................................................................................
+
+## születési helye: ............................................... ideje: ....................................................
+
+## Apai nagyanyja születési neve: ................................................................................................
+
+## születési helye: ............................................... ideje: ....................................................
+
+## Apai nagyszülei házasságkötésének helye és ideje: .................................................................
+
+## 3. Anyja születési családi és utóneve: ..........................................................................................
+
+## Anyja születési helye: ............................................... ideje: ....................................................
+
+## Anyja állampolgársága a kérelmező születésekor: ..................................................................
+
+## Anyja szerzett-e, és ha igen, mikor és milyen jogcímen külföldi állampolgárságot:
+
+## ..................................................................................................................................................
+
+## Anyai nagyapja neve: ...............................................................................................................
+
+## születési helye: ............................................... ideje: ....................................................
+
+## Anyai nagyanyja születési neve: ..............................................................................................
+
+## születési helye: ............................................... ideje: ....................................................
+
+## Anyai nagyszülei házasságkötésének helye és ideje: ...............................................................
+
+## 4. Szülei házasságkötésének helye: .................. (ország) ................. (város, község) ..... (kerület)
+
+## ideje: ......................................
 
 ## Egyéb adatok:
 
-| 5. A kérelmező lakóhelye: (ország) ⬜⬜⬜⬜ (város/község) (utca) ............... (hsz.) ...... (em.) ......... (ajtó) (Ha Magyarországon él, telefonszáma: ) (Ha külföldön él, a bizonyítvány továbbítását az alábbi címre kéri: ) |
+## 5. A kérelmező lakóhelye: ............................................................................................. (ország)
 
-| 6. Családi állapota: A következő rovatokat megszűnt házasság esetén is szíveskedjék kitölteni! Házasságkötésének helye: .........................………………....... ideje: Házastársa születési neve: házassági neve: születési helye: .................…………………….............. ideje: állampolgársága: Elváltaknál a házasságot felbontó bíróság megnevezése: Az ítélet száma: Jogerőre emelkedésének ideje: Özvegyeknél a házastárs halálesetének helye és ideje: Ha jelenlegi házassága nem az első: Előző házasságkötésének helye és ideje: az Ön házassági neve az előző házasságkötése után: családi és utóneve e házasság megszűnése után: Előző házastársa születési neve: születési helye: ...................……………………........ ideje: állampolgársága: Előző házassága megszűnésének módja, helye és ideje: |
+## □□□□ ............................................................................................................... (város, község)
 
-| 7. Magyarországi lakóhely esetén: Magyarországi tartózkodására jogosító engedélyének, okiratának – típusa: – száma: – kelte: – érvényességi ideje: Az engedélyt kiadó hatóság megnevezése: |
+## ....................................................... (utca) ............. (hsz.) ....... (ép./lh.) ........ (em.) ....... (ajtó)
 
-| 8. Külföldi lakóhely esetén: Mikor hagyta el Magyarországot: Utolsó magyarországi lakcíme: Ha soha nem élt Magyarországon, édesanyja (szülei, nagyszülei) mikor távoztak külföldre: Édesanyja (szülei, nagyszülei) utolsó magyarországi lakcíme: |
+## (Ha Magyarországon él, telefonszáma: ..................................................................................)
 
-## 9. Hozzátartozója az elmúlt tíz évben szerzett-e magyar állampolgárságot: igen – nem*
+## (Ha külföldön él, a bizonyítvány továbbítását az alábbi címre kéri: ........................................
 
-## (Szülő, nagyszülő, testvér stb.)
+## .................................................................................................................................................)
 
-## A hozzátartozó neve:
+## Telefonszáma: ..........................................................................................................................
 
-## Születési helye: ..............................…………………...... ideje:
+## Elektronikus levél (E-mail) címe: ..............................................................................................
 
-## Az állampolgársági okirat száma:
+## 6. Családi állapota: nőtlen/hajadon (soha nem volt házas) ◻
 
-## A hozzátartozó neve:
+| nős/férjes ◻ | özvegy ◻ | elvált ◻ |
 
-## Születési helye: ..............................…………………...... ideje:
+## (A következő rovatokat megszűnt házasság esetén is szíveskedjék kitölteni!)
 
-## Az állampolgársági okirat száma:
+## Házasságkötésének helye: .................................................. ideje: ...........................................
+
+## Házastársa születési neve: ........................................................................................................
+
+## házassági neve: ......................................................................................................
+
+## születési helye: ................................................. ideje: ...........................................
+
+## állampolgársága: ....................................................................................................
+
+## Elváltaknál a házasságot felbontó bíróság megnevezése: ........................................................
+
+## Az ítélet száma: .........................................................................................................................
+
+## Jogerőre emelkedésének ideje: ................................................................................................
+
+## Özvegyeknél a házastárs halálesetének helye és ideje: ............................................................
+
+## Ha jelenlegi házassága nem az első:
+
+## Előző házasságkötésének helye és ideje: ...................................................................................
+
+## az Ön házassági neve az előző házasságkötése után: ............................................
+
+## családi és utóneve e házasság megszűnése után: ..................................................
+
+## Előző házastársa születési neve: ................................................................................................
+
+## születési helye: ................................................ ideje: ............................................
+
+## állampolgársága: ....................................................................................................
+
+## Előző házassága megszűnésének módja, helye és ideje: ...........................................................
+
+## 7. Magyarországi lakóhely esetén:
+
+## Magyarországi tartózkodására jogosító engedélyének, okiratának
+
+## - típusa: .....................................................................................................................................
+
+## - száma: .....................................................................................................................................
+
+## - kelte: .......................................................................................................................................
+
+## - érvényességi ideje: .................................................................................................................
+
+## Az engedélyt kiadó hatóság megnevezése: ...............................................................................
+
+## 8. Külföldi lakóhely esetén:
+
+## Mikor hagyta el Magyarországot: .............................................................................................
+
+## Utolsó magyarországi lakcíme: .................................................................................................
+
+## Ha soha nem élt Magyarországon, édesanyja (szülei, nagyszülei) mikor távoztak külföldre:
+
+## ..................................................................................................................................................
+
+## Édesanyja (szülei, nagyszülei) utolsó magyarországi lakcíme: .................................................
+
+## ..................................................................................................................................................
+
+## 9. Hozzátartozója (szülő, nagyszülő, testvér stb.) szerzett-e magyar állampolgárságot: igen ◻ nem ◻
+
+## A hozzátartozó neve: ....................................................................................................................
+
+## Születési helye: ................................................................ ideje: ..................................................
+
+## Az állampolgársági okirat száma: ..................................................................................................
+
+## A hozzátartozó neve: ....................................................................................................................
+
+## Születési helye: ................................................................ ideje: ..................................................
+
+## Az állampolgársági okirat száma: .................................................................................................
 
 ## Kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
 
@@ -62,28 +190,30 @@
 
 ## – szülei házassági anyakönyvi kivonata;
 
-## – édesanyja születési anyakönyvi kivonata;
+## – anyja születési anyakönyvi kivonata;
 
-## – édesanyja magyar állampolgárságának igazolására szolgáló okirat: ....……………...............
+## – egyéb okmány: ..................................................................................................................................
 
-## – egyéb okmány: ..................................................................................…………………………
+## Külföldön történt születésről és házasságkötésről a külföldi anyakönyvi okiratot a megfelelő hitelesítéssel, az idegen nyelvű okiratot hiteles magyar nyelvű fordítással ellátva kell mellékelni.
+
+## A magyarországi anyakönyvek adatainak ellenőrzése hivatalból megtörténik.
 
 ## Kelt: .................................................
 
-|  | ......................................... |
+## ................................................
 
-|  | kérelmező aláírása |
+## kérelmező aláírása
 
 ## A kérelmező aláírását hitelesítem.
 
-## A kérelmező személyazonosságát ....................................... típusú .................... számú személyazonosságot igazoló okirattal igazolta.
+## A kérelmező személyazonosságát ....................................... típusú .................... számú .................... -ig érvényes személyazonosságot igazoló okirattal igazolta.
 
 ## P. H.
 
-|  | .............................……………............... |
+## ................................................
 
-|  | anyakönyvvezető/konzul aláírása |
+## a kérelmet átvevő aláírása
 
-7. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^69]
+7. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^90]
 
-[^69]: A 7. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés c) pontjával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^90]: A 7. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés c) pontjával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.

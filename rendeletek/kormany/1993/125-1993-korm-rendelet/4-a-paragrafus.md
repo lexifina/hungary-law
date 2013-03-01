@@ -1,16 +1,10 @@
-## Nyilatkozat[^19]
+## Nyilatkozat[^31]
 
-## 4/A. §[^20]
+## 4/A. §[^32]
 
-(1)[^21] A nyilatkozathoz az elbocsátási okiratot is mellékelnie kell annak, aki a magyar állampolgárságát elbocsátás következtében veszítette el. Az elbocsátási okiratot be kell vonni. Ha a kérelmező az elbocsátási okiratot nem tudja mellékelni, nyilatkoznia kell azokról a körülményekről, amelyek következtében az elbocsátási okirat a birtokából kikerült.
+(1) Az Ápt. 5/A. § (1) bekezdés c) pontja alapján tett nyilatkozathoz mellékelni kell a kérelmező szüleinek házassági és születési anyakönyvi kivonatát, közölni kell az anya magyar állampolgársága megállapításához szükséges adatokat.
 
-(2) Aki a magyar állampolgárságát azért vesztette el, mert Németországba történő áttelepülésre kötelezték, ezt a tényt köteles okirattal igazolni vagy más, hitelt érdemlő módon valószínűsíteni.
+(2) Az Ápt. 5/A. § (1) bekezdés b) pontja alapján tett nyilatkozathoz a kérelmező szüleinek állampolgársága szerinti állam illetékes hatóságának igazolását arról, hogy a kérelmező a születésével nem szerzett állampolgárságot az állampolgársági ügyekben eljáró szerv felhívására abban az esetben kell csatolni, ha az állampolgársági ügyekben eljáró szervnek nincs hivatalos tudomása arról, hogy a kérelmező a születésével nem szerzett állampolgárságot.
 
-(3)[^22] Az Ápt. 5/A. §-a (1) bekezdésének c) pontja alapján tett nyilatkozathoz mellékelni kell a kérelmező szüleinek házassági és születési anyakönyvi kivonatát.
-
-(4) Az Ápt. 5/A. §-a (1) bekezdésének b) pontja alapján tett nyilatkozathoz – ha azzal az érintett rendelkezik – mellékelni kell a kérelmező szüleinek állampolgársága szerinti állam illetékes hatóságának igazolását arról, hogy a kérelmező a születésével nem szerzett állampolgárságot.
-
-[^19]: Az alcímet a 103/2001. (VI. 21.) Korm. rendelet 4. §-a iktatta a szövegbe.
-[^20]: A 4/A. §-t a 103/2001. (VI. 21.) Korm. rendelet 4. §-a iktatta a szövegbe.
-[^21]: A 4/A. § (1) bekezdése a 116/2007. (V. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^22]: A 4/A. § (3) bekezdése a 128/2003. (VIII. 19.) Korm. rendelet 3. §-ával megállapított, valamint a 116/2007. (V. 24.) Korm. rendelet 12. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^31]: Az alcímet a 103/2001. (VI. 21.) Korm. rendelet 4. §-a iktatta a szövegbe.
+[^32]: A 4/A. §-t a 103/2001. (VI. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

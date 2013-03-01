@@ -1,5 +1,5 @@
-## 10. §[^38]
+## 10. §[^51]
 
-## Az állampolgárság megállapítása iránti megkeresést (Ápt. 12. §) a hatóság közvetlenül az állampolgársági ügyekben eljáró szervhez küldi meg. A hatóságnak a megkeresésben közölnie kell az állampolgárság igazolásához szükséges adatokat, valamint – ha azok a hatóság rendelkezésére állnak – meg kell küldenie az állampolgárság megállapításához szükséges okiratokat.
+## Az állampolgárság megállapítása iránti megkeresést az Ápt. 12. §-a szerinti szerv közvetlenül az állampolgársági ügyekben eljáró szervhez küldi meg. Az Ápt. 12. §-a szerinti szervnek az Ápt. 14. § (2) bekezdésében meghatározott adatokon túl a megkereséshez – ha azok a rendelkezésére állnak – meg kell küldenie az állampolgárság megállapításához szükséges okiratokat.
 
-[^38]: A 10. § a 117/2009. (VI. 4.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^51]: A 10. § a 417/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

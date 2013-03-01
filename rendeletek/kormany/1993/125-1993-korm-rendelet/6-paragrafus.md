@@ -4,13 +4,14 @@
 
 (1) A magyar állampolgárságról való lemondást tartalmazó nyilatkozathoz a kérelmezőnek mellékelnie kell
 
-a) a születési anyakönyvi kivonatát, a családi állapotát igazoló iratokat;
+a)[^38]
 
 b) a külföldi állampolgárság igazolására az illetékes külföldi hatóság által kiadott bizonyítványt vagy olyan igazolást, mely a külföldi állampolgárság megszerzését valószínűsíti (ígérvény);
 
-c)[^27]
+c)[^39]
 
-(2)[^28]
+(2)[^40]
 
-[^27]: A 6. § (1) bekezdésének c) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
-[^28]: A 6. § (2) bekezdését a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^38]: A 6. § (1) bekezdés a) pontját a 417/2012. (XII. 29.) Korm. rendelet 10. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^39]: A 6. § (1) bekezdésének c) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^40]: A 6. § (2) bekezdését a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
