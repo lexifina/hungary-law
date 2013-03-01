@@ -1,6 +1,6 @@
-## 57. §[^129] A 2013. január 1. napjával az Országgyűlési Őrség hivatásos állományába más fegyveres szervtől vagy a Magyar Honvédség állományából áthelyezésre kerülők esetében nem kell elvégezni a 4. § (1) bekezdés e) pontjában, valamint a 26. §-ban meghatározott áthelyezés előtti alkalmassági vizsgálatot. Ezen személyek vonatkozásában az egészségi és fizikai alkalmasságot a 2012. évben elvégzett időszakos egészségi és fizikai alkalmassági vizsgálat eredménye, a pszichikai alkalmasságot a 2011. vagy a 2012. évben elvégzett időszakos pszichikai alkalmassági vizsgálat eredménye alapján kell megállapítani. A 2013. január 1. napjával áthelyezésre kerülő állomány 2013. évben 50–55. életévet betöltő tagjának fizikai alkalmasságát az áthelyezést megelőzően vizsgálni nem kell.
+## 57. §[^137] Az 1. mellékletben az Országgyűlési Őrségnél az objektumvédelmi feladatok ellátására rendszeresített szolgálati beosztások esetében megkövetelt testmagasságra vonatkozó követelményt a 2013. március 1-jét követően az Országgyűlési Őrség hivatásos állományába jelentkezők vonatkozásában kell alkalmazni.
 
-1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^130]
+1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^138]
 
 Táblázat és magyarázat a betegségek és fogyatékosságok alapján
 
@@ -1502,65 +1502,5 @@ Végtagok ismétlődő felületes vénatrombóziasa esetén „AN”.
 
 090.4. alszakaszba tartoznak az előző két alszakaszban említett kórképek, ha secunder varicositas, állandó oedema és trophikus zavar társul.
 
-| 091 | Az alsó végtag visszértágulatai | I. | II. | III. | IV. | S | K | BNO |
-
-| A | B | A | B | A | B | A | B | A | B |
-
-| 1. | eredményes műtét utáni állapot | AS | AS | AS | AS | AS | AS | AS | AS | E | E | E | I 83 |
-
-| 2. | kis kiterjedésű visszértágulat gyulladásos és trophiás zavar nélkül | E | E | E | E | E | E | E | E | E | E | E |
-
-| 3. | kis kiterjedésű visszértágulat gyulladás, vagy trophiás zavar esetén, valamint nagy kiterjedésű visszér-tágulat említett elváltozások nélkül | AN | E | E | E | E | E | E | E | AN | E | E |
-
-| 4. | műtét utáni állapot mérsékelt keringési zavarral | AN | E | AN | E | E | E | E | E | AN | AN | AN |
-
-| 5. | műtét utáni állapot súlyos keringési zavarral | AN | AN | AN | AN | AN | AN | AN | E | AN | AN | AN |
-
-Varicositas, ulcus varicosum (alsó végtagon vagy egyéb lokalizációjú).
-
-Szükséges vizsgálatok: Fizikális vizsgálat, vérzési-alvadási rendszer laboratóriumi vizsgálata, belgyógyászati és szükség esetén angiológiai szakkonzílium, angiológiai javaslatra phlebographia.
-
-091.1. alszakaszba tartozik az alsó végtagon eredményes visszérműtét utáni állapot, recidiva nélkül.
-
-091.2. alszakaszba a kis kiterjedésű visszértágulat gyulladásos és trophicus zavar nélkül.
-
-091.3. alszakasz szerint minősítendők a primer varicositas, az ehhez társuló pigmentatio crusis, ulcus varicosum, valamint a primer varicositas előrehaladott esetei. Ht. állományba vételt, valamint rendészeti oktatási intézménybe felvételt megelőzően csak „AN” minősítés adható.
-
-091.4. alszakaszba tartozik a visszérműtét utáni állapot terhelésre kialakuló lábszár-oedemával.
-
-091.5. alszakaszba a visszérműtét után fennálló ulcus crusis, illetve állandó lábszár-oedema, recidiv varicositassal vagy anélkül.
-
-| 092 | Aranyér | I. | II. | III. | IV. | S | K | BNO |
-
-| A | B | A | B | A | B | A | B | A | B |
-
-| 1. | szövődmény nélkül hatásos konzervatív kezelés esetén | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | I 84 |
-
-| 2. | szövődménnyel, sikeres műtét utáni állapot esetén | AS | AS | AS | AS | AS | AS | AS | AS | AN | AS | AS |
-
-| 3. | szövődménnyel, gyakori recidiva és ismételt műtét szükségessége esetén | AN | E | AN | E | E | E | E | E | AN | AN | AN |
-
-Nodus haemorrhoidalis recti internus et externus (thromboticus haemorrhagicus, prolapsus, strangulatus, ulcerosus).
-
-Szükséges vizsgálatok: digitalis és rectoscopos vizsgálattal tisztázni kell a haemorrhoidalis csomók helyét (külső, belső „aranyeres” csomók), esetleges szövődményeit.
-
-Ht. állományba vételt, valamint rendészeti oktatási intézménybe felvételt megelőzően csak „AN” minősítés adható.
-
-| 093 | Alacsony vérnyomás (hypotonia) | I. | II. | III. | IV. | S | K | BNO |
-
-| A | B | A | B | A | B | A | B | A | B |
-
-| 1. | enyhe formák | E | E | E | E | AS | AS | AS | AS | E | E | E | I 95 |
-
-| 2. | kifejezett formák | AN | E | AN | E | E | E | E | E | AN | AN | AN |
-
-Hypotonia orthostatica, hypotonia chronica, collapsus (elhúzódó is), syncope.
-
-Szükséges vizsgálatok: We, teljes vérkép és vizelet, a vérnyomás különböző testhelyzetben végzett mérése, EKG fekvő és álló helyzetben, echo-cg, Holter vizsgálat a hypotonia aetiológiai tisztázása szükséges.
-
-A normálisnál alacsonyabb vérnyomás önmagában nem indokolja az alkalmasság korlátozását. Az átlagosnál alacsonyabb értékek gyakran előfordulnak nagy fizikai teljesítőképességgel rendelkező emberek között is. A minősítés klinikai tünetek esetén (fejfájás, szédülés, fáradékonyság, collapsus hajlam), ha azok az anamnézisben bizonyítottan szerepelnek (alapellátó orvosi jellemzés!), „E”. Ht. állományba vételt megelőzően az I. kategóriában a minősítés „AN”.
-
-A légzőszervek betegségei (094–105)
-
-[^129]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 157. § (5) bekezdése iktatta be.
-[^130]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja szerint módosított szöveg.
+[^137]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 157. § (5) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 158. §-ával megállapított szöveg.
+[^138]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § q) pontja szerint módosított szöveg.

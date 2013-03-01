@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-1
 | 2012-07-01 | 2009-57-20-1U.9 | 31/2012. (VI. 28.) BM rendelet |
 | 2012-09-01 | 2009-57-20-1U.10 | 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet |
 | 2013-01-01 | 2009-57-20-1U.11 | 56/2012. (XI. 22.) BM rendelet |
+| 2013-03-01 | 2009-57-20-1U.12 | 56/2012. (XI. 22.) BM rendelet |
