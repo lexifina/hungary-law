@@ -1,12 +1,4 @@
-## „2.9. házasságkötés és bejegyzett élettársi kapcsolat létesítése,
-
-## 2.10. a házassági névviselési forma módosítása,
-
-## 2.11. születés anyakönyvezése,
-
-## 2.12. hatósági bizonyítvány kiállítása az anyakönyvből,
-
-## 2.13. haláleset anyakönyvezése.”
+## 71. §[^37]
 
 ## 11. Záró rendelkezések
 
@@ -17,3 +9,5 @@
 (3) Az 1. §–12. §, a 14. § (1) bekezdése, a 16. §–20. §, a 21. § (1) bekezdése, a 21. § (4) bekezdése, a 21. § (5) bekezdése, a 22. §, a 24. §–30. §, a 32. §, a 34. §–39. §, a 41. §, a 42. §, a 45. §, a 47. §–58. §, a 61. §, a 63. §, a 66. §, a 69. §, a 71. § és az 1–12. melléklet 2013. március 1-jén lép hatályba.
 
 (4) A 64. § 2013. április 1-jén lép hatályba.
+
+[^37]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

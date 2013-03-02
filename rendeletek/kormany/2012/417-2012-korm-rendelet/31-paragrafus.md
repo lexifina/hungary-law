@@ -1,1 +1,3 @@
-## „(3a) Ha a járási hivatal a bejelentkezés elfogadása után állapítja meg, hogy a bejelentett értesítési cím nem valós, megállapítja az értesítési cím érvénytelenségét és a döntés jogerőre emelkedését követően az érvénytelen értesítési címet törli a nyilvántartásból.”
+## 24–30. §[^13]
+
+[^13]: A 24–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
