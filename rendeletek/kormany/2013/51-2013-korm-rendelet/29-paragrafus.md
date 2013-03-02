@@ -1,9 +1,0 @@
-## 28. §[^27]
-
-## 29. Záró rendelkezés
-
-29. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
-
-(2) E rendelet 1. §-a és 5. §-a 2013. március 1-jén lép hatályba.
-
-[^27]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
