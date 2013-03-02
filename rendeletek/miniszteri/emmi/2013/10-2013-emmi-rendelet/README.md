@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-10-20-5
 | 2013-01-31 | 2013-10-20-5H.1 | 10/2013. (I. 31.) EMMI rendelet |
 | 2013-02-01 | 2013-10-20-5H.2 | 2010: CXXX. törvény |
 | 2013-03-01 | 2013-10-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-03-02 | 2013-10-20-5H.4 | 2010: CXXX. törvény |

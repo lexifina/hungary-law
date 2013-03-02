@@ -1,3 +1,3 @@
-1. melléklet a 10/2013. (I. 31.) EMMI rendelethez[^18]
+1. melléklet a 10/2013. (I. 31.) EMMI rendelethez[^20]
 
-[^18]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
