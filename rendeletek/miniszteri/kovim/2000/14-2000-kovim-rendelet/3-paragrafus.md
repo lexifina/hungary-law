@@ -2876,81 +2876,83 @@ II. RÉSZ
 
 A REPÜLÉSI TERV ŰRLAP KITÖLTÉSE
 
-1. Az FPL űrlap jellemzői
+II.1. Az FPL űrlap jellemzői
 
 Az egyedi repülési tervek írásban történő benyújtására szolgáló FPL űrlap három részből áll:
 
-– a címzettek és a feladással kapcsolatos adatok feltüntetésére szolgáló fejrész. Ezt a részt az FPL-t átvevő egység tölti ki, azonban az FPL benyújtója itt feltüntetheti az általa külön kért egyéb címzetteket,
+1. a címzettek és a feladással kapcsolatos adatok feltüntetésére szolgáló fejrész; ezt a részt az FPL-t átvevő egység tölti ki, azonban az FPL benyújtója itt feltüntetheti az általa külön kért egyéb címzetteket,
 
-– az alapvető repülési tervadatokat tartalmazó középső rész, amelyet valamennyi címzetthez továbbítanak,
+2. az alapvető repülési tervadatokat tartalmazó középső rész, amelyet valamennyi címzetthez továbbítanak,
 
-– kiegészítő tájékoztatások feltüntetésére szolgáló rész. Ez a rész általában nem kerül továbbításra a címzettek számára, az itt közölt információk az esetlegesen szükséges kutatás és mentés szempontjából bírnak fontossággal és ezeket csak külön kérésre továbbítják.
+3. kiegészítő tájékoztatások feltüntetésére szolgáló rész;ez a rész általában nem kerül továbbításra a címzettek számára, az itt közölt információk az esetlegesen szükséges kutatás és mentés szempontjából bírnak fontossággal, és ezeket csak külön kérésre továbbítják.
 
-Az űrlapon az egyes repülési adatok beírására rovatok szolgálnak, egy rovat több elemből is állhat. Az egyes rovatok/elemek neve két nyelven (angol–magyar) van megadva.
+Az űrlapon az egyes repülési adatok beírására rovatok szolgálnak, egy rovat több elemből is állhat. Az egyes rovatok/elemek neve két nyelven (angol-magyar) van megadva.
 
 Az egyes rovatok számozottak (nem egymást követő számozással), a számozás és az írásjelek csak a repülési terv AFTN-en történő továbbítása és a rendeltetési oldalon történő feldolgozás szempontjából fontosak.
 
 A kitöltött FPL űrlap alapján a repülési tervet átvevő egység az AFTN-en történő továbbítás érdekében ún. FPL közleményt szerkeszt és juttat el az érintettek számára megfelelő távközlési eszköz segítségével. A kapott FPL közlemények feldolgozása a címzettek által javarészt automatikusan, számítógépes eszközökkel történik. Rendkívül fontos, hogy a közlemény alapjául szolgáló FPL űrlapot annak benyújtója az előírt módon és formában töltse ki.
 
-2. Az FPL űrlap kitöltése
+II.2. Az FPL űrlap kitöltése
 
-2.1. Általános előírások
+II.2.1. Általános előírások
 
-Hacsak az egyes mezők viszonylatában külön jelezve nincs, valamennyi mezőt ki kell tölteni.
+Ha az egyes mezők viszonylatában nincs külön jelezve, valamennyi mezőt ki kell tölteni.
 
 Az adatokat az első rendelkezésre álló karakterhelytől kezdve kell beírni, a fennmaradó helyeket üresen kell hagyni.
 
-Az óra-időket 24 órás időrendszert használva, 4 számjeggyel (órák és percek), UTC-ben kell beírni. A számított repülési időt ugyancsak 4 számjeggyel (órák és percek) kell beírni.
+Az óra-időket 24 órás időrendszert használva, 4 számjeggyel (órák és percek), UTC-ben kell beírni. A számított repülési időt 4 számjeggyel (órák és percek) kell beírni.
 
-A repülési tervben használt „repülőtér” kifejezés olyan területet is jelenthet, amely nem kiépített repülőtér, de meghatározott típusú légijárművek (pl. helikopterek, ballonok) is használhatják.
+A repülési tervben használt „repülőtér” kifejezés olyan területet is jelenthet, amely nem kiépített repülőtér, de meghatározott típusú légijárművek (például helikopterek, ballonok) is használhatják.
 
-Az űrlapot jól olvasható nyomtatott nagybetűkkel kell kitölteni, faxon történő továbbítás esetén a kitöltéshez fekete színű íróeszközt (vagy írógépet) kell használni.
+Az űrlapot jól olvasható nyomtatott nagybetűkkel kell kitölteni, faxon történő továbbítás esetében a kitöltéshez fekete színű íróeszközt (vagy írógépet) kell használni.
 
-2.2. Az FPL űrlap rovatainak és mezőinek kitöltése
+II.2.2. Az FPL űrlap rovatainak és mezőinek kitöltése
 
-7. rovat: LÉGIJÁRMŰ AZONOSÍTÓ JELE
+7. ROVAT: LÉGIJÁRMŰ AZONOSÍTÓ JELE
 
-Min. 2, max. 7 karakterrel írja be:
+Be kell írni min. 2, max. 7 alfanumerikus karakterrel:
 
-kereskedelmi repülés esetén a járatszámot, ha ilyen van, pl. MAH101
+a) kereskedelmi repülés esetében a járatszámot, ha ilyen van, például KLM511 vagy
 
-vagy a légijármű lajstromjelét, pl. HAANB
+b) a légijármű felségjelét, vagy közös jelét és lajstromjelét, például HAANB.
 
-Szóközt vagy írásjelet használni nem lehet.
+Kötőjelet, szóközt vagy szimbólumot nem lehet használni.
 
 A későbbi rádióösszeköttetések során a beírt azonosító jelet kell használni.
 
-Az egyes járatok rádiótávbeszélő hívójeleit az ICAO Doc 8585 kiadványa (Designators for aircraft operating agencies, aeronautical authorities and services) tartalmazza.
+A légijármű felségjelére, vagy közös jelére és a lajstromjelére vonatkozó szabványokat az ICAO Annex 7 határozza meg.
 
-Kötelékrepülés esetén a vezérgép, illetve az ATS-sel rádióösszeköttetést tartó légijármű azonosító jelét kell feltüntetni és a 18. rovatban REG/jelölést használva kell megadni a kísérő légijárművek lajstromjelét.
+Az egyes járatok rádiótávbeszélőhívójeleit az ICAO Designators for Aircraft Operating Agencies, Aeronautical Authorities and Services (Doc 8585) kiadványa tartalmazza.
 
-A Nyitott Égbolt keretén belül végrehajtott repülések esetén az OSY hívójel használandó. Az ilyen repülések három csoportba tartozhatnak, a csoportjelölést az alábbiak szerint kell megadni a hívójel utolsó betűjeként
+Kötelékrepülés esetében a vezérgép vagy az ATS-sel rádióösszeköttetést tartó légijármű azonosító jelét kell feltüntetni és a 18. rovatban REG/ jelölést használva folyamatosan kell megadni a kísérő légijárművek lajstromjelét egy szóközzel elválasztva. A REG/ jelölést követően legfeljebb 50 karakter írható be. RVSM engedélyezett légijárművek azonosító jeleit a 18. rovatban meg kell adni.
 
-F: Felderítő célú repülés, a 18. rovatban az STS/ATFMEXEMTAPPROVED feltüntetésével és egy arra vonatkozó megjegyzéssel, hogy a repülés útvonala az érintett nemzeti hatóságokkal egyeztetésre került,
+A Nyitott Égbolt keretén belül végrehajtott repülések esetében az OSY hívójel használandó. Az ilyen repülések három csoportba tartozhatnak, a csoportjelölést az alábbiak szerint kell megadni a hívójel utolsó betűjeként:
 
-D: Bemutató célú repülés, a 18. rovatban ugyancsak fel kell tüntetni az STS/ATFMEXEMTAPPROVED-t és belefoglalni a megjegyzést, hogy a repülés útvonala az érintett nemzeti hatóságokkal egyeztetésre került,
+F: Megfigyelő célú repülés, a 18. rovatban az STS/ATFMX feltüntetésével és egy arra vonatkozó megjegyzéssel, hogy a repülés útvonala az érintett nemzeti hatóságokkal egyeztetésre került.
+
+D: Bemutató célú repülés, a 18. rovatban az STS/ATFMX feltüntetésével és egy arra vonatkozó megjegyzéssel, hogy a repülés útvonala az érintett nemzeti hatóságokkal egyeztetésre került.
 
 T: Szállítás céljából végzett repülés. A repülést normál repülésként kezelik, a 18. rovatban semmit sem kell feltüntetni.
 
-8. rovat: REPÜLÉSI SZABÁLYOK ÉS A REPÜLÉS TÍPUSA
+8. ROVAT: REPÜLÉSI SZABÁLYOK ÉS A REPÜLÉS TÍPUSA
 
 Repülési szabályok (1 karakter)
 
-Írja be a repülési szabályokat az alábbiak szerint:
+Be kell írni a repülési szabályokat az alábbiak szerint:
 
-I ha IFR,
+I ha a repülés a teljes időtartama alatt IFR-ként üzemel,
 
-V ha VFR,
+V ha a repülés teljes időtartama alatt VFR-ként üzemel,
 
-Y ha először IFR majd VFR,
+Y ha a repülés kezdeti szakaszában IFR-ként üzemel majd egy vagy több alkalommal változnak a repülési szabályok (VFR/IFR/VFR),
 
-Z ha először VFR majd IFR,
+Z ha a repülés kezdeti szakaszában VFR-ként üzemel majd egy vagy több alkalommal változnak a repülési szabályok (IFR/VFR/IFR).
 
-„Y” és „Z” használata esetén a 15. rovatban tüntesse fel azt a pontot/pontokat, ahol a repülési szabályok megváltoztatását tervezik.
+Y és Z használata esetén a 15. rovatban fel kell tüntetni azt a pontot vagy pontokat, ahol a repülési szabályok megváltoztatását tervezik.
 
 Repülés típusa (1 karakter)
 
-Írja be a repülés típusát az alábbiak szerint:
+Be kell írni a repülés típusát az alábbiak szerint:
 
 S menetrend szerinti kereskedelmi repülés,
 
@@ -2958,235 +2960,303 @@ N nem-menetrend szerinti repülés,
 
 M katonai repülés,
 
-G általános célú repülés, beleértve a sport, magán és taxi repüléseket,
+G általános célú repülés, beleértve a sport-, magán- és taxirepüléseket,
 
 X egyéb, beleértve a VIP, mentő, rendőrségi, tűzoltó, kalibráló, gyakorló, munkarepüléseket stb.
 
-Katonai repülések esetén:
+Katonai repülések esetében:
 
-– teljes egészében OAT repülések esetén 18. rovatban STS/jelölést követően tüntesse fel a repülés jellegét,
+Teljes egészében OAT repülések esetében a 18. rovatban az RMK/ jelölést követően fel kell tüntetni a repülés jellegét.
 
-– vegyes repülés esetén a 15. rovatban tüntesse fel azt a pontot/pontokat, ahol a katonai repülés jellegének (GAT vagy OAT) megváltoztatását tervezik.
+Vegyes repülés esetében a 15. rovatban fel kell tüntetni azt a pontot vagy pontokat, ahol a katonai repülés jellegének (GAT vagy OAT) megváltoztatását tervezik.
 
-Megjegyzés: GAT repüléseknek a polgári szabályoknak megfelelően végrehajtott repülések minősülnek. OAT repüléseknek a katonai repülési eljárásokat követő speciális katonai repülések minősülnek, ezeket általában a katonai ATC egységek irányítják.
+X használata esetén RMK/ vagy STAYINFOn/ jelölést használva meg kell adni a repülés jellegét.
 
-„X” használata esetén STS/, RMK/ vagy STAYlNFOn/ jelölést használva adja meg a repülés jellegét.
-
-9. rovat: LÉGIJÁRMŰVEK SZÁMA, TÍPUSA ÉS TURBULENCIA KATEGÓRIÁJA
+9. ROVAT: LÉGIJÁRMŰVEK SZÁMA, TÍPUSA ÉS TURBULENCIA KATEGÓRIÁJA
 
 Légijárművek száma (1 vagy 2 karakter):
 
-Írja be a légijárművek számát, ha az egynél több, tehát csak kötelékrepülés esetén kell kitölteni.
+Be kell írni a légijárművek számát, ha az egynél több, tehát csak kötelékrepülés esetében kell kitölteni.
 
-Légijármű típusa (2–4 karakter):
+Légijármű típusa (2-4 karakter):
 
-Írja be a légijármű típusát az ICAO „Légijármű Típus Jelölések” (Doc 8643) című kiadványban megadottak szerint.
+Be kell írni a légijármű típusát az ICAO Aircraft Type Designators (Doc 8643) című kiadványban megadottak szerint.
 
-Megjegyzés: A kiadvány szerint a vitorlázógépekre a „GLID”, a ballonokra a „BALL”, a léghajóra a „SHIP” és az ultrakönnyű légijárművekre az „ULAC” jelöléseket kell használni.
+Vitorlázórepülőgépekre a „GLID”, a ballonokra a „BALL”, a léghajóra a „SHIP” és az ultrakönnyű légijárművekre az „ULAC” jelöléseket kell használni.
 
-Ha a légijármű(vek) típusa(i) részére ilyen jelölést nem osztottak ki, írjon be ZZZZ-t.
+Be kell írni ZZZZ-t,ha a légijármű(vek) típusa(i) részére ilyen jelölést nem osztottak ki.
 
-Egyedi légijármű, illetve azonos típusból álló kötelék esetén a 18. rovatban TYP/-t követően nyílt szöveggel adja meg a légijármű típusát.
+Egyedi légijármű vagy azonos típusból álló kötelék esetében a 18. rovatban TYP/ jelölést követően nyílt szöveggel kell megadni a légijármű típusát.
 
-Több típusból álló kötelék esetén:
+Több típusból álló kötelék esetében:
 
-– ha a légijárművek típusa nem ismert, a 9. rovatban a légijárművek darabszámát követően a légijármű típust ZZZZ-vel kell megadni és a 18. rovatban a légijármű típusokat a TYP/ és RMK/ t követően kell beírni, úgy, hogy a TYP/ után a legkisebb teljesítményű típust kell beírni, az RMK/ után pedig az egyéb típusokat kell felsorolni,
+a) ha a légijárművek típusa nem ismert, a 9. rovatban a légijárművek darabszámát követően a légijármű típust ZZZZ-vel kell megadni, és a 18. rovatban a légijármű típusokat a TYP/ jelölést követően kell beírni, úgy, hogy a TYP/ után a legkisebb teljesítményű típust kell beírni, azután pedig az egyéb típusokat kell felsorolni,
 
-pl. 9. rovat: 2ZZZZ/M, 18. rovat: TYP/D9FF RMK/SECOND AC TYPE D7FF
+például 9. rovat: 2ZZZZ/M, 18. rovat: TYP/D9FF D7FF,
 
-– ha a légijárművek típusa ismert, a 9. rovatban a légijárművek darabszámát követően a legkisebb teljesítményű légijármű típus jelölését kell beírni, az egyéb légijárművek típusait pedig a 18. rovatban RMK/ után kell felsorolni,
+b) ha a légijárművek típusa ismert, a 9. rovatban a légijárművek darabszámát követően a legkisebb teljesítményű légijármű típus jelölését kell beírni, az egyéb légijárművek típusait pedig a 18. rovatban TYP/ után kell felsorolni,
 
-pl. 9. rovat: 2BE20/M 18. rovat: RMK/SECOND AC TYPE BE9L.
+például 9. rovat: 2BE20/M 18. rovat: TYP/SECOND AC TYPE BE9L.
+
+A TYP/ jelölés után a légijárművek számát és típusát legfeljebb 60 karakterben lehet megadni.
 
 Turbulencia kategória (1 karakter):
 
-Írja be a törtvonás után a következő betűk valamelyikét a légijármű turbulencia kategóriájának jelzésére:
+Be kell írni a törtvonás után a következő betűk valamelyikét a légijármű turbulencia kategóriájának jelzésére:
 
-H ha az engedélyezett maximális felszálló tömeg (MTOW) 136 000 kg vagy több,
+J ha az engedélyezett maximális felszálló tömeg (MTOW) 560 000 kg vagy több,
 
-M ha az MTOW kisebb mint 136 000 kg, de több mint 7000 kg,
+H (Heavy) ha az MTOW 136 000 kg vagy több, de kisebb, mint 560 000 kg,
 
-L ha az MTOW 7000 kg vagy kisebb.
+M (Medium) ha az MTOW kisebb, mint 136 000 kg, de több, mint 7000 kg,
 
-10. rovat: BERENDEZÉSEK (kommunikációs, navigációs és megközelítési)
+L (Light) ha az MTOW 7000 kg vagy kisebb.
 
-A mező első részébe (max. 10 karakter) írjon be egy karaktert az alábbiak szerint:
+10. ROVAT: BERENDEZÉSEK (KOMMUNIKÁCIÓS, NAVIGÁCIÓS ÉS MEGKÖZELÍTÉSI) ÉS KÉPESSÉGEK
 
-S ha az útvonal lerepüléséhez és a megközelítés végrehajtásához szükséges alapvető kommunikációs és navigációs berendezések rendelkezésre állnak és működőképesek, vagy
+A képességeket az alábbi elemek alkotják:
 
-N ha az útvonal lerepüléséhez és a megközelítés végrehajtásához a szükséges kommunikációs és navigációs berendezések nem állnak rendelkezésre vagy üzemképtelenek vagy a légijármű vezetője nincs feljogosítva a légijárműbe szerelt alapvető navigációs berendezések használatára,
+a) a lényeges működőképes berendezések a légijármű fedélzetén,
 
-és/vagy írjon be az alábbi betűkből egyet vagy többet a rendelkezésre álló és működő berendezések jelzésére:
+b) a személyzet képesítésének megfelelő berendezések és képességek, és
 
-1. Megjegyzés: Budapest FIR-ben alapvető kommunikációs és navigációs berendezésen a VHF rádióberendezés, rádióiránytű, VOR és ILS vevő értendő.
+c) ahol alkalmazható, az illetékes hatóság engedélye.
 
-2. Megjegyzés: Nemzetközi repülés esetén az S betű csak fedélzeti RNAV berendezés megléte esetén használható.
+Be kell írni a mező első részébe (max. 10 karakter) egy karaktert a következők szerint:
+
+S ha az útvonal lerepüléséhez és a megközelítés végrehajtásához szükséges alapvető kommunikációs (VHF RTF) és navigációs (VOR ÉS ILS) berendezések rendelkezésre állnak és működőképesek, vagy
+
+N ha az útvonal lerepüléséhez és a megközelítés végrehajtásához a szükséges kommunikációs és navigációs berendezések nem állnak rendelkezésre vagy üzemképtelenek, valamint ha a légijármű vezetője nincs feljogosítva a légijárműbe szerelt alapvető navigációs berendezések használatára,
+
+vagy be kell írni az alábbi betűkből egyet vagy többet a rendelkezésre álló és működő berendezések és képességek jelzésére:
+
+A GBAS leszállító rendszer
+
+B LPV (APV SBAS-sal)
 
 C LORAN C
 
 D DME
 
-F Rádióiránytű
+E1 FMC WPR ACARS
 
-G GNSS R
+E2 D-FIS ACARS
 
-H HF rádióberendezés
+E3 PDC ACARS
 
-I Inerciális berendezés
+F ADF
 
-J Adatkapcsolat (data link)
+G GNSS
+
+H HF RTF
+
+I Inertial Navigation
+
+J1 CPDLC ATN VDL Mode 2
+
+J2 CPDLC FANS 1/A HFDL
+
+J3 CPDLC FANS 1/A VDL Mode 4
+
+J4 CPDLC FANS 1/A VDL Mode 2
+
+J5 CPDLC FANS 1/A SATCOM (INMARSAT)
+
+J6 CPDLC FANS 1/A SATCOM (MTSAT)
+
+J7 CPDLC FANS 1/A SATCOM (Iridium)
 
 K MLS
 
 L ILS
 
-M Omega
+M1 ATC RTF SATCOM (INMARSAT)
+
+M2 ATC RTF (MTSAT)
+
+M3 ATC RTF (Iridium)
 
 O VOR
 
-R RNP képesség
+P1-P9 RCP részére fenntartva
+
+R PBN engedélyezett
 
 T TACAN
 
-U UHF rádióberendezés
+U UHF RTF
 
-V VHF rádióberendezés
+V VHF RTF
 
-W RVSM képesség
+W RVSM engedélyezett
 
-Y 8,33 kHz csatornaosztású rádióberendezéssel való felszereltség
+X MNPS engedélyezett
 
-Z Egyéb berendezések
+Y VHF 8,33 kHz csatornaosztású képességű rádióberendezés
 
-Megjegyzések:
+Z Egyéb berendezések vagy egyéb képességek
 
-– a „J” használata esetén a 18. rovatban DAT/jelölést használva egy vagy több karakterrel adja meg a rendelkezésre álló berendezést,
+A G jelölést a külső GNSS teljesítmény növelő berendezés esetében kell alkalmazni, amelyet a 18. rovatban NAV/ jelölés után egy betűközzel kell feltüntetni.
 
-– az „R” jelölés a területi navigációs (RNAV) repülési képesség (RNP5) jelzésére használandó,
+A J1 használatakor figyelembe kell venni az adatkapcsolat szolgálatokra, ATC engedélyre és tájékoztatásokra/ATC összeköttetések szervezésre/ATC mikrofonpróbára vonatkozó RTCA/EUROCAE Interoperability Requirements Standard for ATN Baseline 1 (ATN B1 INTEROP Standard DO-280B/ED-110B) kiadványban leírtakat.
 
-– RNAV képességgel nem rendelkező állami légijárművek EUR(opa) körzeten belül történő repülés során az „S” és „R” jelöléseket nem használhatják. RNAV képességgel nem rendelkező és ez alól felmentést kapott állami légijárműveknek a felmentést a 18. rovatban STS/-t követően kell jelezni,
+A navigációs képességre vonatkozó tájékoztatást az ATC részére továbbítani kell az engedély és útvonal beszerzése céljából.
 
-– az RVSM képességet a kért repülési szinttől függetlenül „W” beírásával jelezni kell a 10. rovatban. Kötelékrepülést végrehajtó állami légijárműveknek azonban – függetlenül RVSM engedélyezési státusuktól – nem szabad beírniuk a „W” betűt,
+Az R a PBN szintek jelzésére szolgál, amelyeket a 18. rovatban a PBN/ jelölést követően kell feltüntetni. Egy kijelölt útvonalra vagy légtérre a PBN használatára vonatkozó útmutató anyagot az ICAO Performance-Based Navigation Manual (Doc 9613) határozza meg.
 
-– a „Z” használata esetén a 18. rovatban COM/ és/vagy NAV/jelölést használva fel kell tüntetni az egyéb berendezéseket.
+RNAV képességgel nem rendelkező állami légijármű EUR körzeten belül történő repülés során az S vagy R jelöléseket nem használhatja. Ezt a 10. rovatban Z-vel, a 18. rovatban NAV/NONRNAV jelöléssel kell feltüntetni. Felmentést kapott állami légijárműveknek a felmentést a 18. rovatban NAV/RNAVX jelölést követően kell jelezni. A NAV/ jelölés után legfeljebb 50 karakter írható be.
 
-A 8,33 kHz csatornaosztású rádióberendezéssel történő felszereltséget külön jelezni kell.
+Ha meghibásodás vagy egyéb ok miatt a légijármű indulás előtt nem képes megfelelni a B-RNAV követelményeknek, akkor nem használhatja az S vagy R jelölést a repülési terv 10. rovatában. Mivel ebben az esetben a légijármű az ATC részéről különleges kezelést igényel, a repülési terv 10. rovatában Z-t, a 18. rovatában NAV/RNAVINOP jelölést kell alkalmazni. Ha a repülési terv benyújtása már megtörtént, akkor törölni kell azt és új repülési tervet kell benyújtani. Ha a repülésre RPL került benyújtásra, akkor az RPL-t törölni kell és új repülési tervet kell benyújtani.
 
-– ,,S” használata esetén is; és
+Az RVSM képességet a kért repülési szinttől függetlenül W beírásával jelezni kell a 10. rovatban. Kötelékrepülést végrehajtó állami légijárműveknek azonban – függetlenül RVSM engedélyezési státusuktól – nem lehet beírniuk a W betűt.
 
-– akkor is, ha a tervezett repülési magasság nem indokolja a 8,33 kHz csatornaosztású rádióberendezés meglétét, azonban az adott légijármű képes olyan légtérben működni, ahol a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltséget előírták.
+A Z használata esetén a 18. rovatban COM/, NAV/ vagy DAT/ jelölést használva fel kell tüntetni az egyéb berendezéseket vagy egyéb képességeket.
 
-Ha a légijármű ilyen rádiókészülékkel nincs felszerelve, az „Y”-t értelemszerűen nem kell beírni.
+Y-nal kell külön jelezni a 8,33 kHz csatornaosztású rádióberendezéssel történő felszereltséget:
 
-Ha a légijármű számára a 8,33 kHz csatornaosztású rádióberendezéssel történő felszereltségi követelmény nem vonatkozik, a felmentést a 18. rovatban STS/-t követően kell jelezni.
+- S használata esetén is és
 
-A mező végén található törtvonalat követően:
+- akkor is, ha a tervezett repülési magasság nem indokolja a 8,33 kHz csatornaosztású rádióberendezés meglétét, azonban az adott légijármű képes olyan légtérben működni, ahol a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltséget előírták.
 
-a fedélzeti válaszadóra (transzponder) vonatkozó információt kell megadni, az alábbi egykarakteres jelölések valamelyikének feltüntetésével:
+Ha a légijármű ilyen rádiókészülékkel nincs felszerelve, az Y-t értelemszerűen nem kell beírni.
 
-N nincs transzponder vagy üzemképtelen,
+Ha a légijárműre a 8,33 kHz csatornaosztású rádióberendezéssel történő felszereltségi követelmény nem vonatkozik, a felmentést a 18. rovatban COM/EXM833 jelölést követően kell jelezni. A COM/ jelölést követően legfeljebb 50 karakter írható be. Felmentett UHF képes állami légijármű esetében U-t és Z-t kell beírni és a 18. rovatban szintén COM/EXM833 jelölést kell beírni.
+
+A mező végén található törtvonalat követően a fedélzeti felderítő berendezésekre vagy képességekre vonatkozó információkat egy vagy több jelöléssel, legfeljebb 20 karakterrel kell megadni az alábbiak szerint:
+
+N nincs felderítő berendezés vagy üzemképtelen,
+
+SSR „A” és „C” mód
 
 A „A” mód 4096 kód beállítási lehetőségű transzponder,
 
-C „A” és „C” mód 4096 kód beállítású lehetőségű transzponder,
+C „A” és „C” mód 4096 kód beállítású lehetőségű transzponder.
 
-S „S” módú transzponder légijármű azonosító jel és nyomásmagasság továbbítással,
+SSR „S” mód
 
-I „S” módú transzponder légijármű azonosító jel továbbítással, de nyomásmagasság továbbítás nélkül,
+E „S” módú transzponder légijármű azonosító jel és nyomásmagasság, valamint ADS-B képesség,
 
-P „S” módú transzponder nyomásmagasság továbbítással, de légijármű azonosító jel továbbítása nélkül,
+H „S” módú transzponder légijármű azonosító jel és nyomásmagasság, valamint bővített felderítő berendezés képesség,
 
-X „S” módú transzponder légijármű azonosító jel és nyomásmagasság továbbítás nélkül.
+I „S” módú transzponder légijármű azonosító jel-továbbítással, de nyomásmagasság-továbbítás nélkül,
 
-A transzponderre utaló jelölés után közvetlenül egy karakterrel jelezhető, hogy a légijármű fel van szerelve fedélzeti navigációs berendezésektől származó adatok automatikus továbbítását végző berendezéssel (ADS).
+L „S” módú transzponder légijármű azonosító jel és nyomásmagasság, bővített ADS-B és felderítő berendezés képesség,
 
-D ADS berendezéssel felszerelt.
+P „S” módú transzponder nyomásmagasság, de légijármű azonosító jel képesség nélkül,
 
-13. rovat: INDULÁSI REPÜLŐTÉR ÉS IDŐ
+S „S” módú transzponder légijármű azonosító jel és nyomásmagasság képesség,
+
+X „S” módú transzponder légijármű azonosító jel vagy nyomásmagasság képességgel.
+
+A bővített felderítő berendezés képesség a légijármű azon képessége, amellyel az „S” módú transzponderen keresztül légijárműtől származó adatokat továbbít.
+
+ADS-B
+
+B1 1090 MHz-en működő ADS-B „adási” képességgel,
+
+B2 1090 MHz-en működő ADS-B „adási” és „vételi” képességgel,
+
+U1 ADS-B „adási” képességgel UAT használatával,
+
+U2 ADS-B „adási” és „vételi” képességgel UAT használatával,
+
+V1 ADS-B „adási” képességgel VDL 4-es mód használatával,
+
+V2 ADS-B „adási” és „vételi” képességgel VDL 4-es mód használatával.
+
+ADS-C
+
+D1 ADS-C FANS 1/A képességekkel,
+
+G1 ADS-C ATN képességekkel.
+
+Példa: ADE3RV/HB2U2V2G1
+
+További felderítő berendezéseket a 18. rovatban a SUR/ után kell feltüntetni.
+
+13. ROVAT: INDULÁSI REPÜLŐTÉR ÉS IDŐ
 
 Indulási repülőtér (4 karakter):
 
-Írja be az indulási repülőtér 4-betűs ICAO helységjelölését, pl. LHBP, EGKK.
+Be kell írni az indulási repülőtér 4-betűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint, például LHBP, EGKK.
 
-Ha az indulási repülőtérnek nem osztottak ki helységjelölést vagy a légijármű terepről hajtja végre a felszállást, írjon be ZZZZ -t és a 18. rovatban DEP/jelölést használva adja meg az indulás helyét.
+Ha az indulási repülőtérnek nem osztottak ki helységjelölést vagy a légijármű terepről hajtja végre a felszállást, ZZZZ-t kell beírni és a 18. rovatban DEP/ jelölést használva meg kell adni az indulás helyét. A DEP/ jelölést követően legfeljebb 50 karakter írható be.
 
-Budapest FIR-ből történő indulás esetén az indulás helyét földrajzi koordinátákkal vagy az ahhoz legközelebb eső – a magyar AIP mellékletét képező ICAO 1:500 000 Légiforgalmi Térképen feltüntetett – település nevével kell megadni.
+Budapest FIR-ből történő indulás esetében az indulás helyét földrajzi koordinátákkal vagy az ahhoz legközelebb eső – a magyar AIP mellékletét képező ICAO 1:500 000 Légiforgalmi Térképen feltüntetett – település vagy navigációs berendezés nevével kell megadni.
 
 Idő (4 karakter):
 
-Írja be a számított fékoldási időt (EOBT), azaz azt az időpontot, amikorra a forgalmi előtérről a felszálláshoz történő elgurulást tervezik.
+Be kell írni a számított fékoldási időt (EOBT), azaz azt az időpontot, amikorra a forgalmi előtérről a felszálláshoz történő elgurulást tervezik.
 
-Megjegyzés: A levegőből benyújtott repülési tervek vétele során a földi ATS egységek indulási repülőtérként az AFIL jelölést használhatják.
-
-15. rovat: ÚTVONAL
+15. ROVAT: ÚTVONAL
 
 Utazósebesség (max. 5 karakter):
 
-Írja be a tényleges önsebességet (TAS) a repülés első vagy teljes szakaszára az alábbi mértékegységek és módok alkalmazásával:
+Be kell írni a tényleges önsebességet (TAS) a repülés első vagy teljes szakaszára a következő mértékegységek és módok alkalmazásával:
 
-– csomókban történő megadás esetén N és négy számjegy, pl. N0355
+- csomókban történő megadás esetében N és négy számjegy, például N0355,
 
-– kilométer/órában történő megadás esetén K és négy számjegy, pl. K0830
+- kilométer/órában történő megadás esetében K és négy számjegy, például K0830,
 
-– tényleges Mach-ban történő megadás esetén M és három számjegy, pl. 0,82 Mach = M082
-
-Megjegyzés: Mach-ban történő sebesség megadás csak abban az esetben lehetséges, ha az érintett ország légügyi hatósága ezt külön engedélyezi.
+- tényleges Mach-ban történő megadás esetében M és három számjegy, például 0,82 Mach = M082.
 
 Utazómagasság (max. 5 karakter):
 
-Írja be a tervezett utazómagasságot a repülés első vagy teljes szakaszára az alábbi mértékegységek alkalmazásával:
+Be kell írni a tervezett utazómagasságot a repülés első vagy teljes szakaszára a következő mértékegységek alkalmazásával:
 
-– repülési szintben történő megadás esetén F és három számjegy, pl. F330,
+- repülési szintben történő megadás esetében F és három számjegy, például F330,
 
-– lábban kifejezett tengerszint feletti magasság szerinti megadás esetén A és három számjegy (100 lábas egységek), pl. A045 (4500 láb QNH magasság),
+- lábban kifejezett tengerszint feletti magasság szerinti megadás esetében A és három számjegy (100 lábas egységek), például A045 (4500 láb QNH magasság),
 
-– méter standard-ben történő megadás esetén S és négy számjegy (10 méteres egységek), pl. S 1130 (11 300 méter standard),
+- méter standard-ben történő megadás esetében S és négy számjegy (10 méteres egységek), például S1130 (11 300 méter standard),
 
-– méterben kifejezett tengerszint feletti magasság szerinti megadás esetén M és négy számjegy (10 méteres egységek), pl. M0060 (600 méter QNH magasság),
+- méterben kifejezett tengerszint feletti magasság szerinti megadás esetében M és négy számjegy (10 méteres egységek), például M0060 (600 méter QNH magasság),
 
-– ellenőrzött légtéren kívül végrehajtott VFR repülések esetén ebbe a mezőbe VFR betűket is lehet írni.
+- ellenőrzött légtéren kívül végrehajtott VFR repülések esetében ebbe a mezőbe VFR betűket is lehet írni.
 
 Ha nemzetközi repülés során olyan FIR határt terveznek keresztezni, ahonnan a korábbitól eltérő mértékegységrendszert kell használni, az útvonalmezőben meg kell adni azt a pontot, ahonnan az új mértékegységrendszert használják, az új mértékegységrendszerben kifejezett adatokkal együtt (az eljárás megegyezik a sebesség/magasság megváltoztatás módjával).
 
-Budapest FIR-ben az utazómagasságokat:
+Budapest FIR-ben az utazómagasságokat
 
-– az átváltási szinten vagy felette tervezett repülések esetén: repülési szintek szerint, pl. F110
+- az átváltási szinten vagy felette tervezett repülések esetében: repülési szintek szerint (például F110),
 
-– az átváltási magasságon vagy alatta tervezett repülések esetén pedig: lábban vagy méterben kifejezett tengerszint feletti magasságban, pl. A025 vagy M0075 kell megadni.
+- az átváltási magasságon vagy alatta tervezett repülések esetében pedig: lábban vagy méterben kifejezett tengerszint feletti magasságban (például A025 vagy M0075)
 
-Útvonalmező (karakterszám nem meghatározott)
+kell megadni.
 
-Útvonal elemek
+Útvonalmező (karakterszám nem meghatározott):
 
-Az útvonalmező csak meghatározott elemeket tartalmazhat. Az útvonal leírás egyes elemeit szóközzel kell elválasztani.
+Útvonalelemek
+
+Az útvonalmező csak meghatározott elemeket tartalmazhat. Az útvonalleírás egyes elemeit szóközzel kell elválasztani.
 
 Az egyes elemek a következők lehetnek:
 
-1. útvonal kódjelölés (2–7 karakter): az útvonalra vagy útvonalszakaszra kiosztott kód jelölés, beleértve az ATS útvonalak kódjelölését, a szabvány műszeres indulási eljárásokat (SID) és szabvány érkezési eljárásokat (STAR) ahol ezek alkalmazhatók (pl. A4, UW42, H26, SPI1A) és egyéb egyeztetett kódjelöléseket, (pl. OAT repülési útvonal kódjelölése).
+1. útvonal kódjelölés (2-7 karakter):
 
-Megjegyzés: Európai repülőterek esetén, ha a helyi előírások másképp nem rendelkeznek, SID-ket és STAR-okat ne foglaljanak bele az útvonalleírásba.
+az útvonalra vagy útvonalszakaszra kiosztott kód jelölés, beleértve az ATS útvonalak kódjelölését, a szabvány műszeres indulási eljárásokat (SID) és szabvány érkezési eljárásokat (STAR), ahol ezek alkalmazhatóak (például A4, UW42, H26, KODAP2A), és egyéb egyeztetett kódjelöléseket (például OAT repülési útvonal kódjelölése).
 
 2. fontos pont jelölése, ami lehet:
 
-– a pont számára kiosztott kódjelölés (2–5 karakter), pl. MN, TPS, BALVA,
+- a pont számára kiosztott kódjelölés (2-5 karakter), például MN, TPS, BALVA,
 
-– csak fokokat tartalmazó földrajzi koordináta (7 karakter), pl. 47N021E, 23S037W,
+- csak fokokat tartalmazó földrajzi koordináta (7 karakter), például 47N021E, 23S037W,
 
-– fokokat és perceket tartalmazó földrajzi koordináta (11 karakter) pl. 4712N02135E, 3612S04512W,
+- fokokat és perceket tartalmazó földrajzi koordináta (11 karakter), például 4712N02135E, 3612S04512W,
 
-– irányszög és távolság valamely navigációs berendezéstől (8 vagy 9 karakter).
+- irányszög és távolság valamely vonatkozási ponttól (8 vagy 9 karakter).
 
-Az első két vagy három karakter a VOR vagy NDB jele, melyet szóköz nélkül, a mágneses irányt és a tengeri mérföldben mért távolságot jelző 3-3 számjegy követ, pl. BUG-tól 90 fokra és 30 NM-re lévő pont jelölése: BUG090030,
+A vonatkozási pont elnevezése, amelyet szóköz nélkül, a mágneses irányt és a tengeri mérföldben mért távolságot jelző 3-3 számjegy követ, például BUG-tól 90 fokra és 30 NM-re lévő pont jelölése: BUG090030,
 
-– az ICAO 1:500 000 Légiforgalmi Térképen feltüntetett település neve (csak ellenőrzött légtéren kívül tervezett VFR repülési szakasz leírásához).
+- az ICAO 1:500 000 Légiforgalmi Térképen feltüntetett település neve (csak ellenőrzött légtéren kívül tervezett VFR repülési szakasz leírásához).
 
 A számjegyek előírt számát nulla beiktatásával kell kialakítani, ha szükséges.
 
-3. utazósebesség és/vagy utazómagasság változtatás helye (max. 21 karakter):
+3. utazósebesség vagy utazómagasság változtatás helye (max. 21 karakter):
 
-az a pont, ahol az utazósebesség, és/vagy utazómagasság megváltoztatását tervezik, amit egy törtvonás és az utazósebesség, valamint az utazómagasság értékei követnek, még akkor is, ha csak az egyik érték változik. Szóközt használni nem lehet.
+az a pont, ahol az utazósebesség vagy utazómagasság megváltoztatását tervezik, amit egy törtvonás és az utazósebesség, valamint az utazómagasság értékei követnek, még akkor is, ha csak az egyik érték változik. Szóközt nem lehet használni.
 
-Pl. MN/N0420F350, OBETA/N0435F330,
+Például MN/N0420F350, OBETA/N0435F330,
 
 4602N02135E/N0450F330, BUG120025/N0250F130
 
@@ -3194,93 +3264,85 @@ Pl. MN/N0420F350, OBETA/N0435F330,
 
 az a pont, ahol a repülés jellegének (GAT – polgári szabályok szerint végzett repülések, OAT – speciális katonai repülések) megváltoztatását tervezik, amit egy szóköz és az új repülési jelleg megadása követ.
 
-Pl. BUG OAT, NORAH/N0350F110 GAT
+Például BUG OAT, NORAH/N0350F110 GAT
 
 5. repülési szabályok megváltoztatása (3 karakter):
 
-a pont nevének, illetve helyének megadását követően egy szóköz után:
+a pont nevének vagy helyének megadását követően egy szóköz után:
 
-VFR betűk, ha a változtatás IFR-ről VFR-re és
+- VFR betűk, ha a változtatás IFR-ről VFR-re és
 
-IFR betűk, ha a változtatás VFR-ről IFR-re történik.
+- IFR betűk, ha a változtatás VFR-ről IFR-re történik.
 
-Pl. BUG VFR, TPS/N0200F120 IFR, NORAH/N0180A025 GAT VFR
-
-Megjegyzés: A szóközzel történő elválasztás valamennyi országban használható. Budapest FIR-en kívül az elválasztás törtvonallal is történhet.
+Például BUG VFR, TPS/N0200F120 IFR, NORAH/N0180A025 GAT VFR
 
 6. utazóemelkedés jelzése (max. 28 karakter):
 
-C betűt követő törtvonás után az utazóemelkedés megkezdésének pontja, majd ismét törtvonás, utána az utazóemelkedés közbeni sebesség, az utazóemelkedési réteg két szélső magassága vagy az a magasság, amely felett az utazóemelkedést tervezik és utána a PLUS betűk. Szóközt használni nem lehet.
+C betűt követő törtvonás után az utazóemelkedés megkezdésének pontja, majd ismét törtvonás, utána az utazóemelkedés közbeni sebesség, az utazóemelkedési réteg két szélső magassága vagy az a magasság, amely felett az utazóemelkedést tervezik és utána a PLUS betűk. Szóközt nem lehet használni.
 
-Pl. C/48N050W/M082F290F350, C/48N050W/MO82F290PLUS
+Például C/48N050W/M082F290F350, C/48N050W/MO82F290PLUS
 
 Budapest FIR-en belüli repülési szakaszokra utazóemelkedést nem lehet jelezni.
 
 7. útvonali várakozás jelzése (STAY karaktersorozat, körzet és várakozási idő):
 
-Az eljárás csak útvonalon tervezett speciális várakozások jelzésére használható, pl. VOR berepülés, üzemanyag felvétel, légi fényképezés stb.
+Az eljárás csak útvonalon tervezett speciális várakozások jelzésére használható, például VOR berepülés, üzemanyag-felvétel, légi fényképezés stb.
 
-A légtérbe történő belépés pontja után szóközzel be kell írni STAY karaktersorozatot és szóköz nélkül a várakozási légtér sorszámát 1–9-ig (kötelező elem, akkor is beírandó, ha csak egy légtérben hajtanak végre speciális repülést), törtvonás, utána négy karakterrel óra-percben a tervezett várakozási idő és ezt követően szóközzel be kell írni a légtérből történő kilépés tervezett pontját (mely azonos lehet a belépési ponttal).
+A légtérbe történő belépés pontja után szóközzel be kell írni STAY karaktersorozatot és szóköz nélkül a várakozási légtér sorszámát 1-9-ig (kötelező elem, akkor is beírandó, ha csak egy légtérben hajtanak végre speciális repülést), törtvonás, utána négy karakterrel óra-percben a tervezett várakozási idő, és ezt követően szóközzel be kell írni a légtérből történő kilépés tervezett pontját (amely azonos lehet a belépési ponttal).
 
-Pl. SVR STAY1/0030 SVR, ... SVR STAY1/0045 SVR BUG STAY2/0100 BUG...
+Például SVR STAY1/0030 SVR, ... SVR STAY1/0045 SVR BUG STAY2/0100 BUG...
 
 Az egyéb tájékoztatások rovatban ezen túlmenően meg kell adni az egyes légterekben tervezett feladatokat.
 
 A repülési útvonal leírásának általános szabályai
 
-Nemzetközi repülések esetén, ha indulás előtt a légijármű személyzete arra számít, hogy a repülés végrehajtási körülményeitől függően (pl. üzemanyag-mennyiség) repülés közben dönti el, hogy a repülést egy módosított rendeltetési repülőtérig folytatja, a repülési tervet az eredeti rendeltetési repülőtérig terjedő szakaszra kell kitölteni és az egyéb tájékoztatások rovatban kell jelezni a módosított rendeltetési repülőteret és ha lehet, az oda vezető útvonalat.
+Nemzetközi repülések esetében, ha indulás előtt a légijármű személyzete arra számít, hogy a repülés végrehajtási körülményeitől függően (például üzemanyag-mennyiség) repülés közben dönti el, hogy a repülést egy módosított rendeltetési repülőtérig folytatja, a repülési tervet az eredeti rendeltetési repülőtérig terjedő szakaszra kell kitölteni, és az egyéb tájékoztatások rovatban kell jelezni a módosított rendeltetési repülőteret és ha lehet, az odavezető útvonalat.
 
 Kijelölt ATS útvonalakon történő repülések:
 
-Az útvonal kezdetének megadásához írja be:
+Az útvonal kezdetének megadásához be kell írni:
 
-– annak a fontos pontnak a kódjelölését, ahol a SID befejeződik és az azt követő ATS útvonal jelölését,
+- annak a fontos pontnak a kódjelölését, ahol a SID befejeződik és az azt követő ATS útvonal jelölését (például TORNO UY52..., SUI UR232...) vagy
 
-pl. TORNO UY52..., SUI UR232..., vagy
-
-– ha az indulási repülőtéren SID-k nincsenek kijelölve, a DCT (direkt) betűket, az első ATS útvonalhoz való csatlakozás pontját és az ATS útvonal jelölését.
+- ha az indulási repülőtéren SID nincs kijelölve, a DCT (direkt) betűket, az első ATS útvonalhoz való csatlakozás pontját és az ATS útvonal jelölését.
 
 Ezt követően be kell írni minden olyan pontot, ahol:
 
-– az útvonal,
+- az útvonal,
 
-– az utazósebesség vagy utazómagasság,
+- az utazósebesség vagy utazómagasság,
 
-– a repülési szabályok, vagy
+- a repülési szabályok vagy
 
-– a repülés jellegének megváltoztatását
+- a repülés jellegének
 
-tervezik.
+megváltoztatását tervezik.
 
-Az ATS útvonal alacsonylégtéri és magaslégtéri átmenetének pontját nem kell külön jelezni. Ügyelni kell azonban arra, hogy a megadott utazómagasságnak megfelelően az ATS útvonal alacsony-, illetve magaslégtéri kód jelölését tüntessék fel.
+Az ATS útvonal alacsonylégtéri és magaslégtéri átmenetének pontját nem kell külön jelezni. A megadott utazómagasságnak megfelelően az ATS útvonal alacsony- vagy magaslégtéri kód jelölését kell feltüntetni.
 
-Megjegyzések:
+Utazósebesség vagy utazómagasság alatt a repülés jelentős szakaszán tartott sebességet vagy magasságot kell érteni. Az utazósebességre történő gyorsítást, a leszálláshoz történő lassítást, az utazómagasságra történő emelkedést vagy süllyedésváltozásokat nem kell feltüntetni.
 
-Utazósebességnek, illetve utazómagasságnak a repülés jelentős szakaszán tartott sebesség, illetve magasság minősül. Az utazósebességre történő gyorsítás, illetve a leszálláshoz történő lassítás, valamint az utazómagasságra történő emelkedés, illetve süllyedésváltozásokat nem kell feltüntetni.
-
-Utazósebesség változtatásnak az 5%-ot elérő sebességváltoztatás minősül.
+Utazósebesség-változtatás az 5%-ot elérő sebességváltoztatás.
 
 Ezután minden esetben be kell írni:
 
-– a következő ATS útvonalszakasz jelölését, még akkor is, ha ez megegyezik az előzővel, vagy
+- a következő ATS útvonalszakasz jelölését, még akkor is, ha ez megegyezik az előzővel, vagy
 
-– a DCT betűket, ha a következő pontra történő repülés nem kijelölt ATS útvonalon történik.
+- a DCT betűket, ha a következő pontra történő repülés nem kijelölt ATS útvonalon történik.
 
-Ugyancsak DCT betűket kell használni az azonosító jelölés nélküli ún. „ATS” útvonalat kijelölő két pont között.
+DCT betűket kell használni az azonosító jelölés nélküli ún. „ATS” útvonalat kijelölő két pont között.
 
 Nem kell DCT-t használni:
 
-– földrajzi koordinátákkal vagy irányszöggel és távolsággal megadott pontok között, és
+- földrajzi koordinátákkal vagy irányszöggel és távolsággal megadott pontok között, és
 
-– belföldi VFR repülések esetén, illetve belföldi VFR repülési szakaszokra.
+- belföldi VFR repülések esetében vagy belföldi VFR repülési szakaszokra.
 
-Az útvonal befejezésének megadásához írja be az indulásnál leírtakhoz hasonlóan:
+Az útvonal befejezésének megadásához az indulásnál leírtakhoz hasonlóan be kell írni:
 
-– annak a fontos pontnak a kódjelölését, ahonnan a rendeltetési repülőtérre vezető STAR kezdődik,
+- annak a fontos pontnak a kódjelölését, ahonnan a rendeltetési repülőtérre vezető STAR kezdődik (például.... UG104 ALB, UG 18 LARKI), vagy
 
-pl.... UG104 ALB, UG 18 LARKI, vagy
-
-– ha a rendeltetési repülőtéren STAR-ok nincsenek kijelölve, az utolsó ATS útvonal jelölése után az útvonal elhagyásának pontját, mely lehet pl. a TMA belépőpont vagy a rendeltetési repülőteret kiszolgáló navigációs berendezés és a DCT betűket.
+- ha a rendeltetési repülőtéren STAR nincs kijelölve, az utolsó ATS útvonal jelölése után az útvonal elhagyásának pontját, – amely lehet például a TMA belépőpont vagy a rendeltetési repülőteret kiszolgáló navigációs berendezés‒ és a DCT betűket.
 
 Példák az ATS útvonalon végrehajtott repülések útvonalának leírására:
 
@@ -3294,13 +3356,11 @@ GERGA UM725 HDO UM748 KOPIT UL620 ROMIS UL601 PITOK UL867 NEPOT UN127 BLO DCT NO
 
 Kijelölt ATS útvonalakon kívül végrehajtott repülések
 
-Írjon be általában nem több, mint 30 perc repülési időnyi távolságra vagy maximum 200 NM távolságra lévő pontokat, beleértve azokat a pontokat is, ahol sebesség, utazómagasság, útirány, repülési jelleg vagy a repülési szabályok megváltoztatását tervezik. Az egyes pontok közé írja be a DCT betűket, hacsak a két érintett pontot nem földrajzi koordinátákkal vagy irányszöggel és távolsággal határozzák meg.
-
-Megjegyzés: Bizonyos területeken, pl. óceánok feletti repülésekre az illetékes ATS hatóságok egyéb pontok feltüntetését is előírhatják.
+Általában nem több, mint 30 perc repülési időnyi távolságra, vagy maximum 200 NM távolságra lévő pontokat kell beírni, beleértve azokat a pontokat is, ahol sebesség, utazómagasság, útirány, repülési jelleg vagy a repülési szabályok megváltoztatását tervezik. Az egyes pontok közé be kell írni a DCT betűket, kivéve, ha a két érintett pontot földrajzi koordinátákkal, vagy irányszöggel és távolsággal határozzák meg.
 
 Budapest FIR-re vonatkozó egyedi előírások
 
-Valamennyi Budapest FIR határát keresztező repülés esetén a repülési tervben fel kell tüntetni a FIR határra vonatkozó teljes számított repülési időt (EET).
+Budapest FIR határát keresztező repülés esetében a repülési tervben fel kell tüntetni a FIR határra vonatkozó teljes számított repülési időt (EET).
 
 A nem ellenőrzött légtérből ellenőrzött légtérbe történő belépés pontját az útvonal leírása során fel kell tüntetni.
 
@@ -3308,339 +3368,355 @@ OAT repülések útvonal leírása
 
 Az OAT repülések útvonalának vagy az OAT útvonalszakasz leírását az alábbiak szerint lehet végrehajtani:
 
-– a katonai és polgári szervek között egyeztetett kódjelölés használatával,
+- a katonai és polgári szervezetek között egyeztetett kódjelölés használatával,
 
-Megjegyzés: OAT repülésekre egyeztetett kódjelölések egyelőre nincsenek.
+- földrajzi koordináták segítségével.
 
-– földrajzi koordináták segítségével.
+Vegyes jellegű repülések esetében az OAT és GAT repülési szakaszok átmeneti pontjai csak nemzetközileg közzétett fontos pontok lehetnek, például BUG OAT, ROMKA GAT.
 
-Vegyes jellegű repülések esetén az OAT, illetve GAT repülési szakaszok átmeneti pontjai csak nemzetközileg közzétett fontos pontok lehetnek, pl. BUG OAT, ROMKA GAT.
+Az útvonalleírásnál lehetőség van több foglalt repülési magasság jelzésére, például levegőben történő tankolás esetében. Ekkor meg kell adni az érintett útvonalpontot, a hozzátartozó sebességet és B betűvel elválasztva a magasságtartományt.
 
-Az útvonalleírásnál lehetőség van több foglalt repülési magasság jelzésére, pl. levegőben történő tankolás esetén. Ekkor meg kell adni az érintett útvonalpontot, a hozzátartozó sebességet és B betűvel elválasztva a magasságtartományt.
-
-Pl. BUG/N0430F250BF280. (Ez után a pont után OAT/GAT átmenetet is jelezni lehet.)
+Például BUG/N0430F250BF280. (Ez után a pont után OAT/GAT átmenetet is jelezni lehet.)
 
 Speciális repülési feladatok útvonalleírása
 
-Helyi IFR GAT gyakorló repülések esetén a repülés útvonalát az érintett navigációs berendezések megadásával lehet leírni. Pl. DCT TPS DCT.
+Helyi IFR GAT gyakorló repülések esetében a repülés útvonalát az érintett navigációs berendezések megadásával lehet leírni. Például DCT TPS DCT.
 
-Megjegyzések:
+Gyakorló és kalibráló repülések esetében repülés típusjelző karakterként az X-t kell használni.
 
-Navigációs berendezés berepülése, repülés közben üzemanyag-felvétel, légifotó stb. jelzéséről lásd a fent leírt szabályokat.
-
-Gyakorló és kalibráló repülések esetén repülés típusjelző karakterként az „X”-t kell használni.
-
-A rendőrségi helikopterek közúti forgalom-ellenőrzése céljából végrehajtott repülései esetén a Budapest területe fölötti repülést a „FOREL” szóval jelezzék a repülési terv útvonal rovatában és a 18. rovatban, RMK/-t követően lehet nyílt szöveggel megadni az ellenőrzés pontos helyét.
+A rendőrségi helikopterek közúti forgalom-ellenőrzése céljából végrehajtott repülései esetében a Budapest területe fölötti repülést a „FOREL” szóval kell jelezni a repülési terv útvonal rovatában, és a 18. rovatban, RMK/ jelölést követően lehet nyílt szöveggel megadni az ellenőrzés pontos helyét.
 
 Példák az ATS útvonalakon kívül végrehajtott belföldi repülések útvonalának leírására:
 
-Dunakeszi–Gödöllő: DCT (VFR vagy IFR repülés)
+| Dunakeszi-Gödöllő: | DCT | (VFR vagy IFR repülés) |
 
-Budapest (Liszt Ferenc)–Nyíregyháza: JBR NCS (VFR repülés)
+| Budapest (Liszt Ferenc)-Nyíregyháza: | JBR SAG | (VFR repülés) |
 
-Szeged–Budaörs: BUG OTSA MOLNA (VFR repülés)
+| Szeged-Budaörs: | BUG OTSA SOROK | (VFR repülés) |
 
-Budaörs–Siófok: DCT PUSTA DCT SVR DCT (IFR repülés)
+| Budaörs-Siófok: | DCT PUSTA DCT SVR DCT | (IFR repülés) |
 
-Budapest (Liszt Ferenc) gyakorló repülés (IFR): DCT TPS DCT
+| Budapest (Liszt Ferenc) gyakorló repülés (IFR): | DCT TPS DCT |  |
 
 FL 195 felett végrehajtott VFR repülések
 
-FL195 (5950 m STD) felett, az ellenőrzött légtérben végrehajtandó VFR repülések esetén a 18. rovatba kell beírni a tervezett feladatot, valamint az útvonalmezőben minden esetben fel kell tüntetni azt a földrajzi vagy fontos pontot, amely felett keresztezni kívánják a FL195 (5950 m STD) magasságot.
+FL195 (5950 m STD) felett, az ellenőrzött légtérben végrehajtandó VFR repülések esetében a 18. rovatba kell beírni a tervezett feladatot, valamint az útvonalmezőben minden esetben fel kell tüntetni azt a földrajzi vagy fontos pontot, amely felett keresztezni kívánják a FL195 (5950 m STD) magasságot.
 
-Megjegyzés:A FL195 (5950 m STD) felett tervezett repülési szakaszra vonatkozó emelkedési területet a 18. rovatban kell feltüntetni egy olyan meghatározott sugarú körrel, amelynek középpontja az útvonalmezőben, a FL195 (5950 m STD) magasság keresztezésre megjelölt földrajzi vagy fontos pont.
+Az FL195 (5950 m STD) felett tervezett repülési szakaszra vonatkozó emelkedési területet a 18. rovatban kell feltüntetni egy olyan meghatározott sugarú körrel, amelynek középpontja az útvonalmezőben a FL195 (5950 m STD) magasság keresztezésre megjelölt földrajzi vagy fontos pont.
 
-Például: ........ DCT NORAH/N0160A085 DCT 4702N02120E/N0140F240 DCT NORAH/N0170A035 (RMK/Ejtőernyős ugrás 4602N02120E R5NM).
+Például ... DCT NORAH/N0160A085 DCT 4702N02120E/N0140F240 DCT NORAH/N0170A035 (RMK/Ejtőernyős ugrás 4602N02120E R5NM).
 
 RVSM-mel kapcsolatos előírások
 
-Az RVSM engedélyezett légijármű és a nem RVSM engedélyezett állami légijármű repülési útvonalának tervezése.
-
-A 2. Fejezet 2.6.1.10. pontjában részletezett EUR RVSM légtérben működni szándékozó RVSM engedélyezett légijárművek és a nem RVSM engedélyezett állami légijárművek üzemben tartóinak az alábbiakat kell beírniuk az ICAO Repülési Terv 15. rovatába:
-
-a) az EUR RVSM légtér oldalhatárán található belépő pontot és közvetlenül a belépő pont utáni útvonalszakaszra kért repülési szintet; és
-
-b) az EUR RVSM légtér oldalhatárán található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
-
-Nem RVSM engedélyezett légijármű repülési útvonalának tervezése
-
-Megjegyzés: Az EUR RVSM légtérben kiadandó ATC engedély tekintetében lásd a 2. Fejezet 2.6.1.10. pontját.
-
-A 2. Fejezet 2.6.1.10. pontjában részletezett EUR RVSM átváltási légtereket, valamint az ICAO Doc. 7030/4 10.2.1. pontban részletezett légtereket kivéve, a nem RVSM engedélyezett légijárművek üzemben tartóinak üzemeltetésüket az EUR RVSM légtéren kívül kell tervezniük.
-
-RVSM légtérből történő indulás
-
-A Budapest FIR-ből vagy az EUR RVSM légtér oldalhatárain belüli repülőtérről induló, nem RVSM engedélyezett légijármű üzemben tartóknak ha, akár az EUR RVSM légtér oldalhatárain belül, akár azon kívül található rendeltetési repülőtérre szándékoznak üzemelni, az alábbiakat kell beírniuk az utazómagasság jelölésére:
-
-a) valamennyi az EUR RVSM légtér oldalhatárán belüli útvonalszakaszra FL290 alatti kért repülési szintet; és
-
-b) az EUR RVSM légtér oldalhatárán kívüli repülésre az oldalhatáron található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
-
-RVSM légtéren kívülről történő indulás
-
-A nem RVSM engedélyezett légijármű üzemben tartóknak, amennyiben az EUR RVSM légtér oldalhatárain kívüli indulási repülőtérről szándékoznak üzemelni valamely az EUR RVSM légtér oldalhatárain belül található rendeltetési repülőtérre, az alábbiakat kell beírniuk az ICAO Repülési Terv 15. rovatába:
-
-a) az EUR RVSM légtér oldalhatárán található belépő pontot; és
-
-b) közvetlenül a belépő pont utáni útvonalszakaszra FL290 alatti kért repülési szintet.
-
-A nem RVSM engedélyezett légijárművek üzemben tartói, amennyiben olyan indulási repülőtérről – az RVSM légteret átrepülve –, olyan rendeltetési repülőtérre szándékoznak üzemelni, melyek az EUR RVSM légtér oldalhatárain kívül találhatók, a repülés EUR RVSM légtér oldalhatárain belüli útvonalszakaszára vonatkozóan az alábbiakat kell beírniuk az ICAO Repülési Terv 15. rovatába:
-
-a) az EUR RVSM légtér oldalhatárán található belépő pontot és közvetlenül a belépő pont utáni útvonalszakaszra FL290 alatti vagy FL410 feletti kért repülési szintet; és
-
-b) az EUR RVSM légtér oldalhatárán található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
+Az RVSM-mel kapcsolatos előírásokat az EUROCONTROL Basic CFMU Handbook IFPS Users Manual határozza meg.
 
 Feltételes útvonalak (CDR) és egyéb megkötések (RAD)
 
-A Rugalmas Légtérfelhasználás (FUA) elveknek megfelelően a polgári forgalom által igénybe vett repülési útvonalak korlátozás alá kerülhetnek. Ezek az ún. feltételes útvonalak (conditional routes – CDR), melyek az alábbi kategóriákba sorolhatók:
+A Rugalmas Légtérfelhasználás (FUA) elveinek megfelelően a polgári forgalom által igénybe vett repülési útvonalak korlátozás alá kerülhetnek. Ezek az ún. feltételes útvonalak (conditional routes - CDR), amelyek az alábbi kategóriákba sorolhatóak:
 
-– 1. kategóriájú (CDR1). Ezek az útvonalak repülési tervben tervezhetők a nemzeti AIP-kben megadott időszakban. Az EUROCONTROL által naponta kiadott Conditional Route Availibility Message (CRAM) tartalmazza az ilyen kategóriájú útvonalak zárását.
+1. kategóriájú (CDR1). Ezek az útvonalak repülési tervben tervezhetők a nemzeti AIP-kben megadott időszakban. Az EUROCONTROL által naponta kiadott Conditional Route Availibility Message (CRAM) tartalmazza az ilyen kategóriájú útvonalak zárását.
 
-– 2. kategóriájú (CDR2). Ezekre az útvonalakra repülési tervet csak a naponta kiadott CRAM-nak megfelelően lehet benyújtani.
+2. kategóriájú (CDR2). Ezekre az útvonalakra repülési tervet csak a naponta kiadott CRAM-nak megfelelően lehet benyújtani.
 
-– 3. kategóriájú (CDR3). Ezekre az útvonalakra repülési tervet nem lehet benyújtani, az ezeken történő repülésre az ATC egységek esetileg adnak engedélyt a pillanatnyi helyzet függvényében.
+3. kategóriájú (CDR3). Ezekre az útvonalakra repülési tervet nem lehet benyújtani, az ezeken történő repülésre az ATC egységek esetileg adnak engedélyt a pillanatnyi helyzet függvényében.
 
 CDR2 és CDR3 útvonalakat RPL-ekben nem lehet tervezni. A CDR1 útvonalak vonatkozásában az útvonalak felhasználhatóságának megfelelően RPL-t szükség szerint külön kell benyújtani hétvégére, éjszakára stb.
 
-Az EUROCONTROL CFMU az egyes tagállamoknak az AIP-kben közzétett repülési útvonalakra vonatkozó egyéb megkötéseit egy Route Availibility Document (RAD)-ban gyűjti.
+Az EUROCONTROL CFMU az egyes tagállamoknak az AIP-kben közzétett repülési útvonalakra vonatkozó egyéb megkötéseit egy RAD (Route Availibility Document) dokumentumban gyűjti.
 
 A hozzá benyújtott repülési tervek esetében az IFPS ellenőrzi az útvonalak CDR és RAD szerinti használhatóságát.
 
-16. rovat: RENDELTETÉSI REPÜLŐTÉR ÉS TELJES SZÁMÍTOTT REPÜLÉSI IDŐ, KITÉRŐ REPÜLŐTÉR(EK)
+16. ROVAT: RENDELTETÉSI REPÜLŐTÉR ÉS TELJES SZÁMÍTOTT REPÜLÉSI IDŐ, KITÉRŐ
+
+REPÜLŐTÉR (REPÜLŐTEREK)
 
 Rendeltetési repülőtér (4 karakter):
 
-Írja be a rendeltetési repülőtér négybetűs ICAO helységjelölését, pl. EDDF, LHBP.
+Be kell írni a rendeltetési repülőtér négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint, például EDDF, LHBP.
 
-Ha a rendeltetési repülőtérnek nem osztottak ki helységjelölést vagy a légijármű terepre tervezi a leszállás végrehajtását, írjon be ZZZZ-t és a 18. rovatban DEST/jelölést használva adja meg a rendeltetési repülőtér/leszállás helyét.
+Ha a rendeltetési repülőtérnek nem osztottak ki helységjelölést vagy a légijármű terepre tervezi a leszállás végrehajtását, ZZZZ-t kell beírni, és a 18. rovatban DEST/ jelölést használva meg kell adni a rendeltetési repülőtér vagy leszállás helyét, valamint szóköz nélkül a teljes számított repülési időt.
 
-Budapest FIR-ben történő leszállás esetén a leszállás helyét földrajzi koordinátákkal vagy az ahhoz legközelebb eső – az ICAO 1:500 000 Légiforgalmi Térképen feltüntetett – település nevével kell megadni.
+Budapest FIR-ben történő leszállás esetében a leszállás helyét földrajzi koordinátákkal vagy az ahhoz legközelebb eső – az ICAO 1:500 000 Légiforgalmi Térképen feltüntetett – település nevével kell megadni.
 
 Teljes számított repülési idő (4 karakter)
 
-Írja be:
+Be kell írni:
 
-– IFR repülések esetén azt a számított időtartamot, amely a felszállástól addig a navigációs berendezéssel meghatározott pontig szükséges, ahonnan a műszeres megközelítési eljárás megkezdését tervezik vagy ha a rendeltetési repülőtéren ilyen navigációs berendezés nincs, akkor azt az időtartamot, amely a felszállástól a rendeltetési repülőtér fölé érkezésig szükséges.
+- IFR repülések esetében azt a számított időtartamot, amely a felszállástól addig a navigációs berendezéssel meghatározott pontig szükséges, ahonnan a műszeres megközelítési eljárás megkezdését tervezik, vagy ha a rendeltetési repülőtéren ilyen navigációs berendezés nincs, akkor azt az időtartamot, amely a felszállástól a rendeltetési repülőtér fölé érkezésig szükséges.
 
-– VFR repülések esetén azt a számított időtartamot, amely a felszállástól a rendeltetési repülőtér fölé való érkezésig szükséges.
+- VFR repülések esetében azt a számított időtartamot, amely a felszállástól a rendeltetési repülőtér fölé való érkezésig szükséges.
 
-Le-felszállásokat gyakorló helyi repülések esetén az első felszállástól az utolsó leszállásig terjedő időt kell beírni.
+Le-felszállásokat gyakorló helyi repülések esetében az első felszállástól az utolsó leszállásig terjedő időt kell beírni.
 
-AFIL esetén a teljes számított repülési időt a belépő ponttól kell számítani.
+AFIL esetében a teljes számított repülési időt az útvonal első pontjától addig a pontig kell számítani, ameddig a repülési terv érvényes.
 
-Kitérő repülőtér/repülőterek (4-4 karakter)
+Rendeltetési kitérő repülőtér (repülőterek):
 
-Írja be a kitérő repülőtér vagy repülőterek négybetűs ICAO helységjelölését. Legfeljebb két kitérő repülőtér adható meg, de egy kitérő repülőteret meg kell adni.
+Be kell írni a rendeltetési kitérő repülőtér vagy repülőterek négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint. Legfeljebb két rendeltetési kitérő repülőtér adható meg szóközökkel.
 
-Ha a kitérő repülőtérnek nem osztottak ki helységjelölést, írjon be ZZZZ-t és a 18. rovatban ALTN/jelölést használva adja meg a kitérő repülőtér nevét.
+Ha a rendeltetési kitérő repülőtérnek nem osztottak ki helységjelölést, ZZZZ-t kell beírni, és a 18. rovatban ALTN/ jelölést használva meg kell adni a rendeltetési kitérő repülőtér helyét. Az ALTN/ jelölést követően legfeljebb 100 karakter írható be.
 
-Megjegyzés: Az IFPS nem fogad el olyan FPL-t, ahol mindkét kitérő repülőtérként ZZZZ szerepel.
+Az IFPS nem fogad el olyan FPL-t, ahol mindkét rendeltetési kitérő repülőtérként ZZZZ szerepel.
 
-18. rovat: EGYÉB TÁJÉKOZTATÁSOK
+18. ROVAT: EGYÉB TÁJÉKOZTATÁSOK
 
-0-t (nullát) írjon be, ha semmilyen egyéb tájékoztatást nem tüntet fel ebben a rovatban.
+Kötőjelek és törtvonások csak az alábbiakban meghatározottak szerint írhatóak be.
 
-A szükséges vagy szükségesnek ítélt egyéb tájékoztatásokat az alább javasolt elsőbbségi sorrendben, az alábbi rövidítések használatával, törtvonalat követően kell megadni:
+0-t (nullát) kell beírni, ha nincs egyéb tájékoztatás.
 
-RFP/Qn Alternatív repülési terv jelzése, ahol „n” helyére az alternatív FPL sorszámát kell írni, pl. RFP/Q1
+A szükséges vagy szükségesnek ítélt egyéb tájékoztatásokat az alábbi elsőbbségi sorrendben és rövidítések használatával, törtvonalat követően kell megadni:
 
-EET/ Fontos pontok és/vagy FIR határ jelölések és az ezekre számolt teljes repülési idők, ha az ATS hatóságok ezek megadását előírják, pl. EET/LITKU0220 vagy EET/LYBA0040 LHCC0 150 LOVV0215
+STS/ Különleges kezelés igénylése az ATS-től és ennek oka, az alábbiak szerint:
 
-RIF/ Módosított rendeltetési repülőtérre vezető útvonaladatok, amelyet a módosított rendeltetési repülőtér négybetűs ICAO jelölése követ (a módosított rendeltetési repülőtérre történő repülés külön útvonalengedély függvénye), pl. RIF/TPS UM986 LONLA UR22 OGRUS R22 UK UUEE
+ALTRV: meghatározott repülési magasságon vagy magassági tartományon belül történő repülések, például katonai kötelékrepülés, légi utántöltés,
 
-REG/ A légijármű lajstromjele, ha az eltér a 7. rovatban feltüntetett légijármű azonosító jeltől, pl. REG/HALCB, kötelékrepülés esetén a kísérő légijárművek lajstromjelei
+ATFMX: a nemzeti hatóságok által az ATFM szabályozás alól kivont repülések, például a Nyitott Égbolt keretében végrehajtott felderítő vagy bemutató repülések,
 
-SEL/ SELCAL kód
+FFR: tűzoltási célú repülések,
 
-OPR/ Az üzemben tartó neve, ha az a 7. rovatban megadott légijármű azonosító jelből nem egyértelműen nyilvánvaló, pl. OPR/AIR SERVICE
+FLTCK: navigációs berendezéseket kalibráló repülések,
 
-STS/ Speciális kezelés igénylése az ATS-től és ennek oka,
+HAZMAT: veszélyes anyagot szállító repülések,
 
-– humanitárius célú repülések: STS/HUM
+HEAD: államfőt, kormányfőt szállító repülések,
 
-– mentőrepülések: STS/HOSP
+HOSP: az egészségügyi hatóság által meghatározott mentőrepülések,
 
-– kutató-mentő repülések: STS/SAR
+HUM: humanitárius célú repülések,
 
-– államfőt, miniszterelnököt szállító repülések: STS/HEAD
+MARSA: katonai repülések, amelyek elkülönítésének felelősségét egy katonai szervezet viseli,
 
-– egyéb, állami hatóságok által kért különleges kezelés: STS/STATE
+MEDEVAC: életmentés célú evakuáló mentőrepülések,
 
-– a repülési tervhez csak az érintettek jussanak hozzá: STS/PROTECTED
+NON RVSM: légtérben RVSM képesség nélkül üzemelő repülések,
 
-– kényszerhelyzetben lévő repülések (pl. AFIL esetén): STS/EMER
+SAR: kutató-mentő repülések,
 
-– RVSM képesség hiánya: STS/NON RVSM
+STATE: katonai, vám vagy rendőrségi feladatokat végző repülések.
 
-– a nemzeti hatóságok által az ATFM szabályozás alól kivont repülések, pl. a Nyitott Égbolt keretében végrehajtott felderítő vagy bemutató repülések: STS/ATFMEXEMPTAPPROVED
+Többszörös jelölés szintén alkalmazható. Ilyen esetben az egyes jelöléseket, különálló STS/ után kell feltüntetni.
 
-Többszörös jelölés ugyancsak alkalmazható. Ilyen esetben az egyes jelöléseket, különálló STS után kell feltüntetni, pl. STS/HEAD STS/PROTECTED.
+A légiforgalmi szolgálatoktól igényelt egyéb különleges kezelést RMK/ után szükség szerint nyílt szöveggel lehet jelezni.
 
-STS után szükség szerint nyílt szöveg ugyancsak használható.
+A teljes egészében OAT repülést RMK/OAT feltüntetésével kell jelezni.
 
-A speciális kezelés igénylésére vonatkozó előírásokat lásd az I. részben.
+Ha a légijármű felmentést kapott a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltség alól, ezt COM/EXM833 feltüntetésével kell jelezni.
 
-A teljes egészében OAT repülést „STS/OAT” feltüntetésével kell jelezni.
+A kulcsszavakat nem lehet jogosulatlanul használni.
 
-Ha a légijármű felmentést kapott a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltség alól, ezt „STS/EXM833”-el kell jelezni.
+PBN/ RNAV vagy RNP képesség jelzése
 
-Az RNAV képesség alól felmentett állami légijárműveknek a felmentést „STS/NONRNAV” feltüntetésével kell jelezni.
+Be kell írni a repülésre vonatkozóan az alábbi jelölések közül legfeljebb nyolc címszót, de nem többet, mint 16 karaktert.
 
-TYP/ A légijármű(vek) típusa(i), amelyet szükség esetén a légijárművek száma előz meg, ha a 9. rovatban ZZZZ-t használtak
+|  |  | RNAV leírása |
 
-PER/ A légijármű teljesítményadatai, ha ennek közlését az érintett ATS hatóság külön előírta
+|  | A1 | RNAV 10 (RNP 10) |
 
-COM/ Kommunikációs berendezésekre vonatkozó lényeges adatok, ha a 10. rovatban Z-t használtak
+|  | B1 | RNAV 5 valamennyi engedélyezett érzékelő |
 
-DAT/ Adatkapcsolatra vonatkozó lényeges adatok, az S, H, V és M betűk egyikének vagy több betű használatával. Pl. DAT/S műholdas adatkapcsolat, DAT/H rövidhullámú adatkapcsolat, DAT/V URH adatkapcsolat, DAT/M S-módú adatkapcsolat
+|  | B2 | RNAV 5 GNSS |
 
-NAV/ Navigációs berendezésekre vonatkozó lényeges adatok, ha a 10. rovatban Z-t használtak
+|  | B3 | RNAV 5 DME/DME |
 
-DEP/ Az indulási repülőtér megjelölése, ha a 13. rovatban ZZZZ-t használtak, pl. DEP/4657N02053E vagy DEP/GYOMA, illetve AFIL esetén azon ATS egység helyének ICAO kód jelölése, ahonnan a kiegészítő repülési tervadatok beszerezhetők
+|  | B4 | RNAV 5 VOR/DME |
 
-DEST/ A rendeltetési repülőtér megjelölése, ha a 16. rovatba ZZZZ-t írtak, pl. DEST/4640N01857E vagy DEST/MADOCSA
+|  | B5 | RNAV 5 INS vagy IRS |
 
-ALTN/ Rendeltetési kitérő repülőtér/repülőterek neve, ha a 16. rovatba ZZZZ-t írtak
+|  | B6 | RNAV 5 LORANC |
 
-RALT/ Útvonali kitérő repülőtér/repülőterek neve(i)
+|  | C1 | RNAV 2 valamennyi engedélyezett érzékelő |
 
-CODE/ A légijármű adatcíme (hat hexadecimális karakterrel kifejezve), ha ennek feltüntetését valamely érintett FIR ATS hatósága külön előírta
+|  | C2 | RNAV 2 GNSS |
 
-RMK/ Egyéb nyílt-szövegű megjegyzés. Itt kell feltüntetni esetlegesen:
+|  | C3 | RNAV 2 DME/DME |
 
-– a repülés célját, pl. gyakorló repülés, műszaki berepülés, ejtőernyős ugratás, tűzoltás, fotózás, földi navigációs berendezések kalibrálása, transzparensvontatás;
+|  | C4 | RNAV 2 DME/DME/IRU |
 
-– a diplomáciai és speciális engedélyek meglétét,
+|  | D1 | RNAV 1 valamennyi engedélyezett érzékelő |
 
-– a repülés végrehajtásával kapcsolatban kért speciális tájékoztatásokat, pl. leszállási közlemény továbbításának kérése megadott címre,
+|  | D2 | RNAV 1 GNSS |
 
-– veszélyes anyagra vonatkozó információkat,
+|  | D3 | RNAV 1 DME/DME |
 
-– az illetékes ATS hatóság által kért egyéb kiegészítő tájékoztatásokat,
+|  | D4 | RNAV 1 DME/DME/IRU |
 
-– kötelékrepülés esetén szükség szerint a légijárművek típusait, valamint
+|  |  | RNP leirása |
 
-– a légijármű vezetője által hasznosnak ítélt bármely egyéb tájékoztatást.
+|  | L1 | RNP 4 |
 
-DOF/YYMMDD A közlekedés dátuma, hat számjegyű (YY=év MM=hónap DD=nap) jelöléssel, pl. DOF/941223. A közlekedés dátumának az EOBT dátuma minősül.
+|  | O1 | Basic RNP 1 valamennyi engedélyezett érzékelő |
 
-RVR/nnn Minimálisan szükséges futópálya menti látástávolság a leszálláshoz. Ezt a tájékoztatást ATFM célokra felhasználhatják.
+|  | O2 | Basic RNP 1 GNSS |
 
-STAYINFOn/ (n=l...9) Tájékoztatás az útvonalon, az egyes légterekben tervezett speciális tevékenységekről, pl. STAYINFO1/CALIBRATION OF SVR VOR.
+|  | O3 | Basic RNP 1 DME/DME |
 
-Nemzetközi repülések esetén a nyílt szövegű részekhez angol nyelvet kell használni, belföldi repülések esetén a magyar nyelv használata megengedett.
+|  | O4 | Basic RNP 1 DME/DME/IRU |
 
-Megjegyzés: Az ATS egységek által kezelt repülési tervek 18. rovata az IFPS-től származó alábbi kiegészítő tájékoztatásokat is tartalmazhatja:
+|  | S1 | RNP APCH |
 
-IFP/ERROURAD A kért útvonal nem egyezik meg a RAD-ban lévő megkötéssel.
+|  | S2 | RNP APCH BARO-VNAV-val |
 
-IFP/ERROUTWE A kért útvonal nem egyezik meg a hétvégi útvonal felhasználási szabályokkal.
+|  | T1 | RNP AR APCH RF-el (külön engedély szükséges) |
 
-IFP/ERROUTE A kért útvonalleírás valamilyen egyéb okból nem megfelelő, pl. valamely útvonalszakasz a kért repülési iránnyal ellentétes.
+|  | T2 | RNP AR APCH RF nélkül (külön engedély szükséges) |
 
-IFP/ERRTYPE A légijármű típus valószínűleg hibásan van megadva.
+Az RNAV képesség alól felmentett állami légijárművek esetében a felmentést NAV/RNAVX feltüntetésével kell jelezni.
 
-IFP/ERRLEVEL A kért magasság nem megfelelő, pl. alacsonylégtéri útvonalra a légijármű nagy magasságot töltött.
+NAV/ a PBN/ jelölésben fel nem sorolt navigációs berendezésekre vonatkozó lényeges adatok, ha a 10. rovatban Z-t használtak; itt kell továbbá feltüntetni a GNSS kiegészítő rendszereket, kettőnél több esetben szóközzel elválasztva, például NAV/GBAS SBAS,
 
-IFP/ERREOBT Korábbi EOBT is létezik.
+COM/ kommunikációs berendezésekre és teljesítményekre vonatkozó lényeges adatok, ha a 10. rovatban Z-t használtak,
 
-IFP/NON833 A légijármű nem rendelkezik 8,33 kHz csatornaosztású képességgel, de az FPL-t nem lehetett visszautasítani, mert az indulási repülőtér kívül esik az IFPS zónán.
+DAT/ 10. a) rovatban fel nem sorolt adatok és képességek,
 
-IFP/833UNKNOWN Ismeretlen 8,33 kHz csatornaosztású képesség, mivel az IFPS a repülési adatokat a légijármű felszállása után kapta.
+SUR/ 10. b) rovatban fel nem sorolt felderítő berendezések és képességek,
 
-IFP/NONRVSM A légijármű nem rendelkezik RVSM képességgel.
+DEP/ az indulási repülőtér neve és helye, ha a 13. rovatban ZZZZ-t használnak vagy AFIL esetében azon ATS egység, ahonnan a kiegészítő repülési tervadatok beszerezhetők;
 
-IFP/RVSMVIOLATION A repülési terv nem felel meg az RVSM előírásoknak.
+az érintett AIP-ben nem szereplő repülőtér esetében a repülőtér helyét az alábbiak szerint kell beírni:
 
-IFP/RVSMUNKNOWN Ismeretlen RVSM képesség (általában AFIL-ok esetén).
+4 számjeggyel fokokban és tizedesekben, vagy fokokban és percekben kifejezve a földrajzi szélesség, amelyet az N vagy S betű követ;ezt 5 számjeggyel fokokban és tizedesekben, vagy fokokban és percekben kifejezve a földrajzi hosszúság követi, amely után E vagy W betűt kell írni;a pontosság érdekében, szükség szerint a számok elé nullá(ka)t kell írni. Például 47,58N019,32E vagy 4620N07805W (11 karakter),
 
-IFP/MODESASP A légijármű Mode S felszereltségű és Mode S légtérben maradva repül a rendeltetési repülőtérig.
+vagy
 
-SRC/RQP A repülési tervet az IFPS RQP közleményre válaszolva küldte.
+a legközelebbi fontos ponthoz viszonyított irányszög és távolság, például DEP/BUG245020,
 
-AWR/Rn A repülési terv a légijármű üzemben tartónak a CFMU terminálon keresztül módosított útvonalát tartalmazza.
+vagy
 
-ORGN/ Az IFPS-től kapott közlemény eredeti feladója.
+az útvonal első pontja (neve vagy földrajzi szélessége és hosszúsága) vagy földi rádiónavigációs berendezés, ha a légijármű nem repülőtérről indult,
 
-19. rovat: KIEGÉSZÍTŐ TÁJÉKOZTATÁSOK
+Budapest FIR-en belüli VFR repülés esetében a felszállás helye az ICAO 1:500 000 Légiforgalmi Térképen feltüntetett település nevével is beírható, például DEP/GYOMA,
 
-Üzemanyag
+DEST/ a rendeltetési repülőtér neve és helye, ha a 16. rovatba ZZZZ-t írtak;az érintett AIP-ben nem szereplő repülőtér esetében be kell írni a repülőtér helyét földrajzi szélességben és hosszúságban, vagy a legközelebbi fontos ponthoz viszonyított irányszöget és távolságát, a DEP/ jelölésben részletezettek szerint, például DEST/4640N01857E vagy DEST/MADOCSA,
 
-E/ után írjon be egy 4 számjegyből álló csoportot, amely az üzemanyag mennyiségét jelzi órákban és percekben kifejezve.
+DOF/YYMMDD a közlekedés dátuma, hat számjegyű (YY=év MM=hónap DD=nap) jelöléssel, például DOF/941223;a közlekedés dátumának az EOBT dátuma minősül,
 
-Személyek száma a fedélzeten
+REG/ a légijármű felségjele vagy közös jele, ha az eltér a 7. rovatban feltüntetett légijármű azonosító jeltől, kötelékrepülés esetében a kísérő légijárművek lajstromjelei, például REG/HAVAS, HASJR,
 
-P/ után írja be a fedélzeten lévő személyek összlétszámát (utasok plusz személyzet). Írja be a TBN betűket (,,to be notified” – később közlendő), ha a benyújtás időpontjában a személyek száma nem ismert.
+EET/ fontos pontok vagy FIR határ jelölések és az ezekre számolt teljes repülési idők, ha az ATS hatóságok ezek megadását előírják, például EET/LITKU0220 vagy EET/LYBA0040 LHCC0 150 LOVV0215,
 
-Vész- és mentőfelszerelések
+SEL/ SELCAL kód,
+
+TYP/ a légijármű(vek) típusa(i), amelyet szükség esetén a légijárművek száma előz meg szóköz nélkül és egy szóközzel, ha a 9. rovatban ZZZZ-t használtak,
+
+CODE/ a légijármű adatcíme (hat hexadecimális karakterrel kifejezve), ha ennek feltüntetését valamely érintett FIR ATS hatósága külön előírta,
+
+DLE/ útvonalon történő késés vagy várakozás, ide kell beírni az(oka)t a fontos pontot(kat) az útvonalon, ahol a késést tervezik végrehajtani, és négy számjeggyel, órában és percben (hhmm) feltüntetve a késés időtartamát, például DLE/BUG0030;a késés vagy várakozás helyét fontos ponttól mért iránnyal és távolsággal vagy földrajzi koordinátával kell megadni, például DLE/BUG1800400030 vagy DLE/BUG5340N00326E0030;a megadott helynek az útvonalon kell lennie,
+
+OPR/ az üzemben tartó neve, ha az a 7. rovatban megadott légijármű azonosító jelből nem egyértelműen nyilvánvaló, például OPR/AIR SERVICE,
+
+ORGN/ a feladó 8 betűs AFTN címe vagy a megfelelő elérhetőségi adatok abban az esetben, amikor a repülési terv feladóját nem lehet azonosítani, ahogy az illetékes ATS hatóság előírja,
+
+PER/ légijármű teljesítményadata egyetlen betűvel jelölve, az ICAO Procedures for Air Navigation Service – Aircraft Operation (PANS-OPS, Doc 8168) Volume I – Flight Procedures-ben meghatározottak szerint, amennyiben az illetékes ATS hatóság ezt előírja,
+
+ALTN/ rendeltetési kitérő repülőtér (repülőterek) neve, ha a 16. rovatba ZZZZ-t írtak;az érintett AIP-ben nem szereplő repülőtér esetében be kell írni a repülőtér helyét földrajzi hosszúságban és szélességben vagy a legközelebbi fontos ponthoz viszonyított irányszögét és távolságát,
+
+RALT/ útvonali kitérő repülőtér (repülőterek) neve(i) az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint vagy, amennyiben ilyen jelölést nem osztottak ki, az útvonali kitérő repülőtér (repülőterek) neve(i);az érintett AIP-ben nem szereplő repülőtér esetében be kell írni a repülőtér helyét földrajzi hosszúságban és szélességben vagy a legközelebbi fontos ponthoz viszonyított irányszögét és távolságát,
+
+TALT/ felszállási kitérő repülőtér neve az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint vagy amennyiben ilyen jelölést nem osztottak ki, a felszállási kitérő repülőtér (repülőterek) neve(i);az érintett AIP-ben nem szereplő repülőtér esetében be kell írni a repülőtér helyét földrajzi hosszúságban és szélességben vagy a legközelebbi fontos ponthoz viszonyított irányszögét és távolságát,
+
+RIF/ módosított rendeltetési repülőtérre vezető útvonaladatok, amelyet a módosított rendeltetési repülőtér négybetűs ICAO jelölése követ (a módosított rendeltetési repülőtérre történő repülés külön útvonalengedély függvénye), például RIF/TPS UM986 LONLA UR22 OGRUS R22 UK UUEE,
+
+RMK/ egyéb nyílt-szövegű megjegyzés. Itt lehet feltüntetni:
+
+- a repülés célját, például gyakorló repülés, műszaki berepülés, ejtőernyős ugratás, tűzoltás, fotózás, földi navigációs berendezések kalibrálása, transzparensvontatás,
+
+- a diplomáciai és speciális engedélyek meglétét,
+
+- a repülés végrehajtásával kapcsolatban kért speciális tájékoztatásokat, például leszállási közlemény továbbításának kérése megadott címre,
+
+- veszélyes anyagra vonatkozó információkat,
+
+- az illetékes ATS hatóság által kért egyéb kiegészítő tájékoztatásokat,
+
+- kötelékrepülés esetében szükség szerint a légijárművek típusait, valamint
+
+- a légijármű vezetője által hasznosnak ítélt bármely egyéb tájékoztatást.
+
+RVR/nnn minimálisan szükséges futópálya menti látástávolság a leszálláshoz; ezt a tájékoztatást ATFM célokra felhasználhatják,
+
+STAYINFOn/ (n=1...9) tájékoztatás az útvonalon, az egyes légterekben tervezett speciális tevékenységekről, például STAYINFO1/CALIBRATION OF SVR VOR.
+
+Nemzetközi repülések esetében a nyílt szövegű részekhez angol nyelvet kell használni, belföldi repülések esetében a magyar nyelv használata megengedett.
+
+19. ROVAT: KIEGÉSZÍTŐ TÁJÉKOZTATÁSOK
+
+Üzemanyag:
+
+E/ után be kell írni egy 4 számjegyből álló csoportot, amely az üzemanyag mennyiségét jelzi órákban és percekben kifejezve.
+
+Személyek száma a fedélzeten:
+
+P/ után be kell írni a fedélzeten lévő személyek összlétszámát (utasok plusz személyzet). TBN betűket („to be notified” - később közlendő) kell beírni, ha a benyújtás időpontjában a személyek száma nem ismert.
+
+Vész- és mentőfelszerelések:
 
 R/ kényszerhelyzeti rádió:
 
-X-elje (törölje) ki:
+Törölni kell X-el:
 
-az U-t, ha 243,0 MHz UHF,
+- az U-t, ha 243,0 MHz UHF,
 
-a V-t, ha 121,5 MHz VHF
+- a V-t, ha 121,5 MHz VHF,
 
-az E-t, ha kényszerhelyzeti helyjeladó (ELT) nem áll rendelkezésre.
+- az E-t, ha kényszerhelyzeti helyjeladó (ELT) nem áll rendelkezésre.
 
 S/ mentőfelszerelések:
 
-X-elje ki azokat, amelyek nem állnak rendelkezésre az alábbi mentőfelszerelések közül:
+Ki kell X-elni azokat, amelyek nem állnak rendelkezésre az alábbi mentőfelszerelések közül:
 
-P – sarki
+P - sarki
 
-D – sivatagi
+D - sivatagi
 
-M – tengeri
+M - tengeri
 
-J – dzsungel
+J - dzsungel
 
 J/ mentőmellények:
 
-X-elje ki valamennyit, ha mentőmellények nincsenek a fedélzeten.
+Ki kell X-elni valamennyit, ha mentőmellények nincsenek a fedélzeten.
 
 Ha mentőmellények vannak:
 
-X-elje ki azokat a jellemzőket, amelyekkel a mentőmellények nem rendelkeznek:
+Ki kell X-elni azokat a jellemzőket, amelyekkel a mentőmellények nem rendelkeznek:
 
-L – jelzőfény
+L - jelzőfény
 
-F – fluoreszkáló anyag
+F - fluoreszkáló anyag
 
-U – UHF rádió
+U - UHF rádió
 
-V – VHF rádió
+V - VHF rádió
 
 D/ csónakok:
 
-X-elje ki a D és C jelöléseket, ha mentőcsónakok nincsenek a fedélzeten.
+Ki kell X-elni a D és C jelöléseket, ha mentőcsónakok nincsenek a fedélzeten.
 
-Ha vannak, írja be a mentőcsónakok számát, és
+Ha mentőcsónakok vannak:
 
-– írja be a befogadóképesség mezőbe a mentőcsónakokban összesen szállítható személyek számát,
+- be kell írni a mentőcsónakok számát, és
 
-– X-elje ki a C jelölést, ha a mentőcsónakok nem fedettek,
+- be kell írni a befogadóképesség mezőbe a mentőcsónakokban összesen szállítható személyek számát,
 
-– írja be a mentőcsónakok színét.
+- ki kell X-elni a C jelölést, ha a mentőcsónakok nem fedettek,
 
-Légijármű színe és jelzései
+- be kell írni a mentőcsónakok színét.
 
-A/ Írja be a légijármű színét és feltűnő jelöléseit (ha vannak ilyenek).
+Légijármű színe és jelzései:
 
-Megjegyzések
+A/ Be kell írni a légijármű színét és feltűnő jelöléseit (ha vannak ilyenek).
 
-N/ X-elje ki az N jelölést, ha a mentőfelszerelésekre vonatkozóan egyéb megjegyzése nincs, illetve írja be a mentőfelszerelésre vonatkozó egyéb megjegyzéseit.
+N/ Ki kell X-elni az N jelölést, ha a mentőfelszerelésekre vonatkozóan egyéb megjegyzése nincs vagy be kell írni a mentőfelszerelésre vonatkozó egyéb megjegyzéseket.
 
-Légijármű parancsnoka
+Légijármű parancsnoka:
 
-C/ Írja be a légijármű parancsnokának nevét.
+C/ Be kell írni a légijármű parancsnokának nevét.
 
-Benyújtotta
+Benyújtotta:
 
-Írja be a repülési tervet kitöltő szerv vagy személy nevét (szükség szerint elérhetőségi telefonszámát).
+Be kell írni a repülési tervet kitöltő szervezet vagy személy nevét (szükség szerint elérhetőségi telefonszámát).
 
-3. Az FPL űrlap képe
+II.3. Az FPL űrlap
 
 III. RÉSZ
 
@@ -5032,337 +5108,5 @@ Légijárművek közötti elkülönítés repülési útirányuk/útvonaluk táv
 
 150. Összeütközési veszélyt jelző fedélzeti rendszer – Airborne collision avoidance system (ACAS)
 
-Másodlagos légtér ellenőrző radar (SSR) transzponder jelein alapuló, a földi berendezésektől függetlenül működő légijármű fedélzeti rendszer, mely a lehetséges összeütközési veszélyt jelentő, SSR transzponderrel felszerelt légijárművek közelségére hívja fel a légijárművezető figyelmét, és tanáccsal szolgál a veszély elkerülésére vonatkozóan.
-
-151. Pszihoaktív anyagok – Psychoactive substances
-
-Alkohol, ópium, kannabisz származékok, nyugtatók és altató szerek, kokain és egyéb más élénkítők – a kávé és a dohány kivételével – hallucinogén és illékony oldó anyagok.
-
-152. QFE
-
-A repülőtér meghatározott helyén észlelt légnyomás jelzésére használatos kódszó.
-
-153. QNH
-
-A tengerszintre átszámított légnyomás jelzésére használatos kódszó.
-
-154. Radar
-
-Az a rádiófelderítő eszköz, amely a tárgyak távolságára, irányára és/vagy magasságára vonatkozó információt ad.
-
-155. Radarelkülönítés – Radar separation
-
-Elkülönítés, amelyet abban az esetben alkalmaznak, amikor a légijárművek helyzetét radar segítségével határozzák meg.
-
-156. Radarellenőrzés – Radar monitoring
-
-A radar felhasználása arra a célra, hogy a légijárműveknek az előírt repülési útvonaltól történt jelentős eltérések esetén tájékoztatást és tanácsot adjanak.
-
-157. Radarirányítás – Radar control
-
-Annak jelzésére használatos kifejezés, hogy a radartól származó információt a légiforgalmi irányító szolgálat ellátására közvetlenül használják fel.
-
-158. Radarirányító – Radar controller
-
-Olyan szakképzett légiforgalmi irányító, aki rendelkezik azon feladatoknak megfelelő radarjogosítással, amelyekre őt kijelölték.
-
-159. Radar nélküli elkülönítés (eljárás elkülönítés) – Non-radar separation (procedure separation)
-
-Elkülönítés, amelyet abban az esetben alkalmaznak, ha a légijármű helyzetére vonatkozó tájékoztatás nem radartól származik.
-
-160. Rádió-távbeszélés – Radiotelephony
-
-Olyan rádió-távközlési módszer, amelynek során a tájékoztatás csere elsősorban szóbeli közleményváltással történik.
-
-161. REJ közlemény – REJ message
-
-Közlemény sikertelen feldolgozását és ezért annak visszautasítását jelző válaszközlemény, amelyet az EUROCONTROL IFPS egysége továbbít a számára eljuttatott közlemény feladójának.
-
-162. Rendeltetési repülőtér – Destination aerodrome
-
-Az a repülőtér, ahova a légijármű vezetője a repülés végrehajtása során első leszállását tervezi.
-
-163. Repülésbiztonságát közvetlenül befolyásoló személyzet – Safety-sensitive personnel
-
-A hajózó személyzet tagjain, a légijárművet karbantartó személyzeten, valamint a légiforgalmi irányítókon túlmenően, olyan személyek, akik veszélyeztethetik a légiközlekedés biztonságát, amennyiben szolgálatukat és feladataikat nem szabályszerűen látják el.
-
-164. Repülési adatok – Flight data
-
-A légijármű tényleges, vagy tervezett mozgására vonatkozó adatok, amelyeket rendszerint kódolt, vagy rövidített formában tüntetnek fel.
-
-165. Repülési látástávolság – Flight visibility
-
-Levegőben lévő légijármű pilótakabinjából előre mért látástávolság.
-
-166. Repülési szabályok – Flight rules
-
-Látvarepüléssel, vagy műszer szerinti repüléssel végrehajtott repülésekre vonatkozó előírások összessége.
-
-167. Repülési szint (FL) – Flight level (FL)
-
-Meghatározott nyomásalaphoz, az 1013,2 hPa légnyomáshoz viszonyított állandó légnyomású felület, amelyet a más, ugyanilyen felületektől meghatározott légnyomás különbségek választanak el.
-
-1. Megjegyzés: Az Egyezményes Légkörnek megfelelően kalibrált barometrikus magasságmérő:
-
-a) QNH magasságmérő beállítási értékre állítva tengerszint feletti magasságot mutat;
-
-b) QFE magasságmérő beállítási értékre állítva a QFE vonatkozási alap feletti magasságot mutatja;
-
-c) 1013,2 hPa nyomásértékre beállítva a repülési szintek jelzésére használható.
-
-2. Megjegyzés: Az 1. Megjegyzésben használt magasság és tengerszint feletti magasság kifejezések barometrikus, nem pedig geometrikus magasságot jelentenek.
-
-168. Repülési terv (FPL; RPL; AFIL) – Flight plan (FPL, RPL, AFIL)
-
-A légiforgalmi szolgálati egységek rendelkezésére bocsátott, a légijármű tervezett repülésére, vagy repülésének egy szakaszára vonatkozó meghatározott tájékoztatás.
-
-169. Repülési tervadatok – Flight plan data
-
-A repülési tervből feldolgozás, megjelenítés, vagy továbbítás céljából kiválasztott adatok.
-
-170. Repüléstájékoztatás – Flight information
-
-A repülés biztonságos és hatékony vezetéséhez hasznos tájékoztatások adása, beleértve a légiforgalomra, a meteorológiai körülményekre, a repülőtéri állapotokra, vagy a légiútvonali létesítményekre vonatkozó tájékoztatásokat.
-
-171. Repüléstájékoztató körzet (FIR) – Flight information region (FIR)
-
-Meghatározott kiterjedésű légtér, amelyben repüléstájékoztató és riasztószolgálatot nyújtanak.
-
-172. Repüléstájékoztató központ (FIC) – Flight information centre (FIC)
-
-Repüléstájékoztató, légiforgalmi tanácsadó és riasztószolgálat ellátására létesített egység.
-
-173. Repüléstájékoztató szolgálat (FIS) – Flight information service (FIS)
-
-Olyan szolgálat, amelyet a repülések biztonságos és hatékony végrehajtásához hasznos tanácsok és tájékoztatások adása céljából nyújtanak.
-
-174. Repülőgép – Aeroplane
-
-Levegőnél nehezebb, erőgép meghajtású légijármű, melynek levegőbe emelkedése főként olyan felületekre ható aerodinamikai reakciók következtében jön létre, amely felületek az adott repülési körülmények között rögzített helyzetben maradnak.
-
-175. Repülőterek légterei
-
-Repülőterek körül, a repülőtéri forgalom védelme érdekében kijelölt légterek összessége.
-
-176. Repülőtér – Aerodrome
-
-Szárazföldön, vagy vízen kijelölt terület (ideértve valamennyi, a területhez tartozó épületet, felszerelést és berendezést), amely egészében, vagy részben a légijárművek indulására és érkezésére, valamint felszíni mozgására szolgál.
-
-Megjegyzés: Amikor a „repülőtér” kifejezést a repülési tervvel, vagy az ATS közleményekkel kapcsolatban használják, akkor olyan területet is jelenthet, amely nem repülőtér, de adott típusú légijárművek használhatják pl.: helikopterek, vagy ballonok.
-
-177. Repülőtér forgalmi köre – Aerodrome traffic circuit
-
-A repülőtér közelében működő légijárművek részére előírt repülési útvonal.
-
-178. Repülőtér közvetlen környezete
-
-Ha egyéb előírás másképp nem szabályozza, a repülőtér közvetlen környezete alatt a kijelölt CTR, MCTR, illetve ATZ értendő.
-
-179. Repülőtéri forgalmi körzet (ATZ) – Aerodrome Traffic Zone (ATZ)
-
-Nem ellenőrzött repülőtér körül, a repülőtéri forgalom védelme érdekében kijelölhető, meghatározott kiterjedésű légtér.
-
-180. Repülőtéri forgalom – Aerodrome traffic
-
-Egy repülőtér munkaterületén lévő minden forgalom és a repülőtér közelében repülő légijárművek összessége.
-
-Megjegyzés: A repülőtér közelében működő légijárműveken a repülőtér forgalmi körén tartózkodó, oda besoroló, vagy onnan kilépő légijárműveket kell érteni.
-
-181. Repülőtéri irányító körzet (CTR/MCTR vagy CTZ/MCTZ) – Control Zone (CTR/MCTR or CTZ/MCTZ)
-
-A repülőtér körül a föld felszínétől egy meghatározott felső határig terjedő ellenőrzött légtér.
-
-Megjegyzés: A CTR rövidítés egyaránt jelenthet polgári és katonai repülőtéri irányító körzetet is. Az MCTR megjelölés akkor használatos, ha a repülőtéri irányító körzet katonai jellegét kívánják hangsúlyozni.
-
-182. Repülőtéri irányító szolgálat – Aerodrome control service
-
-A repülőtéri forgalom részére nyújtott légiforgalmi irányító szolgálat.
-
-183. Repülőtéri irányító torony (TWR) – Aerodrome control tower (TWR)
-
-A repülőtéri forgalom számára légiforgalmi irányító szolgálat nyújtása céljából létrehozott egység.
-
-184. Repülőtér feletti magasság (QFE magasság) – Height above aerodrome level
-
-Levegőben lévő légijárműnek a repülőtéri légnyomáshoz viszonyított nyomásmagassága.
-
-185. Repülőtéri repüléstájékoztató egység – Aerodrome flight information services unit
-
-Repülőtéri repüléstájékoztató és riasztószolgálat ellátására létesített egység.
-
-186. Repülőtéri repüléstájékoztató szolgálat (AFIS) – Aerodrome Flight Information Service (AFIS)
-
-Repülőtéri forgalom részére nyújtott repüléstájékoztató szolgálat.
-
-187. Repülőtér tengerszinthez viszonyított magassága – Aerodrome elevation
-
-A leszállási terület legmagasabb pontjának tengerszinthez viszonyított magassága.
-
-188. Riasztószolgálat – Alerting service
-
-Kutatásra és mentésre szoruló légijárművekkel kapcsolatban a megfelelő szervek értesítése és szükség szerint ezekkel a szervekkel való együttműködés.
-
-189. RNAV
-
-Területi navigáció (Area Navigation) jelölésére használt rövidítés.
-
-190. RNP típus – RNP type
-
-Tengeri mérföldben kifejezett pontossági határérték, amely megadja, hogy a repülés végrehajtás során a légijármű a tervezett repülési helyzetéhez viszonyítva, a repülési idő legalább 95%-ában ezen távolsági értéken belül repüljön.
-
-Például: Az „RNP 4” olyan navigációs pontossági határértéket jelent, amelynek alapján az adott repülőgép, repülési idejének legalább 95%-ában, mindenkori tervezett repülési helyzetéhez viszonyítva plusz/mínusz 4 tengeri mérföld (7,4 km) távolságon belül repül.
-
-191. SIGMET tájékoztatás – SIGMET information
-
-Meteorológiai figyelő iroda által kiadott, az útvonalon a légijárművek üzemelésének biztonságát befolyásoló, meghatározott időjárási jelenségek előfordulásáról, vagy várható előfordulásáról szóló tájékoztatás.
-
-192. RVSM
-
-A csökkentett függőleges elkülönítési minimum (Reduced Vertical Separation Minimum) jelölésére használt rövidítés.
-
-193. Standard magasságmérő beállítás – Standard altimeter setting
-
-Az 1013,2 hPa légnyomás beállítása a barometrikus magasságmérő nyomásskáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén.
-
-194. STD (m STD)
-
-Standard magasságmérő beállítás szerint üzemelő légijármű méterben kifejezett magasságának jelzésére szolgáló rövidítés.
-
-195. Számított érkezési idő (ETA) – Estimated time of arrival (ETA)
-
-IFR repülések esetén az az időpont, amikorra számítás szerint a légijármű arra a navigációs berendezéssel meghatározott, kijelölt pontra érkezik, amelyről a műszer szerinti megközelítési eljárást megkezdeni szándékoznak, vagy ha nincs a repülőteret kiszolgáló ilyen navigációs berendezés, akkor az az időpont, amikorra a légijármű a repülőtér fölé érkezik. VFR repülések esetén az az időpont, amikorra számítás szerint a légijármű a repülőtér fölé érkezik.
-
-196. Számított fékoldási idő (EOBT) – Estimated offblock time (EOBT)
-
-Az a számított idő, amikor a légijármű az indulással kapcsolatos mozgását megkezdi.
-
-197. Számított repülési idő (EET) – Estimated elapsed time (EET)
-
-Az egyik fontos pontról a másik fontos pontra való repülés számított időtartama.
-
-198. Személyzet nélküli szabad ballon – Unmanned free balloon
-
-Nem gépi meghajtású, személyzet nélküli szabadon repülő, levegőnél könnyebb légijármű.
-
-Megjegyzés: A személyzet nélküli szabad ballonok „nehéz”, „közepes”, vagy „könnyű” osztályba sorolhatók.
-
-199. Tanácsadói légtér – Advisory airspace
-
-Meghatározott kiterjedésű légtér, vagy kijelölt útvonal, amelyen belül légiforgalmi tanácsadó szolgálat áll rendelkezésre.
-
-200. Tanácsadói útvonal – Advisory route
-
-Olyan kijelölt útvonal, ahol légiforgalmi tanácsadó szolgálat áll rendelkezésre.
-
-201. Távrepülés
-
-Az indulási repülőtér forgalmi körét vagy légterét elhagyó légijárművel végzett sportcélú repülés.
-
-202. Teljes számított repülési idő – Total estimated elapsed time
-
-IFR repülések esetében az a számított időtartam, amely a felszállástól addig a navigációs berendezésekkel meghatározott kijelölt pontig szükséges, ahonnan műszer szerinti megközelítési eljárás megkezdését tervezik, vagy ha a rendeltetési repülőtéren ilyen navigációs berendezés nincs, akkor az az időtartam, amely a felszállástól a rendeltetési repülőtér fölé érkezésig szükséges. VFR repülések esetében az a számított időtartam, amely a felszállástól a rendeltetési repülőtér fölé való érkezésig szükséges.
-
-203. Tengerszint feletti magasság (QNH magasság) – Altitude
-
-Levegőben lévő légijárműnek a közepes tengerszinti légnyomáshoz (Balti alapszint) viszonyított magassága.
-
-204. Tengerszinthez viszonyított magasság – Elevation
-
-A földfelület valamely pontjának, szintjének, vagy ahhoz rögzített pontnak, a közepes tengerszinthez viszonyított függőleges távolsága.
-
-205. Tényleges önsebesség (TAS) – True airspeed (TAS)
-
-A légijárműnek a környező levegőhöz viszonyított sebessége.
-
-206. Területi navigáció (RNAV) – Area navigation (RNAV)
-
-Olyan navigációs módszer, amely lehetővé teszi, hogy a légijárművek földi állomásokon alapuló navigációs segédeszközök fedésterületén belül, vagy önálló segédeszközök határának lehetőségén belül, illetve ezek kombinációjával bármilyen kívánt repülési útvonalon repüljenek.
-
-207. Területi navigációs útvonal – Area navigation route
-
-Területi navigációs képességgel rendelkező légijárművek általi használatra létesített ATS útvonal.
-
-208. Tiltott légtér – Prohibited area
-
-Egy állam területe, vagy felségvizei feletti meghatározott kiterjedésű légtér, amelyen belül a légijárművek repülése tilos.
-
-209. Transzponder (fedélzeti válaszjeladó) – Transponder
-
-Vevő/adó berendezés, amely megfelelő kérdezésre válaszjelet sugároz ki. A kérdezés és a válaszadás más frekvencián történik.
-
-210. Utazó emelkedés – Cruise climb
-
-Olyan repülési módszer, amely a tengerszint feletti magasság tiszta növekedését eredményezi a repülőgép tömegének csökkenése függvényében.
-
-211. Utazómagasság – Cruising level
-
-A repülés jelentős szakaszán tartott magasság.
-
-212. UTC (Egyeztetett Világidő) – UTC (Coordinated universal time)
-
-Egyeztetett Világidőben kifejezett időpont jelzésére használatos rövidítés.
-
-213. Útirány – Track
-
-A légijármű útvonalának vetülete a föld felületén, amelynek irányát annak bármely pontján a mágneses Északtól mért fokokban fejezik ki.
-
-214. Útvonal engedély – En-route clearance
-
-Engedély, amely magába foglalja a légijármű felszállás utáni repülési útját azon pontig, amelynél a leszálláshoz történő megközelítés várható, hogy megkezdődik.
-
-Megjegyzés: Bizonyos körülmények között szükséges lehet ezen engedély felosztása, például: irányítói körzethatárokkal elválasztott szakaszokra, illetve a repülés indulási, emelkedési, vagy süllyedési szakaszaira.
-
-215. Útvonalrepülés
-
-A repülőtér forgalmi körét, vagy légterét elhagyó valamennyi repülés.
-
-216. Útvonalszakasz – Route segment
-
-A lerepülendő útvonalnak a repülési tervben leírt, két egymást követő fontos ponttal meghatározott része.
-
-217. Várható bevezetési idő – Expected approach time
-
-Az az időpont, amikorra az ATC úgy számítja, hogy egy érkező légijármű, késleltetés után majd elhagyja a várakozási pontot, hogy a leszálláshoz történő megközelítést végrehajtsa.
-
-Megjegyzés: A várakozási pont elhagyásának tényleges időpontja a bevezetési engedélytől függ.
-
-218. Veszélyes légtér – Danger area
-
-Meghatározott kiterjedésű légtér, ahol meghatározott időben a légiközlekedésre veszélyes tevékenység folyik.
-
-219. Végső megközelítés – Final approach
-
-A műszer szerinti megközelítési eljárásnak azon szakasza, amely a végső megközelítés kijelölt helyénél, vagy pontjánál kezdődik, vagy, ahol ilyeneket nem jelöltek ki, ott:
-
-a) az utolsó eljárásforduló, vagy alapforduló befejezésénél, vagy a várakozási eljárás rárepülési fordulójánál, ahol ilyet meghatároztak; vagy
-
-b) a megközelítési eljárásban meghatározott utolsó útirány elérési pontjánál;
-
-és a repülőtér közelében addig a pontig tart, ahonnan
-
-1. a leszállás végrehajtható, vagy
-
-2. a megszakított megközelítési eljárást megkezdik.
-
-220. VFR
-
-A látvarepülési szabályok (Visual Flight Rules) jelölésére használt rövidítés.
-
-221. VFR repülés – VFR flight
-
-A látvarepülési szabályok szerint végrehajtott repülés.
-
-222. Vízszintes elkülönítés – Horizontal separation
-
-Gyűjtőfogalom, amely jelenthet oldalirányú, vagy hosszirányú elkülönítést.
-
-223. VMC
-
-A látási meteorológiai körülmények (Visual Meteorological Conditions) jelölésére használt rövidítés.
-
-224. Vonatkozási pont (repülőtéri)
-
-A repülőtér koordinátákkal megadott földrajzi helye.
-
 [^3]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
-[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja szerint módosított szöveg.
+[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a szerint módosított szöveg.
