@@ -1,4 +1,4 @@
-## 52. § Hatályát veszti a pedagógiai szakszolgálatokról szóló 4/2010. (I. 19.) OKM rendelet.
+## 52. §[^1]
 
 1. melléklet a 15/2013. (II. 26.) EMMI rendelethez
 
@@ -121,3 +121,5 @@
 | Szülői nyilatkozat a gyermek, a tanuló halmozottan hátrányos helyzetéről Nyilatkozom arról, hogy gyermekem halmozottan hátrányos helyzetű. Tájékoztatást kaptam arról, hogy mivel gyermekem esetében első alkalommal kerül sor a tanulási képességet vizsgáló szakértői bizottság által végzett vizsgálatra, az Oktatási Hivatal által kijelölt szakszolgálati-esélyegyenlőségi szakértő jelenlétét írja elő a vonatkozó jogszabály. Az általam aláírt vizsgálati iránti kérelmet ezért a vizsgálatot kezdeményező intézmény egyidejűleg az Oktatási Hivatal részére is köteles megküldeni. E kötelezettséget abban az esetben nem kell teljesítenie, ha a szülő ennek törlését kéri. Élve a jogszabályban biztosított szülői döntési jogommal, kijelentem, hogy 2 a) a vizsgálaton az esélyegyenlőségi szakértő jelenlétét kérem; b) a vizsgálaton az esélyegyenlőségi szakértő jelenlétét nem kérem. Kelt: ………………………………… ……………………………….……………………………. szükő(k) aláírása |
 
 2 A nemkívánatos válasz áthúzással törlendő.
+
+[^1]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
