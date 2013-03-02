@@ -1,15 +1,15 @@
-## 156. §[^47]
+## 156. §[^48]
 
-157. § (1)[^48]
+157. § (1)[^49]
 
-(2) Az ER. 24. §-a a következő (5a) bekezdéssel egészül ki:
+(2)[^50]
 
-## „(5a) Az Országgyűlési Őrség hivatásos állománya esetében az (5) bekezdésben foglaltaktól eltérően a fizikai alkalmassági vizsgálattól az alapellátó orvos által kiállított orvosi igazolás alapján távolmaradónak a fizikai alkalmassági vizsgálatot az egészségügyi ok megszűnését követő 3 hónapon belül kell végrehajtani.”
+(3)–(6)[^51]
 
-(3)–(6)[^49]
+(7)[^52]
 
-(7) Az ER. a 6. mellékletben szereplő 10. melléklettel egészül ki.
-
-[^47]: A 156. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^48]: A 157. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^49]: A 157. § (3)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 156. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 157. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 157. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 157. § (3)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 157. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
