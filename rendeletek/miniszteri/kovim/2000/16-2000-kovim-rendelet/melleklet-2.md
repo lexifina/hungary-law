@@ -4922,10 +4922,4 @@ Megjegyzés: Amennyiben a transzponder műszaki sajátosságai következtében a
 
 a) kérjék fel a légijárművezetőt, hogy szüntesse meg a „C” mód adását, feltéve, hogy az nem szakítja meg válaszjeladójának „A” módú üzemét, és erről az intézkedésről tájékoztassák a légijármű által érintett soron következő irányítói munkahelyeket vagy ATC egységet,
 
-b) tájékoztassák a légijárművezetőt az eltérésről, és kérjék fel őt, hogy a légijárműre vonatkozó helyzet- és azonosságtájékoztatás fenntartása érdekében folytassa „C” módú üzemét, és tájékoztassák:
-
-1. a légijármű közelében működő érintett légijárművek személyzetét, hogy felhívják a figyelmet az ACAS berendezés esetlegesen helytelen tanácsadására (ACAS RA),
-
-2. a légijármű által érintett következő irányítói munkahelyet, vagy ATC egységet a tett intézkedésről.
-
-[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a szerint módosított szöveg.
