@@ -1,1 +1,0 @@
-## „(4) A származási igazolással, tenyésztői bizonylattal, eredetigazolással vagy EU bizonylattal rendelkező példány esetében a tanácsi rendelet szerinti export engedély vagy re-export bizonyítvány iránti kérelemhez mellékelni kell az eredeti származási igazolást, a tenyésztői bizonylatot, az eredetigazolást vagy az EU bizonylatot, amelyet az igazgatási hatóság bevon.”
