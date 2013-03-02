@@ -1,3 +1,1 @@
-101. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 67. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) A hazai anyakönyvezés iránti kérelem bármely települési önkormányzat polgármesteri hivatalának anyakönyvvezetőjénél vagy bármely hivatásos konzuli tisztviselőnél előterjeszthető. Ha magyar állampolgár külföldön történt születéséről, házasságkötéséről, bejegyzett élettársi kapcsolata külföldi létesítéséről vagy külföldön történt halálesetéről az anyakönyvvezető vagy – a fogadó állam által megküldött anyakönyvi kivonat alapján – a hivatásos konzuli tisztviselő tudomást szerez, a hazai anyakönyvezést hivatalból kezdeményezi. A magyar állampolgár külföldön bekövetkezett halálesetének hazai anyakönyvezése iránti kérelmet a hivatásos konzuli tisztviselőnél postai úton is elő lehet terjeszteni.”
+101. §

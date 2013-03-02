@@ -1,1 +1,0 @@
-79. § Hatályát veszti a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 32. § (2) bekezdés b) pontjában a „ , vagy a halotti anyakönyvi kivonatot” szövegrész.
