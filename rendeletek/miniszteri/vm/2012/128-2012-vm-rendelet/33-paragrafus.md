@@ -1,4 +1,4 @@
-## 32. §[^15]
+## 32. §[^18]
 
 33. § (1) E rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -8,4 +8,4 @@
 
 (4) E rendelet 20. § (2) és (4) bekezdése 2013. augusztus 1-jén lép hatályba.
 
-[^15]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
