@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-55-20-2
 | --- | --- | --- |
 | 2013-01-28 | 2012-55-20-2T.1 | 55/2012. (XII. 28.) KIM rendelet |
 | 2013-03-01 | 2012-55-20-2T.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-03-02 | 2012-55-20-2T.3 | 2010: CXXX. törvény |
