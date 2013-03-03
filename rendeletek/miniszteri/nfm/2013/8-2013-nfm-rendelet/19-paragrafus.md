@@ -1,0 +1,13 @@
+19. § (1) A vissza nem térítendő támogatás igénybevételével beszerzett tárgyi eszközök a záró jegyzőkönyv felvételéig kizárólag a támogatási szerződésben és a pályázatban meghatározott céloknak megfelelően hasznosíthatók. A TC-ből támogatott beruházással létrehozott vagyon – ha az a támogatási döntés kedvezményezettjének tulajdonába kerül – az Ávr.-ben meghatározott feltételek mellett, a támogatási szerződésben foglalt kötelezettségek lejártáig csak a Támogató előzetes jóváhagyásával idegeníthető el vagy adható bérbe. Jóváhagyás hiányában a támogatási döntés kedvezményezettje köteles a tárgyi eszköz értékére eső támogatás időarányos, értékcsökkenéssel korrigált, de a mindenkori jegybanki alapkamattal növelt összegét visszafizetni.
+
+(2) E rendelet alapján támogatás csak akkor ítélhető oda, ha a projekt megkezdése előtt a kedvezményezett a támogatás iránti kérelmét benyújtja, és a Támogató, illetve a MAG Zrt. írásban megerősíti, hogy a – további részletes vizsgálat tárgyát képező – támogatott tevékenység megfelel a programban meghatározott jogosultsági feltételeknek.
+
+(3) A projekt kezdetének dátumát – amely nem lehet a pályázat benyújtásának napját megelőző időpont – a pályázatban fel kell tüntetni. Rendezvény esetében a megkezdés időpontja a rendezvény első napja. Az előzetes megvalósíthatósági tanulmányok megrendelése, elkészítése nem minősül a fejlesztés, beruházás megkezdésének. A beruházás, fejlesztés – ideértve a vissza nem térítendő kamattámogatásokkal megvalósuló projekteket – megkezdésének minősül
+
+a) beruházási célú projekt esetén az építkezési munkálatok megkezdése (az építési naplóba történt első olyan bejegyzés időpontja, amely a támogatott projekt részletes költségvetésében szereplő bármely elemre vonatkozik), a felszerelésnek a kedvezményezett által első alkalommal, jogilag kötelező erejű kötelezettségvállalással történő megrendelése, vagy az építési tevékenységet és az árubeszerzést egyaránt tartalmazó projekt esetén ezek közül a korábbi időpont,
+
+b) minőségfejlesztési vagy – a rendezvények kivételével – az egyéb tevékenységhez kapcsolódó pályázat esetén a feladat elvégzésére megkötött első szerződés létrejöttének dátuma,
+
+c) azon projektek esetén, ahol a beruházás a közműfejlesztési hozzájárulás befizetésével kezdődik, a közműszerződés szerint igazolt első pénzügyi teljesítés időpontja.
+
+(4) Abban az esetben, ha a fejlesztési célú támogatást a pályázó egy olyan projekthez igényli, amely az 1628/2006/EK bizottsági rendelet értelmében a korábbiakkal összefüggőnek minősül, és a korábbi projektek önmagukban is működőképesek, a (3) bekezdésben foglalt feltételeknek és időpontnak az utolsó projekt tekintetében kell fennállnia, illetve bekövetkeznie.

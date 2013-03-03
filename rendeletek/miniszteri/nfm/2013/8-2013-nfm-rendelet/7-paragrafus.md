@@ -1,0 +1,1 @@
+## 6. § A TC-ből támogatás a Magyarországon székhellyel, vagy az Európai Gazdasági Térség (a továbbiakban: EGT) területén székhellyel és Magyarországon telephellyel rendelkező jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó, továbbá a magyar állampolgárságú vagy az EGT tagállama állampolgárának minősülő természetes személy részére nyújtható.
