@@ -8,7 +8,9 @@ b) a 82. § (5) bekezdés szerinti eljárásban hat hónap,
 
 c) a korlátozott földgáz-kereskedelmi engedély kiadására irányuló eljárásban, valamint a 105. § (3) bekezdése és a 108. § (1) bekezdése szerinti eljárásban 30 nap,
 
-d) a 128. § (1) bekezdés a)–c) és e) pontja szerinti eljárásokban négy hónap.
+d) a 128. § (1) bekezdés a)–c) és e) pontja szerinti eljárásokban négy hónap,
+
+e) a 128/A. § (5) bekezdése szerinti eljárásban két hónap.
 
 (3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés kivételével – a határozatot jogosult megváltoztatni.
 
