@@ -2,6 +2,6 @@
 
 (2) A Hivatal a 92–94. § szerinti ügyletekhez történő hozzájárulást megtagadja, ha az ügylet eredményeképpen az engedélyes nem tud megfelelni a 75. § (3) bekezdés c) pontja szerinti követelményeknek.
 
-(2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak.
+(2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország vagy az Európai Unió más tagállam energiaellátásának biztonságát.
 
 (3) A 93. § (1) bekezdése szerinti részesedésszerzés bejelentésének elmulasztása vagy tudomásulvételt kimondó visszaigazolás hiánya esetén, a 92. § (1) bekezdésben, valamint a 93. § (2), (5) és (6) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, a részvénykönyvbe nem jegyezhető be, vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal visszaigazolását vagy hozzájárulását igazoló dokumentummal együtt lehet benyújtani.

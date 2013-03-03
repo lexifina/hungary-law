@@ -30,7 +30,9 @@ e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és
 
 f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
 
-g) a rendszerhasználati díjak mértéke és alkalmazása egyedi feltételeinek megállapítására irányuló eljárásban 30 nap.
+g) a rendszerhasználati díjak mértéke és alkalmazása egyedi feltételeinek megállapítására irányuló eljárásban 30 nap,
+
+h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap.
 
 (4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a közigazgatási és hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
