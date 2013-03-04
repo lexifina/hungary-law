@@ -12,8 +12,12 @@ dr. Kocziszky Györgyöt 2011. április 5-től
 
 – hat évre – a Magyar Nemzeti Bank monetáris tanácsa tagjává
 
+Pleschinger Gyulát 2013. március 5-től
+
+– hat évre – a Magyar Nemzeti Bank monetáris tanácsa tagjává
+
 megválasztja.
 
 2. E határozat elfogadásakor lép hatályba.
 
-[^2]: Az 1. pont a 22/2011. (III. 22.) OGY határozat 1. pontja alapján módosított szöveg.
+[^2]: Az 1. pont a 22/2011. (III. 22.) OGY határozat 1. pontja, a 10/2013. (III. 5.) OGY határozat 1. pontja alapján módosított szöveg.
