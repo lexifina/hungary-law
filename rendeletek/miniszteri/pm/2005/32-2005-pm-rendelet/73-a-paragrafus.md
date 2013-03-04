@@ -1,4 +1,4 @@
-## IV/A. Fejezet[^289]
+## IV/A. Fejezet[^301]
 
 ## KÁRTYATERMEK
 
@@ -24,4 +24,4 @@ e) az 53. § (2) bekezdés c) és f) pontjában foglaltakat.
 
 (5) Az Szjtv. 29/B. § (6) bekezdése szerinti 200 méteres távolság tekintetében a 26. § (2)–(7) bekezdései az irányadók.
 
-[^289]: A IV/A. fejezetet (a 73/A–73/K. §-t) a 16/2010. (IV. 28.) PM rendelet 12. § (1) bekezdése iktatta be.
+[^301]: A IV/A. fejezetet (a 73/A–73/K. §-t) a 16/2010. (IV. 28.) PM rendelet 12. § (1) bekezdése iktatta be.

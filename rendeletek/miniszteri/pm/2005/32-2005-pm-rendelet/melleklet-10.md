@@ -68,9 +68,9 @@
 
 ## b) a játékadó befizetésére vonatkozó készpénz-átutalási megbízás (csekk) tőpéldányát, vagy az átutalás megindításának megtörténtét tanúsító hitelintézeti igazolást (bankkivonatot).
 
-## 5.[^378] Az időszaki elszámolás benyújtásakor be kell mutatni az érintett időszakban üzemeltetett játéktermekben vezetett havi pénzforgalmi jelentéseknek az első példányát, amelyet eltérés megállapítása esetén az állami adóhatóság bevonhat.
+## 5.[^379] Az időszaki elszámolás benyújtásakor be kell mutatni az érintett időszakban üzemeltetett játéktermekben vezetett havi pénzforgalmi jelentéseknek az első példányát, amelyet eltérés megállapítása esetén az állami adóhatóság bevonhat.
 
-10. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^379]
+10. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^380]
 
-[^378]: A 9. számú melléklet 5. pontját a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 4. pontja iktatta be.
-[^379]: A 10. számú melléklet a 15/2012. (VI. 28.) NGM rendelet 15. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^379]: A 9. számú melléklet 5. pontját a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 4. pontja iktatta be.
+[^380]: A 10. számú melléklet a 15/2012. (VI. 28.) NGM rendelet 15. § (1) bekezdés 3. pontjával megállapított szöveg.

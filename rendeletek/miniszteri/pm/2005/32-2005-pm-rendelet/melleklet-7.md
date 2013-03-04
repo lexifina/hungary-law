@@ -2,7 +2,7 @@
 
 ## A bizonylat nyomdai úton előre sorszámozott, 50 lapos, hárompéldányos tömb. Felhasználása emelkedő számsorrendben történik. A kihagyott, fel nem használt lapokat áthúzással érvényteleníteni kell. Megőrzésükre, kezelésükre a szigorú számadású nyomtatványokra vonatkozó előírásokat kell alkalmazni. A bizonylattömb első példányát, ennek hiányában a másodikat, az állami adóhatóság az ellenőrzés során bevonhatja. A játékteremben egyidejűleg egy bizonylattömb használható. A használatban lévő bizonylattömb utolsó lapjának felhasználása után nyitható új tömb.
 
-## A fejléc értelemszerű, pontos, teljes körű kitöltése, továbbá a bejegyzés jogcímének jegyzőkönyvezése minden esetben kötelező. Új sorszámú bizonylat megnyitása a bejegyzés jogcímeként megjelölt eseménnyel egy időben történik. Egy játéknapra vonatkozóan több jogcím is megjelölhető. Minden naptári napra külön sorszámú jegyzőkönyvet kell nyitni. A bejegyzés jogcímének megjelölése, valamint a bizonylaton a bejegyző aláírása minden esetben kötelező. Hibás adat bejegyzése esetén a teljes adatot át kell húzni, és a helyes adatot a hibás fölé kell bejegyezni és a javítást végző aláírásával kell ellátni.[^359]
+## A fejléc értelemszerű, pontos, teljes körű kitöltése, továbbá a bejegyzés jogcímének jegyzőkönyvezése minden esetben kötelező. Új sorszámú bizonylat megnyitása a bejegyzés jogcímeként megjelölt eseménnyel egy időben történik. Egy játéknapra vonatkozóan több jogcím is megjelölhető. Minden naptári napra külön sorszámú jegyzőkönyvet kell nyitni. A bejegyzés jogcímének megjelölése, valamint a bizonylaton a bejegyző aláírása minden esetben kötelező. Hibás adat bejegyzése esetén a teljes adatot át kell húzni, és a helyes adatot a hibás fölé kell bejegyezni és a javítást végző aláírásával kell ellátni.[^360]
 
 ## Bejegyzés jogcíme
 
@@ -12,19 +12,19 @@
 
 ## a) PA engedély szám,
 
-## b)[^360] mérésügyi szerv által adott azonosító szám,
+## b)[^361] mérésügyi szerv által adott azonosító szám,
 
 ## c) gyártási szám,
 
 ## d) a PA pontosan mely címen található játékteremben üzemel tovább,
 
-## e)[^361] ha tárolás, szervizelés, javítás, mérésügyi szerv általi vizsgáztatás miatt raktárba, szervizbe, hitelesítő laboratóriumba szállították el a PA-t, akkor:
+## e)[^362] ha tárolás, szervizelés, javítás, mérésügyi szerv általi vizsgáztatás miatt raktárba, szervizbe, hitelesítő laboratóriumba szállították el a PA-t, akkor:
 
 ## 1. székhely megjelölése esetén cím megadása nem szükséges
 
 ## 2. telephely, raktár esetén a cím megjelölése kötelező
 
-## 3.[^362] mérésügyi szerv általi vizsgáztatás, szervizelés esetén a szerviz, hitelesítő laboratórium megnevezése és a helység megjelölése kötelező,
+## 3.[^363] mérésügyi szerv általi vizsgáztatás, szervizelés esetén a szerviz, hitelesítő laboratórium megnevezése és a helység megjelölése kötelező,
 
 ## f) ha az elszállításra üzemképtelenség miatt kerül sor, az üzemképtelenség ténye és oka.
 
@@ -36,7 +36,7 @@
 
 ## a) engedély szám,
 
-## b)[^363] mérésügyi szerv által adott azonosító szám,
+## b)[^364] mérésügyi szerv által adott azonosító szám,
 
 ## c) gyártási szám.
 
@@ -64,7 +64,7 @@
 
 ## c) a régi engedély száma,
 
-## d)[^364] a PA mérésügyi szerv által adott azonosító száma vagy gyártási száma,
+## d)[^365] a PA mérésügyi szerv által adott azonosító száma vagy gyártási száma,
 
 ## e) a régi engedély elszállításának időpontja.
 
@@ -134,17 +134,17 @@
 
 ## e) a teremfelügyelő aláírása.
 
-## 10.[^365] Egyéb
+## 10.[^366] Egyéb
 
 ## Minden, az 1–9. pontban nem említett, a játékterem üzemeltetésével kapcsolatos, illetve a játéktermet érintő bejegyzést ezen a jogcímen kell megtenni. Ezen a jogcímen kell az új jegyzőkönyvben rögzíteni a korábbi havi pénzforgalmi jelentés és a játékterem üzemeltetéséhez kapcsolódó jegyzőkönyv megsemmisülését a megsemmisülést vagy az arról való tudomásszerzést követően haladéktalanul.
 
-7. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^366]
+7. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^367]
 
-[^359]: A 6. számú melléklet bevezető szövegrésze a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^360]: A 6. számú melléklet 1. pontjának b) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^361]: A 6. számú melléklet 1. pontjának e) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^362]: A 6. számú melléklet 1. e) pontjának 3. alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^363]: A 6. számú melléklet 2. pontjának b) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^364]: A 6. számú melléklet 4. B) pontjának d) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^365]: A 6. számú melléklet 10. pontjának második mondatát a 32/2007. (XII. 21.) PM rendelet 27. §-a iktatta be.
-[^366]: A 7. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba.
+[^360]: A 6. számú melléklet bevezető szövegrésze a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^361]: A 6. számú melléklet 1. pontjának b) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^362]: A 6. számú melléklet 1. pontjának e) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^363]: A 6. számú melléklet 1. e) pontjának 3. alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^364]: A 6. számú melléklet 2. pontjának b) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^365]: A 6. számú melléklet 4. B) pontjának d) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^366]: A 6. számú melléklet 10. pontjának második mondatát a 32/2007. (XII. 21.) PM rendelet 27. §-a iktatta be.
+[^367]: A 7. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba.

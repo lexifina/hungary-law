@@ -1,6 +1,6 @@
 ## A pénznyerő automata és a játékautomata
 
-## típus- és hitelesítési vizsgálatának és a pénznyerő automata mérésügyi szerv általi kiolvasásának szempontjai[^347]
+## típus- és hitelesítési vizsgálatának és a pénznyerő automata mérésügyi szerv általi kiolvasásának szempontjai[^348]
 
 ## I. A pénznyerő automata típusvizsgálata esetén:
 
@@ -82,9 +82,9 @@
 
 ## c) a beépített akkumulátorok és a tárolt program vizsgálata,
 
-## d)[^348] a beépített IEK a mérésügyi szerv által kiadott műszaki specifikáció szerinti ellenőrzése, manipulálhatóságának vizsgálata,
+## d)[^349] a beépített IEK a mérésügyi szerv által kiadott műszaki specifikáció szerinti ellenőrzése, manipulálhatóságának vizsgálata,
 
-## e)[^349] a számlálók manipulálhatóságának vizsgálata.
+## e)[^350] a számlálók manipulálhatóságának vizsgálata.
 
 ## 9. Az érmeazonosító szerkezet és a kifizető egység ellenőrzése:
 
@@ -110,13 +110,13 @@
 
 ## A pénznyerő automatán elhelyezhető tanúsító jelek (a pénznyerő automatán folytatott játékot befolyásoló szerkezeti elemen elhelyezett tanúsító jel, mint az öntapadó matrica, plomba, egyéb) más tanúsító jelek megbontása nélküli ellenőrizhetőségének biztosítása.
 
-## 12.[^350] Egyéb részegységek (adatgyűjtő, jackpot vezérlő-egység stb.) típusvizsgálata:
+## 12.[^351] Egyéb részegységek (adatgyűjtő, jackpot vezérlő-egység stb.) típusvizsgálata:
 
 ## a) a részegység működésének vizsgálata,
 
 ## b) a pénznyerő automata működésére gyakorolt hatás vizsgálata.
 
-## 13.[^351] Vezérlőegység (a játékprogramot tartalmazó elektronikai egység) vizsgálata:
+## 13.[^352] Vezérlőegység (a játékprogramot tartalmazó elektronikai egység) vizsgálata:
 
 ## a) manipulálhatóság elleni védelem (pl. csatlakozófelületek, lezárhatóság),
 
@@ -142,15 +142,15 @@
 
 ## 8. Kezelő és kijelző egységek a játékos informálása.
 
-## 9.[^352] A részegységek típusazonossága és megfelelősége.
+## 9.[^353] A részegységek típusazonossága és megfelelősége.
 
-## 10.[^353] A vezérlőegység alaplapján az átkötési tilalom ellenőrzése.
+## 10.[^354] A vezérlőegység alaplapján az átkötési tilalom ellenőrzése.
 
 ## III. A játékautomata típusvizsgálata és hitelesítése
 
 ## A típusvizsgálat a készülék energiaellátásához kapcsolódó és a biztonságtechnikai vizsgálatokra, az üzemképesség ellenőrzésére és a játékprogramot tartalmazó vezérlőegység ellenőrzésére terjed ki. A hitelesítés az automata engedélyezett típusával való azonosság ellenőrzésére terjed ki.
 
-## IV.[^354] Az IEK vizsgálata
+## IV.[^355] Az IEK vizsgálata
 
 ## 1. Az IEK-nek 5 évig meg kell őriznie az éves, a negyedévi és a havi halmozott értékeket, valamint az utolsó harmincegy nap tekintetében napi bontásban is a befizetett, a kifizetett és az eljátszott tétek, megnyert nyeremények értékét, a napi legnagyobb nyereményt, valamint a kifizetési hányad értékét. Az IEK-nek kiolvasási lehetőséget és a konfigurációs adatok bevitelét egységes szabványos csatlakozó felületen kell biztosítania a mérésügyi szerv által meghatározott műszaki követelményeknek megfelelően.
 
@@ -160,21 +160,21 @@
 
 ## Az integrált ellenőrző készülék kiolvasása során a készülék által tárolt konfigurációs adatokat, számláló állásokat havi, negyedéves, éves bontásban kell hitelesített adathordozóra rögzíteni. Az adathordozónak tartalmaznia kell a kiolvasott pénznyerő automata azonosító adatait, a kiolvasást kérő megnevezését, a kiolvasás időpontját és végrehajtóját.
 
-## VI.[^355] Helyhez kötött szerver alapú pénznyerő automatákra, illetve nem helyhez kötött pénznyerő rendszerekre vonatkozó különös rendelkezések
+## VI.[^356] Helyhez kötött szerver alapú pénznyerő automatákra, illetve nem helyhez kötött pénznyerő rendszerekre vonatkozó különös rendelkezések
 
 ## 1. A helyhez kötött szerver alapú pénznyerő automaták típusvizsgálatára az I. pontban foglaltakat – az 5., 6., 7., 8., 12., 13/b. alpont kivételével – megfelelően kell alkalmazni.
 
 ## 2. A nem helyhez kötött szerver alapú pénznyerő rendszerek típusvizsgálatára az I. pontban foglaltakat – a 2., 3., 5., 6., 7., 8., 12., 13/b. alpont kivételével – megfelelően kell alkalmazni.
 
-4. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^356]
+4. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^357]
 
-[^347]: A 3. számú melléklet címe a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^348]: A 3. számú melléklet I. rész 8. pontjának d) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^349]: A 3. számú melléklet I. pont 8. pont e) alpontját a 16/2010. (IV. 28.) PM rendelet 16. § (1) bekezdése iktatta be.
-[^350]: A 3. számú melléklet I. részének 12. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (1) bekezdése iktatta be.
-[^351]: A 3. számú melléklet I. pont 13. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (2) bekezdése iktatta be.
-[^352]: A 3. számú melléklet II. részének 9. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (2) bekezdése iktatta be.
-[^353]: A 3. számú melléklet II. pont 10. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (3) bekezdése iktatta be.
-[^354]: A 3. számú melléklet IV. pontja a 16/2010. (IV. 28.) PM rendelet 16. § (4) bekezdésével megállapított szöveg.
-[^355]: A 3. számú melléklet VI. pontját a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 1. pontja iktatta be.
-[^356]: A 4. számú melléklet a 15/2012. (VI. 28.) NGM rendelet 15. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^348]: A 3. számú melléklet címe a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^349]: A 3. számú melléklet I. rész 8. pontjának d) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^350]: A 3. számú melléklet I. pont 8. pont e) alpontját a 16/2010. (IV. 28.) PM rendelet 16. § (1) bekezdése iktatta be.
+[^351]: A 3. számú melléklet I. részének 12. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (1) bekezdése iktatta be.
+[^352]: A 3. számú melléklet I. pont 13. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (2) bekezdése iktatta be.
+[^353]: A 3. számú melléklet II. részének 9. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (2) bekezdése iktatta be.
+[^354]: A 3. számú melléklet II. pont 10. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (3) bekezdése iktatta be.
+[^355]: A 3. számú melléklet IV. pontja a 16/2010. (IV. 28.) PM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^356]: A 3. számú melléklet VI. pontját a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 1. pontja iktatta be.
+[^357]: A 4. számú melléklet a 15/2012. (VI. 28.) NGM rendelet 15. § (1) bekezdés 1. pontjával megállapított szöveg.

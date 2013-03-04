@@ -1,6 +1,6 @@
-## Tájékoztatással és közzététellel kapcsolatos rendelkezések[^228]
+## Tájékoztatással és közzététellel kapcsolatos rendelkezések[^238]
 
-52/A. §[^229] (1) Az állami adóhatóság – a jogkövető magatartás elősegítése és játékosok védelme érdekében – honlapján közzéteszi:
+52/A. §[^239] (1) Az állami adóhatóság – a jogkövető magatartás elősegítése és játékosok védelme érdekében – honlapján közzéteszi:
 
 a) legalább egy olyan szervezet nevét és telefonszámát amely a 44. § (10) bekezdés b) pontjában foglalt feltételnek megfelel,
 
@@ -14,5 +14,5 @@ e) a központi szerver üzemeltetésére jogerős engedéllyel rendelkező cégn
 
 (2) Az állami adóhatóság az (1) bekezdés szerint közzétett információkat szükség szerint, de legalább minden hónap 15. és 30. napján felülvizsgálja és szükség esetén módosítja a felülvizsgálat napján rendelkezésre álló adatok alapján. A honlapi közzététel tartalmazza a legutóbbi felülvizsgálat időpontját.
 
-[^228]: Az 52/A. §-t megelőző alcímet a 15/2012. (VI. 28.) NGM rendelet 8. §-a iktatta be.
-[^229]: Az 52/A. §-t a 15/2012. (VI. 28.) NGM rendelet 8. §-a iktatta be.
+[^238]: Az 52/A. §-t megelőző alcímet a 15/2012. (VI. 28.) NGM rendelet 8. §-a iktatta be.
+[^239]: Az 52/A. §-t a 15/2012. (VI. 28.) NGM rendelet 8. §-a iktatta be.
