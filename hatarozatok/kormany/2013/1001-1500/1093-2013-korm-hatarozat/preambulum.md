@@ -1,0 +1,1 @@
+A Kormány a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10. § (10) bekezdése és az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló 353/2011. (XII. 30.) Korm. rendelet alapján hozzájárul az 1. melléklet szerinti ügylet 2013. évben történő megkötéséhez a következő kiegészítő feltételekkel:
