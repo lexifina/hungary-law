@@ -48,16 +48,46 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-g) kiemelt kormányzati célként jelöli meg és felhívja a nemzeti fejlesztési minisztert, hogy a táji adottságokhoz igazodó vízrendezéssel és tájhasználat-váltással kapcsolatos fejlesztések támogatása kerüljön betervezésre az Európai Unió 2014–2020-as tervezési és programozási időszakra vonatkozó releváns Operatív Programba;
+g)[^1] kiemelt kormányzati célként jelöli meg és felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy a táji adottságokhoz igazodó vízrendezéssel és tájhasználat-váltással kapcsolatos fejlesztések támogatása kerüljön betervezésre az Európai Unió 2014–2020-as tervezési és programozási időszakra vonatkozó releváns Operatív Programba;
 
-Felelős: nemzeti fejlesztési miniszter
+Felelős: nemzetgazdasági miniszter
+
+nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-h) felhívja a Miniszterelnökséget vezető államtitkárt és a nemzetgazdasági minisztert, hogy a turizmusfejlesztés és vízkormányzás átalakítását célzó projektek tervezéséhez, illetve a gazdaságfejlesztési projektek előkészítéséhez a központi költségvetésből visszapótlási kötelezettség terhe mellett 2012. évben összesen 200 millió Ft forrást biztosítsanak.
+h)[^2] felhívja a vidékfejlesztési minisztert, hogy a VM Dunántúli Agrár-szakképző Központ, Csapó Dániel Középiskola, Mezőgazdasági Szakképző Iskola és Kollégium a természetben 7960 Sellye, Köztársaság tér 7. szám alatt található volt Draskovich-kastélyban elhelyezett kollégiumának más ingatlanban történő elhelyezését saját forrásból biztosítsa;
 
-Felelős: Miniszterelnökséget vezető államtitkár
+Felelős: vidékfejlesztési miniszter
+
+Határidő: 2014. szeptember 1.
+
+i)[^3] felhívja a vidékfejlesztési minisztert, hogy vizsgálja meg a tájgazdálkodás-váltás támogatása érdekében a zöld pontozásos rendszer beépíthetőségét a 2014-től induló területalapú támogatások rendszerébe;
+
+Felelős: vidékfejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: azonnal
+Határidő: azonnal (2014–2020 közötti európai uniós programozási időszak tervezésével egyidejűleg)
+
+j)[^4] felhívja a vidékfejlesztési minisztert, hogy a 2013. évben meghirdetésre kerülő kertészeti gépek beszerzése támogatási jogcím kialakítása során – az Ős-Dráva Program 1. pontban meghatározott területén – gyógynövénytermesztéssel foglalkozó pályázók kedvezőbb elbírálási feltételekkel nyerhessenek el támogatást;
+
+Felelős: vidékfejlesztési miniszter
+
+Határidő: 2013. július 31.
+
+k)[^5] felhívja az érintett minisztereket, hogy az 1. pontban meghatározott térségben kompátkelő létesítésének technikai és pénzügyi feltételeit, a kialakítás időigényét, továbbá az ehhez kapcsolódó határátlépési lehetőség módját, időbeli és pénzügyi lehetőségeit tárják fel;
+
+Felelős: nemzeti fejlesztési miniszter
+
+nemzetgazdasági miniszter
+
+belügyminiszter
+
+Határidő: 2013. szeptember 30.
+
+[^1]: A 2. pont g) pontja a 1094/2013. (III. 4.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont h) pontja a 1094/2013. (III. 4.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pont i) pontját a 1094/2013. (III. 4.) Korm. határozat 2. pontja iktatta be.
+[^4]: A 2. pont j) pontját a 1094/2013. (III. 4.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 2. pont k) pontját a 1094/2013. (III. 4.) Korm. határozat 2. pontja iktatta be.
