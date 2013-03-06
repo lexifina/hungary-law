@@ -1,3 +1,3 @@
-15. § A Klebelsberg Intézményfenntartó Központról szóló 202/2012. (VII. 27.) Korm. rendelet a következő 3. § (2) bekezdéssel egészül ki:
+15. §[^1]
 
-„(2) Az Intézményfenntartó Központ közreműködik a Klebelsberg Képzési Ösztöndíj működtetésében.”
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
