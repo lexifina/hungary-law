@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Indonéz Köztársaság Kormánya között a diplomata és szolgálati útlevéllel rendelkező állampolgáraik vízummentességéről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
