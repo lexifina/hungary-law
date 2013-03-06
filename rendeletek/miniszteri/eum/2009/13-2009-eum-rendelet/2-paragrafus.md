@@ -1,4 +1,4 @@
-2. § (1)[^1] Az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) – a (2) bekezdésben foglaltak figyelembevételével – minden év április 1. és október 1. napjáig összeállítja az azt követő félévben elkészítendő és felülvizsgálandó finanszírozási eljárásrendekről szóló munkatervet.
+2. § (1)[^2] Az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) – a (2) bekezdésben foglaltak figyelembevételével – minden év április 1. napjáig összeállítja az azt követő félévben elkészítendő és felülvizsgálandó finanszírozási eljárásrendekről szóló munkatervet.
 
 (2) A munkaterv összeállítása során előnyben kell részesíteni azt a betegséget, illetve betegségcsoportot,
 
@@ -24,4 +24,4 @@ a) a miniszter a munkatervben nem szereplő finanszírozási eljárásrend elké
 
 b) a főigazgató – különösen fontos ellátási érdekből – a (3) bekezdés alapján jóváhagyott munkatervet módosíthatja.
 
-[^1]: A 2. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 66. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 66. §-a, a 18/2013. (III. 5.) EMMI rendelet 14. § (6) bekezdés a) pontja szerint módosított szöveg.
