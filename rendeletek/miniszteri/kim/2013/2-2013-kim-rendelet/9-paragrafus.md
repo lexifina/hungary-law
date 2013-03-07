@@ -1,0 +1,3 @@
+9. § (1) Ha a benyújtott és befogadott támogatási kérelem nem felel meg a jogszabályi előírásoknak, valamint a kötelezettségvállaló által meghatározott formai követelményeknek, a támogatási kérelem benyújtójának körülményeit (így különösen annak székhelye, telephelye földrajzi távolságát és a kérelem benyújtásához rendelkezésére álló feltételeket) figyelembe vevő határidő kitűzésével – a hibák, hiányosságok egyidejű megjelölése mellett – fel kell hívni a támogatási kérelem benyújtóját a hiba kijavítására, a hiányosság pótlására.
+
+(2) Ha a támogatási kérelem benyújtója a hiánypótlást hibásan, hiányosan nyújtja be, illetve a hiányosságokat nem pótolja a megadott határidőn belül, a támogatási kérelem további vizsgálat nélkül elutasításra kerül.
