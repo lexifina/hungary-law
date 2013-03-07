@@ -1,0 +1,1 @@
+A Kormány a nemzeti felsőoktatási kiválóságról szóló 24/2013. (II. 5.) Korm. rendelet 3. §. (2) bekezdése alapján a 2013–2016 közötti minősítési időszakra – a kiemelt felsőoktatási intézményekről szóló 1047/2013. (II. 7.) Korm. határozatban meghatározott intézmények mellett – a Pázmány Péter Katolikus Egyetemet kiemelt felsőoktatási intézménynek minősíti.
