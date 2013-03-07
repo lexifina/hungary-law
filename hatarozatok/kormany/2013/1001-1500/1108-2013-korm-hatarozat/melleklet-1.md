@@ -1,0 +1,83 @@
+## 1. a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben a 6. A költségvetési szerveknél foglalkoztatottak 2013. évi kompenzációja cím létrehozását,
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 2. a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 24. Céltartalékok cím, 2. Közszférában foglalkoztatottak bérkompenzációja alcím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 6. A költségvetési szerveknél foglalkoztatottak 2013. évi kompenzációja cím javára 18 500,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását.
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+1. melléklet az 1108/2013. (III. 7.) Korm. határozathoz
+
+IX. Helyi önkormányzatok támogatásai
+
+X. Közigazgatási és Igazságügyi Minisztérium
+
+Fejezet száma és megnevezése
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | IX. |  |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 340539 |  | 6 |  |  |  |  |  |  | A költségvetési szerveknél foglalkoztatottak 2013. Évi kompenzációja |  |  |  |  |  |  |  |  | 18 500,0 |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | X. |  | 3 |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 24 |  |  |  |  | 5 |  | Céltartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 329928 |  |  | 2 |  |  |  | 5 |  | Közszférában foglalkoztatottak bérkompenzációja |  |  |  |  |  |  |  |  | -18 500,0 |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | AZONNAL |  |  |  | 18 500,0 |  |  |  |  |  |  |  |  | 18 500,0 |  |  |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
