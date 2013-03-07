@@ -1,1 +1,0 @@
-## 5. § Az előirányzatok tartalmazzák a felhasználásuk során a kincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díjat is. Ha valamely előirányzat az ilyen díjra nem nyújt fedezetet, azt a 25. §-ban meghatározott előirányzat terhére kell elszámolni.
