@@ -106,6 +106,8 @@ b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátn
 
 17. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
 
-18. Hatályát veszti a Kábítószerügyi Koordinációs Bizottságról szóló 1002/2007. (I. 18.) Korm. határozat.
+18.[^1]
 
 19. Az e határozat hatálybalépését követő 30 napon belül a miniszter felkéri az 5. pont b)–d) alpontja szerinti szervezeteket a Tanács tagságára való jelölésre.
+
+[^1]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
