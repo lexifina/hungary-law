@@ -1,0 +1,1 @@
+## 14. § A beruházási jellegű fejlesztések megvalósításához igénybe vehető előleggel kapcsolatban az Európai Mezőgazdasági Vidékfejlesztési Alapból az egyes beruházási jogcímek esetén nyújtandó támogatási előlegfizetésről szóló 118/2012. (XI. 22.) VM rendeletet kell alkalmazni.
