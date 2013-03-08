@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. június 30.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. december 31.[^1]
 
 1. melléklet az 1417/2012. (X. 1.) Korm. határozathoz
 
@@ -75,3 +75,5 @@ Költségvetési év: 2012.
 | Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal |  |  | 697,7 |  |  |  | 697,7 |  |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1119/2013. (III. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
