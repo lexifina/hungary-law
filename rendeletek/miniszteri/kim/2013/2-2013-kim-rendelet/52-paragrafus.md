@@ -2,8 +2,9 @@
 
 ## 52. § Hatályát veszti
 
-a) a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 19/2012. (III. 22.) KIM rendelet és
+a)[^1]
 
-b)[^1]
+b)[^2]
 
-[^1]: Az 52. § b) pontja az 50. § (2) bekezdése alapján 2013. július 31-én lép hatályba.
+[^1]: Az 52. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 52. § b) pontja az 50. § (2) bekezdése alapján 2013. július 31-én lép hatályba.
