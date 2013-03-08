@@ -172,6 +172,6 @@
 
 ## * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok (házaspár egynek számít) száma, folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését).
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^410]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^412]
 
-[^410]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^412]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése szerint módosított szöveg.

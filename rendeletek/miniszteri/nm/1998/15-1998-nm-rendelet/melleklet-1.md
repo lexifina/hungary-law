@@ -1,4 +1,6 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^409]
+## 166. §[^410] A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosításáról szóló 20/2013. (III. 5.) EMMI rendelettel megállapított 5/A–5/C. §-t azokra a Biztos Kezdet Gyerekházakra kell alkalmazni, amelyek a Társadalmi Megújulás Operatív Program és a Norvég Finanszírozási Mechanizmus keretében adott támogatásból (a továbbiakban együtt: európai uniós forrás) jöttek létre és befejezték az európai uniós forráshoz kapcsolódó projektet.
+
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^411]
 
 ## A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
@@ -132,4 +134,5 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^409]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^410]: A 166. §-t a 20/2013. (III. 5.) EMMI rendelet 2. §-a iktatta be.
+[^411]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.

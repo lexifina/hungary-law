@@ -2,9 +2,9 @@
 
 ## Szakmai segítés, ellenőrzés és tájékoztatás
 
-150. § (1)[^382] A szakszolgálat gyámi gondozói tanácsadója a gyermeki jogok érvényesülése érdekében szakmailag folyamatosan segíti és ellenőrzi a gondozott gyermek gyámjának, gondozójának nevelői, gondozói, illetve gyámi tevékenységét, az egyéni gondozási, nevelési tervben foglaltak végrehajtását, az egyéni elhelyezési terv megvalósulását.
+150. § (1)[^383] A szakszolgálat gyámi gondozói tanácsadója a gyermeki jogok érvényesülése érdekében szakmailag folyamatosan segíti és ellenőrzi a gondozott gyermek gyámjának, gondozójának nevelői, gondozói, illetve gyámi tevékenységét, az egyéni gondozási, nevelési tervben foglaltak végrehajtását, az egyéni elhelyezési terv megvalósulását.
 
-(2)[^383] A gyámi gondozói tanácsadó az (1) bekezdésben foglaltak megvalósítása érdekében szükség szerinti gyakorisággal, de legalább 2 havonta egyszer a kijelölt gondozási helyen találkozik a gondozott gyermekkel, a gondozóval és a gyámmal. A látogatás keretében
+(2)[^384] A gyámi gondozói tanácsadó az (1) bekezdésben foglaltak megvalósítása érdekében szükség szerinti gyakorisággal, de legalább 2 havonta egyszer a kijelölt gondozási helyen találkozik a gondozott gyermekkel, a gondozóval és a gyámmal. A látogatás keretében
 
 a) az ítélőképessége birtokában lévő gyermekkel folytatott – ha a gyermek kéri, vagy a gyámi gondozói tanácsadó szükségesnek tartja négyszemközti – beszélgetés során tájékozódik a gondozott gyermek helyzetéről, fejlődéséről, esetleges problémáiról; a gyermek kérésére közreműködik a gyermek és a gondozó, illetve a gyám között felmerült vitás kérdések tisztázásában,
 
@@ -22,9 +22,9 @@ dc) az egyéni elhelyezési, valamint az egyéni gondozási, nevelési tervben f
 
 dd) a 83–85. §-ban szabályozott gondozási, nevelési feladatok ellátásáról, valamint a 87–89. §-ban rögzített családi kapcsolatok alakulásáról.
 
-(3)[^384] A gyámi gondozói tanácsadó a látogatás során szerzett tapasztalatait, megállapításait, illetve a gyermek érdekében tett intézkedéseit írásban dokumentálja. A szakszolgálat ennek alapján teszi meg a (4)–(5) bekezdésben, valamint a 151–152. §-ban meghatározott intézkedéseit.
+(3)[^385] A gyámi gondozói tanácsadó a látogatás során szerzett tapasztalatait, megállapításait, illetve a gyermek érdekében tett intézkedéseit írásban dokumentálja. A szakszolgálat ennek alapján teszi meg a (4)–(5) bekezdésben, valamint a 151–152. §-ban meghatározott intézkedéseit.
 
-(4)[^385] A szakszolgálat a gyámhivatal megkeresésére, ennek hiányában félévente írásban tájékoztatja a gyámhivatalt
+(4)[^386] A szakszolgálat a gyámhivatal megkeresésére, ennek hiányában félévente írásban tájékoztatja a gyámhivatalt
 
 a) a gyám tevékenységéről,
 
@@ -34,7 +34,7 @@ c) a szülőnek a gondozó intézménnyel vagy személlyel való együttműköd�
 
 d) a gyermeknek a kijelölt gondozási helyre történő beilleszkedéséről.
 
-(5)[^386] A nevelésbe vételkor fennállt körülmények megváltozásakor, illetve a gyámhivatal megkeresésére a nevelésbe vétel éves felülvizsgálatakor a szakszolgálat javaslatot tesz a gyámhivatalnak a gondozott gyermek
+(5)[^387] A nevelésbe vételkor fennállt körülmények megváltozásakor, illetve a gyámhivatal megkeresésére a nevelésbe vétel éves felülvizsgálatakor a szakszolgálat javaslatot tesz a gyámhivatalnak a gondozott gyermek
 
 a) nevelésbe vételének megszüntetésére vagy fenntartására,
 
@@ -42,8 +42,8 @@ b) az elhelyezési tervének fenntartására vagy módosítására,
 
 c) gondozási helyének megváltoztatására, új gyámjának kirendelésére, amennyiben ez szükséges.
 
-[^382]: A 150. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (1) bekezdésével megállapított szöveg.
-[^383]: A 150. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (1) bekezdésével megállapított szöveg.
-[^384]: A 150. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (1) bekezdésével megállapított szöveg.
-[^385]: A 150. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
-[^386]: A 150. § eredeti (4) bekezdésének számozását (5) bekezdésre változatta a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (2) bekezdése.
+[^383]: A 150. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (1) bekezdésével megállapított szöveg.
+[^384]: A 150. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (1) bekezdésével megállapított szöveg.
+[^385]: A 150. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (1) bekezdésével megállapított szöveg.
+[^386]: A 150. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
+[^387]: A 150. § eredeti (4) bekezdésének számozását (5) bekezdésre változatta a 46/2003. (VIII. 8.) ESZCSM rendelet 89. § (2) bekezdése.

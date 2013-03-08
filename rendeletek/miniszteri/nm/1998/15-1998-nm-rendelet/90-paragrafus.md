@@ -1,6 +1,6 @@
 ## Az utógondozás
 
-90. § (1)[^240] Az otthont nyújtó ellátás keretében az átmeneti vagy tartós nevelés megszűnését követően a fiatal felnőtt családjába való sikeres visszailleszkedését, illetve önálló életének megkezdését utógondozással kell segíteni a gyámhivatal határozatában foglaltak szerint.
+90. § (1)[^241] Az otthont nyújtó ellátás keretében az átmeneti vagy tartós nevelés megszűnését követően a fiatal felnőtt családjába való sikeres visszailleszkedését, illetve önálló életének megkezdését utógondozással kell segíteni a gyámhivatal határozatában foglaltak szerint.
 
 (2) A volt gondozott fiatal felnőtt utógondozását a gyámhivatal határozata alapján a gyermekotthon, a nevelőszülői hálózatot működtető vagy – a más bentlakásos intézményben elhelyezett gyermek esetében – a szakszolgálat látja el. A gondozás folyamatosságának biztosítása érdekében célszerű, ha a gondozott gyermekkel, illetve fiatal felnőttel (a továbbiakban: utógondozott) kapcsolatos család-, illetve utógondozási feladatokat ugyanaz a szakember (a továbbiakban: utógondozó) látja el.
 
@@ -34,4 +34,4 @@ bc) a jogszabályok által biztosított támogatási lehetőségek ismertetésé
 
 (5) A (4) bekezdés b) pontja esetén az utógondozó feladatait a gyermekotthon utógondozó részlegén, illetve az utógondozó otthonban dolgozó nevelő is elláthatja.
 
-[^240]: A 90. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 53. §-ával megállapított szöveg.
+[^241]: A 90. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 53. §-ával megállapított szöveg.
