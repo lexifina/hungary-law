@@ -1,4 +1,4 @@
-35. §[^3] (1) Amennyiben a 34. § (1) bekezdés 1–13. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja az 5000 eurót, akkor az 5000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (1) bekezdés d) pontja szerinti 10%-os mértéknek megfelelő modulációs csökkentést – a (4) bekezdésben foglaltak figyelembevételével – a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatások terhére kell elszámolni az 1. melléklet szerinti számítási módszertan alapján.
+35. §[^4] (1) Amennyiben a 34. § (1) bekezdés 1–13. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja az 5000 eurót, akkor az 5000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (1) bekezdés d) pontja szerinti 10%-os mértéknek megfelelő modulációs csökkentést – a (4) bekezdésben foglaltak figyelembevételével – a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatások terhére kell elszámolni az 1. melléklet szerinti számítási módszertan alapján.
 
 (2) Amennyiben a 34. § (1) bekezdés 1–13. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja a 300 000 eurót, akkor a 300 000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (2) bekezdése szerinti további 4%-os mértéknek megfelelő modulációs csökkentést – a (4) bekezdésben foglaltak figyelembevételével – a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatások terhére kell elszámolni az 1. melléklet szerinti számítási módszertan alapján.
 
@@ -30,12 +30,14 @@ c) a 34. § (1) bekezdés 10. pontja szerinti kiegészítő nemzeti támogatáso
 
 7. a 8. § (1) bekezdés a) pontja szerinti támogatási jogcím,
 
-8. a 8. § (1) bekezdés f) pontja szerinti támogatási jogcím,
+8.[^5] a 8. § (1) bekezdés e) pontja szerinti támogatási jogcím,
 
 9. a 8. § (1) bekezdés b) pontja szerinti támogatási jogcím,
 
 10. a 8. § (1) bekezdés c) pontja szerinti támogatási jogcím,
 
-11. a 8. § (1) bekezdés e) pontja szerinti támogatási jogcím.
+11.[^6] a 8. § (1) bekezdés f) pontja szerinti támogatási jogcím.
 
-[^3]: A 35. § az 59/2012. (VI. 28.) VM rendelet 21. §-ával megállapított szöveg.
+[^4]: A 35. § az 59/2012. (VI. 28.) VM rendelet 21. §-ával megállapított szöveg.
+[^5]: A 35. § (6) bekezdés 8. pontja a 12/2013. (III. 5.) VM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 35. § (6) bekezdés 11. pontja a 12/2013. (III. 5.) VM rendelet 11. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 41. §[^7]
+## 41. §[^10] E rendeletnek a tejtermelőket sújtó különleges hátrányok kezeléséhez kapcsolódó különleges támogatás igénybevételének szabályairól szóló 12/2013. (III. 5.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 35. § (6) bekezdés 8. és 11. pontját a módosító rendelet hatályba lépésekor[^11] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 32/2012. (IV. 2.) VM rendelethez
 
@@ -132,4 +132,5 @@ akkor
 
 KNTFT=(KNTTÖ–(KNTCSM–(IKNT+KNTETÖK)))
 
-[^7]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. Újonnan a 12/2013. (III. 5.) VM rendelet 11. § (3) bekezdése iktatta be.
+[^11]: A hatálybalépés napja: 2013. március 8.
