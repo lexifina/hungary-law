@@ -1,81 +1,123 @@
-## A) Borkísérő okmány formanyomtatványa
+## A) Borkísérő okmány formanyomtatványa
 
-| 1. Eladó (Feladó): (teljes név postai irányítószámmal) | 2. Eladó (Feladó) engedélyszáma: | 3. Bizonylat azonosító: |
+|  | A | B | C | D | E | F | G |
 
-|  | 4. Vevő (Címzett) engedélyszáma (amennyiben van): | 5. Számla/Szállítólevél száma: |
+| 1 | 1. Eladó (Feladó) | neve: | 3. Bizonylat azonosító: |
 
-| Adószám/Adóazonosító jel: |
+| 2 | címe: | 4. Szállítmányozó: |
 
-| 10. Vevő (Címzett): (teljes név postai irányítószámmal) | 6. Szállítmányozó: | 7. Számla/Szállítólevél dátuma: |
+| 3 | 5. Szállítójármű forgalmi rendszáma: |
 
-| Adószám/Adóazonosító jel: | 8. Szállítójármű forgalmi rendszáma: | 9. Szállításra történő átvétel igazolása: |
+| 4 | adóazonosító jele/adószáma: |
 
-| 11. Kiadás helye: | 12. Kiadás dátuma: |
+| 5 | engedélyszáma: | 6. Szállításra történő átvétel igazolása: |
 
-| 13. Termékleírás (a kiszerelés típusa): | 14. Forgalombahozatali engedély száma vagy Bor származási bizonyítvány száma: |
+| 6 | 2. Vevő (Címzett) | neve: |
 
-| 15. Mennyiség: | 16. Bruttó tömeg: |
+| 7 | 7. Kiadás dátuma: |
 
-| 17. Nettó tömeg: |
+| 8 | címe: |
 
-| 18. Rendeltetés helye: |
+| 9 | 8. Kiadás helye: |
 
-| 19. Igazolások: | 20. Ellenőrzés bejegyzése: |
+| 10 | adóazonosító jele/adószáma: | 9. Rendeltetés helye: |
 
-| A rovat | Eladás igazolása | B rovat | Átvétel igazolása |
+| engedélyszáma: |
 
-| Eladó (Feladó) bélyegzője: | Vevő (Címzett) bélyegzője: |
+| 11 | 10. Termékleírás |
 
-| Kiállító neve: | Átvevő neve: |
+| 12 | a tétel megnevezése | a kiszerelés típusa | a kiszere- lési egység űrtartalma (l) | mennyi- ség egysége | mennyi- ség |
 
-| Kiállítás helye és dátuma: | Átvétel helye és dátuma: |
+| 13 |  |  |  |  |  |
 
-| Kiállító aláírása: | Átvevő aláírása: |
+| 14 |  |  |  |  |  |
 
-## Pótlap a ... számú borkísérő okmányhoz (több tétel felsorolása esetén)
+| 15 |  |  |  |  |  |
 
-| 13. Termék megnevezése és a kiszerelés űrtartalma | 14. Forgalombahozatali engedély száma vagy Bor származási bizonyítvány száma: |
+| 16 |  |  |  |  |  |
 
-| 15. Mennyiség: | 16. Bruttó tömeg: |
+| 17 |  |  |  |  |  |
 
-| 17. Nettó tömeg: |
+| 18 |  |  |  |  |  |
 
-| 13. Termék megnevezése és a kiszerelés űrtartalma | 14. Forgalombahozatali engedély száma vagy Bor származási bizonyítvány száma: |
+| 19 |  |  |  |  |  |
 
-|  | 16. Bruttó tömeg: |
+| 20 |  |  |  |  |  |
 
-| 15. Mennyiség: | 17. Nettó tömeg: |
+| 21 |  |  |  |  |  |
 
-|  | BORKÍSÉRŐ OKMÁNY |
+| 22 |  |  |  |  |  |
 
-|  | B) A borkísérő okmány kitöltése |
+| 23 | 11. Összes mennyiség: |
 
-| 1. | A borkísérő okmányon a kiadás dátumát az év, hó, nap feltüntetésével kell megadni. Az „Igazolások” és az „Ellenőrzés bejegyzése” rovat a hatóságok bejegyzései számára szolgál. |
+| 24 | 12. Igazolások: | 13. Ellenőrzés bejegyzése: |
 
-| 2. | A számla/szállítólevél számát és dátumát (5. és 7. rovat) csak a borkísérő okmánnyal nem egy időben történő kiállítás esetén kell kitölteni. |
+| 25 | 14. Megjegyzés: |
 
-| 3. | A 13. rovatban csak a szőlőtörköly esetében kell a bruttó és a nettó tömeget kitölteni. Elégséges a becsült mennyiség feltüntetése. |
+| 26 | 15. Az eladás (feladás) igazolása Kiállítás helye és dátuma: Kiállító neve: Kiállító aláírása: | 16. Az átvétel igazolása Átvétel helye és dátuma: Átvevő neve: Átvevő aláírása: |
 
-| 4. | A bor származási bizonyítványt, vagy export esetén a forgalombahozatali engedély számát kell feltüntetni (14. rovat). |
+## B) A borkísérő okmány kitöltése
 
-| 5. | A termékleírást (13. rovat) |
+## 1) Az 1. és a 2. rovat (az eladó [feladó] és a vevő [címzett] adatai) bélyegző használatával is kitölthetőek. Engedélyszámként az adóraktári engedély és a jövedéki engedélyszámot kell feltüntetni.
 
-| 5.1. | a szőlőbor és a szőlőmust esetében a szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapja szerinti megnevezéssel, |
+## 2) A borkísérő okmányon a kiadás dátumát (7. rovat) az év, hó, nap feltüntetésével kell megadni. Az „Igazolások” és az „Ellenőrzés bejegyzése” (12. és 13.) rovat a hatóságok bejegyzései számára szolgál.
 
-| 5.2. | borászati melléktermékek esetében a melléktermék fajtájának megjelölését, továbbá |
+## 3) A termékleírás kitöltése (10. rovat)
 
-| 5.3. | a termék kiszerelési egysége (kanna, palack, tartály stb.), a kiszerelési egység űrtartalma, darabszáma feltüntetésével kell kitölteni. Több tétel esetén a felsorolást a pótlapon kell folytatni. |
+## a) „A tétel megnevezése, azonosítása” oszlopban:
 
-| 5.4. | 60 liternél nagyobb kiszerelésű termékek fuvarozásánál fel kell tüntetni: |
+## i) a szállított termék (borszőlő, szőlőmust, szőlőbor, pezsgő, borászati melléktermék) megnevezését kell megadni. A tétel megnevezése:
 
-| 5.4.1. | nettó összmennyiséget hl-ben, |
+## • a pincekönyv Termék-előállítás nyilvántartó lapja szerinti megnevezés: a forgalomba hozatali engedéllyel nem rendelkező szőlőbor vagy pezsgő esetében
 
-| 5.4.2. | a felhasznált szállítóedények számát és névleges térfogatát edényenként. |
+## • a melléktermék fajtájának (szőlőtörköly, borseprő) megjelölése borászati melléktermék esetében
 
-| 6. | Ha többféle bort értékesítettek, akkor az egyes tételekre vonatkozó részletes adatokat (kiszerelés, mennyiség, forgalomba hozatali engedély száma vagy bor származási bizonyítvány száma) a borkísérő okmányhoz csatolt pótlapon, számlán, szállítólevélen, vagy a 13. rovatban kell megadni. |
+## • a forgalomba hozatali engedélyben szereplő megnevezés: forgalomba hozatali engedéllyel rendelkező szőlőbor és pezsgő esetén
 
-| 7. | A borkísérő okmány adattartalmát, az adatok elhelyezését és sorrendiségét nem lehet megváltoztatni, azonban az egyes rovatok mérete számítógépes előállítás esetén változtatható. |
+## ii) a forgalomba hozatali engedéllyel rendelkező szőlőbor vagy pezsgő esetén a forgalomba hozatali engedély azonosítóját (ennek hiányában annak számát) is fel kell tüntetni.
 
-| 8. | A borkísérő okmány előállításához használható papír mérete 210x297 milliméter, az adatok elhelyezésére szolgáló rész 148x210 milliméter, amely számítógépes előállítás esetén 210x297 milliméteresre is növelhető, azonos adattartalom mellett. A borkísérő okmány papírjának alapszíne fehér. Cégembléma, cégadatokat tartalmazó fejrész csak a borkísérő okmány keretbe foglalt, adatok elhelyezésére szolgáló részen kívül helyezhető el. |
+## b) A„kiszerelés típusa” oszlopban kell megadni a termék kiszerelésének típusát (kanna, palack, tartály, stb.). Ez kóddal is megadható; P: palack, K: kanna, T: tartály. Egyes termékek esetében ez az oszlop nem értelmezhető, ekkor a megfelelő rubrikát ki kell húzni.
+
+## c) A„kiszerelési egység űrtartalma (l)” rovatban a kiszerelési egység űrtartalmát kell megadni literben kifejezve (tartályos kiszerelés esetén a tartály névleges űrtartalmát kell feltüntetni). Egyes termékek esetében ez az oszlop nem értelmezhető, ekkor a megfelelő rubrikát ki kell húzni.
+
+## d) A mennyiség egysége oszlopban az alábbi mértékegységek használhatóak:
+
+## i) „db”, amennyiben „a kiszerelés típusa” és „a kiszerelési egység űrtartalma (l)” oszlopokat kitöltötték
+
+## ii) amennyiben „a kiszerelés típusa” és „a kiszerelési egység űrtartalma (l)” oszlopok nem értelmezhetőek:
+
+## • szőlőtörköly esetében: q, azzal, hogy elégséges a becsült mennyiség feltüntetése,
+
+## • borseprő esetében: hl,
+
+## • borszőlő esetében: q.
+
+## e) A mennyiség oszlopba
+
+## i) a kiszerelési egységek számát kell írni, amennyiben „a kiszerelés típusa” és „a kiszerelési egység űrtartalma” oszlopokat kitöltötték (pl. 6 db 0,75 literes palack esetén: 6),
+
+## ii) az adott sorban szereplő tételnek a „mennyiség egysége” rovatban jelzett mértékegységben kifejezett mennyiségét, amennyiben „a kiszerelés típusa” és „a kiszerelési egység űrtartalma (l)” oszlopok nem értelmezhetőek.
+
+## f) Tíznél több tétel esetén a felsorolást pótlapon kell megtenni. A pótlapnak tartalmaznia kell a 3. és a 10. rovat szerinti adatokat.
+
+## g) 60 liternél nagyobb kiszerelésű termékek fuvarozásánál:
+
+## i) a 11. (Összes mennyiség) rovatban a nettó összmennyiséget hl-ben,
+
+## ii) az űrtartalom rovatban a felhasznált szállítóedény névleges térfogatát kell feltüntetni.
+
+## h) A fel nem használt sorokat ki kell húzni.
+
+## 4) Az Összes mennyiség rovatot (11. rovat) csak több tétel szállítása esetén (amennyiben a 10. rovatban több sort is kitöltöttek) kell kitölteni, az alábbi módon:
+
+## i) azon tételek esetében, amelyeknél a 10. rovat „a kiszerelés típusa” és „a kiszerelési egység űrtartalma (l)” oszlopait kitöltötték, a hl-ben kifejezett az összes mennyiséget,
+
+## j) azon tételek esetében, amelyeknél a 10. rovat „a kiszerelés típusa” és „a kiszerelési egység űrtartalma (l)” oszlopai nem értelmezhetőek, a 10.. rovat „mennyiség egysége” oszlopában megadott mértékegységben kifejezett összes mennyiséget.
+
+## Abban az esetben, ha több terméktípus (pl. szőlőbor és borseprő) szállítására kerül sor, az összegzést terméktípus szerinti bontásban kell megadni.
+
+## 5) A borkísérő okmány adattartalmát, az adatok elhelyezését és sorrendiségét nem lehet megváltoztatni, azonban az egyes rovatok mérete számítógépes előállítás esetén változtatható.
+
+## 6) A borkísérő okmány előállításához használható papír mérete 210x297 milliméter, az adatok elhelyezésére szolgáló rész 148x210 milliméter, amely számítógépes előállítás esetén 210x297 milliméteresre is növelhető, azonos adattartalom mellett. A borkísérő okmány papírjának alapszíne fehér. Cégembléma, cégadatokat tartalmazó fejrész csak a borkísérő okmány keretbe foglalt, adatok elhelyezésére szolgáló részen kívül helyezhető el.
 
 2. melléklet a 27/2011. (IV. 12.) VM rendelethez

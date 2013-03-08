@@ -1,12 +1,11 @@
 ## 22. § Hatályát veszti a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló 52/2001. (VIII. 2.) FVM-PM együttes rendelet.
 
-23. § (1) A borkísérő okmány e rendelet hatálybalépését[^1] megelőzően beszerzett 2 példányos formanyomtatványa – a készlet erejéig – továbbra is felhasználható a borszőlő, valamint az egyszerűsített adóraktárból szabadforgalomba bocsátott szőlőbor szállítása esetében.
+23. §[^26] (1) A borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló 27/2011. (IV. 12.) VM rendelet módosításáról szóló 14/2013. (III. 7.) VM rendelet (a továbbiakban: 14/2013. (III. 7.) VM rendelet) hatálybalépését[^27] megelőző napon hatályos szabályoknak megfelelő borkísérő okmány a 14/2013. (III. 7.) VM rendelet hatálybalépését követő három hónapig kiadható és – a készlet erejéig – továbbra is felhasználható.
 
-(2) A pezsgőt vagy likőrbort előállító borászati üzemnek a szőlőbor-pincekönyvet vagy a számítógépes nyilvántartás engedélyezésére irányuló kérelmet 2011. április 20-áig kell benyújtania a vámhatósághoz hitelesítés, engedélyezés céljából. A szőlőbor-pincekönyv hitelesítése és a számítógépes nyilvántartás engedélyezése előtt megkezdett és a termelési naplóban szereplő termék-előállítást nem kell átvezetni a szőlőbor-pincekönyvbe.
+(2) A számítógéppel történő pincekönyvvezetés esetén e rendelet szabályainak legkésőbb 2013. augusztus 1-ig meg kell felelni.
 
-(3) Az e rendelet hatálybalépése[^2] előtt hitelesített pincekönyvet e rendelet szabályai szerint kell vezetni.
+(3) A 14/2013. (III. 7.) VM rendelet hatálybalépése[^28] előtt hitelesített pincekönyv az egyszerűsített pincekönyv vezetés szabályai szerint a 19/A. § (2) bekezdésben meghatározott bejelentést követően tovább vezethető.
 
-(4) A számítógéppel történő pincekönyvvezetés esetén e rendelet szabályainak legkésőbb 2011. június 30-ig meg kell felelni.
-
-[^1]: A hatálybalépés időpontja 2011. április 15.
-[^2]: A hatálybalépés időpontja 2011. április 15.
+[^26]: A 23. § a 14/2013. (III. 7.) VM rendelet 13. §-ával megállapított szöveg.
+[^27]: A hatálybalépés napja: 2013. március 8.
+[^28]: A hatálybalépés napja: 2013. március 8.
