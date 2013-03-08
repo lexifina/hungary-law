@@ -1,0 +1,9 @@
+## 10. § Az R. 18. §-a helyébe a következő rendelkezés lép:
+
+## „18. § (1) A szőlőbor-pincekönyvet az egyszerűsítettadóraktár-engedélyes az adóraktárában vagy a vámhatósághoz tett bejelentés alapján a lakóhelyén, számítógépes nyilvántartás esetén az adóraktárában vagy a székhelyén (a központi ügyvezetés helyén) köteles tartani.
+
+## (2) Ha a természetes személy egyszerűsítettadóraktár-engedélyes a lakóhelyén tartja a szőlőbor-pincekönyvét, vagy ha a számítógépes nyilvántartás-vezetés nem az adóraktárban történik, az adóraktár-engedélyes egy órán belül köteles gondoskodni a szőlőbor-pincekönyv hozzáféréséről a borászati hatóság, a hegybíró, a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a vámhatóság helyszíni ellenőrzése esetén. A mustelőállító a szőlőbor-pincekönyvet az előállítás helyén köteles tartani.
+
+## (3) Szőlőbor-pincekönyv elvesztése, megsérülése vagy megsemmisülése esetén a borászati üzem engedélyese 72 órán belül köteles azt a vámhatóság részére írásban bejelenteni.
+
+## (4) A formanyomtatványon vezetett szőlő- és szőlőbor-pincekönyvet úgy kell kitölteni, hogy az adatok olvashatóak és megváltoztathatatlanok legyenek. A szőlő- és szőlőbor-pincekönyvbe bevezetett, hibás adatot áthúzással, a javítás dátumának feltüntetésével és aláírással lehet érvényteleníteni. A szőlő- és szőlőbor-pincekönyv vezetésre kötelezettnek gondoskodnia kell a szőlő- és szőlőbor-pincekönyv biztonságos helyen történő őrzéséről, tartásáról.”
