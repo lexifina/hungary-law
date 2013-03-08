@@ -1,0 +1,236 @@
+# A Kormány 70/2013. (III. 8.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 40. szám, 2013. március 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e3f0159a7de8336ab4520c2e8014b59d96fd3e67/dokumentumok/448dc0cf27ddd661a05700a76e768915504340be/letoltes)
+
+---
+
+A Kormány 70/2013. (III. 8.) Korm. rendelete
+a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes
+szabályairól szóló 405/2012. (XII. 28.) Korm. rendelet és a földhivatalokról, a Földmérési
+és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás
+részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet módosításáról
+A Kormány a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 15. §-ában,
+a 15. § tekintetében a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (1) bekezdés a) pontjában,
+a 16. § tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §
+(1) bekezdés a) és b) pontjában kapott felhatalmazás alapján
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében a következő rendeletet alkotja:
+1. A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes
+szabályairól szóló 405/2012. (XII. 28.) Korm. rendelet módosítása
+1. § A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló
+405/2012. (XII. 28.) Korm. rendelet (a továbbiakban: R1.) 1. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az elutasítással nem érintett kérelmekhez kapcsolódó földrészletekről a földhivatal a (3) bekezdésben megjelölt
+határidőn belül tájékoztatót tesz közzé, amelyet megküld a Nemzeti Kataszteri Program Nonprofit Kft. részére.
+A tájékoztató tartalmazza
+a) a földhivatal megnevezését és székhelyét;
+b) aföldhivatalilletékességiterületéntalálhatótelepüléseknevét,valamintazt,hogyakisorsolttelepülésisorrendben
+a település milyen sorszámmal szerepel;
+c) az eljárással érintett soron következő település sorszámát;
+d) a kérelemmel érintett földrészletek helyrajzi számát a teljesítés sorrendjében;
+e) a kérelemmel érintett földrészletek esetében a kérelmezők tájékoztatását arról, hogy az érintettek hol és mikor
+tekinthetnek be az ügy irataiba, valamint
+f) a megosztási eljárás alapjául szolgáló hatályos jogszabályok megjelölését.”
+2. § (1) Az R1. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Egy adott földrészlet vonatkozásában az osztatlan közös tulajdon megszüntetésére irányuló eljárás
+(a továbbiakban: megosztási eljárás) olyan egyesített eljárás, amely a következő sorrendben magába foglalja
+a) a megosztási eljárás előkészítése érdekében a mezőgazdászi helyszínelést és a keretmérést,
+b) – szükség esetén – a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárást;
+c) a földrészlet természetbeni állapotának az ingatlan-nyilvántartásban szereplő adatoktól való eltérése esetén
+a földminősítési eljárást, és ezzel összefüggésben a földrészlet adataiban bekövetkező változásnak az
+ingatlan-nyilvántartásban történő átvezetésére irányuló eljárást;
+d) a megosztás kiindulási helyét és irányát meghatározó eljárást;
+e) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 17. § (1) bekezdés d) pontja
+szerinti telekalakítási eljárás megindítása tényének feljegyzésére irányuló eljárást;
+f) a kiosztás Fkbt. 12/H. § szerinti sorrendjének megállapítására irányuló sorsolást;
+g) a sorsolás eredménye alapján elkészített változási munkarészek vizsgálatára, záradékolására irányuló eljárást, és
+h) a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a megosztással
+bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére irányuló eljárást (a továbbiakban:
+változásátvezetési eljárás).”
+(2) Az R1. 2. § (2) bekezdése a következő e) ponttal egészül ki:
+[E rendelet alkalmazásában az (1) bekezdés b), c), d) és h) pontja szerinti, a változás ingatlan-nyilvántartásban történő
+átvezetésére irányuló eljárást akkor kell jogerősen lezárultnak kell tekinteni, ha az ügy érdemében hozott határozat]
+„e) bírósági felülvizsgálatára nem nyújtottak be kérelmet, vagy az annak alapján indult bírósági eljárás jogerősen
+lezárult.”
+
+3. § (1) Az R1. 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+[A megosztási eljárásban a földhivatal feladata:]
+„d) a megosztási eljárással összefüggő feladatok ellátásához szükséges adatok szolgáltatása;”
+(2) Az R1. 4. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[A megosztási eljárásban a földhivatal feladata:]
+„f) a 2. § (1) bekezdése szerinti eljárások lefolytatása, ide nem értve a keretmérést;”
+(3) Az R1. 4. § (1) bekezdése a következő j) ponttal egészül ki:
+[A megosztási eljárásban a földhivatal feladata:]
+„j) a (2) bekezdés a) pontja szerinti tájékoztató honlapon és hirdetőtáblán való közzététele.”
+(4) Az R1. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A megosztási eljárásban – a 23. §-ban meghatározott soron kívüli eljárás kivételével – a Nemzeti Kataszteri
+Program Nonprofit Kft. feladata
+a) a földhivatal tájékoztatása a b) pont szerinti eljárás megindításáról;
+b) a földmérő vállalkozó vagy vállalkozás (a továbbiakban: földmérő) és a jogi szolgáltató kiválasztása;
+c) a (3) és (4) bekezdésben meghatározott feladatokra a földmérővel és a jogi szolgáltatóval a szerződés megkötése;
+d) a 22. § (4) bekezdésében meghatározott tájékoztató összeállítása.”
+4. § (1) Az R1. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Soronkívüliségi kérelmet a 4. § (2) bekezdés b) pontjában meghatározott kiválasztási eljárás megindításáig lehet
+benyújtani, a már korábban benyújtott megosztási kérelemre való hivatkozással, külön kérelemben.”
+(2) Az R1. 5. §-a a következő (5) és (6) bekezdéssel egészül ki:
+„(5) A soron kívüli eljárásban a jogi szolgáltató feladatait a kérelmező által megbízott jogi képviselő, a földmérő
+feladatait a kérelmező által megbízott földmérő látja el.
+(6) A soronkívüliségi kérelem visszavonására nincs lehetőség.”
+5. § (1) Az R1. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A megosztási eljárás előkészítése mezőgazdászi helyszínelésből és keretmérésből áll. A keretmérés során
+a helyszíni állapot műszaki felmérésére kerül sor. A mezőgazdászi helyszínelésről és a keretmérésről a kérelmezőket
+előzetesen nem kell értesíteni. A mezőgazdászi helyszínelésről és a keretmérésről jegyzőkönyvet kell felvenni.”
+(2) Az R1. 7. §-a következő (1a) bekezdéssel egészül ki:
+„(1a) A mezőgazdászi helyszínelés és a keretmérés végrehajtásához két évnél nem régebben, lombtalan időszakban
+készített, belterületen legalább 10 cm – ±18 cm geometriai pontosságú –, külterületen legalább 20 cm terepi
+felbontású – ±40 cm geometriai pontosságú –, az állami digitális távérzékelési adatbázisban tárolt adatok is
+felhasználhatók.”
+6. § Az R1. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha az adott földrészleten belül az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény
+(a továbbiakban: Evt.) hatálya alá tartozó erdő található, azt önálló földrészletté kell alakítani. E földrészletek továbbra
+is a tulajdonostársak osztatlan közös tulajdonában maradnak. Ha az ingatlan-nyilvántartásban erdő művelési ágban
+nyilvántartott terület található és az az Evt. alkalmazásában nem minősül erdőnek, önálló földrészletté alakítás előtt
+nyilatkozattétel céljából a földhivatal megkeresi a NÉBIH-et.”
+7. § Az R1. 10. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+„(1) A földhivatal
+a) a 9. § a) pontjában meghatározott esetben a mezőgazdászi helyszínelésről a jegyzőkönyv felvételének napját,
+b) a 9. § b) pontjában meghatározott esetben az adatváltozás ingatlan-nyilvántartási átvezetésének jogerőre
+emelkedését
+követő 15 napon belül meghatározza a megosztás kiindulási helyét és irányát.
+(2) Ha a kérelmező a kérelemében az osztás kiindulási helyére és irányára vonatkozó javaslatot is megfogalmazott,
+a földhivatalnak a kérelmező javaslatában foglaltakra is figyelemmel kell lenni, feltéve, hogy az nem ellentétes az
+Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal. A megosztás kiindulási helyét és irányát megállapító
+határozatban rendelkezni kell arról, hogy a jogerős döntés közlésével egyidejűleg a tulajdoni lapra a (4) bekezdés
+szerinti tény kerül feljegyzésre.”
+
+8. § Az R1. 12. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[Az értesítésben fel kell hívni a figyelmet]
+„c) arra, hogy az egyezséget tartalmazó okirat benyújtására a 20. § (2) bekezdésében meghatározott időpontig,
+a 16. § szerinti sorsolási megállapodás létrehozására, a sorsolás megkezdéséig van lehetőség;”
+9. § Az R1. 20. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Egy kérelmező esetén a kérelmet kell a bejegyzés alapjául szolgáló okiratnak tekinteni.”
+10. § Az R1. 22. §-a helyébe a következő rendelkezés lép:
+„22. § (1) A megosztási eljárással kapcsolatban a fővárosi és megyei kormányhivatalt kiinduló földrészletenként
+az 1. mellékletben meghatározott költségtérítés illeti meg.
+(2) A 4. § (3) és (4) bekezdésében meghatározott feladatokhoz kapcsolódóan a földügyért felelős miniszter
+(a továbbiakban: miniszter) által nyújtott támogatás a Szerződés 87. és 88. cikkének a mezőgazdasági termékek
+előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és
+a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet 13. cikke szerinti
+támogatásnak minősül.
+(3) A miniszter a részarány földkiadással keletkezett osztatlan közös tulajdon megszüntetése során a földtulajdonos
+által a 2011. vagy a 2012. évben a részarány földkiadás során megelőlegezett költséget az EK-Szerződés 87. és
+88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való
+alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet szerinti támogatásként fizeti vissza.
+(4) A (2) és (3) bekezdés szerinti támogatás az európai uniós versenyjogi értelemben vett állami támogatásokkal
+kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz
+helyzetben lévő vállalkozásnak nem nyújtható.”
+11. § Az R1. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A soronkívüliségi kérelemmel érintett földrészlet megosztási eljárásának (a továbbiakban: soron kívüli eljárás) az
+1. melléklet B) táblázat 4. és 5. sorában megállapított költségét a soronkívüliségi kérelmet benyújtó kérelmező
+előlegezi meg és viseli. A költséget a földrészlet fekvése szerint területileg illetékes fővárosi és megyei kormányhivatal
+földhivatala fizetési számlájára történő készpénz-átutalási megbízással, banki átutalással vagy a földrészlet fekvése
+szerint területileg illetékes földhivatal pénztárába történő készpénzbefizetéssel kell megfizetni. Egyezség hiányában
+a sorsolás megkezdéséig az 1. melléklet A) táblázat 6. sorában megállapított költséget is a soronkívüliségi kérelmet
+benyújtó kérelmező előlegezi meg és viseli.”
+12. § Az R1. 31. §-a helyébe a következő rendelkezés lép:
+„31. § E rendelet
+a) a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak
+nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló
+2006. december 15-i 1857/2006/EK bizottsági rendelet, valamint
+b) az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis)
+támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet
+hatálya alá tartozó támogatást tartalmaz.”
+13. § Az R1.
+a) 1. § (4) bekezdés c) pontjában a „település sorszámát” szövegrész helyébe a „település nevét és sorszámát”
+szöveg,
+b) 2. § (2) bekezdésében az „(1) bekezdés a), b), c) és g) pontja” szövegrész helyébe az „(1) bekezdés b), c), d) és
+h) pontja” szöveg,
+c) 4. § (4) bekezdésében a „jogi közreműködés a sorsolási bizottság munkájában” szövegrész helyébe a „jogi
+közreműködés a sorsolási bizottság munkájában, valamint a sorsolási jegyzőkönyv vezetése.” szöveg,
+d) 6. §-ában az „állami alapadatok felhasználásával végzett sajátos célú földmérési és térképészeti tevékenységről
+szóló 46/2010. (IV. 27.) FVM rendelet” szövegrész helyébe az „ingatlan-nyilvántartási célú földmérési és
+térképészeti tevékenység szabályait tartalmazó rendelet” szöveg,
+
+e) 7. § (3) bekezdésében a „keretmérést és a mezőgazdászi helyszínelést” szövegrész helyébe a „mezőgazdászi
+helyszínelést és a keretmérést” szöveg,
+f) 8. § (2) bekezdésében a „területrész található” szövegrész helyébe a „területrész, illetve halastó található”
+szöveg,
+g) 8. § (3) bekezdésében az „alakításáról” szövegrész helyébe az „alakításról” szöveg,
+h) 12. § (3) bekezdésében a „jegyzője” szövegrész helyébe a „jegyzője, vagy a jegyző megbízottja” szöveg,
+i) 12. § (6) bekezdésében a „földhivatalt és a földmérőt” szövegrész helyébe a „földhivatalt, a jegyzőt és
+a földmérőt” szöveg,
+j) 20. § (1) bekezdésében az „alkalmas” szövegrész helyébe az „irányuló” szöveg,
+k) 20. § (2) bekezdésében a „c) pontjában” szövegrész helyébe a „d) pontjában” szöveg,
+l) 20. § (3) bekezdésében a „tartalmában megfelelő” szövegrész helyébe a „tartalmi és alaki követelményeknek
+megfelelő” szöveg,
+m) 20. § (4) bekezdésében a „nyilatkozat közlése hiányában” szövegrész helyébe a „nyilatkozat hiányában” szöveg,
+az „e)–g) pontjában” szövegrész helyébe az „f)–h) pontjában” szöveg,
+n) 20. § (5) bekezdésében az „e) pontjában meghatározott sorolás” szövegrész helyébe az „f) pontjában
+meghatározott sorsolás” szöveg,
+o) 20. § (6) bekezdésében a „megállapodás” szövegrész helyébe az „egyezségi okirat” szöveg,
+p) 26. § (1) bekezdésében a „10. § és a 11. §” szövegrész helyébe a „10. §” szöveg,
+q) 1. melléklet A) pontja szerinti táblázat A:4 mezőjében és B) pontja szerinti táblázat A:4 mezőjében a „Gazdász
+helyszínelés” szövegrész helyébe a „Mezőgazdászi helyszínelés” szöveg
+lép.
+14. § (1) Hatályát veszti az R1. 8. alcímének címében az „és az osztatlan földtulajdon kimérésének költségei fejezeti kezelésű
+előirányzat felhasználásának szabályai” szövegrész.
+(2) Hatályát veszti az R1.
+a) 4. § (5) bekezdése,
+b) 23. § (3) és (4) bekezdése.
+2. A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az
+ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet módosítása
+15. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási
+eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R2.) 19. § (1) bekezdés i) pontja
+helyébe a következő rendelkezés lép:
+[A FÖMI hatósági jogkörében ellátja:]
+„i) a földmérő és földminősítő igazolványok kiállítását és az ahhoz kapcsolódó nyilvántartás vezetését;”
+16. § Az R2. 4. melléklete az 1. melléklet szerint módosul.
+3. Záró rendelkezés
+17. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 70/2013. (III. 8.) Korm. rendelethez
+Az R2. 4. melléklet 1. és 2. sora helyébe a következő rendelkezés lép:
+(Bevonás és közreműködés
+feltétele
+Szakkérdés Első fokú eljárásban Másodfokú eljárásban)
+„1. Telekcsoport újraosztása,
+telek megosztása, telkek
+egyesítése és telekhatár
+rendezése esetén, kivéve
+termőföldek birtok
+összevonási céllal történő
+telekalakítását
+50 hektárig, azzal
+a feltétellel, hogy
+a kialakítandó
+földrészletek területe
+nem lehet kisebb
+a változás előtti
+területtől.
+A telekalakítás megfelel-e
+a településrendezési
+követelményeknek és
+a helyi építési
+szabályzatnak.
+a telekalakítás helye
+szerint illetékes
+települési, fővárosi
+kerületi önkormányzat
+jegyzője
+fővárosi, megyei
+kormányhivatal
+2. Életvédelmi rendeltetésű
+építmény, óvóhely
+telkének kialakítása
+esetén.
+A jogszabályban előírt
+polgári védelmi
+követelmények érvényre
+juttatása érdekében.
+a telekalakítás helye
+szerint illetékes
+katasztrófavédelmi
+kirendeltség
+fővárosi, megyei
+katasztrófavédelmi
+igazgatóság”
