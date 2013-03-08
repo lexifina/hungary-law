@@ -1,6 +1,6 @@
 ## 1. a Veszprémi Járási Hivatal elhelyezésének biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1003/2013. (I. 4.) Korm. határozat (a továbbiakban: Korm. határozat) szerint átcsoportosított előirányzat visszarendezését rendeli el az 1. melléklet szerint;
 
-## 2. a Korm. határozatot visszavonja;
+## 2.[^2]
 
 ## 3. a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére,
 
@@ -20,6 +20,9 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. december 31.
+## Határidő: 2013. december 31.[^3]
 
 1. melléklet az 1110/2013. (III. 7.) Korm. határozathoz
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1812/2013. (XI. 12.) Korm. határozat 2. pontja alapján a Kormány az e határozat alapján átcsoportosított előirányzattal kapcsolatos elszámolásra és a fel nem használt részre vonatkozó visszatérítési kötelezettség tekintetében 2014. június 30-i határidőt állapít meg.
