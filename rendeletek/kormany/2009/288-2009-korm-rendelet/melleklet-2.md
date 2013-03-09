@@ -4,7 +4,7 @@
 
 ## Tipus: AGY = adatgyűjtés AÁ, adatátvétel
 
-## 2K27184_0
+## 3K04056N_0
 
 | Adatgyűjtés - Adatátvétel | Az adatszolgáltatás beérkezési határideje | Irányadó uniós jogi aktus |
 
@@ -58,15 +58,15 @@
 
 | * 1074 | Jelentés a vállalkozások kutatási, fejlesztési adatairól | AGY | Évenkénti | kutatási, fejlesztési tevékenységet folytató gazdálkodó szervezetek | a tárgyévet követő március 16. | 753/2004/EK | Rendelet |
 
-| 1076 | Megszűnési jelentés a lakóépületekről és lakásokról | AGY | Eseményhez kötődő | járási (fővárosi kerületi) hivatalok | folyamatos |  |  |
+| 1076 | Megszűnési jelentés a lakóépületekről és lakásokról | AGY | Eseményhez kötődő | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | folyamatos |  |  |
 
 | * 1077 | Községi, városi lakás-, üdülőépítési és lakásmegszűnési összesítő | AGY | Évenkénti | a külön kormányrendeletben megjelölt települési, fővárosi, kerületi önkormányzatok jegyzői | a tárgyévet követő január 15. |  |  |
 
-| 1078 | Részletező adatok a lakások és üdülők végleges használatba vételéről | AGY | Eseményhez kötődő | járási (fővárosi kerületi) hivatalok | folyamatos | 1165/98/EK | Rendelet |
+| 1078 | Részletező adatok a lakások és üdülők végleges használatba vételéről | AGY | Eseményhez kötődő | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | folyamatos | 1165/98/EK | Rendelet |
 
-| * 1080 | Jelentés az önkormányzatok ingatlankezelési és lakásellátási tevékenységéről | AGY | Évenkénti | önkormányzati lakásállománnyal rendelkező települési önkormányzatok | a tárgyévet követő március 1. |  |  |
+| * 1080 | Jelentés az önkormányzatok ingatlankezelési és lakásellátási tevékenységéről | AGY | Évenkénti | önkormányzati lakásállománnyal rendelkező települi önkormányzatok | a tárgyévet követő március 1. |  |  |
 
-| * 1081 | Építési engedélyek | AGY | Havonkénti | járási (fővárosi kerületi) hivatalok | a tárgyhót követő hó 7. | 1165/98/EK | Rendelet |
+| * 1081 | Építési engedélyek | AGY | Havonkénti | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | a tárgyhót követő hó 7. | 1165/98/EK | Rendelet |
 
 | * 1084 | A kalászos gabonák terméseredménye | AGY | Évenkénti | mezőgazdasági földterületet használó, a megfigyelésbe bevont gazdasági szervezetek | augusztus 13. | 543/2009/EK | Rendelet |
 
@@ -336,7 +336,7 @@
 
 | 2129 | Magzati veszteség adatai | AÁ | Negyedéven- kénti | Országos Egészségbiztosítási Pénztár | a tárgynegyedévet követő harmadik hó 30. |  |
 
-| * 2130 | Az üzleti szolgáltatások kibocsátási árjelentése | AGY | Negyedéven- kénti | üzleti szolgáltatást végző, a megfigyelésbe bevont gazdasági szervezetek | a tárgynegyedévet követő hó 8. nap | 1158/2005/EK Rendelet 1503/2006/EK Rendelet 2002/990/EK Határozat 2223/96/EK Rendelet 98/715/EK Határozat |
+| * 2130 | Az üzleti szolgáltatások kibocsátási árjelentése | AGY | N Negyedéven- kénti | üzleti szolgáltatást végző, a megfigyelésbe bevont gazdasági szervezetek | a tárgynegyedévet követő hó 8. nap | 1158/2005/EK Rendelet 1503/2006/EK Rendelet 2002/990/EK Határozat 2223/96/EK Rendelet 98/715/EK Határozat |
 
 | * 2131 | A vasúti szállítás negyedéves adatai | AGY | Negyedéven- kénti | a szükséges vasúti engedélyekkel rendelkező gazdasági szervezetek | a tárgynegyedévet követő hó 20. | 1192/2003/EK Rendelet 91/2003/EK Rendelet |
 
@@ -414,7 +414,7 @@
 
 ## Adatkörök
 
-## 2K27184_1
+## 3K04056N_1
 
 | nyilván- tartási száma |  | Adatgyűjtés | - Adatátvétel |
 
