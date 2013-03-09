@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-343-20-
 | 2012-07-01 | 2006-343-20-22.23 | 134/2012. (VI. 28.) Korm. rendelet |
 | 2012-08-01 | 2006-343-20-22.24 | 393/2007. (XII. 27.) Korm. rendelet |
 | 2013-01-01 | 2006-343-20-22.25 | 322/2012. (XI. 16.) Korm. rendelet |
+| 2013-03-09 | 2006-343-20-22.26 | 67/2013. (III. 8.) Korm. rendelet |
