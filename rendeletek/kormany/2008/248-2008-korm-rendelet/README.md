@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-248-20-
 | 2012-03-15 | 2008-248-20-22.8 | 282/2011. (XII. 21.) Korm. rendelet |
 | 2012-09-21 | 2008-248-20-22.9 | 282/2011. (XII. 21.) Korm. rendelet |
 | 2013-01-01 | 2008-248-20-22.10 | 282/2011. (XII. 21.) Korm. rendelet |
+| 2013-03-09 | 2008-248-20-22.11 | 282/2011. (XII. 21.) Korm. rendelet |

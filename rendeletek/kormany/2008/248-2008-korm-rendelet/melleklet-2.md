@@ -28,7 +28,7 @@
 
 | 12. | talajvédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 14. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
