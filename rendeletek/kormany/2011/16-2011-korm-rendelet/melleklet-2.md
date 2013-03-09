@@ -34,7 +34,7 @@
 
 | 15. |  |  | talajvédelmi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 17. |  |  | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
