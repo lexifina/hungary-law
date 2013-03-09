@@ -4,13 +4,13 @@
 
 9. § (1) A központi építészeti-műszaki tervtanács működési területe az egész ország területére kiterjed.
 
-(2)[^20] A központi építészeti tervtanács feladata, hogy
+(2)[^21] A központi építészeti tervtanács feladata, hogy
 
 a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben a másodfokú építésügyi hatóság megkeresésére véleményezze az első fokú építésügyi hatósági eljárásban a döntés alapjául szolgáló, a területi tervtanács által véleményezett építészeti-műszaki dokumentációt, valamint
 
 b) véleményezze a nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képező építési beruházás épületeinek építészeti-műszaki dokumentációját, ha a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító kormányrendelet erre kijelöli.
 
-(2a)[^21] A 2/A. §-ban meghatározott dokumentációk tárgyalása során a központi tervtanács feladata, hogy véleményezze
+(2a)[^22] A 2/A. §-ban meghatározott dokumentációk tárgyalása során a központi tervtanács feladata, hogy véleményezze
 
 a) a jogszabály szerinti I. és II. bírsági kategóriába tartozó műemlékeket érintő építési tevékenységek építészeti-műszaki, továbbá
 
@@ -18,9 +18,9 @@ b) az a) pont szerinti épületeket érintő, a régészeti örökség és a mű
 
 ## dokumentációját.
 
-(3)[^22] A területi építészeti-műszaki tervtanács működési területe – a 10. § (1) bekezdésében foglaltak figyelembevételével – megegyezik a területi főépítész illetékességi területével.
+(3)[^23] A területi építészeti-műszaki tervtanács működési területe – a 10. § (1) bekezdésében foglaltak figyelembevételével – megegyezik a területi főépítész illetékességi területével.
 
-(4)[^23] A területi építészeti-műszaki tervtanács feladata, hogy véleményezze
+(4)[^24] A területi építészeti-műszaki tervtanács feladata, hogy véleményezze
 
 a) a főpolgármester településképi véleménye hiányában a fővárosi helyi építészeti örökségvédelem alatt
 
@@ -40,7 +40,7 @@ e) az önkormányzat polgármesterének településképi véleménye hiányában
 
 f) az önkormányzat polgármesterének településképi véleménye hiányában a műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 10 méterre álló új épület építésével vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítésével vagy átalakításával kapcsolatos építészeti-műszaki dokumentációt.
 
-[^20]: A 9. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^21]: A 9. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 12. § (5) bekezdése iktatta be.
-[^22]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
-[^23]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^21]: A 9. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^22]: A 9. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^23]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^24]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
