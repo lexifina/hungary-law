@@ -4,4 +4,4 @@
 
 [^5]: A 4. §-t a 299/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be.
 [^6]: A hatálybalépés időpontja 2012. október 27.
-[^7]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 25. § (1) bekezdés g) pontja, a 299/2012. (X. 26.) Korm. rendelet 3. §-a, a 296/2012. (X. 17.) Korm. rendelet a) és b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a, a 441/2012. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 25. § (1) bekezdés g) pontja, a 299/2012. (X. 26.) Korm. rendelet 3. §-a, a 296/2012. (X. 17.) Korm. rendelet a) és b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a, a 441/2012. (XII. 29.) Korm. rendelet 23. §-a, a 67/2013. (III. 8.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
