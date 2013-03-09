@@ -2,7 +2,7 @@
 
 a) tizenöt–húsz százaléka a 34. § (1) bekezdés a) pontjában meghatározott esetben,
 
-b)[^2] öt–húsz százaléka a 34. § (1) bekezdés b) és c) pontjában meghatározott esetben tizennyolc éven aluli tanulóknál,
+b)[^38] öt–húsz százaléka a 34. § (1) bekezdés b) és c) pontjában meghatározott esetben tizennyolc éven aluli tanulóknál,
 
 c) tizenöt–negyven százaléka a 34. § (1) bekezdés b) pontjában meghatározott esetben tizennyolc éven felüli, de huszonkettő éven aluli tanulóknál,
 
@@ -20,11 +20,11 @@ b) a vizsgázónak az emelt szintű érettségi vizsgáért az adott évre érv�
 
 ezer forintra kerekített összeget kell fizetnie a Hivatal számára.
 
-(5)[^3] Ha a 34. § (1) bekezdés e) pontja szerinti esetben a középszintű érettségi vizsgára jelentkező a vizsgaszervező nevelési-oktatási intézménybe nyújtja be a jelentkezési lapját, a (4) bekezdésben meghatározottakat azzal az eltéréssel kell alkalmazni, hogy a középszintű vizsga térítési díj összegét a jelentkező a vizsgaszervező nevelési-oktatási intézmény számára fizeti meg.
+(5)[^39] Ha a 34. § (1) bekezdés e) pontja szerinti esetben a középszintű érettségi vizsgára jelentkező a vizsgaszervező nevelési-oktatási intézménybe nyújtja be a jelentkezési lapját, a (4) bekezdésben meghatározottakat azzal az eltéréssel kell alkalmazni, hogy a középszintű vizsga térítési díj összegét a jelentkező a vizsgaszervező nevelési-oktatási intézmény számára fizeti meg.
 
 (6) A 34. § (1) bekezdés f) pontja szerinti szakmai vizsga térítési díja a szakmai vizsgadíj és a vizsgáztatási díjak kereteiről szóló, szakképzésért felelős miniszter által kiadott rendeletben meghatározott vizsgadíj és vizsgáztatási díj együttes összege egy tanulóra jutó hányadának mértékével azonos.
 
 (7) A 34. § (1) bekezdés d) pontja szerinti független vizsga díját tantárgyanként kell megállapítani úgy, hogy tantárgyanként a vizsgadíj összege nem lehet magasabb, mint az adott évre érvényes kötelező legkisebb munkabér (minimálbér) 3,75%-a.
 
-[^2]: A 35. § (1) bekezdés b) pontja a 315/2012. (XI. 13.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^3]: A 35. § (5) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^38]: A 35. § (1) bekezdés b) pontja a 315/2012. (XI. 13.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^39]: A 35. § (5) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

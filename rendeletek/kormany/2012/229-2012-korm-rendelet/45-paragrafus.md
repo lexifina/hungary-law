@@ -8,8 +8,6 @@
 
 45. § (1) Ez a rendelet – (2) és (3) bekezdésben meghatározott kivételekkel – 2012. szeptember 1-jén lép hatályba.
 
-(2) A 7. § (2) bekezdése 2013. január 1-jén lép hatályba.
+(2)–(4)[^54]
 
-(3) A 25. § (5) bekezdése 2012. október 2-án lép hatályba.
-
-(4) Az V. Fejezet az Nkt. 74. § (6) bekezdésének hatálybalépésével egyidejűleg lép hatályba.
+[^54]: A 45. § (2)–(4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.

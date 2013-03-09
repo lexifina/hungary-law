@@ -1,7 +1,25 @@
-47. § (1)[^15] Az illetékes kormányhivatal 2013. augusztus 31-éig a Hivatal által meghatározott módon továbbítja a 7. § (3) és (4) bekezdése és a 13. § (1) bekezdése szerinti okiratokat, a bejelentés és a változás-bejelentés okát, valamint a 4. § (1) bekezdése szerinti adatok közül a változással érintett adatokat.
+47. § (1)[^57] Az illetékes kormányhivatal 2013. augusztus 31-éig a Hivatal által meghatározott módon továbbítja a 7. § (3) bekezdése és a 13. § (1) bekezdése szerinti okiratokat, a bejelentés és a változás-bejelentés okát. Amíg az egyházi és magánintézmények nyilvántartása és a KIR között nem jön létre az elektronikus adatkapcsolás, addig a köznevelési intézmény is rögzítheti elektronikusan a 4. § (1) bekezdés szerinti adatokat azzal, hogy az intézménytörzsben a kormányhivatal által jóváhagyott adatok tárolhatók. A jóváhagyás beszerzéséről a Hivatal gondoskodik.
 
-(2) Az illetékes kormányhivatal és a jegyző a 25. § (2) bekezdése szerinti kötelezettségét első alkalommal 2012. szeptember 5–15. között teljesíti.
+(2)[^58] A 33. § (1) bekezdés b) pontjának bd) alpontja szerinti egyéb foglalkozás alatt a 2012/2013-as tanévben a napközis és tanulószobai foglalkozások megszervezését is érteni kell.
 
-(3) Az illetékes kormányhivatal és a fővárosban a főjegyző 2012. december 31-éig ellátja a 8. alcímben meghatározott feladatokat és a II. Fejezetben meghatározottak szerint működteti a pedagógusok helyettesítésére létrehozott helyettesítési rendszert. Az illetékes kormányhivatal és a főjegyző 2012. december 15-éig átadja az állami intézményfenntartó központnak a helyettesítési rendszerben nyilvántartott adatokat és okiratokat, továbbá a hatáskör megváltozásáról értesíti a helyettesítő pedagógusokat, egyidejűleg a záró jelentést készít a helyettesítés rendszer működtetéséről, amelyet legkésőbb 2013. január 5-éig megküld a miniszter részére.
+(3)[^59] Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 35. § (2) bekezdésében meghatározott feladat megvalósítása érdekében a nem állami köznevelési intézmény fenntartója köznevelési intézményenként, ezen belül foglalkoztatottanként a köznevelési alapfeladatban közreműködő foglalkoztatottakról, köznevelési alapfeladatonkénti bontásban 2013. március 20-ig közli a KIR honlapján keresztül
 
-[^15]: A 47. § (1) bekezdése a 315/2012. (XI. 13.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+a) a nevelő-oktató munkát közvetlenül segítő alkalmazottak, a pedagógusok, pedagógiai előadók, pedagógiai szakértők 2013. január havi illetményét, munkabérét és ezek járulékait, továbbá a munkavégzéshez kapcsolódó személyi jellegű rendszeres vagy jogszabály által előírt kötelező egyéb kifizetést,
+
+b) az óraadók január havi díját,
+
+c) annak tényét, ha az alkalmazott vezető beosztású vagy nyugdíjas,
+
+d) a heti munkaidő mértékét,
+
+e) az alkalmazott besorolásának alapjául szolgáló fizetési osztályt és fokozatot, tudományos fokozatát,
+
+f) a foglalkoztatás időtartamát, határozott idejű jogviszony esetén a jogviszony végét,
+
+g) a tartós távollét végét,
+
+h) azt a jellemző köznevelési alapfeladatot, amelyben az alkalmazott közreműködik.
+
+[^57]: A 47. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^58]: A 47. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^59]: A 47. § (3) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.

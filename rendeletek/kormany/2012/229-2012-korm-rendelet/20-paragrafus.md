@@ -42,7 +42,7 @@ ad) egyéb, különösen az adatszolgáltatás évét megelőző naptári évben
 
 b) az óraadó tanárok számára történő kifizetéseket,
 
-c) a dologi, anyagi jellegű kifizetéseket, felújításokat, beruházásokat, a közoktatási feladatot ellátó épület karbantartásával kapcsolatos kiadásokat,
+c)[^22] a dologi, anyagi jellegű kifizetéseket, felújításokat, beruházásokat, a köznevelési feladatot ellátó épület karbantartásával kapcsolatos kiadásokat,
 
 d) az étkezésre, a könyvtári állomány gyarapítására, a tartós tankönyvek beszerzésére fordított kifizetéseket.
 
@@ -51,3 +51,5 @@ d) az étkezésre, a könyvtári állomány gyarapítására, a tartós tanköny
 (5) A KIR-ben nyilván kell tartani a feladatellátást szolgáló ingatlan tulajdoni jogviszonyát, a használat jogcímét, idejét és egyéb köznevelési jellemzőjét. A köznevelési közfeladat-ellátás céljait szolgáló ingatlant működtető a fenntartó útján közli az (3) bekezdés c) pontjára figyelemmel az ingatlan működtetésével kapcsolatos költségeit.
 
 (6) A nyilvántartást úgy kell felépíteni, hogy az alkalmas legyen a korábban gyűjtött adatok tárolására, összehasonlító elemzések készítésére, valamint a fenntartó által megadott adatok alapján megállapítható legyen az egy gyermekre, tanulóra jutó állami támogatás összege, továbbá az, hogy az egyes köznevelési intézmények feladatainak ellátásához igénybe vett állami támogatás intézményegységenként a teljes intézményi költségvetés hány százalékát fedezte.
+
+[^22]: A 20. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § i) pontja szerint módosított szöveg.

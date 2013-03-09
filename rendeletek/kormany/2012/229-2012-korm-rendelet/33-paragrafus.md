@@ -34,14 +34,22 @@ bi) a tanulók – rendeletben meghatározott – egészségfejlesztése, a köt
 
 bj) a közismereti képzés elsajátítására irányuló vagy a tartós gyógykezelés miatt létesített vendégtanulói jogviszony,
 
-c) kollégiumban
+bk)[^34] a pedagógiai program végrehajtásához kapcsolódó, a minden tanuló számára előírt tananyag megismerését, feldolgozását, a mindennapi testedzést szolgáló, intézményen kívüli kulturális, művészeti, sport- vagy más foglalkozás, kirándulás, erdei iskola,
 
-ca) a kollégiumi és az externátusi foglalkozás, a kollégiumi lakhatási feltétel biztosítása,
-
-cb) a folyamatos pedagógiai felügyelet, a gyermekek, tanulók – rendeletben meghatározott – egészségfejlesztése, a kötelező rendszeres egészségügyi felügyelet,
+c)[^35] kollégiumban – a (3) bekezdés szerinti kollégiumi tagsági jogviszony keretében –
 
 d) a nevelési-oktatási intézmény létesítményeinek, eszközeinek használata a térítésmentes szolgáltatás igénybevételekor,
 
 e) sajátos nevelési igényű gyermek, tanuló esetén az állapotának megfelelő köznevelési intézményi ellátás.
 
 (2) Az Nkt. 2. § (2) bekezdésében meghatározottak mellett térítésmentes a gyógypedagógiai tanácsadás, a korai fejlesztés és gondozás, a fejlesztő nevelés, a fejlesztő felkészítés és a fejlesztő iskolai oktatás.
+
+(3)[^36] A tanulónak a kollégiumi tagsági jogviszony térítésmentes, ha
+
+a) a tanuló nappali rendszerű iskolai oktatásban vagy a nappali oktatás munkarendje szerint szervezett felnőttoktatásban vesz részt, mindaddig, amíg számára az iskolai oktatás – jogszabály rendelkezése alapján – ingyenes, vagy
+
+b) a tanuló nem a nappali oktatás munkarendje szerint szervezett felnőttoktatás keretében vesz részt iskolai oktatásban, tizenkilenc éven aluli és az iskolai szolgáltatást – jogszabály rendelkezése alapján – ingyenesen veszi igénybe.
+
+[^34]: A 33. § (1) bekezdés b) pont bk) alpontját a 73/2013. (III. 8.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^35]: A 33. § (1) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^36]: A 33. § (3) bekezdését a 73/2013. (III. 8.) Korm. rendelet 24. § (3) bekezdése iktatta be.

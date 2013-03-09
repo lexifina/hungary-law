@@ -4,9 +4,9 @@
 
 ## 1. A köznevelés információs rendszerének létrehozása és működtetése
 
-1. § (1) A köznevelés információs rendszere (a továbbiakban: KIR) országos, elektronikus nyilvántartási és adatszolgáltatási rendszer.
+1. § (1)[^1] A köznevelés információs rendszere (a továbbiakban: KIR) hatósági és szakmai tevékenységeket kiszolgáló, az Oktatási Hivatal (a továbbiakban: Hivatal) által működtetett elektronikus alkalmazások, adatállományok, dokumentációk adatbázisa, valamint országos statisztikai és jogosultság alapú adatszolgáltatási rendszer. A KIR szakmai rendszerekből, azokat kiszolgáló, támogató segédprogramokból és alrendszerekből, továbbá az oktatásért felelős miniszter (a továbbiakban: miniszter) által használt alkalmazásokból épül fel.
 
-(2) A KIR részeként önálló alrendszerként kell nyilvántartani
+(2)[^2] A Hivatal a KIR részeként rendszerként működteti
 
 1. a köznevelési intézmény és a köznevelési feladatot ellátó köznevelési intézmény (a továbbiakban együtt: köznevelési intézmény), továbbá azok fenntartóinak közérdekű adatait és közérdekből nyilvános adatait (a továbbiakban: intézménytörzs),
 
@@ -18,7 +18,7 @@
 
 5. a kötelező köznevelési közfeladatot ellátó köznevelési intézmény körzethatárait,
 
-6. a feladat-ellátási, intézményhálózat-működtetési és köznevelés-fejlesztési terveket (a továbbiakban együtt: fejlesztési terv), a köznevelési közfeladat ellátásában részt vevő köznevelési intézményre vonatkozó adatokat,
+6. a feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervet (a továbbiakban együtt: köznevelés-fejlesztési terv), a köznevelési közfeladat ellátásában részt vevő köznevelési intézményre vonatkozó adatokat,
 
 7. a köznevelési intézmény információs tájékoztató rendszerét,
 
@@ -32,7 +32,7 @@
 
 12. az érettségi vizsgák lebonyolításához szükséges adatokat, az érettségi vizsgák alapján kiadott bizonyítványok adatait, a tanúsítványok és a törzslapkivonatok adatait,
 
-13. a diákigazolványok és a pedagógus igazolványok adatait,
+13. a köznevelési diákigazolvány és a pedagógusigazolvány igénylési felületét és a köznevelési igazolványok adatainak nyilvántartását,
 
 14. a tankönyvjegyzékkel és a tankönyvrendeléssel kapcsolatos adatokat,
 
@@ -42,17 +42,19 @@
 
 17. a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: illetékes kormányhivatal) által megküldött, köznevelési intézmény által felvett baleseti jegyzőkönyvek alapján készített jelentést,
 
-18. az országos szakértői és vizsgaelnöki névjegyzéket,
+18.[^3] az országos szakértői és érettségi vizsgaelnöki névjegyzéket,
 
-19. a pedagógus-továbbképzésben részt vevő szervezetek nyilvántartását.
+19. a pedagógus-továbbképzésben részt vevő szervezetek nyilvántartását,
+
+20. az állami intézményfenntartó keretében működő köznevelési intézmények közhiteles nyilvántartását.
 
 (3) A KIR-t úgy kell felépíteni és fejleszteni, hogy
 
-a) az azonos adatokat csak egyszer lehessen megadni és csak egy – a (2) bekezdés szerinti – alrendszerben lehessen megváltoztatni,
+a)[^4] az azonos adatokat csak egyszer lehessen megadni és csak egy – a (2) bekezdés szerinti – rendszerben lehessen megváltoztatni,
 
 b) segítse a hatósági döntéshozatalt, a szakmai feladatok ellátását, az ágazati és a fenntartói tervezés feladatait,
 
-c) alkalmas legyen az oktatásért felelős miniszter (a továbbiakban: miniszter) által engedélyezett, a köznevelési intézmények és fenntartóik által használt vagy a közigazgatási szerv által vezetett elektronikus információs nyilvántartásokkal való együttműködésre,
+c)[^5] alkalmas legyen a miniszter által engedélyezett, a köznevelési intézmények és fenntartóik által használt vagy a közigazgatási szerv által vezetett elektronikus információs nyilvántartásokkal való együttműködésre,
 
 d) a begyűjtött és tárolt adatokból különböző lekérdezésekkel összehasonlító elemzéseket lehessen készíteni,
 
@@ -60,4 +62,11 @@ e) a begyűjtött és tárolt adatokból az Európai Unió közvetlenül alkalma
 
 (4) A KIR adatbázisában tárolt valamennyi adat statisztikai célra feldolgozható, és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon átadható. Az adatkérés módját, a közérdekű adatokat a KIR honlapján közzé kell tenni. A statisztikai céllal készült adatok a KIR honlapján megjeleníthetők.
 
-(5) A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és az Oktatási Hivatal (a továbbiakban: Hivatal) között létrejött írásbeli szerződés határozza meg.
+(5)[^6] A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és a Hivatal között létrejött írásbeli szerződés határozza meg.
+
+[^1]: Az 1. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés 18. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés a) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ac) alpontja szerint módosított szöveg.
+[^6]: Az 1. § (5) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ad) alpontja szerint módosított szöveg.

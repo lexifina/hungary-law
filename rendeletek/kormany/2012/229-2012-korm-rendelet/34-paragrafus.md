@@ -17,3 +17,7 @@ f) a tanulói jogviszony megszűnése után megkezdett szakmai vizsga (ideértve
 (2) A gyermek, a tanuló a nevelési-oktatási intézményben igénybe vett étkezésért a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben meghatározottak szerint térítési díjat fizet.
 
 (3) Az iskolaszék, az óvodaszék, a kollégiumi szék – annak hiányában a szülői szervezet (közösség) az intézményi tanács és iskolában az iskolai diákönkormányzat véleményének kikérésével – meghatározhatja azt a legmagasabb összeget, amelyet a nevelési-oktatási intézmény által szervezett, nem ingyenes szolgáltatások körébe tartozó program megvalósításánál nem lehet túllépni.
+
+(4)[^37] A kollégiumi szolgáltatás igénybevételéért a tanuló térítési díjat fizet, ha az iskolai alapszolgáltatást térítési díj fizetése mellett veszi vagy venné igénybe. A térítési díj mértéke azonos az iskolai térítési díj mértékével.
+
+[^37]: A 34. § (4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 25. §-a iktatta be.
