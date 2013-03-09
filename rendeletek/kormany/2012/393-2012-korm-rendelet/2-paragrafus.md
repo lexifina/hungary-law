@@ -6,7 +6,7 @@
 
 a) első fokú örökségvédelmi hatóságként az 1. mellékletben felsorolt illetékes járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatalát (a továbbiakban: járási építésügyi és örökségvédelmi hivatal) az 1. mellékletben meghatározott illetékességi területtel,
 
-b) a műemléki érték védelmével kapcsolatos feladatok tekintetében másodfokú örökségvédelmi hatóságként az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalának önálló feladat- és hatáskörrel rendelkező szervezeti egységét,
+b)[^1] a műemléki érték védelmével kapcsolatos feladatok tekintetében másodfokú örökségvédelmi hatóságként az illetékes fővárosi és megyei kormányhivatal szakigazgatási szerveként működő építésügyi és örökségvédelmi hivatalának építésfelügyeleti hatósági és örökségvédelemmel kapcsolatos hatósági feladatokat is ellátó önálló feladat- és hatáskörrel rendelkező szervezeti egységét,
 
 c) a régészeti örökség védelmével kapcsolatos feladatok tekintetében másodfokú örökségvédelmi hatóságként országos illetékességgel Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának önálló feladat- és hatáskörrel rendelkező szervezeti egységét
 
@@ -15,3 +15,5 @@ c) a régészeti örökség védelmével kapcsolatos feladatok tekintetében má
 (2) A Kötv. 23/C. § (2) bekezdés b) pontjában meghatározott, kérelemre induló eljárás lefolytatása és a Kötv. 23/C. § (3) bekezdésében meghatározott döntés meghozatala országos illetékességgel Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának önálló feladat- és hatáskörrel rendelkező szervezeti egysége hatáskörébe tartozik.
 
 (3) Az örökségvédelmi hatóság illetékességét valamely ügyben az érintett telek fekvése határozza meg.
+
+[^1]: A 2. § (1) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 20. §-a szerint módosított szöveg.
