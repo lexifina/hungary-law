@@ -32,7 +32,7 @@
 
 | 15. |  |  | talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 17. |  |  | vasúti hatósági eljárások | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
