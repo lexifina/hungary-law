@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-267-20-
 | 2012-09-21 | 2012-267-20-22.1 | 267/2012. (IX. 20.) Korm. rendelet |
 | 2012-10-18 | 2012-267-20-22.2 | 296/2012. (X. 17.) Korm. rendelet |
 | 2013-01-01 | 2012-267-20-22.3 | 296/2012. (X. 17.) Korm. rendelet |
+| 2013-03-09 | 2012-267-20-22.4 | 296/2012. (X. 17.) Korm. rendelet |
