@@ -18,4 +18,6 @@ az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdono
 
 a) az elutasításról határozatban dönt, vagy
 
-b) a szabálytalanságot – bírság kiszabásának mellőzésével – tudomásul veszi.
+b)[^23] a szabálytalanságot – bírság kiszabásának mellőzésével – hallgatással tudomásul veszi.
+
+[^23]: Az 55. § (4) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 10. pontja szerint módosított szöveg.

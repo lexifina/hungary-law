@@ -1,3 +1,3 @@
-## 76. §[^6]
+## 76. §[^36]
 
-[^6]: A 76. § a 73. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^36]: A 76. § a 73. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

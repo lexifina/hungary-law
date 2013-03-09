@@ -18,10 +18,12 @@ c) az eljárási illeték befizetésének igazolását.
 
 (4) Az építésügyi hatóság a kérelem elbírálása során, annak tartalmától függően helyszíni szemle megtartása mellett vizsgálja, hogy
 
-a) a tervezett építmény elhelyezése, beépítési paraméterei, építészeti kialakítása megfelel-e a helyi építési szabályzatban és az országos településrendezési és építészeti követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben (a továbbiakban: OTÉK) meghatározott követelményeknek,
+a)[^4] a tervezett építmény elhelyezése, beépítési paraméterei, építészeti kialakítása megfelel-e a helyi építési szabályzatban és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben (a továbbiakban: OTÉK) meghatározott követelményeknek,
 
 b) a települési önkormányzat polgármesterének településképi véleménye alapján a tervezett építészeti kialakítás megfelel-e a településképi követelményeknek,
 
 c) a tervezett építési tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
 (5) Műemlék esetén a (4) bekezdésben foglaltakon túl az építésügyi hatóság vizsgálja, hogy a tervezett építési tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
+
+[^4]: A 24. § (4) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 3. pontja szerint módosított szöveg.

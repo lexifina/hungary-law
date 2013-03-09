@@ -34,7 +34,7 @@ a) jogszabályban előírt esetekben
 
 aa) a települési önkormányzat polgármesterének településképi véleményét vagy
 
-ab) a településrendezési és építésügyi-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
+ab)[^17] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
 
 b) az Étv. 53/F. § (1) bekezdésében meghatározott kereskedelmi építmény létesítése esetén az Étv. 53/F. § (2) bekezdése szerinti felmentést,
 
@@ -61,3 +61,5 @@ b) ha a kérelem benyújtásakor előzetes szakhatósági állásfoglalás nem �
 a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakhatóság előzetes állásfoglalását – amennyiben az nem az ÉTDR igénybevételével került beszerzésre – és a hozzá tartozó, a szakhatóság által záradékolt építészeti-műszaki dokumentációt,
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, és az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
+
+[^17]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.

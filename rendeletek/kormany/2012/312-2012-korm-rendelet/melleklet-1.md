@@ -1,10 +1,10 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^38]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
-1. A műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 50 méterre álló meglévő épület átalakításának kivételével az építési engedéllyel építhető építmény felújítása, helyreállítása, korszerűsítése, homlokzatának megváltoztatása, ha az építési tevékenységgel az építmény tartószerkezeti rendszerét vagy tartószerkezeti elemeit nem kell
+1. A műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 10 méterre álló meglévő épület átalakításának kivételével az építési engedéllyel építhető építmény átalakítása felújítása, helyreállítása, korszerűsítése, homlokzatának megváltoztatása, ha az építési tevékenységgel az építmény tartószerkezeti rendszerét vagy tartószerkezeti elemeit nem kell
 
 a) megváltoztatni,
 
@@ -98,7 +98,7 @@ b) beépítésre szánt területen a nettó 500,0 m2 alapterületet és a 4,5 m-
 
 22. Mobil illemhely, mobil mosdó, mobil zuhanyozó elhelyezése, árnyékszék építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
 
-23. Szellőző-, klíma-, riasztóberendezés, villámhárító-berendezés, áru- és pénzautomata, kerékpártartó, zászlótartó építményen vagy építményben való elhelyezése, ha ahhoz nem kell az építmény tartószerkezeti rendszerét vagy tartószerkezeti elemeit
+23. Napenergia-kollektor, szellőző-, klíma-, riasztóberendezés, villámhárító-berendezés, áru- és pénzautomata, kerékpártartó, zászlótartó építményen vagy építményben való elhelyezése, ha ahhoz nem kell az építmény tartószerkezeti rendszerét vagy tartószerkezeti elemeit
 
 a) megváltoztatni,
 
@@ -112,7 +112,7 @@ e) megerősíteni vagy
 
 f) újjáépíteni.
 
-24. Építménynek minősülő szelektív és háztartási célú hulladékgyűjtő, tároló, sorompó, árnyékoló elhelyezése.
+24. Építménynek minősülő szelektív és háztartási célú hulladékgyűjtő és -tároló, sorompó, árnyékoló elhelyezése.
 
 25. Telken belüli közmű becsatlakozási és -pótló műtárgy építése.
 
@@ -135,3 +135,5 @@ b) az antennatartó szerkezet méretétől függetlenül a szerkezetre antenna f
 32. Közforgalom elől elzárt, telken belüli, 3,0 m vagy annál kisebb fesztávú áteresz, bejáró-, átjáró-híd építése.
 
 33. A legfeljebb 2,0 m mélységű és legfeljebb 20 m3 légterű pince építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
+
+[^38]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja szerint módosított szöveg.

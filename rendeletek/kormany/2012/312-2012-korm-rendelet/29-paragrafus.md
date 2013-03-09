@@ -22,7 +22,7 @@ e) az erdővédelem vonatkozásában, ha az építési beruházás erdőterület
 
 ea) az erdőterület igénybevételének engedélyezési eljárása, vagy
 
-eb) az erdőterület igénybevételének elvi engedélyezési eljárása,
+eb)[^10]
 
 f) telekalakítási engedélyezési eljárás, ha az építési beruházáshoz a településrendezési eszköz módosítása nem szükséges,
 
@@ -34,7 +34,7 @@ gb) a kulturális örökség védelméről szóló törvény szerint nagyberuhá
 
 h) az építési engedélyezési eljárás,
 
-i) az egységes környezethasználati engedélyezési eljárás, ha a Khvr. előírása alapján a tervezett építményben folytatott tevékenység egységes környezethasználati engedélyhez kötött,
+i)[^11]
 
 j) az országos építési követelményektől való eltérés engedélyezése iránti eljárás.
 
@@ -48,15 +48,15 @@ b) az (1) bekezdés h)–j) pontja szerinti eljárásokat összevonó integrált
 
 (3) Az összevont telepítési eljárásban
 
-a) az (1) bekezdés c)–e), g) és i) pontja szerinti önálló engedélyezési eljárásokat lefolytató hatóságok szakhatóságként (a továbbiakban: ügydöntő szakhatóság),
+a)[^12] az (1) bekezdés c)–e) pontja szerinti önálló engedélyezési eljárásokat lefolytató hatóságok szakhatóságként (a továbbiakban: ügydöntő szakhatóság),
 
 b) az (1) bekezdés b)–j) pontja szerinti önálló engedélyezési eljárásokban – külön jogszabályok szerint – egyébként érintettség esetén részt vevő szakhatóságok és az (1) bekezdés a) pontja szerinti településrendezési eszköz egyeztetési eljárásában vélemény-nyilvánításra jogosult államigazgatási szervek is – ha nem ügydöntő szakhatóságok – szakhatóságként (a továbbiakban: megalapozó szakhatóság)
 
 vesznek részt.
 
-(4) Az (1) bekezdés a), b), f), h) és j) pontja szerinti eljárásokat az összevont telepítési eljárásra kormányrendeletben kijelölt építésügyi hatóság, az (1) bekezdés g) pontja szerinti eljárást a kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatala (a továbbiakban: ügydöntő építésügyi hatóság) folytatja le. Az ügydöntő és a megalapozó szakhatóságokat az ügydöntő építésügyi hatóság keresi meg és szerzi be állásfoglalásukat.
+(4)[^13] Az (1) bekezdés a), b), f), h) és j) pontja szerinti eljárásokat az összevont telepítési eljárásra kormányrendeletben kijelölt építésügyi hatóság, ha az összevont telepítési eljárásban az (1) bekezdés g) pontja szerinti eljárást is le kell folytatni, akkor a kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatala (a továbbiakban: ügydöntő építésügyi hatóság) folytatja le. Az ügydöntő és a megalapozó szakhatóságokat az ügydöntő építésügyi hatóság keresi meg és szerzi be állásfoglalásukat.
 
-(5) Ha az építtető az (1) bekezdés c)–g) vagy i)–j) pontja szerinti jogerős hatósági engedélyek bármelyikét már külön eljárásban megszerezte, az az összevont telepítési eljárásban – az engedély hatálya alatt – felhasználható.
+(5)[^14] Ha az építtető az (1) bekezdés c)–g) vagy j) pontja szerinti jogerős hatósági engedélyek bármelyikét már külön eljárásban megszerezte, az az összevont telepítési eljárásban – az engedély hatálya alatt – felhasználható.
 
 (6) Az építtető az eljárás tárgyát képező építési beruházás alapján határozza meg, hogy a THSZ-ben az (1) bekezdés a)–g) pontjában felsorolt eljárások közül mely eljárások lefolytatását kéri.
 
@@ -77,3 +77,9 @@ vesznek részt.
 (14) Az eljáró építésügyi hatóságnak az összevont telepítési eljárásban az elvi építési keretengedélyezési és az integrált építési engedélyezési eljárás lefolytatására a III. fejezetben foglalt, valamint az építési engedélyezési és összevont engedélyezési eljárásra vonatkozó rendelkezéseit, a telekalakítási eljárás lefolytatására az e rendelet elektronikus ügyintézésre vonatkozó, valamint a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló kormányrendelet telekalakításra vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 (15) Az összevont telepítési eljárásban az ügydöntő építésügyi hatóság és a szakhatóságok a tényállás tisztázása érdekében kötelesek a legszélesebb körű együttműködésre és az egymás közötti hatékony kommunikáció biztosítására.
+
+[^10]: A 29. § (1) bekezdés e) pont eb) alpontját a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés c) pontja hatályon kívül helyezte.
+[^11]: A 29. § (1) bekezdés d) pontját a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés d) pontja hatályon kívül helyezte.
+[^12]: A 29. § (3) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés e) pontja szerint módosított szöveg.
+[^13]: A 29. § (4) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 5. pontja szerint módosított szöveg.
+[^14]: A 29. § (5) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 6. pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 (3) Az építőipari kivitelezési tevékenységet folytató az építésfelügyeleti hatóságtól kérheti tevékenysége szakszerűségének ellenőrzését.
 
-(4) Az építésügyért felelős miniszter az 58. § (2) bekezdés b) pontja, az 58. § (3) és (4) bekezdése szerinti ellenőrzésre az ellenőrzési időszakot megelőző 45. napig a tárgyévre vonatkozóan ellenőrzési utasítást ad ki, amelyben
+(4) Az építésügyért felelős miniszter az 58. § (2) bekezdés b) pontja, az 58. § (3) és (4) bekezdése szerinti ellenőrzésre az ellenőrzési időszakot megelőző 45. napig a tárgyévre vonatkozóan ellenőrzési utasítást[^31] ad ki, amelyben
 
 a) meghatározza
 
@@ -21,3 +21,5 @@ b) az előző évi nyilvántartási adatok alapján javaslatot tesz utóvizsgál
 (6) Az előző évi építésfelügyeleti ellenőrzések megállapításait összefoglaló jelentést az építésfelügyeleti hatóság az ellenőrzési időszakot követő 30. napig megküldi az építésügyért felelős miniszternek.
 
 (7) Az építésfelügyeleti hatóság megkeresésre más hatóság ellenőrzésében is részt vesz.
+
+[^31]: Lásd a 8/2013. (III. 29.) BM utasítást.

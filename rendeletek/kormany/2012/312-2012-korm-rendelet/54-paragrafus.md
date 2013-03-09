@@ -18,6 +18,8 @@ e tényről és a használatbavétel tudomásulvételéről történő tájékoz
 
 (6) Az építésügyi hatóság a használatbavétel tudomásulvételével kapcsolatos eljárás megindulásától számított tíz napon belül a használatbavétel tudomásulvételét megtagadja és az építmény, építményrész használatát megtiltja, ha a rendeltetésszerű és biztonságos használat feltételei nem állnak fenn.
 
-(7) Az építésügyi hatóság – a (3) bekezdésben meghatározott eset kivételével – a használatbavételt hallgatással tudomásul veszi.
+(7)[^22] Az építésügyi hatóság – a (3) bekezdésben meghatározott eset kivételével – a használatbavételt hallgatással tudomásul veszi, egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi az építtetőt.
 
 (8) Az eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlásra felhívás nem bocsát ki, és a szakhatóságot nem keresi meg.
+
+[^22]: Az 54. § (7) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 9. pontja szerint módosított szöveg.

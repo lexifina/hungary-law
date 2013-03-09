@@ -12,4 +12,6 @@ ca) a szervizkönyv pótlását,
 
 cb) a kötelező felülvizsgálat elmaradása miatti építmény felülvizsgálat elvégzését és a megállapításoktól függően a szükséges munkálatok elvégzését.
 
-(2) Az építésfelügyeleti hatóság az (1) bekezdés a) és b) pontja szerinti, műemléket érintő eljárásába az építésügyi és örökségvédelmi hatóságot szakhatóságként bevonja.
+(2)[^32]
+
+[^32]: A 69. § (2) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés h) pontja hatályon kívül helyezte.
