@@ -12,7 +12,7 @@
 
 | 5. | ingatlan-nyilvántartási hatósági eljárások | Illetékes járási földhivatal | Heves Megyei Kormányhivatal Földhivatala |
 
-| 6. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 6. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
