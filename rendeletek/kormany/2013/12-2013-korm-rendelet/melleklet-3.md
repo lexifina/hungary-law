@@ -20,7 +20,7 @@
 
 | 9. | általános építésügyi hatósági eljárások | illetékes járási hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala | illetékes megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
-| 10. | örökségvédelmi hatósági eljárások | illetékes járási hivatal járási építésügyi és örökségvédelmi hivatala | illetékes megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 10. | örökségvédelmi hatósági eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | illetékes járási hivatal járási építésügyi és örökségvédelmi hivatala | illetékes megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 11. | földmérési, földvédelmi, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | illetékes járási hivatal járási földhivatala | illetékes megyei kormányhivatal földhivatala |
 
