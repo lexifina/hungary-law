@@ -24,9 +24,9 @@
 
 | 12. | üdülő | üdülőházas | 1,0 | 30 | 6,0< | 40 |
 
-| 13. | hétvégiházas | 0,2 | 20 |  | 60 |
+| 13. | hétvégiházas | 0,2 | 20 | <6,0 | 60 |
 
-| 14. | különleges |  | 2,0 | 40 | <6,0 | 40 |
+| 14. | különleges |  | 2,0 | 40 |  | 40 |
 
 3. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^386]
 
