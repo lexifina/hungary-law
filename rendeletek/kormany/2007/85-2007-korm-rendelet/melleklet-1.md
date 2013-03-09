@@ -1,3 +1,3 @@
-1. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^38]
+1. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^37]
 
-[^38]: Az 1. melléklet a 120/2012. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^37]: Az 1. melléklet a 120/2012. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
