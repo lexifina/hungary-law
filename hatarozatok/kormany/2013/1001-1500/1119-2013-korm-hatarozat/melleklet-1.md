@@ -22,7 +22,7 @@
 
 ## Határidő: a 2014. évi, a 2015. évi és a 2016. évi központi költségvetés tervezése során
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1417/2012. (X. 1.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2013. december 31.” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1119/2013. (III. 8.) Korm. határozathoz
 
@@ -115,3 +115,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
