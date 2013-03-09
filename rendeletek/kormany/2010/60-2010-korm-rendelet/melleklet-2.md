@@ -32,7 +32,7 @@
 
 | 15. |  |  | talajvédelmi hatósági eljárások | Komárom-Esztergom Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Tatabányai Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Tatabányai Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 17. |  |  | vasúti hatósági eljárások | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
