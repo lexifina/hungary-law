@@ -1,14 +1,14 @@
-## 11/B. §[^26] A 9/B–9/G. §-ban szabályozott nevelő és oktató munkát az oktatási és kulturális miniszter által kiadott rendelet szerint lehet megszervezni.
+## 11/B. §[^28] A 9/B–9/G. §-ban szabályozott nevelő és oktató munkát az oktatási és kulturális miniszter által kiadott rendelet szerint lehet megszervezni.
 
 ## Záró rendelkezések
 
 12. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 2004. szeptember 1-jétől kell alkalmazni az általános iskola első évfolyamán, ezt követően minden tanévben felmenő rendszerben.
 
-(2)[^27] E rendeletnek – a 210/2008. (VIII. 27.) Korm. rendelet 1. §-ával megállapított – 3. § (6) bekezdése alapján a 2009/2010. tanévtől kezdve lehet megszervezni az emelt szintű oktatást az első évfolyamon, majd ezt követően felmenő rendszerben a második–negyedik évfolyamon.
+(2)[^29] E rendeletnek – a 210/2008. (VIII. 27.) Korm. rendelet 1. §-ával megállapított – 3. § (6) bekezdése alapján a 2009/2010. tanévtől kezdve lehet megszervezni az emelt szintű oktatást az első évfolyamon, majd ezt követően felmenő rendszerben a második–negyedik évfolyamon.
 
 (3) A Nemzeti alaptanterv kiadásáról szóló 130/1995. (X. 26.) Korm. rendelet, továbbá a módosítására kiadott 63/2000. (V. 5.) Korm. rendelet többi rendelkezése 2004. szeptember 1-jén az iskola első évfolyamán, ezt követően minden tanévben felmenő rendszerben a következő évfolyam tekintetében, teljes egészében 2017. augusztus 31-én hatályát veszti.
 
-Melléklet a 243/2003. (XII. 17.) Korm. rendelethez[^28]
+Melléklet a 243/2003. (XII. 17.) Korm. rendelethez[^30]
 
 A NEMZETI ALAPTANTERV
 
@@ -70,7 +70,7 @@ A kulcskompetenciák azok a kompetenciák, amelyekre minden egyénnek szüksége
 
 Mindegyik egyformán fontos, mivel mindegyik hozzájárulhat a sikeres élethez egy tudás alapú társadalomban. Felértékelődik az egyén tanulási kompetenciájának fejlesztése, mert az emberi cselekvőképesség az egész életen át tartó tanulás folyamatában formálódik.
 
-Sok kompetencia részben fedi egymást, és egymásba fonódik: az egyikhez szükséges elemek támogatják a másik terület kompetenciáit. Hasonló egymásra építettség jellemzi a kulcskompetenciák és a kiemelt fejlesztési feladatok viszonyát. A műveltségterületek fejlesztési feladatai a kulcskompetenciákat összetett rendszerben jelenítik meg. Számos olyan fejlesztési terület van, amely mindegyik kompetencia részét képzi: például a kritikus gondolkodás, a kreativitás, a kezdeményezőképesség, a problémamegoldás, a kockázatértékelés, a döntéshozatal, az érzelmek kezelése.[^29]
+Sok kompetencia részben fedi egymást, és egymásba fonódik: az egyikhez szükséges elemek támogatják a másik terület kompetenciáit. Hasonló egymásra építettség jellemzi a kulcskompetenciák és a kiemelt fejlesztési feladatok viszonyát. A műveltségterületek fejlesztési feladatai a kulcskompetenciákat összetett rendszerben jelenítik meg. Számos olyan fejlesztési terület van, amely mindegyik kompetencia részét képzi: például a kritikus gondolkodás, a kreativitás, a kezdeményezőképesség, a problémamegoldás, a kockázatértékelés, a döntéshozatal, az érzelmek kezelése.[^31]
 
 A kulcskompetenciák
 
@@ -2812,7 +2812,29 @@ A VII. RÉSZ célja, hogy egységes alkalmazásra késztesse a Nemzeti alaptante
 
 Alaptanterv
 
-[^26]: A 11/B. §-t a 202/2007. (VII. 31.) Korm. rendelet 5. §-a iktatta be.
-[^27]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 786. pontja hatályon kívül helyezte, újonnan a 210/2008. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^28]: A melléklet a 202/2007. (VII. 31.) Korm. rendelet 6. §-ával megállapított, a 210/2008. (VIII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^29]: A Nemzeti alaptantervben megjelenő kulcskompetenciák alapját a Recommendation of the European Parlament and of the Council of 18 December 2006 on Key Competences for Lifelong Learning (2006/962/EC) című dokumentum képezi.
+Meghatározza az általános képzés keretében zajló nevelő-oktató munka kötelező közös céljait, a magyarországi közoktatásra értelmezi az Európai Unióban elfogadott ún. kulcskompetenciákat, megvilágítja az iskola világával szorosan kapcsolatban álló intézményrendszer (kollégium, óvoda, ÁMK stb.) és az iskola műveltségképének összefüggéseit, megalapozza az alaptantervvel összefüggő minőségirányítási teendőket, kiemelten tartalmazza a nevelő-oktató munka alapjául szolgáló, az egyes tartalmi szakaszokban érvényesítendő fejlesztési feladatokat. A közvetítendő műveltség fő területeit (az ún. műveltségi területeket és a műveltségi területeken átívelő ún. kiemelt fejlesztési feladatokat) definiálja. A Nemzeti alaptantervet a Kormány rendeletben adja ki. Kiindulópontul szolgál a kerettantervek, helyi tantervek és vizsgakövetelmények készítői és alkalmazói számára. Törvény adta előírás szerint ciklikusan sor kerül az alaptanterv felülvizsgálatára.
+
+Általános képzés
+
+Az alapvető műveltségi javak iskolai közvetítése, az ezekhez tartozó kompetenciák optimális fejlesztése. Szervezeti kereteit az iskolázás általánosan képző szakaszai adják. Az általános képzés során elsajátított tudás teszi alkalmassá az embert meghatározott feladatok, problémák megoldására, és alapozza meg a különböző színtű szakképzést. Alapvető műveltségi javakon a tanulási képességek, elemi kultúrtechnikák, kulcskompetenciák s a társadalomban elfogadott általános műveltség egymással összefüggő rendszerét értjük.
+
+Általános műveltség
+
+Az emberre, az emberek csoportjaira, közösségeire, a társadalomban érvényesülő különböző kapcsolatrendszerekre, a tudományra, a technikára, a gazdaság, a munka világára, a természeti és az épített környezetre, művészetekre, a kommunikációra, a magatartásra, a kultúrára magára, a kultúra elsajátítására (a tanulásra), s a kultúra továbbfejlesztésére-alkalmazására vonatkozó kultúra alapjainak az ember értékeiben, motivációiban, tudásában (kognitív struktúráiban), tevékenységében megnyilvánuló rendszere. A kultúra minden lényeges területét felöleli, összhangba rendezi: a mindenki számára lényeges és szükséges, az általános képzés és a szakképzés, a további (ön)művelés közös tartalmi feltételeit foglalja magában. Az általános műveltség korszakonként, kultúránként különböző tartalmú, rendszerű, színvonalú. Napjainkban meghatározóak a magyar, az európai és a globális műveltség egymásba épülő elemei. Fő jellemzője a tradícióknak és a jövő iránti értő figyelemnek harmóniája, a nyitottság a kultúra szerkezetében érvényesülő változásokra, a társadalmi élet különböző területein megmutatkozó érvényessége (relevanciája). A közoktatás számára értelmezett általános műveltség a kulcskompetenciák, tudások azon rendszere, melyet a társadalom művelt (középfokú szinten iskolázott) állampolgárától elvár.
+
+Fejlesztési feladat
+
+A fejlesztési feladatok meghatározzák a tanulók képességfejlesztésének különböző területeit, melyek kijelölik, hogy mely kulcskompetenciák fejlesztése kívánatos az iskoláztatás képzési szakaszaiban. Szükségképpen különböző absztrakciós szinten fogalmazódhatnak meg, és a pedagógiai folyamat különböző aspektusaira helyezik a hangsúlyt. Gyakran tanulásszervezői tevékenység leírásaként, megnevezéseként jelennek meg, más esetben a fejlesztés érdekében elvégzendő tanulói tevékenységet fogalmazzák meg.
+
+Helyi tartalom
+
+A helyi tartalom kifejezés alatt: (a) az iskolát környező, szolgáltatásait igénybe vevő helyi társadalom – mindennapi és „ünnepnapi” – kultúrájának, földrajzi, természeti, történelmi, gazdasági környezetének, tradícióinak és jövőképének (a helyi kultúrának) sajátos elemeit; (b) az iskola jellegzetes tanulói csoportjainak sajátos (általuk deklarált vagy az iskola szakmai tevékenysége során felismert-feltárt) nevelési-oktatási szükségleteit, igényeit értjük. Ennek megfelelően a tantervi programban a helyi tartalom lehet hozzáadással létrejött többlet, illetve átértelmezés.
+
+Helyi tanterv
+
+Az a tanterv, melyet egy iskola pedagógiai programjában kitűzött céljainak, alapelveinek megfelelően kiválaszt, összeállít. A követelmények és a tananyagok időbeli elrendezése és a hozzárendelt eszközök rendszere az alapító okiratában meghatározottak szerint az iskola hagyományos klienseinek elvárásait és fejlesztési prognózisát teljesítik. Helyi jellegét az adja, hogy legitimációjában szerepet játszik a helyben érintettek megegyezése, a nevelőtestület elfogadó döntése, a különböző felhasználók, partnerek támogató véleménye, a fenntartó jóváhagyó döntése. Másodlagos, de nem elhanyagolható jellemzője, hogy a helyi kultúra elemeit is az elfogadott mértékben tartalmazza. A helyi kultúrán a helyi társadalom tradícióit és jövőképét egyaránt értjük.
+
+[^28]: A 11/B. §-t a 202/2007. (VII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^29]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 786. pontja hatályon kívül helyezte, újonnan a 210/2008. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A melléklet a 202/2007. (VII. 31.) Korm. rendelet 6. §-ával megállapított, a 210/2008. (VIII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^31]: A Nemzeti alaptantervben megjelenő kulcskompetenciák alapját a Recommendation of the European Parlament and of the Council of 18 December 2006 on Key Competences for Lifelong Learning (2006/962/EC) című dokumentum képezi.
