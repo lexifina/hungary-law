@@ -1,3 +1,0 @@
-## 6. § Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendelet 1. melléklet 1076, 1078, 1081 nyilvántartási számú soraiban a „járási (fővárosi kerületi) hivatalok” szövegrész helyébe a „külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok” szöveg lép.
-
-## 7. A DUNA-ETANOL Zrt. Bioetanol-Biogáz-Kiserőmű projekt Dunaalmás község közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 60/2010. (III. 18.) Korm. rendelet módosítása
