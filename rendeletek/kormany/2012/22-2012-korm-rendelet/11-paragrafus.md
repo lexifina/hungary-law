@@ -1,1 +1,0 @@
-## 10. § A NÉBIH ellátja a szakmai szintű hazai és nemzetközi állatvédelmi kapcsolattartói feladatokat, szervezi az állami állatvédelmi feladatok végrehajtását, szakmailag előkészíti az állatvédelmi szabályozást, ellátja a jogszabályban meghatározott egyéb állatvédelmi feladatokat.

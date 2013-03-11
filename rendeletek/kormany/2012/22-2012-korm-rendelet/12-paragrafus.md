@@ -1,1 +1,3 @@
-## 11. § A Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 3. §-a (1) bekezdés k) pontjában, 15. §-a (1) bekezdésének a) pontjában és 32. §-a (2) bekezdésében a Kormány élelmiszerlánc-felügyeleti szervként a NÉBIH-et jelöli ki.
+## 11. §[^14] A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény 15. § (2) bekezdés a) pontjában és 43. § (3) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a NÉBIH-et jelöli ki.
+
+[^14]: A 11. § a 68/2013. (III. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
