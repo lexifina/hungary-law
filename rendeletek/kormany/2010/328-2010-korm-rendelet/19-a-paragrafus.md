@@ -1,3 +1,3 @@
-## 19. §[^46] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. §-ának 70. pontjában és 81/A. §-ában foglaltak tekintetében – az adóhatóság és a mezőgazdasági és vidékfejlesztési támogatási szerv felé történő adatszolgáltatás kivételével – a Kormány mezőgazdasági igazgatási szervként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki.
+## 19. §[^48] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81/A. §-ában – adóhatóság, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv felé történő adatszolgáltatás, továbbá a mezőgazdasági őstermelők adatainak országos nyilvántartása kivételével –, valamint a 81/B. §-ában foglaltak tekintetében a Kormány mezőgazdasági igazgatási szervként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki. Az őstermelői igazolvány használatával kapcsolatos ellenőrzést a megyei kormányhivatal igazgatósága a járási állat-egészségügyi hivatalhoz delegált falugazdászok közreműködésével folytatja le.
 
-[^46]: A 19. § az 51/2013. (II. 25.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^48]: A 19. § a 68/2013. (III. 8.) Korm. rendelet 13. §-ával megállapított szöveg.

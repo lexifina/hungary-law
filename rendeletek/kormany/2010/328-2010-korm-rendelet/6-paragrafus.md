@@ -26,6 +26,8 @@
 
 (12)[^19] A megyei kormányhivatal növény- és talajvédelmi igazgatósága hivatalos vizsgálóhelyként a NÉBIH felkérésére közreműködik engedélyköteles termékek vizsgálatainak elvégzésében.
 
+(13)[^20] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, valamint növény- és talajvédelmi igazgatósága ellátja az ökológiai termelésről és az ökológiai termékek címkézéséről és a 2092/91/EGK rendelet hatályon kívül helyezéséről szóló, 2007. június 28-i 834/2007/EK tanácsi rendeletben, illetve az annak végrehajtására kiadott bizottsági rendeletekben az ellenőrző hatóság számára megállapított feladatokat.
+
 [^10]: A 6. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^11]: A 6. § (3) bekezdése a 24/2012. (II. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^12]: A 6. § (4) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
@@ -36,3 +38,4 @@
 [^17]: A 6. § (9) bekezdése a 24/2012. (II. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 79. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^18]: A 6. § (10) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 79. § (10) bekezdés a) pontja szerint módosított szöveg.
 [^19]: A 6. § (12) bekezdése a 24/2012. (II. 29.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^20]: A 6. § (13) bekezdését a 68/2013. (III. 8.) Korm. rendelet 9. §-a iktatta be.

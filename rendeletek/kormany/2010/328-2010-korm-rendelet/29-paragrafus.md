@@ -1,6 +1,6 @@
 ## 6. Az élelmiszerlánc-felügyeleti hatósági eljárásokban közreműködő szakhatóságok
 
-29. §[^57] (1) A Kormány a kizárólag állati eredetű melléktermékek égetését vagy együttégetését végző üzem engedélyezésére irányuló első fokú eljárásban – a hulladék égetésére vonatkozó levegőtisztaság-védelmi, hulladékgazdálkodási előírásoknak és határértékeknek való megfelelés, valamint a levegővédelmi ellenőrzések gyakorisága előírásának szakkérdésében –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+29. §[^59] (1) A Kormány a kizárólag állati eredetű melléktermékek égetését vagy együttégetését végző üzem engedélyezésére irányuló első fokú eljárásban – a hulladék égetésére vonatkozó levegőtisztaság-védelmi, hulladékgazdálkodási előírásoknak és határértékeknek való megfelelés, valamint a levegővédelmi ellenőrzések gyakorisága előírásának szakkérdésében –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
 (2) A Kormány a kísérleti vagy tudományos célú tevékenység, illetve fajtaszelekciós munka céljára a külön jogszabályban meghatározott, tilalmazott, Magyarországon nem honos károsítónak, illetve az egyéb, Magyarországon nem honos, életképes növényi károsító bármely fejlődési alakjának, tenyészetének Magyarországra való behozatala engedélyezésére irányuló első fokú eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
@@ -14,4 +14,4 @@ b) ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes
 
 (4) A Kormány a kegyeleti állattemető működésének engedélyezésére irányuló első fokú eljárásban – az egészségkárosító kockázatok és esetleges hatások felmérésére, az egészségvédelmi, a települési hulladékkal, és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésének kérdésében –, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét szakhatóságként jelöli ki.
 
-[^57]: A 29. § a 441/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^59]: A 29. § a 441/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
