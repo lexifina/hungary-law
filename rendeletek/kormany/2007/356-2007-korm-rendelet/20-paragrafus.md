@@ -2,6 +2,6 @@
 
 (2) E rendelet szabályait a hatálybalépést követően indult földhasználati bejelentési, földhasználati nyilvántartásból történő adatszolgáltatási eljárásokra kell alkalmazni.
 
-(3)[^45]
+(3)[^46]
 
-[^45]: A 20. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^46]: A 20. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
