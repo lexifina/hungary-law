@@ -1,104 +1,66 @@
-## Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolások[^478]
+## Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolások
 
-## A)[^479] A normatív hozzájárulások és támogatások, a cél- és címzett támogatás, a központosított előirányzatok elszámolása és a mutatószámok, feladatmutatók állományának alakulása
+## A) Segédtábla a támogatások elszámolása és a mutatószámok, feladatmutatók alakulásához
 
-## A) A normatív hozzájárulások és támogatások, a cél- és címzett támogatás, a központosított előirányzatok elszámolása és a mutatószámok, feladatmutatók állományának alakulása
+|  |  |  |  |  |  |  |  |  |  | Forintban |
 
-## A/1) Segédtábla a normatív hozzájárulások elszámolása és a mutatószámok, feladatmutatók alakulásához
+| A támogatás jogcíme (az éves költségvetési törvény szerint) | A költségvetési törvény alapján tervezett mutatószámok és támogatások | A kiegészítő felmérés alapján meghatározott mutatószámok és támogatások (+, –) | Évközi önkormányzatok, társulások közötti feladatátadás/átvétel (+, –) | Évközi önkormányzati körön kívülre, társuláson kívülre történő feladatátadás/átvétel (+, –) | Költségvetési törvény alapján feladatátvétellel/ feladatátadással korrigált |
 
-| Forintban |
-
-| A hozzájárulás jogcíme (az éves költségvetési törvény szerint) | Az adott évre vonatkozóan kiadott NGM rendeletben megállapított tervezet | Az adott évre vonatkozóan kiadott PM-ÖM együttes rendelet szerint a kiegészítő felmérés alapján meghatározott mutatószámok és hozzájárulások (+,-) | Évközi önkormányzatok, többcélú kistérségi társulások közötti feladatátadás/átvétel (+,-) | Évközi önkormányzati körön kívülre, többcélú kistérségi társuláson kívülre történő feladatátadás/átvétel (+,-) | Költségvetési törvény alapján feladatátvétellel/ feladatátadással korrigált |
-
-|  | mutatószám | hozzájárulás | mutatószám | hozzájárulás | mutatószám | hozzájárulás | mutatószám | hozzájárulás | mutatószám | hozzájárulás |
+|  | mutatószám | támogatás | mutatószám | támogatás | mutatószám | támogatás | mutatószám | támogatás | mutatószám | támogatás |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10= (2+4+6+8) | 11= (3+5+7+9) |
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## A/2) A normatív hozzájárulások elszámolása és a mutatószámok, feladatmutatók alakulása
-
-## Ezer forintban
-
-|  |  | Évközi változások (+, -) |  |  |
-
-| A hozzájárulás jogcíme (az éves költségvetési törvény szerint) | Költségvetési törvény alapján feladatátvétellel / feladatátadással korrigált | Április 30. | Július 31. | Október 15. | Tényleges | Év végi eltérés (+, -) December 31. |
-
-|  | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12=10- (2+4+6+8) | 13=11- (3+5+7+9) |
-
-| Összesen | 9 | 9 | 9 | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-## B)[^480] A céltámogatás elszámolása
-
 ## B) A cél- és címzett támogatás elszámolása
 
-## Ezer forintban
+|  |  |  |  |  | Ezer forintban |
 
-| TÁMOGATÁS | BERUHÁZÁS | ELŐZŐ IDŐSZAKI | TÁRGYÉVI | TÁRGYÉVI |
+|  | BERUHÁZÁS | ELŐZŐ IDŐSZAKI | TÁRGYÉVI | TÁRGYÉVI |
 
-| tervezett összes költsége | Ebből támogatás összege | beruházás összes ráfordítása | TÁMOGATÁS | beruházás tervezett ráfordítása | TÁMOGATÁS | beruházás tényleges ráfordítása | IGÉNYBE VETT TÁMOGATÁS |
+| TÁMOGATÁS | tervezett összes költsége | Ebből támogatás összege | beruházás összes ráfor- dítása | TÁMOGATÁS | beruházás tervezett ráfor- dítása | TÁMOGATÁS | beruházás tényleges ráfor- dítása | IGÉNYBE VETT TÁMOGATÁS |
 
-| Jogcíme | Kódja | eredeti | módosított | időarányos előirány-zata | igénybe vett összege | áthúzódó | tárgyévi | összes | áthúzódó | tárgyévi | összes |
+| Jogcíme | Kódja |  | eredeti | módo- sított |  | időará- nyos elő- irányzata | igénybe vett összege |  | áthú- zódó | tárgyévi | összes |  | áthú- zódó | tárgyévi | összes |
 
-| előirányzat | előirányzata | előirányzata |
+|  |  |  | előirányzat |  |  |  |  | előirányzata |  | előirányzata |  |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 
 | Céltámogatások összesen: | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Címzett támoga- tások összesen: | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Címzett támogatások összesen: | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## C)[^481]
+## C) Központosított előirányzatok és egyéb kötött felhasználású támogatások elszámolása
 
-## D)[^482] Központosított előirányzatok és egyéb kötött felhasználású támogatások elszámolása
+|  |  |  |  |  | Forintban |
 
-## D) Központosított előirányzatok és egyéb kötött felhasználású támogatások elszámolása
+|  |  | A központi | Az önkormányzat, a társulás által |
 
-| Ezer forintban |
-
-| Megevezés | Sorszám (kiemelt ei. sz.) | A központi költségvetésből támogatásként rendelkezésre bocsátott összeg | Az önkormányzat, a többcélú kistérségi társulás által |
-
-| az adott célra ténylegesen felhasznált összeg | feladattal terhelt, de fel nem használt összeg | Eltérés (4+5)-3 |
+| Megevezés | Sorszám (kiemelt ei. sz.) | költségvetésből támogatásként rendelkezésre bocsátott összeg | az adott célra ténylegesen felhasznált összeg | feladattal terhelt, de fel nem használt összeg | Eltérés (4+5)–3 |
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 | Központosított előirányzatok összesen |  |  |  |  |  |
 
-| Helyi önkormányzatok által fenntartott, illetve támogatott előadó művészeti szervezetek támogatása összesen |  |  |  |  |  |
+| Könyvtári, közművelődési és múzeumi feladatok támogatása |  |  |  |  |  |
 
-## E)[^483]
+| A települési önkormányzatok által fenntartott, támogatott előadó művészeti szervezetek támogatása összesen |  |  |  |  |  |
 
-## E) A normatív, kötött felhasználású támogatások elszámolása és a mutatószámok, feladatmutatók alakulása
+## D) A támogatások elszámolása és a mutatószámok, feladatmutatók alakulása
 
-## E/1) Segédtábla a normatív, kötött felhasználású támogatások elszámolása és a mutatószámok, feladatmutatók alakulásához
+|  |  |  |  |  |  | Forintban |
 
-| Forintban |
+|  |  | Évközi változások (+, –) |  |  | Az önkormányzat, a társulás által az adott célra dec. 31-ig tényle- gesen felhasz- nált összeg |  |
 
-| A hozzájárulás jogcíme (az éves költségvetési törvény szerint) | Az adott évre vonatkozóan kiadott NGM rendeletben megállapított tervezet | Az adott évre vonatkozóan kiadott PM-ÖM együttes rendelet szerint a kiegészítő felmérés alapján meghatározott mutatószámok és hozzájárulások (+,-) | Költségvetési törvény vonatkozó mellékletében szereplő előirányzatokkal összefüggő önkormányzatok közötti, többcélú kistérségi társulások közötti feladatátadás/átvétel (+,-) | Költségvetési törvény vonatkozó mellékletében szereplő előirányzatokkal összefüggő önkormányzati körön kívülre, többcélú kistérségi társuláson kívülre történő feladatátadás/átvétel (+,-) | Költségvetési törvény alapján feladatátvétellel/ feladatátadással korrigált |
+| A támogatás jogcíme (az éves költségvetési törvény szerint) | Költségvetési törvény alapján feladatátvétellel / feladatátadással korrigált | Április 15 | Június 15. | Október 15. | Tényleges | Év végi eltérés (+, –) mutatószám szerint december 31. | Eltérés (mutató- szám és felhasználás szerint) |
 
-|  | mutatószám | hozzájárulás | mutatószám | hozzájárulás | mutatószám | hozzájárulás | mutatószám | hozzájárulás | mutatószám | hozzájárulás |
+|  | mutató- szám | támo- gatás | mutató- szám | támo- gatás | mutató- szám | támo- gatás | mutató- szám | támo- gatás | mutató- szám | támo- gatás | mutató- szám | támo- gatás | mutató- szám | támo- gatás |  |
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10= (2+4+6+8) | 11= (3+5+7+9) |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12=10– (2+4+ 6+8) | 13=11– (3+5+ 7+9) | 14 | 15 | 16=13–[11– (14+15)] |
 
-| Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Állami támo- gatás összesen | 9 | 9 | 9 | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## E/2) A normatív, kötött felhasználású támogatások elszámolása és a mutatószámok, feladatmutatók alakulása
-
-## Forintban
-
-|  |  | Évközi változások (+, -) |  |  | Az önkormányzat, a többcélú kistérségi társulás által |  |
-
-| A hozzájárulás jogcíme (az éves költségvetési törvény szerint) | Költségvetési törvény alapján feladatátvétellel / feladatátadással korrigált | Április 30. | Július 31. | Október 15. | Tényleges | Év végi eltérés (+, -) mutatószám szerint december 31. | az adott célra dec. 31-ig tény- legesen fel- használt összeg | feladat- tal terhelt, de fel nem használt összeg | Eltérés (muta- tószám és fel- használás szerint) |
-
-|  | mutató-szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás |  |  |  |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12=10- (2+4+6+8) | 13=11- (3+5+7+9) | 14 | 15 | 16=13-[11- (14+15)] |
-
-| Állami támogatás összesen | 9 | 9 | 9 | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-## F)[^484] A helyi önkormányzatok vis maior támogatásának elszámolása
+## E) A helyi önkormányzatok vis maior támogatásának elszámolása
 
 |  |  |  |  | Forintban |
 
@@ -110,115 +72,39 @@
 
 | 9/2011. (II. 15.) Korm. rendelet alapján |  |  |  |  |
 
-## G)[^485]
+## F) Az előző évi (..... év) kötelezettségvállalással terhelt normatív, kötött felhasználású támogatások előirányzat-maradványainak elszámolása
 
-## G) A települési önkormányzatok … évi jövedelemkülönbség mérsékléssel való teljes körű elszámolása
+|  |  |  |  |  |  |  |  |  |  | Forintban |
 
-| Forintban |
-
-| Megnevezés | Sor- szám | Tény (... június 30-ai adóerőképesség) adat a mutatószám-felmérés szerinti normatív hozzájárulásokkal | Végleges (... június 30-ai adóerőképesség) adat a tényleges normatív hozzájárulásokkal | Végleges (... június 30-ai adóerőképesség) adat a mutatószám-felmérés szerinti normatív hozzájárulásokkal |
-
-| 1 | 2 | 3 | 4 | 5 |
-
-| Lakhelyen maradó SZJA |  |  |  |  |
-
-| Iparűzési adóalap (ezer forintban) |  |  |  |  |
-
-| Iparűzési adóerő-képesség |  |  |  |  |
-
-| Kiegészítés |  |  |  |  |
-
-| Beszámítás |  |  |  |  |
-
-| Önkormányzat által fizetendő összeg |  |  |  |  |
-
-| Önkormányzat részére fizetendő összeg |  |  |  |  |
-
-## H)[^486]
-
-## I)[^487]
-
-## J)[^488] Az előző évi (…… év) kötelezettségvállalással terhelt normatív, kötött felhasználású támogatások
-
-## előirányzat-maradványainak elszámolása
-
-## J) Az előző évi (..... év) kötelezettségvállalással terhelt normatív, kötött felhasználású támogatások előirányzat-maradványainak elszámolása
-
-## Forintban
-
-| Előirányzat megnevezése | Az önkormányzat, a többcélú kistérségi társulás által a tárgyévet megelőző évben fel nem használt, de feladattal terhelt összeg | Ebből a tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés |
+| Előirányzat megnevezése | Az önkormányzat, a társulás által a tárgyévet megelőző évben fel nem használt, de feladattal terhelt összeg | Ebből a tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés |
 
 | 1 | 2 | 3 | 4=3–2 |
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |
 
-## K)[^489]
+## G) Az előző évi (.....év) kötelezettségvállalással terhelt központosított előirányzatok és egyéb kötött felhasználású támogatások előirányzat-maradványainak elszámolása
 
-## K) Az előző évi (..... év) kötelezettségvállalással terhelt központosított előirányzatok és egyéb kötött felhasználású támogatások előirányzat-maradványainak elszámolása
+|  |  |  |  | Ezer forintban |
 
-| Ezer forintban |
-
-| Előirányzat megnevezése | Sor- szám | Az önkormányzat, a többcélú kistérségi társulás által a tárgyévet megelőző évben fel nem használt, de feladattal terhelt összeg | Ebből tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés |
+| Előirányzat megnevezése | Sor- szám | Az önkormányzat, a társulás által a tárgyévet megelőző évben fel nem használt, de feladattal terhelt összeg | Ebből tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés |
 
 | 1 | 2 | 3 | 4 | 5=4–3 |
 
 | Központosított előirányzatok összesen |  |  |  |  |
 
-| Helyi önkormányzatok által fenntartott, illetve támogatott előadó művészeti szervezetek támogatása összesen |  |  |  |  |
+| Helyi önkormányzatok által fenntartott, támogatott előadó művészeti szervezetek támogatása összesen |  |  |  |  |
 
-## L)[^490]
+## H) A települési önkormányzatok … (év) június 30-ai iparűzési adóerőképessége
 
-## L) A többcélú kistérségi társulások támogatásának jogcím elszámolása, valamint a mutatószámok, feladatmutatók alakulása
+| M e g n e v e z é s | Sor- szám | … (év) június 30-ai iparűzési adóerőképesség |
 
-| Forintban |
+| 1 | 2 | 3 |
 
-| A hozzájárulás jogcíme (az éves költségvetési törvény szerint) | Tényleges | Év végi eltérés (+,–) mutatószám szerint | A többcélú kistérségi társulás által | Eltérés (átcsoportosítás utáni állapot és a felhasználás, valamint kötelezettség- vállalással terhelt maradvány szerint) | Visszafizetési kötelezettség |
+| Iparűzési adóalap (ezer forintban) | 01 |  |
 
-| December 31. | A 3. oszlop adatából a feladatok közötti átcsoportosítás után az adott célra rendelkezésre álló támogatás | Az adott célra dec. 31-ig ténylegesen felhasznált összeg | Feladattal terhelt, de fel nem használt összeg |
+| Iparűzési adóerőképesség (forintban) (01.sor * 1000 * 1,4%) | 02 |  |
 
-| mutatószám | hozzájárulás | mutatószám | hozzájárulás |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9=(7+8)–6 | 10=5+9 |
-
-| Többcélú kistérségi társulások támogatása összesen |  |  |  |  |  |  |  |  |  |
-
-## M)[^491]
-
-## M) Segédtábla a többcélú kistérségi társulások támogatásának jogcím elszámolásához és a mutatószámok, feladatmutatók alakulásához
-
-| Forintban |
-
-| A hozzájárulás jogcíme (az éves költségvetési törvény és a megalapozó felmérési adatlap szerint) | A NGM rendeletben megállapított tervezett | A NGM rendeletben a kiegészítő felmérés alapján meghatározott mutatószám, hozzájárulás (+,–) | Évközi változások (+,–) | Tényleges mutatószám szerint | Év végi eltérés (+,–) mutatószám szerint December 31. |
-
-| Április 30. | Július 31. | Október 15. |
-
-| mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutató- szám | hozzá- járulás | mutatószám | hozzájárulás |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14=12–(2+4+6+8+10) | 15=13–(3+5+7+9+11) |
-
-| 01. A többcélú kistérségi társulások általános feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 02. Közoktatási intézményi feladat összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 03. Közoktatási szakszolgálati feladat összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 04. A többcélú kistérségi társulások közoktatási feladatainak támogatása összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 05. A többcélú kistérségi társulások szociális intézményi feladatainak támogatása összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 06. A többcélú kistérségi társulások szociális alapszolgáltatási feladatainak támogatása összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 07. A többcélú kistérségi társulások gyermekek átmeneti gondozási feladatainak támogatása összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 08. A többcélú kistérségi társulások gyermekjóléti alapellátási feladatainak támogatása összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 09. A többcélú kistérségi társulások mozgókönyvtári és egyes közművelődési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 10. A többcélú kistérségi társulások belső ellenőrzési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 11. Többcélú kistérségi társulások támogatása összesen: (01+02+03+04+05+06+07+08+ 09+10) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-9. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^492]
+9. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^495]
 
 Számlakeret-tükör
 
@@ -352,37 +238,7 @@ BEFEKTETETT ESZKÖZÖK
 
 149. Tenyészállatok értékhelyesbítése
 
-15. KÖZPONTI BERUHÁZÁSI KIADÁSOK
-
-151–158. Immateriális javak, tárgyi eszközök központi beruházási kiadásai
-
-151. Immateriális javak központi beruházási kiadási előirányzata
-
-152. Immateriális javak központi beruházási kiadási előirányzatának teljesítése
-
-153. Ingatlanok központi beruházási kiadási előirányzata
-
-1531. Ingatlanok (földterület nélkül) központi beruházásainak előirányzata
-
-1532. Földterület központi beruházás keretében történő vásárlásának előirányzata
-
-1533. Lakásépítés előirányzata
-
-154. Ingatlanok központi beruházási kiadási előirányzatának teljesítése
-
-1541. Ingatlanok (földterület nélkül) központi beruházás keretében történő vásárlása, létesítése
-
-1542.[^493] Földterület központi beruházás keretében történő vásárlása
-
-1543.[^494] Lakásépítés
-
-155. Gépek, berendezések és felszerelések központi beruházási kiadási előirányzata
-
-156. Gépek, berendezések és felszerelések központi beruházási kiadási előirányzatának teljesítése
-
-157. Járművek központi beruházási kiadási előirányzata
-
-158. Járművek központi beruházási kiadási előirányzatának teljesítése
+15. ÁLLAMI KÉSZLETEK, TARTALÉKOK
 
 159. Állami készletek, tartalékok
 
@@ -390,13 +246,13 @@ BEFEKTETETT ESZKÖZÖK
 
 1592. Állami készletek, tartalékok értékcsökkenése
 
-1593. Állami készletek, tartalékok beruházási kiadási előirányzatának teljesítése
+1593. Állami készletek, tartalékok felhalmozási kiadási előirányzatának teljesítése
 
-1595. Állami készletek, tartalékok beruházási kiadásainak előirányzata
+1595. Állami készletek, tartalékok felhalmozási kiadásainak előirányzata
 
-1598. Állami készletek, tartalékok beruházási kiadásaira adott előlegek állománya
+1598. Állami készletek, tartalékok felhalmozási kiadásaira adott előlegek állománya
 
-1599. Állami készletek, tartalékok beruházási kiadásaira adott előlegek értékvesztése és annak visszaírása
+1599. Állami készletek, tartalékok felhalmozási kiadásaira adott előlegek értékvesztése és annak visszaírása
 
 16. ÜZEMELTETÉSRE, KEZELÉSRE ÁTADOTT, KONCESSZIÓBA, VAGYONKEZELÉSBE ADOTT, ILLETVE VAGYONKEZELÉSBE VETT ESZKÖZÖK
 
@@ -408,9 +264,9 @@ BEFEKTETETT ESZKÖZÖK
 
 164. Koncesszióba adott eszközök értékcsökkenése
 
-165. Vagyonkezelésbe vett eszközök állománya[^495]
+165. Vagyonkezelésbe vett eszközök állománya[^496]
 
-166. Vagyonkezelésbe vett eszközök értékcsökkenése[^496]
+166. Vagyonkezelésbe vett eszközök értékcsökkenése[^497]
 
 167. Vagyonkezelésbe adott eszközök állománya
 
@@ -464,25 +320,25 @@ A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vag
 
 178. Hosszú lejáratú betétek állománya
 
-179. Tulajdoni részesedést jelentő befektetések értékhelyesbítése
+179. Tartós részesedések értékhelyesbítése
 
 18. FELÚJÍTÁSOK, BERUHÁZÁSOK ÁLTALÁNOS FORGALMI ADÓJA
 
-181. Felújítások előzetesen felszámított áfája
+181. Felújítások előzetesen felszámított általános forgalmi adója
 
-1811. Felújítások előzetesen felszámított áfájának előirányzata
+1811. Felújítások előzetesen felszámított általános forgalmi adójának előirányzata
 
-1812. Felújítások beszerzési árába beszámítandó előzetesen felszámított áfa előirányzatának teljesítése
+1812. Felújítások beszerzési árába beszámítandó előzetesen felszámított általános forgalmi adó előirányzatának teljesítése
 
-1813. Felújítások beszerzési árába be nem számítandó előzetesen felszámított áfa előirányzatának teljesítése
+1813. Felújítások beszerzési árába be nem számítandó előzetesen felszámított általános forgalmi adó előirányzatának teljesítése
 
-182. Beruházások előzetesen felszámított áfája
+182. Beruházások előzetesen felszámított általános forgalmi adója
 
-1821. Beruházások előzetesen felszámított áfájának előirányzata
+1821. Beruházások előzetesen felszámított általános forgalmi adójának előirányzata
 
-1822. Beruházások beszerzési árába beszámítandó előzetesen felszámított áfa előirányzatának teljesítése
+1822. Beruházások beszerzési árába beszámítandó előzetesen felszámított általános forgalmi adó előirányzatának teljesítése
 
-1823. Beruházások beszerzési árába be nem számítandó előzetesen felszámított áfa előirányzatának teljesítése
+1823. Beruházások beszerzési árába be nem számítandó előzetesen felszámított általános forgalmi adó előirányzatának teljesítése
 
 183. Beruházáshoz kapcsolódó általános forgalmi adó befizetés
 
@@ -498,57 +354,57 @@ A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vag
 
 185–188. Foglalt
 
-189. Számlahelyesbítés miatti felhalmozási áfa kiadás
+189. Számlahelyesbítés miatti felhalmozási általános forgalmi adó kiadás
 
-19. TARTÓSAN ADOTT KÖLCSÖNÖK (VISSZTERHESEN ÁTADOTT PÉNZESZKÖZÖK)
+19. TARTÓSAN ADOTT VISSZATÉRÍTENDŐ TÁMOGATÁSOK, KÖLCSÖNÖK (VISSZTERHESEN ÁTADOTT PÉNZESZKÖZÖK)
 
-191. Működési célú támogatási kölcsönök államháztartáson belül
+191. Működési célú visszatérítendő támogatások, kölcsönök államháztartáson belül
 
-1911. Államháztartáson belül nyújtott működési célú támogatási kölcsönök állománya
+1911. Államháztartáson belül nyújtott működési célú visszatérítendő támogatások, kölcsönök állománya
 
-1912. Működési célú támogatási kölcsön nyújtásának előirányzata ,,K''
+1912. Működési célú visszatérítendő támogatások, kölcsönök nyújtásának előirányzata „K”
 
-1913. Működési célra nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+1913. Működési célra nyújtott visszatérítendő támogatások, kölcsönök visszatérülésének előirányzata „T”
 
-1914. Működési célú támogatási kölcsön nyújtása ,,T''
+1914. Működési célú visszatérítendő támogatások, kölcsönök nyújtása „T”
 
-1915. Működési célra nyújtott támogatási kölcsön visszatérülése ,,K''
+1915. Működési célra nyújtott visszatérítendő támogatások, kölcsönök visszatérülése „K”
 
-192. Felhalmozási célú támogatási kölcsönök államháztartáson belül
+192. Felhalmozási célú visszatérítendő támogatások, kölcsönök államháztartáson belül
 
-1921. Államháztartáson belülre nyújtott felhalmozási célú támogatási kölcsönök állománya
+1921. Államháztartáson belülre nyújtott felhalmozási célú visszatérítendő támogatások, kölcsönök állománya
 
-1922. Felhalmozási célú támogatási kölcsön nyújtásának előirányzata ,,K''
+1922. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtásának előirányzata „K”
 
-1923. Felhalmozási célra nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+1923. Felhalmozási célra nyújtott visszatérítendő támogatások, kölcsönök visszatérülésének előirányzata „T”
 
-1924. Felhalmozási célú támogatási kölcsön nyújtása ,,T''
+1924. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása „T”
 
-1925. Felhalmozási célra nyújtott támogatási kölcsön visszatérülése ,,K''
+1925. Felhalmozási célra nyújtott visszatérítendő támogatások, kölcsönök visszatérülése „K”
 
-193. Működési célú támogatási kölcsönök államháztartáson kívül
+193. Működési célú visszatérítendő támogatások, kölcsönök államháztartáson kívül
 
-1931. Államháztartáson kívülre nyújtott működési célú támogatási kölcsönök állománya
+1931. Államháztartáson kívülre nyújtott működési célú visszatérítendő támogatások, kölcsönök állománya
 
-1932. Működési célú támogatási kölcsön, államháztartáson kívülre nyújtásának előirányzata ,,K''
+1932. Működési célú visszatérítendő támogatások, kölcsönök államháztartáson kívülre nyújtásának előirányzata „K”
 
-1933. Működési célra, államháztartáson kívülre nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+1933. Működési célra, államháztartáson kívülre nyújtott visszatérítendő támogatások, kölcsönök visszatérülésének előirányzata „T”
 
-1934. Működési célú támogatási kölcsön nyújtása államháztartáson kívülre ,,T''
+1934. Működési célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre „T”
 
-1935. Működési célra nyújtott támogatási kölcsön visszatérülése államháztartáson kívülről ,,K''
+1935. Működési célra nyújtott visszatérítendő támogatások, kölcsönök visszatérülése államháztartáson kívülről „K”
 
-194. Felhalmozási célú támogatási kölcsönök államháztartáson kívül
+194. Felhalmozási célú visszatérítendő támogatások, kölcsönök államháztartáson kívül
 
-1941. Államháztartáson kívülre nyújtott felhalmozási célú támogatási kölcsönök állománya
+1941. Államháztartáson kívülre nyújtott felhalmozási célú visszatérítendő támogatások, kölcsönök állománya
 
-1942. Felhalmozási célú támogatási kölcsön, államháztartáson kívülre nyújtásának előirányzata ,,K''
+1942. Felhalmozási célú visszatérítendő támogatások, kölcsönök államháztartáson kívülre nyújtásának előirányzata „K”
 
-1943. Felhalmozási célra, államháztartáson kívülre nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+1943. Felhalmozási célra, államháztartáson kívülre nyújtott visszatérítendő támogatások, kölcsönök visszatérülésének előirányzata „T”
 
-1944. Felhalmozási célú támogatási kölcsön nyújtása államháztartáson kívülre ,,T''
+1944. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre „T”
 
-1945. Felhalmozási célra nyújtott támogatási kölcsön visszatérülése államháztartáson kívülről ,,K''
+1945. Felhalmozási célra nyújtott visszatérítendő támogatások, kölcsönök visszatérülése államháztartáson kívülről „K”
 
 195. Egyéb hosszú lejáratú követelések
 
@@ -558,7 +414,7 @@ A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vag
 
 198. Hosszú lejáratú követelések értékvesztése és annak visszaírása
 
-1981. Tartósan adott kölcsönök (visszterhesen átadott pénzeszközök) értékvesztése és annak visszaírása
+1981. Tartósan adott visszatérítendő támogatások, kölcsönök (visszterhesen átadott pénzeszközök) értékvesztése és annak visszaírása
 
 1982. Egyéb hosszú lejáratú követelések értékvesztése és annak visszaírása
 
@@ -672,55 +528,55 @@ KÉSZLETEK, KÖVETELÉSEK, ÉRTÉKPAPÍROK
 
 263. Befejezetlen termelés, félkész termékek értékvesztése és annak visszaírása
 
-27. RÖVID LEJÁRATÚ TÁMOGATÁSI KÖLCSÖNÖK
+27. RÖVID LEJÁRATÚ VISSZATÉRÍTENDŐ TÁMOGATÁSOK, KÖLCSÖNÖK
 
-271. Működési célú (éven belüli) támogatási kölcsönök államháztartáson belül
+271. Működési célú (éven belüli) visszatérítendő támogatások, kölcsönök államháztartáson belül
 
-2711. Államháztartáson belül nyújtott működési célú (éven belüli) támogatási kölcsönök állománya
+2711. Államháztartáson belül nyújtott működési célú (éven belüli) visszatérítendő támogatások, kölcsönök állománya
 
-2712. Működési célú (éven belüli) támogatási kölcsön nyújtásának előirányzata ,,K''
+2712. Működési célú (éven belüli) visszatérítendő támogatások, kölcsönök nyújtásának előirányzata „K”
 
-2713. Működési célra (éven belül) nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+2713. Működési célra (éven belül) nyújtott visszatérítendő támogatások, kölcsönök visszatérülésének előirányzata „T”
 
-2714. Működési célú (éven belüli) támogatási kölcsön nyújtása ,,T''
+2714. Működési célú (éven belüli) visszatérítendő támogatások, kölcsönök nyújtása „T”
 
-2715. Működési célra (éven belül) nyújtott támogatási kölcsön visszatérülése ,,K''
+2715. Működési célra (éven belül) nyújtott visszatérítendő támogatások, kölcsönök visszatérülése „K”
 
-272. Felhalmozási célú (éven belüli) támogatási kölcsönök államháztartáson belül
+272. Felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök államháztartáson belül
 
-2721. Államháztartáson belülre nyújtott felhalmozási célú (éven belüli) támogatási kölcsönök állománya
+2721. Államháztartáson belülre nyújtott felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök állománya
 
-2722. Felhalmozási célú (éven belüli) támogatási kölcsön nyújtásának előirányzata ,,K''
+2722. Felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök nyújtásának előirányzata „K”
 
-2723. Felhalmozási célra (éven belül) nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+2723. Felhalmozási célra (éven belül) nyújtott visszatérítendő támogatások, kölcsönök visszatérülésének előirányzata „T”
 
-2724. Felhalmozási célú (éven belüli) támogatási kölcsön nyújtása ,,T''
+2724. Felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök nyújtása „T”
 
-2725. Felhalmozási célra (éven belül) nyújtott támogatási kölcsön visszatérülése ,,K''
+2725. Felhalmozási célra (éven belül) nyújtott visszatérítendő támogatások, kölcsönök visszatérülése „K”
 
-273. Működési célú (éven belüli) támogatási kölcsönök államháztartáson kívül
+273. Működési célú (éven belüli) visszatérítendő támogatások, kölcsönök államháztartáson kívül
 
-2731. Államháztartáson kívülre nyújtott működési célú (éven belüli) támogatási kölcsönök állománya
+2731. Államháztartáson kívülre nyújtott működési célú (éven belüli) visszatérítendő támogatások, kölcsönök állománya
 
-2732. Működési célú (éven belüli) támogatási kölcsön, államháztartáson kívülre nyújtásának előirányzata ,,K''
+2732. Működési célú (éven belüli) visszatérítendő támogatások, kölcsönök, államháztartáson kívülre nyújtásának előirányzata „K”
 
-2733. Működési célra (éven belül), államháztartáson kívülre nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+2733. Működési célra (éven belül), államháztartáson kívülre nyújtott visszatérítendő támogatások, kölcsönök visszatérülésének előirányzata „T”
 
-2734. Működési célú (éven belüli) támogatási kölcsön nyújtása államháztartáson kívülre ,,T''
+2734. Működési célú (éven belüli) visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre „T”
 
-2735. Működési célra nyújtott támogatási kölcsön visszatérülése államháztartáson kívülről ,,K''
+2735. Működési célra nyújtott visszatérítendő támogatások, kölcsönök visszatérülése államháztartáson kívülről „K”
 
-274. Felhalmozási célú (éven belüli) támogatási kölcsönök államháztartáson kívül
+274. Felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök államháztartáson kívül
 
-2741. Államháztartáson kívülre nyújtott felhalmozási célú (éven belüli) támogatási kölcsönök állománya
+2741. Államháztartáson kívülre nyújtott felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök állománya
 
-2742. Felhalmozási célú (éven belüli) támogatási kölcsön, államháztartáson kívülre nyújtásának előirányzata ,,K''
+2742. Felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök államháztartáson kívülre nyújtásának előirányzata „K”
 
-2743. Felhalmozási célra (éven belül), államháztartáson kívülre nyújtott támogatási kölcsön visszatérülésének előirányzata ,,T''
+2743. Felhalmozási célra (éven belül), államháztartáson kívülre nyújtott visszatérítendő támogatások, kölcsönök megtérülésének előirányzata „T”
 
-2744. Felhalmozási célú (éven belüli) támogatási kölcsön nyújtása államháztartáson kívülre ,,T''
+2744. Felhalmozási célú (éven belüli) visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre „T”
 
-2745. Felhalmozási célra (éven belül) nyújtott támogatási kölcsön visszatérülése államháztartáson kívülről ,,K''
+2745. Felhalmozási célra (éven belül) nyújtott visszatérítendő támogatások, kölcsönök visszatérülése államháztartáson kívülről „K”
 
 275. Állam által belföldre nyújtott rövid lejáratú hitelek (nemzetgazdasági elszámolások)
 
@@ -728,9 +584,9 @@ KÉSZLETEK, KÖVETELÉSEK, ÉRTÉKPAPÍROK
 
 277. Állam által nyújtott megelőlegezési hitelek, kölcsönök (nemzetgazdasági elszámolások)
 
-278. Rövid lejáratú támogatási kölcsönökkel kapcsolatos értékvesztés és annak visszaírása
+278. Rövid lejáratú visszatérítendő támogatásokkal, kölcsönökkel kapcsolatos értékvesztés és annak visszaírása
 
-279. Rövid lejáratú kölcsönök kiadás és bevétel átvezetési számlája
+279. Rövid lejáratú visszatérítendő támogatások, kölcsönök kiadás és bevétel átvezetési számlája
 
 28. KÖVETELÉSEK
 
@@ -838,13 +694,7 @@ KÉSZLETEK, KÖVETELÉSEK, ÉRTÉKPAPÍROK
 
 29. ÉRTÉKPAPÍROK
 
-291. Kárpótlási jegyek
-
-292. Kincstárjegyek
-
-293. Kötvények
-
-294. Egyéb értékpapírok
+291-294. Forgatási célú, hitelviszonyt megtestesítő értékpapírok
 
 295. Forgatási célú részesedések
 
@@ -892,7 +742,7 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 3234. Bírság beszedési számla
 
-3235. Egyéb bevételek elszámolási számlája
+3235. Egyéb közhatalmi bevételek elszámolási számlája
 
 3236. Talajterhelési díj beszedési számla
 
@@ -901,10 +751,6 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 3238. Luxusadó beszedési számla
 
 324. Költségvetési elszámolási számla lakásépítés és -vásárlás munkáltatói támogatás alcímű számlája
-
-325. Önálló működő költségvetési szervek pénzforgalmi számlái
-
-326. Önkormányzati kiskincstári finanszírozás elszámolási számla
 
 327. Deviza(betét)-számla
 
@@ -930,15 +776,21 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 33152. Nemzetközi támogatási programokhoz kapcsolódó célelszámolási számla
 
-33153. Állami felsőoktatási intézmény saját bevétel célelszámolási számla
+33153. Felsőoktatási intézmények hallgatói önköltség és adomány számla
 
 33154. MTA kutató hálózat saját bevétel célelszámolási számla
 
 33155. Központosított bevételek beszedése célelszámolási számla
 
+33156. Régészeti célelszámolási forint számla
+
 33157. PSZÁF felügyeleti bírság célelszámolási számla
 
+33159. Egyéb célelszámolási számla
+
 3316. Pályázati költségvetési lebonyolítási számla
+
+3317. Tranzakciós illeték beszedési számla
 
 3319. Különféle elkülönített számlák
 
@@ -964,13 +816,13 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 3342. Célelszámolási számla
 
-3343. Ellátási számla
+3343. Központi, területi, hivatali és egészségbiztosítási szakigazgatási szervek ellátási számlái
 
 3344. Technikai számlák
 
 3345. Megelőlegezési számla
 
-3346. Kincstári kártyafedezeti számla
+3346. Ellátási kártyafedezeti számlák
 
 3347. Előirányzat-felhasználási keret elosztási számla
 
@@ -1162,6 +1014,10 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 3575. Letéti értékpapírszámla
 
+3576. Óvadéki repóügylet számla
+
+3577. Fedezeti ügylet betéti számla
+
 358. Fedezetkezelői számla
 
 359. Egyéb lebonyolítási számlák
@@ -1169,6 +1025,14 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 3591. Nemzeti agrárkár-enyhítési lebonyolítási számla
 
 3592. Bírság beszedési lebonyolítási számla (csak központi költségvetési szervek)
+
+3593. EFER elszámolási számla
+
+3594. Neptun gyűjtő számla
+
+3595. Természetbeni családtámogatási számla
+
+3596. Gyermektartásdíjak megelőlegezése számla
 
 3598. Egyéb különféle lebonyolítási számla
 
@@ -1179,10 +1043,6 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 362. Nemzetközi támogatási programok lebonyolítási számlái
 
 3621. Előcsatlakozási alapokkal kapcsolatos lebonyolítási számla
-
-36211. PHARE lebonyolítási számla
-
-36212. Átmeneti Támogatás lebonyolítási számla
 
 36213. SAPARD lebonyolítási számla
 
@@ -1310,10 +1170,6 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 3681. Előcsatlakozási alapok közösségi forrás számlái
 
-36811. PHARE közösségi számla
-
-36812. Átmeneti Támogatás közösségi számla
-
 36813. SAPARD közösségi számla
 
 3682. NFT-1-hez tartozó támogatási programok közösségi forrás számlái
@@ -1378,22 +1234,1192 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 36851. EMVA NVT-1-hez tartozó vidékfejlesztési támogatás közösségi forrás számla
 
-[^478]: A 8. számú melléklet címe a 359/2006. (XII. 27.) Korm. rendelet 27. § (4) bekezdésével megállapított szöveg.
-[^479]: A 8. számú melléklet A) pontjának A/1) és A/2) táblázata a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. A 8. számú melléklet A) pontjának A/1) táblázata a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^480]: A 8. számú melléklet B) pontja a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést először a 2009. évről készített éves költségvetési beszámolóra kell alkalmazni.
-[^481]: A 8. számú melléklet C) pontját a 328/2008. (XII. 30.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^482]: A 8. számú melléklet D) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^483]: A 8. számú melléklet E) pontjának E/1) és E/2) táblázata a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. A 8. számú melléklet E) pontjának E/1) táblázata a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^484]: A 8. számú melléklet F) pontját a 383/2004. (XII. 29.) Korm. rendelet 26. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 369/2011. (XII. 31.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^485]: A 8. számú melléklet G) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^486]: A 8. számú melléklet H) pontját a 350/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése hatályon kívül helyezte.
-[^487]: A 8. számú melléklet I) pontját a 319/2005. (XII. 26.) Korm. rendelet 23. § (4) bekezdése hatályon kívül helyezte.
-[^488]: A 8. számú melléklet J) pontja a 319/2005. (XII. 26.) Korm. rendelet 19. § (1) bekezdésével megállapított és a 359/2006. (XII. 27.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 26. § (1) bekezdését.
-[^489]: A 8. számú melléklet K) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^490]: A 8. számú melléklet L) pontját a 317/2009. (XII. 29.) Korm. rendelet 37. § (5) bekezdése iktatta be. E módosító rendelet 40. § (1) bekezdése alapján rendelkezéseit először a 2010. évről készített beszámolókra kell alkalmazni.
-[^491]: A 8. számú melléklet M) pontját a 317/2009. (XII. 29.) Korm. rendelet 37. § (5) bekezdése iktatta be, szövege a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^492]: A 9. számú melléklet „Számlakerettükör” része a 141/2001. (VIII. 8.) Korm. rendelet 44. § a) pontja, a 383/2004. (XII. 29.) Korm. rendelet 25. §-ának (8) bekezdése, a 319/2005. (XII. 26.) Korm. rendelet 19. § (2) bekezdése, a 359/2006. (XII. 27.) Korm. rendelet 23. § (4) bekezdése, a 400/2007. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 7. § a) pontja, a 328/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 37. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni. A 9. melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (6) bekezdése, a 369/2011. (XII. 31.) Korm. rendelet 20. § (3) bekezdése szerint módosított szöveg.
-[^493]: A Magyar Közlöny 2001. évi 7. számában közzétett helyesbítésnek megfelelő szöveg.
-[^494]: A Magyar Közlöny 2001. évi 7. számában közzétett helyesbítésnek megfelelő szöveg.
-[^495]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
+36852. EMVA NVT-2-höz tartozó agrár- és vidékfejlesztési terv közösségi forrás számla
+
+36853. EMGA közösségi forrás számla
+
+36854. EHA által finanszírozott operatív program közösségi forrás számla
+
+36859. Egyéb EU-s agrár támogatási programok közösségi forrás számla
+
+3686. Egyéb Európai Uniós támogatási programok közösségi forrás számlái
+
+36861. Schengeni Alap közösségi forrás számla
+
+36862. Közösségi kezdeményezések közösségi forrás számlái
+
+368621. INTERREG közösségi forrás számla
+
+368622. EQUAL közösségi forrás számla
+
+36863. Belső politikák jogcímen nyújtott támogatások közösségi forrás számla
+
+36864. TEN-T támogatás közösségi forrás számlája
+
+36865. EGT/Norvég Finanszírozási Mechanizmus közösségi forrás számlája
+
+36866. Területi Együttműködés támogatásának közösségi forrás számlái
+
+368661. Európai Területi Együttműködés támogatás közösségi forrás számlái
+
+368662. INTERACT támogatás közösségi forrás számlája
+
+36867. Svájci Alap támogatás közösségi forrás számlája
+
+36868. Szolidaritási programok közösségi forrás számlái
+
+368681. Európai Menekültügyi Alap közösségi forrás számlája
+
+368682. Integrációs Alap közösségi forrás számlája
+
+368683. Visszatérési Alap közösségi forrás számlája
+
+368684. Külső Határok Alap közösségi forrás számlája
+
+368689. Technikai segítségnyújtás közösségi forrás számla
+
+3687. NATO Biztonsági Beruházási program közösségi forrás számlája
+
+3689. Egyéb különféle nemzetközi támogatási program közösségi forrás számlái
+
+36891. EU Kutatási, Technológiafejlesztési és Demonstrációs Tevékenységekre vonatkozó programjának közösségi forrás számlája
+
+36892. Közvetlenül pályázott nemzetközi támogatási program közösségi forrás számlája
+
+36899. Különféle egyéb nemzetközi támogatási program közösségi forrás számla
+
+369. Nemzetközi támogatási programok idegen pénzeszközeinek értékvesztése és annak visszaírása
+
+37. TÁMOGATÁSÉRTÉKŰ KIADÁSOK, TÁMOGATÁSOK FOLYÓSÍTÁSA ÉS FEJEZETI ELSZÁMOLÁSOK
+
+371. Irányítás (felügyelet) alá tartozó költségvetési szervnek folyósított támogatás (csak önkormányzat és tb pénzügyi alapjai)
+
+3711. Irányítás (felügyelet) alá tartozó költségvetési szervnek folyósított támogatás előirányzata
+
+3712. Irányítás (felügyelet) alá tartozó költségvetési szervnek folyósított támogatás előirányzatának teljesítése
+
+372. FOGLALT
+
+373. Működési célú támogatásértékű kiadások elszámolása
+
+3731. Működési célú támogatásértékű kiadás előirányzata
+
+3732. Működési célú támogatásértékű kiadás előirányzatának teljesítése
+
+3733. Működési célú, támogatási program előlegére támogatásértékű kiadás előirányzatának teljesítése
+
+374. Felhalmozási célú támogatásértékű kiadások elszámolása
+
+3741. Felhalmozási célú támogatásértékű kiadás előirányzata
+
+3742. Felhalmozási célú támogatásértékű kiadás előirányzatának teljesítése
+
+3743. Felhalmozási célú, támogatási program előlegére támogatásértékű kiadás előirányzatának teljesítése
+
+375. Központi költségvetésből folyósított államháztartáson belüli támogatások (nemzetgazdasági elszámolások)
+
+376. Garancia- és kezességvállalásból származó kifizetések államháztartáson belülre
+
+3761. Garancia- és kezességvállalásból származó kifizetések előirányzata államháztartáson belülre
+
+3762. Garancia- és kezességvállalásból származó kifizetések előirányzatának teljesítése államháztartáson belülre
+
+377. Tb pénzügyi alapok ellátási kiadásainak elszámolása
+
+3773. Ellátási kiadások alapon belüli elszámolása
+
+378. Fejezeti év végi maradványelszámolási számla kiadásainak elszámolása
+
+379. Foglalt
+
+38. ÁLLAMHÁZTARTÁSON KÍVÜLRE VÉGLEGES PÉNZESZKÖZÁTADÁSOK ELSZÁMOLÁSA
+
+381. Működési célú pénzeszközátadás államháztartáson kívülre
+
+3811. Működési célú pénzeszközátadás előirányzata államháztartáson kívülre
+
+3812. Működési célú pénzeszközátadás előirányzatának teljesítése államháztartáson kívülre
+
+3813. Működési célú, támogatási program előlegére pénzeszközátadás előirányzatának teljesítése államháztartáson kívülre
+
+382. Felhalmozási célú pénzeszközátadás államháztartáson kívülre
+
+3821. Felhalmozási célú pénzeszközátadás előirányzata államháztartáson kívülre
+
+3822. Felhalmozási célú pénzeszközátadás előirányzatának teljesítése államháztartáson kívülre
+
+3823. Felhalmozási célú, támogatási program előlegére pénzeszközátadás előirányzatának teljesítése államháztartáson kívülre
+
+383. Lakástámogatás elszámolása
+
+3831. Lakástámogatás előirányzata
+
+3832. Lakástámogatás előirányzatának teljesítése
+
+384. Foglalt
+
+385. Központi költségvetésből folyósított államháztartáson kívüli támogatások (nemzetgazdasági elszámolások)
+
+386. Garancia- és kezességvállalásból származó pénzeszközátadás államháztartáson kívülre
+
+3861. Garancia- és kezességvállalásból származó pénzeszközátadás előirányzata államháztartáson kívülre
+
+3862. Garancia- és kezességvállalásból származó pénzeszközátadás előirányzatának teljesítése államháztartáson kívülre
+
+387–388. Foglalt
+
+389. Támogatásértékű kiadás, pénzeszközátadás átvezetési számlája
+
+39. FÜGGŐ, ÁTFUTÓ ÉS KIEGYENLÍTŐ KIADÁSOK
+
+391–394. Költségvetési elszámolásokat érintő függő, átfutó és kiegyenlítő kiadások
+
+391. Költségvetési függő kiadások
+
+3911. Költségvetési intézményi függő kiadások
+
+3912. Kincstári ügyfelek munkabér megelőlegezési számlája (nemzetgazdasági elszámolások)
+
+392. Költségvetési átfutó kiadások
+
+3921. Személyi juttatásokkal kapcsolatos átfutó kiadások
+
+3922. Munkavállalókkal kapcsolatos átfutó kiadások
+
+3923. Megelőlegezett társadalombiztosítási és családtámogatási ellátások
+
+3924. Utólagos elszámolásra kiadott előlegek átfutó kiadásai
+
+3925. Szállítóknak (beruházási előlegek kivételével) adott előlegek
+
+3926. Utólag finanszírozott nemzetközi támogatási programok átfutó kiadásai
+
+3927. Kincstári ügyfelek átfutó kiadásai (nemzetgazdasági elszámolások)
+
+3928. Nemzetgazdasági elszámolások átfutó kiadásai
+
+3929. Egyéb átfutó kiadások
+
+394. Költségvetési kiegyenlítő kiadások
+
+3941. Elszámolási és pénzforgalmi számlák közötti átvezetések
+
+3942. Helyiadó-beszedési számlák közötti átvezetések
+
+3943. Kincstári ügyfelek kiegyenlítő kiadásai (nemzetgazdasági elszámolások)
+
+3944. Nemzetgazdasági elszámolások kiegyenlítő kiadásai
+
+3945. KESZ kiegyenlítő kiadásai (nemzetgazdasági elszámolások)
+
+3946. Kincstári körön belüli kiegyenlítő kiadások (nemzetgazdasági elszámolások)
+
+395. Fejezeti előirányzat-felhasználási keret elosztás átfutó kiadásai
+
+396. Megtérítendő ellátások elszámolása számla
+
+398. Nemzetközi támogatásokhoz kapcsolódó költségvetési átfutó kiadások
+
+3981. EMVA-ból érkező NVT-1-hez tartozó vidékfejlesztési támogatás költségvetési átfutó kiadásai
+
+3982. EMVA-ból érkező NVT-2-höz tartozó agrár- és vidékfejlesztési terv költségvetési átfutó kiadásai
+
+3983. EMGA-ból érkező agrártámogatás költségvetési átfutó kiadásai
+
+39831. EMGA mezőgazdasági termelők közvetlen támogatás átfutó kiadásai
+
+39832. EMGA agrárpiaci támogatás átfutó kiadásai
+
+398321. EMGA belpiaci intézkedés átfutó kiadásai
+
+398322. EMGA exporttámogatás átfutó kiadásai
+
+39833. EMGA intervenciós kifizetések átfutó kiadásai
+
+3984. EHA-ból finanszírozott operatív program költségvetési átfutó kiadásai
+
+3986. Cukorágazati hozzájárulás megelőlegezéshez kapcsolódó átfutó kiadások
+
+399. Költségvetésen kívüli függő, átfutó és kiegyenlítő kiadások
+
+4. Számlaosztály
+
+FORRÁSOK (PASSZÍVÁK)
+
+41. SAJÁT TŐKE
+
+411. Tartós tőke
+
+4111. Kezelésbe vett eszközök tartós tőkéje
+
+4112. Saját tulajdonban lévő eszközök tartós tőkéje
+
+412. Kezelésbe vett eszközök tőkeváltozása
+
+4121. Előző évek kezelt tőkeváltozásai
+
+4122. Tárgyévi pénzforgalommal kapcsolatos kezelt tőkeváltozások
+
+4123. Tárgyévi pénzforgalom nélküli kezelt tőkeváltozások
+
+41231. Tranzakciós partnerhez kapcsolódó pénzforgalom nélküli kezelt tőkeváltozások
+
+41232. Tranzakciós partnerhez nem kapcsolódó pénzforgalom nélküli kezelt tőkeváltozások
+
+41233. Terv szerinti értékcsökkenés miatti kezelt tőkeváltozások
+
+41234. Piaci érték változása miatti terven felüli értékcsökkenés kezelt tőkeváltozása
+
+41235. Egyéb terven felüli értékcsökkenés kezelt tőkeváltozása
+
+41236. Eszközök értékvesztéséhez kapcsolódó kezelt tőkeváltozás
+
+41237. Külföldi pénzértékre szóló eszközök (kivéve a valuta-, devizakészlet) év végi értékeléséhez kapcsolódó kezelt tőkeváltozása
+
+41238. Kezelt eszközök értékesítésével kapcsolatos veszteség jellegű különbözet
+
+413. Saját tulajdonban lévő eszközök tőkeváltozása
+
+4131. Előző évek saját tőkeváltozásai
+
+4132. Tárgyévi pénzforgalommal kapcsolatos saját tőkeváltozások
+
+4133. Tárgyévi pénzforgalom nélküli saját tőkeváltozások
+
+41331. Tranzakciós partnerhez kapcsolódó pénzforgalom nélküli saját tőkeváltozások
+
+41332. Tranzakciós partnerhez nem kapcsolódó pénzforgalom nélküli saját tőkeváltozások
+
+41333. Terv szerinti értékcsökkenés miatti saját tőkeváltozások
+
+41334. Piaci érték változása miatti terven felüli értékcsökkenés saját tőkeváltozása
+
+41335. Egyéb terven felüli értékcsökkenés saját tőkeváltozása
+
+41336. Eszközök értékvesztéséhez kapcsolódó saját tőkeváltozás
+
+41337. Külföldi pénzértékre szóló eszközök (kivéve a valuta-, devizakészlet) év végi értékeléséhez kapcsolódó saját tőkeváltozása
+
+41338. Saját tulajdonban lévő eszközök értékesítésével kapcsolatos veszteség jellegű különbözet
+
+414. Sajátos tőkeváltozások (nemzetgazdasági elszámolások)
+
+415–416. Foglalt
+
+417. Értékelési tartalék
+
+4171. Kezelésbe vett eszközök értékelési tartaléka
+
+4172. Saját tulajdonban lévő eszközök értékelési tartaléka
+
+42. TARTALÉKOK
+
+421. Költségvetési tartalékok
+
+4211. Költségvetési tartalék elszámolása
+
+4212. Költségvetési pénzmaradvány
+
+42121. Költségvetési működési célú pénzmaradvány
+
+42122. Költségvetési felhalmozási célú pénzmaradvány
+
+4214. Előző év(ek) költségvetési tartalékának elszámolása
+
+422. Vállalkozási tartalék
+
+4221. Tárgyévi vállalkozási tartalék elszámolása
+
+4222. Előző év(ek) vállalkozási maradványa
+
+4223. Elkülönített vállalkozási maradvány
+
+4224. Előző év(ek) vállalkozási tartalékának elszámolása
+
+423. Foglalt
+
+424. Előirányzat-maradvány számla
+
+4241. Működési célú előirányzat-maradvány számla
+
+4242. Felhalmozási célú előirányzat-maradvány számla
+
+425. Költségvetési kiadási megtakarítás (többlet) elszámolása
+
+426. Költségvetési bevételi többlet (lemaradás) elszámolása
+
+427. Vállalkozási kiadási megtakarítás (többlet) elszámolása
+
+428. Vállalkozási bevételi többlet (lemaradás) elszámolása
+
+43. HOSSZÚ LEJÁRATÚ KÖTELEZETTSÉGEK
+
+431. Hosszú lejáratú hitelek pénzügyi vállalkozásoktól
+
+4311. Pénzügyi vállalkozásoktól felvett hosszú lejáratú hitelek állománya
+
+43111. Pénzügyi vállalkozásoktól felvett fejlesztési célú hitelek állománya
+
+431111. Pénzügyi vállalkozásoktól felvett fejlesztési célú hitelek mérlegfordulónapot követő törlesztő részletek állománya
+
+431112. Pénzügyi vállalkozásoktól felvett fejlesztési célú hitelek következő évek törlesztő részleteinek állománya
+
+43112. Pénzügyi vállalkozásoktól felvett működési célú hitelek állománya
+
+431121. Pénzügyi vállalkozásoktól felvett működési célú hitelek mérlegfordulónapot követő törlesztő részletek állománya
+
+431122. Pénzügyi vállalkozásoktól felvett működési célú hitelek következő évek törlesztő részleteinek állománya
+
+4312. Pénzügyi vállalkozásnak hosszú lejáratú hitel törlesztés, visszafizetés előirányzata „K”
+
+43121. Pénzügyi vállalkozásnak fejlesztési célú hitel törlesztés, visszafizetés előirányzata
+
+43122. Pénzügyi vállalkozásnak működési célú hitel törlesztés, visszafizetés előirányzata
+
+4313. Pénzügyi vállalkozástól hosszú lejáratú hitel felvételének előirányzata „T”
+
+43131. Pénzügyi vállalkozástól fejlesztési célú hitel felvételének előirányzata
+
+43132. Pénzügyi vállalkozástól működési célú hitel felvételének előirányzata
+
+4314. Pénzügyi vállalkozásnak hosszú lejáratú hitelek törlesztése, visszafizetése „T”
+
+43141. Fejlesztési célú hitelek törlesztése, visszafizetése pénzügyi vállalkozásnak
+
+43142. Működési célú hitelek törlesztése, visszafizetése pénzügyi vállalkozásnak
+
+4315. Pénzügyi vállalkozásoktól hosszú lejáratú hitelek felvétele „K”
+
+43151. Fejlesztési célú hitelek felvétele pénzügyi vállalkozástól
+
+43152. Működési célú hitelek felvétele pénzügyi vállalkozástól
+
+432. Hosszú lejáratú hitel egyéb belföldi forrásból
+
+4321. Egyéb belföldi forrásból felvett hosszú lejáratú hitelek állománya
+
+43211. Egyéb belföldi forrásból felvett fejlesztési célú hitelek állománya
+
+432111. Egyéb belföldi forrásból felvett fejlesztési célú hitelek mérlegfordulónapot követő törlesztő részletek állománya
+
+432112. Egyéb belföldi forrásból felvett fejlesztési célú hitelek következő évek törlesztő részleteinek állománya
+
+43212. Egyéb belföldi forrásból felvett működési célú hitelek állománya
+
+432121. Egyéb belföldi forrásból felvett működési célú hitelek mérlegfordulónapot követő törlesztő részletek állománya
+
+432122. Egyéb belföldi forrásból felvett működési célú hitelek következő évek törlesztő részleteinek állománya
+
+4322. Egyéb belföldi forrásból származó hosszú lejáratú hitel törlesztés, visszafizetés előirányzata „K”
+
+43221. Egyéb belföldi forrásból származó fejlesztési célú hitel törlesztés, visszafizetés előirányzata
+
+43222. Egyéb belföldi forrásból származó működési célú hitel törlesztés, visszafizetés előirányzata
+
+4323. Egyéb belföldi forrásból hosszú lejáratú hitel felvételének előirányzata „T”
+
+43231. Egyéb belföldi forrásból fejlesztési célú hitel felvételének előirányzata
+
+43232. Egyéb belföldi forrásból működési célú hitel felvételének előirányzata
+
+4324. Egyéb belföldi forrásból származó hosszú lejáratú hitelek törlesztése, visszafizetése „T”
+
+43241. Egyéb belföldi forrásból származó fejlesztési célú hitelek törlesztése, visszafizetése
+
+43242. Egyéb belföldi forrásból származó működési célú hitelek törlesztése, visszafizetése
+
+4325. Egyéb forrásból származó hosszú lejáratú hitelek felvétele „K”
+
+43251. Fejlesztési célú hitelek felvétele egyéb belföldi forrásból
+
+43252. Működési célú hitelek felvétele egyéb belföldi forrásból
+
+433. Hosszú lejáratú külföldi hitelek
+
+4331. Hosszú lejáratú külföldi hitelek állománya
+
+43311. Hosszú lejáratú külföldi hitelek mérlegfordulónapot követő törlesztő részletek állománya
+
+43312. Hosszú lejáratú külföldi hitelek következő évek törlesztő részleteinek állománya
+
+4332. Hosszú lejáratú külföldi hitel visszafizetésének előirányzata ,,K''
+
+4333. Hosszú lejáratú külföldi hitel felvételének előirányzata ,,T''
+
+4334. Hosszú lejáratú külföldi hitelek visszafizetése ,,T''
+
+4335. Hosszú lejáratú külföldi hitelek felvétele ,,K''
+
+434. Tartozás kötvénykibocsátásból
+
+4341. Hosszú lejáratú tartozás állománya kötvénykibocsátásból
+
+43411. Fejlesztési célú kötvénykibocsátás tartozás állománya
+
+434111. Fejlesztési célú belföldi kötvénykibocsátás tartozás állománya
+
+4341111. Fejlesztési célú belföldi kötvénykibocsátás tartozás mérlegfordulónapot követő törlesztő részletek állománya
+
+4341112. Fejlesztési célú belföldi kötvénykibocsátás tartozás következő évek törlesztő részleteinek állománya
+
+434112. Fejlesztési célú külföldi kötvénykibocsátás tartozás állománya
+
+4341121. Fejlesztési célú külföldi kötvénykibocsátás tartozás mérlegfordulónapot követő törlesztő részletek állománya
+
+4341122. Fejlesztési célú külföldi kötvénykibocsátás tartozás következő évek törlesztő részleteinek állománya
+
+43412. Működési célú kötvénykibocsátás tartozás állománya
+
+434121. Működési célú belföldi kötvénykibocsátás tartozás állománya
+
+4341211. Működési célú belföldi kötvénykibocsátás tartozás mérlegfordulónapot követő törlesztő részletek állománya
+
+4341212. Működési célú belföldi kötvénykibocsátás tartozás következő évek törlesztő részleteinek állománya
+
+434122. Működési célú külföldi kötvénykibocsátás tartozás állománya
+
+4341221. Működési célú külföldi kötvénykibocsátás tartozás mérlegfordulónapot követő törlesztő részletek állománya
+
+4341222. Működési célú külföldi kötvénykibocsátás tartozás következő évek törlesztő részleteinek állománya
+
+43413. Központi költségvetés hosszú lejáratú belföldi kötvénykibocsátás tartozás állománya (nemzetgazdasági elszámolások)
+
+43414. Központi költségvetés hosszú lejáratú külföldi kötvénykibocsátás tartozás állománya (nemzetgazdasági elszámolások)
+
+4342. Hosszú lejáratú kötvénykibocsátás kiadási előirányzata „K”
+
+43421. Fejlesztési célú kötvénykibocsátás kiadási előirányzata
+
+43422. Működési célú kötvénykibocsátás kiadási előirányzata
+
+43423. Központi költségvetés hosszú lejáratú belföldi kötvénykibocsátás kiadási előirányzata (nemzetgazdasági elszámolások)
+
+43424. Központi költségvetés hosszú lejáratú külföldi kötvénykibocsátás kiadási előirányzata (nemzetgazdasági elszámolások)
+
+4343. Hosszú lejáratú kötvénykibocsátás bevételi előirányzata „T”
+
+43431. Fejlesztési célú kötvénykibocsátás bevételi előirányzata
+
+43432. Működési célú kötvénykibocsátás bevételi előirányzata
+
+43433. Központi költségvetés hosszú lejáratú belföldi kötvénykibocsátás bevételi előirányzata (nemzetgazdasági elszámolások)
+
+43434. Központi költségvetés hosszú lejáratú külföldi kötvénykibocsátás bevételi előirányzata (nemzetgazdasági elszámolások)
+
+4344. Hosszú lejáratra kibocsátott kötvény beváltása „T”
+
+43441. Fejlesztési célra kibocsátott kötvény beváltása
+
+43442. Működési célra kibocsátott kötvény beváltása
+
+43443. Központi költségvetés hosszú lejáratú belföldi kötvény beváltása (nemzetgazdasági elszámolások)
+
+43444. Központi költségvetés hosszú lejáratú külföldi kötvény beváltása (nemzetgazdasági elszámolások)
+
+4345. Hosszú lejáratú kötvénykibocsátás bevétele „K”
+
+43451. Fejlesztési célú kötvénykibocsátás bevétele
+
+43452. Működési célú kötvénykibocsátás bevétele
+
+43453. Központi költségvetés hosszú lejáratú belföldi kötvénykibocsátás bevétele (nemzetgazdasági elszámolások)
+
+43454. Központi költségvetés hosszú lejáratú külföldi kötvénykibocsátás bevétele (nemzetgazdasági elszámolások)
+
+435–436. Tartozás (éven túli) visszatérítendő kapott támogatások, kölcsönök igénybevételéből
+
+435. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönöl államháztartáson belülről
+
+4351. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönök állománya
+
+43511. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönök mérlegfordulónapot követő törlesztő részletek állománya
+
+43512. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönök következő évek törlesztő részleteinek állománya
+
+4352. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönök törlesztésének előirányzata „K”
+
+4353. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönök igénybevételének előirányzata „T”
+
+4354. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönök törlesztése, visszafizetése „T”
+
+4355. Működési célú (éven túli) visszatérítendő kapott támogatások, kölcsönök igénybevétele „K”
+
+436. Felhalmozási célú (éven túli) visszatérítendő támogatások, kölcsönök államháztartáson belülről
+
+4361. Felhalmozási célú (éven túli) visszatérítendő kapott támogatások, kölcsönök állománya
+
+43611. Felhalmozási célú (éven túli) visszatérítendő kapott támogatások, kölcsönök mérlegfordulónapot követő törlesztő részletek állománya
+
+43612. Felhalmozási célú (éven túli) visszatérítendő kapott támogatások, kölcsönök következő évek törlesztő részleteinek állománya
+
+4362. Felhalmozási célú (éven túli) visszatérítendő kapott támogatások, kölcsönök törlesztésének előirányzata „K”
+
+4363. Felhalmozási célú (éven túli) visszatérítendő kapott támogatások, kölcsönök igénybevételének előirányzata „T”
+
+4364. Felhalmozási célú (éven túli) visszatérítendő kapott támogatások, kölcsönök törlesztése, visszafizetése „T”
+
+4365. Felhalmozási célú (éven túli) visszatérítendő kapott támogatások, kölcsönök igénybevétele „K”
+
+437. Pénzügyi lízing miatti kötelezettségek
+
+438. Egyéb hosszú lejáratú kötelezettségek
+
+4381. Kezelésbe átvett kincstári vagyon miatti kötelezettség
+
+4382. Kezelésbe átvett önkormányzati vagyon miatti kötelezettségek
+
+4384. Átvállalt hosszú lejáratú kötelezettségek
+
+4385. Hosszú lejáratú kötelezettségek magánszeméllyel szemben
+
+4386. Hosszú lejáratú szállítói tartozások
+
+43861. Belföldi hosszú lejáratú szállítói szállítók
+
+438611. Államháztartáson belüli hosszú lejáratú belföldi beruházási szállítók állománya
+
+438612. Államháztartáson kívüli hosszú lejáratú belföldi beruházási szállítók állománya
+
+438613. Államháztartáson belüli hosszú lejáratú belföldi egyéb szállítók állománya
+
+438614. Államháztartáson kívüli hosszú lejáratú belföldi egyéb szállítók állománya
+
+438615. Nem számlázott államháztartáson belüli hosszú lejáratú belföldi szállítások
+
+438619. Nem számlázott államháztartáson kívüli hosszú lejáratú belföldi szállítások
+
+43862. Európai Uniós tagország szerinti (EU-s) hosszú lejáratú külföldi szállító
+
+438621. EU-s külföldi hosszú lejáratú beruházási szállítók állománya
+
+438623. Külföldi egyéb hosszú lejáratú szállítók állománya
+
+438629. Nem számlázott EU-s szállítások
+
+43863. Nem Európai Uniós ország szerinti (nem EU-s) külföldi hosszú lejáratú szállító
+
+438631. Nem EU-s külföldi hosszú lejáratú beruházási szállítók állománya
+
+438632. Nem EU-s külföldi hosszú lejáratú egyéb szállítók állománya
+
+438639. Nem számlázott nem EU-s külföldi hosszú lejáratú szállítások
+
+4389. Különféle egyéb hosszú lejáratú kötelezettségek
+
+439. Hosszú lejáratú kötelezettségek kiadás és bevétel átvezetési számlája
+
+44–45. RÖVID LEJÁRATÚ KÖTELEZETTSÉGEK
+
+441. Belföldi szállítók
+
+4411. Államháztartáson belüli belföldi beruházási szállítók állománya
+
+44111. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson belüli belföldi beruházási szállítók állománya
+
+44112. Tárgyévi költségvetést terhelő folyó évi államháztartáson belüli belföldi beruházási szállítók állománya
+
+44113. Tárgyévet követő évet terhelő államháztartáson belüli belföldi beruházási szállítók állománya
+
+4412. Államháztartáson kívüli belföldi beruházási szállítók állománya
+
+44121. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson kívüli belföldi beruházási szállítók állománya
+
+44122. Tárgyévi költségvetést terhelő folyó évi államháztartáson kívüli belföldi beruházási szállítók állománya
+
+44123. Tárgyévet követő évet terhelő államháztartáson kívüli belföldi beruházási szállítók állománya
+
+4413. Államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+44131. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+44132. Tárgyévi költségvetést terhelő folyó évi államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+44133. Tárgyévet követő évet terhelő államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+4414. Államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+44141. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+44142. Tárgyévi költségvetést terhelő folyó évi államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+44143. Tárgyévet követő évet terhelő államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó belföldi kötelezettségek
+
+4415. Államháztartáson belüli belföldi egyéb szállítók állománya
+
+44151. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson belüli belföldi egyéb szállítók állománya
+
+44152. Tárgyévi költségvetést terhelő folyó évi államháztartáson belüli belföldi egyéb szállítók állománya
+
+44153. Tárgyévet követő évet terhelő államháztartáson belüli belföldi egyéb szállítók állománya
+
+4416. Államháztartáson kívüli belföldi egyéb szállítók állománya
+
+44161. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson kívüli belföldi egyéb szállítók állománya
+
+44162. Tárgyévi költségvetést terhelő folyó évi államháztartáson kívüli belföldi egyéb szállítók állománya
+
+44163. Tárgyévet követő évet terhelő államháztartáson kívüli belföldi egyéb szállítók állománya
+
+4417. Nem számlázott államháztartáson belüli belföldi szállítások
+
+4418. Nem számlázott államháztartáson kívüli belföldi szállítások
+
+442. Európai Uniós tagország szerinti (EU-s) külföldi szállító
+
+4421. EU-s külföldi beruházási szállítók állománya
+
+44211. Tárgyévi költségvetést terhelő előző év(ek) EU-s külföldi beruházási szállítók állománya
+
+44212. Tárgyévi költségvetést terhelő folyó évi EU-s külföldi beruházási szállítók állománya
+
+44213. Tárgyévet követő évet terhelő EU-s külföldi beruházási szállítók állománya
+
+4422. Államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+44221. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+44222. Tárgyévi költségvetést terhelő folyó évi államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+44223. Tárgyévet követő évet terhelő államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+4423. Államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+44231. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+44232. Tárgyévi költségvetést terhelő folyó évi államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+44233. Tárgyévet követő évet terhelő államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó EU-s külföldi kötelezettségek
+
+4424. Külföldi egyéb szállítók állománya
+
+44241. Tárgyévi költségvetést terhelő előző év(ek) EU-s külföldi egyéb szállítók állománya
+
+44242. Tárgyévi költségvetést terhelő folyó évi EU-s külföldi egyéb szállítók állománya
+
+44243. Tárgyévet követő évet terhelő EU-s külföldi egyéb szállítók állománya
+
+4425. Nem számlázott EU-s szállítások
+
+443. Nem Európai Uniós ország szerinti (nem EU-s) külföldi szállító
+
+4431. Nem EU-s külföldi beruházási szállítók állománya
+
+44311. Tárgyévi költségvetést terhelő előző év(ek) nem EU-s külföldi beruházási szállítók állománya
+
+44312. Tárgyévi költségvetést terhelő folyó évi nem EU-s külföldi beruházási szállítók állománya
+
+44313. Tárgyévet követő évet terhelő nem EU-s külföldi beruházási szállítók állománya
+
+4432. Államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+44321. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+44322. Tárgyévi költségvetést terhelő folyó évi államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+44323. Tárgyévet követő évet terhelő államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+4433. Államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+44331. Tárgyévi költségvetést terhelő előző év(ek) államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+44332. Tárgyévi költségvetést terhelő folyó évi államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+44333. Tárgyévet követő évet terhelő államháztartáson kívülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó nem EU-s külföldi kötelezettségek
+
+4434. Nem EU-s külföldi egyéb szállítók állománya
+
+44341. Tárgyévi költségvetést terhelő előző év(ek) nem EU-s külföldi egyéb szállítók állománya
+
+44342. Tárgyévi költségvetést terhelő folyó évi nem EU-s külföldi egyéb szállítók állománya
+
+44343. Tárgyévet követő évet terhelő nem EU-s külföldi egyéb szállítók állománya
+
+4435. Nem számlázott nem EU-s külföldi szállítások
+
+444. Váltótartozások
+
+445. Munkavállalókkal kapcsolatos különféle kötelezettségek
+
+446. Költségvetéssel szembeni kötelezettségek
+
+447. Helyi önkormányzatok sajátos kötelezettségei
+
+4472. Helyi adó túlfizetés miatti kötelezettségek
+
+448. Foglalt
+
+449. Egyéb rövid lejáratú kötelezettségek
+
+4491. Támogatási program előlege miatti kötelezettség
+
+4492. Szabálytalan kifizetés miatti kötelezettség
+
+4493. Garancia- és kezességvállalásból származó kötelezettség
+
+44931. Működési célú garancia- és kezességvállalásból származó kötelezettség
+
+44932. Felhalmozási célú garancia- és kezességvállalásból származó kötelezettség
+
+4494. Nemzetközi támogatási programok miatti kötelezettségek
+
+4495. Előfinanszírozás miatti kötelezettségek
+
+4496. Vagyonkezelésbe adott eszközökhöz kapcsolódó kötelezettségek
+
+4499. Egyéb különféle rövid lejáratú kötelezettség
+
+45. RÖVID LEJÁRATÚ HITELEK, VISSZATÉRÍTENDŐ KAPOTT TÁMOGATÁSOK, KÖLCSÖNÖK ÉS TARTOZÁSOK KÖTVÉNYKIBOCSÁTÁSBÓL
+
+451. Rövid lejáratú hitelek pénzügyi vállalkozásoktól
+
+4511. Pénzügyi vállalkozásoktól felvett rövid lejáratú hitelek állománya
+
+4512. Pénzügyi vállalkozásnak rövid lejáratú hitel törlesztés, visszafizetés előirányzata ,,K''
+
+4513. Pénzügyi vállalkozástól rövid lejáratú hitel felvételének előirányzata ,,T''
+
+4514. Rövid lejáratú hitelek törlesztése, visszafizetése pénzügyi vállalkozásnak ,,T''
+
+4515. Rövid lejáratú hitelek felvétele pénzügyi vállalkozástól ,,K''
+
+452. Rövid lejáratú hitelek egyéb belföldi forrásból
+
+4521. Egyéb belföldi forrásból felvett rövid lejáratú hitelek állománya
+
+4522. Egyéb belföldi forrásból származó rövid lejáratú hitel törlesztés, visszafizetés előirányzata ,,K''
+
+4523. Egyéb belföldi forrásból rövid lejáratú hitel felvételének előirányzata ,,T''
+
+4524. Egyéb belföldi forrásból származó rövid lejáratú hitelek törlesztése, visszafizetése ,,T''
+
+4525. Rövid lejáratú hitelek felvétele egyéb belföldi forrásból ,,K''
+
+453–454. Tartozás (éven belüli) visszatérítendő kapott támogatások, kölcsönök igénybevételéből
+
+453. Működési célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök államháztartáson belülről
+
+4531. Működési célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök állománya
+
+4532. Működési célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök törlesztésének előirányzata
+
+4533. Működési célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök igénybevételének előirányzata
+
+4534. Működési célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök törlesztése, visszafizetése
+
+4535. Működési célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök igénybevétele
+
+454. Felhalmozási célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök államháztartáson belülről
+
+4541. Felhalmozási célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök állománya
+
+4542. Felhalmozási célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök törlesztésének előirányzata
+
+4543. Felhalmozási célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök igénybevételének előirányzata
+
+4544. Felhalmozási célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök törlesztése, visszafizetése
+
+4545. Felhalmozási célú (éven belüli) visszatérítendő kapott támogatások, kölcsönök igénybevétele
+
+455–457. Tartozások forgatási célú pénzügyi műveletekből
+
+455. Likviditási hitel a központi költségvetéstől
+
+456. Rövid lejáratú likviditási hitelek egyéb belföldi forrásból
+
+457. Tartozás rövid lejáratú kötvénykibocsátásból
+
+458. Foglalt
+
+459. Rövid lejáratú kötelezettségek kiadás és bevétel átvezetési számlája
+
+46. TÁMOGATÁSÉRTÉKŰ BEVÉTELEK, ELŐZŐ ÉVI TÁMOGATÁSOK, VISSZATÉRÜLÉSEK ÉS FEJEZETI ELSZÁMOLÁSOK
+
+461. Előző évi költségvetési kiegészítések, visszatérülések
+
+4612. Előző évi költségvetési kiegészítések, visszatérülések előirányzatának teljesítése
+
+463. FOGLALT
+
+464. Működési célú, támogatásértékű bevételek elszámolása
+
+4641. Működési célú, támogatásértékű bevétel előirányzata
+
+4642. Működési célú, támogatásértékű bevétel előirányzatának teljesítése
+
+4643. Működési célú, előző év(ek)i támogatási program visszatérített előlege miatti támogatásértékű bevétel előirányzatának teljesítése
+
+465. Felhalmozási célú, támogatásértékű bevételek elszámolása
+
+4651. Felhalmozási célú, támogatásértékű bevétel előirányzata
+
+4652. Felhalmozási célú, támogatásértékű bevétel előirányzatának teljesítése
+
+4653. Felhalmozási célú, előző év(ek)i támogatási program visszatérített előlege miatti támogatásértékű bevétel előirányzatának teljesítése
+
+466. Garancia- és kezességvállalásból származó megtérülések államháztartáson belülről
+
+4661. Garancia- és kezességvállalásból származó megtérülés előirányzata államháztartáson belülről
+
+4662. Garancia- és kezességvállalásból származó megtérülés előirányzatának teljesítése államháztartáson belülről
+
+467. Tb pénzügyi alapok ellátási bevételeinek elszámolása
+
+4671. Tb pénzügyi alapok működési szektor előző évi előirányzat-maradvány befizetéséből származó bevétel
+
+4672. Tb pénzügyi alapok működési szektor befizetési kötelezettségből származó bevétel
+
+4673. Ellátási bevételek alapon belüli elszámolása
+
+468. Fejezeti év végi maradványelszámolási számla bevételeinek elszámolása
+
+469. Foglalt
+
+47. ÁLLAMHÁZTARTÁSON KÍVÜLRŐL KAPOTT VÉGLEGES PÉNZESZKÖZÁTVÉTELEK ELSZÁMOLÁSA
+
+471. Működési célú pénzeszközátvétel az államháztartáson kívülről
+
+4711. Működési célú pénzeszközátvétel előirányzata államháztartáson kívülről
+
+4712. Működési célú pénzeszközátvétel előirányzatának teljesítése államháztartáson kívülről
+
+4713. Működési célú, előző év(ek)i támogatási program visszatérített előlege miatti pénzeszközátvétel előirányzatának teljesítése államháztartáson kívülről
+
+472. Felhalmozási célú pénzeszközátvétel államháztartáson kívülről
+
+4721. Felhalmozási célú pénzeszközátvétel előirányzata államháztartáson kívülről
+
+4722. Felhalmozási célú pénzeszközátvétel előirányzatának teljesítése államháztartáson kívülről
+
+4723. Felhalmozási célú, előző év(ek)i támogatási program visszatérített előlege miatti pénzeszközátvétel előirányzatának teljesítése államháztartáson kívülről
+
+473. Központi költségvetés közvetlen EU költségvetésből származó bevételei
+
+474–475. Foglalt
+
+476. Garancia- és kezességvállalásból származó megtérülés államháztartáson kívülről
+
+4761. Garancia- és kezességvállalásból származó megtérülés előirányzata államháztartáson kívülről
+
+4762. Garancia- és kezességvállalásból származó megtérülés előirányzatának teljesítése államháztartáson kívülről
+
+477–478. Foglalt
+
+479. Támogatásértékű bevétel, átvett pénzeszköz, egyéb kiegészítések átvezetési számlája
+
+48. FÜGGŐ, ÁTFUTÓ, KIEGYENLÍTŐ BEVÉTELEK
+
+481–484. Költségvetési elszámolásokat érintő függő, átfutó és kiegyenlítő bevételek
+
+481. Költségvetési függő bevételek
+
+4811. Költségvetési intézményi függő bevételek
+
+4812. Helyi adóbeszedési számlával kapcsolatos függő bevételek
+
+4813. Egyéb adóbeszedési számlákkal kapcsolatos függő bevételek
+
+4814. Kincstári ügyfelek függő bevételei (nemzetgazdasági elszámolások)
+
+482. Költségvetési átfutó bevételek
+
+4821. Költségvetési átfutó bevételek
+
+4822. Utólagos elszámolások átfutó bevételei
+
+4823. Költségvetési egyéb bevételek beszedési számlával kapcsolatos átfutó bevételek (csak helyi önkormányzatok)
+
+4824. Költségvetés letéti bevételei
+
+4825. Továbbadási céllal kapott átfutó bevételek
+
+4826. Vevőtől kapott előlegek bevételei
+
+4827. Kincstári ügyfelek átfutó bevételei (nemzetgazdasági elszámolások)
+
+4828. Megosztott átfutó bevételek
+
+48281. Közhatalmi tevékenység átfutó bevételei
+
+48282. Egyéb megosztott átfutó bevételek
+
+4829. Költségvetési egyéb átfutó bevételek
+
+483. Költségvetési kiegyenlítő bevételek
+
+4831. Elszámolási és pénzforgalmi számlák közötti átvezetések
+
+4832. Helyiadó-beszedési számlák közötti átvezetések
+
+4833. Kincstári ügyfelek kiegyenlítő bevételei (nemzetgazdasági elszámolások)
+
+4834. Nemzetgazdasági elszámolások kiegyenlítő bevételei
+
+4835. Önkormányzati támogatások rendező költségvetési kiegyenlítő bevételi átvezetési számla
+
+484. Adóhatóságokkal kapcsolatos elszámolási számla
+
+485. Fejezeti előirányzat-felhasználási keret elosztás átfutó bevételei
+
+486. Központi költségvetési szervek befizetései
+
+488. Költségvetésen kívüli függő, átfutó és kiegyenlítő bevételek, letétek elszámolása
+
+4881. Belföldi feladatok lebonyolításának elszámolása
+
+48811. Sajátos feladatok lebonyolításának elszámolása
+
+488111. Kincstár területi szervei által végzett lebonyolítási feladatok elszámolása
+
+488112. Különféle önkormányzati feladatok lebonyolításának elszámolása
+
+488113. Központi költségvetési szervek nettó finanszírozásának lebonyolításának elszámolása
+
+48812. Társadalombiztosítás finanszírozásának átfutó elszámolása (önkormányzatok)
+
+48813. Államigazgatási eljárási illetékbeszedési bevételek átfutó elszámolása (önkormányzatok)
+
+48814. Idegen bevételek beszedésének átfutó elszámolása (önkormányzatok)
+
+48815. Foglalt
+
+48816. Idegen betétkönyvek és készpénzben kezelt idegen pénzeszközök elszámolása
+
+48817. Letétek, biztosítékok elszámolása
+
+48818. Fedezetkezelői számla elszámolása
+
+48819. Egyéb lebonyolítási feladatok elszámolása
+
+488191. Nemzeti agrárkár-enyhítés elszámolása
+
+488192. Bírság beszedés elszámolása
+
+488193. EFER elszámolási számla
+
+488194. Neptun gyűjtő számla
+
+488195. Természetbeni családtámogatások számla
+
+488196. Gyermektartásdíjak megelőlegezése számla
+
+488198. Egyéb különféle lebonyolítás elszámolása
+
+4882. Nemzetközi támogatási programok lebonyolításának elszámolása
+
+4883–4887. Foglalt
+
+4888. Nemzetközi támogatási programok közösségi forrás elszámolása
+
+489. Foglalt
+
+49. ÉVI MÉRLEGSZÁMLÁK
+
+491. Nyitómérleg számla
+
+492. Mérlegrendezési számla
+
+4921. Átszervezéshez kapcsolódó mérlegrendezési számla
+
+4922. Egyéb mérlegrendezési számla
+
+493. Zárómérleg számla
+
+494. Költségvetési bevételek és kiadások elszámolása
+
+495. Vállalkozási bevételek és kiadások elszámolása
+
+496. Előirányzatok zárlati elszámolása
+
+497. Előirányzatok évközi-elszámolása
+
+498. Eredeti előirányzatok nyitó elszámolása
+
+499. Pénzforgalom nélküli költségvetési bevételek és kiadások sajátos elszámolása
+
+5. Számlaosztály
+
+KIADÁSOK ELŐIRÁNYZATA ÉS ELŐIRÁNYZAT TELJESÍTÉSE
+
+(közgazdasági osztályozás szerint)
+
+51–52. SZEMÉLYI JUTTATÁSOK
+
+51. RENDSZERES ÉS NEM RENDSZERES SZEMÉLYI JUTTATÁSOK
+
+511–515. Teljes munkaidőben foglalkoztatottak személyi juttatásai
+
+511. Rendszeres személyi juttatások
+
+5111. Rendszeres személyi juttatások előirányzata
+
+5112. Rendszeres személyi juttatások előirányzatának teljesítése
+
+512. Munkavégzéshez kapcsolódó juttatások
+
+5121. Munkavégzéshez kapcsolódó juttatások kiadásainak előirányzata
+
+5122. Munkavégzéshez kapcsolódó juttatások kiadási előirányzatának teljesítése
+
+513. Foglalkoztatottak sajátos juttatásai
+
+5131. Foglalkoztatottak sajátos juttatásai kiadásainak előirányzata
+
+5132. Foglalkoztatottak sajátos juttatásai kiadási előirányzatának teljesítése
+
+514. Személyhez kapcsolódó költségtérítések és hozzájárulások
+
+5141. Személyhez kapcsolódó költségtérítések és hozzájárulások kiadási előirányzata
+
+5142. Személyhez kapcsolódó költségtérítések és hozzájárulások kiadási előirányzatának teljesítése
+
+515. Szociális jellegű juttatások
+
+5151. Szociális jellegű juttatások kiadási előirányzata
+
+5152. Szociális jellegű juttatások kiadási előirányzatának teljesítése
+
+516. Részmunkaidőben foglalkoztatottak juttatásai
+
+5161. Részmunkaidőben foglalkoztatottak juttatásainak kiadási előirányzata
+
+5162. Részmunkaidőben foglalkoztatottak juttatásai kiadási előirányzatának teljesítése
+
+517. Teljes munkaidőben foglalkoztatottak különféle nem rendszeres juttatásai
+
+5171. Különféle nem rendszeres juttatások kiadási előirányzata
+
+5172. Különféle nem rendszeres juttatások kiadási előirányzatának teljesítése
+
+52. KÜLSŐ SZEMÉLYI JUTTATÁSOK
+
+521. Foglalt
+
+522. Állományba nem tartozók juttatásai
+
+5221. Állományba nem tartozók juttatásainak kiadási előirányzata
+
+5222. Állományba nem tartozók juttatásai kiadási előirányzatának teljesítése
+
+523. Fegyveres erők, testületi és a rendvédelmi szervek állományába nem tartozók juttatásai
+
+5231.Fegyveres erők, testületi és a rendvédelmi szervek állományába nem tartozók juttatásainak kiadási előirányzata
+
+5232. Fegyveres erők, testületi és a rendvédelmi szervek állományába nem tartozók juttatásai kiadási előirányzatának teljesítése
+
+524. Állományba tartozók nem munkavégzéssel kapcsolatos megbízási díja
+
+5241. Állományba tartozók nem munkavégzéssel kapcsolatos megbízási díjának kiadási előirányzata
+
+5242. Állományba tartozók nem munkavégzéssel kapcsolatos megbízási díja kiadási előirányzatának teljesítése
+
+53. MUNKAADÓKAT TERHELŐ JÁRULÉKOK
+
+531. Szociális hozzájárulási adó
+
+5311. Szociális hozzájárulási adó kiadási előirányzata
+
+53113. Egyszerűsített közteherviselési járulék (EKHO) kiadási előirányzata
+
+53114. START-kártyával rendelkezők utáni járulékfizetési kötelezettség előirányzata
+
+53115. Szociális hozzájárulási adó kiadási előirányzata
+
+5312. Szociális hozzájárulási adó kiadási előirányzatának teljesítése
+
+53123. Egyszerűsített közteherviselési járulék (EKHO) kiadási előirányzatának teljesítése
+
+53124. START-kártyával rendelkezők utáni járulékfizetési kötelezettség előirányzatának teljesítése
+
+53125. Szociális hozzájárulási adó kiadási előirányzatának teljesítése
+
+533. Egészségügyi hozzájárulás
+
+5331. Egészségügyi hozzájárulás előirányzata
+
+5332. Egészségügyi hozzájárulás előirányzatának teljesítése
+
+534. Táppénz-hozzájárulás
+
+5341. Táppénz-hozzájárulás előirányzata
+
+5342. Táppénz-hozzájárulás előirányzatának teljesítése
+
+535. Munkaadókat terhelő járulékok államháztartáson kívülre
+
+5351. Munkaadókat terhelő járulékok államháztartáson kívülre előirányzata
+
+5352. Munkaadókat terhelő járulékok államháztartáson kívülre előirányzat teljesítése
+
+536. Munkaadókat terhelő egyéb járulékok
+
+5361. Munkaadókat terhelő egyéb járulékok előirányzata
+
+5362. Munkaadókat terhelő járulékok előirányzatának teljesítése
+
+538. Korkedvezmény-biztosítási járulék
+
+5381. Korkedvezmény-biztosítási járulék kiadási előirányzata
+
+5382. Korkedvezmény-biztosítási járulék kiadási előirányzat teljesítése
+
+54–57. DOLOGI KIADÁSOK
+
+54. KÉSZLETBESZERZÉSEK
+
+541. Élelmiszerek
+
+5411. Élelmiszer-beszerzés kiadási előirányzata
+
+5412. Élelmiszer-beszerzés kiadási előirányzat teljesítése
+
+542. Gyógyszer, vegyszer
+
+5421. Gyógyszer-, vegyszerbeszerzés kiadási előirányzata
+
+5422. Gyógyszer-, vegyszerbeszerzés kiadási előirányzat teljesítése
+
+543. Irodaszer, nyomtatvány
+
+5431. Irodaszer-, nyomtatványbeszerzés kiadási előirányzata
+
+5432. Irodaszer-, nyomtatványbeszerzés kiadási előirányzat teljesítése
+
+544. Könyv, folyóirat, egyéb információhordozó
+
+5441. Könyv, folyóirat, egyéb információhordozó beszerzés kiadási előirányzata
+
+5442. Könyv, folyóirat, egyéb információhordozó beszerzés kiadási előirányzat teljesítése
+
+545. Tüzelőanyagok
+
+5451. Tüzelőanyag-beszerzés kiadási előirányzat
+
+5451. Tüzelőanyag-beszerzés kiadási előirányzat teljesítése
+
+546. Hajtó- és kenőanyag
+
+5461. Hajtó- és kenőanyag-beszerzés kiadási előirányzata
+
+5462. Hajtó- és kenőanyag-beszerzés kiadási előirányzat teljesítése
+
+547. Szakmai anyag és kisértékű tárgyi eszközök, szellemi termékek
+
+5471. Szakmai anyag és kisértékű tárgyi eszközök, vagyoni értékű jogok, szellemi termékek beszerzés kiadási előirányzata
+
+5472. Szakmai anyag és kisértékű tárgyi eszközök, vagyoni értékű jogok, szellemi termékek beszerzés kiadási előirányzatának teljesítése
+
+548. Munkaruha, védőruha, formaruha, egyenruha
+
+5481. Munkaruha, védőruha, formaruha, egyenruha beszerzés kiadási előirányzata
+
+5482. Munkaruha, védőruha, formaruha, egyenruha beszerzés kiadási előirányzatának teljesítése
+
+549. Egyéb készletek
+
+5491. Egyéb készletbeszerzés kiadási előirányzata
+
+5492. Egyéb készletbeszerzés kiadási előirányzatának teljesítése
+
+[^495]: A 9. számú melléklet „Számlakerettükör” része a 141/2001. (VIII. 8.) Korm. rendelet 44. § a) pontja, a 383/2004. (XII. 29.) Korm. rendelet 25. §-ának (8) bekezdése, a 319/2005. (XII. 26.) Korm. rendelet 19. § (2) bekezdése, a 359/2006. (XII. 27.) Korm. rendelet 23. § (4) bekezdése, a 400/2007. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 7. § a) pontja, a 328/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 37. § (6) bekezdése, a 74/2013. (III. 11.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg. A 9. melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (6) bekezdése, a 369/2011. (XII. 31.) Korm. rendelet 20. § (3) bekezdése, a 74/2013. (III. 11.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.
 [^496]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
+[^497]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.

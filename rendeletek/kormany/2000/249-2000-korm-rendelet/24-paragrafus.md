@@ -1,6 +1,6 @@
 ## 23. § A könyvviteli mérlegben forrásként kell kimutatni a saját tőkét, a tartalékokat és minden kötelezettséget.
 
-24. §[^198] (1)[^199] Saját tőkeként kell kimutatni a nemzeti vagyont. Itt kell szerepeltetni a központi költségvetési szervek által kezelt vagyon, a társadalombiztosítás pénzügyi alapjaihoz tartozó vagyon, a helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiséggel rendelkező társulás, a fejlesztési tanács, illetve egyéb jogszabály alapján az államháztartás szervezete tulajdonát képező vagyon eszközeinek a forrását, amely korábbi költségvetési, vagy egyéb felhalmozásból, juttatásból képződött, illetve folyamatos tőkeváltozásból ered. A saját tőke részeként kell kimutatni a 32. § (7) bekezdése szerinti piaci értékelésből származó értékhelyesbítéssel azonos összegű értékelési tartalékot is.
+24. §[^197] (1)[^198] Saját tőkeként kell kimutatni a nemzeti vagyont. Itt kell szerepeltetni a központi költségvetési szervek által kezelt vagyon, a társadalombiztosítás pénzügyi alapjaihoz tartozó vagyon, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, a fejlesztési tanács, illetve egyéb jogszabály alapján az államháztartás szervezete tulajdonát képező vagyon eszközeinek a forrását, amely korábbi költségvetési, vagy egyéb felhalmozásból, juttatásból képződött, illetve folyamatos tőkeváltozásból ered. A saját tőke részeként kell kimutatni a 32. § (7) bekezdése szerinti piaci értékelésből származó értékhelyesbítéssel azonos összegű értékelési tartalékot is.
 
 (2) A saját tőke tartós tőkéből, tőkeváltozásból és értékelési tartalékból tevődik össze.
 
@@ -16,5 +16,5 @@
 
 (8) A saját tőkén belül el kell különíteni a tulajdonba kapott, illetve a kezelésbe vett eszközök forrását (ide nem értve a 26. § (3) bekezdésének b)–c) pontja szerinti forrásokat).
 
-[^198]: A 24. § a 317/2009. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni, lásd még a 40. § (3)–(4) bekezdését.
-[^199]: A 24. § (1) bekezdése a 369/2011. (XII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^197]: A 24. § a 317/2009. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni, lásd még a 40. § (3)–(4) bekezdését.
+[^198]: A 24. § (1) bekezdése a 369/2011. (XII. 31.) Korm. rendelet 10. §-ával megállapított, a 74/2013. (III. 11.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.

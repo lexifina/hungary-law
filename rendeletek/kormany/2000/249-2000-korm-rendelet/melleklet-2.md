@@ -42,7 +42,7 @@
 
 ## III. Befektetett pénzügyi eszközök
 
-## 1.[^454] Tartós részesedés
+## 1.[^466] Tartós részesedés
 
 ## Ebből: – tartós társulási részesedés
 
@@ -50,7 +50,7 @@
 
 ## 3. Tartósan adott kölcsön
 
-## 4.[^455] Hosszú lejáratú betétek
+## 4.[^467] Hosszú lejáratú betétek
 
 ## Ebből:
 
@@ -62,7 +62,7 @@
 
 ## 6. Befektetett pénzügyi eszközök értékhelyesbítése
 
-## IV. ÜZEMELTETÉSRE, KEZELÉSRE ÁTADOTT, KONCESSZIÓBA, VAGYONKEZELÉSBE ADOTT, ILLETVE VAGYONKEZELÉSBE VETT ESZKÖZÖK[^456]
+## IV. ÜZEMELTETÉSRE, KEZELÉSRE ÁTADOTT, KONCESSZIÓBA, VAGYONKEZELÉSBE ADOTT, ILLETVE VAGYONKEZELÉSBE VETT ESZKÖZÖK[^468]
 
 ## 1. Üzemeltetésre, kezelésre átadott eszközök
 
@@ -72,7 +72,7 @@
 
 ## 4. Vagyonkezelésbe vett eszközök
 
-## 5.[^457] Üzemeltetésre, kezelésre átadott, koncesszióba, vagyonkezelésbe adott, illetve vagyonkezelésbe vett eszközök értékhelyesbítése
+## 5.[^469] Üzemeltetésre, kezelésre átadott, koncesszióba, vagyonkezelésbe adott, illetve vagyonkezelésbe vett eszközök értékhelyesbítése
 
 ## B) FORGÓESZKÖZÖK
 
@@ -86,7 +86,9 @@
 
 ## 4. Késztermékek
 
-## 5. Áruk, betétdíjas göngyölegek, közvetített szolgáltatások és követelés fejében átvett eszközök, készletek
+## 5.[^470] Áruk, betétdíjas göngyölegek, közvetített szolgáltatások
+
+## 6.[^471] Követelés fejében átvett eszközök, készletek
 
 ## II. Követelések
 
@@ -94,13 +96,13 @@
 
 ## 2. Adósok
 
-## 3.[^458] Rövid lejáratú adott kölcsönök
+## 3.[^472] Rövid lejáratú adott kölcsönök
 
 ## Ebből:
 
 ## – tartósan adott kölcsönökből a mérlegfordulónapot követő egy éven belül esedékes részletek
 
-## 4.[^459] Egyéb követelések
+## 4.[^473] Egyéb követelések
 
 ## Ebből:
 
@@ -116,7 +118,7 @@
 
 ## – egyéb hosszú lejáratú követelésekből a mérlegfordulónapot követő egy éven belül esedékes részletek
 
-## III.[^460] Értékpapírok
+## III.[^474] Értékpapírok
 
 ## 1. Forgatási célú részesedés
 
@@ -134,7 +136,7 @@
 
 ## 1. Pénztárak, csekkek, betétkönyvek
 
-## 2.[^461] Költségvetési pénzforgalmi számlák
+## 2.[^475] Költségvetési pénzforgalmi számlák
 
 ## Ebből:
 
@@ -144,7 +146,7 @@
 
 ## 3. Elszámolási számlák
 
-## 4.[^462] Idegen pénzeszközök
+## 4.[^476] Idegen pénzeszközök
 
 ## Ebből:
 
@@ -168,7 +170,7 @@
 
 ## --------------------
 
-## D)[^463] SAJÁT TŐKE
+## D)[^477] SAJÁT TŐKE
 
 ## I. Tartós tőke
 
@@ -192,7 +194,7 @@
 
 ## I. Költségvetési tartalékok
 
-## 1.[^464] Költségvetési tartalék elszámolása
+## 1.[^478] Költségvetési tartalék elszámolása
 
 ## Ebből: – tárgyévi költségvetési tartalék elszámolása
 
@@ -200,13 +202,13 @@
 
 ## 2. Költségvetési pénzmaradvány
 
-## 3.[^465] Költségvetési kiadási megtakarítás
+## 3.[^479] Költségvetési kiadási megtakarítás
 
-## 4.[^466] Költségvetési bevételi lemaradás
+## 4.[^480] Költségvetési bevételi lemaradás
 
 ## 5. Előirányzat-maradvány
 
-## II.[^467] Vállalkozási tartalékok
+## II.[^481] Vállalkozási tartalékok
 
 ## 1. Vállalkozási tartalék elszámolása
 
@@ -222,7 +224,7 @@
 
 ## F) KÖTELEZETTSÉGEK
 
-## I. Hosszú lejáratú kötelezettségek
+## I.[^482] Hosszú lejáratú kötelezettségek
 
 ## 1. Hosszú lejáratra kapott kölcsönök
 
@@ -234,7 +236,9 @@
 
 ## 5. Működési célú hosszú lejáratú hitelek
 
-## 6.[^468] Egyéb hosszú lejáratú kötelezettségek
+## 6. Pénzügyi lízing miatti kötelezettség
+
+## 7. Egyéb hosszú lejáratú kötelezettségek
 
 ## Ebből:
 
@@ -242,27 +246,33 @@
 
 ## II. Rövid lejáratú kötelezettségek
 
-## 1.[^469] Rövid lejáratú kapott kölcsönök
+## 1.[^483] Rövid lejáratú kapott kölcsönök
 
 ## Ebből:
 
 ## – hosszú lejáratra kapott kölcsönök következő évet terhelő törlesztő részletei
 
-## 2.[^470] Rövid lejáratú hitelek
+## 2.[^484] Rövid lejáratú hitelek
 
 ## Ebből:
 
-## – likvid hitelek és rövid lejáratú működési célú kötvénykibocsátások
-
-## – felhalmozási célú kötvénykibocsátásból származó tartozások következő évet terhelő törlesztő részletei
-
-## – működési célú kötvénykibocsátásból származó tartozások következő évet terhelő törlesztő részletei
+## – likvid hitelek
 
 ## – beruházási, fejlesztési hitelek következő évet terhelő törlesztő részletei
 
 ## – működési célú hosszú lejáratú hitelek következő évet terhelő törlesztő részletei
 
-## 3. Kötelezettségek áruszállításból és szolgáltatásból (szállítók)
+## 3.[^485] Rövid lejáratú tartozások kötvénykibocsátásból
+
+## Ebből:
+
+## – rövid lejáratú működési célú kötvénykibocsátások
+
+## – felhalmozási célú kötvénykibocsátásból származó tartozások következő évet terhelő törlesztő részletei
+
+## – működési célú kötvénykibocsátásból származó tartozások következő évet terhelő törlesztő részletei
+
+## 4.[^486] Kötelezettségek áruszállításból és szolgáltatásból (szállítók)
 
 ## Ebből:
 
@@ -270,7 +280,7 @@
 
 ## – tárgyévet követő évet terhelő szállítói kötelezettségek
 
-## 4.[^471] Egyéb rövid lejáratú kötelezettségek
+## 5.[^487] Egyéb rövid lejáratú kötelezettségek
 
 ## Ebből:
 
@@ -316,24 +326,28 @@
 
 ## – Nemzetközi támogatási programok deviza elszámolása
 
-2. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^472]
+2. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^488]
 
-[^454]: Az 1. számú melléklet A/III. pontjának 1. alpontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^455]: Az 1. számú melléklet A/III. pontjának 4. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^456]: Az 1. számú melléklet A/IV. pontjának címe a 319/2005. (XII. 26.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést először a 2006. évről készített éves költségvetési beszámolóra kell alkalmazni.
-[^457]: Az 1. számú melléklet A/IV. pontjának 5. alpontját a 383/2004. (XII. 29.) Korm. rendelet 26. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 319/2005. (XII. 26.) Korm. rendelet 23. § (5) bekezdése iktatta be. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a rendelkezést először a 2006. évről készített éves költségvetési beszámolóra kell alkalmazni.
-[^458]: Az 1. számú melléklet B/II. pont 3. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^459]: Az 1. számú melléklet B/II. pont 4. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^460]: Az 1. számú melléklet B/III. pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^461]: Az 1. számú melléklet B/IV. pont 2. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^462]: Az 1. számú melléklet B/IV. pont 4. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^463]: Az 1. számú melléklet D) pontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni.
-[^464]: Az 1. számú melléklet E/I. pontjának 1. alpontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
-[^465]: Az 1. számú melléklet E/I. pontjának 3. alpontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
-[^466]: Az 1. számú melléklet E/I. pontjának 4. alpontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
-[^467]: Az 1. számú melléklet E/II. pontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
-[^468]: Az 1. számú melléklet F/I. pont 6. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^469]: Az 1. számú melléklet F/II. pont 1. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^470]: Az 1. számú melléklet F/II. pont 2. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^471]: Az 1. számú melléklet F/II. pont 4. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^472]: A 2. számú melléklet a 317/2009. (XII. 29.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján rendelkezéseit a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^466]: Az 1. számú melléklet A/III. pontjának 1. alpontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^467]: Az 1. számú melléklet A/III. pontjának 4. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^468]: Az 1. számú melléklet A/IV. pontjának címe a 319/2005. (XII. 26.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést először a 2006. évről készített éves költségvetési beszámolóra kell alkalmazni.
+[^469]: Az 1. számú melléklet A/IV. pontjának 5. alpontját a 383/2004. (XII. 29.) Korm. rendelet 26. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 319/2005. (XII. 26.) Korm. rendelet 23. § (5) bekezdése iktatta be. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a rendelkezést először a 2006. évről készített éves költségvetési beszámolóra kell alkalmazni.
+[^470]: Az 1. számú melléklet B) FORGÓESZKÖZÖK I. Készletek rész 5. sora a 74/2013. (III. 11.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^471]: Az 1. számú melléklet B) FORGÓESZKÖZÖK I. Készletek rész 6. sorát a 74/2013. (III. 11.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^472]: Az 1. számú melléklet B/II. pont 3. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^473]: Az 1. számú melléklet B/II. pont 4. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^474]: Az 1. számú melléklet B/III. pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^475]: Az 1. számú melléklet B/IV. pont 2. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^476]: Az 1. számú melléklet B/IV. pont 4. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^477]: Az 1. számú melléklet D) pontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni.
+[^478]: Az 1. számú melléklet E/I. pontjának 1. alpontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^479]: Az 1. számú melléklet E/I. pontjának 3. alpontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^480]: Az 1. számú melléklet E/I. pontjának 4. alpontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^481]: Az 1. számú melléklet E/II. pontja a 317/2009. (XII. 29.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^482]: Az 1. számú melléklet F) KÖTELEZETTSÉGEK I. Hosszú lejáratú kötelezettségek része a 74/2013. (III. 11.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^483]: Az 1. számú melléklet F/II. pont 1. alpontja a 369/2011. (XII. 31.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^484]: Az 1. számú melléklet F) KÖTELEZETTSÉGEK II. Rövid lejáratú kötelezettségek rész 2. sora a 74/2013. (III. 11.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^485]: Az 1. számú melléklet F) KÖTELEZETTSÉGEK II. Rövid lejáratú kötelezettségek rész 3. sora a 74/2013. (III. 11.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^486]: Az 1. számú melléklet F) KÖTELEZETTSÉGEK II. Rövid lejáratú kötelezettségek rész 4. sora a 74/2013. (III. 11.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^487]: Az 1. számú melléklet F) KÖTELEZETTSÉGEK II. Rövid lejáratú kötelezettségek rész 5. sorát a 74/2013. (III. 11.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^488]: A 2. számú melléklet a 317/2009. (XII. 29.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg. E módosító rendelet 40. § (2) bekezdése alapján rendelkezéseit a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
