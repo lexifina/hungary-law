@@ -1,4 +1,4 @@
-## Az eszközök értékvesztésének alakulása[^37]
+## Az eszközök értékvesztésének alakulása[^38]
 
 ## Befektetett eszközök, követelések és értékpapírok állományának és értékvesztésének alakulása
 
@@ -72,4 +72,4 @@ Millió forintban
 
 | ÖSSZES KÖTELEZETTSÉG VÁLLALÁS | 13=11+12 |  |  |  |  |  |  |  |  |
 
-[^37]: A 10. számú melléklet címe a 369/2011. (XII. 31.) Korm. rendelet 28. § 7. pontja szerint módosított szöveg.
+[^38]: A 10. számú melléklet címe a 369/2011. (XII. 31.) Korm. rendelet 28. § 7. pontja szerint módosított szöveg.

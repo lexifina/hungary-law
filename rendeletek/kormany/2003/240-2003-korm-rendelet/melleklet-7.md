@@ -2,11 +2,11 @@
 
 ## A) Követelések állományának alakulása
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban |
+|  |  |  |  |  |  |  |  |  |  | Millió forintban |
 
-|  |  |  |  |  | Év végi értékelésből adódó különbözet (±) | Év végi átsorolás (±) |  |  | Pénzügyi teljesítés | Követelés |
+|  |  | Állomány | Előző | Folyó | Év végi értékelésből adódó különbözet (±) | Év végi átsorolás (±) | Összes követelés | Pénz- forgalom | Pénzügyi teljesítés | Követelés |
 
-| Megnevezés | Sor- szám | Állomány a tárgyév elején | Előző évi követelés helyes- bítése (±) | Folyó évi előírás (+) | előző év(ek) | tárgyévi | előző év(ek) | tárgyévi | Összes követelés (=3±4+5± 6±7±8±9) | Pénz- forgalom nélküli tranzakciók (±) | előző évi követe- lésre | tárgyévi követe- lésre | előző év(ek) (=3±4±6±8-12) | tárgyévi (=5±7±9± 11-13) | összesen (=14+15) |
+| Megnevezés | Sor- szám | a tárgyév elején | évi követelés helyes- bítése (±) | évi előírás (+) | előző év(ek) | tárgyévi | előző év(ek) | tárgyévi | (=3±4+ 5±6±7± 8±9) | nélküli tranzak- ciók (±) | előző évi követe- lésre | tárgyévi követe- lésre | előző év(ek) (=3±4± 6±8- 12) | tárgyévi (=5±7±9± 11-13) | összesen (=14+15) |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 
@@ -36,43 +36,45 @@
 
 | 2.2.2. Nem EU ország szerint | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3. Európai Unióval szemben fennálló követelések | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.3.Állam által belföldre nyújtott tartósan adott hitelekből, kölcsönökből a mérleg-fordulónapot követő egy éven belül esedékes részlet | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3.1. Támogatási programok miatti EU-s követelések | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.4 Állam által külföldre nyújtott tartósan adott hitelekből, kölcsönökből a mérleg-fordulónapot követő egy éven belül esedékes részlet | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3.2. EU költségvetésből származó visszatérítések miatti követelések | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.4.1. EU tagállam szerint | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3.3. EU tagság miatti egyéb követelések | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.4.2 Nem EU ország szerint | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 4. Szabálytalan kifizetések miatti követelések | 18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Európai Unióval szemben fennálló követelések | 18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5. Egyéb követelések | 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.1. Támogatási programok miatti EU-s követelések | 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.1. Egyéb követelések belföldre | 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.2. EU költségvetésből származó visszatérítések miatti követelések | 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.2. Egyéb követelések külföldre | 21 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.3. EU tagság miatti egyéb követelések | 21 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.2.1. EU tagállam szerint | 22 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. Szabálytalan kifizetések miatti követelések | 22 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.2.2. Nem EU ország szerint | 23 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Egyéb követelések | 23 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.3. Állam által belföldre nyújtott tartósan adott hitelekből, kölcsönökből a mérlegfordulónapot követő egy éven belül esedékes részlet | 24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.1. Egyéb követelések belföldre | 24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.4. Állam által külföldre nyújtott tartósan adott hitelekből, kölcsönökből a mérlegfordulónapot követő egy éven belül esedékes részlet | 25 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.2. Egyéb követelések külföldre | 25 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.4.1. EU tagállam szerint | 26 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.2.1. EU tagállam szerint | 26 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.4.2. Nem EU ország szerint | 27 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.2.2. Nem EU ország szerint | 27 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| II. Rövid lejáratú követelések (08+09+14+18+19) | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| II. Rövid lejáratú követelések (08+09+14+22+23) | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | KÖVETELÉSEK ÖSSZESEN: (07+28) | 29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## B) Kötelezettségek állományának alakulása
 
-|  |  |  |  |  | Év végi értékelésből adódó különbözet (±) | Év végi átsorolás (±) |  |  | Pénzügyi teljesítés | Kötelezettség záró állománya |
+|  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban |
 
-| Megnevezés | Sor- szám | Állomány az előző év(ek)ről | Előző év(ek)i kötelezettség helyesbí- tése (+) | Tárgyévi kötele- zettség (+) | előző év(ek | tárgyévi | előző év(ek | tárgyévi | Összes kötele- zettség (=3±4+5±6±7±8±9) | Pénzforgalom nélküli tranzakciók (+) | előző év(ek)i kötele- zettségre | tárgyévi kötele- zettségre | előző év(ek) (=3±4±6±8-12) | tárgyévi (=5±7±9 ±11-13) | összesen (=14+15) |
+|  |  | Állomány | Előző | Tárgyévi | Év végi értékelésből adódó különbözet (±) | Év végi átsorolás (±) | Összes kötele- | Pénz- forgalom | Pénzügyi teljesítés | Kötelezettség záró állománya |
+
+| Megnevezés | Sor- szám | az előző év(ek)ről | év(ek)i kötele- zettség helyes- bítése (±) | kötele- zettség (+) | előző év(ek | tárgyévi | előző év(ek | tárgyévi | zettség (=3±4+ 5±6±7± 8±9) | nélküli tranzak- ciók (±) | előző év(ek)i kötele- zettségre | tárgyévi kötele- zettségre | előző év(ek) (=3±4± 6±8-12) | tárgyévi (=5±7± 9±11- 13) | összesen (=14+15) |
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 
@@ -134,54 +136,58 @@
 
 | 1.2.2.2. Központi költségvetés átvállalt hitele, kölcsöne | 29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2. Tartozás rövid lejáratú értékpapír kibocsátásból | 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1.3. Működési célú hosszú lejáratú hitelek következő évet terhelő részletei | 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2.1. Tartozás belföldi értékpapír kibocsátásból | 31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1.3.1. EU tagállam szerint | 31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2.2. Tartozás külföldi értékpapír kibocsátásból | 32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1.3.2. Nem EU ország szerint | 32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2.2.1. EU tagállam szerint | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. Tartozás rövid lejáratú értékpapír kibocsátásból | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2.2.2. Nem EU ország szerint | 34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.1. Tartozás belföldi értékpapír kibocsátásból | 34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3. Kötelezettségek az EU felé | 35 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.2. Tartozás külföldi értékpapír kibocsátásból | 35 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3.1. Támogatási programok miatti EU-s kötelezettségek | 36 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.2.1. EU tagállam szerint | 36 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3.2. EU költségvetéshez való hozzájáruláshoz kapcsolódó kötelezettségek | 37 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2.2.2. Nem EU ország szerint | 37 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3.3. EU tagság miatti egyéb kötelezettségek | 38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Kötelezettségek az EU felé | 38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3.4. Szabálytalan EU-s kifizetések miatti egyéb kötelezettségek | 39 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.1. Támogatási programok miatti EU-s kötelezettségek | 39 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 4. Szabálytalan kifizetések miatti egyéb kötelezettségek | 40 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.2. EU költségvetéshez való hozzájáruláshoz kapcsolódó kötelezettségek | 40 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5. Központi költségvetés egyéb rövid lejáratú kötelezettségei | 41 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.3. EU tagság miatti egyéb kötelezettségek | 41 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.1. Központi költségvetés adótúlfizetés miatti kötelezettségei | 42 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3.4. Szabálytalan EU-s kifizetések miatti egyéb kötelezettségek | 42 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.2. Hosszú lejáratú belföldi hitelek következő évet terhelő törlesztő részletei | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. Szabálytalan kifizetések miatti egyéb kötelezettségek | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.3. Hosszú lejáratú külföldi hitelek következő évet terhelő törlesztő részletei | 44 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Központi költségvetés egyéb rövid lejáratú kötelezettségei | 44 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.3.1. EU tagállam szerint | 45 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.1. Központi költségvetés adótúlfizetés miatti kötelezettségei | 45 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.3.2. Nem EU ország szerint | 46 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.2. Egyéb hosszú lejáratú kötelezettségek következő évet terhelő törlesztő részletei | 46 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.4. Hosszú lejáratú belföldi kibocsátású értékpapírok következő évet terhelő törlesztő részletei | 47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.2.1. EU tagállam szerint | 47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.5. Hosszú lejáratú külföldi kibocsátású értékpapírok következő évet terhelő törlesztő részletei | 48 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.2.2. Nem EU ország szerint | 48 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.5.1. EU tagállam szerint | 49 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.3. Hosszú lejáratú belföldi kibocsátású értékpapírok következő évet terhelő törlesztő részletei | 49 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5.5.2. Nem EU ország szerint | 50 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.4. Hosszú lejáratú külföldi kibocsátású értékpapírok következő évet terhelő törlesztő részletei | 50 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6. Különféle egyéb rövid lejáratú kötelezettségek | 51 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.4.1. EU tagállam szerint | 51 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| II. Rövid lejáratú kötelezettségek (19+30+35+40+41+51) | 52 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5.4.2. Nem EU ország szerint | 52 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| KÖTELEZETTSÉGEK ÖSSZESEN: (18+52) | 53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. Különféle egyéb rövid lejáratú kötelezettségek | 53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-7. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^34]
+| II. Rövid lejáratú kötelezettségek (19+33+38+43+44+53) | 54 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^34]: A 7. számú melléklet a 369/2011. (XII. 31.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+| KÖTELEZETTSÉGEK ÖSSZESEN: (18+54) | 55 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+7. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^35]
+
+[^35]: A 7. számú melléklet a 369/2011. (XII. 31.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.

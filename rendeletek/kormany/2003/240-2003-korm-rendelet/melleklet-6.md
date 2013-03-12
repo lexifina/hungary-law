@@ -78,6 +78,6 @@
 
 | ÖSSZESEN |  |  |  |  |  |  |  |
 
-6. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^33]
+6. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^34]
 
-[^33]: A 6. számú melléklet a 369/2011. (XII. 31.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^34]: A 6. számú melléklet a 74/2013. (III. 11.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.

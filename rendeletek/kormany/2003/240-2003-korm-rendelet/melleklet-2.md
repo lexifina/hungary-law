@@ -136,6 +136,6 @@
 
 | I. Pénzeszközök záró egyenlege (A+G-H) |  |  |  |
 
-2. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^32]
+2. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^33]
 
-[^32]: A 2. számú melléklet a 319/2005. (XII. 26.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 317/2009. (XII. 29.) Korm. rendelet 43. § (21) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni.
+[^33]: A 2. számú melléklet a 74/2013. (III. 11.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.

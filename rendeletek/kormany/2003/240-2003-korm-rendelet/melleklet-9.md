@@ -1,36 +1,12 @@
 ## A kincstári éves beszámolóhoz az analitikus nyilvántartó helyek által szolgáltatott adatok
 
-| Sor- szám | Adatszolgáltatásra kötelezett analitikus helyek | Adatok köre, illetve tartalma |
+| Sorszám | Adatszolgáltatásra kötelezett analitikus helyek | Adatok köre, és tartalma |
 
 | A | B | C |
 
-| 1. | Nemzeti Adó- és Vámhivatal | Az adózók állammal szembeni kötelezettségei és az adóhatóság |
+| 1. | Nemzeti Adó- és Vámhivatal | Az adózók állammal szembeni kötelezettségei és az adóhatóság adózókkal szembeni tartozásai adónemenként, adójellegű tételenként, vám-, vám jellegű tételenként, bírságok bontásban. Adózók [adó-, adójellegű tartozásai, vám, vám jellegű, bírság] tartozásai fejében csőd-, felszámolási eljárás során átvett eszközök (követelések) állománya Termékdíjak miatti követelések és kötelezettségek Szerencsejátékok szervezésével kapcsolatos díj- és bírságbevételek miatti követelések és kötelezettségek. Pénzmosás elleni bírságbevételek miatti követelések és kötelezettségek. Közúti bírságbevételek miatti követelések és kötelezettségek. Az ÁFA devizabevételi számlával kapcsolatos követelések és kötelezettségek. Az EU költségvetéséhez való hozzájáruláshoz kapcsolódó kötelezettségek. |
 
-|  |  | adózókkal szembeni tartozásai adónemenként, adójellegű tételenként, |
-
-|  |  | vám-, vám jellegű tételenként, bírságok bontásban. |
-
-|  |  | Adózók [adó-, adó jellegű tartozásai, vám, vám jellegű, illetve bírság] tartozásai fejében csőd-, illetve felszámolási eljárás során átvett eszközök (követelések) állománya |
-
-|  |  | Szerencsejátékok szervezésével kapcsolatos díj- és bírságbevételek miatti követelések és kötelezettségek. |
-
-|  |  | Pénzmosás elleni bírságbevételek miatti követelések és kötelezettségek. |
-
-|  |  | Közúti bírságbevételek miatti követelések és kötelezettségek. |
-
-|  |  | Az ÁFA devizabevételi számlával kapcsolatos követelések és |
-
-|  |  | kötelezettségek. |
-
-|  |  | Az EU költségvetéséhez való hozzájáruláshoz kapcsolódó |
-
-|  |  | kötelezettségek. |
-
-| 2. | Államadósság Kezelő Központ Zrt. | Adósságkezelési célú devizaszámlák kivonatai naponta. |
-
-|  |  | A központi költségvetés belföldi és külföldi hitelei, a belföldi és külföldi |
-
-|  |  | értékpapír kibocsátásából származó kötelezettségek. |
+| 2. | Államadósság Kezelő Központ Zrt. | Adósságkezelési célú devizaszámlák kivonatai naponta. A központi költségvetés belföldi és külföldi hitelei, a belföldi és külföldi értékpapír kibocsátásából származó kötelezettségek. |
 
 | 3. | Magyar Nemzeti Bank | Auditált éves beszámoló az állami részesedés értékeléséhez. |
 
@@ -48,7 +24,7 @@
 
 | 10. | Egyenlő Bánásmód Hatóság | Bírságbevételek miatti követelések és kötelezettségek. |
 
-| 11. | Vidékfejlesztési Minisztérium | Bírságbevételek miatti követelések és kötelezettségek. Termékdíjak miatti követelések és kötelezettségek. Egyéb központosított bevételek (környezetvédelmi támogatások visszatérülése, vízkészlet-járulék, vadkísérő-jegy befizetése, trófea bírálat, erdőfenntartási járulék, halászati haszonbérleti díj, erdővédelmi járulék, állami vadászjegyek díja, földvédelmi járulék) miatti követelések és kötelezettségek. |
+| 11. | Vidékfejlesztési Minisztérium | Bírságbevételek miatti követelések és kötelezettségek. Egyéb központosított bevételek (környezetvédelmi támogatások visszatérülése, vízkészlet-járulék) miatti követelések és kötelezettségek. |
 
 | 12. | Mezőgazdasági és Vidékfejlesztési Hivatal | A cukorágazati hozzájárulással összefüggésben az Európai Unióval szembeni követelések és kötelezettségek, valamint a kötelezettekkel szemben kimutatott követelések és kötelezettségek. |
 
@@ -68,7 +44,7 @@
 
 | 20. | Nemzeti Fogyasztóvédelmi Hatóság | Bírságbevétellel kapcsolatos követelések és kötelezettségek. |
 
-| 21. | Nemzeti Fejlesztési Minisztérium | Gazdaságfejlesztési támogatások visszatérülésével kapcsolatos követelések, illetve és kötelezettségek. Területfejlesztési kölcsönök visszatérülésével kapcsolatos követelések és kötelezettségek. Távközlés-fejlesztési és frekvenciagazdálkodási támogatás visszatérülésével kapcsolatos követelések és kötelezettségek. |
+| 21. | Nemzeti Fejlesztési Minisztérium | Területfejlesztési kölcsönök visszatérülésével kapcsolatos követelések és kötelezettségek. Távközlés-fejlesztési és frekvenciagazdálkodási támogatás visszatérülésével kapcsolatos követelések és kötelezettségek. |
 
 | 22. | Magyar Bányászati és Földtani Hivatal | Bányajáradék, bírságbevételek miatti követelések és kötelezettségek. |
 
@@ -78,13 +54,9 @@
 
 | 25. | Magyar Gazdaságfejlesztési Központ Zrt. | Gazdaságfejlesztési támogatások visszatérülésével kapcsolatos követelések, és kötelezettségek |
 
-|  |  | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek devizában és forintban. |
+| 26. | Emberi Erőforrások Minisztériuma | Bírságbevételek miatti követelések és kötelezettségek. |
 
-|  |  | A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések devizában és forintban. |
-
-| 26. | Nemzeti Erőforrás Minisztérium | Bírságbevételek miatti követelések és kötelezettségek. |
-
-| 27. | műemléki érték és a régészeti örökség védelmével kapcsolatosan az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala, a kulturális javak védelmével kapcsolatban a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | Bírságbevételekkel kapcsolatos követelések és kötelezettségek. |
+| 27. | Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ | Bírságbevételekkel kapcsolatos követelések és kötelezettségek. |
 
 | 28. | Oktatási Hivatal | Bírságbevételekkel kapcsolatos követelések és kötelezettségek |
 
@@ -100,12 +72,16 @@
 
 | 34. | Erste Lakástakarék-pénztár Zrt. | Lakás-előtakarékosság jogtalanul igénybe vett állami támogatásával kapcsolatos követelések és kötelezettségek. |
 
-| 35. | Fundamenta – Lakáskassza Zrt. | Lakás-előtakarékosság jogtalanul igénybe vett állami támogatásával kapcsolatos követelések és kötelezettségek. |
+| 35. | Fundamenta - Lakáskassza Zrt. | Lakás-előtakarékosság jogtalanul igénybe vett állami támogatásával kapcsolatos követelések és kötelezettségek. |
 
 | 36. | OTP Lakástakarékpénztár Zrt. | Lakás-előtakarékosság jogtalanul igénybe vett állami támogatásával kapcsolatos követelések és kötelezettségek. |
 
-| 37. | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek devizában és forintban. A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések devizában és forintban. |
+| 37. | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek devizában és forintban. A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések devizában és forintban. |
 
-| 38. | Központi alrendszerbe tartozó, bírság kivetésére jogosult szervezetek | Bírságbevételek miatti követelések és kötelezettségek. |
+| 38. | Európai Uniós támogatások pénzügyi lebonyolításában a kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek devizában és forintban. A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések devizában és forintban. |
+
+| 39. | Bírság kivetésére jogosult szervezetek, hatóságok | Bírságbevételek miatti követelések és kötelezettségek. |
+
+| 40. | Kormányhivatalok | Bírságbevételek miatti követelések és kötelezettségek Egyéb központosított bevételek (vadkísérő-jegy befizetése, trófea bírálat, erdőfenntartási járulék, halászati haszonbérleti díj, erdővédelmi járulék, állami vadászjegyek díja, földvédelmi járulék) miatti követelések és kötelezettségek. |
 
 9. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez
