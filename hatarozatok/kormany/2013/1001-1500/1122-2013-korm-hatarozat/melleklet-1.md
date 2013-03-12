@@ -8,6 +8,8 @@
 
 ## 5. egyetért a 4. mellékletben foglaltak szerint – az EKOP-1.2.26 „A járási hivatalok informatikai infrastruktúrájának fejlesztése” című konstrukció akciótervi nevesítése, valamint az országos kihatású projektek Közép-magyarországi Régióra jutó finanszírozhatósága érdekében – az akciótervben biztosított többletkötelezettség-vállalási kereten felül egyszeri többletkötelezettség-vállalás biztosításával az 1. prioritáson 1,7 milliárd forint, a 3. prioritáson 0,5 milliárd forint értékben,
 
-## 6. visszavonja az Elektronikus Közigazgatás Operatív Program 2011–2013. közötti időszakra szóló akciótervének elfogadásáról, az Elektronikus Közigazgatás Operatív Program 2009–2010. közötti időszakra szóló akciótervében szereplő egyes konstrukciók törléséről, és egyes kiemelt projektek nevesítéséről szóló 1422/2012. (X. 4.) Korm. határozatot.
+## 6.[^2]
 
 1. melléklet az 1122/2013. (III. 11.) Korm. határozathoz
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
