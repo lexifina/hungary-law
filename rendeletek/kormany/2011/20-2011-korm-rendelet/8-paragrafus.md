@@ -1,5 +1,0 @@
-8. § (1) A támogatás folyósítása egy összegben vagy részletekben, időarányosan vagy teljesítésarányosan történhet. Részletekben történő kifizetések esetében előfinanszírozásnál az adott időszakban időarányosan vagy teljesítésarányosan felmerülő költségek megelőlegezését a miniszter engedélyezheti. A miniszter a megelőlegezés feltételéül szabhatja, hogy a már lezárult finanszírozási időszakok meghatározott köréről – az azokban meghatározott időpontokban – a kedvezményezett beszámolót készítsen. Utófinanszírozásnál a költségvetésből nyújtott támogatás részleteinek átutalására – az első finanszírozási időszak kivételével – a finanszírozási időszakot lezáró részbeszámoló elfogadását követően kerülhet sor, a támogatási szerződésben rögzített feltételek szerint.
-
-(2)[^18] Támogatási előleg indokolt esetben nyújtható, ha ezt a kedvezményezett támogatási kérelme vagy a Kormány egyedi döntése is tartalmazza. Az előleg folyósítására több részletben is sor kerülhet.
-
-[^18]: A 8. § (2) bekezdése a 93/2011. (VI. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
