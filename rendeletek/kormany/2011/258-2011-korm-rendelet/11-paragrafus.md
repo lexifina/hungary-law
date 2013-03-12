@@ -12,7 +12,7 @@ e) előkészíti és az ágazati illetékes miniszternek felterjeszti a költsé
 
 f) jóváhagyja az irányítása alá tartozó költségvetési szervek engedélyezett létszámát, ha annak megállapítása nem a Kormány hatáskörébe tartozik;
 
-g)[^10] kezdeményezheti a miniszternél a Kormány hatáskörébe tartozó költségvetési átcsoportosítást;
+g)[^12] kezdeményezheti a miniszternél a Kormány hatáskörébe tartozó költségvetési átcsoportosítást;
 
 h) beszámoltatja az átvett intézmény vezetőjét a belső kontrollrendszer működtetéséről;
 
@@ -32,7 +32,7 @@ e) megállapítja a költségvetési szervek kincstári költségvetését, vala
 
 f) gyakorolja a hatáskörébe utalt előirányzat-módosítási, -átcsoportosítási, -zárolási, -törlési és -felhasználási jogköröket;
 
-g)[^11] rendszeresen figyelemmel kíséri az intézmények költségvetésének (üzleti tervének) végrehajtását, a jóváhagyott költségvetési előirányzatok, illetve az azokból ellátandó feladatok teljesülésének veszélye esetén a hatáskörébe tartozó előirányzatoknál, intézményeknél megteszi a szükséges intézkedéseket, illetve kormányzati hatáskörbe tartozó ügyekben a miniszternél intézkedést kezdeményez;
+g)[^13] rendszeresen figyelemmel kíséri az intézmények költségvetésének (üzleti tervének) végrehajtását, a jóváhagyott költségvetési előirányzatok, illetve az azokból ellátandó feladatok teljesülésének veszélye esetén a hatáskörébe tartozó előirányzatoknál, intézményeknél megteszi a szükséges intézkedéseket, illetve kormányzati hatáskörbe tartozó ügyekben a miniszternél intézkedést kezdeményez;
 
 h) felülvizsgálja, értékeli és jóváhagyja a költségvetési szervek költségvetési beszámolóit;
 
@@ -40,5 +40,5 @@ i) megállapítja, illetve jóváhagyja a költségvetési szervek pénzmaradvá
 
 j) megszervezi a saját vagy az intézmények feladatkörébe tartozó egyes szakmai, támogatási, illetve európai uniós vagy más nemzetközi forrásból származó támogatásból megvalósuló programok végrehajtását, lebonyolítását.
 
-[^10]: A 11. § (1) bekezdés g) pontja a 419/2012. (XII. 29.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
-[^11]: A 11. § (2) bekezdés g) pontja a 419/2012. (XII. 29.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^12]: A 11. § (1) bekezdés g) pontja a 419/2012. (XII. 29.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^13]: A 11. § (2) bekezdés g) pontja a 419/2012. (XII. 29.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
