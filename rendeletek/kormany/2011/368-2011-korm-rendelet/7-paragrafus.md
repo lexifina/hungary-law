@@ -10,7 +10,7 @@ c) az önkormányzati hivatal,
 
 d) az országos területi hálózattal rendelkező költségvetési szerv központi szerve,
 
-e)[^8] a társulási tanács munkaszervezeti feladatait ellátó költségvetési szerv, és
+e)[^9] a társulási tanács munkaszervezeti feladatait ellátó költségvetési szerv, és
 
 f) a költségvetési szervként működő közreműködő szervezet.
 
@@ -30,4 +30,4 @@ b) a szellemi, fizikai támogató funkciókat ellátók száma külön szervezet
 
 (4) Az országos nemzetiségi önkormányzat hivatala vezetőjének igazgatásszervezői vagy állam- és jogtudományi doktori képesítéssel, okleveles közgazdász képesítéssel, vagy okleveles közigazgatási menedzser szakképesítéssel, a pénzügyi források és a vagyon mértékének megfelelő vezetési-szervezési és pénzügyi-gazdasági ismeretekkel, szakmai és vezetői gyakorlattal rendelkező, pályázati úton kiválasztott természetes személy nevezhető ki.
 
-[^8]: Az Ávr. 7. § (1) bekezdés e) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 2. pontja szerint módosított szöveg.
+[^9]: Az Ávr. 7. § (1) bekezdés e) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 2. pontja szerint módosított szöveg.

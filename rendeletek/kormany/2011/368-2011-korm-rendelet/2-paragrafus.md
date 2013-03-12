@@ -16,9 +16,10 @@ f) a működési és a felhalmozási célú átvett pénzeszköz, amely az álla
 
 g)–h)[^6]
 
-i) az előző évi előirányzat-maradvány, pénzmaradvány, valamint a vállalkozási maradvány alaptevékenység ellátására történő igénybevétele.
+i)[^7]
 
 [^3]: Az Ávr. 2. § nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 2. pontja szerint módosított szöveg.
 [^4]: Az Ávr. 2. § a) pontját a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 2. pontja hatályon kívül helyezte.
 [^5]: Az Ávr. 2. § b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 1. pontja és 40. § (2) bekezdés 2. pontja szerint módosított szöveg.
 [^6]: Az Ávr. 2. § g)–h) pontját a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^7]: Az Ávr. 2. § i) pontját a 74/2013. (III. 11.) Korm. rendelet 33. § (1) bekezdés 1. pontja hatályon kívül helyezte.

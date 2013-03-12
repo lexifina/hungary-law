@@ -1,8 +1,8 @@
-138. § (1)[^138] A járulék és adó, a biztonságos és gazdaságos gyógyszer- és gyógyászati segédeszköz ellátás, továbbá a gyógyszerforgalmazás címén kimutatott összegeket az állami adóhatóság által vezetett számlák egyenlege alapján a Kincstár naponta átvezeti a társadalombiztosítás pénzügyi alapjai fizetési számláira.
+138. § (1)[^158] A járulék és adó, a biztonságos és gazdaságos gyógyszer- és gyógyászati segédeszköz ellátás, továbbá a gyógyszerforgalmazás címén kimutatott összegeket az állami adóhatóság által vezetett számlák egyenlege alapján a Kincstár naponta átvezeti a társadalombiztosítás pénzügyi alapjai fizetési számláira.
 
 (2) Az állami adóhatósághoz késedelmi pótlék és bírság címen befolyt összegből a társadalombiztosítás pénzügyi alapjait megillető részt az állami adóhatóság havonta a tárgyhót követő hónap 15-éig átvezeti a társadalombiztosítás pénzügyi alapjai fizetési számláira.
 
-(3)[^139] Az egészségügyi hozzájárulás és a korkedvezmény-biztosítási járulék címén kimutatott összegeket az állami adóhatóság által vezetett számlák egyenlege alapján a Kincstár naponta átvezeti a társadalombiztosítás pénzügyi alapjai fizetési számláira.
+(3)[^159] Az egészségügyi hozzájárulás és a korkedvezmény-biztosítási járulék címén kimutatott összegeket az állami adóhatóság által vezetett számlák egyenlege alapján a Kincstár naponta átvezeti a társadalombiztosítás pénzügyi alapjai fizetési számláira.
 
 (4) A jogerős fizetési meghagyások alapján teljesített munkáltatói táppénz-hozzájárulás címén az állami adóhatóság által vezetett számlákra befolyt összeget a Kincstár naponta átvezeti az Egészségbiztosítási Alap fizetési számlájára.
 
@@ -28,5 +28,5 @@ a) a Nyugdíjbiztosítási Alap által folyósított, a Nemzeti Család- és Szo
 
 b) az Egészségbiztosítási Alap által folyósított közgyógyellátás kiadásait az előirányzat-felhasználási terv alapján havonta a tárgyhó utolsó előtti munkanapjáig kell megtéríteni úgy, hogy az még a tárgyhóban az Egészségbiztosítási Alap fizetési számláján jóváírásra kerüljön.
 
-[^138]: Az Ávr. 138. § (1) bekezdése az 56/2012. (III. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^139]: Az Ávr. 138. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^158]: Az Ávr. 138. § (1) bekezdése az 56/2012. (III. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^159]: Az Ávr. 138. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

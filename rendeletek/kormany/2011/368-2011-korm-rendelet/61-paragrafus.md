@@ -62,6 +62,8 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 (13) A költségvetési főfelügyelőt, felügyelőt akadályoztatása esetén az államháztartásért felelős miniszter által kijelölt költségvetési főfelügyelő, felügyelő teljes jogkörrel helyettesíti.
 
-(14) A költségvetési szervhez kijelölt kincstári biztos, felsőoktatási kincstári megbízott köteles a költségvetési főfelügyelőt, felügyelőt munkájában támogatni.
+(14)[^81] A költségvetési szervhez kijelölt kincstári biztos, köteles a költségvetési főfelügyelőt, felügyelőt munkájában támogatni.
 
 (15) A költségvetési főfelügyelő, felügyelő működésével összefüggő kiadásokat az államháztartásért felelős miniszter irányítása alatt álló fejezetben kell biztosítani.
+
+[^81]: Az Ávr. 61. § (14) bekezdése a 74/2013. (III. 11.) Korm. rendelet 33. § (2) bekezdés 4. pontja szerint módosított szöveg.

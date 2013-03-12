@@ -12,7 +12,7 @@ b) az előleg több részletben történő folyósítása esetén az előleg –
 
 c) a kedvezményezett köteles visszafizetni az előleget, ha nem nyújt be igénylést időközi kifizetésre a támogatás folyósítójához az előleg vagy annak első részlete kifizetésétől számított hat hónapon belül, illetve a benyújtott kifizetési igénylés vagy más körülmény – így különösen a helyszíni ellenőrzés tapasztalatai – a költségvetési támogatás nem rendeltetésszerű felhasználását bizonyítja,
 
-d)[^91] időközi kifizetést a támogatás folyósítója a felmerült, vagy – ha a pályázati felhívás és a támogatási szerződés vagy a támogatói okirat arra lehetőséget biztosít – átalány alapon elszámolt költségekhez igazodva teljesítés- és forrásarányosan teljesít,
+d)[^110] időközi kifizetést a támogatás folyósítója a felmerült, vagy – ha a pályázati felhívás és a támogatási szerződés vagy a támogatói okirat arra lehetőséget biztosít – átalány alapon elszámolt költségekhez igazodva teljesítés- és forrásarányosan teljesít,
 
 e) a kedvezményezett időközi kifizetési kérelméhez mellékelni kell a ténylegesen felmerült költségeket igazoló számla, illetve egyéb, a gazdasági eseményt hitelesen igazoló dokumentum másolatát, valamint a követelés kiegyenlítésről szóló bizonylat másolatát, szállítói kiutalás esetén pedig a külön jogszabályban meghatározott dokumentumot, azzal, hogy az irányító hatóság által meghatározott összeghatár alatt számlaösszesítő is benyújtható,
 
@@ -34,7 +34,7 @@ i) ha a pályázati felhívás, a támogatói okirat, támogatási szerződés a
 
 (9) A kutatás-fejlesztésről és technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. § 1. pont d) alpontjában meghatározott tevékenység támogatása esetén a (2) bekezdés szerinti mértékű előleg – a (4) bekezdés szerinti kivétellel – a támogatott tevékenység megvalósítása során legfeljebb három alkalommal nyújtható 25%-os ütemezésben, a finanszírozás évenkénti ütemének figyelembevételével, a korábban kapott előleggel, időarányos saját forrással történő elszámolást követően. A költségvetési támogatás fennmaradó része csak a zárójelentés elfogadása után folyósítható. Központi költségvetési szerv részére a 75%-os előleggel történt elszámolást követően a fennmaradó összeg előlegként átcsoportosítható azzal a feltétellel, hogy nem megfelelő szakmai teljesítés esetén a kedvezményezett fejezetnek intézkednie kell a jogosulatlanul igénybe vett támogatásnak az átadó fejezet részére történő visszarendezéséről.
 
-(10)[^92] A Norvég Finanszírozási Mechanizmus és az EGT Finanszírozási Mechanizmus keretében finanszírozott támogatott tevékenységek esetén az előleg mértéke
+(10)[^111] A Norvég Finanszírozási Mechanizmus és az EGT Finanszírozási Mechanizmus keretében finanszírozott támogatott tevékenységek esetén az előleg mértéke
 
 a) legfeljebb a megítélt költségvetési támogatás 50%-a,
 
@@ -48,10 +48,10 @@ lehet.
 
 (12) Ha eredetileg európai uniós forrás nélkül finanszírozott támogatott tevékenység részben európai uniós forrás bevonásával kerül megvalósításra, a (2)–(4) bekezdésben szereplő feltételektől olyan mértékben lehet eltérni, hogy a támogatott tevékenység új finanszírozási feltételei a hatályos támogatói okiratban, támogatási szerződésben meghatározott feltételekhez képest a kedvezményezett pénzügyi helyzetét illetően megegyezzenek.
 
-(13)[^93] A Szolidaritás és migrációs áramlások igazgatása Általános Program keretében megítélhető költségvetési támogatások esetén előleg részletekben – de maximum három részletben – nyújtható. Az első előlegrészlet legmagasabb mértéke a költségvetési támogatás összegének 37,5%-a, az ezt követő két előlegrészlet legmagasabb mértéke 25%-a, illetve 22,5%-a azzal, hogy a költségvetési támogatás fennmaradó része csak az előlegrészletekkel való teljes elszámolás után biztosítható. Költségvetési szerv részére a tizenöt millió forint alatti költségvetési támogatás teljes összege előlegként folyósítható azzal a feltétellel, hogy nem megfelelő teljesítés esetén a fejezetet irányító szervnek intézkednie kell a jogosulatlanul igénybe vett támogatásnak az átadó fejezet részére történő visszafizetéséről.
+(13)[^112] A Szolidaritás és migrációs áramlások igazgatása Általános Program keretében megítélhető költségvetési támogatások esetén előleg részletekben – de maximum három részletben – nyújtható. Az első előlegrészlet legmagasabb mértéke a költségvetési támogatás összegének 37,5%-a, az ezt követő két előlegrészlet legmagasabb mértéke 25%-a, illetve 22,5%-a azzal, hogy a költségvetési támogatás fennmaradó része csak az előlegrészletekkel való teljes elszámolás után biztosítható. Költségvetési szerv részére a tizenöt millió forint alatti költségvetési támogatás teljes összege előlegként folyósítható azzal a feltétellel, hogy nem megfelelő teljesítés esetén a fejezetet irányító szervnek intézkednie kell a jogosulatlanul igénybe vett támogatásnak az átadó fejezet részére történő visszafizetéséről.
 
 (14) Nem nyújtható előleg a kedvezményezett számára, ha a költségvetési támogatás kifizetésére utófinanszírozással, a projekt megvalósítását követően, egy összegben kerül sor.
 
-[^91]: Az Ávr. 96. § (4) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 28. pontja szerint módosított szöveg.
-[^92]: Az Ávr. 96. § (10) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^93]: Az Ávr. 96. § (13) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 29. pontja szerint módosított szöveg.
+[^110]: Az Ávr. 96. § (4) bekezdés d) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 28. pontja szerint módosított szöveg.
+[^111]: Az Ávr. 96. § (10) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^112]: Az Ávr. 96. § (13) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 29. pontja szerint módosított szöveg.
