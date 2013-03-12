@@ -1,1 +1,0 @@
-## „(4) A hegyközségekről szóló 2012. évi CCXIX. törvény 40. § (2) bekezdés g) pontja tekintetében a Kormány növénytermesztési hatóságként a megyei kormányhivatal növény- és talajvédelmi igazgatóságát jelöli ki.”

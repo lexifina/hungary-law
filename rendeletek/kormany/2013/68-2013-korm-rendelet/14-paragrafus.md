@@ -1,3 +1,0 @@
-## 13. § Az R2. 19. §-a helyébe a következő rendelkezés lép:
-
-## „19. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81/A. §-ában – adóhatóság, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv felé történő adatszolgáltatás, továbbá a mezőgazdasági őstermelők adatainak országos nyilvántartása kivételével –, valamint a 81/B. §-ában foglaltak tekintetében a Kormány mezőgazdasági igazgatási szervként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki. Az őstermelői igazolvány használatával kapcsolatos ellenőrzést a megyei kormányhivatal igazgatósága a járási állat-egészségügyi hivatalhoz delegált falugazdászok közreműködésével folytatja le.”

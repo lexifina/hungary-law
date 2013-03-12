@@ -1,3 +1,0 @@
-## 9. § A fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet (a továbbiakban: R2.) 6. §-a a következő (13) bekezdéssel egészül ki:
-
-## „(13) A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, valamint növény- és talajvédelmi igazgatósága ellátja az ökológiai termelésről és az ökológiai termékek címkézéséről és a 2092/91/EGK rendelet hatályon kívül helyezéséről szóló, 2007. június 28-i 834/2007/EK tanácsi rendeletben, illetve az annak végrehajtására kiadott bizottsági rendeletekben az ellenőrző hatóság számára megállapított feladatokat.”
