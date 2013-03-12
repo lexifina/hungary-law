@@ -1,0 +1,3 @@
+## 11. § Az Áhsz. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A befektetett eszközöket, a forgóeszközöket bekerülési értéken kell értékelni, csökkentve azt a 30–31/A. § szerinti leírásokkal, növelve azt a (2) bekezdés szerinti visszaírás összegével. A mérleg fordulónapi értékelés során tartósnak minősül a könyv szerinti érték és a piaci érték különbözete, ha az múltbeli tények vagy jövőbeni várakozások alapján legalább egy évig fennáll. A különbözet tartósnak minősül – fennállásának időtartamától függetlenül – akkor is, ha az értékeléskor a rendelkezésre álló információk alapján véglegesnek tekinthető.”
