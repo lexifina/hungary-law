@@ -14,7 +14,7 @@ b) az általa vállalt szolgáltatásokra és kötelezettségekre,
 
 c) a vételár vagy ellenszolgáltatás összegére
 
-## vonatkozóan.
+vonatkozóan.
 
 (5) Ha a pályázati kiírás biztosítékadási kötelezettséget tartalmaz, az ajánlat csak akkor érvényes, ha az ajánlattevő igazolja, hogy a kiírásban megjelölt összegű biztosítékot az ott meghatározott formában és módon rendelkezésre bocsátotta.
 

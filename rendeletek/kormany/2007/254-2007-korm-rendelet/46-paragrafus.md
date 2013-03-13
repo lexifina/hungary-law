@@ -1,5 +1,3 @@
-## jogosultjait.
-
 46. § (1)[^79] Az árverés nyilvános és azt közjegyző jelenlétében kell megtartani. Az árverést a kiíró alkalmazottja vagy megbízottja folytatja le. Az árverésről a közjegyző – a licitálásban kialakult végső sorrendet is tartalmazó – jegyzőkönyvet készít.
 
 (2) Árverésen részt venni és vételi ajánlatot tenni személyesen vagy meghatalmazott útján lehet. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba – ingatlan adásvételére vonatkozó meghatalmazást közokiratba vagy ügyvéd által ellenjegyzett magánokiratba – kell foglalni.
