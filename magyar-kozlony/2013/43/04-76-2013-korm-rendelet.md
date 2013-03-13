@@ -1,0 +1,50 @@
+# A Kormány 76/2013. (III. 13.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 43. szám, 2013. március 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4781ad98981a08a32c28584777cef74113781e4b/dokumentumok/6b8ab9af1f923c7893f4b6dc90a39b34ca4aa014/letoltes)
+
+---
+
+A Kormány 76/2013. (III. 13.) Korm. rendelete
+a Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel
+rendelkező személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható
+hozzátartozói ellátásokról szóló 4/1995. (I. 20.) Korm. rendelet módosításáról
+A Kormány a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 24. § (2) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező
+személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról szóló
+4/1995. (I. 20.) Korm. rendelet (a továbbiakban: Rendelet) 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az Akadémia Doktori Tanácsa által – az akadémiai szabályozásban meghatározott feltételek szerint – odaítélt
+Akadémia Doktora címmel rendelkező személyek tudományos teljesítményét és köztestületi munkáját az Akadémia
+tiszteletdíj folyósításával is elismerheti. A tiszteletdíj ez esetben havonta 90 ezer forint, a (2)–(5) bekezdésben foglaltak
+figyelembevételével.”
+(2) A Rendelet 13. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A tiszteletdíjat folyósítani lehet a magyar állampolgárnak, ha Magyarországon van a lakóhelye, illetve folyósítható
+– kérelemre –, ha Magyarországon munkaviszonya, közalkalmazotti jogviszonya, közszolgálati jogviszonya vagy
+lakóhelye nincs, de a hazai tudományos életben aktívan részt vesz. A tiszteletdíj nem magyar állampolgárnak
+– kérelmére – csak abban az esetben folyósítható, ha Magyarországon letelepedett vagy itt letelepedési szándékkal
+jogszerűen tartózkodik. A kérelmet az Akadémia elnöke bírálja el.”
+2. § A Rendelet 16. §-a a következő (5) és (6) bekezdéssel egészül ki:
+„(5) Az (1) bekezdés szerinti tiszteletdíj és hozzátartozói ellátás folyósítását az Akadémia elnöke felfüggesztheti, ha
+a jogosult bűncselekmény szándékos elkövetése miatt jogerős szabadságvesztés büntetés hatálya alatt áll.
+A felfüggesztés időtartama a jogerős ítélet alapján végrehajtott szabadságvesztés időtartamával azonos, amely
+az előzetes letartóztatásban eltöltött idővel meghosszabbodik. Ha az ítélet szerinti közügyektől eltiltás büntetés
+a szabadságvesztés időtartamát meghaladja, a tiszteletdíjat vagy a hozzátartozói ellátást a közügyektől eltiltás
+időtartamára kell felfüggeszteni.
+(6) A tiszteletdíj és a hozzátartozói ellátás folyósításának felfüggesztése az erről szóló döntésnek az érintettel való
+közlése hónapját követő hónaptól érvényes.”
+3. § A Rendelet a következő 22. §-sal egészül ki:
+„22. § A Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező
+személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról szóló
+4/1995. (I. 20.) Korm. rendelet módosításáról szóló 76/2013. (III. 13.) Korm. rendelettel (a továbbiakban: Mód.R.)
+megállapított 16. § (5) és (6) bekezdését a Mód.R. hatálybalépésekor folyósított tiszteletdíj és hozzátartozói ellátás
+tekintetében is alkalmazni kell, azzal, hogy a folyósítás felfüggesztési időpontjának megállapítása során a 16. §
+(6) bekezdése szerinti közlés időpontjaként a Mód.R. hatálybalépését követő időpont vehető figyelembe.”
+
+4. § A Rendelet
+a) 11. § (1) bekezdésében a „főtitkárához” szövegrész helyébe az „elnökénél” szöveg,
+b) 12. § (2) bekezdésében, 16. § (2) és (3) bekezdésében a „főtitkára” szövegrész helyébe az „elnöke” szöveg,
+c) 16. § (4) bekezdésében a „főtitkárától” szövegrész helyébe az „elnökétől” szöveg
+lép.
+5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
