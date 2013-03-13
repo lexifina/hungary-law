@@ -1,0 +1,1 @@
+A Kormány a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 5. melléklet 2. pontja alapján jóváhagyja a Kvtv. 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Peres ügyek alcím 467 004 ezer forinttal történő túllépését.
