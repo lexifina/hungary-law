@@ -1,5 +1,3 @@
-## 15. §[^64] Ha az engedélyező hatóság a növényvédő szer forgalomba hozatalának és felhasználásának engedélyezésére irányuló eljárásban megállapította, hogy a 16. § (1) bekezdésében foglalt feltételek teljesülnek, akkor az engedélyben megadja a kérelmezőnek a címketerv végleges elkészítéséhez szükséges adatokat, és egyidejűleg felszólítja a végleges, magyar nyelvű címketerv 15 napon belül történő benyújtására. Ezzel egyidejűleg a 30. § (4) bekezdése szerinti tájékoztatót és a csomagolás mintadarabjait is be kell nyújtani.
-
 16. § (1) Az engedélyező hatóság a növényvédő szer forgalomba hozatalát és felhasználását akkor engedélyezi ha
 
 a) a növényvédő szer hatóanyaga szerepel az 1. számú mellékletben,
@@ -18,20 +16,19 @@ g) az engedélyezett használatából eredő és toxikológiai vagy környezeti 
 
 h) a növényvédő szer fizikai és kémiai tulajdonságai meghatározásra kerültek, és a növényvédő szer megfelel a megjelölt használatra, valamint tárolásra alkalmas,
 
-i)[^65] az engedélyező hatóság a kérelemben megjelölt növényi kultúrák esetében a 396/2005/EK európai parlamenti és tanácsi rendeletével összhangban járt el, vagy
+i)[^62] az engedélyező hatóság a kérelemben megjelölt növényi kultúrák esetében a 396/2005/EK európai parlamenti és tanácsi rendeletével összhangban járt el, vagy
 
-j)[^66] az engedélyben a növényvédelmi technológiai utasítások oly módon kerültek meghatározásra, hogy a vonatkozó rendeletben megállapított határérték túllépésére ne kerüljön sor, valamint
+j)[^63] az engedélyben a növényvédelmi technológiai utasítások oly módon kerültek meghatározásra, hogy a vonatkozó rendeletben megállapított határérték túllépésére ne kerüljön sor, valamint
 
-k)[^67] ha az 5. § (5)–(8) bekezdésében foglaltaknak eleget tesz,
+k)[^64] ha az 5. § (5)–(8) bekezdésében foglaltaknak eleget tesz,
 
-l)[^68] a címketerv megfelel az előírásoknak.
+l)[^65] a címketerv megfelel az előírásoknak.
 
 (2) A növényvédő szer felhasználásra vonatkozó előírásokat úgy kell meghatározni, hogy az (1) bekezdés k) pontjában foglalt feltételeknek megfeleljen.
 
 (3) Az (1) bekezdés szerinti követelményekre vonatkozó kísérleteket és vizsgálatokat olyan elfogadott módszerekkel kell végrehajtani, amelyek a növényvédő szer tervezett alkalmazásának helyére jellemző mezőgazdasági, növényegészségügyi és környezeti feltételeknek megfelelnek.
 
-[^64]: A 15. § a 73/2010. (V. 13.) FVM rendelet 8. §-ával megállapított szöveg.
-[^65]: A 16. § (1) bekezdésének i) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^66]: A 16. § (1) bekezdésének j) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^67]: A 16. § (1) bekezdésének k) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^68]: A 16. § (1) bekezdésének l) pontját a 97/2005. (X. 28.) FVM rendelet 22. §-a iktatta be.
+[^62]: A 16. § (1) bekezdésének i) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^63]: A 16. § (1) bekezdésének j) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^64]: A 16. § (1) bekezdésének k) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^65]: A 16. § (1) bekezdésének l) pontját a 97/2005. (X. 28.) FVM rendelet 22. §-a iktatta be.

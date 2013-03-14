@@ -1,6 +1,6 @@
-22. §[^92] (1)[^93] Engedélyezési célú, biológiai hatékonysági vizsgálatot az erre hatáskörrel rendelkező hatóságon kívül csak a Helyes Kísérleti Gyakorlatra (Good Experimental Practice, a továbbiakban: GEP) vonatkozó minősítéssel (a továbbiakban: GEP-minősítés) rendelkező vizsgálóhely végezhet. A vizsgálóhelyek GEP-minősítését, illetve a Gyűjteményben meghatározott GEP-követelmények szerinti működésének ellenőrzését engedélyező hatóság végzi.
+22. §[^96] (1)[^97] Engedélyezési célú, biológiai hatékonysági vizsgálatot az erre hatáskörrel rendelkező hatóságon kívül csak a Helyes Kísérleti Gyakorlatra (Good Experimental Practice, a továbbiakban: GEP) vonatkozó minősítéssel (a továbbiakban: GEP-minősítés) rendelkező vizsgálóhely végezhet. A vizsgálóhelyek GEP-minősítését, illetve a Gyűjteményben meghatározott GEP-követelmények szerinti működésének ellenőrzését engedélyező hatóság végzi.
 
-(2)[^94] A minősítés iránti kérelmet az engedélyező hatósághoz kell benyújtani. A GEP-minősítés iránti kérelemnek tartalmaznia kell a kérelmező nevét, címét, elérhetőségét, valamint azon vizsgálóhely nevét, címét, melynek minősítését kérelmezik, továbbá a (3)–(4) bekezdésekben foglaltakat.
+(2)[^98] A minősítés iránti kérelmet az engedélyező hatósághoz kell benyújtani. A GEP-minősítés iránti kérelemnek tartalmaznia kell a kérelmező nevét, címét, elérhetőségét, valamint azon vizsgálóhely nevét, címét, melynek minősítését kérelmezik, továbbá a (3)–(4) bekezdésekben foglaltakat.
 
 (3) A kérelemben ki kell térni
 
@@ -66,6 +66,6 @@ bf) egyéb (e).
 
 (9) Az engedélyező hatóság szúrópróbaszerűen ellenőrzi a GEP-minősítéssel rendelkező vizsgálóhelyeket. Amennyiben megállapítást nyer, hogy a vizsgálóhely nem tartja be a rá vonatkozó GEP-követelményeket, a hatóság a határozatban feltüntetett minősített területre vonatkozó tevékenységet legfeljebb 2 hónapra felfüggesztheti, illetve a kiadott GEP-minősítést visszavonhatja. Ha az ellenőrzés során egy adott kísérlettel kapcsolatban hiányosságok kerülnek megállapításra, a kísérletet a hiányosságok mértékétől függően az engedélyező hatóság kizárhatja az engedélyezésnél elfogadhatók közül.
 
-[^92]: A 22. § a 15/2009. (III. 6.) FVM rendelet 20. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^93]: A 22. § (1) bekezdése a 73/2010. (V. 13.) FVM rendelet 12. §-ával megállapított szöveg.
-[^94]: A 22. § (2) bekezdése a 73/2010. (V. 13.) FVM rendelet 12. §-ával megállapított szöveg.
+[^96]: A 22. § a 15/2009. (III. 6.) FVM rendelet 20. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^97]: A 22. § (1) bekezdése a 73/2010. (V. 13.) FVM rendelet 12. §-ával megállapított szöveg.
+[^98]: A 22. § (2) bekezdése a 73/2010. (V. 13.) FVM rendelet 12. §-ával megállapított szöveg.

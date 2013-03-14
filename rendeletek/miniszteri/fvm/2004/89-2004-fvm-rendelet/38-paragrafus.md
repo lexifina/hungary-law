@@ -1,5 +1,5 @@
-## 37. §[^126]
+## 37. §[^147]
 
 ## Az engedélyezési, engedély fenntartási díj
 
-[^126]: A 37. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^147]: A 37. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének g) pontja hatályon kívül helyezte.

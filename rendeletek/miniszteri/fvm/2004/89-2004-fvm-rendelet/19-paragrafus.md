@@ -1,24 +1,26 @@
-## Címkétől eltérő felhasználás
+## Növényvédő szerek nemzeti felülvizsgálata[^80]
 
-19. § (1)[^80] A 23. § (1) bekezdés figyelembevételével, a felhasználó felelősségére az engedélyező hatóság külön határozatban engedélyezheti kiskultúrákban, illetve kis területű felhasználásra valamely már engedélyezett növényvédő szer felhasználását az engedélyben nem jelölt kultúrákban, legfeljebb az engedély érvényességi idejéig, amennyiben az megfelel az 5. § (5) bekezdése c) pontjának 3., 4. és 5. alpontjaiban foglaltaknak, amelyről az engedélytulajdonost értesíti. A határozatban szereplő felhasználás a növényvédő szer engedélyokiratában, illetve a jóváhagyott címkéjén nem kerül feltüntetésre. A kiadott határozat alapján a növényvédő szert meghatározott termelői kör használhatja.
+19. §[^81] (1) Amennyiben az engedélyezett növényvédő szer hatóanyaga szerepel az 1. számú mellékletben vagy felvétele megújításra került, az engedélyező hatóságnak – az 1. számú mellékletben megadott határidőkön belül – felül kell vizsgálnia a forgalomban lévő, az adott hatóanyagot tartalmazó valamennyi növényvédő szer engedélyét annak eldöntésére, hogy megfelel-e az 1. számú mellékletben szereplő követelményeknek. Ennek során az engedélyesnek
 
-(2)[^81] A címkétől eltérő felhasználásra vonatkozó engedélyt a felhasználásban érdekelt természetes személy, gazdálkodó szervezet, társadalmi szervezet, köztestület, költségvetési szerv kérheti. A kérelmet a Mezőgazdasági Szakigazgatási Hivatalnak a felhasználás helye szerint illetékes területi szervén keresztül kell az engedélyező hatósághoz beterjeszteni.
+a) az előírt határidőn belül – hatóanyag felvételének megújítása esetén a benyújtott új védett adatokra vonatkozóan is – bizonyítania kell, hogy rendelkezik a 2. számú melléklet szerinti adatokkal, vagy igazolnia kell, hogy az adat tulajdonosa hozzáférést biztosít az adatokhoz,
 
-(3) A kérelemhez a következő adatokat kell mellékelni:
+b) igazolnia kell, hogy teljesülnek az 1. számú mellékletben a hatóanyagokra megállapított feltételek és korlátozások, beleértve a hatóanyag egyenértékűségének igazolását, továbbá azt, hogy a hatóanyag tisztasági fokát és szennyezéseinek jellegét illetően nem tér el jelentősen az engedélyezett hatóanyagok közösségi jegyzékére való felvétel érdekében benyújtott eredeti kérelemhez csatolt részletes és összefoglaló adatokban megjelölt összetételtől,
 
-a) a kérelem indokolása,
+c) hatóanyag felvételének megújítása esetén az új összetételre vonatkozóan részletes vizsgálati adatokat kell benyújtania, ha a technikai specifikáció eltér a közösségi jegyzékre való felvételkor elfogadott specifikációtól,
 
-b) növényvédőszer-maradék vizsgálati adatok (extrapolálás, kölcsönös elismerés figyelembevételével),
+d) amennyiben a kérelem megfelel az a) és b) pontokban foglalt követelményeknek, a növényvédő szer újraértékelésének a 6. számú melléklet szerinti elvégzése érdekében meg kell adnia az előírt határidőn belül a 3. számú melléklet szerinti részletes és összefoglaló adatokat, továbbá szükség esetén az engedélyezési jelentés-tervezetet, beleértve a magyarországi felhasználás körülményeit a helyes mezőgazdasági gyakorlatnak megfelelően.
 
-c) a biztonságos felhasználásra vonatkozó információk.
+(2) Ha a növényvédő szer több, az 1. számú mellékletben szereplő hatóanyagot is tartalmaz, az újraértékelést az adott hatóanyagokra megállapított határidők közül a legkésőbb lejáró határidő figyelembevételével kell lefolytatni.
 
-(4)[^82] A címkétől eltérő felhasználásra vonatkozó engedély módosítható, vagy a 18. § (5) bekezdés d)–h) pontja alapján visszavonható, az eredeti engedélyes indokolt kérelmére is.
+(3) Az uniós értékelés alatt álló hatóanyagot is tartalmazó növényvédő szer esetén az újraértékelésre akkor kerül sor, ha az összes hatóanyag feltüntetésre került az 1. számú mellékletben.
 
-(5) Az (1) bekezdés szerinti címkétől eltérő felhasználásra vonatkozó engedély alapján történő növényvédő szer felhasználás nem reklámozható, nem sértheti az eredeti engedély alapján megszerzett jogokat.
+(4) Az engedélyezett növényvédő szer nemzeti felülvizsgálatának eredményeként az engedélyező hatóság
 
-(6)[^83] Az engedélyező hatóság az (1) bekezdés szerinti határozatot, illetve a határozat módosítását, a határozat visszavonását az engedélyező hatóság hivatalos honlapján közzéteszi.
+a) a felülvizsgált engedély bevonása mellett az 5. § (1) bekezdése szerint dönt a forgalomba hozatal engedélyezéséről, amennyiben a növényvédő szer megfelel az 1. számú mellékletben szereplő követelményeknek,
 
-[^80]: A 19. § (1) bekezdése a 15/2009. (III. 6.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^81]: A 19. § (2) bekezdése a 73/2010. (V. 13.) FVM rendelet 11. §-ával megállapított szöveg.
-[^82]: A 19. § (4) bekezdése a 15/2009. (III. 6.) FVM rendelet 16. § (2) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^83]: A 19. § (6) bekezdése a 15/2009. (III. 6.) FVM rendelet 16. § (3) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+b) az engedélyt visszavonja, amennyiben a növényvédő szer nem felel meg az 1. számú mellékletben szereplő követelményeknek.
+
+(5) Az engedélyező hatóság a felülvizsgálat eredményéről tájékoztatja a Bizottságot.
+
+[^80]: A 19. §-t megelőző alcím a 13/2013. (III. 6.) VM rendelet 10. §-ával megállapított szöveg.
+[^81]: A 19. § a 13/2013. (III. 6.) VM rendelet 10. §-ával megállapított szöveg.

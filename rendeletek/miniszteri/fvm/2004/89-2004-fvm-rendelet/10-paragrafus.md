@@ -1,5 +1,6 @@
-10. §[^53] (1) Az 1. számú melléklet A. részében még nem szereplő, régi hatóanyagot tartalmazó, Magyarországon adatvédelem alatt nem álló és Magyarországon legalább tíz éve engedélyezett növényvédő szerek engedély iránti kérelméhez a 8. számú mellékletben foglalt egyszerűsített követelményeknek megfelelő adatokat kell megadni.
+10. §[^47] (1)[^48]
 
 (2) Növényvédő szer légi úton való kijuttatásának engedélyezéséhez a kérelmezőnek meg kell adnia a kijuttatás előnyeire, indokoltságára, környezeti és egészségi kockázatára vonatkozó adatokat.
 
-[^53]: A 10. § a 73/2010. (V. 13.) FVM rendelet 5. §-ával megállapított szöveg.
+[^47]: A 10. § a 73/2010. (V. 13.) FVM rendelet 5. §-ával megállapított szöveg.
+[^48]: A 10. § (1) bekezdését a 13/2013. (III. 6.) VM rendelet 24. § h) pontja hatályon kívül helyezte.

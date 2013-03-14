@@ -1,8 +1,11 @@
-## Az engedélyezéshez benyújtott dokumentáció kezelése[^99]
+## 24. §[^106]
 
-25. § (1)[^100] Az engedélyezéshez nyomtatott formában, illetve elektronikus adathordozón benyújtott részletes és összefoglaló adatok biztonságos kezeléséről és tárolásáról az engedélyező hatóság gondoskodik.
+## Az engedélyezéshez benyújtott dokumentáció kezelése[^107]
+
+25. § (1)[^108] Az engedélyezéshez nyomtatott formában, illetve elektronikus adathordozón benyújtott részletes és összefoglaló adatok biztonságos kezeléséről és tárolásáról az engedélyező hatóság gondoskodik.
 
 (2) A kérelem elbírálása után a teljes eredeti iratanyag egy példányának megőrzése az engedélyező hatóság feladata. A többi példányt a kérelmező saját költségén köteles elszállítani. Amennyiben erre az értesítést követő 6 hónapon belül nem kerül sor, a kérelmező költségére a dokumentációt az érintett hatóság megsemmisítheti.
 
-[^99]: A 25. §-t megelőző alcím a 15/2009. (III. 6.) FVM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^100]: A 25. § (1) bekezdése a 15/2009. (III. 6.) FVM rendelet 23. § (2) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^106]: A 24. §-t a 13/2013. (III. 6.) VM rendelet 24. § l) pontja hatályon kívül helyezte.
+[^107]: A 25. §-t megelőző alcím a 15/2009. (III. 6.) FVM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^108]: A 25. § (1) bekezdése a 15/2009. (III. 6.) FVM rendelet 23. § (2) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
