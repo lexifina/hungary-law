@@ -8,4 +8,6 @@ Felelős: belügyminiszter
 
 nemzeti fejlesztési miniszter
 
-2. egyetért azzal, hogy a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 23. § f) pontja úgy módosul, hogy a Nemzeti Eszközkezelő Zrt. (a továbbiakban: NET Zrt.) vagyonkezelésében lévő ingatlanokra vonatkozó szabályozással ellentétben az Ócsai Szociális Családiház-építési Program keretében létrejött lakópark ingatlanainak bérlője az igazolt költségének egy összegben való megtérítését igényelheti a NET Zrt.-től, ha az ingatlanon munkát (felújítás, karbantartás, pótlás, csere) végzett.
+2.[^1]
+
+[^1]: A 2. pontot az 1131/2013. (III. 14.) Korm. határozat 2. pontja visszavonta.
