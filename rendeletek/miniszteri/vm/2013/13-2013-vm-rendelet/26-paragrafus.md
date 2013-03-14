@@ -1,0 +1,3 @@
+## 25. § A növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén található megengedett növényvédőszer-maradékok határértékéről, valamint ezek hatósági ellenőrzéséről szóló 66/2010. (V. 12.) FVM rendelet 14. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) Ez a rendelet a 2013., 2014. és 2015. évre vonatkozó, a növényi és állati eredetű élelmiszerekben, illetve azok felületén található növényvédőszer-maradékok határértékeinek való megfelelés biztosítására, valamint a fogyasztók ilyen növényvédőszer-maradékokból eredő expozíciójának értékelésére irányuló, többéves összehangolt uniós ellenőrzési programról szóló, 2012. augusztus 31-i 788/2012/EU bizottsági végrehajtási rendeletnek való megfelelést szolgálja.”
