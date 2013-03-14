@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad Magyarország Kormánya és az Olasz Köztársaság Kormánya közötti, a katonai és haditechnikai területen történő együttműködésről, valamint védelmi és biztonsági eszközök kölcsönös átadásáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
