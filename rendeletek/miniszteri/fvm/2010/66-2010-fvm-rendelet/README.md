@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-66-20-8
 | 2010-05-28 | 2010-66-20-82.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-04 | 2010-66-20-82.3 | 43/2010. (XII. 20.) VM rendelet |
 | 2013-01-01 | 2010-66-20-82.4 | 151/2012. (XII. 29.) VM rendelet |
+| 2013-03-14 | 2010-66-20-82.5 | 13/2013. (III. 6.) VM rendelet |
