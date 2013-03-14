@@ -6,22 +6,24 @@
 
 ## Határidő: 2013. március 31.
 
-1. melléklet az 1036/2013. (II. 1.) Korm. határozathoz
+1. melléklet az 1036/2013. (II. 1.) Korm. határozathoz[^2]
 
-A Kutatási és Technológiai Innovációs Alapból 2013. évben újonnan meghirdetendő pályázatok
+A Kutatási és Technológiai Innovációs Alap 2013. évi felhasználási terve
 
-| Konstrukció megnevezése | Keretösszeg (milliárd Ft) | Megjelenés tervezett hónapja | Ismertetés |
+| A Kutatási és Technológiai Innovációs Alap 2013. évben újonnan meghirdetendő pályázatai |
 
-| Technológiai start-up ökoszisztéma építés | 2,1 | 2013. február | Eredetileg 2012-re tervezett. |
+| Konstrukció megnevezése | Keretösszeg (Mrd Ft) | Megjelenés tervezett hónapja |
 
-| Versenyképességi szerződések – K+F kapacitásfejlesztési alprogram | 2,0 | 2013. március | Eredetileg 2012-re tervezett. |
+| Technológiai start-up ökoszisztéma építés | 2,1 | 2013. február |
 
-| Piacorientált kutatás-fejlesztési tevékenység támogatása a közép-magyarországi és a konvergencia régióban | 10,0 | 2013. január | – A 2012. évi tapasztalatok alapján a legnagyobb piaci igény erre a konstrukcióra volt (2,4-szeres túljelentkezés), – az uniós kutatás-fejlesztési források várható kimerülése miatt (GOP 1. prioritás) a konvergencia régióban működő vállalkozások és kutatóhelyek kutatás-fejlesztési tevékenységének támogatása szükséges a 2013. évben. |
+| Versenyképességi Szerződések- K+F kapacitásfejlesztési alprogram | 2,0 | 2013. március |
 
-| Nemzetközi együttműködéssel megvalósuló alap és ipari kutatási, valamint infokommunikációs technológiai fejlesztési projektek támogatása a közép-magyarországi régióban (KTIA_AIK_12) | 2,0 | 2013. január | – A 2012. évi tapasztalatok alapján a legnagyobb igény a kutatóhelyek részéről erre a konstrukcióra volt (2,7-szeres túljelentkezés), – a konstrukció kerete felemelésre kerül. |
+| Piacorientált kutatás-fejlesztési tevékenység támogatása a közép-magyarországi régióban | 10,0 | 2013. február |
 
-| Nemzetközi programokba való bekapcsolódás támogatása | 2,0 | 2013. márciustól folyamatosan | A konstrukció célja a nemzetközi kapcsolatok erősítése, nemzetközi és kétoldalú programokban való részvétel. |
+| Nemzetközi programokba való bekapcsolódás támogatása | 2,0 | 2013. márciustól folyamatosan |
 
-| TIOP-2.3.1. és TIOP-2-3.3. központi egészségügyi informatikai konstrukciókhoz arányos közép-magyarországi régióval összefüggő forrás biztosítása | 2,47 | 2013. március | A központi egészségügyi informatikai konstrukciókhoz arányos közép-magyarországi régióval összefüggő forrás biztosítása érdekében szükséges. |
+| K+F+I ernyőpályázat egyes, a Kormánnyal Stratégiai Megállapodást kötő vállalkozások számára | 8,8 | 2013. február |
 
-| Összesen: | 20,57 |  |  |
+| Összesen | 24,9 |  |
+
+[^2]: Az 1. melléklet az 1132/2013. (III. 14.) Korm. határozattal megállapított szöveg.
