@@ -12,6 +12,8 @@ d) a 128. § (1) bekezdés a)–c) és e) pontja szerinti eljárásokban négy h
 
 e) a 128/A. § (5) bekezdése szerinti eljárásban két hónap.
 
-(3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés kivételével – a határozatot jogosult megváltoztatni.
+(3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott és a rendszerhasználati vagy csatlakozási díjakat megállapító határozat kivételével – a határozatot jogosult megváltoztatni.
+
+(3a) Ha a rendszerhasználati vagy a csatlakozási díjakat megállapító határozat bírósági felülvizsgálatának eredményeként a bíróság megállapítja, hogy a Hivatal határozatát hatályon kívül kell helyezni, a bíróság a Hivatal határozatát a Hivatal által lefolytatandó új hatósági eljárásban megállapítandó új rendszerhasználati vagy csatlakozási díjakat meghatározó határozat jogerőre emelkedésétől helyezi hatályon kívül.
 
 (4) Az Üzemi és Kereskedelmi Szabályzat jóváhagyására irányuló eljárásban az ügyfél jogai kizárólag az érintett engedélyeseket illeti meg.
