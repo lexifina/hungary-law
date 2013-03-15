@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti az elemi költségvetésről szóló 5/2012. (III. 1.) NGM rendelet.
+## 14. §[^1]
 
 1. melléklet a 10/2013. (III. 13.) NGM rendelethez
 
@@ -473,3 +473,5 @@ TARTALOMJEGYZÉK A „H” ŰRLAPGARNITÚRÁHOZ
 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó (50+...+53) | 54 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Cafetéria rendszer keretében adott juttatások (tájékoztató adat) | 55 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
