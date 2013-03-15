@@ -2,4 +2,4 @@
 
 ## 10. Az irodai utasítás és a rövid feljegyzés
 
-[^9]: A 12. § a 38. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^9]: A 12. § a 38. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.

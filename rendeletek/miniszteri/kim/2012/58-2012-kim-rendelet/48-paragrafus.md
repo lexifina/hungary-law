@@ -2,9 +2,7 @@
 
 48. § (1) Nem lép hatályba az R.
 
-a) 41. melléklet 3.1. pontjában, 6.1. pontjában, 8.1.–8.5. pontjában a „rendes”,
-
-b) 41. melléklet 12.5. pontjában a „tag kizárásról,”,
+a)–b)[^39]
 
 c) 41. melléklet 13.4.3. pontjában a „– az alapítók döntése szerint –”,
 
@@ -67,3 +65,5 @@ bf) 7.1.3. pontja,
 bg) 7.1.6. és 7.1.7. pontja,
 
 bh) 9.1.1. és 9.1.2. pontja.
+
+[^39]: A 48. § (1) bekezdés a)–b) pontját a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés d) pontja hatályon kívül helyezte.

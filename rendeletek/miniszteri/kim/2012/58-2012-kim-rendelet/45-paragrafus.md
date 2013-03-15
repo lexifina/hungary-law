@@ -16,13 +16,7 @@
 
 ## „8.3. a jogi személy szervezeti egység kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével”
 
-(5) Az R. 1. melléklet 8.5., 8.6. és 8.7. pontja a következő szöveggel lép hatályba:
-
-## „8.5. az általános forgalmi adó alanyának az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti, az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozata
-
-## 8.6. a szervezet képviselőjének adóazonosító száma
-
-## 8.7. a jogi személy szervezeti egység képviselőjének adóazonosító száma”
+(5)[^33]
 
 (6) Az R. 2. melléklete a következő 3.3.5. ponttal kiegészülve lép hatályba:
 
@@ -64,29 +58,13 @@
 
 ## 14.2. – jogi személy szervezeti egység esetében – a jogi személy szervezeti egység adóköteles tevékenysége megszüntetésének bejelentése és a jogi személy szervezeti egység adószáma törlése iránti kérelem”
 
-(11) Az R. 41. melléklet 6.1.5. pontja a következő szöveggel lép hatályba:
-
-## „6.1.5. a taggyűlésen felszólalhat”
-
-(12) Az R. 41. melléklet a következő 9.1.1.1. ponttal kiegészülve lép hatályba:
-
-## „9.1.1.1. a taggyűlés az egyesület tagjaiból áll”
+(11)–(12)[^34]
 
 (13) Az R. 41. melléklet 9.1.3.2. pontja a következő szöveggel lép hatályba:
 
 ## „9.1.3.2. az elnökség hívja össze”
 
-(14) Az R. 41. melléklet 9.1.3.3. pontja a következő szöveggel lép hatályba:
-
-## „9.1.3.3. a meghívót a taggyűlés kezdő napját 30 nappal megelőzően kell a tagoknak megküldeni”
-
-(15) Az R. 41. melléklet 9.1.3.6. pontja a következő szöveggel lép hatályba:
-
-## „9.1.3.6. igazolható módon kell összehívni”
-
-(16) Az R. 41. melléklet a következő 9.1.3.9. ponttal kiegészülve lép hatályba:
-
-## „9.1.3.9. a taggyűlés csak olyan kérdést tárgyalhat meg, amely a taggyűlés meghívójában szerepel”
+(14)–(16)[^35]
 
 (17) Az R. 41. melléklet a következő 11.1.3.1. ponttal kiegészülve lép hatályba:
 
@@ -122,13 +100,7 @@
 
 ## 17.1. az egyesületet az elnök önállóan képviseli”
 
-(25) Az R. 41. melléklet a következő 19.2., 19.3. és 19.4. ponttal kiegészülve lép hatályba:
-
-## „19.2. ha az elnök megbízatása bármely okból megszűnik, az elnökséget bármely elnökségi tag összehívhatja
-
-## 19.3. az elnöknek az intézkedéseit a taggyűlés vagy az elnökség döntésének megfelelően kell megtennie, döntés hiányában pedig az egyesület érdekeivel összhangban
-
-## 19.4. a jegyzőkönyvnek – ha a határozatokat nem foglalják külön dokumentumba – tartalmaznia kell az üléseken elfogadott határozatok pontos szövegét”
+(25)[^36]
 
 (26) Az R. 42. melléklet 4.3.3. pontja a következő szöveggel lép hatályba:
 
@@ -175,3 +147,8 @@
 ## „11.2. nem lehet a kuratórium tagja, akivel szemben törvényben meghatározott kizáró ok áll fenn”
 
 (37) Az R. 43. melléklete a következő IV. és V. ponttal kiegészülve lép hatályba:
+
+[^33]: A 45. § (5) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^34]: A 45. § (11)–(12) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^35]: A 45. § (14)–(16) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^36]: A 45. § (25) bekezdését a 12/2014. (II. 28.) KIM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
