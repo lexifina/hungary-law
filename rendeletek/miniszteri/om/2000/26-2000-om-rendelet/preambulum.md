@@ -1,1 +1,0 @@
-Az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatás rendjéről és a nyelvvizsga-bizonyítványokról szóló 71/1998. (IV. 8.) Korm. rendelet (a továbbiakban: R.) 12. §-ának (2) bekezdésében kapott felhatalmazás alapján – a honosítási díjak tekintetében a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
