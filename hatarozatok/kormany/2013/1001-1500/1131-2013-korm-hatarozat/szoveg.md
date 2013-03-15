@@ -26,4 +26,6 @@ nemzetgazdasági miniszter
 
 Határidő: 2013. április 15.
 
-2. A Kormány az Ócsai Szociális Családiház-építési Program keretében épülő lakópark ingatlanai vagyonkezelésének egyes kérdéseiről szóló 1541/2012. (XII. 4.) Korm. határozat 2. pontját visszavonja.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1131-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-03-14 | 2013-1131-30-22.1 | 1131/2013. (III. 14.) Korm. határozat |
+| 2013-03-15 | 2013-1131-30-22.2 | 2010: CXXX. törvény |
