@@ -1,6 +1,6 @@
 ## Az irányítási rendszer
 
-## 16. §[^42] A védekezési készültségi fokozatokban, a műszaki irányítás feladatainak ellátása során:
+## 16. §[^47] A védekezési készültségi fokozatokban, a műszaki irányítás feladatainak ellátása során:
 
 a) a VIZIG igazgató a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek,
 
@@ -12,4 +12,4 @@ d) rendkívüli védekezési készültség időszakában, ha veszélyhelyzet kih
 
 van alárendelve.
 
-[^42]: A 16. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (11) bekezdésével megállapított szöveg.
+[^47]: A 16. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (11) bekezdésével megállapított szöveg.

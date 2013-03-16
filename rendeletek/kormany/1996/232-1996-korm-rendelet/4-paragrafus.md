@@ -14,7 +14,14 @@ c) a mentesített ártérre kivezetett vizek elszigeteléséről, a kártételek
 
 d) intézkedés a védekezés során megrongálódott védőművek azonnali helyreállításáról.
 
-(4) A katasztrófavédelemről szóló törvényben meghatározott veszélyhelyzeti feltételek fennállása esetén a vízügyi igazgató (a továbbiakban: VIZIG igazgató) vagy a polgármester, főpolgármester javaslatára a vízügyi igazgatási szervek irányításáért felelős miniszter kezdeményezi a kormányzati koordinációs szerv elnökénél a veszélyhelyzet kihirdetését.
+(4)[^11] A katasztrófavédelemről szóló törvényben meghatározott veszélyhelyzeti feltételek fennállása esetén
+
+a) a vízügyi igazgató (a továbbiakban: VIZIG igazgató) a Törzs útján,
+
+b) a honvédelemről szóló törvény szerinti fővárosi, megyei védelmi bizottság (a továbbiakban együtt: védelmi bizottság) elnöke,
+
+c) a főpolgármester, polgármester a védelmi bizottság útján
 
 [^9]: A 4. §-t megelőző alcím a 300/2011. (XII. 22.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
 [^10]: A 4. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^11]: A 4. § (4) bekezdése a 69/2013. (III. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
