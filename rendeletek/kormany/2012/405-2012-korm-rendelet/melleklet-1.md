@@ -1,6 +1,6 @@
-## 32–33. §[^2]
+## 32–33. §[^41]
 
-1. melléklet a 405/2012. (XII. 28.) Korm. rendelethez
+1. melléklet a 405/2012. (XII. 28.) Korm. rendelethez[^42]
 
 Az osztatlan közös földtulajdon megszüntetésével kapcsolatos földhivatali feladatok költségvonzata
 
@@ -14,7 +14,7 @@ A) Földhivatali adminisztrációs költségek sorsolás esetén
 
 | 3 | Keretméréshez szükséges adatszolgáltatás a földmérők részére | 5 000 |
 
-| 4 | Gazdász helyszínelés | 13 000 |
+| 4 | Mezőgazdászi helyszínelés | 13 000 |
 
 | 5 | Osztásirány meghatározás | 6 500 |
 
@@ -36,7 +36,7 @@ B) Földhivatali adminisztrációs költségek egyezség esetén
 
 | 3 | Keretméréshez szükséges adatszolgáltatás a földmérők részére | 5 000 |
 
-| 4 | Gazdász helyszínelés | 13 000 |
+| 4 | Mezőgazdászi helyszínelés | 13 000 |
 
 | 5 | Osztásirány meghatározás | 6 500 |
 
@@ -46,4 +46,5 @@ B) Földhivatali adminisztrációs költségek egyezség esetén
 
 | 8 | Összes földhivatali költség | 59 000 |
 
-[^2]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 1. melléklet a 70/2013. (III. 8.) Korm. rendelet 13. § q) pontja szerint módosított szöveg.

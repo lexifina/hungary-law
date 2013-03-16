@@ -10,13 +10,13 @@
 
 (3) A földhivatal a NÉBIH tájékoztatása alapján – a tájékoztatás megérkezésétől számított 30 napon belül – elutasítja az olyan földrészletekre benyújtott kérelmeket, amelyeknek teljes területe az Adattár részét képezi.
 
-(4) A (3) bekezdés szerinti elutasítással nem érintett kérelmekhez kapcsolódó földrészletekről a földhivatal tájékoztatót tesz közzé, amelyet megküld a Nemzeti Kataszteri Program Nonprofit Kft. részére. A tájékoztató tartalmazza
+(4)[^2] Az elutasítással nem érintett kérelmekhez kapcsolódó földrészletekről a földhivatal a (3) bekezdésben megjelölt határidőn belül tájékoztatót tesz közzé, amelyet megküld a Nemzeti Kataszteri Program Nonprofit Kft. részére. A tájékoztató tartalmazza
 
 a) a földhivatal megnevezését és székhelyét;
 
 b) a földhivatal illetékességi területén található települések nevét, valamint azt, hogy a kisorsolt települési sorrendben a település milyen sorszámmal szerepel;
 
-c) az eljárással érintett soron következő település sorszámát;
+c)[^3] az eljárással érintett soron következő település nevét és sorszámát;
 
 d) a kérelemmel érintett földrészletek helyrajzi számát a teljesítés sorrendjében;
 
@@ -29,3 +29,5 @@ f) a megosztási eljárás alapjául szolgáló hatályos jogszabályok megjelö
 (6) E rendelet alkalmazásában kérelmezőnek az Fkbt. 12/F. § (1) bekezdésében meghatározott határidőn belül kérelmet benyújtó tulajdonostársat kell tekinteni. Ha az e rendelet hatálybalépésének időpontjáig vagy azt követően a kérelmező tulajdoni hányada más személyre került átruházásra vagy átszállásra, a megosztási eljárásban az ingatlan-nyilvántartás szerinti tulajdonost kell kérelmezőnek tekinteni. Az ingatlan-nyilvántartás szerinti tulajdonos a sorsolás megkezdéséig a kérelmet visszavonhatja.
 
 [^1]: Az 1. § (1) bekezdése az 51/2013. (II. 25.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^2]: Az 1. § (4) bekezdése a 70/2013. (III. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdés c) pontja a 70/2013. (III. 8.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
