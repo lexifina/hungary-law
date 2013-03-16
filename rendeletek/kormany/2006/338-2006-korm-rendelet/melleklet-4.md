@@ -30,7 +30,7 @@
 
 4. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^83]
+338/2006. (XII. 23.) Korm. rendelethez[^84]
 
 A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -38,9 +38,9 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 |  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 1. | Telekcsoport újraosztása, telek megosztása, telkek egyesítése és telekhatár rendezése esetén, kivéve termőföldek birtok összevonási céllal történő telekalakítását 50 hektárig, azzal a feltétellel, hogy a kialakítandó földrészletek területe nem lehet kisebb a változás előtti területtől. | Az építmény elhelyezése megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
+| 1. | Telekcsoport újraosztása, telek megosztása, telkek egyesítése és telekhatár rendezése esetén, kivéve termőföldek birtok összevonási céllal történő telekalakítását 50 hektárig, azzal a feltétellel, hogy a kialakítandó földrészletek területe nem lehet kisebb a változás előtti területtől. | A telekalakítás megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | a telekalakítás helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzője | fővárosi, megyei kormányhivatal |
 
-| 2. | Polgári védelmi építmény, óvóhely telkének kialakítása esetén. | A jogszabályban előírt polgári védelmi követelmények érvényre juttatása érdekében. | a telekalakítás helye szerint illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 2. | Életvédelmi rendeltetésű építmény, óvóhely telkének kialakítása esetén. | A jogszabályban előírt polgári védelmi követelmények érvényre juttatása érdekében. | a telekalakítás helye szerint illetékes katasztrófavédelmi kirendeltség | fővárosi, megyei katasztrófavédelmi igazgatóság |
 
 | 3.1. | Ha a telekalakításra a vasúti pálya szélső vágányának tengelyétől számított 50 méteren belüli övezetben kerül sor. | Annak elbírálása kérdésében, hogy a telekalakítás – a vasút állagára, a vasúti forgalom biztonságára, a vasúti pályahálózat működtetője fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -62,4 +62,4 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 | 8. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása kérdésében, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban főjegyző | fővárosi, megyei kormányhivatal |
 
-[^83]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^84]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 70/2013. (III. 8.) Korm. rendelet 16. §-a szerint módosított szöveg.
