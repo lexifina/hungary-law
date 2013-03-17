@@ -1,1 +1,0 @@
-## „(1a) A mezőgazdászi helyszínelés és a keretmérés végrehajtásához két évnél nem régebben, lombtalan időszakban készített, belterületen legalább 10 cm – ±18 cm geometriai pontosságú –, külterületen legalább 20 cm terepi felbontású – ±40 cm geometriai pontosságú –, az állami digitális távérzékelési adatbázisban tárolt adatok is felhasználhatók.”

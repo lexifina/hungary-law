@@ -1,3 +1,0 @@
-## 6. § Az R1. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha az adott földrészleten belül az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: Evt.) hatálya alá tartozó erdő található, azt önálló földrészletté kell alakítani. E földrészletek továbbra is a tulajdonostársak osztatlan közös tulajdonában maradnak. Ha az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott terület található és az az Evt. alkalmazásában nem minősül erdőnek, önálló földrészletté alakítás előtt nyilatkozattétel céljából a földhivatal megkeresi a NÉBIH-et.”
