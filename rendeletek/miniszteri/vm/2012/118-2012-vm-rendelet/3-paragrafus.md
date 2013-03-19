@@ -10,13 +10,13 @@ b) akinek nincs köztartozása, nem áll csődeljárás, felszámolási, végels
 
 c) bankgarancia esetén legkésőbb az előlegkérelemmel egyidejűleg benyújtja az MVH-hoz a biztosítékról szóló eredeti, formailag és tartalmilag megfelelő és elfogadható okiratot, vagy készpénzletét biztosíték nyújtása esetén biztosítja a készpénzletét MVH bankszámlájára történő megérkezését legkésőbb az előlegkérelem benyújtásának napjáig.
 
-(3) Az ügyfél, amennyiben
+(3)[^1] Az ügyfél, amennyiben
 
-a) már rendelkezik helyt adó vagy részben helyt adó jogerős támogatási döntéssel, akkor a rendelet hatálybalépését követő 60 napon belül,
+a) már rendelkezik helyt adó vagy részben helyt adó jogerős támogatási döntéssel, akkor a rendelet hatálybalépését követő 120 napon belül,
 
-b) még nem rendelkezik helyt adó vagy részben helyt adó jogerős támogatási döntéssel e rendelet hatálybalépésekor, akkor a támogatási határozat jogerőre emelkedésétől számított 60 napon belül
+b) még nem rendelkezik helyt adó vagy részben helyt adó jogerős támogatási döntéssel e rendelet hatálybalépésekor, akkor a támogatási határozat jogerőre emelkedésétől számított 120 napon belül
 
-előlegkérelmet nyújthat be az MVH-hoz.
+## előlegkérelmet nyújthat be az MVH-hoz.
 
 (4) Az előlegkérelmet az ügyfél nem módosíthatja, és az előlegkérelem alapján indult eljárás során hiánypótlásnak nincs helye.
 
@@ -29,3 +29,5 @@ előlegkérelmet nyújthat be az MVH-hoz.
 (8) Az MVH a kifizetési kérelem alapján jóváhagyható támogatás összegéből vonja le az előleg elszámolás összegét az ügyfél által a kifizetési kérelemben tett előleg elszámolási nyilatkozata szerint. E nyilatkozattól függetlenül a kifizetési kérelmek esetében a támogatási előleg elszámolására kell felhasználni a támogatási döntéssel jóváhagyott támogatási összeg 80%-ának az elszámolatlan előleg összegével csökkentett értéke feletti részt.
 
 (9) A biztosítékot az MVH akkor szabadítja fel, ha megállapítja, hogy az ügyfél az előleggel elszámolt vagy az előleg összegét az 5. § (2) bekezdés szerint maradéktalanul visszafizette. Felszabadítható továbbá a biztosíték maradványa a követelés biztosíték terhére történő maradéktalan érvényesítését követően.
+
+[^1]: A 3. § (3) bekezdése a 17/2013. (III. 18.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
