@@ -1,6 +1,6 @@
 ## 4. Programjavaslat benyújtása és elbírálása
 
-4. § (1) A programjavaslatot és a (3) bekezdésben meghatározott mellékleteket az agrárpolitikáért és agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) részére az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett nyomtatványon egy eredeti és egy, az eredetivel mindenben megegyező másolati példányban, valamint egy példányban elektronikus adathordozón 2013. március 18. és április 30. között kell benyújtani. A nyomtatvány adattartalmát a 2. melléklet tartalmazza.
+4. § (1)[^3] A programjavaslatot és a (3) bekezdésben meghatározott mellékleteket az agrárpolitikáért és agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) részére az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett nyomtatványon egy eredeti és egy, az eredetivel mindenben megegyező másolati példányban, valamint egy példányban elektronikus adathordozón 2013. április 2. és április 30. között kell benyújtani. A nyomtatvány adattartalmát a 2. melléklet tartalmazza.
 
 (2) Egy kérelmező egy programjavaslatot nyújthat be.
 
@@ -22,9 +22,9 @@ be) a közvetítendő alapvető üzenetek,
 
 bf) a megvalósítani kívánt akciók részletes, költségtervvel alátámasztott bemutatása,
 
-bg) a program általános költségek nélküli költségvetése akciók és borpiaci évek szerinti bontásban,
+bg)[^4] a program költségvetése akciók és borpiaci évek szerinti bontásban,
 
-bh) az általános költségek összege,
+bh)[^5]
 
 c) az egyes akciók megvalósítására vonatkozó, a 3. melléklet szerinti ütemtervet, továbbá médiatervet, amennyiben a kérelem médiabeli akciókat tartalmaz,
 
@@ -37,3 +37,7 @@ f) a saját forrás rendelkezésre állásáról szóló igazolást a program el
 g) ha a kérelmező harmadik országokban korábban promóciós tevékenységet végzett, a tevékenység bemutatására és a végrehajtás igazolására szolgáló iratokat.
 
 (4) Ha az akció megvalósítása több borpiaci évet is érint, az akció bemutatásánál, az ütemtervben és a program költségvetésében az akció pénzügyi adatait borpiaci évenként külön kell megadni.
+
+[^3]: A 4. § (1) bekezdése a 17/2013. (III. 18.) VM rendelet 7. § (9) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (3) bekezdés b) pont bg) alpontja a 17/2013. (III. 18.) VM rendelet 7. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdés b) pont bh) alpontját a 17/2013. (III. 18.) VM rendelet 7. § (10) bekezdés b) pontja hatályon kívül helyezte.

@@ -24,7 +24,9 @@ g) a kérelmező által a program megvalósítása érdekében kötött szerződ
 
 h) az akció eredményeképpen létrejövő promóciós anyag mintapéldányát, míg elektronikus média-megjelenés esetén a megjelenést igazoló felvételt, tárolt weboldalt vagy egyéb bizonyítékot, továbbá kiállításon vagy vásáron történő részvétel esetén a megjelenést bizonyító fényképet vagy digitális felvételt.
 
-(5) Az általános költségek esetében a (4) bekezdés a)–g) pontjai szerinti dokumentumokat a kifizetési kérelemhez nem kell csatolni.
+(4a)[^10] A 6. § (5) bekezdése szerinti értékcsökkenés nagyságát igazoló bizonylat a (4) bekezdés a) pontja alá tartozó bizonylatnak minősül.
+
+(5)[^11] A számítógép-használat költségei esetében a (4) bekezdés a)–g) pontjai szerinti dokumentumokat a kifizetési kérelemhez nem kell csatolni. A kifizetési kérelemben a számítógép-használat költségeként a jóváhagyott programban annak teljes időtartamára meghatározott összeg időarányos része számolható el.
 
 (6) Ha a kérelmező a program egészének vagy egy-egy akció egészének a megvalósítására köt szerződést, a (4) bekezdés a)–g) pontjai szerinti dokumentumokon az e szerződést a kérelmezővel megkötő másik fél részére kiállított bizonylatokat és a másik fél által kötött szerződéseket is érteni kell.
 
@@ -35,3 +37,6 @@ h) az akció eredményeképpen létrejövő promóciós anyag mintapéldányát,
 (9) Ha a tényállás tisztázása szükségessé teszi, az MVH a kérelmezőt az idegen nyelven kiállított bizonylat, szerződés hiteles magyar fordításának benyújtására hívhatja fel.
 
 (10) A kifizetési kérelem mellékleteként kizárólag megvalósított akcióhoz kapcsolódó számla nyújtható be.
+
+[^10]: A 8. § (4a) bekezdését a 17/2013. (III. 18.) VM rendelet 7. § (6) bekezdése iktatta be.
+[^11]: A 8. § (5) bekezdése a 17/2013. (III. 18.) VM rendelet 7. § (7) bekezdésével megállapított szöveg.
