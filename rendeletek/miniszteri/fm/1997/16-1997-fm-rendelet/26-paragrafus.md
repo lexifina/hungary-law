@@ -1,4 +1,4 @@
-## 25. §[^28]
+## 25. §[^27]
 
 ## A földrészlet határvonalának megállapítása és kitűzése
 
@@ -8,7 +8,7 @@
 
 (3) Ha a határvonal a természetben nem azonosítható, de azt régebbi térkép vagy vázrajz megbízhatóan ábrázolja, a határvonalat arról kell átvenni.
 
-(4)[^29]
+(4)[^28]
 
-[^28]: A 25. §-t a 46/2010. (IV. 27.) FVM rendelet 68. § b) pontja hatályon kívül helyezte, e módosító rendelet 66. §-a alapján azokat az eljárásokat, amelyekben a sajátos célú földmérési és térképészeti munkához szükséges állami alapadatok szolgáltatása 2010. május 5. előtt már megtörtént, az adatszolgáltatás időpontjában hatályos rendelkezések szerint kell befejezni.
-[^29]: A 26. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 91. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^27]: A 25. §-t a 46/2010. (IV. 27.) FVM rendelet 68. § b) pontja hatályon kívül helyezte, e módosító rendelet 66. §-a alapján azokat az eljárásokat, amelyekben a sajátos célú földmérési és térképészeti munkához szükséges állami alapadatok szolgáltatása 2010. május 5. előtt már megtörtént, az adatszolgáltatás időpontjában hatályos rendelkezések szerint kell befejezni.
+[^28]: A 26. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 91. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

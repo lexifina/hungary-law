@@ -1,3 +1,5 @@
+## 6–8. §[^4]
+
 ## A földmérési és térképészeti szakfelügyelet
 
 9. § (1) A földmérési és térképészeti tevékenység összhangját és a szakmai követelmények érvényesülését a szakigazgatási szervezetek a földmérési szakfelügyelet útján biztosítják.
@@ -26,6 +28,7 @@ i) indokolt esetben az ingatlanrendező földmérői minősítés visszavonásá
 
 (4)[^9] Amennyiben a földmérő szervezetek telephelyükön kívül végeznek a szakfelügyeleti ellenőrzés hatálya alá tartozó munkát, az ellenőrzésbe a munkavégzés helye szerint illetékes megyei szakfelügyelő – megkeresés útján – bevonható.
 
+[^4]: A 6–8. §-t a 15/2013. (III. 11.) VM rendelet 93. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 94. §-át.
 [^5]: A 9. § (2) bekezdésének felvezető szövege a 31/2003. (III. 21.) FVM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
 [^6]: A 9. § (2) bekezdésének b) pontja a 31/2003. (III. 21.) FVM rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
 [^7]: A 9. § (2) bekezdésének e) pontja az 50/1999. (V. 26.) FVM rendelet 1. §-ával megállapított szöveg.

@@ -4,6 +4,6 @@
 
 (3) A tényleges birtoklástól eltérően kitűzött terület csak az érdekeltek megegyezése, jogerős közigazgatási határozat vagy bírósági ítélet (egyezséget jóváhagyó végzés) alapján vehető birtokba. Erről a kitűzést végző földmérő köteles az érdekelteket tájékoztatni.
 
-(4)[^30] A földmérő a kitűzés során keletkezett valamennyi munkarész (mérési jegyzőkönyv, manuálé, számítási jegyzőkönyv stb.) egy másolati példányát – tájékoztatás céljából – a kitűzést követő harminc napon belül az illetékes körzeti földhivatalnak köteles átadni.
+(4)[^29] A földmérő a kitűzés során keletkezett valamennyi munkarész (mérési jegyzőkönyv, manuálé, számítási jegyzőkönyv stb.) egy másolati példányát – tájékoztatás céljából – a kitűzést követő harminc napon belül az illetékes körzeti földhivatalnak köteles átadni.
 
-[^30]: A 27. § (4) bekezdése a 31/2003. (III. 21.) FVM rendelet 9. §-ával megállapított szöveg.
+[^29]: A 27. § (4) bekezdése a 31/2003. (III. 21.) FVM rendelet 9. §-ával megállapított szöveg.
