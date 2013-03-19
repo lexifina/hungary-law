@@ -1,0 +1,1 @@
+A műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény 53. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (5) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
