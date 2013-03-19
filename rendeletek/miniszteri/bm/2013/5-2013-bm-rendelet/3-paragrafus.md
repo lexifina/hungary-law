@@ -1,0 +1,5 @@
+3. § (1) Ha a létszámcsökkentéssel érintett foglalkoztatott esetében az igénylő a létszámcsökkentési döntését követően a foglalkoztatott jogviszonyát szabályozó törvény szerinti felmondási védelemre tekintettel csak későbbi időpontban tudja a jogviszonyt megszüntetni, akkor a védelem elteltét követően nyújthatja be e foglalkoztatott után a támogatási igényét.
+
+(2) Ha a létszámcsökkentéssel érintett foglalkoztatott a jogviszony megszűnése vagy az azzal kapcsolatos járandósága tekintetében közigazgatási és munkaügyi bírósághoz fordult jogorvoslatért, akkor az igénylő az említett foglalkoztatott utáni fizetési kötelezettségének támogatására az igénylését akkor nyújthatja be, amikor a bíróság jogerősen megállapítja a munkáltató által hozott döntés jogszerűségét. Ebben az esetben az igénylés benyújtásának évében hatályos jogszabály alapján történhet az igénylés.
+
+(3) Az (1) és (2) bekezdésben foglaltak igazolására szolgáló dokumentumokat az igénylő köteles az igényléséhez csatolni. Ebben az esetben a megerősítő döntés csatolása nem szükséges.
