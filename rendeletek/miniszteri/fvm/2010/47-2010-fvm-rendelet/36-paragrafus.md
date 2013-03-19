@@ -1,3 +1,0 @@
-## IX. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK

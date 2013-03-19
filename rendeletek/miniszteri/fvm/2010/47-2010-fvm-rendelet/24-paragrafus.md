@@ -1,3 +1,0 @@
-24. § (1) A transzformáció végrehajtása után a maradék ellentmondások vízszintes értelemben nem léphetik túl a ±10 cm-t. Azokat a pontokat, ahol a maradék ellentmondás ±10 cm-nél nagyobb, a transzformációból ki kell zárni, valamint felül kell vizsgálni a pontok EOV és OGPSH koordinátáit. Ha a felülvizsgálat során egy OGPSH pont koordinátáinak megbízhatósága kérdésessé válik, arról a FÖMI-t tájékoztatni kell.
-
-(2) Ha a mérés során a pontok magasságágának meghatározását is végzik, a magasságmérés megbízhatóságának fokozása érdekében szintezési alappontokat és integrált geodéziai alappontokat is be kell vonni a GNSS mérésbe, valamint a transzformációba.
