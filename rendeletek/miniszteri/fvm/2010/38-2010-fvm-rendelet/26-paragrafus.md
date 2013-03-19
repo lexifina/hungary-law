@@ -10,6 +10,6 @@ a) a program végére megvalósult állatállomány-szaporulat nem éri el a pro
 
 b) a program végére megvalósult állatállomány-szaporulat eléri a program indulásakor vállalt állatállomány-szaporulat 25%-át, de nem éri el a program indulásakor vállalt állatállomány-szaporulat 50%-át, akkor az 5. évre jutó támogatási összeg felére jogosult.
 
-(4)[^39] Ha a támogatásra jogosult nem teljesíti az adott egyed, baromfifélék esetén állomány vonatkozásában a 12. § (1) vagy (2) bekezdésében foglalt előírásokat, akkor a célprogramra vonatkozó adott évi támogatás részleges vagy teljes megvonására kerül sor a 9. mellékletben foglaltak szerint.
+(4)[^43] Ha a támogatásra jogosult nem teljesíti az adott egyed, baromfifélék esetén állomány vonatkozásában a 12. § (1) vagy (2) bekezdésében foglalt előírásokat, akkor a célprogramra vonatkozó adott évi támogatás részleges vagy teljes megvonására kerül sor a 9. mellékletben foglaltak szerint.
 
-[^39]: A 26. § (4) bekezdése a 78/2012. (VII. 27.) VM rendelet 3. §-ával megállapított szöveg.
+[^43]: A 26. § (4) bekezdése a 78/2012. (VII. 27.) VM rendelet 3. §-ával megállapított szöveg.

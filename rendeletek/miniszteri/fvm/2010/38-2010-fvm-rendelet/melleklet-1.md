@@ -1,4 +1,4 @@
-## 33. §[^45] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes állatlétszám alapú agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 138/2012. (XII. 22.) VM rendelet (a továbbiakban: 138/2012. (XII. 22.) VM rendelet) által megállapított 2. § (1) bekezdés 1. pontját a 138/2012. (XII. 22.) VM rendelet hatálybalépésekor[^46] folyamatban lévő ügyekben is alkalmazni kell.
+## 35. §[^53] E rendelet alapján a 2013. évtől kezdődően támogatási kérelem nem nyújtható be.
 
 1. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
@@ -84,5 +84,4 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^45]: A 33. §-t a 138/2012. (XII. 22.) VM rendelet 3. §-a iktatta be.
-[^46]: A hatálybalépés napja: 2012. december 23.
+[^53]: A 35. §-t a 17/2013. (III. 18.) VM rendelet 3. § (6) bekezdése iktatta be.

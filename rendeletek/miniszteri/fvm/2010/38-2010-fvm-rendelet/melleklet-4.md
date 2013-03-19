@@ -32,7 +32,7 @@
 
 | 15 | lúd | 40 | 16 |  |
 
-4. melléklet a 38/2010. (IV. 15.) FVM rendelethez
+4. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^54]
 
 ## A tenyésztési program ellenőrzésének szempontjai az egyes fajták esetében
 
@@ -76,7 +76,7 @@
 
 3.3. Tenyésztésbe állított fajtatiszta nőivarú egyedek vérmintáinak archiválása.
 
-3.4. A nőivarú tenyészállatok tartós egyedi megjelölése (tetoválás vagy besütés).
+3.4.
 
 3.5. Tenyésztési program szerinti ivararánynak megfelelő, minősített és engedélyezett házibivaly bikahasználat.
 
@@ -161,3 +161,5 @@
 8.2. Nukleusz támogatás ellenőrző követelményei (a fajtafenntartói követelményeken túl)
 
 8.2.1. Az elit szaporításhoz szükséges, legszűkebb ivararány biztosítása a szaporítási időszak végéig, a hímivarú tenyészállatok származásának dokumentálása.
+
+[^54]: A 4. melléklet a 17/2013. (III. 18.) VM rendelet 3. § (7) bekezdés b) pontja szerint módosított szöveg.
