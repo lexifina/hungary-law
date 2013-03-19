@@ -2,13 +2,7 @@
 
 ## Támogatási kérelem benyújtása
 
-16. §[^71] (1)[^72] A támogatási kérelem
-
-a) 2012-ben június 1. és július 25 között,
-
-b) 2013-ban június 1. és június 30. között
-
-elektronikus úton nyújtható be. A támogatási kérelem mellékleteit az adott támogatási kérelem benyújtására irányadó időszakban az ügyfél lakhelye/székhelye szerint illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltségéhez papír alapon, postai úton kell benyújtani.
+16. §[^71] (1)[^72]
 
 (2) Az elektronikus kérelembenyújtás technikai feltételeit az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendelet (a továbbiakban: 80/2008. Korm. rendelet) 2. § (1)–(5) bekezdései és 3. §-a szabályozzák.
 
@@ -62,7 +56,7 @@ g) madárvédelmi berendezések beszerzése esetén a 14. § (2) bekezdés b) po
 
 [^70]: A 15. §-t a 46/2011. (V. 31.) VM rendelet 18. §-a hatályon kívül helyezte.
 [^71]: A 16. § a 14/2009. (II. 28.) FVM rendelet 15. §-ával megállapított szöveg.
-[^72]: A 16. § (1) bekezdése a 69/2012. (VII. 13.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^72]: A 16. § (1) bekezdését a 17/2013. (III. 18.) VM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
 [^73]: A 16. § (3) bekezdés b) pontja a 46/2011. (V. 31.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^74]: A 16. § (5) bekezdés a) pontját a 69/2012. (VII. 13.) VM rendelet 11. § b) pontja hatályon kívül helyezte.
 [^75]: A 16. § (10) bekezdését a 46/2011. (V. 31.) VM rendelet 10. § (2) bekezdése iktatta be, szövege a 69/2012. (VII. 13.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
