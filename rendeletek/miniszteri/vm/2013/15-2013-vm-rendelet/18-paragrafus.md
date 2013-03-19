@@ -1,0 +1,1 @@
+## 17. § A magasságváltozások nyomonkövethetősége érdekében a szintezési főalappontokhoz kapcsolódó INGA pontokat úgy kell elhelyezni és kialakítani, hogy azokon műholdas radar interferometriai mérésekre alkalmas reflektáló pontokat lehessen elhelyezni.

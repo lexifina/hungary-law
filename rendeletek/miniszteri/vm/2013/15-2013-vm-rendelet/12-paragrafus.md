@@ -1,0 +1,1 @@
+## 11. § Az INGA az aktív GNSS hálózat mellett az ország geodéziai vonatkoztatási rendszereinek elsődleges hordozója. Ezért a hálózat pontjainak kiválasztására, állandósítására és fenntartására kiemelt figyelmet kell fordítani.

@@ -1,0 +1,1 @@
+## 7. § A korábban elkülönülten létesített vízszintes EOVA, magassági EOMA, és háromdimenziós GNSS hálózatok szelektív egyesítésével Integrált Országos Geodéziai Alaphálózatot (a továbbiakban: INGA) kell létrehozni és fenntartani.

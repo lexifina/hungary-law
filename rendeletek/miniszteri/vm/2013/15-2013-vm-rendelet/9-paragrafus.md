@@ -1,0 +1,1 @@
+## 8. § Az INGA célja geodéziai vonatkoztatási rendszereinket képviselő hálózataink egységes keretbe foglalása, a korszerű mérési és pontossági követelményeknek való megfelelés, a hálózatok hosszú távú fenntartásának egyszerűsítése és tudományos vizsgálatok végzése.

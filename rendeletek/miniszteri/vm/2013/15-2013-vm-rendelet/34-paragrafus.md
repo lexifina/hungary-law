@@ -1,0 +1,1 @@
+## 33. § A pótlás vagy helyreállítás költségeit az ingatlan mindenkori tulajdonosa az Fttv. 27. § (5) bekezdése szerint köteles a pótlást vagy helyreállítást elrendelő megyei földhivatalnak megtéríteni.

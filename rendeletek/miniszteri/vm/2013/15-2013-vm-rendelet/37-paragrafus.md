@@ -1,0 +1,1 @@
+## 36. § Az EOMA az Fttv. 10. § (3) bekezdés b) pontja alapján az állami alapadatok adatbázisának része, létesítésének, mérésének, dokumentálásának, állami átvételének és számozásának szabályait e rendelet előírásai szerint kell végrehajtani.

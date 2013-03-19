@@ -1,0 +1,1 @@
+## 15. § A szemlélés során a kiválasztott meglévő magassági alappontok pontleírását frissíteni kell. Amennyiben a pont még nem rendelkezik vízszintes koordinátával, akkor a szemlélés során GNSS méréssel méteres pontosságú előzetes EOV koordinátát kell meghatározni.
