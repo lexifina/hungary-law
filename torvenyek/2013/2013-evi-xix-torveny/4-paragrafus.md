@@ -9,11 +9,3 @@
 (5) A Megállapodás megszűnésének napját, valamint a (4) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (6) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
