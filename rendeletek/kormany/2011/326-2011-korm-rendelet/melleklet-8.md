@@ -6,7 +6,7 @@
 
 ## 1. 14. életév az „M” kategóriába tartozó jármű vezetésére.
 
-## 2.[^59] 14. életév az „AM” kategóriába tartozó jármű vezetésére
+## 2.[^60] 14. életév az „AM” kategóriába tartozó jármű vezetésére
 
 ## 3. 16. életév a „T” és a „K” kategóriába tartozó jármű vezetésére.
 
@@ -32,7 +32,7 @@
 
 ## 10.2. az „A” kategóriába tartozó motorkerékpár vezetésére, előzetes motorkerékpár vezetési gyakorlat hiányában.
 
-## 11.[^60] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
+## 11.[^61] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
 
 ## a) a tűzoltóság által, illetve a közrend fenntartására használt járművek;
 
@@ -56,17 +56,17 @@
 
 ## 5. A „C+E” kategóriájú vezetői engedélyek érvényesek „D+E” kategóriára is, amennyiben a vezetői engedély birtokosa jogosult „D” kategóriájú járművek vezetésére.
 
-## 6.[^61] A „C+E” kategóriájú vezetői engedélyek a „C1+E” kategóriájú járműszerelvényekre, a „D+E” kategóriájú vezetői engedélyek a „D1+E” kategóriájú járműszerelvényekre is érvényesek.
+## 6.[^62] A „C+E” kategóriájú vezetői engedélyek a „C1+E” kategóriájú járműszerelvényekre, a „D+E” kategóriájú vezetői engedélyek a „D1+E” kategóriájú járműszerelvényekre is érvényesek.
 
 ## 7. Bármely nemzetközi kategóriára megszerzett vezetői engedély érvényes az AM kategóriájú járművekre.
 
 ## 8. Az „A2” alkategóriájú vezetői engedélyek az „A1” alkategóriára is érvényesek.
 
-## 9.[^62] Az „A” kategóriájú vezetői engedély az „A1”, „A2” alkategóriákra, a „B” kategóriájú vezetői engedély a „B1” alkategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” alkategóriára is érvényes.
+## 9.[^63] Az „A” kategóriájú vezetői engedély az „A1”, „A2” alkategóriákra, a „B” kategóriájú vezetői engedély a „B1” alkategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” alkategóriára is érvényes.
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^63]
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^64]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -372,8 +372,8 @@
 
 270 A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-[^59]: A 7. melléklet I. fejezet 2. pontja az 5/2013. (I. 16.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^60]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
-[^61]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^62]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^63]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése szerint módosított szöveg.
+[^60]: A 7. melléklet I. fejezet 2. pontja az 5/2013. (I. 16.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^61]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
+[^62]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^63]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^64]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése szerint módosított szöveg.

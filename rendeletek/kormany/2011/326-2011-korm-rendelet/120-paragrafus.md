@@ -26,7 +26,18 @@
 
 (11)[^51] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a Magyar Honvédség állományába tartozó 18. életévét betöltött, járműszerelő-, javító tevékenységet végző személy részére a 7. mellékletben előírt életkori határ elérése előtt – az e rendeletben meghatározott további feltételek teljesítése esetén – kiadható, azonban e vezetői engedély a 21. életév betöltéséig kizárólag belföldön, a Magyar Honvédség kezelésében lévő jármű vezetésére jogosít.
 
+(12)[^52] Az 5. melléklet D. fejezetében meghatározott minta szerint kiadott vezetői engedélyen
+
+a) az „A” korlátozott kategóriára megszerzett jogosultságot az „A2” alkategóriaként,
+
+b) a „D12” és „D25” alkategóriára megszerzett jogosultságot a „D1” alkategóriaként,
+
+c) az „M” nemzeti kategóriára megszerzett jogosultságot az „AM” kategóriaként,
+
+d) a „V” nemzeti kategóriára megszerzett jogosultságot a „K” nemzeti kategóriaként
+
 [^48]: A 120. § (4a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (15) bekezdése iktatta be.
 [^49]: A 120. § (4b) bekezdését az 5/2013. (I. 16.) Korm. rendelet 20. § (1) bekezdése iktatta be.
 [^50]: A 120. § (7) bekezdése az 5/2013. (I. 16.) Korm. rendelet 22. § e) pontja szerint módosított szöveg.
 [^51]: A 120. § (11) bekezdése az 5/2013. (I. 16.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^52]: A 120. § (12) bekezdését a 81/2013. (III. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.

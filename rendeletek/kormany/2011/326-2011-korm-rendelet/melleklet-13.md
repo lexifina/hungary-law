@@ -6,7 +6,7 @@
 
 2. A CK betűjelű rendszámtábla alapszíne fehér, karakterei és a keret színe piros, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz.
 
-3.[^65] Az OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz
+3.[^66] Az OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz
 
 4. Az RR betűjelű rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz. A Büntetés Végrehajtás 1–4999-ig, a NAV 5000–9999-ig terjedő számjeleket alkalmazza.
 
@@ -28,4 +28,4 @@
 
 13. A négykerekű segédmotoros kerékpárra kiadott S, vagy R kezdő betűjelű „E” típusú rendszámtábla összesen 4 betűjelet és 2 számjegyet tartalmaz, alapszíne fehér, a karakterei és a keret színe fekete.
 
-[^65]: A 13. melléklet 3. pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (19) bekezdésével megállapított szöveg.
+[^66]: A 13. melléklet 3. pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (19) bekezdésével megállapított szöveg.

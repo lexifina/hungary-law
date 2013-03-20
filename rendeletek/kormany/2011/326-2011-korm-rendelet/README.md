@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2013-01-29 | 2011-326-20-22.11 | 15/2013. (I. 28.) Korm. rendelet |
 | 2013-02-01 | 2011-326-20-22.12 | 5/2013. (I. 16.) Korm. rendelet |
 | 2013-02-26 | 2011-326-20-22.13 | 51/2013. (II. 25.) Korm. rendelet |
+| 2013-03-20 | 2011-326-20-22.14 | 81/2013. (III. 19.) Korm. rendelet |
