@@ -1,4 +1,4 @@
-1/C. §[^4] (1) A nyomtatvány előállítója, illetőleg forgalmazója köteles
+1/C. §[^5] (1) A nyomtatvány előállítója, illetőleg forgalmazója köteles
 
 a) e tevékenységét az állami adóhatóságnak előzetesen bejelenteni, továbbá
 
@@ -12,4 +12,4 @@ a) az értékesített nyomtatvány megnevezése mellett annak sorszámtartomány
 
 b) a nyomtatvány beszerzőjének adószámát [Áfa tv. 258. § (3) bekezdés].
 
-[^4]: Az 1/C. §-t a 47/2007. (XII. 29.) PM rendelet 1. § (1) bekezdése iktatta be, e módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^5]: Az 1/C. §-t a 47/2007. (XII. 29.) PM rendelet 1. § (1) bekezdése iktatta be, e módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

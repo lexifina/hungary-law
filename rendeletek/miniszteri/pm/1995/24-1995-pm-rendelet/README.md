@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-24-20-5
 | 2010-07-01 | 1995-24-20-53.18 | 14/2010. (IV. 27.) PM rendelet |
 | 2010-09-27 | 1995-24-20-53.19 | 4/2010. (VIII. 13.) NGM rendelet |
 | 2011-01-01 | 1995-24-20-53.20 | 27/2010. (XII. 31.) NGM rendelet |
+| 2013-03-20 | 1995-24-20-53.21 | 3/2013. (II. 15.) NGM rendelet |

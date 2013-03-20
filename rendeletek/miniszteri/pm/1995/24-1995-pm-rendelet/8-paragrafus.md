@@ -1,9 +1,5 @@
+## 7/A. §[^23]
+
 ## Egyes eljárási szabályok
 
-8. § (1) Az e rendeletben számára meghatározott hatósági feladatokat az APEH az Országos Pénztárgép és Taxaméter Technikai Bizottság (a továbbiakban: Bizottság) közreműködésével látja el.
-
-(2) A Bizottság az APEH döntéselőkészítő és javaslattevő testülete.
-
-(3) A Bizottság e jogkörében véleményezi és döntésre előkészíti az APEH-hez benyújtott kérelmeket a pénztárgépek, illetve taxaméterek típusjóváhagyására.
-
-(4) A Bizottság közreműködik a típusjóváhagyással forgalmazott gépek ellenőrzésében.
+[^23]: A 7/A. §-t újonnan a 47/2007. (XII. 29.) PM rendelet 3. §-a iktatta be. A 7/A. §-t megelőző alcímet e módosító rendelet 5. § (3) bekezdésének a) pontja hatályon kívül helyezte. A 7/A. §-t a 3/2013. (II. 15.) NGM rendelet 78. §-a hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 71–76. §-át.

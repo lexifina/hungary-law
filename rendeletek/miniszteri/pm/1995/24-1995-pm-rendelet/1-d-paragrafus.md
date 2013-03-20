@@ -1,4 +1,4 @@
-## 1/D. §[^5] A nyomtatványt számlaként, nyugtaként felhasználó adóalany a nyomtatványt szigorú számadás alá vonja. Ennek keretében olyan nyilvántartást vezet, amely nyomtatványfajtánként külön-külön tartalmazza:
+## 1/D. §[^6] A nyomtatványt számlaként, nyugtaként felhasználó adóalany a nyomtatványt szigorú számadás alá vonja. Ennek keretében olyan nyilvántartást vezet, amely nyomtatványfajtánként külön-külön tartalmazza:
 
 a) a nyomtatvány sorszámtartományát, az első sorszám (-tól) és az utolsó sorszám (-ig) megjelölésével,
 
@@ -10,4 +10,4 @@ d) a nyomtatvány felhasználásának időtartamát, az első felhasználás kel
 
 e) a nyomtatvány kiselejtezésének keltét.
 
-[^5]: Az 1/D. §-t a 47/2007. (XII. 29.) PM rendelet 1. § (1) bekezdése iktatta be, e módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^6]: Az 1/D. §-t a 47/2007. (XII. 29.) PM rendelet 1. § (1) bekezdése iktatta be, e módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
