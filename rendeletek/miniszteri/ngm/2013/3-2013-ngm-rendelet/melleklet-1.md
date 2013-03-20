@@ -1,6 +1,3 @@
-## 78. §[^25]
+## 78. § Hatályát veszti a számla, egyszerűsített számla és nyugta adóigazgatási azonosításáról, valamint a nyugta adását biztosító pénztárgép és taxaméter alkalmazásáról szóló 24/1995. (XI. 22.) PM rendelet 2–10/A. §-a, 11. § (3) bekezdése és 1. számú melléklete.
 
-1–2. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^26]
-
-[^25]: A 78. § a 70. § (2) bekezdése alapján 2013. március 20-án lép hatályba.
-[^26]: Az 1–2. melléklet a 70. § (2) bekezdése alapján 2013. március 20-án lép hatályba.
+1. melléklet a 3/2003 . (II. 15.) NGM rendelethez

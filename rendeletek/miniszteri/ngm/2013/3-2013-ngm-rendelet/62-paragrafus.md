@@ -1,5 +1,3 @@
-## 59–61. §[^20]
+## 61. § A taxaméter üzembe helyezésére, szervizelésére vonatkozó további részletszabályokat e rendelet 3. melléklete tartalmazza.
 
 ## 16. Az AP szám
-
-[^20]: Az 59–61. § a 70. § (2) bekezdése alapján 2013. március 20-án lép hatályba.

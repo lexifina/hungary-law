@@ -1,0 +1,1 @@
+## 19. § A típusvizsgálat során az engedélyező hatóság munkatársa, valamint annak felhívására a forgalmazó képviseletében jelen lévő személy végez műveleteket a vizsgálat alá vont pénztárgéppel vagy taxaméterrel.

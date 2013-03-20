@@ -1,5 +1,13 @@
-## 11–13. §[^6]
-
 ## 4. Típusvizsgálat
 
-[^6]: A 11–13. § a 70. § (2) bekezdése alapján 2013. március 20-án lép hatályba.
+14. § (1) Az engedélyező hatóság az engedélyezési eljárás során a típusvizsgálat keretében vizsgálja a pénztárgép, illetve a taxaméter e rendeletben meghatározott követelménynek történő megfelelőségét.
+
+(2) A típusvizsgálat
+
+a) műszaki vizsgálatból,
+
+b) informatikai vizsgálatból és
+
+c) a dokumentáció vizsgálatából áll.
+
+(3) A (2) bekezdésben meghatározott vizsgálatok részletezését a 6. melléklet tartalmazza.

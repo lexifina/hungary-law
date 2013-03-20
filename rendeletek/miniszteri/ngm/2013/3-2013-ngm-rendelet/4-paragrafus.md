@@ -1,9 +1,9 @@
-## 3. §[^3]
-
 ## III. Fejezet
 
 ## PÉNZTÁRGÉP, TAXAMÉTER FORGALMAZÁSA ENGEDÉLYEZÉSÉNEK SZABÁLYAI
 
 ## 1. A pénztárgép és taxaméter forgalmazása engedélyezésére vonatkozó általános szabályok
 
-[^3]: A 3. § a 70. § (2) bekezdése alapján 2013. március 20-án lép hatályba.
+4. § (1) Az e fejezetben szabályozott hatósági eljárásokban első fokon a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH) metrológiai hatósága (a továbbiakban: Hatóság), másodfokon az MKEH központi szerve (a továbbiakban együtt: engedélyező hatóság) jár el.
+
+(2) Az e fejezet hatálya alá tartozó eljárásokban az ügyintézési határidő 15 nap, amely legfeljebb 15 nappal meghosszabbítható.

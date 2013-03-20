@@ -1,5 +1,3 @@
-## 69. §[^24]
-
 ## VII. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -13,5 +11,3 @@
 (3) A 2. §, valamint az 5. melléklet 2013. május 1-jén lép hatályba.
 
 (4) A 3. melléklet I. rész C) alcím 1. pont f) alpontja 2018. január 1-jén lép hatályba.
-
-[^24]: A 69. § a 70. § (2) bekezdése alapján 2013. március 20-án lép hatályba.
