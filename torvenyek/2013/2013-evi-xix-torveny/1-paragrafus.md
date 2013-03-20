@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Nemzetközi Bűnügyi Rendőrség Szervezete között a Magyarországon megrendezésre kerülő 42. Európai Regionális Konferencia kapcsán a Nemzetközi Bűnügyi Rendőrség Szervezete (Interpol) kiváltságairól és mentességeiről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
