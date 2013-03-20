@@ -1,0 +1,5 @@
+1. Magyarország Országgyűlése kinyilvánítja, hogy fontosnak tartja és támogatja a komoly magyarországi sportági tradíciókkal és eredményekkel rendelkező birkózás sportág megőrzését a nyári olimpiai játékok versenyszámai között.
+
+2. Az Országgyűlés felkéri a Kormányt, hogy a sportpolitikáért való felelőssége körében segítse elő a Magyar Birkózó Szövetségnek a Nemzetközi Birkózó Szövetséggel (a továbbiakban: FILA), valamint a Magyar Olimpiai Bizottsággal és a más nemzetek birkózó szövetségeivel együtt folytatott lobbi tevékenységét a Nemzetközi Olimpiai Bizottságnál (a továbbiakban: NOB) annak érdekében, hogy minél hatékonyabban bemutathassa a sportág tömegbázisát, a sportág eredményességét, valamint a sportág hatását a testi és szellemi nevelésre, továbbá a birkózás sportág megújulására vonatkozó elképzeléseit ezzel is erősítve azt a közös törekvést, hogy a FILA a NOB döntéshozóinál elérje, hogy a birkózást a NOB ne törölje a nyári olimpiai játékok programjáról.
+
+3. Ez a határozat a közzétételét követő napon lép hatályba.
