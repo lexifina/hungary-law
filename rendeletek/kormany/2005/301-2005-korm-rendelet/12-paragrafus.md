@@ -1,6 +1,6 @@
-12. §[^32] (1)[^33] A Hivatal az általa kiadott engedélyt közli a belügyminiszterrel, a honvédelmi miniszterrel, a Katonai Nemzetbiztonsági Szolgálat és az Alkotmányvédelmi Hivatal főigazgatójával. Az 1. melléklet XXVI. fejezete szerinti titkosszolgálati eszközöket érintő engedélyek esetén a Hivatal az általa kiadott engedélyt közli a Nemzetbiztonsági Szakszolgálat főigazgatójával.
+12. §[^35] (1)[^36] A Hivatal az általa kiadott engedély kiadásáról tájékoztatja a rendészetért felelős minisztert, a honvédelemért felelős minisztert, valamint a Katonai Nemzetbiztonsági Szolgálat, az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ főigazgatóját. A haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről, valamint a vállalkozások tanúsításáról szóló 160/2011. (VIII. 18.) Korm. rendelet 1. melléklet XXVI. fejezete szerinti titkosszolgálati eszközöket érintő engedélyek esetében a Hivatal az általa kiadott engedély kiadásáról tájékoztatja a Nemzetbiztonsági Szakszolgálat főigazgatóját.
 
 (2) A Hivatal az engedélyt visszavonó határozatot közli azokkal a szervekkel, amelyekkel az (1) bekezdés alapján közölte az engedélyt.
 
-[^32]: A 12. § a 182/2009. (IX. 10.) Korm. rendelet 439. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: A 12. § (1) bekezdése a 292/2011. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 286/2012. (X. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^35]: A 12. § a 182/2009. (IX. 10.) Korm. rendelet 439. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 12. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
