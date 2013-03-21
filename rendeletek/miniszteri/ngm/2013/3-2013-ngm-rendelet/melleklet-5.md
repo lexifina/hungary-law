@@ -460,6 +460,6 @@
 
 ## 24. Az AEE a napi zárásokról külön naplóállományt is vezet, a 3. melléklet I. rész A) pont 9. alpontja szerinti tájékoztatás céljára.
 
-5. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^3]
+5. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^4]
 
-[^3]: Az 5. melléklet a 70. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
+[^4]: Az 5. melléklet a 70. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.

@@ -58,6 +58,6 @@
 
 | 5. | 4. | Forgalmazási engedély kiterjesztése | Kiterjesztésenként 80 000 Ft |
 
-3. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^2]
+3. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^3]
 
-[^2]: A 3. melléklet I. rész C) alcím 1. pont f) alpontja a 70. § (4) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^3]: A 3. melléklet I. rész C) alcím 1. pont f) alpontja a 70. § (4) bekezdése alapján 2018. január 1-jén lép hatályba.
