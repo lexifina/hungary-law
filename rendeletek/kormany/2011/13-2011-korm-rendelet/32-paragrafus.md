@@ -12,6 +12,8 @@ d) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendele
 
 e) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet
 
+f)[^41] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
+
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a rendelet
@@ -21,3 +23,4 @@ a) az egyes katonai célú végfelhasználásokkal kapcsolatos műszaki segíts�
 b) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspontnak
 
 [^40]: A 32. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^41]: A 32. § (1) bekezdés f) pontját a 78/2013. (III. 13.) Korm. rendelet 20. §-a iktatta be.
