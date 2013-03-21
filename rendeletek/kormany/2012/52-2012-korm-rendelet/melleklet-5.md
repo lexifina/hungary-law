@@ -18,7 +18,7 @@
 
 2. Tevékenységi engedély iránti kérelem kötelező mellékletei:
 
-2.1.[^3] – az 5. § (4) bekezdés kivételével – a kérelmező képviseletére vagy jegyzésére jogosult személy eredeti közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy közjegyző által hitelesített másolata, illetve az ezekkel egyenértékű, aláírás-mintaként szolgáló más közhiteles okmány;
+2.1.[^4] – az 5. § (4) bekezdés kivételével – a kérelmező képviseletére vagy jegyzésére jogosult személy eredeti közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy közjegyző által hitelesített másolata, illetve az ezekkel egyenértékű, aláírás-mintaként szolgáló más közhiteles okmány;
 
 2.2. a kiviteli, reexport-, illetve behozatali tevékenységgel összefüggő egyéb magyarországi gazdasági tevékenységre – különösen az áru forgalmazására, forgalomba hozatalára, feldolgozására, felhasználására, tárolására, előállítására, radioaktív anyagok esetén azok közúti szállítására vagy fuvarozására – vonatkozóan külön jogszabályban előírt engedély, hatósági igazolás másolata;
 
@@ -28,4 +28,4 @@
 
 2.5. az illetékekről szóló törvény szerint előírt eljárási illeték megfizetésének igazolása.
 
-[^3]: Az 5. melléklet 2.1. pontja a 355/2012. (XII. 13.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. melléklet 2.1. pontja a 355/2012. (XII. 13.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
