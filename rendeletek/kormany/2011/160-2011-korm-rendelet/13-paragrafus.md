@@ -12,4 +12,6 @@ b) garanciális javításra, kiállításra, bemutatóra, tesztelésre, bevizsg�
 
 (5) A Hatóság az általános forgalmi engedélyben a 8. §-ban foglaltakkal összefüggésben nemzetbiztonsági, nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából, az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó eseti feltételeket határozhat meg a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
 
-(6) A Hatóság az általános forgalmi engedélyt honlapján magyar és angol nyelven teszi közzé, és gondoskodik annak, valamint az általános forgalmi engedély visszavonásának az Európai Unió által e célra létrehozott elektronikus adatbázisba történő feltöltéséről.
+(6)[^24] A Hatóság az általános forgalmi engedélyt honlapján magyar és angol nyelven teszi közzé.
+
+[^24]: A 13. § (6) bekezdése a 78/2013. (III. 13.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.

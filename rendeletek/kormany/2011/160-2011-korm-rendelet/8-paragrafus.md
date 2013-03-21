@@ -1,16 +1,16 @@
-## 7. §[^11] A Hatóság az engedélyeket a külpolitikáért felelős miniszter, a külgazdaságért és a Kárpát-medencei gazdasági övezet gazdaságfejlesztéséért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Országos Rendőr-főkapitányság és a Nemzeti Adó- és Vámhivatal vezetője szakértői véleményének kikérésével adja ki.
+## 7. §[^20] A Hatóság az engedélyeket a külpolitikáért felelős miniszter, a külgazdaságért és a Kárpát-medencei gazdasági övezet gazdaságfejlesztéséért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Országos Rendőr-főkapitányság és a Nemzeti Adó- és Vámhivatal vezetője szakértői véleményének kikérésével adja ki.
 
 ## 3. Korlátozások
 
-8. § (1) Nem engedélyezhető olyan kereskedelmi ügylet, amely
+8. § (1)[^21] A kérelmet el kell utasítani, ha az
 
-a)[^12] ellentétes Magyarország nemzetközileg vállalt kötelezettségeivel,
+a) ellentétes Magyarország nemzetközileg vállalt kötelezettségeivel,
 
-b)[^13] ellentétes Magyarország nemzetgazdasági érdekeivel,
+b) ellentétes Magyarország nemzetgazdasági érdekeivel,
 
 c) nemzetbiztonsági érdeket sért,
 
-d) akadályozná vagy ellehetetlenítené a honvédelmi, rendvédelmi, valamint nemzetbiztonsági szervek jogszabályban meghatározott tevékenységének ellátását,
+d) akadályozná vagy ellehetetlenítené a honvédelmi, rendvédelmi, valamint nemzetbiztonsági szervek jogszabályban meghatározott tevékenységének ellátását, vagy
 
 e) ellentétes a 2. mellékletben meghatározott kritériumokkal.
 
@@ -20,6 +20,5 @@ e) ellentétes a 2. mellékletben meghatározott kritériumokkal.
 
 (4) A Hatóság az (1) bekezdés e) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
 
-[^11]: A 7. § a 286/2012. (X. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^12]: A 8. § (1) bekezdés a) pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^13]: A 8. § (1) bekezdés b) pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^20]: A 7. § a 286/2012. (X. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

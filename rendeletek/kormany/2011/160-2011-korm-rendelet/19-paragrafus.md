@@ -20,7 +20,7 @@ e) Belső Megfelelési Programjában kijelölt felelős vezetője írásban nyil
 
 (4) Nem szükséges tanúsítás a hon- és rendvédelmi, rendészeti, továbbá a nemzetbiztonsági szervek részére.
 
-(5) A Hatóság a vállalkozás első alkalommal történt tanúsítását követően 1 éven belül a vállalkozást ellenőrzi. A Hatóság a tanúsított vállalatokat szükségszerűen, de legalább 3 évente ellenőrzi.
+(5)[^29] A Hatóság a tanúsítás kiadását megelőzően, továbbá a vállalkozás első alkalommal történt tanúsítását követően 1 éven belül a vállalkozást ellenőrzi. A Hatóság a tanúsított vállalatokat szükségszerűen, de legalább 3 évente ellenőrzi.
 
 (6) A Hatóság a tanúsítást kérelemre magyar és angol nyelven adja ki a védelmi vonatkozású termékek Közösségen belüli transzferére vonatkozó feltételek egyszerűsítéséről szóló, 2009. május 6-i 2009/43/EK európai parlamenti és tanácsi irányelv 9. cikke értelmében a védelmi ipari vállalkozások tanúsításáról szóló, 2011. január 11-i 2011/24/EU bizottsági ajánlás feltételei szerint.
 
@@ -29,3 +29,5 @@ e) Belső Megfelelési Programjában kijelölt felelős vezetője írásban nyil
 (8) A Hatóság az általa tanúsított vállalatok jegyzékét honlapján magyar és angol nyelven közzéteszi, és gondoskodik azoknak, valamint a tanúsítás felfüggesztésének és visszavonásának az Európai Unió által e célra létrehozott elektronikus adatbázisba történő feltöltéséről.
 
 (9) A Hatóság a tanúsítást a 10. § szerinti változás bejelentés esetében újraértékeli.
+
+[^29]: A 19. § (5) bekezdése a 78/2013. (III. 13.) Korm. rendelet 7. §-ával megállapított szöveg.

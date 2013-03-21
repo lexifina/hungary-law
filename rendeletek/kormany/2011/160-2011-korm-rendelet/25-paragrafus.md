@@ -1,6 +1,6 @@
 25. § (1) Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. §-a szerint kiszabható bírság mértéke:
 
-a) a 10. §, a 21. §, valamint a 22. § (1) bekezdés szerinti kötelezettség megszegése esetén ötezertől ötvenezer forintig,
+a)[^33] a 10. §, a 21. §, valamint a 22. § (3)–(5) bekezdése szerinti kötelezettség megszegése esetén ötezertől ötvenezer forintig,
 
 b) a 16. § (4) bekezdésének megsértése esetén százezertől egymillió forintig,
 
@@ -15,3 +15,5 @@ terjedhet.
 (2) Az (1) bekezdés szerinti jogerős határozatban megállapított bírságot a határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
 
 (3) Az (1) bekezdés szerinti bírság megfizetése készpénz-átutalási megbízással vagy átutalással történhet.
+
+[^33]: A 25. § (1) bekezdés a) pontja a 78/2013. (III. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
