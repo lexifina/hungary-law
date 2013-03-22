@@ -26,6 +26,8 @@ b) az elegyarány az 5. § (2) bekezdés b) pontjában meghatározott erdőterv 
 
 (9)[^15] A 3. § b) pont szerinti tevékenység a tarvágást követően kezdhető meg.
 
+(10)[^16] A 3. § b) pontja szerinti tevékenység során a tarvágás az erdészeti hatóság engedélyében foglaltakkal összhangban, vágásérett faállományban hajtható végre, amelyet az erdészeti hatóságnál be kell jelenteni és az Adattárban rögzíteni kell.
+
 [^9]: A 6. § (1) bekezdése a 44/2012. (V. 3.) VM rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^10]: A 6. § (1a) bekezdését a 44/2012. (V. 3.) VM rendelet 33. § (2) bekezdése iktatta be.
 [^11]: A 6. § (1b) bekezdését a 44/2012. (V. 3.) VM rendelet 33. § (2) bekezdése iktatta be.
@@ -33,3 +35,4 @@ b) az elegyarány az 5. § (2) bekezdés b) pontjában meghatározott erdőterv 
 [^13]: A 6. § (6) bekezdése a 44/2012. (V. 3.) VM rendelet 33. § (4) bekezdésével megállapított szöveg.
 [^14]: A 6. § (7) bekezdése a 44/2012. (V. 3.) VM rendelet 33. § (5) bekezdésével megállapított szöveg.
 [^15]: A 6. § (9) bekezdését a 44/2012. (V. 3.) VM rendelet 33. § (6) bekezdése iktatta be.
+[^16]: A 6. § (10) bekezdését a 18/2013. (III. 21.) VM rendelet 8. § (2) bekezdése iktatta be.
