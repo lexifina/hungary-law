@@ -14,7 +14,11 @@ Határidő: 2013. február 15.
 
 Felelős: belügyminiszter
 
-c) a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendelet és a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet hatálya alá tartozó településeket a közfoglalkoztatás szempontjából kiemelt településeknek minősíti.
+c)[^1]
+
+ca) a közfoglalkoztatás szempontjából kiemelt településeknek minősíti a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) és a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet 2. és 4. számú mellékletének hatálya alá tartozó településeket.
+
+cb) a közfoglalkoztatás szempontjából kiemelt kistérségnek minősíti azokat a kistérségeket, amelyeknél a kistérséghez tartozó települések legalább fele a Korm. rendelet hatálya alá tartozik.
 
 d) 2013. évre a közfoglalkoztatás céljaként
 
@@ -45,3 +49,5 @@ Határidő: 2014. március 20.
 Felelős: belügyminiszter
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont c) alpontja az 1141/2013. (III. 21.) Korm. határozat 1. pontjával megállapított szöveg.
