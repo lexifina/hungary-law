@@ -1,3 +1,0 @@
-## „23. beléptető vámhivatal: az a Vámkódex 4. cikk 4a. pontjában, illetve a Vámtörvény 1. § (3) bekezdés 1/c. pontjában meghatározott vámhivatal, ahová a harmadik országból az Európai Unió vámterületére belépő, valamint azon átszállítandó árukat késedelem nélkül tovább kell szállítani, és ahol azokat megfelelő kockázatalapú beléptetési ellenőrzésnek vetik alá;
-
-## 24. kiléptető vámhivatal: a Vámkódex 4. cikk 4d. pontjában, illetve a Vámtörvény 1. § (3) bekezdés 1/c. pontjában meghatározott vámhivatal, ahol az Európai Unió vámterületét elhagyó áruk vámjogi sorsának meghatározásával kapcsolatos alakiságokat és a tranzitáruk kiléptetését elvégzik, beleértve a megfelelő kockázatalapú ellenőrzéseket is.”

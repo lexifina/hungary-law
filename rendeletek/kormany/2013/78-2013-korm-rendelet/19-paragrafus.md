@@ -1,1 +1,0 @@
-## 18. § Az R2. 1. § (1)–(3) bekezdésében az „az 1. melléklet” szövegrész helyébe az „a haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről, valamint a vállalkozások tanúsításáról szóló 160/2011. (VIII. 18.) Korm. rendelet 1. melléklete” szöveg lép.
