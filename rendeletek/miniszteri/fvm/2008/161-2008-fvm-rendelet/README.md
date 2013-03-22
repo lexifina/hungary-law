@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-161-20-
 | 2011-10-03 | 2008-161-20-82.6 | 90/2011. (X. 3.) VM rendelet |
 | 2012-03-31 | 2008-161-20-82.7 | 31/2012. (III. 30.) VM rendelet |
 | 2012-11-10 | 2008-161-20-82.8 | 31/2012. (III. 30.) VM rendelet |
+| 2013-03-22 | 2008-161-20-82.9 | 18/2013. (III. 21.) VM rendelet |

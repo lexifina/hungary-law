@@ -18,6 +18,6 @@
 
 ## - az érdemi vizsgálat nélküli elutasító végzés bírósági felülvizsgálata nincs folyamatban.
 
-8. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^74]
+8. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^72]
 
-[^74]: A 8. számú mellékletet a 31/2012. (III. 30.) VM rendelet 8. § (2) bekezdése iktatta be, hatályon kívül helyezte a 113/2012. (XI. 9.) VM rendelet 4. § (1) bekezdés c) pontja.
+[^72]: A 8. számú mellékletet a 31/2012. (III. 30.) VM rendelet 8. § (2) bekezdése iktatta be, hatályon kívül helyezte a 113/2012. (XI. 9.) VM rendelet 4. § (1) bekezdés c) pontja.
