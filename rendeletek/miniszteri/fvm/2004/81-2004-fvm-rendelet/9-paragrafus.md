@@ -24,7 +24,7 @@ eb) rendelkezik a mezőgazdasági piacok közös szervezésének létrehozásár
 
 ec) a vezető tisztségviselő, valamint az adminisztratív, illetve operatív vezetést végző személy – az elismerés időtartama alatt – nem tulajdonosa vagy foglalkoztatottja, alkalmazottja (nincs munkajogi, vagy egyéb munkavégzésre irányuló szerződéses jogviszonyban) a termelői csoport beszállítójának, feldolgozást végző üzemének vagy vásárlójának.
 
-(4a)[^39] A 2013. január 1-je előtt elismerést vagy minősített elismerést szerzett termelői csoportoknak a (4) bekezdés f) pontja szerinti igazolást 2013. február 28-ig kell benyújtani a minisztériumhoz.
+(4a)[^39]
 
 (5)[^40] A miniszter határozatban dönt a termelői csoport elismeréséről vagy a kérelem elutasításáról.
 
@@ -43,9 +43,9 @@ ec) a vezető tisztségviselő, valamint az adminisztratív, illetve operatív v
 [^34]: A 9. § a 95/2007. (IX. 4.) FVM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárások esetében is alkalmazni kell.
 [^35]: A 9. § (1) bekezdése a 20/2010. (X. 1.) VM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.
 [^36]: A 9. § (2) bekezdése a 20/2010. (X. 1.) VM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.
-[^37]: A 9. § (4) bekezdése a 20/2010. (X. 1.) VM rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.
+[^37]: A 9. § (4) bekezdése a 20/2010. (X. 1.) VM rendelet 6. § (2) bekezdésével megállapított szöveg. [A 18/2013. (III. 21.) VM rendelet 1. § (2) bekezdés a) pontjával elrendelt módosítás, amely szerint hatályát veszti a 9. § (4) bekezdés f) pontja, nem vezethető át.]
 [^38]: A 9. § (4) bekezdés c) pontját a 123/2012. (XII. 6.) VM rendelet 11. § b) pontja hatályon kívül helyezte.
-[^39]: A 9. § (4a) bekezdését a 123/2012. (XII. 6.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^39]: A 9. § (4a) bekezdését a 123/2012. (XII. 6.) VM rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 18/2013. (III. 21.) VM rendelet 1. § (2) bekezdés b) pontja.
 [^40]: A 9. § (5) bekezdése a 123/2012. (XII. 6.) VM rendelet 10. § f) pontja szerint módosított szöveg.
 [^41]: A 95/2007. (IX. 4.) FVM rendelet 11. § (2) bekezdése alapján a 2007. szeptember 7. napját megelőzően elismert csoportok esetében a szabályzatok kidolgozásának határideje 2007. december 31.
 [^42]: A 9. § (8) bekezdése a 65/2009. (VI. 4.) FVM rendelet 7. § (3) bekezdésével megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést csak a 2009. június 7. napját követően benyújtott elismerési kérelmekre kell alkalmazni.
