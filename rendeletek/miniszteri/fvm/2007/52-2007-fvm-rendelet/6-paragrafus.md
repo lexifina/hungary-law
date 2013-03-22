@@ -14,13 +14,11 @@ b) november 1-jétől december 31-ig.
 
 (5) Az egyesített támogatási-kifizetési kérelemhez csatolni kell az igénybe vett szaktanácsadási szolgáltatás teljesítését igazoló, az ügyféllel szerződéses kapcsolatban álló TSzK által kiállított, az ügyfél által pénzügyileg rendezett bizonylatok ügyfél példányának (a továbbiakban: teljesítési bizonylat), a pénzügyi teljesítést igazoló bizonylatoknak, valamint az aláírt szaktanácsadási napló kivonatának lapolvasóval készített elektronikus másolatát. A TSzK felelős a szaktanácsadási naplónak a TSzK integrált rendszerében való elektronikus vezetéséért, amelyben a szaktanácsadási szolgáltatás teljesítésének minden eseménye feltüntetésre kerül napló bejegyzések formájában. A napló kivonatot a napló bejegyzések alapján az elektronikus rendszer generálja. A kinyomtatott szaktanácsadási napló kivonat teljesítés igazolásként szolgál, amelyet az ügyfél és a szaktanácsadó aláírásával lát el. A napló kivonat kötelező tartalma: a szerződés száma, a TSzK, a szaktanácsadó, valamint az ügyfél neve, regisztrációs száma, a szolgáltatás helye, időpontja, időtartama, módja, a szolgáltatás – 1. számú mellékletben meghatározott – kódszáma. A TSzK köteles a napló kivonatot öt évig megőrizni, és ellenőrzés esetén bemutatni. A TSzK a napló kivonat másodpéldányát az ügyfél rendelkezésére bocsátja.
 
-(6) A teljesítési bizonylaton legkésőbb az egyesített támogatási-kifizetési kérelem benyújtásának napján fel kell tüntetni
+(6)[^24] A teljesítési bizonylaton fel kell tüntetni
 
-a) az igénybe vett szolgáltatás 1. számú mellékletben feltüntetett azonosító kódját, az elszámolt tétel Szolgáltatások Jegyzéke szerinti számát, vámtarifaszámát vagy kombinált nómenklatúra kódját,
+a) az igénybe vett szolgáltatás 1. számú mellékletben feltüntetett azonosító kódját,
 
-b) az ügyfél regisztrációs számát, a szaktanácsadási szerződés számát, valamint a „Támogatás elszámolására benyújtásra került” bejegyzést.
-
-Ha a teljesítési bizonylat nem felel meg ezeknek az előírásoknak, akkor a teljesítési bizonylat az elszámoláshoz nem fogadható el.
+b) a szaktanácsadási szerződés számát, valamint a „Támogatás elszámolására benyújtásra került” rájegyzést.
 
 (7) Kifizetés alapját csak a (6) bekezdésben foglaltaknak megfelelő számviteli bizonylaton szereplő kiadás képezheti. Amennyiben a bizonylat a (6) bekezdés b) pontjában foglaltaknak való meg nem felelés miatt került elutasításra, amelyre vonatkozóan hiánypótlásnak helye nincs, úgy az elutasított bizonylat más kifizetési kérelemhez kapcsolódóan ismételten nem nyújtható be.
 
@@ -30,3 +28,4 @@ Ha a teljesítési bizonylat nem felel meg ezeknek az előírásoknak, akkor a t
 
 [^22]: A 6. §-t megelőző alcím a 112/2012. (XI. 7.) VM rendelet 3. §-ával megállapított szöveg.
 [^23]: A 6. § a 112/2012. (XI. 7.) VM rendelet 4. §-ával megállapított szöveg.
+[^24]: A 6. § (6) bekezdése a 18/2013. (III. 21.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
