@@ -1,6 +1,6 @@
 ## Támogatási kérelem, a kérelem elbírálása
 
-7. § (1)[^23] A támogatási kérelmet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján közzétett és az MVH központi szerve által rendszeresített formanyomtatványon, a tervezett erdőrészlet elhelyezkedése szerint illetékes fővárosi és megyei kormányhivatal erdészeti igazgatóságához (a továbbiakban: erdészeti igazgatóság) 2012. évben október 1. és november 30. között, 2013. évben november 1. és november 30. között lehet benyújtani.
+7. § (1)[^23] A támogatási kérelmet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján közzétett és az MVH központi szerve által rendszeresített nyomtatványon, a tervezett erdőrészlet elhelyezkedése szerint illetékes fővárosi és megyei kormányhivatal erdészeti igazgatóságához (a továbbiakban: erdészeti igazgatóság) a 2012. évben október 1. és november 30. között, a 2013. évben június 9. és június 30. között lehet benyújtani.
 
 (2) A támogatási kérelemhez csatolni kell:
 
@@ -24,7 +24,7 @@ c)[^26] tűzkár esetén a tűzvédelmi hatóság tűzvizsgálati jelentésének
 
 (7) Azt a minimális pontszámot, amelytől e rendelet alapján támogatás adható, az irányító hatóság közleményben teszi közzé.
 
-[^23]: A 7. § (1) bekezdése a 44/2012. (V. 3.) VM rendelet 4. §-ával megállapított szöveg.
+[^23]: A 7. § (1) bekezdése a 18/2013. (III. 21.) VM rendelet 5. §-ával megállapított szöveg.
 [^24]: A 7. § (2) bekezdés a) pontja a 87/2011. (IX. 2.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^25]: A 7. § (2) bekezdés b) pontja a 87/2011. (IX. 2.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^26]: A 7. § (2) bekezdés c) pontja a 82/2008. (VI. 30.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a rendelkezést a 2008. július 3-án folyamatban lévő ügyekben is alkalmazni kell.
