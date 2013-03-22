@@ -16,7 +16,7 @@ b) az egy vágásfordulóra létesített faültetvény, valamint
 
 c) a gyorsan növő fafajokkal, rövid vágásfordulóra (15 évnél rövidebb) telepített faállományok telepítésére.
 
-(3)[^3] A rendelet alapján igénybe vett támogatás kizárja, hogy ugyanarra a területre:
+(3)[^5] A rendelet alapján igénybe vett támogatás kizárja, hogy ugyanarra a területre:
 
 a) az EMOGA Garancia Részlegéből finanszírozott adott évi egységes területalapú támogatást, valamint
 
@@ -24,4 +24,4 @@ b) az EMOGA Garancia Részlegéből finanszírozott adott évi egységes terüle
 
 c) külön jogszabály alapján területalapú támogatást
 
-[^3]: Az 5. § (3) bekezdése a 40/2005. (IV. 27.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 9. §-a alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^5]: Az 5. § (3) bekezdése a 40/2005. (IV. 27.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 9. §-a alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.

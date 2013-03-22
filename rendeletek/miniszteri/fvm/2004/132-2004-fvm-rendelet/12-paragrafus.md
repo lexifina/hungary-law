@@ -4,7 +4,7 @@
 
 12. § (1) Az erdőtelepítési első kivitelhez nyújtott támogatást – az (5) bekezdésben foglaltakra is figyelemmel – a jogosult mezőgazdasági terület jogszerű használója veheti igénybe.
 
-(2)[^11] Az erdőtelepítés ápolásához nyújtott támogatást – a (3) és (5) bekezdésben foglaltakra is figyelemmel – a jogosult mezőgazdasági terület használója akkor veheti igénybe, ha
+(2)[^13] Az erdőtelepítés ápolásához nyújtott támogatást – a (3) és (5) bekezdésben foglaltakra is figyelemmel – a jogosult mezőgazdasági terület használója akkor veheti igénybe, ha
 
 a) egyidejűleg annak tulajdonosa,
 
@@ -18,4 +18,4 @@ c) haszonélvezeti joggal rendelkezik.
 
 (5) A rendelet alapján járó támogatást nem veheti igénybe az, aki az R. 1. §-ának g) pontja szerinti korai nyugdíjazási támogatásban részesül.
 
-[^11]: A 12. § (2) bekezdése a 40/2005. (IV. 27.) FVM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 9. §-a alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^13]: A 12. § (2) bekezdése a 40/2005. (IV. 27.) FVM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 9. §-a alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
