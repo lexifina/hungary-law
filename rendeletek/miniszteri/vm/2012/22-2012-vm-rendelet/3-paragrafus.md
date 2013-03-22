@@ -12,7 +12,7 @@ bc)[^8] az ügyfél vagy alkalmazottja, családi gazdaság esetén annak valamel
 
 c)[^9] 2013-tól kezdődően évente március 15-ig a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és az MVH honlapján közzétett nyomtatványon a személyi azonosításhoz szükséges adatokon túl nyilatkozni az e bekezdés alapján a megelőző naptári évre vállalt kötelezettség teljesítéséről és annak módjáról.
 
-(2)[^10] Az (1) bekezdésben foglaltak szerinti, választott kötelezettség módosítására a támogatással érintett tárgyév vonatkozásában az adott év december 31. napjáig van lehetőség. A módosítás iránti kérelmet az MVH által erre rendszeresített nyomtatványon kell benyújtani.
+(2)[^10] Az (1) bekezdésben foglaltak szerinti, választott kötelezettség módosítására a támogatással érintett tárgyév vonatkozásában a tárgyévet követő év március 15. napjáig van lehetőség. A módosítás iránti kérelmet az MVH által erre rendszeresített nyomtatványon kell benyújtani.
 
 (3) Az ügyfélnek a referencia állatállománya alapján végzett számítással meghatározottan, a törtrészek figyelembevételével, arányosan kell az (1) bekezdés b) pont ba) alpontjában foglalt éves kötelezettséget teljesítenie.
 
@@ -54,7 +54,7 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 [^7]: A 3. § (1) bekezdés b) pont bb) alpontja a 8/2013. (II. 18.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (1) bekezdés b) pont bc) alpontja a 8/2013. (II. 18.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés c) pontja a 8/2013. (II. 18.) VM rendelet 15. § (1) bekezdése szerint módosított szöveg.
-[^10]: [A 8/2013. (II. 18.) VM rendelet 15. § (2) bekezdésével elrendelt módosítás, amely szerint az „az adott december 31.” szövegrész helyébe az „a tárgyévet követő március 15.” szöveg lép, nem vezethető át.]
+[^10]: A 3. § (2) bekezdése a 18/2013. (III. 21.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^11]: A 3. § (4a) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (2) bekezdése iktatta be.
 [^12]: A 3. § (5) bekezdése a 8/2013. (II. 18.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^13]: A 3. § (6) bekezdése a 8/2013. (II. 18.) VM rendelet 8. § (4) bekezdésével megállapított szöveg.
