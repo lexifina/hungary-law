@@ -8923,3 +8923,7 @@ Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével
 Marketing ismeretek:
 
 Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes elvégezni:
+
+- Üzleti tervet készít
+
+- Elvégzi a saját iparágának bemutatását és elemzését
