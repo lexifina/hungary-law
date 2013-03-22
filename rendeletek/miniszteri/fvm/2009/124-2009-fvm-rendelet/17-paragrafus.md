@@ -4,13 +4,13 @@
 
 17. § (1) A jogosultság feltétele, hogy az adott erdőrészletben az ügyfél
 
-a)[^29] részére a tanácsi rendelet 49. cikke szerinti nem termelő beruházások szerkezetátalakítás alintézkedésébe tartozó erdőállomány alatti erdősítés, állománykiegészítés vagy tarvágás után történő szerkezetátalakítás célú támogatás esetében megtörtént a kifizetési határozat kiadása, vagy
+a)[^31] részére a tanácsi rendelet 49. cikke szerinti nem termelő beruházások szerkezetátalakítás alintézkedésébe tartozó erdőállomány alatti erdősítés, állománykiegészítés vagy tarvágás után történő szerkezetátalakítás célú támogatás esetében megtörtént a kifizetési határozat kiadása, vagy
 
 b) a természetes mageredetű erdőfelújítás végvágását elvégezte, vagy
 
 c) hazai nyáras vagy égeres faállománytípus-csoportba tartozó erdők esetében a végvágást elvégezte, és sarjról történő felújítást hajt végre.
 
-(2)[^30] A támogatható terület legalább 1 ha nagyságú erdőrészlet. Az erdőrészlet 0,3 hektár nagyságot elérő részterületére is adható támogatás, amennyiben azon a területhatár állandósítást elvégezték.
+(2)[^32] A támogatható terület legalább 1 ha nagyságú erdőrészlet. Az erdőrészlet 0,3 hektár nagyságot elérő részterületére is adható támogatás, amennyiben azon a területhatár állandósítást elvégezték.
 
 (3) A célprogram előírásai:
 
@@ -32,22 +32,22 @@ c) a sérült újulat tőrevágását vagy pótlását a fakitermelést követő
 
 d) a fakitermelés és anyagmozgatás során nem keletkezhet 20 cm-nél mélyebb közelítési, illetve vonszolási nyom.
 
-(5)[^31] A célprogram időtartama:
+(5)[^33] A célprogram időtartama:
 
 a) 10 év, de legfeljebb a (7) bekezdés szerinti bírság kiszabását megelőző naptári évig terjedő időszak, vagy
 
 b) az erdőrészlet erdősítésének erdészeti hatóság által külön jogszabály szerinti befejezetté nyilvánításának évéig terjedő időszak, de legfeljebb a (7) bekezdés szerinti bírság kiszabását megelőző naptári évig terjedő időszak.
 
-(6)[^32] A támogatás mértéke
+(6)[^34] A támogatás mértéke
 
 a) az első évben hektáronként 274 eurónak megfelelő forintösszeg,
 
 b) a második évtől kezdődően hektáronként 106 eurónak megfelelő forintösszeg/év.
 
-(7)[^33] Az az erdőrészlet, amelyre vonatkozóan az erdészeti hatóság az erdősítési határidők túllépése miatt jogerős határozatában erdőgazdálkodási bírságot állapított meg, a bírság kiszabásának évétől kezdődően elveszíti támogatási jogosultságát.
+(7)[^35] Az az erdőrészlet, amelyre vonatkozóan az erdészeti hatóság az erdősítési határidők túllépése miatt jogerős határozatában erdőgazdálkodási bírságot állapított meg, a bírság kiszabásának évétől kezdődően elveszíti támogatási jogosultságát.
 
-[^29]: A 17. § (1) bekezdés a) pontja a 104/2012. (X. 1.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^30]: A 17. § (2) bekezdése a 104/2012. (X. 1.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^31]: A 17. § (5) bekezdése a 104/2012. (X. 1.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^32]: A 17. § (6) bekezdése a 44/2012. (V. 3.) VM rendelet 19. §-ával megállapított szöveg.
-[^33]: A 17. § (7) bekezdését a 104/2012. (X. 1.) VM rendelet 8. § (4) bekezdése iktatta be.
+[^31]: A 17. § (1) bekezdés a) pontja a 104/2012. (X. 1.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^32]: A 17. § (2) bekezdése a 104/2012. (X. 1.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^33]: A 17. § (5) bekezdése a 104/2012. (X. 1.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^34]: A 17. § (6) bekezdése a 44/2012. (V. 3.) VM rendelet 19. §-ával megállapított szöveg.
+[^35]: A 17. § (7) bekezdését a 104/2012. (X. 1.) VM rendelet 8. § (4) bekezdése iktatta be.

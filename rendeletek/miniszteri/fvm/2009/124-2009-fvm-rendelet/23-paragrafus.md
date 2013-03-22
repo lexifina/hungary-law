@@ -10,7 +10,7 @@ aa) a kérelmezett terület rendeltetése parkerdő, gyógyerdő vagy „park”
 
 ab) a kérelemben szereplő, a parkerdő területén található erdőrészletre 9 éven belül véghasználati előírás nincs,
 
-b) az ügyfél nyilatkozik arról, hogy a parkerdő az ingatlan-nyilvántartásban legalább alrészletként szerepel, vagy az Adattárban egyéb részletként elkülönített úton 500 méteres távolságon belül megközelíthető, valamint abban hektáronként átlagosan legalább 1-1 közjóléti berendezés található,
+b)[^43] az ügyfél nyilatkozik arról, hogy a parkerdő az ingatlan-nyilvántartásban legalább alrészletként szereplő, vagy az Adattárban egyéb részletként elkülönített úton 500 méteres távolságon belül megközelíthető, valamint abban hektáronként átlagosan legalább 1-1 közjóléti berendezés található,
 
 c) támogatás azon közjóléti létesítményekre és berendezésekre igényelhető, amelyek az erdészeti hatóságnál vezetett közjóléti nyilvántartásban szerepelnek.
 
@@ -36,6 +36,7 @@ h) a szemétszállítás, a szemétgyűjtés időpontját a munkanaplóban rögz
 
 (4) A célprogram időtartama 7 év.
 
-(5)[^41] A támogatás éves mértéke a támogatott terület után hektáronként 280 eurónak megfelelő forintösszeg.
+(5)[^44] A támogatás éves mértéke a támogatott terület után hektáronként 280 eurónak megfelelő forintösszeg.
 
-[^41]: A 23. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 25. §-ával megállapított szöveg.
+[^43]: A 23. § (1) bekezdés b) pontja a 18/2013. (III. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^44]: A 23. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 25. §-ával megállapított szöveg.
