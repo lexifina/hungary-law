@@ -1,0 +1,3 @@
+## 20. § Az R. 114. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A bizonyítványmásodlatnak – a 113. § (2) bekezdés szerinti névváltozás kivételével –szöveghűen tartalmaznia kell az eredeti bizonyítványon található minden adatot és bejegyzést. A másodlat kiadását az eredeti bizonyítványt kiállító iskola vagy jogutódja, az iskola jogutód nélküli megszűnése esetén az végzi, akinél a megszűnt iskola iratait elhelyezték (a továbbiakban együtt: kiállító szerv). A bizonyítványmásodlaton záradék formájában fel kell tüntetni a másodlat kiadásának az okát, továbbá a kiállító szerv nevét, címét, a kiadás napját, valamint el kell látni iktatószámmal, a kiállító szerv vezetőjének vagy megbízottjának aláírásával és körbélyegzőjének lenyomatával.”

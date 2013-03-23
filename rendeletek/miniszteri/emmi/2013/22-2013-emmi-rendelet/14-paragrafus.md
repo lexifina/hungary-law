@@ -1,0 +1,1 @@
+## „(4a) Ha a vizsgázó a (3) bekezdés b) pontja alapján a szóbeli vizsgát írásban teszi le, a vizsgatétel kihúzása után külön helyiségben, vizsgáztató tanár felügyelete mellett készíti el dolgozatát. A dolgozat elkészítésére harminc percet kell biztosítani. A dolgozatot a vizsgázó vagy a vizsgázó kérésére a vizsgáztató tanár felolvassa.”

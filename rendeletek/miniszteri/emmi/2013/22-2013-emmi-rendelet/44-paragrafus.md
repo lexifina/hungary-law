@@ -1,0 +1,3 @@
+44. § (1) Az R. e rendelet 5. § (1) bekezdésével megállapított 20. § (1) bekezdésében meghatározott, a 2013/2014. nevelési évre vonatkozó óvodai jogviszony létesítésével összefüggő közleményt a fenntartónak április 20. napját megelőzően legalább húsz nappal kell közzétennie.
+
+(2) Az R. e rendelet 33. §-ával megállapított 182/A. § (1) és (3) bekezdésében meghatározott feladatokat a 2013/2014. tanév megszervezésére vonatkozóan e rendelet hatálybalépését követő nap és 2013. április 5. között kell végrehajtani azzal, hogy a 182/A. § (1) bekezdés szerinti, az iskola igazgatója általi közlésre meghatározott tíz napra vonatkozó szabályt nem kell alkalmazni.
