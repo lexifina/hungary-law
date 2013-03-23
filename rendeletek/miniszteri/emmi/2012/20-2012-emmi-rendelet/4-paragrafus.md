@@ -34,7 +34,7 @@ o) annak meghatározását, hogy hol, milyen időpontban lehet tájékoztatást 
 
 p) azokat az ügyeket, amelyekben a szülői szervezetet, közösséget az SZMSZ véleményezési joggal ruházza fel,
 
-q) a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
+q)[^4] a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárást megelőző egyeztető eljárás, valamint a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
 
 r) az elektronikus úton előállított papíralapú nyomtatványok hitelesítésének rendjét,
 
@@ -69,3 +69,5 @@ g) az alapfokú művészeti iskola kivételével az iskolai, kollégiumi könyvt
 (5) Ha iskolaszék, óvodaszék, kollégiumi szék nem működik, az SZMSZ elfogadásakor az óvodai, iskolai, kollégiumi szülői szervezet, közösség véleményét kell beszerezni.
 
 (6) A közös igazgatású köznevelési intézmény és általános művelődési központ SZMSZ-e tartalmazza a működés közös szabályait és – intézményegységenként külön-külön – az egyes intézményegységek működését meghatározó előírásokat.
+
+[^4]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.

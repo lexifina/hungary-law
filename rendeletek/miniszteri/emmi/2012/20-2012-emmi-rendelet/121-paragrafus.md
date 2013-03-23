@@ -14,7 +14,9 @@ e) az intézmény székhelye szerinti történelmi egyházak képviselői,
 
 f) az intézmény székhelye szerinti települési önkormányzat,
 
-g) szakiskolában és szakközépiskolában az érintett helyi gazdasági kamarák képviselői (a továbbiakban ezen alcím vonatkozásában az a)–h) pont alattiak együtt: érdekeltek).
+g)[^58] a települési, területi nemzetiségi önkormányzat, térségi vagy országos feladatot ellátó iskola esetén – amennyiben nem az iskola fenntartója – az országos nemzetiségi önkormányzat,
+
+h)[^59] szakiskolában és szakközépiskolában az illetékes területi gazdasági kamara képviselője (a továbbiakban ezen alcím vonatkozásában az a)–h) pont alattiak együtt: érdekeltek).
 
 (2) Az intézményi tanácsot létre kell hozni, ha az érdekeltek közül legalább kettőnek a képviselői kezdeményezik a megalakítását, és részt vesznek munkájában.
 
@@ -49,3 +51,6 @@ c) azokban az ügyekben, amelyekben a nevelőtestület a döntési jogot az int�
 (8) Az intézményi tanács feladatai ellátásához térítésmentesen használhatja az iskola helyiségeit, berendezéseit, ha ezzel nem akadályozza az iskola működését.
 
 (9) Intézményi tanács hiányában az erre jogosultak iskolaszék létrehozását kezdeményezhetik.
+
+[^58]: A 121. § (1) bekezdés g) pontja a 22/2013. (III. 22.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^59]: A 121. § (1) bekezdés h) pontját a 22/2013. (III. 22.) EMMI rendelet 22. § (2) bekezdése iktatta be.

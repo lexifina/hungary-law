@@ -58,6 +58,8 @@ bo) a tanuló jutalmazásával összefüggő, a tanuló magatartásának, szorga
 
 bp) a nevelőtestület által szükségesnek tartott további elveket,
 
+bq)[^5] középiskola esetében a 11–12. évfolyamon az emelt szintű érettségire történő felkészítéshez az emelt szintű oktatásban alkalmazott fejlesztési feladatokat és követelményeket a Nat és az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet alapján,
+
 c) szakképző iskola esetén a szakmai programot,
 
 d) amennyiben az általános iskola egész napos iskolaként működik, az oktatásért felelős miniszter által kiadott, vagy saját maga által kidolgozott és az Nkt.-ben meghatározottak szerint jóváhagyott nevelési-oktatási programot.
@@ -72,10 +74,16 @@ d) amennyiben az általános iskola egész napos iskolaként működik, az oktat
 
 a) az iskolai írásbeli, szóbeli, gyakorlati beszámoltatások, az ismeretek számonkérésének rendjét,
 
-b) az otthoni, napközis, tanulószobai felkészüléshez előírt írásbeli és szóbeli feladatok meghatározásának elveit és korlátait.
+b) az otthoni, napközis, tanulószobai felkészüléshez előírt írásbeli és szóbeli feladatok meghatározásának elveit és korlátait,
+
+c)[^6] a tanuló magasabb évfolyamra lépésének feltételeit.
 
 (6) Ha az általános iskolában a Nat Művészetek műveltségi területen vagy az annak megfelelő tantárgy keretei között emelt szintű oktatás folyik, továbbá ha a szakiskola vagy a szakközépiskola művészeti szakmai vizsgára készít fel, az iskola, valamint az alapfokú művészeti iskola pedagógiai programja előírhatja, hogy a tanuló a kötelező tanórai foglalkozások keretében tanítási napokon nyolc és tizenhat óra között köteles részt venni művészeti próbákon és előadásokon. Az alapfokú művészeti iskola e feladatkörében a tanulók közismereti iskolai feladatait figyelembe véve határozhatja meg a kötelező részvételt a művészeti próbákon és előadásokon.
 
-(7) Az iskolában a szakképzési évfolyamon folyó szakképzés szakmai programjának elkészítésére a szakképzésre vonatkozó jogszabályok rendelkezéseit kell alkalmazni.
+(7)[^7] Az iskolában folyó szakképzés szakmai programjának elkészítésére a szakképzésre vonatkozó jogszabályok rendelkezéseit kell alkalmazni.
 
 (8) Az iskola a szakmai előkészítő ismereteket a központi program, kerettanterv vagy a Nat, továbbá az érettségi vizsga vizsgatárgyainak követelményei alapján építi be a helyi tantervébe.
+
+[^5]: A 7. § (1) bekezdés b) pont bq) alpontját a 22/2013. (III. 22.) EMMI rendelet 3. § (1) bekezdése iktatta be.
+[^6]: A 7. § (5) bekezdés c) pontját a 22/2013. (III. 22.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+[^7]: A 7. § (7) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § a) pontja szerint módosított szöveg.

@@ -6,4 +6,6 @@
 
 (3) Az évfolyam megismétlése – kivéve, ha a tanuló betöltötte a tizenhatodik életévét és nem végezte el az általános iskola hatodik osztályát – nem tagadható meg abban az iskolában, amellyel a tanuló tanulói jogviszonyban áll. A tanuló kérésére az iskola igazgatója köteles segítséget nyújtani ahhoz, hogy a tanuló a megkezdett tanulmányait másik iskolában vagy a Köznevelési Hídprogram keretében folytathassa.
 
-(4) Ha a tanuló részére engedélyezték, hogy a sikeresen befejezett évfolyamot megismételje, kérelmére a magasabb iskolai évfolyamra vagy a szakképzési évfolyamra lépésről, továbbá az érettségi vizsgára bocsátásról a megismételt iskolai évfolyamon elért év közbeni érdemjegyek, félévi és tanítási év végi osztályzatok alapján kell dönteni.
+(4)[^41] Ha a tanuló részére engedélyezték, hogy a sikeresen befejezett évfolyamot megismételje, a magasabb iskolai évfolyamra vagy a szakképzési évfolyamra lépésről, továbbá az érettségi vizsgára bocsátásról a megismételt iskolai évfolyamon elért év közbeni érdemjegyek, félévi és tanítási év végi osztályzatok alapján kell dönteni.
+
+[^41]: A 77. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § j) pontja szerint módosított szöveg.

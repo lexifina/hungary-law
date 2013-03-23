@@ -6,7 +6,7 @@
 
 (3) Nem jelölhető ki kötelező felvételt biztosító iskolának az az általános iskola, amely körzetének kialakításánál a halmozottan hátrányos helyzetű gyermekek körzeti aránya túllépésére vonatkozó rendelkezés nem tartható meg, feltéve hogy a halmozottan hátrányos helyzetű tanulók körzeti aránya elérné az ötven százalékot, és egyébként a település többi iskolája elégséges férőhellyel rendelkezik a település összes tanköteles tanulójának felvételéhez. Az elégséges férőhelyek meglétét az iskola alapító okiratában meghatározott maximális tanulói létszám alapján kell megállapítani.
 
-(4) A nemzetiséghez tartozó jelentkezőt – ha a felvételi követelményeknek megfelel – a nemzetiség nyelvén vagy a nemzetiség nyelvén és magyarul tanító iskolába, tagozatra, osztályba, csoportba fel vagy át kell venni. A fenntartó szakiskolát és középiskolát is kijelölhet kötelező felvételt biztosító iskolának.
+(4)[^23] A nemzetiséghez tartozó jelentkezőt – ha a felvételi követelményeknek megfelel – a nemzetiség nyelvén vagy a nemzetiség nyelvén és magyarul tanító iskolába, tagozatra, osztályba, csoportba fel vagy át kell venni.
 
 (5) Ha az általános iskola a felvételi kötelezettsége teljesítése után további felvételi, átvételi kérelmeket is teljesíteni tud, köteles először a halmozottan hátrányos helyzetű tanulók kérelmét teljesíteni a (2) bekezdésben foglalt arányok figyelembevételével. A további felvételi lehetőségről szóló tájékoztatót a helyben szokásos módon – legalább tizenöt nappal a felvételi, átvételi kérelmek benyújtására rendelkezésre álló időszak első napja előtt – nyilvánosságra kell hozni. A halmozottan hátrányos helyzetű tanulók közül előnyben kell részesíteni azokat, akiknek a lakóhelye, ennek hiányában tartózkodási helye azon a településen vagy kerületben van, ahol az iskola székhelye vagy telephelye, feladatellátási helye található. A halmozottan hátrányos helyzetű tanulók felvétele után a további felvételi kérelmek elbírálásánál előnyben kell részesíteni azokat a jelentkezőket, akiknek a lakóhelye, ennek hiányában tartózkodási helye azon a településen található, ahol az iskola székhelye vagy telephelye, feladatellátási helye található.
 
@@ -21,3 +21,5 @@ b) testvére az adott intézmény tanulója, vagy
 c) munkáltatói igazolás alapján szülőjének munkahelye az iskola körzetében található, vagy
 
 d) az iskola a lakóhelyétől, ennek hiányában tartózkodási helyétől egy kilométeren belül található.
+
+[^23]: A 24. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § c) pontja szerint módosított szöveg.

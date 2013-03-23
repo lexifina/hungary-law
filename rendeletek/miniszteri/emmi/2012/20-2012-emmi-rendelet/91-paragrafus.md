@@ -22,10 +22,14 @@ fb) a szervezési feladatokat,
 
 fc) a tervezett programokat és azok időpontjait,
 
-fd) a gyermekek fejlődését elősegítő tartalmakat a következő bontásban: vers és mese, ének, zene, énekes játék, rajzolás, mintázás, kézimunka, mozgás, a külső világ megismerése,
+fd)[^44] a gyermekek neveléséhez szükséges, a teljes óvodai életet magában foglaló tevékenységek, foglalkozások keretében az óvoda pedagógiai programjában meghatározott tevékenységi formák tartalmi elemeit,
 
 fe) az értékeléseket,
 
-g) a hivatalos látogatásokat, a látogatás célját, időpontját, a látogató nevét és beosztását,
+g)[^45] a hivatalos csoportlátogatásokat, a látogatás célját, időpontját, a látogató nevét és beosztását, a látogatás szempontrendszerét, az eredményt,
 
-h) a gyermekek egyéni lapjait.
+h)[^46] a feljegyzést a csoport életéről.
+
+[^44]: A 91. § (3) bekezdés f) pont fd) alpontja a 22/2013. (III. 22.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^45]: A 91. § (3) bekezdés g) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^46]: A 91. § (3) bekezdés h) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.

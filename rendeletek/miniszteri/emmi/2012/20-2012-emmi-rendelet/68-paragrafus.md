@@ -12,6 +12,9 @@ b) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási neh
 
 c) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő vizsgázó írásbeli vizsga helyett szóbeli vizsgát tehet,
 
-d) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő vizsgázó a szóbeli vizsgát írásban teheti le.
+d)[^36]
 
-(5) Ha a vizsgázó a (4) bekezdés d) pontja alapján a szóbeli vizsgát írásban teszi le, a vizsgatétel kihúzása után külön helyiségben, vizsgáztató tanár mellett készíti el dolgozatát. A dolgozat elkészítésére harminc percet kell biztosítani. A dolgozatot a vizsgázó vagy a vizsgázó kérésére a vizsgáztató tanár felolvassa.
+(5)[^37]
+
+[^36]: A 68. § (4) bekezdés d) pontját a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.
+[^37]: A 68. § (5) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.

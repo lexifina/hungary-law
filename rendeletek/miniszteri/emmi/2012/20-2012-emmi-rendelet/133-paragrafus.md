@@ -1,4 +1,4 @@
-## 132. §[^11]
+## 132. §[^66]
 
 ## 45. A közösségi szolgálattal kapcsolatos rendelkezések
 
@@ -46,4 +46,4 @@ d) az iskola a közösségi szolgálattal kapcsolatos dokumentumok kezelését a
 
 e) az iskolán kívüli külső szervezet és közreműködő mentor bevonásakor az iskola és a felek együttműködéséről megállapodást kell kötni, amelynek tartalmaznia kell a megállapodást aláíró felek adatain és vállalt kötelezettségein túl a foglalkoztatás időtartamát, a mentor nevét és feladatkörét.
 
-[^11]: A 132. § a 192. § (4) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+[^66]: A 132. § a 192. § (4) bekezdése alapján 2013. szeptember 1-jén lép hatályba.

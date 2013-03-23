@@ -12,9 +12,9 @@ c) a két tanítási nyelvű középiskola által szervezett nevelés-oktatás e
 
 d) a nemzetiségi nevelés-oktatást folytató középiskola nemzetiségi előkészítő évfolyamának nyolc évfolyamos gimnázium esetén 5/N, hat évfolyamos gimnázium esetén7/N, egyéb esetben 9/N
 
-e)[^1] a Hátrányos Helyzetű Tanulók Arany János Tehetséggondozó Programja előkészítő évfolyamának 9/AJTP,
+e)[^2] a Hátrányos Helyzetű Tanulók Arany János Tehetséggondozó Programja előkészítő évfolyamának 9/AJTP,
 
-f)[^2] a Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programja előkészítő évfolyamának 9/AJKP
+f)[^3] a Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programja előkészítő évfolyamának 9/AJKP
 
-[^1]: A 2. § (2) bekezdés e) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be.
-[^2]: A 2. § (2) bekezdés f) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be.
+[^2]: A 2. § (2) bekezdés e) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be.
+[^3]: A 2. § (2) bekezdés f) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be.

@@ -12,9 +12,9 @@ ba) a gyermeknek az általános iskola első évfolyamára való felvételét,
 
 bb) a gyermek további óvodai nevelését,
 
-bc) a gyermek szakértői bizottsági vizsgálatát, vagy
+bc)[^47] a gyermek iskolaérettségének megállapítása céljából a szakértői bizottság vizsgálatát, vagy
 
-bd) a gyermek nevelési tanácsadás keretében történő vizsgálatát
+bd)[^48]
 
 javasolja,
 
@@ -22,6 +22,10 @@ c) a szakvélemény kiállításának helyét és idejét, az óvodavezető alá
 
 d) a szülőnek a szakvélemény megismerését igazoló aláírását.
 
-(4) A gyermek fejlődését nyomon követő dokumentáció a gyermek anamnézisét, valamint a testi, szociális, érzelmi, erkölcsi és értelmi fejlődésével kapcsolatos információkat képességekre, készségekre részleteiben lebontva tartalmazza az óvodai nevelés teljes időszakára kiterjedően.
+(4)[^49]
 
 (5) A tankötelezettség megállapításához szükséges óvodai szakvélemény egy példánya az óvodában marad, egy példányát át kell adni a szülőnek. Amennyiben az óvodavezető a gyermek további óvodai nevelésére tesz javaslatot, akkor az egyik példányt meg kell küldeni a gyermek lakóhelye szerint illetékes települési önkormányzat jegyzőjének.
+
+[^47]: A 93. § (3) bekezdés b) pont bc) alpontja a 22/2013. (III. 22.) EMMI rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^48]: A 93. § (3) bekezdés b) pont bd) alpontját a 22/2013. (III. 22.) EMMI rendelet 40. § k) pontja hatályon kívül helyezte.
+[^49]: A 93. § (4) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § l) pontja hatályon kívül helyezte.

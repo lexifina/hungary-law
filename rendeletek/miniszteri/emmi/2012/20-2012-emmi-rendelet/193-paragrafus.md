@@ -24,14 +24,18 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (8) A 134. §-ban foglalt rendelkezéseknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
 
-(9) A 135. § (1) bekezdésben foglalt feltételeknek történő megfelelést a 2014/2015. tanévtől kezdve kell vizsgálni.
+(9)[^110] A 135. § (1) bekezdésben foglalt feltételeknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
 
-(10) A 2015/2016. tanévtől nem indítható két tanítási nyelvű nevelés-oktatás abban a középiskolában, ahol a 136. § (1) bekezdésben foglalt feltételeket a 2015/2016. tanév kezdetéig nem teljesítik. Ezen intézményekben a két tanítási nyelvű oktatás felmenő rendszerben megszűnik.
+(10)[^111] A 2017/2018. tanévtől nem indítható két tanítási nyelvű nevelés-oktatás abban a középiskolában, amelyikben a 136. § (1) bekezdésében foglalt feltételeket a 2017/2018. tanév kezdetéig nem teljesítik. Ezen intézményekben a két tanítási nyelvű oktatás felmenő rendszerben megszűnik.
 
-(11) A 2015/2016. tanévtől kezdve nyelvi előkészítő évfolyammal működő nevelés-oktatás csak abban a nevelési-oktatási intézményben szervezhető, amelyekben a képzés 2012. szeptember 1-jei indítását követő harmadik tanév végéig teljesítik a 137. § (1) bekezdésben előírt feltételeket.
+(11)[^112] A 137. § (1) bekezdésében előírt feltételeket először a 2016/2017. tanévben a nyelvi előkészítő évfolyammal működő nevelési-oktatási intézményben tanulmányaikat befejező és rendes érettségi vizsgát tevő tanulók vonatkozásában kell vizsgálni.
 
 (12) A nevelési-oktatási intézmény a 2012/2013. tanévben csoportnaplóként és egyéb foglakozási naplóként a nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet (a továbbiakban: MKM rendelet) alapján alkalmazott nyomtatványt is használhatja.
 
 (13) A nevelési-oktatási intézmény a 2012/2013. tanévben megkezdett tanügyi nyomtatványokat az adott osztály, csoport vonatkozásában kifutó rendszerben tovább alkalmazhatja.
 
 (14) E rendelet hatálybalépésekor működő nevelési-oktatási intézmények esetében a fenntartónak, működtetőnek 2013. május 31-éig kell eleget tennie a 2. mellékletben meghatározott követelményeknek.
+
+[^110]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
+[^111]: A 193. § (10) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
+[^112]: A 193. § (11) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.

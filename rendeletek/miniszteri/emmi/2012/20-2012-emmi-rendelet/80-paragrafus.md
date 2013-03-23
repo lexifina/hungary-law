@@ -1,3 +1,5 @@
+## vesznek részt.
+
 80. § (1) A hivatal minden fenntartónak megküldi az országos mérések eredményeit.
 
 (2) Az iskola székhelye szerint illetékes kormányhivatal felhívja az iskola fenntartójának figyelmét, hogy az általa fenntartott iskolában intézkedési terv elkészítését kell kezdeményeznie, ha az adott évben elvégzett mérések központilag feldolgozott eredményei alapján a felmért évfolyamok vonatkozásában az iskola bármely telephelyére és bármely képzési típusára vonatkozóan

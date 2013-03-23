@@ -1,9 +1,13 @@
 ## 49. A nyelvi előkészítő évfolyammal induló középiskolai nevelés-oktatás feltételei
 
-137. § (1) Nyelvi előkészítő évfolyam csak abban a középiskolában folytatható, amelyik három egymást követő tanév átlagában teljesíti azt a feltételt, hogy a képzés indítását követő harmadik tanév végéig az első idegen nyelvből a nyelvi előkészítő évfolyamokon tanulók legalább hatvan százaléka a KER szerinti B2 szintű nyelvtudást igazoló, a hivatal által szervezett mérést sikeresen teljesíti. A mérést a hivatal a tanév rendjéről szóló miniszteri rendeletben meghatározott időpontban szervezi meg.
+137. §[^73] (1) Nyelvi előkészítő évfolyam abban a középiskolában folytatható, amelyik három egymást követő tanévben megfelel az alábbi feltételeknek:
 
-(2) A mérés alól mentesül az a tanuló, akik a mérés időpontjáig bemutatja a célnyelvből szerzett, a KER szerinti B2 szintű nyelvtudást igazoló államilag elismert nyelvvizsga-bizonyítványát.
+a) a nevelés-oktatás megkezdésekor a nyelvi előkészítő nevelés-oktatásba felvett tanulók legalább nyolcvan százaléka a célnyelvből érettségi vizsgabizonyítványt szerzett, és
 
-(3) Az iskolának a második idegen nyelvből a nyelvi előkészítő évfolyamot követő, a 9–12. évfolyamokon folyó nevelési-oktatási szakaszban az oktatás feltételeit oly módon kell biztosítania, hogy a képzést nyelvi előkészítő évfolyamon kezdő tanulók legalább ötven százaléka a tanulmányok befejezéséig vagy a KER szerinti B2 szintű államilag elismert nyelvvizsgát, vagy a KER szerinti B2 szintű idegennyelvtudásnak megfelelő emelt szintű érettségi vizsgát tegyen.
+b) a nyelvi előkészítő nevelés-oktatásban részt vett és érettségi vizsgabizonyítványt szerzett tanulók nyolcvan százaléka a nyelvi előkészítő nevelés-oktatás idegen nyelvéből rendelkezik a KER szerinti B2 szintű nyelvtudást igazoló érettségi vizsgaeredménnyel vagy államilag elismert nyelvvizsgával.
 
-(4) Az (1) bekezdésben meghatározott feltételeket nem teljesítő nevelési-oktatási intézményben új nyelvi előkészítő évfolyamot a következő tanévtől kezdve nem indíthat az iskola.
+(2) Az iskolának a második idegen nyelvből az iskola pedagógiai programjában meghatározott évfolyamokon az oktatás feltételeit oly módon kell biztosítania, hogy a középiskolai nevelés-oktatást nyelvi előkészítő évfolyamon kezdő tanulók számára a kötelező tanórákon biztosítsa az emelt szintű érettségire való felkészítés feltételeit.
+
+(3) Amennyiben a középiskola az (1)–(2) bekezdésében foglaltaknak nem felel meg, új nyelvi előkészítő évfolyamra a következő tanévben nem hirdethet felvételt.
+
+[^73]: A 137. § a 22/2013. (III. 22.) EMMI rendelet 25. §-ával megállapított szöveg.
