@@ -1,4 +1,4 @@
-## 33. §[^1]
+## 33. §[^2]
 
 1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez
 
@@ -72,4 +72,4 @@ III.
 
 2. A mellékletben foglaltaktól az intézmény javára el lehet térni.
 
-[^1]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
