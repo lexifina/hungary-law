@@ -1,4 +1,4 @@
-4. § (1) A könyvtári szakfelügyelet működését a Nemzeti Kulturális Örökség Minisztériuma[^2] (a továbbiakban: minisztérium) irányítja.
+4. § (1)[^4] A könyvtári szakfelügyelet működését a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) irányítja.
 
 (2) A szakfelügyelet a minisztérium által elrendelt átfogó, cél- és utóvizsgálatokat folytat.
 
@@ -6,4 +6,4 @@
 
 (4) A szakfelügyelet működésének költségeit a minisztérium biztosítja.
 
-[^2]: NKÖM Közgyűjteményi Főosztály Könyvtári Osztály.
+[^4]: A 4. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.

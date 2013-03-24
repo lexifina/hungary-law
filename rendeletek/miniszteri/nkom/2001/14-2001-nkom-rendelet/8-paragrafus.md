@@ -24,6 +24,6 @@ g) a szakfelügyelet működési rendjével, a vizsgálatok lebonyolításával 
 
 (6) A szakfelügyelő leíró és értékelő megállapításait, észrevételeit és javaslatait jelentésben rögzíti.
 
-(7) A szakfelügyeleti jelentést a megbízástól függően a vezető szakfelügyelőnek vagy a minisztériumba[^5] kell elküldeni.
+(7) A szakfelügyeleti jelentést a megbízástól függően a vezető szakfelügyelőnek vagy a minisztériumba[^9] kell elküldeni.
 
-[^5]: NKÖM Közgyűjteményi Főosztály Könyvtári Osztály.
+[^9]: NKÖM Közgyűjteményi Főosztály Könyvtári Osztály.

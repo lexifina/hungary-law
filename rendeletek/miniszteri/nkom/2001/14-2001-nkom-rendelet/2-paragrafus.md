@@ -41,3 +41,17 @@ d) vizsgálja a dokumentumok védelmével és nyilvántartásával kapcsolatos s
 e) ellenőrzi a központi költségvetési támogatások felhasználását,
 
 f) ellenőrzi a szakfelügyelet korábbi javaslatainak megvalósítását.
+
+(3)[^2] A miniszter a szakfelügyelet keretében vizsgálja, ellenőrzi és értékeli
+
+a) a muzeális könyvtári dokumentumok kezelésére vonatkozó szabályok alkalmazását,
+
+b) a nemzetiségi anyanyelvű könyvtári ellátás biztosítását,
+
+c) a megyei könyvtár törvényben meghatározott feladatainak ellátását,
+
+d) a könyvtári szakmai továbbképzéseket,
+
+e) a kistelepülések által igénybe vett megyei könyvtári szolgáltatásokat.
+
+[^2]: A 2. § (3) bekezdését a 21/2013. (III. 19.) EMMI rendelet 2. § (2) bekezdése iktatta be.
