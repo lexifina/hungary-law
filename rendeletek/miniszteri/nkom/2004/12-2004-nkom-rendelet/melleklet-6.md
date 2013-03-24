@@ -40,77 +40,76 @@
 
 ## 2.5. DÁTUM, PECSÉTNYOMAT, A ZSŰRI NEVÉBEN ALÁÍRÁS
 
-6. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez
+6. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez[^21]
 
-A ,,Népi Iparművész'' minősítéshez szükséges alkotások kategóriánkénti megoszlása
+A „Népi Iparművész” minősítéshez szükséges alkotások kategóriánkénti megoszlása
 
-Minden műfajban az 5 db A kategóriát elért tárgy, valamint
+Minden műfajban az 5 db „HA”, „MA” kategóriát elért tárgy, valamint
 
-1. Bognármunkák, kerék- és kocsi B 15 db
+1. Bognármunkák, kerék- és kocsi „HB”, „MB” 15 db
 
-2. Bőrműves-tárgyak B 30 db
+2. Bőrműves-tárgyak „HB”, „MB” 30 db
 
-3. Cserépkályha és kemence B 15 db
+3. Cserépkályha és kemence „HB”, „MB” 15 db
 
-4. Csipke B 30 db
+4. Csipke „HB”, „MB” 30 db
 
-5. Építmények és köztéri alkotások: épületdísz, kapu, kerítés, játszótér, emlékoszlop, síremlék, nád-, zsuppszalma-, fazsindelytető stb B 20 db
+5. Építmények és köztéri alkotások: épületdísz, kapu, kerítés, játszótér, emlékoszlop, síremlék, nád-, zsuppszalma-, fazsindelytető stb. „HB”, „MB” 20 db
 
-6. Festett, faragott bútor B 20 db
+6. Festett, faragott bútor „HB”, „MB” 20 db
 
-7. Faragott fa, csont, szaru B 30 db
+7. Faragott fa, csont, szaru „HB”, „MB” 30 db
 
-8. Fazekas munka B 30 db
+8. Fazekas munka „HB”, „MB” 30 db
 
-9.[^17] Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád, szalma B 30 db
+9. Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád, szalma „HB”, „MB” 30 db
 
-10. Halászháló, kötél B 15 db
+10. Halászháló, kötél „HB”, „MB” 15 db
 
-11. Hímes tojás B 30 db
+11. Hímes tojás „HB”, „MB” 30 db
 
-12. Hímzés B 30 db
+12. Hímzés „HB”, „MB” 30 db
 
-13. Kádár és pintér munkák B 15 db
+13. Kádár és pintér munkák „HB”, „MB” 15 db
 
-14. Kékfestő textíliák B 30 db
+14. Kékfestő textíliák „HB”, „MB” 30 db
 
-15. Kalap B 20 db
+15. Kalap „HB”, „MB” 20 db
 
-16. Kés B 30 db
+16. Kés „HB”, „MB” 30 db
 
-17. Kovács- és rézműves termékek B 30 db
+17. Kovács- és rézműves termékek „HB”, „MB” 30 db
 
-18.[^18] Lószerszámok, nyergek B 15 db
+18. Lószerszámok, nyergek „HB”, „MB” 15 db
 
-19. Mártott gyertya B 30 db
+19. Mártott gyertya „HB”, „MB” 30 db
 
-20. Mézeskalács B 30 db
+20. Mézeskalács „HB”, „MB” 30 db
 
-21. Naiv szobrok B 30 db
+21. Naiv szobrok „HB”, „MB” 30 db
 
-22. Nemez B 30 db
+22. Nemez „HB”, „MB” 30 db
 
-23. Népi ékszer (rekesz zománc, gyöngy) B 30 db
+23. Népi ékszer (rekesz zománc, gyöngy) „HB”, „MB” 30 db
 
-24. Népi hangszer B 15 db
+24. Népi hangszer „HB”, „MB” 15 db
 
-25. Népi játék B 30 db
+25. Népi játék „HB”, „MB” 30 db
 
-26. Népviseleti baba B 25 db
+26. Népviseleti baba „HB”, „MB” 25 db
 
-27. Papucs, bocskor, csizma, cipő B 20 db
+27. Papucs, bocskor, csizma, cipő „HB”, „MB” 20 db
 
-28. Paszomány és kötött gomb B 20 db
+28. Paszomány és kötött gomb „HB”, „MB” 20 db
 
-29. Szűcs és szűr munkák B 15 db
+29. Szűcs és szűr munkák „HB”, „MB” 15 db
 
-30. Szűrrátét B 30 db
+30. Szűrrátét „HB”, „MB” 30 db
 
-31. Szőttes B 30 db
+31. Szőttes „HB”, „MB” 30 db
 
-32. Viselet B 25 db
+32. Viselet „HB”, „MB” 25 db
 
-33. Ajándéktárgyak Nem népi iparművész címre jogosító kategória
+Az ajándéktárgy nem népi iparművész címre jogosító kategória, azonban 10 db ajándéktárgy zsűriszám kivált 1 db „MB” kategóriás zsűriszámot.
 
-[^17]: A 6. számú melléklet 9. pontja a 35/2011. (VI. 27.) NEFMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
-[^18]: A 6. melléklet 18. pontja a 35/2011. (VI. 27.) NEFMI rendelet 9. §-a szerint módosított szöveg.
+[^21]: A 6. számú melléklet a 21/2013. (III. 19.) EMMI rendelet 4. § (2) bekezdésével megállapított szöveg.

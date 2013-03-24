@@ -16,7 +16,7 @@
 
 ## 8. Fazekas munka
 
-## 9.[^9] Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád, szalma
+## 9.[^13] Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád, szalma
 
 ## 10. Halászháló, kötél
 
@@ -68,4 +68,4 @@
 
 2. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez
 
-[^9]: Az 1. számú melléklet 9. pontja a 35/2011. (VI. 27.) NEFMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^13]: Az 1. számú melléklet 9. pontja a 35/2011. (VI. 27.) NEFMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
