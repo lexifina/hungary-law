@@ -1,1 +1,0 @@
-## „(6) A pályáztató a vélemények kialakításához – a pályázatok átvételétől számítva – legalább harminc napot köteles biztosítani. A véleményalkotásra a (4) bekezdés alapján megállapított határidő jogvesztő.”

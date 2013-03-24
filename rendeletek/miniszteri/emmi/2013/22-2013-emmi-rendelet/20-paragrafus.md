@@ -1,3 +1,0 @@
-## 19. § Az R. 113. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Névváltozás esetén a volt tanuló kérelmére, az engedélyező okirat alapján a megváltozott nevet a törzslapra be kell jegyezni, és az eredeti iskolai bizonyítványról – beleértve az érettségi vizsgáról és a szakmai vizsgáról kiállított bizonyítványt, tanúsítványt (a továbbiakban együtt: bizonyítvány) is – bizonyítványmásodlatot, tanúsítvány- másodlatot (a továbbiakban együtt: bizonyítványmásodlatot) kell kiadni. Az eredeti bizonyítványt meg kell semmisíteni, vagy – ha tulajdonosa kéri – az „ÉRVÉNYTELEN” felirattal vagy iratlyukasztóval történő kilyukasztással érvényteleníteni kell, és vissza kell adni a tulajdonosának.”
