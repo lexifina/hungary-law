@@ -1,6 +1,6 @@
 ## 5. § A szakfelügyelők nem folytathatnak vizsgálatot olyan intézményben, amellyel közszolgálati, közalkalmazotti vagy munkavégzésre irányuló bármilyen egyéb jogviszonyban állnak.
 
-6. § (1) A szakági szakfelügyelők munkájukat a szakági vezető szakfelügyelők által javasolt, a területi szakfelügyelővel egyeztetett és a miniszter által jóváhagyott éves munkaterv, illetve a miniszter által meghatározott munkaterven kívüli feladatok szerint végzik. A területi szakfelügyelők a szakági munkatervek figyelembevételével elkészített és a miniszter által jóváhagyott éves munkaterv, illetve a miniszter által meghatározott munkaterven kívüli feladatok szerint végzik munkájukat.
+6. § (1)[^8] A szakfelügyelők munkájukat a miniszter által jóváhagyott éves munkaterv és a miniszter által meghatározott munkaterven kívüli feladatok szerint végzik.
 
 (2) A munkaterv tartalmazza:
 
@@ -20,6 +20,7 @@ b) átfogó intézményi, illetve területi vizsgálat, amely az intézmény ál
 
 c) országos témavizsgálat vagy felmérés, amikor a témát egy időben országszerte indokolt megvizsgálni, illetve felmérni, hogy az eredményből általánosítható következtetéseket lehessen levonni, és ennek megfelelő intézkedéseket előkészíteni, illetve tenni.
 
-(4)[^1] Szakági szakfelügyeleti vizsgálat esetén az illetékes szakági vezető szakfelügyelő gondoskodik arról, hogy a tervezett vizsgálatról a muzeális intézmény, az illetékes területi szakfelügyelő és a tulajdonos (fenntartó) – a vizsgálat megkezdése előtt legalább nyolc nappal – előzetes írásbeli értesítést kapjon. Területi szakfelügyeleti vizsgálat esetén a muzeális intézmény és a tulajdonos (fenntartó) értesítéséről a területi szakfelügyelő gondoskodik.
+(4)[^9]
 
-[^1]: A 6. § (4) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 4. §-a szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^8]: A 6. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^9]: A 6. § (4) bekezdését a 21/2013. (III. 19.) EMMI rendelet 5. § (10) bekezdése hatályon kívül helyezte.
