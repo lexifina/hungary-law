@@ -1,3 +1,5 @@
+## 24/A. §[^8] E rendeletnek az egyes kulturális tárgyú miniszteri rendeletek módosításáról szóló 21/2013. (III. 19.) EMMI rendelettel (a továbbiakban: R.) megállapított rendelkezéseit az R. hatálybalépésekor folyamatban lévő kérelmek esetében nem kell alkalmazni.
+
 1. számú melléklet a 20/2002. (X. 4.) NKÖM rendelethez
 
 ## A gyarapodási naplóról
@@ -145,3 +147,5 @@ A nyilvántartási eszközök előállításáról és tárolásáról
 30. A rendelet 4., 5. és 7. §-aiban említett, valamint a 17. § (1) bekezdése szerint kinyomtatott nyilvántartásokat időálló, savmentes, az ISO 9706 szabványnak megfelelő papíron, számozott, fűzött vagy egybekötött lapokból kell készíteni, illetve előállítani.
 
 31. A szekrénykataszteri lapok kivételével valamennyi, a rendelet 3. §-ában meghatározott nyilvántartást, a 13–16. §-okban meghatározott számítógépes adatbázis biztonsági mentéseinek adathordozóit, az utóbbiak segítségével előállított nyilvántartásokat, valamint a leírókartonokat a gyűjteményektől elkülönítve, a vagyon- és tűzbiztonság követelményeit kielégítő módon kell tárolni; kezelésük és felhasználásuk csak a vonatkozó kutatási és adatvédelmi jogszabályok szerint történhet.
+
+[^8]: A 24/A. §-t a 21/2013. (III. 19.) EMMI rendelet 3. § (1) bekezdése iktatta be.
