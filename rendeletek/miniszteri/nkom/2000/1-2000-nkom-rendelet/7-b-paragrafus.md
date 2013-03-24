@@ -1,6 +1,6 @@
-## 7/A. §[^17] Amennyiben a miniszter a hatósági ellenőrzés során jogszabályban vagy a határozatban foglaltaktól eltérőt tapasztal, és a jogszerű magatartás tanúsítására kitűzött határidő eredménytelenül telik el, az akkreditációt visszavonja.
+## 7/A. §[^18] Amennyiben a miniszter a hatósági ellenőrzés során jogszabályban vagy a határozatban foglaltaktól eltérőt tapasztal, és a jogszerű magatartás tanúsítására kitűzött határidő eredménytelenül telik el, az akkreditációt visszavonja.
 
-7/B. §[^18] (1) Az akkreditált szakmai továbbképzési programot nyújtó szervezet – az akkreditálásról szóló határozat időbeli hatálya alatt – a tanulmányi kötelezettségek, vizsgakövetelmények teljesítését, a szakmai továbbképzési program sikeres befejezését tanúsítvány kiadásával igazolja.
+7/B. §[^19] (1) Az akkreditált szakmai továbbképzési programot nyújtó szervezet – az akkreditálásról szóló határozat időbeli hatálya alatt – a tanulmányi kötelezettségek, vizsgakövetelmények teljesítését, a szakmai továbbképzési program sikeres befejezését tanúsítvány kiadásával igazolja.
 
 (2) A tanúsítvány tartalmazza:
 
@@ -26,5 +26,5 @@ j) a szakmai továbbképzési programért felelős aláírását és
 
 k) az akkreditált szakmai továbbképzési programot nyújtó szervezet bélyegzőjének lenyomatát.
 
-[^17]: A 7/A. §-t az 56/2011. (IX. 22.) NEFMI rendelet 8. §-a iktatta be.
-[^18]: A 7/B. §-t az 56/2011. (IX. 22.) NEFMI rendelet 8. §-a iktatta be.
+[^18]: A 7/A. §-t az 56/2011. (IX. 22.) NEFMI rendelet 8. §-a iktatta be.
+[^19]: A 7/B. §-t az 56/2011. (IX. 22.) NEFMI rendelet 8. §-a iktatta be.

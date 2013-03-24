@@ -1,4 +1,4 @@
-3/A. §[^4] (1) A továbbképzési kötelezettség teljesíthető a 2. § (1) bekezdésében szereplő képzéseken előadóként való részvétellel, a képzés szervezője által kiállított igazolás alapján. Azonos képzés keretében azonos témában végzett előadói tevékenység csak egy továbbképzési ciklusban vehető figyelembe.
+3/A. §[^5] (1) A továbbképzési kötelezettség teljesíthető a 2. § (1) bekezdésében szereplő képzéseken előadóként való részvétellel, a képzés szervezője által kiállított igazolás alapján. Azonos képzés keretében azonos témában végzett előadói tevékenység csak egy továbbképzési ciklusban vehető figyelembe.
 
 (2) Előadóként tartott egy tanítási vagy konzultációs óra három továbbképzési órának felel meg a továbbképzési kötelezettség teljesítésének számításakor.
 
@@ -16,4 +16,4 @@ e) szakmai továbbképzési program esetén az akkreditációról szóló határ
 
 f) azt, hogy az előadó a képzés során melyik témában hány tanítási óra időtartamú oktatást és konzultációt tartott.
 
-[^4]: A 3/A. §-t az 56/2011. (IX. 22.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
+[^5]: A 3/A. §-t az 56/2011. (IX. 22.) NEFMI rendelet 3. § (2) bekezdése iktatta be.

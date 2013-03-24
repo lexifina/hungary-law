@@ -1,6 +1,6 @@
 ## A szakmai továbbképzés tartalma
 
-6. §[^14] (1) A szakmai továbbképzési program akkreditálására irányuló kérelemnek (a továbbiakban: kérelem) tartalmaznia kell a szakmai továbbképzési program alábbi követelményeit:
+6. §[^15] (1) A szakmai továbbképzési program akkreditálására irányuló kérelemnek (a továbbiakban: kérelem) tartalmaznia kell a szakmai továbbképzési program alábbi követelményeit:
 
 a) a kérelmező adatai (neve, címe, besorolása, a szakmai továbbképzési program egyeztetésére kijelölt személy neve, címe, telefonszáma, e-mail címe),
 
@@ -50,4 +50,4 @@ b) amennyiben van, a korábban már akkreditált program felhasználási jogosul
 
 (4) A kérelemhez szükséges adatlapot a miniszter a kormányzati portálon rendszeresíti.
 
-[^14]: A 6. § az 56/2011. (IX. 22.) NEFMI rendelet 5. §-ával megállapított szöveg.
+[^15]: A 6. § az 56/2011. (IX. 22.) NEFMI rendelet 5. §-ával megállapított szöveg.

@@ -1,6 +1,4 @@
-## 6/A. §[^15] A miniszter kilenc-kilenc fős Muzeológiai, Műtárgyvédelmi, Könyvtári, Közművelődési, Levéltári, Kép-, illetve Hangarchívumi Szakbizottságot (a továbbiakban: szakbizottság) bíz meg. Az egyes szakbizottságokba négy tagot a miniszter hét évre delegál, három tagot megegyezés alapján az egyes területek reprezentatív szakmai és érdek-képviseleti szervei hét évre delegálnak. A szakbizottság további két tagját a miniszter a kulturális szakértők közül esetenként bíz meg. A szakbizottság elnökét a hét évre delegált tagok közül a miniszter nevezi ki.
-
-7. §[^16] (1) A szakmai továbbképzési program akkreditálásáról a miniszter – közigazgatási hatósági eljárás keretében – határozattal dönt.
+7. §[^17] (1) A szakmai továbbképzési program akkreditálásáról a miniszter – közigazgatási hatósági eljárás keretében – határozattal dönt.
 
 (2) A szakmai továbbképzési program akkor akkreditálható, ha
 
@@ -40,5 +38,4 @@ h) a szakmai továbbképzési program nyilvántartásba vételi sorszáma,
 
 i) a szakmai továbbképzési program időbeli hatálya.
 
-[^15]: A 6/A.§-t az 56/2011. (IX. 22.) NEFMI rendelet 6. §-a iktatta be.
-[^16]: A 7. § az 56/2011. (IX. 22.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^17]: A 7. § az 56/2011. (IX. 22.) NEFMI rendelet 7. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-## 9. §[^20]
+## 9. §[^21]
 
 ## A szervezett képzés finanszírozása
 
-10. §[^21] (1) A kulturális szakemberek szakmai továbbképzési programjának akkreditációja díjköteles tevékenység.
+10. §[^22] (1) A kulturális szakemberek szakmai továbbképzési programjának akkreditációja díjköteles tevékenység.
 
 (2) A szakmai továbbképzési program akkreditációja iránti eljárásért, nyilvántartásba vételéért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -22,5 +22,5 @@ d) 144 000 forint, amennyiben a képzési idő összóraszáma meghaladja a 120 
 
 (6) Az igazgatási szolgáltatási díj a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) bevétele, amely az akkreditációval kapcsolatos feladatok ellátására használható fel.
 
-[^20]: A 9. §-t és az azt megelőző címet a 25/2007. (IV. 24.) OKM rendelet 9. § (3) bekezdésének a) pontja hatályon kívül helyezte.
-[^21]: A 10. § az 56/2011. (IX. 22.) NEFMI rendelet 10. §-ával megállapított szöveg.
+[^21]: A 9. §-t és az azt megelőző címet a 25/2007. (IV. 24.) OKM rendelet 9. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^22]: A 10. § az 56/2011. (IX. 22.) NEFMI rendelet 10. §-ával megállapított szöveg.
