@@ -1,10 +1,8 @@
-## 22. § A muzeális intézmények nyilvántartási szabályzatáról szóló 20/2002. (X. 4.) NKÖM rendelet 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 22. §[^51]
 
-## „22. § (1) A kulturális javak nyilvántartásba vételéhez szükséges adatok meghatározását, későbbi módosítását (kiegészítését, illetve javítását), valamint azok törlésének előkészítését kizárólag szakirányú felsőfokú végzettséggel és az intézmény vezetőjétől vagy – muzeális intézmény működési engedélye iránti kérelem esetén – fenntartójától az adott gyűjteményre, illetve nyilvántartásra vonatkozó megbízással rendelkező muzeológus – a könyvtári dokumentumok esetében könyvtáros, a restaurálási napló esetében restaurátor – végezheti.”
+23. §[^52] (1) E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-23. §[^33] (1) E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-
-(2) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 2. § (1) bekezdése alapján átvételre kerülő muzeális intézmények működési engedélye – a 17. §-ban foglaltaktól eltérően – a módosított működési engedély kiadásáig, de legkésőbb 2012. április 30-ig érvényes.
+(2)[^53] A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosításáról szóló 2012. évi CLII. törvény 30. § (2) és (3) bekezdése alapján 2013. január 1-jén önkormányzati fenntartásba került muzeális intézmények működési engedélye – a 17. §-ban foglaltaktól eltérően – a módosított működési engedély kiadásáig, de legkésőbb 2013. június 30-ig hatályos.
 
 Melléklet a 2/2010. (I. 14.) OKM rendelethez
 
@@ -16,9 +14,9 @@ a) a közigazgatási hatósági eljárás és szolgáltatás általános szabál
 
 b) nem természetes személy kérelmező esetén – az a) pontban meghatározottakon túl – a cégjegyzékszám, létesítő okirat kelte, száma.
 
-2.[^34] A muzeális intézmény adatai:
+2.[^54] A muzeális intézmény adatai:
 
-a muzeális intézmény elnevezése, címe, elérhetősége, megyei múzeumi szervezettel vagy más intézménnyel való kapcsolatára vonatkozó adatok.
+a muzeális intézmény elnevezése, címe, elérhetősége.
 
 3. A muzeális intézmény szakmai adatai:
 
@@ -62,7 +60,7 @@ b) nem természetes személy kérelmező esetén – az a) pontban meghatározot
 
 a) a muzeális intézmény elnevezése, címe, elérhetősége,
 
-b)[^35] megyei múzeumi szervezettel vagy más intézménnyel való kapcsolatára vonatkozó adatok,
+b)[^55]
 
 c) működési engedélyének száma.
 
@@ -82,9 +80,11 @@ b) a megszüntetés részletes indokolása,
 
 c) a kulturális javak muzeális intézmény megszüntetését követő biztonságos elhelyezésének bemutatása és indokolása.
 
-III.[^36]
+III.[^56]
 
-[^33]: A 23. § a 26/2012. (IV. 25.) NEFMI rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^34]: A melléklet I. 2. pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
-[^35]: A melléklet II. 2. b) pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
-[^36]: A melléklet III. pontját az 52/2011. (VIII. 18.) NEFMI rendelet 11. §-a hatályon kívül helyezte.
+[^51]: A 22. §-t a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése hatályon kívül helyezte.
+[^52]: A 23. § a 26/2012. (IV. 25.) NEFMI rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^53]: A 23. § (2) bekezdése a 21/2013. (III. 19.) EMMI rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^54]: A melléklet I. 2. pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a, a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése szerint módosított szöveg.
+[^55]: A melléklet II. pont 2. alpont b) alpontját a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése hatályon kívül helyezte.
+[^56]: A melléklet III. pontját az 52/2011. (VIII. 18.) NEFMI rendelet 11. §-a hatályon kívül helyezte.
