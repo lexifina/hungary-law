@@ -50,7 +50,7 @@
 
 ## IV. A Nemzeti Adó- és Vámhivatal számára előterjesztendő nyilatkozat
 
-## Az Evtv. 6. § (1) bekezdés e) pontja alapján az adózás rendjéről szóló 2003. évi XCII. törvényben meghatározott, az állami adóhatósághoz történő bejelentkezési kötelezettség teljesítéséhez szükséges további adatok és nyilatkozatok
+## Az Evtv. 6. § (1) bekezdés e) pontja alapján az adózás rendjéről szóló 2003. évi XCII. törvényben meghatározott, az állami adóhatósághoz történő bejelentkezési kötelezettség teljesítéséhez szükséges további adatok és nyilatkozatok. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 4. és 7. §-a szerinti bejelentések.
 
 ## V. Számvitellel és biztosítási jogviszonnyal kapcsolatos egyéb adat
 
@@ -190,7 +190,7 @@ II. Megváltozott adatok
 
 III. A Nemzeti Adó- és Vámhivatal számára előterjesztendő nyilatkozat
 
-Az Evtv. 14. § (1) bekezdése alapján az adózás rendjéről szóló 2003. évi XCII. törvényben meghatározott, az állami adóhatóság által vezetett nyilvántartáshoz szükséges további adatok
+Az Evtv. 14. § (1) bekezdése alapján az adózás rendjéről szóló 2003. évi XCII. törvényben meghatározott, az állami adóhatóság által vezetett nyilvántartáshoz szükséges további adatok. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 4. és 7. §-a szerinti bejelentések.
 
 IV. Vállalkozói igazolványhoz kapcsolódó adatok, nyilatkozatok
 
@@ -260,4 +260,4 @@ a) A cselekvőképesség korlátozását megszüntető okirat száma
 
 b) A cselekvőképesség korlátozását megszüntető határozat jogerőre emelkedésének ideje, vagy a határozatban foglalt azon időpont, amikortól a cselekvőképesség korlátozásának megszüntetése hatályos
 
-[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 2. §-a és 4. § c) pontja szerint módosított szöveg.
+[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 2. §-a és 4. § c) pontja, a 3/2013. (III. 25.) KIM rendelet 2. § (2) bekezdése szerint módosított szöveg.
