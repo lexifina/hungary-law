@@ -14,7 +14,7 @@
 
 (4) A díjat – amennyiben a díjat megállapító miniszteri rendelet eltérően nem rendelkezik – átutalással kell megfizetni. Átutalás, készpénzátutalás útján történő megfizetés esetén a díjjogszabályban meg kell jelölni a díj beszedésére jogosultat, valamint a fizetési számla megnevezését és számát.
 
-(5) A díjat megállapító jogszabályban rendelkezni kell a díj – ideértve a jogorvoslati díjat is – beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokról. A díjat megállapító jogszabályban nem szabályozott kérdésekre a (6) bekezdésben foglaltak kivételével e törvénynek csak azok a rendelkezései alkalmazhatók – ideértve a személyes és tárgyi mentességet is –, amelyekre a díjat megállapító jogszabály konkrétan utal.
+(5) A díjat megállapító jogszabályban rendelkezni kell a díj – ideértve a jogorvoslati díjat is – beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokról. A díjat megállapító jogszabályban nem szabályozott kérdésekre a (6) bekezdésben és a 73. § (4) bekezdésben foglaltak kivételével e törvénynek csak azok a rendelkezései alkalmazhatók – ideértve a személyes és tárgyi mentességet is –, amelyekre a díjat megállapító jogszabály konkrétan utal.
 
 (6) A szakhatósági eljárásért fizetendő igazgatási szolgáltatási díjat a díj megállapításáról rendelkező jogszabályban előírtak szerint kell megfizetni, és a megfizetés tényét az alapeljárás iránti kérelem mellékleteként igazolni kell. Előzetes szakhatósági eljárás esetén az igazgatási szolgáltatási díjat a szakhatósági eljárás kezdeményezésekor kell megfizetni.
 
