@@ -12,7 +12,7 @@ d) ellátja az a)–c) és i) pontokban megjelölt okmányok kiadásával kapcso
 
 e) átvezeti a nyilvántartáson az a)–c), i) és j) pontokban megjelölt adatokat, illetve adatváltozásokat;
 
-f) továbbítja az okmánytár részére a nyilvántartásba történő bejegyzés és az okmányok kitöltésének alapját képező iratokat;
+f) továbbítja az okmánytár részére a nyilvántartásba történő bejegyzés és az okmányok kitöltésének alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló jogszabály mellékletében csatolandóként meghatározott iratokat;
 
 g)
 

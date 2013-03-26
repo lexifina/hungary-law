@@ -24,4 +24,6 @@ b)
 
 (5) A jármű tulajdonosa (üzembentartója) a járműokmány és a jármű hatósági jelzése, a jogosított – parkolási igazolvány esetében a jogosított vagy annak törvényes képviselője – a járművezetésre jogosító okmány, illetve a parkolási igazolvány elvesztését, megsemmisülését, eltulajdonítását a közlekedési igazgatási hatóságnál köteles haladéktalanul, de legkésőbb a tudomására jutástól számított három munkanapon belül bejelenteni.
 
-(6) A nyilvántartásba bejegyzett jármű eladójának és a jármű új tulajdonosának a tulajdonjog, illetve az üzembentartó személyének változás bejelentését teljes bizonyító erejű magánokirattal kell teljesíteni, amelynek – a közlekedési igazgatási eljárásban való felhasználhatóságához szükséges – kötelező tartalmi elemeit kormányrendelet állapítja meg.
+(6) A tulajdonjog átruházónak és a tulajdonszerzőnek a tulajdonjog, illetve az üzembentartó személyének változás bejelentését teljes bizonyító erejű magánokirat alapján kell teljesíteni, amelynek – a közlekedési igazgatási eljárásban való felhasználhatóságához szükséges – kötelező tartalmi elemeit kormányrendelet állapítja meg.
+
+(7) A tulajdonjog átruházója a (6) bekezdésben meghatározott bejelentési kötelezettségét elektronikus úton is teljesítheti, a Kormány rendeletében meghatározott módon.

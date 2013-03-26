@@ -1,20 +1,20 @@
-9. § (1) A járműnyilvántartás tartalmazza a járműtulajdonos (üzembentartó):
+9. § (1) A járműnyilvántartás tartalmazza a járműtulajdonos (üzemben tartó):
 
 a) természetes személyazonosító adatát,
 
 b) lakcímét, egyéni vállalkozó esetében kérelmére székhelyét, telephelyét,
 
-c) adóazonosító számát,
+c) állampolgárságát (hontalanságát),
 
-d) külföldi esetén állampolgárságát; továbbá a jogi személy vagy jogi személyiséggel nem rendelkező szervezet
+d) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet
 
-e) megnevezését,
+da) megnevezését,
 
-f) székhelyének (telephelyének) címét,
+db) székhelyének (telephelyének) címét,
 
-g) cégjegyzék-, illetőleg nyilvántartási számát.
+dc) cégjegyzék-, vagy nyilvántartási számát.
 
-(1a) A járműnyilvántartás tulajdonváltozás esetén – a tulajdonszerző bejelentéséig – tartalmazza a régi tulajdonos által teljesített bejelentés (tulajdonátruházási szerződés) alapján a tulajdonszerzőre vonatkozó 9. § (1) bekezdése szerinti adatokat.
+(1a) A járműnyilvántartás tulajdonjog változás esetén – a tulajdonszerző bejelentéséig – tartalmazza a járműnyilvántartásba bejegyzett tulajdonos (tulajdonjog átruházó) által a 33. § (6) bekezdésében meghatározott tulajdon átruházási szerződés alapján teljesített bejelentésben foglaltak szerint a tulajdonszerzőre vonatkozó, az (1) bekezdésben meghatározott adatokat, a tulajdonjog-átruházás időpontját, valamint a bejelentés tényét és időpontját.
 
 (2) A járműnyilvántartás a külön jogszabályban meghatározottak szerint tartalmazza a jármű
 
