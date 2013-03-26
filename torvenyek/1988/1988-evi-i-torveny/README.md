@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2012-11-01 | 2012. évi CXIX. törvény | 1988-1-00-00.59 |
 | 2012-12-08 | 2012. évi CXC. törvény | 1988-1-00-00.60 |
 | 2013-01-01 | 2012. évi CCVIII. törvény | 1988-1-00-00.61 |
+| 2013-03-26 | 2013. évi XXI. törvény | 1988-1-00-00.62 |
