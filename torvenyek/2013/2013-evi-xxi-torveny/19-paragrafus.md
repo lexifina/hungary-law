@@ -7,11 +7,3 @@
 (3) Az 1. §, a 3–5. §, a 14. § és a 15. § 2013. július 1-jén lép hatályba.
 
 (4) E törvény 2013. július 2-án hatályát veszti.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
