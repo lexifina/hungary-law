@@ -1,6 +1,6 @@
 3. § (1) A személyi állomány tagját abban a hónapban, amelyben a jogviszonya legalább egy naptári napon fennállt – a (3) bekezdésben foglaltak kivételével – étkezési utalvánnyal kell ellátni.
 
-(2) Az étkezési utalvány személyenkénti havi összege 2012. évre 5000 Ft Erzsébet-utalvány, valamint további 5000 Ft elektronikus étkezési utalvány.
+(2)[^2] Az étkezési utalvány személyenkénti havi összege 5000 Ft Erzsébet-utalvány, valamint további 5000 Ft elektronikus étkezési utalvány.
 
 (3) Nem jogosult az (1)–(2) bekezdés szerinti étkezési utalványra az, aki
 
@@ -27,3 +27,5 @@ b) aki a külön jogszabály szerint tett, módosított nyilatkozata alapján cs
 c) akinek jogviszonya a hónap közben keletkezik vagy szűnik meg.
 
 (5) Az egy naptári napra eső utalvány értékét úgy kell megállapítani, hogy a (2) bekezdés szerinti összeget el kell osztani harminccal. Papíralapú utalvány esetén a kapott összeget fel kell kerekíteni az összeget meghaladó legkisebb utalvány összegéig.
+
+[^2]: A 3. § (2) bekezdése a 2/2013. (III. 26.) HM rendelet 10. §-a szerint módosított szöveg.
