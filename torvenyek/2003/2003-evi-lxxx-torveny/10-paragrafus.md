@@ -8,6 +8,8 @@ a) valamely korábban nyújtott támogatást (ideértve e bekezdésben a II. és
 
 b) valamely, korábban részére vagy más személy részére nyújtott támogatás összegét – bár arra köteles lett volna – nem térítette vissza az államnak, vagy
 
-c) a támogatás iránti kérelmében foglaltak ellenőrzésére irányuló vizsgálat elvégzését akadályozza.
+c) a támogatás iránti kérelmében foglaltak ellenőrzésére irányuló vizsgálat elvégzését akadályozza,
+
+d) támogatás iránti kérelme rosszhiszemű joggyakorlásra irányul, vagy a támogatással érintett eljárás a fél részéről már előre teljesen eredménytelennek látszik.
 
 (3) A (2) bekezdés b) pontjában foglalt esetben a fél kivételesen részesíthető támogatásban, ha igazolja, hogy a jövedelmi és vagyoni helyzete, egyéb személyes körülményei olyan fokban romlottak meg, hogy önhibáján kívül nem képes az általa igénybe vett jogi szolgáltatás díjának visszatérítésére.

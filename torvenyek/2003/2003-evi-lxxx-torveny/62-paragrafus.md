@@ -12,7 +12,7 @@ c) ha a pártfogó ügyvédi díj viselésére nem az állam köteles, kötelezi
 
 (3) A 11/B. §-ban foglaltak szerinti támogatásban részesülő felet, valamint a bíróság részleges költségmentességet engedélyező határozata alapján a 11/A. §-ban foglaltak szerinti támogatásban részesülő felet, kérelmére a jogi segítségnyújtó szolgálat méltányosságból mentesítheti a pártfogó ügyvédi díj vagy egy részének visszatérítésére vonatkozó kötelezettsége alól, ha igazolja, hogy a támogatást engedélyező határozat jogerőre emelkedését követően rászorultsága az 5. §-ban és a 7–9. §-ban foglalt feltételeknek megfelelő mértékben változott meg.
 
-(4) A (2) bekezdés megfelelő alkalmazásával kell eljárni akkor is, ha a pártfogó ügyvédi díjelőleg visszatérítésére a fél perbeli ellenfele köteles. A visszatérítési kötelezettség teljesítésének határideje ebben az esetben 30 nap.
+(4) Ha a pártfogó ügyvédi díjelőleg visszatérítésére a fél perbeli ellenfele köteles, a visszatérítési kötelezettség teljesítésének határideje 30 nap. Kérelemre, indokolt esetben a visszatérítésre legfeljebb hat hónapos határidő biztosítható, e határidőn belül pedig a részletekben történő teljesítés is engedélyezhető.
 
 (5) A pártfogó ügyvéd a díjának megállapítása iránti kérelmét a per jogerős befejezését követő 6 hónapon belül terjesztheti elő; ezt követően pedig akkor, ha igazolja, hogy a perköltség viseléséről szóló jogerős határozatot 6 hónapon belül vette kézhez. Ha a perben a fél képviseletét több pártfogó ügyvéd látta el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására díjának megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel köteles előterjeszteni.
 

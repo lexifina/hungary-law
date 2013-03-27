@@ -8,7 +8,7 @@ b) peren kívül is lezárható jogvitában érintett és e felet a jogvita pere
 
 c) jogvita lezárását szolgáló peren kívüli közvetítésben vesz részt, és a közvetítést lezáró megállapodás aláírását megelőzően szükséges részére a jogi tanácsadás,
 
-d) mindennapi megélhetését közvetlenül érintő kérdésben (így különösen lakhatással, munkajoggal összefüggő kérdések, közüzemi szolgáltatások igénybevétele) szükséges a jogról való tájékoztatás,
+d) mindennapi megélhetését közvetlenül érintő kérdésben (így különösen lakhatással, munkajoggal összefüggő kérdések, közüzemi szolgáltatások igénybevétele) szükséges a jogról való tájékoztatás, beadvány, egyéb irat készítése,
 
 e) közigazgatási eljárásban vesz részt, és eljárási jogainak, kötelességeinek megismeréséhez jogi tanácsadásra vagy jognyilatkozat megtétele érdekében beadvány készítésére van szükség,
 
