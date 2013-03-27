@@ -1,10 +1,8 @@
-## 18–20. §[^12]
+## 19–20. §[^15]
 
-1. melléklet a 27/2008. (XII. 31.) HM rendelethez[^13]
+1. melléklet a 27/2008. (XII. 31.) HM rendelethez[^16]
 
-A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizetési osztályokba sorolása
-
-és a vezetői pótlék mértéke
+A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L |
 
@@ -12,73 +10,65 @@ A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizeté
 
 | 2. | A | B | C | D | E | F | G | H | I | J |  |
 
-| 3. | 1. Megbízott vezetők |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | 1. Megbízott vezetők |  |  |  |  |  |  |  |  |  |  |
 
-| 4. | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
+| 4. | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |
 
-| 5. | a) Magasabb vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
+| 5. | a) Magasabb vezető beosztás: |  |  |  |  |  |  |  |  |  |  |
 
-| 6. | főigazgató |  |  |  |  |  |  |  | * | * | * | 300 |
+| 6. | főigazgató |  |  |  |  |  |  |  |  |  |  | 300 |
 
-| 7. | főigazgató-helyettes, |  |  |  |  |  |  | * | * | * | * | 250 |
+| 7. | főigazgató-helyettes, vezérigazgató-helyettes |  |  |  |  |  |  |  |  |  |  | 250 |
 
-|  | vezérigazgató-helyettes |  |  |  |  |  |  |  |  |  |  |  |
+| 8. | főosztályvezető |  |  |  |  |  |  |  |  |  |  | 200 |
 
-| 8. | főosztályvezető |  |  |  |  |  | * | * | * | * | * | 200 |
+| 9. | igazgató (főig. h.) |  |  |  |  |  |  |  |  |  |  | 200 |
 
-| 9. | igazgató (főig. h.) |  |  |  |  |  |  |  | * | * | * | 200 |
+| 10. | intézetvezető |  |  |  |  |  |  |  |  |  |  | 200 |
 
-| 10. | intézetvezető |  |  |  |  |  | * | * | * |  |  | 200 |
+| 11. | gazdasági igazgató |  |  |  |  |  |  |  |  |  |  | 200 |
 
-| 11. | gazdasági igazgató |  |  |  |  |  | * | * | * | * |  | 200 |
+| 12. | igazgató (önálló honvédelmi szervezet első számú vezetője) |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| 12. | igazgató (önálló honvédelmi |  |  |  |  |  |  |  | * | * | * | 250 |
-
-|  | szervezet első számú vezetője) |  |  |  |  |  |  |  |  |  |  |  |
-
-| 13. | igazgató-helyettes (önálló |  |  |  |  |  | * | * | * | * |  | 150 |
-
-|  | honvédelmi szervezet első számú vezetőjének helyettese) |  |  |  |  |  |  |  |  |  |  |  |
+| 13. | igazgató-helyettes (önálló honvédelmi szervezet első számú vezetőjének helyettese) |  |  |  |  |  |  |  |  |  |  | 150 |
 
 | 14. | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 15. | katolikus tábori püspök |  |  |  |  |  | * | * | * | * | * | 300 |
+| 15. | katolikus tábori püspök |  |  |  |  |  |  |  |  |  |  | 300 |
 
-| 16. | vezető tábori rabbi |  |  |  |  |  | * | * | * | * | * | 250 |
+| 16. | vezető tábori rabbi |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| 17. | tábori főrabbi |  |  |  |  |  | * | * | * | * | * | 250 |
+| 17. | tábori főrabbi |  |  |  |  |  |  |  |  |  |  | 250 |
 
 | 18. | b) Vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
 
 | 19. | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 20. | igazgató |  |  |  |  |  |  |  | * | * | * | 150 |
+| 20. | igazgató |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 21. | igazgató (szervezeti egység |  |  |  |  |  |  |  | * | * | * | 150 |
+| 21. | igazgató (szervezeti egység „beosztott” vezetője) |  |  |  |  |  |  |  |  |  |  | 150 |
 
-|  | „beosztott” vezetője) |  |  |  |  |  |  |  |  |  |  |  |
+| 22. | igazgató-helyettes |  |  |  |  |  |  |  |  |  |  | 100 |
 
-| 22. | igazgató-helyettes |  |  |  |  |  | * | * | * | * | * | 100 |
+| 23. | igazgató-helyettes (szervezeti egység „beosztott” vezetőjének helyettese) |  |  |  |  |  |  |  |  |  |  | 100 |
 
-| 23. | igazgató-helyettes (szervezeti egység „beosztott” vezetőjének helyettese) |  |  |  |  |  | * | * | * | * | * | 100 |
+| 24. | gazdasági igazgató-helyettes |  |  |  |  |  |  |  |  |  |  | 100 |
 
-| 24. | gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * |  | 100 |
+| 25. | főosztályvezető-helyettes |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 25. | főosztályvezető-helyettes |  |  |  |  |  | * | * | * |  |  | 150 |
+| 26. | osztályvezető |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 26. | osztályvezető |  |  |  |  |  | * | * | * | * |  | 150 |
+| 27. | számítástechnikai szervizvezető |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 27. | számítástechnikai szervizvezető |  |  |  |  | * | * | * | * |  |  | 150 |
+| 28. | számítástechnikai műszakvezető |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 28. | számítástechnikai műszakvezető |  |  |  |  | * | * | * | * |  |  | 150 |
+| 29. | üzemvezető |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 29. | üzemvezető |  |  |  |  | * | * | * | * |  |  | 150 |
+| 30. | (fő)művezető |  |  |  |  |  |  |  |  |  |  | 150 |
 
-| 30. | (fő)művezető |  |  |  |  | * | * | * | * | * |  | 150 |
+| 31. | 2. Csoportvezetők |  |
 
-| 31. | 2. Csoportvezetők |  |  |  |  |  |  |  |  |  |  |  |
-
-| 32. | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
+| 32. | Pályáztatásra kötelezett: |
 
 | 33. | irodavezető |  |  |  |  | * | * | * |  |  |  |  |
 
@@ -92,161 +82,163 @@ A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizeté
 
 | 38. | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 39. | szállodaigazgató |  |  |  |  |  | * | * | * |  |  |  |
+| 39. | tábori rabbi |  |  |  |  |  | * | * | * | * | * |  |
 
-| 40. | szállodaigazgató- helyettes |  |  | * | * | * | * |  |  |  |  |  |
+| 40. | tábori püspök |  |  |  |  |  | * | * | * | * | * |  |
 
-| 41. | csoportvezető |  |  |  | * | * | * | * | * | * | * |  |
+| 41. | szállodaigazgató |  |  |  |  |  | * | * | * |  |  |  |
 
-| 42. | (fő-) diszpécser |  |  | * | * | * | * | * | * |  |  |  |
+| 42. | szállodaigazgató-helyettes |  |  | * | * | * | * |  |  |  |  |  |
 
-| 43. | telep-, étkezde-, üzlet-, üdülő-, KORK-, lakóház-, bolt-, konyha-, épület-, lőtér vezető/gondnok |  |  | * | * | * | * | * |  |  |  |  |
+| 43. | csoportvezető |  |  |  | * | * | * | * | * | * | * |  |
 
-| 44. | műhelyvezető |  |  | * | * | * | * | * | * |  |  |  |
+| 44. | (fő-) diszpécser |  |  | * | * | * | * | * | * |  |  |  |
 
-| 45. | részlegvezető (ügyviteli) |  | * | * | * | * | * | * | * |  |  |  |
+| 45. | telep-, étkezde-, üzlet-, üdülő-, KORK-, lakóház-, bolt-, konyha-, épület-, lőtér vezető/gondnok |  |  | * | * | * | * | * |  |  |  |  |
 
-| 46. | szolgálatvezető |  |  | * | * | * | * | * | * |  |  |  |
+| 46. | műhelyvezető |  |  | * | * | * | * | * | * |  |  |  |
 
-| 47. | üzemvezető-helyettes |  |  |  | * | * | * |  |  |  |  |  |
+| 47. | részlegvezető (ügyviteli) |  | * | * | * | * | * | * | * |  |  |  |
 
-| 48. | energetikus |  |  |  | * | * | * |  |  |  |  |  |
+| 48. | szolgálatvezető |  |  | * | * | * | * | * | * |  |  |  |
 
-| 49. | 3. Ügyintézők |  |  |  |  |  |  |  |  |  |  |  |
+| 49. | üzemvezető-helyettes |  |  |  | * | * | * |  |  |  |  |  |
 
-| 50. | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
+| 50. | energetikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 51. | belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |
+| 51. | 3. Ügyintézők |  |  |  |  |  |  |  |  |  |  |  |
 
-| 52. | ellenőr, főellenőr |  |  |  |  |  | * | * | * | * |  |  |
+| 52. | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 53. | mérnök, főmérnök |  |  |  |  |  | * | * | * | * | * |  |
+| 53. | belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |
 
-| 54. | főelőadó (igazgatási, számviteli, vámügyi, informatikai, gazdasági stb.) |  |  |  |  | * | * | * | * | * | * |  |
+| 54. | ellenőr, főellenőr |  |  |  |  |  | * | * | * | * |  |  |
 
-| 55. | informatikus |  |  |  |  | * | * | * | * | * |  |  |
+| 55. | mérnök, főmérnök |  |  |  |  |  | * | * | * | * | * |  |
 
-| 56. | jogtanácsos |  |  |  |  |  |  |  | * | * |  |  |
+| 56. | főelőadó (igazgatási, számviteli, vámügyi, informatikai, gazdasági stb.) |  |  |  |  | * | * | * | * | * | * |  |
 
-| 57. | jogász |  |  |  |  |  |  | * | * | * |  |  |
+| 57. | informatikus |  |  |  |  | * | * | * | * | * |  |  |
 
-| 58. | központvezető |  |  |  |  | * | * | * | * |  |  |  |
+| 58. | jogtanácsos |  |  |  |  |  |  |  | * | * |  |  |
 
-| 59. | főmunkatárs, munkatárs |  |  |  |  |  | * | * | * |  |  |  |
+| 59. | jogász |  |  |  |  |  |  | * | * | * |  |  |
 
-| 60. | kapcsolástechnikai felügyelő |  |  |  |  | * | * | * | * |  |  |  |
+| 60. | központvezető |  |  |  |  | * | * | * | * |  |  |  |
 
-| 61. | átvitel-technikai felügyelő |  |  |  |  | * | * | * | * |  |  |  |
+| 61. | főmunkatárs, munkatárs |  |  |  |  |  | * | * | * |  |  |  |
 
-| 62. | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
+| 62. | kapcsolástechnikai felügyelő |  |  |  |  | * | * | * | * |  |  |  |
 
-| 63. | előadó (szállítmányozási, számviteli, vámügyi, gazdasági stb.) |  |  | * | * | * |  |  |  |  |  |  |
+| 63. | átvitel-technikai felügyelő |  |  |  |  | * | * | * | * |  |  |  |
 
-| 64. | szervező |  |  | * | * | * | * | * | * |  |  |  |
+| 64. | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 65. | 4. Ügyviteli: |  |  |  |  |  |  |  |  |  |  |  |
+| 65. | előadó (szállítmányozási, számviteli, vámügyi, gazdasági stb.) |  |  | * | * | * |  |  |  |  |  |  |
 
-| 66. | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
+| 66. | szervező |  |  | * | * | * | * | * | * |  |  |  |
 
-| 67. | adminisztrátor |  |  | * | * |  |  |  |  |  |  |  |
+| 67. | 4. Ügyviteli: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 68. | vezető ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
+| 68. | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 69. | ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
+| 69. | adminisztrátor |  |  | * | * |  |  |  |  |  |  |  |
 
-| 70. | asszisztens |  |  |  | * | * |  |  |  |  |  |  |
+| 70. | vezető ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
 
-| 71. | irattáros |  |  |  | * | * | * |  |  |  |  |  |
+| 71. | ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
 
-| 72. | adatrögzítő |  |  |  | * | * | * |  |  |  |  |  |
+| 72. | asszisztens |  |  |  | * | * |  |  |  |  |  |  |
 
-| 73. | adatfeldolgozó |  |  |  | * | * |  |  |  |  |  |  |
+| 73. | irattáros |  |  |  | * | * | * |  |  |  |  |  |
 
-| 74. | észlelő-rajzoló |  | * | * | * |  |  |  |  |  |  |  |
+| 74. | adatrögzítő |  |  |  | * | * | * |  |  |  |  |  |
 
-| 75. | műszaki rajzoló |  |  | * | * | * |  |  |  |  |  |  |
+| 75. | adatfeldolgozó |  |  |  | * | * |  |  |  |  |  |  |
 
-| 76. | (fő-) technikus |  |  |  | * | * | * |  |  |  |  |  |
+| 76. | észlelő-rajzoló |  | * | * | * |  |  |  |  |  |  |  |
 
-| 77. | szaktechnikus |  |  |  | * | * | * |  |  |  |  |  |
+| 77. | műszaki rajzoló |  |  | * | * | * |  |  |  |  |  |  |
 
-| 78. | forgalmi alkalmazott | * | * | * | * |  |  |  |  |  |  |  |
+| 78. | (fő-) technikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 79. | ügykezelő gépíró |  |  |  | * |  |  |  |  |  |  |  |
+| 79. | szaktechnikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 80. | távírász |  |  |  | * | * | * |  |  |  |  |  |
+| 80. | forgalmi alkalmazott | * | * | * | * |  |  |  |  |  |  |  |
 
-| 81. | gépíró |  | * | * | * |  |  |  |  |  |  |  |
+| 81. | ügykezelő gépíró |  |  |  | * |  |  |  |  |  |  |  |
 
-| 82. | kezelő |  |  |  | * | * | * |  |  |  |  |  |
+| 82. | távírász |  |  |  | * | * | * |  |  |  |  |  |
 
-| 83. | nyilvántartó |  | * | * | * |  |  |  |  |  |  |  |
+| 83. | gépíró |  | * | * | * |  |  |  |  |  |  |  |
 
-| 84. | repüléstervező |  | * | * | * |  |  |  |  |  |  |  |
+| 84. | kezelő |  |  |  | * | * | * |  |  |  |  |  |
 
-| 85. | kabinetkezelő |  |  | * | * | * |  |  |  |  |  |  |
+| 85. | nyilvántartó |  | * | * | * |  |  |  |  |  |  |  |
 
-| 86. | tájékoztató |  |  | * | * |  |  |  |  |  |  |  |
+| 86. | repüléstervező |  | * | * | * |  |  |  |  |  |  |  |
 
-| 87. | 5. Fizikai |  |  |  |  |  |  |  |  |  |  |  |
+| 87. | kabinetkezelő |  |  | * | * | * |  |  |  |  |  |  |
 
-| 88. | anyagbeszerző |  | * | * | * |  |  |  |  |  |  |  |
+| 88. | tájékoztató |  |  | * | * |  |  |  |  |  |  |  |
 
-| 89. | anyagkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 89. | 5. Fizikai |  |  |  |  |  |  |  |  |  |  |  |
 
-| 90. | üzemeltető |  |  | * | * | * |  |  |  |  |  |  |
+| 90. | anyagbeszerző |  | * | * | * |  |  |  |  |  |  |  |
 
-| 91. | betanított munkás | * | * |  |  |  |  |  |  |  |  |  |
+| 91. | anyagkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 92. | műszerész |  |  | * | * | * |  |  |  |  |  |  |
+| 92. | üzemeltető |  |  | * | * | * |  |  |  |  |  |  |
 
-| 93. | pénztáros |  |  | * | * | * |  |  |  |  |  |  |
+| 93. | betanított munkás | * | * |  |  |  |  |  |  |  |  |  |
 
-| 94. | úszómester |  | * | * | * |  |  |  |  |  |  |  |
+| 94. | műszerész |  |  | * | * | * |  |  |  |  |  |  |
 
-| 95. | büfévezető |  | * | * | * |  |  |  |  |  |  |  |
+| 95. | pénztáros |  |  | * | * | * |  |  |  |  |  |  |
 
-| 96. | gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
+| 96. | úszómester |  | * | * | * |  |  |  |  |  |  |  |
 
-| 97. | kisegítő | * |  |  |  |  |  |  |  |  |  |  |
+| 97. | büfévezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 98. | laboráns |  |  | * | * | * |  |  |  |  |  |  |
+| 98. | gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 99. | szakács, főszakács |  |  | * | * |  |  |  |  |  |  |  |
+| 99. | kisegítő | * |  |  |  |  |  |  |  |  |  |  |
 
-| 100. | szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
+| 100. | laboráns |  |  | * | * | * |  |  |  |  |  |  |
 
-| 101. | nyomdász, nyomdavezető |  |  | * | * | * |  |  |  |  |  |  |
+| 101. | szakács, főszakács |  |  | * | * |  |  |  |  |  |  |  |
 
-| 102. | portás | * | * | * | * |  |  |  |  |  |  |  |
+| 102. | szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
 
-| 103. | gépmester |  |  | * | * | * |  |  |  |  |  |  |
+| 103. | nyomdász, nyomdavezető |  |  | * | * | * |  |  |  |  |  |  |
 
-| 104. | pincér (felszolgáló) | * | * | * | * |  |  |  |  |  |  |  |
+| 104. | portás | * | * | * | * |  |  |  |  |  |  |  |
 
-| 105. | raktárvezető; |  |  | * | * | * |  |  |  |  |  |  |
+| 105. | gépmester |  |  | * | * | * |  |  |  |  |  |  |
 
-|  | raktárvezető helyettes |  |  |  |  |  |  |  |  |  |  |  |
+| 106. | pincér (felszolgáló) | * | * | * | * |  |  |  |  |  |  |  |
 
-| 106. | raktáros |  | * | * |  |  |  |  |  |  |  |  |
+| 107. | raktárvezető; raktárvezető helyettes |  |  | * | * | * |  |  |  |  |  |  |
 
-| 107. | tűzoltó |  | * | * | * |  |  |  |  |  |  |  |
+| 108. | raktáros |  | * | * |  |  |  |  |  |  |  |  |
 
-| 108. | gépjárművezető (tűzoltó) |  | * | * | * |  |  |  |  |  |  |  |
+| 109. | tűzoltó |  | * | * | * |  |  |  |  |  |  |  |
 
-| 109. | tűzoltó váltásparancsnok |  | * | * | * |  |  |  |  |  |  |  |
+| 110. | gépjárművezető (tűzoltó) |  | * | * | * |  |  |  |  |  |  |  |
 
-| 110. | Anyagmozgató; | * | * | * |  |  |  |  |  |  |  |  |
+| 111. | tűzoltó váltásparancsnok |  | * | * | * |  |  |  |  |  |  |  |
 
-|  | targoncavezető |  |  |  |  |  |  |  |  |  |  |  |
+| 112. | anyagmozgató; targoncavezető | * | * | * |  |  |  |  |  |  |  |  |
 
-| 111. | gondnok | * | * | * |  |  |  |  |  |  |  |  |
+| 113. | gondnok | * | * | * |  |  |  |  |  |  |  |  |
 
-| 112. | segédmunkás | * |  |  |  |  |  |  |  |  |  |  |
+| 114. | stúdiós/audiovizuális technikus | * | * | * |  |  |  |  |  |  |  |  |
 
-| 113. | szállító-, rakodómunkás | * |  |  |  |  |  |  |  |  |  |  |
+| 115. | segédmunkás | * |  |  |  |  |  |  |  |  |  |  |
 
-| 114. | takarító | * |  |  |  |  |  |  |  |  |  |  |
+| 116. | szállító-, rakodómunkás | * |  |  |  |  |  |  |  |  |  |  |
 
-[^12]: A 18–20. §-t a 11/2012. (VII. 20.) HM rendelet 3. §-a hatályon kívül helyezte.
-[^13]: Az 1. melléklet a 11/2012. (VII. 20.) HM rendelet 1. §-ával megállapított szöveg.
+| 117. | takarító | * |  |  |  |  |  |  |  |  |  |  |
+
+[^15]: A 19–20. §-t a 11/2012. (VII. 20.) HM rendelet 3. §-a hatályon kívül helyezte 2012. július 28. napjával.
+[^16]: Az 1. melléklet a 2/2013. (III. 26.) HM rendelet 4. §-ával megállapított szöveg.

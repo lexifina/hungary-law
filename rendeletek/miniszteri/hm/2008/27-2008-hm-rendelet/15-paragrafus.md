@@ -1,3 +1,3 @@
-## 14/A. §[^10] Az illetményt a tárgyhónapot követő hónap 5. napjáig kell kifizetni.
+## 14/B. §[^11] Munkaidőnek minősül a munkaközi szünet időtartama.
 
-[^10]: A 14/A. §-t a 7/2010. (IV. 23.) HM rendelet 4. §-a iktatta be.
+[^11]: A 14/B. §-t a 2/2013. (III. 26.) HM rendelet 2. §-a iktatta be.
