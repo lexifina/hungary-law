@@ -1,0 +1,5 @@
+4. § (1) A hivatali szervezet vezetője köteles gondoskodni a szervezet működésével összefüggő visszaélésekre, szabálytalanságokra és korrupciós kockázatokra vonatkozó bejelentések fogadásáról és kivizsgálásáról.
+
+(2) A szervezet működésével összefüggő visszaélésekre, szabálytalanságokra és integritási és korrupciós kockázatokra vonatkozó bejelentések fogadására és kivizsgálására általános eljárásrendet kell kialakítani, amely kiterjed a bejelentések előzetes értékelésére, a bejelentés kivizsgálásához szükséges információk összegyűjtésére, az érintettek szükség esetén történő meghallgatására, a vonatkozó dokumentumok átvizsgálására, a szükséges intézkedések megtételére, jogkövetkezmények alkalmazására, a bejelentő szervezeten belüli védelmére, illetve elismerésére, valamint a számára – amennyiben elérhetősége rendelkezésre áll – a vizsgálat eredményéről való visszajelzésre.
+
+(3) Az (1)–(2) bekezdés szerinti feladatok teljesítésének biztosítása – a feladat átruházására való tekintet nélkül – a hivatali szervezet vezetőjének átruházhatatlan személyes felelőssége.

@@ -1,0 +1,1 @@
+## 8. § A közigazgatás-fejlesztésért felelős miniszter az integritási és korrupciós kockázatok felmérését, valamint a korrupciómegelőzési intézkedését terv és az integritás jelentés elkészítését támogató módszertani segédletet tesz közzé.
