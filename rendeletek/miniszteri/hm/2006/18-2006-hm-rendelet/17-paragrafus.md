@@ -1,4 +1,4 @@
-## 16. § A katona kártérítési ügyében a Munkaügyi Bíróság előtt indított perben alperesként a másodfokon eljárt katonai szervezetet, a 12. § (2) bekezdése esetén pedig a Honvédelmi Minisztériumot kell megjelölni.
+## 16. §[^5] A katona kártérítési ügyében a közigazgatási és munkaügyi bíróság előtt indított perben alperesként a másodfokon eljárt katonai szervezetet, a 12. § (2) bekezdése esetén pedig a Honvédelmi Minisztériumot kell megjelölni.
 
 ## Halasztás, részletfizetés, utólagos mérséklés
 
@@ -12,8 +12,9 @@
 
 (5) A részletekben történő fizetés esetén a kártérítést úgy kell megállapítani, hogy annak egy havi részlete ne haladja meg a katona egy havi illetményének a külön jogszabályok szerint levonással teljesítendő adónak (adóelőlegnek), egészségbiztosítási és nyugdíjjáruléknak, magánnyugdíjpénztári tagdíjnak, továbbá egyéb járuléknak a levonás után fennmaradó részének 25%-át.
 
-(6)[^4] A halasztásról, illetve a részletfizetésről – a (7) bekezdésben foglaltak kivételével – az állományilletékes parancsnok, illetve honvédelmi miniszter dönt a (2)–(5) bekezdésben foglaltak alapján.
+(6)[^6] A halasztásról, illetve a részletfizetésről – a (7) bekezdésben foglaltak kivételével – az állományilletékes parancsnok, illetve honvédelmi miniszter dönt a (2)–(5) bekezdésben foglaltak alapján.
 
 (7) A jogerős bírósági határozattal megállapított kártérítés halasztásáról, illetve részletekben történő fizetéséről – a Polgári perrendtartásról szóló 1952. évi III. törvény 217. § (3) bekezdésében foglalt eseten kívül – utólag a honvédelmi miniszter dönt.
 
-[^4]: A 17. § (6) bekezdése a 12/2012. (VII. 25.) HM rendelet 13. §-ával megállapított szöveg.
+[^5]: A 16. § a 2/2013. (III. 26.) HM rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 17. § (6) bekezdése a 12/2012. (VII. 25.) HM rendelet 13. §-ával megállapított szöveg.

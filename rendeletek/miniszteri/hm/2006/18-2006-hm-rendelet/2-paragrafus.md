@@ -1,4 +1,4 @@
-## 1. §[^1]
+## 1. §[^2]
 
 ## Értelmező rendelkezések
 
@@ -24,9 +24,9 @@ b) jogszabály, hatósági intézkedés vagy szerződés alapján a Honvédség 
 
 c) a Honvédséget illető vagyoni értékű jogok és követelések,
 
-d)[^2] a vállalkozásoknak [Ptk. 685. § c) pont], illetve társadalmi szervezeteknek átadott azon vagyontárgyak és pénzeszközök, amelyeket e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek;
+d)[^3] a vállalkozásoknak [Ptk. 685. § c) pont], illetve társadalmi szervezeteknek átadott azon vagyontárgyak és pénzeszközök, amelyeket e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek;
 
 3. külföldi szolgálat: a Hjt. 2. § (32) bekezdésben meghatározott katonai szolgálat.
 
-[^1]: Az 1. §-t a 12/2012. (VII. 25.) HM rendelet 16. §-a hatályon kívül helyezte.
-[^2]: A 2. § 2. pont d) alpontja a 9/2010. (V. 4.) HM rendelet 4. §-a szerint módosított szöveg.
+[^2]: Az 1. §-t a 12/2012. (VII. 25.) HM rendelet 16. §-a hatályon kívül helyezte.
+[^3]: A 2. § 2. pont d) alpontja a 9/2010. (V. 4.) HM rendelet 4. §-a szerint módosított szöveg.

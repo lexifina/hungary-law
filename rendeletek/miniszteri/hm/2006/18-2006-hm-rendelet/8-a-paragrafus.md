@@ -1,6 +1,6 @@
 ## 8. § A katona és képviselője jogosult betekinteni a kártérítési eljárás során keletkezett iratokba, az üggyel kapcsolatban észrevételt, megjegyzést tehet.
 
-8/A. §[^3] (1) Az állományilletékes parancsnok a kártérítési eljárást különös méltánylást érdemlő okból megszüntetheti, ha az állomány tagja gondatlanságból akár az általa engedéllyel használt honvédségi járműben, akár ilyen járművel harmadik személynek okoz kárt.
+8/A. §[^4] (1) Az állományilletékes parancsnok a kártérítési eljárást különös méltánylást érdemlő okból megszüntetheti, ha az állomány tagja gondatlanságból akár az általa engedéllyel használt honvédségi járműben, akár ilyen járművel harmadik személynek okoz kárt.
 
 (2) Különös méltánylást érdemlő oknak minősül különösen, ha
 
@@ -16,4 +16,4 @@ d) az okozott kár a 100 000 Ft-ot nem haladja meg.
 
 (4) Nem szüntethető meg a káreljárás, ha a kár a károkozó szándékos vagy súlyosan gondatlan magatartásának következménye, így különösen, ha a károkozóval szemben büntetőeljárás vagy szabálysértési eljárás indult, továbbá akkor sem, ha a károkozó az általa engedély nélkül használt honvédségi járműben, vagy ilyen járművel harmadik személynek okoz kárt.
 
-[^3]: A 8/A. §- t a 12/2012. (VII. 25.) HM rendelet 12. §-a iktatta be.
+[^4]: A 8/A. §- t a 12/2012. (VII. 25.) HM rendelet 12. §-a iktatta be.
