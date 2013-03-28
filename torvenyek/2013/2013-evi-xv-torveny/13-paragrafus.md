@@ -1,3 +1,0 @@
-13. § A Jst. 66. § (2) bekezdése a következő mondattal egészül ki:
-
-„Ha a jogi segítségnyújtó szolgálat a jogi segítő szervezetet abból az okból törli a névjegyzékből, hogy a jogi szolgáltatást nem a vele szerződött ügyvéd útján nyújtotta, a névjegyzékből való törlést követően a jogi segítő szervezetet, annak jogutódját, illetve a törölt szervezetnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott vezető tisztségviselőjének a közreműködésével létrejött más szervezetet további három évig nem lehet ismételten felvenni a névjegyzékbe.”
