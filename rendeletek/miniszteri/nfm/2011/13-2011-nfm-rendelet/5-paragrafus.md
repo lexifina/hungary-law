@@ -1,4 +1,4 @@
-5. § (1)[^11] A Szövetség a 4. § (1) bekezdésben meghatározott földgázmennyiség különbözetet a 3. § (1) bekezdésben foglalt készletmérték elérése érdekében a biztonsági készletezésre igénybe vett földgáztárolóba köteles betárolással visszapótolni.
+5. § (1)[^12] A Szövetség a 4. § (1) bekezdésben meghatározott földgázmennyiség különbözetet a 3. § (1) bekezdésben foglalt készletmérték elérése érdekében a biztonsági készletezésre igénybe vett földgáztárolóba köteles betárolással visszapótolni.
 
 (2) A visszapótlást a 3. § (1) bekezdésében meghatározott időpontig kell teljesíteni.
 
@@ -6,19 +6,19 @@
 
 (4) A kedvezményezett a Szövetségnek a földgázt az alábbi feltételekkel köteles értékesíteni:
 
-a)[^12] ha a visszapótlási határidőig a 4. § (1) bekezdés szerint értékesített földgáz valamely hányada a biztonsági készletezésre igénybe vett földgáztárolóban van, e mennyiség ára nem lehet magasabb, mint a 4. § (3a) bekezdésében foglalt ár,
+a)[^13] ha a visszapótlási határidőig a 4. § (1) bekezdés szerint értékesített földgáz valamely hányada a biztonsági készletezésre igénybe vett földgáztárolóban van, e mennyiség ára nem lehet magasabb, mint a 4. § (3a) bekezdésében foglalt ár,
 
-b)[^13] a kedvezményezett minden év január 15-ig megadja a Szövetségnek a visszatárolásra tervezett földgáz egység árát, amely nem lehet nagyobb, mint a forrásszerződései alapján számított súlyozott átlagár,
+b)[^14] a kedvezményezett minden év január 15-ig megadja a Szövetségnek a visszatárolásra tervezett földgáz egység árát, amely nem lehet nagyobb, mint a forrásszerződései alapján számított súlyozott átlagár,
 
-c)[^14] ha a Szövetség a b) pontban foglalthoz képest kedvezőbb, magyar határponton meghatározott árú ajánlattal rendelkezik, úgy a kedvezményezett jogosult és köteles azt leszerződni, amennyiben a Szövetség rendelkezésére álló ajánlat szerinti földgáz árat saját forrásból biztosítani nem tudja,
+c)[^15] ha a Szövetség a b) pontban foglalthoz képest kedvezőbb, magyar határponton meghatározott árú ajánlattal rendelkezik, úgy a kedvezményezett jogosult és köteles azt leszerződni, amennyiben a Szövetség rendelkezésére álló ajánlat szerinti földgáz árat saját forrásból biztosítani nem tudja,
 
-d)[^15] a visszapótlás során a szállítással és a betárolással kapcsolatos költségeket a kedvezményezett köteles megfizetni,
+d)[^16] a visszapótlás során a szállítással és a betárolással kapcsolatos költségeket a kedvezményezett köteles megfizetni,
 
-e)[^16] ha a kedvezményezett a b) pont szerinti kötelezettségének nem tesz eleget, a visszatárolásra tervezett földgáz ára megegyezik a Szövetség által a készletértékesítés során a 4. § (3a) bekezdése szerint érvényesített árral.
+e)[^17] ha a kedvezményezett a b) pont szerinti kötelezettségének nem tesz eleget, a visszatárolásra tervezett földgáz ára megegyezik a Szövetség által a készletértékesítés során a 4. § (3a) bekezdése szerint érvényesített árral.
 
-[^11]: Az 5. § (1) bekezdése a 15/2012. (III. 14.) NFM rendelet 6. §-a szerint módosított szöveg.
-[^12]: Az 5. § (4) bekezdés a) pontja a 15/2012. (III. 14.) NFM rendelet 6. §-a szerint módosított szöveg.
-[^13]: Az 5. § (4) bekezdés b) pontja a 15/2012. (III. 14.) NFM rendelet 3. §-ával megállapított szöveg.
-[^14]: Az 5. § (4) bekezdés c) pontja a 15/2012. (III. 14.) NFM rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 5. § (4) bekezdés d) pontja a 15/2012. (III. 14.) NFM rendelet 3. §-ával megállapított szöveg.
-[^16]: Az 5. § (4) bekezdés e) pontját a 15/2012. (III. 14.) NFM rendelet 3. §-a iktatta be.
+[^12]: Az 5. § (1) bekezdése a 15/2012. (III. 14.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^13]: Az 5. § (4) bekezdés a) pontja a 15/2012. (III. 14.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^14]: Az 5. § (4) bekezdés b) pontja a 15/2012. (III. 14.) NFM rendelet 3. §-ával megállapított szöveg.
+[^15]: Az 5. § (4) bekezdés c) pontja a 15/2012. (III. 14.) NFM rendelet 3. §-ával megállapított szöveg.
+[^16]: Az 5. § (4) bekezdés d) pontja a 15/2012. (III. 14.) NFM rendelet 3. §-ával megállapított szöveg.
+[^17]: Az 5. § (4) bekezdés e) pontját a 15/2012. (III. 14.) NFM rendelet 3. §-a iktatta be.
