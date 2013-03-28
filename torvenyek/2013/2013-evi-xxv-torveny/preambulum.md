@@ -1,0 +1,1 @@
+Az Országgyűlés az egészségügyi ellátás folyamatos és biztonságos ellátásának biztosítása, a feladatellátás átlátható és hatékony működésének feltételei megteremtése érdekében a következő törvényt alkotja:
