@@ -28,7 +28,7 @@
 
 | 14. | I/12. | Bács-Kiskun | Földmérő, földügyi és térinformatikai technikus | 54 581 01 |
 
-| 15. | I/13. | Bács-Kiskun | Gyakorló klinikai laboratóriumi asszisztens | 52 725 02 |
+| 15. | I/13. | Bács-Kiskun | Gyakorló klinikai laboratóriumi asszisztens | 52 725 03 |
 
 | 16. | I/14. | Bács-Kiskun | Hajózási technikus | 54 841 01 |
 
@@ -46,13 +46,13 @@
 
 | 23. | I/21. | Bács-Kiskun | Közúti közlekedésüzemvitel-ellátó | 54 841 02 |
 
-| 24. | I/22. | Bács-Kiskun | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 24. | I/22. | Bács-Kiskun | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 25. | I/23. | Bács-Kiskun | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
 | 26. | I/24. | Bács-Kiskun | Matróz-gépkezelő | 34 841 02 |
 
-| 27. | I/25. | Bács-Kiskun | Molnár | 32 541 01 |
+| 27. | I/25. | Bács-Kiskun | Molnár | 34 541 04 |
 
 | 28. | I/26. | Bács-Kiskun | Nonprofit menedzser | 54 345 02 |
 
@@ -72,7 +72,7 @@
 
 | 36. | I/34. | Bács-Kiskun | Települési környezetvédelmi szaktechnikus | 55 850 04 |
 
-| 37. | I/35. | Bács-Kiskun | Térképész szaktechnikus | 55 581 01 |
+| 37. | I/35. | Bács-Kiskun | Térképész szaktechnikus | 55 581 03 |
 
 | 38. | I/36. | Bács-Kiskun | Természetvédelmi szaktechnikus | 55 850 05 |
 
@@ -94,7 +94,7 @@
 
 | 47. | I/45. | Bács-Kiskun | Vasútijármű-technikus | 55 525 03 |
 
-| 48. | I/46. | Bács-Kiskun | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 48. | I/46. | Bács-Kiskun | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 49. | I/47. | Bács-Kiskun | Vízi közlekedésüzemvitel-ellátó | 54 841 08 |
 
@@ -218,13 +218,13 @@
 
 | 109. | III/23. | Békés | Közúti közlekedésüzemvitel-ellátó | 54 841 02 |
 
-| 110. | III/24. | Békés | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 110. | III/24. | Békés | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 111. | III/25. | Békés | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
 | 112. | III/26. | Békés | Matróz-gépkezelő | 34 841 02 |
 
-| 113. | III/27. | Békés | Molnár | 32 541 01 |
+| 113. | III/27. | Békés | Molnár | 34 541 04 |
 
 | 114. | III/28. | Békés | Nonprofit menedzser | 54 345 02 |
 
@@ -244,7 +244,7 @@
 
 | 122. | III/36. | Békés | Települési környezetvédelmi szaktechnikus | 55 850 04 |
 
-| 123. | III/37. | Békés | Térképész szaktechnikus | 55 581 01 |
+| 123. | III/37. | Békés | Térképész szaktechnikus | 55 581 03 |
 
 | 124. | III/38. | Békés | Természetvédelmi szaktechnikus | 55 850 05 |
 
@@ -262,7 +262,7 @@
 
 | 131. | III/45. | Békés | Vasútijármű-technikus | 55 525 03 |
 
-| 132. | III/46. | Békés | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 132. | III/46. | Békés | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 133. | III/47. | Békés | Vízi közlekedésüzemvitel-ellátó | 54 841 08 |
 
@@ -280,7 +280,7 @@
 
 | 140. | IV/6. | Borsod-Abaúj-Zemplén | Dízelmotoros vasúti jármű szerelője | 54 525 04 |
 
-| 141. | IV/7. | Borsod-Abaúj-Zemplén | Fatárgy készítő | 35 215 01 |
+| 141. |  |  |  |  |
 
 | 142. | IV/8. | Borsod-Abaúj-Zemplén | Fegyverműszerész | 54 863 01 |
 
@@ -388,7 +388,7 @@
 
 | 194. | V/11. | Budapest | Mezőgazdasági gazdaasszony, falusi vendéglátó | 34 811 02 |
 
-| 195. | V/12. | Budapest | Molnár | 32 541 01 |
+| 195. | V/12. | Budapest | Molnár | 34 541 04 |
 
 | 196. | V/13. | Budapest | Vadászpuska műves | 55 863 02 |
 
@@ -428,13 +428,13 @@
 
 | 214. | VI/18. | Csongrád | Közlekedésautomatikai műszerész | 54 523 03 |
 
-| 215. | VI/19. | Csongrád | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 215. | VI/19. | Csongrád | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 216. | VI/20. | Csongrád | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
 | 217. | VI/21. | Csongrád | Matróz-gépkezelő | 34 841 02 |
 
-| 218. | VI/22. | Csongrád | Molnár | 32 541 01 |
+| 218. | VI/22. | Csongrád | Molnár | 34 541 04 |
 
 | 219. | VI/23. | Csongrád | Műemléki díszítőszobrász | 35 582 04 |
 
@@ -456,7 +456,7 @@
 
 | 228. | VI/32. | Csongrád | Repülőgépsárkány-szerelő | 54 525 06 |
 
-| 229. | VI/33. | Csongrád | Térképész szaktechnikus | 55 581 01 |
+| 229. | VI/33. | Csongrád | Térképész szaktechnikus | 55 581 03 |
 
 | 230. | VI/34. | Csongrád | Útépítő | 34 582 11 |
 
@@ -468,7 +468,7 @@
 
 | 234. | VI/38. | Csongrád | Vasútijármű-technikus | 55 525 03 |
 
-| 235. | VI/39. | Csongrád | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 235. | VI/39. | Csongrád | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 236. | VI/40. | Csongrád | Vízi közlekedésüzemvitel-ellátó | 54 841 08 |
 
@@ -548,7 +548,7 @@
 
 | 274. | VII/37. | Fejér | Közúti közlekedésüzemvitel-ellátó | 54 841 02 |
 
-| 275. | VII/38. | Fejér | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 275. | VII/38. | Fejér | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 276. | VII/39. | Fejér | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -590,7 +590,7 @@
 
 | 295. | VII/58. | Fejér | Papíripari technikus | 55 524 04 |
 
-| 296. | VII/59. | Fejér | Pedagógiai- és családsegítő | 54 140 02 |
+| 296. | VII/59. | Fejér | Pedagógiai- és családsegítő munkatárs | 54 140 02 |
 
 | 297. | VII/60. | Fejér | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) | 54 343 01 |
 
@@ -616,7 +616,7 @@
 
 | 308. | VII/71. | Fejér | Szoftverfejlesztő | 54 213 05 |
 
-| 309. | VII/72. | Fejér | Szőlész-borász | 34 541 05 |
+| 309. | VII/72. | Fejér | Szőlész-borász | 34 541 06 |
 
 | 310. | VII/73. | Fejér | Tartósítóipari szaktechnikus | 55 541 07 |
 
@@ -738,7 +738,7 @@
 
 | 369. | VIII/37. | Győr-Moson-Sopron | Kályhás | 34 582 06 |
 
-| 370. | VIII/38. | Győr-Moson-Sopron | Kisgyermek-gondozó, nevelő | 54 761 02 |
+| 370. | VIII/38. | Győr-Moson-Sopron | Kisgyermekgondozó, -nevelő | 54 761 02 |
 
 | 371. | VIII/39. | Győr-Moson-Sopron | Kishajóépítő, -karbantartó | 34 543 05 |
 
@@ -754,7 +754,7 @@
 
 | 377. | VIII/45. | Győr-Moson-Sopron | Laboratóriumi technikus | 54 524 01 |
 
-| 378. | VIII/46. | Győr-Moson-Sopron | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 378. | VIII/46. | Győr-Moson-Sopron | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 379. | VIII/47. | Győr-Moson-Sopron | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -766,7 +766,7 @@
 
 | 383. | VIII/51. | Győr-Moson-Sopron | Mentálhigiénés asszisztens | 55 762 03 |
 
-| 384. | VIII/52. | Győr-Moson-Sopron | Molnár | 32 541 01 |
+| 384. | VIII/52. | Győr-Moson-Sopron | Molnár | 34 541 04 |
 
 | 385. | VIII/53. | Győr-Moson-Sopron | Műanyagfeldolgozó technikus | 54 521 06 |
 
@@ -792,7 +792,7 @@
 
 | 396. | VIII/64. | Győr-Moson-Sopron | Papíripari technikus | 55 524 04 |
 
-| 397. | VIII/65. | Győr-Moson-Sopron | Pedagógiai- és családsegítő | 54 140 02 |
+| 397. | VIII/65. | Győr-Moson-Sopron | Pedagógiai- és családsegítő munkatárs | 54 140 02 |
 
 | 398. | VIII/66. | Győr-Moson-Sopron | Pszichiátriai gondozó | 55 762 04 |
 
@@ -820,7 +820,7 @@
 
 | 410. | VIII/78. | Győr-Moson-Sopron | Települési környezetvédelmi szaktechnikus | 55 850 04 |
 
-| 411. | VIII/79. | Győr-Moson-Sopron | Térképész szaktechnikus | 55 581 01 |
+| 411. | VIII/79. | Győr-Moson-Sopron | Térképész szaktechnikus | 55 581 03 |
 
 | 412. | VIII/80. | Győr-Moson-Sopron | Textilipari technikus | 54 542 03 |
 
@@ -884,9 +884,9 @@
 
 | 442. | IX/19. | Hajdú-Bihar | Sommelier | 35 811 01 |
 
-| 443. | IX/20. | Hajdú-Bihar | Szőlész-borász | 34 541 05 |
+| 443. | IX/20. | Hajdú-Bihar | Szőlész-borász | 34 541 06 |
 
-| 444. | IX/21. | Hajdú-Bihar | Térképész szaktechnikus | 55 581 01 |
+| 444. | IX/21. | Hajdú-Bihar | Térképész szaktechnikus | 55 581 03 |
 
 | 445. | IX/22. | Hajdú-Bihar | Útépítő | 34 582 11 |
 
@@ -894,7 +894,7 @@
 
 | 447. | IX/24. | Hajdú-Bihar | Vadászpuska műves | 55 863 02 |
 
-| 448. | IX/25. | Hajdú-Bihar | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 448. | IX/25. | Hajdú-Bihar | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 449. | IX/26. | Hajdú-Bihar | Vízi közlekedésüzemvitel-ellátó | 54 841 08 |
 
@@ -918,7 +918,7 @@
 
 | 459. | X/9. | Heves | Faipari technikus | 54 543 01 |
 
-| 460. | X/10. | Heves | Fatárgy készítő | 35 215 01 |
+| 460. |  |  |  |  |
 
 | 461. | X/11. | Heves | Fegyverműszerész | 54 863 01 |
 
@@ -964,7 +964,7 @@
 
 | 482. | X/32. | Heves | Közúti közlekedésüzemvitel-ellátó | 54 841 02 |
 
-| 483. | X/33. | Heves | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 483. | X/33. | Heves | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 484. | X/34. | Heves | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -974,7 +974,7 @@
 
 | 487. | X/37. | Heves | Matróz-gépkezelő | 34 841 02 |
 
-| 488. | X/38. | Heves | Molnár | 32 541 01 |
+| 488. | X/38. | Heves | Molnár | 34 541 04 |
 
 | 489. | X/39. | Heves | Műbútorasztalos | 35 543 01 |
 
@@ -998,7 +998,7 @@
 
 | 499. | X/49. | Heves | Patkolókovács | 35 521 03 |
 
-| 500. | X/50. | Heves | Pedagógiai- és családsegítő | 54 140 02 |
+| 500. | X/50. | Heves | Pedagógiai- és családsegítő munkatárs | 54 140 02 |
 
 | 501. | X/51. | Heves | Pszichiátriai gondozó | 55 762 04 |
 
@@ -1016,7 +1016,7 @@
 
 | 508. | X/58. | Heves | Szenvedélybeteg gondozó | 55 762 05 |
 
-| 509. | X/59. | Heves | Térképész szaktechnikus | 55 581 01 |
+| 509. | X/59. | Heves | Térképész szaktechnikus | 55 581 03 |
 
 | 510. | X/60. | Heves | Vadászpuska műves | 55 863 02 |
 
@@ -1036,7 +1036,7 @@
 
 | 518. | X/68. | Heves | Vegyipari technikus | 54 524 02 |
 
-| 519. | X/69. | Heves | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 519. | X/69. | Heves | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 520. | X/70. | Heves | Vízi közlekedésüzemvitel-ellátó | 54 841 08 |
 
@@ -1070,7 +1070,7 @@
 
 | 535. | XI/15. | Jász-Nagykun-Szolnok | Könyvkötő és nyomtatványfeldolgozó | 34 543 06 |
 
-| 536. | XI/16. | Jász-Nagykun-Szolnok | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 536. | XI/16. | Jász-Nagykun-Szolnok | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 537. | XI/17. | Jász-Nagykun-Szolnok | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -1088,13 +1088,13 @@
 
 | 544. | XI/24. | Jász-Nagykun-Szolnok | Sommelier | 35 811 01 |
 
-| 545. | XI/25. | Jász-Nagykun-Szolnok | Szőlész-borász | 34 541 05 |
+| 545. | XI/25. | Jász-Nagykun-Szolnok | Szőlész-borász | 34 541 06 |
 
-| 546. | XI/26. | Jász-Nagykun-Szolnok | Térképész szaktechnikus | 55 581 01 |
+| 546. | XI/26. | Jász-Nagykun-Szolnok | Térképész szaktechnikus | 55 581 03 |
 
 | 547. | XI/27. | Jász-Nagykun-Szolnok | Vadászpuska műves | 55 863 02 |
 
-| 548. | XI/28. | Jász-Nagykun-Szolnok | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 548. | XI/28. | Jász-Nagykun-Szolnok | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 549. | XI/29. | Jász-Nagykun-Szolnok | Vízi közlekedésüzemvitel-ellátó | 54 841 08 |
 
@@ -1136,7 +1136,7 @@
 
 | 568. | XII/18. | Komárom-Esztergom | Faipari technikus | 54 543 01 |
 
-| 569. | XII/19. | Komárom-Esztergom | Fatárgy készítő | 35 215 01 |
+| 569. |  |  |  |  |
 
 | 570. | XII/20. | Komárom-Esztergom | Fegyverműszerész | 54 863 01 |
 
@@ -1204,7 +1204,7 @@
 
 | 602. | XII/52. | Komárom-Esztergom | Közúti közlekedésüzemvitel-ellátó | 54 841 02 |
 
-| 603. | XII/53. | Komárom-Esztergom | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 603. | XII/53. | Komárom-Esztergom | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 604. | XII/54. | Komárom-Esztergom | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -1252,7 +1252,7 @@
 
 | 626. | XII/76. | Komárom-Esztergom | Parképítő és fenntartó technikus | 54 581 02 |
 
-| 627. | XII/77. | Komárom-Esztergom | Pedagógiai- és családsegítő | 54 140 02 |
+| 627. | XII/77. | Komárom-Esztergom | Pedagógiai- és családsegítő munkatárs | 54 140 02 |
 
 | 628. | XII/78. | Komárom-Esztergom | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) | 54 343 01 |
 
@@ -1278,13 +1278,13 @@
 
 | 639. | XII/89. | Komárom-Esztergom | Szoftverfejlesztő | 54 213 05 |
 
-| 640. | XII/90. | Komárom-Esztergom | Szőlész-borász | 34 541 05 |
+| 640. | XII/90. | Komárom-Esztergom | Szőlész-borász | 34 541 06 |
 
 | 641. | XII/91. | Komárom-Esztergom | Tartósítóipari szaktechnikus | 55 541 07 |
 
 | 642. | XII/92. | Komárom-Esztergom | Tejipari szaktechnikus | 55 541 08 |
 
-| 643. | XII/93. | Komárom-Esztergom | Térképész szaktechnikus | 55 581 01 |
+| 643. | XII/93. | Komárom-Esztergom | Térképész szaktechnikus | 55 581 03 |
 
 | 644. | XII/94. | Komárom-Esztergom | Természetvédelmi szaktechnikus | 55 850 05 |
 
@@ -1350,7 +1350,7 @@
 
 | 675. | XIII/11. | Nógrád | Erjedés- és üdítőitalipari szaktechnikus | 55 541 03 |
 
-| 676. | XIII/12. | Nógrád | Fatárgy készítő | 35 215 01 |
+| 676. |  |  |  |  |
 
 | 677. | XIII/13. | Nógrád | Fegyverműszerész | 54 863 01 |
 
@@ -1382,7 +1382,7 @@
 
 | 691. | XIII/27. | Nógrád | Gyógyszeripari laboratóriumi technikus | 55 524 02 |
 
-| 692. | XIII/28. | Nógrád | Gyógyszertári asszisztens | 55 720 02 |
+| 692. | XIII/28. | Nógrád | Gyógyszertári asszisztens | 55 720 03 |
 
 | 693. | XIII/29. | Nógrád | Hajózási technikus | 54 841 01 |
 
@@ -1408,7 +1408,7 @@
 
 | 704. | XIII/40. | Nógrád | Laboratóriumi technikus | 54 524 01 |
 
-| 705. | XIII/41. | Nógrád | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 705. | XIII/41. | Nógrád | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 706. | XIII/42. | Nógrád | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -1418,7 +1418,7 @@
 
 | 709. | XIII/45. | Nógrád | Matróz-gépkezelő | 34 841 02 |
 
-| 710. | XIII/46. | Nógrád | Molnár | 32 541 01 |
+| 710. | XIII/46. | Nógrád | Molnár | 34 541 04 |
 
 | 711. | XIII/47. | Nógrád | Műemlékfenntartó technikus | 55 582 02 |
 
@@ -1458,7 +1458,7 @@
 
 | 729. | XIII/65. | Nógrád | Tejipari szaktechnikus | 55 541 08 |
 
-| 730. | XIII/66. | Nógrád | Térképész szaktechnikus | 55 581 01 |
+| 730. | XIII/66. | Nógrád | Térképész szaktechnikus | 55 581 03 |
 
 | 731. | XIII/67. | Nógrád | Vadászpuska műves | 55 863 02 |
 
@@ -1514,7 +1514,7 @@
 
 | 757. | XIV/12. | Pest | Repülőgépsárkány-szerelő | 54 525 06 |
 
-| 758. | XIV/13. | Pest | Térképész szaktechnikus | 55 581 01 |
+| 758. | XIV/13. | Pest | Térképész szaktechnikus | 55 581 03 |
 
 | 759. | XIV/14. | Pest | Útépítő és -fenntartó technikus | 54 582 05 |
 
@@ -1582,7 +1582,7 @@
 
 | 791. | XV/29. | Somogy | Speciális állatfeldolgozó | 35 541 01 |
 
-| 792. | XV/30. | Somogy | Térképész szaktechnikus | 55 581 01 |
+| 792. | XV/30. | Somogy | Térképész szaktechnikus | 55 581 03 |
 
 | 793. | XV/31. | Somogy | Útépítő és -fenntartó technikus | 54 582 05 |
 
@@ -1640,7 +1640,7 @@
 
 | 820. | XVI/15. | Szabolcs-Szatmár-Bereg | Kohászati technikus | 54 521 04 |
 
-| 821. | XVI/16. | Szabolcs-Szatmár-Bereg | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 821. | XVI/16. | Szabolcs-Szatmár-Bereg | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 822. | XVI/17. | Szabolcs-Szatmár-Bereg | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -1672,9 +1672,9 @@
 
 | 836. | XVI/31. | Szabolcs-Szatmár-Bereg | Sommelier | 35 811 01 |
 
-| 837. | XVI/32. | Szabolcs-Szatmár-Bereg | Szőlész-borász | 34 541 05 |
+| 837. | XVI/32. | Szabolcs-Szatmár-Bereg | Szőlész-borász | 34 541 06 |
 
-| 838. | XVI/33. | Szabolcs-Szatmár-Bereg | Térképész szaktechnikus | 55 581 01 |
+| 838. | XVI/33. | Szabolcs-Szatmár-Bereg | Térképész szaktechnikus | 55 581 03 |
 
 | 839. | XVI/34. | Szabolcs-Szatmár-Bereg | Útépítő | 34 582 11 |
 
@@ -1684,7 +1684,7 @@
 
 | 842. | XVI/37. | Szabolcs-Szatmár-Bereg | Vasútépítő és -fenntartó technikus | 54 582 06 |
 
-| 843. | XVI/38. | Szabolcs-Szatmár-Bereg | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 843. | XVI/38. | Szabolcs-Szatmár-Bereg | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 844. | XVI/39. | Szabolcs-Szatmár-Bereg | Vízi közlekedésüzemvitel-ellátó | 54 841 08 |
 
@@ -1754,7 +1754,7 @@
 
 | 877. | XVII/32. | Tolna | Speciális állatfeldolgozó | 35 541 01 |
 
-| 878. | XVII/33. | Tolna | Térképész szaktechnikus | 55 581 01 |
+| 878. | XVII/33. | Tolna | Térképész szaktechnikus | 55 581 03 |
 
 | 879. | XVII/34. | Tolna | Útépítő és -fenntartó technikus | 54 582 05 |
 
@@ -1784,7 +1784,7 @@
 
 | 892. | XVIII/7. | Vas | Erdészeti gépésztechnikus | 54 521 02 |
 
-| 893. | XVIII/8. | Vas | Fatárgy készítő | 35 215 01 |
+| 893. |  |  |  |  |
 
 | 894. | XVIII/9. | Vas | Fegyverműszerész | 54 863 01 |
 
@@ -1834,7 +1834,7 @@
 
 | 917. | XVIII/32. | Vas | Laboratóriumi technikus | 54 524 01 |
 
-| 918. | XVIII/33. | Vas | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 918. | XVIII/33. | Vas | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 919. | XVIII/34. | Vas | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -1844,7 +1844,7 @@
 
 | 922. | XVIII/37. | Vas | Matróz-gépkezelő | 34 841 02 |
 
-| 923. | XVIII/38. | Vas | Molnár | 32 541 01 |
+| 923. | XVIII/38. | Vas | Molnár | 34 541 04 |
 
 | 924. | XVIII/39. | Vas | Motorkerékpár-szerelő | 34 525 07 |
 
@@ -1874,7 +1874,7 @@
 
 | 937. | XVIII/52. | Vas | Papíripari technikus | 55 524 04 |
 
-| 938. | XVIII/53. | Vas | Pedagógiai- és családsegítő | 54 140 02 |
+| 938. | XVIII/53. | Vas | Pedagógiai- és családsegítő munkatárs | 54 140 02 |
 
 | 939. | XVIII/54. | Vas | Rekonstrukciós és műemléki festő, mázoló | 35 582 06 |
 
@@ -2022,7 +2022,7 @@
 
 | 1011. | XIX/48. | Veszprém | Közúti közlekedésüzemvitel-ellátó | 54 841 02 |
 
-| 1012. | XIX/49. | Veszprém | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 1012. | XIX/49. | Veszprém | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 1013. | XIX/50. | Veszprém | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -2044,7 +2044,7 @@
 
 | 1022. | XIX/59. | Veszprém | Papíripari technikus | 55 524 04 |
 
-| 1023. | XIX/60. | Veszprém | Pedagógiai- és családsegítő | 54 140 02 |
+| 1023. | XIX/60. | Veszprém | Pedagógiai- és családsegítő munkatárs | 54 140 02 |
 
 | 1024. | XIX/61. | Veszprém | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) | 54 343 01 |
 
@@ -2060,7 +2060,7 @@
 
 | 1030. | XIX/67. | Veszprém | Tejipari szaktechnikus | 55 541 08 |
 
-| 1031. | XIX/68. | Veszprém | Térképész szaktechnikus | 55 581 01 |
+| 1031. | XIX/68. | Veszprém | Térképész szaktechnikus | 55 581 03 |
 
 | 1032. | XIX/69. | Veszprém | Természetvédelmi szaktechnikus | 55 850 05 |
 
@@ -2086,7 +2086,7 @@
 
 | 1043. | XIX/80. | Veszprém | Vasútijármű-technikus | 55 525 03 |
 
-| 1044. | XIX/81. | Veszprém | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 1044. | XIX/81. | Veszprém | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 1045. | XIX/82. | Veszprém | Vízépítő technikus | 55 582 03 |
 
@@ -2142,7 +2142,7 @@
 
 | 1071. | XX/22. | Zala | Erjedés- és üdítőitalipari szaktechnikus | 55 541 03 |
 
-| 1072. | XX/23. | Zala | Fatárgy készítő | 35 215 01 |
+| 1072. |  |  |  |  |
 
 | 1073. | XX/24. | Zala | Fegyverműszerész | 54 863 01 |
 
@@ -2208,7 +2208,7 @@
 
 | 1104. | XX/55. | Zala | Laboratóriumi technikus | 54 524 01 |
 
-| 1105. | XX/56. | Zala | Látszerész és fotócikk-kereskedő | 54 725 04 |
+| 1105. | XX/56. | Zala | Látszerész és fotócikk-kereskedő | 54 725 01 |
 
 | 1106. | XX/57. | Zala | Légi közlekedésüzemvitel-ellátó | 54 841 03 |
 
@@ -2222,7 +2222,7 @@
 
 | 1111. | XX/62. | Zala | Matróz-gépkezelő | 34 841 02 |
 
-| 1112. | XX/63. | Zala | Molnár | 32 541 01 |
+| 1112. | XX/63. | Zala | Molnár | 34 541 04 |
 
 | 1113. | XX/64. | Zala | Műanyagfeldolgozó technikus | 54 521 06 |
 
@@ -2252,7 +2252,7 @@
 
 | 1126. | XX/77. | Zala | Patkolókovács | 35 521 03 |
 
-| 1127. | XX/78. | Zala | Pedagógiai- és családsegítő | 54 140 02 |
+| 1127. | XX/78. | Zala | Pedagógiai- és családsegítő munkatárs | 54 140 02 |
 
 | 1128. | XX/79. | Zala | Pszichiátriai gondozó | 55 762 04 |
 
@@ -2282,7 +2282,7 @@
 
 | 1141. | XX/92. | Zala | Települési környezetvédelmi szaktechnikus | 55 850 04 |
 
-| 1142. | XX/93. | Zala | Térképész szaktechnikus | 55 581 01 |
+| 1142. | XX/93. | Zala | Térképész szaktechnikus | 55 581 03 |
 
 | 1143. | XX/94. | Zala | Útépítő | 34 582 11 |
 
@@ -2304,7 +2304,7 @@
 
 | 1152. | XX/103. | Zala | Vasútijármű-technikus | 55 525 03 |
 
-| 1153. | XX/104. | Zala | Vidékfejlesztési szaktechnikus | 55 581 02 |
+| 1153. | XX/104. | Zala | Vidékfejlesztési szaktechnikus | 55 581 04 |
 
 | 1154. | XX/105. | Zala | Virágdekoratőr | 35 215 02 |
 

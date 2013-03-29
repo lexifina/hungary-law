@@ -52,7 +52,7 @@
 
 | 26. | VI/6. | Zala | Sport |
 
-3. melléklet a 331/2012. (XI. 28.) Korm. rendelethez
+3. melléklet a 331/2012. (XI. 28.) Korm. rendelethez[^4]
 
 Szakiskolai tanulmányi ösztöndíjra jogosító szakiskolai szakképesítések a 2013/2014-es tanévben induló képzésekben
 
@@ -234,7 +234,7 @@ Szakiskolai tanulmányi ösztöndíjra jogosító szakiskolai szakképesítések
 
 | 89. | IX/7. | Hajdú-Bihar | Mezőgazdasági gépész | 3452108 |
 
-| 90. | IX/8. | Hajdú-Bihar | Pék | 3454104 |
+| 90. | IX/8. | Hajdú-Bihar | Pék | 3454105 |
 
 | 91. | IX/9. | Hajdú-Bihar | Szociális gondozó és ápoló | 3476201 |
 
@@ -274,7 +274,7 @@ Szakiskolai tanulmányi ösztöndíjra jogosító szakiskolai szakképesítések
 
 | 109. | XI/7. | Jász-Nagykun-Szolnok | Mezőgazdasági gépész | 3452108 |
 
-| 110. | XI/8. | Jász-Nagykun-Szolnok | Pék | 3454104 |
+| 110. | XI/8. | Jász-Nagykun-Szolnok | Pék | 3454105 |
 
 | 111. | XI/9. | Jász-Nagykun-Szolnok | Szociális gondozó és ápoló | 3476201 |
 
@@ -354,7 +354,7 @@ Szakiskolai tanulmányi ösztöndíjra jogosító szakiskolai szakképesítések
 
 | 149. | XV/7. | Szabolcs-Szatmár-Bereg | Mezőgazdasági gépész | 3452108 |
 
-| 150. | XV/8. | Szabolcs-Szatmár-Bereg | Pék | 3454104 |
+| 150. | XV/8. | Szabolcs-Szatmár-Bereg | Pék | 3454105 |
 
 | 151. | XV/9. | Szabolcs-Szatmár-Bereg | Szociális gondozó és ápoló | 3476201 |
 
@@ -439,3 +439,5 @@ Szakiskolai tanulmányi ösztöndíjra jogosító szakiskolai szakképesítések
 | 191. | XIX/9. | Zala | Szociális gondozó és ápoló | 3476201 |
 
 | 192. | XIX/10. | Zala | Villanyszerelő | 3452204 |
+
+[^4]: Az 1. melléklet a 84/2013. (III. 21.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
