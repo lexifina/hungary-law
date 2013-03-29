@@ -1,10 +1,10 @@
-## 1. §[^1] A rendelet hatálya a Honvédelmi Minisztérium, a Honvédelmi Minisztérium hivatalai és háttérintézményei, a Magyar Honvédség (a továbbiakban: MH) katonai szervezetei, valamint a miniszter közvetlen irányítása és felügyelete alá tartozó szervezetek hivatásos és szerződéses katonáira, alkalmazási köre az általuk betölthető beosztásokra, munkakörökre terjed ki.
+## 1. §[^2]
 
 ## Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
 
-a) beosztás: az MH hivatásos és szerződéses állományú katonái (a továbbiakban együtt: állomány) által betöltött munkakör, amelyhez meghatározott jog- és hatáskör, felelősség és kötelezettség, általános vagy speciális előmeneteli rend, valamint járandóság kötődik;
+a)[^3] beosztás: a Magyar Honvédség (a továbbiakban: MH) hivatásos és szerződéses állományú katonái (a továbbiakban együtt: állomány) által betöltött munkakör, amelyhez meghatározott jog- és hatáskör, felelősség és kötelezettség, általános vagy speciális előmeneteli rend, valamint járandóság kötődik;
 
 b) munkakör: a munkafolyamat, tevékenység alapegysége, amely a munkamegosztás alapján elkülönül és meghatározza a betöltőjének elvégzendő feladatait, az azok ellátásához szükséges szakmai, egészségi, pszichikai, fizikai követelményeket;
 
@@ -20,10 +20,14 @@ g) munkaköri követelmények: a munkakör betöltőjével szemben támasztott a
 
 h) a katonai szolgálatra való egészségi, pszichikai, fizikai alkalmasság (a továbbiakban együtt: alkalmasság): az állomány tagjának olyan egészségi állapota (szervi, pszichikai és fizikai adottságai), amely alapján képes a beosztása ellátására, az ezzel kapcsolatos sajátos terhelésekhez történő zavartalan alkalmazkodásra és a katonai szakmai követelmények teljesítésére;
 
-i)[^2] Jegyzék: az MH rendszeresített beosztástípusaira vonatkozó egységes, részletes követelmények gyűjteménye;
+i)[^4] Jegyzék: az MH rendszeresített beosztástípusaira vonatkozó egységes, részletes követelmények gyűjteménye;
 
-j)[^3] Munkakör Azonosító Kód (a továbbiakban: MAK): a munkakör azonosítására, egyidejűleg annak betöltéséhez szükséges követelmények egy részének jelölésére szolgáló, 11 karakterből álló betű-szám összetétel (1. számú melléklet).
+j)[^5] Munkakör Azonosító Kód (a továbbiakban: MAK): a munkakör azonosítására, egyidejűleg annak betöltéséhez szükséges követelmények egy részének jelölésére szolgáló, 11 karakterből álló betű-szám összetétel (1. számú melléklet).
 
-[^1]: Az 1. § a 34/2003. (XII. 13.) HM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § i) pontját a 34/2003. (XII. 13.) HM rendelet 2. §-a iktatta a szövegbe.
-[^3]: A 2. § j) pontját a 34/2003. (XII. 13.) HM rendelet 2. §-a iktatta a szövegbe.
+k)[^6] belső képzés: a Honvéd Vezérkar főnöke által jóváhagyott, az első altiszti és zászlósi beosztásokra felkészítő tanfolyamrendszerű képzés, valamint a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója által jóváhagyott, a KNBSZ által a saját állománya számára szervezett és lefolytatott, a beosztás ellátására felkészítő, valamint rendfokozati előmenetelt biztosító tanfolyamrendszerű képzés.
+
+[^2]: Az 1. §-t az 1/2013. (III. 21.) HM rendelet 4. §-a hatályon kívül helyezte.
+[^3]: A 2. § a) pontja az 1/2013. (III. 21.) HM rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § i) pontját a 34/2003. (XII. 13.) HM rendelet 2. §-a iktatta a szövegbe.
+[^5]: A 2. § j) pontját a 34/2003. (XII. 13.) HM rendelet 2. §-a iktatta a szövegbe.
+[^6]: A 2. § k) pontját az 1/2013. (III. 21.) HM rendelet 1. §-a iktatta be.
