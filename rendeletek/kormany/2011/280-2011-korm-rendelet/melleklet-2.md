@@ -1912,15 +1912,15 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 146. | 5221501 | Gyakorló hangszerkészítő és -javító (hangszercsoport megjelölésével) | 1,3662 |
 
-| 147. | 5272501 | Gyakorló képi diagnosztikai, nukleáris medicina és sugárterápiás asszisztens | 1,3776 |
+| 147. | 5272502 | Gyakorló képi diagnosztikai, nukleáris medicina és sugárterápiás asszisztens | 1,3776 |
 
-| 148. | 5272502 | Gyakorló klinikai laboratóriumi asszisztens | 1,1271 |
+| 148. | 5272503 | Gyakorló klinikai laboratóriumi asszisztens | 1,1271 |
 
 | 149. | 5281502 | Gyakorló kozmetikus | 1,2420 |
 
 | 150. | 5272303 | Gyakorló mentőápoló | 1,2524 |
 
-| 151. | 5272503 | Gyakorló szövettani asszisztens | 1,3776 |
+| 151. | 5272504 | Gyakorló szövettani asszisztens | 1,3776 |
 
 | 152. | 3452105 | Gyártósori gépbeállító | 1,5028 |
 
@@ -1938,7 +1938,7 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 159. | 3152402 | Gyógyszer-készítménygyártó | 1,3776 |
 
-| 160. | 5572002 | Gyógyszertári asszisztens | 1,1385 |
+| 160. | 5572003 | Gyógyszertári asszisztens | 1,1385 |
 
 | 161. | 3181102 | Gyorséttermi ételeladó | 1,1178 |
 
@@ -2050,7 +2050,7 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 215. | 5421302 | Kiadványszerkesztő | 0,9900 |
 
-| 216. | 5476102 | Kisgyermek-gondozó, nevelő | 0,9315 |
+| 216. | 5476102 | Kisgyermekgondozó, -nevelő | 0,9315 |
 
 | 217. | 3454305 | Kishajóépítő, -karbantartó | 1,0890 |
 
@@ -2098,9 +2098,9 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 239. | 2154201 | Lakástextil-készítő | 1,2420 |
 
-| 240. | 5521401 | Lakberendező | 1,1385 |
+| 240. | 5521106 | Lakberendező | 1,1385 |
 
-| 241. | 5472504 | Látszerész és fotócikk-kereskedő | 1,1880 |
+| 241. | 5472501 | Látszerész és fotócikk-kereskedő | 1,1880 |
 
 | 242. | 5484103 | Légi közlekedésüzemvitel-ellátó | 0,7217 |
 
@@ -2146,7 +2146,7 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 263. | 5462102 | Mezőgazdasági technikus | 1,1979 |
 
-| 264. | 3254101 | Molnár | 1,3776 |
+| 264. | 3254104 | Molnár | 1,3776 |
 
 | 265. | 2162302 | Motorfűrész-kezelő | 1,1979 |
 
@@ -2220,9 +2220,9 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 300. | 3552103 | Patkolókovács | 1,5028 |
 
-| 301. | 5414002 | Pedagógiai- és családsegítő | 0,7545 |
+| 301. | 5414002 | Pedagógiai- és családsegítő munkatárs | 0,7545 |
 
-| 302. | 3454104 | Pék | 1,5057 |
+| 302. | 3454105 | Pék | 1,5057 |
 
 | 303. | 5134303 | Pénztárkezelő és valutapénztáros | 0,8100 |
 
@@ -2238,220 +2238,222 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 309. | 5152301 | PLC programozó | 0,9900 |
 
-| 310. | 5121301 | Produkciós asszisztens | 1,0781 |
+| 310. | 5484109 | Postai üzleti ügyintéző | 0,8019 |
 
-| 311. | 5576204 | Pszichiátriai gondozó | 0,9315 |
+| 311. | 5121301 | Produkciós asszisztens | 1,0781 |
 
-| 312. | 3134104 | Raktáros | 1,0800 |
+| 312. | 5576204 | Pszichiátriai gondozó | 0,9315 |
 
-| 313. | 5476201 | Rehabilitációs nevelő, segítő | 0,9315 |
+| 313. | 3134104 | Raktáros | 1,0800 |
 
-| 314. | 3558206 | Rekonstrukciós és műemléki festő, mázoló | 1,0692 |
+| 314. | 5476201 | Rehabilitációs nevelő, segítő | 0,9315 |
 
-| 315. | 5122301 | Relé jelnyelvi tolmács | 0,6521 |
+| 315. | 3558206 | Rekonstrukciós és műemléki festő, mázoló | 1,0692 |
 
-| 316. | 5452505 | Repülőgépész | 1,0247 |
+| 316. | 5122301 | Relé jelnyelvi tolmács | 0,6521 |
 
-| 317. | 5452506 | Repülőgépsárkány-szerelő | 1,1385 |
+| 317. | 5452505 | Repülőgépész | 1,0247 |
 
-| 318. | 5121302 | Rögzítésvezető | 1,0247 |
+| 318. | 5452506 | Repülőgépsárkány-szerelő | 1,1385 |
 
-| 319. | 5454202 | Ruhaipari technikus | 1,0247 |
+| 319. | 5121302 | Rögzítésvezető | 1,0247 |
 
-| 320. | 3154107 | Sajtkészítő | 1,3068 |
+| 320. | 5454202 | Ruhaipari technikus | 1,0247 |
 
-| 321. | 3158204 | Sírkő és műkőkészítő | 1,3662 |
+| 321. | 3154107 | Sajtkészítő | 1,3068 |
 
-| 322. | 3581101 | Sommelier | 1,3776 |
+| 322. | 3158204 | Sírkő és műkőkészítő | 1,3662 |
 
-| 323. | 3154108 | Sörgyártó | 1,5028 |
+| 323. | 3581101 | Sommelier | 1,3776 |
 
-| 324. | 3554101 | Speciális állatfeldolgozó | 1,5711 |
+| 324. | 3154108 | Sörgyártó | 1,5028 |
 
-| 325. | 5481302 | Sportedző (a sportág megjelölésével) | 1,0247 |
+| 325. | 3554101 | Speciális állatfeldolgozó | 1,5711 |
 
-| 326. | 3181301 | Sportoktató (a sportág megjelölésével) | 1,0247 |
+| 326. | 5481302 | Sportedző (a sportág megjelölésével) | 1,0247 |
 
-| 327. | 5554106 | Sütő- és cukrászipari szaktechnikus | 1,5057 |
+| 327. | 3181301 | Sportoktató (a sportág megjelölésével) | 1,0247 |
 
-| 328. | 2154102 | Sütőipari és gyorspékségi munkás | 1,3662 |
+| 328. | 5554106 | Sütő- és cukrászipari szaktechnikus | 1,5057 |
 
-| 329. | 3481104 | Szakács | 1,5028 |
+| 329. | 2154102 | Sütőipari és gyorspékségi munkás | 1,3662 |
 
-| 330. | 5484104 | Szállítmányozási ügyintéző | 0,7200 |
+| 330. | 3481104 | Szakács | 1,5028 |
 
-| 331. | 3134602 | Számítógépes adatrögzítő | 0,8019 |
+| 331. | 5484104 | Szállítmányozási ügyintéző | 0,7200 |
 
-| 332. | 3148101 | Számítógépes műszaki rajzoló | 0,9801 |
+| 332. | 3134602 | Számítógépes adatrögzítő | 0,8019 |
 
-| 333. | 3452302 | Számítógép-szerelő, karbantartó | 1,1979 |
+| 333. | 3148101 | Számítógépes műszaki rajzoló | 0,9801 |
 
-| 334. | 3458210 | Szárazépítő | 1,2420 |
+| 334. | 3452302 | Számítógép-szerelő, karbantartó | 1,1979 |
 
-| 335. | 5576205 | Szenvedélybeteg gondozó | 0,9315 |
+| 335. | 3458210 | Szárazépítő | 1,2420 |
 
-| 336. | 3452110 | Szerszámkészítő | 2,0076 |
+| 336. | 5576205 | Szenvedélybeteg gondozó | 0,9315 |
 
-| 337. | 5521201 | Színész II. | 1,2420 |
+| 337. | 3452110 | Szerszámkészítő | 2,0076 |
 
-| 338. | 5452107 | Színháztechnikus, szcenikus | 1,3662 |
+| 338. | 5521201 | Színész II. | 1,2420 |
 
-| 339. | 5152102 | Színpadmester | 1,0247 |
+| 339. | 5452107 | Színháztechnikus, szcenikus | 1,3662 |
 
-| 340. | 2158201 | Szobafestő | 1,3662 |
+| 340. | 5152102 | Színpadmester | 1,0247 |
 
-| 341. | 5421107 | Szobrász | 1,5028 |
+| 341. | 2158201 | Szobafestő | 1,3662 |
 
-| 342. | 5476202 | Szociális asszisztens | 0,9315 |
+| 342. | 5421107 | Szobrász | 1,5028 |
 
-| 343. | 3476201 | Szociális gondozó és ápoló | 1,1385 |
+| 343. | 5476202 | Szociális asszisztens | 0,9315 |
 
-| 344. | 5476203 | Szociális szakgondozó | 0,9315 |
+| 344. | 3476201 | Szociális gondozó és ápoló | 1,1385 |
 
-| 345. | 5576206 | Szociális, gyermek- és ifjúságvédelmi ügyintéző | 0,9315 |
+| 345. | 5476203 | Szociális szakgondozó | 0,9315 |
 
-| 346. | 5421305 | Szoftverfejlesztő | 0,8910 |
+| 346. | 5576206 | Szociális, gyermek- és ifjúságvédelmi ügyintéző | 0,9315 |
 
-| 347. | 5148102 | Szoftverüzemeltető-alkalmazásgazda | 0,9801 |
+| 347. | 5421305 | Szoftverfejlesztő | 0,8910 |
 
-| 348. | 5421208 | Szórakoztató zenész (a szakmairány megjelölésével) | 1,1271 |
+| 348. | 5148102 | Szoftverüzemeltető-alkalmazásgazda | 0,9801 |
 
-| 349. | 3454105 | Szőlész-borász | 1,5028 |
+| 349. | 5421208 | Szórakoztató zenész (a szakmairány megjelölésével) | 1,1271 |
 
-| 350. | 5572516 | Szövettani asszisztens | 1,3776 |
+| 350. | 3454106 | Szőlész-borász | 1,5028 |
 
-| 351. | 3154208 | Szövő | 1,1880 |
+| 351. | 5572516 | Szövettani asszisztens | 1,3776 |
 
-| 352. | 5421209 | Táncos (szakmairány megjelölésével) | 1,2110 |
+| 352. | 3154208 | Szövő | 1,1880 |
 
-| 353. | 5134402 | Társadalombiztosítási ügyintéző | 0,7128 |
+| 353. | 5421209 | Táncos (szakmairány megjelölésével) | 1,2110 |
 
-| 354. | 5554107 | Tartósítóipari szaktechnikus | 1,3688 |
+| 354. | 5134402 | Társadalombiztosítási ügyintéző | 0,7128 |
 
-| 355. | 3152301 | Távközlési és informatikai hálózatszerelő | 0,9900 |
+| 355. | 5554107 | Tartósítóipari szaktechnikus | 1,3688 |
 
-| 356. | 5452305 | Távközlési technikus | 0,8100 |
+| 356. | 3152301 | Távközlési és informatikai hálózatszerelő | 0,9900 |
 
-| 357. | 5152302 | Távközlési üzemeltető | 0,7200 |
+| 357. | 5452305 | Távközlési technikus | 0,8100 |
 
-| 358. | 5554108 | Tejipari szaktechnikus | 1,3776 |
+| 358. | 5152302 | Távközlési üzemeltető | 0,7200 |
 
-| 359. | 3154109 | Tejtermékgyártó | 1,5028 |
+| 359. | 5554108 | Tejipari szaktechnikus | 1,3776 |
 
-| 360. | 5585004 | Települési környezetvédelmi szaktechnikus | 0,8100 |
+| 360. | 3154109 | Tejtermékgyártó | 1,5028 |
 
-| 361. | 5158103 | Térinformatikai ügyintéző | 0,8910 |
+| 361. | 5585004 | Települési környezetvédelmi szaktechnikus | 0,8100 |
 
-| 362. | 5558101 | Térképész szaktechnikus | 0,9900 |
+| 362. | 5158103 | Térinformatikai ügyintéző | 0,8910 |
 
-| 363. | 5585005 | Természetvédelmi szaktechnikus | 0,8910 |
+| 363. | 5558103 | Térképész szaktechnikus | 0,9900 |
 
-| 364. | 3558207 | Tetőfedő | 1,2524 |
+| 364. | 5585005 | Természetvédelmi szaktechnikus | 0,8910 |
 
-| 365. | 5454203 | Textilipari technikus | 0,9315 |
+| 365. | 3558207 | Tetőfedő | 1,2524 |
 
-| 366. | 5421108 | Textilműves | 1,3662 |
+| 366. | 5454203 | Textilipari technikus | 0,9315 |
 
-| 367. | 2154202 | Textiltermék-összeállító | 1,2420 |
+| 367. | 5421108 | Textilműves | 1,3662 |
 
-| 368. | 5481203 | Turisztikai szervező, értékesítő | 0,9801 |
+| 368. | 2154202 | Textiltermék-összeállító | 1,2420 |
 
-| 369. | 3158205 | Tüzelőberendezés égéstermék elvezető készítő | 1,3662 |
+| 369. | 5481203 | Turisztikai szervező, értékesítő | 0,9801 |
 
-| 370. | 5181201 | Utazásügyintéző | 0,9801 |
+| 370. | 3158205 | Tüzelőberendezés égéstermék elvezető készítő | 1,3662 |
 
-| 371. | 3458211 | Útépítő | 1,3776 |
+| 371. | 5181201 | Utazásügyintéző | 0,9801 |
 
-| 372. | 5458205 | Útépítő és -fenntartó technikus | 0,8910 |
+| 372. | 3458211 | Útépítő | 1,3776 |
 
-| 373. | 5121303 | Utómunka asszisztens | 0,8910 |
+| 373. | 5458205 | Útépítő és -fenntartó technikus | 0,8910 |
 
-| 374. | 3154110 | Üdítőital-ipari termékgyártó | 1,3068 |
+| 374. | 5121303 | Utómunka asszisztens | 0,8910 |
 
-| 375. | 5434602 | Ügyviteli titkár | 0,8019 |
+| 375. | 3154110 | Üdítőital-ipari termékgyártó | 1,3068 |
 
-| 376. | 5421109 | Üvegműves | 1,5028 |
+| 376. | 5434602 | Ügyviteli titkár | 0,8019 |
 
-| 377. | 5586302 | Vadászpuska műves | 1,5028 |
+| 377. | 5421109 | Üvegműves | 1,5028 |
 
-| 378. | 2154103 | Vágóhídi munkás | 1,4157 |
+| 378. | 5586302 | Vadászpuska műves | 1,5028 |
 
-| 379. | 5434402 | Vállalkozási és bérügyintéző | 0,7200 |
+| 379. | 2154103 | Vágóhídi munkás | 1,4157 |
 
-| 380. | 5434403 | Vám-, jövedéki- és termékdíj ügyintéző | 0,7200 |
+| 380. | 5434402 | Vállalkozási és bérügyintéző | 0,7200 |
 
-| 381. | 5134403 | Vámügyintéző | 0,7128 |
+| 381. | 5434403 | Vám-, jövedéki- és termékdíj ügyintéző | 0,7200 |
 
-| 382. | 5458206 | Vasútépítő és -fenntartó technikus | 0,8910 |
+| 382. | 5134403 | Vámügyintéző | 0,7128 |
 
-| 383. | 5484105 | Vasútforgalmi szolgálattevő | 0,7290 |
+| 383. | 5458206 | Vasútépítő és -fenntartó technikus | 0,8910 |
 
-| 384. | 5484106 | Vasúti árufuvarozási ügyintéző | 0,6930 |
+| 384. | 5484105 | Vasútforgalmi szolgálattevő | 0,7290 |
 
-| 385. | 5484107 | Vasúti személyszállítási ügyintéző | 0,8100 |
+| 385. | 5484106 | Vasúti árufuvarozási ügyintéző | 0,6930 |
 
-| 386. | 5452507 | Vasúti villamos jármű szerelője | 1,1385 |
+| 386. | 5484107 | Vasúti személyszállítási ügyintéző | 0,8100 |
 
-| 387. | 5452508 | Vasúti vontatott jármű szerelője | 1,1385 |
+| 387. | 5452507 | Vasúti villamos jármű szerelője | 1,1385 |
 
-| 388. | 5552503 | Vasútijármű-technikus | 0,8910 |
+| 388. | 5452508 | Vasúti vontatott jármű szerelője | 1,1385 |
 
-| 389. | 3152403 | Vegyianyaggyártó | 1,2524 |
+| 389. | 5552503 | Vasútijármű-technikus | 0,8910 |
 
-| 390. | 5452402 | Vegyipari technikus | 1,0247 |
+| 390. | 3152403 | Vegyianyaggyártó | 1,2524 |
 
-| 391. | 5481101 | Vendéglátásszervező-vendéglős | 1,3776 |
+| 391. | 5452402 | Vegyipari technikus | 1,0247 |
 
-| 392. | 3481105 | Vendéglátó eladó | 1,0692 |
+| 392. | 5481101 | Vendéglátásszervező-vendéglős | 1,3776 |
 
-| 393. | 3581102 | Vendéglátó-üzletvezető | 1,2524 |
+| 393. | 3481105 | Vendéglátó eladó | 1,0692 |
 
-| 394. | 5558102 | Vidékfejlesztési szaktechnikus | 1,0890 |
+| 394. | 3581102 | Vendéglátó-üzletvezető | 1,2524 |
 
-| 395. | 5152103 | Világítástechnikus | 1,2524 |
+| 395. | 5558104 | Vidékfejlesztési szaktechnikus | 1,0890 |
 
-| 396. | 3452204 | Villanyszerelő | 1,8368 |
+| 396. | 5152103 | Világítástechnikus | 1,2524 |
 
-| 397. | 3154111 | Vincellér | 1,4157 |
+| 397. | 3452204 | Villanyszerelő | 1,8368 |
 
-| 398. | 3121501 | Virágbolti eladó | 1,1178 |
+| 398. | 3154111 | Vincellér | 1,4157 |
 
-| 399. | 3521502 | Virágdekoratőr | 1,1783 |
+| 399. | 3121501 | Virágbolti eladó | 1,1178 |
 
-| 400. | 3121502 | Virágkötő | 1,2296 |
+| 400. | 3521502 | Virágdekoratőr | 1,1783 |
 
-| 401. | 3421504 | Virágkötő és virágkereskedő | 1,3177 |
+| 401. | 3121502 | Virágkötő | 1,2296 |
 
-| 402. | 3485301 | Víz- és csatornaműkezelő | 1,2524 |
+| 402. | 3421504 | Virágkötő és virágkereskedő | 1,3177 |
 
-| 403. | 5185301 | Víz- és szennyvízkezelő | 0,9801 |
+| 403. | 3485301 | Víz- és csatornaműkezelő | 1,2524 |
 
-| 404. | 3458212 | Víz-, csatorna- és közmű-rendszerszerelő | 1,8368 |
+| 404. | 5185301 | Víz- és szennyvízkezelő | 0,9801 |
 
-| 405. | 5558203 | Vízépítő technikus | 0,8910 |
+| 405. | 3458212 | Víz-, csatorna- és közmű-rendszerszerelő | 1,8368 |
 
-| 406. | 5585006 | Vízgazdálkodó szaktechnikus | 0,8100 |
+| 406. | 5558203 | Vízépítő technikus | 0,8910 |
 
-| 407. | 3558208 | Vízgépészeti és technológiai berendezésszerelő | 1,5028 |
+| 407. | 5585006 | Vízgazdálkodó szaktechnikus | 0,8100 |
 
-| 408. | 5484108 | Vízi közlekedésüzemvitel-ellátó | 0,7200 |
+| 408. | 3558208 | Vízgépészeti és technológiai berendezésszerelő | 1,5028 |
 
-| 409. | 3552501 | Vizi sportmotor-szerelő | 0,8100 |
+| 409. | 5484108 | Vízi közlekedésüzemvitel-ellátó | 0,7200 |
 
-| 410. | 3185303 | Vízkárelhárító | 1,4801 |
+| 410. | 3552501 | Vizi sportmotor-szerelő | 0,8100 |
 
-| 411. | 3185304 | Vízműkezelő | 1,4801 |
+| 411. | 3185303 | Vízkárelhárító | 1,4801 |
 
-| 412. | 5485301 | Vízügyi technikus | 0,8910 |
+| 412. | 3185304 | Vízműkezelő | 1,4801 |
 
-| 413. | 3152109 | Volfrámelektródás védőgázas ívhegesztő | 1,6425 |
+| 413. | 5485301 | Vízügyi technikus | 0,8910 |
 
-| 414. | 5148103 | Webmester | 0,8910 |
+| 414. | 3152109 | Volfrámelektródás védőgázas ívhegesztő | 1,6425 |
 
-| 415. | 3154112 | Zöldség- és gyümölcsfeldolgozó | 1,3068 |
+| 415. | 5148103 | Webmester | 0,8910 |
 
-| 416. | 3562202 | Zöldség- és gyümölcstermesztő | 1,1385 |
+| 416. | 3154112 | Zöldség- és gyümölcsfeldolgozó | 1,3068 |
 
-| 417. | 3158206 | Zsaluzóács | 1,5028 |
+| 417. | 3562202 | Zöldség- és gyümölcstermesztő | 1,1385 |
 
-[^5]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+| 418. | 3158206 | Zsaluzóács | 1,5028 |
+
+[^5]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 84/2013. (III. 21.) Korm. rendelet 9. §-a szerint módosított szöveg.
