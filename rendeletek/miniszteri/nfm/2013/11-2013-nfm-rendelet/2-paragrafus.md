@@ -1,3 +1,0 @@
-## 1. § A földgáz biztonsági készlet mértékéről, értékesítéséről és visszapótlásáról szóló 13/2011. (IV. 7.) NFM rendelet (a továbbiakban: R.) a következő 1. §-sal egészül ki:
-
-## „1. § A földgáz biztonsági készlet elhelyezésére szolgáló biztonsági földgáztároló a Magyar Energia Hivatal által a 256/2009. számon kiadott, a 637/2013. számú határozattal módosított földgáztárolási engedély szerint üzemeltetett „Szőreg-1” védnévvel ellátott földgáztároló (a továbbiakban: biztonsági készletezésre igénybe vett földgáztároló). A biztonsági készletezésre igénybe vett földgáztárolóban kell elhelyezni a földgáz biztonsági készlet e rendeletben meghatározott mértékét.”
