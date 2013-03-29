@@ -6,11 +6,7 @@
 
 ## Határidő: 2013. december 31.
 
-## 3. visszavonja
-
-## a) a Kutatási és Technológiai Innovációs Alap felhasználási tervének jóváhagyásáról szóló 1036/2013. (II. 1.) Korm. határozatot, és
-
-## b) a Kutatási és Technológiai Innovációs Alap felhasználási tervének jóváhagyásáról szóló 1036/2013. (II. 1.) Korm. határozat módosításáról szóló 1132/2013. (III. 14.) Korm. határozatot.
+## 3.[^2]
 
 1. melléklet az 1162/2013. (III. 28.) Korm. határozathoz
 
@@ -35,3 +31,5 @@ A Kutatási és Technológiai Innovációs Alapból 2013. évben újonnan meghir
 | K+F+I ernyőpályázat egyes, a Kormánnyal Stratégiai Megállapodást kötő vállalkozások számára | 8,8 | 2,6 | 2013. I. félév |
 
 | Összesen | 43,37 | 15,6 |  |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
