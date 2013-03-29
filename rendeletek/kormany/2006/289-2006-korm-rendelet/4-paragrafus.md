@@ -24,7 +24,7 @@ c) közreműködik a nyugellátásokkal, valamint a nyugdíjbiztosítást érint
 
 d) irányítja, működteti és fejleszti a feladatainak ellátásához szükséges informatikai rendszereket, gondoskodik a statisztikai adatok gyűjtéséről, valamint azok jogszabályban meghatározottak szerinti közzétételéről,
 
-e)[^15] szakmai szempontból segíti és ellenőrzi jogszabály alapján a nyugdíjbiztosítás szervezetén kívüli, ellátást megállapító és folyósító tevékenységet, ideértve a Magyar Honvédség és az Információs Hivatal nyugdíj-megállapítási tevékenységét is,
+e)[^15] szakmai szempontból segíti és ellenőrzi jogszabály alapján a nyugdíjbiztosítás szervezetén kívüli, ellátást megállapító és folyósító tevékenységet,
 
 f) részt vesz a nyugdíjbiztosítást érintő folyamatok elemzésében és értékelésében, valamint – a Kormány, illetve a miniszter által meghatározott keretek között, illetőleg módon – a rövid, közép- és hosszú távú nyugdíjstratégiai és fejlesztési koncepciók kidolgozásában,
 
@@ -41,5 +41,5 @@ i)[^16] ellátja a köztársasági elnök jogállásáról és javadalmazásár�
 [^12]: A 4. § (1) bekezdés d) pontja a 318/2010. (XII. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^13]: A 4. § (1) bekezdés e) pontja a 318/2010. (XII. 27.) Korm. rendelet 5. §-a, a 152/2011. (VIII. 10.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^14]: A 4. § (1) bekezdés f) pontját a 164/2009. (VIII. 14.) Korm. rendelet 11. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 11. § (5)–(6) bekezdését.
-[^15]: A 4. § (2) bekezdés e) pontja a 21/2011. (III. 2.) Korm. rendelet 15. §-ával megállapított szöveg, e módosító rendelet 14. § (2) bekezdése alapján a 2011. március 3-án folyamatban lévő ügyekben is alkalmazni kell. A jogutódlás tekintetében lásd e módosító rendelet 14. § (1) bekezdését.
+[^15]: A 4. § (2) bekezdés e) pontja a 21/2011. (III. 2.) Korm. rendelet 15. §-ával megállapított, a 90/2013. (III. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^16]: A 4. § (2) bekezdés i) pontját a 332/2008. (XII. 30.) Korm. rendelet 15. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 164/2009. (VIII. 14.) Korm. rendelet 9. §-a iktatta be, szövege a 425/2012. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
