@@ -14,9 +14,9 @@
 
 | 6 | IV. | Pedagógia | 3410/3 Oktatási ügyintéző |
 
-| 7 | V. | Képző- és iparművészet | 7411/4 Dekorációs festő, reklámtábla festő |
+| 7 | V. | Képző- és iparművészet | 7411/4 Dekorációs festő |
 
-| 8 | VI. | Hang-, film és színháztechnika | 3145/24 Hang- és filmlaboráns |
+| 8 | VI. | Hang-, film és színháztechnika | 3145/12 Hangvágó |
 
 | 9 | VII. | Bányászat | 8311/4 Bányaszalag-kezelő |
 
@@ -62,9 +62,9 @@
 
 | 30 | XXVIII. | Turisztika | 4221/4 Turisztikai referens |
 
-| 31 | XXIX. | Optika | 3335/1 Komputeres szemvizsgáló |
+| 31 | XXIX. | Optika | 8137 Fotó és mozgófilmlaboráns |
 
-| 32 | XXX. | Szépészet | 5213/2 Műkörömépítő 5219/7 Szolárium kezelő |
+| 32 | XXX. | Szépészet | 5219/7 Szolárium kezelő |
 
 | 33 | XXXI. | Mezőgazdasági gépész | 8211/3 Fémtermék összeszerelő |
 
@@ -79,5 +79,7 @@
 | 38 | XXXVI. | Élelmiszeripar | 3113/8 Élelmiszeripari laboráns |
 
 | 39 | XXXVII. | Sport | 3410/7 Sporttanfolyam szervező |
+
+| 40 | XXXVIII. | Rendészet | 5259 Egyéb személy- és vagyonvédelmi foglalkozású (személy és vagyonőr, segédfelügyelő) |
 
 4. melléklet a 150/2012. (VII. 6.) Korm. rendelethez

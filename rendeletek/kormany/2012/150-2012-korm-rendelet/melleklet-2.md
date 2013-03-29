@@ -62,7 +62,7 @@
 
 | 29 | 35 | 813 | 01 | Belovagló | 20 | XXXIII | 1 év | 480-720 óra | N, E, TK | agrárpolitikáért felelős miniszter |
 
-| 30 | 53 | 523 | 01 | Beszédátviteli rendszerüzemeltető | 6 | XII | - | 400-600 óra | TK | informatikáért felelős miniszter |
+| 30 | 55 | 523 | 05 | Beszédátviteli rendszerüzemeltető technikus | 6 | XII | - | 400-600 óra | TK | informatikáért felelős miniszter |
 
 | 31 | 32 | 582 | 01 | Betonszerkezet-készítő, betonelem gyártó | 9 | XVI | - | 800-1200 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -74,7 +74,7 @@
 
 | 35 | 35 | 341 | 01 | Boltvezető | 17 | XXVI | - | 240-360 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 36 | 52 | 725 | 01 | Boncmester | 1 | I | - | 500-720 óra | TK | egészségügyért felelős miniszter |
+| 36 | 52 | 725 | 01 | Boncmester | 1 | I | - | 600-720 óra | TK | egészségügyért felelős miniszter |
 
 | 37 | 55 | 541 | 01 | Bor- és pezsgőgyártó szaktechnikus | 21 | XXXVI | 1 év | 480-720 óra | N, E, TK | élelmiszeriparért felelős miniszter |
 
@@ -134,7 +134,7 @@
 
 | 65 | 53 | 853 | 01 | Egészségügyi gázmester | 1 | I | - | 400-600 óra | TK | egészségügyért felelős miniszter |
 
-| 66 | 55 | 146 | 01 | Egészségügyi gyakorlatvezető | 1 | I | - | 1100-1440 óra | TK | egészségügyért felelős miniszter |
+| 66 | 55 | 720 | 01 | Egészségügyi gyakorlatvezető | 1 | I | - | 1100-1440 óra | TK | egészségügyért felelős miniszter |
 
 | 67 | 32 | 853 | 01 | Egészségügyi kártevőírtó és fertőtlenítő | 1 | I | - | 1100-1440 óra | TK | egészségügyért felelős miniszter |
 
@@ -152,11 +152,11 @@
 
 | 74 | 54 | 523 | 02 | Elektronikai technikus | 6 | XI | 2 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 75 | 55 | 523 | 01 | Elektronikus hozzáférési és magánhálózati rendszerüzemeltető | 6 | XII | - | 400-600 óra | TK | informatikáért felelős miniszter |
+| 75 | 55 | 523 | 01 | Elektronikus hozzáférési és magánhálózati rendszerüzemeltető technikus | 6 | XII | - | 400-600 óra | TK | informatikáért felelős miniszter |
 
-| 76 | 55 | 523 | 02 | Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető | 6 | XII | - | 400-600 óra | TK | informatikáért felelős miniszter |
+| 76 | 55 | 523 | 02 | Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető technikus | 6 | XII | - | 400-600 óra | TK | informatikáért felelős miniszter |
 
-| 77 | 33 | 861 | 01 | Elektronikus vagyonvédelmi rendszerszerelő | 19 | XI | - | 250-350 óra | TK | rendészetért felelős miniszter |
+| 77 | 35 | 861 | 01 | Elektronikus vagyonvédelmi rendszerszerelő | 19 | XI | - | 250-350 óra | TK | rendészetért felelős miniszter |
 
 | 78 | 55 | 344 | 04 | Ellenőrzési szakelőadó | 15 | XXIV | - | 240-360 óra | TK, T | számviteli szabályozásért felelős miniszter (államháztartásért felelős miniszter) |
 
@@ -186,7 +186,7 @@
 
 | 91 | 34 | 541 | 01 | Édesipari termékgyártó | 21 | XXXVI | 3 év | 960-1440 óra | N, E, TK | élelmiszeriparért felelős miniszter |
 
-| 92 | 54 | 541 | 01 | Élelmiszeripari analitikus technikus | 21 | XV | 2 év | - | N, E | élelmiszeriparért felelős miniszter |
+| 92 | 54 | 541 | 01 | Élelmiszeripari analitikus technikus | 21 | XXXVI | 2 év | - | N, E | élelmiszeriparért felelős miniszter |
 
 | 93 | 54 | 521 | 01 | Élelmiszeripari gépésztechnikus | 21 | XXXVI | 2 év | - | N, E | élelmiszeriparért felelős miniszter |
 
@@ -198,7 +198,7 @@
 
 | 97 | 32 | 582 | 02 | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | 5 | IX | - | 90-140 óra | TK | közlekedésért felelős miniszter |
 
-| 98 | 53 | 582 | 01 | Építőanyagipari minőségellenőr | 9 | XVI | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 98 | 55 | 582 | 04 | Építőanyagipari minőségellenőr | 9 | XVI | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 99 | 34 | 582 | 03 | Épület- és szerkezetlakatos | 5 | IX | 3 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -208,7 +208,7 @@
 
 | 102 | 54 | 543 | 01 | Faipari technikus | 11 | XVIII | 2 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 103 | 35 | 215 | 01 | Fatárgy készítő | 11 | XVIII | 1 év | 480-720 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 103 |  |  |  |  |  |  |  |  |  |  |
 
 | 104 | 53 | 861 | 05 | Fegyveres biztonsági őr | 22 | - | - | 320-420 óra | TK | rendészetért felelős miniszter |
 
@@ -238,7 +238,7 @@
 
 | 117 | 54 | 544 | 02 | Fluidumkitermelő technikus | 5 | VII | 2 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 118 | 55 | 815 | 01 | Fodrász | 19 | XXX | 0,5 év | 240-360 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 118 | 55 | 815 | 01 | Fodrász | 19 | XXX | 1 év | 480-720 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 119 | 54 | 720 | 02 | Fogászati asszisztens | 1 | I | 2 év | 1400-1700 óra | N, E, TK | egészségügyért felelős miniszter |
 
@@ -256,7 +256,7 @@
 
 | 126 | 54 | 581 | 01 | Földmérő, földügyi és térinformatikai technikus | 20 | XXXV | 2 év | - | N, E, TK | földügyért és térképészetért felelős miniszter |
 
-| 127 | 55 | 482 | 01 | Földügyi térinformatikai szaktechnikus | 20 | XXXV | - | 480-720 óra | TK, T | földügyért és térképészetért felelős miniszter |
+| 127 | 55 | 581 | 01 | Földügyi térinformatikai szaktechnikus | 20 | XXXV | - | 480-720 óra | TK, T | földügyért és térképészetért felelős miniszter |
 
 | 128 | 55 | 861 | 03 | Fő határrendész | 22 | - | - | 300-500 óra | TK | rendészetért felelős miniszter |
 
@@ -834,7 +834,7 @@
 
 | 415 | 54 | 212 | 08 | Szórakoztató zenész (a szakmairány megjelölésével) | 4 | - | 2 év | 960-1440 óra | N, E, TK | kultúráért felelős miniszter |
 
-| 416 | 34 | 541 | 05 | Szőlész-borász | 21 | XXXVI | 3 év | 960-1440 óra | N, E, TK | élelmiszeriparért felelős miniszter |
+| 416 | 34 | 541 | 06 | Szőlész-borász | 21 | XXXVI | 3 év | 960-1440 óra | N, E, TK | élelmiszeriparért felelős miniszter |
 
 | 417 | 55 | 725 | 16 | Szövettani asszisztens | 1 | I | 0,5 év | 360-440 óra | N, E, TK | egészségügyért felelős miniszter |
 
@@ -846,7 +846,7 @@
 
 | 421 | 55 | 541 | 07 | Tartósítóipari szaktechnikus | 21 | XXXVI | 1 év | 480-720 óra | N, E, TK | élelmiszeriparért felelős miniszter |
 
-| 422 | 53 | 581 | 01 | Távérzékelési szaktechnikus | 20 | XXXV | - | 480-720 óra | TK | földügyért és térképészetért felelős miniszter |
+| 422 | 55 | 581 | 02 | Távérzékelési szaktechnikus | 20 | XXXV | - | 480-720 óra | TK | földügyért és térképészetért felelős miniszter |
 
 | 423 | 54 | 523 | 05 | Távközlési technikus | 6 | XII | 2 év | 960-1440 óra | N, E, TK | informatikáért felelős miniszter |
 
@@ -860,7 +860,7 @@
 
 | 428 | 55 | 850 | 05 | Természetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK,L | környezetvédelemért és vízgazdálkodásért felelős miniszter |
 
-| 429 | 33 | 861 | 04 | Testőr | 22 | - | - | 320-450 óra | TK | rendészetért felelős miniszter |
+| 429 | 33 | 861 | 02 | Testőr | 22 | - | - | 320-450 óra | TK | rendészetért felelős miniszter |
 
 | 430 | 35 | 582 | 07 | Tetőfedő | 9 | XVI | 1 év | 480-720 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -874,7 +874,7 @@
 
 | 435 | 55 | 481 | 01 | Térinformatikus | 7 | XIII | - | 800-1200 óra | TK, T | informatikáért felelős miniszter |
 
-| 436 | 55 | 581 | 01 | Térképész szaktechnikus | 20 | XXXV | 1 év | 480-720 óra | N, E, TK,L, T | földügyért és térképészetért felelős miniszter |
+| 436 | 55 | 581 | 03 | Térképész szaktechnikus | 20 | XXXV | 1 év | 480-720 óra | N, E, TK,L, T | földügyért és térképészetért felelős miniszter |
 
 | 437 | 32 | 853 | 03 | Tisztítás-technológiai szakmunkás | 19 | XXVII | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -886,11 +886,11 @@
 
 | 441 | 53 | 861 | 08 | Tűzoltó szerparancsnok | 22 | - | - | 700-900 óra | TK | katasztrófák elleni védekezésért felelős miniszter |
 
-| 442 | 52 | 861 | 09 | Tűzoltósági referens | 22 | - | - | 300-500 óra | TK | katasztrófák elleni védekezésért felelős miniszter |
+| 442 | 53 | 861 | 09 | Tűzoltósági referens | 22 | - | - | 300-500 óra | TK | katasztrófák elleni védekezésért felelős miniszter |
 
 | 443 | 52 | 861 | 10 | Tűzvédelmi előadó | 22 | - | - | 300-400 óra | TK | katasztrófák elleni védekezésért felelős miniszter |
 
-| 444 | 53 | 861 | 09 | Tűzvédelmi főelőadó | 22 | - | - | 200-300 óra | TK | katasztrófák elleni védekezésért felelős miniszter |
+| 444 | 53 | 861 | 10 | Tűzvédelmi főelőadó | 22 | - | - | 200-300 óra | TK | katasztrófák elleni védekezésért felelős miniszter |
 
 | 445 | 32 | 810 | 01 | Uszodamester | 19 | XXIII | - | 400-600 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -910,7 +910,7 @@
 
 | 453 | 55 | 863 | 02 | Vadászpuska műves | 5 | IX | 1 év | 480-720 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 454 | 53 | 810 | 03 | Vakvezetőkutya-kiképző | 2 | III | - | 400-480 óra | TK | szociál- és nyugdíjpolitikáért felelős miniszter |
+| 454 | 53 | 810 | 03 | Vakvezető kutya kiképzője | 2 | III | - | 400-480 óra | TK | szociál- és nyugdíjpolitikáért felelős miniszter |
 
 | 455 | 32 | 521 | 06 | Vas- és acélfeldolgozó | 5 | IX | - | 770-1150 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -942,7 +942,7 @@
 
 | 469 | 35 | 811 | 02 | Vendéglátó-üzletvezető | 18 | XXVII | 1 év | 480-720 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 470 | 55 | 581 | 02 | Vidékfejlesztési szaktechnikus | 20 | XXXIII | 1 év | 480-720 óra | N, E, TK | agrárpolitikáért felelős miniszter |
+| 470 | 55 | 581 | 04 | Vidékfejlesztési szaktechnikus | 20 | XXXIII | 1 év | 480-720 óra | N, E, TK | agrárpolitikáért felelős miniszter |
 
 | 471 | 35 | 522 | 11 | Villamos alállomás kezelő | 6 | XI | - | 160-240 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -981,6 +981,10 @@
 | 488 | 32 | 582 | 06 | Vízszigetelő, melegburkoló | 9 | XVI | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 489 | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | 20 | XXXIV | 1 év | 480-720 óra | N, E, TK | agrárpolitikáért felelős miniszter |
+
+| 490 | 32 | 720 | 01 | Egészségfejlesztési segítő | 1 | I | - | 480-720 óra | TK | egészségügyért felelős miniszter |
+
+| 491 | 32 | 815 | 01 | Kézápoló és műkörömépítő | 19 | XXX | - | 350-520 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 ## 2. táblázat: részszakképesítések
 
@@ -1142,13 +1146,13 @@
 
 | 78 | 21 | 622 | 01 | Kerti munkás | 20 | XXXIV | - | 400-600 óra | TK | agrárpolitikáért felelős miniszter |
 
-| 79 | 31 | 542 | 04 | Kesztyűs | 10 | XVII | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 79 | 31 | 542 | 05 | Kesztyűs | 10 | XVII | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 80 | 31 | 541 | 06 | Keveréktakarmány-gyártó | 21 | XXXVI | - | 320-480 óra | TK | élelmiszeriparért felelős miniszter |
 
-| 81 | 31 | 815 | 01 | Kézápoló és műkörömépítő | 19 | XXX | - | 280-420 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 81 |  |  |  |  |  |  |  |  |  |  |
 
-| 82 | 21 | 527 | 01 | Kézi könyvkötő | 12 | XIX | - | 400-600 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 82 | 21 | 543 | 03 | Kézi könyvkötő | 12 | XIX | - | 400-600 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 83 | 31 | 522 | 03 | Kisteljesítményű kazán fűtő (max. 2 t/h) | 5 | IX | - | 200-300 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1258,7 +1262,7 @@
 
 | 136 | 21 | 541 | 03 | Vágóhídi munkás | 21 | XXXVI | - | 240-360 óra | TK | élelmiszeriparért felelős miniszter |
 
-| 137 | 51 | 344 | 03 | Vámügyintéző | 15 | XXIV | - | 160-240 óra | T, TK | adópolitikáért felelős miniszter |
+| 137 | 51 | 344 | 03 | Vámügyintéző | 15 | XXIV | - | 320-480 óra | T, TK | adópolitikáért felelős miniszter |
 
 | 138 | 31 | 524 | 03 | Vegyianyaggyártó | 8 | XV | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1283,6 +1287,16 @@
 | 148 | 31 | 541 | 12 | Zöldség- és gyümölcsfeldolgozó | 21 | XXXVI | - | 240-360 óra | TK | élelmiszeriparért felelős miniszter |
 
 | 149 | 31 | 582 | 06 | Zsaluzóács | 9 | XVI | - | 240-360 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 150 | 51 | 344 | 04 | Pénzügyi ügyintéző | 15 | XXIV | - | 160-240 óra | T, TK | számviteli szabályozásért felelős miniszter |
+
+| 151 | 51 | 344 | 05 | Számviteli ügyintéző | 15 | XXIV | - | 160-240 óra | T, TK | számviteli szabályozásért felelős miniszter |
+
+| 152 | 51 | 344 | 06 | Pénzügyi projektmenedzser-asszisztens | 15 | XXIV | - | 640-960 óra | T, TK | számviteli szabályozásért felelős miniszter |
+
+| 153 | 51 | 344 | 07 | Jövedéki ügyintéző | 15 | XXIV | - | 320-480 óra | T, TK | adópolitikáért felelős miniszter |
+
+| 154 | 51 | 344 | 08 | Termékdíj ügyintéző | 15 | XXIV | - | 320-480 óra | T, TK | adópolitikáért felelős miniszter |
 
 ## 2. Jelmagyarázat az Országos Képzési Jegyzékhez
 
@@ -1594,13 +1608,19 @@
 
 ## XXXVII. Sport
 
+## XXXVIII. Rendészet
+
 ## 2.2.7. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma (5. oszlop):
 
-## Amennyiben a cellában „-„ jelölés látható, az adott szakképesítés megszerzésére irányuló képzés kizárólag iskolarendszeren kívüli szakképzésben indítható. Amennyiben a cellában „P” jelölés látható, úgy a képzés kizárólag a nemzeti köznevelésről szóló törvényben foglaltak szerinti párhuzamos képzésben folyhat.
+## Amennyiben a cellában „-” jelölés látható, az adott szakképesítés megszerzésére irányuló képzés kizárólag iskolarendszeren kívüli szakképzésben indítható. Amennyiben a cellában „P” jelölés látható, úgy a képzés kizárólag a nemzeti köznevelésről szóló törvényben foglaltak szerinti párhuzamos képzésben folyhat.
+
+## A képzési idő magában foglalja a foglalkoztatással összefüggő 64 órás idegen nyelvi képzést, továbbá legalább 18-18 órában a foglalkoztatási, valamint a munkahelyi egészség és biztonsági ismereteket, ahol e követelmények előírásra kerültek.
 
 ## 2.2.8. Iskolarendszeren kívüli szakképzésben az óraszám (6. oszlop):
 
-## Amennyiben a cellában „-„ jelölés látható, az adott szakképesítés megszerzésére irányuló képzés kizárólag iskolai rendszerű szakképzésben indítható.
+## Amennyiben a cellában „-” jelölés látható, az adott szakképesítés megszerzésére irányuló képzés kizárólag iskolai rendszerű szakképzésben indítható.
+
+## A képzési idő magában foglalja a foglalkoztatással összefüggő 60 órás idegen nyelvi képzést, továbbá legalább 18-18 órában a foglalkoztatási, valamint a munkahelyi egészség és biztonsági ismereteket, ahol e követelmények előírásra kerültek.
 
 ## 2.2.9. A képzés munkarendje (7. oszlop) :
 
@@ -1626,4 +1646,6 @@
 
 ## A szakképesítésért felelős ágazati miniszter megjelölése.
 
-2. melléklet a 150/2012. (VII. 6.) Korm. rendelethez
+2. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^9]
+
+[^9]: A 2. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
