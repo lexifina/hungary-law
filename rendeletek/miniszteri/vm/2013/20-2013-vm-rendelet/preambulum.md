@@ -1,0 +1,1 @@
+Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (5) bekezdésében kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. §-ának e) és l) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el.
