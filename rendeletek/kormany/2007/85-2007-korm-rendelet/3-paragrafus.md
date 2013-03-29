@@ -4,6 +4,24 @@ a) a 6 éven felüli óvodás a szolgáltató által – az óvoda igazolása al
 
 b)[^8] ha az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet szerinti diákigazolvánnyal vagy az ott meghatározott igazolással (a továbbiakban együtt: diákigazolvány) rendelkezik,
 
+ba) az oktatási intézmények nappali rendszerű iskolai oktatás, nappali oktatás munkarendje és esti oktatás munkarendje szerint folyó oktatásában részt vevő tanulója 18 éves korig, vagy a középiskolai tanulói jogviszonyt igazoló diákigazolvány érvényességének lejártáig:
+
+1. bármely viszonylatban korlátlan számú kedvezményes menetjeggyel,
+
+2. a lakóhely (tartózkodási hely) és az oktatási intézmény között kedvezményes bérlettel,
+
+3. bármely viszonylatban megváltható, viszonylati kötöttségű kedvezményes bérlettel,
+
+bb) az oktatási intézmények levelező oktatás munkarendje szerint folyó oktatásában részt vevő tanulója a lakóhely és az oktatási intézmény között megváltható kedvezményes menetjeggyel,
+
+bc) a felsőoktatási intézmények nappali és esti tanrendben részt vevő hallgatója:
+
+1. bármely viszonylatban korlátlan számú kedvezményes menetjeggyel,
+
+2. a lakóhely (tartózkodási hely) és az oktatási intézmény között, kedvezményes bérlettel,
+
+bd) a felsőoktatási intézmények levelező oktatás munkarendje szerint folyó oktatásban részt vevő hallgatója a lakóhely és az oktatási intézmény között megváltható kedvezményes menetjeggyel;
+
 c)[^9] a Szátv. 10. §-ának (1) bekezdésében meghatározott oktatási intézmények nappali oktatás munkarendje és esti oktatás munkarendje szerint folyó oktatásban részt vevő tanulója, hallgatója, ha a jogosultságát a „Magyar igazolvány”, illetve „Magyar hozzátartozói igazolvány” e célra rendszeresített mellékletével igazolja;
 
 d)[^10] a sajátos nevelési igényű gyermek, tanuló a köznevelési szolgáltatást nyújtó köznevelési intézmény, korai fejlesztést, illetve fejlesztő felkészítést nyújtó intézmény székhelye (telephelye) és a lakóhely (tartózkodási hely) között a köznevelési szolgáltatást nyújtó köznevelési intézmény, a korai fejlesztést, illetve fejlesztő felkészítést nyújtó intézmény igazolása alapján. A kedvezmény attól függetlenül megilleti a sajátos nevelési igényű gyermeket, tanulót, hogy a köznevelési szolgáltatást bentlakással, rendszeres vagy alkalmi bejárással, a többségi köznevelési szolgáltatást nyújtó intézményben vagy a fogyatékosság típusa szerint létrehozott intézményben veszi igénybe;
@@ -31,7 +49,7 @@ b) a tanév I. félévére érvényesített diákigazolványnál a tárgyév má
 (5)[^13] Az (1) bekezdés b) pont szerinti igazolás a kedvezményt igénybevevő személyazonosságának igazolására alkalmas hatósági igazolvánnyal rendelkezőknek, annak együttes felmutatásával érvényes.
 
 [^7]: A 3. § (1) bekezdés nyitó szövegrésze a 98/2009. (IV. 24.) Korm. rendelet 16. § (3) bekezdésének a) pontja, a 362/2011. (XII. 30.) Korm. rendelet 45. § (2) bekezdése, a 73/2013. (III. 8.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^8]: A 3. § (1) bekezdés b) pontja a 73/2013. (III. 8.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. [E módosító rendelet 15. § b) pontjával elrendelt módosítás, amely szerint a 3. § (1) bekezdés b) pont ba) alpontjában a „nappali oktatás” szövegrész helyébe a „nappali rendszerű iskolai oktatás, nappali oktatás” szöveg lép, nem vezethető át.]
+[^8]: A 3. § (1) bekezdés b) pontja a 89/2013. (III. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^9]: A 3. § (1) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének s) pontja szerint módosított szöveg.
 [^10]: A 3. § (1) bekezdés d) pontja a 73/2013. (III. 8.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés g) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a, az 51/2013. (II. 25.) Korm. rendelet 12. § a) és b) pontja szerint módosított szöveg.
