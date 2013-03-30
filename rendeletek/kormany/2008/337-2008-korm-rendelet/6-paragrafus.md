@@ -6,7 +6,7 @@
 
 (3)[^74] Abban az esetben, ha az egészségügyi szolgáltató működési engedélyének változása miatt a szolgáltató számára megállapított ellátási terület módosítása, illetve kapacitás átcsoportosítás szükséges, a Tv. 5/B. § (4) bekezdése alapján az OTH hivatalból módosítja a szolgáltató ellátási területét, illetve a Tv. 7. § (11) bekezdése alapján átcsoportosítja a kapacitást azzal, hogy – amennyiben szükséges – egyidejűleg módosítani kell az érintett egészségügyi szolgáltatók ellátási területeit is.
 
-(4)[^75]
+(4)[^75] A Tv. 5/B. § (1) bekezdése alapján indult eljárásokban az OTH az eljárás megindításától számított 90 napon belül dönt.
 
 (5)[^76] Az ellátási területet a szakmai szervezeti egység vonatkozásában is meg lehet állapítani.
 
@@ -27,7 +27,7 @@ egyezik meg.
 [^72]: A 6. § (1) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 164/2012. (VII. 19.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^73]: A 6. § (2) bekezdése a 164/2012. (VII. 19.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^74]: A 6. § (3) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 16. § 4. pontja hatályon kívül helyezte, újonnan a 164/2012. (VII. 19.) Korm. rendelet 3. §-a iktatta be.
-[^75]: A 6. § (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 92/2012. (IV. 27.) Korm. rendelet 27. §-a.
+[^75]: A 6. § (4) bekezdését újonnan a 94/2013. (III. 29.) Korm. rendelet 1. §-a iktatta be.
 [^76]: A 6. § (5) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
 [^77]: A 6. § (6) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 92/2012. (IV. 27.) Korm. rendelet 27. §-a.
 [^78]: Az 6. § (6a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 66. §-a iktatta be.
