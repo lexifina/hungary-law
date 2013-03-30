@@ -2,11 +2,11 @@
 
 ## A KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE
 
-## 12. §[^51] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
+## 12. §[^54] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) igazságügyért,
 
-b)[^52] helyi önkormányzatok törvényességi felügyeletéért,
+b)[^55] helyi önkormányzatok törvényességi felügyeletéért,
 
 c) közigazgatás-szervezésért,
 
@@ -18,7 +18,7 @@ f) választójogi és népszavazási szabályozásért,
 
 g) választások és népszavazások lebonyolításáért,
 
-h)–i)[^53]
+h)–i)[^56]
 
 j) társadalompolitika összehangolásáért,
 
@@ -34,17 +34,17 @@ o) kárpótlásért,
 
 p) személyiadat- és lakcímnyilvántartásért,
 
-q)[^54]
+q)[^57]
 
 r) kormányzati társadalmi kapcsolatok összehangolásáért,
 
-s)–t)[^55]
+s)–t)[^58]
 
-u)[^56] áldozatsegítésért
+u)[^59] áldozatsegítésért
 
-[^51]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^52]: A 12. § b) pontja a 174/2012. (VII. 26.) Korm. rendelet 74. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^53]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^54]: A 12. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^55]: A 12. § s)–t) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^56]: A 12. § u) pontját a 178/2012. (VII. 26.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^54]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^55]: A 12. § b) pontja a 174/2012. (VII. 26.) Korm. rendelet 74. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^57]: A 12. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^58]: A 12. § s)–t) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^59]: A 12. § u) pontját a 178/2012. (VII. 26.) Korm. rendelet 8. § (1) bekezdése iktatta be.

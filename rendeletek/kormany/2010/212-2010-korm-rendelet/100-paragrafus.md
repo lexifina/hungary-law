@@ -4,7 +4,7 @@ a) irányítja az Európai Unió közös agrárpolitikája II. pillérét képez
 
 b) gondoskodik az agrár-vidékfejlesztés átfogó stratégiájáról, amelynek keretében meghatározza rövid, közép- és hosszú távú céljait, valamint a célok elérését biztosító agrár-vidékfejlesztési programokat készít,
 
-c)[^406] a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködve gondoskodik a falusi turizmus fejlesztésével összefüggő kormányzati feladatok ellátásáról,
+c)[^409] a nemzetgazdasági miniszterrel és a nemzeti fejlesztési miniszterrel együttműködve gondoskodik a falusi turizmus fejlesztésével összefüggő kormányzati feladatok ellátásáról,
 
 d) felelős a Tanács 1698/2005/EK rendeletének 75. cikkében meghatározott Irányító Hatóság feladatainak ellátásáért,
 
@@ -18,7 +18,7 @@ h) önálló program keretében segíti, támogatja az ökológiai, gazdasági, 
 
 i) a miniszterelnök általános helyettesével együttműködve gondoskodik a határon túli magyarokat érintő agrárfejlesztések és támogatások közös programjainak kidolgozásáról,
 
-j)[^407] szakmai felügyeletet gyakorol a Magyar Turizmus Zrt. által ellátott közösségi agrármarketing tevékenységgel kapcsolatosan.
+j)[^410] szakmai felügyeletet gyakorol a Magyar Turizmus Zrt. által ellátott közösségi agrármarketing tevékenységgel kapcsolatosan.
 
-[^406]: A 100. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (63) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^407]: A 100. § j) pontját a 103/2012. (V. 25.) Korm. rendelet 6. §-a iktatta be.
+[^409]: A 100. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (63) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^410]: A 100. § j) pontját a 103/2012. (V. 25.) Korm. rendelet 6. §-a iktatta be.
