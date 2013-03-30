@@ -27,3 +27,7 @@ be) a kulcsfogalmak, fogalmak rendszerét, amely a kulcsfogalmak, továbbá a fo
 bf) a fejlesztés az egy vagy két évfolyamos szakasz végére elvárt eredményeit, amely az adott tantárgyban elvárható legfontosabb tudás- és képességelemek határozza meg,
 
 c) a kerettantervek tartalmának elsajátításához minimálisan szükséges – a tematikai egységekhez vagy adott évfolyamhoz kapcsolódó – óraszámot, amelyhez képest az iskola – a 2. § (5) bekezdésben foglalt kivétellel – kevesebb óraszámban nem építheti be a tantárgyi kerettantervet a helyi tantervébe.
+
+(3)[^3] A Köznevelési Hídprogramokhoz, a felnőttoktatáshoz, továbbá enyhén és súlyos értelmi fogyatékos tanulók nevelő-oktató munkáját ellátó speciális szakiskolák számára készített kerettantervek esetében nem kell alkalmazni a (2) bekezdés a) és b) pontjaiban a tantárgyi kerettantervekre vonatkozó előírásokat.
+
+[^3]: A 4. § (3) bekezdését a 23/2013. (III. 29.) EMMI rendelet 2. §-a iktatta be.
