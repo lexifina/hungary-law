@@ -1074,9 +1074,9 @@ középiskolai végzettség és egészségügyi szakképesítés, vagy középis
 
 Kiemelt munkakörben az I. besorolási osztályban:
 
-Országos tisztifőorvos: általános orvos vagy higiénikus orvos vagy fogorvos szakképzettség és közegészségtan-járványtan, vagy megelőző orvostan és népegészségtan szakorvosi képesítés.
+Országos tisztifőorvos: általános orvos vagy fogorvos szakképzettség és közegészségtan-járványtan, vagy megelőző orvostan és népegészségtan, vagy belgyógyászat, vagy csecsemő- és gyermekgyógyászat, vagy gasztroenterológia, vagy háziorvostan, vagy kardiológia, vagy klinikai onkológia, vagy neurológia, vagy pszichiátria, vagy reumatológia, vagy szülészet-nőgyógyászat, vagy tüdőgyógyászat szakorvosi, valamint egészségügyi menedzser képesítés.
 
-Helyettes országos tisztifőorvos: általános orvos vagy higiénikus orvos vagy fogorvos szakképzettség és közegészségtan-járványtan, vagy megelőző orvostan és népegészségtan szakorvosi képesítés.
+Helyettes országos tisztifőorvos: általános orvos vagy fogorvos szakképzettség és közegészségtan-járványtan, vagy megelőző orvostan és népegészségtan szakorvosi képesítés.
 
 Országos tisztiorvos, megyei és járási tisztifőorvos, megyei és városi tisztiorvos: általános orvos vagy higiénikus orvos vagy fogorvos szakképzettség és közegészségtan-járványtan, vagy megelőző orvostan és népegészségtan szakorvosi képesítés.
 
@@ -1803,7 +1803,7 @@ középiskolai végzettség és közgazdasági, pénzügyi-számviteli szakképe
 [^32]: A 3. melléklet 47. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^33]: A 3. melléklet 48. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^34]: A 3. melléklet 54. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^35]: A 3. melléklet 70. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^35]: A 3. melléklet 70. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 94/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
 [^36]: A 3. melléklet 102. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^37]: A 3. melléklet 126. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^38]: A 3. melléklet 142. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
