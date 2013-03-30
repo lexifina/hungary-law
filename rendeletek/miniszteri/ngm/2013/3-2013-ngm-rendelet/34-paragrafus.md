@@ -2,4 +2,6 @@
 
 (2) A műszerész a műszerészi igazolványt a szervizelési tevékenység végzése során köteles magánál tartani, és azt az állami adóhatóság e rendelet szerint vagy adóellenőrzés során eljáró alkalmazottja felhívására felmutatni.
 
-(3) Ha az állami adóhatóság e rendelet szerint vagy adóellenőrzés során eljáró alkalmazottja megállapítja, hogy a műszerészi igazolvány érvénytelen, azt átvételi elismervény kiállítása mellett bevonja. Az állami adóhatóság 15 napon belül dönt a bevont igazolvány visszavonásáról vagy a műszerész részére történő visszaadásáról. Az igazolvány bevonása ellen külön jogorvoslatnak nincs helye, az az igazolvány visszavonásáról döntő határozat elleni fellebbezésben támadható meg.
+(3)[^12] Ha az állami adóhatóság e rendelet szerint vagy adóellenőrzés során eljáró alkalmazottja megállapítja, hogy a műszerészi igazolvány érvénytelen, azt átvételi elismervény kiállítása mellett bevonja.
+
+[^12]: A 34. § (3) bekezdése a 13/2013. (III. 29.) NGM rendelet 4. §-ával megállapított szöveg.

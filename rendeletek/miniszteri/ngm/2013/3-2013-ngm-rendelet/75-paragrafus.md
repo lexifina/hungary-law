@@ -14,4 +14,6 @@ c) az állami adóhatóság e rendelet szerint vagy adóellenőrzés során elj�
 
 (3) Az adómemória kiíratást a pénztárgépnaplóba be kell jegyezni.
 
-(4) A pénztárgép adómemóriájának kiírását az üzemeltető maga is elvégezheti vagy azzal szervizt, illetve más, szerviznek vagy műszerésznek nem minősülő személyt is megbízhat. Amennyiben az adómemória kiírást nem szerviz végzi, az üzemeltető köteles a kiírást bejegyezni a pénztárgépnaplóba, és arról a 42. § (1) bekezdésének megfelelő alkalmazásával adatot szolgáltatni az állami adóhatóságnak.
+(4)[^31] A pénztárgép adómemóriájának kiírását az üzemeltető maga is elvégezheti vagy azzal szervizt, illetve más, szerviznek vagy műszerésznek nem minősülő személyt is megbízhat. A szerviz, illetve amennyiben az adómemória kiírást nem szerviz végzi, az üzemeltető köteles a kiírást bejegyezni a pénztárgépnaplóba, és arról a 42. § (1) bekezdésének megfelelő alkalmazásával adatot szolgáltatni az állami adóhatóságnak.
+
+[^31]: A 75. § (4) bekezdése a 13/2013. (III. 29.) NGM rendelet 15. § (12) bekezdése szerint módosított szöveg.

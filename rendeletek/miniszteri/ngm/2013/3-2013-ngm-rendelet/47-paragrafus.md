@@ -1,5 +1,3 @@
-## 46. § A pénztárgép adóügyi ellenőrző egységét, illetve a taxaméter adómemóriáját az üzemeltetőnek az adómegállapításhoz való jog elévülési idejéig meg kell őriznie.
-
 47. § (1) A pénztárgépek éves szervizes felülvizsgálata kötelező.
 
 (2) Az (1) bekezdés szerinti felülvizsgálatot a pénztárgép üzembe helyezését, illetve legutóbbi éves szervizelését követő 1 éven belül kell elvégeztetnie az üzemeltetőnek.

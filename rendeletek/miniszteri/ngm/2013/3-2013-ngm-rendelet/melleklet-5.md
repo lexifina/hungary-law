@@ -1,465 +1,613 @@
-## Az Adóügyi Ellenőrző Egységben (AEE) tárolt bizonylati adatok tartalmára
+## Az Adóügyi Ellenőrző Egységben (AEE) tárolt bizonylati adatok tartalmára és szerkezetére vonatkozó előírások
 
-## és szerkezetére vonatkozó előírások
+## 1. Az AEE-nek a pénztárgépben keletkezett adatokat UTF-8-as kódlap szerinti karakterkódolású, XML típusú naplóállományokban kell tárolnia. Az állomány struktúrájának leírását és a séma ellenőrző állományt (XSD állomány) a NAV közleményben teszi közzé.
 
-## 1. Az AEE-nek a pénztárgépben keletkezett adatokat az eszköz üzembe helyezésétől, illetve a legutóbbi adatszolgáltatástól az aktuális pillanatig terjedő időszakra vonatkozóan ANSI 1250-es kódlap szerinti karakterkódolású szöveges állományokban kell tárolnia.
+## 2. Az AEE-nek a NAV szerverétől kapott, 5. melléklet szerinti utasítás alapján történő adattovábbításkor az AEE-n lévő összes adózó nyitott szöveges állományát le kell zárnia, és azt a NAV szervere felé el kell küldenie. Az AEE-nek minden állomány lezárását követően adózónként új szöveges állományt kell nyitnia, és az adott adózóhoz rendelt szöveges állományban kell folytatnia a bejegyzések rögzítését. Az AEE-nek a szöveges állományt annak megnyitását követő 24 óra elteltével akkor is le kell zárnia és újat kell nyitnia, ha ezen idő alatt nem történt adattovábbítás a NAV szervere felé.
 
-## 2. Az AEE-nek a NAV szerverétől kapott, 5. melléklet szerinti utasítás alapján történő adattovábbításkor a legutóbbi bejegyzéssel érintett szöveges állományt le kell zárnia, és azt a NAV szerverei felé el kell küldenie. Az AEE-nek minden adattovábbítás megkezdését követően új szöveges állományt kell nyitnia, és abban kell folytatnia a bejegyzések rögzítését. Az AEE-nek a szöveges állományt annak megnyitását követő 24 óra elteltével akkor is le kell zárnia és újat kell nyitnia, ha ezen idő alatt nem történt adattovábbítás a NAV szervere felé.
-
-## 3. Az AEE-nek az elküldött állományt az elküldés megkezdésének időpontja szerinti AAAAAAAAA_ééééhhnnóóppmm_s.txt néven kell eltárolnia, ahol
+## 3. Az AEE-nek az elküldött állományt az elküldés megkezdésének időpontja szerinti AAAAAAAAA_BBBBBBBB_ééééhhnnóóppmm_s.xml néven kell eltárolnia, ahol
 
 ## a) AAAAAAAAA: A pénztárgép AP száma 9 karakteren,
 
-## b) éééé: az év száma négy számjegyen,
+## b) BBBBBBBB: Az adózó törzsszáma 8 karakteren
 
-## c) hh: a hónap sorszámát két számjegyen,
+## c) éééé: az év száma négy számjegyen,
 
-## d) nn: a nap sorszáma két számjegyen,
+## d) hh: a hónap sorszáma két számjegyen,
 
-## e) óó: az óra száma két számjegyen,
+## e) nn: a nap sorszáma két számjegyen,
 
-## f) pp: a perc száma két számjegyen,
+## f) óó: az óra száma két számjegyen,
 
-## g) mm: a másodperc száma két számjegyen,
+## g) pp: a perc száma két számjegyen,
 
-## h) s: a fájl 1-től kezdődően, kihagyás és ismétlés nélkül képzett sorszáma az AEE élettartama során.
+## h) mm: a másodperc száma két számjegyen,
 
-## 4. Az AEE első üzembehelyezésekor, az elsőként nyitott állományban szereplő, 5. pontban megadott bejegyzést követően
+## i) s: az állomány 1-től kezdődően, kihagyás és ismétlés nélkül képzett sorszáma az AEE élettartama során.
 
-## a) az„ONA” karaktersorozatot,
+## 4. A jelen mellékletben meghatározott bejegyzések (továbbiakban bejegyzés típusok) tartalmára vonatkozó egységes szabályok a következők.
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## 4.1. A bejegyzéseket az XML állományban a NAV által közleményben közzétett XSD állományleíró struktúrának megfelelően kell megvalósítani.
 
-## c) a „~” karaktert, majd az adatszolgáltatással érintett pénztárgép AP számát kilenc karakteren,
+## 4.2. Az AEE által létrehozott állományokban 32-nél kisebb kódú karakterek a CHR(10) sorvégjel kivételével nem szerepelhetnek.
 
-## d) a „~” karaktert, majd az AEE szoftverének azonosítóját
+## 4.3. Minden bejegyzést az adott naplóállományban 1-től kezdődő folyamatos sorszámmal kell ellátni.
 
-## e) a „~” karaktert, majd az AEE szoftverének verziószámát,
+## 4.4. A naplóállományban a numerikus értékeket a szükséges számú számjegyen, vezető nullák nélkül kell ábrázolni, kivéve ha ezzel ellentétes előírás szerepel adott adatnál. A pénznem adatok bejegyzésének formátuma forint esetében tagolás nélkül egészre kerekített értékek tizedes nélkül, kivéve ha ezzel ellentétes előírás szerepel adott adatnál. Az EURO-ra történő átállást követően tagolás nélkül két tizedesre kerekítve, tizedesvesszővel elválasztva.
 
-## f) a „~” karaktert, majd az a)-e) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+## 4.5. A jelen mellékletben szereplő ellenőrző kódok képzésére az SHA256 algoritmust kell alkalmazni. Az algoritmus eredményeképpen előálló 64 karakteres kódban szereplő A–F hexadecimális számjegyeket minden esetben nagybetűkként kell értelmezni és feltüntetni. Az SHA256 algoritmus bemenő adata az a karaktersorozat, amely az alábbi részekből tevődik össze az alábbi felsorolás sorrendjében:
 
-## g) az „új sor” karaktert
+## a) A bemenő karaktersorozat első hatvannégy karaktere az AEE által legutóbb lezárt szöveges állomány utolsóként bejegyzett (LCL) bejegyzésének 64 karakteres ellenőrző kódja. Amennyiben még nem létezik legutóbb lezárt szöveges állomány, akkor a bemenő karaktersorozat első 64 karaktere 64 db „F”.
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+## b) A bemenő karaktersorozat 65–128. karaktere az adott bejegyzést megelőzően rögzített bejegyzésének 64 karakteres ellenőrző kódja. Ha nem létezik az adott szöveges állományban előző bejegyzés, akkor a bemenő karaktersorozat 65–128. karaktere 64 db „F”.
 
-## 5. Az AEE-nek szöveges állomány nyitásakor, minden esetben a szöveges állomány első bejegyzéseként
+## c) A bemenő karaktersorozat további karakterei az adott bejegyzés azonosítója, 4.3. pont szerinti sorszáma, valamint minden mezőjének értéke a jelen mellékletben feltüntetett sorrendben, a mezőazonosító kódok nélkül.
 
-## a) az „LON” karaktersorozatot,
+## 5. Az AEE-nek szöveges állomány nyitásakor, minden esetben a szöveges állomány első
 
-## b) a „~” karaktert, majd a pénztárgép AP számát 9 karakteren,
+## bejegyzése
 
-## c) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## Bejegyzés azonosító: LON
 
-## d) a „~” karaktert, majd az a)-c) pontok adataiból és – ha ilyen létezik – az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+## Bejegyzés mezői
 
-## e) az „új sor” karaktert
+|  | A | B | C | D |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## 6. Az AEE-nek szöveges állomány zárásakor, minden esetben a szöveges állomány utolsó bejegyzéseként
+| 2. | a. | RAZ | Bejegyzés azonosító: LON | 3 karakteres szöveg |
 
-## a) az „LCL” karaktersorozatot,
+| 3. | b | DTS | Időbélyeg | szabványos dátum és idő adat másodperc pontossággal |
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 4. | c | APN | Pénztárgép AP száma | 9 karakteres szöveg |
 
-## c) a „~” karaktert, majd az a)-b) pontok adataiból és az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 5. | d | TSZ | Üzemeltető törzsszáma (kétvállalkozós pénztárgép esetén az üzemanyag tulajdonos törzsszáma) | 8 karakteres szöveg |
 
-## d) az „új sor” karaktert
+| 6. | e | THT | TSZ: kétvállalkozós pénztárgép esetén az üzlet üzemeltetőjének törzsszáma | 8 karakteres szöveg |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 7. | f | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## 7. Az AEE-nek a pénztárgép áramellátásának megindulása és az AEE saját áramforrásról történő működésének vége esetén
+## 6. A pénztárgépben bekövetkezett események naplózására
 
-## a) a „PIN” karaktersorozatot,
+## Bejegyzés azonosító: EVT
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## Bejegyzés mezői
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)-b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+|  | A | B | C | D |
 
-## d) az „új sor” karaktert
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 2. | a. | RAZ | Bejegyzés azonosító: EVT | 3 karakteres szöveg |
 
-## 8. Az AEE-nek a pénztárgép áramellátásának megszűnése és az AEE saját áramforrásról történő működésének kezdete esetén
+| 3. | b | DTS | Időbélyeg | szabványos dátum és idő adat másodperc pontossággal |
 
-## a) a „POF” karaktersorozatot,
+| 4. | c | EVC | Esemény kódja | 3 karakteres szöveg |
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 5. | d | EVD | Esemény leíró adata | üres / 200 karakteres szöveg |
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)-b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 6. | e | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## d) az „új sor” karaktert
+## EVC lehetséges értékei:
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+## 1. LCL: Az AEE szöveges állomány zárásakor, minden esetben a szöveges állomány utolsó bejegyzéseként
 
-## 9. Az AEE-nek a saját áramforrása lemerülése és a pénztárgépről érkező áramellátás megszűnése esetén
+## 2. PIN: Az AEE a pénztárgép áramellátásának megindulása és az AEE saját áramforrásról történő működésének vége esetén
 
-## a) a „BDN” karaktersorozatot,
+## 3. POF: Az AEE a pénztárgép áramellátásának megszűnése és az AEE saját áramforrásról történő működésének kezdete esetén
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## 4. BDN: Az AEE saját áramforrás lemerülése és a pénztárgépről érkező áramellátás megszűnése esetén
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)-b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+## 5. RST: Az AEE saját áramforrás lemerülése utáni első üzemelés elindulásakor
 
-## d) az „új sor” karaktert
+## 6. BLS: Pénztárgép blokkolt állapotba került
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+## 7. BLF: Pénztárgép blokkolt állapotba megszűnése esetén
 
-## 10. Az AEE-nek a saját áramforrásának lemerülése utáni első üzemelés elindulásakor
+## 8. TRI: Pénztárgép gyakorló üzemmódba kerülése esetén
 
-## a) az „RST” karaktersorozatot,
+## 9. TRF: Pénztárgép gyakorló üzemmódba kerülés megszűnése
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## 10. CHO: Pénztárnyitás esetén
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)-b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+## 11. MGI: NAV szerverétől érkező üzenet esetén
 
-## d) az „új sor” karaktert
+## 12. MGO: NAV szerverének küldött üzenet esetén
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+## EVD lehetséges értékei
 
-## 11. A pénztárgép blokkolt állapotba kerülése esetén
+## CHO —> Pénztár nyitó pénzkészlet forintban
 
-## a) a „BLS” karaktersorozatot,
+## MGI —> teljes fogadott üzenet
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## MGO —> teljes küldött üzenet
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+## egyéb esetekben nem töltendő
 
-## d) az „új sor” karaktert
+## 7. A pénztárgép műszaki jellemzőiről szóló információk, amelyeket naponta egyszer kell rögzíteni az aktuálisan nyitott naplóállományba.
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+## Bejegyzés azonosító: INF
 
-## 12. A pénztárgép blokkolt állapotának megszűnése esetén
+## Bejegyzés mezői
 
-## a) a „BLF” karaktersorozatot,
+|  | A | B | C | D |
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)-b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 2. | a. | RAZ | Bejegyzés azonosító: INF | 3 karakteres szöveg |
 
-## d) az „új sor” karaktert
+| 3. | b | DTS | Időbélyeg | szabványos dátum és idő adat másodperc pontossággal |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 4. | c | DTY | AEE gyártói típusnév | 200 karakteres szöveg |
 
-## 13. A pénztárgép gyakorló üzemmódba kerülése esetén
+| 5. | d | DRV | AEE hardver verzió | 200 karakteres szöveg |
 
-## a) a „TRI” karaktersorozatot,
+| 6. | e | DFW | AEE szoftver verzió | 200 karakteres szöveg |
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 7. | f | DFH | AEE egységben futó szoftver SHA256 algoritmussal kiszámított ellenőrző kódja | 64 karakteres szöveg |
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 8. | g | DFT | Az AEE egységben futó szoftver legutóbbi frissítésének időpontja. | szabványos dátum és idő adat másodperc pontossággal |
 
-## d) az „új sor” karaktert
+| 9. | h | DMT | Az AEE egységben lévő modem kiolvasott típus megnevezése, | 32 karakteres szöveg |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében
+| 10. | i | DMF | Az AEE egységben lévő modem kiolvasott szoftver-verziója. | 200 karakteres szöveg |
 
-## 14. A pénztárgép gyakorló üzemmódból való visszakapcsolása esetén
+| 11. | j | DME | Az AEE egységben lévő modem kiolvasott IMEI száma. | 50 karakteres szöveg |
 
-## a) a „TRF” karaktersorozatot,
+| 12. | k | DMS | Az AEE egységben lévő SIM kiolvasott IMSI száma. | 50 karakteres szöveg |
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 13. | l | TZC | Pénztárgép telephely irányítószám | 6 karakteres szöveg |
 
-## c) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–b) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 14. | m | TCY | Pénztárgép telephely település | 50 karakteres szöveg |
 
-## d) az „új sor” karaktert
+| 15. | n | TKN | Pénztárgép telephely közterület neve | 50 karakteres szöveg |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében
+| 16. | o | TKJ | Pénztárgép telephely közterület jellege | 50 karakteres szöveg |
 
-## 15. Pénztárnyitás esetén
+| 17. | p | THH | Pénztárgép telephely házszám | 10 karakteres szöveg |
 
-## a) a „CHO” karaktersorozatot,
+| 18. | q | DPH | A pénztárgép hardver gyártói típusmegjelölése | 50 karakteres szöveg |
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 19. | r | DPV | A pénztárgép hardververziója | 50 karakteres szöveg |
 
-## c) a „~” karaktert, majd a pénztár nyitó pénzkészletét forintban,
+| 20. | s | DPF | A pénztárgépben futó szoftver verziója | 50 karakteres szöveg |
 
-## d) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–c) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 21. | t | DPS | A pénztárgépben futó szoftver SHA256 algoritmussal kiszámított ellenőrző kódja | 64 karakteres szöveg |
 
-## e) az „új sor” karaktert
+| 22. | u | VCC | Üzembehelyezési kód | 50 karakteres szöveg |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 23. | w | APN | Pénztárgép AP száma | 9 karakteres szöveg |
 
-## 16. A NAV szerverétől érkező üzenet fogadása esetén
+| 24. | x | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## a) az „MGI” karaktersorozatot,
+## 8. A pénztárgép rendszerállapot statisztika adatok, amelyeket naponta egyszer kell rögzíteni az aktuálisan nyitott naplóállományba
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## Bejegyzés azonosító: STA
 
-## c) a „~” karaktert, majd a szerver által küldött teljes üzenetet
+## Bejegyzés mezői
 
-## d) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–c) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+|  | A | B | C | D |
 
-## e) az „új sor” karaktert
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 2. | a. | RAZ | Bejegyzés azonosító: STA | 3 karakteres szöveg |
 
-## 17. Üzenet küldése esetén a NAV szerver részére
+| 3. | b | DTS | Időbélyeg | szabványos dátum és idő adat másodperc pontossággal |
 
-## a) az „MGO” karaktersorozatot,
+| 4. | c | SST | Pénztárgép állapot | 5 karakteres szöveg |
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 5. | d | SFL | Az AEE egységben működő SD kártyán lévő szabad tároló kapacitás (Kbyte) | 10 karakteres numerikus |
 
-## c) a „~” karaktert, majd a szervernek küldött teljes üzenetet
+| 6. | e | SSG | Az AEE-ben működő modem által mért hálózati térerőt 0–100-ig terjedő skálán normalizálva, egész számmal ábrázolva. | 3 karakteres numerikus |
 
-## d) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–c) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 7. | f | SAC | Akkumulátor töltöttség egész számmal, vezető nullák nélkül (%) | 3 karakteres numerikus |
 
-## e) az „új sor” karaktert
+| 8. | g | SMT | GSM hálózatból kiolvasott pontos idő | szabványos dátum és idő adat másodperc pontossággal |
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 9. | h | SCC | Pénztárgépben az utolsó STA rekord küldése óta jelentkezett hibák belső kódjainak listája. | R01n~R99n… |
 
-## 18. A pénztárgép első üzembe helyezése, illetve áthelyezése esetén
+| 10. | i | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## a) a „PLC” karaktersorozatot,
+## SST lehetséges értékei:
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## 1. „0”, ha a pénztárgép működik és nincs blokkolva
 
-## c) a „~” karaktert, majd a pénztárgép szervizes által megadott aktuális címét,
+## 2. „1”, ha a pénztárgép blokkolt állapotban van
 
-## d) a „~” karaktert, majd a bejegyzést végző műszerész műszerészi igazolványának számát,
+## 3. „2”, ha a pénztárgép hibás állapotban van
 
-## e) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–d) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+## 9. A pénztárgép műszaki mérőszámai, amelyeket naponta egyszer kell rögzíteni az aktuálisan nyitott naplóállományba.
 
-## f) az „új sor” karaktert
+## Rekord azonosító: OPR
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+## Bejegyzés mezői
 
-## 19. A kiadott bizonylatok adatait az AEE az alábbi bejegyzés-szerkezettel tárolja el.
+|  | A | B | C | D |
 
-## a) A bejegyzés első eleme a bejegyzés típusát jelzőhárom karakter, ami:
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## 1. nyugta esetén: „NYN”,
+| 2. | a. | RAZ | Bejegyzés azonosító: OPR | 3 karakteres szöveg |
 
-## 2. egyszerűsített számla esetén: „ESN”,
+| 3. | b | DTS | Időbélyeg | szabványos dátum és idő adat másodperc pontossággal |
 
-## 3. napi forgalmi jelentés esetén „NFN”,
+| 4. | c | ODS | A legutóbbi bekapcsolás óta a modem által küldött bájtok száma, beleértve a megszakadt kapcsolatok adatait is. | 12 karakteres numerikus |
 
-## 4. pénztárjelentés esetén: „PJN”,
+| 5. | d | ODR | A legutóbbi bekapcsolás óta a modem által fogadott bájtok számát, beleértve a megszakadt kapcsolatok adatait is, | 12 karakteres numerikus |
 
-## 5. pénztári befizetés bizonylat esetén: „PBN”,
+| 6. | e | ODF | A legutóbbi bekapcsolás óta a mobil adatkapcsolat kiépítésére tett sikertelen kísérletek száma. | 5 karakteres numerikus |
 
-## 6. pénztári kifizetés bizonylat esetén: „PKN”,
+| 7. | f | OSF | A legutóbbi bekapcsolás óta az SSL adatcsatorna felépítésére tett sikertelen kísérletek száma. | 5 karakteres numerikus |
 
-## 7. üzemanyagkártyás értékesítési bizonylat esetén: „KBN”,
+| 8. | g | OCC | AEE egység belső mérőszámai,ahol ”N” a belső mérőszám azonosítóját, ”E” a mért paraméter értékét jelenti. | N01n#N99n… – 20 karakteres szöveg E01n#E99n… – 50 karakteres szöveg |
 
-## 8. egészségkártyás értékesítési bizonylat esetén: „EBN”,
+| 9. | h | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## 9. sztornó bizonylat esetén: „SZN”,
+## 10. Nyugta vagy egyszerűsített számla
 
-## 10. visszáru bizonylat esetén: „VBN”,
+## Bejegyzés azonosító:
 
-## 11. gyakorló üzemmódban kiadott nyugta esetén: „NYT”,
+## – Nyugta esetén: NYN
 
-## 12. gyakorló üzemmódban kiadott egyszerűsített számla esetén: „EST”,
+## – Egyszerűsített számla esetén: ESN
 
-## 13. gyakorló üzemmódban kiadott napi forgalmi jelentés esetén „NFT”,
+## Bejegyzés mezői
 
-## 14. gyakorló üzemmódban kiadott pénztárjelentés esetén: „PJT”,
+|  | A | B | C | D |
 
-## 15. gyakorló üzemmódban kiadott pénztári befizetés bizonylat esetén: „PBT”,
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## 16. gyakorló üzemmódban kiadott pénztári kifizetés bizonylat esetén: „PKT”,
+| 2. | a. | RAZ | Bejegyzés azonosító: NYN vagy ESN | 3 karakteres szöveg |
 
-## 17. gyakorló üzemmódban kiadott üzemanyagkártyás értékesítési bizonylat esetén: „KBT”,
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
 
-## 18. gyakorló üzemmódban kiadott egészségkártyás értékesítési bizonylat esetén: „EBT”,
+| 4. | c | DTS | Időbélyeg, a bizonylat nyitásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
 
-## 19. gyakorló üzemmódban kiadott sztornó bizonylat esetén: „SZT”,
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
 
-## 20. gyakorló üzemmódban kiadott visszáru bizonylat esetén: „VBT”
+| 6. | e | NSZ | a bizonylat száma 1234/00001 formátumban | 10 karakteres szöveg |
 
-## 21. visszavont nyugta esetén: „NYC”,
+| 7. | f |  | A bizonylaton szereplő összes tételre vonatkozóan, tételenként |  |
 
-## 22. visszavont egyszerűsített számla esetén: „ESC”,
+| 8. | fa | NA | a tétel bizonylaton szereplő megnevezése | 200 karakteres szöveg |
 
-## 23. visszavont napi forgalmi jelentés esetén „NFC”,
+| 9. | fb | UN | a tétel bizonylaton szereplő egységára forintban, tizedesvesszővel elválasztva, két tizedes pontossággal | 20 karakteres numerikus |
 
-## 24. visszavont pénztárjelentés esetén: „PJC”,
+| 10. | fc | QY | a tételnél a bizonylaton szereplő mennyiség | 5 karakteres numerikus |
 
-## 25. visszavont pénztári befizetés bizonylat esetén: „PBC”,
+| 11. | fd | SU | a tételnél a bizonylaton szereplő összérték forintban | 20 karakteres numerikus |
 
-## 26. visszavont pénztári kifizetés bizonylat esetén: „PKC”,
+| 12. | fe | VC | a tételnél a bizonylaton feltüntetett forgalmi gyűjtő jele három karakteren | 3 karakteres szöveg |
 
-## 27. visszavont üzemanyagkártyás értékesítési bizonylat esetén: „KBC”,
+| 13. | g |  | A bizonylaton szereplő összes törölt tételre vonatkozóan, tételenként |  |
 
-## 28. visszavont egészségkártyás értékesítési bizonylat esetén: „EBC”,
+| 14. | ga | NA | a törölt tétel bizonylaton szereplő megnevezése | 200 karakteres szöveg |
 
-## 29. visszavont sztornó bizonylat esetén: „SZC”,
+| 15. | gb | UN | a törölt tétel bizonylaton szereplő egységára forintban, tizedesvesszővel elválasztva, két tizedes pontossággal | 20 karakteres numerikus |
 
-## 30. visszavont visszáru bizonylat esetén: „VBC”,
+| 16. | gc | QY | a törölt tételnél a bizonylaton szereplő mennyiség | 5 karakteres numerikus |
 
-## b) A bejegyzés második eleme a „~” karakter, majd egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül.
+| 17. | gd | SU | a törölt tételnél a bizonylaton szereplő összérték forintban | 20 karakteres numerikus |
 
-## c) A bejegyzés harmadik eleme a „~” karakter, majd a bizonylat kiadásának pontos ideje az AEE órája szerint, ééééhhnnóóppmm formátumban, 14 számjegyen ábrázolva.
+| 18. | ge | VC | a törölt tételnél a bizonylaton feltüntetett forgalmi gyűjtő jele három karakteren | 3 karakteres szöveg |
 
-## d) A bejegyzés negyedik eleme a „~” karakter, majd a pénztárgépet működtető adóalany adó törzsszáma, 8 számjegyen.
+| 19. | h | PMD | a fizetési mód jele, ami készpénz esetén „1”, bankkártya esetén „2”, egyéb fizetési mód esetén „3”. n: az adott fizetési móddal fizetett részösszeg, egész forintban számolva | FM1n#FM3n |
 
-## e) A bejegyzésben szereplő bizonylat típusa szerint az ea)–ei) pontokban részletezett adattartalmat az adott felsorolás sorrendjében kell elhelyezni a szöveges állományban.
+| 20. | i | GYJ | nyugta tartalma gyűjtőnként, kizárólag az adott bizonylaton ténylegesen használt gyűjtőkre, vonatkozólag, ahol n: a bizonylaton szereplő tételek bruttó összege az adott gyűjtőben, egész forintban számolva | A01n#E99n |
 
-## ea) Nyugta vagy egyszerűsített számla esetén:
+| 21. | j | SUM | a bizonylaton szereplő bruttó összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül | 20 karakteres numerikus |
 
-## 1) a „~” karakter, majd a bizonylat száma 1234/00001 formátumban,
+| 22. | k | TAX | az adott bizonylat forgalmi gyűjtőnkénti bruttó összege YYYn alakban, ahol: YYY: a forgalmi gyűjtő jele három karakteren, n: a bizonylaton szereplő tételek bruttó összege az adott forgalmi gyűjtőben, egész forintban számolva | X01YYYn#X99YYYn |
 
-## 2) az adott bizonylat tartalma gyűjtőnként megjelenítve, kizárólag az adott bizonylaton ténylegesen használt gyűjtőkre vonatkozóan, „~XXXn” alakban, ahol:
+| 23. | l | DCN | a bizonylaton szereplő összes engedmény összege, egész forintban számolva, ha van ilyen adat. | 20 karakteres numerikus |
 
-## ~: a 126-os kódú karakter,
+| 24. | m | RND | a bizonylaton szereplő kerekítés összege, egész forintban számolva, szükség esetén negatív előjellel, ha van ilyen adat. | 20 karakteres numerikus |
 
-## XXX: a gyűjtő jele három karakteren,
+| 25. | n | HCN | a vásárlói kártya, hűségkártya azonosítója | 50 karakteres szöveg |
 
-## n: a bizonylaton szereplő tételek bruttó összege az adott gyűjtőben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül
+| 26. | o | VDA | Egyszerűsített számla esetén a termék beszerzőjének, szolgáltatás igénybevevőjének adatai az ÁFA tv. rendelkezései szerint | 200 karakteres szöveg |
 
-## 3) a „~SUM” karaktersorozat és a bizonylaton szereplő bruttó összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül
+| 27. | p | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z99X… |
 
-## 4) a „~TAX” karaktersorozat és a bizonylaton szereplő összes ÁFA összege, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül
+| 28. | q | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1 normál rögzítés esetén 0 |
 
-## 5) amennyiben a bizonylat tartalmaz engedményt, akkor a „~DCN” karaktersorozat és a bizonylaton szereplő összes engedmény összege, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül
+| 29. | r | CTS | Időbélyeg, a bizonylat zárásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
 
-## 6) amennyiben a bizonylat tartalmaz kerekítést, akkor a „~RND” karaktersorozat és a bizonylaton szereplő kerekítés összege, egész forintban számolva, szükség esetén negatív előjellel.
+| 30. | s | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## 7) Amennyiben ez az adat a kinyomtatott bizonylaton szerepel, akkor a „~PMD” karaktersorozat és a fizetési mód jele, ami készpénz esetén „0”, bankkártya esetén „1”, egyéb fizetési mód esetén „2”.
+## 11. Napi forgalmi jelentés
 
-## 8) Amennyiben ilyen adat a kinyomtatott bizonylaton szerepel, akkor a „~HCN” karaktersorozat és a vásárlói kártya, hűségkártya azonosítója.
+## Bejegyzés azonosító: NFN
 
-## 9) Egyszerűsített számla esetén a „~VDA” karaktersorozat és a termék beszerzőjének, szolgáltatás igénybevevőjének adatai az ÁFA tv. rendelkezései szerint.
+## Bejegyzés mezői
 
-## 10) A bizonylaton szereplő összes tételre vonatkozóan, tételenként:
+|  | A | B | C | D |
 
-## i) az „~INA” karaktersorozat és a tétel bizonylaton szereplő megnevezése
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## ii) az „~IUN” karaktersorozat és a tétel bizonylaton szereplő egységára forintban
+| 2. | a | RAZ | Bejegyzés azonosító: NFN | 3 karakteres szöveg |
 
-## iii) az „~IQY” karaktersorozat és a tételnél a bizonylaton szereplő mennyiség
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
 
-## iv) az „~ISU” karaktersorozat és a tételnél a bizonylaton szereplő összérték forintban
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
 
-## v) az „~IVC” karaktersorozat és a tételnél a bizonylaton feltüntetett forgalmi gyűjtő jele három karakteren.
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
 
-## eb) Napi forgalmi jelentés esetén
+| 6. | f | ZSZ | a zárás sorszáma négy karakteren, szükség esetén vezető nullákkal feltöltve | 4 karakteres szöveg |
 
-## 1) a zárás sorszáma négy karakteren, szükség esetén vezető nullákkal feltöltve,
+| 7. | g | GYJ | a napi forgalom összesen forgalmi gyűjtőnként, ahol n: a bizonylaton szereplő tételek bruttó összege az adott forgalmi gyűjtőben, egész forintban számolva | A01n#E99n |
 
-## 2) az adott nap bruttó bevétele gyűjtőnként megjelenítve, kizárólag az adott bizonylatot érintő gyűjtőkre vonatkozóan, „~XXXn” alakban, ahol:
+| 8. | h | NSF | a napi forgalom összesen, bruttó összegben, egész forintban számolva | 20 karakteres numerikus |
 
-## ~: a 126-os kódú karakter,
+| 9. | i | NSH | a napi felár összesen, bruttó összegben, egész forintban számolva | 20 karakteres numerikus |
 
-## XXX: a gyűjtő jele három karakteren
+| 10. | j | NSS | a napi sztornó összesen, bruttó összegben, egész forintban számolva | 20 karakteres numerikus |
 
-## n: a bizonylaton szereplő tételek bruttó összege az adott gyűjtőben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 11. | k | NSY | a napi engedmény összesen, bruttó összegben, egész forintban számolva | 20 karakteres numerikus |
 
-## 3) a „~NSF” karaktersorozat és a napi forgalom összesen, bruttó összegben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 12. | l | NSV | a napi visszáru összesen, bruttó összegben, egész forintban számolva | 20 karakteres numerikus |
 
-## 4) a „~NSH” karaktersorozat és a napi felár összesen, bruttó összegben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 13. | m | NDB | a napi nyugták és egyszerűsített számlák száma összesen | 20 karakteres numerikus |
 
-## 5) a „~NSS” karaktersorozat és a napi sztornó összesen, bruttó összegben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 14. | n | NST | a napi sztornó bizonylatok száma összesen, | 20 karakteres numerikus |
 
-## 6) a „~NSY” karaktersorozat és a napi engedmény összesen, bruttó összegben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 15. | o | NSW | a napi visszáru bizonylatok száma összesen | 20 karakteres numerikus |
 
-## 7) a „~NSV” karaktersorozat és a napi visszáru összesen, bruttó összegben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 16. | p | NSG | a göngyölített forgalom összesen | 50 karakteres numerikus |
 
-## 8) a „~NSZ” karaktersorozat és a napi nyugták és egyszerűsített számlák száma összesen, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 17. | q | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
 
-## 9) a „~NST” karaktersorozat és a napi sztornó bizonylatok száma összesen, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+| 18. | s | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## 10) a „~NSW” karaktersorozat és a napi visszáru bizonylatok száma összesen, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+## 12. Pénztári jelentés
 
-## 11) a „~NSG” karaktersorozat és a göngyölített forgalom összesen, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+## Bejegyzés azonosító: PJN
 
-## ec) Pénztárjelentés esetén
+## Bejegyzés mezői
 
-## 1) a „~JBA” karaktersorozat és a napi bevételek összesen, bruttó összegben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül,
+|  | A | B | C | D |
 
-## 2) a „~JKA” karaktersorozat és a napi kiadások összesen, bruttó összegben, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül.
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## ed) Pénztári befizetés bizonylat esetén a befizetett összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül.
+| 2. | a | RAZ | Bejegyzés azonosító: PJN | 3 karakteres szöveg |
 
-## ee) Pénztári kifizetés bizonylat esetén a kifizetett összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül.
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
 
-## ef) Üzemanyagkártyás értékesítési bizonylat esetén
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
 
-## 1) a „~FSN” karaktersorozat és a bizonylatszám „UK/123456789/000001”alakban,
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
 
-## 2) a „~FAN” karaktersorozat és a vevő adószáma 12345678-1-12 alakban,
+| 6. | e | JBA | napi bevételek összesen, bruttó összegben, egész forintban számolva | 20 karakteres numerikus |
 
-## 3) a „~FRN” karaktersorozat és a rendszám, kizárólag betűket és számokat feltüntetve,
+| 7. | f | JKA | a napi kiadások összesen, bruttó összegben, egész forintban számolva | 20 karakteres numerikus |
 
-## 4) a „~FTL” karaktersorozat és a bizonylaton szereplő bruttó összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül.
+| 8. | g | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
 
-## eg) Egészségkártyás értékesítési bizonylat esetén
+| 9. | h | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## 1) a „~ESN” karaktersorozat és a bizonylatszám „EK/123456789/000001”alakban,
+## 13. pénztári befizetés bizonylat
 
-## 2) a „~EPC” karaktersorozat és az egészségpénztár kódja,
+## Bejegyzés azonosító: PBN
 
-## 3) a „~ERN” karaktersorozat és a vevő tagszáma,
+## Bejegyzés mezői
 
-## 4) a „~ETS” karaktersorozat és a bizonylaton szereplő bruttó összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül.
+|  | A | B | C | D |
 
-## eh) Sztornó bizonylat esetén
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## 1) a „~SBN” karaktersorozat és a sztornózott nyugta vagy egyszerűsített számla sorszáma 123456789/1234/00001 alakban,
+| 2. | a | RAZ | Bejegyzés azonosító: PBN | 3 karakteres szöveg |
 
-## 2) a „~STO” karaktersorozat és a vevő részére kifizetett összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül.
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
 
-## ei) Visszáru bizonylat esetén
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
 
-## 1) a „~VBN” karaktersorozat és a visszáru nyugta vagy egyszerűsített számla – a göngyölegjegy kivételével –sorszáma 123456789/1234/00001 alakban,
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
 
-## 2) a „~VTS” karaktersorozat, majd a vevő részére kifizetett összeg, egész forintban számolva, a szükséges számú számjegyen ábrázolva, vezető nullák nélkül.
+| 6. | e | PIA | a befizetett összeg, egész forintban számolva | 20 karakteres numerikus |
 
-## f) Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan a „~ZQQ” karaktersorozat, majd az adott egyedi mezőben szereplő adat. A „QQ” az egyedi mező sorszámát jelöli. Az egyedi mezőket 01-től kell egyesével számozni.
+| 7. | f | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
 
-## g) Az a)–f) pontban felsorolt adatokat követően a bejegyzés további karakterei a „~HSH” karaktersorozat és az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–f) pontok tartalmából az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karaktere, figyelembe nem véve az ea) 9. pontjában szereplő adatot.
+| 8. | g | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1 normál rögzítés esetén 0 |
 
-## h) A bejegyzést minden esetben az „Új sor” karakter zárja.
+| 9. | h | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## 20. Tétel törlése esetén – ha a bizonylat készítése folytatódik és az kiadásra kerül – az adott bizonylatra vonatkozó bejegyzést követően
+## 14. Pénztári pénz vagy utalvány kifizetési bizonylat
 
-## a) a „DIT” karaktersorozatot,
+## Bejegyzés azonosító pénzkifizetés esetén: PKN
 
-## b) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+## Bejegyzés azonosító utalvány kifizetés esetén: UKN
 
-## a bizonylaton szereplő összes tételre vonatkozóan, tételenként:
+## Bejegyzés mezői
 
-## i) az „~INA” karaktersorozat és a tétel bizonylaton szereplő megnevezése
+|  | A | B | C | D |
 
-## ii) az „~IUN” karaktersorozat és a tétel bizonylaton szereplő egységára forintban
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## iii) az „~IQY” karaktersorozat és a tételnél a bizonylaton szereplő mennyiség
+| 2. | a | RAZ | Bejegyzés azonosító: PKN vagy UKN | 3 karakteres szöveg |
 
-## iv) az „~ISU” karaktersorozat és a tételnél a bizonylaton szereplő összérték forintban
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
 
-## v) az „~IVC” karaktersorozat és a tételnél a bizonylaton feltüntetett forgalmi gyűjtő jele három karakteren,
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
 
-## c) a bizonylat készítése során törölt összes tételre vonatkozóan, tételenként:
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
 
-## ca) a „~DNA” karaktersorozatot és a törölt tétel megnevezését,
+| 6. | e | POA | PKN esetén :a kifizetett összeg, egész forintban, UKN esetén a kifizetett utalványok összege egész forintban | 20 karakteres numerikus |
 
-## cb) a „~DUN” karaktersorozatot és a törölt tétel egységárát forintban,
+| 7. | f | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
 
-## cc) a „~DQY” karaktersorozatot és a törölt tételnél megadott mennyiséget,
+| 8. | g | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1 normál rögzítés esetén 0 |
 
-## cd) a „~DSU” karaktersorozatot és a törölt tételre vonatkozó összértéket forintban,
+| 9. | h | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-## ce) a „~DVC” karaktersorozatot és a tételre vonatkozó forgalmi gyűjtő jelét három karakteren,
+## 15. Üzemanyagkártyás értékesítési bizonylat
 
-## d) a „~HSH” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–c) pontok adataiból az SHA256 algoritmussal a 21. pont szerint képzett ellenőrző kód 64 karakterét,
+## Bejegyzés azonosító: KBN
 
-## e) az „új sor” karaktert
+## Bejegyzés mezői
 
-## kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+|  | A | B | C | D |
 
-## 21. A jelen melléklet 4–20. pontjában szereplő ellenőrző kód képzésekor az SHA256 algoritmus bemenő adata az a karaktersorozat, amely az alábbi részekből tevődik össze az alábbi felsorolás sorrendjében:
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-## a) A bemenő karaktersorozat első hatvannégy karaktere az AEE által legutóbb lezárt szöveges állomány utolsó bejegyzését lezáró „Új sor” karakter előtti 64 karakteres ellenőrző kód, amelyben az A–F hexadecimális számjegyeket nagybetűkként kell értelmezni. Amennyiben még nem létezik legutóbb lezárt szöveges állomány, akkor a bemenő karaktersorozat első 64 karaktere 64 db „F”.
+| 2. | a | RAZ | Bejegyzés azonosító: KBN | 3 karakteres szöveg |
 
-## b) A bemenő karaktersorozat 65–128. karaktere az adott bejegyzést megelőző bejegyzést lezáró „Új sor” karakter előtti 64 karakteres ellenőrző kód, amelyben az A–F hexadecimális számjegyeket nagybetűkként kell értelmezni. Ha nem létezik az adott szöveges állományban előző bejegyzés, akkor a bemenő karaktersorozat 65–128. karaktere 64 db „F”.
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
 
-## c) A bemenő karaktersorozat további karakterei az adott bejegyzésben szereplő, 4–20. pontokban meghatározott adattartalom az ott meghatározott sorrendben, a bejegyzés végén elhelyezendő 64 karakteres ellenőrző kódot megelőző karakterrel bezárólag.
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
 
-## 22. A jelen melléklet 4–20. pontjában szereplő ellenőrző kódot karaktersorozatként kell feltüntetni úgy, hogy az A–F számjegyek nagybetűkként szerepeljenek.
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
 
-## 23. Az AEE által létrehozott szöveges állományokban 32-nél kisebb kódú karakterek és a 126-os kódú karakter („~”) kizárólag a rendeletben megkövetelt esetekben és módon szerepelhet. Amennyiben valamilyen feltüntetendő adatban eredetileg szerepel 32-nél kisebb kódú vagy 126-os kódú karakter, azt az AEE-ben létrehozott szöveges állományokban szóközzel, illetve kötőjellel kell helyettesíteni.
+| 6. | e | FSN | a bizonylatszám „UK/123456789/000001” alakban | UK/nnnnnnnnn/nnnnnn |
 
-## 24. Az AEE a napi zárásokról külön naplóállományt is vezet, a 3. melléklet I. rész A) pont 9. alpontja szerinti tájékoztatás céljára.
+| 7. | f | FAN | a vevő adószáma 12345678-1-12 alakban | nnnnnnnn-n-nn |
 
-5. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^4]
+| 8. | g | FRN | a rendszám, kizárólag betűket és számokat feltüntetve | 20 karakteres szöveg |
 
-[^4]: Az 5. melléklet a 70. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
+| 9. | h |  | A bizonylaton szereplő összes tételre vonatkozóan, tételenként |  |
+
+| 10. | ha | NA | a tétel bizonylaton szereplő megnevezése | 200 karakteres szöveg |
+
+| 11. | hb | UN | a tétel bizonylaton szereplő egységára forintban, tizedesvesszővel elválasztva, két tizedes pontossággal | 20 karakteres numerikus |
+
+| 12. | hc | QY | a tételnél a bizonylaton szereplő mennyiség | 5 karakteres numerikus |
+
+| 13. | hd | SU | a tételnél a bizonylaton szereplő összérték forintban | 20 karakteres numerikus |
+
+| 14. | he | VC | a tételnél a bizonylaton feltüntetett forgalmi gyűjtő jele három karakteren | 3 karakteres szöveg |
+
+| 15. | i |  | A bizonylaton szereplő összes törölt tételre vonatkozóan, tételenként |  |
+
+| 16. | ia | NA | a törölt tétel bizonylaton szereplő megnevezése | 200 karakteres szöveg |
+
+| 17. | ib | UN | a törölt tétel bizonylaton szereplő egységára forintban, tizedesvesszővel elválasztva, két tizedes pontossággal | 20 karakteres numerikus |
+
+| 18. | ic | QY | a törölt tételnél a bizonylaton szereplő mennyiség | 5 karakteres numerikus |
+
+| 19. | id | SU | a törölt tételnél a bizonylaton szereplő összérték forintban | 20 karakteres numerikus |
+
+| 20. | ie | VC | a törölt tételnél a bizonylaton feltüntetett forgalmi gyűjtő jele három karakteren | 3 karakteres szöveg |
+
+| 21. | j | FTL | a bizonylaton szereplő bruttó összeg, egész forintban számolva | 20 karakteres numerikus |
+
+| 22. | k | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
+
+| 23. | l | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1 normál rögzítés esetén 0 |
+
+| 24. | m | HSH | Ellenőrző kód | 64 HEXA karakter |
+
+## 16. Egészségkártyás értékesítési bizonylat
+
+## Bejegyzés azonosító: EBN
+
+## Bejegyzés mezői
+
+|  | A | B | C | D |
+
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
+
+| 2. | a | RAZ | Bejegyzés azonosító: EBN | 3 karakteres szöveg |
+
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
+
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
+
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
+
+| 6. | e | EBS | a bizonylatszám „EK/123456789/000001” alakban | EK/nnnnnnnnn/nnnnnn |
+
+| 7. | f | EPC | az egészségpénztár kódja | 50 karakteres szöveg |
+
+| 8. | g | ERN | a vevő tagszáma | 50 karakteres szöveg |
+
+| 9. | h | ETS | a bizonylaton szereplő bruttó összeg, egész forintban számolva | 20 karakteres numerikus |
+
+| 10. | i | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
+
+| 11. | j | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1 normál rögzítés esetén 0 |
+
+| 12. | k | HSH | Ellenőrző kód | 64 HEXA karakter |
+
+## 17. Storno bizonylat
+
+## Bejegyzés azonosító: SZN
+
+## Bejegyzés mezői
+
+|  | A | B | C | D |
+
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
+
+| 2. | a | RAZ | Bejegyzés azonosító: SZN | 3 karakteres szöveg |
+
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
+
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
+
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
+
+| 6. | e | SBN | a sztornózott nyugta vagy egyszerűsített számla sorszáma 123456789/1234/00001 alakban | 20 karakteres szöveg |
+
+| 7. | f | STO | a vevő részére kifizetett összeg, egész forintban számolva | 20 karakteres numerikus |
+
+| 8. | g | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
+
+| 9. | h | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1 normál rögzítés esetén 0 |
+
+| 10. | i | HSH | Ellenőrző kód | 64 HEXA karakter |
+
+## 18. Visszáru bizonylat
+
+## Bejegyzés azonosító: VBN
+
+## Bejegyzés mezői
+
+|  | A | B | C | D |
+
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
+
+| 2. | a | RAZ | Bejegyzés azonosító: VBN | 3 karakteres szöveg |
+
+| 3. | b | BSR | Egy számláló értéke, amelynek kezdeti értéke „1” és minden bizonylat AEE-ben való eltárolását követően 1-gyel nő, a kiadott bizonylat típusától függetlenül. | 10 karakteres numerikus |
+
+| 4. | c | DTS | Időbélyeg, a bizonylat kiadásának pontos ideje az AEE órája szerint | szabványos dátum és idő adat másodperc pontossággal |
+
+| 5. | d | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 karakteres szöveg |
+
+| 6. | e | VDB | a visszáru nyugta vagy egyszerűsített számla – a göngyölegjegy kivételével – sorszáma 123456789/1234/00001 alakban | 20 karakteres szöveg |
+
+| 7. | f | VTS | a vevő részére kifizetett összeg, egész forintban számolva | 20 karakteres numerikus |
+
+| 8. | g | ZQQ | Amennyiben a nyomtatott bizonylaton szereplő adatok eltárolásához szükséges egyedi mező, akkor a használt egyedi mezők mindegyikére vonatkozóan ZQQX ahol QQ az egyedi mező sorszáma, X az adott egyedi mezőben szereplő adat. | Z01X~Z02X… |
+
+| 9. | h | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1 normál rögzítés esetén 0 |
+
+| 10. | i | HSH | Ellenőrző kód | 64 HEXA karakter |
+
+## 19. A 10–18 bejegyzések azonos tartalommal, de a következő bejegyzés azonosítóval ismétlődnek a pénztárgép gyakorló üzemmódjában:
+
+|  | A | B | C | D |
+
+| 1. | pont | megnevezés | normál bizonylat esetén | gyakorló üzemmódú bizonylat esetén |
+
+| 2. | 10 | nyugta | NYN | NYT |
+
+| 3. | 10 | egyszerűsített számla | ESN | EST |
+
+| 4. | 11 | napi forgalmi jelentés | NFN | NFT |
+
+| 5. | 12 | pénztárjelentés | PJN | PJT |
+
+| 6. | 13 | pénztári befizetés bizonylat | PBN | PBT |
+
+| 7. | 14 | pénztári kifizetés bizonylat | PKN | PKT |
+
+| 8. | 14 | utalvány kifizetés bizonylat | UKN | UKT |
+
+| 9. | 15 | üzemanyagkártyás értékesítési bizonylat | KBN | KBT |
+
+| 10. | 16 | egészségkártyás értékesítési bizonylat | EBN | EBT |
+
+| 11. | 17 | sztornó bizonylat | SZN | SZT |
+
+| 12. | 18 | visszáru bizonylat | VBN | VBT |
+
+5. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^38]
+
+[^38]: Az 5. melléklet a 70. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.

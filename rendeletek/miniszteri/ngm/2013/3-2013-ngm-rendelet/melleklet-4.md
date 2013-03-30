@@ -376,7 +376,7 @@
 
 ## 3. Az AEE-t logikailag úgy kell elhelyezni a pénztárgépben, hogy abba minden kezelői adatbevitel és minden készülő bizonylat adatainak be kell kerülnie
 
-## 4. a) Az AEE-nek rögzítenie és az adómegállapításhoz való jog elévüléséig tárolnia kell a pénztárgépen keletkező adatokat a 4. melléklet szerinti tartalomban és szerkezetben.
+## 4. a) Az AEE-nek tételsoronként rögzítenie és az adómegállapításhoz való jog elévüléséig tárolnia kell a pénztárgépen keletkező adatokat a 4. melléklet szerinti tartalomban és szerkezetben.
 
 ## b) Amennyiben egy bizonylat készítése annak kinyomtatása és kiadása nélkül ér véget (ide nem értve a megszakított bizonylatot), az AEE-nek a ki nem adott bizonylat már bevitt adatait visszavont bizonylatként kell eltárolnia a 4. mellékletben foglaltak szerint. Jelen pont alkalmazásában a bizonylatkészítés megkezdésének kell tekinteni egyetlen tételsor bevitelét is.
 
@@ -476,7 +476,7 @@
 
 ## gb) A Certific ateauthority SAS 70 Type II auditált legyen.
 
-## gc) Az AEE eszközzel szemben elvárás, hogy a kriptográfiai funkciók (rejtjelezés, hitelesítés, kulcstárolás) megvalósításában legalább olyan biztonsági modulra támaszkodjon, amelynek áramköri (chip) szinten FIPS 140-2 szabvány szerint két szintű vagy common criteria EAIL3 szintű értékeléssel rendelkezik.
+## gc) Az AEE eszközzel szemben elvárás, hogy a kriptográfiai funkciók (rejtjelezés, hitelesítés, kulcstárolás) megvalósításában legalább olyan biztonsági modulra támaszkodjon, amelynek áramköri (chip) szinten FIPS 140-2 szabvány szerint két szintű vagy common criteria EAL3 szintű értékeléssel rendelkezik.
 
 ## gd) Az RSA aszimmetrikus kulcs mérete legalább 2048 bit legyen.
 
@@ -502,9 +502,13 @@
 
 ## ic) Az AEE-ben működő szoftver működésének helyességét és a rejtett funkcióktól való mentességét fehérdoboz (white box) tesztelési módszertannal, 100%-os forráskód lefedettséget alkalmazva kell tanúsíttatni. A tanúsítványt három független, „ISTQB Certified Tester Foundation Level” minősítéssel rendelkező tesztelőnek kell kiállítania.
 
+## id) az AEE minimum vételi teljesítményszintje –102dBm, a készülék bemeneti kapcsaira vonatkoztatva, valamint a szükséges C/I (jel/interferencia viszony) 10 dB, az ETSI TS 0508V050100, valamint az ETSI EN 151.010 szabványoknak megfelelően.
+
 ## 23. A szervizes köteles az AEE bármilyen sérülését, illetéktelen felnyitási kísérletét az észlelést követő napon jelezni az állami adóhatóság felé e rendelet 42. §-ában foglaltaknak megfelelően.
 
-## 24. Az AEE-nek alkalmasnak kell lennie a benne működő üzemeltető program (továbbiakban: AEE szoftver) távoli frissítésére a NAV szerveréről. Az AEE-nek képesnek kell lennie a kezelő figyelmeztetésére, ha az AEE szoftver frissítése a kezelővel kapcsolatban bármilyen követelményt támaszt vagy támaszthat.
+## 24. Az AEE-nek alkalmasnak kell lennie a benne működő üzemeltető program (a továbbiakban: AEE szoftver) távoli frissítésére a NAV szerveréről. Az AEE-nek képesnek kell lennie a kezelő figyelmeztetésére, ha az AEE szoftver frissítése a kezelővel kapcsolatban bármilyen követelményt támaszt vagy támaszthat. Az AEE-nek képesnek kell lennie arra, hogy kizárólag az adott AEE-hez tartozó AEE szoftvert töltse le.
+
+## 25. Kétvállalkozós pénztárgép esetén adóalanyonként kell érvényesülnie a rendelet valamennyi előírásának, különös tekintettel arra, hogy egymástól függetlenül kell vezetni a naplóállományokat, kizárólag a saját értékesítésükre vonatkozóan.
 
 ## FE) Elektronikus napló-szolgáltatás
 
@@ -1164,7 +1168,7 @@
 
 ## b) az euró hivatalos pénznemmé tételének időpontjára vonatkozó szabályok:
 
-## 1. Az euró pénztárgép alkalmazása során történő hivatalos pénznemmé tételére egy előre meghatározott időpontban kerülhet sor. Ekkor egy speciális, kizárólag egyszer végrehajtható taxaméter funkció, az „Euró üzemmód beállítása” parancs végrehajtásával a taxamétert forint üzemmódról euró üzemmódra kell átállítani. Az átállítás dátumát az „Euró bevezetésének kelte” típusú, alábbi tartalmú adómemória rekordban kell tárolni:
+## 1. Az euró taxaméter alkalmazása során történő hivatalos pénznemmé tételére egy előre meghatározott időpontban kerülhet sor. Ekkor egy speciális, kizárólag egyszer végrehajtható taxaméter funkció, az „Euró üzemmód beállítása” parancs végrehajtásával a taxamétert forint üzemmódról euró üzemmódra kell átállítani. Az átállítás dátumát az „Euró bevezetésének kelte” típusú, alábbi tartalmú adómemória rekordban kell tárolni:
 
 ## -Rekord típusazonosító;
 
@@ -1368,4 +1372,6 @@
 
 ## 10. RAM törlés esetén a RAM törlés okát a taxaméternaplóban fel kell tüntetni.
 
-4. melléklet a 3/2003 . (II. 15.) NGM rendelethez
+4. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^37]
+
+[^37]: A 4. melléklet a 13/2013. (III. 29.) NGM rendelet 14. § (2) bekezdésével megállapított szöveg.

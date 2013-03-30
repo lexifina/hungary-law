@@ -140,7 +140,7 @@
 
 ## 8. „gyakorló üzemmód” kezelésének ellenőrzése
 
-## 9. az elektronikus adó-nyilvántartási eszközök és rendszerek auditálása
+## 9.
 
 ## Az informatikai vizsgálathoz valós szerver hozzáférést kell a típusvizsgálatot végző számára biztosítani.
 

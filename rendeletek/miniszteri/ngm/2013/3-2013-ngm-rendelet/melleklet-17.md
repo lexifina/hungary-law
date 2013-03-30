@@ -94,7 +94,7 @@
 
 | VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ ***** ADÓMEMÓRIA ADATAI ***** ADÓMEMÓRIA AZONOSÍTÓSZÁMA: 123456789 INICIALIZÁLÁS KELTE: 2011. 01. 02. 08:00 ELLENŐRZŐ SZÁM: ADCD ÁFA KULCS: 2011.04.30. 25,00% TÓL: 2019. 12. 30. IG: 2020. 01. 04. Z 2282 ------------------2019.12.30 ---------------------------- NAPI FORGALOM(FT): 20 035 GÖNGY.FORGALOM (GT)(FT): 43 706 890 NAPI UTAS-KM 48 NAPI ÖSSZES KM 285 Z 2283 ---------------- 2019.12.31. --------------------------- NAPI FORGALOM(FT): 10 000 GÖNGY.FORGALOM (GT)(FT): 43 716 890 NAPI UTAS-KM 18 NAPI ÖSSZES KM 165 ======================================== IDŐSZAK ÖSSZESEN (FT): 30.035 GÖNGY. FORGALOM (GT) (FT): 243 716 890 ======================================== EURÓ ÜZEMMÓD BEÁLLÍTÁSA:2020. 01. 01. 00:00 Z 2284 ------------------2020. 01. 04 ------------------------- NAPI FORGALOM(€): 43,92 GÖNGY.FORGALOM (GT)(€): 43,92 NAPI UTAS-KM 35,2 NAPI ÖSSZES KM 62,2 ======================================== IDŐSZAK ÖSSZESEN (€): 43,92 GÖNGY. IDŐSZAKOS UTAS-KM 172,2 GÖNGY. IDŐSZAKOS ÖSSZES KM 638,2 GÖNGY. FORGALOM (GT) (€): 254,30 ======================================== ÖSSZES ZÁRÁS SZÁMA: 2298 RAM TÖRLÉSEK SZÁMA: 03 ELLENŐRZŐ SZÁM: D72A 2020. 02. 04 08:15 AP XXXXXXXXX |
 
-17. melléklet a 3/2003 . (II. 15.) NGM rendelethez
+17. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^40]
 
 A központi kommunikációs egységgel kiszolgált AEE-rendszerek
 
@@ -112,7 +112,7 @@ b) A központi kommunikációs egységgel kiszolgált AEE-rendszer üzembe helye
 
 a) Az engedélyezési eljárás első szakaszában az engedélyező hatóság – a rendelet III. fejezete megfelelő alkalmazásával – elvi forgalmazási engedélyt ad ki, amennyiben a központi kommunikációs egységgel kiszolgált AEE-rendszer tervezett működése a benyújtott eszközök és dokumentációk alapján megfelel az e rendeletben meghatározott követelményeknek.
 
-b) Az engedélyezi eljárás második szakaszában az engedélyező hatóság a típusvizsgálat keretében az üzembe helyezést megelőzően – értékesítési helyenként (üzletenként) – a helyszínen ellenőrzi a központi kommunikációs egységet és az alkalmazott hálózati eszközöket (switch). A helyszíni típusvizsgálatra a 4. alcímben foglaltakat megfelelően alkalmazni kell. Az engedélyező hatóság értékesítési helyenként (üzletenként) üzembe helyezési engedélyt ad ki, amennyiben a központi kommunikációs egységgel kiszolgált AEE-rendszer működése a helyszíni típusvizsgálat alapján megfelel az e rendeletben meghatározott követelményeknek.
+b) Az engedélyezi eljárás második szakaszában az engedélyező hatóság a típusvizsgálat keretében az üzembe helyezést megelőzően – értékesítési helyenként (üzletenként) – a helyszínen ellenőrzi a központi kommunikációs egységet és az alkalmazott hálózati eszközt (switch). A helyszíni típusvizsgálatra a 4. alcímben foglaltakat megfelelően alkalmazni kell. Az engedélyező hatóság értékesítési helyenként (üzletenként) üzembe helyezési engedélyt ad ki, amennyiben a központi kommunikációs egységgel kiszolgált AEE-rendszer működése a helyszíni típusvizsgálat alapján megfelel az e rendeletben meghatározott követelményeknek.
 
 3. Az üzembe helyezési engedély iránti kérelemben meg kell jelölni azt az adóalanyt, akinek (amelynek) részére az üzembe helyezés történik, valamint az üzembe helyezés helyszínét, illetve helyszíneit (település, közterület, helyrajzi szám vagy házszám, emelet, ajtó megjelölésével). Az üzembe helyezési engedély iránti kérelemhez csatolni kell az igazgatási szolgáltatási díj megfizetésére vonatkozó készpénz átutalás megbízás (csekk) tőpéldányát, vagy az átutalás megindításának megtörténtét tanúsító hitelintézeti igazolást.
 
@@ -138,40 +138,48 @@ A 3. mellékletben foglaltaktól eltérően a központi kommunikációs egységg
 
 7. A rendszer központi kommunikációs egységén keresztül a NAV informatikai rendszerei közvetlenül kommunikálnak az egyes pénztárgépeken elhelyezett AEE rögzítő/naplózó egységekkel. A központi kommunikációs egység saját üzeneteit (azaz nem az AEE rögzítő/naplózó egységektől indított vagy oda érkező üzeneteket) saját azonosítójával ellátva küldi el. Az erre vonatkozó szabályok megegyeznek az AEE-re vonatkozó szabályokkal. A központi kommunikációs egység saját azonosítója 9 jegyű, az üzembe helyezési engedélyben meghatározott azonosító.
 
-8. A rendszernek a központi kommunikációs egységgel kiszolgált AEE-rendszerként engedélyezett módon történő működésének átállíthatónak kell lennie úgy, hogy az adatszolgáltatást az egyes pénztárgépeken elhelyezett AEE-k végezzék a beépített GSM modul útján. Az átállításra az üzemeltető saját döntése alapján bármikor sor kerülhet, illetve a Hatóság a 64. § (4) bekezdés szerinti esetben kötelezheti az üzemeltetőt az átállításra. Ehhez a távközlési szolgáltatási szerződést a pénztárgép üzemeltetője köti meg. A NAV továbbra is az AEE változatlan azonosítóit használja kommunikációra.
+8. A rendszernek a központi kommunikációs egységgel kiszolgált AEE-rendszerként engedélyezett módon történő működésének átállíthatónak kell lennie úgy, hogy az adatszolgáltatást az egyes pénztárgépeken elhelyezett AEE-k végezzék a beépített GSM modul útján. Az átállításra az üzemeltető saját döntése alapján bármikor sor kerülhet, illetve a Hatóság a 64. § (4) bekezdés szerinti esetben kötelezheti az üzemeltetőt az átállításra. A NAV továbbra is az AEE változatlan azonosítóit használja kommunikációra.
 
 9. Ha egy pénztárgép vonatkozásában az AEE rögzítő/naplózó egysége és a kommunikációs egység közötti kapcsolat hibás, az adott pénztárgépnek blokkolt állapotba kell kerülnie.
 
 III. A központi kommunikációs egységgel kiszolgált AEE-rendszerek adatszolgáltatására vonatkozó különös rendelkezések
 
-1. A kommunikációs egységnek a 4. mellékletben foglalt adatokon kívül adatot kell szolgáltatnia a NAV felé az egyes pénztárgépeken működő rögzítő/naplózó egység és a központosított kommunikációs egység közötti kapcsolat megszűnéséről és újraépüléséről az AEE rögzítő/naplózó egységében vezetett szöveges állományba az alábbi bejegyzések elhelyezésével:
+1. A központi kommunikációs egységgel kiszolgált AEE-rendszer tekintetében a 4. mellékletben foglalt adatokon kívül adatot kell szolgáltatnia a NAV felé az egyes pénztárgépeken működő rögzítő/naplózó egység és a központosított kommunikációs egység közötti kapcsolat megszűnéséről és újraépüléséről.
 
-a) a pénztárgépben működő rögzítő/naplózó egység és a központi kommunikációs egység közötti kapcsolat megszűnése esetén
+A központi kommunikációs egységgel kiszolgált pénztárgépben bekövetkezett események naplózásának kiegészítő eseményei
 
-1) a „CNF” karaktersorozatot,
+Bejegyzés azonosító: EVK
 
-2) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+Bejegyzés mezői
 
-3) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)–b) pontok adataiból az SHA256 algoritmussal a 4. melléklet 21. pont szerint képzett ellenőrző kód 64 karakterét,
+|  |  | A | B | C |
 
-4) az „új sor” karaktert
+| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
 
-kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+| 2. | a. | RAZ | Bejegyzés azonosító: EVK | 3 karakteres szöveg |
 
-b) A pénztárgépben működő rögzítő/naplózó egység és a központi kommunikációs egység közötti kapcsolat helyreállása esetén
+| 3. | b | DTS | Időbélyeg | szabványos dátum és idő adat másodperc pontossággal |
 
-1) a „CNR” karaktersorozatot,
+| 4. | c | EVC | Esemény kódja | 3 karakteres szöveg |
 
-2) a „~” karaktert, majd az aktuális időpontot ééééhhnnóóppmm formátumban,
+| 5. | d | EVD | Esemény leíró adata | üres / 200 karakteres szöveg |
 
-3) a „~” karaktert, majd az előző bejegyzésre képzett ellenőrző kódból, az előzőleg lezárt szöveges állomány utolsó ellenőrző kódjából, valamint az a)-b) pontok adataiból az SHA256 algoritmussal a 4. melléklet 21. pont szerint képzett ellenőrző kód 64 karakterét,
+| 6. | e | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-4) az „új sor” karaktert
+EVC lehetséges értékei:
 
-kell elhelyezni a szöveges állományban, a felsorolás sorrendjében.
+13. CNF: A pénztárgépben működő rögzítő/naplózó egység és a központi kommunikációs egység közötti kapcsolat megszűnése esetén
+
+14. CNR: A pénztárgépben működő rögzítő/naplózó egység és a központi kommunikációs egység közötti kapcsolat helyreállása esetén
+
+EVD lehetséges értékei:
+
+nem töltendő
 
 2. A központi kommunikációs egységnek a következő üzenettel kell a NAV szerver felé jeleznie, ha megváltozott a központi kommunikációs egység felé aktuálisan élő kapcsolattal rendelkező pénztárgépek köre:
 
 a) az üzenet első eleme a „PTGSET~CCCCCCCCC” karaktersorozat, ahol CCCCCCCCC a központi kommunikációs egység egyedi azonosítója,
 
 b) az üzenet további elemei minden, éppen csatlakozó pénztárgépre vonatkozóan a „~XXXXXXXXX” karaktersorozat, ahol „XXXXXXXXX” a pénztárgép AP számát jelöli.
+
+[^40]: A 17. melléklet a 13/2013. (III. 29.) NGM rendelet 14. § (4) bekezdése, a 15. § (15) bekezdése szerint módosított szöveg.
