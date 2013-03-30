@@ -1,0 +1,1 @@
+## 1. § A Kormány az 1. melléklet szerinti gazdálkodó szervezeteket (a továbbiakban: Társaságok) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetekké nyilvánítja.

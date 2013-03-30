@@ -1,0 +1,1 @@
+## 3. § A Kormány a Cstv. 66. § (2) bekezdése alapján állami felszámolóként a Nemzeti Reorganizációs Nonprofit Kft.-t (székhelye: 1133 Budapest, Pozsonyi út 56., cégjegyzékszáma: 01-09-994411) jelöli ki.
