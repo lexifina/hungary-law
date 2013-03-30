@@ -1,6 +1,6 @@
 ## 3. A gyűjtőszámlahitel részletes szabályai
 
-3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós 2013. év március hónap 29. napjáig írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
+3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós 2013. év május hónap 31. napjáig írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
 
 a) a hiteladós devizakölcsönből származó fizetési késedelme nem haladja meg a 90 napot,
 

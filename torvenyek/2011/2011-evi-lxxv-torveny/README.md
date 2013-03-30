@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-75-00-00
 | 2012-10-28 | 2012. évi CLI. törvény | 2011-75-00-00.14 |
 | 2012-10-29 | 2011. évi CXVI. törvény | 2011-75-00-00.15 |
 | 2012-12-23 | 2012. évi CCVIII. törvény | 2011-75-00-00.16 |
+| 2013-03-30 | 2013. évi XXVIII. törvény | 2011-75-00-00.17 |
