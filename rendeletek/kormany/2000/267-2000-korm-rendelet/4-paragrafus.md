@@ -24,7 +24,7 @@ d) 22 500 forint a tényleges szabadságvesztés vagy szabadságkorlátozás id�
 
 a) sérelmet szenvedett meghalt személlyel a szabadságelvonásának tartama alatt és annak halálakor is házasságban élt, vagy
 
-b) a sérelmet szenvedett személlyel a szabadságelvonás megszűnését követően először házasságot kötött és a sérelmet szenvedett halálakor vele házasságban élt, amennyiben a házasság megkötésére e rendelet hatálybalépését megelőzően került sor.
+b)[^13] a sérelmet szenvedett személlyel a szabadságelvonás megszűnését követően házasságot kötött és a sérelmet szenvedett halálakor vele házasságban élt, amennyiben a házasság megkötésére e rendelet hatálybalépését megelőzően került sor.
 
 (3) Amennyiben a túlélő házastárs újabb házasságot köt vagy kötött, a juttatásra túlélő házastársként nem jogosult.
 
@@ -36,3 +36,4 @@ b) a sérelmet szenvedett személlyel a szabadságelvonás megszűnését követ
 [^10]: A 4. § (1a) bekezdését a 63/2013. (III. 4.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^11]: A 4. § (1b) bekezdését a 63/2013. (III. 4.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^12]: A 4. § (2) bekezdés nyitó szövegrésze a 63/2013. (III. 4.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 4. § (2) bekezdés b) pontja a 102/2013. (III. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.

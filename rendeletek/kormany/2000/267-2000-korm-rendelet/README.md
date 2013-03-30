@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-267-20-
 | 2012-01-01 | 2000-267-20-22.12 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-07-01 | 2000-267-20-22.13 | 95/2012. (V. 15.) Korm. rendelet |
 | 2013-03-09 | 2000-267-20-22.14 | 63/2013. (III. 4.) Korm. rendelet |
+| 2013-03-30 | 2000-267-20-22.15 | 102/2013. (III. 29.) Korm. rendelet |
