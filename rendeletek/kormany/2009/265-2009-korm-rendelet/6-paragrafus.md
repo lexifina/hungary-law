@@ -1,4 +1,6 @@
-6. § (1) A miniszter a Hivatalnak az 5. § (2) bekezdése szerinti, vagy a Nemzetbiztonsági Hivatalnak a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 5. § d) pontjával összhangban tett és – ez utóbbi esetben – indokolt kezdeményezését követően összehívja a Bizottságot.
+6. § (1)[^17] A minisztert a földgázellátási válsághelyzet fennállásáról és fokozatáról szóló határozatának előkészítése során javaslattételi jogkörrel a Földgázellátási Válsághelyzet Bizottság (a továbbiakban: Bizottság) segíti.
+
+(1a)[^18] A miniszter a Hivatalnak az 5. § (2) bekezdése szerinti, vagy az Alkotmányvédelmi Hivatalnak a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 5. § d) pontjával összhangban tett és – ez utóbbi esetben – indokolt kezdeményezését követően összehívja a Bizottságot.
 
 (2) A Bizottság állandó tagja:
 
@@ -10,13 +12,13 @@ c) a Nemzetbiztonsági Hivatal,
 
 d) a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség),
 
-e)[^17] a szállítási rendszerirányító,
+e)[^19] a szállítási rendszerirányító,
 
 f) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló törvény szerinti Kormányzati Koordinációs Bizottság Titkársága,
 
 g) a villamos energiáról szóló törvény szerinti átviteli rendszerirányításra vonatkozó működési engedéllyel rendelkező engedélyes,
 
-h)[^18] a földgáztároló engedélyes, valamint
+h)[^20] a földgáztároló engedélyes, valamint
 
 i) az Országos Meteorológiai Szolgálat
 
@@ -46,5 +48,7 @@ g) a földgázkészlet visszapótlásának javasolt rendjét és a visszapótlá
 
 (7) A földgáz biztonsági készletből történő értékesítésre vonatkozó árjavaslatát a Bizottság – az Fbkt. 5. § (3) bekezdésével összhangban – a földgáznak az árjavaslat elkészítésekor ismert tényleges árának figyelembevételével készíti elő. A Szövetség a javaslat elkészítéséhez szükséges – különösen ár- és pénzügyi – információkat köteles a Bizottság rendelkezésére bocsátani.
 
-[^17]: A 6. § (2) bekezdés e) pontja a 293/2011. (XII. 22.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^18]: A 6. § (2) bekezdés h) pontja a 293/2011. (XII. 22.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 6. § (1) bekezdése a 99/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^18]: A 6. § (1a) bekezdését a 99/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^19]: A 6. § (2) bekezdés e) pontja a 293/2011. (XII. 22.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 6. § (2) bekezdés h) pontja a 293/2011. (XII. 22.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.

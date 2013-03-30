@@ -8,9 +8,9 @@
 
 ## „(3) A földgázelosztó a GET 16. § (1) bekezdés a), b), ca), cc), ce) és e) pontja szerinti esetekben a felhasználó bekapcsolását, a felhasználási helyen a földgázelosztási szolgáltatás megkezdését vagy folytatását azonnali hatállyal megtagadhatja (a továbbiakban együtt: szolgáltatás megtagadása).”
 
-(4)[^59] A felhasználó első alkalommal a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet és a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló 265/2009. (XII. 1.) Korm. rendelet módosításáról szóló 293/2011. (XII. 22.) Korm. rendelet hatálybalépését követő 30 napon belül nyújthatja be a 12. § (7) bekezdés szerinti kérelmet.
+(4)[^62] A felhasználó első alkalommal a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet és a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló 265/2009. (XII. 1.) Korm. rendelet módosításáról szóló 293/2011. (XII. 22.) Korm. rendelet hatálybalépését követő 30 napon belül nyújthatja be a 12. § (7) bekezdés szerinti kérelmet.
 
-(5)[^60] Ha a felhasználó a (4) bekezdés alapján egyedi kérelmet nyújt be, a szállítási rendszerirányító a (4) bekezdés szerinti határidő lejártát követő 30 napon belül benyújtja a Hivatalnak a módosított korlátozási besorolást.
+(5)[^63] Ha a felhasználó a (4) bekezdés alapján egyedi kérelmet nyújt be, a szállítási rendszerirányító a (4) bekezdés szerinti határidő lejártát követő 30 napon belül benyújtja a Hivatalnak a módosított korlátozási besorolást.
 
-[^59]: A 18. § (4) bekezdését a 293/2011. (XII. 22.) Korm. rendelet 8. §-a iktatta be.
-[^60]: A 18. § (5) bekezdését a 293/2011. (XII. 22.) Korm. rendelet 8. §-a iktatta be.
+[^62]: A 18. § (4) bekezdését a 293/2011. (XII. 22.) Korm. rendelet 8. §-a iktatta be.
+[^63]: A 18. § (5) bekezdését a 293/2011. (XII. 22.) Korm. rendelet 8. §-a iktatta be.
