@@ -6,16 +6,16 @@ b) az a) pont alá nem tartozó, fekvőbeteg-szakellátást nyújtó egészség�
 
 kell bejelenteniük.
 
-(2)[^41] A Módr.-rel a fekvőbeteg-szakellátást nyújtó szolgáltatók részére megállapított, a 2. és a 3. mellékletben foglalt feltételeknek történő megfelelést a működési engedélyt kiadó hatóság 2013. március 31-ig ellenőrzi.
+(2)[^41]
 
 (3)[^42] A Módr.-rel megállapított 2. és 3. melléklet szerinti, a közfinanszírozott járóbeteg-szakellátást és diagnosztikai szolgáltatást nyújtó egészségügyi szolgáltatók részére megállapított feltételeknek 2012. szeptember 30-ától kell megfelelni.
 
 (4)[^43] A (3) bekezdés szerinti megfelelést az egészségügyi szolgáltatóknak a működési engedély esetleges módosításával egyidejűleg, de legkésőbb 2012. december 30-ig kell bejelenteniük.
 
-(5)[^44] A Módr.-rel a (3) bekezdés szerinti szolgáltatók részére megállapított, a 2. és a 3. mellékletben foglalt feltételeknek történő megfelelést a működési engedélyt kiadó hatóság 2013. május 1-ig ellenőrzi.
+(5)[^44]
 
 [^40]: A 13. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 70. pontja hatályon kívül helyezte, újonnan az 1/2012. (V. 31.) EMMI rendelet 8. §-a iktatta be.
-[^41]: A 13. § (2) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^41]: A 13. § (2) bekezdését a 24/2013. (III. 29.) EMMI rendelet 9. § (2) bekezdése hatályon kívül helyezte.
 [^42]: A 13. § (3) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
 [^43]: A 13. § (4) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
-[^44]: A 13. § (5) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § d) pontja szerint módosított szöveg.
+[^44]: A 13. § (5) bekezdését a 24/2013. (III. 29.) EMMI rendelet 9. § (2) bekezdése hatályon kívül helyezte.

@@ -912,7 +912,7 @@
 
 ## X: szükséges
 
-2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^47]
+2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^49]
 
 A TEVÉKENYSÉGEK VÉGZÉSÉHEZ SZÜKSÉGES MINIMUMFELTÉTELEK
 
@@ -4058,4 +4058,4 @@ A legmagasabb szintű, a szakmai minimum feltételek által meghatározott kis s
 
 A III.-as szintnek megfelelő tevékenységeken kívül őssejt-transzplantáció végzése önállóan vagy intézményen belüli kooperációval.
 
-[^47]: A 2. melléklet az 1/2012. (V. 31.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 6/2012. (VI. 28.) EMMI rendelet 1. §-a, a 27/2012. (IX. 18.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 2. melléklet az 1/2012. (V. 31.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 6/2012. (VI. 28.) EMMI rendelet 1. §-a, a 27/2012. (IX. 18.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
