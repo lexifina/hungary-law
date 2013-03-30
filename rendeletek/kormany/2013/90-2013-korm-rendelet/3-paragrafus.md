@@ -1,1 +1,0 @@
-## „(6) A juttatás és az (5) bekezdés szerinti hozzátartozói nyugellátás fedezetének átadására vonatkozó eljárási szabályokat a fedezetet átadó szervek és a Nyugdíjfolyósító Igazgatóság megállapodásban határozzák meg.”

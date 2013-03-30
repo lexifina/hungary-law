@@ -1,11 +1,9 @@
-## 3. § Az Onyfr. a következő 7. §-sal egészül ki:
+## 2–3. §[^2]
 
-## „7. § (1) A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság 2013. március 31-ével az Országos Nyugdíjbiztosítási Főigazgatósággal mint általános jogutóddal történő egyesítés (beolvadás) révén megszűnik.
+4. § (1)[^3]
 
-## (2) A beolvadást követően az Országos Nyugdíjbiztosítási Főigazgatóság mint általános és egyetemes jogutód látja el a beolvadó költségvetési szerv közfeladatait.”
+(2)[^4]
 
-4. § (1) Az Onyfr. 5. § (2) bekezdésében a „Közigazgatási és Igazságügyi Minisztériumhoz” szövegrész helyébe a „közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztériumhoz” szöveg lép.
-
-(2)[^2]
-
-[^2]: A 4. § (2) bekezdése a 6. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^2]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § (2) bekezdése a 6. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
