@@ -1,0 +1,1 @@
+## 4. § Aki e rendelet alapján természetbeni ellátásban részesül, annak a ruházati utánpótlási ellátmány maradványrészét, 48 313 Ft-ot – az 5. és 6. §-ban foglaltak figyelembevételével – kell kifizetni.

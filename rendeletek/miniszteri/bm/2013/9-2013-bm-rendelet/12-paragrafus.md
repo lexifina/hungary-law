@@ -1,0 +1,3 @@
+12. § (1) Ha a természetbeni ellátásra vonatkozó jogosultság a 2013. év során megváltozik, és az igényjogosult a természetbeni ellátásra kötelezetté válik, részére a ruházati termékeket ki kell osztani, és a termékek ellenértékét az éves ruházati utánpótlási ellátmányból vissza kell tartani. Ha a ruházati ellátmány kifizetésre került, a termékek ellenértékét túlellátásba kell helyezni.
+
+(2) Ha az igényjogosult természetbeni ellátásra szóló jogosultsága az 3. § alapján megszűnik, részére a természetbeni ellátás visszatartott ellenértékét ki kell fizetni, továbbá a kiosztott ruházati termékeket be kell vonni.

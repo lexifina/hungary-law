@@ -1,0 +1,1 @@
+## 6. § A 2. § (2)–(8) bekezdés szerinti természetbeni ellátás, valamint az esetleges túlellátás fedezetére együttesen jóváírt ruházati utánpótlási ellátmány összegének – 2013. évben – legfeljebb 70%-a tartható vissza.
