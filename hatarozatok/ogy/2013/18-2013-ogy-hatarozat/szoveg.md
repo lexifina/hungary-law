@@ -42,7 +42,7 @@ b) koordinálja a Keretstratégia négyévenkénti felülvizsgálatát.
 
 5. A Keretstratégiát négyévente felül kell vizsgálni, és szükség esetén – különösen a nemzeti erőforrások állapotában bekövetkező jelentős változások, a hazai vagy globális folyamatok irányának megváltozása, a fenntartható fejlődésre vonatkozó nemzetközi vagy európai jogi környezet lényeges módosulása, továbbá a tudomány új és jelentős eredményeinek megismerésének következményeképpen – kezdeményezni kell a Keretstratégia megújítását. Új nemzeti fenntartható fejlődési keretstratégia megalkotását a Kormány, a Nemzeti Fenntartható Fejlődési Tanács vagy az országgyűlési képviselők javaslatára az Országgyűlés kezdeményezheti, elfogadására az Országgyűlés jogosult.
 
-6. Ez a határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg hatályát veszti a Magyarország fenntarthatósági helyzetéről és az abból adódó feladatokról szóló 102/2009. (XII. 18.) OGY határozat.
+6.[^2] Ez a határozat a közzétételét követő napon lép hatályba.
 
 Melléklet a 18/2013. (III. 28.) OGY határozathoz
 
@@ -272,7 +272,7 @@ A négy alapvető nemzeti erőforrás területén a célok rendszere a következ
 
 Emberi erőforrások Cél a népességében stabil, egészséges, a kor kihívásainak megfelelő készségekkel és tudással rendelkező emberek alkotta, a kirekesztettséget fokozatosan csökkentő társadalom.
 
-Demográfia Közép távon kívánatos és elérhető a születések számának növelése, a halandóság csökkentése, ezek eredményeképpen a népességfogyás lelassítása, hosszú távon a népességszám stabilizálása [C1.3][^2]. Mivel a társadalom öregedése [A1.1] nem elkerülhető, fontos az idős emberek egészségének megőrzése [C1.11-12], a társadalmi együttműködésben való szerepük lehetőségének biztosítása [C1.5]. A súlyos problémát jelentő elvándorlás lefékezéséhez szükség van a kritikus mértékben érintett szakmákban versenyképes munkabérek biztosítására [C1.2]. Meg kell kezdeni egy bevándorlási politika kialakítását [C1.4].
+Demográfia Közép távon kívánatos és elérhető a születések számának növelése, a halandóság csökkentése, ezek eredményeképpen a népességfogyás lelassítása, hosszú távon a népességszám stabilizálása [C1.3][^3]. Mivel a társadalom öregedése [A1.1] nem elkerülhető, fontos az idős emberek egészségének megőrzése [C1.11-12], a társadalmi együttműködésben való szerepük lehetőségének biztosítása [C1.5]. A súlyos problémát jelentő elvándorlás lefékezéséhez szükség van a kritikus mértékben érintett szakmákban versenyképes munkabérek biztosítására [C1.2]. Meg kell kezdeni egy bevándorlási politika kialakítását [C1.4].
 
 Egészség A halandóság csökkentésében a közép-európai régiós átlaghoz való felzárkózás a cél [C1.13], ezzel együtt a betegségteher túlnyomó részét adó, jelentős mértékben az életmódtól függő krónikus nem fertőző megbetegedések számának csökkentése [C1.12], az egészségkockázatos magatartási formák [C1.11] arányának, valamint a környezeti kockázati tényezők [C3.6] mérséklése.
 
@@ -292,7 +292,7 @@ A múlt örökségének ápolása, kulturális szolgáltatások fejlesztése Kí
 
 Természeti erőforrások A környezeti eltartóképességet mint a gazdálkodás korlátját kell érvényesíteni. [C3.1 és C3.2]
 
-Biodiverzitás, megújuló természeti erőforrások Az Európában egyedülálló fajgazdagság fenntartása, a táj és a természeti értékek megőrzése, az ökoszisztéma-szolgáltatások kimerítésének megakadályozása [C3.5] szükséges. Fontos cél a talaj termőképességének fenntartása [C3.4], a természetes területek beépítési sebességének csökkentése, a fenntartható hozamon[^3] alapuló gazdálkodás a megújuló erőforrásokkal. [C3.5]
+Biodiverzitás, megújuló természeti erőforrások Az Európában egyedülálló fajgazdagság fenntartása, a táj és a természeti értékek megőrzése, az ökoszisztéma-szolgáltatások kimerítésének megakadályozása [C3.5] szükséges. Fontos cél a talaj termőképességének fenntartása [C3.4], a természetes területek beépítési sebességének csökkentése, a fenntartható hozamon[^4] alapuló gazdálkodás a megújuló erőforrásokkal. [C3.5]
 
 Az embert érő környezeti terhelések csökkentése Az emberi egészséget és életminőséget veszélyeztető kibocsátásokat korlátok között kell tartani, azokat megfelelően szabályozni szükséges. [C3.6]
 
@@ -520,7 +520,7 @@ T2.14 A jogalkotás során a magyar kormányzás azzal is hozzájárulhat a tár
 
 T2.15 Ahhoz, hogy a fenntarthatósághoz kapcsolódó elvek érvényesüljenek Magyarország kormányzásában, szükség van az ezt működtető szereplők ismereteinek bővítésére. Haladéktalanul meg kell kezdeni a kormány- és köztisztviselői kar továbbképzését (minisztériumok, hatóságok, önkormányzati hivatalok) a fenntarthatósággal kapcsolatos képzési tematika alapján. Biztosítani kell a nevelési-oktatási intézményekben foglalkoztatott vezetők, pedagógusok és a nevelő-oktató munkát segítők fenntarthatósággal kapcsolatos szakmai továbbképzését.
 
-6.4.3. Természeti erőforrások[^4]
+6.4.3. Természeti erőforrások[^5]
 
 T3.6 Az oktatás elsősorban ahhoz járul hozzá, hogy az egyének birtokában legyenek azoknak az információknak, amelyekkel a következő nemzedékek számára megőrizhetik a széles értelemben vett természeti erőforrások állapotát (ld. T3.1). A közoktatásban szükség van a fenntarthatósággal kapcsolatos ismeretek átadásának, a rendszerszintű gondolkodási készség elsajátításának erősítésére. Ezek helyet kaphatnak a Nemzeti Alaptantervben: az ismereteket az alap- és a középfokú oktatás során különböző tantárgyak keretében adnák át a diákoknak. A Nemzeti Vidék- és Energiastratégiák is nagy hangsúlyt helyeznek a közoktatásban folyó környezeti nevelési munkára, valamint a felső- és felnőttoktatásban folyó fenntarthatósági szemléletformálási tevékenységekre. A tanárok számára a fenntarthatósági szakmai ismereteket továbbképzések keretében lehet biztosítani, amelyek finanszírozása akár uniós forrásokból is megvalósítható. A felsőoktatásban pedig a korszerű természettudományos ismeretek átadására, a fenntarthatósági, környezetvédelmi szempontok megjelenítésére van szükség.
 
@@ -806,6 +806,7 @@ Függelék a 18/2013. (III. 28.) OGY határozat mellékletéhez
 
 | T4.11 Az életpálya-finanszírozás két ellentétes irányú áramának (az aktívaktól az idősek, ill. a gyermekek felé) összekapcsolása egyéni és nemzeti szinten, a korosztályi egyensúly fokozatos visszaállítása; T4.12 Az idősek aktivitásának ösztönzése T4.13 Szabályalapú (automatikus) nyugdíjrendszer kialakítása T4.14 Alacsony reálkamatlábat eredményező gazdaságpolitika érvényesítése T4.15 Alkotmányos korlát érvényesítése a költségvetési gazdálkodásban és az önkormányzatok feladatainak és finanszírozásának összhangba hozása T4.16 A pénzügyi tudatosság közvetítése a lakosság irányába T4.17 A járadékvadász magatartás és egyéb nem értékteremtő bevételszerzési tevékenységek ösztönzésének csökkentése T4.18 Térségi fenntarthatósági stratégiák kidolgozása | F4 Központi és helyi kormányzás |
 
-[^2]: A kódszámok – itt és a továbbiakban is – a Függelékben található 1. sz. táblázattal való kapcsolatot teremtik meg.
-[^3]: A biológiai úton megújuló természeti erőforrások adott időszakban megvalósult szaporulata adja a fenntartható hozam nagyságát.
-[^4]: A kormány számára javasolt környezeti fenntarthatósággal kapcsolatos eszközök összhangban vannak az Új Széchenyi Terv Zöldgazdaság-fejlesztési Programjával. A Zöldenergia prioritás alprogramjai különböző területeken (pl. agrárenergetika, környezetipar, zöld közlekedés) kívánják támogathatóvá tenni a környezeti célú beruházásokat, valamint szabályozási eszközöket is felsorolnak a zöldenergia felhasználásának bővítésére. A Zöldoktatás, foglalkoztatás és szemléletformálás prioritás a Zöld szemléletformálást szolgáló tevékenységek támogatása alprogramban említi a kommunikációs kampányok megszervezésére a pályázatok kiírását, valamint a környezettudatos gondolkodás iskolai tantervekbe való beépítését. Ugyanebben a prioritásban szerepel a Zöld K+F+I alprogram is, mely biztosítani kívánja a kutatási, fejlesztési és innovációs tevékenységek számára a hazai és uniós forrásokat, és megjelöli az energetikai területen támogatandó témákat.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A kódszámok – itt és a továbbiakban is – a Függelékben található 1. sz. táblázattal való kapcsolatot teremtik meg.
+[^4]: A biológiai úton megújuló természeti erőforrások adott időszakban megvalósult szaporulata adja a fenntartható hozam nagyságát.
+[^5]: A kormány számára javasolt környezeti fenntarthatósággal kapcsolatos eszközök összhangban vannak az Új Széchenyi Terv Zöldgazdaság-fejlesztési Programjával. A Zöldenergia prioritás alprogramjai különböző területeken (pl. agrárenergetika, környezetipar, zöld közlekedés) kívánják támogathatóvá tenni a környezeti célú beruházásokat, valamint szabályozási eszközöket is felsorolnak a zöldenergia felhasználásának bővítésére. A Zöldoktatás, foglalkoztatás és szemléletformálás prioritás a Zöld szemléletformálást szolgáló tevékenységek támogatása alprogramban említi a kommunikációs kampányok megszervezésére a pályázatok kiírását, valamint a környezettudatos gondolkodás iskolai tantervekbe való beépítését. Ugyanebben a prioritásban szerepel a Zöld K+F+I alprogram is, mely biztosítani kívánja a kutatási, fejlesztési és innovációs tevékenységek számára a hazai és uniós forrásokat, és megjelöli az energetikai területen támogatandó témákat.
