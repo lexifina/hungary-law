@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-360-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-12-18 | 2012-360-20-22.1 | 360/2012. (XII. 17.) Korm. rendelet |
+| 2013-03-30 | 2012-360-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
