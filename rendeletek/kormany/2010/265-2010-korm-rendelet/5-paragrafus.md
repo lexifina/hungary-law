@@ -4,7 +4,7 @@ a) javaslatot tesz a kereskedelemfejlesztés és befektetés-ösztönzés rövid
 
 b) részt vesz a külgazdaság politikai koncepció és a külgazdasági stratégia végrehajtásában;
 
-c) segíti a kereskedelem-fejlesztésért és befektetés-ösztönzésért felelős minisztert e tevékenysége ellátásában;
+c)[^8] segíti az államtitkárt a miniszterelnök külügyi és külgazdasági stratégiájából eredő feladatok előkészítésében;
 
 d) közreműködik a kereskedelem-fejlesztési és befektetés-ösztönzési szakmai anyagok összeállításában;
 
@@ -16,7 +16,7 @@ g) részt vesz a kereskedelem-fejlesztési és befektetés-ösztönzési elképz
 
 h) előkészíti a kiemelt beruházási projektek támogatásával kapcsolatos kormányzati döntéseket;
 
-i) a miniszter egyetértésével kapcsolatot tart fenn, illetve együttműködik a kereskedelem-fejlesztésben és befektetés-ösztönzésben érintett kormányzati szervekkel;
+i)[^9] az államtitkár egyetértésével kapcsolatot tart fenn, illetve együttműködik a kereskedelem-fejlesztésben és befektetés-ösztönzésben érintett kormányzati szervekkel;
 
 j) szakmai háttéranyagok kidolgozásával közreműködik a kereskedelem-fejlesztési és befektetés-ösztönzési szakmai kommunikáció szervezésében;
 
@@ -24,17 +24,17 @@ k) segíti a két- és többoldalú nemzetközi gazdasági kapcsolatok fejleszt�
 
 l) kapcsolatot tart a külföldi befektetőkkel, segíti azok befektetési döntéseinek meghozatalát;
 
-m) előkészíti és lebonyolítja a miniszter által a hatáskörébe utalt kereskedelem-fejlesztési és befektetés-ösztönzési tárgyalásokat, koordinálja a vállalt kötelezettségek végrehajtását;
+m)[^10] előkészíti és lebonyolítja a miniszterelnök által a hatáskörébe utalt kereskedelem-fejlesztési és befektetés-ösztönzési tárgyalásokat, koordinálja a vállalt kötelezettségek végrehajtását;
 
 n) részt vesz a külgazdasági támogatási rendszerre vonatkozó javaslatok kidolgozásában;
 
 o) feladatkörét érintően együttműködik hazai és határon túli civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, illetve testületekkel;
 
-p) végrehajtja a miniszter által meghatározott egyéb feladatokat.
+p)[^11] végrehajtja az államtitkár által meghatározott egyéb feladatokat.
 
-q)[^5] az önkéntesen regisztrált határon túli magyar vállalkozások számára gazdaságinformációs rendszert működtet.
+q)[^12] az önkéntesen regisztrált határon túli magyar vállalkozások számára gazdaságinformációs rendszert működtet.
 
-r)[^6] ellátja a Magyarország NATO Repülőgép-fedélzeti Korai Előrejelző és Ellenőrző Program Kezelő Szervezetéhez (NAPMO) történt csatlakozása kapcsán felmerülő, az AS9100 repülőgép-ipari minőségbiztosítási rendszer kis- és középvállalkozások körében történő kiépítését szolgáló projekt pénzügyi lebonyolítását.
+r)[^13] ellátja a Magyarország NATO Repülőgép-fedélzeti Korai Előrejelző és Ellenőrző Program Kezelő Szervezetéhez (NAPMO) történt csatlakozása kapcsán felmerülő, az AS9100 repülőgép-ipari minőségbiztosítási rendszer kis- és középvállalkozások körében történő kiépítését szolgáló projekt pénzügyi lebonyolítását.
 
 (2) A Hivatal a kereskedelem-fejlesztési tevékenysége körében
 
@@ -78,5 +78,9 @@ h) felkészíti a helyi önkormányzatokat a befektetők fogadására;
 
 i) utógondozza a már betelepült befektetők működési körülményeit és közreműködik a magyar hozzáadott érték-hányad növelésében.
 
-[^5]: Az 5. § (1) bekezdés q) pontját a 78/2012. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
-[^6]: Az 5. § (1) bekezdés r) pontját a 263/2012. (IX. 17.) Korm. rendelet 2. §-a iktatta be.
+[^8]: Az 5. § (1) bekezdés c) pontja a 93/2013. (III. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^9]: Az 5. § (1) bekezdés i) pontja a 93/2013. (III. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés m) pontja a 93/2013. (III. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdés p) pontja a 93/2013. (III. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdés q) pontját a 78/2012. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^13]: Az 5. § (1) bekezdés r) pontját a 263/2012. (IX. 17.) Korm. rendelet 2. §-a iktatta be.
