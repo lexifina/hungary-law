@@ -6,10 +6,11 @@ b) a földgázkereskedők vagy földgáztermelők által felajánlott, az együt
 
 c) a földgázkereskedők által felajánlott opciós forrás,
 
-d) a napi földgáz- és kapacitáskereskedelmi piacról beszerzett földgáz mennyiség és kapacitás,
+d)[^38] az egyensúlyozó platformról beszerzett földgáz mennyiség és kapacitás,
 
 e) a szervezett földgázpiacról beszerzett földgáz mennyiség és kapacitás,
 
 f) a szállítási rendszerüzemeltető által importból beszerzett földgáz mennyiség vagy opciós forrás.
 
 [^37]: A Vhr. 5/A. §-t a 75/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be.
+[^38]: A Vhr. 5/A. § d) pontja a 99/2013. (III. 30.) Korm. rendelet 3. § 2. pontja szerint módosított szöveg.

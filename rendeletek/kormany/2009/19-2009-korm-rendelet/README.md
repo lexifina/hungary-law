@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2012-12-31 | 2009-19-20-22.19 | 411/2012. (XII. 28.) Korm. rendelet |
 | 2013-01-01 | 2009-19-20-22.20 | 252/2012. (IX. 7.) Korm. rendelet |
 | 2013-02-01 | 2009-19-20-22.21 | 355/2012. (XII. 13.) Korm. rendelet |
+| 2013-03-30 | 2009-19-20-22.22 | 99/2013. (III. 29.) Korm. rendelet |

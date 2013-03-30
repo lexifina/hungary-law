@@ -1,10 +1,10 @@
-76. §[^240] (1)[^241] A szállítási rendszerüzemeltető és a földgázelosztó köteles a honlapján folyamatosan feltüntetni a szabad kapacitásait. A szabad kapacitás meghatározásánál a hidraulikailag legnagyobb szállítható mennyiséget csökkenteni kell a technológiai és veszteség-kezelési célra felhasznált kapacitásokkal.
+76. §[^244] (1)[^245] A szállítási rendszerüzemeltető és a földgázelosztó köteles a honlapján folyamatosan feltüntetni a szabad kapacitásait. A szabad kapacitás meghatározásánál a hidraulikailag legnagyobb szállítható mennyiséget csökkenteni kell a technológiai és veszteség-kezelési célra felhasznált kapacitásokkal.
 
-(2)[^242] A szállítási rendszerirányító az igénybejelentések alapján köteles minden évben, az ÜKSZ felülvizsgálatakor – ha a rendszeren fizikai szűkületet állapít meg – javaslatot tenni a forrásoldali kapacitások ÜKSZ szerint történő felosztási szabályaira. A szerződéses szűkület kezelésére az ÜKSZ-ben aukciós eljárásrendet kell kialakítani és az aukciós tapasztalatok alapján a felosztási szabályokat megfelelően módosítani.
+(2)[^246] A szállítási rendszerirányító az igénybejelentések alapján köteles minden évben, az ÜKSZ felülvizsgálatakor – ha a rendszeren fizikai szűkületet állapít meg – javaslatot tenni a forrásoldali kapacitások ÜKSZ szerint történő felosztási szabályaira. A szerződéses szűkület kezelésére az ÜKSZ-ben aukciós eljárásrendet kell kialakítani és az aukciós tapasztalatok alapján a felosztási szabályokat megfelelően módosítani.
 
-(3)[^243] A rendszerhasználó Magyarország államhatárát átlépő szállítóvezetéken, elosztóvezetéken a saját felhasználása mértékéig – a szállítási rendszerüzemeltető a kiegyensúlyozó földgáz biztosításával kapcsolatos kötelezettsége, és a rendszerüzemeltetők technológiai és veszteség kezelési célra használt földgáz mértékéig, a termelő az általa termelt földgáz mértékéig – jogosult a földgáz határon keresztül történő be-, illetve kiszállítására is.
+(3)[^247] A rendszerhasználó Magyarország államhatárát átlépő szállítóvezetéken, elosztóvezetéken a saját felhasználása mértékéig – a szállítási rendszerüzemeltető a kiegyensúlyozó földgáz biztosításával kapcsolatos kötelezettsége, és a rendszerüzemeltetők technológiai és veszteség kezelési célra használt földgáz mértékéig, a termelő az általa termelt földgáz mértékéig – jogosult a földgáz határon keresztül történő be-, illetve kiszállítására is.
 
-[^240]: A Vhr. 76. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^241]: A Vhr. 76. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
-[^242]: A Vhr. 76. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
-[^243]: A Vhr. 76. § (3) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 35. §-a, a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^244]: A Vhr. 76. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^245]: A Vhr. 76. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^246]: A Vhr. 76. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^247]: A Vhr. 76. § (3) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 35. §-a, a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.

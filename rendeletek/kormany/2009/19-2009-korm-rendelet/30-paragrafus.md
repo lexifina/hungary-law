@@ -1,18 +1,18 @@
 ## (A GET 39. §-ához)
 
-30. §[^108] (1) Egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását
+30. §[^111] (1) Egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását
 
 a) a szolgáltatási területre jellemző, de legalább egy gázévre összesen 2600 napfok számig, és
 
 b) legalább –12 °C közép-hőmérsékletéhez tartozó fogyasztási értékig.
 
-(2)[^109] Az egyetemes szolgáltatónak az (1) bekezdés szerinti ellátás biztonsági szint biztosítása érdekében rendelkeznie kell minden év március 31-én az általa ellátott felhasználók következő gázévi fogyasztásának megfelelő földgáz-kereskedelmi szerződésben lekötött földgázforrással vagy forrásopcióval, valamint minden év október 1-jén a 31. § (1) bekezdés szerinti téli felkészülési tervben meghatározott várható téli fogyasztás legalább 60%-ának megfelelő, hazai földgáztárolóban elhelyezett földgázkészlettel.
+(2)[^112] Az egyetemes szolgáltatónak az (1) bekezdés szerinti ellátás biztonsági szint biztosítása érdekében rendelkeznie kell minden év március 31-én az általa ellátott felhasználók következő gázévi fogyasztásának megfelelő földgáz-kereskedelmi szerződésben lekötött földgázforrással vagy forrásopcióval, valamint minden év október 1-jén a 31. § (1) bekezdés szerinti téli felkészülési tervben meghatározott várható téli fogyasztás legalább 60%-ának megfelelő, hazai földgáztárolóban elhelyezett földgázkészlettel.
 
-(3)[^110] Az egyetemes szolgáltató az (1) és (2) bekezdésben meghatározott kötelezettségeinek nem vagy nem megfelelő teljesítéséért a felhasználók felé kártérítési felelősséggel tartozik.
+(3)[^113] Az egyetemes szolgáltató az (1) és (2) bekezdésben meghatározott kötelezettségeinek nem vagy nem megfelelő teljesítéséért a felhasználók felé kártérítési felelősséggel tartozik.
 
-(4)[^111]
+(4)[^114]
 
-[^108]: A Vhr. 30. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^109]: A Vhr. 30. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^110]: A Vhr. 30. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^111]: A Vhr. 30. § (4) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^111]: A Vhr. 30. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^112]: A Vhr. 30. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^113]: A Vhr. 30. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^114]: A Vhr. 30. § (4) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

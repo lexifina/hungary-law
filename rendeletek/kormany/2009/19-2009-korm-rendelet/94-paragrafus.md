@@ -2,7 +2,7 @@
 
 ## Szolgáltatás szüneteltetése
 
-94. §[^294] (1) A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról. Ennek érdekében jogosult évente egy alkalommal legfeljebb 48 óra időtartamú, gázszünettel járó karbantartást végezni a gázátadó állomásokon és betáplálási pontokon.
+94. §[^299] (1) A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról. Ennek érdekében jogosult évente egy alkalommal legfeljebb 48 óra időtartamú, gázszünettel járó karbantartást végezni a gázátadó állomásokon és betáplálási pontokon.
 
 (2) A rendszerüzemeltető – az (5) bekezdés kivételével – a gázszünettel járó karbantartások időpontját és a tervezett leállások időpontját a következő évre vonatkozóan – a GET 78. § (2) bekezdése szerinti határidő figyelembevételével – minden év december 15-ig bejelenti a kapcsolódó szállítási rendszerüzemeltető részére. A bejelentés részletes szabályait az ÜKSZ tartalmazza.
 
@@ -20,4 +20,4 @@ b) törölni, ha a kapcsolódó rendszerüzemeltető nem tervezett a szállító
 
 (7) A rendszerhasználó jogosult egyedi műszaki megoldás alkalmazását igényelni, amely lehetővé teszi a karbantartás gázszüneteltetés nélküli elvégzését, az ezzel kapcsolatos költségek a felhasználót terhelik.
 
-[^294]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^299]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.

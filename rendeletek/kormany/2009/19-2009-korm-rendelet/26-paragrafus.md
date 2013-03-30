@@ -1,3 +1,3 @@
-26. §[^97] A 24–25. § rendelkezéseit nem kell alkalmazni, ha a lakossági fogyasztó magatartása az együttműködő földgázrendszer biztonságos üzemelését veszélyezteti.
+26. §[^100] A 24–25. § rendelkezéseit nem kell alkalmazni, ha a lakossági fogyasztó magatartása az együttműködő földgázrendszer biztonságos üzemelését veszélyezteti.
 
-[^97]: A Vhr. 26. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^100]: A Vhr. 26. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
