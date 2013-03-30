@@ -1,3 +1,5 @@
+## 14/A. §[^58]
+
 ## A működési engedély módosítása a minimumfeltételek változása miatt
 
 15. §[^59] (1) Amennyiben új vagy módosított szakmai minimumfeltételt előíró jogszabály kerül kihirdetésre, az egészségügyi szolgáltató – ha jogszabály eltérően nem rendelkezik – az új, vagy módosított jogszabály hatálybalépésétől számított két hónapon belül bejelenti a működési engedélyt kiadó egészségügyi államigazgatási szerv részére szolgáltatásainak az új vagy módosított minimumfeltételnek való megfelelését.
@@ -8,5 +10,6 @@
 
 (4) A működési engedély 14. §, illetve e § szerinti módosításáról szóló határozatot közölni kell a 11. § (5) bekezdésében felsorolt szervekkel.
 
+[^58]: A 14/A. §-t a 312/2004. (XI. 17.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 94/2013. (III. 29.) Korm. rendelet 6. § a) pontja.
 [^59]: A 15. § a 325/2011. (XII. 28.) Korm. rendelet 41. §-ával megállapított szöveg.
 [^60]: A 15. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
