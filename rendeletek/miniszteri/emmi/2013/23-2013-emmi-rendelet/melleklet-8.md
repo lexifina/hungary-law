@@ -1,5 +1,0 @@
-## 20135H20000023_7
-
-8. melléklet a 23/2013. (III. 29.) EMMI rendelethez
-
-20135H20000023_8
