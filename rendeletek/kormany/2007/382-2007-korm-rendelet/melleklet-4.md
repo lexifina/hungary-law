@@ -4,7 +4,7 @@
 
 |  | Bevonás és közreműködés feltétele | Szakkérdés | Elsőfokú eljárásban | Másodfokú eljárásban |
 
-| 1. | a) Termőföldön megvalósuló építmény vagy tevékenység esetében, az elvi építési és a bontási engedélyezési eljárás kivételével. | A termőföld minőségi védelme. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 1. | a) Termőföldön megvalósuló építmény vagy tevékenység esetében, az elvi építési és a bontási, valamint az előmunkálati jog és az üzemeltetési engedélyezési eljárás kivételével. | A termőföld minőségi védelme. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 |  | b) Erdőben megvalósuló vagy a megvalósítás során erdőre, az erdő talajára, vízháztartására vagy mikroklímájára hatást gyakorló módon megvalósuló létesítmény esetében, elvi építési, használatbavételi és bontási engedélyezési eljárás kivételével. | Az erdőre gyakorolt hatások vizsgálata. | fővárosi és megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -68,4 +68,4 @@
 
 – kéményseprő-ipari szolgáltató szerv.
 
-[^63]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a, az 51/2013. (II. 25.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^63]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a, az 51/2013. (II. 25.) Korm. rendelet 16. §-a, a 86/2013. (III. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.

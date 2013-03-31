@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2013-01-02 | 2007-382-20-22.12 | 245/2012. (VIII. 31.) Korm. rendelet |
 | 2013-02-01 | 2007-382-20-22.13 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-02-26 | 2007-382-20-22.14 | 245/2012. (VIII. 31.) Korm. rendelet |
+| 2013-03-31 | 2007-382-20-22.15 | 245/2012. (VIII. 31.) Korm. rendelet |
