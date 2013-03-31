@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-126-20-
 | 2011-01-15 | 2003-126-20-22.13 | 344/2009. (XII. 30.) Korm. rendelet |
 | 2011-01-16 | 2003-126-20-22.14 | 344/2009. (XII. 30.) Korm. rendelet |
 | 2012-07-01 | 2003-126-20-22.15 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2013-03-31 | 2003-126-20-22.16 | 310/2013. (VIII. 16.) Korm. rendelet |
