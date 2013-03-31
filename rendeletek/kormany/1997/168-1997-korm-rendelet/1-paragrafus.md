@@ -20,7 +20,13 @@ g)[^5] az elhunyt jogszerző után hozzátartozói nyugellátás megállapítás
 
 h)[^6] a hozzátartozói nyugellátást a köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény 18. § (4) bekezdése vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 13. § (3a) bekezdése alapján kell megállapítani.
 
-(3)[^7] A Tny. 22/A. §-a szerinti növelés megállapítására irányuló eljárásban, ha a kérelmező magyarországi lakóhellyel nem rendelkezik, a Nyugdíjfolyósító Igazgatóság, egyéb esetben a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság jár el első fokon.
+(3)[^7] A Tny. 22/A. §-a szerinti növelés megállapítására irányuló eljárásban,
+
+a) ha a kérelmező magyarországi lakóhellyel nem rendelkezik, vagy a kérelmezőnek, illetve hozzátartozói nyugellátás esetén az elhunyt jogszerzőnek a növelés során figyelembevételre kerülő utolsó biztosítással járó jogviszonya fegyveres szervvel, a Magyar Honvédséggel vagy a Katonai Nemzetbiztonsági Szolgálattal fennállt szolgálati viszony volt, a Nyugdíjfolyósító Igazgatóság,
+
+b) az a) pontban nem említett esetben a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság
+
+jár el első fokon.
 
 [^1]: Az 1. §-t megelőző alcím a 327/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § a 60/2012. (III. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -28,4 +34,4 @@ h)[^6] a hozzátartozói nyugellátást a köztársasági elnök jogállásáró
 [^4]: Az 1. § (2) bekezdés f) pontja a 425/2012. (XII. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés g) pontja a 425/2012. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^6]: Az 1. § (2) bekezdés h) pontját a 425/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 91/2013. (III. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

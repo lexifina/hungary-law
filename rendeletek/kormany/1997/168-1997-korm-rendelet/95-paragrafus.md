@@ -1,3 +1,3 @@
-95. §[^298] A nyugellátások és egyes más ellátások 2012. évi kiegészítő emeléséről szóló 287/2012. (X. 11.) Korm. rendelettel megállapított 62. § (7) bekezdését 2012. január 1-jére visszamenőlegesen kell alkalmazni.
+95. §[^299] A nyugellátások és egyes más ellátások 2012. évi kiegészítő emeléséről szóló 287/2012. (X. 11.) Korm. rendelettel megállapított 62. § (7) bekezdését 2012. január 1-jére visszamenőlegesen kell alkalmazni.
 
-[^298]: A 95. §-t a 287/2012. (X. 11.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^299]: A 95. §-t a 287/2012. (X. 11.) Korm. rendelet 6. § (2) bekezdése iktatta be.

@@ -6,8 +6,9 @@
 
 a) a Tny. 39. §-ában foglaltak miatt nem éri el a tíz évet, a tíz évhez tartozó, 3. számú melléklet szerinti szorzószámokat annyiszor kell további 2 százalékponttal csökkenteni, ahány év a tíz év szolgálati időből hiányzik, és az így meghatározott szorzószám alapján,
 
-b) a Tny. 46. § (2) bekezdésében foglaltak miatt nem éri el a tíz évet, a tíz évhez tartozó, 3. számú melléklet szerinti szorzószám alapján,
+b)[^79] a Tny. 46. § (2) bekezdésében vagy a Tny. 46. § (3) bekezdés b) pontjában foglaltak miatt nem éri el a tíz évet, a tíz évhez tartozó, 3. számú melléklet szerinti szorzószám alapján,
 
 az (1) bekezdésben foglaltak szerint kell megállapítani a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeget.
 
 [^78]: Az 59/D. §-t a 333/2011. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^79]: Az 59/D. § (3) bekezdés b) pontja a 91/2013. (III. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

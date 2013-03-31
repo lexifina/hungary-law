@@ -52,7 +52,7 @@ l)[^44] 2011. évben a (2) bekezdésnek az adóalap-kiegészítésre vonatkozó 
 
 kell levonni.
 
-(6)[^45] Az (1)–(5) bekezdés alapján meghatározott naptári évi kereseteket, valamint – ha az 1988. január 1-je előtti keresetet is figyelembe kell venni – a Tny. 22. § (8) bekezdése szerinti kereseteket a 2. számú melléklet szerinti valorizációs szorzószámok (a továbbiakban: valorizációs szorzószámok) figyelembevételével kell növelni. A tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépéséig – a tárgyévet megelőző évi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok figyelembevételével – előleget kell megállapítani.
+(6)[^45] Az (1)–(5) bekezdés alapján meghatározott naptári évi kereseteket, valamint – ha az 1988. január 1-je előtti keresetet is figyelembe kell venni – a Tny. 22. § (8) bekezdése szerinti kereseteket a 2. számú melléklet szerinti valorizációs szorzószámok figyelembevételével kell növelni. A tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépéséig – a tárgyévet megelőző évi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok figyelembevételével – előleget kell megállapítani.
 
 [^37]: A 15. § a 365/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (3) bekezdését.
 [^38]: A 15. § (1) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
@@ -62,4 +62,4 @@ kell levonni.
 [^42]: A 15. § (5) bekezdés j) pontja a 332/2008. (XII. 30.) Korm. rendelet 15. § (2) bekezdés a) pont ad) alpontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2008. december 31-ét követő időponttól megállapított ellátásokra, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
 [^43]: A 15. § (5) bekezdés k) pontját a 266/2009. (XII. 1.) Korm. rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2009. december 31-ét követő időponttól megállapított ellátásokra kell alkalmazni.
 [^44]: A 15. § (5) bekezdés l) pontját a 354/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^45]: A 15. § (6) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^45]: A 15. § (6) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 3. §-ával megállapított, a 91/2013. (III. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
