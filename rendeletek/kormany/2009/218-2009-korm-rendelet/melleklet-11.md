@@ -42,7 +42,7 @@ c)[^42] működési területével érintett vízügyi igazgatóság,
 
 d)[^43] a megyei kormányhivatal erdészeti igazgatósága
 
-e)[^44] a megyei kormányhivatal növény- és talajvédelmi igazgatósága,
+e)[^44]
 
 f)[^45] fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala,
 
@@ -72,7 +72,7 @@ k)[^49] Nemzeti Környezetügyi Intézet működési területtel érintett terü
 [^41]: A 11. melléklet 12. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § j) pontja hatályon kívül helyezte.
 [^42]: A 11. melléklet 13. pont c) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § f) pontja szerint módosított szöveg.
 [^43]: A 11. melléklet 13. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
-[^44]: A 11. melléklet 13. pont e) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^44]: A 11. melléklet 13. pont e) alpontját a 86/2013. (III. 21.) Korm. rendelet 6. §-a hatályon kívül helyezte.
 [^45]: A 11. melléklet 13. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított, a 394/2012. (XII. 20.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^46]: A 11. melléklet 13. pont g) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
 [^47]: A 11. melléklet 13. pont h) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
