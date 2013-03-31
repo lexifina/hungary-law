@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-76-20-2
 | 2012-06-01 | 2009-76-20-22.8 | 105/2012. (V. 30.) Korm. rendelet |
 | 2013-01-01 | 2009-76-20-22.9 | 197/2011. (IX. 29.) Korm. rendelet |
 | 2013-02-01 | 2009-76-20-22.10 | 402/2012. (XII. 28.) Korm. rendelet |
+| 2013-03-31 | 2009-76-20-22.11 | 197/2011. (IX. 29.) Korm. rendelet |

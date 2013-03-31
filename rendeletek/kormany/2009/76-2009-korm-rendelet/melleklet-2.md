@@ -28,7 +28,7 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 4. | Minden esetben. | A területrendezési tervekben rögzített régészeti örökséggel és műemléki értékkel kapcsolatos szabályozás, továbbá a régészeti örökség és a műemléki érték védelme jogszabályban rögzített követelményeinek érvényesülése. | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 5. | Minden esetben. | A termőföld minőségi védelme, valamint erdő esetében a fenntartható erdőgazdálkodás és az erdők közérdekű szolgáltatásainak biztosítása. | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdő esetében a megyei kormányhivatal erdészeti igazgatósága |
+| 5. | Minden esetben. | Erdő esetében a fenntartható erdőgazdálkodás és az erdők közérdekű szolgáltatásainak biztosítása. | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdő esetében a megyei kormányhivatal erdészeti igazgatósága |
 
 | 6. | Minden esetben. | A termőföld mennyiségi védelme. | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a fővárosi és megyei kormányhivatal földhivatala |
 
@@ -56,4 +56,4 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 13. | Honvédelmi és katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintő esetben. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
 
-[^36]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^36]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a, a 86/2013. (III. 21.) Korm. rendelet 5. §-a szerint módosított szöveg. [A 86/2013. (III. 21.) Korm. rendelet 5. §-ával elrendelt módosítás, amely szerint a (C:5) mezőben „a termőföld minőségi védelme esetében a megyei kormányhivatal növény– és talajvédelmi igazgatósága, erdő esetében” szövegrész hatályát veszti, nem vezethető át.]
