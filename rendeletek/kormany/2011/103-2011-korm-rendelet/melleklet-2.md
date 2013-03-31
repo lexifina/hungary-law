@@ -10,7 +10,7 @@
 
 | 3. | A területen található termőföld. | Megyei Kormányhivatal Földhivatala a fővárosban a Fővárosi Kormányhivatal Földhivatala |
 
-| 4. | A termőföld minőségi védelmére vonatkozó követelmények. | Megyei, fővárosi kormányhivatal növény- és talajvédelmi igazgatósága |
+| 4. |  |  |
 
 | 5. | A területen található erdő és a védelmére vonatkozó követelmények. | Megyei, fővárosi kormányhivatal erdészeti igazgatósága |
 

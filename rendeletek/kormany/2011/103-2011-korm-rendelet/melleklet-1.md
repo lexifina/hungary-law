@@ -2,4 +2,4 @@
 
 1. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^5]
 
-[^5]: Az 1. melléklet a 146/2012. (VII. 5.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 146/2012. (VII. 5.) Korm. rendelet 29. §-a, a 86/2013. (III. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
