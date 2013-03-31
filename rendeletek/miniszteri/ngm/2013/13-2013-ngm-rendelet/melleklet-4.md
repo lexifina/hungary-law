@@ -214,48 +214,6 @@
 
 ## ”
 
-4. melléklet a 13/2013. (III. 29.) NGM rendelethez
+4. melléklet a 13/2013. (III. 29.) NGM rendelethez[^7]
 
-1. A Rendelet 17. melléklet II. alcím 8. pontja helyébe a következő rendelkezés lép:
-
-„8. A rendszernek a központi kommunikációs egységgel kiszolgált AEE-rendszerként engedélyezett módon történő működésének átállíthatónak kell lennie úgy, hogy az adatszolgáltatást az egyes pénztárgépeken elhelyezett AEE-k végezzék a beépített GSM modul útján. Az átállításra az üzemeltető saját döntése alapján bármikor sor kerülhet, illetve a Hatóság a 64. § (4) bekezdés szerinti esetben kötelezheti az üzemeltetőt az átállításra. A NAV továbbra is az AEE változatlan azonosítóit használja kommunikációra.”
-
-2. A Rendelet 17. melléklet III. alcím 1–2. pontja helyébe a következő rendelkezés lép:
-
-1. A központi kommunikációs egységgel kiszolgált AEE-rendszer tekintetében a 4. mellékletben foglalt adatokon kívül adatot kell szolgáltatnia a NAV felé az egyes pénztárgépeken működő rögzítő/naplózó egység és a központosított kommunikációs egység közötti kapcsolat megszűnéséről és újraépüléséről.
-
-A központi kommunikációs egységgel kiszolgált pénztárgépben bekövetkezett események naplózásának kiegészítő eseményei
-
-Bejegyzés azonosító: EVK
-
-Bejegyzés mezői
-
-|  |  | A | B | C |
-
-| 1. |  | Mező azonosító | Mező tartalmának leírása | formátum |
-
-| 2. | a. | RAZ | Bejegyzés azonosító: EVK | 3 karakteres szöveg |
-
-| 3. | b | DTS | Időbélyeg | szabványos dátum és idő adat másodperc pontossággal |
-
-| 4. | c | EVC | Esemény kódja | 3 karakteres szöveg |
-
-| 5. | d | EVD | Esemény leíró adata | üres / 200 karakteres szöveg |
-
-| 6. | e | HSH | Ellenőrző kód | 64 HEXA karakter |
-
-EVC lehetséges értékei:
-
-13. CNF: A pénztárgépben működő rögzítő/naplózó egység és a központi kommunikációs egység közötti kapcsolat megszűnése esetén
-
-14. CNR: A pénztárgépben működő rögzítő/naplózó egység és a központi kommunikációs egység közötti kapcsolat helyreállása esetén
-
-EVD lehetséges értékei:
-
-nem töltendő
-
-2. A központi kommunikációs egységnek a következő üzenettel kell a NAV szerver felé jeleznie, ha megváltozott a központi kommunikációs egység felé aktuálisan élő kapcsolattal rendelkező pénztárgépek köre:
-
-a) az üzenet első eleme a „PTGSET~CCCCCCCCC” karaktersorozat, ahol CCCCCCCCC a központi kommunikációs egység egyedi azonosítója,
-
-b) az üzenet további elemei minden, éppen csatlakozó pénztárgépre vonatkozóan a „~XXXXXXXXX” karaktersorozat, ahol „XXXXXXXXX” a pénztárgép AP számát jelöli.”
+[^7]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
