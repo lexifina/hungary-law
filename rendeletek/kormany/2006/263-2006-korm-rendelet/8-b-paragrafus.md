@@ -16,7 +16,7 @@ b)[^145] a katasztrófa- és tűzvédelemmel összefüggő létesítési és has
 
 c) – abban a kérdésben, hogy a repülőtér tervezett meteorológiai műszerezettsége, a műszerek mennyisége, elhelyezése, illetve mérési pontossága megfelel-e a nemzetközi polgári repülésről szóló, Chicagóban, 1944. évi december 7. napján aláírt Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak, a futópályák tervezett kiépítése az uralkodó széliránynak megfelelő-e, hiteles éghajlati adatokból, megfelelő szakismerettel készült-e az engedélyezési dokumentációnak a repülések végrehajtása szempontjából mérvadó meteorológiai körülményeket bemutató része – első fokú eljárásban az Országos Meteorológiai Szolgálatot,
 
-d)[^146] termőföldön megvalósuló tevékenység esetén – a termőföld minőségi védelme kérdésében – első fokú eljárásban a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+d)[^146] termőföldön megvalósuló tevékenység esetén – a termőföld minőségi védelme kérdésében –, polgári repülőtér elvi létesítésének és használatbavételének engedélyezése, illetve a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények megszüntetésének engedélyezése kivételével első fokú eljárásban a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
 e)[^147] – az egészségkárosító kockázatok és esetleges hatások, valamint a repülőtér környezetében a légiközlekedésből adódó zaj és rezgés okozta, egészségre gyakorolt hatások vizsgálatával kapcsolatos szakkérdésben – első fokú eljárásban a megyei, fővárosi kormányhivatal járási népegészségügyi intézetét, másodfokú eljárásban a megyei, fővárosi kormányhivatal megyei népegészségügyi szakigazgatási szervét,
 
@@ -76,7 +76,7 @@ b) – annak elbírálása kérdésében, hogy a tevékenység a természet véd
 [^143]: A 8/B. § (1) bekezdés b) pontja a 169/2010. (V. 11.) Korm. rendelet 49. § (1) bekezdésével megállapított, a 175/2011. (VIII. 31.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
 [^144]: A 8/B. § (2) bekezdése a 159/2010. (V. 6.) Korm. rendelet 46. § (4) bekezdésével megállapított, nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^145]: A 8/B. § (2) bekezdés b) pontja a 259/2011. (XII. 7.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^146]: A 8/B. § (2) bekezdés d) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés g) pontja, a 23/2012. (II. 29.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^146]: A 8/B. § (2) bekezdés d) pontja a 86/2013. (III. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^147]: A 8/B. § (2) bekezdés e) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (2) bekezdés f) és h) pontja, a 296/2012. (X. 17.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
 [^148]: A 8/B. § (2) bekezdés f) pontja a 82/2011. (V. 18.) Korm. rendelet 27. §-ával megállapított szöveg.
 [^149]: A 8/B. § (2) bekezdés g) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés i) pontja szerint módosított szöveg.
