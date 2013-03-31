@@ -18,6 +18,4 @@
 
 ## i) Nemzeti Munkaügyi Hivatal 10032000-01732630-00000000 pénzforgalmi jelzőszámú bankszámla
 
-8. melléklet a 16/2013. (II. 28.) EMMI rendelethez[^3]
-
-[^3]: A 8. melléklet a 36. § (3) bekezdése alapján 2013. március 31-én lép hatályba.
+8. melléklet a 16/2013. (II. 28.) EMMI rendelethez

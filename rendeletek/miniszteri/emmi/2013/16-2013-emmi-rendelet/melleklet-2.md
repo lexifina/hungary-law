@@ -406,6 +406,4 @@
 
 ## l) beválás-vizsgálata (amennyiben volt ilyen) tapasztalatainak összegzése.
 
-2. melléklet a 16/2013. (II. 28.) EMMI rendelethez[^2]
-
-[^2]: A 2. melléklet a 36. § (3) bekezdése alapján 2013. március 31-én lép hatályba.
+2. melléklet a 16/2013. (II. 28.) EMMI rendelethez
