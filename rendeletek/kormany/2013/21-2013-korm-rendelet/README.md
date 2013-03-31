@@ -1,0 +1,9 @@
+# 21/2013. (I. 30.) Korm. rendelet
+
+a bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-21-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-03-31 | 2013-21-20-22.1 | 21/2013. (I. 30.) Korm. rendelet |
