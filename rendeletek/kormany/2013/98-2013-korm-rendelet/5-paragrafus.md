@@ -1,0 +1,1 @@
+## „(3) A családbafogadó gyám gyámsága alatt álló gyermek – kivéve, ha a gyám a gyermek tartására köteles – a jövedelemszámítás szempontjából nem tekinthető a támogatást kérővel közös háztartásban élő közeli hozzátartozónak. A reá nézve igényelt támogatás megállapításánál a gyermek megélhetését szolgáló juttatásokat kell figyelembe venni [Csjt. 104. § (1) bek.].”

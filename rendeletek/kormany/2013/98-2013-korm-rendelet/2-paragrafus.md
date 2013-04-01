@@ -1,0 +1,1 @@
+## „a) ingatlanra vonatkozó becsült forgalmi értékét, akkor az ingatlan forgalmi értékének megállapítása érdekében megkeresi az állami adóhatóság ingatlan fekvése szerint illetékes megyei (fővárosi) adóigazgatóságát,”
