@@ -38,11 +38,13 @@
 
 ## A jogosult aláírása
 
-14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^222]
+14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^228]
 
 A természetben nyújtott lakásfenntartási támogatás folyósításához szükséges adatszolgáltatás formai követelményei
 
 A jegyző az adatokat táblázat formájában, *.xls, vagy *.csv kiterjesztésű állományként, az adatok 21. § (3) bekezdés pontjai sorrendjének követésével küldi meg a szolgáltató számára. Az elektronikus adatállomány elnevezésének alsó vonalakkal elválasztva tartalmazza az önkormányzat és a szolgáltató megnevezését, az adatküldés dátumát, valamint az analitika kifejezést. Példa az állomány nevére: Önkormányzat neve_Szolgáltató neve_Adatszolgáltatás dátuma_analitika.xls (vagy .csv)
+
+1M39837_0
 
 | A határozatot hozó szerv megnevezése*1 | A határozat száma* | A támogatott szolgáltatást igénybe vevő | A támogatásra jogosult lakcíme | Fogyasztó azonosító*2 | Fogyasztási hely azonosító*3 | A támogatás | Tárgyhavi utalás összesen* | Rendkívüli megszűntetés dátuma6 |
 
@@ -70,4 +72,4 @@ A jegyző az adatokat táblázat formájában, *.xls, vagy *.csv kiterjesztésű
 
 7 Az „Utalás mindösszesen” sorban a szolgáltató számára az adott hónapban átutalandó összeget kell feltűntetni, amelynek meg kell egyeznie „A támogatás havi összegének”, illetve – ahol kitöltött - „A támogatás eseti összegének” összeadott értékével. Amennyiben az adott ügyfél esetében „A támogatás eseti összege” nem került kitöltésre, úgy ott „A támogatás havi összegét” kell figyelembe venni. (pl: az 1. ügyfélnél „A támogatás eseti összege”: 5 000 Ft + a 2. ügyfélnél „A támogatás havi összege”: 5 600 Ft, vagyis az „Utalás mindösszesen”: 5 000 Ft + 5 600 Ft = 10 600 Ft).
 
-[^222]: A 14. számú mellékletet a 331/2011. (XII. 29.) Korm. rendelet 16. § c) pontja iktatta be.
+[^228]: A 14. számú mellékletet a 331/2011. (XII. 29.) Korm. rendelet 16. § c) pontja iktatta be.

@@ -1,6 +1,6 @@
-## 20/A. §[^93] A normatív lakásfenntartási támogatásra való jogosultságot megállapító határozatban rendelkezni kell – ha a települési önkormányzat erről az Szt. 38. § (9) bekezdése alapján rendelkezett – a lakókörnyezet rendezettségének biztosítására vonatkozó kötelezettségekről.
+## 20/A. §[^96] A normatív lakásfenntartási támogatásra való jogosultságot megállapító határozatban rendelkezni kell – ha a települési önkormányzat erről az Szt. 38. § (9) bekezdése alapján rendelkezett – a lakókörnyezet rendezettségének biztosítására vonatkozó kötelezettségekről.
 
-21. §[^94] (1) A természetbeni szociális ellátás formájában megállapított lakásfenntartási támogatás folyósítása a szolgáltató részére történik és annak összegét a támogatással érintett költség(ek) tekintetében a szolgáltató írja jóvá. Ebben az esetben a jogosultságot megállapító határozatban arról is rendelkezni kell, hogy a támogatást mely lakásfenntartási kiadás(ok)hoz nyújtják, továbbá fel kell tüntetni az Szt. 18. § l) pontja szerinti azonosító adato(ka)t.
+21. §[^97] (1) A természetbeni szociális ellátás formájában megállapított lakásfenntartási támogatás folyósítása a szolgáltató részére történik és annak összegét a támogatással érintett költség(ek) tekintetében a szolgáltató írja jóvá. Ebben az esetben a jogosultságot megállapító határozatban arról is rendelkezni kell, hogy a támogatást mely lakásfenntartási kiadás(ok)hoz nyújtják, továbbá fel kell tüntetni az Szt. 18. § l) pontja szerinti azonosító adato(ka)t.
 
 (2) A jegyző a szolgáltatási, egyetemes szolgáltatási vagy közüzemi szerződés alapján, természetbeni szociális ellátás formájában, havi rendszerességgel nyújtott lakásfenntartási támogatásra való jogosultság megállapítása esetén a szolgáltató részére – a jogosultság megállapítását követő hónaptól kezdődően minden hónap 5. napjáig – elektronikus úton adatszolgáltatást teljesít az adatszolgáltatás hónapjában folyósításra került támogatásokról.
 
@@ -38,5 +38,5 @@ i) a támogatás f) pontban jelölt időtartamon belüli megszüntetése esetén
 
 (10) A 22. §-ban szabályozottak szerint kódhordozó formájában nyújtott lakásfenntartási támogatás esetén a (2)–(9) bekezdésben foglaltakat nem kell alkalmazni.
 
-[^93]: A 20/A. §-t a 331/2011. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
-[^94]: A 21. § a 331/2011. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^96]: A 20/A. §-t a 331/2011. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
+[^97]: A 21. § a 331/2011. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

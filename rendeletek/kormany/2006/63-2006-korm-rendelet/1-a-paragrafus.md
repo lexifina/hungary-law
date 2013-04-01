@@ -6,4 +6,6 @@ b) a járási hivatal hatáskörébe tartozó ellátás esetén a kérelmező la
 
 lehet benyújtani.
 
-[^4]: Az 1/A. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+(2) Az aktív korúak ellátása iránti kérelem az (1) bekezdés a) pontjában meghatározottakon túl a kérelmezőt álláskeresőként nyilvántartó járási hivatal munkaügyi kirendeltségénél is benyújtható.
+
+[^4]: Az 1/A. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
