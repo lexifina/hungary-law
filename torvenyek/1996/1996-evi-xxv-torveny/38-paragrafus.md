@@ -40,7 +40,7 @@ Az alapvető lakossági szolgáltatások
 
 18. A helyi önkormányzat feladat- és hatáskörébe tartozó szakosított ellátások megszervezése (1993. évi III. törvény).
 
-19. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások, a helyi döntésen alapuló ellátások kivételével (időskorúak járadéka, bérpótló juttatás, rendszeres szociális segély, lakásfenntartási támogatás, ápolási díj, átmeneti segély, köztemetés, közgyógyellátás, egészségügyi szolgáltatásra való jogosultság, rendszeres gyermekvédelmi kedvezmény, kiegészítő gyermekvédelmi támogatás, rendkívüli gyermekvédelmi támogatás, óvodáztatási támogatás) (1993. évi III. törvény, 1997. évi XXXI. törvény).
+19. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások, a helyi döntésen alapuló ellátások kivételével (időskorúak járadéka, bérpótló juttatás, rendszeres szociális segély, lakásfenntartási támogatás, ápolási díj, átmeneti segély, köztemetés, közgyógyellátás, egészségügyi szolgáltatásra való jogosultság, rendszeres gyermekvédelmi kedvezmény, rendkívüli gyermekvédelmi támogatás, óvodáztatási támogatás) (1993. évi III. törvény, 1997. évi XXXI. törvény).
 
 20. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (1990. évi LXV. törvény).
 
