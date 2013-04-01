@@ -1,3 +1,1 @@
-50. § Az Szjt. 109. §-a helyébe a következő rendelkezés lép:
-
-„109. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 31. § (6) bekezdését akkor kell alkalmazni, ha az nem eredményezi az e törvény hatálybalépését megelőzően hatályos rendelkezések szerint számított védelmi idő megrövidülését. E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 31. § (6) bekezdését alkalmazni kell az olyan filmalkotásra is, amelynek védelmi ideje e törvény hatálybalépésekor már eltelt. A 108. § (3)–(9) bekezdését ilyen esetben is alkalmazni kell azzal, hogy az 1994. évi VII. törvény hatálybalépése helyett e törvény hatálybalépését kell érteni.”
+50–52. §

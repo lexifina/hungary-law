@@ -1,3 +1,0 @@
-41. § Az Szjt. a következő 78/A. §-sal egészül ki:
-
-„78/A. § Ha az előadóművész az előadása rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött szerződést az 55. § (2)–(3) bekezdése alapján felmondja, a hangfelvétel-előállítónak a hangfelvételhez kapcsolódó valamennyi joga megszűnik.”
