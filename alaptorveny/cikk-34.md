@@ -4,7 +4,7 @@
 
 (2) Törvény elrendelheti a helyi önkormányzat kötelező feladatának társulásban történő ellátását.
 
-(3) A polgármester és a megyei képviselő-testület elnöke önkormányzati feladatain kívül törvény vagy törvényi felhatalmazáson alapuló kormányrendelet alapján kivételesen államigazgatási feladat- és hatáskört is elláthat.
+(3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a megyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.
 
 (4) A Kormány a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.
 

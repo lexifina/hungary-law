@@ -16,10 +16,12 @@ d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elm
 
 (3) A Kúria a (2) bekezdésben meghatározottak mellett biztosítja a bíróságok jogalkalmazásának egységét, a bíróságokra kötelező jogegységi határozatot hoz.
 
-(4) A bírósági szervezet többszintű. Az ügyek meghatározott csoportjaira – különösen a közigazgatási és munkaügyi jogvitákra – külön bíróságok létesíthetők.
+(4) A bírósági szervezet többszintű. Az ügyek meghatározott csoportjaira külön bíróságok létesíthetők.
 
-(5) A bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
+(5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. A bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
 
-(6) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.
+(6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(7) A bíróságok szervezetének és igazgatásának, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.
+(7) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.
+
+(8) A bíróságok szervezetének és igazgatásának, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.

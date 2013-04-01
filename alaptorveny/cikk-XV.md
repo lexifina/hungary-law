@@ -6,6 +6,6 @@ XV. cikk
 
 (3) A nők és a férfiak egyenjogúak.
 
-(4) Magyarország az esélyegyenlőség megvalósulását külön intézkedésekkel segíti.
+(4) Magyarország az esélyegyenlőség és a társadalmi felzárkózás megvalósulását külön intézkedésekkel segíti.
 
-(5) Magyarország külön intézkedésekkel védi a gyermekeket, a nőket, az időseket és a fogyatékkal élőket.
+(5) Magyarország külön intézkedésekkel védi a családokat, a gyermekeket, a nőket, az időseket és a fogyatékkal élőket.

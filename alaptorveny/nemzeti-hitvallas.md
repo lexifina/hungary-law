@@ -14,7 +14,7 @@ Büszkék vagyunk arra, hogy népünk évszázadokon át harcokban védte Európ
 
 Elismerjük a kereszténység nemzetmegtartó szerepét. Becsüljük országunk különböző vallási hagyományait.
 
-Ígérjük, hogy megőrizzük az elmúlt évszázad viharaiban részekre szakadt nemzetünk szellemi és lelki egységét. A velünk élő nemzetiségek a magyar politikai közösség részei és államalkotó tényezők.
+Ígérjük, hogy megőrizzük az elmúlt évszázad viharaiban részekre szakadt nemzetünk szellemi és lelki egységét. Kinyilvánítjuk, hogy a velünk élő nemzetiségek a magyar politikai közösség részei és államalkotó tényezők.
 
 Vállaljuk, hogy örökségünket, egyedülálló nyelvünket, a magyar kultúrát, a magyarországi nemzetiségek nyelvét és kultúráját, a Kárpát-medence természet adta és ember alkotta értékeit ápoljuk és megóvjuk. Felelősséget viselünk utódainkért, ezért anyagi, szellemi és természeti erőforrásaink gondos használatával védelmezzük az utánunk jövő nemzedékek életfeltételeit.
 
@@ -38,7 +38,7 @@ Valljuk, hogy népuralom csak ott van, ahol az állam szolgálja polgárait, üg
 
 Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét.
 
-Nem ismerjük el történeti alkotmányunk idegen megszállások miatt bekövetkezett felfüggesztését. Tagadjuk a magyar nemzet és polgárai ellen a nemzetiszocialista és kommunista diktatúrák uralma alatt elkövetett embertelen bűnök elévülését.
+Nem ismerjük el történeti alkotmányunk idegen megszállások miatt bekövetkezett felfüggesztését. Tagadjuk a magyar nemzet és polgárai ellen a nemzetiszocialista és a kommunista diktatúra uralma alatt elkövetett embertelen bűnök elévülését.
 
 Nem ismerjük el az 1949. évi kommunista alkotmányt, mert egy zsarnoki uralom alapja volt, ezért kinyilvánítjuk érvénytelenségét.
 
@@ -50,6 +50,6 @@ Valljuk, hogy a huszadik század erkölcsi megrendüléshez vezető évtizedei u
 
 Bízunk a közösen alakított jövőben, a fiatal nemzedékek elhivatottságában. Hisszük, hogy gyermekeink és unokáink tehetségükkel, kitartásukkal és lelkierejükkel ismét naggyá teszik Magyarországot.
 
-Alaptörvényünk jogrendünk alapja: szerződés a múlt, a jelen és a jövő magyarjai között. Élő keret, amely kifejezi a nemzet akaratát, azt a formát, amelyben élni szeretnénk.
+Alaptörvényünk jogrendünk alapja, szövetség a múlt, a jelen és a jövő magyarjai között. Élő keret, amely kifejezi a nemzet akaratát, azt a formát, amelyben élni szeretnénk.
 
 Mi, Magyarország polgárai készen állunk arra, hogy országunk rendjét a nemzet együttműködésére alapítsuk.

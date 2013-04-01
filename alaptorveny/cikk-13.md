@@ -2,7 +2,7 @@
 
 (1) A köztársasági elnök ellen büntetőeljárást csak megbízatásának megszűnése után lehet indítani.
 
-(2) Az Alaptörvényt vagy tisztsége gyakorlásával összefüggésben valamely törvényt szándékosan megsértő, illetve szándékos bűncselekményt elkövető köztársasági elnökkel szemben az országgyűlési képviselők egyötöde indítványozhatja a tisztségtől való megfosztást.
+(2) Az Alaptörvényt vagy tisztsége gyakorlásával összefüggésben valamely törvényt szándékosan megsértő, illetve a szándékos bűncselekményt elkövető köztársasági elnökkel szemben az országgyűlési képviselők egyötöde indítványozhatja a tisztségtől való megfosztást.
 
 (3) A megfosztási eljárás megindításához az országgyűlési képviselők kétharmadának szavazata szükséges. A szavazás titkos.
 

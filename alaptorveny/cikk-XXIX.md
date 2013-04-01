@@ -4,4 +4,4 @@ XXIX. cikk
 
 (2) A Magyarországon élő nemzetiségek helyi és országos önkormányzatokat hozhatnak létre.
 
-(3) A Magyarországon élő nemzetiségek jogaira vonatkozó részletes szabályokat, valamint a helyi és országos önkormányzataik megválasztásának szabályait sarkalatos törvény határozza meg.
+(3) A Magyarországon élő nemzetiségek jogaira vonatkozó részletes szabályokat, a nemzetiségeket és a nemzetiségként való elismerés feltételeit, valamint a helyi és országos nemzetiségi önkormányzatok megválasztásának szabályait sarkalatos törvény határozza meg. Sarkalatos törvény a nemzetiségként való elismerést meghatározott idejű honossághoz és meghatározott számú, magát az adott nemzetiséghez tartozónak valló személy kezdeményezéséhez kötheti.

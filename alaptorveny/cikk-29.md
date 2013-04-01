@@ -2,17 +2,17 @@
 
 29. cikk
 
-(1) A legfőbb ügyész és az ügyészség az igazságszolgáltatás közreműködőjeként az állam büntetőigényét érvényesíti. Az ügyészség üldözi a bűncselekményeket, fellép más jogsértő cselekményekkel és mulasztásokkal szemben, valamint elősegíti a jogellenes cselekmények megelőzését.
+(1) A legfőbb ügyész és az ügyészség független, az igazságszolgáltatás közreműködőjeként mint közvádló az állam büntetőigényének kizárólagos érvényesítője. Az ügyészség üldözi a bűncselekményeket, fellép más jogsértő cselekményekkel és mulasztásokkal szemben, valamint elősegíti a jogellenes cselekmények megelőzését.
 
-(2) A legfőbb ügyész és az ügyészség törvényben meghatározottak szerint
+(2) A legfőbb ügyész és az ügyészség
 
-a) jogokat gyakorol a nyomozással összefüggésben;
+a) törvényben meghatározottak szerint jogokat gyakorol a nyomozással összefüggésben;
 
 b) képviseli a közvádat a bírósági eljárásban;
 
 c) felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett;
 
-d) törvény által meghatározott további feladat- és hatásköröket gyakorol.
+d) a közérdek védelmezőjeként az Alaptörvény vagy törvény által meghatározott további feladat- és hatásköröket gyakorol.
 
 (3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
 

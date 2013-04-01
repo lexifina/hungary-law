@@ -1,6 +1,6 @@
 XIX. cikk
 
-(1) Magyarország arra törekszik, hogy minden állampolgárának szociális biztonságot nyújtson. Anyaság, betegség, rokkantság, özvegység, árvaság és önhibáján kívül bekövetkezett munkanélküliség esetén minden magyar állampolgár törvényben meghatározott támogatásra jogosult.
+(1) Magyarország arra törekszik, hogy minden állampolgárának szociális biztonságot nyújtson. Anyaság, betegség, rokkantság, fogyatékosság, özvegység, árvaság és önhibáján kívül bekövetkezett munkanélküliség esetén minden magyar állampolgár törvényben meghatározott támogatásra jogosult.
 
 (2) Magyarország a szociális biztonságot az (1) bekezdés szerinti és más rászorulók esetében a szociális intézmények és intézkedések rendszerével valósítja meg.
 
