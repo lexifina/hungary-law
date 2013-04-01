@@ -1,4 +1,4 @@
-7. §[^32] (1) A járási gyámhivatal az örökbefogadással kapcsolatban
+7. §[^33] (1) A járási gyámhivatal az örökbefogadással kapcsolatban
 
 a) dönt a gyermeket örökbe fogadni szándékozók alkalmasságáról, és kérelemre elrendeli az örökbefogadásra alkalmas személyek nyilvántartásba való felvételét,
 
@@ -18,4 +18,4 @@ e) pert indíthat, illetve kezdeményezhet a gyermek örökbefogadásának felbo
 
 f) kérelemre felvilágosítást adhat a vér szerinti szülő adatairól.
 
-[^32]: A 7. § a 174/2012. (VII. 26.) Korm. rendelet – a 296/2012. (X. 17.) Korm. rendelet 64. § (4) bekezdésével megállapított – 42. § (6) bekezdésével megállapított szöveg.
+[^33]: A 7. § a 174/2012. (VII. 26.) Korm. rendelet – a 296/2012. (X. 17.) Korm. rendelet 64. § (4) bekezdésével megállapított – 42. § (6) bekezdésével megállapított szöveg.
