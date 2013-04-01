@@ -2,9 +2,9 @@
 
 (2) A Testület tagjainak az e rendelet hatálybalépését megelőzően adott kinevezése e rendelet erejénél fogva megszűnik. A Testületet az e rendelet hatálybalépését követő három hónapon belül újjá kell alakítani.
 
-(3)–(4)[^1]
+(3)–(4)[^2]
 
-(5)[^2]
+(5)[^3]
 
-[^1]: A 7. § (3)–(4) bekezdését az (5) bekezdés hatályon kívül helyezte.
-[^2]: A 7. § (5) bekezdése ugyanezen bekezdése alapján hatályát vesztette.
+[^2]: A 7. § (3)–(4) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^3]: A 7. § (5) bekezdése ugyanezen bekezdése alapján hatályát vesztette.
