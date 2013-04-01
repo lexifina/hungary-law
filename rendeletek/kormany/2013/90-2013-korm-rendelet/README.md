@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-90-20-2
 | --- | --- | --- |
 | 2013-03-29 | 2013-90-20-22.1 | 90/2013. (III. 28.) Korm. rendelet |
 | 2013-03-30 | 2013-90-20-22.2 | 2010: CXXX. törvény |
+| 2013-04-01 | 2013-90-20-22.3 | 2010: CXXX. törvény |
