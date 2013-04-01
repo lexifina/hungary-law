@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-10-20-5
 | 2013-02-01 | 2013-10-20-5H.2 | 2010: CXXX. törvény |
 | 2013-03-01 | 2013-10-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-03-02 | 2013-10-20-5H.4 | 2010: CXXX. törvény |
+| 2013-04-01 | 2013-10-20-5H.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
