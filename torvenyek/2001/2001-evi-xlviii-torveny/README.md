@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-48-00-00
 | 2012-01-01 | 2011. évi CLXXIII. törvény | 2001-48-00-00.16 |
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 2001-48-00-00.17 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2001-48-00-00.18 |
+| 2013-04-01 | 2013. évi XVI. törvény | 2001-48-00-00.19 |
