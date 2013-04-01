@@ -1,15 +1,13 @@
-2. §[^3] (1) Az ONYF igazgatási szervei a Nyugdíjfolyósító Igazgatóság és a Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság (a továbbiakban együtt: központi igazgatási szerv).
+2. §[^3] (1) Az ONYF központi igazgatási szerve a Nyugdíjfolyósító Igazgatóság.
 
-(2) A központi igazgatási szervek önállóan működő és gazdálkodó, az ONYF-től elkülönült költségvetési szervek, és az ONYF közvetlen irányítása alatt állnak.
+(2) A Nyugdíjfolyósító Igazgatóság önállóan működő és gazdálkodó, az ONYF-től elkülönült költségvetési szerv, amely az ONYF közvetlen irányítása alatt áll.
 
-(3) A központi igazgatási szervek székhelye Budapest, feladat- és hatáskörüket az ország egész területére kiterjedő illetékességgel látják el.
+(3) A Nyugdíjfolyósító Igazgatóság székhelye Budapest, feladat- és hatáskörét az ország egész területére kiterjedő illetékességgel látja el.
 
-(4) A központi igazgatási szervet igazgató vezeti. Az igazgatót és annak helyettesét a főigazgató nevezi ki és menti fel, továbbá gyakorolja felettük az egyéb munkáltatói jogköröket. A központi igazgatási szerv más alkalmazottai felett a munkáltatói jogkört az igazgató gyakorolja.
+(4) A Nyugdíjfolyósító Igazgatóságot igazgató vezeti. Az igazgatót és annak helyettesét a főigazgató nevezi ki és menti fel, továbbá gyakorolja felettük az egyéb munkáltatói jogköröket. A Nyugdíjfolyósító Igazgatóság más alkalmazottai felett a munkáltatói jogköröket az igazgató gyakorolja.
 
-(5) A központi igazgatási szerv működésének rendjét a főigazgató által jóváhagyott szervezeti és működési szabályzat határozza meg.
+(5) A Nyugdíjfolyósító Igazgatóság működésének rendjét a főigazgató által jóváhagyott szervezeti és működési szabályzat határozza meg.
 
-(6) A Nyugdíjfolyósító Igazgatóság külön jogszabályban meghatározott elsőfokú nyugdíj-megállapítási, illetve nyugdíj-folyósítási feladat- és hatáskörrel rendelkezik.
+(6) A Nyugdíjfolyósító Igazgatóság külön jogszabályban meghatározott elsőfokú nyugdíj-megállapítási és nyugdíj-folyósítási feladat- és hatáskörrel rendelkezik.
 
-(7) A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság külön jogszabályban meghatározott elsőfokú nyugdíj-megállapítási feladat- és hatáskörrel, továbbá központi nyilvántartási és informatikai feladat- és hatáskörrel rendelkezik.
-
-[^3]: A 2. § a 318/2010. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § a 90/2013. (III. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
