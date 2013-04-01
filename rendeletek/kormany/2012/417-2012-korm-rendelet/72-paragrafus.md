@@ -1,4 +1,4 @@
-## 71. §[^37]
+## 71. §[^36]
 
 ## 11. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 64. § 2013. április 1-jén lép hatályba.
 
-[^37]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
