@@ -2,7 +2,7 @@
 
 10. § (1) A ht. állomány elhunyt tagja, halálának körülményei, életútja és érdemei szerint a következőképpen minősíthető:
 
-a)[^4] hősi halottá a ht. állomány azon tagja minősíthető, aki a nemzetbiztonság, a közbiztonság fenntartása, Magyarország alkotmányos rendjének védelme, valamint rendkívüli állapot során emberélet vagy jelentős anyagi érték mentése közben kimagaslóan bátor magatartást tanúsított, és eközben vagy az elszenvedett sérülés következtében vesztette életét;
+a)[^6] hősi halottá a ht. állomány azon tagja minősíthető, aki a nemzetbiztonság, a közbiztonság fenntartása, Magyarország alkotmányos rendjének védelme, valamint rendkívüli állapot során emberélet vagy jelentős anyagi érték mentése közben kimagaslóan bátor magatartást tanúsított, és eközben vagy az elszenvedett sérülés következtében vesztette életét;
 
 b) a szolgálat halottjává a ht. állomány azon tagja minősíthető, aki szolgálati kötelezettségének teljesítése közben vagy azzal összefüggésben elszenvedett baleset, betegség miatt vesztette életét;
 
@@ -24,4 +24,4 @@ e) aki szolgálati viszonyáról lemondott.
 
 (4) A hősi halott, a szolgálat és a Hivatal halottja esetében az elhunyt érdemeit és életútját méltató parancsot kell megjelentetni.
 
-[^4]: A 10. § (1) bekezdés a) pontja a 68/2011. (XII. 30.) BM rendelet 7. §-a szerint módosított szöveg.
+[^6]: A 10. § (1) bekezdés a) pontja a 68/2011. (XII. 30.) BM rendelet 7. §-a szerint módosított szöveg.

@@ -16,13 +16,13 @@ a) a Hivatal rendelkezésére álló szolgálati lakások bérlőinek kijelölé
 
 b) a garzon-, nőtlen- és hajadonszállón meglévő férőhelyek betöltése;
 
-c)[^1] a lakással kapcsolatos munkáltatói támogatások odaítélése és mértéke;
+c)[^3] a lakással kapcsolatos munkáltatói támogatások odaítélése és mértéke;
 
 d) a szociális segély odaítélése és mértéke;
 
 e) a családalapítási támogatás odaítélése és mértéke;
 
-f) az albérleti hozzájárulás odaítélése és mértéke;[^2]
+f) az albérleti hozzájárulás odaítélése és mértéke;[^4]
 
 g) az üdülési főidényben rendelkezésre álló üdülői férőhelyek szervezeti egységek közötti elosztása.
 
@@ -36,5 +36,5 @@ c) a családalapítási támogatással, és
 
 d) az üdültetés rendjével
 
-[^1]: A 8. § (6) bekezdés c) pontja az 1/2010. (I. 14.) PTNM rendelet 14. § (3) bekezdés szerint módosított szöveg; alkalmazására lásd e módosító rendelet 14. (1) bekezdését.
-[^2]: A 42/2012. (VIII. 23.) BM rendelet 10. §-a alapján az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat állománya tekintetében nem alkalmazható.
+[^3]: A 8. § (6) bekezdés c) pontja az 1/2010. (I. 14.) PTNM rendelet 14. § (3) bekezdés szerint módosított szöveg; alkalmazására lásd e módosító rendelet 14. (1) bekezdését.
+[^4]: A 42/2012. (VIII. 23.) BM rendelet 10. §-a alapján az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat állománya tekintetében nem alkalmazható.
