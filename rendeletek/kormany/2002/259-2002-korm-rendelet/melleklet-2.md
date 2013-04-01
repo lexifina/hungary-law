@@ -1,6 +1,6 @@
 ## A működési engedély kiadása, módosítása és visszavonása iránti kérelem benyújtására szolgáló adatlapok és elektronikus űrlapok adattartalma
 
-## 1.[^189] a fenntartó neve, székhelye, szervezeti formája, adószáma és elérhetősége, továbbá – cégjegyzékben nyilvántartott cég esetén – a cégjegyzékszáma;
+## 1.[^187] a fenntartó neve, székhelye, szervezeti formája, adószáma és elérhetősége, továbbá – cégjegyzékben nyilvántartott cég esetén – a cégjegyzékszáma;
 
 ## 2. a fenntartó képviselőjének és kapcsolattartójának neve, beosztása és elérhetősége;
 
@@ -16,10 +16,10 @@
 
 ## 8. a kérelem elbírálásához jogszabály alapján szükséges egyéb adatok.
 
-## 9.[^190] a fenntartó nyilatkozata arról, hogy a Gyvt. 145. § (2) bekezdés szerinti szolgáltatót, intézményt, hálózatot, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
+## 9.[^188] a fenntartó nyilatkozata arról, hogy a Gyvt. 145. § (2) bekezdés szerinti szolgáltatót, intézményt, hálózatot, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
 
-2. számú melléklet a 259/2002. (XII. 18.) Korm. rendelethez[^191]
+2. számú melléklet a 259/2002. (XII. 18.) Korm. rendelethez[^189]
 
-[^189]: Az 1. számú melléklet 1. pontja a 355/2012. (XII. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^190]: Az 1. számú melléklet 9. pontját a 330/2011. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
-[^191]: A 2. számú mellékletet a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának be) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 15. §-a iktatta be. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^187]: Az 1. számú melléklet 1. pontja a 355/2012. (XII. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^188]: Az 1. számú melléklet 9. pontját a 330/2011. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^189]: A 2. számú mellékletet a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának be) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 15. §-a iktatta be. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
