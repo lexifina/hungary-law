@@ -1,3 +1,1 @@
-## 1–3. §[^1]
-
-[^1]: Az 1–3. § a 6. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
+## „(4) A kérelmező a közzétételi kérelmét a tervezett megjelenés napjáig, az arra jogosult által papír alapon aláírt, vagy minősített elektronikus aláírásával ellátott kérelemmel vonhatja vissza, a visszavonás tényének az informatikai rendszer útján történő jelzésével egyidejűleg. A tervezett megjelenés napjáról a felelős szerkesztő ad tájékoztatást.”

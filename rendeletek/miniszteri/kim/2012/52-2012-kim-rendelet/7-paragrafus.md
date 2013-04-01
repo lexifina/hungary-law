@@ -1,8 +1,7 @@
 ## 7. § Az R.
 
-a)[^3]
+a) 1. § (4) bekezdésében a „www.kozlony.magyarorszag.hu” szövegrész helyébe a „www.magyarkozlony.hu” szöveg,
 
-b)–e)[^4]
+b)–e)[^3]
 
-[^3]: A 7. § a) pontja a 6. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^4]: A 6. § b)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. § b)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

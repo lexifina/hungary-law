@@ -1,0 +1,3 @@
+## 1. § A Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 32/2010. (XII. 31.) KIM rendelet (a továbbiakban: R.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A Magyar Közlöny kiadásában, szerkesztésében, valamint a papír alapú oldalhű másolatának előállításában a Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság a felelős szerkesztő rendelkezései szerint közreműködik, ennek keretében üzemelteti a lapszerkesztés alapjául szolgáló informatikai rendszert (a továbbiakban: informatikai rendszer).”
