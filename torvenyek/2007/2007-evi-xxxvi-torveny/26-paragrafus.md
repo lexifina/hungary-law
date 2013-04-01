@@ -6,6 +6,8 @@
 
 (3) A 2008/615/IB tanácsi határozat alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
 
+(4) Az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam gépjárműadat-nyilvántartásaiban automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
+
 ## IV. Fejezet
 
 ## PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTVÉTELE, ILLETVE ÁTADÁSA

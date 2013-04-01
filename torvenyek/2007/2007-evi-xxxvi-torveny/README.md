@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-36-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-36-00-00.5 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 2007-36-00-00.6 |
 | 2012-11-28 | 2012. évi CLXX. törvény | 2007-36-00-00.7 |
+| 2013-04-01 | 2012. évi CLXX. törvény | 2007-36-00-00.8 |

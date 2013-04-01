@@ -8,6 +8,8 @@
 
 (4) E törvény 3. § (4) bekezdése, 19. § (3) bekezdése és 26. § (3) bekezdése a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. cikke, és az annak végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 15. cikke, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak (2009. szeptember 21.) való megfelelést szolgálja.
 
+(5) E törvény 19. § (4) és 26. § (4) bekezdése a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelv 4. és 7. Cikkeinek való megfelelést szolgálja.
+
 ## Melléklet a 2007. évi XXXVI. törvényhez
 
 A pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átadására az alábbi szabálysértések esetén kerülhet sor:

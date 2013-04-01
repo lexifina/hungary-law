@@ -6,6 +6,8 @@
 
 (3) A 2008/615/IB tanácsi határozaton, valamint a 2008/616/IB tanácsi határozaton alapuló automatizált keresés elrendelése esetén az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja az (1) bekezdésben meghatározott adatokhoz elektronikus úton történő hozzáférést. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 
+(4) A 3. § (4) bekezdés c) pontja szerinti központi hatóság a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam nemzeti kapcsolattartó pontja részére a külön jogszabályban meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést biztosít.
+
 2. CÍM
 
 KÜLFÖLDI HATÓSÁG MEGKERESÉSE ELJÁRÁSI JOGSEGÉLY IRÁNT
