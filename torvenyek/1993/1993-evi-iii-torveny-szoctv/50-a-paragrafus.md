@@ -4,7 +4,7 @@
 
 (3) Az igazolás tartalmazza a kérelmező természetes személyazonosító adatait, lakóhelyét és tartózkodási helyét, Társadalombiztosítási Azonosító Jelét, a tartósan fennálló betegségének a betegségek nemzetközi osztályozása szerinti kódját (a továbbiakban: BNO kód). Az igazolás tartalmazza továbbá az alkalmazandó terápiához szükséges gyógyító ellátások megnevezését, mennyiségét, gyógyszerek esetében a gyógyszer megnevezését és a külön jogszabályban meghatározott azonosító adatait, a gyógyszer formáját, mennyiségét, valamint a kívánt terápiás hatás eléréséhez szükséges napi mennyiségét és az adagolást. A csak szakorvos által vagy csak szakorvosi javaslatra rendelhető gyógyszereket az igazoláson a szakorvos nevének, pecsétszámának feltüntetésével külön meg kell jelölni. A szakorvos – a kérelmező igénye esetén – az általa rendelt havi rendszeres gyógyító ellátásokról a háziorvost tájékoztatja.
 
-(4) A háziorvos igazolását a jegyző, illetve a járási hivatal öt napon belül továbbítja az egészségbiztosítási szervnek. Az 50. § (2)–(3) bekezdése alapján közgyógyellátást kérelmező személy esetében az igazolást a jegyző, illetve a járási hivatal csak akkor továbbítja, ha a kérelmező megfelel az előírt jövedelmi feltételeknek.
+(4) A háziorvos igazolását a jegyző, illetve a járási hivatal öt napon belül továbbítja az egészségbiztosítási szervnek. A normatív vagy a méltányossági közgyógyellátás megállapítását kérelmező személy esetében az igazolást a jegyző, illetve a járási hivatal csak akkor továbbítja, ha a kérelmező megfelel az előírt jövedelmi feltételeknek.
 
 (5) Az egészségbiztosítási szerv megvizsgálja az igazolásban feltüntetett havi rendszeres gyógyító ellátás iránti szükséglet szakmai megalapozottságát. Ha az igazolásban feltüntetett gyógyító ellátás iránti szükségletet az egészségbiztosítási szerv nem tartja megalapozottnak, a szakhatósági állásfoglalást megelőzően adategyeztetés céljából megkeresi az igazolást kiállító háziorvost.
 
@@ -24,7 +24,7 @@ b) a közgyógyellátásra való jogosultság kezdő időpontjáról,
 
 c) a jogosult gyógyszerkeretéről, külön megjelölve – a (6) bekezdés szerinti szakhatósági állásfoglalás alapján – az egyéni gyógyszerkeret összegét.
 
-(11) Az 50. § (1) bekezdése szerinti jogosult esetében – amennyiben rendszeres gyógyszerköltség hiányában egyéni gyógyszerkeret megállapítását nem igényli – az eljárásra a (2)–(8) bekezdést nem kell alkalmazni.
+(11) Az alanyi közgyógyellátásra jogosult esetében – amennyiben rendszeres gyógyszerköltség hiányában egyéni gyógyszerkeret megállapítását nem igényli – az eljárásra a (2)–(8) bekezdést nem kell alkalmazni.
 
 (12) Ha az egyéni gyógyszerkeret legmagasabb havi összege, illetőleg az eseti keret összege a (8)–(9) bekezdés szerint, az éves központi költségvetésről szóló törvény alapján változik, a megváltozott összegeket a hatálybalépés időpontját követően megállapított új jogosultság esetében kell alkalmazni.
 

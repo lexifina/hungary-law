@@ -76,12 +76,16 @@ kell folyósítani.
 
 (10) Ha a (4)–(6) bekezdés szerinti felülvizsgálat eredményeként a havi rendszeres szociális ellátásra vagy a foglalkoztatást helyettesítő támogatásra való jogosultság megszűnik, akkor az ellátás folyósítását a határozat meghozatala hónapjának utolsó napjával meg kell szüntetni.
 
-(11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek a foglalkoztatást helyettesítő támogatásra jogosult személy közfoglalkoztatásban való részvétele.
+(11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek az aktív korúak ellátására jogosult személy közfoglalkoztatásban való részvétele.
 
 (12) A jövedelemszámításnál
 
 a) a (4)–(6) bekezdés szerinti felülvizsgálat során annak a havi rendszeres szociális ellátásnak az összegét, amelynek összegére vagy jogosultsági feltételeinek fennállására a felülvizsgálat vonatkozik,
 
-b) a foglalkoztatást helyettesítő támogatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a foglalkoztatást helyettesítő támogatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet
+b) a foglalkoztatást helyettesítő támogatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a foglalkoztatást helyettesítő támogatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet,
+
+c) a rendszeres szociális segély (4)–(6) bekezdés szerinti felülvizsgálata során a rendszeres szociális segélyre jogosult személy közfoglalkoztatásban való részvételéből származó jövedelmet
 
 figyelmen kívül kell hagyni.
+
+(13) Ha a foglalkoztatást helyettesítő támogatás vagy a rendszeres szociális segély folyósítása e törvény rendelkezései alapján szünetel, az ellátások (4)–(6) bekezdés szerinti felülvizsgálatát a szünetelés megszűnését követően kell lefolytatni.

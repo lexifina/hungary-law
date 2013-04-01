@@ -24,7 +24,7 @@ d) a hitelintézettel kötött lakáscélú kölcsönszerződésből, illetve ab
 
 (3) Az (1) bekezdés b) pontjában említett összeghatárt úgy kell szabályozni, hogy az önkormányzat rendelete az öregségi nyugdíj mindenkori legkisebb összegének 150%-ánál, egyedül élő esetén annak 200%-ánál alacsonyabb jövedelmet jogosultsági feltételként nem írhat elő.
 
-(4)
+(4) Az adósságkezelési szolgáltatásra való jogosultság megállapítására irányuló kérelmet 21 napon belül kell elbírálni.
 
 (5) Az adósságkezelési szolgáltatás időtartama – a (6) bekezdés szerinti eset kivételével – legfeljebb tizennyolc hónap, amely indokolt esetben egy alkalommal hat hónappal meghosszabbítható.
 

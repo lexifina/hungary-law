@@ -12,11 +12,13 @@ d) akinek esetében a munkanélküli-járadék, álláskeresési járadék, áll
 
 e) akinek esetében az álláskeresési támogatás folyósítását keresőtevékenység folytatása miatt a folyósítási idő lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az Flt. alapján álláskeresési támogatásra nem szerez jogosultságot, vagy
 
-f) aki az aktív korúak ellátása iránti kérelem benyújtását megelőző két évben az állami foglalkoztatási szervvel legalább egy év időtartamig együttműködött, vagy
+f) aki az aktív korúak ellátása iránti kérelem benyújtását megelőző két évben az állami foglalkoztatási szervvel vagy a rehabilitációs hatósággal legalább egy év időtartamig együttműködött, vagy
 
-g) akinek esetében az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, a rendszeres szociális járadék, a bányász dolgozók egészségkárosodási járadéka, az átmeneti járadék, a rehabilitációs járadék, a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, a megváltozott munkaképességű személyek ellátása, az ideiglenes özvegyi nyugdíj folyósítása megszűnt, illetve az özvegyi nyugdíj folyósítása a Tny. 52. §-ának (3) bekezdése szerinti okból szűnt meg, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervvel legalább három hónapig együttműködött,
+g) akinek esetében az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, a rendszeres szociális járadék, a bányász dolgozók egészségkárosodási járadéka, az átmeneti járadék, a rehabilitációs járadék, a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, a megváltozott munkaképességű személyek ellátása, az ideiglenes özvegyi nyugdíj folyósítása megszűnt, illetve az özvegyi nyugdíj folyósítása a Tny. 52. §-ának (3) bekezdése szerinti okból szűnt meg, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervvel vagy a rehabilitációs hatósággal legalább három hónapig együttműködött,
 
-feltéve, hogy saját maga és családjának megélhetése más módon nem biztosított, és keresőtevékenységet – ide nem értve a közfoglalkoztatást, az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát – nem folytat.
+feltéve, hogy saját maga és családjának megélhetése más módon nem biztosított, és keresőtevékenységet nem folytat.
+
+(1a) Az aktív korúak ellátása tekintetében – ha e törvény eltérően nem rendelkezik – nem minősül keresőtevékenységnek, ha a kérelmező, illetve a jogosult közfoglalkoztatásban, egyszerűsített foglalkoztatásban vesz részt vagy háztartási munkát végez.
 
 (2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs. Az aktív korúak ellátása tekintetében fogyasztási egység a családtagoknak a családon belüli fogyasztási szerkezetet kifejező arányszáma, ahol
 
@@ -43,6 +45,8 @@ b) az (1) bekezdés e) pontjában foglalt esetben a keresőtevékenység megszű
 c) az (1) bekezdés g) pontja szerinti rendszeres pénzellátás folyósításának megszűnésétől
 
 számított tizenkettő hónapon belül benyújtott kérelem alapján állapítható meg.
+
+(4a) Amennyiben az aktív korúak ellátására való jogosultságot az Flt. szerinti álláskeresési támogatás kimerítésétől számított 30 napon belül benyújtott kérelem alapján állapítják meg, az ellátásra való jogosultság kezdő napja az álláskeresési támogatás kimerítését követő nap.
 
 (5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározott kivétellel – csak egy személy jogosult.
 

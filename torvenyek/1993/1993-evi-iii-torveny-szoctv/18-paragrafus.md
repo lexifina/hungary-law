@@ -22,7 +22,7 @@ i) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon 
 
 j) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
 
-k) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettségét és szakképzettségét;
+k)
 
 l) a lakásfenntartási támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
 

@@ -2,7 +2,7 @@
 
 (2)
 
-(3) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől, valamint az ingatlanügyi hatóságtól a szociális ellátásra való jogosultság megállapítása céljából.
+(3) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, illetve ellenőrzése céljából adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől, a közúti közlekedési nyilvántartást vezető, valamint az ingatlanügyi hatóságtól.
 
 (4) A jegyző a 18. § l) pont la) alpontjában foglaltak körében adatot kérhet a természetbeni szociális ellátás formájában nyújtott lakásfenntartási támogatással támogatott szolgáltatást szolgáltatási vagy közüzemi szerződés alapján nyújtó szolgáltatótól.
 

@@ -1,12 +1,12 @@
 ## Köztemetés
 
-48. § (1) A haláleset helye szerint illetékes települési önkormányzat polgármestere önkormányzati hatáskörben – a halálesetről való tudomásszerzést követő harminc napon belül – gondoskodik az elhunyt személy közköltségen történő eltemettetéséről, ha
+48. § (1) A haláleset helye szerint illetékes települési önkormányzat polgármestere önkormányzati hatáskörben – a halálesetről való tudomásszerzést követő huszonegy napon belül – gondoskodik az elhunyt személy közköltségen történő eltemettetéséről, ha
 
 a) nincs vagy nem lelhető fel az eltemettetésre köteles személy, vagy
 
 b) az eltemettetésre köteles személy az eltemettetésről nem gondoskodik.
 
-(2) Az elhunyt személy elhalálozása időpontjában fennálló lakóhelye (a továbbiakban: utolsó lakóhely) szerinti települési önkormányzat a köztemetés költségét az (1) bekezdés szerinti önkormányzatnak megtéríti. A megtérítés iránti igényt a köztemetés elrendelésétől számított két hónapon belül kell bejelenteni.
+(2) Az elhunyt személy elhalálozása időpontjában fennálló lakóhelye (a továbbiakban: utolsó lakóhely) szerinti települési önkormányzat a köztemetés költségét az (1) bekezdés szerinti önkormányzatnak megtéríti. A megtérítés iránti igényt a köztemetés elrendelésétől számított egy hónapon belül kell bejelenteni.
 
 (3) Az elhunyt személy utolsó lakóhelye szerinti települési önkormányzat
 

@@ -16,7 +16,7 @@ f) a kérelem előterjesztésének vagy a beutaló határozat megküldésének i
 
 g) soron kívüli ellátásra vonatkozó igény és
 
-h) az egyszerűsített előgondozás vagy az előgondozás szakaszai lefolytatásának időpontja.
+h) az előgondozás lefolytatásának időpontja.
 
 (3) Ha a területi ellátási kötelezettséggel rendelkező szolgáltató, intézmény vezetője kapacitás, illetve férőhely hiányában a szolgáltatásra vonatkozó igényt nem teljesíti, a nyilvántartott igények teljesítésének indokoltságát évente vizsgálni kell.
 

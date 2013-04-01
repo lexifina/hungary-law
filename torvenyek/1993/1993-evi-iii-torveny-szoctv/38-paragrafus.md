@@ -80,6 +80,8 @@ NYM
 
 ahol a J a jogosult háztartásában egy fogyasztási egységre jutó havi jövedelmet, az NYM pedig az öregségi nyugdíj mindenkori legkisebb összegét jelöli. A TM-et századra kerekítve kell meghatározni.
 
+(7a) A lakásfenntartási támogatás iránti kérelmet 21 napon belül kell elbírálni.
+
 (8) A normatív lakásfenntartási támogatást egy évre kell megállapítani.
 
 (9) A települési önkormányzat rendeletében a normatív lakásfenntartási támogatásra való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a jegyzőnek – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania. Amennyiben a kérelmező vagy a jogosult a feltételeknek felszólítás ellenére sem tesz eleget, a kérelmet el kell utasítani, vagy a megállapított támogatást meg kell szüntetni.

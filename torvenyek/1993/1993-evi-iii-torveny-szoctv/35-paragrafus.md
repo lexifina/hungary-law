@@ -6,4 +6,4 @@
 
 (4) A foglalkoztatást helyettesítő támogatás havi összege az öregségi nyugdíj mindenkori legkisebb összegének 80%-a.
 
-(5) Közfoglalkoztatásban részt vevő személy esetében a foglalkoztatást helyettesítő támogatásnak a 25. § (4)–(6) bekezdése szerinti felülvizsgálatát a közfoglalkoztatás megszűnését követően kell lefolytatni.
+(5)

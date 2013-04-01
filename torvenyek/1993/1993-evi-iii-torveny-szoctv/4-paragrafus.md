@@ -38,7 +38,7 @@ i) rendszeres pénzellátás: a táppénz, a terhességi-gyermekágyi segély, a
 
 j) keresőtevékenység: ha e törvény másként nem rendelkezik, minden olyan munkavégzéssel járó tevékenység, amelyért ellenérték jár, kivéve a tiszteletdíj alapján végzett tevékenységet, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát nem haladja meg, valamint a mezőgazdasági őstermelői igazolvánnyal folytatott tevékenységet, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál nem kell figyelembe venni; nem minősül ellenértéknek a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás, valamint a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel;
 
-k) aktív korú: a 18. életévet betöltött, de a reá irányadó nyugdíjkorhatárt, illetőleg a 62. életévet be nem töltött személy ;
+k) aktív korú: a 18. életévét betöltött, de a rá irányadó nyugdíjkorhatárt be nem töltött személy;
 
 l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van;
 
@@ -62,7 +62,7 @@ n)
 
 1. a temetési segély, az alkalmanként adott átmeneti segély, a lakásfenntartási támogatás, az adósságcsökkentési támogatás,
 
-2. a rendkívüli gyermekvédelmi támogatás, a Gyvt. 20/A. §-a szerinti pénzbeli támogatás, a Gyvt. 20/B. §-ának (4)–(5) bekezdése szerinti pótlék, a nevelőszülők számára fizetett nevelési díj és külön ellátmány,
+2. a rendkívüli gyermekvédelmi támogatás, a Gyvt. 20/A. §-a szerinti támogatás, a Gyvt. 20/B. §-ának (4)–(5) bekezdése szerinti pótlék, a nevelőszülők számára fizetett nevelési díj és külön ellátmány,
 
 3. az anyasági támogatás,
 

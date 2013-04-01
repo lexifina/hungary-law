@@ -26,7 +26,7 @@ a) akire vonatkozóan az (1) bekezdés a)–g), valamint i) pontja szerinti kör
 
 b) aki az aktív korúak ellátására való jogosultság feltételeinek vagy az annak keretében megállapított pénzbeli ellátás összegének felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza,
 
-c) aki keresőtevékenységet folytat, kivéve, ha a keresőtevékenység alapjául szolgáló jogviszonyt 90 napot meg nem haladó időtartamra létesítette, továbbá ide nem értve a közfoglalkoztatást, az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát,
+c) aki keresőtevékenységet folytat, a keresőtevékenység 91. napjától,
 
 d) akire vonatkozóan az aktív korúak ellátására való jogosultság fennállása alatt a munkaügyi hatóság a jogellenes munkavégzés tényét két éven belül ismételten jogerősen megállapította, vagy
 
