@@ -42,6 +42,8 @@ b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában
 
 (14) Ha az (5) bekezdés c) pontjában, a (6) bekezdésben és a (13) bekezdésben meghatározott esetekben a biztosíték összegéből való kielégítésre jogosult fél igényét az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező határozat, illetve az ítélet (permegszüntető végzés) jogerőre emelkedésétől számított három hónapon belül nem érvényesíti, a letevő a biztosíték visszaadását kérheti a bíróságtól.
 
+(14a) Védjegybitorlás miatt indított perekben a 27. § (2)–(3) bekezdésében foglalt jogkövetkezmények arra az időszakra nézve nem alkalmazhatók, amikor a védjegyoltalom megszűnése megállapításának feltételei – feltéve, hogy az alperes érdemi védekezésében erre hivatkozik – e törvény alapján fennálltak.
+
 (15) Az (1) bekezdésben nem említett, védjeggyel kapcsolatos minden más jogvitás ügy a törvényszék hatáskörébe tartozik.
 
 (16) Az (1) és a (15) bekezdésben említett perekben egyebekben a Pp. általános szabályait kell alkalmazni az e törvény 80. és 85. §-ában, valamint 86. §-ának (3) bekezdésében foglalt eltérésekkel.

@@ -16,7 +16,9 @@ a) hiánypótlásra, illetve nyilatkozattételre tizenöt napos határidő is ki
 
 b) a védjegybejelentés meghirdethető a kutatási jelentésnek a bejelentő részére történő megküldésétől [60. § (3) bek.] számított egy hónap elteltét [61/A. § (1) bek.] megelőzően is;
 
-c) a felszólalással kapcsolatban a Szellemi Tulajdon Nemzeti Hivatala akkor tart szóbeli tárgyalást, ha a tényállás tisztázásához szükség van a bejelentő és a felszólaló együttes meghallgatására, vagy ha ezt a felek kellő időben egybehangzóan kérik.
+c) a felszólalással kapcsolatban a Szellemi Tulajdon Nemzeti Hivatala akkor tart szóbeli tárgyalást, ha a tényállás tisztázásához szükség van a bejelentő és a felszólaló együttes meghallgatására, vagy ha ezt a felek kellő időben egybehangzóan kérik;
+
+d) a bejelentési díjat a (2) bekezdésben meghatározott határidőn belül kell megfizetni.
 
 (7) Ha a bejelentő a gyorsított eljárás iránti kérelmében ezt külön kéri, a Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentés meghirdetésével egyidejűleg a bejelentett megjelölést védjegyként lajstromozza (különleges gyorsított eljárás) azzal, hogy a 64. § (3) bekezdésében foglalt rendelkezés csak a felszólalás benyújtására előírt határidő [61/B. § (1) és (2) bek.] elteltével alkalmazható. A különleges gyorsított eljárás iránti kérelem csak a gyorsított eljárás iránti kérelem benyújtására az (1) bekezdésben előírt határidőn belül terjeszthető elő; a különleges gyorsított eljárás iránti kérelem díja a gyorsított eljárás iránti kérelem díjának másfélszerese.
 

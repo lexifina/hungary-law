@@ -14,7 +14,7 @@ b) az a vállalkozás, amely – a tisztességtelen piaci magatartás és a vers
 
 c) az a vállalkozás, amellyel az a) pontban említett vállalkozás egyébként – az árujegyzékben szereplő árukkal és szolgáltatásokkal összefüggésben – tartós jogviszonyban áll.
 
-(3) A védjegy jogosultja a tanúsító védjegyet maga nem használhatja, engedélyezi azonban annak használatát az előírt minőségi követelményeknek vagy egyéb jellemzőknek megfelelő árukkal vagy szolgáltatásokkal kapcsolatban.
+(3) A védjegy jogosultja a tanúsító védjegyet maga tanúsítás céljára nem használhatja, engedélyezi azonban annak ilyen célú használatát az előírt minőségi követelményeknek vagy egyéb jellemzőknek megfelelő árukkal vagy szolgáltatásokkal kapcsolatban.
 
 (4) A tanúsító védjegy akkor részesülhet oltalomban, ha ahhoz – az (5) bekezdésben meghatározott követelményeknek megfelelő – szabályzat is társul.
 

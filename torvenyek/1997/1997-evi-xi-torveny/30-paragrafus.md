@@ -18,4 +18,4 @@ e) a védjegy elveszítette megkülönböztető képességét vagy megtévesztő
 
 f) a védjegyjogosult jogi személy vagy jogi személyiség nélküli gazdasági társaság [9. § (2) bek.] jogutód nélkül megszűnt, e megszűnés napjára visszaható hatállyal.
 
-(2) Az (1) bekezdés d) és e) pontja esetében a felek bármelyikének kérelmére a megszűnés olyan még korábbi időpontra visszaható hatállyal is megállapítható, amelyen a megszűnésre okot adó körülmény bekövetkezett.
+(2) Az (1) bekezdés d) és e) pontja esetében a felek bármelyikének kérelmére a megszűnés olyan még korábbi időpontra visszaható hatállyal is megállapítható, amelyen a megszűnés megállapítására irányuló kérelem benyújtására okot adó körülmény bekövetkezett, feltéve, hogy a megszűnés megállapításának feltételei mind a megjelölt korábbi időpontban, mind a megszűnés megállapítására irányuló kérelem benyújtásának időpontjában fennálltak.

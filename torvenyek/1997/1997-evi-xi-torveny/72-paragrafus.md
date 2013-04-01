@@ -4,7 +4,7 @@
 
 (2) A 4–6. §-ok alapján csak a korábbi akadályozó jog jogosultja kérheti a védjegy törlését.
 
-(3) A védjegy törlésére irányuló kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány védjegyjogosult van. A kérelemben meg kell jelölni a törlés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A kérelemben meg kell jelölni a törlés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
 
 (4) A törlési kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 

@@ -14,12 +14,12 @@
 
 (3) A megjelölés együttes védjegyként ki van zárva a védjegyoltalomból akkor is, ha
 
-a)
+a) jellegét vagy jelentőségét illetően alkalmas a fogyasztók megtévesztésére, különösen, ha a fogyasztók másnak tekinthetnék, mint együttes védjegynek,
 
 b) a használatáról rendelkező szabályzat a közrendbe, a közerkölcsbe vagy jogszabályba ütköző előírást tartalmaz.
 
-(4) Az együttes védjegy oltalma az egyesületet illeti meg, használatára az egyesület tagjai jogosultak.
+(4) Az együttes védjegy oltalma az egyesületet illeti meg, használatára az egyesület tagjai is jogosultak.
 
-(5) A védjegyjogosult egyesület az együttes védjegyet maga nem használhatja, a tagok védjegyhasználatát azonban ellenőrzi.
+(5)
 
-(6) A 18. § alkalmazásában az együttes védjegy használatának minősül, ha a védjegyet az egyesület bármelyik tagja használja.
+(6) A 18. § alkalmazásában az is az együttes védjegy használatának minősül, ha a védjegyet az egyesület bármelyik tagja használja.

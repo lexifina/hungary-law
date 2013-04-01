@@ -8,4 +8,4 @@ b) az áru vagy a szolgáltatás fajtájára, minőségére, mennyiségére, ren
 
 c) a védjegyet, ha az szükséges az áru vagy a szolgáltatás rendeltetésének jelzésére, különösen tartozékok vagy alkatrészek esetében.
 
-(2) Az (1) bekezdés a) pontja alapján a védjegyjogosulttal szemben csak természetes személy hivatkozhat a saját nevére vagy címére.
+(2)
