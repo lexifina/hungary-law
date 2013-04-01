@@ -3764,7 +3764,7 @@ I6716 Artéria basilaris nem rupturált aneurismája
 
 0117A Sűrűfonatú öntáguló intracranialis stent
 
-**** 01 029F Intracranialis PTA
+**** 01 029F Intracranialis erek szűkületeinek és elzáródásának neurointervenciós kezelése
 
 BETEGSÉGEK
 
@@ -3788,9 +3788,9 @@ I6700 Agyi ütőerek nem-rupturált dissectiója
 
 ÉS BEAVATKOZÁSOK
 
-33933 Intracranialis superselectiv thrombolysis
+33933 Intracranialis transarterialis revascularisatio akut iszkémiás stroke-ban
 
-53958 Intracranialis percutan transluminalis angioplastica
+53958 Intracranialis érszűkületek percután translumináris angioplasztikája
 
 ÉS ESZKÖZÖK
 
@@ -7504,4 +7504,4 @@ C1023 A szájgarat oldalsó falának rosszindulatú daganata III. stádium
 
 C1024 A szájgarat oldalsó falának rosszindulatú daganata IV. stádium
 
-[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
