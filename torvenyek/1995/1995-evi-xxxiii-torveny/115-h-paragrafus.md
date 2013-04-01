@@ -18,7 +18,7 @@ b) nyilvántartást vezet a szerzői és a szomszédos jogok közös kezelését
 
 c) felügyeletet gyakorol a közös jogkezelési tevékenység felett,
 
-d) előkészíti a közös jogkezelő szervezetek díjszabásainak miniszteri jóváhagyását, és megteszi az ehhez szükséges intézkedéseket,
+d) előkészíti a közös jogkezelő szervezetek díjszabásainak, támogatási politikájának és a bevétel jogosultak érdekében történő felhasználására vonatkozó döntésének miniszteri jóváhagyását, és megteszi az ehhez szükséges intézkedéseket,
 
 e) önkéntes műnyilvántartást vezet,
 

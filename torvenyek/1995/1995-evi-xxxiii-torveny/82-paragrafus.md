@@ -1,6 +1,6 @@
 ## Nemleges megállapítási eljárás
 
-82. § (1) A nemleges megállapításra (37. §) irányuló kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány szabadalmas van. A kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.
+82. § (1) A nemleges megállapításra (37. §) irányuló kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.
 
 (2) A nemleges megállapításra irányuló kérelmet csak egy szabadalom és egy hasznosított vagy hasznosítani kívánt termék vagy eljárás tekintetében lehet benyújtani.
 

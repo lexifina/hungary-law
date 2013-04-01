@@ -10,6 +10,8 @@
 
 (4a) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa a Hamisítás Elleni Nemzeti Testület szervezetének és működésének szabályait.
 
+(4b) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a 115/E. § (7) bekezdése szerinti gazdasági társaságot és megállapítsa a feladatellátás és a szolgáltatások igénybevételének szabályait.
+
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatalának elnöke véleményének kikérésével, a miniszterrel egyetértésben – a szabadalmi bejelentés, az európai szabadalmi bejelentésekkel és az európai szabadalmakkal, illetve a nemzetközi szabadalmi bejelentésekkel összefüggő beadványok, valamint a növényfajta-oltalmi bejelentés részletes alaki szabályait rendelettel megállapítsa.
 
 (6) Felhatalmazást kap a miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatalának elnöke véleményének kikérésével és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a Szellemi Tulajdon Nemzeti Hivatala előtti iparjogvédelmi eljárásokban fizetendő igazgatási szolgáltatási díjaknak – az iparjogvédelmi eljárások és az egyes iparjogvédelmi oltalmi formák sajátosságaira figyelemmel meghatározott – mértékét, valamint a Szellemi Tulajdon Nemzeti Hivatala előtti iparjogvédelmi eljárásokban fizetendő igazgatási szolgáltatási díjak, illetve a fenntartási és a megújítási díjak kezelésére, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.

@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-33-00-00
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 1995-33-00-00.25 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1995-33-00-00.26 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 1995-33-00-00.27 |
+| 2013-04-01 | 2013. évi XVI. törvény | 1995-33-00-00.28 |

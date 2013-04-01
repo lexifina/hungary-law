@@ -4,7 +4,7 @@
 
 (2) A 42. § (1) bekezdésének d) pontja alapján az kérheti a szabadalom megsemmisítését, akit az a törvény szerint megilletne.
 
-(3) A megsemmisítési kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány szabadalmas és – szolgálati találmányra adott szabadalom esetén – ahány feltaláló van. A kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
 
 (4) A megsemmisítési kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 

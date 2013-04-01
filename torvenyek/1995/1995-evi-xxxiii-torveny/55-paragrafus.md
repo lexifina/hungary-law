@@ -6,6 +6,8 @@
 
 (2a) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi lajstromnak a feltalálóra és a szerzőségi arányra vonatkozó bejegyzését kérelemre a lajstromban feltüntetett valamennyi feltaláló és valamennyi kérelmező egybehangzó nyilatkozata vagy a kérelemhez mellékelt jogerős bírósági ítélet alapján módosítja.
 
+(2b) A (2a) bekezdést alkalmazni kell a szabadalmi bejelentés közzététele előtt is, azzal az eltéréssel, hogy a lajstrombejegyzés módosítása helyett a Szellemi Tulajdon Nemzeti Hivatala a módosítást a szabadalmi bejelentés iratain vezeti át.
+
 (3) Nem teljesíthető a kérelem olyan okirat alapján, amely alaki hiány miatt érvénytelen, amelynél a jogszabályban előírt hatósági jóváhagyás hiányzik, illetve ha az okirat tartalmából kitűnően az abban foglalt jognyilatkozat érvénytelen.
 
 (4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem felel meg a vizsgált követelményeknek. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.

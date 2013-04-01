@@ -1,4 +1,4 @@
-83/F. § (1) A kényszerengedély felülvizsgálata iránt – a 816/2006/EK rendelet 16. cikkének (1) bekezdése alapján – előterjesztett kérelmet eggyel több példányban kell benyújtani, mint – a kérelmező személyétől függően – ahány szabadalmas, illetve ahány kényszerengedélyes van. A kérelemben meg kell jelölni a kényszerengedélyt megadó határozat számát, a felülvizsgálat alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat. A kérelemhez az importáló országban készített értékelés is csatolható.
+83/F. § (1) A kényszerengedély felülvizsgálata iránt – a 816/2006/EK rendelet 16. cikkének (1) bekezdése alapján – előterjesztett kérelemben meg kell jelölni a kényszerengedélyt megadó határozat számát, a felülvizsgálat alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat. A kérelemhez az importáló országban készített értékelés is csatolható.
 
 (2) A kényszerengedély felülvizsgálata iránti kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
 

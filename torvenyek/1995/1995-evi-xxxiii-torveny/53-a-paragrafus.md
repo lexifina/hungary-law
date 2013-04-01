@@ -19,3 +19,9 @@ e) a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszeren
 f) a közzétett európai szabadalmi bejelentésben foglalt igénypontok fordításának közzététele, az európai szabadalom szövegéről készített fordítás benyújtása és a fordítás kijavítása.
 
 (4) E törvény eltérő rendelkezése hiányában a (3) bekezdés c)–e) pontjaiban említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
+
+(5) Olyan ügyekben, amelyekben nincs ellenérdekű ügyfél, a Szellemi Tulajdon Nemzeti Hivatala a 85. § (1) bekezdés b)–e) pontjában meghatározott döntéseket megváltoztatási kérelem alapján akkor is visszavonhatja vagy a megváltoztatási kérelemben foglaltaknak megfelelően módosíthatja, ha a döntés nem sért ugyan jogszabályt, de a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelemben foglaltakkal egyetért.
+
+(6) A megváltoztatási kérelem nyomán hozott döntést közölni kell a kérelem benyújtójával, továbbá azokkal, akikkel a megtámadott döntést közölték.
+
+(7) A módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a módosított döntés ellen volt.

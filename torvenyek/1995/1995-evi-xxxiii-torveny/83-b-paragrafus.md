@@ -1,6 +1,6 @@
-83/B. § (1) A 816/2006/EK rendelet 6. cikke szerinti, kényszerengedély iránti kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány szabadalmas van.
+83/B. § (1)
 
-(2) A kényszerengedély iránti kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
+(2) A 816/2006/EK rendelet 6. cikke szerinti, kényszerengedély iránti kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
 
 (3) A kényszerengedély iránti kérelemnek – a 816/2006/EK rendeletben meghatározott nyilatkozatokon és adatokon felül – tartalmaznia kell
 
