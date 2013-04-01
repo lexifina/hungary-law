@@ -1,5 +1,3 @@
-## 14. § Az intézménynek, és a szolgáltatónak olyan nyilvántartást kell vezetnie, amelyből a kötelezettségek és a rendeltetésszerű joggyakorlás megállapítható.
-
 15. § (1) Az intézmény a kártyakibocsátási tevékenységet a megkezdését követően legkorábban 5 év elteltével szüntetheti meg.
 
 (2) A kártyakibocsátási tevékenység megszüntetésének – ideértve az intézmény végelszámolással történő jogutód nélküli megszűnésének elhatározását – feltétele, hogy az intézmény egy másik intézménnyel a kártya-kibocsátási tevékenységgel összefüggő jogok és kötelezettségek, valamint a szerződéses állomány átszállására vonatkozó szerződést köt és ezen másik intézmény vállalja a kártyakibocsátási tevékenységét megszüntető intézmény által kibocsátott kártyák további működtetését.

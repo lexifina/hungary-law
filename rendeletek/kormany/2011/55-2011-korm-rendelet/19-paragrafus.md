@@ -1,6 +1,6 @@
 ## 18. § Az ellenőrzést a Hatóság a miniszter által utasításban kiadott ellenőrzési terv, továbbá a miniszter egyedi utasítása alapján végzi. A Hatóság az ellenőrzései eredményéről, megállapításairól 6 havonta, valamint eseti kötelezés alapján jelentést tesz a miniszternek.
 
-## 19. §[^26] Ha a Hatóság eljárása során megállapítja az e rendeletben meghatározott rendelkezések megsértését, az eset összes körülményének – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának és a jogsértéssel elért előnynek – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket alkalmazhatja:
+## 19. §[^28] Ha a Hatóság eljárása során megállapítja az e rendeletben meghatározott rendelkezések megsértését, az eset összes körülményének – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának és a jogsértéssel elért előnynek – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket alkalmazhatja:
 
 a) elrendeli a jogsértő állapot megszüntetését,
 
@@ -20,4 +20,4 @@ g) a jogszerű állapot helyreállításáig terjedő időtartamra elrendelheti 
 
 (3) Amennyiben a Hatóság három éven belül egy szolgáltatónál ismételten megállapítja az e rendeletben meghatározott valamely rendelkezés megsértését, úgy a Hatóság jogerős határozata alapján az intézmény köteles a szolgáltatóval kötött szerződését 15 napon belül felmondani, vagy közös megegyezéssel megszüntetni. Ezen szolgáltatóval a kártya elfogadására irányuló új szerződést a szerződés felbontásától számított egy évig semelyik intézmény nem köthet.
 
-[^26]: A 19. § a 301/2012. (X. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^28]: A 19. § a 301/2012. (X. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
