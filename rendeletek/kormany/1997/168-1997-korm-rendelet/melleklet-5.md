@@ -1,4 +1,4 @@
-5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^304]
+5. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^308]
 
 A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
@@ -76,4 +76,4 @@ A nyugellátás iránti igény bejelentéséhez csatolandó iratok
 
 5.2. a megyei és fővárosi kormányhivatal egészségbiztosítási szakigazgatási szervének vagy a társadalombiztosítási kifizetőhellyel rendelkező foglalkoztatónak a határozata az üzemi baleset vagy foglalkozási megbetegedés elismeréséről.
 
-[^304]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^308]: Az 5. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
