@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-102-20-
 | 2011-09-01 | 1995-102-20-22.12 | 171/2011. (VIII. 24.) Korm. rendelet |
 | 2012-01-01 | 1995-102-20-22.13 | 360/2008. (XII. 31.) Korm. rendelet |
 | 2012-07-01 | 1995-102-20-22.14 | 95/2012. (V. 15.) Korm. rendelet |
+| 2013-04-01 | 1995-102-20-22.15 | 95/2013. (III. 29.) Korm. rendelet |

@@ -42,7 +42,7 @@
 
 ## – az orvos specifikus bélyegző lenyomatát.
 
-## Heti jelentés a keresőképtelen állományba vett esetekről[^45]
+## Heti jelentés a keresőképtelen állományba vett esetekről[^46]
 
 | Heti jelentés a keresőképtelen állományba vett esetekről |
 
@@ -102,7 +102,7 @@
 
 |  | orvos aláírása |  | pecsét lenyomata |
 
-## Heti jelentés a keresőképtelen állományból kiírt esetekről[^46]
+## Heti jelentés a keresőképtelen állományból kiírt esetekről[^47]
 
 | Heti jelentés a keresőképtelen állományból kiírt esetekről |
 
@@ -160,113 +160,109 @@
 
 |  | orvos aláírása |  | pecsét lenyomata |
 
-4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^47]
-
-## ORVOSI BEUTALÓ az orvosszakértői szerv szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás, a fogyatékosság véleményezése vagy a keresőképesség felülvéleményezése céljából
+4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^48]
 
 ## ORVOSI BEUTALÓ
 
-## az orvosszakértői szerv szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás,
+## az orvosszakértői szerv szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás vagy a keresőképesség felülvéleményezése céljából
 
-## a fogyatékosság véleményezése vagy a keresőképesség felülvéleményezése céljából
+I. Személyi adatok
 
-I. (Minden esetben kitöltendő)
+| A beteg/biztosított neve: |
 
-| A beteg / biztosított / igénylő neve: | Előző neve: |
+| Születési neve: | Anyja neve: |
 
-| Leánykori neve: | Anyja neve: |
+| Születési ideje: ............. év .........................hó ......... nap | Szül. helye ..... |  |
 
-| Születési ................ év .......................... hó ..................... nap | helye ............................................ kerület |
+| TAJ: ⬜ ⬜ ⬜-⬜ ⬜ ⬜ -⬜ ⬜ ⬜ | a személyazonosság igazolására alkalmas igazolvány típusa: ......................., és az igazolvány száma ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-| TAJ □□□□□□□□□ | személyi ig.szám: □□□□□□□□□□ |
+| Lakóhelye: ⬜ ⬜ ⬜ ⬜ |
 
-| Szakképzettsége: | Utolsó munkaköre: |
+| Tartózkodási helye: ⬜ ⬜ ⬜ ⬜ |
 
-| Lakcíme: □□□□ | Tartózkodási helye: □□□□ |
+II. Orvosi dokumentáció
 
-## Gondnokának neve és lakcíme:
-
-II. (Minden esetben kitöltendő)
-
-1. Mióta tartozik ellátási körébe a beteg/biztosított/igénylő:
+1. Mióta tartozik ellátási körébe a beteg/biztosított:
 
 2. Kórelőzményben szereplő érdemi megbetegedések:
 
 3. Jelenlegi betegségeiről kérjük közölni az alábbiakat:
 
-– Az alapbetegség megnevezése: ....................................................................... BNO kód:
+– Az alapbetegség megnevezése: ............................................................... BNO kód: . ....................................
 
-– Az alapbetegséget mikor diagnosztizálták: .................................................... mióta kezeli:
+– Az alapbetegséget mikor diagnosztizálták: ............................................. mióta kezeli: .................................
 
 – Előzőleg kezelte-e más is a beteget és mikor:
 
 – Az alapbetegséghez társuló szövődmények:
 
-| .............................................. | BNO kód: ................................................ | Az észlelés ideje: |
+| ............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 
-| .............................................. | BNO kód: ................................................ | Az észlelés ideje: |
+| ............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 
-| .............................................. | BNO kód: ................................................ | Az észlelés ideje: |
+| ............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 
 – Egyéb megbetegedések:
 
-| .............................................. | BNO kód: ................................................ | Az észlelés ideje: |
+| .............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 
-| .............................................. | BNO kód: ................................................ | Az észlelés ideje: |
+| .............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 
-| .............................................. | BNO kód: ................................................ | Az észlelés ideje: |
+| .............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 
 4. A beteg kórházi kezelésére vonatkozó adatok az utolsó 2 év során:
 
 | -tól | -ig | diagnózis |  |
 
-| .............................................. | .............................................. | ............................................... | BNO kód: |
+| ............................................ | ............................................ | .............................................. | BNO kód: |
 
-| .............................................. | .............................................. | ............................................... | BNO kód: |
+| ............................................ | ............................................ | .............................................. | BNO kód: |
 
-| .............................................. | .............................................. | ............................................... | BNO kód: |
+| ............................................ | ............................................ | .............................................. | BNO kód: |
 
-5. Kérjük ismertesse a beteg/biztosított/igénylő jelenlegi részletes státuszát [kiemelve anatómiai és funkcionális károsodása(i)nak, fogyatékossága(i)nak jellemzőit]:
+5. Kérjük, ismertesse a beteg/biztosított jelenlegi részletes státuszát [kiemelve anatómiai és funkcionális károsodása(i)nak jellemzőit]:
 
-6. Kérjük közölje a beteg/biztosított/igénylő állapotának megítélését elősegítő leletek, konzíláriusi véleményeket:
+6. Kérjük, közölje a beteg/biztosított állapotának megítélését elősegítő leleteket, konzíláriusi véleményeket:
 
-7. Kérjük ismertesse az eddig alkalmazott kezelési módokat és azok hatékonyságát, a kórlefolyás jellegét (progresszió, stagnálás, regresszió):
+7. Kérjük, ismertesse az eddig alkalmazott kezelési módokat és azok hatékonyságát, a kórlefolyás jellegét (progresszió, stagnálás, regresszió):
 
-8. Megítélése szerint milyen további terápiával, rehabilitációs intézkedéssel lehetne a beteg/biztosított/igénylő állapotán javítani:
+8. Megítélése szerint milyen további terápiával, rehabilitációs intézkedéssel lehetne a beteg/biztosított állapotán javítani:
 
-9. Lehetségesnek tartja-e a beteg/biztosított/igénylő:
+9. Lehetségesnek tartja-e a beteg/biztosított:
 
-| – orvosi rehabilitációját: | □ igen | □ nem |
+| – orvosi rehabilitációját: | ⬜ igen | ⬜ nem |
 
-| – foglalkozási rehabilitációját saját munkakörében: | □ igen | □ nem |
+| – foglalkozási rehabilitációját saját munkakörében: | ⬜ igen | ⬜ nem |
 
-| más munkakörben: | □ igen | □ nem |
+| más munkakörben: | ⬜ igen | ⬜ nem |
 
-10. Mikor és milyen rehabilitációban részesült a beteg/biztosított/igénylő:
+10. Mikor és milyen rehabilitációban részesült a beteg/biztosított:
 
 11. Összefoglaló orvosi vélemény (együttműködési készség, gyógykezelésre vonatkozó utasítások betartása, fizikai terhelhetőség, járásképesség, segédeszköz használata, veszélyeztetett állapot stb.):
 
-12. Kérjük nyilatkozzék, a beteg/biztosított/igénylő rendelkezik-e a keresőképtelenség, a munkaképesség változás, súlyosan fogyatékos állapot minősítéséhez szükséges dokumentumokkal:
+12. Kérjük, nyilatkozzék, a beteg/biztosított rendelkezik-e a keresőképtelenség vagy a munkaképesség változás minősítéséhez szükséges dokumentumokkal:
 
-□ igen □ nem
+⬜ igen ⬜ nem
 
-13. A beteg/biztosított/igénylő vizsgálata
+13. A beteg/biztosított vizsgálata
 
-□ lakóhelyén, tartózkodási helyén, □ az orvosszakértői szerv telephelyén indokolt.
+⬜ lakóhelyén, tartózkodási helyén, ⬜ az orvosszakértői szerv telephelyén
 
-III. (A keresőképesség és a munkaképesség változás véleményezése esetén töltendő ki)
+indokolt.
+
+III. A keresőképtelenségre vagy a munkaképesség változásra vonatkozó további adatok
 
 1. A beteg keresőképtelenségére vonatkozó adatok az utolsó két év során a kiállító orvos dokumentációjában:
 
 | keresőképtelen: | -tól | -ig | diagnózis |  |
 
-| .............................................. | ............................................. | .............................................. | BNO kód: ........................... |
+| ......................................... | ........................................ | ......................................... | BNO kód: ........................ |
 
-| .............................................. | ............................................. | .............................................. | BNO kód: ........................... |
+| ......................................... | ........................................ | ......................................... | BNO kód: ........................ |
 
-| .............................................. | ............................................. | .............................................. | BNO kód: ........................... |
+| ......................................... | ........................................ | ......................................... | BNO kód: ........................ |
 
-| .............................................. | ............................................. | .............................................. | BNO kód: ........................... |
+| ......................................... | ........................................ | ......................................... | BNO kód: ........................ |
 
 2. Táppénz-joga lejár:
 
@@ -278,40 +274,10 @@ címe: .........................................................................
 
 4. Főorvosi Bizottság elé küldés indoka:
 
-□ vitatott keresőképtelenség □ keresőképtelenség visszaigazolása
+⬜ vitatott keresőképtelenség ⬜ keresőképtelenség visszaigazolása
 
-IV. (A fogyatékossági támogatás igénylése esetén töltendő ki.)
+IV. A beutalót kiállító orvos adatai
 
-1. Az igénylő fogyatékosságának jellege
-
-a) □ látási
-
-b) □ hallási
-
-c) □ értelmi
-
-d) □ a személyiség egészét érintő fejlődés átható zavara (autizmus)
-
-e) □ mozgásszervi
-
-f) □ halmozott, mert az igénylőnek az a)–e) pontokban meghatározott fogyatékosságok közül legalább kettő fogyatékossága van
-
-g) □ halmozott, mert az igénylő hallássérült és emellett az a) vagy c) vagy d) pontokban meghatározott fogyatékossága is van
-
-2. Véleménye szerint a beteg/biztosított/igénylő a súlyos fogyatékossággal összefüggésben mindennapi életvitele során a következőkben felsoroltak közül mely tevékenységekhez igényli rendszeresen más személyek közreműködését:
-
-□ bevásárlás, □ főzés, □ mosás,
-
-□ takarítás, □ közlekedés, □ mindennapos ügyintézés.
-
-3. Véleménye szerint a beteg/biztosított/igénylő a súlyos fogyatékosságával összefüggésben önmaga ellátása során a következőkben a felsoroltak közül, mely tevékenységekhez igényli más személy segítségét:
-
-□ étkezés, □ tisztálkodás, □ öltözködés,
-
-□ illemhely használata, □ lakáson belüli közlekedés.
-
-V. (Minden esetben kitöltendő)
-
-[^45]: Lásd 1999. MK 71. szám 4582. oldal.
-[^46]: Lásd 1999. MK 71. szám 4583. oldal.
-[^47]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 213/2007. (VIII. 7.) Korm. rendelet 18. § d) pontjának di) alpontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (5) bekezdésének e) pontja, a 332/2010. (XII. 27.) Korm. rendelet 5. § b) pontja, a 351/2010. (XII. 30.) Korm. rendelet 28. § g) pontja szerint módosított szöveg.
+[^46]: Lásd 1999. MK 71. szám 4582. oldal.
+[^47]: Lásd 1999. MK 71. szám 4583. oldal.
+[^48]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
