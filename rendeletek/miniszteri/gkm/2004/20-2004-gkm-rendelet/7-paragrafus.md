@@ -1,18 +1,3 @@
-## 6. §[^12]
+## 6. §[^6] A 4. § (1) bekezdés d)–h) pontja, (2)–(4) bekezdése, valamint az 5. § szerinti adatszolgáltatás formáját a Hivatal határozza meg és honlapján közzéteszi.
 
-## 7. § Az e rendelet szerint szolgáltatott adatok az alábbiak:
-
-a) a havi kőolaj beszerzési költség a 2. számú melléklet szerint meghatározott módon; az adatszolgáltatás határideje: a tárgyhónapot követő hónapban,
-
-b) a kőolajtermékek minden hónap 15. napján érvényes, minden vámot és adót magában foglaló, valamint vám- és adómentes fogyasztói árai; az adatszolgáltatás határideje: a tárgyhónap 15. napját követő 30 napon belül,
-
-c) a kőolajtermékek hétfőnként érvényes, vám- és adómentes fogyasztói árai; az adatszolgáltatás határideje: a tárgynapot követő nap déli 12 óra,
-
-d) az egyes hónapok végén rendelkezésre álló kőolaj és kőolajtermék készletek mennyisége, összetétele: az adatszolgáltatásban szükséges feltüntetni, hogy a Kt. 3. § (2) bekezdésének 1–3. kategóriájában meghatározott készlet mennyisége az előző naptári év átlagfogyasztásából hány napnak felel meg, továbbá külön szükséges feltüntetni a 2. kategória alatt a kerozin típusú repülőgép üzemanyag-készleteket; a jelentésben késztermékeket a tényleges tömegük alapján, a kőolajat és félkész-termékeket a Kt. 3. § (3) bekezdésének a)–c) pontjaiban foglaltak alapulvételével kell feltüntetni; az adatszolgáltatás határideje: a tárgyhónapot követő második hónap 25. napja,
-
-e)[^13] éves jelentés a más tagállam területén kormányközi megállapodás alapján tárolt, illetőleg más tagállam által Magyarország területén tárolt készletek mennyiségéről, összetételéről, helyéről és a tárolást végző vállalkozásról. Határidő: minden év március 31. napja,
-
-f) a kőolaj és kőolajtermékek ellátási helyzetére vonatkozó adatok a rendelet 5. számú melléklete szerint meghatározott módon; adatszolgáltatás határideje tárgy hónapot követő hónapban.
-
-[^12]: A 6. §-t a 83/2011. (XII. 29.) NFM rendelet 12. §-a hatályon kívül helyezte.
-[^13]: A 7. § e) pontja a 91/2011. (XII. 30.) NFM rendelet 37. §-a szerint módosított szöveg.
+[^6]: A 6. §-t a 83/2011. (XII. 29.) NFM rendelet 12. §-a hatályon kívül helyezte, újonnan a 10/2013. (III. 27.) NFM rendelet 1. §-a iktatta be.

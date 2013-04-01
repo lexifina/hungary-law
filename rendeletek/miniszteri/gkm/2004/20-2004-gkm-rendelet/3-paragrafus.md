@@ -1,14 +1,15 @@
 ## Az adatszolgáltatási eljárás
 
-3. § (1)[^3] Az e rendeletben szabályozott nemzetközi adatszolgáltatási kötelezettséget Hivatal teljesíti.
+3. §[^3] (1) A Hivatal a 4. §-ban meghatározott adatokat gyűjti, feldolgozza és a 4. §-ban meghatározott határidőn belül és az ott meghatározott formában továbbítja az Európai Bizottsághoz (a továbbiakban: Bizottság).
 
-(2)[^4] A Szövetség a 7. § d)–e) pontjaiban meghatározott, a Szövetség készleteire vonatkozó adatokat a tagvállalatok jelentései alapján gyűjti és továbbítja a Hivatal részére.
+(2) A feldolgozás alapjául szolgáló számítási módszereket a Bizottság jogosult megismerni.
 
-(3)[^5] A Szövetség tagjai a 7. § d)–e) pontjaiban meghatározott a saját készleteikre vonatkozó adatokat közvetlenül továbbítják a Hivatal részére.
+(3) A Hivatal (1) bekezdés szerinti kötelezettségének teljesítése érdekében
 
-(4)[^6]
+a) a Szövetség a 4. § (1) bekezdés d)–g) pontja szerinti adatokról, a Szövetség tagjai a 4. § (1) bekezdés h) pontja szerinti adatokról a Hivatal által meghatározott időközönként, rendszeresített adatlap formájában jelentést küldenek;
 
-[^3]: A 3. § (1) bekezdése a 83/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
-[^4]: A 3. § (2) bekezdése a 83/2011. (XII. 29.) NFM rendelet 10. §-a szerint módosított szöveg.
-[^5]: A 3. § (3) bekezdése a 83/2011. (XII. 29.) NFM rendelet 10. §-a szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdését a 83/2011. (XII. 29.) NFM rendelet 12. §-a hatályon kívül helyezte.
+b) az adatszolgáltatásban közreműködő egyéb szervek, szervezetek és gazdasági társaságok a Hivatal megkeresése alapján, a Hivatal által meghatározott módon és formában szolgáltatnak adatot.
+
+(4) A Hivatal megtagadhatja az üzleti titkot tartalmazó és egy vagy több piaci szereplő azonosítására alkalmas adat Bizottsághoz történő továbbítását. Ha a Hivatal üzleti titkot tartalmazó és egy vagy több piaci szereplő azonosítására alkalmas adatot továbbítana a Bizottság részére, akkor az adatszolgáltatásban közreműködő egyéb szerv, szervezet és gazdasági társaság megtagadhatja a Hivatal részére történő adatszolgáltatást.
+
+[^3]: A 3. § a 10/2013. (III. 27.) NFM rendelet 1. §-ával megállapított szöveg.

@@ -1,8 +1,9 @@
-5. § (1)[^10] A Hivatal a 7. §-ban meghatározott adatokat, valamint az éves jelentést a Bizottsághoz továbbítja a 2–4. számú mellékletekben foglalt táblázatok szerint.
+5. §[^5] (1) A Szövetség a Kt. 5. § (1)–(2) bekezdése szerinti nyilvántartásban szereplő, a megelőző év utolsó napjára vonatkozó, a biztonsági készletet érintő adatokat minden év január 31-ig megküldi az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) és a Hivatal részére.
 
-(2) Az adatokat összesített formában kell a Bizottságnak továbbítani oly módon, hogy a szolgáltatott adatok reprezentatív képet adjanak a magyar olajpiac helyzetéről.
+(2) A Szövetség a Kt. 5. § (1)–(2) bekezdése szerinti nyilvántartásban szereplő, a biztonsági készletre vonatkozó adatokat a miniszter vagy a Hivatal megkeresése esetén részére haladéktalanul megküldi.
 
-(3)[^11] A Hivatal megtagadhatja olyan adat szolgáltatását, amely üzleti titkot tartalmaz és egy vagy több piaci szereplő azonosítására alkalmas. Ha a Hivatal valamely társaság vonatkozásában ezt megállapítja, akkor az adatszolgáltatásban közreműködő érintett társaság is megtagadhatja az ilyen adatok szolgáltatását.
+(3) Ha a Szövetség a Kt. 4. § (1) bekezdése alapján különleges készletet hoz létre, a készlet mennyiségéről és tárolásának időtartamáról tájékoztatja a minisztert és a Hivatalt.
 
-[^10]: A 5. § (1) bekezdése a 83/2011. (XII. 29.) NFM rendelet 11. §-a szerint módosított szöveg.
-[^11]: A 5. § (3) bekezdése a 83/2011. (XII. 29.) NFM rendelet 10–11. §-a szerint módosított szöveg.
+(4) A Szövetség a Kt. 5. § (1)–(2) bekezdése szerinti nyilvántartásban szereplő, a különleges készletre vonatkozó adatokat a miniszter vagy a Hivatal megkeresése esetén részére haladéktalanul megküldi.
+
+[^5]: Az 5. § a 10/2013. (III. 27.) NFM rendelet 1. §-ával megállapított szöveg.

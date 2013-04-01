@@ -20,7 +20,7 @@
 
 ## A táblázatot a tárgyhónap végét követő egy hónapon belül kell megküldeni a Bizottságnak.
 
-## A Bizottság a megküldött információkat dollárban és euróban közzéteszi az Olajjelentésben (Oil Bulletin). A havi euró-dollár árfolyamot a hivatalos piaci átváltási árfolyamnak[^15] megfelelően kell meghatározni.
+## A Bizottság a megküldött információkat dollárban és euróban közzéteszi az Olajjelentésben (Oil Bulletin). A havi euró-dollár árfolyamot a hivatalos piaci átváltási árfolyamnak[^11] megfelelően kell meghatározni.
 
 | Tagállam: | KŐOLAJ BESZERZÉSI KÖLTSÉGE | Időszak: |
 
@@ -34,4 +34,4 @@
 
 3. számú melléklet a 20/2004. (II. 27.) GKM rendelethez
 
-[^15]: Az Európai Közösségek Hivatalos Lapjának C sorozatában közzétéve.
+[^11]: Az Európai Közösségek Hivatalos Lapjának C sorozatában közzétéve.

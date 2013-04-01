@@ -1,17 +1,21 @@
-## 8. §[^14]
+## 8. §[^8]
 
 ## Záró rendelkezések
 
 9. § (1) E rendelet a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
-(2) E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+(2)[^9] Ez a rendelet
 
-a) a Tanács a kőolaj beszerzési költségeivel és a kőolajtermékek fogyasztói árával kapcsolatos információcsere és konzultáció közösségi eljárásáról szóló 1999/280/EK határozatával,
+a) a Tanács 77/706/EGK határozatának végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 1979. június 15-i 79/639/EGK bizottsági határozatnak,
 
-b) a Bizottság a kőolaj beszerzési költségeivel és a kőolajtermékek fogyasztói árával kapcsolatos információcsere és konzultáció közösségi eljárásáról szóló 1999/280/EK tanácsi határozat végrehajtásáról szóló 1999/566/EK határozatával,
+b) a kőolaj beszerzési költségeivel és a kőolajtermékek fogyasztói árával kapcsolatos információcsere és konzultáció közösségi eljárásáról szóló, 1999. április 22-i 1999/280/EK tanácsi határozatnak,
 
-c) a Tanács az EGK tagállamainak minimális kőolaj és kőolajtermék készletezési kötelezettséginek előírásáról szóló 68/414/EGK irányelv módosításáról szóló 98/93/EK irányelvével,
+c) a kőolaj beszerzési költségeivel és a kőolajtermékek fogyasztói árával kapcsolatos információcsere és konzultáció közösségi eljárásáról szóló 1999/280/EK tanácsi határozat végrehajtásáról szóló, 1999. július 26-i 1999/566/EK bizottsági határozatnak
 
-d) a Bizottság a 77/706/EGK határozat végrehajtásának részletes szabályairól szóló 79/639/EGK határozatával.
+a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^14]: A 8. §-t a 83/2011. (XII. 29.) NFM rendelet 12. §-a hatályon kívül helyezte.
+(3)[^10] Ez a rendelet a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek való megfelelést szolgálja.
+
+[^8]: A 8. §-t a 83/2011. (XII. 29.) NFM rendelet 12. §-a hatályon kívül helyezte.
+[^9]: A 9. § (2) bekezdése a 10/2013. (III. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 9. § (3) bekezdését a 10/2013. (III. 27.) NFM rendelet 2. §-a iktatta be.
