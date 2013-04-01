@@ -558,7 +558,7 @@
 
 ## NA: Nukleoz(t)id analóg
 
-7. melléklet a 31/2010. (V. 13.) EüM rendelethez
+7. melléklet a 31/2010. (V. 13.) EüM rendelethez[^4]
 
 ## A felnőttkori luminális Crohn-betegség diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -610,7 +610,7 @@ A Crohn-betegség súlyosságának megítélésére az eltérő betegségtípuso
 
 6. Fenntartó kezelés felnőttkori Crohn-betegségben (luminális)
 
-6.1. Megfelelő válaszkészség (3 hónap alatt CDAI minimum 70 pontos csökkenése) esetén fenntartó kezelés folytatása javasolt önmagában vagy immunszuppresszív terápiával együtt. Extraintesztinális manifesztáció esetében a sikeresség elbírálásában a klinikai jelek javulása a mérvadó (EL3, RG C).
+6.1.Megfelelő válaszkészség (3hónap alatt CDAI minimum 70 pontos csökkenése) esetén fenntartókezelés folytatható önmagában vagy immunszuppresszív terápiával együtt mellékhatás, hatásvesztés vagy progresszió megjelenéséig, azonban extraintesztinális manifesztáció esetében a sikeresség elbírálásában a klinikai jelek javulása a mérvadó(EL3, RG C).
 
 6.2. Infliximab esetében: hatékony indukciós kezelést követően 8 hetente 5 mg/ttkg dózisban.
 
@@ -864,6 +864,8 @@ A diagnózis kritériumainak rögzítése (BNO: K5001, K5011, K5081), klinikai s
 
 15.4.3. 6 havonta: mellkas RTG (tüdőgyulladás, TBC kizárása céljából)
 
+15.4.4. Tartós kezelés esetén a kezelés felfüggesztésének lehetőségét vizsgálták-e
+
 15.5. Megjegyzés
 
 15.5.1. Antibiotikumok törölve az új fisztulás indikációs pont miatt.
@@ -908,11 +910,11 @@ A diagnózis kritériumainak rögzítése (BNO: K5001, K5011, K5081), klinikai s
 
 | 4 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
 
-| 5 | L04AA12 | infliximab | BRMD | Biológiai terápia eszközei |
+| 5 |  |  |  |  |
 
 | 6 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
-| 7 | L04AA17 | adalimumab | BRMD | Biológiai terápia eszközei |
+| 7 |  |  |  |  |
 
 | 8 | H02AB01 | betamethason | Szteroid | Szteroid gyógyszerek |
 
@@ -929,3 +931,5 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 BNO: Betegségek nemzetközi osztályozása
 
 ECCO: European Crohn’s and Colitis Organisation
+
+[^4]: A 7. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.

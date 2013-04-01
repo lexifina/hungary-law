@@ -14,6 +14,8 @@
 
 ## 2.4. A terápia további alkalmazásának eldöntése céljából a biológiai terápia hatásosságát rendszeresen ellenőrizni kell. A terápia hatásosnak tekinthető, amennyiben a megkezdett kezelést követő 14. hétre legalább 50%-os relatív BASDAI index, vagy 20 mm abszolút csökkenés igazolható. Amennyiben ez a feltétel nem teljesül, akkor a biológiai terápiát nem lehet tovább folytatni. A BASDAI indexet a kezelés folyamán kéthavonta szükséges ellenőrizni. Ha legalább két egymást követő alkalommal az eredmény a 14. héten elért javuláshoz képest romlik (az index érték emelkedik), a kezelést szintén meg kell szakítani.
 
+## 3. Az ellátás igénybevételének finanszírozott szakmai rendje, finanszírozási algoritmusa
+
 ## 4.1. A spondylitis ankylopoetica gyógyszeres kezelési algoritmusa
 
 ## 4.1.1. Tüneti kezelés (analgetikum, NSAID) az alapellátásban és mindhárom szinten (folyamat kezdetén maximum 2-3 hónapig, illetve később, fellángolás esetén rövid ideig).
@@ -50,7 +52,7 @@
 
 ## 4.7. Az anti-TNF-α indukciós kezelés hatékonyságának ellenőrzése spondylitis ankylopoetica kezelésében
 
-## A kezelés 14. hetében meg kell határozni a BASDAI index összetevőit. Amennyiben a kiindulási értékhez képest legalább 50%-kal vagy 20 mm-rel nem javult az index átlaga, a biológiai terápia nem folytatható. A kezelés 14. hetében meg kell határozni, hogy a beteg elérte-e az ASAS 50%-os javulás mértékét, illetve az ASAS remisszió (az ASAS 50% meghatározásánál használt négy paraméter mindegyike 20 alatt van) kritérium esetleges elérését.
+## A kezelés 14. hetében meg kell határozni a BASDAI index összetevőit. Amennyiben a kiindulási értékhez képest legalább 50%-kal vagy 20 mm-rel nem javult az index átlaga, a biológiai terápia nem folytatható. A kezelés 14. hetében meg kell határozni, hogy a beteg elérte-e az ASAS 50%-os javulás mértékét, illetve az ASAS remisszió (az ASAS 50% meghatározásánál használt négy paraméter mindegyike 20 alatt van) kritérium esetleges elérését. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
 
 ## 4.8. Az ASAS 50%-os javulásának értékelése
 
@@ -144,6 +146,8 @@
 
 ## 8.2.2.5. gyulladásos aktivitás a gerinc és a sacroiliacalis ízületekben (MR felvétel opcionális).
 
+## 8.2.2.6. Tartós 1 éven túli kezelés esetén a kezelés felfüggesztésének lehetőségét vizsgálták-e
+
 ## 9. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
 ## 9.1. A területre fordított közkiadások alakulása, monitorozása.
@@ -172,15 +176,15 @@
 
 | 3 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
 
-| 4 | L04AA12 | infliximab | BRMD | Biológiai terápia eszközei |
+| 4 |  |  |  |  |
 
 | 5 | L04AB01 | etanercept | BRMD | Biológiai terápia eszközei |
 
-| 6 | L04AA11 | etanercept | BRMD | Biológiai terápia eszközei |
+| 6 |  |  |  |  |
 
 | 7 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
-| 8 | L04AA17 | adalimumab | BRMD | Biológiai terápia eszközei |
+| 8 |  |  |  |  |
 
 | 9 | L04AB05 | golimumab | BRMD | Biológiai terápia eszközei |
 
@@ -204,7 +208,7 @@
 
 ## BNO: Betegségek nemzetközi osztályozása
 
-14. melléklet a 31/2010. (V. 13.) EüM rendelethez
+14. melléklet a 31/2010. (V. 13.) EüM rendelethez[^11]
 
 ## Az arthritis psoriatica diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -225,6 +229,8 @@ Az arthritis psoriaticában szenvedő beteg perifériás túlsúlyú arthritis �
 2.1.2. Perifériás érintettség esetén a betegség aktivitását DAS 28 index-szel határozzuk meg. Súlyos, aktívnak tekinthető azon arthritis psoriaticában szenvedő beteg, akinél a DAS 28 érték nagyobb, mint 5,1.
 
 2.1.3. Bőr érintettség súlyosságának megítélésére a PASI index alkalmazható. A bőrtünetek kiterjedtsége, lokalizációja és jellege alapján kis kiterjedésű betegségről beszélünk, amennyiben a testfelület kevesebb mint 15%-a érintett (PASI<15). Nagyobb kiterjedésű elváltozásról akkor beszélünk, ha a testfelület több mint 15%-a (PASI>15) érintett. Nagyon ritkán bőrtünet nélkül is előfordulhat arthritis psoriatica, mely többnyire tévesen rheumatoid arthritisként, vagy spondylitis ankylopoeticaként jelenik meg a klinikumban.
+
+3. Az ellátás igénybevételének finanszírozott szakmai rendje, finanszírozási algoritmusa
 
 4. Arthritis psoriatica kezelése
 
@@ -290,7 +296,7 @@ A kezelés 14. hetében meg kell határozni a BASDAI index összetevőit. Amenny
 
 5. Fenntartó kezelés arthritis psoriatica biológiai kezelésében
 
-A kezelés további folytatásának eldöntése céljából három havonta rögzíteni kell a BASDAI (axiális érintettség esetén), DAS 28 (perifériás érintettség esetén), PASI (súlyos bőrérintettség esetén) indexeket.
+A kezelés további folytatásának eldöntése céljából három havonta rögzíteni kell a BASDAI (axiális érintettség esetén), DAS 28 (perifériás érintettség esetén), PASI (súlyos bőrérintettség esetén) indexeket. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
 
 6. Az anti-TNF-α kezelés további folytatásának kritériumai
 
@@ -402,6 +408,8 @@ A kezelés további folytatásának eldöntése céljából három havonta rögz
 
 9.2.4.3. 6 havonta: mellkas RTG (tüdőgyulladás, TBC kizárása céljából)
 
+9.2.4.4. Tartós 1 éven túli kezelés esetén a kezelés felfüggesztésének lehetőségét vizsgálták-e
+
 9.2.5. Megjegyzés
 
 9.2.5.1. Elfogadott DMARD terápiák: metothrexat (MTX), leflunomid (LEF), szulfaszalazin (SSZ), cyklosporin A (CsA), (a készítmények törzskönyvi indikációit figyelembe kell venni).
@@ -452,15 +460,15 @@ A kezelés további folytatásának eldöntése céljából három havonta rögz
 
 | 8 | L04AB01 | etanercept | BRMD | Biológiai terápia eszközei |
 
-| 9 | L04AA11 | etanercept | BRMD | Biológiai terápia eszközei |
+| 9 |  |  |  |  |
 
 | 10 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
-| 11 | L04AA17 | adalimumab | BRMD | Biológiai terápia eszközei |
+| 11 |  |  |  |  |
 
 | 12 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
 
-| 13 | L04AA12 | infliximab | BRMD | Biológiai terápia eszközei |
+| 13 |  |  |  |  |
 
 | 14 | L04AB06 | golimumab | BRMD | Biológiai terápia eszközei |
 
@@ -487,3 +495,5 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 BNO: Betegségek nemzetközi osztályozása
 
 EULAR: The European League Against Rheumatism
+
+[^11]: A 14. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (7) bekezdése szerint módosított szöveg.

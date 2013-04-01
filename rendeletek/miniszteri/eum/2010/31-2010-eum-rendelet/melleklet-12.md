@@ -1,4 +1,4 @@
-12. melléklet a 31/2010. (V. 13.) EüM rendelethez[^4]
+12. melléklet a 31/2010. (V. 13.) EüM rendelethez[^9]
 
 ## A juvenilis idiopathias arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -76,9 +76,11 @@ A 16 éves kor előtt kezdődő, legalább 6 hete fennálló, legalább 1 ízül
 
 5.3. Csak szakavatott és a terápia-alkalmazásban jártas reumatológiai szakorvosok kompetenciája az anti-TNF-α terápia indikálása és alkalmazása gyermekgyógyász konzíliárus bevonásával.
 
-5.4. Etanercept gyermekkorban (4-17 év) és adalimumab serdülőknél (13-17 év) polyarticularis juvenilis idiopathias arthritisben javasolt, amennyiben megfelelő aktivitás csökkenés a methotrexattal nem volt elérhető, vagy intolerancia alakult ki.
+5.4. Etanercept és adalimumab gyermekkorban (4-17 év) polyarticularis juvenilis idiopathias arthritisben javasolt, amennyiben megfelelő aktivitás csökkenés a methotrexattal nem volt elérhető, vagy intolerancia alakult ki.
 
-5.5. A Giannini javulási kritériumok összetevőit meg kell mérni a kezelés kontrollja során.
+5.5. A Giannini javulási kritériumok összetevőit meg kell mérni a kezelés kontrollja során. sJIA tocilizumab kezelésnél eltérő klinikai manifesztációt szükséges figyelembe venni.
+
+5.6. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
 
 6. Szövődmények monitorozása, ellenőrzése
 
@@ -143,6 +145,8 @@ A 16 éves kor előtt kezdődő, legalább 6 hete fennálló, legalább 1 ízül
 7.2.1.6. radiológiai elváltozások identifikálása, vagy kizárása (RTG)
 
 7.2.1.7. rheumatoid faktor jelenléte a szérumban (RF faktor) (egyéb labor)
+
+7.2.1.8. Tartós 1 éven túli kezelés esetén a kezelés felfüggesztésének lehetőségét vizsgálták-e
 
 7.2.2. A betegség aktivitásának meghatározása (Giannini kritériumok) és dokumentálásának ellenőrzése
 
@@ -230,11 +234,15 @@ A 16 éves kor előtt kezdődő, legalább 6 hete fennálló, legalább 1 ízül
 
 | 8 | L04AB01 | etanercept | BRMD | Biológiai terápia eszközei |
 
-| 9 | L04AA11 | etanercept | BRMD | Biológiai terápia eszközei |
+| 9 |  |  |  |  |
+
+| 9/a | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
 | 10 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
-| 11 | L04AA17 | adalimumab | BRMD | Biológiai terápia eszközei |
+| 11 |  |  |  |  |
+
+| 11/a | L04AC07 | tocilizumab | IL-6 RA | Biológiai terápia eszközei |
 
 | 12 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
 
@@ -258,4 +266,4 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-[^4]: A 12. számú melléklet a 47/2011. (VII. 27.) NEFMI rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^9]: A 12. számú melléklet a 47/2011. (VII. 27.) NEFMI rendelet 11. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 3. § (5) bekezdése szerint módosított szöveg.

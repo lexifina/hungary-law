@@ -1,4 +1,4 @@
-10. melléklet a 31/2010. (V. 13.) EüM rendelethez
+10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^7]
 
 ## A plakkos psoriasis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -40,6 +40,8 @@ A biológiai terápia indikációjának felállításakor a betegség súlyossá
 
 2.4.4. axiális ízületi érintettség esetén: BASDAI index dokumentálása.
 
+3. Az ellátás igénybevételének finanszírozott szakmai rendje, finanszírozási algoritmusa
+
 4. A plakkos psoriasis kezelése
 
 Standard szisztémás kezelési módszerek alatt a következőket értjük: acitretin, ciklosporin, metotrexát, szűk spektrumú ultraibolya (UV) B, és psoralen + UVA fotokemoterápia. Standard kezelési módszerekre nem reagáló eset: nem kielégítő klinikai javulás (kevesebb mint 50%-os PASI vagy BSA javulás a kiindulási értékhez képest, és a DLQI kevesebb mint 5 pontos javulása) a következő kezelési módszerekkel végzett legalább 3 hónapig tartó terápiás dózisú kezelés után: ciklosporin 2,5-5,0 mg/tskg/nap, metotrexát egyszer 15 mg/hét (max. 25-30 mg), acitretin 25-50 mg/nap, szűkspektrumú UVB vagy PUVA (klinikai javulás hiánya, gyors recidíva vagy a maximálisan ajánlott dózisok elérése – PUVA: 150-200 kezelés, UVB: 350 kezelés). A klinikai javulás hiánya fénykezelés esetén csak olyan esetben fogadható el, amennyiben a fénykezelés 3 évente bemért, ellenőrzött szűk spektrumú UVB, illetve a PUVA fényterápiás eszközökkel történik.
@@ -73,6 +75,8 @@ A kezelés további folytatásának eldöntése céljából három havonta rögz
 4.4.2. BSA „testfelszín százalékban kifejezett értéke” erythrodermiás vagy pustulosus psoriasis esetén,
 
 4.4.3. DLQI „Bőrgyógyászati Életminőségi Index” (DLQI értéke 0-30 között).
+
+4.4.4. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
 
 4.5. Az anti-TNF-α és az interleukin-inhibitor kezelés további folytatásának kritériumai
 
@@ -186,6 +190,8 @@ A kezelés további folytatásának eldöntése céljából három havonta rögz
 
 6.2.4.4. 6-12 havonta: mellkas RTG (tüdőgyulladás, TBC kizárása céljából)
 
+6.2.4.5. Tartós 1 éven túli kezelés esetén a kezelés felfüggesztésének lehetőségét vizsgálták-e
+
 6.3. Megjegyzés
 
 6.3.1. Standard szisztémás terápiák: immunmoduláns, immunszuppresszáns kezelések: metotrexát (MTX), leflunomid (LEF), ciklosporin A (CsA), terápiás dózisban.
@@ -238,15 +244,15 @@ A kezelés további folytatásának eldöntése céljából három havonta rögz
 
 | 8 | L04AB01 | etanercept | BRMD | Biológiai terápia eszközei |
 
-| 9 | L04AA11 | etanercept | BRMD | Biológiai terápia eszközei |
+| 9 |  |  |  |  |
 
 | 10 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
 
-| 11 | L04AA12 | infliximab | BRMD | Biológiai terápia eszközei |
+| 11 |  |  |  |  |
 
 | 12 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
-| 13 | L04AA17 | adalimumab | BRMD | Biológiai terápia eszközei |
+| 13 |  |  |  |  |
 
 | 14 | L04AC05 | usztekinumab | BRMD | Biológiai terápia eszközei |
 
@@ -271,3 +277,5 @@ A kezelés további folytatásának eldöntése céljából három havonta rögz
 ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
+
+[^7]: A 10. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (3) bekezdése szerint módosított szöveg.

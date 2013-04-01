@@ -1,4 +1,4 @@
-11. melléklet a 31/2010. (V. 13.) EüM rendelethez
+11. melléklet a 31/2010. (V. 13.) EüM rendelethez[^8]
 
 ## Az rheumatoid arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -15,6 +15,8 @@ A reumatológiai megbetegedések súlyosság és gyakoriság alapján legjelent�
 Az anatómiai károsodás a gyulladás következménye, a közvetlen cél ennek mérséklése. A gyulladás aktivitásának mérésére a napi gyakorlatban az Amerikai Reumatológus Társaság által összeállított “core set” szerint vizsgáljuk a duzzadt és nyomásérzékeny ízületek számát, az akut fázis proteinek termelődését jelző CRP szintet vagy vörösvértest-süllyedést (a CRP érzékenyebb, de drágább), 10 cm-es vizuális analóg skálán (VAS) mérve a fájdalom intenzitását, valamint a beteg és az orvos globális véleményét a betegség aktivitásáról. Ezen paraméterek egy részéből az Európai Reumaellenes Liga (EULAR) által kidolgozott képlet szerint egy összetett index, ún. betegség aktivitási score (DAS) képezhető.
 
 A gyakorlatban a 28 ízület vizsgálatával nyert DAS 28-at alkalmazzuk. A DAS 28 esetében 3,2 alatt beszélünk mérsékelt, 3,2 és 5,1 között közepes és efelett kifejezett gyulladásos aktivitásról. A bázisterápiás gyógyszerek adagjának titrálásával vagy több gyógyszer kombinálásával lehetőség szerint a DAS 28-at 3,2 alá kell szorítanunk. Az optimális eredmény természetesen a teljes remisszió elérése lenne, ez a DAS 28 esetében 2,6 alatti értéket jelent. A DAS szoros kontrolljával végzett, ez által irányított kezelés bizonyítottan eredményesebben mérsékli az anatómiai károsodás ütemét, mint a betegek hagyományos gondozása.
+
+3. Az ellátás igénybevételének finanszírozott szakmai rendje, finanszírozási algoritmusa
 
 4. Rheumatoid arthritis gyógyszeres kezelési algoritmusa
 
@@ -42,7 +44,7 @@ Az algoritmus általánosságban mindegyik arthritis típusban alkalmazható, a 
 
 4.5.4. nagyon ritkán arany, speciális esetben (vasculitis) ciklofoszfamid (CPH).
 
-4.6. Biológiai terápia (a reumatológia 2. és 3. szintjén a biológiai terápia alkalmazására jogosult intézmények): valamelyik TNF gátló (infliximab, etanercept, adalimumab, golimumab, certolizumab pegol) vagy interleukin-inhibitor (tocilizumab) 3 hónapig alkalmazott teljes dózisú, vagy tolerálható dózisú DMARD kombinációs kezelés hatástalansága esetén engedélyezett társadalombiztosítási támogatással.
+4.6. Biológiai terápia (a reumatológia 2. és 3. szintjén a biológiai terápia alkalmazására jogosult intézmények): valamelyik TNF gátló (infliximab, etanercept, adalimumab, golimumab, certolizumabpegol) vagy interleukin-inhibitor (tocilizumab) vagy CTLA-4 analóg (abatacept) 3 hónapig alkalmazott teljes dózisú, vagy tolerálható dózisú DMARD kombinációs kezelés hatástalansága esetén engedélyezett társadalombiztosítási támogatással.
 
 4.7. Autológ őssejttranszplantáció (opcionálisan, nem rutinszerű).
 
@@ -168,6 +170,8 @@ Az algoritmus általánosságban mindegyik arthritis típusban alkalmazható, a 
 
 7.2.4.3. 6 havonta: mellkas RTG (tüdőgyulladás, TBC kizárása céljából)
 
+7.2.4.4. Tartós 1 éven túli kezelés esetén a kezelés felfüggesztésének lehetőségét vizsgálták-e
+
 7.3. Megjegyzés
 
 7.3.1. Elfogadott DMARD terápiák: metothrexat (MTX), leflunomid (LEF), szulfaszalazin (SSZ), ciklosporin A (CsA), chloroquin (CQ), azathioprin (AZA), speciális esetben (vasculitis) ciklofoszfamid (CPH) (törzskönyvi indikációkat szükséges figyelembe venni).
@@ -238,15 +242,17 @@ Az algoritmus általánosságban mindegyik arthritis típusban alkalmazható, a 
 
 | 8 | L04AB01 | etanercept | BRMD | Biológiai terápia eszközei |
 
-| 9 | L04AA11 | etanercept | BRMD | Biológiai terápia eszközei |
+| 9 |  |  |  |  |
+
+| 9/a | L04AA24 | abatacept | CTLA-4 ANALÓG | Biológiaiterápia eszközei |
 
 | 10 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
 
-| 11 | L04AA12 | infliximab | BRMD | Biológiai terápia eszközei |
+| 11 |  |  |  |  |
 
 | 12 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
-| 13 | L04AA17 | adalimumab | BRMD | Biológiai terápia eszközei |
+| 13 |  |  |  |  |
 
 | 14 | L04AC07 | tocilizumab | BRMD | Biológiai terápia eszközei |
 
@@ -275,3 +281,5 @@ Az algoritmus általánosságban mindegyik arthritis típusban alkalmazható, a 
 ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
+
+[^8]: A 11. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (4) bekezdése szerint módosított szöveg.

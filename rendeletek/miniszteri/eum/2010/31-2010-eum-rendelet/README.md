@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-31-20-0
 | 2010-10-02 | 2010-31-20-0B.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-10-03 | 2010-31-20-0B.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-08-01 | 2010-31-20-0B.4 | 47/2011. (VII. 27.) NEFMI rendelet |
+| 2013-04-01 | 2010-31-20-0B.5 | 24/2013. (III. 29.) EMMI rendelet |

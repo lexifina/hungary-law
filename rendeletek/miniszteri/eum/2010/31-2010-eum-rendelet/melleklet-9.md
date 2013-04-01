@@ -1,4 +1,4 @@
-9. melléklet a 31/2010. (V. 13.) EüM rendelethez
+9. melléklet a 31/2010. (V. 13.) EüM rendelethez[^6]
 
 ## A colitis ulcerosa diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -178,7 +178,9 @@ A diagnózis kritériumainak rögzítése (BNO: K5180, K5190) klinikai tünetek 
 
 | 5 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
 
-| 6 | L04AA12 | infliximab | BRMD | Biológiai terápia eszközei |
+| 5/a | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
+
+| 6 |  |  |  |  |
 
 | 7 | H02AB01 | betamethason | Szteroid | Szteroid gyógyszerek |
 
@@ -195,3 +197,5 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 BNO: Betegségek nemzetközi osztályozása
 
 ECCO: European Crohn’s and Colitis Organisation
+
+[^6]: A 9. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
