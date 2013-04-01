@@ -16,7 +16,10 @@ b) – amennyiben felülvizsgálatra nem került sor – korlátozás nélkül
 
 nyújthatja be. Az a) pont szerinti határidő elmulasztása jogvesztő. A kérelemhez csatolni kell a 6. § (1) bekezdése szerinti igazolást – kivéve, ha a 2011. december 31-én folyósított rokkantsági nyugdíjat rokkantsági nyugdíjkedvezmény alapján állapították meg –, valamint a jogosultságot igazoló egyéb rendelkezésre álló dokumentumokat.
 
+(3b)[^35] A járadék iránti eljárásban az ügyintézési határidő 17 munkanap.
+
 (4) A járadékot a nyugdíjfolyósító szerv folyósítja az Egészségbiztosítási Alap rokkantsági, rehabilitációs ellátások előirányzatának terhére.
 
 [^33]: Az 5/H. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
 [^34]: Az 5/H. § (3a) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^35]: Az 5/H. § (3b) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
