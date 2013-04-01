@@ -372,7 +372,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 | 119. | 95291 | Foglalkozás terápia egyéni |
 
-| 120. | 95320 | Rehabilitációs képzés |
+| 120. | 95320 | Rehabilitációs oktatás |
 
 | 121. | 95530 | Önellátásra oktatás (napi tevékenységek gyakorlása) |
 
@@ -474,7 +474,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 6.2.3.7. Speciális vizsgálatok esetén csak a vizsgálat alapját képező szekvencia számolható el, a speciális postprocessing nem.
 
-6.3. Laborvizsgálatok általános elszámolhatósági szabályai, melyek a 2. melléklet “50” szakmakódjánál az X-jelzésű egészségügyi eljárásokra vonatkoznak
+6.3. Laborvizsgálatok általános elszámolhatósági szabályai, melyek a 2. melléklet „50” szakmakódjánál az X-jelzésű egészségügyi eljárásokra vonatkoznak
 
 6.3.1. Ha a laboratórium orvosa az elkészült eredmények alapján további vizsgálatokat tart szükségesnek, akkor ezt elvégezheti, de ilyenkor – akár utólag is – az eredeti vizsgálatot elrendelő orvos egyetértését dokumentálni kell. Kivétel ez alól az a vizsgálat, melynek természetéből fakad, hogy az egymást követően előálló eredményekből következnek a további vizsgálatok (egyes mikrobiológiai vizsgálatok, haemorrhagiás diathesis kivizsgálása, stb.), illetve azon vizsgálatok, melyekről az eredmények és diagnózisok ismeretében szakmai leírások alapján feltételezhető, hogy késedelem nélkül történő elvégzésük életmentő lehet.
 
@@ -482,7 +482,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 6.3.3. A laboratóriumi kérésnek tartalmilag meg kell felelni annak a követelménynek, hogy a vizsgálatot kérő egészségügyi szolgáltató szakorvosa és az igényelt vizsgálatok egyértelműen azonosíthatók legyenek.
 
-6.3.4. Az Országos Egészségbiztosítási Pénztár részére megküldendő teljesítmény elszámolási adatokban a “megjelenés” időpontjának a mintavétel időpontját kell tekinteni.
+6.3.4. Az Országos Egészségbiztosítási Pénztár részére megküldendő teljesítmény elszámolási adatokban a „megjelenés” időpontjának a mintavétel időpontját kell tekinteni.
 
 6.3.5. Ha egy laboratóriumi vizsgálatot a megnevezésben, definícióban nem szereplő, de a megjelölt eljárásoknál pontosabb eredményt adó, szakmai irányelveknek megfelelő vizsgálati módszerrel végezték, az adott eljárás kódján az elvégzett teljesítmény elszámolható.
 
@@ -506,7 +506,7 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 7. Vizsgálat elszámolási szabályai szakmák szerint
 
-A “11041 Vizsgálat” és “11042 Vizsgálat a rendelőn kívül” egészségügyi eljárások meghatározása szakmánként részletezve:
+A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészségügyi eljárások meghatározása szakmánként részletezve:
 
 |  | A | B |
 
@@ -554,4 +554,4 @@ A “11041 Vizsgálat” és “11042 Vizsgálat a rendelőn kívül” egészs�
 
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
-[^8]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^8]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
