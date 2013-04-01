@@ -1,5 +1,0 @@
-35. § (1) E törvény – a (2) és a (3) bekezdésben meghatározott kivételekkel – 2003. január 1-jén lép hatályba; rendelkezéseit – a 36. és a 37. §-ban, valamint a 38. § (2) bekezdésében és a 39. § (2)–(4) bekezdésében szabályozott kivételekkel, illetve feltételekkel – csak a hatálybalépését követően indult eljárásokban lehet alkalmazni.
-
-(2) E törvény 7. §-a és 9. §-a, valamint az Szt. e törvény 8. §-ával megállapított 20/A. §-ának (6) bekezdése, az Szt. e törvény 14. §-ával módosított 44. §-ának (4) bekezdése, az Szt. e törvény 31. §-ával megállapított 109. §-ának (8) bekezdése és az Szt. e törvény 33. §-ával megállapított 118. §-ának (2) bekezdése a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba. E rendelkezésekkel kapcsolatban megfelelően alkalmazni kell a 36. § (1) bekezdésében és a 37. § (1) bekezdésének a) pontjában foglaltakat azzal az eltéréssel, hogy e rendelkezések hatálybalépésének napját kell alapul venni.
-
-(3)
