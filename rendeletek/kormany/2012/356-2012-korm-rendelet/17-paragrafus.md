@@ -1,0 +1,5 @@
+17. § (1) A központosított mobil értékesítésű szolgáltatás ügyfél általi igénybevételéről, annak díjáról, a kényelmi díjról, valamint a továbbhárított költségekről a nemzeti mobil fizetési szervezet elektronikus számlát készít a felhasználás gyakoriságától függően legfeljebb 15 naponta, de legalább havonta, amelyet az üzletszabályzatban meghatározott módon kézbesít az ügyfél részére. Az ügyfél kérésére a nemzeti mobil fizetési szervezet nyomtatott formában is megküldi a számlát az ügyfélnek.
+
+(2) Az ügyfél az (1) bekezdés szerinti díjakat és továbbhárított költségeket a mobil fizetési szerződésben meghatározott módokon fizetheti meg.
+
+(3) A nemzeti mobil fizetési szervezet – az ügyfél előzetes értesítését követően – az üzletszabályzatban meghatározott esetekben korlátozhatja az ügyfél által igénybe vehető fizetési módokat, illetve előírhatja, hogy az ügyfél csak az általa előre befizetett összegek terhére veheti igénybe a szolgáltatást, így különösen ha az ügyfél korábbi fizetési késedelme azt indokolja.
