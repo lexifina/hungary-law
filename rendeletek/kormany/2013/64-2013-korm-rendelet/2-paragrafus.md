@@ -1,0 +1,15 @@
+## 1. § Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendelet (a továbbiakban: R.) 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § (1) Szilárd ásványi nyersanyagok esetében:
+
+## a) a kitermelt ásványi nyersanyag értéke a bányatelket megállapító határozatban kitermelhető ásványi nyersanyagként meghatározott, vagy a Bt. 1. § (7) bekezdése szerinti hatósági engedélyben meghatározott ásványi nyersanyag kitermelt mennyiségének (m3 vagy t) és az 1. mellékletben megjelölt vagy ércek esetében az abban feltüntetett képlet segítségével kiszámolt fajlagos értéknek (Ft/m3 vagy Ft/t) ezer forintra kerekített szorzata,
+
+## b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermelés esetén az a) pont szerint számított értéknek a Bt. 20. § (3) bekezdés f)–h) pontja szerinti százaléka.
+
+## (2) A bányavállalkozónak a kitermelt ásványi nyersanyag mennyiségét a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet (a továbbiakban: Bt. Vhr.) 4. § (5) bekezdésében meghatározott bányajáradék bevallási időszakonként geodéziai módszerekkel, vagy egyéb alkalmas módon kell meghatároznia. A bányavállalkozónak a teljes évre (tárgyévre) vonatkozó ásványi nyersanyag mennyiségi változásait kizárólag geodéziai felmérésen alapuló térfogatszámítással kell meghatároznia. A meghatározás módját és eredményét mérési adatokkal és jegyzőkönyvvel valamint számítással kell bizonylatolni. Mélyműveléses bányaüzem esetén az éves kitermelt ásványi nyersanyag mennyiség meghatározása hitelesített tömegméréssel is történhet. Az éves változást a bányaművelési térképen fel kell tüntetni. A geodéziai méréseken alapuló ásványi nyersanyagot meghatározó számításokat hites bányamérő által ellenjegyzett dokumentációba kell foglalni.
+
+## (3) Az ércek esetén a bányavállalkozónak mérnie és bizonylatolnia kell a kitermelt nyersanyag fémtartalmát is. A nyersanyag fémtartalmát a kitermelt ércből vett átlagminta vizsgálatával kell meghatározni. Az átlagmintavétel gyakoriságát és módszerét, a vizsgálati módszert és a vizsgálatot végző laboratóriumot a kitermelési műszaki üzemi tervben kell meghatározni.
+
+## (4) A Bt. 1. § (7) bekezdésében meghatározott hatósági engedéllyel rendelkező személynek (a továbbiakban: engedélyes) a kitermelt ásványi nyersanyag mennyiségét geodéziai módszerekkel vagy egyéb térfogatszámításra alkalmas módon kell meghatároznia. A meghatározás módját és eredményét bizonylatolni kell.
+
+## (5) Az engedélyes köteles az ásványi nyersanyag kitermelésének befejezését követő 60 napon belül, de legkésőbb a tárgyévet követő év február 28-ig az ásványi nyersanyag mennyiségéről szóló jelentést a Magyar Bányászati és Földtani Hivatalnak (a továbbiakban: MBFH) megküldeni. Az MBFH a kitermelt mennyiség ellenőrzése céljából geodéziai méréseket rendelhet el. Az engedélyes köteles a fizetendő bányajáradék mértékét meghatározni és a 8. § szerint befizetni.”

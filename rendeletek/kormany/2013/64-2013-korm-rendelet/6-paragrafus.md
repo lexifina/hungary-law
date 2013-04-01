@@ -1,0 +1,1 @@
+## „(2) A bányavállalkozó köteles a kitermelt földgáz technikai normál állapoton (15 °C, 0,1 MPa) mért mennyiségét (Em3-ben) – ezen belül az (1) bekezdés aa) pontja szerinti önfogyasztás és hálózati veszteség mennyiségét külön tételként feltüntetve –, valamint a kitermelt földgáz hőmennyiségét (GJ-ban) meghatározni és bizonylatolni.”
