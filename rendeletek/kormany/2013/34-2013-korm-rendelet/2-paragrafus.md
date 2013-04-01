@@ -1,0 +1,7 @@
+## „(8) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet és a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Mód. Rendelet) módosításáról szóló kormányrendelettel megállapított 75/D. §-át, a 7. számú mellékletét a jogosultnak a Mód. Rendelet hatálybalépését követően bekövetkezett elhalálozása esetén kell alkalmazni.”
+
+2. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet a következő 37. § (2b) bekezdéssel egészül ki:
+
+## „(2b) A jogosult halála esetén a fel nem vett ellátás felvételét az Ebtv. 61. § (10) bekezdésben meghatározott személy kérheti. A kérelmet az OEP által erre a célra rendszeresített, és a hivatalos honlapján közzétett formanyomtatványon lehet benyújtani. A formanyomtatványon fel kell tüntetni az elhunyt személy nevét, társadalombiztosítási azonosító jelét, a halál időpontját, az igénylőnek az elhunyt személlyel fennállt rokonsági, hozzátartozói fokát, valamint az igénylő természetes személyazonosító adatait (így nevét, társadalombiztosítási azonosító jelét, születési helyét, idejét, anyja nevét, lakhelyét) és aláírását.”
+
+(2) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 50. §-a a következő (11) bekezdéssel egészül ki:
