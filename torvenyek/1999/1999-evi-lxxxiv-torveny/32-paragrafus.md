@@ -14,11 +14,11 @@ d) az adatszolgáltatás alanyának nevét.
 
 (4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet a Nemzeti Adatvédelmi és Információszabadság Hatóság, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a nyomozó hatóság és törvényben feljogosított szerv.
 
-(5) Az e törvény 27/A. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
+(5) Az e törvény 27/A–27/C. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
 
 a) az automatizált keresést kezdeményező együttműködő tagállami szerv megnevezését,
 
-b) az automatizált keresést elrendelő, a 27/A. § (3) bekezdésében meghatározott szerv megnevezését,
+b) az automatizált keresést elrendelő, a 27/A. § (3) bekezdésében és a 27/C. § (2) bekezdésében meghatározott szerv megnevezését,
 
 c) az automatizált keresést végrehajtó, erre felhatalmazott személy azonosítására alkalmas megjelölést,
 
