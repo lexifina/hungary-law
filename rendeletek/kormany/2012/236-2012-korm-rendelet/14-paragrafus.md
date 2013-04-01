@@ -1,9 +1,8 @@
-## 13. §[^23]
+## 13. §[^21]
 
-14. § (1)[^24]
+14. § (1)[^22]
 
-(2)[^25]
+(2) A Cstr. 27. §-a a következő (4) bekezdéssel egészül ki:
 
-[^23]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 14. § (2) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^21]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

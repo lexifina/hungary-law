@@ -1,4 +1,4 @@
-## 19. §[^32]
+## 19. §[^27]
 
 ## 3. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) A 8. § (3) és (6) bekezdése, a 10. §, a 14. § (2) bekezdése, a 17. §, a 18. § (3) bekezdése, valamint a 2–7. melléklet 2013. április 1-jén lép hatályba.
 
-[^32]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
