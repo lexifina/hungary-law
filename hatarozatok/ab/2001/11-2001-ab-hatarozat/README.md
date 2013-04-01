@@ -1,7 +1,0 @@
-# 11/2001. (IV. 12.) AB határozat
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-11-30-75
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2001-04-12 | 2001-11-30-75.1 | 11/2001. (IV. 12.) AB határozat |
