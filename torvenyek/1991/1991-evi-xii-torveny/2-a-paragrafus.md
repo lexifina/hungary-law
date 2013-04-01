@@ -1,6 +1,6 @@
-2/A. § (1) Az e törvény szerinti, nyugdíjkiegészítés helyébe lépő pótlékra való jogosultságot a kárpótlásért felelős miniszter 2012. október 31-éig felülvizsgálja, és a felülvizsgálat eredményéről határozatot hoz.
+2/A. § (1) Az e törvény szerinti, nyugdíjkiegészítés helyébe lépő pótlékra való jogosultságot a kárpótlásért felelős miniszter 2013. június 1-jéig felülvizsgálja, és a felülvizsgálat eredményéről határozatot hoz.
 
-(2) A kárpótlásért felelős miniszter a nyugdíjkiegészítés helyébe lépő pótlékot 2013. január 1-jétől határozatával megszünteti, ha megállapítja, hogy a saját jogon folyósított pótlékban részesülő személy, illetve az özvegyi jogon folyósított pótlék esetén az elhunyt jogszerző
+(2) A kárpótlásért felelős miniszter a nyugdíjkiegészítés helyébe lépő pótlékot 2013. augusztus 1-jétől határozatával megszünteti, ha megállapítja, hogy a saját jogon folyósított pótlékban részesülő személy, illetve az özvegyi jogon folyósított pótlék esetén az elhunyt jogszerző
 
 a) az 1945. és 1949. közötti időszakban a demokratikus államberendezkedés felszámolásában játszott szerepe,
 
