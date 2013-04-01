@@ -1,10 +1,16 @@
-4/A. §[^4] (1)[^5] A Cst. 7. § (2) bekezdésében meghatározott személy akkor jogosult a magasabb összegű családi pótlékra, ha az orvosszakértői szerv szakhatósági állásfoglalása szerint 18. életévének betöltése előtt munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett.
+4/A. §[^12] (1)[^13] A Cst. 7. § (2) bekezdésében meghatározott személy akkor jogosult a magasabb összegű családi pótlékra, ha az orvosszakértői szerv szakvéleménye vagy szakhatósági állásfoglalása szerint a 18. életévének betöltése előtt
 
-(2)[^6] Az igénylő kérelmére vagy hivatalból indult eljárásban az igényelbíráló szerv beszerzi az (1) bekezdésben foglalt szakhatósági állásfoglalást (szakvéleményt), és ennek alapján dönt a jogosultságról.
+a) munkaképességét legalább 67%-ban elvesztette,
 
-(3)[^7]
+b) legalább 50%-os mértékű egészségkárosodást szenvedett, vagy
 
-[^4]: A 4/A. §-t a 7/2004. (II. 13.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
-[^5]: A 4/A. § (1) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 20. § (1) bekezdésével megállapított, a 8/2010. (IX. 3.) NEFMI rendelet 10. §-a, a 25/2010. (XII. 30.) NEFMI rendelet 3. §-a szerint módosított szöveg.
-[^6]: A 4/A. § (2) bekezdése a 23/2009. (X. 6.) SZMM rendelet 2. § b) pontja szerint módosított szöveg.
-[^7]: A 4/A. § (3) bekezdését a 23/2009. (X. 6.) SZMM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+c) az egészségi állapota a rehabilitációs hatóság minősítése alapján nem haladja meg az 50%-os mértéket.
+
+(2)[^14] Az igénylő kérelmére vagy hivatalból indult eljárásban az igényelbíráló szerv beszerzi az (1) bekezdésben foglalt szakhatósági állásfoglalást (szakvéleményt), és ennek alapján dönt a jogosultságról.
+
+(3)[^15]
+
+[^12]: A 4/A. §-t a 7/2004. (II. 13.) ESZCSM rendelet 2. §-a iktatta a szövegbe.
+[^13]: A 4/A. § (1) bekezdése a 3/2013. (I. 7.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^14]: A 4/A. § (2) bekezdése a 23/2009. (X. 6.) SZMM rendelet 2. § b) pontja szerint módosított szöveg.
+[^15]: A 4/A. § (3) bekezdését a 23/2009. (X. 6.) SZMM rendelet 4. § (2) bekezdése hatályon kívül helyezte.

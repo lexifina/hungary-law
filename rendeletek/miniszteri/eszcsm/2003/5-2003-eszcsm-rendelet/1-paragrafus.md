@@ -1,10 +1,15 @@
-1. § (1) A magasabb összegű családi pótlék igényléséhez – függetlenül attól, hogy a családi pótlékra való igény bejelentésével egyidejűleg, vagy már folyósított családi pótlék esetén kerül benyújtásra – igazolást kell csatolni arról, hogy a tizennyolc évesnél fiatalabb gyermek az 1. számú mellékletben felsorolt betegségek, illetőleg fogyatékosságok valamelyikében szenved.
+1. § (1)[^1] A magasabb összegű családi pótlék igényléséhez – függetlenül attól, hogy a családi pótlékra való igény bejelentésével egyidejűleg, vagy már folyósított családi pótlék esetén kerül benyújtásra – igazolást kell csatolni arról, hogy a tizennyolc évesnél fiatalabb gyermek az 1. mellékletben felsorolt betegségek, illetve fogyatékosságok valamelyikében szenved és a betegség súlyossága megfelel az ott meghatározott feltételeknek.
 
-(2) A betegség vagy fogyatékosság fennállásáról, illetve annak hiányáról szóló igazolást – a 2. számú melléklet szerinti rendben – gyermekklinika, gyermekszakkórház, kórházi gyermekosztály, szakambulancia, szakrendelő vagy szakgondozó intézmény szakorvosa (a továbbiakban együtt: szakorvos) adja ki.
+(1a)[^2] Ha az 1. mellékletben felsorolt valamely betegség egyidejűleg az 1. melléklet I. Része szerinti fogyatékosságot is okoz, az igazoláson a betegség betűjele mellett a fogyatékosság betű- és számjelét is fel kell tüntetni. Az 1. melléklet II. Rész 16. sora szerinti többszörös és összetett betegségek esetén az egyes betegségek, fogyatékosságok betű-, illetve számjelét egyenként is fel kell tüntetni.
 
-(3)[^1] Ha a (2) bekezdés szerinti szakorvos az igénylő lakóhelye, tartózkodási helye szerinti megyében nem található, akkor a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve által kijelölt szakorvos is jogosult a betegség vagy fogyatékosság fennállásáról, illetve annak hiányáról szóló igazolás kiadására.
+(2)[^3] A betegség vagy fogyatékosság fennállásáról, illetve annak hiányáról szóló igazolást – a 2. melléklet szerinti rendben – gyermekklinika, gyermekszakkórház, kórházi gyermekosztály, szakambulancia, szakrendelő vagy szakgondozó intézmény szakorvosa (a továbbiakban együtt: szakorvos) adja ki.
 
-(4)[^2] A gyermek kezelése során az alapellátás illetékes orvosa, illetve a gyermeket ellátó szakorvos felhívja a figyelmet a magasabb összegű családi pótlék igénylésének lehetőségére.
+(3)[^4] Az igazolás kiállítására jogosult szakorvosokat foglalkoztató intézmények listáját az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal a honlapján tájékoztatás céljából közzéteszi.
 
-[^1]: Az 1. § új (3) bekezdését a 7/2004. (II. 13.) ESZCSM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. Az 1. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 30. §-a szerint módosított szöveg.
-[^2]: Az 1. § eredeti (3) bekezdésének számozását a 7/2004. (II. 13.) ESZCSM rendelet 1. §-a (4) bekezdésre változtatta.
+(4)[^5] A gyermek kezelése során az alapellátás illetékes orvosa, illetve a gyermeket ellátó szakorvos felhívja a figyelmet a magasabb összegű családi pótlék igénylésének lehetőségére.
+
+[^1]: Az 1. § (1) bekezdése a 3/2013. (I. 7.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 3/2013. (I. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdése a 3/2013. (I. 7.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § új (3) bekezdését a 7/2004. (II. 13.) ESZCSM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. Az 1. § (3) bekezdése a 3/2013. (I. 7.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § eredeti (3) bekezdésének számozását a 7/2004. (II. 13.) ESZCSM rendelet 1. §-a (4) bekezdésre változtatta.
