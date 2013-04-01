@@ -2,7 +2,7 @@
 
 113. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 91/250/EGK irányelve (1991. május 14.) a számítógépi programok jogi védelméről;
+a) az Európai Parlament és a Tanács 2009/24/EK irányelve (2009. április 23.) a számítógépi programok jogi védelméről;
 
 b) a Tanács 93/83/EGK irányelve (1993. szeptember 27.) a műholdas műsorsugárzásra és a vezeték útján történő továbbközvetítésre alkalmazandó szerzői jogra és a szerzői joghoz kapcsolódó jogokra vonatkozó egyes szabályok összehangolásáról;
 

@@ -14,4 +14,4 @@
 
 (4) A közös jogkezelő szervezet a járulék címén befolyt összeget külön köteles kezelni és nyilvántartani.
 
-(5) A közös jogkezelő egyesület a járulék összegéről, annak felhasználásáról a nyilvánosságot évente, a Hivatal hivatalos lapja útján tájékoztatja; az erre vonatkozó közleményét a tárgyévet követő év első negyedévének végéig köteles megküldeni a Hivatal részére.
+(5) A közös jogkezelő egyesület a járulék összegéről, annak felhasználásáról a nyilvánosságot évente, a Hivatal hivatalos lapja útján tájékoztatja; az erre vonatkozó közleményét a tárgyévet követő év második negyedévének végéig köteles megküldeni a Hivatal részére.

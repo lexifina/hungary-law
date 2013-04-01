@@ -10,4 +10,6 @@ b) a Hivatalnak az eljárás megindítására irányuló kérelmet benyújtó ü
 
 (4) Ha a (2) bekezdés szerinti kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
-(5) Az e § szerinti nemperes eljárásban a polgári perrendtartásról szóló törvény általános szabályait kell alkalmazni, a nemperes eljárás sajátosságaiból fakadó eltérésekkel.
+(5) Az 57/C. § (5)–(17) bekezdésében foglalt rendelkezéseket alkalmazni kell az (1) bekezdésben meghatározott döntések bírósági felülvizsgálatára is.
+
+(6) Az e § szerinti nemperes eljárásra a polgári perrendtartásról szóló törvény általános szabályait – az e törvényben meghatározott és a nemperes eljárás sajátosságaiból fakadó eltérésekkel – kell alkalmazni.

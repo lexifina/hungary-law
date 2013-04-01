@@ -28,4 +28,6 @@ d) által alkalmazott díjszabáshoz (92/H. §),
 
 e) felosztási szabályzatához,
 
-f) éves beszámolójához.
+f) éves beszámolójához,
+
+g) azon megállapodásaihoz, amelyeket a 20. § (4)–(5) bekezdése, a 21. § (7) bekezdése, valamint a 28. § (4) bekezdése alapján kötött.

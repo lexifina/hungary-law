@@ -22,7 +22,9 @@ e) felosztási szabályzatát,
 
 f) éves beszámolóját,
 
-g) tagjainak és az általa képviselt jogosultak névsorát, valamint azoknak a szervezeteknek a megnevezését, amelyekkel képviseleti szerződést kötött.
+g) tagjainak és az általa képviselt jogosultak névsorát, valamint azoknak a szervezeteknek a megnevezését, amelyekkel képviseleti szerződést kötött,
+
+h) a 20. § (4)–(5) bekezdésében, a 21. § (7) bekezdésében, valamint a 28. § (4) bekezdésében említett megállapodásait, ha vannak ilyen – hatályban lévő – megállapodásai.
 
 (4) A közös jogkezelés vállalkozási tevékenységként nem végezhető. Ha a közös jogkezelő szervezet kiegészítő vállalkozási tevékenységet folytat, annak eredményét – a (8) bekezdésben foglalt kivétellel – csak a közös jogkezelési tevékenység kezelési költségeinek csökkentésére használhatja fel.
 
@@ -38,7 +40,11 @@ g) tagjainak és az általa képviselt jogosultak névsorát, valamint azoknak a
 
 (10) A közös jogkezelő szervezet felosztási szabályzata rendelkezhet arról, hogy a felosztható jogdíjak is felhasználhatók a jogosultak érdekében a (11) bekezdéssel összhangban.
 
-(11) A (8) bekezdésben meghatározott bevétel legfeljebb 25%-a, a (10) bekezdésben meghatározott bevétel legfeljebb 10%-a használható fel a jogosultak érdekében; erről a legfőbb szerv kizárólagos, nem átruházható hatáskörében esetileg dönt az alapszabályával és a felosztási szabályzat ilyen célú felhasználásra vonatkozó előírásaival (támogatási politika) összhangban. A legfőbb szerv döntése alapján a (10) bekezdésben meghatározott bevételből a jogosultak érdekében történő felhasználásra szánt összeg 70%-át a jogosultak érdekében kulturális célra kell felhasználni. A szervezet támogatási politikáját és a bevételnek a jogosultak érdekében történő felhasználására vonatkozó döntését – a kultúráért felelős miniszter véleményének kikérését követően – a Hivatal javaslatára az igazságügyért felelős miniszter hagyja jóvá. A közös jogkezelő szervezet kulturális célra a Nemzeti Kulturális Alap számára történő átadással – az átvétel tárgyában kötött megállapodás és a jóváhagyott támogatási politika rendelkezései szerint – használja fel a (8) és a (10) bekezdésben meghatározott bevételeit.
+(11) A (8) bekezdésben meghatározott bevétel legfeljebb 25%-a, a (10) bekezdésben meghatározott bevétel legfeljebb 10%-a használható fel a jogosultak érdekében; erről a legfőbb szerv kizárólagos, nem átruházható hatáskörében esetileg dönt az alapszabályával és a felosztási szabályzat ilyen célú felhasználásra vonatkozó előírásaival (támogatási politika) összhangban. A legfőbb szerv döntése alapján a (10) bekezdésben meghatározott bevételből a jogosultak érdekében történő felhasználásra szánt összeg 70%-át a jogosultak érdekében kulturális célra kell felhasználni. A szervezet támogatási politikáját és a bevételnek a jogosultak érdekében történő felhasználására vonatkozó döntését – a kultúráért felelős miniszter véleményének kikérését követően – a Hivatal javaslatára az igazságügyért felelős miniszter hagyja jóvá. A közös jogkezelő szervezet kulturális célra az NKA számára történő átadással – az átvétel tárgyában kötött megállapodás és a jóváhagyott támogatási politika rendelkezései szerint – használja fel a (8) és a (10) bekezdésben meghatározott bevételeit.
+
+(11a) A támogatási politika és a bevétel jogosultak érdekében történő felhasználására vonatkozó döntés jóváhagyására irányuló eljárás nem minősül közigazgatási hatósági eljárásnak, arra a közigazgatási hatósági eljárás általános szabályairól szóló törvény nem alkalmazható.
+
+(11b) Az igazságügyért felelős miniszternek a szervezet támogatási politikája és a bevételnek a jogosultak érdekében történő felhasználására vonatkozó döntése jóváhagyásáról szóló határozatának felülvizsgálatát az érintett közös jogkezelő egyesület jogszabálysértésre hivatkozással a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérheti, amely a kérelmet soron kívül, a közigazgatási nemperes eljárás szabályai alapján bírálja el. A nemperes eljárásban a polgári perrendtartásról szóló 1952. évi III. törvény 332. § (3) és (4) bekezdése nem alkalmazható.
 
 (12) A közös jogkezelő szervezet az üzemeltetési, fenntartási költségeit és az egyéb közvetett költségeit az egyesülési jogról, a közhasznúságról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény előírása szerint osztja meg.
 

@@ -38,7 +38,7 @@ l) a műszaki létesítmény terve,
 
 m) az iparművészeti alkotás és annak terve,
 
-n) a jelmez- és díszletterv,
+n) a jelmez, a díszlet és azok terve,
 
 o) az ipari tervezőművészeti alkotás,
 

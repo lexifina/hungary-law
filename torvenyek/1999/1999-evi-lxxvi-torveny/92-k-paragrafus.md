@@ -20,7 +20,7 @@ f) az éves beszámolóját,
 
 g) a külföldi közös jogkezelő szervezetekkel kötött képviseleti szerződéseit.
 
-(4) A közös jogkezelő egyesület a legfőbb szerv összehívásáról a Hivatalt előzetesen – a tagok értesítésével egyidejűleg – írásban, a napirend megküldésével tájékoztatja és a Hivatal képviselőjét az ülésre, a felügyelet ellátásával összefüggő napirendi pontok megtárgyalására meghívja.
+(4) A közös jogkezelő egyesület a legfőbb szerv összehívásáról a Hivatalt előzetesen – a tagok értesítésével egyidejűleg – írásban, a napirend és a felügyelet ellátásával összefüggő napirendi pontokhoz kapcsolódó iratok megküldésével tájékoztatja és a Hivatal képviselőjét az ülésre, a felügyelet ellátásával összefüggő napirendi pontok megtárgyalására meghívja.
 
 (5) A Hivatal a felügyelet ellátásához szükséges adatok közlése érdekében nyilatkozattételre hívhatja fel a közös jogkezelő egyesületet. A Hivatal a felügyeleti eljárásban szakértői véleményt kérhet vagy szakértőt hallgathat meg.
 

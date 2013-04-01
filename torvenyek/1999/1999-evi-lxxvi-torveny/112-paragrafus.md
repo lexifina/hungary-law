@@ -16,9 +16,9 @@ b) a közös jogkezelő szervezetek díjszabásainak jóváhagyására irányul�
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-a) a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a kultúráért felelős miniszterrel egyetértésben a Szellemi Tulajdon Nemzeti Hivatala által vezetett önkéntes műnyilvántartásra vonatkozó részletes szabályokat, valamint
+a) a Hivatal elnöke véleményének kikérésével, a kultúráért felelős miniszterrel egyetértésben a Hivatal által vezetett önkéntes műnyilvántartásra vonatkozó részletes szabályokat, valamint
 
-b) a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
+b) a Hivatal elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
 
 (6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, valamint a Hivatal elnöke véleményének kikérésével kiadott rendeletben határozza meg a közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a kezelésére, nyilvántartására, visszafizetésére és megfizetésére vonatkozó részletes szabályokat.
 
