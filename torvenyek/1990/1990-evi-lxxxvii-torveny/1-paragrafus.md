@@ -26,6 +26,8 @@ h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakoss�
 
 i) a víziközmű-szolgáltatásról szóló törvény alapján meghatározott díjakra.
 
-j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira.
+j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira;
+
+k) a nemzeti mobil fizetési rendszerről szóló törvényben meghatározott kényelmi díjra, és a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrésre.
 
 (3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.
