@@ -1,1 +1,0 @@
-## Szociális gondoskodás
