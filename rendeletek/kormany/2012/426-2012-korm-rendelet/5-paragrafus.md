@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. § Az R. 5/H. §-a a következő (3b) bekezdéssel egészül ki:
 
-[^2]: A 4. § a 8. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
+## „(3b) A járadék iránti eljárásban az ügyintézési határidő 17 munkanap.”
