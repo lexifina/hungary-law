@@ -1,3 +1,0 @@
-8. § (1) A szolgálat érdekéből más helyőrségbe történő áthelyezés esetén a hivatásos állomány tagjának házastársa (vele együtt átköltözött) kereset-, illetőleg jövedelemkiesésének átmeneti pótlására jövedelemkiegészítésre jogosult.
-
-(2) Az (1) bekezdésben foglalt jövedelemkiegészítésre a hivatásos állomány tagjával együtt költöző házastárs akkor jogosult, ha az átköltözés előtti lakóhelyén rendszeres munkavégzésre irányuló jogviszony alapján vagy vállalkozásból származó keresettel, illetőleg jövedelemmel (a továbbiakban együttesen: jövedelem) rendelkezett, és új lakóhelyén önhibáján kívül – így különösen megfelelő munkaalkalom hiányában – jövedelemhez nem jut, vagy annak összege a megelőző jövedelemnél kevesebb.
