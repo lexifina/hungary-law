@@ -1,0 +1,3 @@
+6. § (1) A szociális támogatások körültekintő felhasználásának biztosítására, a személyi állomány, valamint a közeli hozzátartozóik szociális helyzetének folyamatos figyelemmel kísérésére, az igényjogosultság megállapítására és elbírálására – a szociális bizottsággal és az érdekképviseleti szervekkel együttműködve – a központi szerv, illetve a területi jogállású szerv vezetője a személyügyi szolgálat útján intézkedik.
+
+(2) A személyügyi szolgálat az (1) bekezdésben meghatározott feladatai keretében felvilágosítást ad a személyi állomány, valamint a közeli hozzátartozóik részére a szociális ügyeik intézéséhez.

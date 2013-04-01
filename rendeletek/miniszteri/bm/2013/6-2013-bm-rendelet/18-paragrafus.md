@@ -1,0 +1,3 @@
+18. § (1) A hősi halottá, illetve a szolgálat halottjává minősített személy temetéséről és egyéb kegyeleti ellátásáról az állomány szerint illetékes fegyveres szerv gondoskodik. A hozzátartozók szociális gondozásáról a belügyminiszter a Belügyminisztérium humánigazgatási feladatok ellátására kijelölt szervezeti egysége útján az elhunytat foglalkoztató fegyveres szerv közreműködésével, a központi szociális keret terhére gondoskodik.
+
+(2) A jogutód nélkül megszűnt fegyveres szerv személyi állományából elhunytak és igényjogosult közeli hozzátartozóik kegyeleti gondozásával összefüggő feladatokat a Belügyminisztérium humánigazgatási feladatok ellátására kijelölt szervezeti egysége végzi.
