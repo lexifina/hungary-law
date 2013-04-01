@@ -258,7 +258,7 @@
 
 ## Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
+## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
 
 ## A családtagok jövedelmét kizárólag kiskorú igénybe vevő esetén kell feltüntetni, külön-külön. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
@@ -290,9 +290,9 @@
 
 ## A vagyonnyilatkozatban feltüntetett pénzvagyonról a kérelemhez mellékelni kell a bankszámlakivonat, a betétkönyv, illetve a takarékbetét-szerződés másolatát.
 
-2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^56]
+2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^50]
 
-## ELŐGONDOZÁSI ADATLAP I.
+## ELŐGONDOZÁSI ADATLAP
 
 1. Felvétel helye, ideje:
 
@@ -326,7 +326,9 @@ b) közös háztartásban élő gondoskodásra szoruló hozzátartozó*:
 
 5. Szociális helyzetére vonatkozó adatok:
 
-Részesült-e az igénybevételt megelőző 6 hónapon belül:
+Részesült-e az igénybevételt megelőző 6 hónapon belül egyéb ellátásban?
+
+Ha igen, a megfelelő aláhúzandó:
 
 a) nappali ellátásban,
 
@@ -346,7 +348,7 @@ h) pszichiátriai betegek közösségi ellátásában,
 
 i) szenvedélybetegek közösségi ellátásában,
 
-j) pénzbeli vagy természetbeni szociális segélyben,
+j) pénzbeli vagy természetbeni szociális ellátásban,
 
 k) átmeneti otthoni elhelyezésben.
 
@@ -362,13 +364,13 @@ d) szenzoros funkciók (hallás, látás, szaglás, ízérzés):
 
 e) magatartás, kommunikációs készség:
 
-7. Cselekvőképességet érintő gondnokság alatt áll-e:
+7. Cselekvőképességet érintő gondnokság alatt áll-e?
 
 a) ha igen, gondnok neve, címe:
 
-b) milyen gondnokság (kizáró, korlátozó, ideiglenes, végleges):
+b) a gondnokság típusa (kizáró, korlátozó, felülvizsgálandó, végleges):
 
-8. A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szólórendeletben előírt kapcsolatfelvétel ideje, módja*:
+8. A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló rendeletben előírt kapcsolatfelvétel ideje, módja*:
 
 a) a szociális ellátást biztosító személlyel, intézménnyel:
 
@@ -376,28 +378,56 @@ b) települési önkormányzattal:
 
 c) háziorvossal, kezelőorvossal:
 
-d) járási (fővárosi kerületi) gyámhivatallal:
+d) gyámhivatallal:
 
 e) törvényes képviselővel, hozzátartozóval:
 
-9. Az előgondozást végző személy összegző véleménye:
+9. Az elhelyezéssel kapcsolatos adatok:
 
-a) elhelyezés sürgősségére vonatkozó indok:
+a) a beköltözéséhez segítség szükséges-e (ha igen, milyen típusú):
+
+b) milyen tárgyakat kíván magával vinni beköltözéskor:
+
+c) az igénybe vevőnek a beköltözés időpontjára vonatkozó nyilatkozata:
+
+d) a beköltözéssel kapcsolatos egyéb megjegyzés:
+
+e) milyen segítségnyújtást igényel az intézményben:
+
+f) elhelyezéssel kapcsolatos kérése:
+
+g) életvitele, jellemző szokásai*:
+
+h) szabadidő eltöltésének módja*:
+
+i) kapcsolatteremtő képessége:
+
+j) látogatók várható száma, látogatás gyakorisága:
+
+k) saját ruházattal rendelkezik-e:
+
+l) esetleges eltávozásra vonatkozó igénye:
+
+m) hitéleti tevékenység gyakorlására vonatkozó igény*:
+
+n) az elhelyezéssel kapcsolatos egyéb megjegyzés:
+
+10. Az előgondozást végző személy összegző véleménye:
+
+a) az elhelyezés sürgősségére vonatkozó indok:
 
 b) javasolható-e az intézményi felvétel:
 
-c) amennyiben nem, ennek oka:
+amennyiben nem, ennek oka:
 
-d) más szolgáltatás, ellátás kezdeményezése:
+c) más szolgáltatás, ellátás kezdeményezése:
 
-e) ennek oka:
+ennek oka:
 
-10. Egyéb megjegyzések az igénybe vevővel kapcsolatban:
+11. Egyéb megjegyzések az igénybe vevővel kapcsolatban:
 
-Az előgondozást végző személy neve, aláírása:
+Az előgondozást végző személy neve, aláírása
 
-____________________
+|  | * nem kötelező kitölteni” |  |
 
-* nem kötelező kitölteni
-
-[^56]: A 2. számú melléklet a 27/2010. (XII. 30.) NEFMI rendelet 10. § (2) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 46. §-a szerint módosított szöveg.
+[^50]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-5. § (1) Intézményi elhelyezés esetén az előgondozás célja
+5. § (1)[^10] Az előgondozás célja
 
 a) az elhelyezést igénybe vevő helyzetének megismerése annak megállapítása céljából, hogy az igénybe vevő állapotának és szükségleteinek megfelel-e az intézmény szolgáltatása,
 
@@ -10,6 +10,7 @@ d) a szolgáltatás biztosításának előkészítése az igénybe vevő részé
 
 e) az intézményben élők és dolgozók felkészítése az új igénybe vevő fogadására, az intézménybe történő beilleszkedés zavartalan biztosítása.
 
-(2)[^10] Az előgondozás két szakaszból áll. Az előgondozás I. szakaszában az előgondozást végző személy az (1) bekezdés a)–c) pontjában meghatározott feladatokat látja el. Az előgondozás I. szakaszában tájékoztatni kell az ellátást igénybe vevőt, illetve törvényes képviselőjét az intézménnyel kötendő megállapodás tartalmáról, valamint a térítési díj, az egyszeri hozzájárulás, illetve a térítési díj pótlék várható mértékéről is. Az előgondozás II. szakaszában az előgondozást végző személy az (1) bekezdés d) és e) pontjában meghatározott feladatokat látja el.
+(2)[^11]
 
-[^10]: Az 5. § (2) bekezdése a 10/2006. (XII. 27.) SZMM rendelet 12. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés nyitó szövegrésze a 25/2013. (III. 29.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdését a 25/2013. (III. 29.) EMMI rendelet 11. § a) pontja hatályon kívül helyezte.

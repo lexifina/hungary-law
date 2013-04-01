@@ -1,3 +1,3 @@
-## 10. §[^23] Amennyiben a soron kívüli elhelyezési igény megalapozott, – az igény teljesítése esetén – az előgondozás I. és II. szakaszának feladatai egyszerre is teljesíthetőek.
+## 10. §[^17]
 
-[^23]: A 10. § a 27/2010. (XII. 30.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^17]: A 10. §-t a 25/2013. (III. 29.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.

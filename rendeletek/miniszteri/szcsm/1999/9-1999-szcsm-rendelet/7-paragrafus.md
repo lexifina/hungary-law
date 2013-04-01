@@ -1,7 +1,16 @@
-7. §[^17] (1)[^18] Amennyiben az intézményi jogviszony keletkezését beutaló határozat alapozza meg, az 1. számú melléklet szerinti adatlapokat haladéktalanul meg kell küldeni az intézményvezető részére.
+## 6/A. §[^13]
 
-(2)[^19] A kérelem megérkezését követően az előgondozást a 6. § (1)–(3) bekezdéseiben foglaltaknak megfelelően kell elvégezni azzal, hogy az előgondozás I. szakaszának eredményéről az intézményvezető a 2. számú melléklet szerinti előgondozási adatlap megküldésével értesíti a beutalást végző önkormányzatot. Idősotthoni ellátás esetében a beutaló szerv kezdeményezi a gondozási szükséglet vizsgálatát, és annak megállapítása után kezdeményezi az elhelyezést.
+## 7. §[^14] Az előgondozás során az előgondozást végző személy szükség esetén felveszi a kapcsolatot
 
-[^17]: A 7. § a 10/2006. (XII. 27.) SZMM rendelet 5. §-ával megállapított szöveg.
-[^18]: A 7. § (1) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
-[^19]: A 7. § (2) bekezdésének második mondatát a 37/2007. (XII. 22.) SZMM rendelet 15. §-a iktatta be.
+a) az igénybe vevő szociális ellátását biztosító intézménnyel, a szolgáltatást biztosító személlyel,
+
+b) az igénybe vevő lakóhelye szerint illetékes szociális hatáskört gyakorló szervvel a segélyezésre, a közgyógyellátásra, a gyógyszertámogatásra vonatkozó adatok beszerzése végett,
+
+c) az igénybe vevő háziorvosával, kezelőorvosával az egészségi állapotra, illetve a korábbi gyógykezelésre vonatkozó adatok megismerése céljából,
+
+d) a lakóhely szerint illetékes gyámhivatallal a cselekvőképességre vonatkozó adatok megismerése végett,
+
+e) az ellátást igénybe vevő törvényes képviselőjével, illetve legközelebbi hozzátartozóival.
+
+[^13]: A 6/A. §-t újonnan a 27/2010. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 25/2013. (III. 29.) EMMI rendelet 11. § b) pontja.
+[^14]: A 7. § a 25/2013. (III. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
