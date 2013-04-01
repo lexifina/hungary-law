@@ -10,7 +10,7 @@ b) a találmány- és a szabadalombitorlás, a növényfajta és a növényfajta
 
 c) a szabadalmi, a növényfajta-oltalmi és a használati mintaoltalmi kényszerengedéllyel, valamint az ilyen előhasználati vagy továbbhasználati jog fennállásával kapcsolatos eljárások, ideértve az európai szabadalom magyar nyelvű fordításának kijavításáról szóló hatósági tájékoztatás közlése előtt megkezdett hasznosításból eredő jogosultsággal kapcsolatos eljárást is;
 
-d) a számítógépi programalkotáson és a hozzá tartozó dokumentáción, továbbá az iparművészeti és ipari tervezőművészeti alkotásokon, valamint a műszaki létesítmények tervein fennálló szerzői jog megsértése miatt indított eljárások;
+d) a számítógépi programalkotáson és a hozzá tartozó dokumentáción, a gyűjteményes műnek minősülő és egyéb adatbázison, a számítástechnikai eszközökkel hozzáférhető tartalmú alkotásokon, az iparművészeti és ipari tervezőművészeti alkotásokon, valamint a műszaki létesítmények tervein fennálló szerzői jog vagy szerzői joghoz kapcsolódó jog megsértése miatt indított, továbbá az önkéntes műnyilvántartásra vonatkozó eljárások;
 
 e) az a)–d) pontok szerinti jogokkal kapcsolatos szerzőségi, igényjogosultsági és díjazási eljárások;
 

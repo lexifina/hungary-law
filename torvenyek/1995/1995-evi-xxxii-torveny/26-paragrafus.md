@@ -8,7 +8,7 @@ a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy b
 
 b) büntetlen előéletű;
 
-c) mérnöki vagy azzal egyenértékű természettudományi szakos egyetemi oklevéllel rendelkezik; és
+c) mérnöki, informatikai vagy más, egészségügyi, természettudományi jellegű – különösen orvosi, állatorvosi, biológus, vegyész, gyógyszerész, matematikus vagy fizikus – egyetemi szintű, illetve mesterfokozatú szakképzettséggel rendelkezik; és
 
 d) igazolja, hogy szabadalmi ügyvivőjelölti munkaviszony létesítésére előzetes megállapodást kötött.
 

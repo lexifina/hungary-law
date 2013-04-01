@@ -1,6 +1,6 @@
 ## A szabadalmi ügyvivői iroda
 
-7. § (1) A szabadalmi ügyvivői iroda szabadalmi ügyvivők jogi személyiséggel rendelkező szervezete, amelynek legalább két szabadalmi ügyvivő tagja van.
+7. § (1) A szabadalmi ügyvivői iroda jogi személyiséggel rendelkező szervezet, amelynek kizárólag szabadalmi ügyvivő tagja van. Szabadalmi ügyvivői irodát egy vagy több szabadalmi ügyvivő alapíthat.
 
 (2) A szabadalmi ügyvivői iroda szabadalmi ügyvivőt alkalmazottként is foglalkoztathat.
 
