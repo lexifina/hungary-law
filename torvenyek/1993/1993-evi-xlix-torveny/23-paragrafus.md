@@ -1,1 +1,0 @@
-23. § Az igazgató tanács tizennégy tagból áll. Hat tagot a kőolaj- és kőolajtermék-készletezési szekcióból, négy tagot a földgázkészletezési szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter, egy a Magyar Energia Hivatal Elnökének képviselője.
