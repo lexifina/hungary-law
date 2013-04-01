@@ -50,9 +50,11 @@ a) jogszabályban foglaltak szerint működteti a közigazgatási feladatainak e
 
 b) működteti a kormányzati ügyféltájékoztató központot, valamint a jogszabályban foglaltak szerint ellátja a kormányzati internetes tájékoztatás központi internetes weboldalak tartalomszolgáltatásával összefüggő feladatokat,
 
-c) a jogszabály alapján nyújtott általános nyomtatványkitöltő űrlap benyújtás támogatás szabályozott elektronikus ügyintézési szolgáltatás nyújtásánál a kezelt adatok tekintetében adatkezelőként jár el, továbbá a szolgáltatás nyújtójával együttműködve ellátja a szolgáltatás keretében biztosított ügyfélkapuhoz és hivatali kapuhoz történő csatlakozások koordinációs és adminisztratív feladatait.
+c) a jogszabály alapján nyújtott általános nyomtatványkitöltő űrlap benyújtás támogatás szabályozott elektronikus ügyintézési szolgáltatás nyújtásánál a kezelt adatok tekintetében adatkezelőként jár el, továbbá a szolgáltatás nyújtójával együttműködve ellátja a szolgáltatás keretében biztosított ügyfélkapuhoz és hivatali kapuhoz történő csatlakozások koordinációs és adminisztratív feladatait,
 
-(6)[^40] A Kormány az elektronikus ügyintézési felügyeletnek – a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó eljárásokhoz kapcsolódó űrlapok kivételével – a közigazgatási szervek hatósági eljárásaiban használt, elektronikusan kitölthető űrlapok engedélyezésére irányuló eljárásában – az űrlapok logikai és formai ellenőrzése, valamint minőségbiztosítása szakkérdésében – a KEKKH-t szakhatóságként jelöli ki.
+d)[^40] üzemelteti a www.magyarkozlony.hu honlapot kiszolgáló informatikai rendszert.
+
+(6)[^41] A Kormány az elektronikus ügyintézési felügyeletnek – a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó eljárásokhoz kapcsolódó űrlapok kivételével – a közigazgatási szervek hatósági eljárásaiban használt, elektronikusan kitölthető űrlapok engedélyezésére irányuló eljárásában – az űrlapok logikai és formai ellenőrzése, valamint minőségbiztosítása szakkérdésében – a KEKKH-t szakhatóságként jelöli ki.
 
 [^31]: A 16/C. §-t a 81/2008. (IV. 4.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 2. § (3) bekezdése alapján a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala a Miniszterelnöki Hivataltól átvett feladatok, az ellátásukhoz kapcsolódó jogok és kötelezettségek tekintetében – a folyamatban lévő ügyekre, az átvett feladatokat a munkakörük szerint ellátó foglalkoztatottak jogviszonyára, valamint a munkáltatói jogok gyakorlására is kiterjedően – a Miniszterelnöki Hivatal jogutódja.
 [^32]: A 16/C. § (1) bekezdés a) pontja a 278/2008. (XI. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -63,4 +65,5 @@ c) a jogszabály alapján nyújtott általános nyomtatványkitöltő űrlap ben
 [^37]: A 16/C. § (3) bekezdése a 78/2010. (III. 25.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
 [^38]: A 16/C. § (4) bekezdését a 278/2008. (XI. 28.) Korm. rendelet 3. § (4) bekezdése iktatta be.
 [^39]: A 16/C. § (5) bekezdését a 278/2008. (XI. 28.) Korm. rendelet 3. § (4) bekezdése iktatta be, szövege a 82/2012. (IV. 21.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^40]: A 16/C. § (6) bekezdését a 278/2008. (XI. 28.) Korm. rendelet 3. § (5) bekezdése iktatta be, szövege a 82/2012. (IV. 21.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^40]: A 16/C. § (5) bekezdés d) pontját a 417/2012. (XII. 29.) Korm. rendelet 64. §-a iktatta be.
+[^41]: A 16/C. § (6) bekezdését a 278/2008. (XI. 28.) Korm. rendelet 3. § (5) bekezdése iktatta be, szövege a 82/2012. (IV. 21.) Korm. rendelet 30. §-ával megállapított szöveg.
