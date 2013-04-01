@@ -1,0 +1,1 @@
+27. § Ha az igazgatótanács választott tagjának megbízatása a 25. §-ban meghatározott időtartam letelte előtt megszűnik, a hátralévő időre új tagot kell választani. Az új tagot a legközelebbi közgyűlésen választják meg.

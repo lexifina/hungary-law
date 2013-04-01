@@ -1,0 +1,1 @@
+22. § A közgyűlés a 21. § a) és b) pontjaiban meghatározott ügyekben a jelenlévő tagok kétharmados szavazattöbbségével, más ügyekben – ha az alapszabály minősített többséget nem ír elő – a jelen lévő tagok egyszerű szavazattöbbségével határoz.

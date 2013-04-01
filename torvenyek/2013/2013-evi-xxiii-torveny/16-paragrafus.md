@@ -1,0 +1,1 @@
+16. § A Szövetség az e törvényben és az Fbkt.-ben előírt földgáz biztonsági készletezési tevékenységen kívül, csak az azzal összefüggő – az alapszabályban meghatározott – tevékenységek gyakorlására jogosult.

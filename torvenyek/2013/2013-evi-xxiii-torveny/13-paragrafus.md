@@ -1,0 +1,3 @@
+13. § (1) A Szövetség jogi személy, működését saját bevételeiből fedezi, a bevételeket a készletezési költségek fedezésére, kőolaj-, kőolajtermék-tároló vásárlására, létesítésére, fejlesztésére, a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére, a jelölési és az ellenőrzési költségek fedezésére, a Szövetség működésére, valamint az Fbkt.-ban meghatározott feladatai teljesítésére fordíthatja. A Szövetség nem alanya a társasági adónak.
+
+(2) A Szövetség szervezete kőolaj- és kőolajtermék készletezési szekcióból (a továbbiakban: kőolaj szekció), valamint földgáz-készletezési szekcióból (a továbbiakban: földgáz szekció) áll.
