@@ -1,3 +1,3 @@
-2. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^77]
+2. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^81]
 
-[^77]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 189. § (10) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^81]: A 2. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
