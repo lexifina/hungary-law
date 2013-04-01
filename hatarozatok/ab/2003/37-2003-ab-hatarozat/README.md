@@ -1,7 +1,0 @@
-# 37/2003. (VI. 26.) AB határozat
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-37-30-75
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2003-06-26 | 2003-37-30-75.1 | 37/2003. (VI. 26.) AB határozat |
