@@ -1,7 +1,0 @@
-# 35/2006. (VII. 13.) AB határozat
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-35-30-75
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2006-07-13 | 2006-35-30-75.1 | 35/2006. (VII. 13.) AB határozat |
