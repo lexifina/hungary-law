@@ -1,1 +1,0 @@
-## 5. § Hatályát veszti a területrendezési hatósági eljárásokról szóló 76/2009. (IV. 8.) Korm. rendelet 2. számú melléklet (B:5) mezőjében az „A termőföld minőségi védelme, valamint” szövegrész, valamint a (C:5) mezőjében „a termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdő esetében” szövegrész.
