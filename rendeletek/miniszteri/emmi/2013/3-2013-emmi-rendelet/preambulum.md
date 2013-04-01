@@ -1,0 +1,1 @@
+A családok támogatásáról szóló 1998. évi LXXXIV. törvény 51. § b) pont ba) alpontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § a) és d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
