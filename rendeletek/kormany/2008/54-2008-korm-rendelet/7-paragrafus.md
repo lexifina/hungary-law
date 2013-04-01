@@ -1,32 +1,15 @@
 7. § (1) Széndioxid földgáz esetében
 
-a) a kitermelt széndioxid földgáz után keletkező érték a kitermelt széndioxid mennyiségének (E m3) és az 1/b. melléklet A. pontjában meghatározott fajlagos értéknek (Ft/E m3) ezer forintra kerekített szorzata (E Ft),
+a)[^23] a kitermelt szén-dioxid földgáz után keletkező érték a kitermelt szén-dioxid technikai normál állapoton (15 °C, 0,1 MPa) mért mennyiségének (Em3) és az 1. mellékletben meghatározott fajlagos értékének (Ft/Em3) ezer forintra kerekített szorzata,
 
 b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermelés esetén az a) pont szerint számított értéknek a Bt. 20. §-a (3) bekezdésének d) pontja szerinti százaléka.
 
 (2) A bányavállalkozó köteles a kitermelt széndioxid földgáz mennyiségét meghatározni és bizonylatolni.
 
-(3)[^17] A széndioxid földgázra vonatkozó bányajáradék önbevallás tartalmazza:
+(3)[^24]
 
-a) a 2. § (4) bekezdés a)–d) és m) pontjában meghatározott adatokat,
+(4)[^25]
 
-b) a kitermelt mennyiséget E m3-ben,
-
-c) az 1/b. melléklet szerinti fajlagos értéket,
-
-d) a bányajáradék vetítési alapját ezer forintra kerekítve,
-
-e) a bányajáradékot %-ban, és
-
-f) a bányajáradék értékét ezer forintra kerekítve.
-
-(4)[^18] A (3) bekezdés
-
-a) d) pontjában előírt bányajáradék vetítési alapot a 2. melléklet 6.1. pontja, és
-
-b) f) pontjában előírt bányajáradék értékét a 2. melléklet 6.2. pontja
-
-szerint kell megállapítani.
-
-[^17]: A 7. § (3) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^18]: A 7. § (4) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 31. §-a iktatta be.
+[^23]: A 7. § (1) bekezdés a) pontja a 64/2013. (III. 4.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 7. § (3) bekezdését a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^25]: A 7. § (4) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 31. §-a iktatta be, hatályon kívül helyezte a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezdés e) pontja.

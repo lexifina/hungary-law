@@ -2,47 +2,18 @@
 
 ## A kitermelt ásványi nyersanyag mennyisége után keletkező érték és a fizetendő bányajáradék meghatározása
 
-2. § (1) Szilárd ásványi nyersanyagok esetében
+2. §[^1] (1) Szilárd ásványi nyersanyagok esetében:
 
-a) a kitermelt ásványi nyersanyag után keletkező érték a bányatelket megállapító határozatban vagy egyéb hatósági engedélyben meghatározott ásványi nyersanyag kitermelt mennyiségének (m3) és az 1/a. mellékletben megjelölt fajlagos értéknek (Ft/m3) ezer forintra kerekített szorzata (E Ft),
+a) a kitermelt ásványi nyersanyag értéke a bányatelket megállapító határozatban kitermelhető ásványi nyersanyagként meghatározott, vagy a Bt. 1. § (7) bekezdése szerinti hatósági engedélyben meghatározott ásványi nyersanyag kitermelt mennyiségének (m3 vagy t) és az 1. mellékletben megjelölt vagy ércek esetében az abban feltüntetett képlet segítségével kiszámolt fajlagos értéknek (Ft/m3 vagy Ft/t) ezer forintra kerekített szorzata,
 
-b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermelés esetén az a) pont szerint számított értéknek a Bt. 20. §-a (3) bekezdésének f)–h) pontja szerinti százaléka.
+b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermelés esetén az a) pont szerint számított értéknek a Bt. 20. § (3) bekezdés f)–h) pontja szerinti százaléka.
 
-(2) A kitermelt ásványi nyersanyag mennyiségét az egyéb hatósági engedéllyel ásványi nyersanyagot kitermelő engedélyes bányamérési (geodéziai) módszerekkel vagy egyéb alkalmas módon köteles meghatározni. A meghatározás módját és eredményét bizonylatolni kell.
+(2) A bányavállalkozónak a kitermelt ásványi nyersanyag mennyiségét a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet (a továbbiakban: Bt. Vhr.) 4. § (5) bekezdésében meghatározott bányajáradék bevallási időszakonként geodéziai módszerekkel, vagy egyéb alkalmas módon kell meghatároznia. A bányavállalkozónak a teljes évre (tárgyévre) vonatkozó ásványi nyersanyag mennyiségi változásait kizárólag geodéziai felmérésen alapuló térfogatszámítással kell meghatároznia. A meghatározás módját és eredményét mérési adatokkal és jegyzőkönyvvel valamint számítással kell bizonylatolni. Mélyműveléses bányaüzem esetén az éves kitermelt ásványi nyersanyag mennyiség meghatározása hitelesített tömegméréssel is történhet. Az éves változást a bányaművelési térképen fel kell tüntetni. A geodéziai méréseken alapuló ásványi nyersanyagot meghatározó számításokat hites bányamérő által ellenjegyzett dokumentációba kell foglalni.
 
-Az engedélyes köteles a nyersanyag-kitermelés befejezését követő 60 napon belül az ásványi nyersanyag mennyiségi változását geodéziai számítással (térfogatszámítás) meghatározni, és az erről szóló jelentést a bányafelügyeletnek megküldeni.
+(3) Az ércek esetén a bányavállalkozónak mérnie és bizonylatolnia kell a kitermelt nyersanyag fémtartalmát is. A nyersanyag fémtartalmát a kitermelt ércből vett átlagminta vizsgálatával kell meghatározni. Az átlagmintavétel gyakoriságát és módszerét, a vizsgálati módszert és a vizsgálatot végző laboratóriumot a kitermelési műszaki üzemi tervben kell meghatározni.
 
-(3) A bányavállalkozó a kitermelt ásványi nyersanyag mennyiségét bányamérési (geodéziai) módszerekkel köteles meghatározni. Mélyműveléses bányaüzem esetén a kitermelt mennyiség meghatározása tömegméréssel is történhet. A változást a bányaművelési térképen fel kell tüntetni. Az ásványi nyersanyag tárgyévre vonatkozó mennyiségi változását geodéziai felmérésen alapuló számítással (térfogatszámítás) meg kell határozni. A meghatározás eredményét bizonylatolni kell.
+(4) A Bt. 1. § (7) bekezdésében meghatározott hatósági engedéllyel rendelkező személynek (a továbbiakban: engedélyes) a kitermelt ásványi nyersanyag mennyiségét geodéziai módszerekkel vagy egyéb térfogatszámításra alkalmas módon kell meghatároznia. A meghatározás módját és eredményét bizonylatolni kell.
 
-(4)[^1] A szilárd ásványi nyersanyagra vonatkozó bányajáradék önbevallás tartalmazza:
+(5) Az engedélyes köteles az ásványi nyersanyag kitermelésének befejezését követő 60 napon belül, de legkésőbb a tárgyévet követő év február 28-ig az ásványi nyersanyag mennyiségéről szóló jelentést a Magyar Bányászati és Földtani Hivatalnak (a továbbiakban: MBFH) megküldeni. Az MBFH a kitermelt mennyiség ellenőrzése céljából geodéziai méréseket rendelhet el. Az engedélyes köteles a fizetendő bányajáradék mértékét meghatározni és a 8. § szerint befizetni.
 
-a) a bányavállalkozó nevét, címét és MBFH azonosító számát,
-
-b) a bevallási időszakot,
-
-c) a bányavállalkozó pénzforgalmi jelzőszámát,
-
-d) a kitermelőhely megnevezését,
-
-e) a bányászati mód kódját,
-
-f) az ásványi nyersanyag megnevezését,
-
-g) az ásványi nyersanyag kódját,
-
-h) a kitermelt mennyiséget m3-ben,
-
-i) az 1/a. melléklet szerinti fajlagos értéket,
-
-j) a bányajáradék vetítési alapját ezer forintra kerekítve,
-
-k) a bányajáradék százalékát, valamint
-
-l) a bányajáradék értékét ezer forintra kerekítve, és
-
-m) a bányavállalkozó aláírását és bélyegzőlenyomatát.
-
-(5)[^2] A (4) bekezdés j) pontjában előírt bányajáradék vetítési alapját a 2. melléklet 1. pontja szerint kell megállapítani.
-
-[^1]: A 2. § (4) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^2]: A 2. § (5) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 26. §-a iktatta be.
+[^1]: A 2. § a 64/2013. (III. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
