@@ -1,0 +1,5 @@
+73. § A Gyvt. a következő 161/O. és 161/P. §-sal egészül ki:
+
+„161/O. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 19. § (1a) bekezdésben, valamint 20. és 20/B. §-ban foglalt rendelkezéseket a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás iránt 2013. április 1-jén folyamatban lévő ügyekben, valamint a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás 2013. március 31-ét követő felülvizsgálata során is alkalmazni kell.
+
+161/P. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvény 28. §-ával megállapított 20/C. §-t a 2013. március 31-ét követően indult ügyekben és a 2013. április 1-jét megelőzően megállapított óvodáztatási támogatásnak a 2013. március 31-ét követően esedékes, további alkalommal történő folyósítására kell alkalmazni.”

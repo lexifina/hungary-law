@@ -1,0 +1,3 @@
+34. § A Gyvt. 34. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermekkel történő kapcsolattartásról a gyámhatóság hivatalból dönt. A gyermek legfeljebb két napra történő eltávozását és két napnál hosszabb időtartamú szabadságát a gyermekvédelmi gyám engedélyezi, ha arra a gyámhatóság döntésében felhatalmazta. A gyermekvédelmi gyám jelzi a gyámhatóságnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyermek gondozási helyét biztosító személy, intézmény között vita keletkezik.”

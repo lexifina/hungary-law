@@ -1,0 +1,5 @@
+75. § A Gyvt. a következő 161/R. §-sal egészül ki:
+
+„161/R. § (1) A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 77–81. §-t a 2014. január 1-jén átmeneti és tartós nevelésbe vétel iránt folyamatban lévő eljárásokban, valamint az átmeneti és tartós nevelésbe vétel 2013. december 31-ét követő soron következő felülvizsgálata során is alkalmazni kell.
+
+(2) A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 45. § (2) és (6) bekezdését, 53/A. § (1) bekezdését, 55. § (7) bekezdését, 92. §-t és 93. §-t azon gyermekek, fiatal felnőttek tekintetében kell alkalmazni, akiknek az utógondozását, utógondozói ellátását 2013. december 31-ét követően rendelték el. A 2014. január 1-jét megelőzően elrendelt utógondozásra, utógondozói ellátásra a 2013. december 31-én hatályos szabályokat kell alkalmazni.”
