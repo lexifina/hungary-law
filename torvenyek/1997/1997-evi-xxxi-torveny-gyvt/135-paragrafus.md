@@ -38,7 +38,7 @@ ai) áldozattá válásának körülményeire vonatkozó, a bűncselekmények á
 
 b) a szülő, törvényes képviselő, helyettes szülő, nevelőszülő
 
-ba) személyazonosító,
+ba) személyazonosító, és a társadalombiztosítási azonosító jelére vonatkozó,
 
 bb) vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira vonatkozó,
 

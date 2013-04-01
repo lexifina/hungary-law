@@ -1,27 +1,43 @@
 ## Óvodáztatási támogatás
 
-20/C. § (1) A gyámhatóság annak a rendszeres gyermekvédelmi kedvezményben részesülő gyermeknek a szülője részére, aki a három-, illetve négyéves gyermekét beíratta az óvodába, továbbá gondoskodik gyermeke rendszeres óvodába járatásáról, és akinek rendszeres gyermekvédelmi kedvezményre való jogosultsága fennáll
+20/C. § (1) Az óvodáztatási támogatásra való jogosultság megállapításának célja a halmozottan hátrányos helyzetű gyermekek minél korábbi életkorban történő rendszeres óvodába járásának elősegítése.
 
-a) a gyermek óvodai beíratását követően első alkalommal, ha a gyermek óvodai beíratása
+(2) A gyámhatóság az óvodáztatási támogatásra való jogosultságát – kérelmére – annak a szülőnek állapítja meg,
 
-aa) a naptári év első felében történik és a gyermek óvodai nevelésben való részvétele óta legalább két hónap eltelt, a beíratás évének június hónapjában,
+a) akinek gyermeke rendszeres gyermekvédelmi kedvezményben részesül, és
 
-ab) a naptári év első felében történik, de júniusig nem telt el két hónap, a beíratás évének december hónapjában,
+b) akinek gyermeke legkésőbb annak az óvodai nevelési évnek a kezdetéig, amelyben a gyermek az ötödik életévét betölti, megkezdi az óvodai nevelésben való tényleges részvételt és a kérelem benyújtását közvetlenül megelőző időszakban legalább két hónapon keresztül a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint rendszeresen jár óvodába, és
 
-ac) a naptári év második felében történik és a gyermek óvodai nevelésben való részvétele óta legalább két hónap eltelt, a beíratás évének december hónapjában,
+c) aki önkéntes nyilatkozatot tesz arról, hogy gyermekének hároméves korában legfeljebb az iskola nyolcadik évfolyamán folytatott tanulmányait fejezte be sikeresen.
 
-ad) a naptári év második felében történik, de a beíratás évében decemberig nem telt el két hónap, a következő év június hónapjában [a továbbiakban az aa)–ad) pont alattiak együtt: első alkalom],
+(3) Az óvodáztatási támogatás iránti kérelmet a szülői felügyeletet gyakorló szülő legfeljebb annak az óvodai nevelési évnek a kezdetéig terjesztheti elő, amely évben gyermeke az ötödik életévét betölti.
 
-b) a gyermek beíratását követően második és további alkalommal az óvodai nevelési jogviszony fennállásáig
+(4) A (2) bekezdés c) pontja szerinti nyilatkozatot mindkét szülőnek meg kell tennie, ha a szülői felügyeleti jogot mindketten gyakorolják.
 
-ba) a tárgyév június hónapjában,
+(5) A gyámhatóság az óvodáztatási támogatást első alkalommal, ha az óvodáztatási támogatásra való jogosultság jogerős megállapítására
 
-bb) a tárgyév december hónapjában,
+a) az előző év december 5-e és a tárgyév június 4-e között kerül sor, a tárgyév június hónapjában,
 
-pénzbeli támogatást folyósít.
+b) a tárgyév június 5-e és a tárgyév december 4-e között kerül sor, a tárgyév december hónapjában
 
-(2) Az (1) bekezdés szerinti pénzbeli támogatás folyósításának további feltétele, hogy a gyermek felett a szülői felügyeleti jogot gyakorló szülő, illetve ha mindkét szülő gyakorolja a szülői felügyeleti jogot, mindkét szülő a gyámhatósági eljárásban önkéntes nyilatkozatot tegyen arról, hogy gyermekének hároméves koráig legfeljebb az iskola nyolcadik évfolyamán folytatott tanulmányait fejezte be sikeresen.
+folyósítja.
 
-(3) Az (1) bekezdés szerinti pénzbeli támogatás összege a 2009. évben gyermekenként első alkalommal húszezer forint, ezt követőn esetenként és gyermekenként tízezer forint. A 2009. évet követően az összeg emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
+(6) Az első alkalmat követően a települési önkormányzat jegyzője a gyermek óvodai nevelési jogviszonyának fennállásáig június és december hónapban további óvodáztatási támogatást folyósít a szülőnek, ha
 
-(4) A helyi önkormányzat rendeletben előírhatja, hogy az első alkalommal folyósításra kerülő pénzbeli támogatás helyett a szülőnek gyermeke részére természetbeni támogatás nyújtható. A természetbeni támogatást a gyermek beíratását követő legfeljebb huszonegy napon belül kell a szülő rendelkezésére bocsátani.
+a) a gyermek továbbra is rendszeres gyermekvédelmi kedvezményben részesül, és
+
+b) a szülő a gyermek külön jogszabály szerinti rendszeres óvodába járásáról gondoskodik.
+
+(7) Ha az óvodáztatási támogatás iránti kérelmet
+
+a) december 4-éig benyújtották és a támogatásra való jogosultság feltételei fennállnak, de a kérelem jogerős elbírálására december 4-éig,
+
+b) június 4-éig benyújtották és a támogatásra való jogosultság feltételei fennállnak, de a kérelem jogerős elbírálására június 4-éig
+
+nem kerül sor, a további óvodáztatási támogatás folyósításának (6) bekezdés szerinti időpontjában kell folyósítani az első alkalommal járó óvodáztatási támogatást. Ha a további óvodáztatási támogatás folyósításának feltételei is fennállnak, akkor az első alkalommal járó és a további óvodáztatási támogatást együtt kell folyósítani.
+
+(8) Az óvodáztatási támogatásra való jogosultság a megszüntetését követően a (2) és (3) bekezdésben foglalt feltételek fennállása esetén ismételten megállapítható azzal, hogy a rendszeres óvodába járást a külön jogszabályban meghatározott időszak tekintetében kell vizsgálni. Ebben az esetben a jogosultat a (6) bekezdés szerinti további óvodáztatási támogatás illeti meg.
+
+(9) A támogatás összege gyermekenként első alkalommal húszezer forint, ezt követően esetenként és gyermekenként tízezer forint.
+
+(10) A települési önkormányzat rendeletben előírhatja, hogy első alkalommal az óvodáztatási támogatást természetbeni formában kell biztosítani.

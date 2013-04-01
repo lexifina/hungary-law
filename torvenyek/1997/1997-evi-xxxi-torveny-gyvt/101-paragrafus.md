@@ -20,9 +20,9 @@ f) kezdeményezi – az érintett miniszterekkel együttműködve – a külföl
 
 g) összehangolja és szervezi a gyermekek védelmét biztosító rendszer irányításához és egységes működéséhez szükséges nyilvántartási és információs rendszert,
 
-h) gondoskodik az országos gyermekvédelmi szakértői bizottság működéséről,
+h) a Kormány rendeletében kijelölt szerv központi szerve útján gondoskodik az országos gyermekvédelmi szakértői bizottság működéséről,
 
-i)
+i) az egyházi fenntartású nevelőszülői, gyermekotthoni ellátás területén az országos módszertani feladatok ellátására egyházi fenntartású intézményeket jelölhet ki.
 
 j) gondoskodik az országos örökbefogadási nyilvántartás működtetéséről.
 
@@ -32,10 +32,10 @@ a) súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktí
 
 b) akut orvosi ellátást nem igénylő – egyedi gondozásra szoruló – szerzett immunhiányos tünetegyüttesben szenvedő gyermekek ellátásának feltételeiről,
 
-feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye alapján – a gondozásuk máshol nem biztosítható vagy ha külön elhelyezésük szükséges. Ennek érdekében speciális gyermekotthonokat tart fenn.
+feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye alapján – a gondozásuk máshol nem biztosítható, vagy ha külön elhelyezésük szükséges. Ennek érdekében a Kormány rendeletében kijelölt szerv központi szerve útján speciális gyermekotthonok fenntartásáról gondoskodik.
 
-(4) A miniszter megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha a külön jogszabály alapján számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – gyermekotthont tarthat fenn.
+(4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha a külön jogszabály alapján számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont tart fenn vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
-(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda előzetes letartóztatásba helyezett fiatalkorú bűnelkövetők nevelésének feltételeiről, ennek érdekében javítóintézeteket tart fenn és – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a felügyeletükkel kapcsolatos feladatokat.
+(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda előzetes letartóztatásba helyezett fiatalkorú bűnelkövetők nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
 (6)

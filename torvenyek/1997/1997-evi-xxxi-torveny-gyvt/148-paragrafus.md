@@ -2,9 +2,9 @@
 
 (2) A bölcsődei ellátás esetében az intézményvezető a 151. § (4) bekezdés alapján megállapítja a bölcsődei ellátás keretében biztosított gyermekétkeztetésre vonatkozó személyi térítési díjat, valamint emellett – a fenntartó döntésétől függően – a bölcsődei ellátás keretében nyújtott gondozásra is megállapíthat személyi térítési díjat.
 
-(3) Az intézményvezető a kötelezettet írásban értesíti a személyi térítési díj összegéről
+(3) Az intézményvezető a kötelezettet írásban tájékoztatja a személyi térítési díj összegéről
 
-a) a gyermekek napközbeni ellátása esetén a szolgáltatás, ellátás igénybevételét megelőzően,
+a) a gyermekek napközbeni ellátása esetén a megállapodás megkötésekor,
 
 b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkésőbb az ellátás igénybevételétől számított harminc napon belül.
 

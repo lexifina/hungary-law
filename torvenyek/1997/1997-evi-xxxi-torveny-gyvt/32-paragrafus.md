@@ -18,13 +18,15 @@ alapozza meg.
 
 (4) Ha a kérelmező, illetve törvényes képviselője az intézmény vezetőjének (3) bekezdés szerinti döntését vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Ha az intézményvezető az ellátás igénybevételéről nem intézkedik, a kérelmező, illetve törvényes képviselője az arról való tudomásszerzéstől számított nyolc napon belül a fenntartóhoz fordulhat. Ezekben az esetekben a fenntartó határozattal dönt.
 
-(5) A gyermekjóléti alapellátások igénybevételének megkezdése előtt és az utógondozói ellátás igénybevételének megkezdésekor
+(5) A gyermekjóléti alapellátások igénybevételének – az (5a) bekezdésben foglalt kivétellel – a megkezdése előtt, valamint az utógondozói ellátás igénybevételének megkezdésekor
 
 a) állami fenntartású szolgáltató, intézmény esetén a szolgáltató vezetője, illetve az intézményvezető,
 
 b) egyházi és nem állami fenntartású szolgáltató, intézmény esetén a fenntartó vagy az általa megbízott személy
 
 a kérelmezővel, illetve törvényes képviselőjével írásban megállapodást köt.
+
+(5a) Gyermekek átmeneti otthona és családok átmeneti otthona esetén az (5) bekezdés szerinti megállapodást az ellátás kezdetétől számított 15 napon belül kell megkötni.
 
 (6) Nem kell az (5) bekezdés szerint megállapodást kötni
 
@@ -46,7 +48,15 @@ d) a személyi térítési díj megállapítására és megfizetésére vonatkoz
 
 e) az ellátás megszüntetésének módjait,
 
-f) a gyermek és törvényes képviselője, valamint a fiatal felnőtt személyazonosító adatait.
+f) a gyermek és törvényes képviselője, valamint a fiatal felnőtt személyazonosító adatait,
+
+g) az ellátásra jogosult gyermek törvényes képviselője, illetve a fiatal felnőtt nyilatkozatát a 33. § (2) bekezdésében meghatározott tájékoztatás megtörténtéről.
+
+(7a) Családok átmeneti otthona esetén a megállapodás – a (7) bekezdésben foglaltakon túl – tartalmazza
+
+a) a gyermekkel együtt ellátásban részesülő személy gyermekgondozással kapcsolatos feladatait, a gondozás módját, mértékét, és
+
+b) a szülő nyilatkozatát arról, hogy a gyermekjóléti szolgáltatást nyújtó szolgáltatóval, illetve intézménnyel együttműködik.
 
 (8) Az intézményvezetőnek az ellátásra jogosult gyermek, fiatal felnőtt azonnali elhelyezéséről kell gondoskodnia
 

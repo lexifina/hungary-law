@@ -2,13 +2,19 @@
 
 19. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapításának célja annak igazolása, hogy a gyermek szociális helyzete alapján jogosult
 
-a) a 148. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétkeztetés normatív kedvezményének,
+a) a 151. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétkeztetés normatív kedvezményének,
 
 b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
 
 c) a külön jogszabályban meghatározott egyéb kedvezményeknek
 
 az igénybevételére.
+
+(1a) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a gyermek családbafogadó gyámjául kirendelt hozzátartozó pénzbeli ellátásra jogosult, ha
+
+a) a gyermek tartására köteles, és
+
+b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, megváltozott munkaképességű személyek ellátásaiban, időskorúak járadékában vagy olyan ellátásban részesül, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik.
 
 (2) A gyámhatóság megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát, amennyiben a gyermeket gondozó családban az egy főre jutó havi jövedelem összege nem haladja meg
 
@@ -18,7 +24,7 @@ aa) ha a gyermeket egyedülálló szülő, illetve más törvényes képviselő 
 
 ab) ha a gyermek tartósan beteg, illetve súlyosan fogyatékos, vagy
 
-ac) ha a nagykorúvá vált gyermek megfelel a 20. § (3) vagy (4) bekezdésében foglalt feltételeknek;
+ac) ha a nagykorúvá vált gyermek megfelel a 20. § (2) bekezdésében foglalt feltételeknek;
 
 b) az öregségi nyugdíj legkisebb összegének 130%-át az a) pont alá nem tartozó esetben,
 
@@ -26,17 +32,17 @@ feltéve, hogy a vagyoni helyzet vizsgálata során az egy főre jutó vagyon é
 
 (3) Az egy főre jutó jövedelem megállapításánál a 131. § (2) bekezdését kell alkalmazni. Ettől eltérni akkor lehet, ha a jövedelmi viszonyokban igazolható ok miatt tartós romlás vélelmezhető.
 
-(4) A (2) bekezdésben meghatározott összeg számításánál – a kérelem benyújtásának időpontjában – közös háztartásban élő közeli hozzátartozóként (gondozó családként) kell figyelembe venni
+(4) A (2) bekezdésben meghatározott összeg számításánál – a kérelem benyújtásának időpontjában – közös háztartásban élő közeli hozzátartozóként (gondozó családként) kell figyelembe venni az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező
 
-a) a szülőt, a szülő házastársát vagy élettársát,
+a) szülőt, a szülő házastársát vagy élettársát,
 
-b) a 20 évesnél fiatalabb, önálló keresettel nem rendelkező gyermeket,
+b) 20 évesnél fiatalabb, önálló keresettel nem rendelkező gyermeket,
 
-c) a 23 évesnél fiatalabb, önálló keresettel nem rendelkező, a nappali oktatás munkarendje szerint tanulmányokat folytató gyermeket,
+c) 23 évesnél fiatalabb, önálló keresettel nem rendelkező, a nappali oktatás munkarendje szerint tanulmányokat folytató gyermeket,
 
-d) a 25 évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermeket,
+d) 25 évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermeket,
 
-e) korhatárra való tekintet nélkül a tartósan beteg, illetőleg a fogyatékos gyermeket,
+e) korhatárra való tekintet nélkül a tartósan beteg és a fogyatékos gyermeket,
 
 f) az a)–e) pontokba nem tartozó, a Csjt. alapján a szülő vagy házastársa által eltartott rokont.
 

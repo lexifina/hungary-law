@@ -1,11 +1,27 @@
-20. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítását a szülő vagy más törvényes képviselő, illetve a nagykorú jogosult a lakcíme szerint illetékes települési önkormányzat polgármesteri hivatalánál terjeszti elő.
+20. § (1) A feltételek fennállása esetén a gyámhatóság egy év időtartamra, de legfeljebb
 
-(2) A feltételek fennállása esetén a gyámhatóság 1 év időtartamra megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát.
+a) a (2) bekezdés a) pontja szerinti esetben a nagykorúvá vált gyermek 23. életévének betöltéséig,
 
-(3) Az egyéb jogosultsági feltételek fennállása esetén nagykorúvá válása után is jogosult a gyermek a rendszeres gyermekvédelmi kedvezményre, ha
+b) a (2) bekezdés b) pontja szerinti esetben a nagykorúvá vált gyermek 25. életévének betöltéséig
+
+megállapítja a gyermek, nagykorúvá vált gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát.
+
+(2) Az egyéb jogosultsági feltételek fennállása esetén nagykorúvá válása után is jogosult a gyermek a rendszeres gyermekvédelmi kedvezményre, ha
 
 a) nappali oktatás munkarendje szerint tanulmányokat folytat és 23. életévét még nem töltötte be, vagy
 
-b) felsőfokú oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be.
+b) felsőfokú oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be,
 
-(4) Házasságkötés esetén a rendszeres gyermekvédelmi kedvezményre való jogosultságot meg kell szüntetni, ha a jogosult házasságkötése szerinti új családban az egy főre jutó havi jövedelem összege, illetve vagyon értéke meghaladja a 19. §-ban meghatározott jövedelemhatárt, illetve vagyon értékét.
+és a nagykorúvá válását megelőző második hónap első napja, valamint a nagykorúvá válását megelőző nap közötti időszakban legalább egy napig rendszeres gyermekvédelmi kedvezményre volt jogosult.
+
+(3) A rendszeres gyermekvédelmi kedvezményre való jogosultságot, ideértve a 19. § (1a) bekezdés szerinti pénzbeli ellátásra való jogosultságot is, a gyámhatóság – hivatalból vagy kérelemre – felülvizsgálja, ha a megállapított jogosultság időtartama alatt a jogosultsági feltételekben változás következett be.
+
+(4) A rendszeres gyermekvédelmi kedvezményre való jogosultság
+
+a) megszűnik az (1) bekezdésben meghatározott időtartam leteltével,
+
+b) megszüntetésre kerül, ha
+
+ba) a (3) bekezdés szerinti felülvizsgálat azzal az eredménnyel zárul, hogy a jogosultsági feltételek nem állnak fenn, vagy
+
+bb) a gyermek gyermekvédelmi szakellátásba kerül.

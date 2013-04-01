@@ -4,7 +4,7 @@
 
 a) létfenntartását önállóan biztosítani nem tudja, vagy
 
-b) a nappali oktatás munkarendje szerint, vagy felsőfokú iskola nappali tagozatán tanulmányokat folytat, vagy
+b) köznevelési, felsőoktatási vagy felnőttképzési intézménnyel (szolgáltatóval) tanulói, hallgatói vagy felnőttképzési jogviszonyban áll, vagy
 
 c) szociális bentlakásos intézménybe felvételét várja.
 

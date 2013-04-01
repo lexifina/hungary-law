@@ -40,7 +40,7 @@ de) elősegíti, hogy a gyermek iskolai tanulmányai sikeres befejezésével, sz
 
 df) utógondozást biztosít a volt átmeneti vagy tartós nevelésbe vett gyermekeknek, illetve az utógondozói ellátásban részesült fiatal felnőttnek.
 
-(4) A gyermekotthon nevelőszülői hálózatot működtethet. Nevelőszülői hálózat működtetése esetén ellátja az 55. § (5) bekezdésében meghatározott feladatokat. A gyermekotthon által foglalkoztatott nevelőszülők a gyermekotthoni férőhelyszámnak megfelelő létszámú gyermek teljes körű ellátását, illetve fiatal felnőtt utógondozói ellátását biztosíthatják.
+(4) A gyermekotthon nevelőszülői hálózatot működtethet. Nevelőszülői hálózat működtetése esetén ellátja az 55. § (5) bekezdésében meghatározott feladatokat.
 
 (5) A gyermekotthon a területi szükségletekhez, valamint a külön jogszabályban meghatározott szakmai szabályokhoz igazodóan alakítja ki szervezetét, nevelési-gondozási rendszerét, a nevelés célját, alapelveit és módszereit tartalmazó szakmai programját.
 

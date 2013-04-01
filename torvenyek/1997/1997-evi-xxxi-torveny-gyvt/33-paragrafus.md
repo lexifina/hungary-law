@@ -32,7 +32,7 @@ h) a jogosult jogait és érdekeit képviselő érdekképviseleti fórumról.
 
 (3) Az ellátásra jogosult gyermek törvényes képviselője, illetve a fiatal felnőtt köteles
 
-a) a (2) bekezdésben meghatározott tájékoztatás megtörténtéről nyilatkozni,
+a) a (2) bekezdésben meghatározott tájékoztatás megtörténtéről nyilatkozni, ha az ellátás igénybevételéről nem kötöttek megállapodást,
 
 b) az e törvény alapján vezetett intézményi nyilvántartásokhoz adatokat szolgáltatni,
 

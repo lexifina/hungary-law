@@ -50,9 +50,9 @@ w) a családok átmeneti otthona által működtetett krízisközpont finanszír
 
 x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
 
-y)
+y) a Biztos Kezdet Gyerekház támogatása igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályait,
 
-z) a gyermekétkeztetésre vonatkozó részletes szabályokat.
+z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
