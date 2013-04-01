@@ -1,14 +1,14 @@
-145. § (1)[^677] A cselekvőképességet érintő gondnokság alá helyezés, illetve a gondnokság megszüntetése iránti per esetén a keresetlevélben a Pp. 121. §-ában meghatározott adatokon kívül fel kell tüntetni a gondnokság alá helyezendő, illetve a gondnokság alatt álló személy ingatlanának helyrajzi számát, nyugdíja vagy nyugdíjfolyósító szerv által folyósított egyéb ellátása esetén a nyugdíjfolyósítási törzsszámot, betétben elhelyezett készpénz esetén a betétkönyv vagy folyószámla számát. A keresetlevélben meg kell jelölni azoknak a tanúknak a nevét és lakcímét, akik ismerik a gondnokság alá helyezéssel érintett személy magatartását és életvitelét.
+145. § (1)[^698] A cselekvőképességet érintő gondnokság alá helyezés, illetve a gondnokság megszüntetése iránti per esetén a keresetlevélben a Pp. 121. §-ában meghatározott adatokon kívül fel kell tüntetni a gondnokság alá helyezendő, illetve a gondnokság alatt álló személy ingatlanának helyrajzi számát, nyugdíja vagy nyugdíjfolyósító szerv által folyósított egyéb ellátása esetén a nyugdíjfolyósítási törzsszámot, betétben elhelyezett készpénz esetén a betétkönyv vagy folyószámla számát. A keresetlevélben meg kell jelölni azoknak a tanúknak a nevét és lakcímét, akik ismerik a gondnokság alá helyezéssel érintett személy magatartását és életvitelét.
 
-(2)[^678] A cselekvőképességet korlátozó gondnokság alá helyezés iránti kereseti kérelem irányulhat a gondnokolandó személy cselekvőképességének általános vagy részleges (a Ptk. 14. § (6) bekezdésében meghatározott egyes ügycsoportok tekintetében fennálló) korlátozására.
+(2)[^699] A cselekvőképességet korlátozó gondnokság alá helyezés iránti kereseti kérelem irányulhat a gondnokolandó személy cselekvőképességének általános vagy részleges (a Ptk. 14. § (6) bekezdésében meghatározott egyes ügycsoportok tekintetében fennálló) korlátozására.
 
-(2a)[^679] A gyámhivatal a cselekvőképességet érintő gondnokság alá helyezés iránti kérelmében – ha az eljárás során erre adat merül fel – kérheti a választási eljárásról szóló 1997. évi C. törvény 11/A. §-a alapján a választójogból való kizárást.
+(2a)[^700] A gyámhivatal a cselekvőképességet érintő gondnokság alá helyezés iránti kérelmében – ha az eljárás során erre adat merül fel – kérheti a választási eljárásról szóló 1997. évi C. törvény 11/A. §-a alapján a választójogból való kizárást.
 
-(3)[^680] A kötelező felülvizsgálat és a gondnokság alá helyezés megszüntetése, illetve módosítása iránti eljárásban a kereseti kérelem a Ptk. 21. § (4) bekezdésében meghatározottakra, valamint a választójogból való kizárás megszüntetésére vagy a választójogból való kizárásra is irányulhat.
+(3)[^701] A kötelező felülvizsgálat és a gondnokság alá helyezés megszüntetése, illetve módosítása iránti eljárásban a kereseti kérelem a Ptk. 21. § (4) bekezdésében meghatározottakra, valamint a választójogból való kizárás megszüntetésére vagy a választójogból való kizárásra is irányulhat.
 
-(3a)[^681] A választójogból való kizárás megszüntetése vagy a választójogból való kizárás kezdeményezése során a gyámhivatal a nagykorú személy pszichés állapotára, szellemi fogyatkozására vagy szenvedélybetegségére vonatkozó körülményeket, az érintett személy életvitelére vonatkozó körülményeket, valamint az életvitelét, gondozását segítő személy véleményét veszi figyelembe.
+(3a)[^702] A választójogból való kizárás megszüntetése vagy a választójogból való kizárás kezdeményezése során a gyámhivatal a nagykorú személy pszichés állapotára, szellemi fogyatkozására vagy szenvedélybetegségére vonatkozó körülményeket, az érintett személy életvitelére vonatkozó körülményeket, valamint az életvitelét, gondozását segítő személy véleményét veszi figyelembe.
 
-(4)[^682] A keresetlevélhez csatolni kell a gondnokság alá helyezendő, illetőleg a gondnokság alatt álló személy
+(4)[^703] A keresetlevélhez csatolni kell a gondnokság alá helyezendő, illetőleg a gondnokság alatt álló személy
 
 a) születési anyakönyvi kivonatát vagy másolatát, kivéve, ha az iratokat külföldről kell beszerezni,
 
@@ -18,7 +18,7 @@ c) tulajdonában lévő ingatlanok tulajdoni lapját,
 
 d) lakóhelyén készített környezettanulmányt.
 
-(5)[^683] A keresetlevélhez a gyámhivatal a (4) bekezdésben foglaltakon kívül csatolhatja
+(5)[^704] A keresetlevélhez a gyámhivatal a (4) bekezdésben foglaltakon kívül csatolhatja
 
 a) a pszichológiai véleményt,
 
@@ -28,10 +28,10 @@ c) az érintett személlyel kapcsolatban álló családgondozó, személyi segí
 
 d) az érintett személy életvitelét, gondozását segítő személy meghallgatásáról készült jegyzőkönyvet.
 
-[^677]: A 145. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 13. §-a iktatta be, szövege a 14/2003. (II. 12.) Korm. rendelet 99. §-a (1) bekezdésének c) pontja, a 334/2011. (XII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^678]: A 145. § új (2) bekezdését a 262/2001. (XII. 21.) Korm. rendelet 13. §-ának (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatva.
-[^679]: A 145. § (2a) bekezdését a 21/2012. (II. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^680]: A 145. § (3) bekezdését a 262/2001. (XII. 21.) Korm. rendelet 13. §-ának (2) bekezdése iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^681]: A 145. § (3a) bekezdését a 21/2012. (II. 29.) Korm. rendelet 14. § (3) bekezdése iktatta be.
-[^682]: A 145. § eredeti (2) bekezdésének számozását a 262/2001. (XII. 21.) Korm. rendelet 13. §-ának (2) bekezdése (4) bekezdésre változtatta.
-[^683]: A 145. § (5) bekezdését a 21/2012. (II. 29.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^698]: A 145. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 13. §-a iktatta be, szövege a 14/2003. (II. 12.) Korm. rendelet 99. §-a (1) bekezdésének c) pontja, a 334/2011. (XII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^699]: A 145. § új (2) bekezdését a 262/2001. (XII. 21.) Korm. rendelet 13. §-ának (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatva.
+[^700]: A 145. § (2a) bekezdését a 21/2012. (II. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^701]: A 145. § (3) bekezdését a 262/2001. (XII. 21.) Korm. rendelet 13. §-ának (2) bekezdése iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^702]: A 145. § (3a) bekezdését a 21/2012. (II. 29.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^703]: A 145. § eredeti (2) bekezdésének számozását a 262/2001. (XII. 21.) Korm. rendelet 13. §-ának (2) bekezdése (4) bekezdésre változtatta.
+[^704]: A 145. § (5) bekezdését a 21/2012. (II. 29.) Korm. rendelet 14. § (4) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-68/K. §[^330] (1) A Gyvt. 20/C. § (1) bekezdés a) és b) pontjában meghatározott támogatás kifizetéséhez a települési önkormányzatot előleg illeti meg.
+68/K. §[^345] (1)[^346] A Gyvt. 20/C. § (5) és (6) bekezdésében meghatározott támogatás kifizetéséhez a települési önkormányzatot előleg illeti meg.
 
-(2) A települési önkormányzat jegyzője a Gyvt. 20/C. § (1) bekezdés a) pontjában meghatározott támogatás esetén a 12. számú melléklet szerinti adatlapon, a Gyvt. 20/C. § (1) bekezdés b) pontjában meghatározott támogatás esetén a 13. számú melléklet szerinti adatlapon,
+(2)[^347] A települési önkormányzat jegyzője a Gyvt. 20/C. § (5) bekezdésében meghatározott támogatás esetén a 12. számú melléklet szerinti adatlapon, a Gyvt. 20/C. § (6) bekezdésében meghatározott támogatás esetén a 13. számú melléklet szerinti adatlapon,
 
 a) a tárgyév június hónapjában esedékes óvodáztatási támogatás folyósításához a tárgyév május 13-ig,
 
@@ -24,10 +24,13 @@ b) a tárgyév december hónapjában esedékes óvodáztatási támogatás foly�
 
 ## rendelkezik a Magyar Államkincstár felé a 12. és 13. számú melléklet szerint igényelt előlegnek a települési önkormányzatok részére történő átutalásáról.
 
-(5) A települési önkormányzat jegyzője
+(5)[^348] A települési önkormányzat jegyzője
 
-a) a tárgyév június hónapjában esedékes óvodáztatási támogatást a tárgyév június 5-ig,
+a) a tárgyév június hónapjában esedékes óvodáztatási támogatás kifizetése iránt a tárgyév június 5-éig,
 
-b) a tárgyév december hónapjában esedékes óvodáztatási támogatást a tárgyév december 5-ig
+b) a tárgyév december hónapjában esedékes óvodáztatási támogatás kifizetése iránt a tárgyév december 5-éig
 
-[^330]: A 68/K. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^345]: A 68/K. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^346]: A 68/K. § (1) bekezdése a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^347]: A 68/K. § (2) bekezdés nyitó szövegrésze a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^348]: A 68/K. § (5) bekezdése a 98/2013. (III. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

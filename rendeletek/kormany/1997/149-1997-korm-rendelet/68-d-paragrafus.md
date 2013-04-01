@@ -1,11 +1,16 @@
-68/D. §[^305] (1) A települési önkormányzat jegyzője az 5. számú melléklet szerinti adatlapon minden hónap 10-éig értesíti az Igazgatóságot a kiegészítő gyermekvédelmi támogatás összegéről, valamint az e jogcím alapján igényelhető előleg összegéről. A tárgyév december hónapjában előleg nem igényelhető.
+## 68/C. §[^311]
 
-(2)[^306] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az összesített adatokat minden hónap 18-áig megyénként, önkormányzatonkénti bontásban – számítógépes hálózaton – megküldi a Minisztériumnak.
+68/D. §[^312] (1)[^313] A települési önkormányzat jegyzője az 5. számú melléklet szerinti adatlapon minden hónap 10-éig értesíti az Igazgatóságot a pénzbeli ellátás összegéről, valamint az e jogcím alapján igényelhető előleg összegéről. A tárgyév december hónapjában előleg nem igényelhető.
 
-(3)[^307] A Minisztérium minden hónap 21-éig rendelkezik a Magyar Államkincstár felé az 5. számú melléklet szerint igényelt támogatásoknak a települési önkormányzatok részére történő átutalásáról.
+(2)[^314] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár rendelkezik az 5. számú melléklet szerint igényelt támogatásoknak a települési önkormányzatok részére történő átutalásáról.
 
-(4) Az (1)–(3) bekezdés szerint igényelt kiegészítő gyermekvédelmi támogatással az államháztartásról szóló 1992. évi XXXVIII. törvényben foglaltak szerint kell elszámolni.
+(3)[^315] A Magyar Államkincstár az összesített adatokat tájékoztatás céljából – megyénként, önkormányzatonkénti bontásban – számítógépes hálózaton megküldi a Minisztériumnak.
 
-[^305]: A 68/D. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
-[^306]: A 68/D. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^307]: A 68/D. § (3) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+(4)[^316] Az (1)–(3) bekezdés szerint igényelt pénzbeli ellátással az államháztartásról szóló törvényben foglaltak szerint kell elszámolni.
+
+[^311]: A 68/C. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés e) pontja.
+[^312]: A 68/D. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
+[^313]: A 68/D. § (1) bekezdése a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^314]: A 68/D. § (2) bekezdése a 98/2013. (III. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^315]: A 68/D. § (3) bekezdése a 98/2013. (III. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^316]: A 68/D. § (4) bekezdése a 98/2013. (III. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

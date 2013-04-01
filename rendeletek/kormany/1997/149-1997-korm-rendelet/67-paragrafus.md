@@ -1,10 +1,7 @@
-67. § (1) Ha a felsőfokú iskola nappali tagozatán tanuló nagykorúvá vált gyermek a rendszeres kedvezményre való jogosultság időtartama alatt házasságot kötött, a rendszeres kedvezmény feltételeit a települési önkormányzat jegyzője soron kívül felülvizsgálja.
+67. §[^297] (1) Ha a rendszeres gyermekvédelmi kedvezményre való jogosultság felülvizsgálatára [Gyvt. 20. § (3) bek.] a korábbi jogosultság időtartamának megszűnését megelőző három hónapban kerül sor, és a felülvizsgálat eredményeként a települési önkormányzat jegyzője megállapítja, hogy a rendszeres kedvezményre való jogosultság feltételei továbbra is fennállnak, a gyermek rendszeres kedvezményre való jogosultságát – a 67/A. § (5) bekezdése szerinti eset kivételével – a felülvizsgálattal egyidejűleg a korábbi jogosultság megszűnését követő naptól ismételten meg kell állapítani.
 
-(2)[^293] A felülvizsgálat során a nagykorú gyermek felhívásra igazolja a házasságkötése szerinti új családjára vonatkozó adatokat a 65. § (1) bekezdésében és a 65/A. §-ban meghatározott módon.
+(2) A rendszeres kedvezményre való jogosultság megszüntetése esetén a jogosultság – a (3) bekezdés, a 67/A. § (1) bekezdés b) pontja és a 67/A. § (5) bekezdése szerinti eset kivételével – a megszüntető határozat meghozatalát követő második hónap első napján szűnik meg.
 
-(3) Ha a felülvizsgálat eredményeképpen a települési önkormányzat jegyzője azt állapítja meg, hogy a rendszeres kedvezmény megállapításának feltételei nem állnak fenn, a rendszeres kedvezményre való jogosultság megszüntetetéséről határozattal dönt.
+(3) A rendszeres kedvezményre való jogosultságot – a törvényes képviselő, illetve a nagykorú jogosult erre irányuló kérelme esetén – a kérelemben megjelölt időpontban, de legkésőbb a kérelem benyújtása hónapjának utolsó napjával kell megszüntetni.
 
-(4)[^294] A rendszeres kedvezményre való jogosultság bármely okból történő megszüntetése esetén a jogosultság a megszüntető határozat meghozatalát követő második hónap első napján szűnik meg.
-
-[^293]: A 67. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 22. §-ával megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^294]: A 67. § (4) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 15. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^297]: A 67. § a 98/2013. (III. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

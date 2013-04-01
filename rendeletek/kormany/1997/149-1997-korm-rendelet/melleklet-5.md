@@ -26,11 +26,11 @@
 
 ## jegyző aláírása
 
-5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^804]
+5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^829]
 
-## Adatlap a kiegészítő gyermekvédelmi támogatás címén igénybe vehető előleg igényléséhez
+## Adatlap a Gyvt. 19. § (1a) bekezdése szerinti pénzbeli ellátás címén igénybe vehető előleg igényléséhez
 
-## ......................... év ..................................... tárgyhónap
+......................... év ..................................... tárgyhónap
 
 1. Megye megnevezése:
 
@@ -40,9 +40,9 @@
 
 (2 számjegyű megyekód + 5 számjegyű településazonosító)
 
-4. A tárgyhónapban kiegészítő gyermekvédelmi támogatásban részesülők száma: ............................ fő
+4. A tárgyhónapban a Gyvt. 19. § (1a) bekezdése szerinti pénzbeli ellátásban részesülők száma: ............................ fő
 
-5. A tárgyhónapban kifizetett kiegészítő gyermekvédelmi támogatás összege: ............................ Ft
+5. A tárgyhónapban kifizetett Gyvt. 19. § (1a) bekezdése szerinti pénzbeli ellátás összege: ............................ Ft
 
 6. A tárgyhavi kifizetés után járó térítés: ............................ Ft
 
@@ -80,4 +80,4 @@ P. H.
 
 a jegyző aláírása
 
-[^804]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
+[^829]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Az 5. számú melléklet a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés h)–i) pontja szerint módosított szöveg.

@@ -1,5 +1,5 @@
 ## XXIV. Fejezet
 
-## A gyermekjóléti és gyermekvédelmi feladatok ellátásának értékelése[^775]
+## A gyermekjóléti és gyermekvédelmi feladatok ellátásának értékelése[^796]
 
-[^775]: A 170/A. §-t megelőző alcímet a 203/2003. (XII. 10.) Korm. rendelet 14. §-a iktatta be.
+[^796]: A 170/A. §-t megelőző alcímet a 203/2003. (XII. 10.) Korm. rendelet 14. §-a iktatta be.

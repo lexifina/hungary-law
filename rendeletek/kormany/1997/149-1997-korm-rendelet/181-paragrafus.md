@@ -1,0 +1,4 @@
+## 180. §[^819] Az egyes gyermekvédelmi tárgyú kormányrendeleteknek a pénzbeli és természetbeni ellátásokkal, valamint a gyermekjóléti alapszolgáltatásokkal összefüggő módosításáról szóló 98/2013. (III. 29.) Korm. rendelettel (a továbbiakban: Mr.) megállapított 65. §, 65/C. §, 66. § (1) és (3) bekezdése, 66/A. §, 67. §, 128. § (1) bekezdés e) pontja, valamint 130. § rendelkezéseit a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás, továbbá a gyámrendelés iránt az Mr. hatálybalépésekor[^820] folyamatban lévő ügyekben, valamint a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás Mr. hatálybalépését követő felülvizsgálata során is alkalmazni kell.
+
+[^819]: A 180. §-t a 98/2013. (III. 29.) Korm. rendelet 21. §-a iktatta be.
+[^820]: A hatálybalépés időpontja 2013. április 1.

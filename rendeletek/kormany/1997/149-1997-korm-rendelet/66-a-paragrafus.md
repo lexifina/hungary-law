@@ -1,12 +1,13 @@
-66/A. §[^289] (1)[^290] A rendszeres kedvezményre való jogosultság kezdő időpontja a kérelem benyújtásának napja.
+66/A. §[^296] (1) A rendszeres kedvezményre való jogosultságot megállapító határozatban tájékoztatni kell a szülőt az óvodáztatási támogatás igénylésének lehetőségéről, feltételeiről és módjáról, ha a kedvezményt olyan gyermek részére állapították meg, aki két évesnél idősebb, de a tárgyévben az ötödik életévét nem tölti be.
 
-(2) A rendszeres kedvezményre való jogosultság ismételt megállapításához a szülőnek vagy más törvényes képviselőnek, illetve a nagykorú jogosultnak új kérelmet kell előterjesztenie.
+(2) A rendszeres kedvezmény első alkalommal történő megállapításakor – erre irányuló kérelem esetén – a határozat egy példányát meg kell küldeni a kérelemben megjelölt, a gyermek étkeztetését biztosító intézmény számára.
 
-(3)[^291] A rendszeres kedvezményre való jogosultság ismételt megállapítása iránti kérelem a korábbi jogosultság időtartama alatt, annak megszűnését megelőző három hónapban is benyújtható. Ebben az esetben az új jogosultságot a korábbi jogosultság megszűnését követő naptól kell megállapítani.
+(3) A rendszeres kedvezményre való jogosultság kezdő időpontja – a 67/A. § (4) bekezdés b) pontjában foglalt kivétellel – a kérelem benyújtásának napja.
 
-(4)[^292] Lakcímváltozás esetén a szülőnek vagy más törvényes képviselőnek, illetve a nagykorú jogosultnak a kérésére vagy az új lakcím szerint illetékes jegyző megkeresésére az ügyben keletkezett iratokat a korábbi lakcím szerint illetékes jegyző haladéktalanul, de legkésőbb nyolc napon belül megküldi a jogosult új lakcíme szerint illetékes jegyzőnek. A rendszeres kedvezményhez kapcsolódó, a Gyvt. 20/A. §-a szerinti támogatást – a feltételek fennállása esetén – az új lakcím szerint illetékes jegyző folyósítja.
+(4) A rendszeres kedvezményre való jogosultság – ideértve az ahhoz kapcsolódó pénzbeli ellátást is – ismételt megállapításához a szülőnek vagy más törvényes képviselőnek, illetve a nagykorú jogosultnak új kérelmet kell előterjesztenie.
 
-[^289]: A 66/A. §-t az 57/2006. (III. 21.) Korm. rendelet 5. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
-[^290]: A 66/A. § (1) bekezdése a 251/2006. (XII. 6.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^291]: A 66/A. § (3) bekezdés második mondata a 275/2008. (XI. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^292]: A 66/A. § (4) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja, a 236/2012. (VIII. 30.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+(5) A rendszeres kedvezményre való jogosultság – ideértve az ahhoz kapcsolódó pénzbeli ellátást is – ismételt megállapítása iránti kérelem a korábbi jogosultság időtartama alatt, annak megszűnését megelőző három hónapban is benyújtható. Ebben az esetben az új jogosultságot a korábbi jogosultság megszűnését követő naptól kell megállapítani.
+
+(6) Lakcímváltozás esetén a szülőnek vagy más törvényes képviselőnek, illetve a nagykorú jogosultnak a kérésére vagy az új lakcím szerint illetékes jegyző megkeresésére az ügyben keletkezett iratokat a korábbi lakcím szerint illetékes jegyző haladéktalanul, de legkésőbb nyolc napon belül megküldi a jogosult új lakcíme szerint illetékes jegyzőnek. A rendszeres kedvezményhez kapcsolódó, a Gyvt. 19. § (1a) bekezdése szerinti pénzbeli ellátást és a Gyvt. 20/A. §-a szerinti természetbeni támogatást – a feltételek fennállása esetén – az új lakcím szerint illetékes jegyző nyújtja. Az új lakcím szerint illetékes jegyző a pénzbeli ellátást a lakcímváltozást követő hónap első napjától folyósítja.
+
+[^296]: A 66/A. §-t az 57/2006. (III. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 98/2013. (III. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

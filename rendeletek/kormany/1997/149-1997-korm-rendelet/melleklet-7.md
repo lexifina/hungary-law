@@ -1,6 +1,6 @@
 ## Adatlap
 
-## a kiegészítő gyermekvédelmi támogatáshoz kapcsolódó pótlék igényléséhez
+## a Gyvt. 19. § (1a) bekezdése szerinti pénzbeli ellátáshoz kapcsolódó pótlék igényléséhez
 
 ## ........ év ....... tárgyhónap
 
@@ -32,70 +32,58 @@
 
 ## a jegyző aláírása
 
-7. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^806]
+7. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^831]
 
-## NYILATKOZAT gyermektartásdíj megelőlegezéséhez
+## NYILATKOZAT gyermektartásdíj megelőlegezéséhez/gondozási díj megállapításához
 
-## A) Személyi adatok
+A) Személyi adatok
 
-1. A gyermektartásdíj megelőlegezését kérő neve és lakcíme:
+1. A gyermektartásdíj megelőlegezését kérő vagy a gondozási díj fizetésére kötelezett (a továbbiakban együtt: nyilatkozó) neve és lakcíme:
 
-2. A családban a Nyilatkozat benyújtásának időpontjában a gyermektartásdíj megelőlegezését kérővel közös háztartásban élő közeli hozzátartozók száma:
+2. A családban a nyilatkozat benyújtásának időpontjában a nyilatkozóval közös háztartásban élő közeli hozzátartozók száma: ..........................fő.
 
-3. A Nyilatkozat benyújtásának időpontjában a gyermektartásdíj megelőlegezését kérővel közös háztartásban élő, az egy főre jutó jövedelem számítása szempontjából figyelembe vehető közeli hozzátartozók adatai:
+3. Anyilatkozat benyújtásának időpontjában a nyilatkozóval közös háztartásban élő, az egy főre jutó jövedelem számítása szempontjából figyelembe vehető közeli hozzátartozók adatai:
 
 |  | Név | Születési hely, idő | Anyja neve |
 
-| – házastársa, élettársa |  |  |  |
+| Házastárs, élettárs |  |  |  |
 
-| – egyéb rokon (akinek eltartásáról gondoskodik) |  |  |  |
+| Egyéb rokon (akinek eltartásáról gondoskodik) |  |  |  |
 
-| – gyermekei* |  |  |  |
+| Gyermek* |  |  |  |
 
-* A 20 évesnél fiatalabb, önálló keresettel nem rendelkező, a 23 évesnél fiatalabb önálló keresettel nem rendelkező nappali oktatás munkarendje szerint középfokú tanulmányokat folytató, a 25 évesnél fiatalabb önálló keresettel nem rendelkező felsőoktatási intézmény nappali tagozatán tanulmányokat folytató, továbbá korhatárra tekintet nélkül a tartósan beteg, illetőleg a testi, érzékszervi, értelmi, beszéd- vagy más fogyatékos gyermek.
+*Fel kell tüntetni a nyilatkozóval közös háztartásában élő valamennyi vér szerinti és örökbe fogadott gyermeket, valamint a házastárs, élettárs gyermekeit is.
 
 B) Jövedelmi adatok
 
-| A jövedelmek típusai | A kérelmező jövedelme | A kérelmezővel közös háztartásban élő házastárs (élettárs) jövedelme | A kérelmezővel közös háztartásban élő egyéb rokon jövedelme | Összesen |
+| A jövedelmek típusai | A nyilatkozó jövedelme | A nyilatkozóval közös háztartásban élő házastárs (élettárs) jövedelme | A nyilatkozóval közös háztartásban élő egyéb rokon jövedelme | Összesen |
 
-| 1. | Munkaviszonyból, munkavégzésre irányuló egyéb jogviszonyból származó jövedelem és táppénz |  |  |  |  |  |  |
+| 1. | Munkaviszonyból, munkavégzésre/foglalkoztatásra irányuló egyéb jogviszonyból származó jövedelemés táppénz |  |  |  |  |  |  |
 
-| 2. | Társas és egyéni vállalkozásból származó jövedelem |  |  |  |  |  |  |
+| 2. | Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem |  |  |  |  |  |  |
 
-| 3. | Ingatlan, ingó vagyontárgyak értékesítéséből származó jövedelem |  |  |  |  |  |  |
+| 3. | Nyugellátás, megváltozott munkaképességű személyek ellátásai (például rokkantsági, rehabilitációs ellátás), egyéb nyugdíjszerű rendszeres szociális ellátások |  |  |  |  |  |  |
 
-| 4. | Nyugellátás, baleseti nyugellátás, egyéb nyugdíjszerű ellátások |  |  |  |  |  |  |
+| 4. | A gyermek ellátásához és gondozásához kapcsolódó támogatások (különösen: GYED, GYES, GYET, családi pótlék, gyermektartásdíj, árvaellátás) |  |  |  |  |  |  |
 
-| 5. | A gyermek ellátásához és gondozásához kapcsolódó támogatások (különösen: GYED, GYES, GYET, családi pótlék, gyermektartásdíj, árvaellátás) |  |  |  |  |  |  |
+| 5. | Önkormányzat, járási hivatal és munkaügyi szervek által folyósított rendszeres pénzbeli ellátások |  |  |  |  |  |  |
 
-| 6. | Munkaügyi szervek által folyósított rendszeres pénzbeli ellátás |  |  |  |  |  |  |
+| 6. | Egyéb jövedelem (különösen: kapott tartás-, ösztöndíj, ingó, ingatlan vagyontárgy értékesítéséből származó, értékpapírból származó jövedelem, kis összegű kifizetések stb.) |  |  |  |  |  |  |
 
-| 7. | Föld bérbeadásából származó jövedelem |  |  |  |  |  |  |
+| 7. | A család összes nettó jövedelme |  |  |  |  |  |  |
 
-| 8. | Egyéb (különösen: kapott tartás-, ösztöndíj, értékpapírból származó jövedelem, kis összegű kifizetések stb.) |  |  |  |  |  |  |
+| 8. | A család összes nettó jövedelmét csökkentő tényezők (fizetett tartásdíj összege) |  |  |  |  |  |  |
 
-| 9. | Összes bruttó jövedelem |  |  |  |  |  |  |
+Egy főre jutó havi családi nettó jövedelem (az ügyintéző tölti ki): ......................... Ft/hó.
 
-| 10. | Személyi jövedelemadó vagy előleg összege |  |  |  |  |  |  |
+A nyilatkozathoz mellékelni kell a jövedelemnyilatkozat 1–6. pontjában feltüntetett jövedelmek valódiságának igazolására szolgáló iratokat, kivéve a családi pótlék és a GYES igazolását, amennyiben azt nem munkáltatói kifizetőhely folyósítja, valamint a GYET és a fogyatékossági támogatás (FOT) igazolását.
 
-| 11. | Egészségbiztosítási és nyugdíjjárulék összege |  |  |  |  |  |  |
+Büntetőjogi felelősségem tudatában kijelentem, hogy a nyilatkozatban közölt adatok a valóságnak megfelelnek.
 
-| 12. | Munkavállalói járulék összege |  |  |  |  |  |  |
+Kelt: .................................................................
 
-| 13. | A család összes nettó jövedelme [9–(10+11+12)] |  |  |  |  |  |  |
+.................................................................
 
-| 14. | A család összes nettó jövedelmét csökkentő tényezők (tartásdíj összege) |  |  |  |  |  |  |
+a nyilatkozó aláírása
 
-| 15. AZ ÜGYINTÉZŐ TÖLTI KI!Önkormányzat/Fővárosi és megyei kormányhivatal által folyósított rendszeres pénzbeli ellátás [a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. tv. 4. § (1) bek. i) pontja] |  |  |  |  |  |  |
-
-Egy főre jutó havi családi nettó jövedelem (az ügyintéző tölti ki!): ........................................ Ft/hó.
-
-A kérelemhez mellékelni kell a jövedelemnyilatkozat B) pontjának 1–14. alpontjaiban feltüntetett jövedelmek valódiságának igazolására szolgáló iratokat.
-
-Büntetőjogi felelősségem tudatában kijelentem, hogy a NYILATKOZAT-ban közölt adatok a valóságnak megfelelnek.
-
-Dátum: .................................................................
-
-|  | a támogatást kérő aláírása |
-
-[^806]: Az 5. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 5. számú melléklet számozását az 57/2006. (II. 21.) Korm. rendelet 15. § (4) bekezdése 7. számú mellékletre változtatta, szövege a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés e) pontja szerint módosított szöveg.
+[^831]: Az 5. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 5. számú melléklet számozását az 57/2006. (II. 21.) Korm. rendelet 15. § (4) bekezdése 7. számú mellékletre változtatta, szövege a 97/2013. (III. 29.) Korm. rendelet 63. § (1) bekezdésével megállapított szöveg.

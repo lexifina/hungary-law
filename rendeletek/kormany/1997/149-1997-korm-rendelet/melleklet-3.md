@@ -1,3 +1,3 @@
-3. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^802]
+3. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^827]
 
-[^802]: A 3. számú melléklet a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított, és az 57/2006. (III. 21.) Korm. rendelet 15. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 16. § (4) bekezdését.
+[^827]: A 3. számú melléklet a 98/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

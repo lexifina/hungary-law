@@ -1,6 +1,6 @@
-## Természetbeni támogatás[^295]
+## Természetbeni támogatás[^299]
 
-68. §[^296] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
+68. §[^300] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
 
 (2) A jegyző a 4. számú melléklet szerinti adatlapon
 
@@ -10,31 +10,17 @@ b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásáho
 
 ## értesíti a Magyar Államkincstár területi szervét (a továbbiakban: Igazgatóság) a Gyvt. 20/A. §-a alapján megállapított támogatás összegéről.
 
-(3) Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az összesített adatokat
+(3)[^301] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az összesített adatok alapján
 
-a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 13-áig,
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 15-éig,
 
-b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 13-áig
+b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 15-éig
 
-## megyénként, önkormányzatonkénti bontásban – számítógépes hálózaton – megküldi a miniszter által vezetett Minisztériumnak (a továbbiakban: Minisztérium).
+rendelkezik a 4. számú melléklet szerint igényelt támogatási összegnek a Nemzeti Üdülési Szolgálat Korlátolt Felelősségű Társaság (a továbbiakban: Üdülési Szolgálat) részére történő átutalásáról, és ezzel egyidejűleg az adatokat – tájékoztatás céljából – megyénként, önkormányzatonkénti bontásban – számítógépes hálózaton – megküldi a miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium).
 
-(4) Az Igazgatóság a (2) bekezdés szerinti adatokat – településsoros bontásban –, a (3) bekezdésben meghatározott határidőig továbbítja a Nemzeti Üdülési Szolgálat Korlátolt Felelősségű Társaság (a továbbiakban: Üdülési Szolgálat) részére az Erzsébet-utalványok előállítása érdekében.
+(4)[^302] Az Igazgatóság a (2) bekezdés szerinti adatokat – településsoros bontásban –, a (3) bekezdésben meghatározott határidőig továbbítja az Üdülési Szolgálat részére az Erzsébet-utalványok előállítása érdekében.
 
-(5) A Minisztérium
-
-a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 17-éig,
-
-b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 17-éig
-
-## rendelkezik a Magyar Államkincstár felé a 4. számú melléklet szerint igényelt támogatási összegnek az Üdülési Szolgálat részére történő átutalásáról.
-
-(6) A Magyar Államkincstár a Minisztérium (5) bekezdés szerinti rendelkezése alapján
-
-a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 21-éig,
-
-b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 21-éig
-
-intézkedik a 4. számú melléklet szerint igényelt támogatási összegnek az Üdülési Szolgálat részére történő átutalásáról.
+(5)–(6)[^303]
 
 (7) Az Üdülési Szolgálat
 
@@ -88,5 +74,8 @@ b) a (14) bekezdés b) pontja szerinti esetben a tárgyévet követő év márci
 
 (17) A Magyar Államkincstár a (16) bekezdés szerinti határidők lejártát követő 10 munkanapon belül tájékoztatja a Minisztériumot a visszaváltott utalványok ellenértékéről.
 
-[^295]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^296]: A 68. § a 236/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^299]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^300]: A 68. § a 236/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^301]: A 68. § (3) bekezdése a 98/2013. (III. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^302]: A 68. § (4) bekezdése a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^303]: A 68. § (5)–(6) bekezdését a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés b) pontja hatályon kívül helyezte.
