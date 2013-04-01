@@ -4,19 +4,20 @@
 
 1. § (1)[^1]
 
-(2)–(4)[^2]
+(2) Az R1. 1/A. számú melléklete a 2. melléklet szerint módosul.
 
-(5)[^3]
+(3) Az R1. 2. számú melléklete a 3. melléklet szerint módosul.
 
-(6)[^4]
+(4) Az R1. 3. számú melléklete a 4. melléklet szerint módosul.
 
-(7)[^5]
+(5)[^2]
 
-(8)[^6]
+(6) Az R1. 4. számú melléklete a 6. melléklet szerint módosul.
+
+(7)[^3]
+
+(8) Az R1. 9. számú melléklete a 8. melléklet szerint módosul.
 
 [^1]: Az 1. § (1) bekezdése a 10. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
-[^2]: Az 1. § (2)–(4) bekezdése a 10. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^3]: Az 1. § (5) bekezdése a 10. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
-[^4]: Az 1. § (6) bekezdése a 10. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^5]: Az 1. § (7) bekezdése a 10. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
-[^6]: Az 1. § (8) bekezdése a 10. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^2]: Az 1. § (5) bekezdése a 10. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
+[^3]: Az 1. § (7) bekezdése a 10. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
