@@ -22,7 +22,7 @@ c) teljesíti az Áht. 83. § (1) bekezdése szerinti finanszírozású munkált
 
 d) továbbítja a munkáltató Art. 16. § (4) bekezdése szerint teljesített biztosítotti bejelentési kötelezettségét,
 
-e)[^1]
+e) átutalja a foglalkoztatott nettó személyi juttatásából a foglalkoztatott rendelkezésének megfelelő összeget a foglalkoztatott kincstárnál megnyitott értékpapír számlájára,
 
 f) elkészíti a fizetési jegyzéket, előállítja a nettó személyi juttatások átutalásához szükséges adatállományokat a foglalkoztatottak fizetési számlájára történő utaláshoz,
 
@@ -41,5 +41,3 @@ l) gondoskodik az illetményszámfejtéssel, a társadalombiztosítási kifizet�
 m) gondoskodik az adatvédelmi, adatbiztonsági előírások betartásáról,
 
 n) gondoskodik a jelentőfelelős szakmai tájékoztatásáról.
-
-[^1]: Az 5. § (3) bekezdés e) pontja a 30. § (2) bekezdése alapján 2013. április 1-jén lép hatályba.
