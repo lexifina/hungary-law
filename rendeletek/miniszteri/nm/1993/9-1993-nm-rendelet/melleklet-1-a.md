@@ -160,7 +160,7 @@
 
 | 0162 | Gottsegen György Országos Kardiológiai Intézet, Budapest |
 
-| 01A6 | Magyar Honvédség Honvédkórház, Budapest |
+| 01A6 | Magyar Honvédség Egészségügyi Központ, Budapest |
 
 | 0242 | Pécsi Tudományegyetem Klinikai Központ |
 
@@ -204,4 +204,4 @@
 
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^83]
 
-[^83]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^83]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 24/2013. (III. 29.) EMMI rendelet 1. § (2) bekezdése és 2. §-a szerint módosított szöveg.
