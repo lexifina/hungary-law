@@ -190,7 +190,9 @@ ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katona
 
 mb) az egyes rendvédelmi szerveket irányító miniszter, hogy – az Információs Hivatal kivételével – a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
 
-n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat
+n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+
+o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésben említett formanyomtatványt
 
 rendeletben állapítsa meg.
 
