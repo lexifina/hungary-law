@@ -8,14 +8,6 @@
 
 „d) a tengeri balesetek és események kivizsgálására szolgáló, a 2009/18/EK európai parlamenti és tanácsi rendelet 5. cikkének (4) bekezdése szerint kidolgozott közös módszertan elfogadásáról szóló, 2011. december 9-i 1286/2011/EU bizottsági rendelet.”
 
-(3) Hatályát veszti a 42. § (7) bekezdése.
+(3)
 
 (4) Hatályát veszti a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
