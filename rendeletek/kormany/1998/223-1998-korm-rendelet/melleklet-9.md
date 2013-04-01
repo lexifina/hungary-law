@@ -1,63 +1,49 @@
-## – azon tagállam(ok) megnevezése, ahol a kérelmező, illetve a házastárs, bejegyzett élettárs, élettárs társadalombiztosítási járulékot fizet;
-
-## – azon tagállam(ok) megnevezése, ahol a kérelmező, illetve a házastárs, bejegyzett élettárs, élettárs nyugellátásban részesül;
-
-## – azon tagállam(ok) megnevezése, ahol a kérelmező, illetve a házastárs, bejegyzett élettárs, élettárs családi ellátásban részesül, amennyiben van ilyen, a folyósító szerv megnevezése, az ügy száma, a folyósítás kezdő időpontja;
-
-## – a kérelmező, valamint a házastárs, bejegyzett élettárs, élettárs aláíróhelye;
-
-## – az ellátásra jogosító gyermek(ek)
-
-## neve
-
-## életvitelszerű tartózkodási helye.
-
 9. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^191]
 
-A tanulói jogviszony fennállásáról szóló igazolás adattartalma
+## A tanulói jogviszony fennállásáról szóló igazolás adattartalma
 
-– a tanuló
+1. A tanuló
 
-neve
+1.1 neve
 
-születési helye
+1.2 születési helye
 
-születési ideje
+1.3 születési ideje
 
-anyja neve
+1.4 anyja neve
 
-lakcíme;
+1.5 lakcíme;
 
-– az iskola
+2. Az iskola
 
-neve
+2.1 neve
 
-címe
+2.2 címe
 
-OM azonosítója;
+2.3 OM azonosítója;
 
-– a képzés időtartama;
+3. A képzés időtartama;
 
-– a tanulói jogviszony megszűnésének várható időpontja;
+4. A tanulói jogviszony megszűnésének várható időpontja;
 
-– érettségi vizsga, szakmunkásvizsga időpontja;
+5. Érettségi vizsga, szakmunkásvizsga időpontja;
 
-– a tanulói jogviszony szünetelése esetén a szünetelés időtartama;
+6. A tanulói jogviszony szünetelése esetén a szünetelés időtartama;
 
-– a tanulói jogviszony megszűnése esetén annak időpontja;
+7. A tanulói jogviszony megszűnése esetén annak időpontja;
 
-– az iskola igazgatójának aláíróhelye;
+8. Az iskola igazgatójának aláíróhelye;
 
-– a családi pótlék iránti kérelmet benyújtó, illetve arra jogosult
+9. A családi pótlék iránti kérelmet benyújtó, illetve arra jogosult
 
-neve
+9.1 neve
 
-lakcíme
+9.2 lakcíme
 
-TAJ száma;
+9.3 Társadalombiztosítási Azonosító Jele;
 
-– a gyermek (tanuló) TAJ száma;
+10. A gyermek (tanuló) Társadalombiztosítási Azonosító Jele;
 
-– a kérelmező aláíróhelye.
+11. A kérelmező aláíróhelye
 
-[^191]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^191]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § f) pontjával megállapított szöveg.

@@ -20,13 +20,9 @@
 
 ## 1.3.4. vezetőjének neve;
 
-## 1.4. a kérelem benyújtását megelőzően az intézményben élő gyermek után családi pótlékban részesülő
+## 1.4.[^187]
 
-## 1.4.1. neve
-
-## 1.4.2. Társadalombiztosítási Azonosító Jele;
-
-## 1.5. a kérelem benyújtását megelőzően az intézményben élő gyermek után családi pótlékot folyósító szerv megnevezése és címe;
+## 1.5.[^188]
 
 ## 1.6. a családi pótlék megállapításának kérelmezett kezdő időpontja;
 
@@ -50,6 +46,8 @@
 
 ## 2.3. a kérelmező aláíróhelye.
 
-7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^187]
+7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^189]
 
-[^187]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja.
+[^187]: A 6. számú melléklet 1. pont 1.4. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^188]: A 6. számú melléklet 1. pont 1.5. pontját a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^189]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja.

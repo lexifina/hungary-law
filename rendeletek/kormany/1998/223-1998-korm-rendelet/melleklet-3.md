@@ -1,81 +1,79 @@
 ## A gyermekgondozási segély iránti kérelem adattartalma
 
-## I.[^179] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+## 1. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
-## – a jogosultság jogcíme;
+## 1.1 a jogosultság jogcíme;
 
-## – a kérelmező
+## 1.2 a kérelmező
 
-## neve
+## 1.2.1 neve
 
-## születéskori neve
+## 1.2.2 születéskori neve
 
-## születési helye, ideje
+## 1.2.3 születési helye, ideje
 
-## anyja neve
+## 1.2.4 anyja neve
 
-## lakcíme
+## 1.2.5 lakcíme
 
-## TAJ száma
+## 1.2.6 Társadalombiztosítási Azonosító Jele
 
-## adóazonosító jele
+## 1.2.7 adóazonosító jele
 
-## állampolgársága;
+## 1.2.8 állampolgársága;
 
-## – a kérelmező házastársának, bejegyzett élettársának, élettársának
+## 1.3 a kérelmező házastársának, bejegyzett élettársának, élettársának
 
-## neve
+## 1.3.1 neve
 
-## TAJ száma;
+## 1.3.2 Társadalombiztosítási Azonosító Jele;
 
-## – a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által az EU (EGT) valamelyik tagállamában folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
+## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
 
-## – a gyermekgondozási segély megállapításának kérelmezett kezdő időpontja;
+## 1.5 a gyermekgondozási segély megállapításának kérelmezett kezdő időpontja;
 
-## – a gyermekgondozási segély folyósítása módjának megválasztására vonatkozó nyilatkozat;
+## 1.6 a gyermekgondozási segély folyósítása módjának megválasztására vonatkozó nyilatkozat;
 
-## – a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
+## 1.7 a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
 
-## II. A gyermek(ek)re vonatkozó adatok
+## 2. A gyermek(ek)re vonatkozó adatok
 
-## – azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozási segély megállapítását kéri
+## 2.1 azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozási segély megállapítását kéri
 
-## a neve
+## 2.1.1 a neve
 
-## a születési helye
+## 2.1.2 a születési helye
 
-## a születési ideje
+## 2.1.3 az anyja neve
 
-## az anyja neve
+## 2.1.4 a Társadalombiztosítási Azonosító Jele
 
-## a TAJ száma
+## 2.1.5 a háztartásba kerülésének időpontja
 
-## a háztartásba kerülésének időpontja
+## 2.1.6 a családi jogállása;
 
-## a gyermek családi jogállása;
+## 2.2 nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról.
 
-## – nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról.
+## 3. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
-## III.[^180] A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## 3.1 a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
 
-## – a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
+## 3.2 nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
 
-## – nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
+## 3.3 nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, gyermekgondozási díjban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
 
-## – nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, TAJ száma, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 3.4 nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
 
-## – nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
+## 3.5 a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozási segély folyósítási ideje alatti korlátozásának tudomásul vételéről;
 
-## – a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozási segély folyósítási ideje alatti korlátozásának tudomásul vételéről;
+## 3.6 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban vagy a gyámhatóság nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
 
-## – nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban vagy a gyámhatóság nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
+## 3.7 nyilatkozat a gyermekgondozási segély folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
 
-## – nyilatkozat a gyermekgondozási segély folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+## 3.8 a kérelmező nyilatkozata arról, hogy kéri-e a helyi utazási kedvezményre való jogosultság igazolására szolgáló hatósági bizonyítvány kiállítását;
 
-## – a kérelmező vagy a törvényes képviselő aláíróhelye.
+## 3.9 a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^181]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^183]
 
-[^179]: A 2. számú melléklet I. pontja a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^180]: A 2. számú melléklet III. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^181]: A 3. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^183]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.

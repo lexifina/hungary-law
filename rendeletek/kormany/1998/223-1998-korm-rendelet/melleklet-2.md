@@ -28,7 +28,7 @@
 
 ## 1.3.3 Társadalombiztosítási Azonosító Jele;
 
-## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
+## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által az valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
 
 ## 1.5 a családi pótlék megállapításának kérelmezett kezdő időpontja;
 
@@ -72,7 +72,7 @@
 
 ## 3. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
-## 3.1 nyilatkozat arról, hogy a 2. pont szerinti azon gyermek(ek) után, akikre tekintettel a kérelmező a családi pótlék megállapítását kéri, folyósít vagy folyósított-e valamely szerv valamely személy számára családi pótlékot, illetve nyújtott-e be valamely személy családi pótlék iránti kérelmet; amennyiben igen, a jogosult (kérelmező) neve, valamint a folyósító (eljáró) szerv megnevezése, címe;
+## 3.1
 
 ## 3.2 nyilatkozat a kérelmező egyedülállóságának tényéről;
 
@@ -88,6 +88,6 @@
 
 ## 3.8 a kérelmező vagy a törvényes képviselő aláíróhelye
 
-2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^178]
+2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^182]
 
-[^178]: A 2. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^182]: A 2. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § a) pontjával megállapított szöveg.

@@ -1,52 +1,51 @@
 ## Az anyasági támogatás iránti kérelem adattartalma
 
-## I.[^185] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+## 1. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
-## – a jogosultság jogcíme
+## 1.1 a jogosultság jogcíme;
 
-## – a kérelmező
+## 1.2 a kérelmező
 
-## neve
+## 1.2.1 neve
 
-## születéskori neve
+## 1.2.2 születéskori neve
 
-## születési helye, ideje
+## 1.2.3 születési helye, ideje
 
-## anyja neve
+## 1.2.4 anyja neve
 
-## lakcíme
+## 1.2.5 lakcíme
 
-## TAJ száma
+## 1.2.6 Társadalombiztosítási Azonosító Jele
 
-## állampolgársága
+## 1.2.7 állampolgársága;
 
-## – az anyasági támogatás folyósítása módjának megválasztására vonatkozó nyilatkozat;
+## 1.3 az anyasági támogatás folyósítása módjának megválasztására vonatkozó nyilatkozat;
 
-## – a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
+## 1.4 a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
 
-## II. Gyermek(ek)re vonatkozó adatok
+## 2. A gyermek(ek)re vonatkozó adatok
 
-## – azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező az anyasági támogatás megállapítását kéri
+## 2.1 azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező az anyasági támogatás megállapítását kéri
 
-## a neve
+## 2.1.1 a neve
 
-## a születési helye
+## 2.1.2 a születési helye
 
-## a születési ideje
+## 2.1.3 a születési ideje
 
-## az anyja neve
+## 2.1.4 az anyja neve
 
-## a TAJ száma
+## 2.1.5 a Társadalombiztosítási Azonosító Jele
 
-## a háztartásba kerülésének időpontja.
+## 2.1.6 a háztartásba kerülésének időpontja.
 
-## III. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## 3. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
-## – nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban vagy a gyámhatóság nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
+## 3.1 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban vagy a gyámhatóság nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
 
-## – a kérelmező aláíróhelye.
+## 3.2 a kérelmező aláíróhelye.
 
 6. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^186]
 
-[^185]: Az 5. számú melléklet I. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
 [^186]: A 6. számú mellékletet a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának ah) alpontja hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 332/2011. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
