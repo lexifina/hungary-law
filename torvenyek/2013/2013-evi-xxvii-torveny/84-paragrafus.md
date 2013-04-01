@@ -1,3 +1,1 @@
-84. § A Cst. 13. §-a helyébe a következő rendelkezés lép:
-
-„13. § A gyermekotthon vezetője, a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet igazgatója a gyermekotthonban, javítóintézetben vagy büntetés-végrehajtási intézetben lévő és gyermekvédelmi gondoskodás alatt álló gyermekre tekintettel járó családi pótlék teljes összegét a gyermek teljes körű ellátására vagy ellátásának kiegészítésére használja fel. A szociális intézmény vezetője a szociális intézményben elhelyezett gyermekre tekintettel járó családi pótlék teljes összegét a teljes körű ellátás biztosítására vagy annak kiegészítésére használja fel.”
+84. §
