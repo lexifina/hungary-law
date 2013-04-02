@@ -1,1 +1,3 @@
-## „a) ingatlanra vonatkozó becsült forgalmi értékét, akkor az ingatlan forgalmi értékének megállapítása érdekében megkeresi az állami adóhatóság ingatlan fekvése szerint illetékes megyei (fővárosi) adóigazgatóságát,”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
