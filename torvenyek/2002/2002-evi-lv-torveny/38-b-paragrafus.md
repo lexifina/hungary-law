@@ -6,7 +6,7 @@
 
 (3) A peres vagy nemperes bírósági eljárás felei a bírósági közvetítés lefolytatása iránti közös kérelmüket a bírósági közvetítési feladatokat ellátó bíróságnál terjeszthetik elő.
 
-(4) A bíróság a bírósági közvetítőként eljáró bírósági titkár nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
+(4) A bíróság a bírósági közvetítőként eljáró bírósági titkár vagy rendelkezési állományba helyezett bíró nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
 
 (5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni.
 
