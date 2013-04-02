@@ -1,3 +1,5 @@
+## 23. §[^1]
+
 1. melléklet a 6/2013. (III. 27.) BM rendelethez
 
 I. Kegyeleti kiadásként elszámolható költségnormák
@@ -33,3 +35,5 @@ c) síremlék avatáskor, megemlékezésekkor síremlékenként vagy emléktábl
 4. Sírgondozás költsége: közeli hozzátartozó hiányában vagy akadályoztatása esetén a hősi halott, illetve a szolgálat halottja síremlékének gondozására, a szolgáltató által kiállított számlával igazolt összeg.
 
 5. Hősi halott sírhelyének újraváltása: közeli hozzátartozó hiányában vagy annak akadályoztatása, illetve rossz anyagi helyzete esetén a hősi halott sírhelyének újraváltása a szolgáltató által kiállított számlával igazolt összeg erejéig.
+
+[^1]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
