@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-417-20-
 | 2013-03-01 | 2012-417-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-03-02 | 2012-417-20-22.5 | 2010: CXXX. törvény |
 | 2013-04-01 | 2012-417-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-04-02 | 2012-417-20-22.7 | 56/2014. (III. 4.) Korm. rendelet |

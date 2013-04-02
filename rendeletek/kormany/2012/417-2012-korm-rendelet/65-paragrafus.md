@@ -1,5 +1,3 @@
-## 64. § A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala létrehozásáról, feladatairól és hatásköréről szóló 276/2006. (XII. 23.) Korm. rendelet 16/C. § (5) bekezdése a következő d) ponttal egészül ki:
+## 64. §[^31]
 
-## (A KEKKH)
-
-## „d) üzemelteti a www.magyarkozlony.hu honlapot kiszolgáló informatikai rendszert.”
+[^31]: A 64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
