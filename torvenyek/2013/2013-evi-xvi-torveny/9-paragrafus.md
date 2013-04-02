@@ -1,5 +1,3 @@
 ## 2. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-9. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 47. §-a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A megsemmisítési eljárásban, a nemleges megállapítási eljárásban, a 83/B–83/D. §-ban, a 83/F. §-ban és a 83/G. §-ban szabályozott eljárásokban az ügyfeleknek beadványaikat eggyel több példányban kell benyújtaniuk a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány ellenérdekű fél az eljárásban részt vesz. Ha több félnek közös képviselője van, részükre együttesen egy példányt kell számításba venni; szolgálati találmányra adott szabadalom esetén a megsemmisítési kérelem szükséges példányszámának meghatározásánál a feltalálókat is ellenérdekű félként kell számításba venni. A beadvány mellékleteinek egy-egy másolatát csatolni kell a beadvány többi példányához is. Ha az ügyfél a beadványát vagy annak mellékleteit az előírtnál kevesebb példányban nyújtotta be, a (4) bekezdés szerinti hiánypótlás elmaradása esetén a megsemmisítési kérelmet, a nemleges megállapításra irányuló kérelmet, valamint a 83/B. § (1) bekezdése, a 83/F. § (1) bekezdése és a 83/G. § (1) bekezdése szerinti kérelmet visszavontnak kell tekinteni, a szabadalmas nyilatkozatát pedig be nem nyújtottnak kell tekinteni.”
+9–19. §
