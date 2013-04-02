@@ -1,4 +1,4 @@
-## 12. §[^2]
+## 12. §[^4]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. és a 12. § 2014. január 1-jén lép hatályba.
 
-[^2]: A 12. § a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^4]: A 12. § a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
