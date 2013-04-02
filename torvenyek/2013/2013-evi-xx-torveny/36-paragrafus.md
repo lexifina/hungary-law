@@ -16,4 +16,4 @@ kérelmezi.
 
 (2) Az (1) bekezdés szerinti esetben a korhatár előtti ellátás és a szolgálati járandóság a jogosult kérelmére csak akkor folyósítható újból, ha a jogosult igazolja szolgálati jogviszonyának megszűnését.”
 
-(2) Hatályát veszti a Kenytv. 11. § (2) bekezdése és 12. § (1) bekezdés c) és d) pontja.
+(2)

@@ -7,11 +7,3 @@ b) 15–26. §-a az Alaptörvény 25. cikk (7) bekezdése, valamint 26. cikk (1)
 c) 27–32. §-a, 34. §-a, 35. § (1) bekezdés a) és b) pontja, valamint (2) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján
 
 sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
