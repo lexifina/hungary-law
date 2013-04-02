@@ -1,1 +1,0 @@
-## „(4) A kérelmező a közzétételi kérelmét a tervezett megjelenés napjáig, az arra jogosult által papír alapon aláírt, vagy minősített elektronikus aláírásával ellátott kérelemmel vonhatja vissza, a visszavonás tényének az informatikai rendszer útján történő jelzésével egyidejűleg. A tervezett megjelenés napjáról a felelős szerkesztő ad tájékoztatást.”
