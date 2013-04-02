@@ -1,11 +1,6 @@
-76. § (1) A Gyár.
+76. § (1)[^36]
 
-a) 9. § b) pontjában és 23. § (7) bekezdésében a „városi” szövegrész helyébe a „járási” szöveg,
+(2)[^37]
 
-b) 22. § (10a) bekezdésében a „megyeszékhelyen működő járási gyámhivatal, a fővárosban a fővárosi kormányhivatal V. kerületi gyámhivatala” szövegrész helyébe a „kijelölt gyámhivatal” szöveg
-
-## lép.
-
-(2)[^31]
-
-[^31]: A 76. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^36]: A 76. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 76. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.

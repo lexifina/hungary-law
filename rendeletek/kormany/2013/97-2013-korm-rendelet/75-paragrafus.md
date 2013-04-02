@@ -1,8 +1,9 @@
-## 74. §[^29]
+## 74. §[^33]
 
-75. § (1) Hatályát veszti a Gyár. 12. §-ában és 21. § (4) bekezdésében a „járási” szövegrész.
+75. § (1)[^34]
 
-(2)[^30]
+(2)[^35]
 
-[^29]: A 74. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^30]: A 75. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^33]: A 74. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^34]: A 75. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 75. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.

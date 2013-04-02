@@ -1,3 +1,3 @@
-## 43. § A Gyer. 115. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 43. §[^12]
 
-## „(2) A gondozási díj fizetésének kötelezettsége a gyermek 18. életévének betöltése után is fennmarad, ha a Gyvt. 93. § (1) bekezdés b) pontja alapján részesül utógondozói ellátásban.”
+[^12]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

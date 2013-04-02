@@ -1,5 +1,6 @@
-64. § (1) Hatályát veszti a Gyer. 120. § (3) bekezdése.
+64. § (1)[^20]
 
-(2)[^17]
+(2)[^21]
 
-[^17]: A 64. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^20]: A 64. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 64. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
