@@ -1,5 +1,3 @@
 ## 3. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
-80. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 23/E. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a kincstár a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a kincstárnak átadja. A kincstár a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.”
+80–82. §
