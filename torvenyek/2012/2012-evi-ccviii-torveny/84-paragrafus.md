@@ -16,7 +16,7 @@
 
 (6) A 32. § (2) bekezdése 2013. április 1-jén lép hatályba.
 
-(7) A 12. § (2) bekezdése, a 29. §, a 32. § (1) bekezdése, a 41. § b) és c) pontja, a 43. § (5)–(8) és (11) bekezdése, a 44. § c) pontja, a 45. § b) pontja, a 48–50. §, a 86. § d) pontja 2013. július 1-jén lép hatályba.
+(7) A 12. § (2) bekezdése, a 29. §, a 32. § (1) bekezdése, a 41. § b) és c) pontja, a 43. § (5)–(8) és (11) bekezdése, a 44. § c) pontja, a 45. § b) pontja, a 48–50. § 2013. július 1-jén lép hatályba.
 
 (8) A 86. § a) pontja 2013. augusztus 16-án lép hatályba.
 
