@@ -2,7 +2,8 @@
 
 5. § (1)[^2]
 
-(2) A TnyR. 65/E. §-a a következő (1a) bekezdéssel egészül ki:
+(2)[^3]
 
 [^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 30. §[^15]
+## 30. §[^16]
 
 ## 11. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Ez a rendelet 2013. július 2-án hatályát veszti.
 
-[^15]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
