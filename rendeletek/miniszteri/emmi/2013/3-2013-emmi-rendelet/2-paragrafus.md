@@ -1,1 +1,0 @@
-## „(3) Az igazolás kiállítására jogosult szakorvosokat foglalkoztató intézmények listáját az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal a honlapján tájékoztatás céljából közzéteszi.”
