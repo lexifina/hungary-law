@@ -1,1 +1,3 @@
-## 7. § A magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 1. számú melléklete helyébe a 26. melléklet lép.
+## 7. §[^13]
+
+[^13]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
