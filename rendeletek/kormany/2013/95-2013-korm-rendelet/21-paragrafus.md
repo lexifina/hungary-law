@@ -1,7 +1,6 @@
-21. § (1) A Pr. 35/A. §-a helyébe a következő rendelkezés lép:
+21. § (1)[^8]
 
-## „35/A. § A járási hivatal megvizsgálja, hogy a kérelmező alanyi vagy normatív közgyógyellátásra jogosult-e. Amennyiben a kérelmező számára alanyi vagy normatív jogcímen az ellátást nem lehet megállapítani, úgy a járási hivatal a kérelmet elutasítja, és ezzel egyidejűleg tájékoztatja a kérelmezőt arról, hogy a jegyzőnél méltányossági közgyógyellátás megállapítását kérheti.”
+(2)[^9]
 
-(2)[^3]
-
-[^3]: A 21. § (2) bekezdése a 25. § (3) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^8]: A 21. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 21. § (2) bekezdése a 25. § (3) bekezdése alapján 2013. október 1-jén lép hatályba.

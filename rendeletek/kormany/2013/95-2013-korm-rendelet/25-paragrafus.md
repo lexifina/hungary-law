@@ -1,4 +1,4 @@
-## 24. §[^7]
+## 24. §[^15]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 21. § (2) bekezdése, valamint a 23. § (3) bekezdése 2013. október 1-jén lép hatályba.
 
-[^7]: A 24. § a 25. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^15]: A 24. § a 25. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

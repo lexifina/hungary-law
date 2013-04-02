@@ -1,15 +1,6 @@
-22. § (1) A Pr.
+22. § (1)–(2)[^10]
 
-a) 2. számú melléklete helyébe az 5. melléklet,
+(3)[^11]
 
-b) 3. számú melléklete helyébe a 6. melléklet,
-
-c) 9. számú melléklete helyébe a 7. melléklet
-
-## lép.
-
-(2) A Pr. a 8. melléklet szerinti 2/A. számú melléklettel egészül ki.
-
-(3)[^4]
-
-[^4]: A 22. § (3) bekezdése a 25. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^10]: A 22. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 22. § (3) bekezdése a 25. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
