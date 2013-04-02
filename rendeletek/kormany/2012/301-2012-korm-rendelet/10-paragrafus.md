@@ -1,3 +1,3 @@
-## 9. §[^2]
+## 9. §[^3]
 
-[^2]: A 9. § a 14. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^3]: A 9. § a 198/2013. (VI. 13.) Korm. rendelet 7. §-a alapján nem lép hatályba.
