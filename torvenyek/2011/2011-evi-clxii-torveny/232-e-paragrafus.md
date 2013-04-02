@@ -1,0 +1,1 @@
+232/E. § Ha a bíró a 90. § hb) alpontja alapján nem kérte a felmentését, kérheti a Tny. 18. § (1) bekezdésében meghatározott társadalombiztosítási öregségi nyugdíjra jogosító öregségi nyugdíjkorhatár betöltését követő időszakra, hogy a bírói szolgálati jogviszonya fenntartása mellett az OBH elnöke helyezze rendelkezési állományba.

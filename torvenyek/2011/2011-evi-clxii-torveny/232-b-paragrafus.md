@@ -1,0 +1,3 @@
+232/B. § (1) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 4. § (2) bekezdés i) pontját 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig a 4. § (2) bekezdés i) pontja helyett a (2) bekezdésben foglaltakat kell alkalmazni. A (2) bekezdésben foglaltakat az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő pályázati eljárásokban alkalmazni kell.
+
+(2) Nem nevezhető ki bíróvá az a személy, aki betöltötte a 232/C. §-ban meghatározott korhatárt.

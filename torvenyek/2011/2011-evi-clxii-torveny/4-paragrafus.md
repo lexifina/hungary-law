@@ -54,6 +54,12 @@ e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, 
 
 f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig,
 
-g) akit bíróként, ügyészként, kormánytisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, fegyveres szerv hivatásos állományú tagjaként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll.
+g) akit bíróként, ügyészként, kormánytisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, fegyveres szerv hivatásos állományú tagjaként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+
+h) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
+
+i) aki betöltötte a 90. § ha) alpontjában meghatározott életkort.
 
 (3) Az (1) bekezdés f) pontjában írt kötelező bírósági titkári működés időtartamába legfeljebb 6 hónap beszámítható annak, aki legalább 3 évig az (1) bekezdés f) pontjában nem említett jogi szakvizsgához kötött munkakörben működött.
+
+(4) A 3. § (4) bekezdése szerinti esetben az OBH elnöke a kinevezésre vonatkozó javaslatának felterjesztése előtt megvizsgálja a kinevezési feltételeknek való megfelelést is. Ha a kinevezésre vonatkozó javaslatra a bírói szolgálati viszony megszűnését követő 3 hónapon belül kerül sor, a kinevezésre javasolt személy mentesül a 12. § (1) bekezdés b) pontja szerinti igazolás bemutatásának kötelezettsége alól. A kinevezésre javasolt személy mentesül a 12. § (1) bekezdés c) pontja szerinti igazolás bemutatásának kötelezettsége alól.

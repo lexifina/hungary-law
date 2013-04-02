@@ -16,9 +16,9 @@ g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szerveze
 
 h) ha a bíró
 
-ha)
+ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt,
 
-hb) a felső korhatár betöltése előtt a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2) vagy (2a) bekezdésében foglalt feltételek fennállására hivatkozással maga kéri nyugállományba helyezését,
+hb) a felmentési okként meghatározott életkor betöltése előtt, maga kéri nyugállományba helyezését a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2) vagy (2a) bekezdésében foglalt feltételek fennállására hivatkozással,
 
 i) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
 
@@ -32,4 +32,6 @@ m) ha a bíró a munkáltató által elrendelt orvosi vizsgálaton a 86. § (3) 
 
 n) ha állami felsőoktatási intézmény rektorává vagy költségvetési szervként működő kutatóközpont vagy kutatóintézet vezetőjévé nevezik ki,
 
-o) ha a bíró szolgálati viszonyát jogellenesen megszüntette.
+o) ha a bíró szolgálati viszonyát jogellenesen megszüntette,
+
+p) ha az összeférhetetlenséget jogerős határozat megállapította.
