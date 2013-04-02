@@ -1,6 +1,6 @@
 24. § (1) A közjegyző nem gyakorolhatja a hivatását
 
-a) a 22. § (1) bekezdés a), c) és d) pontjában meghatározott esetekben a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
+a) a 22. § (1) bekezdés a) és c) pontjában meghatározott esetekben, valamint ha a közjegyzői szolgálat megszűnésére azért kerül sor, mert a közjegyző betölti a megszűnési okként megjelölt kort, a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
 
 b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
 

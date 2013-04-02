@@ -8,7 +8,7 @@ b) a közjegyzői szolgálat megszűnését megállapító határozat jogerőre 
 
 c) a közjegyzői fegyelmi bíróság hivatalvesztést, a közjegyző alkalmatlanságát vagy érdemtelenségét megállapító határozata jogerőre emelkedésének,
 
-d) a közjegyző 70. életéve betöltésének vagy
+d) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév közjegyző általi betöltésének, vagy
 
 e) a közjegyző halálának
 
