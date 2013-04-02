@@ -8,7 +8,7 @@
 
 a) előkészíti az OBH elnökének határozatait és gondoskodik azok végrehajtásáról, valamint ellátja az OBT működésével kapcsolatos ügyviteli feladatokat,
 
-b) meghatalmazás alapján képviseli az OBH elnökét és a bíróságokat a bírósági eljárásokban,
+b) képviseli az OBH elnökét és a bíróságokat a bírósági eljárásokban,
 
 c) vezeti a bírák központi személyi nyilvántartását és kezeli a bírói vagyonnyilatkozatok vagyoni részét, és
 

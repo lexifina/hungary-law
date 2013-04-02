@@ -12,6 +12,6 @@ d) aki a törvény szerint beosztása következtében nem ítélkezhet, tovább�
 
 e) aki a polgári perrendtartásról szóló törvény szerinti hozzátartozói kapcsolatban áll az OBH elnökével, a Kúria, az ítélőtábla, és a törvényszék elnökével, elnökhelyettesével,
 
-f) aki a választás évében betölti a bírói felső korhatárt, vagy
+f) aki a választás évében betölti a felmentési okként meghatározott életkort vagy
 
 g) aki korábban már tagja volt az OBT-nek.

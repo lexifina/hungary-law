@@ -48,7 +48,7 @@ j) az OBH elnökének kezdeményezése alapján „címzetes törvényszéki bí
 
 k) a bíró lemondása esetén hozzájárulhat, hogy a lemondási idő 3 hónapnál rövidebb legyen, illetve a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól, valamint
 
-l) a bíró nyugállományba helyezése vagy a felső korhatár elérése esetén a bírák jogállásáról és javadalmazásáról szóló törvény alapján dönt a felmentési időre vonatkozóan a munkavégzési kötelezettség alóli mentesítés idejéről.
+l) a bíró nyugállományba helyezése vagy a felmentési okként meghatározott életkor elérése esetén a bírák jogállásáról és javadalmazásáról szóló törvény alapján dönt a felmentési időre vonatkozóan a munkavégzési kötelezettség alóli mentesítés idejéről.
 
 (4) Az OBT a képzés területén
 
