@@ -4,7 +4,7 @@ a) felmentésével;
 
 b) lemondásával;
 
-c) a rá irányadó öregségi nyugdíjkorhatár betöltésével;
+c) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
 
 d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 

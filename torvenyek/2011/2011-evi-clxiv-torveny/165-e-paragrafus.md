@@ -1,0 +1,1 @@
+165/E. § Ha az ügyész a 36. § (6) bekezdése alapján nem kérte a felmentését, kérheti a Tny. 18. § (1) bekezdésében meghatározott társadalombiztosítási öregségi nyugdíjra jogosító öregségi nyugdíjkorhatár betöltését követő időszakra, hogy az ügyészi szolgálati jogviszonya fenntartása mellett a legfőbb ügyész helyezze rendelkezési állományba.

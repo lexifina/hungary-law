@@ -42,6 +42,6 @@ f) kivételesen fontos gazdasági érdeket említ, ott kivételesen fontos ügy�
 
 kell érteni.
 
-(6) Ahol e törvény a „nyugdíjasnak minősül”, „öregségi nyugdíjra jogosult”, „öregségi nyugdíjra való jogosultság” kifejezést használja, e fogalmak tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 294. § (1) bekezdés g) pontját kell alkalmazni azzal, hogy a legfőbb ügyész helyettes és az ügyész esetében e fogalmakat a rá irányadó öregségi nyugdíjkorhatárt be nem töltött személyre kell alkalmazni. Nyugdíjasnak minősül az alügyész, az ügyészségi fogalmazó, továbbá a tisztviselő, írnok, fizikai alkalmazott, valamint a rá irányadó öregségi nyugdíjkorhatárt be nem töltött ügyész abban az esetben is, ha felmentését a Tny. 18. § (2a) bekezdésére szerzett jogosultságára hivatkozással maga kéri.
+(6) Ahol e törvény a „nyugdíjasnak minősül”, „öregségi nyugdíjra jogosult”, „öregségi nyugdíjra való jogosultság” kifejezést használja, e fogalmak tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 294. § (1) bekezdés g) pontját kell alkalmazni. Nyugdíjasnak minősül az ügyészségi alkalmazott abban az esetben is, ha felmentését a Tny. 18. § (2) vagy (2a) bekezdése alapján szerzett jogosultságára hivatkozással maga kéri.
 
 (7)

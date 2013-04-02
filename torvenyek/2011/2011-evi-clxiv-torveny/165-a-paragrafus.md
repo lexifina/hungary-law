@@ -1,0 +1,3 @@
+165/A. § (1) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 11. § (4a) bekezdés b) pontját 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig a 11. § (4a) bekezdés b) pontja helyett a (2) bekezdésben foglaltakat kell alkalmazni. A (2) bekezdésben foglaltakat az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő pályázati eljárásokban és kinevezési eljárásokban alkalmazni kell.
+
+(2) Nem nevezhető ki ügyésszé az a személy, aki betöltötte a 165/C. §-ban meghatározott életkort.

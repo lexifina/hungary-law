@@ -12,6 +12,8 @@ d) a jogviszony megszüntetése az egyenlő bánásmód követelményébe ütkö
 
 e) az ügyész a jogviszony közös megegyezéssel történő megszüntetését vagy erre irányuló saját jognyilatkozatát sikerrel támadta meg.
 
+(1a) Ha az ügyész a határozat meghozatalakor nem felel meg az ügyészi kinevezési feltételeknek, a bíróság nem helyezheti vissza az eredeti munkakörébe.
+
 (2) A munkáltató kérelmére a bíróság mellőzi az ügyész eredeti munkakörbe történő visszahelyezését, feltéve, ha az ügyész továbbfoglalkoztatása a munkáltatótól nem várható el. Ilyennek minősül különösen, ha
 
 a) az ügyész munkaköre megszűnt,

@@ -8,7 +8,7 @@ b) felmentésével;
 
 c) lemondásával;
 
-d) a rá irányadó öregségi nyugdíjkorhatár betöltésével;
+d) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
 
 e) rendkívüli lemondásával;
 
