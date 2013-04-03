@@ -1,0 +1,1 @@
+## 16. § A támogatás felhasználására irányuló tevékenység az Ávr. 87. § (1) bekezdés szerinti beruházásnak minősül. A miniszter engedélyével történt elidegenítés esetén a kedvezményezettnek a 15. § szerinti rendeltetésszerű használatot biztosítani kell.
