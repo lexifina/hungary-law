@@ -26,6 +26,20 @@ f) a szolgálati célú tartózkodás helyét,
 
 g) a szolgálati célú tartózkodás ideje alatti magyarországi elhelyezési helyének címét.
 
+h) a szolgálati ideje alatt vele magyarországi közös háztartásban élő hozzátartozója
+
+ha) családi és utónevét,
+
+hb) születési helyét és idejét,
+
+hc) állampolgárságát,
+
+hd) rokonsági fokának megjelölését,
+
+he) személyazonosító okmányának vagy útlevelének számát,
+
+hf) magyarországi lakóhellyel vagy tartózkodási hellyel nem rendelkező hozzátartozó esetén a hozzátartozó magyarországi tartózkodása kezdetének és tervezett befejezésének időpontját.
+
 (3) Az (1) bekezdés c) pontjában meghatározott nyilvántartás a Magyarország területén tartózkodó külföldi fegyveres erő alábbi adatait tartalmazza:
 
 a) teljes megnevezését,
@@ -44,7 +58,7 @@ g) a külföldi fegyveres erőt a Magyarország területén történő termékbe
 
 h) az általa termékbeszerzéséhez vagy szolgáltatás igénybevételéhez használandó hivatalos pecsétjének mintáját,
 
-i) amennyiben nemzetközi szerződés vagy törvény a külföldi fegyveres erő állományába tartozó személyekre vonatkozó adómentességet ír elő, a külföldi fegyveres erő állományába tartozás tényét igazoló személy családi és utónevét, rendfokozatát, beosztását, állampolgárságát, valamint aláírásának mintáját.
+i) a g) pontban meghatározott személy e minőségének időtartamát a kezdő és befejező időpont megjelölésével.
 
 (4) Az (1) bekezdés d) pontjában meghatározott nyilvántartás a Magyarország területén felállított nemzetközi katonai parancsnokságok alábbi adatait tartalmazza:
 
@@ -60,6 +74,8 @@ e) a nemzetközi katonai parancsnokságot Magyarország területén történő t
 
 f) az általa termékbeszerzéséhez vagy szolgáltatás igénybevételéhez használandó hivatalos pecsétjének mintáját.
 
+g) az e) pontban meghatározott személy e minőségének időtartamát a kezdő és befejező időpont megjelölésével.
+
 (5) Az (1) bekezdés d) pontjában meghatározott nyilvántartás a Magyarország területén felállított nemzetközi katonai parancsnokságokhoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja alábbi adatait tartalmazza:
 
 a) a családi és utónevét, születési helyét és idejét, nemét és állampolgárságát, rendfokozatát és arcképmását,
@@ -74,12 +90,26 @@ e) a szolgálati célú tartózkodás kezdetének és tervezett befejezésének 
 
 f) a szolgálati célú tartózkodás ideje alatti magyarországi elhelyezési helyének címét.
 
-(6) Amennyiben külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi adatfeldolgozó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki.
+g) az állomány magyar állampolgárságú tagja magyar állampolgárságú hozzátartozójának kivételével, a szolgálati ideje alatt vele magyarországi közös háztartásban élő hozzátartozója
+
+ga) családi és utónevét,
+
+gb) születési helyét és idejét,
+
+gc) állampolgárságát,
+
+gd) rokonsági fokának megjelölését,
+
+ge) személyazonosító okmányának vagy útlevelének számát,
+
+gf) magyarországi lakóhellyel vagy tartózkodási hellyel nem rendelkező hozzátartozó esetén a hozzátartozó magyarországi tartózkodása kezdetének és tervezett befejezésének időpontját.
+
+(6) Ha a külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi adatfeldolgozó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki. Az igazolás kiállítására az 5. § (3) bekezdését megfelelően alkalmazni kell.
 
 (7) Az (1) bekezdésben meghatározott nyilvántartás vezetésének célja:
 
 a) az (1) bekezdésben meghatározott külföldi fegyveres erőkre, nemzetközi katonai parancsnokságokra és azok állományára vonatkozó nemzetközi szerződésekben foglalt, illetve a nemzetközi jog általánosan elismert szabályaiból eredő jogállásának biztosítása,
 
-b) az (1) bekezdésben meghatározott külföldi fegyveres erők, nemzetközi katonai parancsnokságok és azok állománya nemzetközi jogi normákban és a magyar jogszabályokban biztosított kiváltságai és mentességei fennálltának igazolása, valamint azok érvényesítésének és végrehajtásának biztosítása,
+b) az (1) bekezdésben meghatározott külföldi fegyveres erők, nemzetközi katonai parancsnokságok és azok állománya tagjai és hozzátartozóik nemzetközi jogi normákban és a magyar jogszabályokban biztosított kiváltságai és mentességei fennálltának igazolása, valamint azok érvényesítésének és végrehajtásának biztosítása,
 
 c) Magyarországnak a külföldi fegyveres erők Magyarország területén történő tartózkodásával összefüggő honvédelmi és nemzetbiztonsági védelmének hatékony ellátása.

@@ -34,19 +34,19 @@ e) a 4. § (2)–(5) bekezdésben foglalt adatokról az érintett külföldi feg
 
 f) a 4. § (3) bekezdés a), b), c) és f) pontjában és a 4. § (4) bekezdés a)–d) pontjában foglalt adatokról a katasztrófák elleni védekezés tervezésének és végrehajtásának elősegítése érdekében a katasztrófavédelemmel kapcsolatos ügyekben eljáró központi hatóság,
 
-g) a 4. § (2) bekezdés a), c), e), f) és g) pontjában és a 4. § (5) bekezdés a), c), d), e) és f) pontjában foglalt adatokról az érintett állomány és hozzátartozóik idegenrendészeti jogállásának igazolása és ellenőrzése céljából az illetékes idegenrendészeti hatóság,
+g) a 4. § (2) bekezdés a), c), e), f), g) és h) pontjában és a 4. § (5) bekezdés a), c), d), e), f) és g) pontjában foglalt adatokról az érintett állomány és hozzátartozóik idegenrendészeti jogállásának igazolása és ellenőrzése céljából az illetékes idegenrendészeti hatóság,
 
-h) a 4. § (2) bekezdés a), b), c), e) és g) pontjában, a 4. § (3) bekezdés a), e), g), h) és i) pontjában, a 4. § (4) bekezdés a), d), e), és f) pontjában és a 4. § (5) bekezdésében foglalt adatokról az adó- és vámmentesség fennálltának igazolása és ellenőrzése, valamint a vám- vagy adójogszabályok megsértése gyanújának felmerülése esetén az eljárás lefolytatása céljából
+h) a 4. § (2) bekezdés a), b), c), e), g) és h) pontjában, a 4. § (3) bekezdés a), e), g), h) és i) pontjában, a 4. § (4) bekezdés a), d), e), f) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról az adó- és vámmentesség fennálltának igazolása és ellenőrzése, valamint a vám- vagy adójogszabályok megsértése gyanújának felmerülése esetén az eljárás lefolytatása céljából
 
-ha) az adóhatóság,
+ha) az állami adóhatóság,
 
 hb) a vámhatóság,
 
-i) a 4. § (2) bekezdés a), c) és g) pontjában és a 4. § (5) bekezdés a), d) és f) pontjában foglalt adatokról az érintett állomány családjogi helyzetének Magyarország területén történő olyan megváltozása esetén, amely az érintett személy vagy hozzátartozója nemzetközi szerződésben vagy e törvényben foglalt jogállását, illetve egyes jogait érinti, az anyakönyvezést végző hatóság,
+i) a 4. § (2) bekezdés a), c), g) és h) pontjában és a 4. § (5) bekezdés a), d), f) és g) pontjában foglalt adatokról az érintett állomány családjogi helyzetének Magyarország területén történő olyan megváltozása esetén, amely az érintett személy vagy hozzátartozója nemzetközi szerződésben vagy e törvényben foglalt jogállását, illetve egyes jogait érinti, az anyakönyvezést végző hatóság,
 
-j) a 4. § (2) bekezdés a), b), c), e) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról a közlekedési igazgatási eljárás lefolytatása érdekében a közlekedési igazgatási hatóság,
+j) a 4. § (2) bekezdés a), b), c), e), g) és h) pontjában és a 4. § (5) bekezdésében foglalt adatokról a közlekedési igazgatási eljárás lefolytatása érdekében a közlekedési igazgatási hatóság,
 
-k) a 4. § (2) bekezdés a), c), e) és g) pontjában és a 4. § (5) bekezdés a), d), e) és f) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője és az elhelyezési helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+k) a 4. § (2) bekezdés a), c), e), g) és h) pontjában és a 4. § (5) bekezdés a), d), e), f) és g) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője és az elhelyezési helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 részére.
 
