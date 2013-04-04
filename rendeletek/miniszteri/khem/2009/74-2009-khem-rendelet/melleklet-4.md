@@ -1,4 +1,4 @@
-4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^15]
+4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^17]
 
 A rendszerhasználati díjak megállapításának keretszabályai
 
@@ -176,7 +176,7 @@ Ce: a belföldi felhasználású földgáz elosztása érdekében felmerülő k�
 
 h: a korábbi inflációs célkitűzés becslési hibáját korrigáló hibakorrekciós tényező,
 
-Y: az éves átlagos KSH tény – a háztartási energia sor elhagyásával számított – fogyasztói árváltozásból és az MNB által közzétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzés (az árelőkészítés lezárása előtti utolsó „Jelentés az infláció alakulásáról”) alapján képzett (előretekintő) átlagos fogyasztói árváltozás a tárgyidőszaki rendszeres ármegállapítási időszak közepe és az azt megelőző rendszeres ármegállapítási időszak közepe közötti időszakra számítva, százalékban kifejezve,
+Y: az MNB által közzétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzések (az árelőkészítés lezárása előtti utolsó „Jelentés az infláció alakulásáról”) alapján képzett (előretekintő) átlagos fogyasztói árváltozás a tárgyidőszaki rendszeres ármegállapítási időszak közepére számítva, százalékban kifejezve,
 
 Ye: a tárgyidőszaki rendszeres ármegállapítási javaslatot megelőző júliusi rendszeres ármegállapításnál –, illetve az első rendszeres ármegállapításnál az induló rendszerhasználati díjakra tett javaslatban – figyelembe vett fogyasztói árváltozás, százalékban kifejezve,
 
@@ -188,4 +188,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^15]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a szerint módosított szöveg.
+[^17]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a szerint módosított szöveg.
