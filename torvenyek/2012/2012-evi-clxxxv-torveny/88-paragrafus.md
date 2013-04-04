@@ -80,7 +80,7 @@
 
 11. az elkülönített hulladékgyűjtésre vonatkozó szabályokat;
 
-12. az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére a hulladékgazdálkodási közszolgáltatásra vonatkozó felügyeleti díjak, valamint az egyéb bevételek beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+12.
 
 (3) Felhatalmazást kap:
 
@@ -96,7 +96,9 @@ b) a hulladékgazdálkodási közszolgáltatási díj megállapításáért fele
 
 ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
 
-bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét
+bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
+
+bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

@@ -4,7 +4,7 @@
 
 (3) A kéttényezős díj rendelkezésre állási díjból és ürítési díjból áll. A rendelkezésre állási díj a kezelt hulladék mennyiségétől függetlenül felmerülő üzemeltetési költségek, az ürítési díj a kezelt hulladék mennyiségétől függő költségek fedezetére szolgál.
 
-(4) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energia Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg. A hulladékgazdálkodási közszolgáltatási díj megállapításakor rendelkezni kell arról, hogy a hulladékgazdálkodási közszolgáltatási díjat megállapító rendelet mikor lép hatályba. E rendelkezésnek visszamenőleges hatálya nem lehet.
+(4) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg. A hulladékgazdálkodási közszolgáltatási díj megállapításakor rendelkezni kell arról, hogy a hulladékgazdálkodási közszolgáltatási díjat megállapító rendelet mikor lép hatályba. E rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (5) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a miniszter részére minden év szeptember 30-ig megküldi.
 
