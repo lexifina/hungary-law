@@ -22,7 +22,7 @@ i) a polgári robbantási tevékenységet és a polgári felhasználású robban
 
 j) a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenység folytatását.
 
-(2) A kőolaj- és földgázbányászatra jogosult bányavállalkozó – a Magyar Energia Hivatal földgáztárolásra vonatkozó működési engedélyének birtokában – a bányafelügyeletnél kezdeményezheti a bányatelek föld alatti gáztárolásra történő kiterjesztésének engedélyezését, ha az a környezetet nem szennyezi, veszélyezteti vagy károsítja.
+(2) A kőolaj- és földgázbányászatra jogosult bányavállalkozó – a Magyar Energetikai és Közmű-szabályozási Hivatal földgáztárolásra vonatkozó működési engedélyének birtokában – a bányafelügyeletnél kezdeményezheti a bányatelek föld alatti gáztárolásra történő kiterjesztésének engedélyezését, ha az a környezetet nem szennyezi, veszélyezteti vagy károsítja.
 
 (3) Az e törvény szerint engedélyköteles tevékenységeket a bányafelügyelet által kiadott engedélyek alapján lehet megkezdeni, és az abban foglalt feltételek szerint gyakorolni.
 

@@ -34,7 +34,7 @@ gyakorolja.
 
 (4) A bányafelügyelet azt a természetes vagy jogi személyt, jogi személyiség nélküli gazdasági társaságot, aki, illetőleg amely külön jogszabály hatálya alá tartozó, a bányafelügyelet által kiadott hatósági engedélyhez kötött gázipari tevékenységet (földgáz tárolása, vezetéken történő elosztása, szállítása, egyéb gázok vezetéken történő szállítása, cseppfolyós propán-, butángázok és ezek elegyei vezetéken történő elosztása, tartályban vagy palackban történő forgalmazása) engedély nélkül végez, bírsággal sújthatja és eltilthatja a tevékenység folytatásától.
 
-(5) Azt a (4) bekezdésben meghatározott gázipari tevékenység végzésére jogosult engedélyest, amely a tevékenységét jogszabályban vagy a bányafelügyelet határozatában foglalt előírásoktól eltérően gyakorolja, a bányafelügyelet bírsággal sújthatja és a tevékenységét felfüggesztheti vagy a bányafelügyelet által kiadott engedélyt visszavonhatja. Abban az esetben, ha az intézkedés a földgázellátásról szóló törvény hatálya alá tartozó földgázipari tevékenységet érint, a bányafelügyelet a javasolt intézkedésről értesíti a Magyar Energia Hivatalt.
+(5) Azt a (4) bekezdésben meghatározott gázipari tevékenység végzésére jogosult engedélyest, amely a tevékenységét jogszabályban vagy a bányafelügyelet határozatában foglalt előírásoktól eltérően gyakorolja, a bányafelügyelet bírsággal sújthatja és a tevékenységét felfüggesztheti vagy a bányafelügyelet által kiadott engedélyt visszavonhatja. Abban az esetben, ha az intézkedés a földgázellátásról szóló törvény hatálya alá tartozó földgázipari tevékenységet érint, a bányafelügyelet a javasolt intézkedésről értesíti a Magyar Energetikai és Közmű-szabályozási Hivatalt.
 
 (6) A bírság ismételten kiszabható.
 

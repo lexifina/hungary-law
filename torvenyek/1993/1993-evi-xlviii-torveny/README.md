@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2012-09-01 | 2012. évi LXXXVIII. törvény | 1993-48-00-00.53 |
 | 2012-12-31 | 2012. évi CCXVII. törvény | 1993-48-00-00.54 |
 | 2013-01-26 | 2012. évi CCXVII. törvény | 1993-48-00-00.55 |
+| 2013-04-04 | 2013. évi XXII. törvény | 1993-48-00-00.56 |
