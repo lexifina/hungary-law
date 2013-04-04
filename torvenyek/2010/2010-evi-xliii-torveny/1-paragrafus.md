@@ -42,7 +42,7 @@ a) a Központi Statisztikai Hivatal,
 
 b)
 
-c) a Magyar Energia Hivatal,
+c)
 
 d) az Országos Atomenergia Hivatal,
 
@@ -68,4 +68,6 @@ f) a polgári nemzetbiztonsági szolgálatok.
 
 a) a Nemzeti Média- és Hírközlési Hatóság,
 
-b) a Pénzügyi Szervezetek Állami Felügyelete.
+b) a Pénzügyi Szervezetek Állami Felügyelete,
+
+c) a Magyar Energetikai és Közmű-szabályozási Hivatal.
