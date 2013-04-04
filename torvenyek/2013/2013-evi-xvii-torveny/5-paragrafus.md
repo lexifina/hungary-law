@@ -1,3 +1,0 @@
-5. § A Küfetv. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés a) és c) pontja alkalmazása tekintetében a gépjármű tulajdonosa a gépjármű forgalomba helyezéséhez kapcsolódó adóigazgatási eljárás során – a jogosultságát igazoló okmányok bemutatása mellett – a vámhatóság előtt nyilatkozik a behozatal ideiglenességéről, a használat céljáról, és a gépjárművet használó személynek a 4. § (2) bekezdés h) pontjában, illetve a 4. § (5) bekezdés g) pontjában meghatározott adatairól. Az eljáró vámhatóság a regisztrációs adóról szóló törvény alapján határozatban állapítja meg az (1) bekezdés szerinti adómentesség fennálltát vagy annak hiányát.”
