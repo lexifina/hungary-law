@@ -1,0 +1,1 @@
+37. § A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény 11/A. § (2) bekezdésében a „Magyar Energia Hivatal” szövegrész helyébe a „Magyar Energetikai és Közmű-szabályozási Hivatal” szöveg lép.

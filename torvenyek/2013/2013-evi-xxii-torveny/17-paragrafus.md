@@ -1,0 +1,3 @@
+17. § (1) A Hivatal köztisztviselője – a közszolgálati tisztviselőkről szóló törvény szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a Hivatal feladat- és hatáskörébe tartozó tevékenységi területen működő szervezettel.
+
+(2) A Hivatal köztisztviselője öröklés kivételével nem szerezhet tulajdoni részesedést a 3. § (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetben.

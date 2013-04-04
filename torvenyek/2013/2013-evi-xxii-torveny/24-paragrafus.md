@@ -1,0 +1,1 @@
+24. § A tárgykörre vonatkozóan a Hivatal rendeletének hatálybalépéséig hatályban marad és alkalmazandó a MEH e törvény hatálybalépésekor hatályban lévő határozata, kivéve ha a MEH határozata hatályát veszti. A Hivatal az általa kiadott rendelet hatálybalépésével egyidejűleg köteles a tárgykörre vonatkozó határozatát visszavonni.
