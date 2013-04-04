@@ -14,4 +14,4 @@ b) az önkormányzati kezességvállalást igazoló dokumentumokat.
 
 (6) Az államháztartásért felelős miniszter az (5) bekezdés szerinti adatszolgáltatás alapján gondoskodik az (1)–(4) bekezdés szerinti adósságelemek 2013. június 28-áig történő átvállalásáról akként, hogy az ÁKK Zrt. útján megállapodást köt a gazdasági társaságokkal és azok hitelezőivel.
 
-(7) A kincstár 2013. év végéig felülvizsgálhatja, hogy az (5) bekezdés szerinti adatszolgáltatás tartalma megfelel-e az (1)–(2) bekezdés előírásainak. Ha a kincstár megállapítja, hogy oda nem tartozó adósságelemet vállalt át az állam, határozatban dönt az átvállalt összeg államnak történő megtérítéséről. A fekvőbeteg intézmények átvételét szabályozó törvény 2. § (1) bekezdése szerinti kijelölt szervnek a téves besorolás miatt jogtalanul igénybevett állami adósságátvállaláshoz kötődő adósság és járulék összegét a kincstári határozat kézhezvételét követő 90 napon belül a jegybanki alapkamat kétszeresének megfelelő mértékű kamattal növelten kell megfizetnie az állam részére.
+(7)

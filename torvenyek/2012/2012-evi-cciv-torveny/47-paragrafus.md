@@ -4,7 +4,7 @@
 
 47. § (1) Nem terjed ki a tervezési, az előirányzat-módosítási és -felhasználási, a beszámolási, az információszolgáltatási és az ellenőrzési kötelezettsége és joga
 
-a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím,
+a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím, 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím
 
 b) a XI. Miniszterelnökség fejezeten belül a miniszterelnökséget vezető államtitkárnak – mint a fejezetet irányító szerv vezetőjének – a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím
 
@@ -14,15 +14,17 @@ előirányzataira.
 
 a) az I. Országgyűlés fejezet,
 
-aa) 5. Közbeszerzési Hatóság cím felett a Közbeszerzési Hatóság elnöke,
+aa) 5. Közbeszerzési Hatóság cím tekintetében a Közbeszerzési Hatóság elnöke,
 
-ab) a 20. Pénzügyi Szervezetek Állami Felügyelete cím felett a Pénzügyi Szervezetek Állami Felügyeletének elnöke,
+ab) 20. Pénzügyi Szervezetek Állami Felügyelete cím tekintetében a Pénzügyi Szervezetek Állami Felügyeletének elnöke,
 
-ac) a 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím felett a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
+ac) 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
-ad) a 22. Egyenlő Bánásmód Hatóság cím felett az Egyenlő Bánásmód Hatóság elnöke,
+ad) 22. Egyenlő Bánásmód Hatóság cím tekintetében az Egyenlő Bánásmód Hatóság elnöke,
 
-b) a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím esetében a Kormányzati Ellenőrzési Hivatal elnöke
+ae) 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
+
+b) a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím tekintetében a Kormányzati Ellenőrzési Hivatal elnöke
 
 gyakorolja.
 

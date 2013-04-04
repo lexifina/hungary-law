@@ -38,7 +38,7 @@ j) a helyi önkormányzatokért felelős miniszter, hogy – az államháztartá
 
 ja) az Áht. 33. § (1) bekezdése alapján a IX. Helyi önkormányzatok támogatásai fejezetben létrehozott új előirányzatból nyújtott támogatás és
 
-jb) a 4. melléklet 1. III. pontja és 2–3. pontja szerinti támogatás,
+jb) a 4. melléklet 1. IV. pontja és 2–3. pontja szerinti támogatás,
 
 k) az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy – az államháztartásért felelős miniszter, valamint a helyi önkormányzatokért felelős miniszter egyetértésével – a 3. melléklet 16. pontja szerinti támogatás,
 

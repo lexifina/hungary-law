@@ -2840,6 +2840,330 @@ Dologi kiadások
 
 |
 
+23
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Magyar Energetikai és Közmű-szabályozási Hivatal
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+Működési költségvetés
+
+|
+
+|
+
+4 732,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+Személyi juttatások
+
+|
+
+1 275,4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+Munkaadókat terhelő járulékok és szociális hozzájárulási adó
+
+|
+
+326,9
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+Dologi kiadások
+
+|
+
+3 094,2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+Egyéb működési célú kiadások
+
+|
+
+15,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+Felhalmozási költségvetés
+
+|
+
+|
+
+2,5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+Beruházások
+
+|
+
+15,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+Felújítások
+
+|
+
+2,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+Egyéb felhalmozási kiadások
+
+|
+
+6,0
+
+|
+
+|
+
+|
+
+23. cím összesen
+
+|
+
+4 734,5
+
+|
+
+4 734,5
+
+|
+
+|
+
 |
 
 |
@@ -2856,11 +3180,11 @@ I. fejezet összesen:
 
 |
 
-119 014,5
+123 749,0
 
 |
 
-11 130,0
+15 864,5
 
 |
 
@@ -9858,7 +10182,7 @@ Közszférában foglalkoztatottak bérkompenzációja
 
 |
 
-89 528,7
+79 528,7
 
 |
 
@@ -9910,7 +10234,7 @@ X. fejezet összesen:
 
 |
 
-343 129,4
+333 129,4
 
 |
 
@@ -30794,350 +31118,6 @@ Egyéb működési célú kiadások
 
 |
 
-6
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Magyar Energia Hivatal
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Működési költségvetés
-
-|
-
-|
-
-4 732,0
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Személyi juttatások
-
-|
-
-1 275,4
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Munkaadókat terhelő járulékok és szociális hozzájárulási adó
-
-|
-
-326,9
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Dologi kiadások
-
-|
-
-3 094,2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-5
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Egyéb működési célú kiadások
-
-|
-
-15,0
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-2,5
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Beruházások
-
-|
-
-15,0
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Felújítások
-
-|
-
-2,0
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Egyéb felhalmozási kiadások
-
-|
-
-6,0
-
-|
-
-|
-
-|
-
 7
 
 |
@@ -33884,11 +33864,11 @@ Kormányzati szakpolitikai feladatok
 
 |
 
-316 742,4
+312 007,9
 
 |
 
-102 154,4
+97 419,9
 
 |
 
@@ -34130,11 +34110,11 @@ XVII. fejezet összesen:
 
 |
 
-579 089,6
+574 355,1
 
 |
 
-177 154,4
+172 419,9
 
 |
 
@@ -46508,6 +46488,38 @@ Kisforgalmú gyógyszertárak működtetési támogatása
 
 |
 
+|
+
+21
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Megszűnő, egészségügyi és hozzá kapcsolódó feladatokat ellátó gazdasági társaságoktól átszállt adósság rendezése
+
+|
+
+9 500,0
+
+|
+
+|
+
+9 500,0
+
+|
+
+|
+
 23
 
 |
@@ -50336,7 +50348,7 @@ Roma ösztöndíj programok
 
 |
 
-1 813 971,9
+1 823 471,9
 
 |
 
@@ -50344,7 +50356,7 @@ Roma ösztöndíj programok
 
 |
 
-1 038 870,9
+1 048 370,9
 
 |
 
@@ -51172,7 +51184,7 @@ XX. fejezet összesen:
 
 |
 
-2 645 079,4
+2 654 579,4
 
 |
 
@@ -51180,7 +51192,7 @@ XX. fejezet összesen:
 
 |
 
-1 038 870,9
+1 048 370,9
 
 |
 
@@ -62102,6 +62114,32 @@ Hollandia és Svédország számára teljesítendő bruttó GNI csökkentés
 
 |
 
+38
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A települési önkormányzatok adósságkonszolidációjához kapcsolódó állami támogatás
+
+|
+
+30 000,0
+
+|
+
+|
+
+|
+
 41
 
 |
@@ -62240,6 +62278,34 @@ Munkahelyvédelmi akciótervvel összefüggő hozzájárulás NFA-nak
 
 |
 
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A kötelező legkisebb munkabér és a garantált bérminimum rendezéssel összefüggő támogatás NFA-nak
+
+|
+
+10 000,0
+
+|
+
+|
+
+|
+
+|
+
 2
 
 |
@@ -62338,7 +62404,7 @@ XLII. fejezet összesen:
 
 |
 
-1 837 058,3
+1 877 058,3
 
 |
 
@@ -65684,6 +65750,32 @@ Foglalkoztathatóság és Alkalmazkodóképesség EU-s társfinanszírozása
 
 |
 
+16
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A kötelező legkisebb munkabér és a garantált bérminimum emelés ágazati támogatása
+
+|
+
+10 000,0
+
+|
+
+|
+
+|
+
 25
 
 |
@@ -65916,7 +66008,7 @@ Költségvetési támogatás
 
 |
 
-10 000,0
+20 000,0
 
 |
 
@@ -65964,11 +66056,11 @@ Munkahelyvédelmi akciótervvel összefüggő hozzájárulás
 
 |
 
-345 140,6
+355 140,6
 
 |
 
-319 140,6
+329 140,6
 
 |
 
@@ -66042,11 +66134,11 @@ LXIII. fejezet összesen:
 
 |
 
-345 140,6
+355 140,6
 
 |
 
-345 140,6
+355 140,6
 
 |
 
@@ -72866,7 +72958,7 @@ KIADÁSI FŐÖSSZEG:
 
 |
 
-16 155 650,9
+16 205 150,9
 
 |
 
@@ -72886,7 +72978,7 @@ BEVÉTELI FŐÖSSZEG:
 
 |
 
-15 313 816,1
+15 323 816,1
 
 |
 
@@ -72906,4 +72998,4 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
--841 834,8
+-881 334,8

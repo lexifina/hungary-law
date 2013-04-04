@@ -30,13 +30,9 @@ c) az államháztartásról szóló jogszabályok alapján költségvetési évb
 
 IV. A tartalék előirányzat szolgál a helyi önkormányzatok működőképessége megőrzését szolgáló kiegészítő támogatás forrásául.
 
-A helyi önkormányzatok kiegészítő támogatást – Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 118. § (5) bekezdésére figyelemmel – kivételes esetben, működőképességüket veszélyeztető helyzet esetén igényelhetnek.
+A helyi önkormányzatok kiegészítő támogatást – Mötv. 118. § (2) bekezdésére figyelemmel – kivételes esetben, működőképességüket veszélyeztető helyzet esetén igényelhetnek.
 
 Az önkormányzat a támogatási igényt a helyi önkormányzatokért felelős miniszter által működtetett informatikai rendszerben lezárja, és a rendszerből generált adatlapokat a kincstár illetékes területi szervéhez nyújtja be papír alapon.
-
-Az igénylést a költségvetési év során április 30-áig, szeptember 10-éig és november 5-éig lehet benyújtani.
-
-Támogatási igényt az önkormányzat a költségvetési évben legfeljebb két alkalommal nyújthat be, kivéve, ha olyan előre nem látható esemény következik be, amely az önkormányzat működőképességét veszélyezteti.
 
 A kincstár a saját nyilvántartásából elérhető és az önkormányzattól – indokolt esetben helyszíni ellenőrzés során – rendelkezésre álló dokumentumokkal kiegészített igénylést megküldi a helyi önkormányzatokért felelős miniszternek és az államháztartásért felelős miniszternek.
 
@@ -64,6 +60,6 @@ Előirányzat: 100,0 millió forint
 
 a) Visszterhes kamattámogatást igényelhet az a helyi önkormányzat, amely a helyi önkormányzatok adósságrendezési eljárásáról szóló törvényben szabályozott eljárás keretében az egyezséget pénzügyi intézménytől felvett hitellel teremtette meg. Ha a kamattámogatás alapjául szolgáló hitel forinttól eltérő devizanemű, a kamattámogatást a Magyar Nemzeti Bank által a kamattámogatás esedékességét megelőző második munkanappal közzétett, az adott devizára vonatkozó középárfolyam figyelembevételével kell kiszámítani. A kamattámogatás feltételeit a helyi önkormányzatokért felelős miniszter és a helyi önkormányzat megállapodásban rögzíti.
 
-b) A helyi önkormányzatok adósságrendezési eljárásában közreműködő pénzügyi gondnokok díjához állami támogatás vehető igénybe. A pénzügyi gondnok díjának összege – az általános forgalmi adóval együtt – legalább 800 ezer forint, legfeljebb 3 000 ezer forint.
+b) A helyi önkormányzatok adósságrendezési eljárásában közreműködő pénzügyi gondnokok díjához költségvetési támogatás vehető igénybe. A pénzügyi gondnok díjának összege – az általános forgalmi adóval együtt – legalább 800 ezer forint, legfeljebb 3 000 ezer forint.
 
 A pénzügyi gondnok díjának folyósításáról – a bíróság díjmegállapító végzésének jogerőre emelkedését követően – a helyi önkormányzatokért felelős miniszter intézkedik.

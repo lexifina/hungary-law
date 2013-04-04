@@ -831,7 +831,3 @@ a) A nevelőszülőnél biztosított otthont nyújtó ellátás esetén alkalmaz
 b) A nevelőszülőnél biztosított különleges ellátás esetén alkalmazandó korrekciós szorzóval számított támogatást a nevelőszülői hálózatot fenntartó veheti igénybe
 
 ba) az ideiglenes hatállyal elhelyezett, a Gyvt. 53. § (2) bekezdés a) pontja szerinti 0-3 éves életkorú különleges szükségletű gyermekek,
-
-bb) ideiglenes hatállyal elhelyezett nem magyar állampolgárságú a gyermekvédelmi szakértői bizottság szakvéleménye és a gyámhivatal határozata alapján különleges szükségletű gyermekek,
-
-bc) gyámhatósági határozattal átmeneti vagy tartós nevelésbe vett, a gyermekvédelmi szakértői bizottság szakvéleménye és a gyámhivatal határozata alapján a Gyvt. 53. § (2) bekezdés a) pontja szerinti különleges szükségletű gyermekek

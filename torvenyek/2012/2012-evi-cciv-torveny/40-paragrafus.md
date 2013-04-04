@@ -5,3 +5,5 @@
 (3) Az MFB Zrt. által forrásszerzés céljából felvett – euróban meghatározott – éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan a Kormány határozata alapján vállalható árfolyam fedezeti megállapodás által fedezett források forintban számított együttes állománya a 2013. év folyamán legfeljebb 1 800 000,0 millió forint lehet.
 
 (4) Az (1)–(3) bekezdésben meghatározott kereteket a tényleges állományok az év egyetlen napján sem haladhatják meg.
+
+(5) A (2) bekezdés szerinti kötelezettségvállalásokhoz kapcsolódó állami kezesség után az állam javára felszámítandó kezességvállalási díj mértékét a Kormány határozatban állapítja meg.

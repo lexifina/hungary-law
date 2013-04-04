@@ -13,3 +13,5 @@
 (6) Az Elektronikus Információszolgáltatás Nemzeti Program működtetésével kapcsolatos feladatokra a feladatot ellátó MTA Könyvtára részére a LXIX. Kutatási és Technológiai Innovációs Alap fejezet, 1. Hazai innováció támogatása cím terhére 2013. évben 1426,0 millió forint támogatást kell biztosítani.
 
 (7) A Kutatási és Technológiai Innovációs Alap a 2013. évben a központi költségvetésbe összesen 10 000,0 millió forintot ad át a kutatás-fejlesztési tevékenység Kutatási és Technológiai Innovációs Alapon kívüli finanszírozásához. A befizetési kötelezettséget negyedévente, az éves előirányzat 1/4 részével kell teljesíteni.
+
+(8) A kötelező legkisebb munkabér és a garantált bérminimum rendezéssel összefüggő támogatás fel nem használt részét a Nemzeti Foglalkoztatási Alap 2013. október 31-ig befizeti a központi költségvetésbe.

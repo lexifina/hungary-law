@@ -168,6 +168,16 @@ GYES-en és GYED-en lévők hallgatói hitelének célzott támogatása (20. cí
 
 |
 
+16a
+
+|
+
+|
+
+Megszűnő, egészségügyi és hozzá kapcsolódó feladatokat ellátó gazdasági társaságoktól átszállt adósság rendezése (20. cím, 22. alcím, 21. jogcímcsoport)
+
+|
+
 17
 
 |
@@ -451,6 +461,16 @@ Nemzetközi elszámolások kiadásai (36. cím)
 |
 
 Hozzájárulás az EU költségvetéséhez (37. cím)
+
+|
+
+45a
+
+|
+
+|
+
+A települési önkormányzatok adósságkonszolidációjához kapcsolódó állami támogatás (38. cím)
 
 |
 

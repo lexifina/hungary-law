@@ -18,7 +18,7 @@ A központi költségvetés támogatást biztosít az önkormányzati hivatal m�
 
 aa) 2013. év első négy hónapjára időarányos támogatás (a továbbiakban: átmeneti támogatás) illeti meg az önkormányzatot annak figyelembevételével, ahogy - az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet (a továbbiakban: Ávr.) alapján 2012. október 15-éig megvalósított, normatív hozzájárulás, támogatás módosítására vonatkozó felmérés alapján - az önkormányzati hivatal működtetéséről 2012. év december hónapban gondoskodott,
 
-ab) 2013. május 1-jétől nyolc havi időarányos támogatás illeti meg az önkormányzatot annak figyelembevételével, ahogy 2013. május 1-jén az önkormányzati hivatali feladatokról gondoskodik.
+ab) 2013. május 1-jétől nyolc havi időarányos támogatás illeti meg az önkormányzatot annak figyelembevételével, ahogy a törzskönyvi nyilvántartás szerint az önkormányzati hivatali feladatokról 2013. április 15-én gondoskodik, vagy ha a közös hivatalhoz tartozó településeket a kormányhivatal vezetője jelölte ki, és ennek átvezetése a törzskönyvi nyilvántartásban 2013. április 15-éig nem történt meg, a kijelölés szerint.
 
 A támogatás meghatározása az elismert hivatali létszám alapján a személyi és dologi kiadások elismert átlagos költségei figyelembevételével történik. Az aa) alpont szerinti esetben a körjegyzőség hivatala, az ab) alpont szerinti esetben a közös önkormányzati hivatal esetében
 
@@ -64,7 +64,7 @@ Kb = a Kiegészítő szabályok 1. bbb) alpontja szerinti korrekciós tényező,
 
 Kc = a Kiegészítő szabályok 1. bbc) alpontja szerinti korrekciós tényező.
 
-A közös hivatal esetében a közös hivatalt alkotó nyolcadik és minden további település után, az elismert hivatali létszám településenként 1 fővel nő. A járási székhely önkormányzat, illetve az 5000 fő lakosságszám feletti község, nagyközség önkormányzata esetében az elismert hivatali létszám 2 fővel emelkedik függetlenül attól, hogy önállóan, körjegyzőség vagy közös hivatal útján gondoskodik a hivatali feladatok ellátásáról.
+A körjegyzőség, közös hivatal esetében a körjegyzőséget, közös hivatalt alkotó nyolcadik és minden további település után, az elismert hivatali létszám településenként 1 fővel nő. A járási székhely önkormányzat, illetve az 5000 fő lakosságszám feletti község, nagyközség önkormányzata esetében az elismert hivatali létszám 2 fővel emelkedik függetlenül attól, hogy önállóan, körjegyzőség vagy közös hivatal útján gondoskodik a hivatali feladatok ellátásáról.
 
 b) Település-üzemeltetéshez kapcsolódó feladatellátás támogatása
 
@@ -168,7 +168,7 @@ A 2011. július 1-jén hatályos iparűzési adórendelettel rendelkező telepü
 
 Az elvárt bevétel számítása során az iparűzési adóalap a fővárosi és a kerületi önkormányzatok között a 8/2012. (II. 10.) Főv. Kgy. rendelet szerint kerül megosztásra.
 
-d) Egyéb kötelező önkormányzati feladatok támogatása
+d) Egyéb önkormányzati feladatok támogatása
 
 |
 
@@ -184,7 +184,9 @@ FAJLAGOS ÖSSZEG:
 
 de településenként legalább 3 000 000 forint.
 
-A központi költségvetés támogatást biztosít a települési önkormányzatok számára a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 13. §-ában meghatározott egyes - az 1. a)-b) alpontokban nem nevesített - feladatok ellátására. Budapest Főváros Önkormányzata e jogcímen 2 000 millió forint támogatásra jogosult.
+A központi költségvetés támogatást biztosít a települési önkormányzatok számára a Mötv. 13. §-ában meghatározott egyes - az 1. a)-b) alpontokban nem nevesített - feladatok ellátására. Budapest Főváros Önkormányzata e jogcímen 2 000 millió forint támogatásra jogosult.
+
+e) Közös szabályok: Az a)–d) pont szerinti támogatások együttes összege kizárólag az igazgatással, település-üzemeltetéssel és egyéb önkormányzati feladatokkal kapcsolatos működési kiadásokra használható fel.
 
 2. Megyei önkormányzatok működésének támogatása
 
@@ -522,7 +524,7 @@ FAJLAGOS ÖSSZEG:
 
 A támogatás a települési önkormányzatot a nem a közvetlen szakmai feladatellátásban dolgozók béréhez, az óvodai nevelést biztosító, jogszabályban foglalt eszközök és felszerelések beszerzéséhez, valamint a feladatellátásra szolgáló épület és annak infrastruktúrája folyamatos működtetéséhez szükséges kiadásokhoz kapcsolódóan illeti meg az általa fenntartott óvodában nevelt - az 1. a) alpontban figyelembe vett - gyermeklétszám után. A létszám meghatározásakor minden gyermeket egy főként kell figyelembe venni.
 
-A 2012/2013. nevelési évre jutó támogatási összeg 7,5%-ának folyósítása január utolsó munkanapján, 17,5%-ának folyósítása február utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
+A 2012/2013. nevelési évre jutó támogatási összeg 7,5%-ának folyósítása január utolsó munkanapján, 17,5%-ának folyósítása március utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
 
 3. Ingyenes és kedvezményes gyermekétkeztetés támogatása
 
@@ -572,11 +574,11 @@ ELŐIRÁNYZAT:
 
 A támogatás az Mötv. alapján létrehozott társulás, többcélú kistérségi társulás, intézményi társulás által fenntartott óvodákba járó - az 1. a) alpontban figyelembe vett - gyermeklétszámból azon gyermekek után igényelhető, akik a lakóhelyüktől, ennek hiányában tartózkodási helyüktől eltérő településen veszik igénybe az óvodai ellátást és utaztatásuk autóbusz működtetésével, iskolabusz-szolgáltatás vagy külön célú menetrendszerinti autóbusz szolgáltatás vásárlásával biztosított. A létszám meghatározásakor minden gyermeket egy főként kell figyelembe venni. E támogatás szempontjából iskolabusz-szolgáltatás vásárlásnak minősül a menetrendtől függetlenül kizárólag e célból indított járat(ok) igénybevétele. A támogatás igénybevételének további feltétele, hogy az utaztatott gyermekek mellett kísérő utazzon.
 
-A 2012/2013. nevelési évre jutó támogatási összeg 25%-ának folyósítása február utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
+A 2012/2013. nevelési évre jutó támogatási összeg 25%-ának folyósítása március utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
 
 Az elszámolásnál a 2012/2013. nevelési évben és a 2013/2014. nevelési évben utaztatott gyermekek számát kell figyelembe venni a közoktatási intézmények vezetőjének adatszolgáltatása alapján.
 
-Az 1. és 2. pont szerinti támogatások kizárólag a támogatással érintett óvodaintézmények kiadásaira használhatók fel. A 3. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére számolható el. A 4. pont szerinti támogatás kizárólag a gyermekek utaztatásával kapcsolatos kiadásokra használható fel.
+5. Közös szabályok: Az 1. és 2. pont szerinti támogatások kizárólag a támogatással érintett óvodaintézmények kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A 3. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre) számolható el. A 4. pont szerinti támogatás kizárólag a gyermekek utaztatásával kapcsolatos kiadásokra használható fel.
 
 III. A TELEPÜLÉSI ÖNKORMÁNYZATOK SZOCIÁLIS ÉS GYERMEKJÓLÉTI FELADATAINAK TÁMOGATÁSA
 
@@ -978,7 +980,7 @@ ahol:
 
 Szt = személyi térítési díjakból származó bevétel várható éves összege.
 
-Az intézmény-üzemeltetési támogatás megállapításához szükséges adatszolgáltatás rendjét a Kiegészítő szabályok 2. a) alpontja, tartalmát az államháztartásért felelős miniszter által - a szociális ügyekért felelős miniszterrel és a helyi önkormányzatokért felelős miniszter véleményének kikérésével - kiadott útmutató rögzíti.
+Az intézmény-üzemeltetési támogatás megállapításához szükséges adatszolgáltatás rendjét a Kiegészítő szabályok 2. a) alpontja, tartalmát az államháztartásért felelős miniszter által - a szociális ügyekért felelős miniszterrel és a helyi önkormányzatokért felelős miniszter véleményének kikérésével - kiadott útmutató rögzíti, amelyet az elszámolás során is figyelembe kell venni.
 
 Az intézmény-üzemeltetési támogatás önkormányzatonkénti meghatározásáról és annak összegéről - az önkormányzati adatszolgáltatás alapján - a szociális ügyekért felelős miniszter, az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter 2013. január 4-éig döntenek. A Kiegészítő szabályok 2. b) alpontja szerinti áprilisi adatszolgáltatás alapján a miniszterek döntésüket módosíthatják.
 
@@ -3668,7 +3670,7 @@ bbb.2) 4 vagy több nemzetiségi önkormányzat: 0,07,
 
 bbc) közös hivatal székhelye járási székhely önkormányzat: 0,04.
 
-Körjegyzőség hivatalára a bba) alpont szerinti korrekciós tényezőt a táblázat bba.2) alpontja szerint kell figyelembe venni. A körjegyzőség hivatalára a bbb) és bbc) alpontok szerinti korrekciós tényező nem vonatkozik.
+A körjegyzőség hivatalára a bbb) és bbc) alpontok szerinti korrekciós tényező nem vonatkozik.
 
 bc) Az átmeneti támogatást 2013. április 30-áig éves támogatásként kell megállapítani.
 
@@ -3772,15 +3774,13 @@ Sorszám
 
 |
 
-Támogatás
-
-jogcíme
+Támogatás jogcíme
 
 |
 
-Adatszolgáltatás
+Adat-
 
-időpontja
+szolgáltatás időpontja
 
 |
 
@@ -3796,27 +3796,9 @@ Adatszolgáltatás célja
 
 |
 
-I. 1. ab)
+II. 1.
 
-|
-
-2013. április 15.
-
-|
-
-az önkormányzati hivatal fenntartásával kapcsolatos adatok 2013. május hónaptól
-
-|
-
-I. 1. ab) jogcímen nyújtott támogatás meghatározása
-
-|
-
-2.
-
-|
-
-II. 1.és II. 2.
+és II. 2.
 
 |
 
@@ -3832,11 +3814,13 @@ a felmért gyermeklétszám, vezetői órakedvezmény miatti pedagógus többlet
 
 |
 
-3.
+2.
 
 |
 
-II. 3. és III. 3.
+II. 3.
+
+és III. 3.
 
 |
 
@@ -3852,7 +3836,7 @@ a II.3. és III.3. támogatási jogcímek meghatározása
 
 |
 
-4.
+3.
 
 |
 
@@ -3860,23 +3844,21 @@ II. 4.
 
 |
 
-2013. január 15.
+2013.
+
+január 15.
 
 |
 
-e tábla 2. pont szerinti gyermeklétszámából a 2012/2013. nevelési évben ténylegesen utaztatott gyermekek, továbbá 2013/2014. nevelési évben az utaztatott gyermekek becsült száma
+e tábla 1. pont szerinti gyermeklétszámából a 2012/2013. nevelési évben ténylegesen utaztatott gyermekek, továbbá 2013/2014. nevelési évben az utaztatott gyermekek becsült száma
 
 |
 
-utaztatott gyermekek
-
-támogatásának
-
-megalapozása
+utaztatott gyermekek támogatásának megalapozása
 
 |
 
-5.
+4.
 
 |
 
@@ -3888,7 +3870,7 @@ az Ávr. szerint
 
 |
 
-a 2011. évi zárszámadás adatai alapján - a 2012. évi változások, 2013. évi paraméterek figyelembevételével - 2013. évre becsült adatok
+a 2011. évi zárszámadás adatai alapján – a 2012. évi változások, 2013. évi paraméterek figyelembevételével – 2013. évre becsült adatok
 
 |
 
@@ -3896,7 +3878,7 @@ a 2011. évi zárszámadás adatai alapján - a 2012. évi változások, 2013. �
 
 |
 
-6.
+5.
 
 |
 
@@ -3904,7 +3886,9 @@ IV. 1. h)
 
 |
 
-2013. január 15.
+2013.
+
+január 15.
 
 |
 
@@ -3912,7 +3896,7 @@ IV. 1. h)
 
 |
 
-A megyei könyvtárral 2012. december 31-éig megállapodást kötő önkormányzatok számának felmérése a megyei jogú városok adatszolgáltatása alapján.
+a megyei könyvtárral 2012. december 31-éig megállapodást kötő önkormányzatok számának felmérése a megyei jogú városok adatszolgáltatása alapján
 
 A II. 4. szerinti jogcímet illetően a helyi önkormányzatokért felelős miniszter a felmérés alapján 2013. február 7-éig meghatározza az egy utaztatott gyermek után nyújtható támogatás fajlagos összegét.
 
@@ -3926,9 +3910,7 @@ Sorszám
 
 |
 
-Adatszolgáltatás
-
-időpontja
+Adat-szolgáltatás időpontja
 
 |
 
@@ -3940,9 +3922,7 @@ Adatszolgáltatás alapja
 
 |
 
-Finanszírozás
-
-kezdő hónapja
+Finanszírozás kezdő hónapja
 
 |
 
@@ -3950,23 +3930,19 @@ kezdő hónapja
 
 |
 
-2013.
-
-április 15.
+2013. április 15.
 
 |
 
-III. 3., III. 4.
+III. 4.
 
 |
 
-a becsült éves ellátotti adatok, személyi térítési díjból származó bevétel és intézményüzemeltetési kiadás módosíthatók
+a becsült éves ellátotti adatok, személyi térítési díjból származó bevétel és intézmény-üzemeltetési kiadás módosíthatók
 
 |
 
-2013.
-
-június
+2013. július
 
 |
 
@@ -3974,9 +3950,7 @@ június
 
 |
 
-2013.
-
-június 15.
+2013.június 1.
 
 |
 
@@ -3992,9 +3966,7 @@ az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletléts
 
 |
 
-2013.
-
-augusztus
+2013. július
 
 |
 
@@ -4002,17 +3974,13 @@ augusztus
 
 |
 
-2013.
-
-október 15.
+2013. október 15.
 
 |
 
-II. 1., II. 2. II. 3.,
+II. 1., II. 2.,
 
-II. 4.,
-
-III. 3., III. 4. a)
+II. 3., II. 4., III. 3., III. 4. a)
 
 |
 
@@ -4020,11 +3988,11 @@ az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletléts
 
 |
 
-2013.
+2013. december
 
-december
+Ha a táblázat 1. sora szerinti adatszolgáltatás alapján a többcélú kistérségi társulást 2013. június 30-áig időarányosan megillető támogatás módosul, úgy a júliusi finanszírozásban a változást a többcélú kistérségi társulás székhelye szerinti települési önkormányzat finanszírozásában kell érvényesíteni.
 
-c) A helyi önkormányzatok, helyi nemzetiségi önkormányzatok és többcélú kistérségi társulások egymás közötti, illetve ezen körön kívüli szervezetnek történő feladat-, illetve intézmény átadás-átvétele
+c) A helyi önkormányzatok, helyi nemzetiségi önkormányzatok egymás közötti, illetve ezen körön kívüli szervezetnek történő feladat-, illetve intézmény átadás-átvétele
 
 |
 
@@ -4032,9 +4000,7 @@ Sorszám
 
 |
 
-Adatszolgáltatás
-
-időpontja
+Adat-szolgáltatás időpontja
 
 |
 
@@ -4046,9 +4012,7 @@ Adatszolgáltatás alapja
 
 |
 
-Finanszírozás
-
-kezdő hónapja
+Finanszírozás kezdő hónapja
 
 |
 
@@ -4056,41 +4020,13 @@ kezdő hónapja
 
 |
 
-2013.
-
-április 15.
-
-|
-
-III. 3., III. 4.
-
-|
-
-2013. június 1-jével történő fenntartó-változás jelzése, ellátotti adatok megjelölésével
-
-|
-
-2013.
-
-június
-
-|
-
-2.
-
-|
-
-2013.
-
-június 15.
+2013. június 1.
 
 |
 
 II. 1., II. 2.,
 
-II. 3., II. 4.,
-
-III. 3., III. 4.
+II. 3., II. 4.
 
 |
 
@@ -4098,19 +4034,27 @@ III. 3., III. 4.
 
 |
 
-2013.
-
-szeptember
+2013. szeptember
 
 |
 
-3.
+III. 3., III. 4.
 
 |
 
-2013.
+2013. július 1-jével történő fenntartó-változás jelzése, az a) pont szerinti felmérés során megadott ellátotti adatok megjelölésével
 
-október 15.
+|
+
+2013. július
+
+|
+
+2.
+
+|
+
+2013. október 15.
 
 |
 
@@ -4122,17 +4066,7 @@ III. 3., III. 4.
 
 |
 
-2013.
-
-december
-
-A helyi önkormányzat, a helyi nemzetiségi önkormányzat, a többcélú kistérségi társulás körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét, valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
-
-A helyi önkormányzatok, a helyi nemzetiségi önkormányzatok, a többcélú kistérségi társulások, az országos nemzetiségi önkormányzatok, valamint a központi költségvetési szervek egymás közötti feladat-, illetve intézmény átadása-átvétele esetén, amennyiben az intézmény átadás-átvételének időpontja nem esik egybe a fenti táblázatban szereplő fenntartóváltási időpontokkal, úgy ezen időpontig az érintett felek a finanszírozást pénzeszköz-átadással, -átvétellel egymás közötti megállapodás útján rendezik.
-
-Az időskorúak átmeneti és tartós, valamint a hajléktalanok tartós bentlakást nyújtó szociális intézményeinek átadás-átvétele esetén a III. 4. b) alpont szerinti támogatást az ellátottak arányában kell megosztani.
-
-A III. 3. ae) és III. 3. jc) alpont szerinti támogatások esetében nincs lehetőség átadás-átvételre. Amennyiben a fenntartó-változás következtében az önkormányzat nem lesz jogosult, vagy alacsonyabb összegű támogatásra jogosult e jogcímeken, úgy a különbözet lemondásnak minősül.
+2013. december
 
 d) A többcélú kistérségi társulások 2013. július 1-jei átalakulásával, megszűnésével összefüggő év közbeni változások
 
@@ -4142,9 +4076,7 @@ Sorszám
 
 |
 
-Adatszolgáltatás
-
-időpontja
+Adat-szolgáltatás időpontja
 
 |
 
@@ -4156,9 +4088,7 @@ Adatszolgáltatás alapja
 
 |
 
-Finanszírozás
-
-kezdő hónapja
+Finanszírozás kezdő hónapja
 
 |
 
@@ -4166,9 +4096,7 @@ kezdő hónapja
 
 |
 
-2013.
-
-április 15.
+2013. április 15.
 
 |
 
@@ -4182,11 +4110,23 @@ III. 4.
 
 |
 
-a többcélú kistérségi társulások jelzik a köznevelési és szociális intézmény(ek) 2013. július 1-jétől történő fenntartó-változását, az a)-b) pontok szerinti felmérés során megadott adatok megjelölésével
+a többcélú kistérségi társulások jelzik a köznevelési és szociális intézmény(ek) 2013. július 1-jétől történő fenntartó-változását, az a)–b) pontok szerinti felmérés során megadott adatok megjelölésével
 
 |
 
 2013. július
+
+A többcélú kistérségi társulás az adatszolgáltatás során kizárólag átadást jelölhet, a 2013. június 30-áig megillető támogatás vonatkozásában lemondásra, illetve pótigénylésre nincs lehetőség. Az önkormányzat által a többcélú kistérségi társulástól átvett óvodaintézmény után járó II. 1., II. 2. és II. 4. pont szerinti – 2012/2013. nevelési évre járó – támogatás folyósítása két egyenlő részletben, július és augusztus hónapban az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
+
+e) A c) és d) pontra vonatkozó közös szabályok:
+
+A helyi önkormányzat, a helyi nemzetiségi önkormányzat, többcélú kistérségi társulás körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét, valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
+
+A helyi önkormányzatok, a helyi nemzetiségi önkormányzatok, többcélú kistérségi társulások, az országos nemzetiségi önkormányzatok, valamint a központi költségvetési szervek egymás közötti, illetve ezen körön kívüli feladat-, illetve intézmény átadása-átvétele esetén, amennyiben az intézmény átadás-átvételének időpontja (tényleges átadás-átvétel) nem esik egybe a fenti táblázatban szereplő fenntartóváltási időpontokkal (finanszírozási átadás-átvétel), úgy ezen időpontig az érintett felek a finanszírozást pénzeszköz-átadással, -átvétellel egymás közötti megállapodás útján rendezik. A finanszírozási átadás-átvétel időpontjáig időarányos támogatás abban az esetben illeti meg a feladatot, intézményt átadó helyi önkormányzatot, helyi nemzetiségi önkormányzatot, ha a feladatot átvevő az intézmény, szolgáltatás tekintetében a tényleges átadás-átvétel időpontjától kezdve működési engedéllyel rendelkezik. Ellenkező esetben a feladatot, intézményt átadó helyi önkormányzat, helyi nemzetiségi önkormányzat köteles lemondani a tényleges átadás-átvétel időpontjától a finanszírozási átadás-átvétel időpontjáig tartó időszakra jutó időarányos támogatásról.
+
+Az időskorúak átmeneti és tartós, valamint a hajléktalanok tartós bentlakást nyújtó szociális intézményeinek átadás-átvétele esetén a III. 4. b) alpont szerinti támogatást az ellátottak arányában kell megosztani.
+
+A III. 3. ae) és III. 3. jc) alpont szerinti támogatások esetében nincs lehetőség átadás-átvételre. Amennyiben a fenntartó-változás következtében az önkormányzat nem lesz jogosult, vagy alacsonyabb összegű támogatásra jogosult e jogcímeken, úgy a különbözet lemondásnak minősül.
 
 3. A óvodapedagógusok, és óvodapedagógusok nevelő munkáját közvetlenül segítők bértámogatása az alábbi adatszolgáltatások, nevelés-szervezési paraméterek és számítások figyelembevételével történik.
 
@@ -4308,17 +4248,17 @@ Vi1; Vi2 = a V1 és V2 vezetői létszámra - a 2012/2013. nevelési évben a K�
 
 A többcélú kistérségi társulás a támogatásokat csak akkor igényelheti, ha vállalja, hogy
 
-– a társulási megállapodás az Mötv. rendelkezéseinek megfelelő módosítása 2013. június 30-án lép hatályba,
+a) a társulási megállapodás az Mötv. rendelkezéseinek megfelelő módosítása 2013. június 30-án lép hatályba,
 
-– 2013. június 30-áig a szolgáltatót, intézményt fenntartja.
+b) 2013. június 30-áig a szolgáltatót, intézményt fenntartja.
 
-Amennyiben az intézményi társulás jogutód nélkül megszűnik, úgy a társulás székhely önkormányzata a támogatásra a megszűnés hónapja utolsó napjáig jogosult. A többcélú kistérségi társulás éves támogatást igényel, amelyre azonban 2013. június 30-áig időarányosan jogosult. A fennmaradó - feladattal, intézménnyel összefüggésben igényelt - hat havi időarányos támogatást a Kiegészítő szabályok 2. d) alpontjában foglaltak szerint adja át
+Ha az intézményi társulás jogutód nélkül megszűnik, úgy a társulás székhely önkormányzata a támogatásra a megszűnés hónapja utolsó napjáig jogosult. A többcélú kistérségi társulás éves támogatást igényel, amelyre azonban 2013. június 30-áig időarányosan jogosult. A fennmaradó – feladattal, intézménnyel összefüggésben igényelt – hat havi időarányos támogatást a Kiegészítő szabályok 2. d) alpontjában foglaltak szerint adja át
 
-– a feladatot átvevő települési önkormányzat, vagy
+a) a feladatot átvevő települési önkormányzat, központi költségvetési szerv, önkormányzati körön kívüli szervezet, vagy
 
-– a társulási megállapodásban kijelölt székhely önkormányzat
+b) a társulási megállapodásban kijelölt székhely önkormányzat,
 
-részére, amennyiben a fenntartó az ellátott feladatra működési engedéllyel rendelkezik.
+részére, ha a fenntartó az ellátott feladatra működési engedéllyel rendelkezik.
 
 6. Gondozási nap: egy ellátott egy napi intézményi ellátása (idős és hajléktalan személyeket ellátó tartós és átmeneti szociális intézményben, valamint gyermekek átmeneti gondozását biztosító intézményben), amely az intézménybe történő felvétel napjával kezdődik és annak végleges elhagyásával fejeződik be. A gondozási napok számításánál az ideiglenesen - egészségügyi vagy egyéb okból - távollévőket is figyelembe kell venni. Az intézményi jogviszony egy évi folyamatos távollét esetén megszűnik.
 

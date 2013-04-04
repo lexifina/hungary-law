@@ -12,7 +12,9 @@ a) a központi államigazgatási szerveknél, továbbá azok területi és helyi
 
 b) a prémiumévek programról és a különleges foglalkoztatási állományról szóló törvény szerinti munkáltatói kifizetésekre,
 
-c) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 21. § (1) bekezdésében meghatározott számvevői illetményalap változása miatti személyi juttatás és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó növekményének kifizetésére.
+c) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 21. § (1) bekezdésében meghatározott számvevői illetményalap változása miatti személyi juttatás és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó növekményének kifizetésére,
+
+d) a központi költségvetési szerveknél a feladatok változásával, a szervezetek, szervezetrendszerek korszerűsítésével, a feladatellátás ésszerűsítésével megvalósuló, kiadás- és költségvetési támogatás-megtakarítást eredményező létszámcsökkentések személyi juttatások és munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéseire.
 
 (3) A Kormány a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 3. Különféle kifizetések alcím előirányzatából a IX. Helyi önkormányzatok támogatásai fejezet, 2. Helyi önkormányzatok által felhasználható központosított előirányzatok cím, – 3. mellékletben szereplő – 6. Helyi szervezési intézkedésekhez kapcsolódó többletkiadások támogatása jogcímre átcsoportosíthat, ha a helyi önkormányzati létszámleépítések miatt e jogcímen rendelkezésre álló előirányzat már felhasználásra került.
 

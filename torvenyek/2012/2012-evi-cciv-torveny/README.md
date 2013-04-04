@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-204-00-00
 | 2013-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-204-00-00.1 |
 | 2013-02-23 | 2013. évi III. törvény | 2012-204-00-00.2 |
 | 2013-03-14 | 2013. évi XI. törvény | 2012-204-00-00.3 |
+| 2013-04-04 | 2013. évi XXXI. törvény | 2012-204-00-00.4 |
