@@ -1,11 +1,13 @@
-## Az egyetemes szolgáltatóra vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2013. első negyedévre
+## Az egyetemes szolgáltatóra vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2013. második negyedévre
 
-| Egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (Ft/MJ) |
+|  | A | B | C |
 
-| FŐGÁZ Zrt. | 2749 | 1,629 |
+| 1. | Egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (Ft/MJ) |
 
-| TIGÁZ Zrt. | 3762 | 0,873 |
+| 2. | FŐGÁZ Zrt. | 2094 | 0,667 |
 
-5. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^28]
+| 3. | TIGÁZ Zrt. | 2395 | 1,317 |
 
-[^28]: Az 5. mellékletet újonnan a 38/2012. (VII. 3.) NFM rendelet 8. §-a iktatta be, szövege a 78/2012. (XII. 22.) NFM rendelet 32. §-ával megállapított szöveg.
+5. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^29]
+
+[^29]: Az 5. mellékletet újonnan a 38/2012. (VII. 3.) NFM rendelet 8. §-a iktatta be, szövege a 13/2013. (IV. 3.) NFM rendelet 9. § (4) bekezdésével megállapított szöveg.
