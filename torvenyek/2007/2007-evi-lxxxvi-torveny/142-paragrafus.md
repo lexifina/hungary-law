@@ -10,9 +10,9 @@ d) közvilágítási elosztási díjat
 
 (a továbbiakban együtt: rendszerhasználati díjak) fizetnek. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
 
-(2) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg.
+(2) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg.
 
-(3) A rendszerhasználati díjak adott naptári évre érvényes mértékét és alkalmazásuk egyedi szabályait a Hivatal határozatban állapítja meg. A Hivatal a határozatát, az abban megállapított rendszerhasználati díjak és áralkalmazási feltételek január 1-jei hatálybalépése előtt 30 nappal a honlapján teszi közzé.
+(3) A rendszerhasználati díjak mértékét és alkalmazásuk szabályait a Hivatal elnöke rendeletben állapítja meg. A rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
 (4) A rendszerhasználati díjak mértéke és alkalmazásuk feltételei országosan egységesek.
 

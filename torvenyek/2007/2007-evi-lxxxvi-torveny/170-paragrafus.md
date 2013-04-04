@@ -102,7 +102,7 @@ rendeletben állapítsa meg.
 
 2. az elosztó és az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait, valamint az elosztó által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait
 
-3.
+3. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 
 4. az 50 MW, és azt meghaladó névleges teljesítőképességű erőművek energiaforrás-készletének legkisebb mértékét,
 
@@ -118,7 +118,7 @@ rendeletben állapítsa meg.
 
 10.
 
-11. rendszerhasználati díjak képzésének és alkalmazásának alapelveit, árszabályozásának kereteit, valamint csatlakozási díjak alkalmazásának alapelveit, meghatározásának szempontjait és a díjak elemeit,
+11. rendszerhasználati díjak képzésének alapelveit, árszabályozásának kereteit, valamint csatlakozási díjak meghatározásának szempontjait és a díjak elemeit,
 
 12.
 
@@ -138,11 +138,11 @@ rendeletben állapítsa meg.
 
 a) a környezetvédelemért felelős miniszterrel együttműködve az erőművek által teljesítendő, az elsődleges energiaforrás típustól függően eltérő minimális energetikai hatásfok körülményeket,
 
-b) az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint az egyéb bevételek beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
+b)
 
 c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, a területfejlesztésért felelős miniszterrel és a területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
 
-d) az adópolitikáért felelős miniszterrel egyetértésben az igazgatási-szolgáltatási díj mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat
+d)
 
 rendeletben állapítsa meg.
 
@@ -161,3 +161,11 @@ rendeletben állapítsa meg.
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy – a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
+
+(5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
+
+1. a rendszerhasználati díjakat és alkalmazásuk szabályait,
+
+2. a csatlakozási díjakat és alkalmazásuk szabályait,
+
+3. az elosztók közötti kiegyenlítő fizetések mértékét.

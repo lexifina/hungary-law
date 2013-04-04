@@ -10,7 +10,7 @@
 
 5. javaslatot tesz a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokra,
 
-6. meghatározza a rendszerhasználati és a csatlakozási díjakat, valamint az egyes díjak alkalmazásának egyedi feltételeit,
+6. rendeletben határozza meg a rendszerhasználati és a csatlakozási díjakat, valamint az egyes díjak alkalmazásának feltételeit,
 
 7. előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
 

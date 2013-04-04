@@ -1,8 +1,8 @@
 142/A. § (1) A rendszerhasználati díjak szabályozása négyéves árszabályozási ciklusok keretében, éves ármegállapítással történik. A Hivatal az árszabályozási ciklus indulását megelőzően költség-felülvizsgálatot végez. Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter a 142. § (2) bekezdés szerinti rendeletben állapítja meg.
 
-(2) Az elosztási díjból és a közvilágítási elosztási díjból származó árbevételt az elosztók között az indokolt költségek arányában kell megosztani. Ennek érdekében az engedélyesek között szükség esetén a rendszerhasználati díjakkal együtt meghatározott kiegyenlítő fizetéseket kell végrehajtani. A kiegyenlítő fizetések mértékét a Hivatal a rendszerhasználati díjakról hozott határozatában állapítja meg.
+(2) Az elosztási díjból és a közvilágítási elosztási díjból származó árbevételt az elosztók között az indokolt költségek arányában kell megosztani. Ennek érdekében az engedélyesek között szükség esetén a rendszerhasználati díjakkal együtt meghatározott kiegyenlítő fizetéseket kell végrehajtani. A kiegyenlítő fizetések mértékét a Hivatal elnöke a rendszerhasználati díjakról kiadott rendeletében állapítja meg.
 
-(3) A hálózati engedélyesek a Hivatal határozatában meghatározott rendszerhasználati díjakat és áralkalmazási feltételeket kötelesek – a (6) bekezdésben foglaltak figyelembevételével – alkalmazni és a honlapjukon közzétenni.
+(3) A hálózati engedélyesek a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat és áralkalmazási feltételeket kötelesek – a (6) bekezdésben foglaltak figyelembevételével – alkalmazni és a honlapjukon közzétenni.
 
 (4) A Hivatal a 142. § (2) bekezdésében meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
@@ -16,4 +16,4 @@ a) elfogadása esetén a miniszter a rendszerhasználati díjak meghatározásá
 
 b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
 
-(6) A Hivatal határozatában meghatározott rendszerhasználati díjakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetésmentesen, előre nyilvánosságra hozott módon lehet eltérni.
+(6) A Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetésmentesen, előre nyilvánosságra hozott módon lehet eltérni.

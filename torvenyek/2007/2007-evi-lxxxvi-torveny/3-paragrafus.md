@@ -30,7 +30,7 @@
 
 12. Elszámolási pont: az elszámolási mérés, vagy a mérési rendszer alapján létrehozott vagy mérésekből számítási eljárással képzett elszámolási mérési pont, amelyhez egyértelműen hozzárendelhető a menetrend, a rendszerszintű szolgáltatás, az elszámolási mérés, és amely elszámolási pont a csatlakozási ponttal egyértelműen összerendelhető;
 
-13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energia Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
+13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
 
 13a. Eredetigazolás: olyan dokumentum, amely igazolja a megújuló energiaforrásból előállított vagy a nagyhatékonyságú, hasznos hőigényen alapuló, kapcsoltan termelt villamos energia mennyiségét;
 

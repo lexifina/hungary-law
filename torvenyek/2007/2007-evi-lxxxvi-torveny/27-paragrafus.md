@@ -14,4 +14,4 @@ b) az új csatlakozási pont miatt szükséges, csatlakozási pont közelében t
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására.
 
-(5) A külön Hivatal határozatában előírt feltételek szerint megvalósuló csatlakozás esetén a rendszerhasználó megfizeti a Hivatal határozatában meghatározott csatlakozási díjat.
+(5) A (4) bekezdés szerinti határozatnak megfelelő csatlakozás esetén a rendszerhasználó a Hivatal elnökének rendeletében megállapított mértékű csatlakozási díjat fizet

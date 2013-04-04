@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2013-01-01 | 2012. évi CCXVII. törvény | 2007-86-00-00.33 |
 | 2013-03-03 | 2011. évi XXIX. törvény | 2007-86-00-00.34 |
 | 2013-03-14 | 2013. évi XII. törvény | 2007-86-00-00.35 |
+| 2013-04-04 | 2013. évi XXII. törvény | 2007-86-00-00.36 |

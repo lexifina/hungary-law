@@ -1,10 +1,10 @@
 ## XIX. Fejezet
 
-## A MAGYAR ENERGIA HIVATAL JOGÁLLÁSA, FELADAT- ÉS HATÁSKÖRE
+## A HIVATAL
 
-## A Magyar Energia Hivatal feladata és hatásköre
+## A Magyar Energetikai és Közmű-szabályozási Hivatal feladata és hatásköre
 
-158. § (1) A Hivatal önálló feladat- és hatáskörrel rendelkező kormányhivatal.
+158. § (1)
 
 (2) A Hivatal tevékenységének célja
 

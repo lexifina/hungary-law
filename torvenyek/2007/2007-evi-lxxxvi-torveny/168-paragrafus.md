@@ -30,7 +30,7 @@ e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és
 
 f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
 
-g) a rendszerhasználati díjak mértéke és alkalmazása egyedi feltételeinek megállapítására irányuló eljárásban 30 nap,
+g)
 
 h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap.
 
@@ -46,7 +46,7 @@ h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárá
 
 (9) A Hivatal köteles határozatait nyilvánosan közzétenni.
 
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott és a rendszerhasználati vagy csatlakozási díjakat megállapító határozat kivételével – a határozatot jogosult megváltoztatni.
+(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat kivételével – a határozatot jogosult megváltoztatni.
 
 (11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
@@ -56,11 +56,11 @@ h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárá
 
 (14)
 
-(15) A Hivatal felügyeleti szerve nem rendelheti el a Hivatal jogerős határozata végrehajtásának felfüggesztését.
+(15)
 
 (15a) Bírósági felülvizsgálat iránti kérelem esetén nincs helye a végrehajtás felfüggesztésének, ha a határozat
 
-a) rendszerhasználati vagy csatlakozási díjakat állapít meg,
+a)
 
 b) a kiegyenlítő energia meghatározásának módját és elszámolásának feltételeit hagyja jóvá,
 
