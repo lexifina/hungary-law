@@ -32,7 +32,7 @@ o) a közüzemi szerződés felmondása alóli mentesítésre jogosult közinté
 
 (2) Az miniszter rendeletben
 
-a) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a Hivatal részére fizetendő díjak mértékét és a díjak fizetésére vonatkozó részletes szabályokat;
+a)
 
 b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját, továbbá az árelőkészítés módszertanára vonatkozó szabályokat;
 
@@ -46,7 +46,9 @@ f) állapíthatja meg az engedélyes, az értékesítő, az egyedi szerződés a
 
 g) állapítja meg a távhőszolgáltatási támogatás mértékét és az előkészítése módszertanára vonatkozó szabályokat, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat,
 
-h) állapítja meg az engedélyesek nyereségének korlátozására és megosztására vonatkozó részletes szabályokat.
+h) állapítja meg az engedélyesek nyereségének korlátozására és megosztására vonatkozó részletes szabályokat,
+
+i) állapítja meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
 (3) Az önkormányzat képviselő-testülete rendeletben szabályozza a 6. § (2)–(4) bekezdésében, a 45. § (6) bekezdésében és az 52. § (2) bekezdésében meghatározott, hatáskörébe utalt feladatokat.
 

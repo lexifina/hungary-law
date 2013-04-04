@@ -10,6 +10,6 @@ c) ellenőrzi a távhőszolgáltató tevékenységét az üzletszabályzatában 
 
 d) jogosult a távhőszolgáltatótól a c) pont szerinti ellenőrzési feladatainak teljesítése érdekében, annak mértékéig eseti és rendszeres információt kérni, az iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is; és
 
-e) határozatában elrendelheti – az 51. § (8) bekezdésében foglalt esetekben – a felhasználási helyre történő bejutást.
+e)
 
 (2) Az önkormányzat jegyzőjének eljárása során az ügyintézési határidő két hónap. Az önkormányzat jegyzőjének döntése ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének döntését jogosult megváltoztatni.

@@ -2,9 +2,9 @@
 
 ## KÖZIGAZGATÁSI HATÁSKÖRÖK ÉS FOGYASZTÓVÉDELEM
 
-## A Magyar Energia Hivatal feladatai
+## A Magyar Energetikai és Közmű-szabályozási Hivatal feladatai
 
-4. § (1) A Magyar Energia Hivatal (a továbbiakban: Hivatal) az e törvény hatálya alá tartozó és hatáskörébe utalt létesítmények és engedélyesek tekintetében
+4. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) az e törvény hatálya alá tartozó és hatáskörébe utalt létesítmények és engedélyesek tekintetében
 
 a) kiadja, módosítja vagy visszavonja a távhőtermelő létesítmény létesítésére vonatkozó engedélyt és a távhőtermelői működési engedélyt, ha a létesítményben a hőenergiát – részben vagy egészben – távhő-szolgáltatási célra termelik, valamint a távhő-szolgáltatói működési engedélyt;
 
