@@ -66,13 +66,13 @@
 
 20. barlang védőövezetének kijelölését és a védőövezetre irányadó korlátozásokat;
 
-21. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, illetve a nyilvántartás tartalmát és vezetésének módját;
+21. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, a nyilvántartás tartalmát és vezetésének módját, a nyilvántartásból történő adatszolgáltatást, valamint a barlangok természeti állapotfelvételének és kezelési tervük készítésének szabályait;
 
-22. azon barlangok körét, amelyek látogatásához az igazgatóság vagyonkezelői hozzájárulása szükséges;
+22. azon barlangok körét, amelyek látogatásához az igazgatóság vagyonkezelői hozzájárulása szükséges, továbbá a vagyonkezelői hozzájárulás kérelmezésének és megadásának szabályait;
 
-23. barlang, barlangszakasz kiépítése körébe tartozó műtárgyak és tevékenységek körét;
+23. a barlangok látogatásának, kutatásának, hasznosításának és a barlangi búvármerülés, barlangi mentés szabályait, a barlang, barlangszakasz kiépítése körébe tartozó műtárgyak és tevékenységek körét, a kiépítés szabályait, továbbá a barlangokkal kapcsolatos engedélyezés szabályait;
 
-24. az igazgatóság vagyonkezelői hozzájárulásával látogatható barlangokban történő túravezetés, az engedélyköteles barlangi búvármerülés, valamint a barlangok kutatásának képesítési feltételeit;
+24. az igazgatóság vagyonkezelői hozzájárulásával látogatható barlangokban történő túravezetés, a barlangi kutatás és barlangi búvármerülés képesítési feltételeit, valamint a barlangi túravezető és barlangi kutatásvezető jogait és kötelezettségeit;
 
 25. a ritka, különleges nagyságú, kifejlődésű, vagy szakmai, tudományos szempontból kiemelkedő jelentőségű ásványok, ásványtársulások és ősmaradványok körét, pénzben kifejezett értékét;
 
