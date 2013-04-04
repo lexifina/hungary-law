@@ -1,8 +1,8 @@
 ## A rendelet hatálya
 
-## 1. §[^1] E rendelet hatálya
+## 1. §[^2] E rendelet hatálya
 
-a)[^2] a földgázszállítási tevékenységet végző engedélyesre, valamint a földgázszállítási működési engedélyesre (a továbbiakban együtt: szállítói engedélyes),
+a)[^3] a földgázszállítási tevékenységet végző engedélyesre, valamint a földgázszállítási működési engedélyesre (a továbbiakban együtt: szállítói engedélyes),
 
 b) a rendszerirányítási tevékenységet végző engedélyesre (a továbbiakban: rendszerirányítói engedélyes),
 
@@ -16,5 +16,5 @@ f) arra a felhasználóra, akik vagy amelyek kapacitás-lekötésre a földgázk
 
 g) a Magyar Energia Hivatalra (a továbbiakban: Hivatal)
 
-[^1]: Az 1. § a 65/2011. (XI. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § a) pontja a 28/2012. (V. 31.) NFM rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § a 65/2011. (XI. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § a) pontja a 28/2012. (V. 31.) NFM rendelet 2. §-ával megállapított szöveg.
