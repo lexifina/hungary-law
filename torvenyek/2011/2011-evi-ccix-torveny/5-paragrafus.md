@@ -2,8 +2,8 @@
 
 (2) A víziközmű-szolgáltató a felhasználói egyenérték kiszámításához szükséges adatokat március 31-ig küldi meg a Hivatalnak.
 
-(3) A Hivatal kérelemre indult eljárásáért igazgatási szolgáltatási díjat kell fizetni.
+(3)
 
 (4) A Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére igazgatási szolgáltatási díjat kell fizetni.
 
-(5) A felügyeleti díj és az igazgatási szolgáltatási díj adók módjára behajtható köztartozásnak minősül.
+(5)

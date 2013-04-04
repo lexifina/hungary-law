@@ -2,7 +2,7 @@
 
 ## A VÍZIKÖZMŰVEKKEL KAPCSOLATOS FELADAT- ÉS HATÁSKÖRÖK
 
-3. § (1) Az e törvényben meghatározott hatósági feladatokat – a (2) bekezdésben foglalt kivételekkel – a Magyar Energia Hivatal (a továbbiakban: Hivatal) látja el.
+3. § (1) Az e törvényben meghatározott hatósági feladatokat – a (2) bekezdésben foglalt kivételekkel – a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) látja el.
 
 (2) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a víziközmű-szolgáltatás korlátozásával vagy felfüggesztésével kapcsolatos rendelkezések lakossági felhasználókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt (a továbbiakban: Fgytv.) kell alkalmazni azzal, hogy az e törvény szerinti lakossági felhasználó az Fgytv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
 

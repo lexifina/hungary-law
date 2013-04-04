@@ -54,8 +54,10 @@ rendeletben állapítsa meg.
 
 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
 
-5. állapítsa meg – az adópolitikáért felelős miniszterrel egyetértésben – a Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint a díjak fizetésére vonatkozó szabályokat;
+5.
 
 6–8.
+
+9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
 (3)
