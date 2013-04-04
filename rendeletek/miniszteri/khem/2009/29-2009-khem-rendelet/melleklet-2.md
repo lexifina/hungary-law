@@ -86,7 +86,7 @@
 
 ## fgFtS: nem hosszú távú szerződések alapján lekötött, piaci földgázforrás ára, Ft/MJ
 
-## fgFtT tárolói készletérték a hosszútávú szerződések alapján beszerzett földgáz árának és nem hosszútávú szerződések alapján lekötött, piaci földgázforrás árának 30%–70%-os arányú figyelembevételével negyedik negyedévre a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ); a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
+## fgFtT tárolói készletérték a hosszútávú szerződések alapján beszerzett földgáz árának és nem hosszútávú szerződések alapján lekötött, piaci földgázforrás árának 10%–90%-os arányú figyelembevételével negyedik negyedévre a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ) a hosszú távú szerződések alapján beszerzett földgáz árának és nem hosszú távú szerződések alapján lekötött, piaci földgázforrás árának 10%-90%-os arányú figyelembevételével; a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
 
 ## fo: az 1%-os kéntartalmú fűtőolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári
 
@@ -122,7 +122,7 @@
 
 ## sp: eltérés (spread), értéke 2010. december 31-ig 3,461 EUR/MWh. A következő negyedévekre megállapított értékét a Hivatal a honlapján közzéteszi az Endex TTF GAS futures piaci árának a Central European Gas Hub árakhoz való közelítése érdekében. Az égéshővel való korrekció 1,11-es értékkel történik.
 
-## Y: az éves átlagos KSH tény – a háztartási energia sor elhagyásával számított – fogyasztói árváltozás és az MNB által közzétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzés – az árrés megállapítás lezárása előtti utolsó „Jelentés az infláció alakulásáról” című kiadvány – alapján képzett (előretekintő) átlagos fogyasztói árváltozás a tárgyidőszaki júliusi ármódosítási időszak közepe és az azt megelőző árrés-megállapítási időszak közepe közötti időszakra számítva, százalék
+## Y: az MNB által közzétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzések – az árrés megállapítás lezárása előtti utolsó „Jelentés az infláció alakulásáról” című kiadvány – alapján képzett (előretekintő) átlagos fogyasztói árváltozás a tárgyidőszaki júliusi ármódosítási időszak közepére számítva, százalék
 
 ## Ye: az aktuális gázévre érvényes árrés-megállapítási javaslatnál – illetve az induló árrésre tett javaslatban – figyelembe vett fogyasztói árváltozás, százalék
 
