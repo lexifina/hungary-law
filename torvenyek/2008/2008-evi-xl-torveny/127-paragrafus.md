@@ -14,7 +14,7 @@ f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci 
 
 g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, és az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket;
 
-gy) meghatározza a rendszerhasználati és a csatlakozási díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
+gy) rendeletében meghatározza a rendszerhasználati és a csatlakozási díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
 
 h) javaslatot tesz a rendszerüzemeltető és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira;
 

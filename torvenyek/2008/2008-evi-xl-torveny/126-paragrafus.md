@@ -1,3 +1,9 @@
+## XVI. Fejezet
+
+## A HIVATAL
+
+## A Hivatal feladata és hatásköre
+
 126. § A Hivatal feladata különösen:
 
 a) az e törvény és felhatalmazása alapján kiadott jogszabályok által engedélykötelesnek minősített tevékenységet folytató földgázipari vállalkozások és a földgázpiac jogszabályoknak és hatósági előírásoknak megfelelő működésének biztosítása,

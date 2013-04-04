@@ -38,7 +38,7 @@
 
 14. Elszámolási mérés: a földgázforgalomnak az Üzemi és Kereskedelmi Szabályzat szerint kialakított a rendszerüzemeltető által működtetett, a mérésügyi jogszabályok szerint mérésre alkalmas fogyasztásmérő berendezésekkel történő meghatározása.
 
-15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energia Hivatal (a továbbiakban: Hivatal) által kiadott érvényes engedéllyel rendelkezik.
+15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott érvényes engedéllyel rendelkezik.
 
 16. Felhasználási hely: az az ingatlan, ahol a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely, vagy a fogyasztói főcsap van.
 

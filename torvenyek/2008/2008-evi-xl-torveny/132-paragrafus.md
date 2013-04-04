@@ -4,7 +4,7 @@
 
 132. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-1. a Magyar Energia Hivatal által kiszabható bírság felső határát,
+1. a Magyar Energetikai és Közmű-szabályozási Hivatal által kiszabható bírság felső határát,
 
 2. a panaszok engedélyesek általi kezelésére és a felhasználók, illetve lakossági fogyasztók általi benyújtására vonatkozó eljárási szabályokat,
 
