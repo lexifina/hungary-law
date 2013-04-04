@@ -1,0 +1,3 @@
+## 6. § A földgáz rendszerhasználat árszabályozásának kereteiről szóló 74/2009. (XII. 7.) KHEM rendelet (a továbbiakban: R3.) 3/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Amennyiben a földgázkereskedő földgázellátása érdekében más rendszerhasználó köt le kapacitást a földgáz szállítóvezetéken, a földgázkereskedő köteles a (2) bekezdés szerinti táblázatot az őt ellátó rendszerhasználó részére megküldeni a tárgyhót követő 5 napon belül, a rendszerhasználó pedig a visszatérítés mértékével azonos mértékű kedvezményt a földgázkereskedő felé érvényesíteni a visszatérítés részére történő utalását követő 5 banki napon belül.”
