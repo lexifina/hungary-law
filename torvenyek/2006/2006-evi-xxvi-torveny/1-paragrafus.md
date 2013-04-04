@@ -4,7 +4,7 @@
 
 a) a Magyar Szénhidrogén Készletező Szövetségre (a továbbiakban: Szövetség),
 
-b) a Magyar Energia Hivatalra (a továbbiakban: Hivatal),
+b) a Magyar Energetikai és Közmű-szabályozási Hivatalra (a továbbiakban: Hivatal),
 
 c) a földgáz rendszerirányítói, a földgáztárolói, a földgáz egyetemes szolgáltatói, a földgázkereskedői engedélyesekre, valamint a földgáztermelőkre,
 

@@ -2,7 +2,7 @@
 
 (2) A földgáz biztonsági készlet mértékét, valamint erre tekintettel a készletértékesítési vagy készletbeszerzési kötelezettség mértékét és feltételeit, a földgáz biztonsági készlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat, továbbá az értékesítés módját, a visszapótlásra kötelezettet, a visszapótláshoz tartozó határkeresztező kapacitásokat, a visszapótlás feltételeit és rendjét a miniszter rendeletben határozza meg.
 
-(3) A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 994/2010/EU rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg.
+(3) A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 994/2010/EU rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg. A Hivatal javaslatát a miniszter által meghatározott határidőn belül köteles megküldeni.
 
 (4) Készletbeszerzési vagy készletértékesítési kötelezettség esetén a Szövetségnek a földgáz betárolását vagy kitárolását a miniszter rendeletében meghatározott ütemezéssel és határidővel kell végrehajtania.
 
