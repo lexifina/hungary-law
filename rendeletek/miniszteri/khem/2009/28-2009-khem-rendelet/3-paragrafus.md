@@ -20,12 +20,12 @@ f) a gázmérővel nem rendelkező felhasználók árszabása.
 
 (4) A földgáz egyetemes szolgáltatás ára tartalmazza a rendszerhasználati díjakat.
 
-(5)[^14] A földgáz egyetemes szolgáltatás ára a GET 138/A. §-a szerinti pénzeszköz, a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 8. §-a szerinti – a szolgáltató által a felhasználó felé továbbhárított – tagi hozzájárulás, az általános forgalmi adó, az energiaadó és a felhasználót terhelő egyéb adók összegét nem tartalmazza.
+(5)[^14] A földgáz egyetemes szolgáltatás ára az általános forgalmi adó, az energiaadó és a felhasználót terhelő egyéb adók, valamint – a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 8. § (8) bekezdésére tekintettel a szolgáltató által kizárólag a nem lakossági fogyasztóra továbbhárítható – tagi hozzájárulás összegét nem tartalmazza.
 
 (6)[^15]
 
 [^11]: A 3. § (1) bekezdése a 78/2012. (XII. 22.) NFM rendelet 5. §-ával megállapított szöveg.
 [^12]: A 3. § (2) bekezdését a 18/2010. (XII. 3.) NFM rendelet 4. §-a hatályon kívül helyezte.
 [^13]: A 3. § (3) bekezdése a 32/2011. (VI. 30.) NFM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^14]: A 3. § (5) bekezdése a 18/2010. (XII. 3.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^14]: A 3. § (5) bekezdése a 13/2013. (IV. 3.) NFM rendelet 1. §-ával megállapított szöveg.
 [^15]: A 3. § (6) bekezdését a 32/2011. (VI. 30.) NFM rendelet 3. §-a hatályon kívül helyezte.
