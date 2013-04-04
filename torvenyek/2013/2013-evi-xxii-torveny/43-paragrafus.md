@@ -59,11 +59,3 @@ a) 49. § (4) bekezdése,
 b) 88. § (2) bekezdés 12. pontja.
 
 (6) Hatályát veszti a Ksztv. 1. § (4) bekezdés c) pontja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
