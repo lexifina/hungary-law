@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2012-10-10 | 2012. évi CXLIII. törvény | 1995-53-00-00.49 |
 | 2012-12-28 | 2012. évi CCXIII. törvény | 1995-53-00-00.50 |
 | 2013-01-01 | 2012. évi CCX. törvény | 1995-53-00-00.51 |
+| 2013-04-04 | 2013. évi XXVI. törvény | 1995-53-00-00.52 |
