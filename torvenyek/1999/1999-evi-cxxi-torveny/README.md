@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-121-00-00
 | 2012-08-01 | 2012. évi CXXVI. törvény | 1999-121-00-00.16 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 1999-121-00-00.17 |
 | 2013-01-01 | 2012. évi CCXV. törvény | 1999-121-00-00.18 |
+| 2013-04-05 | 2013. évi XXXIV. törvény | 1999-121-00-00.19 |
