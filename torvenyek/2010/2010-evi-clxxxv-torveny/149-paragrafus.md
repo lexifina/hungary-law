@@ -10,4 +10,4 @@
 
 (5) Amennyiben a kérelmező a jogsértésről csak később szerzett tudomást, vagy a kérelem, bejelentés előterjesztésében akadályoztatva volt, úgy a (4) bekezdésben foglalt határidő a tudomásszerzéstől vagy az akadály megszűnésével veszi kezdetét. A médiatartalommal kapcsolatos jogsértés tárgyában a médiatartalom közzétételétől vagy – folyamatos közzététel esetén – első közzétételétől számított hat hónapon túl hatósági eljárás nem kezdeményezhető. E határidő jogvesztő.
 
-(6) Az Smtv. 14–20. §, az Mttv. 9–11. §, 12. § (3)–(4) bekezdés, 14. § és 23–36. § megsértésével kapcsolatban a hatóság hivatalból a médiatartalom közzétételétől vagy – folyamatos közzététel esetén – első közzétételétől számított egy éven belül indíthatja meg a hatósági eljárást.
+(6) Az Smtv. 14. és 16–20. §, az Mttv. 9–11. §, 12. § (3)–(4) bekezdés, 14. § és 23–36. § megsértésével kapcsolatban a hatóság hivatalból a médiatartalom közzétételétől vagy – folyamatos közzététel esetén – első közzétételétől számított egy éven belül indíthatja meg a hatósági eljárást.

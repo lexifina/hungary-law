@@ -8,7 +8,7 @@
 
 (2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos főosztályvezetői besorolású köztisztviselő. A Biztos e fejezet szerinti feladatai ellátása körében nem utasítható.
 
-(3) A Biztosra megfelelően alkalmazni kell a 111. § (4) bekezdésében foglaltakat.
+(3) A Biztosra megfelelően alkalmazni kell a 111/A. § (2) bekezdésében foglaltakat.
 
 (4) A Biztost a feladatai ellátásában az általa vezetett Média- és Hírközlési Biztos Hivatala (a továbbiakban: Biztos hivatala) segíti, a Biztos hivatalának köztisztviselőit az Elnök nevezi ki és menti fel, a Biztos gyakorolja az egyéb munkáltatói jogokat.
 

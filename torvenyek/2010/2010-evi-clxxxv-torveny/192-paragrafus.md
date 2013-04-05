@@ -2,11 +2,11 @@
 
 (2) A Médiatanács a közigazgatási szerződésben az alábbi hatósági ügytípusok – a kódex hatálya alá tartozó vállalkozások irányában, nem hatósági feladatként történő – ellátására hatalmazhatja fel az önszabályozó szervezeteket:
 
-a) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete a nyomtatott sajtótermékek tekintetében,
+a) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete a nyomtatott sajtótermékek tekintetében,
 
-b) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete az internetes sajtótermékek tekintetében,
+b) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete az internetes sajtótermékek tekintetében,
 
-c) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
+c) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
 
 d) e törvény Második Része I. Fejezete rendelkezéseinek, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében.
 

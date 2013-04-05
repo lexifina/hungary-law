@@ -6,11 +6,11 @@ b) lemond,
 
 c) meghal,
 
-d) a miniszterelnök a (2) bekezdés szerint felmenti,
+d) a köztársasági elnök a (2) bekezdés szerint felmenti,
 
 e) az Országgyűlés a kinevezésétől számítva 30 napon belül – amennyiben olyan időpontban történik a kinevezés, amely az Országgyűlés ülésszakán kívül esik, úgy a következő ülésszak kezdetétől számított 15 napon belül – nem választja meg a Médiatanács elnökévé.
 
-(2) A miniszterelnök felmenti az Elnököt, ha
+(2) A köztársasági elnök felmenti az Elnököt, ha
 
 a) a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
 
@@ -19,6 +19,8 @@ b) ha az Elnökkel szemben lefolytatott büntetőeljárás eredményeként az El
 c) cselekvőképességet érintő gondnokság alá helyezték,
 
 d) ha neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak.
+
+(2a) A köztársasági elnök a (2) bekezdés szerinti döntését a miniszterelnök javaslata alapján hozza meg.
 
 (3) A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése esetén az Elnököt a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az Elnök három évnél rövidebb ideig töltötte be tisztségét, úgy a (8) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
 

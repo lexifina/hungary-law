@@ -10,7 +10,7 @@ ba) a gyermekek és a kiskorúak védelmére vonatkozó előírások,
 
 bb) kiemelten nagy jelentőséggel bíró esemény közvetítésével kapcsolatos előírások,
 
-bc) az országgyűlési közvetítéssel kapcsolatos szabályok,
+bc)
 
 bd) a rendkívüli helyzetekre vonatkozó, médiaszolgáltatást érintő rendelkezések,
 

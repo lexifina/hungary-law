@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2012-07-03 | 2012. évi LXVI. törvény | 2010-185-00-00.15 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2010-185-00-00.16 |
 | 2013-02-01 | 2012. évi LXXXV. törvény | 2010-185-00-00.17 |
+| 2013-04-05 | 2013. évi XXXIII. törvény | 2010-185-00-00.18 |

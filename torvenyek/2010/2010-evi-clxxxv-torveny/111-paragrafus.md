@@ -44,10 +44,6 @@ n) a hírközlés területén másodfokú szervként jár el a Hivatal törvény
 
 o) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a KFGH igazgatóját.
 
-(3) Az Elnököt a miniszterelnök nevezi ki kilenc évre.
-
-(4) Elnöknek olyan személy nevezhető ki, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
-
-(5) Az Elnök a (3) bekezdésben meghatározott időtartam lejárta után újból kinevezhető.
+(3)–(5)
 
 (6) Az Elnököt nem lehet utasítani feladatkörének ellátásával és hatáskörének gyakorlásával kapcsolatos eljárása és döntése vonatkozásában. Az Elnök – a Hivatal törvényben meghatározott hatósági ügyei tekintetében – egyedi döntésre a Hivatalnak utasítást nem adhat.

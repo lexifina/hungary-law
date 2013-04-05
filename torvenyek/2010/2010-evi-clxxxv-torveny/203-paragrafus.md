@@ -130,9 +130,9 @@ c) azon mű, amely eredetileg valamely, Magyarország által elismert nemzetisé
 
 d) az olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy amely Magyarország által elismert valamely nemzetiség nyelvén kerül előadásra, ha az adott nemzetiség Magyarországhoz kapcsolódó kultúrájával van összefüggésben,
 
-e) az olyan instrumentális zenei műsorszám, amely – elsősorban szerzője vagy előadója révén – a magyar vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi, vagy
+e) az olyan instrumentális zenei műsorszám, amely a magyar kultúra vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi.
 
-f) azon filmalkotás, amely a mozgóképről szóló törvény értelmében magyarnak minősül.
+f)
 
 38. Magyar zenei mű: magyar műnek minősülő szöveges vagy instrumentális zenei mű.
 
