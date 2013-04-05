@@ -40,7 +40,9 @@ f)
 
 (1e) A földhasználó által bejelentett azonosító adatokat az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás, illetve a cégnyilvántartás adataiból ellenőrizheti.
 
-(2) Aki termőföldet használ, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) – bejelenteni. Ha a használó nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetve a haszonélvezőnek is alá kell írnia.
+(2) Aki termőföldet használ, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) – bejelenteni. Ha a használó nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetve a haszonélvezőnek is alá kell írnia. E bekezdésben foglaltakat zártkert esetében a (2a) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(2a) Zártkert esetében az (1) bekezdésben előírt bejelentési kötelezettség csak azt terheli, aki a haszonélvezeti jogánál fogva, vagy a tulajdonossal, illetve a haszonélvezővel való megállapodás alapján használja a zártkertet.
 
 (3) Ha a földhasználat olyan szerződés alapján keletkezett, amelynek érvényességéhez jogszabály alapján kötelező írásba foglalás szükséges, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bejelentési adatlapot a használatba adónak nem kell aláírnia, de a bejelentési adatlaphoz a szerződés – osztatlan közös tulajdonban álló földrészlet használata esetén az egységes okiratba foglalt használati megállapodás, illetve szerződés – eredeti példányát vagy annak közjegyző által hitelesített másolatát mellékelni kell.
 
