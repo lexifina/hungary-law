@@ -60,7 +60,9 @@ b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét 
 
 24. a földalatti gombák gyűjtésére vonatkozó részletes szabályokat;
 
-25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait.
+25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait;
+
+26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 
