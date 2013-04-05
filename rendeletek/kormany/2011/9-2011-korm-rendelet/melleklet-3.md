@@ -4,7 +4,7 @@
 
 ## A Katasztrófavédelmi Igazgatóság tájékoztatójához, helyszíni ellenőrzés jegyzőkönyvéhez
 
-| 1. Önkormányzat/Többcélú kistérségi társulás neve: |  |
+| 1. Önkormányzat neve: |  |
 
 | 2. Bejelentett vis maior esemény megnevezése: |  |
 
@@ -24,20 +24,20 @@
 
 | Helyszíni ellenőrzés megállapításai: |  |
 
-## Kelt: ........................................, 20 ..... év ................... hó ..... nap
+## Kelt: ........................................, 20 ..... év ................... hó ..... nap
 
 ## P. H.
 
-| .................................................................. | ........................................ |
+|  | .................................................................. | ....................................... |
 
-| Katasztrófavédelmi Igazgatóság részéről: | Önkormányzat részéről: |
+|  | Katasztrófavédelmi Igazgatóság részéről: | Önkormányzat részéről: |
 
-| Név: | Név: |
+|  | Név: | Név: |
 
-| Beosztás: | Beosztás: |
+|  | Beosztás: | Beosztás: |
 
-| Telefon: | Telefon: |
+|  | Telefon: | Telefon: |
 
-3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^11]
+3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^88]
 
-[^11]: A 3. melléklet a 300/2011. (XII. 22.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^88]: A 3. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.

@@ -1,10 +1,10 @@
-## A) BEJELENTŐ ADATLAP VIS MAIOR TÁMOGATÁS IGÉNYLÉSÉRE
+## A) BEJELENTŐ ADATLAP VIS MAIOR ESEMÉNYRŐL
 
 ## Igénylésazonosító:
 
-| 1. | Önkormányzat/Többcélú kistérségi társulás neve: |  |
+| 1. | Önkormányzat neve: |  |
 
-| 2. | Önkormányzat/Többcélú kistérségi társulás címe: |  |
+| 2. | Önkormányzat címe: |  |
 
 | 3. | Kapcsolattartó neve: |  |
 
@@ -14,7 +14,7 @@
 
 | 6. | Fax: |  |
 
-| 7. | Vis maior esemény megnevezése (több is választható): | (az előre nem látható természeti vagy más eredetű erők által okozott veszély miatt szükségessé váló védekezés, önkormányzati épület helyreállítása, út helyreállítása, híd helyreállítása, komp helyreállítása, ár-, belvízvédelmi vízilétesítmény helyreállítása, közmű- és műtárgyainak helyreállítása, pince-, partfal helyreállítása, földcsuszamlás helyreállítása) |
+| 7. | Vis maior esemény megnevezése (több is választható): | (az előre nem látható természeti vagy más eredetű erők által fenyegető veszély bekövetkezésének lehetősége miatt szükségessé váló védekezés, önkormányzati épület helyreállítása, út helyreállítása, híd helyreállítása, komp helyreállítása, ár-, belvízvédelmi vízilétesítmény helyreállítása, közmű- és műtárgyainak helyreállítása, pince-, partfal helyreállítása, földcsuszamlás helyreállítása) |
 
 | 8. | Vis maior esemény pontos időpontja: |  |
 
@@ -34,27 +34,27 @@
 
 | a) | Saját forrás: | Ft | % |
 
-| b) | Egyéb források (pl. biztosítás): | Ft | % |
+| b) | Egyéb források: | Ft | % |
 
 | c) | Előzetesen becsült igény: | Ft | % |
 
 ## A 15. c) szerinti előzetesen becsült igény megegyezik a 12–15. a)–15. b) eredményével.
 
-## Kelt: ........................................, 20 ..... év ................... hó ..... nap
+## Kelt: ........................................, 20 ..... év ................... hó ..... nap
 
 ## P. H.
 
-| ......................................................... | ............................................................................... |
+| ......................................................... | ..................................................................... |
 
-| polgármester/elnök | (kör)jegyző/munkaszervezet vezető |
+| polgármester/elnök | (kör)jegyző |
 
 ## B) ELŐLEG IRÁNTI KÉRELEM ADATLAPJA
 
 ## Igénylésazonosító:
 
-| 1. | Önkormányzat/Többcélú kistérségi társulás neve: |  |
+| 1. | Önkormányzat neve: |  |
 
-| 2. | Önkormányzat/Többcélú kistérségi társulás címe: |  |
+| 2. | Önkormányzat címe: |  |
 
 | 3. | Kapcsolattartó neve: |  |
 
@@ -68,7 +68,7 @@
 
 | 8. | Előzetesen becsült helyreállítási költségek összesen: |  |
 
-| 9. | Amennyiben a 7. és 8. pontban jelzett költségek eltérnek az 1. melléklet A) rész 10. és 11. pontjától, úgy ennek indoklása szükséges: |  |
+| 9. | Ha a 7. és 8. pontban jelzett költségek eltérnek az 1. melléklet A) rész 10. és 11. pontjától, úgy ennek indoklása szükséges: |  |
 
 | 10. | Azonnali segítségnyújtásra igényel előleget (igen/nem): |  |
 
@@ -78,21 +78,21 @@
 
 | c) | Igényelt előleg összesen: |  |
 
-## Tudomásul veszem, hogy a jogtalanul igénybe vett előleg összeg után az önkormányzat vagy többcélú kistérségi társulás a jegybanki alapkamat kétszeresének megfelelő mértékű kamatot fizet a jogtalan igénybevétel napjától a visszafizetés napjáig.
+## Tudomásul veszem, hogy a jogtalanul igénybe vett előleg összeg után a helyi önkormányzat a jegybanki alapkamat kétszeresének megfelelő mértékű kamatot fizet a jogtalan igénybevétel napjától a visszafizetés napjáig.
 
-## Kelt: ........................................, 20 ..... év ................... hó ..... nap
+## Kelt: ........................................, 20 ..... év ................... hó ..... nap
 
 ## P. H.
 
-| ......................................................... | ............................................................................... |
+| ......................................................... | ..................................................................... |
 
-| polgármester/elnök | (kör)jegyző/munkaszervezet vezető |
+| polgármester/elnök | (kör)jegyző |
 
 ## C) KATASZTRÓFAVÉDELMI IGAZGATÓSÁG JAVASLATA AZ ELŐLEG KÉRELEMHEZ
 
 ## Igénylésazonosító:
 
-| 1. | Önkormányzat/Többcélú kistérségi társulás neve: |  |
+| 1. | Önkormányzat neve: |  |
 
 | 2. | Védekezési költségekre igényelt előleg összesen: |  |
 
@@ -110,11 +110,11 @@
 
 | d) | Javasolt előleg összesen: |  |
 
-## Kelt: ........................................, 20 ..... év ................... hó ..... nap
+## Kelt: ........................................, 20 ..... év ................... hó ..... nap
 
 ## P. H.
 
-## .......................................................................................
+## .............................................................................
 
 ## Katasztrófavédelmi Igazgatóság részéről:
 
@@ -124,4 +124,6 @@
 
 ## Telefon:
 
-2. melléklet a 9/2011. (II. 15.) Korm. rendelethez
+2. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^87]
+
+[^87]: A 2. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

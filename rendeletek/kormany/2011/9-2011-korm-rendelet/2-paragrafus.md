@@ -2,13 +2,13 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1. beruházás: a számvitelről szóló törvényben meghatározott tevékenység,
+1.[^7] beruházás: a számvitelről szóló törvényben ekként meghatározott tevékenység,
 
 2. fejlesztés: a beruházás és a felújítás, valamint immateriális javak beszerzése,
 
-3. felújítás: a számvitelről szóló törvényben meghatározott tevékenység,
+3.[^8] felújítás: a számvitelről szóló törvényben ekként meghatározott tevékenység,
 
-4. folyó jellegű működési kiadások: az önkormányzat kötelező feladatellátásához kapcsolódó működési költségek, dologi kiadások, karbantartási, javítási költségek, eszközbeszerzések költsége, személyi kiadások, mely alól kivételt képez a Hivatásos Önkormányzati Tűzoltóságok egyéb központi forrásból meg nem térülő túlóraköltsége és a hivatásos katasztrófavédelmi szervek egyetértésével alkalmazott polgári védelmi szakalegységek egyéb központi forrásból meg nem térülő költsége,
+4.[^9] folyó jellegű működési kiadások: a helyi önkormányzat kötelező feladatellátásához kapcsolódó működési költségek, dologi kiadások, karbantartási, javítási költségek, eszközbeszerzések költsége, személyi kiadások, mely alól kivételt képez a hivatásos katasztrófavédelmi szervek egyetértésével alkalmazott polgári védelmi szakalegységek egyéb központi forrásból meg nem térülő költsége,
 
 5. földcsuszamlás: a természetes egyensúlyát vesztett lejtő vagy csúszólap mentén mozgó földtömeg, amely közintézményt vagy legalább három beépített ingatlant érint, illetve a csuszamlás árvizet vagy más katasztrófahelyzetet idézhet elő,
 
@@ -20,14 +20,20 @@
 
 9. pince: a földkéregbe vájt mesterséges, falazott vagy falazatlan üreg; kivételt képeznek az ipari, bányászati céllal mélyítettek és az épületek szerkezeti részét képező pincék,
 
-10. saját forrás: a helyi önkormányzatok által képviselő-testületi, közgyűlési (a továbbiakban: képviselő-testület) határozattal, valamint a képviselő-testület költségvetési rendeletébe foglalt felhatalmazása alapján a polgármester nyilatkozatával, többcélú kistérségi társulás esetén a társulási tanács határozatával önerőként jóváhagyott forrás,
+10.[^10] saját forrás: a helyi önkormányzatok által képviselő-testületi, közgyűlési (a továbbiakban: képviselő-testület) határozattal, valamint a képviselő-testület költségvetési rendeletébe foglalt felhatalmazása alapján a polgármester nyilatkozatával önerőként jóváhagyott forrás,
 
-11. többcélú kistérségi társulás: a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján létrejött önkormányzati társulás,
-
-12. vis maior esemény: olyan előre nem látható természeti vagy más eredetű erők által okozott esemény, amelynek bekövetkezése egyrészt nem előre kiszámítható, másrészt emberi beavatkozás kevés ahhoz, hogy elhárítsa,
+11–12.[^11]
 
 13. különösen súlyos természeti károk: a természeti és lakókörnyezetben különösen földrengés, árvíz, lakott területen belüli nagy kiterjedésű belvíz, tornádó, tűzvész, robbanás, pince- vagy partfalomlás, földcsuszamlás miatt bekövetkezett károk,
 
-14.[^1] igazgatási feladatok ellátását szolgáló intézmény: önkormányzati, államigazgatási feladat ellátását végző intézmény, különösen a polgármesteri hivatal, fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
+14.[^12] igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmény: önkormányzati, államigazgatási feladat ellátását végző intézmény, különösen a polgármesteri hivatal, fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
 
-[^1]: A 2. § 14. pontja a 174/2012. (VII. 26.) Korm. rendelet 82. §-a szerint módosított szöveg.
+15.[^13] katasztrófavédelmi szúnyoggyérítés: a Kormány által kihirdetett veszélyhelyzet időszakában ár- és belvíz által sújtott területet érintő védekezéshez kapcsolódó, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve által – az Országos Tisztifőorvosi Hivatal engedélye alapján – jóváhagyott, légi úton, belterületen az adott költségvetési évben végzett szúnyoggyérítés.
+
+[^7]: A 2. § 1. pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^8]: A 2. § 3. pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^9]: A 2. § 4. pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 5. pontja és 12. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 2. § 10. pontja a 92/2013. (III. 28.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 2. § 11–12. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^12]: A 2. § 14. pontja a 174/2012. (VII. 26.) Korm. rendelet 82. §-a, a 92/2013. (III. 28.) Korm. rendelet 11. § 6. pontja szerint módosított szöveg.
+[^13]: A 2. § 15. pontját a 92/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be.

@@ -12,7 +12,7 @@
 
 ## Jelen vannak
 
-| Önkormányzat/Társulás részéről: |  | A területileg illetékes fővárosi és megyei kormányhivatal részéről: |  |
+| Önkormányzat részéről: |  | A helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -24,7 +24,7 @@
 
 | P. H. | P. H. |
 
-| ...................................... | ...................................... |
+| ......................................... | ......................................... |
 
 | Katasztrófavédelmi Igazgatóság részéről: |  | Vízügyi Igazgatóság részéről: |  |
 
@@ -38,7 +38,7 @@
 
 | P. H. | P. H. |
 
-| ...................................... | ...................................... |
+| ......................................... | ......................................... |
 
 | Közlekedésfejlesztési Koordinációs Központ részéről: |  | Pince- és Partfalveszély-Elhárítási Szakértői Bizottság részéről: |  |
 
@@ -52,7 +52,7 @@
 
 | P. H. | P. H. |
 
-| ...................................... | ...................................... |
+| ......................................... | ......................................... |
 
 | Belügyminisztérium részéről: |  | Egyéb felkért szerv: |  |
 
@@ -66,13 +66,13 @@
 
 | P. H. | P. H. |
 
-| ...................................... | ...................................... |
+| ......................................... | ......................................... |
 
 ## Vis maior esemény adatai
 
 | Vis maior esemény leírása: |  |  |
 
-| Sor- szám | Vis maior esemény megnevezése | Település | Utca | Házszám | Hrsz. | Érintett alapterület | Mértékegység (m2, m3, fm) | Megállapítások (károsodás mértéke, tulajdonjog- viszony) |
+| Sorszám | Vis maior esemény megnevezése | Település | Utca | Házszám | Hrsz. | Érintett alapterület | Mérték- egység (m2, m3, fm) | Megállapí- tások (károsodás mértéke, tulajdon- jogviszony) |
 
 | 1. |  |  |  |  |  |  |  |  |
 
@@ -94,7 +94,7 @@
 
 ## Megállapítások
 
-| A kár önkormányzati/Többcélú Kistérségi Társulási tulajdonban keletkezett (igen/nem): |  |
+| A kár önkormányzati tulajdonban keletkezett (igen/nem): |  |
 
 | A káreseményt az önkormányzat időben – 7 napon belül – bejelentette (igen/nem/nem vonatkozik): |  |
 
@@ -126,9 +126,9 @@
 
 | Szakértői vélemény: |  |  |
 
-## * A Magyar Bányászati és Földtani Hivatal által megállapított földtani veszélyességi kategóriát kell érteni.
+## * A Magyar Bányászati és Földtani Hivatal által megállapított földtani veszélyességi kategóriát kell érteni.
 
-## Kelt: ..................., 20 ..... év ................... hó ..... nap   P. H          ...........................................
+| Kelt: ..................., 20 ..... év ................... hó ..... nap | P. H | ........................................... |
 
 | Pince- és Partfalveszély-Elhárítási Szakértői Bizottság részéről: |  |
 
@@ -138,6 +138,6 @@
 
 | Fax: |  |
 
-| Email: |  |
+| E-mail: |  |
 
 4. melléklet a 9/2011. (II. 15.) Korm. rendelethez

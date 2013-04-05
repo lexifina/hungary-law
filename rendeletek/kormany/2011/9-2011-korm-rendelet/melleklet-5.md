@@ -28,17 +28,17 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^12]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^89]
 
 Igénylésazonosító:
 
 Vis maior pályázati adatlap
 
-| A kérelmező önkormányzat/többcélú kistérségi társulás adatai: |
+| A kérelmező önkormányzat adatai: |
 
-| 1. | Önkormányzat/többcélú kistérségi társulás neve: |  |
+| 1. | Önkormányzat neve: |  |
 
-| 2. | Önkormányzat/többcélú kistérségi társulás címe: |  |
+| 2. | Önkormányzat címe: |  |
 
 | 2.a. | Település |  |
 
@@ -64,9 +64,9 @@ Vis maior pályázati adatlap
 
 5. A káresemény helyszínének és mennyiségi mutatóinak ismertetése:
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  | adatok forintban |
+adatok forintban
 
-| Sorszám | Vis maior esemény megnevezése (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp, ár-, belvízvédelmi vízilétesítmény, pince-, partfal stb.) | Rövid leírás | Település | Utca, házszám | Hrsz. | Érintett alapterület (m2, fm) | A szakértői nyilatkozat szerinti megvaló- sítandó munka- feladat | Mennyiség | Egységár | Nettó | Bruttó | Számlával eddig alá- támasztva összesen bruttó | Számla sorszáma | A területileg illetékes fővárosi és megyei kormány- hivatal észre- vétele |
+| Sorszám | Vis maior esemény megnevezése (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp, ár-, belvízvédelmi vízilétesítmény, pince-, partfal stb.) | Rövid leírás | Település | Utca, házszám | Hrsz. | Érintett alapterület (m2, fm) | A szakértői nyilatkozat szerinti megvalósítandó munkafeladat | Mennyiség | Egységár | Nettó | Bruttó | Számlával eddig alátámasztva összesen bruttó | Számla sorszáma | A helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal észrevétele |
 
 |  | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. |
 
@@ -106,7 +106,7 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 12. | Védekezés megszüntetésének időpontja: |  |
 
-| A 10–12. pontok ár- vagy belvíz elleni védekezés esetén töltendők |
+| A 10–12. pontok ár- vagy belvíz elleni védekezés esetén töltendők ki |
 
 | 13. | Az 5. pontban bemutatott költségek részletezése, költségelőirányzata: |  |
 
@@ -122,7 +122,7 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 14.c. | műszaki ellenőrzési díj: |  |
 
-| 14.d. | egyéb költségek (pl. tulajdoni lap díja): |  |
+| 14.d. | egyéb költségek: |  |
 
 | A káresemény helyszínének és mennyiségi mutatóinak ismertetése szerinti táblában (5. pont) vis maior eseményenként rögzített költségekből az egyéb költségeket a fenti bontásban szükséges megadni (Az 5. pontban valamennyi egyéb költséget is tartalmaznia kell a költségeknek!) |
 
@@ -174,12 +174,14 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 33. | Vis maior támogatási igény összesen (26.+32. sorok összege): |  |
 
+Büntetőjogi felelősségem tudatában kijelentem, hogy a pályázatban foglaltak a valóságnak megfelelnek, teljeskörűek és hitelesek. Az adatokban bekövetkezett, a védekezési munkálatok, a tervezett helyreállítási munkálatok megvalósítását akadályozó változásokról a minisztert haladéktalanul értesítem. Tudomásul veszem, hogy a pályázat elfogadása esetén a támogatás tényét a miniszter nyilvánosságra hozza.
+
 Kelt:
 
 P. H.
 
-| .......................................... | ...................................................................... |
+| ........................................... | ................................................................ |
 
-| polgármester/elnök | jegyző/munkaszervezet vezető, |
+| polgármester/elnök | jegyző |
 
-[^12]: Az 5. melléklet a 11. § szerint módosított szöveg.
+[^89]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
