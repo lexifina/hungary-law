@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2013-01-01 | 2007-273-20-22.21 | 252/2012. (IX. 7.) Korm. rendelet |
 | 2013-02-01 | 2007-273-20-22.22 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-03-30 | 2007-273-20-22.23 | 99/2013. (III. 29.) Korm. rendelet |
+| 2013-04-05 | 2007-273-20-22.24 | 108/2013. (IV. 5.) Korm. rendelet |
