@@ -60,48 +60,6 @@
 
 ## 6. A „Mennyiség” – megfelelő módon – a cikkek számát vagy a robbanóanyagok nettó tömegét jelenti.
 
-6. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^77]
+6. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^100]
 
-Robbantási tevékenység bejelentéséhez szükséges adatok
-
-1. A bejelentést tevő
-
-1.1. neve,
-
-1.2. címe,
-
-1.3. telephelye,
-
-1.4. elérhetősége.
-
-2. A robbantással érintett építmény
-
-2.1. elnevezése,
-
-2.2. helye,
-
-2.3. közművei kiszakaszolásának megoldásai.
-
-3. A robbantás biztonsági távolságán belül lévő lakóterület kiterjedése.
-
-4. A robbantás során szükséges biztonsági intézkedések, a védendő létesítmények és azok megóvását szolgáló intézkedések leírása.
-
-5. A robbantás biztonsága érdekében lezárt útszakaszok ismertetése.
-
-6. A robbantás ideje: év/hónap/nap, óra:perc.
-
-7. A robbantásért felelős személy
-
-7.1. neve,
-
-7.2. születési helye és ideje,
-
-7.3. anyja neve,
-
-7.4. állandó lakóhelye,
-
-7.5. telefonszáma.
-
-8. Nyilatkozat arról, hogy a bejelentő büntetőjogi felelőssége tudatában kijelenti, hogy a bejelentésben lévő adatok a valóságnak megfelelnek.
-
-[^77]: A 6. számú mellékletet a 18/2013. (I. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^100]: A 6. számú mellékletet a 18/2013. (I. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.
