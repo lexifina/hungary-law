@@ -1,1 +1,1 @@
-20. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 3. § (2) bekezdésében a „vagy a Pp. 127. §-ában meghatározott módon érvényesíthető” szövegrész helyébe a „vagy a Pp. 127. §-ában meghatározott módon vagy a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben érvényesíthető” szöveg lép.
+20. §
