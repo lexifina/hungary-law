@@ -1,1 +1,0 @@
-40. § A villamos energiával összefüggő egyes kérdésekről szóló 2008. évi LXX. törvény 3. § (3) bekezdésében a „Magyar Energia Hivatalnak” szövegrész helyébe a „Magyar Energetikai és Közmű-szabályozási Hivatalnak” szöveg lép.

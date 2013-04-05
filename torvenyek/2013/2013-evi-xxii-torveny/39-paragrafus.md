@@ -1,1 +1,0 @@
-39. § A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 16. § (6) bekezdés q) pontjában a „Magyar Energia Hivatalt” szövegrész helyébe a „Magyar Energetikai és Közmű-szabályozási Hivatalt” szöveg lép.

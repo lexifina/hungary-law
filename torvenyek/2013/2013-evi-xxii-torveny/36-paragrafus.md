@@ -1,1 +1,0 @@
-36. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény 22. § (3) bekezdésében, 23. §-ában, 28/A. §-ában és 41. § (4) bekezdésében a „Magyar Energia Hivatal” szövegrész helyébe a „Magyar Energetikai és Közmű-szabályozási Hivatal” szöveg lép.

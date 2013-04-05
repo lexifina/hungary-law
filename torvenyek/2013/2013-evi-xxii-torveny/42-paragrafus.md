@@ -1,1 +1,0 @@
-42. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. § (3) bekezdésében az „és a Nemzeti Média- és Hírközlési Hatóság elnöke rendeletben” szövegrész helyébe az „ , a Nemzeti Média- és Hírközlési Hatóság elnöke és a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke rendeletben” szöveg lép.
