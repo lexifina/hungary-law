@@ -10,7 +10,7 @@ c)
 
 d)–e)
 
-(2)
+(2) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 
 (3)
 
