@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2012-10-01 | 2012. évi LXI. törvény | 1995-66-00-00.29 |
 | 2012-12-28 | 2012. évi CCXXI. törvény | 1995-66-00-00.30 |
 | 2013-01-01 | 2012. évi CCXIII. törvény | 1995-66-00-00.31 |
+| 2013-04-05 | 2013. évi XXXV. törvény | 1995-66-00-00.32 |

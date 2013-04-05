@@ -6,7 +6,7 @@
 
 a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a Katonai Nemzetbiztonsági Szolgálat,
 
-b) a Földügyi és Távérzékelési Levéltár esetében a földmérési és térképészeti tevékenységért felelős miniszter felügyelete alá tartozó szervek,
+b) a Földügyi és Távérzékelési Levéltár esetében a földmérési és térképészeti tevékenységért felelős miniszter felügyelete alá tartozó ingatlanügyi hatóságok és a kataszteri program megvalósításáért felelős szerv,
 
 c) a Környezetvédelmi és Vízügyi Levéltár esetében a környezetvédelemért felelős miniszter és a vízgazdálkodásért felelős miniszter felügyelete alá tartozó szervek,
 
