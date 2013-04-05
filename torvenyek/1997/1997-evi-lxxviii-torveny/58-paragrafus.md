@@ -30,7 +30,7 @@ af) a településtervezői tevékenység,
 
 ag) a településrendezői szakértői tevékenység,
 
-ah) a tervellenőri tevékenység
+ah)
 
 folytatására engedélyt kérelmező személy,
 
@@ -68,7 +68,7 @@ Az a) és b) pontokban meghatározott eljárások, illetve azokkal összefüggé
 
 a) az építésügy körébe tartozó szakmai közfeladat ellátásának elősegítése,
 
-b) az építmények és telkek állapotának, az építési folyamat végzésének, az építési folyamat résztvevői tevékenységének ellenőrizhetősége,
+b) az építmények és telkek állapotának, az építési folyamat végzésének, az építési folyamat résztvevői tevékenységének, szerződéses kötelezettsége teljesítésének ellenőrizhetősége, elmulasztásának (11) bekezdés szerinti szankcionálhatósága,,
 
 c) az egyéb szakmai feladatok ellátásához, kötelezettségek teljesítéséhez, építésügyi érdekérvényesítéshez szükséges adatok és információk szolgáltatása.
 
@@ -88,7 +88,7 @@ f) településtervező,
 
 g) településrendezési szakértő,
 
-h) tervellenőr,
+h)
 
 i) építésügyi igazgatási szakértő,
 
@@ -100,7 +100,7 @@ l) felelős műszaki vezető, valamint
 
 m) energetikai tanúsító.
 
-(10) Az adatkezelő a (6) bekezdésben meghatározott kötelező adatkezelés során a (9) bekezdésben felsorolt személyek alábbi személyes adatait kezeli:
+(10) Az adatkezelő a (9) bekezdésben felsorolt személyek alábbi személyes adatait kezeli:
 
 a) természetes személyazonosító adatok,
 

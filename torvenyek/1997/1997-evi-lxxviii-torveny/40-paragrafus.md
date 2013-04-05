@@ -2,7 +2,7 @@
 
 a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, az építési napló vezetéséért, kivitelezői jogosultságának meglétéért,
 
-b) az építtető által rendelkezésére bocsátott jogerős és végrehajtható építési engedélyben és a hozzá tartozó jóváhagyott engedélyezési tervekben, az ezek alapján készült, erre jogosult tervellenőrrel ellenőriztetett kiviteli tervekben előírtak betartásáért és betartatásáért, valamint
+b) az építtető által rendelkezésére bocsátott jogerős és végrehajtható építési engedélyben és a hozzá tartozó jóváhagyott engedélyezési tervekben, az ezek alapján készült kivitelezési tervekben előírtak betartásáért és betartatásáért, valamint
 
 c) az elvégzett szakmunkák eredményeként létesült szerkezetek, berendezések, építmény, építményrész rendeltetésszerű és biztonságos használhatóságáért.
 
