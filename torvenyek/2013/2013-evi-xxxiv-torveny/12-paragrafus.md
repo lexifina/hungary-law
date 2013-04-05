@@ -1,0 +1,1 @@
+12. § E törvény 13. § (5) bekezdés b) pontja, 14. és 15. §-a, 21. és 22. §-a a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
