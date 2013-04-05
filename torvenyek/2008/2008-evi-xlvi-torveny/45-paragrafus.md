@@ -8,4 +8,4 @@
 
 (4) Ha az igazgatási szolgáltatási díj meg nem fizetése ellenére az élelmiszerlánc-felügyeleti szerv eljár, a meg nem fizetett díj adók módjára behajtandó köztartozásnak minősül.
 
-(5)
+(5) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
