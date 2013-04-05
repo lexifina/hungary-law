@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2012-04-15 | 2012. évi XXXI. törvény | 1997-159-00-00.18 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1997-159-00-00.19 |
 | 2013-01-01 | 2012. évi CXX. törvény | 1997-159-00-00.20 |
+| 2013-04-05 | 2013. évi XXXV. törvény | 1997-159-00-00.21 |

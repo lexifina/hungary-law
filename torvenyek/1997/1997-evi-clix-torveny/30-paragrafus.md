@@ -16,4 +16,6 @@
 
 (7) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az önkormányzati mezei őrszolgálat megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás igénybevételének rendjét és feltételeit, valamint a hozzájárulás legmagasabb mértékét.
 
-(8)
+(8) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a mezőőr és a hegyőr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat rendeletben állapítsa meg.
+
+(9) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy a természetvédelmi őr és az önkormányzati természetvédelmi őr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat rendeletben állapítsa meg.
