@@ -1,0 +1,101 @@
+# A Kormány 1175/2013. (IV. 5.) Korm. határozata
+
+Magyar Közlöny 2013. évi 58. szám, 2013. április 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8afa03ecab2c23d9e3b54f7b7b9a7fbbed712fab/dokumentumok/263861f01f917c146e35861c4468a35aebc63848/letoltes)
+
+---
+
+A Kormány 1175/2013. (IV. 5.) Korm. határozata
+a Szépművészeti Múzeum felújítási és működési célú kiadásaihoz szükséges forrás biztosításáról
+A Kormány
+
+1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében
+a Szépművészeti Múzeum és a Magyar Nemzeti Galéria épületeinek és kiállítótereinek megújításához 200,0 millió
+forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében
+visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény
+(a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára,
+a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére;
+Az átcsoportosítás tekintetében
+Felelős:
+nemzetgazdasági miniszter
+Határidő:
+azonnal
+Az elszámolás és a visszatérítési kötelezettség tekintetében
+Felelős:
+emberi erőforrások minisztere
+Határidő:
+2014. február 28.
+
+2. felhívja a nemzetgazdasági minisztert, hogy tegyen javaslatot – lehetőség szerint az Áht. 33. §-ában foglaltakra
+figyelemmel, legfeljebb 450,0 millió forint erejéig – a Szépművészeti Múzeumban 2013 őszén megrendezendő
+„Caravaggiótól Canalettóig – Két évszázad itáliai festészetének remekművei” című kiállításhoz szükséges források
+biztosítására.
+Felelős:
+nemzetgazdasági miniszter
+Határidő:
+2013. július 15.
+
+Orbán Viktor s. k.,
+
+miniszterelnök
+
+1. melléklet az 1175/2013. (IV. 5.) Korm. határozathoz
+1. melléklet a /2013. ( ) Korm. határozathoz
+XI. Miniszterelnökség
+XX. Emberi Erőforrások Minisztériuma
+Millió forintban, egy tizedessel
+ÁHT Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. K I A D Á S O K (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XX. Emberi Erőforrások Minisztériuma
+218672 11 Közgyűjtemények
+2 Felhalmozási költségvetés
+2 Felújítások 200,0
+XI. Miniszterelnökség
+297102 7 Rendkívüli kormányzati intézkedések -200,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. B E V É T E L A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. T Á M O G A T Á S A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XX. Emberi Erőforrások Minisztériuma
+218672 11 Közgyűjtemények 200,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I.n.év II. n.év III.n.év IV.n.év
+Fejezet időarányos
+Állami Számvevőszék teljesítményarányos
+Magyar Államkincstár egyéb: azonnal 200,0 200,0
+Nemzetgazdasági Minisztérium
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+2 példány
+A módosítást
+elrendelő
+jogszabály/
+határozat száma
+A módosítást
+elrendelő
+jogszabály/
+határozat száma
+Az adatlap 5 példányban töltendő ki
+1 példány
+1 példány
+1 példány
+Foglalkoztatottak létszáma:
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+a Kormány hatáskörében
+Költségvetési év: 2013.
+A módosítást
+elrendelő
+jogszabály/
+határozat száma

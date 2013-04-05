@@ -1,0 +1,470 @@
+# A Kormány 103/2013. (IV. 5.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 58. szám, 2013. április 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8afa03ecab2c23d9e3b54f7b7b9a7fbbed712fab/dokumentumok/263861f01f917c146e35861c4468a35aebc63848/letoltes)
+
+---
+
+A Kormány 103/2013. (IV. 5.) Korm. rendelete
+az egyes ágazatokban működő munkáltatók által, a kötelező legkisebb munkabér
+és a garantált bérminimum emeléséből 2013. első félévében adódó többletterhekhez igénybe vehető
+támogatásról, valamint a Nemzeti Munkaügyi Hivatalról és a szakmai irányítása alá tartozó
+szakigazgatási szervek feladat- és hatásköréről szóló 323/2011. (XII. 28.) Korm. rendelet módosításáról
+A Kormány
+az 1–10. § tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 40. §
+(4) bekezdésében kapott felhatalmazás alapján,
+a 11. § tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 47. § (1) bekezdésében
+kapott felhatalmazás alapján,
+valamint az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+ E rendelet alkalmazásában
+1.
+statisztikai állományi létszám: a munkaügyi-statisztikai adatszolgáltatáshoz a Központi Statisztikai Hivatal
+honlapján 2013. január 1-jei állapot szerint közzétett útmutató szerint számított létszám azzal az eltéréssel,
+hogy az átlagos statisztikai állományi létszámot a 2013. január 1-jei és a hó végi létszámadatok alapján kell
+kiszámítani;
+2.
+csekély összegű (de minimis) támogatás: az 1998/2006/EK bizottsági rendelet szerinti támogatás.
+2. §
+ A rendelet hatálya kiterjed
+a)
+arra a munkáltatóra, amely a 2012. december 31. napjától 2013. június 30. napjáig terjedő időtartam alatt
+fő tevékenysége szerint 1. mellékletben felsorolt ágazatokban működött, illetve működik (a továbbiakban:
+munkáltató),
+b)
+a Nemzeti Munkaügyi Hivatalra,
+c)
+a fővárosi és megyei kormányhivatal munkaügyi központjára (a továbbiakban: munkaügyi központ), továbbá
+d)
+a Nemzeti Foglalkoztatási Alap „A kötelező legkisebb munkabér és a garantált bérminimum emelés ágazati
+támogatása” előirányzat felhasználására.
+3. §
+(1) A munkaügyi központ a munkáltató részére – kérelmére – támogatást állapít meg a kötelező legkisebb munkabér
+és a garantált bérminimum (a továbbiakban együtt: kötelező bérminimum) összege 2013. január 1. napjától
+bekövetkezett emelkedéséből adódó költségeinek csökkentéséhez.
+
+(2) Az (1) bekezdésben meghatározott támogatás – a (3) és (6) bekezdésben foglaltak kivételével – olyan munkavállaló
+után igényelhető,
+a)
+aki a munkáltatóval 2012. december 31-én és a 2013. január 1-jétől 2013. június 30-ig terjedő időtartam
+egészében, vagy annak egy részében munkaviszonyban állt, illetve áll, és a munkáltató statisztikai állományi
+létszámába tartozott, illetve tartozik, és
+b)
+akinek 2012. december 31-ei állapot szerinti alapbére nem érte el a 2013. január 1-jétől hatályos, az általa
+betöltött munkakör alapján rá irányadó kötelező bérminimum összegét, és
+c)
+akinek alapbérét 2013. január 1-jétől a munkáltató legalább ettől az időponttól hatályos, a betöltött munkaköre
+alapján rá irányadó kötelező bérminimum összegében állapította meg.
+
+(3) A (2) bekezdésben foglaltaktól eltérően a támogatás olyan munkavállaló után is igényelhető, aki a munkáltatóval
+2012. december 31-én nem állt munkaviszonyban, de akivel a munkáltató ezt az időpontot követően a (2) bekezdésben
+meghatározott munkavállaló munkaviszonyának megszűnése miatt megüresedő munkakör betöltésére, vagy tartós
+távolléte miatti helyettesítés céljából létesít munkaviszonyt.
+
+(4) A támogatási igény kiszámításánál a 2013. január 1-től a támogatás iránti kérelem benyújtásáig terjedő időszakban
+csak azt az időtartamot lehet figyelembe venni, amely alatt a (2) és (3) bekezdésben meghatározott munkavállaló
+munkaviszonya fennállt, és a munkavállaló beletartozott a munkáltató statisztikai állományi létszámába.
+
+(5) A támogatási igény kiszámításánál a kérelem benyújtásától 2013. június 30-ig terjedő időszakban azokat
+az időtartamokat lehet figyelembe venni, amely alatt
+a)
+a munkáltató ismeretei szerint a munkavállaló munkaviszonya fennáll, és a munkavállaló a munkáltató
+statisztikai állományi létszámába tartozik,
+b)
+a munkavállaló munkaviszonya már nem áll fenn, vagy várhatóan nem fog fennállni, de a munkáltató vállalja,
+hogy a munkavállaló munkakörét munkaviszony létesítésével be fogja tölteni, továbbá ha várható tartós
+távollét miatt helyettesítés céljából munkaviszonyt kíván létesíteni.
+
+(6) Nem igényelhető támogatás
+a)
+az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló jogviszonyban foglalkoztatott munkavállaló
+után, valamint
+b)
+olyan munkavállaló után, akinek foglalkoztatásához a munkáltató foglalkoztatás bővítő bértámogatásban,
+munkahelymegőrző támogatásban, munkatapasztalatszerzés támogatásban, részmunkaidős foglalkoztatás
+támogatásában, valamint megváltozott munkaképességű személyek foglalkoztatásához nyújtható
+támogatásban részesül,
+c)
+amely alatt a munkavállaló nem tartozott a munkáltató statisztikai állományi létszámába.
+
+(7) Nem nyújtható támogatás
+a)
+költségvetési szerv részére,
+b)
+olyan munkáltató részére, akinek lejárt esedékességű, meg nem fizetett adótartozása – ide nem értve a helyi
+adókat –, valamint járulék-, illeték- vagy vámtartozása van, kivéve, ha a megfizetésére 2013. március 31. napjáig
+fizetési halasztást kapott,
+c)
+az 1998/2006/EK bizottsági rendelet 1. cikkében meghatározottakra.
+4. §
+(1) A támogatás mértéke munkavállalónként nem haladhatja meg a kötelező bérminimum 2012. december 31-én
+és 2013. január 1-én hatályos összege közötti különbözet, valamint az erre a különbözetre számított (tényleges
+kedvezményekkel csökkentett) szociális hozzájárulási adó és szakképzési hozzájárulás együttes összegének
+2013. január 1-jétől 2013. június 30-ig számított időtartamra járó összegét. A kisvállalati adóalany munkáltató
+esetében a támogatás mértékének megállapításánál a szociális hozzájárulási adó és a szakképzési hozzájárulás
+helyett a kisvállalati adót kell figyelembe venni.
+
+(2) Az (1) bekezdés szerinti számítást a 2. mellékletben foglaltak alapján kell elvégezni.
+5. §
+(1) A támogatás iránti kérelmet 2013. május 31-éig kell benyújtani az 3. mellékletben meghatározott formanyomtatványon.
+A kérelemhez mellékelni kell az államháztartásról szóló törvény, valamint a végrehajtásáról szóló kormányrendeletben
+meghatározott nyilatkozatokat.
+
+(2) A kérelmet írásban és elektronikus formában kell benyújtani. A kérelem mellékletét képező nyilatkozatok kizárólag
+elektronikus formában nyújthatók be. A munkaügyi központ a nyilatkozatokat elektronikus formában, annak
+megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
+6. §
+(1) A támogatásról a munkaügyi központ 21 napon belül dönt.
+
+(2) A munkaügyi központ a támogatásban részesülő munkáltatóval hatósági szerződést köt.
+
+(3) A munkaügyi központ a támogatást a 2013. január 1-től június 30-ig terjedő időszakra vonatkozóan egy összegben
+állapítja meg és folyósítja.
+7. §
+(1) A munkáltató a támogatás felhasználásáról 2013. augusztus 31-éig – a 4. mellékletben foglaltak szerint – elszámolást
+nyújt be a munkaügyi központhoz.
+
+(2) A munkáltató az elszámolást követő 15 napon belül köteles visszafizetni a felvett támogatásnak azt a részét, amelynek
+felvételére nem lett volna jogosult.
+
+(3) Ha a munkáltató az (1) bekezdésben meghatározott elszámolási kötelezettségének nem tesz eleget, köteles a felvett
+támogatást visszafizetni.
+8. §
+(1) E rendeletben meghatározott támogatás csekély összegű támogatásnak minősül, és azt kizárólag az 1998/2006/EK
+bizottsági rendelet előírásaival összhangban lehet nyújtani. A kedvezményezettnek nyilatkoznia kell a kérelem
+benyújtását megelőző két pénzügyi évben és a folyamatban lévő pénzügyi évben általa igénybe vett csekély összegű
+támogatások támogatástartalmáról.
+
+(2) A 6. § (2) bekezdése szerinti hatósági szerződésben a munkáltatót tájékoztatni szükséges a támogatás összegéről
+és annak csekély összegű támogatás jellegéről. A szerződésben utalni kell a csekély összegű támogatás uniós
+jogalapjának címére, az Európai Unió Hivatalos Lapjában való kihirdetése napjára, továbbá meg kell határozni
+a támogatás összegét euróban kifejezve.
+(3) Ha az e rendelet keretében igényelt támogatás a munkáltató által igénybe vett más csekély összegű támogatásokkal
+együttesen meghaladja a vonatkozó uniós jogszabályokban meghatározott küszöbértékeket, akkor a kérelemben
+foglalt támogatási igény ezen küszöbértékek nagyságáig hagyható jóvá.
+9. §
+Ez a rendelet a kihirdetését követő napon lép hatályba, és hatályát veszti 2013. december 31-én.
+10. §
+Ez a rendelet az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a de minimis támogatásokra való
+alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379.,2006.12.28.,5.o.) hatálya alá
+tartozó támogatást tartalmaz.
+11. §
+A Nemzeti Munkaügyi Hivatalról és a szakmai irányítása alá tartozó szakigazgatási szervek feladat és hatásköréről
+szóló 323/2011. (XII. 28.) Korm. rendelet 8. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi
+területén első fokú hatósági jogkört gyakorol
+a) a munkaerő-piaci program kidolgozásának, megvalósításának megállapításával,
+b) a munkaerő-piaci szolgáltatást nyújtók részére támogatás megállapításával,
+c) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény felhatalmazása alapján
+kiadott kormányrendelet által hatáskörébe utalt foglalkoztatást elősegítő támogatás megállapításával,
+d) a bérgarancia támogatással,
+e) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével,
+f) a rendbírsággal, valamint
+g) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
+kapcsolatos ügyekben.”
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 103/2013. (IV. 5.) Korm. rendelethez
+Azok az ágazatok, amelyekbe a főtevékenységük alapján tartozó munkáltatók igényelhetik a kormányrendelet szerinti
+támogatást:
+TEÁOR ’08 Ágazat megnevezése
+10 Élelmiszergyártás
+13 Textília gyártása
+14 Ruházati termék gyártása
+15 Bőr, bőrtermék, lábbeli gyártása
+16 Fafeldolgozás (kivéve: bútor), fonottáru gyártása
+31 Bútorgyártás
+41 Épületek építése
+43 Speciális szaképítés
+47 Kiskereskedelem (kivéve: gépjármű, motorkerékpár)
+55 Szálláshely-szolgáltatás
+56 Vendéglátás
+
+2. melléklet a 103/2013. (IV. 5.) Korm. rendelethez
+A kötelező bérminimumok 2013. évi emelése miatti béremelések 2013. I. félévi költségének számítása
+1. Minimálbérre jogosult munkavállalók a 2013. január 1-jei állapot szerint:
+Érintett
+munkavállaló
+sorszáma
+Teljes
+munkaidősre
+átszámított
+2013. január
+1-jei létszám két
+tizedessel
+(T.m.: 1,00;
+r.m<1,00 fő)
+2012.
+december
+31-i állapot
+szerinti, teljes
+munkaidőre
+átszámított
+alapbér
+(legalább
+93 000 Ft/hó)
+2013.
+január 1-jei
+minimál-bér
+(98 000 Ft/hó)
+98 000 Ft-ig
+szükséges
+béremelés 1 havi
+összege (legfeljebb
+5 000 Ft)
+98 000 Ft-ig szükséges
+béremelés 6 havi
+összege (Ft)
+98 000 Ft-ig
+szükséges béremelés
+6 havi költsége (Ft)
+A B C D E = B*(D-C) F = E*6
+G
+(Kitöltési útmutató
+szerint)
+1.
+2.
+3.
+…
+Összesen X X
+2. Garantált bérminimumra jogosult munkavállalók a 2013. január 1-jei állapot szerint:
+Érintett
+munkavállaló
+sorszáma
+Teljes
+munkaidősre
+átszámított
+2013. január
+1-jei létszám két
+tizedessel
+(T.m.: 1,00;
+r.m<1,00 fő)
+2012.
+december
+31-i állapot
+szerinti, teljes
+munkaidőre
+átszámított
+alapbér
+(legalább
+108 000 Ft/hó)
+2013. január
+1-jei garantált
+bérminimum
+(114 000Ft/hó)
+114 000 Ft-ig
+szükséges
+béremelés 1 havi
+összege (legfeljebb
+6 000 Ft)
+114 000 Ft-ig szükséges
+béremelés 6 havi
+összege (Ft)
+114 000 Ft-ig
+szükséges
+béremelés 6 havi
+költsége (Ft)
+A B C D E = B*(D-C) F = E*6
+G
+(Kitöltési
+útmutató szerint)
+1.
+2.
+3.
+…
+Összesen X X
+
+3. A kötelező bérminimumok emelése 2013. I. félévi költségének számítása:
+
+3.1 A 2013. január 1-jei állapot szerinti számítás összefoglalása:
+
+Teljes munkaidősre
+átszámított érintett létszám
+(fő)
+A kötelező
+béremelés 6 havi
+költsége (Ft)
+Minimálbérre jogosult munkavállalók a 2013. január 1-jei állapot szerint
+Garantált bérminimumra jogosult munkavállalók a 2013. január 1-jei
+állapot szerint:
+A kötelező bérminimumok 2013. évi emelése miatti béremelésre
+jogosult munkavállalók a 2013. január 1-jei állapot szerint összesen:
+A kötelező béremelés 6 havi költségének 1 főre jutó összege (Ft/fő)
+
+3.2 A kérelem benyújtásáig a létszám változásáról rendelkezésre álló információk miatti korrekció érvényesítése:
+2013. január 1-jei érintett létszám (fő):
+2013. január 31-i érintett létszám (fő)
+2013. február 28-i érintett létszám (fő):
+2013. március 31-i érintett létszám (fő):
+2013. április 30-i érintett létszám (fő):
+2013. május 31-i érintett létszám (fő):
+2013. június 30-i érintett létszám (fő)
+Támogatással érintett teljes munkaidősre átszámított
+2013. I. félévi átlagos statisztikai állományi létszám (fő)
+A kötelező bérminimumok 2013. évi emelése miatti béremelések 2013. I. félévi költsége összesen
+(Forint):
+A számítási anyagot nem kell a Kérelemhez csatolni, de ellenőrzés céljából tíz évig meg kell őrizni.
+Kitöltési útmutató a számításhoz
+Az 1. és 2. pontban található táblázatot – a rendelet 3. § (2) bekezdésében foglaltak figyelembevételével – a munkáltató
+statisztikai állományi létszámába 2013. január 1-jén tartozó azon munkavállalókra nézve kell kitölteni,
+–
+akik a 2012. december 31-ei állapot szerint is a munkáltató statisztikai állományi létszámába tartoztak, és
+–
+a 2012. december 31-ei állapot szerint az alapbérük nem érte el a 2013. január 1-jétől hatályos kötelező
+legkisebb munkabér (1. táblázat), illetve garantált bérminimum (2. táblázat) összegét.
+Ha a munkabér kizárólag teljesítménybéres formában kerül meghatározásra, akkor a teljesítménykövetelmények
+100%-os teljesítése esetén járó havi munkabért kell figyelembe venni alapbérként. Ha a munkavállaló munkakörének
+változása miatt 2013. január 1-jén vált jogosulttá a garantált bérminimumra, úgy a 2. táblázatban kell szerepeltetni,
+azzal, hogy a C) oszlopban 2012. december 31-ei alapbérként a tényleges alapbérét, de legalább 108 000 Ft-ot kell
+feltüntetni.
+A oszlop:
+Az érintett munkavállaló sorszámának a természetes személlyel való azonosíthatóságát
+a dokumentációban – ellenőrzés céljából – biztosítani kell.
+B oszlop:
+Teljes munkaidős munkavállaló esetén létszámként 1,00 főt, részmunkaidős munkavállaló esetén
+a részmunkaidő és a teljes munkaidő (általában napi 8 óra vagy heti 40 óra) hányadosát kell
+szerepeltetni két tizedes jeggyel.
+C oszlop:
+Az érintett munkavállaló 2012. december 31-ei állapot szerinti havi alapbére. Részmunkaidő esetén
+a tényleges alapbér és a B oszlop szerint teljes munkaidősre átszámított létszám hányadosaként
+meghatározott, teljes munkaidősre átszámított havi alapbért kell szerepeltetni. Az órabéres
+
+munkavállaló havi alapbére 535 Ft órabér esetén 93 000 Ft, 621 Ft órabér esetén 108 000 Ft. Magasabb
+órabér esetén a havibért 174 óra alkalmazásával kell meghatározni.
+G oszlop:
+A 6 havi költség az F oszlopban szereplő 6 havi béremelés és a béremeléshez kapcsolódó szociális
+hozzájárulási adó, szakképzési hozzájárulás, kisvállalati adóalanyiság esetén kisvállalati adó együttes
+összege. Ha az adott munkavállaló foglalkoztatásához nem kapcsolódik az alábbiakban részletezett
+kedvezmény, akkor a G oszlop számítása: F*1,285, kisvállalati adóalanyiság esetén: F*1,16.
+A szorzó a szociális hozzájárulási adóból vagy a kisvállalati adóból igénybevett kedvezmény mértékével csökkentendő
+az alábbiak szerint:
+–
+A munkahelyvédelmi akcióterv kedvezménye havi 100 000 Ft összegű munkabérig érvényesíthető,
+ezért a minimálbér emeléséhez kapcsolódóan (1. tábla) teljes kedvezmény esetén a szorzó 1,00,
+14,5%-os kedvezmény esetén a szorzó 1,14. Kisvállalati adóalany a kedvezményezett foglalkoztatott
+esetében a szorzót ehhez hasonlóan az érvényesített kedvezménnyel csökkentett mértékkel
+alkalmazhatja. A garantált bérminimum emeléséhez (a munkabér havi 100 000 Ft feletti részéhez)
+nem kapcsolódik munkahelyvédelmi akcióterv kedvezmény, ezért a szorzó 1,285, kisvállalati adóalany
+esetén 1,16 (2. tábla).
+–
+A START, START PLUSZ, START EXTRA, START BÓNUSZ, Rehabilitációs kártyával vagy a Karrier
+Híd Program keretében foglalkoztatott munkavállalók esetében az érvényesíthető kedvezmény
+mértékével csökkentett szorzó alkalmazható mind a minimálbér (1. tábla), mind pedig a garantált
+bérminimum emeléséhez (2. tábla) kapcsolódóan. Így 27%-os kedvezmény esetén a szorzó: 1,015,
+17%-os kedvezmény esetén: 1,115, 13,5%-os kedvezmény esetén 1,15, 7%-os kedvezmény esetén:
+1,215. E kedvezményeket kisvállalati adóalany nem érvényesítheti.
+
+Amennyiben egy munkavállaló után érvényesíthető adókedvezmény 2013. I. félév során változik, akkor
+a szorzót havonta a tényleges adónak megfelelően, tehát az igénybe vett kedvezményekkel csökkentve
+kell meghatározni, és a G oszlopban a 6 hónapra számított költséget ennek megfelelően kell szerepeltetni.
+Ugyanígy kell eljárni a szorzó mértékét érintő – 2013. I. félév során a kérelem benyújtásáig bekövetkezett –
+adóalanyiság változás esetén.
+
+A bérek nettó értékének megőrzéséhez igénybe vett bérkompenzációs adókedvezményt a számítás során
+nem kell figyelembe venni.
+
+A 3.1 pont szerinti táblázatba kerülnek át az 1–2. pont szerinti táblázat összesen létszám- (B oszlop) és
+költségadatai (G oszlop). Az ezek összesítésével számított adatok alapján kerül meghatározásra a kötelező
+béremelés 6 havi költségének 1 főre jutó összege, ami átkerül a Kérelem 3.3 pontjába.
+
+A 3.2 pontban a rendelet 3. § (2)–(6) bekezdésében foglaltaknak megfelelően kell szerepeltetni a létszámot.
+A 2013. január 1-jei létszám a 3.1 pontban szereplővel megegyezik. A létszám hó végi záró állományát is
+a részmunkaidősök teljes munkaidősre történő átszámításával kell meghatározni.
+
+A támogatással érintett teljes munkaidősre átszámított 2013. I. félévi átlagos statisztikai állományi létszámot
+a hét létszámadat összeadásával és héttel történő osztásával kell megállapítani. Ez az adat kerül beírásra
+a Kérelem 3.1 pontjába.
+
+Az 1 főre jutó 6 havi költség és az I. félévi átlagos statisztikai állományi létszám szorzataként kerül meghatározásra
+a kötelező bérminimumok 2013. évi emelése miatti béremelések 2013. I. félévi költsége, ami a Kérelem 3.2
+pontjába kerül beírásra.
+
+3. melléklet a 103/2013. (IV. 5.) Korm. rendelethez
+KÉRELEM az egyes ágazatokban a kötelező bérminimumok 2013. évi emeléséhez
+igénybe vehető támogatáshoz
+1. A kérelmező vállalkozás adatai:
+1.1 Teljes neve:
+1.2 Székhelye:
+1.3 Postacíme:
+1.4 Cégjegyzék/vállalkozási igazolvány nyilvántartási száma:
+1.5 Statisztikai számjele:
+1.6 Adószáma:
+1.7 Képviseletre jogosult aláíró neve, beosztása:
+1.8 Számlavezető pénzintézet megnevezése:
+1.9 Számlaszám:
+1.10 Kisvállalati adóalanyiság esetén annak kezdete: 2013. ………… hónap 1-je.
+2. Kapcsolattartó:
+2.1 Neve:
+2.2 Beosztása:
+2.3 Telefonszáma:
+2.4 E-mail címe:
+3. A kérelem adatai:
+3.1 Támogatással érintett, teljes munkaidősre átszámított 2013. I. félévi átlagos statisztikai állományi létszám: fő
+3.2 A kötelező bérminimumok 2013. évi emelése miatti béremelések 2013. I. félévi költsége összesen: forint
+3.3 A kötelező béremelés 6 havi költségének 1 főre jutó összege Ft/fő
+3.4 A kérelmező az idei és az ezt megelőző két pénzügyi évben részesült-e csekély összegű (de minimis)
+támogatásban az 1998/2006/EK rendelet alapján. Igen – Nem Igenlő válasz esetén mennyi volt az említett támogatás
+támogatástartalma: …………… forint
+4. A kérelemben igényelt támogatás: ………………….. Ft
+5. Kijelentem, hogy az elektronikusan beküldött Nyilatkozatban foglaltak a valóságnak megfelelnek.
+Aláírás helye és ideje: ………………………………………….…………………………….……………….
+ a kérelmező aláírása
+Melléklet (csak az elektronikus beküldéshez): Nyilatkozatok
+
+4. melléklet a 103/2013. (IV. 5.) Korm. rendelethez
+Elszámolás a támogatás felhasználásáról
+
+Kérelem
+benyújtásánál
+figyelembe vett
+Tényleges
+2013. január 1-jei érintett létszám (fő):
+2013. január 31-i érintett létszám (fő)
+2013. február 28-i érintett létszám (fő):
+2013. március 31-i érintett létszám (fő):
+2013. április 30-i érintett létszám (fő):
+2013. május 31-i érintett létszám (fő):
+2013. június 30-i érintett létszám (fő)
+Támogatással érintett teljes munkaidősre átszámított 2013. I. félévi átlagos
+statisztikai állományi létszám (fő):
+A kötelező béremelés 6 havi költségének 1 főre jutó összege (Ft/fő)
+A kötelező bérminimumok 2013. évi emelése miatti béremelések 2013.
+I. félévi költsége összesen (Forint):
+Szabad de minimis keret (Forint)
+Kérelem alapján megállapított támogatás (Forint)
+X
+Ténylegesen érvényesíthető támogatás (Forint)
+X
+Visszafizetendő támogatás (Forint)
+X
+Kitöltési útmutató az elszámoláshoz
+Az elszámolás során a „Kérelem benyújtásánál figyelembe vett” oszlopban az adatokat a 2. melléklet szerinti
+számításban, a 3. melléklet szerinti Kérelemben, valamint a támogatási szerződésben foglaltakkal egyezően kell
+kitölteni. Az utolsó két sor ebben az oszlopban üresen marad.
+A „Tényleges” oszlop kitöltésénél a következők szerint kell eljárni:
+–
+A létszámadatok közül a kérelem benyújtásáig terjedő időszakra vonatkozó időponti adatokat a 3. melléklet
+szerinti számításban szereplővel azonosan kell megadni, kivéve, ha az tévesen került beírásra. Ebbe az esetben
+a javított létszámadatot kell tényleges létszámként feltüntetni. A kérelem benyújtásától 2013. június
+30-ig terjedő időszak időponti adatait a tényleges állapot szerint kell szerepeltetni, ami eltérhet a kérelem
+benyújtásánál figyelembe vett létszámtól. A 2013. I. félévi tényleges átlagos statisztikai állományi létszámot
+a hét időponti létszám számtani átlagaként kell meghatározni. Ez nem lehet magasabb a kérelemben szereplő
+átlaglétszámnál.
+–
+A kötelező béremelés 6 havi költségének 1 főre jutó összegét a kérelem 3.3 pontjában foglaltakkal azonos
+összeggel kell szerepeltetni. Ha a kérelem benyújtását követően került sor adóalanyiság változásra,
+a 2. melléklet 1. táblája (minimálbér) G oszlopára vonatkozó számítás ennek megfelelő újbóli elvégzésével kell
+meghatározni a kötelező béremelés 6 havi költségének 1 főre jutó összegét.
+–
+A kötelező bérminimumok 2013. évi emelése miatti béremelések 2013. I. félévi költsége az előző két sor
+adatának szorzata.
+–
+A szabad de minimis keretet a munkáltatónak az erre vonatkozó nyilvántartása alapján kell forintban megjelölni.
+–
+A kérelem alapján megállapított támogatás sor ezen adathelye üresen marad.
+–
+A ténylegesen érvényesíthető támogatás a kötelező bérminimumok 2013. évi emelése miatti béremelések
+2013. I. félévi költsége és a szabad de minimis keret közül a kisebb összeg. A két összeg egyezősége esetén
+az azonos összeget kell szerepeltetni.
+–
+A visszafizetendő támogatás a kérelem alapján megállapított támogatás és a ténylegesen érvényesíthető
+támogatás pozitív különbsége.
