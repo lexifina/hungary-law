@@ -1,0 +1,3 @@
+2. § Az Fkbt. 12/G. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kérelem alapján az ingatlanügyi hatóság meghatározza a megosztás kiindulási helyét és irányát, figyelemmel a művelhetőségi és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra. A megosztás módját, kiindulási helyét és irányát meghatározó határozatot az ingatlanügyi hatóság a település polgármesteri hivatalának hirdetőtábláján legalább nyolc napra történő kifüggesztéssel közli az érintettekkel, és ezen időtartamon belül lehet a határozatot fellebbezéssel megtámadni. Ebbe a határidőbe nem számít bele a határozat kifüggesztésének és a levételének a napja.”

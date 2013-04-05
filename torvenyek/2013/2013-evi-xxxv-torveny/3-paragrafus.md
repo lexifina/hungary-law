@@ -1,0 +1,5 @@
+3. § Az Fkbt. „A közös tulajdon megszüntetésének külön szabályai” alcíme a következő 12/L. §-sal egészül ki:
+
+„12/L. § (1) Az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott földmérő vállalkozó vagy vállalkozás és jogi szolgáltató részére az ingatlanügyi hatóság átadja a 12/F. § (1) bekezdésében foglalt kérelemben szereplő adatokat és a kérelemmel érintett ingatlan tulajdonosainak a tulajdoni lapon szereplő természetes személyazonosító adatait.
+
+(2) A földmérő vállalkozó vagy vállalkozás és jogi szolgáltató az (1) bekezdésben meghatározott adatokat a megosztási eljárás befejezéséig az (1) bekezdésben meghatározott kormányrendelet szerinti feladatai ellátása céljából kezelheti.”
