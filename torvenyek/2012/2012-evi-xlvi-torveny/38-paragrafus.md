@@ -18,7 +18,9 @@ e) állapítsa meg a levegőből végzett távérzékelés engedélyezésének �
 
 f) határozza meg a magyarországi hivatalos földrajzi nevek megállapításának és nyilvántartásának rendjét,
 
-g) határozza meg az e törvény alapján kiszabható bírságok mértékét.
+g) állapítsa meg az e törvényben meghatározott bírságok kiszabására kijelölt szerveket, a kiszabható bírságok mértékét és a bírság kiszabásának módját,
+
+h) jelölje ki a honvédelem térképészeti támogatásáért felelős szervet, továbbá határozza meg a hatósági feladatait és hatáskörét.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -60,7 +62,7 @@ e)
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
 
-a) a felelősségi körébe tartozó földmérési és térképészeti ágazati irányítási feladatokat és hatásköröket, valamint a felelősségi körébe tartozó földmérési és térképészeti tevékenység végzésének rendjét, a honvédelem térképészeti támogatásáért felelős szerv kijelölését, feladatait és hatáskörét,
+a) a felelősségi körébe tartozó földmérési és térképészeti ágazati irányítási feladatokat és hatásköröket, valamint a felelősségi körébe tartozó földmérési és térképészeti tevékenység végzésének rendjét,
 
 b) a honvédelmi célú térképi adatbázisok vonatkoztatási és vetületi rendszerét, alapadat-tartalmát, létrehozásának, felújításának, kezelésének, fenntartásának és felhasználásának módját, valamint az állami átvétel és adatszolgáltatás rendjét,
 

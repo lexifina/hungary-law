@@ -6,4 +6,4 @@
 
 (3) Az állami alapadatokat és adatbázisokat az állami alapmunkák és alapfeladatok végzése és ellátása, az ingatlan-nyilvántartási célú munkák végrehajtása, valamint az egyéb célú földmérési és térképészeti tevékenység során kötelezően kell használni.
 
-(4) Hatósági eljárásban csak az adatbázisokat kezelő szervek által szolgáltatott állami alapadatok használhatók fel.
+(4) Hatósági eljárásban csak az adatbázisokat kezelő szervek által szolgáltatott hitelesített állami alapadatok használhatók fel.

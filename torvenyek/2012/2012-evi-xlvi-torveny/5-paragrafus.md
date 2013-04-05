@@ -8,6 +8,8 @@
 
 (4) A honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az általa kijelölt szerv látja el. A honvédelmi célból előállított állami alapadatok felhasználását a honvédelemért felelős miniszter szabályozza.
 
-(5) Az állami alapadatok adatbázisából külön megállapodás szerint aktualizált adatok szolgáltatásáért díjat kell fizetni. A díj mértékét a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg.
+(5) Az állami alapadatok adatbázisából külön megállapodás szerint aktualizált adatok szolgáltatásáért díjat kell fizetni.
 
 (6) Az ingatlan-nyilvántartási térképről elektronikus formában szolgáltatott hiteles másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus intézményi aláírással és időbélyegzővel hitelesített.
+
+(7) A 8. §-ban meghatározott térinformatikai rendszerekhez a Nemzeti Kataszteri Program megvalósítására létrehozott szervezet a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból adatot szolgáltathat.
