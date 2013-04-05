@@ -40,6 +40,8 @@ f) jogszabály által előírt egyéb befizetésekből
 
 származó bevételek.
 
+(3) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
+
 Vhr. 32. § (1) A Hhtv. 52. §-a (1) bekezdésének a)–f) pontjaiban felsorolt tevékenységekhez támogatás elnyerésére a miniszter évente nyilvános pályázatot ír ki.
 
 (2) A pályázat elbírálása során a miniszter az Országos Halászati Bizottság véleménye alapján határoz.

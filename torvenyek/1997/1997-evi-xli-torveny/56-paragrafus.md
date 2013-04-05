@@ -28,7 +28,9 @@ l) az idegen és nem honos halfajok telepítésének szabályait,
 
 m) a halászati hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat,
 
-n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat
+n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat,
+
+o) a halászati őr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat
 
 rendeletben határozza meg.
 
