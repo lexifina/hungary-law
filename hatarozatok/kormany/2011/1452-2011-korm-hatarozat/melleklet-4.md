@@ -102,4 +102,6 @@
 
 | Nemzetközi humanitárius jog terjesztésével és érvényre juttatásával foglalkozó Nemzeti Tanácsadó Bizottság | 2095/2000. (V. 9.) Korm. határozat | KüM | 2012. I. félév |
 
-4. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz
+4. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz[^2]
+
+[^2]: A 4. melléklet az 1180/2013. (IV. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
