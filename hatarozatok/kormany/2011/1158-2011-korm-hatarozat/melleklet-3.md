@@ -4,7 +4,7 @@
 
 | Karitatív Tanács | NEFMI |
 
-| Örökségvédelmi Tanácsadó Testület | NEFMI |
+| Ásatási Bizottság | BM |
 
 | Nemzeti Akkreditáló testület | NGM |
 
