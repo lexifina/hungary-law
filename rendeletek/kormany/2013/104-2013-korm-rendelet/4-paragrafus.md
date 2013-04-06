@@ -1,0 +1,1 @@
+## 3. § Az OKTVF a befizetett járulékot a központi költségvetés Vidékfejlesztési Minisztérium fejezet „Hulladéklerakási járulékból finanszírozott feladatok” fejezeti kezelésű előirányzathoz kapcsolódó előirányzat-felhasználási keretszámlára a befizetést követő hónap 25. napjáig átutalja.
