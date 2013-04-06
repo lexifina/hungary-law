@@ -6,7 +6,7 @@
 
 ## Határidő: 2013. június 28.
 
-## 3. az egyes csökkentett arányú konszolidációban részesülő 5000 fő lakosságszám alatti települések meghatározásáról szóló 1674/2012. (XII. 28.) Korm. határozatot visszavonja.
+## 3.[^1]
 
 1. melléklet az 1172/2013. (IV. 5.) Korm. határozathoz
 
@@ -41,3 +41,5 @@
 | 14. | Veszprém megye | Balatonfűzfő | 100% |
 
 | 15. | Zala megye | Tótszerdahely | 100% |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
