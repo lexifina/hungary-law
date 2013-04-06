@@ -28,15 +28,7 @@ Határidő: folyamatos
 
 2012. december 31.
 
-3. A Kormány felkéri a nemzeti fejlesztési minisztert, hogy tegye meg a kormányablakok fizikai kialakításához szükséges 7,225 milliárd forint – az Új Széchenyi Terv Regionális Operatív Programjainak 2011–2013. évi akcióterveit terhelő – forrás rendelkezésre állása érdekében szükséges intézkedéseket.
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-közigazgatási és igazságügyi miniszter
-
-Határidő: 2011. szeptember 30.
+3.[^1]
 
 4. A Kormány egyetért azzal, hogy az Új Széchenyi Terv Közlekedés Operatív Program akciótervében 1,1 milliárd forint álljon rendelkezésre a Kormányablakok fizikai kialakításának pénzügyi fedezetére, egyúttal felkéri a nemzeti fejlesztési minisztert, hogy gondoskodjon a pénzügyi fedezet tervezéséről és biztosításáról.
 
@@ -53,3 +45,5 @@ Határidő: 2012. december 31.
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
 7. E határozat hatálybalépésével egyidejűleg hatályát veszti az integrált ügyfélszolgálatok felállításáról és a felállítás pénzügyi fedezetének biztosításáról szóló 1187/2010. (IX. 10.) Korm. határozat.
+
+[^1]: A 3. pontot az 1179/2013. (IV. 5.) Korm. határozat 1. pontja hatályon kívül helyezte.
