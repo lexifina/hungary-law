@@ -38,19 +38,21 @@ a) lenőrzi a közfoglalkoztatási munkavégzés közfoglalkoztatási szerződé
 
 b) ellátja a közfoglalkoztatási támogatási eljárással kapcsolatos pénzügyi feladatokat.
 
-(4) A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi területén első fokú hatósági jogkört gyakorol
+(4)[^15] A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi területén első fokú hatósági jogkört gyakorol
 
 a) a munkaerő-piaci program kidolgozásának, megvalósításának megállapításával,
 
 b) a munkaerő-piaci szolgáltatást nyújtók részére támogatás megállapításával,
 
-c) a bérgarancia támogatással,
+c) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény felhatalmazása alapján kiadott kormányrendelet által hatáskörébe utalt foglalkoztatást elősegítő támogatás megállapításával,
 
-d) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével,
+d) a bérgarancia támogatással,
 
-e) a rendbírsággal, valamint
+e) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével,
 
-f) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
+f) a rendbírsággal, valamint
+
+g) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
 
 ## kapcsolatos ügyekben.
 
@@ -58,10 +60,11 @@ f) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
 
 (6) A munkaügyi központ a szolgáltatási feladatok ellátásának keretében
 
-a)[^15] gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét, munkaerő-piaci szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
+a)[^16] gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét, munkaerő-piaci szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
 
 b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem a kirendeltség lát el.
 
 [^13]: A 8. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (9) bekezdésével megállapított szöveg.
 [^14]: A 8. § (1a) bekezdését a 7/2013. (I. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^15]: A 8. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^15]: A 8. § (4) bekezdése a 103/2013. (IV. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^16]: A 8. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

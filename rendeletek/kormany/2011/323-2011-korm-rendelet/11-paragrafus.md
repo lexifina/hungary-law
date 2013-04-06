@@ -1,4 +1,4 @@
-## 10. §[^22]
+## 10. §[^23]
 
 ## III. Fejezet
 
@@ -20,7 +20,7 @@
 
 (7) A munkavédelmi és munkaügyi igazgatóság – a munkavédelmi és munkaügyi felügyelőségek bevonásával – működteti a munkavédelmi és munkaügyi feladatai ellátásához, az általa kezelt adatok nyilvántartásához szükséges egységes informatikai rendszert.
 
-(8)[^23]
+(8)[^24]
 
 (9) A főigazgató-helyettes ellátja a rendkívüli állapot idején szükséges munkaerő meghagyásával kapcsolatosan külön jogszabály által hatáskörébe utalt feladatokat.
 
@@ -28,5 +28,5 @@
 
 (11) A munkavédelmi és munkaügyi igazgatóság külön jogszabály alapján ellátja az egyéni védőeszközök megfelelőségét tanúsító, ellenőrző szervezetek kijelölésével és bejelentésével kapcsolatosan hatáskörébe utalt feladatokat és működteti a Kijelölést Előkészítő Bizottságot.
 
-[^22]: A 10. §-t a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés k) pontja hatályon kívül helyezte.
-[^23]: A 11. § (8) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^23]: A 10. §-t a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^24]: A 11. § (8) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
