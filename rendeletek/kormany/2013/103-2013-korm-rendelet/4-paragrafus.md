@@ -1,0 +1,3 @@
+4. § (1) A támogatás mértéke munkavállalónként nem haladhatja meg a kötelező bérminimum 2012. december 31-én és 2013. január 1-én hatályos összege közötti különbözet, valamint az erre a különbözetre számított (tényleges kedvezményekkel csökkentett) szociális hozzájárulási adó és szakképzési hozzájárulás együttes összegének 2013. január 1-jétől 2013. június 30-ig számított időtartamra járó összegét. A kisvállalati adóalany munkáltató esetében a támogatás mértékének megállapításánál a szociális hozzájárulási adó és a szakképzési hozzájárulás helyett a kisvállalati adót kell figyelembe venni.
+
+(2) Az (1) bekezdés szerinti számítást a 2. mellékletben foglaltak alapján kell elvégezni.
