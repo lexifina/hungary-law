@@ -12,13 +12,13 @@
 
 | 6. | Nemzetgazdasági Minisztérium | 793 |
 
-| 7. | Emberi Erőforrások Minisztériuma | 929 |
+| 7. | Emberi Erőforrások Minisztériuma | 942 |
 
 | 8. | Nemzeti Fejlesztési Minisztérium | 626 |
 
 | 9. | Vidékfejlesztési Minisztérium | 598 |
 
-| 10. | ÖSSZESEN: | 5593 |
+| 10. | Összesen | 5 606 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -94,7 +94,7 @@
 
 | 33. | Mezőgazdasági Szakigazgatási Hivatal | 1256 |
 
-| 34. | Földmérési és Távérzékelési Intézet | 235 |
+| 34. | Földmérési és Távérzékelési Intézet | 210 |
 
 | 35. | Mezőgazdasági és Vidékfejlesztési Hivatal | 1152 |
 
@@ -118,27 +118,27 @@
 
 | 45. | Körös-Maros Nemzeti Park Igazgatóság | 55 |
 
-| 46. | Országos Környezetvédelmi Természetvédelmi és Vízügyi Főfelügyelőség | 100 |
+| 46. | Országos Környezetvédelmi Természetvédelmi és Vízügyi Főfelügyelőség | 105 |
 
-| 47. | Alsó-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 150 |
+| 47. | Alsó-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 127 |
 
-| 48. | Dél-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 145 |
+| 48. | Dél-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 112 |
 
-| 49. | Észak-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 151 |
+| 49. | Észak-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 117 |
 
-| 50. | Észak-magyarországi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 158 |
+| 50. | Észak-magyarországi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 133 |
 
-| 51. | Felső-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 82 |
+| 51. | Felső-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 69 |
 
-| 52. | Közép-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 199 |
+| 52. | Közép-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 168 |
 
-| 53. | Közép-Duna-völgyi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 293 |
+| 53. | Közép-Duna-völgyi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 268 |
 
-| 54. | Közép-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 85 |
+| 54. | Közép-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 71 |
 
-| 55. | Nyugat-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 80 |
+| 55. | Nyugat-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 67 |
 
-| 56. | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 130 |
+| 56. | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 110 |
 
 | 57. | Országos Meteorológiai Szolgálat | 228 |
 
@@ -232,6 +232,6 @@
 
 | 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 93. | ÖSSZESEN: | 71 009 |
+| 93. | Összesen | 70 758 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja, az 1170/2013. (IV. 5.) Korm.határozat 2. pontja szerint módosított szöveg.
