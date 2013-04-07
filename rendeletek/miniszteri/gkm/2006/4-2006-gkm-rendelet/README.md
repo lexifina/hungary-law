@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-4-20-0L
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-02-24 | 2006-4-20-0L.1 | 4/2006. (II. 16.) GKM rendelet |
+| 2013-04-07 | 2006-4-20-0L.2 | 9/2013. (III. 7.) NGM rendelet |
