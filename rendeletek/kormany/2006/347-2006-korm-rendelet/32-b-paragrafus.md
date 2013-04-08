@@ -1,4 +1,4 @@
-32/B. §[^65] (1) A Kormány a környezetvédelmi hatóság nem veszélyes hulladéknak
+32/B. §[^66] (1) A Kormány a környezetvédelmi hatóság nem veszélyes hulladéknak
 
 a) a Ht. 13. § (2) bekezdésében, és 14. § (1) bekezdésében meghatározott kereskedelme, közvetítése, szállítása,
 
@@ -14,4 +14,4 @@ engedélyezése iránti első, és másodfokú eljárásában, az 5. számú mel
 
 (4) A Kormány a felügyelőségnek állati hulladék hivatalbóli besorolására irányuló eljárásában, – annak elbírálása kérdésében, hogy az állati hulladék rendelkezik-e a Ht. 1. számú melléklete szerinti H9 veszélyességi jellemzővel – első fokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt szakhatóságként jelöli ki.
 
-[^65]: A 32/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 441/2012. (XII. 29.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^66]: A 32/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 441/2012. (XII. 29.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
