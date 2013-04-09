@@ -12,6 +12,10 @@ c) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. 
 
 d) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet (22. §, 35. §, 76/A. §, 86. §)
 
-e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007/EK európai parlamenti és tanácsi rendelet
+e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007/EK európai parlamenti és tanácsi rendelet;
+
+f) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének, valamint
+
+g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
