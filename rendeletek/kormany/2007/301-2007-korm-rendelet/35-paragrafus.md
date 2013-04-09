@@ -1,6 +1,6 @@
 ## A befogadási feltételek megvonása és megtagadása
 
-35. §[^45] (1) A menekültügyi hatóság a befogadási feltételek korlátozásáról vagy megvonásáról határozott vagy határozatlan időre szólóan rendelkezik.
+35. §[^47] (1) A menekültügyi hatóság a befogadási feltételek korlátozásáról vagy megvonásáról határozott vagy határozatlan időre szólóan rendelkezik.
 
 (2) Kiskorú elismerését kérő esetében elsődlegesen a befogadási feltételek korlátozása alkalmazandó. Megvonás, illetve megtagadás esetén messzemenően figyelembe kell venni a gyermek mindenek felett álló érdekeit, és az arányosság elvét.
 
@@ -12,4 +12,4 @@
 
 (6) A menekültügyi hatóság a Tv. 30. § (3) bekezdésében foglalt kötelezettsége keretében – a megvonó, megtagadó döntés közlését megelőzően – megkeresi az intézményi elhelyezést nyújtó állami, vagy civil fenntartású intézményt a különleges bánásmódot igénylő elismerését kérő megvonó, megtagadó döntés időbeli hatálya alatti, de legfeljebb az elismerését kérő menekültügyi eljárásának idejére szóló elhelyezése céljából. Az elhelyezés más formájának biztosítása érdekében a menekültügyi hatóság vizsgálja az elismerését kérő a Magyar Köztársaság területén legális tartózkodási jogosultsággal rendelkező családtagoknál történő elhelyezése lehetőségét is.
 
-[^45]: A 35. § a 290/2010. (XII. 21.) Korm. rendelet 95. §-ával megállapított szöveg.
+[^47]: A 35. § a 290/2010. (XII. 21.) Korm. rendelet 95. §-ával megállapított szöveg.

@@ -1,13 +1,13 @@
 ## Beiskolázási támogatás
 
-30. §[^38] (1)[^39] A nevelési-oktatási intézményi oktatás keretében nappali rendszerű iskolai oktatásban tanulmányokat folytató elismerését kérő a tanulmányai folytatása érdekében beiskolázási támogatásra jogosult. A beiskolázási támogatás iránti kérelmet a menekültügyi hatósághoz kell benyújtani.
+30. §[^40] (1)[^41] A nevelési-oktatási intézményi oktatás keretében nappali rendszerű iskolai oktatásban tanulmányokat folytató elismerését kérő a tanulmányai folytatása érdekében beiskolázási támogatásra jogosult. A beiskolázási támogatás iránti kérelmet a menekültügyi hatósághoz kell benyújtani.
 
-(1a)[^40] Az (1) bekezdésben foglaltakat a súlyos betegség miatt magántanulóként tanulmányokat folytatók vonatkozásában is megfelelően alkalmazni kell.
+(1a)[^42] Az (1) bekezdésben foglaltakat a súlyos betegség miatt magántanulóként tanulmányokat folytatók vonatkozásában is megfelelően alkalmazni kell.
 
 (2) A beiskolázási támogatás tanévenként egyszer vehető igénybe, tankönyvre, tantárgyi munkafüzetre, tanszerre, tanfelszerelésre és ruházatra fordítható. A beiskolázási támogatás mértéke az öregségi nyugdíj mindenkori legkisebb összege.
 
 (3) A kérelemhez csatolni kell a tanszer, tanfelszerelés, tankönyv, tantárgyi munkafüzet, illetve a ruházat költségeit feltüntető számlát, amely alapján a beiskolázási támogatást a menekültügyi hatóság utólag téríti meg.
 
-[^38]: A 30. § a 290/2010. (XII. 21.) Korm. rendelet 92. §-ával megállapított szöveg.
-[^39]: A 30. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^40]: A 30. § (1a) bekezdését a 81/2012. (IV. 18.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^40]: A 30. § a 290/2010. (XII. 21.) Korm. rendelet 92. §-ával megállapított szöveg.
+[^41]: A 30. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^42]: A 30. § (1a) bekezdését a 81/2012. (IV. 18.) Korm. rendelet 13. § (2) bekezdése iktatta be.
