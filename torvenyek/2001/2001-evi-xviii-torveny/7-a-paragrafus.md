@@ -1,0 +1,1 @@
+7/A. § A Schengeni Információs Rendszerbe továbbított, európai vagy nemzetközi elfogatóparancson alapuló, magyar szerv által elrendelt körözések visszavonására haladéktalanul sor kerül azt követően, hogy az elfogatóparancsot kibocsátó szerv a visszavonásról szóló döntést megküldi az illetékes rendőrkapitányságnak.

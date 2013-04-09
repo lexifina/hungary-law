@@ -16,6 +16,8 @@ ac) a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasznál
 
 ad) az elveszett, eltulajdonított, érvénytelenített okmányok, hatósági jelzések felkutatására
 
+ae) a törvényben meghatározott rejtett ellenőrzéssel kapcsolatos intézkedések összessége.
+
 irányuló intézkedések,
 
 b) körözés elrendelés: személy vagy tárgy felkutatására, illetve személy vagy holttest személyazonosságának megállapítására irányuló határozat, illetőleg személy felkutatását, egyben elfogását és meghatározott hatóság elé állítását elrendelő határozat (elfogatóparancs) meghozatala;
