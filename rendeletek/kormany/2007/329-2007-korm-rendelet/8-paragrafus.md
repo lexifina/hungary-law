@@ -1,3 +1,3 @@
-## 7. §[^35]
+## 7. §[^37]
 
-[^35]: A 7. §-t a 102/2012. (V. 18.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^37]: A 7. §-t a 102/2012. (V. 18.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.

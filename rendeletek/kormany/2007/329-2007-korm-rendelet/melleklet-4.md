@@ -52,6 +52,6 @@
 
 ## 5.6. Határrendészeti Kirendeltség Záhony, Záhony
 
-4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^116]
+4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^119]
 
-[^116]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 148/2010. (IV. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^119]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 148/2010. (IV. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
