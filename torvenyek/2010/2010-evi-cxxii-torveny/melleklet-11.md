@@ -53,21 +53,3 @@ Minősítési lap
 ## f) szakmai pontosság,
 
 ## g) hatékonyság,
-
-## h) írásbeli kifejezőkészség,
-
-## i) szóbeli kifejezőkészség,
-
-## j) kapcsolatteremtő, -fenntartó készség,
-
-## k) szorgalom, igyekezet,
-
-## továbbá pénzügyőr esetében:
-
-## l) fizikai állóképesség, terhelhetőség,
-
-## m) pszichikai állapot, tűrőképesség,
-
-## n) lőkészség (kivéve ha a pénzügyőr a feladatait csak kivételes esetben, vagy egyáltalán nem végzi hivatali helyiségen kívül).
-
-## Vezető esetében továbbá (amennyiben több kormánytisztviselőt, pénzügyőrt, ügykezelőt illetve munkavállalót irányít):

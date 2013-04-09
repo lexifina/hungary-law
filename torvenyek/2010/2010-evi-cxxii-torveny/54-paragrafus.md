@@ -1,3 +1,3 @@
 ## Leplezett figyelés elrendelése
 
-54. § A felhatalmazott szervek a 13. § (7) bekezdésében meghatározott célból leplezett figyelést rendelhetnek el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. számú melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el Magyarország vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
+### 54. §
