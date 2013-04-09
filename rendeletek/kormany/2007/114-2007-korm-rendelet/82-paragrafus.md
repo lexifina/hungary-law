@@ -1,4 +1,4 @@
-82. §[^154] (1) Az egyszeri kiköltözési segély iránti kérelemről a kérelmező szociális helyzetét mérlegelve a regionális igazgatóság dönt. A kiköltözési segély csak egy alkalommal nyújtható, arra háztartásonként csak egy személy jogosult.
+82. §[^156] (1) Az egyszeri kiköltözési segély iránti kérelemről a kérelmező szociális helyzetét mérlegelve a regionális igazgatóság dönt. A kiköltözési segély csak egy alkalommal nyújtható, arra háztartásonként csak egy személy jogosult.
 
 (2) A segély legalacsonyabb mértéke az öregségi nyugdíj mindenkori legkisebb összegének kétszerese, legmagasabb mértéke az öregségi nyugdíj mindenkori legkisebb összegének hatszorosa.
 
@@ -14,4 +14,4 @@ c) a lakás mérete, állapota és felszereltsége.
 
 (5) Az egyszeri kiköltözési segélyt igénybe vevők közösségi szálláson történő elhelyezésre és ellátásra csak a 78. § (4) bekezdésben foglaltak szerint tarthatnak igényt.
 
-[^154]: A 82. § a 290/2010. (XII. 21.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^156]: A 82. § a 290/2010. (XII. 21.) Korm. rendelet 51. §-ával megállapított szöveg.

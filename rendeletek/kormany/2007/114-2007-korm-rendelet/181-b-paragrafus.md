@@ -1,14 +1,14 @@
-## A biometrikus adatkezelés szabályai[^323]
+## A biometrikus adatkezelés szabályai[^325]
 
-181/B. §[^324] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+181/B. §[^326] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
 
-(2)[^325] A tartózkodási engedély iránti kérelem benyújtása során a Tv. 96. § (1) bekezdés j) pontjában meghatározott biometrikus azonosítókat külképviseleten történő kérelmezés esetén a konzuli tisztviselő, Magyarország területén történő kérelmezés esetén a regionális igazgatóság rögzíti.
+(2)[^327] A tartózkodási engedély iránti kérelem benyújtása során a Tv. 96. § (1) bekezdés j) pontjában meghatározott biometrikus azonosítókat külképviseleten történő kérelmezés esetén a konzuli tisztviselő, Magyarország területén történő kérelmezés esetén a regionális igazgatóság rögzíti.
 
 (3) A Kormány a nemzeti dokumentum-aláíró hatósági és az országos aláíró hitelesítő hatósági feladatok, az országos ellenőrző-hitelesítő hatósági, valamint a nemzeti dokumentumellenőrző-hitelesítő hatósági feladatok ellátására a Hivatalt jelöli ki.
 
 (4) Az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély iránti kérelem benyújtása során, illetve a bevándorlási vagy letelepedési engedély okmány cseréjére vagy pótlására irányuló kérelem átvétele során a Tv. 99. § (1) bekezdés k) pontjában meghatározott biometrikus azonosítókat a regionális igazgatóság rögzíti.
 
-(4a)[^326] A 93. § (1a) és (1b) bekezdése szerinti esetben a Tv. 99. § (1) bekezdés k) pontjában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+(4a)[^328] A 93. § (1a) és (1b) bekezdése szerinti esetben a Tv. 99. § (1) bekezdés k) pontjában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
 
 (5) A kishatárforgalmi engedély, valamint a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmány cseréjével vagy pótlásával összefüggésben a Hivatal
 
@@ -38,7 +38,7 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 
 (10) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmánnyal rendelkező harmadik országbeli állampolgár a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
 
-[^323]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
-[^324]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
-[^325]: A 181/B. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^326]: A 181/B. § (4a) bekezdését a 130/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.
+[^325]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^326]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^327]: A 181/B. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^328]: A 181/B. § (4a) bekezdését a 130/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.

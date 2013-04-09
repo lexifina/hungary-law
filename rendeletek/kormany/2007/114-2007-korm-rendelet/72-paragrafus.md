@@ -6,6 +6,6 @@ b) van-e olyan személy, aki jogszabály vagy szokás alapján a kiskorú harmad
 
 (2) A kísérő nélküli kiskorú érdekeinek védelmében az idegenrendészeti hatóság köteles ügygondnok kirendelése iránt az eljárás megindításakor haladéktalanul intézkedni.
 
-(3)[^137] A kísérő nélküli kiskorú elhelyezése érdekében az idegenrendészeti hatóság megkeresi a járási gyámhivatalt, valamint a kiskorú állampolgársága szerinti államnak Magyarország területén működő konzuli képviseletét.
+(3)[^139] A kísérő nélküli kiskorú elhelyezése érdekében az idegenrendészeti hatóság megkeresi a járási gyámhivatalt, valamint a kiskorú állampolgársága szerinti államnak Magyarország területén működő konzuli képviseletét.
 
-[^137]: A 72. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 547. §-a, a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^139]: A 72. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 547. §-a, a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
