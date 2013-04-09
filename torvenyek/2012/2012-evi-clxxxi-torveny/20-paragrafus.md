@@ -1,0 +1,1 @@
+20. § A 19. §-ban meghatározott szervezetek személyzetének erre feljogosított tagjai rendszer-rendszer kapcsolat útján vagy az NS.CP Portál felületén keresztül végezhetnek lekérdezéseket a SIS II-ből.
