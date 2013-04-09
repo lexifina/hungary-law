@@ -1,5 +1,11 @@
 ## 15. A találatot követő eljárás
 
-23. §[^23]
+23. § (1) Ha a hozzáférési jogosultsággal rendelkező szerv külföldi figyelmeztető jelzéssel összefüggésben találatot ér el, erről
 
-[^23]: [A 23–26. § a 28. § (2) bekezdése alapján a SIS II Rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében meghozott az Európai Unió Tanácsa határozatában foglalt napon lép hatályba.]
+a) a rejtett ellenőrzésre irányuló figyelmeztető jelzés esetét kivéve a 3. mellékletben,
+
+b) a rejtett ellenőrzésre irányuló figyelmeztető jelzés esetén a 4. mellékletben
+
+meghatározott formanyomtatványon haladéktalanul értesíti a SIRENE Irodát.
+
+(2) Ha a hozzáférési jogosultsággal rendelkező szerv magyar figyelmeztető jelzéssel összefüggésben találatot ér el, erről haladéktalanul közvetlenül értesíti a figyelmeztető jelzést elhelyező jelzéskezelőt.

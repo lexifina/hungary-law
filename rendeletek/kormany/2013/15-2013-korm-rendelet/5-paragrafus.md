@@ -1,3 +1,5 @@
-5. §[^5]
+## 5. § A SIS II tv. 2. § (1) bekezdés b) pontjában foglalt kommunikáció biztosítására vonatkozó feladat vonatkozásában az N.SIS II Hivatal
 
-[^5]: [A 3–10. § a 28. § (2) bekezdése alapján a SIS II Rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében meghozott az Európai Unió Tanácsa határozatában foglalt napon lép hatályba.]
+a) a kormányzati célú hírközlési szolgáltató útján működteti a nemzeti infokommunikációs gerinchálózatot,
+
+b) megtervezi, kialakítja, működteti a kommunikációs infrastruktúra kiesése esetén a hozzáférési jogosultsággal rendelkező szervek által használható vészhelyzeti kommunikációs utakat.

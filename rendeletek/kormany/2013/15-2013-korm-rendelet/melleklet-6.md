@@ -1,3 +1,21 @@
-6. melléklet a 15/2013. (I. 28.) Korm. rendelethez[^46]
+## Az ..................................... számú schengeni azonosító kóddal ellátott külföldi figyelmeztető jelzésben kért intézkedés végrehajtásához a következő kiegészítő információkra van szükség:
 
-[^46]: [Az 1–9. melléklet a 28. § (2) bekezdése alapján a SIS II Rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében meghozott az Európai Unió Tanácsa határozatában foglalt napon lép hatályba.]
+## Kérem, hogy a kért kiegészítő információkat a következő elérhetőségeinkre továbbítsák:
+
+## Fax:
+
+## E-mail:
+
+## Ügyszám
+
+## A találati formanyomtatvány megküldésének pontos ideje
+
+## Kelt:
+
+## P. H.
+
+## ........................................
+
+## aláírás
+
+6. melléklet a 15/2013. (I. 28.) Korm. rendelethez

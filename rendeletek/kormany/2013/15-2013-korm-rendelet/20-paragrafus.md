@@ -1,5 +1,5 @@
 ## 12. Figyelmeztető jelzés tárgyak esetén
 
-20. §[^20]
+20. § (1) A SIS II tv. 10 § (1) bekezdés d) pontja alapján a lőfegyverekről és a lőszerekről szóló 2004. évi XXIV. törvény 2. § 16. pontjában meghatározott lőfegyverekről kell figyelmeztető jelzést elhelyezni a CS.SIS-ben.
 
-[^20]: [A 20. § a 28. § (2) bekezdése alapján a SIS II Rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében meghozott az Európai Unió Tanácsa határozatában foglalt napon lép hatályba.]
+(2) A SIS II tv. 7. § (1) bekezdésében és 10. §-ában meghatározott tárgyakról elhelyezhető adatokat az 1. melléklet tartalmazza.

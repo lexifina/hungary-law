@@ -1,5 +1,5 @@
 ## 16. Az érintett tájékoztatása
 
-27. §[^27]
+27. § (1) A SIS II tv. 26. §-a szerinti tájékoztatás iránti kérelmet a 9. mellékletben formanyomtatványon vagy a formanyomtatványon meghatározott adattartalommal rendelkező kérelem formájában kell előterjeszteni. A nem megfelelő adattartalommal előterjesztett kérelem esetén a SIRENE Iroda a kérelmezőt felhívja a hiányzó adatok pótlására.
 
-[^27]: [A 27. § a 28. § (2) bekezdése alapján a SIS II Rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében meghozott az Európai Unió Tanácsa határozatában foglalt napon lép hatályba.]
+(2) A kérelmet az azt átvevő kormányhivatal, rendőrkapitányság vagy külképviselet öt napon belül köteles továbbítani a SIRENE Irodához.

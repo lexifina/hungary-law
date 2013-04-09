@@ -1,5 +1,11 @@
 ## 3. A figyelmeztető jelzés elhelyezése előtti ellenőrzés, adattovábbítás
 
-11. §[^11]
+11. § (1) A körözést folytató rendőri szerv a figyelmeztető jelzéshez kiegészítő adatként csatolandó ujjlenyomat adatot – különösen a bűnügyi nyilvántartásban kezelt belső azonosító és az érintett személy személyazonosító adatainak megadásával elektronikus megkeresés útján – a Bűnügyi Szakértői és Kutatóintézet (a továbbiakban: BSZKI) által kezelt bűnügyi és rendészeti biometrikus adatok nyilvántartás daktiloszkópiai nyilvántartásából veszi át az alábbi célból elrendelt körözéshez kapcsolódó figyelmeztető jelzés kezdeményezését megelőzően
 
-[^11]: [A 11. § a 28. § (2) bekezdése alapján a SIS II Rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében meghozott az Európai Unió Tanácsa határozatában foglalt napon lép hatályba.]
+a) arról a személyről, akivel szemben a bíróság európai elfogatóparancsot vagy nemzetközi elfogatóparancsot bocsátott ki,
+
+b) arról a 14 év feletti személyről, aki szabadságvesztés büntetésének letöltését vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg,
+
+c) arról a 14 év feletti eltűnt személyről, akinek ujjlenyomat adatát a bűnügyi nyilvántartás adatai szerint a BSZKI a daktiloszkópiai nyilvántartásban kezeli.
+
+(2) A körözést folytató rendőri szerv a figyelmeztető jelzéshez kiegészítő adatként csatolandó arcképmás adatot – különösen az érintett személy természetes személyazonosító adatainak megadásával, rendszer-rendszer kapcsolat útján – különösen a személyiadat- és lakcímnyilvántartásból, vagy a vezetői engedély nyilvántartásból, vagy az útiokmány-nyilvántartásból veszi át.
