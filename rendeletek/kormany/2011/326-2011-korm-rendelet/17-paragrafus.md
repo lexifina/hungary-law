@@ -2,7 +2,7 @@
 
 ## 7. Külföldi hatóság által kiállított vezetői engedély érvényessége, cseréje
 
-17. § (1)[^7] A külföldi hatóság által kiállított és érvényes vezetői engedély – kivéve az ideiglenes jelleggel vagy a járművezetés tanulására kiadott okmányokat – Magyarország területén akkor jogosít vezetésre, ha tartalmazza:
+17. § (1)[^8] A külföldi hatóság által kiállított és érvényes vezetői engedély – kivéve az ideiglenes jelleggel vagy a járművezetés tanulására kiadott okmányokat – Magyarország területén akkor jogosít vezetésre, ha tartalmazza:
 
 a) az engedély jogosítottjának azonosítására alkalmas adatokat,
 
@@ -18,7 +18,7 @@ f) a „vezetői engedély” címfeliratot az engedélyt kibocsátó ország ne
 
 feltéve, hogy a rovatok és a bejegyzések latin betűkkel történtek vagy ebben a formában meg vannak ismételve.
 
-(2)[^8] A külföldi hatóság által kiállított vezetői engedély – az (1) bekezdésben foglaltakon túl – akkor jogosít járművezetésre, ha
+(2)[^9] A külföldi hatóság által kiállított vezetői engedély – az (1) bekezdésben foglaltakon túl – akkor jogosít járművezetésre, ha
 
 a) az az ország, amelyben a vezetői engedélyt kiadták, csatlakozott az 1968. évi Bécsi Közúti Közlekedési Egyezményhez,
 
@@ -38,5 +38,5 @@ d) ahhoz hiteles magyar nyelvű fordítást csatoltak és annak segítségével 
 
 (7) A Magyarországon szolgálati céllal tartózkodó külföldi fegyveres erők és a Magyarországon felállított nemzetközi katonai parancsnokságok állománya tagjának a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 2. § (2) bekezdése szerinti hozzátartozója külföldön kiállított vezetői engedélye a (4) bekezdés rendelkezéseitől eltérően az érvényességi idején belül jogosít járművezetésre.
 
-[^7]: A 17. § (1) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^8]: A 17. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^8]: A 17. § (1) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^9]: A 17. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.

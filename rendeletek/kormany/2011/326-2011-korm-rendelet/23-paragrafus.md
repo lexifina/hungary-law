@@ -6,9 +6,9 @@ a) a vezetői engedélyt (5. melléklet),
 
 b) a nemzetközi vezetői engedélyt (9. melléklet),
 
-c)[^10]
+c)[^11]
 
-(2)[^11] Azonos fajtájú járművezetésre jogosító okmányból az engedély jogosítottja egyidejűleg csak egy érvényes okmánnyal rendelkezhet. A közlekedési igazgatási hatóság megtagadja a vezetői engedély kiállítását vagy a már kiadott vezetői engedélyt visszavonja, ha megállapítja, hogy a kérelmező már rendelkezik vagy a kérelem beadásakor már rendelkezett más hatóság által kiadott vezetői engedéllyel. Az EGT-állam hatósága által kiadott vezetői engedély egyenértékűségét a vezetőiengedély-kategóriák közötti egyenértékűségről szóló, 2008. augusztus 25-i 2008/766/EK bizottsági határozat alapján kell meghatározni.
+(2)[^12] Azonos fajtájú járművezetésre jogosító okmányból az engedély jogosítottja egyidejűleg csak egy érvényes okmánnyal rendelkezhet. A közlekedési igazgatási hatóság megtagadja a vezetői engedély kiállítását vagy a már kiadott vezetői engedélyt visszavonja, ha megállapítja, hogy a kérelmező már rendelkezik vagy a kérelem beadásakor már rendelkezett más hatóság által kiadott vezetői engedéllyel. Az EGT-állam hatósága által kiadott vezetői engedély egyenértékűségét a vezetőiengedély-kategóriák közötti egyenértékűségről szóló, 2008. augusztus 25-i 2008/766/EK bizottsági határozat alapján kell meghatározni.
 
-[^10]: A 23. § (1) bekezdés c) pontját az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^11]: A 23. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^11]: A 23. § (1) bekezdés c) pontját az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^12]: A 23. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## 112. § Ha a járműhöz tartozó forgalmi engedély vagy törzskönyv, vagy az abba tett bejegyzés hamis, hamisított, vagy valótlan tényt, adatot, jogosultságot tartalmaz, a nyomozó hatóság lefoglalást megszüntető, vagy a büntetőeljárást lezáró határozata alapján a közlekedési igazgatási hatóság az okmány visszavonásával egyidejűleg intézkedik a járműnyilvántartásban szereplő valótlan adatok javítására, az okmány érvénytelenítését követő selejtezésre, valamint a járműnyilvántartásban szereplő azonosító adatok szerinti jármű valós műszaki adatainak megfelelő okmány kiadására.
-
 ## 23. A járművezető, a járműtulajdonos (üzemben tartó) kötelezettségei
 
 113. § (1) A járművezető köteles a jogszabályban meghatározottakon túl
