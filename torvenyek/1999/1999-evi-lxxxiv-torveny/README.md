@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2013-03-01 | 2012. évi CCVII. törvény | 1999-84-00-00.33 |
 | 2013-03-26 | 2013. évi XXI. törvény | 1999-84-00-00.34 |
 | 2013-04-01 | 2012. évi CLXX. törvény | 1999-84-00-00.35 |
+| 2013-04-09 | 2012. évi CLXXXI. törvény | 1999-84-00-00.36 |

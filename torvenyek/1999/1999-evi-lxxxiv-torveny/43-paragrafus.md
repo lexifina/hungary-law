@@ -21,3 +21,13 @@ a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező ta
 b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 31–34. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007/533/IB tanácsi határozat 36., 38–39. és 45–49. cikkének átültetését szolgálja.
+
+(3) E törvény
+
+a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 1986/2006/EK rendeletnek, továbbá
+
+b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének
+
+végrehajtását szolgálja.

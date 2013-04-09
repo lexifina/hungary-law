@@ -20,4 +20,8 @@ gb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerz�
 
 gc) a ga) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, illetőleg a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
-(2) A nyilvántartó haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének az adatait, amelynek elvesztését, eltulajdonítását, megsemmisülését, találását bejelentették, és ezt a tényt a közúti közlekedési nyilvántartásba bejegyezték.
+(2) A nyilvántartó a Schengeni Információs Rendszerben (a továbbiakban: SIS II) elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének az adatait, amelynek elvesztését, eltulajdonítását vagy egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve járműnyilvántartásba bejegyezték.
+
+(3) Ha a (2) bekezdés szerinti okmány időközben megkerült és megkerülésének tényét az engedély-, illetve járműnyilvántartásba bejegyezték, a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a figyelmeztető jelzés törléséről.
+
+(4) Ha a vezetői engedély megszemélyesítését végző adatfeldolgozó szerv kitöltetlen vezetői engedély eltűnéséről (elvesztéséről, eltulajdonításáról, megsemmisüléséről), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a nyilvántartót, az a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
