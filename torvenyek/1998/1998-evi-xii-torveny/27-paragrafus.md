@@ -6,4 +6,10 @@
 
 (4) Az útlevélhatóság, illetve a központi adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
 
+(5) A központi adatkezelő szerv a külön jogszabályban meghatározott figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe továbbítja a központi útiokmány-nyilvántartásban a 20. § (1) bekezdés a), c), d), f), h) és i) pontja szerinti okból érvénytelenítésre került hivatalos és magánútlevél külön törvényben meghatározott adatait.
+
+(6) Amennyiben a 20. § (1) bekezdés a) pontja szerinti okmány esetében az okmány megkerülésének tényét és időpontját, illetve a 20. § (1) bekezdés h) pontja szerinti okmány esetében a külföldre utazási korlátozás megszűnését és időpontját, valamint a 19. § (3) bekezdésében foglalt visszavonási ok megszűnését és időpontját a központi útiokmány-nyilvántartásba bejegyezték, a központi adatkezelő szerv az (1) bekezdés szerint gondoskodik a továbbított figyelmeztető jelzés törléséről.
+
+(7) Amennyiben az úti okmány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen úti okmány eltűnéséről (elvesztés, eltulajdonítás), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a központi adatkezelő szervet, a központi adatkezelő szerv a külön jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
+
 (8) Az anyakönyvvezető az állampolgárság ellenőrzése, valamint az elhunyt személyek személyazonosság igazolására alkalmas okmányának bevonása céljából a 24. § a), e) és f) pontjában foglalt adatokat lekérdezheti.
