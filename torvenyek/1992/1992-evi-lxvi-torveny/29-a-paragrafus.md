@@ -1,0 +1,5 @@
+29/A. § (1) A központi szerv a jogszabályban meghatározott figyelmeztető jelzés elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a személyazonosító igazolványnak az adatait, amelynek elvesztését, eltulajdonítását bejelentették, illetve az a jogszabályban meghatározott egyéb okból érvénytelenítésre került és ezt a tényt a személyiadat- és lakcímnyilvántartásba bejegyezték.
+
+(2) Ha a személyazonosító igazolvány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen személyazonosító igazolvány eltűnéséről (elvesztéséről, eltulajdonításáról), illetve az eltűnt kitöltetlen személyazonosító igazolvány megkerüléséről értesíti a központi szervet, a központi szerv a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
+
+(3) Ha az (1) vagy (2) bekezdés szerinti személyazonosító igazolvány időközben megkerült és a kitöltött személyazonosító igazolvány esetében annak megkerülése tényét a személyiadat- és lakcímnyilvántartásba bejegyezték, a központi szerv az (1) bekezdés szerinti módon gondoskodik az (1) vagy (2) bekezdés szerinti figyelmeztető jelzés törléséről.

@@ -1,0 +1,1 @@
+24/D. § A polgárnak a 11. § (1) bekezdés o) pontjában meghatározott adatairól adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.

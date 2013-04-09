@@ -32,6 +32,6 @@ i) a személyazonosító igazolvány okmányazonosítóját és érvényességi 
 
 (7) A polgár köteles igényelni a személyazonosító igazolvány kiadását, amennyiben nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.
 
-(8) A központi szerv haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak a személyazonosító igazolványnak az adatait, amelynek elvesztését, eltulajdonítását, megsemmisülését, illetve találását bejelentették, és ezt a tényt a központi nyilvántartásba bejegyezték.
+(8)
 
-(9) A központi szerv a személyiadat- és lakcímnyilvántartásban kezeli a (8) bekezdés szerinti figyelmeztető jelzés elhelyezésével kapcsolatos adatokat.
+(9)

@@ -32,6 +32,8 @@ m) személyazonosító igazolványának, továbbá személyi azonosítójáról 
 
 n) személyazonosító igazolványa kiadásának, érvényességének, cseréjének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, visszaadásának, leadásának, elvételének adatait;
 
+o) személyazonosító igazolványa tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat;
+
 p) értesítési címét, ha azt a polgár bejelentette a nyilvántartás helyi vagy központi szervének.
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) pontja szerinti adatait, aláírását, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
