@@ -1,3 +1,3 @@
-## 1. § A környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Korm. rendelet) a következő 13/C. §-sal egészül ki:
+## 1. §[^1]
 
-## „13/C. § A Tvt. 83. §-ában foglalt természetvédelmi hatóságként az OKTVF jár el.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
