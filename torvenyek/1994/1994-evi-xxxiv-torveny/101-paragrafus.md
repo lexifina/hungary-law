@@ -24,7 +24,9 @@ k) a rendőrség feladatai ellátásának rendjét a fontosabb közúti, vasút,
 
 l) a belföldi állami futárszolgálat tevékenységét,
 
-m) a kényszerítő eszközök típusát, fajtáját.
+m) a kényszerítő eszközök típusát, fajtáját,
+
+n) a rendőrség határellenőrzési feladatokat ellátó szerve által a 91/O. § (3) bekezdése alapján a 91/O. § (1) bekezdés a)–d) pontjában meghatározott nyilvántartásokról készült technikai másolatból végzendő lekérdezés részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

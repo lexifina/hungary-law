@@ -1,3 +1,11 @@
-## Leplezett figyelés elrendelése
+## Rejtett ellenőrzés elrendelése
 
-46/B. § A rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból leplezett figyelést rendelhet el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el Magyarország vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
+46/B. § A rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+
+a) arra a személyre, akiről
+
+aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
+
+ab) okkal feltételezhető, hogy az a) pont aa) alpontjában meghatározott bűncselekményt követ el a Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
+
+b) az a) pontban meghatározott személlyel kapcsolatba hozható, a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyakra.

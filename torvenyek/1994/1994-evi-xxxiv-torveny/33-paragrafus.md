@@ -28,7 +28,9 @@ e) aki a pártfogó felügyelet — külön törvényben meghatározott és a re
 
 f) aki a szabálysértést az abbahagyásra irányuló felszólítás után is folytatja, illetőleg akivel szemben az eljárás azonnal lefolytatható, továbbá akitől tárgyi bizonyítási eszközt kell megszerezni, vagy elkobzás alá eső dolgot kell visszatartani;
 
-g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye.
+g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye;
+
+h) akit a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés alapján védelem alá kell helyezni.
 
 (3) A rendőrség az előállítással a személyi szabadságot csak a szükséges ideig, de legfeljebb 8 órán át korlátozhatja. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a rendőri szerv vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát a rendőri intézkedés kezdetétől kell számítani.
 
