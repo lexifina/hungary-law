@@ -10,11 +10,11 @@ d) az okmány tárolási helye,
 
 e) az okmány bevételezésére, kiadására és felhasználására, érvénytelenségére, selejtezésére vonatkozó adatok,
 
-f) a SIS figyelmeztető jelzés kezelésével kapcsolatos külön jogszabályban meghatározott adatok.
+f)[^19] a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá az egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben meghatározott figyelmeztető jelzés kezelésével kapcsolatos adatok.
 
 (2) Az (1) bekezdésben meghatározott nyilvántartásban a nyilvántartásba vétel és az adatokban bekövetkező változások időpontját – időrendi sorrendben – is nyilván kell tartani.
 
-(3)[^19] A KEKKH kizárólagos illetékességi körében ellátja:
+(3)[^20] A KEKKH kizárólagos illetékességi körében ellátja:
 
 a) a „V”, az „SP” és a „CD” betűjelű ideiglenes, továbbá az „DT”, a „CK” és az „OT” betűjelű különleges rendszámtábla kiadásával,
 
@@ -22,17 +22,18 @@ b) az egyénileg kiválasztott rendszámtábla megválasztásának és az egyedi
 
 c) a külföldi vezetői engedély honosításával,
 
-d)[^20] az elektronikus úton indított, az ügyfél személyes megjelenése nélkül intézhető közlekedési igazgatási ügyekkel
+d)[^21] az elektronikus úton indított, az ügyfél személyes megjelenése nélkül intézhető közlekedési igazgatási ügyekkel
 
 kapcsolatos feladatokat.
 
-(4)[^21] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
+(4)[^22] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
 
 a) a „P”, és a „Z” betűjelű ideiglenes, valamint
 
 b) a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járműre a szabványtól eltérő alapszínű (sárga) rendszámtábla kiadásával, továbbá az ilyen jellegű járművek üzemeltetési jellegével, annak változásával, üzemben tartói és tulajdonjogának változásával kapcsolatos feladatokat.
 
 [^18]: A 12/A. §-t a 242/2007. (IX. 21.) Korm. rendelet 29. § (1) bekezdése iktatta be.
-[^19]: A 12/A. § (3) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^20]: A 12/A. § (3) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 51/2013. (II. 25.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^21]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^19]: A 12/A. § (1) bekezdés f) pontja a 15/2013. (I. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^20]: A 12/A. § (3) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^21]: A 12/A. § (3) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 51/2013. (II. 25.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^22]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
