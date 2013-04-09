@@ -12,6 +12,8 @@ d)[^98] a kérelmező előző, le nem járt érvényességi idejű úti okmány�
 
 (3)[^100] Az (1) bekezdés b) pontjában meghatározott esetben, ha a születési vagy a házassági anyakönyvi kivonat nem áll a kérelmező rendelkezésére, akkor az útlevélhatóság, vagy az eljárásban közreműködő hatóság hivatalból intézkedik a személyazonosság megállapítása érdekében.
 
+(4)[^101] Amennyiben az úti okmány jogosultja bejelentésében úgy nyilatkozott, hogy úti okmánya megsemmisült, az eljárás során az okmányt elveszettként kell kezelni és az útiokmány-nyilvántartásba az elveszett (megsemmisült) érvénytelenségi okot kell bejegyezni.
+
 [^94]: A 18. § (1) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 62. §-ával megállapított, bevezető szövegrésze a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^95]: A 18. § (1) bekezdésének a) pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^96]: A 18. § (1) bekezdésének b) pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése f) pontja szerint módosított szöveg.
@@ -19,3 +21,4 @@ d)[^98] a kérelmező előző, le nem járt érvényességi idejű úti okmány�
 [^98]: A 18. § (1) bekezdésének d) pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 98/2010. (IV. 2.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^99]: A 18. § (2) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
 [^100]: A 18. § (3) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 7. §-a iktatta be.
+[^101]: A 18. § (4) bekezdését a 15/2013. (I. 28.) Korm. rendelet 32. §-a iktatta be.

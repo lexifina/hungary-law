@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-101-20-
 | 2012-01-01 | 1998-101-20-22.20 | 360/2011. (XII. 30.) Korm. rendelet |
 | 2012-12-29 | 1998-101-20-22.21 | 122/2004. (IV. 29.) Korm. rendelet |
 | 2013-01-01 | 1998-101-20-22.22 | 409/2012. (XII. 28.) Korm. rendelet |
+| 2013-04-09 | 1998-101-20-22.23 | 15/2013. (I. 28.) Korm. rendelet |
