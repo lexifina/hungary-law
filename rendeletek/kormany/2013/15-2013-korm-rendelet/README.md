@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-2
 | 2013-01-29 | 2013-15-20-22.1 | 15/2013. (I. 28.) Korm. rendelet |
 | 2013-01-30 | 2013-15-20-22.2 | 2010: CXXX. törvény |
 | 2013-04-09 | 2013-15-20-22.3 | 1/2013. (IV. 8.) BM határozat |
+| 2013-04-10 | 2013-15-20-22.4 | 2010: CXXX. törvény |
