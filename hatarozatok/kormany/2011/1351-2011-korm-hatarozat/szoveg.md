@@ -6,7 +6,7 @@ a) a Nemzeti Közszolgálati Egyetem egységes elhelyezésének biztosítása a 
 
 b) a Ferencvárosi Torna Club új labdarúgó stadionjának felépítése;
 
-c) a Gödör Klub és a Design Terminál befejezetlen építési munkáinak befejezése, az épületek fejlesztése, az új, egységes intézmény működési modelljének kidolgozása;
+c)[^1]
 
 d) egy, a magyar történelmet és kultúrát, kiemelkedő személyiségeinket kortárs módon, interaktívan, könnyen befogadhatóan bemutató kiállítótér és rendezvényhelyszín megvalósítása;
 
@@ -32,7 +32,7 @@ h) az adott beruházás előkészítéséhez és megvalósításához szüksége
 
 i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az azok végrehajtásához szükséges kormányzati-közigazgatási koordináció szervezését, irányítását.
 
-4.[^1] A Kormány külön döntése esetén és az abban foglaltak szerint a kormánybiztos a 3 milliárd forint beruházási érték feletti, a minisztériumok vagy az irányításuk alá tartozó költségvetési szervek és gazdasági társaságok, továbbá a Kormány, a minisztérium (miniszter), a központi államigazgatási szerv (vezetője) által alapított alapítványok, illetve közalapítványok által bármely forrásból végzendő beruházások esetén felügyeli az előkészítés és a megvalósítás munkálatait, szervezi a szükséges kormányzati koordinációt, véleményezi a kormány-előterjesztéseket és figyelemmel kíséri a kormányhatározatok végrehajtását.
+4.[^2] A Kormány külön döntése esetén és az abban foglaltak szerint a kormánybiztos a 3 milliárd forint beruházási érték feletti, a minisztériumok vagy az irányításuk alá tartozó költségvetési szervek és gazdasági társaságok, továbbá a Kormány, a minisztérium (miniszter), a központi államigazgatási szerv (vezetője) által alapított alapítványok, illetve közalapítványok által bármely forrásból végzendő beruházások esetén felügyeli az előkészítés és a megvalósítás munkálatait, szervezi a szükséges kormányzati koordinációt, véleményezi a kormány-előterjesztéseket és figyelemmel kíséri a kormányhatározatok végrehajtását.
 
 5. A kormánybiztos tevékenységét a miniszterelnök irányítja. A kormánybiztos a tevékenységéről köteles negyedévente beszámolni a Kormánynak.
 
@@ -40,4 +40,5 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 4. pont az 1358/2011. (X. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: A 2. pont c) alpontját az 1185/2013. (IV. 9.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^2]: A 4. pont az 1358/2011. (X. 28.) Korm. határozat 1. pontjával megállapított szöveg.
