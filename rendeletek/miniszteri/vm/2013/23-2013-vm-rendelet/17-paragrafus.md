@@ -1,0 +1,7 @@
+17. § (1) A támogatási feltételeknek való megfelelés ellenőrzése során a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet (a továbbiakban: 1122/2009/EK rendelet) 30-31., valamint 41-42. cikkében foglaltakat kell alkalmazni.
+
+(2) Az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén a támogatási összeg meghatározása során az 1122/2009/EK bizottsági rendelet 63., 65. és 74. cikkei szerinti eljárást kell alkalmazni.
+
+(3) Az állatokra és a tenyészetre vonatkozó adminisztratív ellenőrzés során kizárólag azon adatok tekinthetőek a támogatás szempontjából elfogadottnak, amelyek az ENAR nyilvántartásba bejelentésre kerültek és a nyilvántartásban szerepelnek.
+
+(4) Az ENAR nyilvántartásba bejelentett adatok helyességéért, a bejelentés elmaradásáért vagy határidőn túli teljesítéséért a mezőgazdasági termelő felelős annak minden jogkövetkezményével együtt.
