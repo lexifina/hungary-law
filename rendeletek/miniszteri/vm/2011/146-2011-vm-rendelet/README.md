@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-146-20-
 | --- | --- | --- |
 | 2012-01-01 | 2011-146-20-2Y.1 | 146/2011. (XII. 23.) VM rendelet |
 | 2012-01-02 | 2011-146-20-2Y.2 | 2010: CXXX. törvény |
+| 2013-04-10 | 2011-146-20-2Y.3 | 21/2013. (III. 26.) VM rendelet |
