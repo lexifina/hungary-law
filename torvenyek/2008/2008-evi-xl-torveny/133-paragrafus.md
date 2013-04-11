@@ -14,6 +14,8 @@
 
 7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait,
 
+7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
+
 8. az egyetemes szolgáltatás felmondása, valamint a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szerződés megszűnése esetén a felhasználót megillető mobil tárolói készlet átadásának szabályait és az áralakítás elveit,
 
 9. a 74. § (2) bekezdése és a 105. § (12) bekezdése szerinti felmentésre, valamint a tárgyalásos tárolói hozzáférésre vonatkozó részletes szabályokat,
@@ -28,7 +30,7 @@
 
 13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 
-14. a rendszerüzemeltetők által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások, valamint a rendszerüzemeltető által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével,
+14. a rendszerüzemeltetők által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
 
 15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 

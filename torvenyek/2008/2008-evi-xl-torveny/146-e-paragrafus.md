@@ -1,0 +1,1 @@
+146/E. § E törvény Mód. 4. törvénnyel megállapított 100. §-a szerinti, profil alapú elszámolás esetén a felhasználó kérésére biztosítandó negyedévente történő mérőberendezés-leolvasás – az e törvény 142. § (1) bekezdés szerinti mintaprojektek kivételével – okos mérésre alkalmas mérőberendezéssel történő leolvasás nem váltja ki.

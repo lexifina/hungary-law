@@ -12,6 +12,8 @@ c) a földgázkereskedő a tartozásról és a kikapcsolás lehetőségéről a 
 
 (3a) A (3) bekezdés c) pontja szerinti esetben a lakossági fogyasztó első értesítése postai vagy – a lakossági fogyasztó előzetes hozzájárulása esetén – elektronikus úton, a kikapcsolás lehetőségére és az azzal járó szolgáltatás-szüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas egyéb módon történik.
 
+(3b) Ha a (3) bekezdés a) pontja szerinti fizetési kötelezettség nem vagy nem kizárólag számlatartozásból ered, a földgázkereskedő a lakossági fogyasztók földgázellátásból történő kikapcsolását a nem számlatartozásból eredő fizetési kötelezettség vonatkozásában akkor kezdeményezheti, ha annak polgári peres vagy fizetési meghagyásos eljárás útján történő érvényesítését igazolható módon megindította.
+
 (4) A lakossági fogyasztó kikapcsolására nem kerülhet sor:
 
 a) munkaszüneti napon,
@@ -22,6 +24,6 @@ c) munkaszüneti napot vagy ünnepnapot közvetlenül megelőző munkanapon,
 
 d) külön jogszabályban meghatározott pihenőnapon.
 
-(5) Ha a földgázellátásból kikapcsolt felhasználó rendezi valamennyi lejárt tartozását és a külön díj ellenében végezhető szolgáltatásokról szóló rendeletben meghatározott egyéb költségeket is megfizeti, a földgázkereskedő a tudomására jutást követően legkésőbb 24 órán belül köteles kezdeményezni a felhasználónak az ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül.
+(5) Ha a földgázellátásból kikapcsolt felhasználó rendezi valamennyi lejárt tartozását és a földgáz rendszerüzemeltetők és egyetemes szolgáltatók által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló rendeletben (a továbbiakban: külön díj rendelet) meghatározott külön díjat (a továbbiakban: külön díj) is megfizeti, a földgázkereskedő annak tudomására jutását követően legkésőbb 24 órán belül köteles kezdeményezni a felhasználónak az ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül.
 
 (6) A földgázelosztó az (5) bekezdés szerinti kezdeményezésnek köteles az azt követő munkanapon eleget tenni.

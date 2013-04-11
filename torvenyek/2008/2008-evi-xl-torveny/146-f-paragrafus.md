@@ -1,0 +1,1 @@
+146/F. § A Mód. 4. törvénnyel az engedélyesekre megállapított új kötelezettségek engedélyesek általi teljesítésével kapcsolatosan felmerülő költségeket a Hivatal az árszabályozás során nem veszi figyelembe.

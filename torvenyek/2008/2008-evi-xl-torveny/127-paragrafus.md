@@ -16,7 +16,7 @@ g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával,
 
 gy) rendeletében meghatározza a rendszerhasználati és a csatlakozási díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
 
-h) javaslatot tesz a rendszerüzemeltető és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira;
+h) javaslatot tesz a rendszerüzemeltető és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira, az ingyenesen biztosítandó szolgáltatások legszűkebb körére, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körére és díjaira;
 
 i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira, az egyetemes szolgáltatás keretében értékesített mennyiségekre, a hatósági árral érintett földgázforrás felhasználására vonatkozó előírások teljesülését, és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, ellenőrzi továbbá az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátására termelt hazai földgáz árképzésére vonatkozó szabályok betartását, valamint előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 
