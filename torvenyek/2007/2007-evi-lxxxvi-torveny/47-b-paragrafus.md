@@ -10,7 +10,7 @@ a) a felmondás visszaigazolásáról, az elszámolási pont egyedi azonosítój
 
 b) a felmondás benyújtásakor nem teljesített szerződéses feltételekről.
 
-(4) A felhasználó, amennyiben önállóan jár el, köteles a (3) bekezdés a) pont szerinti értesítést az új villamosenergia-kereskedőnek a kézhezvételt követően úgy időben eljuttatni, hogy az új villamosenergia-kereskedő a (6) bekezdésben meghatározott kötelezettségeinek eleget tudjon tenni.
+(4) A felhasználó, amennyiben önállóan jár el, köteles a (3) bekezdés a) pontja szerinti értesítést a korábbi kereskedő által kibocsátott utolsó számla másolatával együtt az új villamosenergia-kereskedőnek a kézhezvételt követően úgy időben eljuttatni, hogy az új villamosenergia-kereskedő a (6) bekezdésben meghatározott kötelezettségeinek eleget tudjon tenni.
 
 (5) A (3) bekezdés b) pontja szerinti esetben a villamosenergia-kereskedő a feltételek teljesítése érdekében határidőt biztosít. A felhasználó felmondása a megjelölt szerződési feltételek teljesülésével hatályosul.
 

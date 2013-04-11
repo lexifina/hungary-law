@@ -1,0 +1,5 @@
+178/L. § (1) A Mód. 2. törvény hatálybalépését követően az elosztó és az egyetemes szolgáltató a tevékenységüket a Vhr.-ben meghatározott tevékenységek kivételével nem szervezhetik ki.
+
+(2) Az (1) bekezdés szerinti engedélyesek Mód. 2. törvény hatálybalépésekor hatályos kiszervezési tárgyú szerződései – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződések kivételével – nem hosszabbíthatók meg. A szerződő felek ezzel ellentétes megállapodása semmis.
+
+(3) Az (1) bekezdés szerinti engedélyesek – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződéseik kivételével – kötelesek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül megszüntetni azokat a kiszervezési tárgyú szerződéseiket, amelyeket kapcsolt vállalkozásaikkal kötöttek. A Mód. 2. törvény hatálybalépését követő 6. hónapot követően az (1) bekezdés szerinti engedélyesek kapcsolt vállalkozásához kiszervezett tevékenységgel kapcsolatos költségeket a Hivatal az árszabályozás során nem veszi figyelembe.

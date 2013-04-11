@@ -92,7 +92,9 @@
 
 44. a villamosenergia-rendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszere, kijelölése, az érzékeny információ védelme, a kapcsolattartás és a jelentéstételi kötelezettségek, valamint európai kritikus infrastruktúra kijelölése esetén annak védelme, ellenőrzésének rendje, az előírások megsértése esetén alkalmazható jogkövetkezmények szabályait,
 
-45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit.
+45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
+
+46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 
@@ -100,7 +102,7 @@ rendeletben állapítsa meg.
 
 1. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
 
-2. az elosztó és az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait, valamint az elosztó által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait
+2. az elosztó és az egyetemes szolgáltató által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, a felhasználók vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait,
 
 3. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 

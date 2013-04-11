@@ -22,7 +22,9 @@ g) a szervezett villamosenergia-piac működtetése,
 
 h) a 39. § (1) bekezdés b) és c) pontja szerinti magánvezeték létesítése, bővítése és megszüntetése, az egy épületen belül elhelyezkedő magánvezeték létesítése, bővítése és megszüntetése kivételével,
 
-i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephelyén lévő vételezőket ellátó közvetlen vezeték kivételével.
+i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephelyén lévő vételezőket ellátó közvetlen vezeték kivételével,
+
+j) közvilágítási berendezések üzemeltetése a közvilágítási elosztó hálózat közvilágítási berendezései kivételével.
 
 (2)
 

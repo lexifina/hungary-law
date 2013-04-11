@@ -1,14 +1,12 @@
-142/B. § (1) A miniszter rendeletben állapítja meg
+142/B. § (1) A miniszter rendeletben állapítja meg az elosztó és az egyetemes szolgáltató által
 
-a) az elosztó által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások,
+a) a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és azok díjait,
 
-b) a rendszerhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások és
+b) a felhasználók vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét,
 
-c) az elosztó által az engedélyesek részére külön díj ellenében végezhető szolgáltatások
+c) a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
 
-körét és azok díjait.
-
-(2) A miniszter az (1) bekezdés szerinti rendelet megalkotása során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét is.
+(2) Az elosztó és az egyetemes szolgáltató az (1) bekezdés b) pontja szerinti szolgáltatásokat ingyenesen köteles biztosítani. Az (1) bekezdés b) pontja szerinti ingyenesen biztosítandó szolgáltatások költsége az árszabályozás során indokolt költségként nem vehető figyelembe.
 
 (3) A rendszerhasználati díjakra vonatkozó előírások betartását a Hivatal ellenőrzi.
 

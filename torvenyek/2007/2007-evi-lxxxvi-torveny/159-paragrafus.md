@@ -14,7 +14,7 @@
 
 7. előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
 
-8. javaslatot tesz az elosztó és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira,
+8. javaslatot tesz az elosztó és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira, az ingyenesen biztosítandó szolgáltatások legszűkebb körére, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körére és díjaira,
 
 9. dönt a közcélúvá, ezen belül átviteli vagy elosztó hálózati elemmé történő minősítésről vagy átminősítésről,
 

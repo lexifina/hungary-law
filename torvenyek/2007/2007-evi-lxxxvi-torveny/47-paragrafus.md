@@ -26,6 +26,8 @@ c) a villamosenergia-kereskedő a tartozásról és a kikapcsolás lehetőségé
 
 (7a) A (7) bekezdés c) pontjában meghatározott esetben a lakossági fogyasztó első értesítése postai vagy – a lakossági fogyasztó előzetes hozzájárulása esetén – elektronikus úton történik, a kikapcsolás lehetőségére és az azzal járó szolgáltatásszüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik.
 
+(7b) Ha a (7) bekezdés a) pontja szerinti fizetési kötelezettség nem vagy nem kizárólag számlatartozásból ered, a villamosenergia-kereskedő a lakossági fogyasztók villamosenergia-ellátásból történő kikapcsolását a nem számlatartozásból eredő fizetési kötelezettség vonatkozásában akkor kezdeményezheti, ha annak polgári peres vagy fizetési meghagyásos eljárás útján történő érvényesítését igazolható módon megindította.
+
 (8) A lakossági fogyasztó kikapcsolására nem kerülhet sor:
 
 a) munkaszüneti napon,
@@ -36,6 +38,6 @@ c) munkaszüneti napot vagy ünnepnapot közvetlenül megelőző munkanapon,
 
 d) külön jogszabályban meghatározott pihenőnapon.
 
-(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását és a külön díj ellenében végezhető szolgáltatásokról szóló jogszabályban meghatározott egyéb költségeket is megfizeti, a villamosenergia-kereskedő a tudomására jutást követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
+(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását, és a villamosenergia-elosztó és egyetemes szolgáltató által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló jogszabályban meghatározott külön díjat is megfizeti, a villamosenergia- kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
 
 (10) Az elosztó a (7) és a (9) bekezdés szerinti kezdeményezésnek köteles 24 órán belül eleget tenni.
