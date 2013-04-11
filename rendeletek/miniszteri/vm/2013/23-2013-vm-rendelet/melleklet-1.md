@@ -1,4 +1,4 @@
-## 39. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2012. évi igénybevételével kapcsolatos egyes kérdésekről szóló 32/2012. (IV. 2.) VM rendelet.
+## 39. §[^1]
 
 1. melléklet a 23/2013. (IV. 9.) VM rendelethez
 
@@ -131,3 +131,5 @@ ha ÁNTCSM>(IÁNT+ÁNTETÖK)
 akkor
 
 ÁNTFT=(ÁNTTÖ–(ÁNTCSM–(IÁNT+ÁNTETÖK)))
+
+[^1]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
