@@ -1,0 +1,3 @@
+6. § A VET. 47/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Amennyiben a villamosenergia-ellátásból kikapcsolt, egyetemes szolgáltatásra jogosult nem lakossági felhasználó rendezi valamennyi lejárt tartozását, és a villamosenergia-elosztó és egyetemes szolgáltató által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló jogszabályban meghatározott díjat is megfizeti, a villamosenergia-kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni az egyetemes szolgáltatásra jogosult nem lakossági felhasználó ellátásba történő ismételt bekapcsolását.”
