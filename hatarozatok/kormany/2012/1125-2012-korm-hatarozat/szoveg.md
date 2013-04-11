@@ -11,3 +11,7 @@ Felelős: fejlesztéspolitikáért felelős miniszter
 és a kutatás-fejlesztésért és technológiai innovációért felelős miniszter
 
 Határidő: 2012. május 30.
+
+3.[^1] A Kormány felhívja a fejlesztéspolitikáért felelős minisztert, hogy a Nagybiztonságú Adatközpont (CERN@WIGNER) – az Európai Nukleáris Kutatási Szervezet céljaira átmenetileg nem használt – kapacitásainak nem gazdasági célú igénybevételéről, annak feltételei, különösen időtartama és kapacitás igénye meghatározása mellett rendelkezzen.
+
+[^1]: A 3. pontot az 1199/2013. (IV. 11.) Korm. határozat iktatta be.
