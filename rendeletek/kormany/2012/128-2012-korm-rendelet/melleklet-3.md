@@ -18,14 +18,6 @@
 
 ## 8. Természeti csapás vagy emberi tevékenység okozta, a lakosságot vagy a környezetet veszélyeztető váratlan esemény bekövetkeztekor közreműködés a kiköltöztetendő lakók és vagyontárgyaik elszállításában és ideiglenes elhelyezésében.
 
-3. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^14]
+3. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^34]
 
-A III. Fejezetben meghatározott egyes eljárási cselekményekre vonatkozó határnapok
-
-|  | A | B | C | D | E |
-
-| 1 | Ütem megjelölése | A pályázat benyújtása | A Program Bírálati Bizottsága tagjai nevének közzététele | A döntési javaslat megtétele | A döntés meghozatala |
-
-| 2 | I. | 2013. február 15. | 2013. március 14. | 2013. március 20. | 2013. március 25. |
-
-[^14]: A 3. mellékletet a 431/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^34]: A 3. mellékletet a 431/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 111/2013. (IV. 11.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.

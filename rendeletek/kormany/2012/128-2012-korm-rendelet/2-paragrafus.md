@@ -1,10 +1,10 @@
-## II. Fejezet[^2]
+## II. Fejezet[^4]
 
 ## A MEGVÉTELRE FELAJÁNLOTT LAKÓINGATLAN MEGVÁSÁRLÁSÁNAK SZABÁLYAI
 
 ## 2. A szociális rászorultság feltételei és a szociális rászorultság igazolásának módja
 
-2. §[^3] (1) A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant abban az esetben vásárolja meg, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő házastársa vagy élettársa a háztartásban legalább egy gyermeket nevel, akire tekintettel a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő házastársa vagy élettársa családi pótlékra jogosult, és
+2. §[^5] (1) A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant abban az esetben vásárolja meg, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő házastársa vagy élettársa a háztartásban legalább egy gyermeket nevel, akire tekintettel a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő házastársa vagy élettársa családi pótlékra jogosult, és
 
 a) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján aktív korúak ellátásában vagy lakásfenntartási támogatásban részesül,
 
@@ -34,5 +34,5 @@ ca) postai úton történő nyugdíj-kifizetés esetén a nyugdíj átvételét 
 
 cb) pénzforgalmi szolgáltatónál vezetett számlára átutalással történő nyugdíj-kifizetés esetén a nyugdíj jóváírását is igazoló, a szándéknyilatkozat benyújtásának időpontjánál 30 napnál nem régebbi számlakivonatot.
 
-[^2]: A II. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^3]: A 2. § a 385/2012. (XII. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A II. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 2. § a 385/2012. (XII. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
