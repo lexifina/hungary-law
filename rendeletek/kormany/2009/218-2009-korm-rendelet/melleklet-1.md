@@ -1,8 +1,8 @@
 1. melléklet a 218/2009. (X. 6.) Korm. rendelethez
 
-## A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró – értékelő vizsgálatának tartalmi követelményei[^21]
+## A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró – értékelő vizsgálatának tartalmi követelményei[^23]
 
-1.[^22] A megye/kiemelt térség (a továbbiakban: a térség) terület társadalmi, gazdasági, környezeti helyzetének elemzése
+1.[^24] A megye/kiemelt térség (a továbbiakban: a térség) terület társadalmi, gazdasági, környezeti helyzetének elemzése
 
 1.1. Az adott térségre értelmezhető külső környezet vizsgálata:
 
@@ -96,7 +96,7 @@ k) a táj terhelésének és terhelhetőségének meghatározása.
 
 a) az OTK térséget érintő vonatkozásai,
 
-b)[^23] a térséget érintő kiemelt térség területfejlesztési tervei, c) az Országgyűlés és a Kormány által jóváhagyott és az egyéb ágazati fejlesztési stratégiáknak az adott térségre érvényes vonatkozásai,
+b)[^25] a térséget érintő kiemelt térség területfejlesztési tervei, c) az Országgyűlés és a Kormány által jóváhagyott és az egyéb ágazati fejlesztési stratégiáknak az adott térségre érvényes vonatkozásai,
 
 d) a hazai, az adott térséggel szomszédos, azonos térségi szintű térségek és/vagy külföldi közigazgatási egységek területfejlesztési koncepcióinak és programjainak térségre vonatkozó üzenetei,
 
@@ -104,7 +104,7 @@ e) az OTrT és a területrendezési terv(ek) térséget érintő vonatkozásai,
 
 f) a térséget érintő környezetvédelmi, természetvédelmi és tájvédelmi szabályozások,
 
-g)[^24] a térség 20 ezer lakos feletti városainak települési gazdasági vagy településfejlesztési programjai és településfejlesztési koncepciói,
+g)[^26] a térség 20 ezer lakos feletti városainak települési gazdasági vagy településfejlesztési programjai és településfejlesztési koncepciói,
 
 h) a térség hatályban lévő ágazati tervei, programjai,
 
@@ -140,7 +140,7 @@ a) a térség erősségeinek, gyengeségeinek, lehetőségeinek és a térséget
 
 b) a térség lehetséges fejlesztési irányainak bemutatása, és ezek alapján a lehetséges cselekvési területek azonosítása.
 
-[^21]: Az 1. melléklet címe a 67/2012. (IV. 5.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
-[^22]: Az 1. melléklet 1. pontja a 67/2012. (IV. 5.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^23]: Az 1. melléklet 2.1. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
-[^24]: Az 1. melléklet 2.1. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 24. § f) pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet címe a 67/2012. (IV. 5.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 1. pontja a 67/2012. (IV. 5.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 2.1. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 2.1. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 24. § f) pontja szerint módosított szöveg.

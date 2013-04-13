@@ -1,6 +1,6 @@
 10. melléklet a 218/2009. (X. 6.) Korm. rendelethez
 
-## A területfejlesztési koncepciók és programok véleményezésére jogosult szervek[^31]
+## A területfejlesztési koncepciók és programok véleményezésére jogosult szervek[^33]
 
 1. Országos Területfejlesztési Tanács;
 
@@ -10,7 +10,7 @@
 
 a) Központi Statisztikai Hivatal,
 
-b)[^32] érintett megyei és fővárosi kormányhivatal,
+b)[^34] érintett megyei és fővárosi kormányhivatal,
 
 c) Magyar Energia Hivatal,
 
@@ -22,13 +22,13 @@ d) Országos Atomenergia Hivatal;
 
 6. országos önkormányzati érdekszövetségek;
 
-7.[^33]
+7.[^35]
 
 8. az érintett térségi fejlesztési tanácsok;
 
-9.[^34]
+9.[^36]
 
-10.[^35]
+10.[^37]
 
 11. az érintett megyei önkormányzatok;
 
@@ -44,14 +44,14 @@ a) illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelős�
 
 b) működési területével érintett nemzeti park igazgatóság,
 
-c)[^36] működési területével érintett vízügyi igazgatóság.
+c)[^38] működési területével érintett vízügyi igazgatóság.
 
-d)[^37] Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége.
+d)[^39] Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége.
 
-[^31]: A 10. melléklet
-[^32]: A 10. melléklet 3. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § h) pontjával megállapított szöveg.
-[^33]: A 10. melléklet 7. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
-[^34]: A 10. melléklet 9. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
-[^35]: A 10. melléklet 10. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
-[^36]: A 10. melléklet 15. pont c) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § f) pontja szerint módosított szöveg.
-[^37]: A 10. melléklet 15. pont d) alpontját a 300/2011. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^33]: A 10. melléklet
+[^34]: A 10. melléklet 3. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § h) pontjával megállapított szöveg.
+[^35]: A 10. melléklet 7. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
+[^36]: A 10. melléklet 9. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
+[^37]: A 10. melléklet 10. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
+[^38]: A 10. melléklet 15. pont c) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § f) pontja szerint módosított szöveg.
+[^39]: A 10. melléklet 15. pont d) alpontját a 300/2011. (XII. 22.) Korm. rendelet 13. §-a iktatta be.

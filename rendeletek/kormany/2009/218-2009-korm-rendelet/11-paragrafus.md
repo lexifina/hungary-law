@@ -1,4 +1,4 @@
-## 10/A. §[^9] A területrendezésért felelős miniszter az OTrT-nek az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 29. §-a szerinti felülvizsgálatáról, valamint az OTrT munkarészei módosításának előkészítéséről a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. útján gondoskodik.
+## 10/A. §[^9] A területrendezésért felelős miniszter az OTrT-nek az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 29. §-a szerinti felülvizsgálatáról, valamint az OTrT munkarészei módosításának előkészítéséről a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
 
 ## 11. § A területi terveket az Országos Területfejlesztési és Területrendezési Információs Rendszerbe (a továbbiakban: TeIR) történő illeszthetőség követelményeinek figyelembevételével elektronikus és papíralapú dokumentumként kell kidolgozni. Ennek érdekében:
 
@@ -12,4 +12,4 @@ d) a területrendezési terveket egységes országos vetületi rendszerben, vekt
 
 e) a területrendezési tervek kidolgozása során a térségi szerkezeti terv tartalmi elemeit egy tervlapon, az egyes, tartalmilag nem összetartozó és átfedő térségi övezeteket elkülönülő tervlapokon kell ábrázolni.
 
-[^9]: A 10/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 15. §-a iktatta be.
+[^9]: A 10/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 15. §-a iktatta be, szövege a 107/2013. (IV. 5.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
