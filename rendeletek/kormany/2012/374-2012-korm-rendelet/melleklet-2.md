@@ -16,4 +16,6 @@
 
 | 7. | Polibrómozott difenil-éterek (PBDE) | 0,1 |
 
-2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez
+2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^4]
+
+[^4]: A 2. melléklet a 105/2013. (IV. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.

@@ -150,7 +150,7 @@
 
 | 53. | Ólom a fűtő, szellőztető, légkondicionáló és hűtő alkalmazásokban használt, hűtőközeget tartalmazó kompresszorok csapágycsészéiben és -béléseiben | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 54. | Integrált áramkörök vagy diszkrét félvezetők részét képező kondenzátorokban található ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 54. | Integrált áramkörök vagy diszkrét félvezetők részét képező kondenzátorokban található ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólom | nincs korlátozás | 2016. július 21-ig |
 
 | 55. | C-press rugalmas tűs csatlakozórendszerekben használt ólom | nincs korlátozás | a 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
