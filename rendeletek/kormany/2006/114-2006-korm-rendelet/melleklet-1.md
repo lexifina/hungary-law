@@ -1,6 +1,6 @@
-## 8. §[^33] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-ei 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 8. §[^50] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-ei 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^34]
+1. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^51]
 
 1. A pályázati kérelemhez csatolni kell:
 
@@ -24,7 +24,7 @@ g) amennyiben a pályázó a 2. § (1) bekezdés b) pontja szerinti fióktelep, 
 
 h) a 3. § (6)–(15) bekezdés szerinti követelményeket, illetve körülményeket igazoló okiratokat, jognyilatkozatokat, továbbá az előírt kötelezettségvállalásokat, valamint azon adatok és iratok megjelölését, amelyek üzleti titkot vagy más törvényben meghatározott magántitkot, vagy minősített adatot tartalmaznak,
 
-i) a pályázó szakmai és gazdasági tevékenységének bemutatását a 3. mellékletben foglaltak szerint,
+i)[^52] a pályázó szakmai és gazdasági tevékenységének bemutatását a 3. mellékletben foglaltak szerint, a pályázó szakmai tervét a pályázati felhívás szerint,
 
 j) nyilatkozatokat a Cstv. 27/C. § (1) bekezdésében (2) bekezdés e)–g) pontjában és (3) bekezdésében foglalt követelmények, illetve körülmények fennállásáról, valamint a szakirányú szakképzettséggel rendelkező, az e pont b) alpontjában megjelölt személyt foglalkoztató szervezetek számára előírt nyilatkozatot,
 
@@ -32,11 +32,21 @@ k) a Cstv. 27/C. § (2) bekezdésének e) pontjában említett hozzájáruló ny
 
 l) a pályázó székhelye, fióktelepe szerinti ingatlanok tulajdonát vagy használatának jogcímét igazoló okiratokat,
 
-m) a pályázó internetes honlapjának (honlapjainak) elérhetőségéről tájékoztató adatot.
+m) a pályázó internetes honlapjának (honlapjainak) elérhetőségéről tájékoztató adatot,
+
+n)[^53] a pályázatban szerepeltetett személyek nyilatkozatát a jogszabályi és a pályázati feltételeknek való megfelelés érdekében történő adatkezeléshez való hozzájárulásáról és a feltételek ellenőrzésének tűréséről.
+
+o)[^54] a kérelem formanyomtatványát.
+
+1.A.[^55] A nyilvántartó szerv az e célra rendszeresített formanyomtatványt és nyilatkozatmintákat a honlapján közzéteszi.
 
 2. A pályázónak meg kell jelölnie azt is, hogy a székhelyén kívül – a 2. § (1) bekezdés b) pont szerinti pályázó esetén pedig a magyarországi cégbejegyzése helyén kívül – melyik törvényszék (törvényszékek) illetékességi területén folytatja tevékenységét (működési terület). Működési területként olyan törvényszék illetékességi területét kell megjelölni, ahol a pályázónak székhelye vagy fióktelepe van.
 
 3. A külföldön kiállított okiratok, igazolások, hatósági bizonyítványok és az idegen nyelven kiállított jognyilatkozatok hiteles magyar nyelvű fordítását is csatolni kell.
 
-[^33]: A 8. §-t a 169/2012. (VII. 20.) Korm. rendelet 7. §-a iktatta be.
-[^34]: A Melléklet korábbi megjelölését 1. mellékletre változtatta és szövegét megállapította a 169/2012. (VII. 20.) Korm. rendelet 9. § (1) bekezdése.
+[^50]: A 8. §-t a 169/2012. (VII. 20.) Korm. rendelet 7. §-a iktatta be.
+[^51]: A Melléklet korábbi megjelölését 1. mellékletre változtatta és szövegét megállapította a 169/2012. (VII. 20.) Korm. rendelet 9. § (1) bekezdése.
+[^52]: Az 1. melléklet 1. pont i) alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^53]: Az 1. melléklet 1. pont n) alpontját a 113/2013. (IV. 12.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^54]: Az 1. melléklet 1. pont o) alpontját a 113/2013. (IV. 12.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^55]: Az 1. melléklet 1.A. pontját a 113/2013. (IV. 12.) Korm. rendelet 6. § (3) bekezdése iktatta be.
