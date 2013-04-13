@@ -1,10 +1,10 @@
 ## 45. § A miniszter az egészségügyért való felelőssége körében
 
-a)[^181] ellátja az egészségügyi szakképzéssel és egészségügyi felsőfokú szakirányú szakképzéssel kapcsolatos, továbbá az Országos Képzési Jegyzék alapján hatáskörébe tartozó szakképesítések tekintetében a szakképesítésért felelős miniszter jogkörét,
+a)[^184] ellátja az egészségügyi szakképzéssel és egészségügyi felsőfokú szakirányú szakképzéssel kapcsolatos, továbbá az Országos Képzési Jegyzék alapján hatáskörébe tartozó szakképesítések tekintetében a szakképesítésért felelős miniszter jogkörét,
 
 b) előkészíti az egészségügyi ágazati szakmai képzési rendszerre és a képzési követelményekre vonatkozó jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki,
 
-c)[^182] kidolgozza a szakemberek utánpótlásának programját és gondoskodik az egészségügyi ágazati humánerőforrás-monitoring rendszer működtetéséről,
+c)[^185] kidolgozza a szakemberek utánpótlásának programját és gondoskodik az egészségügyi ágazati humánerőforrás-monitoring rendszer működtetéséről,
 
 d) irányítja, összehangolja és működteti az egészségügyi felsőfokú szakirányú szakképzés keretében létrehozott központi gyakornoki rendszert, valamint gondoskodik az egészségügyi dolgozók folyamatos továbbképzési rendszerének működéséről,
 
@@ -14,5 +14,5 @@ f) külön jogszabályban meghatározott feladatokat lát el az egészségügyi 
 
 g) ellátja az orvos- és egészségtudományi képzéssel kapcsolatos feladatokat.
 
-[^181]: A 45. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (28) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^182]: A 45. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (28) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^184]: A 45. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (28) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^185]: A 45. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (28) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

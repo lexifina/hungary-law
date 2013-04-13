@@ -1,4 +1,4 @@
-## 71/E. §[^263] A miniszter a társadalmi és civil kapcsolatok fejlesztéséért való felelőssége körében
+## 71/E. §[^266] A miniszter a társadalmi és civil kapcsolatok fejlesztéséért való felelőssége körében
 
 a) összehangolja a Kormánynak a civil és társadalmi kapcsolatok fejlesztésével összefüggő feladatait,
 
@@ -28,4 +28,4 @@ m) közreműködik a civil szervezetek bírósági nyilvántartásával kapcsola
 
 n) gyűjti, rendszerezi és közzéteszi a civil szervezetekkel kapcsolatos nyilvános adatokat és közérdekből nyilvános adatokat az ezzel összefüggésben kérelemre történő adatszolgáltatás biztosítása céljából.
 
-[^263]: A 71/E. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
+[^266]: A 71/E. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.

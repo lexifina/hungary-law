@@ -80,7 +80,7 @@ db) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megval�
 
 dc) a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról,
 
-dd) az építésügyi célelőirányzat felhasználásáról,
+dd)[^136] az építésügyi hatósági tevékenységről,
 
 de) az építési-műszaki tervezői, az építésügyi műszaki szakértői, az építésügyi igazgatási szakértői, az építési-műszaki ellenőri, a felelős műszaki vezetői, a beruházás lebonyolítói, az energetikai tanúsítói, vállalkozó kivitelezői névjegyzékbe való felvételre irányuló eljárásokról, valamint a szakmai továbbképzés szabályairól,
 
@@ -90,11 +90,11 @@ dg) a műemlékek, műemléki jelentőségű területek és a műemléki környe
 
 dh) a főépítészi tevékenységről,
 
-di) az építésügyi nyilvántartásokról,
+di)[^137] az építésügyi monitoringrendszerről,
 
 dj) a nemzetgazdasági miniszter egyetértésével az energetikai követelményekről és az energetikai tanúsításról,
 
-dk) az építésügyi dokumentációs központról,
+dk)[^138] az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról,
 
 dl) a nemzetgazdasági miniszter egyetértésével az építőipari kivitelezési tevékenységről szóló jogszabályokat, továbbá e tárgykörben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
@@ -108,7 +108,7 @@ c) a menekültek jogállásáról és a menekültügyi eljárásról,
 
 d) az idegenrendészeti és menekültügyi hatóság jogállásáról, szervezetéről és működéséről szóló jogszabályokat, továbbá e tárgykörben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(5)[^136] A katasztrófák elleni védekezésért való felelőssége körében a miniszter előkészíti különösen
+(5)[^139] A katasztrófák elleni védekezésért való felelőssége körében a miniszter előkészíti különösen
 
 a) a katasztrófák elleni védekezés egységes irányítási rendszerének kialakításáról és működéséről,
 
@@ -118,13 +118,13 @@ c) a tűz elleni védekezéssel kapcsolatos feladatokról,
 
 d) az ipari balesetek megelőzéséről és elhárításáról, valamint az országhatáron túli hatással járó ipari balesetek nemzetközi értesítési és kölcsönös segítségnyújtási rendszeréről,
 
-e)[^137] az infrastruktúra kritikus elemeivel kapcsolatos feladatokról
+e)[^140] az infrastruktúra kritikus elemeivel kapcsolatos feladatokról
 
 szóló jogszabályokat, továbbá e tárgykörben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(6)[^138] A miniszter előkészíti továbbá
+(6)[^141] A miniszter előkészíti továbbá
 
-a)[^139]
+a)[^142]
 
 b) a bűncselekmények megelőzéséről szóló,
 
@@ -134,7 +134,7 @@ d) a szabálysértési szabályozásért való felelőssége keretében a szabá
 
 jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
 
-(7)[^140] A miniszter
+(7)[^143] A miniszter
 
 a) előkészíti a régészeti örökség és a műemlék védelmével összefüggő jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
@@ -159,8 +159,11 @@ b) összehangolja, ellenőrzi és szakmailag irányítja a régészeti és műem
 [^133]: A 39. § (2) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^134]: A 39. § (2) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^135]: A 39. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^136]: A 39. § (5) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés f) pontja, záró szövegrésze e módosító rendelet 40. § (25) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^137]: A 39. § (5) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés g) pontja, a 41. § (15) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^138]: A 39. § (6) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^139]: A 39. § (6) bekezdés a) pontját a 178/2012. (VII. 26.) Korm. rendelet 8. § (3) bekezdés c) pontja hatályon kívül helyezte.
-[^140]: A 39. § (7) bekezdését a 266/2012. (IX. 18.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^136]: A 39. § (3) bekezdés d) pont dd) alpontja a 107/2013. (IV. 5.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^137]: A 39. § (3) bekezdés d) pont di) alpontja a 107/2013. (IV. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^138]: A 39. § (3) bekezdés d) pont dk) alpontja a 107/2013. (IV. 5.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^139]: A 39. § (5) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés f) pontja, záró szövegrésze e módosító rendelet 40. § (25) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^140]: A 39. § (5) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (25) bekezdés g) pontja, a 41. § (15) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^141]: A 39. § (6) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (15) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^142]: A 39. § (6) bekezdés a) pontját a 178/2012. (VII. 26.) Korm. rendelet 8. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^143]: A 39. § (7) bekezdését a 266/2012. (IX. 18.) Korm. rendelet 23. § (2) bekezdése iktatta be.
