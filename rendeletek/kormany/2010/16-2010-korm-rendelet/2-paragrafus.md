@@ -1,4 +1,4 @@
-2. § (1) A Kormány a Dokumentációs Központ üzemeltetőjeként a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Üzemeltető) jelöli ki.
+2. § (1)[^6] A Kormány a Dokumentációs Központ üzemeltetőjeként a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Üzemeltető) jelöli ki.
 
 (2) A területfejlesztésért és területrendezésért felelős miniszter (a továbbiakban: miniszter) az Üzemeltetővel évente közszolgáltatási szerződés köt.
 
@@ -25,3 +25,5 @@ b) a Dokumentációs Központ által vezetett nyilvántartások leírását, és
 c) a Dokumentációs Központ felelősségi körét.
 
 (6) A Dokumentációs Központ, amennyiben alapfeladatának ellátását nem veszélyezteti, a kötelező gyűjtőkörön kívüli dokumentumokat is gyűjthet. A kötelező gyűjtőkörön kívüli dokumentumok átadásáról az Üzemeltető megállapodást köt az átadó szervvel vagy személlyel, amelyben rendelkezni kell a dokumentumok átvételével és tárolásával kapcsolatban felmerülő költségek viseléséről.
+
+[^6]: A 2. § (1) bekezdése a 107/2013. (IV. 5.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.

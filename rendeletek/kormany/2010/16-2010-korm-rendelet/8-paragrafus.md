@@ -4,6 +4,6 @@
 
 (2) A Rendelet alapján gyűjtött dokumentációkat 2019. december 31-ig kell e rendelet szabályai szerint az új nyilvántartási rendszerbe illeszteni.
 
-(3)[^9]
+(3)[^10]
 
-[^9]: A 8. § (3) bekezdését a 10. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 8. § (3) bekezdését a 10. § (3) bekezdése hatályon kívül helyezte.
