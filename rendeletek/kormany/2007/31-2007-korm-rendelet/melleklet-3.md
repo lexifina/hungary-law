@@ -334,6 +334,6 @@
 
 | 44. | Nemzeti Környezetügyi Intézet | NeKI |
 
-3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^37]
+3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^39]
 
-[^37]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^39]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
