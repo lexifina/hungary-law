@@ -54,7 +54,7 @@ d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Fő
 
 a) az ex-ante hozzájárulás biztosítója: a településfejlesztésért és településrendezésért felelős miniszter;
 
-b) a nemzeti kapcsolattartó pont: a VÁTI;
+b)[^21] a nemzeti kapcsolattartó pont: a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
 
 c) az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a VÁTI;
 
@@ -76,3 +76,4 @@ d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Fő
 [^18]: A 3. § (5) bekezdés b) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^19]: A 3. § (6) bekezdése a 154/2012. (VII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^20]: A 3. § (7) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 3. § (7) bekezdés b) pontja a 107/2013. (IV. 5.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
