@@ -20,7 +20,7 @@ e) évente statisztikai összesítést és összefoglaló jelentést készít a 
 
 (2) A dokumentációknak a Dokumentációs Központban történő adatkezelése a dokumentációkkal kapcsolatos szerzői jogokat nem érinti.
 
-(3) A Dokumentációs Központ és a Nyilvántartás adatállományai nem nyilvánosak.
+(3)[^2]
 
 (4) Kérelemre az Üzemeltető az 1. § (1) bekezdése szerinti dokumentumállomány archivált és a külön jogszabály szerinti újrahasznosítás céljából rendelkezésre bocsátható közérdekű adataiba betekintést biztosít, abból adatokat szolgáltat, az adatokról másolatot ad a közadatok újrahasznosításáról szóló törvény, az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint az Étv. 58–59. §-ának a személyes adatok kezelésére vonatkozó rendelkezései szerint.
 
@@ -30,7 +30,7 @@ e) évente statisztikai összesítést és összefoglaló jelentést készít a 
 
 a) az (5) bekezdésben foglaltak teljesítése céljából, szolgáltatási szerződés vagy jogszabály alapján, saját informatikai eszközeivel, közvetlen elérést biztosít
 
-aa)[^1]
+aa)[^3]
 
 ab) a régészeti és a műemléki védelem alatt álló ingatlanok, területek közhiteles nyilvántartási adataihoz,
 
@@ -42,4 +42,5 @@ c) kezeli az adatállomány és az alkalmazások hozzáférési jogosultsági ad
 
 (7) Az Étv. 3. § (2) bekezdésében foglalt, az Étv. 5. §-ában meghatározott miniszteri feladatok ellátásához szükséges, valamint az e rendeletben előírt közzétételi feladatok ellátásáról az Üzemeltető a www.e-epites.hu weboldal működtetésével gondoskodik.
 
-[^1]: Az 5. § (6) bekezdés a) pont aa) alpontja a 8. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^2]: Az 5. § (3) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte.
+[^3]: Az 5. § (6) bekezdés a) pont aa) alpontja a 8. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
