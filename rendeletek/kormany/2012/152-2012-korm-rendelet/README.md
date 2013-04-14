@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-152-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-07-11 | 2012-152-20-22.1 | 152/2012. (VII. 10.) Korm. rendelet |
+| 2013-04-14 | 2012-152-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
