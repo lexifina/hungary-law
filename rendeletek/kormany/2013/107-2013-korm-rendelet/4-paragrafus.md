@@ -1,7 +1,5 @@
-## „(2) A Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság jogutódja a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaságnak a 11. § (2) bekezdésében meghatározott feladatok ellátásához kapcsolódó – a Lechner Lajos Tudásközpont alapításával összefüggő egyes kormányrendeletek módosításáról szóló 107/2013. (IV. 5.) Korm. rendelet hatálybalépését megelőzően a jogelőd által megkötött – polgári jogi szerződések alapján fennálló jogviszonyok, valamint a 11. § (2) bekezdésében meghatározott feladatok ellátásával kapcsolatban a jogelőd által megszerzett szerzői jogok, forráskódok és licencek tekintetében.”
+## 3. §[^3]
 
 ## 4. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendelet módosítása
 
-4. § (1) A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendelet (a továbbiakban: R2.) 3. § (7) bekezdés b) pontjában a „VÁTI” szövegrész helyébe a „Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szöveg lép.
-
-(2) Az R2. 6. §-a a következő (5) bekezdéssel egészül ki:
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
