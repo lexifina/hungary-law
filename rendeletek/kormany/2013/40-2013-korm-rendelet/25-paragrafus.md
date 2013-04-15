@@ -1,0 +1,9 @@
+25. § (1) A létesítményeknek stratégiával kell rendelkezniük az állatok jólétét és a tudományos követelmények teljesülését biztosító egészségmegőrzés érdekében. E stratégia részeként rendszeres egészségügyi nyomon követést kell végezni, mikrobiológiai felügyeleti programot és a betegségek kezelésére vonatkozó tervet kell kidolgozni, valamint meg kell határozni az újonnan érkező állatok befogadásával kapcsolatos egészségügyi paramétereket és eljárásokat.
+
+(2) Az állatokat legalább napi rendszerességgel hozzáértő személynek kell megvizsgálnia. Ezen vizsgálatoknak biztosítaniuk kell, hogy a beteg vagy sérült állatokat azonosítsák, és megfelelő intézkedéseket tegyenek.
+
+(3) Vadon befogott álatok esetében a befogás helyszínén az érintett állatfaj sajátosságainak megfelelően kialakított szállítókonténert és szállítóeszközt kell biztosítani arra az esetre, ha az állatot vizsgálat vagy kezelés céljából el kellene szállítani.
+
+(4) Külön figyelmet kell fordítani és megfelelő intézkedéseket kell tenni a vadon befogott állatok akklimatizálására, elkülönítésére, elhelyezésére, tenyésztésére és gondozására, valamint adott esetben gondoskodni kell a kísérletek végeztével történő szabadon engedésükről.
+
+(5) A természetben is magánosan élő állatok kivételével az állatokat társasan, egymással összeférő egyedek állandó csoportjaiban kell elhelyezni. Ha a 28. §-sal összhangban engedélyezett az elkülönített elhelyezés, annak tartamát a szükséges legrövidebb időre kell korlátozni, és az egyedeket látó-, halló-, szagló-, és tapintási távolságon belül kell elhelyezni. Az összeférhetetlenséggel és a társas kapcsolatok felbomlásával kapcsolatos problémák elkerülése érdekében gondosan figyelemmel kell kísérni az új egyedek beilleszkedését, valamint a korábban elkülönített egyedek visszailleszkedését a már kialakult közösségbe.

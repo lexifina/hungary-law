@@ -1,0 +1,3 @@
+20. § (1) A létesítményeket fel kell szerelni alapvető laboreszközökkel egyszerű diagnosztikai vagy post mortem vizsgálatok elvégzése és/vagy olyan minták levételének céljára, amelyeket azután másutt alaposabb laboratóriumi vizsgálatnak vethetnek alá. Általános és különleges célú kísérletek végzésére alkalmas helyiségeket kell fenntartani olyan esetekre, amikor a kísérletek vagy megfigyelések elvégzése nem kívánatos az állatok elhelyezésére szolgáló helyiségben.
+
+(2) Ahol steril körülmények között végzett sebészeti kísérletekre is szükség van, egy vagy több megfelelően felszerelt helyiséget, valamint a műtét utáni lábadozást elősegítő eszközöket is biztosítani kell.

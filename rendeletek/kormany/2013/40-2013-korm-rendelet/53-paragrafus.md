@@ -1,0 +1,3 @@
+53. § (1) A rendelet hatálybalépése előtt engedélyezett projektekre az engedély hatályának lejártáig nem alkalmazandóak a 40–48. §-okban foglalt rendelkezések.
+
+(2) Azon géntechnológiailag módosított fajtavonalak fenntartását, amelyek esetében az állatok a helyes állatorvosi gyakorlat szerint kivitelezett tűszúrás által okozottal egyenértékű vagy annál magasabb szintű fájdalmat, szenvedést, kínt vagy maradandó károsodást élhetnek meg, és amely fajtavonalak e rendelet hatálybalépésekor fenntartó tenyészetben voltak, 2014. december 31-ig a projektengedélyeztetés szabályai szerint engedélyeztetni kell.
