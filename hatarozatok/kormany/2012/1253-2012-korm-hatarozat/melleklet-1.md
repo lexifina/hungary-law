@@ -24,7 +24,7 @@
 
 ## Határidő: 2012. november 30.
 
-1. melléklet az 1253/2012. (VII. 19.) Korm. határozathoz
+1. melléklet az 1253/2012. (VII. 19.) Korm. határozathoz[^1]
 
 Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
@@ -62,11 +62,11 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
 | 16. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21891 1/1 | fejlesztési terület létrehozása | kivett 4 épület, udvar | 13443 |
 
-| 17. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21927 | oktatás biztosítása/Lestár Péter Egységes Középiskola, Szakiskola és Óvoda bővítése | kivett építési terület | 10293 |
+| 17. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21927 1/1 | Oktatás biztosítása/Kecskemét Megyei Jogú Város Önkormányzatának közreműködésével működtetett oktatási, nevelési intézmények és az azokhoz kapcsolódó infrastruktúra fejlesztése | kivett építési terület | 10293 |
 
-| 18. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21928 1/1 | oktatás biztosítása/Lestár Péter Egységes Középiskola, Szakiskola és Óvoda bővítése | kivett út | 2404 |
+| 18. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21928 1/1 | Oktatás biztosítása/Kecskemét Megyei Jogú Város Önkormányzatának közreműködésével működtetett oktatási, nevelési intézmények és az azokhoz kapcsolódó infrastruktúra fejlesztése | kivett út | 2404 |
 
-| 19. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21929 1/1 | oktatás biztosítása/Lestár Péter Egységes Középiskola, Szakiskola és Óvoda bővítése | kivett beépítetlen terület | 8850 |
+| 19. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21929 1/1 | Oktatás biztosítása/Kecskemét Megyei Jogú Város Önkormányzatának közreműködésével működtetett oktatási, nevelési intézmények és az azokhoz kapcsolódó infrastruktúra fejlesztése | kivett beépítetlen terület | 8850 |
 
 | 20. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21932 1/1 | lakásgazdálkodási feladatok ellátása/ bérlakás-rendszer kialakítása | kivett udvar, épület | 6022 |
 
@@ -133,3 +133,5 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 | 51. | Uraiújfalu Község Önkormányzata | Uraiújfalu 04/8 1/1 | sport támogatása, egészséges életmód közösségi feltételeinek elősegítése/Uraiújfalu Sportegyesület labdarúgó csapatának kvalifikaciós (működési) feltételeinek biztosítása | kivett sportöltöző udvar | 4122 |
 
 | 52. | Velem Község Önkormányzata | Velem 791 1/1 | településfejlesztés, településrendezés, az egészséges életmód közösségi feltételeinek elősegítése/ közösségi centrum kialakítása | kivett lakóház, udvar | 2465 |
+
+[^1]: Az 1. melléklet az 1205/2013. (IV. 15.) Korm. határozat 9. pontja szerint módosított szöveg.
