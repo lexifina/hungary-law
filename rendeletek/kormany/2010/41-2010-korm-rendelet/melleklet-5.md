@@ -2,7 +2,7 @@
 
 |  | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. |
 
-|  | kimenetele | körülményei | (4) a) | (4) b) | (4) c) | (4) d) | (5) a) | (5) b) |
+|  | kimenetele | körülményei | (3) a) | (3) b) | (3) c) | (3) d) | (4) a) | (4) b) |
 
 | a) | 8 napon belül gyógyuló | az ebbel nem egy háztartásban élő személynek | x |  |  |  |  |  |
 
@@ -48,7 +48,7 @@
 
 | v) | saját territóriumon, egyéb állatnak | x |  | x |  |  |  |
 
-5. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^87]
+5. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^95]
 
 A.
 
@@ -88,4 +88,4 @@ Az ivartalanítás és a transzponderrel történő megjelölés megtörténtér
 
 7. Az eb egyéb egyedi jellemzői
 
-[^87]: Az 5. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^95]: Az 5. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.
