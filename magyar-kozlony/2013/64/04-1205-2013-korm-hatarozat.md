@@ -1,0 +1,1085 @@
+# A Kormány 1205/2013. (IV. 15.) Korm. határozata
+
+Magyar Közlöny 2013. évi 64. szám, 2013. április 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/017fe3f6ffd7a9df9e746813f58bd0d566f5bf30/dokumentumok/b20b8dd76b6b78bf3b57c2fae0b92b7b766481b4/letoltes)
+
+---
+
+A Kormány 1205/2013. (IV. 15.) Korm. határozata
+egyes állami vagyontárgyak ingyenes tulajdonba adásáról
+
+1. A Kormány az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (2) bekezdés c) pontja,
+valamint 36. § (3) bekezdése alapján úgy dönt, hogy az 1. mellékletben felsorolt állami vagyonba tartozó ingatlanok
+ingyenesen az ott megjelölt helyi önkormányzatok (a továbbiakban: önkormányzat) tulajdonába kerüljenek.
+
+2. A Kormány a Vtv. 36. § (2) bekezdés e) pontja, valamint a 36. § (3) bekezdése alapján úgy dönt, hogy a 2. és
+3. mellékletben felsorolt ingóságok ingyenesen az Életjel Mentőkutyás Kutatóegység, valamint a Magyar Máltai
+Szeretetszolgálat tulajdonába kerüljenek.
+
+3. Az ingyenes tulajdonba adásról a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság
+(a továbbiakban: MNV Zrt.) az 1. mellékletben felsorolt önkormányzatokkal – 2013. július 31-ig – a tulajdonosváltozás
+ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést (a továbbiakban: szerződés) köt.
+
+4. A szerződés megkötése előtt az MNV Zrt. a Polgári Törvénykönyv szerinti jóhiszemű eljárásnak, együttműködési
+és tájékoztatási kötelezettségnek eleget téve köteles tájékoztatni az önkormányzatokat az ingatlanra vonatkozó
+terhekről, korlátozásokról, a folyamatban lévő eljárásokról és az egyéb jogi természetű ügyekről, valamint átadni
+az ezekkel kapcsolatban rendelkezésre álló dokumentumokat. A szerződésekben – a tulajdonátruházási szerződésekre
+vonatkozó általános jogszabályi követelményeken túlmenően – a következők rögzítése is szükséges:
+a)
+az önkormányzat – szükség esetén – saját költségvetése terhére vállalja az ingatlan környezeti állapotának
+felmérését, kármentesítését, illetve ha az ingatlanon tervezett tevékenység engedélyköteles, akkor a szükséges
+engedélyek megszerzését, az ingatlan ingyenes tulajdonba adásával összefüggésben esetlegesen felmerülő
+általános forgalmi adó megtérítését;
+b)
+az önkormányzat az ingatlan tulajdonjogát a fennálló terhekkel együtt szerzi meg;
+c)
+az önkormányzat vállalja, hogy az ingatlan vonatkozásában az állammal szemben semmilyen követelést nem
+támaszt;
+
+d)
+a bérbeadással – vagy más jogcímen – hasznosított ingatlan esetében az önkormányzat vállalja a fennálló
+jogviszonyokból eredő kötelezettségeket és a tulajdonossal szemben támasztott esetleges jövőbeni
+követelésekért való helytállást;
+e)
+az önkormányzat vállalja, hogy a szerződésben előírt kötelezettségek teljesítéséről – a szerződés hatályba
+lépését követő évtől számított – minden év december 31. napjáig írásban tájékoztatja az MNV Zrt.-t; amennyiben
+az önkormányzat e kötelezettségének nem tesz eleget, az ingatlanok szerződésben rögzített bruttó forgalmi
+értékének 5 százalékát köteles az MNV Zrt. erre vonatkozó felhívásának kézhezvételétől számított 30 napon
+belül mint késedelmi kötbért megfizetni;
+f)
+az ingatlant az önkormányzat a tulajdonjog megszerzésétől számított 15 évig nem idegenítheti el, és
+az ingatlant a birtokbavételtől számított 15 évig az 1. mellékletben és a szerződésben meghatározott,
+az adott ingatlanra megjelölt hasznosítási célnak megfelelően köteles hasznosítani, valamint állagát megóvni;
+ha az önkormányzat e kötelezettségeinek részben vagy egészben nem tesz eleget, köteles az MNV Zrt.
+felszólítására, a felszólításban meghatározott határidőig a jogsértő állapotot megszüntetni; a jogsértő állapot
+megszüntetésére szabott határidő elmulasztása esetén az önkormányzat köteles a szerződésben rögzített
+forgalmi értéknek a kötelezettség megszegésének napjától számított mindenkori jegybanki alapkamattal
+növelt összegét nemteljesítési kötbérként az MNV Zrt.-nek megfizetni a felszólítás kézhezvételétől számított
+60 napon belül; az MNV Zrt. a jogsértő állapot megszüntetésére szabott határidő elmulasztása esetén
+a nemteljesítési kötbér követelése helyett a szerződéstől elállhat;
+g)
+az önkormányzat vállalja azon külön feltételek teljesítését, amelyekhez a vagyonkezelő, annak felügyeleti
+szerve vagy a sportigazgatási szerv az ingyenes tulajdonba adáshoz szükséges hozzájáruló nyilatkozat kiadását
+kötötte.
+
+5. A szerződés csak abban az esetben köthető meg, ha az önkormányzat a szerződés általa történő aláírásának
+időpontjában az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint
+köztartozásmentes adózónak minősül, és az MNV Zrt.-vel szemben lejárt tartozással nem rendelkezik. A köztartozással
+kapcsolatos kizáró feltétel fennállásának hiányát a jogosult harminc napnál nem régebben kiállított közokirattal
+igazolja, vagy nyilatkozik arról, hogy szerepel a köztartozásmentes adózói adatbázisban.
+
+6. A 2. és 3. mellékletben felsorolt ingóságok ingyenes tulajdonba adásáról az MNV Zrt. – 2013. július 31-ig – szerződést
+köt az Életjel Mentőkutyás Kutatóegységgel, valamint a Magyar Máltai Szeretetszolgálattal.
+
+7. A 6. pont szerinti szerződésben – a tulajdon átruházási szerződésekre vonatkozó általános jogszabályi követelményeken
+túlmenően – a következők rögzítése is szükséges:
+a)
+az Életjel Mentőkutyás Kutatóegység és a Magyar Máltai Szeretetszolgálat részére átadandó ingóságok per-,
+teher- és igénymentesek;
+b)
+az Életjel Mentőkutyás Kutatóegység és a Magyar Máltai Szeretetszolgálat vállalja, hogy az ingyenesen
+tulajdonukba kerülő ingóságok vonatkozásában a tulajdonba adással és az ingóságok műszaki és egyéb
+állapotával kapcsolatban az állammal szemben semmilyen követelést nem támasztanak; az átadott ingóságok
+rendeltetésszerű használatra való alkalmasságáról a későbbi felhasználás során az Életjel Mentőkutyás
+Kutatóegység és a Magyar Máltai Szeretetszolgálat gondoskodik.
+
+8. A 6. pont szerinti szerződés csak abban az esetben köthető meg, ha az Életjel Mentőkutyás Kutatóegység és
+a Magyar Máltai Szeretetszolgálat a szerződés általa történő aláírásának időpontjában az Art. 178. § 32. pontja szerint
+köztartozásmentes adózónak minősül, és az MNV Zrt.-vel szemben lejárt tartozással nem rendelkezik. A köztartozással
+kapcsolatos kizáró feltétel fennállásának hiányát a jogosult 30 napnál nem régebben kiállított közokirattal igazolja,
+vagy nyilatkozik arról, hogy szerepel a köztartozásmentes adózói adatbázisban.
+Felelős:
+nemzeti fejlesztési miniszter a 3–8. pontokban meghatározott feladatok végrehajtásáért
+Határidő:
+2013. július 31.
+
+9. A Kormány hozzájárul ahhoz, hogy az egyes állami vagyonba tartozó ingatlanok ingyenes önkormányzati tulajdonba
+adásáról szóló 1253/2012. (VII. 19.) Korm. határozat 1. mellékletében szereplő táblázat 17–19. soraiban meghatározott
+ingatlanok hasznosítási célja az alábbiak szerint módosításra kerüljön:
+17.
+Kecskemét
+Megyei Jogú Város
+Önkormányzata
+Kecskemét 21927
+1/1
+Oktatás biztosítása/Kecskemét Megyei Jogú
+Város Önkormányzatának közreműködésével
+működtetett oktatási, nevelési intézmények és
+az azokhoz kapcsolódó infrastruktúra fejlesztése
+18.
+Kecskemét
+Megyei Jogú Város
+Önkormányzata
+Kecskemét 21928
+1/1
+Oktatás biztosítása/Kecskemét Megyei Jogú
+Város Önkormányzatának közreműködésével
+működtetett oktatási, nevelési intézmények és
+az azokhoz kapcsolódó infrastruktúra fejlesztése
+19.
+Kecskemét
+Megyei Jogú Város
+Önkormányzata
+Kecskemét 21929
+1/1
+Oktatás biztosítása/Kecskemét Megyei Jogú
+Város Önkormányzatának közreműködésével
+működtetett oktatási, nevelési intézmények és
+az azokhoz kapcsolódó infrastruktúra fejlesztése
+10. A Kormány – Kecskemét Megyei Jogú Város Önkormányzatának kezdeményezése alapján – felhívja az állami vagyon
+felügyeletéért felelős minisztert, hogy az MNV Zrt. útján gondoskodjon a Magyar Állam képviseletében eljáró MNV
+Zrt., Kecskemét Megyei Jogú Város Önkormányzata és a Kecskeméti Főiskola között 2012. november 30-án létrejött
+SZT-38301 számú megállapodás 9. pont szerinti módosításáról.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1205/2013. (IV. 15.) Korm. határozathoz
+Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+1.
+Balatonfüred Város
+Önkormányzata
+Balatonfüred 0197/36
+1/1
+helyi közutak és
+közterületek fenntartása/
+közútként történő
+hasznosítás
+kivett közút 144
+2.
+Balatonfüred Város
+Önkormányzata
+Balatonfüred 0197/37
+1/1
+helyi közutak és
+közterületek fenntartása/
+közútként történő
+hasznosítás
+kivett közút 96
+3.
+Balatonőszöd Község
+Önkormányzata
+Balatonőszöd 623
+1/1
+közösségi tér
+biztosítása/szabad parti
+közhasználatú sétány és
+természetes vízben
+történő fürdőzés
+lehetőségének
+biztosítása
+kivett udvar 13433
+4.
+Bátonyterenye Város
+Önkormányzata
+Bátonyterenye 1319/2
+1/1
+közösségi tér
+biztosítása,
+közművelődési,
+művelődési
+tevékenység/civil
+szervezetek működési
+feltételeinek elősegítése
+beépített terület 1023
+5.
+Bátonyterenye Város
+Önkormányzata
+Bátonyterenye 1319/2/A/4
+1/1
+közösségi tér
+biztosítása,
+közművelődési,
+művelődési
+tevékenység/civil
+szervezetek működési
+feltételeinek elősegítése
+iroda 216
+6.
+Bocskaikert Község
+Önkormányzata
+Bocskaikert 14271/2
+1/1
+gyermek és ifjúsági
+feladatokról való
+gondoskodás, a sport
+támogatása/
+sportversenyek
+rendezése és táborok
+lebonyolítása
+kivett sporttelep 1802
+7.
+Daruszentmiklós
+Község
+Önkormányzata
+Daruszentmiklós 98
+615/3787
+csatornázás megoldása,
+a köztisztaság és
+településtisztaság
+biztosítása/szennyvíz-
+tisztító telep létesítése
+kivett beépítetlen
+terület
+
+8.
+Devecser Város
+Önkormányzata
+Devecser 669/1
+1/1
+helyi közutak és
+közterületek fenntartása/
+közterület fenntartása
+kivett közterület 3652
+9.
+Devecser Város
+Önkormányzata
+Devecser 669/3
+1/1
+helyi közutak és
+közterületek fenntartása/
+közterület fenntartása
+kivett közterület 3797
+
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+10.
+Devecser Város
+Önkormányzata
+Devecser 785/1
+1/1
+helyi közutak és
+közterületek fenntartása/
+közterület fenntartása
+kivett közterület 4348
+11.
+Devecser Város
+Önkormányzata
+Devecser 785/3
+1/1
+helyi közutak és
+közterületek fenntartása/
+közterület fenntartása
+kivett közterület 31
+12.
+Devecser Város
+Önkormányzata
+Devecser 785/4
+1/1
+helyi közutak és
+közterületek fenntartása/
+közterület fenntartása
+kivett közterület 606
+13.
+Devecser Város
+Önkormányzata
+Devecser 852/1
+1/1
+helyi közutak és
+közterületek fenntartása/
+közterület fenntartása
+kivett közterület 532
+14.
+Devecser Város
+Önkormányzata
+Devecser 852/3
+1/1
+helyi közutak és
+közterületek fenntartása/
+közterület fenntartása
+kivett közterület 3678
+15.
+Felsőpetény Község
+Önkormányzata
+Felsőpetény 0134
+1/1
+vízrendezés,
+vízelvezetés/ víztározó
+kialakítása, árvízcsúcs
+csökkentés
+kivett Pusztaszántói-
+patak
+
+16.
+Felsőpetény Község
+Önkormányzata
+Felsőpetény 0142
+1/1
+vízrendezés,
+vízelvezetés/ víztározó
+kialakítása, árvízcsúcs
+csökkentés
+kivett Pusztaszántói-
+patak
+
+17.
+Geresdlak Község
+Önkormányzata
+Geresdlak 69/9
+1/1
+közösségi tér biztosítás,
+egészséges életmód
+közösségi feltételeinek
+elősegítése, szabadidő
+és sporttevékenység
+biztosítása/ sporttelep
+kivett sporttelep 30192
+18.
+Hosszúhetény Község
+Önkormányzata
+Hosszúhetény 155/2
+1/1
+közösségi tér
+biztosítása,
+közművelődési
+feladatok ellátása,
+művészeti
+tevékenység/családi
+napközi kialakítása
+kivett gazdasági
+épület, udvar, út
+
+19.
+Hódmezővásárhely
+Megyei Jogú Város
+Önkormányzata
+Hódmezővásárhely
+12827/A/46
+1/1
+nemzeti és etnikai
+kisebbségek jogainak
+biztosítása/ kisebbségi
+önkormányzat
+elhelyezése
+kivett iroda 199
+20.
+Kalaznó Község
+Önkormányzata
+Kalaznó 183
+1/1
+lakásgazdálkodási
+feladatok/
+önkormányzati
+szükséglakás
+kivett lakóház, udvar 1379
+21.
+Kisszőlős Község
+Önkormányzata
+Kisszőlős 075/3
+1/1
+településfejlesztés, a
+sport támogatása és az
+egészséges életmód
+közösségi feltételeinek
+elősegítése/ sportpálya
+működtetése és
+rendezvénytér
+kialakítása
+kivett sporttelep 6150
+
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+22.
+Kiskunhalas Város
+Önkormányzata
+Komló 6167
+29946/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 9089
+Zsana Község
+Önkormányzata
+Komló 6167
+839/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 255
+Szank Község
+Önkormányzata
+Komló 6167
+2592/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 787
+Pirtó Község
+Önkormányzata
+Komló 6167
+1007/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 306
+Harkakötöny Község
+Önkormányzata
+Komló 6167
+900/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 273
+Csólyospálos Község
+Önkormányzata
+Komló 6167
+1723/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 523
+Csikéria Község
+Önkormányzata
+Komló 6167
+933/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 283
+Borota Község
+Önkormányzata
+Komló 6167
+1457/51278
+gyermek és ifjúsági
+feladatokról való
+gondoskodás
+/gyermekek
+táboroztatása
+kivett táborhely 442
+23.
+Lábatlan Város
+Önkormányzata
+Lábatlan 1543/12
+71/567
+szociális ellátás,
+gyermek és ifjúsági
+feladatokról való
+gondoskodás/Kuckó
+Gyermekjóléti és
+Családsegítő
+Szolgálaton belül
+működő Támogató
+Szolgálat részére iroda
+és adományok
+raktározására alkalmas
+helyiség kialakítása
+kivett szolgáltatóház 71
+
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+24.
+Litér Község
+Önkormányzata
+Litér 06
+1/1
+egészséges ivóvízellátás
+biztosítása/ vízmű
+működtetése,
+szolgáltatás fejlesztése
+kivett vízmű 739
+25.
+Litér Község
+Önkormányzata
+Litér 08
+1/1
+egészséges ivóvízellátás
+biztosítása/ vízmű
+működtetése,
+szolgáltatás fejlesztése
+kivett vízmű 1503
+26.
+Mátraszentimre
+Község
+Önkormányzata
+Mátraszentimre 1113/2
+1/1
+egészséges életmód
+közösségi feltételeinek
+biztosítása/egészségház
+kivet hétvégi ház,
+udvar
+
+27.
+Örményes Község
+Önkormányzata
+Örményes 02/2
+1/1
+településfejlesztés,
+településrendezés, helyi
+közutak és közterület
+fenntartása/ út
+szélesítése, szikkasztó
+árok kiépítése,
+közterület, közpark, piac
+kialakítása
+kivett telephely 10164
+28.
+Pápa Város
+Önkormányzata
+Pápa 6607
+1/1
+településfejlesztés,
+településrendezés, helyi
+közutak és közterületek
+fenntartása/út
+kialakítása
+kivett beépítetlen
+terület
+
+29.
+Sümegprága Község
+Önkormányzata
+Sümegprága 043/1
+1/1
+sport célkitűzései
+megvalósítása
+/sportlétesítmény
+működésének
+biztosítása, parkolás
+biztosítása
+kivett udvar 2800
+30.
+Szőce Község
+Önkormányzata
+Szőce 513/1
+1/1
+településfejlesztés,
+településrendezés, a
+közösségi tér
+biztosítása, egészséges
+életmód közösségi
+feltételeinek elősegítése
+/ szabadidő park
+kialakítása
+kivett beépítetlen
+terület
+
+31.
+Tarján Község
+Önkormányzata
+Tarján 946/8
+1/1
+településrendezés,
+vízrendezés és
+vízelvezetés, helyi közút
+fenntartása, terek és
+parkolók
+biztosítása/járda, helyi
+közút, közterület
+kivett közterület 1393
+32.
+Tarján Község
+Önkormányzata
+Tarján 946/10
+1/1
+településrendezés,
+vízrendezés és
+vízelvezetés, helyi közút
+fenntartása, terek és
+parkolók
+biztosítása/járda, helyi
+közút, közterület
+kivett közterület 2738
+
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+33.
+Tarján Község
+Önkormányzata
+Tarján 946/11
+1/1
+településrendezés,
+vízrendezés és
+vízelvezetés, helyi közút
+fenntartása, terek és
+parkolók
+biztosítása/járda, helyi
+közút, közterület
+kivett út 2933
+34.
+Tarján Község
+Önkormányzata
+Tarján 946/12
+1/1
+településrendezés,
+vízrendezés és
+vízelvezetés, helyi közút
+fenntartása, terek és
+parkolók
+biztosítása/járda, helyi
+közút, közterület
+kivett közterület 882
+35.
+Tiszacsege Város
+Önkormányzata
+Tiszacsege 2984
+1/1
+közösségi tér
+biztosítása,
+közművelődési,
+tudományos, művészeti
+tevékenység támogatása
+/közösségi események,
+rendezvények
+lebonyolítása
+kivett üdülőépület,
+udvar
+
+36.
+Tokod Nagyközség
+Önkormányzata
+Tokod 399
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartása
+kivett közterület 2499
+37.
+Tokod Nagyközség
+Önkormányzata
+Tokod 400
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett beépítetlen
+terület
+
+38.
+Tokod Nagyközség
+Önkormányzata
+Tokod 405
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 58
+39.
+Tokod Nagyközség
+Önkormányzata
+Tokod 406
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 253
+40.
+Tokod Nagyközség
+Önkormányzata
+Tokod 415
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 105
+
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+41.
+Tokod Nagyközség
+Önkormányzata
+Tokod 424
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 111
+42.
+Tokod Nagyközség
+Önkormányzata
+Tokod 433
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 111
+43.
+Tokod Nagyközség
+Önkormányzata
+Tokod 442
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 108
+44.
+Tokod Nagyközség
+Önkormányzata
+Tokod 460
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 416
+45.
+Tokod Nagyközség
+Önkormányzata
+Tokod 469
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 60
+46.
+Tokod Nagyközség
+Önkormányzata
+Tokod 481
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 425
+47.
+Tokod Nagyközség
+Önkormányzata
+Tokod 755/5
+1/1
+településrendezés,
+településfejlesztés, helyi
+közutak, közterületek
+fenntartása/infrastruktú-
+ra fejlesztés, közterület
+fenntartás
+kivett közterület 1098
+48.
+Ukk Község
+Önkormányzata
+Ukk 74/3
+1/1
+foglalkoztatás
+megoldása, épített és
+természeti környezet
+védelme/közcélú
+munkavállalók részére a
+munkavégzéshez
+szükséges eszközök
+tárolására alkalmas
+helyiség, műhely
+kialakítása,
+növénytermesztésre
+alkalmas kert
+létrehozása
+lakóház, udvar 3287
+
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+49.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/2
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+50.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/3
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+51.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/4
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+52.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/5
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+53.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/6
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+54.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/7
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+55.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/8
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+56.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/15
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+57.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/16
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+58.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/17
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+59.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/18
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+60.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/19
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+61.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/20
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+Ssz. Önkormányzat Ingatlan/tulajdoni hányad Segítendő feladat/cél
+Ingatlan-
+nyilvántartási
+megnevezés
+Terület
+(m2)
+62.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/21
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+63.
+Vecsés Város
+Önkormányzata
+Vecsés 4180/23
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+64.
+Vecsés Város
+Önkormányzata
+Vecsés 4183/2
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+65.
+Vecsés Város
+Önkormányzata
+Vecsés 4183/6
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+66.
+Vecsés Város
+Önkormányzata
+Vecsés 4183/7
+1/1
+településrendezés,
+településfejlesztés/
+vállalkozásfejlesztés,
+közpark kialakítása
+kivett beépítetlen
+terület
+
+2. melléklet az 1205/2013. (IV. 15.) Korm. határozathoz
+Ipari, közúti és más balesetek, katasztrófák esetén fennálló életmentési feladatok begyakorlására,
+továbbá polgári védelmi feladatok ellátására az Életjel Mentőkutyás Kutatóegység tulajdonába kerülő
+ingóságok jegyzéke
+Az ingóságok készletazonosítója (darabszám/pár)
+1. Üzemtechnikai szakanyagok:
+
+24798131250007(1); 24798158632001(1); 24798144110009(2); 24798133200001(1); 24798133500000(1);
+24798159685008(1); 24798131410000(1); 24798192140006(1); 24522111128906(5); 24522111127402(5);
+24522131735400(51); 24522131734303(50); 24522131733005(50); 24522197311100(50); 24798193050002(1);
+24521659100100(5); 24798193700000(2); 24798143556803(10)
+2. Fegyverzettechnikai szakanyag:
+ 10794221300005(1)
+3. Páncélos- és gépjárműtechnikai szakanyag:
+00453222131203(1)
+3. melléklet az 1205/2013. (IV. 15.) Korm. határozathoz
+Az otthontalanná vált emberek megsegítése céljából a Magyar Máltai Szeretetszolgálat tulajdonába
+kerülő ingóságok jegyzéke
+Az ingóságok készletazonosítója (darabszám/pár)
+Ruházati szakanyagok:
+00815666121103(3842); 00815666121103(1617); 00815666121103 (14541)
