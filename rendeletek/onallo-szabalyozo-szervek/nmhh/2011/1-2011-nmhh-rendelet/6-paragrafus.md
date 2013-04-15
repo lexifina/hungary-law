@@ -9,3 +9,7 @@
 (3) A rádió és televízió műsorszóró állomások frekvenciahasználati díját a 2. számú melléklet alapján kell megállapítani.
 
 (4) Ha a felhasználó megosztott használatú frekvenciát kapott, a frekvenciahasználati díj mértéke a (3) bekezdésben említett melléklet alapján megállapított díj 50%-a.
+
+(5)[^4] A jogosítottnak – az (1) bekezdésben foglaltaktól eltérően – nem kell egyszeri frekvencialekötési díjat fizetnie azon rádió és televízió műsorszóró állomásokhoz lekötött frekvenciák után, amelyeknél a frekvenciakijelölésre a hatóság által kezdeményezett frekvenciacsere alapján kerül sor.
+
+[^4]: A 6. § (5) bekezdését a 6/2013. (IV. 3.) NMHH rendelet 1. §-a iktatta be.

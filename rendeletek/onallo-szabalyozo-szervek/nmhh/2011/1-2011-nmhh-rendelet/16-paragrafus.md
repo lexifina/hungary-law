@@ -2,7 +2,7 @@
 
 ## valamint állomások frekvenciadíja
 
-16. §[^4] (1) Az egyszeri frekvencialekötési díj mértéke egy havi frekvenciahasználati díjjal egyenlő.
+16. §[^5] (1) Az egyszeri frekvencialekötési díj mértéke egy havi frekvenciahasználati díjjal egyenlő.
 
 (2) A frekvenciahasználati díjat állomásonként (berendezésenként, önálló frekvenciát lefoglaló melegtartalékonként) és frekvenciánként kell megállapítani, ide nem értve a passzív átjátszókat.
 
@@ -14,4 +14,4 @@
 
 (6) Az egyszerűsített rádióengedélyezési eljárásban engedélyezett állomások után fizetendő frekvenciahasználati díj 1000 Ft/állomás/hó.
 
-[^4]: A 16. § a 8/2011. (XI. 3.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 16. § a 8/2011. (XI. 3.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.

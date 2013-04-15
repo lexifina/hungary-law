@@ -1,4 +1,4 @@
-## 20/B. §[^11] A frekvenciadíjakról a hatóság köteles éves bontásban – más bevételeitől elkülönített – tételes nyilvántartást vezetni. A nyilvántartásnak tartalmaznia kell:
+## 20/B. §[^12] A frekvenciadíjakról a hatóság köteles éves bontásban – más bevételeitől elkülönített – tételes nyilvántartást vezetni. A nyilvántartásnak tartalmaznia kell:
 
 a) a frekvenciadíj fizetésére kötelezettek felsorolását,
 
@@ -8,4 +8,4 @@ c) a díj megfizetésének esedékességét, rendszeres fizetési kötelezettsé
 
 d) a díj beérkezésének tényét.
 
-[^11]: A 20/B. §-t a 8/2011. (XI. 3.) MNHH rendelet 1. § (7) bekezdése iktatta be.
+[^12]: A 20/B. §-t a 8/2011. (XI. 3.) MNHH rendelet 1. § (7) bekezdése iktatta be.
