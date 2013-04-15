@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-3-20-2X
 | 2013-03-20 | 2013-3-20-2X.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-03-21 | 2013-3-20-2X.3 | 2010: CXXX. törvény |
 | 2013-03-30 | 2013-3-20-2X.4 | 13/2013. (III. 29.) NGM rendelet |
+| 2013-04-15 | 2013-3-20-2X.5 | 13/2013. (III. 29.) NGM rendelet |

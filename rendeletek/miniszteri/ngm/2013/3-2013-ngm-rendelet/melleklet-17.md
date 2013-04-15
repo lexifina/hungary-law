@@ -94,7 +94,7 @@
 
 | VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ ***** ADÓMEMÓRIA ADATAI ***** ADÓMEMÓRIA AZONOSÍTÓSZÁMA: 123456789 INICIALIZÁLÁS KELTE: 2011. 01. 02. 08:00 ELLENŐRZŐ SZÁM: ADCD ÁFA KULCS: 2011.04.30. 25,00% TÓL: 2019. 12. 30. IG: 2020. 01. 04. Z 2282 ------------------2019.12.30 ---------------------------- NAPI FORGALOM(FT): 20 035 GÖNGY.FORGALOM (GT)(FT): 43 706 890 NAPI UTAS-KM 48 NAPI ÖSSZES KM 285 Z 2283 ---------------- 2019.12.31. --------------------------- NAPI FORGALOM(FT): 10 000 GÖNGY.FORGALOM (GT)(FT): 43 716 890 NAPI UTAS-KM 18 NAPI ÖSSZES KM 165 ======================================== IDŐSZAK ÖSSZESEN (FT): 30.035 GÖNGY. FORGALOM (GT) (FT): 243 716 890 ======================================== EURÓ ÜZEMMÓD BEÁLLÍTÁSA:2020. 01. 01. 00:00 Z 2284 ------------------2020. 01. 04 ------------------------- NAPI FORGALOM(€): 43,92 GÖNGY.FORGALOM (GT)(€): 43,92 NAPI UTAS-KM 35,2 NAPI ÖSSZES KM 62,2 ======================================== IDŐSZAK ÖSSZESEN (€): 43,92 GÖNGY. IDŐSZAKOS UTAS-KM 172,2 GÖNGY. IDŐSZAKOS ÖSSZES KM 638,2 GÖNGY. FORGALOM (GT) (€): 254,30 ======================================== ÖSSZES ZÁRÁS SZÁMA: 2298 RAM TÖRLÉSEK SZÁMA: 03 ELLENŐRZŐ SZÁM: D72A 2020. 02. 04 08:15 AP XXXXXXXXX |
 
-17. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^40]
+17. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^41]
 
 A központi kommunikációs egységgel kiszolgált AEE-rendszerek
 
@@ -182,4 +182,4 @@ a) az üzenet első eleme a „PTGSET~CCCCCCCCC” karaktersorozat, ahol CCCCCCC
 
 b) az üzenet további elemei minden, éppen csatlakozó pénztárgépre vonatkozóan a „~XXXXXXXXX” karaktersorozat, ahol „XXXXXXXXX” a pénztárgép AP számát jelöli.
 
-[^40]: A 17. melléklet a 13/2013. (III. 29.) NGM rendelet 14. § (4) bekezdése, a 15. § (15) bekezdése szerint módosított szöveg.
+[^41]: A 17. melléklet a 13/2013. (III. 29.) NGM rendelet 14. § (4) bekezdése, a 15. § (15) bekezdése szerint módosított szöveg.
