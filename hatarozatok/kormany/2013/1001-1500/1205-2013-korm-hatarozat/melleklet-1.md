@@ -36,13 +36,7 @@
 
 ## Határidő: 2013. július 31.
 
-## 9. A Kormány hozzájárul ahhoz, hogy az egyes állami vagyonba tartozó ingatlanok ingyenes önkormányzati tulajdonba adásáról szóló 1253/2012. (VII. 19.) Korm. határozat 1. mellékletében szereplő táblázat 17–19. soraiban meghatározott ingatlanok hasznosítási célja az alábbiak szerint módosításra kerüljön:
-
-| 17. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21927 1/1 | Oktatás biztosítása/Kecskemét Megyei Jogú Város Önkormányzatának közreműködésével működtetett oktatási, nevelési intézmények és az azokhoz kapcsolódó infrastruktúra fejlesztése |
-
-| 18. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21928 1/1 | Oktatás biztosítása/Kecskemét Megyei Jogú Város Önkormányzatának közreműködésével működtetett oktatási, nevelési intézmények és az azokhoz kapcsolódó infrastruktúra fejlesztése |
-
-| 19. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 21929 1/1 | Oktatás biztosítása/Kecskemét Megyei Jogú Város Önkormányzatának közreműködésével működtetett oktatási, nevelési intézmények és az azokhoz kapcsolódó infrastruktúra fejlesztése |
+## 9.[^1]
 
 ## 10. A Kormány – Kecskemét Megyei Jogú Város Önkormányzatának kezdeményezése alapján – felhívja az állami vagyon felügyeletéért felelős minisztert, hogy az MNV Zrt. útján gondoskodjon a Magyar Állam képviseletében eljáró MNV Zrt., Kecskemét Megyei Jogú Város Önkormányzata és a Kecskeméti Főiskola között 2012. november 30-án létrejött SZT-38301 számú megállapodás 9. pont szerinti módosításáról.
 
@@ -51,3 +45,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1205/2013. (IV. 15.) Korm. határozathoz
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
