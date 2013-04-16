@@ -64,4 +64,6 @@ a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüg
 
 Határidő: 2013. május 31.
 
-7. visszavonja a budapesti Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója programhoz kapcsolódó egyes feladatokról szóló 1482/2012. (XI. 6.) Korm. határozat 1–4., 7. és 9. pontját.
+7.[^2]
+
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
