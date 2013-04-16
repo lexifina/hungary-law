@@ -1,3 +1,0 @@
-## „6. § Az Ávt. 48/A. § (3) és (4) bekezdésében foglaltak tekintetében állatvédelmi hatóságként a befogás helye szerint illetékes települési, a fővárosban a kerületi önkormányzat jegyzője jár el.
-
-## 6/A. § A Kormány a kísérlet során felhasznált vagy ilyen felhasználásra szánt állat természetes élőhelyre vagy állatkertbe történő kihelyezésére irányuló engedélyezési eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek az akciótervben foglaltak szerint vagy további feltételek mellett megfelel-e – a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.”

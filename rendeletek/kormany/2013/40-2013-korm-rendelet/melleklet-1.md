@@ -1,4 +1,4 @@
-## 61. § Hatályát veszti az állatkísérletek végzéséről szóló 243/1998. (XII. 31.) Korm. rendelet.
+## 58–61. §[^1]
 
 1. melléklet a 40/2013. (II. 14.) Korm. rendelethez
 
@@ -39,3 +39,5 @@
 9. A kérelmező aláírása
 
 10. Felhívjuk a kérelmező figyelmét arra, hogy a 40/2013. (II. 14.) Korm. rendelet 16. § (3) bekezdése értelmében az engedélyt meg kell újítani a tenyésztő, beszállító vagy felhasználó valamely létesítményének szerkezetében vagy funkciójában bekövetkezett minden olyan jelentős változás esetén, amely az állatok jólétét hátrányosan érintheti, továbbá a 16. § (4) bekezdése értelmében az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot értesíteni kell a 4., 5., 6.2. és 6.3. pontban megnevezett személyekben beállt változásról, a változást követően 30 napon belül.
+
+[^1]: Az 58–61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

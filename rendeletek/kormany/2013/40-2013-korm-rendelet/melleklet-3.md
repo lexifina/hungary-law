@@ -162,7 +162,7 @@
 
 ## 5. Felhívjuk a kérelmező figyelmét arra, hogy a 40/2013. (II. 14.) Korm. rendelet 47. § (7) bekezdése értelmében a projektengedély módosítását vagy megújítását kell kérelmezni a projektben bekövetkező, az állatok jólétét esetlegesen hátrányosan érintő bármely változás esetén.
 
-3. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^1]
+3. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^2]
 
 ## A létesítményekre, valamint az állatok gondozására és elhelyezésére vonatkozó követelmények, a követelmények állatfajok szerinti lebontása
 
@@ -230,4 +230,4 @@ Makákók (*)
 
 11.
 
-[^1]: A 3. melléklet 1–5. és 7–11. pontja az 52. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^2]: A 3. melléklet 1–5. és 7–11. pontja az 52. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
