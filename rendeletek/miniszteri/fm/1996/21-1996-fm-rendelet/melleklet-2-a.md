@@ -6,6 +6,6 @@
 
 | A tartás helye | darabszáma | faja |
 
-2/a. számú melléklet a 21/1996. (VII. 9.) FM rendelethez[^18]
+2/a. számú melléklet a 21/1996. (VII. 9.) FM rendelethez[^21]
 
-[^18]: A 2/a. mellékletet a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.
+[^21]: A 2/a. mellékletet a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.

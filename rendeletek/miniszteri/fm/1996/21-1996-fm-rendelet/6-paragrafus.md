@@ -2,6 +2,6 @@
 
 (2) Marhalevél-másodlat kiállítását kell kérni, ha a korábban kiállított marhalevélen további kezelési intézkedésre már nem áll rendelkezésre hely.
 
-(3)[^12]
+(3)[^13]
 
-[^12]: A 6. § (3) bekezdését a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.
+[^13]: A 6. § (3) bekezdését a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.

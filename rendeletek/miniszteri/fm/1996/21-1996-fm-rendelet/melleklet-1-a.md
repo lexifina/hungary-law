@@ -62,6 +62,6 @@
 
 | ― 2 ― |  |  | ― 3 ― |
 
-1/a. számú melléklet a 21/1996. (VII. 9.) FM rendelethez[^17]
+1/a. számú melléklet a 21/1996. (VII. 9.) FM rendelethez[^20]
 
-[^17]: Az 1/a. mellékletet a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.
+[^20]: Az 1/a. mellékletet a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.

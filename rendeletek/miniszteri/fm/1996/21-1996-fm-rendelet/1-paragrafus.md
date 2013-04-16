@@ -14,10 +14,10 @@ c) külföldi marhalevél: amelyet más országban állítottak ki, és igazolja
 
 d)[^1]
 
-e)[^2] Lóútlevél-marhalevél: melyet külön jogszabály alapján az Egységes Nyilvántartási és Azonosítási Rendszer szerint megjelölt lovakról, egyedileg az arra jogosult állít ki. E marhalevélen történik az egyed forgalomképességének igazolása.
+e)[^2]
 
-(5)[^3] A belföldi marhalevél-nyomtatványt – a (4) bekezdés e) pontjában leírt Lóútlevél kivételével – térítés ellenében a települési önkormányzat jegyzője, a fővárosban a kerületi önkormányzat jegyzője (a továbbiakban: jegyző) rendeli meg.
+(5)[^3] A belföldi marhalevél-nyomtatványt térítés ellenében a települési önkormányzat jegyzője, a fővárosban a kerületi önkormányzat jegyzője (a továbbiakban: jegyző) rendeli meg.
 
 [^1]: Az 1. § (4) bekezdésének d) pontját a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.
-[^2]: Az 1. § (4) bekezdésének e) pontját a 64/2003. (VI. 16.) FVM rendelet 10. §-a (2) bekezdésének a) pontja iktatta a szövegbe.
-[^3]: Az 1. § (5) bekezdése a 64/2003. (VI. 16.) FVM rendelet 10. §-a (2) bekezdésének b) pontjával megállapított szöveg.
+[^2]: Az 1. § (4) bekezdés e) pontját a 64/2003. (VI. 16.) FVM rendelet 10. § (2) bekezdés a) pontja iktatta be, hatályon kívül helyezte a 110/2013. (IV. 9.) Korm. rendelet 15. § (6) bekezdés b) pont ba) alpontja.
+[^3]: Az 1. § (5) bekezdése a 64/2003. (VI. 16.) FVM rendelet 10. § (2) bekezdés b) pontjával megállapított, a 110/2013. (IV. 9.) Korm. rendelet 15. § (6) bekezdés b) pont bb) alpontja szerint módosított szöveg.

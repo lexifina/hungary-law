@@ -1,5 +1,5 @@
 15. § (1) A 3. §-ban meghatározott marhalevél-kezelést és a 13. § szerinti pótlást az állattartó a jegyzőtől kérheti.
 
-(2)[^15]
+(2)[^18]
 
-[^15]: A 15. § (2) bekezdését a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.
+[^18]: A 15. § (2) bekezdését a 99/2002. (XI. 5.) FVM rendelet 43. §-ának a) pontja hatályon kívül helyezte.
