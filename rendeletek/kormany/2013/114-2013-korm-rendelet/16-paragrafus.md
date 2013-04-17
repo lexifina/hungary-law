@@ -1,0 +1,1 @@
+## 15. § A Magyar Értéktárban a 13. § (1) bekezdése szerint nyilvántartott nemzeti értékek adatait a HB a nyilvántartásba vételt követő 8 napon belül a Htv. 17. § (1) bekezdés e) pontja szerinti honlapon közzéteszi.
