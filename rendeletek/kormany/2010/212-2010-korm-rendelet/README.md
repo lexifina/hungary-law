@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2013-03-01 | 2010-212-20-22.43 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2013-03-30 | 2010-212-20-22.44 | 93/2013. (III. 29.) Korm. rendelet |
 | 2013-04-13 | 2010-212-20-22.45 | 107/2013. (IV. 5.) Korm. rendelet |
+| 2013-04-17 | 2010-212-20-22.46 | 114/2013. (IV. 16.) Korm. rendelet |
