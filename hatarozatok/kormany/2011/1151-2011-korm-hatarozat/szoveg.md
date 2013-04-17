@@ -30,9 +30,9 @@ Határidő: Magyar Alkotóművészeti Közhasznú Nonprofit Kft. megalapításá
 
 5. A Kormány a megszűnt Közalapítvány feladatainak hatékonyabb ellátása érdekében felhívja
 
-a) a nemzeti erőforrás minisztert és az állami vagyon felügyeletéért felelős minisztert, hogy gondoskodjanak arról, hogy a Közalapítványnak a Képcsarnok Kft.-ben meglévő tulajdonosi részesedése a Közalapítvány megszüntetését követően az MNV Zrt.-hez kerüljön azzal, hogy a tulajdonosi joggyakorlás módjáról az MNV Zrt. vagyonkezelési megállapodást köt a nemzeti erőforrás miniszterrel;
+a)[^2] a nemzeti erőforrás minisztert és az állami vagyon felügyeletéért felelős minisztert, hogy gondoskodjanak arról, hogy a Közalapítványnak a Képcsarnok Kft.-ben meglévő tulajdonosi részesedése a Közalapítvány megszüntetését követően az MNV Zrt.-hez kerüljön;
 
-b) a nemzeti erőforrás minisztert, az állami vagyon felügyeletéért felelős minisztert, valamint a közigazgatási és igazságügyi minisztert, hogy gondoskodjanak arról, hogy a Közalapítványnak az Akadémiai Nyomda Kft.-ben meglévő tulajdonosi részesedése a Közalapítvány megszüntetését követően az MNV Zrt.-hez kerüljön azzal, hogy a tulajdonosi joggyakorlás módjáról az MNV Zrt. vagyonkezelési megállapodást köt a közigazgatási és igazságügyi miniszterrel;
+b)[^3] a nemzeti erőforrás minisztert, az állami vagyon felügyeletéért felelős minisztert, valamint a közigazgatási és igazságügyi minisztert, hogy gondoskodjanak arról, hogy a Közalapítványnak az Akadémiai Nyomda Kft.-ben meglévő tulajdonosi részesedése a Közalapítvány megszüntetését követően az MNV Zrt.-hez kerüljön;
 
 c) a nemzeti erőforrás minisztert, hogy gondoskodjon arról, hogy a Közalapítvány 4. pontban, valamint 5. pont a) és b) alpontban nem említett feladatait a Közalapítvány megszüntetését követően a Magyar Alkotóművészeti Közhasznú Nonprofit Kft. lássa el, akként, hogy a megszűnt Közalapítvány céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen. A Közalapítvány hitelezők kielégítése után fennmaradt vagyonát – ideértve a vagyoni értékű jogokat is, kivéve a 4. pont szerinti feladat ellátásához szükséges vagyonelemeket, valamint a Közalapítványnak az Akadémiai Nyomda Kft.-ben, valamint a Képcsarnok Kft.-ben meglévő tulajdonosi részesedését – a Kormány a Magyar Alkotóművészeti Közhasznú Nonprofit Kft. támogatására fordítja, amely vagyont a Magyar Alkotóművészeti Közhasznú Nonprofit Kft. egyéb bevételként számolja el. A Magyar Alkotóművészeti Közhasznú Nonprofit Kft. vagyonává váló volt közalapítványi vagyon kizárólag a megszűnt Közalapítvány célja szerinti tevékenységre fordítható, és a társaság megszűnése esetén is csak e céloknak megfelelően használható fel;
 
@@ -62,9 +62,11 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-8.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
+8.[^4] Ez a határozat a közzétételét követő napon lép hatályba,
 
-a)–c)[^2]
+a)–c)[^5]
 
-[^1]: A 8. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
-[^2]: A 8. pont a)–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a) pontja az 1216/2013. (IV. 16.) Korm. határozat 1. pont a) pontja szerint módosított szöveg.
+[^3]: Az 5. pont b) pontja az 1216/2013. (IV. 16.) Korm. határozat 1. pont b) pontja szerint módosított szöveg.
+[^4]: A 8. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^5]: A 8. pont a)–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
