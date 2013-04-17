@@ -10,22 +10,6 @@
 
 (5) Ez a rendelet a 90/426/EGK és a 90/427/EGK tanácsi irányelvnek a lófélék azonosítási módszereinek tekintetében történő végrehajtásáról szóló, 2008. június 6-i 504/2008/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(6) Hatályát veszti
+(6)[^1]
 
-a) a 29/2000. (VI. 9.) FVM rendelet, valamint
-
-b) a marhalevél kiváltásáról és kezeléséről szóló 21/1996. (VII. 9.) FM rendelet
-
-ba) 1. § (4) bekezdés e) pontja,
-
-bb) 1. § (5) bekezdésében az „- a (4) bekezdés e) pontjában leírt Lóútlevél kivételével –” szövegrész,
-
-bc) 2. §-ában az „- az 1. § (4) bekezdés e) pontjában leírt Lóútlevéllel ellátott ló kivételével –” szövegrész,
-
-bd) 2. § a) és c) pontja,
-
-be) 3. §-ában az „- az 1. § (4) bekezdés e) pontjában leírt Lóútlevéllel ellátott ló kivételével –” szövegrész,
-
-bf) 7. § (2) bekezdése,
-
-bg) 14. § (1) bekezdésében a „ló esetében hat hónapos korban tartós megjelölés” szövegrész.
+[^1]: A 15. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
