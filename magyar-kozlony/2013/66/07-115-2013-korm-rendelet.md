@@ -1,0 +1,44 @@
+# A Kormány 115/2013. (IV. 18.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 66. szám, 2013. április 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c6cb17be1816fb0baaebeab01dc13679d5713272/dokumentumok/6d95edc013b5876016b9f64e42303322fdfd6dc5/letoltes)
+
+---
+
+A Kormány 115/2013. (IV. 18.) Korm. rendelete
+a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális
+Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló
+4/2011. (I. 28.) Korm. rendelet módosításáról
+1. §
+(1) A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból
+és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet
+(a továbbiakban: Rendelet) 33. § (8) bekezdése e) pontja helyébe a következő rendelkezés lép:
+(Nem köteles biztosítékot nyújtani)
+„e) az állami többségű tulajdonban lévő gazdasági társaság, ha a támogatásból létrejövő vagyon ingyenesen
+az állam vagy az önkormányzat kizárólagos tulajdonába kerül vagy – az 1083/2006/EK tanácsi rendelet 57. cikk
+(1) bekezdésében foglalt, a projekt fenntartására vonatkozó időszaknak megfelelő tartalmú elidegenítési és terhelési
+tilalom kikötése mellett – vasúti pályahálózat működtetője, vagy közszolgáltatást ellátó gazdasági társaság kizárólagos
+tulajdonába kerül.”
+
+(2) A Rendelet 33. § (8) bekezdése az alábbi h) ponttal egészül ki:
+(Nem köteles biztosítékot nyújtani)
+„h) A Nemzeti Fejlesztési Kormánybizottság egyedi döntése alapján az állam vagy helyi önkormányzat többségi
+tulajdonában lévő gazdasági társaság, ha a támogatást a nemzeti vagyon fejlesztésére fordítja,”
+2. §
+ A rendelet 122. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A 122. § (3) bekezdésétől eltérően, a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési
+Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló
+4/2011. (I. 28.) Korm. rendelet módosításáról szóló 115/2013. (IV. 18.) Korm. rendelettel megállapított
+a) a 33. § (8) bekezdés e) pontját az e rendelet hatálybalépését megelőzően meghirdetett felhívásokra benyújtott
+azon projektekre is alkalmazni kell, amelyek esetében a támogatási szerződés megkötésére 2012. június 1. napját
+követően került sor,
+b) 33. § (8) bekezdés h) pontját az e rendelet hatálybalépését megelőzően meghirdetett felhívások tekintetében is
+alkalmazni kell.”
+3. §
+ Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+Orbán Viktor s. k.,
+
+miniszterelnök
+
+V.
+A Kormány tagjainak rendeletei
