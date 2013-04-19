@@ -12,6 +12,6 @@
 
 (7) A lebonyolításban érintett szervezet az engedményezésekről naprakész nyilvántartást vezet.
 
-(8)[^154] Az NFÜ a (2) bekezdés szerinti százalékos és összegszerű korláttól a kedvezményezett javára eltérhet.
+(8)[^156] Az NFÜ a (2) bekezdés szerinti százalékos és összegszerű korláttól a kedvezményezett javára eltérhet.
 
-[^154]: Az 56. § (8) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 18. §-a iktatta be.
+[^156]: Az 56. § (8) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 18. §-a iktatta be.

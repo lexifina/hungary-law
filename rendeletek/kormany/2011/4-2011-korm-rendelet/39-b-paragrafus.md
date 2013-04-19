@@ -1,6 +1,6 @@
-## 39/A. §[^139] A támogatást igénylő, illetve a kedvezményezett a szerződés-módosítást, valamint a szerződés-módosítást alátámasztó valamennyi dokumentumot a szerződés-módosítást követő 7 napon belül utóellenőrzés céljából megküldi a közreműködő szervezet részére. A közreműködő szervezet a dokumentumok beérkezését követő 15 napon belül elvégzi a közbeszerzési-jogi és elszámolhatósági szempontú ellenőrzést.
+## 39/A. §[^141] A támogatást igénylő, illetve a kedvezményezett a szerződés-módosítást, valamint a szerződés-módosítást alátámasztó valamennyi dokumentumot a szerződés-módosítást követő 7 napon belül utóellenőrzés céljából megküldi a közreműködő szervezet részére. A közreműködő szervezet a dokumentumok beérkezését követő 15 napon belül elvégzi a közbeszerzési-jogi és elszámolhatósági szempontú ellenőrzést.
 
-39/B. §[^140] (1) A támogatást igénylő, illetve a kedvezményezett a közbeszerzési eljárás megindítását megelőzően legalább 40 nappal a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontú minőségellenőrzés céljából a közreműködő szervezetnél nyújtja be.
+39/B. §[^142] (1) A támogatást igénylő, illetve a kedvezményezett a közbeszerzési eljárás megindítását megelőzően legalább 40 nappal a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontú minőségellenőrzés céljából a közreműködő szervezetnél nyújtja be.
 
 (2) A közreműködő szervezet a közbeszerzési dokumentumok beérkezésétől számított 7 napon belül megküldi a támogathatósági, elszámolhatósági, valamint műszaki szempontú észrevételeit a támogatást igénylő, illetve a kedvezményezett részére.
 
@@ -10,5 +10,5 @@
 
 (5) A támogatást igénylő, illetve a kedvezményezett a (4) bekezdés szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi az EMIR-en keresztül a közbeszerzési dokumentumok NFÜ általi ellenőrzését. A támogatást igénylő, illetve a kedvezményezett az EMIR-ben nem rögzített közbeszerzési dokumentumokat haladéktalanul továbbítja az NFÜ részére.
 
-[^139]: A 39/A. §-t a 25/2012. (II. 29.) Korm. rendelet 28. §-a iktatta be.
-[^140]: A 39/B. §-t a 25/2012. (II. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 176/2012. (VII. 26.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^141]: A 39/A. §-t a 25/2012. (II. 29.) Korm. rendelet 28. §-a iktatta be.
+[^142]: A 39/B. §-t a 25/2012. (II. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 176/2012. (VII. 26.) Korm. rendelet 12. §-ával megállapított szöveg.

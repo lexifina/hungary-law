@@ -34,19 +34,21 @@ c)[^118] a helyi önkormányzat, a kisebbségi önkormányzat, , az önkormányz
 
 d) a vízgazdálkodási társulat, ha a támogatást teljes egészében az általa üzemeltetett önkormányzati vagy állami tulajdonú vizek és vízi létesítmények fejlesztésére használja fel,
 
-e) az NFÜ döntése alapján az állami többségű tulajdonban lévő gazdasági társaság, ha a támogatásból létrejövő vagyon ingyenesen az állam vagy az önkormányzat kizárólagos tulajdonába kerül vagy az 1083/2006/EK tanácsi rendelet 57. cikk (1) bekezdésében foglalt, a projekt fenntartására vonatkozó időszaknak megfelelő tartalmú elidegenítési és terhelési tilalom kikötése mellett – vasúti pályahálózat működtetője, illetve közszolgáltatást ellátó gazdasági társaság kizárólagos tulajdonába kerül,
+e)[^119] az állami többségű tulajdonban lévő gazdasági társaság, ha a támogatásból létrejövő vagyon ingyenesen az állam vagy az önkormányzat kizárólagos tulajdonába kerül vagy – az 1083/2006/EK tanácsi rendelet 57. cikk (1) bekezdésében foglalt, a projekt fenntartására vonatkozó időszaknak megfelelő tartalmú elidegenítési és terhelési tilalom kikötése mellett – vasúti pályahálózat működtetője, vagy közszolgáltatást ellátó gazdasági társaság kizárólagos tulajdonába kerül.
 
 f) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685/B. §-ában meghatározott többségi önkormányzati befolyás alatt álló gazdasági társaság, amely a támogatást tömegközlekedési tárgyú kiemelt projekt vagy nagyprojekt megvalósításához kapja, és a támogatásból létrejövő vagyon ingyenesen az önkormányzat vagy a többségi önkormányzati befolyás alatt álló gazdasági társaság kizárólagos tulajdonába kerül,
 
 g) bármely kedvezményezett, ha a projektre megítélt támogatás összege nem haladja meg a húszmillió forintot, vagy ha a projektet több kedvezményezett valósítja meg, és a ráeső megítélt támogatás összege nem haladja meg a húszmillió forintot,
 
-h)–i)[^119]
+h)[^120] A Nemzeti Fejlesztési Kormánybizottság egyedi döntése alapján az állam vagy helyi önkormányzat többségi tulajdonában lévő gazdasági társaság, ha a támogatást a nemzeti vagyon fejlesztésére fordítja,
+
+i)[^121]
 
 j) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifizetését a projekt megvalósítását követően, egy összegben kérelmezi
 
 k) társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében.
 
-(9)[^120] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
+(9)[^122] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
 a) nem beruházási célú, vagy
 
@@ -56,5 +58,7 @@ b) kutatás-fejlesztésre vagy innovációra irányul.
 [^116]: A 33. § (3) bekezdése a 25/2012. (II. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^117]: A 33. § (8) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 12. pontja szerint módosított szöveg.
 [^118]: A 33. § (8) bekezdés c) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^119]: A 33. § (8) bekezdés h)–i) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte.
-[^120]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^119]: A 33. § (8) bekezdés e) pontja a 115/2013. (IV. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^120]: A 33. § (8) bekezdés h) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte, újonnan a 115/2013. (IV. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^121]: A 33. § (8) bekezdés i) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte.
+[^122]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.

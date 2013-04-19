@@ -1,4 +1,4 @@
-## 43. §[^148] A támogatást igénylő, illetve a kedvezményezett részére támogatás csak az NFÜ támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a közreműködő szervezet 39/B. § (4) bekezdése szerinti támogató nyilatkozatának a megléte esetén folyósítható.
+## 43. §[^150] A támogatást igénylő, illetve a kedvezményezett részére támogatás csak az NFÜ támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a közreműködő szervezet 39/B. § (4) bekezdése szerinti támogató nyilatkozatának a megléte esetén folyósítható.
 
 44. § (1) A támogatást igénylő, illetve a kedvezményezett a közösségi értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárás, továbbá építési beruházás, építési koncesszió esetén a háromszázmillió forintot elérő vagy meghaladó értékű közbeszerzési eljárás alapján megkötött szerződés módosításával kapcsolatban – a módosítást 30 nappal megelőzően – az NFÜ írásbeli véleményét kéri. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot, a közreműködő szervezetnek a módosítással kapcsolatos előzetes jogi álláspontját, valamint a módosítás műszaki-szakmai szempontú indokoltságára vonatkozó nyilatkozatát tartalmazó dokumentumot az NFÜ részére egyidejűleg megküldi. Az NFÜ a szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
 
@@ -12,7 +12,7 @@
 
 (6) A támogatást igénylő, illetve a kedvezményezett a módosított szerződést az (5) bekezdés szerinti tájékoztatás kézhezvételét követő 5 napon belül megküldi az NFÜ részére. Az NFÜ egyet nem értése esetén dönt a szabálytalansági eljárás lefolytatásáról, illetve jogorvoslati eljárás kezdeményezéséről.
 
-(7)[^149] A támogatást igénylő, illetve a kedvezményezett részére támogatás csak az NFÜ szerződés-módosításra vonatkozó támogató tartalmú véleménye megléte esetén folyósítható.
+(7)[^151] A támogatást igénylő, illetve a kedvezményezett részére támogatás csak az NFÜ szerződés-módosításra vonatkozó támogató tartalmú véleménye megléte esetén folyósítható.
 
-[^148]: A 43. § a 25/2012. (II. 29.) Korm. rendelet 32. §-ával megállapított, a 176/2012. (VII. 26.) Korm. rendelet 29. § 11. pontja szerint módosított szöveg.
-[^149]: A 44. § (7) bekezdése a 25/2012. (II. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^150]: A 43. § a 25/2012. (II. 29.) Korm. rendelet 32. §-ával megállapított, a 176/2012. (VII. 26.) Korm. rendelet 29. § 11. pontja szerint módosított szöveg.
+[^151]: A 44. § (7) bekezdése a 25/2012. (II. 29.) Korm. rendelet 33. §-ával megállapított szöveg.

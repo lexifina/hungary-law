@@ -26,7 +26,7 @@ i) a forráskezelő szervezet cégszerű aláírását.
 
 (5) A pénzforgalmi lebonyolítási számláról kifizetést az NFÜ kezdeményezhet, ha a megelőző eljárási cselekmények megtörténtek, továbbá a lehívási értesítésben kapott adatokat az NFÜ rögzítette az EMIR-ben.
 
-(6)[^176] Az alapkezelő szervezet az NFÜ által elfogadott programra jóváhagyott összegből a programfinanszírozási és végrehajtási szerződés forrásigényének megfelelő összeget lehívhatja az NFÜ-nek címzett lehívási értesítés, valamint a lehívási értesítéshez csatolt, a programfinanszírozási és végrehajtási szerződésben meghatározott mellékletek átadásával. Az alapkezelő szervezet a lehívási értesítéseket folyamatos sorszámmal látja el. A lehívási értesítésnek tartalmaznia kell legalább
+(6)[^178] Az alapkezelő szervezet az NFÜ által elfogadott programra jóváhagyott összegből a programfinanszírozási és végrehajtási szerződés forrásigényének megfelelő összeget lehívhatja az NFÜ-nek címzett lehívási értesítés, valamint a lehívási értesítéshez csatolt, a programfinanszírozási és végrehajtási szerződésben meghatározott mellékletek átadásával. Az alapkezelő szervezet a lehívási értesítéseket folyamatos sorszámmal látja el. A lehívási értesítésnek tartalmaznia kell legalább
 
 a) a lehívási értesítés megnevezést,
 
@@ -46,10 +46,10 @@ h) a lehívási értesítés keltezését, és
 
 i) az alapkezelő szervezet cégszerű aláírását.
 
-(7)[^177] A közreműködő szervezet a forrást a szabályszerű lehívási értesítés beérkezésétől számított 15 napon belül utalja át az alapkezelő szervezet bankszámlájára.
+(7)[^179] A közreműködő szervezet a forrást a szabályszerű lehívási értesítés beérkezésétől számított 15 napon belül utalja át az alapkezelő szervezet bankszámlájára.
 
-(8)[^178] Ha a megvalósítás nyomon követése, illetve folyamatba épített ellenőrzése során szabálytalanság gyanúja merül fel az alapkezelő szervezet vonatkozásában, az NFÜ a forrás kifizetését felfüggesztheti.
+(8)[^180] Ha a megvalósítás nyomon követése, illetve folyamatba épített ellenőrzése során szabálytalanság gyanúja merül fel az alapkezelő szervezet vonatkozásában, az NFÜ a forrás kifizetését felfüggesztheti.
 
-[^176]: A 65. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.
-[^177]: A 65. § (7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.
-[^178]: A 65. § (8) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.
+[^178]: A 65. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.
+[^179]: A 65. § (7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.
+[^180]: A 65. § (8) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.

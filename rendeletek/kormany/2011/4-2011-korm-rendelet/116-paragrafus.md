@@ -6,13 +6,13 @@
 
 a) a technikai segítségnyújtás projekjeit az akciótervekben nevesíteni,
 
-b)[^221]
+b)[^223]
 
 c) a fenntartásra vonatkozó rendelkezéseket alkalmazni,
 
-d)[^222] a pályázati felhívásra vonatkozó rendelkezéseket alkalmazni,
+d)[^224] a pályázati felhívásra vonatkozó rendelkezéseket alkalmazni,
 
-e)[^223] szállítói finanszírozást tartalmazó kifizetési igényléssel együttesen időszakos vagy záró beszámolót benyújtani.
+e)[^225] szállítói finanszírozást tartalmazó kifizetési igényléssel együttesen időszakos vagy záró beszámolót benyújtani.
 
 (3) Az NFÜ tervezési felhívásban tájékoztatja a lehetséges kedvezményezetteket a támogatás igénylésének feltételeiről. A tervezési felhívásban az NFÜ a biztosítéknyújtási kötelezettséget írhat elő, ennek hiányában a kedvezményezett biztosítékot nem köteles nyújtani.
 
@@ -24,6 +24,6 @@ e)[^223] szállítói finanszírozást tartalmazó kifizetési igényléssel egy
 
 (7) Az NFÜ a technikai segítségnyújtás forrásainak felhasználására vonatkozóan részletes eljárásrendet dolgoz ki.
 
-[^221]: A 116. § (2) bekezdés b) pontját a 176/2012. (VII. 26.) Korm. rendelet 30. § 5. pontja hatályon kívül helyezte.
-[^222]: A 116. § (2) bekezdés d) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.
-[^223]: A 116. § (2) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.
+[^223]: A 116. § (2) bekezdés b) pontját a 176/2012. (VII. 26.) Korm. rendelet 30. § 5. pontja hatályon kívül helyezte.
+[^224]: A 116. § (2) bekezdés d) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.
+[^225]: A 116. § (2) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 121/A. §[^233] A MAG – Magyar Gazdaságfejlesztési Központ Zrt. kizárólagos joggal végzi el a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásához kapcsolódó, az NFÜ és a MAG – Magyar Gazdaságfejlesztési Központ Zrt. közötti külön megállapodásban meghatározott dokumentumok digitalizálását és dokumentumkezelését.
+## 121/A. §[^235] A MAG – Magyar Gazdaságfejlesztési Központ Zrt. kizárólagos joggal végzi el a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásához kapcsolódó, az NFÜ és a MAG – Magyar Gazdaságfejlesztési Központ Zrt. közötti külön megállapodásban meghatározott dokumentumok digitalizálását és dokumentumkezelését.
 
 ## IX. Fejezet
 
@@ -14,12 +14,19 @@
 
 (4) A 34. alcímet a 2011. március 1-jén és az azt megelőzően meghirdetett felhívások, a 23. alcímet és a 33. alcímet a 2011. március 1-jét követően megindított közbeszerzési ellenőrzések és benyújtott kifogások tekintetében is alkalmazni kell.
 
-(5)[^234] E rendeletnek a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosításáról szóló 25/2012. (II. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépése[^235] idején folyamatban lévő ügyekben is alkalmazni kell.
+(5)[^236] E rendeletnek a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosításáról szóló 25/2012. (II. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépése[^237] idején folyamatban lévő ügyekben is alkalmazni kell.
 
-(6)[^236] E rendeletnek a Módr.2-vel megállapított rendelkezéseit a Módr.2 hatálybalépése[^237] idején folyamatban lévő ügyekben is alkalmazni kell.
+(6)[^238] E rendeletnek a Módr.2-vel megállapított rendelkezéseit a Módr.2 hatálybalépése[^239] idején folyamatban lévő ügyekben is alkalmazni kell.
 
-[^233]: A 121/A. §-t a 25/2012. (II. 29.) Korm. rendelet 56. §-a iktatta be.
-[^234]: A 122. § (5) bekezdését a 153/2011. (VIII. 10.) Korm. rendelet 5. §-a iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 57. §-ával megállapított szöveg.
-[^235]: A hatálybalépés napja: 2012. március 1.
-[^236]: A 122. § (6) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 27. §-a iktatta be.
-[^237]: A hatálybalépés napja 2012. július 29.
+(7)[^240] A 122. § (3) bekezdésétől eltérően, a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosításáról szóló 115/2013. (IV. 18.) Korm. rendelettel megállapított
+
+a) a 33. § (8) bekezdés e) pontját az e rendelet hatálybalépését megelőzően meghirdetett felhívásokra benyújtott azon projektekre is alkalmazni kell, amelyek esetében a támogatási szerződés megkötésére 2012. június 1. napját követően került sor,
+
+b) 33. § (8) bekezdés h) pontját az e rendelet hatálybalépését megelőzően meghirdetett felhívások tekintetében is alkalmazni kell.
+
+[^235]: A 121/A. §-t a 25/2012. (II. 29.) Korm. rendelet 56. §-a iktatta be.
+[^236]: A 122. § (5) bekezdését a 153/2011. (VIII. 10.) Korm. rendelet 5. §-a iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^237]: A hatálybalépés napja: 2012. március 1.
+[^238]: A 122. § (6) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 27. §-a iktatta be.
+[^239]: A hatálybalépés napja 2012. július 29.
+[^240]: A 122. § (7) bekezdését a 115/2013. (IV. 18.) Korm. rendelet 2. §-a iktatta be.
