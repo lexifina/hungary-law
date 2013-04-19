@@ -28,7 +28,7 @@ d) megsérti a 18. § (2) bekezdés rendelkezéseit;
 
 e) a hivatásos szolgálatra méltatlanná vált, mert olyan cselekményt követett el, amely a fegyveres szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a fegyveres szerv a szolgálati viszonyát fenntartsa,
 
-f) a rendelkezési állomány megszűnésekor részére a 44. § (3) bekezdés szerinti beosztás nem biztosítható.
+f) a 44. § (3a) vagy (4) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő beosztás nem biztosítható.
 
 (3)
 

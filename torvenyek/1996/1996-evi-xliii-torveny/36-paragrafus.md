@@ -11,3 +11,9 @@
 (3) Jogszabályban meghatározott rész munkáltatói jogokat az állományilletékes parancsnok alárendeltségébe tartozó parancsnok, kiemelt munkáltatói jogokat a törvény 2. számú melléklete alapján az országos parancsnok, a bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv vezetője, valamint a miniszter gyakorol.
 
 (4) Tábornok szolgálati viszonyának létesítéséről, megszüntetéséről, hivatásos állományba visszavételéről, tábornoki rendfokozatba történő kinevezéséről, előléptetéséről, valamint a tábornokra vonatkozó rendfokozatot vagy szolgálati viszonyt érintő fegyelmi fenyítés kiszabásáról a miniszter javaslatára a köztársasági elnök dönt.
+
+(5) A miniszternek a tábornok szolgálati viszonyának megszüntetésére, valamint a tábornokra vonatkozó rendfokozatot vagy szolgálati viszonyt érintő fegyelmi fenyítés kiszabására vonatkozó előterjesztését haladéktalanul közölni kell a tábornokkal.
+
+(6) A tábornok az előterjesztéssel szemben a kézbesítéstől számított 30 napos jogvesztő határidőn belül bírósághoz fordulhat, amelyet a miniszternek köteles írásban jelenteni.
+
+(7) A kereset jogerős elbírálásáig az előterjesztés nem terjeszthető a köztársasági elnök elé.

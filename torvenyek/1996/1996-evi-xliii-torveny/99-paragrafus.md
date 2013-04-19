@@ -8,7 +8,7 @@
 
 (3) Az illetmény megállapítása a hivatásos állományba történő kinevezés, illetve más beosztásba történő kinevezés (megbízás) alkalmával meghatározott besorolás alapján történik.
 
-(4) Az illetmény illetménypótlékok nélküli együttes összege nem lehet kevesebb a külön jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum összegénél.
+(4) Az illetmény illetménypótlékok nélküli együttes összege nem lehet kevesebb a külön jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum összegénél. E rendelkezést nem kell alkalmazni a hivatásos állomány pályakezdő tagjaira, a részszakképesítés megszerzéséig.
 
 (5) Az 1 órára járó illetmény meghatározása során a havi illetmény összegét osztani kell
 

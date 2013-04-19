@@ -4,7 +4,7 @@
 
 (3) A Közgyűlés feladata:
 
-a) megválasztja saját tagjai közül az elnökét és alelnökeit, a Pénzügyi Ellenőrző Bizottság (a továbbiakban: PEB) elnökét és tagjait, az Etikai Bizottság (a továbbiakban: EB) elnökét és tagjait, valamint a főtitkárt,
+a) megválasztja saját tagjai közül az elnökét és alelnökeit, a Pénzügyi Ellenőrző Bizottság (a továbbiakban: PEB) elnökét és tagjait, az Etikai Bizottság (a továbbiakban: EB) elnökét és tagjait,
 
 b) megalkotja az Alapszabályt és a Választási Szabályzatot,
 
@@ -20,7 +20,7 @@ c) gyakorolja az MRK-nak az e törvényben, valamint az Alapszabályban meghatá
 
 a) az elnök, az alelnökök,
 
-b) a főtitkár,
+b)
 
 c) a PEB elnöke,
 
@@ -32,7 +32,9 @@ d) az EB elnöke.
 
 (10) A Közgyűlés által megválasztott elnök az MRK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját a Közgyűlés által megválasztott, tagozatonként egy-egy, összesen hat alelnök segíti.
 
-(11) A Közgyűlés által megválasztott főtitkár vezeti az MRK Irodáját (a továbbiakban: Iroda), valamint ellátja az Alapszabályban meghatározott feladatokat.
+(10a) Az MRK hivatásos állományú elnöke a megbízatása idejére rendelkezési állományba kerül. Az elnök illetményének megállapítására – a megbízatás ideje alatt – a 245/H. § (2) bekezdését kell megfelelően alkalmazni.
+
+(11) A főtitkár vezeti az MRK Irodáját (a továbbiakban: Iroda), valamint ellátja az Alapszabályban meghatározott feladatokat. A főtitkár az MRK-val munkajogviszonyban áll. A munkáltatói jogkört a főtitkár felett az elnök gyakorolja. A főtitkárra nem alkalmazható a 30/C. § (1) és (2) bekezdése.
 
 (12) Az Elnökség, az Elnökség tagjai, a PEB és az EB feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
