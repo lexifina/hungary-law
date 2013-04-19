@@ -18,9 +18,9 @@ e) a 17. § (2) bekezdés alapján építtetői fedezetkezelő működik közre.
 
 (3) Az építtető helyszíni képviselőjeként – ha a felek további feladatokról nem állapodtak meg – az építési műszaki ellenőr feladata:
 
-a)[^64] az Étv. 43. § (1) bekezdés e)–h) pontjában meghatározottak,
+a)[^74] az Étv. 43. § (1) bekezdés e)–h) pontjában meghatározottak,
 
-b)[^65] az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a jogerős építési (létesítési) engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
+b)[^75] az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a jogerős építési (létesítési) engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
 
 c) az építmény kitűzése helyességének, szükség esetén a talajmechanikai, környezetvédelmi és egyéb felmérések, vizsgálatok megtörténtének ellenőrzése,
 
@@ -32,11 +32,11 @@ f) a műszaki, illetve gazdasági szükségességből indokolt tervváltoztatás
 
 g) a munkák eltakarása előtt azok mennyiségi és minőségi ellenőrzése,
 
-h) az átadás-átvételi és a birtokbaadási eljárásban való részvétel,
+h)[^76] az átadás-átvételi eljárásban való részvétel,
 
 i) egyes építményfajták műszaki teljesítmény-jellemzőinek ellenőrzése, a technológiával összefüggő biztonsági előírások betartásának ellenőrzése,
 
-j)[^66] a beépített építési termékek teljesítmény nyilatkozatai meglétének ellenőrzése,
+j)[^77] a beépített építési termékek teljesítmény nyilatkozatai meglétének ellenőrzése,
 
 k) az építési műszaki ellenőri feladatok elvégzésének dokumentálása az építési naplóban,
 
@@ -46,15 +46,15 @@ m) műszaki kérdésekben javaslattétel (pl. szakértő bevonására),
 
 n) pénzügyi elszámolások, felmérések ellenőrzése,
 
-o)[^67] a teljesítésigazolás kiállítása és – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – az építtető, a fővállalkozó kivitelező, valamint az építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése,
+o)[^78] a teljesítésigazolás kiállítása és – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – az építtető, a fővállalkozó kivitelező, valamint az építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése,
 
-p)[^68] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
+p)[^79] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
 
-q)[^69] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
+q)[^80] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
 
-r)[^70]
+r)[^81]
 
-s)[^71] a 13. § (3) bekezdés o)–p) pontjában foglaltak teljesülésének ellenőrzése.
+s)[^82] a 13. § (3) bekezdés o)–p) pontjában foglaltak teljesülésének ellenőrzése.
 
 (4) Ha az építőipari kivitelezési tevékenységet több fővállalkozó kivitelező végzi, az építési műszaki ellenőr összehangolja a felelős műszaki vezetők tevékenységét és gondoskodik arról, hogy az elvégzett építési-szerelési munkák (részmunkák) vonatkozásában az egyes fővállalkozó kivitelezők felelős műszaki vezetői által tett nyilatkozatok – az építési napló részeként – a használatbavételi engedély iránti kérelem benyújtásakor az építtető és az építésügyi hatóság rendelkezésére álljanak.
 
@@ -76,11 +76,12 @@ f) az építési műszaki ellenőr díját, fizetési módját, határidejét,
 
 g) az építési műszaki ellenőrnek a jogszabályban meghatározott feladatokon és felelősségén kívüli további feladatait és felelősségét.
 
-[^64]: A 16. § (3) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § i) pontja szerint módosított szöveg.
-[^65]: A 16. § (3) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont ka) alpontja szerint módosított szöveg.
-[^66]: A 16. § (3) bekezdés j) pontja a 322/2012. (XI. 16.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
-[^67]: A 16. § (3) bekezdés o) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^68]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^69]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^70]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont kb) alpontja.
-[^71]: A 16. § (3) bekezdés s) pontját a 322/2012. (XI. 16.) Korm. rendelet 71. § (3) bekezdése iktatta be.
+[^74]: A 16. § (3) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § i) pontja szerint módosított szöveg.
+[^75]: A 16. § (3) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont ka) alpontja szerint módosított szöveg.
+[^76]: A 16. § (3) bekezdés h) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 9. pontja szerint módosított szöveg.
+[^77]: A 16. § (3) bekezdés j) pontja a 322/2012. (XI. 16.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
+[^78]: A 16. § (3) bekezdés o) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^79]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^80]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^81]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont kb) alpontja.
+[^82]: A 16. § (3) bekezdés s) pontját a 322/2012. (XI. 16.) Korm. rendelet 71. § (3) bekezdése iktatta be.

@@ -46,8 +46,8 @@ f) a tervezői művezető által átadott tervrajzok,
 
 g) a megfelelőség igazolások nyilvántartása,
 
-h)[^134] a kivitelezéssel kapcsolatos mérési jegyzőkönyveket, felülvizsgálati jegyzőkönyveket, elvégzett üzempróbák jegyzőkönyveit, üzembehelyezési vizsgálati tanúsítványokat, egyéb jegyzőkönyvek, tervrajzok, számítások és okiratok,
+h)[^149] a kivitelezéssel kapcsolatos mérési jegyzőkönyveket, felülvizsgálati jegyzőkönyveket, elvégzett üzempróbák jegyzőkönyveit, üzembehelyezési vizsgálati tanúsítványokat, egyéb jegyzőkönyvek, tervrajzok, számítások és okiratok,
 
 i) az alvállalkozó kivitelező kötelezettsége teljesítésében közreműködő – vele szerződéses viszonyban álló – további alvállalkozó kivitelező 27. § (9) bekezdés szerinti adatai.
 
-[^134]: A 26. § (6) bekezedés h) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § p) pontja szerint módosított szöveg.
+[^149]: A 26. § (6) bekezedés h) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § p) pontja szerint módosított szöveg.

@@ -10,9 +10,9 @@
 
 ## e) Minden felmért adat bejegyzésénél külön sorban kell feltüntetni (esetleg az építményre, építményrészre hivatkozással) a munkanemet (pl. I. földmunka), majd a következő sorban a kelet és szint adatát, vonalas építkezésnél a szelvényszámot, a költségvetési (pótköltségvetési) tételszámot (naplóoldalszámot), amelyre a bejegyzendő adatok vonatkoznak. A hivatkozási szám után címszószerűen be kell írni a felmért tétel megnevezését (pl. földkiemelés III. o.).
 
-4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^175]
+4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^199]
 
-Az építési tevékenység megkezdésének előzetes bejelentése
+Az építési tevékenység megkezdésének tudomásulvételére irányuló kérelem
 
 Az építőipari kivitelezési tevékenységről szóló jogszabály alapján az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló jogszabály szerint számított 50 millió forint építmény-értéket meghaladó vagy integrált építési engedély alapján végzendő, valamint az építtetői fedezetkezelés hatálya alá tartozó, illetve a közbeszerzésekről szóló törvény hatálya alá tartozó építési tevékenységek esetén.
 
@@ -94,7 +94,7 @@ b) címe (irányítószám, település, utca, házszám, emelet, ajtó vagy Pf.
 
 c) névjegyzéki száma: ME-......................................................................................................
 
-9. Ha rendelkezésre áll, a kivitelezési tervdokumentáció tartószerkezeti munkarészének ellenőrzéséről szóló nyilatkozat, tömegtartózkodásra szolgáló építmény, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény hatálya alá tartozó építmény, valamint a honvédelmi és katonai célú építmény esetén.
+9.
 
 10. Építtetői fedezetkezelő adatai (ha jogszabály előírja építtetői fedezetkezelő közreműködését)
 
@@ -106,4 +106,4 @@ b) címe:
 
 Kelt: ........................... , ........ év .............................. hó .......... nap
 
-[^175]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § c) pontjával megállapított szöveg.
+[^199]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § c) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 20. pontja, valamint (21) bekezdés j) pontja szerint módosított szöveg.

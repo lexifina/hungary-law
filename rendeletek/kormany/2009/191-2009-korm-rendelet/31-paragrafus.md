@@ -1,4 +1,4 @@
-## 30. §[^142]
+## 30. §[^161]
 
 ## VII. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## Teljesítésigazolás és műszaki átadás-átvétel
 
-31. §[^143] (1) Teljesítésigazolásra kerül sor az építtető és a fővállalkozó kivitelező, vagy a vállalkozó kivitelező és az alvállalkozó kivitelező között létrejött szerződés alapján, ha a vállalkozó (alvállalkozó) kivitelező az általa vállalt szerződés tárgya szerinti építési tevékenységet, építési-szerelési munkát a szerződésben foglaltak és jogszabályban előírtak szerint a kivitelezési dokumentációban meghatározottak szerint maradéktalanul elvégezte és ezt az építtetőnek vagy a vállalkozó kivitelezőnek jelenti.
+31. §[^162] (1) Teljesítésigazolásra kerül sor az építtető és a fővállalkozó kivitelező, vagy a vállalkozó kivitelező és az alvállalkozó kivitelező között létrejött szerződés alapján, ha a vállalkozó (alvállalkozó) kivitelező az általa vállalt szerződés tárgya szerinti építési tevékenységet, építési-szerelési munkát a szerződésben foglaltak és jogszabályban előírtak szerint a kivitelezési dokumentációban meghatározottak szerint maradéktalanul elvégezte és ezt az építtetőnek vagy a vállalkozó kivitelezőnek jelenti.
 
 (2) A vállalkozó kivitelező felelős műszaki vezetője a közös helyszíni bejárás során az építési naplóban, jegyzőkönyvben rögzített mennyiségi és minőségi hibák, hiányosságok kijavítását követően az építési műszaki ellenőrnek, vagy a vállalkozó kivitelező felelős műszaki vezetőjének átadja a szerződésben vállalt és elvégzett tevékenységet tartalmazó teljesítési összesítőt.
 
@@ -24,5 +24,5 @@ c) a felelős műszaki vezető a 13. § (3) bekezdés m) pontja szerint meghatá
 
 részére.
 
-[^142]: A 30. §-t és az azt megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 93. § p) pontja hatályon kívül helyezte.
-[^143]: A 31. § a 182/2010. (V. 14.) Korm. rendelet 5. § (31) bekezdésével megállapított szöveg.
+[^161]: A 30. §-t és az azt megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 93. § p) pontja hatályon kívül helyezte.
+[^162]: A 31. § a 182/2010. (V. 14.) Korm. rendelet 5. § (31) bekezdésével megállapított szöveg.

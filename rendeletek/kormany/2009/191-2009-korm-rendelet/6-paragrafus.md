@@ -1,7 +1,7 @@
 ## III. Fejezet
 
-## AZ ÉPÍTŐIPARI KIVITELEZÉSI TEVÉKENYSÉG FOLYAMATÁNAK RÉSZTVEVŐI[^26]
+## AZ ÉPÍTŐIPARI KIVITELEZÉSI TEVÉKENYSÉG FOLYAMATÁNAK RÉSZTVEVŐI[^28]
 
 ## Résztvevők
 
-[^26]: A III. Fejezet címe a 322/2012. (XI. 16.) Korm. rendelet 92. § b) pontja szerint módosított szöveg.
+[^28]: A III. Fejezet címe a 322/2012. (XI. 16.) Korm. rendelet 92. § b) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
 ## 40. § A MKIK által külön szolgáltatásként működtetett, a vállalkozó kivitelezők önkéntes adatszolgáltatásán alapuló nyilvános elektronikus adatbázis adattartalmának a nyilvántartással azonos internetes honlapon elérhetővé tétele esetén a nyilvántartásban és az adatbázisban szereplő adatokat egyértelműen megkülönböztethetően kell megjeleníteni.
 
-## A vállalkozó kivitelezők megrendelő általi minősítésének elősegítése[^161]
+## A vállalkozó kivitelezők megrendelő általi minősítésének elősegítése[^185]
 
-40/A. §[^162] (1) A nyilvántartásba vett vállalkozó kivitelező – a leendő szerződéses partnerei megfelelő tájékoztatása érdekében – a 8. melléklet szerinti igazolások benyújtásával kezdeményezheti azok nyilvántartásban történő rögzítését. Az MKIK a vállalkozó kivitelezők nyilvántartásában megjelenít minden olyan, a nyilvántartásba vett vállalkozó kivitelező által rendelkezésére bocsátott, 8. melléklet szerinti dokumentumot és nyilatkozatot, amelyek a vállalkozó kivitelező teljesítésre való alkalmasságának megítélését elősegítik.
+40/A. §[^186] (1) A nyilvántartásba vett vállalkozó kivitelező – a leendő szerződéses partnerei megfelelő tájékoztatása érdekében – a 8. melléklet szerinti igazolások benyújtásával kezdeményezheti azok nyilvántartásban történő rögzítését. Az MKIK a vállalkozó kivitelezők nyilvántartásában megjelenít minden olyan, a nyilvántartásba vett vállalkozó kivitelező által rendelkezésére bocsátott, 8. melléklet szerinti dokumentumot és nyilatkozatot, amelyek a vállalkozó kivitelező teljesítésre való alkalmasságának megítélését elősegítik.
 
 (2) Az MKIK a vállalkozó kivitelező által benyújtott, (1) bekezdés szerinti dokumentumot és nyilatkozatot a beérkezéstől számított legfeljebb 5 munkanapon belül megjeleníti a vállalkozó kivitelezők online nyilvántartásában. Az adatokat frissítés hiányában egy év elteltével törli a nyilvántartásból.
 
@@ -12,5 +12,5 @@
 
 (5) A kivitelezői nyilvántartásban megtekinthető a nyilvántartásba vett vállalkozó kivitelezők teljesítésre való alkalmasságát alátámasztó igazolások és nyilatkozatok, vagy a 8. melléklethez igazodóan összeállított követelmények meghatározásával kigyűjthető azok a vállalkozó kivitelezők, akik a követelményeknek megfelelnek. A nyilvántartásba vett vállalkozó kivitelező kezdeményezésére az MKIK a megrendelő alkalmassági követelményeknek való megfelelősségről tanúsítást állít ki, ha az (1) bekezdésben meghatározott dokumentumok és nyilatkozatok vizsgálatának eredménye ezt alátámasztja.
 
-[^161]: A 40/A. §-t megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 88. §-a iktatta be.
-[^162]: A 40/A. §-t a 322/2012. (XI. 16.) Korm. rendelet 88. §-a iktatta be.
+[^185]: A 40/A. §-t megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 88. §-a iktatta be.
+[^186]: A 40/A. §-t a 322/2012. (XI. 16.) Korm. rendelet 88. §-a iktatta be.

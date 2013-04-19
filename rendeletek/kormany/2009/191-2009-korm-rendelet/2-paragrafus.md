@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-a) építési munkaterület: az építőipari kivitelezési tevékenység végzésének helye; ennek minősül a munkaszervezéssel összefüggő felvonulási, előkészítési, valamint a tevékenység végzéséhez szükséges építési anyagok, gépek, szerkezetek, szerelvények és felvonulási épületek elhelyezésére és az előkészítő technológiai munkafolyamatok elvégzésére szolgáló terület is,
+a)[^6] építési munkaterület: az építőipari kivitelezési tevékenység végzésének az építtető által a fővállalkozó kivitelezőnek, alvállalkozói szerződés esetén a megrendelő vállalkozó kivitelező által az alvállalkozónak átadott helye; ennek minősül a munkaszervezéssel összefüggő felvonulási, előkészítési, valamint a tevékenység végzéséhez szükséges építési anyagok, gépek, szerkezetek, szerelvények és felvonulási épületek elhelyezésére és az előkészítő technológiai munkafolyamatok elvégzésére szolgáló terület is,
 
 b) építési szakmunka: szakirányú képesítéssel, jogszabály alapján végezhető építési-szerelési munka,
 
@@ -20,17 +20,19 @@ h) építőipari rezsióradíj: a vállalkozó kivitelező vagy az alvállalkoz�
 
 i) építtetői fedezetkezelő: az építőipari kivitelezési tevékenység építési szerződésben meghatározott ellenértéke pénzügyi fedezetének és a kivitelező által nyújtott biztosíték összegének kezelője,
 
-j)[^6] elektronikus alvállalkozói nyilvántartás: építtetői fedezetkezelő közreműködése esetén a fővállalkozó kivitelező építési naplórészét képező elektronikus nyilvántartás, mely tartalmazza az építési tevékenység megvalósításában résztvevő összes vállalkozó kivitelező és az általuk vállalt kivitelezési munka adatait,
+j)[^7] elektronikus alvállalkozói nyilvántartás: építtetői fedezetkezelő közreműködése esetén a fővállalkozó kivitelező építési naplórészét képező elektronikus nyilvántartás, mely tartalmazza az építési tevékenység megvalósításában résztvevő összes vállalkozó kivitelező és az általuk vállalt kivitelezési munka adatait,
 
-k)[^7] vállalkozó kivitelező: az az építőipari kivitelezési tevékenységet üzletszerű gazdasági tevékenységként folytató vállalkozó, amely vagy aki a kivitelezői láncolatban elfoglalt helye és szerződés szerinti pozíciója alapján fővállalkozó kivitelező, megrendelő vállalkozó kivitelező vagy alvállalkozó kivitelező lehet.
+k)[^8] vállalkozó kivitelező: az az építőipari kivitelezési tevékenységet üzletszerű gazdasági tevékenységként végző vállalkozó, amely vagy aki a kivitelezői láncolatban elfoglalt helye és szerződés szerinti pozíciója alapján fővállalkozó kivitelező, megrendelő vállalkozó kivitelező vagy alvállalkozó kivitelező lehet.
 
-l) fővállalkozó kivitelező: az építtetővel építési szerződést kötő vállalkozó kivitelező,
+l)[^9] fővállalkozó kivitelező: az építtetővel építési szerződést kötő, építőipari kivitelezési tevékenységet végző vállalkozó kivitelező,
 
-m)[^8] alvállalkozó kivitelező: a megrendelő vállalkozó kivitelezővel építési szerződést kötő vállalkozó kivitelező,
+m)[^10] alvállalkozó kivitelező: a megrendelő vállalkozó kivitelezővel építési szerződést kötő vállalkozó kivitelező,
 
-n)[^9] megrendelő vállalkozó kivitelező: az alvállalkozóval építési szerződést kötő, ellenszolgáltatásra kötelezett vállalkozó kivitelező,
+n)[^11] megrendelő vállalkozó kivitelező: az alvállalkozóval építési szerződést kötő, ellenszolgáltatásra kötelezett vállalkozó kivitelező,
 
-[^6]: A 2. § j) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § k) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § m) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § n) pontját a 322/2012. (XI. 16.) Korm. rendelet 56. § (2) bekezdése iktatta be.
+[^6]: A 2. § a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 1. pont 1.1. alpontja szerint módosított szöveg.
+[^7]: A 2. § j) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § k) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (1) bekezdésével megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 1. pont 1.2. alpontja szerint módosított szöveg.
+[^9]: A 2. § l) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 1. pont 1.3. alpontja szerint módosított szöveg.
+[^10]: A 2. § m) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § n) pontját a 322/2012. (XI. 16.) Korm. rendelet 56. § (2) bekezdése iktatta be.

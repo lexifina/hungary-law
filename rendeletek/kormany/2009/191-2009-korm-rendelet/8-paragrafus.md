@@ -1,6 +1,6 @@
 ## A beruházáslebonyolító
 
-8. §[^31] (1) Az építtető általános megbízottjaként a beruházáslebonyolító feladata az erre irányuló megállapodásban foglaltaktól függően
+8. §[^34] (1) Az építtető általános megbízottjaként a beruházáslebonyolító feladata az erre irányuló megállapodásban foglaltaktól függően
 
 a) az Étv. 38/B. § (1) bekezdésében meghatározott feladatok elvégzése,
 
@@ -22,4 +22,4 @@ i) az építési munkaterület kiválasztása, biztosítása és átadása a kiv
 
 (2) A beruházáslebonyolító az építtetővel kötött megállapodás alapján – a 6. §-ban felsorolt résztvevők tevékenységének kivételével – minden olyan feladat vagy tevékenység ellátására jogosult, ami az építési tevékenység szakszerű megvalósításának ellenőrzésével vagy irányításával kapcsolatos.
 
-[^31]: A 8. § a 322/2012. (XI. 16.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^34]: A 8. § a 322/2012. (XI. 16.) Korm. rendelet 64. §-ával megállapított szöveg.

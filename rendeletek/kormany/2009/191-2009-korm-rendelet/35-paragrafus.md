@@ -2,17 +2,17 @@
 
 35. § (1) A vállalkozó kivitelezőre vonatkozó, az Étv. 39. § (3) bekezdése szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 22. § (1) bekezdésében meghatározott adatokon kívül – tartalmaznia kell
 
-a)[^155] a vállalkozó kivitelező
+a)[^178] a vállalkozó kivitelező
 
 aa) cégjegyzékszámát, egyéni vállalkozó esetében egyéni vállalkozói nyilvántartási számát, adószámát,
 
-ab)[^156] építőipari kivitelezési tevékenységi körét,
+ab)[^179] építőipari kivitelezési tevékenységi körét,
 
 ac) telephelye – több telephely esetén telephelyei – címét,
 
-ad)[^157] építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkásainak számát, az építési szakmunkához szükséges szakképesítéssel rendelkező egyéni vállalkozó kivételével,
+ad)[^180] építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel rendelkező – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkásainak számát, az építési szakmunkához szükséges szakképesítéssel rendelkező egyéni vállalkozó kivételével,
 
-ae)[^158] felelős műszaki vezetői feladatok ellátására jogosult tagsági vagy alkalmazotti jogviszonyban állók megnevezését és névjegyzéki számát vagy az Étv. 39/A. § (2) bekezdésére hivatkozást, valamint
+ae)[^181] felelős műszaki vezetői feladatok ellátására jogosult tagsági vagy alkalmazotti jogviszonyban állók megnevezését és névjegyzéki számát vagy az Étv. 39/A. § (2) bekezdésére hivatkozást, valamint
 
 af) nyilatkozatát arról, hogy az Étv. 39. § (2) bekezdésében meghatározott feltételeket egyébként teljesíti, továbbá
 
@@ -20,7 +20,7 @@ b) az a) pont ac)–af) alpontjában közölteket és az aa) és ab) alpontjaiba
 
 c) ha a bejelentő elektronikus levélcímét, telefaxszámát vagy telefonos elérhetőséget a 36. § szerinti nyilvántartásban történő feltüntetés céljából adja meg, a megadott elérhetőség mellett az erre vonatkozó nyilatkozatot is.
 
-(2) A telephely akkor minősül az Étv. 39. § (2) bekezdés a) pontja szerint a vállalkozó kivitelezői tevékenység végzéséhez alkalmasnak, ha
+(2)[^182] A telephely akkor minősül a vállalkozó kivitelezői tevékenység végzéséhez alkalmasnak, ha
 
 a) a cég székhelyétől eltérő helyen lévő telephely esetén azt a cégnyilvántartásba bejegyezték, vagy egyébként a vállalkozó kivitelező okiratokkal igazolja, hogy a cég tulajdonát képezi vagy használatára a cég jogosult,
 
@@ -40,7 +40,8 @@ c) a bejelentést tevő nyilatkozatát a bejelentés (ideértve az igazolás cé
 
 (5) A bejelentés elektronikus úton vagy elektronikus adathordozón is benyújtható.
 
-[^155]: A 35. § (1) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sa) alpontjával megállapított szöveg.
-[^156]: A 35. § (1) bekezdése a) pont ab) alpontja a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sb) alpontja szerint módosított szöveg.
-[^157]: A 35. § (1) bekezdés a) pont ad) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított, a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sc) alpontja szerint módosított szöveg.
-[^158]: A 35. § (1) bekezdés a) pont ae) alpontja a 322/2012. (XI. 16.) Korm. rendelet 86. §-ával megállapított szöveg.
+[^178]: A 35. § (1) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sa) alpontjával megállapított szöveg.
+[^179]: A 35. § (1) bekezdése a) pont ab) alpontja a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sb) alpontja szerint módosított szöveg.
+[^180]: A 35. § (1) bekezdés a) pont ad) alpontja a 182/2010. (V. 14.) Korm. rendelet 5. § (35) bekezdésével megállapított, a 322/2012. (XI. 16.) Korm. rendelet 92. § s) pont sc) alpontja szerint módosított szöveg.
+[^181]: A 35. § (1) bekezdés a) pont ae) alpontja a 322/2012. (XI. 16.) Korm. rendelet 86. §-ával megállapított szöveg.
+[^182]: A 35. § (2) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés h) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## A KIVITELEZÉSI DOKUMENTÁCIÓ
 
-22. §[^128] (1) Az építésügyi hatóság engedélyéhez vagy az építésfelügyeleti hatóság tudomásulvételi eljárásához kötött építési tevékenység – a (3) bekezdésben foglaltak figyelembevételével – az 1. mellékletben meghatározott tartalmú kivitelezési dokumentáció alapján végezhető.
+22. §[^139] (1) Az építésügyi hatóság engedélyéhez vagy az építésfelügyeleti hatóság tudomásulvételi eljárásához kötött építési tevékenység – a (3) bekezdésben foglaltak figyelembevételével – az 1. mellékletben meghatározott tartalmú kivitelezési dokumentáció alapján végezhető.
 
 (2) A kivitelezési dokumentáció az Étv. 31. § (2) bekezdésében meghatározott alapvető követelmények és egyéb előírások kielégítését bizonyító, az építmény megvalósításához – minden munkarészre kiterjedően az építők, szerelők, gyártók számára kellő részletességgel – szükséges információt, utasítást tartalmazza, továbbá meghatározza az építmény részévé váló összes anyag, szerkezet, termék, berendezés helyzetét, méretét, minőségét, mérettűrését.
 
@@ -26,7 +26,7 @@ b) a 1,5 m-t meg nem haladó magasságú támfal építése
 
 a) tartószerkezeti kivitelezési dokumentációt kell készíteni, ha a (3) bekezdés szerinti jellemzők teljesülése mellett
 
-aa) az épület tartószerkezete vagy annak elemei monolit vasbeton,
+aa)[^140] az épület tartószerkezete vagy annak elemei monolit vasbeton, kivéve a 6,6 m-es fal- vagy oszlopköznél kisebb előregyártott födémszerkezethez csatlakozó vasbeton koszorút,
 
 ab) az aa) alpontban foglaltak kivételével a teherhordó szerkezet 5,4 m-es fal- vagy oszlopköznél nagyobb kiváltást tartalmaz,
 
@@ -48,12 +48,15 @@ b) építési engedélyhez kötött külön jogszabályban meghatározott védel
 
 c) közhasználatú épületet,
 
-d) a 10. § (1) bekezdésében meghatározott építményt vagy
+d)[^141] a tömegtartózkodásra szolgáló építményre, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény hatálya alá tartozó építményre, valamint a honvédelmi és katonai célú építményre vagy
 
 e) üzemeléstechnológiai (gyártás-, javítás-, vizsgálat-, konyha-, egészségügyi technológiai stb.) tervet igénylő épületet
 
 érintő építőipari kivitelezési tevékenység esetén.
 
-(6) A kivitelezési dokumentáció tartalma nem térhet el a jogerős építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól vagy a tudomásulvételhez mellékelt dokumentáció tartalmától kivéve, ha maga az eltérés nem engedélyhez vagy tudomásulvételhez kötött építési tevékenység. Ennek betartásáért a tervező felel.
+(6)[^142] A kivitelezési dokumentáció tartalma nem térhet el a jogerős építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól vagy a tudomásulvételhez mellékelt dokumentáció tartalmától kivéve, ha maga az eltérés nem engedélyhez vagy tudomásulvételhez kötött építési tevékenység. Ennek betartásáért a tervező felel.
 
-[^128]: A 22. § a 322/2012. (XI. 16.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^139]: A 22. § a 322/2012. (XI. 16.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^140]: A 22. § (4) bekezdés a) pont aa) alpontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 11. pont 11.1. alpontja szerint módosított szöveg.
+[^141]: A 22. § (5) bekezdés d) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 11. pont 11.2. alpontja szerint módosított szöveg.
+[^142]: [A 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 11. pont 11.3. pontjával elrendelt módosítás, amely szerint az „az eltérés nem engedélyhez vagy tudomásulvételhez kötött tevékenység.” szövegrész helyébe „az eltérés megfelel az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 22. § (1) bekezdésében foglaltaknak.” szöveg lép, nem vezethető át.]
