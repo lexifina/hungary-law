@@ -16,10 +16,12 @@ b) ha azt külön jogszabály előírja.
 
 (5) A dokumentációban az OTÉK 50. § (2) bekezdésében meghatározott követelmények teljesítését igazolni szükséges. Ez történhet vonatkozó szabványok alkalmazásával, vagy ezek hiányában más igazolt műszaki megoldás alkalmazásával.
 
-(6) Az építészeti-műszaki dokumentációt aláíró-címlappal kell ellátni. Az aláíró címlapot a 8. melléklet szerinti formátumban kell elkészíteni. A címlap az engedélyezés tárgyát képező építési, bontási tevékenység szabatos megnevezésén és a telek azonosító adatain túl tartalmazza az építtető nevét, cég megnevezését, a tervező nevét. Az aláírólap tartalmazza a tervezésben részt vett összes tervező nevét, a tervezési jogosultság számát és a tervező sajátkezű aláírását.
+(6)[^54] Az építészeti-műszaki dokumentációt aláírólappal kell ellátni. Az aláírólapot a 8. melléklet szerinti formátumban kell elkészíteni. A címlap az engedélyezés tárgyát képező építési, bontási tevékenység szabatos megnevezésén és a telek azonosító adatain túl tartalmazza az építtető nevét, cég megnevezését, a tervező nevét. Az aláírólap tartalmazza a tervezésben részt vett összes tervező nevét, a tervezési jogosultság számát és a tervező sajátkezű aláírását.
 
 (7) Az egyes különálló tervlapokon szerepeltetni kell:
 
 a) az adott tervrajz szabatos megnevezését és méretarányát önálló ábránként,
 
 b) a tervezés időpontját.
+
+[^54]: A 72. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés o) pontja szerint módosított szöveg.

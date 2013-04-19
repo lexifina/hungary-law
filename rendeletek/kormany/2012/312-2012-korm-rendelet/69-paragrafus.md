@@ -12,6 +12,6 @@ ca) a szervizkönyv pótlását,
 
 cb) a kötelező felülvizsgálat elmaradása miatti építmény felülvizsgálat elvégzését és a megállapításoktól függően a szükséges munkálatok elvégzését.
 
-(2)[^32]
+(2)[^51]
 
-[^32]: A 69. § (2) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés h) pontja hatályon kívül helyezte.
+[^51]: A 69. § (2) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés h) pontja hatályon kívül helyezte.

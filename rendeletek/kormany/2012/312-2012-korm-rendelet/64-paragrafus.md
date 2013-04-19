@@ -16,12 +16,15 @@ f) az építési műszaki ellenőr nevét, lakcímét, névjegyzéki számát,
 
 g) az építmény rendeltetését, jellegét,
 
-h) az építési engedély számát, és
+h)[^49] az építési engedély számát.
 
-i) a kivitelezés bejelentési kötelezettségének teljesítését.
+i)[^50] az építőipari kivitelezési tevékenység megkezdésére irányuló kérelem benyújtásának teljesítését.
 
 (2) Az építésfelügyeleti hatóság az 58. § (4) bekezdése szerinti ellenőrzésen a jegyzőkönyvében a szabálytalan állapotról ábrázolást vagy rajzot és fényképfelvételt készít.
 
 (3) Az építésfelügyeleti ellenőrzés során feltárt, az építésfelügyeleti hatóság hatáskörébe nem tartozó szabálytalanságokat is rögzíteni kell a jegyzőkönyvben.
 
 (4) A hatósági ellenőrzésről készült jegyzőkönyvet az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendelet szerint az OÉNY-ben kell rögzíteni.
+
+[^49]: A 64. § (1) bekezdés h) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés n) pontja szerint módosított szöveg.
+[^50]: A 64. § (1) bekezdés i) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.

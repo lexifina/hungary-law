@@ -210,7 +210,7 @@
 
 ## Igazolás csak olyan formában nyújtható be, amelynek nyomtatási formátuma legfeljebb A4. Elektronikus igazolás csak olyan információtechnikai rendszerektől fogadható el, amely hiteles átadásának információtechnológiai feltételei fennállnak.
 
-## 5.1. Aláíró-címlap a tervezők megnevezésével, jogosultságuk megjelölésével, elérhetőségükkel és aláírásukkal, amely benyújtható elektronikusan aláírt PDF formátumban, papír alapú formátumban, illetve amennyiben információtechnológiai feltételei fennállnak, úgy az aláíró saját nevében kitöltött és saját személyi azonosításával benyújtott elektronikus űrlap útján.
+## 5.1. Aláírólap a tervezők megnevezésével, jogosultságuk megjelölésével, elérhetőségükkel és aláírásukkal, amely benyújtható elektronikusan aláírt PDF formátumban, papír alapú formátumban, illetve amennyiben információtechnológiai feltételei fennállnak, úgy az aláíró saját nevében kitöltött és saját személyi azonosításával benyújtott elektronikus űrlap útján.
 
 ## 5.2. Tervezési program a külön jogszabályban meghatározott tartalommal.
 
@@ -274,7 +274,7 @@
 
 ## 7.1. Az építészeti-műszaki dokumentációt és részeit a tervező az alábbiak valamelyikével hitelesíti:
 
-## 7.1.1. aláíró lap csatolásával,
+## 7.1.1. aláírólap csatolásával,
 
 ## 7.1.2. saját elektronikus azonosítás útján történő benyújtással, az azonosításra visszavezetett dokumentumhitelesítés szabályai szerint,
 
