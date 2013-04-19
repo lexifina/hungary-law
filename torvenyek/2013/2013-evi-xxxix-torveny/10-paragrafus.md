@@ -8,4 +8,4 @@ c) 341/C. § (1) bekezdésében a „37/B. § (2) bekezdés b) pontjában” sz�
 
 szöveg lép.
 
-(2) A Hszt. 264/C. § (1) bekezdés a) pontjában a „szolgálatot, ” szövegrész helyébe a „szolgálatot, és” szöveg lép.
+(2)
