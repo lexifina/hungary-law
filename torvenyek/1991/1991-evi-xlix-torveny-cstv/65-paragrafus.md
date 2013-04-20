@@ -8,11 +8,11 @@ a) amelyek adósságainak rendezéséhez, hitelezőikkel való megegyezéséhez,
 
 b) amelyek esetében – ha a vagyonhiány és a fizetésképtelenség előreláthatólag nem szüntethető meg – kiemelt gazdaságpolitikai érdek fűződik ahhoz, hogy a jogutód nélküli megszüntetés gyorsabb, átláthatóbb és egységesített eljárásrend szerint történjék.
 
-(2) A Kormány az (1) bekezdés szerinti rendeletet csődeljárás esetén legkésőbb
+(2) A Kormány az (1) bekezdés szerinti rendeletet
 
-a) a csődeljárás kezdő időpontjától [10. § (1) bekezdés] számított 15 napon belül,
+a) csődeljárás esetén legkésőbb a csődeljárás kezdő időpontjától [10. § (1) bekezdés] számított 15 napon belül,
 
-b) felszámolási eljárás esetén pedig legkésőbb a felszámolás kezdő időpontjától [27. § (1) bekezdés, 28. § (1) bekezdés] számított 30 napon belül
+b) felszámolási eljárás esetén pedig legkésőbb a felszámolás kezdő időpontjától [27. § (1) bekezdés, 28. § (1) bekezdés] számított 365 napon belül
 
 hirdetheti ki.
 

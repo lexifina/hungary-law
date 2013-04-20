@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2012-12-31 | 2012. évi CCXI. törvény | 1991-49-00-00.76 |
 | 2013-01-01 | 2012. évi CXCVII. törvény | 1991-49-00-00.77 |
 | 2013-01-02 | 2012. évi CIV. törvény | 1991-49-00-00.78 |
+| 2013-04-20 | 2013. évi XLVI. törvény | 1991-49-00-00.79 |
