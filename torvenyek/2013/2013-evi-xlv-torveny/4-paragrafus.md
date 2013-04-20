@@ -1,0 +1,1 @@
+4. § Hatályát veszti a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény 318. § (20) bekezdése.
