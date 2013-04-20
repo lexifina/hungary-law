@@ -10,7 +10,7 @@
 
 a) bűnszövetségben,
 
-b) közveszély színhelyén,
+b)
 
 c) üzletszerűen,
 
@@ -46,7 +46,9 @@ b) a kisebb értékre elkövetett lopást
 
 4. temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt vagy holttesten lévő tárgyra,
 
-5. nemesfémre, nemesfém ötvözetére vagy fémkereskedelmi engedélyköteles anyagra
+5. nemesfémre, nemesfém ötvözetére vagy fémkereskedelmi engedélyköteles anyagra,
+
+c) a lopást szabálysértési vagy kisebb értékre közveszély színhelyén
 
 követik el.
 
@@ -54,7 +56,7 @@ követik el.
 
 a) a lopást jelentős értékre,
 
-b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
+b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon vagy közveszély színhelyén
 
 követik el.
 
@@ -62,7 +64,7 @@ követik el.
 
 a) a lopást különösen nagy értékre,
 
-b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
+b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon vagy közveszély színhelyén
 
 c)
 
@@ -72,7 +74,7 @@ követik el.
 
 a) a lopást különösen jelentős értékre,
 
-b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
+b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon vagy közveszély színhelyén
 
 c)
 
