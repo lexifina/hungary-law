@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szlovén Köztársaság Kormánya között az államhatáron átvezető közúti kapcsolatok fejlesztéséről szóló Keretmegállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
