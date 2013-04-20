@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-109-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-04-19 | 2013-109-20-22.1 | 109/2013. (IV. 9.) Korm. rendelet |
+| 2013-04-20 | 2013-109-20-22.2 | 2010: CXXX. törvény |
