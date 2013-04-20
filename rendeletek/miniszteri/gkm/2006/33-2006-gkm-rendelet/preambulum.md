@@ -1,1 +1,0 @@
-Az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én aláírt vámegyezmény és módosításai egységes szerkezetben történő kihirdetéséről szóló 2003. évi XXXIV. törvény 4. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőt rendelem el:
