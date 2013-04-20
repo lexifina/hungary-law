@@ -1,1 +1,0 @@
-1. § Az Országgyűlés az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14. napján kelt vámegyezménynek (a továbbiakban: Egyezmény) az 1988. február 23-án, 1993. március 24-én, 1997. június 26–27-én és 2000. október 19–20-án elfogadott módosításokkal egységes szerkezetbe foglalt szövegét e törvénnyel kihirdeti.
