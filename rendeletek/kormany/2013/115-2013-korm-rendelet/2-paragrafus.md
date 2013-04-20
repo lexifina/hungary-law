@@ -1,1 +1,0 @@
-## „h) A Nemzeti Fejlesztési Kormánybizottság egyedi döntése alapján az állam vagy helyi önkormányzat többségi tulajdonában lévő gazdasági társaság, ha a támogatást a nemzeti vagyon fejlesztésére fordítja,”
