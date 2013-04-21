@@ -152,7 +152,7 @@ b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. októb
 
 37/D. biogáz: a külön jogszabály szerinti biomasszából vagy más megújuló energiából előállított gáznemű, nem sűrítettgáz-halmazállapotú termék;
 
-37/E. olajtermék: az 52. § (2) bekezdés e) pontja alá tartozó ásványolaj, a biogáz kivételével;
+37/E. olajtermék: az 52. § (2) bekezdés f) pontja alá tartozó ásványolaj, a biogáz kivételével;
 
 37/F. üzemanyagkénti beszerzés, importálás, kínálás, értékesítés, felhasználás: bármely termék belső égésű motorban való felhasználása, illetve a termék ilyen felhasználás céljára történő beszerzése, importálása, kínálása és értékesítése, kivéve azt az esetet, ha a helyhez kötött belső égésű motorban való felhasználás kizárólagos célja villamos energia előállítása, illetve a beszerzés, importálás, kínálás és értékesítés ilyen felhasználás céljára történik. Az utóbb említett esetet tüzelő-, fűtőanyagkénti felhasználásnak, illetve ilyen célra történő beszerzésnek, importálásnak, kínálásnak és értékesítésnek kell tekinteni;
 

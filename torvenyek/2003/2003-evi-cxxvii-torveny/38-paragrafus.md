@@ -2,7 +2,7 @@
 
 38. § (1) Az adófelfüggesztéssel belföldön történő szállítással és az adófizetési kötelezettség teljesítésével járó adókockázatra az adóraktár engedélyesének az e § szerinti jövedéki biztosítékot kell nyújtania. A felajánlott jövedéki biztosíték összegét és teljesítésének módját a vámhatóság az e törvényben és a végrehajtási rendeletben foglaltak alapján elfogadja, vagy az engedély iránti kérelemmel együtt visszautasítja.
 
-(2) A jövedéki biztosíték összegét – a (3) bekezdésben foglalt eltéréssel – az e törvényben meghatározott értékhatárok között, a jövedéki termék 37. § (1) bekezdés b) pontja szerinti mennyiségére számított adótartalom egytizenketted részének alapulvételével kell meghatározni. A 37. § (2) bekezdésében foglalt esetben a jövedéki biztosítékot az adóraktárakra összesített adatokat figyelembe véve, az adóraktár engedélyesére kell megállapítani.
+(2) A jövedéki biztosíték összegét az e törvényben meghatározott értékhatárok között, a jövedéki termék 37. § (1) bekezdés b) pontja szerinti mennyiségére számított adótartalom egytizenketted részének alapulvételével kell meghatározni. A 37. § (2) bekezdésében foglalt esetben a jövedéki biztosítékot az adóraktárakra összesített adatokat figyelembe véve, az adóraktár engedélyesére kell megállapítani.
 
 (3)
 
