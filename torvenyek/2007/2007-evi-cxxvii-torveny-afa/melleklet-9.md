@@ -19,9 +19,3 @@ Az „adó” kifejezés jelentése a Közösség egyes tagállamaiban
 8. a Finn Köztársaság esetében: Arvonlisävero (ALV);
 
 9. a Francia Köztársaság esetében: Taxe sur la valeur ajoutée (TVA);
-
-10. a Görög Köztársaság esetében: Foros Prostithemenis Aksias (FPA);
-
-11. a Holland Királyság esetében: Belasting over de toegevoegde waarde (BTW);
-
-12. Írország esetében: Cáin Bhreisluacha, illetőleg Value Added Tax (VAT);

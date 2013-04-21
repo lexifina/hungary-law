@@ -20,7 +20,11 @@ b) az adóraktározási eljárás során kiraktározandó/kiraktározott termék
 
 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
 
-7. építési telek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek és építési terület, amely egyúttal nem minősül beépített ingatlannak;
+7. építési telek: az olyan
+
+a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
+
+b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak.
 
 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz;
 
@@ -60,7 +64,7 @@ e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak
 
 17. rádiós és audiovizuális médiaszolgáltatások: a nyilvánosság számára vételre szánt, megszerkesztett rádió-, illetőleg televízió-műsornak a médiaszolgáltató általi előállítása, elektronikus jelek formájában való megjelenítése és a felhasználó vevőkészülékéhez történő továbbítása vagy továbbjuttatása;
 
-18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek,
+18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek,
 
 a) amely tulajdon kisajátításának tárgyát képezi, vagy
 

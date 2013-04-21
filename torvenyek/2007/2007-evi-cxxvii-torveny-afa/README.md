@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2012-07-20 | 2012. évi LXIX. törvény | 2007-127-00-00.27 |
 | 2012-10-16 | 2012. évi CXLVI. törvény | 2007-127-00-00.28 |
 | 2013-01-01 | 2012. évi CLXXVIII. törvény | 2007-127-00-00.29 |
+| 2013-04-21 | 2013. évi XXXVII. törvény | 2007-127-00-00.30 |

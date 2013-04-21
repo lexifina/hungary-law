@@ -14,7 +14,7 @@ b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépít
 
 ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
 
-bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése és az értékesítés között még nem telt el 2 év [ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló, illetőleg beépített új ingatlan];
+bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év
 
 c) egyébként nem adóalanyi minőségben eljáró személy, szervezet sorozat jelleggel építési telket (telekrészt) értékesít.
 
