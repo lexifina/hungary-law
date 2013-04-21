@@ -12,7 +12,7 @@ c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió
 
 (3) Az átalányadózás kizárólag az egyéni vállalkozói, illetőleg mezőgazdasági kistermelői tevékenység egészére választható.
 
-(4) Az (1) bekezdés rendelkezésétől eltérően az az egyéni vállalkozó, akinek az egyéni vállalkozói tevékenysége az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti kiskereskedelmi tevékenység, átalányadózást választhat, ha az átalányadózást közvetlenül megelőző adóévben vállalkozói bevétele a 100 millió forintot nem haladta meg és nem áll munkaviszonyban.
+(4) Az (1) bekezdés rendelkezésétől eltérően az az egyéni vállalkozó, akinek az egyéni vállalkozói tevékenysége az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti kiskereskedelmi tevékenység, átalányadózást választhat, ha az átalányadózást közvetlenül megelőző adóévben vállalkozói bevétele a 100 millió forintot nem haladta meg.
 
 (5) Az a magánszemély, aki egyéni vállalkozóként is és mezőgazdasági kistermelőként is jogosult az átalányadózás választására, külön-külön és egyidejűleg is alkalmazhatja a kétféle tevékenységre elkülönülten az átalányadózást.
 
