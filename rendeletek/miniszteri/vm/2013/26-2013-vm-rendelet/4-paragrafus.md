@@ -1,0 +1,5 @@
+## 3. § A pénzügyi hozzájárulás forrása a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 4. Uniós programok kiegészítő támogatása alcím, 9. Egyes állatbetegségek megelőzésének és felszámolásának támogatása jogcímcsoporton előirányzott összeg, valamint az Európai Mezőgazdasági Garanciaalap terhére a 2012/761/EU bizottsági végrehajtási határozat alapján a 2. § szerinti célterületek finanszírozására biztosított pénzösszeg.
+
+4. § (1) A jogosultság mértékét alátámasztó számlákon és egyéb bizonylatokon (a továbbiakban együtt: számla) szereplő összegekhez abban az esetben nyújtható pénzügyi hozzájárulás, amennyiben a számlák teljesítési dátuma a végrehajtási időszakra esik, de nem az adott tárgyidőszakot követően keletkezett. A pénzügyi hozzájárulás folyósítására a 11. § (2) bekezdése esetén csak pénzügyileg teljesített számla esetében kerülhet sor.
+
+(2) A pénzügyi hozzájárulás alapja a pénzügyileg teljesített számlán szereplő költségek általános forgalmi adót és egyéb adót nem tartalmazó összege.
