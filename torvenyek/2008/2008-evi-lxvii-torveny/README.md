@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-67-00-00
 | 2012-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-67-00-00.7 |
 | 2012-06-20 | 2012. évi LXIX. törvény | 2008-67-00-00.8 |
 | 2013-01-01 | 2012. évi LXIX. törvény | 2008-67-00-00.9 |
+| 2013-04-21 | 2013. évi XXXVII. törvény | 2008-67-00-00.10 |

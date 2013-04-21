@@ -42,6 +42,8 @@
 
 11. közszolgáltató:
 
-11.1. a vízgazdálkodásról szóló törvény szerinti, víziközművekkel közüzemi tevékenységet végző szolgáltató,
+11.1. a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltató,
 
-11.2. a hulladékgazdálkodásról szóló törvény szerinti települési hulladékkezelési közszolgáltatást végző hulladékkezelő.
+11.2. a vízgazdálkodásról szóló törvény szerinti nem közművel összegyűjtött háztartási szennyvíz begyűjtésére feljogosított közszolgáltató,
+
+11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatást végző közszolgáltató.
