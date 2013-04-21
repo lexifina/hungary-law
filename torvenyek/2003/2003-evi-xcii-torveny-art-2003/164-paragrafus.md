@@ -24,7 +24,7 @@ b) az eljárást az elkövetővel szemben a Btk. 71. §-ában meghatározott meg
 
 (3) Ha az adómegállapításhoz való jog elévülését követően az adóhatóság vagy a felettes szerv megállapítja, hogy az adómegállapítás részben vagy egészben jogszabálysértő, akkor az adótartozás végrehajtásához való jog elévülési idején belül a jogszabálysértő adómegállapítás tekintetében az adóvégrehajtáshoz való jogot korlátozza vagy megszünteti.
 
-(4) Az illeték megállapításához való jog annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben a vagyonszerzést illetékkiszabásra az állami adóhatóságnál bejelentették, illetve az a körülmény, hogy az illeték megfizetését vagy a kiszabás céljából elrendelt bejelentést elmulasztották, az állami adóhatóság tudomására jutott.
+(4) A pénzügyi tranzakciós illeték kivételével az illeték megállapításához való jog annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben a vagyonszerzést illetékkiszabásra az állami adóhatóságnál bejelentették, illetve az a körülmény, hogy az illeték megfizetését vagy a kiszabás céljából elrendelt bejelentést elmulasztották, az állami adóhatóság tudomására jutott.
 
 (5) Ha az adóhatóság határozatát a bíróság felülvizsgálja, a másodfokú adóhatósági határozat jogerőre emelkedésétől a bíróság határozatának jogerőre emelkedéséig, felülvizsgálati kérelem esetén a felülvizsgálati kérelem elbírálásáig az adó megállapításához való jog elévülése nyugszik.
 

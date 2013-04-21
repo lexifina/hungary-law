@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-181. § (1) E törvény 3. §-ának (3) bekezdése, 9. §-a, 16–23. §-a, 24. §-ának (1)–(4) és (8) bekezdése, 26. §-a, 31. § (1) bekezdése, 33. § (9) bekezdése, 47. §-a, 79. §-a, 88. §-ának (6)–(7) bekezdései, 125. §-ának (1) bekezdése, 175. § (1) és (3) bekezdése, 175. § (12) bekezdése c) pontja, 176. § (2) bekezdése, 181/A. §-a, 1. számú mellékletének I/B/3/a)-f) pontjai, 3. számú mellékletének H) pontja, 8., 9. és 10. számú melléklete – az általános forgalmi adóról szóló törvénnyel, illetve a számvitelről szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálják:
+181. § (1) E törvény 3. §-ának (3) bekezdése, 9. §-a, 16–23. §-a, 24. §-ának (1)–(4) és (8) bekezdése, 26. §-a, 31. § (1) bekezdése, 33. § (9) bekezdése, 47. §-a, 79. §-a, 88. §-ának (6)–(7) bekezdései, 125. §-ának (1) bekezdése, 175. § (1) és (3) bekezdése, 175. § (12) bekezdése c) pontja, 176. § (2) bekezdése, 1. számú mellékletének I/B/3/a)-f) pontjai, 3. számú mellékletének H) pontja, 8., 9. és 10. számú melléklete – az általános forgalmi adóról szóló törvénnyel, illetve a számvitelről szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálják:
 
 a) a Tanács 2006/112/EK irányelve (2006. november 28.) a közös hozzáadottértékadó-rendszerről,
 
@@ -12,23 +12,7 @@ d) a Tanács 2008/117/EK irányelve (2008. december 16.) a közös hozzáadotté
 
 e) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról.
 
-(2) E törvény 56–59. §-ai és 11. számú melléklete a következő uniós jogi aktusoknak való megfelelést szolgálják:
-
-a) a Tanács 77/799/EGK irányelve (1977. december 19.) a tagállamok illetékes hatóságainak a közvetlen adóztatás területén történő kölcsönös segítségnyújtásáról,
-
-b) a Tanács 79/1070/EGK irányelve (1979. december 6.) a tagállamok illetékes hatóságainak a közvetlen adóztatás területén történő kölcsönös segítségnyújtásáról szóló 77/799/EGK irányelv módosításáról,
-
-c) a Tanács 2003/93/EK irányelve (2003. október 7.) a tagállamok illetékes hatóságainak a közvetlen és közvetett adóztatás területén történő kölcsönös segítségnyújtásáról szóló 77/799/EGK tanácsi irányelv módosításáról,
-
-d) a Tanács 2004/56/EK irányelve (2004. április 21.) a tagállamok illetékes hatóságainak a közvetlen adózás, a bizonyos jövedéki adók és a biztosítási díjak adózása területén történő kölcsönös segítségnyújtásáról szóló 77/799/EGK irányelv módosításáról,
-
-e) a Tanács 2004/106/EK irányelve (2004. november 16.) a tagállamok illetékes hatóságainak a közvetlen adózás, a bizonyos jövedéki adók és a biztosítási díjak adózása területén történő kölcsönös segítségnyújtásáról szóló 77/799/EGK tanácsi irányelv, valamint a jövedékiadó-köteles termékekre vonatkozó általános rendelkezésekről és e termékek tartásáról, szállításáról és ellenőrzéséről szóló 92/12/EGK irányelv módosításáról, 1. cikk,
-
-f) a Tanács 904/2010/EU rendelete (2010. október 7.) a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről,
-
-g)
-
-(3) E törvény 60–70. §-ai az adókból, vámokból, illetékekből és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról szóló 2010/24/EU tanácsi irányelvnek való megfelelést szolgálják és az ezen irányelv 26. cikke alapján az Európai Bizottság által elfogadott részletes végrehajtási intézkedésekkel összeegyeztethető szabályozást tartalmaznak.
+(2)–(3)
 
 (4) E törvény 52. § (12) bekezdése, 57. § (9) bekezdése, valamint 7. számú melléklete a következő uniós jogi aktusoknak való megfelelést szolgálják:
 

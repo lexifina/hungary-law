@@ -77,3 +77,5 @@ b) a 2004. január 1-jén, illetve azt követően létrejött vagy teljesült sz
 a) bruttósításra, illetve lejárat előtti visszavásárlásra vonatkozó záradékot tartalmaznak, és
 
 b) a kifizető forrásadót alkalmazó tagállamban bír illetőséggel és az értékpapírból származó kamatot más tagállamban illetőséggel bíró haszonhúzó részére fizeti ki vagy jóváírja.
+
+18. Az állami adóhatóság kormányrendeletben kijelölt szerve a kifizetőtől, illetve az ezzel összefüggésben adatot szolgáltató más személytől beérkező adóadatot a haszonhúzó illetősége szerinti tagállam illetékes hatóságának az adóévet követő év június 20. napjáig továbbítja.
