@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2013-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1990-93-00-00.121 |
 | 2013-03-01 | 2012. évi CCVII. törvény | 1990-93-00-00.122 |
 | 2013-03-26 | 2013. évi XXI. törvény | 1990-93-00-00.123 |
+| 2013-04-21 | 2013. évi XXXVII. törvény | 1990-93-00-00.124 |

@@ -120,4 +120,6 @@ történik a kiállítása;
 
 39. a személyiadat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
 
-40. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi.
+40. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi;
+
+41. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány.
