@@ -1,0 +1,1 @@
+9. § A magyar megkeresett hatóság a spontán információcsere keretében szerzett információ beérkezését az információ beérkezését követő 7 munkanapon belül – ha lehetséges, elektronikus úton – visszaigazolja az információt küldő hatáskörrel rendelkező hatóság részére.
