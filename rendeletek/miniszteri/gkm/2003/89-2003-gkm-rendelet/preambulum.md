@@ -1,1 +1,0 @@
-A bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 35. §-ának (1) bekezdésében, valamint a földgázellátásról szóló 2003. évi XLII. törvény 56. §-a (2) bekezdésének h) pontjában kapott felhatalmazás alapján, figyelemmel a munkavédelemről szóló 1993. évi XCIII. törvény vonatkozó rendelkezéseire a következőket rendelem el:
