@@ -6,15 +6,7 @@
 
 (3) Nem választhatja az adóalanyiságot az a vállalkozás, amelynek adószámát az adóhatóság a bejelentést megelőző két éven belül törölte, vagy ezen időszakban a vállalkozás adószáma jogerősen fel volt függesztve.
 
-(4) Nem választhatja az adóalanyiságot az a vállalkozás, amely az Önálló vállalkozók tevékenységi jegyzéke, illetve a TEÁOR 2008 szerint
-
-a) 66.22 Biztosítási ügynöki, brókeri tevékenység
-
-b) 66.29 Biztosítás, nyugdíjalap egyéb kiegészítő tevékenysége
-
-c) 68.20 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése
-
-besorolású tevékenységből az adóalanyiság választásának évében bevételt szerzett.
+(4) Nem választhatja az adóalanyiságot az a vállalkozás, amely az Önálló vállalkozók tevékenységi jegyzéke, illetve a TEÁOR 2008 szerint 68.20 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése besorolású tevékenységből az adóalanyiság választásának évében bevételt szerzett.
 
 (5) Az állami adóhatóság a kisadózó vállalkozások tételes adója hatálya alá tartozó adózóként történő nyilvántartásba vételről értesítő levélben tájékoztatja a kisadózó vállalkozást. A tájékoztatás tartalmazza különösen
 

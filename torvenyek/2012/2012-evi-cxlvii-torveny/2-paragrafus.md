@@ -68,6 +68,18 @@ d) elengedett követelés és átvállalt tartozás esetében az a nap, amelyen 
 
 18. üzletvezetés helye: a Tao. tv. 4. § 35. pontja szerinti hely;
 
-19. kedvezményezett foglalkoztatott: az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 462/B. § (2) bekezdése, 462/C. §-a és 462/D. §-a szerinti személy;
+19. kedvezményezett foglalkoztatott:
 
-20. kedvezményezett foglalkoztatott munkabére után érvényesíthető kedvezmény: kedvezményezett foglalkoztatottanként a bruttó munkabér havi összege, de legfeljebb személyenként 100 ezer forint a foglalkoztatás első két évében. A kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb 100 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető. E törvény alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+a) az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) 462/B. § (2) bekezdése, 462/C. §-a és 462/D. §-a szerinti személy; és
+
+b) az Eat. 461. §-a és 462/B. § (3) bekezdése szerinti személy;
+
+20. kedvezményezett foglalkoztatott munkabére után érvényesíthető kedvezmény: kedvezményezett foglalkoztatottanként a bruttó munkabér havi összege, de havonta legfeljebb
+
+a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 100 ezer forint a foglalkoztatás első két évében;
+
+b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 50 ezer forint és a foglalkoztatás harmadik évében a 19. pont a) alpontja szerinti foglalkoztatott esetében – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – személyenként 50 ezer forint.
+
+A kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az a) pont szerinti esetben 100 ezer, a b) pont szerinti esetben 50 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető;
+
+21. részmunkaidős foglalkoztatás: az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.

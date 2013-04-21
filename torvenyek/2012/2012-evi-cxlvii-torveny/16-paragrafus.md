@@ -38,6 +38,6 @@ c) az adóévet megelőző két naptári évben adószámát az állami adóhat�
 
 d) üzleti évének mérlegforduló napja december 31.;
 
-e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot.
+e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét.
 
 (3) A (2) bekezdésben meghatározott állományi létszám és bevételi határok számítása során a kapcsolt vállalkozások átlagos statisztikai állományi létszámát és bevételét együttesen, az utolsó beszámolóval lezárt üzleti év adatai alapján kell figyelembe venni.

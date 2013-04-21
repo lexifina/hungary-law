@@ -1,10 +1,10 @@
 ## 13. Az adóalanyiság keletkezése és megszűnése
 
-19. § (1) A kisvállalati adó szerinti adóalanyiság választás állami adóhatósághoz december 31-éig történő bejelentése esetén a bejelentést követő naptári év első napjával jön létre. Az állami adóhatósághoz december 31-ét követően történő bejelentés esetén a kisvállalati adó szerinti adóalanyiság a bejelentés hónapjának első napjától kezdődik. A bejelentést legkorábban az adóévet megelőző év december 1-jétől, legkésőbb az adóév január 15-éig az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+19. § (1) A kisvállalati adó szerinti adóalanyiság a választás állami adóhatósághoz történő bejelentését követő hónap első napjával jön létre. A bejelentést az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A kisvállalati adóalanyiság keletkezése napjával önálló üzleti év kezdődik.
 
 (2) A kisvállalati adó szerinti adóalanyiság – a (4) bekezdésben foglaltak kivételével – azon adóév utolsó napjáig áll fenn, amely adóévben az adóalany az erre a célra rendszeresített nyomtatványon, elektronikus úton bejelenti az állami adóhatósághoz, hogy adókötelezettségeit nem e törvény szabályai szerint teljesíti. A bejelentést legkorábban az adóév december 1-jétől, legkésőbb az adóév december 20-áig lehet megtenni. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(3) Az (1) bekezdés szerinti választás állami adóhatósághoz december 31-éig történő bejelentése a bejelentést követő naptári év január 15-éig, a december 31-ét követően történő bejelentés az adóév január 15-éig az erre a célra rendszeresített nyomtatványon, elektronikus úton visszavonható, azzal, hogy a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A bejelentés visszavonása esetén a kisvállalati adóalanyiság nem jön létre.
+(3) Az (1) bekezdés szerinti választás állami adóhatósághoz történő bejelentése a bejelentés megtételének napjától számított 30 napon belül az erre a célra rendszeresített nyomtatványon, elektronikus úton visszavonható, azzal, hogy a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A bejelentés visszavonása esetén a kisvállalati adóalanyiság nem jön létre.
 
 (4) Nem jogszerű az (1) bekezdés szerinti bejelentés, ha a bejelentés napján az adózónak az állami adó- és vámhatóság által nyilvántartott, végrehajtható adó- és vámtartozása meghaladja az 1 millió forintot.
 

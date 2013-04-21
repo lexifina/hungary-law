@@ -18,7 +18,7 @@ d) az adóelőleg-megállapítási időszakban kifizetett osztalék (ide nem ér
 
 együttes összegének a 16 százaléka.
 
-(5) A (4) bekezdéstől eltérően az adóelőleg összege – az adózó választása esetén – a (4) bekezdés a) és b) pontja szerint megállapított összeg, módosítva az e törvény 20. § (4)–(16) bekezdésében meghatározott – a 20. § (9)–(12) és (16) bekezdése esetében az adóelőleg-megállapítási időszakra jutó arányosított – módosító tételekkel. Ha az adózó valamely adóelőleg-megállapítási időszakban e bekezdés szerint állapítja meg az adóelőleg-fizetési kötelezettségét, akkor az adóelőleg összegét az adóév végéig minden esetben e bekezdés alkalmazásával állapítja meg.
+(5) A (4) bekezdéstől eltérően az adóelőleg összege – az adózó választása esetén – a (4) bekezdés a) és b) pontja szerint megállapított összeg, módosítva az e törvény 20. § (4)–(19) bekezdésében meghatározott – a 20. § (9)–(12) és (16) bekezdése esetében az adóelőleg-megállapítási időszakra jutó arányosított – módosító tételekkel. Ha az adózó valamely adóelőleg-megállapítási időszakban e bekezdés szerint állapítja meg az adóelőleg-fizetési kötelezettségét, akkor az adóelőleg összegét az adóév végéig minden esetben e bekezdés alkalmazásával állapítja meg.
 
 (6) A (4)–(5) bekezdéstől függetlenül az adóelőleg összege legalább az adóelőleg-megállapítási időszakban az adóalany által fizetendő – a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel csökkentett – Tbj. szerint járulékalapot képező összes jövedelem 16 százaléka.
 

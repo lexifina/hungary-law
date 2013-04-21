@@ -12,6 +12,8 @@
 
 (7) Az e törvény szerint meghatározott adóalanyiság időszakában lezárt adóévet figyelembe kell venni az olyan adókedvezmény tekintetében, amelyet az adózó a Tao. tv. rendelkezései szerint meghatározott számú adóévben vehet igénybe.
 
-(8) A kisvállalati adóalanyiság előtt megszerzett immateriális jószág, tárgyi eszköz számított nyilvántartási értéke az e törvény szerinti adóalanyiságot megelőző utolsó adóévben meghatározott Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási érték, csökkentve a kisvállalati adóalanyiság időszakában a 20. § (16) bekezdése alapján a pénzforgalmi szemléletű eredmény csökkentéseként figyelembe vett összeggel.
+(8) A kisvállalati adóalanyiság előtt megszerzett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) számított nyilvántartási értéke az e törvény szerinti adóalanyiságot megelőző utolsó adóévben meghatározott Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási érték, csökkentve a kisvállalati adóalanyiság időszakában a 20. § (16) bekezdése alapján a pénzforgalmi szemléletű eredmény csökkentéseként figyelembe vett összeggel.
 
 (9) E törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 19. § (3) bekezdését az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvény hatálybalépésekor folyamatban lévő bejelentésekre is alkalmazni kell.
+
+(10) Az adózó 27. § szerinti jogutód nélküli megszűnése esetén a bevallás benyújtásának határideje a megszűnés hónapját követő ötödik hónap utolsó napja.

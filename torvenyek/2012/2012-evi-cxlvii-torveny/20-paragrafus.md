@@ -1,6 +1,6 @@
 ## 14. A kisvállalati adó alapja
 
-20. § (1) A kisvállalati adó alapja a (2)–(16) bekezdésre figyelemmel:
+20. § (1) A kisvállalati adó alapja a (2)–(19) bekezdésre figyelemmel:
 
 a) az adózó pénzforgalmi szemléletű eredményének
 
@@ -8,7 +8,7 @@ b) személyi jellegű kifizetésekkel
 
 növelt összege, de legalább a b) pont szerinti összeg.
 
-(2) A III. Fejezet alkalmazásában az adózó pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök tárgyévet megelőző üzleti évben kimutatott összegével, korrigálva a (4)–(16) bekezdés szerinti tételekkel. A kisvállalati adóalanyiság első adóévében a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegben kimutatott összegével, korrigálva a (4)–(16) bekezdés szerinti tételekkel. Az ügyvédi iroda az e rendelkezésben foglaltakat azzal az eltéréssel alkalmazza, hogy nem minősül pénzeszköznek az ügyvédi letétként kezelt pénzeszköz.
+(2) A III. Fejezet alkalmazásában az adózó pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök tárgyévet megelőző üzleti évben kimutatott összegével, korrigálva a (4)–(19) bekezdés szerinti tételekkel. A kisvállalati adóalanyiság első adóévében a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegben kimutatott összegével, korrigálva a (4)–(19) bekezdés szerinti tételekkel. Az ügyvédi iroda az e rendelkezésben foglaltakat azzal az eltéréssel alkalmazza, hogy nem minősül pénzeszköznek az ügyvédi letétként kezelt pénzeszköz.
 
 (3) A III. Fejezet alkalmazásában személyi jellegű kifizetésnek azon személyi jellegű ráfordítás minősül, amely a Tbj. szerint járulékalapot képez az adóévben (ide nem értve a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összegét). A tag esetében személyi jellegű kifizetésként (Tbj. szerint járulékalapot képező összes jövedelemként) a minimálbér 112,5%-át kell figyelembe venni, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb. E bekezdés alkalmazásában
 
@@ -104,4 +104,22 @@ b) a megelőző időszakra vonatkozóan teljesített kiadást, elszámolt bevét
 
 (15) Az adóalap megállapítása során csökkentő tételként kell figyelembe venni az olyan kisvállalati adóalanyiságot megelőző adóévben teljesített kifizetést, amely a kisvállalati adóalanyiság időszakára vonatkozik, és az adóévet megelőző adóévre vonatkozó eredménykimutatásban költségként, ráfordításként nem került elszámolásra.
 
-(16) A kisvállalati adó alanya az e törvény szerint meghatározott adóalanyiság időszaka előtt megszerzett immateriális jószág, tárgyi eszköz Tao. tv. 4. § 31/a. pontja szerinti – a kisvállalati adóalanyiság adóévét megelőző adóévben meghatározott – számított nyilvántartási értékével 10 év alatt, egyenlő részletekben csökkentheti a pénzforgalmi szemléletű eredményét.
+(16) A kisvállalati adó alanya az e törvény szerint meghatározott adóalanyiság időszaka előtt megszerzett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási értékével 10 év alatt, egyenlő részletekben csökkentheti a pénzforgalmi szemléletű eredményét. Amennyiben az e törvény szerint meghatározott adóalanyiság időszaka előtt megszerzett, kifizetett immateriális jószág, tárgyi eszköz (ideértve a beruházást is) 10 éven belül kivezetésre kerül, a pénzforgalmi szemléletű eredmény a könyvekből történő kivezetés adóévében csökkenthető – a kisvállalati adóalanyiság adóévét megelőző adóévben meghatározott – a számított nyilvántartási érték azon részével, amellyel a kisvállalati adó alanya e bekezdés alapján a pénzforgalmi szemléletű eredményt még nem csökkentette.
+
+(17) Amennyiben a kisvállalati adóalanyiság első adóéve zárókészlet állományának értéke nem éri el a kisvállalati adóalanyiságot megelőző adóév zárókészlet állományának értékét, a különbözet összege csökkenti a pénzforgalmi szemléletű eredményt.
+
+(18) A társasági adóalanyiságot megelőzően a kisvállalati adóalanyiság megszűnésének adóévére vonatkozó pénzforgalmi szemléletű eredmény megállapítása során növelő tételként kell figyelembe venni:
+
+a) a kisvállalati adóalanyiság időszakára vonatkozó, be nem folyt bevétel időbelileg elhatárolt összegét,
+
+b) a kisvállalati adóalanyiság időszaka alatt teljesített, időbelileg elhatárolt pénzeszköz kifizetést, amely nem a kisvállalati adóalanyiság időszakára vonatkozik,
+
+c) a kisvállalati adóalanyiság időszaka alatt beszerzett, kifizetett év végén kimutatott készlet értékét.
+
+(19) A társasági adóalanyiságot megelőzően a kisvállalati adóalanyiság megszűnésének adóévére vonatkozó pénzforgalmi szemléletű eredmény megállapítása során csökkentő tételként kell figyelembe venni:
+
+a) a kisvállalati adóalanyiság időszaka alatt befolyt bevétel elhatárolt összegét, amely nem a kisvállalati adóalanyiság időszakára vonatkozik,
+
+b) a kisvállalati adóalanyiság időszakára vonatkozó, időbelileg elhatárolt, ki nem fizetett költség, ráfordítás összegét.
+
+(20) A pénzforgalmi szemléletű eredményt csökkenti az e törvény szerinti adóalanyiság időszakát megelőző időszakra vonatkozó és az adóalanyiság időszaka alatt visszatérített adó.
