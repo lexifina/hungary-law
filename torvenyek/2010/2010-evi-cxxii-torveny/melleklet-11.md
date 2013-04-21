@@ -35,21 +35,3 @@ Minősítési lap
 ## 6. A legutolsó minősítés óta (első minősítés esetén az első minősítés előtt) készült teljesítményértékelések
 
 ## a) időpontjai:
-
-## b) eredményei:
-
-## 7. Szempontok a feltételek és feladatok teljesítésének megítéléséhez [az a–p) pontok mindegyike 1–5-ig pontozandó: Kiemelkedő (5), Átlag feletti (4), Átlagos (3), Átlag alatti (2), Nem kielégítő (1)]
-
-## a) szakmai ismeret és jártasság,
-
-## b) elemzőkészség,
-
-## c) ítélőképesség,
-
-## d) felelősségérzet,
-
-## e) hivatástudat,
-
-## f) szakmai pontosság,
-
-## g) hatékonyság,
