@@ -61,3 +61,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2013-02-25 | 2010-23-30-41.53 | 9/2013. (III. 5.) OGY határozat |
 | 2013-03-01 | 2010-23-30-41.54 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-03-04 | 2010-23-30-41.55 | 13/2013. (III. 7.) OGY határozat |
+| 2013-04-22 | 2010-23-30-41.56 | 26/2013. (IV. 25.) OGY határozat |

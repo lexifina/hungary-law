@@ -866,7 +866,7 @@ Seszták Oszkár (KDNP)[^160]
 
 Tagok:
 
-Kara Ákos (Fidesz)[^161]
+dr. Nyitrai Zsolt (Fidesz)[^161]
 
 Babák Mihály (Fidesz)
 
@@ -1134,7 +1134,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^158]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^159]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
 [^160]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^161]: A 27/2011. (V. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^161]: A 26/2013. (IV. 25.) OGY határozat 1. pontjával megállapított szöveg.
 [^162]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
 [^163]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^164]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
