@@ -1,0 +1,317 @@
+# A Kormány 119/2013. (IV. 23.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 68. szám, 2013. április 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/01695f1f39e024ef368c68c8175bf6b62c62bbb3/dokumentumok/0bd44fefd2954dabaf5188a7d26adc29b8cd8fbc/letoltes)
+
+---
+
+A Kormány 119/2013. (IV. 23.) Korm. rendelete
+a szociális közműszolgáltatás kialakítása érdekében egyes kormányrendeletek módosításáról
+A Kormány
+a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 6., 7., 13., 36., 37. és 46. pontjában,
+a 2. alcím tekintetében a földgázellátásról szóló 2008. évi XL. törvény 132. § 13., 21., 35. és 41. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló
+273/2007. (X. 19.) Korm. rendelet módosítása
+1. §
+A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007.
+(X. 19.) Korm. rendelet (a továbbiakban: VET. Vhr.) a következő 20/A. §-sal egészül ki:
+„20/A. § (1) Ha a VET 40. § (4b) bekezdése szerinti ismételt leolvasás és az időpont- egyeztetés is eredménytelen,
+a hálózati engedélyes köteles a becsült mérőállást megállapítani, valamint 5 napos időtartam megjelölésével
+tértivevényes levélben vagy egyéb igazolható módon a felhasználó figyelmét felhívni a leolvasás legfeljebb
+két hónapon belüli ismételt elvégzésének várható idejére. Az értesítésben megjelölt, az időpont-egyeztetési
+lehetőség során választható leolvasási időpontnak legalább két napon 7 órától 20 óráig tartó időtartamot is kell
+tartalmaznia. Az értesítésnek tartalmaznia kell a hálózati engedélyes időpontegyeztetésre alkalmas elérhetőségét is.
+Az értesítésnek legalább 8 nappal a megjelölt legkorábbi leolvasási időpont előtt a felhasználó rendelkezésére kell
+állnia.
+(2) Ha az (1) bekezdés szerinti értesítés ellenére a felhasználó nem él az időpont-egyeztetés lehetőségével vagy nem
+biztosítja a leolvasás elvégzését, a hálózati engedélyest a leolvasás elmaradásáért nem terheli felelősség.”
+
+2. §
+ A VET. Vhr. „Ügyfélszolgálat” alcíme a következő 23/B. §-sal egészül ki:
+„23/B. § A VET 50/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiség nyitva tartása tekintetében
+az ügyfélszolgálati fiókirodákra vonatkozó rendelkezéseket kell alkalmazni. Ha a VET 50/B. §-a szerinti
+ügyfélforgalom számára nyitva álló helyiséget az egyetemes szolgáltató más szolgáltatóval, közszolgáltatóval vagy
+közfeladatot ellátó jogi személlyel együttműködve tartja fenn és ennek nyitvatartási ideje hosszabb, a VET 50/B. §-a
+szerinti ügyfélforgalom számára nyitva álló helyiséget a hosszabb nyitva tartás szerint kell üzemeltetni.”
+3. §
+ A VET. Vhr. 24. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A VET 47. § (7) bekezdése szerinti kezdeményezést a villamosenergia-kereskedő legkorábban a fizetési
+kötelezettség határidejének lejártát követő 63. napon teheti meg az elosztó felé. A kezdeményezés tartalmazza,
+hogy a lakossági fogyasztó nem rendezte a tartozását és a kikapcsolás végrehajtható.”
+4. §
+ A VET. Vhr. a következő 24/B. §-sal egészül ki:
+„24/B. § A VET 47. § (7b) bekezdése esetén a VET 47. § (7) bekezdés c) pontja szerinti értesítésnek tartalmaznia kell
+a polgári peres vagy fizetési meghagyásos eljárás megindításának lehetőségéről szóló tájékoztatást.”
+5. §
+ A VET. Vhr. 25. § (1) bekezdése helyébe a következő rendelkezés lép, és a 25. § a következő (1a) és (1b) bekezdéssel
+egészül ki:
+„(1) A lakossági fogyasztónak a villamosenergia-kereskedő által kezdeményezett kikapcsolására csak olyan
+időpontban kerülhet sor, amelyről az elosztó a lakossági fogyasztót – legkorábban a VET 47. § (7a) bekezdése
+szerinti második értesítéssel egyidejűleg – előre értesítette. Az értesítésben az elosztó köteles meghatározni azt
+az 5 munkanapot, amely időszakon belül a kikapcsolást a villamosenergia-kereskedő 24. § (3a) bekezdése szerinti
+kezdeményezése esetén végre kívánja hajtani. Az értesítésnek – a villamosenergia-kereskedő által szolgáltatott
+adatok alapján – tételesen tartalmaznia kell a lakossági fogyasztóval szemben fennálló teljes követelést
+jogcímenként összegszerűen, azok eredeti fizetési határidejével együtt, továbbá – nem vagy nem kizárólag
+számlatartozásból eredő követelés esetében – a polgári peres vagy fizetési meghagyásos eljárás megindításának
+időpontját. Az értesítést az elosztó a villamosenergia-kereskedővel együttműködve is teljesítheti.
+(1a) A lakossági fogyasztó elosztó általi (1) bekezdés szerinti értesítése tértivevényes levélben vagy a lakossági
+fogyasztó általi átvétel igazolására alkalmas más módon történik. Ha az értesítés nem kereste jelzéssel érkezik
+vissza, az iratot – ellenkező bizonyításig – a postai kézbesítés megkísérlésének napját követő 10. munkanapon
+kézbesítettnek kell tekinteni.
+(1b) Ha a felhasználóval szemben az elosztónak van követelése, a VET 47. § (7)–(9) bekezdése, 47/A. §-a, valamint
+az (1) bekezdés szerinti rendelkezések az elosztó eljárására megfelelően alkalmazandók.”
+6. §
+ A VET. Vhr. a 27. §-t követően a következő alcímmel és 27/A. §-sal egészül ki:
+„A felhasználók tájékoztatása
+27/A. § (1) Az egyetemes szolgáltató az egyetemes szolgáltatásra jogosult felhasználó villamosenergia-
+fogyasztásával összefüggő, az egyetemes szolgáltatásra jogosult felhasználó által fizetendő éves költségek
+tájékoztató jellegű kiszámítására szolgáló számolási táblát vagy kalkulátort tesz közzé honlapján.
+(2) Az elosztó az egyetemes szolgáltatásra jogosult felhasználó által fizetendő éves villamosenergia-elosztási költségek
+tájékoztató jellegű kiszámítására szolgáló számolási táblát vagy kalkulátort tesz közzé honlapján.”
+7. §
+ A VET. Vhr. „A villamosenergia-ellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok”
+alcíme a 29/D. §-t követően a következő 29/E–29/H. §-sal egészül ki:
+„29/E. § (1) A VET 63/B. §-a, valamint e rendelet 29/E–29/H. §-a és 128/B. §-a alkalmazásában minimális szolgáltatás:
+a) a társasház személyfelvonóinak működőképességéhez szükséges villamosenergia-ellátás és
+b) a társasházi lépcsőházak, valamint az azokhoz tartozó közlekedők világításához szükséges villamosenergia-ellátás
+biztosítása.
+(2) A minimális szolgáltatás biztosítása a társasház kezdeményezése szerinti egybefüggő időszakra, de legfeljebb
+a kikapcsolás tervezett időpontjától számított 6 hónapos időtartamra terjed ki.
+(3) A VET 63/B. § (2) bekezdése szerinti társasház a villamosenergia-kereskedőnél és az elosztónál a minimális
+szolgáltatás biztosítását a társasház közös tulajdonában lévő helyiségei villamosenergia-ellátásból fizetési késedelem
+miatt történő kikapcsolásra és az azzal járó szolgáltatásszüneteltetésre vonatkozó VET 47/A. §-a szerinti közlés
+kézhezvételétől számított 10. napig kezdeményezheti.
+
+(4) A társasház a minimális szolgáltatás igénybevételére vonatkozó kezdeményezésével egyidejűleg igazolja, hogy
+a VET 63/B. § (2) bekezdése szerinti feltételeknek megfelel:
+a) a VET 63/B. § (2) bekezdés a) pontja szerinti társasház esetében
+aa) a társasházban lakó fogyatékkal élő fogyasztó arra vonatkozó nyilatkozatával, amely szerint a védendő fogyasztók
+nyilvántartásában szerepel, vagy
+ab) a társasházban lakó fogyatékkal élő fogyasztó a 33. § (1) bekezdés b) pont ba) alpontja, bb) alpontja vagy
+bc) alpontja szerinti határozattal vagy igazolással,
+b) a VET 63/B. § (2) bekezdés b) pontja szerinti társasház esetében a fizetési meghagyásos eljárás megindítását
+tanúsító dokumentummal.
+(5) A VET 63/B. § (2) bekezdés a) pontja szerinti esetben a minimális szolgáltatást egyidejűleg csak egy társasház
+veheti igénybe ugyanarra a fogyatékkal élő fogyasztóra tekintettel.
+29/F. § (1) Ha a társasház a VET 63/B. §-ában meghatározott feltételeknek megfelel, a villamosenergia-kereskedő és
+az elosztó köteles a minimális szolgáltatást a társasház kezdeményezésében meghatározott időszakra biztosítani.
+(2) A villamosenergia-kereskedő és az elosztó – az egymással történő egyeztetést követően – a minimális szolgáltatás
+igénybevételére irányuló kezdeményezés beérkezésétől számított 5 napon belül közösen értesítik a társasházat, hogy
+a VET 63/B. § (2) bekezdésében meghatározott feltételeknek
+a) megfelel, valamint arról, hogy a VET 63/B. § (1) bekezdése szerinti minimális szolgáltatást a társasház közös
+képviselőjének kezdeményezésében foglalt időszakra biztosítja vagy
+b) nem felel meg és tájékoztatást ad ennek indokáról.
+(3) A (2) bekezdés b) pontja szerinti elutasítás nem akadálya a minimális szolgáltatás igénybevétele ismételt
+kezdeményezésének.
+29/G. § (1) A társasház az elosztóval és a villamosenergia-kereskedővel a minimális szolgáltatás biztosítására
+vonatkozóan megállapodást köt. A megállapodásban a társasház vállalja, hogy a társasház közös tulajdonban lévő
+helyiségei villamosenergia-ellátásával kapcsolatos – a minimális szolgáltatás igénybevételének kezdeményezésékor
+– lejárt tartozását a minimális szolgáltatás kezdő napjától egyenlő részletekben minden hónap utolsó napjáig
+a minimális szolgáltatási időszakot követő legfeljebb 6. hónap végéig teljesíti.
+(2) A villamosenergia-kereskedő és az elosztó a társasházzal az (1) bekezdésben foglaltaktól eltérően is megállapodhat,
+azonban a minimális szolgáltatás biztosítását nem teheti függővé ezen eltérő megállapodás megkötésétől.
+(3) A társasház akkor kezdeményezheti ismételten a minimális szolgáltatás biztosítását, ha a korábbi fizetési
+késedelemből eredő fizetési és a korábbi minimális szolgáltatásból származó kötelezettségeinek maradéktalanul
+eleget tett.
+29/H. § (1) A minimális szolgáltatást biztosító villamosenergia-kereskedő és elosztó a minimális szolgáltatás
+következtében felmerülő költségét nem háríthatja át más felhasználóra. E költségek a villamosenergia-kereskedő
+és az elosztó által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem
+számíthatók be, illetve külön nem számlázhatók ki. E költségek terhét – a társasház számára teljesített, a társasház
+által fizetendő termékértékesítés, villamosenergia-szolgáltatás díja és kamata kivételével – a villamosenergia-
+kereskedő és az elosztó viseli.
+(2) Ha a társasház a minimális szolgáltatás biztosítását a VET-ben és az e rendeletben meghatározottnak megfelelően
+eredményesen kezdeményezte, a villamosenergia-kereskedő vagy az elosztó a társasházzal kötött szerződést fizetési
+késedelemre történő hivatkozással nem mondhatja fel.”
+8. §
+ A VET. Vhr. a 73. §-t követően a következő alcímmel és 73/A. §-sal egészül ki:
+„Közvilágítási üzemeltetési engedély
+73/A. § (1) A közvilágítási üzemeltetési engedély kérelmezőjének rendelkeznie kell a tervezett működési területen
+a közvilágítási berendezések üzemeltetéséhez és közvilágítási kötelezettségek teljesítéséhez szükséges kiszolgáló
+berendezésekkel, létesítményekkel és szakszemélyzettel.
+(2) A közvilágítási üzemeltetési engedély iránti kérelemhez a 25. számú mellékletben meghatározott iratokat kell
+benyújtani.”
+9. §
+ A VET. Vhr. 117. §-a helyébe a következő rendelkezés lép:
+„117. § (1) A Hivatal észrevételezés céljából honlapján 30 napos időtartamra közzéteszi a minőségi mutatók
+megállapítására vonatkozó, hazai és nemzetközi tapasztalatokat figyelembe vevő ajánlását (a továbbiakban:
+szabályozási irányok).
+
+(2) A szabályozási irányokra vonatkozóan érkezett észrevétel esetében vagy szükség szerint a Hivatal – a minőségi
+mutatókat megállapító határozatok kiadását megelőzően – egyeztetést kezdeményez az engedélyesekkel és
+azon energetikai felhasználói érdekképviseleti szervezetekkel, amelyek az Energetikai Érdekegyeztető Tanácsnál
+regisztráltatták magukat.”
+10. §
+A VET. Vhr.„Átmeneti rendelkezések”alcíme a következő 128/B. §-sal egészül ki:
+„128/B. § Az a társasház, amelynek a közös tulajdonában lévő helyiségei a szociális közműszolgáltatás kialakítása
+érdekében egyes kormányrendeletek módosításáról szóló 119/2013. (IV. 23.) Korm. rendelet (a továbbiakban:
+Mód. rendelet) hatálybalépését megelőzően a villamosenergia-ellátásból fizetési késedelem miatt kikapcsolásra
+kerültek, a VET 63/B. §-a szerinti feltételek fennállása esetén a Mód. rendelet hatálybalépését követő 20. napig
+kezdeményezheti a villamosenergia-kereskedőnél és az elosztónál a minimális szolgáltatás igénybevételét.”
+11. §
+A VET. Vhr. a 112. §-t követően a következő 112/A–112/D. §-sal egészül ki:
+„112/A. § A VET 119/A. § (2) bekezdése szerinti műszaki állapotot ötfokozatú skálán kell megadni.
+112/B. § (1) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény szerinti műemlék tulajdonosa a VET
+119/B. §-a szerinti, a műemlék felújítása esetén kezdeményezhető kábelcserét a kábelcsere tervezett időpontját
+legalább 12 hónappal megelőzően írásban bejelenti az elosztó számára.
+(2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell:
+a) a kábelcserével érintett szabadvezetékek, csatlakozó-, kapcsoló- és átalakító-berendezések, valamint a létesítendő
+kábel műszaki rajzát és terveit, valamint
+b) a műemlék felújítási ütemtervét, és ezzel összefüggésben a kábelcsere tervezett időpontját.
+(3) A VET 119/B. § (1) bekezdése szerinti közintézmény vagy sportlétesítmény esetében az elosztó részére történő
+kezdeményezésnek tartalmaznia kell annak a közintézménynek vagy sportlétesítménynek a megnevezését, címét és
+helyrajzi számát, amelyre tekintettel a kábelcserét kezdeményezik.
+112/C. § (1) A VET 119/B. §-a szerinti kábelcsere az érintett épületet magában foglaló telek homlokvonalától
+számított legfeljebb 15 méterig elhelyezkedő VET 3. § 9. pontja szerinti – 132 kV-nál kisebb névleges feszültségű –
+elosztó hálózatra terjedhet ki.
+(2) Az elosztót és a kábelcserét kezdeményező
+a) helyi önkormányzatot vagy
+b) műemlék tulajdonosát
+a kábelcserével összefüggésben együttműködési kötelezettség terheli.
+112/D. § (1) Az elosztó a VET 119/B. § (2) bekezdése szerinti kábelcsere-ütemezési tervet az alábbi szempontok
+alapján állítja össze:
+a) a kábelcserével érintett szabadvezetékek műszaki állapota, beleértve az azon keletkezett, nem tervezett üzemi
+események számát a kábelcsere-ütemezési terv benyújtása előtti három évben,
+b) az egyes kábelcserékkel érintett területek műszaki vagy földrajzi összefüggősége, beleértve az áramkörök, teljes
+transzformátorkörzetek összefüggőségét,
+c) a kábelcsere-beruházásoknak értékcsökkenéshez viszonyított aránya, és
+d) a kábelcserétől az ellátás-minőségi mutatóknak a várható javulása.
+(2) A kábelcsere-ütemezési tervet az elosztó az adott naptári év március 31-éig a VET 119/B. § (2) bekezdése szerinti
+jóváhagyás és felülvizsgálat céljából benyújtja a Hivatalhoz.
+(3) A Hivatal a kábelcsere-ütemezési tervet az (1) bekezdés szerinti, valamint ellátás-biztonsági szempontok
+figyelembevételével vizsgálja. A Hivatal a kábelcsere-ütemezési tervet
+a) jóváhagyja
+b) átrangsorolja vagy
+c) elutasítja.”
+12. §
+A VET. Vhr. 2. számú melléklete az 1. melléklet szerint módosul.
+13. §
+A VET. Vhr. a 2. melléklet szerinti 25. számú melléklettel egészül ki.
+14. §
+A VET. Vhr.
+a) 23/A. § (2) bekezdésében az „ügyfélszolgálatok” szövegrész helyébe az „ügyfélszolgálati iroda, továbbá
+ügyfélszolgálati fiókiroda”szöveg,
+
+b) 24. § (1) bekezdésében a„(7) bekezdésében”szövegrész helyébe a„(7)–(7b) bekezdésében”szöveg,
+c) 54. § (2) bekezdésében az„f)–i) pontjában”szövegrész helyébe az„f)–j) pontjában”szöveg,
+d) 55. §-ában a„h)–i) pontjában”szövegrész helyébe a„h)–j) pontjában”szöveg
+lép.
+15. §
+Hatályát veszti a VET. Vhr. 112. §-át követő az„(A VET 123–124. §-ához)”szövegrész.
+2. A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló
+19/2009. (I. 30.) Korm. rendelet módosítása
+16. §
+A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet
+(a továbbiakban: GET. Vhr.) 24. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A GET 29. § (3b) bekezdése esetén a GET 29. § (3) bekezdés c) pontja szerinti értesítésnek tartalmaznia kell
+a polgári peres vagy fizetési meghagyásos eljárás megindításának lehetőségéről szóló tájékoztatást.”
+17. §
+A GET. Vhr. 24. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A GET 29. § (3) bekezdése szerinti kezdeményezést a földgázkereskedő legkorábban a fizetési kötelezettség
+határidejének lejártát követő 63. napon teheti meg a földgázelosztó felé. A kezdeményezés tartalmazza, hogy
+a lakossági fogyasztó nem rendezte a tartozását és a kikapcsolás végrehajtható.”
+18. §
+A GET. Vhr. 25. § (1) bekezdése helyébe a következő rendelkezés lép, és a GET. Vhr. 25. §-a a következő (1a) és
+(1b) bekezdéssel egészül ki:
+„(1) A lakossági fogyasztónak a földgázkereskedő által kezdeményezett kikapcsolására csak olyan időpontban
+kerülhet sor, amelyről a földgázelosztó a lakossági fogyasztót a GET 29. § (3a) bekezdése szerinti második értesítéssel
+egyidejűleg előre értesítette. Az értesítésben a földgázelosztó köteles meghatározni azt az 5 munkanapot, amely
+időszakon belül a kikapcsolást a földgázkereskedő a GET 29. § (3a) bekezdése szerinti kezdeményezése esetén végre
+kívánja hajtani. Az értesítésnek – a földgázkereskedő által szolgáltatott adatok alapján – tételesen tartalmaznia
+kell a lakossági fogyasztóval szemben fennálló teljes követelést jogcímenként összegszerűen, azok eredeti
+fizetési határidejével együtt, továbbá – nem vagy nem kizárólag számlatartozásból eredő követelés esetében
+– a polgári peres vagy fizetési meghagyásos eljárás megindításának időpontját. Az értesítést a földgázelosztó
+a földgázkereskedővel együttműködve is teljesítheti.
+(1a) A lakossági fogyasztó elosztó általi (1) bekezdés szerinti értesítése tértivevényes levélben vagy a lakossági
+fogyasztó általi átvétel igazolására alkalmas más módon történik. Ha az értesítés „nem kereste” jelzéssel érkezik
+vissza, az iratot – ellenkező bizonyításig – a postai kézbesítés megkísérlésének napját követő 10. munkanapon
+kézbesítettnek kell tekinteni.
+(1b) Ha a felhasználóval szemben a földgázelosztónak van követelése, a GET 28/A. § (3) bekezdése, 29. §
+(3)–(6) bekezdése és az (1) bekezdés szerinti rendelkezések az elosztó eljárására megfelelően alkalmazandók.”
+19. §
+A GET. Vhr. „Jelentős piaci erővel rendelkező engedélyes” alcíme az „(A GET 62. §-ához)” szövegrészt követően
+a következő 52. §-sal egészül ki:
+„52. § (1) Az egyetemes szolgáltató az általa ellátott egyetemes szolgáltatásra jogosult felhasználó
+földgázfogyasztásával összefüggő, az egyetemes szolgáltatásra jogosult felhasználó által fizetendő éves költségek
+tájékoztató jellegű kiszámítására szolgáló számolási táblát vagy kalkulátort tesz közzé a honlapján.
+(2) A földgázelosztó az egyetemes szolgáltatásra jogosult felhasználó által fizetendő éves földgázelosztási költségek
+tájékoztató jellegű kiszámítására szolgáló számolási táblát vagy kalkulátort tesz közzé honlapján.”
+20. §
+A GET. Vhr.„Ügyfélszolgálat”alcíme a következő 53/A. §-sal egészül ki:
+„53/A. § A GET 63/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiség nyitva tartása tekintetében
+az ügyfélszolgálati fiókirodákra vonatkozó rendelkezéseket kell alkalmazni. Ha a GET 63/B. §-a szerinti
+ügyfélforgalom számára nyitva álló helyiséget az egyetemes szolgáltató más szolgáltatóval, közszolgáltatóval vagy
+közfeladatot ellátó jogi személlyel együttműködve tartja fenn és ennek nyitvatartási ideje hosszabb, a GET 63/B. §-a
+szerinti ügyfélforgalom számára nyitva álló helyiséget a hosszabb nyitva tartás szerint kell üzemeltetni.”
+
+21. §
+ A GET. Vhr. „Mérés, elszámolás” alcíme a következő 115/B. §-sal egészül ki:
+„115/B. § (1) Ha a GET 100. § (1a) bekezdése szerinti ismételt leolvasás és az időpont- egyeztetés is eredménytelen,
+a földgázelosztó köteles a becsült mérőállást megállapítani, valamint 5 napos időtartam megjelölésével
+tértivevényes levélben vagy egyéb igazolható módon a felhasználó figyelmét felhívni a leolvasás legfeljebb két
+hónapon belüli ismételt elvégzésének várható idejére. Az értesítésben megjelölt, az időpont-egyeztetési lehetőség
+során választható leolvasási időpontnak legalább két napon 7 órától 20 óráig tartó időtartamot is kell tartalmaznia.
+Az értesítésnek tartalmaznia kell a földgázelosztó időpontegyeztetésre alkalmas elérhetőségét is. Az értesítésnek
+legalább 8 nappal a megjelölt legkorábbi leolvasási időpont előtt a felhasználó rendelkezésére kell állnia.
+(2) Ha az (1) bekezdés szerinti értesítés ellenére a felhasználó nem él az időpont-egyeztetés lehetőségével vagy nem
+biztosítja a leolvasás elvégzését, a földgázelosztót a leolvasás elmaradásáért nem terheli felelősség.
+(3) A földgázelosztó köteles a leolvasott vagy az (1) bekezdés szerinti becsléssel megállapított mérőállást a felhasználási
+helyen szerződéssel rendelkező földgázkereskedőnek 3 napon belül átadni.”
+22. §
+ A GET. Vhr. 1. számú melléklete a 3. melléklet szerint módosul.
+3. Záró rendelkezések
+23. §
+ Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+Orbán Viktor s. k.,
+
+miniszterelnök
+1. melléklet a 119/2013. (IV. 23.) Korm. rendelethez
+A VET. Vhr. 2. számú melléklet 14.6. és 14.7. pontja helyébe a következő rendelkezés lép:
+„14.6. A fogyasztásmérő-berendezés cseréje esetén a hálózati engedélyes köteles gondoskodni arról, hogy
+a) ha a fogyasztásmérő-berendezés cseréjére nem a 14.3. vagy 14.4. pont szerint, azonnali beavatkozással kerül sor,
+a csere időpontjáról a felhasználó a 10. alcímben foglaltak szerint értesítést kapjon, és
+b) a régi fogyasztásmérő-berendezés utolsó és az új fogyasztásmérő-berendezés induló állásának leolvasása
+a rendszerhasználó jelenlétében történjen,
+c) a fogyasztásmérő-berendezés műszaki adatai a mérő állásával együtt jegyzőkönyvben kerüljenek rögzítésre, és
+annak egy példánya a rendszerhasználó részére átadásra kerüljön.
+14.7. A leszerelt fogyasztásmérő-berendezés mérőállását és állapotát a hálózati engedélyes jogosult fotótechnikai vagy
+elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési
+idő végéig – elszámoló számlára vonatkozó felhasználói panasz vagy jogvita esetében a jogvita jogerős lezárásáig
+– a hálózati engedélyes köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő-
+berendezést változatlan állapotban megőrizni. A felhasználói panasz vagy jogvita fennállásáról és annak jogerős
+lezárásáról a felhasználót ellátó villamosenergia-kereskedő a hálózati engedélyest tájékoztatja.”
+2. melléklet a 119/2013. (IV. 23.) Korm. rendelethez
+„25. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
+Közvilágítási üzemeltetési engedély iránti kérelemhez benyújtandó dokumentumok
+1.
+Az 54. §-ban meghatározott adatok.
+2.
+A 73/A. § (1) bekezdésében meghatározottakkal történő rendelkezést igazoló dokumentumok.
+3.
+Nyilatkozat arról, hogy a kérelmező rendelkezik a tevékenység gyakorlásához esetlegesen szükséges, más
+jogszabályokban meghatározott, nevére szóló hatósági engedélyekkel.
+
+4. A karbantartásra és az üzemvitelre vonatkozó szabályzat.
+5. Minőségbiztosítási rendszer vagy annak bevezetésének ütemterve.
+6. Annak a területnek a leírása [a közigazgatási területegységek (települések) felsorolásával, szükség esetén
+térképekkel, a kivételek megjelölésével], amely területre vonatkozóan a kérelmező az engedélyt kéri.
+7. A kérelmező és a közvilágításra kötelezett közötti szerződések másolata a mellékletekkel együtt.
+8. A kérelmező által üzemeltetni tervezett közvilágítás leltára a tulajdonviszonyok bemutatásával, ha a 7. pont
+szerinti szerződések vagy azok mellékletei azt nem tartalmazzák.
+9. A kérelmező adott és a következő naptári vagy üzleti évre szóló üzleti terve.”
+3. melléklet a 119/2013. (IV. 23.) Korm. rendelethez
+A GET. Vhr. 1. számú melléklet 11.4. és 11.5. pontja helyébe a következő rendelkezés lép:
+„11.4. A fogyasztásmérő berendezés cseréje esetén a földgázelosztó köteles gondoskodni arról, hogy
+a) ha a fogyasztásmérő berendezés cseréjére nem a 11.2. pont szerint, azonnali beavatkozással kerül sor, a csere
+időpontjáról a felhasználó a 10.3. pontban foglaltak szerint értesítést kapjon,
+b) a régi fogyasztásmérő berendezés utolsó és az új fogyasztásmérő berendezés induló állásának leolvasása
+a felhasználó jelenlétében történjen, és
+c) a fogyasztásmérő berendezés műszaki adatai a mérő állásával együtt jegyzőkönyvben kerüljenek rögzítésre, és
+annak egy példánya a felhasználó részére átadásra kerüljön.
+11.5. A leszerelt fogyasztásmérő berendezés mérőállását és állapotát a földgázelosztó jogosult fotótechnikai vagy
+elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési
+idő végéig – elszámoló számlára vonatkozó felhasználói panasz vagy jogvita esetén a jogvita jogerős lezárásáig –
+a földgázelosztó köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő
+berendezést változatlan állapotban megőrizni. A felhasználói panasz vagy jogvita fennállásról és annak jogerős
+lezárásáról a felhasználót ellátó kereskedő a földgázelosztót tájékoztatja.”
