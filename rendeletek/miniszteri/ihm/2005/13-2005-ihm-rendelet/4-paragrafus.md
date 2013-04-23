@@ -12,17 +12,19 @@ a) a papíralapú dokumentum megnevezése;
 
 b) a papíralapú dokumentum fizikai méretei;
 
-c) a másolatkészítő szervezet megnevezése és a másolatkészítő személy neve;
+c)[^4] a másolatkészítő szervezet elnevezése és – ha a másolatkészítés nem az automatikus másolatkészítés 4/A. §-ban lévő szabályai szerint történik – a másolat képi vagy tartalmi egyezéséért felelős személy neve;
 
 d) a másolatkészítő rendszer, illetve a másolatkészítési szabályzat pontos megnevezése és verziószáma;
 
 e) a másolatkészítés ideje;
 
-f) érvényességi idő, vagy annak jelzése, hogy az érvényességi idő nem meghatározott.
+f)[^5] az irányadó másolatkészítési rend elérhetősége.
 
-(4) A másolaton olyan, legalább fokozott biztonságú elektronikus aláírást kell elhelyezni, amelyre vonatkozóan a hitelesítés-szolgáltató kizárja az álnév használatát, és az álnév használatának kizárása céljából biztosítja, hogy a regisztráció alapjául szolgáló személyazonosság igazolására alkalmas hatósági igazolványban foglalt névvel betű szerint azonos a tanúsítványba foglalt név.
+(3a)[^6] Ha a papír alapú dokumentum tulajdonságai miatt az elektronikus másolat nem tartalmazza a papír alapú dokumentum teljes tartalmát, a (3) bekezdés szerinti metaadatok között azt is fel kell tüntetni, hogy a másolat a készítésének alapjául szolgáló papír alapú dokumentumot mely részében tartalmazza. Az igénylő ilyen rendelkezése esetén a másolatkészítő elektronikus kivonatot is készíthet a papír alapú dokumentumról, a másolaton rögzítve azt, hogy a készített elektronikus kivonat a papír alapú dokumentumot mely részében, a dokumentumba foglalt információtartalmat milyen korlátozásokkal tartalmazza.
 
-(5) Több dokumentumon is elhelyezhető egy elektronikus aláírás, illetőleg egy időbélyegző. Ez esetben a dokumentumok a továbbiakban csak együtt kezelhetők.
+(4)[^7] A másolaton szervezeti aláírást vagy olyan, legalább fokozott biztonságú elektronikus aláírást kell elhelyezni, amelyre vonatkozóan a hitelesítés-szolgáltató kizárja az álnév használatát, és az álnév használatának kizárása céljából biztosítja, hogy a regisztráció alapjául szolgáló személyazonosság igazolására alkalmas hatósági igazolványban foglalt névvel betű szerint azonos a tanúsítványba foglalt név.
+
+(5)[^8] Több dokumentumon is elhelyezhető egy elektronikus aláírás, illetőleg egy időbélyegző, valamint a (3) bekezdés szerinti metaadatok több dokumentumon együttesen is elhelyezhetőek. Ez esetben a dokumentumok a továbbiakban csak együtt kezelhetők.
 
 (6) Az aláírónak külön jogszabályban meghatározott követelmények szerint gondoskodnia kell az elhelyezett aláírás érvényességének érvényességi időn belüli – ha az érvényességi idő nem meghatározott, úgy korlátlan ideig történő – folyamatos megállapíthatóságáról.
 
@@ -31,3 +33,15 @@ f) érvényességi idő, vagy annak jelzése, hogy az érvényességi idő nem m
 (8) A másolatkészítőnek rendelkeznie kell a másolatkészítő személy külön jogszabályban meghatározott hozzájárulásával, amelyben a másolatkészítő személy e §-ban meghatározott személyes adatainak a másolatkészítés céljára történő kezelését engedélyezi.
 
 (9) A másolatkészítőnek rendelkeznie kell a másolatkészítő rendszer olyan részletességű dokumentációjával, amelyből a rendszerrel szemben e rendeletben megállapított követelmények teljesülése megállapítható, vagy a rendszer gyártója/forgalmazója által kiállított, a megfelelésre vonatkozó igazolással.
+
+(10)[^9] A másolatkészítőnek rendelkeznie kell a másolatkészítés eljárási és műszaki feltételeit, valamint a kapcsolódó felelősségi kérdéseket tartalmazó másolatkészítési renddel. A másolatkészítő a másolatkészítési rendet nyilvánosan, elektronikus úton közzéteszi.
+
+(11)[^10] Az elektronikus másolatot olyan dokumentumformátumban kell létrehozni, ami lehetővé teszi a hiteles elektronikus másolat jogszabályban meghatározott módon történő hosszú távú megőrzését.
+
+[^4]: A 4. § (3) bekezdés c) pontja a 14/2013. (IV. 15.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (3) bekezdés f) pontja a 14/2013. (IV. 15.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § (3a) bekezdését a 14/2013. (IV. 15.) NFM rendelet 3. § (3) bekezdése iktatta be.
+[^7]: A 4. § (4) bekezdése a 14/2013. (IV. 15.) NFM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^8]: A 4. § (5) bekezdése a 14/2013. (IV. 15.) NFM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. § (10) bekezdését a 14/2013. (IV. 15.) NFM rendelet 3. § (5) bekezdése iktatta be.
+[^10]: A 4. § (11) bekezdését a 14/2013. (IV. 15.) NFM rendelet 3. § (5) bekezdése iktatta be.

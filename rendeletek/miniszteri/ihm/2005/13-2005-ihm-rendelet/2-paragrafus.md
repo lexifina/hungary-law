@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya kiterjed a papíralapú közokiratról, papíralapú teljes bizonyító erejű magánokiratról és papíralapú számviteli bizonylatról történő elektronikus másolat készítésére.
+## 1. §[^2] E rendelet hatálya kiterjed a papíralapú közokiratról, papíralapú teljes bizonyító erejű magánokiratról, papíralapú magánokiratról és papíralapú számviteli bizonylatról történő elektronikus másolat készítésére.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -16,4 +16,9 @@ f) képi megfelelés: az elektronikus másolat azon tulajdonsága, amely biztos�
 
 g) másolatkészítő rendszer: a másolatkészítés során alkalmazott hardver, szoftver, valamint ezek együttese;
 
-h) tartalmi megfelelés: az elektronikus másolat azon tulajdonsága, amely szerint az – a hozzá kapcsolódó metaadatokkal együttesen – biztosítja a papíralapú dokumentum – a joghatás kiváltása szempontjából lényeges – tartalmi elemeinek megismerhetőségét, de nem biztosítja a képi megfelelést.
+h) tartalmi megfelelés: az elektronikus másolat azon tulajdonsága, amely szerint az – a hozzá kapcsolódó metaadatokkal együttesen – biztosítja a papíralapú dokumentum – a joghatás kiváltása szempontjából lényeges – tartalmi elemeinek megismerhetőségét, de nem biztosítja a képi megfelelést;
+
+i)[^3] szervezeti aláírás: olyan, legalább fokozott biztonságú elektronikus aláírás, amelynek aláírója jogi személy vagy közhiteles nyilvántartásban szereplő jogi személyiség nélküli szervezet.
+
+[^2]: Az 1. § a 14/2013. (IV. 15.) NFM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § i) pontját a 14/2013. (IV. 15.) NFM rendelet 2. §-a iktatta be.
