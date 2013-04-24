@@ -1,3 +1,0 @@
-54. § (1) Ha 1 évnél régebben záradékolt, és a változások előzetes nyilvántartásából már törtölt változásról készített változási vázrajz újrazáradékolását kérik, és a záradékolásnak egyéb akadálya nincs, a változást újból záradékolni kell, és ezzel egyidejűleg ismételten fel kell venni az előzetes változások nyilvántartásába.
-
-(2) Ha a földhivatal azt állapítja meg, hogy felmérési, térképezési vagy területszámítási hibával terhelt változási vázrajzot záradékolt, akkor a záradékot hatályon kívül kell helyezni. Ha a hibás vázrajz alapján már az ingatlan-nyilvántartási átvezetés megtörtént, akkor az Fttv. 11. § (7) bekezdése szerint kell eljárni.
