@@ -6,11 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. visszavonja
-
-## a) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1551/2012. (XII. 4.) Korm. határozatot, és
-
-## b) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterv 1–3. prioritásának megállapításáról szóló 1702/2012. (XII. 29.) Korm. határozatot.
+## 3.[^1]
 
 1. melléklet az 1235/2013. (IV. 23.) Korm. határozathoz
 
@@ -429,3 +425,5 @@ Az 1.2.0 konstrukció 4,90 Mrd Ft túlvállalást tartalmaz.
 | 8.1.2. | Az OP lebonyolításával kapcsolatos specifikus feladatok ellátása | 0,002 | 0,732 | 0,000 | Az OP lebonyolításával kapcsolatos specifikus feladatok ellátása | NFM | _ |
 
 | 8. | Prioritás | 3,02 | 0,93 | 3,00 |  |  |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
