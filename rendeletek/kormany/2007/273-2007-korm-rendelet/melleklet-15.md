@@ -34,6 +34,6 @@
 
 ## c) a VET 86. § (5) bekezdése szerinti közcélúvá nyilvánítással kerül biztosításra.
 
-15. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^358]
+15. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^380]
 
-[^358]: A Vhr. 15. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.
+[^380]: A Vhr. 15. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.

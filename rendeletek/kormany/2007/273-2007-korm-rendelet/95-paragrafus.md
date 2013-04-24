@@ -1,4 +1,4 @@
-95. §[^264] (1) A megfelelési ellenőr a megfelelési jelentést naptári évenként készíti el, és azt az adott naptári évet követő év március 1-jéig jóváhagyásra benyújtja a Hivatalnak.
+95. §[^281] (1) A megfelelési ellenőr a megfelelési jelentést naptári évenként készíti el, és azt az adott naptári évet követő év március 1-jéig jóváhagyásra benyújtja a Hivatalnak.
 
 (2) A megfelelési jelentés a vertikálisan integrált villamosenergia-ipari vállalkozáson belül nem képezheti jóváhagyás tárgyát.
 
@@ -26,4 +26,4 @@ j) az önálló vállalati arculat, a vertikálisan integrált villamosenergia-i
 
 (4) Megtévesztő vagy valótlan információk közlése esetén a Hivatal a megfelelési jelentés jóváhagyását elutasítja és a hálózati engedélyessel szemben a VET 96. § (1) bekezdése szerinti jogkövetkezményeket alkalmazza.
 
-[^264]: A Vhr. 95. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^281]: A Vhr. 95. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
