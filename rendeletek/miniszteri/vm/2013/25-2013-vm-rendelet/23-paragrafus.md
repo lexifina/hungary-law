@@ -1,0 +1,3 @@
+23. § (1) Eredeti területszámítási hiba esetén a változás előtti és utáni területösszegek eltérhetnek. Ezekben az esetekben a közigazgatási egység terület elszámolását el kell készíteni.
+
+(2) A területszámítás során a változással meghatározott vonalpontokat töréspontként kell kezelni. A vonalponttal érintett, de egyébként nem változó földrészleteket geometriai változással érintett objektumnak kell tekinteni. A területszámításba az ilyen alakzatot is be kell vonni, és a változás előtti, valamint a változás utáni kerekített műszaki területüknek négyzetméterre egyezniük kell. A változási vázrajz területkimutatásába ezeket a földrészleteket nem kell felvenni, de a nyilvántartott területre új vonalpont felvételével vagy törlésével rá kell állni.

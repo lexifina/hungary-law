@@ -1,0 +1,9 @@
+## 33. §[^2]
+
+34. § (1) Az ingatlan-nyilvántartásba már korábban bejegyzett egyéb önálló ingatlanban (a továbbiakban: EÖI) történő időközi és építési engedély köteles változás (átépítés) átvezetéséhez, valamint az ingatlan-nyilvántartásba bejegyezhető jogok és jogilag jelentős tények ábrázolásához az Fttv. 23. § (1) bekezdés e) pontjában meghatározott változási vázrajzot kell készíttetni.
+
+(2) Az (1) bekezdés szerinti változás esetén az alaprajzot csak a változással érintett teljes tulajdonrészek (lakások) vonatkozásában kell digitálisan elkészíteni úgy, hogy az adott épületszinten történő beazonosíthatósága (lakásszám, egyedi azonosító) egyértelmű legyen.
+
+(3) A járási földhivatal által vizsgált változási vázrajzot – az ingatlan-nyilvántartásban történő átvezetés céljából – a módosított alapító okirathoz mellékelten papír alapon és digitális formában is be kell nyújtani a járási földhivatalhoz.
+
+[^2]: A 33. § a 61. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
