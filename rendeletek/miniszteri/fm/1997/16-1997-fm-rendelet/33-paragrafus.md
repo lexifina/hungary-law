@@ -1,4 +1,4 @@
-## 32. § A minőségbiztosításra vonatkozó szabványoknak megfelelő minőségbiztosítási rendszer kialakításáig – a 31. §-ban foglaltak értelemszerű alkalmazásával – a szakmai szabályzatokban meghatározott minőségi követelményeket kell betartani.
+## 31–32. §[^30]
 
 ## A sajátos célú földmérési és térképészeti tevékenység
 
@@ -9,3 +9,5 @@
 (3) Az Fttv. 16. § (4) bekezdésében foglalt munkarészeket a földhivatal megvizsgálja, és az állami alapadatok közé történő beillesztésükről saját hatáskörében dönt.
 
 (4) A sajátos célú földmérési és térképészeti munkák során keletkezett munkarészek egy példányát a munkát végző tíz évig köteles megőrizni.
+
+[^30]: A 31–32. §-t a 25/2013. (IV. 16.) VM rendelet 63. § (1) bekezdés e) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 62. §-át.

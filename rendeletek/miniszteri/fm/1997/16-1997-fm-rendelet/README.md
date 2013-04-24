@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-16-20-1
 | 2009-03-01 | 1997-16-20-11.6 | 16/1997. (III. 5.) FM rendelet |
 | 2010-05-05 | 1997-16-20-11.7 | 46/2010. (IV. 27.) FVM rendelet |
 | 2013-03-19 | 1997-16-20-11.8 | 15/2013. (III. 11.) VM rendelet |
+| 2013-04-24 | 1997-16-20-11.9 | 25/2013. (IV. 16.) VM rendelet |
