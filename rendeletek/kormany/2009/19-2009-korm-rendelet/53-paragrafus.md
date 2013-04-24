@@ -2,54 +2,54 @@
 
 ## Ügyfélszolgálat
 
-53. §[^151] (1)[^152]
+53. §[^157] (1)[^158]
 
 (2) Az állandó ügyfélszolgálati iroda a hét minden munkanapján legalább napi 6 órás, és – 5 munkanapos hetet alapul véve – legalább heti 36 órás nyitvatartással üzemel. Az állandó ügyfélszolgálati irodán kötelező az elektronikus ügyfélhívó rendszer alkalmazása, valamint készpénzátutalási megbízás rendelkezésre tartása és a bankkártyás fizetési lehetőség biztosítása.
 
-(3)[^153] Az ügyfélszolgálati fiókiroda legalább heti két munkanapon, összesen legalább heti 8 órás nyitvatartással üzemel. Az engedélyes köteles az ügyfélszolgálati fiókirodában a helyben rendelkezésre álló információk alapján az üzletszabályzatban meghatározott ügytípusokba tartozó ügyeket helyben elintézni, bankkártyás fizetési lehetőséget biztosítani, készpénzátutalási megbízást rendelkezésre tartani. Az ügyfélszolgálati fiókirodában nem elintézhető ügyeket az engedélyes köteles igazoltan nyilvántartásba venni és gondoskodni azok intézéséről.
+(3)[^159] Az ügyfélszolgálati fiókiroda legalább heti két munkanapon, összesen legalább heti 8 órás nyitvatartással üzemel. Az engedélyes köteles az ügyfélszolgálati fiókirodában a helyben rendelkezésre álló információk alapján az üzletszabályzatban meghatározott ügytípusokba tartozó ügyeket helyben elintézni, bankkártyás fizetési lehetőséget biztosítani, készpénzátutalási megbízást rendelkezésre tartani. Az ügyfélszolgálati fiókirodában nem elintézhető ügyeket az engedélyes köteles igazoltan nyilvántartásba venni és gondoskodni azok intézéséről.
 
-(4)[^154] Az egyetemes szolgáltatásra jogosult felhasználót ellátó földgázkereskedő
+(4)[^160] Az egyetemes szolgáltatásra jogosult felhasználót ellátó földgázkereskedő
 
 a) abban a régióban, amelyben az általa ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 15 000-et, állandó ügyfélszolgálati irodát működtet azon a településen, ahol a legtöbb egyetemes szolgáltatásra jogosult felhasználót látja el, és
 
 b) abban a régióban, amelyben az általa ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 45 000-et – az a) pont szerinti állandó ügyfélszolgálati iroda mellett – ügyfélszolgálati fiókirodát működtet azon a településen, ahol a második legtöbb egyetemes szolgáltatásra jogosult felhasználót látja el.
 
-(5)[^155] Az egyetemes szolgáltató a GET 63. § (5) bekezdése szerint az olyan járásban, ahol megyei jogú város található, a megyei jogú városban, valamint a fővárosban állandó ügyfélszolgálati irodát működtet. Minden más járásban az egyetemes szolgáltató fiókirodát működtet azon a településen, ahol a legtöbb egyetemes szolgáltatásra jogosultat látja el.
+(5)[^161] Az egyetemes szolgáltató a GET 63. § (5) bekezdése szerint az olyan járásban, ahol megyei jogú város található, a megyei jogú városban, valamint a fővárosban állandó ügyfélszolgálati irodát működtet. Minden más járásban az egyetemes szolgáltató fiókirodát működtet azon a településen, ahol a legtöbb egyetemes szolgáltatásra jogosultat látja el.
 
-(5a)[^156] Ha a településen – a főváros kivételével – jogszabály állandó ügyfélszolgálati iroda és ügyfélszolgálati fiókiroda működtetését is előírja, az egyetemes szolgáltató kizárólag az állandó ügyfélszolgálati irodát köteles működtetni.
+(5a)[^162] Ha a településen – a főváros kivételével – jogszabály állandó ügyfélszolgálati iroda és ügyfélszolgálati fiókiroda működtetését is előírja, az egyetemes szolgáltató kizárólag az állandó ügyfélszolgálati irodát köteles működtetni.
 
-(5b)[^157] A fővárosban egy állandó ügyfélszolgálati irodára legfeljebb 100 000 egyetemes szolgáltatásra jogosult felhasználó juthat.
+(5b)[^163] A fővárosban egy állandó ügyfélszolgálati irodára legfeljebb 100 000 egyetemes szolgáltatásra jogosult felhasználó juthat.
 
-(6)[^158]
+(6)[^164]
 
-(7)[^159] Az ügyfélszolgálati fiókiroda működési területén lévő felhasználási hellyel rendelkező egyetemes szolgáltatásra jogosult felhasználó jogosult az állandó ügyfélszolgálati irodában történő ügyintézésre is.
+(7)[^165] Az ügyfélszolgálati fiókiroda működési területén lévő felhasználási hellyel rendelkező egyetemes szolgáltatásra jogosult felhasználó jogosult az állandó ügyfélszolgálati irodában történő ügyintézésre is.
 
-(8)[^160] Az ügyfélszolgálatokon kötelezően végzendő tevékenységek körét, a nyitvatartási időre és a tevékenységek végzésére vonatkozó részletes minőségi követelményeket, a szolgáltatás elvárt színvonalát a Hivatal – az üzletszabályzatok keretei között – állapítja meg.
+(8)[^166] Az ügyfélszolgálatokon kötelezően végzendő tevékenységek körét, a nyitvatartási időre és a tevékenységek végzésére vonatkozó részletes minőségi követelményeket, a szolgáltatás elvárt színvonalát a Hivatal – az üzletszabályzatok keretei között – állapítja meg.
 
-(8a)[^161] Az egyetemes szolgáltató azokban a megyei jogú városokban és a fővárosban, ahol az általa ellátott egyetemes szolgáltatásra jogosult felhasználóknak nincs nyilvántartott felhasználási helye, nem köteles ügyfélszolgálati irodát fenntartani.
+(8a)[^167] Az egyetemes szolgáltató azokban a megyei jogú városokban és a fővárosban, ahol az általa ellátott egyetemes szolgáltatásra jogosult felhasználóknak nincs nyilvántartott felhasználási helye, nem köteles ügyfélszolgálati irodát fenntartani.
 
-(8b)[^162] Ha az egyetemes szolgáltató új szolgáltatási területre kap engedélyt, az új szolgáltatási területen ügyfélszolgálatot akkor kell létesítenie, ha az általa ellátott felhasználók száma az új szolgáltatási területen az 500-at meghaladja.
+(8b)[^168] Ha az egyetemes szolgáltató új szolgáltatási területre kap engedélyt, az új szolgáltatási területen ügyfélszolgálatot akkor kell létesítenie, ha az általa ellátott felhasználók száma az új szolgáltatási területen az 500-at meghaladja.
 
-(9)[^163] A Hivatal az árszabályozás során kizárólag a kötelezően létrehozott ügyfélszolgálati iroda működési költségeit ismeri el.
+(9)[^169] A Hivatal az árszabályozás során kizárólag a kötelezően létrehozott ügyfélszolgálati iroda működési költségeit ismeri el.
 
 (10) Az ügyfélforgalmi adatokat az egyetemes szolgáltató köteles rögzíteni.
 
-(11)[^164] A földgázelosztó és az egyetemes szolgáltató megállapodása esetén a földgázelosztói ügyfélszolgálat az egyetemes szolgáltatói ügyfélszolgálattal közös helyiségben is működtethető.
+(11)[^170] A földgázelosztó és az egyetemes szolgáltató megállapodása esetén a földgázelosztói ügyfélszolgálat az egyetemes szolgáltatói ügyfélszolgálattal közös helyiségben is működtethető.
 
-(12)[^165] Közös helyiségben működtetett elosztó hálózati és egyetemes szolgáltatói ügyfélszolgálat esetén az ügyfelek számára az egyes jogviszonyokkal összefüggő önálló ügyintézés lehetőségét biztosítani kell.
+(12)[^171] Közös helyiségben működtetett elosztó hálózati és egyetemes szolgáltatói ügyfélszolgálat esetén az ügyfelek számára az egyes jogviszonyokkal összefüggő önálló ügyintézés lehetőségét biztosítani kell.
 
-[^151]: A Vhr. 53. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^152]: A Vhr. 53. § (1) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
-[^153]: A Vhr. 53. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^154]: A Vhr. 53. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^155]: A Vhr. 53. § (5) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított és a 414/2012. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^156]: A Vhr. 53. § (5a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdése iktatta be.
-[^157]: A Vhr. 53. § (5b) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdése iktatta be.
-[^158]: A Vhr. 53. § (6) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
-[^159]: A Vhr. 53. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (5) bekezdése szerint módosított szöveg.
-[^160]: A Vhr. 53. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^161]: A Vhr. 53. § (8a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (2) bekezdése iktatta be.
-[^162]: A Vhr. 53. § (8b) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (2) bekezdése iktatta be.
-[^163]: A Vhr. 53. § (9) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (3) bekezdésével megállapított szöveg.
-[^164]: A Vhr. 53. § (11) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (4) bekezdésével megállapított szöveg.
-[^165]: A Vhr. 53. § (12) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^157]: A Vhr. 53. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^158]: A Vhr. 53. § (1) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^159]: A Vhr. 53. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^160]: A Vhr. 53. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^161]: A Vhr. 53. § (5) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított és a 414/2012. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^162]: A Vhr. 53. § (5a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdése iktatta be.
+[^163]: A Vhr. 53. § (5b) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdése iktatta be.
+[^164]: A Vhr. 53. § (6) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^165]: A Vhr. 53. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (5) bekezdése szerint módosított szöveg.
+[^166]: A Vhr. 53. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^167]: A Vhr. 53. § (8a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^168]: A Vhr. 53. § (8b) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^169]: A Vhr. 53. § (9) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (3) bekezdésével megállapított szöveg.
+[^170]: A Vhr. 53. § (11) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (4) bekezdésével megállapított szöveg.
+[^171]: A Vhr. 53. § (12) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 17. §-ával megállapított szöveg.

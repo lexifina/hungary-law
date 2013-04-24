@@ -1,6 +1,6 @@
 ## Informatikai rendszer fejlesztése, üzemeltetése
 
-104. §[^328] (1) A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
+104. §[^335] (1) A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
 
 a) biztosítsa a felhasználók kapacitásainak nyilvántartását,
 
@@ -10,15 +10,15 @@ c) biztosítsa a kapacitások másodlagos kereskedelmének nyilvántartását é
 
 d) fogadja az ÜKSZ szerint teljesített nominálásokat,
 
-e)[^329] biztosítsa, hogy a rendszerhasználók a gáznapon a szállítási rendszerüzemeltetőtől az ÜKSZ-ben meghatározott esetekben és időpontokban valós tartalmú információt kapjanak a földgázforgalmukról,
+e)[^336] biztosítsa, hogy a rendszerhasználók a gáznapon a szállítási rendszerüzemeltetőtől az ÜKSZ-ben meghatározott esetekben és időpontokban valós tartalmú információt kapjanak a földgázforgalmukról,
 
-f)[^330] biztosítsa, hogy a rendszerhasználók elszámolása az egyensúlyozó platformon az ÜKSZ-ben lefektetett időpontokban megtörténjen,
+f)[^337] biztosítsa, hogy a rendszerhasználók elszámolása az egyensúlyozó platformon az ÜKSZ-ben lefektetett időpontokban megtörténjen,
 
 g) lehetővé tegye a kapacitás túllépések dokumentálását.
 
 (2) A rendszerüzemeltető informatikai rendszerének alkalmasnak kell lennie továbbá a gáznapi forgalom rendszerhasználók szerinti tényleges felosztásához kapcsolódó informatikai feladatok lebonyolítására. A rendszer kialakításánál figyelemmel kell lenni a felhasználói profilok ÜKSZ szerinti változásának folyamatos kezelésére.
 
-(3)[^331] A szállítási rendszerirányító – a rendszerüzemeltetőkkel együttműködve – az ÜKSZ-ben meghatározott módon köteles meghatározni, felülvizsgálni és nyilvánossá tenni az együttműködő informatikai rendszerrel szemben elvárt
+(3)[^338] A szállítási rendszerirányító – a rendszerüzemeltetőkkel együttműködve – az ÜKSZ-ben meghatározott módon köteles meghatározni, felülvizsgálni és nyilvánossá tenni az együttműködő informatikai rendszerrel szemben elvárt
 
 a) műszaki paramétereket,
 
@@ -28,7 +28,7 @@ c) az adatforgalom biztonsági követelményeit.
 
 (4) Az informatikai elvárásokat a rendszerüzemeltetők és a rendszerhasználók kötelesek az ÜKSZ-ben előírt módon biztosítani.
 
-[^328]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^329]: A Vhr. 104. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
-[^330]: A Vhr. 104. § (1) bekezdés f) pontja a 99/2013. (III. 30.) Korm. rendelet 3. § 7. pontja szerint módosított szöveg.
-[^331]: A Vhr. 104. § (3) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
+[^335]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^336]: A Vhr. 104. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
+[^337]: A Vhr. 104. § (1) bekezdés f) pontja a 99/2013. (III. 30.) Korm. rendelet 3. § 7. pontja szerint módosított szöveg.
+[^338]: A Vhr. 104. § (3) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.

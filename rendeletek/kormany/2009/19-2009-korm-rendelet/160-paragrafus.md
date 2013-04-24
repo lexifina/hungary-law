@@ -1,3 +1,3 @@
-160. §[^473]
+160. §[^481]
 
-[^473]: A Vhr. 160. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^481]: A Vhr. 160. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

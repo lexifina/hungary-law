@@ -1,6 +1,6 @@
-## A földgázellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^175]
+## A földgázellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^182]
 
-55/A. §[^176] A GET és e rendelet alkalmazásában közintézményi felhasználó
+55/A. §[^183] A GET és e rendelet alkalmazásában közintézményi felhasználó
 
 a) a közoktatásról szóló törvény szerinti óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda vagy iskola, és az ezekhez tartozó kollégium, ha
 
@@ -26,5 +26,5 @@ da) állami vagy önkormányzati fenntartású, vagy
 
 db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos szerződéssel rendelkezik.
 
-[^175]: A Vhr. 55/A. §-t megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
-[^176]: A Vhr. 55/A. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
+[^182]: A Vhr. 55/A. §-t megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
+[^183]: A Vhr. 55/A. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.

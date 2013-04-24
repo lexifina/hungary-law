@@ -2,7 +2,7 @@
 
 ## Védendő fogyasztókra vonatkozó részletes szabályok
 
-56. §[^180] (1) A GET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek háztartásában élő személy:
+56. §[^187] (1) A GET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek háztartásában élő személy:
 
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
@@ -40,4 +40,4 @@ eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazo
 
 (9) Jogosultságának a GET 66. § (6) bekezdése szerinti ismételt igazolására a szociálisan rászoruló fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
-[^180]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^187]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

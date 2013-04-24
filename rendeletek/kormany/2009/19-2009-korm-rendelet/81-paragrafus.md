@@ -1,3 +1,3 @@
-81. §[^252] A rendszerüzemeltető technológiai célra és a veszteségeik pótlására, pályáztatás útján, átlátható módon köteles földgázt beszerezni.
+81. §[^259] A rendszerüzemeltető technológiai célra és a veszteségeik pótlására, pályáztatás útján, átlátható módon köteles földgázt beszerezni.
 
-[^252]: A Vhr. 81. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+[^259]: A Vhr. 81. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
