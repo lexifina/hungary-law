@@ -1,0 +1,3 @@
+## 20. § A GET. Vhr. „Ügyfélszolgálat” alcíme a következő 53/A. §-sal egészül ki:
+
+## „53/A. § A GET 63/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiség nyitva tartása tekintetében az ügyfélszolgálati fiókirodákra vonatkozó rendelkezéseket kell alkalmazni. Ha a GET 63/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiséget az egyetemes szolgáltató más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tartja fenn és ennek nyitvatartási ideje hosszabb, a GET 63/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiséget a hosszabb nyitva tartás szerint kell üzemeltetni.”

@@ -1,0 +1,3 @@
+## 2. § A VET. Vhr. „Ügyfélszolgálat” alcíme a következő 23/B. §-sal egészül ki:
+
+## „23/B. § A VET 50/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiség nyitva tartása tekintetében az ügyfélszolgálati fiókirodákra vonatkozó rendelkezéseket kell alkalmazni. Ha a VET 50/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiséget az egyetemes szolgáltató más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tartja fenn és ennek nyitvatartási ideje hosszabb, a VET 50/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiséget a hosszabb nyitva tartás szerint kell üzemeltetni.”
