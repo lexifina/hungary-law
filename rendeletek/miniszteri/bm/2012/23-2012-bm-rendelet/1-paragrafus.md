@@ -1,6 +1,6 @@
 ## 1. Általános rendelkezések
 
-1. § (1) E rendelet hatálya a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím 9. Szolidaritási programok alcím 1. Európai Menekültügyi Alap, 2. Integrációs Alap, 3. Visszatérési Alap, és 4. Külső Határok Alap, 5. Szolidaritási programokhoz kapcsolódó technikai költségek, 6. Szolidaritási programokhoz kapcsolódó céltartalék jogcímcsoportok fejezeti kezelésű előirányzatok felhasználására, valamint az ezekből az előirányzatokból származó támogatások felhasználásának pénzügyi lebonyolításában és ellenőrzésében részt vevő szervezetekre és a végső kedvezményezettekre terjed ki.
+1. § (1)[^1] E rendelet hatálya a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím 9. Szolidaritási programok alcím 1. Európai Menekültügyi Alap, 2. Integrációs Alap, 3. Visszatérési Alap, 4. Külső Határok Alap, 5. Szolidaritási programokhoz kapcsolódó technikai költségek és 6. Szolidaritási programokhoz kapcsolódó céltartalék jogcímcsoportok fejezeti kezelésű előirányzatai felhasználására, valamint az ezekből az előirányzatokból nyújtott költségvetési támogatások felhasználásának pénzügyi lebonyolításában és ellenőrzésében részt vevő szervezetre és a költségvetési támogatás végső kedvezményezettjére terjed ki.
 
 (2) E rendelet szerinti előirányzatokból nyújtott támogatások végső kedvezményezettje lehet
 
@@ -33,3 +33,5 @@ m) nemzetközi szervezet,
 n) kormányközi szervezet és
 
 o) gazdasági társaság abban az esetben, ha az általa végrehajtott projektet nonprofit módon hajtja végre.
+
+[^1]: Az 1. § (1) bekezdése a 12/2013. (IV. 23.) BM rendelet 1. §-ával megállapított szöveg.

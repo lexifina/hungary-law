@@ -12,7 +12,7 @@ bb) költségvetési szerv esetében a költségvetési szerv írásbeli nyilatk
 
 bc) egyházak és intézményeik, az alapítványok és intézményeik, közalapítványok és intézményeik, nonprofit gazdasági társaságok, köztestületek, valamint egyesületek esetében a végső kedvezményezett írásbeli nyilatkozata arról, hogy ha a projekt részben vagy egészben meghiúsul, vagy ha a támogatást szabálytalanul használja fel, akkor a támogatást intézkedés szerint visszafizeti, és tudomásul veszi, hogy ennek elmulasztása esetén annak összege a számára a központi költségvetésből biztosított támogatásból levonásra kerül,
 
-bd) a végső kedvezményezett írásbeli nyilatkozata arról, hogy vele szemben – nyilatkozattételkor – az államháztartásról szóló 2011. évi CXCV. törvény szerinti támogatási rendszerből való kizárás hatálya nem áll fenn.
+bd)[^20] a végső kedvezményezett írásbeli nyilatkozata arról, hogy vele szemben – nyilatkozattételkor – az államháztartásról szóló törvény szerinti támogatási rendszerből való kizárás hatálya nem áll fenn.
 
 (2) A beszedési megbízás benyújtására való felhatalmazás adására kötelezett végső kedvezményezett köteles valamennyi, Magyarországon vezetett fizetési számlája számát közölni és – felhatalmazó levél útján – valamennyi fizetési számlája tekintetében beszedési megbízás érvényesítésének jogára felhatalmazni a Felelős Hatóságot, figyelembe véve az (1) bekezdés a) pontjában foglaltakat.
 
@@ -21,3 +21,5 @@ bd) a végső kedvezményezett írásbeli nyilatkozata arról, hogy vele szemben
 (4) A végső kedvezményezett köteles írásban nyilatkozni arról, hogy nem áll fenn olyan harmadik személy irányában fennálló kötelezettség, amely a támogatással létrejött projekt céljának megvalósulását meghiúsíthatja, és amely a végső kedvezményezett biztosítékadását korlátozza. A végső kedvezményezett ilyen korlátozás hiányáról és a harmadik személy hozzájárulásának megadásáról a szerződésben vagy külön nyilatkozatban köteles nyilatkozni.
 
 (5) A támogatási összeg – ideértve az előleget is – első folyósítása csak akkor engedélyezhető, ha a biztosítékok a szerződésben foglaltak szerint rendelkezésre állnak.
+
+[^20]: Az 57. § (1) bekezdés b) pont bd) alpontja a 12/2013. (IV. 23.) BM rendelet 12. §-a szerint módosított szöveg.

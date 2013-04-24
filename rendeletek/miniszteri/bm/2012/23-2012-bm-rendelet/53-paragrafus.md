@@ -2,7 +2,7 @@
 
 53. § (1) A szabálytalansági eljárással érintett végső kedvezményezett, akire nézve a szabálytalansági döntés a támogatási jogviszonyból származó jogokat vagy kötelezettségeket állapít meg, módosít, illetve megszüntet, a szabálytalansági döntés ellen jogorvoslattal élhet, ha a döntés jogszabálysértő, támogatási szerződésbe vagy pályázati útmutatóba ütközik.
 
-(2) A jogorvoslati kérelmet a szabálytalansági döntés közlésétől számított 5 napon belül az indokok megjelölésével írásban kell előterjeszteni a Felelős Személynél, aki haladéktalanul továbbítja a miniszter részére a szabálytalansági eljárás irataival együtt. A szabálytalansági eljárás során hozott döntésben meghatározott intézkedésekre és korrekcióra vonatkozó döntés végrehajtását a jogorvoslati eljárás lezárásáig, illetve megszüntetéséig a miniszter felfüggesztheti.
+(2)[^18] A jogorvoslati kérelmet a szabálytalansági döntés közlésétől számított 5 napon belül az indokok megjelölésével írásban kell előterjeszteni a Felelős Személynél, aki azt 25 napon belül továbbítja a miniszter részére véleményével és a szabálytalansági eljárás irataival együtt. A szabálytalansági eljárás során hozott döntésben meghatározott intézkedésekre és korrekcióra vonatkozó döntés végrehajtását a jogorvoslati eljárás lezárásáig, illetve megszüntetéséig a miniszter felfüggesztheti.
 
 (3) A jogorvoslati kérelemben meg kell jelölni a megsértett jogszabályi vagy a támogatási szerződésben meghatározott rendelkezést, a kérelem indokoltságát alátámasztó egyéb tényeket, illetve körülményeket. A kérelemben új – a szabálytalansági eljárás során nem vizsgált – tényekre és körülményekre is lehet hivatkozni.
 
@@ -19,3 +19,5 @@
 (9) A miniszter jogosult a kifizetés felfüggesztésére vagy a felfüggesztés megszüntetésére, amelyről haladéktalanul tájékoztatni kell a végső kedvezményezettet.
 
 (10) Ha a szabálytalanság megállapításához hatóság előzetes döntése szükséges, a szabálytalansági eljárást mindaddig fel kell függeszteni, amíg a hatáskörrel rendelkező hatóság döntést nem hozott. A felfüggesztés időtartama az elintézési határidőbe nem számít be.
+
+[^18]: Az 53. § (2) bekezdése a 12/2013. (IV. 23.) BM rendelet 8. §-ával megállapított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-23-20-0
 | --- | --- | --- |
 | 2012-04-27 | 2012-23-20-0A.1 | 23/2012. (IV. 26.) BM rendelet |
 | 2012-04-28 | 2012-23-20-0A.2 | 2010: CXXX. törvény |
+| 2013-04-24 | 2012-23-20-0A.3 | 12/2013. (IV. 23.) BM rendelet |

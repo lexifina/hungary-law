@@ -1,45 +1,49 @@
-## 2. § E rendelet alkalmazásában
+## 2. §[^2] E rendelet alkalmazásában
 
-a) Ellenőrzési Hatóság: az Európai Támogatásokat Auditáló Főigazgatóság;
+1. Ellenőrzési Hatóság: az Európai Támogatásokat Auditáló Főigazgatóság;
 
-b) előzetes projekt adatlap: zárt kétfordulós kiválasztási eljárás esetén a pályázó által tervezett projekt lényegi elemeit tartalmazó dokumentum;
+2. előzetes projekt adatlap: zárt kétfordulós kiválasztási eljárás esetén a pályázó által tervezett projekt lényegi elemeit tartalmazó dokumentum;
 
-c) Európai Menekültügyi Alap: a 2007/573/EK európai parlamenti és tanácsi határozattal létrehozott alap;
+3. Európai Menekültügyi Alap: a 2007/573/EK európai parlamenti és tanácsi határozattal létrehozott alap;
 
-d) éves program: a 2007/575/EK európai parlamenti és tanácsi határozat 21. cikk (3) bekezdése, a 2007/574/EK európai parlamenti és tanácsi határozat 23. cikk (3) bekezdése, továbbá a 2007/435/EK tanácsi határozat 19. cikk (3) bekezdése szerinti éves programok;
+4. éves program: a 2007/575/EK európai parlamenti és tanácsi határozat 21. cikk (3) bekezdése, a 2007/574/EK európai parlamenti és tanácsi határozat 23. cikk (3) bekezdése, továbbá a 2007/435/EK tanácsi határozat 19. cikk (3) bekezdése szerinti éves programok;
 
-e) Hitelesítő Hatóság: a Belügyminisztériumnak (a továbbiakban: BM) a belügyminiszter (a továbbiakban: miniszter) által a kiadásigazoló nyilatkozatok Európai Bizottsághoz való benyújtást megelőző igazolására kijelölt, a Felelős Hatóságtól funkcionálisan független szervezeti egysége;
+5. Hitelesítő Hatóság: az 1. § (1) bekezdése szerinti fejezetet irányító szerv vezetője (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) kiadásigazoló nyilatkozatok Európai Bizottsághoz való benyújtást megelőző igazolására kijelölt, a Felelős Hatóságtól funkcionálisan független szervezeti egysége;
 
-f) informatikai rendszer: a „Szolidaritás és a migrációs áramlások igazgatása” általános program keretében végrehajtott projektek nyomon követését szolgáló, a 2007/435/EK tanácsi határozat 22. cikk e) pontjában, a 2007/573/EK európai parlamenti és tanácsi határozat 24. cikk e) pontjában, a 2007/574/EK európai parlamenti és tanácsi határozat 26. cikk e) pontjában és a 2007/575/EK európai parlamenti és tanácsi határozat 24. cikk e) pontjában meghatározott informatikai alapú nyilvántartó rendszer;
+6. informatikai rendszer: a Szolidaritás és a migrációs áramlások igazgatása általános program keretében végrehajtott projektek nyomon követését szolgáló, a 2007/435/EK tanácsi határozat 22. cikk e) pontjában, a 2007/573/EK európai parlamenti és tanácsi határozat 24. cikk e) pontjában, a 2007/574/EK európai parlamenti és tanácsi határozat 26. cikk e) pontjában és a 2007/575/EK európai parlamenti és tanácsi határozat 24. cikk e) pontjában meghatározott informatikai alapú nyilvántartó rendszer;
 
-g) Integrációs Alap: a 2007/435/EK tanácsi határozattal létrehozott alap;
+7. Integrációs Alap: a 2007/435/EK tanácsi határozattal létrehozott alap;
 
-h) közvetlen támogatási szerződés: a Felelős Hatóság és a zárt kétfordulós kiválasztási eljárásban nyertes végső kedvezményezett között létrejött magánjogi szerződés, amely tartalmazza a közvetlen támogatás nyújtásának és felhasználásának részletes szabályait;
+8. közvetlen támogatási szerződés: a Felelős Hatóság és a zárt kétfordulós kiválasztási eljárásban nyertes végső kedvezményezett között létrejött magánjogi szerződés, amely tartalmazza a közvetlen támogatás nyújtásának és felhasználásának részletes szabályait;
 
-i) Külső Határok Alap: a 2007/574/EK európai parlamenti és tanácsi határozattal létrehozott alap;
+9. Külső Határok Alap: a 2007/574/EK európai parlamenti és tanácsi határozattal létrehozott alap;
 
-j) mérlegbeszámoló: a Felelős Hatóság által készített olyan speciális beszámoló, amely elkülönített, eredményszemléletű könyvvezetés alapján készül az Európai Menekültügyi Alap, az Integrációs Alap, a Visszatérési Alap és a Külső Határok Alap egyes allokációinak zárásáról szóló, az Európai Bizottság részére megküldendő zárójelentés adatainak alátámasztására, és amely nem tartozik a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Számv. törvény) hatálya alá;
+10. mérlegbeszámoló: a Felelős Hatóság által készített olyan speciális beszámoló, amely elkülönített, eredményszemléletű könyvvezetés alapján készül az Európai Menekültügyi Alap, az Integrációs Alap, a Visszatérési Alap és a Külső Határok Alap egyes allokációinak zárásáról szóló, az Európai Bizottság részére megküldendő zárójelentés adatainak alátámasztására, és amely nem tartozik a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Számv. törvény) hatálya alá;
 
-k) Működési Kézikönyv: a Felelős Hatóság működésére vonatkozó szabályokat és egyes azzal kapcsolatos adatokat tartalmazó dokumentum;
+11. Működési Kézikönyv: a Felelős Hatóság működésére vonatkozó szabályokat és egyes azzal kapcsolatos adatokat tartalmazó dokumentum;
 
-l) pályázati adatlap: nyílt és az egyszerűsített kiválasztási eljárás esetén a pályázó által tervezett projekt megvalósításával összefüggő információkra kiterjedő dokumentum;
+12. pályázati adatlap: a nyílt és az egyszerűsített kiválasztási eljárás esetén a pályázó által tervezett projekt megvalósításával összefüggő információkra kiterjedő dokumentum;
 
-m) partner: a projekttel megvalósítani kívánt tevékenységek ellátására alkalmas szervezet, amely a végső kedvezményezett felelőssége mellett, a végső kedvezményezettel kötött partnerségi megállapodás alapján a végső kedvezményezettel közösen valósítja meg a projektet;
+13. partner: a projekttel megvalósítani kívánt tevékenységek ellátására alkalmas szervezet, amely a végső kedvezményezett felelőssége mellett, a végső kedvezményezettel kötött partnerségi megállapodás alapján a végső kedvezményezettel közösen valósítja meg a projektet;
 
-n) projekt: a támogatások végső kedvezményezettjei által egy intézkedés egészének vagy egy részének végrehajtása érdekében felvonultatott egyedi, gyakorlati eszközök;
+14. projekt: a támogatások végső kedvezményezettjei által egy intézkedés egészének vagy egy részének végrehajtása érdekében felvonultatott egyedi, gyakorlati eszközök;
 
-o) részletes projekt adatlap: zárt kétfordulós kiválasztási eljárás esetén a pályázó által tervezett projekt megvalósításával összefüggő minden releváns információra kiterjedő dokumentum;
+15. részletes projekt adatlap: zárt kétfordulós kiválasztási eljárás esetén a pályázó által tervezett projekt megvalósításával összefüggő minden releváns információra kiterjedő dokumentum;
 
-p) szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. december 18-i 2988/95/EK EURATOM rendelet 1. cikk (2) bekezdésében foglaltak, továbbá a jogszabályok előírásainak, a támogatási szerződésben és a közvetlen támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen a Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek;
+16. szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. december 18-i 2988/95/EK EURATOM rendelet 1. cikk (2) bekezdésében foglaltak, továbbá a jogszabályok előírásainak, a támogatási szerződésben és a közvetlen támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek;
 
-q) szabálytalansági elektronikus nyilvántartó rendszer: a „Szolidaritás és a migrációs áramlások igazgatása” általános program keretében végrehajtott projekteket érintő szabálytalanságokkal kapcsolatos adatokat tartalmazó informatikai alapú nyilvántartó rendszer;
+17. szabálytalansági elektronikus nyilvántartó rendszer: a Szolidaritás és a migrációs áramlások igazgatása általános program keretében végrehajtott projekteket érintő szabálytalanságokkal kapcsolatos adatokat tartalmazó informatikai alapú nyilvántartó rendszer;
 
-r) szabálytalansági gyanú: bármilyen adat vagy információ, amely szabálytalanság elkövetésére utal;
+18. szabálytalansági gyanú: bármilyen adat vagy információ, amely szabálytalanság elkövetésére utal;
 
-s) támogatási szerződés: a Felelős Hatóság és a nyílt és az egyszerűsített kiválasztási eljárásban nyertes végső kedvezményezett között létrejött magánjogi szerződés, amely tartalmazza a támogatás nyújtásának és felhasználásának részletes szabályait;
+19. tartaléklista: a pályázati kiírás alapján támogatásra javasolható, azonban az adott pályázati kiírásban rendelkezésre álló forrás terhére – annak kimerülése miatt – már nem támogatható projektek listája;
 
-t) többéves program: a 2007/573/EK európai parlamenti és tanácsi határozat 18. cikk (1) bekezdése, a 2007/575/EK európai parlamenti és tanácsi határozat 19. cikk (1) bekezdése, a 2007/574/EK európai parlamenti és tanácsi határozat 21. cikk (1) bekezdése, továbbá a 2007/435/EK tanácsi határozat 17. cikk (1) bekezdése szerinti program;
+20. támogatási szerződés: a Felelős Hatóság és a nyílt és az egyszerűsített kiválasztási eljárásban nyertes végső kedvezményezett között létrejött magánjogi szerződés, amely tartalmazza a támogatás nyújtásának és felhasználásának részletes szabályait;
 
-u) végső kedvezményezett: a projekt megvalósításáért felelős szervezet;
+21. többéves program: a 2007/573/EK európai parlamenti és tanácsi határozat 18. cikk (1) bekezdése, a 2007/575/EK európai parlamenti és tanácsi határozat 19. cikk (1) bekezdése, a 2007/574/EK európai parlamenti és tanácsi határozat 21. cikk (1) bekezdése, továbbá a 2007/435/EK tanácsi határozat 17. cikk (1) bekezdése szerinti program;
 
-v) Visszatérési Alap: a 2007/575/EK európai parlamenti és tanácsi határozattal létrehozott alap.
+22. végső kedvezményezett: a projekt megvalósításáért felelős szervezet;
+
+23. Visszatérési Alap: a 2007/575/EK európai parlamenti és tanácsi határozattal létrehozott alap.
+
+[^2]: A 2. § a 12/2013. (IV. 23.) BM rendelet 2. §-ával megállapított szöveg.

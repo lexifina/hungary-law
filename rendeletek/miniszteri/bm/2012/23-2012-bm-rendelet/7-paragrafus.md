@@ -6,4 +6,6 @@
 
 (3) Az MB-be tagot a Felelős Hatóság, valamint a Felelős Személy által erre felkért miniszterek és nemzetközi szervezetek delegálnak.
 
-(4) Az MB-ben megfigyelőként részt vehet az Ellenőrzési Hatóság és a Hitelesítő Hatóság által delegált személy.
+(4)[^3] Az MB-ben megfigyelőként részt vehet az Ellenőrzési Hatóság és a Hitelesítő Hatóság által delegált személy, továbbá a Felelős Hatóság által meghívott más szervezet képviselője.
+
+[^3]: A 7. § (4) bekezdése a 12/2013. (IV. 23.) BM rendelet 3. §-ával megállapított szöveg.
