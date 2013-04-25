@@ -10,4 +10,4 @@ b) „A ............ helyrajzi számú földrészletből a vázrajzon jelölt te
 
 c) „A kitűzött földrészlet határpontjait ... (pl. kővel, fakaróval, festéssel stb.) ... jelöltem meg.”
 
-[^4]: A 33. § a 61. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^4]: A 42. § a 61. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
