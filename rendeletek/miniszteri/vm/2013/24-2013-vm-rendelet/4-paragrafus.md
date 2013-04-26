@@ -1,0 +1,3 @@
+## „(5) Légi permetezés esetén a szakirányító a kezelés megkezdése előtt, de legkésőbb a kijuttatást megelőző munkanap délelőtt 9 óráig a növény- és talajvédelmi igazgatóságnál a 3. melléklet szerinti adattartalommal a légi munkavégzést bejelenti. A légi permetezés engedélyezett kijuttatási tervnek megfelelő elvégzéséért, az engedélyező határozatban foglalt, valamint a jogszabályban előírt egyéb kötelezettségek betartásáért a szakirányító felelős, amely nem érinti a légi jármű vezetőjének felelősségét.
+
+## (6) Növényvédő szernek nem minősülő növényvédő hatású termék légi kijuttatása, valamint talajerő-gazdálkodási mezőgazdasági repülés esetén a megrendelőnek az (5) bekezdésben foglaltak szerint a mezőgazdasági repülést be kell jelentenie.”
