@@ -69,5 +69,3 @@
 4. melléklet a 2011. évi CXCIX. törvényhez
 
 A toborzási adatbázis adatköre
-
-## I.

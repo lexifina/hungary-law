@@ -27,3 +27,5 @@ b) a működés törvényességének helyreállítása érdekében összehívja 
 c) ismételt vagy súlyos törvénysértés esetén az MKK egyes szerveinek működését felfüggeszti.
 
 (6) Az ügyészég és a bíróság a (5) bekezdés szerinti jogsértés megállapításával és intézkedések megtételével egyidejűleg értesíti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert.
+
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, illetve egyéb államigazgatási szerv vezetője az MKK-val, illetve annak területi szervezetével kötött megállapodás alapján az MKK, illetve területi szervezete működéséhez támogatást (pénzbeli, nem pénzbeli) nyújthat. A megállapodás irányulhat helyiséghasználat biztosítására is. A megállapodás nyilvános, azt a támogatást nyújtó államigazgatási szerv és az MKK honlapján közzé kell tenni.

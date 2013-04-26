@@ -10,7 +10,7 @@ b) megalkotja az Alapszabályt és a Választási Szabályzatot;
 
 c) gyakorolja az MKK-nak az e törvényben, valamint az Alapszabályban meghatározott feladat- és hatásköreit;
 
-d) megválasztja a főtitkárt.
+d)
 
 (4) Az Országos Közgyűlés feladat- és hatásköreinek gyakorlását – ha e törvény vagy az Alapszabály nem rendelkezik másképp – átruházhatja az MKK országos és területi szerveire és tisztségviselőire.
 
@@ -22,7 +22,7 @@ d) megválasztja a főtitkárt.
 
 a) az elnök, az alelnökök;
 
-b) a főtitkár;
+b)
 
 c) az Országos Pénzügyi Ellenőrző Bizottság elnöke;
 
@@ -32,9 +32,9 @@ d) az Országos Etikai Bizottság elnöke.
 
 (9) Az Országos Etikai Bizottság (a továbbiakban: Etikai Bizottság) tagjait és elnökét az Országos Közgyűlés választja meg. Az Etikai Bizottság tagjainak számát az Alapszabály határozza meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el. Feladata a másodfokú etikai eljárás lefolytatása. A másodfokú határozat a közigazgatási perekre irányadó szabályok szerint bíróság előtt megtámadható.
 
-(10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti.
+(10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésre állási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.
 
-(11) A főtitkár vezeti az MKK Országos Irodáját, valamint ellátja az Alapszabályban meghatározott feladatokat.
+(11) A főtitkár vezeti az MKK Országos Irodáját, valamint ellátja az Alapszabályban meghatározott feladatokat. A főtitkár az MKK-val munkajogviszonyban áll. A munkáltatói jogkört a főtitkár felett az elnök gyakorolja. A főtitkárra nem alkalmazható a 34. § (1) és (2) bekezdése.
 
 (12) Az Elnökség, az Elnökség tagjainak, valamint a Pénzügyi Ellenőrző Bizottság és az Etikai Bizottság feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 

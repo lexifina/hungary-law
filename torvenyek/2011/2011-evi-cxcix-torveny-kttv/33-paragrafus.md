@@ -22,6 +22,6 @@ c) igénybe vegye az MKK tagjai részére nyújtott szolgáltatásokat.
 
 (8) Az MKK tagjának kötelezettsége, hogy megtartsa az MKK működésére vonatkozó szabályokat.
 
-(9) Az Országos Iroda a tagnyilvántartási adatok körében az MKK 29. § (6) bekezdésében meghatározott feladatainak ellátása céljából kezeli az e törvény 2. melléklete szerinti közszolgálati alapnyilvántartás adatköréből az I/A. 1.–4., a III. 1.–5. és 7., a IV. 1., a V. 1. és 5. és 8. pontban foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.
+(9) Az Országos Iroda a tagnyilvántartási adatok körében az MKK 29. § (6) bekezdésében meghatározott feladatainak ellátása céljából kezeli az e törvény 2. melléklete szerinti közszolgálati alapnyilvántartás adatköréből az I/A. 1–4., 9–11., I/B. 1–2., II.1., a III. 1. és kizárólag a korábban fennálló kormányzati szolgálati és közszolgálati jogviszony tekintetében a III. 6., a IV.1., a V.1–2., 5. és 8. pontban foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. Az MKK által kezelt adatokat a munkáltató a (2) és (4) bekezdésben meghatározott időpontokban adja át az MKK részére. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.
 
 (10) Az MKK-tagsághoz tagdíjfizetési kötelezettség nem kapcsolódik.

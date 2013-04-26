@@ -44,7 +44,7 @@ c) teljesítményértékelésének, minősítésének a rendjére, eljárására
 
 6. megállapítsa
 
-a) a közszolgálati tisztviselők részére járó cafetéria-juttatás, valamint az egyéb, a közszolgálati tisztviselők részére adható juttatásokra,
+a) a közszolgálati tisztviselők részére járó cafetéria-juttatásra vonatkozó nyilatkozat megtételének és módosításának, a cafetéria-juttatás törvényben meghatározottak szerinti keretösszege megállapításának, továbbá a közszolgálati tisztviselők részére adható egyéb juttatások általános feltételeire,
 
 b) a központi államigazgatási szerveknél, azok területi és helyi szerveinél foglalkoztatott kormánytisztviselők jutalmazására vonatkozó részletes szabályokat és a jutalmazással összefüggő adatkezelésre és adatszolgáltatásra,
 
@@ -111,6 +111,8 @@ b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, val
 c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat;
 
 18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+
+19. a közszolgálati tisztviselők tekintetében a garantált bérminimum összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – megállapítsa.
 
 (2) Az államigazgatási szerv a kormánytisztviselő önkéntes kiegészítő nyugdíjpénztári tagságához egyéb juttatásként támogatást nyújthat. A központi költségvetés támogatásának részletes szabályait a Kormány határozza meg.
 
