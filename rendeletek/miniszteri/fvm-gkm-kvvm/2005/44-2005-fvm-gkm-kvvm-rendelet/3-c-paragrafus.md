@@ -1,4 +1,4 @@
-3/C. §[^8] (1) A növény- és talajvédelmi igazgatóság nyilvántartást vezet
+3/C. §[^21] (1) A növény- és talajvédelmi igazgatóság nyilvántartást vezet
 
 a) a kijuttatási tervekről és azok engedélyezéséről,
 
@@ -10,4 +10,4 @@ c) a 3/B. § (2) és (3) bekezdése szerinti bejelentésekről.
 
 (3) A 3/A. és a 3/B. § szerinti bejelentések befogadására a növény- és talajvédelmi igazgatóság szabad és munkaszüneti napokon készenlétet tart fenn, amelyre vonatkozó információkat hirdetőtábláján és holnapján közzéteszi.
 
-[^8]: A 3/C. §-t a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.
+[^21]: A 3/C. §-t a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 17/A. §[^19] A mező- és erdőgazdasági légi munkavégzésről szóló 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelet módosításáról szóló 34/2012. (IV. 6.) VM rendelet hatálybalépését[^20] megelőzően megszerzett légi-mezőgazdasági bizonyítvánnyal rendelkező személy a légi-mezőgazdasági bizonyítvány érvényességi idejének lejártáig jogosult mezőgazdasági repülést végezni.
+## 17/A. §[^49] A mező- és erdőgazdasági légi munkavégzésről szóló 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelet módosításáról szóló 34/2012. (IV. 6.) VM rendelet hatálybalépését[^50] megelőzően megszerzett légi-mezőgazdasági bizonyítvánnyal rendelkező személy a légi-mezőgazdasági bizonyítvány érvényességi idejének lejártáig jogosult mezőgazdasági repülést végezni.
 
-[^19]: A 17/A. §-t a 34/2012. (IV. 6.) VM rendelet 8. §-a iktatta be.
-[^20]: A hatálybalépés időpontja 2012. április 7.
+[^49]: A 17/A. §-t a 34/2012. (IV. 6.) VM rendelet 8. §-a iktatta be.
+[^50]: A hatálybalépés időpontja 2012. április 7.

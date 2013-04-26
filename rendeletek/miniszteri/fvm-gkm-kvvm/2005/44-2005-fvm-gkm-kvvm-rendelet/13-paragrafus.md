@@ -1,13 +1,13 @@
-## 12. §[^15] Mezőgazdasági repülés során a kijuttatott növényvédő szer vagy termésnövelő anyag az engedélyezett légi permetezéssel érintett területen kívül más területre nem kerülhet.
+13. §[^43] (1) Mezőgazdasági repülést – a munkaterületre való ki- és berepülés kivételével – tilos lakott terület, állattartó terület, felszíni víz, vízkivételi mű, működő települési szennyvíztisztító telep, fokozottan védett természeti terület, erdőrezervátum és bioszféra rezervátum magterülete felett végezni.
 
-13. § (1)[^16] Mezőgazdasági repülést tilos lakott terület és annak 500 m-es körzete, állattartó terület, élővíz, vízkivételi mű, működő települési szennyvíztisztító telep, fokozottan védett természeti terület, erdőrezervátum és bioszféra rezervátum magterülete felett végezni.
+(2) Légi permetezés esetén – amennyiben az engedélyokirat másként nem rendelkezik – lakott terület, valamint természetvédelmi terület határától legalább 100 méteres védőtávolságot kell tartani. Amennyiben a szél lakott terület vagy természetvédelmi terület felé fúj, a védőtávolság legalább 300 méter.
 
-(2) Ha a mezőgazdasági repülés védett természeti területeket vagy különleges rendeltetésű vadászterületeket érint, az illetékes természetvédelmi, illetőleg vadászati hatóság engedélyét kell beszerezni.
+(3) Amennyiben a mezőgazdasági repülés védett természeti területet vagy különleges rendeltetésű vadászterületet érint, a kijuttatáshoz az illetékes természetvédelmi, illetve vadászati hatóság engedélye szükséges, amelyet a légi permetezés esetén a szakirányítónak, egyéb esetben a megrendelőnek kell előzetesen beszerezni.
 
-(3)[^17] A NÉBIH által – a hatáskörrel rendelkező hatóság bevonásával – megállapított, nagy területre kiterjedő súlyos kár vagy közegészségügyi veszélyhelyzet elhárítása érdekében – a növényvédő szer engedélyokirata szerint lakott terület felett, közterületen felhasználásra engedélyezett és légi úton is kijuttatható – növényvédő szerrel lakott terület felett mezőgazdasági repülés végezhető. Erről a települési önkormányzat jegyzőjét és a kormányhivatal népegészségügyi szakigazgatási szervének intézetét előzetesen tájékoztatni kell, továbbá a lakosság részére a helyben szokásos módon közhírré kell tenni.
+(4) A NÉBIH által megállapított nagy területre kiterjedő súlyos kár elhárítása érdekében lakott terület felett légi permetezés az engedélyokirata szerint közterületen felhasználásra és légi úton történő kijuttatásra is engedélyezett növényvédő szerrel végezhető. Erről a települési önkormányzat jegyzőjét, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét, valamint a helyben szokásos módon a lakosságot tájékoztatni kell.
 
-(4) A munkaterületre való ki- és berepülés útvonalát úgy kell kijelölni, hogy az lehetőség szerint ne érintsen az (1)–(2) bekezdésekben meghatározott területeket.
+(5) A munkaterületre való ki- és berepülés útvonalát úgy kell kijelölni, hogy az lehetőség szerint ne érintse az (1) és (3) bekezdésekben meghatározott, a munkatérképen jelölt területeket.
 
-[^15]: A 12. § a 34/2012. (IV. 6.) VM rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^16]: A 13. § (1) bekezdése a 34/2012. (IV. 6.) VM rendelet 6. §-ával megállapított szöveg.
-[^17]: A 13. § (3) bekezdése a 34/2012. (IV. 6.) VM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+(6) Amennyiben a légi kijuttatásra engedélyezett növényvédő szer engedélyokirata nem tartalmaz légi kijuttatásra vonatkozó védőtávolságokat a kezelésre nem szánt területek vonatkozásában, az engedélyokiratban a földi kijuttatásra meghatározott védőtávolságok kétszeresét, de legalább 20 méter védőtávolságot kell alkalmazni. Amennyiben a termésnövelő anyag vagy növényvédő szernek nem minősülő növényvédő hatású termék engedélyokirata nem tartalmaz légi kijuttatásra vonatkozó védőtávolságot, lakott területtől és a felszíni vizektől legalább 50 méteres védőtávolság betartása szükséges.
+
+[^43]: A 13. § a 24/2013. (IV. 11.) VM rendelet 10. §-ával megállapított szöveg.
