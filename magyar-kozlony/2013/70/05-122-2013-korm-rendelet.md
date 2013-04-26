@@ -1,0 +1,120 @@
+# A Kormány 122/2013. (IV. 26.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 70. szám, 2013. április 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a60f9684bdeed18d55857f2133570e19206d8044/dokumentumok/28ece34029500ff52427034145d3b983aff8452b/letoltes)
+
+---
+
+A Kormány 122/2013. (IV. 26.) Korm. rendelete
+az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központról szóló
+214/2012. (VII. 30.) Korm. rendelet módosításáról
+A Kormány az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés k) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központról szóló 214/2012. (VII. 30.)
+Korm. rendelet (a továbbiakban: Kr.) 22. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) A (12) bekezdés szerinti tanfolyamot eredményesen elvégzett jogvédelmi képviselők az egy szakterületen
+általuk teljesített jogvédelmi képviselői tanfolyami óraszám és az 5. § (1) bekezdésében szereplő tanfolyami óraszám
+különbözetét és az azt követő vizsgát 2014. június 30-ig kötelesek teljesíteni.”
+2. §
+A Kr. 22. §-a a következő (10)–(14) bekezdéssel egészül ki:
+„(10) A (4) bekezdésben foglaltaktól eltérően, különös méltánylást érdemlő ellátási érdek fennállásakor jogvédelmi
+képviselőt foglalkoztatni abban az esetben is lehet, ha a foglalkoztatni kívánt jogvédelmi képviselő vállalja, hogy
+a (12) bekezdésben előírt tanfolyamot 2013. december 31-ig eredményesen elvégzi.
+(11) A (10) bekezdés szerinti különös méltánylás érdemlő ellátási érdek akkor áll fenn, ha:
+a) a jogvédelmi feladat ellátása az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központról szóló
+214/2012. (VII. 30.) Korm. rendelet módosításáról szóló 122/2013. (IV. 26.) Korm. rendelet (a továbbiakban: Módr.)
+hatálybalépését követően helyettesítéssel történik, vagy
+b) az adott jogterületet a Módr. hatálybalépését követően jogvédelmi képviselő nem látja el.
+(12) A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI)
+a (4) bekezdés szerinti kötelezettséget érintő időpont beálltáig terjedő időszakra 60 órás jogvédelmi képviselői
+tanfolyamot szervez a (13) és a (14) bekezdés szerinti feltételekkel. A tanfolyam elvégzéséről szóló tanúsítványt
+az OBDK és a GYEMSZI együttesen adja ki.
+
+(13) A GYEMSZI a (12) bekezdés szerinti tanfolyam elindításáról a Módr. hatálybalépését követő 30 napon belül
+gondoskodik.
+(14) A (12) bekezdés szerinti tanfolyam szakmai követelményeit és a követelmények teljesítéséhez szükséges
+ismereteket a 3. melléklet tartalmazza.”
+3. §
+A Kr. az 1. melléklet szerinti 3. melléklettel egészül ki.
+4. §
+Hatályát veszti a Kr. 4. § (7) bekezdése és 15. § (5) bekezdése.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 122/2013. (IV. 26.) Korm. rendelethez
+„3. melléklet a 214/2012. (VII. 30.) Korm. rendelethez
+A jogvédelmi képviselői tanfolyam szakmai követelményei és a követelmények teljesítéséhez
+szükséges ismeretek
+I. Szakmai követelmények
+I.1. A tanfolyamot elvégző személyekkel szemben általános követelmény, hogy megszerzett jogi,
+továbbá egyéni, csoportos, közösségi kommunikációs, illetve pszichológiai és konfliktuskezelési
+ismereteik révén képesek legyenek
+a) eligazodni a szolgáltatási rendszerekben,
+b) tájékoztatást nyújtani a szolgáltatásokat igénybe vevők részére,
+c) segíteni a szolgáltatásokat igénybe vevőket a problémáik megoldásában.
+I.2. A tanfolyamot elvégző személyeknek az elsajátított speciális ismeretek révén képessé kell válniuk
+arra, hogy szakterületükön
+a) eljárjanak a hozzájuk fordulók jogainak védelmében,
+b) elősegítsék e jogok érvényesülését a szolgáltatást biztosítók körében,
+c) együttműködjenek a szolgáltatásokat fenntartókkal, valamint az azokat igénybe
+vevőkkel.
+II. A szakmai követelmények teljesítéséhez szükséges ismeretek
+II.1. Általános ismeretek
+II.1.1. Jogi ismeretek
+a) Polgári jogi ismeretek
+b) Közigazgatási hatósági eljárási ismeretek
+c) Családjogi ismeretek
+d) Alapvető jogok biztosára vonatkozó szabályozás
+e) Adatkezelésre vonatkozó jogszabályok, közvetítői tevékenység
+f) Fogyatékosságügyi ismeretek, esélyegyenlőség
+g) Az emberi jogok európai védelme
+h) Az egyenlő bánásmódra vonatkozó szabályozás
+II.1.2. Pszichológiai ismeretek
+a) Pszichológiai fogalmak és módszerek
+b) Személyiség-lélektan, mentálhigiéne
+c) Gyermeklélektani ismeretek
+d) Kommunikációs ismeretek, készségfejlesztés
+e) Konfliktuskezelési ismeretek, készségfejlesztés
+
+II.2. Speciális ismeretek szakterületenként
+II.2.1. A betegjogi képviselői feladatok ellátásához szükséges speciális ismeretanyag
+a) Az egészségügyi törvény és végrehajtási rendeletei
+b) Az egészségügyi igazgatás szervezete, irányítási és ellenőrzési rendszere
+c) Járványügyi, egészségügyi hatóságok és az eljárásukra vonatkozó szabályok
+d) Egészségügyi felelősségi rendszerek, permegelőzési eljárások,
+panaszkivizsgálási lehetőségek
+e) Az egészségügyi intézmények működésének szakmai elvei és szervezése
+f) Egészségbiztosítás és finanszírozási rendszerek
+g) Minőségi követelmények az egészségügyben, minőségbiztosítás
+h) Az egészségügyi adatkezelés, nyilvántartások, dokumentációk
+i) Az egészségügyi dolgozók jogai és kötelezettségei
+j) A betegek jogai és kötelezettségei
+k) A speciális betegcsoportok jogai
+l) A betegjogi képviselő feladat- és hatásköre
+m) Esetfeldolgozások, a betegek jogsérelmeinek kezelése
+II.2.2. Az ellátottjogi képviselői feladatok ellátásához szükséges speciális ismeretanyag
+a) A szociális törvény és végrehajtási rendeletei
+b) A szociális szolgáltatások működési rendszere
+c) Az ellátás igénybevételének és megszüntetésének módjai
+d) Tájékoztatási kötelezettség, a panaszkivizsgálás fórumai
+e) Korlátozó intézkedések alkalmazásának lehetőségei
+f) A házirendre vonatkozó előírások
+g) Az érdekvédelmi rendszer és működése
+h) A szociális szolgáltatást végzők jogai, kötelezettségei
+i) Az ellátottak jogai, az egyes ellátotti csoportok speciális jogai
+j) Az ellátottjogi képviselő feladat- és hatásköre
+k) Esetfeldolgozások, az ellátottak jogsérelmeinek kezelése
+II.2.3. A gyermekjogi képviselői feladatok ellátásához szükséges speciális ismeretanyag
+a) A gyermekvédelmi törvény és végrehajtási rendeletei
+b) A gyermekjóléti és gyermekvédelmi rendszer működése
+c) A gyermek jogairól szóló New York-i Egyezmény
+d) A gyermek- és diákjogok védelme
+e) Gyermekvédelmi feladatok a köznevelési törvényben és az egészségügyi
+jogszabályokban
+f) A gyermek- és fiatalkorú bűnelkövetőkre, illetve sértettekre vonatkozó
+büntetőjogi szabályok
+g) A gyermekvédelem területén dolgozók jogai és kötelezettségei
+h) A gyermekek jogai és kötelezettségei
+i) A gyermekjogi képviselő feladat- és hatásköre
+j) Esetfeldolgozások, a gyermekek jogsérelmeinek kezelése”
