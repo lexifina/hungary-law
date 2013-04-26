@@ -1,0 +1,7 @@
+3. § A Vötv. a következő 4/A. §-sal egészül ki:
+
+„4/A. § (1) A kultúráért felelős miniszter hivatalból, továbbá az állam tulajdonosi jogait gyakorló szerv vagy a világörökségi helyszínen működő világörökségi gondnokság kérelmére megvizsgálja a világörökségi területen levő, állami tulajdonban álló vagyonelem (a továbbiakban: állami vagyonelem) használatát és hasznosítását.
+
+(2) Ha a kultúráért felelős miniszter a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti hatósági eljárásában megállapítja, hogy az állami vagyonelem használata vagy hasznosítása nem felel meg a 3. § (3)–(4) bekezdéseiben foglalt követelményeknek, közigazgatási hatósági határozatban kötelezi az állami vagyonelemet használó vagy hasznosító személyt, jogi személyt, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezetet arra, hogy a vagyonelemet 30 napon belül az állam tulajdonosi jogait gyakorló szerv birtokába adja. A határozat jogerőssé válásával egyidejűleg az állami vagyonelem használatára illetve hasznosítására vonatkozó, a határozat jogerőssé válása időpontjában érvényes jogviszony a törvény erejénél fogva megszűnik. A kultúráért felelős miniszter a határozatában döntését a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilváníthatja.
+
+(3) A (2) bekezdés szerinti határozat végrehajtását az állam tulajdonosi jogait gyakorló szerv foganatosítja.”
