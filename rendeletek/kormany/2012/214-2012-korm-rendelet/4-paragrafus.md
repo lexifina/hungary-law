@@ -50,4 +50,6 @@ f) a pályázati eljárásra, a pályázat elbírálásának módjára és hatá
 
 g) a pályázathoz csatolandó dokumentumok felsorolását.
 
-(7) Az OBDK a pályázati felhívást az egészségügyért felelős miniszter, valamint a szociálpolitikáért felelős miniszter hivatalos lapjában közzéteszi.
+(7)[^1]
+
+[^1]: A 4. § (7) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.

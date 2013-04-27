@@ -12,4 +12,6 @@ b) a szakmai gyakorlat meglétét igazoló dokumentumot, és
 
 c) a jogvédelmi képviselői tanfolyam elvégzését igazoló tanúsítványt.
 
-(5) Az OBDK a nyilvántartásba vételi eljárás során beszerzi a büntetlen előéletet igazoló okiratot.
+(5)[^4]
+
+[^4]: A 15. § (5) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.
