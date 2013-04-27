@@ -1,5 +1,0 @@
-6/A. §[^9] (1) A felhasználó létesítménynek rendelkeznie kell a felhasznált állatfajnak és a tervezett kísérletnek megfelelő helyiségekkel és berendezésekkel. Ezek kialakítása és technológiája lehetővé kell tegye a kísérlet hatékony elvégzését és értékelhető eredmény elérését a lehető legkisebb számú állat felhasználásával, valamint a lehető legkisebb fokú fájdalom és szenvedés, tartós nélkülözés vagy maradandó károsodás okozásával.
-
-(2) A felhasználó létesítményben minden, az állatok ellátásáért és a berendezések működéséért felelős személyt meg kell nevezni, valamint megfelelő számban szakképzett személyzetet kell biztosítani, illetve megfelelően intézkedni kell az állatorvosi felügyelet és a kezelések biztosítása érdekében. Az állatok jóllétének biztosítása érdekében tanácsadóként állatorvost vagy más, a szakiránynak megfelelő felsőfokú szakképzettséggel rendelkező személyt kell alkalmazni.
-
-[^9]: A 6/A. §-t az 58/2002. (VII. 17.) FVM-KvVM-GKM együttes rendelet 5. §-a iktatta a szövegbe.
