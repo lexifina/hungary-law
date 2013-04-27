@@ -1,0 +1,3 @@
+## 12. § A 66/2012. (VII. 10.) VM rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az MVH az összes, határidőben benyújtott támogatási kérelem adminisztratív és helyszíni ellenőrzését követően megállapítja az egyes ügyfelek által szárított takarmány előállítás céljára a tárgyévben ténylegesen felhasznált tüzelőanyag mennyiséget, az átlagos fűtőértéket, valamint a felhasznált hőenergia mennyiséget, és tárgyév december 31-éig dönt a támogatás odaítéléséről, annak összegéről, és a forrás rendelkezésre állása esetén legkésőbb ezen határidőig intézkedik annak kifizetéséről.”
