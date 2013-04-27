@@ -4,9 +4,9 @@
 
 (3) Törzstag az lehet, aki
 
-a) a létesítendő doktori iskola tudományágában tudományos fokozattal rendelkezik;
+a)[^1] tudományos fokozattal rendelkezik;
 
-b) a doktori iskola tudományágában, illetve kutatási területén folyamatos, magas szintű tudományos tevékenységet folytat, amely tudományos tevékenység – ide nem értve a művészeti tevékenységet – a Magyar Tudományos Művek Tára (a továbbiakban: MTMT) adatbázis alapján vizsgálandó;
+b)[^2] a doktori iskola tudományágában, illetve annak kutatási területén folyamatos, magas szintű tudományos tevékenységet folytat, amely tudományos tevékenység – ide nem értve a művészeti tevékenységet – a Magyar Tudományos Művek Tára (a továbbiakban: MTMT) adatbázis alapján vizsgálandó;
 
 c) művészeti alkotásra épülő habilitáció esetén alkotásai országosan és nemzetközileg ismertek és elismertek, továbbá ezt mértékadó, nemzetközi művészeti fórumok pozitív visszhangja igazolja;
 
@@ -17,3 +17,6 @@ e) az adott felsőoktatási intézményben, teljes munkaidőben, munkaviszonyban
 (4) Ha a (3) bekezdés a)–d) pontjában foglalt feltételeket teljesíti, a doktori iskola létesítéséhez a felsőoktatási intézmény doktori tanácsának (a továbbiakban: doktori tanács) jóváhagyásával törzstag lehet – az Nftv. 32. § (1) bekezdése szerinti – Professor Emeritus, vagy Professor Emerita (a továbbiakban együtt: Professor Emeritus) is annak a felsőoktatási intézménynek a doktori iskolájában, amelyben emeritált. A Professor Emeritusok közül egy tag vehető figyelembe a 2. § (1) bekezdésében meghatározott törzstagok tekintetében, a 2. § (2) bekezdésében meghatározott törzstagok tekintetében tudományáganként egy tag vehető figyelembe.
 
 (5) A (3) bekezdés a)–d) pontjában foglalt feltételek teljesítése mellett törzstag lehet továbbá kutatóintézetben, teljes munkaidőben, munkaviszonyban vagy közalkalmazotti jogviszonyban foglalkoztatott – Magyar Tudományos Akadémia doktora címmel rendelkező – tudományos tanácsadó vagy kutatóprofesszor is, amennyiben a felsőoktatási intézmény a kutatóintézettel erre vonatkozó megállapodást kötött. Közülük legfeljebb két tag vehető figyelembe a 2. § (1) bekezdésében meghatározott törzstagok tekintetében, a 2. § (2) bekezdésében meghatározott törzstagok tekintetében tudományáganként egy tag vehető figyelembe.
+
+[^1]: A 2. § (3) bekezdés a) pontja a 121/2013. (IV. 26.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdés b) pontja a 121/2013. (IV. 26.) Korm. rendelet 26. §-ával megállapított szöveg.
