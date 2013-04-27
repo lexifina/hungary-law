@@ -62,9 +62,9 @@
 
 | 30. | Belső ellenőr | adópolitikáért felelős miniszter |
 
-| 31. | Társasházkezelő | társasházkezelő és ingatlankezelő szolgáltató lakóhelye (székhelye) – működési területe – szerint illetékes körzetközponti jegyző |
+| 31. | Társasházkezelő | társasházkezelő és ingatlankezelő szolgáltató lakóhelye (székhelye) – működési területe – szerint illetékes járási hivatal |
 
-| 32. | Ingatlankezelő | társasházkezelő és ingatlankezelő szolgáltató lakóhelye (székhelye) – működési területe – szerint illetékes körzetközponti jegyző |
+| 32. | Ingatlankezelő | társasházkezelő és ingatlankezelő szolgáltató lakóhelye (székhelye) – működési területe – szerint illetékes járási hivatal |
 
 | 33. | Ingatlanközvetítői tevékenység | az ingatlanközvetítői, illetőleg ingatlanvagyon-értékelő és közvetítő szolgáltató (lakóhelye) székhelye – működési területe – szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
@@ -72,6 +72,6 @@
 
 | 35. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások nyújtására irányuló tevékenység az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák esetén | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^15]
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^19]
 
-[^15]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja szerint módosított szöveg.
+[^19]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja szerint módosított szöveg.
