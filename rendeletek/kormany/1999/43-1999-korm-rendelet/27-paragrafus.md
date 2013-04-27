@@ -8,7 +8,7 @@
 
 (3b)[^229] A járóbeteg-szakellátást speciális ellátotti kör részére nyújtó, az Eftv. vhr. 5/A. § (2) bekezdés a), c), d) és f) pontja szerinti egészségügyi szolgáltató (3) bekezdés alapján megállapított TVK-ját növelni kell a részére megállapított TVK arányában a 28. számú melléklet 1. pont 1.2. alpontjában meghatározott TVK keretből.
 
-(3c)[^230]
+(3c)[^230] A 29. § e) pontja szerinti egészségügyi szolgáltató (3) bekezdés alapján megállapított TVK-ját növelni kell az általa a 2012. finanszírozási évben a finanszírozónak lejelentett és elfogadott gondozóintézeti, illetve gondozást végző részlegeinek teljesítménye arányában a 28. számú melléklet 1. pont 1.3. alpontjában meghatározott TVK keretből, amely TVK kizárólag a gondozóintézeti, illetve gondozást végző részlegek teljesítményeire számolható el.
 
 (3d)[^231]
 
@@ -65,7 +65,7 @@ kivételével történik.
 [^227]: A 27. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^228]: A 27. § (3a) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^229]: A 27. § (3b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^230]: A 27. § (3c) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 28. § (2) bekezdés a) pontja.
+[^230]: A 27. § (3c) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 28. § (2) bekezdés a) pontja, újonnan a 125/2013. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
 [^231]: A 27. § (3d) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 28. § (2) bekezdés a) pontja.
 [^232]: A 27. § (3e) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 28. § (2) bekezdés a) pontja.
 [^233]: A 27. § (4) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.

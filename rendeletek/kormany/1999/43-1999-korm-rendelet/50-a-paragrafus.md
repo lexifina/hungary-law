@@ -1,4 +1,4 @@
-## 50. §[^445] Az irányított betegellátási rendszerben történő kifizetésekre az irányított betegellátási rendszerről szóló kormányrendelet[^446] rendelkezéseit kell alkalmazni.
+## 50. §[^446] Az irányított betegellátási rendszerben történő kifizetésekre az irányított betegellátási rendszerről szóló kormányrendelet[^447] rendelkezéseit kell alkalmazni.
 
-[^445]: Az 50. § a 331/2005. (XII. 29.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^446]: Lásd a 331/2005. (XII. 29.) Korm. rendeletet.
+[^446]: Az 50. § a 331/2005. (XII. 29.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^447]: Lásd a 331/2005. (XII. 29.) Korm. rendeletet.

@@ -26,15 +26,15 @@ d) az országos fekvőbeteg-ellátó intézetek heti 40 óra szakellátási rend
 
 heti óraszám
 
-a)[^183] Semmelweis Egyetem, Budapest 1120,
+a)[^183] Semmelweis Egyetem, Budapest 1840,
 
 b)[^184] Pécsi Tudományegyetem, Orvostudományi és Egészségtudományi Centrum 360,
 
 c)[^185] Szegedi Tudományegyetem, Szent-Györgyi Albert Klinikai Központ 360,
 
-d)[^186] Debreceni Egyetem, Orvos- és Egészségtudományi Centrum 360,
+d)[^186] Debreceni Egyetem, Orvos- és Egészségtudományi Centrum 360.
 
-e)[^187] Központi Stomatológiai Intézet 720.
+e)[^187]
 
 Az alapdíj rendelésenként – önálló szervezeti egységkóddal rendelkező szervezeti egységenként – heti 30 óra rendelési idő esetén 11 000 korcsoportos pontszámnak megfelelő összeg, ennél alacsonyabb heti rendelési idő esetén ezen összeg időarányos része.
 
@@ -80,11 +80,11 @@ c) a b) pont alá nem tartozó települések bármilyen jellegű bevonásával 2
 [^180]: A 22. § (2a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 15. §-a iktatta be.
 [^181]: A 22. § (3) bekezdése a 266/2007. (X. 10.) Korm. rendelet 1. § (1) bekezdésével megállapította 364/2007. (XII. 23.) Korm. rendelet 16. § (9) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 22. pontja szerint módosított szöveg.
 [^182]: A 22. § (4) bekezdése a 187/2001. (X. 12.) Korm. rendelet 3. §-ával megállapított, záró szövegrésze a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést első alkalommal a 2007. március havi kifizetéseknél kell alkalmazni.
-[^183]: A 22. § (4) bekezdésének a) pontja a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg.
+[^183]: A 22. § (4) bekezdés a) pontja a 125/2013. (IV. 26.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^184]: A 22. § (4) bekezdésének b) pontja a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg.
 [^185]: A 22. § (4) bekezdésének c) pontja a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja, az 58/2009. (III. 18.) Korm. rendelet 18. § (7) bekezdésének gc) alpontja szerint módosított szöveg.
 [^186]: A 22. § (4) bekezdésének d) pontja a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg.
-[^187]: A 22. § (4) bekezdés e) pontja az 58/2009. (III. 18.) Korm. rendelet 18. § (7) bekezdés gd) alpontja, a 325/2011. (XII. 28.) Korm. rendelet 28. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^187]: A 22. § (4) bekezdés e) pontját a 125/2013. (IV. 26.) Korm. rendelet 6. §-a hatályon kívül helyezte.
 [^188]: A 22. § új (5) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 6. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. A 22. § (5) bekezdése a 10/2007. (II. 6.) Korm. rendelet 4. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést első alkalommal a 2007. március havi kifizetéseknél kell alkalmazni.
 [^189]: A 22. § eredeti (6) bekezdését a 29/2001. (III. 2.) Korm. rendelet 22. § (6) bekezdésének b) pontja hatályon kívül helyezte. A 22. § – a 102/2003. (VII. 17.) Korm. rendelet 6. § (2) bekezdésével átszámozott eredeti (5) bekezdés – (6) bekezdése a 21/2000. (III. 3.) Korm. rendelet 14. §-ának (1) bekezdésével megállapított, valamint a 29/2001. (III. 2.) Korm. rendelet 8. §-ának (3) bekezdése szerint módosított szöveg.
 [^190]: A 22. § (7) bekezdése a 266/2007. (X. 10.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. február havi kifizetésekre kell először alkalmazni.

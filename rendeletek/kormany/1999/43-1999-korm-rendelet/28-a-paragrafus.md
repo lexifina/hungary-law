@@ -10,4 +10,11 @@ A díjazás fedezetére az 5. számú melléklet szerinti összevont szakellát�
 
 (2) Az (1) bekezdésben foglalt feltételeket – a b) és c) pontban foglaltak kivételével – nem kell alkalmazni a speciális sürgősségi centrumok esetében.
 
+(3)[^274] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult az R. 16. számú melléklete szerinti díjazásra, ha a telephely esetében az (1)–(2) bekezdésben meghatározott feltételek fennállnak, és a díjazásra a telephely
+
+a) az integrációt megelőzően jogosult volt, vagy
+
+b) az egészségügyi ellátórendszer fejlesztéséről szóló törvény végrehajtásáról szóló kormányrendelet szerinti előzetes vagy egyszerűsített többletkapacitás-befogadási eljárás keretében válik jogosulttá.
+
 [^273]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 18. § (3)–(5) bekezdését.
+[^274]: A 28/A. § (3) bekezdését a 125/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
