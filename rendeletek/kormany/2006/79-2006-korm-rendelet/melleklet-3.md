@@ -68,6 +68,6 @@
 
 ## – a fűtés üzemeltetése.
 
-3. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^106]
+3. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^110]
 
-[^106]: A 3. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (1)–(2) bekezdése szerint módosított szöveg.
+[^110]: A 3. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (1)–(2) bekezdése szerint módosított szöveg.

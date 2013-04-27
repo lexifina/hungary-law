@@ -1,3 +1,3 @@
-29/J. §[^86] (1) A Hivatal felsőoktatási ellenőrzési feladatait az elnök által kiadott éves munkaterv, illetve az elnök egyedi döntése alapján végzi.
+29/J. §[^90] (1) A Hivatal felsőoktatási ellenőrzési feladatait az elnök által kiadott éves munkaterv, illetve az elnök egyedi döntése alapján végzi.
 
-[^86]: A 29/J. §-t a 198/2008. (VIII. 4.) Korm. rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^90]: A 29/J. §-t a 198/2008. (VIII. 4.) Korm. rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
