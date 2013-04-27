@@ -1,0 +1,1 @@
+## 13. § A Hivatal értesíti a kormányhivatalt, ha a KIR-ben tárolt adatok vagy okirat alapján megállapítható, hogy a köznevelési intézmény működése egy nevelési évnél vagy egy tanévnél hosszabb ideig szünetel.

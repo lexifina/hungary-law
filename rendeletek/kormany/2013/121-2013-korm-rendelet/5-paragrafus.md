@@ -1,0 +1,5 @@
+## 4. § Az Nkt. és végrehajtási rendeletei hatálya alá tartozó ügyekben a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) által hozott elsőfokú döntések elleni fellebbezést a Hivatal bírálja el.
+
+5. § (1) A Hivatal rendszeresen ellenőrzi a köznevelési szakértői tevékenység folytatását, az államilag elismert nyelvvizsgaközpontokat és vizsgahelyeket, a pedagógus-továbbképzések szervezőit, a Magyarországon működő felsőoktatási intézményeket, és e tevékenységek tekintetében ellátja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait.
+
+(2) A Hivatal feldolgozza és nyilvántartja az általa végzett köznevelési, felsőoktatási és nyelvvizsgáztatási ellenőrzések, értékelések eredményeit, és beszámol azokról a miniszternek. A Hivatal a feladatai ellátása során keletkezett, személyazonosításra alkalmatlanná tett adatok elemzése során a tanulói szintű adatok megjelölésére az Nkt. 80. §-ában meghatározott mérési azonosítót használja.
