@@ -1,3 +1,0 @@
-1. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 31. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésre állási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.”
