@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 27. §-a a következő (3c) bekezdéssel egészül ki:
+
+## „(3c) A 29. § e) pontja szerinti egészségügyi szolgáltató (3) bekezdés alapján megállapított TVK-ját növelni kell az általa a 2012. finanszírozási évben a finanszírozónak lejelentett és elfogadott gondozóintézeti, illetve gondozást végző részlegeinek teljesítménye arányában a 28. számú melléklet 1. pont 1.3. alpontjában meghatározott TVK keretből, amely TVK kizárólag a gondozóintézeti, illetve gondozást végző részlegek teljesítményeire számolható el.”
