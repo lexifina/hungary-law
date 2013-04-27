@@ -1,1 +1,0 @@
-## „(4) A mezőgazdasági légi jármű vezetőjének a 10. § (2) bekezdés a) pontja szerinti felhasználási utasítást, a kijuttatási tervet engedélyező határozat másolatát vagy az egyedi légi permetezési bejelentést, valamint a 10. § (2) bekezdés b) pontja szerinti munkatérképet a repülési napló mellékleteként kell kezelnie.”

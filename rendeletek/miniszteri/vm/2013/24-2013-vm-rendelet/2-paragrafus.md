@@ -1,1 +1,0 @@
-## „4. Szakirányító: a légi permetezés megrendelője által megbízott, a növényvédelmi tevékenységről szóló jogszabályban meghatározott felsőfokú növényvédelmi képesítéssel rendelkező, valamint az I. forgalmi kategóriájú növényvédő szer saját célú felhasználására, illetve az azzal folytatott szolgáltatási tevékenységre jogosult személy.”
