@@ -97,7 +97,7 @@ l) amely alapján a biztosító a tényleges veszteséget meghaladó kártérít
 [^5]: A 3. § (1) bekezdés e) pont eb) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés e) pont ec) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés g) pont gg) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^8]: A 3. § (1) bekezdés i) pont ib) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (3) bekezdésével megállapított, a 125/2012. (XII. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés i) pont ib) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (3) bekezdésével megállapított, a 125/2012. (XII. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 137. §-ával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
 [^9]: A 3. § (3) bekezdése a 125/2012. (XII. 10.) VM rendelet 8. § b) pontja szerint módosított szöveg.
 [^10]: A 3. § (7) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (4) bekezdésével megállapított szöveg.
 [^11]: A 3. § (8) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
