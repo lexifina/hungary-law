@@ -16,6 +16,8 @@ e)[^24] Anyajuh Kiegészítő Többletjogosultság (a továbbiakban: AjKTj) eset
 
 (3) A szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságról, valamint a szerkezetátalakítási program teljesítési arányának meghatározásáról az MVH dönt.
 
+(4)[^26] A (3) bekezdéstől eltérően, amennyiben az MVH a támogatási időszak első évében állapítja meg a szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságot, a termelő mentesül a nem teljesítési bírság befizetése alól. Ha a szerkezetátalakítási programba bejelentkezett termelő a támogatási időszak alatt ismételten megsérti a szerkezetátalakítási programban vállalt kötelezettségeit, akkor az MVH egy alkalommal emelt összegű bírság fizetésére kötelezi.
+
 [^19]: A 4. § (1) bekezdés záró szövegrésze a 8/2013. (II. 18.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^20]: A 4. § (1) bekezdés a) pontja a 8/2013. (II. 18.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^21]: A 4. § (1) bekezdés b) pontja a 8/2013. (II. 18.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
@@ -23,3 +25,4 @@ e)[^24] Anyajuh Kiegészítő Többletjogosultság (a továbbiakban: AjKTj) eset
 [^23]: A 4. § (1) bekezdés d) pontja a 8/2013. (II. 18.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^24]: A 4. § (1) bekezdés e) pontja a 8/2013. (II. 18.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^25]: A 4. § (2) bekezdése a 8/2013. (II. 18.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^26]: A 4. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 7. §-a iktatta be.
