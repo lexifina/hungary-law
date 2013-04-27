@@ -4,7 +4,7 @@
 
 a) a támogatásra jogosult ügyfél azonosító adatai,
 
-b) a tárgyévben a támogatásra jogosult ügyfél által szárított takarmány előállítás céljára felhasznált tüzelőanyag mennyisége,
+b)[^5] a tárgyévben a támogatásra jogosult ügyfél által szárított takarmány előállítás céljára a támogatási kérelem benyújtásáig felhasznált tüzelőanyag mennyisége, átlagos fűtőértéke és a felhasznált hőenergia mennyisége.
 
 c) a tárgyévben a támogatásra jogosult ügyfél által előállított szárított takarmány mennyisége.
 
@@ -23,3 +23,5 @@ a) a támogatási kérelem benyújtását megelőző lezárt kettő pénzügyi �
 b) arról, hogy tudomásul veszi, hogy amennyiben az intézkedésekkel kapcsolatban lejárt tartozását nem egyenlíti ki, a fizetési számláját vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
 
 (5) A támogatási kérelem benyújtását követően hiánypótlásnak nincs helye.
+
+[^5]: Az 5. § (2) bekezdés b) pontja a 27/2013. (IV. 26.) VM rendelet 11. §-ával megállapított szöveg.

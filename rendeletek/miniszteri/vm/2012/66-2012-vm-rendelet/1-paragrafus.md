@@ -14,4 +14,11 @@ f) tárgyév: az a naptári év, amikor az ügyfél de minimis támogatás irán
 
 g) tüzelőanyag: földgáz, illetve PB gáz;
 
-h) ügyfél: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján regisztrált ügyfél, illetve annak jogutódja.
+h) ügyfél: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján regisztrált ügyfél, illetve annak jogutódja;
+
+i)[^1] átlagos fűtőérték: a szárított takarmány előállító üzem által a tárgyévben a támogatási kérelem benyújtásig szárított takarmány előállításra felhasznált tüzelőanyagra vonatkozó számlákon megajoule (a továbbiakban: MJ)/kg vagy MJ/m3 mértékegységben feltüntetett fűtőérték adatok számtani átlaga;
+
+j)[^2] felhasznált hőenergia mennyiség: a szárított takarmány előállító üzem által a tárgyévben a támogatási kérelem benyújtásig szárított takarmány előállításra felhasznált és dokumentált tüzelőanyag mennyiségének és a tüzelőanyag átlagos fűtőértékének szorzata MJ mértékegységben kifejezve.
+
+[^1]: Az 1. § i) pontját a 27/2013. (IV. 26.) VM rendelet 9. §-a iktatta be.
+[^2]: Az 1. § j) pontját a 27/2013. (IV. 26.) VM rendelet 9. §-a iktatta be.
