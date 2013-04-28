@@ -1,4 +1,4 @@
-## 16. §[^4]
+## 16. §[^5]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 7–16. §, valamint a 3. és a 4. melléklet 2013. április 29-én lép hatályba.
 
-[^4]: A 16. § a 17. § (2) bekezdése alapján 2013. április 29-én lép hatályba.
+[^5]: A 16. § a 17. § (2) bekezdése alapján 2013. április 29-én lép hatályba.
