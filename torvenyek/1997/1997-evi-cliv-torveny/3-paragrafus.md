@@ -68,7 +68,7 @@ v) egészségügyi szakma: a q) pontban meghatározott egészségügyi szakképe
 
 w) fenntartó:
 
-wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban felügyeleti szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
+wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban irányító szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
 
 wb) egyházi jogi személy vagy jogi személyiséggel nem rendelkező egyházi egészségügyi szolgáltató esetén az alapító okiratban fenntartóként megjelölt egyházi jogi személy,
 

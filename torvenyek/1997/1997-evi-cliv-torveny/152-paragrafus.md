@@ -14,6 +14,14 @@ e) az iskola-egészségügyi ellátásról.
 
 (2) A települési önkormányzat képviselő-testülete – a kormányrendelet szerinti praxiskezelő által megadott szempontokat figyelembe véve – megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok egyetértésben állapítják meg.
 
-(3) A helyi önkormányzat gondoskodik a tulajdonában és fenntartásában lévő, szakellátást nyújtó egészségügyi szolgáltató működtetéséről, illetve a tulajdonában lévő, szakellátási feladat ellátására szolgáló vagyonhoz kapcsolódó – külön törvényben meghatározott – egészségügyi szakellátási feladatok ellátásáról.
+(3) A helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségének részeként gondoskodik
+
+a) a tulajdonában, illetve fenntartásában lévő, közfinanszírozott egészségügyi szakellátást nyújtó egészségügyi szolgáltató működtetéséről,
+
+b) a 2013. április 28-án tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltató számára – az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján – megállapított közfinanszírozott szakellátási feladatok ellátásáról,
+
+c) a tulajdonában lévő, közfinanszírozott egészségügyi szakellátási feladat ellátására szolgáló vagyonhoz kapcsolódó – az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján a helyi önkormányzat rendelkezési joga alá tartozó szakellátási kapacitással ellátandó – közfinanszírozott egészségügyi szakellátási feladatok ellátásáról.
+
+(3a) A helyi önkormányzat (3) bekezdés szerinti vagyona a (3) bekezdés szerinti intézményműködtetési kötelezettség keretében ellátandó egészségügyi szakellátási feladat teljesítését szolgálja.
 
 (4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzat tájékoztatása alapján – nyilvántartást vezet.

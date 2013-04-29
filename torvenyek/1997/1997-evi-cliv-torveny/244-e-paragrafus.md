@@ -1,0 +1,1 @@
+244/E. § A 2013. április 28-án hatályos 244/D. § (5) bekezdés alapján meghozott döntések – a 244/D. § hatályon kívül helyezésére tekintettel – nem kerülnek alkalmazásra és a döntési kötelezettség teljesítésének elmulasztása jogkövetkezményekkel nem jár.
