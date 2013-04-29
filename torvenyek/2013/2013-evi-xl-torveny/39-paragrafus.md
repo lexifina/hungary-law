@@ -1,0 +1,5 @@
+## 10. A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény módosítása
+
+39. § A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 5. Az egészségügyi szolgáltatók átadásának speciális szabályai alcíme a következő 8/A. §-sal egészül ki:
+
+„8/A. § Ha az e törvény alapján állami tulajdonba került, gazdasági társasági formában működő fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató megszűnik, az európai uniós társfinanszírozású projektek tekintetében a kedvezményezett jogutódja a fenntartó által kijelölt egészségügyi szolgáltató. A támogatási szerződésnek a jogutódlás, valamint a fenntartóváltozás miatt szükséges módosítását az átvett egészségügyi intézmény az átadás-átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.”

@@ -1,0 +1,3 @@
+45. § A Ttv. 2. A települési önkormányzat egészségügyi intézményeinek és vagyonának átvétele alcíme a következő 7/A. §-sal egészül ki:
+
+„7/A. § Ha az e törvény alapján állami tulajdonba került, gazdasági társaságként működő fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató megszűnik, az európai uniós társfinanszírozású projektek tekintetében a kedvezményezett jogutódja a fenntartó által kijelölt egészségügyi szolgáltató. A támogatási szerződésnek a jogutódlás, valamint a fenntartóváltozás miatt szükséges módosítását az átvett egészségügyi intézmény az átadás-átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.”
