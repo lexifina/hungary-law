@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-167-00-00
 | 2013-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-167-00-00.6 |
 | 2013-01-03 | 2010. évi CXXX. törvény | 2011-167-00-00.7 |
 | 2013-04-02 | 2013. évi XX. törvény | 2011-167-00-00.8 |
+| 2013-04-29 | 2013. évi XL. törvény | 2011-167-00-00.9 |
