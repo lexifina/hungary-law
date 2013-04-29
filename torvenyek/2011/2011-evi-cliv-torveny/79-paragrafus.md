@@ -1,4 +1,4 @@
-79. § (1) Az egészségügyi szakellátási kötelezettség a Magyar Államot a települési önkormányzat tulajdonában és fenntartásában lévő, járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által végzett járóbeteg-szakellátások, illetve a települési önkormányzat tulajdonában lévő, járóbeteg-szakellátási feladatok ellátására szolgáló vagyonhoz kapcsolódó járóbeteg-szakellátások vonatkozásában 2013. január 1-jétől terheli.
+79. § (1)
 
 (2)
 
