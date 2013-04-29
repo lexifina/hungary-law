@@ -28,7 +28,9 @@ f) a keresetre, jövedelemre, valamint a levont és befizetett járulékokra von
 
 g) a hozzátartozókra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása a hozzátartozói minőség figyelembevételével történik,
 
-h) a társadalombiztosítási egyéni számlára vonatkozó, a 96/A. § (1) bekezdése szerinti állami adóhatóság által nyilvántartott egyéb adatok
+h) a megállapított, illetve folyósított ellátásra vonatkozó adatok,
+
+i) a Pénzügyi Szervezetek Állami Felügyeletétől átvett adatok, továbbá – ha azt az államháztartás részére utalták át – a visszalépő tagi kifizetések összege
 
 tarthatók nyilván.
 
