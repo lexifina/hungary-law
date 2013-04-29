@@ -1,14 +1,14 @@
-## Az ellátási terület megállapítása[^52]
+## Az ellátási terület megállapítása[^58]
 
-5/A. §[^53] (1) A Tv. 5/A. § (7) bekezdése szerinti feladatokat az OTH látja el.
+5/A. §[^59] (1) A Tv. 5/A. § (7) bekezdése szerinti feladatokat az OTH látja el.
 
-(1a)[^54] A kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosult személy (a továbbiakban: biztosított) annak az egészségügyi szolgáltatónak az ellátási területéhez tartozik, amelyik területi ellátási kötelezettsége a jogosult bejelentett tartózkodási helye, ennek hiányában bejelentett lakóhelye szerinti településre, illetve településrészre kiterjed.
+(1a)[^60] A kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosult személy (a továbbiakban: biztosított) annak az egészségügyi szolgáltatónak az ellátási területéhez tartozik, amelyik területi ellátási kötelezettsége a jogosult bejelentett tartózkodási helye, ennek hiányában bejelentett lakóhelye szerinti településre, illetve településrészre kiterjed.
 
 (2) A Tv. 5/A. § (9) bekezdése alkalmazásában speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatónak minősül
 
-a)[^55] a Magyar Honvédség Honvédkórház,
+a)[^61] a Magyar Honvédség Honvédkórház,
 
-b)[^56]
+b)[^62]
 
 c) a Vasútegészségügyi Szolgáltató Nonprofit Kiemelten Közhasznú Korlátolt Felelősségű Társaság,
 
@@ -22,19 +22,19 @@ g) azon egészségügyi szolgáltató, amely egy vagy több finanszírozott szak
 
 (3) A (2) bekezdés e) pontja szerinti egészségügyi szolgáltatók ellátási területe e rendelet erejénél fogva az őrizetbe vett, az előzetesen letartóztatott, az elzárásra utalt és a szabadságvesztés büntetését töltő személyek egészségügyi ellátására terjed ki.
 
-(3a)[^57] A (2) bekezdés a), c), d), f) és g) pontja szerinti esetben az egészségügyi szolgáltató ellátási területe megállapítható a speciális ellátotti kör meghatározásával is.
+(3a)[^63] A (2) bekezdés a), c), d), f) és g) pontja szerinti esetben az egészségügyi szolgáltató ellátási területe megállapítható a speciális ellátotti kör meghatározásával is.
 
 (4) A (2) bekezdés f) és g) pontja szerinti egészségügyi szolgáltatók körét – a működési engedély és a finanszírozási szerződés alapján – az OTH az OEP bevonásával évente felülvizsgálja, és az egészségügyi szolgáltatók listáját a honlapján közzéteszi.
 
-(5)[^58] Az egyes egészségügyi szolgáltatók által szakmai specialitások alapján több térségre kiterjedően nyújtott, illetve országosan kiemelt, a progresszivitás legmagasabb szintjén végzett, az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott ellátások esetében – a szakmánkénti terület-megállapítás és az átfedésmentesség követelménye alkalmazásának mellőzésével – több térségre, illetve Magyarország teljes területére kiterjedő ellátási terület állapítható meg.
+(5)[^64] Az egyes egészségügyi szolgáltatók által szakmai specialitások alapján több térségre kiterjedően nyújtott, illetve országosan kiemelt, a progresszivitás legmagasabb szintjén végzett, az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott ellátások esetében – a szakmánkénti terület-megállapítás és az átfedésmentesség követelménye alkalmazásának mellőzésével – több térségre, illetve Magyarország teljes területére kiterjedő ellátási terület állapítható meg.
 
-(5a)[^59] A fekvőbeteg-szakellátás keretében gyakorolt szülészet-nőgyógyászat szakma esetében az ellátási terület egyes szülészeti, illetve nőgyógyászati beavatkozások körére vonatkozóan is megállapítható.
+(5a)[^65] A fekvőbeteg-szakellátás keretében gyakorolt szülészet-nőgyógyászat szakma esetében az ellátási terület egyes szülészeti, illetve nőgyógyászati beavatkozások körére vonatkozóan is megállapítható.
 
-(5b)[^60] Abban az esetben, ha a 2. számú mellékletben valamelyik szakma másik, az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló rendelet szerint külön szakmakóddal rendelkező szakmát is magában foglal, az ellátási területet szakmakódok szerinti bontásban külön-külön is meg lehet állapítani, függetlenül attól, hogy a szakmakód szerinti bontás progresszivitási szint vagy egyes beavatkozások köre alapján történik.
+(5b)[^66] Abban az esetben, ha a 2. számú mellékletben valamelyik szakma másik, az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló rendelet szerint külön szakmakóddal rendelkező szakmát is magában foglal, az ellátási területet szakmakódok szerinti bontásban külön-külön is meg lehet állapítani, függetlenül attól, hogy a szakmakód szerinti bontás progresszivitási szint vagy egyes beavatkozások köre alapján történik.
 
-(5c)[^61] A krónikus ellátási formában ellátható szakmák esetében a szakmai minimumfeltétellel rendelkező szakmák esetében külön-külön kell megállapítani az ellátási területet.
+(5c)[^67] A krónikus ellátási formában ellátható szakmák esetében a szakmai minimumfeltétellel rendelkező szakmák esetében külön-külön kell megállapítani az ellátási területet.
 
-(5d)[^62] A Tv. 5/A. § (11) bekezdés e) pontja alapján – az (5) bekezdésben foglaltakon túl – nem kell figyelembe venni a térséghatárt
+(5d)[^68] A Tv. 5/A. § (11) bekezdés e) pontja alapján – az (5) bekezdésben foglaltakon túl – nem kell figyelembe venni a térséghatárt
 
 a) a rehabilitációs szakellátások esetében,
 
@@ -46,17 +46,17 @@ d) a stroke ellátások esetében,
 
 e) a PIC ellátások esetében.
 
-(5e)[^63] Nem kell ellátási területet megállapítani a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások esetében, valamint az egynapos ellátások esetében.
+(5e)[^69] Nem kell ellátási területet megállapítani a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások esetében, valamint az egynapos ellátások esetében.
 
-[^52]: Az 5/A. §-t megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
-[^53]: Az 5/A. §-t a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
-[^54]: Az 5/A. § (1a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^55]: Az 5/A. § (2) bekezdés a) pontja a 325/2011. (XII. 28.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
-[^56]: Az 5/A. § (2) bekezdés b) pontját a 325/2011. (XII. 28.) Korm. rendelet 73. §-a hatályon kívül helyezte.
-[^57]: Az 5/A. § (3a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (2) bekezdése iktatta be.
-[^58]: Az 5/A. § (5) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 64. § (2) bekezdése iktatta be.
-[^59]: Az 5/A. § (5a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
-[^60]: Az 5/A. § (5b) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg.
-[^61]: Az 5/A. § (5c) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
-[^62]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
-[^63]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
+[^58]: Az 5/A. §-t megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^59]: Az 5/A. §-t a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^60]: Az 5/A. § (1a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^61]: Az 5/A. § (2) bekezdés a) pontja a 325/2011. (XII. 28.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^62]: Az 5/A. § (2) bekezdés b) pontját a 325/2011. (XII. 28.) Korm. rendelet 73. §-a hatályon kívül helyezte.
+[^63]: Az 5/A. § (3a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^64]: Az 5/A. § (5) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 64. § (2) bekezdése iktatta be.
+[^65]: Az 5/A. § (5a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
+[^66]: Az 5/A. § (5b) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg.
+[^67]: Az 5/A. § (5c) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
+[^68]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
+[^69]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.

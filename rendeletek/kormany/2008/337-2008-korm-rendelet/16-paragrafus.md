@@ -1,8 +1,8 @@
 ## Vegyes rendelkezések
 
-16. § (1)[^190] A Tv. 3. § (3) bekezdésében meghatározott kapacitások rendelkezésre bocsátásáról a katasztrófahelyzet elrendelését követően az országos tisztifőorvos haladéktalanul rendelkezik a fenntartó értesítése útján.
+16. § (1)[^194] A Tv. 3. § (3) bekezdésében meghatározott kapacitások rendelkezésre bocsátásáról a katasztrófahelyzet elrendelését követően az országos tisztifőorvos haladéktalanul rendelkezik a fenntartó értesítése útján.
 
-(2)[^191] A kapacitásokat úgy kell rendelkezésre bocsátani, hogy az egészségügyi szolgáltató által a nyújtott ellátások körében a sürgős szükség által indokolt szolgáltatásokhoz szükséges kapacitásmennyiség folyamatosan rendelkezésre álljon.
+(2)[^195] A kapacitásokat úgy kell rendelkezésre bocsátani, hogy az egészségügyi szolgáltató által a nyújtott ellátások körében a sürgős szükség által indokolt szolgáltatásokhoz szükséges kapacitásmennyiség folyamatosan rendelkezésre álljon.
 
-[^190]: A 16. § (1) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 37. pontja szerint módosított szöveg.
-[^191]: A 16. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 34. pontja szerint módosított szöveg.
+[^194]: A 16. § (1) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 37. pontja szerint módosított szöveg.
+[^195]: A 16. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 34. pontja szerint módosított szöveg.

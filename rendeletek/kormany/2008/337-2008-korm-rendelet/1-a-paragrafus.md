@@ -1,27 +1,24 @@
-## Az egészségügyi szakellátási kötelezettségre, valamint az ahhoz kapcsolódó finanszírozásra és szerződésekre vonatkozó szabályok[^19]
+## Az egészségügyi szakellátási kötelezettség nem teljesítése esetén alkalmazandó szabályok[^20]
 
-1/A. §[^20] (1) A Tv. 2. § (1) bekezdés b) pontja alapján a magyar állam az egészségügyi szakellátási kötelezettségét attól az időponttól köteles teljesíteni, hogy
+1/A. §[^21] (1) A Tv. 1/A. § (2) bekezdése szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve az egészségügyi szakellátási feladat nem teljesítéséről szóló – a Tv. 1/A. § (3) bekezdése szerinti – bejelentést (a továbbiakban: bejelentés) az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) részére kell megküldeni, melyben – a Tv. 1/A. § (3) bekezdésében foglaltakon túl – meg kell jelölni a kötelezettség, illetve a szakellátási feladat nem teljesítésének kezdő időpontját azzal, hogy azt a bejelentés lehetőség szerint legalább 15 nappal meg kell hogy előzze.
 
-a) a feladatot ellátó egészségügyi szolgáltató a magyar állam tulajdonába kerül, illetve ha a tulajdon átvételéről szóló megállapodás vagy jogszabály ettől eltérően rendelkezik, a megállapodásban vagy a jogszabályban meghatározott időponttól,
+(2) Az OTH a bejelentést követően haladéktalanul tájékoztatja ennek tényéről az egészségügyért felelős minisztert, az Országos Egészségbiztosítási Pénztárt (a továbbiakban: OEP) és a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet (a továbbiakban: GYEMSZI).
 
-b) a szakellátási kapacitást, illetve ellátási területet az állami tulajdonban lévő szolgáltató számára megállapító határozat végrehajthatóvá válik, vagy
+(3) Az OTH
 
-c) az állam a (3), illetve a (4) bekezdés szerinti esetben – a Tv. 2. § (2) bekezdése alapján – köteles a szakellátási feladatról gondoskodni.
+a) ha a bejelentés legalább 15 nappal megelőzi a nem teljesítésnek a bejelentésben megjelölt kezdő időpontját, a bejelentést követően 8 napon belül,
 
-(2) A Tv. 2. § (1) bekezdés a) pontja szerinti egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a Tv. 2. § (1) bekezdés c) pontja szerinti szakellátási feladat átmeneti nem teljesítése esetén – annak időtartamáig – a Tv. 2. § (2) bekezdése alapján a magyar állam ideiglenesen köteles a feladat ellátásáról gondoskodni.
+b) az a) pont alá nem tartozó esetben haladéktalanul
 
-(3) Ha a feladat állam általi ellátásának a (2) bekezdés szerinti kezdőnapját követő harmadik hónap utolsó napjáig nem kezdi meg a Tv. 2. § (1) bekezdés a), illetve c) pontja szerinti kötelezett a feladat ellátását, a feladat állam általi ideiglenes ellátásának kezdőnapját követő negyedik hónap első napjától az adott egészségügyi szakellátás a Tv. 2. § (2) bekezdése alapján az állam feladatává válik.
+megteszi a Tv. 1/A. § (4) és (5) bekezdésében meghatározottak közül a folyamatos ellátás biztosítása érdekében szükséges intézkedéseket, és ha ezek miatt szükséges, hivatalból rendelkezik a Tv. 7. § (11) bekezdése szerinti kapacitásátcsoportosításról, valamint hivatalból módosítja az érintett egészségügyi szolgáltatók ellátási területét és működési engedélyét.
 
-(4) Amennyiben az egészségügyi szakellátási intézményműködtetésre kötelezett önkormányzat a kötelezettségét, illetve a Tv. 2. § (1) bekezdés c) pontja szerinti szakellátási feladat ellátására kötelezett a feladat ellátását nem tudja és – a (2) bekezdés szerinti határidőt megelőző nyilatkozata szerint – a (2) bekezdés szerinti határidőt követően sem fogja tudni teljesíteni, a feladat ellátásáról a magyar állam – a Tv. 2. § (2) bekezdése alapján – a nyilatkozatban megjelölt naptól, de legkésőbb a feladatnak az állam által a (2) bekezdés alapján történő ellátásának kezdő napját követő negyedik hónap első napjától köteles gondoskodni.
+(4) A Tv. 1/A. § (4) bekezdés a) pontja szerinti intézkedésről szóló határozatban a Tv. 1/A. § (11) bekezdése szerinti időpont figyelembevételével kell meghatározni a hiányzó személyi, illetve tárgyi feltételek biztosításának határidejét.
 
-(5) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdésének alkalmazásában az egészségügyi szakellátási feladat a magyar állam részére megállapított feladatnak az (1) bekezdés a), illetve c) pontjában foglalt esetben az (1) bekezdés a), illetve c) pontjában meghatározott időponttól minősül.
+(5) Az OTH a Tv. 1/A. § (4) és (5) bekezdése alapján hozott határozatot, valamint a működési engedélyt – legkésőbb a határozathozatalt követő napon – megküldi a GYEMSZI-nek és az OEP-nek, valamint tájékoztatja az egészségügyért felelős minisztert.
 
-(6) A (2) bekezdés szerinti esetben a Tv. 2. § (1) bekezdés a) pontja szerinti egészségügyi szakellátási intézményműködtetési kötelezettség keretében végzett ellátásokért, illetve a Tv. 2. § (1) bekezdés c) pontja szerinti szakellátási feladatokért finanszírozásra az ideiglenesen azokat ellátó szolgáltató jogosult a finanszírozási szerződésében és a külön jogszabályban foglaltak szerint. Az Országos Egészségbiztosítási Pénztár az átmeneti időszakra – szükség esetén – határozott idejű finanszírozási szerződést köt.
+(6) Az OEP a határozat és a működési engedély szükséges módosításának kézhezvételét követően a (3) bekezdés a) pontja szerinti esetben 5 napon belül, a (3) bekezdés b) pontja szerinti esetben haladéktalanul gondoskodik az érintett egészségügyi szolgáltatók finanszírozási szerződésének – a Tv. 1/A. § (6) bekezdésében foglaltak figyelembevételével történő – módosításáról, illetve új finanszírozási szerződés megkötéséről.
 
-(7) A magyar állam szakellátási kötelezettsége keretében végzett ellátásokért az egészségügyi szolgáltató az (1) bekezdés szerinti időponttól jogosult finanszírozásra a finanszírozási szerződésében és a külön jogszabályban foglaltak szerint.
+(7) A Tv. 1/A. § (4) bekezdés b) pontja alapján kijelölt szolgáltató által az átmeneti időszak alatt végzett feladat ellátása után járó finanszírozás a (6) bekezdés alapján megkötött szerződés alapján az egészségügyi szakellátások finanszírozására vonatkozó jogszabályok szerint történik, azzal, hogy a kijelölt szolgáltató csak azok után a teljesítmények után jogosult finanszírozásra, amelyeket a (3) bekezdés alapján hozott kijelölő határozatban megjelölt időszak alatt ténylegesen nyújtott. A teljesítmények elszámolása a kijelölő határozatban megállapított határidő szerint időarányosan kerül az OEP által megállapításra.
 
-(8)[^21] Ha a Tv. 2. § (2), illetve (2a) bekezdése esetében a feladat állami ellátása érdekében szükséges, az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) határozattal rendelkezik a kapacitások – Tv. 7. § (11) bekezdése szerinti – átcsoportosításáról és az ahhoz kapcsolódó ellátási területek módosításáról.
-
-[^19]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.
-[^20]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.
-[^21]: Az 1/A. § (8) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^20]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^21]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
