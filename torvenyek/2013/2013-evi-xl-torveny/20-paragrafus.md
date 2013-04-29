@@ -40,6 +40,4 @@ d) tárgyát képező szakellátást és az ahhoz kapcsolódóan ideiglenesen á
 
 (10) Ha egészségügyi szolgáltatónál megállapodással, illetve egészségügyi ellátási szerződéssel érintett feladathoz kapcsolódva jön létre, illetve kerül befogadásra e törvény alapján kapacitás, az – figyelemmel a (2) bekezdésben foglaltakra – a szakellátási feladatot átadó egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó feladatok ellátására szolgál.”
 
-(2) Az Eftv. 2. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) A (7), illetve a (8) bekezdés szerinti bejelentési kötelezettség nem teljesítése esetén – az egészségügyi hatósági és igazgatási tevékenységről szóló törvényben meghatározottak szerinti – egészségügyi bírság kiszabásának van helye.”
+(2)
