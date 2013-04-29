@@ -4,7 +4,7 @@
 
 7. §[^24] (1)[^25] Az egészségügyi szolgáltatás nyújtására jogosító engedélyezési eljárás lefolytatása és a működési engedély kiadása a (2)–(5) és (7) bekezdésben foglaltak szerint az egészségügyi államigazgatási szerv feladat- és hatáskörébe tartozik. Az egészségügyi államigazgatási szerv a működési engedélyt kérelemre, valamint e rendeletben vagy jogszabályban meghatározott esetben hivatalból adja ki. E rendelet szabályait értelemszerűen kell alkalmazni a hivatalból indult eljárásra is.
 
-(2)[^26] A működési engedély kiadására
+(2)[^26] Ha jogszabály másképp nem rendelkezik, a működési engedély kiadására
 
 a) fekvőbeteg-szakellátást, mentést, betegszállítást, vérellátást, haemodialízist és sejt- és szövetbanki, biobanki, intézeten kívüli szülészeti és újszülött-ellátási tevékenységet, valamint a fekvő- és járóbeteg szakellátást – diagnosztikai szolgáltatást is ideértve – egyidejűleg nyújtó egészségügyi szolgáltató és ezen egészségügyi szolgáltató közreműködői esetén – függetlenül attól, hogy a szolgáltató hány telephelyen nyújtja szolgáltatásait – az Országos Tisztifőorvosi Hivatal,
 
@@ -33,7 +33,7 @@ c) amennyiben az a) pont szerinti fekvő- és járóbeteg-szakellátást – dia
 [^23]: A 6/B. §-t a 25/2004. (II. 26.) Korm. rendelet 4. §-a iktatta be, szövege a 308/2009. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^24]: A 7. § a 351/2010. (XII. 30.) Korm. rendelet 104. § (3) bekezdésével megállapított szöveg.
 [^25]: A 7. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 48. § (1) bekezdése szerint módosított szöveg.
-[^26]: A 7. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^26]: A 7. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított, nyitó szövegrésze a 125/2013. (IV. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^27]: A 7. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
 [^28]: A 7. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
 [^29]: A 7. § (4a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
