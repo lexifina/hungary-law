@@ -1,0 +1,45 @@
+3. melléklet a 124/2013. (IV. 26.) Korm. rendelethez
+
+## Elszámolás a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról
+
+1. A munkáltatóra vonatkozó adatok
+
+1.1. neve,
+
+1.2. címe,
+
+1.3. törzsszáma,
+
+1.4. adószáma,
+
+1.5. pénzforgalmi jelzőszáma,
+
+1.6. KSH kódja,
+
+1.7. pénzügyi körzet,
+
+1.8. OEP finanszírozási kód,
+
+1.9. bankszámlaszám, bankszámlát vezető pénzintézet neve.
+
+2. A támogatásra vonatkozó adatok
+
+2.1. a kapott támogatás összesített bruttó összege/hónap,
+
+2.2. a kifizetőt terhelő közterhek összege/hónap.
+
+3. A kifizetett támogatásra vonatkozó adatok
+
+3.1. a kifizetőt terhelő, közterhekkel növelt bruttó összeg,
+
+3.2. a foglalkoztatottaknak kifizetett/október–december hónapokra kifizetendő nettó összeg.
+
+4. Záró rész
+
+4.1. dátum,
+
+4.2. az adatlap kitöltéséért felelős neve, telefonszáma,
+
+4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
+
+4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
