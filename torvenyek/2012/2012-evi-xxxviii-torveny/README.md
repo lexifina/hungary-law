@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-38-00-00
 | 2012-10-26 | 2012. évi CLIV. törvény | 2012-38-00-00.5 |
 | 2012-12-28 | 2012. évi CCXII. törvény | 2012-38-00-00.6 |
 | 2013-01-01 | 2012. évi CCVIII. törvény | 2012-38-00-00.7 |
+| 2013-04-29 | 2013. évi XL. törvény | 2012-38-00-00.8 |
