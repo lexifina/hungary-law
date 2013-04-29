@@ -76,25 +76,31 @@ ge) 28. § (5) bekezdése,
 
 h)[^45] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény
 
-ha) 4. § (2)–(4) bekezdése,
+ha) 1/A. § (3)–(5) bekezdése,
 
-hb) 5. § (2), (3) és (5) bekezdése,
+hb) 2. § (7) és (8) bekezdése,
 
-hc) 5/A. § (1), (7), (10) és (11) bekezdése,
+hc) 2/E. § (10) bekezdése,
 
-hd) 5/B. § (1), (4) és (5) bekezdése,
+hd) 4. § (2)–(4) bekezdése,
 
-he) 7. § (7) és (11) bekezdése,
+he) 5. § (2), (3) és (5) bekezdése,
 
-hf) 8/A. § (1) bekezdése,
+hf) 5/A. § (1), (7), (8a), (10) és (11) bekezdése,
 
-hg) 10. § (2) bekezdése,
+hg) 5/B. § (1), (4) és (5) bekezdése,
 
-hh) 14. § (7) és (12) bekezdése,
+hh) 7. § (7) és (11) bekezdése,
 
-hi)[^46] 11. § (3) bekezdése,
+hi) 10. § (2) bekezdése,
 
-i)[^47] a gyógyszertárak vonatkozásában az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 20. § (1), (4), (5) és (7) bekezdése,
+hj) 11. § (3) bekezdése,
+
+hk) 14. § (12) és (14) bekezdése,
+
+i)[^46] a gyógyszertárak vonatkozásában az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 20. § (1), (4), (5) és (7) bekezdése,
+
+j)[^47] a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 5. § (1a) bekezdése
 
 ## szerinti feladatok ellátására.
 
@@ -195,9 +201,9 @@ cb) 24. § e) és f) pontja
 [^42]: A 12. § (4) bekezdés c) pont cb) alpontja a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^43]: A 12. § (4) bekezdés f) pontja a 246/2011. (XI. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^44]: A 12. § (4) bekezdés g) pontja a 325/2011. (XII. 28.) Korm. rendelet 80. § (3) bekezdésével megállapított szöveg.
-[^45]: A 12. § (4) bekezdés h) pontját a 137/2012. (VI. 29.) Korm. rendelet 64. § (1) bekezdése iktatta be.
-[^46]: A 12. § (4) bekezdés h) pont hi) alpontját a 137/2012. (VI. 29.) Korm. rendelet 64. § (2) bekezdése iktatta be.
-[^47]: A 12. § (4) bekezdés i) pontját a 447/2012. (XII. 29.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^45]: A 12. § (4) bekezdés h) pontját a 137/2012. (VI. 29.) Korm. rendelet 64. § (1) bekezdése iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^46]: A 12. § (4) bekezdés i) pontját a 447/2012. (XII. 29.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^47]: A 12. § (4) bekezdés j) pontját a 125/2013. (IV. 26.) Korm. rendelet 15. § (2) bekezdése iktatta be.
 [^48]: A 12. § (5) bekezdés b) pontja a 325/2011. (XII. 28.) Korm. rendelet 86. § a) pontja szerint módosított szöveg.
 [^49]: A 12. § (5) bekezdés b) pont ba) alpontját a 325/2011. (XII. 28.) Korm. rendelet 87. § b) pontja hatályon kívül helyezte.
 [^50]: A 12. § (5) bekezdés c) pont ca)–ce) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
