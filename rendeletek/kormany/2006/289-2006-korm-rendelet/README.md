@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-289-20-
 | 2013-03-01 | 2006-289-20-22.13 | 318/2010. (XII. 27.) Korm. rendelet |
 | 2013-03-29 | 2006-289-20-22.14 | 90/2013. (III. 28.) Korm. rendelet |
 | 2013-04-01 | 2006-289-20-22.15 | 90/2013. (III. 28.) Korm. rendelet |
+| 2013-04-29 | 2006-289-20-22.16 | 123/2013. (IV. 26.) Korm. rendelet |
