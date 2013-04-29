@@ -1,3 +1,5 @@
+## 12. Vegyes rendelkezések
+
 12. § (1) Az az egészségügyi szolgáltató, amely
 
 a) a 8. § (2) bekezdése alapján kötött és érvényes finanszírozási szerződéssel rendelkezik, és

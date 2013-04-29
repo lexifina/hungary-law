@@ -1,3 +1,5 @@
+## 11. Előzetes többletkapacitás-befogadás
+
 11. § (1) Az egészségügyi szolgáltatónak az E. Alap számára többletforrásigényt eredményező fejlesztése nyomán létrejövő kapacitásának előzetes befogadását – amennyiben az éven túli kötelezettségvállalást eredményez – a Kormány határozatban hagyja jóvá kormányrendelet szerinti eljárás keretében.
 
 (2) Amennyiben az előzetes többletkapacitás-befogadás az (1) bekezdéstől eltérően nem eredményez éven túli kötelezettségvállalást, a kapacitásbefogadás tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az egészségbiztosító, az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előzetesen – kormányrendeletben foglaltak szerint – egyetértett.

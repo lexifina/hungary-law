@@ -1,3 +1,5 @@
+## 9. A kapacitásokon nyújtott ellátások finanszírozása
+
 8. § (1) Az egészségbiztosító felelős
 
 a) a 3. § (1) bekezdés a), b) és d) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,

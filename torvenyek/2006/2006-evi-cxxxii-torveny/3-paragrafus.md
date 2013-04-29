@@ -1,6 +1,8 @@
+## 4. Az országos kapacitásmennyiség
+
 3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
 
-a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
+a) a kapacitás-nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
 
 b) az a) pont szerinti nyilvántartásban nem szereplő kapacitások tekintetében a 2012. december 31-én lekötött kapacitások,
 
@@ -18,4 +20,4 @@ d) a tartalékkapacitások
 
 (5) Az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény és a végrehajtásáról szóló kormányrendelet szerinti eljárások során változhat.
 
-(6) Ha a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató egészségügyi tevékenységét gazdasági társaság működési formában szándékozik a továbbiakban ellátni, a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató helyébe – a költségvetési szerv megszűnésével egyidejűleg – lépő, az ellátási kötelezettséget és meglévő szerződéses kapacitások továbbvitelét vállaló gazdasági társaság a költségvetési szerv kapacitásai tekintetében a költségvetési szerv jogutódja.
+(6)

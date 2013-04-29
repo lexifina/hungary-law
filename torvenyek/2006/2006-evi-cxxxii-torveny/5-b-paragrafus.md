@@ -1,4 +1,4 @@
-5/B. § (1) Az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
+5/B. § (1) A kapacitás-nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
 
 a) a (2) bekezdésben meghatározott esetekben kérelemre,
 
@@ -6,7 +6,7 @@ b) a (4) bekezdésben meghatározott esetben hivatalból
 
 módosítja.
 
-(2) Az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási terület módosítása iránt kérelmet nyújthatnak be az ellátási terület módosításával érintett
+(2) A kapacitás-nyilvántartásban szereplő ellátási terület módosítása iránt kérelmet nyújthatnak be az ellátási terület módosításával érintett
 
 a) egészségügyi szolgáltatók fenntartói közösen,
 

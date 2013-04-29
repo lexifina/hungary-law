@@ -1,3 +1,5 @@
+## 7. Az ellátási területek megállapítása és módosítása
+
 5/A. § (1) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint amennyiben az érintett egészségügyi szolgáltató fenntartójával nem azonos, a Kormány által kijelölt szerv szakértői véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
 
 (2) Az ellátási területet településenként, illetőleg valamely településre csak részben kiterjedő ellátási terület esetén a település érintett részének közterületek általi lehatárolásának pontos meghatározásával kell kijelölni.
@@ -10,19 +12,25 @@
 
 (6) Az ellátási terület megállapítása során a (2)–(5) bekezdésben foglaltakon túl figyelembe kell venni a 4/A. § (5) bekezdésében foglaltakat.
 
-(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv közhiteles nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a nyilvántartásba.
+(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv közhiteles kapacitás-nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a kapacitás-nyilvántartásba.
 
-(7a) A kapacitásokat és az ellátási területeket érintő változásokat a (7) bekezdés szerinti nyilvántartáson a változás hatálybalépésével egyidejűleg át kell vezetni.
+(7a) A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
 
-(8) A (7) bekezdés szerinti nyilvántartás tartalmazza
+(8) A kapacitás-nyilvántartás tartalmazza
 
 a) a (7) bekezdés szerinti kapacitásokra és ellátási területekre,
 
 b) az egészségügyi szolgáltató fenntartójának bejelentése alapján szünetelő kapacitásokra,
 
-c) a tartalékkapacitásokra
+c) a tartalékkapacitásokra,
+
+d) a 2. § (2)–(4) bekezdésében foglaltak figyelembevételével az egészségügyi közszolgáltatásért felelős szervre, és
+
+e) a 2. § (1) bekezdés a) pontja szerinti megállapodásra, illetve a 2. § (1) bekezdés b) pontja szerinti szerződésre
 
 vonatkozóan az e törvény végrehajtásáról szóló kormányrendeletben meghatározott adatokat.
+
+(8a) Ha a kapacitás-nyilvántartásban szereplő adatok helytállóságát valamely egészségügyi szolgáltató, illetve fenntartó vitatja, a nyilvántartást vezető egészségügyi államigazgatási szerv az adatok megváltoztatására irányuló kérelem tárgyában dönt és – szükség szerint –a kapacitás-nyilvántartást módosítja. Az egészségügyi államigazgatási szerv határozatára a 6. §-t alkalmazni kell.
 
 (9) A (3) bekezdés szerinti átfedésmentesség követelményét nem kell alkalmazni:
 

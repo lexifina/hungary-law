@@ -1,3 +1,5 @@
+## 10. A váratlan esemény miatt szükséges rendkívüli kapacitásbevonás
+
 10. § (1)
 
 (2) Amennyiben azt váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése indokolja, az egészségügyi államigazgatási szerv, az érintett egészségügyi szolgáltató fenntartója, az egészségügyért felelős miniszter és a államháztartásért felelős miniszter jóváhagyásával az egészségbiztosítónál kezdeményezheti – az egészségügyi szolgáltató megjelölésével egyidejűleg – a lekötött kapacitásokon felüli kapacitásra történő finanszírozási szerződés megkötését.
