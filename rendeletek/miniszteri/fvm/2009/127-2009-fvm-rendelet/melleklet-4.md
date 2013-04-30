@@ -208,6 +208,6 @@
 
 ## Zala megyei települések: Alsószenterzsébet, Bázakerettye, Csesztreg, Gosztola, Iklódbördöce, Kerkabarabás, Kerkafalva, Kerkakutas, Kerkaszentkirály, Kiscsehi, Kistolmács, Lasztonya, Lendvadedes, Lispeszentadorján, Lovászi, Magyarföld, Maróc, Márokföld, Páka, Pórszombat, Rédics, Szentgyörgyvölgy, Szentmargitfalva, Szilvágy, Tornyiszentmiklós
 
-4. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^143]
+4. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^146]
 
-[^143]: A 4. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (3) bekezdésével megállapított, a 128/2012. (XII. 14.) VM rendelet 30. § (14) bekezdése szerint módosított szöveg.
+[^146]: A 4. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (3) bekezdésével megállapított, a 128/2012. (XII. 14.) VM rendelet 30. § (14) bekezdése szerint módosított szöveg.

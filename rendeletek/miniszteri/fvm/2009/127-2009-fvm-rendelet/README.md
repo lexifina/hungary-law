@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-127-20-
 | 2012-12-15 | 2009-127-20-82.8 | 128/2012. (XII. 14.) VM rendelet |
 | 2013-01-01 | 2009-127-20-82.9 | 128/2012. (XII. 14.) VM rendelet |
 | 2013-03-01 | 2009-127-20-82.10 | 128/2012. (XII. 14.) VM rendelet |
+| 2013-04-30 | 2009-127-20-82.11 | 29/2013. (IV. 30.) VM rendelet |

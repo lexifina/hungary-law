@@ -38,11 +38,13 @@
 
 | Borpiaci év: |  |  |  |  |
 
+## 2K28082M_3
+
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | X | Y | Z | AA |
 
 | 1. | A fel- hasz- nált ter- mé- kek kate- góriái | Beszállítás | Szőlőterület adatai | Szőlő (hl/q) | A borászati év kezdete óta előállított termékek és borkészleteken kívüli egyéb készletek a jelentés elkészítésének időpontjában (hektoliterben) |
 
-| 2. | Név | szőlő szár- ma- zási bizo- nyít- vány száma | Tele- pülés (hrsz., dűlő) | terü- let (ha) | ........ OEM | ........ OFJ | Nem OEM/OFJ (FN) ........ fajtájú fajtabor | Nem OEM/OFJ (egyéb FN) bor | Más |
+| 2. | Név | szőlő szár- ma- zási bizo- nyít- vány száma | Tele- pülés (hrsz., dűlő) | terü- let (ha) | ........ OEM | ........ OFJ | Nem OEM/OFJ (FN) ........ fajtájú fajtabor | Nem OEM/OFJ (egyéb FN) bor | Más |
 
 | 3. | Must | Bor | Must | Bor | Must | Bor | Must | Bor | Must | Bor |
 
@@ -62,6 +64,6 @@
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^144]
+5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^147]
 
-[^144]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^147]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.

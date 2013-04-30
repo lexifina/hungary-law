@@ -224,24 +224,24 @@
 
 | 23. |  | az édességi kategória megnevezése |  |
 
-| 24. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | mennyiség (hl – pincekönyv alapján) |
+| 24. | Történet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | a borászati termék megnevezésre | mennyiség (hl – pincekönyv alapján) |
 
-| 25. |  |  |
+| 25. |  |  |  |
 
-| 26. |  |  |
+| 26. |  |  |  |
 
-| 27. |  |  |
+| 27. |  |  |  |
 
-| 28. |  |  |
+| 28. |  |  |  |
 
 ## Megjegyzés:
 
-## A fenti tételekre a ____________ sorszámú bor származási bizonyítványt a forgalomba hozatali engedély igénylésének céljából kiadtam és nyilvántartásba vettem.
+## A fenti tételekre a ...................................................... sorszámú bor származási bizonyítványt a forgalomba hozatali engedély igénylésének céljából kiadtam és nyilvántartásba vettem.
 
 ## A HBB döntésére vonatkozó záradék:
 
-| Kelt.: | _________________________________ |  |  |  |
+| Kelt.: ................................................................... |  | ................................................................... |
 
-|  |  |  |  |  | P.H. | Hegybíró aláírása |
+|  | P. H. | Hegybíró aláírása |
 
 12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez

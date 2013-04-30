@@ -1,6 +1,6 @@
 ## A forgalomba hozatali engedély igénylése
 
-38. §[^75] (1) A forgalomba hozatali engedélyt a NÉBIH honlapján szerkeszthető formában közzétett kérelem benyújtásával kell kérelmezni.
+38. §[^76] (1) A forgalomba hozatali engedélyt a NÉBIH honlapján szerkeszthető formában közzétett kérelem benyújtásával kell kérelmezni.
 
 (2) Az (1) bekezdésben meghatározott kérelem mellé a forgalomba hozónak csatolnia kell:
 
@@ -12,4 +12,4 @@ c) OEM- vagy OFJ-borászati termék esetén a HBB titkára által kiadott, a bor
 
 (3) A borászati hatóság a forgalomba hozatali engedély iránti kérelemhez kapcsolódó minták leadásakor közli a forgalomba hozóval a forgalomba hozatali engedély négy karakterből álló azonosítóját.
 
-[^75]: A 38. § a 128/2012. (XII. 14.) VM rendelet 17. §-ával megállapított szöveg.
+[^76]: A 38. § a 128/2012. (XII. 14.) VM rendelet 17. §-ával megállapított szöveg.

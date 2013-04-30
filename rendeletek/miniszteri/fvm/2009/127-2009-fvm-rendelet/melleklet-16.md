@@ -32,19 +32,19 @@
 
 | 11. | „szemelt” | bor (OEM és OFJ) | teljesen érett vagy nemesen rothadt bogyóknak a kevésbé érettektől való különválogatásával nyert bor, melynek természetes alkoholtartalma legalább 13,59 térfogatszázalék |
 
-| 12. | „szűretlen” | bor | olyan bor, amely hosszabb, többéves érlelés során vált palackéretté, mivel a labilitást okozó anyagok kiváltak belőle vagy a derítések által kerültek tükrös állapotba, s amely esetében a technológia során mellőzték a szűrést |
+| 12. | „szűretlen” (magyar) | bor | Olyan bor, amely esetében mellőzték a szűrést |
 
 | 13. | „termőhelyen palackozva” | bor (OEM és OFJ) | a bor 100%-ban az adott OEM- vagy OFJ-körzetből származik, valamint a palackozás is az adott körzeten belül történt. |
 
 | 14. | „töppedt szőlőből készült bor” | bor (OEM és OFJ) | olyan szőlőbogyók felhasználásával előállított bor, amelynek élettanilag a teljes érésen túljutott, a vízvesztés következtében az értékes alkotórészek betöményedésével jellemezhető szőlőtermés, amelyet a Botrytis cinerea még nem támadott meg és amelyek természetes alkoholtartalma legalább 12,83 térfogatszázalék |
 
-| 12. | „szűretlen” | bor | olyan bor amely esetében mellőzték a szűrést |
+| 15. | „újbor” (magyar) | bor | A szüret évében palackozott bor. |
 
 | 16. | „válogatott szüretelésű bor” | bor (OEM és OFJ) | a tőkén teljesen beérett szőlőből kiválogatott (az éretlen, a beteg, a penészes fürtök különválasztásával), egészséges, részben túlérett bogyóiból előállított bor, amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék |
 
 | 17. | „ó” (fajtanév vagy a ,,bor” szó elé írva) | bor | a szüretet követő legalább harmadik évben palackozott bor |
 
-| 18. | termelői pezsgő | pezsgő, minőségi pezsgő, illatos minőségi pezsgő (OEM) | – a terméket a palackban történő második alkoholos erjesztéssel teszik pezsgővé; – a termék a küvé összeállításától számítva legalább kilenc hónapon át megszakítás nélkül a borseprőn marad ugyanabban az üzemben, ahol a küvé készül; – a terméket degorzsálással választják el a borseprőről; – ugyanabban a gazdaságban – ideértve a termelői csoportokat is – termelt szőlőből állítják elő, amelyben a termelő az OEM pezsgők gyártására szánt szőlőből bort készít; – a címkén jelölik a gazdaságot és a szőlőfajtát. |
+| 18. | „termelői pezsgő” (magyar) | pezsgő, minőségi pezsgő, illatos minőségi pezsgő | – a terméket a palackban történő második alkoholos erjesztéssel teszik pezsgővé; – a termék a küvé összeállításától számítva legalább kilenc hónapon át megszakítás nélkül a borseprőn marad ugyanabban az üzemben, ahol a küvé készül; – a terméket degorzsálással választják el a borseprőről; – ugyanabban a gazdaságban – ideértve a termelői csoportokat is – termelt szőlőből állítják elő, amelyben a termelő a pezsgők vagy minőségi pezsgők vagy illatos minőségi pezsgők készítésére szánt szőlőből bort készít; – a címkén jelölik a gazdaságot és a szőlőfajtát; |
 
 | 19. | „cuvée” (francia) vagy „küvé” (magyar) | bármely borászati termék | legalább két szőlőfajta borából készült borászati termék |
 
@@ -54,11 +54,13 @@
 
 | 22. | „reserve” (angol) | bor, pezsgő, minőségi pezsgő (OEM) | – a vörösborokat minimum 18 hónapon keresztül kell érlelni, amiből legalább 12 hónapig maximum 330 l űrmértékű tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. – a fehér- és rozé borokat minimum 6 hónapon keresztül kell érlelni, amiből legalább 3 hónapig tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^155]
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^158]
 
 „A” rész
 
 Magyar mustfok átszámítása alkoholtartalomra
+
+0M16292B_0
 
 |  | A | B | C |
 
@@ -422,4 +424,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^155]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^158]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
