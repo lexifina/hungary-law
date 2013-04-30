@@ -2,35 +2,13 @@
 
 19. § (1) A támogatási célok megvalósulásának nyomon követése érdekében a támogatásra jogosultnak az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló 18/2009. (III. 6.) FVM rendeletben foglaltak szerint évente nyilatkoznia kell a monitoring adatokról.
 
-(2)[^38] Az (1) bekezdésben foglalt monitoring adatszolgáltatáson túl a célprogram-előírások gazdasági és környezeti hatásainak vizsgálata érdekében az IH hatásindikátor monitorozó rendszert működtet, amely feladat végrehajtása során az NÉBIH közreműködését veszi igénybe.
+(2)[^40] Az (1) bekezdésben foglalt monitoring adatszolgáltatáson túl a célprogram-előírások gazdasági és környezeti hatásainak vizsgálata érdekében az IH hatásindikátor monitorozó rendszert működtet, amely feladat végrehajtása során az NÉBIH közreműködését veszi igénybe.
 
-(3)[^39]
+(3)[^41]
 
-(4) A (2) bekezdés szerinti rendszer keretében a támogatásra jogosultak közül reprezentatív mintasokaság kerül kiválasztásra, különösen az alábbi szempontok figyelembevételével:
+(4)[^42] A (2) bekezdés szerinti rendszer keretében a támogatásra jogosultak közül reprezentatív mintasokaság kerül kiválasztásra.
 
-a) a rendszerbe kiválasztottaknak az intézkedés keretében támogatott összterület 10%-át le kell fednie az országos területi lefedettség szerint;
-
-b) a célprogramok vizsgálata alapján:
-
-ba) gazdasági méretek szerinti csoportok szerint;
-
-bb) a kötelezettségvállalással érintett egybefüggő terület átlagos mérete szerint;
-
-bc) a földterület természetvédelmi és környezetvédelmi besorolása szerint;
-
-bd) a támogatásra jogosult által a gazdálkodásából az intézkedésbe bevont terület nagysága szerint;
-
-be) a támogatásra jogosult által vállalt célprogramok száma szerint;
-
-c) a támogatásra jogosultak vizsgálata alapján:
-
-ca) az üzemek típusa szerint;
-
-cb) szaktanácsadási szolgáltatás igénybevétele szerint;
-
-cc) az iskolai végzettség szerint.
-
-(5)[^40] Az IH a mintasokaság kiválasztási eljárását követően írásban értesíti a kiválasztásra került támogatásra jogosultakat.
+(5)[^43] A mintasokaság kiválasztási eljárását követően az IH a kiválasztásra került támogatásra jogosultak körét a Tv. 14. § (1) bekezdés c) pont cg) alpontja alapján közleményben teszi közzé.
 
 (6) Az a támogatásra jogosult, aki a mintasokaságba kiválasztásra került, köteles a támogatási időszak alatt, valamint az azt követő gazdálkodási év során a gazdasági, természetvédelmi, talajvédelmi és vízvédelmi hatások monitorozása érdekében
 
@@ -40,6 +18,7 @@ b) a hatásindikátor monitorozó rendszer működése érdekében meghatározot
 
 (7) E kötelezettségek teljesítésével kapcsolatban a támogatásra jogosultat költség nem terheli. A hatásindikátor monitorozó rendszer működésére és a (6) bekezdésben foglalt vizsgálatok elvégzésének költségeire a monitoringot végző részére az IH az EMVA Technikai Segítségnyújtás intézkedés keretéből nyújt fedezetet.
 
-[^38]: A 19. § (2) bekezdése a 98/2011. (X. 28.) VM rendelet 9. §-ával megállapított, a 139/2012. (XII. 22.) VM rendelet 19. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^39]: A 19. § (3) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
-[^40]: A 19. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 5. §-ával megállapított szöveg.
+[^40]: A 19. § (2) bekezdése a 98/2011. (X. 28.) VM rendelet 9. §-ával megállapított, a 139/2012. (XII. 22.) VM rendelet 19. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^41]: A 19. § (3) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^42]: A 19. § (4) bekezdése a 30/2013. (IV. 30.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^43]: A 19. § (5) bekezdése a 30/2013. (IV. 30.) VM rendelet 6. § (4) bekezdésével megállapított szöveg.

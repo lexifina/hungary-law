@@ -1,5 +1,3 @@
-## A támogatási összegek mértéke célprogramonként
-
 ## A.) Szántóföldi agrár-környezetgazdálkodási célprogram csoport:
 
 | Támo- gatási rend- szer | célprog- ram azono- sító | Célprogram megnevezése | Támogatás mértéke euró/ha-nak megfelelő forintösszeg |
@@ -154,11 +152,13 @@
 
 | DC | Vizes élőhelyek létrehozása és kezelése | 195 |
 
-3. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^190]
+3. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^196]
 
-## A támogatási kérelmek részletes pontozási szempontrendszere
+A támogatási kérelmek részletes pontozási szempontrendszere
 
 I. Szántóföldi agrár-környezetgazdálkodási célprogram csoport
+
+## 9M22851_0
 
 | Pontozási szempontok szántóföldi célprogramok esetén |  | Célprogramok |
 
@@ -217,6 +217,8 @@ I. Szántóföldi agrár-környezetgazdálkodási célprogram csoport
 ## *** csőd-, felszámolási és végelszámolási eljárás alatt nem álló termelői csoport, illetve termelő szervezet
 
 II. Gyepgazdálkodási agrár-környezetgazdálkodási célprogram csoport
+
+## 9M22851_1
 
 | Pontozási szempontok gyepgazdálkodási célprogramok esetén |  | Célprogramok |
 
@@ -278,6 +280,8 @@ II. Gyepgazdálkodási agrár-környezetgazdálkodási célprogram csoport
 
 III. Ültetvényekre vonatkozó agrár-környezetgazdálkodási célprogram csoport
 
+## 9M22851_2
+
 | Pontozási szempontok ültetvényekre vonatkozó célprogramok esetén |  | Célprogramok |
 
 | Értékelés/ellenőrzés módja | Integrált gyümölcs és szőlőtermesztés | Ökológiai gyümölcs és szőlőtermesztés | Hagyományos gyümölcstermesztés |
@@ -336,4 +340,4 @@ III. Ültetvényekre vonatkozó agrár-környezetgazdálkodási célprogram csop
 
 IV. Vizes élőhely földhasználathoz kapcsolódó agrár-környezetgazdálkodási célprogram csoport
 
-[^190]: A 3. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^196]: A 3. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

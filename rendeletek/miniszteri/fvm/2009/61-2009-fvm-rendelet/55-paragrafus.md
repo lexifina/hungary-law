@@ -4,13 +4,13 @@
 
 (3) Amennyiben a támogatásra jogosult a 41. § (2) és (4) bekezdése vonatkozásában évente eltérő támogatási összegre jogosult és a már igénybe vett teljes támogatási összeg egy részét a 28. § (1) bekezdés szerinti területcsökkenés miatt a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetnie, úgy az egyes gazdálkodási éveket érintően visszafizetendő összeg az adott kötelezettségvállalással érintett egybefüggő területre évenként kifizetett támogatási összeg és a kizárt terület aránya alapján kerül meghatározásra.
 
-(4)[^116] Ha az adminisztratív vagy a helyszíni ellenőrzés során megállapítást nyer, hogy a támogatásra jogosult nem rendelkezik a 29. § (3) bekezdés szerinti igazolással, úgy a támogatásra jogosult részére az adott tábla vonatkozásában az egy gazdálkodási évre járó teljes támogatási összeg nem kerül kifizetésre.
+(4)[^119] Ha az adminisztratív vagy a helyszíni ellenőrzés során megállapítást nyer, hogy a támogatásra jogosult nem rendelkezik a 29. § (3) bekezdés szerinti igazolással, úgy a támogatásra jogosult részére az adott tábla vonatkozásában az egy gazdálkodási évre járó teljes támogatási összeg nem kerül kifizetésre.
 
 (5) Amennyiben a támogatásra jogosult a 16. § (7) bekezdés szerinti határidőn belül nem tesz eleget a bejelentési kötelezettségének, akkor a mulasztással érintett előírás nem teljesítettnek minősül.
 
 (6) Amennyiben a 16. § (4) bekezdésében foglalt zöldugarra vonatkozó előírásoknak való meg nem felelés kerül megállapításra, úgy a vetésszerkezet tekintetében a zöldugarra vonatkozó pont nem teljesítettnek minősül.
 
-(7)[^117] Nem kerül alkalmazásra jogkövetkezmény, amennyiben a támogatásra jogosult teljesíti a 69. § (4) bekezdés b) pontjának bl) alpontjában foglaltakat, de ezzel a terület méretéből adódóan túllépi a 69. § (4) bekezdés b) pontjának bd) alpontjában foglalt előírás szerinti maximális kaszálatlanul hagyandó területnagyságot.
+(7)[^120] Nem kerül alkalmazásra jogkövetkezmény, amennyiben a támogatásra jogosult teljesíti a 69. § (4) bekezdés b) pontjának bl) alpontjában foglaltakat, de ezzel a terület méretéből adódóan túllépi a 69. § (4) bekezdés b) pontjának bd) alpontjában foglalt előírás szerinti maximális kaszálatlanul hagyandó területnagyságot.
 
-[^116]: Az 55. § (4) bekezdése a 139/2012. (XII. 22.) VM rendelet 10. §-ával megállapított szöveg.
-[^117]: Az 55. § (7) bekezdését a 77/2009. (VI. 30.) FVM rendelet 11. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^119]: Az 55. § (4) bekezdése a 139/2012. (XII. 22.) VM rendelet 10. §-ával megállapított szöveg.
+[^120]: Az 55. § (7) bekezdését a 77/2009. (VI. 30.) FVM rendelet 11. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

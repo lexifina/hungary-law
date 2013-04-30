@@ -34,18 +34,22 @@ f) a pihentetett terület nem vehető figyelembe zöldugarként.
 
 (7)[^30] A 3. § (1) bekezdés a) pontja szerinti célprogramok esetében a támogatásra jogosultnak az MVH által közleményben közzétett módon be kell jelentenie:
 
-a) zöldtrágyázás megvalósítása esetén a növényállomány beforgatását megelőző 15 napon belül a zöldtrágyázásra kerülő növényfajt, a munkálat végzésének helyét és időpontját;
+a)[^31] zöldtrágyázás megvalósítása esetén a növényállomány beforgatását megelőzően a zöldtrágyázásra kerülő növényfajt, a munkálat végzésének helyét és időpontját;
 
 b) másodvetés megvalósítása esetén a munkálatok elvégzését követő 15 napon belül az elvetett növényfajt, a munkálat végzésének helyét és időpontját;
 
 c) középmély lazítás megvalósítása esetén a munkálat elvégzését követő 15 napon belül a megvalósítás helyét és időpontját.
 
-(8)[^31] A vetésszerkezeti előírások vizsgálatánál azok a területek, amelyekre egy adott évben nem nyújtottak be kifizetési kérelmet, az adott gazdálkodási évnél egyéb kultúraként kerülnek figyelembevételre.
+(8)[^32] A vetésszerkezeti előírások vizsgálatánál azok a területek, amelyekre egy adott évben nem nyújtottak be kifizetési kérelmet, az adott gazdálkodási évnél egyéb kultúraként kerülnek figyelembevételre.
 
-(9)[^32] Ha a 2013/2014., azaz az ötödik gazdálkodási év vonatkozásában a zöldtrágya növény beforgatása legkésőbb 2014. október 31-ig megtörténik, akkor a zöldtrágyázást megvalósítottnak kell tekinteni.
+(9)[^33] Ha a 2013/2014., azaz az ötödik gazdálkodási év vonatkozásában a zöldtrágya növény beforgatása legkésőbb 2014. október 31-ig megtörténik, akkor a zöldtrágyázást megvalósítottnak kell tekinteni.
+
+(10)[^34] A vetésszerkezeti előírások vizsgálatánál azok a területek, amelyekre egy adott évben vis maior kérelem keretében pihentetett hasznosítást adtak meg, az adott gazdálkodási évnél egyéb kultúraként kerülnek figyelembevételre.
 
 [^28]: A 16. § (4) bekezdés b) pontja a 92/2011. (X. 5.) VM rendelet 4. §-ával megállapított szöveg.
 [^29]: A 16. § (6) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
 [^30]: A 16. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
-[^31]: A 16. § (8) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.
-[^32]: A 16. § (9) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.
+[^31]: A 16. § (7) bekezdés a) pontja a 30/2013. (IV. 30.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^32]: A 16. § (8) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.
+[^33]: A 16. § (9) bekezdését a 139/2012. (XII. 22.) VM rendelet 5. §-a iktatta be.
+[^34]: A 16. § (10) bekezdését a 30/2013. (IV. 30.) VM rendelet 6. § (2) bekezdése iktatta be.

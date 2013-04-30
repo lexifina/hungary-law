@@ -1,5 +1,3 @@
-## A szélerózió elleni célprogram mintaterületei
-
 ## A két mintaterület kialakításában szereplő települések listája:
 
 ## 1.) Homokhátság mintaterület: Ásotthalom, Balástya, Bócsa, Bordány, Bugac, Bugacpusztaháza, Csengele, Csólyospálos, Domaszék, Forráskút, Harkakötöny, Jászszentlászló, Kaskantyú, Kiskunmajsa, Kistelek, Kömpöc, Mórahalom, Móricgát, Orgovány, Öttömös, Páhi, Pirtó, Pusztamérges, Ruzsa, Szank, Szatymaz, Tázlár, Üllés, Zákányszék, Zsana, Zsombó
@@ -11,3 +9,5 @@
 ## A MePAR fizikai blokklistát az IH a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján közleményben adja ki.
 
 8. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
+
+Vásárhelyi Terv Továbbfejlesztésében érintett mintaterületek

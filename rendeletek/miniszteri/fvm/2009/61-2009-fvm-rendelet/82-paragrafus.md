@@ -1,4 +1,4 @@
-## 81/C. §[^187] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 139/2012. (XII. 22.) VM rendelettel [a továbbiakban: 139/2012. (XII. 22.) VM rendelet] megállapított 27. §-át, 42. § (2) bekezdését, 53. § (6) bekezdését, 53. § (8) bekezdését a 139/2012. (XII. 22.) VM rendelet hatálybalépésekor[^188] folyamatban lévő ügyekben is alkalmazni kell.
+## 81/D. §[^193] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 16. § (7) bekezdés a) pontját, a 16. § (10) bekezdését, valamint az 57. § (8) bekezdését a 30/2013. (IV. 30.) VM rendelet hatálybalépésekor[^194] folyamatban lévő eljárásokban is alkalmazni kell.
 
 82. § (1) Az Európai Mezőgazdasági Vidékfejlesztési Alapból nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet [a továbbiakban: 33/2008. (III. 27.) FVM rendelet] 2. §-ának 7. pontja helyébe a következő rendelkezés lép:
 
@@ -18,5 +18,5 @@
 
 (6) A 33/2008. (III. 27.) FVM rendelet 18. § (4) bekezdés b) pontjában a „parcellának” szövegrész helyébe az „összefüggő területnek” szövegrész lép.
 
-[^187]: A 81/C. §-t a 139/2012. (XII. 22.) VM rendelet 17. §-a iktatta be.
-[^188]: A hatálybalépés napja: 2012. december 23.
+[^193]: A 81/D. §-t a 30/2013. (IV. 30.) VM rendelet 6. § (10) bekezdése iktatta be.
+[^194]: A hatálybalépés napja: 2013. április 30.
