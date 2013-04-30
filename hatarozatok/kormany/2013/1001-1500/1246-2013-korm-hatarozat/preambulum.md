@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Energiastratégiában kitűzött energiahatékonysági célok elérése, valamint az Európai Bizottság részére készített – az épületek energiahatékonyságáról szóló 2010/31/EU európai parlamenti és tanácsi irányelv 5. cikk (2) bekezdése szerinti – jelentéshez szükséges intézkedések érdekében
