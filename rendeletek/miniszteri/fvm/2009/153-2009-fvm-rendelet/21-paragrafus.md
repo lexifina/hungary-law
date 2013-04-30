@@ -1,5 +1,3 @@
-## 20. § A külön jogszabályok szerinti védetté nyilvánítási eljárással érintett erdő rendeltetéseit a védetté nyilvánításról szóló jogszabály hatálybalépésével egyidejűleg kell a védelmi funkciónak megfelelően megváltoztatni.
-
 ## Az Országos Erdőállomány Adattárra vonatkozó szabályok
 
 21. § (1) Az erdő Adattárban nyilvántartott adataiban bekövetkező változásokat az erdészeti hatóság az eljárásai során feltárt, megállapított, vagy a jogosult erdészeti szakszemélyzet ellenjegyzésével beérkező bejelentésekben foglalt tények, adatok alapján – a változások nyomon követhetőségének biztosítása mellett – átvezeti.
