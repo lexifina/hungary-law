@@ -1,12 +1,10 @@
-## 6–8. §[^14]
-
 1. melléklet a 90/2008. (VII. 18.) FVM rendelethez
 
-## A talajvédelmi terv készítésére vonatkozó általános követelmények
+A talajvédelmi terv készítésére vonatkozó általános követelmények
 
 A talajvédelmi terveket minden esetben a következők szerint kell összeállítani:
 
-1.[^15] Előlap:
+1.[^18] Előlap:
 
 tartalmazza a talajvédelmi terv megnevezését, készítésének dátumát, készítőjének nevét és címét.
 
@@ -54,8 +52,7 @@ minden esetben javaslatot kell tenni
 
 – ahol e rendelet terhelhetőségi számítást, kijuttatási dózis meghatározását írja elő, csatolni kell a felhasználásra kerülő anyag akkreditált laboratórium által kiállított vizsgálati jegyzőkönyvét, illetve termésnövelő anyag felhasználásakor annak megnevezését és a felhasználásra vonatkozó számítás eredményét tartalmazó adatokat,
 
-–[^16] a talajvédelmi szakértői jogosultságra vonatkozó nyilatkozatot.
+–[^19] a talajvédelmi szakértői jogosultságra vonatkozó nyilatkozatot.
 
-[^14]: A 6–8. § az 5. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 1. melléklet 1. pontja a 130/2009. (X. 8.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
-[^16]: Az 1. melléklet 6. pontjának hatodik franciabekezdése a 130/2009. (X. 8.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
+[^18]: Az 1. melléklet 1. pontja a 130/2009. (X. 8.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
+[^19]: Az 1. melléklet 6. pontjának hatodik franciabekezdése a 130/2009. (X. 8.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.

@@ -316,6 +316,8 @@
 
 ## 1 . táblázat
 
+## 3K01456M_0
+
 | Állókultúra megnevezése | Termőréteg vastagság (cm) | Talajvízszint mélysége a felszíntől (cm)XX | Leiszapol- ható rész% | pH vízben | Vízben oldott összes só% | Szóda- lugosság% | CaCO3% | Humusz- tartalom% |
 
 | Homok | Vályog | Agyag |
@@ -570,7 +572,7 @@
 
 ## 2.6. Öntözési talajvédelmi terv
 
-## A terv készítése indokolt a külön jogszabály[^18] szerinti házi vízigényt meghaladó vízhasználat esetén.
+## A terv készítése indokolt a külön jogszabály[^21] szerinti házi vízigényt meghaladó vízhasználat esetén.
 
 ## Helyszíni talajmintavétel szabályai:
 
@@ -774,6 +776,8 @@
 
 ## 4. táblázat
 
+## 3K01456M_3
+
 | Vízminőségi mutatók | Eltömődési veszély |
 
 | nincs | mérsékelt | súlyos |
@@ -866,15 +870,15 @@
 
 ## Minden egyéb esetben 100 m védőtávolság figyelembevétele indokolt.
 
-## Hígtrágya felszín alatti vízbázisok területén, illetve a vízbázisok hidrogeológiai védőterületén külön jogszabály[^19] rendelkezései szerint használható fel. NATURA 2000 gyepterületen hígtrágya a külön jogszabály rendelkezése szerint nem juttatható ki.
+## Hígtrágya felszín alatti vízbázisok területén, illetve a vízbázisok hidrogeológiai védőterületén külön jogszabály[^22] rendelkezései szerint használható fel. NATURA 2000 gyepterületen hígtrágya a külön jogszabály rendelkezése szerint nem juttatható ki.
 
-## Legelő öntözése másik állattartó telepről származó hígtrágyával állategészségügyi okokból nem engedélyezett, kivéve, ha azt a külön jogszabályban[^20] foglaltak lehetővé teszik.
+## Legelő öntözése másik állattartó telepről származó hígtrágyával állategészségügyi okokból nem engedélyezett, kivéve, ha azt a külön jogszabályban[^23] foglaltak lehetővé teszik.
 
-## A terv elkészítésénél a felszíni, illetve a felszín alatti vizek nitrátszennyezéssel szembeni védelme érdekében a külön jogszabályokban[^21] meghatározottakat is figyelembe kell venni.
+## A terv elkészítésénél a felszíni, illetve a felszín alatti vizek nitrátszennyezéssel szembeni védelme érdekében a külön jogszabályokban[^24] meghatározottakat is figyelembe kell venni.
 
 ## A hígtrágya használatát korlátozó egyéb tényezők:
 
-## – a külön jogszabályban[^22] feltüntetett nitrátérzékeny területeken kívül a kijuttatott N mennyisége – talaj nitrogénszolgáltató képességét figyelembe véve – legfeljebb 200 kg/ha/év lehet.
+## – a külön jogszabályban[^25] feltüntetett nitrátérzékeny területeken kívül a kijuttatott N mennyisége – talaj nitrogénszolgáltató képességét figyelembe véve – legfeljebb 200 kg/ha/év lehet.
 
 ## – hígtrágyával kijuttatott kálium hatóanyag mennyisége nem lehet több, mint 250 kg/ha/év, a foszfor hatóanyag mennyisége pedig 150 kg/ha/év,
 
@@ -884,7 +888,7 @@
 
 ## = gyümölcsfák, szőlő csak felületi módszerrel öntözhető és betakarítás előtt 45 nappal az öntözést be kell fejezni,
 
-## = szántóföldi növények, rét, legelő öntözését a betakarítás – valamint a külön jogszabály[^23] szerint a legeltetés kezdete – előtt 30 nappal be kell fejezni,
+## = szántóföldi növények, rét, legelő öntözését a betakarítás – valamint a külön jogszabály[^26] szerint a legeltetés kezdete – előtt 30 nappal be kell fejezni,
 
 ## = fásított területek várakozási idő korlát nélkül öntözhetők.
 
@@ -986,7 +990,7 @@
 
 ## 2.8. Szennyvíz, szennyvíziszap mezőgazdasági felhasználását megalapozó talajvédelmi terv
 
-## A szennyvíz, szennyvíziszap mezőgazdasági területen történő felhasználásának szakmai követelményeit, a felhasználást kizáró paramétereket külön jogszabály[^24] határozza meg, melynek valamennyi előírását a talajvédelmi terv készítése során figyelembe kell venni.
+## A szennyvíz, szennyvíziszap mezőgazdasági területen történő felhasználásának szakmai követelményeit, a felhasználást kizáró paramétereket külön jogszabály[^27] határozza meg, melynek valamennyi előírását a talajvédelmi terv készítése során figyelembe kell venni.
 
 ## Helyszíni mintavétel szabályai:
 
@@ -1026,7 +1030,7 @@
 
 ## ac) minden esetben vizsgálandó az átlagmintákból:
 
-## – a külön jogszabályban[^25] meghatározott toxikus elem tartalom a 0–25 cm-es talajrétegből, injektálásos technológia alkalmazása esetén a 25–60 cm-es rétegből is,
+## – a külön jogszabályban[^28] meghatározott toxikus elem tartalom a 0–25 cm-es talajrétegből, injektálásos technológia alkalmazása esetén a 25–60 cm-es rétegből is,
 
 ## – felvehető tápanyagtartalom a 0–25 cm-es rétegből vett talajmintákból, injektálásos technológia alkalmazása esetén a 25–60 cm-es rétegből is (P2O5, K2O, Mg, NO3+NO2 – nitrogén)
 
@@ -1068,13 +1072,13 @@
 
 ## – a szennyvíz, szennyvíziszap vizsgálati paramétereinek elemzését,
 
-## – a talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^26] szerinti területi érzékenység megjelölését,
+## – a talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^29] szerinti területi érzékenység megjelölését,
 
 ## – a felhasználható szennyvíz, szennyvíziszap mennyiségét, amelyet a talaj vízgazdálkodási tulajdonságai, a tápanyagtartalma, továbbá a termeszteni kívánt vagy termesztett növény víz- és tápanyagigénye, valamint a szennyvíz, szennyvíziszap beltartalmi tulajdonságai alapján kell meghatározni,
 
 ## – javaslatot a kiegészítő tápanyag-kijuttatásra,
 
-## – szennyvíz, szennyvíziszap felhasználás feltételeinek meghatározását, különös tekintettel a külön jogszabályban[^27] előírt várakozási időkre, védőtávolságokra,
+## – szennyvíz, szennyvíziszap felhasználás feltételeinek meghatározását, különös tekintettel a külön jogszabályban[^30] előírt várakozási időkre, védőtávolságokra,
 
 ## – a területen esetleg jelentkező káros folyamatok előrejelzését, javaslatot azok megelőzésére (közegészségügyi és környezetvédelmi védőtávolságok megjelenítése, várakozási idők),
 
@@ -1226,9 +1230,9 @@
 
 ## – a kijuttatható dózist a legnagyobb arányban található tápelem-tartalom figyelembe vételével kell megállapítani,
 
-## – a szennyező anyagok kijuttatható mennyiségének korlátozásánál a külön jogszabály[^28] szerinti értékeket kell figyelembe venni,
+## – a szennyező anyagok kijuttatható mennyiségének korlátozásánál a külön jogszabály[^31] szerinti értékeket kell figyelembe venni,
 
-## – állati eredetű hulladék és annak kezelt végtermékei hasznosítása során a külön jogszabályban[^29] foglaltakat is figyelembe kell venni.
+## – állati eredetű hulladék és annak kezelt végtermékei hasznosítása során a külön jogszabályban[^32] foglaltakat is figyelembe kell venni.
 
 ## Helyszíni talajmintavétel szabályai:
 
@@ -1252,7 +1256,7 @@
 
 ## – a kijuttatás technológiáját,
 
-## – külön jogszabály[^30] szerinti területi érzékenység megjelölést.
+## – külön jogszabály[^33] szerinti területi érzékenység megjelölést.
 
 ## Mellékletként csatolni kell
 
@@ -1262,16 +1266,18 @@
 
 3. melléklet a 90/2008. (VII. 18.) FVM rendelethez
 
-[^18]: 72/1996. (V.22.) Korm. rendelet
-[^19]: 123/1997. (VII. 18.) Korm. rendelet
-[^20]: 41/1997. (V. 28.) FM rendelet
-[^21]: 27/2006. (II. 7.) Korm. rendelet, 59/2008. (IV. 29.) FVM rendelet
-[^22]: 27/2006. (II. 7.) Korm. rendelet, illetve 43/2007. (VI. 1.) FVM rendelet
+Az 1. § (3) bekezdés szerinti tevékenységek engedélyezéséhez szükséges egyszerűsített talajvédelmi tervek részletes tartalmi és szakmai követelményei típusonként
+
+[^21]: 72/1996. (V.22.) Korm. rendelet
+[^22]: 123/1997. (VII. 18.) Korm. rendelet
 [^23]: 41/1997. (V. 28.) FM rendelet
-[^24]: 50/2001. (IV. 3.) Korm. rendelet
-[^25]: 50/2001. (IV. 3.) Korm. rendelet
-[^26]: 27/2006. (II. 7.) Korm. rendelet
+[^24]: 27/2006. (II. 7.) Korm. rendelet, 59/2008. (IV. 29.) FVM rendelet
+[^25]: 27/2006. (II. 7.) Korm. rendelet, illetve 43/2007. (VI. 1.) FVM rendelet
+[^26]: 41/1997. (V. 28.) FM rendelet
 [^27]: 50/2001. (IV. 3.) Korm. rendelet
-[^28]: 50/2001. (IV. 3.) Korm. rendelet, 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet
-[^29]: 71/2003. (VI. 27.) FVM rendelet
-[^30]: 27/2006. (II. 7.) Korm. rendelet
+[^28]: 50/2001. (IV. 3.) Korm. rendelet
+[^29]: 27/2006. (II. 7.) Korm. rendelet
+[^30]: 50/2001. (IV. 3.) Korm. rendelet
+[^31]: 50/2001. (IV. 3.) Korm. rendelet, 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet
+[^32]: 71/2003. (VI. 27.) FVM rendelet
+[^33]: 27/2006. (II. 7.) Korm. rendelet
