@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-2Y
 | --- | --- | --- |
 | 2013-02-05 | 2013-4-20-2Y.1 | 4/2013. (II. 4.) VM rendelet |
 | 2013-02-06 | 2013-4-20-2Y.2 | 2010: CXXX. törvény |
+| 2013-04-30 | 2013-4-20-2Y.3 | 2010: CXXX. törvény |

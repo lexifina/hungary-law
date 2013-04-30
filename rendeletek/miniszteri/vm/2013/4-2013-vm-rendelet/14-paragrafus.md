@@ -1,3 +1,1 @@
-## 13. §[^9]
-
-[^9]: A 13. § a 24. § (2) bekezdése alapján 2013. április 30-án lép hatályba.
+## 13. § A 139/2008. (X. 22.) FVM rendelet 4. § (1) bekezdésében a „Támogatás igénybevételére jogosult” szövegrész helyébe a „Az 1. célterület vonatkozásában támogatás igénybevételére jogosult” szöveg lép.
