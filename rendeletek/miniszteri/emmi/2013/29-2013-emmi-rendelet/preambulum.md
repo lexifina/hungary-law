@@ -1,0 +1,5 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés d) pont df) és di) alpontjában,
+
+a 3. § tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés g) pont gf) alpontjában
+
+kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
