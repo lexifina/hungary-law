@@ -1,0 +1,274 @@
+# A Kormány 1246/2013. (IV. 30.) Korm. határozata
+
+Magyar Közlöny 2013. évi 71. szám, 2013. április 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f92e90c60ad0f62d755d5e8db6728ccf1312dd79/dokumentumok/ec91046b247e3f3c5d8ec67a9e84783145fc7775/letoltes)
+
+---
+
+A Kormány 1246/2013. (IV. 30.) Korm. határozata
+az épületek energiahatékonyságának követelményeiről és az épületek energiahatékonyságáról szóló
+2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv szerinti költségoptimalizált
+követelményszint eléréséről
+A Kormány a Nemzeti Energiastratégiában kitűzött energiahatékonysági célok elérése, valamint az Európai Bizottság részére
+készített – az épületek energiahatékonyságáról szóló 2010/31/EU európai parlamenti és tanácsi irányelv 5. cikk (2) bekezdése
+szerinti – jelentéshez szükséges intézkedések érdekében
+1. felhívja a nemzeti fejlesztési minisztert, hogy az 1. mellékletben meghatározott költségoptimalizált
+követelményszint, továbbá az épületek energiahatékonyságáról szóló 2010/31/EU európai parlamenti és tanácsi
+irányelv 9. cikke szerinti közel nulla energiaigényszint meghatározását és a bevezetés időpontját a Magyarország
+II. Nemzeti Energiahatékonysági Cselekvési Tervéről 2016-ig, kitekintéssel 2020-ra című 1374/2011. (XI. 8.)
+Korm. határozat szerinti nemzeti épületenergetikai stratégiában vegye figyelembe és az ez alapján készülő
+cselekvési tervbe a 2–5. pont szerinti intézkedéseket foglalja bele;
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+2. felhívja a belügyminisztert, hogy készítsen előterjesztést az épületek energetikai jellemzőinek meghatározásáról
+szóló 7/2006 (V. 24.) TNM rendelet (a továbbiakban: R.) olyan tartalmú módosításáról, amely meghatározza és
+a) középületek esetében 2015. január 1-jétől,
+b) minden más épület esetében 2018. január 1-jétől
+alkalmazni rendeli az R. hatálya alá tartozó épületek esetében az 1. mellékletben meghatározott költségoptimalizált
+energetikai követelményértékeket;
+Felelős: belügyminiszter
+Határidő: 2013. december 31.
+3. felhívja a feladatkörükben érintett minisztereket, hogy az 1. mellékletben meghatározott költségoptimalizált
+követelményszintet érvényesítsék azon pályázatoknál és állami támogatások kiírásaiban, amelyek 2015. január 1-jét
+követően kerülnek meghirdetésre, és amelyek az R. hatálya alá esnek;
+Felelős: a feladatkörükben érintett miniszterek
+Határidő: 2013. december 31.
+4. felhívja a belügyminisztert és a feladatkörükben érintett minisztereket, hogy dolgozzanak ki lakossági és intézményi
+tájékoztatót az 1. mellékletben meghatározott költségoptimalizált szintről, és azokról a műszaki megoldásokról,
+amelyek épületek felújítása során a követelmények elérését elősegítik;
+Felelős: belügyminiszter
+Miniszterelnökséget vezető államtitkár
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+5. felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy dolgozzanak ki az 1. melléklet szerinti
+költségoptimalizált követelményszinten vagy annál energiatakarékosabb építési és felújítási beruházások számára
+igénybe vehető olyan pénzügyi konstrukciókat vagy programokat, amelyek kompenzálhatják a beruházások kezdeti
+többletköltségeit.
+Felelős: nemzeti fejlesztési miniszter
+nemzetgazdasági miniszter
+Határidő: 2013. december 31.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1246/2013. (IV. 30.) Korm. határozathoz
+Költségoptimalizált követelményszint
+Az R. által definiált követelményekre vonatkozó módszertannal azonos módon alkalmazva:
+1. A hőátbocsátási tényező követelményértékei
+Épülethatároló szerkezetek
+A hőátbocsátási
+tényező
+követelményértéke
+Um
+W/m2K
+1 Homlokzati fal 0,24
+2 Lapostető 0,17
+3 Fűtött tetőteret határoló szerkezetek 0,17
+4 Padlás és búvótér alatti födém 0,17
+5 Árkád és áthajtó feletti födém 0,17
+6 Alsó zárófödém fűtetlen terek felett 0,26
+7 Üvegezés 1
+8 Különleges üvegezés* 1,2
+
+Fa vagy PVC keretszerkezetű homlokzati üvegezett
+nyílászáró (>0,5m2)
+1,15
+10 Fém keretszerkezetű homlokzati üvegezett nyílászáró 1,4
+11 Homlokzati üvegfal, függönyfal 1,4
+12 Üvegtető 1,45
+13 Tetőfelülvilágító, füstelvezető kupola 1,7
+14 Tetősík ablak 1,25
+15 Ipari és tűzgátló ajtó és kapu (fűtött tér határolására) 2
+16 Homlokzati, vagy fűtött és fűtetlen terek közötti ajtó 1,45
+17 Homlokzati, vagy fűtött és fűtetlen terek közötti kapu 1,8
+18 Fűtött és fűtetlen terek közötti fal 0,26
+19 Szomszédos fűtött épületek és épületrészek közötti fal 1,5
+
+Lábazati fal, talajjal érintkező fal a terepszinttől 1 m
+mélységig
+0,3
+21 Talajon fekvő padló (új épületeknél) 0,3
+
+Hagyományos energiagyűjtő falak (pl. tömegfal,
+Trombe fal)
+
+*Magas akusztikai vagy biztonsági követelményű üvegezés esetén érvényes követelményértékek.
+2. A hőveszteség tényező követelményértékei:
+A/V ≤ 0,3 qm
+= 0,16 [W/m3K]
+0,3 ≤ A/V ≤ 1,3 qm
+= 0,079 + 0,27 (A/V) [W/m3K]
+A/V ≥ 1,3 qm
+= 0,43 [W/m3K]
+
+A fenti összefüggéssel megadott értékek a 2.1. ábrából is leolvashatók.
+2.1 ábra. A fajlagos hőveszteség-tényező követelményértéke
+3. Összesített energetikai jellemző követelményértékek
+3.1. lakó- és szállásjellegű épületek esetén:
+A/V ≤ 0,3 EP
+= 110 [kWh/m2a]
+0,3 ≤ A/V ≤ 1,3 EP
+= 30 (A/V) + 101 [kWh/m2a]
+A/V ≥ 1,3 EP
+= 140 [kWh/m2a]
+A fenti összefüggéssel megadott értékek a 3.1. ábrából is leolvashatók.
+3.1. ábra: Lakó- és szállásjellegű épületek összesített energetikai jellemzőjének
+követelményértéke (nem tartalmazza a világítási energia igényt)
+0,00
+
+0,05
+
+0,10
+
+0,15
+
+0,20
+
+0,25
+
+0,30
+
+0,35
+
+0,40
+
+0,45
+
+0,50
+
+0,0
+ 0,1
+ 0,2
+ 0,3
+ 0,4
+ 0,5
+ 0,6
+ 0,7
+ 0,8
+ 0,9
+ 1,0
+ 1,1
+ 1,2
+ 1,3
+ 1,4
+
+Fajlagos hőveszteség-tényező
+qm
+[W/m3K]
+Felület/térfogat arány
+A/V [m2/m3]
+
+0,0
+ 0,1
+ 0,2
+ 0,3
+ 0,4
+ 0,5
+ 0,6
+ 0,7
+ 0,8
+ 0,9
+ 1,0
+ 1,1
+ 1,2
+ 1,3
+ 1,4
+
+Összesített energetikai jellemző
+EP
+[kWh/m2a]
+Felület/térfogat arány
+A/V [m2/m3]
+
+3.2. irodaépületek esetén:
+A/V ≤ 0,3 EP
+= 132 [kWh/m2a]
+0,3 ≤ A/V ≤ 1,3 EP
+= 28 (A/V) + 123,6 [kWh/m2a]
+A/V ≥ 1,3 EP
+= 160 [kWh/m2a]
+A fenti összefüggéssel megadott értékek a 3.2. ábrából is leolvashatók.
+3.2. ábra. Irodaépületek összesített energetikai jellemzőjének követelményértéke
+(a világítási energia igényt is beleértve)
+3.3. oktatási épületek esetén:
+A/V ≤ 0,3 EP
+= 90 [kWh/m2a]
+0,3 ≤ A/V ≤ 1,3 EP
+= 60 (A/V) + 72 [kWh/m2a]
+A/V ≥ 1,3 EP
+= 150 [kWh/m2a]
+A fenti összefüggéssel megadott értékek a 3.3. ábrából is leolvashatók.
+
+0,0
+ 0,1
+ 0,2
+ 0,3
+ 0,4
+ 0,5
+ 0,6
+ 0,7
+ 0,8
+ 0,9
+ 1,0
+ 1,1
+ 1,2
+ 1,3
+ 1,4
+
+Összesített energetikai jellemző
+EP
+[kWh/m2a]
+Felület/térfogat arány
+A/V [m2/m3]
+
+3.3 ábra: Oktatási épületek összesített energetikai jellemzőjének
+követelményértéke (világítási energia igényt is beleértve)
+3.4 Egyéb funkciójú épületek
+3.4.1. A 3.1., 3.2. és 3.3. pontban meghatározott funkciótól eltérő rendeltetésű épületekre az
+összesített energetikai jellemző követelményértékét a következők szerint meghatározott épület
+és épületgépészeti rendszer alapján lehet meghatározni:
+3.4.1.1. a fajlagos hőveszteség-tényező értéke a vizsgált épület felület/térfogat
+viszonya függvényében a 2. pontban megadott követelményérték;
+3.4.1.2. az éghajlati adatok az R. 4. mellékletében megadottaknak felelnek meg;
+3.4.1.3. a fogyasztói igényeket és az ebből származó adatokat: légcsereszám, belső
+hőterhelés, világítás, a használati melegvíz-ellátás nettó energiaigénye az épület használati
+módjának (használók száma, tevékenysége, technológia stb.) alapján a vonatkozó
+jogszabályok, szabványok és a szakma szabályai szerint kell meghatározni. Az épület
+szakaszos üzem korrekciós szorzójának értéke σ = 0,9.
+3.4.2. Az ezen igények kielégítését fedező bruttó energiaigényt az alábbiakban leírt
+épületgépészeti rendszer adataival kell számítani:
+3.4.2.1. a fűtési rendszer hőtermelőjének helye (fűtött téren belül vagy kívül) a
+tényleges állapottal megegyezően adottságként veendő figyelembe,
+3.4.2.2. a feltételezett energiahordozó földgáz,
+3.4.2.3. a feltételezett hőtermelő kondenzációs kazán,
+3.4.2.4. a feltételezett szabályozás termosztatikus szelep 2K arányossági sávval,
+3.4.2.5. a fűtési rendszerben tároló nincs,
+3.4.2.6. a vezetékek nyomvonala a ténylegessel megegyező (az elosztó vezeték fűtött
+téren belül, vagy kívül való vezetése),
+3.4.2.7. a vezetékek hőveszteségének számításakor az 55/45 °C hőfoklépcsőhöz tartozó
+vezeték veszteségét kell alapul venni,
+3.4.2.8. a szivattyú fordulatszám szabályozású, a fűtővíz hőfoklépcsője 10 K,
+3.4.2.9. a melegvíz-ellátás hőtermelője földgáztüzelésű kondenzációs kazán,
+3.4.2.10. a vezetékek nyomvonala a ténylegessel megegyező,
+3.4.2.11. 500 m2 hasznos alapterület felett cirkulációs rendszer van,
+3.4.2.12. a tároló helye adottság (fűtött téren belül vagy kívül),
+
+0,0
+ 0,1
+ 0,2
+ 0,3
+ 0,4
+ 0,5
+ 0,6
+ 0,7
+ 0,8
+ 0,9
+ 1,0
+ 1,1
+ 1,2
+ 1,3
+ 1,4
+
+Összesített energetikai jellemző
+EP
+[kWh/m2a]
+Felület/térfogat arány
+A/V [m2/m3]
