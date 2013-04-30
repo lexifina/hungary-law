@@ -24,10 +24,10 @@ c) a támogatási időszak alatt az idős állomány és az újulat együttes z�
 
 (5) A célprogram időtartama 5 év.
 
-(6)[^41] A támogatás mértéke
+(6)[^42] A támogatás mértéke
 
 a) az első évben hektáronként 274 eurónak megfelelő forintösszeg,
 
 b) a második évtől hektáronként 106 eurónak megfelelő forintösszeg/év.
 
-[^41]: A 21. § (6) bekezdése a 44/2012. (V. 3.) VM rendelet 23. §-ával megállapított szöveg.
+[^42]: A 21. § (6) bekezdése a 44/2012. (V. 3.) VM rendelet 23. §-ával megállapított szöveg.

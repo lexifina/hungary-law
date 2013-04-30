@@ -1,5 +1,3 @@
-## AZ EGYES FAÁLLOMÁNYTÍPUS-CSOPORTOK ELVÁRT JELLEMZŐI AZ ERDŐ-KÖRNYEZETVÉDELMI CÉLPROGRAMOK ÉRTÉKELÉSE SZEMPONTJÁBÓL
-
 | Faállománytípus- csoport | Főfafaj | Mesterséges erdősítés | Természetes felújítás |
 
 | Első kiviteli minimális tőszám hektáronként főfafajból | Főfafaj/ célállományba tartozó összes fafaj minimális tőszáma a célprogram befejezésekor* | Főfafaj/ célállományba tartozó összes fafaj egymáshoz mért maximális távolsága a célprogram** befejezésekor | Főfafaj minimális tőszáma a célprogram befejezésekor* | Átlagos záródás/borítás% a célprogram befejezésekor |
@@ -48,9 +46,9 @@
 
 ## – Az V–VI. fatermési osztályba sorolt erdőrészletekben végzett erdősítések sikeresnek minősülnek a program befejezésének évében, ha azok a táblázatban megadott tőszám és borítottsági elvárásoknak átlagosan 50%-ban (erdőssztyepp erdőkben 30%-ban) megfelelnek. Az ilyen kedvezőtlen termőhelyi viszonyú erdősítésekben ugyancsak elfogadható még, ha abban legfeljebb 0,5 ha-os, egymással nem érintkező üres foltok találhatóak, amelyek összes területe azonban nem haladja meg az erdőrészlet területének 20%-át.
 
-9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^58]
+9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^60]
 
-## Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
+Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
 1. táblázat
 
@@ -400,4 +398,4 @@
 
 | 11. | C-Kizár: | Az adott célprogramban a teljes terület támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
 
-[^58]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^60]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése szerint módosított szöveg.

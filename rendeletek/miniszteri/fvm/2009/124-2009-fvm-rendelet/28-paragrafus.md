@@ -1,5 +1,5 @@
-## 27/A. §[^53] E rendeletnek a 44/2012 (V. 3.) VM rendelettel megállapított 9. § (9) bekezdését, valamint az e rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatások részletes feltételeiről szóló 124/2009. (IX. 24.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a GAZDANet programhoz nyújtott támogatások igénybevételének részletes feltételeiről szóló 60/2012. (VI. 28.) VM rendelet módosításáról szóló 104/2012. (X. 1.) VM rendelettel megállapított 16. § (3) bekezdés q) pontját és a 16. § (3) bekezdés r) pontját a 2011. évben benyújtott támogatási kérelmek alapján hozott támogatási határozatokhoz kapcsolódóan benyújtott kifizetési kérelmek alapján indult ügyekben is alkalmazni kell, ha a kérelmező a támogatandó tevékenységet 2012. május 4-én még nem kezdte meg.
+## 27/B. §[^55] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 9. § (5) bekezdését a 2012. évben benyújtott támogatási kérelmek alapján hozott támogatási határozatokhoz kapcsolódóan benyújtott kifizetési kérelmek alapján indult eljárásokban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^53]: A 27/A. §-t a 104/2012. (X. 1.) VM rendelet 11. §-a iktatta be.
+[^55]: A 27/B. §-t a 30/2013. (IV. 30.) VM rendelet 7. § (2) bekezdése iktatta be.

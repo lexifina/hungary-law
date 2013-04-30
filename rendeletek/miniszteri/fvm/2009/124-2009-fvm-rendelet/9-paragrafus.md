@@ -10,7 +10,7 @@
 
 (4) A kifizetési kérelmek vizsgálata az Adattárnak a kifizetési kérelem benyújtási évének június 9-i állapota alapján történik.
 
-(5) A Vhr. 13. § (2) bekezdésétől eltérően a kifizetési kérelemhez nem kell mellékelni a blokktérképet.
+(5)[^18] A 3. § c) pontja szerinti célprogram esetében a kifizetési kérelem benyújtásakor a kérelmezett rész-erdőrészlet területméretét igazolni kell. Igazolásként kizárólag a kérelmezett rész-erdőrészlet külső töréspontjainak Egységes Országos Vetületi Rendszerben legalább 2 méteres pontossággal meghatározott koordinátáit bizonyító mérési jegyzőkönyv másolati példánya fogadható el. A másolati példányt a kifizetési kérelemmel egyidejűleg az erdőrészlet fekvése szerint illetékes megyei kormányhivatal erdészeti hatóságához postai úton kell megküldeni.
 
 (6) Az ügyfél a célprogramban vállalt tevékenységet a támogatási határozat közléséig csak saját felelősségére kezdheti meg.
 
@@ -24,15 +24,16 @@ b) kifizetési kérelme a támogatott területre vonatkozóan elutasításra ker
 
 a támogatott terület az intézkedésből a támogatási időszak lejáratáig kizárásra kerül, és a támogatott területre vonatkozóan már igénybe vett teljes támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
-(9)[^18] Ha az ügyfél a kifizetési kérelem benyújtásának évében a kifizetési kérelemre hozott határozattal érintett erdőrészlet vonatkozásában az Európai Mezőgazdasági Vidékfejlesztési Alapból Natura 2000 erdőterületek esetében folyósítható kompenzációs támogatásban is részesül, akkor
+(9)[^19] Ha az ügyfél a kifizetési kérelem benyújtásának évében a kifizetési kérelemre hozott határozattal érintett erdőrészlet vonatkozásában az Európai Mezőgazdasági Vidékfejlesztési Alapból Natura 2000 erdőterületek esetében folyósítható kompenzációs támogatásban is részesül, akkor
 
 a) a 3. § d) pontja szerinti célprogram esetén a támogatás mértéke az adott évben hektáronként 42 eurónak megfelelő forintösszeggel csökken;
 
 b) a 3. § e) pont ea) és eb) alpontja szerinti célprogramok esetén a támogatás mértéke az adott évben hektáronként 37 eurónak megfelelő forintösszeggel csökken.
 
-(10)[^19] Kifizetési kérelem benyújtására csak az az ügyfél jogosult, aki teljesítette az 5. § (1) bekezdés c) pont szerinti feltételt.
+(10)[^20] Kifizetési kérelem benyújtására csak az az ügyfél jogosult, aki teljesítette az 5. § (1) bekezdés c) pont szerinti feltételt.
 
 [^16]: A 8. § a 139/2009. (X. 22.) FVM rendelet 15. § (3) bekezdésével megállapított szöveg.
 [^17]: A 9. § (2) bekezdése a 139/2009. (X. 22.) FVM rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^18]: A 9. § (9) bekezdését a 44/2012. (V. 3.) VM rendelet 16. §-a iktatta be.
-[^19]: A 9. § (10) bekezdését a 104/2012. (X. 1.) VM rendelet 5. §-a iktatta be.
+[^18]: A 9. § (5) bekezdése a 30/2013. (IV. 30.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^19]: A 9. § (9) bekezdését a 44/2012. (V. 3.) VM rendelet 16. §-a iktatta be.
+[^20]: A 9. § (10) bekezdését a 104/2012. (X. 1.) VM rendelet 5. §-a iktatta be.

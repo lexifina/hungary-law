@@ -1,5 +1,3 @@
-## Az erdőfelújításokban a támogatás szempontjából az ápolások eredményeként még elfogadható állapot meghatározása
-
 ## Mesterséges erdőfelújítások ápolása
 
 ## Gyom: Minden, nem az erdősítési célállománynak és módnak megfelelő, nem védett növényfaj, de különösen az idegenhonos, agresszíven terjedő fafajok, cserjék és lágyszárúak, amelyek a célállomány fejlődését gátolják
@@ -53,3 +51,5 @@
 ## Az ápolások után a csemeték legfeljebb 20%-ának vezérhajtását takarhatja levágott gyomnövényzet, illetve a csemeték legfeljebb 5%-ának vezérhajtását takarhatják kúszónövények.
 
 7. melléklet a 124/2009. (IX. 24.) FVM rendelethez
+
+Közjóléti berendezések meghatározása

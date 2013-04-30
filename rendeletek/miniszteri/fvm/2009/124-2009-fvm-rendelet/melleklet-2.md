@@ -118,6 +118,6 @@
 
 ## * Az erdőtörvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet 5. melléklet kódjegyzéke alapján.
 
-2. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^56]
+2. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^58]
 
-[^56]: A 2. melléklet a 104/2012. (X. 1.) VM rendelet 10. § (2) bekezdésével megállapított, a 18/2013. (III. 21.) VM rendelet 7. § (5) bekezdése szerint módosított szöveg.
+[^58]: A 2. melléklet a 104/2012. (X. 1.) VM rendelet 10. § (2) bekezdésével megállapított, a 18/2013. (III. 21.) VM rendelet 7. § (5) bekezdése szerint módosított szöveg.
