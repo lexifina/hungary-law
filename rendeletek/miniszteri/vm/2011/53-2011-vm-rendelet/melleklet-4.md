@@ -1,5 +1,3 @@
-## A támogatás mértéke
-
 |  | A | B | C |
 
 | 1. | Tételcsoport | Támogatott megőrzési mód | Támogatási összeg euró/tétel |
@@ -27,21 +25,3 @@
 4. melléklet az 53/2011. (VI. 10.) VM rendelethez
 
 Az egy tételre vonatkozó minimális minta nagysága
-
-|  | A | B |
-
-| 1. | Tételcsoport | Minimális mintanagyság/tétel* |
-
-| 2. | Maggal szaporított növények | 50 |
-
-| 3. | Vegetatív szaporítású lágyszárú növények | 10 |
-
-| 4. | Évelő fásszárú növények fenntartása ültetvényben | cserjék | 5 |
-
-| 5. | fák | 1 |
-
-| 6. | Merisztéma kultúrákban való fenntartás | 2 |
-
-| 7. | Mikroorganizmusok | 2 |
-
-* A tétel mintanagyságát maggal szaporított növények esetében mag darabszámban, a vegetatív szaporítású lágyszárú, illetve az évelő fásszárú növényeknél tőszámban, merisztéma kultúrákban való fenntartásban, illetve mikroorganizmusok esetében tenyészet darabszámban kell mérni.

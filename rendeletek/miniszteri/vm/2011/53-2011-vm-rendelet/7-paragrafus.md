@@ -22,7 +22,7 @@ ab) a gyűjtemény mezőgazdasági, kultúrtörténeti és genetikai értékeir�
 
 b) elektronikus adathordozón a formanyomtatvány (1) bekezdés a), c) és e) pont szerinti
 
-## adatait.
+adatait.
 
 (3) Az (1) bekezdés szerinti határidő elmulasztása jogvesztő.
 

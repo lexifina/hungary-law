@@ -1,5 +1,3 @@
-## A támogatási kérelmek részletes pontozási szempontrendszere
-
 |  | A | B | C |
 
 | 1. | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
@@ -31,3 +29,5 @@
 | 14. | Összesen: |  |  | 100 pont |
 
 3. melléklet az 53/2011. (VI. 10.) VM rendelethez
+
+A támogatás mértéke
