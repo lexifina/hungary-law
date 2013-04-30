@@ -14,5 +14,10 @@ d) a 8. § (2) bekezdés f) pontjában meghatározott szervezeti tagság igazol�
 
 (3)[^9]
 
+(4)[^10] A Vhr. 16/B § (1) bekezdésétől eltérően 2013. évben a kifizetési kérelmet a 9. § (14) bekezdésében foglalt rendelkezés sérelme nélkül február 1. és június 30., valamint
+
+augusztus 1. és december 31. között lehet benyújtani.
+
 [^8]: A 14. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
 [^9]: A 14. § (3) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
+[^10]: A 14. § (4) bekezdését a 30/2013. (IV. 30.) VM rendelet 12. § (1) bekezdése iktatta be.
