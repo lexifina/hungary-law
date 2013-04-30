@@ -1,6 +1,6 @@
-## 11. §[^4] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 4/2013. (II. 4.) VM rendelet [a továbbiakban: 4/2013. (II. 4.) VM rendelet] által megállapított 3. § (6) és (11) bekezdésében foglalt rendelkezéseket a 4/2013. (II. 4.) VM rendelet hatálybalépésekor[^5] folyamatban levő ügyekre is alkalmazni kell.
+## 12. §[^7] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 3. § (3) bekezdés c) pontját a 30/2013. (IV. 30.) VM rendelet hatálybalépésekor[^8] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 60/2012. (VI. 28.) VM rendelethez
 
-[^4]: A 11. §-t a 4/2013. (II. 4.) VM rendelet 17. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2013. február 5.
+[^7]: A 12. §-t a 30/2013. (IV. 30.) VM rendelet 13. § (2) bekezdése iktatta be.
+[^8]: A hatálybalépés napja: 2013. április 30.

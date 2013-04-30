@@ -16,7 +16,7 @@ ab) legalább egy ügyfélkapu regisztrációval rendelkezik, amely nem termész
 
 b) a konfiguráció átvételét követő 90 napon belül saját maga, vagy általa kijelölt alkalmazottja, családi gazdaság esetén a családi gazdaság vezetője vagy tagja részt vesz az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásával megvalósuló, e jogcím tárgyában szervezett kötelező képzésen, kivéve, ha a konfiguráció átvételét követő 90 napon belül nem volt képzés, vagy ha bármely felsőoktatási szakon megszerzett végzettséget tanúsító oklevéllel, vagy az Európai Számítógép-használói Jogosítvány bármely két moduljának megszerzését tanúsító okirattal, vagy a 2. vagy 3. mellékletben meghatározott szakképesítések közül legalább egynek a megszerzését igazoló bizonyítvánnyal rendelkezik;
 
-c) a támogatási határozatban jóváhagyott konfigurációt az ügyfél vagy meghatalmazottja az (5)–(7) és (11) bekezdésben meghatározott módon, a támogatási kérelmet jóváhagyó határozat kézhezvételét követően 120 napon belül, de legkésőbb 2013. március 31-ig a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által megjelölt időpontban és helyszínen átveszi;
+c)[^1] a támogatási határozatban jóváhagyott konfigurációt az ügyfél vagy meghatalmazottja az (5)–(7) és (11) bekezdésben meghatározott módon, legkésőbb 2013. május 10-ig a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által megjelölt időpontban és helyszínen átveszi;
 
 d) a konfiguráció átvételét követő 30 napon belül belép a NAKVI honlapjáról elérhető GAZDANet honlapra, amelynek információtartalmát a Vidékfejlesztési Minisztérium háttérintézményei szolgáltatják, fejlesztését és fenntartását a NAKVI koordinálja, és az üzemeltetési időszak végéig a belépést havonta legalább egyszer megismétli, úgy, hogy a belépést követően saját döntése szerint használhatja a honlapot;
 
@@ -34,7 +34,7 @@ b) a konfiguráció átvételét követő három hónapon belül az MVH Hírlev�
 
 (5) Ha az ügyfél meghatalmazottja veszi át a konfigurációt, vesz részt az átadási tájékoztatón és nyújtja be a kifizetési kérelmet, akkor az erről szóló meghatalmazást a NAKVI által rendszeresített formanyomtatványon elektronikus úton be kell jelentenie a NAKVI részére, a konfiguráció átadásának napját legalább 10 nappal megelőzően. A meghatalmazás kinyomtatott, az ügyfél és a meghatalmazott által aláírt példányát a meghatalmazott a konfiguráció átvételekor átadja a NAKVI megbízottja részére.
 
-(6)[^1] Az ügyfél legkésőbb 2013. február 10-ig a NAKVI elektronikus felületén megrendeli a támogatási határozattal jóváhagyott konfigurációt. Az elektronikus felületről kinyomtatott megrendelőt aláírásával ellátja, és a konfiguráció átvételekor átadja a NAKVI képviselője részére.
+(6)[^2] Az ügyfél legkésőbb 2013. február 10-ig a NAKVI elektronikus felületén megrendeli a támogatási határozattal jóváhagyott konfigurációt. Az elektronikus felületről kinyomtatott megrendelőt aláírásával ellátja, és a konfiguráció átvételekor átadja a NAKVI képviselője részére.
 
 (7) Az elektronikus megrendelést követő 20 napon belül a NAKVI a megrendelést proforma számla megküldésével, tértivevényes levélben visszaigazolja az ügyfél részére, és egyben tájékoztatja a konfiguráció átvételének helyszínéről és időpontjáról.
 
@@ -50,11 +50,12 @@ c) a konfiguráció átadásával és a kifizetési kérelem benyújtásával ka
 
 (10) A (9) bekezdés b) és c) pontjában foglalt feladatok végrehajtásában közreműködhet a Magyar Agrárkamara, az NT Nonprofit Közhasznú Kft., a Regionális Szaktanácsadási Központok és a Területi Szaktanácsadási Központok.
 
-(11)[^2] Az ügyfél a NAKVI által részére megküldött proforma számla kézhezvételét követő 30 napon belül köteles a konfiguráció ellenértékét a proforma számlán megjelölt számlaszámra befizetni.
+(11)[^3] Az ügyfél a NAKVI által részére megküldött proforma számla kézhezvételét követő 30 napon belül köteles a konfiguráció ellenértékét a proforma számlán megjelölt számlaszámra befizetni.
 
 (12) A NAKVI folyamatosan ellenőrzi az ügyfél (3) bekezdés d) pontja és (4) bekezdés a) pontja szerinti kötelezettségeinek teljesítését. Az ügyfél kötelezettségének elmulasztásáról írásban tájékoztatja az MVH-t.
 
 (13) Az ügyfél (3) bekezdés ab) pontja és (4) bekezdés b) pontja szerinti kötelezettségének teljesítését az MVH ellenőrzi.
 
-[^1]: A 3. § (6) bekezdése a 4/2013. (II. 4.) VM rendelet 15. §-ával megállapított szöveg.
-[^2]: A 3. § (11) bekezdése a 4/2013. (II. 4.) VM rendelet 16. §-ával megállapított szöveg.
+[^1]: A 3. § (3) bekezdés c) pontja a 30/2013. (IV. 30.) VM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (6) bekezdése a 4/2013. (II. 4.) VM rendelet 15. §-ával megállapított szöveg.
+[^3]: A 3. § (11) bekezdése a 4/2013. (II. 4.) VM rendelet 16. §-ával megállapított szöveg.
