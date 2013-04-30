@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1978-4-00-00
 | 2013-01-01 | 2012. évi XXXVI. törvény | 1978-4-00-00.104 |
 | 2013-02-01 | 2012. évi CCXXIII. törvény | 1978-4-00-00.105 |
 | 2013-04-20 | 2013. évi XLV. törvény | 1978-4-00-00.106 |
+| 2013-04-30 | 2013. évi XLVIII. törvény | 1978-4-00-00.107 |
