@@ -1,5 +1,3 @@
-## Értékelési szempontok
-
 |  | A | B | C |  |
 
 | 1 | Értékelési szakmai szempont megnevezése, értéke | Értékelés/ ellenőrzés módja | Pontszám |  |
@@ -39,3 +37,5 @@
 ## ** csőd-, felszámolási és végelszámolási eljárás alatt nem álló termelői csoport, termelő szervezet
 
 6. melléklet a 38/2010. (IV. 15.) FVM rendelethez
+
+A támogatási kérelmek elbírálása során elfogadható felsőfokú agrárvégzettségek a felsőoktatási alap és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005 (XII. 22.) Korm. rendelet alapján

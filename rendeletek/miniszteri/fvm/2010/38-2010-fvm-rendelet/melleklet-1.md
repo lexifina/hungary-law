@@ -1,4 +1,4 @@
-## 35. §[^53] E rendelet alapján a 2013. évtől kezdődően támogatási kérelem nem nyújtható be.
+## 36. §[^56] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 2. § (1) bekezdés 2. pontját, 13. § (2) bekezdését és 26. § (1) bekezdését a 30/2013. (IV. 30.) VM rendelet hatálybalépésekor[^57] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
@@ -84,4 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^53]: A 35. §-t a 17/2013. (III. 18.) VM rendelet 3. § (6) bekezdése iktatta be.
+[^56]: A 36. §-t a 30/2013. (IV. 30.) VM rendelet 9. § (4) bekezdése iktatta be.
+[^57]: A hatálybalépés napja: 2013. április 30.

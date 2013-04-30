@@ -1,4 +1,4 @@
-## A támogatás mértéke
+## 0M12834B_0
 
 |  | A | B |
 
@@ -32,9 +32,9 @@
 
 | 15 | lúd | 40 | 16 |  |
 
-4. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^54]
+4. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^58]
 
-## A tenyésztési program ellenőrzésének szempontjai az egyes fajták esetében
+A tenyésztési program ellenőrzésének szempontjai az egyes fajták esetében
 
 1. A magyar szürke szarvasmarha
 
@@ -162,4 +162,4 @@
 
 8.2.1. Az elit szaporításhoz szükséges, legszűkebb ivararány biztosítása a szaporítási időszak végéig, a hímivarú tenyészállatok származásának dokumentálása.
 
-[^54]: A 4. melléklet a 17/2013. (III. 18.) VM rendelet 3. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^58]: A 4. melléklet a 17/2013. (III. 18.) VM rendelet 3. § (7) bekezdés b) pontja szerint módosított szöveg.
