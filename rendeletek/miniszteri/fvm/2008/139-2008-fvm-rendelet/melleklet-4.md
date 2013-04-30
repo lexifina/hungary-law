@@ -1,8 +1,8 @@
 ## Jelenléti ív
 
-## (naponként a képzés megkezdése előtt kitöltendő; kivéve: az oktatást végzők neve,
+## az 1. célterület esetében
 
-## aláírása rovatokat az oktató aznapi első tanítási órája előtt kell kitölteni)
+## (naponként a képzés megkezdése előtt kitöltendő; kivéve: az oktatást végzők neve, aláírása rovatokat az oktató aznapi első tanítási órája előtt kell kitölteni)
 
 ## A képzést szervező ÚMVP Képző Szervezet neve:
 
@@ -10,18 +10,40 @@
 
 ## A képzés sorszáma a képzési projektben:
 
-## A képzés helye, időpontja: …………………., ……. év ……… hó ……… nap
+## A képzés helye, időpontja: ......................, ....... év ................................... hó ..... nap
 
 ## Az oktatást végzők:
 
-| ....... órától | ........... óráig | Oktató neve | Oktató aláírása |
+| ........... órától | ........... óráig | Oktató neve | Oktató aláírása |
 
 ## A képzésen részt vevők:
 
-| Ügyfél neve | Ügyfél reg. száma | Részt vevő személy neve | Részt vevő személy aláírása |
+| Ügyfél neve | Ügyfél reg. száma | Részt vevő személy neve | Részt vevő személy aláírása | Részt vevő személy adószáma vagy adóazonosító jele |
 
 ## (Szükség esetén a sorok száma növelhető.)
 
-4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^65]
+## Jelenléti ív
 
-[^65]: A 4. számú melléklet a 90/2011. (X. 3.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+## a 2. célterület esetében
+
+## (naponként a képzés megkezdése előtt kitöltendő; kivéve: az oktatást végzők neve, aláírása rovatokat az oktató aznapi első tanítási órája előtt kell kitölteni)
+
+## A képzést szervező Kötelező Képzéseket Szolgáltató Szervezet neve:
+
+## A képzés megnevezése:
+
+## A képzés helye, időpontja: ......................, ....... év ................................... hó ..... nap
+
+## Az oktatást végzők:
+
+| ........... órától | ........... óráig | Oktató neve | Oktató aláírása |
+
+## A képzésen részt vevők:
+
+| Képzésre kötelezett neve | Képzésre kötelezett reg. száma | Részt vevő személy neve | Részt vevő személy aláírása | Részt vevő személy adószáma vagy adóazonosító jele |
+
+## (Szükség esetén a sorok száma növelhető.)
+
+4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^76]
+
+[^76]: A 4. számú melléklet a 4/2013. (II. 4.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.

@@ -2,11 +2,11 @@
 
 |  | A | B | C | D |
 
-| 1. | Megnevezés | Szakképesítést nem adó képzés (b1–b11, an1–an19) | OKJ szerinti képzés (ao1–ao161) és 80 órás Növényvédelmi Tanfolyam (h2) | Mezőgazdasági vontatóvezető képzés (h1) |
+| 1. | Megnevezés | Szakképesítést nem adó képzés (an1–an21) | OKJ szerinti képzés (ao1–ao223) és 80 órás Növényvédelmi Tanfolyam (h2) | Mezőgazdasági vontatóvezető képzés (h1) |
 
 | 2. | elméleti óra (tartalmazza a szakképesítést nem adó képzések esetén az oktatási segédlet költségeit is) | 1100 Ft/fő/óra | 500 Ft/fő/óra | 800 Ft/fő/óra |
 
-| 3. | gyakorlati óra | 1 300 Ft/fő/óra | 600 Ft/fő/óra | 5 000 Ft/fő/óra |
+| 3. | gyakorlati óra | 1 300 Ft/fő/óra | 600 Ft/fő/óra | 5 000 Ft/fő/óra** 1 000 Ft/fő/óra*** |
 
 | 4. | szervezési költség | 5 000 Ft/fő | 5 000 Ft/fő | 5 000 Ft/fő |
 
@@ -14,6 +14,10 @@
 
 ## * Csak az an19 Mezőgazdasági szállítás, anyagmozgatás speciális esetei c. képzésnél számolható el a Nemzeti Közlekedési Hatóság által kibocsátott vizsgaigazolásnak a képzést szolgáltató Képző Szervezet részére történő bemutatása esetén. A Nemzeti Közlekedési Hatóság által a vizsgáról kibocsátott visszaigazolás másolatát a kérelemhez mellékelni kell.
 
-5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^66]
+## ** Vezetési gyakorlatra vonatkozóan.
 
-[^66]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.
+## *** Vezetési gyakorlaton kívüli, egyéb gyakorlati képzésre vonatkozóan.
+
+5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^77]
+
+[^77]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.

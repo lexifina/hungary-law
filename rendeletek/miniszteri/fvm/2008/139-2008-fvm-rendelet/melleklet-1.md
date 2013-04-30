@@ -1,6 +1,6 @@
-## 12. §[^63] Ez a rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+## 12. §[^73] Ez a rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-1. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^64]
+1. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^74]
 
-[^63]: A 12. §-t a 90/2011. (X. 3.) VM rendelet 5. §-a iktatta be.
-[^64]: Az 1. számú melléklet a 4/2013. (II. 4.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^73]: A 12. §-t a 90/2011. (X. 3.) VM rendelet 5. §-a iktatta be.
+[^74]: Az 1. számú melléklet a 4/2013. (II. 4.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.

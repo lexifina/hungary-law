@@ -4,25 +4,29 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-a) ÚMVP Képző Szervezet: az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) által e rendelet alapján támogatott képzéseket megvalósító szervezet;
+a)[^1] ÚMVP Képző Szervezet: az 1. számú mellékletben felsorolt, az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) által e rendelet alapján támogatott képzéseket megvalósító szervezet;
 
-b)[^1] képzési projekt: az ÚMVP Képző Szervezetnek az 1. és 6. számú mellékletben felsorolt képzések szervezésére vonatkozó, a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által jóváhagyott, egy naptári évre vonatkozó terve;
+b)[^2] képzési projekt: az ÚMVP Képző Szervezetnek az 1. és 6. számú mellékletben felsorolt képzések szervezésére vonatkozó, a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által jóváhagyott, egy naptári évre vonatkozó terve;
 
-c)[^2] képzési program: az 1. és 6. számú mellékletben felsorolt képzések tananyagát, az oktatás tárgyi és személyi feltételeit, a számonkérés módját magában foglaló dokumentum, amelyet a NAKVI az ÚMVP Képző Szervezetek rendelkezésére bocsát;
+c)[^3] képzési program: az 1. és 6. számú mellékletben felsorolt képzések tananyagát, az oktatás tárgyi és személyi feltételeit, a számonkérés módját magában foglaló dokumentum, amelyet a NAKVI az ÚMVP Képző Szervezetek rendelkezésére bocsát;
 
 d) erdőgazdálkodó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, akit vagy amelyet az erdészeti hatóság külön jogszabály alapján nyilvántartásba vett;
 
-e)[^3] kölcsönös megfeleltetés előírásai: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendeletben foglaltak szerint;
+e)[^4] kölcsönös megfeleltetés előírásai: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendeletben foglaltak szerint;
 
-f)[^4] tárgyév: az a naptári év, amelyre vonatkozóan az ÚMVP Képző Szervezet elkészíti a képzési projektjének tervét;
+f)[^5] tárgyév: az a naptári év, amelyre vonatkozóan az ÚMVP Képző Szervezet elkészíti a képzési projektjének tervét;
 
-g)[^5] mezőgazdasági termelő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, aki/amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenységet folytat, valamint minden őstermelői igazolvánnyal rendelkező személy;
+g)[^6] mezőgazdasági termelő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, aki/amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenységet folytat, valamint minden őstermelői igazolvánnyal rendelkező személy;
 
-h)[^6] de minimis támogatás: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: általános „de minimis” rendelet) alapján nyújtott támogatás.
+h)[^7] de minimis támogatás: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: általános „de minimis” rendelet) alapján nyújtott támogatás.
 
-[^1]: A 2. § b) pontja a 90/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 8. § a) pontja, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
-[^2]: A 2. § c) pontja a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
-[^3]: A 2. § e) pontja a 18/2010. (IX. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be.
-[^5]: A 2. § g) pontját a 18/2010. (IX. 30.) VM rendelet 1. § (2) bekezdése iktatta be.
-[^6]: A 2. § h) pontját a 90/2011. (X. 3.) VM rendelet 1. § (2) bekezdése iktatta be.
+i)[^8] Kötelező Képzéseket Szolgáltató Szervezet: a Vidékfejlesztési Minisztérium (a továbbiakban: VM) által közbeszerzési eljárás alapján kiválasztott szervezet, amely a 6. számú mellékletben felsorolt, az ÚMVP által e rendelet alapján támogatott kötelező képzéseket szolgáltatja.
+
+[^1]: A 2. § a) pontja a 4/2013. (II. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § b) pontja a 90/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 8. § a) pontja, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
+[^3]: A 2. § c) pontja a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
+[^4]: A 2. § e) pontja a 18/2010. (IX. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be.
+[^6]: A 2. § g) pontját a 18/2010. (IX. 30.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § h) pontját a 90/2011. (X. 3.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § i) pontját a 4/2013. (II. 4.) VM rendelet 1. § (2) bekezdése iktatta be.

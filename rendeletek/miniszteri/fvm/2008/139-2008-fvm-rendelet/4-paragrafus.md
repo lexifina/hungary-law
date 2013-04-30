@@ -1,6 +1,6 @@
-## A támogatás igénybevételének feltételei
+## A támogatás igénybevételének feltételei az 1. célterület esetében[^10]
 
-4. § (1)[^11] Támogatás igénybevételére jogosult a mezőgazdasági termelő, az erdőgazdálkodó, továbbá a 3. § (1) bekezdés b) pontjában meghatározott intézkedésekhez kapcsolódóan az egyesített támogatási és kifizetési kérelem benyújtására nyitva álló időszak első napján a támogatási kérelmet jóváhagyó vagy részben jóváhagyó támogatási határozattal – a 3. § (1) bekezdés bg) alpontjában meghatározott intézkedés esetén a kifizetési kérelmet jóváhagyó vagy részben jóváhagyó határozattal – rendelkező személy (a továbbiakban együtt: ügyfél), aki
+4. § (1)[^11] Az 1. célterület vonatkozásában támogatás igénybevételére jogosult a mezőgazdasági termelő és az erdőgazdálkodó (a továbbiakban együtt: ügyfél), aki
 
 a) a képzési díjat az ÚMVP Képző Szervezet részére – annak számlája alapján – kifizette és
 
@@ -24,7 +24,8 @@ bb) a képzési programban meghatározott beszámolási vagy vizsgakötelezetts�
 
 (8)[^17] Amennyiben azonos kódszámú képzés vonatkozásában egy ügyfél több képzésben részt vevő, vagy több ügyfél egy képzésben részt vevő személy után igényel támogatást, csak az elsőként benyújtott kérelem támogatható.
 
-[^11]: A 4. § (1) bekezdése a 18/2010. (IX. 30.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: A 4. §-t megelőző alcím a 4/2013. (II. 4.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: A 4. § (1) bekezdése a 4/2013. (II. 4.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^12]: A 4. § (2) bekezdése a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
 [^13]: A 4. § (3) bekezdése a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
 [^14]: A 4. § (4) bekezdése a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
