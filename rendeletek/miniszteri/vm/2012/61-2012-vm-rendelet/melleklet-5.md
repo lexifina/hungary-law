@@ -1,5 +1,7 @@
 ## Az állattartó telepeken képződő trágya kezelését, tárolását, részbeni feldolgozását és felhasználását szolgáló építészeti és technológiai beruházások támogatási egységei, azok kötelezően elvárt műszaki tartalma (MT) és elszámolható kiadásai (EK)
 
+## 2K12650_0
+
 | Cél- terü- leti kód | Te- vé- keny- ség- típus | Fő- cso- port | Cso- port | Támo- gatási egység kódja | Megnevezés |
 
 | 1 | Az állattartó telepeken képződő trágya kezelését, tárolását, részbeni feldolgozását és felhasználását szolgáló építészeti és technológiai célterülete |

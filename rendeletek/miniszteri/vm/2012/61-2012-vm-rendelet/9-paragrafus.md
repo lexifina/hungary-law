@@ -10,4 +10,7 @@
 
 (5) Amennyiben a beruházás a tojótyúktartó telepek nyilvántartásba vételének szabályairól szóló miniszteri rendelet alapján nyilvántartásba vett tojótyúktartó telepen valósul meg, az utolsó kifizetési kérelemhez mellékelni kell a NÉBIH igazolását a baromfi telep a tojótyúkok védelmére vonatkozó minimumkövetelmények megállapításáról szóló, 1999. július 19-i 1999/74/EK tanácsi irányelvnek való megfeleléséről.
 
+(6)[^2] A Vhr. 16/B. § (1) bekezdésétől eltérően 2013-ban kifizetési kérelmet – a 9. § (2) bekezdésben foglalt rendelkezés sérelme nélkül – február 1. és június 30., valamint augusztus 1. és december 31. között lehet benyújtani.
+
 [^1]: A 9. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés o) pontja hatályon kívül helyezte.
+[^2]: A 9. § (6) bekezdését a 30/2013. (IV. 30.) VM rendelet 14. § (1) bekezdése iktatta be.

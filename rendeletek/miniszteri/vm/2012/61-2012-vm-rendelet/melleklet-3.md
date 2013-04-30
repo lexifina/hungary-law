@@ -1,5 +1,7 @@
 ## Értékelési táblázat nem kisértékű beruházást végzők részére
 
+## 2K12646_0
+
 | 1 | Értékelési szempont megnevezése | Értékelés/ellenőrzés módja | Pontszám |
 
 | 2 | Szakmai szempontok |

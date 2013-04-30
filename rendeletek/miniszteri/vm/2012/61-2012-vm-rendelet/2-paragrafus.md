@@ -39,3 +39,5 @@ g) méh.
 a) ÁTK I. jogcímre, ÁTK II. jogcímre, ÁTK III. jogcímre, vagy
 
 b) BaTeK jogcímre
+
+támogatási kérelmet nyújtott be és az ügyben – a kifizetési kérelmek kapcsán indult jogorvoslati eljárásokat kivéve – jogorvoslati eljárás van folyamatban, akkor részére e rendelet alapján kizárólag abban az esetben adható támogatás, ha a jogorvoslati kérelmét a támogatási kérelem benyújtásáig visszavonja.

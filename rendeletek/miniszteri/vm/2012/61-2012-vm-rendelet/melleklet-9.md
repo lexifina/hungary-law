@@ -1,5 +1,7 @@
 ## A telepi állategészségügyi helyzetet, és a nyomon követhetőséget javító, az állatbetegségek kialakulását és terjedését megelőző beruházás megvalósítására szolgáló építészeti és technológiai beruházások támogatási egységei, azok kötelezően elvárt műszaki tartalma (MT) és elszámolható kiadásai (EK)
 
+## 2K12692_0
+
 | Cél- terü- leti kód | Te- vé- keny- ség- típus | Fő- cso- port | Cso- port | Támo- gatási egység kódja | Megnevezés |
 
 | 5 | A telepi állategészségügyi helyzetet, és a nyomon követhetőséget javító, állatbetegségek kialakulását és terjedését megelőző beruházások célterülete |

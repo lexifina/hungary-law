@@ -1,5 +1,3 @@
-## támogatási kérelmet nyújtott be és az ügyben – a kifizetési kérelmek kapcsán indult jogorvoslati eljárásokat kivéve – jogorvoslati eljárás van folyamatban, akkor részére e rendelet alapján kizárólag abban az esetben adható támogatás, ha a jogorvoslati kérelmét a támogatási kérelem benyújtásáig visszavonja.
-
 ## 3. A támogatás igénybevételének feltételei
 
 3. § (1) E rendelet alapján támogatás akkor vehető igénybe, ha az ügyfél:

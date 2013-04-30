@@ -2,6 +2,8 @@
 
 ## az állattartás és az állatszállítás minőségének javítását szolgáló építészeti és technológiai beruházások támogatási egységei, azok kötelezően elvárt műszaki tartalma (MT) és elszámolható kiadásai (EK)
 
+## 2K12664_0
+
 | Cél- terü- leti kód | Te- vé- keny- ség- típus | Fő- cso- port | Cso- port | Támo- gatási egység kódja | Megnevezés |
 
 | 2 | Állati férőhelyek kialakítását és a tartás minőségét javító építési és korszerűsítő felújítási beruházások célterülete |
