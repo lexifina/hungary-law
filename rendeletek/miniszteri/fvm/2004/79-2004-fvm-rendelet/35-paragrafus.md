@@ -6,6 +6,6 @@
 
 (4) A hivatásos vadász kötelező szolgálati felszerelése a következő: a vadászterület jellegének megfelelő szolgálati vadászlőfegyver tokkal, golyós lőfegyver esetén céltávcsővel, könnygázszóró palack, vadásztőr, táska, távcső tokkal, kézi lámpa, egyéni sebkötöző csomag, valamint a működési terület térképe.
 
-(5)[^50] A hivatásos vadász szolgálati feladatai ellátása során köteles a ruházatán a 11. számú melléklet szerinti szolgálati jelvényét viselni, valamint a szolgálati igazolványát és naplót magánál tartani. A szolgálati igazolvány és napló, valamint a jelvény elvesztését a vadászati hatóságnak haladéktalanul köteles bejelenteni.
+(5)[^51] A hivatásos vadász szolgálati feladatai ellátása során köteles a ruházatán a 11. számú melléklet szerinti szolgálati jelvényét viselni, valamint a szolgálati igazolványát és naplót magánál tartani. A szolgálati igazolvány és napló, valamint a jelvény elvesztését a vadászati hatóságnak haladéktalanul köteles bejelenteni.
 
-[^50]: A Vhr. 35. § (5) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^51]: A Vhr. 35. § (5) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (1) bekezdés a) pontja szerint módosított szöveg.

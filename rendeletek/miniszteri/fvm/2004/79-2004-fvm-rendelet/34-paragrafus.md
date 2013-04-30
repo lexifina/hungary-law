@@ -2,9 +2,9 @@
 
 (2) A hivatásos vadász szolgálati igazolványa, az igazolvánnyal azonos sorszámú szolgálati jelvénye, valamint a szolgálati naplója mintáját a 11. számú melléklet tartalmazza.
 
-(3)[^48] A jogosult köteles a hivatásos vadász alkalmazásának megszűnését – a megszűnését követő 15 napon belül – bejelenteni a működésének helye szerint illetékes vadászati hatóságnak.
+(3)[^49] A jogosult köteles a hivatásos vadász alkalmazásának megszűnését – a megszűnését követő 15 napon belül – bejelenteni a működésének helye szerint illetékes vadászati hatóságnak.
 
-(4)[^49] A vadászatra jogosult köteles a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – az alkalmazást, illetve az alkalmazás megszűnését követő 15 napon belül – tájékoztatni a működésének helye szerinti rendőrhatóságot, valamint a hivatásos vadász lakóhelye szerint illetékes vadászkamarát.
+(4)[^50] A vadászatra jogosult köteles a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – az alkalmazást, illetve az alkalmazás megszűnését követő 15 napon belül – tájékoztatni a működésének helye szerinti rendőrhatóságot, valamint a hivatásos vadász lakóhelye szerint illetékes vadászkamarát.
 
-[^48]: A Vhr. 34. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 22. §-ával megállapított szöveg.
-[^49]: A Vhr 34. § (4) bekezdését az 56/2005. (VI. 25.) FVM rendelet 8. §-ának (2) bekezdése iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^49]: A Vhr. 34. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 22. §-ával megállapított szöveg.
+[^50]: A Vhr 34. § (4) bekezdését az 56/2005. (VI. 25.) FVM rendelet 8. §-ának (2) bekezdése iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
