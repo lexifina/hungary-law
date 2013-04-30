@@ -1,6 +1,6 @@
-2. melléklet a 17/2012. (II. 29.) VM rendelethez
+2. melléklet a 17/2012. (II. 29.) VM rendelethez[^41]
 
-## A támogatás céljára kifizethető maximális összegek
+A támogatás céljára kifizethető maximális összegek
 
 1. In vitro megőrzés célprogram
 
@@ -88,11 +88,11 @@
 
 | 2 | Ismeretterjesztő anyag (szórólap, tájékoztató füzet, poszter) | 3 600 Euró/ismeretterjesztő anyag |
 
-| 3 | Ismeretterjesztő könyv | 7 200 Euró/könyv |
+| 3 | Szakkönyv | 7 200 Euró/könyv |
 
-| 4 | Internetes szolgáltatás (honlap-szerkesztés, internet-előfizetés) | 1 800 Euró/tenyésztőszervezet/év |
+| 4 | Internetes szolgáltatás (honlap-szerkesztés, internet-előfizetés) | 1 800 Euró/év |
 
-| 5 | Szoftverfejlesztés (fajta jellemzése, hasznosítása, speciális adatok nyilvántartása) | 21 600 Euró/tenyésztőszervezet |
+| 5 | Szoftverfejlesztés (fajta jellemzése, hasznosítása, speciális adatok nyilvántartása) | 21 600 Euró |
 
 | 6 | Matematikai, statisztikai jellemzők, beltenyésztettségi együttható meghatározása | 900 Euró/fajta |
 
@@ -103,3 +103,5 @@
 | 9 | Nemzetközi rendezvény szervezése, részvétel | 1 440 Euró/rendezvény |
 
 | 10 | Nemzetközi szervezet tagdíja | 1 800 Euró/év |
+
+[^41]: A 2. melléklet a 30/2013. (IV. 30.) VM rendelet 11. § (11) bekezdése szerint módosított szöveg.

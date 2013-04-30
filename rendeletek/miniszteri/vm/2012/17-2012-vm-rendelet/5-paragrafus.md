@@ -1,5 +1,3 @@
-## (a továbbiakban együtt: kérelmező).
-
 5. § (1) Az in vitro megőrzés célprogram esetén támogatás igénybevételére a tenyésztési hatóság a védett őshonos állatfajták genetikai fenntartásának rendjéről szóló FVM rendelet
 
 szerint történt kijelölés alapján, valamint kutatási intézmények és felsőfokú oktatási intézmények, mesterséges termékenyítő állomások, embrió-átültető állomások, spermatároló központok, elismert tenyésztőszervezetek és azok szövetségei jogosultak, amennyiben vállalják, hogy

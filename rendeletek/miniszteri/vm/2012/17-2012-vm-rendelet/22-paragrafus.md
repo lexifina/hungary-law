@@ -24,6 +24,6 @@ b) abban az esetben, ha a hiányosságok nem pótolhatóak, vagy a tenyésztési
 
 (10) Ha az egyes célprogramok keretében vállalt előírásoknak való meg nem felelés miatt ugyanazon gazdálkodási évben több kötelezettségszegés is megállapításra kerül, akkor a magasabb százalékos arányú jogkövetkezményt kell alkalmazni.
 
-(11)[^27] Ha a támogatásra jogosult tájékoztatás és ismeretterjesztés célprogram esetén a támogatási időszakra vonatkozóan 50%-nál kisebb összegre nyújt be kifizetési kérelmet, mint a támogatási kérelemnek helyt adó vagy részben helyt adó támogatási határozatban jóváhagyott támogatási összeg, akkor a célprogramra vonatkozó támogatás ötödik gazdálkodási évre vonatkozó részének 50%-a nem kerül kifizetésre.
+(11)[^34] Ha a támogatásra jogosult tájékoztatás és ismeretterjesztés célprogram esetén a támogatási időszakra vonatkozóan 50%-nál kisebb összegre nyújt be kifizetési kérelmet, mint a támogatási kérelemnek helyt adó vagy részben helyt adó támogatási határozatban jóváhagyott támogatási összeg, akkor a célprogramra vonatkozó támogatás ötödik gazdálkodási évre vonatkozó részének 50%-a nem kerül kifizetésre.
 
-[^27]: A 22. § (11) bekezdését a 138/2012. (XII. 22.) VM rendelet 18. §-a iktatta be.
+[^34]: A 22. § (11) bekezdését a 138/2012. (XII. 22.) VM rendelet 18. §-a iktatta be.

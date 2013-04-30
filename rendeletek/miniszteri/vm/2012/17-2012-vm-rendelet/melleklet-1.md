@@ -1,4 +1,4 @@
-## 28. §[^29] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes állatlétszám alapú agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 138/2012. (XII. 22.) VM rendelet (a továbbiakban: 138/2012. (XII. 22.) VM rendelet) által megállapított 1. § (1) bekezdés o) pontját, 6. § (1) bekezdés c) pontját, 6. § (5)–(9) bekezdést, 7. § (1) bekezdés a) pontját, 9. §-át, 11. § (1) bekezdését, 12. § (7)–(10) bekezdését, a 13. § (1) bekezdés c) pont cc) alpontját, 15. § (6) bekezdését, 16. § (1) bekezdés c) pontját, 19. § (1) bekezdés e) és f) pontját, 20. § (6) és (7) bekezdését, 21. § (4)–(6) bekezdését, a 3. mellékletét, és a 6. mellékletét a 138/2012. (XII. 22.) VM rendelet hatálybalépésekor[^30] folyamatban lévő ügyekben is alkalmazni kell.
+## 30. §[^39] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 12.§ (1a) pontját, valamint a 29. §-át a 30/2013. (IV. 30.) VM rendelet hatálybalépésekor[^40] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 17/2012. (II. 29.) VM rendelethez
 
@@ -84,5 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^29]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 138/2012. (XII. 22.) VM rendelet 19. §-a iktatta be.
-[^30]: A hatálybalépés napja: 2012. december 23.
+[^39]: A 30. §-t a 30/2013. (IV. 30.) VM rendelet 11. § (10) bekezdése iktatta be.
+[^40]: A hatálybalépés napja: 2013. április 30.
