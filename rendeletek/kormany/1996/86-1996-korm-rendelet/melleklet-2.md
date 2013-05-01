@@ -222,95 +222,95 @@
 
 ## 1.80.[^86] vizsgabizonyítvány a házilagos lőszerszerelésre és -újratöltésre vonatkozó elméleti és gyakorlati vizsga eredményes letételének igazolására;
 
-## 1.81.[^87]
+## 1.81.[^87] földminősítő igazolvány;
 
-## 1.82. földminősítő igazolvány;
+## 1.82.[^88] földmérő igazolvány;
 
-## 1.83. földmérő igazolvány;
+## 1.83.[^89] az erdővédelmi szolgálat tagjának szolgálati igazolványa;
 
-## 1.84.[^88]
+## 1.84.[^90] hegyőri szolgálati igazolvány;
 
-## 1.85.[^89]
+## 1.85.[^91] a hivatásos vadász szolgálati igazolványa;
 
-## 1.86.[^90]
+## 1.86.[^92] az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet szolgálati igazolványa;
 
-## 1.87.[^91]
+## 1.87.[^93] halászati őri szolgálati igazolvány;
 
-## 1.88.[^92]
+## 1.88.[^94] mezőőri szolgálati igazolvány;
 
-## 1.89. erdészeti szolgálati igazolvány;
+## 1.89.[^95] erdészeti szolgálati igazolvány;
 
-## 1.90. természetvédelmi őri szolgálati igazolvány;
+## 1.90.[^96] természetvédelmi őri szolgálati igazolvány;
 
-## 1.91.[^93]
+## 1.91.[^97] önkormányzati természetvédelmi őri szolgálati igazolvány;
 
-## 1.92.[^94] anyakönyvi kivonat, anyakönyv.
+## 1.92.[^98] anyakönyvi kivonat, anyakönyv.
 
 ## 1.92. közrendvédelmi terület okmányai;
 
-## 1.93.[^95] a Nemzeti Munkaügyi Hivatal, továbbá a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve hatósági jogkörének gyakorlására jogosító munkavédelmi felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
+## 1.93.[^99] a Nemzeti Munkaügyi Hivatal, továbbá a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve hatósági jogkörének gyakorlására jogosító munkavédelmi felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
 
-## 1.94.[^96] a Nemzeti Média- és Hírközlési Hatóság hatósági ellenőrzésre és intézkedésre feljogosított személyeinek igazolványa;
+## 1.94.[^100] a Nemzeti Média- és Hírközlési Hatóság hatósági ellenőrzésre és intézkedésre feljogosított személyeinek igazolványa;
 
-## 1.95.[^97] a Nemzeti Fejlesztési Minisztérium, a Nemzeti Közlekedési Hatóság, a fővárosi és megyei kormányhivatal közlekedési felügyelőségei, valamint a Közlekedésbiztonsági Szervezet által kiadott felügyeleti igazolványok;
+## 1.95.[^101] a Nemzeti Fejlesztési Minisztérium, a Nemzeti Közlekedési Hatóság, a fővárosi és megyei kormányhivatal közlekedési felügyelőségei, valamint a Közlekedésbiztonsági Szervezet által kiadott felügyeleti igazolványok;
 
 ## 1.96. bányafelügyeleti hatósági feladatokat ellátó személyek részére rendszeresített igazolványok;
 
 ## 1.97. igazolvány a közlekedési balesetet kivizsgáló szakmai bizottság tagja, illetve a szakmai kivizsgáló részére;
 
-## 1.98.[^98] fogyasztóvédelmi hatóság igazolványa;
+## 1.98.[^102] fogyasztóvédelmi hatóság igazolványa;
 
-## 1.99.[^99] a Szervezett Bűnözés Elleni Koordinációs Központ által kibocsátott szolgálati és munkáltatói igazolványok;
+## 1.99.[^103] a Szervezett Bűnözés Elleni Koordinációs Központ által kibocsátott szolgálati és munkáltatói igazolványok;
 
-## 1.100.[^100] a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott kormánytisztviselői igazolvány;
+## 1.100.[^104] a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott kormánytisztviselői igazolvány;
 
-## 1.101.[^101] Megyei Kormányhivatalok Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságon dolgozó hatósági személy igazolványa;
+## 1.101.[^105] Megyei Kormányhivatalok Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságon dolgozó hatósági személy igazolványa;
 
-## 1.102.[^102] Megyei Kormányhivatalok járási hivatalai Állat-egészségügyi és Élelmiszer-ellenőrző Hivatalaiban dolgozó hatósági személy igazolványa;
+## 1.102.[^106] Megyei Kormányhivatalok járási hivatalai Állat-egészségügyi és Élelmiszer-ellenőrző Hivatalaiban dolgozó hatósági személy igazolványa;
 
-## 1.103.[^103] Megyei Kormányhivatalok Növény- és Talajvédelmi Igazgatóságon dolgozó hatósági személy igazolványa;
+## 1.103.[^107] Megyei Kormányhivatalok Növény- és Talajvédelmi Igazgatóságon dolgozó hatósági személy igazolványa;
 
-## 1.104.[^104] Megyei Kormányhivatalok Földművelésügyi Igazgatóságon dolgozó hatósági személy igazolványa;
+## 1.104.[^108] Megyei Kormányhivatalok Földművelésügyi Igazgatóságon dolgozó hatósági személy igazolványa;
 
-## 1.105.[^105] a Mezőgazdasági és Vidékfejlesztési Hivatal által kiadott hatósági ellenőrzésre jogosító igazolvány;
+## 1.105.[^109] a Mezőgazdasági és Vidékfejlesztési Hivatal által kiadott hatósági ellenőrzésre jogosító igazolvány;
 
-## 1.106.[^106] adótanácsadói igazolvány;
+## 1.106.[^110] adótanácsadói igazolvány;
 
-## 1.107.[^107] okleveles adószakértői igazolvány;
+## 1.107.[^111] okleveles adószakértői igazolvány;
 
-## 1.108.[^108] államháztartási belső ellenőri igazolvány;
+## 1.108.[^112] államháztartási belső ellenőri igazolvány;
 
-## 1.109.[^109] környezetvédelmi, természetvédelmi és vízügyi hatósági igazolvány;
+## 1.109.[^113] környezetvédelmi, természetvédelmi és vízügyi hatósági igazolvány;
 
-## 1.110.[^110] biztonságtechnikai szerelő igazolvány;
+## 1.110.[^114] biztonságtechnikai szerelő igazolvány;
 
-## 1.111.[^111] tartályvizsgálói hatósági igazolvány;
+## 1.111.[^115] tartályvizsgálói hatósági igazolvány;
 
-## 1.112.[^112] motoros vízi sporteszköz bizonyítvány;
+## 1.112.[^116] motoros vízi sporteszköz bizonyítvány;
 
-## 1.113.[^113] nemzetközi kedvtelési célú kishajó bizonyítvány;
+## 1.113.[^117] nemzetközi kedvtelési célú kishajó bizonyítvány;
 
-## 1.114.[^114] belvízi hajóvezetői bizonyítvány;
+## 1.114.[^118] belvízi hajóvezetői bizonyítvány;
 
-## 1.115.[^115] nemzetközi kedvtelési célú hajóvezetői bizonyítvány;
+## 1.115.[^119] nemzetközi kedvtelési célú hajóvezetői bizonyítvány;
 
-## 1.116.[^116]
+## 1.116.[^120]
 
-## 1.117.[^117] az Országos Egészségbiztosítási Pénztár, valamint a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szervei ellenőreinek igazolványa;
+## 1.117.[^121] az Országos Egészségbiztosítási Pénztár, valamint a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szervei ellenőreinek igazolványa;
 
-## 1.118.[^118] ideiglenes vezetői engedély;
+## 1.118.[^122] ideiglenes vezetői engedély;
 
-## 1.119.[^119] nemzetközi gépjárművezetői engedély;
+## 1.119.[^123] nemzetközi gépjárművezetői engedély;
 
-## 1.120.[^120] az Egészségügyi Engedélyezési és Közigazgatási Hivatal által kiállított működési nyilvántartási igazolvány;
+## 1.120.[^124] az Egészségügyi Engedélyezési és Közigazgatási Hivatal által kiállított működési nyilvántartási igazolvány;
 
-## 1.121.[^121] esélyegyenlőségi szakértői bizonyítvány;
+## 1.121.[^125] esélyegyenlőségi szakértői bizonyítvány;
 
-## 1.122.[^122] az Országos Tisztifőorvosi Hivatalban, valamint a fővárosi és megyei kormányhivatalok megyei népegészségügyi szakigazgatási szerveiben, továbbá járási (fővárosi kerületi) hivatalok járási (fővárosi kerületi) népegészségügyi intézeteiben dolgozó hatósági személy igazolványa;
+## 1.122.[^126] az Országos Tisztifőorvosi Hivatalban, valamint a fővárosi és megyei kormányhivatalok megyei népegészségügyi szakigazgatási szerveiben, továbbá járási (fővárosi kerületi) hivatalok járási (fővárosi kerületi) népegészségügyi intézeteiben dolgozó hatósági személy igazolványa;
 
-## 1.123.[^123] a Magyar Honvédség központi adatfeldolgozó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és állományuk tagja részére kiállított igazolvány jogállásukról, kiváltságaik és mentességeik igénybevételére;
+## 1.123.[^127] a Magyar Honvédség központi adatfeldolgozó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és állományuk tagja részére kiállított igazolvány jogállásukról, kiváltságaik és mentességeik igénybevételére;
 
-## 1.124.[^124] a Nemzeti Adatvédelmi és Információszabadság Hatóság által kibocsátott köztisztviselői és munkavállalói igazolványok.
+## 1.124.[^128] a Nemzeti Adatvédelmi és Információszabadság Hatóság által kibocsátott köztisztviselői és munkavállalói igazolványok.
 
 ## 2. Védelmet igénylő létesítmények, szervek, intézmények belépési engedélyei, belépésre jogosító igazolványai
 
@@ -318,39 +318,39 @@
 
 ## 2.2. belépési engedély az Alkotmánybíróság épületébe;
 
-## 2.3.[^125] belépési engedély a Kúria épületébe;
+## 2.3.[^129] belépési engedély a Kúria épületébe;
 
-## 2.4.[^126] belépési engedély a Belügyminisztérium épületébe;
+## 2.4.[^130] belépési engedély a Belügyminisztérium épületébe;
 
-## 2.5.[^127] a Közigazgatási és Igazságügyi Minisztérium által kiadott belépési engedély;
+## 2.5.[^131] a Közigazgatási és Igazságügyi Minisztérium által kiadott belépési engedély;
 
-## 2.6.[^128] belépési engedély a Nemzetgazdasági Minisztérium épületébe;
+## 2.6.[^132] belépési engedély a Nemzetgazdasági Minisztérium épületébe;
 
 ## 2.7. belépési engedélyek a honvédelmi tárca használatában lévő objektumokba;
 
-## 2.8.[^129] belépési engedély a Nemzeti Erőforrás Minisztérium épületébe;
+## 2.8.[^133] belépési engedély a Nemzeti Erőforrás Minisztérium épületébe;
 
-## 2.9.[^130] belépési engedély a Nemzeti Fejlesztési Minisztérium épületébe;
+## 2.9.[^134] belépési engedély a Nemzeti Fejlesztési Minisztérium épületébe;
 
-## 2.10.[^131] belépési engedély a Vidékfejlesztési Minisztérium épületébe;
+## 2.10.[^135] belépési engedély a Vidékfejlesztési Minisztérium épületébe;
 
-## 2.11.[^132]
+## 2.11.[^136]
 
-## 2.12.[^133]
+## 2.12.[^137]
 
-## 2.13.[^134]
+## 2.13.[^138]
 
 ## 2.14. Külügyminisztériumi munkáltatói igazolvány és ideiglenes belépő;
 
-## 2.15.[^135] belépési engedély a Nemzeti Adó- és Vámhivatal vámszerveinek és nyomozóhatósági szerveinek objektumaiba;
+## 2.15.[^139] belépési engedély a Nemzeti Adó- és Vámhivatal vámszerveinek és nyomozóhatósági szerveinek objektumaiba;
 
 ## 2.16. belépési engedélyek az Országgyűlési Biztos Hivatalába;
 
 ## 2.17. belépési engedély a Legfőbb Ügyészség épületébe;
 
-## 2.18.[^136] az Országgyűlés Hivatala által kibocsátott belépési, valamint parkolási engedélyek;
+## 2.18.[^140] az Országgyűlés Hivatala által kibocsátott belépési, valamint parkolási engedélyek;
 
-## 2.19.[^137] belépési engedélyek a Kormány központi üdülőjébe;
+## 2.19.[^141] belépési engedélyek a Kormány központi üdülőjébe;
 
 ## 2.20. belépési engedélyek a Központi Állami Üdülőbe;
 
@@ -358,11 +358,11 @@
 
 ## 2.22. belépési engedély a Magyar Rádió Zrt. épületébe;
 
-## 2.23.[^138] a Magyar Televízió Nonprofit Zrt. által kiadott igazolvány;
+## 2.23.[^142] a Magyar Televízió Nonprofit Zrt. által kiadott igazolvány;
 
-## 2.24.[^139] belépési engedély az MTI Magyar Távirati Iroda Nonprofit Zártkörűen Működő Részvénytársaság épületébe, valamint az MTI Magyar Távirati Iroda Nonprofit Zártkörűen Működő Részvénytársaság által kiadott sajtóigazolvány;
+## 2.24.[^143] belépési engedély az MTI Magyar Távirati Iroda Nonprofit Zártkörűen Működő Részvénytársaság épületébe, valamint az MTI Magyar Távirati Iroda Nonprofit Zártkörűen Működő Részvénytársaság által kiadott sajtóigazolvány;
 
-## 2.25.[^140] a Nemzeti Média- és Hírközlési Hatóság hivatali épületeibe belépésre jogosító igazolványok és belépési engedélyek;
+## 2.25.[^144] a Nemzeti Média- és Hírközlési Hatóság hivatali épületeibe belépésre jogosító igazolványok és belépési engedélyek;
 
 ## 2.26. a stratégiai hírközlési szolgáltatók védett objektumaiba belépésre jogosító igazolványok és belépési engedélyek;
 
@@ -370,27 +370,27 @@
 
 ## 2.28. belépési engedély a büntetés-végrehajtás objektumaiba;
 
-## 2.29.[^141]
+## 2.29.[^145]
 
-## 2.30.[^142]
+## 2.30.[^146]
 
-## 2.31.[^143] belépésre jogosító fényképes és ideiglenes belépőkártyák a Paksi Atomerőmű Zrt. fokozottan őrzött üzemi területére;
+## 2.31.[^147] belépésre jogosító fényképes és ideiglenes belépőkártyák a Paksi Atomerőmű Zrt. fokozottan őrzött üzemi területére;
 
-## 2.32.[^144] a repülőtér üzemben tartója által kibocsátott belépésre jogosító igazolványok a nemzetközi kereskedelmi repülőterek zárt területére;
+## 2.32.[^148] a repülőtér üzemben tartója által kibocsátott belépésre jogosító igazolványok a nemzetközi kereskedelmi repülőterek zárt területére;
 
-## 2.33.[^145] a repülőtér üzemben tartója által kibocsátott behajtási és útvonalengedélyek a nemzetközi kereskedelmi repülőterek zárt területére;
+## 2.33.[^149] a repülőtér üzemben tartója által kibocsátott behajtási és útvonalengedélyek a nemzetközi kereskedelmi repülőterek zárt területére;
 
-## 2.34.[^146] a nemzetközi kereskedelmi repülőtér zárt területén alkalmazott belterületi gépjármű-vezetői engedélyek.
+## 2.34.[^150] a nemzetközi kereskedelmi repülőtér zárt területén alkalmazott belterületi gépjármű-vezetői engedélyek.
 
-## 2.35.[^147] a nemzetközi kereskedelmi repülőtér területén alkalmazott belterületi gépjármű-vezetői engedélyek;
+## 2.35.[^151] a nemzetközi kereskedelmi repülőtér területén alkalmazott belterületi gépjármű-vezetői engedélyek;
 
-## 2.36.[^148] a légiközlekedési védelmi hatósági felügyelet és a légiközlekedés védelmi ellenőrzés ellátására jogosult személyek részére kiállított a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre jogosító okmány.
+## 2.36.[^152] a légiközlekedési védelmi hatósági felügyelet és a légiközlekedés védelmi ellenőrzés ellátására jogosult személyek részére kiállított a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre jogosító okmány.
 
 ## 3. Egyéb okmányok
 
 ## A Kormány által határozatban meghatározott egyes kiemelt jelentőségű események, rendezvények igazolványai, belépési engedélyei.
 
-2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^149]
+2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^153]
 
 ## Az okmányvédelmi kategóriák meghatározásánál irányadó szempontok
 
@@ -443,66 +443,70 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^84]: Az 1. számú melléklet III. rész 1. pont 1.67. alpontja a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
 [^85]: Az 1. melléklet III. pontjának 1.76. alpontja a 39/2012. (III. 12.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^86]: Az 1. számú melléklet III. rész 1. pont 1.80. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 39/2012. (III. 12.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^87]: Az 1. számú melléklet III. rész 1. pont 1.81. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^88]: Az 1. számú melléklet III. rész 1. pont 1.84. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^89]: Az 1. számú melléklet III. rész 1. pont 1.85. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^90]: Az 1. számú melléklet III. rész 1. pont 1.86. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^91]: Az 1. számú melléklet III. rész 1. pont 1.87. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^92]: Az 1. számú melléklet III. rész 1. pont 1.88. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^93]: Az 1. számú melléklet III. rész 1. pont 1.91. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^94]: Az 1. számú melléklet III. részének 1.92. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^95]: Az 1. számú melléklet III. rész 1. cím 1.93. pontja a 324/2011. (XII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^96]: Az 1. számú melléklet III. rész 1. pont 1.94. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^97]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^98]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
-[^99]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^100]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 23/2012. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^101]: Az 1. számú melléklet III. rész 1. pont 1.101. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^102]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^103]: Az 1. számú melléklet III. rész 1. pont 1.103. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^104]: Az 1. számú melléklet III. rész 1. pont 1.104. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^105]: Az 1. számú melléklet III. rész 1. pont 1.105. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^106]: Az 1. számú melléklet III. rész 1. pont 1.106. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^107]: Az 1. számú melléklet III. rész 1. pont 1.107. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^108]: Az 1. számú melléklet III. rész 1. pont 1.108. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^109]: Az 1. számú melléklet III. rész 1. pont 1.109. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^110]: Az 1. számú melléklet III. rész 1. pont 1.110. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^111]: Az 1. számú melléklet III. rész 1. pont 1.111. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^112]: Az 1. számú melléklet III. rész 1. pont 1.112. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^113]: Az 1. számú melléklet III. rész 1. pont 1.113. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^114]: Az 1. számú melléklet III. rész 1. pont 1.114. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^115]: Az 1. számú melléklet III. rész 1. pont 1.115. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^116]: Az 1. számú melléklet III. rész 1. pont 1.116. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 276/2011. (XII. 20.) Korm. rendelet 22. § a) pontja.
-[^117]: Az 1. számú melléklet III. rész 1. pont 1.117. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^118]: Az 1. számú melléklet III. rész 1. pont 1.118. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^119]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^120]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^121]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^122]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^123]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^124]: Az 1. számú melléklet III. rész 1. pont 1.124. alpontját a 359/2012. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^125]: Az 1. számú melléklet III. rész 2. pont 2.3. alpontja a 314/2011. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^126]: Az 1. számú melléklet III. rész 2. pont 2.4. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^127]: Az 1. számú melléklet III. rész 2. pont 2.5. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^128]: Az 1. számú melléklet III. rész 2. pont 2.6. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^129]: Az 1. számú melléklet III. rész 2. pont 2.8. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^130]: Az 1. számú melléklet III. rész 2. pont 2.9. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^131]: Az 1. számú melléklet III. rész 2. pont 2.10. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^132]: Az 1. számú melléklet III. rész 2. pont 2.11. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^133]: Az 1. számú melléklet III. rész 2. pont 2.12. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^134]: Az 1. számú melléklet III. rész 2. pont 2.13. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^135]: Az 1. számú melléklet III. pont 2.15. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított szöveg.
-[^136]: Az 1. számú melléklet III. rész 2. pont 2.18. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^137]: Az 1. számú melléklet III. rész 2. pont 2.19. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^138]: Az 1. számú melléklet III. rész 2. pont 2.23. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^139]: Az 1. számú melléklet III. rész 2. pont 2.24. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^140]: Az 1. számú melléklet III. rész 2. pont 2.25. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^141]: Az 1. számú melléklet III. részének 2.29. pontját a 331/2007. (XII. 13.) Korm. rendelet 3. § 7. pontja hatályon kívül helyezte.
-[^142]: Az 1. számú melléklet III. rész 2. pont 2.30. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^143]: Az 1. számú melléklet III. rész 2. pont 2.31. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^144]: Az 1. számú melléklet III. rész 2. pont 2.32. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^145]: Az 1. számú melléklet III. rész 2. pont 2.33. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^146]: Az 1. számú melléklet III. rész 2. pont 2.34. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^147]: Az 1. számú melléklet III. pont 2.35. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^148]: Az 1. számú melléklet III. pont 2.36. alpontját a 169/2010. (V. 11.) Korm. rendelet 47. §-a iktatta be.
-[^149]: A 2. számú melléklet címe a 299/2006. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^87]: Az 1. számú melléklet III. rész 1. pont 1.81. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^88]: Az 1. számú melléklet III. rész 1. pont 1.82. alpontja a 319/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^89]: Az 1. számú melléklet III. rész 1. pont 1.83. alpontja a 319/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^90]: Az 1. számú melléklet III. rész 1. pont 1.84. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^91]: Az 1. számú melléklet III. rész 1. pont 1.85. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^92]: Az 1. számú melléklet III. rész 1. pont 1.86. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^93]: Az 1. számú melléklet III. rész 1. pont 1.87. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^94]: Az 1. számú melléklet III. rész 1. pont 1.88. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^95]: Az 1. számú melléklet III. rész 1. pont 1.89. alpontja a 319/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^96]: Az 1. számú melléklet III. rész 1. pont 1.90. alpontja a 319/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^97]: Az 1. számú melléklet III. rész 1. pont 1.91. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^98]: Az 1. számú melléklet III. részének 1.92. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^99]: Az 1. számú melléklet III. rész 1. cím 1.93. pontja a 324/2011. (XII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^100]: Az 1. számú melléklet III. rész 1. pont 1.94. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^101]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^102]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
+[^103]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^104]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 23/2012. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^105]: Az 1. számú melléklet III. rész 1. pont 1.101. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^106]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^107]: Az 1. számú melléklet III. rész 1. pont 1.103. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^108]: Az 1. számú melléklet III. rész 1. pont 1.104. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^109]: Az 1. számú melléklet III. rész 1. pont 1.105. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^110]: Az 1. számú melléklet III. rész 1. pont 1.106. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^111]: Az 1. számú melléklet III. rész 1. pont 1.107. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^112]: Az 1. számú melléklet III. rész 1. pont 1.108. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^113]: Az 1. számú melléklet III. rész 1. pont 1.109. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^114]: Az 1. számú melléklet III. rész 1. pont 1.110. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^115]: Az 1. számú melléklet III. rész 1. pont 1.111. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^116]: Az 1. számú melléklet III. rész 1. pont 1.112. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^117]: Az 1. számú melléklet III. rész 1. pont 1.113. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^118]: Az 1. számú melléklet III. rész 1. pont 1.114. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^119]: Az 1. számú melléklet III. rész 1. pont 1.115. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^120]: Az 1. számú melléklet III. rész 1. pont 1.116. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 276/2011. (XII. 20.) Korm. rendelet 22. § a) pontja.
+[^121]: Az 1. számú melléklet III. rész 1. pont 1.117. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^122]: Az 1. számú melléklet III. rész 1. pont 1.118. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^123]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^124]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^125]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^126]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^127]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^128]: Az 1. számú melléklet III. rész 1. pont 1.124. alpontját a 359/2012. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^129]: Az 1. számú melléklet III. rész 2. pont 2.3. alpontja a 314/2011. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^130]: Az 1. számú melléklet III. rész 2. pont 2.4. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^131]: Az 1. számú melléklet III. rész 2. pont 2.5. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^132]: Az 1. számú melléklet III. rész 2. pont 2.6. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^133]: Az 1. számú melléklet III. rész 2. pont 2.8. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^134]: Az 1. számú melléklet III. rész 2. pont 2.9. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^135]: Az 1. számú melléklet III. rész 2. pont 2.10. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^136]: Az 1. számú melléklet III. rész 2. pont 2.11. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^137]: Az 1. számú melléklet III. rész 2. pont 2.12. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^138]: Az 1. számú melléklet III. rész 2. pont 2.13. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^139]: Az 1. számú melléklet III. pont 2.15. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^140]: Az 1. számú melléklet III. rész 2. pont 2.18. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^141]: Az 1. számú melléklet III. rész 2. pont 2.19. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^142]: Az 1. számú melléklet III. rész 2. pont 2.23. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^143]: Az 1. számú melléklet III. rész 2. pont 2.24. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^144]: Az 1. számú melléklet III. rész 2. pont 2.25. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^145]: Az 1. számú melléklet III. részének 2.29. pontját a 331/2007. (XII. 13.) Korm. rendelet 3. § 7. pontja hatályon kívül helyezte.
+[^146]: Az 1. számú melléklet III. rész 2. pont 2.30. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^147]: Az 1. számú melléklet III. rész 2. pont 2.31. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^148]: Az 1. számú melléklet III. rész 2. pont 2.32. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^149]: Az 1. számú melléklet III. rész 2. pont 2.33. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^150]: Az 1. számú melléklet III. rész 2. pont 2.34. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^151]: Az 1. számú melléklet III. pont 2.35. alpontja a 169/2010. (V. 11.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^152]: Az 1. számú melléklet III. pont 2.36. alpontját a 169/2010. (V. 11.) Korm. rendelet 47. §-a iktatta be.
+[^153]: A 2. számú melléklet címe a 299/2006. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
