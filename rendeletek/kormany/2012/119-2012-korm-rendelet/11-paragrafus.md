@@ -1,17 +1,9 @@
 ## 8. Önkormányzati rendelet Alaptörvénybe ütközése esetére alkotmánybírósági felülvizsgálat kezdeményezése
 
-11. § (1) A fővárosi és megyei kormányhivatal az önkormányzati rendelet alkotmánybírósági felülvizsgálatának kezdeményezésével kapcsolatos indítvány tervezetet (a továbbiakban: indítvány) – a 2. § (6) bekezdésében meghatározott határidőtől eltérően 45 napon belül – a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter (a továbbiakban: miniszter) útján küldi meg a Kormánynak.
+11. §[^6] (1) A fővárosi és megyei kormányhivatal az önkormányzati rendelet alkotmánybírósági felülvizsgálatának kezdeményezése iránti javaslatával kapcsolatos indítvány tervezetet (a továbbiakban: indítvány) – a 2. § (6) bekezdésében meghatározott határidőtől eltérően – 45 napon belül terjeszti elő a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek (a továbbiakban: miniszter).
 
-(2) Amennyiben az indítvány az Alkotmánybíróságról szóló törvényben meghatározott formai és tartalmi követelményeknek nem felel meg, a miniszter módosítási javaslatot küld a fővárosi és megyei kormányhivatal részére.
+(2) A miniszter az indítvány kiegészítésére, módosítására hívhatja fel az önkormányzati rendelet alkotmánybírósági felülvizsgálatára javaslatot tevő fővárosi és megyei kormányhivatalt.
 
-(3) Amennyiben az indítvány tartalmával a miniszter nem ért egyet, az indítványt a véleményével együtt visszaküldheti a fővárosi és megyei kormányhivatalnak megfontolásra. Ebben az esetben a fővárosi és megyei kormányhivatalnak lehetősége van az indítvány
+(3) Az önkormányzati rendelet alkotmánybírósági felülvizsgálatára javaslatot tevő fővárosi és megyei kormányhivatal – az indítvány megküldését követően – haladéktalanul tájékoztatja a minisztert, ha az Alaptörvénnyel ellentétesnek talált önkormányzati rendeletet hatályon kívül helyezték, vagy oly módon módosították, hogy az a továbbiakban nem minősül Alaptörvénnyel ellentétesnek. Erről a miniszter az alkotmánybírósági eljárás során az Alkotmánybíróságot tájékoztatja.
 
-a) kiegészítésére,
-
-b) módosítására vagy
-
-c) visszavonására
-
-## is.
-
-(4) Az indítvány visszavonása esetén a fővárosi és megyei kormányhivatal a visszavonásról – az erre vonatkozó döntés meghozatalát követő három napon belül – tájékoztatja a minisztert és az érintett helyi önkormányzatot.
+[^6]: A 11. § a 127/2013. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

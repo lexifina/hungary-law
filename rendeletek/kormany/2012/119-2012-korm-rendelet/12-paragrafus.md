@@ -1,3 +1,5 @@
-12. § (1) A miniszter az indítványt az indítvány támogatásával kapcsolatos javaslatával együtt terjeszti döntésre a Kormány elé.
+12. § (1)[^7] A miniszter tájékoztatja az önkormányzati rendelet alkotmánybírósági felülvizsgálatára javaslatot tevő fővárosi és megyei kormányhivatalt és az önkormányzati rendeletet megalkotó önkormányzatot, ha a fővárosi és megyei kormányhivatal javaslatának megvizsgálását követően a javaslattal nem ért egyet, és ezért nem kezdeményezi a Kormánynál az önkormányzati rendelet Alaptörvénnyel való összhangja felülvizsgálatának indítványozását.
 
 (2) Az önkormányzati rendelet Alaptörvénnyel való összhangjának felülvizsgálatára indult alkotmánybírósági eljárásban a Kormányt a miniszter képviseli.
+
+[^7]: A 12. § (1) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
