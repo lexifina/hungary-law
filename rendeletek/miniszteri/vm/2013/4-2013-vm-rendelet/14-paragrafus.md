@@ -1,1 +1,0 @@
-## 13. § A 139/2008. (X. 22.) FVM rendelet 4. § (1) bekezdésében a „Támogatás igénybevételére jogosult” szövegrész helyébe a „Az 1. célterület vonatkozásában támogatás igénybevételére jogosult” szöveg lép.

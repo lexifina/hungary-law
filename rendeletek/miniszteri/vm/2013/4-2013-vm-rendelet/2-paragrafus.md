@@ -1,1 +1,0 @@
-## „i) Kötelező Képzéseket Szolgáltató Szervezet: a Vidékfejlesztési Minisztérium (a továbbiakban: VM) által közbeszerzési eljárás alapján kiválasztott szervezet, amely a 6. számú mellékletben felsorolt, az ÚMVP által e rendelet alapján támogatott kötelező képzéseket szolgáltatja.”
