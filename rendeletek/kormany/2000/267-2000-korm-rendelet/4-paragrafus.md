@@ -1,4 +1,4 @@
-4. § (1)[^9] Ha az 1. § alapján juttatásra jogosult személy elhunyt, a túlélő házastársa az (1a) vagy az (1b) bekezdésben meghatározott összegű juttatásra jogosult.
+4. § (1)[^9] Ha az 1. § alapján juttatásra jogosult személy elhunyt, a túlélő házastársa az (1a) vagy az (1b) bekezdésben meghatározott összegű juttatásra jogosult, amennyiben az elhunyt jogosult esetében az 1. § szerinti időtartam a három évet elérte vagy meghaladta.
 
 (1a)[^10] A társadalombiztosítási nyugellátásról szóló törvény szerint özvegyi nyugdíjra nem jogosult túlélő házastársat megillető juttatás havi összege
 
@@ -32,7 +32,7 @@ b)[^13] a sérelmet szenvedett személlyel a szabadságelvonás megszűnését k
 
 (5) A túlélő házastársat a juttatás, amennyiben annak feltételei fennállnak saját jogán és az elhunyt házastársa jogán egyaránt megilleti.
 
-[^9]: A 4. § (1) bekezdése a 63/2013. (III. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdése a 63/2013. (III. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 116/2013. (IV. 19.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
 [^10]: A 4. § (1a) bekezdését a 63/2013. (III. 4.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^11]: A 4. § (1b) bekezdését a 63/2013. (III. 4.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^12]: A 4. § (2) bekezdés nyitó szövegrésze a 63/2013. (III. 4.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
