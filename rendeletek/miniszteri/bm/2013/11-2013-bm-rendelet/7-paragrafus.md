@@ -1,0 +1,7 @@
+7. § (1) Ha a belügyi szerv illetékes alapellátó orvosa által végzett látásvizsgálat eredményeként a hivatásos állomány tagja vagy a közalkalmazott részére képernyős szemüveg biztosítása szükséges lehet, az alapellátó orvos a képernyő előtti munkavégzés minimális egészségügyi és biztonsági követelményeiről szóló 50/1999. (XI. 3.) EüM rendelet 1. melléklete szerinti beutalóval szemészeti szakvizsgálatra utalja be a hivatásos állomány tagját vagy a közalkalmazottat.
+
+(2) A szemészeti szakvizsgálat eredményeként meghatározott képernyős szemüveget a hivatásos állomány tagja, illetve a közalkalmazott készítteti el. A szemüvegkészítés költségeinek megtérítésére irányuló kérelemhez csatolni kell a belügyi szerv nevére és címére kiállított, a hivatásos állomány tagja vagy a közalkalmazott nevével ellátott – a szemüveg lencse és a keret árát külön-külön feltüntető – részletes számlát, valamint az alapellátó orvos által a képernyős szemüveg viselésének indokoltságáról szóló igazolást.
+
+(3) A hivatásos állomány tagja és a közalkalmazott a képernyős szemüveg költségeinek megtérítése iránti kérelmet az állományilletékes parancsnoknál, illetve a belügyi szerv munkáltatói jogkört gyakorló vezetőjénél terjesztheti elő.
+
+(4) A szemüveglencse, a becsiszolás, a felületkezelés és az optikai szolgáltatások teljes ára, valamint a keret árából az illetményalap 10%-ának megfelelő összeg térítendő. A kifizetés tekintetében a 4. § (2) bekezdésének rendelkezései irányadók.
