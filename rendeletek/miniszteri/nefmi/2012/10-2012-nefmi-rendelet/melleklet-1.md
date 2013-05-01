@@ -69,4 +69,4 @@ I. Az aktív és kúraszerű ellátások folyamatábrái
 II. A más intézetben folytatódó aktív fekvőbeteg ellátás folyamatábrája
 
 [^5]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet a 24. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. melléklet a 24. § (1) bekezdésével megállapított, a 9/2013. (I. 31.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
