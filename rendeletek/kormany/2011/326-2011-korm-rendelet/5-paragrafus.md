@@ -4,7 +4,7 @@
 
 (2) Amennyiben az egészségi alkalmassági idő lejártát követően az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni, – kérelmére – nemzeti kategóriára érvényesített vezetői engedélyt állít ki részére a közlekedési igazgatási hatóság.
 
-(3)[^6] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
+(3)[^7] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
 
 a) a „B” kategória esetében 18. életév,
 
@@ -28,4 +28,4 @@ b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével 
 
 (6) A vezetői engedély érvényességi idejének meghosszabbítása az okmány cseréjével történik.
 
-[^6]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.

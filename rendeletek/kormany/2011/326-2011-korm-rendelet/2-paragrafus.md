@@ -1,4 +1,4 @@
-## 1/A. §[^2] A megye területére kiterjedő illetékességgel a „P”, és a „Z” betűjelű ideiglenes, valamint a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járműre a szabványtól eltérő alapszínű (sárga) rendszámtábla kiadásával, továbbá az ilyen jellegű járművek üzemeltetési jellegével, annak változásával, üzembentartói és tulajdonjogának változásával kapcsolatos feladatok ellátása a megyeszékhelyen működő járási hivatal hatáskörébe tartozik.
+## is jogosult eljárni.
 
 2. § (1) E rendelet alkalmazásában:
 
@@ -24,9 +24,8 @@
 
 9. vezetői engedély honosítása: egy harmadik ország hatósága által kiadott vezetői engedély helyett e rendelet szabályai szerinti magyar vezetői engedély kiadására irányuló eljárás;
 
-10.[^3] Schengeni Információs Rendszer második generációja (SIS II): az 1987/2006/EK európai parlamenti és tanácsi rendelet által létrehozott információs rendszer.
+10.[^4] Schengeni Információs Rendszer második generációja (SIS II): az 1987/2006/EK európai parlamenti és tanácsi rendelet által létrehozott információs rendszer.
 
 (2) Amennyiben e rendelet viszonosságról rendelkezik, akkor a viszonosság fennállása tekintetében a közlekedésért felelős miniszter és a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-[^2]: Az 1/A. §-t a 418/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^3]: A 2. § (1) bekezdés 10. pontját a 15/2013. (I. 28.) Korm. rendelet 38. § (1) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés 10. pontját a 15/2013. (I. 28.) Korm. rendelet 38. § (1) bekezdése iktatta be.

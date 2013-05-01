@@ -1,4 +1,4 @@
-84. § (1)[^37] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
+84. § (1)[^38] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
 
 (2) Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően a Hivatalnak megsemmisítés céljából megküldi.
 
@@ -14,7 +14,7 @@ b) a jármű V betűjelű különleges rendszámtáblával történő ellátása
 
 c) a jármű DT, CK betűjelű különleges rendszámtáblával történő ellátása során,
 
-d)[^38] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
+d)[^39] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
 
 e) a négykerekű segédmotoros kerékpárok rendszámtáblával történő ellátása során.
 
@@ -28,5 +28,5 @@ c) a „közös tulajdon” bejegyzés, ha a jármű tulajdonjoga több személy
 
 d) az „előzetes eredetiségvizsgálat hiánya” bejegyzés, ha a jármű forgalomba helyezése, illetve tulajdonjogában bekövetkezett változás nyilvántartásba vételére az előzetes eredetiségvizsgálat elvégzése nélkül kerül sor.
 
-[^37]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^38]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
+[^38]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^39]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
