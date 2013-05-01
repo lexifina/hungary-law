@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2013-01-01 | 1993-9-20-3D.84 | 62/2007. (XII. 29.) EüM rendelet |
 | 2013-02-01 | 1993-9-20-3D.85 | 9/2013. (I. 31.) EMMI rendelet |
 | 2013-04-01 | 1993-9-20-3D.86 | 62/2007. (XII. 29.) EüM rendelet |
+| 2013-05-01 | 1993-9-20-3D.87 | 62/2007. (XII. 29.) EüM rendelet |

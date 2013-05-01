@@ -144,6 +144,8 @@
 
 | 48.*** | 01700 | Caphosol szájöblítő |
 
+| 49.**** | 01310 | Felszínpótló csípőízületi protézis |
+
 | * | Elszámolásra jogosult intézetek |
 
 | 0140 | Semmelweis Egyetem Budapest |
@@ -202,6 +204,16 @@
 
 | 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^83]
+| **** | Elszámolásra jogosult intézetek |
 
-[^83]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 24/2013. (III. 29.) EMMI rendelet 1. § (2) bekezdése és 2. §-a szerint módosított szöveg.
+| 0140 | Semmelweis Egyetem Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^82]
+
+[^82]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 24/2013. (III. 29.) EMMI rendelet 1. § (2) bekezdése és 2. §-a szerint módosított szöveg.

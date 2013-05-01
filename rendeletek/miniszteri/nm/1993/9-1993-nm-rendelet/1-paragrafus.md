@@ -80,13 +80,7 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (20)[^26] A műszívkezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg- szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,75-szorosa.
 
-(21)[^27] A *,++ 16M 7490, 7491 és 7492 HBCs-k – a határnapon belüli ismételt felvételre vonatkozó szabálytól eltérően –
-
-a)[^28] kúraszerű ellátásként, a 92249 Intravénás Immunglobulin kezelés (kezelési napban) OENO, valamint a 92257 Kombinált (infúziós és subcután) immunglobulin kezelés (28 nap kezelési ciklusra) OENO egy 28 napos kezelési ciklusra egyszer számolható el, figyelembe véve a felső határnapot,
-
-b) kúraszerű ellátásként, a 92256 Subcután Immunglobulin kezelés (28 napos kezelési ciklusra) OENO esetén, egy ellátási alkalommal maximum három 28 napos kezelési ciklusként – a tényleges kezelési időszaknak és a felső határnapnak megfelelően – számolhatóak el,
-
-c) kórházi ellátás kiegészítő HBCs-jeként, a kórházi ellátás időtartamának megfelelően – figyelembe véve a megelőző azonos ellátás felső határnapját – felső határnaponként egyszer, egy ellátási alkalommal annyiszor számolhatóak el, amennyi a kórházi ellátás időtartama szerint esedékes.
+(21)[^27]
 
 [^2]: Az 1. § (1) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. §-t megelőző alcímet ugyanezen rendelet 7. §-a (2) bekezdésének a) pontja hatályon kívül helyezte. Az 1. § (1) bekezdése a 48/2005. (XI. 8.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdése a 29/2010. (XII. 30.) NEFMI rendelet 6. § a) pontja, a 9/2012. (II. 28.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
@@ -113,5 +107,4 @@ c) kórházi ellátás kiegészítő HBCs-jeként, a kórházi ellátás időtar
 [^24]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege az 55/2008. (XII. 31.) EüM rendelet 15. §-a, a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a, a 70/2011. (XII. 23.) NEFMI rendelet 1. § a) pontja, az 55/2012. (XII. 28.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^25]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, szövege a 9/2012. (II. 28.) NEFMI rendelet 8. §-ával megállapított és az 55/2012. (XII. 28.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
 [^26]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
-[^27]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be.
-[^28]: Az 1. § (21) bekezdés a) pontja a 36/2011. (VI. 27.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^27]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2013. (I. 31.) EMMI rendelet 3. § a) pontja.
