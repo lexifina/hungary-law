@@ -16,7 +16,9 @@ g) az atomenergia alkalmazási körébe tartozó anyagok felhasználására, ber
 
 h) a fertőző betegségek és járványok megelőzése, illetve a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
 
-i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre
+i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre,
+
+j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére
 
 vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 

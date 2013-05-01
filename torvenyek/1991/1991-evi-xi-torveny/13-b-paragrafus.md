@@ -4,6 +4,6 @@
 
 (3)
 
-(4) Az egészségügyi bírság összegét az egészségügyi államigazgatási szerv külön jogszabályban megjelölt számlájára kell befizetni.
+(4) Az egészségügyi bírság összegét az egészségügyi államigazgatási szerv külön jogszabályban megjelölt számlájára kell befizetni
 
 (5)
