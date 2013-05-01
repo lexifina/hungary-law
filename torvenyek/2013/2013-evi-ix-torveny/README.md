@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-9-00-00
 | --- | --- | --- |
 | 2013-03-06 | 2013. évi IX. törvény | 2013-9-00-00.0 (közlönyállapot) |
 | 2013-03-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-9-00-00.1 |
+| 2013-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-9-00-00.2 |
