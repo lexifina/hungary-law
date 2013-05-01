@@ -1,6 +1,4 @@
-3. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 73. § (2) bekezdésében a „nemzeti szocialista” szövegrész helyébe a „nemzetiszocialista” szöveg lép.
-
-(2) Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 15. számú melléklet B:5 mezőjében a „nemzeti szocialista” szövegrész helyébe a „nemzetiszocialista” szöveg lép.
+3. § (1)–(2)
 
 (3) A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény 316. §-ának az Országgyűlésről szóló 2012. évi XXXVI. törvény 73. § (2) bekezdését megállapító rendelkezése a „nemzeti szocialista” szövegrész helyett a „nemzetiszocialista” szöveggel lép hatályba.
 
