@@ -20,6 +20,8 @@ d) halálával,
 
 e) ha az országgyűlési képviselők választásán már nem választható,
 
-f) összeférhetetlenségének megállapításával.
+f) összeférhetetlenségének megállapításával,
+
+g) közös megegyezéssel.
 
 (6) Ha a kormánymegbízott megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.

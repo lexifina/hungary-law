@@ -1,4 +1,4 @@
-18. § A fővárosi és megyei kormányhivatal véleményezi – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – a Kormánynak alárendelt szervek területi szervei
+18. § A fővárosi és megyei kormányhivatal véleményezi – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – a központi államigazgatási szervek területi szervei, valamint a területi illetékességgel kizárólag államigazgatási feladatot ellátó más szervek
 
 a) vezetőinek kinevezését és felmentését,
 
