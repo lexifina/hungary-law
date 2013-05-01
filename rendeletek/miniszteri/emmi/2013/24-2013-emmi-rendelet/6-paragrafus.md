@@ -1,14 +1,15 @@
-## 5. §[^9]
+## 5. §[^7]
 
 ## 4. A gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosítása
 
-6. § (1)[^10]
+6. § (1)[^8]
 
-(2)–(3)[^11]
+(2) Az R4. 2. melléklete a 22. melléklet szerint módosul.
 
-(4)–(5)[^12]
+(3) Az R4. 4. melléklete a 23. melléklet szerint módosul.
 
-[^9]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 6. § (2)–(3) bekezdése a 10. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
-[^12]: A 6. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(4)–(5)[^9]
+
+[^7]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

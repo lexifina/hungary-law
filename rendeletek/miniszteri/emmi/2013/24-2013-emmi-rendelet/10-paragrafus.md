@@ -1,4 +1,4 @@
-## 9. §[^14]
+## 9. §[^11]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. § (1), (5) és (7) bekezdése, a 6. § (2) és (3) bekezdése, az 1., az 5., a 7. és a 22–23. melléklet 2013. május 1-jén lép hatályba.
 
-[^14]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
