@@ -1,0 +1,1 @@
+## 16. § Hatályát veszti a földgáz elosztói és közüzemi szolgáltatói engedélyesek vagy megbízottaik által fogyasztói igény alapján, külön díj ellenében végezhető szolgáltatások kizárólagos körének meghatározásáról szóló 16/2008. (VIII. 1.) KHEM rendelet.
