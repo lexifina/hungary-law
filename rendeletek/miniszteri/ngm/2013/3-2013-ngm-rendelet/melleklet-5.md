@@ -608,6 +608,6 @@
 
 | 12. | 18 | visszáru bizonylat | VBN | VBT |
 
-5. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^39]
+5. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^38]
 
-[^39]: Az 5. melléklet a 70. § (3) bekezdése alapján 2013. május 1-jén lép hatályba.
+[^38]: Az 5. melléklet a 13/2013. (III. 29.) NGM rendelet 14. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 50. §[^23]
+## 50. §[^22]
 
 ## 12. Változás a pénztárgép, taxaméter használatában
 
@@ -6,4 +6,4 @@
 
 (2) Az (1) bekezdés szerinti bejelentést követően a pénztárgép csak azt követően használható újra, ha az üzemeltető az erre rendszeresített nyomtatványon bejelenti az állami adóhatóságnak a használat folytatását.
 
-[^23]: Az 50. §-t a 13/2013. (III. 29.) NGM rendelet 16. § 4. pontja hatályon kívül helyezte.
+[^22]: Az 50. §-t a 13/2013. (III. 29.) NGM rendelet 16. § 4. pontja hatályon kívül helyezte.

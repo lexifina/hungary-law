@@ -14,7 +14,7 @@ f) megsemmisült,
 
 g) elveszett vagy eltulajdonították,
 
-h)[^16]
+h)[^15]
 
 i) a műszerész meghalt,
 
@@ -28,7 +28,7 @@ j) a műszerészt foglalkoztató szervizt az állami adóhatóság törli a szer
 
 (5) A műszerész az (1) bekezdés a)–e), h) és j) pontja alapján érvénytelenné vált, valamint a megkerült igazolványt, a szerviz az (1) bekezdés i) pontja alapján érvénytelenné vált igazolványt felszólítás nélkül, 15 napon belül köteles leadni az állami adóhatóság valamelyik ügyfélszolgálatán.
 
-(6)[^17] A műszerészi igazolvány érvénytelenségének észlelése esetén – a 34. § (3) bekezdésében foglaltakon túl – az állami adóhatóság végzéssel is kötelezheti a műszerészt, illetve a szervizt a műszerészi igazolvány leadására.
+(6)[^16] A műszerészi igazolvány érvénytelenségének észlelése esetén – a 34. § (3) bekezdésében foglaltakon túl – az állami adóhatóság végzéssel is kötelezheti a műszerészt, illetve a szervizt a műszerészi igazolvány leadására.
 
-[^16]: A 37. § (1) bekezdés h) pontját a 13/2013. (III. 29.) NGM rendelet 16. § 2. pontja hatályon kívül helyezte.
-[^17]: A 37. § (6) bekezdése a 13/2013. (III. 29.) NGM rendelet 5. §-ával megállapított szöveg.
+[^15]: A 37. § (1) bekezdés h) pontját a 13/2013. (III. 29.) NGM rendelet 16. § 2. pontja hatályon kívül helyezte.
+[^16]: A 37. § (6) bekezdése a 13/2013. (III. 29.) NGM rendelet 5. §-ával megállapított szöveg.

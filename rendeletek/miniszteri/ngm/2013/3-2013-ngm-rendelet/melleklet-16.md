@@ -203,3 +203,89 @@
 | VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ NEM ADÓÜGYI BIZONYLAT ***** INFORMÁCIÓS LISTA ***** TARIFAADATOK: TARIFA; ALAPDÍJ: ÚTDÍJ: IDŐDÍJ: 1: 150 FT 180FT/KM 30FT/PERC 2: 200 FT 200FT/KM 30FT/PERC 3: 300 FT 260FT/KM 210FT/PERC 4: 500 FT 300FT/KM 50FT/PERC EGYSÉG UGRÁS: 40FT VÁLLALKOZÓK SZÁMA: 2 ADÓSZÁMUK: „A” VÁLLALKOZÓ: 12345678-0-41 AAM (ALANYI ADÓ MENTES) „B” VÁLLALKOZÓ: 12345678-2-42 25% ÁFA KULCS ZÁRÁSAIK SZÁMA: „A” Z 1-0075 „B” Z 2-0056 ADÓMEMÓRIA TELÍTETTSÉG: 2500/0131 EURÓ BEÁLLÍTÁS IDŐPONTJA: 2020. 01. 01. 2011. 05. 03. 18:20 NEM ADÓÜGYI BIZONYLAT |
 
 16. melléklet a 3/2003 . (II. 15.) NGM rendelethez
+
+Az euró üzemmód bizonylatai
+
+A) pénztárgépek esetén
+
+Nyugta a felkészülési időszakban (fizetés forinttal, visszajáró Ft)
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+123456789 123456789 123456789 123456789
+
+| ELADÓ CÉG NEVE ELADÓ CÉG SZÉKHELYE ÜZLET NEVE ÜZLET CÍME ELADÓ CÉG ADÓSZÁMA ------ NYUGTA ------ UTIKÖNYV 115 A12 SZALÁMI 1 235 B69 1,235 kg * 1000 Ft/kg ---------------------------------------------------------------- ÖSSZESEN: 1 350 Ft EURÓBAN: 5,25 € ÁRFOLYAM: 256,888 Ft/€ KÉSZPÉNZ: 1 500 Ft VISSZAJÁRÓ: 150 Ft KÖSZÖNJÜK, HOGY NÁLUNK VÁSÁROLT! NYUGTASZÁM: 2345/00001 2019. 01. 02. 11:15 NAV Ellenőrző kód:ABC09 AP XXXXXXXXX |
+
+Nyugta a felkészülési időszakban (fizetés euróval, visszajáró Ft)
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+123456789 123456789 123456789 123456789
+
+| ELADÓ CÉG NEVE ELADÓ CÉG SZÉKHELYE ÜZLET NEVE ÜZLET CÍME ELADÓ CÉG ADÓSZÁMA ------ NYUGTA ------ UTIKÖNYV 115 A12 SZALÁMI 1 235 B69 1,235 kg * 1000 Ft/kg -------------------------------------------------------------------- ÖSSZESEN: 1 350 Ft EURÓBAN: 5,25 € ÁRFOLYAM: 256,888 Ft/€ KÉSZPÉNZ: 10,00 € 2 569 Ft VISSZAJÁRÓ: 1 220 Ft KEREKÍTÉS: -1 Ft KÖSZÖNJÜK, HOGY NÁLUNK VÁSÁROLT! NYUGTASZÁM: 2345/00002 2019. 01. 02. 11:15 NAV Ellenőrző kód:ABC09 AP XXXXXXXXX |
+
+Az euró üzemmód beállításakor kinyomtatandó bizonylat mintája:
+
+123456789 123456789 123456789 123456789
+
+| ELADÓ CÉG NEVE ELADÓ CÉG SZÉKHELYE ÜZLET NEVE ÜZLET CÍME ELADÓ CÉG ADÓSZÁMA ------ EURÓ ÜZEMMÓD BEÁLLÍTÁSA ------ ZÁRÁSOK SZÁMA: 2678 RAM TÖRLÉSEK SZÁMA: 1 GÖNGYÖLÍTETT FORGALOM (GT) (Ft): 123 456 789 2020.01.01. 00:00 NAV Ellenőrző kód:ABC09 AP 123456789 |
+
+Megjegyzés: Kétvállalkozós pénztárgép esetén vállalkozónként külön fejléccel és adattartalommal kell kinyomtatni.
+
+Nyugta az átmeneti időszakban (fizetés forinttal)
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+123456789 123456789 123456789 123456789
+
+| ELADÓ CÉG NEVE ELADÓ CÉG SZÉKHELYE ÜZLET NEVE ÜZLET CÍME ELADÓ CÉG ADÓSZÁMA ------ NYUGTA ------ UTIKÖNYV 0,45 A12 SZALÁMI 4,80 B69 1,234 kg * 3,89 €/kg ------------------------------------------------------------------ ÖSSZESEN: 5,25 € KÉSZPÉNZ: 5 000 Ft 19,46 € ÁRFOLYAM: 0,389274 €/100 Ft VISSZAJÁRÓ: 14,21 € KÖSZÖNJÜK, HOGY NÁLUNK VÁSÁROLT! NYUGTASZÁM: 2679/00001 2020. 01. 02. 11:15 NAV Ellenőrző kód:ABC09 AP XXXXXXXXX |
+
+Nyugta az átmeneti időszakban és azt követően (fizetés euróval)
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+123456789 123456789 123456789 123456789
+
+| ELADÓ CÉG NEVE ELADÓ CÉG SZÉKHELYE ÜZLET NEVE ÜZLET CÍME ELADÓ CÉG ADÓSZÁMA ------ NYUGTA ------ UTIKÖNYV 0,45 A12 SZALÁMI 4,80 B69 1,234 kg * 3,89 €/kg -------------------------------------------------------------- ÖSSZESEN: 5,25 € KÉSZPÉNZ: 10,00 € VISSZAJÁRÓ: 4,75 € KÖSZÖNJÜK, HOGY NÁLUNK VÁSÁROLT! NYUGTASZÁM: 2679/00002 2020.01.02. 11:15 NAV Ellenőrző kód:ABC09 AP XXXXXXXXX |
+
+Napi forgalmi jelentés az euró üzemmód beállítása után
+
+123456789 123456789 123456789 123456789
+
+| ELADÓ CÉG NEVE ELADÓ CÉG SZÉKHELYE ÜZLET NEVE ÜZLET CÍME ELADÓ CÉG ADÓSZÁMA ------ NAPI FORGALMI JELENTÉS ------ ZÁRÁS SORSZÁMA: 2679 A – 05,00% : 0,90 B – 18,00% : 9,60 C – 27,00% : 0,00 D – AJT : 0,00 E – TAM : 0,00 -------------------------------------------------------------------- NAPI FORGALOM (€): 10,50 FELÁR ÖSSZESEN: 0,00 SZTORNÓ ÖSSZESEN: 0,00 ENGEDMÉNY ÖSSZESEN: 0,00 VISSZÁRU ÖSSZESEN: 0,00 NYUGTÁK SZÁMA: 2 EGYSZERŰSÍTETT SZÁMLÁK SZÁMA: 0 NYUGTÁK, E. SZÁMLÁK ÖSSZESEN: 2 MEGSZAKÍTÁSOK SZÁMA: 0 SZTORNÓ BIZONYLATOK SZÁMA: 0 SZTORNÓ BIZONYLATOK ÖSSZESEN: 0,00 VISSZÁRU BIZONYLATOK SZÁMA: 0 VISSZÁRU BIZONYLATOK ÖSSZESEN: 0,00 GÖNGY. FORGALOM (GT) (€): 10,50 RAM TÖRLÉSEK SZÁMA: 1 2020.01.02. 19:15 NAV Ellenőrző kód:ABC09 AP XXXXXXXXX |
+
+Adóügyi ellenőrző egység adatai lista az euró üzemmód beállítása előtti és azt követő időszakról
+
+123456789 123456789 123456789 123456789
+
+| ELADÓ CÉG NEVE ELADÓ CÉG SZÉKHELYE ÜZLET NEVE ÜZLET CÍME ELADÓ CÉG ADÓSZÁMA ------ ADÓÜGYI ELLENŐRZŐ EGYSÉG ADATAI ------ ADÓÜGYI ELLENŐRZŐ EGYSÉG AZONOSÍTÓSZÁMA: 123456789 INICIALIZÁLÁS KELTE: 2011. 01. 15. 08:00 ELLENŐRZŐ SZÁM: ADCD TÓL: 2019.12.31. IG: 2020.01.02. ÁFA KULCSOK – 2019. 01. 01.--------------------------- A – 05,00% B – 18,00% C – 27,00% D – AJT E - TAM Z 2678 --------------- 2019.12.31.----- ----------------------------- A: 1 000 B: 2 000 C: 3 000 D: 4 000 E: 0 NAPI FORGALOM: 10 000 GÖNGY.FORGALOM (GT): 123 456 789 ============================================ A – 05,00% 1 000 B – 18,00% 2 000 C – 27,00% 3 000 D – AJT 4 000 E – TAM 0 ============================================ IDŐSZAK ÖSSZESEN (Ft): 10 000 GÖNGY. FORGALOM (GT) (Ft): 123 456 789 ============================================ EURÓ ÜZEMMÓD BEÁLLÍTÁSA:2020.01.01 00:00 ============================================ Z 2679 -------------------- 2020. 01. 02.---------------------------- A: 0,90 B: 9,60 C: 0,00 D: 0,00 E: 0,00 NAPI FORGALOM: 10,50 GÖNGY.FORGALOM (GT): 10,50 ============================================ A – 05,00% 0,90 B – 18,00% 9,60 C – 27,00% 0,00 D – AJT 0,00 E – TAM 0,00 ============================================ IDŐSZAK ÖSSZESEN (€): 10,50 GÖNGY. FORGALOM (GT) (€): 10,50 ============================================ ÖSSZES ZÁRÁS SZÁMA: 2679 RAM TÖRLÉSEK SZÁMA: 1 ELLENŐRZŐ SZÁM: DCBA 2020. 01. 03. 08:15 NAV Ellenőrző kód:ABC09 AP XXXXXXXXX |
+
+B) Taxaméterek esetén
+
+Felkészülési időszak nyugta minta:
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+| VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ ***** NYUGTA ***** INDULÁS: ÉRKEZÉS: 2019. 12.2 9. 10:02 2019. 12. 29. 11:15 MEGTETT UTAS-KM: 27,6 KM ALAPDÍJ (FT): 600 TARIFA: 3 ÚTDÍJ (FT/KM): 460 VÁRAKOZÁSI DÍJ (FT/PERC): 310 --------------------------------------------------------- ÖSSZESEN: 10 035 Ft EURÓBAN: 29,01 € ÁRFOLYAM: 276,888 Ft/€ NYUGTASZÁM: 2282/0001 2019. 12. 30. 11:15 AP XXXXXXXXX |
+
+Euró üzemmód beállítása bizonylat minta:
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+| VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ ***** EURÓ ÜZEMMÓD BEÁLLÍTÁSA ***** ZÁRÁSOK SZÁMA: 2283 RAM TÖRLÉSEK SZÁMA: 03 GÖNGYÖLÍTETT FORGALOM (GT) (Ft): 43 716 890 2020. 01. 01. 00:00 AP XXXXXXXXX |
+
+Nyugta minta az euró hivatalos pénznemmé tételét követően:
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+| VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ ***** NYUGTA ***** INDULÁS: ÉRKEZÉS: 2020. 01. 04. 09:35 2020.01.04. 11:08 MEGTETT UTAS-KM: 27,6 KM ALAPDÍJ (€): 2,33 TARIFA: 2 ÚTDÍJ (€/KM): 1,81 VÁRAKOZÁSI DÍJ (€/PERC): 0,71 ----------------------------------------------------------- ÖSSZESEN: 42,96 € FORINTBAN: 11 036 Ft ÁRFOLYAM: 0,389246 €/100 Ft NYUGTASZÁM: 2284/0001 2020. 01. 04. 11:15 AP XXXXXXXX |
+
+Nyugta minta az euró hivatalos pénznemmé tételét követően:
+
+(Forint, mint fizetőeszköz kivonásra kerül a forgalomból.)
+
+(a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
+
+| VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ ***** NYUGTA ***** INDULÁS: ÉRKEZÉS: 2020.03.01. 13:04 2020. 03. 01. 14:21 MEGTETT UTAS-KM: 27,6 KM ALAPDÍJ (€): 2,33 TARIFA: 1 ÚTDÍJ(€/KM): 1,01 VÁRAKOZÁSI DÍJ (€/PERC): 0,81 -------------------------------------------------------- ÖSSZESEN: 31,28 € NYUGTASZÁM: 2302/0001 2020. 03. 01. 14:22 AP XXXXXXXXX |
+
+Időszakos forgalmi jelentés minta az euró hivatalos pénznemmé tételét követően:

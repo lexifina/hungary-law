@@ -16,8 +16,8 @@ c) az a) pont alá nem tartozó pénztárgép, taxaméter visszaszolgáltatása 
 
 (5) Javíthatatlan a pénztárgép, taxaméter, ha azt műszerész állapította meg, és erről a szerviz jegyzőkönyvet vett fel.
 
-(6)[^18] A pénztárgépbe a javítás befejezését követő első tételként a kézi nyugtaadással és a cserepénztárgéppel bizonylatolt bevételt is be kell ütni külön megjelöléssel, vagy az erről utólag egy összegben készült gépi nyugtán történő feljegyzéssel, a bizonylat megőrzése mellett.
+(6)[^17] A pénztárgépbe a javítás befejezését követő első tételként a kézi nyugtaadással és a cserepénztárgéppel bizonylatolt bevételt is be kell ütni külön megjelöléssel, vagy az erről utólag egy összegben készült gépi nyugtán történő feljegyzéssel, a bizonylat megőrzése mellett.
 
 (7) Taxaméterek esetében a metrológiai paramétereket érintő, illetve a mérésügyi tanúsító jelek megbontását igénylő javítások esetében az ismételt használatbavétel csak a mérésügyi újrahitelesítést követően történhet meg.
 
-[^18]: A 45. § (6) bekezdése a 13/2013. (III. 29.) NGM rendelet 16. § 3. pontja szerint módosított szöveg.
+[^17]: A 45. § (6) bekezdése a 13/2013. (III. 29.) NGM rendelet 16. § 3. pontja szerint módosított szöveg.

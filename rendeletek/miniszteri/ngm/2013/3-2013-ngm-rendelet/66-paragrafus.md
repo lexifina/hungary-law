@@ -18,6 +18,6 @@ bc) módosítás sorszáma.
 
 (3) A díj megfizetése a kérelem benyújtásával egyidejűleg esedékes. Az igazgatási-szolgáltatási díj megfizetését a fizetési számlára történő készpénzbefizetést igazoló szelvényrész másolatával, átutalási megbízás esetén a hitelintézet által kiállított, az átutalás megindításának megtörténtét tanúsító igazolás (bankkivonat) másolatával kell igazolni a forgalmazási engedély iránti kérelem benyújtásakor.
 
-(4)[^27] A Hatóság döntése ellen benyújtott fellebbezés díja a 2. mellékletben meghatározott igazgatási szolgáltatási díj 50%-a, amelyet a fellebbezés benyújtásával egyidejűleg kell a (2) bekezdésben meghatározott módon befizetni.
+(4)[^26] A Hatóság döntése ellen benyújtott fellebbezés díja a 2. mellékletben meghatározott igazgatási szolgáltatási díj 50%-a, amelyet a fellebbezés benyújtásával egyidejűleg kell a (2) bekezdésben meghatározott módon befizetni.
 
-[^27]: A 66. § (4) bekezdését a 13/2013. (III. 29.) NGM rendelet 10. §-a iktatta be.
+[^26]: A 66. § (4) bekezdését a 13/2013. (III. 29.) NGM rendelet 10. §-a iktatta be.

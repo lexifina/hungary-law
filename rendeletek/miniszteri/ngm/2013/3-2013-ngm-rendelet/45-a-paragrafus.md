@@ -2,7 +2,7 @@
 
 ## A PÉNZTÁRGÉP, TAXAMÉTER ÜZEMELTETÉSÉNEK EGYES SZABÁLYAI
 
-45/A. §[^19] (1) Az adóalany új pénztárgép üzembe helyezését, illetve a pénztárgép adóügyi ellenőrző egységének cseréjét megelőzően köteles ezt a tényt az állami adóhatósághoz az erre a célra rendszeresített nyomtatványon bejelenteni.
+45/A. §[^18] (1) Az adóalany új pénztárgép üzembe helyezését, illetve a pénztárgép adóügyi ellenőrző egységének cseréjét megelőzően köteles ezt a tényt az állami adóhatósághoz az erre a célra rendszeresített nyomtatványon bejelenteni.
 
 (2) Az (1) bekezdés szerinti bejelentésben meg kell jelölni az adóalany
 
@@ -44,4 +44,4 @@ b) elutasítja az üzembe helyezést, amennyiben a rögzített üzembe helyezés
 
 (9) A bejelentésen megadott, a (2) bekezdés a)–c) pontjában megjelölt adatok kizárólag az adóalany azonosítását szolgálják, a pénztárgép üzembe helyezése az állami adóhatóság nyilvántartásában szereplő adatokkal valósul meg.
 
-[^19]: A 45/A. §-t a 13/2013. (III. 29.) NGM rendelet 6. §-a iktatta be.
+[^18]: A 45/A. §-t a 13/2013. (III. 29.) NGM rendelet 6. §-a iktatta be.
