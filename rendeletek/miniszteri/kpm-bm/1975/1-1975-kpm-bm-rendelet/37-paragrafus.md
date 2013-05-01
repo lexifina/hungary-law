@@ -10,7 +10,7 @@ a) autópályára és autóútra út menti ingatlanról, valamint útnak nem min
 
 b) autópályán és autóúton hátramenetet végezni, megfordulni és az úttesteket elválasztó sávra ráhajtani.
 
-(4)[^227] Autópálya és autóút úttestjén – a forgalmi okból szükséges megállást kivéve – megállni tilos. Tilos a leállósávon megállni vagy várakozni, kivéve ha:
+(4)[^228] Autópálya és autóút úttestjén – a forgalmi okból szükséges megállást kivéve – megállni tilos. Tilos a leállósávon megállni vagy várakozni, kivéve ha:
 
 a) műszaki meghibásodás miatt a jármű továbbhaladásra képtelen;
 
@@ -22,13 +22,13 @@ d) a jármű, a továbbhaladásra képtelen jármű elszállítását vagy a mű
 
 e) a jármű a megkülönböztető jelzést adó berendezését működtetik.
 
-(5)[^228] A leállósávon – ha a közúti jelzésekből más nem következik – csak a (4) bekezdés b)–e) pontjában meghatározott járművek és a forgalmi sávokban folyamatosan haladó járművek közé besorolni kívánó járművek haladhatnak. A leállósávon álló, a forgalmat ellenőrző járművet úgy kell elhelyezni, hogy az kellő távolságból észlelhető legyen. A leállósáv igénybevételére jogosultaknak a feladatuk ellátását követően a lehető legrövidebb időn belül el kell hagyniuk a leállósávot.
+(5)[^229] A leállósávon – ha a közúti jelzésekből más nem következik – csak a (4) bekezdés b)–e) pontjában meghatározott járművek és a forgalmi sávokban folyamatosan haladó járművek közé besorolni kívánó járművek haladhatnak. A leállósávon álló, a forgalmat ellenőrző járművet úgy kell elhelyezni, hogy az kellő távolságból észlelhető legyen. A leállósáv igénybevételére jogosultaknak a feladatuk ellátását követően a lehető legrövidebb időn belül el kell hagyniuk a leállósávot.
 
-(6)[^229] Tilos előzni az azonos irányú forgalom számára két forgalmi sávval rendelkező autópályán és autóúton – 6 és 22 óra között – a 7500 kg-ot meghaladó megengedett legnagyobb össztömegű tehergépkocsival, vontatóval, valamint e járműből és pótkocsiból álló járműszerelvénnyel.
+(6)[^230] Tilos előzni az azonos irányú forgalom számára két forgalmi sávval rendelkező autópályán és autóúton – 6 és 22 óra között – a 7500 kg-ot meghaladó megengedett legnagyobb össztömegű tehergépkocsival, vontatóval, valamint e járműből és pótkocsiból álló járműszerelvénnyel.
 
-(7)[^230] A (6) bekezdésben meghatározott előzési tilalom esetén a tilalom hatálya alá tartozó járműveknek olyan követési távolságot kell tartaniuk, hogy közéjük legalább egy – az abban meghatározott előzési tilalom hatálya alá tartozó – járműszerelvény biztonságosan besorolhasson.
+(7)[^231] A (6) bekezdésben meghatározott előzési tilalom esetén a tilalom hatálya alá tartozó járműveknek olyan követési távolságot kell tartaniuk, hogy közéjük legalább egy – az abban meghatározott előzési tilalom hatálya alá tartozó – járműszerelvény biztonságosan besorolhasson.
 
-(8)[^231] Az azonos irányú forgalom számára két vagy ennél több forgalmi sávval rendelkező autópályán és autóúton kialakult forgalmi torlódás esetében – a (4) bekezdés b)–e) pontjában meghatározott járművek akadálytalan továbbhaladásának biztosítása érdekében –
+(8)[^232] Az azonos irányú forgalom számára két vagy ennél több forgalmi sávval rendelkező autópályán és autóúton kialakult forgalmi torlódás esetében – a (4) bekezdés b)–e) pontjában meghatározott járművek akadálytalan továbbhaladásának biztosítása érdekében –
 
 a) a belső (bal szélső) forgalmi sávban közlekedőknek szorosan a forgalmi sáv bal szélére kell húzódni,
 
@@ -36,8 +36,8 @@ b) az egyéb forgalmi sávokban közlekedőknek a forgalmi sávban a lehetséges
 
 és – ha az így kialakuló „folyosóban” történő biztonságos elhaladás azt szükségessé teszi – a forgalmi sávokat kijelölő terelővonalak átlépésével kell haladni és megállni.
 
-[^227]: A 37. § (4) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^228]: A 37. § (5) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 41. §-a hatályon kívül helyezte, újonnan a 289/2009. (XII. 18.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^229]: A 37. § (6) bekezdését a 280/2010. (XII. 15.) Korm. rendelet 6. §-a iktatta be.
-[^230]: A 37. § (7) bekezdését a 280/2010. (XII. 15.) Korm. rendelet 6. §-a iktatta be.
-[^231]: A 37. § (8) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 5. § (5) bekezdése iktatta be.
+[^228]: A 37. § (4) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^229]: A 37. § (5) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 41. §-a hatályon kívül helyezte, újonnan a 289/2009. (XII. 18.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^230]: A 37. § (6) bekezdését a 280/2010. (XII. 15.) Korm. rendelet 6. §-a iktatta be.
+[^231]: A 37. § (7) bekezdését a 280/2010. (XII. 15.) Korm. rendelet 6. §-a iktatta be.
+[^232]: A 37. § (8) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 5. § (5) bekezdése iktatta be.
