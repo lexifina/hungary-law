@@ -1,0 +1,7 @@
+6. § (1) A nyomvonal jellegű építmény, jelzőkő, egyéb jelzés vagy ideiglenes eszköz létesítésével és üzemeltetésével az ingatlanban, az ingatlan alkotórészében és tartozékában okozott károkat, beleértve a károk megelőzésére, csökkentésére és elhárítására fordított kiadásokat is, a nyomvonal jellegű építmény, jelzőkő, egyéb jelzés vagy ideiglenes eszköz létesítője a (2)–(4) bekezdésben meghatározott feltételek szerint köteles megtéríteni.
+
+(2) Nem jár kártalanítás az építményben okozott kárért, ha az építésiengedély-köteles építményt építési engedély nélkül vagy az építési engedélyben megszabott feltételek megsértésével emelték.
+
+(3) A kártalanítás összegét – eltérő megállapodás hiányában – pénzben kell megfizetni. Az esedékessé vált kártalanításról a nyomvonal jellegű építmény, jelzőkő, egyéb jelzés vagy ideiglenes eszköz létesítőjének meg kell kísérelni egyezség létrehozását. Megegyezés hiányában a nyomvonal jellegű építmény, jelzőkő, egyéb jelzés vagy ideiglenes eszköz létesítője a kártalanítás esedékessé válásától számított 30 napon belül szakértői véleménnyel alátámasztott összegű kártalanítást köteles a károsultnak fizetni.
+
+(4) A károsult az esedékessé vált, de határidőben nem teljesített kártalanítási követelését, továbbá a már kifizetett kártalanítást meghaladó többletkártalanítási igényét a nyomvonal jellegű építmény, jelzőkő, egyéb jelzés vagy ideiglenes eszköz létesítője ellen indított polgári peres eljárás keretében érvényesítheti.
