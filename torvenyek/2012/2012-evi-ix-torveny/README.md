@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-9-00-00
 | --- | --- | --- |
 | 2012-03-07 | 2012. évi IX. törvény | 2012-9-00-00.0 (közlönyállapot) |
 | 2012-03-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-9-00-00.1 |
+| 2013-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-9-00-00.2 |
