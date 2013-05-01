@@ -1,4 +1,4 @@
-## 15. §[^1]
+## 15. §[^2]
 
 ## Étkezési hozzájárulás
 
@@ -20,4 +20,4 @@ d) a közalkalmazotti jogviszony megszűnéséhez kapcsolódó felmentési idő 
 
 (5) A hozzájárulás mértékét a főigazgató határozza meg.
 
-[^1]: A 15. §-t a 75/2012. (XII. 18.) BM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^2]: A 15. §-t a 75/2012. (XII. 18.) BM rendelet 4. § b) pontja hatályon kívül helyezte.
