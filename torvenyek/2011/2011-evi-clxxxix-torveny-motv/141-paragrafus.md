@@ -1,16 +1,18 @@
 ## Törvényességi felügyeleti bírság megállapítása
 
-141. § (1) A kormányhivatal a helyi önkormányzattal szemben törvényességi felügyeleti bírságot állapíthat meg,
+141. § (1) A kormányhivatal a helyi önkormányzattal vagy a társulással szemben törvényességi felügyeleti bírságot állapíthat meg,
 
 a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv megküldési kötelezettségének;
 
-b) ha a polgármester, a jegyző határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
+b) ha az érintett határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
 
 c) ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
 
-d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást.
+d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást;
 
-(2) A törvényességi felügyeleti bírság legkisebb összege esetenként a köztisztviselői illetményalap, legmagasabb összege esetenként a köztisztviselői illetményalap tízszerese.
+e) ha az érintett ugyanazon jogszabályi kötelezettségét ismételten megsérti, azonban az ismételten megsértett jogszabályi kötelezettség súlya nem indokolja más törvényességi felügyeleti eszköz alkalmazását.
+
+(2) A törvényességi felügyeleti bírság legkisebb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap, legmagasabb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap tízszerese.
 
 (3) A törvényességi felügyeleti bírság ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
@@ -22,8 +24,16 @@ b) a helyi önkormányzat költségvetési helyzetét, és
 
 c) az előző bírságok számát és mértékét.
 
-(5) A kormányhivatal bírságot megállapító döntésének bírósági felülvizsgálatát kérheti a helyi önkormányzat a döntés közlésétől számított tizenöt napon belül.
+(5) A törvényességi felügyeleti bírságot megállapító határozatnak tartalmaznia kell
 
-(6) A kormányhivatal bírságot megállapító döntésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény előírásait megfelelően kell alkalmazni.
+a) a bevezető részben a kormányhivatal és a helyi önkormányzat vagy a társulás megnevezését és székhelyét;
 
-(7) A közigazgatási és munkaügyi bíróság a kormányhivatal döntését megváltoztathatja, a kormányhivatal új eljárás lefolytatására nem kötelezhető.
+b) a rendelkező részben a döntést és az annak végrehajtásával, továbbá a jogorvoslat lehetőségével kapcsolatos tájékoztatást;
+
+c) az indokolásban a döntést megalapozó tényeket;
+
+d) a záró részben a kiadmányozást.
+
+(6) A kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálatát jogszabálysértésre hivatkozással a helyi önkormányzat vagy a társulás kérheti az illetékes közigazgatási és munkaügyi bíróságtól a döntés közlésétől számított tizenöt napon belül.
+
+(7) A közigazgatási és munkaügyi bíróság a kormányhivatalt a törvényességi felügyeleti bírsággal összefüggésben új eljárás lefolytatására nem kötelezheti.

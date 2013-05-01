@@ -6,9 +6,9 @@
 
 a) törvényességi felhívással élhet;
 
-b) kezdeményezheti a képviselő-testület összehívását, valamint e törvényben meghatározott esetben összehívja a képviselő-testület ülését;
+b) kezdeményezheti a képviselő-testület vagy a társulási tanács összehívását, valamint e törvényben meghatározott esetben összehívja a képviselő-testület vagy a társulási tanács ülését;
 
-c) kezdeményezheti a Kormánynál, hogy indítványozza az Alkotmánybíróságnál az önkormányzati rendelet Alaptörvénnyel való összhangjának felülvizsgálatát;
+c) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál annak indítványozását, hogy az Alkotmánybíróság vizsgálja felül az önkormányzati rendelet Alaptörvénnyel való összhangját;
 
 d) kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzat határozatának felülvizsgálatát;
 
@@ -26,7 +26,7 @@ j) kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat 
 
 k) szakmai segítséget nyújt a helyi önkormányzatnak a feladat- és hatáskörébe tartozó ügyben;
 
-l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra az e törvényben meghatározott esetekben.
+l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra vagy a társulásra az e törvényben meghatározott esetekben.
 
 (2) A kormányhivatal törvényességi felügyeleti eljárásának célja a helyi önkormányzat képviselő-testülete, bizottsága, részönkormányzata, polgármestere, főpolgármestere, megyei közgyűlés elnöke, társulása, jegyzője (a továbbiakban: érintett) működése jogszerűségének biztosítása.
 

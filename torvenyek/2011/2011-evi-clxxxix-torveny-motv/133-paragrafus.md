@@ -1,4 +1,4 @@
-## A kormányhivatal információkérési joga
+## A kormányhivatal információkérési és javaslattételi joga
 
 133. § (1) A kormányhivatal a helyi önkormányzat feladat- és hatáskörébe tartozóan az érintettől információt, adatot kérhet, konzultációt kezdeményezhet, amelyeknek az érintett a megadott határidőn belül köteles eleget tenni.
 
