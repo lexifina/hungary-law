@@ -1,14 +1,11 @@
 ## 3. § Hatályát veszti az R1.
 
-a)[^5]
+a) 1. § (21) bekezdése,
 
-b)[^6]
+b)[^5]
 
-c)[^7]
+c) 4. számú melléklet 103/a., 103/b. és 103/c. pontja,
 
-d)[^8]
+d) 10. számú mellékletében foglalt táblázat 7., 9. és 10. pontja.
 
-[^5]: A 3. § a) pontja a 8. § (2) bekezdése alapján 2013. május 1-jén lép hatályba.
-[^6]: A 3. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 3. § c) pontja a 8. § (2) bekezdése alapján 2013. május 1-jén lép hatályba.
-[^8]: A 3. § d) pontja a 8. § (2) bekezdése alapján 2013. május 1-jén lép hatályba.
+[^5]: A 3. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-14. melléklet a 9/2013. (I. 31.) EMMI rendelethez[^27]
+14. melléklet a 9/2013. (I. 31.) EMMI rendelethez
 
-[^27]: A 14. melléklet a 8. § (2) bekezdése alapján 2013. május 1-jén lép hatályba.
+Az R4. 4. mellékletében foglalt táblázat „7450” megjelölésű sorai helyébe a következő sor lép:
+
+| 7450 | Kemoterápia, panitumumab protokoll szerint | 959A | Rosszindulatú daganat kemoterápiája "A" |
