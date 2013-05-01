@@ -8,4 +8,4 @@
 
 (5)
 
-(6)
+(6) Hatályát veszti az Üht.
