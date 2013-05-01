@@ -6,7 +6,6 @@
 
 a)–c)[^1]
 
-d)[^2]
+d) az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységről szóló 8/2011. (III. 17.) NFM rendelet.
 
 [^1]: A 7. § (3) bekezdés a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 7. § (3) bekezdés d) pontja a (2) bekezdés alapján 2013. május 1-jén lép hatályba.
