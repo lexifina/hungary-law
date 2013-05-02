@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-19-00-00
 | --- | --- | --- |
 | 2013-03-20 | 2013. évi XIX. törvény | 2013-19-00-00.0 (közlönyállapot) |
 | 2013-03-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-19-00-00.1 |
+| 2013-05-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-19-00-00.2 |
