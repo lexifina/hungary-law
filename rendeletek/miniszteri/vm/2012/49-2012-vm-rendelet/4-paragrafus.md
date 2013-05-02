@@ -8,8 +8,10 @@ b) akinek (amelynek) a Római Szerződés I. mellékletében, a halászati term�
 
 (3) Az Élelmiszeripari gépek és technológiai berendezések katalógusával kapcsolatos eljárásokra a Vhr. 29. § (1) és (2), (7)–(9) és (11)–(14) bekezdését kell alkalmazni.
 
-(4) A Vhr. 24. §-ában foglaltaktól eltérően, az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles a támogatási határozatban jóváhagyott támogatási összeg legalább 25%-ával elszámolni.
+(4)[^3] A Vhr. 24. §-ában foglaltaktól eltérően, az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles a támogatási határozatban jóváhagyott támogatási összeg legalább 10%-ával elszámolni.
 
 (5) A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően a műveletet a támogatási határozat közlésétől számított két éven belül meg kell valósítani.
 
 (6) A Vhr. 17. § (3) bekezdésében foglaltaktól eltérően az utolsó kifizetési kérelmet a művelet megvalósulását követő hat hónapon belül, de legkésőbb 2015. január 31-ig be kell nyújtani.
+
+[^3]: A 4. § (4) bekezdése a 28/2013. (IV. 30.) VM rendelet 11. §-ával megállapított szöveg.
