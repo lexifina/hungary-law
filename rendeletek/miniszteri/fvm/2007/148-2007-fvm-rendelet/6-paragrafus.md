@@ -44,4 +44,4 @@
 [^16]: A 6. § (1d) bekezdését a 139/2012. (XII. 22.) VM rendelet 1. § (2) bekezdése iktatta be.
 [^17]: A 6. § (3) bekezdése a 111/2012. (X. 29.) VM rendelet 8. §-ával megállapított szöveg.
 [^18]: A 6. § (3a) bekezdését a 87/2012. (VIII. 27.) VM rendelet 16. §-a iktatta be, szövege a 111/2012. (X. 29.) VM rendelet 8. §-ával megállapított szöveg.
-[^19]: A 6. § (13) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
+[^19]: A 6. § (13) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 84. § b) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MGSZH)” szövegrész helyébe a „NÉBIH” szöveg lép, nem vezethető át.]

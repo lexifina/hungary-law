@@ -1,4 +1,4 @@
-5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^42]
+5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^44]
 
 |  |  | Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma |
 
@@ -32,4 +32,4 @@
 
 | 6. |  | Keltezés, a kedvezményezett és az engedélyes (cégszerű) aláírása |
 
-[^42]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 77/2012. (VII. 27.) VM rendelet 4. §-ával megállapított szöveg.
+[^44]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 77/2012. (VII. 27.) VM rendelet 4. §-ával megállapított szöveg.

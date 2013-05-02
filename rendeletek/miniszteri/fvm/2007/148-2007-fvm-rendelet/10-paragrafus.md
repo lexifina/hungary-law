@@ -1,3 +1,4 @@
-## 9/B. §[^33] E rendeletnek az egyes állattenyésztési támogatások 2012. évre vonatkozó keretösszegének módosításáról szóló 111/2012. (X. 29.) VM rendelettel [a továbbiakban: 111/2012. (X. 29.) VM rendelet] megállapított 6. § (1a), (3) és (3a) bekezdését a 111/2012. (X. 29.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+## 9/C. §[^34] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 28/2013. (IV. 30.) VM rendelettel [a továbbiakban: 28/2013. (IV. 30.) VM rendelet] megállapított 7. § (2) bekezdését a 28/2013. (IV. 30.) VM rendelet hatálybalépésekor[^35] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^33]: A 9/B. §-t a 111/2012. (X. 29.) VM rendelet 10. §-a iktatta be.
+[^34]: A 9/C. §-t a 28/2013. (IV. 30.) VM rendelet 2. §-a iktatta be.
+[^35]: A hatálybalépés időpontja 2013. május 2.

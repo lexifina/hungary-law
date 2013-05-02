@@ -37,6 +37,6 @@ d) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 (8) A kedvezményezett az engedélyesnek a bruttó számlaérték és a támogatástartalom különbözetét fizeti meg. A támogatási keret kimerülése, illetve valamely jogosultsági feltétel nem teljesítése esetén a kedvezményezett köteles az engedélyes részére a számla teljes összegét kifizetni.
 
 [^7]: Az 5. § a 23/2011. (III. 28.) VM rendelet 3. §-ával megállapított szöveg.
-[^8]: Az 5. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 84. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
 [^9]: Az 5. § (4) bekezdése a 93/2011. (X. 12.) VM rendelet 6. §-ával megállapított szöveg.
 [^10]: Az 5. § (5) bekezdése a 93/2011. (X. 12.) VM rendelet 6. §-ával megállapított szöveg.

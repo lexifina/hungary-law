@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2012-09-04 | 2007-148-20-82.13 | 87/2012. (VIII. 27.) VM rendelet |
 | 2012-10-30 | 2007-148-20-82.14 | 111/2012. (X. 29.) VM rendelet |
 | 2012-12-23 | 2007-148-20-82.15 | 139/2012. (XII. 22.) VM rendelet |
+| 2013-05-02 | 2007-148-20-82.16 | 77/2012. (VII. 27.) VM rendelet |
