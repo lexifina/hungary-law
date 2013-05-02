@@ -1,3 +1,0 @@
-## 2. § Az R. 24. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Lakott területen belül a járművek vezetői kötelesek az elindulási szándékot jelző, menetrend szerint közlekedő autóbusznak, trolibusznak, az iskolabusznak és a gyermekeket szállító autóbusznak a megállóhelyről való elindulását (a jobb szélső forgalmi sávba való besorolását) – ha ez hirtelen fékezés nélkül megtehető – lassítással, szükség esetén megállással is lehetővé tenni. Az autóbusz, az iskolabusz, a gyermekeket szállító autóbusz, valamint a trolibusz vezetője azonban ilyen esetben is csak akkor indulhat el, ha meggyőződött annak veszélytelenségéről.”
