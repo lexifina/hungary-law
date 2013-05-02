@@ -1,4 +1,4 @@
-## 8–9. §[^2]
+## 8–9. §[^4]
 
 1. melléklet a 80/2012. (XII. 28.) NFM rendelethez
 
@@ -26,4 +26,4 @@ Az üvegházhatású gázok kibocsátásával kapcsolatos egyes tevékenységek 
 
 | 10. | 2. |  | Légi jármű üzembentartó esetében nyomon követési terv jóváhagyása (tervenként) | 211 000 |
 
-[^2]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
