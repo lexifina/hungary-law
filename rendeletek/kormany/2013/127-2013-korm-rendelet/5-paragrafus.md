@@ -1,1 +1,0 @@
-## „(5) Az Mhötv. 141. § (1) bekezdés e) pontja szerinti kötelezettségszegés esetén a bírság a törvényességi felhívással korábban jelzett jogszabályi kötelezettség ismételt megsértése esetén – külön törvényességi felhívás kibocsátása nélkül – szabható ki.”
