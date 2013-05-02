@@ -1,3 +1,1 @@
-1. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 112. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A kormányhivatal vezetője a helyi önkormányzat polgármesteri hivatala, közös önkormányzati hivatala, illetve megyei önkormányzati hivatala alkalmazásában álló személyek közül a helyi önkormányzat kiadási előirányzatai terhére fizetési kötelezettség vállalására jogosult személyt jelöl ki, ha a kormányhivatal illetékességi területén működő helyi önkormányzatnál tizenöt napot meghaladóan nincs kötelezettségvállalásra jogosult személy vagy feladata ellátásában akadályoztatva van, és ez a helyi önkormányzat gazdálkodását akadályozza. A kormányhivatal vezetője általi kijelölés megszűnik, ha a kötelezettségvállalásra más személy válik jogosulttá vagy az arra jogosult személy akadályoztatása megszűnik.”
+1–8. §
