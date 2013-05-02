@@ -1,1 +1,0 @@
-## 8. § Nem lép hatályba a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet módosításáról szóló 3/2013. (I. 7.) EMMI rendelet 6. § a) pontja és 1. melléklete.
