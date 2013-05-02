@@ -1,1 +1,3 @@
-## 17. § A távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendelet (a továbbiakban: R.) 1. melléklete a 6. melléklet szerint módosul.
+## 16–17. §[^3]
+
+[^3]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
