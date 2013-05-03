@@ -6,7 +6,7 @@
 
 1. új lakás:
 
-a) az alapozási munkáktól kezdődően teljes egészében újonnan épített, vagy emeletráépítéssel, vagy tetőtér-beépítéssel nem családi vagy ikerházon megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység, amely elkészültét követően használatbavételi- vagy fennmaradási-engedély köteles,
+a)[^2] az alapozási munkáktól kezdődően teljes egészében újonnan épített, vagy emeletráépítéssel, vagy tetőtér-beépítéssel nem családi vagy ikerházon megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység, amely elkészültét követően használatbavételi engedély, fennmaradási engedély vagy hatósági bizonyítvánnyal igazolandó használatbavétel tudomásulvételi eljárásra köteles,
 
 b) az a lakás, amelyet jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó természetes személy részére való értékesítés céljára épít, vagy építtet, és
 
@@ -20,15 +20,11 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 4. hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvényben foglaltaknak megfelelően, illetve a biztosítóintézet a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben foglaltaknak megfelelően,
 
-5. támogatott személy:
+5.[^3] támogatott személy: aki
 
-a) a magyar állampolgár és az a személy, akit külön törvény alapján a magyar állampolgár jogai illetnek meg,
+a) az e rendelet szerinti személyi és egyéb feltételeknek megfelel és ezek alapján a hitelintézettel a kamattámogatás nyújtására szerződést köt, vagy
 
-b)[^2] a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
-
-c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
-
-d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben foglaltak alapján ilyen jogállásúnak ismerték el,
+b) a támogatást igénylő házastársa vagy bejegyzett élettársa, kivéve ha a kérelem benyújtását megelőzően kötött vagyonjogi szerződés alapján a kamattámogatás igénybevételével érintett lakás a felek egyikének különvagyonába tartozik és ezt a hitelintézet részére a vagyonjogi szerződés bemutatásával igazolják,
 
 6. egyedülálló személy: az a személy, akinek nincs élettársa, és
 
@@ -66,9 +62,9 @@ a) a 16. életévét még nem töltötte be,
 
 b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem érte el,
 
-c)[^3] a 16. életévét már betöltötte, de megváltozott munkaképességű személy, és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
+c)[^4] a 16. életévét már betöltötte, de megváltozott munkaképességű személy, és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
 
-12.[^4] eltartott: az építtető, vásárló eltartottjának minősül
+12.[^5] eltartott: az építtető, vásárló eltartottjának minősül
 
 a) a gyermek,
 
@@ -90,9 +86,9 @@ c) az építtetőnek (vásárlónak) vagy házastársának, illetve bejegyzett �
 
 14. állampapírhozam:
 
-a)[^5] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+a)[^6] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
-b)[^6] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+b)[^7] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
 15. referenciahozam: az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga,
 
@@ -122,7 +118,7 @@ j) a telek ára,
 
 18. ügyleti kamat: a támogatott által fizetendő, a kamattámogatással csökkentett ellenszolgáltatás,
 
-19.[^7] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket.
+19.[^8] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket.
 
 (3) Az e rendeletben meg nem határozott fogalmakat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben, illetve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottak szerint kell értelmezni.
 
@@ -136,10 +132,24 @@ b) az a) pont hatálya alá nem tartozó esetekben a Magyar Államkincstár (a t
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
+(6)[^9] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
+
+a) a magyar állampolgár,
+
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
+
+c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
+
+d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el, vagy
+
+e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
+
 [^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés 5. pont b) alpontja a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^3]: A 1. § (2) bekezdés 11. pont c) alpontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^4]: A 1. § (2) bekezdés 12. pontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^6]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^7]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^2]: Az 1. § (2) bekezdés 1. pont a) alpontja a 128/2013. (IV. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 1. § (2) bekezdés 11. pont c) alpontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^5]: A 1. § (2) bekezdés 12. pontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^8]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^9]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
