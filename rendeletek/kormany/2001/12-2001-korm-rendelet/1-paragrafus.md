@@ -56,9 +56,9 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 8.[^12] egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált és nincs élettársa.
 
-9.[^13] új lakás: az alapozási munkáktól kezdődően teljes egészében újonnan épített, illetőleg emeletráépítéssel, vagy tetőtér-beépítéssel nem családi- vagy ikerházon megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység, amely elkészültét követően használatbavételi vagy fennmaradási engedély köteles;
+9.[^13] új lakás: az alapozási munkáktól kezdődően teljes egészében újonnan épített, illetőleg emeletráépítéssel, vagy tetőtér-beépítéssel nem családi- vagy ikerházon megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység, amely elkészültét követően használatbavételi engedély, fennmaradási engedély vagy hatósági bizonyítvánnyal igazolandó használatbavétel tudomásulvételi eljárásra köteles;
 
-10.[^14] értékesítés szempontjából új lakás: a 9. pontban meghatározottakon kívül, a 15. § (1) bekezdés szerinti, értékesítés céljára épített új lakás az is, amelyet a használatbavételi vagy fennmaradási engedély kiadását követően legfeljebb három évig bérlakásként hasznosítanak és első ízben történő értékesítésére ezt követően kerül sor;
+10.[^14] értékesítés szempontjából új lakás: a 9. pontban meghatározottakon kívül, a 15. § (1) bekezdés szerinti, értékesítés céljára épített új lakás az is, amelyet a használatbavételi vagy a fennmaradási engedély kiadását vagy a használatbavétel tudomásulvételét követően legfeljebb három évig bérlakásként hasznosítanak és első ízben történő értékesítésére ezt követően kerül sor;
 
 11.[^15] használt lakás: ténylegesen használatba vett, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő, újnak nem minősülő lakás.
 
@@ -88,8 +88,8 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 [^10]: Az 1. § (4) bekezdésének 7. pontját a 251/2004. (VIII. 30.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^11]: Az 1. § (4) bekezdés 7. pont b) alpontja a 257/2011. (XII. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: Az 1. § (4) bekezdésének 8. pontját a 251/2004. (VIII. 30.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
-[^13]: Az 1. § (4) bekezdésének 9. pontját a 3/2005. (I. 12.) Korm. rendelet – a Magyar Közlöny 2005. évi 27. számában megjelent helyesbítésnek megfelelő – 3. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
-[^14]: Az 1. § (4) bekezdésének 10. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
+[^13]: Az 1. § (4) bekezdésének 9. pontját a 3/2005. (I. 12.) Korm. rendelet – a Magyar Közlöny 2005. évi 27. számában megjelent helyesbítésnek megfelelő – 3. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
+[^14]: Az 1. § (4) bekezdésének 10. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
 [^15]: Az 1. § (4) bekezdésének 11. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^16]: Az 1. § (4) bekezdésének 12. pontját a 155/2005. (VIII. 11.) Korm. rendelet 1. §-ának (1) bekezdése iktatta be, e módosító rendelet 5. §-ának (1) bekezdése alapján a rendelkezést a 2005. augusztus 16. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
 [^17]: Az 1. § (4) bekezdés 13. pontját a 125/2009. (VI. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
