@@ -1,4 +1,4 @@
-7. § (1)[^14] Amennyiben a fiatal házaspár
+7. § (1)[^25] Amennyiben a fiatal házaspár
 
 a) gyermekvállalását nem vagy csak részben teljesíti, úgy az igénybevett támogatás összegét csökkentve a gyermekvállalási határidő lejártának időpontjában meglévő gyermekek után járó lakásépítési támogatás összegével,
 
@@ -24,8 +24,10 @@ c) a gyermek a terhesség 24. betöltött hetét követően halva születik,
 
 (5) A (4) bekezdés szerinti kérelmet a (4) bekezdés a)–c) pontjában foglalt események bekövetkezésétől számított 90. napig, de legfeljebb a lakásépítési támogatásról szóló szerződésben vállalt határidő leteltéig lehet benyújtani.
 
-(6) Ha a támogatott személy az igazolást a (4) bekezdés a)–c) pontjában meghatározott esemény bekövetkeztétől számított 90 napon belül nem nyújtja be, úgy a hivatkozott események bejelentésétől számított 60 napon belül a lakásépítési támogatás összege után, a bejelentési kötelezettség esedékességének napjától számított, a Ptk. 301. § (1) bekezdése szerinti, Magyar Államot megillető késedelmi kamatot a hitelintézeten keresztül köteles a Kincstár részére megfizetni.
+(6)[^26]
 
-(7) Amennyiben a támogatott személy az (1)–(3) és a (6) bekezdésben foglalt visszafizetési kötelezettségének a hitelintézeti felszólítás ellenére sem tesz eleget, akkor a hitelintézet a visszafizetési kötelezettség érvényesítése érdekében a Kincstárhoz fordul.
+(7)[^27] Amennyiben a támogatott személy az (1)–(3) bekezdésben foglalt visszafizetési kötelezettségének a hitelintézeti felszólítás ellenére sem tesz eleget, akkor a hitelintézet a visszafizetési kötelezettség érvényesítése érdekében a Kincstárhoz fordul.
 
-[^14]: A 7. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^25]: A 7. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^26]: A 7. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^27]: A 7. § (7) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.

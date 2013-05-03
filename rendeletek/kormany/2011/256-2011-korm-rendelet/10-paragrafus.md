@@ -14,8 +14,9 @@
 
 (8) A Kincstár a támogatott személynél a lakásépítési támogatás igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja. Ha a Kincstár a hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a támogatást, akkor határozatban intézkedik a támogatás – igénybevétel napjától számított, a Ptk. 301. § (1) bekezdése szerinti késedelmi kamattal növelt összegének – visszatérítése iránt.
 
-(9) A közigazgatási hatósági eljárásban első fokon a Kincstárnak a támogatott személy lakóhelye szerint illetékes területi szerve, másodfokon a Kincstár központja jár el. A Kincstár a jogosulatlan igénybevétel tényéről a folyósító hitelintézetet írásban tájékoztatja.
+(9)[^30] A közigazgatási hatósági eljárásban első fokon a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve, másodfokon a Kincstár központja jár el. A Kincstár a jogosulatlan igénybevétel tényéről a folyósító hitelintézetet írásban tájékoztatja.
 
-(10)[^16] A Kincstár hatósági jogkörében eljárva kizárólag a részletfizetés engedélyezése körében folytathat le méltányossági eljárást. A lakásépítési támogatás a (8) bekezdés, a 7. § (1) bekezdése és a 14. § (3) bekezdése szerinti visszafizetésének részletekben történő teljesítése akkor engedélyezhető, ha a kérelmező igazolja, hogy a támogatás azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhet jelentene.
+(10)[^31] A Kincstár hatósági jogkörében eljárva kizárólag a részletfizetés engedélyezése körében folytathat le méltányossági eljárást. A lakásépítési támogatás a (8) bekezdés, a 7. § (1) bekezdése és a 14. § (3) bekezdése szerinti visszafizetésének részletekben történő teljesítése akkor engedélyezhető, ha a kérelmező igazolja, hogy a támogatás azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhet jelentene.
 
-[^16]: A 10. § (10) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § e) pontja szerint módosított szöveg.
+[^30]: A 10. § (9) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 14. § 12. pontja szerint módosított szöveg.
+[^31]: A 10. § (10) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § e) pontja szerint módosított szöveg.

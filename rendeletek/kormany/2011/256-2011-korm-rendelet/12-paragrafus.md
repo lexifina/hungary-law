@@ -8,6 +8,8 @@
 
 (5) Amennyiben a hitelintézet szerint a számla valódisága vagy a számlában szereplő gazdasági esemény megtörténte kétséges, a tények feltárása érdekében megkeresi az állami adóhatóságot.
 
-(6) A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása évének utolsó napjától számított 5 évig megőrizni.
+(6)[^36] A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele évének utolsó napjától számított 5 évig megőrizni.
 
 (7) Ha az állami adóhatóság vizsgálata során azt állapítja meg, hogy a lakásépítési támogatás igénybevétele jogosulatlan, vagy a támogatott személy nem elvárható körültekintéssel járt el, és ezáltal érdekkörében felmerült ok miatt az igénybevétel szabálytalan, akkor a támogatott személy állandó lakóhelye szerint illetékes állami adóhatóság – jogosulatlanul igénybe vett költségvetési támogatás címén – előírja a folyósított lakásépítési támogatás az igénybevétel napjától számított, a Ptk. 301. § (1) bekezdése szerinti késedelmi kamattal növelt összegének visszatérítését.
+
+[^36]: A 12. § (6) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
