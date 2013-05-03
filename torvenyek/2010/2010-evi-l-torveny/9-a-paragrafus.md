@@ -1,4 +1,4 @@
-9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt – a település nemzetiségi névjegyzékében szerepel, magyar állampolgár, továbbá nyilatkozatot tesz arról, hogy
+9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt – a település nemzetiségi névjegyzékében szerepel, továbbá nyilatkozatot tesz arról, hogy
 
 a) a nemzetiség képviseletét vállalja,
 
