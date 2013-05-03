@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2013-01-01 | 2012. évi CCXIV. törvény | 2011-199-00-00.9 |
 | 2013-04-04 | 2013. évi XXII. törvény | 2011-199-00-00.10 |
 | 2013-04-26 | 2013. évi XXXVIII. törvény | 2011-199-00-00.11 |
+| 2013-05-03 | 2013. évi XXXVI. törvény | 2011-199-00-00.12 |
