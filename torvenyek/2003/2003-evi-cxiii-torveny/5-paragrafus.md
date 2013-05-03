@@ -4,4 +4,4 @@
 
 (2) A listaállításhoz legalább 20 000 választópolgárnak az aláírásával hitelesített ajánlása szükséges.
 
-(3) A választópolgár csak egy listát ajánlhat.
+(3)
