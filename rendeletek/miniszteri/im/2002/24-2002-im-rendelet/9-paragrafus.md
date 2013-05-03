@@ -1,1 +1,0 @@
-## 8. § A szolgálati jármű szolgálati feladatok végrehajtására vehető igénybe. Amennyiben a szolgálati feladatok ellátását nem veszélyezteti, a szolgálati jármű, térítési díj ellenében, a bv. szerv vezetőjének engedélyével magáncélú használatra is igénybe vehető.
