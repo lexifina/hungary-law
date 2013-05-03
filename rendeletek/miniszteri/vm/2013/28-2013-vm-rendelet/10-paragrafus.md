@@ -1,3 +1,3 @@
-## 9. §[^1]
+## 9. §[^5]
 
-[^1]: A 9. § a 12. § (2) bekezdése alapján 2013. május 7-én lép hatályba.
+[^5]: A 9. § a 12. § (2) bekezdése alapján 2013. május 7-én lép hatályba.
