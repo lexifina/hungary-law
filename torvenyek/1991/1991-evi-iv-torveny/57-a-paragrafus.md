@@ -22,7 +22,9 @@ h) a megváltozott munkaképességgel kapcsolatos adatok,
 
 i) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, adószám, TB nyilvántartási szám, TAJ szám, KSH szám),
 
-j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e.
+j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e,
+
+k) a nemzetiséghez való tartozásra vonatkozó adatok.
 
 (3) Az (2) bekezdés alapján nyilvántartásba vett adatokból
 
