@@ -4,4 +4,6 @@ a) forgalomba hozott termék értéke: az 1234/2007/EK tanácsi rendeletnek a gy
 
 b) referencia időszak: a bizottsági rendelet 51. cikke szerinti időszak.
 
-(2) Az e rendeletben nem szabályozott kérdések tekintetében a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendeletben (a továbbiakban: R.) foglaltak az irányadók.
+(2)[^2] Az e rendeletben nem szabályozott kérdések tekintetében a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló 150/2012. (XII. 28.) VM rendeletben (a továbbiakban: R.) foglaltak az irányadók.
+
+[^2]: Az 1. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 2. § a) pontja szerint módosított szöveg.
