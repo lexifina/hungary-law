@@ -1,0 +1,9 @@
+## 4. § Az egységes területalapú támogatási rendszer alapján támogatásra jogosult mezőgazdasági termelőknek nyújtott, az Európai Mezőgazdasági Garancia Alapból finanszírozott elkülönített bogyós gyümölcs támogatásról szóló 33/2012. (IV. 2.) VM rendelet [a továbbiakban: 33/2012. (IV. 2.) VM rendelet] 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A bogyós gyümölcs támogatási jogosultság tárgyévre jutó egységnyi támogatási összege a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet XII. mellékletében Magyarország számára megállapított elkülönített bogyós gyümölcsök támogatására kifizethető összeg és a tárgyévben bogyós gyümölcs támogatási jogosultsággal rendelkező, elkülönített bogyós gyümölcs támogatást igénylő, tárgyévi SAPS jogosultsággal rendelkező mezőgazdasági termelők bogyós gyümölcs támogatási jogosultság mértéke összegének hányadosa. Az egységnyi támogatás összege két tizedes jegy pontossággal kerül meghatározásra.”
+
+5. § (1) A 33/2012. (IV. 2.) VM rendelet 6. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A bogyós gyümölcs támogatási jogosultság átruházására vagy ideiglenes átengedésére irányuló szerződés alapján a bogyós gyümölcs támogatási jogosultság nyilvántartásban történő átvezetésének évében a bogyós gyümölcs támogatási jogosultság további átruházására vagy ideiglenes átengedésére csak teljes gazdasággal együtt kerülhet sor.”
+
+(2) A 33/2012. (IV. 2.) VM rendelet 6. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
