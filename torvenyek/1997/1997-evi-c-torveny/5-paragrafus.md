@@ -1,1 +1,0 @@
-5. § A választások előkészítésével és lebonyolításával kapcsolatos állami feladatok végrehajtásának költségeit – az Országgyűlés által megállapított mértékben – a központi költségvetésből kell biztosítani. E pénzeszközök felhasználásáról az Állami Számvevőszék tájékoztatja az Országgyűlést.

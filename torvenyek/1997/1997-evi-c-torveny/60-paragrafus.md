@@ -1,1 +1,0 @@
-60. § A jelöltnek a be nem nyújtott ajánlószelvényeket a benyújtásukra rendelkezésre álló határidő lejártát követő három napon belül meg kell semmisítenie, s erről jegyzőkönyvet kell készítenie. A jegyzőkönyvet három napon belül a választási bizottságnak át kell adni.

@@ -1,5 +1,0 @@
-## XIX. Fejezet
-
-## A KÜLFÖLDÖN TÖRTÉNŐ SZAVAZÁS ÁTMENETI SZABÁLYAI
-
-173–193. §

@@ -1,1 +1,0 @@
-11. § A választás kitűzésétől a szavazás napjáig nem lehet település, választókerület és szavazókör határát, sorszámát, továbbá település elnevezését, utcanevet, házszámot és helyrajzi számot megváltoztatni.

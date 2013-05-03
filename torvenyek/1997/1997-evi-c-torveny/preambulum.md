@@ -1,1 +1,0 @@
-Az Országgyűlés a választójog gyakorlása, a választási eljárás, a népszavazási eljárás, a népi kezdeményezési és az európai polgári kezdeményezési eljárás demokratikus lefolytatásának biztosítása érdekében a következő törvényt alkotja:

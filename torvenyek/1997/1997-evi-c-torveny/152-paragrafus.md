@@ -1,3 +1,0 @@
-## Felhatalmazás
-
-152. §

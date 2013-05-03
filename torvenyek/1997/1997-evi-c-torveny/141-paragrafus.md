@@ -1,1 +1,0 @@
-141. § A népszavazás időpontját a képviselő-testület, illetőleg a fővárosi, megyei közgyűlés (e fejezetben együtt: képviselő-testület) a népszavazás elrendelésével egyidejűleg tűzi ki, az attól számított négy hónapon belüli időpontra.

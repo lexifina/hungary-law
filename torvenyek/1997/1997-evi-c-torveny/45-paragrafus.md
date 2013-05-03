@@ -1,3 +1,0 @@
-## Adatszolgáltatás
-
-45. §

@@ -1,5 +1,0 @@
-155. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 11/A. § (1) és (2) bekezdését az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor folyamatban lévő gondnokság alá helyezési eljárásokban, valamint felülvizsgálati eljárásokban is alkalmazni kell.
-
-(2) Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor gondnokság alá helyezés hatálya alatt álló személy esetén e törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 11/A. § (1) és (2) bekezdését a Ptk. 14/A. §-a vagy 15. § (5) bekezdése szerinti felülvizsgálat, illetve a Ptk. 21. §-a szerinti per során kell először alkalmazni.
-
-(3) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 11/A. § (4) bekezdését az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor gondnokság alá helyezés hatálya alatt álló személy esetén is alkalmazni kell.

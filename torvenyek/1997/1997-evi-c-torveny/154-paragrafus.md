@@ -1,1 +1,0 @@
-154. § A miniszter a választás állami feladatainak ellátására jogi személlyel szerződést köthet a biztonsági követelmények biztosításával. Nem köthető szolgáltatási szerződés a névjegyzék és a választójoggal nem rendelkező nagykorú polgárok nyilvántartásának összeállítására, az ajánlások ellenőrzésére, továbbá a kétszer-többször szavazás ellenőrzésére.

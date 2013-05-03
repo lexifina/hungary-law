@@ -1,1 +1,0 @@
-58. § A jelölt kiesik, ha a szavazás megkezdése előtt a jelölésről írásban lemondott, választójogát elvesztette, vagy meghalt. A kiesett jelölt nevét a jelöltek nyilvántartásából, illetőleg a szavazólapokról törölni kell.
