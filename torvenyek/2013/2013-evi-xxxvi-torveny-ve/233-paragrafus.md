@@ -1,0 +1,1 @@
+233. § Az Alkotmánybíróság az e törvény alapján, a választási szerv határozatával kapcsolatos jogorvoslati eljárásban hozott bírói döntés elleni alkotmányjogi panaszról az Alkotmánybíróságról szóló 2011. évi CLI. törvény 56. §-a szerint a beérkezésétől számított három munkanapon belül, a befogadott alkotmányjogi panaszról további három munkanapon belül dönt.

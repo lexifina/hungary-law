@@ -1,0 +1,1 @@
+176. § A választópolgár igazolja személyazonosságát, valamint lakcímét vagy személyi azonosítóját. A szavazatszámláló bizottság megállapítja, hogy a polgár szerepel-e a kinyomtatott szavazóköri névjegyzékben.

@@ -1,0 +1,1 @@
+270. § A külképviseleti választási iroda – a személyazonosság megállapítására alkalmas igazolvány alapján – megállapítja a szavazni kívánó polgár személyazonosságát és azt, hogy szerepel-e a külképviseleti névjegyzékben. Vissza kell utasítani azt, aki személyazonosságát a fenti módon nem tudja igazolni, vagy nem szerepel a külképviseleti névjegyzékben.

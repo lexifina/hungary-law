@@ -1,0 +1,1 @@
+238. § A választási iroda vezetőjének döntését az érintettel és azzal, aki a fellebbezést benyújtotta, a bíróság határozatát a megtámadott határozatot hozó választási iroda vezetőjével is közölni kell.

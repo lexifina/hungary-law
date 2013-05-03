@@ -1,0 +1,3 @@
+181. § (1) Az a választópolgár, aki nem tud olvasni, illetve akit testi fogyatékossága vagy egyéb ok akadályoz a szavazásban, általa választott segítő – ennek hiányában a szavazatszámláló bizottság két tagjának együttes – segítségét igénybe veheti.
+
+(2) A 167. § (5) bekezdése szerinti szavazókörben a látássérült választópolgár Braille-írással ellátott szavazósablont vehet igénybe a szavazás segítése céljából. A szavazatszámláló bizottság a választópolgár szavazólapját belehelyezi a szavazósablonba, és így adja át a választópolgár részére. A szavazást követően a választópolgár a szavazólapot kiveszi a szavazósablonból, borítékba helyezheti és az urnába dobja, a szavazósablont visszaadja a szavazatszámláló bizottságnak.

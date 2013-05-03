@@ -1,0 +1,1 @@
+196. § A szavazólapokat, illetve a szavazatokat legalább kétszer meg kell számlálni. Az ismételt számlálást addig kell folytatni, amíg annak eredménye valamely megelőző számlálás eredményével azonos nem lesz.

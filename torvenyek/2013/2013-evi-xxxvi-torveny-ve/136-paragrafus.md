@@ -1,0 +1,1 @@
+136. § A jelölő szervezetek adatait a civil szervezetek bírósági nyilvántartásának adatai alapján folyamatosan frissíteni kell. Ha a jelölő szervezetet törlik a civil szervezetek bírósági nyilvántartásából, a Nemzeti Választási Bizottság törli a jelölő szervezetet a jelölő szervezetek nyilvántartásából.

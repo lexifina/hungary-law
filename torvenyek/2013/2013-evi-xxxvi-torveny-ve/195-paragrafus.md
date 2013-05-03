@@ -1,0 +1,1 @@
+195. § Az érvényes szavazatokat jelöltenként, illetve listánként külön-külön meg kell számolni, majd el kell végezni a szavazólapok csomagolását. A csomagra rá kell írni az érvényes szavazatok jelöltenkénti, illetve listánkénti számát.

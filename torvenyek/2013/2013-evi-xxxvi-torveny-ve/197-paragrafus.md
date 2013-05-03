@@ -1,0 +1,1 @@
+197. § Ha az urnákban talált, hivatalos bélyegzőlenyomattal ellátott szavazólapok száma meghaladja a szavazáson megjelent választópolgárok számát, a szavazatszámláló bizottság a jelöltekre, illetve listákra leadott szavazatok közül jelöltenként, illetve listánként a többletnek megfelelő számú szavazatot érvénytelennek nyilvánít.

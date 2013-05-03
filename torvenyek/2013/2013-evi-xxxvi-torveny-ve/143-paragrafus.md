@@ -1,0 +1,1 @@
+143. § A 77. § (1) bekezdése alapján megállapított szavazóhelyiségek bejáratától számított 150 méteres távolságon belül – közterületen – választási kampánytevékenység a szavazás napján nem folytatható.

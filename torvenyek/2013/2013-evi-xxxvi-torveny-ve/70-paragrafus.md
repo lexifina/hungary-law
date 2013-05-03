@@ -1,0 +1,1 @@
+70. § A választási iroda vezetője a felettes választási iroda vezetője előtt, a választási iroda többi tagja a megbízó előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt vagy fogadalmat tesz.

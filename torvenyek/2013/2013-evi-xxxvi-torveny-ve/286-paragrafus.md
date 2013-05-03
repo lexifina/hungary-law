@@ -1,0 +1,1 @@
+286. § Ha a külképviseletről érkezett urnában vagy az átjelentkezéssel szavazó választópolgárok szavazatai között lezáratlan vagy olyan boríték van, amely az egyéni választókerület megjelölését nem tartalmazza, az le nem adott szavazatnak számít, és külön kell csomagolni.

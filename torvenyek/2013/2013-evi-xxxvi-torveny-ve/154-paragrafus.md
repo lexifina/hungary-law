@@ -1,0 +1,3 @@
+154. § (1) A 153. § a) pontja szerinti adatszolgáltatás teljesítésének feltétele, hogy a jelölt igazolja a kötelező legkisebb munkabér egy havi összegének megfelelő összegű adatszolgáltatási díjnak a Nemzeti Választási Iroda számlájára történt befizetését.
+
+(2) A 153. § b) pontja szerinti adatszolgáltatás teljesítésének feltétele, hogy a listát állító jelölő szervezet igazolja a kötelező legkisebb munkabér egy havi összegének megfelelő összegű adatszolgáltatási díjnak a listás választókerületben megválasztható képviselők száma szerinti befizetését a Nemzeti Választási Iroda számlájára.

@@ -1,0 +1,1 @@
+194. § A szavazatszámláló bizottság külön csoportba helyezi és összeszámlálja az érvénytelen szavazólapokat. Az érvénytelenség okát a szavazólap hátoldalára rá kell vezetni, és azt a szavazatszámláló bizottság jelen lévő tagjai aláírják. A szavazatszámláló bizottság az érvénytelen szavazólapokat külön csomagolja.

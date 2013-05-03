@@ -1,0 +1,1 @@
+7. § Ha a választási bizottság vagy a bíróság megismételteti a szavazást, az erről szóló határozatában az ismételt szavazást a megismételtetett szavazás napját követő harminc napon belüli időpontra tűzi ki.

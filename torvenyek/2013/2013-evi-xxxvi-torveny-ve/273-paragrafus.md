@@ -1,0 +1,1 @@
+273. § A külképviseleti választási iroda a szavazás lezárását követően az urnában – annak felnyitása nélkül – elhelyezi a szavazás befejezéséről kiállított jegyzőkönyvet, és az urnát lezárja úgy, hogy ne lehessen abba szavazólapot elhelyezni vagy abból szavazólapot eltávolítani.

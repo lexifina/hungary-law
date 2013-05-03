@@ -1,0 +1,1 @@
+293. § A magyarországi lakcímmel nem rendelkező választópolgárok levélben leadott szavazatait a Nemzeti Választási Bizottság felügyelete mellett a Nemzeti Választási Iroda számlálja meg. A számlálást nem lehet megkezdeni a szavazás napján 19 órát megelőzően.

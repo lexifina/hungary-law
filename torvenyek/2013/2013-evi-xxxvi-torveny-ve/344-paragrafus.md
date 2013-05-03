@@ -1,0 +1,1 @@
+344. § A választás nem hiteles eredményét tartalmazó tájékoztató adatokat, valamint a választási eredményt csak azt követően lehet közzétenni, hogy a szavazás az Európai Unió valamennyi tagállamában befejeződött.

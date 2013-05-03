@@ -1,0 +1,3 @@
+121. § (1) Az ajánlóíven a választási iroda feltünteti a jelöltként indulni szándékozó választópolgár nevét, a jelölő szervezet nevét vagy a független jelölés tényét, a választókerület megjelölését. Közös jelölt esetén az ajánlóíven a közös jelöltet állító valamennyi jelölő szervezet nevét fel kell tüntetni.
+
+(2) A választási iroda az igénylését követően haladéktalanul, de legkorábban a szavazást megelőző negyvennyolcadik napon átadja az igénylő részére az általa igényelt mennyiségű ajánlóívet. A választási iroda valamennyi ajánlóívet sorszámmal, valamint hitelesítő bélyegzőlenyomattal lát el.

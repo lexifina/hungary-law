@@ -1,0 +1,1 @@
+340. § A Nemzeti Választási Bizottság elutasítja annak a jelöltnek a nyilvántartásba vételét, illetve törli a jelöltek közül azt, akit az Európai Unió más tagállamában jelöltként nyilvántartásba vettek.
