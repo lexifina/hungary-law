@@ -52,7 +52,9 @@ s) a szakképző iskolai tanulót tanulószerződés alapján foglalkoztató ad�
 
 t) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett,
 
-u) a járási hivatal.
+u) a járási hivatal,
+
+v) a szociális szövetkezet.
 
 (5) Az adatszolgáltatásra kötelezett személy adatszolgáltatásának tartalmaznia kell a magánszemély adóazonosító számát.
 
@@ -98,7 +100,9 @@ j) megkeresésre elektronikus úton átadja a költségvetési támogatások ked
 
 k)
 
-l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi felügyeletéért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához.
+l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi felügyeletéért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához,
+
+m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő Nemzeti Foglalkoztatási Alap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében.
 
 (8) Ha az állami adóhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, valamint a rendelkezésére álló hozzátartozói adatokról (név, cím). Az állami adóhatóság a jegyző által megküldött hozzátartozói adatokat nyilvántartásából soron kívül törli, amennyiben az eljárás eredményeként nem állapít meg adót, költségvetési támogatást az elhunyt terhére vagy javára. Az állami adóhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
 

@@ -2,7 +2,7 @@
 
 31. § (1) Az adóbevallás az adózó azonosításához, az adóalap, a mentességek, a kedvezmények, az adó, a költségvetési támogatás alapja és összege megállapításához szükséges adatokat tartalmazza. Az adózó az önadózással megállapított adóról – ideértve a közvetett vámjogi képviselőnek az importáló helyett a saját nevében teljesített adóbevallását is, az eljárási illetékek kivételével –, továbbá költségvetési támogatásról adónként, költségvetési támogatásonként az erre a célra rendszeresített nyomtatványon adóbevallást tesz. A költségvetési támogatás előlegének, illetve gyakoribb igénybevételének igénylése nem minősül adóbevallásnak. Az adóhatóság olyan nyomtatványt is rendszeresíthet, amely alkalmas több jogcímen fennálló adókötelezettség, költségvetési támogatásigénylés bevallására, illetve az adókötelezettség bevallása mellett költségvetési támogatás igénylésére.
 
-(2) A munkáltató, a kifizető (ideértve az egyéni vállalkozónak nem minősülő magánszemély munkáltatót is), illetőleg az 52. § (4) bekezdésének l), p), r), s) és t) pontjaiban meghatározottak a rájuk vonatkozó bevallási gyakoriságtól függetlenül, havonként, a tárgyhót követő hó 12-éig elektronikus úton bevallást tesznek az adó- és/vagy társadalombiztosítási kötelezettséget eredményező, magánszemélyeknek teljesített kifizetésekkel, juttatásokkal összefüggő valamennyi adóról – kivéve a kamatjövedelem adóról –, járulékokról és/vagy az alábbi adatokról:
+(2) A munkáltató, a kifizető (ideértve az egyéni vállalkozónak nem minősülő magánszemély munkáltatót is), illetőleg az 52. § (4) bekezdésének l), p), r), s), t) és v) pontjaiban meghatározottak a rájuk vonatkozó bevallási gyakoriságtól függetlenül, havonként, a tárgyhót követő hónap 12. napjáig elektronikus úton bevallást tesznek az adó- és/vagy társadalombiztosítási kötelezettségeket eredményező, magánszemélyeknek teljesített kifizetésekkel, juttatásokkal összefüggő valamennyi adóról – kivéve a kamatjövedelem adóról –, járulékokról és/vagy az alábbi adatokról:
 
 1. a Tbj. 44. §-ának (1) bekezdése szerinti nyilvántartásra kötelezett adatairól (neve, székhelye, adóazonosító száma),
 
@@ -70,7 +70,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 28. a felszolgálási díj után fizetett nyugdíjjárulék alapjáról és összegéről,
 
-29. a magánnyugdíjpénztári tagság tényéről,
+29. a szövetkezetekről szóló törvényben meghatározott tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapjáról és összegéről, valamint az egészségügyi szolgáltatási járulékról,
 
 30. a szociális hozzájárulási adó alapjáról és összegéről,
 
