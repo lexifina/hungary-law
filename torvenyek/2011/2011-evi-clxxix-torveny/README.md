@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-179-00-00
 | 2012-12-01 | 2012. évi CLXXXII. törvény | 2011-179-00-00.15 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2011-179-00-00.16 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2011-179-00-00.17 |
+| 2013-05-03 | 2013. évi XXXVI. törvény | 2011-179-00-00.18 |
