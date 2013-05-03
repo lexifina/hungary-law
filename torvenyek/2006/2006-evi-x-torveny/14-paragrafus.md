@@ -41,3 +41,15 @@ q) a befektető tagra vonatkozó szabályokat;
 r) a szövetkezet és a tag gazdasági együttműködésére vonatkozó feltételeket;
 
 s) mindazt, amit e törvény kötelezően előír.
+
+(3) Az 56. § (2a) bekezdésében meghatározott jogviszony esetében a szociális szövetkezet alapszabályának tartalmaznia kell továbbá:
+
+a) a tag által teljesítendő munkafeladatok meghatározását, az elvégzett munkafeladatok dokumentálásának módját,
+
+b) a munkafeladat teljesítéséhez igazodóan a szövetkezet által megtermelt javakból történő részesedés módjának és mértékének (ellenértékének) meghatározását.
+
+(4) A (3) bekezdés b) pontja szerinti ellenértéket úgy kell meghatározni, hogy
+
+a) az alkalmas legyen a tag teljesítményének figyelembevételére és
+
+b) a megtermelt javakból való részesedés mértékének meghatározására.

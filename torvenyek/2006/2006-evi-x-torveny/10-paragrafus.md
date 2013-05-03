@@ -14,7 +14,7 @@
 
 (5) Iskolaszövetkezet alapításához az oktatási intézmény alapító tagsága szükséges.
 
-(5a) Szociális szövetkezetnek (az iskolaszövetkezetet ide nem értve) a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat) is lehet a tagja.
+(5a) A szociális szövetkezetnek (az iskolaszövetkezetet ide nem értve) a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat), továbbá jogszabályban meghatározott karitatív tevékenységet ellátó közhasznú jogállású szervezet is lehet a tagja.
 
 (6) Természetes személyként szövetkezeti tag az lehet, aki
 

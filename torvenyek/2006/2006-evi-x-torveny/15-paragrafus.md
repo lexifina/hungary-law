@@ -4,6 +4,8 @@
 
 (2) A tagok a részjegytőke alapszabályban meghatározott mértékét, de legalább harminc százalékát az alapítást követő 8 napon belül kötelesek befizetni, illetőleg a nem pénzbeli hozzájárulás teljes egészét szolgáltatni kell. A szövetkezetet csak a befizetési (szolgáltatási) kötelezettség teljesítését követően szabad bejegyezni. Aki e kötelezettségét határidőben nem teljesíti, nem válik a szövetkezet tagjává. A cégbejegyzés során e személyt figyelmen kívül kell hagyni.
 
+(2a) Ha a szociális szövetkezet alapítói között az 56. § (2a) szerinti jogviszonyt létesítő olyan személyek is vannak, akik a vagyoni hozzájárulásukat az 50/A. § szerint teljesítik, a (2) bekezdés alkalmazása során e személyek vagyoni hozzájárulását a részjegytőke számítása és a vagyoni hozzájárulás teljesítésének határideje vonatkozásában figyelmen kívül kell hagyni.
+
 (3) A szövetkezet – külön törvényben foglalt feltételek szerint – a cégnyilvántartásba történő bejegyzéssel jön létre.
 
 (4) Ha a bíróság a szövetkezet bejegyzési kérelmét jogerősen elutasítja, a szövetkezet köteles a gazdasági tevékenységét megszüntetni. A tagok a szövetkezet jogutód nélküli megszűnésére irányadó szabályok szerint kötelesek helytállni.
