@@ -2,7 +2,7 @@
 
 26. § (1) Az NFA képzési alaprésze központi keretének felnőttképzési célra fordítható része – külön jogszabályban meghatározottak szerint – felhasználható
 
-a) az e törvény hatálya alá tartozó képzések támogatására,
+a) az e törvény hatálya alá tartozó, valamint a 3. § (5) bekezdés szerinti képzések és vizsgáztatás támogatására,
 
 b) a felnőttképzést folytató akkreditált intézmények technikai feltételei fejlesztésének támogatására,
 

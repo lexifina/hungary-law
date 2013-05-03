@@ -1,4 +1,4 @@
-3. § (1) A törvény hatálya – a (4) bekezdésben foglalt kivételekkel – kiterjed
+3. § (1) A törvény hatálya kiterjed
 
 a) a felnőttképzésben részt vevő, illetve a felnőttképzéshez kapcsolódó szolgáltatást igénybe vevő felnőttre,
 
@@ -14,8 +14,10 @@ b) a felnőttképzéshez kapcsolódó szolgáltatás.
 
 (4) E törvény hatálya nem terjed ki a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11. §-a és 12. §-a szerint létrejött jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
 
-(5) E törvény hatálya nem terjed ki:
+(5) E törvény hatálya – a 21. § (2) bekezdésében, valamint a (7) és (8) bekezdésben és a 26. §-ban foglaltak kivételével – nem terjed ki:
 
-a) az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdésének a)–c) pontja szerinti egészségügyi ágazati képzésekre, valamint
+a) az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdésének a)–c) pontja szerinti egészségügyi ágazati képzésekre,
 
-b) a közszolgálati tisztviselőkről szóló törvény alapján szervezett képzésre, továbbképzésre, átképzésre.
+b) a közszolgálati tisztviselőkről szóló törvény alapján szervezett képzésre, továbbképzésre, átképzésre, valamint
+
+c) az Sztv. alapján szervezett mesterképzésre és vizsgáztatásra.
