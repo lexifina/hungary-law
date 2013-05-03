@@ -1,6 +1,5 @@
-## 18. §[^3] E rendeletnek az egyes borászati termékek harmadik országokban történő promóciójának támogatásáról szóló 6/2013. (II. 5.) VM rendelet (a továbbiakban: 6/2013. (II. 5.) VM rendelet) által megállapított 6. § (2) bekezdését és a 8. § (5) bekezdését a 6/2013. (II. 5.) VM rendelet hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+## 19. §[^8] E rendeletnek az egyes iskolai ellátást, valamint a zöldség-gyümölcs ágazat támogatási jogcímeit szabályozó rendeletek módosításáról szóló 31/2013. (V. 2.) VM rendelettel (a továbbiakban: módosító rendelet) módosított 8. § (1) bekezdését, 9. § (3) bekezdését, valamint a módosító rendelettel megállapított 10. § (5) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 141/2012. (XII. 27.) VM rendelethez
 
-[^3]: A 18. §-t a 6/2013. (II. 5.) VM rendelet 15. § (3) bekezdése iktatta be.
-[^4]: A hatálybalépés időpontja 2013. február 6.
+[^8]: A 19. §-t a 31/2013. (V. 2.) VM rendelet 26. §-a iktatta be.
