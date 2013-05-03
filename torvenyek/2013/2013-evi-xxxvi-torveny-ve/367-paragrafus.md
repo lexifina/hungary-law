@@ -13,11 +13,3 @@ c) a helyi önkormányzati képviselők és polgármesterek választásáról sz
 d) a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 57. §-a, 98. § (1) bekezdésének második mondata, valamint (2) bekezdése,
 
 e) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX törvény 55. § (1) bekezdésének második és harmadik mondata.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
