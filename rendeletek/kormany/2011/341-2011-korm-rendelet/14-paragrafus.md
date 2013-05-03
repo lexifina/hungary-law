@@ -22,16 +22,16 @@ j) az oltalmazott jogállást az azt tanúsító személyazonosító igazolvánn
 
 k) a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
 
-l)[^69] az 5. § (1) bekezdés b) pontja szerinti feltétel teljesülését a jogerős építési engedély és a jogerős használatbavételi engedély bemutatásával,
+l)[^75] az 5. § (1) bekezdés b) pontja szerinti feltétel teljesülését a jogerős építési engedély és a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatásával,
 
-m)[^70] a 4. § (1) bekezdés f) pont fa) alpontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 4. § (1) bekezdés f) pont fb) alpontja második fordulatában foglaltakat nemleges együttes adóigazolással,
+m)[^76] a 4. § (1) bekezdés f) pont fa) alpontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 4. § (1) bekezdés f) pont fb) alpontja második fordulatában foglaltakat nemleges együttes adóigazolással,
 
-n)[^71] a 4. § (1) bekezdés h) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával.
+n)[^77] a 4. § (1) bekezdés h) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával.
 
 (2) Házaspárok esetében, ha a házastársak egyike magyar állampolgár az (1) bekezdés f)–k) pontjában foglaltak igazolására nincs szükség.
 
 (3) Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott az otthonteremtési kamattámogatáshoz, akkor a folyósított összeget az igénybevétel napjától, a Ptk. 301. § (1) bekezdése szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni.
 
-[^69]: A 14. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^70]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
-[^71]: A 14. § (1) bekezdés n) pontját a 379/2012. (XII. 19.) Korm. rendelet 39. § (2) bekezdése iktatta be.
+[^75]: A 14. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 128/2013. (IV. 30.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.
+[^76]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
+[^77]: A 14. § (1) bekezdés n) pontját a 379/2012. (XII. 19.) Korm. rendelet 39. § (2) bekezdése iktatta be.

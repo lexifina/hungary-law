@@ -46,9 +46,9 @@ b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozat
 
 c) a 16. életévét már betöltötte, de megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
 
-5. használt lakás: a használatbavételi engedéllyel rendelkező, ténylegesen használatba vett, újnak nem minősülő lakás;
+5.[^4] használt lakás: a használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező, ténylegesen használatba vett, újnak nem minősülő lakás;
 
-6.[^4] hátralékos adós: az a természetes személy, aki hitelintézettől lakóingatlan fedezettel biztosított jelzáloghitelt vett fel, amelynek visszafizetésével e rendeletben meghatározott mértékű késedelemben van és
+6.[^5] hátralékos adós: az a természetes személy, aki hitelintézettől lakóingatlan fedezettel biztosított jelzáloghitelt vett fel, amelynek visszafizetésével e rendeletben meghatározott mértékű késedelemben van és
 
 a) e rendelet hatálybalépésének időpontjában a fedezetül szolgáló lakóingatlanban legalább 50 százalék tulajdoni hányaddal és legalább 6 hónapja bejelentett lakóhellyel rendelkezett, és
 
@@ -56,9 +56,9 @@ b) másik lakóingatlanban nem rendelkezik tulajdoni hányaddal sem ő, sem a ve
 
 7. hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvényben foglaltaknak megfelelően, illetve a biztosító a biztosítókról és a biztosítási tevékenységről szóló törvényben foglaltaknak megfelelően;
 
-8.[^5] késedelmes jelzáloghitel: a fel nem mondott és e rendelet hatálybalépésének időpontjában törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege – devizahitel vagy deviza alapú hitel esetében annak a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított ellenértéke – az e rendelet hatálybalépésének napján érvényes minimálbér közterhekkel csökkentett (nettó) összegét meghaladja;
+8.[^6] késedelmes jelzáloghitel: a fel nem mondott és e rendelet hatálybalépésének időpontjában törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege – devizahitel vagy deviza alapú hitel esetében annak a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított ellenértéke – az e rendelet hatálybalépésének napján érvényes minimálbér közterhekkel csökkentett (nettó) összegét meghaladja;
 
-9.[^6] késedelmes deviza jelzáloghitel: a fel nem mondott és 2011. szeptember 30-án 90 napot meghaladó törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege a 2011. szeptember 30-án érvényes minimálbér összegét eléri;
+9.[^7] késedelmes deviza jelzáloghitel: a fel nem mondott és 2011. szeptember 30-án 90 napot meghaladó törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege a 2011. szeptember 30-án érvényes minimálbér összegét eléri;
 
 10. komfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 3. pontjában meghatározott lakás;
 
@@ -76,7 +76,7 @@ e) a tető cseréje, felújítása, szigetelése,
 
 valamint az ezekhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20 százalékáig;
 
-12.[^7] lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
+12.[^8] lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
 
 a) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel,
 
@@ -90,7 +90,11 @@ b) aki legalább 50 százalékos mértékű egészségkárosodást szenvedett, v
 
 c) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50 százalékos mértéket;
 
-14. támogatott személy: aki az e rendelet szerinti személyi és egyéb feltételeknek megfelel és ezek alapján a hitelintézettel az otthonteremtési kamattámogatás nyújtására szerződést köt;
+14.[^9] támogatott személy: aki
+
+a) az e rendelet szerinti személyi és egyéb feltételeknek megfelel, és ezek alapján a hitelintézettel az otthonteremtési kamattámogatás nyújtására szerződést köt, vagy
+
+b) a támogatást igénylő házastársa vagy bejegyzett élettársa, kivéve ha a kérelem benyújtását megelőzően kötött vagyonjogi szerződés alapján a kamattámogatás igénybevételével érintett lakás a felek egyikének különvagyonába tartozik, és ezt a hitelintézet részére a vagyonjogi szerződés bemutatásával igazolják;
 
 15. új lakás: a meglévő épület, épületrész vagy építmény átalakítása kivételével
 
@@ -104,20 +108,22 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 16. ügyleti kamat: a kamattámogatott kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás;
 
-17.[^8] bővítés: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül – ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is – a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység;
+17.[^10] bővítés: – a meglévő épület, épületrész vagy építmény átalakítása kivételével – az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül – ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is – a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység;
 
-18.[^9] hasznos alapterület: az OTÉK fogalom-meghatározásának keretein belül a lakás fűthető helyiségei alapterületének összege;
+18.[^11] hasznos alapterület: az OTÉK fogalom-meghatározásának keretein belül a lakás fűthető helyiségei alapterületének összege;
 
-19.[^10] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
+19.[^12] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 [^2]: Az 1. § (1) bekezdés 2. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
 [^3]: Az 1. § (1) bekezdés 3. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba, szövege a 71/2012. (IV. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés 6. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^5]: Az 1. § (1) bekezdés 8. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^6]: Az 1. § (1) bekezdés 9. pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
-[^7]: Az 1. § (1) bekezdés 12. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^8]: Az 1. § (1) bekezdés 17. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be.
-[^9]: Az 1. § (1) bekezdés 18. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
-[^10]: Az 1. § (1) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
+[^4]: Az 1. § (1) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés 6. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^6]: Az 1. § (1) bekezdés 8. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^7]: Az 1. § (1) bekezdés 9. pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (1) bekezdés 12. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^9]: Az 1. § (1) bekezdés 14. pontja a 128/2013. (IV. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^10]: Az 1. § (1) bekezdés 17. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. § (1) bekezdés 18. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
+[^12]: Az 1. § (1) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.

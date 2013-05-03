@@ -1,4 +1,4 @@
-## 5. [^55] A hátralékos hiteladós által kisebb lakás vásárlásához igénybe vehető kamattámogatás
+## 5. [^60] A hátralékos hiteladós által kisebb lakás vásárlásához igénybe vehető kamattámogatás
 
 8. § Otthonteremtési kamattámogatást vehet igénybe a hátralékos adós legalább komfortos lakás vásárlásához, az alábbi feltételek fennállása esetén:
 
@@ -14,4 +14,4 @@ cb) hasznos alapterülete kisebb a késedelmes jelzáloghitellel terhelt lakóin
 
 cc) energetikai tanúsítvánnyal igazolt energetikai minősítési osztálya a késedelmes jelzáloghitellel terhelt lakóingatlanéval azonos vagy kedvezőbb.
 
-[^55]: Az 5. alcím (a 8. §) a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^60]: Az 5. alcím (a 8. §) a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.

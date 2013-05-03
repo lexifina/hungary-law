@@ -1,14 +1,14 @@
 ## 7. Az otthonteremtési kamattámogatás mértéke
 
-10. § (1)[^60] A szerződésszerű teljesítés esetén – a 3. § (3) bekezdése szerinti időszakban – a hitelintézet kizárólag olyan ügyleti kamatot számít fel, amely legalább egy éves időszakra vonatkozóan állandó. A kölcsön törlesztése során felszámított ügyleti kamat éves mértéke – a 3. § (3) bekezdése szerinti időszakban – nem haladja meg:
+10. § (1)[^65] A szerződésszerű teljesítés esetén – a 3. § (3) bekezdése szerinti időszakban – a hitelintézet kizárólag olyan ügyleti kamatot számít fel, amely legalább egy éves időszakra vonatkozóan állandó. A kölcsön törlesztése során felszámított ügyleti kamat éves mértéke – a 3. § (3) bekezdése szerinti időszakban – nem haladja meg:
 
-a)[^61] az egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
+a)[^66] az egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
 
-b)[^62] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
+b)[^67] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
 
-c)[^63] az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét, amennyiben az érintett futamidőre az a) és b) pontban meghatározott módszer alapján átlaghozam nem számítható.
+c)[^68] az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét, amennyiben az érintett futamidőre az a) és b) pontban meghatározott módszer alapján átlaghozam nem számítható.
 
-(2)[^64] Az otthonteremtési kamattámogatás mértéke az (1) bekezdés szerint számított állampapírhozamnak, vagy referenciahozamnak
+(2)[^69] Az otthonteremtési kamattámogatás mértéke az (1) bekezdés szerint számított állampapírhozamnak, vagy referenciahozamnak
 
 a) a 3. § (1) bekezdés a) pontja szerinti otthonteremtési kamattámogatás esetén legfeljebb két gyermek esetén 60 százaléka, kettőnél több gyermek esetén 70 százaléka,
 
@@ -22,7 +22,7 @@ b) gyámsága alatt álló, legalább egy éve vele együttélő és általa elt
 
 gyermeke vehető figyelembe.
 
-(4)[^65] A (2) bekezdés c) pontja szerinti otthonteremtési kamattámogatás mértéke a fennálló, még esedékessé nem vált tőketartozás legfeljebb évi 3,5 százaléka.
+(4)[^70] A 3. § (1) bekezdés c) pontja szerinti otthonteremtési kamattámogatás esetén a kamattámogatás (2) bekezdés b) pontja szerinti mértéke a fennálló, még esedékessé nem vált tőketartozás legfeljebb évi 3,5 százaléka.
 
 (5) Az (1) bekezdésben meghatározott kamatmértéket a kölcsön kamatainak szerződésben rögzített kamatperiódus fordulónapján kell alkalmazni.
 
@@ -36,9 +36,9 @@ gyermeke vehető figyelembe.
 
 (10) Az otthonteremtési kamattámogatással érintett kölcsönök kamattámogatásának számításánál az osztószám 360 nap.
 
-[^60]: A 10. § (1) bekezdés nyitó szövegrésze a 160/2012. (VII. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^61]: A 10. § (1) bekezdés a) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^62]: A 10. § (1) bekezdés b) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^63]: A 10. § (1) bekezdés c) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^64]: A 10. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^65]: A 10. § (4) bekezdése a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^65]: A 10. § (1) bekezdés nyitó szövegrésze a 160/2012. (VII. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^66]: A 10. § (1) bekezdés a) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^67]: A 10. § (1) bekezdés b) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^68]: A 10. § (1) bekezdés c) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^69]: A 10. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^70]: A 10. § (4) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.

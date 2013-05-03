@@ -4,11 +4,11 @@
 
 (2) A hitelintézet átadja az igénylőnek a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium elektronikus úton – legkésőbb a 15. § (2) bekezdése szerinti szerződés megkötésével egyidejűleg – megküldött tájékoztatóját a hatályos lakástámogatások feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
 
-(3)[^66] Az otthonteremtési kamattámogatásra való jogosultság megállapítását és mértékének meghatározását
+(3)[^71] Az otthonteremtési kamattámogatásra való jogosultság megállapítását és mértékének meghatározását
 
-a)[^67] lakásvásárlás esetén a lakásra, lakóingatlanra vonatkozó adásvételi szerződés megkötését követő 120 napon belül,
+a)[^72] lakásvásárlás esetén a lakásra, lakóingatlanra vonatkozó adásvételi szerződés megkötését követő 120 napon belül,
 
-b) lakásépítés esetén a használatbavételi engedély kiadása előtt, vagy
+b)[^73] lakásépítés esetén a használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele előtt, vagy
 
 c) bővítés, korszerűsítés esetén a munkálatok megkezdése előtt
 
@@ -22,5 +22,6 @@ kell kérni a hitelintézettől.
 
 (7) Az otthonteremtési kamattámogatásra való jogosultságot a kérelem benyújtásakor fennálló körülmények alapján kell megállapítani.
 
-[^66]: A 12. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^67]: A 12. § (3) bekezdés a) pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § j) pontja szerint módosított szöveg.
+[^71]: A 12. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^72]: A 12. § (3) bekezdés a) pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § j) pontja szerint módosított szöveg.
+[^73]: A 12. § (3) bekezdés b) pontja a 128/2013. (IV. 30.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
