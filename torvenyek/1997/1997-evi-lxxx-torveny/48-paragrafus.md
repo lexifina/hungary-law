@@ -1,1 +1,1 @@
-Tbj. 48. §
+Tbj. 48. § A szociális szövetkezet a tagi munkavégzési jogviszonyban álló tagja részére a tárgyévet követő év január 31-éig igazolást ad ki a jogviszony időtartamáról, a nyugdíjjárulék alapjáról és összegéről, valamint az egészségügyi szolgáltatási járulékról és az abból érvényesített kedvezményről. A jogviszony év közben történő megszűnése esetén az igazolást soron kívül kell kiadni.

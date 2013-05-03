@@ -20,6 +20,14 @@ g) a rehabilitációs ellátásban, rokkantsági ellátásban részesülők eset
 
 a jogosultság kezdetét és megszűnését követő 10 napon belül köteles teljesíteni az egészségbiztosítási szervnek.
 
+(3a) A szociális szövetkezet a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagja
+
+a) jogviszonyának kezdetét legkésőbb a jogviszony első napján, a munkavégzés megkezdése előtt,
+
+b) jogviszonyának megszűnését, szünetelésének kezdetét és befejezését 8 napon belül
+
+jelenti be az egészségbiztosítási szervnek.
+
 (4) A nyugdíj-biztosítási ellátásban (ideértve a saját jogú és a hozzátartozói nyugellátásban részesülőket), rehabilitációs járadékban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátásban, mezőgazdasági járadékban (öregségi, munkaképtelenségi, özvegyi járadékban, növelt összegű öregségi, munkaképtelenségi, özvegyi járadékban), , bányászati keresetkiegészítésben, rokkantsági járadékban, baleseti járadékban, polgármesterek közszolgálati járadékában, házastársi pótlékban, házastársi jövedelempótlékban részesülő személyekről, továbbá nemzeti gondozási díjban, pótlékban részesülők esetén, a hadigondozotti pénzellátás esetén a nyugdíjfolyósító szerv legkésőbb az ellátás folyósításának megkezdését, illetve megszüntetését követő napon bejelentést tesz az egészségbiztosítási szervnek. A nyugdíjfolyósító szerv bejelentési kötelezettségének teljesítésére a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt az egészségbiztosítási szervvel.
 
 (5) A 16. § (1) bekezdésének j) pontjában meghatározott személy az egészségügyi szolgáltatásának biztosítására bejelentést tesz az egészségbiztosítási szervnek, ezzel egyidejűleg az orvosszakértői szerv, a rehabilitációs szakértői szerv vagy a rehabilitációs hatóság szakvéleményével, szakhatósági állásfoglalásával igazolja, hogy munkaképessége csökkenésének mértéke az 50 százalékot, illetve az egészségkárosodásának mértéke a 40 százalékot eléri.

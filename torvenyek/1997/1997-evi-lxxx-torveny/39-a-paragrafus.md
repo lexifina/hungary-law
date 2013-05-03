@@ -1,3 +1,3 @@
-Tbj. 39/A. § (1) A 39. § (2) bekezdésében meghatározott járulékfizetési kötelezettség az egészségügyi szolgáltatásra való jogosultság megszűnését követő naptól a biztosítási kötelezettséggel járó jogviszony első napjáig, illetőleg a 16. § (1) bekezdésének a)–p) és s)–v) pontja meghatározott jogosultsági feltételek bekövetkezésének napjáig áll fenn.
+Tbj. 39/A. § (1) A 39. § (2) bekezdésében meghatározott járulékfizetési kötelezettség az egészségügyi szolgáltatásra való jogosultság megszűnését követő naptól a biztosítási kötelezettséggel járó jogviszony első napjáig, illetőleg a 16. § (1) bekezdésének a)–p) és s)–w) pontja meghatározott jogosultsági feltételek bekövetkezésének napjáig áll fenn.
 
 (2) Ha a biztosítási kötelezettség megállapítására utólag kerül sor, a biztosítási jogviszony fennállásának időtartama alatt a 39. § alapján megfizetett járulékot a foglalkoztató által kiállított igazolás benyújtása mellett vissza lehet igényelni az állami adóhatóságtól.
