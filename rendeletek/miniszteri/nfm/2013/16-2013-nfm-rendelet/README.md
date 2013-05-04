@@ -1,0 +1,9 @@
+# 16/2013. (IV. 19.) NFM rendelet
+
+a bányaüzem felelős műszaki vezetőjének kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-16-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-05-04 | 2013-16-20-2W.1 | 16/2013. (IV. 19.) NFM rendelet |
