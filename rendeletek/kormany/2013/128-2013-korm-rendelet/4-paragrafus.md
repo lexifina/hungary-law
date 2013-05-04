@@ -1,1 +1,0 @@
-## „(5a) Az (5) bekezdés d) pontja szerinti esetben az igénylő házaspár a kérelem benyújtásával egyidejűleg teljes bizonyító erejű magánokiratba foglalt nyilatkozatban vállalja, hogy a megelőlegezés időtartamából hátralévő időszak alatt születő első gyermeke után az 5. § (7) bekezdése szerinti később született gyermek után járó kedvezményt nem veszi igénybe.”
