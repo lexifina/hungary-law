@@ -1,3 +1,5 @@
+## 8. §[^1]
+
 1. melléklet a 14/2013. (V. 2.) BM rendelethez
 
 A közúti hatósági ellenőrzés alóli mentesítő igazolvány felépítése, megjelenítése a következő:
@@ -31,3 +33,5 @@ A közúti hatósági ellenőrzés alóli mentesítő igazolvány felépítése,
 2.2.3. „IGAZOLVÁNY” felirat,
 
 2.2.4. „A belügyminiszter irányítása alá tartozó rendvédelmi szervek közúti járművei forgalomba helyezésének és időszakos vizsgálatának egyes szabályairól szóló 14/2013. (V. 2.) BM rendelet 2. § (6) bekezdése alapján.” felirat.
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
