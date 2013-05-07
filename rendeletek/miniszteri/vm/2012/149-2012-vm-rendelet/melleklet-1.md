@@ -1,4 +1,4 @@
-## 3. §[^1] E rendelet 1. mellékletének az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 28/2013. (IV. 30.) VM rendelettel (a továbbiakban: Mr1. rendelet) megállapított 10. pont 10.1. és 10.2. alpontját a 2013. május 2-án folyamatban lévő eljárásokban is alkalmazni kell.
+## 4. §[^2] E rendelet 1. mellékletének az Mr1. rendelettel megállapított 18. pont 18.3. és 18.4. alpontját a 2013. május 7-én folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 149/2012. (XII. 28.) VM rendelethez
 
@@ -2772,7 +2772,7 @@ Tetétlen
 
 (székhelye: Eger)
 
-10.1.[^2] Egri Járási Hivatal Járási Földhivatala (székhelye: Eger)
+10.1.[^3] Egri Járási Hivatal Járási Földhivatala (székhelye: Eger)
 
 Andornaktálya
 
@@ -2874,7 +2874,7 @@ Váraszó
 
 Verpelét
 
-10.2.[^3] Füzesabonyi Járási Hivatal Járási Földhivatala (székhelye: Füzesabony)
+10.2.[^4] Füzesabonyi Járási Hivatal Járási Földhivatala (székhelye: Füzesabony)
 
 Aldebrő
 
@@ -5438,7 +5438,7 @@ Velemér
 
 Viszák
 
-18.3. Sárvári Járási Hivatal Járási Földhivatala (székhelye: Sárvár)
+18.3.[^5] Sárvári Járási Hivatal Járási Földhivatala (székhelye: Sárvár)
 
 Bejcgyertyános
 
@@ -5464,15 +5464,11 @@ Hosszúpereszteg
 
 Ikervár
 
-Iklanberény
-
 Jákfa
 
 Káld
 
 Kenéz
-
-Lócs
 
 Megyehíd
 
@@ -5528,7 +5524,7 @@ Vásárosmiske
 
 Zsédeny
 
-18.4. Szombathelyi Járási Hivatal Járási Földhivatala (székhelye: Szombathely)
+18.4.[^6] Szombathelyi Járási Hivatal Járási Földhivatala (székhelye: Szombathely)
 
 Acsád
 
@@ -5562,6 +5558,8 @@ Horvátlövő
 
 Horvátzsidány
 
+Iklanberény
+
 Ják
 
 Kisunyom
@@ -5575,6 +5573,8 @@ Kőszegdoroszló
 Kőszegpaty
 
 Kőszegszerdahely
+
+Lócs
 
 Lukácsháza
 
@@ -6676,6 +6676,8 @@ Zalaszentlászló
 
 Zalavég
 
-[^1]: A 3. §-t a 28/2013. (IV. 30.) VM rendelet 8. §-a iktatta be.
-[^2]: Az 1. melléklet 10. pont 10.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^3]: Az 1. melléklet 10. pont 10.2. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^2]: A 4. §-t a 28/2013. (IV. 30.) VM rendelet 9. §-a iktatta be.
+[^3]: Az 1. melléklet 10. pont 10.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 10. pont 10.2. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 18. pont 18.3. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 18. pont 18.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
