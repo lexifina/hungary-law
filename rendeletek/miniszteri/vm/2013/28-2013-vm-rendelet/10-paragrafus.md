@@ -1,3 +1,3 @@
-## 9. §[^5]
+## 9. § A 149/2012. (XII. 28.) VM rendelet a következő 4. §-sal egészül ki:
 
-[^5]: A 9. § a 12. § (2) bekezdése alapján 2013. május 7-én lép hatályba.
+## „4. § E rendelet 1. mellékletének az Mr1. rendelettel megállapított 18. pont 18.3. és 18.4. alpontját a 2013. május 7-én folyamatban lévő eljárásokban is alkalmazni kell.”
