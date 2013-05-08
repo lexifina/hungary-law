@@ -8,6 +8,9 @@
 
 (4) Képzésre az vehető fel, aki a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben (a továbbiakban: képzési rendelet) meghatározott feltételeknek megfelel.
 
-(5) A (4) bekezdésben foglaltakon túlmenően a gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló tanfolyamra az vehető fel, aki a Kt. szerinti alapfokú iskolai végzettséget megszerezte. Az alapfokú iskolai végzettség meglétét a képzési rendeletben meghatározott módon kell igazolni.
+(5)[^14] A (4) bekezdésben foglaltakon túlmenően a gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló tanfolyamra az vehető fel, aki a Kt. szerinti alapfokú iskolai végzettsége meglétéről a képzési rendeletben meghatározott módon nyilatkozik.
 
-(6) Az engedéllyel rendelkező, névjegyzékben szereplő szakoktatók részére a közlekedési hatóság igazolványt állít ki.
+(6)[^15] Az engedéllyel rendelkező, névjegyzékben szereplő szakoktatók részére a közlekedési hatóság igazolványt állít ki. Az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén a közlekedési hatóság kérelemre új igazolványt állít ki.
+
+[^14]: A 4. § (5) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: A 4. § (6) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
