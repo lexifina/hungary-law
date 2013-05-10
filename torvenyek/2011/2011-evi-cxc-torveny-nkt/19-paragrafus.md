@@ -20,14 +20,16 @@ g) tanulótájékoztató, -tanácsadó szolgálat.
 
 (3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett
 
-a) az állami köznevelési közfeladat-ellátás keretében, továbbá
+a) az állami köznevelési közfeladat-ellátás keretében,
 
-b) az egyházi vagy más nem állami, nem önkormányzati nevelési-oktatási intézményfenntartók által fenntartott pedagógiai intézetben
+b) az egyházi vagy más nem állami, nem települési önkormányzati nevelési-oktatási intézményfenntartók által fenntartott pedagógiai intézetben, továbbá
+
+c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdálkodó szervezet vagy költségvetési szerv által
 
 nyújtható.
 
 (4) A pedagógiai-szakmai szolgáltatások az oktatásért felelős miniszter szakmai irányítása mellett láthatók el. Az oktatásért felelős miniszter által kijelölt intézmény szervezi a nemzetiségi óvodai nevelést, iskolai nevelés-oktatást, kollégiumi nevelést segítő pedagógiai-szakmai szolgáltatásokat, továbbá azokat, amelyek helyi szinten nem szervezhetők meg hatékonyan vagy az ágazati irányítás feladatait segítik.
 
-(5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézmény nyújtja. Az állami fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézménytől veszi igénybe.
+(5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézmény nyújtja. Az állami fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat az oktatásért felelős miniszter által kijelölt intézménytől veszi igénybe, amely a pedagógiai-szakmai szolgáltatási feladatok ellátásába bevonhatja a (3) bekezdés c) pontjában meghatározott jogi személyeket.
 
 (6) A pedagógiai-szakmai szolgáltatás ellátásának részletes szabályait az oktatásért felelős miniszter rendeletben állapítja meg.

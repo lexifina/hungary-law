@@ -4,7 +4,7 @@
 
 (3) A tanuló az iskola igazgatójának engedélyével az iskola két vagy több évfolyamára megállapított tanulmányi követelményeket egy tanévben vagy az előírtnál rövidebb idő alatt is teljesítheti.
 
-(4) A tanuló az egyes évfolyamok, továbbá az érettségi vizsga, a szakmai vizsga, a művészeti alapvizsga és a művészeti záróvizsga tanulmányi követelményeinek teljesítéséről bizonyítványt kap. A bizonyítvány tartalmazza az általa tanúsított végzettségnek, szakképzettségnek a Magyar Képesítési Keretrendszer, valamint az Európai Képesítési Keretrendszer szerinti besorolását az erről szóló kormányrendelet alapján. A bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló irat közokirat.
+(4) A tanuló az egyes évfolyamok, továbbá az érettségi vizsga, a szakmai vizsga, a művészeti alapvizsga és a művészeti záróvizsga tanulmányi követelményeinek teljesítéséről bizonyítványt kap. A bizonyítvány tartalmazza az általa tanúsított végzettségnek, szakképesítésnek a Magyar Képesítési Keretrendszer, valamint az Európai Képesítési Keretrendszer szerinti besorolását az erről szóló kormányrendelet alapján. A bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló irat közokirat.
 
 (5) Az iskolában csak olyan bizonyítványnyomtatvány, valamint bizonyítvány kiállításához szükséges nyomtatvány alkalmazható, amelyet az oktatásért felelős miniszter, szakképesítést tanúsító bizonyítvány esetén a szakképzésért és felnőttképzésért felelős miniszter jóváhagyott. A bizonyítványnyomtatvány és a bizonyítvány kiállításának alapjául szolgáló nyomtatvány előállításához, forgalmazásához az oktatásért felelős miniszter, szakképesítést tanúsító bizonyítvány esetén a szakképzésért és felnőttképzésért felelős miniszter engedélye szükséges.
 

@@ -14,4 +14,4 @@
 
 (6a) A (4) és (5) bekezdésben meghatározott működtetés egyedi feltételeit az állami intézményfenntartó központtal kötött, a köznevelési intézmény által ellátott feladatokhoz igazodó szerződésben kell megállapítani.
 
-(7) A nemzetiségi önkormányzat a nemzetiség által lakott településen a nemzetiséghez tartozók óvodai nevelésére és általános iskolai nevelés-oktatására létrehozott intézmény fenntartói jogát köznevelési szerződéssel átveheti a települési önkormányzattól, az államtól.
+(7) A nemzetiségi önkormányzat a nemzetiség által lakott településen a nemzetiséghez tartozók óvodai nevelésére és iskolai nevelés-oktatására létrehozott intézmény fenntartói jogát köznevelési szerződéssel átveheti a települési önkormányzattól, az államtól.

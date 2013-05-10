@@ -29,3 +29,5 @@ a) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra viss
 b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos, vagy súlyos rendellenessége
 
 alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de legkésőbb 2015. szeptember 1-ig az egyéb pszichés fejlődési zavart (súlyos tanulási, figyelem- vagy magatartásszabályozási zavart) is érteni kell.
+
+(10) A megyei intézményfenntartó központ fenntartásában lévő köznevelési intézménynek az állami intézményfenntartó központba beolvadással történő megszűnésekor a 84. § (3) bekezdése szerinti tilalmat, a 83. § (4)–(6) bekezdésében és 84. § (7) bekezdésében meghatározott eljárási szabályokat nem kell alkalmazni.

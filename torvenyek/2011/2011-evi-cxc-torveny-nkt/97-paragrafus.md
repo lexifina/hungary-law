@@ -24,7 +24,7 @@
 
 (13) Az e törvény hatálybalépésekor működő nyelvi előkészítő évfolyamon, továbbá – a nemzetiségi nevelés-oktatás kivételével – a két tanítási nyelvű nevelés-oktatásban a 2016/2017. tanév végéig teljesíteni kell a külön jogszabályban meghatározott feltételeket. A külön jogszabályban meghatározott feltételeket nem teljesítő intézményekben a nyelvi előkészítő évfolyam vagy a két tanítási nyelven folyó oktatás felmenő rendszerben megszűnik.
 
-(14) Az iskola 2013. március 31-ig felülvizsgálja a pedagógiai programját, annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen.
+(14) Az iskola 2013. március 31-ig felülvizsgálja a pedagógiai programját annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen. A szakképző iskola a szakmai programmal, szakképzési kerettantervvel kapcsolatos felülvizsgálatot 2013. május 20-ig végzi el.
 
 (15) A nevelési-oktatási intézmény 2013. március 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen az e törvényben és a végrehajtási rendeletben foglaltaknak.
 

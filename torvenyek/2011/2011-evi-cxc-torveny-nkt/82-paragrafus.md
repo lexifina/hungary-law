@@ -2,7 +2,7 @@
 
 82. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály köznevelési szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, köznevelési szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és
 
-a) felsőfokú végzettséggel és pedagógus szakképzettséggel, pedagógus- vagy oktatói munkakörben szerzett tíz év szakmai gyakorlattal, továbbá pedagógus-szakvizsgával rendelkezik, valamint akit pedagógus-munkakörben foglalkoztatnak, vagy a pedagógus-munkakörre szóló jogviszonya, munkaviszonya megszűnése óta tíz évnél kevesebb idő telt el, vagy
+a) felsőfokú végzettséggel és pedagógus szakképzettséggel, pedagógus- vagy oktatói munkakörben szerzett tíz év szakmai gyakorlattal, továbbá pedagógus-szakvizsgával rendelkezik, valamint akit pedagógus-munkakörben foglalkoztatnak, vagy a pedagógus-munkakörre szóló jogviszonya, munkaviszonya megszűnése óta öt évnél kevesebb idő telt el, vagy
 
 b) rendelkezik a hivatal engedélyével.
 

@@ -6,9 +6,9 @@
 
 (4) Az emelt szintű oktatás kivételével az iskolai nevelés-oktatás ötödik évfolyamán az adott tantárgy oktatására és pedagógus-munkakör betöltésére jogosít a szakkollégium elvégzését igazoló tanítói végzettség és szakképzettség.
 
-(5) Idegen nyelv oktatására – minden iskolatípusban – alkalmazható az is, aki főiskolai szintű nyelvtanári vagy idegen nyelv- és irodalom szakos tanári felsőfokú végzettséggel és szakképzettséggel rendelkezik.
+(5) Idegen nyelv, nemzetiségi nyelv oktatására – minden iskolatípus bármely évfolyamán – alkalmazható az is, aki főiskolai szintű nyelvtanári vagy idegen nyelv- és irodalom szakos tanári felsőfokú végzettséggel és szakképzettséggel rendelkezik.
 
-(6) Az általános iskola ötödik-nyolcadik évfolyamán az erkölcstan tantárgy tanítására az alkalmazható, aki a tantárgynak megfelelő szakos tanári végzettséggel és szakképzettséggel rendelkezik, vagy az iskolai nevelés oktatás ötödik-nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvan órás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az erkölcstan oktatásához szükséges elméleti és módszertani ismereteket.
+(6) Az iskolai nevelés-oktatás ötödik-nyolcadik évfolyamán az erkölcstan tantárgy tanítására az alkalmazható, aki a tantárgynak megfelelő szakos tanári végzettséggel és szakképzettséggel rendelkezik, vagy az iskolai nevelés oktatás ötödik-nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvan órás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az erkölcstan oktatásához szükséges elméleti és módszertani ismereteket.
 
 (7) Iskolai, kollégiumi könyvtárostanárnak vagy könyvtárostanítónak alkalmazható az is, aki a 3. mellékletében foglaltak szerint az iskolában, kollégiumban pedagógus-munkakör betöltésére jogosító tanítói vagy tanári végzettséggel és szakképzettséggel, továbbá iskolarendszeren kívüli oktatásban szerzett emelt szintű könyvtárosi szakképesítéssel rendelkezik.
 
@@ -31,3 +31,13 @@ d) egyetemi végzettségnek és szakképzettségnek kell elfogadni a Magyar Test
 (12) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet köteles igazolást kiállítani arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
 (13) Azokban a kollégiumokban, ahol a 2011/2012. tanítási év végéig nem döntöttek a pedagógiai felügyelői státusz bevezetéséről, a 2012/2013. tanévben a Kt. 129. § (7) bekezdése alkalmazandó a kollégiumi nevelők heti kötelező óraszámára.
+
+(14) Ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, vagy megfelelő végzettségű és szakképzettségű pedagógussal nem tudják ellátni a feladatot, az iskolában az adott tantárgy, tantárgyi modul tanítására határozatlan időre alkalmazható, valamint az adott tantárgy, tantárgyi modul vonatkozásában az érettségin vizsgáztató tanár lehet az is, aki a Nemzeti alaptantervben az adott pedagógiai szakaszban az érintett műveltségi terület, több műveltségi terület vagy tantárgyi tartalom összevonásával kialakított komplex tantárgy vagy tantárgyi modul esetében az adott komplex tantárgyba, tantárgyi modulba bevont bármely műveltségi terület, tantárgy tanítására feljogosító szakos tanári végzettséggel és szakképzettséggel rendelkezik, valamint
+
+a) a tantárgynak, tantárgyi modulnak megfelelő szakirányú továbbképzésben szerzett szakképzettséggel rendelkezik, vagy
+
+b) az a) pontban meghatározott szakirányú továbbképzés hiányában legalább százhúsz órás pedagógus-továbbképzés keretében elsajátította az adott tantárgy, tantárgyi modul oktatásához szükséges elméleti és módszertani ismereteket.
+
+(15) Szakképző iskolában tanított szakmai elméleti tantárgy esetén, ha nincs a szakképzés szakirányának megfelelő szakos hazai tanári képzés, az adott tantárgy tanítására határozatlan időre alkalmazható, valamint az érettségin, szakmai vizsgán vizsgáztató tanár lehet az is, aki a szakmai tantárgynak megfelelő szakmai területen szakirányú felsőfokú végzettséggel és bármely szakos tanári szakképzettséggel rendelkezik, továbbá, ha nincs a szakképzés szakirányának megfelelő hazai felsőfokú képzés, az is, aki bármely szakos tanári szakképzettséggel és a szakképzés szakirányának megfelelő szakirányú szakképesítéssel és mestervizsgával rendelkezik.
+
+(16) Ha az iskola megfelelő végzettségű és szakképzettségű pedagógussal nem tudja megszervezni a 27. § (11) bekezdés szerinti mindennapos testnevelést, akkor a testnevelés tantárgy tanítására határozott időre, legfeljebb a 2019/2020. tanév kezdetéig alkalmazható, aki felsőfokú végzettséggel és sportoktatói vagy sportedzői szakképzettséggel rendelkezik.

@@ -28,7 +28,7 @@ l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tev
 
 m) a közneveléssel összefüggő feladatok ellátását szolgáló képzéseket,
 
-n) az országos szaktanácsadói tevékenység keretében megszervezésre kerülő, nem tantárgyhoz, nem szakterülethez kötődő szaktanácsadói feladatokat, azok megszervezését, valamint az országos szaktanácsadói tevékenységhez kapcsolódó további szakmai követelményeket, a nem tantárgyhoz, nem szakterülethez kötődő országos szakmai szolgáltatások körét, területeit, megszervezését, az országos pedagógiai-szakmai szolgáltatásban való részvétel feltételeit, az állami köznevelési közfeladat-ellátás keretében pedagógiai-szakmai szolgáltatásokat nyújtó intézmény kijelölését,
+n) az országos szaktanácsadói tevékenység keretében megszervezett, továbbá nem tantárgyhoz, nem szakterülethez kötődő szaktanácsadói feladatokat, azok megszervezését, valamint az országos szaktanácsadói tevékenységhez kapcsolódó további szakmai követelményeket, a nem tantárgyhoz, nem szakterülethez kötődő országos pedagógiai-szakmai szolgáltatások körét, területeit, megszervezését, az országos pedagógiai-szakmai szolgáltatásban való részvétel feltételeit, az állami köznevelési közfeladat-ellátás keretében pedagógiai-szakmai szolgáltatásokat nyújtó intézmény kijelölését, a pedagógiai-szakmai szolgáltatást nyújtó és pedagógiai intézetnek nem minősülő szervezetek pedagógiai szakmai szolgáltatásokban történő közreműködéséhez szükséges engedély kiadásának feltételeit és eljárásrendjét,
 
 o) a hat vagy nyolc – nyelvi előkészítő évfolyam esetében hét vagy kilenc – évfolyammal működő gimnáziumban folyó nevelés-oktatás emelt szintű követelményeit,
 

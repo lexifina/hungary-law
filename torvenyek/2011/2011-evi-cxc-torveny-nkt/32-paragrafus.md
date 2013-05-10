@@ -16,9 +16,11 @@ g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása m
 
 h) ha az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagógus létszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel és az illetékes egyházi hatóság megbízásával kell rendelkeznie,
 
-i) a nevelési-oktatási intézmény SZMSZ-e, házirendje, valamint a nevelési-oktatási intézmény pedagógiai programja a fenntartó jóváhagyásával válik érvényessé.
+i) a nevelési-oktatási intézmény SZMSZ-e, házirendje, valamint a nevelési-oktatási intézmény pedagógiai programja a fenntartó jóváhagyásával válik érvényessé,
 
-(2) Ha az egyház a Kormánnyal a köznevelési feladatok ellátására is kiterjedő megállapodást kötött, a nevelési-oktatási intézmény székhelye szerint illetékes kormányhivatal, óvoda esetén a települési önkormányzat részére megküldött egyoldalú nyilatkozatával vállalja az állami, önkormányzati feladatellátásban való közreműködést, valamint kötelezettséget vállal a tanulók felzárkóztatására vonatkozó feladatok ellátására. Az egyoldalú nyilatkozat alapján a kormányhivatal az egyházi fenntartású intézményt felveszi a köznevelés-fejlesztési tervbe. A Magyar Katolikus Egyház az egyoldalú nyilatkozat megtételére nemzetközi szerződés alapján jogosult. Az egyoldalú nyilatkozat tételére az adott egyház belső szabályzata szerint jogi személyiséggel felruházott szervezeti egysége is jogosult.
+j) az etika tantárgy hittan tantárggyal kiváltható, amennyiben az iskola pedagógiai programja a hittan tantárgy vonatkozásában tartalmazza a Nat-ban az etikára meghatározott fejlesztési követelményeket és tartalmakat.
+
+(2) Ha az egyház a Kormánnyal a köznevelési feladatok ellátására is kiterjedő megállapodást kötött, a nevelési-oktatási intézmény székhelye szerint illetékes kormányhivatal, óvoda esetén a települési önkormányzat részére megküldött egyoldalú nyilatkozatával vállalja az állami, önkormányzati feladatellátásban való közreműködést, valamint kötelezettséget vállal a tanulók felzárkóztatására vonatkozó feladatok ellátására. Az egyoldalú nyilatkozat alapján a miniszter az egyházi fenntartású intézményt felveszi a köznevelés-fejlesztési tervbe. A Magyar Katolikus Egyház az egyoldalú nyilatkozat megtételére nemzetközi szerződés alapján jogosult. Az egyoldalú nyilatkozat tételére az adott egyház belső szabályzata szerint jogi személyiséggel felruházott szervezeti egysége is jogosult.
 
 (3) A nyilatkozatnak az alábbiakat kell tartalmaznia:
 

@@ -10,7 +10,7 @@ a) nevét,
 
 b) születési helyét, idejét,
 
-c) nemét,
+c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat megnevezését, számát,
 
 d) lakóhelyét, tartózkodási helyét,
 

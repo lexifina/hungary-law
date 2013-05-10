@@ -16,7 +16,7 @@ c) az iskola, kollégium, óvoda feladatait nem változtathatja meg.
 
 (6) A kormányhivatal engedélyezi a működési engedéllyel rendelkező intézmények fenntartói számára a székhely, telephely változását tanítási évben, nevelési évben más, előre nem látható okból is. Ha a fenntartó három éven belül másodszor kéri előre nem látható okból a székhely-, telephelyváltozás engedélyezését, a kormányhivatalnak le kell folytatnia a 34. § (2) bekezdésében szabályozott törvényességi ellenőrzést.
 
-(7) A fenntartó legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
+(7) A fenntartó, az állami intézményfenntartó központ által fenntartott intézmény esetében az oktatásért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
 
 a) a nevelési-oktatási intézmény fenntartói jogának átadásával,
 
@@ -34,18 +34,14 @@ kapcsolatban.
 
 (8) A (7) bekezdésben fel nem sorolt egyéb átszervezésre vonatkozó döntések határideje július utolsó munkanapja.
 
-(9) A települési önkormányzat, az állami fenntartó az alapító okirata szerint nemzetiségi óvodai nevelésben, iskolai nevelés-oktatásban, kollégiumi nevelésben közreműködő nevelési-oktatási intézmény, továbbá az érintett gyermekek, tanulók ellátásában közreműködő pedagógiai szakszolgálatot ellátó intézmény
+(9) A települési önkormányzat, az állami fenntartó az alapító okirata, szakmai alapdokumentuma szerint nemzetiségi óvodai nevelésben, iskolai nevelés-oktatásban, kollégiumi nevelésben közreműködő nevelési-oktatási intézmény, továbbá az érintett gyermekek, tanulók ellátásában közreműködő pedagógiai szakszolgálatot ellátó intézmény
 
-a) létesítéséhez, megszüntetéséhez, átszervezéséhez, nevének megállapításához,
+a) létesítésével, megszüntetésével, átszervezésével, nevének megállapításával,
 
-b) költségvetésének meghatározásához és módosításához,
+b) költségvetésének meghatározásával és módosításával,
 
-c) az intézményben folyó szakmai munka értékeléséhez,
+c) vezetőjének megbízásával, megbízásának visszavonásával
 
-d) SZMSZ-ének jóváhagyásához,
+összefüggő döntéséhez, véleményéhez beszerzi az érintett települési nemzetiségi önkormányzat, térségi feladatot ellátó intézmény esetében a területi nemzetiségi önkormányzat, országos feladatot ellátó köznevelési intézmény esetében az országos nemzetiségi önkormányzat egyetértését.
 
-e) pedagógiai programjának, pedagógiai-művelődési programjának jóváhagyásához és végrehajtásának értékeléséhez,
-
-f) vezetőjének megbízásával, megbízásának visszavonásával összefüggő véleményéhez
-
-beszerzi az érintett települési nemzetiségi önkormányzat, térségi feladatot ellátó intézmény esetében a területi nemzetiségi önkormányzat és országos feladatot ellátó köznevelési intézmény esetén az országos nemzetiségi önkormányzat egyetértését.
+(10) Többcélú intézmény esetén az e §-ban foglaltakat csak az érintett intézményegység vonatkozásában kell alkalmazni.

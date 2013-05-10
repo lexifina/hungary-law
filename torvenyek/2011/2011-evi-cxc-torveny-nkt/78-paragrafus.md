@@ -1,6 +1,6 @@
 78. § (1) Az oktatásért felelős miniszter köznevelés-fejlesztéssel kapcsolatos feladata
 
-a) a köznevelés hosszú és középtávú fejlesztési terveinek kidolgozása,
+a) a köznevelés stratégiájának kidolgozása,
 
 b) az országos vizsgarendszer létrehozása, működtetése, fejlesztése és korszerűsítése, ennek keretében rendkívüli intézkedés meghozatala az érettségi vizsga megszervezésével, megtartásával összefüggésben, ha az intézkedés megtétele nélkül országos szinten veszélybe kerül az érettségi vizsga jogszabályok szerinti lebonyolítása,
 

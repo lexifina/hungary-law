@@ -62,9 +62,17 @@ tartalmazza.
 
 (6a) A tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából az (5) bekezdés a)–c), f)–h), j)–m) és o) pontjában foglalt adatok a rendőrség részére továbbíthatók.
 
+(6b) Az (5) bekezdés a), c), e)–h), m)–o) pontjában foglalt adatok
+
+a) az óvodai nevelésben részvételre kötelezett gyermek esetében a jegyző részére, abból a célból, hogy gondoskodjon az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, továbbá
+
+b) a tanköteles gyermek, tanuló esetében a járási hivatal részére, abból a célból, hogy gondoskodjon a tankötelesek nyilvántartásáról,
+
+továbbíthatók.
+
 (7) A (3) bekezdés c)–f) pontja szerinti nyilvántartás (a továbbiakban: alkalmazotti nyilvántartás) tartalmazza az alkalmazott
 
-a) nevét, anyja nevét,
+a) nevét, anyja nevét, nemét, állampolgárságát,
 
 b) születési helyét és idejét,
 

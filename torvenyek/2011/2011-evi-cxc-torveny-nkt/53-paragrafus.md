@@ -49,3 +49,5 @@ e) ha a tanulót másik kollégium átvette, az átvétel napján.
 (9) A (8) bekezdés b)–c) pontjában foglaltakat nem lehet alkalmazni abban az esetben, ha a kollégiumi tagsági viszony fennállása nélkül a tanuló nem tudja teljesíteni tankötelezettségét. Abban az esetben, ha a tanuló felvételére a gyámhatóság intézkedése alapján került sor, a (8) bekezdés c) pontjában meghatározottak nem, a d) pontjában meghatározottak pedig a gyámhatóság egyetértésével alkalmazhatók. A c) pontban foglaltak a hátrányos helyzetű tanulók tekintetében nem alkalmazhatók.
 
 (10) Megszűnik az óvodai elhelyezés, a tanulói jogviszony, a kollégiumi tagsági viszony, ha a nevelési-oktatási intézmény jogutód nélkül megszűnik.
+
+(11) Kérelemre megszűnik annak a nem magyar állampolgárságú gyermeknek, tanulónak a magyarországi nevelési-oktatási intézménnyel létesített óvodai, tanulói, kollégiumi tagsági jogviszonya, aki külföldre vagy saját országába távozik.
