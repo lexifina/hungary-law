@@ -1,0 +1,1 @@
+## „(6b) A (6a) bekezdésben meghatározott, a sportpolitikáért felelős miniszter által vezetett minisztérium ellenőrző szervezet által közzétett fizetési számlájára befizetendő összeggel a támogatott szervezet nem köteles a 11. §-ban foglaltak szerint elszámolni az ellenőrző szervezet felé.”
