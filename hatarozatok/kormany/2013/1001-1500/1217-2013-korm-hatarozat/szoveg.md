@@ -16,19 +16,19 @@ Felelős: a Miniszterelnökséget vezető államtitkár, nemzetgazdasági minisz
 
 Határidő: 2013. május 31.
 
-3. döntött arról, hogy a 2014–2020 közötti programok lebonyolítását támogató intézményrendszer központi koordinációs funkcióit a jelenleg működő intézményrendszer bázisán, a Miniszterelnökség irányítása alá helyezve kell biztosítani, és felkéri a Miniszterelnökséget vezető államtitkárt és a nemzeti fejlesztési minisztert, hogy az ehhez szükséges lépéseket tegye meg;
+3.[^1] döntött arról, hogy a 2014–2020 közötti programok lebonyolítását támogató intézményrendszer központi koordinációs feladatait az erre kijelölt szervezet keretein belül kell kialakítani. Felkéri a Miniszterelnökséget vezető államtitkárt és a nemzeti fejlesztési minisztert, hogy készítsenek konkrét lépéseket azonosító részletes ütemtervet és terjesszék azt a Nemzeti Fejlesztési Kormánybizottság elé;
 
 Felelős: a Miniszterelnökséget vezető államtitkár, nemzeti fejlesztési miniszter
 
-Határidő: 2013. április 30.
+Határidő: 2013. június 30.
 
-4. felkéri a Miniszterelnökséget vezető államtitkárt, hogy a 3. pont végrehajtását követően haladéktalanul kezdje meg a 2014–2020-as időszakra vonatkozó egységes eljárásrendek és működési szabályok kidolgozását,
+4.[^2] felkéri a Miniszterelnökséget vezető államtitkárt, hogy jelen Kormányhatározat 1. pontjában foglaltakra tekintettel a 2014–2020 közötti Irányító Hatóságoknak helyt adó szakminisztériumok és a Nemzeti Fejlesztési Ügynökség bevonásával haladéktalanul kezdje meg a 2014–2020-as időszakra vonatkozó egységes eljárásrendek és működési szabályok kidolgozását,
 
 a) és azok irányelveit terjessze a Nemzeti Fejlesztési Kormánybizottság elé;
 
 Felelős: a Miniszterelnökséget vezető államtitkár
 
-Határidő: 2013. május 31.
+Határidő: 2013. július 31.
 
 b) az eljárásrendeket terjessze a Nemzeti Fejlesztési Kormánybizottság elé;
 
@@ -49,3 +49,6 @@ Határidő: 2013. április 30.
 Felelős: nemzetgazdasági miniszter, a Miniszterelnökséget vezető államtitkár
 
 Határidő: 2013. június 30.
+
+[^1]: A 3. pont az 1253/2013. (V. 10.) Korm. határozattal megállapított szöveg.
+[^2]: A 4. pont az 1253/2013. (V. 10.) Korm. határozattal megállapított szöveg.
