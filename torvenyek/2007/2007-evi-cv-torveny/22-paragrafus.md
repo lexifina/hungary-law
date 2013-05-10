@@ -1,3 +1,0 @@
-22. § Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény (a továbbiakban: NEBEK tv.) 1. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény célja az Európai Unió bűnüldözési, határellenőrzési és a külföldiek beutazásának és tartózkodásának ellenőrzését szolgáló információs rendszereivel megvalósuló adat- és információcsere szabályainak megállapítása, valamint a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL) keretében megvalósuló együttműködés megerősítése.”

@@ -1,7 +1,0 @@
-21/A. § (1) Ha a SIS-ben kezelt adatokhoz hozzáférési jogosultsággal rendelkező szerv vagy a SIS-t alkalmazó külföldi állam hatósága a SIS-ben történt lekérdezés eredményeként megállapítja, hogy az érintett személy személyazonosságával visszaéltek, bármely megyei (fővárosi) rendőr-főkapitányság – az érintett személy erre vonatkozó kifejezett kérelmére – a kérelmező személyről elektronikus tárolásra, illetve azonosításra alkalmas módon fényképfelvételt készít és ujjnyomatot vesz.
-
-(2) A megyei (fővárosi) rendőr-főkapitányság a fényképfelvételt és az ujjnyomatot elektronikus úton, haladéktalanul továbbítja a SIRENE Irodának, amely azokat elektronikus módon, kiegészítő információként tárolja. Az adatok csak az érintett személy azonosítására használhatók fel, és azokat a figyelmeztető jelzés törlését követően törölni kell.
-
-(3) Ha a SIRENE Iroda tudomására jut, hogy az a személy, akire vonatkozóan figyelmeztető jelzést kíván elhelyezni vagy helyezett el a SIS-ben, más személyazonosságával visszaél, erről haladéktalanul értesíti a többi SIS-t alkalmazó állam SIRENE Irodáját.
-
-(4) A SIRENE Iroda az (1) bekezdés szerinti esetben az adattovábbításra kötelezett szervnél kezdeményezi, hogy vizsgálja meg, miszerint a figyelmeztető jelzés fenntartása indokolt-e. Az adattovábbításra kötelezett szerv a vizsgálat eredményéről tájékoztatja a SIRENE Irodát. A SIRENE Iroda a vizsgálat eredményétől függően törli vagy fenntartja a figyelmeztető jelzést.

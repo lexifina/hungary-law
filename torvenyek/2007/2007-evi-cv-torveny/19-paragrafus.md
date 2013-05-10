@@ -1,3 +1,0 @@
-19. § (1) A SIRENE Iroda köteles az érintettet – kérelmére – tájékoztatni arról, hogy a SIS-ben, valamint a kiegészítő információk között róla milyen adatot kezel, kinek és milyen célból továbbított adatot. A tájékoztatás akkor tagadható meg, ha azt külön törvény lehetővé teszi, illetve, ha ez a figyelmeztető jelzéssel kapcsolatos intézkedés jogszerű végrehajtása vagy harmadik személy jogainak védelme érdekében szükséges. A megtagadás tényéről és jogalapjáról az érintettet tájékoztatni kell.
-
-(2) Ha az érintett olyan adatokról kér tájékoztatást, amelyet más, SIS-t alkalmazó állam helyezett el a SIS-ben, akkor a kérelmet – válaszadás céljából – az érintett állam központi hatóságának kell megküldeni.

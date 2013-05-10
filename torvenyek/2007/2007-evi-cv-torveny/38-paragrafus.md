@@ -1,7 +1,0 @@
-38. § A büntetőeljárásról szóló 1998. évi XIX. törvény a következő 73/A. §-sal egészül ki:
-
-„
-
-73/A. § (1) Európai elfogatóparancs, illetve a nemzetközi bűnügyi jogsegélyről szóló törvény alapján nemzetközi elfogatóparancs kibocsátása esetén a 73. § rendelkezéseit kell alkalmazni.
-
-(2) Ha a bíróság, az ügyész, illetőleg a nyomozó hatóság a terhelt ellen elfogatóparancsot bocsátott ki, és tudomást szerez arról, hogy más eljárásban a terhelt ellen európai elfogatóparancsot, illetve a nemzetközi bűnügyi jogsegélyről szóló törvény alapján nemzetközi elfogatóparancsot bocsátottak ki – ha annak a terhelt, illetve az elfogatóparanccsal érintett bűncselekmény tekintetében a törvényben meghatározott feltételei fennállnak –, európai elfogatóparancsot, illetve nemzetközi elfogatóparancsot is kibocsát, illetve ennek érdekében intézkedik.”
