@@ -6,7 +6,7 @@
 
 ## A havi pénzforgalmi jelentés harmadik példányát a szervező felhasználhatja, annak negyedik példányát pedig a nyomtatványtömbben kell hagyni.
 
-## Bizonylattömböt kell használni a szervező székhelyén, telephelyén tárolt azon pénznyerő automaták esetében is, amelyek adott hónapban nem kerülnek játékteremben elhelyezésre, de utánuk játékadó fizetési kötelezettség fennáll. Az ilyen használatban lévő bizonylattömb nyilvántartására, kezelésére és vezetésére ugyanazon előírások vonatkoznak, mint a játékteremben tartott bizonylattömbökre, kivéve, hogy a bizonylat fejlécében a JT engedély száma mezőben „R” szerepeltetése kötelező. A helyhez kötött szerver alapú pénznyerő automata üzemeltetése esetén a bizonylatban a központi szerveren tárolt számláló állást kell szerepeltetni.[^377]
+## Bizonylattömböt kell használni a szervező székhelyén, telephelyén tárolt azon pénznyerő automaták esetében is, amelyek adott hónapban nem kerülnek játékteremben elhelyezésre, de utánuk játékadó fizetési kötelezettség fennáll. Az ilyen használatban lévő bizonylattömb nyilvántartására, kezelésére és vezetésére ugyanazon előírások vonatkoznak, mint a játékteremben tartott bizonylattömbökre, kivéve, hogy a bizonylat fejlécében a JT engedély száma mezőben „R” szerepeltetése kötelező. A helyhez kötött szerver alapú pénznyerő automata üzemeltetése esetén a bizonylatban a központi szerveren tárolt számláló állást kell szerepeltetni.[^365]
 
 ## 1. A bizonylat megnyitása
 
@@ -90,7 +90,7 @@
 
 ## Az összes PA lezárását követően az egyenleg oszlopa (g) összesítésre kerül. Ha a hónap közben a játékteremben működő PA-k adatai nem férnek el egy bizonylaton, az átvitel és az átvezetés mezők használatával a következő sorszámú bizonylaton kell az érintett játékterem összesítését elvégezni, majd az „Átvitel/Összesen” mezőben feltüntetni, a megfelelő rész aláhúzásával.
 
-9. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^378]
+9. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^366]
 
-[^377]: A 8. számú melléklet bevezető szövegrésze a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^378]: A 9. számú melléklet a 17/2009. (IX. 29.) PM rendelet 65. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^365]: A 8. számú melléklet bevezető szövegrésze a 15/2012. (VI. 28.) NGM rendelet 15. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^366]: A 9. számú melléklet a 17/2009. (IX. 29.) PM rendelet 65. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

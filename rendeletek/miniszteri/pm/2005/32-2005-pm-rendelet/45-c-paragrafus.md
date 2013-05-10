@@ -1,6 +1,6 @@
-## A helyhez kötött szerver alapú pénznyerő automatával és a nem helyhez kötött szerver alapú pénznyerő rendszerrel kapcsolatos követelmények[^197]
+## A helyhez kötött szerver alapú pénznyerő automatával és a nem helyhez kötött szerver alapú pénznyerő rendszerrel kapcsolatos követelmények[^185]
 
-45/C. §[^198] (1) A helyhez kötött szerver alapú pénznyerő automatára és a nem helyhez kötött szerver alapú pénznyerő rendszerre az e rendelet pénznyerő automatákra vonatkozó előírásait – a 45/A. §–45/E. §-ban meghatározott eltérő rendelkezések figyelembevételével – megfelelően alkalmazni kell. Egy helyhez kötött szerver alapú pénznyerő automata annyi játékhelynek minősül ahány játékos egyidejű kiszolgálására képes.
+45/C. §[^186] (1) A helyhez kötött szerver alapú pénznyerő automatára és a nem helyhez kötött szerver alapú pénznyerő rendszerre az e rendelet pénznyerő automatákra vonatkozó előírásait – a 45/A. §–45/E. §-ban meghatározott eltérő rendelkezések figyelembevételével – megfelelően alkalmazni kell. Egy helyhez kötött szerver alapú pénznyerő automata annyi játékhelynek minősül ahány játékos egyidejű kiszolgálására képes.
 
 (2) A helyhez kötött szerver alapú pénznyerő automata, illetve a nem helyhez kötött szerver alapú pénznyerő rendszer kizárólag a központi szerver által nyújtott szerencsejátékban való részvételre használható. A helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer a játék játszására vonatkozó információkat kap a központi szervertől és a vonatkozó információkat megjeleníti a játékos számára.
 
@@ -14,5 +14,5 @@
 
 (7) A 6. § (4) bekezdés b) és d) pontja, valamint a 44. § (1) bekezdés b) pontja helyhez kötött szerver alapú pénznyerő automatára és nem helyhez kötött szerver alapú pénznyerő rendszerre nem alkalmazható.
 
-[^197]: A 45/C. §-t megelőző alcímet a 15/2012. (VI. 28.) NGM rendelet 7. §-a iktatta be.
-[^198]: A 45/C. §-t a 15/2012. (VI. 28.) NGM rendelet 7. §-a iktatta be.
+[^185]: A 45/C. §-t megelőző alcímet a 15/2012. (VI. 28.) NGM rendelet 7. §-a iktatta be.
+[^186]: A 45/C. §-t a 15/2012. (VI. 28.) NGM rendelet 7. §-a iktatta be.

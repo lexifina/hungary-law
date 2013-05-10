@@ -1,4 +1,4 @@
-59. § (1)[^257] A szervező a látogatókat – a játékkaszinó igazgatója vagy helyettese által személyesen bevezetett, valamint a hatósági feladatokat ellátó személyek kivételével – a játékkaszinóba való első belépéskor, illetve az érvényesség lejártakor legfeljebb kettő évig érvényes belépőkártyával köteles ellátni. A belépőkártya kiállításához a játékos azonosítása során szerzett adatok felhasználhatók.
+59. § (1)[^245] A szervező a látogatókat – a játékkaszinó igazgatója vagy helyettese által személyesen bevezetett, valamint a hatósági feladatokat ellátó személyek kivételével – a játékkaszinóba való első belépéskor, illetve az érvényesség lejártakor legfeljebb kettő évig érvényes belépőkártyával köteles ellátni. A belépőkártya kiállításához a játékos azonosítása során szerzett adatok felhasználhatók.
 
 (2) A belépőkártyáknak legalább az alábbi adatokat kell tartalmaznia:
 
@@ -12,7 +12,7 @@ d) a kártya érvényességi idejét,
 
 e) a játékkaszinó bélyegzőlenyomatát vagy egyéb megkülönböztető jelét.
 
-(3)[^258] A (2) bekezdés b), c) és d) pontokban megjelölt adatok a belépőkártya leolvasásakor a beléptető nyilvántartási rendszerből is megjeleníthetők.
+(3)[^246] A (2) bekezdés b), c) és d) pontokban megjelölt adatok a belépőkártya leolvasásakor a beléptető nyilvántartási rendszerből is megjeleníthetők.
 
-[^257]: Az 59. § (1) bekezdése e rendelet 88. § (2) bekezdése alapján 2006. január 1-jén lépett hatályba.
-[^258]: Az 59. § (3) bekezdését a 19/2006. (VII. 31.) PM rendelet 28. §-a iktatta be.
+[^245]: Az 59. § (1) bekezdése e rendelet 88. § (2) bekezdése alapján 2006. január 1-jén lépett hatályba.
+[^246]: Az 59. § (3) bekezdését a 19/2006. (VII. 31.) PM rendelet 28. §-a iktatta be.

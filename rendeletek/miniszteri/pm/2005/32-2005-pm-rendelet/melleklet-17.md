@@ -6,6 +6,6 @@
 
 ## A bizonylat első példánya a játékosé, második példánya a pénztárosé, harmadik pedig a tömbben marad. A játékos a bizonylat ellenében kapja meg a versenyhez szükséges zsetonkészletet. A játékvezető a játékostól átvett bizonylatot az asztalban lévő jutaléktartó dobozba dobja.
 
-17. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^386]
+17. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^374]
 
-[^386]: A 17. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
+[^374]: A 17. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.

@@ -1,15 +1,15 @@
-45. § (1)[^189] A játékteremben elhelyezett pénznyerő automatának az állami adóhatóság által kibocsátott engedély érvényességének időtartama alatt meg kell felelnie a mérésügyi szerv által kiállított érvényes hitelesítési bizonyítványban foglaltaknak.
+45. § (1)[^177] A játékteremben elhelyezett pénznyerő automatának az állami adóhatóság által kibocsátott engedély érvényességének időtartama alatt meg kell felelnie a mérésügyi szerv által kiállított érvényes hitelesítési bizonyítványban foglaltaknak.
 
-(2)[^190] A játékhelyek számának meghatározása szempontjából a pénznyerő automata mérésügyi szerv által kiadott hitelesítési bizonyítványában foglaltak az irányadók.
+(2)[^178] A játékhelyek számának meghatározása szempontjából a pénznyerő automata mérésügyi szerv által kiadott hitelesítési bizonyítványában foglaltak az irányadók.
 
-(3)[^191] Az érvényes pénznyerő automata engedéllyel rendelkező szervező köteles a pénznyerő automatára vonatkozó, a mérésügyi szerv által kiállított új, érvényes hitelesítési bizonyítvány egy eredeti példányát az állami adóhatóság által rendszeresített formanyomtatvány mellékleteként az állami adóhatóságnak megküldeni, és ezzel egyidejűleg azt a játékterembe kihelyezni.
+(3)[^179] Az érvényes pénznyerő automata engedéllyel rendelkező szervező köteles a pénznyerő automatára vonatkozó, a mérésügyi szerv által kiállított új, érvényes hitelesítési bizonyítvány egy eredeti példányát az állami adóhatóság által rendszeresített formanyomtatvány mellékleteként az állami adóhatóságnak megküldeni, és ezzel egyidejűleg azt a játékterembe kihelyezni.
 
-(4)[^192] Amennyiben a hitelesítési bizonyítvány értelmében a játékhelyek összeplombálása a játékteremben történik, erről a szervezőnek a pénznyerő automata játékterembe történő kihelyezését követő 30 napon belül kell gondoskodnia.
+(4)[^180] Amennyiben a hitelesítési bizonyítvány értelmében a játékhelyek összeplombálása a játékteremben történik, erről a szervezőnek a pénznyerő automata játékterembe történő kihelyezését követő 30 napon belül kell gondoskodnia.
 
-(5)[^193] A 6. § (4) bekezdés b) pontja szerinti számlálónak és az IEK számlálójának együtt kell futnia. A pénznyerő automata elveszti hiteles állapotát, ha az IEK-ből kiolvasott pillanatnyi számlálóállások és a 6. § (4) bekezdés b) pontja szerinti számlálóállások közötti eltérés abszolút értéke meghaladja az aktuális, 6. § (4) bekezdés b) pontja szerinti számlálóállások és a hatályos hitelesítési bizonyítványban rögzített, 6. § (4) bekezdés b) pontja szerinti számlálóállások különbségének 1%-át (+/– 1 egység).
+(5)[^181] A 6. § (4) bekezdés b) pontja szerinti számlálónak és az IEK számlálójának együtt kell futnia. A pénznyerő automata elveszti hiteles állapotát, ha az IEK-ből kiolvasott pillanatnyi számlálóállások és a 6. § (4) bekezdés b) pontja szerinti számlálóállások közötti eltérés abszolút értéke meghaladja az aktuális, 6. § (4) bekezdés b) pontja szerinti számlálóállások és a hatályos hitelesítési bizonyítványban rögzített, 6. § (4) bekezdés b) pontja szerinti számlálóállások különbségének 1%-át (+/– 1 egység).
 
-[^189]: A 45. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2)–(3) bekezdése szerint módosított szöveg.
-[^190]: A 45. § (2) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^191]: A 45. § (3) bekezdése a 17/2009. (IX. 29.) PM rendelet 52. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^192]: A 45. § (4) bekezdése a 17/2009. (IX. 29.) PM rendelet 52. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^193]: A 45. § (5) bekezdését a 16/2010. (IV. 28.) PM rendelet 8. §-a iktatta be.
+[^177]: A 45. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2)–(3) bekezdése szerint módosított szöveg.
+[^178]: A 45. § (2) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^179]: A 45. § (3) bekezdése a 17/2009. (IX. 29.) PM rendelet 52. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^180]: A 45. § (4) bekezdése a 17/2009. (IX. 29.) PM rendelet 52. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^181]: A 45. § (5) bekezdését a 16/2010. (IV. 28.) PM rendelet 8. §-a iktatta be.

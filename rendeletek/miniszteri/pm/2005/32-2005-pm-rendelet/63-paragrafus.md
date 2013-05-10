@@ -10,7 +10,7 @@
 
 (5) A játékasztalnál adott borravalót a borravalótartó mellett fel kell fektetni úgy, hogy az a videokamera által is ellenőrizhető legyen.
 
-(6)[^262] A borravalótartóban csak az a zseton helyezhető el, amelyet a játékos adott, vagyis a címlete, darabszáma nem változtatható meg. Ettől a szervező a játéktervben biztonsági okokból az állami adóhatóság jóváhagyásával eltérhet.
+(6)[^250] A borravalótartóban csak az a zseton helyezhető el, amelyet a játékos adott, vagyis a címlete, darabszáma nem változtatható meg. Ettől a szervező a játéktervben biztonsági okokból az állami adóhatóság jóváhagyásával eltérhet.
 
 (7) Ha a játékos a borravalót színzsetonban is adhatja, az adott színzsetont a borravalótartó mellett fel kell fektetni, majd mellé kell helyezni a megfelelő értékzsetont. A kettőt hangosan leszámolva meg kell feleltetni egymásnak, és ezután kell az értékzsetont a borravalótartóba dobni.
 
@@ -18,4 +18,4 @@
 
 (9) A borravalótartók kinyitására a játékidő végén a főpénztáros, az igazgató vagy helyettese, valamint a borravalóval érintett helyszínre beosztott egy dolgozó jelenlétében kerülhet sor. A bizonylaton a borravaló teljes összegét rögzíteni kell.
 
-[^262]: A 63. § (6) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^250]: A 63. § (6) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

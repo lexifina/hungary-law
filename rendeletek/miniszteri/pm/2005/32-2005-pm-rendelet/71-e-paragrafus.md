@@ -1,8 +1,8 @@
-## 71/D. §[^294] A szervező kombinált lóverseny-fogadási formákat is üzemeltethet, melyek esetében a totalizatőri és a bukmékeri rendszerű lóverseny-fogadási formák egymással összefüggésben vannak.
+## 71/D. §[^282] A szervező kombinált lóverseny-fogadási formákat is üzemeltethet, melyek esetében a totalizatőri és a bukmékeri rendszerű lóverseny-fogadási formák egymással összefüggésben vannak.
 
-71/E. §[^295] (1) A totalizatőri rendszerű lóversenyfogadás fogadási formáinak és a bukmékeri rendszerű lóversenyfogadás részletes szabályait a részvételi szabályzatok (totalizatőri és bukmékeri szabályzatok) tartalmazzák.
+71/E. §[^283] (1) A totalizatőri rendszerű lóversenyfogadás fogadási formáinak és a bukmékeri rendszerű lóversenyfogadás részletes szabályait a részvételi szabályzatok (totalizatőri és bukmékeri szabályzatok) tartalmazzák.
 
 (2) A szervező köteles gondoskodni arról, hogy a részvételi szabályzatok a fogadásfelvételi helyeken a fogadók rendelkezésére álljanak.
 
-[^294]: A 71/D. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
-[^295]: A 71/E. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
+[^282]: A 71/D. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
+[^283]: A 71/E. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
