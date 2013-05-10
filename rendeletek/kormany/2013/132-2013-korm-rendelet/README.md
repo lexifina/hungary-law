@@ -1,0 +1,9 @@
+# 132/2013. (V. 9.) Korm. rendelet
+
+az integrált kormányzati ügyfélszolgálatok (kormányablakok) létrehozását és az azokhoz kapcsolódó munkaügyi kirendeltségek fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-132-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-05-10 | 2013-132-20-22.1 | 132/2013. (V. 9.) Korm. rendelet |
