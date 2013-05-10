@@ -4,6 +4,6 @@
 
 15. § (1) Ez a rendelet 2010. július 1-jén lép hatályba.
 
-(2)[^1]
+(2)[^3]
 
-[^1]: A 15. § (2) bekezdését a 16. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 15. § (2) bekezdését a 16. § (1) bekezdése hatályon kívül helyezte.

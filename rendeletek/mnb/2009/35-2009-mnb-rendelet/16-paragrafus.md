@@ -1,3 +1,3 @@
-16. §[^2]
+16. §[^4]
 
-[^2]: A 16. §-t a (2) bekezdés hatályon kívül helyezte.
+[^4]: A 16. §-t a (2) bekezdés hatályon kívül helyezte.

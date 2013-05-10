@@ -16,7 +16,7 @@ d) felelős a biztonságpolitika és a biztonsági szabályzat, valamint az info
 
 e) ellenőrzi a biztonsági előírások végrehajtását.
 
-(3) A biztonsági szervezet vezetője és a biztonságért felelős személy az általa végzett tevékenység tekintetében közvetlenül az elszámolóház első számú vezetőjének tartozik beszámolással.
+(3)[^2]
 
 (4) Az elszámolóház a fizikai biztonsági tevékenység ellátására olyan személyt alkalmaz, aki:
 
@@ -39,3 +39,5 @@ c) legalább hároméves, informatikai biztonsági területen szerzett gyakorlat
 (7) Az elszámolóház jelen § (4) bekezdése szerinti személy alkalmazását mellőzheti, ha a fizikai biztonsági tevékenység teljes körének végzésével a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény hatálya alá tartozó gazdasági társaságot, vagy egyéni vállalkozót bíz meg.
 
 (8) Jelen § (1), (4) és (5) bekezdéseiben említett feladatot az adott feladatot ellátó személyre vonatkozó feltételek betartása mellett ugyanazon személy is elláthatja.
+
+[^2]: A 4. § (3) bekezdését a 7/2013. (V. 9.) MNB rendelet 1. §-a hatályon kívül helyezte.
