@@ -1,0 +1,11 @@
+19. § Az Nkt. 98. §-a a következő (14)–(16) bekezdéssel egészül ki:
+
+„(14) Ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, vagy megfelelő végzettségű és szakképzettségű pedagógussal nem tudják ellátni a feladatot, az iskolában az adott tantárgy, tantárgyi modul tanítására határozatlan időre alkalmazható, valamint az adott tantárgy, tantárgyi modul vonatkozásában az érettségin vizsgáztató tanár lehet az is, aki a Nemzeti alaptantervben az adott pedagógiai szakaszban az érintett műveltségi terület, több műveltségi terület vagy tantárgyi tartalom összevonásával kialakított komplex tantárgy vagy tantárgyi modul esetében az adott komplex tantárgyba, tantárgyi modulba bevont bármely műveltségi terület, tantárgy tanítására feljogosító szakos tanári végzettséggel és szakképzettséggel rendelkezik, valamint
+
+a) a tantárgynak, tantárgyi modulnak megfelelő szakirányú továbbképzésben szerzett szakképzettséggel rendelkezik, vagy
+
+b) az a) pontban meghatározott szakirányú továbbképzés hiányában legalább százhúsz órás pedagógus-továbbképzés keretében elsajátította az adott tantárgy, tantárgyi modul oktatásához szükséges elméleti és módszertani ismereteket.
+
+(15) Szakképző iskolában tanított szakmai elméleti tantárgy esetén, ha nincs a szakképzés szakirányának megfelelő szakos hazai tanári képzés, az adott tantárgy tanítására határozatlan időre alkalmazható, valamint az érettségin, szakmai vizsgán vizsgáztató tanár lehet az is, aki a szakmai tantárgynak megfelelő szakmai területen szakirányú felsőfokú végzettséggel és bármely szakos tanári szakképzettséggel rendelkezik, továbbá, ha nincs a szakképzés szakirányának megfelelő hazai felsőfokú képzés, az is, aki bármely szakos tanári szakképzettséggel és a szakképzés szakirányának megfelelő szakirányú szakképesítéssel és mestervizsgával rendelkezik.
+
+(16) Ha az iskola megfelelő végzettségű és szakképzettségű pedagógussal nem tudja megszervezni a 27. § (11) bekezdés szerinti mindennapos testnevelést, akkor a testnevelés tantárgy tanítására határozott időre, legfeljebb a 2019/2020. tanév kezdetéig alkalmazható, aki felsőfokú végzettséggel és sportoktatói vagy sportedzői szakképzettséggel rendelkezik.”
