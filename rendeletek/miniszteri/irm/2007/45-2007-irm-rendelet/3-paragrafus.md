@@ -1,5 +1,0 @@
-## 2. § A SIS Vhr. 16. §-ának (2) bekezdésében meghatározott esetben a figyelmeztető jelzés elhelyezése céljából adattovábbításra kötelezett szerv e rendelet 2. számú mellékletében meghatározott formanyomtatványon értesíti a SIRENE Irodát.
-
-3. § (1) A SIS Vhr. 23. §-a alapján, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvény (a továbbiakban: SIS törvény) 5. §-a (1) bekezdésének f) pontja szerinti figyelmeztető jelzés kivételével valamennyi figyelmeztető jelzés esetén elért találat esetében a SIS-ben kezelt adatokhoz hozzáférési jogosultsággal rendelkező szerv (a továbbiakban: hozzáférési jogosultsággal rendelkező szerv) e rendelet 3. számú mellékletében meghatározott formanyomtatványon erősíti meg a találat eléréséről szóló értesítést.
-
-(2) A SIS Vhr. 23. §-a alapján, a SIS törvény 5. §-a (1) bekezdésének f) pontja szerinti figyelmeztető jelzés esetén elért találat esetében a hozzáférési jogosultsággal rendelkező szerv e rendelet 4. számú mellékletében meghatározott formanyomtatványon erősíti meg a találat eléréséről szóló értesítést.

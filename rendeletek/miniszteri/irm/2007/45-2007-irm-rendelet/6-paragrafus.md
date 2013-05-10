@@ -1,1 +1,0 @@
-## 5. § A SIS Vhr. 25. §-ának (3) bekezdésében meghatározott esetben a hozzáférési jogosultsággal rendelkező szerv e rendelet 6. számú mellékletében meghatározott formanyomtatványon tájékoztatja a SIRENE Irodát addigi intézkedéseinek megszüntetéséről.

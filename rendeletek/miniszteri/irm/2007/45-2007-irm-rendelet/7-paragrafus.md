@@ -1,1 +1,0 @@
-## 6. § A SIS Vhr. 25. §-ának (6) bekezdésében meghatározott esetben a hozzáférési jogosultsággal rendelkező szerv e rendelet 7. számú mellékletében meghatározott formanyomtatványon értesíti a SIRENE Irodát arról, hogy az intézkedést nem lehet végrehajtani.
