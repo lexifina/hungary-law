@@ -1,4 +1,4 @@
-## 4. §[^2] E rendelet 1. mellékletének az Mr1. rendelettel megállapított 18. pont 18.3. és 18.4. alpontját a 2013. május 7-én folyamatban lévő eljárásokban is alkalmazni kell.
+## 5. §[^3] E rendelet 1. mellékletének az Mr1. rendelettel megállapított 13. pont 13.1. és 13.4. alpontját a 2013. május 10-én folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 149/2012. (XII. 28.) VM rendelethez
 
@@ -2772,7 +2772,7 @@ Tetétlen
 
 (székhelye: Eger)
 
-10.1.[^3] Egri Járási Hivatal Járási Földhivatala (székhelye: Eger)
+10.1.[^4] Egri Járási Hivatal Járási Földhivatala (székhelye: Eger)
 
 Andornaktálya
 
@@ -2874,7 +2874,7 @@ Váraszó
 
 Verpelét
 
-10.2.[^4] Füzesabonyi Járási Hivatal Járási Földhivatala (székhelye: Füzesabony)
+10.2.[^5] Füzesabonyi Járási Hivatal Járási Földhivatala (székhelye: Füzesabony)
 
 Aldebrő
 
@@ -3366,7 +3366,7 @@ Vértesszőlős
 
 (székhelye: Salgótarján)
 
-13.1. Balassagyarmati Járási Hivatal Járási Földhivatala (székhelye: Balassagyarmat)
+13.1.[^6] Balassagyarmati Járási Hivatal Járási Földhivatala (székhelye: Balassagyarmat)
 
 Balassagyarmat
 
@@ -3408,8 +3408,6 @@ Ipolyszög
 
 Ipolyvece
 
-Karancsság
-
 Ludányhalászi
 
 Magyargéc
@@ -3439,8 +3437,6 @@ Patvarc
 Piliny
 
 Rimóc
-
-Ságújfalu
 
 Szalmatercs
 
@@ -3564,7 +3560,7 @@ Tereske
 
 Tolmács
 
-13.4. Salgótarjáni Járási Hivatal Járási Földhivatala (székhelye: Salgótarján)
+13.4.[^7] Salgótarjáni Járási Hivatal Járási Földhivatala (székhelye: Salgótarján)
 
 Bárna
 
@@ -3587,6 +3583,8 @@ Karancsberény
 Karancskeszi
 
 Karancslapujtő
+
+Karancsság
 
 Kazár
 
@@ -3619,6 +3617,8 @@ Nagykeresztúr
 Nemti
 
 Rákóczibánya
+
+Ságújfalu
 
 Salgótarján
 
@@ -5438,7 +5438,7 @@ Velemér
 
 Viszák
 
-18.3.[^5] Sárvári Járási Hivatal Járási Földhivatala (székhelye: Sárvár)
+18.3.[^8] Sárvári Járási Hivatal Járási Földhivatala (székhelye: Sárvár)
 
 Bejcgyertyános
 
@@ -5524,7 +5524,7 @@ Vásárosmiske
 
 Zsédeny
 
-18.4.[^6] Szombathelyi Járási Hivatal Járási Földhivatala (székhelye: Szombathely)
+18.4.[^9] Szombathelyi Járási Hivatal Járási Földhivatala (székhelye: Szombathely)
 
 Acsád
 
@@ -6676,8 +6676,10 @@ Zalaszentlászló
 
 Zalavég
 
-[^2]: A 4. §-t a 28/2013. (IV. 30.) VM rendelet 9. §-a iktatta be.
-[^3]: Az 1. melléklet 10. pont 10.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 10. pont 10.2. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^5]: Az 1. melléklet 18. pont 18.3. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet 18. pont 18.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^3]: Az 5. §-t a 28/2013. (IV. 30.) VM rendelet 10. §-a iktatta be.
+[^4]: Az 1. melléklet 10. pont 10.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 10. pont 10.2. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 13. pont 13.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 13. pont 13.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet 18. pont 18.3. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 18. pont 18.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
