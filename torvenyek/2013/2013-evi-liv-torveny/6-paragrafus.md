@@ -1,0 +1,1 @@
+6. § Az e törvény hatálybalépése előtt kibocsátott, e törvény 1–3. §-ban foglalt rendelkezéseinek meg nem felelő, 2012. december 31-ét követő időszakra vonatkozó számlákat – ha arra még nem került sor – a törvény hatálybalépését követő harminc napon belül helyesbíteni kell.
