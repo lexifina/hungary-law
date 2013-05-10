@@ -40,7 +40,11 @@
 
 17. a Hivatal eljárásában közreműködő szakhatóság kijelölését,
 
-18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait
+18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait;
+
+19. az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat;
+
+20. a gördülő fejlesztési tervek tartalmát, ütemezését, felülvizsgálatának szabályait, továbbá a tervek jóváhagyásának szempontjait
 
 rendeletben állapítsa meg.
 
@@ -54,7 +58,7 @@ rendeletben állapítsa meg.
 
 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
 
-5.
+5. állapítsa meg a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a víziközmű-szolgáltatók által alkalmazható számlaképet.
 
 6–8.
 

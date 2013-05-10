@@ -1,24 +1,10 @@
 ## 25. Átmeneti rendelkezések
 
-76. § (1) A 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig
-
-a) a víziközmű-szolgáltató legfeljebb az állami tulajdonú közüzemi vízműből szolgáltatott ivóvízért, illetőleg az állami tulajdonú közüzemi csatornamű használatáért fizetendő díjakról szóló miniszteri rendeletben a rá vonatkozóan meghatározott, 2011. december 31-én hatályos díjat,
-
-b) az a) ponttól eltérő esetben a víziközmű-szolgáltató a 2011. december 31-én alkalmazott bruttó díjhoz képest legfeljebb 4,2 százalékkal megemelt mértékű díjat
-
-alkalmazhat.
+76. § (1) A 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a nem lakossági felhasználók vonatkozásában a víziközmű-szolgáltató a 2013. január 31-én jogszerűen alkalmazott díjat alkalmazhatja.
 
 (2)
 
-(3) A Hivatal az (1) bekezdés alapján alkalmazandó díjtól eltérő díj alkalmazásához való hozzájárulást adhat a víziközmű-szolgáltató kérelmére az alábbi esetekben:
-
-a) a településen addig nem nyújtott víziközmű-szolgáltatás kerül bevezetésre,
-
-b) olyan víziközmű-beruházást adnak át, amely következtében a települést ellátó vízközmű-hálózat működtetési költségei megemelkednek,
-
-c) víziközmű-beruházásra vonatkozó szerződés vagy átadott víziközmű-beruházás vonatkozásában – szerződésben vállalt kötelezettségként – a víziközmű pótlási fedezetét vagy a beruházás finanszírozásához igénybe vett külső forrás hitelszolgálati fedezetét a víziközmű-szolgáltatás díjába be kell építeni, vagy
-
-d) törvényben meghatározott, vagyonkezeléssel kapcsolatos kötelezettség teljesítése érdekében szükséges.
+(3) A Hivatal a miniszterrel egyetértésben a jogszabályban rögzített szolgáltatási díjtól eltérő díj alkalmazásához való hozzájárulást adhat a víziközmű-szolgáltató kérelmére abban az esetben, ha a településen beruházás keretében megvalósult, olyan víziközművet helyeznek üzembe, amelynek eredményeként addig nem nyújtott víziközmű-szolgálatatás kerül bevezetésre.
 
 (4) A kérelemben részletesen és teljeskörűen alá kell támasztani, hogy – a 62. § (1) bekezdésében és a (3) bekezdésben foglaltakra figyelemmel – az adott díj megváltoztatását mely körülmények és milyen mértékben indokolják.
 
@@ -26,4 +12,6 @@ d) törvényben meghatározott, vagyonkezeléssel kapcsolatos kötelezettség te
 
 (6) A víziközmű-szolgáltató a Hivatal határozatában meghatározott díjat a határozat jogerőre emelkedését követően alkalmazhatja.
 
-(7) A Hivatal a 65. § (2) bekezdés szerinti javaslatát első alkalommal 2013. szeptember 15-ig küldi meg.
+(7) A Hivatal a 65. § (2) bekezdése szerinti javaslatát első alkalommal 2014. október 15-ig küldi meg.
+
+(8) A közművezetékek adójáról szóló 2012. évi CLXVIII. törvény, a távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény, valamint a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, közművezetékek után fizetendő adó, illetve pénzügyi tranzakciós illeték (a továbbiakban együtt: különadó) fizetésére kötelezett víziközmű-szolgáltatók a különadó terhét önállóan viselik, azt az általuk nyújtott szolgáltatás árába közvetlenül vagy közvetve nem érvényesíthetik.
