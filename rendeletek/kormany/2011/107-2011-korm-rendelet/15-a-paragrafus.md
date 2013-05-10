@@ -1,4 +1,4 @@
-## 5/A.[^41] Jelentéstételi kötelezettség
+## 5/A.[^42] Jelentéstételi kötelezettség
 
 15/A. § (1) Az ellenőrző szervezet minden év október 15-éig a jelentéstételi kötelezettség időpontját megelőző támogatási időszakról jelentést nyújt be a Nemzeti Fejlesztési Minisztériumban működő Támogatásokat Vizsgáló Irodának (a továbbiakban: Támogatásokat Vizsgáló Iroda) a Tao. tv. 22/C. § (1) bekezdés a)–e) pontjában meghatározott, támogatás igénybevételére jogosult szervezetek részére az egyes támogatási jogcímeken nyújtott támogatásokról. A jelentés adatokat tartalmaz különösen:
 
@@ -20,4 +20,4 @@ bf) a lakosságnak nyújtott előnyökről és a sportcélú ingatlan-fejleszté
 
 (2) A Támogatásokat Vizsgáló Iroda az (1) bekezdés szerint részére megküldött jelentést továbbítja az Európai Bizottság részére.
 
-[^41]: Az 5/A. alcímet (a 15/A. §-t) a 268/2011. (XII. 16.) Korm. rendelet 6. §-a iktatta be.
+[^42]: Az 5/A. alcímet (a 15/A. §-t) a 268/2011. (XII. 16.) Korm. rendelet 6. §-a iktatta be.
