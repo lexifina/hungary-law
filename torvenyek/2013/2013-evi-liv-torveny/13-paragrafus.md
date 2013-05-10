@@ -25,9 +25,3 @@
 ## (13) A Hivatal a 47. § (5) bekezdés szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.”
 
 13. § Ez a törvény a kihirdetését követő napon lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,az Országgyűlés elnöke
