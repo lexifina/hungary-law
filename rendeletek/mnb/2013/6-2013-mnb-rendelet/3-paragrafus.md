@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-3. § Hatályát veszti a Magyar Nemzeti Bank elnökének rendelet kiadásában való helyettesíthetőségéről szóló 6/2012. (IV. 2.) MNB rendelet.
+3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
