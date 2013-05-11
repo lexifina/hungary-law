@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-77-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-01-01 | 2012-77-20-2W.1 | 77/2012. (XII. 22.) NFM rendelet |
+| 2013-05-11 | 2012-77-20-2W.2 | 20/2013. (V. 10.) NFM rendelet |

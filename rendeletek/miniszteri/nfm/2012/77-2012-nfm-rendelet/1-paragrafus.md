@@ -14,4 +14,8 @@ f) a Győr–Sopron–Ebenfurti Vasút Zrt.;
 
 g) a Hungaroring Sport Zrt.;
 
-h) a Nemzeti Dohánykereskedelmi Nonprofit Zrt.
+h) a Nemzeti Dohánykereskedelmi Nonprofit Zrt.;
+
+i)[^1] a Nemzeti Fejlesztési Programiroda Nonprofit Kft.
+
+[^1]: Az 1. § i) pontját a 20/2013. (V. 10.) NFM rendelet 1. §-a iktatta be.
