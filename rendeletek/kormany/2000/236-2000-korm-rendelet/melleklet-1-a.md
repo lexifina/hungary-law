@@ -56,7 +56,7 @@
 
 | 1514 | Nem megfelelő sebesség alkalmazása (relatív sebességtúllépés) [KRESZ 25. § (1) bek.] - csak halmazatként alkalmazható; | 1 |
 
-| 1515 | Egyes jelzőtáblák utasításainak megszegése [KRESZ 14. § (1) bek. e)–m), o)–u), y), valamint z/1) és z/2. pont]; | 3 |
+| 1515 | Egyes jelzőtáblák utasításainak megszegése [KRESZ 14. § (1) bek. e)–m), o)–u), y), valamint z/1) pont]; | 3 |
 
 | 1516 | A kijelölt gyalogos-átkelőhely előtt megálló jármű melletti elhaladás megállás nélkül [KRESZ 43. § (3) bek.]; | 5 |
 
@@ -66,4 +66,4 @@
 
 1/A. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^14]
 
-[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése és 10. § (4) bekezdése szerint módosított szöveg.
+[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése és 10. § (4) bekezdése, a 138/2013. (V. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.

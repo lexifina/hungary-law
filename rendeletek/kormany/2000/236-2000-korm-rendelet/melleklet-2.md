@@ -18,7 +18,7 @@
 
 | 20 |  |  |
 
-| 21 | A behajtás tilalmára vonatkozó szabályok megszegése [KR. 6. melléklet 1. pont, BR. 11/F. melléklet 1. pont]; | 4 |
+| 21 | A behajtás tilalmára vonatkozó szabályok megszegése [KR. 6. melléklet 1. és 3. pont, BR. 11/F. melléklet 1. és 3. pont]; | 4 |
 
 | 22 | A kötelező haladási irányra vonatkozó szabályok megszegése [KR. 6. melléklet 2. pont, BR. 11/F. melléklet 2. pont]; | 4 |
 
