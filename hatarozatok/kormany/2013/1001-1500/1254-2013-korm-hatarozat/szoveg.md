@@ -16,4 +16,6 @@ c) az MFB Zrt. által fizetendő egyszeri, a vállalt bankgarancia futamidejéhe
 
 d) a Programot igénybe vevő szállító által nyújtandó fedezet legalább a garantált tőke összege 30%-ának megfelelő mértékű lehet,
 
-3. visszavonja az uniós támogatású projektek finanszírozási helyzetének megoldásához szükséges feladatokról szóló 1215/2012. (VI. 26.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
