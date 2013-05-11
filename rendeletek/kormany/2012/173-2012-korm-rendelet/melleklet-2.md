@@ -34,7 +34,7 @@
 
 | 15. | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 173/2012. (VII. 26.) Korm. rendelethez[^3]
+2. melléklet a 173/2012. (VII. 26.) Korm. rendelethez[^4]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -76,4 +76,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 18. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^3]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 63. §-a, a 394/2012. (XII. 20.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 63. §-a, a 394/2012. (XII. 20.) Korm. rendelet 60. §-a szerint módosított szöveg.

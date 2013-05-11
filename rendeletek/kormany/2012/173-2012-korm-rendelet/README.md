@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-173-20-
 | 2012-07-30 | 2012-173-20-22.2 | 2010: CXXX. törvény |
 | 2013-01-01 | 2012-173-20-22.3 | 296/2012. (X. 17.) Korm. rendelet |
 | 2013-03-09 | 2012-173-20-22.4 | 296/2012. (X. 17.) Korm. rendelet |
+| 2013-05-11 | 2012-173-20-22.5 | 137/2013. (V. 10.) Korm. rendelet |
