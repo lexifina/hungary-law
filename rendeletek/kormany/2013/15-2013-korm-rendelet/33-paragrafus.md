@@ -1,3 +1,3 @@
-33. §[^5]
+33. §[^6]
 
-[^5]: A 32–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 32–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
