@@ -1,1 +1,0 @@
-A Magyar Nemzeti Bankról szóló 2011. évi CCVIII. törvény 65. § (2) bekezdés d) pontjában és (3) bekezdés a) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2011. évi CCVIII. törvény 4. § (5) bekezdésében és 20. § (2) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
