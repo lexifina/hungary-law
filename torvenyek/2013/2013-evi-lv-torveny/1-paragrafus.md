@@ -1,3 +1,1 @@
-1. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 7. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Köznevelési alapfeladatot – a 19. § (3) bekezdés c) pontjában foglalt kivétellel – csak az (1) bekezdésben felsorolt köznevelési intézmény láthat el. A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) hozzájárulását ki kell kérni.”
+1. §
