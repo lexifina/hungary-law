@@ -1,6 +1,6 @@
-## 16. §[^37] E rendeletnek a közúti közlekedéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 99/2011. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított 8/A. §-át, valamint 1. § (4) bekezdésével megállapított 4. mellékletét a 2011. június 30. után indult eljárásokban kell alkalmazni.
+## 17. §[^39] Ez a rendelet a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvénnyel együtt a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^38]
+1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^40]
 
-[^37]: A 16. §-t a 99/2011. (VI. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^38]: Az 1. melléklet a 69/2009. (IV. 2.) Korm. rendelet 7. §-ával megállapított, a 228/2012. (VIII. 23.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^39]: A 17. §-t a 138/2013. (V. 10.) Korm. rendelet 6. §-a iktatta be.
+[^40]: Az 1. melléklet a 69/2009. (IV. 2.) Korm. rendelet 7. §-ával megállapított, a 228/2012. (VIII. 23.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
