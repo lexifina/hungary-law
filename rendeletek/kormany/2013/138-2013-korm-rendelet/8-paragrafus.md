@@ -1,3 +1,3 @@
-## 7. § A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet (a továbbiakban: R4.) 12. §-a a következő (4) bekezdéssel egészül ki:
+## 7. §[^4]
 
-## „(4) Ha a Kkt. 21/B. § (1) bekezdésében meghatározott szabályszegést a 2011/82/EU európai parlamenti és tanácsi irányelvet átültető más tagállamban bejegyzett gépjárművel követték el és a bírság kiszabására a Kkt. 20. § (4b) bekezdése szerint került sor, a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványokról szóló miniszteri rendeletben meghatározott tájékoztató levelet és válasznyomtatványt is meg kell küldeni a gépjármű üzemben tartója részére.”
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
