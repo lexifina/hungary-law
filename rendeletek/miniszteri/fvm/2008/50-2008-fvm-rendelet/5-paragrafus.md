@@ -18,15 +18,19 @@ d)[^22] a tökre oltott dinnye termesztése esetén a vetésváltási szabályok
 
 (4)[^23] Nem minősül az 1. számú melléklet 4. pontjában foglalt előírás megsértésének az, ha az égetésre az élelmiszerlánc-felügyeleti szerv által zárlati károsítókkal való fertőzés miatt hozott hatósági határozatban foglalt, vagy a természetvédelmi hatóság által egyedi természetvédelmi okokból hozott hatósági határozatban foglalt kötelezettség végrehajtása érdekében kerül sor.
 
-(5) Az 1. számú melléklet 6. pontjában szereplő előírás betartásától az illetékes természetvédelmi hatóság által egyedi természetvédelmi okokból hozott hatósági határozat alapján el lehet térni.
+(5)[^24] Az 1. számú melléklet 6., valamint 12. pontjában szereplő előírás betartásától az illetékes természetvédelmi hatóság által egyedi természetvédelmi okokból hozott hatósági határozat alapján el lehet térni.
 
-(6) Az állandó legelőkön, azok védelme érdekében az 1. számú melléklet 4–8. pontjában foglalt előírásokat kell betartani.
+(6)[^25] Az állandó legelőkön, azok védelme érdekében az 1. számú melléklet 4–8., valamint 12. pontjában foglalt előírásokat kell betartani.
 
-(7)[^24] A tájképi elemet tartalmazó területen azok védelme érdekében az 1. számú melléklet 4–9. pontjaiban foglalt előírásokat kell betartani. A gémeskutak megőrzési kötelezettsége vonatkozásában a 2010. évi, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által felmért állapot számít kiindulási alapnak.
+(7)[^26] A tájképi elemet tartalmazó területen azok védelme érdekében az 1. számú melléklet 4–9. pontjaiban foglalt előírásokat kell betartani. A gémeskutak megőrzési kötelezettsége vonatkozásában a 2010. évi, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által felmért állapot számít kiindulási alapnak.
 
-(8)[^25] Az 1. számú melléklet 9. pontja alapján a kunhalmok területén 2010. november 1-jétől tilos – a gyeptelepítés előkészítéséhez szükséges talajmunkák kivételével – bárminemű talajmunka végzése.
+(8)[^27] Az 1. számú melléklet 9. pontja alapján a kunhalmok területén tilos bárminemű talajmunka végzése.
 
-(9)[^26] Az 1. számú melléklet 11. pontjában szereplő, a vízvédelmi sávokra vonatkozó előírásokat 2012. január 1-jétől kell alkalmazni.
+(8a)[^28] A (8) bekezdésben foglalt tilalom alól kivételt képez a gyeptelepítés előkészítéséhez szükséges talajmunka.
+
+(9)[^29] Az 1. számú melléklet 11. pontjában szereplő, a vízvédelmi sávokra vonatkozó előírásokat 2012. január 1-jétől kell alkalmazni.
+
+(10)[^30] Nem minősül az 1. számú melléklet 12. pontjában foglalt előírás megsértésének az, ha jogszabályban meghatározottak szerint a Natura 2000 gyepterületeken a terület 5–10%-át kaszálatlanul hagyják.
 
 [^18]: Az 5. § (1) bekezdése a 80/2009. (VII. 3.) FVM rendelet 2. §-ával megállapított szöveg.
 [^19]: Az 5. § (2) bekezdését a 80/2009. (VII. 3.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte.
@@ -34,6 +38,10 @@ d)[^22] a tökre oltott dinnye termesztése esetén a vetésváltási szabályok
 [^21]: Az 5. § (3) bekezdés c) pontja a 29/2011. (IV. 22.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^22]: Az 5. § (3) bekezdés d) pontját a 121/2011. (XII. 21.) VM rendelet 3. §-a iktatta be.
 [^23]: Az 5. § (4) bekezdése a 32/2010. (III. 30.) FVM rendelet 3. § (1) bekezdésével megállapított, a 29/2011. (IV. 22.) VM rendelet 7. §-a szerint módosított szöveg.
-[^24]: Az 5. § (7) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 29/2011. (IV. 22.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^25]: Az 5. § (8) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 29/2011. (IV. 22.) VM rendelet 7. §-a szerint módosított szöveg.
-[^26]: Az 5. § (9) bekezdését a 121/2011. (XII. 21.) VM rendelet 4. §-a iktatta be.
+[^24]: Az 5. § (5) bekezdése a 32/2013. (V. 9.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: Az 5. § (6) bekezdése a 32/2013. (V. 9.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^26]: Az 5. § (7) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 29/2011. (IV. 22.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^27]: Az 5. § (8) bekezdését a 32/2010. (III. 30.) FVM rendelet 3. § (2) bekezdése iktatta be, szövege a 32/2013. (V. 9.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^28]: Az 5. § (8a) bekezdését a 32/2013. (V. 9.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^29]: Az 5. § (9) bekezdését a 121/2011. (XII. 21.) VM rendelet 4. §-a iktatta be.
+[^30]: Az 5. § (10) bekezdését a 32/2013. (V. 9.) VM rendelet 1. § (4) bekezdése iktatta be.

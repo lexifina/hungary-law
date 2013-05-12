@@ -8,6 +8,6 @@
 
 | 50% | Súlyos | Maradandó |
 
-4. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^47]
+4. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^52]
 
-[^47]: A 4. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^52]: A 4. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
