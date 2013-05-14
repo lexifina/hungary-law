@@ -6,7 +6,7 @@
 
 ## Felelős: elszámolásért és a visszafizetési kötelezettségért: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. március 31.
+## Határidő: 2013. december 31.[^1]
 
 1. melléklet az 1599/2012. (XII. 17.) Korm. határozathoz
 
@@ -111,3 +111,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A határozat az 1263/2013. (V. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
