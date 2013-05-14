@@ -16,7 +16,11 @@ b) módosított 1. § (2) bekezdését, 3. § g) pontját, 4. § (1) bekezdésé
 
 c) hatályon kívül helyezett 3. § i) pontját, 11. § (3) bekezdés l) pontját, 20. § (2) bekezdését, 21. §-át, 25. §-át, 26. § (3) és (4) bekezdését, 27. §-át, 3. számú mellékletét a módosító rendelet hatálybalépése[^85] után megkezdett közbeszerzésekre nem kell alkalmazni.
 
+(4)[^86] E rendeletnek a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet módosításáról szóló 140/2013. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. R.) megállapított 5. § (3) bekezdését a Mód. R. hatálybalépésekor[^87] hatályos keretmegállapodások és keretszerződések esetében is alkalmazni kell.
+
 [^82]: A 30. § (3) bekezdését a 33/2012. (III. 7.) Korm. rendelet 9. §-a iktatta be.
 [^83]: A hatálybalépés időpontja 2012. március 8.
 [^84]: A hatálybalépés időpontja 2012. március 8.
 [^85]: A hatálybalépés időpontja 2012. március 8.
+[^86]: A 30. § (4) bekezdését a 140/2013. (V.13.) Korm. rendelet 2. §-a iktatta be.
+[^87]: A hatálybalépés időpontja 2013. május 14.
