@@ -2,6 +2,6 @@
 
 (2) A befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár az ellátásra, illetve támogatásra irányuló kérelmét a szálláshelye szerint illetékes regionális igazgatóság bírálja el.
 
-(3)[^152]
+(3)[^154]
 
-[^152]: A 76. § (3) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.
+[^154]: A 76. § (3) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.

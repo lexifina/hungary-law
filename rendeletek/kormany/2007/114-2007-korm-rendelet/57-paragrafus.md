@@ -1,4 +1,4 @@
-57. §[^120] (1)[^121] A menekültként, vagy oltalmazottként elismert személy családtagja tartózkodási engedély átvételére jogosító vízum, illetve tartózkodási engedély iránti kérelméről a menekültügyi hatóságot értesíteni kell.
+57. §[^121] (1)[^122] A menekültként, vagy oltalmazottként elismert személy családtagja tartózkodási engedély átvételére jogosító vízum, illetve tartózkodási engedély iránti kérelméről a menekültügyi hatóságot értesíteni kell.
 
 (2) A menekültként vagy oltalmazottként elismert személyhez történő családegyesítés során a családi kapcsolat fennállása bármilyen hitelt érdemlő módon – különösen DNS- vizsgálattal – igazolható.
 
@@ -12,5 +12,5 @@
 
 (7) A (6) bekezdésekben foglalt kedvezmények az oltalmazottként elismert harmadik országbeli állampolgár családtagja által benyújtott tartózkodási engedély iránti kérelem esetén nem alkalmazhatóak.
 
-[^120]: Az 57. § a 290/2010. (XII. 21.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^121]: Az 57. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^121]: Az 57. § a 290/2010. (XII. 21.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^122]: Az 57. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.

@@ -2,11 +2,11 @@
 
 (2) Az engedélyezett tartózkodás időtartamát – a (3) és (4) bekezdésben foglalt kivétellel – úgy kell megállapítani, hogy a harmadik országbeli állampolgár úti okmánya az engedélyezett tartózkodás lejártakor még legalább három hónapig érvényes legyen.
 
-(3)[^110] Ha a harmadik országbeli állampolgár tartózkodásának célja tanulmányok folytatása vagy kutatás vagy az EU Kék Kártya megszerzése, úti okmánya érvényességi idejének legfeljebb az engedélyezett tartózkodás időtartamát kell lefednie.
+(3)[^111] Ha a harmadik országbeli állampolgár tartózkodásának célja tanulmányok folytatása vagy kutatás vagy az EU Kék Kártya megszerzése, úti okmánya érvényességi idejének legfeljebb az engedélyezett tartózkodás időtartamát kell lefednie.
 
 (4) A regionális igazgatóság a (2) bekezdésben foglalt, az úti okmány érvényességi idejére vonatkozó feltételtől – kivételesen – nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből eltekinthet, feltéve, hogy az úti okmány érvényességi ideje meghaladja az engedélyezett tartózkodás időtartamát.
 
-(5)[^111] A tartózkodási engedély érvényességi ideje alatt a tartózkodási cél megváltozására tekintettel benyújtott tartózkodási engedély kérelem esetén a tartózkodási engedély érvényességét a regionális igazgatóság az előző tartózkodási engedély érvényességi idejénél rövidebb időtartamra is megállapíthatja. A tartózkodási engedély érvényessége azonban a megváltozott tartózkodási cél vonatkozásában a Tv.-ben megállapított időtartamot nem haladhatja meg. A korábban kiadott tartózkodási engedélyt a regionális igazgatóság érvényteleníti.
+(5)[^112] A tartózkodási engedély érvényességi ideje alatt a tartózkodási cél megváltozására tekintettel benyújtott tartózkodási engedély kérelem esetén a tartózkodási engedély érvényességét a regionális igazgatóság az előző tartózkodási engedély érvényességi idejénél rövidebb időtartamra is megállapíthatja. A tartózkodási engedély érvényessége azonban a megváltozott tartózkodási cél vonatkozásában a Tv.-ben megállapított időtartamot nem haladhatja meg. A korábban kiadott tartózkodási engedélyt a regionális igazgatóság érvényteleníti.
 
-[^110]: Az 51. § (3) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^111]: Az 51. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 38. §-a iktatta be.
+[^111]: Az 51. § (3) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^112]: Az 51. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 38. §-a iktatta be.

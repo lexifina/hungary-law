@@ -1,6 +1,6 @@
 95. § (1) A magyarországi megélhetés különösen a következő okiratokkal igazolható:
 
-a)[^174] magyarországi hitelintézetnél készpénz-megtakarítást igazoló, hitelintézeti igazolással;
+a)[^176] magyarországi hitelintézetnél készpénz-megtakarítást igazoló, hitelintézeti igazolással;
 
 b) a megélhetést biztosító magyarországi vagyon, vagyoni értékű jog, vagyoni érték meglétét igazoló közokirattal vagy teljes bizonyító erejű magánokirattal;
 
@@ -8,9 +8,9 @@ c) a magyar jog hatálya alá tartozó rendszeres, munkavégzésre irányuló jo
 
 d) egyéb magyarországi rendszeres, jövedelemszerző tevékenységből származó, közokirattal vagy más módon igazolt adóköteles jövedelemmel;
 
-e)[^175] külföldről folyósított rendszeres jövedelemről szóló magyar hitelintézeti igazolással;
+e)[^177] külföldről folyósított rendszeres jövedelemről szóló magyar hitelintézeti igazolással;
 
-f)[^176] a Magyarországon élő családtag által tett, közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozattal, valamint a tartást vállaló személy tartási képességét igazoló okirattal.
+f)[^178] a Magyarországon élő családtag által tett, közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozattal, valamint a tartást vállaló személy tartási képességét igazoló okirattal.
 
 (2) A magyarországi megélhetés értékelésekor különösen az alábbi szempontokat kell figyelembe venni:
 
@@ -48,11 +48,11 @@ a) a kérelmező magyarországi lakásának tulajdonjogát igazoló, három hón
 
 b) lakásbérleti jogviszonyt igazoló lakásbérleti szerződéssel; illetőleg
 
-c)[^177] a Magyarországon élő családtag közjegyzői okiratba foglalt, a kérelmező lakhatását biztosító nyilatkozatával.
+c)[^179] a Magyarországon élő családtag közjegyzői okiratba foglalt, a kérelmező lakhatását biztosító nyilatkozatával.
 
 (6) Nem kell csatolni a lakhatás feltételeit igazoló okiratot, ha a tartózkodási engedély kiadása vagy meghosszabbítása iránti eljárásban a kérelmező azt már csatolta, és a harmadik országbeli állampolgár bejelentett szálláshelye nem változott meg.
 
-[^174]: A 95. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^175]: A 95. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^176]: A 95. § (1) bekezdés f) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.
-[^177]: A 95. § (5) bekezdés c) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^176]: A 95. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^177]: A 95. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^178]: A 95. § (1) bekezdés f) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^179]: A 95. § (5) bekezdés c) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.
