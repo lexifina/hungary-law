@@ -12,7 +12,7 @@
 
 ## Határidő: 2013. november 15.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1599/2012. (XII. 17.) Korm. határozatban a „2013. március 31.” szövegrész helyébe a „2013. december 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1263/2013. (V. 14.) Korm. határozathoz
 
@@ -87,3 +87,5 @@ Millió forintban, egy tizedessel
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
