@@ -1,1 +1,0 @@
-## 1. § A központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet (a továbbiakban: R.) 5. § (3) bekezdésében a „köteles elutasítani” szövegrész helyébe az „elutasíthatja” szöveg lép.
