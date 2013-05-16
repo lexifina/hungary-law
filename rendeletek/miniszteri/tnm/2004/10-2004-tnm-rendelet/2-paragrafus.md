@@ -1,5 +1,3 @@
-## a ROP végrehajtása tekintetében közreműködő szervezetként kijelöli.
-
 2. § (1) Az 1. § a) pontjában megjelölt közreműködő szervezet kötelezettségeire a külön jogszabályban[^2] foglaltakon túl a 2. § (2)–(7) bekezdései irányadóak.
 
 (2) A közreműködő szervezet a Regionális Fejlesztés Operatív Program Irányító Hatóság (a továbbiakban: ROP IH) által megadott szempontok figyelembevételével a ROP IH számára minőségbiztosítási feladatot lát el az 1. § b) pontjában megjelölt közreműködő szervezetek pályázatkezeléssel kapcsolatos kötelezettségei teljesítése körében keletkezett dokumentumok vonatkozásában.
