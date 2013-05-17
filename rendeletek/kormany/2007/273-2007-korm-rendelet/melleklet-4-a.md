@@ -1,4 +1,4 @@
-4a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^360]
+4a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^361]
 
 A villamosenergia-rendszer üzemét lényegesen befolyásoló erőmű elvi engedélye iránti kérelemhez benyújtandó dokumentumok
 
@@ -66,4 +66,4 @@ b) annak bemutatása, hogy a tervezett gépegység a rendszerszintű szolgáltat
 
 3.9. a megvalósítás tervezett ütemterve.
 
-[^360]: A Vhr. 4a. számú mellékletét a 378/2011. (XII. 31.) Korm. rendelet 31. § (4) bekezdése iktatta be.
+[^361]: A Vhr. 4a. számú mellékletét a 378/2011. (XII. 31.) Korm. rendelet 31. § (4) bekezdése iktatta be.
