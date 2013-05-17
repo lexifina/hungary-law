@@ -16,7 +16,9 @@ e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi 
 
 f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
 
-g) Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
+g) Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket,
+
+h)[^188] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő Zrt.-vel bérleti jogviszonyban áll.
 
 (2) E cím alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -41,3 +43,4 @@ eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazo
 (9) Jogosultságának a GET 66. § (6) bekezdése szerinti ismételt igazolására a szociálisan rászoruló fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
 [^187]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^188]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be.

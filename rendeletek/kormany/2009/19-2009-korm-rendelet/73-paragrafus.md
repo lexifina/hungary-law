@@ -2,7 +2,7 @@
 
 ## Kapacitáslekötés és az együttműködő földgázrendszerhez való hozzáférés
 
-73. §[^241] (1)[^242] A rendszerüzemeltetői szolgáltatások a GET-ben és az e rendeletben meghatározott követelményeknek megfelelő kapacitáslekötési szerződéssel vehetők igénybe. A szerződés mellékleteként a rendszerhasználó köteles elfogadni az ÜKSZ előírásait és a külön jogszabályban meghatározott pótdíjak, egyensúlyozási költségek érvényesíthetőségét.
+73. §[^242] (1)[^243] A rendszerüzemeltetői szolgáltatások a GET-ben és az e rendeletben meghatározott követelményeknek megfelelő kapacitáslekötési szerződéssel vehetők igénybe. A szerződés mellékleteként a rendszerhasználó köteles elfogadni az ÜKSZ előírásait és a külön jogszabályban meghatározott pótdíjak, egyensúlyozási költségek érvényesíthetőségét.
 
 (2) A földgázelosztási szolgáltatást végző rendszerüzemeltető a GET 71. § (4) bekezdése alapján köteles nyilvántartani az adott felhasználási hely és a felhasználó ÜKSZ-ben meghatározott, de legalább a következő adatait:
 
@@ -32,5 +32,5 @@ h) a felhasználó azonosításához szükséges adatokat és fogyasztási adata
 
 (7) Ha a GET 71. § (3) bekezdése szerinti kapacitás igénybevételi korlát esetében a vásárolt kapacitás terhére felmerült többlet vásárolt kapacitásigény az adott gázátadón a szállítórendszer beadási és kiadási kapacitásainak vagy az elosztóvezeték fejlesztése nélkül nem teljesíthető, annak igénybevételét a szállítási rendszerüzemeltető és a földgázelosztó a 10 éves hálózatfejlesztési terv szerinti szállítói fejlesztési terv ütemezésének megfelelően biztosítja.
 
-[^241]: A Vhr. 73. §-a a 378/2011. (XII. 31.) Korm. rendelet 57. §-ával megállapított szöveg.
-[^242]: A Vhr. 73. § (1) bekezdése a 99/2013. (III. 30.) Korm. rendelet 3. § 4. pontja szerint módosított szöveg.
+[^242]: A Vhr. 73. §-a a 378/2011. (XII. 31.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^243]: A Vhr. 73. § (1) bekezdése a 99/2013. (III. 30.) Korm. rendelet 3. § 4. pontja szerint módosított szöveg.

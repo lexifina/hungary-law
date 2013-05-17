@@ -1,4 +1,4 @@
-139. §[^421] (1) A megfelelési ellenőr a megfelelési jelentést minden év március 1-jéig jóváhagyásra benyújtja a Hivatalhoz.
+139. §[^422] (1) A megfelelési ellenőr a megfelelési jelentést minden év március 1-jéig jóváhagyásra benyújtja a Hivatalhoz.
 
 (2) A megfelelési jelentés a vertikálisan integrált földgázipari vállalkozáson belül nem képezheti jóváhagyás tárgyát.
 
@@ -26,4 +26,4 @@ j) az önálló vállalati arculat, a vertikálisan integrált földgázipari v�
 
 (4) Megtévesztő vagy valótlan információk közlése esetén a Hivatal a megfelelési jelentés jóváhagyása iránti kérelmet elutasítja és a rendszerüzemeltetővel szemben a GET 119. §-a szerinti jogkövetkezményeket alkalmazza.
 
-[^421]: A Vhr. 139. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^422]: A Vhr. 139. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.

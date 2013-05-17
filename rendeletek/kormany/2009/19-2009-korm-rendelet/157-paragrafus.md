@@ -1,3 +1,3 @@
-157. §[^471]
+157. §[^472]
 
-[^471]: A Vhr. 157. §-át a 99/2013. (III. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^472]: A Vhr. 157. §-át a 99/2013. (III. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.

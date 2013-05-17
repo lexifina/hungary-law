@@ -1,8 +1,8 @@
-89. §[^283] (1)[^284] A kapacitás lekötéshez a szállítási rendszerüzemeltető minden év február 15-ig elkészíti és honlapján nyilvánossá teszi a kiadási pontokon a következő gázévben biztosítható földgáz minőségi jellemzőket.
+89. §[^284] (1)[^285] A kapacitás lekötéshez a szállítási rendszerüzemeltető minden év február 15-ig elkészíti és honlapján nyilvánossá teszi a kiadási pontokon a következő gázévben biztosítható földgáz minőségi jellemzőket.
 
-(2)[^285] A rendszerhasználók, illetve a termelők kötelesek minden év december 31-ig az ÜKSZ-ben rögzített módon megadni a szállítási rendszerüzemeltetőnek a következő gázévben a forrásoldali betáplálás során általuk garantált földgáz minőségi jellemzőket. A kapott adatok alapján a szállítási rendszerüzemeltető meghatározza a földgáz minőségi jellemzők kiadási ponton biztosítható értékeit.
+(2)[^286] A rendszerhasználók, illetve a termelők kötelesek minden év december 31-ig az ÜKSZ-ben rögzített módon megadni a szállítási rendszerüzemeltetőnek a következő gázévben a forrásoldali betáplálás során általuk garantált földgáz minőségi jellemzőket. A kapott adatok alapján a szállítási rendszerüzemeltető meghatározza a földgáz minőségi jellemzők kiadási ponton biztosítható értékeit.
 
-(3)[^286] Ha a betáplált földgáz szállítási rendszerüzemeltető által meghatározott garantált minősége folyamatosan 90 napon keresztül nem teljesül, a rendszerüzemeltetők, rendszerhasználók jogosultak annak módosítását kezdeményezni.
+(3)[^287] Ha a betáplált földgáz szállítási rendszerüzemeltető által meghatározott garantált minősége folyamatosan 90 napon keresztül nem teljesül, a rendszerüzemeltetők, rendszerhasználók jogosultak annak módosítását kezdeményezni.
 
 (4) A minőségi eltérések kezelésének részletes szabályait az ÜKSZ tartalmazza.
 
@@ -14,7 +14,7 @@ b) az igénybejelentés és nyilvántartásba vétel határidejét,
 
 c) a nyilvántartott, de nem igényelt kapacitások átlátható értékesítésének részletes feltételeit.
 
-[^283]: A Vhr. 89. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^284]: A Vhr. 89. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^285]: A Vhr. 89. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^286]: A Vhr. 89. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+[^284]: A Vhr. 89. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^285]: A Vhr. 89. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+[^286]: A Vhr. 89. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+[^287]: A Vhr. 89. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
