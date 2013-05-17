@@ -1,0 +1,13 @@
+2. § (1) A belügyminiszter által irányított rendvédelmi szerv (a továbbiakban: rendvédelmi szerv), valamint a Bevándorlási és Állampolgársági Hivatal felkészül a NATO Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedések Gyűjteményében meghatározott honvédelmi feladatai teljesítésére.
+
+(2) Az (1) bekezdésben meghatározott feladat teljesítése mellett a rendvédelmi szerv
+
+a) támogatja a Magyar Honvédséget és a szövetséges fegyveres erőket egyes feladatok végrehajtásában,
+
+b) végrehajtja a befogadó nemzeti támogatással kapcsolatos feladatait,
+
+c) részt vesz a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatok ellátásában,
+
+d) együttműködik a védelmi igazgatás szerveivel a honvédelmi feladatok ellátásában, továbbá
+
+e) honvédelmi intézkedési tervet készít.
