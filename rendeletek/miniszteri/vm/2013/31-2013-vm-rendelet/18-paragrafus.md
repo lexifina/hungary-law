@@ -1,0 +1,5 @@
+## 17. § Az 50/2012. (V. 25.) VM rendelet 17. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) Az MVH a június 30. után benyújtott – a 4–6. §-ban foglaltaknak megfelelő – megállapodás, továbbá a módosított megállapodás jóváhagyása iránti kérelmet is jóváhagyja, de ebben az esetben a megállapodások alapján igényelhető, az 1. mellékletben meghatározott támogatás mértékét a késedelmes benyújtás minden egyes napja után 10%-kal csökkenti.
+
+## (2) Ha a fenntartó egy köznevelési intézmény vonatkozásában az adott tanítási év vonatkozásában – ugyanazon év benyújtási időszakában benyújtandó – több jóváhagyható megállapodást is kötött, akkor az MVH a fenntartó által – a 4. § (1) bekezdésben foglaltak sérelme nélkül – a 7. § (1) bekezdésben meghatározott benyújtási időszak végét megelőző legkésőbbi időpontban megkötött megállapodást veszi figyelembe. Ugyanazon a napon megkötött megállapodások esetén a 7. § (1) bekezdés szerinti, az MVH-nál korábban érkeztetett jóváhagyási kérelemben szereplő megállapodást kell figyelembe venni.”

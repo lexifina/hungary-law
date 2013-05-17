@@ -1,0 +1,5 @@
+## „(5) Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyása iránti kérelemről hozott döntését minden év augusztus 31-éig közli a kérelmezővel. Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyásakor a szállítható termékeket és termékmennyiségeket a jóváhagyást követő tanévre a 6. § (4) bekezdése szerinti teljesítési időszakonként külön-külön határozza meg. A kérelmező köteles a megállapodás, továbbá a módosított megállapodás jóváhagyásáról, valamint a megállapodásra vonatkozóan a részére jóváhagyott termékmennyiségekről a fenntartót tájékoztatni.
+
+## (6) Az MVH a jóváhagyott megállapodások alapján a köznevelési intézményekbe szállítható termékek és termékmennyiségek listáját közzéteszi a honlapján.
+
+## (7) A kérelmező jogosult az általa megkötött megállapodások alapján az egyes teljesítési időszakokban termékenként szállítható mennyiségeket az adott teljesítési időszakban köznevelési intézményenként és termékenként jóváhagyott mennyiség 10%-áig átcsoportosítani annak érdekében, hogy a megállapodás megkötése és a teljesítési időszak kezdete között bekövetkező létszámváltozásokat kiegyenlítse.”

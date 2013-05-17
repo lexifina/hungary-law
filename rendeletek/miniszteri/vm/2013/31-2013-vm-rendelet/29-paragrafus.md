@@ -1,4 +1,4 @@
-## 28. §[^6]
+## 28. §[^5]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. alcím e rendelet kihirdetését követő tizenötödik napon lép hatályba.
 
-[^6]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
