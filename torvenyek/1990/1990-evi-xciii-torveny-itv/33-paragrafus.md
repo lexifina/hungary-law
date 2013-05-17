@@ -114,7 +114,7 @@ történik a kiállítása;
 
 37. A hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat,
 
-38. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás.
+38.
 
 38. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás.
 
@@ -122,4 +122,6 @@ történik a kiállítása;
 
 40. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi;
 
-41. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány.
+41. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
+
+41. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
