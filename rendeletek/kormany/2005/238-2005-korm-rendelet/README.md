@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-238-20-
 | 2010-05-28 | 2005-238-20-22.7 | 177/2010. (V. 13.) Korm. rendelet |
 | 2011-01-01 | 2005-238-20-22.8 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2013-01-01 | 2005-238-20-22.9 | 322/2012. (XI. 16.) Korm. rendelet |
+| 2013-05-17 | 2005-238-20-22.10 | 322/2012. (XI. 16.) Korm. rendelet |
