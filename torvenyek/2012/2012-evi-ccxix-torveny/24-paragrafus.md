@@ -1,4 +1,4 @@
-24. § (1) A hegyközségi tanács kizárólagos hatáskörébe tartozik
+24. § (1) A hegyközségi tanács, ennek hiányában a hegyközségi választmány kizárólagos hatáskörébe tartozik
 
 a) a 2011. december 31-e előtt benyújtott – a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet szerinti – termékleírással,
 

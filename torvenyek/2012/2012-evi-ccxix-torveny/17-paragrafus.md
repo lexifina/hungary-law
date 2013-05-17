@@ -2,7 +2,7 @@
 
 17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a borvidéken kívül a szőlészeti és borászati termelő tevékenységet végző nyilvántartásba vételi kötelezettsége azon hónapot követő hónap első napjával keletkezik, amelyben a tevékenységét megkezdi.
 
-(2) A szőlészeti és borászati felvásárló nyilvántartásba vételi kötelezettsége azon hónapot követő hónap első napjával keletkezik, amelyben a tevékenységét megkezdi.
+(2) A szőlészeti és borászati felvásárló nyilvántartásba vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
 (3) A szőlészeti és borászati felvásárló és a nem borvidéki településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni a nevét (cégnevét), lakóhelyét (székhelyét, telephelyét), adóazonosító jelét vagy adószámát, a mezőgazdasági és vidékfejlesztési támogatási szerv által adott regisztrációs számát, és a miniszter e törvény felhatalmazása alapján kiadott rendelete szerinti egyéb, személyes adatnak nem minősülő adatokat.
 

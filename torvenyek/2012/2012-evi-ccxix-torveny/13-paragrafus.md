@@ -18,7 +18,7 @@ e) aki a tisztségviselői tevékenységtől, mint foglalkozástól eltiltó jog
 
 (4) Nem választható meg tisztségviselőnek, akinek hegyközségi járuléktartozása áll fent, illetve adatszolgáltatási kötelezettségének nem tett eleget.
 
-(5) Azt a tényt, hogy a (2) bekezdés d) és e) pontja szerinti kizáró okok nem állnak fenn, a tisztségre jelölt személy hatósági bizonyítvánnyal igazolja.
+(5) Azt a tényt, hogy a (2) bekezdés d) és e) pontja szerinti kizáró okok nem állnak fenn, a tisztségviselő személy hatósági bizonyítvánnyal igazolja.
 
 (6) A hegyközségi tanács titkára a tisztségviselői megbízatás időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi a tisztségviselő tekintetében a (2) bekezdés d) és e) pontja szerinti kizáró ok fennállását. A hatósági ellenőrzés céljából a hegyközségi tanács titkára adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tisztségviselő büntetlen előéletű-e, valamint hogy a tisztségviselői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 

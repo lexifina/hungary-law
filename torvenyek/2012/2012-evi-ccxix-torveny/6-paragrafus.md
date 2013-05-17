@@ -20,17 +20,17 @@ e) a hegyközségi járulék mértékének meghatározása.
 
 (5) A közgyűlésen
 
-a) a szőlészeti termelőt a szüreti jelentésben szereplő ültetvénye területe alapján minden megkezdett hektár után egy szavazat,
+a) a szőlőültetvénnyel rendelkező hegyközségi tagot a szüreti jelentésben szereplő ültetvénye területe alapján minden megkezdett hektár után egy szavazat,
 
-b) a hegybíró nyilvántartása alapján szőlőültetvénnyel nem rendelkező borászati termelőt egy szavazat
+b) a hegybíró nyilvántartása alapján szőlőültetvénnyel nem rendelkező hegyközségi tagot egy szavazat
 
 illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát birtokolhatja akkor is, ha az a) pont alapján többre lenne jogosult.
 
-(6) A közgyűlésen az a tag rendelkezik szavazati joggal, akinek nincs hegyközségi járuléktartozása, és adatszolgáltatási kötelezettségének eleget tett.
+(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig az év első közgyűlésének napját megelőzően legalább öt nappal eleget tett.
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 
-(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők és azon szőlészeti termelők választják meg, akiknél az általuk feldolgozott szőlő vagy bor több mint fele felvásárlásból származik.
+(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők választják meg.
 
 (9) A határozathozatal és a tisztségviselők választásának rendjét az alapszabályban kell meghatározni.
 

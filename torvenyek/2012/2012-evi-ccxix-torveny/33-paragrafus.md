@@ -14,7 +14,7 @@ b) gondoskodhat – a helyi önkormányzattal együttműködve – a működési
 
 c) szolgáltatásokkal és szaktanácsadással segíti tagjai gazdálkodását;
 
-d) védi a hegyközség szőlészeti termelőinek érdekeit és tájékoztatást ad a tagok tevékenységét segítő, közérdekű információkról;
+d) védi a hegyközség szőlészeti és borászati termelőinek érdekeit és tájékoztatást ad a tagok tevékenységét segítő, közérdekű információkról;
 
 e) ellenőrzi tagjainál a hegyközség feladatkörét érintő rendtartási előírások betartását;
 

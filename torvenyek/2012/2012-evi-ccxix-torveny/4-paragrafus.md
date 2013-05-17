@@ -2,11 +2,11 @@
 
 4. § E törvény és e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:
 
-a) szőlészeti termelő: aki 1000 m2-nél nagyobb területen borszőlőt művel, vagy területnagyságtól függetlenül borszőlőültetvényének termését árutermelés céljából feldolgozza, illetve értékesíti,
+a) szőlészeti termelő: aki 1000 m2-nél nagyobb területen borszőlőt művel, vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, és nem minősül borászati termelőnek,
 
-b) borászati termelő: aki borszőlőt, mustot, illetve bort árutermelési célú tovább-feldolgozás – ide nem értve a földrajzi jelzés nélkül forgalomba hozott bor előállítását – céljából vásárol,
+b) borászati termelő: aki borászati terméket értékesítés céljából állít elő,
 
-c) szőlészeti és borászati felvásárló: aki borszőlőt, mustot, illetve bort tovább-feldolgozási célú továbbértékesítés, vagy földrajzi jelzés nélkül forgalomba hozott bor előállítása céljából vásárol,
+c) szőlészeti és borászati felvásárló: aki borszőlőt, mustot, illetve bort tovább-feldolgozási célú továbbértékesítés céljából vásárol,
 
 d) borvidék: a szőlőtermesztésről és a borgazdálkodásról szóló törvény szerinti borvidék,
 

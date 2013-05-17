@@ -36,7 +36,7 @@ j) a szőlőtermelőnek a szőlőterületére, szőlőfajtáira, a tárgyévi te
 
 (6) A hegybíró a közgyűlésen és a választmány ülésén beszámol a tevékenységéről.
 
-(7) A hegybírói tisztség betöltésére a pályázatot a hegyközség választmánya írja ki. A hegybíró személyére a beérkezett pályázatok értékelése alapján a Hegyközségek Nemzeti Tanácsa felé a választmány tesz javaslatot. A hegybíró felett a munkáltatói jogokat a kinevezés és felmentés tekintetében a Hegyközségek Nemzeti Tanácsának főtitkára, más munkáltatói jogok tekintetében a hegyközségi tanács titkára gyakorolja. A hegybíró kinevezése határozatlan időre szól. A 22. § (1) bekezdés szerint működő hegyközség esetében a hegybíró felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
+(7) A hegybírói tisztség betöltésére a pályázatot a hegyközség választmánya írja ki. A hegybíró személyére a beérkezett pályázatok értékelése alapján a Hegyközségek Nemzeti Tanácsa felé a választmány tesz javaslatot. A hegybíró munkáltatója – az 58. § (4) bekezdésben foglalt eltéréssel – Hegyközségek Nemzeti Tanácsa. A hegybíró felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja, aki e jogok gyakorlására – a kinevezés és felmentés kivételével – a hegyközségi tanács titkárát is feljogosíthatja. A hegybíró kinevezése határozatlan időre szól. A 22. § (1) bekezdés szerint működő hegyközség esetében a hegybíró felett a munkáltatói jogok teljes körét a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
 
 (8) Hegybíró csak olyan személy lehet, aki
 
