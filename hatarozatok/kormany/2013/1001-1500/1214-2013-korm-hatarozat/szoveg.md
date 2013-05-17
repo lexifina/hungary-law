@@ -1,8 +1,8 @@
 A Kormány
 
-1. felhatalmazza a miniszterelnököt, hogy a Magyarország Kormánya és a Siemens termelő, szolgáltató és kereskedelmi zártkörűen működő részvénytársaság (székhely: 1143 Budapest, Gizella út 51–57., cégjegyzékszám: 01-10-041548) között kötendő stratégiai együttműködési megállapodást a Kormány nevében aláírja.
+1.[^1] felhatalmazza a nemzetgazdasági minisztert, hogy a Magyarország Kormánya és a Siemens termelő, szolgáltató és kereskedelmi zártkörűen működő részvénytársaság (székhely: 1143 Budapest, Gizella út 51–57., cégjegyzékszám: 01-10-041548) között kötendő stratégiai együttműködési megállapodást a Kormány nevében aláírja.
 
-Felelős: miniszterelnök
+Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
@@ -11,3 +11,5 @@ Határidő: azonnal
 Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
+
+[^1]: Az 1. pont az 1271/2013. (V. 17.) Korm. határozat szerint módosított szöveg.
