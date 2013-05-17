@@ -1,32 +1,40 @@
 ## Az iskolagyümölcs szállítására vonatkozó megállapodás-minta
 
-| MEGÁLLAPODÁS |
+## MEGÁLLAPODÁS
 
-| amely létrejött egyrészről a |
+## amely létrejött egyrészről a
 
-| székhelye: |
+## székhelye:
 
-| adószáma: |
+## adószáma:
 
-| regisztrációs száma: |
+## ügyfél-azonosító:
 
-| képviseli: | (a továbbiakban mint szállító), |
+## képviseli: (a továbbiakban mint szállító),
 
-| másrészről a |
+## másrészről a
 
-| székhelye: |
+## székhelye:
 
-| adószáma: |
+## adószáma:
 
-| OM azonosító száma: |
+## képviseli: (a továbbiakban mint fenntartó),
 
-| képviseli: | (a továbbiakban mint átvevő) |
+## között az alulírott helyen és napon az alábbi köznevelési intézmény vonatkozásában:
 
-| között az alulírott helyen és napon az alábbi feltételek mellett: |
+## neve:
+
+## székhelye:
+
+## OM azonosító száma:
+
+## képviseli: (a továbbiakban mint átvevő)
+
+## az alábbi feltételek mellett:
 
 ## 1. A megállapodás tárgya
 
-## A szállító vállalja, hogy a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 1234/2007/EK tanácsi rendelet (az egységes közös piacszervezésről szóló rendelet) 103ga. cikkében meghatározott iskolagyümölcs-program keretében a 2. és 5. pontban meghatározott termékeket szállít az átvevő részére, az átvevő pedig vállalja, hogy a terméket átveszi és az 1–4. osztályos tanulói részére kiosztja.
+## A szállító vállalja, hogy a 20…/20… (-20…/20…) tanév(ek)ben a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 1234/2007/EK tanácsi rendelet (az egységes közös piacszervezésről szóló rendelet) 103ga. cikkében meghatározott iskolagyümölcs-program keretében a 2. és 5. pontban meghatározott termékeket szállít az átvevő részére, a fenntartó vállalja, hogy az átvevő a terméket átveszi és az 1–6. osztályos tanulói részére kiosztja.
 
 ## 2. A szállítandó termék
 
@@ -34,27 +42,27 @@
 
 ## A szállítandó termék származási helye:
 
-## ⬜ Magyarország;
+## □ Magyarország;
 
-## ⬜ EU.
+## □ EU.
 
 ## Magas minőségű termékek tervezett aránya a szállítandó teljes mennyiség %-ában:
 
-## Integrált termelésből származó termék aránya: ⬜ ⬜ ⬜ %
+## Integrált termelésből származó termék aránya: □□□%
 
-## Global gap tanúsítvánnyal rendelkező termék aránya: ⬜ ⬜ ⬜ %
+## Global gap tanúsítvánnyal rendelkező termék aránya: □□□%
 
-## Bio termék aránya: ⬜ ⬜ ⬜ %
+## Bio termék aránya: □□□%
 
 ## 3. A teljesítés helyszíne, helyszínei
 
-## A közoktatási intézmény székhelye:
+## A köznevelési intézmény székhelye:
 
-| ⬜ ⬜ ⬜ ⬜ ............................................................. (helység) | (út/utca/tér) ............................. (házszám) |
+## □□□□ ............................................... (helység) ..................................................................... (út/utca/tér) ........ (házszám)
 
-| A tagintézmény neve: |
+## A tagintézmény neve:
 
-| ⬜ ⬜ ⬜ ⬜ ............................................................(helység) | (út/utca/tér) ............................. (házszám) |
+## □□□□ ............................................... (helység) ..................................................................... (út/utca/tér) ........ (házszám)
 
 ## 4. A teljesítési időszak és a szállítások ütemezése
 
@@ -68,69 +76,55 @@
 
 ## d) negyedik teljesítési időszak
 
-| A teljesítési időszak alatti szállítások száma: | alkalom/hét. |
+## A teljesítési időszak alatti szállítások száma (szállítási gyakoriság): .................................... alkalom/hét.
 
 ## 5. A szállítás időtartama és a szállítandó termék tanulónkénti mennyisége
 
-## A 4. a) pont szerinti időszakban
+## Az 1–6. osztályos tanulók száma: ................................ tanuló (B)
 
-## A tanulók száma: .................. tanuló (B)
+## A 4. a) pont szerinti időszakban a szállítás időtartama: ........................ hét (C)
 
-## A szállítás időtartama: ............ hét (C)
+|  | A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
 
-| A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
+## A 4. b) pont szerinti időszakban a szállítás időtartama: ................ hét (C)
 
-| Összesen: |  |
+|  | A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
 
-## A 4. b) pont szerinti időszakban
+## A 4. c) pont szerinti időszakban a szállítás időtartama: ............... hét (C)
 
-## A tanulók száma: ............. tanuló (B)
+|  | A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
 
-## A szállítás időtartama: ................ hét (C)
+## A 4. d) pont szerinti időszakban a szállítás időtartama: ............... hét (C)
 
-| A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
-
-| Összesen: |  |
-
-## A 4. c) pont szerinti időszakban
-
-## A tanulók száma: .............. tanuló (B)
-
-## A szállítás időtartama: ............... hét (C)
-
-| A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
-
-| Összesen: |  |
-
-## A 4. d) pont szerinti időszakban
-
-## A tanulók száma: ................. tanuló (B)
-
-## A szállítás időtartama: ............... hét (C)
-
-| A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
-
-| Összesen: |  |
+|  | A szállítandó termék megnevezése | A tanulónként kiosztásra kerülő termék mennyisége (adag/hét) (A) | A szállítandó termék teljes mennyisége (adag) (A x B x C) |
 
 ## 6. A termék kiosztásának időpontja:
 
-## ⬜ első tanóra előtt;
+## □ első tanóra előtt;
 
-## ⬜ tanórán;
+## □ tanórán;
 
-## ⬜ tanórák közti szünetben;
+## □ tanórák közti szünetben;
 
-## ⬜ tízórai szünetben;
+## □ tízórai szünetben;
 
-## ⬜ napköziben;
+## □ napköziben;
 
-## ⬜ egyéb: .....................................................
+## □ egyéb: .....................................................
 
 ## 7. Számlázás
 
-## A leszállított termékről a szállító havonta vagy szállítási időszakonként egy, az átadott termék adagban kifejezett mennyiségét és az átvevő OM azonosítóját is tartalmazó határozott időre szóló elszámolásról szóló számlát vagy gyűjtőszámlát állít ki. A számlán kiszámlázott ellenértéket a szállító által igényelhető támogatás fedezi.
+## A leszállított termékről a szállító a fenntartó részére havonta vagy szállítási időszakonként egy, az átadott termék adagban kifejezett mennyiségét teljesítési helyszínenként, az átvevő nevét, címét és OM azonosítóját, valamint az egyes szállítások időpontjait, továbbá a szállítólevelek számát is tartalmazó
 
-## 8. Számviteli elszámolás az átvevőnél, ha az költségvetési szerv
+## □ határozott időre szóló elszámolásról szóló számlát vagy
+
+## □ gyűjtőszámlát állít ki.
+
+## A számlán kiszámlázott ellenértéket a szállító által igényelhető támogatás fedezi.
+
+## A Kormány által rendeletben a köznevelési intézmények fenntartására kijelölt szerv által kötött szerződések esetében a számlákat a köznevelési intézmény székhelye szerint illetékes tankerület részére kell megküldeni.
+
+## 8. Számviteli elszámolás a fenntartónál
 
 ## a) A szállító számlájának elszámolása, nyilvántartásba vétele
 
@@ -166,53 +160,53 @@
 
 ## A jelen megállapodás 4. pontjában meghatározott szállítási időszakok alatt az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 3. mellékletében meghatározott kísérő intézkedések megvalósításáért felelős szerződő fél:
 
-## ⬜ szállító;
+## □ szállító;
 
-## ⬜ átvevő;
+## □ fenntartó;
 
-## ⬜ közösen.
+## □ közösen.
 
 ## A kísérő intézkedések, amelyeket az időszak alatt megvalósít:
 
-## ⬜ Az iskolagyümölcs-programmal kapcsolatos interaktív honlap létrehozása.
+## □ Az iskolagyümölcs-programmal kapcsolatos interaktív honlap létrehozása.
 
-## ⬜ Zöldség-gyümölcs termelői csoportokhoz, termelői szervezetekhez, termelőkhöz szervezett tanulmányutak.
+## □ Zöldség-gyümölcs termelői csoportokhoz, termelői szervezetekhez, termelőkhöz szervezett tanulmányutak.
 
-## ⬜ Oktatási segédanyag készítése, készíttetése és annak alkalmazása az egészséges étkezési szokásokat érintő ismeretek fejlesztése érdekében.
+## □ Oktatási segédanyag készítése, készíttetése és annak alkalmazása az egészséges étkezési szokásokat érintő ismeretek fejlesztése érdekében.
 
-## ⬜ A gyümölcs- és zöldségágazatot vagy az egészséges étkezési szokásokat érintő ismeretek oktatása.
+## □ A gyümölcs- és zöldségágazatot vagy az egészséges étkezési szokásokat érintő ismeretek oktatása.
 
-## ⬜ A tanulók zöldség-, gyümölcsfogyasztásának és egészséges életmódjának ösztönzése érdekében szervezett verseny, pályázat, adott jutalom (apró ajándékok, pl. póló, matricák, kitűzők, írószerek, órarend, naptár, uzsonnás doboz, sportszer stb.).
+## □ A tanulók zöldség-, gyümölcsfogyasztásának és egészséges életmódjának ösztönzése érdekében szervezett verseny, pályázat, adott jutalom (apró ajándékok, pl. póló, matricák, kitűzők, írószerek, órarend, naptár, uzsonnás doboz, sportszer stb.).
 
-## ⬜ Kóstoltatás: legalább egy alkalommal 4 gyümölcs- és 4 zöldségféle biztosítása tanulónként és gyümölcs- és zöldségféleségenként az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 3. melléklet 6. pontja szerinti mennyiségben.
+## □ Kóstoltatás: legalább egy alkalommal 4 gyümölcs- és 4 zöldségféle biztosítása tanulónként és gyümölcs- és zöldségféleségenként az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 3. melléklet 6. pontja szerinti mennyiségben.
 
 ## A kísérő intézkedések tervezett költsége: ................................................. Ft
 
 ## A kísérő intézkedés megvalósításának földrajzi kiterjedése, elérhetősége:
 
-## ⬜ helyi;
+## □ helyi;
 
-## ⬜ régiós;
+## □ régiós;
 
-## ⬜ országos.
+## □ országos.
 
 ## A kísérő intézkedéssel érintett tanulók száma: ............. fő
 
-## 10. A szerződő felek kötelezettségei
+## 10. Az átvevő és a szállító kötelezettségei
 
 ## Az átvevő köteles:
 
-## 1. az 1–4. osztályos tanulói számáról és a kiosztott termék mennyiségéről nyilvántartást vezetni;
+## 1. az 1–6. osztályos tanulói számáról és a kiosztott termék mennyiségéről nyilvántartást vezetni;
 
 ## 2. a támogatott terméket a tanulók részére a közétkeztetéstől eltérő időpontban kiosztani;
 
-## 3. az MVH által végzett, a megállapodás végrehajtásához kapcsolódó ellenőrzéseknek – ideértve a nyilvántartások részletes vizsgálatára és a fizikai ellenőrzésre – magát alávetni;
+## 3. a tanulóknál fennálló ételallergiára vonatkozó szülői nyilatkozatokat beszerezni, és a termékek kiosztása során azokat figyelembe venni;
 
 ## 4. a 4. pontban rögzített szállítási gyakoriság mellett kiszállított termék minőségének megtartását biztosító tárolási körülményeket biztosítani;
 
-## 5. selejtezési jegyzőkönyvet vezetni azon termékekről, amelyek a közoktatási intézményben történő tárolás alatt romlottak meg;
+## 5. selejtezési jegyzőkönyvet vezetni azon termékekről, amelyek a köznevelési intézményben történő tárolás alatt romlottak meg;
 
-## 6. a termék átvételekor emelt minőségi kifogást jegyzőkönyvben rögzíteni, és minőségi kifogásról az MVH-t értesíteni;
+## 6. a termék átvételekor emelt minőségi kifogást jegyzőkönyvben rögzíteni, és minőségi kifogásról a fenntartón keresztül az MVH-t értesíteni;
 
 ## 7. az iskolagyümölcs-programot népszerűsítő plakátot a program teljes időtartama alatt a főbejáratánál elhelyezni.
 
@@ -222,12 +216,16 @@
 
 ## 11. Záró rendelkezések
 
-## A jelen megállapodást a Felek az alul megjelölt napon írták alá azzal a kikötéssel, hogy a megállapodás az azt jóváhagyó határozat közlését követő napon lép hatályba, és a határozatban jóváhagyott termékre és a tanévenként külön határozatban jóváhagyott termékmennyiségre vonatkozik. valamint a megállapodás teljesítése során az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 4., 5., 6., 10., és 11. §-ában foglaltak szerint járnak el.
+## A jelen megállapodást a Felek az alul megjelölt napon írták alá azzal a kikötéssel, hogy a megállapodás az azt jóváhagyó határozat közlését követő napon lép hatályba, és a határozatban jóváhagyott termékre és a tanévenként külön határozatban jóváhagyott termékmennyiségre vonatkozik, valamint a megállapodás teljesítése során az iskolagyümölcs-program végrehajtásáról szóló 50/2012. (V. 25.) VM rendelet 4., 5., 6., 10., és 11. §-ában foglaltak szerint járnak el.
 
-## Jelen megállapodás ............. eredeti példányban készült, amelyből .................. példány a szállítót, ................ példány az átvevőt, továbbá egy eredeti példány az MVH-t illeti meg.
+## Jelen megállapodás ............. eredeti példányban készült, amelyből .................. példány a szállítót, ................ példány a fenntartót, ................ példány az átvevőt, továbbá egy eredeti példány az MVH-t illeti meg.
 
-## ......................................................, 201..... ⬜ ⬜ ⬜ ⬜
+## ......................................................, 201..... □□□□
 
-| ............................................. ............................................. szállító átvevő |
+| ............................................. | ............................................. |
 
-5. melléklet az 50/2012. (V. 25.) VM rendelethez
+| szállító | fenntartó |
+
+5. melléklet az 50/2012. (V. 25.) VM rendelethez[^36]
+
+[^36]: Az 5. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.

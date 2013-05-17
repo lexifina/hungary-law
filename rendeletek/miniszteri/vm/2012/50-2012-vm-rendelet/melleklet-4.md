@@ -18,7 +18,7 @@
 
 ## 1.4. Oktatási segédanyagok: a zöldség- és gyümölcsfajok bemutatása, a zöldség- és gyümölcstermesztés bemutatása, a tárolás, csomagolás bemutatása, a zöldség- és gyümölcstermőtájak bemutatása;
 
-## 1.5. A szállítóval megállapodást kötött közoktatási intézmények felsorolása;
+## 1.5. A szállítóval által megállapodás alapján ellátott köznevelési intézmények felsorolása;
 
 ## 1.6. Kapcsolattartó személy, személyek a kérelmezőnél és az elérhetőségeik.
 
@@ -36,7 +36,7 @@
 
 ## 6. Kóstoltatás: legalább egy alkalommal 4 gyümölcs- és 4 zöldségféle biztosítása tanulónként és gyümölcs- és zöldségféleségenként az alábbi mennyiségben:
 
-## 1. táblázat
+|  | 1. táblázat |  |
 
 |  |  | Gyümölcs |
 
@@ -112,4 +112,6 @@
 
 ## A kóstoltatott termékek között az a termék nem szerepelhet, amely az iskolagyümölcs-program keretében támogatott termékként kiosztásra kerül.
 
-4. melléklet az 50/2012. (V. 25.) VM rendelethez
+4. melléklet az 50/2012. (V. 25.) VM rendelethez[^35]
+
+[^35]: A 4. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.

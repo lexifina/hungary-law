@@ -1,7 +1,10 @@
 ## 2. A támogatás jellege, kedvezményezettjei és jogosultjai
 
-2. § (1) Az iskolagyümölcs-program keretében támogatás vehető igénybe a közoktatási törvény 20. § (1) bekezdés b) pontja és (2) bekezdése szerinti általános iskola 1–4. évfolyamán tanuló gyermekeknek (a továbbiakban: tanulók) a tanítási évben az 1. mellékletben felsorolt termékekkel az ott meghatározott adagban történő ellátása után. A támogatás formája vissza nem térítendő támogatás.
+2. § (1)[^5] Az iskolagyümölcs-program keretében támogatás vehető igénybe a köznevelési törvény 10. §-a szerinti általános iskola 1–6. évfolyamán tanuló gyermekeknek (a továbbiakban: tanulók) a tanítási évben az 1. mellékletben felsorolt termékekkel az ott meghatározott adagban történő ellátása után. A támogatás formája vissza nem térítendő támogatás.
 
 (2) A támogatás kedvezményezettjei a tanulók.
 
-(3) Az iskolagyümölcs-program keretében az e rendelet szerint nyújtott támogatás jogosultjai a közoktatási intézmények.
+(3)[^6] Az iskolagyümölcs-program keretében az e rendelet szerint nyújtott támogatás jogosultja a kedvezményezett tanulók nevelését, oktatását végző köznevelési intézmény fenntartója.
+
+[^5]: A 2. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (3) bekezdése a 31/2013. (V. 2.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.

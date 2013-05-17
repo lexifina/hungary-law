@@ -2,15 +2,15 @@
 
 ## 1. A kérelmező azonosító adatai.
 
-## 1.2. A kérelmező regisztrációs száma.
+## 1.2. A kérelmező ügyfél-azonosítója.
 
 ## 2. Kapcsolattartási információk.
 
-## 3. A kérelmező típusának a 3. § (2) bekezdés szerinti megjelölése.
+## 3. A kérelmező típusának a 3. § (2) bekezdése szerinti megjelölése.
 
 ## 4. A kérelmező nyilatkozata arról, hogy
 
-## 4.1. kijelenti, hogy a bizottsági rendelet alapján létrehozott iskolagyümölcs-program keretében finanszírozott terméket csak azon közoktatási intézmények tanulói által történő fogyasztás céljára szállítja, amelyek vonatkozásában a támogatást igényli;
+## 4.1. kijelenti, hogy a bizottsági rendelet alapján létrehozott iskolagyümölcs-program keretében finanszírozott terméket csak azon köznevelési intézmények tanulói által történő fogyasztás céljára szállítja, amelyek vonatkozásában a támogatást igényli;
 
 ## 4.2. vállalja, hogy amennyiben megállapítást nyer, hogy a terméket nem a 4–6. § szerinti megállapodásban foglaltaknak megfelelően szállította le, vagy, hogy a támogatást olyan termékre vette igénybe, amely a rendelet értelmében nem jogosult támogatásra, az érintett mennyiségre jogosulatlanul kapott támogatást visszafizeti;
 
@@ -18,10 +18,12 @@
 
 ## 4.4. vállalja, hogy a programban való részvételt alátámasztó okmányokat felszólításra az MVH rendelkezésére bocsátja;
 
-## 4.5. kijelenti, hogy a közoktatási intézményekkel kötött megállapodások végrehajtásáról nyilvántartást vezet, amelyben feltünteti a közoktatási intézmények nevét, OM azonosítóját és címét, valamint az ezen intézmények számára leszállított termék mennyiségét;
+## 4.5. kijelenti, hogy a köznevelési intézmények vonatkozásában a fenntartóval kötött megállapodások végrehajtásáról nyilvántartást vezet, amelyben feltünteti a köznevelési intézmények nevét, OM azonosítóját és címét, valamint az ezen intézmények számára leszállított termék mennyiségét;
 
 ## 4.6. aláveti magát az MVH által végzett ellenőrzésnek, ideértve a nyilvántartások részletes vizsgálatára, valamint a nyilvántartások adatait alátámasztó dokumentumok vizsgálatára és a fizikai ellenőrzésre.
 
 ## 5. Keltezés, a kérelmező cégszerű aláírása.
 
-3. melléklet az 50/2012. (V. 25.) VM rendelethez
+3. melléklet az 50/2012. (V. 25.) VM rendelethez[^34]
+
+[^34]: A 3. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
