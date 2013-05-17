@@ -1,5 +1,3 @@
-## 6–22. §[^4]
+## 22. § Hatályát veszti az 50/2012. (V. 25.) VM rendelet 18. § (5) bekezdése.
 
 ## 4. A 2013. évi óvoda-, és iskolatej program szabályozásáról szóló 141/2012. (XII. 27.) VM rendelet módosítása
-
-[^4]: A 6–22. § a 29. § (2) bekezdése alapján 2013. május 17-én lép hatályba.
