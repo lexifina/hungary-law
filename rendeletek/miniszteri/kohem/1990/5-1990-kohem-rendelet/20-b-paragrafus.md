@@ -1,6 +1,6 @@
-## A trolibuszra vonatkozó külön rendelkezések[^231]
+## A trolibuszra vonatkozó külön rendelkezések[^239]
 
-20/B. §[^232] (1) A trolibuszok forgalomba helyezés előtti vizsgálata, forgalomba helyezésének engedélyezése során a közlekedési hatóság az MR. 108–109. § rendelkezéseinek való megfelelőséget vizsgálja. A trolibusz a közlekedési hatóság által kiadott forgalomba helyezési engedély és a forgalomba helyezés előtti vizsgálat alapján kiadott megfelelt minősítésű „Műszaki adatlap”-pal és pályaszámmal ellátva vehet részt a forgalomban. Az MR. 109. § rendelkezéseinek való megfelelőség vizsgálata során a 20. § (2) bekezdés e) pontjában meghatározott, az erősárammal működő berendezésekre vonatkozóan a 20. § (3) és (4) bekezdés rendelkezéseit is megfelelően alkalmazni kell.
+20/B. §[^240] (1) A trolibuszok forgalomba helyezés előtti vizsgálata, forgalomba helyezésének engedélyezése során a közlekedési hatóság az MR. 108–109. § rendelkezéseinek való megfelelőséget vizsgálja. A trolibusz a közlekedési hatóság által kiadott forgalomba helyezési engedély és a forgalomba helyezés előtti vizsgálat alapján kiadott megfelelt minősítésű „Műszaki adatlap”-pal és pályaszámmal ellátva vehet részt a forgalomban. Az MR. 109. § rendelkezéseinek való megfelelőség vizsgálata során a 20. § (2) bekezdés e) pontjában meghatározott, az erősárammal működő berendezésekre vonatkozóan a 20. § (3) és (4) bekezdés rendelkezéseit is megfelelően alkalmazni kell.
 
 (2) A trolibusz forgalomba helyezésének engedélyezése során a kérelemhez csatolni kell a trolibusz felsővezeték hálózat üzemeltetőnek nyilatkozatát is arról, hogy a trolibusz-típus elektromos- és biztosító berendezései az energiaellátó rendszerrel kompatibilisek.
 
@@ -14,5 +14,5 @@
 
 (7) A trolibusz felsővezeték használata nélküli közlekedésre szolgáló belsőégésű motorjára 20. § (2) bekezdés c) pontjában meghatározott erőgépre vonatkozó rendelkezéseket kell alkalmazni.
 
-[^231]: A 20/A. §-t követő alcímet a 62/2011. (XI. 29.) NFM rendelet 11. §-a iktatta be.
-[^232]: A 20/B. §-t a 62/2011. (XI. 29.) NFM rendelet 11. §-a iktatta be.
+[^239]: A 20/A. §-t követő alcímet a 62/2011. (XI. 29.) NFM rendelet 11. §-a iktatta be.
+[^240]: A 20/B. §-t a 62/2011. (XI. 29.) NFM rendelet 11. §-a iktatta be.

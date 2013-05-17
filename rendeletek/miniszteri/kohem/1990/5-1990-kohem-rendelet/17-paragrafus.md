@@ -4,7 +4,7 @@
 
 ## Forgalomba helyezés előtti és időszakos vizsgálat, közúti és telephelyi ellenőrzés
 
-17. § (1)[^202] A vizsgáló állomáson forgalomba helyezés előtti vizsgálat céljából be kell mutatni – az MR. 118. §-ában említett jármű kivételével – azt a lassú járművet, amely közúton személy- vagy teherszállítást végez, pótkocsit vontat, továbbá a lassú jármű teherszállító pótkocsiját. Forgalomba helyezés előtti vizsgálat céljából bemutatható továbbá az olyan egyéb lassú jármű, valamint az önjáró munkagép és mezőgazdasági erőgép is, amelyet az üzemben tartója lassú járműként forgalomba kíván helyezni, vagy a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló miniszteri rendeletben meghatározott M betűjelű rendszámtáblával ellátva ideiglenesen forgalomban kíván tartani.
+17. § (1)[^207] A vizsgáló állomáson forgalomba helyezés előtti vizsgálat céljából be kell mutatni – az MR. 118. §-ában említett jármű kivételével – azt a lassú járművet, amely közúton személy- vagy teherszállítást végez, pótkocsit vontat, továbbá a lassú jármű teherszállító pótkocsiját. Forgalomba helyezés előtti vizsgálat céljából bemutatható továbbá az olyan egyéb lassú jármű, valamint az önjáró munkagép és mezőgazdasági erőgép is, amelyet az üzemben tartója lassú járműként forgalomba kíván helyezni, vagy a KR.-ben meghatározott M betűjelű rendszámtáblával ellátva ideiglenesen forgalomban kíván tartani.
 
 (2) E § alkalmazása szempontjából
 
@@ -12,13 +12,13 @@ a) személyszállításnak minősül a vezetővel együtt kettőnél több szem�
 
 b) nem minősül teherszállításnak, illetőleg pótkocsi vontatásnak, ha a lassú jármű kizárólag saját eszközeit és berendezéseit szállítja illetőleg vontatja.
 
-(3)[^203] Lassú járművel személyszállítást csak abban az esetben szabad végezni, ha a közlekedési hatóság azt a lassú jármű igazolólapján engedélyezi.
+(3)[^208] Lassú járművel személyszállítást csak abban az esetben szabad végezni, ha a közlekedési hatóság azt a lassú jármű igazolólapján engedélyezi.
 
-(4)[^204] A forgalomba helyezés előtti vizsgálat elvégzését a közlekedési hatóságtól kell kérni.
+(4)[^209] A forgalomba helyezés előtti vizsgálat elvégzését a közlekedési hatóságtól kell kérni.
 
-(5)[^205] Ha a forgalomba helyezés előtti vizsgálat eredménye alapján a jármű – a 10. § (5), illetőleg (6) bekezdése szerint – a közúti forgalomban való részvételre műszakilag alkalmasnak minősül, akkor ki kell adni az erről szóló igazolást, meghatározva abban az Igazolólapon feltüntetendő műszaki adatokat, a gyártási évet és az első időszakos vizsgálat határidejét.
+(5)[^210] Ha a forgalomba helyezés előtti vizsgálat eredménye alapján a jármű – a 10. § (5), illetőleg (6) bekezdése szerint – a közúti forgalomban való részvételre műszakilag alkalmasnak minősül, akkor ki kell adni az erről szóló igazolást, meghatározva abban az Igazolólapon feltüntetendő műszaki adatokat, a gyártási évet és az első időszakos vizsgálat határidejét.
 
-(6)[^206] Az időszakos vizsgálat határidejét
+(6)[^211] Az időszakos vizsgálat határidejét
 
 a) a személyszállításra alkalmas lassú járműnél három évben,
 
@@ -28,7 +28,7 @@ c) minden egyéb lassú járműnél és a lassú jármű pótkocsijánál öt é
 
 ## kell meghatározni. A vizsgálatot végző szerv a jármű műszaki állapota alapján az a)–c) pontokban foglaltaknál rövidebb érvényességi határidőt is megállapíthat.
 
-(7)[^207] A lassú járműnek és pótkocsijának
+(7)[^212] A lassú járműnek és pótkocsijának
 
 a) forgalomba helyezés előtti vizsgálatára a 10. §-ban,
 
@@ -38,9 +38,9 @@ c) közúti műszaki ellenőrzésére a 14. §-ban,
 
 d) telephelyi ellenőrzésére a 15. §-ban
 
-[^202]: A 17. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 18. §-ával megállapított szöveg.
-[^203]: A 17. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^204]: A 17. § (4) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított és a 95/2006. (XII. 27.) GKM rendelet 12. § (1) bekezdésének n) pontja, a 25/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^205]: A 17. § (5) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított szöveg.
-[^206]: A 17. § (6) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított szöveg.
-[^207]: A 17. § (7) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított szöveg.
+[^207]: A 17. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 18. §-ával megállapított, a 18/2013. (V. 9.) NFM rendelet 14. § j) pontja szerint módosított szöveg.
+[^208]: A 17. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^209]: A 17. § (4) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított és a 95/2006. (XII. 27.) GKM rendelet 12. § (1) bekezdésének n) pontja, a 25/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^210]: A 17. § (5) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított szöveg.
+[^211]: A 17. § (6) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított szöveg.
+[^212]: A 17. § (7) bekezdése a 12/1998. (V. 22.) KHVM rendelet 15. §-ával megállapított szöveg.
