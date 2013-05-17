@@ -22,7 +22,7 @@ h) az adatszolgáltatás rendjét;
 
 i) a VINGIS részletes tartalmát, valamint a szőlészeti borászati szakigazgatás szerveinek a VINGIS adataihoz való hozzáférési jogosultságát;
 
-j) a nem hegyközségi települések esetén az e törvényben meghatározott közigazgatási feladatokat ellátó hegyközségek meghatározását;
+j)
 
 k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
 
