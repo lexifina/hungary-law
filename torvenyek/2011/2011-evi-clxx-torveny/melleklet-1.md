@@ -16,13 +16,11 @@ B
 
 |
 
-A bejegyzett jelzálogjog ranghelye
+A bejegyzett jelzálogjog ranghelyének sorrendje
 
 |
 
-A hitelező kielégítésének maximális mértéke
-
-a hitelező által megjelölt követelés százalékában
+A hitelező kielégítésének maximális mértéke a hitelező által megjelölt követelés százalékában
 
 |
 
@@ -30,7 +28,7 @@ a hitelező által megjelölt követelés százalékában
 
 |
 
-1. ranghely
+1.
 
 |
 
@@ -42,7 +40,7 @@ a hitelező által megjelölt követelés százalékában
 
 |
 
-2. ranghely
+2.
 
 |
 
@@ -54,7 +52,7 @@ a hitelező által megjelölt követelés százalékában
 
 |
 
-3. ranghely
+3.
 
 |
 

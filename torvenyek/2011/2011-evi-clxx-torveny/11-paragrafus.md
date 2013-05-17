@@ -14,4 +14,8 @@ c) a hiteladós, vagy – ha a lakóingatlan nem a hiteladós tulajdonában van 
 
 ca) a lakóingatlant – ha annak tulajdoni lapjából az nem állapítható meg – végrehajtás alá vonták-e,
 
-cb) a lakóingatlan tulajdonjogának az államra történő átruházása feltételeit és annak jogkövetkezményeit tudomásul veszi.
+cb) a lakóingatlan tulajdonjogának az államra történő átruházása feltételeit és annak jogkövetkezményeit tudomásul veszi,
+
+d) azon személyek nevét és születési időpontját, akiknek a nyilvántartásba bejelentett lakóhelye vagy tartózkodási helye a felajánlott lakóingatlanban van, és ennek igazolására a lakcímet igazoló hatósági bizonyítvány másolatát,
+
+e) a felajánlott tulajdoni hányadnak megfelelő ingatlanrész kizárólagos használatára vonatkozó megállapodást és annak mellékletét, ha a felajánlott lakóingatlan az ingatlan-nyilvántartás szerint közös tulajdonban áll.

@@ -10,7 +10,7 @@ d) a bérlő halála esetén a bérlővel annak életében együtt lakó házast
 
 e) a Nemzeti Eszközkezelő a lakásbérleti szerződésben kikötheti a bérlő lakásban történő életvitelszerű bentlakásának kötelezettségét,
 
-f) a lakóingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a bérlőt, a lakhatási célú ingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a vagyonkezelőt terhelik,
+f) a lakóingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a bérlőt, a lakhatási célú ingatlanok esetében a Lakástörvény 13. § (1) bekezdésében meghatározott költségek közül a pótlással és a cserével kapcsolatos költségek a bérbeadót terhelik,
 
 g) a bérlő szavatol azért, hogy a lakóingatlan a Nemzeti Eszközkezelőnek történő átadásakor rendeltetésszerű használatra alkalmas legyen,
 
