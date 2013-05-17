@@ -1,0 +1,3 @@
+5. § A Hktv. 25. §-a helyébe a következő rendelkezés lép:
+
+„25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a hegybíró által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet. A küldött nem gyakorolhatja a szavazati jogát, amennyiben az őt delegáló hegyközségnek fenntartási hozzájárulás-tartozása áll fenn. Ha e törvény vagy az alapszabály másként nem rendelkezik, a hegyközségi tanács a döntéseit egyszerű többséggel hozza azzal, hogy a döntéshozatalhoz a szavazásra jogosult küldöttek több mint felének támogató szavazata is kell.”

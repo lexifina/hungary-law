@@ -1,0 +1,3 @@
+15. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 75. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A mezőgazdasági vagyoni értékű jogok nemzeti tartalékát képező vagyoni értékű jogok a Magyar Állam tulajdonában vannak. E vagyoni értékű jogok tekintetében – a 9. § n) pontjának 4. alpontjában szereplő mezőgazdasági vagyoni értékű jogok kivételével – a tulajdonosi jogokat a Magyar Állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja. A mezőgazdasági és vidékfejlesztési támogatási szerv e vagyoni értékű jogokat elkülönítetten kezeli és tartja nyilván.”
