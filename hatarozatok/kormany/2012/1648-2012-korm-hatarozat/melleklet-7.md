@@ -218,4 +218,6 @@
 
 |  | Akcióterv 2011-2013 ÖSSZESEN (Mrd Ft) | 60,29 |  |  |  |
 
-7. melléklet az 1648/2012. (XII. 19.) Korm. határozathoz
+7. melléklet az 1648/2012. (XII. 19.) Korm. határozathoz[^2]
+
+[^2]: A 7. melléklet az 1268/2013. (V. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
