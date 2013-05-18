@@ -1,1 +1,0 @@
-A Siemens Zrt. és az Ericsson Magyarország Kft. magyarországi nagybefektetőkkel való stratégiai megállapodás megkötéséről szóló 1214/2013. (IV. 16.) Korm. határozat 1. pontjában a „miniszterelnököt” szövegrész helyébe a „nemzetgazdasági minisztert”, és a „miniszterelnök” szövegrész helyébe a „nemzetgazdasági miniszter” szöveg lép.
