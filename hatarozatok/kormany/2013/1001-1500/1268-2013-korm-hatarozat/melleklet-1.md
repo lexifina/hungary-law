@@ -18,7 +18,7 @@
 
 ## a c) alpont tekintetében: azonnal
 
-## 3. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és egyes prioritásai keretének növeléséről szóló 1648/2012. (XII. 19.) Korm. határozat 7. mellékletének az akcióterv 2., 4. és 5. prioritására vonatkozó részeit.
+## 3.[^1]
 
 1. melléklet az 1268/2013. (V. 17.) Korm. határozathoz
 
@@ -177,3 +177,5 @@
 | 5.2.3 | Gazdaságélénkítő városfejlesztés (JESSICA konstrukció) | 0,00 | 0,00 | 0,00 | A városi szövet átalakítása kereskedelmi banki módszerekkel nem, vagy nem a kívánt mértékben finanszírozott, megtérülést eredményező beruházások segítségével. | belügyminiszter | nemzeti fejlesztési miniszter |
 
 | 5. Prioritás összesen | 0,00 | 11,19 | 1,86 |  |  |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
