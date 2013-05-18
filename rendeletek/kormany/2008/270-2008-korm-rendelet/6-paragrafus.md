@@ -8,4 +8,6 @@
 
 (5) A Magyar Köztársasági Érdemrend tekintetében a miniszterelnök, illetve a Bizottság javaslata alapján a miniszterek a Magyar Köztársasági Érdemkereszt adományozására előterjesztést készítenek a köztársasági elnök részére.
 
-(6) Nem magyar állampolgár állami kitüntetésére vonatkozó javaslat – amennyiben szükséges – az adott ország illetékes szervei által adott engedélyt követően terjeszthető a köztársasági elnök elé.
+(6)[^5]
+
+[^5]: A 6. § (6) bekezdését a 150/2013. (V. 17.) Korm. rendelet 3. §-a hatályon kívül helyezte.
