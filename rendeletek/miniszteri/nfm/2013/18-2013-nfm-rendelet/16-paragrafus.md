@@ -1,3 +1,5 @@
-## 15. § Hatályát veszti az R. 13. § (2) bekezdésében, valamint az R. 15. § (3) bekezdés b) pontjában az „és – ha van – a plakettet” szövegrész, továbbá az R. 19/A. § (12) bekezdés e) pontja és (13) bekezdése.
+## 11–15. §[^9]
 
 ## 2. A közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelet módosítása
+
+[^9]: A 11–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
