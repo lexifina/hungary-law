@@ -1,8 +1,8 @@
 ## A területrendezési hatósági eljárás megindítása
 
-3. § (1)[^11] A területrendezési hatósági eljárás az
+3. § (1)[^12] A területrendezési hatósági eljárás az
 
-a)[^12] 1. § (1) bekezdés a)–c) pontjában, az 1. § (1) bekezdés d) pont da) és db) alpontjában, valamint az 1. § (1) bekezdés f) és g) pontjában foglalt esetben a települési önkormányzat, a főváros esetében a fővárosi önkormányzat, több település érintettsége esetén a megállapodásukban kijelölt önkormányzat, a megyei önkormányzat vagy a területrendezésért felelős miniszter,
+a)[^13] 1. § (1) bekezdés a)–c) pontjában, az 1. § (1) bekezdés d) pont da) és db) alpontjában, valamint az 1. § (1) bekezdés f) és g) pontjában foglalt esetben a települési önkormányzat, a főváros esetében a fővárosi önkormányzat, több település érintettsége esetén a megállapodásukban kijelölt önkormányzat, a megyei önkormányzat vagy a területrendezésért felelős miniszter,
 
 b) 1. § (1) bekezdés d) pont dc) alpontjában foglalt esetben a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések önkormányzata, a főváros esetében a fővárosi önkormányzat,
 
@@ -10,9 +10,9 @@ c) 1. § (1) bekezdés e) pontjában foglalt esetben a beruházó
 
 kérelme alapján indul.
 
-(2)[^13] Az 1. § (1) bekezdés a)–d) és g) pontjában foglalt esetben állampolgári megkeresésre az illetékes állami főépítész az eljárás megindítását javasolhatja az (1) bekezdés a) pontjában megjelölt szerveknél vagy személyeknél.
+(2)[^14] Az 1. § (1) bekezdés a)–d) és g) pontjában foglalt esetben állampolgári megkeresésre az illetékes állami főépítész az eljárás megindítását javasolhatja az (1) bekezdés a) pontjában megjelölt szerveknél vagy személyeknél.
 
-(3)[^14] Területrendezési hatósági eljárás megindítására irányuló kérelmet „térségi területfelhasználási engedély kérelem” formában az állami főépítészhez kell benyújtani.
+(3)[^15] Területrendezési hatósági eljárás megindítására irányuló kérelmet „térségi területfelhasználási engedély kérelem” formában az állami főépítészhez kell benyújtani.
 
 (4) A kérelemnek tartalmaznia kell a kérelem tárgyát és rövid összefoglaló indoklását, továbbá
 
@@ -24,7 +24,7 @@ ba) az érintett területrendezési terv (tervek) módosításra vagy kiegészí
 
 bb) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot;
 
-c)[^15] beépítésre szánt terület kivételes kijelölésére irányuló kérelem esetén
+c)[^16] beépítésre szánt terület kivételes kijelölésére irányuló kérelem esetén
 
 ca) a hatályos településrendezési terv másolatának megfelelő részletét,
 
@@ -34,7 +34,7 @@ cc) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot,
 
 cd) a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó magterület övezetében a beépítésre szánt terület kijelölésével érintett történelmi sportterületen a ca)–cc) alpontban foglaltakon túl annak bizonyító erejű dokumentumait, hogy a terület megfelel a történelmi sportterület a Budapesti Agglomeráció területrendezési tervéről szóló törvényben szereplő meghatározásának;
 
-d)[^16] a területcserére vonatkozó kérelem esetén a c) pont ca) és cc) alpontjában foglaltakon túl
+d)[^17] a területcserére vonatkozó kérelem esetén a c) pont ca) és cc) alpontjában foglaltakon túl
 
 da) a Budapesti Agglomeráció területrendezési tervéről szóló törvény mellékletét képező szerkezeti terv területcserével érintett részleteinek másolatát,
 
@@ -42,13 +42,13 @@ db) a településrendezési terv tervezetét a városias települési térség �
 
 dc) annak igazoló számítását, hogy a területcsere során a városias települési térség és a hagyományosan vidéki települési térség területének nagysága a település közigazgatási területén nem változik;
 
-e)[^17] országos jelentőségű elem beillesztésére vonatkozó kérelem esetén
+e)[^18] országos jelentőségű elem beillesztésére vonatkozó kérelem esetén
 
 ea) az Országos Területrendezési Tervben nem szereplő országos jelentőségű elem beillesztése esetén az Országos Területrendezési Terv, a kiemelt térség területrendezési tervében nem szereplő országos jelentőségű elem beillesztése esetén a kiemelt térség területrendezési terve, a megyei területrendezési tervben nem szereplő országos jelentőségű elem beillesztése esetén a megyei területrendezési terv másolatának részletét a beillesztendő tervi elem feltüntetésével,
 
 eb) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot;
 
-f)[^18] az összhang igazolására vonatkozó kérelem esetén
+f)[^19] az összhang igazolására vonatkozó kérelem esetén
 
 fa) a településszerkezeti terv megfelelő részletének másolatát,
 
@@ -58,17 +58,17 @@ fc) a jogszerűen elfogadott településszerkezeti terv készítésére vagy mó
 
 fd) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot az 1. számú melléklet I. fejezetében meghatározott tartalommal;
 
-g)[^19] az 1. § (1) bekezdés a)–d) és f)–g) pontja szerinti eljárások esetén a kérelem benyújtását megerősítő képviselő-testületi (közgyűlési) határozatot, több települési önkormányzat érintettsége esetén az önkormányzatok képviselő-testületi (közgyűlési) határozatát és az érintett települési önkormányzatok nevében eljáró önkormányzat kijelölésére vonatkozó települési önkormányzatok közötti megállapodást.
+g)[^20] az 1. § (1) bekezdés a)–d) és f)–g) pontja szerinti eljárások esetén a kérelem benyújtását megerősítő képviselő-testületi (közgyűlési) határozatot, több települési önkormányzat érintettsége esetén az önkormányzatok képviselő-testületi (közgyűlési) határozatát és az érintett települési önkormányzatok nevében eljáró önkormányzat kijelölésére vonatkozó települési önkormányzatok közötti megállapodást.
 
-(5)[^20] Amennyiben az ügyfél nem elektronikus úton tart kapcsolatot a hatósággal, akkor a kérelmet – postai úton vagy személyes átadás útján – írásban a (4) bekezdésben meghatározott tartalommal kell benyújtani tíz papíralapú példányban és egy példányban elektronikus adathordozón. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, továbbá az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó tíz papíralapú példányban benyújtott kérelemnek a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat rövid összefoglalóját kell tartalmaznia. Az egyéb tartalmi elemeket teljes körűen kell benyújtani. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó elektronikus adathordozón benyújtott kérelemnek a (4) bekezdésben meghatározott tartalommal kell rendelkeznie, a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot teljes terjedelmében kell tartalmaznia. Amennyiben a papíralapú kérelem és az elektronikus adathordozón benyújtott kérelem szövege egymástól eltér, a papíralapú kérelem szövegét kell hitelesnek tekinteni.
+(5)[^21] Amennyiben az ügyfél nem elektronikus úton tart kapcsolatot a hatósággal, akkor a kérelmet – postai úton vagy személyes átadás útján – írásban a (4) bekezdésben meghatározott tartalommal kell benyújtani tíz papíralapú példányban és egy példányban elektronikus adathordozón. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, továbbá az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó tíz papíralapú példányban benyújtott kérelemnek a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat rövid összefoglalóját kell tartalmaznia. Az egyéb tartalmi elemeket teljes körűen kell benyújtani. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó elektronikus adathordozón benyújtott kérelemnek a (4) bekezdésben meghatározott tartalommal kell rendelkeznie, a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot teljes terjedelmében kell tartalmaznia. Amennyiben a papíralapú kérelem és az elektronikus adathordozón benyújtott kérelem szövege egymástól eltér, a papíralapú kérelem szövegét kell hitelesnek tekinteni.
 
-[^11]: A 3. § (1) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (1) bekezdés a) pontja a 105/2012. (V. 30.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
-[^13]: A 3. § (2) bekezdése a 249/2009. (XI. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
-[^14]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^15]: A 3. § (4) bekezdés c) pontja a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^16]: A 3. § (4) bekezdés d) pontja a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^17]: A 3. § (4) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^18]: A 3. § (4) bekezdés f) pontját a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 105/2012. (V. 30.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^19]: A 3. § (4) bekezdés g) pontját a 105/2012. (V. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^20]: A 3. § (5) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (1) bekezdés a) pontja a 105/2012. (V. 30.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdése a 249/2009. (XI. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3. § (4) bekezdés c) pontja a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 3. § (4) bekezdés d) pontja a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^18]: A 3. § (4) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. § (4) bekezdés f) pontját a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 105/2012. (V. 30.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^20]: A 3. § (4) bekezdés g) pontját a 105/2012. (V. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^21]: A 3. § (5) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.

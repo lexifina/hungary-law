@@ -1,4 +1,4 @@
-2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^36]
+2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^37]
 
 A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
@@ -23,6 +23,8 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 |  | Térségi jelentőségű nyilvános kereskedelmi repülőtér esetén, valamennyi eljárásnál. |  |  |
 
 |  | Térségi jelentőségű határátkelőhely esetén, valamennyi eljárásnál. |  |  |
+
+| 2a. | Országos, a kiemelt térségi vagy a megyei tervben nem szereplő, de más rendelkezéseinek megfelelő közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi és főutak beillesztése esetén. | A közlekedési hálózat egységességének biztosíthatósága, a közlekedésfejlesztési érdekek érvényesíthetősége. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
 
 | 3. | Minden esetben. | A területrendezési tervekben rögzített környezetvédelemi, természetvédelmi és tájvédelmi szabályozás, továbbá a környezet, természet és táj védelmére vonatkozó jogszabályban rögzített követelmények érvényesülése. Országos jelentőségű meglévő szükségtározók, megvalósuló árvízi tározók és új vízi építmények esetén, valamint az 1 millió m3-t meghaladó, de 10 millió m3-nél kisebb tározási lehetőségek esetén a vízgazdálkodás jogszabályi követelményeinek érvényesülése kérdésében. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
 
@@ -50,10 +52,10 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 |  | területi elhelyezése esetén. |  |  |
 
-| 11. | Országos jelentőségű elem beillesztése esetén. | Az országos jelentőségű elem beillesztése esetén a védelmi kockázat felmérése. | Alkotmányvédelmi Hivatal |
+| 11. | A 10. sor szerinti országos jelentőségű elem beillesztése esetén. | A 10. sor szerinti országos jelentőségű elem beillesztése esetén a védelmi kockázat felmérése. | Alkotmányvédelmi Hivatal |
 
 | 12. | Minden esetben. | Környezet-egészségügyi követelmények érvényesítése. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve |
 
 | 13. | Honvédelmi és katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintő esetben. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
 
-[^36]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a, a 86/2013. (III. 21.) Korm. rendelet 5. §-a szerint módosított szöveg. [A 86/2013. (III. 21.) Korm. rendelet 5. §-ával elrendelt módosítás, amely szerint a (C:5) mezőben „a termőföld minőségi védelme esetében a megyei kormányhivatal növény– és talajvédelmi igazgatósága, erdő esetében” szövegrész hatályát veszti, nem vezethető át.]
+[^37]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a, a 86/2013. (III. 21.) Korm. rendelet 5. §-a, a 151/2013. (V. 17.) Korm. rendelet 4. §-a szerint módosított szöveg. [A 86/2013. (III. 21.) Korm. rendelet 5. §-ával elrendelt módosítás, amely szerint a (C:5) mezőben „a termőföld minőségi védelme esetében a megyei kormányhivatal növény– és talajvédelmi igazgatósága, erdő esetében” szövegrész hatályát veszti, nem vezethető át.]

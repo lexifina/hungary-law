@@ -24,13 +24,19 @@ dc) a Budapesti Agglomeráció területrendezési tervéről szóló törvény h
 
 (a továbbiakban együtt: beépítésre szánt terület kivételes kijelölése);
 
-e)[^3] az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén és szén-dioxid szállítóvezetékek elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezéséhez (a továbbiakban: országos jelentőségű elem beillesztése);
+e)[^3] az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén és szén-dioxid szállítóvezetékek elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény, valamint a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak és főutak területi elhelyezéséhez (a továbbiakban együtt: országos jelentőségű elem beillesztése);
 
 f)[^4] a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó településen a területcseréhez (a továbbiakban: területcsere);
 
 g)[^5] a településrendezési tervnek a kiemelt térségi és megyei területrendezési tervvel való összhangjának megállapítására (a továbbiakban: összhang igazolása), amennyiben a területrendezési terv elfogadása előtt jogszerűen elfogadott településszerkezeti terv szerinti területfelhasználási egység nincs összhangban a területrendezési terv térségi szerkezeti tervében kijelölt térségi területfelhasználási kategóriával.
 
-(2)[^6] Az országos jelentőségű elem beillesztésére irányuló kérelem esetén a szakhatóság a 2. számú mellékletben foglalt táblázat 10. sora szerinti szakkérdést a (3) bekezdésben foglaltak alapján vizsgálja.
+(2)[^6] Az országos jelentőségű elem beillesztésére irányuló kérelem esetén a szakhatóság a 2. számú mellékletben foglalt táblázat
+
+a) 10. sora szerinti szakkérdést a (3) bekezdésben,
+
+b) 2a. sora szerinti szakkérdést a (4) bekezdésben
+
+## foglaltak alapján vizsgálja.
 
 (3)[^7] Az országos jelentőségű elem beillesztése az energiaellátás biztonságának biztosításához akkor szükséges, ha
 
@@ -42,10 +48,13 @@ c) az a földgázellátásról szóló törvény szerinti, a Magyar Energia Hiva
 
 d) az a földgázellátásról szóló törvény szerinti szállítóvezeték kivételével szénhidrogén szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezésére irányul.
 
+(4)[^8] Az országos jelentőségű elem beillesztése a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak és főutak területi elhelyezéséhez akkor szükséges, ha a gyorsforgalmi út és a főút a gyorsforgalmi- és a főúthálózat hosszú távú fejlesztési programjáról és nagytávú tervéről szóló kormányhatározatban szerepel.
+
 [^1]: Az 1. § (1) bekezdés c) pontja a 249/2009. (XI. 13.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés d) pontja a 197/2011. (IX. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 75/2012. (IV. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 151/2013. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés f) pontját a 197/2011. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (1) bekezdés g) pontját a 105/2012. (V. 30.) Korm. rendelet 16. §-a iktatta be.
-[^6]: Az 1. § (2) bekezdését a 249/2009. (XI. 13.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte, újonnan a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: Az 1. § (2) bekezdését a 249/2009. (XI. 13.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte, újonnan a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 151/2013. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^7]: Az 1. § (3) bekezdését a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^8]: Az 1. § (4) bekezdését a 151/2013. (V. 17.) Korm. rendelet 3. §-a iktatta be.
