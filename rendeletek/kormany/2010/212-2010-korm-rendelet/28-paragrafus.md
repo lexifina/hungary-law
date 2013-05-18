@@ -1,8 +1,10 @@
+## szóló jogszabályok előkészítésével kapcsolatos feladatokat, valamint e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
+
 ## 28. § A miniszter a köziratok kezelésének szakmai irányításáért való felelőssége körében
 
 a) ellenőrzi az iratkezelési szabályzatban foglaltak végrehajtását a központi államigazgatási szerveknél,
 
-b)[^103] jóváhagyja a Magyar Országos Levéltárral egyetértésben a központi államigazgatási szervek egyedi iratkezelési szabályzatait, valamint az általuk készített egységes iratkezelési szabályzatok és irattári mintatervek kiadásakor – az emberi erőforrások miniszterével – egyetértési jogot gyakorol,
+b)[^104] jóváhagyja a Magyar Országos Levéltárral egyetértésben a központi államigazgatási szervek egyedi iratkezelési szabályzatait, valamint az általuk készített egységes iratkezelési szabályzatok és irattári mintatervek kiadásakor – az emberi erőforrások miniszterével – egyetértési jogot gyakorol,
 
 c) a közlevéltárak ellenőrzési tapasztalatait is felhasználva évente értékeli a közfeladatokat ellátó szervek iratkezelésének helyzetét, az elektronikus iratkezelésre történő áttérés tapasztalatait,
 
@@ -18,4 +20,4 @@ fb) koordinálja a Kormány által megjelölt stratégiai célok és a rendelkez
 
 fc) javaslatokat dolgoz ki a nemzeti fejlesztési miniszterrel együttműködve az fb) alpontban nem szereplő, közfeladatot ellátó szervek iratkezelése informatikai feltételrendszerének fejlesztésére.
 
-[^103]: A 28. § b) pontja a 94/2012. (V. 11.) Korm. rendelet j) pontja szerint módosított szöveg.
+[^104]: A 28. § b) pontja a 94/2012. (V. 11.) Korm. rendelet j) pontja szerint módosított szöveg.

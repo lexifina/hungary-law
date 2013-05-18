@@ -1,14 +1,18 @@
-## 26/A. §[^101] A Kormány az európai területi együttműködési csoportosulással kapcsolatos jóváhagyási eljárás lefolytatására hatáskörrel rendelkező szervként a minisztert jelöli ki.
+## 26/A. §[^102] A Kormány az európai területi együttműködési csoportosulással kapcsolatos jóváhagyási eljárás lefolytatására hatáskörrel rendelkező szervként a minisztert jelöli ki.
 
-## 27. § A közigazgatási és igazságügyi miniszter a választójogi és népszavazási szabályozásért, valamint a választások és népszavazások lebonyolításáért való felelőssége körében:
+## 27. §[^103] A közigazgatási és igazságügyi miniszter a választójogi és népszavazási szabályozásért való felelőssége körében ellátja
 
-a)[^102] ellátja az országgyűlési képviselők választásáról, a helyi önkormányzati képviselők választásáról, a polgármesterek választásáról, a nemzetiségi önkormányzati képviselők választásáról, az európai parlamenti képviselők választásáról, a választási eljárásról, az országos népszavazásról, az országos népi kezdeményezésről, a helyi népszavazásról és a helyi népi kezdeményezésről szóló jogszabályok előkészítésével, illetve megalkotásával járó feladatokat,
+a) az országgyűlési képviselők választásáról,
 
-b) irányítja és szervezi a választások, valamint az országos népszavazás lebonyolítását,
+b) a helyi önkormányzati képviselők választásáról és a polgármesterek választásáról,
 
-c) elkészíti a választások és az országos népszavazások költségvetését és a fedezet biztosítására vonatkozó javaslatokat,
+c) a nemzetiségi önkormányzati képviselők választásáról,
 
-d) gondoskodik a korszerű választástechnikai eszközök kipróbálásáról, kísérleti bevezetéséről.
+d) az európai parlamenti képviselők választásáról, a választási eljárásról,
 
-[^101]: A 26/A. §-t a 283/2010. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^102]: A 27. § a) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+e) az országos népszavazásról, az országos népi kezdeményezésről,
+
+f) a helyi népszavazásról és a helyi népi kezdeményezésről
+
+[^102]: A 26/A. §-t a 283/2010. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^103]: A 27. § a 150/2013. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
