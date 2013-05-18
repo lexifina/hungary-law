@@ -1,7 +1,3 @@
 ## 7. Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosítása
 
-19. § Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. §-a a következő (6a) és (6b) bekezdéssel egészül ki:
-
-„(6a) Ha az alapítvány (közalapítvány) céljainak hatékonyabb megvalósítását, feladatainak további ellátását az állami alapító – az alapítvány (közalapítvány) megszüntetésére irányuló kérelemben – megjelölt költségvetési szerv útján kívánja ellátni, eltérő alapítói rendelkezés hiányában e költségvetési szerv az alapítvány (közalapítvány) mindazon vagyoni és személyes jogainak, továbbá kötelezettségeinek jogutódjává válik, amelyeket költségvetési szerv megszerezhet, illetve amely költségvetési szervet terhelhet. A költségvetési szerv által meg nem szerezhető jogok és kötelezettségek jogutódja az állam. Az alapítvánnyal (közalapítvánnyal) szembeni követelések nem járnak le a folyamatban levő eljárásokban az alapítvány (közalapítvány) helyébe a költségvetési szerv lép.
-
-(6b) A (6a) bekezdésben foglalt esetben a törvényszék az alapítvány (közalapítvány) megszüntetéséről szóló végzésével egyidejűleg az alapítványt (közalapítványt) a bírósági nyilvántartásból is törli. E tényt, valamint a (6a) bekezdés szerinti jogutód költségvetési szerv, illetve az állam képviseletét ellátó szerv megjelölését az állami alapító hivatalos közleményben köteles nyilvánosságra hozni.”
+19. §
