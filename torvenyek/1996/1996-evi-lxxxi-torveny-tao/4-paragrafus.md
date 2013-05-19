@@ -224,11 +224,11 @@ h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fiókte
 
 35. üzletvezetés helye: az a hely, ahol az ügyvezetés az irányításra berendezkedett;
 
-36. mozgóképszakmai hatóság által kiadott támogatási igazolás: a mozgóképszakmai hatóság által a mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) szerinti megrendelésre készült filmalkotás vagy nem megrendelésre készült filmalkotás támogatója részére kiállított igazolás, amely tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét.
+36.
 
 37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett szervezet.
 
-38. az előadó-művészeti államigazgatási szerv által kiadott támogatási igazolás: az előadó-művészeti államigazgatási szerv által az előadó-művészeti szervezet támogatója részére kiadott, a támogatást nyújtó adózó megnevezését, székhelyét, adószámát és a kedvezményre jogosító támogatás összegét tartalmazó okirat, amely tekintetében az egy előadó-művészeti szervezethez kapcsolódó, tárgyévre vonatkozóan kiadott kedvezményre jogosító támogatási igazolások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
+38.
 
 39. előadó-művészeti szervezet jegybevétele: e törvény alkalmazásában az a TESZOR 90.01. Előadóművészet, a TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenységből a bábszínházi előadás általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétele.
 
@@ -250,6 +250,6 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
 
-45. a látvány-csapatsport támogatását biztosító támogatási igazolás: olyan okirat, amelyet a 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, a 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a látvány-csapatsport országos sportági szakszövetsége állít ki a látvány-csapatsport tevékenység támogatója és a támogatás igénybevételére jogosult szervezet részére;
+45.
 
 46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.

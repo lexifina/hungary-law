@@ -32,7 +32,7 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 11. A gazdasági társaságokról szóló törvényben előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés.
 
-12.
+12. az adóévben szponzori vagy támogatási szerződés keretében nyújtott, a 22/C. § (3a)–(3b) bekezdés szerinti kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
 
 13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából, visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke (ide nem értve az általános forgalmi adóról szóló törvény szerinti árumintát), az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredmény e juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámoló elkészítését követően nyilatkozat útján igazol;
 
@@ -76,7 +76,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 14. A kifizető által viselt képzés (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is) költsége.
 
-15. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha az adóévben visszafizetési kötelezettség nélkül adott támogatásra, juttatásra a 4. § 36., 38. vagy 44–45. pontja alapján került sor.
+15. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha az adóévben visszafizetési kötelezettség nélkül adott támogatásra, juttatásra a 22. § (1) bekezdése vagy a 22/C. § (1) bekezdése alapján került sor.
 
 16. a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció, üzleti ajándék címen személyi jellegű egyéb kifizetésként elszámolt juttatás;
 
