@@ -669,23 +669,3 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 4. azok a befizetési kötelezettségek, amelyekkel összefüggésben a magánszemély adócsökkentést vett igénybe;
 
 5. a tagdíjak, ha törvény másként nem rendelkezik;
-
-6. a közcélú adományok;
-
-7. azok a kiadások, amelyek az I–III. fejezetben és az általános, valamint a vállalkozói tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
-
-8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója;
-
-9. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint nem megállapodás alapján fizetett saját nyugdíjjárulék és egészségbiztosítási járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett saját tagdíj;
-
-10. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a saját maga javára fizetett összeg, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján a saját maga javára fizetett magánnyugdíjpénztári tagdíj és annak kiegészítése;
-
-11. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján fizetett egészségbiztosítási járulék;
-
-12. az értékcsökkenési leírás alapjába beszámító, a tárgyi eszköz, a nem anyagi javak üzembe helyezéséig felmerült kiadás, valamint a felújítási költséget képező kiadások, ha azokkal az egyéni vállalkozó az értékcsökkenési leírás alapját növeli;
-
-13. a vissza nem térítendő munkáltatói támogatás, ide nem értve a magánszemélynek segély címén juttatott összeget;
-
-14. a magánszemély bevétele (jövedelme) után külföldön megfizetett, a személyi jövedelemadónak megfelelő adó.
-
-15. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a vállalkozó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.

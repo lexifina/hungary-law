@@ -50,6 +50,14 @@ c) foglalkoztatói nyugdíjszolgáltató intézménybe a minimálbér 50 százal
 
 meg nem haladó rész akkor, ha a magánszemély nyilatkozik, hogy az adott jogcímen bevétele az adott hónapra más juttatótól nem volt, továbbá akkor, ha a juttató a hozzájárulást havonta, vagy – az adott hónapokra vonatkozó összegek közlésével – több hónapra előre, vagy utólagosan legfeljebb három hónapra utalja át egy összegben. Egyösszegű utalás esetében azt a magánszemélynél a közölt összegeknek megfelelő hónap(ok) szerinti juttatásnak kell tekinteni. A megállapított adót a kifizető a közölt összegeknek megfelelőhónapokra vonatkozó szabályok szerint és mértékkel, előre történő utalás esetén a juttatás közölt hónapjának, utólagos utalás esetén az utalás hónapjának kötelezettségeként vallja be és fizeti meg.
 
+(3a) Béren kívüli juttatásnak minősül a munkáltatói tag által az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összegből az a rész, amely évente nem haladja meg a pénztártag alkalmazottak létszáma és a minimálbér szorzatát azzal, hogy
+
+a) a befizetett összegnek az értékhatárt meghaladó része egyes meghatározott juttatásnak minősül,
+
+b) a béren kívüli juttatásnak az egy magánszemélyre jutó összegét a 70. § (4) bekezdés szerinti éves keretösszeg számításánál figyelmen kívül kell hagyni,
+
+c) az alkalmazottak létszámaként a befizetéskor – az adóéven belül több befizetés esetén az első befizetéskor – pénztártag alkalmazottak létszáma vehető figyelembe.
+
 (4) A kifizető az adókötelezettség megállapításához a béren kívüli juttatásra vonatkozó rendelkezésekben foglalt feltételek általa nem ismert fennállását a magánszemélynek az adott juttatásra vonatkozó nyilatkozata alapján veszi figyelembe.
 
 (5) Ha béren kívüli juttatásra vonatkozóan az adóhatóság a feltételek fennállásának hiányát állapítja meg, a jogkövetkezményeket – ha nem rendelkezik a magánszemély nyilatkozatával – a kifizető viseli. Ha az adóhiány a magánszemély valótlan nyilatkozatának a következménye, illetve a magánszemély a nyilatkozat átadását nem tudja igazolni, akkor az adóhiányt és jogkövetkezményeit a magánszemélynek az adóhatóság határozata alapján kell viselnie.
