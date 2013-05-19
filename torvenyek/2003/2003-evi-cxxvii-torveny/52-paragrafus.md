@@ -37,3 +37,7 @@ f) az a)–e) pont alá nem eső ásványolaj esetében – az üzemanyagkénti 
 (4) A (3) bekezdés rendelkezését nem kell alkalmazni a külön jogszabály szerinti hulladékból a külön jogszabály szerinti hulladékkezelés során egyébásványolaj-gyártó adóraktárban előállított egyéb ellenőrzött ásványolajra és olajtermékre, ide nem értve az üzemanyagként előállított terméket.
 
 (5) A (2) bekezdés b) és d) pontja szerinti adómérték a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
+
+(6) Az adó mértéke az E85 esetében – a (2) bekezdés b) pontjától eltérően – az (1) bekezdés a) pont szerinti adómérték, amennyiben az E85-öt olyan adóraktár-engedélyes bocsátja szabadforgalomba, aki regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban részesült és az (1) bekezdés a) pont szerinti adómérték, valamint a (2) bekezdés b) pont szerinti adómérték különbségének és az (1) bekezdés a) pont szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott regionális beruházási támogatás, a környezetvédelmi beruházási támogatás vagy a mezőgazdasági beruházási támogatás összegét.
+
+(7) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes külön jogszabály szerint nyilatkozik arról, hogy részesült-e regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban.

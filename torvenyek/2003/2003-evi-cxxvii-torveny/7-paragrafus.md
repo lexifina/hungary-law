@@ -18,7 +18,7 @@ f) a csokoládégyártáshoz felhasznált vagy felhasználásra kerülő alkohol
 
 g) az adózott üzemanyagoknak a fuvarozás során vagy az üzemanyagtöltő állomáson, vagy a jövedéki engedélyes kereskedő, illetve a végfelhasználó telephelyén a lefejtéskor bekövetkező keveredését, illetve csővezetékes szállítás esetén az egymás után szállított ásványolajok keveredését,
 
-h) a vegyipari és gyógyszeripari hatóanyagok, intermedierek előállításához használt jövedéki termékek tisztítását, ha azt adómentes felhasználó vagy felhasználói engedélyes végzi és a tisztítással visszanyert jövedéki terméket a vegyipari vagy gyógyszeripari adómentes felhasználó vagy a felhasználói engedélyes az engedélyezett célra használja fel,
+h) az adómentes felhasználói vagy a felhasználói engedélyes tevékenység során szennyezetté vált jövedéki termék tisztítását, ha azt adómentes felhasználó vagy felhasználói engedélyes végzi és a tisztítással visszanyert jövedéki terméket az engedélyezett célra használja fel,
 
 i) a növényi olajok oldószeres kivonással történő gyártásához zárt rendszerben felhasznált 2710 11 25 vámtarifaszámú ásványolaj visszanyerése, amennyiben a gyártási folyamatban újrafelhasználásra kerül,
 
@@ -191,3 +191,9 @@ b) akár menetrendszerű, akár nem menetrendszerű forgalomban, a közúti jár
 használnak fel.
 
 52. légiutas-ellátási tevékenység: a gazdasági célú légi közlekedési tevékenységet végző, a nemzetközi légi forgalomban részt vevő légi járművek fedélzetéről, az utasok részére felszolgálásra vagy értékesítésre szánt, a 3. § (2) bekezdés b)–g) pontja szerinti jövedéki termékek utántöltési célú levétele, ideiglenes tárolása, illetve 15 napon belül gazdasági célú légi közlekedési tevékenységet végző, a nemzetközi légi forgalomban részt vevő légi jármű fedélzetére történő felvitele, amennyiben a levételt, a tárolást és a felvitelt a jövedéki engedélyes kereskedő miniszteri rendeletben előírt módon igazolja.
+
+53. regionális beruházási támogatás: a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásokról szóló iránymutatás (2006/C 54/08), valamint a csoportmentességi rendelet 13. cikke szerinti támogatás;
+
+54. környezetvédelmi beruházási támogatás: a környezetvédelem állami támogatásáról szóló közösségi iránymutatás (2008/C 82/01) 3.1.6.1 pontja szerinti támogatás, valamint a csoportmentességi rendelet 23. cikke szerinti támogatás;
+
+55. mezőgazdasági beruházási támogatás: az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló közösségi iránymutatások, 2007–2013 (2006/C 319/1) IV.A és IV.B pontja szerinti támogatás.
