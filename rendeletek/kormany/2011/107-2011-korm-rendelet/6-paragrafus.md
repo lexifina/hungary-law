@@ -12,6 +12,8 @@ da) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
 db) a támogató szerepel a köztartozásmentes adózói adatbázisban.
 
+e)[^27] a támogatás igénybevételére jogosult szervezet a 4. § (11) bekezdése szerinti közzétételi kötelezettségnek eleget tesz, és ezt a kérelem benyújtásával egyidejűleg igazolja.
+
 (2) A jóváhagyást végző szervezet a támogatási igazolást 3 példányban állítja ki.
 
 (3) A jóváhagyást végző szervezet a kérelemről annak beérkezésétől számított 8 napon belül dönt. A kérelemmel kapcsolatban hiánypótlásnak van helye, ha a jóváhagyást végző szervezet az (1) bekezdés b) pontjában meghatározottak szerint a sportfejlesztési programban feltüntetett összegek Tao. tv. 22/C. § (4) bekezdésében meghatározott legnagyobb mértékének túllépését állapítja meg. Ilyen esetben a támogatás igénybevételére jogosult szervezet 8 napon belül az (1) bekezdés b) pontjában foglalt feltételeknek megfelelő kérelmet nyújthat be a jóváhagyást végző szervezet részére.
@@ -21,3 +23,4 @@ db) a támogató szerepel a köztartozásmentes adózói adatbázisban.
 (5) A jóváhagyást végző szervezet a (4) bekezdésben foglaltaknak megfelelően jár el a kérelem elutasítása esetén, ebben az esetben azonban a kérelem elutasításának tényét közli a támogatás igénybevételére jogosult szervezetettel és a támogatóval.
 
 [^26]: A 6. § (1) bekezdés d) pontját a 76/2012. (IV. 13.) Korm. rendelet 4. §-a iktatta be.
+[^27]: A 6. § (1) bekezdés e) pontját a 134/2013. (V. 9.) Korm. rendelet 2. §-a iktatta be.

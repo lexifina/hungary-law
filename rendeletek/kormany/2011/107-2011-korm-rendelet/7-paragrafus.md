@@ -1,22 +1,33 @@
-7. § (1)[^27] A támogató a jóváhagyást végző szervezet által kiállított támogatási igazolásban szereplő összegű támogatást
+7. § (1)[^28] A támogató a jóváhagyást végző szervezet által kiállított támogatási igazolásban szereplő összegű támogatást, valamint a Tao. tv. 22/C. § (3a) bekezdése szerinti kiegészítő sportfejlesztési támogatást
 
-a) előfinanszírozással megvalósuló támogatás esetén a támogatási igazolás kézhezvételét követően bocsátja – a támogatási igazolásban meghatározott jogcímekre rendelkezésre álló egyes önálló pénzforgalmi számlákra történő átutalással – a támogatás igénybevételére jogosult szervezet részére, és erről 8 napon belül értesíti az állami adóhatóságot,
+a) előfinanszírozással megvalósuló támogatás esetén a támogatási igazolás kézhezvételét követően
 
-b) utófinanszírozással megvalósuló támogatás esetén a Tao. tv. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a sportigazgatási szervnél, a Tao. tv. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetségénél megnyitásra kerülő, elkülönített pénzforgalmi számlára történő átutalással teljesíti, és erről 8 napon belül értesíti az állami adóhatóságot.
+aa) a támogatás tekintetében a támogatási igazolásban meghatározott jogcímekre rendelkezésre álló egyes önálló fizetési számlákra történő átutalással,
 
-(2)[^28] A támogató csak a jóváhagyást végző szervezet által kiállított támogatási igazolás és
+ab) a kiegészítő sportfejlesztési támogatás esetén a látvány-csapatsport országos sportági szakszövetsége, vagy a Tao. tv. 22/C. § (1) bekezdés e) pontjában meghatározott sportköztestület támogatása esetén a sportköztestület által megnyitásra kerülő, e célt szolgáló elkülönített fizetési számlára történő átutalással
 
-a) az (1) bekezdés a) pontja esetén a támogatási igazolásban meghatározott jogcímekre rendelkezésre álló egyes önálló pénzforgalmi számlákra történő átutalást igazoló banki bizonylat állami adóhatóság részére történő megküldése esetén jogosult a Tao. tv. 22/C. § (2) bekezdésében meghatározott adókedvezmény igénybevételére,
+## bocsátja a támogatás igénybevételére jogosult szervezet részére;
 
-b) az (1) bekezdés b) pontja esetén a Tao. tv. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a sportigazgatási szervnél, a Tao. tv. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetségénél megnyitásra kerülő, elkülönített pénzforgalmi számlára történő átutalást igazoló banki bizonylat állami adóhatóság részére történő megküldése esetén jogosult a Tao. tv. 22/C. § (2) bekezdésében meghatározott adókedvezmény igénybevételére.
+b) utófinanszírozással megvalósuló támogatás esetén a támogatási igazolás kézhezvételét követően
 
-(2a)[^29] Az (1) bekezdés b) pontja szerinti támogatás esetén az adott támogatási időszakra vonatkozó elszámolás vagy részelszámolás ellenőrző szervezethez történő benyújtását és az elszámolásnak, részelszámolásnak az ellenőrző szervezet részéről történő elfogadását és az erről szóló értesítést követően – a Tao. tv. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a sportigazgatási szerv, vagy – a Tao. tv. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számláról bocsátja a támogatást – vagy annak az elszámolásban, részelszámolásban elfogadott részét – a támogatás igénybevételére jogosult szervezet rendelkezésére.
+ba) a támogatás tekintetében a Tao. tv. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a sportigazgatási szervnél, a Tao. tv. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetségénél megnyitásra kerülő, elkülönített fizetési számlára történő átutalással,
 
-(2b)[^30] Ha az (1) bekezdés b) pontja szerinti támogatás esetén az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számlán a 11–13. §-ban meghatározottak szerinti elszámolás lezárását követően fel nem használt támogatás áll rendelkezésre, és a támogatott szervezet nem kérelmezte a 14. § (4) bekezdés a) vagy b) pontjában meghatározottak szerint a sportfejlesztési program meghosszabbítását vagy a sport fejlesztését szolgáló új sportfejlesztési program jóváhagyását, akkor a fel nem használt támogatást a sportpolitikáért felelős minisztérium ellenőrző szervezet által közzétett előirányzat felhasználási keretszámlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.
+bb) a kiegészítő sportfejlesztési támogatás esetén a látvány-csapatsport országos szakszövetsége, vagy a Tao. tv. 22/C. § (1) bekezdés e) pontjában meghatározott sportköztestület támogatása esetén a sportköztestület által megnyitásra kerülő, e célt szolgáló elkülönített fizetési számlára történő átutalással
+
+## teljesíti.
+
+(2)[^29]
+
+(2a)[^30] Az (1) bekezdés b) pontja szerinti támogatás esetén az adott támogatási időszakra vonatkozó elszámolás vagy részelszámolás ellenőrző szervezethez történő benyújtását és az elszámolásnak, részelszámolásnak az ellenőrző szervezet részéről történő elfogadását és az erről szóló értesítést követően – a Tao. tv. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a sportigazgatási szerv, vagy – a Tao. tv. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számláról bocsátja a támogatást – vagy annak az elszámolásban, részelszámolásban elfogadott részét – a támogatás igénybevételére jogosult szervezet rendelkezésére.
+
+(2b)[^31] Ha az (1) bekezdés b) pontja szerinti támogatás esetén az (1) bekezdés b) pontjában meghatározott elkülönített fizetési számlán a 11–13. §-ban meghatározottak szerinti elszámolás lezárását követően fel nem használt támogatás áll rendelkezésre, és a támogatott szervezet nem kérelmezte a 14. § (4) bekezdésében meghatározottak szerint a sportfejlesztési program meghosszabbítását, a fel nem használt támogatást a sportpolitikáért felelős miniszter által vezetett minisztérium ellenőrző szervezet által közzétett fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.
+
+(2c)[^32] A Tao. tv. 22/C. § (3a) bekezdése szerinti kiegészítő sportfejlesztési támogatás felhasználásának és elosztásának szabályairól a látvány-csapatsport országos sportági szakszövetség vagy a Tao. tv. 22/C. § (1) bekezdés e) pontjában meghatározott sportköztestület dönt a sportág stratégiai fejlesztési koncepciójának figyelembe vételével.
 
 (3) A támogatási igazolást az adó megállapításához való jog elévülési idejének végéig kell megőrizni.
 
-[^27]: A 7. § (1) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^28]: A 7. § (2) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^29]: A 7. § (2a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^30]: A 7. § (2b) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^28]: A 7. § (1) bekezdése a 134/2013. (V. 9.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^29]: A 7. § (2) bekezdését a 134/2013. (V. 9.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^30]: A 7. § (2a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^31]: A 7. § (2b) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 134/2013. (V. 9.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^32]: A 7. § (2c) bekezdését a 134/2013. (V. 9.) Korm. rendelet 3. § (3) bekezdése iktatta be.

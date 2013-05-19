@@ -10,7 +10,7 @@
 
 | Jóváhagyott támogatási igazolás szerinti támogatási összeg: |  |
 
-| Sorszám | Bizonylatszám | Számla kibocsátója | Megnevezés/ felhasználás | Teljesítés időpontja | Számla bruttó értéke | Elszámolt költség |
+| Sorszám | Bizonylatszám | Számla kibocsátója | Megnevezés/ felhasználás | Teljesítés időpontja | Számla bruttó értéke | Elszámolt költség (támogatás és saját forrás) |
 
 | 1. |  |  |  |  |  |  |
 
