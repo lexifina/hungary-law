@@ -1,0 +1,5 @@
+2. § (1) Az 1. § (1)–(3) bekezdése szerinti beszámolásra kötelezett a tárgyévre vonatkozó, e rendelet szerinti beszámolót a tárgyévet követő év június 30-ig köteles megküldeni a kijelölt szervnek. A kijelölt szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szabályai szerinti eljárás keretében dönt a beszámoló elfogadásáról, illetve állapítja meg a támogatás jogosulatlan igénybevételét és írja elő a visszafizetési kötelezettséget.
+
+(2) A kijelölt szerv a beszámolókat összegzi, és azt legkésőbb a tárgyévet követő év augusztus 31-ig megküldi a kultúráért felelős miniszternek (a továbbiakban: miniszter), a kincstárnak és az érintett előadó-művészeti bizottságnak, továbbá a honlapján gondoskodik annak nyilvánosságra hozataláról.
+
+(3) A kijelölt szerv a (2) bekezdésben szereplő adatszolgáltatást az (1) bekezdésben szereplő határidőre be nem érkezett beszámolók beérkezése és elfogadása után, azok adattartalmával kiegészíti és a kiegészített adatszolgáltatásról a beszámolók elfogadását követő 30 napon belül a (2) bekezdésben meghatározott módon intézkedik.
