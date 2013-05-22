@@ -2,7 +2,7 @@
 
 ## Temetői munkák
 
-23. § (1)[^19] A temetőben történő munkavégzést – a hozzátartozók részéről történő sírgondozás, a temetési hely növénnyel való beültetése és díszítése kivételével – a temető üzemeltetőjének a munkavégzés megkezdését megelőzően be kell jelenteni. Fák ültetésére a szabályzat az irányadó.
+23. § (1)[^20] A temetőben történő munkavégzést – a hozzátartozók részéről történő sírgondozás, a temetési hely növénnyel való beültetése és díszítése kivételével – a temető üzemeltetőjének a munkavégzés megkezdését megelőzően be kell jelenteni. Fák ültetésére a szabályzat az irányadó.
 
 (2) Az üzletszerű tevékenység során a vállalkozó köteles betartani a szabályzatban meghatározott feltételeket.
 
@@ -10,4 +10,4 @@
 
 (4) Búcsúztatás alatt a munkavégzéssel keletkezett hang vagy egyéb hatás nem zavarhatja a szertartást.
 
-[^19]: A 23. § (1) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^20]: A 23. § (1) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

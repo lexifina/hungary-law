@@ -10,6 +10,6 @@
 
 (5) A kórházon kívül elhunyt személyről a rajta található nemesfém ékszereket az elszállítás előtt – ha azt a hozzátartozó nem tette meg – a szállító köteles levenni, és az eltemettetőnek, illetve a közeli hozzátartozónak elismervény ellenében átadni.
 
-(6)[^43] Halottat szállítani felöltöztetve vagy lepedővel lefedve szabad.
+(6)[^44] Halottat szállítani felöltöztetve vagy lepedővel lefedve szabad.
 
-[^43]: A 42. § (6) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 15. §-a iktatta a szövegbe.
+[^44]: A 42. § (6) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 15. §-a iktatta a szövegbe.

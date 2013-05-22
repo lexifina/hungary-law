@@ -1,10 +1,10 @@
-## A temetkezési szolgáltatás engedélyezése[^66]
+## A temetkezési szolgáltatás engedélyezése[^67]
 
-59. §[^67] (1) A Kormány temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
+59. §[^68] (1) A Kormány temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
 
 a) a temetkezési szolgáltatás tekintetében a temetkezési szolgáltató székhelye,
 
-b)[^68] a temető fenntartásával és üzemeltetésével összefüggő feladatok ellenőrzése tekintetében a temető fekvése
+b)[^69] a temető fenntartásával és üzemeltetésével összefüggő feladatok ellenőrzése tekintetében a temető fekvése
 
 szerint fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal) jelöli ki.
 
@@ -42,9 +42,9 @@ d) az ivóvízellátás, a szennyvízgyűjtés módját és a szennyvíz-elhelye
 
 (6) A szennyvízgyűjtés és -elhelyezés módját a kérelemben akkor is meg kell jelölni, ha a telephelyen halottszállító jármű fertőtlenítésénél szennyvíz nem keletkezik.
 
-(7)[^69] Ha a kérelmező a (4) bekezdés a) vagy b) pontjában meghatározott okiratot nem csatolja, a járási hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(7)[^70] Ha a kérelmező a (4) bekezdés a) vagy b) pontjában meghatározott okiratot nem csatolja, a járási hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-[^66]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
-[^67]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^68]: Az 59. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^69]: Az 59. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^67]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
+[^68]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^69]: Az 59. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^70]: Az 59. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.

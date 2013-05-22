@@ -1,6 +1,6 @@
 ## Temetkezési szolgáltatás
 
-47. §[^51] (1) A telephelyen külön helyiséget kell biztosítani:
+47. §[^52] (1) A telephelyen külön helyiséget kell biztosítani:
 
 a) az ügyfelek fogadására, ha a telephelyen temetésfelvétel is történik, és
 
@@ -10,4 +10,4 @@ b) ha a temetésfelvételi tevékenységhez kellékbemutató is társul, a bemut
 
 (3) Több telephellyel rendelkező temetkezési szolgáltató – 1000 fő alatti településen – temetésfelvételi irodát lakáson belül – az elhunyt tiszteletét biztosító körülményeknek megfelelő külön helyiségben – engedély nélkül működtethet.
 
-[^51]: A 47. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A 47. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -6,6 +6,6 @@
 
 (4) A hamvasztóüzem az eltemettető részére igazolást ad az elhunyt hamvasztásának szabályszerű elvégzéséről.
 
-(5)[^65] A hamvasztó-helyiségben üzemidő alatt az üzemeltető szerv dolgozóin és a hatósági ellenőrzést végzőkön kívül más személy csak az üzemeltető vezetőjének engedélyével tartózkodhat.
+(5)[^66] A hamvasztó-helyiségben üzemidő alatt az üzemeltető szerv dolgozóin és a hatósági ellenőrzést végzőkön kívül más személy csak az üzemeltető vezetőjének engedélyével tartózkodhat.
 
-[^65]: Az 58. § (5) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 24. §-a iktatta a szövegbe.
+[^66]: Az 58. § (5) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 24. §-a iktatta a szövegbe.
