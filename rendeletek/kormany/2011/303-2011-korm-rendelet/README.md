@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-303-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-01-01 | 2011-303-20-22.1 | 303/2011. (XII. 23.) Korm. rendelet |
+| 2013-05-22 | 2011-303-20-22.2 | 146/2013. (V. 14.) Korm. rendelet |
