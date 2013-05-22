@@ -1,5 +1,7 @@
-6. § (1) A miniszter – a nemzeti emlékhellyé nyilvánítástól számított 90 napon belül – gondoskodik az ismertető tábla elkészítéséről és a tulajdonosnak – több tulajdonos esetén a maguk közül kijelölt tulajdonosnak – történő megküldéséről. A Bizottság egyidejűleg – a nemzeti emlékhely valamennyi tulajdonosával egyeztetve – javaslatot tesz az ismertető tábla elhelyezésének módjára és közreműködik az ismertető tábla elkészítéséhez kapcsolódó feladatok ellátásában.
+6. §[^6] (1) A Nemzeti Emlékhely és Kegyeleti Bizottság – a nemzeti emlékhely valamennyi tulajdonosával egyeztetve – javaslatot tesz az ismertető tábla elhelyezésének módjára és közreműködik az ismertető tábla elkészítéséhez kapcsolódó feladatok ellátásában.
 
-(2) Az (1) bekezdés szerinti tulajdonos haladéktalanul intézkedik az ismertető tábla nemzeti emlékhelyen történő elhelyezése iránt.
+(2) Az ismertető tábla elkészítéséről és elhelyezéséről az Intézet gondoskodik.
 
-(3) A nemzeti emlékhelyen – a használati tervben meghatározottak szerint – Magyarország zászlaját vagy lobogóját – a középületek fellobogózásának egyes kérdéseiről szóló kormányrendeletben foglaltak alkalmazásával – ki kell tűzni, illetve fel kell vonni.
+(3) A nemzeti emlékhely tulajdonosa vagy kijelölt tulajdonosa a használati tervben meghatározottak szerint – a középületek fellobogózásának egyes kérdéseiről szóló kormányrendeletben foglaltak alkalmazásával – gondoskodik Magyarország zászlajának vagy lobogójának kitűzéséről, illetve felvonásáról.
+
+[^6]: A 6. § a 145/2013. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
