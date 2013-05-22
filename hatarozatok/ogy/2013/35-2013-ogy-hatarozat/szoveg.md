@@ -22,10 +22,6 @@
 
 4. Ez a határozat a közzétételét követő ötödik napon lép hatályba.
 
-5. Az Országgyűlés visszavonja a légvédelem földközeli és kis magasságú oltalmazási képességének megőrzéséről szóló 95/1995. (IX. 28.) OGY határozatot.
+5–6.[^2]
 
-6. Hatályát veszti
-
-a) a Magyar Honvédség további fejlesztésének irányairól szóló 51/2007. (VI. 6.) OGY határozat, és
-
-b) a Magyar Honvédség részletes bontású létszámáról szóló 106/2007. (XII. 6.) OGY határozat.
+[^2]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
