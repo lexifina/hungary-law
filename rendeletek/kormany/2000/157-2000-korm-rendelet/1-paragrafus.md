@@ -1,7 +1,0 @@
-1. § (1) A rendelet hatálya kiterjed a kulturális törvény hatálya alá tartozó muzeális intézményekben, nyilvános könyvtárakban, közlevéltárakban és közművelődési intézményekben közalkalmazotti jogviszonyban álló, teljes munkaidőben és szakmai munkakörben foglalkoztatott dolgozókra (a továbbiakban: kedvezményezettek). E rendelet alkalmazásában szakmai munkakör a 150/1992. (XI. 20.) Korm. rendelet 1. számú mellékletében felsorolt kulturális közalkalmazotti munkakör, ide nem értve az egyéb közalkalmazotti munkakörök alatt szereplő gazdasági, műszaki, igazgatási szakalkalmazottakat, gazdasági, műszaki, igazgatási ügyintézőket, ügyviteli alkalmazottakat, valamint a műszaki fenntartási, üzemviteli alkalmazottakat, továbbá a szakmunkásokat, segédmunkásokat, kisegítő alkalmazottakat.
-
-(2) A hozzájárulást az a kedvezményezett veheti igénybe, aki a tárgyév január 1-jén az (1) bekezdésben felsorolt intézmények alkalmazásában állt.
-
-(3) A kulturális törvény 94. §-ának (5) bekezdésében meghatározott hozzájárulást a kedvezményezettek természetbeni juttatásként vásárlási utalvány-keret formájában vehetik igénybe.
-
-(4) A hozzájárulás igénybevételének biztosításáról a Nemzeti Kulturális Örökség Minisztériuma (a továbbiakban: minisztérium) gondoskodik. A minisztérium évente január 15-éig közleményt ad ki a hozzájárulás nettó összegéről (a továbbiakban: utalvány-keret), a lebonyolítóval és a lebonyolítással kapcsolatos információkról.
