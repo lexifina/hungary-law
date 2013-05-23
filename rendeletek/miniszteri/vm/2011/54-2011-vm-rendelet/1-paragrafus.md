@@ -26,7 +26,7 @@
 
 12. LEADER HACS illetékességi területe: a LEADER HACS előzetes elismeréséről vagy a LEADER HACS elismeréséről szóló határozatában meghatározott terület, amelynek vonatkozásában a LEADER HACS helyi vidékfejlesztési stratégiát fogalmaz meg;
 
-13.[^5] LEADER terv: a Helyi Vidékfejlesztési Stratégia (a továbbiakban: HVS) azon része, amely az 1698/2005/EK tanácsi rendelet 61–65. cikkében előírtaknak, valamint az IH által meghatározott egyéb feltételeknek megfelelő fejlesztéseket tartalmaz;
+13.[^5] LEADER terv: a Helyi Vidékfejlesztési Stratégia (a továbbiakban: HVS) azon része, amely a helyi közösség által elfogadott térségi célkitűzéseket és az 1698/2005/EK tanácsi rendelet 61–65. cikkében előírtaknak, valamint az IH által meghatározott egyéb feltételeknek megfelelő fejlesztéseket tartalmazza;
 
 14.[^6] munkaszervezet: a LEADER HACS által létrehozott, , ügyviteli és adminisztratív szervezet, amely a LEADER HACS és az IH között megkötött együttműködési szerződés alapján látja el tevékenységét az ÚMVP III. és IV. tengely intézkedéseinek végrehajtása érdekében, amelynek vezetője nem lehet a LEADER HACS címmel rendelkező egyesület elnöke;
 
@@ -40,6 +40,6 @@
 [^2]: Az 1. § 5. pontja a 126/2012. (XII. 12.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 10. pontja a 30/2012. (III. 24.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 11. pontja a 126/2012. (XII. 12.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^5]: Az 1. § 13. pontja a 126/2012. (XII. 12.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 13. pontja a 35/2013. (V. 22.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 14. pontja a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^7]: Az 1. § 17. pontját a 30/2012. (III. 24.) VM rendelet 15. § (2) bekezdése iktatta be.

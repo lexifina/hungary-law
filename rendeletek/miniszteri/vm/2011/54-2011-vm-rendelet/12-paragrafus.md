@@ -16,6 +16,6 @@ e) a HVS tartalmának megismertetése az új HACS területén élőkkel;
 
 f) a HVS IH általi jóváhagyásra való beküldése után az IH által jelzett esetleges pontosításoknak a HVS-en való elvégzése.
 
-(3)[^22] A HVS két részből, az ÚMVP intézkedéscsoportjának „falumegújítás és fejlesztés, „vidéki örökség megőrzése és fenntartható fejlesztése”, „mikrovállalkozások létrehozása és fejlesztése”, „turisztikai tevékenységek ösztönzése” intézkedéseire építhető Helyi Vidékfejlesztési Tervből, valamint a 1698/2005/EK tanácsi rendeletben foglaltaknak megfelelő támogatási konstrukciókra építhető LEADER tervből áll.
+(3)[^23] A HVS két részből, az ÚMVP intézkedéscsoportjának „falumegújítás és fejlesztés, „vidéki örökség megőrzése és fenntartható fejlesztése”, „mikrovállalkozások létrehozása és fejlesztése”, „turisztikai tevékenységek ösztönzése” intézkedéseire építhető Helyi Vidékfejlesztési Tervből, valamint a 1698/2005/EK tanácsi rendeletben foglaltaknak megfelelő támogatási konstrukciókra építhető LEADER tervből áll.
 
-[^22]: A 12. § (3) bekezdése a 140/2011. (XII. 22.) VM rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^23]: A 12. § (3) bekezdése a 140/2011. (XII. 22.) VM rendelet 4. § (5) bekezdésével megállapított szöveg.
