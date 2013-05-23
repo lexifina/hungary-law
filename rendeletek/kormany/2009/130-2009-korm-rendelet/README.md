@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-130-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-06-19 | 2009-130-20-22.1 | 130/2009. (VI. 18.) Korm. rendelet |
+| 2013-05-23 | 2009-130-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
