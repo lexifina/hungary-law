@@ -6064,4 +6064,12 @@ Tudomásul veszem, hogy a tanulmány elkészítése során nem fogadható el és
 
 – az interneten publikált írások változtatás nélküli2 beépítése;
 
+– más személy vagy a tanulmány készítője által elkészített és már korábban nyilvánosságra hozott, bármilyen címen, célból leadott tanulmány vagy dolgozat változtatás nélküli újbóli beadása.
+
+Alulírott ……………………………………………………………, mint a tanulmányt tartalmazó kérelem (pályázat) benyújtója büntetőjogi felelősségem tudatában nyilatkozom és aláírásommal igazolom, hogy a tanulmány készítője által tett nyilatkozat helytálló.
+
+E nyilatkozat aláírásával tudomásul veszem továbbá, hogy amennyiben a tanulmány a fenti feltételeknek nem felel meg, a tanulmány és ezáltal a kérelem elutasításra kerül.
+
+………………….., 201……………………………
+
 [^1.]: A sorszámokhoz tartozó LEADER HACS-ok neveit az IH közleményben teszik közzé.

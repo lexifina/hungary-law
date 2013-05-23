@@ -98,32 +98,8 @@
 
 ## 5. kompetenciák: magas szintű kommunikációs és együttműködési készség, jó helyi kapcsolatok, elfogadottság és támogatottság.
 
-## Vezetői szerepkör csak felsőfokú végzettséggel tölthető be. Vezető kinevezésére kötelező érvényűek a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet előírásai. Ha a LEADER HACS nem rendelkezik jelen esetben olyan vezetővel, aki a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet előírásainak, 3. számú melléklete szerinti képesítési előírásoknak megfelel, akkor köteles felvenni legalább egy főt a vonatkozó rendelet előírásainak megfelelően.
+## Vezetői szerepkör csak felsőfokú végzettséggel tölthető be. Vezető kinevezésére kötelező érvényűek a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet előírásai. Ha a LEADER HACS nem rendelkezik olyan vezetővel, aki a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 3. melléklet 14. 35., 87., 88., 123. vagy 125. pontja I. besorolási osztály szerinti képesítési előírásainak megfelel, akkor köteles felvenni legalább egy főt a vonatkozó rendelet előírásainak megfelelően.
 
-## Ügyintéző (legalább 1 fő)
+9. melléklet a 30/2012. (III. 24.) VM rendelethez[^24]
 
-## 1. felsőfokú végzettség vagy középfokú végzettség és legalább 3 év szakmai tapasztalat,
-
-## 2. magyar állampolgárság,
-
-## 3. erkölcsi bizonyítvány,
-
-## 4. felhasználói szintű számítógépes ismeretek.
-
-## Ügyintéző egyben elláthat ügykezelői feladatot is, ebben az esetben nincs szükség külön ügykezelő alkalmazására.
-
-## Ügykezelő (1 fő)
-
-## 1. középfokú végzettség,
-
-## 2. adminisztrációs gyakorlat,
-
-## 3. felhasználói szintű számítógépes ismeret,
-
-## 4. magyar állampolgárság,
-
-## 5. erkölcsi bizonyítvány.
-
-9. melléklet a 30/2012. (III. 24.) VM rendelethez[^20]
-
-[^20]: A 9. melléklet az 52/2012. (VI. 8.) VM rendelet 18. § (7) bekezdése szerint módosított szöveg.
+[^24]: A 9. melléklet az 52/2012. (VI. 8.) VM rendelet 18. § (7) bekezdése szerint módosított szöveg.

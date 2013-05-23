@@ -26,4 +26,6 @@
 
 ## 6. A képviseletre jogosult cégszerű aláírása
 
-8. melléklet a 30/2012. (III. 24.) VM rendelethez
+8. melléklet a 30/2012. (III. 24.) VM rendelethez[^23]
+
+[^23]: A 8. melléklet a 35/2013. (V. 22.) VM rendelet 22. § (4) bekezdése szerint módosított szöveg.

@@ -34,7 +34,7 @@ b) háromhavonta a benyújtás hónapját közvetlenül megelőző három hónap
 
 ## január 1. és 31., április 1. és 30., július 1. és 31., valamint október 1. és 31. között.
 
-(5a)[^12] Az (5) bekezdés b) pontja szerinti kifizetési kérelmek esetén, a 2012. évben a harmadik negyedévi határidőt megtartottnak kell tekinteni, amennyiben a benyújtás 2012. augusztus 15-ig megtörtént.
+(5a)[^15] Az (5) bekezdés b) pontja szerinti kifizetési kérelmek esetén, a 2012. évben a harmadik negyedévi határidőt megtartottnak kell tekinteni, amennyiben a benyújtás 2012. augusztus 15-ig megtörtént.
 
 (6) Az (5) bekezdés a) pontja szerinti kifizetési kérelem benyújtására kizárólag az a LEADER HACS jogosult, amely az MVH-val kötött feladat átruházásról szóló szerződésben meghatározott feladatait ellátja.
 
@@ -56,14 +56,14 @@ c) a 2. § (1) bekezdés c) pontja, a 2. § (4) bekezdése, az 5. § (4) és (9)
 
 d) a külön MVH közleményben megjelölt dokumentumokat; valamint
 
-e)[^13] a 2. § (1) bekezdés c) pontjában meghatározott tanulmány, helyzetfeltáró elemzés elszámolásakor az 5. § (8) bekezdés szerinti döntéseket, a 10. melléklet szerinti nyilatkozatot és a 4. melléklet szerinti vonatkozó IH jóváhagyást.
+e)[^16] a 2. § (1) bekezdés c) pontjában meghatározott tanulmány, helyzetfeltáró elemzés elszámolásakor az 5. § (8) bekezdés szerinti döntéseket, a 10. melléklet szerinti nyilatkozatot és a 4. melléklet szerinti vonatkozó IH jóváhagyást.
 
-(9)[^14] A 80.20.10 TESZOR alatt elszámolható Távfelügyelet, felügyeleti rendszerek költsége megnevezésű elszámolható kiadásra vonatkozóan a 2010. július 1. után felmerült, pénzügyileg teljesített, az MVH által még ki nem fizetett kiadásokat igazoló bizonylatok elszámolhatóak a 2012. április 1. és 30. között benyújtott kifizetési kérelemben.
+(9)[^17] A 80.20.10 TESZOR alatt elszámolható Távfelügyelet, felügyeleti rendszerek költsége megnevezésű elszámolható kiadásra vonatkozóan a 2010. július 1. után felmerült, pénzügyileg teljesített, az MVH által még ki nem fizetett kiadásokat igazoló bizonylatok elszámolhatóak a 2012. április 1. és 30. között benyújtott kifizetési kérelemben.
 
 (10) A Vhr. 19. § (6) bekezdésétől eltérően a kiadást igazoló bizonylaton az ügyfél nem köteles feltüntetni a tétel Szolgáltatások Jegyzéke (a továbbiakban: SZJ) vagy a vámtarifa számát (a továbbiakban: VTSZ) vagy a Kombinált Nomenklatúrakódját (a továbbiakban: KN-kód), ha az általános forgalmi adóról szóló törvény nem írja elő. Az általános forgalmi adó alapját, mértékét, az 1–3. mellékletben meghatározott, elszámolható tételek lista szerinti beazonosítását lehetővé tevő, pontos megnevezését a bizonylatnak tartalmaznia kell.
 
 (11) Az MVH a kifizetési kérelem értékelése során a költségek jogosultságának vizsgálata érdekében a 65/2011/EU bizottsági rendelet 24. cikke alapján adminisztratív ellenőrzést végez. A tanulmányok, helyzetfeltáró elemzések esetén az MVH a 11. melléklet szerinti formai és tartalmi ellenőrzést végez.
 
-[^12]: A 11. § (5a) bekezdését a 110/2012. (X. 15.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^13]: A 11. § (8) bekezdés e) pontja a 126/2012. (XII. 12.) VM rendelet 8. § (6) bekezdésével megállapított szöveg.
-[^14]: A 11. § (9) bekezdése az 52/2012. (VI. 8.) VM rendelet 18. § (5) bekezdésével megállapított szöveg.
+[^15]: A 11. § (5a) bekezdését a 110/2012. (X. 15.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^16]: A 11. § (8) bekezdés e) pontja a 126/2012. (XII. 12.) VM rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^17]: A 11. § (9) bekezdése az 52/2012. (VI. 8.) VM rendelet 18. § (5) bekezdésével megállapított szöveg.
