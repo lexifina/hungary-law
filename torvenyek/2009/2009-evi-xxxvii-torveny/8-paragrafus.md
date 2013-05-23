@@ -32,4 +32,6 @@ b) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület,
 
 (7) Az állam 100%-os tulajdonában álló erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonból csak abban az esetben kerülhet ki, ha nem szomszédos az állam 100%-os tulajdonában álló erdővel.
 
-(8) Az optimális állami birtokszerkezet kialakítása során végrehajtott birtokösszevonási célú önkéntes földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
+(8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú önkéntes földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
+
+(9) Az osztatlan közös tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonban lévő hányadának a használatára, hasznosítására, a Nemzeti Földalapba tartozó vagyonra vonatkozó általános szabályokat kell alkalmazni.
