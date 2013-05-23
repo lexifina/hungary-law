@@ -1,1 +1,1 @@
-25. § A termőföldről szóló törvény alapján az államot megillető elővásárlási jogot a termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályairól szóló rendeletben meghatározott módon az NFA gyakorolja.
+25. § A Tft. alapján az államot megillető elővásárlási jogot a termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályairól szóló rendeletben meghatározott módon az NFA gyakorolja.

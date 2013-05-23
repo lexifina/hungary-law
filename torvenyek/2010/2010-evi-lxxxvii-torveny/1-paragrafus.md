@@ -14,7 +14,7 @@ d) művelés alól kivett, honvédelmi célra feleslegessé nyilvánított terü
 
 (2a) E törvény alkalmazásában földrészletnek minősül az (1) bekezdésben meghatározott terület, függetlenül attól, hogy az az ingatlan-nyilvántartásban önálló földrészletként vagy a földrészlet alrészleteként van nyilvántartva.
 
-(2b) E törvény alkalmazásában a hasznosítás fogalmán a Nemzeti Földalapba tartozó földrészletnek a 3. §-ban meghatározott tulajdonosi jogok gyakorlója által e törvényben meghatározott módon, jogcímen történő átadását, átengedését kell érteni.
+(2b) E törvény alkalmazásában a hasznosítás fogalmán a Nemzeti Földalapba tartozó földrészletnek – a közös tulajdonban álló földrészlet esetében az állam tulajdoni hányadának, illetve az ennek megfelelő területnek – a 3. §-ban meghatározott tulajdonosi jogok gyakorlója által e törvényben meghatározott módon, jogcímen történő átadását, átengedését kell érteni.
 
 (2c) Az (1) bekezdéstől eltérően nem képezi a Nemzeti Földalap részét a Nemzeti Eszközkezelő Zrt. által az állam javára megvásárolt ingatlan.
 

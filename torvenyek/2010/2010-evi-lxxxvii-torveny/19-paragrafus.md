@@ -18,7 +18,7 @@ b) végelszámolásának kezdő időpontját
 
 követő napon.
 
-(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés a) pontja szerinti felszámolási eljárás vagy végelszámolási eljárás, illetve az (1) bekezdés b) vagy d) pontja szerinti kizáró ok, az NFA jogosult a szerződést azonnali hatállyal felmondani.
+(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés b) vagy d) pontja szerinti kizáró ok, az NFA jogosult a szerződést azonnali hatállyal felmondani.
 
 (3) A Nemzeti Földalapba tartozó földrészlet hasznosításának részletes szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 

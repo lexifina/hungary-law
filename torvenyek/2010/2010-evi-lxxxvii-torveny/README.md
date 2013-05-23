@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2013-01-01 | 2012. évi CCXIII. törvény | 2010-87-00-00.11 |
 | 2013-04-29 | 2013. évi XL. törvény | 2010-87-00-00.12 |
 | 2013-05-17 | 2013. évi LIII. törvény | 2010-87-00-00.13 |
+| 2013-05-23 | 2013. évi LIX. törvény | 2010-87-00-00.14 |
