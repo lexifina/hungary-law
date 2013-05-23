@@ -4,4 +4,6 @@
 
 43. § (1) Az előirányzat a közalapítvány alapító okiratában meghatározott feladatok, valamint az 1947-es Párizsi Békeszerződés 27. cikk 2. pontjában foglaltak szerint a Holocaust túlélőinek támogatására szolgál.
 
-(2) Az előirányzat egyedi döntéssel, a kedvezményezettel megkötött támogatási szerződés alapján, előfinanszírozás formájában kerül felhasználásra.
+(2)[^4] Az előirányzat egyedi döntéssel, a kedvezményezettel megkötött támogatási szerződés alapján, elő- vagy utófinanszírozás formájában kerül felhasználásra.
+
+[^4]: A 43. § (2) bekezdése az 5/2013. (V. 22.) KIM rendelet 4. §-ával megállapított szöveg.

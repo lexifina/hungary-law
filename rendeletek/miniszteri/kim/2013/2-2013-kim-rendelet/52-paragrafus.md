@@ -2,9 +2,9 @@
 
 ## 52. § Hatályát veszti
 
-a)[^1]
+a)[^8]
 
-b)[^2]
+b)[^9]
 
-[^1]: Az 52. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 52. § b) pontja az 50. § (2) bekezdése alapján 2013. július 31-én lép hatályba.
+[^8]: Az 52. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 52. § b) pontja az 50. § (2) bekezdése alapján 2013. július 31-én lép hatályba.
