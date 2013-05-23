@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-149-20-
 | 2013-05-02 | 2012-149-20-2Y.2 | 28/2013. (IV. 30.) VM rendelet |
 | 2013-05-07 | 2012-149-20-2Y.3 | 28/2013. (IV. 30.) VM rendelet |
 | 2013-05-10 | 2012-149-20-2Y.4 | 28/2013. (IV. 30.) VM rendelet |
+| 2013-05-23 | 2012-149-20-2Y.5 | 36/2013. (V. 22.) VM rendelet |
