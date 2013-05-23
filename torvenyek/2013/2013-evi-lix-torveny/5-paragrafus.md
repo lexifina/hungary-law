@@ -1,0 +1,5 @@
+5. § Az Nfatv. 31. §-a helyébe a következő rendelkezés lép:
+
+„31. § (1) Ha a Nemzeti Földalapba tartozó földrészlet az ingatlan-nyilvántartás szerinti adatainak megváltozása következtében kikerül e törvény hatálya alól, az adatváltozás átvezetéséről szóló ingatlanügyi hatósági határozat jogerőre emelkedésétől számított 30 napon belül a földrészletet az NFA átadja az MNV Zrt.-nek, egyúttal kivezeti a vagyonnyilvántartásából.
+
+(2) Ha törvény valamely földrészletnek a magyar állam tulajdonába, és a Nemzeti Földalapba való kerüléséről rendelkezik, de a földrészlet – annak ingatlan-nyilvántartás szerinti adatai alapján – nem felel meg az 1. § (1) bekezdésében vagy a 3. § (3) bekezdésében foglaltaknak, az NFA haladéktalanul intézkedik a földrészletnek az MNV Zrt. részére történő átadásáról, és a vagyon-nyilvántartásából való kivezetéséről.”
