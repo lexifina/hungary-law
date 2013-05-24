@@ -1,0 +1,145 @@
+# A Kormány 152/2013. (V. 24.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 80. szám, 2013. május 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/82dbd3345a7e767a805b2499fb8573697eb0fdda/dokumentumok/fc655e937e7087323c76fac174c15990bed2f8a6/letoltes)
+
+---
+
+A Kormány 152/2013. (V. 24.) Korm. rendelete
+a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendeletnek a fővárosi és megyei
+kormányhivatalok kormányablakaiban intézhető ügykörökkel kapcsolatos módosításáról
+A Kormány a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi
+integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § a) pontjában és 21/A. § b) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 2. melléklete e rendelet
+melléklete szerint módosul.
+2. §
+Ez a rendelet 2013. július 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+Melléklet a 152/2013. (V. 24.) Korm. rendelethez
+1. A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 2. melléklet 1. pontja a következő
+40–107. alponttal egészül ki:
+(A kormányablakban is előterjeszthetők a következő kérelmek, és megtehetők a következő bejelentések:)
+„1.40. otthonteremtési támogatás iránti kérelem,
+1.41. gyermektartásdíj állam általi megelőlegezése iránti kérelem,
+1.42. gyermek családi és utónevének megállapítása iránti kérelem,
+1.43. a családi jogállás megállapítása iránti perindításhoz történő hozzájárulás iránti kérelem,
+1.44. a 16. életévet betöltött gyermek házasságkötésének engedélyezése iránti kérelem,
+1.45. lakáscélú állami támogatásokat (közvetlen támogatások, kamattámogatások) igénylők hitelintézeti elutasítása
+miatt a támogatásra való jogosultság feltételeinek a megállapítása iránti kérelem,
+1.46. lakástámogatás visszafizetési kötelezettség felfüggesztése iránti kérelem,
+1.47. hatósági közvetítői nyilvántartásba vétel iránti kérelem,
+1.48. hatósági közvetítői nyilvántartásból való törlésre irányuló kérelem,
+1.49. igazolás kiadása iránti kérelem arról, hogy az ügyfél nem kedvezményezettje másik lakás-takarékpénztári
+szerződésnek,
+1.50. lakástakarék-pénztári megtakarítás esetén az állami támogatás visszafizetésére kötelezettek fizetési könnyítés
+iránti kérelme,
+1.51. lakásfenntartási támogatás iránti kérelem,
+1.52. az egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet szerinti,
+törlesztési kötelezettség felfüggesztése iránti kérelem,
+1.53. aktív korúak ellátása iránti kérelem,
+1.54. rendezvénytartási engedély kiadása iránti kérelem,
+1.55. rendezvénytartási engedély jogosultjának adatváltozásról szóló bejelentése,
+1.56. rendezvénytartási engedély jogosultjának bejelentése a tevékenység megszüntetéséről,
+1.57. adó- és értékbizonyítvány kiállítása iránti kérelem,
+1.58. olyan személynek a bejelentése, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik,
+
+1.59. az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon
+kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti
+panasz benyújtása, kivéve az állami adó- és vámhatóság elleni panaszokat,
+1.60. a Rendőrségről szóló 1994. évi XXXIV. törvény 92. §-a szerinti panasz benyújtása,
+1.61. a közterület-felügyeletről szóló 1999. évi LXIII. törvény 26. §-a szerinti panasz benyújtása,
+1.62. az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az
+iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 22. § (4) bekezdés b) pontja szerinti
+panasz benyújtása,
+1.63. az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon
+kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti
+közérdekű bejelentés benyújtása, kivéve az állami adó- és vámhatósághoz intézett közérdekű bejelentéseket,
+1.64. annak igazolása iránti kérelem, hogy a kérelmező az elmebeteget gondozásban, ellátásban és felügyeletben
+tudja részesíteni,
+1.65. anyakönyvi kivonat kiállítása iránti kérelem,
+1.66. temetkezési szolgáltatási tevékenység engedélyezése iránti kérelem,
+1.67. állatvásár tartásának engedélyezése iránti kérelem,
+1.68. állatpiac tartásának engedélyezése iránti kérelem,
+1.69. állatkiállítás tartásának engedélyezése iránti kérelem,
+1.70. közterületen lévő fás szárú növény kivágásának engedélyezése iránti kérelem,
+1.71. állatmenhely létesítésének engedélyezésére irányuló kérelem,
+1.72. állatpanzió létesítésének engedélyezésére irányuló kérelem,
+1.73. üzlet működési engedélyének kiadása iránti kérelem,
+1.74. vásár üzemeltetésének engedélyezésére irányuló kérelem,
+1.75. vásár 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
+1.76. piac üzemeltetésének engedélyezésére irányuló kérelem,
+1.77. piac 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
+1.78. bevásárlóközpont üzemeltetésére irányuló bejelentés,
+1.79. helyi termelői piac üzemeltetésére irányuló szándék bejelentése,
+1.80. helyi termelői piac 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
+1.81. szálloda szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.82. panzió szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.83. kemping szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.84. üdülőház szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.85. közösségi szálláshely szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.86. egyéb szálláshely szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.87. szálloda szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.88. panzió szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.89. kemping szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.90. üdülőház szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.91. közösségi szálláshely szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.92. egyéb szálláshely szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.93. szálloda szálláshely megszüntetésének bejelentése,
+1.94. panzió szálláshely megszüntetésének bejelentése,
+1.95. kemping szálláshely megszüntetésének bejelentése,
+1.96. üdülőház szálláshely megszüntetésének bejelentése,
+1.97. közösségi szálláshely megszüntetésének bejelentése,
+1.98. egyéb szálláshely megszüntetésének bejelentése,
+1.99. természetes személy, gazdálkodó szervezet üzletszerű ingatlanközvetítői tevékenység engedélyezése iránti
+kérelme,
+1.100. természetes személy, gazdálkodó szervezet üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység
+engedélyezése iránti kérelme,
+1.101. építésügyi hatósági engedélyezés iránti kérelem:
+1.101.1. építési engedély iránti kérelem,
+1.101.2. összevont engedély iránti kérelem,
+
+1.101.3. fennmaradási engedély iránti kérelem,
+1.101.4. használatbavételi engedély iránti kérelem,
+1.101.5. bontási engedély iránti kérelem,
+1.101.6. az országos építési követelményektől való eltérés engedélyezése iránti kérelem,
+1.101.7. engedély hatályának meghosszabbítása iránti kérelem,
+1.101.8. összevont telepítési engedély iránti kérelem,
+1.102. építésügyi hatósági tudomásulvétel iránti kérelem:
+1.102.1. jogutódlás tudomásulvétele iránti kérelem,
+1.102.2. használatbavétel tudomásulvétele iránti kérelem,
+1.102.3. veszélyhelyzet esetén szükségessé váló építési tevékenység tudomásulvétele iránti kérelem,
+1.103. építésügyi hatósági eljárásban benyújtott egyéb kérelem:
+1.103.1. hatósági bizonyítvány kiállítása iránti kérelem,
+1.103.2. előzetes szakhatósági hozzájárulás iránti kérelem,
+1.104. építésfelügyeleti hatósági tudomásulvétel iránti kérelem:
+1.104.1. bontás tudomásulvétele iránti kérelem,
+1.104.2. kivitelezés kezdésének tudomásulvétele iránti kérelem,
+1.105. építésügyi hatósági szolgáltatás iránti kérelem,
+1.106. elektronikus gyűjtőtárhely és feltöltő tárhely létesítése az Építésügyi hatósági engedélyezési eljárásokat
+Támogató elektronikus Dokumentációs Rendszerben (ÉTDR),
+1.107. információ, illetve adatszolgáltatás az Építésügyi Dokumentációs és Információs Központ Országos Építésügyi
+Nyilvántartás (OÉNY) nyilvános adataiból.”
+2. A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 2. melléklet 2. pontja a következő
+14–18. alponttal egészül ki:
+(A kormányablak tájékoztatást nyújt az ügyfélnek az eljárás menetéről, valamint az eljárással kapcsolatos ügyféli
+jogokról és kötelezettségekről a következő ügyekben:)
+„2.14. tájékoztatás a tervezett építési tevékenység engedélyezésére, a választott eljárástípus lefolytatására
+hatáskörrel rendelkező illetékes építésügyi hatóság megnevezéséről és elérhetőségéről,
+2.15. tájékoztatás arról, hogy mely hatósági engedély iránti kérelmek nyújthatók be együtt,
+2.16. tájékoztatás a kérelmezendő eljárástípus illetékének mértékéről,
+2.17. tájékoztatás az egyes szakhatósági eljárások illetékének vagy igazgatási szolgáltatási díjának mértékéről,
+2.18. információ, felvilágosítás és segítségnyújtás az Építésügyi hatósági engedélyezési eljárásokat Támogató
+elektronikus Dokumentációs Rendszer (ÉTDR) kapcsán az elektronikus ügyintézésre vonatkozóan.”
+3. A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 2. melléklet 4. pont 1. alpontja
+helyébe a következő rendelkezés lép:
+„4.1. A kormányablak Internet használatot és hozzáférést biztosít az Építésügyi Dokumentációs és Információs
+Központ, valamint Országos Építésügyi Nyilvántartás adataihoz, és elektronikus alkalmazásainak használatához,
+elektronikus ügyintézés indításához.”
+4. A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 2. melléklet 4. pontja a következő
+3. alponttal egészül ki:
+„4.3. A kormányablak beszedi, továbbítja, illetve igazolja az építésügyi és építésfelügyeleti hatósági és
+a szakhatósági eljárás illetékét és az építésügyi igazgatási szolgáltatási díját.”
+5. Hatályát veszti a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 2. melléklet
+2. pont 12. alpontja.

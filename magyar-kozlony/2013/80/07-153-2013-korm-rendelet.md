@@ -1,0 +1,243 @@
+# A Kormány 153/2013. (V. 24.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 80. szám, 2013. május 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/82dbd3345a7e767a805b2499fb8573697eb0fdda/dokumentumok/fc655e937e7087323c76fac174c15990bed2f8a6/letoltes)
+
+---
+
+A Kormány 153/2013. (V. 24.) Korm. rendelete
+a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló
+262/2010. (XI. 17.) Korm. rendelet módosításáról
+A Kormány
+a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében a következőket rendeli el:
+1. §
+A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.)
+Korm. rendelet (a továbbiakban: Hr.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendelet hatálya a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos eljárásokra,
+jogügyletekre, jogviszonyokra, valamint az azokban részt vevő természetes személyekre, jogi személyekre vagy jogi
+személyiséggel nem rendelkező szervezetekre terjed ki. E rendelet hatálya – az I., az V–VI. és a VIII. fejezetben foglalt
+rendelkezések kivételével – nem terjed ki a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban:
+Nfatv.) 21. és 22. §-ban meghatározott eljárásokra és jogügyletekre.”
+2. §
+A Hr. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A földrészletnek eladás, ellenszolgáltatás fejében történő vagyonkezelésbe adás vagy csere útján történő
+hasznosítására vonatkozó döntés megalapozásához el kell végeztetni az érintett földrészlet forgalmi értékbecslését
+(a továbbiakban: értékbecslés). Az eladásra, az ellenszolgáltatás fejében történő vagyonkezelésbe adásra vagy
+cserére vonatkozó döntés az értékbecslésben rögzített érvényességi időn belül hozható meg.”
+3. §
+A Hr. 7. § (2) bekezdés 18. pontja helyébe a következő rendelkezés lép:
+„18. annak rögzítését, hogy a nyertes pályázó által benyújtott pályázatot a 22. § (3) bekezdésben meghatározottak
+szerint nyilvánosságra kell hozni, továbbá a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános
+adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint, hogy az Nfatv. 30. §
+(2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni.”
+4. §
+A Hr. 10. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A biztosíték összegét a (2) bekezdés
+a) a) pontjában meghatározott esetekben a pályázati felhívás visszavonásáról szóló hirdetmény közzétételét,
+b) b) pontjában meghatározott esetben a pályázati eljárás eredménytelenségéről szóló döntés hirdetményi közzétételét,
+c) c) pontjában meghatározott esetben az ajánlati kötöttség megszűnését
+követő nyolc napon belül kell visszafizetni.”
+5. §
+A Hr. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A pályázó a pályázatát zárt borítékban, egy példányban – minden oldalon eredetiben cégszerű aláírással,
+magánszemélyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – köteles a pályázat benyújtására
+nyitva álló határidőben, a megadott helyen, az adott pályázati azonosítószám feltüntetésével, személyesen vagy
+meghatalmazott útján benyújtani.”
+6. §
+A Hr. 15. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A pályázatok felbontása után az NFA képviselője a pályázat anyagát értékelés céljából átadja a 16. §-ban
+meghatározott értékelő bizottságnak.”
+7. §
+A Hr. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A pályázatok elbírálására vonatkozó döntés előkészítése érdekében – a 6. § (5) bekezdésében meghatározott
+előminősítési eljárás kivételével – az NFA alkalmazottaiból, illetőleg az NFA által megbízott külső szakértőkből
+értékelő bizottságot (a továbbiakban: bizottság) kell létrehozni. A bizottság elnökét és tagjait (a továbbiakban
+együtt: bizottság tagjai) az NFA elnöke írásban nevezi ki, a bizottság elnökének és tagjainak egyidejű
+megnevezésével. A külső szakértőként kinevezett tag helyett – az NFA hozzájárulásával – annak meghatalmazottja
+is eljárhat. A meghatalmazás egy másolati példányát a bizottság által készített jegyzőkönyvhöz kell csatolni.
+Az egyes pályázatok tartalmával és azok értékelésének eredményével összefüggésben a bizottság tagjait titoktartási
+kötelezettség terheli.”
+
+8. §
+A Hr. 20. § (1) bekezdése a következő c) ponttal egészül ki:
+[Érvénytelen és így eredménytelenné válik a pályázati eljárás, ha]
+„c) a pályázati felhívás, illetve a pályázati kiírás nem felel meg a 7. § (1)–(5) bekezdésében foglaltaknak.”
+9. §
+A Hr. 21. § helyébe a következő rendelkezés lép:
+„21. § Az NFA a pályázati eljárás során készített jegyzőkönyveket, és egyéb dokumentumokat, továbbá
+a nyertes pályázó, illetve a 23. § (2) bekezdésében meghatározott esetek fennállása esetén a következő legjobb
+pályázatot benyújtó pályázó (a továbbiakban együtt: NFA-val szerződést kötő pályázó) által benyújtott pályázati
+dokumentációkat köteles öt évig megőrizni.”
+10. §
+A Hr. 22. §-a helyébe a következő rendelkezés lép:
+„22. § (1) Az NFA a pályázati eljárás eredményét az elbírálást követően haladéktalanul, de legkésőbb öt munkanapon
+belül írásban közli valamennyi pályázóval.
+(2) Az NFA a pályázati eljárás eredményét – az (1) bekezdésben meghatározott határidőn belül – hirdetmény
+formájában, a pályázati felhívással megegyező helyeken és módon is közzéteszi. Az eredmény közlésének
+tartalmaznia kell a nyertes pályázó nevét, lakóhelyét (székhelyét), az általa ajánlott és az NFA által elfogadott
+ellenszolgáltatást, és a megkötendő szerződést biztosító mellékkötelezettségek megjelölését.
+(3) Az NFA – az (1) bekezdésben meghatározott határidőn belül – a honlapján közzéteszi a nyertes pályázó által
+benyújtott pályázatot, oly módon, hogy a közétett nyertes pályázatban megismerhetetlenné kell tenni a törvény
+által védett titkot, a hivatás gyakorlásához kötött titkot, és a személyes adatokat, ide nem értve a (2) bekezdésben
+meghatározott személyes adatokat.”
+11. §
+A Hr. a 23. §-t követően a következő 23/A. §-sal egészül ki:
+„23/A. § A pályázati eljárás eredményeként megkötött szerződés aláírásának dátumától számított öt munkanapon
+belül az NFA – az NFA-val szerződést kötő pályázó kivételével – valamennyi pályázó részére postai úton visszaküldi
+az általuk benyújtott pályázati dokumentációt.”
+12. § (1) A Hr. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha az adásvételi szerződés tárgya termőföld, a szerződésben – ide nem értve az (1a) bekezdésben
+meghatározott esetet – rögzíteni kell a vevő azon kötelezettségét, hogy azt a termőföld védelméről szóló 2007. évi
+CXXIX. törvény 21. § (3) bekezdésének a)–e), g)–h) és l) pontjában foglaltak kivételével 5 évig más célra nem
+hasznosítja. Az adásvételi szerződésben rögzíteni kell azt is, hogy a birtokbaadás időpontja nem lehet korábbi, mint
+a vevő tulajdonjogának az ingatlan-nyilvántartásba történő bejegyzése.”
+(2) A Hr. 35. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az (1) bekezdésben meghatározott, a termőföld más célú hasznosításának tilalmát nem kell alkalmazni, ha
+az adásvételre az Nfatv. 21. § (3a) bekezdés a) pontjában foglalt célokból kerül sor.”
+13. §
+A Hr. 36. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az Nfatv. 18. § (1c) bekezdésében meghatározott esetekben az NFA-val e rendelet alapján megkötött
+haszonbérleti szerződés időtartamának – a Tft.-ben foglalt előírások betartásával történő – meghosszabbításához
+nem kell pályázati eljárást lefolytatni.”
+14. §
+A Hr. a következő 48/A. §-sal egészül ki:
+„48/A. § Az Nfatv. 19/A. § (2) bekezdésében meghatározott módon, törvényben történő kijelöléssel létrejött
+vagyonkezelői jog jogosultja köteles 30 napon belül írásban jelezni az NFA felé, ha a vagyonkezelésében lévő
+földrészlet 90 napot meghaladó időtartamban a jogszabályban meghatározott, általa ellátandó állami feladathoz,
+vagy alapfeladathoz szükségtelenné vált. E bekezdésben foglaltakat nem kell alkalmazni, ha a vagyonkezelői jog
+gyakorlásának ideiglenes szünetelése a földrészlet értékesítésének előkészítése miatt következett be.”
+15. §
+A Hr. 47. §-t megelőző VIII. fejezet címe a következő címre módosul:
+„A TULAJDONOSI ELLENŐRZÉS ÉS A HASZNÁLÓ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE”
+
+16. §
+A Hr. 47. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A vagyonkezelőt, haszonbérlőt, vagy az Nfatv. szerinti egyéb jogcímen alapuló szerződés szerinti használót
+(e fejezetben a továbbiakban együtt: használó) megillető jogok gyakorlását, annak szabályszerűségét, célszerűségét
+az NFA ellenőrzi. Ennek érdekében a használó és az NFA közötti, a földrészlet használatára, hasznosítására létesített
+szerződés (e fejezetben a továbbiakban: szerződés) rögzíteni kell, hogy a tulajdonosi ellenőrzés e rendelet szerinti
+eljárásrendjét, a felek jogait, kötelezettségeit a felek a szerződés részének tekintik.”
+17. §
+A Hr. a következő 50/A–50/D. §-sal egészül ki:
+„50/A. § (1) A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFA beszámoló-
+készítési kötelezettségének megalapozottsága érdekében – e rendelet, az NFA vagyonnyilvántartási szabályzata,
+valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
+(2) A használó e rendelet szerinti adatszolgáltatási kötelezettsége az NFA felé akkor is fennáll, ha az NFA-val vagy
+az NFA jogelődjével kötött szerződés az adatszolgáltatási kötelezettségről nem rendelkezik.
+(3) A használó 15 napon belül köteles tájékoztatni az NFA-t, ha
+a) a földrészlet az állam tulajdonából vagy a Nemzeti Földalapból bármely okból kikerül;
+b) a földrészlet művelési ágát megváltoztatatja;
+c) a földrészletnek a termőföld védelméről szóló törvény szerinti más célú hasznosítását megkezdi, valamint
+megvalósítja, illetve megszünteti;
+d) a földrészleten a rendes gazdálkodás körét meghaladó beruházást valósít meg;
+e) a földrészlet ingatlan-nyilvántartási adatai bármely okból megváltoznak.
+(4) A használó haladéktalanul köteles tájékoztatni az NFA-t, ha
+a) vele szemben az Nfatv. 19. § (1) bekezdésében meghatározott eljárás indul vagy valamely körülmény, esemény
+következik be;
+b) az adatai megváltoznak.
+(5) Ha a használó vagyonkezelő, a (3)–(4) bekezdésben foglaltakon túl 15 napon belül köteles tájékoztatni az NFA-t
+a földrészlet
+a) forgalmi értékbecslése esetén a megállapított forgalmi értékről;
+b) további használatára, hasznosítására létesített szerződésről, illetve annak megszűnéséről.
+(6) A tájékoztatási kötelezettség teljesítési határidejének a kezdő napja
+a) a (3) bekezdés a) és e) pontjában meghatározott esetben a változásnak a használó tudomására jutását
+b) a (3) bekezdés b)–d) pontjában meghatározott esetben a művelési ág megváltoztatását, a más célú hasznosítás
+megkezdését, megvalósítását, illetve megszüntetését
+c) a (4) bekezdés a) pontjában meghatározott esetben az eljárásnak, illetve a körülmény, esemény
+bekövetkezésének a használó tudomására jutását
+d) a (4) bekezdés b) pontjában meghatározott esetben a használó adataiban bekövetkezett változást
+e) az (5) bekezdés a) pontjában meghatározott esetben a forgalmi értékbecslésről készült szakértői vélemény
+kézhezvételét
+f) az (5) bekezdés b) pontjában meghatározott esetben a szerződés létrejöttét, vagy megszűnését
+követő nap.
+50/B. § A Nemzeti Földalap vagyonnyilvántartásának naprakész vezetése és az NFA beszámoló-készítési
+kötelezettségének megalapozottsága érdekében a használó által – az 50/A. §-ban meghatározottakon felül –
+a szerződés típusától függően szolgáltatandó egyéb adatok körét, továbbá az adatszolgáltatás gyakoriságát,
+részletes tartalmát, és módját az NFA a vagyon-nyilvántartási szabályzatában határozza meg. A szerződésben
+rögzíteni kell, hogy a használó az NFA vagyonnyilvántartási szabályzatát megismerte, és magára nézve kötelező
+érvényűnek ismeri el.
+50/C. § (1) A használó az adatszolgáltatási kötelezettségének teljesítése érdekében – a gazdálkodási formájának
+megfelelően – a saját számviteli politikáját és nyilvántartásait úgy köteles kialakítani és vezetni, hogy azok
+biztosítsák az adatszolgáltatás pontosságát és ellenőrizhetőségét.
+(2) A nyilvántartás pontossága és az adatellenőrzések biztosítása érdekében a használó köteles az NFA-val
+együttműködni.
+(3) A használó köteles tűrni, hogy az NFA vagy az általa megbízott szervezet vagy személy helyszíni szemle
+vagy a rendelkezésére bocsátott dokumentumok megvizsgálásával ellenőrizze a használói adatszolgáltatási
+kötelezettsége teljesítésének teljes körűségét és megfelelőségét.
+
+(4) Ha a használó az adatszolgáltatási kötelezettségének nem, vagy hiányosan, illetve hibásan tesz eleget, az NFA
+15 napos határidővel felhívja a kötelezettség teljesítésére, illetve a hiányosság pótlására. E határidő elmulasztása
+a fennálló szerződés szempontjából lényeges kötelezettségszegésnek minősül.
+(5) Ha a használó központi költségvetési szerv, az NFA a (4) bekezdés szerinti mulasztást jelzi az irányítást vagy
+felügyeletet ellátó szerv vezetőjének. Az irányítást vagy felügyeletet ellátó szerv vezetője a jelzés nyomán tett
+intézkedéseiről köteles az NFA-t tájékoztatni.
+50/D. § (1) A Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése érdekében a kormányhivatalok,
+a Földmérési és Távérzékelési Intézet, a Nemzeti Adó- és Vámhivatal, a Magyar Államkincstár, az MNV Zrt., a Magyar
+Fejlesztési Bank, valamint a GYEMSZI kötelesek együttműködni az NFA-val.
+(2) Az erdészeti hatóság az állami erdők vagyonkezelőinek erdőgazdálkodási tevékenységéről szóló beszámolót
+a tárgyévet követő év július 15-ig megküldi az NFA részére.”
+18. §
+A Hr. a következő 56. §-sal egészül ki:
+„56. § (1) E rendeletnek a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól
+szóló 262/2010. (XI. 17.) Korm. rendelet módosításáról szóló 153/2013. (V. 24.) Korm rendelet (a továbbiakban:
+Mr2.) 1. §-ával módosított 1. § (1) bekezdését, 2. §-ával módosított 4. § (2) bekezdését, 4. §-ával módosított
+10. § (6) bekezdését, 8. §-ával módosított 20. § (1) bekezdés c) pontját, 9. §-ával módosított 21. §-át, 10. §-ával
+módosított 22. §-át, 11. §-ával megállapított 23/A. §-át, 12. § (1) bekezdésével módosított 35. § (1) bekezdését,
+12. § (2) bekezdésével megállapított 35. § (1a) bekezdését, 13. §-ával módosított 36. § (2) bekezdését, 14. §-ával
+megállapított 48/A. §-át, 16. §-ával módosított 47. § (1) bekezdését, 17. §-ával megállapított 50/A. §-át, és
+50/C–50/D. §-át az Mr2. hatálybalépését megelőzően közzétett pályázati felhívások alapján indult eljárásokban,
+illetve az Mr2. hatálybalépésekor fennálló szerződések esetében is alkalmazni kell.
+(2) E rendeletnek az Mr2. 3. §-ával módosított 7. § (2) bekezdés 18. pontját és az 5. §-ával módosított 11. §
+(1) bekezdését az Mr2. hatálybalépését követően közzétett pályázati felhívások alapján indult eljárásokban kell
+alkalmazni.
+(3) E rendeletnek az Mr2. 6. §-ával módosított 15. § (6) bekezdését az Mr2. hatálybalépését megelőzően közzétett
+pályázati felhívások alapján indult eljárásokban is alkalmazni kell, feltéve, hogy a pályázatok felbontására az Mr2.
+hatálybalépéséig még nem került sor.
+(4) E rendeletnek az Mr2. 7. §-ával módosított 16. § (1) bekezdését az Mr2. hatálybalépését megelőzően közzétett
+pályázati felhívások alapján indult eljárásokban is alkalmazni kell, feltéve, hogy az értékelő bizottság létrehozatalára
+az Mr2. hatálybalépéséig még nem került sor.
+(5) Az Mr2. hatálybalépéséig már lezárult pályázati eljárások esetében az Mr2. hatálybalépésétől számított
+nyolc napon belül az NFA – az NFA-val szerződést kötő pályázó kivételével – valamennyi pályázó részére
+az általa benyújtott, és az NFA megőrzésében lévő valamennyi pályázati dokumentációt postai úton visszaküldi.
+A pályázati dokumentációknak a közjegyzők részére megőrzés céljából átadott, és a közjegyző által az NFA részére
+visszaszolgáltatott pályázati dokumentációkat az NFA – a beérkezésük napjától számított nyolc napon belül
+– megsemmisíti.
+(6) Ha az NFA-val vagy az NFA jogelődjével kötött szerződés az 50/B. §-ban meghatározott kikötést nem tartalmazza,
+akkor az NFA köteles – az 50/B. §-ban foglaltaknak a szerződésben való rögzítése céljából – a szerződés módosítását
+kezdeményezni.”
+19. §
+A Hr.
+a) 3. § (1) bekezdésében az „átruházására vagy vagyonkezelésbe adására irányuló pályázati felhívás
+közzétételéhez”szövegrész helyébe az„átruházásához vagy vagyonkezelésbe adásához”szöveg,
+b) 3. § (2) bekezdésében az „eladására, vagy vagyonkezelésbe adására irányuló pályázati felhívás
+közzétételéhez”szövegrész helyébe az„eladásához, vagy vagyonkezelésbe adásához”szöveg,
+c) 3. § (3) bekezdésében az „eladására, illetve vagyonkezelésbe adására irányuló pályázati felhívás
+közzétételéhez” szövegrész helyébe az„eladásához illetve az állam 100%-os tulajdonában álló erdő, valamint
+erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelésbe adásához”szöveg,
+d) 3. § (4) bekezdésében az„eladására vagy vagyonkezelésbe adására irányuló pályázati felhívás közzétételéhez”
+szövegrész helyébe az„eladásához, vagy vagyonkezelésbe adásához”szöveg,
+e) 6. § (4) bekezdésében a„kifüggesztés napja”szövegrész helyébe a„kifüggesztést követő nap”szöveg,
+f) 10. § (2) bekezdés b) pontjában az „eredménytelenségének megállapítása” szövegrész helyébe
+az„eredménytelenségének vagy érvénytelenségének megállapítása”szöveg,
+
+g) 12. § (2) bekezdésében a „pályázó köteles továbbá a pályázati eljárás befejezését követően is bizalmasan
+kezelni az NFA által a rendelkezésére” szövegrész helyébe a „pályázó és az NFA, mint kiíró köteles továbbá
+a pályázati eljárás befejezését követően is bizalmasan kezelni az NFA által a pályázó rendelkezésére”szöveg,
+h) 13. § (2) bekezdésében a „vagy a pályázatot eredménytelennek minősíti” szövegrész helyébe a „vagy
+a pályázati eljárást eredménytelennek, illetve érvénytelennek nyilvánítja”szöveg
+lép.
+20. §
+Hatályát veszti a Hr.
+a) 6. § (1) bekezdésében az„és vagyonkezelésbe adására”szövegrész,
+b) 7. § (1) bekezdésében az„és vagyonkezelésbe adására”, szövegrész,
+c) 9. § (2) bekezdésében a „Ha a pályázati felhívás a földrészlet vagyonkezelésbe adás útján történő
+hasznosítására irányul, és az ellenszolgáltatás nem pénzben kifejezett, a biztosíték összege legalább 10 000
+forint.”szövegrész,
+d) 23. § (2) bekezdés c) pontjában a„vagy a vagyonkezelési”szövegrész,
+e) 39. § (5) bekezdése,
+f) 43/D. § (2) bekezdés a) pontja,
+g) 53–54 §-a.
+21. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

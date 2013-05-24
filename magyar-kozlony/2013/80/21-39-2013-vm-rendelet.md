@@ -1,0 +1,111 @@
+# A vidékfejlesztési miniszter 39/2013. (V. 24.) VM rendelete
+
+Magyar Közlöny 2013. évi 80. szám, 2013. május 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/82dbd3345a7e767a805b2499fb8573697eb0fdda/dokumentumok/fc655e937e7087323c76fac174c15990bed2f8a6/letoltes)
+
+---
+
+A vidékfejlesztési miniszter 39/2013. (V. 24.) VM rendelete
+a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények
+alkalmazásával kapcsolatos szabályokról szóló 81/2009. (VII. 10.) FVM rendelet módosításáról
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes
+kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés m) pontjában kapott felhatalmazás alapján, az egyes miniszterek,
+valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. §
+a) és b) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
+1. §
+ A kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények
+alkalmazásával kapcsolatos szabályokról szóló 81/2009. (VII. 10.) FVM rendelet (a továbbiakban: R.) 1. számú
+melléklete az 1. melléklet szerint módosul.
+2. §
+ Az R. 8. §-a helyébe a következő rendelkezések lépnek:
+„8. § (1) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+a) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási
+rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes
+támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról,
+valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. január 19-i 73/2009/EK tanácsi rendelet;
+b) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési
+rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen
+támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint
+az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott
+támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló,
+2009. november 30-i 1122/2009/EK bizottsági rendelet;
+
+c) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó
+egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet;
+d) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló
+2005. szeptember 20-i 1698/2005/EK tanácsi rendelet;
+e) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés
+végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok
+megállapításáról szóló 2006. december 7-i 1975/2006/EK bizottsági rendelet;
+f) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési
+rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen
+támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint
+az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott
+támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló
+1122/2009/EK rendelet módosításáról szóló, 2010. február 23-i 146/2010/EU bizottsági rendelet.
+(2) Ez a rendelet a borjak védelmére vonatkozó minimumkövetelmények megállapításáról szóló 2008. december 18-i
+2008/119/EK tanácsi irányelvnek, a sertések védelmére vonatkozó minimumkövetelmények megállapításáról szóló
+2008. december 18-i 2008/120/EK tanácsi irányelvnek, valamint a tenyésztés céljából tartott állatok védelméről szóló
+1998. július 20-i 98/58/EK tanácsi irányelvnek való megfelelést szolgálja.”
+3. §
+ Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+Dr. Fazekas Sándor s. k.,
+
+vidékfejlesztési miniszter
+1. melléklet a 39/2013. (V. 24.) VM rendelethez
+A kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények
+alkalmazásával kapcsolatos szabályokról szóló 81/2009. (VII. 10.) FVM rendelet 1. számú melléklete 1. pontja
+a következő 1.12.–1.14. alpontokkal egészül ki:
+„1.12. JFGK 16
+A JFGK célja: A borjak védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése
+révén.
+Súlyosság
+Enyhe: az előírás megszegése a borjak jóllétére nincs hatással vagy legfeljebb a borjak jó közérzetét veszélyezteti,
+de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és egészségükre nézve
+ártalmatlan.
+Közepes: az előírás megszegése a borjak biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti,
+illetve az állatoknak szükségtelen szenvedést, fájdalmat okozhat.
+Súlyos: az előírás megszegése a borjak biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
+Tartósság
+Rövidtávon helyrehozható: az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül
+megszüntethető.
+Hosszútávon helyrehozható: az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott
+hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszútávon lehetséges.
+Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását
+okozza, illetve okozhatja.
+1.13. JFGK 17
+A JFGK célja: A sertések védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának
+ellenőrzése révén.
+Súlyosság
+Enyhe: az előírás megszegése a sertések jóllétére nincs hatással vagy legfeljebb a sertések jó közérzetét
+veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és
+egészségükre nézve ártalmatlan.
+
+Közepes: az előírás megszegése a sertések biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti,
+illetve az állatoknak szükségtelen szenvedést, fájdalmat okozhat.
+Súlyos: az előírás megszegése a sertések biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
+Tartósság
+Rövidtávon helyrehozható: az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül
+megszüntethető.
+Hosszútávon helyrehozható: az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott
+hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszútávon lehetséges.
+Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását
+okozza, illetve okozhatja.
+1.14. JFGK 18
+A JFGK célja: A mezőgazdasági haszonállatok védelme az állatok élettani szükségleteinek megfelelő életfeltételek
+biztosításának ellenőrzése révén.
+Súlyosság
+Enyhe: az előírás megszegése a mezőgazdasági haszonállatok jóllétére nincs hatással vagy legfeljebb azok
+jó közérzetét veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti,
+biztonságukra és egészségükre nézve ártalmatlan.
+Közepes: az előírás megszegése a mezőgazdasági haszonállatok biztonságát, egészségét közvetetten veszélyezteti
+vagy veszélyeztetheti, illetve azoknak szükségtelen szenvedést, fájdalmat okozhat.
+Súlyos: az előírás megszegése a mezőgazdasági haszonállatok biztonságát, egészségét közvetlenül veszélyezteti,
+illetve veszélyeztetheti.
+Tartósság
+Rövidtávon helyrehozható: az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül
+megszüntethető.
+Hosszútávon helyrehozható: az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott
+hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszútávon lehetséges.
+Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását
+okozza, illetve okozhatja.”
