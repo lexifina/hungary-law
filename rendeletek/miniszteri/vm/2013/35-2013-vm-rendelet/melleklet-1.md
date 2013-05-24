@@ -1,3 +1,5 @@
-## „4. § A LEADER HACS minden évben legkésőbb május hónapban köteles az előző naptári évre vonatkozó éves beszámolót terjeszteni tagsága elé, amelynek elfogadásáról a közgyűlés dönt. A beszámolónak tartalmaznia kell a LEADER HACS eredményeit, tételes elszámolást a bevételekről és a kiadásokról, a támogatási céllal benyújtott projekttervezetek, pályázatok számáról, tartalmáról és támogatási igényéről, a támogatási kötelezettségvállalásban részesült projektekről, a projektek megvalósulásáról és a támogatások elszámolásáról, valamint a működtetési kötelezettséggel rendelkező projektek működéséről. A beszámolót és a beszámoló elfogadásáról készült hitelesített jegyzőkönyvet a LEADER HACS elektronikus úton megküldi az IH részére.”
+## 22–23. §[^1]
 
 1. melléklet a 35/2013. (V. 22.) VM rendelethez
+
+[^1]: A 22–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
