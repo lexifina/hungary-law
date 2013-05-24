@@ -1,0 +1,77 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a fogyatékossági támogatás összege emelésével kapcsolatosan szükséges források fedezetének biztosítása érdekében a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 17. Egyes szociális pénzbeli támogatások alcím, 5. Súlyos fogyatékkal élők kiegészítő támogatása jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 21. Nemzeti Család- és Szociálpolitikai Alap cím, 3. Jövedelempótló és jövedelemkiegészítő szociális támogatások alcím, 3. Fogyatékossági támogatás és a vakok személyi járadéka jogcímcsoport javára 750,0 millió forint átcsoportosítását rendeli el az 1. melléklet szerint.
+
+## Felelős: emberi erőforrások minisztere
+
+## nemzetgazdasági miniszter
+
+## Határidő: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi
+
+## XXVI. törvény módosításáról szóló törvény hatálybalépését követően azonnal
+
+1. melléklet az 1283/2013. (V. 24.) Korm. határozathoz
+
+XX. Emberi Erőforrások Minisztériuma
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 17 |  |  |  |  |  |  | Egyes szociális pénzbeli támogatások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 258534 |  |  |  | 5 |  |  |  |  |  |  | Súlyos fogyatékkal élők kiegészítő támogatása |  |  |  |  |  |  |  |  | -750,0 |  |  |
+
+|  |  | 21 |  |  |  |  |  |  | Nemzeti Család- és Szociálpolitikai Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  |  | Jövedelempótló és jövedelemkiegészítő szociális támogatások |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011374 |  |  |  | 3 |  |  |  |  |  |  | Fogyatékossági támogatás és a vakok személyi járadéka |  |  |  |  |  |  |  |  | 750,0 |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 17 |  |  |  |  |  |  | Egyes szociális pénzbeli támogatások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 258534 |  |  |  | 5 |  |  |  |  |  |  | Súlyos fogyatékkal élők kiegészítő támogatása |  |  |  |  |  |  |  |  | -750,0 |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I. n.év | II. n.év | III. n.év | IV. n.év |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal | 750,0 |  |  | 750,0 |  |  |
+
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
