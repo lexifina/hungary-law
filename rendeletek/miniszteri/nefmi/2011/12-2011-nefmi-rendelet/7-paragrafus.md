@@ -10,7 +10,7 @@
 
 (5) A tanács elnökét a tanács tagjai a tagok közül választják. Az elnök megbízatása négy évre szól. Egy személy egyidejűleg csak egy tanácsnak lehet a tagja.
 
-(6) A tanács évente legalább három alkalommal tart ülést saját munkarendjének megfelelően, a tanács elnökének kezdeményezésére. A miniszter kezdeményezésére az ülést össze kell hívni. A tanács üléseire tanácskozási joggal meg kell hívni a szakmacsoport szerinti azonos nevű tagozat tagjait, a minisztérium kijelölt képviselőjét és az érintett szakterülettel foglalkozó országos szakfelügyelőt vagy az országos tisztifőgyógyszerészt.
+(6)[^3] A tanács évente legalább három alkalommal tart ülést saját munkarendjének megfelelően, a tanács elnökének kezdeményezésére. A miniszter kezdeményezésére az ülést össze kell hívni. A tanács üléseire tanácskozási joggal meg kell hívni a szakmacsoport szerinti azonos nevű tagozat tagjait, a minisztérium kijelölt képviselőjét és az érintett szakterülettel foglalkozó állandó minőségügyi szakfőorvost, illetve minőségügyi szakterületi vezetőt, az országos tisztifőorvost vagy az általa megbízott személyt és az országos tisztifőgyógyszerészt.
 
 (7) A tanácsok
 
@@ -29,3 +29,5 @@ f) javaslatot tesznek az osztályvezető főorvosi, főgyógyszerészi, tovább�
 (8) A tanácsok a szakmai kollégium tisztségviselőjének vagy a tagozat vezetőjének kérésére az adott szakterületen bármely kérdésben véleményt nyilvánítanak.
 
 (9) A tanácsok javaslataikat, állásfoglalásaikat az adott szakterület szerint illetékes tagozathoz nyújtják be, amelyeket a tagozatok véleményezés után a miniszternek továbbítanak.
+
+[^3]: A 7. § (6) bekezdése a 33/2013. (V. 10.) EMMI rendelet 27. § b) pontja szerint módosított szöveg.

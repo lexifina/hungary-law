@@ -16,6 +16,8 @@ g) minden olyan kérdésben, amelyet jogszabály a szakmai kollégium feladatáv
 
 (2) A tagozatok a miniszter felkérésére az egészségügy területén bármely egyéb szakmai kérdésben véleményt nyilvánítanak, és ellátják a felkérésben foglalt feladatokat.
 
-(3) A tagozat vezetője – a tagozat szakmai véleményének kialakításához – az érintett szakterülettel foglalkozó országos szakfelügyelő, az országos tisztifőgyógyszerész, az országos intézetek, az egészségügyi képzést, illetve szakképzést végző intézmények és a tanácsok szakmai véleményét kérheti, és koordinálja az adott szakmai kérdés egyeztetését.
+(3)[^2] A tagozat vezetője – a tagozat szakmai véleményének kialakításához – az országos tisztifőorvos vagy az általa megbízott személy, az érintett szakterülettel foglalkozó állandó minőségügyi szakfőorvos, illetve minőségügyi szakterületi vezető, az országos tisztifőgyógyszerész, az országos intézetek, az egészségügyi képzést, illetve szakképzést végző intézmények és a tanácsok szakmai véleményét kérheti, és koordinálja az adott szakmai kérdés egyeztetését.
 
 (4) A tagozat vezetője a tanácsoknál szakmai irányelv és módszertani levél elkészítését kezdeményezheti.
+
+[^2]: A 6. § (3) bekezdése a 33/2013. (V. 10.) EMMI rendelet 27. § a) pontja szerint módosított szöveg.

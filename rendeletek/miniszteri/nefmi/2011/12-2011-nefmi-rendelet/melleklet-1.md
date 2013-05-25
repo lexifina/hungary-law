@@ -1,4 +1,4 @@
-## 11. §[^2]
+## 11. §[^4]
 
 1. melléklet a 12/2011. (III. 30.) NEFMI rendelethez
 
@@ -124,4 +124,4 @@ A szakmai kollégium 3 fős tagozatainak elnevezése, valamint tanácsainak elne
 
 60. Ipari gyógyszerészet tagozat/tanács (10 fő)
 
-[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
