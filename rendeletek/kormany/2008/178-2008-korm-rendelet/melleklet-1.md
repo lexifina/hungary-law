@@ -1,3 +1,5 @@
+## 16. §[^12] E rendeletnek a kisajátítással összefüggő egyes kormányrendeletek módosításáról szóló 154/2013. (V. 24.) Korm. rendelet (a továbbiakban: Módr.) 6. §-ával megállapított 7. § (3) bekezdését az e rendelkezés hatálybalépésekor[^13] folyamatban lévő ügyekben is alkalmazni kell.
+
 1. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez
 
 ## A kisajátítási terv elkészítésének és a kisajátítás földmérési munkáira vonatkozó előírások
@@ -103,3 +105,6 @@ j) a területszámítás helyesen történt-e.
 7.5. Amennyiben a vázrajz földügyi záradékolást is igényel, azt a kisajátítási átnézeti térkép és a kisajátítási vázrajz záradékolásával egyidejűleg kell elvégezni.
 
 7.6. Bejelentésre kötelezett munkáknál az alappont-sűrítést a megyei földhivatal vizsgálja.
+
+[^12]: A 16. §-t a 154/2013. (V. 24.) Korm. rendelet 8. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2013. május 25.

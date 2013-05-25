@@ -2,9 +2,9 @@
 
 (2) Az építésügyi hatóság az eljárás megindításáról haladéktalanul tájékoztatja a kisajátítást kérőt, és felhívja az illeték megfizetésére.
 
-(3)[^5] Az építésügyi hatóság ellenőrzi, hogy a záradékolási kérelemben megjelölt kisajátítási cél összhangban van-e a területfelhasználásra, valamint a kisajátítás és a csereingatlan megosztása során keletkező új telkek megfelelnek-e a telekalakításra vonatkozó építésjogi követelményeknek. Az építésjogi követelményeknek megfelelő kisajátítási tervet az építésügyi hatóság – a beérkezést követő naptól számított tíz napon belül – „Az építésjogi követelményeknek megfelel, a záradék kisajátítási eljárás céljára lett kiadva” záradékkal látja el, és megküldi a kisajátítást kérőnek.
+(3)[^5] Az építésügyi hatóság ellenőrzi, hogy a záradékolási kérelemben megjelölt kisajátítási cél összhangban van-e a területfelhasználásra, valamint a kisajátítás és a csereingatlan megosztása során keletkező új telkek megfelelnek-e a telekalakításra vonatkozó építésjogi követelményeknek. Részleges kisajátítás esetén a visszamaradó ingatlan nagyságára vonatkozó előírás teljesülését az építésügyi hatóság nem vizsgálja, ha az ingatlan beépítésre nem szánt területen helyezkedik el, vagy beépítésre szánt területen az ingatlan nagysága már eredetileg sem éri el a megengedett legkisebb teleknagyságot. Az építésjogi követelményeknek megfelelő kisajátítási tervet az építésügyi hatóság – a beérkezést követő naptól számított tíz napon belül – „Az építésjogi követelményeknek megfelel, a záradék kisajátítási eljárás céljára lett kiadva.” záradékkal látja el, és megküldi a kisajátítást kérőnek.
 
 (4) Ha a kisajátítási terv az építésjogi követelményeknek nem felel meg, az építésügyi hatóság azt a szükséges módosítások végrehajtása, illetve hiánypótlás céljából a kisajátítást kérőnek – megfelelő határidő kitűzésével – megküldi.
 
 [^4]: A 7. § (1) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 3. pontja, a 67/2013. (III. 8.) Korm. rendelet 4. § a) és b) pontja szerint módosított szöveg.
-[^5]: A 7. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (105) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^5]: A 7. § (3) bekezdése a 154/2013. (V. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
