@@ -1,4 +1,4 @@
-2. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^24]
+2. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^25]
 
 1. Az OEP adatszolgáltatása az országos antimikrobiális szerek felhasználásának adatbázisához
 
@@ -108,4 +108,4 @@ K – kísérő betegség
 
 Sz – szövődmény
 
-[^24]: A 2. mellékletet a 12/2012. (III. 6.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
+[^25]: A 2. mellékletet a 12/2012. (III. 6.) NEFMI rendelet 10. § (2) bekezdése iktatta be.

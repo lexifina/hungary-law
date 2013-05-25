@@ -20,6 +20,6 @@ a) az Európai Parlament és a Tanács 2119/98/EK határozata (1998. szeptember 
 
 b) a Tanács 2002/77/EC ajánlása (2001. november 15.) az antimikrobiális szerek körültekintő használatáról az embergyógyászatban;
 
-c)[^22] az egészségügyi ellátással összefüggő fertőzések megelőzését és leküzdését is magában foglaló betegbiztonságról szóló 2009. június 9-i 2009/C 151/01 tanácsi ajánlás.
+c)[^23] az egészségügyi ellátással összefüggő fertőzések megelőzését és leküzdését is magában foglaló betegbiztonságról szóló 2009. június 9-i 2009/C 151/01 tanácsi ajánlás.
 
-[^22]: A 15. § (8) bekezdés c) pontját a 12/2012. (III. 6.) NEFMI rendelet 9. §-a iktatta be.
+[^23]: A 15. § (8) bekezdés c) pontját a 12/2012. (III. 6.) NEFMI rendelet 9. §-a iktatta be.

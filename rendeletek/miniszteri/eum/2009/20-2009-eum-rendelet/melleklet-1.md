@@ -1,4 +1,4 @@
-1. Melléklet a 20/2009. (VI. 18.) EüM rendelethez[^23]
+1. Melléklet a 20/2009. (VI. 18.) EüM rendelethez[^24]
 
 1. Járóbeteg-szakellátást nyújtó önálló rendelőintézet
 
@@ -88,4 +88,4 @@ c) azok az egészségügyi szolgáltatók, amelyeknek a működési engedélye a
 
 3 Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laborhátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat.
 
-[^23]: Az 1. melléklet a 12/2012. (III. 6.) NEFMI rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^24]: Az 1. melléklet a 12/2012. (III. 6.) NEFMI rendelet 10. § (1) bekezdésével megállapított szöveg.
