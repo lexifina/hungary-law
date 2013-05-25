@@ -1,1 +1,0 @@
-## 1. § A Kormány a KEREX IVÁNCSA TANUSZODA Szolgáltató Korlátolt Felelősségű Társaság (Cg.01-09-887524, székhely: 1117 Budapest, Budafoki utca 111.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
