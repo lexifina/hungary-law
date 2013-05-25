@@ -2,7 +2,7 @@
 
 a) végzi az egészségügyi minőségfejlesztési feladatok koordinálását, szakmai irányítását, illetve dokumentálását,
 
-b)[^5] koordinálja az egészségügyi ellátás feletti szakfelügyeletet, továbbá az országos szakfelügyeleti hálózat működtetésével, valamint az Országos Tisztifőorvosi Hivatallal, a megyei népegészségügyi szakigazgatási szervekkel és a járási (fővárosi kerületi) népegészségügyi intézetekkel közreműködve – azoknak az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló rendeletben foglalt feladataira figyelemmel – ellátja az egészségügyi szolgáltatók szakfelügyeletét,
+b)[^5] az egészségügyi szolgáltatók és a szolgáltatások tekintetében szakmai minőségértékelést végez, amely alapján javaslatot tesz a minőségfejlesztés irányára,
 
 c) az egészségügyi szolgáltatók orvostechnikai, technológiai beruházásaival, az orvostechnika és technológia üzemeltetésével kapcsolatosan szakértői tevékenységet és szakmai támogatást nyújt,
 
@@ -39,7 +39,7 @@ r)[^11] a fekvőbeteg szakellátást nyújtó intézmények részére történő
 s)[^12] fenntartói jogok gyakorlójaként előzetesen jóváhagyja az m) és n) pont szerinti egészségügyi szolgáltató működési engedélyének módosítása iránti kérelmét az ellátás progresszivitási szintje és formája tekintetében.
 
 [^4]: A 2. § a 3. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
-[^5]: A 2. § b) pontja a 174/2012. (VII. 26.) Korm. rendelet 83. §-a szerint módosított szöveg.
+[^5]: A 2. § b) pontja a 136/2013. (V. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § m) pontja a 92/2012. (IV. 27.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^7]: A 2. § n) pontja a 92/2012. (IV. 27.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^8]: A 2. § o) pontját a 92/2012. (IV. 27.) Korm. rendelet 34. §-a hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 70. §-a iktatta be.
