@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-60-20-0
 | 2012-09-19 | 2003-60-20-0M.20 | 27/2012. (IX. 18.) EMMI rendelet |
 | 2013-02-08 | 2003-60-20-0M.21 | 29/2010. (XII. 30.) NEFMI rendelet |
 | 2013-03-30 | 2003-60-20-0M.22 | 24/2013. (III. 29.) EMMI rendelet |
+| 2013-05-25 | 2003-60-20-0M.23 | 33/2013. (V. 10.) EMMI rendelet |

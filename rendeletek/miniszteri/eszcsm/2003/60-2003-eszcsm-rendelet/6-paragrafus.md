@@ -2,7 +2,7 @@
 
 (2)[^29]
 
-(3)[^30] Kizárólag a diagnosztikai vizsgálat céljából a betegtől levett vizsgálati anyagok szállítására az egészségügyi szolgáltató által igénybe vett szállító nem minősül egészségügyi szolgáltatónak, azonban az egészségügyi szolgáltató az igénybevétel tényét bejelenti a részére működési engedélyt kiadó egészségügyi államigazgatási szervnek, amely a szállító tevékenységét a szakfelügyeleti ellenőrzés keretében vizsgálja.
+(3)[^30] Kizárólag a diagnosztikai vizsgálat céljából a betegtől levett vizsgálati anyagok szállítására az egészségügyi szolgáltató által igénybe vett szállító nem minősül egészségügyi szolgáltatónak, azonban az egészségügyi szolgáltató az igénybevételéről tájékoztatja a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) népegészségügyi intézetét, amely a szállító tevékenységét – szakfelügyelő főorvos bevonásával – hatósági ellenőrzés keretében vizsgálja.
 
 [^29]: A 6. § (2) bekezdését a 26/2008. (VII. 11.) EüM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^30]: A 6. § (3) bekezdése a 29/2010. (XII. 30.) NEFMI rendelet 10. § b) pontja, az 1/2012. (V. 31.) EMMI rendelet 10. § e) pontja szerint módosított szöveg.
+[^30]: A 6. § (3) bekezdése a 33/2013. (V. 10.) EMMI rendelet 26. §-ával megállapított szöveg.
