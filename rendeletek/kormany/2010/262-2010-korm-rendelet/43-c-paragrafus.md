@@ -1,6 +1,6 @@
 ## VI/A. Fejezet
 
-## AZ IGAZGATÓSÁG VAGYONKEZELÉSÉBEN ÁLLÓ TERÜLETEK HASZNÁLATBA ADÁSA[^42]
+## AZ IGAZGATÓSÁG VAGYONKEZELÉSÉBEN ÁLLÓ TERÜLETEK HASZNÁLATBA ADÁSA[^64]
 
 43/C. § (1) E rendelet előírásait – a IV. és a VII. fejezetben foglaltak kivételével – a védett területnek az igazgatóság, mint vagyonkezelő részéről történő használatba adása során az e fejezetben foglalt eltérésekkel kell alkalmazni, azzal, hogy az NFA alatt az igazgatóságot, az NFA elnöke, illetve a Tanács alatt az igazgatóság vezetőjét kell érteni.
 
@@ -10,4 +10,4 @@
 
 (4) Az igazgatóság által lefolytatandó pályáztatási eljárás során nem kell alkalmazni a 7. § (1) bekezdés 5. és 15. pontját, a 7. § (2) bekezdés 5–6. és 8. pontját, a 9–10. § tekintetében a pályázati biztosítékra vonatkozó rendelkezéseket, a 11. § (7)–(8) bekezdését, a 14. § (1) bekezdés c) pontját, valamint a 15. § és a 18. § (3) bekezdése tekintetében a közjegyzőre vonatkozó rendelkezéseket.
 
-[^42]: A VI/A. fejezetet (43/C–43/D. §) a 161/2011. (VIII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^64]: A VI/A. fejezetet (43/C–43/D. §) a 161/2011. (VIII. 18.) Korm. rendelet 16. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1)[^1] E rendelet hatálya a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos eljárásokra, jogügyletekre, jogviszonyokra, valamint az azokban részt vevő természetes személyekre, jogi személyekre vagy jogi személyiséggel nem rendelkező szervezetekre terjed ki. E rendelet hatálya – az I. fejezetben foglalt rendelkezések kivételével – nem terjed ki a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 21. és 22. §-ban meghatározott eljárásokra és jogügyletekre.
+1. § (1)[^1] E rendelet hatálya a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos eljárásokra, jogügyletekre, jogviszonyokra, valamint az azokban részt vevő természetes személyekre, jogi személyekre vagy jogi személyiséggel nem rendelkező szervezetekre terjed ki. E rendelet hatálya – az I., az V–VI. és a VIII. fejezetben foglalt rendelkezések kivételével – nem terjed ki a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 21. és 22. §-ban meghatározott eljárásokra és jogügyletekre.
 
 (2) E rendelet alkalmazásában
 
@@ -24,7 +24,7 @@ h) versenyeztetés: nyilvános pályázati eljárás vagy nyilvános árverés;
 
 i) vízvédelmi terület: a nagyvízi meder, valamint a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendeletben meghatározott védőterület és védősáv.
 
-[^1]: Az 1. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés a) pontja a 161/2011. (VIII. 18.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés b) pontja a 161/2011. (VIII. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2) bekezdés d) pontját a 161/2011. (VIII. 18.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

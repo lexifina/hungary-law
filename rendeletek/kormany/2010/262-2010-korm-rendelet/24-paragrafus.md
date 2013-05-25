@@ -1,3 +1,5 @@
+## 23/A. §[^41] A pályázati eljárás eredményeként megkötött szerződés aláírásának dátumától számított öt munkanapon belül az NFA – az NFA-val szerződést kötő pályázó kivételével – valamennyi pályázó részére postai úton visszaküldi az általuk benyújtott pályázati dokumentációt.
+
 ## Összeférhetetlenségi szabályok
 
 24. § (1) A pályázatok értékelésében és elbírálásában nem vehet részt
@@ -15,3 +17,5 @@ e) akitől bármely oknál fogva nem várható el az ügy tárgyilagos megítél
 (2) A pályázat értékelésében vagy elbírálásában részt vevő köteles az NFA elnökének haladéktalanul bejelenteni, ha vele szemben bármilyen összeférhetetlenségi ok áll fenn.
 
 (3) Összeférhetetlenségi kérdésben az NFA elnöke dönt. Ha az összeférhetetlenségi ok az NFA elnökével szemben merül fel, akkor az összeférhetetlenségi kérdésben a Tanács dönt.
+
+[^41]: A 23/A. §-t a 153/2013. (V. 24.) Korm. rendelet 11. §-a iktatta be.
