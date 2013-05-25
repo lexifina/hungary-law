@@ -1,0 +1,3 @@
+## 1. § A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet (a továbbiakban: Hr.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) E rendelet hatálya a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos eljárásokra, jogügyletekre, jogviszonyokra, valamint az azokban részt vevő természetes személyekre, jogi személyekre vagy jogi személyiséggel nem rendelkező szervezetekre terjed ki. E rendelet hatálya – az I., az V–VI. és a VIII. fejezetben foglalt rendelkezések kivételével – nem terjed ki a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 21. és 22. §-ban meghatározott eljárásokra és jogügyletekre.”
