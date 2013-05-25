@@ -10,4 +10,6 @@ c) a Magyar Közlöny felelős szerkesztőjeként dr. Borókainé dr. Vajdovits 
 
 kérem fel.
 
-3. A Magyar Közlöny szerkesztőbizottsága tagjainak felkéréséről szóló 1/2012. (III. 9.) KIM határozatot visszavonom.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
