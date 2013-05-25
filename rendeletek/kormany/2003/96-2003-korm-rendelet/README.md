@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2013-01-01 | 2003-96-20-22.27 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2013-03-30 | 2003-96-20-22.28 | 312/2004. (XI. 17.) Korm. rendelet |
 | 2013-04-29 | 2003-96-20-22.29 | 447/2012. (XII. 29.) Korm. rendelet |
+| 2013-05-25 | 2003-96-20-22.30 | 136/2013. (V. 10.) Korm. rendelet |

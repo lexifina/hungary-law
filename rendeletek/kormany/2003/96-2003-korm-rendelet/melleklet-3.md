@@ -18,7 +18,7 @@
 
 ## Amennyiben az egészségügyi szolgáltatás nem orvosi vagy ápolási szakma végzésére irányul, a szakmai program tartalmi elemeit a szolgáltatás jellege szerinti értelemszerű alkalmazással kell elkészíteni.
 
-3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^100]
+3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^101]
 
 Fekvőbeteg-szakellátás
 
@@ -56,4 +56,4 @@ dátum
 
 alaírás
 
-[^100]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^101]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 22. §-a szerint módosított szöveg.

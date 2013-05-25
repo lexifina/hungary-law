@@ -26,6 +26,9 @@ h) közfinanszírozott egészségügyi szolgáltatónak a működési engedély�
 
 (5) Az egészségügyi államigazgatási szerv a tapasztalt közegészségügyi hiányosságok esetén saját hatáskörben intézkedik, és erről értesíti a működési engedélyt kiadó egészségügyi államigazgatási szervet. Egyéb hiányosság esetén intézkedést kezdeményez a működési engedélyt kiadó egészségügyi államigazgatási szervnél.
 
+(6)[^66] Amennyiben az egészségügyi államigazgatási szerv az ellenőrzése során az egészségügyi szakmai tevékenység minőségét érintő vagy minőségfejlesztést igénylő problémát, hiányosságot tár fel, arról haladéktalanul értesíti a szakmai minőségértékelést végző Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet.
+
 [^63]: A 16. § a 325/2011. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
 [^64]: A 16. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
 [^65]: A 16. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
+[^66]: A 16. § (6) bekezdését a 136/2013. (V. 10.) Korm. rendelet 3. §-a iktatta be.
