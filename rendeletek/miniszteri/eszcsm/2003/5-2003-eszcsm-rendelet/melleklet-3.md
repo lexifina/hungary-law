@@ -38,7 +38,7 @@
 
 | 17. | Q) Neonatológiai utóképek | Neonatológus, gyermekpulmonológus szakorvos |
 
-3. melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^20]
+3. melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^23]
 
 IGAZOLÁS
 
@@ -160,4 +160,4 @@ A tartósan beteg, illetve súlyosan fogyatékos gyermek után járó magasabb �
 
 Ha a tartósan beteg, illetve súlyosan fogyatékos gyermek után – állapotának javulása miatt – a magasabb összegű családi pótlék már nem jár, a magasabb összegű ellátásra való jogosultság megszűnését követő hónaptól a családi pótlékot új összeggel kell folyósítani, feltéve, hogy az ellátásra való jogosultság egyébként fennáll.
 
-[^20]: A 3. számú melléklet megjelölését 3. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § c) pontja.
+[^23]: A 3. számú melléklet megjelölését 3. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § c) pontja.
