@@ -1,0 +1,1 @@
+## 24. § E rendelet 10. § (2) bekezdése az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírásokról szóló 2010. július 7-i 2010/53/EU európai parlamenti és tanácsi irányelv 23. cikkének való megfelelést szolgálja.
