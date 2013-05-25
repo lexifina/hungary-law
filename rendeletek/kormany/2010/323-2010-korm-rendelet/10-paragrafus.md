@@ -16,12 +16,13 @@ cc) az egészségfejlesztés (egészségvédelem, egészségnevelés és egészs
 
 cd) az egészségügyi, gyógyszerügyi igazgatás és koordináció területén,
 
-d) ellátja a jogszabályban a feladatkörébe utalt szakfelügyeleti feladatokat az egészségügyi szolgáltatók felett.
+d)[^29] ellátja a jogszabályban a feladatkörébe utalt, az egészségügyi szolgáltatók feletti szakfelügyelet működtetésével összefüggő feladatokat.
 
 (2) A megyei népegészségügyi szakigazgatási szerv részt vesz a lakosság egészségének megőrzését célzó népegészségügyi programok kidolgozásában, irányítja, szervezi és koordinálja a programok végrehajtását.
 
-(3)[^29] A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
+(3)[^30] A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
 
 [^27]: A 10. § (1) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^28]: A 10. § (1) bekezdés c) pont ca) alpontja a 7/2013. (I. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
-[^29]: A 10. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^29]: A 10. § (1) bekezdés d) pontja a 136/2013. (V. 10.) Korm. erndelet 2. § (1) bekezdésével megállapított szöveg.
+[^30]: A 10. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.

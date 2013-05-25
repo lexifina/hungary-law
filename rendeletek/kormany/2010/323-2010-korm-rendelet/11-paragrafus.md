@@ -1,3 +1,3 @@
-## 7. [^30] A járási népegészségügyi intézet
+## 7. [^31] A járási népegészségügyi intézet
 
-[^30]: A 7. alcím címe a 174/2012. (VII. 26.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^31]: A 7. alcím címe a 174/2012. (VII. 26.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.

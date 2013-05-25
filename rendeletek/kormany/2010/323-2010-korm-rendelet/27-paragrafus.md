@@ -14,17 +14,17 @@ a) a Szolgálat regionális intézete számára megállapított hatásköröket 
 
 b) a regionális tisztifőorvos számára megállapított hatásköröket a megyei tisztifőorvos,
 
-c)[^93] a regionális tisztifőgyógyszerész számára megállapított hatásköröket a megyei, illetve fővárosi tisztifőgyógyszerész
+c)[^94] a regionális tisztifőgyógyszerész számára megállapított hatásköröket a megyei, illetve fővárosi tisztifőgyógyszerész
 
 ## gyakorolja.
 
-(5)[^94] Az (1) és (2) bekezdéstől eltérően a korábban a regionális intézetek által végzett egyes feladatok részleges átvevője az alapító okirat szerint az OTH, melynek tekintetében a számára jogszabályban megállapított feladat- és hatáskörök és a feladatellátáshoz kapcsolódó jogviszonyokat illetően a regionális intézet jogutódjának tekintendő.
+(5)[^95] Az (1) és (2) bekezdéstől eltérően a korábban a regionális intézetek által végzett egyes feladatok részleges átvevője az alapító okirat szerint az OTH, melynek tekintetében a számára jogszabályban megállapított feladat- és hatáskörök és a feladatellátáshoz kapcsolódó jogviszonyokat illetően a regionális intézet jogutódjának tekintendő.
 
-(6)[^95] Ha jogszabály az Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) egésze számára állapít meg feladat- és hatáskört, a feladat- és hatáskör címzettjének – jogszabály eltérő rendelkezése hiányában – a Szolgálatot, valamint a megyei népegészségügyi szakigazgatási szervet és a járási népegészségügyi intézetet együttesen kell tekinteni.
+(6)[^96] Ha jogszabály az Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) egésze számára állapít meg feladat- és hatáskört, a feladat- és hatáskör címzettjének – jogszabály eltérő rendelkezése hiányában – a Szolgálatot, valamint a megyei népegészségügyi szakigazgatási szervet és a járási népegészségügyi intézetet együttesen kell tekinteni.
 
-(7)[^96] A Pest Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szervét a számára e rendeletben meghatározott, 2013. január 1-jét megelőzően Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
+(7)[^97] A Pest Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szervét a számára e rendeletben meghatározott, 2013. január 1-jét megelőzően Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
 
-[^93]: A 27. § (4) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
-[^94]: A 27. § (5) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
-[^95]: A 27. § (6) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^96]: A 27. § (7) bekezdését a 414/2012. (XII. 29.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^94]: A 27. § (4) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
+[^95]: A 27. § (5) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^96]: A 27. § (6) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^97]: A 27. § (7) bekezdését a 414/2012. (XII. 29.) Korm. rendelet 7. § (2) bekezdése iktatta be.

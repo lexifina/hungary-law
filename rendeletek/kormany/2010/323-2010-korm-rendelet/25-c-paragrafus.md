@@ -1,8 +1,8 @@
-## 25/B. §[^83] A GYEMSZI – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi a 25/A. § (1) bekezdés szerinti eljárásban hozott határozatot, valamint a 25/A. § (3) bekezdés szerinti felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást.
+## 25/B. §[^84] A GYEMSZI – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi a 25/A. § (1) bekezdés szerinti eljárásban hozott határozatot, valamint a 25/A. § (3) bekezdés szerinti felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást.
 
-## 12/A.[^84] Az egészségügyi államigazgatási szervnek az egészségügyi tevékenységvégzés előzetes engedélyezésével és bejelentésével kapcsolatos feladatai
+## 12/A.[^85] Az egészségügyi államigazgatási szervnek az egészségügyi tevékenységvégzés előzetes engedélyezésével és bejelentésével kapcsolatos feladatai
 
-25/C. §[^85] (1) Az állami vérellátó szolgálat által megkötött nemzetközi magánjogi egyezmény vagy megállapodás keretében a Magyarország területére érkező, az egyezményben vagy megállapodásban részes államban egészségügyi tevékenység végzésére jogosult személy egészségügyi tevékenységvégzését az Eütv. 110. § (10a) bekezdésében foglaltak alapján legkésőbb az egészségügyi tevékenység befejezésének napján, az 5. mellékletben foglalt tartalmú adatlap (a továbbiakban: Adatlap) kitöltésével kell bejelenteni az OTH-nak.
+25/C. §[^86] (1) Az állami vérellátó szolgálat által megkötött nemzetközi magánjogi egyezmény vagy megállapodás keretében a Magyarország területére érkező, az egyezményben vagy megállapodásban részes államban egészségügyi tevékenység végzésére jogosult személy egészségügyi tevékenységvégzését az Eütv. 110. § (10a) bekezdésében foglaltak alapján legkésőbb az egészségügyi tevékenység befejezésének napján, az 5. mellékletben foglalt tartalmú adatlap (a továbbiakban: Adatlap) kitöltésével kell bejelenteni az OTH-nak.
 
 (2) Az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) az Eütv. 110. § (10a) bekezdése alapján egészségügyi tevékenységet végzett személyekről az Adatlap I. pontjában szereplő adattartalommal nyilvántartást vezet.
 
@@ -12,6 +12,6 @@
 
 (5) Az Adatlap I. pontjában foglaltak tartalmáért az egészségügyi tevékenységet végző személy, az Adatlap II. pontjában foglaltak tartalmáért az állami vérellátó szolgálat tartozik felelősséggel.
 
-[^83]: A 25/B. §-t a 82/2011. (V. 18.) Korm. rendelet 61. §-a iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^84]: A 12/A. alcímet a 325/2011. (XII. 28.) Korm. rendelet 83. §-a iktatta be.
-[^85]: A 25/C. §-t a 325/2011. (XII. 28.) Korm. rendelet 83. §-a iktatta be.
+[^84]: A 25/B. §-t a 82/2011. (V. 18.) Korm. rendelet 61. §-a iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^85]: A 12/A. alcímet a 325/2011. (XII. 28.) Korm. rendelet 83. §-a iktatta be.
+[^86]: A 25/C. §-t a 325/2011. (XII. 28.) Korm. rendelet 83. §-a iktatta be.
