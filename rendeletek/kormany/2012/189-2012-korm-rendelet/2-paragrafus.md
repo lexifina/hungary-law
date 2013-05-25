@@ -1,1 +1,0 @@
-## 1. § A Kormány a Trend-Építő Zártkörűen Működő Részvénytársaság (Cg. 01-10-045591, székhely: 1047 Budapest, Baross u. 74.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
