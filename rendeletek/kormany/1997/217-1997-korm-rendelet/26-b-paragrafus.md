@@ -1,3 +1,3 @@
-26/B. §[^358] A gyermekgondozási díj legmagasabb naptári napi összegét az Eb.tv. 42/D. § (1) bekezdésében meghatározott összeg harmincad részében kell megállapítani.
+26/B. §[^359] A gyermekgondozási díj legmagasabb naptári napi összegét az Eb.tv. 42/D. § (1) bekezdésében meghatározott összeg harmincad részében kell megállapítani.
 
-[^358]: A Vhr. 26/B. §-a a 207/2000. (XII. 11.) Korm. rendelet 5.§-ával megállapított szöveg.
+[^359]: A Vhr. 26/B. §-a a 207/2000. (XII. 11.) Korm. rendelet 5.§-ával megállapított szöveg.
