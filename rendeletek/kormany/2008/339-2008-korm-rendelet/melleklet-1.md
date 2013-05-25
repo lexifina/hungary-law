@@ -2,7 +2,7 @@
 
 1. számú melléklet
 
-a 339/2008. (XII. 30.) Korm. rendelethez[^4]
+a 339/2008. (XII. 30.) Korm. rendelethez[^5]
 
 ## Adatszolgáltatás reprodukciós eljárás során elvégzett beavatkozásról
 
@@ -90,4 +90,4 @@ a 339/2008. (XII. 30.) Korm. rendelethez[^4]
 
 41. Adományozás (petesejt/spermium/embrio) esetén a donorok száma
 
-[^4]: Az 1. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 72. § (4) bekezdésével megállapított szöveg.
+[^5]: Az 1. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 72. § (4) bekezdésével megállapított szöveg.
