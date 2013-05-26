@@ -1,3 +1,0 @@
-## 16. § A Hr. 47. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A vagyonkezelőt, haszonbérlőt, vagy az Nfatv. szerinti egyéb jogcímen alapuló szerződés szerinti használót (e fejezetben a továbbiakban együtt: használó) megillető jogok gyakorlását, annak szabályszerűségét, célszerűségét az NFA ellenőrzi. Ennek érdekében a használó és az NFA közötti, a földrészlet használatára, hasznosítására létesített szerződés (e fejezetben a továbbiakban: szerződés) rögzíteni kell, hogy a tulajdonosi ellenőrzés e rendelet szerinti eljárásrendjét, a felek jogait, kötelezettségeit a felek a szerződés részének tekintik.”
