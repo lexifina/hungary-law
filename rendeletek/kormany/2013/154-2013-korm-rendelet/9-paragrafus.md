@@ -1,3 +1,3 @@
-## 8. § Az R. a következő 16. §-sal egészül ki:
+## 8. §[^4]
 
-## „16. § E rendeletnek a kisajátítással összefüggő egyes kormányrendeletek módosításáról szóló 154/2013. (V. 24.) Korm. rendelet (a továbbiakban: Módr.) 6. §-ával megállapított 7. § (3) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

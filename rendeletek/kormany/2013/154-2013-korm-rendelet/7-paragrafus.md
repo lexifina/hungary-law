@@ -1,3 +1,3 @@
-## 6. § Az R. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^2]
 
-## „(3) Az építésügyi hatóság ellenőrzi, hogy a záradékolási kérelemben megjelölt kisajátítási cél összhangban van-e a területfelhasználásra, valamint a kisajátítás és a csereingatlan megosztása során keletkező új telkek megfelelnek-e a telekalakításra vonatkozó építésjogi követelményeknek. Részleges kisajátítás esetén a visszamaradó ingatlan nagyságára vonatkozó előírás teljesülését az építésügyi hatóság nem vizsgálja, ha az ingatlan beépítésre nem szánt területen helyezkedik el, vagy beépítésre szánt területen az ingatlan nagysága már eredetileg sem éri el a megengedett legkisebb teleknagyságot. Az építésjogi követelményeknek megfelelő kisajátítási tervet az építésügyi hatóság – a beérkezést követő naptól számított tíz napon belül – „Az építésjogi követelményeknek megfelel, a záradék kisajátítási eljárás céljára lett kiadva.” záradékkal látja el, és megküldi a kisajátítást kérőnek.”
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
