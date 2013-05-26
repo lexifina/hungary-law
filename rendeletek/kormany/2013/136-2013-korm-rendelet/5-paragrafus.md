@@ -1,1 +1,0 @@
-## 4. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 11/B. § (3) bekezdés c) pontjában a „megyei szakfőorvos” szövegrész helyébe a „feladattal megbízott szakfelügyelő főorvos” szöveg lép.
