@@ -414,7 +414,7 @@ Tóth Gábor (Fidesz)
 
 Borbély Lénárd (Fidesz)[^73]
 
-dr. Mátrai Márta (Fidesz)[^74]
+dr. Vas Imre (Fidesz)[^74]
 
 Farkas Zoltán (Fidesz)[^75]
 
@@ -1049,7 +1049,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^71]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
 [^72]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
 [^73]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^74]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^74]: A 43/2013. (V. 29.) OGY határozat 1. pontjával megállapított szöveg.
 [^75]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^76]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^77]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
