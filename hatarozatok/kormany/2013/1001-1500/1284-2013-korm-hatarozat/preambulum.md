@@ -1,0 +1,1 @@
+A Kormány a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74/E. § (2) bekezdése, az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (6a) bekezdése alapján a következő határozatot hozza:
