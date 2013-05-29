@@ -6,7 +6,7 @@ a) olyan hatóanyag esetében, amely az Európai Unióban 2000. május 14-én m�
 
 b) olyan hatóanyag esetében, amely az Európai Unióban 2000. május 14-én már forgalomban volt
 
-ba)[^37] 2000. május 14-től számított 14 évig,
+ba)[^39] 2000. május 14-től számított 14 évig,
 
 bb) a hatóanyagnak az 1. vagy 1/a) számú melléklet szerinti közösségi jegyzékbe történő felvételétől számított 10 évig feltéve, hogy az adatot a hatóanyag, illetve az azonos hatóanyaggal készült további terméktípus 1. vagy 1/a) számú melléklet szerinti közösségi jegyzékbe történő első felvételének alátámasztására nyújtották be;
 
@@ -24,7 +24,7 @@ a) olyan hatóanyagot tartalmazó biocid termék engedélyezése, illetve regisz
 
 b) olyan hatóanyagot tartalmazó biocid termék engedélyezése, illetve regisztrációja vagy ezek módosítása esetében, amely az Európai Unióban 2000. május 14-én forgalomban volt
 
-ba)[^38] 2000. május 14-től számított 14 évig,
+ba)[^40] 2000. május 14-től számított 14 évig,
 
 bb) a hatóanyagnak az 1. vagy 1/a) számú mellékletek szerinti közösségi jegyzékbe történő felvételétől számított 10 évig feltéve, hogy az adatot a hatóanyag, illetve azonos hatóanyaggal készült további terméktípus 1. vagy 1/a) számú mellékletek szerinti közösségi jegyzékbe történő első felvételének alátámasztására nyújtották be;
 
@@ -34,5 +34,5 @@ ca) a biocid termék engedélyezési feltételeinek megváltozása miatt, vagy
 
 cb) a hatóanyag 1. illetve 1/a) számú melléklet szerinti közösségi jegyzékbe történt felvételének további fenntartása érdekében
 
-[^37]: A 12. § (1) bekezdés b) pont ba) alpontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^38]: A 12. § (2) bekezdés b) pont ba) alpontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^39]: A 12. § (1) bekezdés b) pont ba) alpontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^40]: A 12. § (2) bekezdés b) pont ba) alpontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 7. § (2) bekezdésével megállapított szöveg.

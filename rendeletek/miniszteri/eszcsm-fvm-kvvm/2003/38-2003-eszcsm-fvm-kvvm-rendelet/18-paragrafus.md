@@ -18,11 +18,11 @@ g) azt hogy a termék egy meghatározott típushoz tartozik (pl. rokonösszetét
 
 (2) Ha az OTH megkapja valamely más tagállam illetékes hatóságánál benyújtott dokumentációk összefoglalását a 11. § (2) bekezdés b) pontjának megfelelő eljárás során, és alapos okkal feltételezhető, hogy a dokumentációk hiányosak, akkor ezt a körülményt haladéktalanul közli a dokumentációk értékeléséért felelős illetékes hatósággal, és arról egyidejűleg értesíti a Bizottságot és többi tagállamot.
 
-(3)[^49] Az OTH éves jegyzéket vezet az engedélyezett vagy regisztrált biocid termékekről. Az OTH az összesített jegyzéket évente közzéteszi a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, továbbá megküldi a többi tagállamnak és a Bizottságnak.
+(3)[^51] Az OTH éves jegyzéket vezet az engedélyezett vagy regisztrált biocid termékekről. Az OTH az összesített jegyzéket évente közzéteszi a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, továbbá megküldi a többi tagállamnak és a Bizottságnak.
 
 (4) Az OTH egységesített információs rendszert állít fel az (1) és (2) bekezdésben foglalt rendelkezések elősegítése érdekében.
 
-(5)[^50] Az engedélyezett, illetve regisztrált biocid termékek gyártói és importálói minden év március első napjáig az előző naptári év belföldi forgalmára vonatkozó jelentést készítenek OKBI részére. A jelentés tartalmazza a biocid termék megnevezését és a forgalmazott éves mennyiséget.
+(5)[^52] Az engedélyezett, illetve regisztrált biocid termékek gyártói és importálói minden év március első napjáig az előző naptári év belföldi forgalmára vonatkozó jelentést készítenek OKBI részére. A jelentés tartalmazza a biocid termék megnevezését és a forgalmazott éves mennyiséget.
 
-[^49]: A 18. § (3) bekezdése a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 10. §-ával megállapított szöveg.
-[^50]: A 18. § (5) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (8) bekezdése g) pontjának gb) alpontja szerint módosított szöveg.
+[^51]: A 18. § (3) bekezdése a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 10. §-ával megállapított szöveg.
+[^52]: A 18. § (5) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (8) bekezdése g) pontjának gb) alpontja szerint módosított szöveg.

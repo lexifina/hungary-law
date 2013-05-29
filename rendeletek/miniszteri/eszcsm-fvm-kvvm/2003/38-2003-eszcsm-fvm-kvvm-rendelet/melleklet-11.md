@@ -86,6 +86,6 @@
 
 11. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^112]
+együttes rendelethez[^114]
 
-[^112]: A 11. számú mellékletet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^114]: A 11. számú mellékletet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
