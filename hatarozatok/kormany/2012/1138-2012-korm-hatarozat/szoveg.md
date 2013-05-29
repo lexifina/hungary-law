@@ -84,7 +84,7 @@ nemzetgazdasági miniszter
 
 Határidő: 2012. június 30.
 
-h)[^7] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen annak érdekében, hogy az e) pont szerinti minősített beszerzési eljárás keretében beszerzendő eszközök a Magyar Állam tulajdonába kerüljenek, azzal, hogy azok tekintetében – legalább a beszerzési eljárás eredményeként megkötendő szerződés időbeli hatályának időtartamára – az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdésében foglaltak alapján az Állami Autópálya Kezelő Zrt. gyakorolja a Magyar Állam tulajdonosi jogait;
+h)[^7] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen annak érdekében, hogy az e) pont szerinti minősített beszerzési eljárás keretében beszerzendő eszközök a Magyar Állam tulajdonába kerüljenek, azok felett a Magyar Állam tulajdonosi jogait – legalább a beszerzési eljárás eredményeként megkötendő szerződés időbeli hatályának időtartamára – az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdésében foglaltak alapján az Állami Autópálya Kezelő Zrt. gyakorolja, azzal, hogy ennek körében a beszerzési eljárás során az általános rendőrségi feladatok ellátására létrehozott szerv mint díjellenőrzési hatóság feladatellátásához szükséges eszközöket a Magyar Nemzeti Vagyonkezelő Zrt. – mint tulajdonosi joggyakorló – részére átadja, amely ezt követően az eszközöket az Országos Rendőr-főkapitányság vagyonkezelésébe adja;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -106,5 +106,5 @@ Határidő: folyamatosan
 [^4]: A 3. pont b) pontját visszavonta az 1079/2013. (II. 22.) Korm. határozat 5. pontja.
 [^5]: A 3. pont c) alpontja az 1079/2013. (II. 22.) Korm. határozat 2. pontjával megállapított szöveg.
 [^6]: A 3. pont e) alpontja az 1079/2013. (II. 22.) Korm. határozat 3. pontjával megállapított szöveg.
-[^7]: A 3. pont h) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont b) alpontja iktatta be, szövege az 1079/2013. (II. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^7]: A 3. pont h) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont b) alpontja iktatta be, szövege az 1285/2013. (V. 28.) Korm. határozat 1. pontjával megállapított szöveg.
 [^8]: A 3. pont i) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont c) alpontja iktatta be, visszavonta az 1079/2013. (II. 22.) Korm. határozat 5. pontja.
