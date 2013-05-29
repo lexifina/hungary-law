@@ -1,0 +1,9 @@
+18. § (1) Az újonnan választott tanúsító szervezet a státuszigazolás beérkezését követő harminc napon belül a gazdasági szereplőnél helyszíni vizsgálatot végez és a vizsgálat befejezését követő 15 napon belül dönt a gazdasági szereplő tanúsító szervezet váltása iránti kérelméről.
+
+(2) Az újonnan választott tanúsító szervezet a gazdasági szereplőt a tanúsítási rendszerébe befogadja, amennyiben a helyszíni vizsgálat során megállapítja, hogy a gazdasági szereplő az Öko rendelkezéseket betartja. Az újonnan választott tanúsító szervezet a gazdasági szereplő tanúsító szervezet váltása iránti kérelme tárgyában hozott döntéséről nyolc napon belül írásban tájékoztatja a NÉBIH-et a 889/2008/EK bizottsági rendelet XII. melléklete szerinti adattartalommal, a lakóhely, székhely és telephely pontos megjelölésével.
+
+(3) Az újonnan választott tanúsító szervezettel a tanúsítási szerződést úgy kell megkötni, hogy a gazdasági szereplő az új tanúsítási rendszerbe a korábbi tanúsítási rendszerből való kilépés időpontjával lépjen be. Az újonnan választott tanúsító szervezet a szerződés megkötésekor igazolást állít ki arról, hogy a gazdasági szereplő a szerződéskötés napjától, illetve a szerződésben meghatározott időponttól kezdve a tanúsítási rendszerében részt vesz.
+
+(4) Amennyiben a tanúsító szervezet váltása iránti kérelem, valamint a helyszíni vizsgálat alapján nem állapítható meg, hogy a gazdasági szereplő betartotta-e az Öko rendelkezéseket, akkor az átállási időszak a tanúsító szervezet váltása iránti kérelem elfogadásának időpontjától újraindul, amelyről a tanúsító szervezet a gazdasági szereplőt és a lakóhelye, székhelye, illetve telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot egyidejűleg értesíti.
+
+(5) A tanúsító szervezet váltására egyebekben a 10. § rendelkezéseit kell értelemszerűen alkalmazni.

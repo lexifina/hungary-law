@@ -1,0 +1,5 @@
+11. § (1) A tanúsító szervezet a tanúsítási rendszerében részt vevő gazdálkodó szervezet számára a 834/2007/EK tanácsi rendelet 29. cikkében foglaltaknak megfelelően tanúsítványt állít ki, határozott időre. A tanúsító szervezet a tanúsítvány kiállítását kizárólag az Öko rendelkezések megsértése, illetve a tanúsítási szerződésben meghatározott díjak kiegyenlítésének elmaradása esetén tagadhatja meg.
+
+(2) A tanúsító szervezet az általa tanúsított gazdasági szereplőkről, valamint az általa kiadott, felfüggesztett vagy visszavont tanúsítványokról elektronikus nyilvántartást vezet, melynek adattartalmát a NÉBIH részére elektronikus úton átadja, továbbá a nyilvántartás adataiban bekövetkezett változást 15 napon belül a NÉBIH-nek bejelenti.
+
+(3) A tanúsító szervezet az adott évben a tanúsítási rendszerben részt vevő gazdasági szereplőkről, a tanúsítási rendszerbe belépő és onnan kilépő gazdasági szereplők megjelölésével – a 889/2008/EK bizottsági rendelet XII. melléklete szerinti adattartalommal, a lakóhely, székhely és telephely feltüntetésével – a tárgyévet követő évben benyújtandó éves terv benyújtásával egyidejűleg írásban értesíti a NÉBIH-et.
