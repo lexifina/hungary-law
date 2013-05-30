@@ -1,6 +1,6 @@
 ## További adatkérésre jogosult szervek kijelölése
 
-## 10. §[^26] A Törvény 2. § (1) bekezdés és a 4. § (1) bekezdése szerinti adatkérésre jogosultak továbbá:
+## 10. §[^27] A Törvény 2. § (1) bekezdés és a 4. § (1) bekezdése szerinti adatkérésre jogosultak továbbá:
 
 a) az Állami Számvevőszék elnöke,
 
@@ -24,7 +24,7 @@ j) a Nemzeti Fejlesztési Ügynökség elnöke,
 
 k) az Országgyűlés Hivatalának vezetője, valamint
 
-l)[^27] a Közigazgatási és Igazságügyi Hivatal vezetője.
+l)[^28] a Közigazgatási és Igazságügyi Hivatal vezetője.
 
-[^26]: A 10. § az 55/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^27]: A 10. § l) pontja a 178/2012. (VII. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^27]: A 10. § az 55/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^28]: A 10. § l) pontja a 178/2012. (VII. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
