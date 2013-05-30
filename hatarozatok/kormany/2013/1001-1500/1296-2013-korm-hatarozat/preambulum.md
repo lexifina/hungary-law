@@ -1,0 +1,1 @@
+A Kormány a világhírű magyar fotográfia népszerűsítése, a fotózás önálló művészeti ágként való magyarországi elismertetése érdekében támogatja Robert Capa Kortárs Fotográfiai Központ (a továbbiakban: Capa Központ) néven egy korszerű kortárs fotográfiai intézmény létrehozásának szakmai koncepcióját, és annak megvalósítása érdekében
