@@ -1,0 +1,1 @@
+A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 74. § (2) bekezdés 1. és 2. pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § o) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

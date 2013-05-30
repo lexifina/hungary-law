@@ -1,0 +1,3 @@
+## III. Fejezet
+
+## A KÖZZÉTEENDŐ ADATOK ÉS A KÖZZÉTÉTEL MÓDJA
