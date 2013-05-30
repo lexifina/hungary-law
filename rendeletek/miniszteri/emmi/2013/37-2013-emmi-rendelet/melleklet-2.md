@@ -5087,3 +5087,5 @@ A 21. sorszámú Fogtechnikus gyakornok megnevezésű szakképesítés szakmai �
 2.7. Gyakorlati képzési idő aránya: 70%
 
 2.8. Szintvizsga: -
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama:
