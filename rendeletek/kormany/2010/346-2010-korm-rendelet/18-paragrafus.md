@@ -1,12 +1,9 @@
-## 18. §[^29] Az EDR működtetéséért felelős szervezet
+18. §[^71] (1) A 3. melléklet II. pontjában felsorolt felhasználók szolgáltatási igényét, valamint a 3. melléklet I. pontjában felsorolt felhasználók (központi finanszírozású kör) esetében a közszolgáltatási szerződés által le nem fedett egyedi igényeket – az 5. § (6) bekezdésének megfelelően – a kormányzati célú hírközlési szolgáltató a felhasználókkal kötött egyedi felhasználói szerződés alapján elégíti ki.
 
-a) a miniszterrel kötött közszolgáltatási szerződés alapján gondoskodik az EDR működtetéséről;
+(2) A közszolgáltatási szerződés által le nem fedett egyedi igények költségvetési fedezetét a felhasználó biztosítja.
 
-b) megköti az EDR működtetéséhez szükséges szerződéseket;
+(3) Az egyedi finanszírozású felhasználók esetében a szolgáltatások díja ésszerű nyereséghányadot tartalmazhat. A költségszámítás részletes módját (költségszámítási modellt) és ennek részeként az ésszerű nyereség mértékét – a 8. § (6)–(7) bekezdésében foglaltaktól eltérően – a közszolgáltatási szerződés tartalmazza.
 
-c) kapcsolatot tart a védelmi igazgatás szervezetével;
+(4) Az egyedi felhasználói szerződés megkötéséig a kormányzati célú hírközlési szolgáltató a közszolgáltatási szerződésben rögzített feladatokat látja el, a közszolgáltatási szerződésben rögzített feltételekkel.
 
-d)[^30] felhasználói szerződést köt a 3. melléklet 28. és 30. pontjai alapján csatlakozni kívánó, a rendszer használatára alkalmas felhasználókkal.
-
-[^29]: A 18. § nyitó szövegrésze a 309/2011. (XII. 23.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg. E módosító rendelet 14. §-a alapján a folyamatban lévő szolgáltatások teljesítése tekintetében is alkalmazni kell.
-[^30]: A 18. § d) pontja a 300/2012. (X. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^71]: A 18. § a 169/2013. (V. 29.) Korm. rendelet 22. §-ával megállapított szöveg.

@@ -1,78 +1,107 @@
 ## Elkülönült hírközlési tevékenység végzésére jogosultak és az általuk működtetett hálózatok megnevezése
 
-## A polgári nemzetbiztonsági műveleti hálózat esetében az Alkotmányvédelmi Hivatal, az Információs Hivatal és a Nemzetbiztonsági Szakszolgálat.
+## a) A polgári nemzetbiztonsági műveleti hálózat esetében az Alkotmányvédelmi Hivatal, az Információs Hivatal és a Nemzetbiztonsági Szakszolgálat.
 
-## A katonai nemzetbiztonsági műveleti hálózat esetében a Katonai Nemzetbiztonsági Szolgálat.
+## b) A katonai nemzetbiztonsági műveleti hálózat esetében a Katonai Nemzetbiztonsági Szolgálat.
 
-## A Magyar Honvédség honvédelmi célú híradó-informatikai hálózata esetén a honvédelmi miniszter.
+## c) A honvédelmi miniszter által működtetett Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat.
 
-## A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külügyminiszter.
+## d) A terrorizmust elhárító szerv (Terrorelhárítási Központ) által használt elektronikus hírközlő hálózat esetében a belügyminiszter.
 
-3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez
+## e) A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külügyminiszter.
 
-## Az EDR felhasználói
+3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^114]
 
-1. a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterek és e feladat ellátásában közreműködő minisztériumi szervezeti egységek;
+## EDR VPN gazda szervezetek és EDR felhasználók
 
-2. a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszternek az EDR irányítását ellátó minisztériumi szervezeti egysége;
+I. Központi finanszírozásúak
 
-3. az Információs Hivatal;
+|  | VPN gazda szervezet | Általános VPN használati szabályzat | Felhasználó | Különös VPN használati szabályzat |
 
-4. az Alkotmányvédelmi Hivatal;
+|  | 1. Belügyminisztérium /Rendészeti VPN/ | X | 1.1. Általános rendőrségi feladatok ellátására létrehozott szerv | X |
 
-5. a Nemzetbiztonsági Szakszolgálat;
+|  | 1.2. Belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv (Nemzeti Védelmi Szolgálat) | X |
 
-6. a Honvédelmi Minisztériumnak veszély- és katasztrófahelyzetben a Magyar Honvédség készenléti tevékenységet ellátó szervezeteit irányító vezetői, az irányításban közreműködő szervezeti egységei;
+|  | 1.3. Büntetés-végrehajtási szervezet | X |
 
-7. a Magyar Honvédség készenléti tevékenységet ellátó szervezetei és szervezeti egységei;
+|  | 1.4. Terrorizmust elhárító szerv (Terrorelhárítási Központ) | X |
 
-8.[^45] a Katonai Nemzetbiztonsági Szolgálat;
+|  | 1.5. A rendészetért felelős miniszternek a Rendőrséget, a Büntetés-végrehajtás Országos Parancsnokságát, az Országos Katasztrófavédelmi Főigazgatóságot és a Terrorelhárítási Központot irányító szervezeti egységei, valamint a terrorelhárítási, veszély- és katasztrófahelyzetben az irányításukban közreműködő szervezeti egységek | X |
 
-9.[^46]
+|  | 1.6. A polgári nemzetbiztonsági szolgálatok irányításáért felelős és e feladat ellátásában közreműködő minisztériumi szervezeti egységek | X |
 
-10. a Honvédelmi Minisztérium Védelmi Hivatala;
+|  | 1.7. Miniszterelnökség | X |
 
-11. a fővárosi, megyei védelmi bizottságok elnökei és titkárai;
+|  | 1.8. A kormányzati célú hírközlési szolgáltatóknál és az elkülönült hírközlési tevékenység végzésére jogosultaknál e tevékenységgel kapcsolatos készenléti feladatot ellátó szervezeti egységek | X |
 
-12. a minisztériumok és kormányhivatalok védelemszervezéssel foglalkozó szervezeti egységei, valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala;
+|  | 2. Országos Katasztrófavédelmi Főigazgatóság /OKF VPN/ | X | 2.1. Hivatásos katasztrófavédelmi szerv központi szerve |  |
 
-13. a Nemzeti Média- és Hírközlési Hatóság;
+|  | 2.2. Hivatásos katasztrófavédelmi szerv területi szervei | X |
 
-14. a rendészetért felelős miniszternek a Rendőrséget, a Büntetés-végrehajtás Országos Parancsnokságát és az Országos Katasztrófavédelmi Főigazgatóságot irányító vezetői, veszély- és katasztrófahelyzetben az irányításukban közreműködő személyei és szervezeti egységei;
+|  | 2.3. Hivatásos katasztrófavédelmi szerv helyi szervei (katasztrófavédelmi kirendeltségek, hivatásos tűzoltóságok) | X |
 
-15. a Rendőrség;
+|  | 2.4. Önkormányzati, létesítményi, önkéntes tűzoltóságok | X |
 
-16. a büntetés-végrehajtási szervezet;
+|  | 3. Nemzetbiztonsági Szakszolgálat /NBSZ VPN/ | X | 3.1. Nemzetbiztonsági Szakszolgálat |  |
 
-17. az Országos Katasztrófavédelmi Főigazgatóság;
+|  | 4. Alkotmányvédelmi Hivatal /AH VPN/ | X | 4.1. Alkotmányvédelmi Hivatal |  |
 
-18. a tűzoltóságok;
+|  | 5. Információs Hivatal /IH VPN/ | X | 5.1. Információs Hivatal |  |
 
-19. a Nemzeti Adó- és Vámhivatalt irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei;
+|  | 6. Magyar Honvédség /MH VPN/ | X | 6.1. Magyar Honvédség katonai szervezetei |  |
 
-20. a Nemzeti Adó- és Vámhivatal;
+|  | 6.2. Honvédelmi Minisztérium | X |
 
-21.[^47] az Országos Vízügyi Főigazgatóságot, a vízügyi igazgatóságokat, valamint a nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
+|  | 6.3. A Honvédelmi Minisztérium Védelmi Hivatala | X |
 
-22.[^48] az Országos Vízügyi Főigazgatóság, a vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok;
+|  | 6.4. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 16. § (2) bekezdésben felsorolt szerveknél a honvédelemmel foglalkozó szervezeti egységek | X |
 
-23. az Országos Mentőszolgálatot irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységeinek vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
+|  | 6.5. NAMPO (NATO Támogatási Ügynökség, Légiszállítást Kezelő Programiroda) | X |
 
-24. az Országos Mentőszolgálat, az Országos Mentőszolgálat által irányított orvosi ügyeletek és az Országos Mentőszolgálat által irányított, közfinanszírozással rendelkező betegszállítást végző egészségügyi szolgáltatók;
+|  | 7. Katonai Nemzetbiztonsági Szolgálat /KNBSZ VPN/ | X | 7.1. Katonai Nemzetbiztonsági Szolgálat |  |
 
-25. a kormányzati célú hírközlési szolgáltatónál és az elkülönült hírközlési tevékenység végzésére jogosultaknál e tevékenységgel kapcsolatos készenléti feladatot ellátó személyek;
+|  | 8. Országos Mentőszolgálat /OMSZ VPN/ | X | 8.1. Országos Mentőszolgálat |  |
 
-26. a Nemzeti Közlekedési Hatóságnak a regionális igazgatóságokat irányító vezetői, az irányításban közreműködő személyei és szervezeti egységei;
+|  |  | 8.2. Az Országos Mentőszolgálat által irányított (központi) orvosi ügyeletek – a feladathoz kapcsolódóan – és az országos mentőszolgálat által irányított, a betegszállításról szóló 19/1998. (VI. 3.) NM rendelet alapján a közfinanszírozással rendelkező betegszállítást végző egészségügyi szolgáltatók | X |
 
-27. a Nemzeti Közlekedési Hatóság Központi Hivatala, a Kiemelt Ügyek Igazgatósága, a Pályaalkalmasság Vizsgálati Igazgatóság, a Légiközlekedési Igazgatóság és a regionális igazgatóságok;
+|  | 8.3. Az országos mentőszolgálatot irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységei, veszély- és katasztrófahelyzetben az irányításban közreműködő szervezeti egységek | X |
 
-28. a települési önkormányzati közterület-felügyeletek, valamint azok a polgárőrségek, amelyek a polgárőrségről szóló 2006. évi LII. törvény 6. § (1) bekezdésében felsorolt feladatok közül legalább hármat ellátnak;
+|  | 8.4. Készenléti feladatokat ellátó hazai vagy nemzetközi segítségnyújtásban bevethető mentőszervezetek | X |
 
-29. az EDR-közreműködő;
+|  | 8.5. Az Országos Mentőszolgálattal a mentésről szóló 5/2006. (II. 7.) EüM rendelet 10. § (4) bekezdése alapján mentési feladat elvégzésében közreműködő egészségügyi szolgáltató | X |
 
-30. a fenti szervek körébe nem tartozó, a 17. § szerint a miniszter jóváhagyásával az EDR-hálózathoz külön megállapodás alapján kapcsolódó, jellemzően készenléti feladatokat ellátó szervezetek, amelyek a közigazgatási szervezetek szolgáltatását kiegészítő feladatokat, illetve közszolgáltatásokat látnak el, vagy kritikus fontosságú infrastruktúrát üzemeltetnek.
+|  | 8.6. Országos Epidemiológiai Központ, Országos Környezetegészségügyi Intézet, Országos ’Frédéric Joliot-Curie’ Sugárbiológiai és Sugáregészségügyi Kutató Intézet, Országos Kémiai Biztonsági Intézet | X |
 
-[^45]: A 3. melléklet 8. pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés f) pontjával megállapított szöveg.
-[^46]: A 3. melléklet 9. pontját a 286/2012. (X. 11.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
-[^47]: A 3. melléklet 21. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^48]: A 3. melléklet 22. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+|  | 9. Országos Vízügyi Főigazgatóság /Vízügyi VPN/ | X | 9.1. Országos Vízügyi Főigazgatóság |  |
+
+|  | 9.2. Vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok | X |
+
+|  | 9.3. A nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységei | X |
+
+|  | 9.4. Az országos vízügyi főigazgatóságot, a vízügyi igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységei és a veszély- és katasztrófahelyzetben az irányításban közreműködő szervezeti egységek | X |
+
+|  | 10. Nemzeti Adó- és Vámhivatal /NAV VPN/ | X | 10.1. Nemzeti Adó- és Vámhivatal |  |
+
+|  | 10.2. A Nemzeti Adó- és Vámhivatalt irányító miniszter ezen irányítási feladatot ellátó, illetve veszély- és katasztrófahelyzetben az irányításban közreműködő szervezeti egységei | X |
+
+|  | 11. Nemzeti Közlekedési Hatóság /NKH VPN/ | X | 11.1. Nemzeti Közlekedési Hatóság |  |
+
+|  | 11.2. Nemzeti Közlekedési Hatóság Központ, Útügyi, Vasúti és Hajózási Hivatal, Közúti Gépjármű-közlekedési Hivatal, Légügyi Hivatal | X |
+
+|  | 11.3. Nemzeti Közlekedési Hatóság szakmai irányításával működő fővárosi és megyei közlekedési szakigazgatási szervek | X |
+
+|  | 12. Nemzeti Média- és Hírközlési Hatóság /NMHH VPN/ | X | 12.1. Nemzeti Média- és Hírközlési Hatóság | X |
+
+|  | 13. EDR – kormányzati célú hírközlési szolgáltató /Pro-M VPN/ | X | 13.1. EDR, mint készenléti kommunikációs rendszer kormányzati célú hírközlési szolgáltatója |  |
+
+|  | 13.2. A közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszternek az EDR irányítását ellátó minisztériumi szervezeti egysége | X |
+
+II. Egyedi finanszírozásúak
+
+|  | VPN gazda szervezet | Általános VPN használati szabályzat | Felhasználó | Különös VPN használati szabályzat |
+
+|  | 1. MVM Paksi Atomerőmű Zrt. /MVM PA Zrt.-VPN/ | X | 1.1. MVM Paksi Atomerőmű Zrt. |  |
+
+|  | 2. EDR – kormányzati célú hírközlési szolgáltató /Pro-M FKB VPN/ | X | 2.1. A 3. melléklet I. és II/1. pontjába nem tartozó, a 17. § szerint a miniszter jóváhagyásával az EDR-hálózathoz – a felhasználói kör bővítése (FKB) keretében – külön megállapodás alapján csatlakozó jogi személy, vagy jogi személyiség nélküli szervezet, amely létfontosságú rendszerelemmé kijelölt eszköz, létesítmény, vagy rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy ilyen rendszerelem napi működéséért felelős. | X |
+
+[^114]: A 3. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.

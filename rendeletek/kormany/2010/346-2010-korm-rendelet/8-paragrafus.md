@@ -24,4 +24,12 @@ e) az országos belföldi tudakozó szolgáltatás nyújtásához szükséges ad
 
 (4) A kormányzati célú hírközlési szolgáltatást egyéni előfizetőként nem lehet igénybe venni.
 
-(5) A kormányzati célú hírközlési szolgáltató az emelt szintű szolgáltatások díjának mértékét a 6. § (1) bekezdés a) pontja szerinti értelemben vett működtetés – tőkeköltség és a pótlólagos beruházásokat is magában foglaló – ráfordításai alapján határozza meg. A kormányzati célú hírközlési szolgáltató olyan módon köteles az emelt szintű szolgáltatások díját meghatározni, hogy a díjak e ráfordítások megtérülésén túlmenően nyereséget ne biztosítsanak. Az e követelménynek megfelelő költségszámítás részletes módját (költségszámítási modellt) a közszolgáltatási szerződés tartalmazza.
+(5)[^35] A kormányzati célú hírközlési szolgáltató a közvetlen finanszírozású szolgáltatások díjának mértékét a 6. § (1) bekezdés a) pontja szerinti értelemben vett működtetés – tőkeköltség és a pótlólagos beruházásokat is magában foglaló – ráfordításai alapján határozza meg. A közvetlen finanszírozású szolgáltatások díja a ráfordítások megtérülését tartalmazhatja. Az e követelménynek megfelelő költségszámítás részletes módját (költségszámítási modellt) a közszolgáltatási szerződés tartalmazza.
+
+(6)[^36] A csatlakozásra jogosult felhasználók esetében a szolgáltatások díja ésszerű nyereséghányadot tartalmazhat.
+
+(7)[^37] A (6) bekezdésben rögzített ésszerű nyereség mértéke a kormányzati célú hírközlési szolgáltató üzemi eredményének és rendkívüli eredményének összege (EBIT) és az értékesítés nettó árbevétele arányában kerül meghatározásra, amely nem haladhatja meg a tárgyév első munkanapján érvényes éves Budapesti Bankközi Forint Hitelkamatláb (BUBOR) 100 bázisponttal növelt értékét.
+
+[^35]: A 8. § (5) bekezdése a 169/2013. (V. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^36]: A 8. § (6) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^37]: A 8. § (7) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.

@@ -1,10 +1,17 @@
-12. § (1) Az EDR használatára a 3. mellékletben meghatározott felhasználók jogosultak.
+12. § (1)[^57] Az EDR használatára a 3. mellékletben meghatározott felhasználók jogosultak és egyben kötelesek is digitális rádióhálózat útján kielégíthető készenléti, illetve katasztrófavédelmi, katasztrófa-elhárítási célú elektronikus hírközlési igényeiket EDR szolgáltatásként a kormányzati célú hírközlési szolgáltatótól igénybe venni.
 
-(2) Ha a 3. mellékletben meghatározott felsorolás valamely felhasználóval kapcsolatosan meghatározza, hogy az adott felhasználónál az EDR használatára csak annak meghatározott feladatot ellátó vezetője vagy szervezeti egysége jogosult, a felhasználó az EDR használatára csak a felsorolt feladatok ellátásában közreműködő, a szervvel közszolgálati-, kormánytisztviselői-, közalkalmazotti-, szolgálati- vagy munkajogi jogviszonyban álló végfelhasználókat jogosíthatja fel. Ha a 3. melléklet ezt a felhasználónál nem nevesíti, a felhasználó saját maga dönt arról, hogy milyen, a feladata ellátásában vele közreműködő végfelhasználóknak biztosítja az EDR használatát.
+(2)[^58] A 3. melléklet meghatározza az adott felhasználónál az EDR használatára jogosult szervezeti egységeket,
 
-(3)[^14] Az EDR működtetéséért felelős szervezet jogosult a (2) bekezdésben foglalt feltételek teljesülését ellenőrizni, és ellenőrzése esetén a felhasználó köteles az EDR működtetéséért felelős szervezet számára az ellenőrzéshez szükséges adatokat – a minősített és a személyes adatra vonatkozó feltételek betartásával – megadni.
+közreműködőket. Ha a 3. melléklet ezt a felhasználónál nem nevesíti, a felhasználó saját maga dönt arról, hogy milyen, a feladata ellátásában vele közreműködő végfelhasználóknak biztosítja az EDR használatát.
 
-(4)[^15] A felhasználók az EDR útján elérhető szolgáltatásokat saját alrendszereik önálló irányítása mellett elkülönülten vagy szükség esetén együttműködve veszik igénybe.
+(3)[^59] A kormányzati célú hírközlési szolgáltató jogosult a (2) bekezdésben foglalt feltételek teljesülését ellenőrizni, és ellenőrzése esetén a felhasználó köteles a kormányzati célú hírközlési szolgáltató számára az ellenőrzéshez szükséges adatokat – a minősített és a személyes adatra vonatkozó feltételek betartásával – megadni.
 
-[^14]: A 12. § (3) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg. E módosító rendelet 14. §-a alapján a folyamatban lévő szolgáltatások teljesítése tekintetében is alkamazni kell.
-[^15]: A 12. § (4) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (4) bekezdése iktatta be. E módosító rendelet 14. §-a alapján a folyamatban lévő szolgáltatások teljesítése tekintetében is alkamazni kell.
+(4)[^60] A felhasználók az EDR útján elérhető szolgáltatásokat saját alrendszereik önálló irányítása mellett elkülönülten vagy szükség esetén együttműködve, a VPN Központi Menedzser Szervezet közreműködésével veszik igénybe.
+
+(5)[^61] Amennyiben a 3. melléklet II/1. pontja szerinti EDR felhasználó – a 12. § (1) bekezdésében leírt hírközlési igényeken túl – a nukleárisbaleset-elhárítási célú elektronikus hírközlési igényeket EDR szolgáltatásként a kormányzati célú hírközlési szolgáltatótól veszi igénybe, akkor a szolgáltatásnak a külön jogszabályban meghatározott nukleáris biztonsági követelményeket is teljesítenie kell.
+
+[^57]: A 12. § (1) bekezdése a 169/2013. (V. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^58]: A 12. § (2) bekezdése a 169/2013. (V. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^59]: A 12. § (3) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (4) bekezdésével megállapított, a 169/2013. (V. 29.) Korm. rendelet 32. § (16)–(17) bekezdése szerint módosított szöveg.
+[^60]: A 12. § (4) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (4) bekezdése iktatta be, szövege a 169/2013. (V. 29.) Korm. rendelet 32. § (18) bekezdése szerint módosított szöveg.
+[^61]: A 12. § (5) bekezdését a 169/2013. (V. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.

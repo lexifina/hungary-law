@@ -2,13 +2,30 @@
 
 ## 11. § Ezen alcím alkalmazásában:
 
-1. EDR: a Schengeni Megállapodás Schengenben, 1990. június 19-én aláírt Végrehajtási Egyezményének 132., illetve 44. cikkében meghatározott követelményeket kielégítő digitális, nyalábolt (trönkölt), kormányzati célú rádióhálózat, az egységes digitális rádiótávközlő rendszer;
+1–2.[^47]
 
-2.[^9] EDR-közreműködő: az EDR működtetéséért felelős szervezetettel kötött szerződés alapján az EDR-szolgáltatást mint elektronikus hírközlési szolgáltatást az EDR működtetéséért felelős szervezet részére nyújtó szervezet;
+3.[^48] végfelhasználó: a felhasználó által az EDR használatára feljogosított természetes személy.
 
-3. végfelhasználó: a felhasználó által az EDR használatára feljogosított magánszemély.
+4.[^49]
 
-4.[^10] EDR működtetéséért felelős szervezet: a Kormány által jogszabályban kijelölt jogi személy vagy szervezet, mely – az EDR-közreműködő közreműködésével – kizárólagos jog alapján látja el az egységes digitális rádiótávközlő rendszer vonatkozásában a 6. §-ban foglalt feladatokat.
+5.[^50] diszpécser: az EDR hálózatban a VPN alárendeltségébe tartozó, VPN menedzseri és teljes körű forgalom-szervezési feladatokat ellátó természetes személy;
 
-[^9]: A 11. § 2. pontja a 309/2011. (XII. 23.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 14. §-a alapján a folyamatban lévő szolgáltatások teljesítése tekintetében is alkamazni kell.
-[^10]: A 11. § (4) pontját a 300/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be.
+6.[^51] EDR felhasználó: a 3. mellékletben szereplő, az EDR szolgáltatást használó vagy igénybe vevő jogi személy, valamint más szervezet;
+
+7.[^52] Készenléti EDR felhasználó: jogszabály alapján állandó rendelkezésre állásra, illetve kötelező beavatkozásra kötelezett szerv;
+
+8.[^53] általános VPN használati szabályzat: az adott VPN-re vonatkozóan az EDR-eszközök használatbavételének, a VPN-ek üzemeltetésének és használatának szabályait, a VPN-ek felhasználóival kapcsolatos erőforrások elosztását, a VPN-ek biztonsági szabályozását, valamint az adatkezeléssel kapcsolatos általános feladatokat rögzítő, VPN gazda szervezet által – a jóváhagyott általános EDR használati szabályzatban foglaltak alapján – kiadott szabályzat;
+
+9.[^54] különös VPN használati szabályzat: a jóváhagyott általános VPN használati szabályzatban foglaltak alapján kiadott, az egyes felhasználó vonatkozásában az EDR használatára vonatkozó egyedi feltételeket rögzítő szabályzat;
+
+10.[^55] CE eszköz: olyan végponton kihelyezett aktív hálózati eszköz, úgynevezett CE (Customer Edge) router, mely az egyes végpontok közötti hálózati forgalmat irányítja.
+
+[^47]: A 11. § 1–2. pontját a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^48]: A 11. § 3. pontja a 169/2013. (V. 29.) Korm. rendelet 32. § (15) bekezdése szerint módosított szöveg.
+[^49]: A 11. § 4. pontját a 300/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja.
+[^50]: A 11. § 5. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^51]: A 11. § 6. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^52]: A 11. § 7. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^53]: A 11. § 8. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^54]: A 11. § 9. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^55]: A 11. § 10. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.

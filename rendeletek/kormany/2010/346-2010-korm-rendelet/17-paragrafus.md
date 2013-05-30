@@ -1,15 +1,17 @@
-17. § (1)[^24] A 3. melléklet 28. és 30. pontjában szereplő felhasználók esetében a VPN gazda szervezet feladatait az EDR működtetéséért felelős szervezet látja el.
+17. §[^70] (1) A VPN gazda szervezeteket és az egyes VPN gazda szervezetekhez tartozó felhasználókat a 3. melléklet tartalmazza. A VPN gazda szervezetek az EDR-szolgáltatás hatékony működése érdekében a miniszter jóváhagyásával jogosultak a 3. mellékletben a felelősségi körükbe rendelt felhasználói kör megosztásától megállapodásban eltérni.
 
-(2)[^25] A 3. melléklet 28. és 30. pontjában szereplő felhasználók a 16. §-ban foglaltaktól eltérően az alábbi (3)–(5) bekezdésben meghatározott feltételekkel csatlakozhatnak.
+(2) A 3. melléklet II/2. pontjában szereplő, valamint a (7) bekezdés alapján csatlakozók (egyedi finanszírozású kör) a 15. §-ban foglaltaktól eltérően a következő (3)–(8) bekezdésben meghatározott feltételek szerint csatlakoznak az EDR hálózathoz.
 
-(3)[^26] A felhasználó a csatlakozási szándékát az EDR működtetéséért felelős szervezethez benyújtott kérelemben terjeszti elő, amelyhez csatolja a különös EDR használati szabályzatának tervezetét, valamint a 15. § (6) bekezdés szerinti iratot.
+(3) A (2) bekezdés szerinti csatlakozó csatlakozási szándékát a kormányzati célú hírközlési szolgáltatóhoz benyújtott kérelemben terjeszti elő, amelyhez csatolja a különös VPN használati szabályzat tervezetét, valamint a 15. § (8) bekezdés szerinti iratot (ellenőrzési lista).
 
-(4)[^27] Az EDR működtetéséért felelős szervezet műszaki, jogi és biztonsági szempontból megvizsgálja, hogy a szervezet által megadott adatok alapján megfelel-e a kormányzati célú jogszabályban meghatározott felhasználói követelményeknek. Az EDR működtetéséért felelős szervezet a kérelem vizsgálata során jogosult az alkalmassági feltételeket képviselője útján helyszíni szemlével is ellenőrizni.
+(4) A kormányzati célú hírközlési szolgáltató műszaki, jogi és biztonsági szempontból megvizsgálja, hogy a kérelmező által megadott adatok alapján megfelel-e az e rendeletben, valamint a kormányzati célú hírközlési hálózatok felhasználóira vonatkozó egyéb jogszabályban meghatározott felhasználói követelményeknek. A kormányzati célú hírközlési szolgáltató a csatlakozási igény vizsgálata során jogosult az alkalmassági feltételeket képviselője útján a szolgáltatási helyszínen is ellenőrizni, a költségszámítási modellt pedig köteles a csatlakozó rendelkezésére bocsátani.
 
-(5)[^28] Az EDR működtetéséért felelős szervezet a csatlakozási kérelemről és a vizsgálata eredményéről értesíti a minisztert. A csatlakozási kérelemről a miniszter dönt, amely döntéséről az EDR működtetéséért felelős szervezet a kérelmezőt a miniszter döntésének meghozatalától számított 15 napon belül tájékoztatja. A kérelem elfogadása esetén az EDR működtetéséért felelős szervezet jóváhagyja a kérelmező benyújtott szabályzatát és megköti a felhasználói szerződést.
+(5) A kormányzati célú hírközlési szolgáltató a kérelem hiánytalan beérkezésétől számított 15 napon belül tájékoztatja a kérelmezőt a vizsgálat eredményéről és nem megfelelőség esetén megjelöli a csatlakozáshoz szükséges intézkedéseket.
 
-[^24]: A 17. § (1) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (5) bekezdése, a 300/2012. (X. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^25]: A 17. § (2) bekezdése a 300/2012. (X. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^26]: A 17. § (3) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 14. §-a alapján a folyamatban lévő szolgáltatások teljesítése tekintetében is alkalmazni kell.
-[^27]: A 17. § (4) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 14. §-a alapján a folyamatban lévő szolgáltatások teljesítése tekintetében is alkalmazni kell.
-[^28]: A 17. § (5) bekezdése a 309/2011. (XII. 23.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 14. §-a alapján a folyamatban lévő szolgáltatások teljesítése tekintetében is alkalmazni kell.
+(6) Amennyiben a kérelem megfelel a csatlakozáshoz szükséges műszaki, jogi és biztonsági feltételeknek a kérelmező kiértesítését követő 10 napon belül a kormányzati célú hírközlési szolgáltató a csatlakozási igényről és a vizsgálat eredményéről előterjesztésben értesíti a minisztert. A csatlakozási igényről a miniszter dönt, és döntését írásban közli a kormányzati célú hírközlési szolgáltatóval, valamint a kérelmező felhasználóval. A csatlakozási igény elfogadása esetén a kormányzati célú hírközlési szolgáltató jóváhagyja a kérelmező felhasználó benyújtott szabályzatát és megköti a felhasználói szerződést.
+
+(7) A 3. mellékletben fel nem sorolt szervezetek csatlakozását egyedi finanszírozású felhasználóként a miniszter indokolt esetben – a kormányzati célú hírközlési szolgáltató indokolással ellátott előterjesztése alapján – engedélyezheti.
+
+(8) A kormányzati célú hírközlési szolgáltató (6) és (7) bekezdés alapján benyújtott előterjesztése a minisztert döntése meghozatalában nem köti.
+
+[^70]: A 17. § a 169/2013. (V. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
