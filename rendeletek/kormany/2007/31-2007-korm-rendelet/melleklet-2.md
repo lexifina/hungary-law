@@ -176,6 +176,6 @@
 
 | 86. |  | 6.4. Területrendezési hatástanulmányok |
 
-2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^38]
+2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^39]
 
-[^38]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 341/2010. (XII. 28.) Korm. rendelet 14. §-a, a 351/2010. (XII. 30.) Korm. rendelet 174. §-a, a 300/2011. (XII. 22.) Korm. rendelet 18. § (2)–(3) bekezdése és 30. § g) pontja, a 324/2011. (XII. 28.) Korm. rendelet 11. § b)–c) pontja, a 23/2012. (II. 29.) Korm. rendelet 22. §-a, a 67/2012. (IV. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 296/2012. (X. 17.) Korm. rendelet 27. § d)–f) és a)–c) pontja, a 394/2012. (XII. 20.) Korm. rendelet 19. §-a szerint módosított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 174. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. melléklet 03. pontjában az „OMMF” szövegrésze helyébe a „Kormányhivatal” szöveg lép, nem vezethető át.]
+[^39]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 341/2010. (XII. 28.) Korm. rendelet 14. §-a, a 351/2010. (XII. 30.) Korm. rendelet 174. §-a, a 300/2011. (XII. 22.) Korm. rendelet 18. § (2)–(3) bekezdése és 30. § g) pontja, a 324/2011. (XII. 28.) Korm. rendelet 11. § b)–c) pontja, a 23/2012. (II. 29.) Korm. rendelet 22. §-a, a 67/2012. (IV. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 296/2012. (X. 17.) Korm. rendelet 27. § d)–f) és a)–c) pontja, a 394/2012. (XII. 20.) Korm. rendelet 19. §-a szerint módosított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 174. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. melléklet 03. pontjában az „OMMF” szövegrésze helyébe a „Kormányhivatal” szöveg lép, nem vezethető át.]

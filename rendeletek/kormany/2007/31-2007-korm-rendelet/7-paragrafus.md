@@ -1,10 +1,10 @@
-7. § (1)[^15] Az OSAP-ban szereplő adatokból a TeIR részére átadandó adatokat az adatkezelő szervezetek a frissítést követő 90 napon belül kötelesek átadni.
+7. § (1)[^16] Az OSAP-ban szereplő adatokból a TeIR részére átadandó adatokat az adatkezelő szervezetek a frissítést követő 90 napon belül kötelesek átadni.
 
-(2)[^16] A 2. számú mellékletben meghatározott adatkör átadásáért az érintett adatkezelő szerv felett felügyeletet ellátó miniszter vagy annak hiányában az érintett adatkezelő szerv vezetője a felelős.
+(2)[^17] A 2. számú mellékletben meghatározott adatkör átadásáért az érintett adatkezelő szerv felett felügyeletet ellátó miniszter vagy annak hiányában az érintett adatkezelő szerv vezetője a felelős.
 
-(3)[^17]
+(3)[^18]
 
-(4)[^18] A 6. § (4) bekezdése szerinti adatszolgáltatás során az adatkezelő szervezet köteles
+(4)[^19] A 6. § (4) bekezdése szerinti adatszolgáltatás során az adatkezelő szervezet köteles
 
 a) gondoskodni a TeIR részére történő adatátadásról, elsősorban elektronikus úton vagy digitális adathordozón,
 
@@ -20,10 +20,10 @@ d) a térképek és térképi adatbázisok esetében a rendelkezésre álló leg
 
 (7) A (6) bekezdés alapján újonnan átadandó adatkörök átadási határidejét úgy kell meghatározni, hogy az átadónak az átadás előkészítésére legalább 90 nap álljon rendelkezésére.
 
-(8)[^19]
+(8)[^20]
 
-[^15]: A 7. § (1) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^16]: A 7. § (2) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^17]: A 7. § (3) bekezdését a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^18]: A 7. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^19]: A 7. § (8) bekezdését a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^16]: A 7. § (1) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdése a 65/2010. (III. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^18]: A 7. § (3) bekezdését a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^19]: A 7. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^20]: A 7. § (8) bekezdését a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

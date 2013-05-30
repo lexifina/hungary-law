@@ -1,6 +1,6 @@
 ## A TeIR adatkörei, az adatgyűjtések és az adatátadás
 
-6. §[^14] (1) A TeIR az 1. számú mellékletben meghatározott témakörök szerint csoportosítja a TeIR adatbázisának tartalmát.
+6. §[^15] (1) A TeIR az 1. számú mellékletben meghatározott témakörök szerint csoportosítja a TeIR adatbázisának tartalmát.
 
 (2) Az (1) bekezdés szerinti adatbázis
 
@@ -16,4 +16,4 @@ c) az OSAP adatokból előállított önálló adatbázisokból
 
 (4) A (2) bekezdés b) és c) pontjában meghatározott adatok körét, az adatkezelő szervezeteket, valamint az adatszolgáltatás gyakoriságát és határidejét a 2. számú melléklet határozza meg.
 
-[^14]: A 6. § a 65/2010. (III. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: A 6. § a 65/2010. (III. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
