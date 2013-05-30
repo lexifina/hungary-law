@@ -1,4 +1,4 @@
-32. §[^67] (1) E rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a beruházással kapcsolatos munkálatok vagy tevékenységek megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül legalább egy kritérium teljesül:
+32. §[^68] (1) E rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a beruházással kapcsolatos munkálatok vagy tevékenységek megkezdése előtt a támogatás iránti kérelmét benyújtja. Egyedi támogatás megítélését megelőzően nagyvállalkozások esetében a fentieken kívül a kedvezményezettek kötelesek bizonyítani azt, hogy az alábbiak közül legalább egy kritérium teljesül:
 
 a) a támogatás következtében lényegesen megnövekszik a projekt mérete,
 
@@ -24,4 +24,4 @@ d) személygépkocsi bekerülési értéke;
 
 e) szállítási ágazatban a szállító berendezések (gördülőeszközök) bekerülési értéke.
 
-[^67]: A 32. § a 230/2009. (X. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^68]: A 32. § a 230/2009. (X. 16.) Korm. rendelet 5. §-ával megállapított szöveg.

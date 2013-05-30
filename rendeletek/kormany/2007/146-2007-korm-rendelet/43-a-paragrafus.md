@@ -1,4 +1,4 @@
-43/A. §[^81] (1) A 800/2008. EK bizottsági rendelet alapján nem nyújtható támogatás:
+43/A. §[^83] (1) A 800/2008. EK bizottsági rendelet alapján nem nyújtható támogatás:
 
 a) a 800/2008. EK bizottsági rendelet 1. cikk (2) bekezdésében foglalt tevékenységekre,
 
@@ -24,4 +24,4 @@ h) a 800/2008. EK bizottsági rendelet 1. cikk (6) bekezdésében meghatározott
 
 (2) A 800/2008. EK bizottsági rendelet alapján csak ösztönző hatású támogatás nyújtható.
 
-[^81]: A 43/A. §-t a 230/2009. (X. 16.) Korm. rendelet 9. §-a iktatta be.
+[^83]: A 43/A. §-t a 230/2009. (X. 16.) Korm. rendelet 9. §-a iktatta be.

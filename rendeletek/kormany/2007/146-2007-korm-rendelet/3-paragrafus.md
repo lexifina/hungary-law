@@ -30,7 +30,9 @@ m)[^22] kockázati tőkejuttatás nyújtható a kis- és középvállalkozásokb
 
 n)[^23] kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatás a 800/2008. EK bizottsági rendelet alapján az Atv. 8. §-ának (1) bekezdése a), c) és g) pontjaiban, valamint a (2) bekezdés c) és d) pontjaiban megjelölt jogcímek;
 
-o)[^24] kis- és középvállalkozások vásárokon való részvételéhez nyújtott támogatás a 800/2008. EK bizottsági rendelet alapján az Atv. 8. §-ának (1) bekezdése a)–d), f) és g) pontjaiban, valamint a (2) bekezdés c) és e) pontjaiban megjelölt jogcímek.
+o)[^24] kis- és középvállalkozások vásárokon való részvételéhez nyújtott támogatás a 800/2008. EK bizottsági rendelet alapján az Atv. 8. §-ának (1) bekezdése a)–d), f) és g) pontjaiban, valamint a (2) bekezdés c) és e) pontjaiban megjelölt jogcímek;
+
+p)[^25] innovatív kormányzati egészségügyi informatikai fejlesztések megvalósítása céljából közszolgáltatás ellentételezésére nyújtott támogatás az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21 EU bizottsági határozat (a továbbiakban: az Európai Bizottság 2012/21/EU számú határozata) alapján az Atv. 8. § (1) bekezdés b)-d) pontjaiban, valamint (2) bekezdés a) pontjában megjelölt jogcímek.
 
 [^10]: A 3. § a) pontjának hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba. A 3. § a) pontja a 230/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
 [^11]: A 3. § b) pontjának hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba. A 3. § b) pontja a 230/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
@@ -47,3 +49,4 @@ o)[^24] kis- és középvállalkozások vásárokon való részvételéhez nyúj
 [^22]: A 3. § m) pontjában a 230/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdése alapján a „jogcímeken nyújtható” szövegrész helyébe a „jogcímek” szövegrész lép. [A módosítás nem vezethető át.]
 [^23]: A 3. § n) pontja a 230/2009. (X. 16.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^24]: A 3. § o) pontját a 230/2009. (X. 16.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^25]: A 3. § p) pontját a 169/2013. (V. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.

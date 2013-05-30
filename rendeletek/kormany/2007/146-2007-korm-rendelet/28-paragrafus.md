@@ -1,10 +1,10 @@
-## 27. §[^56]
+## 27. §[^57]
 
-## REGIONÁLIS TÁMOGATÁSOK[^57]
+## REGIONÁLIS TÁMOGATÁSOK[^58]
 
-## A regionális beruházási és foglalkoztatási támogatásokra vonatkozó szabályok[^58]
+## A regionális beruházási és foglalkoztatási támogatásokra vonatkozó szabályok[^59]
 
-28. §[^59] (1) E rendelet alapján regionális beruházási támogatás csak abban az esetben nyújtható, ha a beruházás az alábbi célt szolgálja:
+28. §[^60] (1) E rendelet alapján regionális beruházási támogatás csak abban az esetben nyújtható, ha a beruházás az alábbi célt szolgálja:
 
 a tárgyi eszközbe vagy immateriális javakba történő beruházás, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termelésének további új termékekkel történő diverzifikációjához vagy egy meglévő létesítmény termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
 
@@ -18,7 +18,7 @@ b) közvetlenül a beruházási projekttel létrehozott munkahelyek esetén, a t
 
 c) az a) és a b) módszer együttes alkalmazásával kiszámított érték százalékos formában kifejezve, feltéve, hogy a támogatás nem lépi túl a kétfajta számítás alkalmazásából eredő a támogatott számára kedvezőbb értéket.
 
-(3)[^60] Az egyes (azonos elszámolható költségekkel rendelkező) projektekhez nyújtható, támogatás intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdésében meghatározott mértékeket.
+(3)[^61] Az egyes (azonos elszámolható költségekkel rendelkező) projektekhez nyújtható, támogatás intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdésében meghatározott mértékeket.
 
 (4) Nagyberuházás esetén a támogatási intenzitás a (3) bekezdés alapján meghatározott támogatási intenzitás
 
@@ -34,11 +34,11 @@ a) kisvállalkozásnak minősül, akkor – szállítási ágazat és nagyberuh�
 
 b) középvállalkozásnak minősül, akkor – szállítási ágazat és nagyberuházás kivételével – 10 százalékponttal növelt értéke a (3) bekezdésben meghatározott mértéknek.
 
-(6)[^61] A vállalkozásnak nyújtott támogatásnak minősülő kockázati tőkejuttatás esetén az Atr. 5. § (2) bekezdését kell alkalmazni.
+(6)[^62] A vállalkozásnak nyújtott támogatásnak minősülő kockázati tőkejuttatás esetén az Atr. 5. § (2) bekezdését kell alkalmazni.
 
-[^56]: A 27. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^57]: A 28. §-t megelőző címet a 230/2009. (X. 16.) Korm. rendelet 4. §-a iktatta be.
-[^58]: A 28. §-t megelőző alcím a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^59]: A 28. § a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^60]: A 28. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés h) pontja szerint módosított szöveg.
-[^61]: A 28. § (6) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés i) pontja szerint módosított szöveg.
+[^57]: A 27. §-t a 230/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^58]: A 28. §-t megelőző címet a 230/2009. (X. 16.) Korm. rendelet 4. §-a iktatta be.
+[^59]: A 28. §-t megelőző alcím a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^60]: A 28. § a 230/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^61]: A 28. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés h) pontja szerint módosított szöveg.
+[^62]: A 28. § (6) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés i) pontja szerint módosított szöveg.
