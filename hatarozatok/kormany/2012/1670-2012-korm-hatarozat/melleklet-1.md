@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra: azonnal,
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. április 30.[^1]
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. június 30.[^2]
 
 1. melléklet az 1670/2012. (XII. 21.) Korm. határozathoz
 
@@ -88,4 +88,4 @@ Költségvetési év: 2012.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A határozat az 1174/2013. (IV. 5.) Korm. határozat szerint módosított szöveg.
+[^2]: A határozat az 1294/2013. (V. 30.) Korm. határozat szerint módosított szöveg.
