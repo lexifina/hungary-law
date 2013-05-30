@@ -30,8 +30,11 @@ m) ellátja az INTERREG közösségi kezdeményezés programok irányító ható
 
 n) ellátja az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 85. § b) pontjában meghatározott feladathoz kapcsolódó rendszerek fejlesztési, működtetési és adminisztrációs tevékenységeit,
 
-o)[^3] ellátja a budapesti 4-es – Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítése projekt tekintetében a Magyar Állam projektbeli feladatait.
+o)[^3] ellátja a budapesti 4-es – Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítése projekt tekintetében a Magyar Állam projektbeli feladatait,
+
+p)[^4] ellátja az Új Magyarország Kockázati Tőkeprogramok és az Új Széchenyi Kockázati Tőkeprogramok végrehajtásával összefüggő feladatokat.
 
 [^1]: Az 1. § a 370/2010. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^2]: A 2. § a 370/2010. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^3]: A 2. § o) pontját a 67/2012. (IV. 5.) Korm. rendelet 11. §-a iktatta be.
+[^4]: A 2. § p) pontját a 168/2013. (V. 29.) Korm. rendelet 1. §-a iktatta be.
