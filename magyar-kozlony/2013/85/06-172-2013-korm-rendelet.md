@@ -1,0 +1,202 @@
+# A Kormány 172/2013. (V. 30.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 85. szám, 2013. május 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f3274e5ccf133d4d0d2d9b9398d30b1686a3ea0b/dokumentumok/f3d642f6f21bf84d353ef4232614c53c279214c3/letoltes)
+
+---
+
+A Kormány 172/2013. (V. 30.) Korm. rendelete
+a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódóan
+egyes kormányrendeletek módosításáról
+A Kormány
+a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés d) pontjában,
+a 2. § tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés d) pontjában,
+a 3. § tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bc) alpontjában,
+a 4. § tekintetében a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (1) bekezdés c) pontjában,
+a 5. § tekintetében a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez
+kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 62. § (6) bekezdésében,
+a 6. § tekintetében az Országos Ítélőtábla székhelyének és illetékességi területének megállapításáról, valamint
+az igazságszolgáltatás működését érintő egyes törvények módosításáról szóló 1999. évi CX. törvény 164. § (4) bekezdésében,
+a polgári perrendtartásról szóló 1952. évi III. törvény 395. § (3) bekezdésében és a büntetőeljárásról szóló 1998. évi XIX. törvény
+604. § (1) bekezdés c) pontjában,
+a 7. § tekintetében a minősített adat védelméről szóló 2009. évi CLV. törvény 37. § a) és b) pontjában,
+a 8. § tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés v) pontjában,
+a 9. § tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés h) és m) pontjában,
+a 10. § tekintetében a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés m) pontjában,
+a 11. § tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 12. pontjában,
+a 12. § tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pontja 30. alpontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § (1) A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet
+[a továbbiakban: 149/1997. (IX. 10.) Korm. rendelet] 118. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A gyámhivatal tartás elmulasztása (1978. évi IV. törvény 196. §), illetve tartási kötelezettség elmulasztása
+(Btk. 212. §) miatt feljelentést tesz az ellen, aki a megállapított gondozási díjfizetési kötelezettségét önhibájából
+nem teljesíti.”
+(2) A 149/1997. (IX. 10.) Korm. rendelet
+a) 5/A. § (1) bekezdés k) pontjában a„14 év alatti”szövegrész helyébe a„12, illetve 14 év alatti”,
+b) 33. § (7) bekezdés b) pontjában a„Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.)
+195. §-ának (4) bekezdése szerinti kiskorú veszélyeztetése”szövegrész helyébe a„2013. június 30-ig hatályban
+volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 195. §
+(4) bekezdése szerinti kiskorú veszélyeztetése, illetve a 2012. évi C. törvény (a továbbiakban: Btk.) 210. §
+(1) bekezdése szerinti kiskorúval való kapcsolattartás akadályozása”
+szöveg lép.
+2. §
+A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 191/2002. (IX. 4.) Korm. rendelet
+6. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(Robbanóanyag gyártási, forgalmazási, tárolási, felhasználási, illetve megsemmisítési munkát, valamint e munkák
+irányítását nem végezheti az a természetes személy,)
+„b) akit
+ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban:
+1978. évi IV. törvény) szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), emberiség
+elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), személy elleni bűncselekmények [1978. évi
+IV. törvény XII. fejezet I. cím 166–168. §, 170. § (2)–(5) bekezdés, 171. §, III. cím 174. §, 175. §, 175/A. §, 175/B. §],
+
+közösség tagja elleni erőszak (1978. évi IV. törvény 174/B. §), az egyesülési, a gyülekezési szabadság, valamint
+a választási gyűlésen való részvétel jogának megsértése (1978. évi IV. törvény 174/C. §), nemi erkölcs elleni
+erőszakos bűncselekmények [1978. évi IV. törvény XIV. fejezet II. cím 197–198. §, 207. § (3) bekezdés b) pont],
+embercsempészés (1978. évi IV. törvény 218. §), hivatalos személy elleni bűncselekmények (1978. évi IV. törvény
+XV. fejezet V. cím), közveszélyokozás (1978. évi IV. törvény 259. §), közérdekű üzem működésének megzavarása
+(1978. évi IV. törvény 260. §), terrorcselekmény (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom
+megszegése (1978. évi IV. törvény 261/A. §), légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges
+áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal és
+robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §),
+visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény
+263/B. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), visszaélés nemzetközi szerződés által tiltott
+fegyverrel (1978. évi IV. törvény 264/C. §), közveszéllyel való fenyegetés (1978. évi IV. törvény 270/A. §), garázdaság
+(1978. évi IV. törvény 271. §), önbíráskodás (1978. évi IV. törvény 273. §), visszaélés kábítószer-prekurzorral (1978. évi
+IV. törvény 283/A. §), vagyon elleni szándékos bűncselekmények (1978. évi IV. törvény XVIII. fejezet 316–324. § és
+326–327. §), fegyveresen elkövetett szökés [1978. évi IV. törvény 343. § (2) bekezdés a) pont], fegyverrel elkövetett
+elöljáró vagy szolgálati közeg elleni erőszak [1978. évi IV. törvény 355. § (2) bekezdés a) pont],
+bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni
+bűncselekmények (Btk. XIII. Fejezet), háborús bűncselekmények (Btk. XIV. Fejezet), emberölés (Btk. 160. §), erős
+felindulásban elkövetett emberölés (Btk. 161. §), öngyilkosságban közreműködés (Btk. 162. §), testi sértés [Btk.
+164. § (3)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (Btk. 165. §), kábítószer-prekurzorral
+visszaélés (Btk. 183. §), emberrablás (Btk. 190. §), emberrablás feljelentésének elmulasztása (Btk. 191. §),
+emberkereskedelem (Btk. 192. §), kényszermunka (Btk. 193. §), személyi szabadság megsértése (Btk. 194. §),
+kényszerítés (Btk. 195. §), szexuális erőszak (Btk. 197. §), kerítés [Btk. 200. § (4) bekezdés c) pont], közösség tagja
+elleni erőszak (Btk. 216. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel
+jogának megsértése (Btk. 217. §), radioaktív anyaggal visszaélés (Btk. 250. §), állam elleni bűncselekmények (Btk.
+XXIV. Fejezet), hivatali bűncselekmények (Btk. XXVIII. Fejezet), hivatalos személy elleni bűncselekmények (Btk.
+XXIX. Fejezet), terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §),
+terrorizmus finanszírozása (Btk. 318. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk.
+321. §), közveszély okozása [Btk. 322. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 323. §),
+robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §),
+nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése
+(Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai
+termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §),
+közveszéllyel való fenyegetés (Btk. 338. §), garázdaság (Btk. 339. §), embercsempészés (Btk. 353. §), vagyon elleni
+erőszakos bűncselekmények (Btk. XXXV. Fejezet), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §),
+csalás (Btk. 373. §), gazdasági csalás (Btk. 374. §), információs rendszer felhasználásával elkövetett csalás (Btk.
+375. §), hűtlen kezelés (Btk. 376. §), orgazdaság (Btk. 379. §), jármű önkényes elvétele (Btk. 380. §) vagy szökés és
+elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [Btk. 434. § (2) bekezdés a) pont és
+(3)–(4) bekezdés, 445. § (2) bekezdés a) pont]
+elkövetése miatt elítéltek, illetve vele szemben intézkedést alkalmaztak, a büntetés vagy intézkedés külön
+jogszabályban meghatározott bűnügyi nyilvántartásának időtartamáig, de legalább a jogerős döntés meghozatalát
+követő három évig;”
+3. § (1) A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet [a továbbiakban: 54/2004. (III. 31.) Korm.
+rendelet] 17. §-a helyébe a következő rendelkezés lép:
+„17. § (1) A sportrendezvényen történő részvételből való kizárást a szervező köteles a kizárt személlyel, valamint
+a rendőrséggel írásban közölni. A kizárás az erről szóló szervezői közlés kézbesítésének napjától hatályos.
+(2) A kizárásról szóló írásbeli közlésben ismertetni kell:
+a) a kizárás alapjául szolgáló cselekményt, annak időpontját és helyszínét;
+b) a kizárás időtartamát;
+c) azokat a sportrendezvényeket, illetve sportlétesítményeket, amelyekre kiterjed a kizárás hatálya;
+d) azt, hogy a kizárt személynek a Rendőrségről szóló 1994. évi XXXIV. törvény 91/J. § (1) bekezdés b) pontjában
+meghatározott adatait a rendőrség az kizárás hatályának lejártától számított egy évig nyilvántartja.”
+
+(2) Az 54/2004. (III. 31.) Korm. rendelet 19/A. § (1) bekezdés d) pontjában az „az eltiltással” szövegrész helyébe
+az„a kizárással”szöveg lép.
+4. §
+A felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet 2. melléklet II. pont 22. alpontjában a „vagy
+más gazdasági bűncselekmény” szövegrész helyébe a „vagy más, a Büntető Törvénykönyvről szóló 2012. évi
+C. törvény XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény”szöveg lép.
+5. §
+A Szervezett Bűnözés Elleni Koordinációs Központról szóló 305/2006. (XII. 23.) Korm. rendelet 13. § (2) bekezdés
+a) pontjában a „bűncselekmény a Büntető Törvénykönyvről szóló 1978. évi IV. törvény” szövegrész helyébe
+a„bűncselekménynek a Büntető Törvénykönyvről szóló 2012. évi C. törvény”szöveg lép.
+6. §
+A bírósági ügyintézők által ellátható egyes feladatokról szóló 56/2008. (III. 26.) Korm. rendelet 36. §-a helyébe
+a következő rendelkezés lép:
+„36. § A bírósági ügyintéző jogosult a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai
+által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti
+biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény alapján a bűnügyi nyilvántartási rendszer egyes
+nyilvántartásai részére történő adatközlés szabályairól szóló 20/2009. (VI. 19.) IRM rendeletben meghatározott,
+a bűnügyi nyilvántartás részére történő bírósági adatközléshez szükséges adatlapok kiállítására és aláírására.”
+7. §
+A Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010.
+(III. 26.) Korm. rendelet
+a) 15. § (4) bekezdésében az „a visszaélés szigorúan titkos és titkos minősítésű adattal bűncselekményre
+a büntető törvénykönyvben” szövegrész helyébe az „a Büntető Törvénykönyvről szóló 1978. évi IV. törvény
+szerinti visszaélés szigorúan titkos és titkos minősítésű adattal, illetve a Büntető Törvénykönyvről szóló
+2012. évi C. törvény szerinti minősített adattal visszaélés bűncselekményre”,
+b) 42. § (6) bekezdésében az „a visszaélés szigorúan titkos és titkos minősítésű adattal bűncselekményére
+a büntető törvénykönyvben” szövegrész helyébe az „a Büntető Törvénykönyvről szóló 1978. évi IV. törvény
+szerinti visszaélés szigorúan titkos és titkos minősítésű adattal, illetve a Büntető Törvénykönyvről szóló
+2012. évi C. törvény szerinti minősített adattal visszaélés bűncselekményre”
+szöveg lép.
+8. § (1) A polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól
+és működési rendjéről szóló 169/2010. (V. 11.) Korm. rendelet [a továbbiakban: 169/2010. (V. 11.) Korm. rendelet]
+14/A. § b) és c) pontjában, valamint 15. § c) pontjában a„légijármű”szövegrész helyébe a„jármű”szöveg lép.
+(2) Hatályát veszti a 169/2010. (V. 11.) Korm. rendelet 14. § 1. pontjában a „légijármű, vasúti, vízi, közúti
+tömegközlekedési vagy tömeges áruszállításra alkalmas”szövegrész.
+9. §
+A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai
+ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról
+szóló 293/2010. (XII. 22.) Korm. rendelet 6. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Az NVSZ a következő bűncselekmények esetén folytat felderítést:)
+„a) a védett állomány tagja által elkövetett
+aa) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban:
+1978. évi IV. törvény) szerinti visszaélés személyes adattal (1978. évi IV. törvény 177/A. §), XV. fejezet IV. címe szerinti
+hivatali bűncselekmények, bűnpártolás [1978. évi IV. törvény 244. § (3) bekezdés b) pont], vesztegetés (1978. évi
+IV. törvény 250–255. §), közokirat-hamisítás (1978. évi IV. törvény 275. §), zsarolás [1978. évi IV. törvény 323. §
+(2) bekezdés c) pont],
+ab) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti személyes adattal visszaélés
+(Btk. 219. §), bűnpártolás [Btk. 282. § (3) bekezdés d) pont], XXVIII. Fejezete szerinti hivatali bűncselekmények,
+vesztegetés (Btk. 290. §), vesztegetés elfogadása (Btk. 291. §), hivatali vesztegetés (Btk. 293. §), hivatali vesztegetés
+elfogadása (Btk. 294. §), vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), vesztegetés elfogadása bírósági
+vagy hatósági eljárásban (Btk. 296. §), közokirat-hamisítás (Btk. 343. §), zsarolás [Btk. 367. § (2) bekezdés c) és
+d) pont],
+
+ac) szolgálati helyen vagy hivatali tevékenységgel összefüggésben elkövetett, az eddigiekben fel nem sorolt
+bűncselekmények, ha e bűncselekmények felderítése nem tartozik más szerv hatáskörébe,
+ad) katonai bűncselekmények (az 1978. évi IV. törvény XX. fejezet, illetve Btk. XLV. Fejezet), kivéve a szökést
+(1978. évi IV. törvény 343. §, illetve Btk. 434. §), a zendülést (1978. évi IV. törvény 352. §, illetve Btk. 442. §) és
+a harckészültség veszélyeztetését (1978. évi IV. törvény 363. §), illetve a készenlét fokozásának veszélyeztetését
+(Btk. 454. §);”
+10. §
+A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és
+a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 89. §
+(2) bekezdés j) pontja helyébe a következő rendelkezés lép:
+(A szabálytalanság-eljárási jegyzőkönyvnek tartalmaznia kell)
+„j) a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 2011. december 31-ig hatályban volt 314. §-a szerinti,
+az Európai Közösségek pénzügyi érdekeinek megsértése vagy 2013. június 30-ig hatályban volt 310. §-a szerinti
+költségvetési csalás, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény 396. §-a szerinti költségvetési csalás
+bűncselekményének gyanúja esetén az erre való utalást,”
+11. §
+A minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági
+intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet
+a) 35. § (2) bekezdésében a „Büntető Törvénykönyv (a továbbiakban: Btk.) szerinti terrorcselekmény, valamint
+légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba
+kerítése” szövegrész helyébe a „2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi
+IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti terrorcselekmény, valamint légijármű, vasúti, vízi,
+közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, illetve a Büntető
+Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti terrorcselekmény, terrorcselekmény
+feljelentésének elmulasztása, terrorizmus finanszírozása, valamint jármű hatalomba kerítése”,
+b) 35. § (4) bekezdésében az „a Btk. XV. fejezet III. címében meghatározott bűncselekmények” szövegrész
+helyébe az „az 1978. évi IV. törvény XV. fejezet III. címében meghatározott bűncselekmények, illetve a Btk.
+265. §-ában meghatározott minősített adattal visszaélés”
+szöveg lép.
+12. §
+A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló
+326/2011. (XII. 28.) Korm. rendelet 32. § a) pontja helyébe a következő rendelkezés lép:
+[Az ellenőrzésre jogosult szerv (a továbbiakban: ellenőrző hatóság) nevében eljáró személy (a továbbiakban: ellenőrző
+hatósági személy) az eljárása során a vezetői engedélyt a helyszínen elveszi, ha]
+„a) a járművezető azzal gyanúsítható, hogy közúti veszélyeztetés [a Büntető Törvénykönyvről szóló 2012. évi
+C. törvény (a továbbiakban: Btk.) 234. §], közúti baleset során maradandó fogyatékosságot, halált, kettőnél több
+ember halálát vagy halálos tömegszerencsétlenséget okozó közúti baleset okozása [Btk. 235. § (2) bekezdés],
+járművezetés ittas állapotban (Btk. 236. §), illetve járművezetés bódult állapotban (Btk. 237. §) bűncselekményt
+követett el,”
+13. §
+Ez a rendelet 2013. július 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
