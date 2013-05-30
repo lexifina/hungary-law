@@ -1,4 +1,4 @@
-## 31. §[^7] A megyei, fővárosi védelmi bizottság egyedi határozatban meghatározza
+## 31. §[^8] A megyei, fővárosi védelmi bizottság egyedi határozatban meghatározza
 
 a) a honvédelemben közreműködők kiértesítésének, riasztásának, készenléte fokozásának, valamint az információk továbbításának követelményeit,
 
@@ -10,4 +10,4 @@ d) az igénybevételre kijelölt technikai eszközök és ingóságok mozgásán
 
 e) a polgári veszélyhelyzeti tervezés területi szintű feladatai koordinálásának szabályait.
 
-[^7]: A 31. § a 174/2012. (VII. 26.) Korm. rendelet 87. § (6) bekezdésével megállapított szöveg.
+[^8]: A 31. § a 174/2012. (VII. 26.) Korm. rendelet 87. § (6) bekezdésével megállapított szöveg.

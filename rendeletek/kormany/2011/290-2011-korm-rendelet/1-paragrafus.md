@@ -12,7 +12,7 @@ c) igénybevétel: az igénybevevő által a honvédelmi érdek kielégítése c
 
 d) infokommunikációs rendszer: a K–600/KTIR Hírközlési és Informatikai Rendszer, amely a Honvédelmi Tanács és a Kormány speciális működési feltételeit, valamint a védelmi igazgatási szervei által folytatott döntés-előkészítés és döntéshozatal informatikai támogatását biztosító hírközlési és informatikai rendszer,
 
-e) központi elektronikus szolgáltató rendszer: elektronikus közszolgáltatás, amely magába foglalja az elektronikus kormányzati gerinchálózatot, a kormányzati portált, a kormányzati ügyfél-tájékoztató központot, az ott megjelenő szolgáltatásokat és ügyintézési lehetőségeket, valamint azok fenntartóit és üzemeltetőit; biztosítja az ügyfelek, a hivatalok, a szervezetek számára az elektronikus ügyfélkapu, a hivatali kapu, és a cégkapu létesítésének lehetőségét,
+e)[^1] központi elektronikus szolgáltató rendszer: elektronikus közszolgáltatás, amely magába foglalja a nemzeti távközlési gerinchálózatot, a kormányzati portált, a kormányzati ügyfél-tájékoztató központot, az ott megjelenő szolgáltatásokat és ügyintézési lehetőségeket, valamint azok fenntartóit és üzemeltetőit; biztosítja az ügyfelek, a hivatalok, a szervezetek számára az elektronikus ügyfélkapu, a hivatali kapu, és a cégkapu létesítésének lehetőségét,
 
 f) meghagyásba bevont szerv: a honvédelmi feladatok ellátásában közreműködő, az 1. mellékletben meghatározott, továbbá a megyei, fővárosi védelmi bizottság által egyedileg, határozattal kijelölt szerv,
 
@@ -31,3 +31,5 @@ l) szolgáltatásra kötelezett: az a természetes személy, jogi személy vagy 
 m) üzemi szolgáltatás: közszükségletet kielégítő alapvető szolgáltatásokat folyamatosan biztosító közüzem szolgáltatása,
 
 n) védelmi igazgatás: a közigazgatás részét képező feladat- és szervezeti rendszer, amely az állam védelmi feladatainak megvalósítására létrehozott, valamint e feladatra kijelölt közigazgatási szervek által végzett végrehajtó, rendelkező tevékenység; magában foglalja a különleges jogrendre történő felkészülést, továbbá az említett időszakok és helyzetek honvédelmi, polgári védelmi, katasztrófavédelmi, védelemgazdasági, lakosság-ellátási feladatainak tervezésére, szervezésére, a feladatok végrehajtására irányuló állami tevékenységek összességét.
+
+[^1]: Az 1. § e) pontja a 169/2013. (V. 29.) Korm. rendelet 36. §-a szerint módosított szöveg.
