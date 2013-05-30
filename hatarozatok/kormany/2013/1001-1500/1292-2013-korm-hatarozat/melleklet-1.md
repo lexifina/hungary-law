@@ -30,6 +30,8 @@
 
 ## Határidő: 2013. december 31.
 
-## 5. visszavonja a civil szervezetek költségvetési támogatásainak áttekintéséről szóló 1518/2011. (XII. 30.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet az 1292/2013. (V. 29.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
