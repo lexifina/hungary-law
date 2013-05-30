@@ -1,0 +1,5 @@
+## 26. § Az R1. 21. §-a helyébe a következő rendelkezés lép:
+
+## „21. § (1) A nemzeti távközlési gerinchálózat (a továbbiakban: NTG) biztosítja az e rendelet alapján kormányzati célú hírközlési szolgáltatás igénybe vételére kötelezett és jogosult felhasználók számára – a más kormányzati célú hálózat által ki nem elégített – elektronikus hírközlési szolgáltatásokat.
+
+## (2) A 4. § (2) bekezdése alapján az NTG-n nyújtott kormányzati célú hírközlési szolgáltatások esetében a CE eszközök és a feletti rendszerek üzemeltetője a kormányzati célú hírközlési szolgáltató vagy az általa kijelölt felhasználó, természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet. A CE eszköz alatti rendszerek üzemeltetője a felhasználó vagy az általa kijelölt természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet. A CE eszközök üzemeltetőjét felek a felhasználói szerződésben rögzítik. A CE eszközök üzemeltetője köteles betekintési jogot biztosítani a VPN gazda számára.”

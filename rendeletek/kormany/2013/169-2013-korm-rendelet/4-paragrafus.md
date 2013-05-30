@@ -1,0 +1,5 @@
+## „d) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.) hatálya alá tartozó támogatást tartalmaz.”
+
+## 4. A döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló 2007. évi
+
+## CI. törvény végrehajtásáról szóló 335/2007. (XII. 13.) Korm. rendelet módosítása
