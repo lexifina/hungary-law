@@ -4,7 +4,7 @@
 
 ## A beutazás, valamint a három hónapot meg nem haladó tartózkodás joga
 
-3. § (1) Az EGT-állampolgár érvényes úti okmánnyal vagy személyazonosító igazolvánnyal jogosult beutazni Magyarország területére.
+3. § (1) Az EGT-állampolgár érvényes úti okmánnyal vagy személyazonosító igazolvánnyal, továbbá nemzetközi szerződés által meghatározott körben lejárt érvényességű úti okmánnyal, lejárt érvényességű személyazonosító igazolvánnyal vagy beutazás céljából elismert egyéb okmánnyal jogosult beutazni Magyarország területére.
 
 (2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy Magyarország területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal jogosult beutazni Magyarország területére.
 
