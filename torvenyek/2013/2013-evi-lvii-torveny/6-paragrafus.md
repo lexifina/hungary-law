@@ -7,11 +7,3 @@ b) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó 
 c) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról, valamint a külföldi állampolgárságú munkavállalókra vonatkozó statisztikák összeállításáról szóló 311/76/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. július 11-i 862/2007/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
