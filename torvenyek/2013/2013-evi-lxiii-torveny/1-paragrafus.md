@@ -1,0 +1,1 @@
+1. § Az Országgyűlés felhatalmazást ad az Európa Tanács tagállamai között a személyek szabad mozgásának szabályairól szóló, 1957. december 13-án, Párizsban aláírt Európai Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
