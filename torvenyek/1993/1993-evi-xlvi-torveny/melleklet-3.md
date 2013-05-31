@@ -1,39 +1,33 @@
-3. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+3. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A házassági lap adattartalma
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-A házasságkötés
+2. A házasságkötés helye, időpontja
 
-helye
+3. A férj és a feleség adatai:
 
-időpontja
+3.1. házassági családi és utóneve
 
-A férj és a feleség adatai:
+3.2. születési családi és utóneve
 
-Házasságkötés előtti családi és utónév
+3.3. születésének helye, időpontja
 
-A születés időpontja
+3.4. családi állapota a házasságkötés előtt
 
-Családi állapot a házasságkötés előtt
+3.5. lakcíme
 
-Lakcím
+3.6. állampolgársága
 
-Hányadik házasság a jelenlegi
+3.7. hányadik házassága a jelenlegi
 
-Az előző házasság megszűnésének időpontja
+3.8. az előző házasság megszűnésének időpontja
 
-Élve született és életben lévő gyermekek száma
+3.9. élve született és életben lévő gyermekek száma
 
-Iskolai végzettség
+3.10. iskolai végzettsége
 
-Gazdasági aktivitás a házasságkötéskor
+3.11. gazdasági aktivitása
 
-Foglalkozás, munkakör a házasságkötéskor
-
-Foglalkozási viszony
-
-Állománycsoport, beosztás
-
-A munkáltató megnevezése
+3.12. foglalkozása, munkaköre, foglalkozási viszonya

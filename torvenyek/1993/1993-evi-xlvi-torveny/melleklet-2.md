@@ -1,61 +1,53 @@
-2. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+2. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A halálesettel összefüggő adatfelvételi lapok adattartalma
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-A haláleset
+2. A haláleset helye, időpontja
 
-helye:
+3. Az elhalt:
 
-időpontja:
+3.1. neme
 
-Az elhalt
+3.2. családi állapota
 
-neme:
+3.3. neve
 
-családi állapota:
+3.4. születésének helye, időpontja
 
-neve:
+3.5. lakcíme
 
-születési ideje:
+3.6. állampolgársága
 
-társadalombiztosítási azonosító jele:
+3.7. iskolai végzettsége
 
-lakcíme:
+3.8. halála előtti gazdasági aktivitása
 
-iskolai végzettsége:
+3.9. foglalkozása, munkaköre, foglalkozási viszonya
 
-halála előtti gazdasági aktivitása:
+3.10. utolsó házasságkötésének ideje
 
-foglalkozása, munkaköre:
+4. Életben lévő házastárs:
 
-foglalkozási viszonya:
+4.1. születésének helye, időpontja
 
-állománycsoportja, beosztása:
+4.2. lakcíme
 
-a munkáltatójának, munkahelyének megnevezése:
+4.3. állampolgársága
 
-utolsó házasságkötésének ideje:
+5. Az elhalt nőnek, illetőleg az elhalt férfi életben lévő házastársának hány gyermeke született élete folyamán és az utolsó házasságából, ebből élve született, életben van
 
-Életben lévő házastárs születési ideje:
+6. A haláleset közelebbi helye
 
-Az elhalt nőnek, illetőleg az elhalt férfi életben lévő házastársának hány gyermeke született élete folyamán és az utolsó házasságából, ebből élve született, életben van:
+7. Csecsemőhalálozás esetén még:
 
-A haláleset közelebbi helye:
+7.1. az élveszületés helye
 
-A halál okának megállapítója és arra vonatkozó adatok, hogy a halott részesült-e orvosi kezelésben vagy sem:
+7.2. többes szülés esetén hányas szülés, hányadik szülött
 
-A halálhoz vezető betegség(ek), állapot(ok) és azok időtartama:
+7.3. az anya családi állapota
 
-Erőszakos halálesetnél annak helye, módja, oka, körülményei és időpontja:
+7.4. az anya házasságkötésének időpontja
 
-Csecsemőhalálozás esetén még:
-
-az élveszülés helye:
-
-többes szülés esetén hányas szülés, hányadik szülött:
-
-az anya családi állapota:
-
-mikor kötött házasságot:
+8. A halottvizsgálati bizonyítvány és annak módosításáról szóló értesítő adatai, a perinatális halottvizsgálati bizonyítvány, perinatális halálozási (kórszövettani) értesítő adatai

@@ -1,59 +1,53 @@
-4. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+4. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
-A válási lap adattartalma
+A házasság felbontásáról, valamint érvénytelenné nyilvánításáról szóló lap adattartalma
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-A házasságkötés
+2. A házasságkötés helye, időpontja
 
-helye
+3. A házasságot jogerősen felbontó bíróság megnevezése
 
-ideje
+4. A jogerős ítélet ügyszáma
 
-A házasságot jogerősen felbontó bíróság megnevezése
+5. Az ítélet jogerőre emelkedésének ideje
 
-A jogerős ítélet ügyszáma
+6. A férj és a feleség adatai:
 
-Az ítélet jogerőre emelkedésének ideje
+6.1. családi és utóneve
 
-A férj és a feleség adatai:
+6.2. a házasságkötés előtti családi állapota
 
-Családi és utónév
+6.3. születésének helye, időpontja
 
-A házasságkötés előtti családi állapot
+6.4. lakcíme
 
-A születés időpontja
+6.5. állampolgársága
 
-Lakcím a kereset beadásakor
+6.6. a jelenlegi válás hányadik válás
 
-A jelenlegi válás hányadik válás
+6.7. az összes élveszületett és életben lévő gyermek száma
 
-Az összes élveszületett és életben lévő gyermek száma
+6.8. iskolai végzettsége
 
-A felek közös, életben lévő gyermekeinek száma, életkora
+6.9. gazdasági aktivitása
 
-A perben a gyermek elhelyezéséről döntöttek-e, hol helyezték el
+6.10. foglalkozása, munkaköre, foglalkozási viszonya
 
-A bíróság tartási kötelezettséget megállapított-e, kinek a javára
+7. A felek közös, életben lévő gyermekeinek száma, életkora
 
-Iskolai végzettség
+8. A perben a gyermek elhelyezéséről döntöttek-e, hol helyezték el
 
-Gazdasági aktivitás a kereset beadásakor
+9. A bíróság tartási kötelezettséget megállapított-e, kinek a javára
 
-Foglalkozás, munkakör a kereset beadásakor
+10. A házasság felbontására közös megegyezéssel vagy egyéb módon került-e sor, a keresetet elutasította-e a bíróság, illetőleg érvénytelenítette-e a házasságot.
 
-Foglalkozási viszony
+11. A keresetet indító fél
 
-Állománycsoport, beosztás
+12. A kereset beadásának ideje
 
-A munkáltató, munkahely megnevezése
+13. A kötelék kérdésében hozott jogerős ítélet kelte
 
-A házasság felbontására közös megegyezéssel vagy egyéb módon került-e sor, a keresetet elutasította-e a bíróság, illetőleg érvénytelenítette-e a házasságot. A keresetet indító fél
+14. A bíróság a közös lakás használatával kapcsolatos igényről döntött-e, ha igen, akkor kinek a javára
 
-A kereset beadásának ideje
-
-A kötelék kérdésében hozott jogerős ítélet kelte
-
-A bíróság a közös lakás használatával kapcsolatos igényről döntött-e, ha igen, akkor kinek a javára
-
-A házassági perben házassági vagyonjogi igényt érvényesítettek-e
+15. A házassági perben házassági vagyonjogi igényt érvényesítettek-e

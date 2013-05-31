@@ -1,55 +1,55 @@
-1. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+1. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 Az élveszületési lap adattartalma
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-A gyermek születésének
+2. A gyermek:
 
-helye
+2.1. neve
 
-ideje
+2.2. születésének helye, időpontja
 
-neme
+2.3. neme
 
-Az anya családi állapota
+2.4. állampolgársága
 
-A szülők
+3. Az anya:
 
-házasságkötésének időpontja
+3.1. neve
 
-születésének időpontja
+3.2. családi állapota
 
-lakcíme
+4. A szülők:
 
-iskolai végzettsége
+4.1. házasságkötésének időpontja
 
-gazdasági aktivitása
+4.2. születésének helye, időpontja
 
-foglalkozása, munkaköre
+4.3. lakcíme
 
-foglalkozási viszonya
+4.4. állampolgársága
 
-állománycsoportja, beosztása
+4.5. iskolai végzettsége
 
-munkáltatójának, munkahelyének megnevezése
+4.6. gazdasági aktivitása
 
-Többes szülés esetén a többes szülés száma és a születés sorszáma
+4.7. foglalkozása, munkaköre, foglalkozási viszonya
 
-A gyermek hányadik terhességből származik
+5. Többes szülés esetén a többes szülés száma és a születés sorszáma
 
-Az anyának hány gyermeke született élve élete folyamán és a jelenlegi házasságából
+6. A gyermek hányadik terhességből származik
 
-Az anya életben lévő gyermekeinek száma, ebből a jelenlegi házasságából születettek száma
+7. Az anyának hány gyermeke született élve élete folyamán és a jelenlegi házasságából
 
-Az anya jelenlegi terhességét megelőző élveszülésének késői magzati halálozásának ideje
+8. Az anya életben lévő gyermekeinek száma, ebből a jelenlegi házasságából születettek száma
 
-Egyéb szülészeti események száma (magzati halálozások, terhességmegszakítás, méhen kívüli terhesség)
+9. A jelenlegi terhességet megelőző élveszülés, késői magzati halálozás ideje
 
-Hol történt a szülés, a szülésnél ki segédkezett
+10. Magzati halálozások, terhességmegszakítások, méhen kívüli terhességek száma
 
-A terhesség időtartama
+11. Hol történt a szülés, a szülésnél ki segédkezett
 
-A gyermek súlya, hossza és 5 perces Apgár-értéke
+12. A terhesség időtartama
 
-fejlődési rendellenessége
+13. A gyermek súlya, hossza és 5 perces Apgár-értéke, fejlődési rendellenessége
