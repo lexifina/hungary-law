@@ -1,3 +1,0 @@
-## 25. § Az R1. 4. Az EDR-re vonatkozó különös szabályok alcíme a következő 20/A. §-sal egészül ki:
-
-## „20/A. § Az EDR-rel kapcsolatos kérdések felhasználók közötti koordinálását a miniszter tanácsadó szervezeteként működő EDR Felhasználói Fórum (a továbbiakban: Fórum) látja el. A Fórum tagjai a kormányzati célú hírközlési szolgáltató, a VPN gazda szervezetek, a felhasználók és a felhasználók felügyeletét ellátó miniszterek által kijelölt képviselők, vezetőjét a miniszter bízza meg. A Fórum szükség szerint, de legalább évente négy ülést tart. Az ülést a napirend megküldésével a Fórum vezetője hívja össze. A Fórum ügyrend alapján működik, melyet a miniszter hagy jóvá.”

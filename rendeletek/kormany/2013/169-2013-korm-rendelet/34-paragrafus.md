@@ -1,7 +1,5 @@
+## 7–33. §[^8]
+
 ## 8. A Közbeszerzési és Ellátási Főigazgatóságról szóló 53/2011. (III. 31.) Korm. rendelet módosítása
 
-## 34. § A Közbeszerzési és Ellátási Főigazgatóságról szóló 53/2011. (III. 31.) Korm. rendelet
-
-a) 4. § (9) bekezdésében a „Nemzeti Infokommunikációs Szolgáltató Zrt.” szövegrész helyébe a „NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.” szöveg,
-
-b) 4. § (10) bekezdésében a „Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.” szöveg
+[^8]: A 7–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
