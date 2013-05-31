@@ -20,7 +20,7 @@ b) egy vagy több nem állami, nem önkormányzati fenntartó és az általa fen
 
 (8) A (3) bekezdés a) pontja szerinti azonos térségi integrált szakképző központ tagja lehet egy vagy több állami fenntartó és egy vagy több állami fenntartónak az 5. § (1)–(4) bekezdése szerint, a fővárosban és Pest megyében működő legalább kettő szakképző iskolája.
 
-(9) Az 5. § (1)–(3) bekezdése szerinti feltételek teljesítéséhez szükséges döntést a szakképző iskola fenntartója 2013. május 31-ig hozza meg azzal, hogy a döntés alapján a szakképző iskola legkésőbb 2013. szeptember 1-jétől kizárólag az 5. § (1)–(3) bekezdése szerint működhet.
+(9) Az 5. § (1)–(3) bekezdése szerinti feltételek teljesítéséhez szükséges döntést a szakképző iskola fenntartója 2014. május 31-ig hozza meg azzal, hogy a döntés alapján a szakképző iskola legkésőbb 2014. szeptember 1-jétől kizárólag az 5. § (1)–(3) bekezdése szerint működhet.
 
 (10) Az e törvény hatálybalépése előtti napot megelőzően az Szt. 2. § (5)–(6) bekezdése szerint megalakult térségi integrált szakképző központ 2013. augusztus 31-ig az Szt. e törvény hatálybalépése előtti napon hatályos 2. § (5)–(6) bekezdése és a Kt. e törvény hatálybalépése napján hatályos 89/B. §-a szerint működhet tovább, de 2013. szeptember 1-jét követően csak abban az esetben minősül térségi integrált szakképző központnak,
 
@@ -30,11 +30,15 @@ b) ha a térségi integrált szakképző központ létrehozására vagy továbbf
 
 ba) az 5. § (7) bekezdésében meghatározott vagy
 
-bb) a (3)–(5) bekezdésben meghatározott feltételeket teljesíti.
+bb) a (3)–(5) bekezdésben meghatározott feltételeket teljesíti vagy
+
+bc) 2014. augusztus 31-ig egy vagy több állami fenntartónak az azonos megyében vagy a fővárosban működő összesen legalább kettő szakképző iskolája.
+
+(10a) 2014. augusztus 31-ig e §-nak a (3) bekezdés szerint működő térségi integrált szakképző központra vonatkozó rendelkezéseit a (10) bekezdés bc) pontja szerinti térségi integrált szakképző központra is alkalmazni kell.
 
 (11) Amennyiben a kedvezményezett az e törvény hatálybalépése előtti napot megelőzően az Szt. 2. § (5)–(6) bekezdése szerint megalakult térségi integrált szakképző központ létrehozására vagy továbbfejlesztésére szolgáló olyan uniós támogatásban részesült, amelyben a térségi integrált szakképző központ fenntartási kötelezettségének előírására került sor, azonban az uniós támogatás visszafizetési kötelezettsége nélkül nem teljesíthetőek az 5. § (1)–(4) bekezdésében előírt feltételek, úgy az állami fenntartó 2017. június 30-ig azon szakképző iskolája tekintetében mentesül az 5. § (1)–(4) bekezdésében és az 5. § (8) bekezdésében előírt feltételek teljesítésének kötelezettsége alól, amely vonatkozásában az 5. § (1)–(4) bekezdésében előírt feltételek teljesítése visszafizetési kötelezettséget eredményezne.
 
-(12) A (11) bekezdésben meghatározott esetben a szakképző iskola állami fenntartója 2013. május 31-ig vagy legkésőbb a térségi integrált szakképző központ létrehozására vagy továbbfejlesztésére szolgáló uniós támogatással érintett projekt lezárását követő három hónapon belül megvizsgálja az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének lehetőségét, és kezdeményezi az érintett uniós támogatásban illetékes irányító hatóságnál a támogatási szerződés módosítását. A szakképző iskola állami fenntartója az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének kötelezettsége alól részben vagy egészben az irányító hatóság megállapítása alapján mentesülhet, köteles azonban az 5. § (1)–(4) bekezdésében előírt feltételeket az irányító hatóság mentesítő határozatában nem érintett szakképző iskolái tekintetében teljesíteni.
+(12) A (11) bekezdésben meghatározott esetben a szakképző iskola állami fenntartója 2014. május 31-ig vagy legkésőbb a térségi integrált szakképző központ létrehozására vagy továbbfejlesztésére szolgáló uniós támogatással érintett projekt lezárását követő három hónapon belül megvizsgálja az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének lehetőségét, és kezdeményezi az érintett uniós támogatásban illetékes irányító hatóságnál a támogatási szerződés módosítását. A szakképző iskola állami fenntartója az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének kötelezettsége alól részben vagy egészben az irányító hatóság megállapítása alapján mentesülhet, köteles azonban az 5. § (1)–(4) bekezdésében előírt feltételeket az irányító hatóság mentesítő határozatában nem érintett szakképző iskolái tekintetében teljesíteni.
 
 (13) A (11) bekezdésben meghatározott esetben a (3) bekezdés b) pontja szerinti térségi integrált szakképző központ tagja lehet az állami intézményfenntartó és szakképző iskolája. A szakképző iskola állami fenntartója több térségi integrált szakképző központ tagja is lehet.
 
