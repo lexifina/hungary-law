@@ -1,4 +1,4 @@
-## 20. §[^41] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 18/2013. (III. 21.) VM rendelettel [a továbbiakban: 18/2013. (III. 21.) VM rendelet] megállapított 3. § (2) bekezdését a 18/2013. (III. 21.) VM rendelet hatálybalépésekor[^42] folyamatban lévő ügyekben is alkalmazni kell.
+## 21. §[^45] E rendeletnek a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló 44/2013. (V. 30.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 14. § (4a) bekezdését a módosító rendelet hatályba lépésekor[^46] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 22/2012. (III. 9.) VM rendelethez
 
@@ -1028,5 +1028,5 @@ A nemzeti programban a szakmai továbbképzési kötelezettség teljesítésére
 
 | 508. | zöldfelület-gazdálkodó szakmérnök |
 
-[^41]: A 20. §-t a 18/2013. (III. 21.) VM rendelet 10. § (2) bekezdése iktatta be.
-[^42]: A hatálybalépés napja: 2013. március 22.
+[^45]: A 21. §-t a 44/2013. (V. 30.) VM rendelet 9. § (3) bekezdése iktatta be.
+[^46]: A hatálybalépés időpontja 2013. május 31.
