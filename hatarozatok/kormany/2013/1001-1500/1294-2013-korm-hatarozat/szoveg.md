@@ -1,1 +1,0 @@
-A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításáról szóló 1670/2012. (XII. 21.) Korm. határozatban a „2013. április 30.” szövegrész helyébe a „2013. június 30.” szöveg lép.
