@@ -6059,3 +6059,5 @@ szakmai és vizsgakövetelménye
 2.6. Elméleti képzési idő aránya: 50%
 
 2.7. Gyakorlati képzési idő aránya: 50%
+
+2.8. Szintvizsga: -
