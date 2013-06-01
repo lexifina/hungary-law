@@ -1,0 +1,3 @@
+12. § Az Nftv. 48/K. §-a helyébe a következő rendelkezés lép:
+
+„48/K. § Az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a teljesítési kötelezettségek alóli felmentések megállapításával kapcsolatos feladatokat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alkalmazásával első fokon a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv, másodfokon az oktatásért felelős miniszter látja el.”
