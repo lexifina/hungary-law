@@ -14,6 +14,14 @@ c) a kölcsön fedezete a Magyarország területén lévő lakóingatlanon alap�
 
 3. fizetéskönnyítő program: devizakölcsön alapján fennálló fizetési kötelezettség átmeneti csökkentése érdekében a pénzügyi intézmény és a hiteladós között létrejött olyan – nem e törvény hatálya alá tartozó és futamidő módosításnak nem minősülő – megállapodás, amelynek eredményeként a hiteladóst a hátralévő futamidő meghatározott időtartamára a megállapodás megkötése előtt fennálló havi törlesztési kötelezettségénél kisebb havi törlesztési kötelezettség terheli;
 
+3a. gyermek: a hiteladóssal közös háztartásban élő, általa eltartott vér szerinti, örökbe fogadott vagy gyámsága alatt álló és legalább egy éve vele együtt élő gyermek, ha
+
+a) a 16. életévét még nem töltötte be,
+
+b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be, vagy
+
+c) a 16. életévét már betöltött olyan megváltozott munkaképességű személy, akinek ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
+
 4. gyűjtőszámlahitel: gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a devizakölcsön törlesztése során a rögzített árfolyam alkalmazása miatt, de legfeljebb a legmagasabb árfolyamig felmerülő és a hiteladós által meg nem fizetett törlesztőrészlet-hányad finanszírozására, a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézmény által a hiteladósnak forintban, a devizakölcsön – ide nem értve a pénzügyi lízingszerződést – ingatlanfedezetével azonos ingatlanra érvényesíthető jelzálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség fedezete mellett a rögzített árfolyam alkalmazásának időszaka alatt folyósított kölcsön;
 
 5. hiteladós: az a természetes személy, aki pénzügyi intézménnyel devizakölcsönre vonatkozóan kölcsönszerződést vagy pénzügyi lízingszerződést kötött és e szerződésből eredően tartozása áll fenn;
@@ -80,7 +88,7 @@ d) a hontalan, ha a Tv.-ben foglaltak alapján ilyen jogállásúnak ismerték e
 
 a) kezdő időpontja a felek által kötött, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés alapján a hiteladós által tett, közjegyzői okiratba foglalt tartozáselismerő nyilatkozat pénzügyi intézmény részére történő átadás időpontját – ha nem kerül sor közjegyzői okiratba foglalására, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés megkötését – követő, a devizakölcsön törlesztésére vonatkozó soron következő második törlesztési esedékességi nap,
 
-b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, de legkésőbb 2017. június 30. napját megelőző utolsó törlesztés esedékességi napja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
+b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
 
 (3) Amennyiben a hitelező a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
 
