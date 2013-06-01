@@ -116,6 +116,22 @@
 
 ## Biztosítani kell, hogy ne történjék illegális lerakás a hulladéklerakó területén.
 
-2. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^38]
+## 8. A fémhigany ideiglenes tárolása
 
-[^38]: A 2. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján rendelkezéseit alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+## A fémhigany egy évnél hosszabb ideig történő ideiglenes tárolására a következő követelmények vonatkoznak:
+
+## a) A fémhiganyt más hulladékoktól elkülönítve kell tárolni.
+
+## b) A tartályokat olyan, a tárolni kívánt higanymennyiség befogadásához elegendő térfogatú gyűjtőmedencékben kell tárolni, amelyek repedés- és hézagmentességet biztosító, a fémhiganyt át nem eresztő, megfelelő bevonattal vannak ellátva.
+
+## c) A tárolóhelyet a higanykibocsátással szemben a környezetet megfelelő módon védő mesterséges vagy természetes gátakkal kell ellátni, és a tárolóhelyen a tárolni kívánt teljes higanymennyiség befogadásához elegendő tárolótérfogatot kell biztosítani.
+
+## d) A tárolóhely padlózatát a higannyal szemben ellenálló és a higanyt át nem eresztő anyaggal kell burkolni. A padlózatot lejtéssel kell kialakítani és gyűjtőaknával kell ellátni.
+
+## e) A tárolóhelyet el kell látni tűzvédelmi rendszerrel.
+
+## f) A tárolást úgy kell megszervezni, hogy minden tartály könnyen kivehető legyen.
+
+2. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^60]
+
+[^60]: A 2. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés b) pontja és (10) bekezdés g) pontja szerint módosított szöveg.

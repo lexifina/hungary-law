@@ -10,9 +10,9 @@ bb) vegyes összetételű (jelentős szerves és szervetlen anyagtartalommal egy
 
 c) veszélyes hulladék lerakására szolgáló hulladéklerakó (C kategória).
 
-(2)[^10] A hulladéklerakó (1) bekezdés szerinti kategóriáját, nem veszélyes hulladék lerakására szolgáló hulladéklerakó esetén alkategóriáját a Felügyelőség a hulladéklerakó létesítésének engedélyezésekor állapítja meg.
+(2)[^18] A hulladéklerakó (1) bekezdés szerinti kategóriáját, nem veszélyes hulladék lerakására szolgáló hulladéklerakó esetén alkategóriáját a Felügyelőség a hulladéklerakó létesítésének engedélyezésekor állapítja meg.
 
-(3) A hulladéklerakóban – a külön jogszabály[^11] figyelembevételével – a következő csoportokba tartozó hulladékok lerakása végezhető, ha a hulladék eleget tesz az e rendelet 2. számú melléklet 2. pontjában felsorolt, az adott hulladéklerakó-kategóriára megállapított átvételi követelményeknek:
+(3) A hulladéklerakóban – a külön jogszabály[^19] figyelembevételével – a következő csoportokba tartozó hulladékok lerakása végezhető, ha a hulladék eleget tesz az e rendelet 2. számú melléklet 2. pontjában felsorolt, az adott hulladéklerakó-kategóriára megállapított átvételi követelményeknek:
 
 a) A kategóriájú hulladéklerakóban kizárólag inert hulladék,
 
@@ -24,7 +24,7 @@ bb) előkezelt, stabil, nem reakcióképes és nem veszélyes hulladékként kez
 
 B3 alkategóriájú hulladéklerakóban
 
-bc) vegyesen gyűjtött települési szilárd hulladék,
+bc)[^20] vegyesen gyűjtött települési hulladék,
 
 bd) előkezelt szennyvíziszap,
 
@@ -32,5 +32,6 @@ be) egyéb nem veszélyes hulladék, beleértve a B1b alkategóriájú hulladék
 
 c) C kategóriájú hulladéklerakóban veszélyes hulladék.
 
-[^10]: A 4. § (2) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban; a 13. § (7) bekezdése alapján a kategóriába még nem besorolt hulladéklerakó esetében a besorolást a Felügyelőség a hulladékkezelési engedélyek alapján 2008. február 15-ig állapítja meg.
-[^11]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet.
+[^18]: A 4. § (2) bekezdése a 92/2007. (XI. 28.) KvVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban; a 13. § (7) bekezdése alapján a kategóriába még nem besorolt hulladéklerakó esetében a besorolást a Felügyelőség a hulladékkezelési engedélyek alapján 2008. február 15-ig állapítja meg.
+[^19]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet.
+[^20]: A 4. § (3) bekezdés b) pont bc) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.

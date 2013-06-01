@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-## 2. §[^3] E rendelet alkalmazásában
+## 2. §[^7] E rendelet alkalmazásában
 
 a) alapjellemzés: a hulladék alapvető jellemzőinek meghatározása, azon adatok, információk összegyűjtése, amelyek a hulladék biztonságos lerakásához szükségesek;
 
@@ -14,13 +14,13 @@ e) föld alatti hulladéklerakó: olyan állandó hulladéktároló létesítmé
 
 f) hulladéklerakó: olyan hulladékártalmatlanító létesítmény, amely a hulladéknak a földtani közeg felszínén vagy a földtani közegben történő lerakására szolgál, ideértve
 
-fa) a termelő hulladékának a termelés helyén történő ártalmatlanítására szolgáló létesítményt,
+fa)[^8] a hulladéktermelő hulladékának a termelés helyén történő ártalmatlanítására szolgáló hulladékgazdálkodási létesítményt,
 
-fb) a hulladék ideiglenes elhelyezésére szolgáló, egy évet meghaladóan fennálló létesítményt, kivéve ahol a hulladékot
+fb)[^9] a hulladék ideiglenes elhelyezésére szolgáló, egy évet meghaladóan fennálló hulladékgazdálkodási létesítményt, kivéve ahol a hulladékot
 
 fba) továbbszállításra készítik elő abból a célból, hogy hasznosításra, előkezelésre vagy más helyen ártalmatlanításra kerüljön,
 
-fbb) a hasznosítást vagy előkezelést megelőzően legfeljebb három évig tárolják,
+fbb)[^10] a hasznosítást megelőzően legfeljebb három évig tárolják,
 
 fbc) az ártalmatlanítást megelőzően legfeljebb egy évig tárolják;
 
@@ -40,4 +40,7 @@ m) üzemeltető: az a természetes vagy jogi személy, illetve jogi személyisé
 
 n) tájbaillesztés: a létesítmény funkcionális és esztétikai szempontok szerinti környezetalakítása a táji adottságok figyelembevételével.
 
-[^3]: A 2. § a 92/2007. (XI. 28.) KvVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^7]: A 2. § a 92/2007. (XI. 28.) KvVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^8]: A 2. § f) pont fa) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § f) pont fb) alpont nyitó szövegrésze a 40/2013. (V. 24.) VM rendelet 4. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 2. § f) pont fb) pont fbb) alpontja a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés b) pontja szerint módosított szöveg.

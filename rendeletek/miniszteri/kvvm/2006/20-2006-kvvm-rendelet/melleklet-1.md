@@ -1,3 +1,3 @@
-1. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^37]
+1. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^59]
 
-[^37]: Az 1. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján rendelkezéseit alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^59]: Az 1. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés a) pontja szerint módosított szöveg.
