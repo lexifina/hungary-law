@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-114-00-00
 | 2012-09-01 | 2012. évi CXXVIII. törvény | 1993-114-00-00.29 |
 | 2013-01-01 | 2012. évi CXCVI. törvény | 1993-114-00-00.30 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 1993-114-00-00.31 |
+| 2013-06-01 | 2012. évi CXXIX. törvény | 1993-114-00-00.32 |
