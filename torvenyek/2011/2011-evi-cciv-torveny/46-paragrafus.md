@@ -12,9 +12,17 @@ b) magyar állami részösztöndíjjal támogatott hallgató,
 
 c) önköltséges hallgató.
 
-(2) Az (1) bekezdésben meghatározott hallgatók számára – kormányrendeletben meghatározottak szerint – az állam biztosítja a hallgatói hitel igénybevételének lehetőségét.
+(2) Az (1) bekezdésben meghatározott hallgatók számára – kormányrendeletben meghatározottak szerint – a magyar állam biztosítja a hallgatói hitel igénybevételének lehetőségét.
 
-(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, a magyar állami részösztöndíjjal támogatott hallgató képzési költségének felét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a hallgatói szerződések nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
+(2a) A hallgatói hitel az (1) bekezdés
+
+a) a) pontja szerinti hallgató számára a hallgatói léttel kapcsolatos költségek,
+
+b) b) és c) pontjában meghatározott hallgató számára a hallgatói léttel, valamint a képzéssel kapcsolatos költségek
+
+finanszírozásához járul hozzá.
+
+(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, valamint a magyar állami részösztöndíjjal támogatott hallgató képzési költségének felét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
 
 (4) A miniszter évente – a 39. § (5) és (6) bekezdésében megállapított keretek között – határozattal állapítja meg azt, hogy mely, a felsőoktatási intézmények által folytatott szakos képzésen vehető igénybe magyar állami (rész)ösztöndíj. A képzésre a felvétel teljesítéséhez szükséges minimális felvételi követelményt (pontszámot) a Kormány rendelete, az adott szak magyar állami (rész)ösztöndíjjal támogatott képzésére történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a miniszter határozata állapítja meg.
 

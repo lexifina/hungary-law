@@ -1,4 +1,4 @@
-48/C. § (1) A hallgatói ösztöndíjszerződés alapján a Magyar Állam köteles:
+48/C. § (1) A hallgató által teljesítendő feltételek tekintetében a magyar állam köteles:
 
 a) a hallgató által az adott képzésben igénybe vett támogatási idő alatt, de legfeljebb a hallgatói jogviszonyának megszűnéséig a magyar állami (rész)ösztöndíjas hallgatóra tekintettel biztosítani a felsőoktatási intézménynek a hallgató magyar állami (rész)ösztöndíjjal támogatott képzésének költségeit (a továbbiakban: állami ösztöndíj),
 

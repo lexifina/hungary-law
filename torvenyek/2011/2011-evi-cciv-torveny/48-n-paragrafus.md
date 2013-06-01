@@ -1,4 +1,4 @@
-48/N. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § a) pontja alapján vállalt kötelezettség teljesítésének felfüggesztését engedélyezheti
+48/N. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltétel teljesítésének felfüggesztését engedélyezi
 
 a) a külföldi felsőoktatási intézményben folytatott tanulmányokra,
 
@@ -12,4 +12,4 @@ a) a külföldi felsőoktatási intézmény és a külföldön folytatott tanulm
 
 b) az oklevél kiadásához szükséges nyelvvizsga-bizonyítvány megszerzése érdekében folytatott tanulmányait felnőttképzési jogviszonyban végzi.
 
-(3) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgatót, kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § c) pontja alapján vállalt kötelezettség teljesítése alól mentesítheti, ha a hallgató hazai munkaviszonyt létesít és az el nem végzett szakra irányadó képzési idő kétszeresének megfelelő időtartamban fenntartja.
+(3) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § c) pontja alapján meghatározott feltételt – kormányrendeletben meghatározottak szerint – teljesítettnek tekinti, ha a hallgató hazai munkaviszonyt az állami (rész)ösztöndíjjal igénybe vett képzési időnek megfelelő időtartamban tart fenn.

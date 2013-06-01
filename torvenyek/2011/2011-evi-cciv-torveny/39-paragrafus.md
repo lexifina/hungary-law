@@ -26,7 +26,7 @@ g) a magas szintű képzettséget igénylő munkavállalás és tartózkodás c�
 
 (2) Az (1) bekezdésben nem említett személy tanulmányait kizárólag önköltséges formában folytathatja.
 
-(3) A hallgatói jogviszony a felvételről vagy az átvételről szóló döntés alapján, a beiratkozással jön létre. A beiratkozást megelőzően a 15. § (2)–(6) bekezdésben meghatározott képzésben részt vevő hallgatóval hallgatói ösztöndíjszerződést, illetve az önköltség fizetése mellett folytatott képzés tekintetében hallgatói képzési szerződést kell kötni. A hallgatói szerződések nyilvántartásáért felelős szerv által nyilvántartott személyes adatokat, az adatkezelés célját, időtartamát, továbbításának feltételeit az 5. melléklet tartalmazza.
+(3) A hallgatói jogviszony a felvételről vagy az átvételről szóló döntés alapján, a beiratkozással jön létre. A 15. § (2)–(6) bekezdésében meghatározott magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató az e törvényben előírt sajátos feltételek teljesítésére köteles. A 15. § (2)–(6) bekezdésében meghatározott önköltség fizetése mellett folytatott képzés tekintetében hallgatói képzési szerződést kell kötni. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által nyilvántartott személyes adatokat, az adatkezelés célját, időtartamát, továbbításának feltételeit az 5. melléklet tartalmazza.
 
 (4) A felvételre jelentkező egy felvételi eljárásban legfeljebb öt jelentkezést nyújthat be. Amennyiben ugyanazon szakra magyar állami (rész)ösztöndíjjal támogatott és önköltséges képzési formára egyaránt jelentkezik, az egy jelentkezésnek minősül.
 

@@ -14,4 +14,6 @@
 
 (6) Az e törvény 39. § (3) bekezdése, 46. § (1) bekezdése szerinti hallgatói szerződést első alkalommal a 2012/2013. tanév első évfolyamára történő beiratkozást megelőzően kell megkötni.
 
-(7) Jogszabály a hatályba lépését megelőzően – a 39. § (3) bekezdése, 46. § (1) bekezdése szerint – megkötött hallgatói szerződések tartalmát kizárólag hallgató számára kedvezőbb feltétel megállapításával változtathatja meg.
+(7)
+
+(8) E törvény 39. § (3) bekezdésének, 46. § (3) bekezdésének, 48/A–48/S. §-ának a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvénynek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi LXX. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a 2013 szeptemberében első évfolyamon induló alap-, osztatlan, illetve mesterképzésre, felsőoktatási szakképzésre, valamint az azt követő évfolyamokra – magyar állami (rész)ösztöndíjjal támogatott képzésre – felvett, beiratkozott hallgatók tekintetében, továbbá a Módtv. hatálybalépését megelőzően már megkötött hallgatói szerződéssel rendelkező hallgatók tekintetében is alkalmazni kell azzal, hogy a hallgatói szerződés megkötésekor tett jognyilatkozatot a Módtv-vel megállapított 48/D. § (2) bekezdése szerint megtett jognyilatkozatnak kell tekinteni, valamint a hallgatói szerződés helyébe a Módtv-vel megállapított 28/A. alcímben meghatározott jogok és kötelezettségek lépnek.

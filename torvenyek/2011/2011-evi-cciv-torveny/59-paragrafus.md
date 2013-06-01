@@ -16,7 +16,9 @@ f) ha a hallgató hallgatói jogviszonyát – fizetési hátralék miatt – a 
 
 g) a kizárás fegyelmi határozat jogerőre emelkedésének napján,
 
-h) ha a hallgatói jogviszony létesítéséhez előírt e törvényben meghatározott feltétel a továbbiakban már nem áll fenn, az ennek tárgyában hozott megszüntető döntés jogerőre emelkedésének napján.
+h) ha a hallgatói jogviszony létesítéséhez előírt e törvényben meghatározott feltétel a továbbiakban már nem áll fenn, az ennek tárgyában hozott megszüntető döntés jogerőre emelkedésének napján,
+
+i) ha a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja és nem vállalja az önköltséges képzésben való részvételt.
 
 (2) Az (1) bekezdés d) pontjában foglaltak szerint nem szűnik meg az alapképzésben részt vevő hallgató hallgatói jogviszonya, ha az alapfokozat megszerzését követően a soron következő félévre mesterképzésre felvételt nyert.
 

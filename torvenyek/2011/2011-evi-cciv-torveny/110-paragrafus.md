@@ -82,7 +82,7 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 22. a pedagógus ösztöndíj igénybevételének feltételeit, a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait, választható egyenrangú szakpárjait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
 
-23. a hallgatói szerződések nyilvántartásáért felelős szervnek a hallgatói ösztöndíjszerződés, a hallgatói képzési szerződés nyilvántartásával, kezelésével kapcsolatos eljárási szabályait, a hallgatói képzési szerződés feltételeit,
+23. a magyar állami ösztöndíjjal támogatott képzésből eredő kötelezettségek teljesítésének rendjét, a hallgatói képzési szerződés nyilvántartásával, kezelésével kapcsolatos eljárási szabályokat, a hallgatói képzési szerződés feltételeit,
 
 24. az oklevéllel tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
 
@@ -98,7 +98,7 @@ a) a felsőoktatási intézmények nyilvántartását vezető szervet,
 
 b) a felsőoktatási információs rendszer működéséért felelős szervet,
 
-c) a hallgatói szerződések nyilvántartásáért felelős szervet
+c) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervet
 
 rendeletben jelölje ki.
 

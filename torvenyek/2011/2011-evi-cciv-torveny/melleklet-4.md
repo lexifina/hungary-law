@@ -66,7 +66,9 @@
 
 ## ad) a felvételi kérelem elbírálásához szükséges adatok,
 
-## ae) a felvételi eljárás adatai;
+## ae) a felvételi eljárás adatai,
+
+## af) a 48/D. § (2) bekezdése szerinti nyilatkozat azonosító száma;
 
 ## b) a hallgatói (doktorjelölt) jogviszonnyal összefüggő adatok:
 
@@ -208,7 +210,7 @@
 
 ## ak) a törzslap azonosító száma,
 
-## al) a hallgató azonosító száma, adóazonosító jele, társadalombiztosítási azonosító jele,
+## al) a hallgató azonosító száma, adóazonosító jele, társadalombiztosító azonosító jele, a felvételi azonosító, a 48/D. § (2) bekezdés szerinti nyilatkozat azonosító száma,
 
 ## am) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, a korábban megszerzett oklevélre vonatkozó adatok,
 

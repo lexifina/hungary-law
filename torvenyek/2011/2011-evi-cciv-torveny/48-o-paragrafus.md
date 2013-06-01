@@ -1,13 +1,5 @@
-48/O. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgatót, kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § a) pontja alapján vállalt kötelezettség alól mentesítheti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt nem képes megszerezni.
+48/O. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltételt teljesítettnek tekinti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt nem képes megszerezni.
 
-(2) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgatót, kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § b)–d) pontjai alapján vállalt kötelezettség vagy annak egy része teljesítése alól mentesítheti, ha a hallgató a kötelezettségét
+(2) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § b)–d) pontja alapján meghatározott feltételt vagy annak egy részét teljesítettnek tekinti, ha a hallgató a kötelezettségét megváltozott munkaképességére tekintettel, tartós betegsége, balesete, szülés, kettő vagy több gyermek nevelésére tekintettel vagy más váratlan ok miatt, önhibáján kívül nem képes teljesíteni.
 
-a) megváltozott munkaképességére tekintettel,
-
-b) tartós betegsége, balesete, szülés,
-
-c) kettő vagy több gyermek nevelésére tekintettel
-
-nem képes teljesíteni.
-
-(3) A (2) bekezdés c) pontjában meghatározott kedvezményt a hallgatói szerződések nyilvántartásáért felelős szerv ugyanazon gyermekekre tekintettel csak az egyik szülő számára engedélyezheti.
+(3) A (2) bekezdésben a gyermeknevelésre vonatkozó kedvezményt a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv ugyanazon gyermekekre tekintettel csak az egyik szülő számára engedélyezi.
