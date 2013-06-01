@@ -3,3 +3,7 @@
 (2) A pártfogó felügyelet alatt álló személlyel szemben az előírt szabályok megsértése miatt foganatosított rendőri intézkedésről a hely, idő és körülmények megjelölésével a felügyeletet elrendelő bíróságot, a vádemelést elhalasztó ügyészt és az illetékes fővárosi és megyei kormányhivatal igazságügyi szolgálatát értesíteni kell.
 
 (3) Az előállítás a fogvatartott személy szabadon bocsátásáig vagy őrizetbe vételéig, illetve előzetes letartóztatásáig, de legfeljebb az Rtv. 33. § (3) bekezdésében meghatározott ideig tart.
+
+(4)[^12] Ha az előállítás időtartamának az Rtv. 33. § (3) bekezdése szerinti meghosszabbítása válik szükségessé, ennek tényét és időtartamát a fogvatartottal – a személyi szabadság korlátozása 8. órájának lejártát megelőzően – szóban közölni kell, és a meghosszabbítás tényét, okát, időtartamát, illetve annak közlését az előállításról készített jelentésen, valamint az előállítás időtartamáról kiállított igazoláson, az engedélyezésre jogosult vezető aláírásával együtt fel kell tüntetni.
+
+[^12]: A 30. § (4) bekezdését a 18/2013. (V. 9.) BM rendelet 5. §-a iktatta be.

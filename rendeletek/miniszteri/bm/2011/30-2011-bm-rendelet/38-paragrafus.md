@@ -4,7 +4,7 @@
 
 ## 30. Általános szabályok
 
-38. § (1) A kényszerítő eszközt a helyszínen alkalmazó rendőr, valamint a csapaterőt, útzár alkalmazását, továbbá a tömegoszlatást elrendelő parancsnok a helyszíni intézkedések után köteles írásos jelentést készíteni. Ha a kényszerítő eszköz alkalmazását személyi szabadságot korlátozó intézkedés követi, a kényszerítő eszközt a helyszínen alkalmazó rendőrnek a jelentést a személyi szabadságot korlátozó intézkedésről szóló írásos jelentésben kell megtennie.
+38. § (1)[^22] A testi kényszert, bilincset, vegyi eszközt, elektromos sokkoló eszközt, rendőrbotot, kardlapot, illetve szolgálati kutyát alkalmazó rendőr – az ellenszegülés megtörését, illetve a támadás megakadályozását követően – szóban köteles haladéktalanul jelentést tenni a közvetlen szolgálati elöljárójának, illetve értesíteni az ügyeletet vagy a tevékenység-irányítási központot. A kísérés során, a kizárólag annak végrehajtása érdekében történő bilincsalkalmazás kivételével a kényszerítő eszközt alkalmazó rendőr, valamint a csapaterőt, útzár alkalmazását, továbbá tömegoszlatást elrendelő parancsnok a helyszíni intézkedések után köteles írásos jelentést készíteni. Ha a kényszerítő eszköz alkalmazását személyi szabadságot korlátozó intézkedés követi, a kényszerítő eszközt alkalmazó rendőrnek a jelentést a személyi szabadságot korlátozó intézkedésről szóló írásos jelentésben kell megtennie.
 
 (2) A kényszerítő eszköz alkalmazásáról készített jelentés tartalmazza:
 
@@ -35,3 +35,5 @@ b) ha a rendőr jelentésében ellentmondásokat észlelt, tisztázza azokat,
 c) ha az intézkedés alá vont, valamint az eseménynél jelen levő személy a meghallgatását vagy a válaszadást megtagadja, a szolgálati elöljáró a rendelkezésére álló adatok alapján vizsgálja ki a kényszerítő eszköz alkalmazásának jogszerűségét.
 
 (5) A szolgálati elöljáró a megállapításait írásban rögzíti, amelyben állást foglal a szakszerűség, szükségesség, jogszerűség, arányosság követelményének megtartásáról. Ha megállapítása szerint a kényszerítő eszközök alkalmazására jogszabálysértő módon került sor, – ha annak jogszabályi feltételei fennállnak – az intézkedő rendőr ellen kártérítési, fegyelmi vagy kártérítési, fegyelmi és büntetőeljárást kezdeményez.
+
+[^22]: A 38. § (1) bekezdése a 18/2013. (V. 9.) BM rendelet 8. §-ával megállapított szöveg.

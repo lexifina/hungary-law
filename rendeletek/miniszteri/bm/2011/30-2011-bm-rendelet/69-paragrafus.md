@@ -2,4 +2,16 @@
 
 69. § (1) A körzeti megbízott az általános rendőrségi feladatok ellátására létrehozott szerv vezetője által meghatározott körzetben teljesít szolgálatot, tevékenységét önállóan szervezi.
 
-(2) A körzeti megbízott alapvető feladata az általános rendőrségi feladatok ellátására létrehozott szerv és a lakosság kapcsolatának fenntartása, bűnmegelőzési tevékenység ellátása, valamint nyomozások elvégzése, a működési területét érintő körözési tevékenység folytatása, szabálysértési ügyekben az előzetes intézkedés foganatosítása, valamint a meghatározott vasúti, légi és vízi rendészeti rendőri munka végzése.
+(2)[^40] A körzeti megbízott alapvető feladata
+
+a) az általános rendőrségi feladatok ellátására létrehozott szerv és a lakosság kapcsolatának fenntartása,
+
+b) bűnmegelőzési tevékenység ellátása,
+
+c) nyomozások elvégzése,
+
+d) a működési területét érintő körözési tevékenység elvégzése, valamint
+
+e) vasúti, légi és vízi rendészeti rendőri feladatok ellátása.
+
+[^40]: A 69. § (2) bekezdése a 18/2013. (V. 9.) BM rendelet 12. §-ával megállapított szöveg.

@@ -28,7 +28,10 @@
 
 12. támadással közvetlenül fenyegető magatartás: az a fellépés, amikor a támadó helyzetéből, tevékenységének módjából és eszközéből a rendőr alaposan következtet arra, hogy a támadás nyomban bekövetkezik,
 
-13. testi épséget súlyosan veszélyeztető támadás: ha a támadó helyzetéből, tevékenységének módjából és eszközéből alaposan feltételezhető a súlyos sérülés közvetlen veszélye.
+13. testi épséget súlyosan veszélyeztető támadás: ha a támadó helyzetéből, tevékenységének módjából és eszközéből alaposan feltételezhető a súlyos sérülés közvetlen veszélye,
+
+14.[^3] rendkívüli esemény: a rendőri intézkedés során bekövetkező minden olyan esemény, tevékenység vagy mulasztás, amely az intézkedés alá vont, az intézkedést végrehajtó vagy más személy életét, testi épségét, egészségét, anyagi javait, a személyi szabadság korlátozása helyének rendjét vagy az őrzésbiztonságot sérti, illetve veszélyezteti.
 
 [^1]: Az 1. § a 68/2011. (XII. 30.) BM rendelet 35. § (1) bekezdése szerint módosított szöveg.
 [^2]: A 2. § 11. pontja a 31/2012. (VI. 28.) BM rendelet 15. § a) pontja, a 43/2012. (VIII. 23.) BM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § 14. pontját a 18/2013. (V. 9.) BM rendelet 1. §-a iktatta be.
