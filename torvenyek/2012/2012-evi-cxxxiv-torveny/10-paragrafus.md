@@ -2,11 +2,15 @@
 
 a) a nyilvános pályázat eredménytelen, vagy
 
-b) a dohánytermék-kiskereskedelmi jogosultság gyakorlása az adott településen megszűnt, illetve még nem folyik,
+b) bármely dohánytermék-kiskereskedelmi jogosultság gyakorlása az adott településen megszűnt, illetve még nem folyik,
 
-a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a részvénytársaság útján is gyakorolhatja az új, eredményes pályázat alapján megkötendő koncessziós szerződés aláírásáig.
+a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a részvénytársaság, vagy a részvénytársaság által erre külön feljogosított személy útján is gyakorolhatja az új, eredményes pályázat alapján megkötendő koncessziós szerződés aláírásáig.
 
 (2) A pályázat eredménytelensége esetén legkésőbb az eredménytelenség kihirdetését követő 6 hónapon belül új pályázatot kell kiírni és annak eredményéről a határidőn belül határozni is kell.
+
+(3) A (2) bekezdésben foglaltaktól eltérően, abban az esetben, ha a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, úgy az új pályázat eredménytelenségének kihirdetését követő 36 hónapon belül kell legkésőbb új pályázatot kiírni.
+
+(4) A (3) bekezdésben foglaltaktól eltérően, ha az állam a dohánytermék-kiskereskedelmi jogosultságot a részvénytársaság által feljogosított személy útján gyakorolja, és a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, úgy az új pályázat eredménytelenségének kihirdetését követő 12 hónapon belül kell legkésőbb új pályázatot kiírni.
 
 ## III. Fejezet
 

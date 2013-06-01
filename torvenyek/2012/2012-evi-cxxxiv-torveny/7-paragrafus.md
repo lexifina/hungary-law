@@ -1,6 +1,6 @@
 7. § (1) A dohánytermék-kiskereskedelmi koncesszió nyilvános pályázatára a Ktv.-ben előírt szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
-(2) A nyilvános pályázati felhívást legalább két országos napilapban, illetve a pályázat szerinti településen illetékes megyei (fővárosi) kormányhivatal honlapján is meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább harminc nappal megelőzően.
+(2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes megyei (fővárosi) kormányhivatal honlapján, vagy a részvénytársaság honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
 
 (3) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait. A szempontok között érvényt kell szerezni a 13. § (5) bekezdésében foglaltaknak, továbbá előnyben kell részesíteni azt a pályázót, aki
 

@@ -14,7 +14,7 @@ b) olyan gazdasági társaság folytathat, amelynek legalább egy természetes s
 
 a) a kérelem benyújtását megelőző 5 éven belül a kérelmezővel szemben az illetékes adóhatóság vagy vámhatóság jogerősen 1 millió forintot meghaladó vám- vagy adóbírságot, vagy 200 ezer – magánszemély esetén 100 ezer – forintot meghaladó mértékű mulasztási bírságot szabott ki,
 
-b) a kérelmezőnek 30 napon túli lejáratú, állami adóhatóság által behajtandó köztartozása vagy állami adóhatóság által nyilvántartott adótartozása van, illetve a kérelem benyújtását megelőző 1 éven belül ilyen köztartozása vagy adótartozása volt,
+b) a kérelmezőnek 30 napon túli lejáratú, állami adóhatóság által behajtandó köztartozása vagy állami adóhatóság által nyilvántartott adótartozása van,
 
 c) a kérelmező a jogszabályban meghatározott feltételeknek nem felel meg.
 
@@ -22,4 +22,4 @@ c) a kérelmező a jogszabályban meghatározott feltételeknek nem felel meg.
 
 (7) Az engedély jogosultja a dohánytermék-kiskereskedelmi tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény, vagy körülmény változásáról a vámhatóságot tizenöt napon belül köteles értesíteni.
 
-(8) E § rendelkezéseit a részvénytársaságra nem kell alkalmazni.
+(8) E § rendelkezéseit a részvénytársaságra, vagy az általa a 10. § (1) bekezdés b) pontja szerint külön feljogosított személyre nem kell alkalmazni.
