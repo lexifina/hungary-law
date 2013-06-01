@@ -1,0 +1,7 @@
+# 2013. évi LXII. törvény a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-62-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2013-06-01 | 2013. évi LXII. törvény | 2013-62-00-00.0 (közlönyállapot) |
