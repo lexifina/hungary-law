@@ -6,7 +6,7 @@
 
 (3) Gázturbinából és gáz póttüzeléses hőhasznosító kazánból álló tüzelőberendezés esetében a technológiai kibocsátási határérték és a vonatkoztatási oxigéntartalom megállapításának szabályait e rendelet 6. számú melléklete tartalmazza.
 
-(4)[^6] Vegyes tüzelésű egységgel rendelkező létesítményekre, ideértve két vagy több tüzelőanyag alternatív felhasználását is, az 1–4. számú mellékletben foglalt kibocsátási határértékeket kell alkalmazni. Vegyes tüzelésű berendezésnél, – kivéve az (5) bekezdésben foglalt esetet – amelyhez eltérő kibocsátási határértékek tartoznak, a technológiai kibocsátási határértéket a felhasznált tüzelőanyagokkal bevitt hőmennyiség arányában kell megállapítani. Ezen kibocsátási határérték meghatározási módját, valamint többféle – eltérő vonatkoztatási oxigéntartalmú – tüzelőanyag egyidejű alkalmazása esetében a vonatkoztatási oxigéntartalomra történő átszámítás szabályait e rendelet 7. számú melléklete tartalmazza.
+(4)[^7] Vegyes tüzelésű egységgel rendelkező létesítményekre, ideértve két vagy több tüzelőanyag alternatív felhasználását is, az 1–4. számú mellékletben foglalt kibocsátási határértékeket kell alkalmazni. Vegyes tüzelésű berendezésnél, – kivéve az (5) bekezdésben foglalt esetet – amelyhez eltérő kibocsátási határértékek tartoznak, a technológiai kibocsátási határértéket a felhasznált tüzelőanyagokkal bevitt hőmennyiség arányában kell megállapítani. Ezen kibocsátási határérték meghatározási módját, valamint többféle – eltérő vonatkoztatási oxigéntartalmú – tüzelőanyag egyidejű alkalmazása esetében a vonatkoztatási oxigéntartalomra történő átszámítás szabályait e rendelet 7. számú melléklete tartalmazza.
 
 (5) A csak folyékony vagy folyékony és gáz halmazállapotú tüzelőanyagokat felhasználó tüzelőberendezések esetében, amennyiben a folyékony halmazállapotú tüzelőanyagnak vagy a folyékony halmazállapotú tüzelőanyagok valamelyikének aránya – az általa bevitt hőmennyiség alapján számítva – az 50%-ot meghaladja (fő tüzelőanyag), a kibocsátási határértéket a fő tüzelőanyagra érvényes határértékkel kell azonosnak tekinteni.
 
@@ -16,10 +16,10 @@
 
 (8) A határértékek meghatározásánál vegyes tüzelésű berendezés esetén a tüzelőanyagokkal bevitt hőmennyiséget az adott berendezésben az előző öt naptári évben regisztrált tüzelőanyag-arány alapján kell számításba venni. Amennyiben a berendezés korábban rövidebb időtartamig üzemelt, a környezetvédelmi hatóság ezen időtartamot is alapul veheti, vagy – engedélyezési eljárás során – a környezeti hatástanulmányban, illetve az engedélykérelemhez csatolt más hivatalos dokumentációban foglalt tervezett üzemeltetési adatok alapján állapíthatja meg a határértéket.
 
-(9)[^7] Ha a tüzelőberendezést legalább 50 MW-tal bővítik, az 1–4. számú melléklet B) részében előírt technológiai kibocsátási határértékek a létesítmény új részére vonatkoznak, és az egész létesítmény hőteljesítménye arányában kerülnek megállapításra.
+(9)[^8] Ha a tüzelőberendezést legalább 50 MW-tal bővítik, az 1–4. számú melléklet B) részében előírt technológiai kibocsátási határértékek a létesítmény új részére vonatkoznak, és az egész létesítmény hőteljesítménye arányában kerülnek megállapításra.
 
-(10)[^8] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 2. § (2) bekezdése szerinti, a kén-dioxid, nitrogén-oxidok és a por légszennyező anyag kibocsátást érintő jelenős módosítás esetén, az 1–4. számú melléklet B) részében meghatározott kibocsátási határértékeket kell alkalmazni.
+(10)[^9] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 2. § (2) bekezdése szerinti, a kén-dioxid, nitrogén-oxidok és a por légszennyező anyag kibocsátást érintő jelenős módosítás esetén, az 1–4. számú melléklet B) részében meghatározott kibocsátási határértékeket kell alkalmazni.
 
-[^6]: A 4. § (4) bekezdése a 108/2011. (XI. 21.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 4. § (9) bekezdését a 108/2011. (XI. 21.) VM rendelet 2. § (2) bekezdése iktatta be.
-[^8]: A 4. § (10) bekezdését a 108/2011. (XI. 21.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 4. § (4) bekezdése a 108/2011. (XI. 21.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (9) bekezdését a 108/2011. (XI. 21.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 4. § (10) bekezdését a 108/2011. (XI. 21.) VM rendelet 2. § (2) bekezdése iktatta be.

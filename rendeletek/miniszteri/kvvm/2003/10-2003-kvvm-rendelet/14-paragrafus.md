@@ -1,4 +1,4 @@
-## 14. §[^29] Ez a rendelet
+## 14. §[^30] Ez a rendelet
 
 a) a nagy tüzelőberendezésekből származó egyes szennyező anyagok levegőbe történő kibocsátásának korlátozásáról szóló, 2001. október 23-i 2001/80/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -6,4 +6,4 @@ b) a 9/A. §-ban és a 13. § (7) bekezdésében a szén-dioxid geológiai táro
 
 való megfelelést szolgálja.
 
-[^29]: A 14. § a 108/2011. (XI. 21.) VM rendelet 6. §-ával megállapított szöveg.
+[^30]: A 14. § a 108/2011. (XI. 21.) VM rendelet 6. §-ával megállapított szöveg.

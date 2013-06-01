@@ -8,7 +8,7 @@ b) kazán: olyan tüzelőberendezés, amelyben tüzelőanyagot égetnek el víz 
 
 c) gázturbina: olyan forgó gép, amelyben a tüzelőanyag elégetése során keletkező gázok energiatartalmát alakítják mechanikai energiává, és amelynek fő elemei: a kompresszor, az égőkamra, amelyben a tüzelőanyag elég, és a turbina, amelyben az energiaátalakítás végbemegy;
 
-d) tüzelőanyag: olyan szilárd halmazállapotú (szén, széntermék, valamint egyéb, tüzelőanyagnak minősített, szabványos szilárd anyag, biomassza), folyékony halmazállapotú (fűtőolaj, tüzelőolaj, valamint egyéb, tüzelőanyagnak minősített, szabványos folyékony anyag), vagy gáz halmazállapotú (éghető gáz, földgáz, szénlepárlással vagy elgázosítással előállított gáz, valamint egyéb, tüzelőanyagnak minősített, szabványos gáznemű anyag: kamragáz, kohógáz) anyag, amelyet tüzelőberendezésben égetnek el, kivéve a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 1. számú mellékletében felsorolt hulladékkategóriák szerinti anyagokat, a hulladékok jegyzékéről szóló jogszabály[^1] mellékletében felsorolt hulladékokat, valamint a hulladékok égetéséről szóló jogszabály[^2] szerinti hulladékgázt;
+d)[^2] tüzelőanyag: olyan szilárd halmazállapotú (szén, széntermék, valamint egyéb, tüzelőanyagnak minősített, szabványos szilárd anyag, biomassza), folyékony halmazállapotú (fűtőolaj, tüzelőolaj, valamint egyéb, tüzelőanyagnak minősített, szabványos folyékony anyag), vagy gáz halmazállapotú (éghető gáz, földgáz, szénlepárlással vagy elgázosítással előállított gáz, valamint egyéb, tüzelőanyagnak minősített, szabványos gáznemű anyag: kamragáz, kohógáz) anyag, amelyet tüzelőberendezésben égetnek el, kivéve a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet 1. és 2. számú mellékletében felsorolt hulladékokat, valamint a hulladékok égetéséről szóló jogszabály[^3] szerinti hulladékgázt;
 
 e) biomassza: minden, az energiatartalmának hasznosítása céljából tüzelőanyagként felhasználható, nem szennyezett, illetve vegyi anyaggal nem kezelt, részben vagy teljes egészében mezőgazdasági vagy erdészeti eredetű növényi anyag, továbbá az alább felsorolt, tüzelőanyagként felhasznált hulladék:
 
@@ -26,7 +26,7 @@ f) vegyes tüzelésű berendezés: olyan tüzelőberendezés, amely egyidejűleg
 
 g) új tüzelőberendezés: az a tüzelőberendezés, amelyre létesítési engedélyt a kérelmező e rendelet hatálybalépését követően kap, valamint a levegővédelmi szempontból felújított (átalakított) berendezés;
 
-h)[^3] levegővédelmi szempontból felújított (átalakított) berendezés: az a berendezés, amelynek az élettartama a rajta elvégzett, levegővédelmi célú átalakítások következtében legalább 10 évvel meghosszabbodik, vagy névleges bemenő hőteljesítménye legalább 50 MW-tal bővül, ha a felújítás a tüzelőberendezés névleges bemenő hőteljesítményének legalább 50%-ára hatással van;
+h)[^4] levegővédelmi szempontból felújított (átalakított) berendezés: az a berendezés, amelynek az élettartama a rajta elvégzett, levegővédelmi célú átalakítások következtében legalább 10 évvel meghosszabbodik, vagy névleges bemenő hőteljesítménye legalább 50 MW-tal bővül, ha a felújítás a tüzelőberendezés névleges bemenő hőteljesítményének legalább 50%-ára hatással van;
 
 i) névleges bemenő hőteljesítmény: az adott tüzelőberendezés hatósági határozatban (engedélyben) rögzített névleges teljesítményén történő üzemeltetéshez szükséges, a tüzelőberendezésbe egységnyi idő alatt bevitt tüzelőanyag hőtartalma megawattban (MW) kifejezve;
 
@@ -38,9 +38,9 @@ k) kéntelenítési arány: a tüzelőberendezésben vagy annak kiegészítő be
 
 (3) Új tüzelőberendezés létesítésekor a (2) bekezdés alkalmazása szempontjából az 1998. július 11-e előtt már üzemelő berendezéseket figyelmen kívül kell hagyni.
 
-(4)[^4] E rendeletben a levegő védelméről szóló jogszabály értelmező rendelkezései alkalmazandóak.
+(4)[^5] E rendeletben a levegő védelméről szóló jogszabály értelmező rendelkezései alkalmazandóak.
 
-[^1]: 16/2001. (VII. 18.) KöM rendelet a hulladékok jegyzékéről.
-[^2]: 3/2002. (II. 22.) KöM rendelet a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről.
-[^3]: A 2. § (1) bekezdés h) pontja a 108/2011. (XI. 21.) VM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (4) bekezdését az 5/2011. (I. 14.) VM rendelet 4. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés d) pontja a 40/2013. (V. 24.) VM rendelet 1. §-a szerint módosított szöveg.
+[^3]: 3/2002. (II. 22.) KöM rendelet a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről.
+[^4]: A 2. § (1) bekezdés h) pontja a 108/2011. (XI. 21.) VM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (4) bekezdését az 5/2011. (I. 14.) VM rendelet 4. §-a iktatta be.
