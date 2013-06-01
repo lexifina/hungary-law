@@ -4,7 +4,7 @@ a) a súlyos fogyatékosság minősítésének, felülvizsgálatának részletes
 
 b) a fogyatékossági támogatás folyósításának, elszámolásának szabályait;
 
-c) a speciális munkahely működésének, finanszírozásának szabályait;
+c)
 
 d) a Fogyatékosügyi Tanács szervezetére és működésére vonatkozó részletes szabályokat.
 

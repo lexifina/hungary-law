@@ -1,5 +1,5 @@
 ## VIII. Fejezet
 
-## A FOGYATÉKOSOKAT MEGILLETŐ JOGOK VÉDELME, TOVÁBBÁ A TÖRVÉNYBŐL FAKADÓ FELADATOK KÖTELEZETTJE
+## A FOGYATÉKOS SZEMÉLYEKET MEGILLETŐ JOGOK VÉDELME, TOVÁBBÁ A TÖRVÉNYBŐL FAKADÓ FELADATOK KÖTELEZETTJE
 
 27. § Amennyiben valakit fogyatékossága miatt jogellenesen hátrány ér, megilletik mindazok a jogok, amelyek a személyhez fűződő jogok sérelme esetén irányadók.

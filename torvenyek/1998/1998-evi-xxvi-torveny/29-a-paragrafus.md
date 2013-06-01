@@ -1,0 +1,3 @@
+29/A. § (1) A kincstár a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosításáról szóló 2013. évi LXII. törvénnyel megállapított 23/A. § alapján emelésre kerülő, 2013. június hónapra járó fogyatékossági támogatást a jogosultak számára már emelt összegben folyósítja, illetve állapítja meg.
+
+(2) A vakok személyi járadéka 2013. június 1-jétől havi 16 160 forint összegben jár. A kincstár a 2013. június hónapra járó vakok személyi járadékát a jogosultak számára már emelt összegben folyósítja. A vakok személyi járadékát 2014. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell.

@@ -1,0 +1,1 @@
+29/B. § Az e törvény alapján létrehozott, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosításáról szóló 2013. évi LXII. törvény hatálybalépésének napján működő Országos Fogyatékosügyi Tanács tagjainak megbízatása 2013. szeptember 30-áig szól.

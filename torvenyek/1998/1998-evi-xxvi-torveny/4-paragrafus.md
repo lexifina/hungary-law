@@ -2,7 +2,7 @@
 
 4. § E törvény alkalmazásában
 
-a) fogyatékos személy: az, aki érzékszervi – így különösen látás-, hallásszervi, mozgásszervi, értelmi képességeit jelentős mértékben vagy egyáltalán nem birtokolja, illetőleg a kommunikációjában számottevően korlátozott, és ez számára tartós hátrányt jelent a társadalmi életben való aktív részvétel során;
+a) fogyatékos személy: az a személy, aki tartósan vagy véglegesen olyan érzékszervi, kommunikációs, fizikai, értelmi, pszichoszociális károsodással – illetve ezek bármilyen halmozódásával – él, amely a környezeti, társadalmi és egyéb jelentős akadályokkal kölcsönhatásban a hatékony és másokkal egyenlő társadalmi részvételt korlátozza vagy gátolja;
 
 b) rehabilitáció: az egészségügyi, mentálhigiénés, oktatási, képzési, átképzési, foglalkoztatási, szociális rendszerekben megvalósuló folyamat, amelynek célja a fogyatékos személy képességének fejlesztése, szinten tartása a társadalmi életben való részvételének, valamint önálló életvitelének elősegítése;
 
@@ -16,7 +16,7 @@ f) közszolgáltatás:
 
 fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenységet –, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, valamint a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység,
 
-fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási szolgáltatás, ellátás, illetve tevékenység,
+fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási, közlekedési szolgáltatás, ellátás, illetve tevékenység,
 
 fc) a helyi és nemzetiségi önkormányzat hatásköre gyakorlása során kifejtett minden tevékenység – ideértve különösen a hatósági és egyéb közigazgatási tevékenységet –, valamint a helyi és nemzetiségi önkormányzat, a nem állami és egyházi fenntartó, illetőleg az általa fenntartott közfinanszírozásban részesülő intézmény által nyújtott fb) szerinti szolgáltatás, ellátás, tevékenység,
 
