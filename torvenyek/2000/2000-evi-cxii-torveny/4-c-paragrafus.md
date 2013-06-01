@@ -6,15 +6,15 @@
 
 a) a tervezett gyorsforgalmi utak területét a nyomvonalak leírása tekintetében meghatározott települések közigazgatási területén kell biztosítani, a nyomvonal biztosítása során a nyomvonalak tájba illesztésére és a környezetvédelem szempontjainak és követelményeinek érvényesítésére, valamint a szakaszolható megépítésre különös gondot kell fordítani;
 
-b) a meglévő főutak elkerülő szakaszait a szakági tervekben és a településrendezési tervekben kell pontosítani;
+b) a meglévő főutak elkerülő szakaszait a szakági tervekben és a településrendezési eszközökben kell pontosítani;
 
-c) a Veszprém–Tapolca–84. sz. főút–71. sz. főút közötti új főút nyomvonalát (leendő 77. sz. főút), a 7301., a 7342. és a 7343. jelű összekötő út nyomvonalának fejlesztésével, paramétereik javításával, a településeket elkerülő szakaszok megvalósításával kell kialakítani; melynek során a tájba illesztésre, a terep- és ökológiai adottságokra és a környezetvédelem szempontjaira kiemelt figyelmet kell fordítani, és a településrendezési tervekben és a helyi építési szabályzatban biztosítani kell a településeket elkerülő szakaszok főúttá fejlesztésének feltételeit;
+c) a Veszprém–Tapolca–84. sz. főút–71. sz. főút közötti új főút nyomvonalát (leendő 77. sz. főút), a 7301., a 7342. és a 7343. jelű összekötő út nyomvonalának fejlesztésével, paramétereik javításával, a településeket elkerülő szakaszok megvalósításával kell kialakítani; melynek során a tájba illesztésre, a terep- és ökológiai adottságokra és a környezetvédelem szempontjaira kiemelt figyelmet kell fordítani, és a településrendezési eszközökben biztosítani kell a településeket elkerülő szakaszok főúttá fejlesztésének feltételeit;
 
-d) a 71. sz. főút Badacsonyt elkerülő szakaszát természetvédelmi szempontból elfogadható nyomvonalon, szintben kialakított vasúti keresztezéssel kiemelt jelentőségű mellékútként kell kialakítani, amelynek főúttá fejlesztési lehetőségeit a településrendezési tervekben és a helyi építési szabályzatban biztosítani kell;
+d) a 71. sz. főút Badacsonyt elkerülő szakaszát természetvédelmi szempontból elfogadható nyomvonalon, szintben kialakított vasúti keresztezéssel kiemelt jelentőségű mellékútként kell kialakítani, amelynek főúttá fejlesztési lehetőségeit a településrendezési eszközökben biztosítani kell;
 
 e) kiemelt jelentőségű mellékutakat kell kialakítani a 2/1. sz. melléklet szerint meghatározott irányokban;
 
-f) Budapest–Székesfehérvár–Nagykanizsa–Murakeresztúr–(Horvátország) transz-európai vasúti szállítási hálózat részeként működő országos törzshálózati vasútvonal kitérési lehetőséget biztosító szakaszos kétvágányúsításának és védőtávolságainak területigényét a szakági és a településrendezési tervek alapján meg kell határozni;
+f) Budapest–Székesfehérvár–Nagykanizsa–Murakeresztúr–(Horvátország) transz-európai vasúti szállítási hálózat részeként működő országos törzshálózati vasútvonal kitérési lehetőséget biztosító szakaszos kétvágányúsításának és védőtávolságainak területigényét a szakági tervek és a településrendezési eszközök alapján meg kell határozni;
 
 g) a Hajmáskér–Balatonfűzfő között tervezett egyéb országos törzshálózati vasútvonal területigényét – a Szabadbattyán–Tapolca egyéb országos törzshálózati vasútvonal balatonkenesei szakaszának a csúszásveszélyeztetettsége miatt – biztosítani kell;
 

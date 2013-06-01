@@ -42,7 +42,7 @@ s) országos és térségi jelentőségű polgári repülőterek 10 km-es körny
 
 nem telepíthető.
 
-(2) A településrendezési tervekben és a helyi építési szabályzatban – a helyi szélmérési adatok figyelembevételével – kell
+(2) A településrendezési eszközökben – a helyi szélmérési adatok figyelembevételével – kell
 
 a) a szélerőmű telepítésére vizsgálat alá vonható területeket pontosítani;
 

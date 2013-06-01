@@ -4,6 +4,6 @@
 
 a) az övezetbe tartozó ingatlanok listáját a 2/6. számú melléklet tartalmazza;
 
-b) a 2/6. számú mellékletben szereplő ingatlanokat a településrendezési tervekben a tényleges kiterjedésüknek megfelelően le kell határolni;
+b) a 2/6. számú mellékletben szereplő ingatlanokat a településrendezési eszközökben a tényleges kiterjedésüknek megfelelően le kell határolni;
 
 c) a lehatárolt területekre az OTrT kiemelt fontosságú meglévő honvédelmi területek országos övezetre vonatkozó szabályozási előírásai érvényesek.

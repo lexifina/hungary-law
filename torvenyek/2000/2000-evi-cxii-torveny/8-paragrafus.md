@@ -4,8 +4,8 @@
 
 (3) Az országos jelentőségű védett természeti területeken
 
-a) 2700 m2-nél kisebb telkek,
+a) a beépítésre nem szánt területeken – ide nem értve a közműépítmények telkeit – 2700 m2-nél kisebb telkek és
 
-b) a szántóművelési ágú területek
+b) a szántó művelési ágú területek
 
 nem építhetők be.

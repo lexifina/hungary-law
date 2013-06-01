@@ -6,9 +6,9 @@
 
 2. egyedileg meghatározott térség: a Balaton Kiemelt Üdülőkörzet Területrendezési Tervében megállapított kiemelt térségi területfelhasználási kategória, amelybe a bányaüzemek, valamint a hulladéklerakó helyek és a turisztikai fejlesztési területek övezetébe tartozó területek által igénybe vett, más térségi területfelhasználási kategóriába nem sorolható területek tartoznak;
 
-3. esőbeálló jellegű építmény: természetes anyagokból (pl. kő, fa, nád, szalma) egyszerű módon, részben vagy teljesen oldalfalakkal épített, általában egyterű, legfeljebb 3,5 méter építménymagasságú és legfeljebb 15 m2-es alapterületű építmény;
+3. esőbeálló jellegű építmény: természetes anyagokból (pl. kő, fa, nád, szalma) egyszerű módon, részben vagy teljesen oldalfalakkal épített, általában egyterű, legfeljebb 3,5 méter beépítési magasságú és legfeljebb 15 m2-es alapterületű építmény;
 
-4. erdőterület: minden fás növényekből álló életközösség, amelyet az erdőről és az erdő védelméről szóló törvény erdőnek, fasornak, facsoportnak, fás legelőnek, erdőterületnek és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek tekint, továbbá erdőterületnek számít a településrendezési tervekben erdőterület települési területfelhasználási egységbe sorolt terület is;
+4. erdőterület: minden fás növényekből álló életközösség, amelyet az erdőről és az erdő védelméről szóló törvény erdőnek, fasornak, facsoportnak, fás legelőnek, erdőterületnek és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek tekint, továbbá erdőterületnek számít a településrendezési eszközökben erdőterület települési területfelhasználási egységbe sorolt terület is;
 
 5. felszíni szennyezésre fokozottan érzékeny terület: a Balaton Kiemelt Üdülőkörzet Területrendezési Tervében lehatárolt övezet, amely az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény (a továbbiakban: OTrT) „Kiemelten érzékeny felszín alatti vízminőség-védelmi terület” övezetének feleltethető meg, amely az országos övezet által érintett területek pontosításával és a felszín alatti vizek védelméről szóló kormányrendelet által meghatározott érzékenységi kategóriáival érintett területekkel kiegészítve került lehatárolásra;
 

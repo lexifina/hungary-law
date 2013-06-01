@@ -1,4 +1,4 @@
-15. § A kiemelt üdülőkörzetben csak olyan létesítmények üzemeltethetők, amelyek
+15. § A kiemelt üdülőkörzetben csak olyan rendeltetés céljára szolgáló építmények üzemeltethetők, amelyek
 
 a) egészségügyi légszennyezettségi határérték-túllépést nem okoznak, továbbá
 

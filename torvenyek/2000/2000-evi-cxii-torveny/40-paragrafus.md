@@ -10,11 +10,11 @@ c) 1500 m2-nél kisebb telekre az e törvény hatálybalépése előtt jóváhag
 
 d) művelt telekre 3%-os beépítettséggel – a 39. § (1) bekezdés g) pontjában foglaltak kivételével – a műveléssel összefüggő gazdasági épületet lehet építeni;
 
-e) az építménymagasság a 4 métert, az építmény legmagasabb pontja a 6 métert nem haladhatja meg;
+e) a beépítési magasság a 4 métert, az építmény legmagasabb pontja a 6 métert nem haladhatja meg;
 
 f) lakókocsi, lakókonténer nem helyezhető el;
 
-g) az egyes településeken az övezet területének legfeljebb 10%-án a település szabályozási tervében és helyi építési szabályzatában kijelölt, a település belterületéhez közvetlenül kapcsolódó területeken, legkevesebb 3000 m2 nagyságú művelt telken, legfeljebb 3%-os beépítettséggel lakóépület is elhelyezhető;
+g) az egyes településeken az övezet területének legfeljebb 10%-án a település helyi építési szabályzatában kijelölt, a település belterületéhez közvetlenül kapcsolódó területeken, legkevesebb 3000 m2 nagyságú művelt telken, legfeljebb 3%-os beépítettséggel lakóépület is elhelyezhető;
 
 h) műveltnek az a telek minősül, amelynek legalább 80%-án intenzív kertészeti kultúra található;
 

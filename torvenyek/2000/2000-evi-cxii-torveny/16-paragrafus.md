@@ -4,6 +4,8 @@
 
 (2) Az (1) bekezdésben meghatározott célok megvalósítása érdekében a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a vízgazdálkodásért felelős miniszter rendelettel partvonal-szabályozási tervet fogad el.
 
+(2a) A partvonal-szabályozási terv a hatályos állami ingatlan-nyilvántartási térképi adatbázis felhasználásával készül, és – az alaptérképi elemeken túl – kötelezően tartalmazza a (3) bekezdés a)–d) pontjában és i) pont ia) alpontjában foglaltakat.
+
 (3) A partvonal-szabályozási és vízpart-rehabilitációs terv az ingatlanügyi hatóság által hitelesített ingatlan-nyilvántartási térképmásolat felhasználásával készül és – az alaptérképi elemeken túl – kötelezően tartalmazza:
 
 a) a part szabályozási vonalát (a továbbiakban: szabályozási partvonal),
@@ -32,7 +34,7 @@ ic) a kerékpárút létesítésére alkalmas nyomvonalakat,
 
 id) a strandok kijelölésére alkalmas partszakaszokat.
 
-(4) A (2) bekezdés szerint elfogadásra kerülő partvonal-szabályozási terv a (3) bekezdés felvezető szövegében foglaltaknak megfelelően készül, és kötelezően tartalmazza a (3) bekezdés felvezető szövegében, valamint a (3) bekezdés a), b), c), d) és ia) pontjában foglaltakat.
+(4)
 
 (5) A partvonal-szabályozási és vízpart-rehabilitációs terv meghatározása során figyelembe kell venni
 

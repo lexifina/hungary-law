@@ -16,7 +16,7 @@ e) új építmény elhelyezése tájba illesztve, a helyi építészeti hagyomá
 
 f) új építmény a természetvédelmi kezelés és bemutatás céljából, valamint szakrális építményként (kápolna, kereszt, kőkép) helyezhető el;
 
-g) 10 m magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
+g) 10 m beépítési magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
 
 h) erdőtelepítés, erdőfelújítás, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 

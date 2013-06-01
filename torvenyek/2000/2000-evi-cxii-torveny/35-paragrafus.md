@@ -20,4 +20,4 @@ h) a tómeder nádasában, a kihirdetett vízpart-rehabilitációs tanulmányter
 
 i) az az üzemeltetési engedélyköteles vízi jármű, amely nem rendelkezik üzemeltetési engedéllyel és kiépített kikötőben kikötőhellyel, a tómeder területén nem tárolható;
 
-j) a nyilvántartásba vételre nem kötelezett vízi jármű a tómeder területén csak kiépített kikötőben tárolható.
+j)

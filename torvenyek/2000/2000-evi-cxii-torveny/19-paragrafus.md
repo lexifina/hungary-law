@@ -6,13 +6,13 @@ b) amennyiben a közvetlen parti kapcsolattal rendelkező 30 méter széles – 
 
 c) a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett, közvetlen Balaton-parti kapcsolattal nem rendelkező területen meghatározott települési területfelhasználási egység vízpart-rehabilitációs szabályozási követelményekben meghatározott beépítési százalékával;
 
-d) a kiemelt üdülőkörzet partközeli településeinek területén lévő, a balatoni vízpart-rehabilitációs szabályozási követelményekkel nem érintett területen a településrendezési tervekben és a helyi építési szabályzatban meghatározható beépítési szabályok szerint
+d) a kiemelt üdülőkörzet parti és partközeli településeinek területén lévő, a balatoni vízpart-rehabilitációs szabályozási követelményekkel nem érintett területen a településrendezési eszközökben meghatározható beépítési szabályok szerint
 
 történhet.
 
 (2) A vízpart-rehabilitációs szabályozási követelményekkel érintett területeken, ahol a kempingek területe nem került átsorolásra, a kempingek beépítettségének mértéke legfeljebb 15% lehet.
 
-(3) A meglévő strandok területe a településrendezési tervekben és a helyi építési szabályzatban csak zöldterület kialakítása céljából csökkenthető. A strandok területén telekfelosztás csak zöldterület kialakítása céljából, telekhatár-rendezés csak zöldterületbe sorolás vagy a strandterület növelése, illetve a telekhatár kiigazítása céljából végezhető. A telekhatár-rendezés során a strandterület parthossza nem csökkenthető. A strandok területének
+(3) A meglévő strandok területe a településrendezési eszközökben csak zöldterület kialakítása céljából csökkenthető. A strandok területén telekfelosztás csak zöldterület kialakítása céljából, telekhatár-rendezés csak zöldterületbe sorolás vagy a strandterület növelése, illetve a telekhatár kiigazítása céljából végezhető. A telekhatár-rendezés során a strandterület parthossza nem csökkenthető. A strandok területének
 
 a) legfeljebb 10%-a építhető be a külön jogszabályokban meghatározott feltételek szerint,
 

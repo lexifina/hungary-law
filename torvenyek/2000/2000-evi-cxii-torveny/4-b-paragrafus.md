@@ -1,6 +1,10 @@
 4/B. § A térségi területfelhasználási kategóriákon belül a települési területfelhasználási egységek kijelölése során a következő szabályokat kell alkalmazni:
 
-a) az erdőgazdálkodási térséget legalább 95%-ban erdőterület települési területfelhasználási egységbe kell sorolni;
+a) az erdőgazdálkodási térséget
+
+aa) legalább 95%-ban erdőterület települési területfelhasználási egységbe kell sorolni, vagy
+
+ab) legalább 85%-ban erdőterület települési területfelhasználási egységbe kell sorolni és a fennmaradó terület beépítésre szánt területbe nem sorolható, amennyiben az aa) pontban foglalt követelmény törvény eltérő rendelkezése miatt nem végrehajtható;
 
 b) a mezőgazdasági térséget legalább 95%-ban mezőgazdasági terület települési területfelhasználási egységbe kell sorolni, a fennmaradó részen nagyvárosias lakóterület nem jelölhető ki;
 
@@ -14,17 +18,9 @@ f) a vízgazdálkodási térséget legalább 95%-ban vízgazdálkodási terület
 
 g) az egyedileg meghatározott térség
 
-ga) a külön jogszabályban meghatározott különleges területek közül bányaüzem vagy a hulladéklerakó hely terület,
+ga) a beépítésre szánt különleges területek közül a nyersanyag-kitermelés (bánya), nyersanyag-feldolgozás céljára szolgáló terület, hulladékkezelő, -lerakó területe, a beépítésre nem szánt különleges területek közül a nyersanyag-kitermelés (bánya), nyersanyag-feldolgozás céljára szolgáló terület, vagy
 
-gb) a turisztikai fejlesztési terület övezetével érintett terület,
-
-gba) üdülőházas üdülőterület,
-
-gbb) a külön jogszabályokban meghatározott különleges területek közül a kemping-, strand- és sportterület, az oktatási és szabadidőközpont terület, víziközlekedési, sport- és turisztikai célú kikötő terület, nagy kiterjedésű sportolási célú terület, valamint
-
-gbc) zöldterület és
-
-gbd) erdőterület
+gb) turisztikai fejlesztési terület övezetével érintett területen a beépítésre szánt üdülőházas üdülőterület, a különleges területek közül az oktatási-kutatási központ, szabadidőközpont, vízi-közlekedési, sport- és turisztikai célú kikötő terület, állat- és növénykert területe, strandterület, sportterület, a beépítésre nem szánt zöldterület, erdőterület, természetközeli terület vagy a különleges területek közül egészségügyi épület elhelyezésére szolgáló terület, nagy kiterjedésű sportolási célú terület, vadaspark, arborétum területe
 
 települési területfelhasználási egységbe sorolható;
 

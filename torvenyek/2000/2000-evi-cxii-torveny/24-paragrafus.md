@@ -4,7 +4,7 @@
 
 a)
 
-b) a településrendezési tervek készítése során az ökológiai folyosók folytonosságát és folyamatossá tételét ökológiai vizsgálatokra alapozva kell tervezni és biztosítani;
+b) a településrendezési eszközök készítése során az ökológiai folyosók folytonosságát és folyamatossá tételét ökológiai vizsgálatokra alapozva kell tervezni és biztosítani;
 
 c) a látványvédelem (kilátás, rálátás) szempontjait mind a településrendezési és építészeti tervezés, mind pedig az egyes építmények megvalósítása során kiemelten kell érvényesíteni;
 
@@ -22,7 +22,7 @@ i) közlekedési építmények a terepi adottságokhoz alkalmazkodva, tájba ill
 
 j) új építmény elhelyezése, műszaki infrastruktúra telepítése csak tájba illesztve és a természetvédelmi kezelő hozzájárulása alapján történhet;
 
-k) 10 m magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
+k) 10 m beépítési magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
 
 l) a területen környezetszennyező tevékenység nem folytatható, csak természetes és környezetkímélő módszerek, gazdálkodás alkalmazható;
 

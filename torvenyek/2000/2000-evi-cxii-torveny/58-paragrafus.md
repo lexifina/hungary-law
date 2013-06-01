@@ -12,7 +12,7 @@ rendeletben szabályozza.
 
 a) a vízpart-rehabilitációs szabályozási követelményekkel érintett területeket kijelölje;
 
-b) a vízpart-rehabilitációs szabályozási követelmények alapján a településrendezési tervek felülvizsgálatához szükséges tanulmányterveket rendelettel fogadja el.
+b) a vízpart-rehabilitációs szabályozási követelmények alapján a településrendezési eszközök felülvizsgálatához szükséges tanulmányterveket rendelettel fogadja el.
 
 (3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a partvonal-szabályozási terveket rendelettel fogadja el.
 
