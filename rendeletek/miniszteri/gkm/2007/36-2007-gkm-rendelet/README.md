@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-36-20-0
 | 2012-01-01 | 2007-36-20-0L.7 | 95/2011. (XII. 30.) NFM rendelet |
 | 2012-05-12 | 2007-36-20-0L.8 | 95/2011. (XII. 30.) NFM rendelet |
 | 2013-01-01 | 2007-36-20-0L.9 | 79/2012. (XII. 27.) NFM rendelet |
+| 2013-06-01 | 2007-36-20-0L.10 | 25/2013. (V. 31.) NFM rendelet |
