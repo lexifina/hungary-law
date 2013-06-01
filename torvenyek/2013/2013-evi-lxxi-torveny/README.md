@@ -1,0 +1,7 @@
+# 2013. évi LXXI. törvény a dohányzással összefüggő egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-71-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2013-06-01 | 2013. évi LXXI. törvény | 2013-71-00-00.0 (közlönyállapot) |
