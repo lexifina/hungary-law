@@ -24,4 +24,8 @@
 
 11. testi épséget súlyosan veszélyeztető támadás: ha a támadó helyzetéből, tevékenységének módjából és eszközéből alaposan feltételezhető a súlyos sérülés közvetlen veszélye,
 
-12. ügyeletes: az Országgyűlési Őrség ügyeleti feladatait ellátó személy.
+12. ügyeletes: az Országgyűlési Őrség ügyeleti feladatait ellátó személy,
+
+13.[^1] rendkívüli esemény: az Országházban, az Országgyűlés Irodaházában, illetve az Országgyűlés Hivatala elhelyezésére szolgáló épületekben történő minden olyan esemény, tevékenység vagy mulasztás, ami az ott tartózkodó védett személyek életét, testi épségét, személyes szabadságát, egészségét, anyagi javait, az Országház, az Országgyűlés Irodaháza, illetve az Országgyűlés Hivatala elhelyezésére szolgáló épületek rendjét vagy az őrzésbiztonságot sérti, illetve veszélyezteti.
+
+[^1]: A 2. § 13. pontját a 18/2013. (V. 9.) BM rendelet 19. §-a iktatta be.
