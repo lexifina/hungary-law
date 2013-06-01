@@ -1,29 +1,39 @@
 ## 6. A támogatási igazolás
 
-16. § (1) Az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet támogatója kérelmére a tárgyévet (támogatás évét) követő 60 napon belül kiállítja a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) szerinti adókedvezményre jogosító támogatási igazolást.
+16. §[^28] (1) Az előadó-művészeti szervezet támogatója a támogatásnak az előadó-művészeti szervezet fizetési számlájára történő átutalásától számított 90 napon belül nyújtja be a Tao. szerinti adókedvezményre jogosító támogatási igazolás kiállítására irányuló kérelmét a kijelölt szervnek.
 
-(2) A kérelem tartalmazza az igazolás felhasználásának célját, a támogató nevét, székhelyét és adószámát. A kérelemhez csatolni kell a támogatási szerződést, valamint a teljesítés igazolását.
+(2) A kérelem tartalmazza a támogatási igazolás felhasználásának célját, az előadó-művészeti szervezet támogatójának nevét, székhelyét és adószámát. A kérelemhez csatolni kell a támogatási szerződést és a támogatott által kiállított teljesítési igazolást.
 
-(3) Az (1) bekezdésben foglaltak végrehajtása érdekében a támogatott előadó-művészeti szervezet a tárgyévet követő év január 31-ig adatot szolgáltat az előadó-művészeti államigazgatási szerv részére a „TESZOR 90.01 Előadó-művészet”-be tartozó tevékenységek, továbbá a „TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenység”-ből a bábszínházi előadás általános forgalmi adóval csökkentett tárgyévi tényleges jegy- és bérletbevételéről. E jegybevétel meghatározásánál az előadó-művészeti szervezet külföldi előadásaiból származó, a külföldi szerződő fél által kiállított igazolásban szereplő jegybevételt is figyelembe kell venni.
+(3) Az előadó-művészeti szervezet január 31-éig adatot szolgáltat a kijelölt szerv részére
 
-(4) Az előadó-művészeti szervezet támogatója kérelmére a támogatási igazolás év közben is kiállítható a tárgyévben a támogatás tényleges teljesítéséig időarányosan megvalósult tényleges jegybevétel alapján, több támogató esetén is annak legfeljebb 80%-áig. Ebben az esetben a támogatási kérelemhez a (2) bekezdésben foglaltakon túlmenően csatolni kell a támogatott szervezetnek a támogatásig időarányosan realizált tárgyévi tényleges jegybevételéről szóló nyilatkozatát is.
+a) a „TESZOR 90.01 Előadó-művészet” alá tartozó tevékenységek és
 
-(5) A támogatási igazolás tartalmazza:
+b) a „TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenység” közül a bábszínházi előadás
 
-a) a támogatást nyújtó szervezet (adózó) megnevezését, székhelyét,
+## általános forgalmi adóval csökkentett, megelőző évi tényleges jegy- és bérletbevételéről. Az előadó-művészeti szervezet külföldi előadásai közül kizárólag az EGT-tagállamokban tartott, szerződő fél által kiállított igazolásban szereplő jegybevételről kell adatot szolgáltatni.
 
-b) a támogatást nyújtó szervezet adószámát,
+(4) A (3) bekezdés szerinti adatszolgáltatáshoz csatolni kell:
 
-c) a támogatott előadó-művészeti szervezet megnevezését, székhelyét, nyilvántartási számát,
+a) a jegybevétel könyvviteli nyilvántartásokban történő rögzítését bizonyító főkönyvi kivonatot, valamint a jegybevétel elemeit tartalmazó főkönyvi kartonok tételes forgalmát,
 
-d) azt a tényt, hogy a támogató szervezet a támogatást az előadó-művészeti szervezet tevékenységéhez juttatta,
+b) a jegyet értékesítő szervezettel kötött szerződések és a jegyet értékesítő szervezet által hitelesített, a teljes, valamint az átengedett jegybevétel összegét tartalmazó jegybevétel igazolások másolatát,
 
-e) a támogatás nyújtásának időpontját, valamint
+c) gazdasági társaság esetén a tárgyévi előadások jegybevételének előadás időpontja szerinti analitikáját,
 
-f) az adókedvezményre jogosító támogatás összegét.
+d) alapítvány, egyesület esetén a számviteli rendjüknek megfelelő analitikát.
 
-(6) A társasági adókedvezmény igénybevételére jogosító támogatás a támogató részére nem jelenthet vagyoni és nem vagyoni előnyt.
+(5) A kijelölt szerv által kiállított támogatási igazolás tartalmazza:
 
-(7) Az előadó-művészeti szervezet köteles a társasági adókedvezményre jogosító támogatást elkülönítetten nyilvántartani.
+a) az előadó-művészeti szervezet támogatójának megnevezését, székhelyét és adószámát,
 
-(8) Az előadó-művészeti államigazgatási szerv a kiadott támogatási igazolásokkal összefüggésben birtokába került okiratokat, egyéb dokumentumokat az igazolás kiadásának évét követő 10 évig köteles megőrizni.
+b) az előadó-művészeti szervezet megnevezését, székhelyét és nyilvántartási számát,
+
+c) azt a tényt, hogy az előadó-művészeti szervezet támogatója a támogatást az előadó-művészeti szervezet tevékenységéhez juttatta,
+
+d) a támogatás nyújtásának időpontját és
+
+e) az adókedvezményre jogosító támogatás összegét.
+
+(6) A kijelölt szerv a támogatási igazolással összefüggésben birtokába került okiratokat és egyéb dokumentumokat a támogatási igazolás kiállításának évét követő 10 évig őrzi meg.
+
+[^28]: A 16. § a 35/2013. (V. 22.) EMMI rendelet 4. §-ával megállapított szöveg.

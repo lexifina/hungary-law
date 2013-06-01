@@ -1,1 +1,3 @@
-## 22. § A 2011. augusztus 1-jétől 2012. július 31-ig terjedő évadra a 6. melléklet szerinti adattartalommal benyújtott művészeti évadbeszámolóban teljesített adatszolgáltatás során a nyilvántartásba vett színházak, bábszínházak, balett- vagy táncegyüttesek vendég- és tájelőadásainak fizetőnézőszámát a létrehozó és a fogadó előadó-művészeti szervezet is elszámolhatja.
+## 22. §[^31]
+
+[^31]: A 22. §-t a 35/2013. (V. 22.) EMMI rendelet 9. §-a hatályon kívül helyezte.

@@ -1,8 +1,8 @@
-## A központi költségvetésből folyósított támogatás mértékének megállapításához szükséges adatszolgáltatás (művészeti évadbeszámoló) színház, balett-együttes és táncegyüttes részére
+## A központi költségvetésből folyósított támogatás mértékének megállapításához szükséges
+
+## adatszolgáltatás (művészeti évadbeszámoló) színház, balettegyüttes és táncegyüttes részére
 
 ## I. Szöveges évadértékelés
-
-## Az adatszolgáltatás évében lezáruló évadra vonatkozóan kell megadni.
 
 ## Az értékelés során csak az előadó-művészeti szervezet szempontjából értelmezhető információkat, adatokat kell megadni.
 
@@ -10,263 +10,277 @@
 
 ## A kulturális szolgáltatásokkal kevésbé ellátott régiók meghatározása a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet 2. melléklete alapján történhet.
 
-## a) társulati művészeti-szakmai közösségépítő tevékenység bemutatása
+## a) Társulati művészeti-szakmai közösségépítő tevékenység bemutatása:
 
-## 1. az évadra kitűzött ez irányú célok és azok megvalósulása (továbbképzés, workshop, tanulmányutak szervezése, vendégművészek – rendezők, tervezők – meghívása stb.)
+## 1. az évadra kitűzött ez irányú célok és azok megvalósulása, e vonatkozásban különösen a továbbképzés, workshop, tanulmányutak szervezése, vendégművészek – rendezők, tervezők – meghívásának ismertetése;
 
-## 2. társulati tagok egyéb, a szervezet működéséhez közvetlenül nem kapcsolódó művészi tevékenységének bemutatása (vendégszereplések más előadó-művészeti szervezet produkciójában, filmben, rádióban stb.)
+## 2. társulati tagok egyéb, a szervezet működéséhez közvetlenül nem kapcsolódó művészi tevékenységének bemutatása, ennek keretében különösen a vendégszereplések más előadó-művészeti szervezet produkciójában, filmben, rádióban;
 
-## 3. a társulat foglalkoztatottsága, munkamegosztása (a művészi vagy művészeti munkakörben foglalkoztatottak által teljesített produkciók, a társulat leterheltsége, szabad kapacitása tekintetében stb.)
+## 3. a társulat foglalkoztatottsága, munkamegosztása, ennek keretében különösen művészi vagy művészeti munkakörben foglalkoztatottak által teljesített produkciók, a társulat leterheltsége, szabad kapacitása tekintetében.
 
-## b) hazai és nemzetközi szakmai és művészeti kapcsolatépítési és együttműködési gyakorlat bemutatása
+## b) Hazai és nemzetközi szakmai és művészeti kapcsolatépítési és együttműködési gyakorlat bemutatása:
 
-## 1. együttműködések, projektek bemutatása (időbeli hatályuk, tartalmi-tematikai összefoglalás, hosszú távú együttműködés esetén a már megvalósult, a lekötött programok, továbbá a jövőbeli programütemezés bemutatásával stb.)
+## 1. együttműködések, projektek bemutatása, ennek keretében különösen időbeli hatályuk, tartalmi-tematikai összefoglalásuk, a hosszú távú együttműködés esetén a már megvalósult, a lekötött programok, továbbá a jövőbeli programütemezés bemutatása;
 
-## 2. meghívott művészek vagy előadások, illetve csereelőadások és vendégszereplések felsorolása, rövid bemutatása (célja, eredményei)
+## 2. meghívott művészek vagy előadások, illetve csereelőadások és vendégszereplések felsorolása, rövid bemutatása;
 
-## 3. fesztiválokon való részvétel, illetve fesztiválszervezés (szervezés esetén célja, célközönség meghatározása, hasznosulása kulturális, gazdasági és egyéb releváns szempontok alapján stb.)
+## 3. fesztiválokon való részvétel;
 
-## c) a repertoár-játszáshoz és a többtagozatos művészeti struktúrához kapcsolódó művészeti gyakorlat bemutatása
+## 4. fesztiválszervezés, ennek keretében különösen a cél, valamint a célközönség meghatározása, az esemény hasznosulása kulturális, gazdasági és egyéb releváns szempontok alapján.
 
-## 1. az évadra kitűzött célok és azok megvalósulásának tagozatonkénti összefoglalása (műsorpolitikai célkitűzések és azok teljesülése, repertoár bemutatása stb.)
+## c) A repertoár-játszáshoz és a többtagozatos művészeti struktúrához kapcsolódó művészeti gyakorlat bemutatása:
 
-## 2. a tagozatok egymáshoz való kapcsolódása (a több tagozatot is érintő produkciók bemutatása, működés)
+## 1. az évadra kitűzött célok és azok megvalósulásának tagozatonkénti összefoglalása, ennek keretében különösen műsorpolitikai célkitűzések és azok teljesülése, valamint a repertoár bemutatása;
 
-## d) közönségkapcsolati rendszer bemutatása
+## 2. a tagozatok egymáshoz való kapcsolódása, a több tagozatot is érintő produkciók bemutatása, együttműködése.
 
-## 1. közönségszervezési munka bemutatása (az évadra meghatározott feladatok és teljesítésük, különösen a módszerek, az eszközök és az eredményesség tekintetében)
+## d) Közönségkapcsolati rendszer bemutatása:
 
-## 2. karitatív tevékenyég bemutatása (kedvezményrendszer, együttműködések, a művészeti munkához közvetlenül nem kapcsolódó tevékenységek stb.)
+## 1. a közönségszervezési munka bemutatása, ennek keretében különösen az évadra meghatározott feladatok és teljesítésük, a módszerek, eszközök és az eredményesség tekintetében;
 
-## 3. közösségépítő tevékenység, önkéntesek bevonása
+## 2. a karitatív tevékenység bemutatása, ennek keretében különösen a kedvezményrendszer, együttműködések, a művészeti munkához közvetlenül nem kapcsolódó tevékenységek ismertetése;
 
-## 4. az egyenlő bánásmód jegyében tett intézkedések (előadások akadálymentesítése)
+## 3. közösségépítő tevékenység, önkéntesek bevonása;
 
-## e) jegyértékesítési rendszer bemutatása
+## 4. az egyenlő bánásmód jegyében tett intézkedések, az előadások akadálymentesítése.
 
-## 1. marketingstratégia bemutatása
+## e) Jegyértékesítési rendszer bemutatása:
 
-## 2. módszerei, eszközei (hálózat működtetése, területi hatókör, csatornák stb.)
+## 1. marketingstratégia bemutatása;
 
-## 3. bérletek bemutatása mutatószámokkal (gyermek- és ifjúsági, nyugdíjas, felnőtt, középiskolai korosztálynak hirdetett stb.), bérleteken belüli telítettség stb.
+## 2. a jegyértékesítés módszerei, eszközei, ennek keretében különösen a hálózat működtetése, területi hatókör, csatornák;
 
-## f) nézőszám növelésének gyakorlata
+## 3. a bérletek bemutatása mutatószámokkal, ennek keretében különös tekintettel a gyermek- és ifjúsági, nyugdíjas, felnőtt, középiskolai korosztálynak hirdetett, bérleteken belüli telítettségre.
 
-## 1. új közönségréteg megszólítása (különösen gyermek- és ifjúsági, valamint 18–40 éves korosztály, eszközök, eredmények)
+## f) A nézőszám növelésének gyakorlata:
 
-## 2. új, nem hagyományos módszerek és eszközök alkalmazásának gyakorlata, elvárások és kihívások kezelése
+## 1. új közönségréteg megszólítása, különösen a gyermek- és ifjúsági és a 18–40 éves korosztály vonatkozásában, eszközök, eredmények ismertetése;
 
-## 3. kedvezményrendszer és eredményei
+## 2. új, nem hagyományos módszerek és eszközök alkalmazásának gyakorlata, elvárások és kihívások kezelése;
 
-## g) médiakapcsolati tevékenység bemutatása
+## 3. kedvezményrendszer és eredményei.
 
-## 1. helyi, regionális és országos hatókör és médiumok-felületek szerinti bemutatás
+## g) Médiakapcsolati tevékenység bemutatása:
 
-## 2. premier előtti és utáni médiaaktivitások (ezen belül különösen kritikai visszhang és saját anyag megjelentetése)
+## 1. helyi, regionális és országos hatókör és médiumok-felületek szerinti bemutatása;
 
-## 3. társulat tagjainak médiaaktivitásai (produkciókat népszerűsítő, illetve produkcióhoz nem köthető)
+## 2. premier előtti és utáni médiaaktivitások, ezen belül különösen kritikai visszhang és saját anyag megjelentetése;
 
-## 4. saját gyártású anyagok és az alkalmazás felületeinek bemutatása
+## 3. a társulat tagjainak médiaaktivitásai, különös tekintettel a produkció-népszerűsítő, illetve produkcióhoz nem köthető aktivitásokra;
 
-## 5. gyermek- és ifjúsági korosztály védelmét szolgáló nézőtájékoztatási rendszere korhatárokról való tájékoztatás módja, formája
+## 4. saját gyártású anyagok és az alkalmazás felületeinek bemutatása;
 
-## h) saját előadásaihoz kapcsolódó jegyárbevételeken túli, egyéb bevételi források feltárásával összefüggő tevékenység bemutatása és annak eredményessége
+## 5. a gyermek- és ifjúsági korosztály védelmét szolgáló nézőtájékoztatási rendszer, a korhatárokról való tájékoztatás módja, formája.
 
-## i) helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítés bemutatása
+## h) Saját előadásokhoz kapcsolódó jegyár-bevételeken túli, egyéb bevételi források feltárásával összefüggő tevékenység bemutatása és annak eredményessége.
 
-## 1. együttműködések bemutatása, időbeli hatálya, célja, módszere, eredményei (saját vagy más szervezet által megvalósított projekt, fenntartó által elvárt célfeladat teljesítés, a részvétel bemutatása személyi, tárgyi és pénzügyi oldala stb.)
+## i) Helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítés bemutatása:
 
-## 2. hagyományteremtő/hagyományápoló tevékenység
+## 1. együttműködések bemutatása, időbeli hatálya, célja, módszere, eredményei, különös tekintettel a saját vagy más szervezet által megvalósított projekt, fenntartó által elvárt célfeladat teljesítésre, valamint a részvétel bemutatásának személyi, tárgyi és pénzügyi oldala;
 
-## 3. helyi művészekkel való együttműködés bemutatása
+## 2. hagyományteremtő, hagyományápoló tevékenység;
 
-## j) az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz való kapcsolódás bemutatása
+## 3. helyi művészekkel való együttműködés bemutatása.
 
-## az együttműködés bemutatása (időbeli hatálya, célja, módszere, eszközei, elért eredmények stb.)
+## j) Az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz való kapcsolódás bemutatása, ennek keretében különösen a cél érdekében létrejött együttműködés bemutatása, annak időbeli hatályának, céljának, módszereinek, eszközeinek, valamint az elért eredmények ismertetése.
 
-## k) a gyermek-, illetve ifjúsági korosztály igényes színházra nevelésének gyakorlata
+## k) A gyermek-, illetve ifjúsági korosztály igényes színházra nevelésének gyakorlata, ennek keretében különösen a módszertani leírások, foglalkozástípusai, tematikája, eredményeinek ismertetése, előadásszámok feltüntetésével.
 
-## módszertani leírások, foglalkozás típusai, tematikája, eredmények stb. bemutatása előadásszámok feltüntetésével
+## l) Helyi és országos turisztikai célokhoz való kapcsolódás részletezése.
 
-## l) helyi és országos turisztikai célokhoz való kapcsolódás részletezése
-
-## m) vezetőjének vezetői pályázatában rögzített, a művészeti tevékenységgel összefüggő vállalásainak teljesülése
-
-## 2011. augusztus 18. után meghirdetett vezetői pályázatok esetén: az évadra vonatkozó teljesülés, illetve a pályázatban foglalt koncepcióval való összevetés
+## m) Az előadó-művészeti szervezet vezetőjének vezetői pályázatában rögzített, a művészeti tevékenységgel összefüggő vállalások teljesülése, a 2011. augusztus 18. után meghirdetett vezetői pályázatok esetén az évadra vonatkozó teljesülés, illetve a pályázatban foglalt koncepcióval való összevetés.
 
 ## II. Mutatószámok
 
-## A tény- és tervadatokat külön táblázatban kell feltüntetni.
+## A tény- és tervadatokat külön táblázatban kell feltüntetni. A *-gal jelölt adatokat csak az egész évad vonatkozásában, a teljes évadra vonatkozó tényadatok megküldésekor kell megadni.
 
 ## 1. Tényadatok időszaka:
 
-## …………………….. (tárgyévet megelőző) év augusztus 1-jétől …………….(tárgy)év május 31-ig.
+## ………………………… (tárgyévet megelőző) év augusztus 1-jétől ………………………… (tárgy)év május 31-éig.
 
-## Szabadtéri színházak esetén a tényadatok időszaka: ………………(tárgyévet megelőző) év, …………….. hónap …… napjától ……………… (tárgyévet megelőző) év ………………. hónap ………… napjáig.
+## (Szabadtéri színházak esetén a tényadatok időszaka: ………………………… (tárgyévet megelőző) év, ………… hónap …… napjától ………………………… (tárgyévet megelőző) év ………… hónap …… napjáig.
 
 ## 2. Tervadatok időszaka:
 
-## …………………….. (tárgy)év június 1-jétől …………….(tárgy)év július 31-ig.
+## ………………………… (tárgy)év június 1-jétől ………………………… (tárgy)év július 31-éig.
 
 | Művészeti évadbeszámoló - Mutatószámok |
 
-| Előadó-művészeti szervezet neve | székhely szerinti településen játszott előadások | székhely szerinti településen kívül játszott előadások (tájelőadások) |  |  |  |
+|  | székhely szerinti településen játszott előadások | székhely szerinti településen kívül játszott előadások (tájelőadások) |  |  |  |
 
-| Főszín- pad (nagy-színpad) | további állandó játszóhelyek / további, alapító okirat szerinti telephelyek | állandó játszóhelyen kívüli előadások | alapító okirat szerinti állandó játszóhelyen játszott előadások | adott székhely szerinti régióban (megyében) játszott előadások | országos előadások | nemzetközi előadások |  |  |  |
+| Előadó-művészeti szervezet neve | Főszínpad (nagy- színpad) | további állandó játszóhelyek / további, alapító okirat szerinti telephelyek | állandó játszóhelyen kívüli előadások | alapító okirat szerinti állandó játszóhelyen játszott előadások | adott székhely régiójában (megyéjében) játszott előadások | országos előadások | nemzetközi előadások |  |  |  |
 
-| Stúdió | További helyszín neve | További helyszín neve | Kulturális szolgáltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kulturális szolgá130 ltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kárpát-medencei magyar lakta területeken kívül tartott előadások | Kárpát-medencei magyar lakta területeken tartott előadások | Fizetőnézőszám összesítése | Össznézőszámok összesítése | Előadásszámok összesítése |
+|  | Stúdió | További helyszín neve | További helyszín neve | Kulturális szolgáltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókon kívül játszott előadások | Kulturális szolgáltatásokkal kevésbé ellátott régiókban játszott előadások | Kárpát-medencei magyar lakta területeken kívül tartott előadások | Kárpát-medencei magyar lakta területeken tartott előadások | Fizetőnézőszám összesítése | Össznézőszámok összesítése | Előadásszámok összesítése |
 
-| Befogadóképesség (pótszék nélkül, fő) |  |  |  |  |  |
+| Befogadó-képesség (pótszék nélkül, fő) |  |  |  |  |  |
 
-| Saját előadások nézőszáma és előadásszáma | Balett- és táncelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| Saját előadások nézőszáma és előadásszáma | Balett- és táncelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| Opera előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
-
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| Klasszikus operett előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
-
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| Zenés színpadi mű előadás | Élőzene- karral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
-
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| Nem élőzene- karral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
-
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Gyermek- és ifjúsági előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| Operaelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| Bábelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
-
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
-
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| Prózai előadások | fizetőnézőzám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
-
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
-
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
-
-| Vendégelőadások nézőszáma és előadásszáma | Balett- és táncelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
-
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Opera előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Klasszikus operettelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Klasszikus operett előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Zenés színpadi mű előadás | Élőzenekarra, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+|  | előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Zenés színpadi mű előadás | Élőzene- karral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Nem élőzenekarral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Nem élőzene- karral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Gyermek- és ifjúsági előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Gyermek- és ifjúsági előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Bábelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Bábelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Stúdió előadások | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Prózai előadások | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Koprodukcióban készült előadások nézőszáma és előadásszáma | Balett- és táncelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Vendégelőadások nézőszáma és előadásszáma | Balett- és táncelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Opera előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Operaelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Klasszikus operett előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+|  | Klasszikus operettelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Zenés színpadi mű előadás | Élőzenekarral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Zenés színpadi mű előadás | Élőzenekarral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Nem élőzenekarral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Nem élőzenekarral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Gyermek- és ifjúsági előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Gyermek- és ifjúsági előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Bábelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| Bábelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Prózai előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / | / |
+| Stúdió előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Összes | Fizetőnéző- szám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |
+| Prózai előadások | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| nézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |  |  |
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | / |
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Koprodukcióban készült előadások nézőszáma és előadásszáma | Balett- és táncelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Operaelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Klasszikus operettelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Zenés színpadi mű előadás | Élőzenekarral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Nem élőzenekarral, énekkarral előadott előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Gyermek- és ifjúsági előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Bábelőadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Stúdió előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Prózai előadás | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| össznézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Összes | fizetőnézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| nézőszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| előadásszám |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | befogadó-képesség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -284,7 +298,7 @@
 
 | Összes koprodukciós bemutatóból klasszikus magyar szerző műve |  |
 
-| Összes saját bemutatóból gyermek- és ifjúsági bemutató |  |
+| Összes koprodukciós bemutatóból gyermek- és ifjúsági bemutató |  |
 
 | Összes saját bemutatóból prózai színpadi mű bemutató |  |
 
@@ -294,18 +308,20 @@
 
 | Az évadban realizált saját előadások nettó jegyárbevétele (Ft) |  |
 
-| Az évadban realizált vendégelőadások nettó jegyárbevétele (Ft) |  |
+| Az évadban realizált fogadott előadások nettó jegyárbevétele (Ft) |  |
 
 | Az évadban realizált koprodukciós előadások nettó jegyárbevétele (Ft) |  |
 
-| Egy fizetőnézőre jutó nettó jegyárbevétel (Ft) |  |
+| Egy fizetőnézőre jutó nettó jegyárbevétel (Ft) * |  |
 
-| Egy fizetőnézőre jutó, az államháztartás valamely alrendszeréből származó támogatás (Ft) |  |
+| Egy fizetőnézőre jutó, az államháztartás valamely alrendszeréből származó támogatás (Ft) * |  |
 
-| Fizető átlagnézőszám aránya a befogadóképességhez képest |  |
+| Fizető átlagnézőszám aránya a befogadóképességhez képest * |  |
 
-| Saját előadások aránya az összes előadáshoz képest |  |
+| Saját előadások aránya az összes előadáshoz képest * |  |
 
-| Fizető átlagnézőszám aránya a befogadóképességhez képest az előző évadban |  |
+| Fizető átlagnézőszám aránya a befogadóképességhez képest az előző évadban * |  |
+
+## ”
 
 7. melléklet a 14/2012. (III. 6.) NEFMI rendelethez
