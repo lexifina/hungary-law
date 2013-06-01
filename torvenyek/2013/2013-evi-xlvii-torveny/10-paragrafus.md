@@ -1,0 +1,3 @@
+10. § A Btv. 22/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A Balaton Kiemelt Üdülőkörzet Területrendezési Tervében lehatárolt kiemelt térségi övezeteket a településszerkezeti terv készítése során a településrendezési eszközökről szóló jogszabály szerinti megalapozó vizsgálatban és alátámasztó javaslatban, a településrendezési eszközök készítése során a kiemelt térségi övezetek területi érintettségével kapcsolatosan külön jogszabály szerint állásfoglalásra kötelezett államigazgatási szervek állásfoglalása alapján, a területfejlesztésről és a területrendezésről szóló törvény előírásai szerint kell lehatárolni.”
