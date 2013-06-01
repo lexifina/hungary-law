@@ -1,0 +1,3 @@
+## 1. § Az 50 MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló 10/2003. (VII. 11.) KvVM rendelet 2. § (1) bekezdés d) pontjában a „kivéve a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 1. számú mellékletében felsorolt hulladékkategóriák szerinti anyagokat, a hulladékok jegyzékéről szóló jogszabály mellékletében felsorolt hulladékokat,” szövegrész helyébe a „kivéve a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet 1. és 2. számú mellékletében felsorolt hulladékokat,” szöveg lép.
+
+## 2. A vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló 28/2004. (XII. 25.) KvVM rendelet módosítása
