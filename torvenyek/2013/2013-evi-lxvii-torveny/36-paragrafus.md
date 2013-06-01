@@ -1,5 +1,3 @@
-## „(6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését az ÁAK Zrt. látja el. Ennek végrehajtása érdekében a KKK szerződést köt az ÁAK Zrt.-vel.”
-
 36. § (1) A Kkt. 48. § (3) bekezdés a) pont 15. alpontja helyébe a következő rendelkezés lép:
 
 (Felhatalmazást kap
