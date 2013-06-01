@@ -1,59 +1,59 @@
-8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez
+8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^58]
 
 Nyilvántartásba vételi adatok az újrahasználható csomagolószerek Főfelügyelőséghez történő bejelentéséhez
 
-I. Alapadatok:
+1. Alapadatok
 
-a) név,
+2. A kérelmező
 
-b) adószám, adóazonosító,
+2.1. neve,
 
-c) bankszámlaszám,
+2.2. adószáma, adóazonosító jele,
 
-d) kötelezett székhelye,
+2.3. bankszámlaszáma,
 
-e) levelezési cím,
+2.4. székhelyének címe,
 
-f) ügyintéző neve,
+2.5. levelezési címe,
 
-g) ügyintéző telefonszáma,
+2.6. ügyintézőjének neve,
 
-h) képviselőjének neve,
+2.7. ügyintézőjének telefonszáma,
 
-i) képviselőjének adószáma,
+2.8. képviselőjének neve,
 
-j) oldalak száma,
+2.9. képviselőjének adószáma.
 
-k) csekély mennyiség mennyiségi határ átlépésének bejelentése, időpontja,
+3. Oldalak száma
 
-l) keltezés, cégszerű aláírás.
+4. Keltezés, cégszerű aláírás
 
-II. Újrahasználható csomagolószerre vonatkozó adatok:
+5. Újrahasználható csomagolószerre vonatkozó adatok:
 
-a) adatsor sorszáma,
+5.1. adatsor sorszáma,
 
-b) GTIN azonosító száma, vagy ennek hiányában a nyilvántartást vezető által adott azonosítószám,
+5.2. GTIN azonosító száma, vagy ennek hiányában a nyilvántartást vezető által adott azonosítószám,
 
-c) megnevezése,
+5.3. megnevezése,
 
-d) vámtarifaszám,
+5.4. vámtarifaszáma,
 
-e) CsK kódjának 1–3 jegye,
+5.5. CsK kódjának 1–3 jegye,
 
-f) anyaga,
+5.6. anyaga,
 
-g) nettó tömege (termékdíj alapja),
+5.7. nettó tömege (termékdíj alapja),
 
-h) mérete (szélesség, mélység, magasság),
+5.8. mérete (szélesség, mélység, magasság),
 
-i) nettó töltési mennyisége,
+5.9. nettó töltési mennyisége,
 
-j) fényképe,
+5.10. fényképe,
 
-k) átlagos élettartama,
+5.11. átlagos élettartama,
 
-l) átlagos forgási sebessége,
+5.12. átlagos forgási sebessége,
 
-m) bejelentés érvényességének időpontja,
+5.13. keltezés, cégszerű aláírás.
 
-n) keltezés, cégszerű aláírás.
+[^58]: A 8. melléklet a 139/2013. (V. 13.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

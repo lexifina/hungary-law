@@ -78,9 +78,9 @@
 
 ## f) egyéni hulladékkezelés keretében kezelt mennyiség.
 
-## VII. A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
+## VII.[^55] A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
 
-## 1. Átvállalással érintett termék adatai
+## 1. Átvállalással érintett termék adatai:
 
 ## a) KT, CSK kód,
 
@@ -88,21 +88,21 @@
 
 ## 2. Az átvállalt mennyiség jogcímek szerint:
 
-## a) egyéb kőolajtermék számlában átvállalt mennyisége,
+## a) egyéb kőolajtermék számlán átvállalt mennyisége,
 
-## b) első vevő által külföldre történő kivitelre átvett mennyiség,
+## b) első vevő által külföldre történő kivitelre átvett, külföldre kivitt, belföldre kibocsátott mennyiség,
 
-## c) első vevő által külföldre kivitt mennyiség,
+## c) bérgyártó által átvett mennyiség,
 
-## d) első vevő által belföldi forgalomba hozott mennyiség,
+## d) termelői szerveződés által átvett mennyiség,
 
-## e) bérgyártásból származó mennyiség,
+## e) csomagolószer továbbértékesítője által átvett mennyiség,
 
-## f) termelői szerveződés által átvett termékdíjköteles termék mennyisége,
+## f) csomagolást előállító vevő által átvett mennyiség,
 
-## g) csomagolást előállító első belföldi vevő által átvett mennyiség,
+## g) csomagolószert előállító belföldi vevő által átvett mennyiség,
 
-## h) csomagolóeszközt előállító első belföldi vevő által átvett mennyiség.
+## h) csomagolóanyag kiskereskedelmi értékesítője által átvett mennyiség.
 
 ## VIII. A nyilatkozattal átadott termékdíj-kötelezettség átadása
 
@@ -149,3 +149,5 @@ A termékdíjköteles termék:
 8. a termékdíj bevallásának adó-megállapítási időszaka,
 
 9. a termékdíj megfizetésének napja.
+
+[^55]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -58,7 +58,7 @@
 
 ## 5. Az átvállalás jogcíme
 
-3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^39]
+3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^53]
 
 ## A Ktdt. 3. § (6) bekezdésében meghatározott nyilatkozat mintája
 
@@ -76,4 +76,4 @@
 
 2. időszaki nyilatkozat esetén:
 
-[^39]: A 3. melléklet a 366/2012. (XII. 17.) Korm. rendelet 42. § (5) bekezdése szerint módosított szöveg.
+[^53]: A 3. melléklet a 366/2012. (XII. 17.) Korm. rendelet 42. § (5) bekezdése szerint módosított szöveg.

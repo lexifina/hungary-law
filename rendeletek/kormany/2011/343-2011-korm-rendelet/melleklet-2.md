@@ -4,119 +4,125 @@
 
 ## I. Csomagolószerként is felhasználható termékek vámtarifaszámai
 
-## Az ex jelzéssel ellátott vámtarifaszám alá tartozó termékek közül azon termékek tartoznak a termékdíjas szabályozás hatálya alá, amelyek megfelelnek a vámtarifaszámhoz tartozó megnevezésnek, és nem kerültek meghatározásra a kivételek alatt.
+## Az ex jelzéssel ellátott, a Kombinált Nómenklatúra 2010. január 1-jén hatályos vámtarifaszámai alá tartozó termékek közül azon termékek tartoznak a termékdíjas szabályozás hatálya alá, amelyek megfelelnek a vámtarifaszámhoz tartozó megnevezésnek és nem kerültek meghatározásra a kivételek alatt.
 
-| ssz. | Vámtarifaszám (vtsz.) | Megnevezés | Kivétel |
+| Sorszám | Megnevezés | Vtsz., HR és KN alszám |
 
-| 1. |  | Növényi anyagok |  |
+| 1. | Növényi anyag |  |
 
-| 1.1. | ex. 1401 90 | Elsősorban fonatkészítésre használatos növényi anyag (nád, gyékény, rafia, gabonaszalma stb.) | – nem csomagolás párnázó vagy kitöltő anyaga |
+| 1.1. | Elsősorban fonatkészítésre használatos növényi anyag (nád, gyékény, rafia, gabonaszalma stb.) csomagolási célra | ex. 1401 90 |
 
-| 1.2. | ex. 1404 90 | Másutt nem említett növényi eredetű anyag | – nem csomagolás párnázó vagy kitöltő anyaga |
+| 1.2. | Másutt nem említett növényi eredetű anyag csomagolási célra | ex. 1404 90 |
 
-| 2. |  | Műanyagok |  |
+| 2. | Műanyag |  |
 
-| 2.1. | ex. 3919 | Öntapadó műanyag lap, lemez, film, fólia, szalag, csík és más sík formában, tekercsben is | – építőipari áru |
+| 2.1. | Öntapadó műanyag lap, lemez, film, fólia, szalag, csík és más sík formában, tekercsben is kivéve: az építési termék; a villamosszigetelési, elektrotechnikai áru | ex. 3919 |
 
-| 2.2. | ex. 3920 | Más műanyag lap, lemez, film, fólia, szalag és csík, amely nem porózus, és nem erősített, nem laminált, nem alátámasztott vagy más anyagokkal hasonlóan nem kombinált | – építőipari áru |
+| 2.2. | Más műanyag lap, lemez, film, fólia, szalag és csík, amely nem porózus, és nem erősített, nem laminált, nem alátámasztott vagy más anyagokkal hasonlóan nem kombinált kivéve: az építési termék, a bútoripari áru; a villamos szigetelési áru; a kordonszalag; | ex. 3920 |
 
-| 2.3. | ex. 3921 | Más műanyag lap, lemez, film, fólia, szalag és csík | – építőipari áru |
+| 2.3. | Más műanyag lap, lemez, film, fólia, szalag és csík kivéve: az építési termék; a villamos szigetelési áru | ex. 3921 |
 
-| 2.4. | 3923 | Műanyag eszközök termékszállítására vagy csomagolására; műanyag dugó, fedő, kupak és más lezáró |  |
+| 2.4. | Műanyag eszközök termék szállítására vagy csomagolására legfeljebb 300 liter űrtartalommal; műanyag dugó, fedő, kupak és más lezáró; műanyag bevásárló reklámtáska kivéve: az elkülönített hulladék gyűjtésére szolgáló zsák*; a megújuló forrásból készült, biológiai úton lebomló műanyag szemeteszsák**; a hulladékgyűjtő edény | ex. 3923 |
 
-| 2.5. | ex. 3924 | Egyszer használatos műanyag edények |  |
+| 2.5. | Egyszer használatos műanyag edények | ex. 3924 |
 
-| 3. |  | Gumiáruk |  |
+| 3. | Gumi |  |
 
-| 3.1. | ex. 4016 | Vulkanizált lágygumiból készült lezáró termék üveghez (dugó, gyűrű stb.) |  |
+| 3.1. | Vulkanizált lágygumiból készült lezáró termékek (dugó, gyűrű stb.) | ex. 4016 |
 
-| 4. |  | Faáruk |  |
+| 4. | Fa |  |
 
-| 4.1. |  | Furnérlap |  |
+| 4.1. | Furnérlap tűlevelű fából kivéve: építési termék, bútoripari áru | ex. 4408 10 |
 
-| 4.1.1. | ex. 4408 10 | – tűlevelű fából | – építőipari vagy bútoripari áru |
+| 4.2. | Furnérlap más fából kivéve: építési termék, bútoripari áru | ex. 4408 90 |
 
-| 4.1.2. | ex. 4408 90 | – más | – építőipari vagy bútoripari áru |
+| 4.3. | Forgácslemez, irányított forgácselrendezésű lemez (OSB) és hasonló tábla fából vagy más fatartalmú anyagból, gyantával vagy más szerves kötőanyagokkal agglomerálva (tömörítve) is kivéve: építési termék, bútoripari áru | ex. 4410 |
 
-| 4.2. | ex. 4410 | Forgácslemez, irányított forgácselrendezésű lemez (OSB) és hasonló tábla fából vagy más fatartalmú anyagból, gyantával vagy más szerves kötőanyagokkal agglomerálva (tömörítve) is | – építőipari vagy bútoripari áru |
+| 4.4. | Rostlemez fából vagy más fatartalmú anyagból, gyantával vagy más szerves anyaggal összeragasztva is kivéve: építési termék, bútoripari áru | ex. 4411 |
 
-| 4.3. | ex. 4411 | Rostlemez fából vagy más fatartalmú anyagból, gyantával vagy más szerves anyaggal összeragasztva is | - építőipari vagy bútoripari minőségű |
+| 4.5. | Fából készült láda, doboz, rekesz, dob és hasonló csomagolóeszköz; kábeldob fából; rakodólap, keretezett és más szállítólap; rakodólapkeret fából | 4415 |
 
-| 4.4. | 4415 | Fából készült láda, doboz, rekesz, dob és hasonló csomagolóeszköz; kábeldob fából; rakodólap, keretezett és más szállítólap; rakodólap-keret fából |  |
+| 5. | Parafa |  |
 
-| 4.5. |  | Más faáru |  |
+| 5.1. | Természetes parafából készült dugó és lezáró termékek | 4503 10 |
 
-| 4.6. |  | Természetes parafából készült termék |  |
+| 5.2. | Agglomerált parafából (kötőanyaggal is) készült dugó és lezáró termékek | ex. 4504 10 ex. 4504 90 |
 
-| 4.6.1. | 4503 10 | – dugó és lezárók |  |
+| 6. | Kosáráru, fonásáru |  |
 
-| 4.7. |  | Agglomerált parafa (kötőanyaggal is) és ebből készült termék |  |
+| 6.1. | Kosáráru, fonásáru és fonásanyagból közvetlenül kész alakban előállított más termék vagy a 4601 vtsz. alá tartozó anyagokból készült termék kivéve: nem egyszer használatos termékek | ex. 4602 |
 
-| 4.7.1. 4.7.2. | ex. 4504 10 ex. 4504 90 | – dugó és lezáró |  |
+| 7. | Papír, karton |  |
 
-| 4.8. | ex. 4602 | Kosáráru, fonásáru és fonásanyagból közvetlenül kész alakban előállított más termék vagy a 4601 vtsz. alá tartozó anyagokból készült termék; | – a nem egyszer használatos termék |
+| 7.1. | Nem bevont papír és karton írásra, nyomtatásra vagy más grafikai célra, és nem perforált lyukkártya- és lyukszalagpapír tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4801 vagy 4803 vtsz. alá tartozó papír kivételével kivéve: a kézi merítésű papír és karton (4802 10); a tapéta alappapír; a képeslappapír és könyvnyomó papír; az irodai papír (fénymásolópapír); iskolafüzet; jegyzettömb; pénztárgép-papír; biztonsági papír | ex. 4802 |
 
-| 5. |  | Papír és karton áruk |  |
+| 7.2. | Selyem alappapír, kreppelt, ráncolt, domborított, perforált, felületileg színezett, díszített vagy nyomtatott alappapír, cellulózvatta és cellulózszálból álló szövedék, tekercsben vagy ívben kivéve: háztartási, egészségügyi alappapír; bútoripari, ruhaipari áru | ex. 4803 |
 
-| 5.1. | ex. 4802 | Nem bevont papír és kartonírásra, nyomtatásra vagy más grafikai célra, és nem perforált lyukkártya- és lyukszalagpapír tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4801 vagy 4803 vtsz. alá tartozó papír kivételével | – kézi merítésű papír és karton (4802 10) – tapéta alappapír – képeslap-papír és könyvnyomó papír – irodai papír (iskolafüzet, jegyzettömb, pénztárgép-papír, biztonsági papír stb.) |
+| 7.3. | Nem bevont nátronpapír és -karton tekercsben vagy ívben, a 4802 vagy 4803 vtsz. alá tartozók kivételével | 4804 |
 
-| 5.2. | ex. 4803 | Selyem alappapír, kreppelt, ráncolt, domborított, perforált, felületileg színezett, díszített vagy nyomtatott alappapír, cellulózvatta és cellulózszálból álló szövedék, tekercsben vagy ívben | - háztartási vagy egészségügyi alappír |
+| 7.4. | Nem bevont más papír és karton tekercsben vagy ívben a termékcsoporthoz tartozó Megjegyzések 3. pontjában megengedettnél nem nagyobb mértékben megmunkálva vagy feldolgozva kivéve: szűrőpapír és karton (4805 40 HR kód) | ex. 4805 |
 
-| 5.3. | 4804 | Nem bevont nátronpapír és -karton tekercsben vagy ívben, a 4802 vagy 4803 vtsz. alá tartozók kivételével |  |
+| 7.5. | Növényi pergamen, zsírpapír, pergamenpapír és más fényezett, átlátszó vagy áttetsző papír, tekercsben vagy ívben kivéve: átmásolópapír; sütőpapír | ex. 4806 |
 
-| 5.4. | 4805 | Nem bevont más papír és karton tekercsben vagy ívben az termékcsoporthoz tartozó Megjegyzések 3. pontjában megengedettnél nem nagyobb mértékben megmunkálva vagy feldolgozva |  |
+| 7.6. | Többrétegű papír és karton (ragasztóval összeragasztott papír- vagy kartonlapból összeállítva) felületi impregnálás vagy bevonás nélkül, belső erősítéssel is, tekercsben vagy ívben | 4807 |
 
-| 5.5. | ex. 4806 | Növényi pergamen, zsírpapír, és pergamenpapír és más fényezett, átlátszó vagy áttetsző papír, tekercsben vagy ívben | – pauszpapír (átmásolópapír) |
+| 7.7. | Hullámpapír és -karton (ragasztott, sima felületű lapokkal is), kreppelt, redőzött, domborított vagy perforált papír és karton tekercsben vagy ívben, a 4803 vtsz. alá tartozók kivételével | 4808 |
 
-| 5.6. | 4807 | Többrétegű papír és karton (ragasztóval összeragasztott papír- vagy kartonlapból összeállítva) felületi impregnálás vagy bevonás nélkül, belső erősítéssel is, tekercsben vagy ívben |  |
+| 7.8. | Papír és karton egyik vagy mindkét oldalán kaolinnal (kínai agyaggal) vagy más szervetlen anyaggal bevonva, kötőanyag felhasználásával is, de más bevonat nélkül, felületileg színezett, díszített vagy nyomtatott is, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben kivéve: nyomtató-, fénymásolópapír | ex. 4810 |
 
-| 5.7. | 4808 | Hullámpapír és –karton (ragasztott, sima felületű lapokkal is), kreppelt, redőzött, domborított vagy perforált papír és karton tekercsben vagy ívben, a 4803 vtsz. alá tartozók kivételével |  |
+| 7.9. | Papír, karton, cellulózvatta és cellulózszálból álló szövedék bevonva, impregnálva, borítva, felületileg színezve, díszítve vagy nyomtatva, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4803, 4809 vagy 4810 vtsz. alá tartozók kivételével kivéve: háztartási áru, ruhaipari áru | ex. 4811 |
 
-| 5.8. | ex. 4810 | Papír és karton egyik vagy mindkét oldalán kaolinnal (kínai agyaggal) vagy más szervetlen anyaggal bevonva, kötőanyag felhasználásával is, de más bevonat nélkül, felületileg színezett, díszített vagy nyomtatott is, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben | – nyomtató, fénymásoló papír |
+| 7.10. | Doboz, láda, tok, zsák és más csomagolóeszköz papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből kivéve: iratgyűjtő doboz; levéltartó doboz és hasonló cikk irodai, üzleti célra (4819 60 HR kód) | ex. 4819 |
 
-| 5.9. | 4811 | Papír, karton, cellulózvatta és cellulózszálból álló szövedék bevonva, impregnálva, borítva, felületileg színezve, díszítve vagy nyomtatva, tekercsben vagy téglalap (beleértve a négyzetet) alakú ívben, bármilyen méretben, a 4803, 4809 vagy 4810 vtsz. alá tartozók kivételével |  |
+| 7.11. | Mindenféle címke papírból vagy kartonból, nyomtatott is kivéve: tanszerek; dokumentumok, árut nem tartalmazó levélküldemények azonosító címkéi | ex. 4821 |
 
-| 5.10. | ex. 4819 | Doboz, láda, tok, zsák és más csomagolóeszköz papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből | – iratgyűjtő doboz, levéltartó doboz és hasonló cikk irodai, üzleti vagy hasonló célra (4819 60) |
+| 7.12. | Orsó, cséve, kopsz és hasonló tartó papíripari rostanyagból, papírból vagy kartonból (perforálva vagy merítve is) | 4822 |
 
-| 5.11. | 4821 | Mindenféle címke papírból vagy kartonból, nyomtatott is |  |
+| 7.13. | Más papír, karton, cellulózvatta és cellulózszálból álló szövedék méretre vagy alakra vágva; más terméké papíripari rostanyagból, papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből kivéve: a szűrőpapír és karton (4823 20 HR kód); az előre nyomtatott regisztráló-hengerek, -ívek és számlapok önfeljegyző készülékekhez; pénztárgép szalag | ex. 4823 |
 
-| 5.12. | 4822 | Orsó, cséve, kopsz és hasonló tartó papíripari rostanyagból, papírból vagy kartonból (perforálva vagy merítve is) |  |
+| 8. | Szövet, nem szőtt textília |  |
 
-| 5.13. | ex. 4823 | Más papír, karton, cellulózvatta és cellulózszálból álló szövedék méretre vagy alakra vágva; más terméké papíripari rostanyagból, papírból, kartonból, cellulózvattából vagy cellulózszálból álló szövedékből | – szűrőpapír és -karton (4823 20) – előre nyomtatott regisztráló-hengerek, -ívek és számlapok önfeljegyző készülékhez |
+| 8.1. | Jutaszövet vagy az 5303 vtsz. alá tartozó más textil háncsrostból készült szövet kivéve: építési termék, erózió- és rézsüvédelmi áru | ex. 5310 |
 
-| 6. |  | Szövetek |  |
+| 9. | Nem szőtt textília |  |
 
-| 6.1. | 5310 | Jutaszövet vagy az 5303 vtsz. alá tartozó más textil háncsrostból készült szövet |  |
+| 9.1. | Nem szőtt textília, impregnált, bevont, beborított vagy rétegelt is kivéve: háztartási áru; textil- és ruhaipari áru; járműipari áru; építési termék, bútoripari, erózió- és rézsüvédelmi célokra szolgáló áru; geotextil | ex. 5603 |
 
-| 6.2. | ex. 5603 | Nem szőtt textília, impregnált, bevont, beborított vagy rétegelt is | – bútoripari |
+| 10. | Zsinór, kötél |  |
 
-| 7. |  | Zsinór áruk |  |
+| 10.1. | Zsineg, kötél fonva vagy sodorva, és gumival vagy műanyaggal impregnálva, bevonva, beborítva vagy burkolva is kivéve: hajókötél és kábel; bálázózsineg; 5 mm-nél nagyobb átmérőjű áruk; háztartási áru; textil- és ruhaipari áru; építési termék; bútoripari áru | ex. 5607 |
 
-| 7.1. | ex. 5607 | Zsineg, kötél fonva vagy sodorva, és gumival vagy műanyaggal impregnálva, bevonva, beborítva vagy burkolva is | – hajókötél és kábel |
+| 11. | Zsák, zacskó |  |
 
-| 8. |  | Más készáru textilanyagból |  |
+| 11.1. | Zsák és zacskó termék csomagolására kivéve: árvízvédelmi homokzsák | ex. 6305 |
 
-| 8.1. | 6305 | Zsák és zacskó termék csomagolására |  |
+| 12. | Üveg |  |
 
-| 9. |  | Üvegáruk |  |
+| 12.1. | Üvegballon (fonatos is), üvegpalack, flaska, konzervüveg, üvegedény, fiola, ampulla és más üvegtartály termék szállítására vagy csomagolására; befőzőüveg; dugasz, fedő és más lezáró üvegből | 7010 |
 
-| 9.1. | 7010 | Üvegballon (fonatos is), üvegpalack, flaska, konzervüveg, üvegedény, fiola, ampulla és más üvegtartály termék szállítására vagy csomagolására; befőzőüveg; dugasz, fedő és más lezáró üvegből |  |
+| 13. | Vas, acél |  |
 
-| 10. |  | Fémből készült áruk |  |
+| 13.1. | Tartály, hordó, dob, konzervdoboz, doboz és hasonló edény bármilyen anyag (a sűrített vagy folyékony gáz kivételével) befogadására, vasból vagy acélból, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok; hulladékgyűjtő edény | ex. 7310 |
 
-| 10.1. | ex. 7310 | Tartály, hordó, dob, konzervdoboz, doboz és hasonló edény bármilyen anyag (a sűrített vagy folyékony gáz kivételével) tárolására, vasból vagy acélból, legfeljebb 300 liter űrtartalommal, bélelve vagy hőszigetelve is, mechanikai vagy hőtechnikai berendezés nélkül | – a helyhez kötött tartályok |
+| 13.2. | Tartály vasból vagy acélból, sűrített vagy folyékony gáz befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok | ex. 7311 |
 
-| 10.2. | ex. 7311 | Tartály vasból vagy acélból, sűrített vagy folyékony gáz tárolására | – a helyhez kötött tartályok |
+| 14. | Alumínium |  |
 
-| 10.3. | 7607 | Alumíniumfólia (papír, karton, műanyag vagy hasonló alátéten vagy nyomtatva is), ha vastagsága (az alátétet nem számítva) legfeljebb 0,2 mm | – elektrotechnikai anyag |
+| 14.1. | Alumíniumfólia (papír, karton, műanyag vagy hasonló alátéten vagy nyomtatva is), ha vastagsága (az alátétet nem számítva) legfeljebb 0,2 mm kivéve: elektrotechnikai áru | ex. 7607 |
 
-| 10.4. | ex. 7612 | Alumínium hordó, – dob, -kanna, -doboz és hasonló edény (a merev vagy összenyomható cső alakú tartály is) bármilyen anyag (a sűrített vagy folyékony gáz kivételével) tárolására, legfeljebb 300 liter űrtartalommal, bélelve vagy hőszigetelve is, mechanikai vagy hőtechnikai berendezések nélkül | – a helyhez kötött tartályok |
+| 14.2. | Alumínium hordó, -dob, -kanna, -doboz és hasonló edény (a merev vagy összenyomható cső alakú tartály is) bármilyen anyag (a sűrített vagy folyékony gáz kivételével) befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok; hulladékgyűjtő edény | ex. 7612 |
 
-| 10.5. | ex. 7613 | Alumíniumtartály sűrített vagy folyékony gáz tárolására | – a helyhez kötött tartályok |
+| 14.3. | Alumíniumtartály sűrített vagy folyékony gáz befogadására, legfeljebb 300 liter űrtartalommal kivéve: a helyhez kötött tartályok | ex. 7613 |
 
-| 10.6. | ex. 7615 | Asztali, konyhai vagy más háztartási cikk, valamint ezek részei alumíniumból | – a nem egyszer használatos tételek |
+| 14.4. | Asztali, konyhai vagy más háztartási cikk, valamint ezek részei alumíniumból kivéve: nem egyszer használatos áruk | ex. 7615 |
 
-| 10.7. | ex. 8309 | Dugó, kupak és fedő (beleértve a korona-, csavar- és kiöntődugót is), palackfedél vagy kupak, és más csomagolási tartozék nem nemesfémből | – csavarmenetes hordódugó, hordódugóvédő, pecsét |
+| 15. | Máshol nem említett áruk nem nemesfémből |  |
+
+| 15.1. | Dugó, kupak és fedő (beleértve a korona-, csavar- és kiöntődugót is), palackfedél vagy kupak, és más csomagolási segédanyag nem nemesfémből kivéve: csavarmenetes hordódugó; hordódugóvédő, pecsét | ex. 8309 |
+
+## * a termék mindkét oldalán, egy-egy oldal felületének legalább 20%-át kitevő „ELKÜLÖNÍTETT HULLADÉK” felirattal ellátva.
+
+## ** a termék mindkét oldalán, egy-egy oldal felületének legalább 20%-át kitevő „BIOLÓGIAI ÚTON LEBOMLÓ SZEMETESZSÁK” felirattal ellátva.
 
 ## II. Csomagolószer Katalógus kódjai
 
@@ -168,7 +174,7 @@
 
 | 07 | poliamid |
 
-| 08 | polivinil acetát |
+| 08 | poliuretán |
 
 | 09 | polivinil alkohol |
 
@@ -254,11 +260,11 @@
 
 | Egyéb |
 
-| 99 | egyéb anyag vagy termékdíjelőleg visszaigénylése |
+| 99 | egyéb anyag |
 
 ## CsK kód 4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak hiányát jelöli
 
-| Kód (4–5.) | Megnevezés |
+| Kód (4-5.) | Megnevezés |
 
 | Belföldi előállítású csomagolószer |
 
@@ -284,7 +290,17 @@
 
 | 20 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
 
-| 21 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pontja alapján szerződéssel átvállalta |
+| 21 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont ea) alpontja alapján szerződéssel átvállalta |
+
+| 2E | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont eb) alpontja alapján szerződéssel átvállalta |
+
+| 2F | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fa) alpontja alapján szerződéssel átvállalta |
+
+| F2 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fb) alpontja alapján szerződéssel átvállalta |
+
+| 2G | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont ga) alpontja alapján szerződéssel átvállalta |
+
+| G2 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
 
 | 22 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
@@ -306,11 +322,11 @@
 
 | 30 | teljes díjtétel, a Ktdt. 2. melléklete alapján |
 
-| 31 | egyéni teljesítő, a Ktdt. 3. számú melléklete alapján számított díjtétel |
+| 31 | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel |
 
 | 32 | díjtétel különbözet |
 
-| 33 | termékdíj átalány |
+| 33 | termékdíj-átalány |
 
 | 34 | a termékdíj-kötelezettség az átalánydíjat fizető vevőt terheli (mezőgazdasági termelő nyilatkozata) |
 
@@ -326,9 +342,17 @@
 
 | 40 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés d) pontja alapján szerződéssel átvállalta |
 
-| 41 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pontja alapján szerződéssel átvállalta |
+| 41 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont ea) alpontja alapján szerződéssel átvállalta |
 
-| 42 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés f) pontja alapján szerződéssel átvállalta |
+| 4E | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés e) pont eb) alpontja alapján szerződéssel átvállalta |
+
+| 4F | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fa) alpontja alapján szerződéssel átvállalta |
+
+| F4 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés f) pont fb) alpontja alapján szerződéssel átvállalta |
+
+| 4G | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont ga) alpontja alapján szerződéssel átvállalta |
+
+| G4 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
 
 | 43 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
@@ -336,11 +360,11 @@
 
 | 45 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés c) pontja alapján visszaigénylésre kerül |
 
-| 46 | a csomagolószer termékdíja a Ktdt. 25.§ (1) bekezdés d) pontja alapján visszaigénylésre kerül |
+| 46 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés d) pontja alapján visszaigénylésre kerül |
 
 | 47 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerül, kivéve selejt, hulladék |
 
-| 48 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejt és hulladék |
+| 48 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejtes hulladék |
 
 | 49 | a csomagolószer termékdíja egyéb jogcímen visszaigénylésre kerül |
 
@@ -369,10 +393,6 @@
 | 60 | a termékdíj a Ktdt. 25. § (1) bekezdés f) pontja alapján visszaigénylésre kerül |
 
 | 61 | a termékdíja egyéb jogcímen visszaigénylésre kerül |
-
-| Egyéb |
-
-| 80 | ha a termékdíj-előleg megfizetésre került, és az visszaigénylésre kerül a Ktdt. 12/A. § (5) bekezdése alapján |
 
 ## CsK kód 6–7. karaktere: a termék újrahasználhatóságát jelölő kód
 
@@ -696,6 +716,6 @@
 
 | 600 | – kenőolaj hulladéka |
 
-2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^38]
+2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^52]
 
-[^38]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^52]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.

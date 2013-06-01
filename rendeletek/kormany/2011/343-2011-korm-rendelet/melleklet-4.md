@@ -12,6 +12,6 @@
 
 ## cégszerű aláírás”
 
-4. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^40]
+4. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^54]
 
-[^40]: A 4. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^54]: A 4. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.

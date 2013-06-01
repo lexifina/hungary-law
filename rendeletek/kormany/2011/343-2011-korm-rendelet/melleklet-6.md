@@ -1,3 +1,3 @@
-6. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^41]
+6. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^56]
 
-[^41]: A 6. melléklet a 251/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^56]: A 6. melléklet a 251/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
