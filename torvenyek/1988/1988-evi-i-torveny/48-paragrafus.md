@@ -34,7 +34,7 @@ a) a Kormány, hogy
 
 14. a 7500 kg megengedett legnagyobb össztömeget meghaladó járművel történő közlekedés időszakos és területi korlátozására vonatkozó szabályokat,
 
-15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására és egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
+15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 
 16. a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárás szabályait,
 
@@ -46,7 +46,7 @@ a) a Kormány, hogy
 
 20. a 21. §-ban meghatározott bírság kiszabására jogosult hatóság vagy hatóságok kijelölését,
 
-21. a közigazgatási bírsággal sújtandó közlekedési szabályszegések körét, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét, a bírság kiszabásának részletes szabályait, valamint a beszedett bírság felhasználását,
+21. a közigazgatási bírsággal sújtandó közlekedési szabályszegések körét, az e tevékenységekre vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, a bírság kiszabásának részletes szabályait, valamint a beszedett bírság felhasználását,
 
 22. a 33. § (3) bekezdése szerinti közreműködő igénybevételére vonatkozó szabályokat,
 
@@ -168,7 +168,7 @@ g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
 2. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
 
-3. a 33/A. § szerinti használati díj és útdíj, valamint ezek megfizetésének elmaradása esetén a pótdíj, illetve a pótdíj megfizetésének elmaradása esetén a többletpótdíj mértékét,
+3. a 33/A. § szerinti használati díj, valamint ezek megfizetésének elmaradása esetén a pótdíj, illetve a pótdíj megfizetésének elmaradása esetén a többletpótdíj mértékét,
 
 4. a fizetés módját és feltételeit,
 
@@ -178,7 +178,7 @@ h)
 
 i) a közlekedésrendészetért felelős miniszter, hogy a megkülönböztető és figyelmezető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
 
-j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra és egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével kapcsolatos bírságolással összefüggő hatósági feladatok részletes szabályait,
+j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok részletes szabályait,
 
 k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 
