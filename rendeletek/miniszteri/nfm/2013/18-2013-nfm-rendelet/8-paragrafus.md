@@ -1,3 +1,3 @@
-## 7. §[^6]
+## 7. §[^4]
 
-[^6]: A 7. § a 17. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^4]: A 7. § a 17. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
