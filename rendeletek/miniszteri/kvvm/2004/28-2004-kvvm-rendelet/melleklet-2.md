@@ -20,7 +20,7 @@
 
 ## a) a természetközeli szennyvíztisztító telepre csak elválasztott rendszerű (csapadékvíz mentes), nem vákuumtechnológiával megvalósított, csatornán vezethető szennyvíz,
 
-## b) a gyökérmezős, növényágyas szennyvíztisztító telepre települési folyékony hulladék csak mechanikai előtisztítást követően, előtisztított ipari szennyvíz csak a hatóság jóváhagyása alapján vezethető,
+## b) a gyökérmezős, növényágyas szennyvíztisztító telepre nem közművel összegyűjtött háztartási szennyvíz csak mechanikai előtisztítást követően, előtisztított ipari szennyvíz csak a hatóság jóváhagyása alapján vezethető,
 
 ## c) tilos iszapot mesterséges növényágyra helyezni,
 
