@@ -1,3 +1,5 @@
+## 12. §[^2]
+
 13. § (1) A 9. § (2) bekezdés szerinti kötelezettség alapján teljesített bejelentések adatairól az OKTVF 2013. szeptember 27-ig összesített elemzést készít.
 
 (2) Az (1) bekezdés szerinti elemzés
@@ -11,3 +13,5 @@ c) a 2010. június 30. után lefolytatott ellenőrzések és intézkedések ered
 vonatkozó adatokat tartalmazza.
 
 (3) A (2) bekezdés szerinti elemzést az OKTVF a környezetvédelemért felelős miniszter által vezetett minisztérium részére 2013. november 1-jéig megküldi.
+
+[^2]: A 12. §-t a 40/2013. (V. 24.) VM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
