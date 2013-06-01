@@ -1,10 +1,10 @@
-## A sérült jármű biztosító által kezdeményezett vizsgálata[^187]
+## A sérült jármű biztosító által kezdeményezett vizsgálata[^190]
 
-15/A. §[^188] (1) A közlekedési hatóság – a kötelező gépjármű-felelősségbiztosításról szóló törvény rendelkezése szerint a biztosító által küldött értesítés alapján – a jármű műszaki vizsgálatának helyszíneként a jármű üzemben tartója által a kárfelvételi eljárás során adott nyilatkozatban megjelölt vizsgáló állomást, vagy ennek hiányában egyéb, az üzembentartó lakóhelyétől (székhelyétől) közúton 50 km távolságon belüli vizsgáló állomást jelöl ki.
+15/A. §[^191] (1) A közlekedési hatóság – a kötelező gépjármű-felelősségbiztosításról szóló törvény rendelkezése szerint a biztosító által küldött értesítés alapján – a jármű műszaki vizsgálatának helyszíneként a jármű üzemben tartója által a kárfelvételi eljárás során adott nyilatkozatban megjelölt vizsgáló állomást, vagy ennek hiányában egyéb, az üzembentartó lakóhelyétől (székhelyétől) közúton 50 km távolságon belüli vizsgáló állomást jelöl ki.
 
 A jármű üzembentartójának kérelmére a jármű műszaki vizsgálatára kijelölhető – vizsgáló állomásnak nem minősülő – egyéb gépjármű fenntartó szervezet telephelye is, amennyiben a jármű a sérülése miatt üzemképtelen vagy a közúti forgalomban való részvételre műszakilag alkalmatlan, és a megjelölt helyszínen rendelkezésre állnak a (3) bekezdés szerinti vizsgálathoz szükséges eszközök.
 
-(2)[^189] A közlekedési hatóság a Kkt. 24/B. § (3) bekezdése szerinti értesítést a műszaki vizsgálatra meghatározott időpontot követő 8 napon belül teszi meg.
+(2)[^192] A közlekedési hatóság a Kkt. 24/B. § (3) bekezdése szerinti értesítést a műszaki vizsgálatra meghatározott időpontot követő 8 napon belül teszi meg.
 
 (3) A műszaki vizsgálatot a vizsgabiztos – a biztosítótól származó, a jármű sérülésére vonatkozó adatokra is figyelemmel – szemrevételezéssel végzi, valamint a vizsgálat helyszínén rendelkezésére álló vizsgáló eszközökkel ellenőrzi, hogy
 
@@ -14,15 +14,15 @@ b) az alváz, a fenékváz és a karosszéria (kocsiszekrény) teherviselő elem
 
 c) a jármű megfelel-e a műszaki biztonsági jellemzőkre vonatkozó, az MR.-ben meghatározott üzemeltetési műszaki feltételeknek.
 
-(4)[^190] Ha a jármű a közúti forgalomban való részvételre a (3) bekezdés a) vagy b) pontjaiban meghatározottak miatt műszakilag alkalmatlan, a járművet a közlekedési hatóság a forgalomban való részvételre véglegesen alkalmatlannak minősíti, a jármű forgalomban tartását megtiltja, és a Kkt. 24/B. § (2) bekezdés b) pontja szerinti értesítést a határozat egy példányának megküldésével 8 napon belül teszi meg.
+(4)[^193] Ha a jármű a közúti forgalomban való részvételre a (3) bekezdés a) vagy b) pontjaiban meghatározottak miatt műszakilag alkalmatlan, a járművet a közlekedési hatóság a forgalomban való részvételre véglegesen alkalmatlannak minősíti, a jármű forgalomban tartását megtiltja, és a Kkt. 24/B. § (2) bekezdés b) pontja szerinti értesítést a határozat egy példányának megküldésével 8 napon belül teszi meg.
 
-(5)[^191] Ha a jármű a (3) bekezdés a) és b) pontjában meghatározott műszaki feltételek szerint nem alkalmatlan a közúti forgalomban való részvételre, azonban a (3) bekezdés c) pontjában foglaltaknak nem felel meg, a közlekedési hatóság a jármű forgalomban tartását megtiltja, és a Kkt. 24/B. § (2) bekezdés b) pontja szerinti értesítést a határozat egy példányának megküldésével 8 napon belül teszi meg.
+(5)[^194] Ha a jármű a (3) bekezdés a) és b) pontjában meghatározott műszaki feltételek szerint nem alkalmatlan a közúti forgalomban való részvételre, azonban a (3) bekezdés c) pontjában foglaltaknak nem felel meg, a közlekedési hatóság a jármű forgalomban tartását megtiltja, és a Kkt. 24/B. § (2) bekezdés b) pontja szerinti értesítést a határozat egy példányának megküldésével 8 napon belül teszi meg.
 
-(6)[^192] Ha a jármű a (3) bekezdés a)–c) pontjaiban foglaltakra kiterjedő műszaki vizsgálat alapján a közúti forgalomban való részvételre műszakilag alkalmas, a közlekedési hatóság a Kkt. 24/B. § (2) bekezdés a) pontja szerinti értesítést a határozat egy példányának megküldésével 8 napon belül teszi meg.
+(6)[^195] Ha a jármű a (3) bekezdés a)–c) pontjaiban foglaltakra kiterjedő műszaki vizsgálat alapján a közúti forgalomban való részvételre műszakilag alkalmas, a közlekedési hatóság a Kkt. 24/B. § (2) bekezdés a) pontja szerinti értesítést a határozat egy példányának megküldésével 8 napon belül teszi meg.
 
-[^187]: A 15/A. §-t megelőző alcímet a 27/2010. (III. 31.) KHEM rendelet 5. §-a iktatta be.
-[^188]: A 15/A. §-t a 27/2010. (III. 31.) KHEM rendelet 5. §-a iktatta be.
-[^189]: A 15/A. § (2) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése, a 18/2013. (V. 9.) NFM rendelet 14. § i) pontja szerint módosított szöveg.
-[^190]: A 15/A. § (4) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^191]: A 15/A. § (5) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^192]: A 15/A. § (6) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^190]: A 15/A. §-t megelőző alcímet a 27/2010. (III. 31.) KHEM rendelet 5. §-a iktatta be.
+[^191]: A 15/A. §-t a 27/2010. (III. 31.) KHEM rendelet 5. §-a iktatta be.
+[^192]: A 15/A. § (2) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése, a 18/2013. (V. 9.) NFM rendelet 14. § i) pontja szerint módosított szöveg.
+[^193]: A 15/A. § (4) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^194]: A 15/A. § (5) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^195]: A 15/A. § (6) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.

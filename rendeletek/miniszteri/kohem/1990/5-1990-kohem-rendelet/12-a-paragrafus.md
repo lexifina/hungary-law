@@ -1,6 +1,6 @@
-## A vizsgabiztosokra vonatkozó feltételek[^138]
+## A vizsgabiztosokra vonatkozó feltételek[^141]
 
-12/A. §[^139] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság köztisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek, és rendelkezik e rendelet 7. mellékletében meghatározott adattartalmú engedéllyel. Az engedély határozatlan időbeli hatályú.
+12/A. §[^142] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság köztisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek, és rendelkezik e rendelet 7. mellékletében meghatározott adattartalmú engedéllyel. Az engedély határozatlan időbeli hatályú.
 
 (2) Vizsgabiztosi tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki
 
@@ -44,7 +44,7 @@ b) a szakirányú szakmai gyakorlati időről kiállított munkáltatói igazol�
 
 c) a számítógépes alapismeret megszerzéséről szóló nyilatkozatot.
 
-(5)[^140] A közlekedési hatóság által a vizsgabiztosokról vezetett a Kkt.-ben meghatározott nyilvántartás (a továbbiakban: Nyilvántartás) tartalmazza a vizsgabiztos:
+(5)[^143] A közlekedési hatóság által a vizsgabiztosokról vezetett a Kkt.-ben meghatározott nyilvántartás (a továbbiakban: Nyilvántartás) tartalmazza a vizsgabiztos:
 
 a) nevét,
 
@@ -66,7 +66,7 @@ i) a legutóbbi továbbképzés időpontját,
 
 j) a vizsgabiztosi tevékenység felfüggesztéséről, az engedély visszavonásáról rendelkező határozat számát, időpontját, a felfüggesztés megszüntetésének időtartamát.
 
-(6)[^141] A (3) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
+(6)[^144] A (3) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
 
 (7) A közlekedési hatóság visszavonja az engedélyt és törli a vizsgabiztost a Nyilvántartásból, ha
 
@@ -84,7 +84,7 @@ f) e rendeletben meghatározott kötelezettségeit ismételten vagy súlyosan me
 
 (8) A közlekedési hatóság felfüggeszti a vizsgabiztos tevékenységét, ha:
 
-a)[^142]
+a)[^145]
 
 b) e rendeletben foglalt előírásokat megszegte,
 
@@ -94,8 +94,8 @@ c) a (7) bekezdésben előírt bejelentési kötelezettség teljesítését elmu
 
 (10) A vizsgabiztosok szakmai képzésének szabályait a 12. számú melléklet tartalmazza.
 
-[^138]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
-[^139]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 11. §-ával megállapított szöveg.
-[^140]: A 12/A. § (5) bekezdés nyitó szövegrésze a 18/2013. (V. 9.) NFM rendelet 14. § e) pontja szerint módosított szöveg.
-[^141]: A 12/A. § (6) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^142]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.
+[^141]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
+[^142]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 11. §-ával megállapított szöveg.
+[^143]: A 12/A. § (5) bekezdés nyitó szövegrésze a 18/2013. (V. 9.) NFM rendelet 14. § e) pontja szerint módosított szöveg.
+[^144]: A 12/A. § (6) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^145]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.

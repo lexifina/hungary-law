@@ -126,6 +126,8 @@ c) a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserél
 
 (13)[^35] A két-, három- és négykerekű segédmotoros kerékpár (L1e, L2e és L6e járműkategória), a kétkerekű motorkerékpár (L3e járműkategória), az oldalkocsis motorkerékpár (L4e járműkategória), valamint a három- és négykerekű motoros tricikli (L5e és L7e járműkategória) járműkategóriába sorolásának műszaki feltételeit a B. függelék 1. cikk (2) és (3) bekezdése határozza meg.
 
+(14)[^36] A mezőgazdasági vontatók, valamint egyes mezőgazdasági célú lassú járművek T1.–T5. járműkategóriába sorolásának műszaki feltételeit a C. Függelék C/2. számú melléklet A. Fejezete határozza meg.
+
 [^5]: A 2. § (1) bekezdése a 83/2005. (X. 11.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés a) pontja a 66/2009. (XI. 27.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdése a 12/1998. (V. 22.) KHVM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
@@ -157,3 +159,4 @@ c) a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserél
 [^33]: A 2. § (11) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^34]: A 2. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
 [^35]: A 2. § (13) bekezdését a 14/2009. (III. 31.) KHEM rendelet 1. § (2) bekezdése iktatta be.
+[^36]: A 2. § (14) bekezdését a 18/2013. (V. 9.) NFM rendelet 1. §-a iktatta be.
