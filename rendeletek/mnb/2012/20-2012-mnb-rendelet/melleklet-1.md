@@ -1,5 +1,3 @@
-## 7. §[^1]
+1. melléklet a 20/2012. (X. 15.) MNB rendelethez[^3]
 
-1. melléklet a 20/2012. (X. 15.) MNB rendelethez
-
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 8/2013. (V. 27.) MNB rendelet 3. §-a szerint módosított szöveg.

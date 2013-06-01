@@ -134,6 +134,8 @@
 
 | 64 | AL5 | Havi jelentés a devizafinanszírozás megfelelési mutatóról | részvénytársasági formában működő hitelintézetek, a lakás-takarékpénztárak, a Magyar Fejlesztési Bank Zrt., a Magyar Export-Import Bank Zrt. és a Központi Elszámolóház és Értéktár (Budapest) Zrt. (a továbbiakban: KELER Zrt.) kivételével | havi | elektronikus úton (EBEAD) | a naptári negyedév első két hónapja tekintetében: - kizárólag a 01. tábla kitöltésére kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 15. munkanap, - a 02. tábla kitöltésére is kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 17. munkanap; a naptári negyedév utolsó hónapja tekintetében: - kizárólag a 01. tábla kitöltésére kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 20. munkanap, - a 02. tábla kitöltésére is kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 22. munkanap | MNB Statisztika |
 
+| 64a | AL7 | Külföldről származó, adósság típusú források változásának összetevői | kijelölt hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, havi | elektronikus úton (EBEAD) | tárgyidőszakot követő második munkanap 12 óra | MNB Statisztika |
+
 | 65 | L01 | Nemzetközi tartalékok és devizalikviditás | MÁK, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 15. nap | MNB Statisztika |
 
 | 66 | L10 | Felvett vállalati és háztartási hitelek adatai | központi hitelinformációs rendszert működtető pénzügyi vállalkozás | havi | elektronikus úton | tárgyidőszakot követő hónap 10. munkanap | MNB Statisztika |
@@ -280,7 +282,7 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatás |
 
-2. melléklet a 20/2012. (X. 15.) MNB rendelethez
+2. melléklet a 20/2012. (X. 15.) MNB rendelethez[^4]
 
 I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -1929,3 +1931,5 @@ Jegybanki felmérés a devizapiac és a származékos ügyletek piacának aktivi
 A2 tábla: DEVIZAÜGYLETEK 1
 
 | Forgalom névleges értéken 2013. áprilisában | Negatív értékek és nem numerikus adatok nem megengedettek! | (millió USD-ben) |
+
+[^4]: A 2. melléklet a 8/2013. (V. 27.) MNB rendelet 4. §-a szerint módosított szöveg.
