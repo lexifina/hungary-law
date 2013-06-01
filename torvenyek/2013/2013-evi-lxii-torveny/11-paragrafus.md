@@ -3,11 +3,3 @@
 (2) A 10. § (2) bekezdése 2013. szeptember 30-án lép hatályba.
 
 (3) A 2. § és a 10. § (1) bekezdés a), c) és e) pontja 2014. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
