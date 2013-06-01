@@ -1,3 +1,0 @@
-1. § A statisztikáról szóló 1993. évi XLVI. törvény (a továbbiakban: Stt.) 1. §-a helyébe a következő rendelkezés lép:
-
-„1. § A statisztika feladata és célja, hogy valósághű, tárgyilagos képet adjon a társadalom, a gazdaság, a tulajdonviszonyok, a környezet állapotáról és változásairól az államhatalmi és a közigazgatási szervek, valamint a társadalom szervezetei és tagjai számára. A cél elérése érdekében e törvény az adatok statisztikai módszerekkel történő felvételével, feldolgozásával, tárolásával, átadásával, átvételével, elemzésével, szolgáltatásával, közlésével, valamint közzétételével kapcsolatos közhatalmi és egyéb tevékenységet (a továbbiakban: statisztikai tevékenység) szabályozza.”
