@@ -1,1 +1,0 @@
-## A mentesülés kedvezményének megszűnése
