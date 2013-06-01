@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-30-20-0
 | 2011-08-15 | 2008-30-20-0N.2 | 80/2011. (VIII. 3.) VM rendelet |
 | 2012-01-01 | 2008-30-20-0N.3 | 147/2011. (XII. 23.) VM rendelet |
 | 2012-12-01 | 2008-30-20-0N.4 | 115/2012. (XI. 16.) VM rendelet |
+| 2013-06-01 | 2008-30-20-0N.5 | 40/2013. (V. 24.) VM rendelet |

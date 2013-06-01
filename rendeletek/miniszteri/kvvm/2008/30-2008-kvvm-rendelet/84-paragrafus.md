@@ -6,6 +6,6 @@
 
 (4) A fenékleürítőn és az üzemi vízkivételi műtárgyon a felvízi oldalon két egyenértékű elzárást kell létesíteni.
 
-(5)[^11]
+(5)[^13]
 
-[^11]: A 84. § (5) bekezdését a 80/2011. (VIII. 3.) VM rendelet 11. §-a hatályon kívül helyezte.
+[^13]: A 84. § (5) bekezdését a 80/2011. (VIII. 3.) VM rendelet 11. §-a hatályon kívül helyezte.
