@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-127-00-00
 | 2013-04-21 | 2013. évi XXXVII. törvény | 2003-127-00-00.61 |
 | 2013-05-01 | 2012. évi CLIV. törvény | 2003-127-00-00.62 |
 | 2013-05-19 | 2013. évi XXXVII. törvény | 2003-127-00-00.63 |
+| 2013-06-01 | 2013. évi LXXI. törvény | 2003-127-00-00.64 |
