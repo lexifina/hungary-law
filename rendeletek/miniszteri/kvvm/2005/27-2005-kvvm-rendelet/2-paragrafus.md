@@ -16,7 +16,7 @@ e) újabb helyszíni ellenőrzés: helyszíni ellenőrzés után, a kibocsátott
 
 f) mintavételi hely: kibocsátás engedélyben meghatározott ellenőrzési helye, illetőleg a közcsatornába bocsátás helye;
 
-g) közcsatornába bocsátás helye: használt- vagy szennyvizek esetében a külön jogszabály szerinti szennyvízelvezetés szolgáltatási pont, települési folyékony hulladék esetében pedig a folyékony hulladék bebocsátási pontja;
+g)[^1] közcsatornába bocsátás helye: használt- vagy szennyvizek esetében a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti szennyvízelvezetési szolgáltatási pont, nem közművel összegyűjtött háztartási szennyvíz esetében pedig a nem közművel összegyűjtött háztartási szennyvíz bebocsátási pontja;
 
 h) pontminta (egyedi minta): az egész mintatérfogatra vonatkozó egyszeri mintavétel egy szennyvízáramból;
 
@@ -35,3 +35,5 @@ n) szennyvíz szennyezőanyag-terhelése: a szennyvízbe egységnyi idő alatt k
 o) termék vagy termelésspecifikus terhelési érték: az engedélyezett termék egységnyi mennyiségére vagy termelési kapacitásra vonatkoztatott szennyezőanyag-kibocsátás m3/t-ben, g/t-ben, kg/t-ben mért értéke;
 
 p) akkreditált laboratórium: a használt- és szennyvizek, illetőleg azok meghatározott alkotórésze vizsgálatára a Nemzeti Akkreditáló Testület által külön jogszabály alapján elismert és bejegyzett laboratórium.
+
+[^1]: A 2. § g) pontja a 40/2013. (V. 24.) VM rendelet 3. §-ával megállapított szöveg.

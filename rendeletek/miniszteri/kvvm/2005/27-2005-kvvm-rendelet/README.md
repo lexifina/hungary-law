@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-27-20-0
 | 2008-05-16 | 2005-27-20-0N.3 | 27/2005. (XII. 6.) KvVM rendelet |
 | 2010-05-06 | 2005-27-20-0N.4 | 10/2010. (IV. 28.) KvVM rendelet |
 | 2011-01-14 | 2005-27-20-0N.5 | 1/2011. (I. 11.) VM rendelet |
+| 2013-06-01 | 2005-27-20-0N.6 | 40/2013. (V. 24.) VM rendelet |
