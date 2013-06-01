@@ -1,1 +1,1 @@
-386/L. § Az 56. § (3) bekezdés szerinti, a beavatkozást megengedő határozat ellen fellebbezésnek helye nincs. A beavatkozást elutasító, valamint a beavatkozót a perből kizáró határozat ellen a beavatkozó fellebbezéssel élhet; ennek jogerős elintézéséig a beavatkozó a perben nem vehet részt, újabb beavatkozási kérelmet nem nyújthat be.
+386/L. §

@@ -2,4 +2,6 @@
 
 (1a) A tizennegyedik életévét be nem töltött kiskorú tanút törvényes képviselője útján idézi a bíróság azzal a felhívással, hogy a tanú megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú tanú idézéséről a bíróság a törvényes képviselőjét értesíti.
 
+(1b) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt kérik megidézni, a bíróság a bírót a szolgálati helye szerinti bíróság címéről idézi. Ha a bíró szolgálati viszonya a per alatt megszűnik, az idézésre az általános szabályok az irányadók.
+
 (2) Ha a tanú a fél által bejelentett adatok téves volta miatt nem volt megidézhető, a bíróságnak a tanú ismételt megidézése előtt meg kell vizsgálnia, hogy a fél téves bejelentése nem a per elhúzását célozta-e. Ezt a rendelkezést kell megfelelően alkalmazni arra az esetre is, amikor a bíróság a bizonyító fél ellenfelét kötelezte a tanú adatainak bejelentésére.

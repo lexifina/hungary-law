@@ -14,7 +14,7 @@ e) a félnek nincs perbeli jogképessége (48. §);
 
 f) a felperes követelése időelőtti, vagy – az elévülés esetét ide nem értve – bírói úton nem érvényesíthető;
 
-g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per csak jogszabályban meghatározott személy ellen indítható, illetve meghatározott személyek perben állása kötelező, s a felperes e személyt (személyeket) – felhívás ellenére – nem vonta perbe;
+g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per csak jogszabályban meghatározott személy ellen indítható, illetve meghatározott személyek perben állása kötelező, s a felperes e személyt (személyeket) – felhívás ellenére – nem vonta perbe, továbbá – ha jogszabály másként nem rendelkezik - a munkáltató helytállási kötelezettsége körébe tartozó személyhez fűződő jogot sértő tevékenység és egyéb károkozás miatt a pert a munkavállaló ellen indították.
 
 h) külön jogszabály a keresetindításra határidőt állapít meg, ezt a felperes elmulasztja, és igazolási kérelmet sem terjeszt elő, vagy azt a bíróság elutasítja;
 

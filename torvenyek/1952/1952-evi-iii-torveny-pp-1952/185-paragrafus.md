@@ -12,6 +12,8 @@ az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal s�
 
 (1a) A tizennegyedik életévét be nem töltött kiskorúval szemben az (1) bekezdésben meghatározott kényszerítő eszközök nem alkalmazhatók. Ha a tanúként idézett tizennegyedik életévét be nem töltött kiskorú szabályszerű idézés ellenére nem jelent meg vagy engedély nélkül eltávozott, és a törvényes képviselője nem igazolja, hogy vétlen a kiskorú meg nem jelenésében, illetve eltávozásában, a törvényes képviselő pénzbírsággal sújtható és az okozott költség megtérítésére kötelezhető.
 
+(1b) A bíró elővezetésének elrendeléséről az elővezetendő bíró szolgálati helye szerinti bíróság elnökét, a bíróság elnöke elővezetésének elrendeléséről a kinevezőjét is értesíteni kell. Ha a bíró szolgálati viszonya a per alatt megszűnik, az elővezetésre vonatkozóan az általános szabályok az irányadók.
+
 (2) Az eljáró bíróság annak a szakértőnek a munkadíját, aki a véleménynyilvánítással alapos ok nélkül késlekedik és a véleménynyilvánításra nyitva álló határidő alatt a határidő meghosszabbítását nem kéri (104. §), illetve a meghosszabbított határidő alatt sem nyilvánít véleményt, a határidő lejártát követő naptól kezdve naponta egy százalékkal csökkenti.
 
 (3) Ha a tanú vagy a szakértő az elmaradását (eltávozását), illetve a szakértő a késedelmét az (1) és (2) bekezdésben említett intézkedések alkalmazása után alapos okkal kimenti, a vele szemben tett intézkedéseket hatályon kívül kell helyezni. A bíróság az (1) bekezdés szerinti intézkedést akkor is hatályon kívül helyezheti, ha a megtagadást követően a tanú vallomást tesz, illetve a szakértő a feladatát teljesíti.
