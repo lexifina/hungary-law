@@ -1,0 +1,57 @@
+## V. Fejezet
+
+## ADATKEZELÉS
+
+26. § (1) A felügyeleti szerv a felügyeleti jogkörében eljárva jogosult a díjfizetési kötelezettséggel érintett gépjárműveknek a díjfizetési kötelezettséggel kapcsolatos alábbi jellemzőit, valamint az úthasználók, üzembentartók, és a szerződött díjfizetők alábbi személyes adatait kezelni a díjszedés hatékony lebonyolítása érdekében, a díj, illetve a bírság megfizetésére irányuló követelés elévüléséig:
+
+a) a természetes személy úthasználó, üzembentartó, és szerződött díjfizető nevét, lakóhelyét, anyja nevét, születési helyét és idejét, elektronikus levélcímét, telefonszámát, fizetési számla számát, valamint a személyazonosításra szolgáló okmány adatait,
+
+b) jogi személy úthasználó, üzembentartó, és szerződött díjfizető nevét, székhelyét, cégjegyzékszámát vagy az azt bejegyző hatóság által kiadott más hasonló azonosítóját, továbbá elektronikus levélcímét, telefonszámát, fizetési számla számát,
+
+c) a megfizetendő útdíj és bírság mértékét,
+
+d) az úthasználat helyét és idejét,
+
+e) az útdíjfizetés helyét és időpontját,
+
+f) a gépjármű vagy gépjárműszerelvény forgalmi rendszámát,
+
+g) a gépjárműnek vagy gépjárműszerelvénynek a díjkategória meghatározásához szükséges jellemzőit,
+
+h) a nyilvántartott fedélzeti eszközök azonosító adatait,
+
+i) a gépjárműről és annak hatósági jelzéséről készített képfelvételt,
+
+j) az útdíjköteles elemi útszakaszok viszonylati jegy alapján történő használata esetén az útvonalat, az annak megtételéhez engedélyezett időszakot, valamint a bizonylatszámot.
+
+(2) Az útdíjszolgáltató a 6. § (5) bekezdésében, valamint a 7. §-ban meghatározott feladatai ellátása érdekében az (1) bekezdésben meghatározott adatokat – az (1) bekezdés i) pontjában foglalt adatok kivételével – jogosult kezelni a díj megfizetésére irányuló követelés elévüléséig.
+
+(3) Az útdíjszedő a 6. § (4) bekezdésében és a 17. §-ban meghatározott feladatai ellátása érdekében az (1) bekezdésben meghatározott adatok közül a c)–j) pontokban felsorolt adatokat jogosult kezelni a díj megfizetésére irányuló követelés elévüléséig.
+
+(4) A Rendőrség jogosult az útdíj-fizetési kötelezettség alól mentes gépjárműveknek a mentességgel kapcsolatos alábbi jellemzőit, valamint az útdíj-fizetésre kötelezettek alábbi személyes adatait kezelni azok külön hozzájárulása nélkül is az útdíjszedés, valamint az útdíj-fizetési kötelezettség teljesítésének ellenőrzése érdekében, az útdíj, illetve a kiszabott bírság behajtása érdekében, az ezekre irányuló követelések elévüléséig:
+
+a) a gépjárműről és annak hatósági jelzéséről készített képfelvételt,
+
+b) szabályszegés megállapítása esetén az érintett természetes személyek nevét, lakóhelyét, anyja nevét, születési helyét és idejét, valamint a személyazonosításra szolgáló okmány adatait és fizetési számla számát,
+
+c) szabályszegés megállapítása esetén az érintett jogi személyek nevét, székhelyét, cégjegyzékszámát vagy egyéb bejegyzési adatait és fizetési számla számát,
+
+d) az úthasználat helyét és idejét,
+
+e) a gépjármű vagy gépjárműszerelvény forgalmi rendszámát,
+
+f) a gépjárműnek vagy gépjárműszerelvénynek a díjkategória meghatározásához szükséges jellemzőit.
+
+(5) A Rendőrség jogosult az úthasználati jogosultsággal rendelkezőkről és az érvénytelenített fedélzeti eszközökről az útdíjszedő által vezetett nyilvántartással, valamint az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak adataival összevetni a (4) bekezdés szerinti adatokat. Az útdíjellenőrzési feladatok ellátása során a Rendőrség jogosult a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében meghatározott adatokat, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. § (2) bekezdés b) pontja és (6) bekezdése szerinti adatokat, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény III. fejezet 1. Címében meghatározott adatokat, valamint a közúti közlekedésről szóló 1988. évi I. törvény 21/D. § (1) bekezdésében foglalt adatokat, továbbá az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak nyilvántartásában szereplő adatokat átvenni.
+
+(6) A Rendőrség jogosult külföldi hatósági jelzéssel ellátott jármű rendszámát, amennyiben a jármű fedélzeti eszközzel felszerelt, annak azonosító adatait; a szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, amennyiben a jogsértő üzembentartó személye helyszíni ellenőrzés, illetve automatizált lekérdezés útján nem volt megállapítható.
+
+(7) A Rendőrség a bírság kiszabására irányuló eljárásban közvetlen adathozzáféréssel átveheti a tagállami járműnyilvántartásokból a szabályszegés bizonyításához szükséges rendszám adatokat, a természetes személy üzemben tartó személyi- és lakcímadatait, és a nem természetes személy üzemben tartó azonosításához szükséges adatokat.
+
+(8) Az útdíjszolgáltató köteles az általa vezetett, az úthasználatra vonatkozó szolgáltatási szerződés hatálya alá tartózó személyek és gépjárművek útdíjszedéshez és útdíjellenőrzéshez szükséges adatait – az e §-ban meghatározott adatkezelési jogosultságok figyelembevételével – az útdíjszedő, az útdíjellenőrzésre feljogosított szervezet, valamint a felügyeleti szerv számára átadni.
+
+(9) Az útdíjszedő és az útdíjszolgáltató köteles – az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban rögzített módon – együttműködni a titkos információgyűjtésre, illetve titkos adatszerzésre a nemzetbiztonsági szolgálatokról szóló törvény, továbbá a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerint felhatalmazott szervezetekkel. Az útdíjszedő és az útdíjszolgáltató, valamint az útdíjellenőrzésre feljogosított szervezet az e törvény alapján folytatott tevékenységét olyan módon köteles végezni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a titkos adatszerzést.
+
+(10) A büntetőeljárásról szóló törvény szerinti nyomozó hatóságok és a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a Nemzeti Adó- és Vámhivatal törvényben foglalt feladatai ellátása érdekében az útdíjköteles elemi útszakaszon közlekedő járművek díjszedési jellemzőit (így különösen az úthasználat helyét, idejét, a gépjármű vagy gépjárműszerelvény forgalmi rendszámát és a díj mértékének megállapítása során jelentőséggel bíró jellemzőit) az UD rendszer igénybevétele útján megfigyelhetik, az onnan származó adatokat tárolhatják.
+
+(11) Az útdíjszedő és az útdíjszolgáltató – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, gépjárműveit érintő adatszolgáltatási megkeresésekről. A tájékoztatás elektronikus megvalósításának módját és eljárásrendjét az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban kell rögzíteni.

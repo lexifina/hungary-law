@@ -1,0 +1,1 @@
+10. § A 9. § (1) bekezdés h) és i) pontjában meghatározott járművek a nemzetközi kapcsolattartásra jogosult hatósághoz, az f) pontban meghatározott járművek a katasztrófavédelmi hatósághoz történő bejelentés alapján, annak tudomásulvételét és a mentességi nyilvántartásba történő bejegyzést követően jogosultak a díjmentesség igénybevételére.

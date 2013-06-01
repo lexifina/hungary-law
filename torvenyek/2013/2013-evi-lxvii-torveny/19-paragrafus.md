@@ -1,0 +1,7 @@
+19. § (1) A felügyeleti szerv az ellenőrzés során az útdíjszedő és az útdíjszolgáltató e törvény hatálya alá tartozó tevékenységeire vonatkozó adatbázisaiba betekinthet, az ott tárolt adatokról, listákról másolatot, vagy feljegyzést készíthet. Az így tudomására jutott személyes adatokat a felügyeleti szerv a hatósági ellenőrzési eljárás lezárását követő egy év elteltével törli.
+
+(2) Az útdíjszedő és az útdíjszolgáltató az adatbázisait úgy köteles kialakítani és működtetni, hogy a felügyeleti szerv az ellenőrzési feladatának az adatbázis működésének sérelme nélkül, bármikor eleget tudjon tenni.
+
+(3) A felügyeleti szerv a vizsgálatának megállapításait jogosult nyilvánosságra hozni azzal, hogy a díjfizetésre kötelezettek és az úthasználók személyes adatait nem hozhatja nyilvánosságra.
+
+(4) Ha a felügyeleti szerv az ellenőrzési jogosítványai alapján adatot kér, a megkeresésnek – ha e törvény másként nem rendelkezik – a megkeresett útdíjszedő és útdíjszolgáltató a felügyeleti szerv által megállapított határidőn belül köteles eleget tenni.
