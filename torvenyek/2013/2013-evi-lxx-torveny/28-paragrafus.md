@@ -1,13 +1,5 @@
 28. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2013. évi LXX. törvényhez
 
 „5. melléklet a 2011. évi CCIV. törvényhez
