@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. § Az Országos Nyugdíjbiztosítási Főigazgatóságról szóló 289/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Onyfr.) 3. §-a a következő (8) bekezdéssel egészül ki:
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2013. június 1-jén lép hatályba.
+## „(8) A Kormány a társadalombiztosítási egyéni számlát vezető szervnek az Országos Nyugdíjbiztosítási Főigazgatóságot jelöli ki.”
