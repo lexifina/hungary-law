@@ -1,3 +1,0 @@
-5. § A Pp. 173. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt hallgatja ki a bíróság, a meghallgatása előtt személyazonosságát a nevének, feladatkörének, munkakörének, vezetői megbízásának, a szolgálati helye szerinti bíróság nevének és címének a rögzítésével kell megállapítani. A bíró személyazonosságának megállapítását követően a kihallgatására az (1) bekezdésében foglaltak megfelelően irányadóak. Ha a bíró szolgálati viszonya a per alatt megszűnik, a válaszadási kötelezettségére vonatkozóan az általános szabályok az irányadók.”
