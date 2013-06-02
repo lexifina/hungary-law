@@ -1,4 +1,4 @@
-## 9–14. §[^4]
+## 9–14. §[^5]
 
 ## 15. § Ez a rendelet
 
@@ -10,4 +10,4 @@
 
 való megfelelést szolgálja.
 
-[^4]: A 9–14. § az 5. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^5]: A 9–14. § az 5. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
