@@ -1,14 +1,4 @@
-37. § (1) A Kkt.
-
-a) 33/B. § (3) bekezdésében az „A használati díj és az útdíj” szövegrész helyébe az „A használati díj” szöveg,
-
-b) 33/B. § (4) bekezdésében az „A használati díj és az útdíj” szövegrész helyébe az „A használati díj” szöveg,
-
-c) 33/B. § (5) bekezdésében az „a használati díjat vagy az útdíjat” szövegrész helyébe az „a használati díjat” szöveg,
-
-d) 48. § (3) bekezdés g) pont 3. alpontjában a „használati díj és útdíj” szövegrész helyébe a „használati díj” szöveg
-
-lép.
+37. § (1)
 
 (2)
 
