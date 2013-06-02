@@ -1,5 +1,3 @@
-## 2. § Az R. a következő 7. §-sal egészül ki:
+## 1–2. §[^1]
 
-## „7. § (1) A 6. § (3) bekezdése 2013. június 4-én hatályát veszti.
-
-## (2) A 6. § (2) bekezdése 2013. július 3-án hatályát veszti.”
+[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
