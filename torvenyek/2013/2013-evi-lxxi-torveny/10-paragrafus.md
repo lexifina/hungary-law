@@ -1,3 +1,0 @@
-10. § A Dohánytörvény 15. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) A dohánytermék-kiskereskedő a dohánytermék-nagykereskedőtől, illetve bármely más személytől a dohánytermék részére történő értékesítése során, vagy a dohánytermék-kiskereskedelmi tevékenységével összefüggésben közvetve, vagy közvetlenül ajándékot, árengedményt, kedvezményt, vagy egyéb más juttatást nem fogadhat el, ide nem értve a kiskereskedelemben általában szokásos, vagy jogszabály által előírt kereskedelmi árrés biztosítását a dohánytermék-kiskereskedő részére. E tilalomba ütközik az is, ha az ajándékot, árengedményt, kedvezményt, térítést, vagy egyéb juttatást bármely személy a dohánytermék-kiskereskedőre tekintettel fogadja el.”
