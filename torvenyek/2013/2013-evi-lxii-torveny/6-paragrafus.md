@@ -1,3 +1,0 @@
-6. § A Fot. VIII. Fejezete a következő 27/A. §-sal egészül ki:
-
-„27/A. § A fogyatékos személyek jogainak előmozdítása, életminőségük javítása, önálló életvitelük támogatása és az e törvényben megfogalmazott egyéb célok, feladatok megvalósítása érdekében nyújtott, európai uniós forrásból finanszírozott, illetve hazai költségvetési támogatás esetén a társadalmi esélyegyenlőség előmozdításáért felelős miniszter döntése alapján a képviseletében eljáró közreműködő szervezetként a szakmai felügyelete alatt álló, a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott szervezet jár el.”

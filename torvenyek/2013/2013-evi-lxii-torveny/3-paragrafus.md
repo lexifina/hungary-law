@@ -1,3 +1,1 @@
-3. § A Fot. 16. §-a helyébe a következő rendelkezés lép:
-
-„16. § Ha a fogyatékos személy foglalkoztatása az integrált foglalkoztatás keretében nem megvalósítható, úgy számára a munkához való jogát lehetőség szerint biztosítani kell. A megváltozott munkaképességű munkavállalókat foglalkoztató akkreditált munkáltatókat és a szociális foglalkoztatást végző foglalkoztatókat a központi költségvetés – jogszabályban meghatározottak szerint – támogatásban részesíti.”
+3–9. §

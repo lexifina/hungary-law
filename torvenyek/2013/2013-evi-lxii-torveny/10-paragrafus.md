@@ -2,11 +2,11 @@
 
 a)
 
-b) 29. §-a,
+b)
 
 c)
 
-d) 30. § (1) bekezdés c) pontja,
+d)
 
 e)
 
