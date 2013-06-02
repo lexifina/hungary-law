@@ -1,3 +1,0 @@
-## „(4) A létesítmény kezelője biztosítja az őrzést ellátó állomány megfelelő szintű elhelyezését. A létesítmény kezelőjének költségére a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét az Országgyűlési Őrség végzi.”
-
-## 3. A SIS-be történő adatbevitel elrendeléséhez felhasználandó iratmintákról, valamint a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet módosításáról szóló 45/2007. (IX. 21.) IRM rendelet hatályon kívül helyezése

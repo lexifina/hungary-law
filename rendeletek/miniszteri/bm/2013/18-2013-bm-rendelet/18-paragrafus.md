@@ -1,3 +1,0 @@
-## 17. § Az R. 98. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A közterületen, a fogdában, az őrzött szálláson, az őrzött létesítményben, illetve az előállító egységben végzett szolgálatellátás során az egyenruhát viselő rendőr kizárólag szolgálati célú mobil rádiótelefon készüléket, telefonálásra, üzenet küldésére és fogadására alkalmas más telekommunikációs eszközt tarthat magánál a határrendészeti, a közlekedésrendészeti, a közrendvédelmi, illetve a személy- és objektumvédelmi feladatainak ellátása során. Ezen rendelkezés alól indokolt esetben a szolgálati elöljáró írásban felmentést adhat.”
