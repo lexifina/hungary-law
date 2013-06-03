@@ -136,6 +136,8 @@
 
 | 64a | AL7 | Külföldről származó, adósság típusú források változásának összetevői | kijelölt hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, havi | elektronikus úton (EBEAD) | tárgyidőszakot követő második munkanap 12 óra | MNB Statisztika |
 
+| 64b | AL8 | Az NHP I. és II. pillérének keretében a kis- és középvállalkozásoknak nyújtott hitelek adatai | kijelölt – az NHP I. és II. pillérében részt vevő – hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, eseti | elektronikus úton (GiroHálóMail) | az NHP I. pillérének keretében az MNB által refinanszírozásra kerülő, kis- és középvállalkozások javára nyújtott hitelek adatai tekintetében: a refinanszírozási hitel kívánt folyósítási napját megelőző munkanap 12 óra; az NHP II. pillérének keretében az MNB által refinanszírozásra kerülő, kis- és középvállalkozások javára nyújtott hitelek adatai tekintetében: a refinanszírozási hitel kívánt folyósítási napját megelőző 3. munkanap 12 óra; a jelentett adatokban beállt változás esetén: a kitöltési előírások eltérő rendelkezése hiányában a változás adatszolgáltató által előre ismert napján 12 óra | MNB Pénz- és devizapiac |
+
 | 65 | L01 | Nemzetközi tartalékok és devizalikviditás | MÁK, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 15. nap | MNB Statisztika |
 
 | 66 | L10 | Felvett vállalati és háztartási hitelek adatai | központi hitelinformációs rendszert működtető pénzügyi vállalkozás | havi | elektronikus úton | tárgyidőszakot követő hónap 10. munkanap | MNB Statisztika |
