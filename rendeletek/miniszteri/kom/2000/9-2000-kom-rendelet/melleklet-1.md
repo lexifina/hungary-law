@@ -2,7 +2,7 @@
 
 1. számú melléklet
 
-9/2000. (V. 19.) KöM rendelethez[^34]
+9/2000. (V. 19.) KöM rendelethez[^40]
 
 ## A természetvédelmi őrök egyenruházata és az egyenruha viselés előírásai
 
@@ -92,9 +92,10 @@ III. Az egyenruha viselésének szabályai
 
 (19) A ruházattal a természetvédelmi őrök mind mennyiségi, mind pedig minőségi tekintetben bármikor elszámoltathatók.
 
-(20)[^35] A közszolgálati jogviszony nyugellátásra szerzett jogosultság miatti felmentéssel történő megszűnése után megtartott ruházat csak a szolgálatibeosztás-jelzés nélkül viselhető.
+(20)[^41] A közszolgálati jogviszony nyugellátásra szerzett jogosultság miatti felmentéssel történő megszűnése után megtartott ruházat csak a szolgálatibeosztás-jelzés nélkül viselhető.
 
-(21) Az egyenruha-viselés szabályainak betartását állami természetvédelmi őr esetében az igazgató, az igazgatósági őrszolgálat-vezető és a természetvédelmi őr közvetlen szolgálati felettese, önkormányzati természetvédelmi őr esetében az önkormányzati őrszolgálat-vezető vagy a közvetlen irányítást ellátó jegyző, valamennyi természetvédelmi őr esetében pedig a Minisztérium erre feljogosított köztisztviselője ellenőrzi.
+(21)[^42] Az egyenruha-viselés szabályainak betartását állami természetvédelmi őr esetében az igazgató, az igazgatósági őrszolgálat-vezető és a természetvédelmi őr közvetlen szolgálati felettese, önkormányzati természetvédelmi őr esetében az önkormányzati őrszolgálat-vezető vagy a közvetlen irányítást ellátó jegyző, valamennyi természetvédelmi őr esetében pedig a Minisztérium erre feljogosított kormánytisztviselője ellenőrzi.
 
-[^34]: Az 1. számú melléklet a 41/2006. (X. 6.) KvVM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 1. számú melléklet III. részének (20) bekezdése a 7/2008. (III. 18.) KvVM rendelet 3. § (1) bekezdésének b) pontja szerint módosított szöveg.
+[^40]: Az 1. számú melléklet a 41/2006. (X. 6.) KvVM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 1. számú melléklet III. részének (20) bekezdése a 7/2008. (III. 18.) KvVM rendelet 3. § (1) bekezdésének b) pontja szerint módosított szöveg.
+[^42]: Az 1. számú melléklet III. pont (21) alpontja a 45/2013. (VI. 3.) VM rendelet 3. § (6) bekezdés f) pontja szerint módosított szöveg.

@@ -1,146 +1,4 @@
-## 1. számú függelék
-
-## A természetvédelmi őrök egyenruházata, alapellátási norma
-
-| Sor- szám | Megnevezés | Irányszín | Alapellátási norma | Elvi kihordási idő |
-
-| alapnorma | kieg. norma |
-
-| I. Terepi szolgálati egyenruha |
-
-| A) Téli viseletelemek |
-
-| 1. | Téli kabát | P-561 U | 1 db |  | 36 hó |
-
-| 2. | Polár dzseki egyben téli kabát bélés | P-561 U | 1 db |  | 36 hó |
-
-| 3. | Téli nadrág | P-561 U | 2 db |  | 24 hó |
-
-| 4. | Vízhatlan téli nadrág | P-561 U | 1 db |  | 24 hó |
-
-| 5. | Téli mellény (polár) | P-561 U | 1 db |  | 36 hó |
-
-| 6. | Téli ing | P-562 U | 2 db |  | 24 hó |
-
-| 7. | Téli sapka | P-561 U | 1 db |  | 36 hó |
-
-| 8. | Sál | zöld | 1 db |  | 36 hó |
-
-| 9. | Kesztyű | barna | 1 db |  | 36 hó |
-
-| 10. | Téli zokni | zöld | 3 pár |  | 12 hó |
-
-| 11. | Bakancs | barna | 1 pár |  | 36 hó |
-
-| B) Nyári és őszi-tavaszi viseletelemek |
-
-| 1. | Nyári-őszi-tavaszi nadrág | P-561 U | 3 db |  | 18 hó |
-
-| 2. | Őszi-tavaszi mellény | P-561 U | 1 db |  | 24 hó |
-
-| 3. | Pulóver | P-561 U | 1 db |  | 36 hó |
-
-| 4. | Hosszú ujjú ing | P-562 U | 2 db |  | 24 hó |
-
-| 5. | Rövid ujjú ing | P-562 U | 2 db |  | 24 hó |
-
-| 6. | Póló | P-562 U | 2 db |  | 24 hó |
-
-| 7. | Nyári-őszi-tavaszi sapka | P-561 U | 1 db |  | 36 hó |
-
-| 8. | Zokni | zöld | 5 pár |  | 12 hó |
-
-| 9. | Átmeneti cipő | barna | 1 pár |  | 36 hó |
-
-| 10. | Félcipő | barna | 1 pár |  | 36 hó |
-
-| C) További viseletelemek |
-
-| 1. | Rövid nadrág | P-561 U | 1 db |  | 36 hó |
-
-| 2. | Nyakkendő | zöld | 1 db |  | 36 hó |
-
-| 3. | Derékszíj – 40 mm széles | barna | 1 db |  | 36 hó |
-
-| 4. | Öv – 30 mm széles | barna | 1 db |  | 36 hó |
-
-| D) Védőruházat |
-
-| 1. | Polár aláöltözet (felső és alsó) | zöld | 1 db |  |  |
-
-| 2. | Esőruházat | zöld | 1 db |  |  |
-
-| 3. | Gumicsizma | zöld | 1 db |  |  |
-
-| 4. | Kamásli | zöld | 1 db |  |  |
-
-| E) Kiegészítő szolgálati felszerelések |
-
-| 1. | Szolgálati oldaltáska | barna | 1 db |  |  |
-
-| 2. | Szolgálati hátizsák | zöld | 1 db |  |  |
-
-| 3. | Taktikai öv | zöld | 1 db |  |  |
-
-| 4. | Fegyvertok (övtok) | zöld | 1 db |  |  |
-
-| 5. | Fegyvertok (combtok) | zöld | 1 db |  |  |
-
-| 6. | Tártok | zöld | 1 db |  |  |
-
-| 7. | Bilincs tok | zöld | 1 db |  |  |
-
-| 8. | Gázspray tok | zöld | 1 db |  |  |
-
-| 9. | Irattartó övtáska | zöld | 1 db |  |  |
-
-| II. Társasági egyenruha |
-
-| A) Férfi viseletelemek |
-
-| 1. | Öltöny (zakó, pantalló és mellény) | zöld | 1 db |  | 48 hó |
-
-| 2. | Téli kabát | zöld | 1 db |  | 48 hó |
-
-| 3. | Hosszú ujjú ing | homok | 2 db |  | 24 hó |
-
-| 4. | Rövid ujjú ing | homok | 2 db |  | 24 hó |
-
-| 5. | Kalap | zöld | 1 db |  | 48 hó |
-
-| 6. | Nyakkendő | zöld | 1 db |  | 48 hó |
-
-| 7. | Sál | zöld | 1 db |  | 48 hó |
-
-| 8. | Kesztyű | barna | 1 pár |  | 48 hó |
-
-| 9. | Zokni | zöld | 3 pár |  | 12 hó |
-
-| 10. | Öv | barna | 1 db |  | 48 hó |
-
-| 11. | Félcipő | barna | 1 pár |  | 36 hó |
-
-| B) Női viseletelemek |
-
-| 1. | Kosztüm (blézer és szoknya) | zöld | 1 db |  | 48 hó |
-
-| 2. | Téli kabát | zöld | 1 db |  | 48 hó |
-
-| 3. | Hosszú ujjú blúz | homok | 2 db |  | 24 hó |
-
-| 4. | Rövid ujjú blúz | homok | 2 db |  | 24 hó |
-
-| 5. | Kalap | zöld | 1 db |  | 48 hó |
-
-| 6. | Nyakkendő | zöld | 1 db |  | 48 hó |
-
-| 7. | Sál | zöld | 1 db |  | 48 hó |
-
-| 8. | Kesztyű | barna | 1 pár |  | 48 hó |
-
-| 9. | Öv | barna | 1 db |  | 48 hó |
-
-| 10. | Félcipő | barna | 1 pár |  | 36 hó |
+## 1. számú függelék[^43]
 
 ## 2. számú függelék
 
@@ -266,11 +124,11 @@
 
 ## Az állami természetvédelmi őr egyenruházati jelzései (testületi jelzései) a karjelvény, a sapkajelvény, az alkalmazó nemzeti park igazgatóság megnevezését tartalmazó állományjelző, a szolgálati beosztásjelzés és a szakmai jelvény.
 
-## A karjelvény leírása[^36]
+## A karjelvény leírása[^44]
 
 ## A kör alakú karjelvény szövött anyagból készül, 80 mm átmérővel. A zöld alapszínű jelvény keretét a fekete színű felvarrószegélyen belüli, 2 mm széles, aranysárga színű szegély képezi. A szegélyen belül körben a „TERMÉSZETVÉDELMI ŐRSZOLGÁLAT” szövegű, aranysárga színű felirat látható, melynek 8 mm betűmagasságú két szavát 1-1 stilizált pilisilen-virág választja el egymástól. A feliraton belül a természetvédelmi őrszolgálat hármas szimbóluma látható. Ez hátsó síkban lévő, 0,8 mm vastag aranysárga szegéllyel mintázott, fehér színű, 38 mm széles és 40 mm magasságú pajzsot tartalmaz, középső síkban 30 mm átmérővel és 0,8 mm vastag aranysárga színű szegéllyel a természetvédelem jelképét ábrázolja, első síkjában pedig a természetvédelem jelképével alulról részben fedésben levő, 20 mm magasságú Magyarország-címer látható. A természetvédelem jelképe fehér színű, jobbra repülő nagykócsag, kör alakú égszínkék mezőben.
 
-## A sapkajelvény leírása[^37]
+## A sapkajelvény leírása[^45]
 
 ## A fekvő ellipszis alakú sapkajelvény szövött anyagból készül, 45 mm vízszintes és 35 mm függőleges átmérővel. A zöld alapszínű jelvény keretét a fekete színű felvarrószegélyen belüli, 1 mm széles aranysárga színű szegély képezi. A szegélyen belül körben a „TERMÉSZETVÉDELMI ŐRSZOLGÁLAT” szövegű, aranysárga színű felirat látható, amelynek 3 mm betűmagasságú két szavát 1-1 stilizált pilisilen-virág választja el egymástól. A feliraton belül a természetvédelmi őrszolgálat hármas szimbóluma látható. Ez hátsó síkban lévő, 0,5 mm vastag aranysárga szegéllyel mintázott, fehér színű, 15 mm széles és 16 mm magasságú pajzsot tartalmaz, középső síkban 12 mm átmérővel és 0,5 mm vastag aranysárga színű szegéllyel a természetvédelem jelképét ábrázolja, első síkjában pedig a természetvédelem jelképével alulról részben fedésben levő, 8 mm magasságú Magyarország-címer látható.
 
@@ -296,7 +154,7 @@
 
 ## A lapon baloldalt 12 mm átmérővel a természetvédelem jelképe látható, amely az első három szolgálati beosztásnál a zöld alapon, a következő három szolgálati beosztásnál pedig a 20 mm széles aranysárga sávban van elhelyezve.
 
-## A szakmai jelvény leírása[^38]
+## A szakmai jelvény leírása[^46]
 
 ## A szakmai jelvény 18x90 mm méretű, lekerekített végű fekvő téglalap alakú, zöld alapszínű, szövött anyagból készült lap, melynek fekete színű felvarrószegélyen belüli keretét 1 mm széles, aranysárga színű szegély képezi. A jelvény közepén 14 mm magasságú Magyarország-címer található, baloldalt 14 mm átmérővel és 0,5 mm vastagságú aranysárga szegéllyel a természetvédelem jelképe, jobb oldalon stilizált pilisilen-virág látható. A Magyarország-címer és a természetvédelem jelképe, valamint a Magyarország-címer és a pilisilen-virág között stilizált leveles szár látható.
 
@@ -304,11 +162,11 @@
 
 ## Az önkormányzati természetvédelmi őr egységesített egyenruházati jelzései a karjelvény, a sapkajelvény, a szolgálati beosztásjelzés és a szakmai jelvény. A szakmai jelvény az állami természetvédelmi őrével azonos.
 
-## A karjelvény leírása[^39]
+## A karjelvény leírása[^47]
 
 ## A kör alakú karjelvény szövött anyagból készül, 80 mm átmérővel. A zöld alapszínű jelvény keretét a fekete színű felvarrószegélyen belüli, 2 mm széles, aranysárga színű szegély képezi. A szegélyen belül körben az „ÖNKORMÁNYZATI TERMÉSZETVÉDELEM” szövegű, aranysárga színű felirat látható. A feliraton belül a természetvédelmi őrszolgálat hármas szimbóluma látható. Ez hátsó síkban lévő, 0,8 mm vastag, aranysárga szegéllyel mintázott, fehér színű, 38 mm széles és 40 mm magasságú pajzsot tartalmaz, középső síkban 30 mm átmérővel és 0,8 mm vastag, aranysárga színű szegéllyel a természetvédelem jelképét ábrázolja, első síkjában pedig a természetvédelem jelképével alulról részben fedésben levő, 20 mm magasságú Magyarország-címer látható. A természetvédelem jelképe fehér színű, jobbra repülő nagykócsag, kör alakú égszínkék mezőben.
 
-## A sapkajelvény leírása[^40]
+## A sapkajelvény leírása[^48]
 
 ## A fekvő ellipszis alakú sapkajelvény szövött anyagból készül, 45 mm vízszintes és 35 mm függőleges átmérővel. A zöld alapszínű jelvény keretét a fekete színű felvarrószegélyen belüli, 1 mm széles, aranysárga színű szegély képezi. A szegélyen belül körben az „ÖNKORMÁNYZATI TERMÉSZETVÉDELEM” szövegű, aranysárga színű felirat látható. A feliraton belül a természetvédelmi őrszolgálat hármas szimbóluma látható. Ez hátsó síkban lévő, 0,5 mm vastag aranysárga szegéllyel mintázott, fehér színű, 15 mm széles és 16 mm magasságú pajzsot tartalmaz, középső síkban 12 mm átmérővel és 0,5 mm vastag, aranysárga színű szegéllyel a természetvédelem jelképét ábrázolja, első síkjában pedig a természetvédelem jelképével alulról részben fedésben levő, 8 mm magasságú Magyarország-címer látható.
 
@@ -326,10 +184,12 @@
 
 ## Az állami és az önkormányzati természetvédelmi őr egyenruházatának felső viseletelemein alkalmazott egyenruhagomb olajzöld színű, műanyagból készült, sajtolt füles gomb. A nagyméretű gomb átmérője 20 mm, amely a 3 mm-es peremen belüli, 14 mm átmérőjű, enyhén domborított felületén jobbra repülő nagykócsagot ábrázol. A kisméretű gomb átmérője 15 mm, pereme 2 mm-es, jobbra repülő nagykócsagot ábrázoló enyhén domborított felületének átmérője 9 mm.
 
-2. számú melléklet a 9/2000. (V. 19.) KöM rendelethez
+2. számú melléklet a 9/2000. (V. 19.) KöM rendelethez[^49]
 
-[^36]: Az 1. számú melléklet 3. függelék „ÁLLAMI TERMÉSZETVÉDELMI ŐR” cím „A karjelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
-[^37]: Az 1. számú melléklet 3. függelék „ÁLLAMI TERMÉSZETVÉDELMI ŐR” cím „A sapkajelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
-[^38]: Az 1. számú melléklet 3. függelék „ÁLLAMI TERMÉSZETVÉDELMI ŐR” cím „A szakmai jelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) és b) pontja szerint módosított szöveg.
-[^39]: Az 1. számú melléklet 3. függelék „ÖNKORMÁNYZATI TERMÉSZETVÉDELMI ŐR” cím „A karjelvény jelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
-[^40]: Az 1. számú melléklet 3. függelék „ÖNKORMÁNYZATI TERMÉSZETVÉDELMI ŐR” cím „A sapkajelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
+[^43]: Az 1. számú melléklet 1. számú függelékét a 45/2013. (VI. 3.) VM rendelet 3. § (7) bekezdése hatályon kívül helyezte.
+[^44]: Az 1. számú melléklet 3. függelék „ÁLLAMI TERMÉSZETVÉDELMI ŐR” cím „A karjelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
+[^45]: Az 1. számú melléklet 3. függelék „ÁLLAMI TERMÉSZETVÉDELMI ŐR” cím „A sapkajelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
+[^46]: Az 1. számú melléklet 3. függelék „ÁLLAMI TERMÉSZETVÉDELMI ŐR” cím „A szakmai jelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^47]: Az 1. számú melléklet 3. függelék „ÖNKORMÁNYZATI TERMÉSZETVÉDELMI ŐR” cím „A karjelvény jelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
+[^48]: Az 1. számú melléklet 3. függelék „ÖNKORMÁNYZATI TERMÉSZETVÉDELMI ŐR” cím „A sapkajelvény leírása” alcíme az 5/2012. (II. 10.) VM rendelet 1. § a) pontja szerint módosított szöveg.
+[^49]: A 2. számú melléklet a 45/2013. (VI. 3.) VM rendelet 3. § (5) bekezdés a) pontjával megállapított szöveg.

@@ -1,10 +1,12 @@
+## 4. §[^5] A természetvédelmi őr, illetve önkormányzati természetvédelmi őr kormányzati szolgálati jogviszonyának, köztisztviselői jogviszonyának vagy munkakörének megszűnése esetén 5 napon belül köteles a szolgálatának ellátásához rendelkezésre bocsátott valamennyi felszerelést és eszközt, különösen a helyszíni bírság nyomtatványokat, a szolgálati igazolványt, a szolgálati jelvényt és a szolgálati naplót az igazgatóságnak, illetve az önkormányzatnak átadni, amely az átvételről igazolást állít ki.
+
 5. § (1) Az Őrszolgálat tagjaira, az állami természetvédelmi őrökre az alábbi, hierarchikus sorrendben felsorolt munkaköri megnevezések alkalmazhatóak:
 
 a) természetvédelmi területőr,
 
 b) természetvédelmi őrkerület-vezető,
 
-c)[^8] természetvédelmi területfelügyelő,
+c)[^6] természetvédelmi területfelügyelő,
 
 d) természetvédelmi tájegységvezető,
 
@@ -16,4 +18,5 @@ f) természetvédelmi őrszolgálat-vezető.
 
 (3) Az önkormányzati természetvédelmi őr esetében az R. 10. § (1) bekezdésben foglaltak kivételével munkaköri megnevezés nem alkalmazható.
 
-[^8]: Az 5. § (1) bekezdésének c) pontja a 41/2006. (X. 6.) KvVM rendelet 4. §-ával megállapított szöveg.
+[^5]: A 4. § a 45/2013. (VI. 3.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdésének c) pontja a 41/2006. (X. 6.) KvVM rendelet 4. §-ával megállapított szöveg.
