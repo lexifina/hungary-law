@@ -1,13 +1,13 @@
 ## A JAA tagállam által kiadott repülőgép pilóta szakszolgálati engedély
 
-27. § (1)[^5] A JAA tagállam légiközlekedési hatósága által kiadott repülőgép pilóta szakszolgálati engedély, az abban bejegyzett jogosítás és nyelvismereti kiterjesztés az érvényességi időn belül Magyarországon minden további eljárás nélkül érvényes.
+27. § (1)[^6] A JAA tagállam légiközlekedési hatósága által kiadott repülőgép pilóta szakszolgálati engedély, az abban bejegyzett jogosítás és nyelvismereti kiterjesztés az érvényességi időn belül Magyarországon minden további eljárás nélkül érvényes.
 
-(2)[^6] A JAA tagállam légiközlekedési hatósága által kiadott repülőgép pilóta szakszolgálati engedéllyel rendelkező személy, ha Magyarországon munkaviszonnyal vagy szokásos tartózkodási hellyel rendelkezik, jogosult szakszolgálati engedélyét magyar szakszolgálati engedélyre cserélni.
+(2)[^7] A JAA tagállam légiközlekedési hatósága által kiadott repülőgép pilóta szakszolgálati engedéllyel rendelkező személy, ha Magyarországon munkaviszonnyal vagy szokásos tartózkodási hellyel rendelkezik, jogosult szakszolgálati engedélyét magyar szakszolgálati engedélyre cserélni.
 
-(3)[^7] A JAA tagállamának légiközlekedési hatósága által repülőgép pilóta szakszolgálati engedély megszerzéséhez szükséges képzésre kiadott képzési engedély, Magyarországon minden további eljárás nélkül érvényes az engedélyben foglalt feltételeknek megfelelően.
+(3)[^8] A JAA tagállamának légiközlekedési hatósága által repülőgép pilóta szakszolgálati engedély megszerzéséhez szükséges képzésre kiadott képzési engedély, Magyarországon minden további eljárás nélkül érvényes az engedélyben foglalt feltételeknek megfelelően.
 
 (4) Az engedélyes egyidejűleg csak egy JAA tagállam által kiadott szakszolgálati engedéllyel rendelkezhet.
 
-[^5]: A 27. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § b) pontja szerint módosított szöveg.
-[^6]: A 27. § (2) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § b) pontja szerint módosított szöveg.
-[^7]: A 27. § (3) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § b) pontja szerint módosított szöveg.
+[^6]: A 27. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § b) pontja szerint módosított szöveg.
+[^7]: A 27. § (2) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § b) pontja szerint módosított szöveg.
+[^8]: A 27. § (3) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § b) pontja szerint módosított szöveg.
