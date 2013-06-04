@@ -2,9 +2,9 @@
 
 A halászati őrök nyilvántartásának mintája
 
-MEZŐGAZDASÁGI SZAKIGAZGATÁSI HIVATAL
+…………………………………… MEGYEI KORMÁNYHIVATAL
 
-.................................................... MEGYEI
+FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG
 
 HALÁSZATI HATÓSÁG
 
@@ -12,15 +12,33 @@ Nyilvántartás a halászati őrökről
 
 |
 
-Sorszám
+Sor-
+
+szám
 
 |
 
-Név
+Nyilván-
+
+tartásba vétel idő-
+
+pontja
 
 |
 
-Szül. hely, idő
+Családi és utónév
+
+|
+
+Anyja leány-
+
+kori családi és utóneve
+
+|
+
+Szüle-
+
+tési hely, idő
 
 |
 
@@ -28,24 +46,44 @@ Lakóhely
 
 |
 
-Eskütétel időpontja
+Eskütétel idő-
+
+pontja, eskü-
+
+okmány száma
 
 |
 
-Hatósági igazolvány és szolgálati napló száma
+Szolgálati igazol-
+
+vány, jelvény, napló száma
 
 |
 
-Foglalkoztató (megbízó) neve, székhelye
+Vizsgák időpontja és sorszáma
 
 |
 
-Működési hely (halászati vízterület)
+Működési hely, halászati vízterület kódja
 
 |
 
-Halászati hatóság aláírása
+Munkáltató (megbízó) megneve-
+
+zése és címe
 
 |
 
-Egyéb
+Alkalma-
+
+zási
+
+jogvi-
+
+szony típusa
+
+|
+
+Foglalkoztatás kezdete/
+
+befejezése

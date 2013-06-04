@@ -2,11 +2,7 @@
 
 MINTA 1. oldala
 
-FÖLDMŰVELÉSÜGYI MINISZTÉRIUM
-
-………………………………………… MEGYEI
-
-HALÁSZATI HATÓSÁG
+.......... MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG HALÁSZATI HATÓSÁG
 
 (Szigorú számadású nyomtatvány)
 

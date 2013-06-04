@@ -18,7 +18,7 @@ Vhr. 16. § (1) A jogosult az Országos Halászati Adattár (a továbbiakban: Ad
 
 (3) Az (1)–(2) bekezdésben foglaltakat első alkalommal – az 1998. évi adatok vonatkozásában – 1999. március 15. napjáig kell az Adattár felé teljesíteni.
 
-Vhr. 17. § (1) Az Adattár fenntartásáról és működtetéséről a miniszter a Haltenyésztési Kutató Intézet (a továbbiakban: Intézet) útján gondoskodik. Az Intézet felelős az Adattár üzemeltetéséért és karbantartásáért, az adatok védelméért, az információs rendszer számítógépparkjának és programjainak folyamatos fejlesztéséért.
+Vhr. 17. § (1) Az Adattár fenntartásáról és működtetéséről a miniszter a Halászati és Öntözési Kutatóintézet (a továbbiakban: Intézet) útján gondoskodik. Az Intézet felelős az Adattár üzemeltetéséért és karbantartásáért, az adatok védelméért, az információs rendszer számítógépparkjának és programjainak folyamatos fejlesztéséért.
 
 (2) Az ország halállományának állapotára vonatkozó adatok közül csak a miniszter által már közzétett adatok nyilvánosak.
 

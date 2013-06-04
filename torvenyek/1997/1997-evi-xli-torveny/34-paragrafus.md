@@ -24,30 +24,30 @@ e) a személytől az állami halász- és horgászjegyet visszatartani és azt a
 
 (5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint a miniszter rendeletben állapítja meg.
 
-Vhr. 19. § (1) A halászati őr köteles a halászattal és a horgászattal kapcsolatos ismeretekről, a halászat és horgászat, a halászati őrzés, a mezőgazdasági őrszolgálat, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéről a működésének helye szerint illetékes halászati hatóság vizsgabizottsága előtt vizsgát tenni. A vizsga letételéről a halászati hatóság a 6. számú melléklet szerinti bizonyítványt adja ki.
+Vhr. 19. § (1) A halászati hatóság a halászati őrök számára tanfolyamot és vizsgát szervez. A halászati hatóság a sikeres vizsgát követően a 6. számú melléklet szerinti vizsgabizonyítványt állít ki.
 
-(2) A vizsga részletes szakmai anyagának meghatározásáról a minisztérium gondoskodik.
+(2) A halászati őr kétévente – díj ellenében – köteles a halászattal és a horgászattal, a halvédelemmel, valamint a halászati őrzéssel összefüggő jogszabályokkal kapcsolatos továbbképzésen részt venni. A továbbképzésen való részvételt a halászati hatóság a 6. számú melléklet szerinti bizonyítványba bejegyzi.
 
-Vhr. 20. § (1) A halászati vizsgát tett halászati őr megbízásának vagy foglalkoztatásának megkezdése előtt a működésének helye szerinti halászati hatóság halászati felügyelője előtt köteles esküt tenni. A halászati őr esküjének szövege a következő:
+(3) Az (1) bekezdésben foglalt vizsga részletes szakmai anyagának meghatározásáról a minisztérium és a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) gondoskodik.
 
-,,Én ……………………………… esküszöm, hogy a rám bízott halászati vízterület (halastó) halállományára és élőhelyére, valamint a halászati berendezésekre lelkiismeretesen vigyázok. Feladataimat a jogszabályok rendelkezéseinek, a szakmai szabályoknak és a kapott megbízásnak, utasításnak megfelelően teljesítem. A halászat, horgászat érdekeit sértő cselekmények és károkozások megelőzésére a szükséges intézkedéseket megteszem. A hatályos jogszabályoknak megfelelően mindazokkal a személyekkel szemben eljárok, akik a halászati vízterületen (a halastavon) vagy annak partján jogosultság hiányában halásznak, horgásznak, továbbá a halállomány és élőhelyének érdekeit sértik vagy veszélyeztetik.''
+Vhr. 20. § (1) A vizsgát tett halászati őr megbízásának vagy foglalkoztatásának megkezdése előtt a működésének helye szerinti halászati hatóság halászati felügyelője előtt köteles esküt tenni. A halászati őr esküjének szövege a következő:
 
-(2) A halászati hatóság az eskü kivételéről esküokmányt ad ki. Az eskü letételéről szóló tanúsítványt – amelyet az érintettek aláírásukkal hitelesítenek – a halászati hatóság őrzi.
+”Én .............................. esküszöm, hogy a rám bízott halászati vízterület (halastó) halállományára és élőhelyére, valamint a halgazdálkodási, halászati és horgászati létesítményekre, berendezésekre lelkiismeretesen vigyázok. Feladataimat a jogszabályok rendelkezéseinek, a szakmai szabályoknak és a kapott megbízásnak, utasításnak megfelelően teljesítem. A halászati, horgászati előírásokat sértő cselekmények és károkozások megelőzésére a szükséges intézkedéseket megteszem. A hatályos jogszabályoknak megfelelően mindazokkal a személyekkel szemben eljárok, akik a halászati vízterületen (a halastavon) vagy annak partján jogosultság hiányában halásznak, horgásznak, továbbá a halállományt és a halászati vízterületek élőhelyeit és környezetét sértik vagy veszélyeztetik.”
+
+(2) A halászati hatóság az eskü letételéről esküokmányt ad ki. Az eskü letételéről szóló tanúsítványt – amelyet az érintettek aláírásukkal hitelesítenek – a halászati hatóság őrzi.
 
 (3) Az esküokmány mintáját a 6. számú melléklet tartalmazza.
 
-Vhr. 21. § (1) Az esküt tett halászati őr részére a halászati hatóság a 7. számú mellékletben foglalt minta szerint – díj ellenében – hatósági igazolványt és az igazolvánnyal azonos sorszámú szolgálati naplót ad át.
+Vhr. 21. § (1) A szolgálati igazolvány és szolgálati jelvény leírását a 7. számú melléklet tartalmazza. A rendőrség a kiállított szolgálati igazolványt és szolgálati jelvényt 30 napon belül postai úton juttatja el a halászati jog jogosultja részére. A halászati jog jogosultja az esküt tett halászati őr részére – a halászati hatóság tájékoztatásával egyidejűleg – átadja a szolgálati igazolványt és szolgálati jelvényt.
 
-(2)
+(2) Az esküt tett halászati őr részére a halászati hatóság a 7. számú mellékletben foglalt minta szerint – díj ellenében – szolgálati naplót ad ki.
 
-(3) A hatósági igazolvány és a szolgálati napló elvesztését haladéktalanul be kell jelenteni a halászati hatóságnál.
+(3) A szolgálati igazolvány, a szolgálati jelvény, illetve a szolgálati napló elvesztését haladéktalanul be kell jelenteni a halászati jog jogosultjánál és a halászati hatóságnál. A halászati hatóság az elvesztés bejelentésével a rendőrségnél kezdeményezi a szolgálati igazolvány és szolgálati jelvény körözését.
 
-(4) A halászati őr a megbízása vagy foglalkoztatása megszűnése esetén 30 napon belül köteles a hatósági igazolványt és a szolgálati naplót a halászati hatóságnak átadni, amely az átvételről igazolást állít ki. A szolgálati naplót öt évig meg kell őrizni.
+(4) A halászati őr a megbízatása vagy foglalkoztatása megszűnése esetén, illetve (6) bekezdésben meghatározott esetekben 5 napon belül köteles a szolgálati igazolványt, a szolgálati jelvényt a halászati jog jogosultjának átadni, amely az átvételről igazolást állít ki és tájékoztatja a halászati hatóságot. A szolgálati naplót öt évig meg kell őrizni.
 
-(5) A halászati hatóság az esküt tett és hatósági igazolvánnyal, valamint naplóval ellátott halászati őrökről – a 8. számú melléklet szerint – nyilvántartást vezet.
+(5) A halászati hatóság az esküt tett és szolgálati igazolvánnyal, szolgálati jelvénnyel, valamint szolgálati naplóval ellátott halászati őrökről – a 8. számú melléklet szerint – nyilvántartást vezet.
 
-(6) A halászati őr igazolványának visszavonását a halászati hatóságnál a halászati őr munkáltatója, vagy megbízója, illetve a rendőrség kezdeményezheti.
-
-(7) A halászati őrök továbbképzéséről az MGSzH Központ gondoskodik.
+(6) Amennyiben a halászati hatóság bejelentés kivizsgálása után vagy szakmai felügyeleti ellenőrzés keretében megállapítja, hogy a halászati őr nem jogszabályok szerint látja el feladatát, akkor a halászati őr szolgálati igazolványának, szolgálati jelvényének visszavonását kezdeményezheti a rendőrségnél.
 
 Vhr. 22. § A halászati őr a Hhtv. 34. §-a (4) bekezdésének b) pontja szerint a jármű átvizsgálásáról intézkedik, ha a halállomány és élőhelyének őrzése céljából annak ellenőrzése is szükséges.

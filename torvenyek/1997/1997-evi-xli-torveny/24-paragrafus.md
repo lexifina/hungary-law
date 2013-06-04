@@ -20,7 +20,7 @@ felmentést adhat, eseti engedéllyel.
 
 (6)
 
-Vhr. 13/A. § (1) Az elektromos halászgép minősítési-üzembehelyezési vizsgáztatását a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola és Szakiskola (Tata) intézetében vagy a Halászati és Öntözési Kutató Intézetben (Szarvas) végezteti el a gép tulajdonosa. Az elektromos halászgépnek a villamos halászó-készülékekről szóló MSZ–05 44.1603:1983 számú szabványban foglaltaknak kell megfelelni.
+Vhr. 13/A. § (1) Az elektromos halászgép minősítési-üzembehelyezési vizsgáztatását a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola, Szakiskola és Kollégiumban vagy a Halászati és Öntözési Kutató Intézetben (Szarvas) végezteti el a gép tulajdonosa. Az elektromos halászgépnek a villamos halászó-készülékekről szóló MSZ–05 44.1603:1983 számú szabványban foglaltaknak kell megfelelni.
 
 (2) Az eredményes vizsgáról a kijelölt intézet igazolást ad, amit a tulajdonos köteles az állandó lakóhelye szerinti halászati hatóságnak – az elektromos halászgéppel egyidejűleg – bemutatni.
 

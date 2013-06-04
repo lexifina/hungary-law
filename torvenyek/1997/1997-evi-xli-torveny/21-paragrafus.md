@@ -50,11 +50,11 @@ h) a halászati őrzés ismeretéről, továbbá
 
 i) a halászati tevékenységgel kapcsolatos biztonsági, természet- és környezetvédelmi szabályokról.
 
-(4) A tanfolyam részletes szakmai anyagát a Földművelésügyi Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(4) A tanfolyam részletes szakmai anyagát a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
 
 (5)
 
-(6) A halász vizsgabizonyítványok kiadásáról a minisztérium – a Tatai Mezőgazdasági és Élelmiszeripari Szakmunkásképző Iskola útján – gondoskodik.
+(6) A halász vizsgabizonyítványok kiadásáról a minisztérium – a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola, Szakiskola és Kollégium útján – gondoskodik.
 
 Vhr. 10. § (1) Az állami horgászjegyet a halászati hatóság közvetlenül vagy nevében az általa megbízott szervezet adja ki.
 
