@@ -1,1 +1,3 @@
-## 9. § Veszélyes áru szállításának, továbbításának, illetve a veszélyesáru-szállítás, -továbbítás telephelyi előkészítésének ellenőrzésekor az ellenőrzött, valamint az ellenőrzésben érintett résztvevő köteles a katasztrófavédelmi hatóság ellenőrének a helyiségekbe történő belépését, az ellenőrzött járműhöz, a veszélyes áruhoz való hozzáférését, a veszélyes áru szállítására, továbbítására vonatkozó iratokba való betekintést lehetővé tenni és a szükséges felvilágosítást megadni.
+## 9/A. §[^5] A katasztrófavédelmi hatóság az e rendelet alapján hivatalból indított eljárása során az ügyfelet az érdemi döntéshez szükséges adatok közlésére kötelezheti.
+
+[^5]: A 9/A. §-t a 176/2013. (VI. 3.) Korm. rendelet 13. § (4) bekezdése iktatta be.
