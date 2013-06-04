@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-111-20-
 | 2011-07-05 | 2010-111-20-22.2 | 111/2011. (VII. 4.) Korm. rendelet |
 | 2012-01-01 | 2010-111-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-01-02 | 2010-111-20-22.4 | 111/2011. (VII. 4.) Korm. rendelet |
+| 2013-06-04 | 2010-111-20-22.5 | 176/2013. (VI. 3.) Korm. rendelet |

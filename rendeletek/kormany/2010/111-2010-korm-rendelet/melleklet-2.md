@@ -44,6 +44,6 @@
 
 ## 2.2.4.3. a jogszabályban meghatározott iskolai végzettséggel, szakmai képesítéssel rendelkező kérdező személy.
 
-2. melléklet a 111/2010. (IV. 9.) Korm. rendelethez[^31]
+2. melléklet a 111/2010. (IV. 9.) Korm. rendelethez[^33]
 
-[^31]: A 2. mellékletet a 16. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 2. mellékletet a 16. § (2) bekezdése hatályon kívül helyezte.
