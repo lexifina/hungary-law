@@ -60,7 +60,7 @@ r) lovas sportverseny rendezésének engedélyezésére irányuló másodfokú e
 
 ## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint az f), g) és i) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(3) A (2) bekezdés l) pontja szerinti eljárásban a szakhatóság 5 napon, a (2) bekezdés m) pontja szerinti eljárásban 8 napon belül köteles állásfoglalását megadni.
+(3)[^26] A (2) bekezdés n) pontja szerinti eljárásban a szakhatóság öt napon, a (2) bekezdés o) pontja szerinti eljárásban nyolc napon belül köteles állásfoglalását megadni.
 
 (4) A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló másodfokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
@@ -105,3 +105,4 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó másodfok�
 g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
 
 [^25]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^26]: A 30. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
