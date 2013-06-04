@@ -1,4 +1,4 @@
-## 32/A. §[^13] A helyi védelmi bizottság elnöke
+## 32/A. §[^14] A helyi védelmi bizottság elnöke
 
 a) felel a helyi szintű honvédelmi feladatok összehangolásáért,
 
@@ -6,4 +6,4 @@ b) gondoskodik a helyi védelmi bizottság munkaszervezetének működési felt�
 
 c) gondoskodik a helyi védelmi bizottság infokommunikációs rendszere és egyéb, katasztrófavédelmi célú elektronikus hírközlési kommunikációs rendszere működőképességének folyamatos biztosításáról.
 
-[^13]: A 32/A. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (9) bekezdése iktatta be.
+[^14]: A 32/A. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (9) bekezdése iktatta be.

@@ -16,6 +16,9 @@ f) az Országos Mentőszolgálat területileg illetékes vezetőjét
 
 vagy az általuk kijelölt képviselőt.
 
+(1a)[^8] A megyei, fővárosi védelmi bizottság üléseire a megyei, fővárosi védelmi bizottság elnöke tanácskozási joggal meghívhatja a helyi védelmi bizottságok elnökét.
+
 (2) Az (1) bekezdésben meghatározott személyeken kívül meg kell hívni mindazokat, akiknek meghívását a megyei, fővárosi védelmi bizottság elnöke indokoltnak tartja.
 
 [^7]: A 29. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 87. § (5) bekezdésével megállapított szöveg.
+[^8]: A 29. § (1a) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 12. §-a iktatta be.

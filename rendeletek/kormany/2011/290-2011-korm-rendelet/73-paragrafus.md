@@ -2,7 +2,7 @@
 
 a) irányítja a légiriasztással kapcsolatos polgári védelmi feladatok végrehajtását,
 
-b)[^21] a BM OKF útján biztosítja a légierő ügyeletes parancsnokától érkező, vagy a műsorszolgáltatók által sugárzott légiriasztási jelzés továbbítását a hivatásos katasztrófavédelmi szervek részére,
+b)[^22] a BM OKF útján biztosítja a légierő ügyeletes parancsnokától érkező, vagy a műsorszolgáltatók által sugárzott légiriasztási jelzés továbbítását a hivatásos katasztrófavédelmi szervek részére,
 
 c) kidolgozza a honvédelmi felkészítés éves feladattervében szereplő, a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokat,
 
@@ -12,4 +12,4 @@ e) megelőző védelmi helyzetben, rendkívüli állapotban a katasztrófavédel
 
 f) a fejezet költségvetésének tervezése során gondoskodik az a)–e) pont szerinti feladatok végrehajtásának fedezetéről.
 
-[^21]: A 73. § b) pontja a 174/2012. (VII. 26.) Korm. rendelet 87. § (13) bekezdésével megállapított szöveg.
+[^22]: A 73. § b) pontja a 174/2012. (VII. 26.) Korm. rendelet 87. § (13) bekezdésével megállapított szöveg.
