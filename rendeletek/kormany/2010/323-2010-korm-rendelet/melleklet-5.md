@@ -24,7 +24,7 @@
 
 |  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 1. | Minden esetben. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | ha nem az OTH jár el első fokon: Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 1. | Nyitott sugárforrás esetén | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | Környezetvédelmi, természetvédelmi és vízügyi felügyelőség; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | ha nem az OTH jár el első fokon: Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 2. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | megyei katasztrófavédelmi igazgatóság, a fővárosban Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -34,7 +34,7 @@
 
 |  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 1. | Minden esetben, kivéve a röntgen-berendezéseket. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 1. | Nyitott sugárforrás esetén | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 ## V. Radioaktív hulladék átmeneti tárolójának és végleges hulladéklerakó létesítése, üzemeltetése, átalakítása, megszüntetése, lezárása, és az aktív, valamint a passzív intézményes ellenőrzésre történő áttérés tekintetében
 

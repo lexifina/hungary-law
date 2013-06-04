@@ -27,4 +27,4 @@
 [^101]: A 2. melléklet 1.6. pontja a 13/2012. (II. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^102]: A 2. melléklet 2–8. pontját a 137/2012. (VI. 29.) Korm. rendelet 68. §-a hatályon kívül helyezte.
 [^103]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be, hatályon kívül helyezte a 63/2012. (IV. 2.) Korm. rendelet m) pontja.
-[^104]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 47. §-ával megállapított, a 22/2013. (II. 1.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^104]: A 3. melléklet a 296/2012. (X. 17.) Korm. rendelet 47. §-ával megállapított, a 22/2013. (II. 1.) Korm. rendelet 5. §-a, a 176/2013. (VI. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.

@@ -146,15 +146,15 @@
 
 | 72. | Illetékességi terület: | Miskolci Járás |
 
-| 73. | Tiszaújvárosi Népegészségügyi Intézet |  |
+| 73. | Mezőkövesdi Népegészségügyi Intézet |  |
 
-| 74. | Székhely: | Tiszaújváros |
+| 74. | Székhely: | Mezőkövesd |
 
-| 75. | Illetékességi terület: | Tiszaújvárosi Járás |
+| 75. | Illetékességi terület: | Mezőkövesdi Járás |
 
 | 76. |  | Mezőcsáti Járás |
 
-| 77. |  | Mezőkövesdi Járás |
+| 77. |  | Tiszaújvárosi Járás |
 
 | 78. | Szerencsi Járási Népegészségügyi Intézet |  |
 
@@ -780,4 +780,4 @@
 
 4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^105]
 
-[^105]: A 4. melléklet a 282/2011. (XII. 21.) Korm. rendelet 51. § (2) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 67. § c) és d) pontja szerint módosított szöveg.
+[^105]: A 4. melléklet a 282/2011. (XII. 21.) Korm. rendelet 51. § (2) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 67. § c) és d) pontja, a 176/2013. (VI. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
