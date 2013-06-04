@@ -1,6 +1,6 @@
 6. § (1)[^15] A megállapított pénzbeli és természetbeni szociális ellátások folyósításáról – a (2)–(2b) bekezdésekben meghatározott kivétellel – a települési, a fővárosban a fővárosi kerületi önkormányzat jegyzője (a továbbiakban: jegyző) gondoskodik.
 
-(2)[^16] Az időskorúak járadékának folyósításáról a fővárosi és megyei kormányhivatal gondoskodik. A hajléktalan személy részére megállapított időskorúak járadéka esetében a Budapest Főváros Kormányhivatala IX. Kerületi Hivatala az Szt. 32/D. § (2) bekezdése szerinti feladatát a fővárosi kormányhivatal útján látja el.
+(2)[^16] Az időskorúak járadékának folyósításáról a fővárosi és megyei kormányhivatal gondoskodik. A hajléktalan személy részére megállapított időskorúak járadéka esetében a Budapest Főváros Kormányhivatala IX. Kerületi Hivatala az Szt. 32/D. § (2) bekezdése szerinti feladatát a fővárosi kormányhivatal útján látja el. Amennyiben arra a fővárosi és megyei kormányhivatalban lehetőség van, hajléktalan személyek esetében a folyósítás a kormányhivatal házipénztára útján is történhet.
 
 (2a)[^17] Az Szt. 41. § (1) bekezdésében és az Szt. 43/A. § (1) bekezdésében foglaltak alapján megállapított ápolási díj folyósításáról a fővárosi és megyei kormányhivatal gondoskodik.
 
@@ -19,7 +19,7 @@ b) adósságcsökkentési támogatás, valamint az Szt. 38. §-a (1) bekezdésé
 (6) A nem havi rendszerességgel adott lakásfenntartási támogatást és adósságcsökkentési támogatást a jogosultnak a lakásfenntartási kiadásokkal, illetve az adósságtörlesztéssel kapcsolatos fizetési kötelezettsége felmerülésének időpontjában kell folyósítani.
 
 [^15]: A 6. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^16]: A 6. § (2) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A 6. § (2) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^17]: A 6. § (2a) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^18]: A 6. § (2b) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^19]: A 6. § (3) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 2. pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés b) pontja szerint módosított szöveg.
