@@ -4,7 +4,8 @@
 
 3. §[^3] (1) A mezőőrnek évenként az MgSzH területi szerve által szervezett továbbképzésen részt kell vennie. A részvételt az MgSzH területi szerve a vizsgabizonyítványba bejegyzi.
 
-(2) A bejelentett mezei őrszolgálatról, valamint az esküt tett mezőőrről készült nyilvántartás, hatósági szolgálati igazolvány, valamint a szolgálati napló leírását a rendelet 4–7. számú mellékletei tartalmazzák.
+(2)[^4] A bejelentett mezei őrszolgálatról készült nyilvántartást a 4. számú melléklet, az esküt tett mezőőrről készült nyilvántartást az 5. számú melléklet, a szolgálati igazolvány leírását a 6. számú melléklet, a szolgálati napló leírását a 7. számú melléklet tartalmazza
 
 [^2]: A 2. § a 118/2009. (VIII. 31.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2009. augusztus 31-én hatályos szabályok szerint kiadott mezőőri és hegyőri szolgálati igazolványok 2010. szeptember 1-jén hatályukat vesztik.
 [^3]: A 3. § a 118/2009. (VIII. 31.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2009. augusztus 31-én hatályos szabályok szerint kiadott mezőőri és hegyőri szolgálati igazolványok 2010. szeptember 1-jén hatályukat vesztik.
+[^4]: A 3. § (2) bekezdése a 45/2013. (VI. 3.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.

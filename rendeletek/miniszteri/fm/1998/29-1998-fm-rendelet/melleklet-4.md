@@ -4,7 +4,7 @@
 
 ## Igazolom, hogy ......................... mezőőr/hegyőr (szül. hely, idő: ....................... lakcím: .......................................) a fegyveres biztonsági őrségről a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény szerinti esküt a mai napon előttem letette.
 
-## Ennek alapján részére ........... számú hatósági szolgálati igazolványt, mezőőri jelvényt és szolgálati naplót kiadtam. Az esküt tett mezőőrök nyilvántartásába ................. sorszámmal bevezettem.
+## Ennek alapján részére ........... számú szolgálati igazolványt, szolgálati jelvényt és szolgálati naplót kiadtam. Az esküt tett mezőőrök nyilvántartásába ................. sorszámmal bevezettem.
 
 ## Kelt: ..............................
 

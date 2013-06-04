@@ -1,46 +1,18 @@
-## Mezőőri hatósági szolgálati igazolvány
+## Szolgálati igazolvány
 
-## MgSzH területi szerve
+## A rendészeti feladatokat ellátók szolgálati igazolványa az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 10. § (2) bekezdésében meghatározott adattartalommal rendelkező
 
-## Igazolvány száma:
+## 1. Az ISO 7810 (1995) vagy azzal egyenértékű szabványnak megfelelő, ID-1 méretű, többrétegű, melegen laminált, műanyag kártya, amely megfelel az A okmányvédelmi kategóriának.
 
-## Fegyvertartási engedély száma:
+## 2. Az alapanyagba integrált arckép méretének legalább 30x24 mm-nek kell lenni. Az arcképmezőn belül az áll és a fejtető közötti résznek a teljes képmagasság 70-80%-a közöttinek kell lenni.
 
-| Fénykép 3 × 4 cm | Név: Működési terület: Munkáltató szerv megnevezése és címe: |
-
-## ...........................................................................
-
-## MgSzH területi szervének vezetője
-
-## P. H.
-
-## 1. Pótlap: Érvényes működési terület változásai
-
-## Hegyőri hatósági szolgálati igazolvány
-
-## Hegyközség
-
-## Igazolvány száma:
-
-## Fegyvertartási engedély száma:
-
-| Fénykép 3 × 4 cm | Név: Működési terület: Munkáltató szerv megnevezése és címe: |
-
-## ..................................................
-
-## hegybíró
-
-## P. H.
-
-## 1. Pótlap: Érvényes működési terület változásai
-
-7. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^13]
+7. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^18]
 
 ## A mezőőri és a hegyőri szolgálati napló formája és vezetése
 
 I. A szolgálati napló kemény borítólapú, 1–50-ig számozott kettős lapokat tartalmaz (1. oldal)
 
-## – mezőőr/hegyőr neve, lakhelye, hatósági szolgálati igazolvány száma,
+## – mezőőr/hegyőr neve, lakhelye, szolgálati igazolvány száma,
 
 ## – a működési terület rövid leírása,
 
@@ -48,4 +20,4 @@ I. A szolgálati napló kemény borítólapú, 1–50-ig számozott kettős lapo
 
 II. Kitöltési útmutató a szolgálati naplóhoz (2. oldal)
 
-[^13]: A 7. számú melléklet a 118/2009. (VIII. 31.) FVM rendelet 10. § (1) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2009. augusztus 31-én hatályos szabályok szerint kiadott mezőőri és hegyőri szolgálati igazolványok 2010. szeptember 1-jén hatályukat vesztik.
+[^18]: A 7. számú melléklet a 118/2009. (VIII. 31.) FVM rendelet 10. § (1) bekezdésének d) pontja, a 45/2013. (VI. 3.) VM rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
