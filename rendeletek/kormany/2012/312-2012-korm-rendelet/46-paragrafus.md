@@ -26,7 +26,7 @@ e) az építésügyi hatósági engedélykérelem jogszabályban előírt mellé
 
 (5) Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül végez bontási engedélyhez kötött építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.
 
-(6)[^21] A bontási engedély iránti kérelem tárgyában az érdemi döntést
+(6)[^22] A bontási engedély iránti kérelem tárgyában az érdemi döntést
 
 a) ha a kérelem hiánytalan és az eljárásba szakhatóságot nem kell bevonni, vagy a kérelem elbírálásához szükséges hat hónapnál nem régebbi előzetes szakhatósági állásfoglalás rendelkezésre áll, az eljárás megindulásától,
 
@@ -42,4 +42,4 @@ b) részleges építménybontás esetén az engedély nélküli bontási tevéke
 
 (8) Az építésügyi hatóság a (7) bekezdésben meghatározott döntéseit egybefoglalja.
 
-[^21]: A 46. § (6) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 65. § (4) bekezdésével megállapított szöveg.
+[^22]: A 46. § (6) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 65. § (4) bekezdésével megállapított szöveg.
