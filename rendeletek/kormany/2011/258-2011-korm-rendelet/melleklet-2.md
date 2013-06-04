@@ -450,6 +450,6 @@
 
 ## 4. A megyei önkormányzat hivatalának az átadás-átvételi eljárásból kivett pénzeszközei:
 
-2. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^63]
+2. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^64]
 
-[^63]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

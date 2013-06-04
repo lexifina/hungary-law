@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-258-20-
 | 2012-10-01 | 2011-258-20-22.17 | 262/2012. (IX. 17.) Korm. rendelet |
 | 2013-01-01 | 2011-258-20-22.18 | 419/2012. (XII. 29.) Korm. rendelet |
 | 2013-03-12 | 2011-258-20-22.19 | 419/2012. (XII. 29.) Korm. rendelet |
+| 2013-06-04 | 2011-258-20-22.20 | 176/2013. (VI. 3.) Korm. rendelet |
