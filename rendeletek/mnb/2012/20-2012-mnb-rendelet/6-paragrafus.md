@@ -4,6 +4,7 @@
 
 (2) Az 1. melléklet I. pontjában foglalt táblázatnak a – jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 20/2012. (X. 15.) MNB rendelet módosításáról szóló 8/2013. (V. 27.) MNB rendelet 1. mellékletének 1. pontjával megállapított – 64a sorában meghatározott AL7 azonosító kódú adatszolgáltatást első alkalommal a 2013. június hónapra mint tárgyidőszakra vonatkozóan kell teljesíteni. Az adatszolgáltatás teljesítési határideje: 2013. július 2. 12 óra.
 
-(3) Az 1. melléklet I. pontjában foglalt táblázatnak a – jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 20/2012. (X. 15.) MNB rendelet módosításáról szóló 8/2013. (V. 27.) MNB rendelet 1. mellékletének 2. pontjával megállapított – 64b sorában meghatározott AL8 azonosító kódú adatszolgáltatást első alkalommal a Növekedési Hitelprogram (a továbbiakban: NHP) I. pillérének keretében 2013. június 4-ei folyósítási nappal, illetve az NHP II. pillérének keretében 2013. június 6-ai folyósítási nappal az MNB-től refinanszírozni kért, az adatszolgáltató által a kis- és középvállalkozások javára nyújtott hitelekre vonatkozóan kell teljesíteni. Az adatszolgáltatás teljesítési határideje: 2013. június 3. 12 óra.
+(3)[^2]
 
 [^1]: A 6. § a 8/2013. (V. 27.) MNB rendelet 1. §-ával megállapított szöveg.
+[^2]: A 6. § (3) bekezdését a 7. § (1) bekezdése hatályon kívül helyezte.

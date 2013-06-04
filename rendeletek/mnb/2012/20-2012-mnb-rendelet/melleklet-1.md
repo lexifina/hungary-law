@@ -1,3 +1,3 @@
-1. melléklet a 20/2012. (X. 15.) MNB rendelethez[^3]
+1. melléklet a 20/2012. (X. 15.) MNB rendelethez[^4]
 
-[^3]: Az 1. melléklet a 8/2013. (V. 27.) MNB rendelet 3. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet a 8/2013. (V. 27.) MNB rendelet 3. §-a szerint módosított szöveg.
