@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-71-20-8
 | 2012-06-30 | 2010-71-20-82.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-07-01 | 2010-71-20-82.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-07-02 | 2010-71-20-82.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-06-04 | 2010-71-20-82.6 | 45/2013. (VI. 3.) VM rendelet |

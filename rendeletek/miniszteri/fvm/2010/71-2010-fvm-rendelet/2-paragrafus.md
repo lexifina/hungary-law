@@ -1,12 +1,10 @@
-## 1. § E rendelet hatálya az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet nyilvántartásba vételének, nyilvántartásból történő törlésének, tevékenységének és továbbképzésének szabályaira, valamint az erdészeti szakszemélyzet, az erdőgazdálkodásért felelős miniszter által irányított minisztérium (a továbbiakban: minisztérium) erdészeti igazgatási munkakört betöltő köztisztviselőinek, és – az erdővédelmi szolgálat kivételével – az erdészeti hatóság köztisztviselőinek szolgálati igazolványával, szolgálati jelvényével, valamint egyenruha viselésével kapcsolatos szabályaira terjed ki.
+## 1. §[^1]
 
-2. § (1) Erdészeti szakszemélyzetként az a természetes személy vehető nyilvántartásba, aki
+2. § (1)[^2] Erdészeti szakszemélyzetként az a természetes személy vehető nyilvántartásba, aki rendelkezik
 
-a) erdésztechnikus szakképesítéssel, erdőmérnök, vagy okleveles erdőmérnök szakképzettséggel rendelkezik,
+a) erdésztechnikus szakképesítéssel, erdőmérnök, vagy okleveles erdőmérnök szakképzettséggel, valamint
 
-b) megfelel az erdőőrzési tevékenységgel kapcsolatban az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvényben (továbbiakban: Evt.) meghatározott feltételeknek, valamint
-
-c) nem áll foglalkozástól eltiltás hatálya alatt.
+b) az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti, az erdészeti szakszemélyzet vagy jogosult erdészeti szakszemélyzet részére kiállított szolgálati igazolvánnyal és jelvénnyel.
 
 (2) Jogosult erdészeti szakszemélyzetként az a természetes személy vehető nyilvántartásba, aki az (1) bekezdésben foglalt feltételek teljesítésén felül
 
@@ -16,4 +14,8 @@ b) a – 12. § (1) bekezdésben foglalt kivétellel – a 7. § (1) bekezdés a
 
 (3) E rendelet hatálybalépését megelőzően megszerzett, az (1) bekezdés a) pont szerinti végzettségekkel egyenértékű szakképzettségek és szakképesítések listáját az 1. melléklet tartalmazza.
 
-(4) A (2) bekezdés a) pontjának alkalmazásában szakmai gyakorlatnak számít a minisztérium vagy az erdészeti hatóság szervezetében erdészeti hatósági vagy erdészeti igazgatási munkakörben, közszolgálati jogviszony keretében történő foglalkoztatás időtartama, valamint az erdőgazdálkodási vagy erdőgazdálkodási szolgáltatási tevékenységet végző egyéni vállalkozó, jogi személy, vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet által munkaviszony vagy tagsági jogviszony keretében, erdészeti szakszemélyzetként történő foglalkoztatás időtartama.
+(4)[^3] A (2) bekezdés a) pontjának alkalmazásában szakmai gyakorlatnak számít a minisztérium vagy az erdészeti hatóság szervezetében erdészeti hatósági vagy erdészeti igazgatási munkakörben, kormányzati szolgálati jogviszony keretében történő foglalkoztatás időtartama, valamint az erdőgazdálkodási vagy erdőgazdálkodási szolgáltatási tevékenységet végző egyéni vállalkozó, jogi személy, vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet által munkaviszony vagy tagsági jogviszony keretében, erdészeti szakszemélyzetként történő foglalkoztatás időtartama.
+
+[^1]: Az 1. §-t a 45/2013. (VI. 3.) VM rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdése a 45/2013. (VI. 3.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (4) bekezdése a 45/2013. (VI. 3.) VM rendelet 5. § (8) bekezdés a) pontja szerint módosított szöveg.

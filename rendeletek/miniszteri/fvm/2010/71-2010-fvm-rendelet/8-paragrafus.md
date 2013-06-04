@@ -4,9 +4,9 @@ a) az erdészeti szakirányítási tevékenység megszüntetésének bejelentés
 
 b) halála esetén,
 
-c) amennyiben az erdőőrzési tevékenységgel kapcsolatban az Evt-ben meghatározott feltételek nem állnak fenn, valamint
+c)[^8] amennyiben a 2. § (1) bekezdés b) pontjában meghatározott feltételek nem teljesülnek
 
-d) amennyiben foglalkozástól eltiltás hatálya alatt áll
+d)[^9]
 
 törli a névjegyzékből.
 
@@ -48,4 +48,8 @@ g) szándékosan olyan elvégzett tevékenységről szóló erdőgazdálkodói b
 
 h) a 7. § (1) bekezdés b) pont szerinti továbbképzésen, annak meghirdetésétől számított 6 hónapon belül a meghirdetett időpontokban egyszer sem vett részt.
 
-(5) Az erdészeti hatóság a szakszemélyzet tagjának jelvényét, szolgálati igazolványát a névjegyzékből történő törléssel egyidejűleg bevonja, amely tényről a honlapján közleményt tesz közzé.
+(5)[^10]
+
+[^8]: A 8. § (1) bekezdés c) pontja a 45/2013. (VI. 3.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^9]: A 8. § (1) bekezdés d) pontját a 45/2013. (VI. 3.) VM rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^10]: A 8. § (5) bekezdését a 45/2013. (VI. 3.) VM rendelet 5. § (9) bekezdése hatályon kívül helyezte.

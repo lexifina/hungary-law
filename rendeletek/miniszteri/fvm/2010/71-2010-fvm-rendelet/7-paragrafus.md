@@ -1,4 +1,6 @@
-7. § (1) Az erdészeti hatóság a jogosult erdészeti szakszemélyzet részére az alábbi hatósági továbbképzéseket szervezi:
+## 6. §[^6] A rendőrség által az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet részére kiadott szolgálati jelvény a középen egy 45 mm külső átmérőjű, kör alakú betétet tartalmaz. A betét külső részén 5 mm-es sötétzöld, azon belül 1 mm-es fekete színű keret, azon belül világoszöld alapon sötétzöld, öt tölgylevélből álló erdészcsillag található. Az alkalmazott zöld színek iránykódjai: Pantone 377C és Pantone 378C. A külső sötétzöld keret sávjában „ERDÉSZETI SZAKSZEMÉLYZET” fehér színű felirat szerepel.
+
+7. § (1)[^7] Az erdészeti hatóság a jogosult erdészeti szakszemélyzet részére az alábbi hatósági szakmai továbbképzéseket szervezi:
 
 a) az erdőgazdálkodást és az erdészeti szakirányítást érintő hatályos jogszabályokról szóló általános továbbképzés,
 
@@ -13,3 +15,6 @@ b) az a) pontban foglalt jogszabályok változásairól, valamint az alkalmazás
 (5) Az erdészeti hatóság a továbbképzésre jelentkezőket a jelentkezés során általuk megadott módon értesíti a jelentkezés elfogadásáról, és a jelentkezők névsorát a továbbképzés időpontját megelőzően legalább 5 nappal a honlapján közzéteszi.
 
 (6) Az erdészeti hatóság a továbbképzésen részt vevő mindazon személyek részére, akik igazolt módon az óraszám legalább 80%-ában a képzésen részt vettek, tanúsítványt állít ki és a továbbképzés teljesítését a jogosult erdészeti szakszemélyzet esetében bejegyzi a névjegyzékbe.
+
+[^6]: A 6. § a 45/2013. (VI. 3.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^7]: A 7. § (1) bekezdés nyitó szövegrésze a 45/2013. (VI. 3.) VM rendelet 5. § (8) bekezdés b) pontja szerint módosított szöveg.
