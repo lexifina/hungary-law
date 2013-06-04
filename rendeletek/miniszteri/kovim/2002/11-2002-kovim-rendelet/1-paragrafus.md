@@ -2,7 +2,7 @@
 
 a) megfelelőség tanúsítása: az e rendelet 3. § és 7. §-ában, valamint B) mellékletében meghatározott eljárások, illetve az azok eredményéről kiállított bizonyítvány;
 
-b)[^1] felszerelés: a 2010/68/EU bizottsági irányelv (a továbbiakban: uniós irányelv) A.1. és A.2. mellékletében meghatározott, a nemzetközi dokumentumokban foglalt követelmények teljesítése céljából a hajón kötelezően elhelyezendő, vagy a használat céljából a hajón önkéntesen elhelyezett, és a nemzetközi dokumentumokban foglalt követelményeknek megfelelően a hajózási hatóság által engedélyezett berendezés, eszköz;
+b)[^1] felszerelés: az A) melléklet A.1. és A.2. részében meghatározott, a nemzetközi dokumentumokban foglalt követelmények teljesítése céljából a hajón kötelezően elhelyezendő, vagy a használat céljából a hajón önkéntesen elhelyezett, és a nemzetközi dokumentumokban foglalt követelményeknek megfelelően a hajózási hatóság által engedélyezett berendezés, eszköz;
 
 c) rádió hírközlési felszerelés: a 2001. évi XI. törvénnyel kihirdetett, a Londonban, 1974. november hó 1. napján kelt ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') IV. fejezetében előírt felszereléseket, valamint ezen egyezmény III/6.2.1 Szabályában a túlélő járművek számára előírt kétirányú VHF üzemmódú rádiótelefon készülék;
 
@@ -50,14 +50,14 @@ me) az Európai Elektrotechnikai Szabványügyi Bizottság (CENELEC), és
 
 mf) az Európai Távközlési Szabványügyi Intézet (ETSI)
 
-a nemzetközi egyezményekkel, az IMO határozataival és körözvényeivel összhangban írt elő a vizsgálatok módszereinek és eredményeinek a meghatározására, és amelyek 2002. július 1-jén fennálló állapot szerint hatályosak, és amelyeket a Közösségi irányelv A. mellékletében tartalmazott módon kell figyelembe venni;
+a nemzetközi egyezményekkel, az IMO határozataival és körözvényeivel összhangban írt elő a vizsgálatok módszereinek és eredményeinek a meghatározására, és amelyek 2002. július 1-jén fennálló állapot szerint hatályosak, és amelyeket az A) mellékletben meghatározott módon kell figyelembe venni;
 
 n) típusjóváhagyás: a nemzetközi vizsgálati követelmények alapján a felszerelések értékelésére irányuló eljárás, továbbá a megfelelő bizonyítványok kiadása;
 
 o) EK típusvizsgálat: az e rendelet 7. §-ában meghatározott termékellenőrzés.
 
-[^1]: Az 1. § b) pontja a 90/2011. (XII. 30) NFM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § b) pontja a 26/2013. (VI. 3.) NFM rendelet 2. §-ával megállapított szöveg.
 [^2]: Az 1. § d) pontja a 82/2003. (XII. 10.) GKM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § g) pontja a 65/2009. (XI. 26.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § i) pontja a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
-[^5]: Az 1. § m) pontja a 65/2009. (XI. 26.) KHEM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § m) pontja a 65/2009. (XI. 26.) KHEM rendelet 1. § (3) bekezdésével megállapított, záró szövegrésze a 26/2013. (VI. 3.) NFM rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.

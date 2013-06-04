@@ -1,8 +1,8 @@
 ## A megfelelőség tanúsítása
 
-7. § (1)[^14] A megfelelőség tanúsítását az elismert, illetve kijelölt szervezet a B) mellékletben megadott modulokban foglalt részletes előírások szerint a következő eljárások alapján végzi:
+7. § (1)[^17] A megfelelőség tanúsítását az elismert, illetve kijelölt szervezet a B) mellékletben megadott modulokban foglalt részletes előírások szerint a következő eljárások alapján végzi:
 
-a) EK típusvizsgálat (B modul) és a felszerelés forgalomba hozatala előtt minden felszerelés a gyártó vagy képviselője választása alapján, a Közösségi irányelv A.1. mellékletében meghatározott lehetőségek közül
+a)[^18] EK típusvizsgálat (B modul) és a felszerelés forgalomba hozatala előtt minden felszerelés a gyártó vagy képviselője választása alapján, az A) melléklet A.1. részében meghatározott lehetőségek közül
 
 aa) EK típus-megfelelőségi nyilatkozat (C modul),
 
@@ -22,4 +22,5 @@ b) teljes EK minőségbiztosítás (H modul).
 
 (4) A hajózási hatóság az engedélyezett felszerelésekről, illetve a visszavont vagy elutasított kérelmekről nyilvántartást vezet, amelybe az érdekeltek betekinthetnek.
 
-[^14]: A 7. § (1) bekezdése a 65/2009. (XI. 26.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^17]: A 7. § (1) bekezdése a 65/2009. (XI. 26.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^18]: A 7. § (1) bekezdés a) pont nyitó szövegrésze a 26/2013. (VI. 3.) NFM rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
