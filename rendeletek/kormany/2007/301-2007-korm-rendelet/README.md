@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-301-20-
 | 2013-01-01 | 2007-301-20-22.15 | 409/2012. (XII. 28.) Korm. rendelet |
 | 2013-02-26 | 2007-301-20-22.16 | 51/2013. (II. 25.) Korm. rendelet |
 | 2013-04-09 | 2007-301-20-22.17 | 15/2013. (I. 28.) Korm. rendelet |
+| 2013-06-04 | 2007-301-20-22.18 | 176/2013. (VI. 3.) Korm. rendelet |

@@ -12,9 +12,12 @@ b) családos személy esetében az öregségi nyugdíj mindenkori legkisebb öss
 
 (5)[^57] A támogatásban részesülő menekült, oltalmazott és menedékes köteles harminc napot meghaladó külföldi tartózkodását vagy a támogatás átvételében való más akadályoztatását a menekültügyi hatóságnak vagy a járási hivatalnak – külföldre távozását megelőzően, vagy az akadály felmerültét követően haladéktalanul – bejelenteni. A bejelentés alapján a támogatás folyósítása – a távollét időtartama alatt, vagy az akadály megszűnéséig – szünetel. Ha a menekült, az oltalmazott vagy a menedékes a bejelentési kötelezettségének nem tesz eleget és a támogatást a folyósítást követő harminc napon belül, vagy rendszeres támogatás esetén a következő esedékes folyósítás időpontjáig nem veszi át, a menekültügyi hatóság a támogatás folyósítását megszünteti.
 
+(6)[^58] Az e jogszabály alapján a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) által folyósításra kerülő ellátások és támogatások kifizetése postai átutalással, illetve amennyiben arra lehetőség van, a kormányhivatal házipénztára útján is történhet.
+
 [^52]: A 39. § a 290/2010. (XII. 21.) Korm. rendelet 98. §-ával megállapított szöveg.
 [^53]: A 39. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^54]: A 39. § (2) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
 [^55]: A 39. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
 [^56]: A 39. § (4) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
 [^57]: A 39. § (5) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
+[^58]: A 39. § (6) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 5. § (1) bekezdése iktatta be.
