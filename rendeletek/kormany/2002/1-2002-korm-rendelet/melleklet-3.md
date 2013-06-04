@@ -1,4 +1,4 @@
-3. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^17]
+3. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^20]
 
 A Bizottságnak benyújtandó jelentés mintája a szabálytalanságokról és büntetésekről
 
@@ -38,4 +38,4 @@ A Bizottságnak benyújtandó jelentés mintája a szabálytalanságokról és b
 
 (2) Ha több szabálytalanság áll fenn egy szállítóegységnél, akkor csak a legsúlyosabb kockázati kategóriába tartozót kell feltüntetni.
 
-[^17]: A 3. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^20]: A 3. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított szöveg.

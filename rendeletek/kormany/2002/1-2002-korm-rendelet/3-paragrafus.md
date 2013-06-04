@@ -6,5 +6,11 @@
 
 (4) Az ellenőrzés nem tarthat az indokoltnál hosszabb ideig, az ellenőrzött jármű a szabálytalanság megszüntetését követően továbbhaladhat. Szabálytalanság esetén az ellenőrző hatóságnak a legkisebb kockázattal járó intézkedést kell megtennie a szabálytalanság megszüntetésére.
 
+(5)[^5] A katasztrófavédelmi hatóság tekintetében az ellenőrzés lefolytatására a katasztrófavédelmi hatóság helyi szerve jogosult. A katasztrófavédelmi hatóság helyi szerve önálló ellenőrzési tevékenységet végezhet más katasztrófavédelmi hatóság illetékességi területén is a katasztrófavédelmi hatóság központi szervének előzetes jóváhagyása alapján.
+
+(6)[^6] A hatóság az (1) bekezdés alapján hivatalból indított eljárása során az ügyfelet az érdemi döntéshez szükséges adatok közlésére kötelezheti.
+
 [^3]: A 3. § (1) bekezdése a 60/2007. (III. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A közúti közlekedésről szóló 1988. évi I. törvény 20. § (11) bekezdés.
+[^5]: A 3. § (5) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^6]: A 3. § (6) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 2. § (1) bekezdése iktatta be.

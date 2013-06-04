@@ -1,4 +1,4 @@
-1. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^15]
+1. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^18]
 
 Ellenőrzési jegyzék (a 2004/12/EK irányelvvel módosított 95/50/EK irányelv szerint)
 
@@ -80,4 +80,4 @@ Ellenőrzési jegyzék (a 2004/12/EK irányelvvel módosított 95/50/EK irányel
 
 (3) Szemmel látható szabálytalanságok ellenőrzése.
 
-[^15]: Az 1. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított és a Magyar Közlöny 2006. évi 18. számában megjelent helyesbítésnek megfelelő szöveg.
+[^18]: Az 1. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított és a Magyar Közlöny 2006. évi 18. számában megjelent helyesbítésnek megfelelő szöveg.
