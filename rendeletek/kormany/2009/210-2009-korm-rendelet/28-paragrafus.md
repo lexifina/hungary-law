@@ -18,8 +18,8 @@ c) dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasz
 
 d) melegkonyhás vendéglátóhely: meleg- és hideg ételeket, cukrászati készítményeket, sütő- és édesipari termékeket, kávét, szeszesitalt és szeszmentes italokat forgalmazó üzlet, ahol az ételeket meghatározóan a helyszínen készítik;
 
-e)[^29]
+e)[^30]
 
 f) szexuális termék: az Fgytv. 2. § v) pontjában meghatározott termék.
 
-[^29]: A 28. § e) pontját a 8/2013. (I. 18.) Korm. rendelet 1. § b) pont bb) alpontja hatályon kívül helyezte.
+[^30]: A 28. § e) pontját a 8/2013. (I. 18.) Korm. rendelet 1. § b) pont bb) alpontja hatályon kívül helyezte.
