@@ -26,7 +26,7 @@
 
 ## jegyző aláírása
 
-5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^829]
+5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^830]
 
 ## Adatlap a Gyvt. 19. § (1a) bekezdése szerinti pénzbeli ellátás címén igénybe vehető előleg igényléséhez
 
@@ -80,4 +80,4 @@ P. H.
 
 a jegyző aláírása
 
-[^829]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Az 5. számú melléklet a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés h)–i) pontja szerint módosított szöveg.
+[^830]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Az 5. számú melléklet a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés h)–i) pontja szerint módosított szöveg.

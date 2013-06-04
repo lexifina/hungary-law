@@ -32,7 +32,7 @@
 
 ## a jegyző aláírása
 
-7. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^831]
+7. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^832]
 
 ## NYILATKOZAT gyermektartásdíj megelőlegezéséhez/gondozási díj megállapításához
 
@@ -86,4 +86,4 @@ Kelt: .................................................................
 
 a nyilatkozó aláírása
 
-[^831]: Az 5. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 5. számú melléklet számozását az 57/2006. (II. 21.) Korm. rendelet 15. § (4) bekezdése 7. számú mellékletre változtatta, szövege a 97/2013. (III. 29.) Korm. rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^832]: Az 5. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 5. számú melléklet számozását az 57/2006. (II. 21.) Korm. rendelet 15. § (4) bekezdése 7. számú mellékletre változtatta, szövege a 97/2013. (III. 29.) Korm. rendelet 63. § (1) bekezdésével megállapított szöveg.

@@ -1,9 +1,9 @@
-166/A. §[^766] (1)[^767] A gyámhivatal hivatalból vagy kérelemre a 2201/2003/EK rendelet 41. cikkében foglaltaknak megfelelően kiállítja a 2201/2003/EK rendelet III. melléklete szerinti, a láthatási joggal kapcsolatban hozott határozatokra vonatkozó igazolást.
+166/A. §[^767] (1)[^768] A gyámhivatal hivatalból vagy kérelemre a 2201/2003/EK rendelet 41. cikkében foglaltaknak megfelelően kiállítja a 2201/2003/EK rendelet III. melléklete szerinti, a láthatási joggal kapcsolatban hozott határozatokra vonatkozó igazolást.
 
-(2)[^768] A gyámhivatal kérelemre kiállítja a 2201/2003/EK rendelet II. melléklete szerinti, a szülői felelősséggel kapcsolatban hozott határozatokra vonatkozó igazolást.
+(2)[^769] A gyámhivatal kérelemre kiállítja a 2201/2003/EK rendelet II. melléklete szerinti, a szülői felelősséggel kapcsolatban hozott határozatokra vonatkozó igazolást.
 
 (3) Az igazolást ugyanarra a határozatra nézve több alkalommal is ki lehet állítani. A gyámhivatal a 2201/2003/EK rendelet 43. cikke alapján az igazolást név-, szám- vagy más elírás, illetve számítási hiba esetén kijavítja (helyesbíti).
 
-[^766]: A 166/A. §-t a 315/2005. (XII. 25.) Korm. rendelet 76. §-a iktatta be.
-[^767]: A 166/A. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 33. pontja szerint módosított szöveg.
-[^768]: A 166/A. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 33. pontja szerint módosított szöveg.
+[^767]: A 166/A. §-t a 315/2005. (XII. 25.) Korm. rendelet 76. §-a iktatta be.
+[^768]: A 166/A. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 33. pontja szerint módosított szöveg.
+[^769]: A 166/A. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 33. pontja szerint módosított szöveg.

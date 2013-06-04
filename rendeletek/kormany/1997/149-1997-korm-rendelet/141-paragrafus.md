@@ -6,8 +6,9 @@
 
 (4)[^690] Az eseti gondnok (ügygondnok) munkadíjának összegét – a Gyvt. 133/A. § (6) bekezdésében foglalt kivétellel – a gyámhivatal az öregségi nyugdíj mindenkori legkisebb összegének százszorosát meghaladó vagyonnal rendelkező gyermek (gondnokolt) vagyonának terhére állapítja meg, feltéve, hogy ezzel nem veszélyezteti a vagyonnal rendelkező gyermek (gondnokolt) lakhatási és megélhetési feltételeit. Ennek hiányában a díj megfizetése a gyámhivatal székhelye szerint illetékes fővárosi és megyei kormányhivatal feladata.
 
-(5) Ha az ügyfélnek nincs lakóhelye vagy az nem állapítható meg, a díj megfizetése az eseti gondnokot kirendelő gyámhatóság székhelye szerint illetékes önkormányzat feladata.
+(5)[^691] Ha az ügyfélnek nincs lakóhelye vagy az nem állapítható meg, a díj megfizetése az eseti gondnokot kirendelő gyámhatóság székhelye szerint illetékes fővárosi és megyei kormányhivatal feladata.
 
 [^688]: A 141. § (1) bekezdése a 21/2012. (II. 29.) Korm. rendelet 17. § p) pontja szerint módosított szöveg.
 [^689]: A 141. § (3) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^690]: A 141. § (4) bekezdése a 97/2013. (III. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^691]: A 141. § (5) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.

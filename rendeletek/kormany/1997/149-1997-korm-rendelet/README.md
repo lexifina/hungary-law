@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2013-02-26 | 1997-149-20-22.40 | 51/2013. (II. 25.) Korm. rendelet |
 | 2013-04-01 | 1997-149-20-22.41 | 98/2013. (III. 29.) Korm. rendelet |
 | 2013-05-17 | 1997-149-20-22.42 | 130/2013. (V. 2.) Korm. rendelet |
+| 2013-06-04 | 1997-149-20-22.43 | 176/2013. (VI. 3.) Korm. rendelet |

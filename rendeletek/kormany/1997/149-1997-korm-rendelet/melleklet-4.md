@@ -200,6 +200,6 @@
 
 | a rendszeres kedvezményt igénylő vagy törvényes képviselőjének aláírása | gyám aláírása |
 
-4. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^828]
+4. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^829]
 
-[^828]: A 4. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^829]: A 4. számú mellékletet a 282/1997. ( XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
