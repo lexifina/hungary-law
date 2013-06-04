@@ -64,6 +64,6 @@
 
 ## 2.2. Érvényes szakszolgálati engedély birtokában maximum 3 típusjogosításra kötelezett légi járműtípuson láthat el szakszolgálati tevékenységet az engedélyes.
 
-5. melléklet az 5/2001. (II. 6.) KöViM rendelethez[^25]
+5. melléklet az 5/2001. (II. 6.) KöViM rendelethez[^27]
 
-[^25]: Az 5. számú melléklet a 32/2009. (VI. 30.) KHEM rendelet 30. § (5) bekezdésének h) pontjával megállapított szöveg. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
+[^27]: Az 5. számú melléklet a 32/2009. (VI. 30.) KHEM rendelet 30. § (5) bekezdésének h) pontjával megállapított szöveg. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
