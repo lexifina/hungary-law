@@ -1,0 +1,3 @@
+11. § (1) Az üzemeltetőnek a támogatás igénylésére jogosító egyedi kódot a pénztárgép beszerzésekor kell átadnia az eladónak, legkésőbb 2013. december 31-ig. A támogatás igénylésére jogosító egyedi kód felhasználásának határideje jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(2) Az eladó a támogatás igénylésére jogosító egyedi kód érvényességét az állami adóhatóság internetes honlapján elérhető elektronikus lekérdező felületen keresztül ellenőrzi és az érvényes kóddal rendelkező üzemeltető részére a pénztárgépet az állami adóhatóság által a 10. § (1) bekezdése szerint közölt támogatás összegével csökkentett vételáron értékesíti.
