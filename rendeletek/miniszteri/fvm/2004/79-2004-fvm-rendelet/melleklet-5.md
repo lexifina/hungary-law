@@ -74,6 +74,6 @@
 
 ## A vadászatra jogosult szervezeti formájának jelölése: „1”-es kódszámmal a vadásztársaság; „2”-es kódszámmal a vadásztársaságok érdek-képviseleti szervezete; „3”-as kódszámmal a mezőgazdasági részvénytársaság; „4”-es kódszámmal az erdészeti részvénytársaság; „5”-ös kódszámmal a közhasznú társaság; „6”-os kódszámmal a szövetkezet; „7”-es kódszámmal az erdőbirtokossági társulat; „8”-as kódszámmal a korlátolt felelősségű társaság; „0” kódszámmal egyéb szervezeti forma jelölendő. E kódszámokat értelemszerűen egyaránt alkalmazni kell a vadászati jog gyakorlása vagy haszonbérbe adása esetében.
 
-5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^154]
+5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^156]
 
-[^154]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja szerint módosított szöveg.
+[^156]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja szerint módosított szöveg.

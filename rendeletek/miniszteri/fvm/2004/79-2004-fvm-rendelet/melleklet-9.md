@@ -78,4 +78,6 @@
 
 ## a vadász-vadtenyésztő szakmunkás-bizonyítványt.
 
-9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
+9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^160]
+
+[^160]: A Vhr. 9. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés a) pontjával megállapított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2012-08-01 | 2004-79-20-82.17 | 63/2012. (VII. 2.) VM rendelet |
 | 2012-10-14 | 2004-79-20-82.18 | 7/2010. (II. 2.) FVM rendelet |
 | 2013-04-30 | 2004-79-20-82.19 | 30/2013. (IV. 30.) VM rendelet |
+| 2013-06-04 | 2004-79-20-82.20 | 45/2013. (VI. 3.) VM rendelet |

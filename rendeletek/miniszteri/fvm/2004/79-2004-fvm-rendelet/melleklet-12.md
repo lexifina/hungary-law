@@ -1,36 +1,28 @@
-## I.
+## I. A hivatásos vadász szolgálati igazolvány
 
-## A HIVATÁSOS VADÁSZ SZOLGÁLATI IGAZOLVÁNYA
+## A rendészeti feladatokat ellátók szolgálati igazolványa az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 10. § (2) bekezdésében meghatározott adattartalommal rendelkező
 
-## 7,5 × 10,5 cm
+## 1. Az ISO 7810 (1995) vagy azzal egyenértékű szabványnak megfelelő, ID-1 méretű, többrétegű, melegen laminált, műanyag kártya, amely megfelel az „A” okmányvédelmi kategóriának.
 
-## 4M06485_0
+## 2. Az alapanyagba integrált arckép méretének legalább 30x24 mm-nek kell lenni. Az arcképmezőn belül az áll és a fejtető közötti résznek a teljes képmagasság 70-80%-a közöttinek kell lenni.
 
-| Nyilv. szám: ......................... HIVATÁSOS VADÁSZ SZOLGÁLATI IGAZOLVÁNY | A foglalkoztató vagy megbízó neve: ............................................................................ székhelye: ................................................................... |
+## II. A hivatásos vadász szolgálati jelvénye
 
-|  | Fénykép helye |  | Működési körzet: ....................................................... ...................................................................................... ...................................................................................... Szolgálatba lépés napja: .............................................. A szolgálati igazolvány kiállítója: FÖLDMŰVELÉSÜGYI ÉS VIDÉKFEJLESZTÉSI MINISZTÉRIUM ................................................... MEGYEI |
+## 1. A szolgálati azonosító jelvény 80 mm magas, 60 mm széles ovális, felül „RENDÉSZETI FELADATELLÁTÁS” felirat, alul hat számjegyből álló sorszám található. A középső síkban, 45 mm átmérőjű egyedi logó kap helyet, melynek alsó széle az alapjelvény aljától 10 mm-re van.
 
-| .................................................... sajátkezű aláírás Név: ....................................................................... | V A D Á S Z A T I H A T Ó S Á G Kelt: 20....... .............................. hó ...... nap (Érvényes visszavonásig!) P. H. ......................................... vadászati hatóság |
+## 2. A szolgálati azonosító jelvény fekete bőralátéten rögzített, mely gombolásos kivitelű. A bőralátét 2 mm-rel szélesebb a fémjelvénynél, felül a gombolás céljára lyukasztott és hasított.
 
-## II.
+## 3. Egyedi logó:
 
-## A HIVATÁSOS VADÁSZ SZOLGÁLATI JELVÉNYE
+## 45 mm átmérőjű, zöld alapszínű jelvény, közepén jobbra néző gímszarvas bika fejalakjával, amelyet jobbról és balról félkört alkotó négy-négy darab tölgyfalevél díszít. Az alsó részén ,,HIVATÁSOS VADÁSZ” felirat látható.
 
-## 38 mm átmérőjű, ezüst alapszínű fémjelvény, a közepén gímszarvas bika fejalakjával, amelyet jobbról és balról félkört alkotó négy-négy darab tölgyfalevél díszít. Az alsó részén ,,HIVATÁSOS VADÁSZ'' felirat látható. Hátlapján a szolgálati igazolvánnyal azonos sorszám szerepel.
+## III. A hivatásos vadász szolgálati naplója
 
-## III.
-
-## A HIVATÁSOS VADÁSZ SZOLGÁLATI NAPLÓJA
-
-## 4M06486_0
+## 3K54252B_0
 
 |  | Szolgálat kezdete hó, nap, óra, perc | Esemény, intézkedés (területellenőrzés, vadvédelmi, vadkárelhárírási és vadászattal kapcsolatos bejegyzés) | Szolgálat vége hó, nap, óra, perc |  | …………… MEGYEI VADÁSZHATÓSÁG |
 
-|  |  |  |  |  | HIVATÁSOS VADÁSZ SZOLGÁLATI NAPLÓJA (Érvényes visszavonásig!) Igazolom, hogy e szolgálati napló vezetésére ………………………………………………….….. (név) ……………………….……. (születési hely, idő) jogosult A szolgálati napló 100 számozott oldalt tartalmaz. Kelt: 200 … ………………… hó ….. napján ……………………………. vadászati hatóság |
-
-|  | 20 |  |  |  |  |
-
-## Megjegyzés: a szolgálati napló számozott lapokból álló, a vadászati hatóság által hitelesített jegyzettömb.
+|  |  |  |  |  | HIVATÁSOS VADÁSZ SZOLGÁLATI NAPLÓJA (Érvényes visszavonásig!) Igazolom, hogy e szolgálati napló vezetésére ………………………………………………….….. (név) ……………………….……. (születési hely, idő) jogosult A szolgálati napló 100 számozott oldalt tartalmaz. Kelt: 20… ………………… hó ….. napján ……………………………. vadászati hatóság |
 
 12. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
 

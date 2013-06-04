@@ -1,6 +1,4 @@
-## I.
-
-## HIVATÁSOS VADÁSZOK NYILVÁNTARTÁSA
+## I. A hivatásos vadászok nyilvántartása
 
 ## HIVATÁSOS VADÁSZOK HATÓSÁGI NYILVÁNTARTÁSA
 
@@ -8,17 +6,15 @@
 
 ## MINTA
 
-## FÖLDMŰVELÉSÜGYI ÉS VIDÉKFEJLESZTÉSI MINISZTÉRIUM
+## MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁGA
 
-## .................................................................………………….. MEGYEI
-
-## VADÁSZATI HATÓSÁG
+## ……………………………………………………………………………………………
 
 ## A vadászatra jogosult neve:
 
-## székhelye, címe: ................................................................., telefonja:
+## székhelye, címe: , telefonja:
 
-## vadászterülete kódszáma: ......................................., nagysága: ha
+## vadászterülete kódszáma: nagysága: ha
 
 ## Hivatásos vadász alkalmazási kötelezettség (fő):
 
@@ -30,24 +26,10 @@
 
 ## Összesen:
 
-| Az esküt tett hivatásos vadász | Bejegyzés |
+| Az esküt tett hivatásos vadász |
 
-| nyilvántartó sorszáma | neve | bejelentett lakcíme | szakképesítése, okirat száma/ kibocsátója | fegyvertartási engedély száma | esküokmány száma | szolgálati igazolványa/ jelvénye száma | intézkedés, a határozat száma | dátum, aláírás |
+| sorszám | családi név | utónév | anyja családi neve | anyja utóneve | születési hely, idő | lakcím | szakképesítése, okirat száma/ kibocsátója | fegyvertartási engedély száma | esküokmány száma | szolgálati igazolványa/ jelvénye száma | intézkedés, a határozat száma |
 
-## II.
+10. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^161]
 
-## HIVATÁSOS VADÁSZOK VADÁSZKAMARAI NYILVÁNTARTÁSA
-
-## MINTA
-
-## ORSZÁGOS MAGYAR VADÁSZKAMARA
-
-## ................................................................... MEGYEI
-
-## TERÜLETI SZERVEZETE
-
-| Hivatásos vadász | Vadászati hatósági igazolások | Bejegyzés |
-
-| nyilvántartó sorszáma | neve, szül. helye, ideje | bejelentett lakcíme | vadászjegye száma | fegyvertartási engedély száma | esküokmány száma | szolgálati iga- zolványa/jelvé- nye száma | intézkedés, a határozat száma | dátum, aláírás |
-
-10. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
+[^161]: A Vhr. 10. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés b) pontjával megállapított szöveg.

@@ -1,10 +1,17 @@
-34. § (1) A vadászati hatóság a hatósági esküt tett hivatásos vadászt a 9. számú melléklet I. része szerint veszi nyilvántartásba. A 9. számú melléklet II. része tartalmazza az Országos Magyar Vadászkamara (a továbbiakban: vadászkamara) területi szervezetének a hivatásos vadász kamarai tagról vezetett nyilvántartás mintáját. A hivatásos vadász esküjének szövegét és az esküokmány formáját a 10. számú melléklet tartalmazza.
+34. §[^50] (1) A vadászati hatóság a vadászatra jogosult kérelmére az e rendeletben meghatározott feltételeknek megfelelő hivatásos vadász jelöltet a 9. számú melléklet szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vett hivatásos vadász, valamint a vadászatra jogosult számára igazolást állít ki.
 
-(2) A hivatásos vadász szolgálati igazolványa, az igazolvánnyal azonos sorszámú szolgálati jelvénye, valamint a szolgálati naplója mintáját a 11. számú melléklet tartalmazza.
+(2) A vadászatra jogosult az (1) bekezdés szerinti igazolás birtokában kezdeményezheti a rendőrségnél a szolgálati igazolvány és szolgálati jelvény kiállítását.
 
-(3)[^49] A jogosult köteles a hivatásos vadász alkalmazásának megszűnését – a megszűnését követő 15 napon belül – bejelenteni a működésének helye szerint illetékes vadászati hatóságnak.
+(3) A hivatásos vadász a szolgálati igazolványt és szolgálati jelvényt – a kézhezvételt követő 15 napon belül – a vadászati hatóságnál köteles bemutatni. A szolgálati igazolvány és szolgálati jelvény sorszámát a vadászati hatóság a 9. számú melléklet szerint köteles nyilvántartásában rögzíteni.
 
-(4)[^50] A vadászatra jogosult köteles a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – az alkalmazást, illetve az alkalmazás megszűnését követő 15 napon belül – tájékoztatni a működésének helye szerinti rendőrhatóságot, valamint a hivatásos vadász lakóhelye szerint illetékes vadászkamarát.
+(4) A hivatásos vadász a vadászati hatóság előtt esküt tesz. A hivatásos vadász esküjének szövegét és az esküokmány formáját a 10. számú melléklet tartalmazza.
 
-[^49]: A Vhr. 34. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 22. §-ával megállapított szöveg.
-[^50]: A Vhr 34. § (4) bekezdését az 56/2005. (VI. 25.) FVM rendelet 8. §-ának (2) bekezdése iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+(5) A vadászati hatóság az eskü letételét követően a 11. számú melléklet szerinti szolgálati naplót állít ki és ad át a hivatásos vadász számára. A vadászati hatóság a szolgálati naplón feltünteti a szolgálati igazolvány és szolgálati jelvény számát.
+
+(6) A hivatásos vadász tevékenységét csak a szolgálati napló átvételét követően kezdheti meg.
+
+(7) A vadászatra jogosult köteles a hivatásos vadász alkalmazásának megszűnését – a megszűnését követő 15 napon belül – bejelenteni a működési helye szerint illetékes vadászati hatóságnak.
+
+(8) A vadászatra jogosult köteles a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – 15 napon belül – tájékoztatni a működési helye szerinti rendőrhatóságot, valamint a hivatásos vadász lakóhelye szerint illetékes vadászkamarát.
+
+[^50]: A Vhr. 34. §-a a 45/2013. (VI. 3.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
