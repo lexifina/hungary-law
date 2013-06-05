@@ -26,13 +26,13 @@
 
 ## 13. A termésnövelő anyag – kérelmező által megadott – vámtarifaszáma hat számjegyig.
 
-## 14. Garantált nettó tömeg.
+## 14.[^64] Garantált nettó tömeg vagy térfogat.
 
 ## 15. Ha a termésnövelő anyag a veszélyes áruk szállításáról szóló (ADR/RID) szabályzatok hatálya alá esik, a termék UN száma és ADR/RID osztálya.
 
 ## 16. Egyéb előírások.
 
-## 4. számú melléklet függeléke[^64]
+## 4. számú melléklet függeléke[^65]
 
 ## A tápelemek feltüntetésére vonatkozó előírások
 
@@ -97,4 +97,5 @@ e) kezelések adatai (dózis, koncentráció, fenofázis, kezelés módja, felha
 f) értékelési szempontok.
 
 [^63]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
-[^64]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja szerint módosított szöveg.
+[^64]: A 4. melléklet 14. pontja a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
+[^65]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja szerint módosított szöveg.

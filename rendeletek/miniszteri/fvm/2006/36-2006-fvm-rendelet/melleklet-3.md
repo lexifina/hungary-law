@@ -108,7 +108,7 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 
 – összes jelző PCB tartalom (PCB-28, 52, 101, 118, 138, 153, 180 összege) < 0,1 mg/kg sz.a.
 
-– összes PCDD/F tartalom WHO TEQ-ekben kifejezve < 5,0 mg/kg sz.a. T.E.Q
+– összes PCDD/F tartalom WHO TEQ-ekben kifejezve < 5,0 ng/kg sz.a. T.E.Q.
 
 2.4. Nem tartalmazhat a biológiai körforgásba nem vihető idegen anyagot, csírázást, növekedést gátló anyagokat, zárlati gyomok magvait, illetve ezek vegetatív részeit, humán-, állat- és növényegészségügyi szempontból káros, fertőző makro- és mikroszervezeteket, mérgező, szennyező és radioaktív anyagokat.
 
@@ -169,6 +169,10 @@ A hatóanyag-tartalom a tolerancia határon belül feleljen meg a gyártó álta
 – Ca-tartalom (m/m%) sz.a. legalább 1,2
 
 – Mg-tartalom (m/m%) sz.a. legalább 0,5
+
+– kizárólag zöldhulladékból készült
+
+komposztok N-tartalma (m/m%) sz. a. legalább 0,5
 
 4.2. A toxikus elemekre vonatkozó előírások
 
@@ -800,4 +804,4 @@ F. EGYÉB MŰTRÁGYÁK
 
 | 10 tömegszázalék felett | ± 1,1 |
 
-[^62]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^62]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
