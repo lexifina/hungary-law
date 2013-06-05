@@ -1,11 +1,6 @@
-6. § (1) Az R. 14. § (1) bekezdése a következő 8. ponttal egészül ki:
+6. § (1)[^7]
 
-(Ez a rendelet)
+(2)[^8]
 
-## „8. a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2011. szeptember 2-i 2011/75/EU bizottsági irányelvnek”
-
-## (való megfelelést szolgálja.)
-
-(2)[^3]
-
-[^3]: A 6. § (2) bekezdése a 9. § (2) bekezdése alapján 2013. november 30-án lép hatályba.
+[^7]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § (2) bekezdése a 9. § (2) bekezdése alapján 2013. november 30-án lép hatályba.
