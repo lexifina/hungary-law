@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1158-30
 | 2011-12-23 | 2011-1158-30-22.2 | 1452/2011. (XII. 22.) Korm. határozat |
 | 2013-02-13 | 2011-1158-30-22.3 | 1452/2011. (XII. 22.) Korm. határozat |
 | 2013-04-06 | 2011-1158-30-22.4 | 1452/2011. (XII. 22.) Korm. határozat |
+| 2013-06-05 | 2011-1158-30-22.5 | 1452/2011. (XII. 22.) Korm. határozat |

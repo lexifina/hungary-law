@@ -28,6 +28,8 @@
 
 | Országos Közigazgatási Vizsgabizottság Elnöksége | KIM |
 
+| Nemzeti Humanitárius Koordinációs Tanács | EMMI |
+
 3. melléklet az 1158/2011. (V. 23.) Korm. határozathoz[^8]
 
 Fontos társadalmi okból kivételes szabályozást igénylő testületek
