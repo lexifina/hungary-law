@@ -1,0 +1,1 @@
+## 1. § A Nemzeti Humanitárius Koordinációs Tanács (a továbbiakban: Tanács) a Kormány által az Alaptörvény 53. cikke alapján kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) kezelése során ellátja a számára megállapított humanitárius jellegű feladatokat.
