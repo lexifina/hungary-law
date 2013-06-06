@@ -1,6 +1,6 @@
 ## Működési engedély
 
-1. § (1) A több vasúti tevékenységet végző vasúti társaság vasúti közlekedési tevékenységenként elkülönült üzletágainak külön-külön meg kell felelniük a működési engedély kiadása feltételeinek.
+1. § (1)[^1]
 
 (2) A vasúti pályahálózat működtetésére vonatkozó működési engedély tartalmazza az érintett pályaszakaszok tételes felsorolását.
 
@@ -16,6 +16,7 @@ c) a Vtv. 3. melléklete III. részének b) pontjában megjelölt tevékenység 
 
 (5) A saját célú vasúti pályahálózatra vonatkozó működési engedéllyel (a továbbiakban: saját célú vasúti működési engedély) rendelkező vasúti társaság a vasúti járművek átadása céljából igénybe veheti azon állomás vágányhálózatából erre kijelölt és a működési engedélyében külön – e cél megjelölésével – feltüntetett vágányokat, amely állomásból a saját célú vasúti pályahálózat kiágazik.
 
-(6)[^1]
+(6)[^2]
 
-[^1]: Az 1. § (6) bekezdését az 5/2012. (II. 15.) NFM rendelet 9. § (2) bgekezdése hatályon kívül helyezte.
+[^1]: Az 1. § (1) bekezdését a 23/2013. (V. 22.) NFM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (6) bekezdését az 5/2012. (II. 15.) NFM rendelet 9. § (2) bgekezdése hatályon kívül helyezte.
