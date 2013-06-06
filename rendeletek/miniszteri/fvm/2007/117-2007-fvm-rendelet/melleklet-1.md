@@ -1,16 +1,14 @@
-## 11. § A növényvédelmi igazgatási szolgáltatási díjakról szóló 165/2004. (XI. 22.) FVM rendelet 2. §-a a következő (5) bekezdéssel egészül ki:
+## 11. §[^23]
 
-## „(5) Amennyiben a díjfizetésre kötelezett személy külön jogszabályban foglaltak szerint támogatott szolgáltatás igénybevételére jogosult, akkor a támogatás mértékével csökkentett összegű díjat kell megfizetnie.”
-
-1. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^11]
+1. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^24]
 
 ## Támogatott növényegészségügyi vizsgálatokban való részvételre vonatkozó kérelem adattartalma
 
-1. Az ügyfél adatai:
+1.[^25] Az ügyfél adatai:
 
 (Azon adóigazgatási szám megjelölése, amelyre a támogatást igénylik.)
 
-– Ügyfélregisztrációs száma;
+– Ügyfél-azonosítója;
 
 – Adószáma;
 
@@ -50,10 +48,13 @@ mikrovállalkozás: kevesebb mint 10 személyt foglalkoztat, éves forgalma és/
 
 – a kérelem benyújtásakor költségvetési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozás fenn nem állásáról.
 
-5. Kötelezettségvállalás
+5.[^26] Kötelezettségvállalás
 
-az elvégzett vizsgálatok a terület növényegészségügyi alkalmasságának nem igazolása, továbbá a támogatási keret kimerülése esetén, az elvégzett növényegészségügyi szolgáltatás számla szerinti teljes összegét a szolgáltató részére történő megfizetéséről.
+az elvégzett vizsgálatok a terület növényegészségügyi alkalmasságának nem igazolása, továbbá a támogatási keret kimerülése esetén, az elvégzett növényegészségügyi szolgáltatás számla szerinti teljes összegét a növény- és talajvédelmi igazgatóság és a NÉBIH részére történő megfizetéséről.
 
 6. Keltezés, a kérelmező (cégszerű) aláírása
 
-[^11]: Az 1. számú melléklet a 8/2010. (II. 4.) FVM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^23]: A 11. §-t a 46/2013. (VI. 3.) VM rendelet 6. §-a hatályon kívül helyezte.
+[^24]: Az 1. számú melléklet a 8/2010. (II. 4.) FVM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^25]: Az 1. számú melléklet 1. pontja a 46/2013. (VI. 3.) VM rendelet 5. § 14. pontja szerint módosított szöveg.
+[^26]: Az 1. számú melléklet 5. pontja a 46/2013. (VI. 3.) VM rendelet 5. § 5. pontja szerint módosított szöveg.
