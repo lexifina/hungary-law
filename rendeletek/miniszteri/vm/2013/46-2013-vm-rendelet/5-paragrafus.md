@@ -1,0 +1,47 @@
+## 4. § Az R. 5. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) A kérelmezőnek a támogatott szolgáltatásban való részvételre irányuló, az 1. számú melléklet szerinti adattartalmú kérelmet a NÉBIH által rendszeresített és honlapján közzétett nyomtatványon, a kérelmező lakóhelye, székhelye szerint illetékes növény- és talajvédelmi igazgatósághoz kell benyújtania a 7/2001. (I. 17.) FVM rendelet 9. számú mellékletében meghatározott bejelentési időszakban.
+
+## (2) Amennyiben a növény- és talajvédelmi igazgatóság az 1. számú melléklet szerinti kérelmet elfogadja, úgy a termelőnek a vizsgálati díjról, illetve költségről kiállított számla összegét – az általános forgalmi adó összegének kivételével – nem kell megfizetnie. Az általános forgalmi adó összegének megfizetése a termelőt terheli.”
+
+## 5. § Az R.
+
+1. 2. § (2) bekezdés a) pontjában a „7/2001. (I. 17.) FVM rendelet” szövegrész helyébe a „7/2001. (I. 17.) FVM rendelet [a továbbiakban: 7/2001. (I. 17.) FVM rendelet]” szöveg,
+
+2. 2. § (2) bekezdés b) pontjában a „a gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 64/2004. (IV. 27.) FVM rendelet 7. és 8. számú melléklete” szövegrész helyébe a „a gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 72/2010. (V. 13.) FVM rendelet 7. és 8. melléklete” szöveg,
+
+3. 3. § (1) bekezdés a) pontjában a „meghatározásának,” szövegrész helyébe a „meghatározásának, és” szöveg,
+
+4. 4. § (4) bekezdésében az „az MVH köteles a földművelésügyi és vidékfejlesztési minisztert” szövegrész helyébe az „a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) köteles a vidékfejlesztési minisztert” szöveg,
+
+5. 4. § (6) bekezdésében és az 1. számú melléklet 5. pontjában a „szolgáltató” szövegrész helyébe a „növény- és talajvédelmi igazgatóság és a NÉBIH” szöveg,
+
+6. 6. § (1) bekezdésében, valamint 8. § (1) bekezdésében a „Hivatal” szövegrész helyébe a „növény- és talajvédelmi igazgatóság” szöveg,
+
+7. 6. § (1) bekezdésében a „Központnak” szövegrész helyébe a „NÉBIH-nek” szöveg,
+
+8. 6. § (2) bekezdésében az „A Hivatal” szövegrész helyébe az „A növény- és talajvédelmi igazgatóság” szöveg, az „a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH)” szövegrész helyébe az „az MVH” szöveg, az „a Hivatal” szövegrész helyébe az „a növény- és talajvédelmi igazgatóság” szöveg,
+
+9. 6. § (2) és (3) bekezdésében, valamint 8. § (1) bekezdésében a „Központ” szövegrész helyébe a „NÉBIH” szöveg,
+
+10. 6. § (3) bekezdésében az „MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatósága” szövegrész helyébe az „MVH” szöveg,
+
+11. 7. § (1) és (2) bekezdésében az „MVH Központi Hivatala” szövegrész helyébe az „MVH” szöveg,
+
+12. 7. § (1) bekezdésében a „földművelésügyi és vidékfejlesztési miniszternek” szövegrész helyébe a „vidékfejlesztési miniszternek” szöveg,
+
+13. 8. § (2) bekezdésében az „MVH Központi Hivatalát” szövegrész helyébe az „MVH-t” szöveg,
+
+14. 1. számú melléklet 1. pontjában és a 2. számú melléklet második francia bekezdésében az „Ügyfélregisztrációs száma” szövegrész helyébe az „Ügyfél-azonosítója” szöveg,
+
+15. 2. számú melléklet harmadik és kilencedik francia bekezdésében az „Az MgSzH” szövegrész helyébe az „A NÉBIH” szöveg,
+
+16. 2. számú melléklet harmadik francia bekezdésében az „az MgSzH területi szervei” szövegrész helyébe az „a növény- és talajvédelmi igazgatóságok” szöveg,
+
+17. 2. számú melléklet hetedik francia bekezdésében az „ügyfélregisztrációs számának” szövegrész helyébe az „ügyfél-azonosítójának” szöveg,
+
+18. 2. számú melléklet nyolcadik francia bekezdésében a „mikro-, kis- vagy középvállalkozás feltüntetése” szövegrész helyébe a „mikro-, kis- vagy középvállalkozás minősítés feltüntetése” szöveg,
+
+19. 2. számú melléklet tizenegyedik francia bekezdésében az „Igényelt összeg (a támogatható költségek 80%-a) forintban” szövegrész helyébe a „A számla kiállítási dátuma” szöveg,
+
+20. 2. számú melléklet tizenkettedik francia bekezdésében az „Az igényelt támogatás összege forintban” szövegrész helyébe az „Az igényelt összeg (a támogatás összege forintban) szöveg
