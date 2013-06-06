@@ -8,6 +8,9 @@
 
 (4) A szállítólevelet az állattartó három évig köteles megőrizni és azt az ellenőrzést végző hatóság részére bemutatni.
 
+(5)[^4] A szállítólevélre alkalmazni kell a számvitelről szóló 2000. évi C. törvény 168. §-ának rendelkezéseit.
+
 [^1]: A 4. § (1) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^2]: A 4. § (2) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^3]: A 4. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (5) bekezdését a 37/2013. (V. 22.) VM rendelet 3. §-a iktatta be.
