@@ -206,7 +206,7 @@ Ft/db
 
 | illetve vasútbiztonsági engedély külön-külön | 724 000 |
 
-| d) Vasútbiztonsági tanúsítvány és vasútbiztonsági engedély éves felügyeleti hatósági ellenőrzés díja az a)–c) pontok alatti díjak 60%-a |  |
+| d) |  |
 
 | e) Bejelentés vagy megtörtént esemény alapján a vasútbiztonsági tanúsítvány és vasútbiztonsági engedély ügyében indított vagy hatósági eljárás díja megegyezik az a)–c) pontok alatt felsorolt díjakkal |  |
 
@@ -222,7 +222,7 @@ Ft/db
 
 | 12. a) vasúti járművek időszakos vizsgálatát végző vizsgahelyek működési engedélye | 1 211 100 |
 
-| b) vasúti járművek időszakos ellenőrzését végző vizsgahelyek éves felügyeleti hatósági díja az engedélyezési eljárás díjának 60%-a |  |
+| b) |  |
 
 | 13. Vasúti járművek gyártását, javítását végző személyek |  |
 
@@ -326,4 +326,4 @@ Ft/db
 
 | 30. Vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek tanúsítása, engedélyezése | 1 248 000 |
 
-[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 10. §-a szerint módosított szöveg.
