@@ -46,7 +46,7 @@ g)[^5] az MgSzH által térítés ellenében kibocsátott, az adott évre érvé
 
 h)[^6] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről, egyidejűleg azt új, a g) pontban leírt címkével érvényesíteni.
 
-(5a)[^7] Az oltást végző magánállatorvos az eb oltási könyvének kiállítása során az állat fajtájának megjelölésére szolgáló sort kizárólag abban az esetben töltheti ki, amennyiben az eb tulajdonosa az eb fajtatiszta származását az elismert tenyésztő szervezet által kibocsátott származási igazolással igazolja. E sor kitöltésekor az ebnek a származási igazolásán szereplő törzskönyvi azonosítóját is fel kell tüntetni.
+(5a)[^7] Az oltást végző magánállatorvos az eb oltási könyvének kiállítása során az állat fajtájának megjelölésére szolgáló sort a fajta megjelölésével kizárólag abban az esetben töltheti ki, amennyiben az eb tulajdonosa az eb fajtatiszta származását az elismert tenyésztő szervezet által kibocsátott származási igazolással igazolja. Amennyiben az eb fajtatiszta származása e módon nem igazolt, az állat fajtájának megjelölésére szolgáló sor fenológiai vizsgálat alapján a „[fajta] jellegű” vagy „keverék” bejegyzéssel tölthető ki. Az állat fajtájának megjelölésére szolgáló sor kitöltésekor az ebnek a származási igazolásán szereplő törzskönyvi azonosítóját, vagy a fajta jellegére történő bejegyzés esetén annak fenológiai vizsgálattal való megállapítására utaló hivatkozást, állatorvosi bélyegző lenyomattal, megjegyzésként fel kell tüntetni.
 
 (6)[^8] A járási főállatorvos
 
@@ -67,7 +67,7 @@ e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végreha
 [^4]: A 4. § (5) bekezdésének f) pontját a 23. § (2) bekezdése hatályon kívül helyezte.
 [^5]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
-[^7]: A 4. § (5a) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^7]: A 4. § (5a) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 37/2013. (V. 22.) VM rendelet 6. §-ával megállapított szöveg.
 [^8]: A 4. § (6) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^9]: A 4. § (6) bekezdés c) pontját a 42/2010. (IV. 22.) FVM rendelet 17. §-a hatályon kívül helyezte.
 [^10]: A 4. § (7) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (2) bekezdése iktatta be.
