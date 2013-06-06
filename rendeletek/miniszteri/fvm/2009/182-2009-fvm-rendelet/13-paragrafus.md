@@ -12,4 +12,7 @@
 
 (7) Az országot elhagyó állat esetében az indító tenyészetben az MgSzH Központ által rendszeresített és a www.enar.hu honlapon közzétett szállítólevélnek a 21/2004/EK rendelet Mellékletének C. 1. szakaszában foglalt adattartalmon kívül tartalmaznia kell a szállított állat faját és ENAR-számát, a szállítást felügyelő állatorvos állategészségügyi igazolását arról, hogy az állat szállíthatóságának állat-egészségügyi akadálya nincs, továbbá a hatósági állatorvos azonosítóját és aláírását. Az indító tenyészetnek a szállítólevél egy példányát meg kell küldenie az MgSzH Központ részére, egy példányát pedig meg kell őriznie.
 
+(8)[^9] A szállítólevélre alkalmazni kell a számvitelről szóló 2000. évi C. törvény 168. §-ának rendelkezéseit.
+
 [^8]: A 13. § (2) bekezdése a 87/2012. (VIII. 27.) VM rendelet 18. §-ával megállapított szöveg.
+[^9]: A 13. § (8) bekezdését a 37/2013. (V. 22.) VM rendelet 4. §-a iktatta be.
