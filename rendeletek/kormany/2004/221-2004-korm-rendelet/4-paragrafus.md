@@ -2,6 +2,7 @@
 
 (2) A környezeti célkitűzéseket meghatározó követelmények, így különösen a felszín alatti vizek védelméről szóló külön jogszabály szerinti küszöbértékekre, és az intézkedési programok előkészítése során a határokkal osztott vizekre vonatkozóan együtt kell működni az Európai Unió (a továbbiakban: EU) szomszédos tagállamaival a környezetvédelmi, természetvédelmi és vízügyi kapcsolatokra vonatkozó két- és többoldalú nemzetközi szerződések, megállapodások szabályai szerint. A nem EU tagállamok esetében is törekedni kell a koordinációra, és a víztestek Magyarországra eső részén biztosítani kell e rendelet szabályainak alkalmazását.
 
-(3) Az (1) és (2) bekezdésekben foglaltaknak megfelelően biztosítani kell, hogy a határszelvényekben a vizek állapota hátrányosan ne változzon, továbbá, hogy a kölcsönös intézkedések eredményeként a vizek jó állapotára jellemző adottságok alakuljanak ki.
+(3)[^18] Az (1) és (2) bekezdésekben foglaltaknak megfelelően biztosítani kell, hogy a határszelvényekben a vizek állapota hátrányosan ne változzon, továbbá, hogy a kölcsönös intézkedések eredményeként a vizek jó állapotára jellemző adottságok alakuljanak ki. Ha olyan probléma kerül feltárásra, amely Magyarország vízgazdálkodására is hatással van, de Magyarország nem tudja más tagállam közreműködése nélkül megoldani, akkor a miniszter tájékoztatja a Bizottságot és az érintett tagállamot, és javaslatot tesz a megoldásra.
 
 [^17]: A 4. § a 314/2008. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: A 4. § (3) bekezdése a 170/2013. (V. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
