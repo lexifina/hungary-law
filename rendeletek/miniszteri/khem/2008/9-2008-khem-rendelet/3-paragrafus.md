@@ -52,7 +52,7 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | c) 2. működési engedély módosítása a nyílt hozzáférés alóli mentesítés vagy visszavonása tekintetében | 227 000 |
 
-| d) működési engedély 5 évenkénti kötelező felülvizsgálatának díja az engedély kiadásával megegyezik |  |
+| d) |  |
 
 | e) a turistavasút, a sífelvonó és a saját célú vasúti pályahálózaton végzett vasúti tevékenység bejelentése | 20 000 |
 
@@ -89,4 +89,4 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 | 7. Gazdasági egyensúly veszélyeztetettségének vizsgálata | 358 000 |
 
 [^3]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 12. §-a szerint módosított szöveg.
