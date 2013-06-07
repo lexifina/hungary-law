@@ -1,0 +1,90 @@
+# A Kormány 184/2013. (VI. 7.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 92. szám, 2013. június 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f7ac5bf4d7b60a69106ec49b2c2bb018ce2ae694/dokumentumok/9de868ef76c7b0516e92ee59d28996110d8eafa5/letoltes)
+
+---
+
+A Kormány 184/2013. (VI. 7.) Korm. rendelete
+a Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák,
+valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól
+szóló 435/2012. (XII. 29.) Korm. rendelet módosításáról
+A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló
+1994. évi XLII. törvény 26. § (3) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében
+meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza-
+és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.)
+Korm. rendelet (a továbbiakban: R.) 1. § 9. és 10. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„9. kereskedelmi garancia: ajánlattételi (tender)-, előleg-visszafizetési-, teljesítési,- jólteljesítési-, szavatossági- vagy
+visszatartási bankgarancia és az ezekhez kapcsolódó viszontgarancia;
+10. rövid lejáratú garancia: a finanszírozó hitelintézetnek a Magyar Export-Import Bank Részvénytársaság
+kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet 8. § (1) bekezdése alapján meghatározott
+legkisebb kamatláb mínusz 3,5%-on nyújtott refinanszírozási hitelből refinanszírozott származékos
+kölcsönszerződés biztosítékául a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság
+(a továbbiakban: Eximbank) által vállalt garancia;”
+2. §
+Az R. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az Eximbank áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitelgarancia, exportcélú befektetési
+hitelgarancia vagy importhitel garancia szerződések összegét az ugyanehhez az áruhoz vagy szolgáltatáshoz
+később nyújtott exporthitel garancia szerződés értékéből levonja.”
+3. §
+Az R. 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) Az exporthitel garancia alapját képező export ügylet érték alapján a belföldi gazdálkodó szervezet által
+teljesített exportügylet keretében kiszállított áruk legalább felének magyar származásúnak kell minősülnie,
+amely feltétel teljesülését az Eximbank belső szabályzatában foglaltak szerint ellenőrzi. Az áruk magyar
+származásának megállapítására és igazolására a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi
+rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 1993. július 2-i 2454/93/EGK bizottsági
+rendeletet, a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 19. §-ában foglaltakat, a közösségi
+vámjog végrehajtásának részletes szabályairól szóló miniszteri rendeletben foglaltakat kell alkalmazni azzal, hogy
+a külkereskedelmi tevékenységet folytató gazdálkodó szervezet köteles a származási bizonyítványt az annak
+kiadására felhatalmazott kamarai szervtől beszerezni és azt az Eximbankhoz, refinanszírozás esetén a finanszírozó
+hitelintézethez benyújtani.
+
+(2) Szolgáltatáshoz e rendelet alapján akkor nyújtható garancia, ha a szolgáltatást nyújtó belföldi gazdálkodó
+szervezet vagy annak az exportált szolgáltatás nyújtásában részt vevő, belföldi gazdálkodó szervezetnek
+minősülő alvállalkozója által foglalkoztatottak több mint fele olyan személy, aki a társadalombiztosítás ellátásaira
+és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, illetve a kisadózó
+vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szabályai szerint vele biztosítási kötelezettséggel
+járó jogviszonyban áll. A szolgáltatást nyújtó az e bekezdésben foglalt feltételeknek való megfelelést a fővárosi
+és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve által kiállított dokumentumokkal
+alátámasztottan igazolja. A feltételek megvalósulását az Eximbank a belső szabályzatában foglalt eljárásnak
+megfelelően ellenőrzi.
+(3) A belföldi gazdálkodó szervezet által megvalósított építési, szerelési, technológiai szerelési, tervezési
+és az ezekhez közvetlenül kapcsolódó szolgáltatások elvégzésére vonatkozó szerződések finanszírozási
+költséggel csökkentett értékének legalább egynegyed részben magyar származású exportnak kell minősülnie,
+amelyről a Magyar Kereskedelmi és Iparkamara az Eximbank által jóváhagyott eljárás alapján állít ki származási
+igazolást. Az e bekezdésben előírtnál kisebb magyar hányad esetén a garancianyújtás csak a magyar hányad
+exporthitelezésére, valamint a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről
+szóló 85/1998. (V. 6.) Korm. rendelet 1. §-a szerinti két éves és két éven túli pénzkölcsön nyújtására terjedhet ki.
+A részteljesítés elfogadottnak tekintendő, ha a részteljesítéskori magyar hányad mértéke megfelel a kivitelezési
+ütemtervben előre meghatározott magyar hányadnak.
+(4) Az Eximbank e rendelet alapján beszállítói hitelekhez akkor nyújthat garanciát, ha a beszállító az áru
+eredetének igazolására az annak kiadására felhatalmazott kamarai szervtől beszerezett származási bizonyítványt
+az Eximbankhoz, refinanszírozás esetén a finanszírozó hitelintézethez benyújtotta, és mellékelte az exportőr
+nyilatkozatát arról, hogy az exportőr a beszállító által beszállított árut vagy az annak felhasználásával előállított
+másik árut exportálja. Ilyen nyilatkozat hiányában elfogadható a beszállító nyilatkozta is arról, hogy az általa
+beszállított áru vagy nyújtott szolgáltatás az exportőr ezen áru vagy szolgáltatás felhasználásával előállított magyar
+áru vagy szolgáltatás exportjára irányuló szerződésében foglalt kötelezettségének teljesítéséhez szükséges.
+A szolgáltatás eredetének igazolására és ellenőrzésére a (2) bekezdésben meghatározott rendelkezéseket kell
+alkalmazni.
+(5) Az Eximbank e rendelet alapján exportcélú befektetési hitelhez akkor nyújthat garanciát, ha az exportcélú
+befektetési hitelből megvalósított befektetés exportárbevételt eredményez, és ha a megbízó az Eximbanknak,
+refinanszírozás esetén a finanszírozó hitelintézetnek írásban nyilatkozik arról, hogy az Eximbank által garantált
+exportcélú befektetési hitelből olyan befektetést valósít meg, amely magyar származású áru gyártását és
+exportálását vagy magyar származású szolgáltatás nyújtását és a szolgáltatás exportálását teszi lehetővé, legalább
+az exportcélú befektetési hitel összegében. A megbízó az áru eredetének igazolására köteles az áru exportjának
+megkezdésekor az annak kiadására felhatalmazott kamarai szervtől beszerezett származási bizonyítványt
+az Eximbankhoz, refinanszírozás esetén a finanszírozó hitelintézethez benyújtani. A szolgáltatás eredetének
+igazolására és ellenőrzésére a (2) bekezdésben meghatározott rendelkezéseket kell alkalmazni.”
+4. §
+Az R. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kétéves és két éven túli futamidejű hitelhez nyújtott exporthitel garanciáért felszámított díjnak az OECD
+Megállapodásban meghatározott előírásokhoz kell igazodnia. A felszámított díjnak tükröznie kell a felmerülő összes
+kockázatot és fedeznie kell az Eximbank hosszú távú működési költségeit.”
+5. §
+Az R. 1. § 1. pontjában a„befektetéseihez”szövegrész helyébe a„beruházásaihoz”szöveg lép.
+6. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

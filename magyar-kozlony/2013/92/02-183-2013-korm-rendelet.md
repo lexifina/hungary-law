@@ -1,0 +1,122 @@
+# A Kormány 183/2013. (VI. 7.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 92. szám, 2013. június 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f7ac5bf4d7b60a69106ec49b2c2bb018ce2ae694/dokumentumok/9de868ef76c7b0516e92ee59d28996110d8eafa5/letoltes)
+
+---
+
+A Kormány 183/2013. (VI. 7.) Korm. rendelete
+a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló
+85/1998. (V. 6.) Korm. rendelet módosításáról
+A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló
+1994. évi XLII. törvény 26. § (3) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében
+meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+ A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.)
+Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási
+exporthitelre, amely a beszállítói hitel vagy export célú befektetési hitel nyújtását követően további feldolgozáson
+vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel
+vagy export célú befektetési hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz
+kapcsolódik.”
+2. §
+ Az R. 3. § k) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazása szempontjából)
+„k) exportcélú befektetési hitel: a Törvény 1. § (5a) bekezdés b) pontja szerinti exportcélú befektetésnek minősülő
+ügylethez a befektetést megvalósító gazdálkodó szervezet és az ehhez hitelt nyújtó hitelintézet között létrejött
+hitelviszony vagy a befektetést megvalósító gazdálkodó szervezetnek a befektetéshez pénzügyi lízinget nyújtó
+gazdálkodó szervezet és a hitelező hitelintézet között létrejött hitelviszony;”
+3. §
+ Az R. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kamatkiegyenlítés nem vehető igénybe reexportra. Nem minősül reexportnak az olyan külkereskedelmi
+szerződés alapján teljesített export, amely megfelel a 6. § (1) bekezdésében foglaltaknak.”
+4. §
+ Az R. 6. § (1)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Áruexport e rendelet szerint akkor finanszírozható, ha a külkereskedelmi szerződés alapján a belföldi
+gazdálkodó szervezet által teljesített exportügylet keretében kiszállításra kerülő áruk legalább fele magyar
+származásúnak minősül, amely feltétel teljesülését az Eximbank belső szabályzatában foglaltak szerint ellenőrzi.
+Az áruk magyar származásának megállapítására és igazolására a Közösségi Vámkódex létrehozásáról szóló
+2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 1993. július 2-i
+2454/93/EGK bizottsági rendelet rendelkezéseit, a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény
+19. §-ában foglaltakat, a közösségi vámjog végrehajtásának részletes szabályairól szóló miniszteri rendeletben
+foglaltakat kell alkalmazni azzal, hogy a külkereskedelmi tevékenységet folytató gazdálkodó szervezet köteles
+a származási bizonyítványt az annak kiadására felhatalmazott kamarai szervtől beszerezni és azt az Eximbankhoz,
+refinanszírozás esetén a finanszírozó hitelintézethez benyújtani.
+(2) Szolgáltatás e rendelet szerint akkor finanszírozható, ha a szolgáltatást nyújtó belföldi gazdálkodó szervezet vagy
+annak az exportált szolgáltatás nyújtásában részt vevő, belföldi gazdálkodó szervezetnek minősülő alvállalkozója által
+foglalkoztatottak több mint fele olyan személy, aki a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról,
+valamint e szolgáltatások fedezetéről szóló törvény, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati
+adóról szóló törvény szabályai szerint vele biztosítási kötelezettséggel járó jogviszonyban áll. A szolgáltatást nyújtó
+az e bekezdésben foglalt feltételeknek való megfelelést a fővárosi és megyei kormányhivatal egészségbiztosítási
+pénztári szakigazgatási szerve által kiállított dokumentumokkal alátámasztottan igazolja. A feltételek megvalósulását
+az Eximbank a belső szabályzatában foglalt eljárásnak megfelelően ellenőrzi.
+
+(3) A belföldi gazdálkodó szervezet által megvalósított építési, szerelési, technológiai szerelési, tervezési és az ezekhez
+közvetlenül kapcsolódó szolgáltatások elvégzésére vonatkozó szerződések finanszírozási költségekkel csökkentett
+értékének legalább egynegyed részben magyar származású exportnak kell minősülnie, amelyről a Magyar Kereskedelmi
+és Iparkamara az Eximbank által jóváhagyott eljárás alapján állít ki származási igazolást. Az e bekezdésben előírtnál
+kisebb magyar hányad esetén a finanszírozás csak a magyar hányad exporthitelezésére, valamint az 1. § szerinti két
+éves és két éven túli pénzkölcsönökre terjedhet ki. A részteljesítés elfogadottnak tekintendő, ha a részteljesítéskori
+magyar hányad mértéke megfelel a kivitelezési ütemtervben előre meghatározott magyar hányadnak.
+(4) Az Eximbank a kamatkiegyenlítési rendszer keretében csak azon beszállítói hitelek kapcsán számolhat el
+a központi költségvetéssel, amelyek esetében a beszállító az áru eredetének igazolására az annak kiadására
+felhatalmazott kamarai szerv által kiállított származási bizonyítványt az Eximbankhoz, refinanszírozás esetén
+a finanszírozó hitelintézethez benyújtotta, és mellékelte az exportőr nyilatkozatát arról, hogy az exportőr a beszállító
+által beszállított árut vagy az annak felhasználásával előállított másik árut exportálja, vagy a beszállító által nyújtott
+szolgáltatást a külkereskedelmi szerződésében foglalt kötelezettségei teljesítéséhez veszi igénybe. Ilyen nyilatkozat
+hiányában elfogadható a beszállító nyilatkozta is arról, hogy az általa beszállított áru vagy nyújtott szolgáltatás
+az exportőr ezen áru vagy szolgáltatás felhasználásával előállított magyar áru vagy szolgáltatás exportjára irányuló
+szerződésében foglalt kötelezettségének teljesítéséhez szükséges. A szolgáltatás eredetének igazolására és
+ellenőrzésére a (2) bekezdésben meghatározott rendelkezések alkalmazandók.
+(5) Az Eximbank a kamatkiegyenlítési rendszer keretében csak azon exportcélú befektetési hitelek kapcsán számolhat
+el a központi költségvetéssel, amelyek esetében az exportcélú befektetési hitelnyújtás eredményeként megvalósuló
+befektetés exportárbevételt eredményez, és ha az exportőr az Eximbanknak, refinanszírozás esetén a finanszírozó
+hitelintézetnek írásban nyilatkozik arról, hogy az Eximbank által folyósítandó exportcélú befektetési hitelből olyan
+befektetés valósul meg, amely magyar származású áru gyártását és exportálását, vagy magyar származású szolgáltatás
+nyújtását és a szolgáltatás exportálását teszi lehetővé, legalább az exportcélú befektetési hitel összegében. Az exportőr
+az áru eredetének igazolására az áru exportjának megkezdésekor az annak kiadására felhatalmazott kamarai szerv
+által kiállított származási bizonyítványt az Eximbankhoz, refinanszírozás esetén a finanszírozó hitelintézethez
+nyújtja be. A szolgáltatás eredetének igazolására és ellenőrzésére a (2) bekezdésben meghatározott rendelkezések
+alkalmazandók.”
+5. §
+ Az R. 8. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A refinanszírozási exporthitelek, és egyéb export célú refinanszírozási hitelek legkisebb kamatlába
+a (2) bekezdésben foglalt kivétellel a 7. § (1) bekezdésében meghatározott legkisebb kamatláb mínusz 3,5%.
+Amennyiben az így számított kamatláb nem éri el a 0,1%-ot, a felszámításra kerülő kamatláb mértéke legalább
+0,1%. A refinanszírozási exporthitelek és egyéb export célú refinanszírozási hitelek legkisebb kamatlábának
+meghatározására a (2) bekezdésben foglalt kivétellel a finanszírozási feltételeket rögzítő szerződés megkötésének
+napján kerül sor, amely kamatláb rögzített a teljes futamidő alatt.
+(2) A két éves és két éven túli futamidejű refinanszírozási exporthitelek legkisebb kamatlába belföldi hitelintézetek
+esetében a 7. § (2) bekezdésében meghatározott kamatláb mínusz 3,5%. Amennyiben az így számított kamatláb nem
+éri el a 0,1%-ot, a felszámításra kerülő kamatláb mértéke legalább 0,1%. Az e bekezdés hatálya alá tartozó hitelek
+legkisebb kamatlábának meghatározására az OECD Megállapodás rendelkezései szerint megállapított időpontban
+kerül sor.”
+6. §
+ Az R. 8. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Az Eximbank csak azzal a belföldi hitelintézettel köthet két éven belüli futamidejű refinanszírozási exporthitel
+hitelszerződést vagy egyéb export célú refinanszírozási hitelszerződést, amely vállalja, hogy az általa e forrás terhére
+nyújtott két éven belüli futamidejű hitel piaci kamatozású, és az alkalmazott kamatláb eléri vagy meghaladja
+a kiváló minősítésű ügyfél magas biztosítékkal fedezett ügylete esetén alkalmazandó egyéni referencia kamatláb
+mértékét.”
+7. §
+ Az R.
+a)
+1. § (2) bekezdésében a „hiteleket” szövegrész helyébe az „exporthiteleket” szöveg, a „megelőlegezést”
+szövegrész helyébe a „két éves és két éven túli pénzkölcsönöket”,
+b)
+1. § (6) bekezdésében az „olyan áruhoz” szövegrész helyébe az „azon áruhoz”,
+c)
+4. § (1) bekezdésében a „megelőlegezés” szövegrész helyébe a „két éves és két éven túli pénzkölcsön
+nyújtása”,
+
+d) 4. § (2) bekezdésében a„felszámítandó egyéni referencia kamatlábakat” szövegrész helyébe a„felszámítandó
+kamatlábakat”,
+e) 7. § (1) bekezdésében a„0,5%”szövegrész helyébe a„0,1%”,
+f) 7. § (2) bekezdésében az „illetve megelőlegezés” szövegrész helyébe az „és két éves és két éven túli
+pénzkölcsönök”
+szöveg lép.
+8. §
+Hatályát veszti az R. 11/A. § (1)–(8) és (10)–(12) bekezdése.
+9. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

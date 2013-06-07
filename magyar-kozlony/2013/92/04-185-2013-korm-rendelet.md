@@ -1,0 +1,151 @@
+# A Kormány 185/2013. (VI. 7.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 92. szám, 2013. június 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f7ac5bf4d7b60a69106ec49b2c2bb018ce2ae694/dokumentumok/9de868ef76c7b0516e92ee59d28996110d8eafa5/letoltes)
+
+---
+
+A Kormány 185/2013. (VI. 7.) Korm. rendelete
+a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére,
+a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló
+312/2001. (XII. 28.) Korm. rendelet módosításáról
+A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló
+1994. évi XLII. törvény 26. § (2) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében
+meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető
+kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.)
+Korm. rendelet (a továbbiakban: R.) 2. § (1) bekezdés p) és q) pontja helyébe a következő rendelkezések lépnek:
+(E rendelet alkalmazásában)
+„p) egyedi módozat: az a biztosítási módozat, amely esetén a Mehib Rt. kockázatviselése a biztosított vagy
+a külkereskedelmi tevékenységet folytató belföldi gazdálkodó szervezet és az adós vagy megrendelő között létrejött
+egyetlen jogügyletből és az ezen jogügyletekhez kapcsolódóan a biztosított által nyújtott finanszírozásból eredő
+követelésre vagy követelésekre terjed ki;
+q) exportcélú befektetési hitel: az Etv. 1. § (5a) bekezdés b) pontja szerinti exportcélú befektetésnek minősülő
+ügylethez a befektetést megvalósító gazdálkodó szervezet és az ehhez hitelt nyújtó hitelintézet között létrejött
+hitelviszony vagy a befektetést megvalósító gazdálkodó szervezetnek a befektetéshez pénzügyi lízinget nyújtó
+gazdálkodó szervezet és a hitelező hitelintézet között létrejött hitelviszony;”
+2. §
+Az R. 2. § (1) bekezdése a következő v) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„v) egyéb módozat: az o), q), r), d), g) pontban meghatározott termékekhez nyújtott biztosítás és az olyan biztosítási
+módozatok, amelyek nem tartoznak sem az egyedi, sem a forgalmi típusú módozatokba vagy ezek egyes feltételeit
+vegyesen tartalmazzák.”
+3. §
+Az R. 3. § b) pontja helyébe a következő rendelkezés lép:
+(A biztosítás alanyai egyrészről a Mehib Rt., mint biztosító vagy viszontbiztosító, másrészről)
+„b) a külföldi vállalkozásba közvetlenül vagy közvetetten befektető belföldi gazdálkodó szervezet, abban az esetben,
+ha a Mehib Rt. kockázatviselése az egyéb módozat alá tartozó ügyletre terjed ki,”
+4. §
+Az R. 4. § (3) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A biztosítás nem terjed ki:)
+„g) pénzügyi befektetésekre, ide nem értve az (1) bekezdés e) pontja szerinti befektetés biztosítás tárgyát képező
+befektetéseket és az (1) bekezdés c) pontja szerinti külföldi vállalkozáshoz kapcsolódó hitelnyújtást;”
+5. §
+Az R. 5. §-a a következő n) ponttal egészül ki:
+(Az Állam készfizető kezessége mellett vállalható kockázatokhoz kapcsolódó biztosítási események a következők:)
+„n) ha a Mehib Rt. a biztosítottnak belföldi gazdálkodó szervezettel szembeni követelését biztosítja, e belföldi
+gazdálkodó szervezet fizetésképtelensége, fizetési késedelme vagy nemfizetése.”
+6. §
+Az R. 7. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Áruexport esetén a Mehib Rt. kockázatviselésének feltétele, hogy a belföldi gazdálkodó szervezet által teljesített
+exportügylet keretében kiszállított áruk legalább fele magyar származásúnak minősüljön, amely feltétel teljesülését
+a Mehib Rt. belső szabályzatában foglaltak szerint ellenőrzi. Az áruk magyar származásának megállapítására és
+igazolására a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó
+rendelkezések megállapításáról szóló 1993. július 2-i 2454/93/EGK bizottsági rendeletet, a közösségi vámjog
+végrehajtásáról szóló 2003. évi CXXVI. törvény 19. §-ában foglaltakat, a közösségi vámjog végrehajtásának részletes
+szabályairól szóló miniszteri rendeletben foglaltakat kell alkalmazni azzal, hogy a külkereskedelmi tevékenységet
+folytató gazdálkodó szervezet köteles a származási bizonyítványt az annak kiadására felhatalmazott kamarai szervtől
+beszerezni, és azt a Mehib Rt. részére átadni.
+
+(2) A Mehib Rt. kockázatvállalása szolgáltatásra e rendelet szerint akkor terjed ki, ha a szolgáltatást nyújtó belföldi
+gazdálkodó szervezet vagy annak az exportált szolgáltatás nyújtásában részt vevő belföldi gazdálkodó szervezetnek
+minősülő alvállalkozója által foglalkoztatottak több mint fele olyan személy, aki a társadalombiztosítás ellátásaira,
+valamint a magánnyugdíjra jogosultakról és e szolgáltatások fedezetéről szóló törvény, illetve a kisadózó
+vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szabályai szerint vele biztosítási kötelezettséggel
+járó jogviszonyban áll. A szolgáltatást nyújtó az e bekezdésben foglalt feltételeknek való megfelelést a fővárosi
+és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve által kiállított dokumentumokkal
+alátámasztottan igazolja. A feltételek megvalósulását a Mehib Rt. a belső szabályzatában foglalt eljárásnak
+megfelelően ellenőrzi.
+(3) A belföldi gazdálkodó szervezet által megvalósított építési, szerelési, technológiai szerelési, tervezési és
+az ezekhez közvetlenül kapcsolódó szolgáltatások elvégzésére vonatkozó szerződések finanszírozási költségekkel
+csökkentett értékének legalább egynegyed részben magyar származású exportnak kell minősülnie, amelyről
+a Magyar Kereskedelmi és Iparkamara a Mehib Rt. által jóváhagyott eljárás alapján állít ki származási igazolást.
+Az e bekezdésben előírtnál kisebb magyar hányad esetén a Mehib Rt. kockázatvállalása a (7) bekezdésben
+meghatározott kivétellel csak a magyar hányadra terjedhet ki. A részteljesítés elfogadottnak tekintendő, ha
+a részteljesítéskori magyar hányad mértéke megfelel a biztosítási kötvényben előre meghatározott magyar
+hányadnak.”
+7. §
+Az R. 7. § (9) és (10) bekezdése helyébe a következő rendelkezések lépnek:
+„(9) A beszállítói hitelből eredő követelés a Mehib Rt. által abban az esetben biztosítható, ha a beszállító az áru
+eredetének igazolására az annak kiadására felhatalmazott kamarai szervtől beszerzett származási bizonyítványt
+a Mehib Rt.-hez benyújtja, és mellékeli az exportőr arra vonatkozó nyilatkozatát, miszerint az exportőr a beszállító
+által beszállított árut vagy az annak felhasználásával előállított másik árut exportálja. Ilyen nyilatkozat hiányában
+elfogadható a beszállító nyilatkozta is arról, hogy az általa beszállított áru vagy nyújtott szolgáltatás az exportőr
+ezen áru vagy szolgáltatás felhasználásával előállított magyar áru vagy szolgáltatás exportjára irányuló
+szerződésében foglalt kötelezettségének teljesítéséhez szükséges. A szolgáltatás eredetének igazolására és
+ellenőrzésére a (2) bekezdésben megállapított rendelkezéseket kell alkalmazni.
+(10) Az exportcélú befektetési hitelből eredő követelés a Mehib Rt. által akkor biztosítható, ha az exportcélú
+befektetési hitel eredményeként megvalósuló befektetés exportárbevételt eredményez, és ha az exportőr a Mehib
+Rt.-nek írásban nyilatkozik arról, hogy a Mehib Rt. által biztosított exportcélú befektetési hitelből olyan befektetés
+valósul meg, amely magyar származású áru gyártását és exportálását vagy magyar származású szolgáltatás
+nyújtását és a szolgáltatás exportálását teszi lehetővé, legalább az exportcélú befektetési hitel összegében.
+Az exportőr az áru eredetének igazolására köteles az áru exportjának megkezdésekor az annak kiadására
+felhatalmazott kamarai szervtől beszerzett származási bizonyítványt a Mehib Rt.-hez benyújtani. A szolgáltatás
+eredetének igazolására és ellenőrzésére a (2) bekezdésben meghatározott rendelkezéseket kell alkalmazni.”
+8. §
+Az R. 17/A. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(Közép- és hosszú lejáratú ügyletek és egyedi módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. mentesül
+a kárfizetési kötelezettség alól, ha)
+„b) a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi
+és
+ba) ezzel ok-okozati összefüggésben következik be a biztosított kára,
+bb) ennek következtében a biztosító kockázatvállalásának vagy kártérítési kötelezettségének mértéke megnő vagy
+a kockázat növekedésének mértéke nem állapítható meg;”
+9. §
+Az R. 17/B. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. a Ptk.-ban meghatározott mentesülési
+okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:)
+„a) a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi
+és
+aa) ezzel ok-okozati összefüggésben következik be a biztosított kára,
+ab) ennek következtében a biztosító kockázatvállalásának vagy kártérítési kötelezettségének mértéke megnő vagy
+a kockázat növekedésének mértéke nem állapítható meg;”
+
+10. §
+Az R. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Átruházási kötelezettsége keretében a biztosított a kárfizetéssel egyidejűleg köteles a kifizetésre kerülő
+kártérítés önrésszel növelt összegének erejéig az ügylettel kapcsolatos lejárt biztosított követelését a követelés
+érvényesítésének jogával együtt a Mehib Rt.-re mint az állam megbízottjára engedményezni. Amennyiben a Mehib
+Rt. a biztosítási szerződés rendelkezéseinek megfelelően a biztosított által bejelentett kárigény összegét biztosított
+követelésnek minősülő összegekkel csökkenti, az átruházási kötelezettség – a kárfizetés önrésszel növelt összegén
+túl – kiterjed a kárigény bejelentés összegéből levont biztosított követelésekre is. A biztosított az átruházási
+kötelezettsége keretében az e bekezdésben foglaltakon túl köteles a biztosított ügylettel kapcsolatos biztosítékait
+az átruházott követelés összegének erejéig a Mehib Rt.-re átruházni. A biztosított köteles
+a) az adóst az átruházás megtörténtéről értesíteni,
+b) az adóshoz intézett értesítés másolatát a Mehib Rt.-hez eljuttatni, továbbá
+c) a Mehib Rt. által megkívánt nyilatkozatokat megtenni.”
+11. §
+Az R.
+a) 6. § (2) bekezdésében a„Közép- és hosszú lejáratú ügyletek esetén” szövegrész helyébe az„Egyedi módozatú
+ügyletek esetén”,
+b) 7. § (4) bekezdésében az„A (3) bekezdésben”szövegrész helyébe az„Az (1)–(3) bekezdésben”,
+c) 7. § (7) bekezdésében az „A (3) bekezdésben meghatározottnál” szövegrész helyébe az „Az (1) és
+(3) bekezdésben meghatározottnál”, a „mint a (3) bekezdésben meghatározott” szövegrész helyébe a „mint
+az (1) és (3) bekezdésben meghatározott”,
+d) 17/B. § (5) bekezdésében az„A befektetés biztosítás és a garanciabiztosítás” szövegrész helyébe az„Az egyéb
+módozatok”
+szöveg lép.
+12. §
+Az R. a következő 23. §-sal egészül ki:
+„23. § A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány
+készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001.
+(XII. 28.) Korm. rendelet módosításáról szóló 185/2013. (VI. 7.) Korm. rendelet (a továbbiakban: MódR.) 6. §-ával
+megállapított 7. § (1) és (3) bekezdése, 11. § b) és c) pontjával megállapított 7. § (4) bekezdése és 7. § (7) bekezdése
+a 2012. december 30. és a MódR. hatálybalépése közötti időszakban megkötött biztosítási szerződésekre is
+alkalmazandók.”
+13. §
+Hatályát veszti az R. 21. § (1) bekezdése.
+14. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
