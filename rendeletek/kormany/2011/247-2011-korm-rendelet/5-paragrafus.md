@@ -1,4 +1,4 @@
-5. § (1)[^1] Az engedélyezési eljárásokban közreműködő – az Atv. szerinti – minősítő bizottsági tag az lehet, aki legalább tíz éves, az 1. mellékletben felsorolt szakterületek valamelyikén megszerzett szakmai gyakorlattal és szakirányú felsőfokú képesítéssel rendelkezik.
+5. § (1)[^2] Az engedélyezési eljárásokban közreműködő – az Atv. szerinti – minősítő bizottsági tag az lehet, aki legalább tíz éves, az 1. mellékletben felsorolt szakterületek valamelyikén megszerzett szakmai gyakorlattal és szakirányú felsőfokú képesítéssel rendelkezik.
 
 (2) A minősítő bizottsági tag kijelölését írásban veszi tudomásul.
 
@@ -6,4 +6,4 @@
 
 (4) Nem vehető figyelembe a bizottsági állásfoglalás, ha a minősítő bizottságban olyan tag vett részt, aki az (1) és (3) bekezdés alapján nem járhatott volna el. Ilyen esetben új összetételű bizottság állásfoglalására van szükség.
 
-[^1]: Az 5. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 24. §-a szerint módosított szöveg.

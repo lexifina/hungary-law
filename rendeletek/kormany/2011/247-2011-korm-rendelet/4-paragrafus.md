@@ -8,7 +8,7 @@
 
 (4) A kérelemhez csatolni kell:
 
-a) a szükséges végzettséget igazoló oklevél (oklevelek) másolatát, külföldi felsőoktatási intézmény által kiállított oklevél (oklevelek) esetében annak magyar fordítását és a honosításról szóló iratot,
+a)[^1] a szükséges végzettséget igazoló okirat másolatát, külföldi felsőoktatási intézmény által kiállított okirat esetében annak magyar fordítását és a honosításról vagy elismerésről szóló döntést,
 
 b) a szakmai gyakorlat részletes leírását és idejét, részletes szakmai önéletrajz keretében,
 
@@ -23,3 +23,5 @@ f) az igazgatási szolgáltatási díj befizetésének igazolását.
 (5) Abban az esetben, ha a kérelmező büntetlen előéletet és a foglalkozástól eltiltás hiányát a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. §-ában meghatározott módon kívánja igazolni, a kérelemhez csatolni kell az adattovábbítási kérőlap feladói azonosítójának másolatát és a kérőlap ajánlott postai küldeményként történő feladását igazoló feladóvevény másolatát, ügyfélkapun át előterjesztett kérelem esetében pedig az igazgatási szolgáltatási díj megfizetéséről szóló banki átutalási megbízás másolatát.
 
 (6) A kérelmet az engedélyező hatóság által rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani.
+
+[^1]: A 4. § (4) bekezdés a) pontja a 120/2013. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
