@@ -16,4 +16,6 @@
 
 | Összesen |  | 5,135 |
 
-2. melléklet az 1648/2012. (XII. 19.) Korm. határozathoz
+2. melléklet az 1648/2012. (XII. 19.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet az 1312/2013. (VI. 7.) Korm. határozat 7. pontja szerint módosított szöveg.
