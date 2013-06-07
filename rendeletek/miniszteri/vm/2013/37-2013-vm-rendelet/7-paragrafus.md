@@ -1,5 +1,0 @@
-## 6. § A veszettség elleni védekezés részletes szabályairól szóló 164/2008. (XII. 20.) FVM rendelet 4. § (5a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5a) Az oltást végző magánállatorvos az eb oltási könyvének kiállítása során az állat fajtájának megjelölésére szolgáló sort a fajta megjelölésével kizárólag abban az esetben töltheti ki, amennyiben az eb tulajdonosa az eb fajtatiszta származását az elismert tenyésztő szervezet által kibocsátott származási igazolással igazolja. Amennyiben az eb fajtatiszta származása e módon nem igazolt, az állat fajtájának megjelölésére szolgáló sor fenológiai vizsgálat alapján a „[fajta] jellegű” vagy „keverék” bejegyzéssel tölthető ki. Az állat fajtájának megjelölésére szolgáló sor kitöltésekor az ebnek a származási igazolásán szereplő törzskönyvi azonosítóját, vagy a fajta jellegére történő bejegyzés esetén annak fenológiai vizsgálattal való megállapítására utaló hivatkozást, állatorvosi bélyegző lenyomattal, megjegyzésként fel kell tüntetni.”
-
-7. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
