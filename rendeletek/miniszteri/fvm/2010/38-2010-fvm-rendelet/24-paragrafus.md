@@ -4,7 +4,7 @@
 
 (2) A támogatás folyósításának alapja az adott tárgyévi kifizetési kérelemben szereplő
 
-a)[^42] az előző naptári évben, az egyes fajok ENAR, valamint a 120/2007. (X. 18.) FVM rendeletnek, az Országos Állattenyésztési Adatbázisnak megfelelő nyilvántartásban meglévő,
+a)[^43] az előző naptári évben, az egyes fajok ENAR, valamint a 120/2007. (X. 18.) FVM rendeletnek, az Országos Állattenyésztési Adatbázisnak megfelelő nyilvántartásban meglévő,
 
 b) az elismert tenyésztőszervezet által minősített és a 23. § (2) bekezdés szerint tenyésztési hatóság által leigazolt,
 
@@ -14,4 +14,4 @@ c) a támogatás jogosultsági feltételeinek és a célprogramok előírásaina
 
 (3) A folyósított támogatási összeg nem haladhatja meg a jóváhagyott állomány után adható maximális összeget.
 
-[^42]: A 24. § (2) bekezdés a) pontja a 112/2011. (XI. 24.) VM rendelet 10. §-ával megállapított szöveg.
+[^43]: A 24. § (2) bekezdés a) pontja a 112/2011. (XI. 24.) VM rendelet 10. §-ával megállapított szöveg.

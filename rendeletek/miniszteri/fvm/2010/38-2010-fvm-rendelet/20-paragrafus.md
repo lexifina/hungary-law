@@ -6,13 +6,13 @@
 
 (3) Az Irányító Hatóság közleményben teszi közzé célprogramonként azt a minimális pontszámot, amelytől támogatás nyújtható.
 
-(4)[^36] Az 5. melléklet szerint a célprogramba bevonni kívánt egyedek szempontja esetében többletpont az alapján kerül megállapításra, hogy az állattartó a tenyészeteiben a támogatási kérelem benyújtásának évében január 1-jén tartott célprogrammal azonos állatfajta állatlétszámához viszonyítva mekkora állatlétszámot kíván az adott célprogramba bevinni.
+(4)[^37] Az 5. melléklet szerint a célprogramba bevonni kívánt egyedek szempontja esetében többletpont az alapján kerül megállapításra, hogy az állattartó a tenyészeteiben a támogatási kérelem benyújtásának évében január 1-jén tartott célprogrammal azonos állatfajta állatlétszámához viszonyítva mekkora állatlétszámot kíván az adott célprogramba bevinni.
 
 (5) Az 5. melléklet szerint a célprogramba bevonni kívánt nukleusz minősítésű egyedek szempontja esetében a többletpont az alapján kerül megállapításra, hogy – a 4. § (2) bekezdésben meghatározott igazolás alapján – az induló állatlétszám hány százaléka tartozik a támogatási kérelem évében nukleusz minősítésű egyedek közé.
 
 (6) A támogatási kérelemhez az (5) bekezdés szerinti többletpont beszámításához mellékelni kell a 4. § (2) bekezdésben meghatározott igazolást.
 
-(7)[^37] A támogatási kérelem elbírálásakor a vállalt állatállomány-szaporulatra vonatkozó forrásigény a 18. § (6) bekezdés alapján benyújtott támogatási kérelemben feltüntetett kötelezettségvállalási megosztás szerint kerül meghatározásra.
+(7)[^38] A támogatási kérelem elbírálásakor a vállalt állatállomány-szaporulatra vonatkozó forrásigény a 18. § (6) bekezdés alapján benyújtott támogatási kérelemben feltüntetett kötelezettségvállalási megosztás szerint kerül meghatározásra.
 
-[^36]: A 20. § (4) bekezdése a 74/2011. (VII. 29.) VM rendelet 7. §-ával megállapított szöveg.
-[^37]: A 20. § (7) bekezdését a 112/2011. (XI. 24.) VM rendelet 8. §-a iktatta be.
+[^37]: A 20. § (4) bekezdése a 74/2011. (VII. 29.) VM rendelet 7. §-ával megállapított szöveg.
+[^38]: A 20. § (7) bekezdését a 112/2011. (XI. 24.) VM rendelet 8. §-a iktatta be.

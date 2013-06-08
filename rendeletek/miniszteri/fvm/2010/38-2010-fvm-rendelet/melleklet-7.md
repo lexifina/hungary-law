@@ -1,3 +1,5 @@
+## A támogatási kérelmek elbírálása során elfogadható felsőfokú agrárvégzettségek a felsőoktatási alap és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005 (XII. 22.) Korm. rendelet alapján
+
 |  | A | B | C | d |
 
 | 1 | Képzési terület | Korábbi főiskolai (F) és egyetemi (E) szakok | Többciklusú képzési rendszer szerinti | Egységes, osztatlan képzések |
@@ -14,7 +16,7 @@
 
 7. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
-A támogatási kérelmek elbírálása során elfogadható szakképesítések
+## A támogatási kérelmek elbírálása során elfogadható szakképesítések
 
 1. Az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet alapján megszerzett szakképesítések
 

@@ -20,4 +20,6 @@ nukleusz vagy fajtafenntartó minősítésről szóló igazolást.
 
 (3) Az egyes fajtákra vonatkozó elismert tenyésztőszervezetek jegyzékét az Irányító Hatóság közleményben jelenteti meg.
 
-(4) E rendelet alapján nem támogathatók azon védett őshonos és veszélyeztetett mezőgazdasági állatfajták egyedei – baromfifélék esetében tenyészetei –, amelyek az 1698/2005/EK tanácsi rendelet 39. cikk (5) bekezdése alapján génbanki támogatásban részesülnek.
+(4)[^7]
+
+[^7]: A 4. § (4) bekezdését a 47/2013. (VI. 7.) VM rendelet 4. §-a hatályon kívül helyezte.
