@@ -1,6 +1,6 @@
 ## 7. A kifizetési kérelem benyújtása
 
-8. § (1)[^9]
+8. § (1)[^11]
 
 (2) A kifizetési kérelemnek a következőket kell tartalmaznia:
 
@@ -22,4 +22,4 @@ h) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudom
 
 (3) Az utolsó kifizetési kérelemhez csatolni kell a 4. célterület kültéri, közcélú feladatokat ellátó játszótereket érintő fejlesztés esetén a játszótéri eszközök biztonságosságáról szóló 78/2003. (XI. 27.) GKM rendelet 3. §-a szerinti megfelelőségi tanúsítványokat, továbbá a használatbavétel engedélyezésére vonatkozó dokumentumokat.
 
-[^9]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés p) pontja hatályon kívül helyezte.
+[^11]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés p) pontja hatályon kívül helyezte.
