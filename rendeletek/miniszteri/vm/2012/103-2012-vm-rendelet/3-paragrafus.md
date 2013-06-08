@@ -2,6 +2,14 @@
 
 3. § (1) Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki örökség megőrzéséhez igénybe vehető támogatások részletes feltételeiről szóló 138/2008. (X. 18.) FVM rendelet (a továbbiakban: 138/2008. (X.18.) FVM rendelet) alapján igénybe vett és az e rendelet alapján igénybe vehető támogatás együttes összege ügyfelenként egymást követő három pénzügyi évben nem haladhatja meg az 50 millió forintot.
 
+(1a)[^3] A támogatás alapján megítélhető összeg az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendeletben (a továbbiakban: 1998/2006/EK bizottsági rendelet) foglaltaknak megfelelően az 1998/2006/EK bizottsági rendelet:
+
+a) hatálya alá tartozó tevékenységek esetén ügyfelenként egymást követő három pénzügyi évben nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget;
+
+b) hatálya alá nem tartozó tevékenységek esetében nem haladhatja meg az (1) bekezdés feltételei szerint meghatározott összeget;
+
+c) értelmében a de minimis hatálya alá tartozó szervezetek esetében mezőgazdasági célú csekély összegű (de minimis) támogatásnak minősül.
+
 (2) Az igényelhető támogatás
 
 a) az 1–2. célterület esetében legfeljebb 50 millió forint,
@@ -31,3 +39,5 @@ b) a Gépkatalógusban szereplő gépek, berendezések esetében a Gépkatalógu
 (10) A támogatott beruházással érintett ingatlanon végrehajtott fejlesztés csak abban az esetben támogatható, ha az ingatlan az 1. § 21. pontja szerinti ügyfél kategóriába tartozó jogalany, az állam, a megyei önkormányzat vagy természetes személy tulajdonában van.
 
 (11) A beruházás helye szerint illetékes LEADER HACS illetékességi területén az egyes célterületek vonatkozásában igényelhető legmagasabb támogatási összeget a 7. melléklet tartalmazza. Azon LEADER HACS illetékességi területén, ahol a 7. melléklet szerint az egyes célterületek esetében igényelhető támogatási összeg 0 forint, támogatási kérelem a célterület tekintetében nem nyújtható be. Amennyiben az ügyfél azon LEADER HACS illetékességi területén megvalósuló fejlesztésre nyújt be támogatási kérelmet, ahol a 7. melléklet értelmében nem igényelhető támogatás, a támogatási kérelem elutasításra kerül.
+
+[^3]: A 3. § (1a) bekezdését a 47/2013. (VI. 7.) VM rendelet 8. § (1) bekezdése iktatta be.
