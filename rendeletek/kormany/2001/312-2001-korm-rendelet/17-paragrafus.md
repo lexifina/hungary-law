@@ -1,8 +1,8 @@
 ## A kárrendezés
 
-17. §[^88] (1) Devizakövetelés biztosítása esetén – amennyiben a kárfizetés forintban történik – a Mehib Rt. a kárfizetést az ügyletet lebonyolító hitelintézet által a kárfizetési türelmi idő lejártának, ennek hiányában a követelés esedékességének napján alkalmazott devizavételi árfolyamon állapítja meg.
+17. §[^98] (1) Devizakövetelés biztosítása esetén – amennyiben a kárfizetés forintban történik – a Mehib Rt. a kárfizetést az ügyletet lebonyolító hitelintézet által a kárfizetési türelmi idő lejártának, ennek hiányában a követelés esedékességének napján alkalmazott devizavételi árfolyamon állapítja meg.
 
-(2)[^89] A Mehib Rt. a kárfizetési kötelezettségét
+(2)[^99] A Mehib Rt. a kárfizetési kötelezettségét
 
 a) a b)–c) pontban meghatározott kivétellel a kárfizetési türelmi idő lejártát követő,
 
@@ -14,13 +14,13 @@ c) ha a kárfizetési türelmi idő lejártáig a biztosított a kárelbírálá
 
 Kárfizetési türelmi idő nem kerül alkalmazásra az első kárfizetést követően, ha a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint – több időpontban – történik a kárfizetés.
 
-(3)–(5)[^90]
+(3)–(5)[^100]
 
 (6) A biztosított követelés egészének egyösszegű azonnali esedékessé válása esetén a Mehib Rt. jogosult a kárt a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint megállapítani.
 
-(7)[^91] A (6) bekezdésben foglalt esetekben a Mehib Rt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosító mentesülésének feltételei nem állnak fenn.
+(7)[^101] A (6) bekezdésben foglalt esetekben a Mehib Rt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosító mentesülésének feltételei nem állnak fenn.
 
-[^88]: A 17. § az 50/2010. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^89]: A 17. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
-[^90]: A 17. § (3)–(5) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
-[^91]: A 17. § (7) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^98]: A 17. § az 50/2010. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^99]: A 17. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^100]: A 17. § (3)–(5) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^101]: A 17. § (7) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.

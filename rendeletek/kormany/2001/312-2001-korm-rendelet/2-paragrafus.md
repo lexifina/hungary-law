@@ -42,9 +42,9 @@ nb) A biztosított és egy külföldön bejegyzett gazdálkodó szervezet közö
 
 o)[^14] beszállítói hitel: az Etv. 1. § (5a) bekezdés a) pontja szerinti beszállítói ügyletnek minősülő ügylet megvalósításához a beszállító és a hitelező bank, vagy az alvállalkozó és a hitelező bank között létrejött hiteljogviszony;
 
-p)[^15] egyedi módozat: az a biztosítási módozat, amely esetén a Mehib Rt. kockázatviselése a biztosított és az adós vagy megrendelő között létrejött egyetlen jogügyletből eredő, továbbá a d) pontban meghatározott befektetésekhez és a g) pontban meghatározott garanciákhoz kapcsolódó követelésre vagy követelésekre terjed ki;
+p)[^15] egyedi módozat: az a biztosítási módozat, amely esetén a Mehib Rt. kockázatviselése a biztosított vagy a külkereskedelmi tevékenységet folytató belföldi gazdálkodó szervezet és az adós vagy megrendelő között létrejött egyetlen jogügyletből és az ezen jogügyletekhez kapcsolódóan a biztosított által nyújtott finanszírozásból eredő követelésre vagy követelésekre terjed ki;
 
-q)[^16] exportcélú befektetési hitel: az Etv. 1. § (5a) bekezdés b) pontja szerinti exportcélú befektetésnek minősülő ügylethez a beszállító és a hitelező bank, vagy az alvállalkozó és a hitelező bank között létrejött hiteljogviszony;
+q)[^16] exportcélú befektetési hitel: az Etv. 1. § (5a) bekezdés b) pontja szerinti exportcélú befektetésnek minősülő ügylethez a befektetést megvalósító gazdálkodó szervezet és az ehhez hitelt nyújtó hitelintézet között létrejött hitelviszony vagy a befektetést megvalósító gazdálkodó szervezetnek a befektetéshez pénzügyi lízinget nyújtó gazdálkodó szervezet és a hitelező hitelintézet között létrejött hitelviszony;
 
 r)[^17] önerőt pótló hitel: az uniós támogatási és fejlesztési alapokból lehívható – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) értelmében kis- és középvállalkozásnak minősülő – pályázó számára nyújtható azon hitel, amely a pályázati kiírás szerint önerőként beszámítható;
 
@@ -52,11 +52,13 @@ s)[^18] rövid lejáratú ügylet: azon ügylet, amely esetén a biztosított, g
 
 t)[^19] közép- és hosszú lejáratú ügylet: azon ügylet, amely esetén a biztosított, gyártási időt és a hitel futamidejét magában foglaló, teljes kockázatviselési idő két év vagy annál hosszabb;
 
-u)[^20] forgalmi típusú módozat: az a biztosításai módozat, amely esetén a Mehib Rt. kockázatviselése a biztosított vagy exportőr és az adós vagy megrendelő közötti külkereskedelmi kapcsolatokból eredő követelésekre terjed ki.
+u)[^20] forgalmi típusú módozat: az a biztosításai módozat, amely esetén a Mehib Rt. kockázatviselése a biztosított vagy exportőr és az adós vagy megrendelő közötti külkereskedelmi kapcsolatokból eredő követelésekre terjed ki;
+
+v)[^21] egyéb módozat: az o), q), r), d), g) pontban meghatározott termékekhez nyújtott biztosítás és az olyan biztosítási módozatok, amelyek nem tartoznak sem az egyedi, sem a forgalmi típusú módozatokba vagy ezek egyes feltételeit vegyesen tartalmazzák.
 
 (2) Az állami adósra vonatkozó előírásokat kell alkalmazni az (1) bekezdés b) pontja szerinti szervezet esetében, ha a kötelezettségeiért az állami adós, mint kezes vállal felelősséget.
 
-(3)[^21] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
+(3)[^22] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
 
 [^2]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
@@ -71,10 +73,11 @@ u)[^20] forgalmi típusú módozat: az a biztosításai módozat, amely esetén 
 [^12]: A 2. § (1) bekezdés m) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 437/2012. (XII. 29.) Korm. rendelet 20. § a) pontja.
 [^13]: A 2. § (1) bekezdés n) pontját a 205/2012. (VII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^14]: A 2. § (1) bekezdés o) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^15]: A 2. § (1) bekezdés p) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^16]: A 2. § (1) bekezdés q) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^15]: A 2. § (1) bekezdés p) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 185/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 2. § (1) bekezdés q) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 185/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: A 2. § (1) bekezdés r) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^18]: A 2. § (1) bekezdés s) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^19]: A 2. § (1) bekezdés t) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^20]: A 2. § (1) bekezdés u) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^21]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^21]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.

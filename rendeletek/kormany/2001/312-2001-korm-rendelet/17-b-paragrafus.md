@@ -1,6 +1,10 @@
-17/B. §[^94] (1) A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. a Ptk.-ban meghatározott mentesülési okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:
+17/B. §[^105] (1) A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. a Ptk.-ban meghatározott mentesülési okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:
 
-a) a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyos gondatlanságból megszegi, mely kötelezettségszegéssel ok-okozati összefüggésben megnő a biztosító kockázatvállalásának vagy kártérítési kötelezettségének mértéke, vagy a biztosító nem tudja felmérni az általa vállalt kockázat tényleges mértékét;
+a)[^106] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
+
+aa) ezzel ok-okozati összefüggésben következik be a biztosított kára,
+
+ab) ennek következtében a biztosító kockázatvállalásának vagy kártérítési kötelezettségének mértéke megnő vagy a kockázat növekedésének mértéke nem állapítható meg;
 
 b) a biztosítónak a biztosított szándékos vagy súlyosan gondatlan kötelezettségszegése miatt nincs lehetősége kárenyhítési és kármegelőzési intézkedéseket tenni vagy azok végrehajtására a biztosítottnak utasítást adni;
 
@@ -12,6 +16,8 @@ c) a biztosított a biztosított ügylethez kapcsolódóan jogerős bírósági 
 
 (4) A 17/A. § (4) bekezdésében meghatározottakat a forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén is alkalmazni kell azzal, hogy ezen ügyletek esetén nincs lehetőség a 6. § (2) bekezdésében meghatározott visszkereset alkalmazására.
 
-(5) A befektetés biztosítás és a garanciabiztosítás esetén lehetőség van arra, hogy a Mehib Rt. az általános szerződési feltételekben a 17/A. § szerinti mentesülési okok helyett a 17/B. § szerinti mentesülési okokat szerepeltesse.
+(5)[^107] Az egyéb módozatok esetén lehetőség van arra, hogy a Mehib Rt. az általános szerződési feltételekben a 17/A. § szerinti mentesülési okok helyett a 17/B. § szerinti mentesülési okokat szerepeltesse.
 
-[^94]: A 17/B. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^105]: A 17/B. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^106]: A 17/B. § (1) bekezdés a) pontja a 185/2013. (VI. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^107]: A 17/B. § (5) bekezdése a 185/2013. (VI. 7.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
