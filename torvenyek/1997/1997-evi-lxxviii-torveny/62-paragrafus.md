@@ -210,7 +210,9 @@ szóló szabályokat,
 
 2.
 
-3. a fővárosi rendezési szabályzatát.
+3. a fővárosi rendezési szabályzatát,
+
+4. a Duna-parti építési szabályzatát.
 
 (8) Felhatalmazást kap
 

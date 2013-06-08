@@ -14,4 +14,6 @@ d) biztosítsa a település, településrészek megőrzésre érdemes jellegzet
 
 a) a településszerkezeti terv, amelyet a településfejlesztési koncepció alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg,
 
-b) a helyi építési szabályzat, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg.
+b) a helyi építési szabályzat, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg,
+
+c) a Duna-parti építési szabályzat, amelyet a településszerkezeti terv és a Fővárosi rendezési szabályzat alapján a fővárosi önkormányzat képviselő-testülete dolgoztat ki és állapít meg.

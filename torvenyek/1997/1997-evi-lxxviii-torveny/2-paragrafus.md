@@ -30,7 +30,7 @@
 
 10. Épület: jellemzően emberi tartózkodás céljára szolgáló építmény, amely szerkezeteivel részben vagy egészben teret, helyiséget vagy ezek együttesét zárja körül meghatározott rendeltetés vagy rendeltetésével összefüggő tevékenység, avagy rendszeres munkavégzés, illetve tárolás céljából.
 
-11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet.
+11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet és a Duna-parti építési szabályzat.
 
 12. Integrált településfejlesztési stratégia: a településfejlesztési koncepcióban foglalt környezeti, társadalmi és gazdasági célok megvalósítását egyidejűleg szolgáló középtávú fejlesztési program.
 
@@ -78,8 +78,10 @@
 
 34. Helyi építészeti értékvédelem: a helyi építészeti örökség értékeinek feltárása, számbavétele, védetté nyilvánítása, fenntartása és védelmének biztosítása.
 
-35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos szabályoknak, valamint a főváros településszerkezeti tervének megfelelően a területfelhasználási egységek beépítési sűrűségét, meghatározott területek épületmagasságát, a fővárosi infrastruktúra területbiztosítását, valamint a Duna főmedrével közvetlenül határos telkek rendeltetését megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.
+35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos településrendezési és építési követelményeknek, valamint a főváros településszerkezeti tervének megfelelően a területfelhasználási egységek beépítési sűrűségét, meghatározott területek beépítési magasságát, a fővárosi infrastruktúra területbiztosítását megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.
 
 36. Építési tevékenység: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka végzése.
 
 37. Fővárosi településrendezési terv: a fővárosi településszerkezeti terv.
+
+38. Duna-parti építési szabályzat: a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
