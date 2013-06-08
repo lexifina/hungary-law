@@ -14,7 +14,7 @@ b) a Hpt. 2. számú melléklete I.10.2. b) pontjában szereplő pénzkölcsön�
 
 terjed ki.
 
-(2) Az Eximbank az (1) bekezdés a) pont aa) és ab) alpontjában felsorolt két éves és két éven túli hiteleket és az (1) bekezdés b) pontjában szereplő megelőlegezést a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló Megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja.
+(2)[^2] Az Eximbank az (1) bekezdés a) pont aa) és ab) alpontjában felsorolt két éves és két éven túli exporthiteleket és az (1) bekezdés b) pontjában szereplő két éves és két éven túli pénzkölcsönöket a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló Megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja.
 
 (3) Az Eximbank az (2) bekezdésben fel nem sorolt termékei esetében gondoskodik arról, hogy a termékleírások tartalmazzák, hogy az egyes termékek feltételei megfelelnek az OECD Megállapodásnak vagy az Európai Unió állami támogatási szabályainak.
 
@@ -22,6 +22,11 @@ terjed ki.
 
 (5) Amennyiben az Európai Unió állami támogatási szabályainak való megfelelés olyan módon biztosított, hogy a termék nem tartalmaz az Európai Unió Működéséről szóló Szerződés 107. cikk (1) bekezdése szerinti állami támogatást, akkor az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
 
-(6) Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel vagy export célú befektetési hitellel finanszírozott összegig az olyan áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, vagy export célú befektetési hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
+(6)[^3] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel vagy export célú befektetési hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, vagy export célú befektetési hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
+
+(7)[^4] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel vagy export célú befektetési hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel vagy export célú befektetési hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
 
 [^1]: Az 1. § a 434/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (6) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be.
