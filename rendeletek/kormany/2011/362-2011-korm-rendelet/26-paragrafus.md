@@ -8,7 +8,7 @@ a) az igénylő felület vagy az IAR használatával a pedagógusigazolvány ig�
 
 b) az elektronikusan rögzített igénylésről ellenőrző adatlapot nyomtat, melyet a jogosulttal aláírat,
 
-c)[^10] az intézmény képviseletére jogosult személy a 25. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
+c)[^11] az intézmény képviseletére jogosult személy a 25. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
 
 (4) Az adatkezelő ingyenesen biztosítja a KIR honlapján az igénylő felülethez a hozzáférést azon közreműködő intézmény számára, amely 2011. szeptember 1. napját megelőzően nem volt jogosult IAR állami támogatásból történő beszerzésére, vagy jogosult volt, de nem szerzett be ilyen rendszert. Az igénylő felületen az adatkezelő meg nem változtatható módon biztosítja a közreműködő intézmény számára a KIR-ben nyilvántartott és a pedagógusigazolvány előállításához szükséges intézményi és pedagógus adatokat.
 
@@ -20,4 +20,4 @@ c)[^10] az intézmény képviseletére jogosult személy a 25. § (1) bekezdés 
 
 (8) A pedagógusigazolvány igénylése esetén az IAR az igénylés során feltöltött személyes adatokat összeveti a KIR-ben szereplő adatokkal. Amennyiben a KIR-ben tárolt adatok eltérnek az igénylésben és a közreműködő intézmény nyilvántartásában szereplő adatoktól, akkor az igénylés továbbítása előtt a közreműködő intézmény köteles az adatváltozásokat a jogszabályban meghatározott módon bejelenteni.
 
-[^10]: A 26. § (3) bekezdés c) pontja a 43. § (4) bekezdésével megállapított szöveg.
+[^11]: A 26. § (3) bekezdés c) pontja a 43. § (4) bekezdésével megállapított szöveg.
