@@ -1,0 +1,3 @@
+## 12. § Az R. a következő 23. §-sal egészül ki:
+
+## „23. § A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet módosításáról szóló 185/2013. (VI. 7.) Korm. rendelet (a továbbiakban: MódR.) 6. §-ával megállapított 7. § (1) és (3) bekezdése, 11. § b) és c) pontjával megállapított 7. § (4) bekezdése és 7. § (7) bekezdése a 2012. december 30. és a MódR. hatálybalépése közötti időszakban megkötött biztosítási szerződésekre is alkalmazandók.”
