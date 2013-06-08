@@ -28,6 +28,6 @@
 
 ## – az elszámolni kívánt nettó kiadás és az áfakulcs.
 
-6. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^78]
+6. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^74]
 
-[^78]: A 6. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (4) bekezdése iktatta be.
+[^74]: A 6. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (4) bekezdése iktatta be.

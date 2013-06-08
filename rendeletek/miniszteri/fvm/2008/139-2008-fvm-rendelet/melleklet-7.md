@@ -524,26 +524,6 @@
 
 |  |  | – felhasznált vízmennyiség. |  |  |
 
-7. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^79]
+7. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^75]
 
-A kifizetési kérelem adattartalma
-
-– a Kötelező Képzést Szolgáltató Szervezet azonosító adatai,
-
-– a képzések kódja, megnevezése,
-
-– a képzés kezdete és vége,
-
-– a képzés helyszíne,
-
-– a képzést teljesítő képzésre kötelezettek neve, regisztrációs száma, de minimis adatai,
-
-– a képzésen résztvevő neve, adószáma, adóazonosító jele,
-
-– az elszámolni kívánt bizonylat adatai (bizonylat azonosítója, típusa, a kiállító adószáma, a fizetés módja, nettó értéke, a teljesítés időpontja, a pénzügyi teljesítés időpontja),
-
-– a pénzügyi teljesítést igazoló bizonylat azonosítója,
-
-– az elszámolni kívánt nettó kiadás és az áfakulcs.
-
-[^79]: A 7. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (5) bekezdése iktatta be.
+[^75]: A 7. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (5) bekezdése iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés g) pontja.

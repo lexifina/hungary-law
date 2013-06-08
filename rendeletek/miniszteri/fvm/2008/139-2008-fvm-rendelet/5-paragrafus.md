@@ -1,15 +1,16 @@
+## 4/A. §[^18]
+
 ## A támogatás mértéke
 
-5. §[^20] (1) Az 1. célterületre vonatkozóan egy naptári évben, egy ügyfél által benyújtott kérelmek alapján megállapítható támogatás összege legfeljebb 570 000 forint.
+5. §[^19] (1) Az egy naptári évben, egy ügyfél által benyújtott kérelmek alapján megállapítható támogatás összege az 1. célterületre vonatkozóan legfeljebb 275 000 forint.
 
-(2) Az 1. célterületre vonatkozóan nem támogatható az az egyesített támogatási és kifizetési kérelem, amely esetén a jóváhagyható támogatás nem éri el a 10 000 forintot.
+(2) Nem támogatható az a támogatási és kifizetési kérelem, amely esetén a támogatás nem éri el a 10 000 forintot.
 
-(3) Az igénybe vehető támogatás szempontjából, az 1. célterületre vonatkozóan az egyes képzésekre a képzésekben részt vevő személyenként elszámolható kiadások felső határértékét a 4. számú melléklet tartalmazza. Az ÚMVP Képző Szervezet által az ügyfél részére kiszámlázott képzési díj e rendeletben megállapított elszámolható kiadás felső határértékét meghaladó részére támogatás nem nyújtható.
+(3) Az igénybe vehető támogatás szempontjából, egyes képzésekre a képzésekben részt vevő személyenként elszámolható kiadások felső határértékét a 4. számú melléklet tartalmazza. Az ÚMVP Képző Szervezet által az ügyfél részére kiszámlázott képzési díj e rendeletben megállapított elszámolható kiadás felső határértékét meghaladó részére támogatás nem nyújtható.
 
-(4) Az 1. célterület esetében csak a 6. § (4) bekezdés b) pontja szerint, az ÚMVP Képző Szervezet által biztosított gyakorlati képzésre számolható el kiadás.
+(4) Csak a 6. § (4) bekezdés b) pontja szerint, az ÚMVP Képző Szervezet által biztosított gyakorlati képzésre számolható el kiadás.
 
-(5) Az 1. és 2. célterület esetében a támogatás mértéke az elszámolható kiadás 100%-a.
+(5) A támogatás mértéke az elszámolható kiadás 100%-a.
 
-(6) A 2. célterületre vonatkozóan az egyes képzésekre a képzésekben részt vevő személyenként elszámolható kiadás nem haladhatja meg a Kötelező Képzéseket Szolgáltató Szervezet kiválasztására irányuló a közbeszerzési eljárás eredményeként kötött szerződésben meghatározott összeget.
-
-[^20]: Az 5. § a 4/2013. (II. 4.) VM rendelet 5. §-ával megállapított szöveg.
+[^18]: A 4/A. §-t és az azt megelőző alcímet a 4/2013. (II. 4.) VM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés b) pontja.
+[^19]: Az 5. § a 47/2013. (VI. 7.) VM rendelet 2. § (5) bekezdésével megállapított szöveg.
