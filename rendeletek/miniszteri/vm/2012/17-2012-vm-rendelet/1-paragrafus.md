@@ -38,8 +38,11 @@ ob) az Európai Unió zászlajának logója,
 
 oc) a Darányi Ignác Terv logója,
 
-od) az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) logója.
+od) az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) logója;
+
+p)[^2] elismert tenyésztőszervezet: a tenyésztők által létrehozott olyan társadalmi szervezet, amelyet a tenyésztési hatóság a tenyésztő szervezeti és fajtaelismerés rendjéről szóló 123/2005. (XII. 27.) FVM rendelet szerint tenyésztőszervezetként elismer.
 
 (2) Az (1) bekezdésben nem szereplő egyéb fogalmakat az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) szerint kell értelmezni.
 
 [^1]: Az 1. § (1) bekezdés o) pontját a 138/2012. (XII. 22.) VM rendelet 7. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés p) pontját a 47/2013. (VI. 7.) VM rendelet 5. § (1) bekezdése iktatta be.

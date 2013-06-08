@@ -1,3 +1,5 @@
+## akkor az adott célprogramra vonatkozó támogatási jogosultsága megszűnik, és a már igénybe vett teljes támogatási összeget az intézkedésben való jogosulatlan részvételre vonatkozó szabályok szerint vissza kell fizetnie.
+
 ## 14. Vis maiorra vonatkozó szabályok
 
 24. § (1) In vitro megőrzés célprogram esetén az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló rendeletben meghatározottakon túl az MVH vis maiorként ismeri el a következő eseteket:

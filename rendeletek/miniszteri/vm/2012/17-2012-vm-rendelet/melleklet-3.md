@@ -1,4 +1,4 @@
-3. melléklet a 17/2012. (II. 29.) VM rendelethez[^42]
+3. melléklet a 17/2012. (II. 29.) VM rendelethez[^48]
 
 1. In vitro megőrzés célprogram
 
@@ -104,4 +104,4 @@
 
 | 10 | Mindösszesen |  | Max. 65 pont |
 
-[^42]: A 3. melléklet a 138/2012. (XII. 22.) VM rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^48]: A 3. melléklet a 138/2012. (XII. 22.) VM rendelet 20. § (1) bekezdése szerint módosított szöveg.

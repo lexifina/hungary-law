@@ -21,5 +21,3 @@ g) embrió-átültető állomás,
 h) spermatároló központ,
 
 i) az ex situ megőrzés célprogram esetében az állat tartója
-
-(a továbbiakban együtt: kérelmező).

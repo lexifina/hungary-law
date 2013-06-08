@@ -1,4 +1,4 @@
-## 30. §[^39] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 12.§ (1a) pontját, valamint a 29. §-át a 30/2013. (IV. 30.) VM rendelet hatálybalépésekor[^40] folyamatban lévő ügyekben is alkalmazni kell.
+## 31. §[^45] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes vidékfejlesztési és egyéb agrártárgyú rendeletek módosításáról szóló 47/2013. (VI. 7.) VM rendelet [a továbbiakban: 47/2013. (VI. 7.) VM rendelet] által megállapított 1. § (1) bekezdés p) pontját és 13. § (9)–(10) bekezdését a 47/2013. (VI. 7.) VM rendelet hatálybalépésekor[^46] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 17/2012. (II. 29.) VM rendelethez
 
@@ -84,5 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^39]: A 30. §-t a 30/2013. (IV. 30.) VM rendelet 11. § (10) bekezdése iktatta be.
-[^40]: A hatálybalépés napja: 2013. április 30.
+[^45]: A 31. §-t a 47/2013. (VI. 7.) VM rendelet 5. § (4) bekezdése iktatta be.
+[^46]: A hatálybalépés időpontja 2013. június 8.
