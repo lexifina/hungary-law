@@ -28,11 +28,11 @@
 
 | 13. | Veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | BM Országos Katasztrófavédelmi Főigazgatóság | – |
 
-| 14. | Területrendezési eljárások | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+| 14. | Területrendezési hatósági eljárások | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze |  |
 
 | 15. | Útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez[^2]
+2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez[^6]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -200,4 +200,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
