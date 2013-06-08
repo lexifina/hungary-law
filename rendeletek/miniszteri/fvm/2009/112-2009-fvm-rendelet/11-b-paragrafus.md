@@ -1,14 +1,14 @@
-## Szakmai beszámoló készítése és benyújtása[^54]
+## Szakmai beszámoló készítése és benyújtása[^55]
 
-11/B. §[^55] (1) Az ügyfél a szakmai beszámolási időszak utolsó napját követő 5 munkanapon belül köteles szakmai beszámolót benyújtani a NAKVI részére, a 8. § (8) bekezdés a) pontjában meghatározott programterv adott időszakra vonatkozó megvalósításáról. A szakmai beszámolók 2013-ban, valamint azt követően évente
+11/B. §[^56] (1)[^57] Az ügyfél köteles szakmai beszámolót benyújtani a NAKVI részére, a 8. § (8) bekezdés a) pontjában meghatározott programterv adott időszakra vonatkozó megvalósításáról. A szakmai beszámolók 2013-ban, valamint azt követően évente
 
-a) január 5-ig,
+a) január 5-éig,
 
-b) április 5-ig,
+b) április 5-éig,
 
-c) július 5-ig, valamint
+c) július 5-éig, valamint
 
-d) október 5-ig
+d) október 5-éig
 
 ## nyújthatók be.
 
@@ -26,7 +26,15 @@ d) a 8. § (1) bekezdés a) pontja szerinti szolgáltatás működtetése eseté
 
 (4) A szakmai beszámolók ellenőrzését a NAKVI végzi, az ellenőrzés eredményéről teljesítésigazolást állít ki, amelyet megküld az ügyfél, valamint MVH és az IH részére.
 
-(5) Amennyiben a (4) bekezdésben meghatározott ellenőrzés során megállapítást nyer, hogy a szakmai beszámolókhoz kapcsolódóan jogkövetkezményt kell alkalmazni, akkor valamennyi szakmai beszámolási időszak alkalmával a 12. § (1) bekezdés a) pontjában meghatározottakat kell alkalmazni. A NAKVI által az MVH felé benyújtott teljesítésigazolás alapján a 12. § (1) bekezdés a) pontjában meghatározott jogkövetkezményt az MVH alkalmazza.
+(4a)[^58] A szakmai beszámolók elkészítésére és benyújtására nyitva álló, az (1) bekezdésben foglalt időszakokat követően a teljesítésigazolások (4) bekezdés szerinti kiállítása során a szakmai beszámoló teljesítettnek tekintendő, amennyiben a NAKVI a teljesítést 80% vagy azt meghaladónak értékeli a 7. § (2) bekezdésben és a 8. § (1) bekezdésében foglaltak tekintetében. A 80% alatti teljesítés esetén a teljesítésigazolás nem teljesített megjegyzéssel és indokolással kerül kiállításra. Ezzel egyidejűleg a 12. § (1) bekezdésben foglaltakat kell alkalmazni. A teljesítésigazolást minden esetben a (4) bekezdésnek megfelelően kell megküldeni.
 
-[^54]: A 11/B. §-t megelőző alcímet a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
-[^55]: A 11/B. §-t a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
+(4b)[^59] Az ügyfélre vonatkozó szakmai beszámoló százalékban kifejezett teljesítésének értékét a 7. § (2) bekezdésben és a 8. § (1) bekezdésben meghatározott szolgáltatások szerinti közösségi programok összesített darabszáma, valamint a közösségi programok teljesítésének az összesített darabszámhoz viszonyított aránya határozza meg;
+
+(5)[^60] Amennyiben a (4) bekezdésben meghatározott ellenőrzés során megállapítást nyer, hogy a szakmai beszámolókhoz kapcsolódóan jogkövetkezményt kell alkalmazni, akkor valamennyi szakmai beszámolási időszak alkalmával a 12. § (1) bekezdésében meghatározottakat kell alkalmazni.
+
+[^55]: A 11/B. §-t megelőző alcímet a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
+[^56]: A 11/B. §-t a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
+[^57]: A 11/B. § (1) bekezdése a 47/2013. (VI. 7.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^58]: A 11/B. § (4a) bekezdését a 47/2013. (VI. 7.) VM rendelet 3. § (4) bekezdése iktatta be.
+[^59]: A 11/B. § (4b) bekezdését a 47/2013. (VI. 7.) VM rendelet 3. § (4) bekezdése iktatta be.
+[^60]: A 11/B. § (5) bekezdése a 47/2013. (VI. 7.) VM rendelet 3. § (5) bekezdésével megállapított szöveg.

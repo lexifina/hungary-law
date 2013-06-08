@@ -1,12 +1,6 @@
 ## Jogkövetkezmények
 
-12. §[^56] (1) Ha az ügyfél a 7. és 8. § szerinti kötelezettségeinek határidőben és teljeskörűen nem tesz eleget és azt felszólításra sem pótolja, akkor:
-
-a) az első kötelezettségszegés esetén a kötelezettségszegés megállapításáig kifizetett, a beruházási és a működési támogatás időarányos része 3%-ának megfelelő támogatás jogosulatlanul igénybe vett támogatásnak minősül,
-
-b) a második kötelezettségszegés esetén a kötelezettségszegés megállapításáig kifizetett a beruházási és a működési támogatás időarányos része 10%-ának megfelelő támogatás jogosulatlanul igénybe vett támogatásnak minősül,
-
-c) a harmadik és minden további kötelezettségszegés esetén a kötelezettségszegés megállapításáig kifizetett a beruházási és a működési támogatás időarányos része 20%-ának megfelelő támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+12. §[^61] (1)[^62] Ha az ügyfél a 7. és 8. § szerinti kötelezettségeinek határidőben nem tesz eleget, továbbá pótolható mulasztás esetén a kötelezettségét felszólításra sem teljesíti, akkor kötelezettségszegés esetén a kötelezettségszegés megállapításáig kifizetett, a beruházási és – amennyiben IKSZT működtetésre vonatkozóan is támogatással rendelkezik – a működési támogatás időarányos része 3%-ának megfelelő támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
 (2) Ha az ügyfél az üzemeltetési időszak alatt nem teljesíti a 7. és 8. § szerinti kötelezettségét, akkor az IKSZT címe felfüggesztésre kerül.
 
@@ -16,4 +10,5 @@ c) a harmadik és minden további kötelezettségszegés esetén a kötelezetts�
 
 (5) Az IKSZT cím felfüggesztéséről és visszavonásáról az MVH javaslatára az IH dönt.
 
-[^56]: A 12. § a 84/2012. (VIII. 2.) VM rendelet 8. §-ával megállapított szöveg.
+[^61]: A 12. § a 84/2012. (VIII. 2.) VM rendelet 8. §-ával megállapított szöveg.
+[^62]: A 12. § (1) bekezdése a 47/2013. (VI. 7.) VM rendelet 3. § (6) bekezdésével megállapított szöveg.

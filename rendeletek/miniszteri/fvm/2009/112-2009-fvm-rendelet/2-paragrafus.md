@@ -36,7 +36,7 @@ o)[^7] ifjúsági információs pont szolgáltatás: olyan alapellátás jelleg�
 
 p)[^8] IKSZT szolgáltatási- és programterv: az IKSZT kötelező és vállalt szolgáltatásainak igényfelmérésen alapuló naptári félévre meghatározott ütemezési terve, amely tartalmazza a szolgáltatásokhoz kötődő közösségi programok összességét, segíti azok megvalósítását, s alapját képezi a működéssel kapcsolatos ellenőrzéseknek;
 
-q)[^9] IKSZT szolgáltatás-tervezési felület: a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által üzemeltetett, az IKSZT címbirtokos szervezet IKSZT szolgáltatási- és programtervének elkészítésére, feltöltésére, ellenőrzésére alkalmas online felület, amely egyben elsődleges kommunikációs csatorna az IH, a NAKVI és az IKSZT címbirtokosok között;
+q)[^9] IKSZT szolgáltatás-tervezési és beszámolási felület: a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által üzemeltetett, az IKSZT címbirtokos szervezet IKSZT szolgáltatási- és programtervének elkészítésére, feltöltésére, ellenőrzésére alkalmas online felület, amely egyben elsődleges kommunikációs csatorna az IH, a NAKVI és az IKSZT címbirtokosok között;
 
 r)[^10] szakmai beszámoló: az ügyfél által az üzemeltetési kötelezettség ideje alatt az IKSZT szolgáltatási- és programterv alapján megvalósított tevékenységéről a NAKVI részére a szakmai beszámolási időszakra vonatkozóan negyedévenként elkészített és elektronikus úton benyújtott beszámoló;
 
@@ -54,7 +54,7 @@ t)[^12] teljesítésigazolás: a NAKVI által kiállított, a szakmai beszámol�
 [^6]: A 2. § (1) bekezdés n) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^7]: A 2. § (1) bekezdés o) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^8]: A 2. § (1) bekezdés p) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdés q) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés q) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdés r) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^11]: A 2. § (1) bekezdés s) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^12]: A 2. § (1) bekezdés t) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.

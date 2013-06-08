@@ -1,7 +1,7 @@
-## 13/A. §[^57] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 11/A. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^58] folyamatban lévő azon ügyekben kell alkalmazni, amelyekben a támogatási kérelmet 2009. október 15. napjáig nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^59] a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
+## 13/A. §[^63] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 11/A. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^64] folyamatban lévő azon ügyekben kell alkalmazni, amelyekben a támogatási kérelmet 2009. október 15. napjáig nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^65] a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^57]: A 13/A. §-t a 76/2012. (VII. 27.) VM rendelet 20. §-a iktatta be.
-[^58]: A hatálybalépés időpontja 2012. július 28.
-[^59]: A hatálybalépés időpontja 2012. július 28.
+[^63]: A 13/A. §-t a 76/2012. (VII. 27.) VM rendelet 20. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2012. július 28.
+[^65]: A hatálybalépés időpontja 2012. július 28.
