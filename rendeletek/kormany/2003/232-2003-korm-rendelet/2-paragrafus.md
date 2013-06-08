@@ -6,7 +6,7 @@
 
 2. de minimis hitel: olyan kötött segélyhitel, amelynek névértéke 2 millió SDR-nél kisebb, a hitel nem képezi részét kapcsolt finanszírozásnak, és formáját tekintve nem vegyes hitel;
 
-3. forrásszerzési költség: az Eximbank által a két éven túli finanszírozáshoz igénybe vett források az adott devizanemre vonatkozó tárgynegyedévi 6 havi LIBOR átlagával megegyező báziskamatláb feletti felárának és a forrásbevonás során felmerült költségeknek negyedévente, a tárgynegyedévet megelőző hónap 25-ig megállapított százalékos mértéke, ahol az átlagolásnál alkalmazott LIBOR a REUTERS LIBOR01 és a REUTERS FRASETT oldalán naponta megjelenő fixingek átlaga a legközelebbi 1/16-ra felkerekítve;
+3.[^3] forrásszerzési költség: az Eximbank által a két éven túli finanszírozáshoz igénybe vett források USD és GBP devizanemre vonatkozó 6 havi LIBOR (londoni bankközi kamatláb), EUR devizanemre vonatkozó 6 havi EURIBOR (frankfurti bankközi kamatláb) átlagával megegyező báziskamatláb feletti felárának negyedévente, a tárgynegyedévet megelőző hónap 25-éig megállapított százalékos mértéke, ahol az átlagolásnál alkalmazott 6 havi LIBOR a REUTERS LIBOR01 és a REUTERS FRASETT oldalán, a 6 havi EURIBOR az EURIBOR= oldalán naponta megjelenő fixingek átlaga a legközelebbi 1/16-ra felkerekítve;
 
 4. kedvezményezettség mértéke: a segélyhitel névértéke és a hitelfelvevő által a jövőben fizetendő adósságszolgálat diszkontált jelenértéke közötti különbség, a segélyhitel névértékének százalékában kifejezve;
 
@@ -30,3 +30,4 @@
 
 [^1]: Az 1. § a 299/2010. (XII. 23.) Korm. rendelet 14. § (5) bekezdése szerint módosított szöveg.
 [^2]: A 2. § a 299/2010. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 3. pontja a 186/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.

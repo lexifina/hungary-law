@@ -1,4 +1,4 @@
-5. §[^9] (1) Kötött segélyhitel nyújtását a Szakértői Munkacsoport hatásvizsgálattal alátámasztott javaslata alapján a miniszter kezdeményezi.
+5. §[^10] (1) Kötött segélyhitel nyújtását a Szakértői Munkacsoport hatásvizsgálattal alátámasztott javaslata alapján a miniszter kezdeményezi.
 
 (2) Kötött segélyhitel nyújtásában minden, a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) irányadó besorolása szerinti ország részesíthető az OECD által meghatározott korlátozások figyelembevételével.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a kötött segélyhitel felajánlása külföldi versenytárgyaláson történő ajánlattételhez szükséges, a támogatási ígérvény kiadására 20 millió EUR-nak megfelelő projekt összegig a miniszter a Szakértői Munkacsoport hatásvizsgálattal alátámasztott javaslatának figyelembevételével jogosult.
 
-[^9]: Az 5. § a 299/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: Az 5. § a 299/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
