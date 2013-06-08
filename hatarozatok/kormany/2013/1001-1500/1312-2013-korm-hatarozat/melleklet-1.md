@@ -36,6 +36,8 @@
 
 ## Határidő: 2013. június 30.
 
-## 7. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és egyes prioritásai keretének növeléséről szóló 1648/2012. (XII. 19.) Korm. határozat 2., 3., 4., 5., 8. mellékletének az akcióterv 2. prioritására vonatkozó részeit.
+## 7.[^1]
 
 1. melléklet az 1312/2013. (VI. 7.) Korm. határozathoz
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
