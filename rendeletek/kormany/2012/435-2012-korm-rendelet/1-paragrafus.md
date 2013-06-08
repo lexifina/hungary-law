@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1. befektetési hitelgarancia: a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Törvény) szerint exportcélú befektetésnek minősülő ügylethez, külföldiek magyarországi befektetéseihez, külföldön megvalósuló magyar befektetésekhez nyújtott hitelhez vállalt bankgarancia;
+1.[^1] befektetési hitelgarancia: a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Törvény) szerint exportcélú befektetésnek minősülő ügylethez, külföldiek magyarországi beruházásaihoz, külföldön megvalósuló magyar befektetésekhez nyújtott hitelhez vállalt bankgarancia;
 
 2. beszállítói hitelgarancia: a Törvény szerinti beszállítói ügyletnek minősülő ügylet megvalósításához nyújtott hitelhez vállalt bankgarancia;
 
@@ -18,12 +18,16 @@
 
 8. katonai berendezés: az Európai Unió közös katonai listáján található, illetve nemzeti érdekből idesorolt termék vagy szolgáltatás, amennyiben nem minősül a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló 2009. május 5-i 428/2009/EK tanácsi rendelet szerinti kettős felhasználású terméknek, szolgáltatásnak;
 
-9. kereskedelmi garancia: ajánlattételi (tender)-, előleg-visszafizetési-, teljesítési,- jólteljesítési-, szavatossági- vagy visszatartási bankgarancia;
+9.[^2] kereskedelmi garancia: ajánlattételi (tender)-, előleg-visszafizetési-, teljesítési,- jólteljesítési-, szavatossági- vagy visszatartási bankgarancia és az ezekhez kapcsolódó viszontgarancia;
 
-10. rövid lejáratú garancia: a finanszírozó banknak a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet 8. § (1) bekezdése alapján meghatározott legkisebb kamatláb mínusz 2%-on nyújtott refinanszírozási hitelhez a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank) által vállalt garancia;
+10.[^3] rövid lejáratú garancia: a finanszírozó hitelintézetnek a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet 8. § (1) bekezdése alapján meghatározott legkisebb kamatláb mínusz 3,5%-on nyújtott refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank) által vállalt garancia;
 
 11. mezőgazdasági termék: az Európai Unió Működéséről szóló Szerződés I. számú mellékletében felsorolt mezőgazdasági termékek a kezdeti feldolgozási szintig;
 
 12. szállítói hitel: olyan, az Európai Unió tagállamából származó áruk vagy szolgáltatások exportjáról szóló, egy vagy több szállító és egy vagy több vevő közötti kereskedelmi szerződésre vonatkozik, ahol a vevő vállalja, hogy a szállítónak készpénzzel vagy hitelmegállapodás keretében fizet;
 
 13. vevőhitel: olyan kereskedelmi szerződést finanszírozó, egy vagy több pénzügyi intézmény és egy vagy több kölcsönvevő közötti, az Európai Unió egy vagy több tagállamából származó termékek és szolgáltatások exportjáról szóló hitelszerződésre vonatkozik, ahol a hitelintézet vállalja, hogy a szállítónak a kölcsön alapjául szolgáló ügylet alapján készpénzben fizet a vevő vagy kölcsönvevő nevében, míg a vevő vagy kölcsönvevő lejáratkor visszafizetik azt a hitelintézetnek.
+
+[^1]: Az 1. § 1. pontja a 184/2013. (VI. 7.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^2]: Az 1. § 9. pontja a 184/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § 10. pontja a 184/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
