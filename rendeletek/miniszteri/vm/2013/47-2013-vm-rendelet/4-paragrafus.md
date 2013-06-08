@@ -1,0 +1,3 @@
+## „16. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes vidékfejlesztési és egyéb agrártárgyú rendeletek módosításáról szóló 47/2013. (VI. 7.) VM rendelettel [a továbbiakban: módosító rendelet] megállapított 2. § (1) bekezdés q) pontját, 8. § (8) bekezdés a) pontját, 11/B. § (1) bekezdését, 11/B. § (4a) és (4b) bekezdését, 11/B. § (5) bekezdését, és 12. § (1) bekezdését a módosító rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+
+## 4. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet módosítása

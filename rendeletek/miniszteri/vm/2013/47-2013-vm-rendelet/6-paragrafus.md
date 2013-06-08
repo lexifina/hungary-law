@@ -1,0 +1,3 @@
+## „31. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes vidékfejlesztési és egyéb agrártárgyú rendeletek módosításáról szóló 47/2013. (VI. 7.) VM rendelet [a továbbiakban: 47/2013. (VI. 7.) VM rendelet] által megállapított 1. § (1) bekezdés p) pontját és 13. § (9)–(10) bekezdését a 47/2013. (VI. 7.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+
+## 6. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termékek értéknöveléséhez a 2012. évben nyújtandó támogatások részletes feltételeiről szóló 49/2012. (V. 22.) VM rendelet módosításáról
