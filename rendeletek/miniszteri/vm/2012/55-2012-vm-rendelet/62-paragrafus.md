@@ -1,5 +1,0 @@
-62. § (1) A 20/07/00/00 Árfolyamkockázat és egyéb EU által nem térített kiadások előirányzat az EMVA-ból, az EMGA-ból és az EHA-ból származó támogatások árfolyamkülönbözeteinek, valamint az EU általi pénzügyi kizárásoknak, továbbá az intervenciós felvásárlásokhoz kapcsolódó járulékos költségeknek az Európai Unió által nem térített részének a KESZ felé történő rendezését szolgálja.
-
-(2) A 82/2007. (IV. 25.) Korm. rendelet alapján az előirányzatból kerül biztosításra az adók módjára behajtandó köztartozások állami adóhatóság általi végrehajtásához kapcsolódó, az adózás rendjéről szóló 2003. évi XCII. törvény 161.§ (5) bekezdése szerint a felmerült végrehajtási költségek azon része, mely a végrehajtás során nem térült meg, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 46. § (7) bekezdése szerinti hitelezői nyilvántartásba vételi díj és a bírósági végrehajtásról szóló 1994. évi LIII. törvény 34.§ (1) bekezdése szerinti végrehajtási költség megelőlegezése.
-
-(3) Az előirányzat pénzügyi, számviteli lebonyolítását a 82/2007. (IV. 25.) Korm. rendelet és a minisztérium-MVH-Kincstár közötti együttműködési megállapodás szabályozza.

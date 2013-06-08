@@ -1,3 +1,0 @@
-4. § (1) A támogatási igények jogszerűségének felülvizsgálata, a költségvetési támogatások folyósítása, a felhasználás ellenőrzése – a 44. § és az 58. §-ban foglalt kivételekkel – az MVH feladata. A költségvetési támogatások felhasználására, ellenőrzésére az MVH által alkalmazott eljárásrend szerint kerül sor.
-
-(2) A fejezeti kezelésű előirányzatok támogatási keretéből a központi költségvetési szervek részére költségvetési támogatás megállapodás vagy feladatterv alapján – az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. §-ában foglaltak szerint – előirányzat-átcsoportosítással, az előző évi kötelezettségvállalással terhelt maradványokból, illetve a fejezeti kezelésű előirányzat tárgyévi többletbevételéből átutalással történhet.

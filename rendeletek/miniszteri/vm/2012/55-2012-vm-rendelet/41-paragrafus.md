@@ -1,7 +1,0 @@
-41. § (1) A 20/03/16/00 Ágazati gazdasági és hivatásrendi kamarák állami feladatainak támogatása előirányzat célja a gazdasági kamarákról szóló 1999. évi CXXI. törvény 9–12. §-ában, valamint a miniszter és a Magyar Agrárkamara között létrejött együttműködési megállapodásban meghatározott feladatok ellátásának biztosítása, továbbá a Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 3. § (1) bekezdés d), g), l), m) pontjában foglalt, valamint a miniszter és a Magyar Állatorvosi Kamara között létrejött megállapodásban meghatározott feladatok és a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 30. § (3) bekezdésében, valamint a miniszter és a Magyar Növényvédő Mérnöki és Növényorvosi Kamara között létrejött megállapodásban foglalt feladatok finanszírozása.
-
-(2) Az együttműködési megállapodás alapján előleg fizethető. A támogatási előlegek átadására ütemezetten, az előlegekkel történő elszámolási kötelezettséggel és az egyes elszámolásokat követően kerül sor.
-
-(3) A Magyar Állatorvosi Kamara és a Magyar Növényvédő Mérnöki és Növényorvosi Kamara esetében a kis összegű támogatásra tekintettel az éves feladatok előfinanszírozására kerül sor.
-
-(4) Az előirányzat felhasználása közvetlenül a támogatott szervezet részére – támogatási szerződés vagy megállapodás keretében történő – fejezeti kifizetéssel valósul meg.
