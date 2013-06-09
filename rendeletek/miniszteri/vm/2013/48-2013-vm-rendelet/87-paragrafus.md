@@ -2,4 +2,6 @@
 
 ## 73. Hatályon kívül helyező rendelkezések
 
-87. § Hatályát veszti a XII. Vidékfejlesztési Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2012. évi felhasználásának szabályairól szóló 55/2012. (VI. 21.) VM rendelet.
+87. §[^1]
+
+[^1]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
