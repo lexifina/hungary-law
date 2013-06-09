@@ -1,3 +1,0 @@
-## 1. § A magyar–szlovák összekötő földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 230/2011. (XI. 8.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2a) A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyek koordinációjára – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. §-ában foglaltak szerinti – feladat- és hatáskörrel rendelkező kormánymegbízottként a Pest Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.”
