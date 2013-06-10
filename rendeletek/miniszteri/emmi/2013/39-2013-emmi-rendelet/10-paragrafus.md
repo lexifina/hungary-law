@@ -1,0 +1,1 @@
+## 9. § A kistelepülési önkormányzat a települési közkönyvtári és iskolai könyvtári feladatokat együttesen ellátó szolgáltató helyre is igénybe veheti a megyei könyvtár által nyújtott KSZR-szolgáltatásokat. Az iskolai könyvtári feladatokhoz igénybe vett szolgáltatásokat és finanszírozásukat a megyei könyvtárral kötött külön megállapodásban kell szabályozni.

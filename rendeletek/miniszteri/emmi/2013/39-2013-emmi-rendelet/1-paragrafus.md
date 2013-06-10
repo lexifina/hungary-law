@@ -1,0 +1,7 @@
+1. § (1) A Könyvtárellátási Szolgáltató Rendszer (a továbbiakban: KSZR) a megyei könyvtár és az illetékességi területén lévő, 5000 főnél kisebb lakosságszámú település (a továbbiakban: kistelepülés) önkormányzata (a továbbiakban: kistelepülési önkormányzat) között kötött megállapodás (a továbbiakban: kistelepülési megállapodás) alapján – a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) 64. § (2) bekezdés b) pontjában foglaltak megvalósítása érdekében – működő szolgáltatási rendszer a nyilvános könyvtári ellátás kötelező települési önkormányzati feladatának biztosításához.
+
+(2) A kistelepülési megállapodás alapján a megyei könyvtár által a nyújtott szolgáltatásokat, valamint a kistelepülési önkormányzat által a Kultv. 64. § (3) bekezdése alapján működtetett könyvtári, információs és közösségi hely elnevezésű könyvtári szolgáltató helyre (a továbbiakban: szolgáltató hely) vonatkozó követelményeket e rendelet állapítja meg.
+
+(3) A megyei könyvtár által a kistelepülési megállapodás alapján nyújtott szolgáltatások fedezetét a központi költségvetésről szóló törvény biztosítja.
+
+(4) A megyei könyvtár szolgáltatásait a megyei könyvtárral kötött külön megállapodás alapján a nemzetiségi könyvtárat fenntartó nemzetiségi önkormányzat is igénybe veheti megfelelő kínálatú és minőségű könyvtári szolgáltatások biztosítására irányuló fenntartói feladatainak ellátásához.
