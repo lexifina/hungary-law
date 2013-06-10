@@ -468,7 +468,7 @@ Horváth Zoltán (Fidesz)[^88]
 
 Rónaszékiné Keresztes Monika (Fidesz)
 
-dr. Stágel Bence (KDNP)[^89]
+Gaal Gergely (KDNP)[^89]
 
 Vincze László (Fidesz)[^90]
 
@@ -1064,7 +1064,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^86]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^87]: A 40/2013. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^88]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^89]: A 91/2010. (X. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^89]: A 46/2013. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^90]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^91]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^92]: A 114/2010. (XI. 18.) OGY határozat 1. pontjával megállapított szöveg.
