@@ -2,4 +2,6 @@
 
 3. § (1) Az e rendelet szerinti veszélyhelyzet elhárításával kapcsolatos kormányzati kommunikációs tevékenységet a belügyminiszter hangolja össze.
 
-(2) A védekezéssel összefüggésben felmerült, indokolt költségeket a Kormány a rendkívüli kormányzati intézkedések cím terhére vagy más módon biztosítja a védekezésben részt vevők részére.
+(2)[^2]
+
+[^2]: A 3. § (2) bekezdését a 191/2013. (VI. 10.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
