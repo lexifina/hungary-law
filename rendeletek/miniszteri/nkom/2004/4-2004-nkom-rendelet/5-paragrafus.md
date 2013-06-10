@@ -8,8 +8,9 @@
 
 (4) Amennyiben a helyi önkormányzat a részére megítélt érdekeltségnövelő támogatáshoz rendelt önrészt csökkenti, abban az esetben csak az önrész eredeti előirányzatának tényleges pénzügyi teljesítése után számított érdekeltségnövelő támogatásra jogosult, a különbözetet köteles a központi költségvetésbe visszautalni. A tárgyévben december 31. előtt visszautalt összeget e rendeletnek megfelelő célra lehet fordítani.
 
-(5) Ha a helyi önkormányzat az érdekeltségnövelő támogatást és az ahhoz kapcsolódó önrészt, részben vagy egészben nem a megjelölt feladatra használta fel, akkor az államháztartásról szóló 1992. évi XXXVIII. törvény 64/B. §-ának (1) és (2) bekezdése szerint köteles eljárni.
+(5)[^4]
 
-(6)[^3] A támogatás felhasználását az államháztartásról szóló 1992. évi XXXVIII. törvényben jelzett szervezeteken túl – szükség esetén – a kultúráért felelős miniszter (a továbbiakban: miniszter) (a továbbiakban: Minisztérium) helyszíni ellenőrzés keretében vizsgálhatja.
+(6)[^5] A kultúráért felelős miniszter (a továbbiakban: miniszter) a szakmai megvalósulást folyamatosan ellenőrizheti és vizsgálhatja a támogatás e rendeletben meghatározott célra történő felhasználását.
 
-[^3]: Az 5. § (6) bekezdése a 32/2011. (VI. 20.) NEFMI rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^4]: Az 5. § (5) bekezdését a 40/2013. (VI. 7.) EMMI rendelet 13. § (6) bekezdése hatályon kívül helyezte.
+[^5]: Az 5. § (6) bekezdése a 40/2013. (VI. 7.) EMMI rendelet 13. § (2) bekezdésével megállapított szöveg.

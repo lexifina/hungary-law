@@ -1,8 +1,8 @@
-## 11. §[^13] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+## 11. §[^16] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-12. §[^14] E rendelet alapján kizárólag az Európai Bizottság N 357/2007. számú, a miniszter által vezetett minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
+12. §[^17] E rendelet alapján kizárólag az Európai Bizottság SA.34770 (2012/N-2). számú, a miniszter által vezetett minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
 
-Melléklet a 4/2004. (II. 20.) NKÖM rendelethez[^15]
+Melléklet a 4/2004. (II. 20.) NKÖM rendelethez[^18]
 
 Kérelem közművelődési intézmény, közösségi színtér technikai, műszaki eszközállományának,
 
@@ -58,6 +58,6 @@ A melléklethez az alábbi dokumentumokat kell csatolni:
 
 – a közművelődési intézmény alapítása, a közösségi színtér kijelölése idejének hiteles, igazoló dokumentuma, ha a támogatási igénylés a 10%-os keretre irányul.
 
-[^13]: A 11. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 34. pontja hatályon kívül helyezte.
-[^14]: A 12. §-t a 32/2011. (VI. 20.) NEFMI rendelet 3. §-a iktatta be.
-[^15]: A melléklet a 32/2011. (VI. 20.) NEFMI rendelet 6. §-a szerint módosított szöveg.
+[^16]: A 11. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 34. pontja hatályon kívül helyezte.
+[^17]: A 12. §-t a 32/2011. (VI. 20.) NEFMI rendelet 3. §-a iktatta be, szövege a 40/2013. (VI. 7.) EMMI rendelet 13. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A melléklet a 32/2011. (VI. 20.) NEFMI rendelet 6. §-a szerint módosított szöveg.
