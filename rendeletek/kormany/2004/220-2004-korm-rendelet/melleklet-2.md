@@ -254,7 +254,7 @@
 
 ## vi A fluorantin egyéb, veszélyesebb poliaromás szénhidrogének képviselőjeként szerepel a jegyzékben.
 
-2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^153]
+2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^156]
 
 ## 2/I. A csatornabírság és a vízszennyezési bírság számítása
 
@@ -740,4 +740,4 @@ A vízvédelmi bírság mértéke, ha a kibocsátó
 
 | j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
 
-[^153]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja szerint módosított szöveg.
+[^156]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja szerint módosított szöveg.

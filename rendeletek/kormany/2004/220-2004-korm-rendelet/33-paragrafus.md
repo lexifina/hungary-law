@@ -6,9 +6,9 @@
 
 (2) A csatornabírságot, illetve vízszennyezési bírságot önellenőrzésre nem kötelezett kibocsátóknál a helyszíni ellenőrzés alapján, önellenőrzésre kötelezetteknél, ha a felügyelőség, illetve a szolgáltató az önellenőrzés megfelelőségét elfogadta, az önellenőrzési adatok alapján kell megállapítani. Az önellenőrzés meg nem felelése esetén a bírságot a helyszíni ellenőrzés alapján kell megállapítani.
 
-(3)[^85] Nem szennyvízzel felszíni vízbe vagy közcsatornába – az engedélyezett minőségben és módon ürített nem közművel összegyűjtött háztartási szennyvíz kivételével – bebocsátott szennyező anyag esetén a bírságot annak teljes mennyisége után kell megállapítani.
+(3)[^87] Nem szennyvízzel felszíni vízbe vagy közcsatornába – az engedélyezett minőségben és módon ürített nem közművel összegyűjtött háztartási szennyvíz kivételével – bebocsátott szennyező anyag esetén a bírságot annak teljes mennyisége után kell megállapítani.
 
-(4) A 32.[^86] § (3) bekezdésében meghatározott esetben a közcsatornában (szennyvíztisztító telepen) kárelhárítási gyakorlattal okozott kár megtérítését a szolgáltató külön igényelheti.
+(4) A 32.[^88] § (3) bekezdésében meghatározott esetben a közcsatornában (szennyvíztisztító telepen) kárelhárítási gyakorlattal okozott kár megtérítését a szolgáltató külön igényelheti.
 
-[^85]: A 33. § (3) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^86]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
+[^87]: A 33. § (3) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^88]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
