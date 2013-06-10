@@ -1,0 +1,3 @@
+## 6. § A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet [a továbbiakban: 147/2010. (IV. 29.) Korm. rendelet] 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A kizárólag energetikai célra kitermelt felszín alatti vizet a hasznosítást követően ugyanazon vízadóba lehet visszatáplálni. A visszatáplálással engedélyezett vízhasznosítást a hasznosításból kikerülő termálvíznek a visszatáplálástól eltérő ártalommentes elvezetésével, elhelyezésével is folytatni lehet.”
