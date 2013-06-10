@@ -16,7 +16,7 @@ e) a vízhiánytűrés mértékét.
 
 (2) A kizárólag energetikai kitermelési célú vízilétesítményeket úgy kell tervezni, telepíteni, kialakítani és üzemeltetni, hogy hatásuk ne érintse károsan a források és a karsztforrások hozamát és hőmérsékletét.
 
-(3) A energetikai célra kitermelt felszín alatti vizet a hasznosítást követően ugyanazon vízadóba kell visszatáplálni. A visszatáplálással működő vízhasznosítást csak a visszatáplálás fenntartásával lehet folytatni.
+(3)[^5] A kizárólag energetikai célra kitermelt felszín alatti vizet a hasznosítást követően ugyanazon vízadóba lehet visszatáplálni. A visszatáplálással engedélyezett vízhasznosítást a hasznosításból kikerülő termálvíznek a visszatáplálástól eltérő ártalommentes elvezetésével, elhelyezésével is folytatni lehet.
 
 (4) A vízveszteség, amely az energetikai célra kitermelt felszín alatti víz hitelesített vízmérővel mért, kivett és a visszatáplált mennyiségének különbözete, nem haladhatja meg a kutak karbantartásához feltétlenül szükséges – vízjogi üzemeltetési engedélyben meghatározott – technológiai vízmennyiséget, figyelemmel a vízmérők mérési hibájára is.
 
@@ -31,3 +31,5 @@ c) a befogadóba történő bevezetés módját,
 d) a szennyvíztisztítás módját, valamint
 
 e) műszaki-gazdasági számítások alapján a legkisebb környezeti terheléssel járó megoldásokat.
+
+[^5]: A 10. § (3) bekezdése a 182/2013. (VI. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
