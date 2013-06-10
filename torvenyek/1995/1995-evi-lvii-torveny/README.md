@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-57-00-00
 | 2012-07-28 | 2012. évi CV. törvény | 1995-57-00-00.33 |
 | 2013-01-01 | 2012. évi CLXXXV. törvény | 1995-57-00-00.34 |
 | 2013-02-01 | 2012. évi CCXIII. törvény | 1995-57-00-00.35 |
+| 2013-06-10 | 2013. évi LXXIII. törvény | 1995-57-00-00.36 |
