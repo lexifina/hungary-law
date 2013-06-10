@@ -22,13 +22,13 @@
 
 | ...................................................................................... | .................................................................. |
 
-4. melléklet a 13/2013. (II. 14.) EMMI rendelethez
+4. melléklet a 13/2013. (II. 14.) EMMI rendelethez[^2]
 
 A megyei könyvtár kistelepülési kiegészítő támogatásának számítása
 
 T1=T2*0,8
 
-T2=1 700 000/(K1*0,6+K2+K3*1,2)
+T2=1 700 000/(K1*0,8+K2+K3*1,2)
 
 T3=T2*1,2
 
@@ -45,3 +45,5 @@ K1 a megállapodást kötött, 1000 fő lakosságszámú és az alatti települ�
 K2 a megállapodást kötött, 1001–1500 fő lakosságszám közötti települések száma,
 
 K3 a megállapodást kötött, 1501–5000 fő lakosságszám közötti települések száma.
+
+[^2]: A 4. melléklet a 40/2013. (VI. 7.) EMMI rendelet 14. §-a szerint módosított szöveg.
