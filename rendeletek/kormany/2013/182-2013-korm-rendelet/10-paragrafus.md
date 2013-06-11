@@ -1,3 +1,5 @@
-## 9. § Hatályát veszti a 147/2010. (IV. 29.) Korm. rendelet 78. § (4a), (5) és (6) bekezdése.
+## 6–9. §[^3]
 
 ## 3. Az egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 156/2012. (VII. 13.) Korm. rendelet módosítása
+
+[^3]: A 6–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
