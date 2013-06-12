@@ -1,12 +1,12 @@
 ## Eb okozta fizikai sérülés, illetve ennek veszélye keletkezésekor felmerülő hatósági feladatok,
 
-## valamint a veszélyes eb tartása és a tartás engedélyezése[^56]
+## valamint a veszélyes eb tartása és a tartás engedélyezése[^57]
 
-17/C. §[^57] (1)[^58] Amennyiben a települési, fővárosban a kerületi önkormányzat jegyzője arról értesül, hogy eb a 4. számú melléklet szerinti sérülést okozott, arról köteles írásban értesíteni a sérülés keletkezésének helye szerint illetékes járási állat-egészségügyi hivatalt.
+17/C. §[^58] (1)[^59] Amennyiben a települési, fővárosban a kerületi önkormányzat jegyzője arról értesül, hogy eb a 4. számú melléklet szerinti sérülést okozott, arról köteles írásban értesíteni a sérülés keletkezésének helye szerint illetékes járási állat-egészségügyi hivatalt.
 
-(2)[^59] Eb okozta sérülés esetén a járási állat-egészségügyi hivatal a (3) és (4) bekezdések szerinti jogkövetkezményeket alkalmazhatja a 4. számú melléklet alapján.
+(2)[^60] Eb okozta sérülés esetén a járási állat-egészségügyi hivatal a (3) és (4) bekezdések szerinti jogkövetkezményeket alkalmazhatja a 4. számú melléklet alapján.
 
-(3)[^60] A járási állat-egészségügyi hivatal az ebtartót
+(3)[^61] A járási állat-egészségügyi hivatal az ebtartót
 
 a) írásos figyelmeztetésben részesítheti,
 
@@ -16,7 +16,7 @@ c) az eb tartási körülményeinek megváltoztatására és szigorúbb tartási
 
 d) az ebek viselkedésének megítélésében jártas szakértővel egyeztetett képzés elvégzésére kötelezheti.
 
-(4)[^61] A járási állat-egészségügyi hivatal
+(4)[^62] A járási állat-egészségügyi hivatal
 
 a) elrendelheti az eb ivartalanítását,
 
@@ -28,7 +28,7 @@ c) elrendelheti az eb életének kioltását, az Ávtv. 24/C. § szerinti esetek
 
 (6) Amennyiben ebek falkában okoznak sérülést, a falka összes tagja tekintetében jogkövetkezményeket kell megállapítani és alkalmazni.
 
-(7)[^62] Amennyiben az eb ismételten nyolc napon túl gyógyuló, vagy annál súlyosabb sérülést okozott embernek, a sérülés keletkezésének vizsgálatába minden esetben be kell vonni az ebek viselkedésének megítélésében jártas szakértőt, és a járási állat-egészségügyi hivatal a (3) bekezdés b), c), d) pontja és a (4) bekezdés a), b) vagy c) pontja szerinti jogkövetkezménnyel élhet.
+(7)[^63] Amennyiben az eb ismételten nyolc napon túl gyógyuló, vagy annál súlyosabb sérülést okozott embernek, a sérülés keletkezésének vizsgálatába minden esetben be kell vonni az ebek viselkedésének megítélésében jártas szakértőt, és a járási állat-egészségügyi hivatal a (3) bekezdés b), c), d) pontja és a (4) bekezdés a), b) vagy c) pontja szerinti jogkövetkezménnyel élhet.
 
 (8) E § rendelkezései nem vonatkoznak
 
@@ -38,10 +38,10 @@ b) a magántulajdon védelmére irányuló hivatásos őrző-védő feladatot el
 
 c) a vadászat során a vadnak sérülést okozó vadászebekre.
 
-[^56]: A 17/C. §-t megelőző alcímet a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^57]: A 17/C. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^58]: A 17/C. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
-[^59]: A 17/C. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
-[^60]: A 17/C. § (3) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
-[^61]: A 17/C. § (4) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
-[^62]: A 17/C. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^57]: A 17/C. §-t megelőző alcímet a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^58]: A 17/C. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^59]: A 17/C. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
+[^60]: A 17/C. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^61]: A 17/C. § (3) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^62]: A 17/C. § (4) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^63]: A 17/C. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.

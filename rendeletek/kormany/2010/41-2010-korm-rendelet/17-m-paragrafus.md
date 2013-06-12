@@ -1,4 +1,4 @@
-17/M. §[^82] (1) Az ebek viselkedésének megítélésével kapcsolatos szakértői tevékenységet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) kérelemre engedélyezheti.
+17/M. §[^83] (1) Az ebek viselkedésének megítélésével kapcsolatos szakértői tevékenységet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) kérelemre engedélyezheti.
 
 (2) Engedélyt az kaphat, aki
 
@@ -20,7 +20,7 @@ b) a szakmai gyakorlati idő meglétét igazoló iratot,
 
 c) a szakmai működés részletes leírását tartalmazó iratot.
 
-(5)[^83] Az engedélyezésre, illetve az engedély visszavonására irányuló eljárás során a NÉBIH kikéri az Országos Állatvédelmi és Állatjóléti Tanács és a Magyar Állatorvosi Kamara véleményét.
+(5)[^84] Az engedélyezésre, illetve az engedély visszavonására irányuló eljárás során a NÉBIH kikéri az Országos Állatvédelmi és Állatjóléti Tanács és a Magyar Állatorvosi Kamara véleményét.
 
-[^82]: A 17/M. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^83]: A 17/M. § (5) bekezdése a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^83]: A 17/M. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^84]: A 17/M. § (5) bekezdése a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés d) pontja szerint módosított szöveg.

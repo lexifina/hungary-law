@@ -1,1 +1,3 @@
-## „d) élő állat, növényi szaporítóanyag,”
+## 21. §[^88]
+
+[^88]: A 21. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.

@@ -1,1 +1,3 @@
-## 23. § Hatályát veszti a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 3. §-ának (2) bekezdésében a „ – ha a külön engedély iránti kérelem a 3. mellékletben meghatározott termékre vonatkozik, e termék tekintetében a működési engedélyről szóló jogerős határozatával együtt – ” szövegrész, és az 5. mellékletének 13. pontjában „a szeszesital kivételével” szövegrész, továbbá a vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet 5. §-ának (1) bekezdésében az „– az (1) bekezdésben meghatározott termékek kivételével – ” szövegrész.
+## 23. §[^90]
+
+[^90]: A 23. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.

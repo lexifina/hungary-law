@@ -1,1 +1,3 @@
-## 22. § A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 10. §-ának (5) bekezdésében a „2. melléklet” szövegrész helyébe a „4. melléklet” szöveg lép.”
+## 22. §[^89]
+
+[^89]: A 22. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.
