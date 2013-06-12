@@ -1,1 +1,0 @@
-A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 39/A. §-ának (7) bekezdésében, továbbá a 39/C. §-ának (4) bekezdésében foglalt felhatalmazás alapján – a Munkaerőpiaci Alap Irányító Testülete véleményének meghallgatásával – a következőket rendelem el:

@@ -1,1 +1,0 @@
-## Házipénztár kezelése

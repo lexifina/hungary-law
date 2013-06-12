@@ -1,1 +1,0 @@
-## Előirányzat-maradvány elszámolása
