@@ -1,0 +1,1 @@
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésére figyelemmel beruházási célterületté nyilvánítja az Erdőtelek község külterületén fekvő, az ingatlan-nyilvántartás szerint 0311/9 helyrajzi számú földrészletet.
