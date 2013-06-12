@@ -1,6 +1,6 @@
-## 58–61. §[^1]
+## 58–61. §[^2]
 
-1. melléklet a 40/2013. (II. 14.) Korm. rendelethez
+1. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^3]
 
 ## Kísérleti állatot tenyésztő, beszállító és felhasználó működési engedély iránti kérelem tartalmi elemei
 
@@ -32,12 +32,13 @@
 
 7.3. A 29. § (2) és (3) bekezdés alapján a 3. mellékletben foglalt elhelyezési és gondozási előírások alkalmazása alól tudományos, állatjóléti vagy állategészségügyi okból az előírás megnevezésével és a mentesítés indoklásával;
 
-7.4. Az állat leölésére a 4. mellékletben felsorolt módszerektől eltérő módszerrel a 14. § (6) bekezdés a) pontjában szereplő indokok alapján.
+7.4. Az állat leölésére a 4. mellékletben felsorolt módszerektől eltérő módszerrel a 14. § (5) bekezdés a) pontjában szereplő indokok alapján.
 
 8. A kérelem kelte
 
 9. A kérelmező aláírása
 
-10. Felhívjuk a kérelmező figyelmét arra, hogy a 40/2013. (II. 14.) Korm. rendelet 16. § (3) bekezdése értelmében az engedélyt meg kell újítani a tenyésztő, beszállító vagy felhasználó valamely létesítményének szerkezetében vagy funkciójában bekövetkezett minden olyan jelentős változás esetén, amely az állatok jólétét hátrányosan érintheti, továbbá a 16. § (4) bekezdése értelmében az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot értesíteni kell a 4., 5., 6.2. és 6.3. pontban megnevezett személyekben beállt változásról, a változást követően 30 napon belül.
+10. Felhívjuk a kérelmező figyelmét arra, hogy a 40/2013. (II. 14.) Korm. rendelet 16. § (3) bekezdése értelmében az engedély módosítását kell kérni a tenyésztő, beszállító vagy felhasználó valamely létesítményének szerkezetében vagy funkciójában bekövetkezett minden olyan jelentős változás esetén, amely az állatok jólétét hátrányosan érintheti, továbbá a 16. § (4) bekezdése értelmében az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot értesíteni kell a 4., 5., 6.2. és 6.3. pontban megnevezett személyekben beállt változásról, a változást követően 30 napon belül.
 
-[^1]: Az 58–61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 58–61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 189/2013. (VI. 7.) Korm. rendelet 9. § b) és c) pontja szerint módosított szöveg.

@@ -92,19 +92,19 @@
 
 ## 10. Mentességi kérelmek felsorolása a megfelelő indoklással ellátva:
 
-## a) a 3. § (1) bekezdés aa)–ai) és ak)–al) pontjaiban felsorolt fajok nem kifejezetten kísérleti célra tenyészetett egyedeinek felhasználására tudományos indokok alapján;
+## a) a 3. § (1) bekezdés a)–i) és k)–l) pontjaiban felsorolt fajok nem kifejezetten kísérleti célra tenyészetett egyedeinek felhasználására tudományos indokok alapján;
 
 ## b) háziasított fajok gazdátlan vagy elvadult egyedének kísérletben való felhasználására az 5. § a), illetve b) pontjában szereplő indokok alapján;
 
-## c) vadon élő vagy vadon befogott állat felhasználására tudományos indokok alapján a 7. § (1) és (3) bekezdésének feltételei szerint;
+## c) vadon élő vagy vadon befogott állat felhasználására tudományos indokok alapján a 7. § (1) és (4) bekezdésének feltételei szerint;
 
-## d) vadon befogott sérült vagy rossz egészségi állapotú állat szenvedésének minimalizálására irányuló intézkedések alól tudományos indokok alapján;
+## d) vadon befogott sérült vagy rossz egészségi állapotú állat szenvedésének minimalizálására irányuló intézkedések alól tudományos indokok alapján a 7. § (3) bekezdése szerint;
 
 ## e) kísérlet felhasználó létesítményen kívül történő elvégzésére tudományos, állatjóléti vagy állategészségügyi indokok alapján;
 
 ## f) súlyos besorolású kísérletben felhasznált állat ismételt felhasználására rendkívüli körülmények esetén;
 
-## g) az állat leölésére a 4. mellékletben felsorolt módszerektől eltérő módszerrel a 14. § (6) bekezdés a) és b) pontjában szereplő indokok alapján;
+## g) az állat leölésére a 4. mellékletben felsorolt módszerektől eltérő módszerrel a 14. § (5) bekezdés a) és b) pontjában szereplő indokok alapján;
 
 ## h) az állatok tartására (elhelyezésére és gondozására) vonatkozó, a 24–27. §-okban foglalt előírások alkalmazása alól tudományos, állatjóléti vagy állategészségügyi okból;
 
@@ -162,7 +162,7 @@
 
 ## 5. Felhívjuk a kérelmező figyelmét arra, hogy a 40/2013. (II. 14.) Korm. rendelet 47. § (7) bekezdése értelmében a projektengedély módosítását vagy megújítását kell kérelmezni a projektben bekövetkező, az állatok jólétét esetlegesen hátrányosan érintő bármely változás esetén.
 
-3. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^2]
+3. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^5]
 
 ## A létesítményekre, valamint az állatok gondozására és elhelyezésére vonatkozó követelmények, a követelmények állatfajok szerinti lebontása
 
@@ -230,4 +230,4 @@ Makákók (*)
 
 11.
 
-[^2]: A 3. melléklet 1–5. és 7–11. pontja az 52. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^5]: A 3. melléklet 1–5. és 7–11. pontja az 52. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
