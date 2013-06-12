@@ -34,11 +34,11 @@ ad)[^7] évente 250 000 egyed baromfinál;
 
 b) elvégzi a húsvizsgálatot és kiállítja a hússzállítási igazolást a kistermelőknél.
 
-(5) Ha a jogosult állatorvos a (4) bekezdésben meghatározott hatáskörében eljárva úgy ítéli meg, hogy a megvizsgált hús emberi fogyasztásra
+(5)[^8] Ha a jogosult állatorvos a (4) bekezdésben meghatározott hatáskörében eljárva úgy ítéli meg, hogy a megvizsgált hús emberi fogyasztásra
 
-a) alkalmas, elvégzi a 854/2004/EK rendelet 5. cikkének 2. pontja szerinti jelölést a hatósági állatorvos felügyelete és felelőssége alatt;
+a) alkalmas, elvégzi a 854/2004/EK rendelet 5. cikkének 2. pontja szerinti jelölést;
 
-b)[^8] nem alkalmas, javaslatot tesz a hatósági állatorvosnak az emberi fogyasztásra való alkalmatlanság megállapítására.
+b) nem alkalmas, megállapítja az emberi fogyasztásra való alkalmatlanságot.
 
 (6)[^9] A (4) bekezdésben meghatározott hatáskörében nem járhat el az a jogosult állatorvos, aki az adott állatállomány, illetőleg ügyfél vonatkozásában szolgáltató állatorvosi tevékenységet végez, illetve aki az adott állatok vonatkozásában a vágóhídra történő szállításhoz szükséges okiratot kiállította.
 
@@ -51,6 +51,6 @@ b)[^8] nem alkalmas, javaslatot tesz a hatósági állatorvosnak az emberi fogya
 [^5]: Az 1. § (3a) bekezdését a 369/2012. (XII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^6]: Az 1. § (4) bekezdés a) pont nyitó szövegrésze a 369/2012. (XII. 17.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (4) bekezdés a) pont ad) alpontja a 369/2012. (XII. 17.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^8]: Az 1. § (5) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 465. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: Az 1. § (5) bekezdése a 189/2013. (VI. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^9]: Az 1. § (6) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
 [^10]: Az 1. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 466. §-a, a 369/2012. (XII. 17.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
