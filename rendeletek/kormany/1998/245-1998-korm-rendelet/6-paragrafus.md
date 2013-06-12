@@ -4,9 +4,9 @@
 
 ## 6. § A jegyző az önkormányzat illetékességi területén tartott veszélyes állatokról nyilvántartást vezet, amely a következő adatokat tartalmazza:
 
-a)[^6] az Átv. 20. § (8) bekezdése szerinti adatokat,
+a)[^7] az Átv. 20. § (8) bekezdése szerinti adatokat,
 
-b)[^7]
+b)[^8]
 
 c) az állat faját, fajtáját, esetleges egyedi azonosításra szolgáló adatait,
 
@@ -16,5 +16,5 @@ e) az állattartásra vonatkozó hatósági határozatok számát, kibocsátój�
 
 f) a veszélyes állat országba való behozatala esetén az állat származási (előző tartásának) helyét.
 
-[^6]: A 6. § a) pontja a 182/2009. (IX. 10.) Korm. rendelet 157. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A 6. § b) pontját a 182/2009. (IX. 10.) Korm. rendelet 158. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 6. § a) pontja a 182/2009. (IX. 10.) Korm. rendelet 157. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 6. § b) pontját a 182/2009. (IX. 10.) Korm. rendelet 158. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
