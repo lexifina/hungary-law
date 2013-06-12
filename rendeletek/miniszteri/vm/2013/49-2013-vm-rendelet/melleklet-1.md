@@ -1,94 +1,6 @@
 1. melléklet a 49/2013. (VI. 10.) VM rendelethez
 
-1. Az R. 1. melléklete 14. pont 14.1., 14.2., és 14.10. alpontja helyébe a következő rendelkezések lépnek:
-
-„14.1. Budakeszi Járási Hivatal Budakörnyéki Járási Földhivatala (székhelye: Budapest)
-
-Biatorbágy
-
-Budajenő
-
-Budakeszi
-
-Budaörs
-
-Herceghalom
-
-Nagykovácsi
-
-Páty
-
-Perbál
-
-Pilisborosjenő
-
-Piliscsaba
-
-Pilisjászfalu
-
-Pilisszántó
-
-Pilisszentiván
-
-Pilisvörösvár
-
-Remeteszőlős
-
-Solymár
-
-Telki
-
-Tinnye
-
-Tök
-
-Üröm
-
-Zsámbék
-
-14.2. Érdi Járási Hivatal Járási Földhivatala (székhelye: Érd)
-
-Diósd
-
-Érd
-
-Pusztazámor
-
-Sóskút
-
-Százhalombatta
-
-Tárnok
-
-Törökbálint
-
-14.10. Szentendrei Járási Hivatal Járási Földhivatala (székhelye: Szentendre)
-
-Budakalász
-
-Csobánka
-
-Dunabogdány
-
-Kisoroszi
-
-Leányfalu
-
-Pilisszentkereszt
-
-Pilisszentlászló
-
-Pócsmegyer
-
-Pomáz
-
-Szentendre
-
-Szigetmonostor
-
-Tahitótfalu
-
-Visegrád”
+1.[^3]
 
 2. Az R. 1. melléklete 14. pont 14.6., 14.11–14.12. alpontja helyébe a következő rendelkezések lépnek:
 
@@ -1011,3 +923,5 @@ Tiszavasvári
 Újfehértó
 
 Vasmegyer”
+
+[^3]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
