@@ -1,0 +1,1 @@
+## 3. § A munkaügyi központ vezetője határozza meg a megyei NFA keret azon részét, amely felett a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási munkaügyi kirendeltsége (a továbbiakban: kirendeltség) az Ávr. 9. § (8) bekezdése szerint rendelkezik.
