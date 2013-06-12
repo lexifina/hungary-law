@@ -1,9 +1,11 @@
-6. § (1)[^21] A Földművelésügyi Igazgatóság az 5. § szerinti törlésről szóló határozatát közli a földhivatallal is.
+6. §[^25] (1) A Mezőgazdasági és Vidékfejlesztési Hivatal megkeresésére a NÉBIH a nyilvántartásba vett családi gazdaság adatairól – nyilvántartásba vétel, illetve törlés időpontjáról, a családi gazdálkodó, illetve a családtagok azonosító adatairól, illetve a 3. § szerinti szerződésben szereplő, a családi gazdaság részére átadott, jogszerűen használt termőföldterületek adatairól – adatot szolgáltat.
 
-(2)[^22] A Földművelésügyi Igazgatóság a családi gazdaság nyilvántartásba vételéről, törléséről, valamint a tagok személyében bekövetkezett változásokról szóló jogerős határozatot közli a Nemzeti Adó- és Vámhivatallal (a továbbiakban: adóhatóság) is.
+(2) A NÉBIH a családi gazdaság nyilvántartásba vételéről, törléséről, valamint a tagok személyében bekövetkezett változásokról szóló jogerős határozat adatait közli a Nemzeti Adó- és Vámhivatallal (a továbbiakban: adóhatóság) is.
 
-(3)[^23] A Földművelésügyi Igazgatóság a nyilvántartásában szereplő családi gazdaságokról negyedévente adatot szolgáltat a Nemzeti Élelmiszerlánc-biztonsági Hivatal részére.
+(3) A Földművelésügyi Igazgatóság a nyilvántartásában szereplő családi gazdaságokról adatot szolgáltat a NÉBIH részére.
 
-[^21]: A 6. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 265. §-a, a 351/2010. (XII. 30.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
-[^22]: A 6. § (2) bekezdése a 193/2002. (IX. 6.) Korm. rendelet 3. §-ával megállapított, a 182/2009. (IX. 10.) Korm. rendelet 265. §-a, a 351/2010. (XII. 30.) Korm. rendelet 93. § b) pontja, a 34/2011. (III. 17.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^23]: A 6. § (3) bekezdését az 51/2013. (II. 25.) Korm. rendelet 6. §-a iktatta be.
+(4) A NÉBIH a családi gazdálkodó és a családi gazdaság tagjai földhasználatának jogszerűségét a földhasználati nyilvántartásban szereplő adatok alapján ellenőrizheti.
+
+(5) A Központi Statisztikai Hivatal megkeresésére a Földművelésügyi Igazgatóság a nyilvántartásba vett családi gazdaság adatairól – a nyilvántartásba vétel, illetve törlés időpontjáról, a családi gazdálkodó, illetve a családtagok azonosító adatairól, illetve a családi gazdaság részét képező termőföldek összterületéről – statisztikai célra, egyedi azonosításra alkalmas módon, térítésmentesen adatot szolgáltat.
+
+[^25]: A 6. § a 189/2013. (VI. 7.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
