@@ -1,6 +1,10 @@
-8. § (1)[^16] A Tv. 50. §-ában foglalt eljárás esetén a közérdekű védekezést elrendelő hatóság a földhivatal költségeit az általa megküldött költségelszámolás alapján annak beérkezésétől számított harminc napon belül megtéríti.
+8. § (1)[^19] A Tv. 50. §-ában foglalt eljárás esetén a közérdekű védekezést elrendelő hatóság a földhivatal költségeit az általa megküldött költségelszámolás alapján annak beérkezésétől számított harminc napon belül megtéríti.
 
-(2)[^17] A közérdekű védekezést elrendelő hatóság a földhasználó által részére befizetett, illetve az Adó- és Pénzügyi Ellenőrzési Hivatal által behajtott és részére továbbított összeget – annak beérkezésétől számított nyolc napon belül – a NÉBIH-en keresztül visszatéríti az előirányzatba.
+(2)[^20] A földhasználó által a közérdekű védekezést elrendelő hatóságnak befizetett, illetve az adóhatóság által behajtott és a közérdekű védekezést elrendelő hatóságnak továbbított összeget a beérkezésétől számított nyolc napon belül
 
-[^16]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (107) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^17]: A 8. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (107) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 220. § (6) bekezdése szerint módosított szöveg. Előbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni. A 8. § (2) bekezdése a 23/2012. (II. 29.) Korm. rendelet 36. § (4) bekezdése szerint módosított szöveg.
+a) a jegyző a fővárosi és megyei kormányhivatalon keresztül,
+
+b) a növény- és talajvédelmi igazgatóság által elrendelt közérdekű védekezés esetén a fővárosi és megyei kormányhivatal visszatéríti az előirányzatba.
+
+[^19]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (107) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^20]: A 8. § (2) bekezdése a 189/2013. (VI. 7.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
