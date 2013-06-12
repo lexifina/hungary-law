@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-328-20-
 | 2013-02-26 | 2010-328-20-22.10 | 51/2013. (II. 25.) Korm. rendelet |
 | 2013-03-11 | 2010-328-20-22.11 | 68/2013. (III. 8.) Korm. rendelet |
 | 2013-06-04 | 2010-328-20-22.12 | 24/2012. (II. 29.) Korm. rendelet |
+| 2013-06-12 | 2010-328-20-22.13 | 189/2013. (VI. 7.) Korm. rendelet |
