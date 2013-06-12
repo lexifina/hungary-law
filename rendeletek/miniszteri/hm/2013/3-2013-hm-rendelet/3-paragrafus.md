@@ -1,0 +1,1 @@
+## 2. § E rendelet alkalmazásában kötelezettségvállaló az Ávr. 13. § (3) bekezdése szerinti szabályzatban az előirányzatok terhére fizetési kötelezettség vállalására jogosultként meghatározott személy.
