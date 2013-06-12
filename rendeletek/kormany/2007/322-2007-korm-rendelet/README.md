@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-322-20-
 | 2011-01-01 | 2007-322-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-03-15 | 2007-322-20-22.7 | 351/2010. (XII. 30.) korm. rendelet |
 | 2013-01-01 | 2007-322-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2013-06-12 | 2007-322-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |
