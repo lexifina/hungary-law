@@ -1,0 +1,99 @@
+## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján az Állami Ménesgazdaság Szilvásvárad (a továbbiakban: ÁMGSZ) kiemelt fejlesztés előkészítő szakasz forrásának biztosításához 181,0 millió forint 1. számú melléklet szerinti átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 4. Állami Ménesgazdaság cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére,
+
+## Az átcsoportosítás tekintetében:
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## Az elszámolás és a visszatérítési kötelezettség tekintetében:
+
+## Felelős: vidékfejlesztési miniszter
+
+## Határidő: 2014. április 30.
+
+## 2. felhívja az államháztartásért felelős minisztert, hogy a 2014. évi központi költségvetés tervezése során gondoskodjon az ÁMGSZ fejlesztés befejező szakaszához szükséges 1470,7 millió forint, illetve az előkészítő szakasz eredményeképpen meghatározásra kerülő forrás Vidékfejlesztési Minisztérium fejezetben történő biztosításáról,
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: Magyarország 2014. évi központi költségvetésének tervezése
+
+## 3. felhívja az érintett minisztereket, hogy az ÁMGSZ kiemelt fejlesztésének kivitelezéséhez szükséges földterületek biztosítása érdekében tárgyalásokat kezdeményezzenek az érintett ingatlanok tulajdonosaival és vagyonkezelői jogosultjaival, az Egererdő Zrt. tulajdonában lévő Szilvásvárad 448/4, 455, Szilvásvárad Község Önkormányzata tulajdonában lévő 438/1, 441/3, 447/2, 457/1, 590/1, valamint az ÁMGSZ vagyonkezelésében lévő Szilvásvárad 441/1, 452/2, 453, 454/1, 454/2 helyrajzi számú földrészletek vonatkozásában.
+
+## Egererdő Zrt. tulajdonában lévő földrészletek tekintetében:
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
+## Szilvásvárad Község Önkormányzata és az ÁMGSZ tulajdonában, illetve vagyonkezelésében lévő földrészletek tekintetében:
+
+## Felelős: vidékfejlesztési miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1331/2013. (VI. 13.) Korm. határozathoz
+
+XI. Miniszterelnökség
+
+XII. Vidékfejlesztési Minisztérium
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XII. |  |  |  |  |  |  | Vidékfejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004338 |  | 4 |  |  |  |  |  |  | Állami Ménesgazdaság |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 181,0 |  |  |
+
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 297102 |  | 7 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  | -181,0 |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XII. |  |  |  |  |  |  | Vidékfejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004338 |  | 4 |  |  |  |  |  |  | Állami Ménesgazdaság |  |  |  |  |  |  |  |  |  |  |  | 181,0 |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal | 181,0 |  |  | 181,0 |  |  |
+
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
