@@ -1,0 +1,149 @@
+# A Kormány 199/2013. (VI. 13.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 96. szám, 2013. június 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1bec58c3c345bfceef088b46e2416aa43f20080c/dokumentumok/db3336c20394ede9c3b48fd22f2ef94a3cb7abbb/letoltes)
+
+---
+
+A Kormány 199/2013. (VI. 13.) Korm. rendelete
+a Klebelsberg Intézményfenntartó Központról szóló 202/2012. (VII. 27.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, valamint az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Klebelsberg Intézményfenntartó Központról szóló 202/2012. (VII. 27.) Korm. rendelet (a továbbiakban:
+Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) A Klebelsberg Intézményfenntartó Központ (a továbbiakban: Intézményfenntartó Központ) az oktatásért
+felelős miniszter (a továbbiakban: miniszter) irányítása alatt működő központi hivatal, amely feladatait országos
+illetékességgel látja el.
+(2) Az Intézményfenntartó Központ székhelye: Budapest.
+(3) Az Intézményfenntartó Központ szervezeti és működési szabályzatát a miniszter utasítással adja ki.
+(4) Az Intézményfenntartó Központ a gazdálkodására, személyzeti ügyeire, sajtókapcsolataira vonatkozó
+szabályzatait a miniszter egyetértésével adja ki.”
+2. § (1) A Korm. rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az Intézményfenntartó Központ területi szerve a járási (fővárosi kerületi) tankerület és megyeközponti
+tankerület.”
+(2) A Korm. rendelet 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A megyeközponti tankerület a (6) bekezdésben foglaltakon kívül a szakképző iskolák, a kollégiumok,
+a pedagógiai szakszolgálati feladatokat, valamint a pedagógiai-szakmai szolgáltatásokat ellátó köznevelési
+intézmények, továbbá az ezen feladatokat is ellátó többcélú intézmények fenntartásával kapcsolatosan ellátja
+az Intézményfenntartó Központ szervezeti és működési szabályzatában számára meghatározott egyes fenntartói
+feladatokat.”
+3. § (1) A Korm. rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Elnöknek az nevezhető ki, aki felsőfokú végzettséggel és szakképzettséggel, központi vagy területi
+közigazgatásban szerzett legalább öt éves vezetői gyakorlattal, valamint pedagógus-szakvizsgával vagy
+közigazgatási szakvizsgával vagy jogi szakvizsgával rendelkezik.”
+(2) A Korm. rendelet 4. §-a a következő (3)–(5) bekezdésekkel egészül ki:
+„(3) Az elnököt távolléte vagy akadályoztatása esetén – a feladatkörébe tartozó ügyeknek megfelelően – gazdasági
+elnökhelyettes és szakmai elnökhelyettes helyettesíti.
+(4) Szakmai elnökhelyettesnek az nevezhető ki, aki pedagógus munkakör betöltésére jogosító mester (egyetemi
+szintű) felsőfokú végzettséggel és szakképzettséggel, a központi vagy területi közigazgatásban szerzett legalább
+öt éves vezetői gyakorlattal, valamint pedagógus-szakvizsgával vagy közigazgatási szakvizsgával vagy jogi
+szakvizsgával rendelkezik.
+(5) Az Intézményfenntartó Központ gazdasági elnökhelyettesét a miniszter az elnök javaslatára nevezi ki, illetve
+menti fel.”
+4. § (1) A Korm. rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az elnök – a nemzeti köznevelésről szóló 2011. évi CXC. törvényben (a továbbiakban: Nkt.), a 4. §
+(5) bekezdésben és a (2) bekezdésben meghatározott egyes munkáltatói jogok kivételével – gyakorolja
+az Intézményfenntartó Központban foglalkoztatottak felett a munkáltatói jogokat. A munkáltatói jogok gyakorlását
+az elnök – a kinevezési és felmentési jog kivételével – vezető beosztású kormánytisztviselőre, magasabb vezetői
+megbízással rendelkező közalkalmazottra átruházhatja, továbbá a köznevelési intézmény magasabb vezetői
+megbízással rendelkező közalkalmazottjára az Nkt.-ban foglaltak szerint átruházza.”
+(2) A Korm. rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A tankerületi igazgatót – az elnök és a tankerület székhelye szerint illetékes fővárosi és megyei kormányhivatal
+kormánymegbízottja véleményének kikérésével – a miniszter nevezi ki, illetve menti fel.”
+5. §
+A Korm. rendelet 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) Az Intézményfenntartó Központ a köznevelési közfeladat-ellátásban részt vevő, fenntartásában lévő
+köznevelési intézmények tekintetében
+
+a) ellátja – az Nkt.-ban és az e rendeletben foglaltak kivételével, figyelemmel a b)–i) pontban foglaltakra – az Nkt.
+83. § (2) bekezdésében meghatározott fenntartói feladatokat,
+b) a miniszter számára javaslatot tesz a köznevelési intézmény létesítésére, átszervezésére, megszüntetésére,
+tevékenységi körének módosítására irányuló döntés meghozatalára, közreműködik a döntés előkészítésében,
+a javaslattételt megelőzően beszerzi a jogszabály alapján arra jogosult egyetértését, véleményét,
+c) előkészíti és a miniszternek megküldi a köznevelési intézmény vezetőjének kinevezésére, megbízására és
+megbízásának visszavonására, a tankerületi igazgató kinevezésére, felmentésére vonatkozó munkáltatói intézkedés
+dokumentumait,
+d) érvényesíti és – módszertani segítséget is nyújtva – érvényesítteti a köznevelési intézmények tevékenységében
+az erőforrásokkal, így különösen az Intézményfenntartó Központ költségvetési előirányzatával, engedélyezett
+létszámával és a vagyonkezelésében vagy használatában álló vagyonnal való szabályszerű és hatékony gazdálkodás
+követelményeit,
+e) központosítottan folytatja le a beszerzéseket,
+f) értékeli a köznevelési intézmények szakmai feladatai végrehajtásához szükséges feltételek meglétét, valamint
+szervezi és irányítja azok megteremtését,
+g) közreműködik az alapkészségek, képességek országos mérésének és a nemzetközi köznevelési tárgyú mérések,
+vizsgálatok lebonyolításában,
+h) közreműködik a miniszter által meghirdetett és támogatott országos tanulmányi versenyek szervezésével
+összefüggő feladatokban,
+i) közreműködik a középfokú beiskolázás központi írásbeli felvételi vizsgáinak megszervezésében,
+j) összesíti a köznevelési intézményekre vonatkozó kötelező, rendszeres és ad hoc jellegű adatszolgáltatásokat,
+k) ellátja az Nkt.-ban és más jogszabályokban meghatározott egyéb fenntartói feladatokat,
+l) közreműködik a területi köznevelési feladatellátás megszervezése irányainak meghatározásában.
+(2) Az Intézményfenntartó Központ feladatkörében – a miniszter ágazati irányítási feladataihoz kapcsolódóan –
+a) az irányító szerv utasításainak megfelelően részt vesz az oktatáspolitika kialakításához, az azzal kapcsolatos
+döntések előkészítéséhez szükséges és a költségvetési támogatásból megvalósuló fejlesztések lebonyolításával
+kapcsolatos feladatokban,
+b) javaslatot tesz a miniszternek a tankerületek illetékességi területe módosításának kezdeményezésére,
+közreműködik a miniszteri kezdeményezés előkészítésében,
+c) elemzi az Intézményfenntartó Központ fenntartásában lévő köznevelési intézményben lefolytatott ellenőrzések
+eredményeit, és ennek alapján javaslatot tesz a miniszternek a köznevelés közép- és hosszú távú fejlesztési terveinek
+kidolgozására, módosítására,
+d) a miniszter felkérésére részt vesz a fejlesztési források tervezésében és a támogatások nyújtásával kapcsolatos
+eljárásban,
+e) kapcsolatot tart fenn az egyházi és magánintézményekkel a feladatkörébe tartozó ügyekben és javaslatot tehet
+a miniszternek köznevelési szerződés kötésére,
+f) jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt,
+g) közreműködik valamennyi az Országos Képzési Jegyzékben szereplő szakképesítéssel kapcsolatos szakmai vizsga
+központi írásbeli tételeinek, központi gyakorlati feladatainak, valamint azok megoldásainak szétosztásában,
+h) ellátja a jogszabályban és az Intézményfenntartó Központ alapító okiratában meghatározott további feladatokat.
+(3) Az Intézményfenntartó Központ a fenntartásában lévő szakképző intézmények tekintetében
+a) ellátja a szakképző iskolák működésének országos szakmai koordinációját,
+b) kidolgozza a szakképzéssel kapcsolatos országos feladatellátási koncepciót, fejlesztési tervet, szakmai
+irányelveket és feladatszervezési alapelveket, továbbá elemzéseket készít,
+c) felelős a pályakövetési rendszer működtetéséért,
+d) a szakképzési feladatellátással kapcsolatban meghatározza a hatékonyság növeléséhez szükséges intézkedéseket,
+a hatékonyság mérésére alkalmas eszközrendszert, méri a hatékonysági célok elérését,
+e) ellátja az irányítása alá tartozó szakképző iskolák felnőttképzési tevékenységének országos koordinációs
+feladatait,
+f) meghatározza a felnőttképzési tevékenység céljait,
+g) a Kormány szakmaszerkezeti döntésének előkészítése során elkészíti javaslatát a keretszámoknak a megyén,
+fővároson belüli, fenntartók közötti elosztására az állami szakképzési és felnőttképzési szerv által meghatározottak
+szerint, együttműködve a szakképző iskolai fenntartókkal és a fővárosi és megyei kormányhivatalokkal, figyelembe
+véve a megyei szakképzési tervben, a szakképzési megállapodásokban foglaltakat és a fenntartók szándékát,
+
+h) a Kormány által az adott megyében, a fővárosban az állami intézményfenntartó központra meghatározott
+keretszámokat megosztja a megye, a főváros szakképző iskolái között,
+i) tervet készít a megyei szakképzési kapacitásokra vonatkozóan, amelyet összehangol a nem állami fenntartók által
+ellátott szakképzési feladatokkal.
+(4) Az Intézményfenntartó Központ a szakképzéssel kapcsolatos feladatait a szakképzésért és felnőttképzésért
+felelős miniszterrel együttműködve látja el.
+(5) Az elnök a feladatkörébe tartozó több ágazatot érintő kérdésekben egyeztetést kezdeményez a miniszternél.
+(6) Az elnöki utasítást az Oktatási és Kulturális Közlönyben, valamint az Intézményfenntartó Központ honlapján kell
+közzétenni.
+(7) Az Intézményfenntartó Központ biztosítja a szakszervezeti érdekegyeztetés rendszerének működését.
+A közalkalmazottak élet- és munkakörülményeit érintő döntések meghozatala előtt egyeztet a reprezentatív
+szakszervezetekkel. Az Intézményfenntartó Központ tevékenysége során együttműködik a szakmai és
+érdekképviseleti szervezetekkel, valamint az országos nemzetiségi önkormányzatokkal.
+(8) Az Intézményfenntartó Központnak az oktatási ágazati jogszabályokban valamint az e rendeletben
+meghatározott ágazati fenntartói feladataihoz – különösen az (1) bekezdés g)–i) pontjaiban meghatározott
+adatszolgáltatási és ágazati fenntartói informatikai és fenntartói tevékenységéhez – kapcsolódó informatikai
+tevékenységet – a külön kormányrendeletben meghatározott informatikai feladatok kivételével – az Educatio
+Társadalmi Szolgáltató Nonprofit Kft. látja el.”
+6. §
+A Korm. rendelet
+a) 2. § (3) bekezdésében a„tankerületek”szövegrész helyébe a„járási tankerületek”,
+b) 2. § (6) bekezdésében a„tankerület”szövegrész helyébe a„járási tankerület”,
+c) 5. § (1) bekezdésében a„tankerületet”szövegrész helyébe a„járási tankerületet”,
+d) 5. § (2) bekezdésében a „vagy közigazgatási szakvizsgával” szövegrész helyébe a „vagy közigazgatási
+szakvizsgával vagy jogi szakvizsgával”
+szöveg lép.
+7. §
+Az Oktatási Hivatalról szóló 121/2013. (IV. 26.) Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) Az Nkt. és végrehajtási rendeletei hatálya alá tartozó ügyekben a fővárosi és megyei kormányhivatal
+(a továbbiakban: kormányhivatal) által hozott elsőfokú döntések elleni fellebbezést a Hivatal bírálja el.
+(2) A Hivatalnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és az Nkt. hatálya
+alá tartozó ügyekben első fokon hozott döntéseinél a miniszter gyakorolja a fellebbezés elbírálására jogosult
+hatóság részére meghatározott jogosítványokat.”
+8. §
+Ez a rendelet a kihirdetést követő harmadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
