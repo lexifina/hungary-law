@@ -4,7 +4,7 @@ a) Nemzeti Fejlesztési Ügynökség;
 
 b) Nemzeti Eszközkezelő Zrt.;
 
-c) Nemzeti Államigazgatási Központ;
+c)[^1]
 
 d) Nemzetgazdasági Tervezési Hivatal;
 
@@ -16,4 +16,12 @@ g) Európai Támogatásokat Auditáló Főigazgatóság;
 
 h) Emberi Erőforrás Támogatáskezelő;
 
-i) Nemzeti Dohánykereskedelmi Nonprofit Zrt.
+i) Nemzeti Dohánykereskedelmi Nonprofit Zrt;
+
+j)[^2] Klebelsberg Intézményfenntartó Központ;
+
+k)[^3] Nemzetstratégiai Kutatóintézet.
+
+[^1]: A 2. § c) pontját a 28/2013. (VI. 12.) NFM rendelet 3. §-a hatályon kívül helyezte.
+[^2]: A 2. § j) pontját a 28/2013. (VI. 12.) NFM rendelet 1. §-a iktatta be.
+[^3]: A 2. § k) pontját a 28/2013. (VI. 12.) NFM rendelet 2. §-a iktatta be.

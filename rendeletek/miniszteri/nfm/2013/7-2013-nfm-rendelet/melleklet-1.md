@@ -2,7 +2,7 @@
 
 1. A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:
 
-1.1.[^1]
+1.1.[^4]
 
 1.2. az ÁROP 1.1.17. „Kormányzati informatikai szolgáltatási és e-közigazgatási sztenderdek” elnevezésű projekt keretei között megvalósuló Konszolidációs Adatvagyon Hasznosítás rendszer;
 
@@ -82,4 +82,4 @@
 
 3.10. Az 1.26. pont szerinti Mentés irányítási rendszer.
 
-[^1]: Az 1. melléklet 1.1. pontja az 5. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^4]: Az 1. melléklet 1.1. pontja az 5. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
