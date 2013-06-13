@@ -1,3 +1,5 @@
-## 27. § Hatályát veszti a XIII. Honvédelmi Minisztérium költségvetési fejezethez tartozó 2012. évi fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 13/2012. (VII. 27.) HM rendelet.
+## 27. §[^1]
 
 1. melléklet a 3/2013. (VI. 11.) HM rendelethez
+
+[^1]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
