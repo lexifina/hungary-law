@@ -2,11 +2,11 @@
 
 ## Költségvetési beszámolás
 
-17. §[^23] (1)[^24] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
+17. §[^24] (1)[^25] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
 
-a)[^25] a fejezeti kezelésű előirányzatok tekintetében költségvetési beszámolót (a továbbiakban: beszámoló) és a zárszámadáshoz kapcsolódó adatszolgáltatást,
+a)[^26] a fejezeti kezelésű előirányzatok tekintetében költségvetési beszámolót (a továbbiakban: beszámoló) és a zárszámadáshoz kapcsolódó adatszolgáltatást,
 
-b)[^26] a KNBSZ és az MH Honvédkórház kivételével a honvédelmi szervezetek vonatkozásában intézményi beszámolókat és időközi mérlegjelentéseket, továbbá azok költségvetési törvény szerkezeti rendjének megfelelő részletezettségű összesítésével beszámolókat és időközi mérlegjelentéseket,
+b)[^27] a KNBSZ és az MH Egészségügyi Központ kivételével a honvédelmi szervezetek vonatkozásában intézményi beszámolókat és időközi mérlegjelentéseket, továbbá azok költségvetési törvény szerkezeti rendjének megfelelő részletezettségű összesítésével beszámolókat és időközi mérlegjelentéseket,
 
 c) a zárszámadáshoz kapcsolódó adatszolgáltatást
 
@@ -16,7 +16,7 @@ készít és azokat – az intézményi beszámolók és időközi mérlegjelent
 
 (3) A honvédelmi szervezetek intézményi beszámolóinak és időközi mérlegjelentéseinek (1) bekezdés b) pontja szerinti összesítésével elkészített beszámolókat és időközi mérlegjelentéseket a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetője és a 8. § (5) bekezdése szerint kijelölt szervezeti egység vezetője írja alá.
 
-[^23]: A 17. § a 282/2010. (XII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^24]: A 17. § (1) bekezdés záró szövegrésze a 89/2012. (IV. 26.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^25]: A 17. § (1) bekezdés a) pontja a 89/2012. (IV. 26.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
-[^26]: A 17. § (1) bekezdés b) pontja a 89/2012. (IV. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 17. § a 282/2010. (XII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 17. § (1) bekezdés záró szövegrésze a 89/2012. (IV. 26.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^26]: A 17. § (1) bekezdés a) pontja a 89/2012. (IV. 26.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
+[^27]: A 17. § (1) bekezdés b) pontja a 89/2012. (IV. 26.) Korm. rendelet 6. §-ával megállapított, a 194/2013. (VI. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

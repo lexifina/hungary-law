@@ -8,7 +8,7 @@
 
 (4) Az államháztartás vitele szempontjából központi gazdálkodás és ellátás keretében valósul meg a HM költségvetési fejezetnél
 
-a)[^2] a honvédelmi szervezetek egyes pénzügyi és számviteli feladatainak ellátása, amely magában foglalja a 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, – a KNBSZ kivételével – a közbeszerzésekről szóló 2011. évi CVIII. törvény és az annak felhatalmazása alapján kiadott kormányrendeletek szerinti eltérő szabályok alapján végrehajtott beszerzések kötelezettségvállalásainak ellenjegyzését, valamint – a KNBSZ és az MH Honvédkórház kivételével – a könyvvezetést, a kincstári előirányzat-felhasználási keretforgalom kezelését és bonyolítását;
+a)[^2] a honvédelmi szervezetek egyes pénzügyi és számviteli feladatainak ellátása, amely magában foglalja a 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, – a KNBSZ kivételével – a közbeszerzésekről szóló 2011. évi CVIII. törvény és az annak felhatalmazása alapján kiadott kormányrendeletek szerinti eltérő szabályok alapján végrehajtott beszerzések kötelezettségvállalásainak ellenjegyzését, valamint – a KNBSZ és az MH Egészségügyi Központ kivételével – a könyvvezetést, a kincstári előirányzat-felhasználási keretforgalom kezelését és bonyolítását;
 
 b) a létszámgazdálkodás, ideértve a foglalkoztatottak létszámösszetételének és – a honvédelmi szervezet parancsnoka (vezetője) által meghatározott munkaidő keret kivételével – munkaidő-alapjának meghatározását is;
 
@@ -28,6 +28,6 @@ i) az állami vagyonnal történő gazdálkodás;
 
 j)[^4]
 
-[^2]: A 2. § (4) bekezdés a) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (4) bekezdés a) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 194/2013. (VI. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (4) bekezdés e) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 89/2012. (IV. 26.) Korm. rendelet 10. § a) pontja.
