@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Kárpátok védelméről és fenntartható fejlesztéséről szóló, 2003. május 22-én Kijevben készült Keretegyezményhez kapcsolódó, fenntartható erdőgazdálkodásról szóló jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
