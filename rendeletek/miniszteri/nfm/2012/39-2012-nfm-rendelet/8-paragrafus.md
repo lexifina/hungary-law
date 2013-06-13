@@ -1,7 +1,0 @@
-## 7. § Ha e rendelet vagy a támogatási szerződés eltérően nem rendelkezik, a támogatás visszafizetésére és annak kamata, illetve késedelmi kamata megfizetésére irányuló követelését a támogató felhatalmazó levél alapján beszedési megbízás alkalmazásával érvényesíti. A beszedési megbízás benyújtására vonatkozó, kizárólag a támogató hozzájárulásával visszavonható – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 77. § (2) bekezdése szerinti – támogatott nyilatkozatát, mint biztosítékot legkésőbb az első utalást megelőzően támogató rendelkezésére kell bocsátani.
-
-8. § (1) Csekély összegű (de minimis) támogatás a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: csekély összegű támogatásokról szóló bizottsági rendelet) alapján nyújtható.
-
-(2) Nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást a csekély összegű támogatásokról szóló bizottsági rendelet 1. cikkében meghatározott kivételek szerint használná fel.
-
-(3) A csekély összegű támogatás nyújtásának feltétele, hogy a kedvezményezett a csekély összegű támogatásokról szóló bizottsági rendelet 3. cikk 1. pontja szerinti nyilatkozata szerinti és jelen rendelet alapján igénybevett támogatás támogatástartalma nem lépi túl a csekély összegű támogatásokról szóló bizottsági rendeletben meghatározott felső határt.
