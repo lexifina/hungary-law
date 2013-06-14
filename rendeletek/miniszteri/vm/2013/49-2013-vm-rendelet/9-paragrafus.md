@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. §[^3]
 
 9. § (1) Ez a rendelet – a (2)–(6) bekezdésben meghatározott kivételekkel – 2013. június 11-én lép hatályba.
 
@@ -12,4 +12,4 @@
 
 (6) A 7. §, valamint az 1. melléklet 6. pontja 2013. június 28-án lép hatályba.
 
-[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
