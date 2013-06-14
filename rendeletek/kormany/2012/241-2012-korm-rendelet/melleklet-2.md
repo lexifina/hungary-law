@@ -20,7 +20,7 @@
 
 | 9 | VIII. helyezés | 2 000 000 | 1 600 000 | 1 400 000 | 1 200 000 |
 
-2. melléklet a 241/2012. (VIII. 30.) Korm. rendelethez[^6]
+2. melléklet a 241/2012. (VIII. 30.) Korm. rendelethez[^8]
 
 Az állami olimpiai jutalom mértéke a paralimpiai csapat esetében
 
@@ -46,4 +46,4 @@ Az állami olimpiai jutalom mértéke a paralimpiai csapat esetében
 
 ”
 
-[^6]: A 2. mellékletet a 277/2012. (IX. 28.) Korm. rendelet 6. §-a iktatta be.
+[^8]: A 2. mellékletet a 277/2012. (IX. 28.) Korm. rendelet 6. §-a iktatta be.
