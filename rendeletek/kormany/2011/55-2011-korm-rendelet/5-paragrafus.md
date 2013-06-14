@@ -32,7 +32,7 @@ cg) fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04.),
 
 ch) testedzési szolgáltatás (TEÁOR'08 93.13),
 
-ci) egyéb sporttevékenység (TEÁOR'08 93.19-ből verseny- és lovaglóistállók tevékenysége és a sporthorgászat),
+ci)[^12] egyéb sporttevékenység (TEÁOR'08 93.19-ből a verseny- és lovaglóistállók tevékenysége, a sporthorgászat és a sportesemények rendezése, szervezése, promóciója tevékenységből a szabadidős sportrendezvények nevezési, regisztrációs díja),
 
 cj) belvízi személyszállítás (TEÁOR'08 50.30.),
 
@@ -52,3 +52,4 @@ cp) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90-ből a
 
 [^10]: Az 5. § a 317/2011. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^11]: Az 5. § (1) bekezdése a 301/2012. (X. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 5. § (1) bekezdés c) pont ci) alpontja a 198/2013. (VI. 13.) Korm. rendelet 3. §-ával megállapított szöveg.

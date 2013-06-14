@@ -1,4 +1,4 @@
-14. §[^26] (1) Az intézménynek és a szolgáltatónak olyan nyilvántartást kell vezetnie, amelyből a kötelezettségek és a rendeltetésszerű joggyakorlás megállapítható.
+14. §[^28] (1) Az intézménynek és a szolgáltatónak olyan nyilvántartást kell vezetnie, amelyből a kötelezettségek és a rendeltetésszerű joggyakorlás megállapítható.
 
 (2) Az intézmények minden hónap 10. napjáig közösen (mindegyik intézmény adatait összesítve), elektronikus formában megküldik az előző hónap utolsó napján fennálló állapot szerint az alábbi adatokat a turizmusért felelős miniszter által vezetett minisztériumnak:
 
@@ -16,4 +16,4 @@ f) a munkavállalók elektronikus utalvány nyilvántartásán szereplő elektro
 
 g) beváltott elektronikus utalványok értéke összesen, és alszámlánkénti bontásban (ezer forintban).
 
-[^26]: A 14. § a 301/2012. (X. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^28]: A 14. § a 301/2012. (X. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
