@@ -1,0 +1,121 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a határon túli magyar köz- és felsőoktatási feladatok ellátása érdekében a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Egyéb feladatok támogatása alcím, 18. Határon túli oktatási és kulturális feladatok támogatása jogcímcsoport, 1. Határon túli oktatási feladatok támogatása jogcím terhére, a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 12. Balassi Intézet cím javára 80 660 ezer forint egyszeri átcsoportosítását rendeli el az 1. melléklet szerint.
+
+## Felelős: emberi erőforrások minisztere
+
+## közigazgatási és igazságügyi miniszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1340/2013. (VI. 14.) Korm. határozathoz
+
+XX. Emberi Erőforrások Minisztériuma
+
+X. Közigazgatási és Igazságügyi Minisztérium
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| ezer forintban |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 5 |  |  |  |  |  |  | Egyéb feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 18 |  |  |  |  |  |  | Határon túli oktatási és kulturális feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 295002 |  |  |  |  | 1 |  |  |  |  |  |  | Határon túli oktatási feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | -11 800 |  |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | -2 742 |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -64 618 |  |  |  |
+
+|  |  |  |  |  |  |  | 4 |  |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  |  |  |  |  |  |  |  | -1 500 |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 260256 |  | 12 |  |  |  |  |  |  | Balassi Intézet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 11 800 |  |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | 2 742 |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 64 618 |  |  |  |
+
+|  |  |  |  |  |  |  | 4 |  |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  |  |  |  |  |  |  |  | 1 500 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 5 |  |  |  |  |  |  | Egyéb feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 18 |  |  |  |  |  |  | Határon túli oktatási és kulturális feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 295002 |  |  |  |  | 1 |  |  |  |  |  |  | Határon túli oktatási feladatok támogatása |  |  |  |  |  |  |  |  | -80 660 |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 260256 |  | 12 |  |  |  |  |  |  | Balassi Intézet |  |  |  |  |  |  |  |  |  |  |  |  |  | 80 660 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal |  |  | 80 660 |  |  |  |  |  |  |  |  |  | 80 660 |  |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
