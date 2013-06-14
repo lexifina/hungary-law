@@ -32,15 +32,7 @@ l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvén
 
 (2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
 
-(3) A 2. mellékletben felsorolt állami tulajdonban álló nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő gazdasági társasági részesedések felett a tulajdonosi jogok gyakorlására kizárólag
-
-a) törvényben kijelölt miniszter,
-
-b) központi költségvetési szerv, vagy
-
-c) az állam 100%-os tulajdonában álló gazdálkodó szervezet
-
-jogosult.
+(3)
 
 (4) Korlátozottan forgalomképes nemzeti vagyonnak minősül a 2. melléklet I. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon körébe nem tartozó, többségi állami tulajdonban álló, a közbeszerzésekről szóló 2011. évi CVIII. törvény XIV. fejezetében meghatározott közszolgáltatási tevékenységet ellátó gazdasági társaságban fennálló, állami tulajdonban lévő társasági részesedés.
 

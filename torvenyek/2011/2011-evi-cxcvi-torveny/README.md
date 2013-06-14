@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-196-00-00
 | 2012-12-28 | 2012. évi CCXVIII. törvény | 2011-196-00-00.12 |
 | 2013-01-01 | 2012. évi CCIV. törvény | 2011-196-00-00.13 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2011-196-00-00.14 |
+| 2013-06-14 | 2013. évi LXXX. törvény | 2011-196-00-00.15 |
