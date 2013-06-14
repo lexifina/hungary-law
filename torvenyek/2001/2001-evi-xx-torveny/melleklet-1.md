@@ -72,8 +72,8 @@ Vértesi Erdészeti és Faipari Zrt.
 
 Zalaerdő Erdészeti Zrt.
 
-HM Budapesti Erdőgazdasági Zrt.
+Budapesti Erdőgazdaság Zrt.
 
-HM Kaszó Erdőgazdasági Zrt.
+Kaszó Erdőgazdaság Zrt.
 
 HM VERGA Erdőgazdasági Zrt.

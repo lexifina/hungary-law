@@ -1,5 +1,5 @@
 15. § (1) Az MFB Zrt. munkaszervezetének élén a szakosított hitelintézettel munkaviszonyban álló vezérigazgató áll.
 
-(2) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és felmentés jogával együtt – a tulajdonosi jogok gyakorlója gyakorolja. A vezérigazgató az igazgatóság tagja és elnöke, aki jogosult az elnök-vezérigazgató cím használatára.
+(2) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és felmentés jogával együtt – a tulajdonosi jogok gyakorlója gyakorolja. A vezérigazgató megbízatásának időtartama alatt – a tulajdonosi jogok gyakorlójának erre vonatkozó külön döntése nélkül – az igazgatóság tagja. A vezérigazgatóra a 14. § (4) bekezdésében meghatározott, az igazgatóság tagjai megbízatásának időtartamára vonatkozó rendelkezést nem kell alkalmazni. Amennyiben az igazgatóság elnöke, valamint a vezérigazgató személye azonos, a vezérigazgató jogosult az elnök–vezérigazgató cím használatára.
 
 (3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelőbizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló törvény 55. § (8) bekezdésében hivatkozott 55. § (7) bekezdésében foglaltakat nem kell alkalmazni.

@@ -4,4 +4,4 @@
 
 (2) Az MFB Zrt. alkalmazottai kötelesek a feladatuk ellátása során tudomásukra jutott üzleti titkot, banktitkot és értékpapír-titkot megőrizni.
 
-(3) Az MFB Zrt. feladatkörét érintő ügyben az üzleti titok megtartásának kötelezettsége alól az MFB Zrt. alkalmazottai részére a felmentést az MFB Zrt. elnök-vezérigazgatója adhatja meg.
+(3) Az MFB Zrt. feladatkörét érintő ügyben az üzleti titok megtartásának kötelezettsége alól az MFB Zrt. alkalmazottai részére a felmentést az MFB Zrt. vezérigazgatója adhatja meg.
