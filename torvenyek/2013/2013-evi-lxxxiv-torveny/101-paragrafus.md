@@ -1,0 +1,9 @@
+101. § Nem lép hatályba a fővárosi és megyei kormányhivatalok működésével összefüggő törvények, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CCX. törvény 25. §-a.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke

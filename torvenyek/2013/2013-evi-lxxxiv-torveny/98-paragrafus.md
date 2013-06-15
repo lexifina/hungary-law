@@ -1,0 +1,1 @@
+98. § A települési önkormányzat köteles a mozgóképről szóló 2004. évi II. törvény e törvénnyel megállapított 34. § (5) bekezdése szerinti rendeletét a törvény kihirdetését követő 30 napon belül megalkotni.
