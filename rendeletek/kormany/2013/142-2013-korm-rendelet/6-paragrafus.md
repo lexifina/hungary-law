@@ -1,4 +1,4 @@
-## 3–5. §[^3]
+## 3–5. §[^2]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 2. § 2013. június 15-én lép hatályba.
 
-[^3]: A 3–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
