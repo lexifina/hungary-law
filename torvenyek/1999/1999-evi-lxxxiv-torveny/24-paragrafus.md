@@ -1,6 +1,6 @@
-24. § (1) Az engedély- és a parkolási igazolvány nyilvántartásból adatok akkor szolgáltathatók, ha a kérelem a járművezető, illetve a parkolási igazolvány használatára jogosult természetes személyazonosító adatát is tartalmazza.
+24. § (1) A 21. § a) pontjában meghatározott kérelmezők részére az engedély- és a parkolási igazolvány nyilvántartásából adatok akkor szolgáltathatók, ha a kérelem a járművezető, illetve a parkolási igazolvány használatára jogosult természetes személy személyazonosító adatát, vagy a parkolási igazolvány használatára jogosult intézmény megnevezését is tartalmazza.
 
-(2) A jármű tulajdonos (üzembentartó) adatai akkor szolgáltathatók, ha a kérelemben megjelölt járműazonosító adatok vagy a gépjármű gyártmánya és rendszáma a nyilvántartásban szereplő adatokkal megegyezik.
+(2) A 21. § a) pontjában meghatározott kérelmezők részére a jármű tulajdonos (üzembentartó) adatai akkor szolgáltathatók, ha a kérelemben megjelölt járműazonosító adatok vagy a gépjármű gyártmánya és rendszáma a nyilvántartásban szereplő adatokkal megegyezik.
 
 (3) A kérelemben megjelölt célt nem kell igazolni, ha az
 
@@ -12,7 +12,7 @@ c) elektronikus úton előterjesztett kérelem a jármű gyártmányára, típus
 
 d) a járműnek a járműnyilvántartásba bejegyzett érvényes forgalmazási korlátozás tényének ellenőrzésére irányul,
 
-e) a 9. § (2) bekezdés f) pontjában meghatározott adatok igénylésére irányul.
+e) a 9. § (2) bekezdés g) pontjában meghatározott adatok igénylésére irányul.
 
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 

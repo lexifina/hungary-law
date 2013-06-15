@@ -10,15 +10,15 @@ d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 
 e) a települési önkormányzat jegyzője
 
-ea) gépjármű-adóztatási feladatok ellátásához a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában, továbbá a 9/A. § (1) bekezdésében meghatározott adatokat,
+ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat,
 
-eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában megjelölt adatokat;
+eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában megjelölt adatokat;
 
 f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1a) bekezdésében, a 9. § (2) bekezdés a)–c) pontjában és a 9/A. § (1) bekezdés a)–e) pontjában meghatározott adatokat;
 
-g) a vámhatóság a vámigazgatási eljáráshoz a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában, továbbá a 9/A. § (1) bekezdésében meghatározott adatokat;
+g) a vámhatóság a vámigazgatási eljáráshoz a 9. §-ban és a 9/A. § (1) bekezdésében meghatározott adatokat;
 
-h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat;
+h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat;
 
 i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 
