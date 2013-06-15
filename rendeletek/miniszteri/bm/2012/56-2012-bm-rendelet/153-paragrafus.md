@@ -1,4 +1,4 @@
-## 152. § A hivatásos állomány tagja a külföldi kiküldetés, szolgálati út vagy külszolgálat során elszenvedett, szolgálati kötelmekkel összefüggő baleset bejelentési kötelezettségét – amennyiben a kiküldő szerv elérésére más lehetőség nincs – a magyar külképviseleti szervek útján köteles teljesíteni.
+## 144–152. §
 
 ## 20. Záró rendelkezések
 
