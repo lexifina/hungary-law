@@ -1,0 +1,1 @@
+## 1. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 20. §-a szerinti közigazgatási hatósági eljárásban a gépjármű üzembentartójának a Kkt. 21/B. § (3) bekezdése alapján megküldendő formanyomtatványt az 1. és 2. melléklet határozza meg.
