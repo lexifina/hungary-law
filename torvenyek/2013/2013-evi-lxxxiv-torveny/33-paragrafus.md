@@ -1,29 +1,3 @@
 ## 33. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-33. § A külföldre utazásról szóló 1998. évi XII. törvény 24. §-a helyébe a következő rendelkezés lép:
-
-„24. § (1) A központi adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
-
-a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét,
-
-b) az állampolgár arcképmását és saját kezű aláírását, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
-
-c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
-
-d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, és a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat adatait (a bíróság vagy hatóság megnevezését, ügyszámát, a határozat keltét, a szünetelés időtartamát, a megszüntetés kezdő időpontját),
-
-e) az állampolgár számára kiadott úti okmány típusát, számát, érvényességi idejét, az ideiglenes magánútlevél ellenőrző sorszámát, valamint az úti okmányra való jogosultság megszűnésének okát és időpontját,
-
-f) az úti okmány cseréjére, találására, visszaadására, leadására, elvételére, valamint a 20. § (1) bekezdése szerinti érvénytelenségére vonatkozó adatokat,
-
-g) a Schengeni Információs Rendszerben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos adatokat,
-
-h) az útlevélhatósági eljárást lefolytató köztisztviselő egyedi azonosító kódját,
-
-i) a külföldre utazás korlátozásának tényét és a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat,
-
-j) a külföldre utazás korlátozásának törlése esetén az ügyben eljáró útlevélhatóság megnevezését, a törlés időpontját, valamint a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat, továbbá
-
-k) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, az útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímeit.
-
-(2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.”
+33. §
