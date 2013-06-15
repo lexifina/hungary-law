@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-373-20-
 | --- | --- | --- |
 | 2012-01-05 | 2011-373-20-22.1 | 373/2011. (XII. 31.) Korm. rendelet |
 | 2012-01-06 | 2011-373-20-22.2 | 2010: CXXX. törvény |
+| 2013-06-15 | 2011-373-20-22.3 | 142/2013. (V. 13.) Korm. rendelet |
