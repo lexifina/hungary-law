@@ -2,8 +2,8 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Az állami olimpiai jutalomról szóló 241/2012. (VIII. 30.) Korm. rendelet (a továbbiakban: R.) 4. §-a helyébe a következő rendelkezés lép:
-
-## „4. § A sport világeseményen egy személy egy jogcímen részesülhet állami olimpiai jutalomban, kivéve az olimpiára felkészítő edzőt, aki nevelőedzőként is részesülhet jutalomban a Nemzetközi Olimpiai Bizottság által szervezett XXX. londoni nyári olimpiai játékok MOB-nál rendelkezésre álló nevelőedzői jutalmazási kerete terhére.”
+(2)[^1]
 
 (3) Az R. 2013. július 31-én hatályát veszti.
+
+[^1]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
