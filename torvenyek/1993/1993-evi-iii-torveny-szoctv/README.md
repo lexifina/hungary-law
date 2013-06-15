@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2012-12-08 | 2012. évi CXCII. törvény | 1993-3-00-00.77 |
 | 2013-01-01 | 2012. évi XCIII. törvény | 1993-3-00-00.78 |
 | 2013-04-01 | 2013. évi XXVII. törvény | 1993-3-00-00.79 |
+| 2013-06-15 | 2013. évi LXXV. törvény | 1993-3-00-00.80 |
