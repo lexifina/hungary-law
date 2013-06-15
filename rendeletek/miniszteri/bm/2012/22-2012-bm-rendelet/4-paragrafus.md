@@ -25,3 +25,7 @@ h) az eljárás alá vont személy nyilatkozatát a szabálysértés elkövetés
 (3) A szabálysértési eljárás megindulását követően ellenőrizni kell, hogy fennállnak-e a Szabs. tv. 23. § alkalmazásának feltételei.
 
 (4) Az engedélyhez kötött járművezetés szabályainak megszegésével elkövetett szabálysértés esetén ellenőrizni kell, hogy az eljárás alá vont személy nem áll-e járművezetéstől eltiltás hatálya alatt.
+
+(5)[^1] Ha a Szabs. tv. 224. §-a szerint minősülő szabálysértést sebességtúllépésével, mobiltelefon szabálytalan használatával, vagy a bukósisak használatára vonatkozó szabályok megszegésével és a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvet alkalmazó más tagállamban bejegyzett gépjárművel követték el, a gépjármű üzemben tartójának az eljárás megindítását követő nyolc napon belül az 1. és 2. mellékletben meghatározott tartalmú tájékoztató levelet és válasznyomtatványt kell megküldeni.
+
+[^1]: A 4. § (5) bekezdését a 21/2013. (VI. 7.) BM rendelet 3. § (1) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## 4. Végrehajtás
 
-11. § (1)[^1] A pénzbírságot kiszabó szabálysértési hatóság, valamint a bíróság határozatához mellékeli a meghatározott fizetési számlára történő készpénzátutalási megbízást (a továbbiakban: csekkszelvény). A csekkszelvény tartalmazza:
+11. § (1)[^2] A pénzbírságot kiszabó szabálysértési hatóság, valamint a bíróság határozatához mellékeli a meghatározott fizetési számlára történő készpénzátutalási megbízást (a továbbiakban: csekkszelvény). A csekkszelvény tartalmazza:
 
 a) szabálysértési hatóság által kiszabott pénzbírság esetén
 
@@ -24,7 +24,7 @@ bc) a végrehajtást foganatosító szerv számlaszámát, a nemzetközi fizeté
 
 (3) A szabálysértési bírság befizetését kezelő szerv a központosított bevételt az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 131. § (1) bekezdésében foglaltak szerint köteles a Magyar Kincstár által megjelölt számlára átutalni.
 
-(4)[^2] A szabálysértési hatóság, részletfizetés engedélyezése esetén valamennyi részlet befizetéséhez szükséges, az egyes részletek meghatározását tartalmazó csekkszelvényt biztosít az elkövető részére.
+(4)[^3] A szabálysértési hatóság, részletfizetés engedélyezése esetén valamennyi részlet befizetéséhez szükséges, az egyes részletek meghatározását tartalmazó csekkszelvényt biztosít az elkövető részére.
 
-[^1]: A 11. § (1) bekezdése az 50/2012. (X. 11.) BM rendelet 6. §-ával megállapított szöveg.
-[^2]: A 11. § (4) bekezdése az 50/2012. (X. 11.) BM rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^2]: A 11. § (1) bekezdése az 50/2012. (X. 11.) BM rendelet 6. §-ával megállapított szöveg.
+[^3]: A 11. § (4) bekezdése az 50/2012. (X. 11.) BM rendelet 9. § (3) bekezdése szerint módosított szöveg.
