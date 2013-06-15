@@ -56,6 +56,6 @@
 
 ## A korrigált mennyiségi adatok megállapítása során a fogyasztást befolyásoló más tényezők – mint pl. világgazdasági reálfolyamatok, illetve a fogyasztói szokások változásának – hatását a Hivatal indokolt esetben figyelembe veszi.
 
-3. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^16]
+3. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^18]
 
-[^16]: A 3. mellékletet a 18/2010. (XII. 3.) NFM rendelet 17. §-a hatályon kívül helyezte.
+[^18]: A 3. mellékletet a 18/2010. (XII. 3.) NFM rendelet 17. §-a hatályon kívül helyezte.

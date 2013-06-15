@@ -1,4 +1,4 @@
-4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^17]
+4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^19]
 
 A rendszerhasználati díjak megállapításának keretszabályai
 
@@ -188,4 +188,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^17]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a szerint módosított szöveg.
+[^19]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a szerint módosított szöveg.
