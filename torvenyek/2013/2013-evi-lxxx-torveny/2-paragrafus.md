@@ -1,3 +1,0 @@
-2. § Az MFB tv. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és felmentés jogával együtt – a tulajdonosi jogok gyakorlója gyakorolja. A vezérigazgató megbízatásának időtartama alatt – a tulajdonosi jogok gyakorlójának erre vonatkozó külön döntése nélkül – az igazgatóság tagja. A vezérigazgatóra a 14. § (4) bekezdésében meghatározott, az igazgatóság tagjai megbízatásának időtartamára vonatkozó rendelkezést nem kell alkalmazni. Amennyiben az igazgatóság elnöke, valamint a vezérigazgató személye azonos, a vezérigazgató jogosult az elnök–vezérigazgató cím használatára.”
