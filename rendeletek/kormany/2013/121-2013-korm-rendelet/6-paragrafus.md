@@ -8,6 +8,6 @@ c) gondoskodik az oktatási ágazati jogszabályokban meghatározott feladatok e
 
 d) statisztikai adatot szolgáltat az államilag elismert nyelvvizsgákkal kapcsolatosan,
 
-e)[^1]
+e)[^2]
 
-[^1]: A 6. § e) pontja a 21. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+[^2]: A 6. § e) pontja a 21. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
