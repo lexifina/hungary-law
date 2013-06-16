@@ -1,0 +1,1 @@
+## „(2) A tankerületi igazgatót – az elnök és a tankerület székhelye szerint illetékes fővárosi és megyei kormányhivatal kormánymegbízottja véleményének kikérésével – a miniszter nevezi ki, illetve menti fel.”
