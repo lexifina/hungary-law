@@ -1,4 +1,4 @@
-## 33. § Hatályát veszti az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 125. §-a, valamint 19. alcíme.
+## 33. §[^1]
 
 1. melléklet a 23/2013. (VI. 11.) BM rendelethez
 
@@ -125,3 +125,5 @@ X. Fejezet – A munkavédelmi eljárások rendje
 XI. Fejezet – A munka-egészségügyi feladatok ellátásának rendje
 
 XII. Fejezet – A munkavédelmi érdekképviselet
+
+[^1]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
