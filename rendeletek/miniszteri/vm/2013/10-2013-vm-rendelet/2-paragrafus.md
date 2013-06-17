@@ -7,3 +7,5 @@ b) a mintavétel,
 c) a méhészetek és méhkolóniák egészségi állapotának ellenőrzése, és
 
 d) a tanulmányi programok megvalósítása
+
+kapcsán felmerült költségekhez.
