@@ -14,6 +14,9 @@ e) a földimogyoró és a belőle készített termékek aflatoxintartalmának ki
 
 f) az Egyiptomból importált görögszéna-magvakra, valamint egyes magvakra és babfélékre vonatkozó szükségintézkedésekről szóló, 2011. július 6-i 2011/402/EU bizottsági határozat,
 
-g)[^3] a Kínából származó rizstermékekben előforduló, nem engedélyezett, géntechnológiával módosított rizsre vonatkozó szükségintézkedésekről és a 2008/289/EK határozat hatályon kívül helyezéséről szóló, 2011. december 22-i 2011/884/EU bizottsági határozat.
+g)[^4] a Kínából származó rizstermékekben előforduló, nem engedélyezett, géntechnológiával módosított rizsre vonatkozó szükségintézkedésekről és a 2008/289/EK határozat hatályon kívül helyezéséről szóló, 2011. december 22-i 2011/884/EU bizottsági határozat,
 
-[^3]: A 6. § g) pontját a 45/2012. (V. 8.) VM rendelet 33. § (2) bekezdése iktatta be.
+h)[^5] a Ghánából és Indiából származó földimogyoró, az Indiából származó okra és currylevelek, valamint a Nigériából származó görögdinnyemagok behozatalára vonatkozó specifikus feltételek meghatározásáról, valamint a 669/2009/EK és az 1152/2009/EK bizottság rendelet módosításáról szóló, 2013. január 31-i 91/2013/EU bizottsági végrehajtási rendelet.
+
+[^4]: A 6. § g) pontját a 45/2012. (V. 8.) VM rendelet 33. § (2) bekezdése iktatta be.
+[^5]: A 6. § h) pontját az 51/2013. (VI. 17.) VM rendelet 18. § (2) bekezdése iktatta be.

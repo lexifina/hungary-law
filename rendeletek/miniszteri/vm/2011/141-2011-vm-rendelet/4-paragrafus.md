@@ -4,6 +4,8 @@
 
 a) a zöldség, gyümölcs és egyéb – az élelmiszer-higiéniáról szóló, 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 852/2004/EK európai parlamenti és tanácsi rendelet) 2. cikk (1) bekezdés n) pontja szerinti – feldolgozatlan növényi élelmiszer esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága,
 
-b)[^2] a takarmány és – a 852/2004/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés o) pontja szerinti – feldolgozott élelmiszer esetében a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága és a járási állategészségügyi és élelmiszer-ellenőrző hivatal
+b)[^3] a takarmány és – a 852/2004/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés o) pontja szerinti – feldolgozott élelmiszer esetében a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága és a járási állategészségügyi és élelmiszer-ellenőrző hivatal
 
-[^2]: A 4. § b) pontja a 151/2012. (XII. 29.) VM rendelet 52. §-a szerint módosított szöveg.
+végzi.
+
+[^3]: A 4. § b) pontja a 151/2012. (XII. 29.) VM rendelet 52. §-a szerint módosított szöveg.
