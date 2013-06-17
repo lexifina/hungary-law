@@ -32,5 +32,7 @@ cd) a Burley dohány, és
 
 ce) a Virginia dohány
 
+támogatása történelmi bázisjogosultság mértékét, ahol a legkisebb átírható mennyiség 0,01 egység.
+
 [^17]: Az 5. § (2) bekezdése a 27/2013. (IV. 26.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^18]: Az 5. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 2. § (2) bekezdése iktatta be.

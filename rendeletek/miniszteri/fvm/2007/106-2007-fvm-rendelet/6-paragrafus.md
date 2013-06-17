@@ -1,5 +1,3 @@
-## támogatása történelmi bázisjogosultság mértékét, ahol a legkisebb átírható mennyiség 0,01 egység.
-
 6. §[^19] (1)[^20] Az átírási kérelem a tárgy támogatási évre vonatkozóan, valamennyi jogcím esetében adott év szeptember 30-ig nyújtható be.
 
 (2)[^21] Az örökös vagy jogutód a jogutódlást igazoló döntés jogerőre emelkedését követő 30 napon belül kérheti a történelmi bázis jogosultság átírását. A kérelemhez mellékelni kell a jogutódlást alátámasztó dokumentum másolatát. Haszonélvezeti joggal terhelt öröklés esetén a történelmi bázis jogosultság átírási kérelmét a történelmi bázis jogosultság haszonélvezőjének és a történelmi bázis jogosultság örökösének közösen kell benyújtania.

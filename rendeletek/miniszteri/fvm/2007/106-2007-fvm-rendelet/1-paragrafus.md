@@ -20,7 +20,7 @@ ha) az a) pont szerinti mezőgazdasági termelő,
 
 hb) az a személy, aki, illetőleg amely mezőgazdasági tevékenység végzése céljából, az átírási kérelem benyújtásával egyidejűleg a Tv. 28. §-ában foglalt regisztrációs kötelezettségének eleget tesz,
 
-## és akire, illetőleg amelyre a történelmi bázis jogosultságokat átruházzák vagy ideiglenesen átengedik;
+és akire, illetőleg amelyre a történelmi bázis jogosultságokat átruházzák vagy ideiglenesen átengedik;
 
 i) átírás: átruházás, ideiglenes átengedés, öröklés, jogutódlás, lemondás, megvonás miatti történelmi bázis jogosultság átvezetése egyik mezőgazdasági termelő nevéről egy vagy több másik mezőgazdasági termelő nevére, illetve az országos tartalék javára;
 

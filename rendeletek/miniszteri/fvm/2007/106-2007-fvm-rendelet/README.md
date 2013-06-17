@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-106-20-
 | 2012-06-29 | 2007-106-20-82.11 | 59/2012. (VI. 28.) VM rendelet |
 | 2013-04-27 | 2007-106-20-82.12 | 27/2013. (IV. 26.) VM rendelet |
 | 2013-06-08 | 2007-106-20-82.13 | 47/2013. (VI. 7.) VM rendelet |
+| 2013-06-17 | 2007-106-20-82.14 | 47/2013. (VI. 7.) VM rendelet |
