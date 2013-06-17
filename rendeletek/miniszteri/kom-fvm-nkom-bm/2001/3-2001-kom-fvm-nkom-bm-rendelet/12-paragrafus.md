@@ -1,4 +1,4 @@
-12. § (1) Az állatotthon működési engedély kérelemnek tartalmaznia kell:
+12. § (1)[^18] Az állatotthon Átv. 41. § (1) bekezdése szerinti engedélyezése iránti kérelemnek tartalmaznia kell:
 
 a) a tulajdonos nevét, lakcímét, székhelyét, tartózkodási helyét valamint a vezető nevét, címét;
 
@@ -30,6 +30,7 @@ g) a keletkezett állattetemek, állati hulladék, trágya kezelésének és ár
 
 (4) Az engedélyben rendelkezni kell az állatotthon adatszolgáltatási kötelezettségéről.
 
-(5)[^17] Az állatotthon működését az állatvédelmi hatóság – a szakhatóságok részvételével – folyamatosan ellenőrzi, és ötévenként felülvizsgálja. A felülvizsgálat eredményétől függően az állatvédelmi hatóság az állatotthont bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén – határidő tűzésével – a hiányosságok pótlását rendelheti el.
+(5)[^19] Az állatotthon működését az állatvédelmi hatóság – a szakhatóságok részvételével – folyamatosan ellenőrzi, és ötévenként felülvizsgálja. A felülvizsgálat eredményétől függően az állatvédelmi hatóság az állatotthont bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén – határidő tűzésével – a hiányosságok pótlását rendelheti el.
 
-[^17]: A 12. § (5) bekezdése a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^18]: A 12. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^19]: A 12. § (5) bekezdése a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.

@@ -10,7 +10,7 @@ d) a telephely adatait.
 
 (2) Az állatkert működési engedély iránti kérelemhez mellékelni kell:
 
-a)[^4] a létesítmény betelepítési tervét az állatok egészségügyi ellátásához szükséges feltételek teljesítésére vonatkozó tervvel, a tartásra tervezett fajok listájával és a tartásra tervezett fajok ,,Tenyésztési Terv''-ével, amely utóbbi tartalmazza a létrejövő szaporulat elhelyezésének tervét, valamint a fokozottan védett fajok egyedeinek mesterséges szaporításához külön jogszabály alapján a Környezetvédelmi és Vízügyi Minisztérium (a továbbiakban: minisztérium) által kiadott engedélyt;
+a)[^5] a létesítmény betelepítési tervét az állatok egészségügyi ellátásához szükséges feltételek teljesítésére vonatkozó tervvel, a tartásra tervezett fajok listájával és a tartásra tervezett fajok ,,Tenyésztési Terv''-ével, amely utóbbi tartalmazza a létrejövő szaporulat elhelyezésének tervét, valamint a fokozottan védett fajok egyedeinek mesterséges szaporításához külön jogszabály alapján a Környezetvédelmi és Vízügyi Minisztérium (a továbbiakban: minisztérium) által kiadott engedélyt;
 
 b) az állatkert ,,Működési terv''-ét a ,,Látogatási szabályzat''-tal, melyben a nagyközönség számára biztosított látogatási időt is rögzíteni kell, napszak, évszak és év viszonylatokban;
 
@@ -44,12 +44,12 @@ e) az állatkert megszűnésének esetére ,,Felszámolási terv''-et a betelep�
 
 f) a nem kizárólagos önkormányzati tulajdonban levő állatkertek esetében igazolást a tartós működéshez szükséges vagyoni fedezet folyamatos meglétéről és annak biztosítékáról;
 
-g)[^5] a felelős személy és az állatgondozók képzettségét, illetve az 4. § (3) bekezdés szerinti esetleges felmentését igazoló okmányok másolatát;
+g)[^6] a felelős személy és az állatgondozók képzettségét, illetve az 4. § (3) bekezdés szerinti esetleges felmentését igazoló okmányok másolatát;
 
 h) az állategészségügyi ellátást biztosító állatorvos nyilatkozatát.
 
-(3)[^6] A rendelet hatálybalépésekor már működő állatkertnél olyan esetben, ha a meglévő állattartó helyeken a férőhely nagysága 20%-nál nem nagyobb mértékben tér el az előírt mértéktől, az állatkert működtetőjének nyilatkozni kell arról, illetőleg arra vonatkozó bizonyítékot kell szolgáltatni az engedélyező hatóság részére, hogy a korszerű állattartás feltételei biztosítottak.
+(3)[^7] A rendelet hatálybalépésekor már működő állatkertnél olyan esetben, ha a meglévő állattartó helyeken a férőhely nagysága 20%-nál nem nagyobb mértékben tér el az előírt mértéktől, az állatkert működtetőjének nyilatkozni kell arról, illetőleg arra vonatkozó bizonyítékot kell szolgáltatni az engedélyező hatóság részére, hogy a korszerű állattartás feltételei biztosítottak.
 
-[^4]: A 3. § (2) bekezdésének a) pontja a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (2) bekezdés g) pontja a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
-[^6]: A 3. § (3) bekezdését a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^5]: A 3. § (2) bekezdésének a) pontja a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (2) bekezdés g) pontja a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^7]: A 3. § (3) bekezdését a 13/2003. (IX. 9.) KvVM–FVM–NKÖM–BM együttes rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
