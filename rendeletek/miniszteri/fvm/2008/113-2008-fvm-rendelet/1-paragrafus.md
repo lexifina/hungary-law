@@ -8,7 +8,7 @@ a) az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi X
 
 b) az egyes állatbetegségek kitörésének, illetve a betegségek kitörésével kapcsolatban elrendelt korlátozások feloldásának az Európai Bizottságnak (a továbbiakban: Bizottság) történő bejelentése
 
-## során.
+során.
 
 (3) A bejelentési kötelezettség alá tartozó állatbetegségeket az 1. számú melléklet tartalmazza.
 

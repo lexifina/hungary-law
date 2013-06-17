@@ -1,8 +1,8 @@
-## Az Európai Közösség Bizottságának
-
-## és a tagországoknak jelentendő állatbetegségek
+## Az Európai Unió Bizottságának és tagállamoknak jelentendő állatbetegségek
 
 ## A. Szárazföldi állatokat érintő betegségek
+
+## A.1. jegyzék (az 5–6. § szerint jelentendő betegségek listája)
 
 ## 1. Afrikai lópestis (African horse sickness)
 
@@ -14,7 +14,7 @@
 
 ## 5. Juh- és kecskehimlő (Sheep and goat pox, Capripox)
 
-## 6. Kéknyelv betegség (Bluetoungue)
+## 6. Kéknyelv betegség (Bluetongue)
 
 ## 7. Keleti marhavész (Rinderpest, cattle plague)
 
@@ -22,33 +22,57 @@
 
 ## 9. Kiskérődzők pestise (Peste des petits ruminants)
 
-## 10. Klasszikus sertéspestis (Classical swine fever, SF)
+## 10. Klasszikus sertéspestis (Classical swine fever, CSF)
 
-## 11. Lovak fertőző kevésvérűsége
+## 11. Lépfene (Anthrax)
 
-## 12. Lovak járványos agy- és gerincvelő-gyulladása (valamennyi változat, ideértve a venezuelai ló-encephalomyelitist, Equine encephalomyelitis)
+## 12. Lovak fertőző kevésvérűsége (Equine infectious anaemia)
 
-## 13. Madárinfluenza (Highly pathogenic avian influenza, HPAI)
+## 13. Lovak járványos agy- és gerincvelő-gyulladásának alábbi típusai:
 
-## 14. Newcastle-betegség (Newcastle-disease, ND)
+## – Japán encephalitis (Japanese encephalitis)
 
-## 15. Ragadós száj- és körömfájás (Foot-and-mouth disease, FMD)
+## – Keleti ló-encephalomyelitis (Eastern equine encephalomyelitis)
 
-## 16. Rift-völgyi láz (Rift Valley Fever)
+## – Lovak venezuelai agy-és gerincvelő-gyulladása (Venezuelan equine encephalomyelitis)
 
-## 17. Sertések hólyagos betegsége (Swine vesicular disease, SVD)
+## – Nyugati ló-encephalomyelitis (Western equine encephalomyelitis)
 
-## 18. Szarvasmarhák ragadós tüdőlobja (Contagious bovine pleuropneumonia)
+## – Nyugat-nílusi láz (West Nile fever, WNF)
 
-## 19. Szarvasmarhák szivacsos agyvelőbántalma (Bovine spongiform encephalopathy, BSE)
+## 14. Madárinfluenza (HPAI baromfiban, fogságban élő és vadon élő madarakban, LPAI baromfiban és fogságban élő madarakban)
 
-## 20. Takonykór (Glanders)
+## 15. Newcastle-betegség (Newcastle-disease, ND)
 
-## 21. Tenyészbénaság (Dourine)
+## 16. Ragadós száj- és körömfájás (Foot-and-mouth disease, FMD)
 
-## 22. Tropilaelaps atka fertőzöttség (Tropilaelaps mite)
+## 17. Rift-völgyi láz (Rift Valley Fever)
 
-## B. Viziállatokat érintő betegségek
+## 18. Sertések hólyagos betegsége (Swine vesicular disease, SVD)
+
+## 19. Szarvasmarhák ragadós tüdőlobja (Contagious bovine pleuropneumonia)
+
+## 20. Szarvasmarhák szivacsos agyvelőbántalma (Bovine spongiform encephalopathy, BSE)
+
+## 21. Takonykór (Glanders)
+
+## 22. Tenyészbénaság (Dourine)
+
+## 23. Tropilaelaps atka fertőzöttség (Tropilaelaps mite)
+
+## 24. Veszettség (Rabies)
+
+## A.2. jegyzék (a 6/A. § szerint jelentendő betegségek listája)
+
+## 1. Szarvasmarha-brucellózis
+
+## 2. Szarvasmarha-gümőkór
+
+## 3. Szarvasmarha-leukosis
+
+## 4. Juh- és kecskebrucellózis (a Br. ovis kivételével)
+
+## B. Víziállatokat érintő betegségek
 
 ## 1. Pisztrángfélék fertőző vérképzőszervi elhalása (Infectious haemapoietic necrosis)
 
@@ -60,23 +84,21 @@
 
 ## 5. Bonamia ostreae-fertőzés
 
-## 6. Járványos fekélybetegség (Epizootic ulcerative syndrome, EUS)
+## 6. Járványos vérképzőszervi elhalás (Epizootic haematopoietic necrosis, EHN)
 
-## 7. Járványos vérképzőszervi elhalás (Epizootic haematopoietic necrosis, EHN)
+## 7. Koi herpesz vírus betegség (Koi herpesvirus disease)
 
-## 8. Koi herpesz vírus betegség (Koi herpesvirus disease)
+## 8. Marteilia refringens-fertőzés (MR)
 
-## 9. Marteilia refringens-fertőzés (MR)
+## 9. Microcytos mackini-fertőzés
 
-## 10. Microcytos mackini-fertőzés
+## 10. Perkinsus marinus-fertőzés
 
-## 11. Perkinsus marinus-fertőzés
+## 11. Taura-szindróma (Taura syndrome)
 
-## 12. Taura-szindróma (Taura syndrome)
+## 12. White spot-betegség (White spot disease, WSD)
 
-## 13. White spot-betegség (White spot disease, WSD)
-
-## 14. Yellowhead-betegség (Yellowhead disease)
+## 13. Yellowhead-betegség (Yellowhead disease)
 
 3. számú melléklet a 113/2008. (VIII. 30.) FVM rendelethez
 

@@ -6,21 +6,21 @@
 
 ## 2. Afrikai sertéspestis
 
-## 3.[^4] Aujeszky-betegség
+## 3.[^13] Aujeszky-betegség
 
 ## 4. Bőrcsomósodáskór
 
 ## 5. Brucellózis (Brucella abortus, Brucella melitensis, Brucella suis)
 
-## 6. Fertőző sertésbénulás
+## 6.[^14]
 
 ## 7. Hólyagos szájgyulladás
 
 ## 8. Juh- és kecskehimlő (Capripox)
 
-## 9. Kacsapestis (kacsák vírusos bélgyulladása)
+## 9.[^15]
 
-## 10.[^5] Kéknyelv betegség (Bluetongue)
+## 10.[^16] Kéknyelv betegség (Bluetongue)
 
 ## 11. Keleti marhavész
 
@@ -72,7 +72,7 @@
 
 ## 35. Veszettség
 
-## 36.[^6] Szarvasok epizootiás haemorrhagiás betegsége
+## 36.[^17] Szarvasok epizootiás haemorrhagiás betegsége
 
 ## B. Víziállatokat érintő betegségek
 
@@ -80,7 +80,7 @@
 
 ## 2. Bonamia ostreae-fertőzés
 
-## 3. Járványos fekélybetegség (Epizootic ulcerative syndrome, EUS)
+## 3.[^18]
 
 ## 4. Járványos vérképzőszervi elhalás (Epizootic haematopoietic necrosis, EHN)
 
@@ -106,8 +106,12 @@
 
 ## 15. Yellowhead-betegség (Yellowhead disease)
 
-2. számú melléklet a 113/2008. (VIII. 30.) FVM rendelethez
+2. számú melléklet a 113/2008. (VIII. 30.) FVM rendelethez[^19]
 
-[^4]: Az 1. számú melléklet A. pontjának 3. alpontja a 30/2009. (III. 27.) FVM rendelet 26. § (3) bekezdésével megállapított szöveg.
-[^5]: Az 1. számú melléklet A. pontjának 10. alpontja a 31/2009. (III. 27.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 1. számú melléklet A. részének 36. pontját a 20/2011. (III. 25.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^13]: Az 1. számú melléklet A. pontjának 3. alpontja a 30/2009. (III. 27.) FVM rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 1. számú melléklet A rész 6. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^15]: Az 1. számú melléklet A rész 9. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^16]: Az 1. számú melléklet A. pontjának 10. alpontja a 31/2009. (III. 27.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^17]: Az 1. számú melléklet A. részének 36. pontját a 20/2011. (III. 25.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^18]: Az 1. számú melléklet B rész 3. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^19]: A 2. számú melléklet az 51/2013. (VI. 17.) VM rendelet 12. §-ával megállapított szöveg.
