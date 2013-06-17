@@ -26,12 +26,16 @@ a) a 2. § (1) bekezdés a) és b) pontja, valamint a 2. § (2) bekezdése szeri
 
 b) az a) pontban meghatározott számla szerinti laboratóriumi vizsgálat eredményét tartalmazó dokumentum másolatát, amely legalább tartalmazza a vizsgálat tárgyát (tej vagy takarmány), a vizsgálat célját (aflatoxin kimutatása, ha a vizsgálat eredményéből egyértelműen nem derül ki), a vizsgálat elvégzésének időpontját, valamint a megrendelő adatait, amelynek azonosnak kell lennie a kérelmező adataival,
 
-c) a 2. § (1) bekezdés c) és d) pontja szerinti támogatási célok esetén az ártalmatlanítás költségeit igazoló, a kérelmező nevére kiállított számlák másolatát,
+c)[^7] a 2. § (1) bekezdés c) pontja szerinti támogatási cél esetén az ártalmatlanítás költségeit igazoló, a kérelmező nevére kiállított számlák másolatát,
 
-d) a 45/2012. (V. 8.) VM rendelet 3. melléklete szerinti kereskedelmi okmány másolatát az ártalmatlanított tej mennyiségének igazolására, valamint az ártalmatlanításra történő átadás-átvétel időpontját igazoló, az ártalmatlanító által ellenjegyzett dokumentumot, valamint
+d)[^8] a 2. § (1) bekezdés d) pontja szerinti támogatási cél esetén a 45/2012. (V. 8.) VM rendelet 3. melléklete szerinti kereskedelmi okmány másolatát az ártalmatlanított tej mennyiségének igazolására, valamint az ártalmatlanításra történő átadás-átvétel időpontját igazoló, az ártalmatlanító által ellenjegyzett dokumentumot, valamint
 
-e) a számlák kifizetését igazoló dokumentum másolatát.
+e)[^9] a 2. § (1) bekezdés a)–c) pontjai, valamint a 2. § (2) bekezdés szerinti támogatási célok esetén a számlák kifizetését igazoló dokumentum másolatát.
 
 (4) Támogatás csak a 2. § (3) bekezdésében meghatározott időszakban elvégzett laboratóriumi vizsgálatokra és ártalmatlanításra átadott tejre vonatkozóan, legkésőbb a támogatási kérelem benyújtásáig kiállított és pénzügyileg teljesített számlák alapján, illetve kereskedelmi okmányokkal igazolt, ártalmatlanításra átadott tej után vehető igénybe. Egy laboratóriumi vizsgálatról szóló számla csak egy támogatási célra használható fel.
 
 (5) A miniszter a támogatási kérelmek benyújtási időszakában első alkalommal 2013. június 17-ig, majd minden hónap 15. napjáig megküldi az MVH részére a termelői csoportok listáját.
+
+[^7]: A 6. § (3) bekezdés c) pontja az 51/2013. (VI .17.) VM rendelet 28. §-ával megállapított szöveg.
+[^8]: A 6. § (3) bekezdés d) pontja az 51/2013. (VI .17.) VM rendelet 28. §-ával megállapított szöveg.
+[^9]: A 6. § (3) bekezdés e) pontja az 51/2013. (VI .17.) VM rendelet 28. §-ával megállapított szöveg.

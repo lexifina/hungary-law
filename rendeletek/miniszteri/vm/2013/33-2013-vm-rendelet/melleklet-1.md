@@ -1,5 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
-
 1. melléklet a 33/2013. (V. 14.) VM rendelethez
 
 Támogatási kérelem adattartalma

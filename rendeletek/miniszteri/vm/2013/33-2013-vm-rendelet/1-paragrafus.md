@@ -18,4 +18,12 @@ g) tárgyhónap: az ártalmatlanításra történő átadás, vagy a laboratóri
 
 h) tejfeldolgozó: olyan természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely megfelel a 852/2004/EK európai parlamenti és tanácsi rendelet, valamint a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak, a termékeket engedélyezett üzemben állította elő, továbbá szerepel a Nemzeti Élelmiszerlánc-biztonsági Hivatal által közzétett engedélyezett létesítmények nyilvántartásában;
 
-i) termelői csoport: az agrárpolitikáért felelős miniszter által – a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján – elismert tejtermelési, illetve tejfeldolgozási tevékenységet végző szövetkezet vagy korlátolt felelősségű társaság.
+i)[^2] termelői csoport: az agrárpolitikáért felelős miniszter által – a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján – elismert tejtermelési, tejforgalmazási, illetve tejfeldolgozási tevékenységet végző szövetkezet vagy korlátolt felelősségű társaság;
+
+j)[^3] tejforgalmazó: olyan természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely az 1998/2006/EK bizottsági rendelet 1. cikk 2. c ) pontja szerinti mezőgazdasági termék marketing tevékenységet végez;
+
+k)[^4] mezőgazdasági termelői tevékenység: az 1535/2007/EK bizottsági rendelet 2. cikk szerinti tevékenység.
+
+[^2]: Az 1. § i) pontja az 51/2013. (VI .17.) VM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § j) pontját az 51/2013. (VI .17.) VM rendelet 25. § (2) bekezdése iktatta be.
+[^4]: Az 1. § k) pontját az 51/2013. (VI .17.) VM rendelet 25. § (2) bekezdése iktatta be.

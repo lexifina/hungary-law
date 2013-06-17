@@ -1,4 +1,4 @@
-## 9. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 9/A. §[^10] E rendeletnek az egyes élelmiszerlánc-felügyeleti tárgyú miniszteri rendeletek módosításáról szóló 51/2013. (VI. 17.) VM rendelettel [a továbbiakban: 51/2013. (VI. 17.) VM rendelet] módosított 1. § i) pontját, 2. § (1)–(2) bekezdését és a 6. § (3) bekezdésének c)–e) pontjait, valamint az 51/2013. (VI. 17.) VM rendelet] megállapított 1. § j) és k) pontjait az 51/2013. (VI. 17.) VM rendelet] hatálybalépésekor[^11] folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 10. Az Európai Unió jogának való megfelelés
 
@@ -21,3 +21,8 @@ g) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos faj
 h) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EK rendelet hatályon kívül helyezéséről szóló, 2009. október 21-i 1069/2009/EK európai parlamenti és tanácsi rendelet;
 
 i) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról szóló 1069/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról, valamint a 97/78/EK tanácsi irányelvnek az egyes minták és tételek határon történő állat-egészségügyi ellenőrzése alóli, az irányelv szerinti mentesítése tekintetében történő végrehajtásáról szóló, 2011. február 25-i 142/2011/EU bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^10]: A 9/A. §-t az 51/2013. (VI .17.) VM rendelet 29. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2013. június 17. 18.00 óra.
