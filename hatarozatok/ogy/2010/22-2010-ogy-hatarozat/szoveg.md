@@ -24,7 +24,7 @@ dr. Szűcs Lajos (Fidesz)
 
 Móring József Attila (KDNP)
 
-dr. Stágel Bence (KDNP)[^3]
+dr. Vejkey Imre (KDNP)[^3]
 
 Göndör István (MSZP)
 
@@ -42,6 +42,6 @@ Szilágyi Péter (független)[^5]
 
 [^1]: A 60/2010. (VII. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Kövér László 2010. augusztus 6-ától az Országgyűlés elnöke.
 [^2]: Az 5/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Tiba István 2011. február 22-étől az Országgyűlés jegyzője.
-[^3]: Az 5/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Stágel Bence 2011. február 22-étől az Országgyűlés jegyzője.
+[^3]: Az 59/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg. Dr. Vejkey Imre 2013. június 17-étől az Országgyűlés jegyzője.
 [^4]: A 82/2012. (XI. 22.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 8/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
