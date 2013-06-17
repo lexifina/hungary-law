@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-36-00-00
 | 2012-04-15 | 2012. évi XXXI. törvény | 2007-36-00-00.6 |
 | 2012-11-28 | 2012. évi CLXX. törvény | 2007-36-00-00.7 |
 | 2013-04-01 | 2012. évi CLXX. törvény | 2007-36-00-00.8 |
+| 2013-06-17 | 2012. évi CLXX. törvény | 2007-36-00-00.9 |

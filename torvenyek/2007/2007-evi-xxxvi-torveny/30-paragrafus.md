@@ -2,4 +2,4 @@
 
 (2) Ha az (1) bekezdésben foglaltak alapján a végrehajtásra illetékes általános szabálysértési hatóság nem állapítható meg, a külföldi határozatban megjelölt összeg beszedését az az általános szabálysértési hatóság hajtja végre, amelynek működési területén az elkövetőnek fellelhető jövedelme, illetve vagyona van.
 
-(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja.
+(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja. Ha a megkeresésben a pénzbírság szabálysértési elzárásra való átváltoztatását kizárták, a pénzbírság adók módjára történő behajtásáról kell intézkedni.

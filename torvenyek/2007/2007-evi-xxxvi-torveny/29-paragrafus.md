@@ -8,7 +8,9 @@ c) a külföldi határozat alapjául szolgáló cselekményt külföldi hatósá
 
 d) a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan nem az ahhoz mellékelt határozatra vonatkozik,
 
-e) a külföldi határozatban meghatározott összeg a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva nem haladja meg a 70 eurót.
+e) nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi határozatban meghatározott összeg a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva nem haladja meg a 70 eurót.
+
+(1a) A 27. § (4) bekezdés alapján átvett határozat végrehajtása megtagadható, ha a formanyomtatvány tanúsítvány hiányos. A központi hatóság ez esetben a külföldi határozat megküldését vagy egyéb kiegészítő információk megadását is kérheti.
 
 (2) Nincs helye a külföldi határozat végrehajtásának, ha annak jogerőre emelkedése óta egy év eltelt.
 

@@ -6,4 +6,4 @@
 
 a) az elkövető a pénzbírságot nem fizette meg,
 
-b) a pénzbírság összege a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva meghaladja a 70 eurót.
+b) nemzetközi szerződés eltérő rendelkezésének hiányában a pénzbírság összege a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett napi hivatalos devizaárfolyamon átszámítva meghaladja a 70 eurót.
