@@ -26,7 +26,7 @@
 
 17. a Bizottság 98/68/EK irányelve (1998. szeptember 10.) a 95/53/EK tanácsi irányelv 9. cikkének (1) bekezdésében említett szabványdokumentum és a harmadik országokból származó takarmányoknak a Közösség területén történő bevezetése során alkalmazott ellenőrzések egyes szabályainak megállapításáról,
 
-18.[^19] az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU, 277/2012/EU, 744/2012/EU rendelete,
+18.[^19] az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU, 277/2012/EU, 744/2012/EU, 107/2013/EU rendelete,
 
 19. a Bizottság 2004/116/EK irányelve (2004. december 23.) a 82/471/EGK tanácsi irányelvnek a Candida guilliermondii felvétele tekintetében történő módosításáról,
 
@@ -104,7 +104,7 @@
 
 32.[^21] az Európai Parlament és a Tanács 767/2009/EK rendelete (2009. július 13.) a takarmányok forgalomba hozataláról és felhasználásáról, az 1831/2003/EK rendelet módosításáról, valamint a 79/373/EGK tanácsi irányelv, a 80/511/EGK bizottsági irányelv, a 82/471/EGK, 83/228/EGK, 93/74/EGK, 93/113/EK és 96/25/EK tanácsi irányelv és a 2004/217/EK bizottsági határozat hatályon kívül helyezéséről,
 
-33.[^22] a Bizottság 575/2011/EU rendelete (2011. június 16.) a takarmány-alapanyagok jegyzékéről.
+33.[^22] a Bizottság 68/2013/EU rendelete (2013. január 16.) a takarmány-alapanyagok jegyzékéről.
 
 [^12]: A 2. § a 2/2010. (VI. 30.) VM rendelet 2. §-ával megállapított szöveg.
 [^13]: A 2. § (1) bekezdés 2–5. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
@@ -113,7 +113,7 @@
 [^16]: A 2. § (1) bekezdés 11–12. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^17]: A 2. § (1) bekezdés 13. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (1) bekezdésévell megállapított szöveg.
 [^18]: A 2. § (1) bekezdés 15. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^19]: A 2. § (1) bekezdés 18. pontja a 143/2012. (XII. 27.) VM rendelet 1. §-ával megállapított szöveg.
+[^19]: A 2. § (1) bekezdés 18. pontja az 51/2013. (VI .17.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^20]: A 2. § (1) bekezdés 23. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^21]: A 2. § (2) bekezdés 32. pontja a 2/2010. (VI. 30.) VM rendelet 5. § (2) bekezdése alapján 2010. szeptember 1-jén lépett hatályba.
-[^22]: A 2. § (2) bekezdés 33. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (3) bekezdésévell megállapított szöveg.
+[^22]: A 2. § (2) bekezdés 33. pontja az 51/2013. (VI .17.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.

@@ -4,11 +4,11 @@
 
 ## 1. szervetlen szennyezőanyagok és nitrogénvegyületek
 
-## 2K37057M_0
+## 3K54947M_0
 
 | Nemkívánatos anyag | Takarmányozásra szánt termékek | Legnagyobb tartalom mg/kg-ban (ppm), 12 %-os nedvességtartalmú takarmányra vonatkozóan |
 
-| “1. | Arzén (1) | Takarmány-alapanyagok, kivéve: - fűből, szárított lucernából és szárított lóheréből készült liszt, szárított cukorrépapép, szárított melaszos cukorrépaszelet; - pálmamagpogácsa; - foszfátok és mésztartalmú tengeri algák; - kalcium-karbonát; kalcium- és magnézium-karbonát (10); - magnézium-oxid; magnézium-karbonát; - halak, más vízi állatok és az ezekből nyert termékek; - algaliszt és algalisztből nyert takarmány-alapanyagok. | 2 4 4(2) 10 15 20 25(2) 40(2) |
+| 1. | Arzén (1) | Takarmány-alapanyagok, kivéve: - fűből, szárított lucernából és szárított lóheréből készült liszt, szárított cukorrépapép, szárított melaszos cukorrépaszelet; - pálmamagpogácsa; - foszfátok és mésztartalmú tengeri algák; - kalcium-karbonát; kalcium- és magnézium-karbonát (10); - magnézium-oxid; magnézium-karbonát; - halak, más vízi állatok és az ezekből nyert termékek; - algaliszt és algalisztből nyert takarmány-alapanyagok. | 2 4 4(2) 10 15 20 25(2) 40(2) |
 
 | Jelölőanyagként használt vasrészecskék. | 50 |
 
@@ -60,7 +60,9 @@
 
 | Teljes értékű takarmányok, kivéve: - kutyáknak és macskáknak szánt, 20%-ot meghaladó nedvességtartalmú teljes értékű takarmányok | 15 --- |
 
-| 7. | Melamin (9) | Takarmányok, kivéve a következő takarmány-adalékanyagokat: - guanidino-ecetsav - karbamid - biuret | 2,5 --- --- --- |
+| 7. | Melamin (9) | Takarmányok, kivéve: – kedvtelésből tartott állatoknak készült dobozos konzerv eledel – a következő takarmány-adalékanyagok: – guanidino-ecetsav (GAA) – karbamid – biuret | 2,5 2,5 (*) – – – |
+
+| (*) A maximális szint a kedvtelésből tartott állatoknak készült dobozos konzerv eledelek értékesítésre kerülő formájára értendő. |
 
 ## (1) A határértékek az összes arzéntartalomra utalnak.
 
@@ -80,7 +82,7 @@
 
 ## (9) A határérték kizárólag a melaminra vonatkozik. A későbbiekben vizsgálják meg, hogy a határérték kiterjedjen-e a szerkezetileg rokon cianursav, ammelin és ammelid vegyületekre is.
 
-## (10) A “kalcium- és magnézium-karbonát” a kalcium-karbonátnak és a magnézium-karbonátnak az a természetes keveréke, amelyet a takarmány-alapanyagok jegyzékéről szóló, 2011. június 16i 575/2011/EU bizottsági rendelet meghatároz.
+## (10) A „kalcium- és magnézium-karbonát” a kalcium-karbonátnak és a magnézium-karbonátnak az a természetes keveréke, amelyet a takarmány-alapanyagok jegyzékéről szóló, 2011. június 16i 575/2011/EU bizottsági rendelet meghatároz.
 
 ## 2. mikotoxinok
 
@@ -132,7 +134,7 @@
 
 ## (2) Az aldrin és a dieldrin maximális szintje, önmagában vagy kombinálva, dieldrinben kifejezve.
 
-## (3) Számozás a Parlar-rendszer szerint, akár CHB-, akár “Parlar”-előtaggal:
+## (3) Számozás a Parlar-rendszer szerint, akár CHB-, akár „Parlar”-előtaggal:
 
 ## CHB 26: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-oktaklórbornán,
 
@@ -142,7 +144,7 @@
 
 ## 5. dioxinok és PCB-k
 
-## 2K37057M_4
+## 3K54947M_4
 
 | Nemkívánatos anyag | Takarmányozásra szánt termékek | Legnagyobb tartalom ng WHO-PCDD/F-TEQ/kg-ban (ppt) (1), 12 %-os nedvességtartalmú takarmányra vonatkozóan |
 
@@ -196,7 +198,7 @@
 
 |  | Kongéner | TEF-érték | Kongéner | TEF-érték |
 
-|  | Dibenzo-para-dioxinok (“PCDD-k”) és dibenzo-para-furánok (“PCDF-ek”) |  | “Dioxinjellegű” PCB-k: nem-orto-PCB-k + mono-orto-PCB-k |  |
+|  | Dibenzo-para-dioxinok („PCDD-k”) és dibenzo-para-furánok („PCDF-ek”) |  | „Dioxinjellegű” PCB-k: nem-orto-PCB-k + mono-orto-PCB-k |  |
 
 |  | 2,3,7,8-TCDD | 1 |  |  |
 
@@ -234,7 +236,7 @@
 
 |  | OCDF | 0,0003 |  |  |
 
-## Alkalmazott rövidítések: “T” = tetra; “Pe” = penta; “Hx” = hexa; “Hp” = hepta; “O” = okta; “CDD” = klór-dibenzo-dioxin; “CDF” = klór-dibenzofurán; “CB” = klór-bifenil.
+## Alkalmazott rövidítések: „T” = tetra; „Pe” = penta; „Hx” = hexa; „Hp” = hepta; „O” = okta; „CDD” = klór-dibenzo-dioxin; „CDF” = klór-dibenzofurán; „CB” = klór-bifenil.
 
 ## (3) A határértékek nem vonatkoznak a prémes állatoknak szánt takarmány előállítása céljából közvetlenül szállított és közbenső feldolgozás nélkül felhasznált friss halra és más vízi állatokra, azonban a kedvtelésből tartott állatok, illetve az állatkerti és cirkuszi állatok közvetlen etetésére vagy a kedvtelésből tartott állatoknak szánt takarmányok alapanyagaként felhasznált friss halra a 3,5 ng WHO-PCDD/F-TEQ/kg termék és a 6,5 ng WHO-PCDD/F-PCB-TEQ/kg termék, az ugyanilyen célra felhasznált halmájra pedig a 20,0 ng WHO-PCDD/F-PCB-TEQ/kg termék határérték vonatkozik. Az ezekből az állatokból (prémes állatok, kedvtelésből tartott állatok, állatkerti és cirkuszi állatok) előállított termékek és feldolgozott állati fehérjék nem kerülhetnek be az élelmiszerláncba, és nem használhatók élelmiszertermelés céljára tartott, hizlalt vagy tenyésztett haszonállatok takarmányozására.
 
@@ -292,7 +294,7 @@
 
 | (**) Az anyagnak az előkeverékre vetített határértéke az a koncentráció, amely a késztakarmány tekintetében megállapított legnagyobb megengedhető szinteknek - az adott előkeverékre vonatkozó használati utasítás betartása mellett - legfeljebb 50%-át eredményezi. |
 
-| (***) E rendelet 2. számú mellékletének I/B fejezetében a “tojójérce” szó a házityúk állatfajnak az árutojás-termelő hasznosítási irányhoz tartozó, nőivarú egyedét jelenti a táblázatban jelölt életkorban. |
+| (***) E rendelet 2. számú mellékletének I/B fejezetében a „tojójérce” szó a házityúk állatfajnak az árutojás-termelő hasznosítási irányhoz tartozó, nőivarú egyedét jelenti a táblázatban jelölt életkorban. |
 
 ## II. Fejezet
 
@@ -300,7 +302,7 @@
 
 ## Dioxinok és PCB-k
 
-## 2K37057M_9
+## 3K54947M_9
 
 | Nemkívánatos anyagok | Takarmányozásra szánt termékek | Cselekvési küszöbérték ng WHO-PCDD/F-TEQ/kg-ban (ppt) (2), 12%-os nedvességtartalmú takarmányra vonatkozóan | Megjegyzések és további információk (például az elvégzendő vizsgálatok jellegéről) |
 
@@ -338,7 +340,7 @@
 
 |  | Kongéner | TEF-érték | Kongéner | TEF-érték |
 
-|  | Dibenzo-para-dioxinok (“PCDD-k”) és dibenzo-para-furánok (“PCDF-ek”) |  | “Dioxinjellegű” PCB-k: nem-orto-PCB-k + mono-orto-PCB-k |  |
+|  | Dibenzo-para-dioxinok („PCDD-k”) és dibenzo-para-furánok („PCDF-ek”) |  | „Dioxinjellegű” PCB-k: nem-orto-PCB-k + mono-orto-PCB-k |  |
 
 |  | 2,3,7,8-TCDD | 1 |  |  |
 
@@ -376,7 +378,7 @@
 
 |  | OCDF | 0,0003 |  |  |
 
-## Alkalmazott rövidítések: “T” = tetra; “Pe” = penta; “Hx” = hexa; “Hp” = hepta; “O” = okta; “CDD” = klór-dibenzo-dioxin; “CDF” = klór-dibenzofurán; “CB” = klór-bifenil.
+## Alkalmazott rövidítések: „T” = tetra; „Pe” = penta; „Hx” = hexa; „Hp” = hepta; „O” = okta; „CDD” = klór-dibenzo-dioxin; „CDF” = klór-dibenzofurán; „CB” = klór-bifenil.
 
 ## (2) Felső határkoncentrációk: a felső határkoncentrációk kiszámításakor azt kell feltételezni, hogy a különböző kongénerek összes, a mennyiségi meghatározás határa alá eső értéke a mennyiségi meghatározás határával egyenlő.
 
