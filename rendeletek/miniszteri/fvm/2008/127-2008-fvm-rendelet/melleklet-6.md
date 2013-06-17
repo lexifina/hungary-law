@@ -4,7 +4,7 @@
 
 ## Nemzeti referencialaboratórium
 
-## 1. A MgSzH Központ szervezeti keretében belül, az 56. §-ban kijelölt nemzeti referencialaboratórium (NRL) felel az országban a felelősségi körébe tartozó diagnosztikai szabványok és módszerek összehangolásáért. Az NRL:
+## 1.[^93] A NÉBIH szervezeti keretében belül, az 56. §-ban kijelölt nemzeti referencialaboratórium (NRL) felel az országban a felelősségi körébe tartozó diagnosztikai szabványok és módszerek összehangolásáért. Az NRL:
 
 ## a) vállalja, hogy késedelem nélkül értesíti az országos főállatorvost, ha tudomást szerez a 3. számú mellékletben említett bármely betegség gyanújáról,
 
@@ -16,11 +16,11 @@
 
 ## e) biztosítja a 3. számú mellékletben felsorolt egzotikus betegségek minden kitörése, valamint az abban a mellékletben felsorolt nem egzotikus betegségek első kitörése pozitív eredményeinek megerősítését,
 
-## f) az MgSzH Központ által az 57. §-sal összhangban kijelölt laboratóriumokkal országos szinten megszervezi a diagnosztikai módszerek rendszeres összehasonlító vizsgálatait (mintavizsgálat) annak érdekében, hogy információt nyújtson az országban alkalmazott diagnosztikai módszerekről és az országban elvégzett vizsgálatok eredményeiről,
+## f)[^94] a NÉBIH által az 57. §-sal összhangban kijelölt laboratóriumokkal országos szinten megszervezi a diagnosztikai módszerek rendszeres összehasonlító vizsgálatait (mintavizsgálat) annak érdekében, hogy információt nyújtson az országban alkalmazott diagnosztikai módszerekről és az országban elvégzett vizsgálatok eredményeiről,
 
 ## g) együttműködik a közösségi referencialaboratóriummal, és részt vesz a közösségi referencialaboratóriumok által szervezett összehasonlító vizsgálatokban,
 
-## h) biztosítja, hogy rendszeres és nyitott párbeszédet folytat a Földművelésügyi és Vidékfejlesztési Minisztériummal és az MgSzH Központ Állategészségügyi és Állatvédelmi Igazgatóságával,
+## h)[^95] biztosítja, hogy rendszeres és nyitott párbeszédet folytat a Vidékfejlesztési Minisztériummal és a NÉBIH Állategészségügyi és Állatvédelmi Igazgatóságával,
 
 ## i) figyelemmel az e rendeletben megállapított különböző vizsgálati módszerekre vonatkozó feltételekre is, a következő európai szabványokkal összhangban működik, és azokkal összhangban kap minősítést és akkreditációt:
 
@@ -42,7 +42,7 @@
 
 ## 1. Az országos főállatorvos az 57. § értelmében csak olyan laboratóriumokat jelölhet ki diagnosztikai szolgáltatásokra, amelyek megfelelnek a következő követelményeknek. A laboratóriumok:
 
-## a) vállalják, hogy késedelem nélkül értesítik az MgSzH Központot, ha tudomást szereznek a 3. számú mellékletben említett bármely betegség gyanújáról,
+## a)[^96] vállalják, hogy késedelem nélkül értesítik a NÉBIH-et, ha tudomást szereznek a 3. számú mellékletben említett bármely betegség gyanújáról,
 
 ## b) vállalják, hogy részt vesznek a diagnosztikai eljárásoknak a nemzeti referencialaboratórium által szervezett összehasonlító vizsgálataiban (mintavizsgálat),
 
@@ -62,9 +62,9 @@
 
 6. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
 
-## A készenléti tervekre vonatkozó feltételek és követelmények
+A készenléti tervekre vonatkozó feltételek és követelmények
 
-Az MgSzH Központ által készített készenléti tervnek meg kell felelnie legalább a következőknek:
+A NÉBIH által készített készenléti tervnek meg kell felelnie legalább a következőknek:[^97]
 
 1. Gondoskodik a készenléti tervek végrehajtásához szükséges jogkörök biztosításáról, valamint a gyors és sikeres felszámolási program lehetővé tételéről.
 
@@ -72,9 +72,9 @@ Az MgSzH Központ által készített készenléti tervnek meg kell felelnie lega
 
 3. A 3. számú mellékletben felsorolt egzotikus betegségekkel vagy új betegségekkel kapcsolatos gyors és hatékony döntéshozatali eljárás biztosítása érdekében meghatározza a szolgálati utat. Egy központi döntéshozatali egység felel az ellenőrzési stratégia átfogó irányításáért.
 
-4. Az MgSzH Központ részletes tervekkel rendelkezik annak érdekében, hogy a 3. számú mellékletben felsorolt egzotikus betegségek vagy új betegségek kitörése esetén készen álljanak a helyi járványvédelmi központok azonnali felállítására, és a járványvédelmi és környezetvédelmi intézkedések helyi szintű végrehajtására.
+4.[^98] A NÉBIH részletes tervekkel rendelkezik annak érdekében, hogy a 3. számú mellékletben felsorolt egzotikus betegségek vagy új betegségek kitörése esetén készen álljanak a helyi járványvédelmi központok azonnali felállítására, és a járványvédelmi és környezetvédelmi intézkedések helyi szintű végrehajtására.
 
-5. Az MgSzH Központ biztosítja az MgSzH területi szervei és az illetékes környezetvédelmi hatóságok és testületek közötti együttműködést az állat-egészségügyi és környezetvédelmi kérdésekkel kapcsolatos fellépések megfelelő összehangolásának biztosítása érdekében.
+5.[^99] A NÉBIH biztosítja az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságok és az illetékes környezetvédelmi hatóságok és testületek közötti együttműködést az állat-egészségügyi és környezetvédelmi kérdésekkel kapcsolatos fellépések megfelelő összehangolásának biztosítása érdekében.
 
 6. A gyors és hatékony program – beleértve a személyzetet, felszerelést és a laboratóriumi kapacitást is – biztosítása érdekében megfelelő forrásokról rendelkezik.
 
@@ -95,3 +95,11 @@ b) minimális zaj- vagy szagártalommal járjanak,
 c) a természetre vagy a különös védettségű helyekre minimális hátrányos hatást gyakoroljanak.
 
 12. A tervben azonosításra alkalmas módon fel kell tüntetni a járvány kitörése esetén az 1774/2002/EK rendelettel összhangban az állati melléktermék kezelésével vagy ártalmatlanításával foglalkozó megfelelő területeket és vállalkozásokat.
+
+[^93]: Az 5. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
+[^94]: Az 5. számú melléklet I. rész 1. pont f) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
+[^95]: Az 5. számú melléklet I. rész 1. pont h) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § h) és n) pontja szerint módosított szöveg.
+[^96]: Az 5. számú melléklet II. rész 1. pont a) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § l) pontja szerint módosított szöveg.
+[^97]: A 6. számú melléklet nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
+[^98]: A 6. számú melléklet 4. pontja az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
+[^99]: A 6. számú melléklet 5. pontja az 51/2013. (VI. 17.) VM rendelet 17. § i) és m) pontja szerint módosított szöveg.

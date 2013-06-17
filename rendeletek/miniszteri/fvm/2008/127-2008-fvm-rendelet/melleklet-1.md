@@ -1,6 +1,6 @@
 1. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
 
-## A víziállat-tenyésztő vállalkozások és az engedéllyel rendelkező feldolgozólétesítmények hatósági nyilvántartásában megkövetelt információk
+A víziállat-tenyésztő vállalkozások és az engedéllyel rendelkező feldolgozólétesítmények hatósági nyilvántartásában megkövetelt információk
 
 I. RÉSZ
 
@@ -8,7 +8,7 @@ Engedéllyel rendelkező víziállat-tenyésztő
 
 vállalkozás
 
-1. Az MgSzH Központ az egyes víziállat-tenyésztő vállalkozásokra vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:
+1.[^81] A NÉBIH az egyes víziállat-tenyésztő vállalkozásokra vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:
 
 a) a víziállat-tenyésztő vállalkozás neve, illetve cégneve és címe, illetve székhelye, valamint a kapcsolattartásra vonatkozó adatok (telefon, fax, e-mail),
 
@@ -30,7 +30,7 @@ II. RÉSZ
 
 Engedéllyel rendelkező feldolgozólétesítmények
 
-## Az MgSzH Központ az engedéllyel rendelkező feldolgozólétesítményekre vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:
+## A NÉBIH az engedéllyel rendelkező feldolgozólétesítményekre vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:[^82]
 
 a) az engedélyezett feldolgozólétesítmény neve, cégneve és címe, székhelye, valamint a kapcsolattartásra vonatkozó adatok (telefon, fax, e-mail),
 
@@ -41,3 +41,6 @@ c) a feldolgozólétesítmény földrajzi elhelyezkedése, amelyet megfelelő ko
 d) az engedéllyel rendelkező feldolgozólétesítmény szennyvízkezelő rendszereire vonatkozó adatok,
 
 e) az engedéllyel rendelkező feldolgozólétesítményben élelmiszer-előállítás céljából feldolgozásra kerülő tenyésztett víziállatfajok.
+
+[^81]: Az 1. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
+[^82]: Az 1. számú melléklet II. rész nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.

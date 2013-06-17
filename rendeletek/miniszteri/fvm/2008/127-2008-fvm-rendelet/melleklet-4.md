@@ -1,12 +1,8 @@
-## Jegyzékbe foglalt betegségek
-
 | EGZOTIKUS BETEGSÉGEK |
 
 |  | BETEGSÉG | FOGÉKONY FAJOK |
 
 | HALAK | Járványos vérképzőszervi elhalás (EHN) | Szivárványos pisztráng (Oncorhynchus mykiss) és sügér (Perca fluviatilis) |
-
-| Járványos fekélybetegség (EUS) | Catla, Channa, Labeo, Mastacembelus, Mugil, Puntius és Trichogaster nemekbe tartozó fajok |
 
 | PUHATESTŰEK | Bonamia exitiosa-fertőzés | Ausztrál iszapi osztriga (Ostrea angasi) és chilei lapos osztriga (Ostrea chilensis) |
 
@@ -22,7 +18,7 @@
 
 |  | BETEGSÉG | FOGÉKONY FAJOK |
 
-| HALAK | Pisztrángok vírusos vérfertőzése (VHS) | Hering (Clupea spp.), marénák (Coregonus sp.), csuka (Esox lucius), foltos tőkehal (G. aeglefinus), csendes-óceáni tőkehal (Gadus macrocephalus), atlanti-óceáni tőkehal (Gadus morhua), csendes-óceáni lazac (Oncorhynchus spp.), szivárványos pisztráng (Oncorhynchus mykiss), Onos mustelus, sebes pisztráng (Salmo trutta), rombuszhal (Scophthalmus maximus), spratt (Sprattus sprattus) és pénzes pér (Thymallus thymallus) |
+| HALAK | Pisztrángok vírusos vérfertőzése (VHS) | Hering (Clupea spp.), marénák (Coregonus sp.), csuka (Esox lucius), foltos tőkehal (G. aeglefinus), csendes-óceáni tőkehal (Gadus macrocephalus), atlanti-óceáni tőkehal (Gadus morhua), csendes-óceáni lazac (Oncorhynchus spp.), szivárványos pisztráng (Oncorhynchus mykiss), Onos mustelus, sebes pisztráng (Salmo trutta), rombuszhal (Scophthalmus maximus), spratt (Sprattus sprattus), pénzes pér (Thymallus thymallus) és Paralichthys olivaceus |
 
 | Pisztrángfélék fertőző vérképzőszervi elhalása (IHN) | Ketalazac (Oncorhynchus keta), kisutch-lazac (Oncorhynchus kisutch), Oncorhynchus masou, szivárványos pisztráng (Oncorhynchus mykiss), kékhátú lazac (Oncorhynchus nerka), csendes-óceáni lazac (Oncorhynchus rhodurus), királylazac (Oncorhynchus tshawytscha) és atlanti-óceáni lazac (Salmo salar) |
 

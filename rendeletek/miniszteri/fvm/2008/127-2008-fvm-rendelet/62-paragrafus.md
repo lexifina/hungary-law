@@ -1,10 +1,12 @@
-62. § (1)[^48] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+62. § (1)[^78] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 2006/88/EK irányelve (2006. október 24.) a tenyésztett víziállatokra és az azokból származó termékekre vonatkozó állat-egészségügyi követelményekről és a víziállatokban előforduló egyes betegségek megelőzéséről és az azok elleni védekezésről,
 
-b) a Bizottság 2008/53/EK irányelve (2008. április 30.) a 2006/88/EK tanácsi irányelv IV. mellékletének a pontyfélék tavaszi virémiája (SVC) tekintetében történő módosításáról.
+b) a Bizottság 2008/53/EK irányelve (2008. április 30.) a 2006/88/EK tanácsi irányelv IV. mellékletének a pontyfélék tavaszi virémiája (SVC) tekintetében történő módosításáról,
 
-(2)[^49] Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+c)[^79] a Bizottság 2012/31/EU végrehajtási irányelve (2012. október 25.) a 2006/88/EK tanácsi irányelv IV. mellékletének a pisztrángok vírusos vérfertőzésére fogékony fajok felsorolásának kiigazítása és a járványos fekélybetegségre vonatkozó bejegyzés törlése érdekében történő módosításáról.
+
+(2)[^80] Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) a Bizottság 1251/2008/EK rendelete (2008. december 12.) a 2006/88/EK tanácsi irányelvnek a tenyésztett víziállatok és az azokból származó termékek forgalomba hozatalára és közösségi behozatalára vonatkozó feltételek és bizonyítványkiállítási követelmények tekintetében történő végrehajtásáról és a kórokozó-átvivő fajok jegyzékének meghatározásáról,
 
@@ -14,5 +16,6 @@ c) a Bizottság 2008/946/EK határozata (2008. december 12.) a 2006/88/EK tanác
 
 d) a Bizottság 2009/177/EK határozata (2008. október 31.) a 2006/88/EK tanácsi irányelvnek a felügyeleti és felszámolási programok, valamint a tagállamok, övezetek és területi egységek betegségtől mentes minősítése tekintetében történő végrehajtásáról.
 
-[^48]: A 62. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 106/2009. (VIII. 14.) FVM rendelet 14. §-a.
-[^49]: A 62. § (2) bekezdését a 106/2009. (VIII. 14.) FVM rendelet 14. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.
+[^78]: A 62. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 106/2009. (VIII. 14.) FVM rendelet 14. §-a.
+[^79]: A 62. § (1) bekezdés c) pontját az 51/2013. (VI. 17.) VM rendelet 15. §-a iktatta be.
+[^80]: A 62. § (2) bekezdését a 106/2009. (VIII. 14.) FVM rendelet 14. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.

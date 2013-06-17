@@ -18,13 +18,13 @@
 
 ## 1.2. Az 1.1. pont a) alpontjában említett biológiai biztonsági intézkedések legalább a következőket tartalmazzák:
 
-## a)[^51] a betegség bejelentése a hatósági állatorvos, a járási főállatorvos vagy az MgSzH területi szerve felé kötelező, beleértve a gyanú bejelentését is,
+## a)[^85] a betegség bejelentése a hatósági állatorvos, a járási főállatorvos vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság felé kötelező, beleértve a gyanú bejelentését is,
 
-## b) az MgSzH-ban a betegséggel kapcsolatos hatékony vizsgálat elvégzését, annak jelentését és különösen az alábbiakat lehetővé tévő, a betegség korai kimutatására vonatkozó országos rendszer működik:
+## b)[^86] a NÉBIH-ben a betegséggel kapcsolatos hatékony vizsgálat elvégzését, annak jelentését és különösen az alábbiakat lehetővé tévő, a betegség korai kimutatására vonatkozó országos rendszer működik:
 
 ## 1. egy betegség, új betegség, vagy megnövekedett mértékű pusztulás gyanújára utaló klinikai tünetek gyors felismerése a gazdaságokban vagy puhatestű-tenyésztési területeken és a vadon élő állatok között,
 
-## 2.[^52] az esemény gyors közlése a hatósági állatorvos, a járási főállatorvos vagy az MgSzH területi szerve felé abból a célból, hogy a diagnosztikai vizsgálat minimális késedelemmel megkezdődjön.
+## 2.[^87] az esemény gyors közlése a hatósági állatorvos, a járási főállatorvos vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság felé abból a célból, hogy a diagnosztikai vizsgálat minimális késedelemmel megkezdődjön.
 
 ## 1.3. Az 1.2. pont b) alpontjában említett, a betegség korai kimutatására vonatkozó rendszernek legalább a következőket kell tartalmaznia:
 
@@ -32,7 +32,7 @@
 
 ## b) a betegség gyanújának felismerése és bejelentése tekintetében képzett állatorvosok vagy víziállat-egészségügyi szakemberek,
 
-## c) az MgSzH hozzáférése a jegyzékbe vett és az új betegségek diagnosztizálására és megkülönböztetésére alkalmas berendezésekkel felszerelt laboratóriumokhoz.
+## c)[^88] a NÉBIH hozzáférése a jegyzékbe vett és az új betegségek diagnosztizálására és megkülönböztetésére alkalmas berendezésekkel felszerelt laboratóriumokhoz.
 
 ## 2. Célzott felügyelet alapján
 
@@ -68,7 +68,7 @@
 
 ## 1.4. Az az övezet, ahol az utolsó ismert klinikai előfordulást a betegségtől mentes státus alkalmazási időpontját megelőző 10 éven belül észlelték, vagy ahol a célzott felügyeletet megelőző fertőzöttségi állapot – például a betegség klinikai kifejeződéséhez vezető feltételek hiánya miatt – nem ismert, betegségtől mentesnek tekinthető, ha az I. rész 2. pontjában szereplő követelményeknek értelemszerűen megfelel.
 
-## 1.5. Adott esetben az MgSzH Központnak a megfigyelési program végrehajtására szolgáló pufferzónát kell létrehoznia. A pufferzónák határait úgy kell megállapítani, hogy az a betegségtől mentes övezetet megvédje a betegség passzív behurcolásától.
+## 1.5.[^89] Adott esetben a NÉBIH-nek a megfigyelési program végrehajtására szolgáló pufferzónát kell létrehoznia. A pufferzónák határait úgy kell megállapítani, hogy az a betegségtől mentes övezetet megvédje a betegség passzív behurcolásától.
 
 ## 2. Egy vagy több olyan gazdaságból vagy puhatestű-tenyésztési területből álló területi egység, ahol az egészségi állapot egy adott betegséggel kapcsolatban a környező természetes vizek egészségi állapotától függ
 
@@ -80,7 +80,7 @@
 
 ## 2.3. Az az övezet, ahol az utolsó ismert klinikai előfordulást a betegségtől mentes státus alkalmazási időpontját megelőző 10 éven belül észlelték, vagy ahol a célzott felügyeletet megelőző fertőzöttségi állapot – például a betegség klinikai kifejeződéséhez vezető feltételek hiánya miatt – nem ismert, betegségtől mentesnek nyilvánítható, ha az I. rész 2. pontjában található követelményeknek értelemszerűen megfelel.
 
-## 2.4. Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, az egy területi egységen belül elhelyezkedő valamennyi gazdaságot vagy puhatestű-tenyésztési területet az MgSzH területi szerve által bevezetett további intézkedéseknek kell alávetni. Ezen intézkedések magukban foglalhatják a területi egység körül egy megfigyelési program végrehajtására szolgáló pufferzóna létrehozását, valamint a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
+## 2.4.[^90] Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, az egy területi egységen belül elhelyezkedő valamennyi gazdaságot vagy puhatestű-tenyésztési területet az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által bevezetett további intézkedéseknek kell alávetni. Ezen intézkedések magukban foglalhatják a területi egység körül egy megfigyelési program végrehajtására szolgáló pufferzóna létrehozását, valamint a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
 
 ## 3. Egy vagy több olyan önálló gazdaságból álló területi egység, ahol az egészségi állapota az adott betegséggel kapcsolatban független a környező természetes vizek egészségi állapotától
 
@@ -102,7 +102,7 @@
 
 ## 3.5. A területi egységnek értelemszerűen meg kell felelnie az I. rész 2. pontjában megállapított követelményeknek.
 
-## 3.6. Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, a területi egységet az MgSzH területi szerve által meghatározott további intézkedéseknek kell alávetni. Az ilyen intézkedések magukban foglalhatják a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
+## 3.6.[^91] Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, a területi egységet az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által meghatározott további intézkedéseknek kell alávetni. Az ilyen intézkedések magukban foglalhatják a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
 
 ## 3.7. A 3.2. pont a) alpontjára vonatkozó végrehajtási szabályok az 1999/468/EK határozat 5. és 7. cikkében meghatározott eljárással összhangban kerülnek megállapításra.
 
@@ -112,7 +112,7 @@
 
 ## 4.2. Az a gazdaság, amely tevékenységének megszakítását követően betegségtől mentes minősítésű területi egységből származó tenyésztett víziállatokkal kezdi újra tevékenységét, és amely megfelel az e rész 3.1. pontja a) alpontjában és 3.2–3.6. pontjában szereplő követelményeknek, a jóváhagyáshoz szükséges mintavétel elvégzése nélkül betegségtől mentes minősítést kaphat, feltéve hogy:
 
-## a) a gazdaság működésének utolsó négy évére vonatkozó egészségügyi háttere az MgSzH területi szerve számára ismeretes; ha azonban az érintett gazdaság négy évnél kevesebb ideje működik, a működése tényleges időtartamát kell figyelembe venni,
+## a)[^92] a gazdaság működésének utolsó négy évére vonatkozó egészségügyi háttere az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság számára ismeretes; ha azonban az érintett gazdaság négy évnél kevesebb ideje működik, a működése tényleges időtartamát kell figyelembe venni,
 
 ## b) a gazdaságban a 3. számú mellékletben felsorolt betegségek tekintetében állat-egészségügyi intézkedéseket nem hajtottak végre, és a gazdaságban e betegségeknek nincsenek előzményei,
 
@@ -120,5 +120,11 @@
 
 5. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
 
-[^51]: A 4. számú melléklet I. rész 1. pont 1.2. alpont a) alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
-[^52]: A 4. számú melléklet I. rész 1. pont 1.2. alpont b) alpontjának 2. alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
+[^85]: A 4. számú melléklet I. rész 1.2. pont a) alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^86]: A 4. számú melléklet I. rész 1.2. pont b) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § c) pontja szerint módosított szöveg.
+[^87]: A 4. számú melléklet I. rész 1.2. pont b) alpont 2. alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^88]: A 4. számú melléklet I. rész 1.3. pont c) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § d) pontja szerint módosított szöveg.
+[^89]: A 4. számú melléklet II. rész 1.5. pontja az 51/2013. (VI. 17.) VM rendelet 17. § k) pontja szerint módosított szöveg.
+[^90]: A 4. számú melléklet II. rész 2.4. pontja az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^91]: A 4. számú melléklet II. rész 3.6. pontja az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^92]: A 4. számú melléklet II. rész 4.2. pont a) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.

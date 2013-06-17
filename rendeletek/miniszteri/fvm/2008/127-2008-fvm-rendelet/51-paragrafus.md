@@ -12,4 +12,6 @@ b) a kórokozó az országban és természetes vizeiben nem képes életben mara
 
 c) az ország megfelel a 4. számú melléklet I. részében megállapított feltételeknek.
 
-(2) Amennyiben a szomszédos tagállamokat vagy a szomszédos tagállamokkal közös vízgyűjtő területeket nem minősítették betegségtől mentesnek, az MgSzH Központ az ország területén megfelelő pufferzónákat hoz létre. A pufferzónák határait úgy kell kijelölni, hogy azok a betegségtől mentes országot megvédjék a betegség passzív bevitele ellen.
+(2)[^70] Amennyiben a szomszédos tagállamokat vagy a szomszédos tagállamokkal közös vízgyűjtő területeket nem minősítették betegségtől mentesnek, a NÉBIH az ország területén megfelelő pufferzónákat hoz létre. A pufferzónák határait úgy kell kijelölni, hogy azok a betegségtől mentes országot megvédjék a betegség passzív bevitele ellen.
+
+[^70]: Az 51. § (2) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## együttesen kell alkalmazni.
-
 ## Fogalommeghatározások
 
 3. § (1) E rendelet alkalmazásában:
@@ -85,3 +83,5 @@ b) az élelmiszer-higiéniáról szóló, 2004. április 29-i 852/2004/EK európ
 c) a 853/2004/EK rendelet 2. cikke, és
 
 d) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 882/2004/EK rendelet) 2. cikke
+
+szerinti fogalommeghatározásokat is alkalmazni kell.
