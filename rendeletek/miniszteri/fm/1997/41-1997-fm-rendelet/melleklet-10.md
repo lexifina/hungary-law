@@ -1,18 +1,18 @@
 ## 8/a. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^222]
+## az Állategészségügyi Szabályzathoz[^393]
 
 ## 8/b. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^223]
+## az Állategészségügyi Szabályzathoz[^394]
 
 ## 8/c. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^224]
+## az Állategészségügyi Szabályzathoz[^395]
 
 ## 9. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^225]
+## az Állategészségügyi Szabályzathoz[^396]
 
 ## 10. számú függelék
 
@@ -28,10 +28,10 @@ A rakodóhelynek meg kell felelnie az alábbi feltételeknek:
 
 3. Az engedélyezett rakodóhelyen a hatósági állatorvos számára az állatok vizsgálatához, az adminisztráció elvégzéséhez a szükséges feltételeket biztosítani kell (kézmosás, fertőtlenítés, fedett, szükség esetén fűtött helyiség, asztal, szék stb.).
 
-4.[^226] Házinyúlszállítás olyan rakodóhelyről engedélyezhető, ahol a járási főállatorvos ehhez hozzájárult és megteremtették a fertőtlenítés, kézmosás, mérlegelés, hulladék-, szemétgyűjtés lehetőségét, továbbá ezek ártalmatlanításának feltételeit.
+4.[^397] Házinyúlszállítás olyan rakodóhelyről engedélyezhető, ahol a járási főállatorvos ehhez hozzájárult és megteremtették a fertőtlenítés, kézmosás, mérlegelés, hulladék-, szemétgyűjtés lehetőségét, továbbá ezek ártalmatlanításának feltételeit.
 
-[^222]: Az 1. számú melléklet 8/a. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^223]: Az 1. számú melléklet 8/b. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^224]: Az 1. számú melléklet 8/c. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^225]: Az 1. számú melléklet 9. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^226]: Az 1. számú melléklet 10. számú függelék 4. pontja a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.
+[^393]: Az 1. számú melléklet 8/a. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^394]: Az 1. számú melléklet 8/b. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^395]: Az 1. számú melléklet 8/c. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^396]: Az 1. számú melléklet 9. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^397]: Az 1. számú melléklet 10. számú függelék 4. pontja a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.
