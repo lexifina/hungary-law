@@ -338,7 +338,7 @@ Alelnök:
 
 Koszorús László (Fidesz)[^55]
 
-Hegedűs Tamás (Jobbik)[^56]
+Volner János (Jobbik)[^56]
 
 Kovács Tibor (MSZP)[^57]
 
@@ -382,7 +382,7 @@ Tukacs István (MSZP)[^65]
 
 dr. Baja Ferenc (MSZP)
 
-Volner János (Jobbik)[^66]
+Hegedűs Tamás (Jobbik)[^66]
 
 Schön Péter (Jobbik)
 
@@ -1031,7 +1031,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^53]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^54]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^55]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^56]: Az 59/2012. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^56]: A 60/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^57]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
 [^58]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
 [^59]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1041,7 +1041,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^63]: A 111/2010. (XI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^64]: A 26/2010. (V. 25.) OGY határozat 1. pontjával megállapított szöveg.
 [^65]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
-[^66]: Az 59/2012. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^66]: A 60/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^67]: A 78/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^68]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^69]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
