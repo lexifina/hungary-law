@@ -1,0 +1,1 @@
+## „(8) A mezőgazdasági árvízkár vonatkozásában védműnek minősül a belföldi jogsegély keretében a 4. § (5) bekezdés szerinti OVF által kiadott igazolás alapján az árvizek kártételei elleni védekezéshez szükséges vízilétesítmény.”
