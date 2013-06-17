@@ -30,4 +30,6 @@
 
 | Proboscidae (Ormányosok rendje) | Elephantidae | Elephas ssp., Loxodonta ssp. |
 
-2. számú melléklet a 106/2005. (XI. 14.) FVM rendelethez
+2. számú melléklet a 106/2005. (XI. 14.) FVM rendelethez[^3]
+
+[^3]: A 2. számú melléklet az 51/2013. (VI. 17.) VM rendelet 7. § c) pontja szerint módosított szöveg.

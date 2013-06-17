@@ -20,7 +20,7 @@
 
 | Rift-völgyi láz | a betegség nem fordult elő és nem vakcináztak a betegség ellen az utóbbi 12 hónapban | Minden faj, a Suidae családhoz tartozó fajokat kivéve |
 
-| Kéknyelv-betegség | a betegség nem fordult elő és nem vakcináztak a betegség ellen az utóbbi 12 hónapban a Culicoides populáció megfelelő ellenőrzése mellett | Minden faj, kivéve a Suidae családhoz tartozó fajokat |
+| Kéknyelv-betegség | a betegség nem fordult elő és nem vakcináztak a betegség ellen az utóbbi 24 hónapban a Culicoides populáció megfelelő ellenőrzése mellett | A Bos, Bison, Bubalus, Ovis és Capra nemtől, és a Suidae családtól különböző minden egyéb faj |
 
 | Juh- és kecskehimlő | a betegség nem fordult elő és nem vakcináztak a betegség ellen az utóbbi 12 hónapban | Az Ovis és Capra nemekhez tartozó fajok |
 
@@ -32,7 +32,7 @@
 
 3. számú melléklet a 106/2005. (XI. 14.) FVM rendelethez
 
-## Az állat-egészségügyi bizonyítványra vonatkozó előírások
+Az állat-egészségügyi bizonyítványra vonatkozó előírások
 
 1. Az állatszállítmányt kísérő állat-egészségügyi bizonyítványt kiállító, küldő illetékes hatóság képviselőjének alá kell írnia a bizonyítványt és biztosítania kell, hogy azon hivatalos pecsét legyen. Ez vonatkozik a bizonyítvány minden egyes lapjára, ha az egynél több lapból áll.
 
