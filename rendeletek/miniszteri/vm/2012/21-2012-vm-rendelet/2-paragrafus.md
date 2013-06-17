@@ -11,4 +11,4 @@
 (5) Az agrárkár-enyhítési szerv az Mkk. tv. 18. § (2) bekezdés a), b) és e) pontjában meghatározott adattartalommal július 15-éig összefoglaló jelentést küld az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) részére.
 
 [^1]: A 2. § (1) bekezdése a 81/2012. (VII. 30.) VM rendelet 8. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (4) bekezdése a 81/2012. (VII. 30.) VM rendelet 8. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése a 81/2012. (VII. 30.) VM rendelet 8. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 138. §-ával elrendelt módosítás amely szerint „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]

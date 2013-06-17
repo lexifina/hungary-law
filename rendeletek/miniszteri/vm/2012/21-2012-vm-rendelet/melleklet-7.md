@@ -12,6 +12,8 @@
 
 | 2. | Az alábbi táblázat: |
 
+## 2K06183_1
+
 | Termék megnevezése | Betakarított (megművelt) tárgyévi termőföldterület (ha) | Betakarított tárgyévi termésmennyiség (t) | Tárgyévi hozam (termésátlag) (t/ha) | Tárgyévi referenciaár (ezer Ft/t) | Tárgyévi hozamérték (ezer Ft) |
 
 |  |  | A |  | B |  | B/A | C | B×C |
@@ -58,9 +60,11 @@
 
 | 4. | A mezőgazdasági termelő aláírása. |
 
-7. melléklet a 21/2012. (III. 9.) VM rendelethez[^16]
+7. melléklet a 21/2012. (III. 9.) VM rendelethez[^24]
 
 A kárenyhítő juttatás összegének kiszámítása
+
+2K17557O_0
 
 | 1. | A mezőgazdasági termelő azonosító adatai: |
 
@@ -172,4 +176,4 @@ A kárenyhítő juttatás összegének kiszámítása
 
 | 6. | A termelő aláírása. |
 
-[^16]: A 7. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^24]: A 7. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (3) bekezdése szerint módosított szöveg.

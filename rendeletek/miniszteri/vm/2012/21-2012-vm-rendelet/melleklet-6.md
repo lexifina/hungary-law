@@ -1,5 +1,7 @@
 ## A referencia-átlagár kiszámítása
 
+## 2K06182_0
+
 | 1. | A mezőgazdasági termelő azonosító adatai: |
 
 | 1.1. | név |

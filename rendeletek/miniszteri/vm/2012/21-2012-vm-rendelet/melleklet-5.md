@@ -1,5 +1,7 @@
 ## A referenciahozam kiszámítása
 
+## 2K06180_0
+
 | 1. | A mezőgazdasági termelő azonosító adatai: |
 
 | 1.1. | név |

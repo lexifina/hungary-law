@@ -12,6 +12,8 @@
 
 | 2. | Az alábbi táblázat: |
 
+## 2K17557M_1
+
 |  | A mezőgazdasági káreseménnyel érintett terület adatai | A becsült terméskiesés (t) | A fajlagos becsült terméskiesés (t/ha) |
 
 | a MePAR szerinti blokkazonosító és a település megnevezése | a mezőgazdasági káresemény megnevezése | A mezőgazdasági káresemény keletkezésének időpontja, vagy a káresemény időtartama (év, hónap, nap) | a károsodott terület nagysága (ha) |
@@ -172,6 +174,6 @@
 
 | 7. | A mezőgazdasági termelő aláírása. |
 
-2. melléklet a 21/2012. (III. 9.) VM rendelethez[^15]
+2. melléklet a 21/2012. (III. 9.) VM rendelethez[^23]
 
-[^15]: A 2. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^23]: A 2. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (2) bekezdése szerint módosított szöveg.
