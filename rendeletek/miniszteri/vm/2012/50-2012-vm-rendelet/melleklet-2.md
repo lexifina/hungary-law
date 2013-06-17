@@ -1,5 +1,7 @@
 ## A támogatott termékek és a támogatás mértéke
 
+## 2K10014_0
+
 |  | A | B | C | D | E | F |
 
 | Termék megnevezése | Egy adagként kiosztandó mennyiség | A támogatás mértéke (Ft/adag) |
