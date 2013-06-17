@@ -1,4 +1,4 @@
-## 22/A. §[^2] E rendeletnek az egyes iskolai ellátást, valamint a zöldség-gyümölcs ágazat támogatási jogcímeit szabályozó rendeletek módosításáról szóló 31/2013. (V. 2.) VM rendelettel [a továbbiakban: 31/2013. (V. 2.) VM rendelet] megállapított 1. § 9. pont d) alpontját a 31/2013. (V. 2.) VM rendelet hatálybalépésekor[^3] folyamatban lévő ügyekben és eljárásokban is alkalmazni kell.
+## 22/A. §[^5] E rendeletnek az egyes élelmiszerlánc-felügyeleti tárgyú miniszteri rendeletek módosításáról szóló 51/2013. (VI. 17.) VM rendelettel [a továbbiakban: 51/2013. (VI. 17.) VM rendelet] megállapított 12/A. §-át az 51/2013. (VI. 17.) VM rendelet hatályba lépésekor[^6] folyamatban levő, valamint a 2012. évben benyújtott egységes kérelem alapján folyamatban levő, vagy végzéssel megszüntetett eljárásokban is alkalmazni kell.
 
 ## 16. Az Európai Unió jogának való megfelelés
 
@@ -12,5 +12,5 @@ c) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési e
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^2]: A 22/A. §-t a 47/2013. (VI. 7.) VM rendelet 9. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2013. május 3.
+[^5]: Az újabb 22/A. §-t az 51/2013. (VI. 17.) VM rendelet 24. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2013. június 17. 18.00 óra.
