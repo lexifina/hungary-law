@@ -1,6 +1,6 @@
 3. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^28]
 
-## Összesítő kimutatás adattartalma
+Összesítő kimutatás adattartalma
 
 1. A termeltető azonosító adatai:
 
