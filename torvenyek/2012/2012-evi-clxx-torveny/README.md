@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-170-00-00
 | 2013-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-170-00-00.3 |
 | 2013-04-02 | 2010. évi CXXX. törvény | 2012-170-00-00.4 |
 | 2013-06-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-170-00-00.5 |
+| 2013-06-18 | 2010. évi CXXX. törvény | 2012-170-00-00.6 |
